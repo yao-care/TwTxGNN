@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-09T17:57:36.797494+00:00",
-  "count": 41,
+  "fetched_at": "2026-04-09T19:04:17.010161+00:00",
+  "count": 40,
   "news": [
     {
       "id": "36132892ba5a",
@@ -24,6 +24,18 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNWmc0Q0pmQ2JvOUxvaVhmWVRGSWNqOFRsTzRhb2QtbHhhdFg5b2lSSFpBZGl1QU9KZm5lLW9DdnVVaUVKUUhvSHVXRHh4U2l4RjlOVTlFd0Rvd05JcnVWTzVpVE91M2phZ01FMDQ5bjBIUmJ1bWZCaklKUzZqdzF6S29HVThOcDlZYjRZcTlnSmNzdmlacjd6TTBNSjNFSlVGSGtLWWNHcW16b3BmMXVPR0Rpb0xxRWxvSmIzekE1YkN6djBoeW1Sb0dJNjBQSktHUVc0dlRFNXdZLU5BdC1LWFNGVWhnQmlnR095TlJPQXRZRlVtVzdUV2M1UjU0dmFzV1VZWVFLcTZYNmV4YWNKMGkwXy1OUk02S3RUb2hwYW9vS0xDZzZhMVpfZk9PNVJTX0FPWm15dEdzakVRTEhMenJlU0VHc1BvVlozUUJqNG5OLWVWQUhJekRtUVllcDFtbEFHamlPOG9EU1JuUTJHY1M4dTBXanA1cDhSUlpaSnk5eXcxZWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e9b92ea3ae3c",
+      "title": "GLP-1藥物用途超乎減重 心血管、成癮與神經疾病現治療潛力 - 商傳媒",
+      "published": "2026-04-08T04:23:41+00:00",
+      "summary": "GLP-1藥物用途超乎減重 心血管、成癮與神經疾病現治療潛力&nbsp;&nbsp;商傳媒前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNRkRETy1ORUIyUWNrVThPUWFDbkg3QWRnLW9aS2VyQnNxLU9fT1JRcW43N3RBak82QlJFYk5OUW8yRFZNR0V2ekZXQ0VVaTJETlJXTUNNTDFMc2huQjB4TTNydWxWQWJrWDhQVmdHdzRIZ0xHdWhpX2NlYTJ3ajdrX1lxam9fZ2tIWGZSRHZ5MFNBRUpKSDV4RG1TZ1Y5dDZQV01Ta1ZOc2VNcU1vYjlmVWRPZjZ0LVVidW9meG5VMEV2TnAwQndzQnBfYnR1RWN5M3dTVXZYYWtNdU5CaWxpN2t5Y21XelZpclRVUW5idTBoNUxXYnZQdUp0WnYxd3prT2NHZG9xVUl4T21TS3RxQ3lwc21TT0R1bldtMXdzOVo2WWt4TGUyYTdNOE85SGFnLWhHZFNwd3FLdThRQzluSFNwZzNzNlE4ZFBEenNpRVNQdzA3cTFwSVdNeC13NDNBcURObzZxZUx1LWhQWGVJTnFKSEExZ1ZRMGlKODJ0bVgtX0thdEFFMw?oc=5"
         }
       ]
     },
@@ -60,30 +72,6 @@
         {
           "name": "威傳媒新聞",
           "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85SnJwb25TMmk0bS14T2ZyOGQzT0llVGdVX0xwdWZNTnk1VDJzODZKRTAzTHpJRWFBSDZHamJ0aEp4bF94Vl9VckxR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e9b92ea3ae3c",
-      "title": "GLP-1藥物用途超乎減重 心血管、成癮與神經疾病現治療潛力 - 商傳媒",
-      "published": "2026-04-08T04:23:41+00:00",
-      "summary": "GLP-1藥物用途超乎減重 心血管、成癮與神經疾病現治療潛力&nbsp;&nbsp;商傳媒前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNRkRETy1ORUIyUWNrVThPUWFDbkg3QWRnLW9aS2VyQnNxLU9fT1JRcW43N3RBak82QlJFYk5OUW8yRFZNR0V2ekZXQ0VVaTJETlJXTUNNTDFMc2huQjB4TTNydWxWQWJrWDhQVmdHdzRIZ0xHdWhpX2NlYTJ3ajdrX1lxam9fZ2tIWGZSRHZ5MFNBRUpKSDV4RG1TZ1Y5dDZQV01Ta1ZOc2VNcU1vYjlmVWRPZjZ0LVVidW9meG5VMEV2TnAwQndzQnBfYnR1RWN5M3dTVXZYYWtNdU5CaWxpN2t5Y21XelZpclRVUW5idTBoNUxXYnZQdUp0WnYxd3prT2NHZG9xVUl4T21TS3RxQ3lwc21TT0R1bldtMXdzOVo2WWt4TGUyYTdNOE85SGFnLWhHZFNwd3FLdThRQzluSFNwZzNzNlE4ZFBEenNpRVNQdzA3cTFwSVdNeC13NDNBcURObzZxZUx1LWhQWGVJTnFKSEExZ1ZRMGlKODJ0bVgtX0thdEFFMw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2b05fb152aa1",
-      "title": "30歲廚師不甩「帝王病」48歲就洗腎醫嘆：發作一次就危險- 健康 - 中時新聞網",
-      "published": "2026-04-09T05:36:50+00:00",
-      "summary": "30歲廚師不甩「帝王病」48歲就洗腎醫嘆：發作一次就危險- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vNkVsTGxGdEQyaXVGaDFyVTB1MWxVc2ZNcktnYzBJT2Y2S0tGaXNEa3FkT2NodnZJbXZTQ1RRTGcwU0ctb3FZVTI2TEdtLTRfNjV6WnFCN1pER3dMU09BalVfWGctdXlFdF9JWXNB?oc=5"
         }
       ]
     },
@@ -448,18 +436,6 @@
       ]
     },
     {
-      "id": "7dd2cb57768d",
-      "title": "嬰幼兒紅眼症48小時恐致盲？見黃綠膿液即就醫 認清淋球菌風險 - 香港01",
-      "published": "2026-04-08T02:02:00+00:00",
-      "summary": "嬰幼兒紅眼症48小時恐致盲？見黃綠膿液即就醫 認清淋球菌風險&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQWVBubkotMVVpYzFiSWNvUTd5dURad0hCbVZ1ZkJFZjJyeFBGNE9SMFBwQXI3cHFaNnRRTDAzeC1xUVFhQ1Zpem01dG8xVzh3U3JQamtIbkNyMTA1NEMtdktMcFNxTk45a1FrSEpPMEtJZVRMcnVkeEVlWHFHa3hNM2FWTEZsUjJEbmdrYzdOelRIdldkVGZYT0ZtZ0xldV85RkRfM3V0TWZUZURDZEp2cjBRUmRaYUpiaGk2VDBici1iZVZSc3B5NjNTN0QtUFFaaGkwWi1vYURSMzJhUmhfVUY4TV80c3RzaF93RHM3dVpyN3ZyNUYwdlN5cXdzX1FSLUhsRHQwOGJpbEV5RzNxTWVkc3loZElLcGlmOUtmVkxfZzlhSGVwTjNublhsRXFCLXFPVElKSXhIcmtsc3JnTFY1VlFtaGMwQk1PQTQ1bGVGOWp5S3RQeEZ3c01sUU9QdFlUQktfYngyZjYzV3ptcFl4NkNObjVuUG41aW5JZkFObVZ0Ym1hYmVkQkpsVGVmakhsQkFCYTh2VDQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b021813dbac8",
       "title": "黑朱古力越苦越健康？恐誘發偏頭痛？營養師解構黑朱古力功效/減肥食法/副作用 - 星島頭條",
       "published": "2026-04-08T04:30:00+00:00",
@@ -468,6 +444,18 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQTnZibU5aTmVBZ29CY1Qzci0zQl91WHk4VTFzMDZjZzZibHU4S1dXLXZ3d043d0cwYkNnMDlEbDNEa0V4M3pZLXFjaW9SZTlyb2VLbkttT012Z1Q2cm9TcDdkaDdrVVRCZl95QWN4MzZkRzczcVVzcXdTN0lfMDJuYW9WS2RqYkNLZG1BUE1KS1FLYlhVWlZqMm84anpINUd4bUpXbFRKb2Q2MEYwRkJlVGtETTNUS1E3bnY3bjZCQWFYSVlpTmhzbEgzalA0NWMwWm1MUnFUTmtVMV90VTh3Z29SMzdnV2toT1Z3VkVQTU9PcmtyQlJfWDdvamVHTVpNM1kwLVJEenJsd0NBcDFPMGxHUU03X3A0X044NXctZmEyWUxRMHhvRmtEVlE0M1AtZFl1Mlh3TDlTUUtlWU9ma2FGVHM5Wm9NNzFCb1FRcDB4QjBzYlk2aVl1RGlmeGlidUpQTkR2bXhoZ21ETjBLZjNvbkR0NnBCV3BmbjFUU3dzOFZjdk5WeTVQTFJMMUVtNHV4UzVGc2lJLWJYQ1dmZzBhRjhyNUZrbjZ3NmtHdVB6TjhOMFJkS1BCV0tjcHZ5OHpEMnRsMURjbjdVaWtMc1ZfbjJrUEZ2WEQ3b2FmX205TmdiYUVv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7dd2cb57768d",
+      "title": "嬰幼兒紅眼症48小時恐致盲？見黃綠膿液即就醫 認清淋球菌風險 - 香港01",
+      "published": "2026-04-08T02:02:00+00:00",
+      "summary": "嬰幼兒紅眼症48小時恐致盲？見黃綠膿液即就醫 認清淋球菌風險&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQWVBubkotMVVpYzFiSWNvUTd5dURad0hCbVZ1ZkJFZjJyeFBGNE9SMFBwQXI3cHFaNnRRTDAzeC1xUVFhQ1Zpem01dG8xVzh3U3JQamtIbkNyMTA1NEMtdktMcFNxTk45a1FrSEpPMEtJZVRMcnVkeEVlWHFHa3hNM2FWTEZsUjJEbmdrYzdOelRIdldkVGZYT0ZtZ0xldV85RkRfM3V0TWZUZURDZEp2cjBRUmRaYUpiaGk2VDBici1iZVZSc3B5NjNTN0QtUFFaaGkwWi1vYURSMzJhUmhfVUY4TV80c3RzaF93RHM3dVpyN3ZyNUYwdlN5cXdzX1FSLUhsRHQwOGJpbEV5RzNxTWVkc3loZElLcGlmOUtmVkxfZzlhSGVwTjNublhsRXFCLXFPVElKSXhIcmtsc3JnTFY1VlFtaGMwQk1PQTQ1bGVGOWp5S3RQeEZ3c01sUU9QdFlUQktfYngyZjYzV3ptcFl4NkNObjVuUG41aW5JZkFObVZ0Ym1hYmVkQkpsVGVmakhsQkFCYTh2VDQ?oc=5"
         }
       ]
     },
