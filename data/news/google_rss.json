@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-09T21:39:22.737311+00:00",
+  "fetched_at": "2026-04-09T22:32:54.238097+00:00",
   "count": 39,
   "news": [
+    {
+      "id": "11ccc3d897ba",
+      "title": "不再有遺憾！英國牛津大學開發AI預測工具「心臟衰竭」發作前5年精準揪出風險 - ETtoday新聞雲",
+      "published": "2026-04-09T09:35:00+00:00",
+      "summary": "不再有遺憾！英國牛津大學開發AI預測工具「心臟衰竭」發作前5年精準揪出風險&nbsp;&nbsp;ETtoday新聞雲Garmin Venu 4 值得入手嗎？從 HRV 健康監測、智能鬧鐘到80+ 種運動模式，一錶搞定你的生活大小事&nbsp;&nbsp;GQ Taiwan智慧手錶真的能「提前偵測疾病」嗎？穿戴式健康科技你該知道的事&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "ETtoday新聞雲",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fNzFGN0JGZGFtMF8tbjhnU1V3Y0xOb0JKS2Uzc1FwVk9HTkRfRFVDYVlRQlRYcmRBM0o1bHgtcktrX2xBdXZMR0o2MNIBZ0FVX3lxTE51WWRKM0ZJTjZ2ZWhwbGVRRDVtbHZSZVNlS2tkcFN0QXVkYTJkYjFxQ3NuVlA4OUNhZlVRVXRiUy1KbDFWNjlOLVhCLXFqOTN5X0RYOEtyRk5Ia3QzRmFKcmdWQ290ajg?oc=5"
+        }
+      ]
+    },
     {
       "id": "7cb902cd46a7",
       "title": "杜克大學團隊再生醫學新突破 骨關節炎有望擺脫慢性疼痛 - yesmedia.com.tw",
@@ -36,18 +48,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNWmc0Q0pmQ2JvOUxvaVhmWVRGSWNqOFRsTzRhb2QtbHhhdFg5b2lSSFpBZGl1QU9KZm5lLW9DdnVVaUVKUUhvSHVXRHh4U2l4RjlOVTlFd0Rvd05JcnVWTzVpVE91M2phZ01FMDQ5bjBIUmJ1bWZCaklKUzZqdzF6S29HVThOcDlZYjRZcTlnSmNzdmlacjd6TTBNSjNFSlVGSGtLWWNHcW16b3BmMXVPR0Rpb0xxRWxvSmIzekE1YkN6djBoeW1Sb0dJNjBQSktHUVc0dlRFNXdZLU5BdC1LWFNGVWhnQmlnR095TlJPQXRZRlVtVzdUV2M1UjU0dmFzV1VZWVFLcTZYNmV4YWNKMGkwXy1OUk02S3RUb2hwYW9vS0xDZzZhMVpfZk9PNVJTX0FPWm15dEdzakVRTEhMenJlU0VHc1BvVlozUUJqNG5OLWVWQUhJekRtUVllcDFtbEFHamlPOG9EU1JuUTJHY1M4dTBXanA1cDhSUlpaSnk5eXcxZWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "11ccc3d897ba",
-      "title": "不再有遺憾！英國牛津大學開發AI預測工具「心臟衰竭」發作前5年精準揪出風險 - ETtoday新聞雲",
-      "published": "2026-04-09T09:35:00+00:00",
-      "summary": "不再有遺憾！英國牛津大學開發AI預測工具「心臟衰竭」發作前5年精準揪出風險&nbsp;&nbsp;ETtoday新聞雲",
-      "sources": [
-        {
-          "name": "ETtoday新聞雲",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fNzFGN0JGZGFtMF8tbjhnU1V3Y0xOb0JKS2Uzc1FwVk9HTkRfRFVDYVlRQlRYcmRBM0o1bHgtcktrX2xBdXZMR0o2MNIBZ0FVX3lxTE51WWRKM0ZJTjZ2ZWhwbGVRRDVtbHZSZVNlS2tkcFN0QXVkYTJkYjFxQ3NuVlA4OUNhZlVRVXRiUy1KbDFWNjlOLVhCLXFqOTN5X0RYOEtyRk5Ia3QzRmFKcmdWQ290ajg?oc=5"
         }
       ]
     },
@@ -100,18 +100,6 @@
       ]
     },
     {
-      "id": "0184af098b26",
-      "title": "預防流感、病毒感染 曬太陽就有效 - 台視新聞網",
-      "published": "2026-04-09T07:00:14+00:00",
-      "summary": "預防流感、病毒感染 曬太陽就有效&nbsp;&nbsp;台視新聞網預防流感、病毒感染，曬太陽就有效&nbsp;&nbsp;Yahoo新聞健康網》瘦不下來不是吃太多 研究揭維生素D恐不足&nbsp;&nbsp;自由健康網補充維生素D抗癌？醫建議日常補充「這樣吃」才正確- 營養好食&nbsp;&nbsp;TVBS 健康2.0女性更容易缺維生素D？專家揭原因 不是有曬太陽就好&nbsp;&nbsp;台視新聞網",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBENHV2M0R5YUw0eVR2UGxSLWhKeEUxRkk2YzQzTEZud1Q2dk1qMW9vMXlnVmNqMUFSU1ZqSEt3N3pXVHZqelNIOUcxQk00OEtyRjhFcmZwTQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "456fe3242e7e",
       "title": "營養補充劑有用？ 哈佛研究：適當補充 有助延緩生理老化時鐘 - am730",
       "published": "2026-04-08T03:30:00+00:00",
@@ -120,6 +108,18 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDS3Q0NEZKdDR4RWQxMnlGRmtHdVE2V3hKY1dGZEk5aWNEdFhSa0NzOFdOSDlNSFF3ZHRERlJqNzlUT1hOanJ1Tk8wU1Z6MmsyVEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0184af098b26",
+      "title": "預防流感、病毒感染 曬太陽就有效 - 台視新聞網",
+      "published": "2026-04-09T07:00:14+00:00",
+      "summary": "預防流感、病毒感染 曬太陽就有效&nbsp;&nbsp;台視新聞網預防流感、病毒感染，曬太陽就有效&nbsp;&nbsp;Yahoo新聞健康網》瘦不下來不是吃太多 研究揭維生素D恐不足&nbsp;&nbsp;自由健康網補充維生素D抗癌？醫建議日常補充「這樣吃」才正確- 營養好食&nbsp;&nbsp;TVBS 健康2.0女性更容易缺維生素D？專家揭原因 不是有曬太陽就好&nbsp;&nbsp;台視新聞網",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBENHV2M0R5YUw0eVR2UGxSLWhKeEUxRkk2YzQzTEZud1Q2dk1qMW9vMXlnVmNqMUFSU1ZqSEt3N3pXVHZqelNIOUcxQk00OEtyRjhFcmZwTQ?oc=5"
         }
       ]
     },
@@ -244,18 +244,6 @@
       ]
     },
     {
-      "id": "49d45dd01668",
-      "title": "這種食物可以將霍亂感染減少多達 100 倍。 - arch-web.com.tw",
-      "published": "2026-04-08T08:01:22+00:00",
-      "summary": "這種食物可以將霍亂感染減少多達 100 倍。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNWHFVeUIyX0xxcHBnZF9XX0lzMVIyenFKaWNFdU5lb3NHV2VScENfVkQ4N3JrQ25ZM1puTmFQNmpzX3NuRUIxOGRlekUzY0ZDVi1ueU52QVFRVnA3RmJMdUhranBpYlg2MDhVMlFSSXR1aEFXR2Z6UTZzZXVhTlc3M3lvcHZlb0RRaGhrRGxpc05mLXdQRUJhTkdIczMtWU9QWVotZ25IMzJkUzRmUWJfX3FESl9kSGtnZ3F1U0RhWXNTRHA2LW5yR2c2STJlQWU5OEFCSFBycTFSN09RYTV6YTlwUlVhbFhJLVMzNmFUenFELU04cV9JaWlwZW55cTdHellVak5LZ3g4QUhmLVZzcE9qMXQ0SVB4QVZrVzd1MHBrNFZwN2gzdEZnVjVpeGRILUpEdjFDNWFTaExLTFhKX0NpaHRKMDJaVGxWR0dIZ2Q?oc=5"
-        }
-      ]
-    },
-    {
       "id": "580d93835a3e",
       "title": "科學家發現隱藏的腦細胞有助於致命癌症的生長 - arch-web.com.tw",
       "published": "2026-04-08T12:49:10+00:00",
@@ -300,18 +288,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNcmttNmpWOE4xZDlSSjNNejNqeHlYZ21PME1YUURDczF5Vlp0d2RWT1JuMkluX1YtNjdoVHFENUpVcTRRVDZDelVuMXFJaC1DMDJZNTlfdGd1RXdwVUJNR1dwMGtiY19NZ3RLWFhMMVNXUmdvQzBEcGtIUDZsMV9lTlBzd2NPWG1DcDROQmduWmNNUTYzOGpJZDhzLU1VSVFRd0Y3U3BoQkFrQ2VCaVZMcU56Vkg3VFc0bmJwbEEyTVFjZktBTGxKUlJtb3ROVG1OUy16Tkl3RVpfSUVnMGtFVHBpQnNrdWQwX3FxVGhSRHlLa2wzckZuRzEtbnE3MW9QaVBWeDlVNzNEdFk3X0RLUUtXUnpSWm9VQWFadGFxTHRRN3M3bUdrVi1qclZLM0pnWW1CNjRKQ2pjRkpRV2VYWHNxdlgwd0pqOVJoZFdDTFM2UWNKb1lSV2dLUXgwZi0z?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "81a58796e34f",
-      "title": "低磁場MRI技術突破為全球失智症診斷與照護帶來新希望 - GeneOnline News",
-      "published": "2026-04-07T23:28:56+00:00",
-      "summary": "低磁場MRI技術突破為全球失智症診斷與照護帶來新希望&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPcF9uX0FCNDFDVmtVa0hocGt2ZHR2N2NKbzJxN3UxYVc5VlhCMW4xUHFlS3NnNm90ZERYT2w1VGZKc3NTYUR0dTlKamVsSlpiT0Mza2Ribm44Nmo1N0pQR0ExT3JfS3pIdlhIek1rdmVnR2tCSGRuU3NPRlVpc3JRcWpoalB5S3hrV3RfNW53eXlBMl9rbjBOcV8yUU1CdVF5QlRTLWlDRF9SQ3l3SEFKYmRwZHZLc3g3SnRKeWJPOW5FTE85eWpRdk9DSnU2Y29ia05FNkVFQU02TEVGb2lNVGZCeU41WVc2a2I5RXlHTmtPeWdZYzItaS0yX1dEVUlSRWNTWkdpWTZLNDd6cXl5MHp4b3J5T1Z2OV9DZkRiRUxuQklPa05uS01FOXdhcGxlRzJIWnpUMXhVS1NkdVE?oc=5"
         }
       ]
     },
@@ -364,6 +340,18 @@
       ]
     },
     {
+      "id": "81a58796e34f",
+      "title": "低磁場MRI技術突破為全球失智症診斷與照護帶來新希望 - GeneOnline News",
+      "published": "2026-04-07T23:28:56+00:00",
+      "summary": "低磁場MRI技術突破為全球失智症診斷與照護帶來新希望&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPcF9uX0FCNDFDVmtVa0hocGt2ZHR2N2NKbzJxN3UxYVc5VlhCMW4xUHFlS3NnNm90ZERYT2w1VGZKc3NTYUR0dTlKamVsSlpiT0Mza2Ribm44Nmo1N0pQR0ExT3JfS3pIdlhIek1rdmVnR2tCSGRuU3NPRlVpc3JRcWpoalB5S3hrV3RfNW53eXlBMl9rbjBOcV8yUU1CdVF5QlRTLWlDRF9SQ3l3SEFKYmRwZHZLc3g3SnRKeWJPOW5FTE85eWpRdk9DSnU2Y29ia05FNkVFQU02TEVGb2lNVGZCeU41WVc2a2I5RXlHTmtPeWdZYzItaS0yX1dEVUlSRWNTWkdpWTZLNDd6cXl5MHp4b3J5T1Z2OV9DZkRiRUxuQklPa05uS01FOXdhcGxlRzJIWnpUMXhVS1NkdVE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "03630b58ffec",
       "title": "醫度問．醫度答 往期醫生回覆｜收集大家健康疑問！TOPick記者幫你問專家！【馬上提交問題】 - 香港經濟日報HKET",
       "published": "2026-04-09T06:11:17+00:00",
@@ -372,18 +360,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMivwRBVV95cUxOUTI0NnpZQndXaXJXSVZyVmZ1MF9KUmlIWGcyblpCOTRDcm1qZmYwUEhYSTNUNjktNm1MLWhINjJfcDNrbDFMaFRzMjJFd25hU2FoUW04SFdsY0NhTXE3SmhBYU1OSDNqYkxMaElvV3JlVWlwZG8wdW9zZU9DcWhSY05CdFpuOW1KRjhVMGJ5blVUMWxVbkdQNUd6Wnppc0VMZFJXa2x1TXpoMWFoSGszbGFHd3M0N01MbS1aVV85Wng5b09JbUhRQkZzenFub3FyS3VQeDc1OFZkSWFvUUozeEhxNUFBZVlKbWZuOGY0bU80MzJrTXRkRndSeGhJSXJqX1BFclhqY3dGcl9QMUVkNDAxRjdaRWxYbWJPYnpTX3Y2dTZPaHg1S1FLSEplRzhWQktPMlV2WEhMN1dUdV85MG5tSy1YV3A4RkItbXp3LTcwZVFSWThsT2dpYUJoZHJ1aExzVXlSMEZzQ0JZelJaT29MN1gzckhlQTlJTU8wTDhpNGhGOUJBTHI2cURhWE5vSE5NZDJKZm5SSktybUdkZERCT2drVTVralI0SWpIRVJDMThxdzRndUtKcGx1NHVvalF3R2R1aHoyYnhEbVJ3TElwOU13NHVhWEFFNFYwSDVZOTVRUUdWSmdra0tuOU14SjlIUDZzWHkzZU9vTkxTNENZdXZCM3lzOHliZTYxeHNTTFNDUE94NHRPeVhZakVJOHJvM1U1MzFQUHV4UVlIWGlrYXRnMkZwcmdPVnB1cw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0d5b6be9103a",
-      "title": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高 - 大紀元",
-      "published": "2026-04-07T22:31:00+00:00",
-      "summary": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高&nbsp;&nbsp;大紀元洛縣斑疹傷寒病例新高 近九成需住院&nbsp;&nbsp;世界新聞網洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PMzdicm14ZlY2c2NGRjEzUTA4LTcxQ0tQUGtuU1N4Q2lxNzhweEdUMlFzZFVUcXZDV2dUSElMNEQ0eVl6NVFtSXY3NVlpR1JzUDNhN2c1ajN0T3Y0RHRj0gFkQVVfeXFMUGtieHozeWZUWWNCeUUzOHlodVVJZ1BadUtQTWVVdWtyRGxPUTU3bnY2UEVLeEZ0bE85WjhjQWFCd0tydjBZanlQaXN3Zk45NnJlMEQ0ZzJxSU9iTFFfWGo5NG42Uw?oc=5"
         }
       ]
     },
@@ -420,6 +396,18 @@
         {
           "name": "Sundaykiss",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQX3hfMDNRNk9QYjlQa3oySVp2QXhQQzNCbFE5ajk3REd3akRhaFJJVElfMkdHaUt4S1lJaExpMldabE1FT25fZC1UU094Sms0eWlHekFsMkpSODdBRGZYcXZWdTZrZ2NYNzJRUVFOMFZZUWVQV3BESWhLcFRVaThmSm9laExoTHI0dVF4bGZUTHVTdUF2MnBvQ0lZaTVsUTZBb3ZoYnl1N01QT2duRnZzWVgwUWVGbm5lSGdNZVFEVk5xNkw5eG8wOGM5cXZwczQzQk5VOTcySGJibHlPSDR6anB2MjgxZ0dIMmUtMEZUemdpV3p3Tl9kNWF6WFN5ZU5nVEF6ek9SamZQc0ZoVHNSczd1WDMybEN0Vnk1b3R5ZHQ4NTNtVURQOG0zbmpIb2czbjc0Q1lzU05tVnlVWWd6cFV3LVd4VlNM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1cad531996c0",
+      "title": "防癌不靠飲食/運動？28萬人研究揭多接觸1類環境 子宮癌風險降2成 - singtao.ca",
+      "published": "2026-04-09T14:28:06+00:00",
+      "summary": "防癌不靠飲食/運動？28萬人研究揭多接觸1類環境 子宮癌風險降2成&nbsp;&nbsp;singtao.ca",
+      "sources": [
+        {
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPMklnUW9oNzZqOGx3ZkVCcWVhZFJtRnM1NG5ROUhNOHVNbkcweHBhSVJUQkFWS1M3ZE40Nzg3QnlUdG8zZGF2cVg2R3d0YkNlVl95R043QkZiTUNCZ2VQMFVOMHpiSXJ1c2Z1NGZhYmNqTEZmOW5wTmtwTW91allHalF4OUlVaWQyMkV0cVNWSXh2aTZrNHR4UnZ6Nng2ME1mcEZPbkVjNlBIQTJwR0xCMDRJRDFtMGhXWXdhTzVLNmZZRzA5TzZOdy02bGhoY0ZzUW5JVzExbVVUclpTM0dlUnFCYkkxYkh6eEtFNHZQMjN2SHVHUUlWV25WUmNLV2QtcGFMWEl2NkZMeDktSnBvR2lyRXhFdmlfb19lalBkZFJpVHFnUGlISGE1RkxLbGtZNzBhSThvMU4wYWo5ZWk0MEZ5SFhfZ2Nac0NNYXczaVhwS3dkS1lGYWhJLXFLb1hleDNjbm40MmI5N2lrdzZuWkVzdlZQeDNsRkV2Y1luRXZod2tGaWhmYzRXTzJaZGlZSzlVckdLREpxNjZiR2lkclpfQ1dtR1k0UG1v0gGPAUFVX3lxTE5VN0huVF9kQVBRRU0zSHhyTjFuV19oWGpjbGNiRmxsYWctVWpYblhBWWN1RDR0VDVZWWRKMmNFX3BaeWZLd3E3SHVYdDBNRURJWWQyOE9QRDBPRkVQdjMzUENBOVA2bDcxVkl4QXlRS1g3aXFNSXlMOWl2Z19UbHoxbHFLZVZaLXV1cUF6WFRv?oc=5"
         }
       ]
     },
@@ -468,6 +456,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02QS1CRF9YRnpqdkxWdWk4eFZNcEJ5OHRiODVpZW1jSVhHM05yZXBfNTlQb2xpMzQzZW92OU9vSzZxOFVZYVFCa3hoampWanhnZWZMSU1oRmI4VTlIUDIyQy1NSVXSAWpBVV95cUxPRjhLc0E3eWx2bzI4dmFueWlGc1FYNzZueTE4MzJZRTJfeG1GN3I5WlZQRGJHQzdTX3djN1diXy1UNzBjUlQyd1RuZmxiMVBqbG5HOEVVM3cxeVQ5YTZwWkt6WGgxaGZyaUNn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0d5b6be9103a",
+      "title": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高 - 大紀元",
+      "published": "2026-04-07T22:31:00+00:00",
+      "summary": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高&nbsp;&nbsp;大紀元洛縣斑疹傷寒病例新高 近九成需住院&nbsp;&nbsp;世界新聞網洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PMzdicm14ZlY2c2NGRjEzUTA4LTcxQ0tQUGtuU1N4Q2lxNzhweEdUMlFzZFVUcXZDV2dUSElMNEQ0eVl6NVFtSXY3NVlpR1JzUDNhN2c1ajN0T3Y0RHRj0gFkQVVfeXFMUGtieHozeWZUWWNCeUUzOHlodVVJZ1BadUtQTWVVdWtyRGxPUTU3bnY2UEVLeEZ0bE85WjhjQWFCd0tydjBZanlQaXN3Zk45NnJlMEQ0ZzJxSU9iTFFfWGo5NG42Uw?oc=5"
         }
       ]
     }
