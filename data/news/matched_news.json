@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-09T19:04:20.775988+00:00",
-  "total_count": 41,
+  "last_updated": "2026-04-09T20:40:32.634715+00:00",
+  "total_count": 40,
   "matched_count": 15,
   "news": [
     {
@@ -371,14 +371,14 @@
       ]
     },
     {
-      "id": "a1bb99101376",
+      "id": "340ae4121f46",
       "title": "保健》3C時代手部易過勞 醫曝4大守則",
       "published": "2026-04-08T20:10:00+00:00",
-      "summary": "保健》3C時代手部易過勞 醫曝4大守則&nbsp;&nbsp;中時新聞網",
+      "summary": "保健》3C時代手部易過勞 醫曝4大守則&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94M01zLVJOVlJvTU5uTWdlNnQxZlhRMEJtMW5CdDRPTUVVUzJRakUtVWNzNjRlaWJYMXRNdGxMckJ6THhSVGZzWGYydldqWGNaTFB3MG9WbmRhOGJNYkc5UV9Tc1V3Wk9yMzBB?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUnZHR1hENlVXZ2liaUV3Y2NDTHJ2MmVFWmE3Z2E4cXlYNTRGZlQzRDR0U3JQNXJELXZ0QW42VW84MGxWRHpXRS1QMUJFMThlMmprdFFYdXZzUlVJMEJaakFuZWpRS0QxRk9LOFBycXVKUWt4NDYzSWxYVVRwZ08zYVA0U21PZjh6azRRb1lxWnJIcUt5TDBmaUhibXV0bk00XzIzeDkyczcwTkFaMExQTnFwZk94eWM2TXV4bUhoYnExY2hhdnZKOUFXTmdfbVZYeG1VUUR3Z2puTHh0RzB4bGptU0FKaWw2RnBXTnphMW5VWnJDc2EwMEhfM1VySFVIVFE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -971,6 +971,39 @@
       ]
     },
     {
+      "id": "5520901575ca",
+      "title": "鮮為人知的水果「迷你奇異果」，可能有助預防肺癌| 雜誌",
+      "published": "2026-04-08T04:48:25+00:00",
+      "summary": "鮮為人知的水果「迷你奇異果」，可能有助預防肺癌| 雜誌&nbsp;&nbsp;聯合新聞網",
+      "sources": [
+        {
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40elZrZXRWRkRIODVSeHRvMlJZSkVQOUpZdWpDRTkxZlBMYzVCSHNORHpVaUhGMnJsMzBYY3dFMlZhclFsb0Z6eXY0bHBSSHRO?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "d22589e17640",
       "title": "麻疹疫情致百童死亡 孟加拉急推疫苗接種",
       "published": "2026-04-08T04:41:00+00:00",
@@ -995,31 +1028,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "e9b92ea3ae3c",
-      "title": "GLP-1藥物用途超乎減重 心血管、成癮與神經疾病現治療潛力",
-      "published": "2026-04-08T04:23:41+00:00",
-      "summary": "GLP-1藥物用途超乎減重 心血管、成癮與神經疾病現治療潛力&nbsp;&nbsp;商傳媒前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNRkRETy1ORUIyUWNrVThPUWFDbkg3QWRnLW9aS2VyQnNxLU9fT1JRcW43N3RBak82QlJFYk5OUW8yRFZNR0V2ekZXQ0VVaTJETlJXTUNNTDFMc2huQjB4TTNydWxWQWJrWDhQVmdHdzRIZ0xHdWhpX2NlYTJ3ajdrX1lxam9fZ2tIWGZSRHZ5MFNBRUpKSDV4RG1TZ1Y5dDZQV01Ta1ZOc2VNcU1vYjlmVWRPZjZ0LVVidW9meG5VMEV2TnAwQndzQnBfYnR1RWN5M3dTVXZYYWtNdU5CaWxpN2t5Y21XelZpclRVUW5idTBoNUxXYnZQdUp0WnYxd3prT2NHZG9xVUl4T21TS3RxQ3lwc21TT0R1bldtMXdzOVo2WWt4TGUyYTdNOE85SGFnLWhHZFNwd3FLdThRQzluSFNwZzNzNlE4ZFBEenNpRVNQdzA3cTFwSVdNeC13NDNBcURObzZxZUx1LWhQWGVJTnFKSEExZ1ZRMGlKODJ0bVgtX0thdEFFMw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "1d5ba2ea2986",
@@ -1118,19 +1126,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "a77428e7cf6a",
-      "title": "與環境和社會因素相關的大腦老化風險增加九倍：主要研究，EHealthworld",
-      "published": "2026-04-08T02:02:25+00:00",
-      "summary": "與環境和社會因素相關的大腦老化風險增加九倍：主要研究，EHealthworld&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPZ3haUlN1d01aSS1wRWtLNkV1UGEzZ205ZFEtYWxCWFowWVUwa0x1MS1yRUdoc0ZFOFdWYUpGZVJybFlEY1N3SU5QMTNBaDBMU2FDUzU3Z3hVRnZ6dDNOSjdDanE3OWtqOGZETzQtbEhxVDI1Q1l4R0Y2OTNmblZrcms4MjFlbXNlZUVMektYbXJuRzhCQV8zN1drcHJBcmp5dTJHY1JGbDdidkE5bjA3RlpEdnU2ak9pOUk2QWJkalU1aV9JX29MS0pNUTN1ekZiazNQbVFSZ1NKc0Vwdk4tOENHTWJWT08yeFRzTUZkZUV0bGRzU01rWmk2b3Rab3lqOGx2b1lSeWFzbnV0YVROdlAyZmktdjFmenJwVXVhUWNxTVV5ZHgtVlVvNzdWdUxPc1JDdXU4QzJHZ05QZzhEeFVmbjUwdWRuOHFIT1pQal9WcGpsVVY0a185b0xTSFEyRGNncFdn?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "7dd2cb57768d",

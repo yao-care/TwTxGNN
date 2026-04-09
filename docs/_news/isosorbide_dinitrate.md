@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [GLP-1藥物用途超乎減重 心血管、成癮與神經疾病現治療潛力](https://news.google.com/rss/articles/CBMiiANBVV95cUxNRkRETy1ORUIyUWNrVThPUWFDbkg3QWRnLW9aS2VyQnNxLU9fT1JRcW43N3RBak82QlJFYk5OUW8yRFZNR0V2ekZXQ0VVaTJETlJXTUNNTDFMc2huQjB4TTNydWxWQWJrWDhQVmdHdzRIZ0xHdWhpX2NlYTJ3ajdrX1lxam9fZ2tIWGZSRHZ5MFNBRUpKSDV4RG1TZ1Y5dDZQV01Ta1ZOc2VNcU1vYjlmVWRPZjZ0LVVidW9meG5VMEV2TnAwQndzQnBfYnR1RWN5M3dTVXZYYWtNdU5CaWxpN2t5Y21XelZpclRVUW5idTBoNUxXYnZQdUp0WnYxd3prT2NHZG9xVUl4T21TS3RxQ3lwc21TT0R1bldtMXdzOVo2WWt4TGUyYTdNOE85SGFnLWhHZFNwd3FLdThRQzluSFNwZzNzNlE4ZFBEenNpRVNQdzA3cTFwSVdNeC13NDNBcURObzZxZUx1LWhQWGVJTnFKSEExZ1ZRMGlKODJ0bVgtX0thdEFFMw?oc=5)
-
-2026-04-08 <span class="news-indication-tag">心血管</span>
-
-來源：[商傳媒](https://news.google.com/rss/articles/CBMiiANBVV95cUxNRkRETy1ORUIyUWNrVThPUWFDbkg3QWRnLW9aS2VyQnNxLU9fT1JRcW43N3RBak82QlJFYk5OUW8yRFZNR0V2ekZXQ0VVaTJETlJXTUNNTDFMc2huQjB4TTNydWxWQWJrWDhQVmdHdzRIZ0xHdWhpX2NlYTJ3ajdrX1lxam9fZ2tIWGZSRHZ5MFNBRUpKSDV4RG1TZ1Y5dDZQV01Ta1ZOc2VNcU1vYjlmVWRPZjZ0LVVidW9meG5VMEV2TnAwQndzQnBfYnR1RWN5M3dTVXZYYWtNdU5CaWxpN2t5Y21XelZpclRVUW5idTBoNUxXYnZQdUp0WnYxd3prT2NHZG9xVUl4T21TS3RxQ3lwc21TT0R1bldtMXdzOVo2WWt4TGUyYTdNOE85SGFnLWhHZFNwd3FLdThRQzluSFNwZzNzNlE4ZFBEenNpRVNQdzA3cTFwSVdNeC13NDNBcURObzZxZUx1LWhQWGVJTnFKSEExZ1ZRMGlKODJ0bVgtX0thdEFFMw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-09T19:04:17.010161+00:00",
-  "count": 40,
+  "fetched_at": "2026-04-09T20:40:27.461722+00:00",
+  "count": 39,
   "news": [
+    {
+      "id": "7cb902cd46a7",
+      "title": "杜克大學團隊再生醫學新突破 骨關節炎有望擺脫慢性疼痛 - yesmedia.com.tw",
+      "published": "2026-04-08T06:31:52+00:00",
+      "summary": "杜克大學團隊再生醫學新突破 骨關節炎有望擺脫慢性疼痛&nbsp;&nbsp;yesmedia.com.tw前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPd2M0MEtwQjBLRlc0LVZGOUFvdTl0dUpNMXVWR3Y3c0pxdmt1M2llcmRjM0Q4ZU5QY3dhc1dzaURXNXFlQUNrVkFDNWNuS1ZFR19IRnEtYkJhUVFia0hyajNQN09hNmd6cmQ3YnB0RFNuTElCMHVYZmlmYkMyVUktQnFVUE5NMGlicHZJZUhQdXRvajJpVEw3ekpxX1FDdjZibk1IQTcyNTNrWDZmNFVCVW9SMkM2N3ZkUk11NllvWEFUN1VVbzhVQ01ZTFFVcTJKSHN4aTNzQWpwMWw3cnJHelZkby01eEhGRTNZVFhXYUl2MUppQUNWRmVXZnVqRGJUREJNSVBwUE81bDZZY18yUHprWFVHckJodDRBX2sxZldDWmp6bXFyc2ktTlNvSVZmMlRTaElTa3diWnhLbXBhR0I4b24yWFl2UVljag?oc=5"
+        }
+      ]
+    },
     {
       "id": "36132892ba5a",
       "title": "科學家發現 ALS 和癡呆症背後隱藏的腸道觸發因素 - arch-web.com.tw",
@@ -24,30 +36,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNWmc0Q0pmQ2JvOUxvaVhmWVRGSWNqOFRsTzRhb2QtbHhhdFg5b2lSSFpBZGl1QU9KZm5lLW9DdnVVaUVKUUhvSHVXRHh4U2l4RjlOVTlFd0Rvd05JcnVWTzVpVE91M2phZ01FMDQ5bjBIUmJ1bWZCaklKUzZqdzF6S29HVThOcDlZYjRZcTlnSmNzdmlacjd6TTBNSjNFSlVGSGtLWWNHcW16b3BmMXVPR0Rpb0xxRWxvSmIzekE1YkN6djBoeW1Sb0dJNjBQSktHUVc0dlRFNXdZLU5BdC1LWFNGVWhnQmlnR095TlJPQXRZRlVtVzdUV2M1UjU0dmFzV1VZWVFLcTZYNmV4YWNKMGkwXy1OUk02S3RUb2hwYW9vS0xDZzZhMVpfZk9PNVJTX0FPWm15dEdzakVRTEhMenJlU0VHc1BvVlozUUJqNG5OLWVWQUhJekRtUVllcDFtbEFHamlPOG9EU1JuUTJHY1M4dTBXanA1cDhSUlpaSnk5eXcxZWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e9b92ea3ae3c",
-      "title": "GLP-1藥物用途超乎減重 心血管、成癮與神經疾病現治療潛力 - 商傳媒",
-      "published": "2026-04-08T04:23:41+00:00",
-      "summary": "GLP-1藥物用途超乎減重 心血管、成癮與神經疾病現治療潛力&nbsp;&nbsp;商傳媒前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNRkRETy1ORUIyUWNrVThPUWFDbkg3QWRnLW9aS2VyQnNxLU9fT1JRcW43N3RBak82QlJFYk5OUW8yRFZNR0V2ekZXQ0VVaTJETlJXTUNNTDFMc2huQjB4TTNydWxWQWJrWDhQVmdHdzRIZ0xHdWhpX2NlYTJ3ajdrX1lxam9fZ2tIWGZSRHZ5MFNBRUpKSDV4RG1TZ1Y5dDZQV01Ta1ZOc2VNcU1vYjlmVWRPZjZ0LVVidW9meG5VMEV2TnAwQndzQnBfYnR1RWN5M3dTVXZYYWtNdU5CaWxpN2t5Y21XelZpclRVUW5idTBoNUxXYnZQdUp0WnYxd3prT2NHZG9xVUl4T21TS3RxQ3lwc21TT0R1bldtMXdzOVo2WWt4TGUyYTdNOE85SGFnLWhHZFNwd3FLdThRQzluSFNwZzNzNlE4ZFBEenNpRVNQdzA3cTFwSVdNeC13NDNBcURObzZxZUx1LWhQWGVJTnFKSEExZ1ZRMGlKODJ0bVgtX0thdEFFMw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7cb902cd46a7",
-      "title": "杜克大學團隊再生醫學新突破 骨關節炎有望擺脫慢性疼痛 - yesmedia.com.tw",
-      "published": "2026-04-08T06:31:52+00:00",
-      "summary": "杜克大學團隊再生醫學新突破 骨關節炎有望擺脫慢性疼痛&nbsp;&nbsp;yesmedia.com.tw前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPd2M0MEtwQjBLRlc0LVZGOUFvdTl0dUpNMXVWR3Y3c0pxdmt1M2llcmRjM0Q4ZU5QY3dhc1dzaURXNXFlQUNrVkFDNWNuS1ZFR19IRnEtYkJhUVFia0hyajNQN09hNmd6cmQ3YnB0RFNuTElCMHVYZmlmYkMyVUktQnFVUE5NMGlicHZJZUhQdXRvajJpVEw3ekpxX1FDdjZibk1IQTcyNTNrWDZmNFVCVW9SMkM2N3ZkUk11NllvWEFUN1VVbzhVQ01ZTFFVcTJKSHN4aTNzQWpwMWw3cnJHelZkby01eEhGRTNZVFhXYUl2MUppQUNWRmVXZnVqRGJUREJNSVBwUE81bDZZY18yUHprWFVHckJodDRBX2sxZldDWmp6bXFyc2ktTlNvSVZmMlRTaElTa3diWnhLbXBhR0I4b24yWFl2UVljag?oc=5"
         }
       ]
     },
@@ -76,18 +64,6 @@
       ]
     },
     {
-      "id": "3c9faa3f398e",
-      "title": "身體清理死細胞時 病毒竟躲進「殘骸」擴散感染 - 自由健康網",
-      "published": "2026-04-09T04:54:00+00:00",
-      "summary": "身體清理死細胞時 病毒竟躲進「殘骸」擴散感染&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIbm9wQ25WT2J1U1BnVVhVWUt4M09vc01IZVcyWkNGSHE4Mzl3cTRLV1JEX1IyT2lwWVE2RDV3ZXNseU5BUDdwWjFfZ2NRNDJXTXVRd28zcUhVX29WVk1ybXYtMkvSAWpBVV95cUxNTDVtZDJnUEItOEFIbm50aHVpbXRBQXl0aUU3dHg5a1k3ZXdMRzQ2UWRWVlZ5UzBPMjJuQUxhZjUwOVFfN1RFX0QtclZ6VlYwWVduZGlwbllsbEVRSDFtRFZRYktLdkNjbXhn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0b9502bbddca",
       "title": "科學家們剛剛實時觀察到阿茲海默症造成的損害發生 - citytimes.tw",
       "published": "2026-04-08T02:26:48+00:00",
@@ -96,6 +72,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxONzRFem1Yb08wdkdGTEVIZnJGX3FRWFBhaFJLbDYwTWljSUFzNHA0dFJZdDZWbG9IcEZlYWJ2WFpnWUlOSlBZczk3T3BmVVR4TkllMzJzb2M4bWQ4cUZOMUxuUVJudVhTeGcycW1vVzZwZTc5dFNYYWdlM0p2aUpEbU1ycm5VM2VWMEhLa3IySWJTMUE3NERsRmNoRDkxWTA2Q1ZseWxjSGktOEdaRVZ2RlYxeWFKSEtpcGhUOTc4MnJBTEZsWm1nbTN1ZjItek5YdG1SbFV2Q0lJRXdhemYzMld1UHVJU0dyeHRBZ192UUpCSmx4WnY4NXlNX1VtQ3hXS1FNakR4TmhKbllZWGZjYThMUWtvc0wtbkU2dTJZY1B4Z0JsaG1yU0QzRFBmVUtsY1VWUzlqWkRINkE2bkQ3WXlaMTZidmwyT2dkcmI3TjRoa0dzWGZwRHVKcXZPd0VFWGVPdFdn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3c9faa3f398e",
+      "title": "身體清理死細胞時 病毒竟躲進「殘骸」擴散感染 - 自由健康網",
+      "published": "2026-04-09T04:54:00+00:00",
+      "summary": "身體清理死細胞時 病毒竟躲進「殘骸」擴散感染&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIbm9wQ25WT2J1U1BnVVhVWUt4M09vc01IZVcyWkNGSHE4Mzl3cTRLV1JEX1IyT2lwWVE2RDV3ZXNseU5BUDdwWjFfZ2NRNDJXTXVRd28zcUhVX29WVk1ybXYtMkvSAWpBVV95cUxNTDVtZDJnUEItOEFIbm50aHVpbXRBQXl0aUU3dHg5a1k3ZXdMRzQ2UWRWVlZ5UzBPMjJuQUxhZjUwOVFfN1RFX0QtclZ6VlYwWVduZGlwbllsbEVRSDFtRFZRYktLdkNjbXhn?oc=5"
         }
       ]
     },
@@ -124,18 +112,6 @@
       ]
     },
     {
-      "id": "33596c65c204",
-      "title": "上海國有資本直投 全球首款癲癇細胞藥物獲中美雙批 - 人民网-上海频道",
-      "published": "2026-04-09T01:42:00+00:00",
-      "summary": "上海國有資本直投 全球首款癲癇細胞藥物獲中美雙批&nbsp;&nbsp;人民网-上海频道陸「藥物難治性癲癇」治療研究突破 新藥獲中美雙臨床試驗批准&nbsp;&nbsp;ETtoday新聞雲",
-      "sources": [
-        {
-          "name": "人民网-上海频道",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91dG02V1JfYm5KOXZJVXlXMFRrSzNlSXhVbmlEU3BQNHprb0N3ekFXSktYRGc5enM4aWlNWEdVZEdmVFA3UGh3UVkyQkdzcFRmU25RamdOOG5WVk5ubEYtNDZTNlBoVVB4TUFLbzREYmQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "456fe3242e7e",
       "title": "營養補充劑有用？ 哈佛研究：適當補充 有助延緩生理老化時鐘 - am730",
       "published": "2026-04-08T03:30:00+00:00",
@@ -148,14 +124,26 @@
       ]
     },
     {
-      "id": "a1bb99101376",
-      "title": "保健》3C時代手部易過勞 醫曝4大守則 - 中時新聞網",
-      "published": "2026-04-08T20:10:00+00:00",
-      "summary": "保健》3C時代手部易過勞 醫曝4大守則&nbsp;&nbsp;中時新聞網",
+      "id": "33596c65c204",
+      "title": "上海國有資本直投 全球首款癲癇細胞藥物獲中美雙批 - 人民网-上海频道",
+      "published": "2026-04-09T01:42:00+00:00",
+      "summary": "上海國有資本直投 全球首款癲癇細胞藥物獲中美雙批&nbsp;&nbsp;人民网-上海频道陸「藥物難治性癲癇」治療研究突破 新藥獲中美雙臨床試驗批准&nbsp;&nbsp;ETtoday新聞雲",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94M01zLVJOVlJvTU5uTWdlNnQxZlhRMEJtMW5CdDRPTUVVUzJRakUtVWNzNjRlaWJYMXRNdGxMckJ6THhSVGZzWGYydldqWGNaTFB3MG9WbmRhOGJNYkc5UV9Tc1V3Wk9yMzBB?oc=5"
+          "name": "人民网-上海频道",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91dG02V1JfYm5KOXZJVXlXMFRrSzNlSXhVbmlEU3BQNHprb0N3ekFXSktYRGc5enM4aWlNWEdVZEdmVFA3UGh3UVkyQkdzcFRmU25RamdOOG5WVk5ubEYtNDZTNlBoVVB4TUFLbzREYmQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "340ae4121f46",
+      "title": "保健》3C時代手部易過勞 醫曝4大守則 - Yahoo新聞",
+      "published": "2026-04-08T20:10:00+00:00",
+      "summary": "保健》3C時代手部易過勞 醫曝4大守則&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUnZHR1hENlVXZ2liaUV3Y2NDTHJ2MmVFWmE3Z2E4cXlYNTRGZlQzRDR0U3JQNXJELXZ0QW42VW84MGxWRHpXRS1QMUJFMThlMmprdFFYdXZzUlVJMEJaakFuZWpRS0QxRk9LOFBycXVKUWt4NDYzSWxYVVRwZ08zYVA0U21PZjh6azRRb1lxWnJIcUt5TDBmaUhibXV0bk00XzIzeDkyczcwTkFaMExQTnFwZk94eWM2TXV4bUhoYnExY2hhdnZKOUFXTmdfbVZYeG1VUUR3Z2puTHh0RzB4bGptU0FKaWw2RnBXTnphMW5VWnJDc2EwMEhfM1VySFVIVFE?oc=5"
         }
       ]
     },
@@ -232,6 +220,18 @@
       ]
     },
     {
+      "id": "5520901575ca",
+      "title": "鮮為人知的水果「迷你奇異果」，可能有助預防肺癌| 雜誌 - 聯合新聞網",
+      "published": "2026-04-08T04:48:25+00:00",
+      "summary": "鮮為人知的水果「迷你奇異果」，可能有助預防肺癌| 雜誌&nbsp;&nbsp;聯合新聞網",
+      "sources": [
+        {
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40elZrZXRWRkRIODVSeHRvMlJZSkVQOUpZdWpDRTkxZlBMYzVCSHNORHpVaUhGMnJsMzBYY3dFMlZhclFsb0Z6eXY0bHBSSHRO?oc=5"
+        }
+      ]
+    },
+    {
       "id": "49d45dd01668",
       "title": "這種食物可以將霍亂感染減少多達 100 倍。 - arch-web.com.tw",
       "published": "2026-04-08T08:01:22+00:00",
@@ -304,18 +304,6 @@
       ]
     },
     {
-      "id": "0d5b6be9103a",
-      "title": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高 - 大紀元",
-      "published": "2026-04-07T22:31:00+00:00",
-      "summary": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高&nbsp;&nbsp;大紀元洛縣斑疹傷寒病例新高 近九成需住院&nbsp;&nbsp;世界新聞網洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PMzdicm14ZlY2c2NGRjEzUTA4LTcxQ0tQUGtuU1N4Q2lxNzhweEdUMlFzZFVUcXZDV2dUSElMNEQ0eVl6NVFtSXY3NVlpR1JzUDNhN2c1ajN0T3Y0RHRj0gFkQVVfeXFMUGtieHozeWZUWWNCeUUzOHlodVVJZ1BadUtQTWVVdWtyRGxPUTU3bnY2UEVLeEZ0bE85WjhjQWFCd0tydjBZanlQaXN3Zk45NnJlMEQ0ZzJxSU9iTFFfWGo5NG42Uw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "aa1c90305711",
       "title": "科學家利用 RNA 條碼繪製大腦隱藏線路圖，取得突破 - citytimes.tw",
       "published": "2026-04-08T01:50:18+00:00",
@@ -340,14 +328,14 @@
       ]
     },
     {
-      "id": "a77428e7cf6a",
-      "title": "與環境和社會因素相關的大腦老化風險增加九倍：主要研究，EHealthworld - citytimes.tw",
-      "published": "2026-04-08T02:02:25+00:00",
-      "summary": "與環境和社會因素相關的大腦老化風險增加九倍：主要研究，EHealthworld&nbsp;&nbsp;citytimes.tw",
+      "id": "0d5b6be9103a",
+      "title": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高 - 大紀元",
+      "published": "2026-04-07T22:31:00+00:00",
+      "summary": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高&nbsp;&nbsp;大紀元洛縣斑疹傷寒病例新高 近九成需住院&nbsp;&nbsp;世界新聞網洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPZ3haUlN1d01aSS1wRWtLNkV1UGEzZ205ZFEtYWxCWFowWVUwa0x1MS1yRUdoc0ZFOFdWYUpGZVJybFlEY1N3SU5QMTNBaDBMU2FDUzU3Z3hVRnZ6dDNOSjdDanE3OWtqOGZETzQtbEhxVDI1Q1l4R0Y2OTNmblZrcms4MjFlbXNlZUVMektYbXJuRzhCQV8zN1drcHJBcmp5dTJHY1JGbDdidkE5bjA3RlpEdnU2ak9pOUk2QWJkalU1aV9JX29MS0pNUTN1ekZiazNQbVFSZ1NKc0Vwdk4tOENHTWJWT08yeFRzTUZkZUV0bGRzU01rWmk2b3Rab3lqOGx2b1lSeWFzbnV0YVROdlAyZmktdjFmenJwVXVhUWNxTVV5ZHgtVlVvNzdWdUxPc1JDdXU4QzJHZ05QZzhEeFVmbjUwdWRuOHFIT1pQal9WcGpsVVY0a185b0xTSFEyRGNncFdn?oc=5"
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PMzdicm14ZlY2c2NGRjEzUTA4LTcxQ0tQUGtuU1N4Q2lxNzhweEdUMlFzZFVUcXZDV2dUSElMNEQ0eVl6NVFtSXY3NVlpR1JzUDNhN2c1ajN0T3Y0RHRj0gFkQVVfeXFMUGtieHozeWZUWWNCeUUzOHlodVVJZ1BadUtQTWVVdWtyRGxPUTU3bnY2UEVLeEZ0bE85WjhjQWFCd0tydjBZanlQaXN3Zk45NnJlMEQ0ZzJxSU9iTFFfWGo5NG42Uw?oc=5"
         }
       ]
     },
@@ -448,18 +436,6 @@
       ]
     },
     {
-      "id": "7dd2cb57768d",
-      "title": "嬰幼兒紅眼症48小時恐致盲？見黃綠膿液即就醫 認清淋球菌風險 - 香港01",
-      "published": "2026-04-08T02:02:00+00:00",
-      "summary": "嬰幼兒紅眼症48小時恐致盲？見黃綠膿液即就醫 認清淋球菌風險&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQWVBubkotMVVpYzFiSWNvUTd5dURad0hCbVZ1ZkJFZjJyeFBGNE9SMFBwQXI3cHFaNnRRTDAzeC1xUVFhQ1Zpem01dG8xVzh3U3JQamtIbkNyMTA1NEMtdktMcFNxTk45a1FrSEpPMEtJZVRMcnVkeEVlWHFHa3hNM2FWTEZsUjJEbmdrYzdOelRIdldkVGZYT0ZtZ0xldV85RkRfM3V0TWZUZURDZEp2cjBRUmRaYUpiaGk2VDBici1iZVZSc3B5NjNTN0QtUFFaaGkwWi1vYURSMzJhUmhfVUY4TV80c3RzaF93RHM3dVpyN3ZyNUYwdlN5cXdzX1FSLUhsRHQwOGJpbEV5RzNxTWVkc3loZElLcGlmOUtmVkxfZzlhSGVwTjNublhsRXFCLXFPVElKSXhIcmtsc3JnTFY1VlFtaGMwQk1PQTQ1bGVGOWp5S3RQeEZ3c01sUU9QdFlUQktfYngyZjYzV3ptcFl4NkNObjVuUG41aW5JZkFObVZ0Ym1hYmVkQkpsVGVmakhsQkFCYTh2VDQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4da46842baae",
       "title": "腦神經專科韓植源醫生談防治老年失智症 - Singtaousa",
       "published": "2026-04-09T10:00:00+00:00",
@@ -468,6 +444,18 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVFEMFJEajR3cUh2WXhCb0VSZzdteHNzTVJQMUZJWlFCR1Q5MkpGUGFnVklrYnVSVDl3VGF6eFczLVlRN0NGWlFHSmQyT1VzXy1xOEd3bVpPdVZKcVV1cnNvRmllQnZGaUxPUVF1em5rQ2xUZlBRSndKMktseU5VemZ0RUtKbDFPdDA0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7dd2cb57768d",
+      "title": "嬰幼兒紅眼症48小時恐致盲？見黃綠膿液即就醫 認清淋球菌風險 - 香港01",
+      "published": "2026-04-08T02:02:00+00:00",
+      "summary": "嬰幼兒紅眼症48小時恐致盲？見黃綠膿液即就醫 認清淋球菌風險&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQWVBubkotMVVpYzFiSWNvUTd5dURad0hCbVZ1ZkJFZjJyeFBGNE9SMFBwQXI3cHFaNnRRTDAzeC1xUVFhQ1Zpem01dG8xVzh3U3JQamtIbkNyMTA1NEMtdktMcFNxTk45a1FrSEpPMEtJZVRMcnVkeEVlWHFHa3hNM2FWTEZsUjJEbmdrYzdOelRIdldkVGZYT0ZtZ0xldV85RkRfM3V0TWZUZURDZEp2cjBRUmRaYUpiaGk2VDBici1iZVZSc3B5NjNTN0QtUFFaaGkwWi1vYURSMzJhUmhfVUY4TV80c3RzaF93RHM3dVpyN3ZyNUYwdlN5cXdzX1FSLUhsRHQwOGJpbEV5RzNxTWVkc3loZElLcGlmOUtmVkxfZzlhSGVwTjNublhsRXFCLXFPVElKSXhIcmtsc3JnTFY1VlFtaGMwQk1PQTQ1bGVGOWp5S3RQeEZ3c01sUU9QdFlUQktfYngyZjYzV3ptcFl4NkNObjVuUG41aW5JZkFObVZ0Ym1hYmVkQkpsVGVmakhsQkFCYTh2VDQ?oc=5"
         }
       ]
     },

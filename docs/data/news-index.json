@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-09T19:04:20.796349+00:00",
+  "generated": "2026-04-09T20:40:32.660916+00:00",
   "count": 15,
   "news": [
     {
@@ -751,24 +751,32 @@
       ]
     },
     {
-      "id": "e9b92ea3ae3c",
-      "title": "GLP-1藥物用途超乎減重 心血管、成癮與神經疾病現治療潛力",
-      "published": "2026-04-08T04:23:41+00:00",
+      "id": "5520901575ca",
+      "title": "鮮為人知的水果「迷你奇異果」，可能有助預防肺癌| 雜誌",
+      "published": "2026-04-08T04:48:25+00:00",
       "sources": [
         {
-          "name": "商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNRkRETy1ORUIyUWNrVThPUWFDbkg3QWRnLW9aS2VyQnNxLU9fT1JRcW43N3RBak82QlJFYk5OUW8yRFZNR0V2ekZXQ0VVaTJETlJXTUNNTDFMc2huQjB4TTNydWxWQWJrWDhQVmdHdzRIZ0xHdWhpX2NlYTJ3ajdrX1lxam9fZ2tIWGZSRHZ5MFNBRUpKSDV4RG1TZ1Y5dDZQV01Ta1ZOc2VNcU1vYjlmVWRPZjZ0LVVidW9meG5VMEV2TnAwQndzQnBfYnR1RWN5M3dTVXZYYWtNdU5CaWxpN2t5Y21XelZpclRVUW5idTBoNUxXYnZQdUp0WnYxd3prT2NHZG9xVUl4T21TS3RxQ3lwc21TT0R1bldtMXdzOVo2WWt4TGUyYTdNOE85SGFnLWhHZFNwd3FLdThRQzluSFNwZzNzNlE4ZFBEenNpRVNQdzA3cTFwSVdNeC13NDNBcURObzZxZUx1LWhQWGVJTnFKSEExZ1ZRMGlKODJ0bVgtX0thdEFFMw?oc=5"
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40elZrZXRWRkRIODVSeHRvMlJZSkVQOUpZdWpDRTkxZlBMYzVCSHNORHpVaUhGMnJsMzBYY3dFMlZhclFsb0Z6eXY0bHBSSHRO?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
           "related_drugs": [
             {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
             }
           ]
         }
