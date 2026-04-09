@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-09T22:32:54.238097+00:00",
+  "fetched_at": "2026-04-09T23:31:23.170542+00:00",
   "count": 39,
   "news": [
     {
@@ -112,18 +112,6 @@
       ]
     },
     {
-      "id": "0184af098b26",
-      "title": "預防流感、病毒感染 曬太陽就有效 - 台視新聞網",
-      "published": "2026-04-09T07:00:14+00:00",
-      "summary": "預防流感、病毒感染 曬太陽就有效&nbsp;&nbsp;台視新聞網預防流感、病毒感染，曬太陽就有效&nbsp;&nbsp;Yahoo新聞健康網》瘦不下來不是吃太多 研究揭維生素D恐不足&nbsp;&nbsp;自由健康網補充維生素D抗癌？醫建議日常補充「這樣吃」才正確- 營養好食&nbsp;&nbsp;TVBS 健康2.0女性更容易缺維生素D？專家揭原因 不是有曬太陽就好&nbsp;&nbsp;台視新聞網",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBENHV2M0R5YUw0eVR2UGxSLWhKeEUxRkk2YzQzTEZud1Q2dk1qMW9vMXlnVmNqMUFSU1ZqSEt3N3pXVHZqelNIOUcxQk00OEtyRjhFcmZwTQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "33596c65c204",
       "title": "上海國有資本直投 全球首款癲癇細胞藥物獲中美雙批 - 人民网-上海频道",
       "published": "2026-04-09T01:42:00+00:00",
@@ -148,14 +136,14 @@
       ]
     },
     {
-      "id": "2892af8d929a",
-      "title": "腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關 - 科技島",
-      "published": "2026-04-09T08:04:06+00:00",
-      "summary": "腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關&nbsp;&nbsp;科技島",
+      "id": "0184af098b26",
+      "title": "預防流感、病毒感染 曬太陽就有效 - 台視新聞網",
+      "published": "2026-04-09T07:00:14+00:00",
+      "summary": "預防流感、病毒感染 曬太陽就有效&nbsp;&nbsp;台視新聞網預防流感、病毒感染，曬太陽就有效&nbsp;&nbsp;Yahoo新聞健康網》瘦不下來不是吃太多 研究揭維生素D恐不足&nbsp;&nbsp;自由健康網補充維生素D抗癌？醫建議日常補充「這樣吃」才正確- 營養好食&nbsp;&nbsp;TVBS 健康2.0女性更容易缺維生素D？專家揭原因 不是有曬太陽就好&nbsp;&nbsp;台視新聞網",
       "sources": [
         {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YNUpBREdBMmpZbzNFYjI1X1NkTlZRSW9XZGljV21aZnN4b2tLRlBUYTRzb1labFVDLWZZeTN5aXJoTjJWekRoaHhhR2hvS2JEdWRBS3Z2Z2M3b214RDRn?oc=5"
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBENHV2M0R5YUw0eVR2UGxSLWhKeEUxRkk2YzQzTEZud1Q2dk1qMW9vMXlnVmNqMUFSU1ZqSEt3N3pXVHZqelNIOUcxQk00OEtyRjhFcmZwTQ?oc=5"
         }
       ]
     },
@@ -168,6 +156,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yQzIwaUFGSS1rVk9XSnVGUUxUeC1sczdwMW9ZajhQelFEZmVpWEhfeTJTMUVjWkZ0bUQzVTBxaWh5Zl85djItdDlNdVRfWUFjM25WRlZUMjhZbWPSAWBBVV95cUxNajNOTlk5dHRDdmQ4NnEwRmRRS1o1c3g2OXMxSGlMN1M2TlBqOFRkbTVEZ0t5enQ0OVpYVktoSnNRTS0yNUxxcnBicXlFYjdSQ3RoblE5T09BbmRHN2pOTFU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2892af8d929a",
+      "title": "腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關 - 科技島",
+      "published": "2026-04-09T08:04:06+00:00",
+      "summary": "腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關&nbsp;&nbsp;科技島",
+      "sources": [
+        {
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YNUpBREdBMmpZbzNFYjI1X1NkTlZRSW9XZGljV21aZnN4b2tLRlBUYTRzb1labFVDLWZZeTN5aXJoTjJWekRoaHhhR2hvS2JEdWRBS3Z2Z2M3b214RDRn?oc=5"
         }
       ]
     },
@@ -280,6 +280,18 @@
       ]
     },
     {
+      "id": "8aa85c6950fd",
+      "title": "全球每年有230萬宗 研究揭女士避免6件事 可消除28%乳癌 - am730",
+      "published": "2026-04-09T03:30:00+00:00",
+      "summary": "全球每年有230萬宗 研究揭女士避免6件事 可消除28%乳癌&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOOVdiaEkwVFJYY1RaRUUtYmh5OHlCbG5HZ3dIN1FlZHZmODR1VnV0YmxnSjhYa3lwcjNfendJOWtOU0xqUXprSzN0aktrdnJBTHdXZDNVeExON3d5cU9fcjQtOHF6cVMwb2pJSTFRLTJ4UFU2dTN1Yi1pNTc0eU1xaWluTE1BYU5faW9UOVpBN0pqMlhWWW1WWXNBcXBGWTczOVhfN3UyT3hIb0RFRV9lb0pQSWdxOHpZR3MtdzR3TXhGT3E1RUdQYjlCM1pGVDRad2dXUHd5S2pQR0Q4ZWJ4UHBTM0ZEM0Y4SUplenJiZFRUbTgwY1puQ2FCVGhSUm5WODlFYk5mZWVPZU5iSXc3OVFYZkFzdlBVcHhSLVlxQ09haEdfYXpYNzdocU5Fcm9HMTVXRXBlT1NqRTVUOHVkRHQ4VFA0el80UVREcmxWOUt6cFF3WUZYd3lZMHU0T1ZvN1c1RnBQNUVqdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "aa1c90305711",
       "title": "科學家利用 RNA 條碼繪製大腦隱藏線路圖，取得突破 - citytimes.tw",
       "published": "2026-04-08T01:50:18+00:00",
@@ -304,18 +316,6 @@
       ]
     },
     {
-      "id": "8aa85c6950fd",
-      "title": "全球每年有230萬宗 研究揭女士避免6件事 可消除28%乳癌 - am730",
-      "published": "2026-04-09T03:30:00+00:00",
-      "summary": "全球每年有230萬宗 研究揭女士避免6件事 可消除28%乳癌&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOOVdiaEkwVFJYY1RaRUUtYmh5OHlCbG5HZ3dIN1FlZHZmODR1VnV0YmxnSjhYa3lwcjNfendJOWtOU0xqUXprSzN0aktrdnJBTHdXZDNVeExON3d5cU9fcjQtOHF6cVMwb2pJSTFRLTJ4UFU2dTN1Yi1pNTc0eU1xaWluTE1BYU5faW9UOVpBN0pqMlhWWW1WWXNBcXBGWTczOVhfN3UyT3hIb0RFRV9lb0pQSWdxOHpZR3MtdzR3TXhGT3E1RUdQYjlCM1pGVDRad2dXUHd5S2pQR0Q4ZWJ4UHBTM0ZEM0Y4SUplenJiZFRUbTgwY1puQ2FCVGhSUm5WODlFYk5mZWVPZU5iSXc3OVFYZkFzdlBVcHhSLVlxQ09haEdfYXpYNzdocU5Fcm9HMTVXRXBlT1NqRTVUOHVkRHQ4VFA0el80UVREcmxWOUt6cFF3WUZYd3lZMHU0T1ZvN1c1RnBQNUVqdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4a0c3f14d9dc",
       "title": "17歲少年鼻塞3年被當鼻炎 顱底竟藏血管瘤炸彈 3症狀持續3個月即求醫青春期男子最高危 - 星島頭條",
       "published": "2026-04-09T04:02:33+00:00",
@@ -336,18 +336,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQLUNJYjg2a0RSTXpaejRfYjBDUlZMWlV4NG5tUlEwZ3JNWjJ6OHpTaWgtWVNtbGNQRFRNVndTMHU4MDQ4UGxyRzR5T3BkVzFzb1ZZZWROdHBNclpKUVRpZTFjLVhFcnNuMko5ZFQ5dC1zY1p1RVA3WU5jVmI1ODJ4R1JYb1R0aGFmRF9LSm9pTVRydHBWSUFWdUNJLVVFZFBKeHYtYkNWMVZDd2NmY3ZvZ1daX1N0SzV0LXhPSndxaFpTakg3RlZXU1dxUWdabkg1T1FVTzk4LXVHM3kzS2dkeWdJTVZsY2ZCZUo3N1E5dE8wdWhZLV9fWk1Kb1Y5U3p1VWdCLW9mTXR5UldvQVRqR0NjdnNHdDhLOERjckxmUV9sU3VZUUxFN2lwUUJTQVVZR05ibF8tOHBDa3JKU1ExZ2c4cFNZWjZVeTRnQ09mVkV6aXVNa0hOSkM3TUhVOVQxZG5PcVphOF9NaWJ0bF9aSEZHRzM2ODhweGl2UmFwd3JkWmhyNDhVRF85RWszai1LSVp3RkhQdUFaeUdwNEUyTjdtRnFBbm40ZzhEblZ3eE1rSFBXdG92aU5zc0NzeGR4ajYwSDNBdVdEUW5jUVhn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "81a58796e34f",
-      "title": "低磁場MRI技術突破為全球失智症診斷與照護帶來新希望 - GeneOnline News",
-      "published": "2026-04-07T23:28:56+00:00",
-      "summary": "低磁場MRI技術突破為全球失智症診斷與照護帶來新希望&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPcF9uX0FCNDFDVmtVa0hocGt2ZHR2N2NKbzJxN3UxYVc5VlhCMW4xUHFlS3NnNm90ZERYT2w1VGZKc3NTYUR0dTlKamVsSlpiT0Mza2Ribm44Nmo1N0pQR0ExT3JfS3pIdlhIek1rdmVnR2tCSGRuU3NPRlVpc3JRcWpoalB5S3hrV3RfNW53eXlBMl9rbjBOcV8yUU1CdVF5QlRTLWlDRF9SQ3l3SEFKYmRwZHZLc3g3SnRKeWJPOW5FTE85eWpRdk9DSnU2Y29ia05FNkVFQU02TEVGb2lNVGZCeU41WVc2a2I5RXlHTmtPeWdZYzItaS0yX1dEVUlSRWNTWkdpWTZLNDd6cXl5MHp4b3J5T1Z2OV9DZkRiRUxuQklPa05uS01FOXdhcGxlRzJIWnpUMXhVS1NkdVE?oc=5"
         }
       ]
     },
@@ -456,6 +444,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02QS1CRF9YRnpqdkxWdWk4eFZNcEJ5OHRiODVpZW1jSVhHM05yZXBfNTlQb2xpMzQzZW92OU9vSzZxOFVZYVFCa3hoampWanhnZWZMSU1oRmI4VTlIUDIyQy1NSVXSAWpBVV95cUxPRjhLc0E3eWx2bzI4dmFueWlGc1FYNzZueTE4MzJZRTJfeG1GN3I5WlZQRGJHQzdTX3djN1diXy1UNzBjUlQyd1RuZmxiMVBqbG5HOEVVM3cxeVQ5YTZwWkt6WGgxaGZyaUNn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "81a58796e34f",
+      "title": "低磁場MRI技術突破為全球失智症診斷與照護帶來新希望 - GeneOnline News",
+      "published": "2026-04-07T23:28:56+00:00",
+      "summary": "低磁場MRI技術突破為全球失智症診斷與照護帶來新希望&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPcF9uX0FCNDFDVmtVa0hocGt2ZHR2N2NKbzJxN3UxYVc5VlhCMW4xUHFlS3NnNm90ZERYT2w1VGZKc3NTYUR0dTlKamVsSlpiT0Mza2Ribm44Nmo1N0pQR0ExT3JfS3pIdlhIek1rdmVnR2tCSGRuU3NPRlVpc3JRcWpoalB5S3hrV3RfNW53eXlBMl9rbjBOcV8yUU1CdVF5QlRTLWlDRF9SQ3l3SEFKYmRwZHZLc3g3SnRKeWJPOW5FTE85eWpRdk9DSnU2Y29ia05FNkVFQU02TEVGb2lNVGZCeU41WVc2a2I5RXlHTmtPeWdZYzItaS0yX1dEVUlSRWNTWkdpWTZLNDd6cXl5MHp4b3J5T1Z2OV9DZkRiRUxuQklPa05uS01FOXdhcGxlRzJIWnpUMXhVS1NkdVE?oc=5"
         }
       ]
     },
