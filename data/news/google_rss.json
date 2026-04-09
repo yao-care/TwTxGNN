@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-09T15:14:14.253429+00:00",
-  "count": 43,
+  "fetched_at": "2026-04-09T16:58:03.637153+00:00",
+  "count": 41,
   "news": [
     {
       "id": "36132892ba5a",
@@ -100,18 +100,6 @@
       ]
     },
     {
-      "id": "7937dd910ba8",
-      "title": "抗癌藥「小紅莓」現新用途 研究指有望治療抗藥性皰疹 - yesmedia.com.tw",
-      "published": "2026-04-09T02:37:23+00:00",
-      "summary": "抗癌藥「小紅莓」現新用途 研究指有望治療抗藥性皰疹&nbsp;&nbsp;yesmedia.com.tw",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQT0FYOHpBRVJkaEhCUEpXWEt3blpXSFhHR0RiMkRsS3hMWUxac0hJWVU5MVA0UTd5VnIxRkE2RTU1X0ExTGtSekJHZ0d0bUJXM1pGYy01SklmekFYTGZ5WEVmdWlkT05ZczlpcEhzUTRlSGtGZ3ZvRnVBczVueXNMVUU2RlRod1ZQeS1MSVZPQjBaS3RkbElqWE9WMzU1V2wzdXlfZ1BaR3hfNkEzX1UzWVRvaXg5N3RVMWdHYW02bmQwM25HVWNzeE1BM0NlTFlJbUNkMHNTNkdqVjJBcV8wOExJdzlXSXB5SjNtZGt6OWc4c1JkSHNjSWpYdzVDbHNva0stLWNDSi0ya2ZYQWVqZU1WUHpBN0s3UXhhQjBCb1IxZzJEanptWWo5aEtVUThOWUlwMF9iMHdDR20wRlBPY1pPb1E3TU5hak5sdg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0b9502bbddca",
       "title": "科學家們剛剛實時觀察到阿茲海默症造成的損害發生 - citytimes.tw",
       "published": "2026-04-08T02:26:48+00:00",
@@ -120,6 +108,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxONzRFem1Yb08wdkdGTEVIZnJGX3FRWFBhaFJLbDYwTWljSUFzNHA0dFJZdDZWbG9IcEZlYWJ2WFpnWUlOSlBZczk3T3BmVVR4TkllMzJzb2M4bWQ4cUZOMUxuUVJudVhTeGcycW1vVzZwZTc5dFNYYWdlM0p2aUpEbU1ycm5VM2VWMEhLa3IySWJTMUE3NERsRmNoRDkxWTA2Q1ZseWxjSGktOEdaRVZ2RlYxeWFKSEtpcGhUOTc4MnJBTEZsWm1nbTN1ZjItek5YdG1SbFV2Q0lJRXdhemYzMld1UHVJU0dyeHRBZ192UUpCSmx4WnY4NXlNX1VtQ3hXS1FNakR4TmhKbllZWGZjYThMUWtvc0wtbkU2dTJZY1B4Z0JsaG1yU0QzRFBmVUtsY1VWUzlqWkRINkE2bkQ3WXlaMTZidmwyT2dkcmI3TjRoa0dzWGZwRHVKcXZPd0VFWGVPdFdn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7937dd910ba8",
+      "title": "抗癌藥「小紅莓」現新用途 研究指有望治療抗藥性皰疹 - yesmedia.com.tw",
+      "published": "2026-04-09T02:37:23+00:00",
+      "summary": "抗癌藥「小紅莓」現新用途 研究指有望治療抗藥性皰疹&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQT0FYOHpBRVJkaEhCUEpXWEt3blpXSFhHR0RiMkRsS3hMWUxac0hJWVU5MVA0UTd5VnIxRkE2RTU1X0ExTGtSekJHZ0d0bUJXM1pGYy01SklmekFYTGZ5WEVmdWlkT05ZczlpcEhzUTRlSGtGZ3ZvRnVBczVueXNMVUU2RlRod1ZQeS1MSVZPQjBaS3RkbElqWE9WMzU1V2wzdXlfZ1BaR3hfNkEzX1UzWVRvaXg5N3RVMWdHYW02bmQwM25HVWNzeE1BM0NlTFlJbUNkMHNTNkdqVjJBcV8wOExJdzlXSXB5SjNtZGt6OWc4c1JkSHNjSWpYdzVDbHNva0stLWNDSi0ya2ZYQWVqZU1WUHpBN0s3UXhhQjBCb1IxZzJEanptWWo5aEtVUThOWUlwMF9iMHdDR20wRlBPY1pPb1E3TU5hak5sdg?oc=5"
         }
       ]
     },
@@ -148,14 +148,14 @@
       ]
     },
     {
-      "id": "340ae4121f46",
-      "title": "保健》3C時代手部易過勞 醫曝4大守則 - Yahoo新聞",
+      "id": "a1bb99101376",
+      "title": "保健》3C時代手部易過勞 醫曝4大守則 - 中時新聞網",
       "published": "2026-04-08T20:10:00+00:00",
-      "summary": "保健》3C時代手部易過勞 醫曝4大守則&nbsp;&nbsp;Yahoo新聞",
+      "summary": "保健》3C時代手部易過勞 醫曝4大守則&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUnZHR1hENlVXZ2liaUV3Y2NDTHJ2MmVFWmE3Z2E4cXlYNTRGZlQzRDR0U3JQNXJELXZ0QW42VW84MGxWRHpXRS1QMUJFMThlMmprdFFYdXZzUlVJMEJaakFuZWpRS0QxRk9LOFBycXVKUWt4NDYzSWxYVVRwZ08zYVA0U21PZjh6azRRb1lxWnJIcUt5TDBmaUhibXV0bk00XzIzeDkyczcwTkFaMExQTnFwZk94eWM2TXV4bUhoYnExY2hhdnZKOUFXTmdfbVZYeG1VUUR3Z2puTHh0RzB4bGptU0FKaWw2RnBXTnphMW5VWnJDc2EwMEhfM1VySFVIVFE?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94M01zLVJOVlJvTU5uTWdlNnQxZlhRMEJtMW5CdDRPTUVVUzJRakUtVWNzNjRlaWJYMXRNdGxMckJ6THhSVGZzWGYydldqWGNaTFB3MG9WbmRhOGJNYkc5UV9Tc1V3Wk9yMzBB?oc=5"
         }
       ]
     },
@@ -192,18 +192,6 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pMWkycjJic3FzUGdQZmNsbXo0MHo3V1dleWZxNkktR01rVVBYcEJDYVczZkR6R0FLUGNxNGI4ejVmWnQtQXRUbG1KZzh6aXNCNDNZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d9464c797a01",
-      "title": "「這類型」胖童抽血報告正常也別鬆懈 成年後恐仍難逃慢性病迴圈 - PChome Online 新聞",
-      "published": "2026-04-08T03:00:00+00:00",
-      "summary": "「這類型」胖童抽血報告正常也別鬆懈 成年後恐仍難逃慢性病迴圈&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbUM5MkRDTW5EcEw0d2NmNnNwWWhNTUlYaUp5Tk81ZVEzc2s2b0dOR2RONHBrck40bFYtbmhjT0pzSkNaRlp4U1VlM3VQN0pDOGd2dW9iRHNwUWZxTWc1em1FN2hhM1ZyOVplZ21jT2ZoeDFZTFMxb2tsX1JDM2RfZGoxMGRKV1N0TEV0Z1NsVjRRems?oc=5"
         }
       ]
     },
@@ -328,30 +316,6 @@
       ]
     },
     {
-      "id": "a77428e7cf6a",
-      "title": "與環境和社會因素相關的大腦老化風險增加九倍：主要研究，EHealthworld - citytimes.tw",
-      "published": "2026-04-08T02:02:25+00:00",
-      "summary": "與環境和社會因素相關的大腦老化風險增加九倍：主要研究，EHealthworld&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPZ3haUlN1d01aSS1wRWtLNkV1UGEzZ205ZFEtYWxCWFowWVUwa0x1MS1yRUdoc0ZFOFdWYUpGZVJybFlEY1N3SU5QMTNBaDBMU2FDUzU3Z3hVRnZ6dDNOSjdDanE3OWtqOGZETzQtbEhxVDI1Q1l4R0Y2OTNmblZrcms4MjFlbXNlZUVMektYbXJuRzhCQV8zN1drcHJBcmp5dTJHY1JGbDdidkE5bjA3RlpEdnU2ak9pOUk2QWJkalU1aV9JX29MS0pNUTN1ekZiazNQbVFSZ1NKc0Vwdk4tOENHTWJWT08yeFRzTUZkZUV0bGRzU01rWmk2b3Rab3lqOGx2b1lSeWFzbnV0YVROdlAyZmktdjFmenJwVXVhUWNxTVV5ZHgtVlVvNzdWdUxPc1JDdXU4QzJHZ05QZzhEeFVmbjUwdWRuOHFIT1pQal9WcGpsVVY0a185b0xTSFEyRGNncFdn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4da46842baae",
-      "title": "腦神經專科韓植源醫生談防治老年失智症 - Singtaousa",
-      "published": "2026-04-09T10:00:00+00:00",
-      "summary": "腦神經專科韓植源醫生談防治老年失智症&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVFEMFJEajR3cUh2WXhCb0VSZzdteHNzTVJQMUZJWlFCR1Q5MkpGUGFnVklrYnVSVDl3VGF6eFczLVlRN0NGWlFHSmQyT1VzXy1xOEd3bVpPdVZKcVV1cnNvRmllQnZGaUxPUVF1em5rQ2xUZlBRSndKMktseU5VemZ0RUtKbDFPdDA0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "471066ab318a",
       "title": "隨著健康風險加劇，80% 的印度人缺乏緊急保護：Aditya Birla Sun Life Insurance 的 अ‑Nishchit 指數 2.0 – APN 新聞 - citytimes.tw",
       "published": "2026-04-08T11:02:44+00:00",
@@ -384,6 +348,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNejBlaDQ1OG9KQmtVdWItNlJINE1xUTJpcHdlck5VU3dlcjhZQWVscnRJRXZhTWlBY19iUy0yeS01U1RRRC1sMGNTOThsOTVGUGh4NGFoS0ZCX2JqR2R6TS1YQndoOWk1ZS1FaUdwaXpOQ01EYTV0a012YUxWWlZ0OEFjNGlVdDQyZlVwLUc5S25pOGlSRXFIZDlXek1lSDcyQl80TEU4eWp3TWw0Nm80TzlCMUxDeTl2NDVwSGVTOEt5aUlDdEtCb0poVmw2UXg5c1RueDhSSkVBRW8wZzBlU1FmbTFxZkdaaGFGQjJVZ0g2UTh4YW80Tm5tMUlhVGZpdjRtMzVfNVBGQmthR2hnWVJjTXRKU3J1Q3dlcjZIZndjZk9haFltdG40cjRWc1ZnOGdVS1dGZnAwMnlSOHRrdmlaUjlMVnhUTGVEa1o2MmQ5LXRUcE5KWm1ELUlidFU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a77428e7cf6a",
+      "title": "與環境和社會因素相關的大腦老化風險增加九倍：主要研究，EHealthworld - citytimes.tw",
+      "published": "2026-04-08T02:02:25+00:00",
+      "summary": "與環境和社會因素相關的大腦老化風險增加九倍：主要研究，EHealthworld&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPZ3haUlN1d01aSS1wRWtLNkV1UGEzZ205ZFEtYWxCWFowWVUwa0x1MS1yRUdoc0ZFOFdWYUpGZVJybFlEY1N3SU5QMTNBaDBMU2FDUzU3Z3hVRnZ6dDNOSjdDanE3OWtqOGZETzQtbEhxVDI1Q1l4R0Y2OTNmblZrcms4MjFlbXNlZUVMektYbXJuRzhCQV8zN1drcHJBcmp5dTJHY1JGbDdidkE5bjA3RlpEdnU2ak9pOUk2QWJkalU1aV9JX29MS0pNUTN1ekZiazNQbVFSZ1NKc0Vwdk4tOENHTWJWT08yeFRzTUZkZUV0bGRzU01rWmk2b3Rab3lqOGx2b1lSeWFzbnV0YVROdlAyZmktdjFmenJwVXVhUWNxTVV5ZHgtVlVvNzdWdUxPc1JDdXU4QzJHZ05QZzhEeFVmbjUwdWRuOHFIT1pQal9WcGpsVVY0a185b0xTSFEyRGNncFdn?oc=5"
         }
       ]
     },
@@ -436,18 +412,6 @@
       ]
     },
     {
-      "id": "71cf8e7da216",
-      "title": "60歲乳癌鬥士抗病17年 半邊臉被癌症侵蝕：病魔想讓我認輸，我把傷口變成鎧甲 - 星島頭條",
-      "published": "2026-04-08T06:30:42+00:00",
-      "summary": "60歲乳癌鬥士抗病17年 半邊臉被癌症侵蝕：病魔想讓我認輸，我把傷口變成鎧甲&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNTGRTWm43NDdPVXFmR2JVc0ZCQjJRV05vYlE2OXktZWlOazV3ZVB6UlQ3akpGTVNHdFR4WTR3aG8wZjZiOE1oQWN5dWJTOFUwNWxxQlVsMGlqSlB2bFF1V0FxaEZOeGloS2ZjTTc0YUJjVTRWdlhTcF93Ukc0SG52NXN3RjJ6M2lVYzdEc3dDcjluRl9reWd5UU9IQ0s5Z0xEanppUGE3SzEtOGdfbUNPNjRvMm1GZnlvMWJyQlZrc0VPWHpFaVFQYjVJWnRPWUdUM1l4T1VoZGlKMTJJMTBjMXIwb0NKZGJWSmJ2dUszZjlXZ01KUkRZYktVLXM2VzJ0eEREWXRZM1F6eDVqOVNwUzhkejBUMnNzbjVRa21xaWtiVTl4djd2M3dNNGNoSzlzY2dKMzVLOWlidEprMlF2VTg5WG1Yci1CLVk4SHhDVFNrWHRSdm82eFZlTmlUaFdJbDVvYlI2V0o5ejhYWm9NYThCYm5KUEU1cTVVVWw2cHJYdFh5d2FBN0FETk1CZ1BhMWRFaUpSTnczNlBGdlkxT1p2aUhlLVN3M09FRTBUZWhpa2EycmlISWg3UEVkTVNWVmlJOGtvOG9oUFp2VTFWempsRno?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c25f9e75b4c0",
       "title": "消委會驅蚊劑︱消委會25款大比拼9款5星驅蚊劑推薦 1種成分最有效驅蚊 - 香港經濟日報HKET",
       "published": "2026-04-08T09:05:25+00:00",
@@ -456,6 +420,18 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sbWdMekU5WmUtZ1JCVHVsc2IxcVRpeTJabm95TXhvWVA1M3o1RXdEQzBIdm1LalpmR1pVaGR0dWp3X1VrOEJGRU9RUm56VWRDYXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "71cf8e7da216",
+      "title": "60歲乳癌鬥士抗病17年 半邊臉被癌症侵蝕：病魔想讓我認輸，我把傷口變成鎧甲 - 星島頭條",
+      "published": "2026-04-08T06:30:42+00:00",
+      "summary": "60歲乳癌鬥士抗病17年 半邊臉被癌症侵蝕：病魔想讓我認輸，我把傷口變成鎧甲&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNTGRTWm43NDdPVXFmR2JVc0ZCQjJRV05vYlE2OXktZWlOazV3ZVB6UlQ3akpGTVNHdFR4WTR3aG8wZjZiOE1oQWN5dWJTOFUwNWxxQlVsMGlqSlB2bFF1V0FxaEZOeGloS2ZjTTc0YUJjVTRWdlhTcF93Ukc0SG52NXN3RjJ6M2lVYzdEc3dDcjluRl9reWd5UU9IQ0s5Z0xEanppUGE3SzEtOGdfbUNPNjRvMm1GZnlvMWJyQlZrc0VPWHpFaVFQYjVJWnRPWUdUM1l4T1VoZGlKMTJJMTBjMXIwb0NKZGJWSmJ2dUszZjlXZ01KUkRZYktVLXM2VzJ0eEREWXRZM1F6eDVqOVNwUzhkejBUMnNzbjVRa21xaWtiVTl4djd2M3dNNGNoSzlzY2dKMzVLOWlidEprMlF2VTg5WG1Yci1CLVk4SHhDVFNrWHRSdm82eFZlTmlUaFdJbDVvYlI2V0o5ejhYWm9NYThCYm5KUEU1cTVVVWw2cHJYdFh5d2FBN0FETk1CZ1BhMWRFaUpSTnczNlBGdlkxT1p2aUhlLVN3M09FRTBUZWhpa2EycmlISWg3UEVkTVNWVmlJOGtvOG9oUFp2VTFWempsRno?oc=5"
         }
       ]
     },
@@ -496,6 +472,18 @@
       ]
     },
     {
+      "id": "4da46842baae",
+      "title": "腦神經專科韓植源醫生談防治老年失智症 - Singtaousa",
+      "published": "2026-04-09T10:00:00+00:00",
+      "summary": "腦神經專科韓植源醫生談防治老年失智症&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVFEMFJEajR3cUh2WXhCb0VSZzdteHNzTVJQMUZJWlFCR1Q5MkpGUGFnVklrYnVSVDl3VGF6eFczLVlRN0NGWlFHSmQyT1VzXy1xOEd3bVpPdVZKcVV1cnNvRmllQnZGaUxPUVF1em5rQ2xUZlBRSndKMktseU5VemZ0RUtKbDFPdDA0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cfacb49a8e7f",
       "title": "透視腸道菌》腸道失衡連動病變 眼疾也劃上等號 - 自由健康網",
       "published": "2026-04-01T01:03:21+00:00",
@@ -504,18 +492,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02QS1CRF9YRnpqdkxWdWk4eFZNcEJ5OHRiODVpZW1jSVhHM05yZXBfNTlQb2xpMzQzZW92OU9vSzZxOFVZYVFCa3hoampWanhnZWZMSU1oRmI4VTlIUDIyQy1NSVXSAWpBVV95cUxPRjhLc0E3eWx2bzI4dmFueWlGc1FYNzZueTE4MzJZRTJfeG1GN3I5WlZQRGJHQzdTX3djN1diXy1UNzBjUlQyd1RuZmxiMVBqbG5HOEVVM3cxeVQ5YTZwWkt6WGgxaGZyaUNn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f6a6b89c6e18",
-      "title": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期 醫生揭4大減肥方法惹禍 - singtao.ca",
-      "published": "2026-04-07T15:50:20+00:00",
-      "summary": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期 醫生揭4大減肥方法惹禍&nbsp;&nbsp;singtao.ca",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQWUVvNVpRR29JRk1GZjNneV9NLTlKWVpKYmRZekxZakQyQUtFVWF6VzcxSWZnUFV4emU3NzZkbDQ1NHBqSEVmOGEyem1iSmpkNWdhT3N2Qng3ZW1YYlBaNklQcUdrR1EtdXMwTXNGMzFZMXJsb0lyYmNQX3hOdVU4aHVXRVV4SFBqal82SjFGcWw5NC1LT2djc1d3djlhcHVmMjkzcEJZT3dCN3dSX3gybUR5eGk3NC1abS0zVHZ5ZE5iRXVFejA3X2ZoR3F3QUtwRjN5ZFg0TGRLZ3pMcGxGV2JwdGhHWlVCaWl6QXlnSjBpVC11aWxrT2tZQzdOT3pNU0t4M1JuWFp4aS1yZEM4VGdodEo0ald1Mk1RVkNNUGt5eXdGdkJVcnFVU1dvVU13M04wM2MwbkN6TlpIbVcxSlRzZE9PTkkta2RqWF8wbFVXTlJmNnlQaEJMbUhVQzVoUTM3WV9GcGhyZi1HRjJ5czZYR210dGoxVFF1R1NkWmMyazVsY1VzT2FPQWtNRTJlbmdFVVJHQXJKTThXa21wN3UxR0k2M2ZfVjJ0VFJTN2F0R25sa0N5Y2t30gGPAUFVX3lxTE55Q1ZJZ1g5Tzk5Y2dQblZTckJ4Wm83aHp5bml5VVNJcjU2c1ZaaHRHdUM1ZHdjVHkzdWM4SnpwZW9hZlJBeUxmRk0zRHpnM2JIU0pxTVJWSkc4ZXhRT0o2dnBXNVBqTlRnd0pTYm1STjBPZ2JMd1V1NG15bmxxZGo0bGFHeUNDclduZHJQLUVZ?oc=5"
         }
       ]
     }

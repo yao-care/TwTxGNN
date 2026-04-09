@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-09T15:14:18.987733+00:00",
-  "total_count": 44,
+  "last_updated": "2026-04-09T16:58:08.502350+00:00",
+  "total_count": 42,
   "matched_count": 15,
   "news": [
     {
@@ -371,14 +371,14 @@
       ]
     },
     {
-      "id": "340ae4121f46",
+      "id": "a1bb99101376",
       "title": "保健》3C時代手部易過勞 醫曝4大守則",
       "published": "2026-04-08T20:10:00+00:00",
-      "summary": "保健》3C時代手部易過勞 醫曝4大守則&nbsp;&nbsp;Yahoo新聞",
+      "summary": "保健》3C時代手部易過勞 醫曝4大守則&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUnZHR1hENlVXZ2liaUV3Y2NDTHJ2MmVFWmE3Z2E4cXlYNTRGZlQzRDR0U3JQNXJELXZ0QW42VW84MGxWRHpXRS1QMUJFMThlMmprdFFYdXZzUlVJMEJaakFuZWpRS0QxRk9LOFBycXVKUWt4NDYzSWxYVVRwZ08zYVA0U21PZjh6azRRb1lxWnJIcUt5TDBmaUhibXV0bk00XzIzeDkyczcwTkFaMExQTnFwZk94eWM2TXV4bUhoYnExY2hhdnZKOUFXTmdfbVZYeG1VUUR3Z2puTHh0RzB4bGptU0FKaWw2RnBXTnphMW5VWnJDc2EwMEhfM1VySFVIVFE?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94M01zLVJOVlJvTU5uTWdlNnQxZlhRMEJtMW5CdDRPTUVVUzJRakUtVWNzNjRlaWJYMXRNdGxMckJ6THhSVGZzWGYydldqWGNaTFB3MG9WbmRhOGJNYkc5UV9Tc1V3Wk9yMzBB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1086,19 +1086,6 @@
       "matched_keywords": []
     },
     {
-      "id": "d9464c797a01",
-      "title": "「這類型」胖童抽血報告正常也別鬆懈 成年後恐仍難逃慢性病迴圈 - PChome Online 新聞",
-      "published": "2026-04-08T03:00:00+00:00",
-      "summary": "「這類型」胖童抽血報告正常也別鬆懈 成年後恐仍難逃慢性病迴圈&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbUM5MkRDTW5EcEw0d2NmNnNwWWhNTUlYaUp5Tk81ZVEzc2s2b0dOR2RONHBrck40bFYtbmhjT0pzSkNaRlp4U1VlM3VQN0pDOGd2dW9iRHNwUWZxTWc1em1FN2hhM1ZyOVplZ21jT2ZoeDFZTFMxb2tsX1JDM2RfZGoxMGRKV1N0TEV0Z1NsVjRRems?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "0b9502bbddca",
       "title": "科學家們剛剛實時觀察到阿茲海默症造成的損害發生",
       "published": "2026-04-08T02:26:48+00:00",
@@ -1229,19 +1216,6 @@
         {
           "name": "大紀元",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PMzdicm14ZlY2c2NGRjEzUTA4LTcxQ0tQUGtuU1N4Q2lxNzhweEdUMlFzZFVUcXZDV2dUSElMNEQ0eVl6NVFtSXY3NVlpR1JzUDNhN2c1ajN0T3Y0RHRj0gFkQVVfeXFMUGtieHozeWZUWWNCeUUzOHlodVVJZ1BadUtQTWVVdWtyRGxPUTU3bnY2UEVLeEZ0bE85WjhjQWFCd0tydjBZanlQaXN3Zk45NnJlMEQ0ZzJxSU9iTFFfWGo5NG42Uw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f6a6b89c6e18",
-      "title": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期 醫生揭4大減肥方法惹禍",
-      "published": "2026-04-07T15:50:20+00:00",
-      "summary": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期 醫生揭4大減肥方法惹禍&nbsp;&nbsp;singtao.ca",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQWUVvNVpRR29JRk1GZjNneV9NLTlKWVpKYmRZekxZakQyQUtFVWF6VzcxSWZnUFV4emU3NzZkbDQ1NHBqSEVmOGEyem1iSmpkNWdhT3N2Qng3ZW1YYlBaNklQcUdrR1EtdXMwTXNGMzFZMXJsb0lyYmNQX3hOdVU4aHVXRVV4SFBqal82SjFGcWw5NC1LT2djc1d3djlhcHVmMjkzcEJZT3dCN3dSX3gybUR5eGk3NC1abS0zVHZ5ZE5iRXVFejA3X2ZoR3F3QUtwRjN5ZFg0TGRLZ3pMcGxGV2JwdGhHWlVCaWl6QXlnSjBpVC11aWxrT2tZQzdOT3pNU0t4M1JuWFp4aS1yZEM4VGdodEo0ald1Mk1RVkNNUGt5eXdGdkJVcnFVU1dvVU13M04wM2MwbkN6TlpIbVcxSlRzZE9PTkkta2RqWF8wbFVXTlJmNnlQaEJMbUhVQzVoUTM3WV9GcGhyZi1HRjJ5czZYR210dGoxVFF1R1NkWmMyazVsY1VzT2FPQWtNRTJlbmdFVVJHQXJKTThXa21wN3UxR0k2M2ZfVjJ0VFJTN2F0R25sa0N5Y2t30gGPAUFVX3lxTE55Q1ZJZ1g5Tzk5Y2dQblZTckJ4Wm83aHp5bml5VVNJcjU2c1ZaaHRHdUM1ZHdjVHkzdWM4SnpwZW9hZlJBeUxmRk0zRHpnM2JIU0pxTVJWSkc4ZXhRT0o2dnBXNVBqTlRnd0pTYm1STjBPZ2JMd1V1NG15bmxxZGo0bGFHeUNDclduZHJQLUVZ?oc=5"
         }
       ],
       "matched_keywords": []
