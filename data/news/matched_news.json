@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-04-09T04:26:52.075908+00:00",
+  "last_updated": "2026-04-09T06:15:49.144390+00:00",
   "total_count": 38,
-  "matched_count": 12,
+  "matched_count": 11,
   "news": [
+    {
+      "id": "3c9faa3f398e",
+      "title": "身體清理死細胞時 病毒竟躲進「殘骸」擴散感染",
+      "published": "2026-04-09T04:54:00+00:00",
+      "summary": "身體清理死細胞時 病毒竟躲進「殘骸」擴散感染&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIbm9wQ25WT2J1U1BnVVhVWUt4M09vc01IZVcyWkNGSHE4Mzl3cTRLV1JEX1IyT2lwWVE2RDV3ZXNseU5BUDdwWjFfZ2NRNDJXTXVRd28zcUhVX29WVk1ybXYtMkvSAWpBVV95cUxNTDVtZDJnUEItOEFIbm50aHVpbXRBQXl0aUU3dHg5a1k3ZXdMRzQ2UWRWVlZ5UzBPMjJuQUxhZjUwOVFfN1RFX0QtclZ6VlYwWVduZGlwbllsbEVRSDFtRFZRYktLdkNjbXhn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "593e500329c1",
+      "title": "全球報告登革熱病例逾42萬宗 海關總署發布四措施防止疫情傳入中國",
+      "published": "2026-04-09T04:44:57+00:00",
+      "summary": "全球報告登革熱病例逾42萬宗 海關總署發布四措施防止疫情傳入中國&nbsp;&nbsp;橙新聞",
+      "sources": [
+        {
+          "name": "橙新聞",
+          "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPYXpISnVZam1QZk4wVVBhTW0yOC1RU2dTTnlmNkR0LVR5UVhjTDQ0VTU3SzJWR0Utc0pyVkNjOEVOREx2SkFINWo4RGFMTDh4Q1hkb21WVE5fVVdwbkhZbERraF9ZUjQwRGpOeGpxUVM3WFdndkdSa1RBMWxYLUhMbmY4bmRKQnVmMnE3M29SU2ROOFhUSWxfUVphdlp1eHJsNGhmWWVDd0k0SkVaRlVVMEk5eGNOZlZnT1pVTDdBVmpzSFNDSFhld1B1TEFGc0hHTW45bmtLODVuOGtGb2h1LVVOZWN5dFZZejNRNU9ualR0QnlMRjJhaXR4N0hhZUZXSG00TEpGbDNwcElBejlabnFCTUs1N3pGOFNHR0lpQ2lVRDhZa1RkMjRiUEFoRGdsVEkwM1NoT2REX3RMWUcxZjJRQ1NuQnVxSEhFeDRFSVF0aFBCanlQQ01MN1hUWXZjaHRrWTl4UkQzd0dVTnRMUU5sa0h2ZWRHd0FqbkNjS2ZybDNGdG0yb2h2U09XWU5fLTlIT3B2RWdULTByMkFhdUhPYzV4RmRNOFZ0X2xYZVJ1UHhkRFZpcEJB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "2a961c9e2a95",
       "title": "抗癌藥「小紅莓」現新用途 研究指有望治療抗藥性皰疹",
@@ -91,19 +117,6 @@
       ]
     },
     {
-      "id": "aa8e4845bc6e",
-      "title": "內臟脂肪減不動研究曝補足1維生素還能穩血糖- 健康",
-      "published": "2026-04-09T01:47:10+00:00",
-      "summary": "內臟脂肪減不動研究曝補足1維生素還能穩血糖- 健康&nbsp;&nbsp;中時新聞網預防流感、病毒感染，曬太陽就有效&nbsp;&nbsp;Yahoo新聞健康網》瘦不下來不是吃太多 研究揭維生素D恐不足&nbsp;&nbsp;自由健康網補充維生素D抗癌？醫建議日常補充「這樣吃」才正確&nbsp;&nbsp;TVBS 健康2.0女性更容易缺維生素D？專家揭原因 不是有曬太陽就好&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1YXdPa3ZOS0NOQ1ZfeDU0VHFpeXhManVwUFk4LXptdllTLTljMTAzSDdlN2lDN0xLVWtxTHVaNWprMkpvV0Fsb0l6aDF2RjRLeXh6QW9ueGlvb1R2a2JjMU8waFhQTkN2c00waGdR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "33596c65c204",
       "title": "上海國有資本直投 全球首款癲癇細胞藥物獲中美雙批",
       "published": "2026-04-09T01:42:00+00:00",
@@ -127,19 +140,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "daaf0baa8be6",
-      "title": "糖尿病患吃藥配1物狂掃壞膽固醇- 健康",
-      "published": "2026-04-09T00:18:06+00:00",
-      "summary": "糖尿病患吃藥配1物狂掃壞膽固醇- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xNGs4eVo1NWh0U0I5VnhmTVJxaFUyaV9vMzNiYzlhdFpsRjM5SGt2VXF5TERXNnRnWUNTQzFLTjJJSGhjeFlkOTVkUGxWQ1QxTktZOGxwUG9QM3FzdGlKV1d0ekplY0swYmhmdmV3?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "0b0f0e206847",
@@ -181,7 +181,7 @@
       "id": "7a7491fd4ffb",
       "title": "高齡過度節食非好事 營養師：老人微胖較長壽",
       "published": "2026-04-08T21:30:00+00:00",
-      "summary": "高齡過度節食非好事 營養師：老人微胖較長壽&nbsp;&nbsp;自由健康網不是只有胖子會中風！他不菸不酒、膽固醇正常卻血管硬化，營養師曝真正原因| 時報出版| 風生活&nbsp;&nbsp;風傳媒這年紀的你，微胖比較長壽！營養師揭：70歲時體重維持「這範圍」比較長壽&nbsp;&nbsp;PChome Online 新聞老人微胖更長壽 營養師曝黃金BMI 瘦子死亡率飆2倍&nbsp;&nbsp;中時新聞網健康網》54萬人研究證實 肥胖族感染住院、死亡風險恐翻倍&nbsp;&nbsp;自由健康網",
+      "summary": "高齡過度節食非好事 營養師：老人微胖較長壽&nbsp;&nbsp;自由健康網老人24≦BMI&nbsp;&nbsp;自由健康網不是只有胖子會中風！他不菸不酒、膽固醇正常卻血管硬化，營養師曝真正原因| 時報出版| 風生活&nbsp;&nbsp;風傳媒這年紀的你，微胖比較長壽！營養師揭：70歲時體重維持「這範圍」比較長壽&nbsp;&nbsp;PChome Online新聞老人微胖更長壽 營養師曝黃金BMI 瘦子死亡率飆2倍&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "自由健康網",
@@ -207,14 +207,14 @@
       ]
     },
     {
-      "id": "340ae4121f46",
+      "id": "a1bb99101376",
       "title": "保健》3C時代手部易過勞 醫曝4大守則",
       "published": "2026-04-08T20:10:00+00:00",
-      "summary": "保健》3C時代手部易過勞 醫曝4大守則&nbsp;&nbsp;Yahoo新聞",
+      "summary": "保健》3C時代手部易過勞 醫曝4大守則&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUnZHR1hENlVXZ2liaUV3Y2NDTHJ2MmVFWmE3Z2E4cXlYNTRGZlQzRDR0U3JQNXJELXZ0QW42VW84MGxWRHpXRS1QMUJFMThlMmprdFFYdXZzUlVJMEJaakFuZWpRS0QxRk9LOFBycXVKUWt4NDYzSWxYVVRwZ08zYVA0U21PZjh6azRRb1lxWnJIcUt5TDBmaUhibXV0bk00XzIzeDkyczcwTkFaMExQTnFwZk94eWM2TXV4bUhoYnExY2hhdnZKOUFXTmdfbVZYeG1VUUR3Z2puTHh0RzB4bGptU0FKaWw2RnBXTnphMW5VWnJDc2EwMEhfM1VySFVIVFE?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94M01zLVJOVlJvTU5uTWdlNnQxZlhRMEJtMW5CdDRPTUVVUzJRakUtVWNzNjRlaWJYMXRNdGxMckJ6THhSVGZzWGYydldqWGNaTFB3MG9WbmRhOGJNYkc5UV9Tc1V3Wk9yMzBB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -275,7 +275,7 @@
       "id": "dacff7c74856",
       "title": "使用GLP-1減重藥物的隱藏成本與經濟壓力分析 - GeneOnline News",
       "published": "2026-04-08T10:15:43+00:00",
-      "summary": "使用GLP-1減重藥物的隱藏成本與經濟壓力分析&nbsp;&nbsp;GeneOnline NewsGLP-1藥物用途超乎減重 心血管、成癮與神經疾病現治療潛力&nbsp;&nbsp;蕃新聞瘦了卻缺營養？最新研究警示GLP-1藥物恐引發多重營養缺乏- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "使用GLP-1減重藥物的隱藏成本與經濟壓力分析&nbsp;&nbsp;GeneOnline NewsGLP-1藥物用途超乎減重 心血管、成癮與神經疾病現治療潛力&nbsp;&nbsp;蕃新聞瘦了卻缺營養？最新研究警示GLP-1藥物恐引發多重營養缺乏- 健康&nbsp;&nbsp;中時新聞網Ozempic Face 真正的元兇，別讓GLP-1瘦瘦針減了 30 公斤卻老了 20 歲&nbsp;&nbsp;聯合新聞網",
       "sources": [
         {
           "name": "GeneOnline News",
@@ -331,6 +331,19 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sbWdMekU5WmUtZ1JCVHVsc2IxcVRpeTJabm95TXhvWVA1M3o1RXdEQzBIdm1LalpmR1pVaGR0dWp3X1VrOEJGRU9RUm56VWRDYXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "49d45dd01668",
+      "title": "這種食物可以將霍亂感染減少多達 100 倍。",
+      "published": "2026-04-08T08:01:22+00:00",
+      "summary": "這種食物可以將霍亂感染減少多達 100 倍。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNWHFVeUIyX0xxcHBnZF9XX0lzMVIyenFKaWNFdU5lb3NHV2VScENfVkQ4N3JrQ25ZM1puTmFQNmpzX3NuRUIxOGRlekUzY0ZDVi1ueU52QVFRVnA3RmJMdUhranBpYlg2MDhVMlFSSXR1aEFXR2Z6UTZzZXVhTlc3M3lvcHZlb0RRaGhrRGxpc05mLXdQRUJhTkdIczMtWU9QWVotZ25IMzJkUzRmUWJfX3FESl9kSGtnZ3F1U0RhWXNTRHA2LW5yR2c2STJlQWU5OEFCSFBycTFSN09RYTV6YTlwUlVhbFhJLVMzNmFUenFELU04cV9JaWlwZW55cTdHellVak5LZ3g4QUhmLVZzcE9qMXQ0SVB4QVZrVzd1MHBrNFZwN2gzdEZnVjVpeGRILUpEdjFDNWFTaExLTFhKX0NpaHRKMDJaVGxWR0dIZ2Q?oc=5"
         }
       ],
       "matched_keywords": []
@@ -606,6 +619,19 @@
       "matched_keywords": []
     },
     {
+      "id": "7f97e969594d",
+      "title": "健康網》瘦不下來不是吃太多 研究揭維生素D恐不足",
+      "published": "2026-04-08T04:13:00+00:00",
+      "summary": "健康網》瘦不下來不是吃太多 研究揭維生素D恐不足&nbsp;&nbsp;自由健康網預防流感、病毒感染，曬太陽就有效&nbsp;&nbsp;Yahoo新聞補充維生素D抗癌？醫建議日常補充「這樣吃」才正確&nbsp;&nbsp;TVBS 健康2.0內臟脂肪減不動研究曝補足1維生素還能穩血糖- 健康&nbsp;&nbsp;中時新聞網女性更容易缺維生素D？專家揭原因 不是有曬太陽就好&nbsp;&nbsp;PChome Online新聞",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hbmxxZkZYY0tKTXhDRTRvZWh3ZjI2RU82cDV1aWFYMktiQWNnM3hZRzFjSVZvVTZsaklTY2NMODcxYkNPNVBLbkd1UjFBU2ZfaEpLdF9IRkxhNUJpVUk4M2E3cWfSAWpBVV95cUxQNHVUNFVzb3hXVEl3bjRBQUhpd1RGQ3RyRkpXRmNSYXI4NmRmNnFtUmlTV1hqU3JMek1FQVZrcmR4TTVHc0V6QTZITk9fV0w2Z1dsekZlaUlpbVNDYVBhOVZZWkV5cHpJRFdB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "1d5ba2ea2986",
       "title": "不只偷吃還帶走！「這動物」會縮骨功 10元硬幣大孔洞就能鑽 毛孩飼料也不放過 - TVBS 健康2.0",
       "published": "2026-04-08T04:09:00+00:00",
@@ -673,7 +699,7 @@
       "id": "0b9502bbddca",
       "title": "科學家們剛剛實時觀察到阿茲海默症造成的損害發生",
       "published": "2026-04-08T02:26:48+00:00",
-      "summary": "科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊&nbsp;&nbsp;PChome Online 新聞「養腦補腎」延緩失智 中醫師促多吃優質蛋白質&nbsp;&nbsp;世界新聞網",
+      "summary": "科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊&nbsp;&nbsp;PChome Online新聞「養腦補腎」延緩失智 中醫師促多吃優質蛋白質&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
           "name": "citytimes.tw",
@@ -805,65 +831,6 @@
       ]
     },
     {
-      "id": "726a6ca99990",
-      "title": "血便可能不是痔瘡！醫籲出現3症狀快就醫：恐是大腸癌找上門",
-      "published": "2026-04-07T23:00:00+00:00",
-      "summary": "血便可能不是痔瘡！醫籲出現3症狀快就醫：恐是大腸癌找上門&nbsp;&nbsp;鏡新聞前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "鏡新聞",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NMzZvNXBBMVUyNl9HNmNvdmpNcGRlUVJuZFR0cHpyZm4tNzE3bE5TUmcxM2N2UE5FS3NsYUlYTmt4VWl4STZFeXg0d3hZd2tKQ2xwbWhvcEY1QQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "痔瘡",
-          "keyword": "痔瘡",
-          "related_drugs": [
-            {
-              "slug": "diosmin",
-              "name": "Diosmin"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "0d5b6be9103a",
       "title": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高",
       "published": "2026-04-07T22:31:00+00:00",
@@ -913,19 +880,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "a3ee8da8b9d7",
-      "title": "這種飲食可以將霍亂感染減少高達 100 倍",
-      "published": "2026-04-07T08:27:06+00:00",
-      "summary": "這種飲食可以將霍亂感染減少高達 100 倍&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOcUI5eHpwYWVpZEQyRVZweURfd0QzQm1DRXdDaHVUeU04U3hUY2FvSjE2TV9uV3lLUUJRRlJ3TU1oeW8wNVVGcF9HVTVQd0poWWlTNlA5aEVyUkp6T0tZa2NnUTBPbWJ5Uzdma0l6bE1ma2JRUFpNRUMwakNWaVI2U3owcmpuOC1BQmFocjRUYTZrU0FXX204WS1vcmN4X0U2d2l3NUdkVDNsTEswTEpiTFFCcV9QeHppekl2Q3I0ZU43T0lVN1JSbXdhbUVlRXFLT2RUeTlFc1Bnam9RZ1hqUHduMmtSZkNmZ3Z2S2gtWVhlUnJfcW5BU01pMVdkMmhpaFE0MEgtaDNjZFpRNmpCdE5qX2hQN29OVTdGOHF1RnVtUlZq?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "6dd0d69139c1",
