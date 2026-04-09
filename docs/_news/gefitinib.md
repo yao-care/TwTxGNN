@@ -51,6 +51,14 @@ permalink: /news/gefitinib/
 
 ---
 
+### [運動不只練肌肉！ 研究揭蛋白護腦抗失智](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sWWRIUlhFQVRETmRUWDMyYjFfYTJqd01ydWFSb2hvRVowX1dFbVNQYlhvNldwaVo3cjlHeHZoal9rWnF2R2NxcG84dWpjZ0lW?oc=5)
+
+2026-04-09 <span class="news-indication-tag">失智</span>
+
+來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sWWRIUlhFQVRETmRUWDMyYjFfYTJqd01ydWFSb2hvRVowX1dFbVNQYlhvNldwaVo3cjlHeHZoal9rWnF2R2NxcG84dWpjZ0lW?oc=5)
+
+---
+
 ### [吸菸可能透過外泌體干擾腦部鐵質平衡增加失智症風險 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxPNTVmZkZva3h1M3RQd1g4a2NRTzY5YlpwbU91NFpYQWhaeE5NNkl6MVRyT01tRUZTSXpzOTZ2bXhfeE1JSDRJVy1RQ0g2Wm55ekkxV252UDZLRlNxSXJQOC1ZNWtLc0dYeThLVUVkTzhzSmJaQmNDN1lSM3JaV0ZoWXNMYzdxYmxDUEJpcEM3OWhZY1k5OV9iMXpnMExScnVORlhtWU8wUFF5TXdDTjJ4TGkwYlkwWmxqam5HMkd5RDhxS2pQMjh2X2c0Vi1ieHhXNG1TS0RZV3l3VktpaWEwQzJ1V3ItTTRUR2tCUktQM29TLS1jRGpiY1RTLVR2S1hSbmFUb0M5bm0wV05FaFpGQks4YVh4SkhKVXhrSEozWEpWdzlDZlVseUNlVERHXzVYZEQzV2x0VkM0aXhuZnlDRlFlZWZpZw?oc=5)
 
 2026-04-08 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
@@ -80,14 +88,6 @@ permalink: /news/gefitinib/
 2026-04-07 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMivgJBVV95cUxPcF9uX0FCNDFDVmtVa0hocGt2ZHR2N2NKbzJxN3UxYVc5VlhCMW4xUHFlS3NnNm90ZERYT2w1VGZKc3NTYUR0dTlKamVsSlpiT0Mza2Ribm44Nmo1N0pQR0ExT3JfS3pIdlhIek1rdmVnR2tCSGRuU3NPRlVpc3JRcWpoalB5S3hrV3RfNW53eXlBMl9rbjBOcV8yUU1CdVF5QlRTLWlDRF9SQ3l3SEFKYmRwZHZLc3g3SnRKeWJPOW5FTE85eWpRdk9DSnU2Y29ia05FNkVFQU02TEVGb2lNVGZCeU41WVc2a2I5RXlHTmtPeWdZYzItaS0yX1dEVUlSRWNTWkdpWTZLNDd6cXl5MHp4b3J5T1Z2OV9DZkRiRUxuQklPa05uS01FOXdhcGxlRzJIWnpUMXhVS1NkdVE?oc=5)
-
----
-
-### [已婚比單身更易失智？研究警示：長期處於「這關係」恐增加 40% 發病率](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYXlrVmUzeWFTVjEtbjdkRTFsc0JDa2JyMU5qcExmbWtWTzVDeHRWemx3b21PN0VtTDR0TjNJTVVvMmlpLXF3eXJOemhhSHZDU3h4RTkyMXRNYXlncjd4ZVVFN1pYYmtZeWZTbjlXZWlybEFlb05CRHhTR3JoQm9PN2xySTkxMHAydWNjcVdKeFBQYktsY2tLNDF3?oc=5)
-
-2026-04-07 <span class="news-indication-tag">失智</span>
-
-來源：[womenshealthmag.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYXlrVmUzeWFTVjEtbjdkRTFsc0JDa2JyMU5qcExmbWtWTzVDeHRWemx3b21PN0VtTDR0TjNJTVVvMmlpLXF3eXJOemhhSHZDU3h4RTkyMXRNYXlncjd4ZVVFN1pYYmtZeWZTbjlXZWlybEFlb05CRHhTR3JoQm9PN2xySTkxMHAydWNjcVdKeFBQYktsY2tLNDF3?oc=5)
 
 ---
 
