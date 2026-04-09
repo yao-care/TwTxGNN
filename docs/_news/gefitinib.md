@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [吸菸可能透過外泌體干擾腦部鐵質平衡增加失智症風險 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxPNTVmZkZva3h1M3RQd1g4a2NRTzY5YlpwbU91NFpYQWhaeE5NNkl6MVRyT01tRUZTSXpzOTZ2bXhfeE1JSDRJVy1RQ0g2Wm55ekkxV252UDZLRlNxSXJQOC1ZNWtLc0dYeThLVUVkTzhzSmJaQmNDN1lSM3JaV0ZoWXNMYzdxYmxDUEJpcEM3OWhZY1k5OV9iMXpnMExScnVORlhtWU8wUFF5TXdDTjJ4TGkwYlkwWmxqam5HMkd5RDhxS2pQMjh2X2c0Vi1ieHhXNG1TS0RZV3l3VktpaWEwQzJ1V3ItTTRUR2tCUktQM29TLS1jRGpiY1RTLVR2S1hSbmFUb0M5bm0wV05FaFpGQks4YVh4SkhKVXhrSEozWEpWdzlDZlVseUNlVERHXzVYZEQzV2x0VkM0aXhuZnlDRlFlZWZpZw?oc=5)
+
+2026-04-08 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+
+來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxPNTVmZkZva3h1M3RQd1g4a2NRTzY5YlpwbU91NFpYQWhaeE5NNkl6MVRyT01tRUZTSXpzOTZ2bXhfeE1JSDRJVy1RQ0g2Wm55ekkxV252UDZLRlNxSXJQOC1ZNWtLc0dYeThLVUVkTzhzSmJaQmNDN1lSM3JaV0ZoWXNMYzdxYmxDUEJpcEM3OWhZY1k5OV9iMXpnMExScnVORlhtWU8wUFF5TXdDTjJ4TGkwYlkwWmxqam5HMkd5RDhxS2pQMjh2X2c0Vi1ieHhXNG1TS0RZV3l3VktpaWEwQzJ1V3ItTTRUR2tCUktQM29TLS1jRGpiY1RTLVR2S1hSbmFUb0M5bm0wV05FaFpGQks4YVh4SkhKVXhrSEozWEpWdzlDZlVseUNlVERHXzVYZEQzV2x0VkM0aXhuZnlDRlFlZWZpZw?oc=5)
+
+---
 
 ### [科學家發現隱藏的腦細胞有助於致命癌症的生長](https://news.google.com/rss/articles/CBMi-gJBVV95cUxQNnNxaENBdjZzTHNDSEN6cHJ0cmlQaFpKTmttNWl3cTRMRTc2VXBNVktxeDc5REozT0g1NEhWQ25Hc2JKbUI0c2NvU1RSV2NCd1hiMTdjdURuRVNwN1RwSEFzZDZicUk2VnNzNU9YZDVKSnhVMjhCMzJWS2RkMlg5WmRuOUU0Q0FZOXloOVlpd1F0SThXSTN6RUZhZFNkMS01ODhoZ3FGMlJPZlV2YjdGTmdURGhKMkhjNnBMNWFpN09IUGN2VkJjRmI1UFhGX2ExWHRBQnVFbjBEcHVJRnRtOWNFelg2bURRS0JkV0E5Zmc5ZXRRUENpTTN6RVMtbnpHaTNadTNSUE9GSnRRZVViTDc2ZGtKUGNGbnFYSmhOQTk3RmE5akJBQlNpMjRHLVVYSHNtNjA5UFNmaGJrYVRFdmdtQWk5QVctaXZ6aXVaYWU3SEVDNFVPdEFRX0g3aXNqZlRlX2VSTlctUmswTkFXakdLUTVHZ09OYkE?oc=5)
 

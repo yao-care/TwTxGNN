@@ -1,8 +1,57 @@
 {
-  "last_updated": "2026-04-08T23:30:57.778734+00:00",
-  "total_count": 32,
-  "matched_count": 9,
+  "last_updated": "2026-04-09T01:21:35.608362+00:00",
+  "total_count": 33,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "daaf0baa8be6",
+      "title": "糖尿病患吃藥配1物狂掃壞膽固醇- 健康",
+      "published": "2026-04-09T00:18:06+00:00",
+      "summary": "糖尿病患吃藥配1物狂掃壞膽固醇- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xNGs4eVo1NWh0U0I5VnhmTVJxaFUyaV9vMzNiYzlhdFpsRjM5SGt2VXF5TERXNnRnWUNTQzFLTjJJSGhjeFlkOTVkUGxWQ1QxTktZOGxwUG9QM3FzdGlKV1d0ekplY0swYmhmdmV3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0b0f0e206847",
+      "title": "吸菸可能透過外泌體干擾腦部鐵質平衡增加失智症風險 - GeneOnline News",
+      "published": "2026-04-08T23:05:22+00:00",
+      "summary": "吸菸可能透過外泌體干擾腦部鐵質平衡增加失智症風險&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPNTVmZkZva3h1M3RQd1g4a2NRTzY5YlpwbU91NFpYQWhaeE5NNkl6MVRyT01tRUZTSXpzOTZ2bXhfeE1JSDRJVy1RQ0g2Wm55ekkxV252UDZLRlNxSXJQOC1ZNWtLc0dYeThLVUVkTzhzSmJaQmNDN1lSM3JaV0ZoWXNMYzdxYmxDUEJpcEM3OWhZY1k5OV9iMXpnMExScnVORlhtWU8wUFF5TXdDTjJ4TGkwYlkwWmxqam5HMkd5RDhxS2pQMjh2X2c0Vi1ieHhXNG1TS0RZV3l3VktpaWEwQzJ1V3ItTTRUR2tCUktQM29TLS1jRGpiY1RTLVR2S1hSbmFUb0M5bm0wV05FaFpGQks4YVh4SkhKVXhrSEozWEpWdzlDZlVseUNlVERHXzVYZEQzV2x0VkM0aXhuZnlDRlFlZWZpZw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "7a7491fd4ffb",
       "title": "高齡過度節食非好事 營養師：老人微胖較長壽",
@@ -320,6 +369,19 @@
       "matched_keywords": []
     },
     {
+      "id": "49d45dd01668",
+      "title": "這種食物可以將霍亂感染減少多達 100 倍。",
+      "published": "2026-04-08T08:01:22+00:00",
+      "summary": "這種食物可以將霍亂感染減少多達 100 倍。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNWHFVeUIyX0xxcHBnZF9XX0lzMVIyenFKaWNFdU5lb3NHV2VScENfVkQ4N3JrQ25ZM1puTmFQNmpzX3NuRUIxOGRlekUzY0ZDVi1ueU52QVFRVnA3RmJMdUhranBpYlg2MDhVMlFSSXR1aEFXR2Z6UTZzZXVhTlc3M3lvcHZlb0RRaGhrRGxpc05mLXdQRUJhTkdIczMtWU9QWVotZ25IMzJkUzRmUWJfX3FESl9kSGtnZ3F1U0RhWXNTRHA2LW5yR2c2STJlQWU5OEFCSFBycTFSN09RYTV6YTlwUlVhbFhJLVMzNmFUenFELU04cV9JaWlwZW55cTdHellVak5LZ3g4QUhmLVZzcE9qMXQ0SVB4QVZrVzd1MHBrNFZwN2gzdEZnVjVpeGRILUpEdjFDNWFTaExLTFhKX0NpaHRKMDJaVGxWR0dIZ2Q?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "71cf8e7da216",
       "title": "60歲乳癌鬥士抗病17年 半邊臉被癌症侵蝕：病魔想讓我認輸，我把傷口變成鎧甲",
       "published": "2026-04-08T06:30:42+00:00",
@@ -567,7 +629,7 @@
       "id": "b2f6e9970c07",
       "title": "大腸癌進化了！新研究揭「跳過息肉直接暴走」",
       "published": "2026-04-08T06:19:59+00:00",
-      "summary": "大腸癌進化了！新研究揭「跳過息肉直接暴走」&nbsp;&nbsp;中時新聞網大腸癌進化「暴走式」突變 最新研究：省略息肉過程&nbsp;&nbsp;三立新聞網SETN.com血便可能不是痔瘡！醫籲出現3症狀快就醫：恐是大腸癌找上門&nbsp;&nbsp;鏡週刊Mirror Media健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊&nbsp;&nbsp;自由健康網吳芮醫生看我們與直腸疾病的距離&nbsp;&nbsp;報新聞 Mega News",
+      "summary": "大腸癌進化了！新研究揭「跳過息肉直接暴走」&nbsp;&nbsp;中時新聞網大腸癌竟會「跳過息肉直接暴走」 醫嘆：年輕患者一來就晚期！&nbsp;&nbsp;Yahoo新聞大腸癌進化「暴走式」突變 最新研究：省略息肉過程&nbsp;&nbsp;三立新聞網SETN.com血便可能不是痔瘡！醫籲出現3症狀快就醫：恐是大腸癌找上門&nbsp;&nbsp;鏡週刊Mirror Media健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "中時新聞網",
@@ -924,19 +986,6 @@
       ]
     },
     {
-      "id": "a3ee8da8b9d7",
-      "title": "這種飲食可以將霍亂感染減少高達 100 倍",
-      "published": "2026-04-07T08:27:06+00:00",
-      "summary": "這種飲食可以將霍亂感染減少高達 100 倍&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOcUI5eHpwYWVpZEQyRVZweURfd0QzQm1DRXdDaHVUeU04U3hUY2FvSjE2TV9uV3lLUUJRRlJ3TU1oeW8wNVVGcF9HVTVQd0poWWlTNlA5aEVyUkp6T0tZa2NnUTBPbWJ5Uzdma0l6bE1ma2JRUFpNRUMwakNWaVI2U3owcmpuOC1BQmFocjRUYTZrU0FXX204WS1vcmN4X0U2d2l3NUdkVDNsTEswTEpiTFFCcV9QeHppekl2Q3I0ZU43T0lVN1JSbXdhbUVlRXFLT2RUeTlFc1Bnam9RZ1hqUHduMmtSZkNmZ3Z2S2gtWVhlUnJfcW5BU01pMVdkMmhpaFE0MEgtaDNjZFpRNmpCdE5qX2hQN29OVTdGOHF1RnVtUlZq?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "6dd0d69139c1",
       "title": "穩血糖助抗老百歲人瑞僅6％有糖尿病- 健康",
       "published": "2026-04-07T07:54:00+00:00",
@@ -971,19 +1020,6 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZEd1SWlKclpfd19oZVpvMEREWmp6SmlQU0Q4VnYwaWtVWDNDSXM2NGlkQjNlcE9aMnFtMEFvbTlzRVU3THd3ZTR6aW13U3FDQnRKRExBZDdKekpxU2lNWHN0TC16ci1QenI5NDZpYkVNZkx3NGpWcEYwekVxUjJuMy1XRmc0MEhyQUxzRkdYV1BUejVHUTNrTVJUNGZUbFN5NGhRVzhvNEFzSDhDcTJnQkJ0WW93VkRhOF9fb3QyWFdMRm1sWUhkWU9BV2VROVhMQmNmcmNDWWdfaFU3eFpvcw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4791522012e1",
-      "title": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲",
-      "published": "2026-04-06T23:00:42+00:00",
-      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;巴士的報才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;LINE TODAY蚊蟲活動處於歷年一般水平 白紋伊蚊較少&nbsp;&nbsp;on.cc東網「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOWm1nRzNYU1c4VzEzMVRTQjI1NkxhbzBBN3JJSGFwWDZiTGRqMXgyNkJUTmZQMUctMDJYNWlwMWlPVjJVc0FMUTZiTUR1OXhWNmdSMV9oaXBuYWxNN3BSVDdvekRvNGZNSWxGU2NfS1pGeXl4dkNNbzJOczFHQWVhenpZd3BQTndqc1VmRmE2T3lwN3dWRkRFWF95S3ROMHRGV014TlYyZ0E4VHA3V2w5N212UkN0UnhiNzRuQ0h1aWlnQXJmdTZGMFloTGZ5dXo0TkFrU0haT3E0RHRHcDU2NnFwdVFaQXhRczFrS2dyRnZtb3BSZUxRaVBENkc3R1ZENmNUX1dHUVVBZUl4cGZQdU93aVI5SnowMXVtVkQ2WXFFUGcxamtpSmEwZ0tsSkQxbkxqSURFV3NVaGtsWk1fQWxRZEd3ZjNUc3ZLc0Nfc3pXY1dPc2QwQzIxZW5WRlNOVFJ2d3BOWmVNZjFGLWc?oc=5"
         }
       ],
       "matched_keywords": []

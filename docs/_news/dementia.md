@@ -3,7 +3,7 @@ layout: default
 title: "失智症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智症（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "失智症（dementia） 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
-<strong>失智症（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智症（dementia）</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [吸菸可能透過外泌體干擾腦部鐵質平衡增加失智症風險 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxPNTVmZkZva3h1M3RQd1g4a2NRTzY5YlpwbU91NFpYQWhaeE5NNkl6MVRyT01tRUZTSXpzOTZ2bXhfeE1JSDRJVy1RQ0g2Wm55ekkxV252UDZLRlNxSXJQOC1ZNWtLc0dYeThLVUVkTzhzSmJaQmNDN1lSM3JaV0ZoWXNMYzdxYmxDUEJpcEM3OWhZY1k5OV9iMXpnMExScnVORlhtWU8wUFF5TXdDTjJ4TGkwYlkwWmxqam5HMkd5RDhxS2pQMjh2X2c0Vi1ieHhXNG1TS0RZV3l3VktpaWEwQzJ1V3ItTTRUR2tCUktQM29TLS1jRGpiY1RTLVR2S1hSbmFUb0M5bm0wV05FaFpGQks4YVh4SkhKVXhrSEozWEpWdzlDZlVseUNlVERHXzVYZEQzV2x0VkM0aXhuZnlDRlFlZWZpZw?oc=5)
+
+2026-04-08
+
+來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxPNTVmZkZva3h1M3RQd1g4a2NRTzY5YlpwbU91NFpYQWhaeE5NNkl6MVRyT01tRUZTSXpzOTZ2bXhfeE1JSDRJVy1RQ0g2Wm55ekkxV252UDZLRlNxSXJQOC1ZNWtLc0dYeThLVUVkTzhzSmJaQmNDN1lSM3JaV0ZoWXNMYzdxYmxDUEJpcEM3OWhZY1k5OV9iMXpnMExScnVORlhtWU8wUFF5TXdDTjJ4TGkwYlkwWmxqam5HMkd5RDhxS2pQMjh2X2c0Vi1ieHhXNG1TS0RZV3l3VktpaWEwQzJ1V3ItTTRUR2tCUktQM29TLS1jRGpiY1RTLVR2S1hSbmFUb0M5bm0wV05FaFpGQks4YVh4SkhKVXhrSEozWEpWdzlDZlVseUNlVERHXzVYZEQzV2x0VkM0aXhuZnlDRlFlZWZpZw?oc=5)
+
+---
 
 ### [科學家們剛剛實時觀察到阿茲海默症造成的損害發生](https://news.google.com/rss/articles/CBMi5gJBVV95cUxONzRFem1Yb08wdkdGTEVIZnJGX3FRWFBhaFJLbDYwTWljSUFzNHA0dFJZdDZWbG9IcEZlYWJ2WFpnWUlOSlBZczk3T3BmVVR4TkllMzJzb2M4bWQ4cUZOMUxuUVJudVhTeGcycW1vVzZwZTc5dFNYYWdlM0p2aUpEbU1ycm5VM2VWMEhLa3IySWJTMUE3NERsRmNoRDkxWTA2Q1ZseWxjSGktOEdaRVZ2RlYxeWFKSEtpcGhUOTc4MnJBTEZsWm1nbTN1ZjItek5YdG1SbFV2Q0lJRXdhemYzMld1UHVJU0dyeHRBZ192UUpCSmx4WnY4NXlNX1VtQ3hXS1FNakR4TmhKbllZWGZjYThMUWtvc0wtbkU2dTJZY1B4Z0JsaG1yU0QzRFBmVUtsY1VWUzlqWkRINkE2bkQ3WXlaMTZidmwyT2dkcmI3TjRoa0dzWGZwRHVKcXZPd0VFWGVPdFdn?oc=5)
 
