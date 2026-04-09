@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T13:03:06.745553+00:00",
-  "count": 14,
+  "generated": "2026-04-09T15:14:19.016330+00:00",
+  "count": 15,
   "news": [
     {
       "id": "4da46842baae",
@@ -245,24 +245,208 @@
       ]
     },
     {
-      "id": "dacff7c74856",
-      "title": "使用GLP-1減重藥物的隱藏成本與經濟壓力分析 - GeneOnline News",
-      "published": "2026-04-08T10:15:43+00:00",
+      "id": "580d93835a3e",
+      "title": "科學家發現隱藏的腦細胞有助於致命癌症的生長",
+      "published": "2026-04-08T12:49:10+00:00",
       "sources": [
         {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNLUlfbU85cHM5cms5NnZDNW43MHZqbUxTMFRnZWhGenVIUVJoSzhTMHhlc1VJZ25IU0w2UWlmckM2UGtqU0tEVHpVOEhlWE5RUHE3dEVGaWVadDZhX19YYS1pRHMzT3lCbkJuSVhZOHRvWEtMM1FaWVBkWmMzeGlSa0JMWDI5Vms3ZE5IN05YQzlJVWpVc0Zia1BFVVp3eEVlLVRQcWF0dHlva09HbFJoUl9qR3dxalRhckRDVHNqc0lZMldXWV96bTRFX0RxNDR0a2JOLXdSOUtDSE9aRjJjSDBtYVFYT0k5dWQwTlBwN04zV2tsUUpSdERjeWZHRFZuT1ZHNE5UeU5YazNGd1JmMG5ELUdKYmxvbGFuaQ?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQNnNxaENBdjZzTHNDSEN6cHJ0cmlQaFpKTmttNWl3cTRMRTc2VXBNVktxeDc5REozT0g1NEhWQ25Hc2JKbUI0c2NvU1RSV2NCd1hiMTdjdURuRVNwN1RwSEFzZDZicUk2VnNzNU9YZDVKSnhVMjhCMzJWS2RkMlg5WmRuOUU0Q0FZOXloOVlpd1F0SThXSTN6RUZhZFNkMS01ODhoZ3FGMlJPZlV2YjdGTmdURGhKMkhjNnBMNWFpN09IUGN2VkJjRmI1UFhGX2ExWHRBQnVFbjBEcHVJRnRtOWNFelg2bURRS0JkV0E5Zmc5ZXRRUENpTTN6RVMtbnpHaTNadTNSUE9GSnRRZVViTDc2ZGtKUGNGbnFYSmhOQTk3RmE5akJBQlNpMjRHLVVYSHNtNjA5UFNmaGJrYVRFdmdtQWk5QVctaXZ6aXVaYWU3SEVDNFVPdEFRX0g3aXNqZlRlX2VSTlctUmswTkFXakdLUTVHZ09OYkE?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
+          "name": "generic_cancer",
+          "keyword": "癌症",
           "related_drugs": [
             {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
             }
           ]
         }
@@ -561,6 +745,30 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e9b92ea3ae3c",
+      "title": "GLP-1藥物用途超乎減重 心血管、成癮與神經疾病現治療潛力",
+      "published": "2026-04-08T04:23:41+00:00",
+      "sources": [
+        {
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNRkRETy1ORUIyUWNrVThPUWFDbkg3QWRnLW9aS2VyQnNxLU9fT1JRcW43N3RBak82QlJFYk5OUW8yRFZNR0V2ekZXQ0VVaTJETlJXTUNNTDFMc2huQjB4TTNydWxWQWJrWDhQVmdHdzRIZ0xHdWhpX2NlYTJ3ajdrX1lxam9fZ2tIWGZSRHZ5MFNBRUpKSDV4RG1TZ1Y5dDZQV01Ta1ZOc2VNcU1vYjlmVWRPZjZ0LVVidW9meG5VMEV2TnAwQndzQnBfYnR1RWN5M3dTVXZYYWtNdU5CaWxpN2t5Y21XelZpclRVUW5idTBoNUxXYnZQdUp0WnYxd3prT2NHZG9xVUl4T21TS3RxQ3lwc21TT0R1bldtMXdzOVo2WWt4TGUyYTdNOE85SGFnLWhHZFNwd3FLdThRQzluSFNwZzNzNlE4ZFBEenNpRVNQdzA3cTFwSVdNeC13NDNBcURObzZxZUx1LWhQWGVJTnFKSEExZ1ZRMGlKODJ0bVgtX0thdEFFMw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
             }
           ]
         }
