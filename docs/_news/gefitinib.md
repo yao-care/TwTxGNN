@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [腦神經專科韓植源醫生談防治老年失智症](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVFEMFJEajR3cUh2WXhCb0VSZzdteHNzTVJQMUZJWlFCR1Q5MkpGUGFnVklrYnVSVDl3VGF6eFczLVlRN0NGWlFHSmQyT1VzXy1xOEd3bVpPdVZKcVV1cnNvRmllQnZGaUxPUVF1em5rQ2xUZlBRSndKMktseU5VemZ0RUtKbDFPdDA0?oc=5)
 
@@ -56,14 +56,6 @@ permalink: /news/gefitinib/
 2026-04-09 <span class="news-indication-tag">失智</span>
 
 來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YNUpBREdBMmpZbzNFYjI1X1NkTlZRSW9XZGljV21aZnN4b2tLRlBUYTRzb1labFVDLWZZeTN5aXJoTjJWekRoaHhhR2hvS2JEdWRBS3Z2Z2M3b214RDRn?oc=5)
-
----
-
-### [運動不只練肌肉！ 研究揭蛋白護腦抗失智](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sWWRIUlhFQVRETmRUWDMyYjFfYTJqd01ydWFSb2hvRVowX1dFbVNQYlhvNldwaVo3cjlHeHZoal9rWnF2R2NxcG84dWpjZ0lW?oc=5)
-
-2026-04-09 <span class="news-indication-tag">失智</span>
-
-來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sWWRIUlhFQVRETmRUWDMyYjFfYTJqd01ydWFSb2hvRVowX1dFbVNQYlhvNldwaVo3cjlHeHZoal9rWnF2R2NxcG84dWpjZ0lW?oc=5)
 
 ---
 

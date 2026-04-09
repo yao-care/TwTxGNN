@@ -3,7 +3,7 @@ layout: default
 title: "失智症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智症（dementia） 的相關健康新聞報導。6 則新聞、1 個相關藥物。"
+description: "失智症（dementia） 的相關健康新聞報導。5 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
-<strong>失智症（dementia）</strong> 目前有 <strong>6 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智症（dementia）</strong> 目前有 <strong>5 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [腦神經專科韓植源醫生談防治老年失智症](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVFEMFJEajR3cUh2WXhCb0VSZzdteHNzTVJQMUZJWlFCR1Q5MkpGUGFnVklrYnVSVDl3VGF6eFczLVlRN0NGWlFHSmQyT1VzXy1xOEd3bVpPdVZKcVV1cnNvRmllQnZGaUxPUVF1em5rQ2xUZlBRSndKMktseU5VemZ0RUtKbDFPdDA0?oc=5)
 
@@ -44,14 +44,6 @@ permalink: /news/dementia/
 2026-04-09
 
 來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YNUpBREdBMmpZbzNFYjI1X1NkTlZRSW9XZGljV21aZnN4b2tLRlBUYTRzb1labFVDLWZZeTN5aXJoTjJWekRoaHhhR2hvS2JEdWRBS3Z2Z2M3b214RDRn?oc=5)
-
----
-
-### [運動不只練肌肉！ 研究揭蛋白護腦抗失智](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sWWRIUlhFQVRETmRUWDMyYjFfYTJqd01ydWFSb2hvRVowX1dFbVNQYlhvNldwaVo3cjlHeHZoal9rWnF2R2NxcG84dWpjZ0lW?oc=5)
-
-2026-04-09
-
-來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sWWRIUlhFQVRETmRUWDMyYjFfYTJqd01ydWFSb2hvRVowX1dFbVNQYlhvNldwaVo3cjlHeHZoal9rWnF2R2NxcG84dWpjZ0lW?oc=5)
 
 ---
 

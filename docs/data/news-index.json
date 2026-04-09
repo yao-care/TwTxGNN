@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T11:47:28.076236+00:00",
-  "count": 15,
+  "generated": "2026-04-09T13:03:06.745553+00:00",
+  "count": 14,
   "news": [
     {
       "id": "4da46842baae",
@@ -69,30 +69,6 @@
         {
           "name": "科技島",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YNUpBREdBMmpZbzNFYjI1X1NkTlZRSW9XZGljV21aZnN4b2tLRlBUYTRzb1labFVDLWZZeTN5aXJoTjJWekRoaHhhR2hvS2JEdWRBS3Z2Z2M3b214RDRn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4cdbfed2ebd3",
-      "title": "運動不只練肌肉！ 研究揭蛋白護腦抗失智",
-      "published": "2026-04-09T06:39:00+00:00",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sWWRIUlhFQVRETmRUWDMyYjFfYTJqd01ydWFSb2hvRVowX1dFbVNQYlhvNldwaVo3cjlHeHZoal9rWnF2R2NxcG84dWpjZ0lW?oc=5"
         }
       ],
       "keywords": [

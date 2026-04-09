@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-09T11:47:24.182430+00:00",
-  "count": 44,
+  "fetched_at": "2026-04-09T13:03:02.990316+00:00",
+  "count": 43,
   "news": [
     {
       "id": "36132892ba5a",
@@ -64,6 +64,18 @@
       ]
     },
     {
+      "id": "7cb902cd46a7",
+      "title": "杜克大學團隊再生醫學新突破 骨關節炎有望擺脫慢性疼痛 - yesmedia.com.tw",
+      "published": "2026-04-08T06:31:52+00:00",
+      "summary": "杜克大學團隊再生醫學新突破 骨關節炎有望擺脫慢性疼痛&nbsp;&nbsp;yesmedia.com.tw前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPd2M0MEtwQjBLRlc0LVZGOUFvdTl0dUpNMXVWR3Y3c0pxdmt1M2llcmRjM0Q4ZU5QY3dhc1dzaURXNXFlQUNrVkFDNWNuS1ZFR19IRnEtYkJhUVFia0hyajNQN09hNmd6cmQ3YnB0RFNuTElCMHVYZmlmYkMyVUktQnFVUE5NMGlicHZJZUhQdXRvajJpVEw3ekpxX1FDdjZibk1IQTcyNTNrWDZmNFVCVW9SMkM2N3ZkUk11NllvWEFUN1VVbzhVQ01ZTFFVcTJKSHN4aTNzQWpwMWw3cnJHelZkby01eEhGRTNZVFhXYUl2MUppQUNWRmVXZnVqRGJUREJNSVBwUE81bDZZY18yUHprWFVHckJodDRBX2sxZldDWmp6bXFyc2ktTlNvSVZmMlRTaElTa3diWnhLbXBhR0I4b24yWFl2UVljag?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2b05fb152aa1",
       "title": "30歲廚師不甩「帝王病」48歲就洗腎醫嘆：發作一次就危險- 健康 - 中時新聞網",
       "published": "2026-04-09T05:36:50+00:00",
@@ -88,30 +100,6 @@
       ]
     },
     {
-      "id": "7cb902cd46a7",
-      "title": "杜克大學團隊再生醫學新突破 骨關節炎有望擺脫慢性疼痛 - yesmedia.com.tw",
-      "published": "2026-04-08T06:31:52+00:00",
-      "summary": "杜克大學團隊再生醫學新突破 骨關節炎有望擺脫慢性疼痛&nbsp;&nbsp;yesmedia.com.tw前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPd2M0MEtwQjBLRlc0LVZGOUFvdTl0dUpNMXVWR3Y3c0pxdmt1M2llcmRjM0Q4ZU5QY3dhc1dzaURXNXFlQUNrVkFDNWNuS1ZFR19IRnEtYkJhUVFia0hyajNQN09hNmd6cmQ3YnB0RFNuTElCMHVYZmlmYkMyVUktQnFVUE5NMGlicHZJZUhQdXRvajJpVEw3ekpxX1FDdjZibk1IQTcyNTNrWDZmNFVCVW9SMkM2N3ZkUk11NllvWEFUN1VVbzhVQ01ZTFFVcTJKSHN4aTNzQWpwMWw3cnJHelZkby01eEhGRTNZVFhXYUl2MUppQUNWRmVXZnVqRGJUREJNSVBwUE81bDZZY18yUHprWFVHckJodDRBX2sxZldDWmp6bXFyc2ktTlNvSVZmMlRTaElTa3diWnhLbXBhR0I4b24yWFl2UVljag?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4cdbfed2ebd3",
-      "title": "運動不只練肌肉！ 研究揭蛋白護腦抗失智 - ETtoday健康雲",
-      "published": "2026-04-09T06:39:00+00:00",
-      "summary": "運動不只練肌肉！ 研究揭蛋白護腦抗失智&nbsp;&nbsp;ETtoday健康雲",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sWWRIUlhFQVRETmRUWDMyYjFfYTJqd01ydWFSb2hvRVowX1dFbVNQYlhvNldwaVo3cjlHeHZoal9rWnF2R2NxcG84dWpjZ0lW?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2a961c9e2a95",
       "title": "抗癌藥「小紅莓」現新用途 研究指有望治療抗藥性皰疹 - ENN台灣電報",
       "published": "2026-04-09T04:11:18+00:00",
@@ -124,18 +112,6 @@
       ]
     },
     {
-      "id": "0184af098b26",
-      "title": "預防流感、病毒感染 曬太陽就有效 - 台視新聞網",
-      "published": "2026-04-09T07:00:14+00:00",
-      "summary": "預防流感、病毒感染 曬太陽就有效&nbsp;&nbsp;台視新聞網健康網》瘦不下來不是吃太多 研究揭維生素D恐不足&nbsp;&nbsp;自由健康網預防流感、病毒感染，曬太陽就有效&nbsp;&nbsp;PChome Online 新聞補充維生素D抗癌？醫建議日常補充「這樣吃」才正確- 營養好食&nbsp;&nbsp;TVBS 健康2.0內臟脂肪減不動研究曝補足1維生素還能穩血糖- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBENHV2M0R5YUw0eVR2UGxSLWhKeEUxRkk2YzQzTEZud1Q2dk1qMW9vMXlnVmNqMUFSU1ZqSEt3N3pXVHZqelNIOUcxQk00OEtyRjhFcmZwTQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0b9502bbddca",
       "title": "科學家們剛剛實時觀察到阿茲海默症造成的損害發生 - citytimes.tw",
       "published": "2026-04-08T02:26:48+00:00",
@@ -144,6 +120,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxONzRFem1Yb08wdkdGTEVIZnJGX3FRWFBhaFJLbDYwTWljSUFzNHA0dFJZdDZWbG9IcEZlYWJ2WFpnWUlOSlBZczk3T3BmVVR4TkllMzJzb2M4bWQ4cUZOMUxuUVJudVhTeGcycW1vVzZwZTc5dFNYYWdlM0p2aUpEbU1ycm5VM2VWMEhLa3IySWJTMUE3NERsRmNoRDkxWTA2Q1ZseWxjSGktOEdaRVZ2RlYxeWFKSEtpcGhUOTc4MnJBTEZsWm1nbTN1ZjItek5YdG1SbFV2Q0lJRXdhemYzMld1UHVJU0dyeHRBZ192UUpCSmx4WnY4NXlNX1VtQ3hXS1FNakR4TmhKbllZWGZjYThMUWtvc0wtbkU2dTJZY1B4Z0JsaG1yU0QzRFBmVUtsY1VWUzlqWkRINkE2bkQ3WXlaMTZidmwyT2dkcmI3TjRoa0dzWGZwRHVKcXZPd0VFWGVPdFdn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0184af098b26",
+      "title": "預防流感、病毒感染 曬太陽就有效 - 台視新聞網",
+      "published": "2026-04-09T07:00:14+00:00",
+      "summary": "預防流感、病毒感染 曬太陽就有效&nbsp;&nbsp;台視新聞網健康網》瘦不下來不是吃太多 研究揭維生素D恐不足&nbsp;&nbsp;自由健康網預防流感、病毒感染，曬太陽就有效&nbsp;&nbsp;PChome Online 新聞補充維生素D抗癌？醫建議日常補充「這樣吃」才正確- 營養好食&nbsp;&nbsp;TVBS 健康2.0內臟脂肪減不動研究曝補足1維生素還能穩血糖- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBENHV2M0R5YUw0eVR2UGxSLWhKeEUxRkk2YzQzTEZud1Q2dk1qMW9vMXlnVmNqMUFSU1ZqSEt3N3pXVHZqelNIOUcxQk00OEtyRjhFcmZwTQ?oc=5"
         }
       ]
     },
@@ -196,18 +184,6 @@
       ]
     },
     {
-      "id": "31fd3f6ef751",
-      "title": "當其他疫苗供不應求時，這種小狗疫苗取得了成功。 - arch-web.com.tw",
-      "published": "2026-04-08T17:37:21+00:00",
-      "summary": "當其他疫苗供不應求時，這種小狗疫苗取得了成功。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPQU5wQ3BNNWtDVzhjZHF5cUdmNnFkamNNWW42VmwzR3NYWWVWRkk5RGJxaHNESlI5S2s5LWlKVlhiWjBnOVhoR3lzTGFlZDBpQzdLVzNhRTFKZ2NWVkJWSlE0Y1BucE94aWFzMjI4dGNwU0RWS0x5ekNiZFlzZmdoaXU0YVh2dGpvWGptWGg5VmJUQVR1cHNEZm50cUM4NHBqNW8xcndpWllBa254TWY4ckVLRnFwbm1GcGtsMWN5Q0hCTlJhMkgyM3F5WlJXZ3d3S0VldjRXakNMZFhRZnVzdXZmcmllUzhkREViWmdsU1hhakdyTzR3enZ6SVRWdEtuS2ZNMmtWTHRxZENhM2tJQ0RrbjVpWFJPamVQZXJ6N1pYNk8wNXdEcGpwNmx1SDdXcnZ0bEhJUEVTRjVXaFowTXU5Q3ZOd094OUZuci1rS2s4Rncxd19XTlVORXZudUY1UHlwU01kLUxrX3ZucExOMGJaME5PTVhxMVFqQ0VGMVFUR3VYTVE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1d5ba2ea2986",
       "title": "不只偷吃還帶走！「這動物」會縮骨功 10元硬幣大孔洞就能鑽 毛孩飼料也不放過 - TVBS 健康2.0",
       "published": "2026-04-08T04:09:00+00:00",
@@ -216,6 +192,18 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pMWkycjJic3FzUGdQZmNsbXo0MHo3V1dleWZxNkktR01rVVBYcEJDYVczZkR6R0FLUGNxNGI4ejVmWnQtQXRUbG1KZzh6aXNCNDNZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0f59eac2069f",
+      "title": "當其他疫苗失敗時，這種小狗疫苗取得了成功 - citytimes.tw",
+      "published": "2026-04-08T20:00:56+00:00",
+      "summary": "當其他疫苗失敗時，這種小狗疫苗取得了成功&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOdmd4a0JPeXZNVTBMY003cTJPRmFveHY3d1hyZURIY0lFaGo3MTRMN1AyS2dIYVFYTlhjaGx5Q0d2QkY5aHdlYVowejIzWklibE9FUGswUGVfZ3RzOWhQWS1vSkVzeVliNEE4Z3oyc3A2eXdQX0FyTFo3Wk54WGp4eEVqSVpEaF9JenlnMDVnNnJBYUxKR0oyLU1FTllCTmRfYk84cG9yTFRGYTdoQWNycTdnRnV5WVoydE5vRF9WWFZNUExfODJrTkhpY1JyV3JBOWQtbzhtbGtJNkYwTFE4eXVLNVhwY1ctV0pRbFRxQWFGT2pVQmZySGFRUm8zaXJqNEFVQnMxYVZIbXAybjV1TW1pUlU0NU5ETm8tMHRrOVdRczRqMUVvN0NCcDVhSUQtbklKZXhoY2kzVWhDc1RoQkxjTW4wSkprcm1VV09B?oc=5"
         }
       ]
     },
@@ -436,14 +424,14 @@
       ]
     },
     {
-      "id": "03630b58ffec",
+      "id": "49213dcc2662",
       "title": "醫度問．醫度答 往期醫生回覆｜收集大家健康疑問！TOPick記者幫你問專家！【馬上提交問題】 - 香港經濟日報HKET",
       "published": "2026-04-09T06:11:17+00:00",
       "summary": "醫度問．醫度答 往期醫生回覆｜收集大家健康疑問！TOPick記者幫你問專家！【馬上提交問題】&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMivwRBVV95cUxOUTI0NnpZQndXaXJXSVZyVmZ1MF9KUmlIWGcyblpCOTRDcm1qZmYwUEhYSTNUNjktNm1MLWhINjJfcDNrbDFMaFRzMjJFd25hU2FoUW04SFdsY0NhTXE3SmhBYU1OSDNqYkxMaElvV3JlVWlwZG8wdW9zZU9DcWhSY05CdFpuOW1KRjhVMGJ5blVUMWxVbkdQNUd6Wnppc0VMZFJXa2x1TXpoMWFoSGszbGFHd3M0N01MbS1aVV85Wng5b09JbUhRQkZzenFub3FyS3VQeDc1OFZkSWFvUUozeEhxNUFBZVlKbWZuOGY0bU80MzJrTXRkRndSeGhJSXJqX1BFclhqY3dGcl9QMUVkNDAxRjdaRWxYbWJPYnpTX3Y2dTZPaHg1S1FLSEplRzhWQktPMlV2WEhMN1dUdV85MG5tSy1YV3A4RkItbXp3LTcwZVFSWThsT2dpYUJoZHJ1aExzVXlSMEZzQ0JZelJaT29MN1gzckhlQTlJTU8wTDhpNGhGOUJBTHI2cURhWE5vSE5NZDJKZm5SSktybUdkZERCT2drVTVralI0SWpIRVJDMThxdzRndUtKcGx1NHVvalF3R2R1aHoyYnhEbVJ3TElwOU13NHVhWEFFNFYwSDVZOTVRUUdWSmdra0tuOU14SjlIUDZzWHkzZU9vTkxTNENZdXZCM3lzOHliZTYxeHNTTFNDUE94NHRPeVhZakVJOHJvM1U1MzFQUHV4UVlIWGlrYXRnMkZwcmdPVnB1cw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxNb1VtYU5MUUdjS2FtOF9WMVJFWWZMUm9VcC1TOHFFLU5QcXhZb3htYW5RUHQyZzBaeTk2Ulhldzl0Z09vU2U5Vk9fV1RXZW41eTZpSDREdnV4YkJNWDM0LWYzUDFWbDhZZkVpZ0ZYNEdpSWo5X1JTRmR1RzhqWGZwYWU0aGVpNFlycm1OWWRISm5ZZE5RWENnejdHTVVHNlpLLWFybnVZd3Ryc2hmNWw1cFBaV2xyd3VpeVJrTHhnWS16X2VZS1FrYkoyTGVoRDNXNW5yS29qTHJTbmRwdkdQQ2ZWNkRDcjJJRXIxNzZGN3RiaHQ4VFQxeGVIQUtfT0JBdTZNeGY5djFBMW1waHRNcm5DeUtCNnlLZFhrMTRXQTRjWmtzcldvUjhId1FKek5IYVJKSG1ieVJ3TnNaaU53TzhjQ1A2YlJ1bkJ5dE04OXpOc3UydTdRZWR6bi02NER2TlZuTmdPXzVrd3hmTHNFeFVhU0c3RkdEMHBMRHozQmNkSG5LQ0tEcnNlOE40UjJYZEp2bUlYcG11UjE3YXZjSk1wN1lYX1Ryc21xM0NlN2pZODhNMlVsYnBVNHZtWVBUdHB2V0oxekdNT3FUY0RPOTlXaHZSRUZoNFAyNWFmNW0wbUZFeElXYUQ4TWMtVmR4d0lScnYyb3BfaTRFOE5JejF2b09lUDVWdkk3XzNhc1pTaVdIQ0VXYldnTVhRclZTWXJmcmttYktJbGRtTm1jalZB?oc=5"
         }
       ]
     },
@@ -520,14 +508,14 @@
       ]
     },
     {
-      "id": "fc9147fe552d",
+      "id": "f6a6b89c6e18",
       "title": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期 醫生揭4大減肥方法惹禍 - singtao.ca",
-      "published": "2026-04-07T11:03:31+00:00",
+      "published": "2026-04-07T15:50:20+00:00",
       "summary": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期 醫生揭4大減肥方法惹禍&nbsp;&nbsp;singtao.ca",
       "sources": [
         {
           "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQM3FIQ3hEZXUyamF0N01MY1dxZjlxck84ckJNZi1vNGN4Y1dhR2JvUDFZTENaZmxjXzdISk1kS1p3SUkyUmo5QnAtMy0wY1ZoaGozZWtITTZUcEJOeUVyYjl3RG0xc19yOHdlMnpscU03MGpqdFhkbG16NmZkYU1tUHBVa21ra3hMOU9vWTRKLWxDamMtbWo2TzliQzBkMjhFOExXRkEyUDRlNnUtLWFfbHV0cFg1WmIxRERBS1htNTdJemZRMlI2OGc4T2g5bXI2dVBKSnBVdGloYWEtbXhPRjB3OTBuN1pRNjNVZzdqTEFKVDNMNnR6aHZKell4NC00NTMwbl9ONXRmN3FrOGVnUnptbFY0b2Q3ZkpPcHJFd2JIMF9uZjg5U2xjZkNiRmE0bU5IdVRJbWVnbEcydnFlVjFLVnNLTm9qam8zSVpfQU5ocFYzNDR4S1lfV0ZyaGlQWEJ1WFk1TndEd3VNam9DLTlraFBPSlNYZHdsVFF5anhEeG13RmVfSk9CcUNVWFJoVTNUS1NsMlF3QllEQTMydWpvaVVXMEFxT2lZVFRVaEVocWI4QjBDTmh30gGSAUFVX3lxTE1WZ1o3XzZZV09WSnJrUll1N3gwT2pZQXdROWt6ZnNwUUJ1WUtxMGNiazNFeWxadnlNMTNOcnY4ZUY0dVhDWEtWZDBtVDlybTdPY0prSURfeHY2bEJRRnF6U3BHWTVlVDBOeXBqUUtWS050eThCYjJ0akJMRVN2RjFiSjhPMlNnRFBKRGlZTThDbUxB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQWUVvNVpRR29JRk1GZjNneV9NLTlKWVpKYmRZekxZakQyQUtFVWF6VzcxSWZnUFV4emU3NzZkbDQ1NHBqSEVmOGEyem1iSmpkNWdhT3N2Qng3ZW1YYlBaNklQcUdrR1EtdXMwTXNGMzFZMXJsb0lyYmNQX3hOdVU4aHVXRVV4SFBqal82SjFGcWw5NC1LT2djc1d3djlhcHVmMjkzcEJZT3dCN3dSX3gybUR5eGk3NC1abS0zVHZ5ZE5iRXVFejA3X2ZoR3F3QUtwRjN5ZFg0TGRLZ3pMcGxGV2JwdGhHWlVCaWl6QXlnSjBpVC11aWxrT2tZQzdOT3pNU0t4M1JuWFp4aS1yZEM4VGdodEo0ald1Mk1RVkNNUGt5eXdGdkJVcnFVU1dvVU13M04wM2MwbkN6TlpIbVcxSlRzZE9PTkkta2RqWF8wbFVXTlJmNnlQaEJMbUhVQzVoUTM3WV9GcGhyZi1HRjJ5czZYR210dGoxVFF1R1NkWmMyazVsY1VzT2FPQWtNRTJlbmdFVVJHQXJKTThXa21wN3UxR0k2M2ZfVjJ0VFJTN2F0R25sa0N5Y2t30gGPAUFVX3lxTE55Q1ZJZ1g5Tzk5Y2dQblZTckJ4Wm83aHp5bml5VVNJcjU2c1ZaaHRHdUM1ZHdjVHkzdWM4SnpwZW9hZlJBeUxmRk0zRHpnM2JIU0pxTVJWSkc4ZXhRT0o2dnBXNVBqTlRnd0pTYm1STjBPZ2JMd1V1NG15bmxxZGo0bGFHeUNDclduZHJQLUVZ?oc=5"
         }
       ]
     }
