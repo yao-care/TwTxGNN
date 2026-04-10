@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [常見營養素可以增強癌症治癒能力](https://news.google.com/rss/articles/CBMisgJBVV95cUxOV1BNTG5ZV2FEMTY5cURHODZGWDhodG9QWDhaRTJrYlp4RzZQNGV4dmltejJhbWVfOS1ubWxnZVVpci15MmxyT04yZVpudWthRFFtc21IY1Q1U093X19vcW9pc1lIaHAzT0JrQjc5am5iS2FaMWU4ZUNITHZfWjh5a1ZuTk9yMEVqb1FvaXZVVUZaQ09sZmxES1J0TDNlMEEwQWE2Z3ZvSF9JbXN0R1VtOVdNNWJHcUhINDRxYklGQmpNYU42S29FZUtyZm5lYjJhMFZnaEREUW5mTTV0TkNveG95R3pJUVR3ZGVNUF9YX3JiOEVVQy1CVXVGR2RSdlJlVDRDSk5QbHlFbVoxQVhsdDhHYU9rZ19hR1oyRmVUM25SQlotVkFrMjl0Uy1GZnd2TXc?oc=5)
+
+2026-04-10 <span class="news-indication-tag">癌症</span>
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMisgJBVV95cUxOV1BNTG5ZV2FEMTY5cURHODZGWDhodG9QWDhaRTJrYlp4RzZQNGV4dmltejJhbWVfOS1ubWxnZVVpci15MmxyT04yZVpudWthRFFtc21IY1Q1U093X19vcW9pc1lIaHAzT0JrQjc5am5iS2FaMWU4ZUNITHZfWjh5a1ZuTk9yMEVqb1FvaXZVVUZaQ09sZmxES1J0TDNlMEEwQWE2Z3ZvSF9JbXN0R1VtOVdNNWJHcUhINDRxYklGQmpNYU42S29FZUtyZm5lYjJhMFZnaEREUW5mTTV0TkNveG95R3pJUVR3ZGVNUF9YX3JiOEVVQy1CVXVGR2RSdlJlVDRDSk5QbHlFbVoxQVhsdDhHYU9rZ19hR1oyRmVUM25SQlotVkFrMjl0Uy1GZnd2TXc?oc=5)
+
+---
 
 ### [科學家用「豬精液」研發抗癌眼藥水 實驗證實可縮細腫瘤 有望治療兒童眼癌保視力](https://news.google.com/rss/articles/CBMi9ANBVV95cUxOZWxUTFVCTjNfc1ZTeVctTmNSbGNFOW1hNlhvWHNOMTBlbC1CLUx0SUxyUnhucGpDTUZHVUJ4eHZTNUNsRkhCM0hhOF85SVVlR0dDQ3RaZTROelUtV0MtUWVOS19vakhSUFpNeE1ndk5LYzhmRnRibzJDQTBORWxGZDNUZTM0U2FYdXo1VXNzbWFEUGU5ZWdjRm5xQTFmZTdaeWJPTVRfajc4YThzMVZsRWg5VFZOT0M2eF9RR2RoeXVHdUFyNjA5YWNra0RTUzFZTVZ4eE1OQTA0cFFZQ2lkcnJaT1lmUFZBb2tvdjlMR3MwZXBoVWpPR3FrR1ZsbEwwRmZDSkF4QTBtSFM1MmIxVmNybHgzZzUtLS1Oa3dqT2NQV3pJV1p3WjU4QWREdlZGQUF1V21BSWNFbmwyMnBMRHRCNDZITUwzdmxOd0hNQXlRdm5vd1MwdzBRVG1xVnBuR09tWUxnRWI5ejlnNVJPYnNFQlYzbzQzMFdkZlBsZFdSOW9xSzl2Ul9jNzJSZnd5SVQ0bnplejNFUE5mOUJFMUpjMWZuVFN5M3czSHNtT1RhQ1doTXJxSHZuMFNES3lKTjNWMGdFQUw5MjVMbnBsUnMwNmdZYTdZWkRpME01MG5oTVVBaV9rN3J1XzZkVkt6aC04Zg?oc=5)
 
@@ -80,6 +88,14 @@ permalink: /news/gefitinib/
 2026-04-08 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxPNTVmZkZva3h1M3RQd1g4a2NRTzY5YlpwbU91NFpYQWhaeE5NNkl6MVRyT01tRUZTSXpzOTZ2bXhfeE1JSDRJVy1RQ0g2Wm55ekkxV252UDZLRlNxSXJQOC1ZNWtLc0dYeThLVUVkTzhzSmJaQmNDN1lSM3JaV0ZoWXNMYzdxYmxDUEJpcEM3OWhZY1k5OV9iMXpnMExScnVORlhtWU8wUFF5TXdDTjJ4TGkwYlkwWmxqam5HMkd5RDhxS2pQMjh2X2c0Vi1ieHhXNG1TS0RZV3l3VktpaWEwQzJ1V3ItTTRUR2tCUktQM29TLS1jRGpiY1RTLVR2S1hSbmFUb0M5bm0wV05FaFpGQks4YVh4SkhKVXhrSEozWEpWdzlDZlVseUNlVERHXzVYZEQzV2x0VkM0aXhuZnlDRlFlZWZpZw?oc=5)
+
+---
+
+### [美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士](https://news.google.com/rss/articles/CBMi5gJBVV95cUxQUDdOTDd6VEc5NTFzSmhzRnpaaW9sbEtGQl90OG83d0tYOWZaRGx0UUJjbFFJM1dVemZlZkt6b0tBN0VCZzBpNjhKZ2cwblhTbF9EcDRLYkRfQlJ6V01UMEh4cERyandobllrekZNbUl0cXBhNkFwTjJVa0VfaTZjNVVOLXhnNHBscXVLaVR4cHNaSF9hNFJuRHNlSFc0cXFxMmxIVEZkM3hUN0ItUjJxc2hzem9BS0dVNTF3eXRSUkNldXM0T092VG1Vb3N5Nk9OY1NzcVFzdnhiTm5taXE5dHZ0OWtMcEhyNFNiS1BXTDNiclVBbkRhaHltV1ZKT3V0ZzZRQTJuMWZ1RDk1bkdINjBQVklzcmNoR1F5VnM5NVd2Nk9wRTZ1cDVyYjJUNmszUE92UUFha3FTN25JSkxydGRwY1lVbDBHUDdrR2dCbkJmTnVqRnNPb3Y3ZkFJTnU3OS1hSVBR?oc=5)
+
+2026-04-08 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源：[bastillepost.com](https://news.google.com/rss/articles/CBMi5gJBVV95cUxQUDdOTDd6VEc5NTFzSmhzRnpaaW9sbEtGQl90OG83d0tYOWZaRGx0UUJjbFFJM1dVemZlZkt6b0tBN0VCZzBpNjhKZ2cwblhTbF9EcDRLYkRfQlJ6V01UMEh4cERyandobllrekZNbUl0cXBhNkFwTjJVa0VfaTZjNVVOLXhnNHBscXVLaVR4cHNaSF9hNFJuRHNlSFc0cXFxMmxIVEZkM3hUN0ItUjJxc2hzem9BS0dVNTF3eXRSUkNldXM0T092VG1Vb3N5Nk9OY1NzcVFzdnhiTm5taXE5dHZ0OWtMcEhyNFNiS1BXTDNiclVBbkRhaHltV1ZKT3V0ZzZRQTJuMWZ1RDk1bkdINjBQVklzcmNoR1F5VnM5NVd2Nk9wRTZ1cDVyYjJUNmszUE92UUFha3FTN25JSkxydGRwY1lVbDBHUDdrR2dCbkJmTnVqRnNPb3Y3ZkFJTnU3OS1hSVBR?oc=5)
 
 ---
 
