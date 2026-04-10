@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-10T16:41:10.371041+00:00",
-  "total_count": 31,
+  "last_updated": "2026-04-10T17:41:16.260340+00:00",
+  "total_count": 32,
   "matched_count": 15,
   "news": [
     {
@@ -748,6 +748,19 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5US3VHSG9yeUcweGZlMnpLc2xfUHFqSEE5ZV9NSWhKRzcwUFhzNUZPbXhMb0J1eUZTWk5SZDFadE1aNndwR084ODl6WUZTdk56dFJBUkdn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6658fbb93148",
+      "title": "研究揭大腦會欺騙味覺 告訴你「飲料含糖」評價竟變高",
+      "published": "2026-04-10T08:35:37+00:00",
+      "summary": "研究揭大腦會欺騙味覺 告訴你「飲料含糖」評價竟變高&nbsp;&nbsp;科技島",
+      "sources": [
+        {
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NS3JNMzlwSzNjWVd1elFqOU1mZndBUFdGZldkYVJqeGVMcG56UTdHalVBOHlkTmNmeFRvdVN1eFFDM2ZCSl9ESGgtNE1BNktXVjJNNDZlb09pTEY0VGEw?oc=5"
         }
       ],
       "matched_keywords": []

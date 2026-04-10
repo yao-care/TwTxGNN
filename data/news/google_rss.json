@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-10T16:41:04.463078+00:00",
-  "count": 30,
+  "fetched_at": "2026-04-10T17:41:12.257986+00:00",
+  "count": 31,
   "news": [
     {
       "id": "ba2d9c6a7847",
@@ -48,6 +48,18 @@
         {
           "name": "ETtoday新聞雲",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fNzFGN0JGZGFtMF8tbjhnU1V3Y0xOb0JKS2Uzc1FwVk9HTkRfRFVDYVlRQlRYcmRBM0o1bHgtcktrX2xBdXZMR0o2MNIBZ0FVX3lxTE51WWRKM0ZJTjZ2ZWhwbGVRRDVtbHZSZVNlS2tkcFN0QXVkYTJkYjFxQ3NuVlA4OUNhZlVRVXRiUy1KbDFWNjlOLVhCLXFqOTN5X0RYOEtyRk5Ia3QzRmFKcmdWQ290ajg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6658fbb93148",
+      "title": "研究揭大腦會欺騙味覺 告訴你「飲料含糖」評價竟變高 - 科技島",
+      "published": "2026-04-10T08:35:37+00:00",
+      "summary": "研究揭大腦會欺騙味覺 告訴你「飲料含糖」評價竟變高&nbsp;&nbsp;科技島",
+      "sources": [
+        {
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NS3JNMzlwSzNjWVd1elFqOU1mZndBUFdGZldkYVJqeGVMcG56UTdHalVBOHlkTmNmeFRvdVN1eFFDM2ZCSl9ESGgtNE1BNktXVjJNNDZlb09pTEY0VGEw?oc=5"
         }
       ]
     },
@@ -124,6 +136,18 @@
       ]
     },
     {
+      "id": "1cd499212e09",
+      "title": "零卡代糖能減肥？醫揭殘酷真相：糖尿病風險增6成！教3招化解- 營養好食 - TVBS 健康2.0",
+      "published": "2026-04-10T08:44:04+00:00",
+      "summary": "零卡代糖能減肥？醫揭殘酷真相：糖尿病風險增6成！教3招化解- 營養好食&nbsp;&nbsp;TVBS 健康2.0前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5US3VHSG9yeUcweGZlMnpLc2xfUHFqSEE5ZV9NSWhKRzcwUFhzNUZPbXhMb0J1eUZTWk5SZDFadE1aNndwR084ODl6WUZTdk56dFJBUkdn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2a961c9e2a95",
       "title": "抗癌藥「小紅莓」現新用途 研究指有望治療抗藥性皰疹 - ENN台灣電報",
       "published": "2026-04-09T04:11:18+00:00",
@@ -184,18 +208,6 @@
       ]
     },
     {
-      "id": "2892af8d929a",
-      "title": "腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關 - 科技島",
-      "published": "2026-04-09T08:04:06+00:00",
-      "summary": "腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關&nbsp;&nbsp;科技島",
-      "sources": [
-        {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YNUpBREdBMmpZbzNFYjI1X1NkTlZRSW9XZGljV21aZnN4b2tLRlBUYTRzb1labFVDLWZZeTN5aXJoTjJWekRoaHhhR2hvS2JEdWRBS3Z2Z2M3b214RDRn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "31fd3f6ef751",
       "title": "當其他疫苗供不應求時，這種小狗疫苗取得了成功。 - arch-web.com.tw",
       "published": "2026-04-08T17:37:21+00:00",
@@ -204,6 +216,18 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPQU5wQ3BNNWtDVzhjZHF5cUdmNnFkamNNWW42VmwzR3NYWWVWRkk5RGJxaHNESlI5S2s5LWlKVlhiWjBnOVhoR3lzTGFlZDBpQzdLVzNhRTFKZ2NWVkJWSlE0Y1BucE94aWFzMjI4dGNwU0RWS0x5ekNiZFlzZmdoaXU0YVh2dGpvWGptWGg5VmJUQVR1cHNEZm50cUM4NHBqNW8xcndpWllBa254TWY4ckVLRnFwbm1GcGtsMWN5Q0hCTlJhMkgyM3F5WlJXZ3d3S0VldjRXakNMZFhRZnVzdXZmcmllUzhkREViWmdsU1hhakdyTzR3enZ6SVRWdEtuS2ZNMmtWTHRxZENhM2tJQ0RrbjVpWFJPamVQZXJ6N1pYNk8wNXdEcGpwNmx1SDdXcnZ0bEhJUEVTRjVXaFowTXU5Q3ZOd094OUZuci1rS2s4Rncxd19XTlVORXZudUY1UHlwU01kLUxrX3ZucExOMGJaME5PTVhxMVFqQ0VGMVFUR3VYTVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2892af8d929a",
+      "title": "腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關 - 科技島",
+      "published": "2026-04-09T08:04:06+00:00",
+      "summary": "腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關&nbsp;&nbsp;科技島",
+      "sources": [
+        {
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YNUpBREdBMmpZbzNFYjI1X1NkTlZRSW9XZGljV21aZnN4b2tLRlBUYTRzb1labFVDLWZZeTN5aXJoTjJWekRoaHhhR2hvS2JEdWRBS3Z2Z2M3b214RDRn?oc=5"
         }
       ]
     },
@@ -228,18 +252,6 @@
         {
           "name": "Taiwan News",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MVFpVOUVyaUdXWWxnYlJYVTRDSWcxTnFBaE02REFWYUtDSlJUd2xpM3hja1Zmb0NlcFp0cmRZR2k4Um1vUTBOWUZWWWt4UFRxYnUxNVMxbUU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1cd499212e09",
-      "title": "零卡代糖能減肥？醫揭殘酷真相：糖尿病風險增6成！教3招化解- 營養好食 - TVBS 健康2.0",
-      "published": "2026-04-10T08:44:04+00:00",
-      "summary": "零卡代糖能減肥？醫揭殘酷真相：糖尿病風險增6成！教3招化解- 營養好食&nbsp;&nbsp;TVBS 健康2.0前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5US3VHSG9yeUcweGZlMnpLc2xfUHFqSEE5ZV9NSWhKRzcwUFhzNUZPbXhMb0J1eUZTWk5SZDFadE1aNndwR084ODl6WUZTdk56dFJBUkdn?oc=5"
         }
       ]
     },
