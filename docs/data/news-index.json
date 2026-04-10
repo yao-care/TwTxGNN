@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-10T20:25:52.473897+00:00",
-  "count": 15,
+  "generated": "2026-04-10T21:29:19.868778+00:00",
+  "count": 14,
   "news": [
     {
       "id": "b57cc8213a44",
@@ -1030,34 +1030,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7a7491fd4ffb",
-      "title": "高齡過度節食非好事 營養師：老人微胖較長壽",
-      "published": "2026-04-08T21:30:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yQzIwaUFGSS1rVk9XSnVGUUxUeC1sczdwMW9ZajhQelFEZmVpWEhfeTJTMUVjWkZ0bUQzVTBxaWh5Zl85djItdDlNdVRfWUFjM25WRlZUMjhZbWPSAWBBVV95cUxNajNOTlk5dHRDdmQ4NnEwRmRRS1o1c3g2OXMxSGlMN1M2TlBqOFRkbTVEZ0t5enQ0OVpYVktoSnNRTS0yNUxxcnBicXlFYjdSQ3RoblE5T09BbmRHN2pOTFU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }

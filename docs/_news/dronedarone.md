@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [多年高血壓沒在吃藥…頭暈噁心竟中風！醫警告「這種類型」最要命](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jdFUwR0ZvT1llTGZteXdlcXZkN1Nld2lxY25FVW5FTDJONGpEaVZldG9kWUJxelJmeEwxZGJfWmliUDdzbnNSOWt0WGJ5b1QzTExJ?oc=5)
 
 2026-04-10 <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">中風</span>
 
 來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jdFUwR0ZvT1llTGZteXdlcXZkN1Nld2lxY25FVW5FTDJONGpEaVZldG9kWUJxelJmeEwxZGJfWmliUDdzbnNSOWt0WGJ5b1QzTExJ?oc=5)
-
----
-
-### [高齡過度節食非好事 營養師：老人微胖較長壽](https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yQzIwaUFGSS1rVk9XSnVGUUxUeC1sczdwMW9ZajhQelFEZmVpWEhfeTJTMUVjWkZ0bUQzVTBxaWh5Zl85djItdDlNdVRfWUFjM25WRlZUMjhZbWPSAWBBVV95cUxNajNOTlk5dHRDdmQ4NnEwRmRRS1o1c3g2OXMxSGlMN1M2TlBqOFRkbTVEZ0t5enQ0OVpYVktoSnNRTS0yNUxxcnBicXlFYjdSQ3RoblE5T09BbmRHN2pOTFU?oc=5)
-
-2026-04-08 <span class="news-indication-tag">中風</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yQzIwaUFGSS1rVk9XSnVGUUxUeC1sczdwMW9ZajhQelFEZmVpWEhfeTJTMUVjWkZ0bUQzVTBxaWh5Zl85djItdDlNdVRfWUFjM25WRlZUMjhZbWPSAWBBVV95cUxNajNOTlk5dHRDdmQ4NnEwRmRRS1o1c3g2OXMxSGlMN1M2TlBqOFRkbTVEZ0t5enQ0OVpYVktoSnNRTS0yNUxxcnBicXlFYjdSQ3RoblE5T09BbmRHN2pOTFU?oc=5)
 
 ---
 

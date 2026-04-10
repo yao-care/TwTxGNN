@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-10T20:25:48.568846+00:00",
-  "count": 34,
+  "fetched_at": "2026-04-10T21:29:15.158374+00:00",
+  "count": 32,
   "news": [
     {
       "id": "b57cc8213a44",
@@ -28,14 +28,14 @@
       ]
     },
     {
-      "id": "9972eef5880e",
-      "title": "大腦研究揭示自閉症和過動症之間的隱藏聯繫 - arch-web.com.tw",
-      "published": "2026-04-10T17:38:50+00:00",
-      "summary": "大腦研究揭示自閉症和過動症之間的隱藏聯繫&nbsp;&nbsp;arch-web.com.tw",
+      "id": "6f38047007da",
+      "title": "飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎 - 三立新聞網SETN.com",
+      "published": "2026-04-10T13:09:42+00:00",
+      "summary": "飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎&nbsp;&nbsp;三立新聞網SETN.com前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQc0V5M0NsOV9GOU5XOTJlWTlPNUpFS0JEMk9UR3RibHVZa2ZUaHJxb21zd1M3SGhaeGNOaFJEZUtyaEF0Qk5nQUdRSTgxbmJYRWMxQzRoZUZRWG9ReUJZb1lfRVBDRzJNZ1pjVjB6U1psODlDNTFIRE1qT2xOTE5FVFNQcjJCaHUxVXlFdi1pMDJlTmRCOEJnMmtESWxXQzRMLW5WeXFNcGNrUE9LNW9DbE9najd1SDVEUXFHTGRmQmxkVUxfcTFmNXFPSFVOMUlkZEs0aUpsY2N6VV8wYzgweUNLZmg4V19TalJUV1c2OTBjN0FCdkZnOWpYRUhib052UUU2WUpaOEE0VFpXaTY3U2ZjU2d1N1FQX2taUEpKMEE4YllPUXVKWENKbHVUT0dmV0hKTy1uTVhrTDVDN3ZSLWlHU3F0QkRQWEZZZDM1RVRkUXFsbnMzLUZ4bGU3ZVNXMWhlNk9yU2xmNmpPVnc?oc=5"
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10SHVNUUxmLXJlaDh1aWVUeUNPNkJ6dEdUdVZlamdXR1U1c1pKelBwRFRWVmc0R3Y5VEFiSU5zcVZUU3BNS196U1RfcUc?oc=5"
         }
       ]
     },
@@ -52,6 +52,18 @@
       ]
     },
     {
+      "id": "11ccc3d897ba",
+      "title": "不再有遺憾！英國牛津大學開發AI預測工具「心臟衰竭」發作前5年精準揪出風險 - ETtoday新聞雲",
+      "published": "2026-04-09T09:35:00+00:00",
+      "summary": "不再有遺憾！英國牛津大學開發AI預測工具「心臟衰竭」發作前5年精準揪出風險&nbsp;&nbsp;ETtoday新聞雲Garmin Venu 4 值得入手嗎？從 HRV 健康監測、智能鬧鐘到80+ 種運動模式，一錶搞定你的生活大小事&nbsp;&nbsp;GQ Taiwan牛津大學人工智慧利用常規CT掃描，在72,000名患者中以86%的準確率檢測出早期心臟衰竭風險。&nbsp;&nbsp;MEXC Exchange",
+      "sources": [
+        {
+          "name": "ETtoday新聞雲",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fNzFGN0JGZGFtMF8tbjhnU1V3Y0xOb0JKS2Uzc1FwVk9HTkRfRFVDYVlRQlRYcmRBM0o1bHgtcktrX2xBdXZMR0o2MNIBZ0FVX3lxTE51WWRKM0ZJTjZ2ZWhwbGVRRDVtbHZSZVNlS2tkcFN0QXVkYTJkYjFxQ3NuVlA4OUNhZlVRVXRiUy1KbDFWNjlOLVhCLXFqOTN5X0RYOEtyRk5Ia3QzRmFKcmdWQ290ajg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "644e6934c002",
       "title": "常見營養素可以增強癌症治療效果 - citytimes.tw",
       "published": "2026-04-10T14:09:55+00:00",
@@ -60,30 +72,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPNGxPQ1FzTG5BYnBndnItVWNVcTI1NkZiUVlWaVhYN2dNbk8tNGgwYkNzQnhJSU5GMWVOU1kzU2x4ZGdQZ0M2ZEdZRWpTak1CYm5FN213aGFUcnFYc3R3Q2RISjl2NXVPT1MtM09WZjRBcFBUUXFEZU52bnpjQ3Y2aVgwX05kdTgtNGdrODBlWE50dENLbWd1VXFUdGpTaUI3MzhMNWFWMGJlWW8zaXlPWVZ6NEpLQWRnWFViRzIwbGxBVWlla3pXQUVMWXJKc0xtU3RaN2Fnb1VKVXRIQXZUQ1JTV2RkckcxdkVPaGZ6ZmpCOFpubUR2czhzTEYta05uUThqUmtMNkM5TTRPbzFDVVZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6f38047007da",
-      "title": "飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎 - 三立新聞網SETN.com",
-      "published": "2026-04-10T13:09:42+00:00",
-      "summary": "飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎&nbsp;&nbsp;三立新聞網SETN.com前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10SHVNUUxmLXJlaDh1aWVUeUNPNkJ6dEdUdVZlamdXR1U1c1pKelBwRFRWVmc0R3Y5VEFiSU5zcVZUU3BNS196U1RfcUc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "11ccc3d897ba",
-      "title": "不再有遺憾！英國牛津大學開發AI預測工具「心臟衰竭」發作前5年精準揪出風險 - ETtoday新聞雲",
-      "published": "2026-04-09T09:35:00+00:00",
-      "summary": "不再有遺憾！英國牛津大學開發AI預測工具「心臟衰竭」發作前5年精準揪出風險&nbsp;&nbsp;ETtoday新聞雲Garmin Venu 4 值得入手嗎？從 HRV 健康監測、智能鬧鐘到80+ 種運動模式，一錶搞定你的生活大小事&nbsp;&nbsp;GQ Taiwan智慧手錶真的能「提前偵測疾病」嗎？穿戴式健康科技你該知道的事&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "ETtoday新聞雲",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fNzFGN0JGZGFtMF8tbjhnU1V3Y0xOb0JKS2Uzc1FwVk9HTkRfRFVDYVlRQlRYcmRBM0o1bHgtcktrX2xBdXZMR0o2MNIBZ0FVX3lxTE51WWRKM0ZJTjZ2ZWhwbGVRRDVtbHZSZVNlS2tkcFN0QXVkYTJkYjFxQ3NuVlA4OUNhZlVRVXRiUy1KbDFWNjlOLVhCLXFqOTN5X0RYOEtyRk5Ia3QzRmFKcmdWQ290ajg?oc=5"
         }
       ]
     },
@@ -196,14 +184,14 @@
       ]
     },
     {
-      "id": "340ae4121f46",
-      "title": "保健》3C時代手部易過勞 醫曝4大守則 - Yahoo新聞",
-      "published": "2026-04-08T20:10:00+00:00",
-      "summary": "保健》3C時代手部易過勞 醫曝4大守則&nbsp;&nbsp;Yahoo新聞",
+      "id": "7a7491fd4ffb",
+      "title": "高齡過度節食非好事 營養師：老人微胖較長壽 - 自由健康網",
+      "published": "2026-04-08T21:30:00+00:00",
+      "summary": "高齡過度節食非好事 營養師：老人微胖較長壽&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUnZHR1hENlVXZ2liaUV3Y2NDTHJ2MmVFWmE3Z2E4cXlYNTRGZlQzRDR0U3JQNXJELXZ0QW42VW84MGxWRHpXRS1QMUJFMThlMmprdFFYdXZzUlVJMEJaakFuZWpRS0QxRk9LOFBycXVKUWt4NDYzSWxYVVRwZ08zYVA0U21PZjh6azRRb1lxWnJIcUt5TDBmaUhibXV0bk00XzIzeDkyczcwTkFaMExQTnFwZk94eWM2TXV4bUhoYnExY2hhdnZKOUFXTmdfbVZYeG1VUUR3Z2puTHh0RzB4bGptU0FKaWw2RnBXTnphMW5VWnJDc2EwMEhfM1VySFVIVFE?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yQzIwaUFGSS1rVk9XSnVGUUxUeC1sczdwMW9ZajhQelFEZmVpWEhfeTJTMUVjWkZ0bUQzVTBxaWh5Zl85djItdDlNdVRfWUFjM25WRlZUMjhZbWPSAWBBVV95cUxNajNOTlk5dHRDdmQ4NnEwRmRRS1o1c3g2OXMxSGlMN1M2TlBqOFRkbTVEZ0t5enQ0OVpYVktoSnNRTS0yNUxxcnBicXlFYjdSQ3RoblE5T09BbmRHN2pOTFU?oc=5"
         }
       ]
     },
@@ -216,18 +204,6 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5US3VHSG9yeUcweGZlMnpLc2xfUHFqSEE5ZV9NSWhKRzcwUFhzNUZPbXhMb0J1eUZTWk5SZDFadE1aNndwR084ODl6WUZTdk56dFJBUkdn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7a7491fd4ffb",
-      "title": "高齡過度節食非好事 營養師：老人微胖較長壽 - 自由健康網",
-      "published": "2026-04-08T21:30:00+00:00",
-      "summary": "高齡過度節食非好事 營養師：老人微胖較長壽&nbsp;&nbsp;自由健康網老人24≦BMI&nbsp;&nbsp;自由健康網不是只有胖子會中風！他不菸不酒、膽固醇正常卻血管硬化，營養師曝真正原因| 時報出版| 風生活&nbsp;&nbsp;風傳媒這年紀的你，微胖比較長壽！營養師揭：70歲時體重維持「這範圍」比較長壽&nbsp;&nbsp;PChome Online 新聞老人微胖更長壽 營養師曝黃金BMI 瘦子死亡率飆2倍&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yQzIwaUFGSS1rVk9XSnVGUUxUeC1sczdwMW9ZajhQelFEZmVpWEhfeTJTMUVjWkZ0bUQzVTBxaWh5Zl85djItdDlNdVRfWUFjM25WRlZUMjhZbWPSAWBBVV95cUxNajNOTlk5dHRDdmQ4NnEwRmRRS1o1c3g2OXMxSGlMN1M2TlBqOFRkbTVEZ0t5enQ0OVpYVktoSnNRTS0yNUxxcnBicXlFYjdSQ3RoblE5T09BbmRHN2pOTFU?oc=5"
         }
       ]
     },
