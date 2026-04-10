@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-10T01:45:36.407864+00:00",
-  "total_count": 38,
-  "matched_count": 16,
+  "last_updated": "2026-04-10T04:40:22.269539+00:00",
+  "total_count": 36,
+  "matched_count": 14,
   "news": [
+    {
+      "id": "391065a22204",
+      "title": "長輩不出門、變憂鬱？ 醫師提醒：白內障「看不清」恐引發認知退化等反應",
+      "published": "2026-04-10T02:15:49+00:00",
+      "summary": "長輩不出門、變憂鬱？ 醫師提醒：白內障「看不清」恐引發認知退化等反應&nbsp;&nbsp;民視新聞網",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kc0otYkhuYldLeGdUWHYzd2YtWi1weWI0eDctSzdzeFQ2OEktOHRSY2tJWUNpSnp0eWk2U05ScmRyWWpVUGpVZWZPaHN0SlZxTEZ3UkxlcWpkUVB1WDhEZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "ffb3e8149e34",
       "title": "痔瘡手術也能用「超音波」？醫解析微創新趨勢 預防復發有1關鍵",
@@ -146,7 +159,7 @@
       "id": "11ccc3d897ba",
       "title": "不再有遺憾！英國牛津大學開發AI預測工具「心臟衰竭」發作前5年精準揪出風險",
       "published": "2026-04-09T09:35:00+00:00",
-      "summary": "不再有遺憾！英國牛津大學開發AI預測工具「心臟衰竭」發作前5年精準揪出風險&nbsp;&nbsp;ETtoday新聞雲Garmin Venu 4 值得入手嗎？從 HRV 健康監測、智能鬧鐘到80+ 種運動模式，一錶搞定你的生活大小事&nbsp;&nbsp;GQ Taiwan智慧手錶真的能「提前偵測疾病」嗎？穿戴式健康科技你該知道的事&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "不再有遺憾！英國牛津大學開發AI預測工具「心臟衰竭」發作前5年精準揪出風險&nbsp;&nbsp;ETtoday新聞雲Garmin Venu 4 值得入手嗎？從 HRV 健康監測、智能鬧鐘到80+ 種運動模式，一錶搞定你的生活大小事&nbsp;&nbsp;GQ Taiwan智慧手錶真的能「提前偵測疾病」嗎？穿戴式健康科技你該知道的事&nbsp;&nbsp;PChome Online新聞",
       "sources": [
         {
           "name": "ETtoday新聞雲",
@@ -176,6 +189,31 @@
         {
           "name": "科技島",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YNUpBREdBMmpZbzNFYjI1X1NkTlZRSW9XZGljV21aZnN4b2tLRlBUYTRzb1labFVDLWZZeTN5aXJoTjJWekRoaHhhR2hvS2JEdWRBS3Z2Z2M3b214RDRn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b950080c6f4f",
+      "title": "研究：中年改吃健康植物飲食 有助降低失智風險 - Taiwan News",
+      "published": "2026-04-09T07:57:00+00:00",
+      "summary": "研究：中年改吃健康植物飲食 有助降低失智風險&nbsp;&nbsp;Taiwan News",
+      "sources": [
+        {
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MVFpVOUVyaUdXWWxnYlJYVTRDSWcxTnFBaE02REFWYUtDSlJUd2xpM3hja1Zmb0NlcFp0cmRZR2k4Um1vUTBOWUZWWWt4UFRxYnUxNVMxbUU?oc=5"
         }
       ],
       "matched_keywords": [
@@ -306,6 +344,19 @@
       ]
     },
     {
+      "id": "1c80757d565d",
+      "title": "食物中毒、肺炎後》走路像酒醉、手抖不停 醫：最怕這一種併發症",
+      "published": "2026-04-09T03:01:00+00:00",
+      "summary": "食物中毒、肺炎後》走路像酒醉、手抖不停 醫：最怕這一種併發症&nbsp;&nbsp;自由健康網前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tRWRtUVFNeUZ5TUtkWkhYMDd6SFpTRk9OZ3ZheXhYaTV0TEVOcGJfdGR4ZzlVT2EwdTdIYjZXdnRpSXlFU2FSR3NLaG5MeTlMd3ZPd0lyR25DYzlDTzJGR3hlQ2bSAWpBVV95cUxNNG1EQWR5ZmJGdkRMV19XTWJhVVZfam11LUJoWVZnMlpOMERYTnBxQlBibkVZZGdIX2ZQM2NrWmlkTlNMSUpmTV9OdGdLdVp6MGUyaHJWYnRzLVZNT1VVT3E5VmVLMUVIYmFn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "7937dd910ba8",
       "title": "抗癌藥「小紅莓」現新用途 研究指有望治療抗藥性皰疹",
       "published": "2026-04-09T02:37:23+00:00",
@@ -380,57 +431,10 @@
       ]
     },
     {
-      "id": "ba46c73dbde2",
-      "title": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士",
-      "published": "2026-04-08T23:00:57+00:00",
-      "summary": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士&nbsp;&nbsp;巴士的報不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊&nbsp;&nbsp;PChome Online 新聞科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw「養腦補腎」延緩失智 中醫師促多吃優質蛋白質&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQUDdOTDd6VEc5NTFzSmhzRnpaaW9sbEtGQl90OG83d0tYOWZaRGx0UUJjbFFJM1dVemZlZkt6b0tBN0VCZzBpNjhKZ2cwblhTbF9EcDRLYkRfQlJ6V01UMEh4cERyandobllrekZNbUl0cXBhNkFwTjJVa0VfaTZjNVVOLXhnNHBscXVLaVR4cHNaSF9hNFJuRHNlSFc0cXFxMmxIVEZkM3hUN0ItUjJxc2hzem9BS0dVNTF3eXRSUkNldXM0T092VG1Vb3N5Nk9OY1NzcVFzdnhiTm5taXE5dHZ0OWtMcEhyNFNiS1BXTDNiclVBbkRhaHltV1ZKT3V0ZzZRQTJuMWZ1RDk1bkdINjBQVklzcmNoR1F5VnM5NVd2Nk9wRTZ1cDVyYjJUNmszUE92UUFha3FTN25JSkxydGRwY1lVbDBHUDdrR2dCbkJmTnVqRnNPb3Y3ZkFJTnU3OS1hSVBR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "阿茲海默症",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "7a7491fd4ffb",
       "title": "高齡過度節食非好事 營養師：老人微胖較長壽",
       "published": "2026-04-08T21:30:00+00:00",
-      "summary": "高齡過度節食非好事 營養師：老人微胖較長壽&nbsp;&nbsp;自由健康網老人24≦BMI&nbsp;&nbsp;自由健康網不是只有胖子會中風！他不菸不酒、膽固醇正常卻血管硬化，營養師曝真正原因| 時報出版| 風生活&nbsp;&nbsp;風傳媒這年紀的你，微胖比較長壽！營養師揭：70歲時體重維持「這範圍」比較長壽&nbsp;&nbsp;PChome Online 新聞老人微胖更長壽 營養師曝黃金BMI 瘦子死亡率飆2倍&nbsp;&nbsp;中時新聞網",
+      "summary": "高齡過度節食非好事 營養師：老人微胖較長壽&nbsp;&nbsp;自由健康網老人24≦BMI&nbsp;&nbsp;自由健康網不是只有胖子會中風！他不菸不酒、膽固醇正常卻血管硬化，營養師曝真正原因| 時報出版| 風生活&nbsp;&nbsp;風傳媒這年紀的你，微胖比較長壽！營養師揭：70歲時體重維持「這範圍」比較長壽&nbsp;&nbsp;PChome Online新聞老人微胖更長壽 營養師曝黃金BMI 瘦子死亡率飆2倍&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "自由健康網",
@@ -493,215 +497,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "580d93835a3e",
-      "title": "科學家發現隱藏的腦細胞有助於致命癌症的生長",
-      "published": "2026-04-08T12:49:10+00:00",
-      "summary": "科學家發現隱藏的腦細胞有助於致命癌症的生長&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQNnNxaENBdjZzTHNDSEN6cHJ0cmlQaFpKTmttNWl3cTRMRTc2VXBNVktxeDc5REozT0g1NEhWQ25Hc2JKbUI0c2NvU1RSV2NCd1hiMTdjdURuRVNwN1RwSEFzZDZicUk2VnNzNU9YZDVKSnhVMjhCMzJWS2RkMlg5WmRuOUU0Q0FZOXloOVlpd1F0SThXSTN6RUZhZFNkMS01ODhoZ3FGMlJPZlV2YjdGTmdURGhKMkhjNnBMNWFpN09IUGN2VkJjRmI1UFhGX2ExWHRBQnVFbjBEcHVJRnRtOWNFelg2bURRS0JkV0E5Zmc5ZXRRUENpTTN6RVMtbnpHaTNadTNSUE9GSnRRZVViTDc2ZGtKUGNGbnFYSmhOQTk3RmE5akJBQlNpMjRHLVVYSHNtNjA5UFNmaGJrYVRFdmdtQWk5QVctaXZ6aXVaYWU3SEVDNFVPdEFRX0g3aXNqZlRlX2VSTlctUmswTkFXakdLUTVHZ09OYkE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "116fbed9fcf0",
@@ -1252,6 +1047,19 @@
       ]
     },
     {
+      "id": "bc8f8adba88d",
+      "title": "孟加拉麻疹疫情爆發逾百童死 當局緊急疫苗接種行動",
+      "published": "2026-04-08T04:50:36+00:00",
+      "summary": "孟加拉麻疹疫情爆發逾百童死 當局緊急疫苗接種行動&nbsp;&nbsp;Singtaousa孟加拉麻疹疫情大爆發 一個月內百童病逝&nbsp;&nbsp;singtao.ca孟加拉的麻疹疫情迅速蔓延 當局啟動緊急疫苗接種計劃&nbsp;&nbsp;香港電台新聞網孟加拉國暴發麻疹疫情感染逾600人 總理下令緊急調查&nbsp;&nbsp;香港商报多地麻疹持續 衛生局籲加強注意防範&nbsp;&nbsp;澳門廣播電視股份有限公司",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQektaME5faFZ0OTJpaWt5QjFPLWRqY2VPR1dPZEVnVnNOQzNtY3dmRFAwY3RRSE9VV25BX3F1a3dyTzdaX05jX2pIS1NncldTN0Y1NVZMNFREZmRrVXFpSTZGb3NjWEpCcXlQakwtX2dfYXcxR1dVTXRsQlZySnphVTBNdlVrY2N4aXRhbjF0ZWdJeGNrUkk3Z1JXVzMwcDcxaUJZMnhyb1d0NlgzWFBieHdsWEZsdWhLUTUtWV9YcHFjeV9fWmVvREwwemF3enRldGt6LVJZd0w?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "5520901575ca",
       "title": "鮮為人知的水果「迷你奇異果」，可能有助預防肺癌| 雜誌",
       "published": "2026-04-08T04:48:25+00:00",
@@ -1285,19 +1093,6 @@
       ]
     },
     {
-      "id": "d22589e17640",
-      "title": "麻疹疫情致百童死亡 孟加拉急推疫苗接種",
-      "published": "2026-04-08T04:41:00+00:00",
-      "summary": "麻疹疫情致百童死亡 孟加拉急推疫苗接種&nbsp;&nbsp;大紀元孟加拉麻疹疫情大爆發 一個月內百童病逝&nbsp;&nbsp;singtao.ca孟加拉的麻疹疫情迅速蔓延 當局啟動緊急疫苗接種計劃&nbsp;&nbsp;香港電台新聞網孟加拉國暴發麻疹疫情感染逾600人 總理下令緊急調查&nbsp;&nbsp;香港商报多地麻疹持續 衛生局籲加強注意防範&nbsp;&nbsp;澳門廣播電視股份有限公司",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YTF9qQTVET0JMMEY4LThkUXNEaVBPWVBGUXJBZE9DM0dSRnVZeWlVWmFtX3ZOUlM0VmFDZGVfTDVoSldWMGRWZm4yUVJnZzVvX3l3UmJGcTNkWl9HckVJ0gFkQVVfeXFMTWtHZW15M2lMejFfSFh4YUhRd0s0SGZTVFdjLUlTRXNESno2VnplR19zdkRScHVGZkdpU0FlSzFCWjRkb0ItQm5xTHRqVWlSUlJ3Tk90Yms1REpWc0k0NjBWV0JFTw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "b021813dbac8",
       "title": "黑朱古力越苦越健康？恐誘發偏頭痛？營養師解構黑朱古力功效/減肥食法/副作用",
       "published": "2026-04-08T04:30:00+00:00",
@@ -1319,57 +1114,6 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pMWkycjJic3FzUGdQZmNsbXo0MHo3V1dleWZxNkktR01rVVBYcEJDYVczZkR6R0FLUGNxNGI4ejVmWnQtQXRUbG1KZzh6aXNCNDNZ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "456fe3242e7e",
-      "title": "營養補充劑有用？ 哈佛研究：適當補充 有助延緩生理老化時鐘",
-      "published": "2026-04-08T03:30:00+00:00",
-      "summary": "營養補充劑有用？ 哈佛研究：適當補充 有助延緩生理老化時鐘&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDS3Q0NEZKdDR4RWQxMnlGRmtHdVE2V3hKY1dGZEk5aWNEdFhSa0NzOFdOSDlNSFF3ZHRERlJqNzlUT1hOanJ1Tk8wU1Z6MmsyVEE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "營養補充劑",
-          "keyword": "營養補充劑",
-          "related_drugs": [
-            {
-              "slug": "threonine",
-              "name": "Threonine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7dd2cb57768d",
-      "title": "嬰幼兒紅眼症48小時恐致盲？見黃綠膿液即就醫 認清淋球菌風險",
-      "published": "2026-04-08T02:02:00+00:00",
-      "summary": "嬰幼兒紅眼症48小時恐致盲？見黃綠膿液即就醫 認清淋球菌風險&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQWVBubkotMVVpYzFiSWNvUTd5dURad0hCbVZ1ZkJFZjJyeFBGNE9SMFBwQXI3cHFaNnRRTDAzeC1xUVFhQ1Zpem01dG8xVzh3U3JQamtIbkNyMTA1NEMtdktMcFNxTk45a1FrSEpPMEtJZVRMcnVkeEVlWHFHa3hNM2FWTEZsUjJEbmdrYzdOelRIdldkVGZYT0ZtZ0xldV85RkRfM3V0TWZUZURDZEp2cjBRUmRaYUpiaGk2VDBici1iZVZSc3B5NjNTN0QtUFFaaGkwWi1vYURSMzJhUmhfVUY4TV80c3RzaF93RHM3dVpyN3ZyNUYwdlN5cXdzX1FSLUhsRHQwOGJpbEV5RzNxTWVkc3loZElLcGlmOUtmVkxfZzlhSGVwTjNublhsRXFCLXFPVElKSXhIcmtsc3JnTFY1VlFtaGMwQk1PQTQ1bGVGOWp5S3RQeEZ3c01sUU9QdFlUQktfYngyZjYzV3ptcFl4NkNObjVuUG41aW5JZkFObVZ0Ym1hYmVkQkpsVGVmakhsQkFCYTh2VDQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "aa1c90305711",
-      "title": "科學家利用 RNA 條碼繪製大腦隱藏線路圖，取得突破",
-      "published": "2026-04-08T01:50:18+00:00",
-      "summary": "科學家利用 RNA 條碼繪製大腦隱藏線路圖，取得突破&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNcmttNmpWOE4xZDlSSjNNejNqeHlYZ21PME1YUURDczF5Vlp0d2RWT1JuMkluX1YtNjdoVHFENUpVcTRRVDZDelVuMXFJaC1DMDJZNTlfdGd1RXdwVUJNR1dwMGtiY19NZ3RLWFhMMVNXUmdvQzBEcGtIUDZsMV9lTlBzd2NPWG1DcDROQmduWmNNUTYzOGpJZDhzLU1VSVFRd0Y3U3BoQkFrQ2VCaVZMcU56Vkg3VFc0bmJwbEEyTVFjZktBTGxKUlJtb3ROVG1OUy16Tkl3RVpfSUVnMGtFVHBpQnNrdWQwX3FxVGhSRHlLa2wzckZuRzEtbnE3MW9QaVBWeDlVNzNEdFk3X0RLUUtXUnpSWm9VQWFadGFxTHRRN3M3bUdrVi1qclZLM0pnWW1CNjRKQ2pjRkpRV2VYWHNxdlgwd0pqOVJoZFdDTFM2UWNKb1lSV2dLUXgwZi0z?oc=5"
         }
       ],
       "matched_keywords": []

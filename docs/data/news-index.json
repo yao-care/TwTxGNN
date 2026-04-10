@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-10T01:45:36.437322+00:00",
-  "count": 16,
+  "generated": "2026-04-10T04:40:22.296143+00:00",
+  "count": 14,
   "news": [
     {
       "id": "ffb3e8149e34",
@@ -93,6 +93,30 @@
         {
           "name": "科技島",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YNUpBREdBMmpZbzNFYjI1X1NkTlZRSW9XZGljV21aZnN4b2tLRlBUYTRzb1labFVDLWZZeTN5aXJoTjJWekRoaHhhR2hvS2JEdWRBS3Z2Z2M3b214RDRn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b950080c6f4f",
+      "title": "研究：中年改吃健康植物飲食 有助降低失智風險 - Taiwan News",
+      "published": "2026-04-09T07:57:00+00:00",
+      "sources": [
+        {
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MVFpVOUVyaUdXWWxnYlJYVTRDSWcxTnFBaE02REFWYUtDSlJUd2xpM3hja1Zmb0NlcFp0cmRZR2k4Um1vUTBOWUZWWWt4UFRxYnUxNVMxbUU?oc=5"
         }
       ],
       "keywords": [
@@ -241,52 +265,6 @@
       ]
     },
     {
-      "id": "ba46c73dbde2",
-      "title": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士",
-      "published": "2026-04-08T23:00:57+00:00",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQUDdOTDd6VEc5NTFzSmhzRnpaaW9sbEtGQl90OG83d0tYOWZaRGx0UUJjbFFJM1dVemZlZkt6b0tBN0VCZzBpNjhKZ2cwblhTbF9EcDRLYkRfQlJ6V01UMEh4cERyandobllrekZNbUl0cXBhNkFwTjJVa0VfaTZjNVVOLXhnNHBscXVLaVR4cHNaSF9hNFJuRHNlSFc0cXFxMmxIVEZkM3hUN0ItUjJxc2hzem9BS0dVNTF3eXRSUkNldXM0T092VG1Vb3N5Nk9OY1NzcVFzdnhiTm5taXE5dHZ0OWtMcEhyNFNiS1BXTDNiclVBbkRhaHltV1ZKT3V0ZzZRQTJuMWZ1RDk1bkdINjBQVklzcmNoR1F5VnM5NVd2Nk9wRTZ1cDVyYjJUNmszUE92UUFha3FTN25JSkxydGRwY1lVbDBHUDdrR2dCbkJmTnVqRnNPb3Y3ZkFJTnU3OS1hSVBR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "阿茲海默症",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "7a7491fd4ffb",
       "title": "高齡過度節食非好事 營養師：老人微胖較長壽",
       "published": "2026-04-08T21:30:00+00:00",
@@ -309,214 +287,6 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "580d93835a3e",
-      "title": "科學家發現隱藏的腦細胞有助於致命癌症的生長",
-      "published": "2026-04-08T12:49:10+00:00",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQNnNxaENBdjZzTHNDSEN6cHJ0cmlQaFpKTmttNWl3cTRMRTc2VXBNVktxeDc5REozT0g1NEhWQ25Hc2JKbUI0c2NvU1RSV2NCd1hiMTdjdURuRVNwN1RwSEFzZDZicUk2VnNzNU9YZDVKSnhVMjhCMzJWS2RkMlg5WmRuOUU0Q0FZOXloOVlpd1F0SThXSTN6RUZhZFNkMS01ODhoZ3FGMlJPZlV2YjdGTmdURGhKMkhjNnBMNWFpN09IUGN2VkJjRmI1UFhGX2ExWHRBQnVFbjBEcHVJRnRtOWNFelg2bURRS0JkV0E5Zmc5ZXRRUENpTTN6RVMtbnpHaTNadTNSUE9GSnRRZVViTDc2ZGtKUGNGbnFYSmhOQTk3RmE5akJBQlNpMjRHLVVYSHNtNjA5UFNmaGJrYVRFdmdtQWk5QVctaXZ6aXVaYWU3SEVDNFVPdEFRX0g3aXNqZlRlX2VSTlctUmswTkFXakdLUTVHZ09OYkE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
             }
           ]
         }
@@ -1055,30 +825,6 @@
             {
               "slug": "vinorelbine",
               "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "456fe3242e7e",
-      "title": "營養補充劑有用？ 哈佛研究：適當補充 有助延緩生理老化時鐘",
-      "published": "2026-04-08T03:30:00+00:00",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDS3Q0NEZKdDR4RWQxMnlGRmtHdVE2V3hKY1dGZEk5aWNEdFhSa0NzOFdOSDlNSFF3ZHRERlJqNzlUT1hOanJ1Tk8wU1Z6MmsyVEE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "營養補充劑",
-          "keyword": "營養補充劑",
-          "related_drugs": [
-            {
-              "slug": "threonine",
-              "name": "Threonine"
             }
           ]
         }

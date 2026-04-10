@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [上海國有資本直投 全球首款癲癇細胞藥物獲中美雙批](https://news.google.com/rss/articles/CBMicEFVX3lxTE91dG02V1JfYm5KOXZJVXlXMFRrSzNlSXhVbmlEU3BQNHprb0N3ekFXSktYRGc5enM4aWlNWEdVZEdmVFA3UGh3UVkyQkdzcFRmU25RamdOOG5WVk5ubEYtNDZTNlBoVVB4TUFLbzREYmQ?oc=5)
 
 2026-04-09 <span class="news-indication-tag">癲癇</span>
 
 來源：[人民网-上海频道](https://news.google.com/rss/articles/CBMicEFVX3lxTE91dG02V1JfYm5KOXZJVXlXMFRrSzNlSXhVbmlEU3BQNHprb0N3ekFXSktYRGc5enM4aWlNWEdVZEdmVFA3UGh3UVkyQkdzcFRmU25RamdOOG5WVk5ubEYtNDZTNlBoVVB4TUFLbzREYmQ?oc=5)
-
----
-
-### [科學家發現隱藏的腦細胞有助於致命癌症的生長](https://news.google.com/rss/articles/CBMi-gJBVV95cUxQNnNxaENBdjZzTHNDSEN6cHJ0cmlQaFpKTmttNWl3cTRMRTc2VXBNVktxeDc5REozT0g1NEhWQ25Hc2JKbUI0c2NvU1RSV2NCd1hiMTdjdURuRVNwN1RwSEFzZDZicUk2VnNzNU9YZDVKSnhVMjhCMzJWS2RkMlg5WmRuOUU0Q0FZOXloOVlpd1F0SThXSTN6RUZhZFNkMS01ODhoZ3FGMlJPZlV2YjdGTmdURGhKMkhjNnBMNWFpN09IUGN2VkJjRmI1UFhGX2ExWHRBQnVFbjBEcHVJRnRtOWNFelg2bURRS0JkV0E5Zmc5ZXRRUENpTTN6RVMtbnpHaTNadTNSUE9GSnRRZVViTDc2ZGtKUGNGbnFYSmhOQTk3RmE5akJBQlNpMjRHLVVYSHNtNjA5UFNmaGJrYVRFdmdtQWk5QVctaXZ6aXVaYWU3SEVDNFVPdEFRX0g3aXNqZlRlX2VSTlctUmswTkFXakdLUTVHZ09OYkE?oc=5)
-
-2026-04-08 <span class="news-indication-tag">癌症</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi-gJBVV95cUxQNnNxaENBdjZzTHNDSEN6cHJ0cmlQaFpKTmttNWl3cTRMRTc2VXBNVktxeDc5REozT0g1NEhWQ25Hc2JKbUI0c2NvU1RSV2NCd1hiMTdjdURuRVNwN1RwSEFzZDZicUk2VnNzNU9YZDVKSnhVMjhCMzJWS2RkMlg5WmRuOUU0Q0FZOXloOVlpd1F0SThXSTN6RUZhZFNkMS01ODhoZ3FGMlJPZlV2YjdGTmdURGhKMkhjNnBMNWFpN09IUGN2VkJjRmI1UFhGX2ExWHRBQnVFbjBEcHVJRnRtOWNFelg2bURRS0JkV0E5Zmc5ZXRRUENpTTN6RVMtbnpHaTNadTNSUE9GSnRRZVViTDc2ZGtKUGNGbnFYSmhOQTk3RmE5akJBQlNpMjRHLVVYSHNtNjA5UFNmaGJrYVRFdmdtQWk5QVctaXZ6aXVaYWU3SEVDNFVPdEFRX0g3aXNqZlRlX2VSTlctUmswTkFXakdLUTVHZ09OYkE?oc=5)
 
 ---
 
