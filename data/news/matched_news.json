@@ -1,13 +1,269 @@
 {
-  "last_updated": "2026-04-10T15:42:05.965020+00:00",
-  "total_count": 29,
-  "matched_count": 14,
+  "last_updated": "2026-04-10T16:41:10.371041+00:00",
+  "total_count": 31,
+  "matched_count": 15,
   "news": [
+    {
+      "id": "b57cc8213a44",
+      "title": "再見大腸鏡檢查？新糞便檢測可檢測出 90% 的結腸癌",
+      "published": "2026-04-10T16:10:54+00:00",
+      "summary": "再見大腸鏡檢查？新糞便檢測可檢測出 90% 的結腸癌&nbsp;&nbsp;arch-web.com.tw科學家發現隱藏的腸道訊號可以早期發現癌症&nbsp;&nbsp;arch-web.com.tw結腸癌中隱藏的東西可能會改變治療方法&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNWklGVDR6QmlDSzBvanpWZVZRU0lSYk5GdGFXdGNXTmlBT2trOUt1SXRZMEZSNHRpdnVKczF4bmdUckZpRnJOczhaaUtTMU9zNjV3bE1FVHZSYmVGTVA0X1NXS29JMnhiLXJBd3lEbjRqSHpWdDJFZFozbGtfbnlQU1RMM2pBeGhpeUNyM3I0MktsQThfZ2F0dVdBdGRiUERRTUtNU3Y0UnFvOVhtUG56YWJJX2s1Y2FEZXpVOGZsN1pVQlU4cHdULUoxMzJTMHpiZ2psTVpjMVRNOWFhX0xudGZKamxzSlJqYnpaYS1PbmtSbXVJcDRHVm9zNnZDd0tOQ1pKQ0RuZ1hNdWhtV0tEcURacjVtUWVOR1JGeTU4eW5HdjV3Ym1Sb19CWS0wNVVFZ3dYMFdveEdOZjRDZU1EQXJzeDlfa0VkTC1zTHpDYXN4MFlQM2lEclBLd2JyMHpmV0wwbXBrLUplZ3dsa2xQdjZpLWRlVTlBalZxOUNNRQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "結腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ba2d9c6a7847",
+      "title": "AI 醫療新突破，透過「語音分析」揪出早期喉癌 - TechNews 科技新報",
+      "published": "2026-04-10T16:00:31+00:00",
+      "summary": "AI 醫療新突破，透過「語音分析」揪出早期喉癌&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUVdZUm9Qa2J1eU1nV0w4QUhQeXhkenhIY1BvNS1EZW84aHQxTUVyVmNwaFc3NlBsNmVIZWFUS1FJS3RXS3VtQ0k3ZThVcW9TanJwOGNpSnhCckxZTWtOczVZSDdzb1FvaV85SE1EWUhGX2p5MnQ3d2kzbE4zdkRBVEs2VmctQ3kwUXgtZDF4Nzdodw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "cdb6fc934161",
       "title": "常見營養素可以增強癌症治癒能力",
       "published": "2026-04-10T13:56:10+00:00",
-      "summary": "常見營養素可以增強癌症治癒能力&nbsp;&nbsp;arch-web.com.tw《抗癌》有望突破癌症治療限制！科學家發現PTMA 蛋白質可修復粒線體能量，成為逆轉T 細胞耗竭之關鍵- 生技投資第一站&nbsp;&nbsp;genetinfo.com常見營養素可以增強癌症治療效果&nbsp;&nbsp;citytimes.tw",
+      "summary": "常見營養素可以增強癌症治癒能力&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
           "name": "arch-web.com.tw",
@@ -213,14 +469,14 @@
       ]
     },
     {
-      "id": "27995f41f595",
+      "id": "6f38047007da",
       "title": "飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎",
       "published": "2026-04-10T13:09:42+00:00",
-      "summary": "飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎&nbsp;&nbsp;三立新聞網SETN.com不用挨餓、不用減重，只要「吃」就能減肝臟脂肪！醫師教你這樣調整飲食&nbsp;&nbsp;TVBS 健康2.0健康網》內臟脂肪比肥胖更危險 醫曝「這4招」不挨餓有助降脂&nbsp;&nbsp;自由健康網預防流感、病毒感染 曬太陽就有效&nbsp;&nbsp;台視新聞網醫曝4招降「內臟脂肪」 手搖飲換這飲料&nbsp;&nbsp;鏡週刊Mirror Media",
+      "summary": "飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎&nbsp;&nbsp;三立新聞網SETN.com前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE95Qm9RUF9EVkdNWkN2NkxvUmRzemZuY2hWNFhHUmc1Mmp5aHNOZTRscVV6YmpYOFhDemJCOFVwNDJ1NzZ1RE9LNkhoVkg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10SHVNUUxmLXJlaDh1aWVUeUNPNkJ6dEdUdVZlamdXR1U1c1pKelBwRFRWVmc0R3Y5VEFiSU5zcVZUU3BNS196U1RfcUc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -567,6 +823,19 @@
       "matched_keywords": []
     },
     {
+      "id": "f3b65cc77e26",
+      "title": "糖尿病患者為何更容易骨折？問題可能不只是血糖 | 科技新報 - LINE TODAY",
+      "published": "2026-04-09T14:15:50+00:00",
+      "summary": "糖尿病患者為何更容易骨折？問題可能不只是血糖 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10akp2NWIzdS1XX0E1YVM1S3RQenF5U0lnNGxXeWpIazY4bzNBWVZZWDN1dG9Kd3IxcVVYRVBsdjhERUhJVF9iYTdkNWdPN1ExTVNRNkF3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "b8020010e4f2",
       "title": "國際糖尿病聯盟（IDF）正式承認「 第5型糖尿病」",
       "published": "2026-04-09T14:03:00+00:00",
@@ -904,13 +1173,13 @@
       ]
     },
     {
-      "id": "569cbaaf00e8",
+      "id": "ba46c73dbde2",
       "title": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士",
       "published": "2026-04-08T23:00:57+00:00",
-      "summary": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士&nbsp;&nbsp;bastillepost.com科學家稱我們治療阿茲海默症的方法是錯誤的&nbsp;&nbsp;citytimes.tw科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw",
+      "summary": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士&nbsp;&nbsp;巴士的報科學家稱我們治療阿茲海默症的方法是錯誤的&nbsp;&nbsp;citytimes.tw科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQUDdOTDd6VEc5NTFzSmhzRnpaaW9sbEtGQl90OG83d0tYOWZaRGx0UUJjbFFJM1dVemZlZkt6b0tBN0VCZzBpNjhKZ2cwblhTbF9EcDRLYkRfQlJ6V01UMEh4cERyandobllrekZNbUl0cXBhNkFwTjJVa0VfaTZjNVVOLXhnNHBscXVLaVR4cHNaSF9hNFJuRHNlSFc0cXFxMmxIVEZkM3hUN0ItUjJxc2hzem9BS0dVNTF3eXRSUkNldXM0T092VG1Vb3N5Nk9OY1NzcVFzdnhiTm5taXE5dHZ0OWtMcEhyNFNiS1BXTDNiclVBbkRhaHltV1ZKT3V0ZzZRQTJuMWZ1RDk1bkdINjBQVklzcmNoR1F5VnM5NVd2Nk9wRTZ1cDVyYjJUNmszUE92UUFha3FTN25JSkxydGRwY1lVbDBHUDdrR2dCbkJmTnVqRnNPb3Y3ZkFJTnU3OS1hSVBR?oc=5"
         }
       ],
@@ -938,19 +1207,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "f3b65cc77e26",
-      "title": "糖尿病患者為何更容易骨折？問題可能不只是血糖 | 科技新報 - LINE TODAY",
-      "published": "2026-04-08T21:56:02+00:00",
-      "summary": "糖尿病患者為何更容易骨折？問題可能不只是血糖 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10akp2NWIzdS1XX0E1YVM1S3RQenF5U0lnNGxXeWpIazY4bzNBWVZZWDN1dG9Kd3IxcVVYRVBsdjhERUhJVF9iYTdkNWdPN1ExTVNRNkF3?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "7a7491fd4ffb",

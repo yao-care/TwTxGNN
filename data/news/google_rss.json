@@ -1,17 +1,41 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-10T15:42:01.376958+00:00",
-  "count": 28,
+  "fetched_at": "2026-04-10T16:41:04.463078+00:00",
+  "count": 30,
   "news": [
+    {
+      "id": "ba2d9c6a7847",
+      "title": "AI 醫療新突破，透過「語音分析」揪出早期喉癌 - TechNews 科技新報",
+      "published": "2026-04-10T16:00:31+00:00",
+      "summary": "AI 醫療新突破，透過「語音分析」揪出早期喉癌&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUVdZUm9Qa2J1eU1nV0w4QUhQeXhkenhIY1BvNS1EZW84aHQxTUVyVmNwaFc3NlBsNmVIZWFUS1FJS3RXS3VtQ0k3ZThVcW9TanJwOGNpSnhCckxZTWtOczVZSDdzb1FvaV85SE1EWUhGX2p5MnQ3d2kzbE4zdkRBVEs2VmctQ3kwUXgtZDF4Nzdodw?oc=5"
+        }
+      ]
+    },
     {
       "id": "cdb6fc934161",
       "title": "常見營養素可以增強癌症治癒能力 - arch-web.com.tw",
       "published": "2026-04-10T13:56:10+00:00",
-      "summary": "常見營養素可以增強癌症治癒能力&nbsp;&nbsp;arch-web.com.tw《抗癌》有望突破癌症治療限制！科學家發現PTMA 蛋白質可修復粒線體能量，成為逆轉T 細胞耗竭之關鍵- 生技投資第一站&nbsp;&nbsp;genetinfo.com常見營養素可以增強癌症治療效果&nbsp;&nbsp;citytimes.tw",
+      "summary": "常見營養素可以增強癌症治癒能力&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOV1BNTG5ZV2FEMTY5cURHODZGWDhodG9QWDhaRTJrYlp4RzZQNGV4dmltejJhbWVfOS1ubWxnZVVpci15MmxyT04yZVpudWthRFFtc21IY1Q1U093X19vcW9pc1lIaHAzT0JrQjc5am5iS2FaMWU4ZUNITHZfWjh5a1ZuTk9yMEVqb1FvaXZVVUZaQ09sZmxES1J0TDNlMEEwQWE2Z3ZvSF9JbXN0R1VtOVdNNWJHcUhINDRxYklGQmpNYU42S29FZUtyZm5lYjJhMFZnaEREUW5mTTV0TkNveG95R3pJUVR3ZGVNUF9YX3JiOEVVQy1CVXVGR2RSdlJlVDRDSk5QbHlFbVoxQVhsdDhHYU9rZ19hR1oyRmVUM25SQlotVkFrMjl0Uy1GZnd2TXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6f38047007da",
+      "title": "飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎 - 三立新聞網SETN.com",
+      "published": "2026-04-10T13:09:42+00:00",
+      "summary": "飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎&nbsp;&nbsp;三立新聞網SETN.com前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10SHVNUUxmLXJlaDh1aWVUeUNPNkJ6dEdUdVZlamdXR1U1c1pKelBwRFRWVmc0R3Y5VEFiSU5zcVZUU3BNS196U1RfcUc?oc=5"
         }
       ]
     },
@@ -28,25 +52,25 @@
       ]
     },
     {
-      "id": "27995f41f595",
-      "title": "飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎 - 三立新聞網SETN.com",
-      "published": "2026-04-10T13:09:42+00:00",
-      "summary": "飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎&nbsp;&nbsp;三立新聞網SETN.com不用挨餓、不用減重，只要「吃」就能減肝臟脂肪！醫師教你這樣調整飲食&nbsp;&nbsp;TVBS 健康2.0健康網》內臟脂肪比肥胖更危險 醫曝「這4招」不挨餓有助降脂&nbsp;&nbsp;自由健康網預防流感、病毒感染 曬太陽就有效&nbsp;&nbsp;台視新聞網醫曝4招降「內臟脂肪」 手搖飲換這飲料&nbsp;&nbsp;鏡週刊Mirror Media",
+      "id": "b57cc8213a44",
+      "title": "再見大腸鏡檢查？新糞便檢測可檢測出 90% 的結腸癌 - arch-web.com.tw",
+      "published": "2026-04-10T16:10:54+00:00",
+      "summary": "再見大腸鏡檢查？新糞便檢測可檢測出 90% 的結腸癌&nbsp;&nbsp;arch-web.com.tw科學家發現隱藏的腸道訊號可以早期發現癌症&nbsp;&nbsp;arch-web.com.tw結腸癌中隱藏的東西可能會改變治療方法&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE95Qm9RUF9EVkdNWkN2NkxvUmRzemZuY2hWNFhHUmc1Mmp5aHNOZTRscVV6YmpYOFhDemJCOFVwNDJ1NzZ1RE9LNkhoVkg?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNWklGVDR6QmlDSzBvanpWZVZRU0lSYk5GdGFXdGNXTmlBT2trOUt1SXRZMEZSNHRpdnVKczF4bmdUckZpRnJOczhaaUtTMU9zNjV3bE1FVHZSYmVGTVA0X1NXS29JMnhiLXJBd3lEbjRqSHpWdDJFZFozbGtfbnlQU1RMM2pBeGhpeUNyM3I0MktsQThfZ2F0dVdBdGRiUERRTUtNU3Y0UnFvOVhtUG56YWJJX2s1Y2FEZXpVOGZsN1pVQlU4cHdULUoxMzJTMHpiZ2psTVpjMVRNOWFhX0xudGZKamxzSlJqYnpaYS1PbmtSbXVJcDRHVm9zNnZDd0tOQ1pKQ0RuZ1hNdWhtV0tEcURacjVtUWVOR1JGeTU4eW5HdjV3Ym1Sb19CWS0wNVVFZ3dYMFdveEdOZjRDZU1EQXJzeDlfa0VkTC1zTHpDYXN4MFlQM2lEclBLd2JyMHpmV0wwbXBrLUplZ3dsa2xQdjZpLWRlVTlBalZxOUNNRQ?oc=5"
         }
       ]
     },
     {
-      "id": "569cbaaf00e8",
-      "title": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士 - bastillepost.com",
+      "id": "ba46c73dbde2",
+      "title": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士 - 巴士的報",
       "published": "2026-04-08T23:00:57+00:00",
-      "summary": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士&nbsp;&nbsp;bastillepost.com科學家稱我們治療阿茲海默症的方法是錯誤的&nbsp;&nbsp;citytimes.tw科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw",
+      "summary": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士&nbsp;&nbsp;巴士的報科學家稱我們治療阿茲海默症的方法是錯誤的&nbsp;&nbsp;citytimes.tw科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQUDdOTDd6VEc5NTFzSmhzRnpaaW9sbEtGQl90OG83d0tYOWZaRGx0UUJjbFFJM1dVemZlZkt6b0tBN0VCZzBpNjhKZ2cwblhTbF9EcDRLYkRfQlJ6V01UMEh4cERyandobllrekZNbUl0cXBhNkFwTjJVa0VfaTZjNVVOLXhnNHBscXVLaVR4cHNaSF9hNFJuRHNlSFc0cXFxMmxIVEZkM3hUN0ItUjJxc2hzem9BS0dVNTF3eXRSUkNldXM0T092VG1Vb3N5Nk9OY1NzcVFzdnhiTm5taXE5dHZ0OWtMcEhyNFNiS1BXTDNiclVBbkRhaHltV1ZKT3V0ZzZRQTJuMWZ1RDk1bkdINjBQVklzcmNoR1F5VnM5NVd2Nk9wRTZ1cDVyYjJUNmszUE92UUFha3FTN25JSkxydGRwY1lVbDBHUDdrR2dCbkJmTnVqRnNPb3Y3ZkFJTnU3OS1hSVBR?oc=5"
         }
       ]
@@ -186,7 +210,7 @@
     {
       "id": "f3b65cc77e26",
       "title": "糖尿病患者為何更容易骨折？問題可能不只是血糖 | 科技新報 - LINE TODAY",
-      "published": "2026-04-08T21:56:02+00:00",
+      "published": "2026-04-09T14:15:50+00:00",
       "summary": "糖尿病患者為何更容易骨折？問題可能不只是血糖 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -268,18 +292,6 @@
       ]
     },
     {
-      "id": "8aa85c6950fd",
-      "title": "全球每年有230萬宗 研究揭女士避免6件事 可消除28%乳癌 - am730",
-      "published": "2026-04-09T03:30:00+00:00",
-      "summary": "全球每年有230萬宗 研究揭女士避免6件事 可消除28%乳癌&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOOVdiaEkwVFJYY1RaRUUtYmh5OHlCbG5HZ3dIN1FlZHZmODR1VnV0YmxnSjhYa3lwcjNfendJOWtOU0xqUXprSzN0aktrdnJBTHdXZDNVeExON3d5cU9fcjQtOHF6cVMwb2pJSTFRLTJ4UFU2dTN1Yi1pNTc0eU1xaWluTE1BYU5faW9UOVpBN0pqMlhWWW1WWXNBcXBGWTczOVhfN3UyT3hIb0RFRV9lb0pQSWdxOHpZR3MtdzR3TXhGT3E1RUdQYjlCM1pGVDRad2dXUHd5S2pQR0Q4ZWJ4UHBTM0ZEM0Y4SUplenJiZFRUbTgwY1puQ2FCVGhSUm5WODlFYk5mZWVPZU5iSXc3OVFYZkFzdlBVcHhSLVlxQ09haEdfYXpYNzdocU5Fcm9HMTVXRXBlT1NqRTVUOHVkRHQ4VFA0el80UVREcmxWOUt6cFF3WUZYd3lZMHU0T1ZvN1c1RnBQNUVqdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ff6e9bd627f3",
       "title": "山東4歲童腳痛揭患「兒童癌王」陌生人捐款寄語「一生生生生」、籲家人不要放棄 - 星島頭條",
       "published": "2026-04-09T09:49:18+00:00",
@@ -288,6 +300,18 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQLUNJYjg2a0RSTXpaejRfYjBDUlZMWlV4NG5tUlEwZ3JNWjJ6OHpTaWgtWVNtbGNQRFRNVndTMHU4MDQ4UGxyRzR5T3BkVzFzb1ZZZWROdHBNclpKUVRpZTFjLVhFcnNuMko5ZFQ5dC1zY1p1RVA3WU5jVmI1ODJ4R1JYb1R0aGFmRF9LSm9pTVRydHBWSUFWdUNJLVVFZFBKeHYtYkNWMVZDd2NmY3ZvZ1daX1N0SzV0LXhPSndxaFpTakg3RlZXU1dxUWdabkg1T1FVTzk4LXVHM3kzS2dkeWdJTVZsY2ZCZUo3N1E5dE8wdWhZLV9fWk1Kb1Y5U3p1VWdCLW9mTXR5UldvQVRqR0NjdnNHdDhLOERjckxmUV9sU3VZUUxFN2lwUUJTQVVZR05ibF8tOHBDa3JKU1ExZ2c4cFNZWjZVeTRnQ09mVkV6aXVNa0hOSkM3TUhVOVQxZG5PcVphOF9NaWJ0bF9aSEZHRzM2ODhweGl2UmFwd3JkWmhyNDhVRF85RWszai1LSVp3RkhQdUFaeUdwNEUyTjdtRnFBbm40ZzhEblZ3eE1rSFBXdG92aU5zc0NzeGR4ajYwSDNBdVdEUW5jUVhn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8aa85c6950fd",
+      "title": "全球每年有230萬宗 研究揭女士避免6件事 可消除28%乳癌 - am730",
+      "published": "2026-04-09T03:30:00+00:00",
+      "summary": "全球每年有230萬宗 研究揭女士避免6件事 可消除28%乳癌&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOOVdiaEkwVFJYY1RaRUUtYmh5OHlCbG5HZ3dIN1FlZHZmODR1VnV0YmxnSjhYa3lwcjNfendJOWtOU0xqUXprSzN0aktrdnJBTHdXZDNVeExON3d5cU9fcjQtOHF6cVMwb2pJSTFRLTJ4UFU2dTN1Yi1pNTc0eU1xaWluTE1BYU5faW9UOVpBN0pqMlhWWW1WWXNBcXBGWTczOVhfN3UyT3hIb0RFRV9lb0pQSWdxOHpZR3MtdzR3TXhGT3E1RUdQYjlCM1pGVDRad2dXUHd5S2pQR0Q4ZWJ4UHBTM0ZEM0Y4SUplenJiZFRUbTgwY1puQ2FCVGhSUm5WODlFYk5mZWVPZU5iSXc3OVFYZkFzdlBVcHhSLVlxQ09haEdfYXpYNzdocU5Fcm9HMTVXRXBlT1NqRTVUOHVkRHQ4VFA0el80UVREcmxWOUt6cFF3WUZYd3lZMHU0T1ZvN1c1RnBQNUVqdw?oc=5"
         }
       ]
     },
