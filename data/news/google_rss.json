@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-10T04:40:18.347972+00:00",
-  "count": 35,
+  "fetched_at": "2026-04-10T06:27:23.489603+00:00",
+  "count": 31,
   "news": [
-    {
-      "id": "ffb3e8149e34",
-      "title": "痔瘡手術也能用「超音波」？醫解析微創新趨勢 預防復發有1關鍵 - 健康醫療網",
-      "published": "2026-04-10T01:00:00+00:00",
-      "summary": "痔瘡手術也能用「超音波」？醫解析微創新趨勢 預防復發有1關鍵&nbsp;&nbsp;健康醫療網",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43QkFQQ2c2c3Z0TGZzQ0RhemJfTXcwVnh2Y1lVZnNlZjF2ODZ2S0Y4V3o2S0o2NkRieEpRdUFXSlk0Tm1DLXJhczVoTmxmS1MzRjZ6Sm93?oc=5"
-        }
-      ]
-    },
     {
       "id": "391065a22204",
       "title": "長輩不出門、變憂鬱？ 醫師提醒：白內障「看不清」恐引發認知退化等反應 - 民視新聞網",
@@ -52,6 +40,18 @@
       ]
     },
     {
+      "id": "1eea58fec872",
+      "title": "痔瘡手術也能用「超音波」？醫解析微創新趨勢 預防復發有1關鍵 - 民視新聞網",
+      "published": "2026-04-10T01:34:26+00:00",
+      "summary": "痔瘡手術也能用「超音波」？醫解析微創新趨勢 預防復發有1關鍵&nbsp;&nbsp;民視新聞網",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IeVkzMVVIaGhUNEdTQlVfb1FxdE9nOVRyRzFtUXZjX1VGLUpFMC1aLS1XZVBKd2hoOTA2UjNpcmU5UjVWSjhMZng1dkhFQ1U2VHJvaG1ibzJJVjBBZFFRRA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5c57832a7063",
       "title": "杜克大學團隊再生醫學新突破 骨關節炎有望擺脫慢性疼痛 - ENN台灣電報",
       "published": "2026-04-08T08:39:51+00:00",
@@ -64,18 +64,6 @@
       ]
     },
     {
-      "id": "50b6a2cceb2f",
-      "title": "飲食與懷孕：影響者控制「血糖高峰」的錯誤令專家擔憂 - arch-web.com.tw",
-      "published": "2026-04-09T10:54:37+00:00",
-      "summary": "飲食與懷孕：影響者控制「血糖高峰」的錯誤令專家擔憂&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNWmc0Q0pmQ2JvOUxvaVhmWVRGSWNqOFRsTzRhb2QtbHhhdFg5b2lSSFpBZGl1QU9KZm5lLW9DdnVVaUVKUUhvSHVXRHh4U2l4RjlOVTlFd0Rvd05JcnVWTzVpVE91M2phZ01FMDQ5bjBIUmJ1bWZCaklKUzZqdzF6S29HVThOcDlZYjRZcTlnSmNzdmlacjd6TTBNSjNFSlVGSGtLWWNHcW16b3BmMXVPR0Rpb0xxRWxvSmIzekE1YkN6djBoeW1Sb0dJNjBQSktHUVc0dlRFNXdZLU5BdC1LWFNGVWhnQmlnR095TlJPQXRZRlVtVzdUV2M1UjU0dmFzV1VZWVFLcTZYNmV4YWNKMGkwXy1OUk02S3RUb2hwYW9vS0xDZzZhMVpfZk9PNVJTX0FPWm15dEdzakVRTEhMenJlU0VHc1BvVlozUUJqNG5OLWVWQUhJekRtUVllcDFtbEFHamlPOG9EU1JuUTJHY1M4dTBXanA1cDhSUlpaSnk5eXcxZWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "36132892ba5a",
       "title": "科學家發現 ALS 和癡呆症背後隱藏的腸道觸發因素 - arch-web.com.tw",
       "published": "2026-04-09T10:48:33+00:00",
@@ -84,6 +72,18 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNenJnTlV0ZGlieW14S0U0VWZPVmlaeEZIWUxHMGJvUUlrM2dDbHI4V1hwVWdCcWVxQXlJQkFJd0MyS3VKN1VZZ2dfRWk5VlkyZEJHTHdnZzNBTUxlT2wyMk1GVGU0b21VbmU4eWRWTmdNQ05YN21QbUJwUGZsUWlNTElhb1ZENldIU2hhdlkxaVNydm1pSHNIMTRLXy11a1Bpd0N6SmU4cmFCcVVmWTZYYjZ2WjZGZjQ3Q2ViMUpkVXd1aTE2T2FaQ3lKcThBZF81dnFPVHRPSHlKQkpySlEzRUZRbXRROVVVS0k3aklsZUx3eUhONi15eFpHM0VHcmlpVWo5aUlaX0VJbWtQRENHVWtwcTBPU3J4cWM1VUd3Uk9Xb3hjTkZEQUg0Y2hSSXIyaFRlNzZpbDVFUG1sSkU5RHFFQ0kxTmp3Y2Q5eVlFdmthcW9LYUxXOXQ2dGFpZWpQUFdoTVlHOW9vVk1HazMzd0xkT0I?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "50b6a2cceb2f",
+      "title": "飲食與懷孕：影響者控制「血糖高峰」的錯誤令專家擔憂 - arch-web.com.tw",
+      "published": "2026-04-09T10:54:37+00:00",
+      "summary": "飲食與懷孕：影響者控制「血糖高峰」的錯誤令專家擔憂&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNWmc0Q0pmQ2JvOUxvaVhmWVRGSWNqOFRsTzRhb2QtbHhhdFg5b2lSSFpBZGl1QU9KZm5lLW9DdnVVaUVKUUhvSHVXRHh4U2l4RjlOVTlFd0Rvd05JcnVWTzVpVE91M2phZ01FMDQ5bjBIUmJ1bWZCaklKUzZqdzF6S29HVThOcDlZYjRZcTlnSmNzdmlacjd6TTBNSjNFSlVGSGtLWWNHcW16b3BmMXVPR0Rpb0xxRWxvSmIzekE1YkN6djBoeW1Sb0dJNjBQSktHUVc0dlRFNXdZLU5BdC1LWFNGVWhnQmlnR095TlJPQXRZRlVtVzdUV2M1UjU0dmFzV1VZWVFLcTZYNmV4YWNKMGkwXy1OUk02S3RUb2hwYW9vS0xDZzZhMVpfZk9PNVJTX0FPWm15dEdzakVRTEhMenJlU0VHc1BvVlozUUJqNG5OLWVWQUhJekRtUVllcDFtbEFHamlPOG9EU1JuUTJHY1M4dTBXanA1cDhSUlpaSnk5eXcxZWc?oc=5"
         }
       ]
     },
@@ -120,6 +120,18 @@
         {
           "name": "yesmedia.com.tw",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQT0FYOHpBRVJkaEhCUEpXWEt3blpXSFhHR0RiMkRsS3hMWUxac0hJWVU5MVA0UTd5VnIxRkE2RTU1X0ExTGtSekJHZ0d0bUJXM1pGYy01SklmekFYTGZ5WEVmdWlkT05ZczlpcEhzUTRlSGtGZ3ZvRnVBczVueXNMVUU2RlRod1ZQeS1MSVZPQjBaS3RkbElqWE9WMzU1V2wzdXlfZ1BaR3hfNkEzX1UzWVRvaXg5N3RVMWdHYW02bmQwM25HVWNzeE1BM0NlTFlJbUNkMHNTNkdqVjJBcV8wOExJdzlXSXB5SjNtZGt6OWc4c1JkSHNjSWpYdzVDbHNva0stLWNDSi0ya2ZYQWVqZU1WUHpBN0s3UXhhQjBCb1IxZzJEanptWWo5aEtVUThOWUlwMF9iMHdDR20wRlBPY1pPb1E3TU5hak5sdg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "af7c8a040a1f",
+      "title": "多年高血壓沒在吃藥…頭暈噁心竟中風！醫警告「這種類型」最要命 - 中天新聞網",
+      "published": "2026-04-10T05:39:50+00:00",
+      "summary": "多年高血壓沒在吃藥…頭暈噁心竟中風！醫警告「這種類型」最要命&nbsp;&nbsp;中天新聞網中風後，為什麼我總是擔心疾病會再惡化？&nbsp;&nbsp;careonline.com.tw小中風症狀消失快 但恐致大麻煩 醫：不能輕視&nbsp;&nbsp;世界新聞網「小中風」常見警訊別忽視老少均有高風險因子- 國際&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jdFUwR0ZvT1llTGZteXdlcXZkN1Nld2lxY25FVW5FTDJONGpEaVZldG9kWUJxelJmeEwxZGJfWmliUDdzbnNSOWt0WGJ5b1QzTExJ?oc=5"
         }
       ]
     },
@@ -172,14 +184,14 @@
       ]
     },
     {
-      "id": "1d5ba2ea2986",
-      "title": "不只偷吃還帶走！「這動物」會縮骨功 10元硬幣大孔洞就能鑽 毛孩飼料也不放過 - TVBS 健康2.0",
-      "published": "2026-04-08T04:09:00+00:00",
-      "summary": "不只偷吃還帶走！「這動物」會縮骨功 10元硬幣大孔洞就能鑽 毛孩飼料也不放過&nbsp;&nbsp;TVBS 健康2.0",
+      "id": "c27777bfdf2d",
+      "title": "世衛推病原體研發藍圖 強化全球防範大流行病能力 - 行銷人",
+      "published": "2026-04-08T11:14:29+00:00",
+      "summary": "世衛推病原體研發藍圖 強化全球防範大流行病能力&nbsp;&nbsp;行銷人",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pMWkycjJic3FzUGdQZmNsbXo0MHo3V1dleWZxNkktR01rVVBYcEJDYVczZkR6R0FLUGNxNGI4ejVmWnQtQXRUbG1KZzh6aXNCNDNZ?oc=5"
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOY290UzlFRW96Umwzdi1fSHdiTmwyN2pvU0JZZ2pBdkdmOUlvSmRucHozVVREbDcxdWg2aVVaTDVHblFkNHIwbFIxYnFPcUlTb3ltX01NbFpCWVE2clNwZzZtaVl0SjR6c1Y1MTA0QndfUmcyX3JKaTdDb1YzOHBFakdkdklueEhwTmJxRUlMd21JazkyWEJFeE0taHdCcFljSFZXS3QxSHR6Ny01MW1rbG53Y1dzOEVaSHY4WktOWG9uTUxkSXk5TVFDZEtXWEhScTNSbnc0dHBULUlKTG5NUHBteVVEMXFxd2lLTzdXOG42V0Y4UDYxTDhFaDNCVEthUTJuTnRObXg5NzliOFBsUlQyM2NibkhvRlZSaS04X1NYXzdvRHFlRGF2U3F6ZG82cXFvOTFqR1hsVnk0UGF2eDhWdW1SRFAwZU9oMjZkRFhYVWYyQ01meFJNMnotbi1veTUza3BhYjhkeVF0Ry1lNVhLQlducFRUaC1oNw?oc=5"
         }
       ]
     },
@@ -196,62 +208,26 @@
       ]
     },
     {
-      "id": "c8bf234000f9",
-      "title": "世衛推病原體研發藍圖 強化全球防範大流行病能力 - ENN台灣電報",
-      "published": "2026-04-08T13:02:33+00:00",
-      "summary": "世衛推病原體研發藍圖 強化全球防範大流行病能力&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9ySjh6eUZkb0NGa1NEelV4VjEzbXUyZDIwTXNROEtfLVJSS0dJaXl6UXlucnlhMHUteEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1002df08bfe4",
-      "title": "指甲不平整、直條紋現蹤，醫揭「甲下腫瘤警訊」！低估嚴重性恐成癌 - 元氣網",
-      "published": "2026-04-08T05:00:05+00:00",
-      "summary": "指甲不平整、直條紋現蹤，醫揭「甲下腫瘤警訊」！低估嚴重性恐成癌&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84RGtlTGkyUHN3M2xvY2h5WUxsSzVicXJLb3dmZ2ZER2VTbm9wbWtVM1ZPanFpaVpUYlNRQzJUTjdGc1VVR3RhNnBpcThfUllHTzhmOFBTaHdUejZE0gFiQVVfeXFMTnB2bHI2R0VRazZ3b1JObDltc3h2U1ZPZ3RXZ1dQYVZRQUpPeVMwdkRsMTNtV3dZZFdqai1sSExTZ3pvOVNKcFozVnAwcDQ3Z1NpVTNpc0sza3EwWUpud1VwckE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0f59eac2069f",
-      "title": "當其他疫苗失敗時，這種小狗疫苗取得了成功 - citytimes.tw",
-      "published": "2026-04-08T20:00:56+00:00",
-      "summary": "當其他疫苗失敗時，這種小狗疫苗取得了成功&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOdmd4a0JPeXZNVTBMY003cTJPRmFveHY3d1hyZURIY0lFaGo3MTRMN1AyS2dIYVFYTlhjaGx5Q0d2QkY5aHdlYVowejIzWklibE9FUGswUGVfZ3RzOWhQWS1vSkVzeVliNEE4Z3oyc3A2eXdQX0FyTFo3Wk54WGp4eEVqSVpEaF9JenlnMDVnNnJBYUxKR0oyLU1FTllCTmRfYk84cG9yTFRGYTdoQWNycTdnRnV5WVoydE5vRF9WWFZNUExfODJrTkhpY1JyV3JBOWQtbzhtbGtJNkYwTFE4eXVLNVhwY1ctV0pRbFRxQWFGT2pVQmZySGFRUm8zaXJqNEFVQnMxYVZIbXAybjV1TW1pUlU0NU5ETm8tMHRrOVdRczRqMUVvN0NCcDVhSUQtbklKZXhoY2kzVWhDc1RoQkxjTW4wSkprcm1VV09B?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "116fbed9fcf0",
-      "title": "科學家發現隱藏的大腦開關告訴你停止進食 - arch-web.com.tw",
-      "published": "2026-04-08T10:05:36+00:00",
-      "summary": "科學家發現隱藏的大腦開關告訴你停止進食&nbsp;&nbsp;arch-web.com.tw",
+      "id": "31fd3f6ef751",
+      "title": "當其他疫苗供不應求時，這種小狗疫苗取得了成功。 - arch-web.com.tw",
+      "published": "2026-04-08T17:37:21+00:00",
+      "summary": "當其他疫苗供不應求時，這種小狗疫苗取得了成功。&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
           "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNcHl4QmdmMzY3b1Uzd3pOSUVYMVU2MlJjMWhjdU8xUnRRbE9taERBUmROUnJtQ3dxM3l5NlNNRWd0OVJNbnhIX1d0NmhmVHRtenZ5cEpOR2N3S0Vsc29lWWJlcWNzSHQ1amo5QVFzZkxOSkVOUllyY3NoVkx2azYxZTFVZG01LXBKTFFLS19RUTA5TXV1SWlUaTlDZ2JFWEVYa3ZfbDZ2UWdjUElkMk5FY1h3SEdvc2sxeDloamNVbWhibFlXV0JJd0lmVGVtTlBfOXJERWUyXzhPZHNzN3ZhME5hc0lsMFJ6SlFSQldQVHRNNFJvRXMzZk1tVjUtVGtjeVlVdl94SFpHOHoyUUZYd3lFbVEtUmZ1MkdxWUZzcWRlM2VfZXZsaW1NMk5SbmpvdmhhVktPNUt2T1hiTFd4R0NySGVDdXVHSGs2cWNvYlJ4QTByLUdJQ1pOSmpDaHp6U1E?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPQU5wQ3BNNWtDVzhjZHF5cUdmNnFkamNNWW42VmwzR3NYWWVWRkk5RGJxaHNESlI5S2s5LWlKVlhiWjBnOVhoR3lzTGFlZDBpQzdLVzNhRTFKZ2NWVkJWSlE0Y1BucE94aWFzMjI4dGNwU0RWS0x5ekNiZFlzZmdoaXU0YVh2dGpvWGptWGg5VmJUQVR1cHNEZm50cUM4NHBqNW8xcndpWllBa254TWY4ckVLRnFwbm1GcGtsMWN5Q0hCTlJhMkgyM3F5WlJXZ3d3S0VldjRXakNMZFhRZnVzdXZmcmllUzhkREViWmdsU1hhakdyTzR3enZ6SVRWdEtuS2ZNMmtWTHRxZENhM2tJQ0RrbjVpWFJPamVQZXJ6N1pYNk8wNXdEcGpwNmx1SDdXcnZ0bEhJUEVTRjVXaFowTXU5Q3ZOd094OUZuci1rS2s4Rncxd19XTlVORXZudUY1UHlwU01kLUxrX3ZucExOMGJaME5PTVhxMVFqQ0VGMVFUR3VYTVE?oc=5"
         }
       ]
     },
     {
-      "id": "bc8f8adba88d",
-      "title": "孟加拉麻疹疫情爆發逾百童死 當局緊急疫苗接種行動 - Singtaousa",
-      "published": "2026-04-08T04:50:36+00:00",
-      "summary": "孟加拉麻疹疫情爆發逾百童死 當局緊急疫苗接種行動&nbsp;&nbsp;Singtaousa孟加拉麻疹疫情大爆發 一個月內百童病逝&nbsp;&nbsp;singtao.ca孟加拉的麻疹疫情迅速蔓延 當局啟動緊急疫苗接種計劃&nbsp;&nbsp;香港電台新聞網孟加拉國暴發麻疹疫情感染逾600人 總理下令緊急調查&nbsp;&nbsp;香港商报多地麻疹持續 衛生局籲加強注意防範&nbsp;&nbsp;澳門廣播電視股份有限公司",
+      "id": "cddda97a3576",
+      "title": "糖尿病患者為何更容易骨折？問題可能不只是血糖 - TechNews 科技新報",
+      "published": "2026-04-08T07:00:00+00:00",
+      "summary": "糖尿病患者為何更容易骨折？問題可能不只是血糖&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQektaME5faFZ0OTJpaWt5QjFPLWRqY2VPR1dPZEVnVnNOQzNtY3dmRFAwY3RRSE9VV25BX3F1a3dyTzdaX05jX2pIS1NncldTN0Y1NVZMNFREZmRrVXFpSTZGb3NjWEpCcXlQakwtX2dfYXcxR1dVTXRsQlZySnphVTBNdlVrY2N4aXRhbjF0ZWdJeGNrUkk3Z1JXVzMwcDcxaUJZMnhyb1d0NlgzWFBieHdsWEZsdWhLUTUtWV9YcHFjeV9fWmVvREwwemF3enRldGt6LVJZd0w?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcVFEWFNTVFN4a2pBOTFaVlVwS3Ata29zVkx2dG5OYVYyS09sSmN3RVlwNTNoMFc0N1ZkdFJ5RDlUZjc5bzdqYzl5RTNVVkpXdHNBTEw3Ny01VFlLbmc0dHczaGZMa243eFJrM1V2LVVJTWNiMUJyTktmT0ZBa3BLb29HOFhQRS10VXpNcS1QdmlyZ1l1emNmNEkyXzVFVkJKUFBJeWVCUE5ncjV3V0pLMkwwdERCNk9IcjA4Yg?oc=5"
         }
       ]
     },
@@ -264,18 +240,6 @@
         {
           "name": "Taiwan News",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MVFpVOUVyaUdXWWxnYlJYVTRDSWcxTnFBaE02REFWYUtDSlJUd2xpM3hja1Zmb0NlcFp0cmRZR2k4Um1vUTBOWUZWWWt4UFRxYnUxNVMxbUU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5520901575ca",
-      "title": "鮮為人知的水果「迷你奇異果」，可能有助預防肺癌| 雜誌 - 聯合新聞網",
-      "published": "2026-04-08T04:48:25+00:00",
-      "summary": "鮮為人知的水果「迷你奇異果」，可能有助預防肺癌| 雜誌&nbsp;&nbsp;聯合新聞網",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40elZrZXRWRkRIODVSeHRvMlJZSkVQOUpZdWpDRTkxZlBMYzVCSHNORHpVaUhGMnJsMzBYY3dFMlZhclFsb0Z6eXY0bHBSSHRO?oc=5"
         }
       ]
     },
@@ -376,18 +340,6 @@
       ]
     },
     {
-      "id": "c25f9e75b4c0",
-      "title": "消委會驅蚊劑︱消委會25款大比拼9款5星驅蚊劑推薦 1種成分最有效驅蚊 - 香港經濟日報HKET",
-      "published": "2026-04-08T09:05:25+00:00",
-      "summary": "消委會驅蚊劑︱消委會25款大比拼9款5星驅蚊劑推薦 1種成分最有效驅蚊&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sbWdMekU5WmUtZ1JCVHVsc2IxcVRpeTJabm95TXhvWVA1M3o1RXdEQzBIdm1LalpmR1pVaGR0dWp3X1VrOEJGRU9RUm56VWRDYXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4d59c68fa212",
       "title": "西貢夜釣墨魚探險團：親子共探傳統漁民文化之旅 - Sundaykiss",
       "published": "2026-04-08T09:33:29+00:00",
@@ -400,6 +352,18 @@
       ]
     },
     {
+      "id": "c25f9e75b4c0",
+      "title": "消委會驅蚊劑︱消委會25款大比拼9款5星驅蚊劑推薦 1種成分最有效驅蚊 - 香港經濟日報HKET",
+      "published": "2026-04-08T09:05:25+00:00",
+      "summary": "消委會驅蚊劑︱消委會25款大比拼9款5星驅蚊劑推薦 1種成分最有效驅蚊&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sbWdMekU5WmUtZ1JCVHVsc2IxcVRpeTJabm95TXhvWVA1M3o1RXdEQzBIdm1LalpmR1pVaGR0dWp3X1VrOEJGRU9RUm56VWRDYXc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "71cf8e7da216",
       "title": "60歲乳癌鬥士抗病17年 半邊臉被癌症侵蝕：病魔想讓我認輸，我把傷口變成鎧甲 - 星島頭條",
       "published": "2026-04-08T06:30:42+00:00",
@@ -408,18 +372,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNTGRTWm43NDdPVXFmR2JVc0ZCQjJRV05vYlE2OXktZWlOazV3ZVB6UlQ3akpGTVNHdFR4WTR3aG8wZjZiOE1oQWN5dWJTOFUwNWxxQlVsMGlqSlB2bFF1V0FxaEZOeGloS2ZjTTc0YUJjVTRWdlhTcF93Ukc0SG52NXN3RjJ6M2lVYzdEc3dDcjluRl9reWd5UU9IQ0s5Z0xEanppUGE3SzEtOGdfbUNPNjRvMm1GZnlvMWJyQlZrc0VPWHpFaVFQYjVJWnRPWUdUM1l4T1VoZGlKMTJJMTBjMXIwb0NKZGJWSmJ2dUszZjlXZ01KUkRZYktVLXM2VzJ0eEREWXRZM1F6eDVqOVNwUzhkejBUMnNzbjVRa21xaWtiVTl4djd2M3dNNGNoSzlzY2dKMzVLOWlidEprMlF2VTg5WG1Yci1CLVk4SHhDVFNrWHRSdm82eFZlTmlUaFdJbDVvYlI2V0o5ejhYWm9NYThCYm5KUEU1cTVVVWw2cHJYdFh5d2FBN0FETk1CZ1BhMWRFaUpSTnczNlBGdlkxT1p2aUhlLVN3M09FRTBUZWhpa2EycmlISWg3UEVkTVNWVmlJOGtvOG9oUFp2VTFWempsRno?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b021813dbac8",
-      "title": "黑朱古力越苦越健康？恐誘發偏頭痛？營養師解構黑朱古力功效/減肥食法/副作用 - 星島頭條",
-      "published": "2026-04-08T04:30:00+00:00",
-      "summary": "黑朱古力越苦越健康？恐誘發偏頭痛？營養師解構黑朱古力功效/減肥食法/副作用&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQTnZibU5aTmVBZ29CY1Qzci0zQl91WHk4VTFzMDZjZzZibHU4S1dXLXZ3d043d0cwYkNnMDlEbDNEa0V4M3pZLXFjaW9SZTlyb2VLbkttT012Z1Q2cm9TcDdkaDdrVVRCZl95QWN4MzZkRzczcVVzcXdTN0lfMDJuYW9WS2RqYkNLZG1BUE1KS1FLYlhVWlZqMm84anpINUd4bUpXbFRKb2Q2MEYwRkJlVGtETTNUS1E3bnY3bjZCQWFYSVlpTmhzbEgzalA0NWMwWm1MUnFUTmtVMV90VTh3Z29SMzdnV2toT1Z3VkVQTU9PcmtyQlJfWDdvamVHTVpNM1kwLVJEenJsd0NBcDFPMGxHUU03X3A0X044NXctZmEyWUxRMHhvRmtEVlE0M1AtZFl1Mlh3TDlTUUtlWU9ma2FGVHM5Wm9NNzFCb1FRcDB4QjBzYlk2aVl1RGlmeGlidUpQTkR2bXhoZ21ETjBLZjNvbkR0NnBCV3BmbjFUU3dzOFZjdk5WeTVQTFJMMUVtNHV4UzVGc2lJLWJYQ1dmZzBhRjhyNUZrbjZ3NmtHdVB6TjhOMFJkS1BCV0tjcHZ5OHpEMnRsMURjbjdVaWtMc1ZfbjJrUEZ2WEQ3b2FmX205TmdiYUVv?oc=5"
         }
       ]
     }

@@ -14,7 +14,7 @@ permalink: /news/bempedoic_acid/
 ---
 
 <p class="key-answer" data-question="Bempedoic acid 有什麼相關新聞？">
-<strong>Bempedoic acid</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bempedoic acid</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ permalink: /news/bempedoic_acid/
 <p><a href="{{ '/drugs/bempedoic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [60歲乳癌鬥士抗病17年 半邊臉被癌症侵蝕：病魔想讓我認輸，我把傷口變成鎧甲](https://news.google.com/rss/articles/CBMi1ANBVV95cUxNTGRTWm43NDdPVXFmR2JVc0ZCQjJRV05vYlE2OXktZWlOazV3ZVB6UlQ3akpGTVNHdFR4WTR3aG8wZjZiOE1oQWN5dWJTOFUwNWxxQlVsMGlqSlB2bFF1V0FxaEZOeGloS2ZjTTc0YUJjVTRWdlhTcF93Ukc0SG52NXN3RjJ6M2lVYzdEc3dDcjluRl9reWd5UU9IQ0s5Z0xEanppUGE3SzEtOGdfbUNPNjRvMm1GZnlvMWJyQlZrc0VPWHpFaVFQYjVJWnRPWUdUM1l4T1VoZGlKMTJJMTBjMXIwb0NKZGJWSmJ2dUszZjlXZ01KUkRZYktVLXM2VzJ0eEREWXRZM1F6eDVqOVNwUzhkejBUMnNzbjVRa21xaWtiVTl4djd2M3dNNGNoSzlzY2dKMzVLOWlidEprMlF2VTg5WG1Yci1CLVk4SHhDVFNrWHRSdm82eFZlTmlUaFdJbDVvYlI2V0o5ejhYWm9NYThCYm5KUEU1cTVVVWw2cHJYdFh5d2FBN0FETk1CZ1BhMWRFaUpSTnczNlBGdlkxT1p2aUhlLVN3M09FRTBUZWhpa2EycmlISWg3UEVkTVNWVmlJOGtvOG9oUFp2VTFWempsRno?oc=5)
 
 2026-04-08 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
 
 來源：[星島頭條](https://news.google.com/rss/articles/CBMi1ANBVV95cUxNTGRTWm43NDdPVXFmR2JVc0ZCQjJRV05vYlE2OXktZWlOazV3ZVB6UlQ3akpGTVNHdFR4WTR3aG8wZjZiOE1oQWN5dWJTOFUwNWxxQlVsMGlqSlB2bFF1V0FxaEZOeGloS2ZjTTc0YUJjVTRWdlhTcF93Ukc0SG52NXN3RjJ6M2lVYzdEc3dDcjluRl9reWd5UU9IQ0s5Z0xEanppUGE3SzEtOGdfbUNPNjRvMm1GZnlvMWJyQlZrc0VPWHpFaVFQYjVJWnRPWUdUM1l4T1VoZGlKMTJJMTBjMXIwb0NKZGJWSmJ2dUszZjlXZ01KUkRZYktVLXM2VzJ0eEREWXRZM1F6eDVqOVNwUzhkejBUMnNzbjVRa21xaWtiVTl4djd2M3dNNGNoSzlzY2dKMzVLOWlidEprMlF2VTg5WG1Yci1CLVk4SHhDVFNrWHRSdm82eFZlTmlUaFdJbDVvYlI2V0o5ejhYWm9NYThCYm5KUEU1cTVVVWw2cHJYdFh5d2FBN0FETk1CZ1BhMWRFaUpSTnczNlBGdlkxT1p2aUhlLVN3M09FRTBUZWhpa2EycmlISWg3UEVkTVNWVmlJOGtvOG9oUFp2VTFWempsRno?oc=5)
-
----
-
-### [指甲不平整、直條紋現蹤，醫揭「甲下腫瘤警訊」！低估嚴重性恐成癌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE84RGtlTGkyUHN3M2xvY2h5WUxsSzVicXJLb3dmZ2ZER2VTbm9wbWtVM1ZPanFpaVpUYlNRQzJUTjdGc1VVR3RhNnBpcThfUllHTzhmOFBTaHdUejZE0gFiQVVfeXFMTnB2bHI2R0VRazZ3b1JObDltc3h2U1ZPZ3RXZ1dQYVZRQUpPeVMwdkRsMTNtV3dZZFdqai1sSExTZ3pvOVNKcFozVnAwcDQ3Z1NpVTNpc0sza3EwWUpud1VwckE?oc=5)
-
-2026-04-08 <span class="news-indication-tag">腫瘤</span>
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE84RGtlTGkyUHN3M2xvY2h5WUxsSzVicXJLb3dmZ2ZER2VTbm9wbWtVM1ZPanFpaVpUYlNRQzJUTjdGc1VVR3RhNnBpcThfUllHTzhmOFBTaHdUejZE0gFiQVVfeXFMTnB2bHI2R0VRazZ3b1JObDltc3h2U1ZPZ3RXZ1dQYVZRQUpPeVMwdkRsMTNtV3dZZFdqai1sSExTZ3pvOVNKcFozVnAwcDQ3Z1NpVTNpc0sza3EwWUpud1VwckE?oc=5)
 
 ---
 

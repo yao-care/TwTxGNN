@@ -35,11 +35,11 @@ permalink: /news/diosmin/
 
 ## 相關新聞（1 則）
 
-### [痔瘡手術也能用「超音波」？醫解析微創新趨勢 預防復發有1關鍵](https://news.google.com/rss/articles/CBMiVkFVX3lxTE43QkFQQ2c2c3Z0TGZzQ0RhemJfTXcwVnh2Y1lVZnNlZjF2ODZ2S0Y4V3o2S0o2NkRieEpRdUFXSlk0Tm1DLXJhczVoTmxmS1MzRjZ6Sm93?oc=5)
+### [痔瘡手術也能用「超音波」？醫解析微創新趨勢 預防復發有1關鍵](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IeVkzMVVIaGhUNEdTQlVfb1FxdE9nOVRyRzFtUXZjX1VGLUpFMC1aLS1XZVBKd2hoOTA2UjNpcmU5UjVWSjhMZng1dkhFQ1U2VHJvaG1ibzJJVjBBZFFRRA?oc=5)
 
 2026-04-10 <span class="news-indication-tag">痔瘡</span>
 
-來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE43QkFQQ2c2c3Z0TGZzQ0RhemJfTXcwVnh2Y1lVZnNlZjF2ODZ2S0Y4V3o2S0o2NkRieEpRdUFXSlk0Tm1DLXJhczVoTmxmS1MzRjZ6Sm93?oc=5)
+來源：[民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IeVkzMVVIaGhUNEdTQlVfb1FxdE9nOVRyRzFtUXZjX1VGLUpFMC1aLS1XZVBKd2hoOTA2UjNpcmU5UjVWSjhMZng1dkhFQ1U2VHJvaG1ibzJJVjBBZFFRRA?oc=5)
 
 ---
 
