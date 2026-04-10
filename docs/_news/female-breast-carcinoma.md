@@ -3,7 +3,7 @@ layout: default
 title: "乳癌（female breast carcinoma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "乳癌（female breast carcinoma） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "乳癌（female breast carcinoma） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="乳癌（female breast carcinoma） 有什麼相關新聞？">
-<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/female-breast-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [為醫ADHD兒耗盡積蓄 單親港媽患上乳癌淚求續命 「想陪兒子多走一段路！」](https://news.google.com/rss/articles/CBMiswNBVV95cUxPRFBJQ3JFY2VLcWZLZjltUzNIaklIUWZ2alRhRDVqa2NsVTNPOFRUV2JuRFlJOVF5NEFqWFZSVklDdDU1UWlzVGZFZnRSN2xiM1lscXdlU3pqMWZyMHhrZlZpZ25PdkJwLVp2ODRjZ1hkSk5UYWpjV1RJYnl0Slg4UlhzM3Q1TzhXRGNYVEI4NHRGVy1pMWRGZnhxa2hJVElDVUVHd0d4Rk9ySkV5OFJjcmpkYkduSVRCQ0lNWmVNZlEtX3VHbTZYYzhmS1dqc0pJdkhUT0ZORkduWkdMakNtT1NqNFRHRkE3ZkhhdVhZT3VZYzk3SGdJejNseGZUQy1RY3pTM3lIQ19kMnV0NkhGTGZIMHZ5ZzQ3dXVaajBqUU5JTkMxelFtQWF5QWRsSF9LZzIxanZYdjZIZTVzSC1USnI3cktYakFZdFJkZDd5Ynk3UzBobG02NnB3eGJrRWV4cEc0VlhKcjJqNS1pdnRwZ1VJazJkcjV3UEp5Z2gxYnIxWE5kenlOQ2h4YmsxcGRuVk96OHdCaTQ1RnZBQXFyS2lYWkVabndTN2xFRXJSem4xM1E?oc=5)
+
+2026-04-10
+
+來源：[星島頭條](https://news.google.com/rss/articles/CBMiswNBVV95cUxPRFBJQ3JFY2VLcWZLZjltUzNIaklIUWZ2alRhRDVqa2NsVTNPOFRUV2JuRFlJOVF5NEFqWFZSVklDdDU1UWlzVGZFZnRSN2xiM1lscXdlU3pqMWZyMHhrZlZpZ25PdkJwLVp2ODRjZ1hkSk5UYWpjV1RJYnl0Slg4UlhzM3Q1TzhXRGNYVEI4NHRGVy1pMWRGZnhxa2hJVElDVUVHd0d4Rk9ySkV5OFJjcmpkYkduSVRCQ0lNWmVNZlEtX3VHbTZYYzhmS1dqc0pJdkhUT0ZORkduWkdMakNtT1NqNFRHRkE3ZkhhdVhZT3VZYzk3SGdJejNseGZUQy1RY3pTM3lIQ19kMnV0NkhGTGZIMHZ5ZzQ3dXVaajBqUU5JTkMxelFtQWF5QWRsSF9LZzIxanZYdjZIZTVzSC1USnI3cktYakFZdFJkZDd5Ynk3UzBobG02NnB3eGJrRWV4cEc0VlhKcjJqNS1pdnRwZ1VJazJkcjV3UEp5Z2gxYnIxWE5kenlOQ2h4YmsxcGRuVk96OHdCaTQ1RnZBQXFyS2lYWkVabndTN2xFRXJSem4xM1E?oc=5)
+
+---
 
 ### [全球每年有230萬宗 研究揭女士避免6件事 可消除28%乳癌](https://news.google.com/rss/articles/CBMi6gJBVV95cUxOOVdiaEkwVFJYY1RaRUUtYmh5OHlCbG5HZ3dIN1FlZHZmODR1VnV0YmxnSjhYa3lwcjNfendJOWtOU0xqUXprSzN0aktrdnJBTHdXZDNVeExON3d5cU9fcjQtOHF6cVMwb2pJSTFRLTJ4UFU2dTN1Yi1pNTc0eU1xaWluTE1BYU5faW9UOVpBN0pqMlhWWW1WWXNBcXBGWTczOVhfN3UyT3hIb0RFRV9lb0pQSWdxOHpZR3MtdzR3TXhGT3E1RUdQYjlCM1pGVDRad2dXUHd5S2pQR0Q4ZWJ4UHBTM0ZEM0Y4SUplenJiZFRUbTgwY1puQ2FCVGhSUm5WODlFYk5mZWVPZU5iSXc3OVFYZkFzdlBVcHhSLVlxQ09haEdfYXpYNzdocU5Fcm9HMTVXRXBlT1NqRTVUOHVkRHQ4VFA0el80UVREcmxWOUt6cFF3WUZYd3lZMHU0T1ZvN1c1RnBQNUVqdw?oc=5)
 
