@@ -1,8 +1,33 @@
 {
-  "last_updated": "2026-04-09T23:31:27.012832+00:00",
-  "total_count": 40,
-  "matched_count": 15,
+  "last_updated": "2026-04-10T01:45:36.407864+00:00",
+  "total_count": 38,
+  "matched_count": 16,
   "news": [
+    {
+      "id": "ffb3e8149e34",
+      "title": "痔瘡手術也能用「超音波」？醫解析微創新趨勢 預防復發有1關鍵",
+      "published": "2026-04-10T01:00:00+00:00",
+      "summary": "痔瘡手術也能用「超音波」？醫解析微創新趨勢 預防復發有1關鍵&nbsp;&nbsp;健康醫療網",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43QkFQQ2c2c3Z0TGZzQ0RhemJfTXcwVnh2Y1lVZnNlZjF2ODZ2S0Y4V3o2S0o2NkRieEpRdUFXSlk0Tm1DLXJhczVoTmxmS1MzRjZ6Sm93?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "痔瘡",
+          "keyword": "痔瘡",
+          "related_drugs": [
+            {
+              "slug": "diosmin",
+              "name": "Diosmin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "466ef0a41466",
       "title": "健康危機：EHealthworld 稱 75% 的印度年輕人在 30 歲時面臨疾病",
@@ -355,6 +380,53 @@
       ]
     },
     {
+      "id": "ba46c73dbde2",
+      "title": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士",
+      "published": "2026-04-08T23:00:57+00:00",
+      "summary": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士&nbsp;&nbsp;巴士的報不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊&nbsp;&nbsp;PChome Online 新聞科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw「養腦補腎」延緩失智 中醫師促多吃優質蛋白質&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQUDdOTDd6VEc5NTFzSmhzRnpaaW9sbEtGQl90OG83d0tYOWZaRGx0UUJjbFFJM1dVemZlZkt6b0tBN0VCZzBpNjhKZ2cwblhTbF9EcDRLYkRfQlJ6V01UMEh4cERyandobllrekZNbUl0cXBhNkFwTjJVa0VfaTZjNVVOLXhnNHBscXVLaVR4cHNaSF9hNFJuRHNlSFc0cXFxMmxIVEZkM3hUN0ItUjJxc2hzem9BS0dVNTF3eXRSUkNldXM0T092VG1Vb3N5Nk9OY1NzcVFzdnhiTm5taXE5dHZ0OWtMcEhyNFNiS1BXTDNiclVBbkRhaHltV1ZKT3V0ZzZRQTJuMWZ1RDk1bkdINjBQVklzcmNoR1F5VnM5NVd2Nk9wRTZ1cDVyYjJUNmszUE92UUFha3FTN25JSkxydGRwY1lVbDBHUDdrR2dCbkJmTnVqRnNPb3Y3ZkFJTnU3OS1hSVBR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "7a7491fd4ffb",
       "title": "高齡過度節食非好事 營養師：老人微胖較長壽",
       "published": "2026-04-08T21:30:00+00:00",
@@ -405,6 +477,19 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOdmd4a0JPeXZNVTBMY003cTJPRmFveHY3d1hyZURIY0lFaGo3MTRMN1AyS2dIYVFYTlhjaGx5Q0d2QkY5aHdlYVowejIzWklibE9FUGswUGVfZ3RzOWhQWS1vSkVzeVliNEE4Z3oyc3A2eXdQX0FyTFo3Wk54WGp4eEVqSVpEaF9JenlnMDVnNnJBYUxKR0oyLU1FTllCTmRfYk84cG9yTFRGYTdoQWNycTdnRnV5WVoydE5vRF9WWFZNUExfODJrTkhpY1JyV3JBOWQtbzhtbGtJNkYwTFE4eXVLNVhwY1ctV0pRbFRxQWFGT2pVQmZySGFRUm8zaXJqNEFVQnMxYVZIbXAybjV1TW1pUlU0NU5ETm8tMHRrOVdRczRqMUVvN0NCcDVhSUQtbklKZXhoY2kzVWhDc1RoQkxjTW4wSkprcm1VV09B?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c8bf234000f9",
+      "title": "世衛推病原體研發藍圖 強化全球防範大流行病能力",
+      "published": "2026-04-08T13:02:33+00:00",
+      "summary": "世衛推病原體研發藍圖 強化全球防範大流行病能力&nbsp;&nbsp;ENN台灣電報",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9ySjh6eUZkb0NGa1NEelV4VjEzbXUyZDIwTXNROEtfLVJSS0dJaXl6UXlucnlhMHUteEE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -619,19 +704,6 @@
       ]
     },
     {
-      "id": "c27777bfdf2d",
-      "title": "世衛推病原體研發藍圖 強化全球防範大流行病能力",
-      "published": "2026-04-08T11:14:29+00:00",
-      "summary": "世衛推病原體研發藍圖 強化全球防範大流行病能力&nbsp;&nbsp;行銷人",
-      "sources": [
-        {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOY290UzlFRW96Umwzdi1fSHdiTmwyN2pvU0JZZ2pBdkdmOUlvSmRucHozVVREbDcxdWg2aVVaTDVHblFkNHIwbFIxYnFPcUlTb3ltX01NbFpCWVE2clNwZzZtaVl0SjR6c1Y1MTA0QndfUmcyX3JKaTdDb1YzOHBFakdkdklueEhwTmJxRUlMd21JazkyWEJFeE0taHdCcFljSFZXS3QxSHR6Ny01MW1rbG53Y1dzOEVaSHY4WktOWG9uTUxkSXk5TVFDZEtXWEhScTNSbnc0dHBULUlKTG5NUHBteVVEMXFxd2lLTzdXOG42V0Y4UDYxTDhFaDNCVEthUTJuTnRObXg5NzliOFBsUlQyM2NibkhvRlZSaS04X1NYXzdvRHFlRGF2U3F6ZG82cXFvOTFqR1hsVnk0UGF2eDhWdW1SRFAwZU9oMjZkRFhYVWYyQ01meFJNMnotbi1veTUza3BhYjhkeVF0Ry1lNVhLQlducFRUaC1oNw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "116fbed9fcf0",
       "title": "科學家發現隱藏的大腦開關告訴你停止進食",
       "published": "2026-04-08T10:05:36+00:00",
@@ -671,14 +743,14 @@
       "matched_keywords": []
     },
     {
-      "id": "7cb902cd46a7",
+      "id": "5c57832a7063",
       "title": "杜克大學團隊再生醫學新突破 骨關節炎有望擺脫慢性疼痛",
-      "published": "2026-04-08T06:31:52+00:00",
-      "summary": "杜克大學團隊再生醫學新突破 骨關節炎有望擺脫慢性疼痛&nbsp;&nbsp;yesmedia.com.tw前往 Google 新聞查看完整報導",
+      "published": "2026-04-08T08:39:51+00:00",
+      "summary": "杜克大學團隊再生醫學新突破 骨關節炎有望擺脫慢性疼痛&nbsp;&nbsp;ENN台灣電報前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPd2M0MEtwQjBLRlc0LVZGOUFvdTl0dUpNMXVWR3Y3c0pxdmt1M2llcmRjM0Q4ZU5QY3dhc1dzaURXNXFlQUNrVkFDNWNuS1ZFR19IRnEtYkJhUVFia0hyajNQN09hNmd6cmQ3YnB0RFNuTElCMHVYZmlmYkMyVUktQnFVUE5NMGlicHZJZUhQdXRvajJpVEw3ekpxX1FDdjZibk1IQTcyNTNrWDZmNFVCVW9SMkM2N3ZkUk11NllvWEFUN1VVbzhVQ01ZTFFVcTJKSHN4aTNzQWpwMWw3cnJHelZkby01eEhGRTNZVFhXYUl2MUppQUNWRmVXZnVqRGJUREJNSVBwUE81bDZZY18yUHprWFVHckJodDRBX2sxZldDWmp6bXFyc2ktTlNvSVZmMlRTaElTa3diWnhLbXBhR0I4b24yWFl2UVljag?oc=5"
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1uZUx3OVVjQi1udmxJVUI0ZTNZYXlVNkdnSDNwcTMzNk5jb09oS2ZVWFhDMlZ1MGxaV0E?oc=5"
         }
       ],
       "matched_keywords": [
@@ -971,6 +1043,215 @@
       ]
     },
     {
+      "id": "1002df08bfe4",
+      "title": "指甲不平整、直條紋現蹤，醫揭「甲下腫瘤警訊」！低估嚴重性恐成癌",
+      "published": "2026-04-08T05:00:05+00:00",
+      "summary": "指甲不平整、直條紋現蹤，醫揭「甲下腫瘤警訊」！低估嚴重性恐成癌&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84RGtlTGkyUHN3M2xvY2h5WUxsSzVicXJLb3dmZ2ZER2VTbm9wbWtVM1ZPanFpaVpUYlNRQzJUTjdGc1VVR3RhNnBpcThfUllHTzhmOFBTaHdUejZE0gFiQVVfeXFMTnB2bHI2R0VRazZ3b1JObDltc3h2U1ZPZ3RXZ1dQYVZRQUpPeVMwdkRsMTNtV3dZZFdqai1sSExTZ3pvOVNKcFozVnAwcDQ3Z1NpVTNpc0sza3EwWUpud1VwckE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "腫瘤",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "5520901575ca",
       "title": "鮮為人知的水果「迷你奇異果」，可能有助預防肺癌| 雜誌",
       "published": "2026-04-08T04:48:25+00:00",
@@ -1068,66 +1349,6 @@
       ]
     },
     {
-      "id": "19d026aa0ab7",
-      "title": "科學家揭開了 30 年來的謎團：一種隱藏的營養素可以保護大腦並抗癌",
-      "published": "2026-04-08T03:05:23+00:00",
-      "summary": "科學家揭開了 30 年來的謎團：一種隱藏的營養素可以保護大腦並抗癌&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNejBlaDQ1OG9KQmtVdWItNlJINE1xUTJpcHdlck5VU3dlcjhZQWVscnRJRXZhTWlBY19iUy0yeS01U1RRRC1sMGNTOThsOTVGUGh4NGFoS0ZCX2JqR2R6TS1YQndoOWk1ZS1FaUdwaXpOQ01EYTV0a012YUxWWlZ0OEFjNGlVdDQyZlVwLUc5S25pOGlSRXFIZDlXek1lSDcyQl80TEU4eWp3TWw0Nm80TzlCMUxDeTl2NDVwSGVTOEt5aUlDdEtCb0poVmw2UXg5c1RueDhSSkVBRW8wZzBlU1FmbTFxZkdaaGFGQjJVZ0g2UTh4YW80Tm5tMUlhVGZpdjRtMzVfNVBGQmthR2hnWVJjTXRKU3J1Q3dlcjZIZndjZk9haFltdG40cjRWc1ZnOGdVS1dGZnAwMnlSOHRrdmlaUjlMVnhUTGVEa1o2MmQ5LXRUcE5KWm1ELUlidFU?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0b9502bbddca",
-      "title": "科學家們剛剛實時觀察到阿茲海默症造成的損害發生",
-      "published": "2026-04-08T02:26:48+00:00",
-      "summary": "科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊&nbsp;&nbsp;PChome Online 新聞「養腦補腎」延緩失智 中醫師促多吃優質蛋白質&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxONzRFem1Yb08wdkdGTEVIZnJGX3FRWFBhaFJLbDYwTWljSUFzNHA0dFJZdDZWbG9IcEZlYWJ2WFpnWUlOSlBZczk3T3BmVVR4TkllMzJzb2M4bWQ4cUZOMUxuUVJudVhTeGcycW1vVzZwZTc5dFNYYWdlM0p2aUpEbU1ycm5VM2VWMEhLa3IySWJTMUE3NERsRmNoRDkxWTA2Q1ZseWxjSGktOEdaRVZ2RlYxeWFKSEtpcGhUOTc4MnJBTEZsWm1nbTN1ZjItek5YdG1SbFV2Q0lJRXdhemYzMld1UHVJU0dyeHRBZ192UUpCSmx4WnY4NXlNX1VtQ3hXS1FNakR4TmhKbllZWGZjYThMUWtvc0wtbkU2dTJZY1B4Z0JsaG1yU0QzRFBmVUtsY1VWUzlqWkRINkE2bkQ3WXlaMTZidmwyT2dkcmI3TjRoa0dzWGZwRHVKcXZPd0VFWGVPdFdn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "阿茲海默症",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "7dd2cb57768d",
       "title": "嬰幼兒紅眼症48小時恐致盲？見黃綠膿液即就醫 認清淋球菌風險",
       "published": "2026-04-08T02:02:00+00:00",
@@ -1149,68 +1370,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNcmttNmpWOE4xZDlSSjNNejNqeHlYZ21PME1YUURDczF5Vlp0d2RWT1JuMkluX1YtNjdoVHFENUpVcTRRVDZDelVuMXFJaC1DMDJZNTlfdGd1RXdwVUJNR1dwMGtiY19NZ3RLWFhMMVNXUmdvQzBEcGtIUDZsMV9lTlBzd2NPWG1DcDROQmduWmNNUTYzOGpJZDhzLU1VSVFRd0Y3U3BoQkFrQ2VCaVZMcU56Vkg3VFc0bmJwbEEyTVFjZktBTGxKUlJtb3ROVG1OUy16Tkl3RVpfSUVnMGtFVHBpQnNrdWQwX3FxVGhSRHlLa2wzckZuRzEtbnE3MW9QaVBWeDlVNzNEdFk3X0RLUUtXUnpSWm9VQWFadGFxTHRRN3M3bUdrVi1qclZLM0pnWW1CNjRKQ2pjRkpRV2VYWHNxdlgwd0pqOVJoZFdDTFM2UWNKb1lSV2dLUXgwZi0z?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "81a58796e34f",
-      "title": "低磁場MRI技術突破為全球失智症診斷與照護帶來新希望 - GeneOnline News",
-      "published": "2026-04-07T23:28:56+00:00",
-      "summary": "低磁場MRI技術突破為全球失智症診斷與照護帶來新希望&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPcF9uX0FCNDFDVmtVa0hocGt2ZHR2N2NKbzJxN3UxYVc5VlhCMW4xUHFlS3NnNm90ZERYT2w1VGZKc3NTYUR0dTlKamVsSlpiT0Mza2Ribm44Nmo1N0pQR0ExT3JfS3pIdlhIek1rdmVnR2tCSGRuU3NPRlVpc3JRcWpoalB5S3hrV3RfNW53eXlBMl9rbjBOcV8yUU1CdVF5QlRTLWlDRF9SQ3l3SEFKYmRwZHZLc3g3SnRKeWJPOW5FTE85eWpRdk9DSnU2Y29ia05FNkVFQU02TEVGb2lNVGZCeU41WVc2a2I5RXlHTmtPeWdZYzItaS0yX1dEVUlSRWNTWkdpWTZLNDd6cXl5MHp4b3J5T1Z2OV9DZkRiRUxuQklPa05uS01FOXdhcGxlRzJIWnpUMXhVS1NkdVE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0d5b6be9103a",
-      "title": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高",
-      "published": "2026-04-07T22:31:00+00:00",
-      "summary": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高&nbsp;&nbsp;大紀元洛縣斑疹傷寒病例新高 近九成需住院&nbsp;&nbsp;世界新聞網洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PMzdicm14ZlY2c2NGRjEzUTA4LTcxQ0tQUGtuU1N4Q2lxNzhweEdUMlFzZFVUcXZDV2dUSElMNEQ0eVl6NVFtSXY3NVlpR1JzUDNhN2c1ajN0T3Y0RHRj0gFkQVVfeXFMUGtieHozeWZUWWNCeUUzOHlodVVJZ1BadUtQTWVVdWtyRGxPUTU3bnY2UEVLeEZ0bE85WjhjQWFCd0tydjBZanlQaXN3Zk45NnJlMEQ0ZzJxSU9iTFFfWGo5NG42Uw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "cfacb49a8e7f",
-      "title": "透視腸道菌》腸道失衡連動病變 眼疾也劃上等號",
-      "published": "2026-04-01T01:03:21+00:00",
-      "summary": "透視腸道菌》腸道失衡連動病變 眼疾也劃上等號&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02QS1CRF9YRnpqdkxWdWk4eFZNcEJ5OHRiODVpZW1jSVhHM05yZXBfNTlQb2xpMzQzZW92OU9vSzZxOFVZYVFCa3hoampWanhnZWZMSU1oRmI4VTlIUDIyQy1NSVXSAWpBVV95cUxPRjhLc0E3eWx2bzI4dmFueWlGc1FYNzZueTE4MzJZRTJfeG1GN3I5WlZQRGJHQzdTX3djN1diXy1UNzBjUlQyd1RuZmxiMVBqbG5HOEVVM3cxeVQ5YTZwWkt6WGgxaGZyaUNn?oc=5"
         }
       ],
       "matched_keywords": []
