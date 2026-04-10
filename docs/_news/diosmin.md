@@ -14,7 +14,7 @@ permalink: /news/diosmin/
 ---
 
 <p class="key-answer" data-question="Diosmin 有什麼相關新聞？">
-<strong>Diosmin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Diosmin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,15 +33,9 @@ permalink: /news/diosmin/
 <p><a href="{{ '/drugs/diosmin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [痔瘡手術也能用「超音波」？醫解析微創新趨勢 預防復發有1關鍵](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IeVkzMVVIaGhUNEdTQlVfb1FxdE9nOVRyRzFtUXZjX1VGLUpFMC1aLS1XZVBKd2hoOTA2UjNpcmU5UjVWSjhMZng1dkhFQ1U2VHJvaG1ibzJJVjBBZFFRRA?oc=5)
-
-2026-04-10 <span class="news-indication-tag">痔瘡</span>
-
-來源：[民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IeVkzMVVIaGhUNEdTQlVfb1FxdE9nOVRyRzFtUXZjX1VGLUpFMC1aLS1XZVBKd2hoOTA2UjNpcmU5UjVWSjhMZng1dkhFQ1U2VHJvaG1ibzJJVjBBZFFRRA?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

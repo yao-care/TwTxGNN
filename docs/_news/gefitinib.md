@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [腦神經專科韓植源醫生談防治老年失智症](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVFEMFJEajR3cUh2WXhCb0VSZzdteHNzTVJQMUZJWlFCR1Q5MkpGUGFnVklrYnVSVDl3VGF6eFczLVlRN0NGWlFHSmQyT1VzXy1xOEd3bVpPdVZKcVV1cnNvRmllQnZGaUxPUVF1em5rQ2xUZlBRSndKMktseU5VemZ0RUtKbDFPdDA0?oc=5)
 
@@ -72,14 +72,6 @@ permalink: /news/gefitinib/
 2026-04-08 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxPNTVmZkZva3h1M3RQd1g4a2NRTzY5YlpwbU91NFpYQWhaeE5NNkl6MVRyT01tRUZTSXpzOTZ2bXhfeE1JSDRJVy1RQ0g2Wm55ekkxV252UDZLRlNxSXJQOC1ZNWtLc0dYeThLVUVkTzhzSmJaQmNDN1lSM3JaV0ZoWXNMYzdxYmxDUEJpcEM3OWhZY1k5OV9iMXpnMExScnVORlhtWU8wUFF5TXdDTjJ4TGkwYlkwWmxqam5HMkd5RDhxS2pQMjh2X2c0Vi1ieHhXNG1TS0RZV3l3VktpaWEwQzJ1V3ItTTRUR2tCUktQM29TLS1jRGpiY1RTLVR2S1hSbmFUb0M5bm0wV05FaFpGQks4YVh4SkhKVXhrSEozWEpWdzlDZlVseUNlVERHXzVYZEQzV2x0VkM0aXhuZnlDRlFlZWZpZw?oc=5)
-
----
-
-### [60歲乳癌鬥士抗病17年 半邊臉被癌症侵蝕：病魔想讓我認輸，我把傷口變成鎧甲](https://news.google.com/rss/articles/CBMi1ANBVV95cUxNTGRTWm43NDdPVXFmR2JVc0ZCQjJRV05vYlE2OXktZWlOazV3ZVB6UlQ3akpGTVNHdFR4WTR3aG8wZjZiOE1oQWN5dWJTOFUwNWxxQlVsMGlqSlB2bFF1V0FxaEZOeGloS2ZjTTc0YUJjVTRWdlhTcF93Ukc0SG52NXN3RjJ6M2lVYzdEc3dDcjluRl9reWd5UU9IQ0s5Z0xEanppUGE3SzEtOGdfbUNPNjRvMm1GZnlvMWJyQlZrc0VPWHpFaVFQYjVJWnRPWUdUM1l4T1VoZGlKMTJJMTBjMXIwb0NKZGJWSmJ2dUszZjlXZ01KUkRZYktVLXM2VzJ0eEREWXRZM1F6eDVqOVNwUzhkejBUMnNzbjVRa21xaWtiVTl4djd2M3dNNGNoSzlzY2dKMzVLOWlidEprMlF2VTg5WG1Yci1CLVk4SHhDVFNrWHRSdm82eFZlTmlUaFdJbDVvYlI2V0o5ejhYWm9NYThCYm5KUEU1cTVVVWw2cHJYdFh5d2FBN0FETk1CZ1BhMWRFaUpSTnczNlBGdlkxT1p2aUhlLVN3M09FRTBUZWhpa2EycmlISWg3UEVkTVNWVmlJOGtvOG9oUFp2VTFWempsRno?oc=5)
-
-2026-04-08 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[星島頭條](https://news.google.com/rss/articles/CBMi1ANBVV95cUxNTGRTWm43NDdPVXFmR2JVc0ZCQjJRV05vYlE2OXktZWlOazV3ZVB6UlQ3akpGTVNHdFR4WTR3aG8wZjZiOE1oQWN5dWJTOFUwNWxxQlVsMGlqSlB2bFF1V0FxaEZOeGloS2ZjTTc0YUJjVTRWdlhTcF93Ukc0SG52NXN3RjJ6M2lVYzdEc3dDcjluRl9reWd5UU9IQ0s5Z0xEanppUGE3SzEtOGdfbUNPNjRvMm1GZnlvMWJyQlZrc0VPWHpFaVFQYjVJWnRPWUdUM1l4T1VoZGlKMTJJMTBjMXIwb0NKZGJWSmJ2dUszZjlXZ01KUkRZYktVLXM2VzJ0eEREWXRZM1F6eDVqOVNwUzhkejBUMnNzbjVRa21xaWtiVTl4djd2M3dNNGNoSzlzY2dKMzVLOWlidEprMlF2VTg5WG1Yci1CLVk4SHhDVFNrWHRSdm82eFZlTmlUaFdJbDVvYlI2V0o5ejhYWm9NYThCYm5KUEU1cTVVVWw2cHJYdFh5d2FBN0FETk1CZ1BhMWRFaUpSTnczNlBGdlkxT1p2aUhlLVN3M09FRTBUZWhpa2EycmlISWg3UEVkTVNWVmlJOGtvOG9oUFp2VTFWempsRno?oc=5)
 
 ---
 

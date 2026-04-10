@@ -1,8 +1,33 @@
 {
-  "last_updated": "2026-04-10T06:27:27.707994+00:00",
-  "total_count": 32,
-  "matched_count": 13,
+  "last_updated": "2026-04-10T08:16:59.206174+00:00",
+  "total_count": 29,
+  "matched_count": 12,
   "news": [
+    {
+      "id": "b0a51e25c8e6",
+      "title": "他感冒康復後竟手抖走不穩？醫嘆：免疫系統殺紅眼 | 民視新聞網 - LINE TODAY",
+      "published": "2026-04-10T06:07:01+00:00",
+      "summary": "他感冒康復後竟手抖走不穩？醫嘆：免疫系統殺紅眼 | 民視新聞網&nbsp;&nbsp;LINE TODAY前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IN04tUktsOE5YbU93Zk1OOWtidzFjMGhveGdrNUNQUVh3M1hJbFVURVBhYzN6Z3FLeUtHWGd1aTVKRzNtT3JCZXJPR2FkV0xlRmR1eEh3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "af7c8a040a1f",
       "title": "多年高血壓沒在吃藥…頭暈噁心竟中風！醫警告「這種類型」最要命",
@@ -42,44 +67,6 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "391065a22204",
-      "title": "長輩不出門、變憂鬱？ 醫師提醒：白內障「看不清」恐引發認知退化等反應",
-      "published": "2026-04-10T02:15:49+00:00",
-      "summary": "長輩不出門、變憂鬱？ 醫師提醒：白內障「看不清」恐引發認知退化等反應&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kc0otYkhuYldLeGdUWHYzd2YtWi1weWI0eDctSzdzeFQ2OEktOHRSY2tJWUNpSnp0eWk2U05ScmRyWWpVUGpVZWZPaHN0SlZxTEZ3UkxlcWpkUVB1WDhEZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1eea58fec872",
-      "title": "痔瘡手術也能用「超音波」？醫解析微創新趨勢 預防復發有1關鍵",
-      "published": "2026-04-10T01:34:26+00:00",
-      "summary": "痔瘡手術也能用「超音波」？醫解析微創新趨勢 預防復發有1關鍵&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IeVkzMVVIaGhUNEdTQlVfb1FxdE9nOVRyRzFtUXZjX1VGLUpFMC1aLS1XZVBKd2hoOTA2UjNpcmU5UjVWSjhMZng1dkhFQ1U2VHJvaG1ibzJJVjBBZFFRRA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "痔瘡",
-          "keyword": "痔瘡",
-          "related_drugs": [
-            {
-              "slug": "diosmin",
-              "name": "Diosmin"
             }
           ]
         }
@@ -203,7 +190,7 @@
       "id": "11ccc3d897ba",
       "title": "不再有遺憾！英國牛津大學開發AI預測工具「心臟衰竭」發作前5年精準揪出風險",
       "published": "2026-04-09T09:35:00+00:00",
-      "summary": "不再有遺憾！英國牛津大學開發AI預測工具「心臟衰竭」發作前5年精準揪出風險&nbsp;&nbsp;ETtoday新聞雲Garmin Venu 4 值得入手嗎？從 HRV 健康監測、智能鬧鐘到80+ 種運動模式，一錶搞定你的生活大小事&nbsp;&nbsp;GQ Taiwan智慧手錶真的能「提前偵測疾病」嗎？穿戴式健康科技你該知道的事&nbsp;&nbsp;PChome Online新聞",
+      "summary": "不再有遺憾！英國牛津大學開發AI預測工具「心臟衰竭」發作前5年精準揪出風險&nbsp;&nbsp;ETtoday新聞雲Garmin Venu 4 值得入手嗎？從 HRV 健康監測、智能鬧鐘到80+ 種運動模式，一錶搞定你的生活大小事&nbsp;&nbsp;GQ Taiwan智慧手錶真的能「提前偵測疾病」嗎？穿戴式健康科技你該知道的事&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "ETtoday新聞雲",
@@ -388,19 +375,6 @@
       ]
     },
     {
-      "id": "1c80757d565d",
-      "title": "食物中毒、肺炎後》走路像酒醉、手抖不停 醫：最怕這一種併發症",
-      "published": "2026-04-09T03:01:00+00:00",
-      "summary": "食物中毒、肺炎後》走路像酒醉、手抖不停 醫：最怕這一種併發症&nbsp;&nbsp;自由健康網前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tRWRtUVFNeUZ5TUtkWkhYMDd6SFpTRk9OZ3ZheXhYaTV0TEVOcGJfdGR4ZzlVT2EwdTdIYjZXdnRpSXlFU2FSR3NLaG5MeTlMd3ZPd0lyR25DYzlDTzJGR3hlQ2bSAWpBVV95cUxNNG1EQWR5ZmJGdkRMV19XTWJhVVZfam11LUJoWVZnMlpOMERYTnBxQlBibkVZZGdIX2ZQM2NrWmlkTlNMSUpmTV9OdGdLdVp6MGUyaHJWYnRzLVZNT1VVT3E5VmVLMUVIYmFn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "7937dd910ba8",
       "title": "抗癌藥「小紅莓」現新用途 研究指有望治療抗藥性皰疹",
       "published": "2026-04-09T02:37:23+00:00",
@@ -478,7 +452,7 @@
       "id": "7a7491fd4ffb",
       "title": "高齡過度節食非好事 營養師：老人微胖較長壽",
       "published": "2026-04-08T21:30:00+00:00",
-      "summary": "高齡過度節食非好事 營養師：老人微胖較長壽&nbsp;&nbsp;自由健康網老人24≦BMI&nbsp;&nbsp;自由健康網不是只有胖子會中風！他不菸不酒、膽固醇正常卻血管硬化，營養師曝真正原因| 時報出版| 風生活&nbsp;&nbsp;風傳媒這年紀的你，微胖比較長壽！營養師揭：70歲時體重維持「這範圍」比較長壽&nbsp;&nbsp;PChome Online新聞老人微胖更長壽 營養師曝黃金BMI 瘦子死亡率飆2倍&nbsp;&nbsp;中時新聞網",
+      "summary": "高齡過度節食非好事 營養師：老人微胖較長壽&nbsp;&nbsp;自由健康網老人24≦BMI&nbsp;&nbsp;自由健康網不是只有胖子會中風！他不菸不酒、膽固醇正常卻血管硬化，營養師曝真正原因| 時報出版| 風生活&nbsp;&nbsp;風傳媒這年紀的你，微胖比較長壽！營養師揭：70歲時體重維持「這範圍」比較長壽&nbsp;&nbsp;PChome Online 新聞老人微胖更長壽 營養師曝黃金BMI 瘦子死亡率飆2倍&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "自由健康網",
@@ -525,6 +499,19 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPQU5wQ3BNNWtDVzhjZHF5cUdmNnFkamNNWW42VmwzR3NYWWVWRkk5RGJxaHNESlI5S2s5LWlKVlhiWjBnOVhoR3lzTGFlZDBpQzdLVzNhRTFKZ2NWVkJWSlE0Y1BucE94aWFzMjI4dGNwU0RWS0x5ekNiZFlzZmdoaXU0YVh2dGpvWGptWGg5VmJUQVR1cHNEZm50cUM4NHBqNW8xcndpWllBa254TWY4ckVLRnFwbm1GcGtsMWN5Q0hCTlJhMkgyM3F5WlJXZ3d3S0VldjRXakNMZFhRZnVzdXZmcmllUzhkREViWmdsU1hhakdyTzR3enZ6SVRWdEtuS2ZNMmtWTHRxZENhM2tJQ0RrbjVpWFJPamVQZXJ6N1pYNk8wNXdEcGpwNmx1SDdXcnZ0bEhJUEVTRjVXaFowTXU5Q3ZOd094OUZuci1rS2s4Rncxd19XTlVORXZudUY1UHlwU01kLUxrX3ZucExOMGJaME5PTVhxMVFqQ0VGMVFUR3VYTVE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f3b65cc77e26",
+      "title": "糖尿病患者為何更容易骨折？問題可能不只是血糖 | 科技新報 - LINE TODAY",
+      "published": "2026-04-08T11:37:01+00:00",
+      "summary": "糖尿病患者為何更容易骨折？問題可能不只是血糖 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10akp2NWIzdS1XX0E1YVM1S3RQenF5U0lnNGxXeWpIazY4bzNBWVZZWDN1dG9Kd3IxcVVYRVBsdjhERUhJVF9iYTdkNWdPN1ExTVNRNkF3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -619,263 +606,6 @@
             {
               "slug": "tolmetin",
               "name": "Tolmetin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cddda97a3576",
-      "title": "糖尿病患者為何更容易骨折？問題可能不只是血糖 - TechNews 科技新報",
-      "published": "2026-04-08T07:00:00+00:00",
-      "summary": "糖尿病患者為何更容易骨折？問題可能不只是血糖&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcVFEWFNTVFN4a2pBOTFaVlVwS3Ata29zVkx2dG5OYVYyS09sSmN3RVlwNTNoMFc0N1ZkdFJ5RDlUZjc5bzdqYzl5RTNVVkpXdHNBTEw3Ny01VFlLbmc0dHczaGZMa243eFJrM1V2LVVJTWNiMUJyTktmT0ZBa3BLb29HOFhQRS10VXpNcS1QdmlyZ1l1emNmNEkyXzVFVkJKUFBJeWVCUE5ncjV3V0pLMkwwdERCNk9IcjA4Yg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "71cf8e7da216",
-      "title": "60歲乳癌鬥士抗病17年 半邊臉被癌症侵蝕：病魔想讓我認輸，我把傷口變成鎧甲",
-      "published": "2026-04-08T06:30:42+00:00",
-      "summary": "60歲乳癌鬥士抗病17年 半邊臉被癌症侵蝕：病魔想讓我認輸，我把傷口變成鎧甲&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNTGRTWm43NDdPVXFmR2JVc0ZCQjJRV05vYlE2OXktZWlOazV3ZVB6UlQ3akpGTVNHdFR4WTR3aG8wZjZiOE1oQWN5dWJTOFUwNWxxQlVsMGlqSlB2bFF1V0FxaEZOeGloS2ZjTTc0YUJjVTRWdlhTcF93Ukc0SG52NXN3RjJ6M2lVYzdEc3dDcjluRl9reWd5UU9IQ0s5Z0xEanppUGE3SzEtOGdfbUNPNjRvMm1GZnlvMWJyQlZrc0VPWHpFaVFQYjVJWnRPWUdUM1l4T1VoZGlKMTJJMTBjMXIwb0NKZGJWSmJ2dUszZjlXZ01KUkRZYktVLXM2VzJ0eEREWXRZM1F6eDVqOVNwUzhkejBUMnNzbjVRa21xaWtiVTl4djd2M3dNNGNoSzlzY2dKMzVLOWlidEprMlF2VTg5WG1Yci1CLVk4SHhDVFNrWHRSdm82eFZlTmlUaFdJbDVvYlI2V0o5ejhYWm9NYThCYm5KUEU1cTVVVWw2cHJYdFh5d2FBN0FETk1CZ1BhMWRFaUpSTnczNlBGdlkxT1p2aUhlLVN3M09FRTBUZWhpa2EycmlISWg3UEVkTVNWVmlJOGtvOG9oUFp2VTFWempsRno?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
