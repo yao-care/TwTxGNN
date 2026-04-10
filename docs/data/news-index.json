@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-10T11:40:34.706214+00:00",
+  "generated": "2026-04-10T12:50:00.577746+00:00",
   "count": 13,
   "news": [
     {
@@ -283,13 +283,13 @@
       ]
     },
     {
-      "id": "f7b4f3f0d667",
-      "title": "小腦中風症狀像腸胃炎！翁「高血壓不控制」命危進加護",
-      "published": "2026-04-10T05:46:39+00:00",
+      "id": "af7c8a040a1f",
+      "title": "多年高血壓沒在吃藥…頭暈噁心竟中風！醫警告「這種類型」最要命",
+      "published": "2026-04-10T05:39:50+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNOFFLUkoySzFJU0ZBOGFTVTYwd0xHNWl6V2pwZHltcUg1N2FnTjhaQU52Y1ktSV9wYXhhRTFwbEFaMVlxcUhTWWhYYnU0Z09ndlJXWkJkYm1FR3RkVkl3Q2U3X0hlN1paa0hoUnhjSE1MQWRfX0pQa19OV2lBRzQ4REcyYWFQWnFOQjBmMFdDcERkbmNSd1dUWUpLVU8wOHlCQzdtdWFabDJJQmt4ZGRRRl9mMEZSaGxySzJpUF8zRTBFT3JTMWhDRmM0elpneExnZnBwejRMRnppRS1aOXRkYlZpUkREeUVjZ19BNURmUFNPSXdvVk1VMkZRcDlGUGFGdXl4V05sNmswb1NxTU1IR201eWFzdnV6cG5kMEduSGo3M3RLcHc3NDV3MG1QRUdxN1dQRnYwYWlIOEpJR3U0M0xHRDV0VXRMTUc0N2pQYXZwSm9JdjJxc3kweGhtekk?oc=5"
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jdFUwR0ZvT1llTGZteXdlcXZkN1Nld2lxY25FVW5FTDJONGpEaVZldG9kWUJxelJmeEwxZGJfWmliUDdzbnNSOWt0WGJ5b1QzTExJ?oc=5"
         }
       ],
       "keywords": [
@@ -320,40 +320,6 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腦中風",
-          "keyword": "腦中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "胃炎",
-          "keyword": "胃炎",
-          "related_drugs": [
-            {
-              "slug": "aluminum_hydroxide",
-              "name": "Aluminum hydroxide"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "propantheline",
-              "name": "Propantheline"
             }
           ]
         }
