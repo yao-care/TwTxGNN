@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-10T19:37:50.934968+00:00",
-  "total_count": 34,
+  "last_updated": "2026-04-10T20:25:52.444406+00:00",
+  "total_count": 35,
   "matched_count": 15,
   "news": [
+    {
+      "id": "93eb36e6295c",
+      "title": "在孟加拉國，醫院人滿為患，麻疹患者數量減少",
+      "published": "2026-04-10T20:08:49+00:00",
+      "summary": "在孟加拉國，醫院人滿為患，麻疹患者數量減少&nbsp;&nbsp;arch-web.com.tw前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNaWFOTkpiZm1fSHNmOWR6VGQxTFlYc1Q4bnZCNktiRWI5UTRhYWRiZzkzS1NpZ0VPNGwzVkE3V3g2ak90bjFFV2xyU2Nkbk5xQVUtWXBBWUlfak8tNlhLUjk3Z2Z0Y1FHMnVQZ0lpa0Z5V1doSnNrcGM2Uk5ZNjJNSjB2U1lCSWZsTHNhTkg0aWFvcll4RG1teW5OaXlFUy1oSFp3d3hLeElsb1ZqTThwa3lJdjhBTUlGcW43NHFHQlBpWTZVd2RxV0oyUWVscjNoYUhLQnJXWnAwTmlDbE00Tmt1bW5HMFdMcjNYTENaVDJnUkhMU0Nra1h4MXA1Z3JzZ3FwZDdwRjc3RHNLajFYdzE1TEtpV2tmeVczS0NPZms5UmZWaWhsRWlHSktVdk1hamFWLVNqM0hRVmh2SVlhU3dYOTU0QzJXdXFTUXlMeDlNdnFuTnJwOTY3LUE0OVM5SzJidEs5SVJiRXBnZ2ZpXzZfREViQXdna1E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "4f95fca9f8ee",
       "title": "徹底改變印度的心臟護理：先進支架和患者參與的作用，EHealthworld",
@@ -310,14 +323,14 @@
       "matched_keywords": []
     },
     {
-      "id": "cdb6fc934161",
-      "title": "常見營養素可以增強癌症治癒能力",
-      "published": "2026-04-10T13:56:10+00:00",
-      "summary": "常見營養素可以增強癌症治癒能力&nbsp;&nbsp;arch-web.com.tw",
+      "id": "644e6934c002",
+      "title": "常見營養素可以增強癌症治療效果",
+      "published": "2026-04-10T14:09:55+00:00",
+      "summary": "常見營養素可以增強癌症治療效果&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOV1BNTG5ZV2FEMTY5cURHODZGWDhodG9QWDhaRTJrYlp4RzZQNGV4dmltejJhbWVfOS1ubWxnZVVpci15MmxyT04yZVpudWthRFFtc21IY1Q1U093X19vcW9pc1lIaHAzT0JrQjc5am5iS2FaMWU4ZUNITHZfWjh5a1ZuTk9yMEVqb1FvaXZVVUZaQ09sZmxES1J0TDNlMEEwQWE2Z3ZvSF9JbXN0R1VtOVdNNWJHcUhINDRxYklGQmpNYU42S29FZUtyZm5lYjJhMFZnaEREUW5mTTV0TkNveG95R3pJUVR3ZGVNUF9YX3JiOEVVQy1CVXVGR2RSdlJlVDRDSk5QbHlFbVoxQVhsdDhHYU9rZ19hR1oyRmVUM25SQlotVkFrMjl0Uy1GZnd2TXc?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPNGxPQ1FzTG5BYnBndnItVWNVcTI1NkZiUVlWaVhYN2dNbk8tNGgwYkNzQnhJSU5GMWVOU1kzU2x4ZGdQZ0M2ZEdZRWpTak1CYm5FN213aGFUcnFYc3R3Q2RISjl2NXVPT1MtM09WZjRBcFBUUXFEZU52bnpjQ3Y2aVgwX05kdTgtNGdrODBlWE50dENLbWd1VXFUdGpTaUI3MzhMNWFWMGJlWW8zaXlPWVZ6NEpLQWRnWFViRzIwbGxBVWlla3pXQUVMWXJKc0xtU3RaN2Fnb1VKVXRIQXZUQ1JTV2RkckcxdkVPaGZ6ZmpCOFpubUR2czhzTEYta05uUThqUmtMNkM5TTRPbzFDVVZR?oc=5"
         }
       ],
       "matched_keywords": [
@@ -863,7 +876,7 @@
       "id": "466ef0a41466",
       "title": "健康危機：EHealthworld 稱 75% 的印度年輕人在 30 歲時面臨疾病",
       "published": "2026-04-09T16:32:02+00:00",
-      "summary": "健康危機：EHealthworld 稱 75% 的印度年輕人在 30 歲時面臨疾病&nbsp;&nbsp;citytimes.tw德里國家首都區肥胖和生活方式疾病的驚人上升：ETHealthworld 調查顯示81% 的肥胖者已接受檢查&nbsp;&nbsp;citytimes.tw隨著健康風險加劇，80% 的印度人缺乏緊急保護：Aditya Birla Sun Life Insurance 的 अ‑Nishchit 指數 2.0 – APN 新聞&nbsp;&nbsp;citytimes.tw壽命更長但病情卻更重？調查顯示世界衛生日“健康生活”存在危險信號；印度人注重“延緩衰老”&nbsp;&nbsp;citytimes.tw",
+      "summary": "健康危機：EHealthworld 稱 75% 的印度年輕人在 30 歲時面臨疾病&nbsp;&nbsp;citytimes.tw德里國家首都區肥胖和生活方式疾病的驚人上升：ETHealthworld 調查顯示81% 的肥胖者已接受檢查&nbsp;&nbsp;citytimes.twETHealthworld 的一項重大研究顯示，大多數印度人都面臨隱性健康問題的風險&nbsp;&nbsp;citytimes.tw隨著健康風險加劇，80% 的印度人缺乏緊急保護：Aditya Birla Sun Life Insurance 的 अ‑Nishchit 指數 2.0 – APN 新聞&nbsp;&nbsp;citytimes.tw壽命更長但病情卻更重？調查顯示世界衛生日“健康生活”存在危險信號；印度人注重“延緩衰老”&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
           "name": "citytimes.tw",
@@ -1236,13 +1249,13 @@
       ]
     },
     {
-      "id": "ba46c73dbde2",
+      "id": "569cbaaf00e8",
       "title": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士",
       "published": "2026-04-08T23:00:57+00:00",
-      "summary": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士&nbsp;&nbsp;巴士的報研治腦退化藥 從單靶走向綜合治療&nbsp;&nbsp;信報網站科學家稱我們治療阿茲海默症的方法是錯誤的&nbsp;&nbsp;citytimes.tw科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw",
+      "summary": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士&nbsp;&nbsp;bastillepost.com研治腦退化藥 從單靶走向綜合治療&nbsp;&nbsp;信報網站科學家稱我們治療阿茲海默症的方法是錯誤的&nbsp;&nbsp;citytimes.tw科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQUDdOTDd6VEc5NTFzSmhzRnpaaW9sbEtGQl90OG83d0tYOWZaRGx0UUJjbFFJM1dVemZlZkt6b0tBN0VCZzBpNjhKZ2cwblhTbF9EcDRLYkRfQlJ6V01UMEh4cERyandobllrekZNbUl0cXBhNkFwTjJVa0VfaTZjNVVOLXhnNHBscXVLaVR4cHNaSF9hNFJuRHNlSFc0cXFxMmxIVEZkM3hUN0ItUjJxc2hzem9BS0dVNTF3eXRSUkNldXM0T092VG1Vb3N5Nk9OY1NzcVFzdnhiTm5taXE5dHZ0OWtMcEhyNFNiS1BXTDNiclVBbkRhaHltV1ZKT3V0ZzZRQTJuMWZ1RDk1bkdINjBQVklzcmNoR1F5VnM5NVd2Nk9wRTZ1cDVyYjJUNmszUE92UUFha3FTN25JSkxydGRwY1lVbDBHUDdrR2dCbkJmTnVqRnNPb3Y3ZkFJTnU3OS1hSVBR?oc=5"
         }
       ],
