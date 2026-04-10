@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-10T18:40:24.599976+00:00",
-  "total_count": 33,
+  "last_updated": "2026-04-10T19:37:50.934968+00:00",
+  "total_count": 34,
   "matched_count": 15,
   "news": [
+    {
+      "id": "4f95fca9f8ee",
+      "title": "徹底改變印度的心臟護理：先進支架和患者參與的作用，EHealthworld",
+      "published": "2026-04-10T18:42:49+00:00",
+      "summary": "徹底改變印度的心臟護理：先進支架和患者參與的作用，EHealthworld&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNcU10R0xlV0I0X2JPU0JOdEhpYnU3Z1hsb2F2QVlycFN1cFdkaDBjN2JVeDFzSEl4RUd3S1pFTnhnb25WQUFjVl9NQk4zM3lqRDVHTTY2WkdzVkJCLVhvZTB1c2tYdTc2UUMyQVBFVDRaWHNqRWZOX1R4ZXBDR2QyclNFX1pzNkhhTmhqT1JmN0FuUnI2NjVjUW4ydkRsMGh0U0tsQVNKUGZnQkdaX2VuNGV2cFZkOXh3WlNDcGxYV2xKR3RpaEw1X1EwWEFwd1djdXhoeDlIVUctTC02ejl1azU5ZE9qVk8tODlSZ2NXQk9uYThaazN5ZVF0bW9Ldk9VU2hCbzQ0S3ZpLWR5UGNCa3pLSEwzVXl5QzV3V2V0YXZrM1FxdVJLZm0yQ2x0bDFRSFJQVmlmSDR6czVtdFo3SFZrVzFQX2FRQ2x3LVFEYzVNSG9hMTVjbVF6LWk5MURXSFJ4d2NR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "a59592b6db32",
       "title": "「糖尿病藥」竟能防癌？研究證實了 醫：5營養素抗發炎",
@@ -295,42 +308,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "bd1012f53577",
-      "title": "科學家稱我們治療阿茲海默症的方法是錯誤的",
-      "published": "2026-04-10T14:47:18+00:00",
-      "summary": "科學家稱我們治療阿茲海默症的方法是錯誤的&nbsp;&nbsp;citytimes.tw美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士&nbsp;&nbsp;巴士的報科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNZDdkVnF5X2tIUWJiLW9hOF9PMF81MHYtakg1MkplUW1Ea001VFpGd3hNblpHNmEyWE9YTllxLVVUM0VieGZiS1ZrNkliRGRuWWVLWVJRbkdVQml2cG1WQndZSU91bVZjRkEzeDRPQXI4UjRBYVRWdWpQazhlYlZmbjNOVGRmS0gyV2JRZWhNNmVqQXFyWFlxLWg5elBLQy1VTGpZN3BpLTRsVEk0SzczU2MtOXVBR0w2TjNDRW93WlBkWHNHY3RsZjVIWmFpMF9uNWM5QTRXYmRLT0g5WGdaVVdRbWZXMXYzUmg3R2pOY2dEWVpRZkFvVTUyeXUyZzlPV2FnTU1UYl9CMmpaelF3UFA2cmxINWxycjk4QUttM2Z2b1h2ODBUaWNKa0s1YnAwNk1SemNORmpjejBFVEs3aUxkQmZhaTY1MDNyZWJR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "cdb6fc934161",
@@ -1238,6 +1215,42 @@
           "type": "indication",
           "name": "dementia",
           "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ba46c73dbde2",
+      "title": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士",
+      "published": "2026-04-08T23:00:57+00:00",
+      "summary": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士&nbsp;&nbsp;巴士的報研治腦退化藥 從單靶走向綜合治療&nbsp;&nbsp;信報網站科學家稱我們治療阿茲海默症的方法是錯誤的&nbsp;&nbsp;citytimes.tw科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQUDdOTDd6VEc5NTFzSmhzRnpaaW9sbEtGQl90OG83d0tYOWZaRGx0UUJjbFFJM1dVemZlZkt6b0tBN0VCZzBpNjhKZ2cwblhTbF9EcDRLYkRfQlJ6V01UMEh4cERyandobllrekZNbUl0cXBhNkFwTjJVa0VfaTZjNVVOLXhnNHBscXVLaVR4cHNaSF9hNFJuRHNlSFc0cXFxMmxIVEZkM3hUN0ItUjJxc2hzem9BS0dVNTF3eXRSUkNldXM0T092VG1Vb3N5Nk9OY1NzcVFzdnhiTm5taXE5dHZ0OWtMcEhyNFNiS1BXTDNiclVBbkRhaHltV1ZKT3V0ZzZRQTJuMWZ1RDk1bkdINjBQVklzcmNoR1F5VnM5NVd2Nk9wRTZ1cDVyYjJUNmszUE92UUFha3FTN25JSkxydGRwY1lVbDBHUDdrR2dCbkJmTnVqRnNPb3Y3ZkFJTnU3OS1hSVBR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
           "related_drugs": [
             {
               "slug": "gefitinib",
