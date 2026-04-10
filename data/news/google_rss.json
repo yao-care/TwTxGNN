@@ -1,8 +1,44 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-10T17:41:12.257986+00:00",
-  "count": 31,
+  "fetched_at": "2026-04-10T18:40:20.100894+00:00",
+  "count": 32,
   "news": [
+    {
+      "id": "b57cc8213a44",
+      "title": "再見大腸鏡檢查？新糞便檢測可檢測出 90% 的結腸癌 - arch-web.com.tw",
+      "published": "2026-04-10T16:10:54+00:00",
+      "summary": "再見大腸鏡檢查？新糞便檢測可檢測出 90% 的結腸癌&nbsp;&nbsp;arch-web.com.tw科學家發現隱藏的腸道訊號可以早期發現癌症&nbsp;&nbsp;arch-web.com.tw結腸癌中隱藏的東西可能會改變治療方法&nbsp;&nbsp;arch-web.com.tw再見大腸鏡檢查？一項新的糞便檢測可檢測出 90% 的大腸癌病例&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNWklGVDR6QmlDSzBvanpWZVZRU0lSYk5GdGFXdGNXTmlBT2trOUt1SXRZMEZSNHRpdnVKczF4bmdUckZpRnJOczhaaUtTMU9zNjV3bE1FVHZSYmVGTVA0X1NXS29JMnhiLXJBd3lEbjRqSHpWdDJFZFozbGtfbnlQU1RMM2pBeGhpeUNyM3I0MktsQThfZ2F0dVdBdGRiUERRTUtNU3Y0UnFvOVhtUG56YWJJX2s1Y2FEZXpVOGZsN1pVQlU4cHdULUoxMzJTMHpiZ2psTVpjMVRNOWFhX0xudGZKamxzSlJqYnpaYS1PbmtSbXVJcDRHVm9zNnZDd0tOQ1pKQ0RuZ1hNdWhtV0tEcURacjVtUWVOR1JGeTU4eW5HdjV3Ym1Sb19CWS0wNVVFZ3dYMFdveEdOZjRDZU1EQXJzeDlfa0VkTC1zTHpDYXN4MFlQM2lEclBLd2JyMHpmV0wwbXBrLUplZ3dsa2xQdjZpLWRlVTlBalZxOUNNRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a59592b6db32",
+      "title": "「糖尿病藥」竟能防癌？研究證實了 醫：5營養素抗發炎 - TVBS新聞網",
+      "published": "2026-04-10T18:00:00+00:00",
+      "summary": "「糖尿病藥」竟能防癌？研究證實了 醫：5營養素抗發炎&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LUWEzeDZRMzFaVzBZTlBTbWh6OW43bC1DNUc3VGVaazBXRkRObHZPOHotZDI0RkF1WldzNk9xaDB2MndoTTkzeWJaWVpJZk1O?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9972eef5880e",
+      "title": "大腦研究揭示自閉症和過動症之間的隱藏聯繫 - arch-web.com.tw",
+      "published": "2026-04-10T17:38:50+00:00",
+      "summary": "大腦研究揭示自閉症和過動症之間的隱藏聯繫&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQc0V5M0NsOV9GOU5XOTJlWTlPNUpFS0JEMk9UR3RibHVZa2ZUaHJxb21zd1M3SGhaeGNOaFJEZUtyaEF0Qk5nQUdRSTgxbmJYRWMxQzRoZUZRWG9ReUJZb1lfRVBDRzJNZ1pjVjB6U1psODlDNTFIRE1qT2xOTE5FVFNQcjJCaHUxVXlFdi1pMDJlTmRCOEJnMmtESWxXQzRMLW5WeXFNcGNrUE9LNW9DbE9najd1SDVEUXFHTGRmQmxkVUxfcTFmNXFPSFVOMUlkZEs0aUpsY2N6VV8wYzgweUNLZmg4V19TalJUV1c2OTBjN0FCdkZnOWpYRUhib052UUU2WUpaOEE0VFpXaTY3U2ZjU2d1N1FQX2taUEpKMEE4YllPUXVKWENKbHVUT0dmV0hKTy1uTVhrTDVDN3ZSLWlHU3F0QkRQWEZZZDM1RVRkUXFsbnMzLUZ4bGU3ZVNXMWhlNk9yU2xmNmpPVnc?oc=5"
+        }
+      ]
+    },
     {
       "id": "ba2d9c6a7847",
       "title": "AI 醫療新突破，透過「語音分析」揪出早期喉癌 - TechNews 科技新報",
@@ -64,26 +100,14 @@
       ]
     },
     {
-      "id": "b57cc8213a44",
-      "title": "再見大腸鏡檢查？新糞便檢測可檢測出 90% 的結腸癌 - arch-web.com.tw",
-      "published": "2026-04-10T16:10:54+00:00",
-      "summary": "再見大腸鏡檢查？新糞便檢測可檢測出 90% 的結腸癌&nbsp;&nbsp;arch-web.com.tw科學家發現隱藏的腸道訊號可以早期發現癌症&nbsp;&nbsp;arch-web.com.tw結腸癌中隱藏的東西可能會改變治療方法&nbsp;&nbsp;arch-web.com.tw",
+      "id": "bd1012f53577",
+      "title": "科學家稱我們治療阿茲海默症的方法是錯誤的 - citytimes.tw",
+      "published": "2026-04-10T14:47:18+00:00",
+      "summary": "科學家稱我們治療阿茲海默症的方法是錯誤的&nbsp;&nbsp;citytimes.tw美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士&nbsp;&nbsp;巴士的報科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNWklGVDR6QmlDSzBvanpWZVZRU0lSYk5GdGFXdGNXTmlBT2trOUt1SXRZMEZSNHRpdnVKczF4bmdUckZpRnJOczhaaUtTMU9zNjV3bE1FVHZSYmVGTVA0X1NXS29JMnhiLXJBd3lEbjRqSHpWdDJFZFozbGtfbnlQU1RMM2pBeGhpeUNyM3I0MktsQThfZ2F0dVdBdGRiUERRTUtNU3Y0UnFvOVhtUG56YWJJX2s1Y2FEZXpVOGZsN1pVQlU4cHdULUoxMzJTMHpiZ2psTVpjMVRNOWFhX0xudGZKamxzSlJqYnpaYS1PbmtSbXVJcDRHVm9zNnZDd0tOQ1pKQ0RuZ1hNdWhtV0tEcURacjVtUWVOR1JGeTU4eW5HdjV3Ym1Sb19CWS0wNVVFZ3dYMFdveEdOZjRDZU1EQXJzeDlfa0VkTC1zTHpDYXN4MFlQM2lEclBLd2JyMHpmV0wwbXBrLUplZ3dsa2xQdjZpLWRlVTlBalZxOUNNRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ba46c73dbde2",
-      "title": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士 - 巴士的報",
-      "published": "2026-04-08T23:00:57+00:00",
-      "summary": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士&nbsp;&nbsp;巴士的報科學家稱我們治療阿茲海默症的方法是錯誤的&nbsp;&nbsp;citytimes.tw科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQUDdOTDd6VEc5NTFzSmhzRnpaaW9sbEtGQl90OG83d0tYOWZaRGx0UUJjbFFJM1dVemZlZkt6b0tBN0VCZzBpNjhKZ2cwblhTbF9EcDRLYkRfQlJ6V01UMEh4cERyandobllrekZNbUl0cXBhNkFwTjJVa0VfaTZjNVVOLXhnNHBscXVLaVR4cHNaSF9hNFJuRHNlSFc0cXFxMmxIVEZkM3hUN0ItUjJxc2hzem9BS0dVNTF3eXRSUkNldXM0T092VG1Vb3N5Nk9OY1NzcVFzdnhiTm5taXE5dHZ0OWtMcEhyNFNiS1BXTDNiclVBbkRhaHltV1ZKT3V0ZzZRQTJuMWZ1RDk1bkdINjBQVklzcmNoR1F5VnM5NVd2Nk9wRTZ1cDVyYjJUNmszUE92UUFha3FTN25JSkxydGRwY1lVbDBHUDdrR2dCbkJmTnVqRnNPb3Y3ZkFJTnU3OS1hSVBR?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNZDdkVnF5X2tIUWJiLW9hOF9PMF81MHYtakg1MkplUW1Ea001VFpGd3hNblpHNmEyWE9YTllxLVVUM0VieGZiS1ZrNkliRGRuWWVLWVJRbkdVQml2cG1WQndZSU91bVZjRkEzeDRPQXI4UjRBYVRWdWpQazhlYlZmbjNOVGRmS0gyV2JRZWhNNmVqQXFyWFlxLWg5elBLQy1VTGpZN3BpLTRsVEk0SzczU2MtOXVBR0w2TjNDRW93WlBkWHNHY3RsZjVIWmFpMF9uNWM5QTRXYmRLT0g5WGdaVVdRbWZXMXYzUmg3R2pOY2dEWVpRZkFvVTUyeXUyZzlPV2FnTU1UYl9CMmpaelF3UFA2cmxINWxycjk4QUttM2Z2b1h2ODBUaWNKa0s1YnAwNk1SemNORmpjejBFVEs3aUxkQmZhaTY1MDNyZWJR?oc=5"
         }
       ]
     },
@@ -136,18 +160,6 @@
       ]
     },
     {
-      "id": "1cd499212e09",
-      "title": "零卡代糖能減肥？醫揭殘酷真相：糖尿病風險增6成！教3招化解- 營養好食 - TVBS 健康2.0",
-      "published": "2026-04-10T08:44:04+00:00",
-      "summary": "零卡代糖能減肥？醫揭殘酷真相：糖尿病風險增6成！教3招化解- 營養好食&nbsp;&nbsp;TVBS 健康2.0前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5US3VHSG9yeUcweGZlMnpLc2xfUHFqSEE5ZV9NSWhKRzcwUFhzNUZPbXhMb0J1eUZTWk5SZDFadE1aNndwR084ODl6WUZTdk56dFJBUkdn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2a961c9e2a95",
       "title": "抗癌藥「小紅莓」現新用途 研究指有望治療抗藥性皰疹 - ENN台灣電報",
       "published": "2026-04-09T04:11:18+00:00",
@@ -156,6 +168,18 @@
         {
           "name": "ENN台灣電報",
           "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WNzZIRk8zTkhMam43NHFXMGVHMi1GXzQ0aHJiazNoQV9aT1h2V29iYXNnWnIybnhzdEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1cd499212e09",
+      "title": "零卡代糖能減肥？醫揭殘酷真相：糖尿病風險增6成！教3招化解- 營養好食 - TVBS 健康2.0",
+      "published": "2026-04-10T08:44:04+00:00",
+      "summary": "零卡代糖能減肥？醫揭殘酷真相：糖尿病風險增6成！教3招化解- 營養好食&nbsp;&nbsp;TVBS 健康2.0前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5US3VHSG9yeUcweGZlMnpLc2xfUHFqSEE5ZV9NSWhKRzcwUFhzNUZPbXhMb0J1eUZTWk5SZDFadE1aNndwR084ODl6WUZTdk56dFJBUkdn?oc=5"
         }
       ]
     },
@@ -208,14 +232,14 @@
       ]
     },
     {
-      "id": "31fd3f6ef751",
-      "title": "當其他疫苗供不應求時，這種小狗疫苗取得了成功。 - arch-web.com.tw",
-      "published": "2026-04-08T17:37:21+00:00",
-      "summary": "當其他疫苗供不應求時，這種小狗疫苗取得了成功。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "f3b65cc77e26",
+      "title": "糖尿病患者為何更容易骨折？問題可能不只是血糖 | 科技新報 - LINE TODAY",
+      "published": "2026-04-09T14:15:50+00:00",
+      "summary": "糖尿病患者為何更容易骨折？問題可能不只是血糖 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPQU5wQ3BNNWtDVzhjZHF5cUdmNnFkamNNWW42VmwzR3NYWWVWRkk5RGJxaHNESlI5S2s5LWlKVlhiWjBnOVhoR3lzTGFlZDBpQzdLVzNhRTFKZ2NWVkJWSlE0Y1BucE94aWFzMjI4dGNwU0RWS0x5ekNiZFlzZmdoaXU0YVh2dGpvWGptWGg5VmJUQVR1cHNEZm50cUM4NHBqNW8xcndpWllBa254TWY4ckVLRnFwbm1GcGtsMWN5Q0hCTlJhMkgyM3F5WlJXZ3d3S0VldjRXakNMZFhRZnVzdXZmcmllUzhkREViWmdsU1hhakdyTzR3enZ6SVRWdEtuS2ZNMmtWTHRxZENhM2tJQ0RrbjVpWFJPamVQZXJ6N1pYNk8wNXdEcGpwNmx1SDdXcnZ0bEhJUEVTRjVXaFowTXU5Q3ZOd094OUZuci1rS2s4Rncxd19XTlVORXZudUY1UHlwU01kLUxrX3ZucExOMGJaME5PTVhxMVFqQ0VGMVFUR3VYTVE?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10akp2NWIzdS1XX0E1YVM1S3RQenF5U0lnNGxXeWpIazY4bzNBWVZZWDN1dG9Kd3IxcVVYRVBsdjhERUhJVF9iYTdkNWdPN1ExTVNRNkF3?oc=5"
         }
       ]
     },
@@ -228,18 +252,6 @@
         {
           "name": "科技島",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YNUpBREdBMmpZbzNFYjI1X1NkTlZRSW9XZGljV21aZnN4b2tLRlBUYTRzb1labFVDLWZZeTN5aXJoTjJWekRoaHhhR2hvS2JEdWRBS3Z2Z2M3b214RDRn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f3b65cc77e26",
-      "title": "糖尿病患者為何更容易骨折？問題可能不只是血糖 | 科技新報 - LINE TODAY",
-      "published": "2026-04-09T14:15:50+00:00",
-      "summary": "糖尿病患者為何更容易骨折？問題可能不只是血糖 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10akp2NWIzdS1XX0E1YVM1S3RQenF5U0lnNGxXeWpIazY4bzNBWVZZWDN1dG9Kd3IxcVVYRVBsdjhERUhJVF9iYTdkNWdPN1ExTVNRNkF3?oc=5"
         }
       ]
     },

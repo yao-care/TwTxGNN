@@ -1,13 +1,39 @@
 {
-  "last_updated": "2026-04-10T17:41:16.260340+00:00",
-  "total_count": 32,
+  "last_updated": "2026-04-10T18:40:24.599976+00:00",
+  "total_count": 33,
   "matched_count": 15,
   "news": [
+    {
+      "id": "a59592b6db32",
+      "title": "「糖尿病藥」竟能防癌？研究證實了 醫：5營養素抗發炎",
+      "published": "2026-04-10T18:00:00+00:00",
+      "summary": "「糖尿病藥」竟能防癌？研究證實了 醫：5營養素抗發炎&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LUWEzeDZRMzFaVzBZTlBTbWh6OW43bC1DNUc3VGVaazBXRkRObHZPOHotZDI0RkF1WldzNk9xaDB2MndoTTkzeWJaWVpJZk1O?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9972eef5880e",
+      "title": "大腦研究揭示自閉症和過動症之間的隱藏聯繫",
+      "published": "2026-04-10T17:38:50+00:00",
+      "summary": "大腦研究揭示自閉症和過動症之間的隱藏聯繫&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQc0V5M0NsOV9GOU5XOTJlWTlPNUpFS0JEMk9UR3RibHVZa2ZUaHJxb21zd1M3SGhaeGNOaFJEZUtyaEF0Qk5nQUdRSTgxbmJYRWMxQzRoZUZRWG9ReUJZb1lfRVBDRzJNZ1pjVjB6U1psODlDNTFIRE1qT2xOTE5FVFNQcjJCaHUxVXlFdi1pMDJlTmRCOEJnMmtESWxXQzRMLW5WeXFNcGNrUE9LNW9DbE9najd1SDVEUXFHTGRmQmxkVUxfcTFmNXFPSFVOMUlkZEs0aUpsY2N6VV8wYzgweUNLZmg4V19TalJUV1c2OTBjN0FCdkZnOWpYRUhib052UUU2WUpaOEE0VFpXaTY3U2ZjU2d1N1FQX2taUEpKMEE4YllPUXVKWENKbHVUT0dmV0hKTy1uTVhrTDVDN3ZSLWlHU3F0QkRQWEZZZDM1RVRkUXFsbnMzLUZ4bGU3ZVNXMWhlNk9yU2xmNmpPVnc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "b57cc8213a44",
       "title": "再見大腸鏡檢查？新糞便檢測可檢測出 90% 的結腸癌",
       "published": "2026-04-10T16:10:54+00:00",
-      "summary": "再見大腸鏡檢查？新糞便檢測可檢測出 90% 的結腸癌&nbsp;&nbsp;arch-web.com.tw科學家發現隱藏的腸道訊號可以早期發現癌症&nbsp;&nbsp;arch-web.com.tw結腸癌中隱藏的東西可能會改變治療方法&nbsp;&nbsp;arch-web.com.tw",
+      "summary": "再見大腸鏡檢查？新糞便檢測可檢測出 90% 的結腸癌&nbsp;&nbsp;arch-web.com.tw科學家發現隱藏的腸道訊號可以早期發現癌症&nbsp;&nbsp;arch-web.com.tw結腸癌中隱藏的東西可能會改變治療方法&nbsp;&nbsp;arch-web.com.tw再見大腸鏡檢查？一項新的糞便檢測可檢測出 90% 的大腸癌病例&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
           "name": "arch-web.com.tw",
@@ -213,6 +239,17 @@
         {
           "type": "indication",
           "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "結腸癌",
           "keyword": "結腸癌",
           "related_drugs": [
             {
@@ -258,6 +295,42 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "bd1012f53577",
+      "title": "科學家稱我們治療阿茲海默症的方法是錯誤的",
+      "published": "2026-04-10T14:47:18+00:00",
+      "summary": "科學家稱我們治療阿茲海默症的方法是錯誤的&nbsp;&nbsp;citytimes.tw美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士&nbsp;&nbsp;巴士的報科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNZDdkVnF5X2tIUWJiLW9hOF9PMF81MHYtakg1MkplUW1Ea001VFpGd3hNblpHNmEyWE9YTllxLVVUM0VieGZiS1ZrNkliRGRuWWVLWVJRbkdVQml2cG1WQndZSU91bVZjRkEzeDRPQXI4UjRBYVRWdWpQazhlYlZmbjNOVGRmS0gyV2JRZWhNNmVqQXFyWFlxLWg5elBLQy1VTGpZN3BpLTRsVEk0SzczU2MtOXVBR0w2TjNDRW93WlBkWHNHY3RsZjVIWmFpMF9uNWM5QTRXYmRLT0g5WGdaVVdRbWZXMXYzUmg3R2pOY2dEWVpRZkFvVTUyeXUyZzlPV2FnTU1UYl9CMmpaelF3UFA2cmxINWxycjk4QUttM2Z2b1h2ODBUaWNKa0s1YnAwNk1SemNORmpjejBFVEs3aUxkQmZhaTY1MDNyZWJR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "cdb6fc934161",
@@ -1186,42 +1259,6 @@
       ]
     },
     {
-      "id": "ba46c73dbde2",
-      "title": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士",
-      "published": "2026-04-08T23:00:57+00:00",
-      "summary": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士&nbsp;&nbsp;巴士的報科學家稱我們治療阿茲海默症的方法是錯誤的&nbsp;&nbsp;citytimes.tw科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQUDdOTDd6VEc5NTFzSmhzRnpaaW9sbEtGQl90OG83d0tYOWZaRGx0UUJjbFFJM1dVemZlZkt6b0tBN0VCZzBpNjhKZ2cwblhTbF9EcDRLYkRfQlJ6V01UMEh4cERyandobllrekZNbUl0cXBhNkFwTjJVa0VfaTZjNVVOLXhnNHBscXVLaVR4cHNaSF9hNFJuRHNlSFc0cXFxMmxIVEZkM3hUN0ItUjJxc2hzem9BS0dVNTF3eXRSUkNldXM0T092VG1Vb3N5Nk9OY1NzcVFzdnhiTm5taXE5dHZ0OWtMcEhyNFNiS1BXTDNiclVBbkRhaHltV1ZKT3V0ZzZRQTJuMWZ1RDk1bkdINjBQVklzcmNoR1F5VnM5NVd2Nk9wRTZ1cDVyYjJUNmszUE92UUFha3FTN25JSkxydGRwY1lVbDBHUDdrR2dCbkJmTnVqRnNPb3Y3ZkFJTnU3OS1hSVBR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "7a7491fd4ffb",
       "title": "高齡過度節食非好事 營養師：老人微胖較長壽",
       "published": "2026-04-08T21:30:00+00:00",
@@ -1259,19 +1296,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUnZHR1hENlVXZ2liaUV3Y2NDTHJ2MmVFWmE3Z2E4cXlYNTRGZlQzRDR0U3JQNXJELXZ0QW42VW84MGxWRHpXRS1QMUJFMThlMmprdFFYdXZzUlVJMEJaakFuZWpRS0QxRk9LOFBycXVKUWt4NDYzSWxYVVRwZ08zYVA0U21PZjh6azRRb1lxWnJIcUt5TDBmaUhibXV0bk00XzIzeDkyczcwTkFaMExQTnFwZk94eWM2TXV4bUhoYnExY2hhdnZKOUFXTmdfbVZYeG1VUUR3Z2puTHh0RzB4bGptU0FKaWw2RnBXTnphMW5VWnJDc2EwMEhfM1VySFVIVFE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "31fd3f6ef751",
-      "title": "當其他疫苗供不應求時，這種小狗疫苗取得了成功。",
-      "published": "2026-04-08T17:37:21+00:00",
-      "summary": "當其他疫苗供不應求時，這種小狗疫苗取得了成功。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPQU5wQ3BNNWtDVzhjZHF5cUdmNnFkamNNWW42VmwzR3NYWWVWRkk5RGJxaHNESlI5S2s5LWlKVlhiWjBnOVhoR3lzTGFlZDBpQzdLVzNhRTFKZ2NWVkJWSlE0Y1BucE94aWFzMjI4dGNwU0RWS0x5ekNiZFlzZmdoaXU0YVh2dGpvWGptWGg5VmJUQVR1cHNEZm50cUM4NHBqNW8xcndpWllBa254TWY4ckVLRnFwbm1GcGtsMWN5Q0hCTlJhMkgyM3F5WlJXZ3d3S0VldjRXakNMZFhRZnVzdXZmcmllUzhkREViWmdsU1hhakdyTzR3enZ6SVRWdEtuS2ZNMmtWTHRxZENhM2tJQ0RrbjVpWFJPamVQZXJ6N1pYNk8wNXdEcGpwNmx1SDdXcnZ0bEhJUEVTRjVXaFowTXU5Q3ZOd094OUZuci1rS2s4Rncxd19XTlVORXZudUY1UHlwU01kLUxrX3ZucExOMGJaME5PTVhxMVFqQ0VGMVFUR3VYTVE?oc=5"
         }
       ],
       "matched_keywords": []
