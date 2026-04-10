@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-10T22:28:31.101145+00:00",
-  "total_count": 32,
-  "matched_count": 14,
+  "last_updated": "2026-04-10T23:27:38.931367+00:00",
+  "total_count": 31,
+  "matched_count": 13,
   "news": [
     {
       "id": "93eb36e6295c",
@@ -990,7 +990,7 @@
       "id": "11ccc3d897ba",
       "title": "不再有遺憾！英國牛津大學開發AI預測工具「心臟衰竭」發作前5年精準揪出風險",
       "published": "2026-04-09T09:35:00+00:00",
-      "summary": "不再有遺憾！英國牛津大學開發AI預測工具「心臟衰竭」發作前5年精準揪出風險&nbsp;&nbsp;ETtoday新聞雲Garmin Venu 4 值得入手嗎？從 HRV 健康監測、智能鬧鐘到80+ 種運動模式，一錶搞定你的生活大小事&nbsp;&nbsp;GQ Taiwan牛津大學人工智慧利用常規CT掃描，在72,000名患者中以86%的準確率檢測出早期心臟衰竭風險。&nbsp;&nbsp;MEXC Exchange",
+      "summary": "不再有遺憾！英國牛津大學開發AI預測工具「心臟衰竭」發作前5年精準揪出風險&nbsp;&nbsp;ETtoday新聞雲Garmin Venu 4 值得入手嗎？從 HRV 健康監測、智能鬧鐘到80+ 種運動模式，一錶搞定你的生活大小事&nbsp;&nbsp;GQ Taiwan牛津大學人工智慧利用常規CT掃描，在72,000名患者中以86%的準確率檢測出早期心臟衰竭風險。&nbsp;&nbsp;MEXC Exchange智慧手錶真的能「提前偵測疾病」嗎？穿戴式健康科技你該知道的事&nbsp;&nbsp;台視新聞網",
       "sources": [
         {
           "name": "ETtoday新聞雲",
@@ -1175,31 +1175,6 @@
       ]
     },
     {
-      "id": "33596c65c204",
-      "title": "上海國有資本直投 全球首款癲癇細胞藥物獲中美雙批",
-      "published": "2026-04-09T01:42:00+00:00",
-      "summary": "上海國有資本直投 全球首款癲癇細胞藥物獲中美雙批&nbsp;&nbsp;人民网-上海频道陸「藥物難治性癲癇」治療研究突破 新藥獲中美雙臨床試驗批准&nbsp;&nbsp;ETtoday新聞雲",
-      "sources": [
-        {
-          "name": "人民网-上海频道",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91dG02V1JfYm5KOXZJVXlXMFRrSzNlSXhVbmlEU3BQNHprb0N3ekFXSktYRGc5enM4aWlNWEdVZEdmVFA3UGh3UVkyQkdzcFRmU25RamdOOG5WVk5ubEYtNDZTNlBoVVB4TUFLbzREYmQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "癲癇",
-          "keyword": "癲癇",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "0b0f0e206847",
       "title": "吸菸可能透過外泌體干擾腦部鐵質平衡增加失智症風險 - GeneOnline News",
       "published": "2026-04-08T23:05:22+00:00",
@@ -1236,13 +1211,13 @@
       ]
     },
     {
-      "id": "ba46c73dbde2",
+      "id": "569cbaaf00e8",
       "title": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士",
       "published": "2026-04-08T23:00:57+00:00",
-      "summary": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士&nbsp;&nbsp;巴士的報研治腦退化藥 從單靶走向綜合治療&nbsp;&nbsp;信報網站科學家稱我們治療阿茲海默症的方法是錯誤的&nbsp;&nbsp;citytimes.tw科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw",
+      "summary": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士&nbsp;&nbsp;bastillepost.com研治腦退化藥 從單靶走向綜合治療&nbsp;&nbsp;信報網站科學家稱我們治療阿茲海默症的方法是錯誤的&nbsp;&nbsp;citytimes.tw科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQUDdOTDd6VEc5NTFzSmhzRnpaaW9sbEtGQl90OG83d0tYOWZaRGx0UUJjbFFJM1dVemZlZkt6b0tBN0VCZzBpNjhKZ2cwblhTbF9EcDRLYkRfQlJ6V01UMEh4cERyandobllrekZNbUl0cXBhNkFwTjJVa0VfaTZjNVVOLXhnNHBscXVLaVR4cHNaSF9hNFJuRHNlSFc0cXFxMmxIVEZkM3hUN0ItUjJxc2hzem9BS0dVNTF3eXRSUkNldXM0T092VG1Vb3N5Nk9OY1NzcVFzdnhiTm5taXE5dHZ0OWtMcEhyNFNiS1BXTDNiclVBbkRhaHltV1ZKT3V0ZzZRQTJuMWZ1RDk1bkdINjBQVklzcmNoR1F5VnM5NVd2Nk9wRTZ1cDVyYjJUNmszUE92UUFha3FTN25JSkxydGRwY1lVbDBHUDdrR2dCbkJmTnVqRnNPb3Y3ZkFJTnU3OS1hSVBR?oc=5"
         }
       ],

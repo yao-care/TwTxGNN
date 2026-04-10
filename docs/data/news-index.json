@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-10T22:28:31.130036+00:00",
-  "count": 14,
+  "generated": "2026-04-10T23:27:38.961280+00:00",
+  "count": 13,
   "news": [
     {
       "id": "b57cc8213a44",
@@ -942,30 +942,6 @@
       ]
     },
     {
-      "id": "33596c65c204",
-      "title": "上海國有資本直投 全球首款癲癇細胞藥物獲中美雙批",
-      "published": "2026-04-09T01:42:00+00:00",
-      "sources": [
-        {
-          "name": "人民网-上海频道",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91dG02V1JfYm5KOXZJVXlXMFRrSzNlSXhVbmlEU3BQNHprb0N3ekFXSktYRGc5enM4aWlNWEdVZEdmVFA3UGh3UVkyQkdzcFRmU25RamdOOG5WVk5ubEYtNDZTNlBoVVB4TUFLbzREYmQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "癲癇",
-          "keyword": "癲癇",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "0b0f0e206847",
       "title": "吸菸可能透過外泌體干擾腦部鐵質平衡增加失智症風險 - GeneOnline News",
       "published": "2026-04-08T23:05:22+00:00",
@@ -1001,12 +977,12 @@
       ]
     },
     {
-      "id": "ba46c73dbde2",
+      "id": "569cbaaf00e8",
       "title": "美研究發現失智預警新指標 抽血或有望提早25 年識別高風險人士",
       "published": "2026-04-08T23:00:57+00:00",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQUDdOTDd6VEc5NTFzSmhzRnpaaW9sbEtGQl90OG83d0tYOWZaRGx0UUJjbFFJM1dVemZlZkt6b0tBN0VCZzBpNjhKZ2cwblhTbF9EcDRLYkRfQlJ6V01UMEh4cERyandobllrekZNbUl0cXBhNkFwTjJVa0VfaTZjNVVOLXhnNHBscXVLaVR4cHNaSF9hNFJuRHNlSFc0cXFxMmxIVEZkM3hUN0ItUjJxc2hzem9BS0dVNTF3eXRSUkNldXM0T092VG1Vb3N5Nk9OY1NzcVFzdnhiTm5taXE5dHZ0OWtMcEhyNFNiS1BXTDNiclVBbkRhaHltV1ZKT3V0ZzZRQTJuMWZ1RDk1bkdINjBQVklzcmNoR1F5VnM5NVd2Nk9wRTZ1cDVyYjJUNmszUE92UUFha3FTN25JSkxydGRwY1lVbDBHUDdrR2dCbkJmTnVqRnNPb3Y3ZkFJTnU3OS1hSVBR?oc=5"
         }
       ],
