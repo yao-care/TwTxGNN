@@ -14,7 +14,7 @@ permalink: /news/propantheline/
 ---
 
 <p class="key-answer" data-question="Propantheline 有什麼相關新聞？">
-<strong>Propantheline</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Propantheline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,9 +34,15 @@ permalink: /news/propantheline/
 <p><a href="{{ '/drugs/propantheline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [小腦中風症狀像腸胃炎！翁「高血壓不控制」命危進加護](https://news.google.com/rss/articles/CBMi3wJBVV95cUxNOFFLUkoySzFJU0ZBOGFTVTYwd0xHNWl6V2pwZHltcUg1N2FnTjhaQU52Y1ktSV9wYXhhRTFwbEFaMVlxcUhTWWhYYnU0Z09ndlJXWkJkYm1FR3RkVkl3Q2U3X0hlN1paa0hoUnhjSE1MQWRfX0pQa19OV2lBRzQ4REcyYWFQWnFOQjBmMFdDcERkbmNSd1dUWUpLVU8wOHlCQzdtdWFabDJJQmt4ZGRRRl9mMEZSaGxySzJpUF8zRTBFT3JTMWhDRmM0elpneExnZnBwejRMRnppRS1aOXRkYlZpUkREeUVjZ19BNURmUFNPSXdvVk1VMkZRcDlGUGFGdXl4V05sNmswb1NxTU1IR201eWFzdnV6cG5kMEduSGo3M3RLcHc3NDV3MG1QRUdxN1dQRnYwYWlIOEpJR3U0M0xHRDV0VXRMTUc0N2pQYXZwSm9JdjJxc3kweGhtekk?oc=5)
+
+2026-04-10 <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">腦中風</span> <span class="news-indication-tag">胃炎</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi3wJBVV95cUxNOFFLUkoySzFJU0ZBOGFTVTYwd0xHNWl6V2pwZHltcUg1N2FnTjhaQU52Y1ktSV9wYXhhRTFwbEFaMVlxcUhTWWhYYnU0Z09ndlJXWkJkYm1FR3RkVkl3Q2U3X0hlN1paa0hoUnhjSE1MQWRfX0pQa19OV2lBRzQ4REcyYWFQWnFOQjBmMFdDcERkbmNSd1dUWUpLVU8wOHlCQzdtdWFabDJJQmt4ZGRRRl9mMEZSaGxySzJpUF8zRTBFT3JTMWhDRmM0elpneExnZnBwejRMRnppRS1aOXRkYlZpUkREeUVjZ19BNURmUFNPSXdvVk1VMkZRcDlGUGFGdXl4V05sNmswb1NxTU1IR201eWFzdnV6cG5kMEduSGo3M3RLcHc3NDV3MG1QRUdxN1dQRnYwYWlIOEpJR3U0M0xHRDV0VXRMTUc0N2pQYXZwSm9JdjJxc3kweGhtekk?oc=5)
+
+---
 
 
 <div class="disclaimer">

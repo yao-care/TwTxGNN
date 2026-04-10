@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [科學家用「豬精液」研發抗癌眼藥水 實驗證實可縮細腫瘤 有望治療兒童眼癌保視力](https://news.google.com/rss/articles/CBMi9ANBVV95cUxOZWxUTFVCTjNfc1ZTeVctTmNSbGNFOW1hNlhvWHNOMTBlbC1CLUx0SUxyUnhucGpDTUZHVUJ4eHZTNUNsRkhCM0hhOF85SVVlR0dDQ3RaZTROelUtV0MtUWVOS19vakhSUFpNeE1ndk5LYzhmRnRibzJDQTBORWxGZDNUZTM0U2FYdXo1VXNzbWFEUGU5ZWdjRm5xQTFmZTdaeWJPTVRfajc4YThzMVZsRWg5VFZOT0M2eF9RR2RoeXVHdUFyNjA5YWNra0RTUzFZTVZ4eE1OQTA0cFFZQ2lkcnJaT1lmUFZBb2tvdjlMR3MwZXBoVWpPR3FrR1ZsbEwwRmZDSkF4QTBtSFM1MmIxVmNybHgzZzUtLS1Oa3dqT2NQV3pJV1p3WjU4QWREdlZGQUF1V21BSWNFbmwyMnBMRHRCNDZITUwzdmxOd0hNQXlRdm5vd1MwdzBRVG1xVnBuR09tWUxnRWI5ejlnNVJPYnNFQlYzbzQzMFdkZlBsZFdSOW9xSzl2Ul9jNzJSZnd5SVQ0bnplejNFUE5mOUJFMUpjMWZuVFN5M3czSHNtT1RhQ1doTXJxSHZuMFNES3lKTjNWMGdFQUw5MjVMbnBsUnMwNmdZYTdZWkRpME01MG5oTVVBaV9rN3J1XzZkVkt6aC04Zg?oc=5)
+
+2026-04-10 <span class="news-indication-tag">腫瘤</span>
+
+來源：[星島頭條](https://news.google.com/rss/articles/CBMi9ANBVV95cUxOZWxUTFVCTjNfc1ZTeVctTmNSbGNFOW1hNlhvWHNOMTBlbC1CLUx0SUxyUnhucGpDTUZHVUJ4eHZTNUNsRkhCM0hhOF85SVVlR0dDQ3RaZTROelUtV0MtUWVOS19vakhSUFpNeE1ndk5LYzhmRnRibzJDQTBORWxGZDNUZTM0U2FYdXo1VXNzbWFEUGU5ZWdjRm5xQTFmZTdaeWJPTVRfajc4YThzMVZsRWg5VFZOT0M2eF9RR2RoeXVHdUFyNjA5YWNra0RTUzFZTVZ4eE1OQTA0cFFZQ2lkcnJaT1lmUFZBb2tvdjlMR3MwZXBoVWpPR3FrR1ZsbEwwRmZDSkF4QTBtSFM1MmIxVmNybHgzZzUtLS1Oa3dqT2NQV3pJV1p3WjU4QWREdlZGQUF1V21BSWNFbmwyMnBMRHRCNDZITUwzdmxOd0hNQXlRdm5vd1MwdzBRVG1xVnBuR09tWUxnRWI5ejlnNVJPYnNFQlYzbzQzMFdkZlBsZFdSOW9xSzl2Ul9jNzJSZnd5SVQ0bnplejNFUE5mOUJFMUpjMWZuVFN5M3czSHNtT1RhQ1doTXJxSHZuMFNES3lKTjNWMGdFQUw5MjVMbnBsUnMwNmdZYTdZWkRpME01MG5oTVVBaV9rN3J1XzZkVkt6aC04Zg?oc=5)
+
+---
 
 ### [腦神經專科韓植源醫生談防治老年失智症](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVFEMFJEajR3cUh2WXhCb0VSZzdteHNzTVJQMUZJWlFCR1Q5MkpGUGFnVklrYnVSVDl3VGF6eFczLVlRN0NGWlFHSmQyT1VzXy1xOEd3bVpPdVZKcVV1cnNvRmllQnZGaUxPUVF1em5rQ2xUZlBRSndKMktseU5VemZ0RUtKbDFPdDA0?oc=5)
 
