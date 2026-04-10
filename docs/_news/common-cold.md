@@ -31,11 +31,11 @@ permalink: /news/common-cold/
 
 ## 相關新聞（1 則）
 
-### [他感冒康復後竟手抖走不穩？醫嘆：免疫系統殺紅眼 | 民視新聞網 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IN04tUktsOE5YbU93Zk1OOWtidzFjMGhveGdrNUNQUVh3M1hJbFVURVBhYzN6Z3FLeUtHWGd1aTVKRzNtT3JCZXJPR2FkV0xlRmR1eEh3?oc=5)
+### [感冒剛好人卻癱了…他手狂抖導尿2公升！醫嘆：免疫系統殺紅眼](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2dE1kc3J2MjlpUUFFYWUzTGtXUkJObFpFZElVeTEzRUxYbW1SNVZLenlGMTQtZjNoejQ0dVBaOGI2cUNaQjMxWmRBZnRBbzZm0gFsQVVfeXFMUDFTYkxPcVNObW1hLUVZSDlQdVdPa2x5RFJBRUMwTjR6dHNXZFdMZU9fMTFsRmZZT0tUUGpJbzMxOWhQU1NpUXNPQ29YZllQdl9LMmtLRjBoamdMVGU1Z2dGSU9zdjUxZFc0X3ZW?oc=5)
 
-2026-04-10
+2026-04-09
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IN04tUktsOE5YbU93Zk1OOWtidzFjMGhveGdrNUNQUVh3M1hJbFVURVBhYzN6Z3FLeUtHWGd1aTVKRzNtT3JCZXJPR2FkV0xlRmR1eEh3?oc=5)
+來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2dE1kc3J2MjlpUUFFYWUzTGtXUkJObFpFZElVeTEzRUxYbW1SNVZLenlGMTQtZjNoejQ0dVBaOGI2cUNaQjMxWmRBZnRBbzZm0gFsQVVfeXFMUDFTYkxPcVNObW1hLUVZSDlQdVdPa2x5RFJBRUMwTjR6dHNXZFdMZU9fMTFsRmZZT0tUUGpJbzMxOWhQU1NpUXNPQ29YZllQdl9LMmtLRjBoamdMVGU1Z2dGSU9zdjUxZFc0X3ZW?oc=5)
 
 ---
 

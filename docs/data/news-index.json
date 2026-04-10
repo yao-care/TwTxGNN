@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-10T12:50:00.577746+00:00",
+  "generated": "2026-04-10T14:12:34.835646+00:00",
   "count": 13,
   "news": [
     {
@@ -259,30 +259,6 @@
       ]
     },
     {
-      "id": "b0a51e25c8e6",
-      "title": "他感冒康復後竟手抖走不穩？醫嘆：免疫系統殺紅眼 | 民視新聞網 - LINE TODAY",
-      "published": "2026-04-10T06:52:31+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IN04tUktsOE5YbU93Zk1OOWtidzFjMGhveGdrNUNQUVh3M1hJbFVURVBhYzN6Z3FLeUtHWGd1aTVKRzNtT3JCZXJPR2FkV0xlRmR1eEh3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "af7c8a040a1f",
       "title": "多年高血壓沒在吃藥…頭暈噁心竟中風！醫警告「這種類型」最要命",
       "published": "2026-04-10T05:39:50+00:00",
@@ -320,6 +296,30 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ae5f52962fd5",
+      "title": "感冒剛好人卻癱了…他手狂抖導尿2公升！醫嘆：免疫系統殺紅眼",
+      "published": "2026-04-09T12:31:00+00:00",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2dE1kc3J2MjlpUUFFYWUzTGtXUkJObFpFZElVeTEzRUxYbW1SNVZLenlGMTQtZjNoejQ0dVBaOGI2cUNaQjMxWmRBZnRBbzZm0gFsQVVfeXFMUDFTYkxPcVNObW1hLUVZSDlQdVdPa2x5RFJBRUMwTjR6dHNXZFdMZU9fMTFsRmZZT0tUUGpJbzMxOWhQU1NpUXNPQ29YZllQdl9LMmtLRjBoamdMVGU1Z2dGSU9zdjUxZFc0X3ZW?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }
