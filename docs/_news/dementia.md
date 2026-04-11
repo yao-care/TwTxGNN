@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [陪父抗失智深知困境！眼科醫砸百萬讓母打新藥 曝半年效果](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rZmotWldwSDdzd0ZMVE11akJ2S1p5TDUySFR0YXBtUmd0SW9Wek14NmZra2JlU2ZoY1NqQ2NrWTV5Snl1ODFoZFRBZFZ4Um05?oc=5)
+
+2026-04-11
+
+來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rZmotWldwSDdzd0ZMVE11akJ2S1p5TDUySFR0YXBtUmd0SW9Wek14NmZra2JlU2ZoY1NqQ2NrWTV5Snl1ODFoZFRBZFZ4Um05?oc=5)
+
+---
 
 ### [全球6成人缺乏這種維生素中年就開始影響恐牽動失智風險- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTE1ldmRseUY1Q2c5VjRYVWNESVdqbGV4WXhncVp6aEpQOHFraEJvZnVZTkZpSXRmNWR1UlBZZFlwRTZSTGh4RnVidlM3ejBvNjdNODNlZVNnY1M4dWY0cDJNNzE2eU9PRkowLXJESDZn?oc=5)
 

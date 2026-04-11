@@ -14,7 +14,7 @@ permalink: /news/berberine/
 ---
 
 <p class="key-answer" data-question="Berberine 有什麼相關新聞？">
-<strong>Berberine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Berberine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,13 @@ permalink: /news/berberine/
 <p><a href="{{ '/drugs/berberine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
 ### [結婚降低罹癌率？　美研究：未婚者「罹癌風險最高增83%」](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvVEptRTZCQ3hCdjBSQVVvbHh4M0Y0ZHNZTlREbmNaenJiRlhWMTRLUGVUVUN1Rm9kcVhNNF9ScGE2amd1TzVNTUVQcmpfaWN5dmdtSUtHdEJ0MXo1WGfSAWhBVV95cUxNYWlVc2tJRHNwZjBJZlR5WTd3bFFIbVR1eFUydE5yOTNybnJFSnRnVGg0YW1uUDBmUWRIOFlKVEJPSGJXVGNvQU42SWlqWVNZRmJTTXpseEJfOTU1SjVnN1JZLUxyc2RpaA?oc=5)
 
 2026-04-11 <span class="news-indication-tag">癌症</span>
 
 來源：[ETtoday新聞雲](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvVEptRTZCQ3hCdjBSQVVvbHh4M0Y0ZHNZTlREbmNaenJiRlhWMTRLUGVUVUN1Rm9kcVhNNF9ScGE2amd1TzVNTUVQcmpfaWN5dmdtSUtHdEJ0MXo1WGfSAWhBVV95cUxNYWlVc2tJRHNwZjBJZlR5WTd3bFFIbVR1eFUydE5yOTNybnJFSnRnVGg0YW1uUDBmUWRIOFlKVEJPSGJXVGNvQU42SWlqWVNZRmJTTXpseEJfOTU1SjVnN1JZLUxyc2RpaA?oc=5)
-
----
-
-### [再見大腸鏡檢查？新糞便檢測可檢測出 90% 的結腸癌](https://news.google.com/rss/articles/CBMi_wJBVV95cUxNWklGVDR6QmlDSzBvanpWZVZRU0lSYk5GdGFXdGNXTmlBT2trOUt1SXRZMEZSNHRpdnVKczF4bmdUckZpRnJOczhaaUtTMU9zNjV3bE1FVHZSYmVGTVA0X1NXS29JMnhiLXJBd3lEbjRqSHpWdDJFZFozbGtfbnlQU1RMM2pBeGhpeUNyM3I0MktsQThfZ2F0dVdBdGRiUERRTUtNU3Y0UnFvOVhtUG56YWJJX2s1Y2FEZXpVOGZsN1pVQlU4cHdULUoxMzJTMHpiZ2psTVpjMVRNOWFhX0xudGZKamxzSlJqYnpaYS1PbmtSbXVJcDRHVm9zNnZDd0tOQ1pKQ0RuZ1hNdWhtV0tEcURacjVtUWVOR1JGeTU4eW5HdjV3Ym1Sb19CWS0wNVVFZ3dYMFdveEdOZjRDZU1EQXJzeDlfa0VkTC1zTHpDYXN4MFlQM2lEclBLd2JyMHpmV0wwbXBrLUplZ3dsa2xQdjZpLWRlVTlBalZxOUNNRQ?oc=5)
-
-2026-04-10 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">結腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi_wJBVV95cUxNWklGVDR6QmlDSzBvanpWZVZRU0lSYk5GdGFXdGNXTmlBT2trOUt1SXRZMEZSNHRpdnVKczF4bmdUckZpRnJOczhaaUtTMU9zNjV3bE1FVHZSYmVGTVA0X1NXS29JMnhiLXJBd3lEbjRqSHpWdDJFZFozbGtfbnlQU1RMM2pBeGhpeUNyM3I0MktsQThfZ2F0dVdBdGRiUERRTUtNU3Y0UnFvOVhtUG56YWJJX2s1Y2FEZXpVOGZsN1pVQlU4cHdULUoxMzJTMHpiZ2psTVpjMVRNOWFhX0xudGZKamxzSlJqYnpaYS1PbmtSbXVJcDRHVm9zNnZDd0tOQ1pKQ0RuZ1hNdWhtV0tEcURacjVtUWVOR1JGeTU4eW5HdjV3Ym1Sb19CWS0wNVVFZ3dYMFdveEdOZjRDZU1EQXJzeDlfa0VkTC1zTHpDYXN4MFlQM2lEclBLd2JyMHpmV0wwbXBrLUplZ3dsa2xQdjZpLWRlVTlBalZxOUNNRQ?oc=5)
-
----
-
-### [常見營養素可以增強癌症治療效果](https://news.google.com/rss/articles/CBMikgJBVV95cUxPNGxPQ1FzTG5BYnBndnItVWNVcTI1NkZiUVlWaVhYN2dNbk8tNGgwYkNzQnhJSU5GMWVOU1kzU2x4ZGdQZ0M2ZEdZRWpTak1CYm5FN213aGFUcnFYc3R3Q2RISjl2NXVPT1MtM09WZjRBcFBUUXFEZU52bnpjQ3Y2aVgwX05kdTgtNGdrODBlWE50dENLbWd1VXFUdGpTaUI3MzhMNWFWMGJlWW8zaXlPWVZ6NEpLQWRnWFViRzIwbGxBVWlla3pXQUVMWXJKc0xtU3RaN2Fnb1VKVXRIQXZUQ1JTV2RkckcxdkVPaGZ6ZmpCOFpubUR2czhzTEYta05uUThqUmtMNkM5TTRPbzFDVVZR?oc=5)
-
-2026-04-10 <span class="news-indication-tag">癌症</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMikgJBVV95cUxPNGxPQ1FzTG5BYnBndnItVWNVcTI1NkZiUVlWaVhYN2dNbk8tNGgwYkNzQnhJSU5GMWVOU1kzU2x4ZGdQZ0M2ZEdZRWpTak1CYm5FN213aGFUcnFYc3R3Q2RISjl2NXVPT1MtM09WZjRBcFBUUXFEZU52bnpjQ3Y2aVgwX05kdTgtNGdrODBlWE50dENLbWd1VXFUdGpTaUI3MzhMNWFWMGJlWW8zaXlPWVZ6NEpLQWRnWFViRzIwbGxBVWlla3pXQUVMWXJKc0xtU3RaN2Fnb1VKVXRIQXZUQ1JTV2RkckcxdkVPaGZ6ZmpCOFpubUR2czhzTEYta05uUThqUmtMNkM5TTRPbzFDVVZR?oc=5)
 
 ---
 
