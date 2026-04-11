@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-11T09:32:37.978230+00:00",
-  "total_count": 23,
-  "matched_count": 9,
+  "last_updated": "2026-04-11T10:25:11.826298+00:00",
+  "total_count": 22,
+  "matched_count": 8,
   "news": [
+    {
+      "id": "7e0e4a4c1631",
+      "title": "拒嫁愛滋親戚被報復 印女遭男方強行注射「感染血液」",
+      "published": "2026-04-11T09:53:00+00:00",
+      "summary": "拒嫁愛滋親戚被報復 印女遭男方強行注射「感染血液」&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CV210VXpUV3ZJa1gxandfbUVySE5VeGJlcXdqRUVNajJkM2lyUkQ2MlM4NGFOc1BDQVZjdW1ORjd5UG9IeFA4SmY4Ry0tRDA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "6c36b44ffe2b",
       "title": "全球6成人缺乏這種維生素中年就開始影響恐牽動失智風險- 健康",
@@ -1210,44 +1223,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ff6e9bd627f3",
-      "title": "山東4歲童腳痛揭患「兒童癌王」陌生人捐款寄語「一生生生生」、籲家人不要放棄",
-      "published": "2026-04-09T09:49:18+00:00",
-      "summary": "山東4歲童腳痛揭患「兒童癌王」陌生人捐款寄語「一生生生生」、籲家人不要放棄&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQLUNJYjg2a0RSTXpaejRfYjBDUlZMWlV4NG5tUlEwZ3JNWjJ6OHpTaWgtWVNtbGNQRFRNVndTMHU4MDQ4UGxyRzR5T3BkVzFzb1ZZZWROdHBNclpKUVRpZTFjLVhFcnNuMko5ZFQ5dC1zY1p1RVA3WU5jVmI1ODJ4R1JYb1R0aGFmRF9LSm9pTVRydHBWSUFWdUNJLVVFZFBKeHYtYkNWMVZDd2NmY3ZvZ1daX1N0SzV0LXhPSndxaFpTakg3RlZXU1dxUWdabkg1T1FVTzk4LXVHM3kzS2dkeWdJTVZsY2ZCZUo3N1E5dE8wdWhZLV9fWk1Kb1Y5U3p1VWdCLW9mTXR5UldvQVRqR0NjdnNHdDhLOERjckxmUV9sU3VZUUxFN2lwUUJTQVVZR05ibF8tOHBDa3JKU1ExZ2c4cFNZWjZVeTRnQ09mVkV6aXVNa0hOSkM3TUhVOVQxZG5PcVphOF9NaWJ0bF9aSEZHRzM2ODhweGl2UmFwd3JkWmhyNDhVRF85RWszai1LSVp3RkhQdUFaeUdwNEUyTjdtRnFBbm40ZzhEblZ3eE1rSFBXdG92aU5zc0NzeGR4ajYwSDNBdVdEUW5jUVhn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "11ccc3d897ba",
-      "title": "不再有遺憾！英國牛津大學開發AI預測工具「心臟衰竭」發作前5年精準揪出風險",
-      "published": "2026-04-09T09:35:00+00:00",
-      "summary": "不再有遺憾！英國牛津大學開發AI預測工具「心臟衰竭」發作前5年精準揪出風險&nbsp;&nbsp;ETtoday新聞雲Garmin Venu 4 值得入手嗎？從 HRV 健康監測、智能鬧鐘到80+ 種運動模式，一錶搞定你的生活大小事&nbsp;&nbsp;GQ Taiwan牛津大學人工智慧利用常規CT掃描，在72,000名患者中以86%的準確率檢測出早期心臟衰竭風險。&nbsp;&nbsp;MEXC Exchange",
-      "sources": [
-        {
-          "name": "ETtoday新聞雲",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fNzFGN0JGZGFtMF8tbjhnU1V3Y0xOb0JKS2Uzc1FwVk9HTkRfRFVDYVlRQlRYcmRBM0o1bHgtcktrX2xBdXZMR0o2MNIBZ0FVX3lxTE51WWRKM0ZJTjZ2ZWhwbGVRRDVtbHZSZVNlS2tkcFN0QXVkYTJkYjFxQ3NuVlA4OUNhZlVRVXRiUy1KbDFWNjlOLVhCLXFqOTN5X0RYOEtyRk5Ia3QzRmFKcmdWQ290ajg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "心臟衰竭",
-          "keyword": "心臟衰竭",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
             }
           ]
         }
