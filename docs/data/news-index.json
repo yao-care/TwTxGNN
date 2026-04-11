@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-11T07:44:19.477218+00:00",
-  "count": 9,
+  "generated": "2026-04-11T08:33:31.062386+00:00",
+  "count": 8,
   "news": [
     {
       "id": "6c36b44ffe2b",
@@ -874,30 +874,6 @@
             {
               "slug": "ouabain",
               "name": "Ouabain"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b950080c6f4f",
-      "title": "研究：中年改吃健康植物飲食 有助降低失智風險 - Taiwan News",
-      "published": "2026-04-09T07:57:00+00:00",
-      "sources": [
-        {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MVFpVOUVyaUdXWWxnYlJYVTRDSWcxTnFBaE02REFWYUtDSlJUd2xpM3hja1Zmb0NlcFp0cmRZR2k4Um1vUTBOWUZWWWt4UFRxYnUxNVMxbUU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

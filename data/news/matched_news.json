@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-11T07:44:19.455514+00:00",
-  "total_count": 26,
-  "matched_count": 9,
+  "last_updated": "2026-04-11T08:33:31.028301+00:00",
+  "total_count": 23,
+  "matched_count": 8,
   "news": [
     {
       "id": "6c36b44ffe2b",
@@ -31,7 +31,7 @@
     {
       "id": "964e2357e119",
       "title": "血液蛋白可預測帕金森氏症？研究揭提前7年風險 專家：仍須謹慎解讀 | 信傳媒 - LINE TODAY",
-      "published": "2026-04-11T02:27:35+00:00",
+      "published": "2026-04-11T02:14:19+00:00",
       "summary": "血液蛋白可預測帕金森氏症？研究揭提前7年風險 專家：仍須謹慎解讀 | 信傳媒&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -958,19 +958,6 @@
       "matched_keywords": []
     },
     {
-      "id": "f3b65cc77e26",
-      "title": "糖尿病患者為何更容易骨折？問題可能不只是血糖 | 科技新報 - LINE TODAY",
-      "published": "2026-04-09T14:15:50+00:00",
-      "summary": "糖尿病患者為何更容易骨折？問題可能不只是血糖 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10akp2NWIzdS1XX0E1YVM1S3RQenF5U0lnNGxXeWpIazY4bzNBWVZZWDN1dG9Kd3IxcVVYRVBsdjhERUhJVF9iYTdkNWdPN1ExTVNRNkF3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "50b6a2cceb2f",
       "title": "飲食與懷孕：影響者控制「血糖高峰」的錯誤令專家擔憂",
       "published": "2026-04-09T10:54:37+00:00",
@@ -1069,44 +1056,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "b950080c6f4f",
-      "title": "研究：中年改吃健康植物飲食 有助降低失智風險 - Taiwan News",
-      "published": "2026-04-09T07:57:00+00:00",
-      "summary": "研究：中年改吃健康植物飲食 有助降低失智風險&nbsp;&nbsp;Taiwan News",
-      "sources": [
-        {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MVFpVOUVyaUdXWWxnYlJYVTRDSWcxTnFBaE02REFWYUtDSlJUd2xpM3hja1Zmb0NlcFp0cmRZR2k4Um1vUTBOWUZWWWt4UFRxYnUxNVMxbUU?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "49213dcc2662",
-      "title": "醫度問．醫度答 往期醫生回覆｜收集大家健康疑問！TOPick記者幫你問專家！【馬上提交問題】",
-      "published": "2026-04-09T06:11:17+00:00",
-      "summary": "醫度問．醫度答 往期醫生回覆｜收集大家健康疑問！TOPick記者幫你問專家！【馬上提交問題】&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxNb1VtYU5MUUdjS2FtOF9WMVJFWWZMUm9VcC1TOHFFLU5QcXhZb3htYW5RUHQyZzBaeTk2Ulhldzl0Z09vU2U5Vk9fV1RXZW41eTZpSDREdnV4YkJNWDM0LWYzUDFWbDhZZkVpZ0ZYNEdpSWo5X1JTRmR1RzhqWGZwYWU0aGVpNFlycm1OWWRISm5ZZE5RWENnejdHTVVHNlpLLWFybnVZd3Ryc2hmNWw1cFBaV2xyd3VpeVJrTHhnWS16X2VZS1FrYkoyTGVoRDNXNW5yS29qTHJTbmRwdkdQQ2ZWNkRDcjJJRXIxNzZGN3RiaHQ4VFQxeGVIQUtfT0JBdTZNeGY5djFBMW1waHRNcm5DeUtCNnlLZFhrMTRXQTRjWmtzcldvUjhId1FKek5IYVJKSG1ieVJ3TnNaaU53TzhjQ1A2YlJ1bkJ5dE04OXpOc3UydTdRZWR6bi02NER2TlZuTmdPXzVrd3hmTHNFeFVhU0c3RkdEMHBMRHozQmNkSG5LQ0tEcnNlOE40UjJYZEp2bUlYcG11UjE3YXZjSk1wN1lYX1Ryc21xM0NlN2pZODhNMlVsYnBVNHZtWVBUdHB2V0oxekdNT3FUY0RPOTlXaHZSRUZoNFAyNWFmNW0wbUZFeElXYUQ4TWMtVmR4d0lScnYyb3BfaTRFOE5JejF2b09lUDVWdkk3XzNhc1pTaVdIQ0VXYldnTVhRclZTWXJmcmttYktJbGRtTm1jalZB?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "0e839dee5736",

@@ -1,12 +1,12 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-11T07:44:15.751631+00:00",
-  "count": 25,
+  "fetched_at": "2026-04-11T08:33:27.259460+00:00",
+  "count": 22,
   "news": [
     {
       "id": "964e2357e119",
       "title": "血液蛋白可預測帕金森氏症？研究揭提前7年風險 專家：仍須謹慎解讀 | 信傳媒 - LINE TODAY",
-      "published": "2026-04-11T02:27:35+00:00",
+      "published": "2026-04-11T02:14:19+00:00",
       "summary": "血液蛋白可預測帕金森氏症？研究揭提前7年風險 專家：仍須謹慎解讀 | 信傳媒&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -184,30 +184,6 @@
       ]
     },
     {
-      "id": "f3b65cc77e26",
-      "title": "糖尿病患者為何更容易骨折？問題可能不只是血糖 | 科技新報 - LINE TODAY",
-      "published": "2026-04-09T14:15:50+00:00",
-      "summary": "糖尿病患者為何更容易骨折？問題可能不只是血糖 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10akp2NWIzdS1XX0E1YVM1S3RQenF5U0lnNGxXeWpIazY4bzNBWVZZWDN1dG9Kd3IxcVVYRVBsdjhERUhJVF9iYTdkNWdPN1ExTVNRNkF3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b950080c6f4f",
-      "title": "研究：中年改吃健康植物飲食 有助降低失智風險 - Taiwan News",
-      "published": "2026-04-09T07:57:00+00:00",
-      "summary": "研究：中年改吃健康植物飲食 有助降低失智風險&nbsp;&nbsp;Taiwan News",
-      "sources": [
-        {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MVFpVOUVyaUdXWWxnYlJYVTRDSWcxTnFBaE02REFWYUtDSlJUd2xpM3hja1Zmb0NlcFp0cmRZR2k4Um1vUTBOWUZWWWt4UFRxYnUxNVMxbUU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4f95fca9f8ee",
       "title": "徹底改變印度的心臟護理：先進支架和患者參與的作用，EHealthworld - citytimes.tw",
       "published": "2026-04-10T18:42:49+00:00",
@@ -288,18 +264,6 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVFEMFJEajR3cUh2WXhCb0VSZzdteHNzTVJQMUZJWlFCR1Q5MkpGUGFnVklrYnVSVDl3VGF6eFczLVlRN0NGWlFHSmQyT1VzXy1xOEd3bVpPdVZKcVV1cnNvRmllQnZGaUxPUVF1em5rQ2xUZlBRSndKMktseU5VemZ0RUtKbDFPdDA0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "49213dcc2662",
-      "title": "醫度問．醫度答 往期醫生回覆｜收集大家健康疑問！TOPick記者幫你問專家！【馬上提交問題】 - 香港經濟日報HKET",
-      "published": "2026-04-09T06:11:17+00:00",
-      "summary": "醫度問．醫度答 往期醫生回覆｜收集大家健康疑問！TOPick記者幫你問專家！【馬上提交問題】&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxNb1VtYU5MUUdjS2FtOF9WMVJFWWZMUm9VcC1TOHFFLU5QcXhZb3htYW5RUHQyZzBaeTk2Ulhldzl0Z09vU2U5Vk9fV1RXZW41eTZpSDREdnV4YkJNWDM0LWYzUDFWbDhZZkVpZ0ZYNEdpSWo5X1JTRmR1RzhqWGZwYWU0aGVpNFlycm1OWWRISm5ZZE5RWENnejdHTVVHNlpLLWFybnVZd3Ryc2hmNWw1cFBaV2xyd3VpeVJrTHhnWS16X2VZS1FrYkoyTGVoRDNXNW5yS29qTHJTbmRwdkdQQ2ZWNkRDcjJJRXIxNzZGN3RiaHQ4VFQxeGVIQUtfT0JBdTZNeGY5djFBMW1waHRNcm5DeUtCNnlLZFhrMTRXQTRjWmtzcldvUjhId1FKek5IYVJKSG1ieVJ3TnNaaU53TzhjQ1A2YlJ1bkJ5dE04OXpOc3UydTdRZWR6bi02NER2TlZuTmdPXzVrd3hmTHNFeFVhU0c3RkdEMHBMRHozQmNkSG5LQ0tEcnNlOE40UjJYZEp2bUlYcG11UjE3YXZjSk1wN1lYX1Ryc21xM0NlN2pZODhNMlVsYnBVNHZtWVBUdHB2V0oxekdNT3FUY0RPOTlXaHZSRUZoNFAyNWFmNW0wbUZFeElXYUQ4TWMtVmR4d0lScnYyb3BfaTRFOE5JejF2b09lUDVWdkk3XzNhc1pTaVdIQ0VXYldnTVhRclZTWXJmcmttYktJbGRtTm1jalZB?oc=5"
         }
       ]
     }

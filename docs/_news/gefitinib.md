@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [全球6成人缺乏這種維生素中年就開始影響恐牽動失智風險- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1ldmRseUY1Q2c5VjRYVWNESVdqbGV4WXhncVp6aEpQOHFraEJvZnVZTkZpSXRmNWR1UlBZZFlwRTZSTGh4RnVidlM3ejBvNjdNODNlZVNnY1M4dWY0cDJNNzE2eU9PRkowLXJESDZn?oc=5)
 
@@ -80,14 +80,6 @@ permalink: /news/gefitinib/
 2026-04-09 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源：[Singtaousa](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVFEMFJEajR3cUh2WXhCb0VSZzdteHNzTVJQMUZJWlFCR1Q5MkpGUGFnVklrYnVSVDl3VGF6eFczLVlRN0NGWlFHSmQyT1VzXy1xOEd3bVpPdVZKcVV1cnNvRmllQnZGaUxPUVF1em5rQ2xUZlBRSndKMktseU5VemZ0RUtKbDFPdDA0?oc=5)
-
----
-
-### [研究：中年改吃健康植物飲食 有助降低失智風險 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MVFpVOUVyaUdXWWxnYlJYVTRDSWcxTnFBaE02REFWYUtDSlJUd2xpM3hja1Zmb0NlcFp0cmRZR2k4Um1vUTBOWUZWWWt4UFRxYnUxNVMxbUU?oc=5)
-
-2026-04-09 <span class="news-indication-tag">失智</span>
-
-來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MVFpVOUVyaUdXWWxnYlJYVTRDSWcxTnFBaE02REFWYUtDSlJUd2xpM3hja1Zmb0NlcFp0cmRZR2k4Um1vUTBOWUZWWWt4UFRxYnUxNVMxbUU?oc=5)
 
 ---
 

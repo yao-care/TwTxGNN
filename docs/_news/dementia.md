@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [全球6成人缺乏這種維生素中年就開始影響恐牽動失智風險- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1ldmRseUY1Q2c5VjRYVWNESVdqbGV4WXhncVp6aEpQOHFraEJvZnVZTkZpSXRmNWR1UlBZZFlwRTZSTGh4RnVidlM3ejBvNjdNODNlZVNnY1M4dWY0cDJNNzE2eU9PRkowLXJESDZn?oc=5)
 
@@ -44,14 +44,6 @@ permalink: /news/dementia/
 2026-04-09
 
 來源：[Singtaousa](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVFEMFJEajR3cUh2WXhCb0VSZzdteHNzTVJQMUZJWlFCR1Q5MkpGUGFnVklrYnVSVDl3VGF6eFczLVlRN0NGWlFHSmQyT1VzXy1xOEd3bVpPdVZKcVV1cnNvRmllQnZGaUxPUVF1em5rQ2xUZlBRSndKMktseU5VemZ0RUtKbDFPdDA0?oc=5)
-
----
-
-### [研究：中年改吃健康植物飲食 有助降低失智風險 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MVFpVOUVyaUdXWWxnYlJYVTRDSWcxTnFBaE02REFWYUtDSlJUd2xpM3hja1Zmb0NlcFp0cmRZR2k4Um1vUTBOWUZWWWt4UFRxYnUxNVMxbUU?oc=5)
-
-2026-04-09
-
-來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MVFpVOUVyaUdXWWxnYlJYVTRDSWcxTnFBaE02REFWYUtDSlJUd2xpM3hja1Zmb0NlcFp0cmRZR2k4Um1vUTBOWUZWWWt4UFRxYnUxNVMxbUU?oc=5)
 
 ---
 
