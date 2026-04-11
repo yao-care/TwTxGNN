@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-11T05:54:52.354351+00:00",
-  "total_count": 27,
+  "last_updated": "2026-04-11T06:51:34.861029+00:00",
+  "total_count": 28,
   "matched_count": 10,
   "news": [
     {
@@ -1258,7 +1258,7 @@
       "id": "11ccc3d897ba",
       "title": "不再有遺憾！英國牛津大學開發AI預測工具「心臟衰竭」發作前5年精準揪出風險",
       "published": "2026-04-09T09:35:00+00:00",
-      "summary": "不再有遺憾！英國牛津大學開發AI預測工具「心臟衰竭」發作前5年精準揪出風險&nbsp;&nbsp;ETtoday新聞雲Garmin Venu 4 值得入手嗎？從 HRV 健康監測、智能鬧鐘到80+ 種運動模式，一錶搞定你的生活大小事&nbsp;&nbsp;GQ Taiwan牛津大學人工智慧利用常規CT掃描，在72,000名患者中以86%的準確率檢測出早期心臟衰竭風險。&nbsp;&nbsp;MEXC Exchange智慧手錶真的能「提前偵測疾病」嗎？穿戴式健康科技你該知道的事&nbsp;&nbsp;台視新聞網",
+      "summary": "不再有遺憾！英國牛津大學開發AI預測工具「心臟衰竭」發作前5年精準揪出風險&nbsp;&nbsp;ETtoday新聞雲Garmin Venu 4 值得入手嗎？從 HRV 健康監測、智能鬧鐘到80+ 種運動模式，一錶搞定你的生活大小事&nbsp;&nbsp;GQ Taiwan牛津大學人工智慧利用常規CT掃描，在72,000名患者中以86%的準確率檢測出早期心臟衰竭風險。&nbsp;&nbsp;MEXC Exchange",
       "sources": [
         {
           "name": "ETtoday新聞雲",
@@ -1305,6 +1305,19 @@
       ]
     },
     {
+      "id": "0184af098b26",
+      "title": "預防流感、病毒感染 曬太陽就有效",
+      "published": "2026-04-09T07:00:14+00:00",
+      "summary": "預防流感、病毒感染 曬太陽就有效&nbsp;&nbsp;台視新聞網",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBENHV2M0R5YUw0eVR2UGxSLWhKeEUxRkk2YzQzTEZud1Q2dk1qMW9vMXlnVmNqMUFSU1ZqSEt3N3pXVHZqelNIOUcxQk00OEtyRjhFcmZwTQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "49213dcc2662",
       "title": "醫度問．醫度答 往期醫生回覆｜收集大家健康疑問！TOPick記者幫你問專家！【馬上提交問題】",
       "published": "2026-04-09T06:11:17+00:00",
@@ -1321,7 +1334,7 @@
       "id": "0e839dee5736",
       "title": "不用挨餓、不用減重，只要「吃」就能減肝臟脂肪！醫師教你這樣調整飲食 - TVBS 健康2.0",
       "published": "2026-04-08T05:11:09+00:00",
-      "summary": "不用挨餓、不用減重，只要「吃」就能減肝臟脂肪！醫師教你這樣調整飲食&nbsp;&nbsp;TVBS 健康2.0健康網》內臟脂肪比肥胖更危險 醫曝「這4招」不挨餓有助降脂&nbsp;&nbsp;自由健康網預防流感、病毒感染，曬太陽就有效&nbsp;&nbsp;PChome Online 新聞不是胖最危險! 研究揭「1體型」死亡率飆83% 代謝變差、 大增跌倒風險&nbsp;&nbsp;MSN重訓其實比有氧更能燃腹部脂肪？研究揭密：消滅內臟脂肪的關鍵是「這個」&nbsp;&nbsp;womenshealthmag.com",
+      "summary": "不用挨餓、不用減重，只要「吃」就能減肝臟脂肪！醫師教你這樣調整飲食&nbsp;&nbsp;TVBS 健康2.0飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎&nbsp;&nbsp;三立新聞網SETN.com內臟脂肪殺手！「1好菌」狂燃脂、抗發炎&nbsp;&nbsp;鏡週刊Mirror Media預防流感、病毒感染，曬太陽就有效&nbsp;&nbsp;PChome Online 新聞健康網》減肥別只看腰圍 醫：內臟脂肪才是大敵！降低4招&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "TVBS 健康2.0",
