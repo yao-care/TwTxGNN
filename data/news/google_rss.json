@@ -1,13 +1,13 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-11T17:24:18.733750+00:00",
+  "fetched_at": "2026-04-11T18:31:46.894352+00:00",
   "count": 19,
   "news": [
     {
       "id": "c49e593aa003",
       "title": "不嫁就毀掉妳！狠男強注「愛滋血」報復　24歲印女崩潰輕生 - ETtoday新聞雲",
-      "published": "2026-04-11T11:16:00+00:00",
-      "summary": "不嫁就毀掉妳！狠男強注「愛滋血」報復 24歲印女崩潰輕生&nbsp;&nbsp;ETtoday新聞雲拒嫁愛滋親戚被報復 印女遭男方強行注射「感染血液」&nbsp;&nbsp;TVBS新聞網【不嫁就毀掉妳！狠印男強注「愛滋血」報復 24歲女崩潰輕生】 （#大表哥）&nbsp;&nbsp;Facebook因拒婚遭報復 印度24歲女子被強注愛滋感染血液崩潰亡&nbsp;&nbsp;三立新聞網SETN.com",
+      "published": "2026-04-11T17:48:20+00:00",
+      "summary": "不嫁就毀掉妳！狠男強注「愛滋血」報復 24歲印女崩潰輕生&nbsp;&nbsp;ETtoday新聞雲前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "ETtoday新聞雲",
@@ -52,18 +52,6 @@
       ]
     },
     {
-      "id": "964e2357e119",
-      "title": "血液蛋白可預測帕金森氏症？研究揭提前7年風險 專家：仍須謹慎解讀 | 信傳媒 - LINE TODAY",
-      "published": "2026-04-11T02:14:19+00:00",
-      "summary": "血液蛋白可預測帕金森氏症？研究揭提前7年風險 專家：仍須謹慎解讀 | 信傳媒&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xZ0tzMHBJMHpXSlNMU1NkWVd6dnBtWTFBZjZETVFSVVd5cWFpemtqeGpYUXN4SFNmMGJLd1loTDVWQWhWTUxTSDE5QnVrM3haY2ZtcHpB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0e839dee5736",
       "title": "不用挨餓、不用減重，只要「吃」就能減肝臟脂肪！醫師教你這樣調整飲食 - TVBS 健康2.0",
       "published": "2026-04-08T05:11:09+00:00",
@@ -72,6 +60,18 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02VlNoZnhkUlRrdkwtRWVlY1l1UHlPaFgyS0xYRFJWTFh1UzJiZ2F0a0R5T3VqdThVUWxPcVJXMEJ6XzFUZGMtb3gxZ25WNVhnNldN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "964e2357e119",
+      "title": "血液蛋白可預測帕金森氏症？研究揭提前7年風險 專家：仍須謹慎解讀 | 信傳媒 - LINE TODAY",
+      "published": "2026-04-11T02:14:19+00:00",
+      "summary": "血液蛋白可預測帕金森氏症？研究揭提前7年風險 專家：仍須謹慎解讀 | 信傳媒&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xZ0tzMHBJMHpXSlNMU1NkWVd6dnBtWTFBZjZETVFSVVd5cWFpemtqeGpYUXN4SFNmMGJLd1loTDVWQWhWTUxTSDE5QnVrM3haY2ZtcHpB?oc=5"
         }
       ]
     },
