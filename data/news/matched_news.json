@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-04-11T21:25:09.016889+00:00",
-  "total_count": 20,
+  "last_updated": "2026-04-11T22:22:37.367554+00:00",
+  "total_count": 23,
   "matched_count": 6,
   "news": [
+    {
+      "id": "83609c08e030",
+      "title": "1／4的人成功了沒有減重成功逆轉糖尿病前期- 健康",
+      "published": "2026-04-11T21:30:30+00:00",
+      "summary": "1／4的人成功了沒有減重成功逆轉糖尿病前期- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pS3ZYakpMRlV3V2ZkbE15TUc4UTdrWWlaLXgybzFaUTVhb1ZZS1htdlBNZTRROUNRUTJLV3pXdDRuNndLMWt5ajRkR1QxQk5KM2p4bldqSGNENmRGcGtwb1A3YnhXcEJvMGY3dTBn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "20a847533baa",
+      "title": "長新冠罹患認知障礙風險高近4倍",
+      "published": "2026-04-11T20:25:53+00:00",
+      "summary": "長新冠罹患認知障礙風險高近4倍&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qLURfbWRBY0g5c3JsRk1OX1RsUFBTc3hWN0ZDSmR0dnFMQ0U5Wmh4T0tEWF9wZGpuc0lteW9kaVEtalZ5ZFVxVHhaWGRkMWI3MjFfdFNMbDUtR0FrUWlBaUltdjdtU29rTlhz?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "c49e593aa003",
       "title": "不嫁就毀掉妳！狠男強注「愛滋血」報復　24歲印女崩潰輕生",
@@ -63,6 +89,19 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xZ0tzMHBJMHpXSlNMU1NkWVd6dnBtWTFBZjZETVFSVVd5cWFpemtqeGpYUXN4SFNmMGJLd1loTDVWQWhWTUxTSDE5QnVrM3haY2ZtcHpB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c13cde39365f",
+      "title": "新生兒髖關節異常早篩檢 台北慈濟：把握黃金治療期",
+      "published": "2026-04-10T21:00:00+00:00",
+      "summary": "新生兒髖關節異常早篩檢 台北慈濟：把握黃金治療期&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CU3VFa1RPM2xhYzdqYkVBT1htaUc3ZHZtUjhYc0RKQXc2TzE0TDFfbU9xaUEwc1FPZFJXRm8tNi1zWFNaUlZkOVFzaFZtNlIxMXc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -586,7 +625,7 @@
       "id": "52637f1effae",
       "title": "ETHealthworld 的一項重大研究顯示，大多數印度人都面臨隱性健康問題的風險",
       "published": "2026-04-10T13:45:12+00:00",
-      "summary": "ETHealthworld 的一項重大研究顯示，大多數印度人都面臨隱性健康問題的風險&nbsp;&nbsp;citytimes.tw德里國家首都區肥胖和生活方式疾病的驚人上升：ETHealthworld 調查顯示81% 的肥胖者已接受檢查&nbsp;&nbsp;citytimes.tw",
+      "summary": "ETHealthworld 的一項重大研究顯示，大多數印度人都面臨隱性健康問題的風險&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
           "name": "citytimes.tw",
