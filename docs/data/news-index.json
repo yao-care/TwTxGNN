@@ -1,10 +1,10 @@
 {
-  "generated": "2026-04-11T10:25:11.855203+00:00",
-  "count": 8,
+  "generated": "2026-04-11T11:23:06.295223+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "6c36b44ffe2b",
-      "title": "全球6成人缺乏這種維生素中年就開始影響恐牽動失智風險- 健康",
+      "id": "751f23b10407",
+      "title": "全球6成人缺乏這種維生素中年就開始影響恐牽動失智風險- 國際",
       "published": "2026-04-11T05:43:17+00:00",
       "sources": [
         {
@@ -1023,41 +1023,6 @@
             {
               "slug": "propantheline",
               "name": "Propantheline"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4da46842baae",
-      "title": "腦神經專科韓植源醫生談防治老年失智症",
-      "published": "2026-04-09T10:00:00+00:00",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVFEMFJEajR3cUh2WXhCb0VSZzdteHNzTVJQMUZJWlFCR1Q5MkpGUGFnVklrYnVSVDl3VGF6eFczLVlRN0NGWlFHSmQyT1VzXy1xOEd3bVpPdVZKcVV1cnNvRmllQnZGaUxPUVF1em5rQ2xUZlBRSndKMktseU5VemZ0RUtKbDFPdDA0?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
