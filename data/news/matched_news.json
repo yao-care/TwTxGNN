@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T19:29:25.878845+00:00",
+  "last_updated": "2026-04-11T20:22:53.024543+00:00",
   "total_count": 20,
   "matched_count": 6,
   "news": [
@@ -893,14 +893,14 @@
       "matched_keywords": []
     },
     {
-      "id": "f7b4f3f0d667",
-      "title": "小腦中風症狀像腸胃炎！翁「高血壓不控制」命危進加護",
-      "published": "2026-04-10T07:17:23+00:00",
-      "summary": "小腦中風症狀像腸胃炎！翁「高血壓不控制」命危進加護&nbsp;&nbsp;Yahoo新聞中風後，為什麼我總是擔心疾病會再惡化？&nbsp;&nbsp;careonline.com.tw小中風症狀消失快 但恐致大麻煩 醫：不能輕視&nbsp;&nbsp;世界新聞網「小中風」常見警訊別忽視老少均有高風險因子- 國際&nbsp;&nbsp;中時新聞網多年高血壓沒在吃藥…頭暈噁心竟中風！醫警告「這種類型」最要命&nbsp;&nbsp;中天新聞網",
+      "id": "af7c8a040a1f",
+      "title": "多年高血壓沒在吃藥…頭暈噁心竟中風！醫警告「這種類型」最要命",
+      "published": "2026-04-10T05:39:50+00:00",
+      "summary": "多年高血壓沒在吃藥…頭暈噁心竟中風！醫警告「這種類型」最要命&nbsp;&nbsp;中天新聞網中風後，為什麼我總是擔心疾病會再惡化？&nbsp;&nbsp;careonline.com.tw小中風症狀消失快 但恐致大麻煩 醫：不能輕視&nbsp;&nbsp;世界新聞網「小中風」常見警訊別忽視老少均有高風險因子- 國際&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNOFFLUkoySzFJU0ZBOGFTVTYwd0xHNWl6V2pwZHltcUg1N2FnTjhaQU52Y1ktSV9wYXhhRTFwbEFaMVlxcUhTWWhYYnU0Z09ndlJXWkJkYm1FR3RkVkl3Q2U3X0hlN1paa0hoUnhjSE1MQWRfX0pQa19OV2lBRzQ4REcyYWFQWnFOQjBmMFdDcERkbmNSd1dUWUpLVU8wOHlCQzdtdWFabDJJQmt4ZGRRRl9mMEZSaGxySzJpUF8zRTBFT3JTMWhDRmM0elpneExnZnBwejRMRnppRS1aOXRkYlZpUkREeUVjZ19BNURmUFNPSXdvVk1VMkZRcDlGUGFGdXl4V05sNmswb1NxTU1IR201eWFzdnV6cG5kMEduSGo3M3RLcHc3NDV3MG1QRUdxN1dQRnYwYWlIOEpJR3U0M0xHRDV0VXRMTUc0N2pQYXZwSm9JdjJxc3kweGhtekk?oc=5"
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jdFUwR0ZvT1llTGZteXdlcXZkN1Nld2lxY25FVW5FTDJONGpEaVZldG9kWUJxelJmeEwxZGJfWmliUDdzbnNSOWt0WGJ5b1QzTExJ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -933,40 +933,6 @@
               "name": "Dipyridamole"
             }
           ]
-        },
-        {
-          "type": "indication",
-          "name": "腦中風",
-          "keyword": "腦中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "胃炎",
-          "keyword": "胃炎",
-          "related_drugs": [
-            {
-              "slug": "aluminum_hydroxide",
-              "name": "Aluminum hydroxide"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "propantheline",
-              "name": "Propantheline"
-            }
-          ]
         }
       ]
     },
@@ -984,14 +950,14 @@
       "matched_keywords": []
     },
     {
-      "id": "0e839dee5736",
-      "title": "不用挨餓、不用減重，只要「吃」就能減肝臟脂肪！醫師教你這樣調整飲食 - TVBS 健康2.0",
-      "published": "2026-04-08T05:11:09+00:00",
-      "summary": "不用挨餓、不用減重，只要「吃」就能減肝臟脂肪！醫師教你這樣調整飲食&nbsp;&nbsp;TVBS 健康2.0飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎&nbsp;&nbsp;三立新聞網SETN.com內臟脂肪殺手！「1好菌」狂燃脂、抗發炎&nbsp;&nbsp;鏡週刊Mirror Media預防流感、病毒感染 曬太陽就有效&nbsp;&nbsp;台視新聞網健康網》減肥別只看腰圍 醫：內臟脂肪才是大敵！降低4招&nbsp;&nbsp;自由健康網",
+      "id": "7f65784be0c0",
+      "title": "健康網》內臟脂肪比肥胖更危險 醫曝「這4招」不挨餓有助降脂",
+      "published": "2026-04-08T03:57:00+00:00",
+      "summary": "健康網》內臟脂肪比肥胖更危險 醫曝「這4招」不挨餓有助降脂&nbsp;&nbsp;自由健康網維生素D不只顧骨骼！研究曝抗癌又抗老 「這樣吃」吸收更好&nbsp;&nbsp;TVBS新聞網重訓其實比有氧更能燃腹部脂肪？研究揭密：消滅內臟脂肪的關鍵是「這個」&nbsp;&nbsp;womenshealthmag.com不是胖最危險! 研究揭「1體型」死亡率飆83% 代謝變差、 大增跌倒風險&nbsp;&nbsp;MSN運動、飲控體重還是不掉！營養師曝問題恐「出在這款維生素」&nbsp;&nbsp;ETtoday新聞雲",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02VlNoZnhkUlRrdkwtRWVlY1l1UHlPaFgyS0xYRFJWTFh1UzJiZ2F0a0R5T3VqdThVUWxPcVJXMEJ6XzFUZGMtb3gxZ25WNVhnNldN?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ESF9rRzhhWG9iMEgzdjl4T3dWcHZFTHNfRXJ0VkY1amozS1gxbjZqOUQ3Mk96TFlfajFDRmhjSV9PbUpRV2xLb1VsVy03a2VzTGhzQksxc0hnNnF4S1NjMS01NETSAWpBVV95cUxNMDBRNndmd1pGWWN4VUk2U2hGT3lpUjVaUnUxTHAtejNFbUowdVoxUGFVVTlZZzJfQTdDdnR6eDROa0V3d183bU9CYzNqR2ZaQ3FKRHI3bGdtcEdCMFdjMlF6ZEZ5NFdGWTRB?oc=5"
         }
       ],
       "matched_keywords": []
