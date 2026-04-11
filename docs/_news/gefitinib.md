@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [全球6成人缺乏這種維生素中年就開始影響恐牽動失智風險- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1ldmRseUY1Q2c5VjRYVWNESVdqbGV4WXhncVp6aEpQOHFraEJvZnVZTkZpSXRmNWR1UlBZZFlwRTZSTGh4RnVidlM3ejBvNjdNODNlZVNnY1M4dWY0cDJNNzE2eU9PRkowLXJESDZn?oc=5)
+
+2026-04-11 <span class="news-indication-tag">失智</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1ldmRseUY1Q2c5VjRYVWNESVdqbGV4WXhncVp6aEpQOHFraEJvZnVZTkZpSXRmNWR1UlBZZFlwRTZSTGh4RnVidlM3ejBvNjdNODNlZVNnY1M4dWY0cDJNNzE2eU9PRkowLXJESDZn?oc=5)
+
+---
 
 ### [再見大腸鏡檢查？新糞便檢測可檢測出 90% 的結腸癌](https://news.google.com/rss/articles/CBMi_wJBVV95cUxNWklGVDR6QmlDSzBvanpWZVZRU0lSYk5GdGFXdGNXTmlBT2trOUt1SXRZMEZSNHRpdnVKczF4bmdUckZpRnJOczhaaUtTMU9zNjV3bE1FVHZSYmVGTVA0X1NXS29JMnhiLXJBd3lEbjRqSHpWdDJFZFozbGtfbnlQU1RMM2pBeGhpeUNyM3I0MktsQThfZ2F0dVdBdGRiUERRTUtNU3Y0UnFvOVhtUG56YWJJX2s1Y2FEZXpVOGZsN1pVQlU4cHdULUoxMzJTMHpiZ2psTVpjMVRNOWFhX0xudGZKamxzSlJqYnpaYS1PbmtSbXVJcDRHVm9zNnZDd0tOQ1pKQ0RuZ1hNdWhtV0tEcURacjVtUWVOR1JGeTU4eW5HdjV3Ym1Sb19CWS0wNVVFZ3dYMFdveEdOZjRDZU1EQXJzeDlfa0VkTC1zTHpDYXN4MFlQM2lEclBLd2JyMHpmV0wwbXBrLUplZ3dsa2xQdjZpLWRlVTlBalZxOUNNRQ?oc=5)
 
@@ -59,6 +67,14 @@ permalink: /news/gefitinib/
 
 ---
 
+### [沒結婚比較容易得癌症？ 研究：未婚者罹癌風險最高增85%](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jNWQ0QjlhNFEycS11VFFFNDVXdWtlSlRGODBKX29FSzhoaGxWelFWQVFFMEEySW5NSVdRaHQ1ZHpXSjM1ejVaajRDdktieHFj0gFWQVVfeXFMTWxialpKekIwcTEzV2pyODFJNERBVzYtQkZFek5IZGo2aEQtYVpJTEp1U184WDVzVDJKaHBSbjRrdlBWa2NiMGhtY2pvUE9HUFNPQjZyRkE?oc=5)
+
+2026-04-10 <span class="news-indication-tag">癌症</span>
+
+來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jNWQ0QjlhNFEycS11VFFFNDVXdWtlSlRGODBKX29FSzhoaGxWelFWQVFFMEEySW5NSVdRaHQ1ZHpXSjM1ejVaajRDdktieHFj0gFWQVVfeXFMTWxialpKekIwcTEzV2pyODFJNERBVzYtQkZFek5IZGo2aEQtYVpJTEp1U184WDVzVDJKaHBSbjRrdlBWa2NiMGhtY2pvUE9HUFNPQjZyRkE?oc=5)
+
+---
+
 ### [科學家用「豬精液」研發抗癌眼藥水 實驗證實可縮細腫瘤 有望治療兒童眼癌保視力](https://news.google.com/rss/articles/CBMi9ANBVV95cUxOZWxUTFVCTjNfc1ZTeVctTmNSbGNFOW1hNlhvWHNOMTBlbC1CLUx0SUxyUnhucGpDTUZHVUJ4eHZTNUNsRkhCM0hhOF85SVVlR0dDQ3RaZTROelUtV0MtUWVOS19vakhSUFpNeE1ndk5LYzhmRnRibzJDQTBORWxGZDNUZTM0U2FYdXo1VXNzbWFEUGU5ZWdjRm5xQTFmZTdaeWJPTVRfajc4YThzMVZsRWg5VFZOT0M2eF9RR2RoeXVHdUFyNjA5YWNra0RTUzFZTVZ4eE1OQTA0cFFZQ2lkcnJaT1lmUFZBb2tvdjlMR3MwZXBoVWpPR3FrR1ZsbEwwRmZDSkF4QTBtSFM1MmIxVmNybHgzZzUtLS1Oa3dqT2NQV3pJV1p3WjU4QWREdlZGQUF1V21BSWNFbmwyMnBMRHRCNDZITUwzdmxOd0hNQXlRdm5vd1MwdzBRVG1xVnBuR09tWUxnRWI5ejlnNVJPYnNFQlYzbzQzMFdkZlBsZFdSOW9xSzl2Ul9jNzJSZnd5SVQ0bnplejNFUE5mOUJFMUpjMWZuVFN5M3czSHNtT1RhQ1doTXJxSHZuMFNES3lKTjNWMGdFQUw5MjVMbnBsUnMwNmdZYTdZWkRpME01MG5oTVVBaV9rN3J1XzZkVkt6aC04Zg?oc=5)
 
 2026-04-10 <span class="news-indication-tag">腫瘤</span>
@@ -72,14 +88,6 @@ permalink: /news/gefitinib/
 2026-04-09 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源：[Singtaousa](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVFEMFJEajR3cUh2WXhCb0VSZzdteHNzTVJQMUZJWlFCR1Q5MkpGUGFnVklrYnVSVDl3VGF6eFczLVlRN0NGWlFHSmQyT1VzXy1xOEd3bVpPdVZKcVV1cnNvRmllQnZGaUxPUVF1em5rQ2xUZlBRSndKMktseU5VemZ0RUtKbDFPdDA0?oc=5)
-
----
-
-### [腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YNUpBREdBMmpZbzNFYjI1X1NkTlZRSW9XZGljV21aZnN4b2tLRlBUYTRzb1labFVDLWZZeTN5aXJoTjJWekRoaHhhR2hvS2JEdWRBS3Z2Z2M3b214RDRn?oc=5)
-
-2026-04-09 <span class="news-indication-tag">失智</span>
-
-來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YNUpBREdBMmpZbzNFYjI1X1NkTlZRSW9XZGljV21aZnN4b2tLRlBUYTRzb1labFVDLWZZeTN5aXJoTjJWekRoaHhhR2hvS2JEdWRBS3Z2Z2M3b214RDRn?oc=5)
 
 ---
 

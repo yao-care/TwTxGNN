@@ -14,7 +14,7 @@ permalink: /news/xylometazoline/
 ---
 
 <p class="key-answer" data-question="Xylometazoline 有什麼相關新聞？">
-<strong>Xylometazoline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Xylometazoline</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,9 @@ permalink: /news/xylometazoline/
 <p><a href="{{ '/drugs/xylometazoline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [17歲少年鼻塞3年被當鼻炎 顱底竟藏血管瘤炸彈 3症狀持續3個月即求醫青春期男子最高危](https://news.google.com/rss/articles/CBMilARBVV95cUxPWTAwUWlLVEVEOENOaEo3Z0QtaF85d0RVaGFvOC11c1pFd0JNNFNGY3dORy1lTjdjVXREeXg0dkJsU1NaUmxyWWZmZjhFbVVzYS1tMmxndW10N2Y4aG1BU1hUQVZxSVk1STltMUp1eDBzeWtla2JjcGM1MktWZ3NLZUdnMVdET2ZzOUc3ZmpPcl9XTncySi1TVjNGTTFHUXdFMF9ONnNBZHRhT0lkSzdoWElBbUpmRUx3M1A4a29ndEVib3hCV0pxV2Y0Z1pUWWVsQXJrVDZ5NklEQU5LdC0yT3pNNDVERWtNRTg3YXFIZkEtRXcydVFGajBfNlBOaFkyVU9HVms1ckhMUEotUkFHdDZqN2lVS053MUoyRGVHNnRUMDZGVXBlZ3ZNTHdYcU9nV3FldjBmUWJNTGEzb3ROeG8tSVpWdXozY2FaQnVvbHpMVTZfN2NFU3lhQjhEZENQbE1NeE9KZExVRThWWTRIUGpYR2NtT1hGUS1uWmRKT1NvOUF2V1VvTXNRcXVydWJlZ1g0TTFBQlVNMDNJTTBQaFhVMTZSZmxBckRGWFVtdGtjcnV5WksxYnZNRDRHZkpCODBBUnlKdG9hTTBCRzdTQzQybE9Wd1hvU0FvLUQ3YVVLVHF6SEMwSURiZllvb2FjS3ljcjNPaDBpaE1sRl9xd2hHWklBODF3dkhVRU9PcHhOOHd1?oc=5)
-
-2026-04-09 <span class="news-indication-tag">鼻塞</span>
-
-來源：[星島頭條](https://news.google.com/rss/articles/CBMilARBVV95cUxPWTAwUWlLVEVEOENOaEo3Z0QtaF85d0RVaGFvOC11c1pFd0JNNFNGY3dORy1lTjdjVXREeXg0dkJsU1NaUmxyWWZmZjhFbVVzYS1tMmxndW10N2Y4aG1BU1hUQVZxSVk1STltMUp1eDBzeWtla2JjcGM1MktWZ3NLZUdnMVdET2ZzOUc3ZmpPcl9XTncySi1TVjNGTTFHUXdFMF9ONnNBZHRhT0lkSzdoWElBbUpmRUx3M1A4a29ndEVib3hCV0pxV2Y0Z1pUWWVsQXJrVDZ5NklEQU5LdC0yT3pNNDVERWtNRTg3YXFIZkEtRXcydVFGajBfNlBOaFkyVU9HVms1ckhMUEotUkFHdDZqN2lVS053MUoyRGVHNnRUMDZGVXBlZ3ZNTHdYcU9nV3FldjBmUWJNTGEzb3ROeG8tSVpWdXozY2FaQnVvbHpMVTZfN2NFU3lhQjhEZENQbE1NeE9KZExVRThWWTRIUGpYR2NtT1hGUS1uWmRKT1NvOUF2V1VvTXNRcXVydWJlZ1g0TTFBQlVNMDNJTTBQaFhVMTZSZmxBckRGWFVtdGtjcnV5WksxYnZNRDRHZkpCODBBUnlKdG9hTTBCRzdTQzQybE9Wd1hvU0FvLUQ3YVVLVHF6SEMwSURiZllvb2FjS3ljcjNPaDBpaE1sRl9xd2hHWklBODF3dkhVRU9PcHhOOHd1?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

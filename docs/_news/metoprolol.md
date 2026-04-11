@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [再見大腸鏡檢查？新糞便檢測可檢測出 90% 的結腸癌](https://news.google.com/rss/articles/CBMi_wJBVV95cUxNWklGVDR6QmlDSzBvanpWZVZRU0lSYk5GdGFXdGNXTmlBT2trOUt1SXRZMEZSNHRpdnVKczF4bmdUckZpRnJOczhaaUtTMU9zNjV3bE1FVHZSYmVGTVA0X1NXS29JMnhiLXJBd3lEbjRqSHpWdDJFZFozbGtfbnlQU1RMM2pBeGhpeUNyM3I0MktsQThfZ2F0dVdBdGRiUERRTUtNU3Y0UnFvOVhtUG56YWJJX2s1Y2FEZXpVOGZsN1pVQlU4cHdULUoxMzJTMHpiZ2psTVpjMVRNOWFhX0xudGZKamxzSlJqYnpaYS1PbmtSbXVJcDRHVm9zNnZDd0tOQ1pKQ0RuZ1hNdWhtV0tEcURacjVtUWVOR1JGeTU4eW5HdjV3Ym1Sb19CWS0wNVVFZ3dYMFdveEdOZjRDZU1EQXJzeDlfa0VkTC1zTHpDYXN4MFlQM2lEclBLd2JyMHpmV0wwbXBrLUplZ3dsa2xQdjZpLWRlVTlBalZxOUNNRQ?oc=5)
 
@@ -60,6 +60,14 @@ permalink: /news/metoprolol/
 
 ---
 
+### [沒結婚比較容易得癌症？ 研究：未婚者罹癌風險最高增85%](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jNWQ0QjlhNFEycS11VFFFNDVXdWtlSlRGODBKX29FSzhoaGxWelFWQVFFMEEySW5NSVdRaHQ1ZHpXSjM1ejVaajRDdktieHFj0gFWQVVfeXFMTWxialpKekIwcTEzV2pyODFJNERBVzYtQkZFek5IZGo2aEQtYVpJTEp1U184WDVzVDJKaHBSbjRrdlBWa2NiMGhtY2pvUE9HUFNPQjZyRkE?oc=5)
+
+2026-04-10 <span class="news-indication-tag">癌症</span>
+
+來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jNWQ0QjlhNFEycS11VFFFNDVXdWtlSlRGODBKX29FSzhoaGxWelFWQVFFMEEySW5NSVdRaHQ1ZHpXSjM1ejVaajRDdktieHFj0gFWQVVfeXFMTWxialpKekIwcTEzV2pyODFJNERBVzYtQkZFek5IZGo2aEQtYVpJTEp1U184WDVzVDJKaHBSbjRrdlBWa2NiMGhtY2pvUE9HUFNPQjZyRkE?oc=5)
+
+---
+
 ### [科學家用「豬精液」研發抗癌眼藥水 實驗證實可縮細腫瘤 有望治療兒童眼癌保視力](https://news.google.com/rss/articles/CBMi9ANBVV95cUxOZWxUTFVCTjNfc1ZTeVctTmNSbGNFOW1hNlhvWHNOMTBlbC1CLUx0SUxyUnhucGpDTUZHVUJ4eHZTNUNsRkhCM0hhOF85SVVlR0dDQ3RaZTROelUtV0MtUWVOS19vakhSUFpNeE1ndk5LYzhmRnRibzJDQTBORWxGZDNUZTM0U2FYdXo1VXNzbWFEUGU5ZWdjRm5xQTFmZTdaeWJPTVRfajc4YThzMVZsRWg5VFZOT0M2eF9RR2RoeXVHdUFyNjA5YWNra0RTUzFZTVZ4eE1OQTA0cFFZQ2lkcnJaT1lmUFZBb2tvdjlMR3MwZXBoVWpPR3FrR1ZsbEwwRmZDSkF4QTBtSFM1MmIxVmNybHgzZzUtLS1Oa3dqT2NQV3pJV1p3WjU4QWREdlZGQUF1V21BSWNFbmwyMnBMRHRCNDZITUwzdmxOd0hNQXlRdm5vd1MwdzBRVG1xVnBuR09tWUxnRWI5ejlnNVJPYnNFQlYzbzQzMFdkZlBsZFdSOW9xSzl2Ul9jNzJSZnd5SVQ0bnplejNFUE5mOUJFMUpjMWZuVFN5M3czSHNtT1RhQ1doTXJxSHZuMFNES3lKTjNWMGdFQUw5MjVMbnBsUnMwNmdZYTdZWkRpME01MG5oTVVBaV9rN3J1XzZkVkt6aC04Zg?oc=5)
 
 2026-04-10 <span class="news-indication-tag">腫瘤</span>
@@ -68,11 +76,11 @@ permalink: /news/metoprolol/
 
 ---
 
-### [多年高血壓沒在吃藥…頭暈噁心竟中風！醫警告「這種類型」最要命](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jdFUwR0ZvT1llTGZteXdlcXZkN1Nld2lxY25FVW5FTDJONGpEaVZldG9kWUJxelJmeEwxZGJfWmliUDdzbnNSOWt0WGJ5b1QzTExJ?oc=5)
+### [小腦中風症狀像腸胃炎！翁「高血壓不控制」命危進加護](https://news.google.com/rss/articles/CBMi3wJBVV95cUxNOFFLUkoySzFJU0ZBOGFTVTYwd0xHNWl6V2pwZHltcUg1N2FnTjhaQU52Y1ktSV9wYXhhRTFwbEFaMVlxcUhTWWhYYnU0Z09ndlJXWkJkYm1FR3RkVkl3Q2U3X0hlN1paa0hoUnhjSE1MQWRfX0pQa19OV2lBRzQ4REcyYWFQWnFOQjBmMFdDcERkbmNSd1dUWUpLVU8wOHlCQzdtdWFabDJJQmt4ZGRRRl9mMEZSaGxySzJpUF8zRTBFT3JTMWhDRmM0elpneExnZnBwejRMRnppRS1aOXRkYlZpUkREeUVjZ19BNURmUFNPSXdvVk1VMkZRcDlGUGFGdXl4V05sNmswb1NxTU1IR201eWFzdnV6cG5kMEduSGo3M3RLcHc3NDV3MG1QRUdxN1dQRnYwYWlIOEpJR3U0M0xHRDV0VXRMTUc0N2pQYXZwSm9JdjJxc3kweGhtekk?oc=5)
 
-2026-04-10 <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">中風</span>
+2026-04-10 <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">腦中風</span> <span class="news-indication-tag">胃炎</span>
 
-來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jdFUwR0ZvT1llTGZteXdlcXZkN1Nld2lxY25FVW5FTDJONGpEaVZldG9kWUJxelJmeEwxZGJfWmliUDdzbnNSOWt0WGJ5b1QzTExJ?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi3wJBVV95cUxNOFFLUkoySzFJU0ZBOGFTVTYwd0xHNWl6V2pwZHltcUg1N2FnTjhaQU52Y1ktSV9wYXhhRTFwbEFaMVlxcUhTWWhYYnU0Z09ndlJXWkJkYm1FR3RkVkl3Q2U3X0hlN1paa0hoUnhjSE1MQWRfX0pQa19OV2lBRzQ4REcyYWFQWnFOQjBmMFdDcERkbmNSd1dUWUpLVU8wOHlCQzdtdWFabDJJQmt4ZGRRRl9mMEZSaGxySzJpUF8zRTBFT3JTMWhDRmM0elpneExnZnBwejRMRnppRS1aOXRkYlZpUkREeUVjZ19BNURmUFNPSXdvVk1VMkZRcDlGUGFGdXl4V05sNmswb1NxTU1IR201eWFzdnV6cG5kMEduSGo3M3RLcHc3NDV3MG1QRUdxN1dQRnYwYWlIOEpJR3U0M0xHRDV0VXRMTUc0N2pQYXZwSm9JdjJxc3kweGhtekk?oc=5)
 
 ---
 

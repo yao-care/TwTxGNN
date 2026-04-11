@@ -44,11 +44,11 @@ permalink: /news/dipyridamole/
 
 ## 相關新聞（1 則）
 
-### [多年高血壓沒在吃藥…頭暈噁心竟中風！醫警告「這種類型」最要命](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jdFUwR0ZvT1llTGZteXdlcXZkN1Nld2lxY25FVW5FTDJONGpEaVZldG9kWUJxelJmeEwxZGJfWmliUDdzbnNSOWt0WGJ5b1QzTExJ?oc=5)
+### [小腦中風症狀像腸胃炎！翁「高血壓不控制」命危進加護](https://news.google.com/rss/articles/CBMi3wJBVV95cUxNOFFLUkoySzFJU0ZBOGFTVTYwd0xHNWl6V2pwZHltcUg1N2FnTjhaQU52Y1ktSV9wYXhhRTFwbEFaMVlxcUhTWWhYYnU0Z09ndlJXWkJkYm1FR3RkVkl3Q2U3X0hlN1paa0hoUnhjSE1MQWRfX0pQa19OV2lBRzQ4REcyYWFQWnFOQjBmMFdDcERkbmNSd1dUWUpLVU8wOHlCQzdtdWFabDJJQmt4ZGRRRl9mMEZSaGxySzJpUF8zRTBFT3JTMWhDRmM0elpneExnZnBwejRMRnppRS1aOXRkYlZpUkREeUVjZ19BNURmUFNPSXdvVk1VMkZRcDlGUGFGdXl4V05sNmswb1NxTU1IR201eWFzdnV6cG5kMEduSGo3M3RLcHc3NDV3MG1QRUdxN1dQRnYwYWlIOEpJR3U0M0xHRDV0VXRMTUc0N2pQYXZwSm9JdjJxc3kweGhtekk?oc=5)
 
-2026-04-10 <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">中風</span>
+2026-04-10 <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">腦中風</span> <span class="news-indication-tag">胃炎</span>
 
-來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jdFUwR0ZvT1llTGZteXdlcXZkN1Nld2lxY25FVW5FTDJONGpEaVZldG9kWUJxelJmeEwxZGJfWmliUDdzbnNSOWt0WGJ5b1QzTExJ?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi3wJBVV95cUxNOFFLUkoySzFJU0ZBOGFTVTYwd0xHNWl6V2pwZHltcUg1N2FnTjhaQU52Y1ktSV9wYXhhRTFwbEFaMVlxcUhTWWhYYnU0Z09ndlJXWkJkYm1FR3RkVkl3Q2U3X0hlN1paa0hoUnhjSE1MQWRfX0pQa19OV2lBRzQ4REcyYWFQWnFOQjBmMFdDcERkbmNSd1dUWUpLVU8wOHlCQzdtdWFabDJJQmt4ZGRRRl9mMEZSaGxySzJpUF8zRTBFT3JTMWhDRmM0elpneExnZnBwejRMRnppRS1aOXRkYlZpUkREeUVjZ19BNURmUFNPSXdvVk1VMkZRcDlGUGFGdXl4V05sNmswb1NxTU1IR201eWFzdnV6cG5kMEduSGo3M3RLcHc3NDV3MG1QRUdxN1dQRnYwYWlIOEpJR3U0M0xHRDV0VXRMTUc0N2pQYXZwSm9JdjJxc3kweGhtekk?oc=5)
 
 ---
 
