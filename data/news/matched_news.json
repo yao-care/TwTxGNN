@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-11T06:51:34.861029+00:00",
-  "total_count": 28,
-  "matched_count": 10,
+  "last_updated": "2026-04-11T07:44:19.455514+00:00",
+  "total_count": 26,
+  "matched_count": 9,
   "news": [
     {
       "id": "6c36b44ffe2b",
@@ -570,215 +570,6 @@
       "matched_keywords": []
     },
     {
-      "id": "cb3d4ba9f554",
-      "title": "沒結婚比較容易得癌症？ 研究：未婚者罹癌風險最高增85%",
-      "published": "2026-04-10T12:53:22+00:00",
-      "summary": "沒結婚比較容易得癌症？ 研究：未婚者罹癌風險最高增85%&nbsp;&nbsp;聯合新聞網",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jNWQ0QjlhNFEycS11VFFFNDVXdWtlSlRGODBKX29FSzhoaGxWelFWQVFFMEEySW5NSVdRaHQ1ZHpXSjM1ejVaajRDdktieHFj0gFWQVVfeXFMTWxialpKekIwcTEzV2pyODFJNERBVzYtQkZFek5IZGo2aEQtYVpJTEp1U184WDVzVDJKaHBSbjRrdlBWa2NiMGhtY2pvUE9HUFNPQjZyRkE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "c3c9fdb18eda",
       "title": "科學家用「豬精液」研發抗癌眼藥水 實驗證實可縮細腫瘤 有望治療兒童眼癌保視力",
       "published": "2026-04-10T10:00:44+00:00",
@@ -1305,19 +1096,6 @@
       ]
     },
     {
-      "id": "0184af098b26",
-      "title": "預防流感、病毒感染 曬太陽就有效",
-      "published": "2026-04-09T07:00:14+00:00",
-      "summary": "預防流感、病毒感染 曬太陽就有效&nbsp;&nbsp;台視新聞網",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBENHV2M0R5YUw0eVR2UGxSLWhKeEUxRkk2YzQzTEZud1Q2dk1qMW9vMXlnVmNqMUFSU1ZqSEt3N3pXVHZqelNIOUcxQk00OEtyRjhFcmZwTQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "49213dcc2662",
       "title": "醫度問．醫度答 往期醫生回覆｜收集大家健康疑問！TOPick記者幫你問專家！【馬上提交問題】",
       "published": "2026-04-09T06:11:17+00:00",
@@ -1334,7 +1112,7 @@
       "id": "0e839dee5736",
       "title": "不用挨餓、不用減重，只要「吃」就能減肝臟脂肪！醫師教你這樣調整飲食 - TVBS 健康2.0",
       "published": "2026-04-08T05:11:09+00:00",
-      "summary": "不用挨餓、不用減重，只要「吃」就能減肝臟脂肪！醫師教你這樣調整飲食&nbsp;&nbsp;TVBS 健康2.0飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎&nbsp;&nbsp;三立新聞網SETN.com內臟脂肪殺手！「1好菌」狂燃脂、抗發炎&nbsp;&nbsp;鏡週刊Mirror Media預防流感、病毒感染，曬太陽就有效&nbsp;&nbsp;PChome Online 新聞健康網》減肥別只看腰圍 醫：內臟脂肪才是大敵！降低4招&nbsp;&nbsp;自由健康網",
+      "summary": "不用挨餓、不用減重，只要「吃」就能減肝臟脂肪！醫師教你這樣調整飲食&nbsp;&nbsp;TVBS 健康2.0飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎&nbsp;&nbsp;三立新聞網SETN.com內臟脂肪殺手！「1好菌」狂燃脂、抗發炎&nbsp;&nbsp;鏡週刊Mirror Media預防流感、病毒感染 曬太陽就有效&nbsp;&nbsp;台視新聞網健康網》減肥別只看腰圍 醫：內臟脂肪才是大敵！降低4招&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "TVBS 健康2.0",

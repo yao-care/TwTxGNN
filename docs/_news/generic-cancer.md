@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,7 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [再見大腸鏡檢查？新糞便檢測可檢測出 90% 的結腸癌](https://news.google.com/rss/articles/CBMi_wJBVV95cUxNWklGVDR6QmlDSzBvanpWZVZRU0lSYk5GdGFXdGNXTmlBT2trOUt1SXRZMEZSNHRpdnVKczF4bmdUckZpRnJOczhaaUtTMU9zNjV3bE1FVHZSYmVGTVA0X1NXS29JMnhiLXJBd3lEbjRqSHpWdDJFZFozbGtfbnlQU1RMM2pBeGhpeUNyM3I0MktsQThfZ2F0dVdBdGRiUERRTUtNU3Y0UnFvOVhtUG56YWJJX2s1Y2FEZXpVOGZsN1pVQlU4cHdULUoxMzJTMHpiZ2psTVpjMVRNOWFhX0xudGZKamxzSlJqYnpaYS1PbmtSbXVJcDRHVm9zNnZDd0tOQ1pKQ0RuZ1hNdWhtV0tEcURacjVtUWVOR1JGeTU4eW5HdjV3Ym1Sb19CWS0wNVVFZ3dYMFdveEdOZjRDZU1EQXJzeDlfa0VkTC1zTHpDYXN4MFlQM2lEclBLd2JyMHpmV0wwbXBrLUplZ3dsa2xQdjZpLWRlVTlBalZxOUNNRQ?oc=5)
 
@@ -90,14 +90,6 @@ permalink: /news/generic-cancer/
 2026-04-10
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMikgJBVV95cUxPNGxPQ1FzTG5BYnBndnItVWNVcTI1NkZiUVlWaVhYN2dNbk8tNGgwYkNzQnhJSU5GMWVOU1kzU2x4ZGdQZ0M2ZEdZRWpTak1CYm5FN213aGFUcnFYc3R3Q2RISjl2NXVPT1MtM09WZjRBcFBUUXFEZU52bnpjQ3Y2aVgwX05kdTgtNGdrODBlWE50dENLbWd1VXFUdGpTaUI3MzhMNWFWMGJlWW8zaXlPWVZ6NEpLQWRnWFViRzIwbGxBVWlla3pXQUVMWXJKc0xtU3RaN2Fnb1VKVXRIQXZUQ1JTV2RkckcxdkVPaGZ6ZmpCOFpubUR2czhzTEYta05uUThqUmtMNkM5TTRPbzFDVVZR?oc=5)
-
----
-
-### [沒結婚比較容易得癌症？ 研究：未婚者罹癌風險最高增85%](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jNWQ0QjlhNFEycS11VFFFNDVXdWtlSlRGODBKX29FSzhoaGxWelFWQVFFMEEySW5NSVdRaHQ1ZHpXSjM1ejVaajRDdktieHFj0gFWQVVfeXFMTWxialpKekIwcTEzV2pyODFJNERBVzYtQkZFek5IZGo2aEQtYVpJTEp1U184WDVzVDJKaHBSbjRrdlBWa2NiMGhtY2pvUE9HUFNPQjZyRkE?oc=5)
-
-2026-04-10
-
-來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jNWQ0QjlhNFEycS11VFFFNDVXdWtlSlRGODBKX29FSzhoaGxWelFWQVFFMEEySW5NSVdRaHQ1ZHpXSjM1ejVaajRDdktieHFj0gFWQVVfeXFMTWxialpKekIwcTEzV2pyODFJNERBVzYtQkZFek5IZGo2aEQtYVpJTEp1U184WDVzVDJKaHBSbjRrdlBWa2NiMGhtY2pvUE9HUFNPQjZyRkE?oc=5)
 
 ---
 

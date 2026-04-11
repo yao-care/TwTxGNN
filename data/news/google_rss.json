@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-11T06:51:30.862177+00:00",
-  "count": 27,
+  "fetched_at": "2026-04-11T07:44:15.751631+00:00",
+  "count": 25,
   "news": [
     {
       "id": "964e2357e119",
@@ -16,6 +16,18 @@
       ]
     },
     {
+      "id": "0e839dee5736",
+      "title": "不用挨餓、不用減重，只要「吃」就能減肝臟脂肪！醫師教你這樣調整飲食 - TVBS 健康2.0",
+      "published": "2026-04-08T05:11:09+00:00",
+      "summary": "不用挨餓、不用減重，只要「吃」就能減肝臟脂肪！醫師教你這樣調整飲食&nbsp;&nbsp;TVBS 健康2.0飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎&nbsp;&nbsp;三立新聞網SETN.com內臟脂肪殺手！「1好菌」狂燃脂、抗發炎&nbsp;&nbsp;鏡週刊Mirror Media預防流感、病毒感染 曬太陽就有效&nbsp;&nbsp;台視新聞網健康網》減肥別只看腰圍 醫：內臟脂肪才是大敵！降低4招&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02VlNoZnhkUlRrdkwtRWVlY1l1UHlPaFgyS0xYRFJWTFh1UzJiZ2F0a0R5T3VqdThVUWxPcVJXMEJ6XzFUZGMtb3gxZ25WNVhnNldN?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b57cc8213a44",
       "title": "再見大腸鏡檢查？新糞便檢測可檢測出 90% 的結腸癌 - arch-web.com.tw",
       "published": "2026-04-10T16:10:54+00:00",
@@ -24,18 +36,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNWklGVDR6QmlDSzBvanpWZVZRU0lSYk5GdGFXdGNXTmlBT2trOUt1SXRZMEZSNHRpdnVKczF4bmdUckZpRnJOczhaaUtTMU9zNjV3bE1FVHZSYmVGTVA0X1NXS29JMnhiLXJBd3lEbjRqSHpWdDJFZFozbGtfbnlQU1RMM2pBeGhpeUNyM3I0MktsQThfZ2F0dVdBdGRiUERRTUtNU3Y0UnFvOVhtUG56YWJJX2s1Y2FEZXpVOGZsN1pVQlU4cHdULUoxMzJTMHpiZ2psTVpjMVRNOWFhX0xudGZKamxzSlJqYnpaYS1PbmtSbXVJcDRHVm9zNnZDd0tOQ1pKQ0RuZ1hNdWhtV0tEcURacjVtUWVOR1JGeTU4eW5HdjV3Ym1Sb19CWS0wNVVFZ3dYMFdveEdOZjRDZU1EQXJzeDlfa0VkTC1zTHpDYXN4MFlQM2lEclBLd2JyMHpmV0wwbXBrLUplZ3dsa2xQdjZpLWRlVTlBalZxOUNNRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0e839dee5736",
-      "title": "不用挨餓、不用減重，只要「吃」就能減肝臟脂肪！醫師教你這樣調整飲食 - TVBS 健康2.0",
-      "published": "2026-04-08T05:11:09+00:00",
-      "summary": "不用挨餓、不用減重，只要「吃」就能減肝臟脂肪！醫師教你這樣調整飲食&nbsp;&nbsp;TVBS 健康2.0飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎&nbsp;&nbsp;三立新聞網SETN.com內臟脂肪殺手！「1好菌」狂燃脂、抗發炎&nbsp;&nbsp;鏡週刊Mirror Media預防流感、病毒感染，曬太陽就有效&nbsp;&nbsp;PChome Online 新聞健康網》減肥別只看腰圍 醫：內臟脂肪才是大敵！降低4招&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02VlNoZnhkUlRrdkwtRWVlY1l1UHlPaFgyS0xYRFJWTFh1UzJiZ2F0a0R5T3VqdThVUWxPcVJXMEJ6XzFUZGMtb3gxZ25WNVhnNldN?oc=5"
         }
       ]
     },
@@ -72,18 +72,6 @@
         {
           "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LUWEzeDZRMzFaVzBZTlBTbWh6OW43bC1DNUc3VGVaazBXRkRObHZPOHotZDI0RkF1WldzNk9xaDB2MndoTTkzeWJaWVpJZk1O?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cb3d4ba9f554",
-      "title": "沒結婚比較容易得癌症？ 研究：未婚者罹癌風險最高增85% - 聯合新聞網",
-      "published": "2026-04-10T12:53:22+00:00",
-      "summary": "沒結婚比較容易得癌症？ 研究：未婚者罹癌風險最高增85%&nbsp;&nbsp;聯合新聞網",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jNWQ0QjlhNFEycS11VFFFNDVXdWtlSlRGODBKX29FSzhoaGxWelFWQVFFMEEySW5NSVdRaHQ1ZHpXSjM1ejVaajRDdktieHFj0gFWQVVfeXFMTWxialpKekIwcTEzV2pyODFJNERBVzYtQkZFek5IZGo2aEQtYVpJTEp1U184WDVzVDJKaHBSbjRrdlBWa2NiMGhtY2pvUE9HUFNPQjZyRkE?oc=5"
         }
       ]
     },
@@ -156,18 +144,6 @@
         {
           "name": "民視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93TU9URlAzTUxFd05tb0RsUFlKOEdfNjluVFlGSFJBTTdJVXR5dXFrMS1VcElGb2ZjdHotYWcwTl9zLTRXSVNTTEhSdVFQN3pDTHlMczhkbkRlNGUtM2c2Rg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0184af098b26",
-      "title": "預防流感、病毒感染 曬太陽就有效 - 台視新聞網",
-      "published": "2026-04-09T07:00:14+00:00",
-      "summary": "預防流感、病毒感染 曬太陽就有效&nbsp;&nbsp;台視新聞網",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBENHV2M0R5YUw0eVR2UGxSLWhKeEUxRkk2YzQzTEZud1Q2dk1qMW9vMXlnVmNqMUFSU1ZqSEt3N3pXVHZqelNIOUcxQk00OEtyRjhFcmZwTQ?oc=5"
         }
       ]
     },
