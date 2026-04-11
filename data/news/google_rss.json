@@ -1,32 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-11T11:23:01.703854+00:00",
-  "count": 20,
+  "fetched_at": "2026-04-11T12:37:29.812628+00:00",
+  "count": 19,
   "news": [
-    {
-      "id": "7e0e4a4c1631",
-      "title": "拒嫁愛滋親戚被報復 印女遭男方強行注射「感染血液」 - TVBS新聞網",
-      "published": "2026-04-11T09:53:00+00:00",
-      "summary": "拒嫁愛滋親戚被報復 印女遭男方強行注射「感染血液」&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CV210VXpUV3ZJa1gxandfbUVySE5VeGJlcXdqRUVNajJkM2lyUkQ2MlM4NGFOc1BDQVZjdW1ORjd5UG9IeFA4SmY4Ry0tRDA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "964e2357e119",
-      "title": "血液蛋白可預測帕金森氏症？研究揭提前7年風險 專家：仍須謹慎解讀 | 信傳媒 - LINE TODAY",
-      "published": "2026-04-11T02:14:19+00:00",
-      "summary": "血液蛋白可預測帕金森氏症？研究揭提前7年風險 專家：仍須謹慎解讀 | 信傳媒&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xZ0tzMHBJMHpXSlNMU1NkWVd6dnBtWTFBZjZETVFSVVd5cWFpemtqeGpYUXN4SFNmMGJLd1loTDVWQWhWTUxTSDE5QnVrM3haY2ZtcHpB?oc=5"
-        }
-      ]
-    },
     {
       "id": "b57cc8213a44",
       "title": "再見大腸鏡檢查？新糞便檢測可檢測出 90% 的結腸癌 - arch-web.com.tw",
@@ -48,6 +24,18 @@
         {
           "name": "ENN台灣電報",
           "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE41RG9CU2RSbjNfTUVSMEVOUktQSUhockVsa3BmVWtGdnR4U2RYU2pzWlN0ekFQcW1RaGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "964e2357e119",
+      "title": "血液蛋白可預測帕金森氏症？研究揭提前7年風險 專家：仍須謹慎解讀 | 信傳媒 - LINE TODAY",
+      "published": "2026-04-11T02:14:19+00:00",
+      "summary": "血液蛋白可預測帕金森氏症？研究揭提前7年風險 專家：仍須謹慎解讀 | 信傳媒&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xZ0tzMHBJMHpXSlNMU1NkWVd6dnBtWTFBZjZETVFSVVd5cWFpemtqeGpYUXN4SFNmMGJLd1loTDVWQWhWTUxTSDE5QnVrM3haY2ZtcHpB?oc=5"
         }
       ]
     },
@@ -187,7 +175,7 @@
       "id": "52637f1effae",
       "title": "ETHealthworld 的一項重大研究顯示，大多數印度人都面臨隱性健康問題的風險 - citytimes.tw",
       "published": "2026-04-10T13:45:12+00:00",
-      "summary": "ETHealthworld 的一項重大研究顯示，大多數印度人都面臨隱性健康問題的風險&nbsp;&nbsp;citytimes.tw德里國家首都區肥胖和生活方式疾病的驚人上升：ETHealthworld 調查顯示81% 的肥胖者已接受檢查&nbsp;&nbsp;citytimes.tw健康危機：EHealthworld 稱 75% 的印度年輕人在 30 歲時面臨疾病&nbsp;&nbsp;citytimes.tw隨著健康風險加劇，80% 的印度人缺乏緊急保護：Aditya Birla Sun Life Insurance 的 अ‑Nishchit 指數 2.0 – APN 新聞&nbsp;&nbsp;citytimes.tw壽命更長但病情卻更重？調查顯示世界衛生日“健康生活”存在危險信號；印度人注重“延緩衰老”&nbsp;&nbsp;citytimes.tw",
+      "summary": "ETHealthworld 的一項重大研究顯示，大多數印度人都面臨隱性健康問題的風險&nbsp;&nbsp;citytimes.tw德里國家首都區肥胖和生活方式疾病的驚人上升：ETHealthworld 調查顯示81% 的肥胖者已接受檢查&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
           "name": "citytimes.tw",
