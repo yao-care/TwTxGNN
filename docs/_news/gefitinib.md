@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [全球6成人缺乏這種維生素中年就開始影響恐牽動失智風險- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1ldmRseUY1Q2c5VjRYVWNESVdqbGV4WXhncVp6aEpQOHFraEJvZnVZTkZpSXRmNWR1UlBZZFlwRTZSTGh4RnVidlM3ejBvNjdNODNlZVNnY1M4dWY0cDJNNzE2eU9PRkowLXJESDZn?oc=5)
 
 2026-04-11 <span class="news-indication-tag">失智</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1ldmRseUY1Q2c5VjRYVWNESVdqbGV4WXhncVp6aEpQOHFraEJvZnVZTkZpSXRmNWR1UlBZZFlwRTZSTGh4RnVidlM3ejBvNjdNODNlZVNnY1M4dWY0cDJNNzE2eU9PRkowLXJESDZn?oc=5)
+
+---
+
+### [結婚降低罹癌率？　美研究：未婚者「罹癌風險最高增83%」](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvVEptRTZCQ3hCdjBSQVVvbHh4M0Y0ZHNZTlREbmNaenJiRlhWMTRLUGVUVUN1Rm9kcVhNNF9ScGE2amd1TzVNTUVQcmpfaWN5dmdtSUtHdEJ0MXo1WGfSAWhBVV95cUxNYWlVc2tJRHNwZjBJZlR5WTd3bFFIbVR1eFUydE5yOTNybnJFSnRnVGg0YW1uUDBmUWRIOFlKVEJPSGJXVGNvQU42SWlqWVNZRmJTTXpseEJfOTU1SjVnN1JZLUxyc2RpaA?oc=5)
+
+2026-04-11 <span class="news-indication-tag">癌症</span>
+
+來源：[ETtoday新聞雲](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvVEptRTZCQ3hCdjBSQVVvbHh4M0Y0ZHNZTlREbmNaenJiRlhWMTRLUGVUVUN1Rm9kcVhNNF9ScGE2amd1TzVNTUVQcmpfaWN5dmdtSUtHdEJ0MXo1WGfSAWhBVV95cUxNYWlVc2tJRHNwZjBJZlR5WTd3bFFIbVR1eFUydE5yOTNybnJFSnRnVGg0YW1uUDBmUWRIOFlKVEJPSGJXVGNvQU42SWlqWVNZRmJTTXpseEJfOTU1SjVnN1JZLUxyc2RpaA?oc=5)
 
 ---
 

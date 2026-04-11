@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-11T08:33:31.028301+00:00",
+  "last_updated": "2026-04-11T09:32:37.978230+00:00",
   "total_count": 23,
-  "matched_count": 8,
+  "matched_count": 9,
   "news": [
     {
       "id": "6c36b44ffe2b",
@@ -29,6 +29,215 @@
       ]
     },
     {
+      "id": "8df07d8a55e0",
+      "title": "結婚降低罹癌率？　美研究：未婚者「罹癌風險最高增83%」",
+      "published": "2026-04-11T04:41:00+00:00",
+      "summary": "結婚降低罹癌率？ 美研究：未婚者「罹癌風險最高增83%」&nbsp;&nbsp;ETtoday新聞雲未婚者癌症風險誰較高 研究揭差異關鍵不在婚姻&nbsp;&nbsp;自由健康網有此一說：未婚成年人罹癌風險顯著較高&nbsp;&nbsp;大紀元沒結婚比較容易得癌症？ 研究：未婚者罹癌風險最高增85%&nbsp;&nbsp;聯合新聞網已婚罹癌率較低？研究曝女性差距更顯著 專家見結果說話了&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "ETtoday新聞雲",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvVEptRTZCQ3hCdjBSQVVvbHh4M0Y0ZHNZTlREbmNaenJiRlhWMTRLUGVUVUN1Rm9kcVhNNF9ScGE2amd1TzVNTUVQcmpfaWN5dmdtSUtHdEJ0MXo1WGfSAWhBVV95cUxNYWlVc2tJRHNwZjBJZlR5WTd3bFFIbVR1eFUydE5yOTNybnJFSnRnVGg0YW1uUDBmUWRIOFlKVEJPSGJXVGNvQU42SWlqWVNZRmJTTXpseEJfOTU1SjVnN1JZLUxyc2RpaA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "964e2357e119",
       "title": "血液蛋白可預測帕金森氏症？研究揭提前7年風險 專家：仍須謹慎解讀 | 信傳媒 - LINE TODAY",
       "published": "2026-04-11T02:14:19+00:00",
@@ -37,19 +246,6 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xZ0tzMHBJMHpXSlNMU1NkWVd6dnBtWTFBZjZETVFSVVd5cWFpemtqeGpYUXN4SFNmMGJLd1loTDVWQWhWTUxTSDE5QnVrM3haY2ZtcHpB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8e945daf01cd",
-      "title": "打瘦瘦針竟全身無力難爬樓！減重醫籲：速瘦後恐有引發肌少症疑慮",
-      "published": "2026-04-11T00:33:19+00:00",
-      "summary": "打瘦瘦針竟全身無力難爬樓！減重醫籲：速瘦後恐有引發肌少症疑慮&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQNVpKOHBZVzh5TmVET2pHeUhreDg0ZUZJRlNZYjh0bmQ2dUphelRrWlN6TDNRdTRXU0VYQ3I0QTdPYV91ZmdjVHh4bF9zVzFhdWFSb3hubTBNZmlzWC03WDRIWE5PQWFIZVp4SDIzdmxkX0UxU0JBWkpPQlM2R0RlYnB4a3haWjFRaVFESnBFdzR6TXRIcENBbmF1ZnJoUndrZ0RoTHlxTmdCQmFSaENyTzVsRzhoNWtYOWUxWVNiV0FoQXBCNkk3bXB0Ny1RaFRYWVpuNXVWRlU1ZFE1NXBpV3pPeFhEZE04d3RSZ0M2MVotY2d1ejRmVGdVSnVZZVpmVzFhQXk3NHlhWEtvNDBlbE5rRjBYLWp1aUFjRTB5TU5mN0RpcmI4amhLSWJ3N0VOaVY2aXRfR1lrOXJhR1piQzlYTUphRE55U2VYZi1QNFo1SUVyd0ZBYmJxem8xQjNENURvSXB6VUIzbXo3RDU0c3Nac2lYRTdNSXR2c0I1NnNnVzhWemRRUl94Vkh4djlZMk90UzhHWWtBZjZjUGl5cnA4YWJYQQ?oc=5"
         }
       ],
       "matched_keywords": []
