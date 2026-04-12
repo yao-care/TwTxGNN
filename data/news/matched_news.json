@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-12T22:24:56.483113+00:00",
-  "total_count": 18,
+  "last_updated": "2026-04-12T23:26:15.425502+00:00",
+  "total_count": 19,
   "matched_count": 3,
   "news": [
+    {
+      "id": "3e1d34f61023",
+      "title": "孟加拉麻疹疫情：由於疫苗缺口，兒童死亡人數上升，ETHealthworld",
+      "published": "2026-04-12T23:13:12+00:00",
+      "summary": "孟加拉麻疹疫情：由於疫苗缺口，兒童死亡人數上升，ETHealthworld&nbsp;&nbsp;citytimes.tw多地麻疹持續 衛生局籲加強注意防範&nbsp;&nbsp;澳門廣播電視股份有限公司孟加拉的麻疹疫情迅速蔓延 當局啟動緊急疫苗接種計劃&nbsp;&nbsp;香港電台新聞網麻疹疫情致百童死亡 孟加拉急推疫苗接種&nbsp;&nbsp;大紀元3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQNEtVaVh5cGhGR1p5NkFFNmdlOWE1dGtMaGY3SjFqNXNHYWdTbzh2WGFqaWN0VHlmdEFyTHIyQzFheHlyaW9xb042U0wzYmxlVmstRHUtRkpmbTMzXzA1YXNSb3hRSHVQVUpDTEJzMEoxdnExWnZ6dHU2NGhpaEU2N1hIbnkxMU1Bc0JaMEF6MFNFemR5Ty1ESFItMUZEQlVxdGU4bk9fOFdXS1ZwblJBWUdoVG5GRW9wemFSREIxQVp4Y2JvOE1PVUhjZWJHcDdBS3E1TWdrVlhBV2hxUVJzdDNzWlplZWhEVlNZNE55WnVOWERlWDY1SEhCVEtTV0lIc3Y1OTlxcENtMW9oZTU5R3NNR29ZOGhJd1hNMUUzOU5KZ2Y5dFkwajZBMjE0QWRSWjhrRVBRMG0yMVZ6Y0JBNTFEb05aMklvVjR6RHJmcnhpYUpJQnVpZFRTdEVuUnZRWHRscFVn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "5556016cd9d1",
       "title": "使用尖端奈米盤技術揭示了愛滋病毒和伊波拉病毒的隱藏漏洞",
@@ -259,14 +272,14 @@
       "matched_keywords": []
     },
     {
-      "id": "2036b3ee3032",
-      "title": "打瘦瘦針竟全身無力難爬樓！減重醫籲：速瘦後恐有引發肌少症疑慮 - PChome Online 新聞",
-      "published": "2026-04-11T00:27:20+00:00",
-      "summary": "打瘦瘦針竟全身無力難爬樓！減重醫籲：速瘦後恐有引發肌少症疑慮&nbsp;&nbsp;PChome Online 新聞",
+      "id": "4346ef28ae3a",
+      "title": "打瘦瘦針竟全身無力難爬樓！減重醫籲：速瘦後恐有引發肌少症疑慮",
+      "published": "2026-04-11T00:30:00+00:00",
+      "summary": "打瘦瘦針竟全身無力難爬樓！減重醫籲：速瘦後恐有引發肌少症疑慮&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbnRfbkRCVVZFdV9vemxjUFpHV0VMOUpMRVB6dVJFMUNmS0t2NkNHYTM0eklpTlFGa0lfUWJqNGk2U2VGZDY2THFSTUJBX3dnMExDZEI1Q2w2dTFRcENfcVJqV0NfQWRSZHg1eXhjLTBMZzBZYWVPbG9sOW50SEV5WDlFSC04M2hWVmVacHBiZ3pydGc?oc=5"
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sUWFRY2xZeWFVY3JmdE9za2xHN05sVWk0ajFnZjhXOENwc2tNYWFtU2E0TVpTcWY5UHhyenJoUWg0ZEQtOW9mdV81SkF6OWsyTmc?oc=5"
         }
       ],
       "matched_keywords": []
