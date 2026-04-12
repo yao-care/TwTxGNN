@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [中風後最怕「二次打擊」！6大生活型態，降低再中風風險- 書房](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yMXM4aHE2U2V6MnMwM1hxa0tVRy1MNjctZnZGa3ZHbVljckZLbm9VX2o2bGlrT3J2Zk9iT3VpOGlPS3RSVnJpOEVwQzJKUnE2ZzJPaE5kbF9UUC1iVWNB?oc=5)
 
@@ -49,14 +49,6 @@ permalink: /news/acebutolol/
 2026-04-10 <span class="news-indication-tag">癌症</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMikgJBVV95cUxPNGxPQ1FzTG5BYnBndnItVWNVcTI1NkZiUVlWaVhYN2dNbk8tNGgwYkNzQnhJSU5GMWVOU1kzU2x4ZGdQZ0M2ZEdZRWpTak1CYm5FN213aGFUcnFYc3R3Q2RISjl2NXVPT1MtM09WZjRBcFBUUXFEZU52bnpjQ3Y2aVgwX05kdTgtNGdrODBlWE50dENLbWd1VXFUdGpTaUI3MzhMNWFWMGJlWW8zaXlPWVZ6NEpLQWRnWFViRzIwbGxBVWlla3pXQUVMWXJKc0xtU3RaN2Fnb1VKVXRIQXZUQ1JTV2RkckcxdkVPaGZ6ZmpCOFpubUR2czhzTEYta05uUThqUmtMNkM5TTRPbzFDVVZR?oc=5)
-
----
-
-### [科學家用「豬精液」研發抗癌眼藥水 實驗證實可縮細腫瘤 有望治療兒童眼癌保視力](https://news.google.com/rss/articles/CBMi9ANBVV95cUxOZWxUTFVCTjNfc1ZTeVctTmNSbGNFOW1hNlhvWHNOMTBlbC1CLUx0SUxyUnhucGpDTUZHVUJ4eHZTNUNsRkhCM0hhOF85SVVlR0dDQ3RaZTROelUtV0MtUWVOS19vakhSUFpNeE1ndk5LYzhmRnRibzJDQTBORWxGZDNUZTM0U2FYdXo1VXNzbWFEUGU5ZWdjRm5xQTFmZTdaeWJPTVRfajc4YThzMVZsRWg5VFZOT0M2eF9RR2RoeXVHdUFyNjA5YWNra0RTUzFZTVZ4eE1OQTA0cFFZQ2lkcnJaT1lmUFZBb2tvdjlMR3MwZXBoVWpPR3FrR1ZsbEwwRmZDSkF4QTBtSFM1MmIxVmNybHgzZzUtLS1Oa3dqT2NQV3pJV1p3WjU4QWREdlZGQUF1V21BSWNFbmwyMnBMRHRCNDZITUwzdmxOd0hNQXlRdm5vd1MwdzBRVG1xVnBuR09tWUxnRWI5ejlnNVJPYnNFQlYzbzQzMFdkZlBsZFdSOW9xSzl2Ul9jNzJSZnd5SVQ0bnplejNFUE5mOUJFMUpjMWZuVFN5M3czSHNtT1RhQ1doTXJxSHZuMFNES3lKTjNWMGdFQUw5MjVMbnBsUnMwNmdZYTdZWkRpME01MG5oTVVBaV9rN3J1XzZkVkt6aC04Zg?oc=5)
-
-2026-04-10 <span class="news-indication-tag">腫瘤</span>
-
-來源：[星島頭條](https://news.google.com/rss/articles/CBMi9ANBVV95cUxOZWxUTFVCTjNfc1ZTeVctTmNSbGNFOW1hNlhvWHNOMTBlbC1CLUx0SUxyUnhucGpDTUZHVUJ4eHZTNUNsRkhCM0hhOF85SVVlR0dDQ3RaZTROelUtV0MtUWVOS19vakhSUFpNeE1ndk5LYzhmRnRibzJDQTBORWxGZDNUZTM0U2FYdXo1VXNzbWFEUGU5ZWdjRm5xQTFmZTdaeWJPTVRfajc4YThzMVZsRWg5VFZOT0M2eF9RR2RoeXVHdUFyNjA5YWNra0RTUzFZTVZ4eE1OQTA0cFFZQ2lkcnJaT1lmUFZBb2tvdjlMR3MwZXBoVWpPR3FrR1ZsbEwwRmZDSkF4QTBtSFM1MmIxVmNybHgzZzUtLS1Oa3dqT2NQV3pJV1p3WjU4QWREdlZGQUF1V21BSWNFbmwyMnBMRHRCNDZITUwzdmxOd0hNQXlRdm5vd1MwdzBRVG1xVnBuR09tWUxnRWI5ejlnNVJPYnNFQlYzbzQzMFdkZlBsZFdSOW9xSzl2Ul9jNzJSZnd5SVQ0bnplejNFUE5mOUJFMUpjMWZuVFN5M3czSHNtT1RhQ1doTXJxSHZuMFNES3lKTjNWMGdFQUw5MjVMbnBsUnMwNmdZYTdZWkRpME01MG5oTVVBaV9rN3J1XzZkVkt6aC04Zg?oc=5)
 
 ---
 
