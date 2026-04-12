@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-12T20:25:53.882090+00:00",
-  "total_count": 22,
-  "matched_count": 4,
+  "last_updated": "2026-04-12T21:25:43.547498+00:00",
+  "total_count": 20,
+  "matched_count": 3,
   "news": [
     {
       "id": "5556016cd9d1",
@@ -66,50 +66,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "2230d00e04fb",
-      "title": "中風後最怕「二次打擊」！6大生活型態，降低再中風風險- 書房",
-      "published": "2026-04-12T06:51:00+00:00",
-      "summary": "中風後最怕「二次打擊」！6大生活型態，降低再中風風險- 書房&nbsp;&nbsp;工商時報多年高血壓沒在吃藥…頭暈噁心竟中風！醫警告「這種類型」最要命&nbsp;&nbsp;中天新聞網中風後，為什麼我總是擔心疾病會再惡化？&nbsp;&nbsp;careonline.com.tw小中風症狀消失快 但恐致大麻煩 醫：不能輕視&nbsp;&nbsp;世界新聞網「小中風」常見警訊別忽視老少均有高風險因子- 國際&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yMXM4aHE2U2V6MnMwM1hxa0tVRy1MNjctZnZGa3ZHbVljckZLbm9VX2o2bGlrT3J2Zk9iT3VpOGlPS3RSVnJpOEVwQzJKUnE2ZzJPaE5kbF9UUC1iVWNB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "3452b4c8a0c2",
@@ -337,19 +293,6 @@
         {
           "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50RDZvazkzZUFDdXh1bHFPZTFJV3hjM2xZTnBTVC12UkgtMUpYbnJES2lkbktnYmd6emFTS2lRVDdTODFPeEFGZzhoeUJteURY?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "93eb36e6295c",
-      "title": "在孟加拉國，醫院人滿為患，麻疹患者數量減少",
-      "published": "2026-04-10T20:08:49+00:00",
-      "summary": "在孟加拉國，醫院人滿為患，麻疹患者數量減少&nbsp;&nbsp;arch-web.com.tw前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNaWFOTkpiZm1fSHNmOWR6VGQxTFlYc1Q4bnZCNktiRWI5UTRhYWRiZzkzS1NpZ0VPNGwzVkE3V3g2ak90bjFFV2xyU2Nkbk5xQVUtWXBBWUlfak8tNlhLUjk3Z2Z0Y1FHMnVQZ0lpa0Z5V1doSnNrcGM2Uk5ZNjJNSjB2U1lCSWZsTHNhTkg0aWFvcll4RG1teW5OaXlFUy1oSFp3d3hLeElsb1ZqTThwa3lJdjhBTUlGcW43NHFHQlBpWTZVd2RxV0oyUWVscjNoYUhLQnJXWnAwTmlDbE00Tmt1bW5HMFdMcjNYTENaVDJnUkhMU0Nra1h4MXA1Z3JzZ3FwZDdwRjc3RHNLajFYdzE1TEtpV2tmeVczS0NPZms5UmZWaWhsRWlHSktVdk1hamFWLVNqM0hRVmh2SVlhU3dYOTU0QzJXdXFTUXlMeDlNdnFuTnJwOTY3LUE0OVM5SzJidEs5SVJiRXBnZ2ZpXzZfREViQXdna1E?oc=5"
         }
       ],
       "matched_keywords": []
