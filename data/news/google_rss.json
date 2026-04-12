@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-12T14:34:51.399307+00:00",
-  "count": 26,
+  "fetched_at": "2026-04-12T15:28:58.438347+00:00",
+  "count": 24,
   "news": [
     {
       "id": "3452b4c8a0c2",
@@ -12,6 +12,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52eTJKUC1SZWRhQ196alV2TDQtUGZyblVfbG55c0FBaGNjRnh2RVM3S0hqaHA3aUxSUkpMVWZEbGxpRW1LajdYMUZTTElnN3BkVWRISHhyUjJibHBVRWtEMFM0MFHSAWpBVV95cUxPT2VSc2xZRTAzdDBBX1dIdjZGcGJIY3FqYzlDck9RS1F4VnZMNjhjRGEwTXJGYTRRVE1JcjRwYjdHR1hJN3B5ZkhUc01OYThyUXdYZFNQcEF1R0Fncm15d1NDcGhiV2haTmtn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5556016cd9d1",
+      "title": "使用尖端奈米盤技術揭示了愛滋病毒和伊波拉病毒的隱藏漏洞 - citytimes.tw",
+      "published": "2026-04-12T14:20:12+00:00",
+      "summary": "使用尖端奈米盤技術揭示了愛滋病毒和伊波拉病毒的隱藏漏洞&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQbm03TWdWU3V6VUFhMzRxLWtVelZDQmZ0cFdOWDIwWFNOUVQyZTluYmJCS2xRV3U3Tm1Na3c4d2JrLWZVSmluZkRyNHh4Q2s0YnJOdFQ0YXI5YzRST0dtQmMwQXllYnlXdFJibDluMTA0WlBCNjlCd0J3ODBFUHVHbWQyOFQ4YUd1QVBPaWtMY3ExLXJxSURvOTRSWExWdGFCM0ltTGt6SFU3ZXBrTUxSUHc4Q3FaZGlMVnNROFNtQk9NYTY3T005SWdjazUzUjhGekpGSExXRWtzOVg1MlJoRGFjcmNNWHlQNnpyc1hPdEdlRXRoSFJoQkdJUncyLTdLNEdES0h3dU9DeXhuT0JvaURaN2VsSUgyYS1jVTgyWjVUUzkzMUdCMWItYmxSUW1Qcmdtck1uOGpDY0NBaTlRSUpaSEVWaFh0Ql9HZ1BqVE13WnhyMEM3ZENZbVoxUVZDdHlSM193?oc=5"
         }
       ]
     },
@@ -36,18 +48,6 @@
         {
           "name": "womenshealthmag.com",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTh1eEVMbDZsNmlwSjhnSjVPSk9fWGJCalJvaDdsNnB0SmRZUjlnX2ZXQW5TaXRJcTZ6a2J4SGhNRXd3WHBNVjl1NmVCZmVUaXMxUktRcGpzQ25SV0JYY2tkNWdzTWZkRU50eDVqaEt1T3VBcG4yNVNjZ3Z0d2pSSTR1U1FaZ0VhNEhnM1FBcFZRcG4wUWtLazBMVU9rLTI1VW13anN6ZVZEVWplN0s0cEpWal9mejdxQUlZYjNmdmJhRGZJUE1RMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5556016cd9d1",
-      "title": "使用尖端奈米盤技術揭示了愛滋病毒和伊波拉病毒的隱藏漏洞 - citytimes.tw",
-      "published": "2026-04-12T14:20:12+00:00",
-      "summary": "使用尖端奈米盤技術揭示了愛滋病毒和伊波拉病毒的隱藏漏洞&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQbm03TWdWU3V6VUFhMzRxLWtVelZDQmZ0cFdOWDIwWFNOUVQyZTluYmJCS2xRV3U3Tm1Na3c4d2JrLWZVSmluZkRyNHh4Q2s0YnJOdFQ0YXI5YzRST0dtQmMwQXllYnlXdFJibDluMTA0WlBCNjlCd0J3ODBFUHVHbWQyOFQ4YUd1QVBPaWtMY3ExLXJxSURvOTRSWExWdGFCM0ltTGt6SFU3ZXBrTUxSUHc4Q3FaZGlMVnNROFNtQk9NYTY3T005SWdjazUzUjhGekpGSExXRWtzOVg1MlJoRGFjcmNNWHlQNnpyc1hPdEdlRXRoSFJoQkdJUncyLTdLNEdES0h3dU9DeXhuT0JvaURaN2VsSUgyYS1jVTgyWjVUUzkzMUdCMWItYmxSUW1Qcmdtck1uOGpDY0NBaTlRSUpaSEVWaFh0Ql9HZ1BqVE13WnhyMEM3ZENZbVoxUVZDdHlSM193?oc=5"
         }
       ]
     },
@@ -112,18 +112,6 @@
       ]
     },
     {
-      "id": "c49e593aa003",
-      "title": "不嫁就毀掉妳！狠男強注「愛滋血」報復　24歲印女崩潰輕生 - ETtoday新聞雲",
-      "published": "2026-04-11T11:16:00+00:00",
-      "summary": "不嫁就毀掉妳！狠男強注「愛滋血」報復 24歲印女崩潰輕生&nbsp;&nbsp;ETtoday新聞雲24歲女拒嫁愛滋男！竟遭強行注射「感染血液」 崩潰走上絕路&nbsp;&nbsp;Yahoo新聞得不到就毀掉！印度男遭拒婚竟注射「愛滋血」報復 女崩潰輕生&nbsp;&nbsp;NOWnews今日新聞不嫁就染病！印男注「愛滋血」報復 24歲女崩潰輕生&nbsp;&nbsp;東森新聞拒嫁愛滋親戚被報復 印女遭男方強行注射「感染血液」&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "ETtoday新聞雲",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90SVh5Mm9Relp5V1NTXzVPaU5rY3NiVnZnRkpQNm1KVXRfQlJkSE85empnZ2ZpSWVDaXd0dmNPMDBvRHA3Wmc1aF94NHNRRmx4bXI5aWg4ZE11Zm9uZGfSAWhBVV95cUxPZHhEVWN5YnZ0QS0ySnlOdFJlYk1PTnZGNG9sQ09KRmpzRkY4NmRXaHhBMlMzZzBQVlJaUXFPWFp6MXYxQ2tLVHY3blVoSi1DYnFkbDFzaVRpd0hfbm4tbVl5dUVXWEM5bA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "964e2357e119",
       "title": "血液蛋白可預測帕金森氏症？研究揭提前7年風險 專家：仍須謹慎解讀 | 信傳媒 - LINE TODAY",
       "published": "2026-04-11T02:14:19+00:00",
@@ -168,18 +156,6 @@
         {
           "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50RDZvazkzZUFDdXh1bHFPZTFJV3hjM2xZTnBTVC12UkgtMUpYbnJES2lkbktnYmd6emFTS2lRVDdTODFPeEFGZzhoeUJteURY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "644e6934c002",
-      "title": "常見營養素可以增強癌症治療效果 - citytimes.tw",
-      "published": "2026-04-10T14:09:55+00:00",
-      "summary": "常見營養素可以增強癌症治療效果&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPNGxPQ1FzTG5BYnBndnItVWNVcTI1NkZiUVlWaVhYN2dNbk8tNGgwYkNzQnhJSU5GMWVOU1kzU2x4ZGdQZ0M2ZEdZRWpTak1CYm5FN213aGFUcnFYc3R3Q2RISjl2NXVPT1MtM09WZjRBcFBUUXFEZU52bnpjQ3Y2aVgwX05kdTgtNGdrODBlWE50dENLbWd1VXFUdGpTaUI3MzhMNWFWMGJlWW8zaXlPWVZ6NEpLQWRnWFViRzIwbGxBVWlla3pXQUVMWXJKc0xtU3RaN2Fnb1VKVXRIQXZUQ1JTV2RkckcxdkVPaGZ6ZmpCOFpubUR2czhzTEYta05uUThqUmtMNkM5TTRPbzFDVVZR?oc=5"
         }
       ]
     },
@@ -268,18 +244,6 @@
       ]
     },
     {
-      "id": "4f95fca9f8ee",
-      "title": "徹底改變印度的心臟護理：先進支架和患者參與的作用，EHealthworld - citytimes.tw",
-      "published": "2026-04-10T18:42:49+00:00",
-      "summary": "徹底改變印度的心臟護理：先進支架和患者參與的作用，EHealthworld&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNcU10R0xlV0I0X2JPU0JOdEhpYnU3Z1hsb2F2QVlycFN1cFdkaDBjN2JVeDFzSEl4RUd3S1pFTnhnb25WQUFjVl9NQk4zM3lqRDVHTTY2WkdzVkJCLVhvZTB1c2tYdTc2UUMyQVBFVDRaWHNqRWZOX1R4ZXBDR2QyclNFX1pzNkhhTmhqT1JmN0FuUnI2NjVjUW4ydkRsMGh0U0tsQVNKUGZnQkdaX2VuNGV2cFZkOXh3WlNDcGxYV2xKR3RpaEw1X1EwWEFwd1djdXhoeDlIVUctTC02ejl1azU5ZE9qVk8tODlSZ2NXQk9uYThaazN5ZVF0bW9Ldk9VU2hCbzQ0S3ZpLWR5UGNCa3pLSEwzVXl5QzV3V2V0YXZrM1FxdVJLZm0yQ2x0bDFRSFJQVmlmSDR6czVtdFo3SFZrVzFQX2FRQ2x3LVFEYzVNSG9hMTVjbVF6LWk5MURXSFJ4d2NR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5966c10497bb",
       "title": "多吃類黃酮食物助抗衰老？研究揭晚年身體虛弱/情緒病風險更低 每朝飲橙汁喚活細胞防腦退化 - 星島頭條",
       "published": "2026-04-12T01:00:00+00:00",
@@ -288,6 +252,18 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMivARBVV95cUxPSERhVnZ1ckxuOEJFNko3emxiZXg0RkFoQTlyN3luVVBSQWwxTHN4cjFaSnFjMDI2aEJiS0F3WHdhd0VQWHpjRUFFblQ4ZHZ1M0lteVI5VENxRHhVVjBmbWs3N1N5Ym91Y2YxNWJGTzZvbTNNbVItUXB2b3dUdmFVQkpvYXJ5R3gwbnZCb01SRi1zcEI5UjQ4TWQtRmVMcElJZWl0dmtpMHBMMjlvVndBeGtJQzJsQURPOWRGS3kyU29ObGNlbVJTTTNVaW9CTFQxM2MtTmFlNUpYZEFqYmVTWlI5VWRuOTNWMjdIOE0wdjl3YnNxYllyQ2VXMXFpNk8waDh2ejl5dm9FMkhRODVTNzR6bVNwQkFmNTEtWFplV1huZlVBZmlPSUVyMHRNQnRXemU2eVZCaXpwSS1qRTZsc051QmZiOVdSMHI1R3pwbWhKcnVmRzloUnFwYmxGTHNDczNWbnZRSGdCWFBQX0c5blpyMDFiRmZzOTlJZzdvMVpLLUNENWhhTDkzUkdiVFJtNm9hS3ZLS2ZZVXAtTzdNcmJoM0JYU0RkNllxSkRUc0JSRHZuazFzaEdLZVBZSEJhM1E2alF6VTFPMTRuN3Z6UnpCWXp6NHg1b3hFVDNUSmpxWEZhOWRHcnlDMFVuWUtsUHh3UmF1MmJqMElLc0xjMktqV1BUWWx4cUR2Tl8tWk1teGVtV3NrQ0JvNk5DUENMOUdBbEl0UWJBZThaWEVyRWk3Y0hGbDhiUTcxVg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4f95fca9f8ee",
+      "title": "徹底改變印度的心臟護理：先進支架和患者參與的作用，EHealthworld - citytimes.tw",
+      "published": "2026-04-10T18:42:49+00:00",
+      "summary": "徹底改變印度的心臟護理：先進支架和患者參與的作用，EHealthworld&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNcU10R0xlV0I0X2JPU0JOdEhpYnU3Z1hsb2F2QVlycFN1cFdkaDBjN2JVeDFzSEl4RUd3S1pFTnhnb25WQUFjVl9NQk4zM3lqRDVHTTY2WkdzVkJCLVhvZTB1c2tYdTc2UUMyQVBFVDRaWHNqRWZOX1R4ZXBDR2QyclNFX1pzNkhhTmhqT1JmN0FuUnI2NjVjUW4ydkRsMGh0U0tsQVNKUGZnQkdaX2VuNGV2cFZkOXh3WlNDcGxYV2xKR3RpaEw1X1EwWEFwd1djdXhoeDlIVUctTC02ejl1azU5ZE9qVk8tODlSZ2NXQk9uYThaazN5ZVF0bW9Ldk9VU2hCbzQ0S3ZpLWR5UGNCa3pLSEwzVXl5QzV3V2V0YXZrM1FxdVJLZm0yQ2x0bDFRSFJQVmlmSDR6czVtdFo3SFZrVzFQX2FRQ2x3LVFEYzVNSG9hMTVjbVF6LWk5MURXSFJ4d2NR?oc=5"
         }
       ]
     },
