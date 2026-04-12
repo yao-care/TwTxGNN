@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-12T08:51:05.135894+00:00",
-  "total_count": 29,
+  "last_updated": "2026-04-12T09:38:21.585836+00:00",
+  "total_count": 28,
   "matched_count": 8,
   "news": [
     {
@@ -199,14 +199,14 @@
       "matched_keywords": []
     },
     {
-      "id": "20a847533baa",
+      "id": "5fbbf49e1927",
       "title": "長新冠罹患認知障礙風險高近4倍",
-      "published": "2026-04-11T20:25:53+00:00",
-      "summary": "長新冠罹患認知障礙風險高近4倍&nbsp;&nbsp;中時新聞網",
+      "published": "2026-04-11T20:10:00+00:00",
+      "summary": "長新冠罹患認知障礙風險高近4倍&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qLURfbWRBY0g5c3JsRk1OX1RsUFBTc3hWN0ZDSmR0dnFMQ0U5Wmh4T0tEWF9wZGpuc0lteW9kaVEtalZ5ZFVxVHhaWGRkMWI3MjFfdFNMbDUtR0FrUWlBaUltdjdtU29rTlhz?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVDZMYUtUbWZra205aW40M1VTWHZZTGVIWElRWUNObU9mYXFVd1JOWkpsSTZhOXhQdHY4X3ZtQ1dtMFVwUFdHeV9aQkUzQVplYV9GalIzUjJ0Vy1CMGEtY1Q5TjFDNkRNTkdyaXdBZmRwYTVvRzB6S0hTczJ6bk5SZXJvQW9kal9MazZjTGdkS05iaDcwSXY5azZtNGlzdkE3bnZ4Y1A0VVFqTVNBTm50SWk5RDJkRmR2Rm91aGxCRmtSQWxnNTFLMkxIbFNvMnZ0M08xSzdlNHVPWGhXWmxhbXB6V2xWWTZRTVFwbUpEOXFSekdjUWw1dEowLWw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1099,19 +1099,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1cd499212e09",
-      "title": "零卡代糖能減肥？醫揭殘酷真相：糖尿病風險增6成！教3招化解- 營養好食 - TVBS 健康2.0",
-      "published": "2026-04-10T08:44:04+00:00",
-      "summary": "零卡代糖能減肥？醫揭殘酷真相：糖尿病風險增6成！教3招化解- 營養好食&nbsp;&nbsp;TVBS 健康2.0前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5US3VHSG9yeUcweGZlMnpLc2xfUHFqSEE5ZV9NSWhKRzcwUFhzNUZPbXhMb0J1eUZTWk5SZDFadE1aNndwR084ODl6WUZTdk56dFJBUkdn?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "0e839dee5736",
