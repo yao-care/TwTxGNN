@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-12T06:19:46.505084+00:00",
-  "count": 27,
+  "fetched_at": "2026-04-12T07:58:35.994689+00:00",
+  "count": 28,
   "news": [
     {
       "id": "9116ae8136a8",
@@ -55,7 +55,7 @@
       "id": "371d8ce1ae7d",
       "title": "GLP-1藥物研究揭示多重潛力 仿冒危機與新口服療法引關注 - ENN台灣電報",
       "published": "2026-04-10T08:22:23+00:00",
-      "summary": "GLP-1藥物研究揭示多重潛力 仿冒危機與新口服療法引關注&nbsp;&nbsp;ENN台灣電報打瘦瘦針恐缺營養？研究示警：GLP-1減重藥，恐影響維生素與礦物質吸收&nbsp;&nbsp;Yahoo新聞同樣服用減肥藥，你的效果為何不如別人&nbsp;&nbsp;华尔街日报中文网Ozempic Face 真正的元兇，別讓GLP-1瘦瘦針減了 30 公斤卻老了 20 歲&nbsp;&nbsp;聯合新聞網美國聯邦將打擊仿冒減重藥 病患健康恐陷風險&nbsp;&nbsp;蕃新聞",
+      "summary": "GLP-1藥物研究揭示多重潛力 仿冒危機與新口服療法引關注&nbsp;&nbsp;ENN台灣電報打瘦瘦針恐缺營養？研究示警：GLP-1減重藥，恐影響維生素與礦物質吸收&nbsp;&nbsp;Yahoo新聞臭氧碎骨？一項小型研究如何變成一個大健康迷思？&nbsp;&nbsp;arch-web.com.tw同樣服用減肥藥，你的效果為何不如別人&nbsp;&nbsp;华尔街日报中文网美國聯邦將打擊仿冒減重藥 病患健康恐陷風險&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
           "name": "ENN台灣電報",
@@ -76,18 +76,6 @@
       ]
     },
     {
-      "id": "b5b16df5c1ad",
-      "title": "比BMI還準！1指標「可測死亡風險」 - 鏡週刊Mirror Media",
-      "published": "2026-04-11T07:42:00+00:00",
-      "summary": "比BMI還準！1指標「可測死亡風險」&nbsp;&nbsp;鏡週刊Mirror Media比BMI還準！1指標「可測死亡風險」 最新研究證實了&nbsp;&nbsp;三立新聞網SETN.com高齡過度節食非好事 營養師：老人微胖較長壽&nbsp;&nbsp;自由健康網早期體重增加與終身健康後果相關&nbsp;&nbsp;citytimes.tw這年紀的你，微胖比較長壽！營養師揭：70歲時體重維持「這範圍」比較長壽&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqdjRscVF5YzFFSzA0NXRlc1g0ZmY1b3RuR1RyNTNsalBhQUZFUERyNWgxc2JleVd6SkxNZGt1OG5KZkRLSV9sWE1Qdnhqb05nb0tpLWFNR2dHLWtX0gFiQVVfeXFMTTg5T0cyRHBpa21iaVE4Y2x4TGk1MHZrSElPYVN6Vkc1Rm40SHc2TWdsN29XQUFwaTgyMVBWZE1TVS1xXzFNWUIyQzY3bWxMWFlsOWEzVl9FV3JxY3EyUGltWHc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7f65784be0c0",
       "title": "健康網》內臟脂肪比肥胖更危險 醫曝「這4招」不挨餓有助降脂 - 自由健康網",
       "published": "2026-04-08T03:57:00+00:00",
@@ -100,10 +88,22 @@
       ]
     },
     {
+      "id": "b5b16df5c1ad",
+      "title": "比BMI還準！1指標「可測死亡風險」 - 鏡週刊Mirror Media",
+      "published": "2026-04-11T07:42:00+00:00",
+      "summary": "比BMI還準！1指標「可測死亡風險」&nbsp;&nbsp;鏡週刊Mirror Media比BMI還準！1指標「可測死亡風險」 最新研究證實了&nbsp;&nbsp;三立新聞網SETN.com高齡過度節食非好事 營養師：老人微胖較長壽&nbsp;&nbsp;自由健康網早期體重增加與終身健康後果相關&nbsp;&nbsp;citytimes.tw這年紀的你，微胖比較長壽！營養師揭：70歲時體重維持「這範圍」比較長壽&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqdjRscVF5YzFFSzA0NXRlc1g0ZmY1b3RuR1RyNTNsalBhQUZFUERyNWgxc2JleVd6SkxNZGt1OG5KZkRLSV9sWE1Qdnhqb05nb0tpLWFNR2dHLWtX0gFiQVVfeXFMTTg5T0cyRHBpa21iaVE4Y2x4TGk1MHZrSElPYVN6Vkc1Rm40SHc2TWdsN29XQUFwaTgyMVBWZE1TVS1xXzFNWUIyQzY3bWxMWFlsOWEzVl9FV3JxY3EyUGltWHc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c49e593aa003",
       "title": "不嫁就毀掉妳！狠男強注「愛滋血」報復　24歲印女崩潰輕生 - ETtoday新聞雲",
       "published": "2026-04-11T11:16:00+00:00",
-      "summary": "不嫁就毀掉妳！狠男強注「愛滋血」報復 24歲印女崩潰輕生&nbsp;&nbsp;ETtoday新聞雲前往 Google 新聞查看完整報導",
+      "summary": "不嫁就毀掉妳！狠男強注「愛滋血」報復 24歲印女崩潰輕生&nbsp;&nbsp;ETtoday新聞雲拒嫁愛滋親戚被報復 印女遭男方強行注射「感染血液」&nbsp;&nbsp;TVBS新聞網24歲女拒嫁愛滋男！竟遭強行注射「感染血液」 崩潰走上絕路&nbsp;&nbsp;鏡週刊Mirror Media【不嫁就毀掉妳！狠印男強注「愛滋血」報復 24歲女崩潰輕生】 （#大表哥）&nbsp;&nbsp;facebook.com得不到就毀掉！印度男遭拒婚竟注射「愛滋血」報復 女崩潰輕生&nbsp;&nbsp;NOWnews今日新聞",
       "sources": [
         {
           "name": "ETtoday新聞雲",
@@ -160,6 +160,18 @@
       ]
     },
     {
+      "id": "2230d00e04fb",
+      "title": "中風後最怕「二次打擊」！6大生活型態，降低再中風風險- 書房 - 工商時報",
+      "published": "2026-04-12T06:51:00+00:00",
+      "summary": "中風後最怕「二次打擊」！6大生活型態，降低再中風風險- 書房&nbsp;&nbsp;工商時報多年高血壓沒在吃藥…頭暈噁心竟中風！醫警告「這種類型」最要命&nbsp;&nbsp;中天新聞網中風後，為什麼我總是擔心疾病會再惡化？&nbsp;&nbsp;careonline.com.tw小中風症狀消失快 但恐致大麻煩 醫：不能輕視&nbsp;&nbsp;世界新聞網「小中風」常見警訊別忽視老少均有高風險因子- 國際&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yMXM4aHE2U2V6MnMwM1hxa0tVRy1MNjctZnZGa3ZHbVljckZLbm9VX2o2bGlrT3J2Zk9iT3VpOGlPS3RSVnJpOEVwQzJKUnE2ZzJPaE5kbF9UUC1iVWNB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "644e6934c002",
       "title": "常見營養素可以增強癌症治療效果 - citytimes.tw",
       "published": "2026-04-10T14:09:55+00:00",
@@ -184,14 +196,14 @@
       ]
     },
     {
-      "id": "6658fbb93148",
-      "title": "研究揭大腦會欺騙味覺 告訴你「飲料含糖」評價竟變高 - 科技島",
-      "published": "2026-04-10T08:35:37+00:00",
-      "summary": "研究揭大腦會欺騙味覺 告訴你「飲料含糖」評價竟變高&nbsp;&nbsp;科技島",
+      "id": "bb7f3085a102",
+      "title": "你的大腦會欺騙你喜歡人工甜味劑。 - arch-web.com.tw",
+      "published": "2026-04-10T17:20:25+00:00",
+      "summary": "你的大腦會欺騙你喜歡人工甜味劑。&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NS3JNMzlwSzNjWVd1elFqOU1mZndBUFdGZldkYVJqeGVMcG56UTdHalVBOHlkTmNmeFRvdVN1eFFDM2ZCSl9ESGgtNE1BNktXVjJNNDZlb09pTEY0VGEw?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNYnNUYmxIeC1UenhLbEF4QTJuWWtpN1MyTm9FOXdZeXZFdEk1X2U5UXR3VUdKaHRLbVZWakpRZ0tfNWZGaHFpc1BkRVVaLVN6dnc0eVpoM1ZYQWRwZnNzT2otVVpmMmZBSTJ3QnllY3NoYlIzZTRWT01IcXJGajVFRGZsaTQwS0thdVB2TDlLeU5KZFVXWlFEbEwxa0FwbURPVXNrLXdfZzczRWxyOF81WEc0NGpMM095UWJVVlNjeGlVcWgtNndyb1pQdXhhVDdWWkFtbHlRZTRXd1doVnlkYmZndXRtR1ZSb1RnU1JqeWdWMVNGb3lvRk1VLTFSX3Y1Q09HZnRKUDM0Qm5UQXJGZVdvcm5oS2hycGpKcE51Xy1sWHh3SlE0MmZsR1Z4SXJLRmdEZXl6N3RhdVItZWc?oc=5"
         }
       ]
     },
@@ -256,18 +268,6 @@
       ]
     },
     {
-      "id": "52637f1effae",
-      "title": "ETHealthworld 的一項重大研究顯示，大多數印度人都面臨隱性健康問題的風險 - citytimes.tw",
-      "published": "2026-04-10T13:45:12+00:00",
-      "summary": "ETHealthworld 的一項重大研究顯示，大多數印度人都面臨隱性健康問題的風險&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPY0ZUdnVlc1JNYTVNOHd4RDVBM2dkRGc1QzRLbDg2Vl9TM0ZCVG5GVnd6NFhPa0lYLWhUbERXSVI4OG84LVY0UVVsQzk4THBuLTVGNWRnZ3Z5TE1HSHN6cmVWdFc3WENGclI2V3lxMDZmSWRWOVhXSUpxN3pWMDFucXQ4b0NyTDRXRllhcXh4WGNJNDEtR1ZHdmlhbmlaaktuZ0pwSENXeXN1aVp4a2ZrM2FzNTN2UEhtOTUwN2JaUExhRTJKbzYzbjZjMHhMSW5nQS1vU3hscndOT0hfQW9lX3dOMGYtNjljOGdoSzY3THVMb2VnUFp3ZU9pbXBvTmJ0Z3NvT0RMS05RbjdwejUway1kN1lFOGNvT2pDa0hieXFTZDBfb2JEQTNTdVVHM21MQ3pHSjhlT2xaNFhQT2hDUUVMYUFGN0puWGFYZGgxUjV0aF8wSk00al9vSWp0dXNZ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5966c10497bb",
       "title": "多吃類黃酮食物助抗衰老？研究揭晚年身體虛弱/情緒病風險更低 每朝飲橙汁喚活細胞防腦退化 - 星島頭條",
       "published": "2026-04-12T01:00:00+00:00",
@@ -276,6 +276,18 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMivARBVV95cUxPSERhVnZ1ckxuOEJFNko3emxiZXg0RkFoQTlyN3luVVBSQWwxTHN4cjFaSnFjMDI2aEJiS0F3WHdhd0VQWHpjRUFFblQ4ZHZ1M0lteVI5VENxRHhVVjBmbWs3N1N5Ym91Y2YxNWJGTzZvbTNNbVItUXB2b3dUdmFVQkpvYXJ5R3gwbnZCb01SRi1zcEI5UjQ4TWQtRmVMcElJZWl0dmtpMHBMMjlvVndBeGtJQzJsQURPOWRGS3kyU29ObGNlbVJTTTNVaW9CTFQxM2MtTmFlNUpYZEFqYmVTWlI5VWRuOTNWMjdIOE0wdjl3YnNxYllyQ2VXMXFpNk8waDh2ejl5dm9FMkhRODVTNzR6bVNwQkFmNTEtWFplV1huZlVBZmlPSUVyMHRNQnRXemU2eVZCaXpwSS1qRTZsc051QmZiOVdSMHI1R3pwbWhKcnVmRzloUnFwYmxGTHNDczNWbnZRSGdCWFBQX0c5blpyMDFiRmZzOTlJZzdvMVpLLUNENWhhTDkzUkdiVFJtNm9hS3ZLS2ZZVXAtTzdNcmJoM0JYU0RkNllxSkRUc0JSRHZuazFzaEdLZVBZSEJhM1E2alF6VTFPMTRuN3Z6UnpCWXp6NHg1b3hFVDNUSmpxWEZhOWRHcnlDMFVuWUtsUHh3UmF1MmJqMElLc0xjMktqV1BUWWx4cUR2Tl8tWk1teGVtV3NrQ0JvNk5DUENMOUdBbEl0UWJBZThaWEVyRWk3Y0hGbDhiUTcxVg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "52637f1effae",
+      "title": "ETHealthworld 的一項重大研究顯示，大多數印度人都面臨隱性健康問題的風險 - citytimes.tw",
+      "published": "2026-04-10T13:45:12+00:00",
+      "summary": "ETHealthworld 的一項重大研究顯示，大多數印度人都面臨隱性健康問題的風險&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPY0ZUdnVlc1JNYTVNOHd4RDVBM2dkRGc1QzRLbDg2Vl9TM0ZCVG5GVnd6NFhPa0lYLWhUbERXSVI4OG84LVY0UVVsQzk4THBuLTVGNWRnZ3Z5TE1HSHN6cmVWdFc3WENGclI2V3lxMDZmSWRWOVhXSUpxN3pWMDFucXQ4b0NyTDRXRllhcXh4WGNJNDEtR1ZHdmlhbmlaaktuZ0pwSENXeXN1aVp4a2ZrM2FzNTN2UEhtOTUwN2JaUExhRTJKbzYzbjZjMHhMSW5nQS1vU3hscndOT0hfQW9lX3dOMGYtNjljOGdoSzY3THVMb2VnUFp3ZU9pbXBvTmJ0Z3NvT0RMS05RbjdwejUway1kN1lFOGNvT2pDa0hieXFTZDBfb2JEQTNTdVVHM21MQ3pHSjhlT2xaNFhQT2hDUUVMYUFGN0puWGFYZGgxUjV0aF8wSk00al9vSWp0dXNZ?oc=5"
         }
       ]
     },

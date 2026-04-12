@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-04-12T06:19:58.128341+00:00",
-  "total_count": 28,
-  "matched_count": 7,
+  "last_updated": "2026-04-12T07:58:49.566246+00:00",
+  "total_count": 29,
+  "matched_count": 8,
   "news": [
+    {
+      "id": "2230d00e04fb",
+      "title": "中風後最怕「二次打擊」！6大生活型態，降低再中風風險- 書房",
+      "published": "2026-04-12T06:51:00+00:00",
+      "summary": "中風後最怕「二次打擊」！6大生活型態，降低再中風風險- 書房&nbsp;&nbsp;工商時報多年高血壓沒在吃藥…頭暈噁心竟中風！醫警告「這種類型」最要命&nbsp;&nbsp;中天新聞網中風後，為什麼我總是擔心疾病會再惡化？&nbsp;&nbsp;careonline.com.tw小中風症狀消失快 但恐致大麻煩 醫：不能輕視&nbsp;&nbsp;世界新聞網「小中風」常見警訊別忽視老少均有高風險因子- 國際&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yMXM4aHE2U2V6MnMwM1hxa0tVRy1MNjctZnZGa3ZHbVljckZLbm9VX2o2bGlrT3J2Zk9iT3VpOGlPS3RSVnJpOEVwQzJKUnE2ZzJPaE5kbF9UUC1iVWNB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "50c355c86472",
       "title": "哥倫比亞的庫欣氏症候群：他們警告說，一種無聲的疾病會增加糖尿病和心血管疾病的風險",
@@ -158,7 +202,7 @@
       "id": "c49e593aa003",
       "title": "不嫁就毀掉妳！狠男強注「愛滋血」報復　24歲印女崩潰輕生",
       "published": "2026-04-11T11:16:00+00:00",
-      "summary": "不嫁就毀掉妳！狠男強注「愛滋血」報復 24歲印女崩潰輕生&nbsp;&nbsp;ETtoday新聞雲前往 Google 新聞查看完整報導",
+      "summary": "不嫁就毀掉妳！狠男強注「愛滋血」報復 24歲印女崩潰輕生&nbsp;&nbsp;ETtoday新聞雲拒嫁愛滋親戚被報復 印女遭男方強行注射「感染血液」&nbsp;&nbsp;TVBS新聞網24歲女拒嫁愛滋男！竟遭強行注射「感染血液」 崩潰走上絕路&nbsp;&nbsp;鏡週刊Mirror Media【不嫁就毀掉妳！狠印男強注「愛滋血」報復 24歲女崩潰輕生】 （#大表哥）&nbsp;&nbsp;facebook.com得不到就毀掉！印度男遭拒婚竟注射「愛滋血」報復 女崩潰輕生&nbsp;&nbsp;NOWnews今日新聞",
       "sources": [
         {
           "name": "ETtoday新聞雲",
@@ -292,6 +336,19 @@
         {
           "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LUWEzeDZRMzFaVzBZTlBTbWh6OW43bC1DNUc3VGVaazBXRkRObHZPOHotZDI0RkF1WldzNk9xaDB2MndoTTkzeWJaWVpJZk1O?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "bb7f3085a102",
+      "title": "你的大腦會欺騙你喜歡人工甜味劑。",
+      "published": "2026-04-10T17:20:25+00:00",
+      "summary": "你的大腦會欺騙你喜歡人工甜味劑。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNYnNUYmxIeC1UenhLbEF4QTJuWWtpN1MyTm9FOXdZeXZFdEk1X2U5UXR3VUdKaHRLbVZWakpRZ0tfNWZGaHFpc1BkRVVaLVN6dnc0eVpoM1ZYQWRwZnNzT2otVVpmMmZBSTJ3QnllY3NoYlIzZTRWT01IcXJGajVFRGZsaTQwS0thdVB2TDlLeU5KZFVXWlFEbEwxa0FwbURPVXNrLXdfZzczRWxyOF81WEc0NGpMM095UWJVVlNjeGlVcWgtNndyb1pQdXhhVDdWWkFtbHlRZTRXd1doVnlkYmZndXRtR1ZSb1RnU1JqeWdWMVNGb3lvRk1VLTFSX3Y1Q09HZnRKUDM0Qm5UQXJGZVdvcm5oS2hycGpKcE51Xy1sWHh3SlE0MmZsR1Z4SXJLRmdEZXl6N3RhdVItZWc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1044,23 +1101,10 @@
       "matched_keywords": []
     },
     {
-      "id": "6658fbb93148",
-      "title": "研究揭大腦會欺騙味覺 告訴你「飲料含糖」評價竟變高",
-      "published": "2026-04-10T08:35:37+00:00",
-      "summary": "研究揭大腦會欺騙味覺 告訴你「飲料含糖」評價竟變高&nbsp;&nbsp;科技島",
-      "sources": [
-        {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NS3JNMzlwSzNjWVd1elFqOU1mZndBUFdGZldkYVJqeGVMcG56UTdHalVBOHlkTmNmeFRvdVN1eFFDM2ZCSl9ESGgtNE1BNktXVjJNNDZlb09pTEY0VGEw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "371d8ce1ae7d",
       "title": "GLP-1藥物研究揭示多重潛力 仿冒危機與新口服療法引關注",
       "published": "2026-04-10T08:22:23+00:00",
-      "summary": "GLP-1藥物研究揭示多重潛力 仿冒危機與新口服療法引關注&nbsp;&nbsp;ENN台灣電報打瘦瘦針恐缺營養？研究示警：GLP-1減重藥，恐影響維生素與礦物質吸收&nbsp;&nbsp;Yahoo新聞同樣服用減肥藥，你的效果為何不如別人&nbsp;&nbsp;华尔街日报中文网Ozempic Face 真正的元兇，別讓GLP-1瘦瘦針減了 30 公斤卻老了 20 歲&nbsp;&nbsp;聯合新聞網美國聯邦將打擊仿冒減重藥 病患健康恐陷風險&nbsp;&nbsp;蕃新聞",
+      "summary": "GLP-1藥物研究揭示多重潛力 仿冒危機與新口服療法引關注&nbsp;&nbsp;ENN台灣電報打瘦瘦針恐缺營養？研究示警：GLP-1減重藥，恐影響維生素與礦物質吸收&nbsp;&nbsp;Yahoo新聞臭氧碎骨？一項小型研究如何變成一個大健康迷思？&nbsp;&nbsp;arch-web.com.tw同樣服用減肥藥，你的效果為何不如別人&nbsp;&nbsp;华尔街日报中文网美國聯邦將打擊仿冒減重藥 病患健康恐陷風險&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
           "name": "ENN台灣電報",
