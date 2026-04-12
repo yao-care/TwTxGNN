@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [哥倫比亞的庫欣氏症候群：他們警告說，一種無聲的疾病會增加糖尿病和心血管疾病的風險](https://news.google.com/rss/articles/CBMi5gJBVV95cUxQZ0FhaW5jdVVobTQyNnVsdHk5dEE5RWlsWk9lMVZ1eXNCV1BGY0tJeldjckIzbmk2dUVNY3YzZ2FhajZRVGI4NmZ0dUNxLUkwREw4VnFlWEo3aU5QektXMzVUZU9fdTA5XzZmd0tIMFc3RHBGM3FrNVRJWEFRQ1RFNkZwUWloVV9VS0ZpR3c4bThlaFpEeG04MTl0VjJBSHJxVlYyZlZ1NnpyWjlGOF9uYmR0VzBVSjBTUVY1bVY4cTB3c0NMZFo5b3hOb200cVJ1LUhWNUd0Qk16QzNYYVRUeG9KMExOMEJVbWhXS3hpd3J3aEM3ci1aQlB1SFM1RXpnV0Y5Z0N0dnVpX3lXZjFUTS1SS0lOSTVFamhYdFlfOUQ3Z3N5MkVYRXhDVS1ZNnBNcUJPandraGU0WTE3X1lqUjdrWTZOZkM1NnNJZkZXeTRmcUVIbVdfbGs2cFVjUjVaLXpNVGF3?oc=5)
+
+2026-04-12 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxQZ0FhaW5jdVVobTQyNnVsdHk5dEE5RWlsWk9lMVZ1eXNCV1BGY0tJeldjckIzbmk2dUVNY3YzZ2FhajZRVGI4NmZ0dUNxLUkwREw4VnFlWEo3aU5QektXMzVUZU9fdTA5XzZmd0tIMFc3RHBGM3FrNVRJWEFRQ1RFNkZwUWloVV9VS0ZpR3c4bThlaFpEeG04MTl0VjJBSHJxVlYyZlZ1NnpyWjlGOF9uYmR0VzBVSjBTUVY1bVY4cTB3c0NMZFo5b3hOb200cVJ1LUhWNUd0Qk16QzNYYVRUeG9KMExOMEJVbWhXS3hpd3J3aEM3ci1aQlB1SFM1RXpnV0Y5Z0N0dnVpX3lXZjFUTS1SS0lOSTVFamhYdFlfOUQ3Z3N5MkVYRXhDVS1ZNnBNcUJPandraGU0WTE3X1lqUjdrWTZOZkM1NnNJZkZXeTRmcUVIbVdfbGs2cFVjUjVaLXpNVGF3?oc=5)
+
+---
 
 
 <div class="disclaimer">

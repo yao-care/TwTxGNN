@@ -1,8 +1,44 @@
 {
-  "last_updated": "2026-04-12T04:40:53.777496+00:00",
+  "last_updated": "2026-04-12T06:19:58.128341+00:00",
   "total_count": 28,
   "matched_count": 7,
   "news": [
+    {
+      "id": "50c355c86472",
+      "title": "哥倫比亞的庫欣氏症候群：他們警告說，一種無聲的疾病會增加糖尿病和心血管疾病的風險",
+      "published": "2026-04-12T04:46:07+00:00",
+      "summary": "哥倫比亞的庫欣氏症候群：他們警告說，一種無聲的疾病會增加糖尿病和心血管疾病的風險&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQZ0FhaW5jdVVobTQyNnVsdHk5dEE5RWlsWk9lMVZ1eXNCV1BGY0tJeldjckIzbmk2dUVNY3YzZ2FhajZRVGI4NmZ0dUNxLUkwREw4VnFlWEo3aU5QektXMzVUZU9fdTA5XzZmd0tIMFc3RHBGM3FrNVRJWEFRQ1RFNkZwUWloVV9VS0ZpR3c4bThlaFpEeG04MTl0VjJBSHJxVlYyZlZ1NnpyWjlGOF9uYmR0VzBVSjBTUVY1bVY4cTB3c0NMZFo5b3hOb200cVJ1LUhWNUd0Qk16QzNYYVRUeG9KMExOMEJVbWhXS3hpd3J3aEM3ci1aQlB1SFM1RXpnV0Y5Z0N0dnVpX3lXZjFUTS1SS0lOSTVFamhYdFlfOUQ3Z3N5MkVYRXhDVS1ZNnBNcUJPandraGU0WTE3X1lqUjdrWTZOZkM1NnNJZkZXeTRmcUVIbVdfbGs2cFVjUjVaLXpNVGF3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "9116ae8136a8",
       "title": "不靠荷爾蒙，也能改善更年期熱潮紅？全新治療選擇解析",
@@ -93,14 +129,14 @@
       "matched_keywords": []
     },
     {
-      "id": "0c2806b8e3d7",
-      "title": "1／4的人成功了 沒有減重 成功逆轉糖尿病前期 - 健康",
-      "published": "2026-04-11T21:30:30+00:00",
-      "summary": "1／4的人成功了 沒有減重 成功逆轉糖尿病前期 - 健康&nbsp;&nbsp;中時新聞網",
+      "id": "310a43610ecb",
+      "title": "公共衛生專家呼籲對印度的 HPV 疫苗接種計劃進行獨立監督，ETHealthworld",
+      "published": "2026-04-11T22:46:45+00:00",
+      "summary": "公共衛生專家呼籲對印度的 HPV 疫苗接種計劃進行獨立監督，ETHealthworld&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pS3ZYakpMRlV3V2ZkbE15TUc4UTdrWWlaLXgybzFaUTVhb1ZZS1htdlBNZTRROUNRUTJLV3pXdDRuNndLMWt5ajRkR1QxQk5KM2p4bldqSGNENmRGcGtwb1A3YnhXcEJvMGY3dTBn?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNZUx2a25xY2FQWlpGLXFqTHdqel9wMmNyTWJmbHRaZE15YXRscHQ2ZkhTQTBHS00xR1VEN2lRVUVzZEVrbXAwYzRNWkc5aGdILUtXYjNNVUd3NFBXUVJYdG5XeTFVM05LcHBjdlpVWTBTQUNmam9RWU1OYVliUU5uNkxMenY0S3NzSnJkZ05zVmMwZ1R1Z3R1UlhTVUlxeGFMdGd3a3dILXRGeFZIdEE5VFRnemZtLVJ1ZE9jdWlhNG41cEJkUVgyMjhTVi1FaWFTYm9RaXVIbHBWcEJNNmIwQTFMcWpaZW9MNVo4NEdUQ2F5anVrMzNSMzd3cDR3S3hyeVZ3Z0pKR1hNcFN3cTdKd29iR2RXaEFoWFViejFRZXZCSURzM2Jqd1FfZ3RhOGlzT0JzRzN5SlFscTk5N1ppNmlFRXhpVzJ0bW8yUnlucTZseEdBVFppaFQ5Ti1QY0pZ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1032,50 +1068,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "af7c8a040a1f",
-      "title": "多年高血壓沒在吃藥…頭暈噁心竟中風！醫警告「這種類型」最要命",
-      "published": "2026-04-10T05:39:50+00:00",
-      "summary": "多年高血壓沒在吃藥…頭暈噁心竟中風！醫警告「這種類型」最要命&nbsp;&nbsp;中天新聞網中風後，為什麼我總是擔心疾病會再惡化？&nbsp;&nbsp;careonline.com.tw小中風症狀消失快 但恐致大麻煩 醫：不能輕視&nbsp;&nbsp;世界新聞網「小中風」常見警訊別忽視老少均有高風險因子- 國際&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jdFUwR0ZvT1llTGZteXdlcXZkN1Nld2lxY25FVW5FTDJONGpEaVZldG9kWUJxelJmeEwxZGJfWmliUDdzbnNSOWt0WGJ5b1QzTExJ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "7f65784be0c0",
