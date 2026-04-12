@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-12T11:27:31.334584+00:00",
-  "total_count": 28,
-  "matched_count": 5,
+  "last_updated": "2026-04-12T12:41:12.213619+00:00",
+  "total_count": 26,
+  "matched_count": 4,
   "news": [
     {
       "id": "77d07ae79c72",
@@ -110,43 +110,6 @@
       ]
     },
     {
-      "id": "9116ae8136a8",
-      "title": "不靠荷爾蒙，也能改善更年期熱潮紅？全新治療選擇解析",
-      "published": "2026-04-12T04:10:00+00:00",
-      "summary": "不靠荷爾蒙，也能改善更年期熱潮紅？全新治療選擇解析&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40WUJTOExmbTFLRE9Bb3huSVpmeDFvMC1jM00tVDcxZ0lHVVU3eHRaa3BCTFNuX3pnOFN3TTNmRFhNa05pQjJTcHlXV2luQ1RtcHc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "4245a4422a7b",
       "title": "潮濕又落雨？5種食物 幫關節遠離天氣痛",
       "published": "2026-04-12T03:30:00+00:00",
@@ -246,19 +209,6 @@
         {
           "name": "ETtoday新聞雲",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90SVh5Mm9Relp5V1NTXzVPaU5rY3NiVnZnRkpQNm1KVXRfQlJkSE85empnZ2ZpSWVDaXd0dmNPMDBvRHA3Wmc1aF94NHNRRmx4bXI5aWg4ZE11Zm9uZGfSAWhBVV95cUxPZHhEVWN5YnZ0QS0ySnlOdFJlYk1PTnZGNG9sQ09KRmpzRkY4NmRXaHhBMlMzZzBQVlJaUXFPWFp6MXYxQ2tLVHY3blVoSi1DYnFkbDFzaVRpd0hfbm4tbVl5dUVXWEM5bA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b5b16df5c1ad",
-      "title": "比BMI還準！1指標「可測死亡風險」 - 鏡週刊Mirror Media",
-      "published": "2026-04-11T07:42:00+00:00",
-      "summary": "比BMI還準！1指標「可測死亡風險」&nbsp;&nbsp;鏡週刊Mirror Media比BMI還準！1指標「可測死亡風險」 最新研究證實了&nbsp;&nbsp;三立新聞網SETN.com高齡過度節食非好事 營養師：老人微胖較長壽&nbsp;&nbsp;自由健康網早期體重增加與終身健康後果相關&nbsp;&nbsp;citytimes.tw這年紀的你，微胖比較長壽！營養師揭：70歲時體重維持「這範圍」比較長壽&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqdjRscVF5YzFFSzA0NXRlc1g0ZmY1b3RuR1RyNTNsalBhQUZFUERyNWgxc2JleVd6SkxNZGt1OG5KZkRLSV9sWE1Qdnhqb05nb0tpLWFNR2dHLWtX0gFiQVVfeXFMTTg5T0cyRHBpa21iaVE4Y2x4TGk1MHZrSElPYVN6Vkc1Rm40SHc2TWdsN29XQUFwaTgyMVBWZE1TVS1xXzFNWUIyQzY3bWxMWFlsOWEzVl9FV3JxY3EyUGltWHc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -628,14 +578,14 @@
       "matched_keywords": []
     },
     {
-      "id": "0e839dee5736",
-      "title": "不用挨餓、不用減重，只要「吃」就能減肝臟脂肪！醫師教你這樣調整飲食 - TVBS 健康2.0",
-      "published": "2026-04-08T05:11:09+00:00",
-      "summary": "不用挨餓、不用減重，只要「吃」就能減肝臟脂肪！醫師教你這樣調整飲食&nbsp;&nbsp;TVBS 健康2.0飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎&nbsp;&nbsp;三立新聞網SETN.com健康網》甜點照吃也能瘦 醫換上它後4個月竟減脂&nbsp;&nbsp;自由健康網想瘦要吃得對 醫揭「3食物越吃越胖」：假奶油是關鍵兇手&nbsp;&nbsp;聯合新聞網內臟脂肪殺手！「1好菌」狂燃脂、抗發炎&nbsp;&nbsp;鏡週刊Mirror Media",
+      "id": "6f38047007da",
+      "title": "飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎",
+      "published": "2026-04-10T13:09:42+00:00",
+      "summary": "飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎&nbsp;&nbsp;三立新聞網SETN.com前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02VlNoZnhkUlRrdkwtRWVlY1l1UHlPaFgyS0xYRFJWTFh1UzJiZ2F0a0R5T3VqdThVUWxPcVJXMEJ6XzFUZGMtb3gxZ25WNVhnNldN?oc=5"
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10SHVNUUxmLXJlaDh1aWVUeUNPNkJ6dEdUdVZlamdXR1U1c1pKelBwRFRWVmc0R3Y5VEFiSU5zcVZUU3BNS196U1RfcUc?oc=5"
         }
       ],
       "matched_keywords": []
