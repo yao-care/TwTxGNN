@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-12T21:25:39.545991+00:00",
-  "count": 19,
+  "fetched_at": "2026-04-12T22:24:52.205644+00:00",
+  "count": 17,
   "news": [
     {
       "id": "3452b4c8a0c2",
@@ -112,18 +112,6 @@
       ]
     },
     {
-      "id": "c13cde39365f",
-      "title": "新生兒髖關節異常早篩檢 台北慈濟：把握黃金治療期 - 蕃新聞",
-      "published": "2026-04-10T21:00:00+00:00",
-      "summary": "新生兒髖關節異常早篩檢 台北慈濟：把握黃金治療期&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CU3VFa1RPM2xhYzdqYkVBT1htaUc3ZHZtUjhYc0RKQXc2TzE0TDFfbU9xaUEwc1FPZFJXRm8tNi1zWFNaUlZkOVFzaFZtNlIxMXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "964e2357e119",
       "title": "血液蛋白可預測帕金森氏症？研究揭提前7年風險 專家：仍須謹慎解讀 | 信傳媒 - LINE TODAY",
       "published": "2026-04-11T02:14:19+00:00",
@@ -132,18 +120,6 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xZ0tzMHBJMHpXSlNMU1NkWVd6dnBtWTFBZjZETVFSVVd5cWFpemtqeGpYUXN4SFNmMGJLd1loTDVWQWhWTUxTSDE5QnVrM3haY2ZtcHpB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d3c4d88f8444",
-      "title": "女生盛行率高3倍！青少年偏頭痛「4警訊」曝：1現象恐腦瘤 - TVBS新聞網",
-      "published": "2026-04-10T21:00:00+00:00",
-      "summary": "女生盛行率高3倍！青少年偏頭痛「4警訊」曝：1現象恐腦瘤&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50RDZvazkzZUFDdXh1bHFPZTFJV3hjM2xZTnBTVC12UkgtMUpYbnJES2lkbktnYmd6emFTS2lRVDdTODFPeEFGZzhoeUJteURY?oc=5"
         }
       ]
     },
