@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-11T23:24:55.101396+00:00",
-  "count": 21,
+  "fetched_at": "2026-04-12T01:48:07.485118+00:00",
+  "count": 23,
   "news": [
+    {
+      "id": "1f7e626eb0ec",
+      "title": "飛行路徑數據顯示蚊子如何瞄準人類 - citytimes.tw",
+      "published": "2026-04-11T23:56:39+00:00",
+      "summary": "飛行路徑數據顯示蚊子如何瞄準人類&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPRHFPS29DYl9Sdkw1MmxWLWpSYTNjZkJlaDdYZW5JUDBWU2NBM1lzQzVvZUQ3amRPVW9WYXNMMHRDQ3RNZHd5OG93bVIteURfLUFmdTJjX1dENFFjWUF2TVdCYUtyM25NdXoyT2ZBcF95S2FvM3FDTDRWcDRkMkxtRkhJYTZySU4zSDlnZWViekhud3JwclJLMk1maUlFcUNZcHh0RURnMmVJalNlamh0SzZXTngzc2gtY2gtNXRaQ1ZnaFlWbFlxRkdjMkhlQjBlcFJoajFqcGJ6VzAtc3FudGI5SFZHWWNMWTBPTXpZeVlPUVNnZDM1WmRWaFdkM3BWTG5GVEExd1BKdjZ6MmxKS0plaGZxSGRWOWFKT1hR?oc=5"
+        }
+      ]
+    },
     {
       "id": "83609c08e030",
       "title": "1／4的人成功了沒有減重成功逆轉糖尿病前期- 健康 - 中時新聞網",
@@ -16,38 +28,26 @@
       ]
     },
     {
+      "id": "5fbbf49e1927",
+      "title": "長新冠罹患認知障礙風險高近4倍 - Yahoo新聞",
+      "published": "2026-04-11T20:10:00+00:00",
+      "summary": "長新冠罹患認知障礙風險高近4倍&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVDZMYUtUbWZra205aW40M1VTWHZZTGVIWElRWUNObU9mYXFVd1JOWkpsSTZhOXhQdHY4X3ZtQ1dtMFVwUFdHeV9aQkUzQVplYV9GalIzUjJ0Vy1CMGEtY1Q5TjFDNkRNTkdyaXdBZmRwYTVvRzB6S0hTczJ6bk5SZXJvQW9kal9MazZjTGdkS05iaDcwSXY5azZtNGlzdkE3bnZ4Y1A0VVFqTVNBTm50SWk5RDJkRmR2Rm91aGxCRmtSQWxnNTFLMkxIbFNvMnZ0M08xSzdlNHVPWGhXWmxhbXB6V2xWWTZRTVFwbUpEOXFSekdjUWw1dEowLWw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c49e593aa003",
       "title": "不嫁就毀掉妳！狠男強注「愛滋血」報復　24歲印女崩潰輕生 - ETtoday新聞雲",
-      "published": "2026-04-11T17:48:20+00:00",
-      "summary": "不嫁就毀掉妳！狠男強注「愛滋血」報復 24歲印女崩潰輕生&nbsp;&nbsp;ETtoday新聞雲前往 Google 新聞查看完整報導",
+      "published": "2026-04-11T11:16:00+00:00",
+      "summary": "不嫁就毀掉妳！狠男強注「愛滋血」報復 24歲印女崩潰輕生&nbsp;&nbsp;ETtoday新聞雲拒嫁愛滋親戚被報復 印女遭男方強行注射「感染血液」&nbsp;&nbsp;TVBS新聞網【不嫁就毀掉妳！狠印男強注「愛滋血」報復 24歲女崩潰輕生】 （#大表哥）&nbsp;&nbsp;Facebook因拒婚遭報復 印度24歲女子被強注愛滋感染血液崩潰亡&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
           "name": "ETtoday新聞雲",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90SVh5Mm9Relp5V1NTXzVPaU5rY3NiVnZnRkpQNm1KVXRfQlJkSE85empnZ2ZpSWVDaXd0dmNPMDBvRHA3Wmc1aF94NHNRRmx4bXI5aWg4ZE11Zm9uZGfSAWhBVV95cUxPZHhEVWN5YnZ0QS0ySnlOdFJlYk1PTnZGNG9sQ09KRmpzRkY4NmRXaHhBMlMzZzBQVlJaUXFPWFp6MXYxQ2tLVHY3blVoSi1DYnFkbDFzaVRpd0hfbm4tbVl5dUVXWEM5bA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "20a847533baa",
-      "title": "長新冠罹患認知障礙風險高近4倍 - 中時新聞網",
-      "published": "2026-04-11T20:25:53+00:00",
-      "summary": "長新冠罹患認知障礙風險高近4倍&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qLURfbWRBY0g5c3JsRk1OX1RsUFBTc3hWN0ZDSmR0dnFMQ0U5Wmh4T0tEWF9wZGpuc0lteW9kaVEtalZ5ZFVxVHhaWGRkMWI3MjFfdFNMbDUtR0FrUWlBaUltdjdtU29rTlhz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "891186234883",
-      "title": "比BMI還準！1指標「可測死亡風險」 最新研究證實了 - 三立新聞網SETN.com",
-      "published": "2026-04-11T07:47:53+00:00",
-      "summary": "比BMI還準！1指標「可測死亡風險」 最新研究證實了&nbsp;&nbsp;三立新聞網SETN.com高齡過度節食非好事 營養師：老人微胖較長壽&nbsp;&nbsp;自由健康網早期體重增加與終身健康後果相關&nbsp;&nbsp;citytimes.tw這年紀的你，微胖比較長壽！營養師揭：70歲時體重維持「這範圍」比較長壽&nbsp;&nbsp;PChome Online 新聞老人微胖更長壽 營養師曝黃金BMI 瘦子死亡率飆2倍&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2bWxObGE5Y0FBc1E3ZV9BQmRwVVBnQzJxOXdzUlRVUXl2R0N3ak9nelk5eEw4X01MM3FtejR3bXpXWWtSc3dfbVRrUHc?oc=5"
         }
       ]
     },
@@ -64,10 +64,22 @@
       ]
     },
     {
+      "id": "891186234883",
+      "title": "比BMI還準！1指標「可測死亡風險」 最新研究證實了 - 三立新聞網SETN.com",
+      "published": "2026-04-11T07:47:53+00:00",
+      "summary": "比BMI還準！1指標「可測死亡風險」 最新研究證實了&nbsp;&nbsp;三立新聞網SETN.com高齡過度節食非好事 營養師：老人微胖較長壽&nbsp;&nbsp;自由健康網早期體重增加與終身健康後果相關&nbsp;&nbsp;citytimes.tw這年紀的你，微胖比較長壽！營養師揭：70歲時體重維持「這範圍」比較長壽&nbsp;&nbsp;PChome Online 新聞老人微胖更長壽 營養師曝黃金BMI 瘦子死亡率飆2倍&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2bWxObGE5Y0FBc1E3ZV9BQmRwVVBnQzJxOXdzUlRVUXl2R0N3ak9nelk5eEw4X01MM3FtejR3bXpXWWtSc3dfbVRrUHc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b57cc8213a44",
       "title": "再見大腸鏡檢查？新糞便檢測可檢測出 90% 的結腸癌 - arch-web.com.tw",
       "published": "2026-04-10T16:10:54+00:00",
-      "summary": "再見大腸鏡檢查？新糞便檢測可檢測出 90% 的結腸癌&nbsp;&nbsp;arch-web.com.tw2026癌症論壇／朱光恩：AI助攻腸鏡檢查 腺瘤偵測率提升5-6%&nbsp;&nbsp;元氣網科學家發現隱藏的腸道訊號可以早期發現癌症&nbsp;&nbsp;arch-web.com.tw結腸癌中隱藏的東西可能會改變治療方法&nbsp;&nbsp;arch-web.com.tw再見大腸鏡檢查？一項新的糞便檢測可檢測出 90% 的大腸癌病例&nbsp;&nbsp;citytimes.tw",
+      "summary": "再見大腸鏡檢查？新糞便檢測可檢測出 90% 的結腸癌&nbsp;&nbsp;arch-web.com.tw科學家發現隱藏的腸道訊號可以早期發現癌症&nbsp;&nbsp;arch-web.com.tw再見大腸鏡檢查？一項新的糞便檢測可檢測出 90% 的大腸癌病例&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
           "name": "arch-web.com.tw",
@@ -216,6 +228,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPY0ZUdnVlc1JNYTVNOHd4RDVBM2dkRGc1QzRLbDg2Vl9TM0ZCVG5GVnd6NFhPa0lYLWhUbERXSVI4OG84LVY0UVVsQzk4THBuLTVGNWRnZ3Z5TE1HSHN6cmVWdFc3WENGclI2V3lxMDZmSWRWOVhXSUpxN3pWMDFucXQ4b0NyTDRXRllhcXh4WGNJNDEtR1ZHdmlhbmlaaktuZ0pwSENXeXN1aVp4a2ZrM2FzNTN2UEhtOTUwN2JaUExhRTJKbzYzbjZjMHhMSW5nQS1vU3hscndOT0hfQW9lX3dOMGYtNjljOGdoSzY3THVMb2VnUFp3ZU9pbXBvTmJ0Z3NvT0RMS05RbjdwejUway1kN1lFOGNvT2pDa0hieXFTZDBfb2JEQTNTdVVHM21MQ3pHSjhlT2xaNFhQT2hDUUVMYUFGN0puWGFYZGgxUjV0aF8wSk00al9vSWp0dXNZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5966c10497bb",
+      "title": "多吃類黃酮食物助抗衰老？研究揭晚年身體虛弱/情緒病風險更低 每朝飲橙汁喚活細胞防腦退化 - 星島頭條",
+      "published": "2026-04-12T01:00:00+00:00",
+      "summary": "多吃類黃酮食物助抗衰老？研究揭晚年身體虛弱/情緒病風險更低 每朝飲橙汁喚活細胞防腦退化&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMivARBVV95cUxPSERhVnZ1ckxuOEJFNko3emxiZXg0RkFoQTlyN3luVVBSQWwxTHN4cjFaSnFjMDI2aEJiS0F3WHdhd0VQWHpjRUFFblQ4ZHZ1M0lteVI5VENxRHhVVjBmbWs3N1N5Ym91Y2YxNWJGTzZvbTNNbVItUXB2b3dUdmFVQkpvYXJ5R3gwbnZCb01SRi1zcEI5UjQ4TWQtRmVMcElJZWl0dmtpMHBMMjlvVndBeGtJQzJsQURPOWRGS3kyU29ObGNlbVJTTTNVaW9CTFQxM2MtTmFlNUpYZEFqYmVTWlI5VWRuOTNWMjdIOE0wdjl3YnNxYllyQ2VXMXFpNk8waDh2ejl5dm9FMkhRODVTNzR6bVNwQkFmNTEtWFplV1huZlVBZmlPSUVyMHRNQnRXemU2eVZCaXpwSS1qRTZsc051QmZiOVdSMHI1R3pwbWhKcnVmRzloUnFwYmxGTHNDczNWbnZRSGdCWFBQX0c5blpyMDFiRmZzOTlJZzdvMVpLLUNENWhhTDkzUkdiVFJtNm9hS3ZLS2ZZVXAtTzdNcmJoM0JYU0RkNllxSkRUc0JSRHZuazFzaEdLZVBZSEJhM1E2alF6VTFPMTRuN3Z6UnpCWXp6NHg1b3hFVDNUSmpxWEZhOWRHcnlDMFVuWUtsUHh3UmF1MmJqMElLc0xjMktqV1BUWWx4cUR2Tl8tWk1teGVtV3NrQ0JvNk5DUENMOUdBbEl0UWJBZThaWEVyRWk3Y0hGbDhiUTcxVg?oc=5"
         }
       ]
     },
