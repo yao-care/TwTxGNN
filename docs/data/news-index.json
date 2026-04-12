@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-12T13:54:47.101945+00:00",
-  "count": 4,
+  "generated": "2026-04-12T14:34:55.027786+00:00",
+  "count": 5,
   "news": [
     {
       "id": "2230d00e04fb",
@@ -71,6 +71,30 @@
           "type": "indication",
           "name": "心血管疾病",
           "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "efcecea4c8d1",
+      "title": "走路就能減脂！「日本式走路」燃脂力超強，還能強化心血管",
+      "published": "2026-04-12T02:09:17+00:00",
+      "sources": [
+        {
+          "name": "womenshealthmag.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTh1eEVMbDZsNmlwSjhnSjVPSk9fWGJCalJvaDdsNnB0SmRZUjlnX2ZXQW5TaXRJcTZ6a2J4SGhNRXd3WHBNVjl1NmVCZmVUaXMxUktRcGpzQ25SV0JYY2tkNWdzTWZkRU50eDVqaEt1T3VBcG4yNVNjZ3Z0d2pSSTR1U1FaZ0VhNEhnM1FBcFZRcG4wUWtLazBMVU9rLTI1VW13anN6ZVZEVWplN0s0cEpWal9mejdxQUlZYjNmdmJhRGZJUE1RMA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
           "related_drugs": [
             {
               "slug": "isosorbide_dinitrate",

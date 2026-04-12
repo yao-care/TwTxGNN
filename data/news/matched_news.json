@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-12T13:54:47.075369+00:00",
-  "total_count": 26,
-  "matched_count": 4,
+  "last_updated": "2026-04-12T14:34:55.000348+00:00",
+  "total_count": 27,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "5556016cd9d1",
+      "title": "使用尖端奈米盤技術揭示了愛滋病毒和伊波拉病毒的隱藏漏洞",
+      "published": "2026-04-12T14:20:12+00:00",
+      "summary": "使用尖端奈米盤技術揭示了愛滋病毒和伊波拉病毒的隱藏漏洞&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQbm03TWdWU3V6VUFhMzRxLWtVelZDQmZ0cFdOWDIwWFNOUVQyZTluYmJCS2xRV3U3Tm1Na3c4d2JrLWZVSmluZkRyNHh4Q2s0YnJOdFQ0YXI5YzRST0dtQmMwQXllYnlXdFJibDluMTA0WlBCNjlCd0J3ODBFUHVHbWQyOFQ4YUd1QVBPaWtMY3ExLXJxSURvOTRSWExWdGFCM0ltTGt6SFU3ZXBrTUxSUHc4Q3FaZGlMVnNROFNtQk9NYTY3T005SWdjazUzUjhGekpGSExXRWtzOVg1MlJoRGFjcmNNWHlQNnpyc1hPdEdlRXRoSFJoQkdJUncyLTdLNEdES0h3dU9DeXhuT0JvaURaN2VsSUgyYS1jVTgyWjVUUzkzMUdCMWItYmxSUW1Qcmdtck1uOGpDY0NBaTlRSUpaSEVWaFh0Ql9HZ1BqVE13WnhyMEM3ZENZbVoxUVZDdHlSM193?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "a00b09a7a46e",
       "title": "印度青少年非傳染性疾病的風險很高：令人震驚的健康報告揭示了隱藏的威脅，ETHealthworld",
@@ -160,6 +173,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "efcecea4c8d1",
+      "title": "走路就能減脂！「日本式走路」燃脂力超強，還能強化心血管",
+      "published": "2026-04-12T02:09:17+00:00",
+      "summary": "走路就能減脂！「日本式走路」燃脂力超強，還能強化心血管&nbsp;&nbsp;womenshealthmag.com",
+      "sources": [
+        {
+          "name": "womenshealthmag.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTh1eEVMbDZsNmlwSjhnSjVPSk9fWGJCalJvaDdsNnB0SmRZUjlnX2ZXQW5TaXRJcTZ6a2J4SGhNRXd3WHBNVjl1NmVCZmVUaXMxUktRcGpzQ25SV0JYY2tkNWdzTWZkRU50eDVqaEt1T3VBcG4yNVNjZ3Z0d2pSSTR1U1FaZ0VhNEhnM1FBcFZRcG4wUWtLazBMVU9rLTI1VW13anN6ZVZEVWplN0s0cEpWal9mejdxQUlZYjNmdmJhRGZJUE1RMA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "5966c10497bb",
@@ -576,19 +614,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "6f38047007da",
-      "title": "飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎",
-      "published": "2026-04-10T13:09:42+00:00",
-      "summary": "飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎&nbsp;&nbsp;三立新聞網SETN.com前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10SHVNUUxmLXJlaDh1aWVUeUNPNkJ6dEdUdVZlamdXR1U1c1pKelBwRFRWVmc0R3Y5VEFiSU5zcVZUU3BNS196U1RfcUc?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "b9ba655a58a1",
