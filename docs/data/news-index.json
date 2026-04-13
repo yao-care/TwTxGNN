@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-13T13:03:54.011757+00:00",
-  "count": 6,
+  "generated": "2026-04-13T15:09:03.808774+00:00",
+  "count": 7,
   "news": [
     {
       "id": "e45a943bb06c",
@@ -188,6 +188,65 @@
       ]
     },
     {
+      "id": "cbb636b2d181",
+      "title": "不是鮭魚、鯖魚！「這款魚」防失智、護心血管：一小片抵2顆魚油",
+      "published": "2026-04-12T17:14:59+00:00",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LQ1VNVEZpTlhpeW5UQ25NMXQ1Wm1jUFBVZ2F5dFBDQXJteW5tWUpxMUVoZklLY3h1MndOZ2ZLbXVTY1hhaGZyQ1ByRkE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4238246613ef",
+      "title": "走路就能減脂！「日本式走路」燃脂力超強，還能強化心血管 | Women's Health",
+      "published": "2026-04-12T14:05:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQT0RhTnVaZy1WQUVlSFFzVzNBVDRJYVN4UEJiczE0bDI5Rlp6TjZMMG1tSF9pcXR6LXA5c2lxaTNzV0pJa2RLV1EyMzlTcENGMDNlR2tmam1kN25tTkMySW5qRmN3UDhveThOMkIxNWxLNkNMNDQ1M3VQTGdUUmZzbm15Q0pxem9hSkk1VnRLSE54N1ZESE5oYno1QTBlZlNuN1FidDBuWjh1YkZaVFJGY2loSHRzaWNXUFdHUm5OSU1RaUtVXzVidm1tWllNSGpGQTQwanM3T3BDaWMxdWhkU2JEOFZWNXQzTnNHLWU0R0xNZUE1cUdKcTloNzZmNExsdHVQekxTRGh2UERCSW5ScExxNzc3bkZadUd3QXV0ZkFKaTZPMEgtU3dRSkxWY2ttMW1nWVNYT0gzSHFOWVBUalFmdVhaVXNPVkhCTWZFbnNRNF9Vd1lqN3dzZFRjaTFqS3VBX0ZFUzF6R1Q1SUVuNFZIWG0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "50c355c86472",
       "title": "哥倫比亞的庫欣氏症候群：他們警告說，一種無聲的疾病會增加糖尿病和心血管疾病的風險",
       "published": "2026-04-12T04:46:07+00:00",
@@ -213,30 +272,6 @@
           "type": "indication",
           "name": "心血管疾病",
           "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "efcecea4c8d1",
-      "title": "走路就能減脂！「日本式走路」燃脂力超強，還能強化心血管",
-      "published": "2026-04-12T02:09:17+00:00",
-      "sources": [
-        {
-          "name": "womenshealthmag.com",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTh1eEVMbDZsNmlwSjhnSjVPSk9fWGJCalJvaDdsNnB0SmRZUjlnX2ZXQW5TaXRJcTZ6a2J4SGhNRXd3WHBNVjl1NmVCZmVUaXMxUktRcGpzQ25SV0JYY2tkNWdzTWZkRU50eDVqaEt1T3VBcG4yNVNjZ3Z0d2pSSTR1U1FaZ0VhNEhnM1FBcFZRcG4wUWtLazBMVU9rLTI1VW13anN6ZVZEVWplN0s0cEpWal9mejdxQUlZYjNmdmJhRGZJUE1RMA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
           "related_drugs": [
             {
               "slug": "isosorbide_dinitrate",
