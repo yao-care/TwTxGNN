@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-13T17:54:18.858505+00:00",
-  "total_count": 27,
+  "last_updated": "2026-04-13T19:03:10.240074+00:00",
+  "total_count": 28,
   "matched_count": 7,
   "news": [
+    {
+      "id": "1c0f3fb6f473",
+      "title": "新型牙膏可預防牙齦疾病而不殺死有益細菌",
+      "published": "2026-04-13T15:07:38+00:00",
+      "summary": "新型牙膏可預防牙齦疾病而不殺死有益細菌&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPekpTNFI5TTFjb1ZkOTB3NTVZRmZPZ3JVd0FFUEhianBfM1Y1ODJoVEc5Zk55NkNrNDlIVW9kV085bFQtU0FTbzJSRFBXcWxualNqX2licG50dTc2ck16Z0E4bUVVYmJNR3ZmWFc3QVBocnFBV0RDLVF5S1hiNEFxMEl4QXFnVDJCQ0JyOWhCd19RNWtiUlNDLWI0ZzVRLXYwU2QwUGdHZEZLNE9LRGNCeWY3WTdfWHNzeTZSVjE5U0FlLS15LVd6LXI4cmhxMzJBOW1MQ0pFWW45MlFrRzdaVmx0Y01DTzVPQkcwSi1TVWFJdU9VZFJiS3pqTmx1bWo5Q3phYTdyODR1N1VNcTdhR0pBRWlFaEdYQk5taW4wVVRWNHVtZzgydVFHeWJzWk5OTU9nbjZuNHNWQUI3U3VjSUpsazRWMWNqRGVpNTFPZXZRSEJmN3BwSnNlUzZFeWV0YWc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "dd95a2880fb4",
       "title": "28歲港女多囊卵巢綜合症 月經變「年經」停避孕藥即復發 中醫調理3個月回復正常",
@@ -348,6 +361,31 @@
       "matched_keywords": []
     },
     {
+      "id": "4238246613ef",
+      "title": "走路就能減脂！「日本式走路」燃脂力超強，還能強化心血管 | Women's Health",
+      "published": "2026-04-12T14:05:00+00:00",
+      "summary": "走路就能減脂！「日本式走路」燃脂力超強，還能強化心血管 | Women's Health&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQT0RhTnVaZy1WQUVlSFFzVzNBVDRJYVN4UEJiczE0bDI5Rlp6TjZMMG1tSF9pcXR6LXA5c2lxaTNzV0pJa2RLV1EyMzlTcENGMDNlR2tmam1kN25tTkMySW5qRmN3UDhveThOMkIxNWxLNkNMNDQ1M3VQTGdUUmZzbm15Q0pxem9hSkk1VnRLSE54N1ZESE5oYno1QTBlZlNuN1FidDBuWjh1YkZaVFJGY2loSHRzaWNXUFdHUm5OSU1RaUtVXzVidm1tWllNSGpGQTQwanM3T3BDaWMxdWhkU2JEOFZWNXQzTnNHLWU0R0xNZUE1cUdKcTloNzZmNExsdHVQekxTRGh2UERCSW5ScExxNzc3bkZadUd3QXV0ZkFKaTZPMEgtU3dRSkxWY2ttMW1nWVNYT0gzSHFOWVBUalFmdVhaVXNPVkhCTWZFbnNRNF9Vd1lqN3dzZFRjaTFqS3VBX0ZFUzF6R1Q1SUVuNFZIWG0?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "7efa6cc7ddfd",
       "title": "為什麼 Ozempic 並不適合所有人：科學家剛剛發現了一個隱藏的原因",
       "published": "2026-04-12T13:02:36+00:00",
@@ -447,31 +485,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "efcecea4c8d1",
-      "title": "走路就能減脂！「日本式走路」燃脂力超強，還能強化心血管",
-      "published": "2026-04-12T02:09:17+00:00",
-      "summary": "走路就能減脂！「日本式走路」燃脂力超強，還能強化心血管&nbsp;&nbsp;womenshealthmag.com",
-      "sources": [
-        {
-          "name": "womenshealthmag.com",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTh1eEVMbDZsNmlwSjhnSjVPSk9fWGJCalJvaDdsNnB0SmRZUjlnX2ZXQW5TaXRJcTZ6a2J4SGhNRXd3WHBNVjl1NmVCZmVUaXMxUktRcGpzQ25SV0JYY2tkNWdzTWZkRU50eDVqaEt1T3VBcG4yNVNjZ3Z0d2pSSTR1U1FaZ0VhNEhnM1FBcFZRcG4wUWtLazBMVU9rLTI1VW13anN6ZVZEVWplN0s0cEpWal9mejdxQUlZYjNmdmJhRGZJUE1RMA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "7263d39cf424",
