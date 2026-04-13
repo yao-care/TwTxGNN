@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-13T19:03:10.240074+00:00",
+  "last_updated": "2026-04-13T20:43:48.137235+00:00",
   "total_count": 28,
-  "matched_count": 7,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "08a9ceb8e202",
+      "title": "國際野生動物貿易導致疾病從一個物種傳播到另一個物種",
+      "published": "2026-04-13T18:03:07+00:00",
+      "summary": "國際野生動物貿易導致疾病從一個物種傳播到另一個物種&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOd2Y5RVY3RjBKblRpNXRjLXFRNFZlWkoyOE44cTdpYkNkTnJNOFZfeDU4ZkxPTFhlZWdmVThfemFFTWtVdzNxYnNBUXlVODNBcG1Del9FVzRvd2RIakNjOUtBV0I3VmZKT2NDejN5Y0dCR3ZGWkZTVnZ0amE2NE05S25xN180Nm9weGt4OUhlR0tUYXF5SEVPR2NFdDMwUHdqZFRUUEVwV3Y1Y3ZsUHNVdDlOd1A4VE4tWm5qblBUSlQyRGlKRmFyQS0zdm50a2d4XzJndFFBdWxkZjdnY3RCVUlWckd3dHBkeUZXT0Fkbjl1aWoxRW54MG5IR1Uta2lrS0JNTlRjSnBaa3UycmFFVmVMdFc0TGNRanJlVE85M0VuZXB2Z2VSTktldlE0aDRwenhrWlZfWHpmc0lIQVRNanMtNUhjRUoyQ1dqdmtlNTk2SXFkYVotelV4V3FHS0Q2TGNSVmtn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "1c0f3fb6f473",
       "title": "新型牙膏可預防牙齦疾病而不殺死有益細菌",
@@ -361,39 +374,14 @@
       "matched_keywords": []
     },
     {
-      "id": "4238246613ef",
-      "title": "走路就能減脂！「日本式走路」燃脂力超強，還能強化心血管 | Women's Health",
-      "published": "2026-04-12T14:05:00+00:00",
-      "summary": "走路就能減脂！「日本式走路」燃脂力超強，還能強化心血管 | Women's Health&nbsp;&nbsp;Yahoo新聞",
+      "id": "6069f14a0bd6",
+      "title": "為什麼 Ozempic 並不適合所有人：科學家剛剛找到了隱藏的原因",
+      "published": "2026-04-12T13:07:24+00:00",
+      "summary": "為什麼 Ozempic 並不適合所有人：科學家剛剛找到了隱藏的原因&nbsp;&nbsp;arch-web.com.tw有人打瘦瘦針卻沒瘦 研究：關鍵可能在DNA&nbsp;&nbsp;自由健康網Euronews 精選／用猛健樂甩肉比人慢？研究點出影響藥效關鍵&nbsp;&nbsp;經濟日報打瘦瘦針恐缺營養？研究示警：GLP-1減重藥，恐影響維生素與礦物質吸收&nbsp;&nbsp;Yahoo新聞GLP-1藥物研究揭示多重潛力 仿冒危機與新口服療法引關注&nbsp;&nbsp;商傳媒",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQT0RhTnVaZy1WQUVlSFFzVzNBVDRJYVN4UEJiczE0bDI5Rlp6TjZMMG1tSF9pcXR6LXA5c2lxaTNzV0pJa2RLV1EyMzlTcENGMDNlR2tmam1kN25tTkMySW5qRmN3UDhveThOMkIxNWxLNkNMNDQ1M3VQTGdUUmZzbm15Q0pxem9hSkk1VnRLSE54N1ZESE5oYno1QTBlZlNuN1FidDBuWjh1YkZaVFJGY2loSHRzaWNXUFdHUm5OSU1RaUtVXzVidm1tWllNSGpGQTQwanM3T3BDaWMxdWhkU2JEOFZWNXQzTnNHLWU0R0xNZUE1cUdKcTloNzZmNExsdHVQekxTRGh2UERCSW5ScExxNzc3bkZadUd3QXV0ZkFKaTZPMEgtU3dRSkxWY2ttMW1nWVNYT0gzSHFOWVBUalFmdVhaVXNPVkhCTWZFbnNRNF9Vd1lqN3dzZFRjaTFqS3VBX0ZFUzF6R1Q1SUVuNFZIWG0?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7efa6cc7ddfd",
-      "title": "為什麼 Ozempic 並不適合所有人：科學家剛剛發現了一個隱藏的原因",
-      "published": "2026-04-12T13:02:36+00:00",
-      "summary": "為什麼 Ozempic 並不適合所有人：科學家剛剛發現了一個隱藏的原因&nbsp;&nbsp;citytimes.tw有人打瘦瘦針卻沒瘦 研究：關鍵可能在DNA&nbsp;&nbsp;自由健康網Euronews 精選／用猛健樂甩肉比人慢？研究點出影響藥效關鍵&nbsp;&nbsp;經濟日報打瘦瘦針恐缺營養？研究示警：GLP-1減重藥，恐影響維生素與礦物質吸收&nbsp;&nbsp;Yahoo新聞為什麼 Ozempic 並不適合所有人：科學家剛剛找到了隱藏的原因&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQOTIzRzl3QnF2dmh6bFNCOGx2Vm4yV2ttOWhhTFR1QXFma19RdGJqcElIWmhUNElTc3dUY1RHUWJhSkhrOXJpU0d4TkhYMmx3WGVwUHVOMkVGYUlBUF9vVjVsU0kzeHRQX0dobHVqRjZVQzh5cy1NUUxUY3BUZ0NBN0VwTHdEZ1RPZkdpYlZDampQYkpaMGx4ZVFnb2RPZ1FRSmhHNl9tbGVQRkdjMXluUU9idmJuODZGUXFJWUllMXpwdHdBb1cxdlB2RXkwUGJLa2lrUjdsRTFkcTA4MXFYaS1LZmV4SW1FbzZ2a2dEZlRxd3l6QkdUeGQwNl9PMHBseVp6T1RGYkJ3ZUxOcGZQM0hDel9YRzNmNE5GZGtJSXFrd3ZqamhrQTZzVFI1M1VRc0JaRmVidjc3dEtiZ1d4TG55Ukx3Z19mNUVTRmpQS3J2WUNTaGtFMXVEbGhLdHRIWEZZRlBB?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNdmRQWGYweTlZWG9pMDF5X3ZQazBpZjl6aXh0VHZKcndodU03TGZ3aHNaSkw5bkRnenNwOVRVQm5wNWFGWUdtQkJJMXhQNUdIcnItOHVXMHBUMnJOWVpLc09ZUnJOUnc5OE5QelFiakZRN2xxeWxxcWRPUTRqU2xYR3hRekd1U2NyVThlWk54bURBR0M3ZXl4bGhUakZQd245VHNSQWdSM29Vb1NHd0Y1OVI2MnRGWWhYaVZNNzFTbVRiX2VoVUphMDk2b2VpeEVod1lGU0Z3WHdMSW9JaHZhTjJ6WWplTFRuOVZTQ01EdFliRzBXOU5zcmYydkhlZGRXOXhrTWR0Smxldk93QjV2dlZxUllBTDg4Um5xd0NWWGc5MVlGb2pHU3VrOTQ5a1NKMW9Jd1RkVEk3eHFCMTB0Y0NGdEppNXhiNTA3azIxanhleGgxT2dWbDhUTGE1Qmg2bGROYU02X2x6LU1PSFRBR3h2UnZzRXVYTjZ1RUF5cEJHSEx6Vmc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -528,7 +516,7 @@
     {
       "id": "20a847533baa",
       "title": "長新冠罹患認知障礙風險高近4倍",
-      "published": "2026-04-11T20:25:53+00:00",
+      "published": "2026-04-11T20:10:00+00:00",
       "summary": "長新冠罹患認知障礙風險高近4倍&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
