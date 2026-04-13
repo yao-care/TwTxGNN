@@ -1,7 +1,54 @@
 {
-  "generated": "2026-04-13T04:52:21.946400+00:00",
-  "count": 5,
+  "generated": "2026-04-13T07:09:53.429823+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "50abf0b9ed67",
+      "title": "大腸癌檢測現新技術！瑞士開發AI解析糞便細菌 檢出率約9成",
+      "published": "2026-04-13T05:36:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40U20xdURRSDVXdmk2eVgwck9nZy0tMjRzMEphd0JOU0RCR2x5TGltVzZzeks1eDYwZDU1VER6SF9tbkFfZmpYRGpDckdCSFE5RXY3VFhvYzdfWmFFTm45MmZXQzbSAWpBVV95cUxOME1XTEdLT0x1VlZLdm40Q3A3U2hocExEcTdFMm9BNUJkVDJDSDZVSmNYMlMzZDJxSVE2SVpOcERBRnZfSDBUOEpadVJiaTR2cHFrUkhNbFA5Q0xlMS10a2RGOFRKN0F0d053?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "381163668920",
       "title": "癲癇基因療法展突破 卓飛症候群病患發作率大降逾八成",
@@ -27,13 +74,13 @@
       ]
     },
     {
-      "id": "4238246613ef",
-      "title": "走路就能減脂！「日本式走路」燃脂力超強，還能強化心血管 | Women's Health",
-      "published": "2026-04-12T14:05:00+00:00",
+      "id": "cbb636b2d181",
+      "title": "不是鮭魚、鯖魚！「這款魚」防失智、護心血管：一小片抵2顆魚油",
+      "published": "2026-04-12T17:14:59+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQT0RhTnVaZy1WQUVlSFFzVzNBVDRJYVN4UEJiczE0bDI5Rlp6TjZMMG1tSF9pcXR6LXA5c2lxaTNzV0pJa2RLV1EyMzlTcENGMDNlR2tmam1kN25tTkMySW5qRmN3UDhveThOMkIxNWxLNkNMNDQ1M3VQTGdUUmZzbm15Q0pxem9hSkk1VnRLSE54N1ZESE5oYno1QTBlZlNuN1FidDBuWjh1YkZaVFJGY2loSHRzaWNXUFdHUm5OSU1RaUtVXzVidm1tWllNSGpGQTQwanM3T3BDaWMxdWhkU2JEOFZWNXQzTnNHLWU0R0xNZUE1cUdKcTloNzZmNExsdHVQekxTRGh2UERCSW5ScExxNzc3bkZadUd3QXV0ZkFKaTZPMEgtU3dRSkxWY2ttMW1nWVNYT0gzSHFOWVBUalFmdVhaVXNPVkhCTWZFbnNRNF9Vd1lqN3dzZFRjaTFqS3VBX0ZFUzF6R1Q1SUVuNFZIWG0?oc=5"
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LQ1VNVEZpTlhpeW5UQ25NMXQ1Wm1jUFBVZ2F5dFBDQXJteW5tWUpxMUVoZklLY3h1MndOZ2ZLbXVTY1hhaGZyQ1ByRkE?oc=5"
         }
       ],
       "keywords": [
@@ -45,6 +92,17 @@
             {
               "slug": "isosorbide_dinitrate",
               "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -110,24 +168,24 @@
       ]
     },
     {
-      "id": "751f23b10407",
-      "title": "全球6成人缺乏這種維生素中年就開始影響恐牽動失智風險- 國際",
-      "published": "2026-04-11T05:43:17+00:00",
+      "id": "efcecea4c8d1",
+      "title": "走路就能減脂！「日本式走路」燃脂力超強，還能強化心血管",
+      "published": "2026-04-12T02:09:17+00:00",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ldmRseUY1Q2c5VjRYVWNESVdqbGV4WXhncVp6aEpQOHFraEJvZnVZTkZpSXRmNWR1UlBZZFlwRTZSTGh4RnVidlM3ejBvNjdNODNlZVNnY1M4dWY0cDJNNzE2eU9PRkowLXJESDZn?oc=5"
+          "name": "womenshealthmag.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTh1eEVMbDZsNmlwSjhnSjVPSk9fWGJCalJvaDdsNnB0SmRZUjlnX2ZXQW5TaXRJcTZ6a2J4SGhNRXd3WHBNVjl1NmVCZmVUaXMxUktRcGpzQ25SV0JYY2tkNWdzTWZkRU50eDVqaEt1T3VBcG4yNVNjZ3Z0d2pSSTR1U1FaZ0VhNEhnM1FBcFZRcG4wUWtLazBMVU9rLTI1VW13anN6ZVZEVWplN0s0cEpWal9mejdxQUlZYjNmdmJhRGZJUE1RMA?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
+          "name": "cardiovascular",
+          "keyword": "心血管",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
             }
           ]
         }

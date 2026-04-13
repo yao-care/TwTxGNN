@@ -1,13 +1,74 @@
 {
-  "last_updated": "2026-04-13T04:52:21.857784+00:00",
+  "last_updated": "2026-04-13T07:09:53.404600+00:00",
   "total_count": 26,
-  "matched_count": 5,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "d80d664e670f",
+      "title": "7成癌童遇營養危機！營養師揭家長常見2迷思 飲食「三要三不」助力抗癌",
+      "published": "2026-04-13T05:45:00+00:00",
+      "summary": "7成癌童遇營養危機！營養師揭家長常見2迷思 飲食「三要三不」助力抗癌&nbsp;&nbsp;民視新聞網",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fTFBidFJTdHBOamxzdU5ORzBEdmppeTNzeHpwOExMekRmcnNKem9QVld6OGdCNTY5X1Jkd2dfai1FSmk2RFJZZVhKaUpxQ2JNSWpsaXZMZU9vZnZhd21GNA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "50abf0b9ed67",
+      "title": "大腸癌檢測現新技術！瑞士開發AI解析糞便細菌 檢出率約9成",
+      "published": "2026-04-13T05:36:00+00:00",
+      "summary": "大腸癌檢測現新技術！瑞士開發AI解析糞便細菌 檢出率約9成&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40U20xdURRSDVXdmk2eVgwck9nZy0tMjRzMEphd0JOU0RCR2x5TGltVzZzeks1eDYwZDU1VER6SF9tbkFfZmpYRGpDckdCSFE5RXY3VFhvYzdfWmFFTm45MmZXQzbSAWpBVV95cUxOME1XTEdLT0x1VlZLdm40Q3A3U2hocExEcTdFMm9BNUJkVDJDSDZVSmNYMlMzZDJxSVE2SVpOcERBRnZfSDBUOEpadVJiaTR2cHFrUkhNbFA5Q0xlMS10a2RGOFRKN0F0d053?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "381163668920",
       "title": "癲癇基因療法展突破 卓飛症候群病患發作率大降逾八成",
       "published": "2026-04-13T04:29:38+00:00",
-      "summary": "癲癇基因療法展突破 卓飛症候群病患發作率大降逾八成&nbsp;&nbsp;商傳媒陸「藥物難治性癲癇」治療研究突破 新藥獲中美雙臨床試驗批准&nbsp;&nbsp;ETtoday新聞雲",
+      "summary": "癲癇基因療法展突破 卓飛症候群病患發作率大降逾八成&nbsp;&nbsp;商傳媒前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "商傳媒",
@@ -110,7 +171,7 @@
       "id": "3e1d34f61023",
       "title": "孟加拉麻疹疫情：由於疫苗缺口，兒童死亡人數上升，ETHealthworld",
       "published": "2026-04-12T23:13:12+00:00",
-      "summary": "孟加拉麻疹疫情：由於疫苗缺口，兒童死亡人數上升，ETHealthworld&nbsp;&nbsp;citytimes.tw多地麻疹持續 衛生局籲加強注意防範&nbsp;&nbsp;澳門廣播電視股份有限公司孟加拉的麻疹疫情迅速蔓延 當局啟動緊急疫苗接種計劃&nbsp;&nbsp;香港電台新聞網麻疹疫情致百童死亡 孟加拉急推疫苗接種&nbsp;&nbsp;大紀元3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種&nbsp;&nbsp;Yahoo新聞",
+      "summary": "孟加拉麻疹疫情：由於疫苗缺口，兒童死亡人數上升，ETHealthworld&nbsp;&nbsp;citytimes.tw多地麻疹持續 衛生局籲加強注意防範&nbsp;&nbsp;澳門廣播電視股份有限公司孟加拉的麻疹疫情迅速蔓延 當局啟動緊急疫苗接種計劃&nbsp;&nbsp;香港電台麻疹疫情致百童死亡 孟加拉急推疫苗接種&nbsp;&nbsp;大紀元3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "citytimes.tw",
@@ -120,27 +181,14 @@
       "matched_keywords": []
     },
     {
-      "id": "5556016cd9d1",
-      "title": "使用尖端奈米盤技術揭示了愛滋病毒和伊波拉病毒的隱藏漏洞",
-      "published": "2026-04-12T14:20:12+00:00",
-      "summary": "使用尖端奈米盤技術揭示了愛滋病毒和伊波拉病毒的隱藏漏洞&nbsp;&nbsp;citytimes.tw",
+      "id": "cbb636b2d181",
+      "title": "不是鮭魚、鯖魚！「這款魚」防失智、護心血管：一小片抵2顆魚油",
+      "published": "2026-04-12T17:14:59+00:00",
+      "summary": "不是鮭魚、鯖魚！「這款魚」防失智、護心血管：一小片抵2顆魚油&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQbm03TWdWU3V6VUFhMzRxLWtVelZDQmZ0cFdOWDIwWFNOUVQyZTluYmJCS2xRV3U3Tm1Na3c4d2JrLWZVSmluZkRyNHh4Q2s0YnJOdFQ0YXI5YzRST0dtQmMwQXllYnlXdFJibDluMTA0WlBCNjlCd0J3ODBFUHVHbWQyOFQ4YUd1QVBPaWtMY3ExLXJxSURvOTRSWExWdGFCM0ltTGt6SFU3ZXBrTUxSUHc4Q3FaZGlMVnNROFNtQk9NYTY3T005SWdjazUzUjhGekpGSExXRWtzOVg1MlJoRGFjcmNNWHlQNnpyc1hPdEdlRXRoSFJoQkdJUncyLTdLNEdES0h3dU9DeXhuT0JvaURaN2VsSUgyYS1jVTgyWjVUUzkzMUdCMWItYmxSUW1Qcmdtck1uOGpDY0NBaTlRSUpaSEVWaFh0Ql9HZ1BqVE13WnhyMEM3ZENZbVoxUVZDdHlSM193?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4238246613ef",
-      "title": "走路就能減脂！「日本式走路」燃脂力超強，還能強化心血管 | Women's Health",
-      "published": "2026-04-12T14:05:00+00:00",
-      "summary": "走路就能減脂！「日本式走路」燃脂力超強，還能強化心血管 | Women's Health&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQT0RhTnVaZy1WQUVlSFFzVzNBVDRJYVN4UEJiczE0bDI5Rlp6TjZMMG1tSF9pcXR6LXA5c2lxaTNzV0pJa2RLV1EyMzlTcENGMDNlR2tmam1kN25tTkMySW5qRmN3UDhveThOMkIxNWxLNkNMNDQ1M3VQTGdUUmZzbm15Q0pxem9hSkk1VnRLSE54N1ZESE5oYno1QTBlZlNuN1FidDBuWjh1YkZaVFJGY2loSHRzaWNXUFdHUm5OSU1RaUtVXzVidm1tWllNSGpGQTQwanM3T3BDaWMxdWhkU2JEOFZWNXQzTnNHLWU0R0xNZUE1cUdKcTloNzZmNExsdHVQekxTRGh2UERCSW5ScExxNzc3bkZadUd3QXV0ZkFKaTZPMEgtU3dRSkxWY2ttMW1nWVNYT0gzSHFOWVBUalFmdVhaVXNPVkhCTWZFbnNRNF9Vd1lqN3dzZFRjaTFqS3VBX0ZFUzF6R1Q1SUVuNFZIWG0?oc=5"
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LQ1VNVEZpTlhpeW5UQ25NMXQ1Wm1jUFBVZ2F5dFBDQXJteW5tWUpxMUVoZklLY3h1MndOZ2ZLbXVTY1hhaGZyQ1ByRkE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -154,8 +202,32 @@
               "name": "Isosorbide dinitrate"
             }
           ]
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
         }
       ]
+    },
+    {
+      "id": "0e4bf8fc8490",
+      "title": "尖端奈米圓盤技術揭示了愛滋病毒和伊波拉病毒的隱藏弱點",
+      "published": "2026-04-12T14:16:23+00:00",
+      "summary": "尖端奈米圓盤技術揭示了愛滋病毒和伊波拉病毒的隱藏弱點&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNY1VFSFhvTVUzUmtPOHRIWEN1YnZ1SmpvaS1MeWlQLWVPbGlDaWp4bFhwMVRlWEhGWTYwSkRGekFxb2FUcElVZVpzZGV0MVdHLThBR3loZUNGVFcxMHdOdDExZHo4cTBfMVpxcHNxSkN1bXNWRzVIeS1yWDlSN3FSUmRmNU93eHMtM0Q1Yko2bnBHTlgwRVNTdHhkSjJwZWg0Ylg0T0Z6Vy1rVW1HSmY1UlZpZE9LNnJhVjFtXzNDUVdCdGZxTndhci1ZWEJ3dGRYVlFVbk1PVmRQLU5tcS12bkJKZEt5c3lRSVZ5RWFCM1ljbzhrRF9qT2lkeV9fd3NGekZWa3o2Ukg2YXJSZWZ2ektLVm8tREV2M0VnNWN1MUlCaUZ3OEhRdHhDX2tVd1laUE1GY2RBT2tuX2EyZi15aGdsanJTSUR0R1lNaVZZdlpBZENzWmJSc0x0Z2E0TmljeTJDM04ybWdXMjhWekJIcjZGUFhpWlE2RGlWb21vVmFkdTFEQ1E?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "a00b09a7a46e",
@@ -284,17 +356,29 @@
       "matched_keywords": []
     },
     {
-      "id": "72b2177e996c",
-      "title": "29歲女誤吸毒氣送急診醫揭反胃真相她眼眶秒紅- 健康",
-      "published": "2026-04-12T02:52:29+00:00",
-      "summary": "29歲女誤吸毒氣送急診醫揭反胃真相她眼眶秒紅- 健康&nbsp;&nbsp;中時新聞網",
+      "id": "efcecea4c8d1",
+      "title": "走路就能減脂！「日本式走路」燃脂力超強，還能強化心血管",
+      "published": "2026-04-12T02:09:17+00:00",
+      "summary": "走路就能減脂！「日本式走路」燃脂力超強，還能強化心血管&nbsp;&nbsp;womenshealthmag.com",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSXduQlMya29hc2FRVWFNUnpISmRVNS1DRm1mR3dCZ2duTWtuU0RWa0p4T3kyOWlNcWdIVGN6SF9WTkxjYkZqV2lXZ1JmOWJFUkFOQUVuYVlpcnFmYW42dUhpbmpueWNKTE5MZkRWSnZWdXJsX0dTS0lxOHJOVzJVWXRGckJidUdhdkNDcGd0VQ?oc=5"
+          "name": "womenshealthmag.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTh1eEVMbDZsNmlwSjhnSjVPSk9fWGJCalJvaDdsNnB0SmRZUjlnX2ZXQW5TaXRJcTZ6a2J4SGhNRXd3WHBNVjl1NmVCZmVUaXMxUktRcGpzQ25SV0JYY2tkNWdzTWZkRU50eDVqaEt1T3VBcG4yNVNjZ3Z0d2pSSTR1U1FaZ0VhNEhnM1FBcFZRcG4wUWtLazBMVU9rLTI1VW13anN6ZVZEVWplN0s0cEpWal9mejdxQUlZYjNmdmJhRGZJUE1RMA?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "7263d39cf424",
@@ -360,44 +444,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "26bf45e5d43a",
-      "title": "7成癌童遇營養危機！營養師揭家長常見2迷思 飲食「三要三不」助力抗癌",
-      "published": "2026-04-11T07:00:00+00:00",
-      "summary": "7成癌童遇營養危機！營養師揭家長常見2迷思 飲食「三要三不」助力抗癌&nbsp;&nbsp;健康醫療網",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UQXQ5aHhXREJhWlBhd0pDeTBUd3JQRVptVkVNdHB0T2JISnY3V2Q4QlZ3Z0ZHX2ZqN29YdW1rbW00WlA5N1p0S0ROaG42Z0JHcjVLSERB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "751f23b10407",
-      "title": "全球6成人缺乏這種維生素中年就開始影響恐牽動失智風險- 國際",
-      "published": "2026-04-11T05:43:17+00:00",
-      "summary": "全球6成人缺乏這種維生素中年就開始影響恐牽動失智風險- 國際&nbsp;&nbsp;中時新聞網防失智，請多曬太陽？16年追蹤研究：30至40歲是黃金預防期&nbsp;&nbsp;遠見雜誌腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關&nbsp;&nbsp;科技島",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ldmRseUY1Q2c5VjRYVWNESVdqbGV4WXhncVp6aEpQOHFraEJvZnVZTkZpSXRmNWR1UlBZZFlwRTZSTGh4RnVidlM3ejBvNjdNODNlZVNnY1M4dWY0cDJNNzE2eU9PRkowLXJESDZn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "b9ba655a58a1",
