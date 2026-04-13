@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-13T11:09:53.064323+00:00",
-  "count": 30,
+  "fetched_at": "2026-04-13T13:03:49.887170+00:00",
+  "count": 28,
   "news": [
-    {
-      "id": "aaab81a550ae",
-      "title": "跨國頭頸癌研究揭示地域差異，女性罹癌風險顯著攀升 - GeneOnline News",
-      "published": "2026-04-13T02:54:52+00:00",
-      "summary": "跨國頭頸癌研究揭示地域差異，女性罹癌風險顯著攀升&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbUxxNFVQOWV5LV9iMDFXYTNWYy1sMWlPaUxOalh6Vkp2NmY2UjdCVWhVcm1iR3pybXYtdzFTcjMzYmVucUZBdzFKLVFERllqYmxYRnZsdm9HXzBDMDlwNzNvNm9LV2ZVNTI2ZVpLQVpoc2c4NGt1UWRITHFRd3hTZjNoYkg1c3hwQVNhZnhkVzI?oc=5"
-        }
-      ]
-    },
     {
       "id": "6e4dce7cd437",
       "title": "超音波掃描活體光源技術突破深層組織影像與治療限制 - GeneOnline News",
@@ -28,26 +16,26 @@
       ]
     },
     {
-      "id": "243706c511ca",
-      "title": "共享基金會在京召開研討會 與國內外專家討論物理手段防控登革熱 將赴日內瓦世衞大會辦邊會 - 香港商报",
-      "published": "2026-04-13T07:20:00+00:00",
-      "summary": "共享基金會在京召開研討會 與國內外專家討論物理手段防控登革熱 將赴日內瓦世衞大會辦邊會&nbsp;&nbsp;香港商报前往 Google 新聞查看完整報導",
+      "id": "aaab81a550ae",
+      "title": "跨國頭頸癌研究揭示地域差異，女性罹癌風險顯著攀升 - GeneOnline News",
+      "published": "2026-04-13T02:54:52+00:00",
+      "summary": "跨國頭頸癌研究揭示地域差異，女性罹癌風險顯著攀升&nbsp;&nbsp;GeneOnline News",
       "sources": [
         {
-          "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VaXNjQ21CejRZTFJTRUlWcF9GbFVSV1BPby1BSEJTY19Vd3BZdm1EbFZ4SmpTUzBGdmY2MUdOMHh3V3BxRjNHSDNYZmthSlI2bmRVVC13THN2cEJWdXBYMUJheHEtVmVwZnRzYjdXdURGRzFEMWlnaWl2WQ?oc=5"
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbUxxNFVQOWV5LV9iMDFXYTNWYy1sMWlPaUxOalh6Vkp2NmY2UjdCVWhVcm1iR3pybXYtdzFTcjMzYmVucUZBdzFKLVFERllqYmxYRnZsdm9HXzBDMDlwNzNvNm9LV2ZVNTI2ZVpLQVpoc2c4NGt1UWRITHFRd3hTZjNoYkg1c3hwQVNhZnhkVzI?oc=5"
         }
       ]
     },
     {
-      "id": "123394e026a7",
-      "title": "防帕金森氏症！研究曝多吃3日式美食：養出護腦好菌- 健康 - 中時新聞網",
-      "published": "2026-04-13T06:59:00+00:00",
-      "summary": "防帕金森氏症！研究曝多吃3日式美食：養出護腦好菌- 健康&nbsp;&nbsp;中時新聞網血液蛋白可預測帕金森氏症？研究揭提前7年風險 專家：仍須謹慎解讀&nbsp;&nbsp;信傳媒",
+      "id": "15766e876110",
+      "title": "共享基金北京召開研討會研物理手段防控登革熱 5月赴瑞士倡物理防控納全球衞生指引 - bastillepost.com",
+      "published": "2026-04-13T09:25:16+00:00",
+      "summary": "共享基金北京召開研討會研物理手段防控登革熱 5月赴瑞士倡物理防控納全球衞生指引&nbsp;&nbsp;bastillepost.com共享基金會在京召開研討會 與國內外專家討論物理手段防控登革熱 將赴日內瓦世衞大會辦邊會&nbsp;&nbsp;香港商报梁振英冀世衞大會期間就防控登革熱及其他蚊媒疾病提供中國方案&nbsp;&nbsp;香港電台國家疾控局發布通知推進重點蟲媒傳染病防控&nbsp;&nbsp;紫荊網蚊蟲提早活躍2種常見蚊患4個家居防蚊重點｜生活百科| 生活熱話&nbsp;&nbsp;Oh!爸媽",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lTkt5VTJQc3ZDeTR3YjE2Nl9PRGtZTjZOb2RJYlc1bW53MW5Genl2MkRGQjN1bEJERnNERXhYYV9JNi1FVXJscHpnNUVkRUdVV1pzdEN5eG95SkZNZlZhUlhQWHVkT01lam11blNR?oc=5"
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNMG1LLUZsQk8ybFlNLS03Qk9GeGVqTVZKalJCRUVsUWdYNW1ONF9lVTJLYnRZT2d0ek5qa29MNE1lUGIweFVvdzlwbmJoc1l4NV96TGpXZVZoTS1GRDRBdGsxdlVPSkJyNWxLbnJBMVZSYmd0NHUxOFY4WDFVeE03NllMUWI1V2V4ZUROQ04xd0xSUEc1eHVNclpILVBrTjBERW9CdW42dTNoS3IwMnFwR1VEaWpaZnlkbDFic1FzVEEwQWM4bngzazZNNzVrSmxDcTJ3Nm5aa2lHVXRDZ2lmYXZfckVvZ0FPQXQwVkRZakptbkxCX2sta3R6Zm5TbWx5LWZLTnhtVW1oNk05V3FUSDBHVTV6ZC1tV0NiYncyYlN3S2w4SnA1UFFOOU5Xb2twMzlmalFpYmkzTTM1UVpGYUZ0R3p4dHc2MjNXeDdNTUZjSE9VYUxHVUN1Snh2dHoxVnZBZw?oc=5"
         }
       ]
     },
@@ -100,22 +88,10 @@
       ]
     },
     {
-      "id": "50abf0b9ed67",
-      "title": "大腸癌檢測現新技術！瑞士開發AI解析糞便細菌 檢出率約9成 - 自由健康網",
-      "published": "2026-04-13T05:36:00+00:00",
-      "summary": "大腸癌檢測現新技術！瑞士開發AI解析糞便細菌 檢出率約9成&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40U20xdURRSDVXdmk2eVgwck9nZy0tMjRzMEphd0JOU0RCR2x5TGltVzZzeks1eDYwZDU1VER6SF9tbkFfZmpYRGpDckdCSFE5RXY3VFhvYzdfWmFFTm45MmZXQzbSAWpBVV95cUxOME1XTEdLT0x1VlZLdm40Q3A3U2hocExEcTdFMm9BNUJkVDJDSDZVSmNYMlMzZDJxSVE2SVpOcERBRnZfSDBUOEpadVJiaTR2cHFrUkhNbFA5Q0xlMS10a2RGOFRKN0F0d053?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7efa6cc7ddfd",
       "title": "為什麼 Ozempic 並不適合所有人：科學家剛剛發現了一個隱藏的原因 - citytimes.tw",
       "published": "2026-04-12T13:02:36+00:00",
-      "summary": "為什麼 Ozempic 並不適合所有人：科學家剛剛發現了一個隱藏的原因&nbsp;&nbsp;citytimes.tw有人打瘦瘦針卻沒瘦 研究：關鍵可能在DNA&nbsp;&nbsp;自由健康網打瘦瘦針恐缺營養？研究示警：GLP-1減重藥，恐影響維生素與礦物質吸收&nbsp;&nbsp;Yahoo新聞為什麼 Ozempic 並不適合所有人：科學家剛剛找到了隱藏的原因&nbsp;&nbsp;arch-web.com.tw同樣服用減肥藥，你的效果為何不如別人&nbsp;&nbsp;华尔街日报中文网",
+      "summary": "為什麼 Ozempic 並不適合所有人：科學家剛剛發現了一個隱藏的原因&nbsp;&nbsp;citytimes.tw有人打瘦瘦針卻沒瘦 研究：關鍵可能在DNA&nbsp;&nbsp;自由健康網Euronews 精選／用猛健樂甩肉比人慢？研究點出影響藥效關鍵&nbsp;&nbsp;經濟日報打瘦瘦針恐缺營養？研究示警：GLP-1減重藥，恐影響維生素與礦物質吸收&nbsp;&nbsp;Yahoo新聞為什麼 Ozempic 並不適合所有人：科學家剛剛找到了隱藏的原因&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
           "name": "citytimes.tw",
@@ -148,14 +124,14 @@
       ]
     },
     {
-      "id": "67548df65fb4",
-      "title": "不只降血壓！研究揭6大飲食模式有助護腦、降低失智風險 - 元氣網",
-      "published": "2026-04-13T02:44:29+00:00",
-      "summary": "不只降血壓！研究揭6大飲食模式有助護腦、降低失智風險&nbsp;&nbsp;元氣網Omega-3、魚油成分能健腦？醫揭「防失智保健食品」令人失望的真相&nbsp;&nbsp;元氣網炒菜換瓶油！長者吃2年「初榨橄欖油」認知功能勝出&nbsp;&nbsp;Yahoo新聞怕老化失智？美國營養師大推「14種護腦食物」逆轉大腦退化、增強記憶力&nbsp;&nbsp;ELLE醫師示警：橄欖油用錯恐害大腦退化！怎麼挑選才健康？&nbsp;&nbsp;天下雜誌",
+      "id": "817becfd402c",
+      "title": "怕老化失智？美國營養師大推「14種護腦食物」逆轉大腦退化、增強記憶力 - ELLE",
+      "published": "2026-04-13T08:45:48+00:00",
+      "summary": "怕老化失智？美國營養師大推「14種護腦食物」逆轉大腦退化、增強記憶力&nbsp;&nbsp;ELLEOmega-3、魚油成分能健腦？醫揭「防失智保健食品」令人失望的真相&nbsp;&nbsp;元氣網炒菜換瓶油！長者吃2年「初榨橄欖油」認知功能勝出&nbsp;&nbsp;Yahoo新聞醫師示警：橄欖油用錯恐害大腦退化！怎麼挑選才健康？&nbsp;&nbsp;天下雜誌研究：中年改吃健康植物飲食 有助降低失智風險&nbsp;&nbsp;Taiwan News",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VnBJVkNOS1RZNmplVVljVm8zYlBmSHRyWTVZaFk3UEU0STBmTUJOOE1GQzZNa0hSU2I1a01nWHZEWGNLSmdoREg0ZGtzbGk2bnlUaXZKTWNTdlBo0gFiQVVfeXFMTTBxQUhfZzYwMHhVelM0ejlIek9Od2FaZjRPSTJhaE4wVFE5QzFBaVFNVTBVRmZoUEpvY0lqbllMLVpoN0hjRnBSLTJlYzFtR2p1NmY5U0Juc2g0d0dveDBxZkE?oc=5"
+          "name": "ELLE",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4TFZNSDhmcUJYSFBUVjc4TUtqWG5NOGhtbG41bWZYdERuQi1qRjdyT3FkRDg1ZGd5Y0FkdmNUTUhEaUVQazhCeThWZWxnQ2dIQkgxdHQ3TEl1NEdQT1J6X21yenhzeURyZ1RrV1VYal9vSFZmX1E?oc=5"
         }
       ]
     },
@@ -220,18 +196,6 @@
       ]
     },
     {
-      "id": "0e4bf8fc8490",
-      "title": "尖端奈米圓盤技術揭示了愛滋病毒和伊波拉病毒的隱藏弱點 - arch-web.com.tw",
-      "published": "2026-04-12T14:16:23+00:00",
-      "summary": "尖端奈米圓盤技術揭示了愛滋病毒和伊波拉病毒的隱藏弱點&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNY1VFSFhvTVUzUmtPOHRIWEN1YnZ1SmpvaS1MeWlQLWVPbGlDaWp4bFhwMVRlWEhGWTYwSkRGekFxb2FUcElVZVpzZGV0MVdHLThBR3loZUNGVFcxMHdOdDExZHo4cTBfMVpxcHNxSkN1bXNWRzVIeS1yWDlSN3FSUmRmNU93eHMtM0Q1Yko2bnBHTlgwRVNTdHhkSjJwZWg0Ylg0T0Z6Vy1rVW1HSmY1UlZpZE9LNnJhVjFtXzNDUVdCdGZxTndhci1ZWEJ3dGRYVlFVbk1PVmRQLU5tcS12bkJKZEt5c3lRSVZ5RWFCM1ljbzhrRF9qT2lkeV9fd3NGekZWa3o2Ukg2YXJSZWZ2ektLVm8tREV2M0VnNWN1MUlCaUZ3OEhRdHhDX2tVd1laUE1GY2RBT2tuX2EyZi15aGdsanJTSUR0R1lNaVZZdlpBZENzWmJSc0x0Z2E0TmljeTJDM04ybWdXMjhWekJIcjZGUFhpWlE2RGlWb21vVmFkdTFEQ1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e45a943bb06c",
       "title": "護腎關鍵找到了！最新研究：掌握「1飲食法」有效降低洗腎風險 - Harper's BAZAAR",
       "published": "2026-04-13T10:40:09+00:00",
@@ -240,6 +204,18 @@
         {
           "name": "Harper's BAZAAR",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdzN6UkhXTy0zb3I5OVdwcnZTa0t0SE9JM2VqNmVNMUpHWVc3SUJSM1l4UGNzNkZVSl9FenM4R2M4WlE0eUVMS0x5MHREN2pDaTlBT1V6WkxKbHhVbV9jNExieU1ROWYzelpvaXU1c09FX09DNEFZa0liUUZLWHFEZEU3NUY0QWZET3p6bWR5Q2VNbE9yLWVFTjJOeWM2WjJp?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0e4bf8fc8490",
+      "title": "尖端奈米圓盤技術揭示了愛滋病毒和伊波拉病毒的隱藏弱點 - arch-web.com.tw",
+      "published": "2026-04-12T14:16:23+00:00",
+      "summary": "尖端奈米圓盤技術揭示了愛滋病毒和伊波拉病毒的隱藏弱點&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNY1VFSFhvTVUzUmtPOHRIWEN1YnZ1SmpvaS1MeWlQLWVPbGlDaWp4bFhwMVRlWEhGWTYwSkRGekFxb2FUcElVZVpzZGV0MVdHLThBR3loZUNGVFcxMHdOdDExZHo4cTBfMVpxcHNxSkN1bXNWRzVIeS1yWDlSN3FSUmRmNU93eHMtM0Q1Yko2bnBHTlgwRVNTdHhkSjJwZWg0Ylg0T0Z6Vy1rVW1HSmY1UlZpZE9LNnJhVjFtXzNDUVdCdGZxTndhci1ZWEJ3dGRYVlFVbk1PVmRQLU5tcS12bkJKZEt5c3lRSVZ5RWFCM1ljbzhrRF9qT2lkeV9fd3NGekZWa3o2Ukg2YXJSZWZ2ektLVm8tREV2M0VnNWN1MUlCaUZ3OEhRdHhDX2tVd1laUE1GY2RBT2tuX2EyZi15aGdsanJTSUR0R1lNaVZZdlpBZENzWmJSc0x0Z2E0TmljeTJDM04ybWdXMjhWekJIcjZGUFhpWlE2RGlWb21vVmFkdTFEQ1E?oc=5"
         }
       ]
     },

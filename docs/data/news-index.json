@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-13T11:09:57.531235+00:00",
-  "count": 7,
+  "generated": "2026-04-13T13:03:54.011757+00:00",
+  "count": 6,
   "news": [
     {
       "id": "e45a943bb06c",
@@ -112,6 +112,30 @@
       ]
     },
     {
+      "id": "817becfd402c",
+      "title": "怕老化失智？美國營養師大推「14種護腦食物」逆轉大腦退化、增強記憶力",
+      "published": "2026-04-13T08:45:48+00:00",
+      "sources": [
+        {
+          "name": "ELLE",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4TFZNSDhmcUJYSFBUVjc4TUtqWG5NOGhtbG41bWZYdERuQi1qRjdyT3FkRDg1ZGd5Y0FkdmNUTUhEaUVQazhCeThWZWxnQ2dIQkgxdHQ3TEl1NEdQT1J6X21yenhzeURyZ1RrV1VYal9vSFZmX1E?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "e1dc1cc254c9",
       "title": "癲癇基因療法展突破 卓飛症候群病患發作率大降逾八成",
       "published": "2026-04-13T07:12:45+00:00",
@@ -130,53 +154,6 @@
             {
               "slug": "acetazolamide",
               "name": "Acetazolamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "50abf0b9ed67",
-      "title": "大腸癌檢測現新技術！瑞士開發AI解析糞便細菌 檢出率約9成",
-      "published": "2026-04-13T05:36:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40U20xdURRSDVXdmk2eVgwck9nZy0tMjRzMEphd0JOU0RCR2x5TGltVzZzeks1eDYwZDU1VER6SF9tbkFfZmpYRGpDckdCSFE5RXY3VFhvYzdfWmFFTm45MmZXQzbSAWpBVV95cUxOME1XTEdLT0x1VlZLdm40Q3A3U2hocExEcTdFMm9BNUJkVDJDSDZVSmNYMlMzZDJxSVE2SVpOcERBRnZfSDBUOEpadVJiaTR2cHFrUkhNbFA5Q0xlMS10a2RGOFRKN0F0d053?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
@@ -205,30 +182,6 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "67548df65fb4",
-      "title": "不只降血壓！研究揭6大飲食模式有助護腦、降低失智風險",
-      "published": "2026-04-13T02:44:29+00:00",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VnBJVkNOS1RZNmplVVljVm8zYlBmSHRyWTVZaFk3UEU0STBmTUJOOE1GQzZNa0hSU2I1a01nWHZEWGNLSmdoREg0ZGtzbGk2bnlUaXZKTWNTdlBo0gFiQVVfeXFMTTBxQUhfZzYwMHhVelM0ejlIek9Od2FaZjRPSTJhaE4wVFE5QzFBaVFNVTBVRmZoUEpvY0lqbllMLVpoN0hjRnBSLTJlYzFtR2p1NmY5U0Juc2g0d0dveDBxZkE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

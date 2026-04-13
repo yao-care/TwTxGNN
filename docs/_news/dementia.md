@@ -31,11 +31,11 @@ permalink: /news/dementia/
 
 ## 相關新聞（1 則）
 
-### [不只降血壓！研究揭6大飲食模式有助護腦、降低失智風險](https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VnBJVkNOS1RZNmplVVljVm8zYlBmSHRyWTVZaFk3UEU0STBmTUJOOE1GQzZNa0hSU2I1a01nWHZEWGNLSmdoREg0ZGtzbGk2bnlUaXZKTWNTdlBo0gFiQVVfeXFMTTBxQUhfZzYwMHhVelM0ejlIek9Od2FaZjRPSTJhaE4wVFE5QzFBaVFNVTBVRmZoUEpvY0lqbllMLVpoN0hjRnBSLTJlYzFtR2p1NmY5U0Juc2g0d0dveDBxZkE?oc=5)
+### [怕老化失智？美國營養師大推「14種護腦食物」逆轉大腦退化、增強記憶力](https://news.google.com/rss/articles/CBMidkFVX3lxTFB4TFZNSDhmcUJYSFBUVjc4TUtqWG5NOGhtbG41bWZYdERuQi1qRjdyT3FkRDg1ZGd5Y0FkdmNUTUhEaUVQazhCeThWZWxnQ2dIQkgxdHQ3TEl1NEdQT1J6X21yenhzeURyZ1RrV1VYal9vSFZmX1E?oc=5)
 
 2026-04-13
 
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VnBJVkNOS1RZNmplVVljVm8zYlBmSHRyWTVZaFk3UEU0STBmTUJOOE1GQzZNa0hSU2I1a01nWHZEWGNLSmdoREg0ZGtzbGk2bnlUaXZKTWNTdlBo0gFiQVVfeXFMTTBxQUhfZzYwMHhVelM0ejlIek9Od2FaZjRPSTJhaE4wVFE5QzFBaVFNVTBVRmZoUEpvY0lqbllMLVpoN0hjRnBSLTJlYzFtR2p1NmY5U0Juc2g0d0dveDBxZkE?oc=5)
+來源：[ELLE](https://news.google.com/rss/articles/CBMidkFVX3lxTFB4TFZNSDhmcUJYSFBUVjc4TUtqWG5NOGhtbG41bWZYdERuQi1qRjdyT3FkRDg1ZGd5Y0FkdmNUTUhEaUVQazhCeThWZWxnQ2dIQkgxdHQ3TEl1NEdQT1J6X21yenhzeURyZ1RrV1VYal9vSFZmX1E?oc=5)
 
 ---
 
