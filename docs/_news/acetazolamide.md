@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [護腎關鍵找到了！最新研究：掌握「1飲食法」有效降低洗腎風險 - Harper's BAZAAR](https://news.google.com/rss/articles/CBMioAFBVV95cUxNdzN6UkhXTy0zb3I5OVdwcnZTa0t0SE9JM2VqNmVNMUpHWVc3SUJSM1l4UGNzNkZVSl9FenM4R2M4WlE0eUVMS0x5MHREN2pDaTlBT1V6WkxKbHhVbV9jNExieU1ROWYzelpvaXU1c09FX09DNEFZa0liUUZLWHFEZEU3NUY0QWZET3p6bWR5Q2VNbE9yLWVFTjJOeWM2WjJp?oc=5)
+
+2026-04-13 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
+
+來源：[Harper's BAZAAR](https://news.google.com/rss/articles/CBMioAFBVV95cUxNdzN6UkhXTy0zb3I5OVdwcnZTa0t0SE9JM2VqNmVNMUpHWVc3SUJSM1l4UGNzNkZVSl9FenM4R2M4WlE0eUVMS0x5MHREN2pDaTlBT1V6WkxKbHhVbV9jNExieU1ROWYzelpvaXU1c09FX09DNEFZa0liUUZLWHFEZEU3NUY0QWZET3p6bWR5Q2VNbE9yLWVFTjJOeWM2WjJp?oc=5)
+
+---
 
 ### [癲癇基因療法展突破 卓飛症候群病患發作率大降逾八成](https://news.google.com/rss/articles/CBMiOkFVX3lxTE9rMm95bm4xRnR4OXJhQzlmNHA1OEtzbV9QMGU2TGlMaTZEME5tcHA2VVVtdi1nRVZoTFE?oc=5)
 

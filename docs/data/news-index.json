@@ -1,26 +1,111 @@
 {
-  "generated": "2026-04-13T09:28:20.917002+00:00",
+  "generated": "2026-04-13T11:09:57.531235+00:00",
   "count": 7,
   "news": [
     {
-      "id": "817becfd402c",
-      "title": "怕老化失智？美國營養師大推「14種護腦食物」逆轉大腦退化、增強記憶力",
-      "published": "2026-04-13T08:45:48+00:00",
+      "id": "e45a943bb06c",
+      "title": "護腎關鍵找到了！最新研究：掌握「1飲食法」有效降低洗腎風險 - Harper's BAZAAR",
+      "published": "2026-04-13T10:40:09+00:00",
       "sources": [
         {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4TFZNSDhmcUJYSFBUVjc4TUtqWG5NOGhtbG41bWZYdERuQi1qRjdyT3FkRDg1ZGd5Y0FkdmNUTUhEaUVQazhCeThWZWxnQ2dIQkgxdHQ3TEl1NEdQT1J6X21yenhzeURyZ1RrV1VYal9vSFZmX1E?oc=5"
+          "name": "Harper's BAZAAR",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdzN6UkhXTy0zb3I5OVdwcnZTa0t0SE9JM2VqNmVNMUpHWVc3SUJSM1l4UGNzNkZVSl9FenM4R2M4WlE0eUVMS0x5MHREN2pDaTlBT1V6WkxKbHhVbV9jNExieU1ROWYzelpvaXU1c09FX09DNEFZa0liUUZLWHFEZEU3NUY0QWZET3p6bWR5Q2VNbE9yLWVFTjJOeWM2WjJp?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
+          "name": "cardiovascular",
+          "keyword": "心血管",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
             }
           ]
         }
@@ -126,27 +211,16 @@
       ]
     },
     {
-      "id": "cbb636b2d181",
-      "title": "不是鮭魚、鯖魚！「這款魚」防失智、護心血管：一小片抵2顆魚油",
-      "published": "2026-04-12T17:14:59+00:00",
+      "id": "67548df65fb4",
+      "title": "不只降血壓！研究揭6大飲食模式有助護腦、降低失智風險",
+      "published": "2026-04-13T02:44:29+00:00",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LQ1VNVEZpTlhpeW5UQ25NMXQ1Wm1jUFBVZ2F5dFBDQXJteW5tWUpxMUVoZklLY3h1MndOZ2ZLbXVTY1hhaGZyQ1ByRkE?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VnBJVkNOS1RZNmplVVljVm8zYlBmSHRyWTVZaFk3UEU0STBmTUJOOE1GQzZNa0hSU2I1a01nWHZEWGNLSmdoREg0ZGtzbGk2bnlUaXZKTWNTdlBo0gFiQVVfeXFMTTBxQUhfZzYwMHhVelM0ejlIek9Od2FaZjRPSTJhaE4wVFE5QzFBaVFNVTBVRmZoUEpvY0lqbllMLVpoN0hjRnBSLTJlYzFtR2p1NmY5U0Juc2g0d0dveDBxZkE?oc=5"
         }
       ],
       "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "dementia",
@@ -155,30 +229,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4238246613ef",
-      "title": "走路就能減脂！「日本式走路」燃脂力超強，還能強化心血管 | Women's Health",
-      "published": "2026-04-12T14:05:00+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQT0RhTnVaZy1WQUVlSFFzVzNBVDRJYVN4UEJiczE0bDI5Rlp6TjZMMG1tSF9pcXR6LXA5c2lxaTNzV0pJa2RLV1EyMzlTcENGMDNlR2tmam1kN25tTkMySW5qRmN3UDhveThOMkIxNWxLNkNMNDQ1M3VQTGdUUmZzbm15Q0pxem9hSkk1VnRLSE54N1ZESE5oYno1QTBlZlNuN1FidDBuWjh1YkZaVFJGY2loSHRzaWNXUFdHUm5OSU1RaUtVXzVidm1tWllNSGpGQTQwanM3T3BDaWMxdWhkU2JEOFZWNXQzTnNHLWU0R0xNZUE1cUdKcTloNzZmNExsdHVQekxTRGh2UERCSW5ScExxNzc3bkZadUd3QXV0ZkFKaTZPMEgtU3dRSkxWY2ttMW1nWVNYT0gzSHFOWVBUalFmdVhaVXNPVkhCTWZFbnNRNF9Vd1lqN3dzZFRjaTFqS3VBX0ZFUzF6R1Q1SUVuNFZIWG0?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
             }
           ]
         }
@@ -210,6 +260,30 @@
           "type": "indication",
           "name": "心血管疾病",
           "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "efcecea4c8d1",
+      "title": "走路就能減脂！「日本式走路」燃脂力超強，還能強化心血管",
+      "published": "2026-04-12T02:09:17+00:00",
+      "sources": [
+        {
+          "name": "womenshealthmag.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTh1eEVMbDZsNmlwSjhnSjVPSk9fWGJCalJvaDdsNnB0SmRZUjlnX2ZXQW5TaXRJcTZ6a2J4SGhNRXd3WHBNVjl1NmVCZmVUaXMxUktRcGpzQ25SV0JYY2tkNWdzTWZkRU50eDVqaEt1T3VBcG4yNVNjZ3Z0d2pSSTR1U1FaZ0VhNEhnM1FBcFZRcG4wUWtLazBMVU9rLTI1VW13anN6ZVZEVWplN0s0cEpWal9mejdxQUlZYjNmdmJhRGZJUE1RMA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
           "related_drugs": [
             {
               "slug": "isosorbide_dinitrate",

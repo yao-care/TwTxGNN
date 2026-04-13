@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [怕老化失智？美國營養師大推「14種護腦食物」逆轉大腦退化、增強記憶力](https://news.google.com/rss/articles/CBMidkFVX3lxTFB4TFZNSDhmcUJYSFBUVjc4TUtqWG5NOGhtbG41bWZYdERuQi1qRjdyT3FkRDg1ZGd5Y0FkdmNUTUhEaUVQazhCeThWZWxnQ2dIQkgxdHQ3TEl1NEdQT1J6X21yenhzeURyZ1RrV1VYal9vSFZmX1E?oc=5)
+### [不只降血壓！研究揭6大飲食模式有助護腦、降低失智風險](https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VnBJVkNOS1RZNmplVVljVm8zYlBmSHRyWTVZaFk3UEU0STBmTUJOOE1GQzZNa0hSU2I1a01nWHZEWGNLSmdoREg0ZGtzbGk2bnlUaXZKTWNTdlBo0gFiQVVfeXFMTTBxQUhfZzYwMHhVelM0ejlIek9Od2FaZjRPSTJhaE4wVFE5QzFBaVFNVTBVRmZoUEpvY0lqbllMLVpoN0hjRnBSLTJlYzFtR2p1NmY5U0Juc2g0d0dveDBxZkE?oc=5)
 
 2026-04-13
 
-來源：[ELLE](https://news.google.com/rss/articles/CBMidkFVX3lxTFB4TFZNSDhmcUJYSFBUVjc4TUtqWG5NOGhtbG41bWZYdERuQi1qRjdyT3FkRDg1ZGd5Y0FkdmNUTUhEaUVQazhCeThWZWxnQ2dIQkgxdHQ3TEl1NEdQT1J6X21yenhzeURyZ1RrV1VYal9vSFZmX1E?oc=5)
-
----
-
-### [不是鮭魚、鯖魚！「這款魚」防失智、護心血管：一小片抵2顆魚油](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LQ1VNVEZpTlhpeW5UQ25NMXQ1Wm1jUFBVZ2F5dFBDQXJteW5tWUpxMUVoZklLY3h1MndOZ2ZLbXVTY1hhaGZyQ1ByRkE?oc=5)
-
-2026-04-12
-
-來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LQ1VNVEZpTlhpeW5UQ25NMXQ1Wm1jUFBVZ2F5dFBDQXJteW5tWUpxMUVoZklLY3h1MndOZ2ZLbXVTY1hhaGZyQ1ByRkE?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VnBJVkNOS1RZNmplVVljVm8zYlBmSHRyWTVZaFk3UEU0STBmTUJOOE1GQzZNa0hSU2I1a01nWHZEWGNLSmdoREg0ZGtzbGk2bnlUaXZKTWNTdlBo0gFiQVVfeXFMTTBxQUhfZzYwMHhVelM0ejlIek9Od2FaZjRPSTJhaE4wVFE5QzFBaVFNVTBVRmZoUEpvY0lqbllMLVpoN0hjRnBSLTJlYzFtR2p1NmY5U0Juc2g0d0dveDBxZkE?oc=5)
 
 ---
 
