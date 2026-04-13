@@ -43,19 +43,19 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（2 則）
 
+### [怕老化失智？美國營養師大推「14種護腦食物」逆轉大腦退化、增強記憶力](https://news.google.com/rss/articles/CBMidkFVX3lxTFB4TFZNSDhmcUJYSFBUVjc4TUtqWG5NOGhtbG41bWZYdERuQi1qRjdyT3FkRDg1ZGd5Y0FkdmNUTUhEaUVQazhCeThWZWxnQ2dIQkgxdHQ3TEl1NEdQT1J6X21yenhzeURyZ1RrV1VYal9vSFZmX1E?oc=5)
+
+2026-04-13 <span class="news-indication-tag">失智</span>
+
+來源：[ELLE](https://news.google.com/rss/articles/CBMidkFVX3lxTFB4TFZNSDhmcUJYSFBUVjc4TUtqWG5NOGhtbG41bWZYdERuQi1qRjdyT3FkRDg1ZGd5Y0FkdmNUTUhEaUVQazhCeThWZWxnQ2dIQkgxdHQ3TEl1NEdQT1J6X21yenhzeURyZ1RrV1VYal9vSFZmX1E?oc=5)
+
+---
+
 ### [不是鮭魚、鯖魚！「這款魚」防失智、護心血管：一小片抵2顆魚油](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LQ1VNVEZpTlhpeW5UQ25NMXQ1Wm1jUFBVZ2F5dFBDQXJteW5tWUpxMUVoZklLY3h1MndOZ2ZLbXVTY1hhaGZyQ1ByRkE?oc=5)
 
 2026-04-12 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">失智</span>
 
 來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LQ1VNVEZpTlhpeW5UQ25NMXQ1Wm1jUFBVZ2F5dFBDQXJteW5tWUpxMUVoZklLY3h1MndOZ2ZLbXVTY1hhaGZyQ1ByRkE?oc=5)
-
----
-
-### [炒菜換瓶油！長者吃2年「初榨橄欖油」認知功能勝出](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPTEx4SHVZMXpSeElrRFYycVhwX2RIQzhna0lYOHN1NTVmODBkLXJmemxZUGppLUt2MXZuYS1NcWlnSmFmSlhtYVVIaUhvQ0Z4cGVwM3p2UjVGZlF2NGx0dkc5cVdXV3ZlckJJRjhfRkVkSzRTTmY2MGNOamVja1NaMklZVk5uN2p6NnlkbTNyclhSdm5fN0FzMG9KRnktNDRBUVVEbnI0SjhudEJaQTJhRXVsTU1lNTBqeGZudGVIWnc1T1ljemplamNVU0NTSWZTaTdqRWoydGR6b05jNXVWTzNxZ2JZUy1EXzY1M0RodndwVE5ncXBfOEw3anZ2bGJUWmM1eUdaQ18yT3h5d1lxSFdjWTQ5dXBrdVJVd1ZHNjJhZ3ZRd3R3bmpVRER2c0VUeUVkeW1CdTVsWnFqcklXdVE4NEoyb0dL?oc=5)
-
-2026-04-12 <span class="news-indication-tag">失智</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPTEx4SHVZMXpSeElrRFYycVhwX2RIQzhna0lYOHN1NTVmODBkLXJmemxZUGppLUt2MXZuYS1NcWlnSmFmSlhtYVVIaUhvQ0Z4cGVwM3p2UjVGZlF2NGx0dkc5cVdXV3ZlckJJRjhfRkVkSzRTTmY2MGNOamVja1NaMklZVk5uN2p6NnlkbTNyclhSdm5fN0FzMG9KRnktNDRBUVVEbnI0SjhudEJaQTJhRXVsTU1lNTBqeGZudGVIWnc1T1ljemplamNVU0NTSWZTaTdqRWoydGR6b05jNXVWTzNxZ2JZUy1EXzY1M0RodndwVE5ncXBfOEw3anZ2bGJUWmM1eUdaQ18yT3h5d1lxSFdjWTQ5dXBrdVJVd1ZHNjJhZ3ZRd3R3bmpVRER2c0VUeUVkeW1CdTVsWnFqcklXdVE4NEoyb0dL?oc=5)
 
 ---
 
