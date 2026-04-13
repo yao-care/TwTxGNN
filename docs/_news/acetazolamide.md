@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [癲癇基因療法展突破 卓飛症候群病患發作率大降逾八成](https://news.google.com/rss/articles/CBMi-gJBVV95cUxNTWsyOEgzTnZJaDR1bjM3YzMzaVJQZnM1c2RpaFNZWDNYNHpnZklXenJiOFptRFc5M0RIM0M3aXJZMXFPVzRFLWxsWTZhMllHN2JvRGtROGg3ZXVmbWdFQ1dZc1ByeXRMM1pIZHlpOUxJY2d0U3h6OFA0dkFrdnl2WVE0MVpFVkFwQkdGUmE0OU12QUFPOHd0MmJZd1RLZUE0c0ZtajRucU1qTEYyQk9BZzhHZWh3WmQ0dFktS0dfclJ6S0RLSU1sajM0Z2NCTVdrZFpQeXgwOVlWVDBfbjlMQ19JOVBrR0xCYy03ZEhibVRkSXJCMVAtanNkRl9BQXlUVjRnT2lLUWFaQ3cxMHc2Z2h3LTV3RU80V2h4VTF4RnhWcGdYV1U4bFhYTUR1MFF5Q2dyYVh3NzE5ZjFWeXh6MlMwbDl3ZVpwQkwyTF9jaFRSVlFJRlJqRlp5aEc0T1Zjekd1U0RKQkNDRk00N053U3VQR2ZCMlQzNXc?oc=5)
+
+2026-04-13 <span class="news-indication-tag">癲癇</span>
+
+來源：[商傳媒](https://news.google.com/rss/articles/CBMi-gJBVV95cUxNTWsyOEgzTnZJaDR1bjM3YzMzaVJQZnM1c2RpaFNZWDNYNHpnZklXenJiOFptRFc5M0RIM0M3aXJZMXFPVzRFLWxsWTZhMllHN2JvRGtROGg3ZXVmbWdFQ1dZc1ByeXRMM1pIZHlpOUxJY2d0U3h6OFA0dkFrdnl2WVE0MVpFVkFwQkdGUmE0OU12QUFPOHd0MmJZd1RLZUE0c0ZtajRucU1qTEYyQk9BZzhHZWh3WmQ0dFktS0dfclJ6S0RLSU1sajM0Z2NCTVdrZFpQeXgwOVlWVDBfbjlMQ19JOVBrR0xCYy03ZEhibVRkSXJCMVAtanNkRl9BQXlUVjRnT2lLUWFaQ3cxMHc2Z2h3LTV3RU80V2h4VTF4RnhWcGdYV1U4bFhYTUR1MFF5Q2dyYVh3NzE5ZjFWeXh6MlMwbDl3ZVpwQkwyTF9jaFRSVlFJRlJqRlp5aEc0T1Zjekd1U0RKQkNDRk00N053U3VQR2ZCMlQzNXc?oc=5)
+
+---
 
 
 <div class="disclaimer">

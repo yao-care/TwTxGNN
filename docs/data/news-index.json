@@ -1,7 +1,79 @@
 {
-  "generated": "2026-04-13T01:52:47.072112+00:00",
-  "count": 3,
+  "generated": "2026-04-13T04:52:21.946400+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "381163668920",
+      "title": "癲癇基因療法展突破 卓飛症候群病患發作率大降逾八成",
+      "published": "2026-04-13T04:29:38+00:00",
+      "sources": [
+        {
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNTWsyOEgzTnZJaDR1bjM3YzMzaVJQZnM1c2RpaFNZWDNYNHpnZklXenJiOFptRFc5M0RIM0M3aXJZMXFPVzRFLWxsWTZhMllHN2JvRGtROGg3ZXVmbWdFQ1dZc1ByeXRMM1pIZHlpOUxJY2d0U3h6OFA0dkFrdnl2WVE0MVpFVkFwQkdGUmE0OU12QUFPOHd0MmJZd1RLZUE0c0ZtajRucU1qTEYyQk9BZzhHZWh3WmQ0dFktS0dfclJ6S0RLSU1sajM0Z2NCTVdrZFpQeXgwOVlWVDBfbjlMQ19JOVBrR0xCYy03ZEhibVRkSXJCMVAtanNkRl9BQXlUVjRnT2lLUWFaQ3cxMHc2Z2h3LTV3RU80V2h4VTF4RnhWcGdYV1U4bFhYTUR1MFF5Q2dyYVh3NzE5ZjFWeXh6MlMwbDl3ZVpwQkwyTF9jaFRSVlFJRlJqRlp5aEc0T1Zjekd1U0RKQkNDRk00N053U3VQR2ZCMlQzNXc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "癲癇",
+          "keyword": "癲癇",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4238246613ef",
+      "title": "走路就能減脂！「日本式走路」燃脂力超強，還能強化心血管 | Women's Health",
+      "published": "2026-04-12T14:05:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQT0RhTnVaZy1WQUVlSFFzVzNBVDRJYVN4UEJiczE0bDI5Rlp6TjZMMG1tSF9pcXR6LXA5c2lxaTNzV0pJa2RLV1EyMzlTcENGMDNlR2tmam1kN25tTkMySW5qRmN3UDhveThOMkIxNWxLNkNMNDQ1M3VQTGdUUmZzbm15Q0pxem9hSkk1VnRLSE54N1ZESE5oYno1QTBlZlNuN1FidDBuWjh1YkZaVFJGY2loSHRzaWNXUFdHUm5OSU1RaUtVXzVidm1tWllNSGpGQTQwanM3T3BDaWMxdWhkU2JEOFZWNXQzTnNHLWU0R0xNZUE1cUdKcTloNzZmNExsdHVQekxTRGh2UERCSW5ScExxNzc3bkZadUd3QXV0ZkFKaTZPMEgtU3dRSkxWY2ttMW1nWVNYT0gzSHFOWVBUalFmdVhaVXNPVkhCTWZFbnNRNF9Vd1lqN3dzZFRjaTFqS3VBX0ZFUzF6R1Q1SUVuNFZIWG0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "36d2aa59b114",
+      "title": "炒菜換瓶油！長者吃2年「初榨橄欖油」認知功能勝出",
+      "published": "2026-04-12T09:21:38+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPTEx4SHVZMXpSeElrRFYycVhwX2RIQzhna0lYOHN1NTVmODBkLXJmemxZUGppLUt2MXZuYS1NcWlnSmFmSlhtYVVIaUhvQ0Z4cGVwM3p2UjVGZlF2NGx0dkc5cVdXV3ZlckJJRjhfRkVkSzRTTmY2MGNOamVja1NaMklZVk5uN2p6NnlkbTNyclhSdm5fN0FzMG9KRnktNDRBUVVEbnI0SjhudEJaQTJhRXVsTU1lNTBqeGZudGVIWnc1T1ljemplamNVU0NTSWZTaTdqRWoydGR6b05jNXVWTzNxZ2JZUy1EXzY1M0RodndwVE5ncXBfOEw3anZ2bGJUWmM1eUdaQ18yT3h5d1lxSFdjWTQ5dXBrdVJVd1ZHNjJhZ3ZRd3R3bmpVRER2c0VUeUVkeW1CdTVsWnFqcklXdVE4NEoyb0dL?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "50c355c86472",
       "title": "哥倫比亞的庫欣氏症候群：他們警告說，一種無聲的疾病會增加糖尿病和心血管疾病的風險",
@@ -28,30 +100,6 @@
           "type": "indication",
           "name": "心血管疾病",
           "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "efcecea4c8d1",
-      "title": "走路就能減脂！「日本式走路」燃脂力超強，還能強化心血管",
-      "published": "2026-04-12T02:09:17+00:00",
-      "sources": [
-        {
-          "name": "womenshealthmag.com",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTh1eEVMbDZsNmlwSjhnSjVPSk9fWGJCalJvaDdsNnB0SmRZUjlnX2ZXQW5TaXRJcTZ6a2J4SGhNRXd3WHBNVjl1NmVCZmVUaXMxUktRcGpzQ25SV0JYY2tkNWdzTWZkRU50eDVqaEt1T3VBcG4yNVNjZ3Z0d2pSSTR1U1FaZ0VhNEhnM1FBcFZRcG4wUWtLazBMVU9rLTI1VW13anN6ZVZEVWplN0s0cEpWal9mejdxQUlZYjNmdmJhRGZJUE1RMA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
           "related_drugs": [
             {
               "slug": "isosorbide_dinitrate",
