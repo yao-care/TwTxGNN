@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-13T20:43:44.729029+00:00",
-  "count": 27,
+  "fetched_at": "2026-04-13T21:39:54.909756+00:00",
+  "count": 26,
   "news": [
     {
       "id": "2d5e07b0648f",
@@ -76,18 +76,6 @@
       ]
     },
     {
-      "id": "4d1e3d3adb88",
-      "title": "糖尿病藥防癌︱糖尿病藥Metformin可防癌？醫生解析4大機制阻斷惡性增生搭配5營養素抗發炎更有效 - 香港經濟日報HKET",
-      "published": "2026-04-13T10:23:28+00:00",
-      "summary": "糖尿病藥防癌︱糖尿病藥Metformin可防癌？醫生解析4大機制阻斷惡性增生搭配5營養素抗發炎更有效&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMizgRBVV95cUxNVGloandtQUpCUFd6RDZjSlFlU1R5aElWZzllTWE5QzNfelk1VjVodHZPSDFOcUh4OUt3TGp5S0ZMR2xVX1hodUJHc1ZxQTkzZnF3eUplZVpQYWVTUTROaWtKelhhbFJCUld2aUVfVTFITmxqQjRnU3dMZVRON01yQkhucGFDaG9McFFDblF4NGlpLU01cEEtSXc4ajFWaDYyb01xN1AyTFBNZzZvMnlJY2hxOEExTExyVVltUV9SZVBCemJnTjFKZHl5YkYtb1ZwVlNHUS1HMDNjU1owOEk4QmJnQm02VWhjb0xGakRKZDVYZmE2S1pOeTAxWFVPdVhSWW9rSFhjc2hBc0RGTk4tUkNtU3FfWFVoYlZwVVNJODlxMTBkeTV6MDg3RXJJc3BkSG5HTjJ1OHF5d2RJQXJLOUhwNFZyem04dXZVR3B0eTN5OVh5bDdSOEpKdmlsLTBmZGdlamZIOW5UemFzbmluRXpfNkptODNleC1EZFk2Z3ZZeklhMGc1MXJZeE85dUhUVTdiVHZOdE4waUVaVHFBWkRPRkhRSGJ5WWtGeEJSOW5RTS1ISXFVM1Z3bTRKTm16YW9iM3JNRzl1b19pdmJLd181SDladVVSb1NVVkhiU0hvRTc5ZEZDcTg1c0JDUFVUMFZxTDhVRXVMeXRHckQxdHlvNDVBaGIwMExFLWZCMFNMWWlCZ0FKSm9hXy1uWGlVd0RNejd2UEI5NTNqOXpnY3kwS3VNVHNpcFhqQ1N2RThLSHY2NkZ1REJIVlBadw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e1dc1cc254c9",
       "title": "癲癇基因療法展突破 卓飛症候群病患發作率大降逾八成 - ENN台灣電報",
       "published": "2026-04-13T07:12:45+00:00",
@@ -96,6 +84,18 @@
         {
           "name": "ENN台灣電報",
           "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9rMm95bm4xRnR4OXJhQzlmNHA1OEtzbV9QMGU2TGlMaTZEME5tcHA2VVVtdi1nRVZoTFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4d1e3d3adb88",
+      "title": "糖尿病藥防癌︱糖尿病藥Metformin可防癌？醫生解析4大機制阻斷惡性增生搭配5營養素抗發炎更有效 - 香港經濟日報HKET",
+      "published": "2026-04-13T10:23:28+00:00",
+      "summary": "糖尿病藥防癌︱糖尿病藥Metformin可防癌？醫生解析4大機制阻斷惡性增生搭配5營養素抗發炎更有效&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMizgRBVV95cUxNVGloandtQUpCUFd6RDZjSlFlU1R5aElWZzllTWE5QzNfelk1VjVodHZPSDFOcUh4OUt3TGp5S0ZMR2xVX1hodUJHc1ZxQTkzZnF3eUplZVpQYWVTUTROaWtKelhhbFJCUld2aUVfVTFITmxqQjRnU3dMZVRON01yQkhucGFDaG9McFFDblF4NGlpLU01cEEtSXc4ajFWaDYyb01xN1AyTFBNZzZvMnlJY2hxOEExTExyVVltUV9SZVBCemJnTjFKZHl5YkYtb1ZwVlNHUS1HMDNjU1owOEk4QmJnQm02VWhjb0xGakRKZDVYZmE2S1pOeTAxWFVPdVhSWW9rSFhjc2hBc0RGTk4tUkNtU3FfWFVoYlZwVVNJODlxMTBkeTV6MDg3RXJJc3BkSG5HTjJ1OHF5d2RJQXJLOUhwNFZyem04dXZVR3B0eTN5OVh5bDdSOEpKdmlsLTBmZGdlamZIOW5UemFzbmluRXpfNkptODNleC1EZFk2Z3ZZeklhMGc1MXJZeE85dUhUVTdiVHZOdE4waUVaVHFBWkRPRkhRSGJ5WWtGeEJSOW5RTS1ISXFVM1Z3bTRKTm16YW9iM3JNRzl1b19pdmJLd181SDladVVSb1NVVkhiU0hvRTc5ZEZDcTg1c0JDUFVUMFZxTDhVRXVMeXRHckQxdHlvNDVBaGIwMExFLWZCMFNMWWlCZ0FKSm9hXy1uWGlVd0RNejd2UEI5NTNqOXpnY3kwS3VNVHNpcFhqQ1N2RThLSHY2NkZ1REJIVlBadw?oc=5"
         }
       ]
     },
@@ -160,14 +160,14 @@
       ]
     },
     {
-      "id": "20a847533baa",
-      "title": "長新冠罹患認知障礙風險高近4倍 - 中時新聞網",
-      "published": "2026-04-11T20:10:00+00:00",
-      "summary": "長新冠罹患認知障礙風險高近4倍&nbsp;&nbsp;中時新聞網",
+      "id": "67548df65fb4",
+      "title": "不只降血壓！研究揭6大飲食模式有助護腦、降低失智風險 - 元氣網",
+      "published": "2026-04-13T02:44:29+00:00",
+      "summary": "不只降血壓！研究揭6大飲食模式有助護腦、降低失智風險&nbsp;&nbsp;元氣網Omega-3、魚油成分能健腦？醫揭「防失智保健食品」令人失望的真相&nbsp;&nbsp;元氣網炒菜換瓶油！長者吃2年「初榨橄欖油」認知功能勝出&nbsp;&nbsp;Yahoo新聞怕老化失智？美國營養師大推「14種護腦食物」逆轉大腦退化、增強記憶力&nbsp;&nbsp;ELLE不是所有橄欖油都健康！醫師示警「用錯恐害大腦退化」，怎麼挑才正確？&nbsp;&nbsp;天下雜誌",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qLURfbWRBY0g5c3JsRk1OX1RsUFBTc3hWN0ZDSmR0dnFMQ0U5Wmh4T0tEWF9wZGpuc0lteW9kaVEtalZ5ZFVxVHhaWGRkMWI3MjFfdFNMbDUtR0FrUWlBaUltdjdtU29rTlhz?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VnBJVkNOS1RZNmplVVljVm8zYlBmSHRyWTVZaFk3UEU0STBmTUJOOE1GQzZNa0hSU2I1a01nWHZEWGNLSmdoREg0ZGtzbGk2bnlUaXZKTWNTdlBo0gFiQVVfeXFMTTBxQUhfZzYwMHhVelM0ejlIek9Od2FaZjRPSTJhaE4wVFE5QzFBaVFNVTBVRmZoUEpvY0lqbllMLVpoN0hjRnBSLTJlYzFtR2p1NmY5U0Juc2g0d0dveDBxZkE?oc=5"
         }
       ]
     },
@@ -180,18 +180,6 @@
         {
           "name": "民視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fTFBidFJTdHBOamxzdU5ORzBEdmppeTNzeHpwOExMekRmcnNKem9QVld6OGdCNTY5X1Jkd2dfai1FSmk2RFJZZVhKaUpxQ2JNSWpsaXZMZU9vZnZhd21GNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "67548df65fb4",
-      "title": "不只降血壓！研究揭6大飲食模式有助護腦、降低失智風險 - 元氣網",
-      "published": "2026-04-13T02:44:29+00:00",
-      "summary": "不只降血壓！研究揭6大飲食模式有助護腦、降低失智風險&nbsp;&nbsp;元氣網Omega-3、魚油成分能健腦？醫揭「防失智保健食品」令人失望的真相&nbsp;&nbsp;元氣網炒菜換瓶油！長者吃2年「初榨橄欖油」認知功能勝出&nbsp;&nbsp;Yahoo新聞怕老化失智？美國營養師大推「14種護腦食物」逆轉大腦退化、增強記憶力&nbsp;&nbsp;ELLE不是所有橄欖油都健康！醫師示警「用錯恐害大腦退化」，怎麼挑才正確？&nbsp;&nbsp;天下雜誌",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VnBJVkNOS1RZNmplVVljVm8zYlBmSHRyWTVZaFk3UEU0STBmTUJOOE1GQzZNa0hSU2I1a01nWHZEWGNLSmdoREg0ZGtzbGk2bnlUaXZKTWNTdlBo0gFiQVVfeXFMTTBxQUhfZzYwMHhVelM0ejlIek9Od2FaZjRPSTJhaE4wVFE5QzFBaVFNVTBVRmZoUEpvY0lqbllMLVpoN0hjRnBSLTJlYzFtR2p1NmY5U0Juc2g0d0dveDBxZkE?oc=5"
         }
       ]
     },
@@ -280,18 +268,6 @@
       ]
     },
     {
-      "id": "310a43610ecb",
-      "title": "公共衛生專家呼籲對印度的 HPV 疫苗接種計劃進行獨立監督，ETHealthworld - citytimes.tw",
-      "published": "2026-04-11T22:46:45+00:00",
-      "summary": "公共衛生專家呼籲對印度的 HPV 疫苗接種計劃進行獨立監督，ETHealthworld&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNZUx2a25xY2FQWlpGLXFqTHdqel9wMmNyTWJmbHRaZE15YXRscHQ2ZkhTQTBHS00xR1VEN2lRVUVzZEVrbXAwYzRNWkc5aGdILUtXYjNNVUd3NFBXUVJYdG5XeTFVM05LcHBjdlpVWTBTQUNmam9RWU1OYVliUU5uNkxMenY0S3NzSnJkZ05zVmMwZ1R1Z3R1UlhTVUlxeGFMdGd3a3dILXRGeFZIdEE5VFRnemZtLVJ1ZE9jdWlhNG41cEJkUVgyMjhTVi1FaWFTYm9RaXVIbHBWcEJNNmIwQTFMcWpaZW9MNVo4NEdUQ2F5anVrMzNSMzd3cDR3S3hyeVZ3Z0pKR1hNcFN3cTdKd29iR2RXaEFoWFViejFRZXZCSURzM2Jqd1FfZ3RhOGlzT0JzRzN5SlFscTk5N1ppNmlFRXhpVzJ0bW8yUnlucTZseEdBVFppaFQ5Ti1QY0pZ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1d682fdba86c",
       "title": "三種有效的“降壓運動”，一次幾分鐘就管用 - 紫荊網",
       "published": "2026-04-13T02:15:08+00:00",
@@ -304,14 +280,14 @@
       ]
     },
     {
-      "id": "7263d39cf424",
-      "title": "多吃類黃酮食物助抗衰老？研究揭晚年身體虛弱/情緒病風險更低 每朝飲橙汁喚活細胞防腦退化 - stheadline.com",
-      "published": "2026-04-12T01:00:00+00:00",
-      "summary": "多吃類黃酮食物助抗衰老？研究揭晚年身體虛弱/情緒病風險更低 每朝飲橙汁喚活細胞防腦退化&nbsp;&nbsp;stheadline.com",
+      "id": "310a43610ecb",
+      "title": "公共衛生專家呼籲對印度的 HPV 疫苗接種計劃進行獨立監督，ETHealthworld - citytimes.tw",
+      "published": "2026-04-11T22:46:45+00:00",
+      "summary": "公共衛生專家呼籲對印度的 HPV 疫苗接種計劃進行獨立監督，ETHealthworld&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "stheadline.com",
-          "link": "https://news.google.com/rss/articles/CBMivARBVV95cUxPSERhVnZ1ckxuOEJFNko3emxiZXg0RkFoQTlyN3luVVBSQWwxTHN4cjFaSnFjMDI2aEJiS0F3WHdhd0VQWHpjRUFFblQ4ZHZ1M0lteVI5VENxRHhVVjBmbWs3N1N5Ym91Y2YxNWJGTzZvbTNNbVItUXB2b3dUdmFVQkpvYXJ5R3gwbnZCb01SRi1zcEI5UjQ4TWQtRmVMcElJZWl0dmtpMHBMMjlvVndBeGtJQzJsQURPOWRGS3kyU29ObGNlbVJTTTNVaW9CTFQxM2MtTmFlNUpYZEFqYmVTWlI5VWRuOTNWMjdIOE0wdjl3YnNxYllyQ2VXMXFpNk8waDh2ejl5dm9FMkhRODVTNzR6bVNwQkFmNTEtWFplV1huZlVBZmlPSUVyMHRNQnRXemU2eVZCaXpwSS1qRTZsc051QmZiOVdSMHI1R3pwbWhKcnVmRzloUnFwYmxGTHNDczNWbnZRSGdCWFBQX0c5blpyMDFiRmZzOTlJZzdvMVpLLUNENWhhTDkzUkdiVFJtNm9hS3ZLS2ZZVXAtTzdNcmJoM0JYU0RkNllxSkRUc0JSRHZuazFzaEdLZVBZSEJhM1E2alF6VTFPMTRuN3Z6UnpCWXp6NHg1b3hFVDNUSmpxWEZhOWRHcnlDMFVuWUtsUHh3UmF1MmJqMElLc0xjMktqV1BUWWx4cUR2Tl8tWk1teGVtV3NrQ0JvNk5DUENMOUdBbEl0UWJBZThaWEVyRWk3Y0hGbDhiUTcxVg?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNZUx2a25xY2FQWlpGLXFqTHdqel9wMmNyTWJmbHRaZE15YXRscHQ2ZkhTQTBHS00xR1VEN2lRVUVzZEVrbXAwYzRNWkc5aGdILUtXYjNNVUd3NFBXUVJYdG5XeTFVM05LcHBjdlpVWTBTQUNmam9RWU1OYVliUU5uNkxMenY0S3NzSnJkZ05zVmMwZ1R1Z3R1UlhTVUlxeGFMdGd3a3dILXRGeFZIdEE5VFRnemZtLVJ1ZE9jdWlhNG41cEJkUVgyMjhTVi1FaWFTYm9RaXVIbHBWcEJNNmIwQTFMcWpaZW9MNVo4NEdUQ2F5anVrMzNSMzd3cDR3S3hyeVZ3Z0pKR1hNcFN3cTdKd29iR2RXaEFoWFViejFRZXZCSURzM2Jqd1FfZ3RhOGlzT0JzRzN5SlFscTk5N1ppNmlFRXhpVzJ0bW8yUnlucTZseEdBVFppaFQ5Ti1QY0pZ?oc=5"
         }
       ]
     },
@@ -324,6 +300,18 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNWlpXdjZuc3lISjgxSUZlMUluMUJGcUVTNGw5elBTLUxYZVI5bVNVcjZ2akRXWGJaVUJJcGdBRzlOaXZldU52RmlwMVJfenp5TXNJQ0hRbmVUa2RGTVNwNkVjbGpIZzVXb2pJQV9EOGNObURuVlZBTXJfRUZ6R0VaX3hNcmRTUWNtb0tENEIwOFh2aVJIdjNwQWhKbERsd3lETkNXWVM4cV9GMm53SzBCN0RBVHlHWTVibUwxcEt1cFVUVWc2c1BTenk4cXJ2MHMyZ1pJR0t5UUkwRjA2NlpzVzRiTVc5VUMxZmlwYWttNVRuSlZWdTh5Y1RZU2x2dnhxX1l1Z2ZTTHl1UVlzOTMyRjdEc2xkMndrNWhzU0xDOW5tR1RJMWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7263d39cf424",
+      "title": "多吃類黃酮食物助抗衰老？研究揭晚年身體虛弱/情緒病風險更低 每朝飲橙汁喚活細胞防腦退化 - stheadline.com",
+      "published": "2026-04-12T01:00:00+00:00",
+      "summary": "多吃類黃酮食物助抗衰老？研究揭晚年身體虛弱/情緒病風險更低 每朝飲橙汁喚活細胞防腦退化&nbsp;&nbsp;stheadline.com",
+      "sources": [
+        {
+          "name": "stheadline.com",
+          "link": "https://news.google.com/rss/articles/CBMivARBVV95cUxPSERhVnZ1ckxuOEJFNko3emxiZXg0RkFoQTlyN3luVVBSQWwxTHN4cjFaSnFjMDI2aEJiS0F3WHdhd0VQWHpjRUFFblQ4ZHZ1M0lteVI5VENxRHhVVjBmbWs3N1N5Ym91Y2YxNWJGTzZvbTNNbVItUXB2b3dUdmFVQkpvYXJ5R3gwbnZCb01SRi1zcEI5UjQ4TWQtRmVMcElJZWl0dmtpMHBMMjlvVndBeGtJQzJsQURPOWRGS3kyU29ObGNlbVJTTTNVaW9CTFQxM2MtTmFlNUpYZEFqYmVTWlI5VWRuOTNWMjdIOE0wdjl3YnNxYllyQ2VXMXFpNk8waDh2ejl5dm9FMkhRODVTNzR6bVNwQkFmNTEtWFplV1huZlVBZmlPSUVyMHRNQnRXemU2eVZCaXpwSS1qRTZsc051QmZiOVdSMHI1R3pwbWhKcnVmRzloUnFwYmxGTHNDczNWbnZRSGdCWFBQX0c5blpyMDFiRmZzOTlJZzdvMVpLLUNENWhhTDkzUkdiVFJtNm9hS3ZLS2ZZVXAtTzdNcmJoM0JYU0RkNllxSkRUc0JSRHZuazFzaEdLZVBZSEJhM1E2alF6VTFPMTRuN3Z6UnpCWXp6NHg1b3hFVDNUSmpxWEZhOWRHcnlDMFVuWUtsUHh3UmF1MmJqMElLc0xjMktqV1BUWWx4cUR2Tl8tWk1teGVtV3NrQ0JvNk5DUENMOUdBbEl0UWJBZThaWEVyRWk3Y0hGbDhiUTcxVg?oc=5"
         }
       ]
     }
