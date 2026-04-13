@@ -1,21 +1,8 @@
 {
-  "last_updated": "2026-04-13T16:55:17.120607+00:00",
-  "total_count": 30,
+  "last_updated": "2026-04-13T17:54:18.858505+00:00",
+  "total_count": 27,
   "matched_count": 7,
   "news": [
-    {
-      "id": "1c0f3fb6f473",
-      "title": "新型牙膏可預防牙齦疾病而不殺死有益細菌",
-      "published": "2026-04-13T15:07:38+00:00",
-      "summary": "新型牙膏可預防牙齦疾病而不殺死有益細菌&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPekpTNFI5TTFjb1ZkOTB3NTVZRmZPZ3JVd0FFUEhianBfM1Y1ODJoVEc5Zk55NkNrNDlIVW9kV085bFQtU0FTbzJSRFBXcWxualNqX2licG50dTc2ck16Z0E4bUVVYmJNR3ZmWFc3QVBocnFBV0RDLVF5S1hiNEFxMEl4QXFnVDJCQ0JyOWhCd19RNWtiUlNDLWI0ZzVRLXYwU2QwUGdHZEZLNE9LRGNCeWY3WTdfWHNzeTZSVjE5U0FlLS15LVd6LXI4cmhxMzJBOW1MQ0pFWW45MlFrRzdaVmx0Y01DTzVPQkcwSi1TVWFJdU9VZFJiS3pqTmx1bWo5Q3phYTdyODR1N1VNcTdhR0pBRWlFaEdYQk5taW4wVVRWNHVtZzgydVFHeWJzWk5OTU9nbjZuNHNWQUI3U3VjSUpsazRWMWNqRGVpNTFPZXZRSEJmN3BwSnNlUzZFeWV0YWc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
     {
       "id": "dd95a2880fb4",
       "title": "28歲港女多囊卵巢綜合症 月經變「年經」停避孕藥即復發 中醫調理3個月回復正常",
@@ -191,19 +178,6 @@
       ]
     },
     {
-      "id": "243706c511ca",
-      "title": "共享基金會在京召開研討會 與國內外專家討論物理手段防控登革熱 將赴日內瓦世衞大會辦邊會",
-      "published": "2026-04-13T07:20:25+00:00",
-      "summary": "共享基金會在京召開研討會 與國內外專家討論物理手段防控登革熱 將赴日內瓦世衞大會辦邊會&nbsp;&nbsp;香港商报前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VaXNjQ21CejRZTFJTRUlWcF9GbFVSV1BPby1BSEJTY19Vd3BZdm1EbFZ4SmpTUzBGdmY2MUdOMHh3V3BxRjNHSDNYZmthSlI2bmRVVC13THN2cEJWdXBYMUJheHEtVmVwZnRzYjdXdURGRzFEMWlnaWl2WQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "e1dc1cc254c9",
       "title": "癲癇基因療法展突破 卓飛症候群病患發作率大降逾八成",
       "published": "2026-04-13T07:12:45+00:00",
@@ -287,7 +261,7 @@
       "id": "67548df65fb4",
       "title": "不只降血壓！研究揭6大飲食模式有助護腦、降低失智風險",
       "published": "2026-04-13T02:44:29+00:00",
-      "summary": "不只降血壓！研究揭6大飲食模式有助護腦、降低失智風險&nbsp;&nbsp;元氣網Omega-3、魚油成分能健腦？醫揭「防失智保健食品」令人失望的真相&nbsp;&nbsp;元氣網炒菜換瓶油！長者吃2年「初榨橄欖油」認知功能勝出&nbsp;&nbsp;Yahoo新聞怕老化失智？美國營養師大推「14種護腦食物」逆轉大腦退化、增強記憶力&nbsp;&nbsp;ELLE醫師示警：橄欖油用錯恐害大腦退化！怎麼挑選才健康？&nbsp;&nbsp;天下雜誌",
+      "summary": "不只降血壓！研究揭6大飲食模式有助護腦、降低失智風險&nbsp;&nbsp;元氣網Omega-3、魚油成分能健腦？醫揭「防失智保健食品」令人失望的真相&nbsp;&nbsp;元氣網炒菜換瓶油！長者吃2年「初榨橄欖油」認知功能勝出&nbsp;&nbsp;Yahoo新聞怕老化失智？美國營養師大推「14種護腦食物」逆轉大腦退化、增強記憶力&nbsp;&nbsp;ELLE不是所有橄欖油都健康！醫師示警「用錯恐害大腦退化」，怎麼挑才正確？&nbsp;&nbsp;天下雜誌",
       "sources": [
         {
           "name": "元氣網",
@@ -460,19 +434,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "98cec78ea05e",
-      "title": "不再全身「轟炸」，新型藥物傳遞平台讓強效免疫抗癌藥變得更安全 | 科技新報 - LINE TODAY",
-      "published": "2026-04-12T03:37:32+00:00",
-      "summary": "不再全身「轟炸」，新型藥物傳遞平台讓強效免疫抗癌藥變得更安全 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqUkNCQnJmLWZ2eUVublFDanlGdVRubFpzX1JmRmlOYUdDQmhnTC0wUEd5RjY5NWpleC1Yd1pzY2JNOENzdUhmWTRJMlNpcXVYc2lvTGt3?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "4245a4422a7b",
