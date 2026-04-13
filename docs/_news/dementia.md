@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [防失智多曬太陽？16年研究揭關鍵：30至40歲是黃金期](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oZ1hwM0EwVDZuYXM1eDdWNUlEQVh1bEd5LXJVUWNlSy12NEJrMzdTSE4yb1VWWThjemJjU1JkSGtiUVA0SExOLW0wWXJ3dVR3?oc=5)
+
+2026-04-13
+
+來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oZ1hwM0EwVDZuYXM1eDdWNUlEQVh1bEd5LXJVUWNlSy12NEJrMzdTSE4yb1VWWThjemJjU1JkSGtiUVA0SExOLW0wWXJ3dVR3?oc=5)
+
+---
 
 ### [不只降血壓！研究揭6大飲食模式有助護腦、降低失智風險](https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VnBJVkNOS1RZNmplVVljVm8zYlBmSHRyWTVZaFk3UEU0STBmTUJOOE1GQzZNa0hSU2I1a01nWHZEWGNLSmdoREg0ZGtzbGk2bnlUaXZKTWNTdlBo0gFiQVVfeXFMTTBxQUhfZzYwMHhVelM0ejlIek9Od2FaZjRPSTJhaE4wVFE5QzFBaVFNVTBVRmZoUEpvY0lqbllMLVpoN0hjRnBSLTJlYzFtR2p1NmY5U0Juc2g0d0dveDBxZkE?oc=5)
 
