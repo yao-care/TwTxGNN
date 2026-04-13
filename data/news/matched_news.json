@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-13T21:39:58.918879+00:00",
-  "total_count": 27,
+  "last_updated": "2026-04-13T22:36:09.656426+00:00",
+  "total_count": 28,
   "matched_count": 6,
   "news": [
+    {
+      "id": "ff692e9b8eda",
+      "title": "睪丸扭轉延誤就醫後果：以色列青少年失睪丸，ChatGPT曾發警示",
+      "published": "2026-04-13T21:38:47+00:00",
+      "summary": "睪丸扭轉延誤就醫後果：以色列青少年失睪丸，ChatGPT曾發警示&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM3NLZjBvT05DdTVFelRwU0pTcHpUMFFaY1dNNWZteHJVVWMxQUg4MUVWVGV5Z3dLNTlhZi1aUmw4aDFEZUZOdW9WUW5PQ2RkaHI1bElWQTdyOXhKSDJ4Qzl3VzdHQnp3QmFBdFFsWVhwbzNqRVdyR01iR3N6UmtMREt4cVVrc2pIbHNVNUZiQXJvT1A0ZmR1OWRiWURqTnV2S19ZV2xCMm9tSl9YNElzbXJGRXBvdkJjc3c1eG9ZOXVhV2c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "08a9ceb8e202",
       "title": "國際野生動物貿易導致疾病從一個物種傳播到另一個物種",

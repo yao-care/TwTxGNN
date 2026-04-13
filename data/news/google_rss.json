@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-13T21:39:54.909756+00:00",
-  "count": 26,
+  "fetched_at": "2026-04-13T22:36:05.631265+00:00",
+  "count": 27,
   "news": [
     {
       "id": "2d5e07b0648f",
@@ -280,14 +280,14 @@
       ]
     },
     {
-      "id": "310a43610ecb",
-      "title": "公共衛生專家呼籲對印度的 HPV 疫苗接種計劃進行獨立監督，ETHealthworld - citytimes.tw",
-      "published": "2026-04-11T22:46:45+00:00",
-      "summary": "公共衛生專家呼籲對印度的 HPV 疫苗接種計劃進行獨立監督，ETHealthworld&nbsp;&nbsp;citytimes.tw",
+      "id": "ff692e9b8eda",
+      "title": "睪丸扭轉延誤就醫後果：以色列青少年失睪丸，ChatGPT曾發警示 - Singtaousa",
+      "published": "2026-04-13T21:38:47+00:00",
+      "summary": "睪丸扭轉延誤就醫後果：以色列青少年失睪丸，ChatGPT曾發警示&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNZUx2a25xY2FQWlpGLXFqTHdqel9wMmNyTWJmbHRaZE15YXRscHQ2ZkhTQTBHS00xR1VEN2lRVUVzZEVrbXAwYzRNWkc5aGdILUtXYjNNVUd3NFBXUVJYdG5XeTFVM05LcHBjdlpVWTBTQUNmam9RWU1OYVliUU5uNkxMenY0S3NzSnJkZ05zVmMwZ1R1Z3R1UlhTVUlxeGFMdGd3a3dILXRGeFZIdEE5VFRnemZtLVJ1ZE9jdWlhNG41cEJkUVgyMjhTVi1FaWFTYm9RaXVIbHBWcEJNNmIwQTFMcWpaZW9MNVo4NEdUQ2F5anVrMzNSMzd3cDR3S3hyeVZ3Z0pKR1hNcFN3cTdKd29iR2RXaEFoWFViejFRZXZCSURzM2Jqd1FfZ3RhOGlzT0JzRzN5SlFscTk5N1ppNmlFRXhpVzJ0bW8yUnlucTZseEdBVFppaFQ5Ti1QY0pZ?oc=5"
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM3NLZjBvT05DdTVFelRwU0pTcHpUMFFaY1dNNWZteHJVVWMxQUg4MUVWVGV5Z3dLNTlhZi1aUmw4aDFEZUZOdW9WUW5PQ2RkaHI1bElWQTdyOXhKSDJ4Qzl3VzdHQnp3QmFBdFFsWVhwbzNqRVdyR01iR3N6UmtMREt4cVVrc2pIbHNVNUZiQXJvT1A0ZmR1OWRiWURqTnV2S19ZV2xCMm9tSl9YNElzbXJGRXBvdkJjc3c1eG9ZOXVhV2c?oc=5"
         }
       ]
     },
@@ -300,6 +300,18 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNWlpXdjZuc3lISjgxSUZlMUluMUJGcUVTNGw5elBTLUxYZVI5bVNVcjZ2akRXWGJaVUJJcGdBRzlOaXZldU52RmlwMVJfenp5TXNJQ0hRbmVUa2RGTVNwNkVjbGpIZzVXb2pJQV9EOGNObURuVlZBTXJfRUZ6R0VaX3hNcmRTUWNtb0tENEIwOFh2aVJIdjNwQWhKbERsd3lETkNXWVM4cV9GMm53SzBCN0RBVHlHWTVibUwxcEt1cFVUVWc2c1BTenk4cXJ2MHMyZ1pJR0t5UUkwRjA2NlpzVzRiTVc5VUMxZmlwYWttNVRuSlZWdTh5Y1RZU2x2dnhxX1l1Z2ZTTHl1UVlzOTMyRjdEc2xkMndrNWhzU0xDOW5tR1RJMWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "310a43610ecb",
+      "title": "公共衛生專家呼籲對印度的 HPV 疫苗接種計劃進行獨立監督，ETHealthworld - citytimes.tw",
+      "published": "2026-04-11T22:46:45+00:00",
+      "summary": "公共衛生專家呼籲對印度的 HPV 疫苗接種計劃進行獨立監督，ETHealthworld&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNZUx2a25xY2FQWlpGLXFqTHdqel9wMmNyTWJmbHRaZE15YXRscHQ2ZkhTQTBHS00xR1VEN2lRVUVzZEVrbXAwYzRNWkc5aGdILUtXYjNNVUd3NFBXUVJYdG5XeTFVM05LcHBjdlpVWTBTQUNmam9RWU1OYVliUU5uNkxMenY0S3NzSnJkZ05zVmMwZ1R1Z3R1UlhTVUlxeGFMdGd3a3dILXRGeFZIdEE5VFRnemZtLVJ1ZE9jdWlhNG41cEJkUVgyMjhTVi1FaWFTYm9RaXVIbHBWcEJNNmIwQTFMcWpaZW9MNVo4NEdUQ2F5anVrMzNSMzd3cDR3S3hyeVZ3Z0pKR1hNcFN3cTdKd29iR2RXaEFoWFViejFRZXZCSURzM2Jqd1FfZ3RhOGlzT0JzRzN5SlFscTk5N1ppNmlFRXhpVzJ0bW8yUnlucTZseEdBVFppaFQ5Ti1QY0pZ?oc=5"
         }
       ]
     },
