@@ -51,6 +51,14 @@ permalink: /news/gefitinib/
 
 ---
 
+### [研究揭「自做1事」降23%失智風險！新手更降67%機率](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hbXl2U2RHV1dxNXE2bkx4Y2ZrREE3dXdhRDVMZExWZjNfaUI2TFhFNEZNaTUySEw1cW1Td0Z1d1hMcGdMQ2J2a2RQczM?oc=5)
+
+2026-04-14 <span class="news-indication-tag">失智</span>
+
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hbXl2U2RHV1dxNXE2bkx4Y2ZrREE3dXdhRDVMZExWZjNfaUI2TFhFNEZNaTUySEw1cW1Td0Z1d1hMcGdMQ2J2a2RQczM?oc=5)
+
+---
+
 ### [防失智多曬太陽？16年研究揭關鍵：30至40歲是黃金期](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oZ1hwM0EwVDZuYXM1eDdWNUlEQVh1bEd5LXJVUWNlSy12NEJrMzdTSE4yb1VWWThjemJjU1JkSGtiUVA0SExOLW0wWXJ3dVR3?oc=5)
 
 2026-04-13 <span class="news-indication-tag">失智</span>
@@ -64,14 +72,6 @@ permalink: /news/gefitinib/
 2026-04-13 <span class="news-indication-tag">癌症</span>
 
 來源：[am1320.com](https://news.google.com/rss/articles/CBMi8AJBVV95cUxQaklzbjBQVk40eW10NmxCaUg0SFV5WUtmMVAwdzE3cGhpT1ExaGRsc0g3dHBYWUV3eHR4QV9keFMxN01wSE9ZQ1hZUzh1aVBXZVFwOEI0YUk2bzl2MTcwVi05eDFPMk9BdU5XV3l3ZUk5OG51Rk9ZLTFVQ0RuTkVoMWJ3VHlsaHVOT2VvcHpVZ1BsQmFMdE9Cb0hmcDhPWEQ5Mi1DRTJQNW9JWEdLaENqcHJmOGlJcU5CSEdEcFRBb05CckZCRFVKeHpiZVJ6Q2hvZmpSeFhPNjJDQzN2cUhEcWZYYVBtbTlRUnJra3hEZHFfOTlrQ0R2Q1RFSFNpSTNfbzZUMHNZN0hKNDRSNzJEbDB4UlU4LTZWVXQ5Qk5Qa0JEUGdhM3AyLWRORWw4YUJwUEh3QktfWWRNaTlKVG14YWNSdTZBTmxyUW0zV2V0R1pZNjQtVHpYc1ZxSHZXbEFPZVFjd08ybFF2ejgybkJmZA?oc=5)
-
----
-
-### [不只降血壓！研究揭6大飲食模式有助護腦、降低失智風險](https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VnBJVkNOS1RZNmplVVljVm8zYlBmSHRyWTVZaFk3UEU0STBmTUJOOE1GQzZNa0hSU2I1a01nWHZEWGNLSmdoREg0ZGtzbGk2bnlUaXZKTWNTdlBo0gFiQVVfeXFMTTBxQUhfZzYwMHhVelM0ejlIek9Od2FaZjRPSTJhaE4wVFE5QzFBaVFNVTBVRmZoUEpvY0lqbllMLVpoN0hjRnBSLTJlYzFtR2p1NmY5U0Juc2g0d0dveDBxZkE?oc=5)
-
-2026-04-13 <span class="news-indication-tag">失智</span>
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VnBJVkNOS1RZNmplVVljVm8zYlBmSHRyWTVZaFk3UEU0STBmTUJOOE1GQzZNa0hSU2I1a01nWHZEWGNLSmdoREg0ZGtzbGk2bnlUaXZKTWNTdlBo0gFiQVVfeXFMTTBxQUhfZzYwMHhVelM0ejlIek9Od2FaZjRPSTJhaE4wVFE5QzFBaVFNVTBVRmZoUEpvY0lqbllMLVpoN0hjRnBSLTJlYzFtR2p1NmY5U0Juc2g0d0dveDBxZkE?oc=5)
 
 ---
 

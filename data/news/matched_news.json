@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-14T22:38:14.050580+00:00",
-  "total_count": 34,
-  "matched_count": 9,
+  "last_updated": "2026-04-14T23:36:05.265362+00:00",
+  "total_count": 35,
+  "matched_count": 10,
   "news": [
     {
       "id": "50871aece4f2",
@@ -439,6 +439,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "94a01fa8913b",
+      "title": "研究揭「自做1事」降23%失智風險！新手更降67%機率",
+      "published": "2026-04-14T00:02:48+00:00",
+      "summary": "研究揭「自做1事」降23%失智風險！新手更降67%機率&nbsp;&nbsp;祝你健康怕老化失智？美國營養師大推「14種護腦食物」逆轉大腦退化、增強記憶力&nbsp;&nbsp;ELLE不是所有橄欖油都健康！醫師示警「用錯恐害大腦退化」，怎麼挑才正確？&nbsp;&nbsp;天下雜誌Omega-3、魚油成分能健腦？醫揭「防失智保健食品」令人失望的真相&nbsp;&nbsp;元氣網自己動手煮飯防失智 2原因風險狂降67％&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hbXl2U2RHV1dxNXE2bkx4Y2ZrREE3dXdhRDVMZExWZjNfaUI2TFhFNEZNaTUySEw1cW1Td0Z1d1hMcGdMQ2J2a2RQczM?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "8a9c7414256a",
@@ -913,6 +938,54 @@
       "matched_keywords": []
     },
     {
+      "id": "50abf0b9ed67",
+      "title": "大腸癌檢測現新技術！瑞士開發AI解析糞便細菌 檢出率約9成",
+      "published": "2026-04-13T05:36:00+00:00",
+      "summary": "大腸癌檢測現新技術！瑞士開發AI解析糞便細菌 檢出率約9成&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40U20xdURRSDVXdmk2eVgwck9nZy0tMjRzMEphd0JOU0RCR2x5TGltVzZzeks1eDYwZDU1VER6SF9tbkFfZmpYRGpDckdCSFE5RXY3VFhvYzdfWmFFTm45MmZXQzbSAWpBVV95cUxOME1XTEdLT0x1VlZLdm40Q3A3U2hocExEcTdFMm9BNUJkVDJDSDZVSmNYMlMzZDJxSVE2SVpOcERBRnZfSDBUOEpadVJiaTR2cHFrUkhNbFA5Q0xlMS10a2RGOFRKN0F0d053?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "8923ccfe11cc",
       "title": "年紀太小無法打疫苗 嬰兒最易染麻疹 嚴重者恐出現肺炎",
       "published": "2026-04-13T03:35:00+00:00",
@@ -955,39 +1028,14 @@
       ]
     },
     {
-      "id": "67548df65fb4",
-      "title": "不只降血壓！研究揭6大飲食模式有助護腦、降低失智風險",
-      "published": "2026-04-13T02:44:29+00:00",
-      "summary": "不只降血壓！研究揭6大飲食模式有助護腦、降低失智風險&nbsp;&nbsp;元氣網研究揭「自做1事」降23%失智風險！新手更降67%機率&nbsp;&nbsp;祝你健康怕老化失智？美國營養師大推「14種護腦食物」逆轉大腦退化、增強記憶力&nbsp;&nbsp;ELLEOmega-3、魚油成分能健腦？醫揭「防失智保健食品」令人失望的真相&nbsp;&nbsp;元氣網不是所有橄欖油都健康！醫師示警「用錯恐害大腦退化」，怎麼挑才正確？&nbsp;&nbsp;天下雜誌",
+      "id": "49226c7d3e75",
+      "title": "吳芮醫生看我們與頭痛疾病的距離",
+      "published": "2026-04-13T01:24:34+00:00",
+      "summary": "吳芮醫生看我們與頭痛疾病的距離&nbsp;&nbsp;行銷人",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VnBJVkNOS1RZNmplVVljVm8zYlBmSHRyWTVZaFk3UEU0STBmTUJOOE1GQzZNa0hSU2I1a01nWHZEWGNLSmdoREg0ZGtzbGk2bnlUaXZKTWNTdlBo0gFiQVVfeXFMTTBxQUhfZzYwMHhVelM0ejlIek9Od2FaZjRPSTJhaE4wVFE5QzFBaVFNVTBVRmZoUEpvY0lqbllMLVpoN0hjRnBSLTJlYzFtR2p1NmY5U0Juc2g0d0dveDBxZkE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0be93758dc90",
-      "title": "吳芮醫生看我們與頭痛疾病的距離 - 報新聞 Mega News",
-      "published": "2026-04-13T01:13:43+00:00",
-      "summary": "吳芮醫生看我們與頭痛疾病的距離&nbsp;&nbsp;報新聞 Mega News",
-      "sources": [
-        {
-          "name": "報新聞 Mega News",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWnFjMjVDTDVMNFZ4SFJyWVA4bmxhQ3BmR2JIaWNTWElmQ1N2c3UyM0czQlY2QVNaZjJ0Y2RrVG83ZERBdlJUWUlXLUctR28wV3pwbFNVUzJHZlktWVltN05kdEZYZEEtY1NUdkJjR1J5c3k3LXNlbGpHMWh2MW5JYVlNeWw5STBWUDE2SmhscklVeWJ6NGZ5SEFfVVFvWnVLc1pLRkQ5SFlxUTJDb1NGLS1pMjlhZm1GcUw2MkZoYVN2UkRpM1pfelFxbnp5SHFsbUg3QmVsbkVDbWJVSGJIbFB2ZE5neWpTeGFpb2w1OFlGNFhUNDJGY0FXdVIxZm5hNGt1c1VsT1kyNE5VVVE0bEN1aw?oc=5"
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWnZqMTNRMlFPUzhkTXhEQVg1anJEZzU4aTQwcVltd2hSZ2FLSDZqWjZwNzBtUkthV3lWTFc1RWt2OGVCTzJhaVh0S1gyaldaazZwZXFfWXFUam1zX0tWa1F6THRJSS15TGFHUXdheW1VTm9FekRwMU5zMGR5UTlQdDNfSUVrQ1VfczBUWUVQcEVUWW03Wlh4NGhLTllvM3c4MXJsV09tTHZoTlRnZ3QtN2ZOYkxmNnprM2FLR3daTFFCSktySU5iN2xUMzI2MFY3ZE16bFRPQlQ2NVEybXNNMzVfWWV6WEFJTmtreGprYy02OXhyWXVTczhoaDc0V2ZMNklKeU5rWEJKVXM5OHdzQWNHS1QyVmpuNXVn?oc=5"
         }
       ],
       "matched_keywords": []
