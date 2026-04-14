@@ -1,8 +1,61 @@
 {
-  "last_updated": "2026-04-14T04:39:34.781321+00:00",
+  "last_updated": "2026-04-14T06:26:41.321193+00:00",
   "total_count": 29,
   "matched_count": 10,
   "news": [
+    {
+      "id": "28e95b9223e2",
+      "title": "《刺胳針》和 ETHealthworld 研究顯示，2023 年全球將有 13 億人罹患肝病",
+      "published": "2026-04-14T05:55:09+00:00",
+      "summary": "《刺胳針》和 ETHealthworld 研究顯示，2023 年全球將有 13 億人罹患肝病&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNNDliZUg0ek5fXzh5ZXlwalk0cDdrSnFVV3lYOFB6ZjFtdU14M2xEYUZUdFEtSjFFVmlQWDE4djBTaElqZEktcldCMTl3TVJIRW1MZUNEcHJYTTJKNDdSd0tNRTROVncySjdVQkdCN2RZOTRMM2RCeE1FVUtlenQzaWliQlpHeVByak1Yci1NclpmZjRHc292eUtNXzVFWVNoVldIS054X1I3UjhVakhLQlVOSGJQbFFhZWJxakxGMWFfeTRyQ0VCNmxrdmRYWFJDSUxnck5lRTRsYzUybDQtVDYwUXhRYVVpcG1EQ2JsYlBMYlBXNWQ5ZnYwSHZmUmtDMzYtbTdLYjRGVFoxRlBRUVJVRTRFT1FEVk51eWY1a21DOEJxMjJKNGIxMnA4MlpiVXpfM2U2VHpCYlVmaVhtNkU3UmdQMTV1cTYyTVJPZEUzUXpwQ0htcy1oMUlHdFNZNUE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7df8fc2a0e21",
+      "title": "最美抗癌女神「淋巴癌病逝」！ 醫警告：反覆感冒要小心",
+      "published": "2026-04-14T03:20:00+00:00",
+      "summary": "最美抗癌女神「淋巴癌病逝」！ 醫警告：反覆感冒要小心&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UTDVybW5LRGdyOWppR01qazJvcHdaSEFlZy01SEJOazJRNEdSanNLbGlYRHpYOFJ5dGhzN2xtYzJxVjRuVHNhREZJSmRDYXN6?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "primary cutaneous B-cell lymphoma",
+          "keyword": "淋巴癌",
+          "related_drugs": [
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "37a9917bd824",
       "title": "她罹癌後從人際匿跡，不想談病、也不想被同情…學會沒有罪惡感的設立界線：重新定義新的自己",
@@ -237,35 +290,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "64719ff32345",
-      "title": "最美抗癌女神29歲淋巴癌逝！血液疾病年輕化？醫：晚睡熬夜小心免疫崩潰",
-      "published": "2026-04-14T00:05:20+00:00",
-      "summary": "最美抗癌女神29歲淋巴癌逝！血液疾病年輕化？醫：晚睡熬夜小心免疫崩潰&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxObmUzbWpTLTZ5OWZHVXZCbGxxVXBDQXBqVDd2eGVwU0x4YXl5OHRBLU1Jc0JJdVRSTmJkOWNaRVQwX1pwSlBydENNNFJyX1RoQ1czRmRmWXFFQzNfWUszY3BNQjFfNkJpRUZZSXBUVVNUVHdtZmN2clhMOWNLRUxSdjZ6c3h3Z0ppN01uRWFYV3FZTVV1RTI1c1A0Y1ZOMmVRd3YxcVVXMFVsWmpnYVI2WHVOUjZ0NXVOMVE4WWV6M0NBalJXV3UzQ0NfM3Zhd3c3TDg2ZjJmdGQ3STU1ZF9sUGVDb3pRQjUyVURtWjVScnFZSkJQS0RNZjhyMTUtdzYxYTItanJBNGdQc0ZSZmg0RDNWd2RZYW5tNmdvYW1EeW9DSXdEQThfM0QxcmlsejJnSjBFemRQWXBTcFg3TzZzd2R2SUZUTERfSHRiallyRk03SlhYZmM1ckotNDAzNGNJWUF6X01Pb3F0N293TThPTVFXODlmMUs3ZklyTVA5YVIwbGo3NTdaRE5oM2VYRjhpSWpIeUxUcmh4SmFJSFozbVUxUjJldUZWQ3U2bFhYTmRqc0ZpRkE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "primary cutaneous B-cell lymphoma",
-          "keyword": "淋巴癌",
-          "related_drugs": [
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "8a9c7414256a",
@@ -800,7 +824,7 @@
       "id": "67548df65fb4",
       "title": "不只降血壓！研究揭6大飲食模式有助護腦、降低失智風險",
       "published": "2026-04-13T02:44:29+00:00",
-      "summary": "不只降血壓！研究揭6大飲食模式有助護腦、降低失智風險&nbsp;&nbsp;元氣網研究揭「自做1事」降23%失智風險！新手更降67%機率&nbsp;&nbsp;三立新聞網SETN.com怕老化失智？美國營養師大推「14種護腦食物」逆轉大腦退化、增強記憶力&nbsp;&nbsp;ELLEOmega-3、魚油成分能健腦？醫揭「防失智保健食品」令人失望的真相&nbsp;&nbsp;元氣網不是所有橄欖油都健康！醫師示警「用錯恐害大腦退化」，怎麼挑才正確？&nbsp;&nbsp;天下雜誌",
+      "summary": "不只降血壓！研究揭6大飲食模式有助護腦、降低失智風險&nbsp;&nbsp;元氣網研究揭「自做1事」降23%失智風險！新手更降67%機率&nbsp;&nbsp;祝你健康怕老化失智？美國營養師大推「14種護腦食物」逆轉大腦退化、增強記憶力&nbsp;&nbsp;ELLEOmega-3、魚油成分能健腦？醫揭「防失智保健食品」令人失望的真相&nbsp;&nbsp;元氣網不是所有橄欖油都健康！醫師示警「用錯恐害大腦退化」，怎麼挑才正確？&nbsp;&nbsp;天下雜誌",
       "sources": [
         {
           "name": "元氣網",
@@ -864,7 +888,7 @@
       "id": "3e1d34f61023",
       "title": "孟加拉麻疹疫情：由於疫苗缺口，兒童死亡人數上升，ETHealthworld",
       "published": "2026-04-12T23:13:12+00:00",
-      "summary": "孟加拉麻疹疫情：由於疫苗缺口，兒童死亡人數上升，ETHealthworld&nbsp;&nbsp;citytimes.tw多地麻疹持續 衛生局籲加強注意防範&nbsp;&nbsp;澳門廣播電視股份有限公司孟加拉的麻疹疫情迅速蔓延 當局啟動緊急疫苗接種計劃&nbsp;&nbsp;香港電台麻疹疫情致百童死亡 孟加拉急推疫苗接種&nbsp;&nbsp;大紀元3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種&nbsp;&nbsp;Yahoo新聞",
+      "summary": "孟加拉麻疹疫情：由於疫苗缺口，兒童死亡人數上升，ETHealthworld&nbsp;&nbsp;citytimes.tw多地麻疹持續 衛生局籲加強注意防範&nbsp;&nbsp;澳門廣播電視股份有限公司孟加拉的麻疹疫情迅速蔓延 當局啟動緊急疫苗接種計劃&nbsp;&nbsp;香港電台麻疹疫情致百童死亡 孟加拉急推疫苗接種&nbsp;&nbsp;大紀元新聞網3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "citytimes.tw",
@@ -926,22 +950,9 @@
       "matched_keywords": []
     },
     {
-      "id": "87acf46bdc67",
-      "title": "健身族改吃鰻魚！蛋白質贏雞腿、Omega-3超過鮭魚",
-      "published": "2026-04-12T08:43:39+00:00",
-      "summary": "健身族改吃鰻魚！蛋白質贏雞腿、Omega-3超過鮭魚&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPU0xDZ3JnbTk3MHRtMnU1TFBaU0Y0NXQ3S2lEcmVYUEpwb3pFSjNCeUljY25OdG5kUVduUEJHbU5Rdnp3UG04RUdHekoxY1gyRFU2ZERtYm0wTVJRNjJRNUNZLXRsNmJIMlN5QzlvZ3M5V21nOGxvODFXdWZnMm9TSW9KakR4cUFPd1lZVHQzdWx0N0FGOGV2OC1scmtBaG8teEdYQWZGYUxrSjg2UFpXX2RCc052bmltTzRPVWQteENybTVZczhyMnZEcllJdm8yZ29pSXFiRHN2al9mRFFHZFlmMzQta25XQ1c4bFNZaXZqMFptaFhjSEFSWktxTlBZYnZ2RGNud0RxT3Z2OEdCLV9kcUhqMFZJVDVXS2g2bDF2M1M4X1FRNVBhNA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "50c355c86472",
       "title": "哥倫比亞的庫欣氏症候群：他們警告說，一種無聲的疾病會增加糖尿病和心血管疾病的風險",
-      "published": "2026-04-12T04:46:07+00:00",
+      "published": "2026-04-12T04:47:11+00:00",
       "summary": "哥倫比亞的庫欣氏症候群：他們警告說，一種無聲的疾病會增加糖尿病和心血管疾病的風險&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {

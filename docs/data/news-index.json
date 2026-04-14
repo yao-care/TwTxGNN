@@ -1,7 +1,46 @@
 {
-  "generated": "2026-04-14T04:39:34.809322+00:00",
+  "generated": "2026-04-14T06:26:41.352006+00:00",
   "count": 10,
   "news": [
+    {
+      "id": "7df8fc2a0e21",
+      "title": "最美抗癌女神「淋巴癌病逝」！ 醫警告：反覆感冒要小心",
+      "published": "2026-04-14T03:20:00+00:00",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UTDVybW5LRGdyOWppR01qazJvcHdaSEFlZy01SEJOazJRNEdSanNLbGlYRHpYOFJ5dGhzN2xtYzJxVjRuVHNhREZJSmRDYXN6?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "primary cutaneous B-cell lymphoma",
+          "keyword": "淋巴癌",
+          "related_drugs": [
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "78d7a43c7b43",
       "title": "研究發現，新發貧血與較高的癌症風險和死亡有關。",
@@ -205,34 +244,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "64719ff32345",
-      "title": "最美抗癌女神29歲淋巴癌逝！血液疾病年輕化？醫：晚睡熬夜小心免疫崩潰",
-      "published": "2026-04-14T00:05:20+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxObmUzbWpTLTZ5OWZHVXZCbGxxVXBDQXBqVDd2eGVwU0x4YXl5OHRBLU1Jc0JJdVRSTmJkOWNaRVQwX1pwSlBydENNNFJyX1RoQ1czRmRmWXFFQzNfWUszY3BNQjFfNkJpRUZZSXBUVVNUVHdtZmN2clhMOWNLRUxSdjZ6c3h3Z0ppN01uRWFYV3FZTVV1RTI1c1A0Y1ZOMmVRd3YxcVVXMFVsWmpnYVI2WHVOUjZ0NXVOMVE4WWV6M0NBalJXV3UzQ0NfM3Zhd3c3TDg2ZjJmdGQ3STU1ZF9sUGVDb3pRQjUyVURtWjVScnFZSkJQS0RNZjhyMTUtdzYxYTItanJBNGdQc0ZSZmg0RDNWd2RZYW5tNmdvYW1EeW9DSXdEQThfM0QxcmlsejJnSjBFemRQWXBTcFg3TzZzd2R2SUZUTERfSHRiallyRk03SlhYZmM1ckotNDAzNGNJWUF6X01Pb3F0N293TThPTVFXODlmMUs3ZklyTVA5YVIwbGo3NTdaRE5oM2VYRjhpSWpIeUxUcmh4SmFJSFozbVUxUjJldUZWQ3U2bFhYTmRqc0ZpRkE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "primary cutaneous B-cell lymphoma",
-          "keyword": "淋巴癌",
-          "related_drugs": [
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
             }
           ]
         }
@@ -697,7 +708,7 @@
     {
       "id": "50c355c86472",
       "title": "哥倫比亞的庫欣氏症候群：他們警告說，一種無聲的疾病會增加糖尿病和心血管疾病的風險",
-      "published": "2026-04-12T04:46:07+00:00",
+      "published": "2026-04-12T04:47:11+00:00",
       "sources": [
         {
           "name": "citytimes.tw",
