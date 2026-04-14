@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-04-14T20:43:46.971058+00:00",
+  "last_updated": "2026-04-14T21:42:56.495820+00:00",
   "total_count": 34,
   "matched_count": 9,
   "news": [
     {
-      "id": "f856f691da85",
-      "title": "仁濟健康快訊：腦友失靈三部曲 無記性不是認知障礙症 - 20260415 - CULTURE - 明報 Our Lifestyle",
+      "id": "50871aece4f2",
+      "title": "仁濟健康快訊：腦友失靈三部曲 無記性不是認知障礙症 - 20260415 - 副刊",
       "published": "2026-04-14T20:30:00+00:00",
-      "summary": "仁濟健康快訊：腦友失靈三部曲 無記性不是認知障礙症 - 20260415 - CULTURE&nbsp;&nbsp;明報 Our Lifestyle",
+      "summary": "仁濟健康快訊：腦友失靈三部曲 無記性不是認知障礙症 - 20260415 - 副刊&nbsp;&nbsp;明報新聞網",
       "sources": [
         {
-          "name": "明報 Our Lifestyle",
-          "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQUklVWUZ2M0RwbmdqWk1RMzJDdHNmQWtQRTc2bjdKWHlmeFJScm5QdTRYVUw0aUpreDRtRmdIREp5V1paaEU4M25CeENINmtMQ1FYek9jeHZrZ3gtNU1HdGhEUUFrc3R5by1kMldrVVJSa1RkVDlCUTdqTkV1bWowa2d3Q1p5T2prRmg0eF9ZdmdHQ1pEdTcxSlBKRndrRjdZMDdLUEtyZHVYUGYxMmhsUG9LWk4xdDBoSEp2SFpjQVdHQ3VQX0pFUUhjQWNTTFlKYy1ib244ejZnZ1FLSVRZbm9JWlMtN2lFcmNraUVQbnFrUnBiQjRBYUdBcHdIOUMzSFpndHFXTnY1LW96R0V5ZklJOEl4ejBPUnVGNjNxa0lwM2xQaWpnMG1UbjlZTjFLcWpQZ2NzY3NmYzN6alV4S1VINV83dGtrN1MwUjBtSEZQVVpxN1R4aXdSenhoZGpLMHgtY0xOY0ZZek5FN1NIZk1Jd0JvcHV5a2dCX2I3N01IQm9NanpWZF9sTDBHYlV3dGJ5OQ?oc=5"
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNbXA3OWFIVWpEckI5WXc3YnlKQ1RIbEZQdlBRZUVHbktvY3BJVWFKVlFaYWd2SlVMdHgwQTlWTEllSWFCN2wxSloxd1RvVDhFMTdiMC1LSmJWTUp3SVU1MnJMajRfNkpmMC00NXlPaktObU5SY1A4Qlk2SXl0dGhHTlhiOGN6a0VMR2dCMFExTjNIYjc5WU1rNXhxd2NoNzVDdkNPU0dRd1FGRzVzQnhTa0JqMG9sUWI4SUFxM3ZyazNkUDhYX0MydndDM21HVFVkVzgyNFVzVzloa1FoZl9SV0hTUDlIT2dNdUhNSXVOcVJwUmpzTVhqd3B6OHduTXg5Y1ExbGktcGx6dmJVVzdseTRYTUVNeGQ0MHhyNlR2VEdVYkkyRDJidFFxWG1IVW5vTG9xbEhtTTZtNnREcTRGRTZlR011RWstcDgxblBHNXBoVnVzeUFpLVBVd0FMV1p0V3pFSkJEeEx1N3NOcUtCMkJqYVkzVmdqbTRJQ1ZqQ0huZUp3eEx6RkpzMVp5TllwaFdUeGthc1JjcUl6dkxiYi1iSFJPdw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -444,7 +444,7 @@
       "id": "8a9c7414256a",
       "title": "防失智多曬太陽？16年研究揭關鍵：30至40歲是黃金期",
       "published": "2026-04-13T23:25:02+00:00",
-      "summary": "防失智多曬太陽？16年研究揭關鍵：30至40歲是黃金期&nbsp;&nbsp;聯合新聞網防失智，請多曬太陽？16年追蹤研究：30至40歲是黃金預防期&nbsp;&nbsp;遠見雜誌陽光維他命D，能幫助中風病患復原得較好嗎？&nbsp;&nbsp;careonline.com.tw腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關&nbsp;&nbsp;科技島全球6成人缺乏這種維生素中年就開始影響恐牽動失智風險- 國際&nbsp;&nbsp;中時新聞網",
+      "summary": "防失智多曬太陽？16年研究揭關鍵：30至40歲是黃金期&nbsp;&nbsp;聯合新聞網前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "聯合新聞網",
@@ -460,21 +460,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }
