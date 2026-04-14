@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [研究發現，新發貧血與較高的癌症風險和死亡有關。](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNT2Z3NHZmcmk2M3hsN0xiUVdiajY1Y3RqeHpCdTIybmhhVW93WV9vTG01MlA4S1NURlpjWVU0b0JXcFVkQTQ5UnBsWHJ3NG5XdVlDMVBKWWRUdXlmUzJZdmd2RWE5NXJ6d1hwYkhINHhTcXNOQmVUQWVSd25YbjltYkdad1VPbnR0Q3BDM1E5RnRnT1pZV0otWUgtQlI0Z0s5ZG9RbUhmbXpaeHoxYXF6ZFhUMVpvZ25mQVZURi0yTE5xV1dqdmd4bTM3UmhpYVl3Z29TREROeGJOTUF6YU5GaEtTYTVGTEQ3aW1BRW9jZXVTTXlCOUhDaWVpNVlPczRYU1Rka3FPV1JLbkc0eW9SVXlINWxNTko0LV94bWMtTDQ2UVViajN0Nmx0bWhqRC1aaGJGQWo4cUF0Nnl4a2otaXcwZjluZ1FBcTFJOXdZWk9qOG9uSmxMeW5zR25iVUhLYk9LWEhR?oc=5)
+
+2026-04-14 <span class="news-indication-tag">癌症</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNT2Z3NHZmcmk2M3hsN0xiUVdiajY1Y3RqeHpCdTIybmhhVW93WV9vTG01MlA4S1NURlpjWVU0b0JXcFVkQTQ5UnBsWHJ3NG5XdVlDMVBKWWRUdXlmUzJZdmd2RWE5NXJ6d1hwYkhINHhTcXNOQmVUQWVSd25YbjltYkdad1VPbnR0Q3BDM1E5RnRnT1pZV0otWUgtQlI0Z0s5ZG9RbUhmbXpaeHoxYXF6ZFhUMVpvZ25mQVZURi0yTE5xV1dqdmd4bTM3UmhpYVl3Z29TREROeGJOTUF6YU5GaEtTYTVGTEQ3aW1BRW9jZXVTTXlCOUhDaWVpNVlPczRYU1Rka3FPV1JLbkc0eW9SVXlINWxNTko0LV94bWMtTDQ2UVViajN0Nmx0bWhqRC1aaGJGQWo4cUF0Nnl4a2otaXcwZjluZ1FBcTFJOXdZWk9qOG9uSmxMeW5zR25iVUhLYk9LWEhR?oc=5)
+
+---
 
 ### [防失智多曬太陽？16年研究揭關鍵：30至40歲是黃金期](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oZ1hwM0EwVDZuYXM1eDdWNUlEQVh1bEd5LXJVUWNlSy12NEJrMzdTSE4yb1VWWThjemJjU1JkSGtiUVA0SExOLW0wWXJ3dVR3?oc=5)
 
@@ -51,19 +59,19 @@ permalink: /news/gefitinib/
 
 ---
 
+### [加拿大醫學會雜誌發表一篇新論文估計未來一年加拿大的癌症病例及死亡人數](https://news.google.com/rss/articles/CBMi8AJBVV95cUxQaklzbjBQVk40eW10NmxCaUg0SFV5WUtmMVAwdzE3cGhpT1ExaGRsc0g3dHBYWUV3eHR4QV9keFMxN01wSE9ZQ1hZUzh1aVBXZVFwOEI0YUk2bzl2MTcwVi05eDFPMk9BdU5XV3l3ZUk5OG51Rk9ZLTFVQ0RuTkVoMWJ3VHlsaHVOT2VvcHpVZ1BsQmFMdE9Cb0hmcDhPWEQ5Mi1DRTJQNW9JWEdLaENqcHJmOGlJcU5CSEdEcFRBb05CckZCRFVKeHpiZVJ6Q2hvZmpSeFhPNjJDQzN2cUhEcWZYYVBtbTlRUnJra3hEZHFfOTlrQ0R2Q1RFSFNpSTNfbzZUMHNZN0hKNDRSNzJEbDB4UlU4LTZWVXQ5Qk5Qa0JEUGdhM3AyLWRORWw4YUJwUEh3QktfWWRNaTlKVG14YWNSdTZBTmxyUW0zV2V0R1pZNjQtVHpYc1ZxSHZXbEFPZVFjd08ybFF2ejgybkJmZA?oc=5)
+
+2026-04-13 <span class="news-indication-tag">癌症</span>
+
+來源：[am1320.com](https://news.google.com/rss/articles/CBMi8AJBVV95cUxQaklzbjBQVk40eW10NmxCaUg0SFV5WUtmMVAwdzE3cGhpT1ExaGRsc0g3dHBYWUV3eHR4QV9keFMxN01wSE9ZQ1hZUzh1aVBXZVFwOEI0YUk2bzl2MTcwVi05eDFPMk9BdU5XV3l3ZUk5OG51Rk9ZLTFVQ0RuTkVoMWJ3VHlsaHVOT2VvcHpVZ1BsQmFMdE9Cb0hmcDhPWEQ5Mi1DRTJQNW9JWEdLaENqcHJmOGlJcU5CSEdEcFRBb05CckZCRFVKeHpiZVJ6Q2hvZmpSeFhPNjJDQzN2cUhEcWZYYVBtbTlRUnJra3hEZHFfOTlrQ0R2Q1RFSFNpSTNfbzZUMHNZN0hKNDRSNzJEbDB4UlU4LTZWVXQ5Qk5Qa0JEUGdhM3AyLWRORWw4YUJwUEh3QktfWWRNaTlKVG14YWNSdTZBTmxyUW0zV2V0R1pZNjQtVHpYc1ZxSHZXbEFPZVFjd08ybFF2ejgybkJmZA?oc=5)
+
+---
+
 ### [不只降血壓！研究揭6大飲食模式有助護腦、降低失智風險](https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VnBJVkNOS1RZNmplVVljVm8zYlBmSHRyWTVZaFk3UEU0STBmTUJOOE1GQzZNa0hSU2I1a01nWHZEWGNLSmdoREg0ZGtzbGk2bnlUaXZKTWNTdlBo0gFiQVVfeXFMTTBxQUhfZzYwMHhVelM0ejlIek9Od2FaZjRPSTJhaE4wVFE5QzFBaVFNVTBVRmZoUEpvY0lqbllMLVpoN0hjRnBSLTJlYzFtR2p1NmY5U0Juc2g0d0dveDBxZkE?oc=5)
 
 2026-04-13 <span class="news-indication-tag">失智</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VnBJVkNOS1RZNmplVVljVm8zYlBmSHRyWTVZaFk3UEU0STBmTUJOOE1GQzZNa0hSU2I1a01nWHZEWGNLSmdoREg0ZGtzbGk2bnlUaXZKTWNTdlBo0gFiQVVfeXFMTTBxQUhfZzYwMHhVelM0ejlIek9Od2FaZjRPSTJhaE4wVFE5QzFBaVFNVTBVRmZoUEpvY0lqbllMLVpoN0hjRnBSLTJlYzFtR2p1NmY5U0Juc2g0d0dveDBxZkE?oc=5)
-
----
-
-### [不是鮭魚、鯖魚！「這款魚」防失智、護心血管：一小片抵2顆魚油](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LQ1VNVEZpTlhpeW5UQ25NMXQ1Wm1jUFBVZ2F5dFBDQXJteW5tWUpxMUVoZklLY3h1MndOZ2ZLbXVTY1hhaGZyQ1ByRkE?oc=5)
-
-2026-04-12 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">失智</span>
-
-來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LQ1VNVEZpTlhpeW5UQ25NMXQ1Wm1jUFBVZ2F5dFBDQXJteW5tWUpxMUVoZklLY3h1MndOZ2ZLbXVTY1hhaGZyQ1ByRkE?oc=5)
 
 ---
 
