@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-14T11:52:47.993972+00:00",
+  "last_updated": "2026-04-14T13:05:24.527623+00:00",
   "total_count": 32,
   "matched_count": 10,
   "news": [
+    {
+      "id": "e3db3957e111",
+      "title": "壓力大就想吃甜食？研究：看窗外綠地30秒，有助「阻斷」大腦暴食衝動",
+      "published": "2026-04-14T11:45:00+00:00",
+      "summary": "壓力大就想吃甜食？研究：看窗外綠地30秒，有助「阻斷」大腦暴食衝動&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQV0dVcV85aUVJZEI4RHVvLWkyc05iTTRBNGgzb0wtc0VFYkR6MGVETk1yRTdrVDlYVEdQbnVWc1ZBU01SVTlocUZZZTBIM25oLWhsT0RyaHRZTEhqQko5ZGVIa2hTSVc3cWl3cWtLVnZnRkRxVm12bmdKZjlOOThjOE5RTV9YY1ViYU9WeURrR1JWajFBNWE0Vnd1VThta3hpSUVlSUFpSVRmSDBEcVg0c1NIYVQzY1FuT2ZKektab1BocjFCbkFFWUxUaTVSTDBQWFo3UlpqeUsxRllpYzNBWTFfX3duVWVQd09CLWJ2S196OWpmSTByMU0zNEV5TXNKSklvcHNQdTlKTmRTU2lLY3R6X2tmaTVyaTZNVEw4ZVFiaXozRDVPWVhLblViUlgtdVYxdDVCdmxkSDNidEs2Ri1ienR2UUFSd1hn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "78ed83172124",
       "title": "健康網》3習慣讓你必中流感！ 醫警：愛摸臉也中",
@@ -989,19 +1002,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNdmRQWGYweTlZWG9pMDF5X3ZQazBpZjl6aXh0VHZKcndodU03TGZ3aHNaSkw5bkRnenNwOVRVQm5wNWFGWUdtQkJJMXhQNUdIcnItOHVXMHBUMnJOWVpLc09ZUnJOUnc5OE5QelFiakZRN2xxeWxxcWRPUTRqU2xYR3hRekd1U2NyVThlWk54bURBR0M3ZXl4bGhUakZQd245VHNSQWdSM29Vb1NHd0Y1OVI2MnRGWWhYaVZNNzFTbVRiX2VoVUphMDk2b2VpeEVod1lGU0Z3WHdMSW9JaHZhTjJ6WWplTFRuOVZTQ01EdFliRzBXOU5zcmYydkhlZGRXOXhrTWR0Smxldk93QjV2dlZxUllBTDg4Um5xd0NWWGc5MVlGb2pHU3VrOTQ5a1NKMW9Jd1RkVEk3eHFCMTB0Y0NGdEppNXhiNTA3azIxanhleGgxT2dWbDhUTGE1Qmg2bGROYU02X2x6LU1PSFRBR3h2UnZzRXVYTjZ1RUF5cEJHSEx6Vmc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a00b09a7a46e",
-      "title": "印度青少年非傳染性疾病的風險很高：令人震驚的健康報告揭示了隱藏的威脅，ETHealthworld",
-      "published": "2026-04-12T12:36:54+00:00",
-      "summary": "印度青少年非傳染性疾病的風險很高：令人震驚的健康報告揭示了隱藏的威脅，ETHealthworld&nbsp;&nbsp;citytimes.twETHealthworld 的一項重大研究顯示，大多數印度人都面臨隱性健康問題的風險&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNSFk1TTI3YXFLWmN4Z25DZHhEUmZTXzZGWFJJOXd2MTdlTnU3cUI0OXVWenRRUDIzRUMyQ05WNmNTN05vdkhxYTJtc25CYy1LeFRCaHg2T0NTdzVJU2JtMzVPZDNENzVHdEhDM2Ixd1lJNW5IRlV1Ym5ZNnREOTZ3RmJaUTZTcTJLd1lJbW5CR0hVTGE4SHRUaXdHTDNfNGtVdjUtWElkYXlfb3lzcjNkN1RjMFkzX3lWbWItV2tlWFZMT1Z6c0J5bWs5S2x2S1JBdE9SQlhqVFJrZ2ZLNFNZY3dSWnA0cGxKNVd1WE5iMDhrRHNTZF9Dbzk1aHVkb21tOWhYUG5fbjdDdDJYSzF0Z05pamRBVFNQSkNwa0RhdS1JaWNBNkRkcmpEcTNKT2ZWenZ4TVIyZmtILWRkVGlrU2p3V3MycWpYSlpFTHBMZ2RGdGgwVWl1c0o1M3B5YTFibEkwRFpn?oc=5"
         }
       ],
       "matched_keywords": []

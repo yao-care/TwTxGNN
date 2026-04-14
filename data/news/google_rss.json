@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-14T11:52:43.912469+00:00",
+  "fetched_at": "2026-04-14T13:05:21.227234+00:00",
   "count": 31,
   "news": [
     {
@@ -64,18 +64,6 @@
       ]
     },
     {
-      "id": "49263a9161bb",
-      "title": "綠花椰菜防癌專家喊掌握關鍵40分鐘：改善脂肪肝- 健康 - 中時新聞網",
-      "published": "2026-04-14T03:04:23+00:00",
-      "summary": "綠花椰菜防癌專家喊掌握關鍵40分鐘：改善脂肪肝- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU2NDaHRTZHpfLVNtUl9CXzNnRFJXWlVpMFlSYjdYeGRUblRmNU0ybVYtaDJDOUFKZkp0RVN6UVdsbGxDUUlqM1FVQXRyQkVmLThKR0xLMUV5a09WUWZxZW44a2V2dGxDaDRMM0ZZSlFjc0VUOXU3TU40Wk83Vzc1cmx3WTkzbFdveUpSejB6QQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2d5e07b0648f",
       "title": "研究揭示肥胖男性女性在心臟代謝及發炎風險上存顯著差異 - GeneOnline News",
       "published": "2026-04-12T23:22:17+00:00",
@@ -84,6 +72,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQOVRtRjRoOHgxYVAxX3BMa1R6QjBpcUVjV3BuelAzSW5ESGQ1OC0wZW5wSWxaS1RLR3dDMHBEM2Y1WUlQRjhZYmN0c3VJYUs5TmtUdng4UE9wWjlvV3BwMW9zb0JVTlFMcFRiSFRtYmJsNHFFQWxvUkJhM24yVmFDcDdFaExDNG9VbDZ6OXlWdjdiUlNoU25KQTEweWhnWlZscEVFT3J5REdvWTItT1Y4dVUxUFAwdlhtWVlSV183MXNsVlVDZlVmX3hkbTExUE5FOUZqVjV2WkJ3SlN5SWhRelljc2pFUFVFN3gzZ1BLUVdZbGQ5Q1NGUW1tU1NwLW14dTVnNHVTcmFzU25XTlc5ZERfc0RYM2FZX2xlcWk5QVhhQ3BhT202X3dFb0NVU2VzNXFNcDd3Z2JPTDZZRVBDQXpIc3ZTQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "49263a9161bb",
+      "title": "綠花椰菜防癌專家喊掌握關鍵40分鐘：改善脂肪肝- 健康 - 中時新聞網",
+      "published": "2026-04-14T03:04:23+00:00",
+      "summary": "綠花椰菜防癌專家喊掌握關鍵40分鐘：改善脂肪肝- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU2NDaHRTZHpfLVNtUl9CXzNnRFJXWlVpMFlSYjdYeGRUblRmNU0ybVYtaDJDOUFKZkp0RVN6UVdsbGxDUUlqM1FVQXRyQkVmLThKR0xLMUV5a09WUWZxZW44a2V2dGxDaDRMM0ZZSlFjc0VUOXU3TU40Wk83Vzc1cmx3WTkzbFdveUpSejB6QQ?oc=5"
         }
       ]
     },
@@ -108,6 +108,18 @@
         {
           "name": "祝你健康",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGbUo1VWVBSFRZbk9WcmU4NFlFOW5KendiTXVDSzFaOUNsRG83RVFaSy0zRDJTODUzYWdEUHZCZC1zR2F3Ulo4eXhUZnQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e3db3957e111",
+      "title": "壓力大就想吃甜食？研究：看窗外綠地30秒，有助「阻斷」大腦暴食衝動 - Yahoo新聞",
+      "published": "2026-04-14T11:45:00+00:00",
+      "summary": "壓力大就想吃甜食？研究：看窗外綠地30秒，有助「阻斷」大腦暴食衝動&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQV0dVcV85aUVJZEI4RHVvLWkyc05iTTRBNGgzb0wtc0VFYkR6MGVETk1yRTdrVDlYVEdQbnVWc1ZBU01SVTlocUZZZTBIM25oLWhsT0RyaHRZTEhqQko5ZGVIa2hTSVc3cWl3cWtLVnZnRkRxVm12bmdKZjlOOThjOE5RTV9YY1ViYU9WeURrR1JWajFBNWE0Vnd1VThta3hpSUVlSUFpSVRmSDBEcVg0c1NIYVQzY1FuT2ZKektab1BocjFCbkFFWUxUaTVSTDBQWFo3UlpqeUsxRllpYzNBWTFfX3duVWVQd09CLWJ2S196OWpmSTByMU0zNEV5TXNKSklvcHNQdTlKTmRTU2lLY3R6X2tmaTVyaTZNVEw4ZVFiaXozRDVPWVhLblViUlgtdVYxdDVCdmxkSDNidEs2Ri1ienR2UUFSd1hn?oc=5"
         }
       ]
     },
@@ -360,18 +372,6 @@
         {
           "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObDNZNkRXVEVXeXRfdW5yT0JIZ2Q4SXBxMXktNjZYaVl5UExSM3l4MmlXMFEtWGhMQnFGYzQ2Q3BGT1JoNC1KeklQbUNqdElaOFpYNlRhcFBCWFZ6c2hoemJRTUlDQ3Y4d3FMSGVybi1yLU1PeGZmVV91c0VrRVhjZ010ck96TjRtS25saU5pam0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a00b09a7a46e",
-      "title": "印度青少年非傳染性疾病的風險很高：令人震驚的健康報告揭示了隱藏的威脅，ETHealthworld - citytimes.tw",
-      "published": "2026-04-12T12:36:54+00:00",
-      "summary": "印度青少年非傳染性疾病的風險很高：令人震驚的健康報告揭示了隱藏的威脅，ETHealthworld&nbsp;&nbsp;citytimes.twETHealthworld 的一項重大研究顯示，大多數印度人都面臨隱性健康問題的風險&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNSFk1TTI3YXFLWmN4Z25DZHhEUmZTXzZGWFJJOXd2MTdlTnU3cUI0OXVWenRRUDIzRUMyQ05WNmNTN05vdkhxYTJtc25CYy1LeFRCaHg2T0NTdzVJU2JtMzVPZDNENzVHdEhDM2Ixd1lJNW5IRlV1Ym5ZNnREOTZ3RmJaUTZTcTJLd1lJbW5CR0hVTGE4SHRUaXdHTDNfNGtVdjUtWElkYXlfb3lzcjNkN1RjMFkzX3lWbWItV2tlWFZMT1Z6c0J5bWs5S2x2S1JBdE9SQlhqVFJrZ2ZLNFNZY3dSWnA0cGxKNVd1WE5iMDhrRHNTZF9Dbzk1aHVkb21tOWhYUG5fbjdDdDJYSzF0Z05pamRBVFNQSkNwa0RhdS1JaWNBNkRkcmpEcTNKT2ZWenZ4TVIyZmtILWRkVGlrU2p3V3MycWpYSlpFTHBMZ2RGdGgwVWl1c0o1M3B5YTFibEkwRFpn?oc=5"
         }
       ]
     }
