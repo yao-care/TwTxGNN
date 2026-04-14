@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [防失智多曬太陽？16年研究揭關鍵：30至40歲是黃金期](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oZ1hwM0EwVDZuYXM1eDdWNUlEQVh1bEd5LXJVUWNlSy12NEJrMzdTSE4yb1VWWThjemJjU1JkSGtiUVA0SExOLW0wWXJ3dVR3?oc=5)
+
+2026-04-13 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
+
+來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oZ1hwM0EwVDZuYXM1eDdWNUlEQVh1bEd5LXJVUWNlSy12NEJrMzdTSE4yb1VWWThjemJjU1JkSGtiUVA0SExOLW0wWXJ3dVR3?oc=5)
+
+---
 
 ### [護腎關鍵找到了！最新研究：掌握「1飲食法」有效降低洗腎風險 - Harper's BAZAAR](https://news.google.com/rss/articles/CBMioAFBVV95cUxNdzN6UkhXTy0zb3I5OVdwcnZTa0t0SE9JM2VqNmVNMUpHWVc3SUJSM1l4UGNzNkZVSl9FenM4R2M4WlE0eUVMS0x5MHREN2pDaTlBT1V6WkxKbHhVbV9jNExieU1ROWYzelpvaXU1c09FX09DNEFZa0liUUZLWHFEZEU3NUY0QWZET3p6bWR5Q2VNbE9yLWVFTjJOeWM2WjJp?oc=5)
 

@@ -1,7 +1,35 @@
 {
-  "generated": "2026-04-13T23:35:14.986368+00:00",
-  "count": 7,
+  "generated": "2026-04-14T01:48:12.409487+00:00",
+  "count": 9,
   "news": [
+    {
+      "id": "64719ff32345",
+      "title": "最美抗癌女神29歲淋巴癌逝！血液疾病年輕化？醫：晚睡熬夜小心免疫崩潰",
+      "published": "2026-04-14T00:05:20+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxObmUzbWpTLTZ5OWZHVXZCbGxxVXBDQXBqVDd2eGVwU0x4YXl5OHRBLU1Jc0JJdVRSTmJkOWNaRVQwX1pwSlBydENNNFJyX1RoQ1czRmRmWXFFQzNfWUszY3BNQjFfNkJpRUZZSXBUVVNUVHdtZmN2clhMOWNLRUxSdjZ6c3h3Z0ppN01uRWFYV3FZTVV1RTI1c1A0Y1ZOMmVRd3YxcVVXMFVsWmpnYVI2WHVOUjZ0NXVOMVE4WWV6M0NBalJXV3UzQ0NfM3Zhd3c3TDg2ZjJmdGQ3STU1ZF9sUGVDb3pRQjUyVURtWjVScnFZSkJQS0RNZjhyMTUtdzYxYTItanJBNGdQc0ZSZmg0RDNWd2RZYW5tNmdvYW1EeW9DSXdEQThfM0QxcmlsejJnSjBFemRQWXBTcFg3TzZzd2R2SUZUTERfSHRiallyRk03SlhYZmM1ckotNDAzNGNJWUF6X01Pb3F0N293TThPTVFXODlmMUs3ZklyTVA5YVIwbGo3NTdaRE5oM2VYRjhpSWpIeUxUcmh4SmFJSFozbVUxUjJldUZWQ3U2bFhYTmRqc0ZpRkE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "primary cutaneous B-cell lymphoma",
+          "keyword": "淋巴癌",
+          "related_drugs": [
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "8a9c7414256a",
       "title": "防失智多曬太陽？16年研究揭關鍵：30至40歲是黃金期",
@@ -21,6 +49,21 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
             }
           ]
         }
@@ -222,6 +265,41 @@
         }
       ],
       "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cbb636b2d181",
+      "title": "不是鮭魚、鯖魚！「這款魚」防失智、護心血管：一小片抵2顆魚油",
+      "published": "2026-04-12T17:14:59+00:00",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LQ1VNVEZpTlhpeW5UQ25NMXQ1Wm1jUFBVZ2F5dFBDQXJteW5tWUpxMUVoZklLY3h1MndOZ2ZLbXVTY1hhaGZyQ1ByRkE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
         {
           "type": "indication",
           "name": "dementia",

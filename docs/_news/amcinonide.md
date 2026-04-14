@@ -14,7 +14,7 @@ permalink: /news/amcinonide/
 ---
 
 <p class="key-answer" data-question="Amcinonide 有什麼相關新聞？">
-<strong>Amcinonide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 8 個。
+<strong>Amcinonide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 8 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ permalink: /news/amcinonide/
 <li>lichen planus pigmentosus（99.7%）</li>
 <li>hypertrophic lichen planus（99.7%）</li>
 <li>lichen planus pemphigoides（99.6%）</li>
-<li>primary cutaneous B-cell lymphoma（99.4%）</li>
+<li class="indication-matched">primary cutaneous B-cell lymphoma（99.4%）<span class="indication-tag">📰 淋巴癌</span></li>
 <li>dermatitis（99.3%）</li>
 <li>2-hydroxyethyl methacrylate sensitization（99.0%）</li>
 </ul></li>
@@ -40,9 +40,15 @@ permalink: /news/amcinonide/
 <p><a href="{{ '/drugs/amcinonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [最美抗癌女神29歲淋巴癌逝！血液疾病年輕化？醫：晚睡熬夜小心免疫崩潰](https://news.google.com/rss/articles/CBMitgNBVV95cUxObmUzbWpTLTZ5OWZHVXZCbGxxVXBDQXBqVDd2eGVwU0x4YXl5OHRBLU1Jc0JJdVRSTmJkOWNaRVQwX1pwSlBydENNNFJyX1RoQ1czRmRmWXFFQzNfWUszY3BNQjFfNkJpRUZZSXBUVVNUVHdtZmN2clhMOWNLRUxSdjZ6c3h3Z0ppN01uRWFYV3FZTVV1RTI1c1A0Y1ZOMmVRd3YxcVVXMFVsWmpnYVI2WHVOUjZ0NXVOMVE4WWV6M0NBalJXV3UzQ0NfM3Zhd3c3TDg2ZjJmdGQ3STU1ZF9sUGVDb3pRQjUyVURtWjVScnFZSkJQS0RNZjhyMTUtdzYxYTItanJBNGdQc0ZSZmg0RDNWd2RZYW5tNmdvYW1EeW9DSXdEQThfM0QxcmlsejJnSjBFemRQWXBTcFg3TzZzd2R2SUZUTERfSHRiallyRk03SlhYZmM1ckotNDAzNGNJWUF6X01Pb3F0N293TThPTVFXODlmMUs3ZklyTVA5YVIwbGo3NTdaRE5oM2VYRjhpSWpIeUxUcmh4SmFJSFozbVUxUjJldUZWQ3U2bFhYTmRqc0ZpRkE?oc=5)
+
+2026-04-14 <span class="news-indication-tag">淋巴癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMitgNBVV95cUxObmUzbWpTLTZ5OWZHVXZCbGxxVXBDQXBqVDd2eGVwU0x4YXl5OHRBLU1Jc0JJdVRSTmJkOWNaRVQwX1pwSlBydENNNFJyX1RoQ1czRmRmWXFFQzNfWUszY3BNQjFfNkJpRUZZSXBUVVNUVHdtZmN2clhMOWNLRUxSdjZ6c3h3Z0ppN01uRWFYV3FZTVV1RTI1c1A0Y1ZOMmVRd3YxcVVXMFVsWmpnYVI2WHVOUjZ0NXVOMVE4WWV6M0NBalJXV3UzQ0NfM3Zhd3c3TDg2ZjJmdGQ3STU1ZF9sUGVDb3pRQjUyVURtWjVScnFZSkJQS0RNZjhyMTUtdzYxYTItanJBNGdQc0ZSZmg0RDNWd2RZYW5tNmdvYW1EeW9DSXdEQThfM0QxcmlsejJnSjBFemRQWXBTcFg3TzZzd2R2SUZUTERfSHRiallyRk03SlhYZmM1ckotNDAzNGNJWUF6X01Pb3F0N293TThPTVFXODlmMUs3ZklyTVA5YVIwbGo3NTdaRE5oM2VYRjhpSWpIeUxUcmh4SmFJSFozbVUxUjJldUZWQ3U2bFhYTmRqc0ZpRkE?oc=5)
+
+---
 
 
 <div class="disclaimer">
