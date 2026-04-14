@@ -1,8 +1,54 @@
 {
-  "last_updated": "2026-04-14T06:26:41.321193+00:00",
+  "last_updated": "2026-04-14T08:21:55.591018+00:00",
   "total_count": 29,
   "matched_count": 10,
   "news": [
+    {
+      "id": "2fc109ca3e75",
+      "title": "新型吖啶酮化合物展現廣譜抗瘧潛力助力全球瘧疾防治 - GeneOnline News",
+      "published": "2026-04-14T07:29:07+00:00",
+      "summary": "新型吖啶酮化合物展現廣譜抗瘧潛力助力全球瘧疾防治&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPUnBEUGNPR3VVQV9sUnNMcGFxS3MyNDJzX2xHbVJDX0dhTnh5OG0zWWtVcVZzbEtPZ3FkZHc1M0hhbE5DczVreEl5Y1VTTEdRZk5pSkExdTk5bXcyQ2U1THlnaXVKaHhPOWFFZDBNNnE1UjBKZmI2QnVpQ2Z2ZUZBSmF3dk9EZER5OFh0ZUZSTTFSWEtBdTlfd0twOHBjRmdORHJTUTB1cVgzTWZKZFd1SC1wMl9YWWFuWlZBQ1hSNHdqN0tLbFJDQ0Y4MG5EQjhlQllmUEZCYVpMUXp0ZnJOV1NnemxLcU8yd282anlwV3FhTERHZWctMHRFWWNJU05Cci01amxQdG5BOE1kRjJvbDdzczByaEwyNEhxTUlMb3o5blJRSHBtLUtFR3NmTWFFYWtESGExajNBY3haN0VlVDFkSXc0QQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "fab82c5830b6",
+      "title": "對抗肺癌兼治肌肉萎縮！美開發雙效奈米療法 動物實驗現曙光",
+      "published": "2026-04-14T06:18:00+00:00",
+      "summary": "對抗肺癌兼治肌肉萎縮！美開發雙效奈米療法 動物實驗現曙光&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fa2lmck1mZ1kxbVBnMDdyNVpOTmxqbFcwM3NIZG9OUEl1MUszejFVdHh3N09CYk94Z2dzbU9QWGVMSkRLTGh6RUpyYmpHa1B2NC1weDJFSWlaUjUtWTF5by1CckLSAWpBVV95cUxOSmVod0NKQ2ZjcEpiZ1RtNElWSldVVnl4WFNvUkNmdHZubkhvUE9Eb2ZSVndqbmE3dW0yQWROUVdxM0ZoZmZNV0lRNlBuUHU2QUpDYktXV2dYdk5yVGNVWjk4MDd4eEJPcDhn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "28e95b9223e2",
       "title": "《刺胳針》和 ETHealthworld 研究顯示，2023 年全球將有 13 億人罹患肝病",
@@ -57,10 +103,10 @@
       ]
     },
     {
-      "id": "37a9917bd824",
-      "title": "她罹癌後從人際匿跡，不想談病、也不想被同情…學會沒有罪惡感的設立界線：重新定義新的自己",
+      "id": "7be03f836ece",
+      "title": "她罹癌後從人際匿跡，不想談病、也不想被同情…學會沒有罪惡感的設立界線：重新定義2.0版自己",
       "published": "2026-04-14T03:17:00+00:00",
-      "summary": "她罹癌後從人際匿跡，不想談病、也不想被同情…學會沒有罪惡感的設立界線：重新定義新的自己&nbsp;&nbsp;幸福熟齡",
+      "summary": "她罹癌後從人際匿跡，不想談病、也不想被同情…學會沒有罪惡感的設立界線：重新定義2.0版自己&nbsp;&nbsp;幸福熟齡",
       "sources": [
         {
           "name": "幸福熟齡",
@@ -330,19 +376,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "b0815b2f0769",
-      "title": "國際野生動物貿易導致疾病從一個物種傳播到另一個物種",
-      "published": "2026-04-13T19:07:52+00:00",
-      "summary": "國際野生動物貿易導致疾病從一個物種傳播到另一個物種&nbsp;&nbsp;arch-web.com.tw前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNb2lucjZrYmhhSW1pNmw5RmtrWWdIY29VMHNiVHFwSGFfYThLUHJnRTdJN3hRTEkxSFNWV1JsWllkVk5FTklYYmRXd0pnZGdMTHk3Rkt6UTRGblJMcW43aDMzdlVLbWdKNkkyXzROaVZlUVhnSVN2WU9LMlhQS1pfZktuM0taSUtpelhZLXd0NERYcFlfY25RRWVOZHdyRXVTanloVE1OZ29XUWQwSURiS1B2cDVLWE9PY2VNQWhTTUxRdU9CbFdxLWtZNlJRT0ZiM0UydG5PV19FM1Q0alFGTzM1alZ1RTlhUk9ZaWhsSEFIdWpaV1Zram1vTW9yZ2lLQ0hhNmpULTcwZ1lKemFuOVBNZXpSektXdXNETlJmN3JuV2d0cFFhNmFvZUh2RDNsdjdrcFhMUEZGMjJYaEhYeGdNRGV5Skt6RFl2WlBfVUlOVzBCT19GXzdVUk1fc1NsRUZYY1ZMM1hyYWVLcjhrZ3hHM0VTX3NwQmRUZndUbnkzTWxsV1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "ff692e9b8eda",
@@ -888,7 +921,7 @@
       "id": "3e1d34f61023",
       "title": "孟加拉麻疹疫情：由於疫苗缺口，兒童死亡人數上升，ETHealthworld",
       "published": "2026-04-12T23:13:12+00:00",
-      "summary": "孟加拉麻疹疫情：由於疫苗缺口，兒童死亡人數上升，ETHealthworld&nbsp;&nbsp;citytimes.tw多地麻疹持續 衛生局籲加強注意防範&nbsp;&nbsp;澳門廣播電視股份有限公司孟加拉的麻疹疫情迅速蔓延 當局啟動緊急疫苗接種計劃&nbsp;&nbsp;香港電台麻疹疫情致百童死亡 孟加拉急推疫苗接種&nbsp;&nbsp;大紀元新聞網3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種&nbsp;&nbsp;Yahoo新聞",
+      "summary": "孟加拉麻疹疫情：由於疫苗缺口，兒童死亡人數上升，ETHealthworld&nbsp;&nbsp;citytimes.tw孟加拉麻疹逾百童死 港衞生署籲外遊前檢查疫苗紀錄&nbsp;&nbsp;hkcna.hk麻疹疫情致百童死亡 孟加拉急推疫苗接種&nbsp;&nbsp;大紀元新聞網孟加拉麻疹疫情大爆發 一個月內百童病逝&nbsp;&nbsp;singtao.ca多地麻疹持續 衛生局籲加強注意防範&nbsp;&nbsp;澳門廣播電視股份有限公司",
       "sources": [
         {
           "name": "citytimes.tw",
@@ -948,42 +981,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "50c355c86472",
-      "title": "哥倫比亞的庫欣氏症候群：他們警告說，一種無聲的疾病會增加糖尿病和心血管疾病的風險",
-      "published": "2026-04-12T04:47:11+00:00",
-      "summary": "哥倫比亞的庫欣氏症候群：他們警告說，一種無聲的疾病會增加糖尿病和心血管疾病的風險&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQZ0FhaW5jdVVobTQyNnVsdHk5dEE5RWlsWk9lMVZ1eXNCV1BGY0tJeldjckIzbmk2dUVNY3YzZ2FhajZRVGI4NmZ0dUNxLUkwREw4VnFlWEo3aU5QektXMzVUZU9fdTA5XzZmd0tIMFc3RHBGM3FrNVRJWEFRQ1RFNkZwUWloVV9VS0ZpR3c4bThlaFpEeG04MTl0VjJBSHJxVlYyZlZ1NnpyWjlGOF9uYmR0VzBVSjBTUVY1bVY4cTB3c0NMZFo5b3hOb200cVJ1LUhWNUd0Qk16QzNYYVRUeG9KMExOMEJVbWhXS3hpd3J3aEM3ci1aQlB1SFM1RXpnV0Y5Z0N0dnVpX3lXZjFUTS1SS0lOSTVFamhYdFlfOUQ3Z3N5MkVYRXhDVS1ZNnBNcUJPandraGU0WTE3X1lqUjdrWTZOZkM1NnNJZkZXeTRmcUVIbVdfbGs2cFVjUjVaLXpNVGF3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "b9ba655a58a1",
