@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [久坐與三高恐讓失智年輕化 研究：氣功、瑜伽、太極拳、冥想可活化大腦](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGbUo1VWVBSFRZbk9WcmU4NFlFOW5KendiTXVDSzFaOUNsRG83RVFaSy0zRDJTODUzYWdEUHZCZC1zR2F3Ulo4eXhUZnQ?oc=5)
+
+2026-04-14
+
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGbUo1VWVBSFRZbk9WcmU4NFlFOW5KendiTXVDSzFaOUNsRG83RVFaSy0zRDJTODUzYWdEUHZCZC1zR2F3Ulo4eXhUZnQ?oc=5)
+
+---
 
 ### [防失智多曬太陽？16年研究揭關鍵：30至40歲是黃金期](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oZ1hwM0EwVDZuYXM1eDdWNUlEQVh1bEd5LXJVUWNlSy12NEJrMzdTSE4yb1VWWThjemJjU1JkSGtiUVA0SExOLW0wWXJ3dVR3?oc=5)
 

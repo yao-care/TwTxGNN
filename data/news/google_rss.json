@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-14T08:21:49.807138+00:00",
-  "count": 28,
+  "fetched_at": "2026-04-14T10:08:20.171439+00:00",
+  "count": 31,
   "news": [
+    {
+      "id": "f1bd6aa9de8d",
+      "title": "糖尿病藥吃了卻沒效？問題可能藏在每天吃的「這些食物」裡 - 中天新聞網",
+      "published": "2026-04-14T08:52:23+00:00",
+      "summary": "糖尿病藥吃了卻沒效？問題可能藏在每天吃的「這些食物」裡&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qb04tZFZrcFVGMDQ0ZGhOUlppUFZ6U3FBZjhhRW93Z0hpWS1lVEMya3ZKT1dTa2ZQZzRvQzc2M1VzN3hSX0RaUm40dDlza190eWdR?oc=5"
+        }
+      ]
+    },
     {
       "id": "fab82c5830b6",
       "title": "對抗肺癌兼治肌肉萎縮！美開發雙效奈米療法 動物實驗現曙光 - 自由健康網",
@@ -40,18 +52,6 @@
       ]
     },
     {
-      "id": "7df8fc2a0e21",
-      "title": "最美抗癌女神「淋巴癌病逝」！ 醫警告：反覆感冒要小心 - TVBS新聞網",
-      "published": "2026-04-14T03:20:00+00:00",
-      "summary": "最美抗癌女神「淋巴癌病逝」！ 醫警告：反覆感冒要小心&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UTDVybW5LRGdyOWppR01qazJvcHdaSEFlZy01SEJOazJRNEdSanNLbGlYRHpYOFJ5dGhzN2xtYzJxVjRuVHNhREZJSmRDYXN6?oc=5"
-        }
-      ]
-    },
-    {
       "id": "49263a9161bb",
       "title": "綠花椰菜防癌專家喊掌握關鍵40分鐘：改善脂肪肝- 健康 - 中時新聞網",
       "published": "2026-04-14T03:04:23+00:00",
@@ -84,6 +84,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbUxxNFVQOWV5LV9iMDFXYTNWYy1sMWlPaUxOalh6Vkp2NmY2UjdCVWhVcm1iR3pybXYtdzFTcjMzYmVucUZBdzFKLVFERllqYmxYRnZsdm9HXzBDMDlwNzNvNm9LV2ZVNTI2ZVpLQVpoc2c4NGt1UWRITHFRd3hTZjNoYkg1c3hwQVNhZnhkVzI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1630f01ea6e8",
+      "title": "久坐與三高恐讓失智年輕化 研究：氣功、瑜伽、太極拳、冥想可活化大腦 - 祝你健康",
+      "published": "2026-04-14T08:12:34+00:00",
+      "summary": "久坐與三高恐讓失智年輕化 研究：氣功、瑜伽、太極拳、冥想可活化大腦&nbsp;&nbsp;祝你健康不只運動重要！研究揭3大習慣影響失智風險 4招預防一次看&nbsp;&nbsp;元氣網不是跑步也不是爬山！研究公認最佳長壽「1運動」是它，規律走路運動能多活10年&nbsp;&nbsp;ELLE年過半百別怕麻煩 刺激腦部預防失智&nbsp;&nbsp;Yahoo新聞｢高強度運動｣不只燃脂瘦身！美國研究跑步、游泳或上坡衝刺，有助降低這8種疾病風險&nbsp;&nbsp;ELLE",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGbUo1VWVBSFRZbk9WcmU4NFlFOW5KendiTXVDSzFaOUNsRG83RVFaSy0zRDJTODUzYWdEUHZCZC1zR2F3Ulo4eXhUZnQ?oc=5"
         }
       ]
     },
@@ -136,18 +148,6 @@
       ]
     },
     {
-      "id": "a6f728edbd29",
-      "title": "高枕未必無憂！枕頭過高恐釀眼壓升高 青光眼患者當心 - 科技島",
-      "published": "2026-04-13T08:41:02+00:00",
-      "summary": "高枕未必無憂！枕頭過高恐釀眼壓升高 青光眼患者當心&nbsp;&nbsp;科技島",
-      "sources": [
-        {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfLXdlWTdOYmY3a3duR2ZGWnd4cUxSVTRqZVN2ZDdxTjZXODFiSDB4cWY2SmYwb3Z2R3dNbmxiRUJtQVJ3dWY3aWpJQlhKMmFCNTA4QjNwWVhpQmRvaEw0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "67548df65fb4",
       "title": "不只降血壓！研究揭6大飲食模式有助護腦、降低失智風險 - 元氣網",
       "published": "2026-04-13T02:44:29+00:00",
@@ -156,6 +156,18 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VnBJVkNOS1RZNmplVVljVm8zYlBmSHRyWTVZaFk3UEU0STBmTUJOOE1GQzZNa0hSU2I1a01nWHZEWGNLSmdoREg0ZGtzbGk2bnlUaXZKTWNTdlBo0gFiQVVfeXFMTTBxQUhfZzYwMHhVelM0ejlIek9Od2FaZjRPSTJhaE4wVFE5QzFBaVFNVTBVRmZoUEpvY0lqbllMLVpoN0hjRnBSLTJlYzFtR2p1NmY5U0Juc2g0d0dveDBxZkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a6f728edbd29",
+      "title": "高枕未必無憂！枕頭過高恐釀眼壓升高 青光眼患者當心 - 科技島",
+      "published": "2026-04-13T08:41:02+00:00",
+      "summary": "高枕未必無憂！枕頭過高恐釀眼壓升高 青光眼患者當心&nbsp;&nbsp;科技島",
+      "sources": [
+        {
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfLXdlWTdOYmY3a3duR2ZGWnd4cUxSVTRqZVN2ZDdxTjZXODFiSDB4cWY2SmYwb3Z2R3dNbmxiRUJtQVJ3dWY3aWpJQlhKMmFCNTA4QjNwWVhpQmRvaEw0?oc=5"
         }
       ]
     },
@@ -244,6 +256,18 @@
       ]
     },
     {
+      "id": "0ae6cd3d02b3",
+      "title": "穩步推進全國招補標首款且唯一全人羣三價流感病毒亞單位疫苗助力全球2026流感防控！ 作者智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
+      "published": "2026-04-14T08:49:51+00:00",
+      "summary": "穩步推進全國招補標首款且唯一全人羣三價流感病毒亞單位疫苗助力全球2026流感防控！ 作者智通財經&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
+      "sources": [
+        {
+          "name": "Investing.com 香港 - 股市報價& 財經新聞",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kSm5wN1RpbzJueExvVnRCaHlCSkFFOW9sX2lqNGw2c1VOd0JlSjFhckpweWtLT1ktN2ljTmpjd21pY1U2dkFmSl81NTgwNVU4SXpQc0l6bWNXeGdtNTBjZVV6NXBSTG9xdnJlT0duUDI?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8923ccfe11cc",
       "title": "年紀太小無法打疫苗 嬰兒最易染麻疹 嚴重者恐出現肺炎 - 世界新聞網",
       "published": "2026-04-13T03:35:00+00:00",
@@ -268,6 +292,18 @@
       ]
     },
     {
+      "id": "78d7a43c7b43",
+      "title": "研究發現，新發貧血與較高的癌症風險和死亡有關。 - citytimes.tw",
+      "published": "2026-04-14T03:13:14+00:00",
+      "summary": "研究發現，新發貧血與較高的癌症風險和死亡有關。&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNT2Z3NHZmcmk2M3hsN0xiUVdiajY1Y3RqeHpCdTIybmhhVW93WV9vTG01MlA4S1NURlpjWVU0b0JXcFVkQTQ5UnBsWHJ3NG5XdVlDMVBKWWRUdXlmUzJZdmd2RWE5NXJ6d1hwYkhINHhTcXNOQmVUQWVSd25YbjltYkdad1VPbnR0Q3BDM1E5RnRnT1pZV0otWUgtQlI0Z0s5ZG9RbUhmbXpaeHoxYXF6ZFhUMVpvZ25mQVZURi0yTE5xV1dqdmd4bTM3UmhpYVl3Z29TREROeGJOTUF6YU5GaEtTYTVGTEQ3aW1BRW9jZXVTTXlCOUhDaWVpNVlPczRYU1Rka3FPV1JLbkc0eW9SVXlINWxNTko0LV94bWMtTDQ2UVViajN0Nmx0bWhqRC1aaGJGQWo4cUF0Nnl4a2otaXcwZjluZ1FBcTFJOXdZWk9qOG9uSmxMeW5zR25iVUhLYk9LWEhR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9d7798328256",
       "title": "加拿大醫學會雜誌發表一篇新論文估計未來一年加拿大的癌症病例及死亡人數 - am1320.com",
       "published": "2026-04-13T15:56:34+00:00",
@@ -280,14 +316,14 @@
       ]
     },
     {
-      "id": "78d7a43c7b43",
-      "title": "研究發現，新發貧血與較高的癌症風險和死亡有關。 - citytimes.tw",
-      "published": "2026-04-14T03:13:14+00:00",
-      "summary": "研究發現，新發貧血與較高的癌症風險和死亡有關。&nbsp;&nbsp;citytimes.tw",
+      "id": "846629a00f71",
+      "title": "悲慘！這名女子吃完壽司後，住進了加護病房並出現癱瘓 - citytimes.tw",
+      "published": "2026-04-14T07:53:12+00:00",
+      "summary": "悲慘！這名女子吃完壽司後，住進了加護病房並出現癱瘓&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
           "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNT2Z3NHZmcmk2M3hsN0xiUVdiajY1Y3RqeHpCdTIybmhhVW93WV9vTG01MlA4S1NURlpjWVU0b0JXcFVkQTQ5UnBsWHJ3NG5XdVlDMVBKWWRUdXlmUzJZdmd2RWE5NXJ6d1hwYkhINHhTcXNOQmVUQWVSd25YbjltYkdad1VPbnR0Q3BDM1E5RnRnT1pZV0otWUgtQlI0Z0s5ZG9RbUhmbXpaeHoxYXF6ZFhUMVpvZ25mQVZURi0yTE5xV1dqdmd4bTM3UmhpYVl3Z29TREROeGJOTUF6YU5GaEtTYTVGTEQ3aW1BRW9jZXVTTXlCOUhDaWVpNVlPczRYU1Rka3FPV1JLbkc0eW9SVXlINWxNTko0LV94bWMtTDQ2UVViajN0Nmx0bWhqRC1aaGJGQWo4cUF0Nnl4a2otaXcwZjluZ1FBcTFJOXdZWk9qOG9uSmxMeW5zR25iVUhLYk9LWEhR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNZWhZUlFBdGVsOHBpcjdmejRoS1BXUExGOXNCaHlCREJRM09qNjY0UWlDME1wY3RvcXZrWE9fRlpuT1BlT283R2RibExVeVVjZUo4WHV2MVRiMlZLcXJPRXRWN0gwbi1pUko5WVpRWGd0M3VicDZTU1N6VHVtU2M1cEx6azRFMGxsQVFsVmZZOHpOay1odUFtalprQmxCa281ZlV2V0dYV1piLXBpZV9uZmVNQ3NSUUI4ajBIRlRKWHd2b0I5TTRMOVJzbHlTY0xJSDZXSjZhNXd5Sl9EdFFKWE1kc3FzQnZWMXpCMF85TTI3cFFiZzdDVFhLc3FTa1hSZGVSNWJFeHlINzZJeV83bC1WYkZNZkJISmxKVDdPSFBDMDVsYW1Ld3N6ci1jRk03dFF2ckpOVFI0Q1dxVVJEX3JQX0hzanl2aTh0UXVQRVdmbkY0M1RuWldzdTZaWHFKaXd0V1RB?oc=5"
         }
       ]
     },

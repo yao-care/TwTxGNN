@@ -1,8 +1,72 @@
 {
-  "last_updated": "2026-04-14T08:21:55.591018+00:00",
-  "total_count": 29,
+  "last_updated": "2026-04-14T10:08:24.157659+00:00",
+  "total_count": 32,
   "matched_count": 10,
   "news": [
+    {
+      "id": "f1bd6aa9de8d",
+      "title": "糖尿病藥吃了卻沒效？問題可能藏在每天吃的「這些食物」裡",
+      "published": "2026-04-14T08:52:23+00:00",
+      "summary": "糖尿病藥吃了卻沒效？問題可能藏在每天吃的「這些食物」裡&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qb04tZFZrcFVGMDQ0ZGhOUlppUFZ6U3FBZjhhRW93Z0hpWS1lVEMya3ZKT1dTa2ZQZzRvQzc2M1VzN3hSX0RaUm40dDlza190eWdR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0ae6cd3d02b3",
+      "title": "穩步推進全國招補標首款且唯一全人羣三價流感病毒亞單位疫苗助力全球2026流感防控！ 作者智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
+      "published": "2026-04-14T08:49:51+00:00",
+      "summary": "穩步推進全國招補標首款且唯一全人羣三價流感病毒亞單位疫苗助力全球2026流感防控！ 作者智通財經&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
+      "sources": [
+        {
+          "name": "Investing.com 香港 - 股市報價& 財經新聞",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kSm5wN1RpbzJueExvVnRCaHlCSkFFOW9sX2lqNGw2c1VOd0JlSjFhckpweWtLT1ktN2ljTmpjd21pY1U2dkFmSl81NTgwNVU4SXpQc0l6bWNXeGdtNTBjZVV6NXBSTG9xdnJlT0duUDI?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1630f01ea6e8",
+      "title": "久坐與三高恐讓失智年輕化 研究：氣功、瑜伽、太極拳、冥想可活化大腦",
+      "published": "2026-04-14T08:12:34+00:00",
+      "summary": "久坐與三高恐讓失智年輕化 研究：氣功、瑜伽、太極拳、冥想可活化大腦&nbsp;&nbsp;祝你健康不只運動重要！研究揭3大習慣影響失智風險 4招預防一次看&nbsp;&nbsp;元氣網不是跑步也不是爬山！研究公認最佳長壽「1運動」是它，規律走路運動能多活10年&nbsp;&nbsp;ELLE年過半百別怕麻煩 刺激腦部預防失智&nbsp;&nbsp;Yahoo新聞｢高強度運動｣不只燃脂瘦身！美國研究跑步、游泳或上坡衝刺，有助降低這8種疾病風險&nbsp;&nbsp;ELLE",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGbUo1VWVBSFRZbk9WcmU4NFlFOW5KendiTXVDSzFaOUNsRG83RVFaSy0zRDJTODUzYWdEUHZCZC1zR2F3Ulo4eXhUZnQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "846629a00f71",
+      "title": "悲慘！這名女子吃完壽司後，住進了加護病房並出現癱瘓",
+      "published": "2026-04-14T07:53:12+00:00",
+      "summary": "悲慘！這名女子吃完壽司後，住進了加護病房並出現癱瘓&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNZWhZUlFBdGVsOHBpcjdmejRoS1BXUExGOXNCaHlCREJRM09qNjY0UWlDME1wY3RvcXZrWE9fRlpuT1BlT283R2RibExVeVVjZUo4WHV2MVRiMlZLcXJPRXRWN0gwbi1pUko5WVpRWGd0M3VicDZTU1N6VHVtU2M1cEx6azRFMGxsQVFsVmZZOHpOay1odUFtalprQmxCa281ZlV2V0dYV1piLXBpZV9uZmVNQ3NSUUI4ajBIRlRKWHd2b0I5TTRMOVJzbHlTY0xJSDZXSjZhNXd5Sl9EdFFKWE1kc3FzQnZWMXpCMF85TTI3cFFiZzdDVFhLc3FTa1hSZGVSNWJFeHlINzZJeV83bC1WYkZNZkJISmxKVDdPSFBDMDVsYW1Ld3N6ci1jRk03dFF2ckpOVFI0Q1dxVVJEX3JQX0hzanl2aTh0UXVQRVdmbkY0M1RuWldzdTZaWHFKaXd0V1RB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "2fc109ca3e75",
       "title": "新型吖啶酮化合物展現廣譜抗瘧潛力助力全球瘧疾防治 - GeneOnline News",
@@ -61,46 +125,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "7df8fc2a0e21",
-      "title": "最美抗癌女神「淋巴癌病逝」！ 醫警告：反覆感冒要小心",
-      "published": "2026-04-14T03:20:00+00:00",
-      "summary": "最美抗癌女神「淋巴癌病逝」！ 醫警告：反覆感冒要小心&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UTDVybW5LRGdyOWppR01qazJvcHdaSEFlZy01SEJOazJRNEdSanNLbGlYRHpYOFJ5dGhzN2xtYzJxVjRuVHNhREZJSmRDYXN6?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "primary cutaneous B-cell lymphoma",
-          "keyword": "淋巴癌",
-          "related_drugs": [
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "7be03f836ece",
