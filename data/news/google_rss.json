@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-14T15:06:42.590179+00:00",
-  "count": 28,
+  "fetched_at": "2026-04-14T16:56:19.268081+00:00",
+  "count": 29,
   "news": [
     {
       "id": "78ed83172124",
@@ -28,14 +28,14 @@
       ]
     },
     {
-      "id": "fab82c5830b6",
-      "title": "對抗肺癌兼治肌肉萎縮！美開發雙效奈米療法 動物實驗現曙光 - 自由健康網",
-      "published": "2026-04-14T06:18:00+00:00",
-      "summary": "對抗肺癌兼治肌肉萎縮！美開發雙效奈米療法 動物實驗現曙光&nbsp;&nbsp;自由健康網",
+      "id": "2fc65e86c3fe",
+      "title": "科學家發現為什麼麵包可以在不增加熱量的情況下導致體重增加 - citytimes.tw",
+      "published": "2026-04-14T16:08:14+00:00",
+      "summary": "科學家發現為什麼麵包可以在不增加熱量的情況下導致體重增加&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fa2lmck1mZ1kxbVBnMDdyNVpOTmxqbFcwM3NIZG9OUEl1MUszejFVdHh3N09CYk94Z2dzbU9QWGVMSkRLTGh6RUpyYmpHa1B2NC1weDJFSWlaUjUtWTF5by1CckLSAWpBVV95cUxOSmVod0NKQ2ZjcEpiZ1RtNElWSldVVnl4WFNvUkNmdHZubkhvUE9Eb2ZSVndqbmE3dW0yQWROUVdxM0ZoZmZNV0lRNlBuUHU2QUpDYktXV2dYdk5yVGNVWjk4MDd4eEJPcDhn?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxON1VaeVItMUhaMldFbHFTRS1uR2dOcUNLZkJHbm8yQkd1THZ3TU10Xy1oMHNvOGduX3RLdHRkWC05elRhTDlPZUFDNmY1OThxeXRUREdrbU9aWGY1ZUpRc3dnbHN3dnE0Znh5bWgzLUdISmdBaGllMERMNzZKdDA3R2JhWEhjbU9NczB5VGtBVlpqelZpa2tweTJmZUxrVE5MeGhBdFdMcnUyR29hY1hxVHRJbFoxZGtpTlVlZ0E4Vmo0MklaaDVKRlFqam5INHhiRTBOd3pEb2djTjZLa1ZUaVVNUUlCQ1NhNnJ0aXB2d0tjbFlpTnl4SzhIQjNlS3lDdW5MMnJzNDRCTXpDNng5OWtQSWhwRDk3VmhaVDJ3X19BYzVYVWZfQ2xPcTg0ekVxM2JkZ3NWVjN6VlM2c3lDSVB5TXBXT3FBRjM0TWMzcGdFdmZIWVZCdDgwd080SkVXZTYzZF9R?oc=5"
         }
       ]
     },
@@ -48,6 +48,18 @@
         {
           "name": "ENN台灣電報",
           "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9rMm95bm4xRnR4OXJhQzlmNHA1OEtzbV9QMGU2TGlMaTZEME5tcHA2VVVtdi1nRVZoTFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fab82c5830b6",
+      "title": "對抗肺癌兼治肌肉萎縮！美開發雙效奈米療法 動物實驗現曙光 - 自由健康網",
+      "published": "2026-04-14T06:18:00+00:00",
+      "summary": "對抗肺癌兼治肌肉萎縮！美開發雙效奈米療法 動物實驗現曙光&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fa2lmck1mZ1kxbVBnMDdyNVpOTmxqbFcwM3NIZG9OUEl1MUszejFVdHh3N09CYk94Z2dzbU9QWGVMSkRLTGh6RUpyYmpHa1B2NC1weDJFSWlaUjUtWTF5by1CckLSAWpBVV95cUxOSmVod0NKQ2ZjcEpiZ1RtNElWSldVVnl4WFNvUkNmdHZubkhvUE9Eb2ZSVndqbmE3dW0yQWROUVdxM0ZoZmZNV0lRNlBuUHU2QUpDYktXV2dYdk5yVGNVWjk4MDd4eEJPcDhn?oc=5"
         }
       ]
     },
@@ -136,13 +148,13 @@
       ]
     },
     {
-      "id": "4d1e3d3adb88",
-      "title": "糖尿病藥防癌︱糖尿病藥Metformin可防癌？醫生解析4大機制阻斷惡性增生搭配5營養素抗發炎更有效 - 香港經濟日報HKET",
+      "id": "e25e5551cb74",
+      "title": "糖尿病藥防癌︱糖尿病藥Metformin可防癌？醫生解析4大機制阻斷惡性增生搭配5營養素抗發炎更有效 - topick.hket.com",
       "published": "2026-04-13T10:23:28+00:00",
-      "summary": "糖尿病藥防癌︱糖尿病藥Metformin可防癌？醫生解析4大機制阻斷惡性增生搭配5營養素抗發炎更有效&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "糖尿病藥防癌︱糖尿病藥Metformin可防癌？醫生解析4大機制阻斷惡性增生搭配5營養素抗發炎更有效&nbsp;&nbsp;topick.hket.com",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
+          "name": "topick.hket.com",
           "link": "https://news.google.com/rss/articles/CBMizgRBVV95cUxNVGloandtQUpCUFd6RDZjSlFlU1R5aElWZzllTWE5QzNfelk1VjVodHZPSDFOcUh4OUt3TGp5S0ZMR2xVX1hodUJHc1ZxQTkzZnF3eUplZVpQYWVTUTROaWtKelhhbFJCUld2aUVfVTFITmxqQjRnU3dMZVRON01yQkhucGFDaG9McFFDblF4NGlpLU01cEEtSXc4ajFWaDYyb01xN1AyTFBNZzZvMnlJY2hxOEExTExyVVltUV9SZVBCemJnTjFKZHl5YkYtb1ZwVlNHUS1HMDNjU1owOEk4QmJnQm02VWhjb0xGakRKZDVYZmE2S1pOeTAxWFVPdVhSWW9rSFhjc2hBc0RGTk4tUkNtU3FfWFVoYlZwVVNJODlxMTBkeTV6MDg3RXJJc3BkSG5HTjJ1OHF5d2RJQXJLOUhwNFZyem04dXZVR3B0eTN5OVh5bDdSOEpKdmlsLTBmZGdlamZIOW5UemFzbmluRXpfNkptODNleC1EZFk2Z3ZZeklhMGc1MXJZeE85dUhUVTdiVHZOdE4waUVaVHFBWkRPRkhRSGJ5WWtGeEJSOW5RTS1ISXFVM1Z3bTRKTm16YW9iM3JNRzl1b19pdmJLd181SDladVVSb1NVVkhiU0hvRTc5ZEZDcTg1c0JDUFVUMFZxTDhVRXVMeXRHckQxdHlvNDVBaGIwMExFLWZCMFNMWWlCZ0FKSm9hXy1uWGlVd0RNejd2UEI5NTNqOXpnY3kwS3VNVHNpcFhqQ1N2RThLSHY2NkZ1REJIVlBadw?oc=5"
         }
       ]
@@ -216,6 +228,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQNEtVaVh5cGhGR1p5NkFFNmdlOWE1dGtMaGY3SjFqNXNHYWdTbzh2WGFqaWN0VHlmdEFyTHIyQzFheHlyaW9xb042U0wzYmxlVmstRHUtRkpmbTMzXzA1YXNSb3hRSHVQVUpDTEJzMEoxdnExWnZ6dHU2NGhpaEU2N1hIbnkxMU1Bc0JaMEF6MFNFemR5Ty1ESFItMUZEQlVxdGU4bk9fOFdXS1ZwblJBWUdoVG5GRW9wemFSREIxQVp4Y2JvOE1PVUhjZWJHcDdBS3E1TWdrVlhBV2hxUVJzdDNzWlplZWhEVlNZNE55WnVOWERlWDY1SEhCVEtTV0lIc3Y1OTlxcENtMW9oZTU5R3NNR29ZOGhJd1hNMUUzOU5KZ2Y5dFkwajZBMjE0QWRSWjhrRVBRMG0yMVZ6Y0JBNTFEb05aMklvVjR6RHJmcnhpYUpJQnVpZFRTdEVuUnZRWHRscFVn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f0f65526ac21",
+      "title": "【灣區新聞】舊金山性病感染明顯下降 或與新預防措施有關 - KTSF.com",
+      "published": "2026-04-14T16:23:55+00:00",
+      "summary": "【灣區新聞】舊金山性病感染明顯下降 或與新預防措施有關&nbsp;&nbsp;KTSF.com",
+      "sources": [
+        {
+          "name": "KTSF.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVYVNZb21UamwtdGo4TFFsZ3ZFWXNNbl9ENzFUM1dfYUNoNENxWnBFcGd1UjVuM2Vrakd6dlBnSEJDcFpHV0poQXRXZ0RUbEpSbmZqeERKNWVXU1d6ellN?oc=5"
         }
       ]
     },
@@ -324,18 +348,6 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM3NLZjBvT05DdTVFelRwU0pTcHpUMFFaY1dNNWZteHJVVWMxQUg4MUVWVGV5Z3dLNTlhZi1aUmw4aDFEZUZOdW9WUW5PQ2RkaHI1bElWQTdyOXhKSDJ4Qzl3VzdHQnp3QmFBdFFsWVhwbzNqRVdyR01iR3N6UmtMREt4cVVrc2pIbHNVNUZiQXJvT1A0ZmR1OWRiWURqTnV2S19ZV2xCMm9tSl9YNElzbXJGRXBvdkJjc3c1eG9ZOXVhV2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1d682fdba86c",
-      "title": "三種有效的“降壓運動”，一次幾分鐘就管用 - 紫荊網",
-      "published": "2026-04-13T02:15:08+00:00",
-      "summary": "三種有效的“降壓運動”，一次幾分鐘就管用&nbsp;&nbsp;紫荊網",
-      "sources": [
-        {
-          "name": "紫荊網",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObDNZNkRXVEVXeXRfdW5yT0JIZ2Q4SXBxMXktNjZYaVl5UExSM3l4MmlXMFEtWGhMQnFGYzQ2Q3BGT1JoNC1KeklQbUNqdElaOFpYNlRhcFBCWFZ6c2hoemJRTUlDQ3Y4d3FMSGVybi1yLU1PeGZmVV91c0VrRVhjZ010ck96TjRtS25saU5pam0?oc=5"
         }
       ]
     }
