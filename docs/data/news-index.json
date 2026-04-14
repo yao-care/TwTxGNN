@@ -1,31 +1,7 @@
 {
-  "generated": "2026-04-14T13:05:24.548659+00:00",
-  "count": 10,
+  "generated": "2026-04-14T15:06:47.013253+00:00",
+  "count": 9,
   "news": [
-    {
-      "id": "1630f01ea6e8",
-      "title": "久坐與三高恐讓失智年輕化 研究：氣功、瑜伽、太極拳、冥想可活化大腦",
-      "published": "2026-04-14T08:12:34+00:00",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGbUo1VWVBSFRZbk9WcmU4NFlFOW5KendiTXVDSzFaOUNsRG83RVFaSy0zRDJTODUzYWdEUHZCZC1zR2F3Ulo4eXhUZnQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "fab82c5830b6",
       "title": "對抗肺癌兼治肌肉萎縮！美開發雙效奈米療法 動物實驗現曙光",

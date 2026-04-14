@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-14T13:05:24.527623+00:00",
-  "total_count": 32,
-  "matched_count": 10,
+  "last_updated": "2026-04-14T15:06:46.987938+00:00",
+  "total_count": 29,
+  "matched_count": 9,
   "news": [
     {
       "id": "e3db3957e111",
@@ -54,31 +54,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "1630f01ea6e8",
-      "title": "久坐與三高恐讓失智年輕化 研究：氣功、瑜伽、太極拳、冥想可活化大腦",
-      "published": "2026-04-14T08:12:34+00:00",
-      "summary": "久坐與三高恐讓失智年輕化 研究：氣功、瑜伽、太極拳、冥想可活化大腦&nbsp;&nbsp;祝你健康不只運動重要！研究揭3大習慣影響失智風險 4招預防一次看&nbsp;&nbsp;元氣網不是跑步也不是爬山！研究公認最佳長壽「1運動」是它，規律走路運動能多活10年&nbsp;&nbsp;ELLE年過半百別怕麻煩 刺激腦部預防失智&nbsp;&nbsp;Yahoo新聞｢高強度運動｣不只燃脂瘦身！美國研究跑步、游泳或上坡衝刺，有助降低這8種疾病風險&nbsp;&nbsp;ELLE",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGbUo1VWVBSFRZbk9WcmU4NFlFOW5KendiTXVDSzFaOUNsRG83RVFaSy0zRDJTODUzYWdEUHZCZC1zR2F3Ulo4eXhUZnQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "846629a00f71",
@@ -976,32 +951,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQNEtVaVh5cGhGR1p5NkFFNmdlOWE1dGtMaGY3SjFqNXNHYWdTbzh2WGFqaWN0VHlmdEFyTHIyQzFheHlyaW9xb042U0wzYmxlVmstRHUtRkpmbTMzXzA1YXNSb3hRSHVQVUpDTEJzMEoxdnExWnZ6dHU2NGhpaEU2N1hIbnkxMU1Bc0JaMEF6MFNFemR5Ty1ESFItMUZEQlVxdGU4bk9fOFdXS1ZwblJBWUdoVG5GRW9wemFSREIxQVp4Y2JvOE1PVUhjZWJHcDdBS3E1TWdrVlhBV2hxUVJzdDNzWlplZWhEVlNZNE55WnVOWERlWDY1SEhCVEtTV0lIc3Y1OTlxcENtMW9oZTU5R3NNR29ZOGhJd1hNMUUzOU5KZ2Y5dFkwajZBMjE0QWRSWjhrRVBRMG0yMVZ6Y0JBNTFEb05aMklvVjR6RHJmcnhpYUpJQnVpZFRTdEVuUnZRWHRscFVn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5556016cd9d1",
-      "title": "使用尖端奈米盤技術揭示了愛滋病毒和伊波拉病毒的隱藏漏洞",
-      "published": "2026-04-12T14:20:12+00:00",
-      "summary": "使用尖端奈米盤技術揭示了愛滋病毒和伊波拉病毒的隱藏漏洞&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQbm03TWdWU3V6VUFhMzRxLWtVelZDQmZ0cFdOWDIwWFNOUVQyZTluYmJCS2xRV3U3Tm1Na3c4d2JrLWZVSmluZkRyNHh4Q2s0YnJOdFQ0YXI5YzRST0dtQmMwQXllYnlXdFJibDluMTA0WlBCNjlCd0J3ODBFUHVHbWQyOFQ4YUd1QVBPaWtMY3ExLXJxSURvOTRSWExWdGFCM0ltTGt6SFU3ZXBrTUxSUHc4Q3FaZGlMVnNROFNtQk9NYTY3T005SWdjazUzUjhGekpGSExXRWtzOVg1MlJoRGFjcmNNWHlQNnpyc1hPdEdlRXRoSFJoQkdJUncyLTdLNEdES0h3dU9DeXhuT0JvaURaN2VsSUgyYS1jVTgyWjVUUzkzMUdCMWItYmxSUW1Qcmdtck1uOGpDY0NBaTlRSUpaSEVWaFh0Ql9HZ1BqVE13WnhyMEM3ZENZbVoxUVZDdHlSM193?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6069f14a0bd6",
-      "title": "為什麼 Ozempic 並不適合所有人：科學家剛剛找到了隱藏的原因",
-      "published": "2026-04-12T13:07:24+00:00",
-      "summary": "為什麼 Ozempic 並不適合所有人：科學家剛剛找到了隱藏的原因&nbsp;&nbsp;arch-web.com.tw有人打瘦瘦針卻沒瘦 研究：關鍵可能在DNA&nbsp;&nbsp;自由健康網Euronews 精選／用猛健樂甩肉比人慢？研究點出影響藥效關鍵&nbsp;&nbsp;經濟日報GLP-1藥物研究揭示多重潛力 仿冒危機與新口服療法引關注&nbsp;&nbsp;商傳媒同樣服用減肥藥，你的效果為何不如別人&nbsp;&nbsp;华尔街日报中文网",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNdmRQWGYweTlZWG9pMDF5X3ZQazBpZjl6aXh0VHZKcndodU03TGZ3aHNaSkw5bkRnenNwOVRVQm5wNWFGWUdtQkJJMXhQNUdIcnItOHVXMHBUMnJOWVpLc09ZUnJOUnc5OE5QelFiakZRN2xxeWxxcWRPUTRqU2xYR3hRekd1U2NyVThlWk54bURBR0M3ZXl4bGhUakZQd245VHNSQWdSM29Vb1NHd0Y1OVI2MnRGWWhYaVZNNzFTbVRiX2VoVUphMDk2b2VpeEVod1lGU0Z3WHdMSW9JaHZhTjJ6WWplTFRuOVZTQ01EdFliRzBXOU5zcmYydkhlZGRXOXhrTWR0Smxldk93QjV2dlZxUllBTDg4Um5xd0NWWGc5MVlGb2pHU3VrOTQ5a1NKMW9Jd1RkVEk3eHFCMTB0Y0NGdEppNXhiNTA3azIxanhleGgxT2dWbDhUTGE1Qmg2bGROYU02X2x6LU1PSFRBR3h2UnZzRXVYTjZ1RUF5cEJHSEx6Vmc?oc=5"
         }
       ],
       "matched_keywords": []
