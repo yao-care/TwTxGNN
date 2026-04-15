@@ -53,9 +53,17 @@ permalink: /news/gefitinib/
 
 ### [高脂乳製品防失智？專家揭護腦關鍵：彩虹蔬果、蛋白質才是王道](https://news.google.com/rss/articles/CBMijwFBVV95cUxNNlZkLTRXZFdIOHJvcGo4WGxFNHpRa1ZNOVhrRDhVWXVNV1ZCUzBDdjdyN25RSDBiVFppSk0wTDZPb0hIVnZJSmtRRlp3T24waktBa3RtVXUzWnNGZTFrSUs5TE4zTHB3RTZhbC16Zzk1T0YzWnVuLW44cDE1cjFrUDVfREtPcWlHYWRFRlliSQ?oc=5)
 
-2026-04-15 <span class="news-indication-tag">失智</span>
+2026-04-15 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxNNlZkLTRXZFdIOHJvcGo4WGxFNHpRa1ZNOVhrRDhVWXVNV1ZCUzBDdjdyN25RSDBiVFppSk0wTDZPb0hIVnZJSmtRRlp3T24waktBa3RtVXUzWnNGZTFrSUs5TE4zTHB3RTZhbC16Zzk1T0YzWnVuLW44cDE1cjFrUDVfREtPcWlHYWRFRlliSQ?oc=5)
+
+---
+
+### [研究揭維生素D水平或與失智症風險關聯！全球60% 人口不足引發醫界關注](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNVnQ0YTFaZ0VxOTVlS3hGUTBrR0x2NEFmNGtuOGIyamFySFp1WU5YSFBSaHBKbm1LOGEyWndHUURTVGNSZjdJYWwzWHotOUtWcEVMeTg3b0NTS0c1YkU0c1FhcW0wNWtHU2NNdF9EUU9Pb2RSMGhsdXZqZzR1bkZwNUJGdnZMRGRTcFQyUEwxTW5ibGVIUC11WFpvaTZwMjUwMzRVaEs5R3NUdWJmbkpaSkY3RS1KWTNzUVlpemNDOElOYWtNY1ZkQjZlYWVvMFdUMGp2R3hDUDZ0Nl9LZC1YbGdvT3RyRjVuNjJUUDhKenpaS2U1dW9QOHdRY3JIdzgyU3lvZktzOU5HdFZSVmNaSEd1SjdWdHI0bHNQUlN2X20zWmh6MmFQVkdhc0RBMjlTYU1yd0ZzMGRMZFhxcGhkQXJ3a3pKUzRhWHRPQlBINGV6MjRLTXRSUFVtR181SXRrc0VHMDVB?oc=5)
+
+2026-04-15 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
+
+來源：[bastillepost.com](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNVnQ0YTFaZ0VxOTVlS3hGUTBrR0x2NEFmNGtuOGIyamFySFp1WU5YSFBSaHBKbm1LOGEyWndHUURTVGNSZjdJYWwzWHotOUtWcEVMeTg3b0NTS0c1YkU0c1FhcW0wNWtHU2NNdF9EUU9Pb2RSMGhsdXZqZzR1bkZwNUJGdnZMRGRTcFQyUEwxTW5ibGVIUC11WFpvaTZwMjUwMzRVaEs5R3NUdWJmbkpaSkY3RS1KWTNzUVlpemNDOElOYWtNY1ZkQjZlYWVvMFdUMGp2R3hDUDZ0Nl9LZC1YbGdvT3RyRjVuNjJUUDhKenpaS2U1dW9QOHdRY3JIdzgyU3lvZktzOU5HdFZSVmNaSEd1SjdWdHI0bHNQUlN2X20zWmh6MmFQVkdhc0RBMjlTYU1yd0ZzMGRMZFhxcGhkQXJ3a3pKUzRhWHRPQlBINGV6MjRLTXRSUFVtR181SXRrc0VHMDVB?oc=5)
 
 ---
 
@@ -64,14 +72,6 @@ permalink: /news/gefitinib/
 2026-04-14 <span class="news-indication-tag">癌症</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNT2Z3NHZmcmk2M3hsN0xiUVdiajY1Y3RqeHpCdTIybmhhVW93WV9vTG01MlA4S1NURlpjWVU0b0JXcFVkQTQ5UnBsWHJ3NG5XdVlDMVBKWWRUdXlmUzJZdmd2RWE5NXJ6d1hwYkhINHhTcXNOQmVUQWVSd25YbjltYkdad1VPbnR0Q3BDM1E5RnRnT1pZV0otWUgtQlI0Z0s5ZG9RbUhmbXpaeHoxYXF6ZFhUMVpvZ25mQVZURi0yTE5xV1dqdmd4bTM3UmhpYVl3Z29TREROeGJOTUF6YU5GaEtTYTVGTEQ3aW1BRW9jZXVTTXlCOUhDaWVpNVlPczRYU1Rka3FPV1JLbkc0eW9SVXlINWxNTko0LV94bWMtTDQ2UVViajN0Nmx0bWhqRC1aaGJGQWo4cUF0Nnl4a2otaXcwZjluZ1FBcTFJOXdZWk9qOG9uSmxMeW5zR25iVUhLYk9LWEhR?oc=5)
-
----
-
-### [防失智多曬太陽？16年研究揭關鍵：30至40歲是黃金期](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oZ1hwM0EwVDZuYXM1eDdWNUlEQVh1bEd5LXJVUWNlSy12NEJrMzdTSE4yb1VWWThjemJjU1JkSGtiUVA0SExOLW0wWXJ3dVR3?oc=5)
-
-2026-04-13 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
-
-來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oZ1hwM0EwVDZuYXM1eDdWNUlEQVh1bEd5LXJVUWNlSy12NEJrMzdTSE4yb1VWWThjemJjU1JkSGtiUVA0SExOLW0wWXJ3dVR3?oc=5)
 
 ---
 
