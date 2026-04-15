@@ -1,33 +1,22 @@
 {
-  "generated": "2026-04-15T08:23:07.935699+00:00",
+  "generated": "2026-04-15T10:09:19.745775+00:00",
   "count": 8,
   "news": [
     {
-      "id": "97b532a4056f",
-      "title": "失智症可預防！這類食物「狂降38%風險」 醫：大腦年輕4歲",
-      "published": "2026-04-15T03:08:26+00:00",
+      "id": "0fb288e0b0cc",
+      "title": "一生堅持這樣做可以將阿茲海默症的風險降低38%。",
+      "published": "2026-04-15T08:59:51+00:00",
       "sources": [
         {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IakN1b0tPNjdORm90ZXUwQ3hHTzNkMnVFVmY3cXdKTGl5Rmx3U3dVNWphdi15VFdyUm1Nb0paREVtbEZhTXBLTGxPa1Y?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPZkVMWUNSMXdFVkhQWkQwWjZjdDZTWTh0eHB6NHh1dDRsbnJQQUFjcXRaVm5zWUFNM2Z4S0dnaExDbVMyTlEwaUJONWRXY2xZQ0pUVWJ6Z0hCR2NOQnE1RHBjZWxzZVV5SkxyUi11ZnhmMlI4RHR5dVdkQW9qVDhmcjZUbGJkNWt5c3A5dlViX3h4VlRjYWh2UUVPTWxXb3FIR1lwamN6cmhram92aGhEMzNPUVQ4WFdrTWhwU3VEVTdlQXljbTliZTNjaFpXeXVhWjl0SkJCcDNfa3RCbnprV3gxUU9GZ0lkRDMzOFo3XzZabjhaa1RUQlVIbjFNU05GeVZfUWJub3l3SWk0QTcyUG5zNnBWYjlQYVM3bWdTZkFIT05aRzVySlFuOTlyb0RHVnVJVXVqMnQtcW9CS3BTeUhybTFXRnN4T0VFS3BmNWlQV2hDWC1JOGpXZ0Z0WENtN01MUkpGVGw4VzgybUdsUXU5RmpjWkxpUHhLY3BR?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
           "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
+          "keyword": "阿茲海默症",
           "related_drugs": [
             {
               "slug": "gefitinib",
@@ -296,6 +285,30 @@
             {
               "slug": "acetazolamide",
               "name": "Acetazolamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e9178d7a7993",
+      "title": "研究揭「自做1事」降23%失智風險！新手更降67%機率",
+      "published": "2026-04-14T00:11:59+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPZElSaDZkNlVnX2NOdHFVaVJoUHZFMjNMa3hJN3UxMEdjN1p4VnBER1p3YmFUcC1zVWxNNzJjdnA0MnY4X3FqOHVXdWNiNlFDdHdpRUxZeENWQ0ZNelZ0dF9VRTVma3RNdDUydEFqZXV2OXd4MGkxRl9oS3lqYzhuWWlaelNjdWY4a0gzMUhIdGNwVndiRkR2OVpTM2w0WXk3Vk1Rdk9VemdlRUdrczdUNGVLQ3pJTi1qYS1BUlBPM3J0VVRoeGtKcV9ENmFHRlh6TXU3UGZaaGJvVWZmYjdSQlAtZGttMm5QWmw1Mm5Fa1ZKR0JCQW82SEZJZTFyWjlHdmlPTm9reVpZaWVaSDAtTEhrVQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -663,30 +676,6 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a6f728edbd29",
-      "title": "高枕未必無憂！枕頭過高恐釀眼壓升高 青光眼患者當心",
-      "published": "2026-04-13T08:41:02+00:00",
-      "sources": [
-        {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfLXdlWTdOYmY3a3duR2ZGWnd4cUxSVTRqZVN2ZDdxTjZXODFiSDB4cWY2SmYwb3Z2R3dNbmxiRUJtQVJ3dWY3aWpJQlhKMmFCNTA4QjNwWVhpQmRvaEw0?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "青光眼",
-          "keyword": "青光眼",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
             }
           ]
         }

@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [失智症可預防！這類食物「狂降38%風險」 醫：大腦年輕4歲](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IakN1b0tPNjdORm90ZXUwQ3hHTzNkMnVFVmY3cXdKTGl5Rmx3U3dVNWphdi15VFdyUm1Nb0paREVtbEZhTXBLTGxPa1Y?oc=5)
+### [一生堅持這樣做可以將阿茲海默症的風險降低38%。](https://news.google.com/rss/articles/CBMi_gJBVV95cUxPZkVMWUNSMXdFVkhQWkQwWjZjdDZTWTh0eHB6NHh1dDRsbnJQQUFjcXRaVm5zWUFNM2Z4S0dnaExDbVMyTlEwaUJONWRXY2xZQ0pUVWJ6Z0hCR2NOQnE1RHBjZWxzZVV5SkxyUi11ZnhmMlI4RHR5dVdkQW9qVDhmcjZUbGJkNWt5c3A5dlViX3h4VlRjYWh2UUVPTWxXb3FIR1lwamN6cmhram92aGhEMzNPUVQ4WFdrTWhwU3VEVTdlQXljbTliZTNjaFpXeXVhWjl0SkJCcDNfa3RCbnprV3gxUU9GZ0lkRDMzOFo3XzZabjhaa1RUQlVIbjFNU05GeVZfUWJub3l3SWk0QTcyUG5zNnBWYjlQYVM3bWdTZkFIT05aRzVySlFuOTlyb0RHVnVJVXVqMnQtcW9CS3BTeUhybTFXRnN4T0VFS3BmNWlQV2hDWC1JOGpXZ0Z0WENtN01MUkpGVGw4VzgybUdsUXU5RmpjWkxpUHhLY3BR?oc=5)
 
-2026-04-15 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+2026-04-15 <span class="news-indication-tag">阿茲海默症</span>
 
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IakN1b0tPNjdORm90ZXUwQ3hHTzNkMnVFVmY3cXdKTGl5Rmx3U3dVNWphdi15VFdyUm1Nb0paREVtbEZhTXBLTGxPa1Y?oc=5)
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi_gJBVV95cUxPZkVMWUNSMXdFVkhQWkQwWjZjdDZTWTh0eHB6NHh1dDRsbnJQQUFjcXRaVm5zWUFNM2Z4S0dnaExDbVMyTlEwaUJONWRXY2xZQ0pUVWJ6Z0hCR2NOQnE1RHBjZWxzZVV5SkxyUi11ZnhmMlI4RHR5dVdkQW9qVDhmcjZUbGJkNWt5c3A5dlViX3h4VlRjYWh2UUVPTWxXb3FIR1lwamN6cmhram92aGhEMzNPUVQ4WFdrTWhwU3VEVTdlQXljbTliZTNjaFpXeXVhWjl0SkJCcDNfa3RCbnprV3gxUU9GZ0lkRDMzOFo3XzZabjhaa1RUQlVIbjFNU05GeVZfUWJub3l3SWk0QTcyUG5zNnBWYjlQYVM3bWdTZkFIT05aRzVySlFuOTlyb0RHVnVJVXVqMnQtcW9CS3BTeUhybTFXRnN4T0VFS3BmNWlQV2hDWC1JOGpXZ0Z0WENtN01MUkpGVGw4VzgybUdsUXU5RmpjWkxpUHhLY3BR?oc=5)
 
 ---
 
@@ -56,6 +56,14 @@ permalink: /news/gefitinib/
 2026-04-14 <span class="news-indication-tag">癌症</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNT2Z3NHZmcmk2M3hsN0xiUVdiajY1Y3RqeHpCdTIybmhhVW93WV9vTG01MlA4S1NURlpjWVU0b0JXcFVkQTQ5UnBsWHJ3NG5XdVlDMVBKWWRUdXlmUzJZdmd2RWE5NXJ6d1hwYkhINHhTcXNOQmVUQWVSd25YbjltYkdad1VPbnR0Q3BDM1E5RnRnT1pZV0otWUgtQlI0Z0s5ZG9RbUhmbXpaeHoxYXF6ZFhUMVpvZ25mQVZURi0yTE5xV1dqdmd4bTM3UmhpYVl3Z29TREROeGJOTUF6YU5GaEtTYTVGTEQ3aW1BRW9jZXVTTXlCOUhDaWVpNVlPczRYU1Rka3FPV1JLbkc0eW9SVXlINWxNTko0LV94bWMtTDQ2UVViajN0Nmx0bWhqRC1aaGJGQWo4cUF0Nnl4a2otaXcwZjluZ1FBcTFJOXdZWk9qOG9uSmxMeW5zR25iVUhLYk9LWEhR?oc=5)
+
+---
+
+### [研究揭「自做1事」降23%失智風險！新手更降67%機率](https://news.google.com/rss/articles/CBMikwJBVV95cUxPZElSaDZkNlVnX2NOdHFVaVJoUHZFMjNMa3hJN3UxMEdjN1p4VnBER1p3YmFUcC1zVWxNNzJjdnA0MnY4X3FqOHVXdWNiNlFDdHdpRUxZeENWQ0ZNelZ0dF9VRTVma3RNdDUydEFqZXV2OXd4MGkxRl9oS3lqYzhuWWlaelNjdWY4a0gzMUhIdGNwVndiRkR2OVpTM2w0WXk3Vk1Rdk9VemdlRUdrczdUNGVLQ3pJTi1qYS1BUlBPM3J0VVRoeGtKcV9ENmFHRlh6TXU3UGZaaGJvVWZmYjdSQlAtZGttMm5QWmw1Mm5Fa1ZKR0JCQW82SEZJZTFyWjlHdmlPTm9reVpZaWVaSDAtTEhrVQ?oc=5)
+
+2026-04-14 <span class="news-indication-tag">失智</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMikwJBVV95cUxPZElSaDZkNlVnX2NOdHFVaVJoUHZFMjNMa3hJN3UxMEdjN1p4VnBER1p3YmFUcC1zVWxNNzJjdnA0MnY4X3FqOHVXdWNiNlFDdHdpRUxZeENWQ0ZNelZ0dF9VRTVma3RNdDUydEFqZXV2OXd4MGkxRl9oS3lqYzhuWWlaelNjdWY4a0gzMUhIdGNwVndiRkR2OVpTM2w0WXk3Vk1Rdk9VemdlRUdrczdUNGVLQ3pJTi1qYS1BUlBPM3J0VVRoeGtKcV9ENmFHRlh6TXU3UGZaaGJvVWZmYjdSQlAtZGttMm5QWmw1Mm5Fa1ZKR0JCQW82SEZJZTFyWjlHdmlPTm9reVpZaWVaSDAtTEhrVQ?oc=5)
 
 ---
 

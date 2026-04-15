@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [研究發現，新發貧血與較高的癌症風險和死亡有關。](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNT2Z3NHZmcmk2M3hsN0xiUVdiajY1Y3RqeHpCdTIybmhhVW93WV9vTG01MlA4S1NURlpjWVU0b0JXcFVkQTQ5UnBsWHJ3NG5XdVlDMVBKWWRUdXlmUzJZdmd2RWE5NXJ6d1hwYkhINHhTcXNOQmVUQWVSd25YbjltYkdad1VPbnR0Q3BDM1E5RnRnT1pZV0otWUgtQlI0Z0s5ZG9RbUhmbXpaeHoxYXF6ZFhUMVpvZ25mQVZURi0yTE5xV1dqdmd4bTM3UmhpYVl3Z29TREROeGJOTUF6YU5GaEtTYTVGTEQ3aW1BRW9jZXVTTXlCOUhDaWVpNVlPczRYU1Rka3FPV1JLbkc0eW9SVXlINWxNTko0LV94bWMtTDQ2UVViajN0Nmx0bWhqRC1aaGJGQWo4cUF0Nnl4a2otaXcwZjluZ1FBcTFJOXdZWk9qOG9uSmxMeW5zR25iVUhLYk9LWEhR?oc=5)
 
@@ -73,14 +73,6 @@ permalink: /news/acetazolamide/
 2026-04-13 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
 
 來源：[Harper's BAZAAR](https://news.google.com/rss/articles/CBMioAFBVV95cUxNdzN6UkhXTy0zb3I5OVdwcnZTa0t0SE9JM2VqNmVNMUpHWVc3SUJSM1l4UGNzNkZVSl9FenM4R2M4WlE0eUVMS0x5MHREN2pDaTlBT1V6WkxKbHhVbV9jNExieU1ROWYzelpvaXU1c09FX09DNEFZa0liUUZLWHFEZEU3NUY0QWZET3p6bWR5Q2VNbE9yLWVFTjJOeWM2WjJp?oc=5)
-
----
-
-### [高枕未必無憂！枕頭過高恐釀眼壓升高 青光眼患者當心](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfLXdlWTdOYmY3a3duR2ZGWnd4cUxSVTRqZVN2ZDdxTjZXODFiSDB4cWY2SmYwb3Z2R3dNbmxiRUJtQVJ3dWY3aWpJQlhKMmFCNTA4QjNwWVhpQmRvaEw0?oc=5)
-
-2026-04-13 <span class="news-indication-tag">青光眼</span>
-
-來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfLXdlWTdOYmY3a3duR2ZGWnd4cUxSVTRqZVN2ZDdxTjZXODFiSDB4cWY2SmYwb3Z2R3dNbmxiRUJtQVJ3dWY3aWpJQlhKMmFCNTA4QjNwWVhpQmRvaEw0?oc=5)
 
 ---
 
