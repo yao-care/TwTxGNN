@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-15T20:39:40.124516+00:00",
-  "total_count": 29,
-  "matched_count": 9,
+  "last_updated": "2026-04-15T21:43:19.434627+00:00",
+  "total_count": 30,
+  "matched_count": 10,
   "news": [
     {
       "id": "1f382486554c",
@@ -360,6 +360,31 @@
       "matched_keywords": []
     },
     {
+      "id": "54eeab6d761c",
+      "title": "壞膽固醇該降多低？《新英格蘭醫學期刊》最新研究給答案",
+      "published": "2026-04-15T06:22:41+00:00",
+      "summary": "壞膽固醇該降多低？《新英格蘭醫學期刊》最新研究給答案&nbsp;&nbsp;元氣網健康網》高血脂是沉默殺手！醫曝紅麴禁忌 3大法安全降血脂&nbsp;&nbsp;自由健康網壞膽固醇損心血管 高血脂年輕化&nbsp;&nbsp;世界新聞網健康網》南韓研究曝壞膽固醇又降了 醫：55是新目標&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2TDJlXzcwbW9teXNyUjZjdmFVYnpzZl9hT0pWSjg5OUpvamtEbWFsYV8yVW41R3d6NUZtaVlrbHlFNDFQYzlhdFRVaC12eFJveV9kN3phVmo5c1Bp0gFiQVVfeXFMT2tyTXRkSHFKLVIxMHZva0U1U2t6cXpNM19QdHlXUEg4Um1QeTlKbFpfUzJ4U3lmR3NqNGhGR2ZIaGZFNVRLVHFJd0piNVlsQUJJOXVEaEttN1c5WW9fTG9hOWc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "9b24030cfb20",
       "title": "高脂乳製品防失智？專家揭護腦關鍵：彩虹蔬果、蛋白質才是王道",
       "published": "2026-04-15T04:21:10+00:00",
@@ -388,7 +413,7 @@
       "id": "946386c89df5",
       "title": "金縣一名嬰兒確診麻疹引發接觸風險預警",
       "published": "2026-04-15T03:15:00+00:00",
-      "summary": "金縣一名嬰兒確診麻疹引發接觸風險預警&nbsp;&nbsp;大紀元新聞網前往 Google 新聞查看完整報導",
+      "summary": "金縣一名嬰兒確診麻疹引發接觸風險預警&nbsp;&nbsp;大紀元新聞網麻疹搭飛機前往愛達荷州，該州疫苗接種率全美最差&nbsp;&nbsp;citytimes.tw麻疹疫苗的保護力，會隨時間減弱嗎？&nbsp;&nbsp;Bella.tw儂儂麻疹病毒的真面目是「免疫駭客」：可能強制破壞身體抵抗力&nbsp;&nbsp;四季線上4gTV南卡羅來納州麻疹爆發 嬰兒MMR疫苗接種率下降 群體免疫告急&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "大紀元新聞網",
@@ -398,13 +423,13 @@
       "matched_keywords": []
     },
     {
-      "id": "c99eb5b2d8f7",
+      "id": "e2d10f85d9c2",
       "title": "研究揭維生素D水平或與失智症風險關聯！全球60% 人口不足引發醫界關注",
       "published": "2026-04-15T01:20:14+00:00",
-      "summary": "研究揭維生素D水平或與失智症風險關聯！全球60% 人口不足引發醫界關注&nbsp;&nbsp;巴士的報防失智，請多曬太陽？16年追蹤研究：30至40歲是黃金預防期&nbsp;&nbsp;遠見雜誌陽光維他命D，能幫助中風病患復原得較好嗎？&nbsp;&nbsp;careonline.com.tw腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關&nbsp;&nbsp;科技島全球6成人缺乏這種維生素中年就開始影響恐牽動失智風險- 國際&nbsp;&nbsp;中時新聞網",
+      "summary": "研究揭維生素D水平或與失智症風險關聯！全球60% 人口不足引發醫界關注&nbsp;&nbsp;bastillepost.com防失智，請多曬太陽？16年追蹤研究：30至40歲是黃金預防期&nbsp;&nbsp;遠見雜誌陽光維他命D，能幫助中風病患復原得較好嗎？&nbsp;&nbsp;careonline.com.tw腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關&nbsp;&nbsp;科技島全球6成人缺乏這種維生素中年就開始影響恐牽動失智風險- 國際&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNVnQ0YTFaZ0VxOTVlS3hGUTBrR0x2NEFmNGtuOGIyamFySFp1WU5YSFBSaHBKbm1LOGEyWndHUURTVGNSZjdJYWwzWHotOUtWcEVMeTg3b0NTS0c1YkU0c1FhcW0wNWtHU2NNdF9EUU9Pb2RSMGhsdXZqZzR1bkZwNUJGdnZMRGRTcFQyUEwxTW5ibGVIUC11WFpvaTZwMjUwMzRVaEs5R3NUdWJmbkpaSkY3RS1KWTNzUVlpemNDOElOYWtNY1ZkQjZlYWVvMFdUMGp2R3hDUDZ0Nl9LZC1YbGdvT3RyRjVuNjJUUDhKenpaS2U1dW9QOHdRY3JIdzgyU3lvZktzOU5HdFZSVmNaSEd1SjdWdHI0bHNQUlN2X20zWmh6MmFQVkdhc0RBMjlTYU1yd0ZzMGRMZFhxcGhkQXJ3a3pKUzRhWHRPQlBINGV6MjRLTXRSUFVtR181SXRrc0VHMDVB?oc=5"
         }
       ],

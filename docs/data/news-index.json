@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-15T20:39:40.152527+00:00",
-  "count": 9,
+  "generated": "2026-04-15T21:43:19.461931+00:00",
+  "count": 10,
   "news": [
     {
       "id": "e2627394bc0c",
@@ -277,6 +277,30 @@
       ]
     },
     {
+      "id": "54eeab6d761c",
+      "title": "壞膽固醇該降多低？《新英格蘭醫學期刊》最新研究給答案",
+      "published": "2026-04-15T06:22:41+00:00",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2TDJlXzcwbW9teXNyUjZjdmFVYnpzZl9hT0pWSjg5OUpvamtEbWFsYV8yVW41R3d6NUZtaVlrbHlFNDFQYzlhdFRVaC12eFJveV9kN3phVmo5c1Bp0gFiQVVfeXFMT2tyTXRkSHFKLVIxMHZva0U1U2t6cXpNM19QdHlXUEg4Um1QeTlKbFpfUzJ4U3lmR3NqNGhGR2ZIaGZFNVRLVHFJd0piNVlsQUJJOXVEaEttN1c5WW9fTG9hOWc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "9b24030cfb20",
       "title": "高脂乳製品防失智？專家揭護腦關鍵：彩虹蔬果、蛋白質才是王道",
       "published": "2026-04-15T04:21:10+00:00",
@@ -301,12 +325,12 @@
       ]
     },
     {
-      "id": "c99eb5b2d8f7",
+      "id": "e2d10f85d9c2",
       "title": "研究揭維生素D水平或與失智症風險關聯！全球60% 人口不足引發醫界關注",
       "published": "2026-04-15T01:20:14+00:00",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNVnQ0YTFaZ0VxOTVlS3hGUTBrR0x2NEFmNGtuOGIyamFySFp1WU5YSFBSaHBKbm1LOGEyWndHUURTVGNSZjdJYWwzWHotOUtWcEVMeTg3b0NTS0c1YkU0c1FhcW0wNWtHU2NNdF9EUU9Pb2RSMGhsdXZqZzR1bkZwNUJGdnZMRGRTcFQyUEwxTW5ibGVIUC11WFpvaTZwMjUwMzRVaEs5R3NUdWJmbkpaSkY3RS1KWTNzUVlpemNDOElOYWtNY1ZkQjZlYWVvMFdUMGp2R3hDUDZ0Nl9LZC1YbGdvT3RyRjVuNjJUUDhKenpaS2U1dW9QOHdRY3JIdzgyU3lvZktzOU5HdFZSVmNaSEd1SjdWdHI0bHNQUlN2X20zWmh6MmFQVkdhc0RBMjlTYU1yd0ZzMGRMZFhxcGhkQXJ3a3pKUzRhWHRPQlBINGV6MjRLTXRSUFVtR181SXRrc0VHMDVB?oc=5"
         }
       ],
