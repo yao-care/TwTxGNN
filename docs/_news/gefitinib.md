@@ -43,19 +43,19 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（4 則）
 
+### [失智症可預防！這類食物「狂降38%風險」 醫：大腦年輕4歲](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IakN1b0tPNjdORm90ZXUwQ3hHTzNkMnVFVmY3cXdKTGl5Rmx3U3dVNWphdi15VFdyUm1Nb0paREVtbEZhTXBLTGxPa1Y?oc=5)
+
+2026-04-15 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IakN1b0tPNjdORm90ZXUwQ3hHTzNkMnVFVmY3cXdKTGl5Rmx3U3dVNWphdi15VFdyUm1Nb0paREVtbEZhTXBLTGxPa1Y?oc=5)
+
+---
+
 ### [研究發現，新發貧血與較高的癌症風險和死亡有關。](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNT2Z3NHZmcmk2M3hsN0xiUVdiajY1Y3RqeHpCdTIybmhhVW93WV9vTG01MlA4S1NURlpjWVU0b0JXcFVkQTQ5UnBsWHJ3NG5XdVlDMVBKWWRUdXlmUzJZdmd2RWE5NXJ6d1hwYkhINHhTcXNOQmVUQWVSd25YbjltYkdad1VPbnR0Q3BDM1E5RnRnT1pZV0otWUgtQlI0Z0s5ZG9RbUhmbXpaeHoxYXF6ZFhUMVpvZ25mQVZURi0yTE5xV1dqdmd4bTM3UmhpYVl3Z29TREROeGJOTUF6YU5GaEtTYTVGTEQ3aW1BRW9jZXVTTXlCOUhDaWVpNVlPczRYU1Rka3FPV1JLbkc0eW9SVXlINWxNTko0LV94bWMtTDQ2UVViajN0Nmx0bWhqRC1aaGJGQWo4cUF0Nnl4a2otaXcwZjluZ1FBcTFJOXdZWk9qOG9uSmxMeW5zR25iVUhLYk9LWEhR?oc=5)
 
 2026-04-14 <span class="news-indication-tag">癌症</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNT2Z3NHZmcmk2M3hsN0xiUVdiajY1Y3RqeHpCdTIybmhhVW93WV9vTG01MlA4S1NURlpjWVU0b0JXcFVkQTQ5UnBsWHJ3NG5XdVlDMVBKWWRUdXlmUzJZdmd2RWE5NXJ6d1hwYkhINHhTcXNOQmVUQWVSd25YbjltYkdad1VPbnR0Q3BDM1E5RnRnT1pZV0otWUgtQlI0Z0s5ZG9RbUhmbXpaeHoxYXF6ZFhUMVpvZ25mQVZURi0yTE5xV1dqdmd4bTM3UmhpYVl3Z29TREROeGJOTUF6YU5GaEtTYTVGTEQ3aW1BRW9jZXVTTXlCOUhDaWVpNVlPczRYU1Rka3FPV1JLbkc0eW9SVXlINWxNTko0LV94bWMtTDQ2UVViajN0Nmx0bWhqRC1aaGJGQWo4cUF0Nnl4a2otaXcwZjluZ1FBcTFJOXdZWk9qOG9uSmxMeW5zR25iVUhLYk9LWEhR?oc=5)
-
----
-
-### [研究揭「自做1事」降23%失智風險！新手更降67%機率](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hbXl2U2RHV1dxNXE2bkx4Y2ZrREE3dXdhRDVMZExWZjNfaUI2TFhFNEZNaTUySEw1cW1Td0Z1d1hMcGdMQ2J2a2RQczM?oc=5)
-
-2026-04-14 <span class="news-indication-tag">失智</span>
-
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hbXl2U2RHV1dxNXE2bkx4Y2ZrREE3dXdhRDVMZExWZjNfaUI2TFhFNEZNaTUySEw1cW1Td0Z1d1hMcGdMQ2J2a2RQczM?oc=5)
 
 ---
 

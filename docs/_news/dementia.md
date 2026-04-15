@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智（dementia） 相關新聞"
+title: "失智症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智（dementia） 相關新聞
+# 失智症（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
+<strong>失智症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -31,11 +31,11 @@ permalink: /news/dementia/
 
 ## 相關新聞（2 則）
 
-### [研究揭「自做1事」降23%失智風險！新手更降67%機率](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hbXl2U2RHV1dxNXE2bkx4Y2ZrREE3dXdhRDVMZExWZjNfaUI2TFhFNEZNaTUySEw1cW1Td0Z1d1hMcGdMQ2J2a2RQczM?oc=5)
+### [失智症可預防！這類食物「狂降38%風險」 醫：大腦年輕4歲](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IakN1b0tPNjdORm90ZXUwQ3hHTzNkMnVFVmY3cXdKTGl5Rmx3U3dVNWphdi15VFdyUm1Nb0paREVtbEZhTXBLTGxPa1Y?oc=5)
 
-2026-04-14
+2026-04-15
 
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hbXl2U2RHV1dxNXE2bkx4Y2ZrREE3dXdhRDVMZExWZjNfaUI2TFhFNEZNaTUySEw1cW1Td0Z1d1hMcGdMQ2J2a2RQczM?oc=5)
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IakN1b0tPNjdORm90ZXUwQ3hHTzNkMnVFVmY3cXdKTGl5Rmx3U3dVNWphdi15VFdyUm1Nb0paREVtbEZhTXBLTGxPa1Y?oc=5)
 
 ---
 

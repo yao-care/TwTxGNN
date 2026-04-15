@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [研究發現，新發貧血與較高的癌症風險和死亡有關。](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNT2Z3NHZmcmk2M3hsN0xiUVdiajY1Y3RqeHpCdTIybmhhVW93WV9vTG01MlA4S1NURlpjWVU0b0JXcFVkQTQ5UnBsWHJ3NG5XdVlDMVBKWWRUdXlmUzJZdmd2RWE5NXJ6d1hwYkhINHhTcXNOQmVUQWVSd25YbjltYkdad1VPbnR0Q3BDM1E5RnRnT1pZV0otWUgtQlI0Z0s5ZG9RbUhmbXpaeHoxYXF6ZFhUMVpvZ25mQVZURi0yTE5xV1dqdmd4bTM3UmhpYVl3Z29TREROeGJOTUF6YU5GaEtTYTVGTEQ3aW1BRW9jZXVTTXlCOUhDaWVpNVlPczRYU1Rka3FPV1JLbkc0eW9SVXlINWxNTko0LV94bWMtTDQ2UVViajN0Nmx0bWhqRC1aaGJGQWo4cUF0Nnl4a2otaXcwZjluZ1FBcTFJOXdZWk9qOG9uSmxMeW5zR25iVUhLYk9LWEhR?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/hydroxyurea/
 2026-04-13 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE40U20xdURRSDVXdmk2eVgwck9nZy0tMjRzMEphd0JOU0RCR2x5TGltVzZzeks1eDYwZDU1VER6SF9tbkFfZmpYRGpDckdCSFE5RXY3VFhvYzdfWmFFTm45MmZXQzbSAWpBVV95cUxOME1XTEdLT0x1VlZLdm40Q3A3U2hocExEcTdFMm9BNUJkVDJDSDZVSmNYMlMzZDJxSVE2SVpOcERBRnZfSDBUOEpadVJiaTR2cHFrUkhNbFA5Q0xlMS10a2RGOFRKN0F0d053?oc=5)
-
----
-
-### [跨國頭頸癌研究揭示地域差異，女性罹癌風險顯著攀升 - GeneOnline News](https://news.google.com/rss/articles/CBMikAFBVV95cUxQbUxxNFVQOWV5LV9iMDFXYTNWYy1sMWlPaUxOalh6Vkp2NmY2UjdCVWhVcm1iR3pybXYtdzFTcjMzYmVucUZBdzFKLVFERllqYmxYRnZsdm9HXzBDMDlwNzNvNm9LV2ZVNTI2ZVpLQVpoc2c4NGt1UWRITHFRd3hTZjNoYkg1c3hwQVNhZnhkVzI?oc=5)
-
-2026-04-13 <span class="news-indication-tag">頭頸癌</span>
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMikAFBVV95cUxQbUxxNFVQOWV5LV9iMDFXYTNWYy1sMWlPaUxOalh6Vkp2NmY2UjdCVWhVcm1iR3pybXYtdzFTcjMzYmVucUZBdzFKLVFERllqYmxYRnZsdm9HXzBDMDlwNzNvNm9LV2ZVNTI2ZVpLQVpoc2c4NGt1UWRITHFRd3hTZjNoYkg1c3hwQVNhZnhkVzI?oc=5)
 
 ---
 

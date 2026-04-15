@@ -1,7 +1,42 @@
 {
-  "generated": "2026-04-15T01:30:05.398306+00:00",
-  "count": 11,
+  "generated": "2026-04-15T04:39:47.105727+00:00",
+  "count": 10,
   "news": [
+    {
+      "id": "97b532a4056f",
+      "title": "失智症可預防！這類食物「狂降38%風險」 醫：大腦年輕4歲",
+      "published": "2026-04-15T03:02:59+00:00",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IakN1b0tPNjdORm90ZXUwQ3hHTzNkMnVFVmY3cXdKTGl5Rmx3U3dVNWphdi15VFdyUm1Nb0paREVtbEZhTXBLTGxPa1Y?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "024007700e36",
       "title": "健康網》每週2次以上！ 研究曝男性「愛愛頻率」竟能降心臟病風險50％",
@@ -309,30 +344,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "94a01fa8913b",
-      "title": "研究揭「自做1事」降23%失智風險！新手更降67%機率",
-      "published": "2026-04-14T00:02:48+00:00",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hbXl2U2RHV1dxNXE2bkx4Y2ZrREE3dXdhRDVMZExWZjNfaUI2TFhFNEZNaTUySEw1cW1Td0Z1d1hMcGdMQ2J2a2RQczM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
@@ -795,34 +806,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "aaab81a550ae",
-      "title": "跨國頭頸癌研究揭示地域差異，女性罹癌風險顯著攀升 - GeneOnline News",
-      "published": "2026-04-13T02:54:52+00:00",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbUxxNFVQOWV5LV9iMDFXYTNWYy1sMWlPaUxOalh6Vkp2NmY2UjdCVWhVcm1iR3pybXYtdzFTcjMzYmVucUZBdzFKLVFERllqYmxYRnZsdm9HXzBDMDlwNzNvNm9LV2ZVNTI2ZVpLQVpoc2c4NGt1UWRITHFRd3hTZjNoYkg1c3hwQVNhZnhkVzI?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "頭頸癌",
-          "keyword": "頭頸癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }
