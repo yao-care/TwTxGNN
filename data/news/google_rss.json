@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-15T22:34:17.359322+00:00",
-  "count": 29,
+  "fetched_at": "2026-04-15T23:34:49.562659+00:00",
+  "count": 30,
   "news": [
     {
       "id": "2fc109ca3e75",
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "50d344e03da6",
-      "title": "撕下單純「瘦身針」標籤，最新研究：替爾泊肽能活化棕色脂肪加速燃脂 - TechNews 科技新報",
-      "published": "2026-04-11T16:01:19+00:00",
-      "summary": "撕下單純「瘦身針」標籤，最新研究：替爾泊肽能活化棕色脂肪加速燃脂&nbsp;&nbsp;TechNews 科技新報威斯康辛大學研究揭燃燒卡路里分子機制 望開拓肥胖糖尿病新療法&nbsp;&nbsp;蕃新聞科學家發現關鍵蛋白質 有望將棕色脂肪變成「燃脂引擎」&nbsp;&nbsp;經濟日報撕下單純「瘦身針」標籤，最新研究：替爾泊肽能活化棕色脂肪加速燃脂- 股市爆料同學會&nbsp;&nbsp;CMoney",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd1JZWW40ZHhpbzZfMlcxVlcwcHRYNnFrMF84WHdwZDc2bG16NWxXcGlIT0hEVkd3VXAtV3QtdDQtZ0VjOEpxMDRDVDhmWmJwRXNsUWZEQ0RNSEttaEI3cm54bkVDNEM4X21QVkpEN0h3bGNoa19wVDVOU01rcl85d084VTJWRExUS2VQVU9iX3Vyd3UybWVNbGxtVEdDTC1xM1pjNFFn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0d8f35b59bee",
       "title": "國產癲癇創新藥為腦電活動裝“剎車” - 紫荊網",
       "published": "2026-04-14T01:26:11+00:00",
@@ -64,14 +52,14 @@
       ]
     },
     {
-      "id": "0fb288e0b0cc",
-      "title": "一生堅持這樣做可以將阿茲海默症的風險降低38%。 - arch-web.com.tw",
-      "published": "2026-04-15T08:59:51+00:00",
-      "summary": "一生堅持這樣做可以將阿茲海默症的風險降低38%。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "50d344e03da6",
+      "title": "撕下單純「瘦身針」標籤，最新研究：替爾泊肽能活化棕色脂肪加速燃脂 - TechNews 科技新報",
+      "published": "2026-04-11T16:01:19+00:00",
+      "summary": "撕下單純「瘦身針」標籤，最新研究：替爾泊肽能活化棕色脂肪加速燃脂&nbsp;&nbsp;TechNews 科技新報威斯康辛大學研究揭燃燒卡路里分子機制 望開拓肥胖糖尿病新療法&nbsp;&nbsp;蕃新聞科學家發現關鍵蛋白質 有望將棕色脂肪變成「燃脂引擎」&nbsp;&nbsp;經濟日報撕下單純「瘦身針」標籤，最新研究：替爾泊肽能活化棕色脂肪加速燃脂- 股市爆料同學會&nbsp;&nbsp;CMoney",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPZkVMWUNSMXdFVkhQWkQwWjZjdDZTWTh0eHB6NHh1dDRsbnJQQUFjcXRaVm5zWUFNM2Z4S0dnaExDbVMyTlEwaUJONWRXY2xZQ0pUVWJ6Z0hCR2NOQnE1RHBjZWxzZVV5SkxyUi11ZnhmMlI4RHR5dVdkQW9qVDhmcjZUbGJkNWt5c3A5dlViX3h4VlRjYWh2UUVPTWxXb3FIR1lwamN6cmhram92aGhEMzNPUVQ4WFdrTWhwU3VEVTdlQXljbTliZTNjaFpXeXVhWjl0SkJCcDNfa3RCbnprV3gxUU9GZ0lkRDMzOFo3XzZabjhaa1RUQlVIbjFNU05GeVZfUWJub3l3SWk0QTcyUG5zNnBWYjlQYVM3bWdTZkFIT05aRzVySlFuOTlyb0RHVnVJVXVqMnQtcW9CS3BTeUhybTFXRnN4T0VFS3BmNWlQV2hDWC1JOGpXZ0Z0WENtN01MUkpGVGw4VzgybUdsUXU5RmpjWkxpUHhLY3BR?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd1JZWW40ZHhpbzZfMlcxVlcwcHRYNnFrMF84WHdwZDc2bG16NWxXcGlIT0hEVkd3VXAtV3QtdDQtZ0VjOEpxMDRDVDhmWmJwRXNsUWZEQ0RNSEttaEI3cm54bkVDNEM4X21QVkpEN0h3bGNoa19wVDVOU01rcl85d084VTJWRExUS2VQVU9iX3Vyd3UybWVNbGxtVEdDTC1xM1pjNFFn?oc=5"
         }
       ]
     },
@@ -84,6 +72,18 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0VIN2YxdVE4ZFUyMFBJVlQ5MGQtV05zX0txdUNPYk1oajgzaGMxQzVlcExWWkUxVTV3WnNoQV9kdVF2YnJfRHhBWlhoXy10c215aGlnR0JfTG5mbWJiX2t5d3B5TDRtMEQ0TVlzYjZDTVJjcHR4OEt2NmJCLTFiU0VKb0xlTzBERGphdXBUdEdNbXR6NThrdjF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0fb288e0b0cc",
+      "title": "一生堅持這樣做可以將阿茲海默症的風險降低38%。 - arch-web.com.tw",
+      "published": "2026-04-15T08:59:51+00:00",
+      "summary": "一生堅持這樣做可以將阿茲海默症的風險降低38%。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPZkVMWUNSMXdFVkhQWkQwWjZjdDZTWTh0eHB6NHh1dDRsbnJQQUFjcXRaVm5zWUFNM2Z4S0dnaExDbVMyTlEwaUJONWRXY2xZQ0pUVWJ6Z0hCR2NOQnE1RHBjZWxzZVV5SkxyUi11ZnhmMlI4RHR5dVdkQW9qVDhmcjZUbGJkNWt5c3A5dlViX3h4VlRjYWh2UUVPTWxXb3FIR1lwamN6cmhram92aGhEMzNPUVQ4WFdrTWhwU3VEVTdlQXljbTliZTNjaFpXeXVhWjl0SkJCcDNfa3RCbnprV3gxUU9GZ0lkRDMzOFo3XzZabjhaa1RUQlVIbjFNU05GeVZfUWJub3l3SWk0QTcyUG5zNnBWYjlQYVM3bWdTZkFIT05aRzVySlFuOTlyb0RHVnVJVXVqMnQtcW9CS3BTeUhybTFXRnN4T0VFS3BmNWlQV2hDWC1JOGpXZ0Z0WENtN01MUkpGVGw4VzgybUdsUXU5RmpjWkxpUHhLY3BR?oc=5"
         }
       ]
     },
@@ -148,18 +148,6 @@
       ]
     },
     {
-      "id": "90d988dbc802",
-      "title": "「捕蚊燈」體質解密！蚊子叮人不是看血型、體溫，而是這2條件 - 造咖",
-      "published": "2026-04-15T06:58:00+00:00",
-      "summary": "「捕蚊燈」體質解密！蚊子叮人不是看血型、體溫，而是這2條件&nbsp;&nbsp;造咖",
-      "sources": [
-        {
-          "name": "造咖",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYMTlfUkE4TmpNeERPS1kyb2VUVC1NMHpTaXpSbzlqNXVzZkM5X1lHWGwtNk9SQnhNNUVnTG5fMHNJZXVtVVJ4dDk0dG9udw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7be03f836ece",
       "title": "她罹癌後從人際匿跡，不想談病、也不想被同情…學會沒有罪惡感的設立界線：重新定義2.0版自己 - 幸福熟齡",
       "published": "2026-04-14T03:17:00+00:00",
@@ -168,6 +156,18 @@
         {
           "name": "幸福熟齡",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uM2VGMDlLTXB3MDFkSldUY042eHRZUWdGUjlnNmk2VUtDWVZHTTdfRjJNZldFSTVuMjFxNHVoUGxxN3EtUzhQOXc2eHdrM093dWRkcFIyQzcycGltVWFJbkh2eTJwMUJLSzV3b0RnTzJFeWdqTHFhbjVJVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "90d988dbc802",
+      "title": "「捕蚊燈」體質解密！蚊子叮人不是看血型、體溫，而是這2條件 - 造咖",
+      "published": "2026-04-15T06:58:00+00:00",
+      "summary": "「捕蚊燈」體質解密！蚊子叮人不是看血型、體溫，而是這2條件&nbsp;&nbsp;造咖",
+      "sources": [
+        {
+          "name": "造咖",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYMTlfUkE4TmpNeERPS1kyb2VUVC1NMHpTaXpSbzlqNXVzZkM5X1lHWGwtNk9SQnhNNUVnTG5fMHNJZXVtVVJ4dDk0dG9udw?oc=5"
         }
       ]
     },
@@ -208,13 +208,13 @@
       ]
     },
     {
-      "id": "e2d10f85d9c2",
-      "title": "研究揭維生素D水平或與失智症風險關聯！全球60% 人口不足引發醫界關注 - bastillepost.com",
+      "id": "c99eb5b2d8f7",
+      "title": "研究揭維生素D水平或與失智症風險關聯！全球60% 人口不足引發醫界關注 - 巴士的報",
       "published": "2026-04-15T01:20:14+00:00",
-      "summary": "研究揭維生素D水平或與失智症風險關聯！全球60% 人口不足引發醫界關注&nbsp;&nbsp;bastillepost.com防失智，請多曬太陽？16年追蹤研究：30至40歲是黃金預防期&nbsp;&nbsp;遠見雜誌陽光維他命D，能幫助中風病患復原得較好嗎？&nbsp;&nbsp;careonline.com.tw腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關&nbsp;&nbsp;科技島全球6成人缺乏這種維生素中年就開始影響恐牽動失智風險- 國際&nbsp;&nbsp;中時新聞網",
+      "summary": "研究揭維生素D水平或與失智症風險關聯！全球60% 人口不足引發醫界關注&nbsp;&nbsp;巴士的報防失智，請多曬太陽？16年追蹤研究：30至40歲是黃金預防期&nbsp;&nbsp;遠見雜誌陽光維他命D，能幫助中風病患復原得較好嗎？&nbsp;&nbsp;careonline.com.tw腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關&nbsp;&nbsp;科技島全球6成人缺乏這種維生素中年就開始影響恐牽動失智風險- 國際&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNVnQ0YTFaZ0VxOTVlS3hGUTBrR0x2NEFmNGtuOGIyamFySFp1WU5YSFBSaHBKbm1LOGEyWndHUURTVGNSZjdJYWwzWHotOUtWcEVMeTg3b0NTS0c1YkU0c1FhcW0wNWtHU2NNdF9EUU9Pb2RSMGhsdXZqZzR1bkZwNUJGdnZMRGRTcFQyUEwxTW5ibGVIUC11WFpvaTZwMjUwMzRVaEs5R3NUdWJmbkpaSkY3RS1KWTNzUVlpemNDOElOYWtNY1ZkQjZlYWVvMFdUMGp2R3hDUDZ0Nl9LZC1YbGdvT3RyRjVuNjJUUDhKenpaS2U1dW9QOHdRY3JIdzgyU3lvZktzOU5HdFZSVmNaSEd1SjdWdHI0bHNQUlN2X20zWmh6MmFQVkdhc0RBMjlTYU1yd0ZzMGRMZFhxcGhkQXJ3a3pKUzRhWHRPQlBINGV6MjRLTXRSUFVtR181SXRrc0VHMDVB?oc=5"
         }
       ]
@@ -280,14 +280,14 @@
       ]
     },
     {
-      "id": "3df40e23e79f",
+      "id": "7bdef834c744",
       "title": "減低病毒傳播風險 獄中篩查 助囚友戰勝丙肝 - 信報網站",
       "published": "2026-04-15T08:08:13+00:00",
       "summary": "減低病毒傳播風險 獄中篩查 助囚友戰勝丙肝&nbsp;&nbsp;信報網站",
       "sources": [
         {
           "name": "信報網站",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQc25jVGp2cTNVTjRSak5BUnFzNm44Z0ljNWZVaXoxY3NmcXhMeUVqOUxJanVnR3V5dTJYV21BQmNnclY4ZzJBNmpzVzlUT2hHYTF3ck96S010b2YwNUptaXpkbEt5QWtwdFBjYW5jVUljRDdwRmpaMGhoV2FWaDJFajdteTI3TnA5UXFJeDBHYThoS3lTMTM1SXhvZ0RsRHY2RGxxVldRcVhyMjRJWXptMmhCeTlBRDJxcVMyS3lGWExYNDYyaDZycGthM2hDOFdQLVdhakFqN2FCOXVkcXdJeTdETXY1dlZDUG5rVU1mRDlKc2NZOWRzNzZjNE1EWE5mWWREeW9qZXhKYnNra1JpQzR1VWdrSGJGaXJFQ3kxYklJR2hMRWdCcl9CTzJBbTZtSmdqZHdzUkNvUnQzU29CUjBtSFEyTUM2T29jXw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQQjlUakRsVW9UMWdOM093T2JMWmtDUWc2OGsyUjl0YnRFVzJwU2o3Skw2QS10SmZ4b3dTVTJCS1V4UXFXZ1hXdWNOci1ObHZLRFk3cF9JR1dOek5LRWJLUHg1VnRwTF9JOGV3a1FJRGNKMGprVHZncG5IQkV4ajlwQTh5NTA1LTJxMmxlaFBVcm9lamxaRWtrbGdpbXhneFZKOGdhdk5nYkZqOHMwakV2c0xiS21BQ0NhSVRMZHNaNFZUczZmMXhtZ3kyTDV4N3ViYjgtTWQzc3FnQVVnTU9VVklUMkhPUUpMOE1fT2hENGc1VkJEOUFyczJ1cEFYSVFGVmQ4cVlXRkZvRnBxM0RWUWhmZURiN1J3SlF0SXJuMHQzTXE1X2RwaE1wSy0wOEtJMlFfYVBVVkJWbk1ZQndKN3NaM1dmVi1PTkdYbDlHTmNIUlhwclVYcGNBLWRKWXp5WmVwV1cwQ3FkVnp6aGxXNTFLUDl5a3hHM25NZGxwaG9YX18waFBPMkw5Ri1yLVlxMHBjVFU4Y1ZtS3luYmV3dnN5VnZwWVNsWEw1RVFYbHVoakY5VnBtY09FTWJGRURISDEyVi1fdzlrNVJxTGpKUWkwRU42aHRmSjltUUtXMTN6enli?oc=5"
         }
       ]
     },
@@ -348,6 +348,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNT2Z3NHZmcmk2M3hsN0xiUVdiajY1Y3RqeHpCdTIybmhhVW93WV9vTG01MlA4S1NURlpjWVU0b0JXcFVkQTQ5UnBsWHJ3NG5XdVlDMVBKWWRUdXlmUzJZdmd2RWE5NXJ6d1hwYkhINHhTcXNOQmVUQWVSd25YbjltYkdad1VPbnR0Q3BDM1E5RnRnT1pZV0otWUgtQlI0Z0s5ZG9RbUhmbXpaeHoxYXF6ZFhUMVpvZ25mQVZURi0yTE5xV1dqdmd4bTM3UmhpYVl3Z29TREROeGJOTUF6YU5GaEtTYTVGTEQ3aW1BRW9jZXVTTXlCOUhDaWVpNVlPczRYU1Rka3FPV1JLbkc0eW9SVXlINWxNTko0LV94bWMtTDQ2UVViajN0Nmx0bWhqRC1aaGJGQWo4cUF0Nnl4a2otaXcwZjluZ1FBcTFJOXdZWk9qOG9uSmxMeW5zR25iVUhLYk9LWEhR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f0e3423389de",
+      "title": "別用棉花棒撩耳屎！專家警告恐幫耳屎「壓實」洗完澡耳朵濕如何正確處理？ - 星島頭條",
+      "published": "2026-04-14T08:26:34+00:00",
+      "summary": "別用棉花棒撩耳屎！專家警告恐幫耳屎「壓實」洗完澡耳朵濕如何正確處理？&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxQNjZLMUdVVHN2RGJiZEgtbUJWYVlPeUN1N3o5cTh6c1phYnEwUzBQZGRGQUNiTzNUV0k5MTlQSFg1SkZRdnhaU2NHeDk3eTRwYnFTck9IVW40QzE3YnBXc3ZSSUNKUnBtYl9MX0RrTzVsUnhNR1lrdXlTYkMxcUJFODFFX0pXM01rM254eHZpQVUxMUoxS3JDZWt1dnpTaXFpMEdsemU2TjNlU3FvaVo5NXlwemR4YU56QWRhVXd0TFYxWVAzS3JMRW1pRXFUclB5ZzRuYm1WQVNDejlnVjhjVk9LU0hEVW5CWXdrQnh3UVpvQ0dfTG1DRVJ6aDBGWm9LZ1VnenNVUklfNFRWbGZnR2Y4eUtqZElDLTUzczc4NVFsd0pJcVpfT1VjRmRXU21YeGVWMVFvNlJRUnM5eGhOMDFsTWlFQkQ3b195YjRrMUppbzRuT1F4SDlTaWhaWUFaMlhsRjFMdE54MWpmcTZ2T3doU28wNUtGRG05eUNFUFJVWkRpSFk5QlFsVy1PNTZESGV5M3ZDLXhaa0ZFMlRrcUUzWEgyUmdXM3BmRU1jQ3JRbXhrTE1GRWNTQkpqXzAtTkE?oc=5"
         }
       ]
     }
