@@ -1,43 +1,37 @@
 ---
 layout: default
-title: "心梗（myocardial infarction） 相關新聞"
+title: "痛風（gout） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "心梗（myocardial infarction） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
-permalink: /news/myocardial-infarction/
+description: "痛風（gout） 的相關健康新聞報導。1 則新聞、3 個相關藥物。"
+permalink: /news/gout/
 ---
 
-# 心梗（myocardial infarction） 相關新聞
+# 痛風（gout） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="心梗（myocardial infarction） 有什麼相關新聞？">
-<strong>心梗（myocardial infarction）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="痛風（gout） 有什麼相關新聞？">
+<strong>痛風（gout）</strong> 目前有 <strong>1 則</strong>相關新聞報導，3 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「心梗」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「痛風」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
 <strong>相關藥物報告</strong>
 <p>以下藥物的預測適應症可能與此疾病相關：</p>
 <ul>
-<li><a href="{{ '/drugs/ouabain/' | relative_url }}">Ouabain</a></li>
+<li><a href="{{ '/drugs/nitrofurantoin/' | relative_url }}">Nitrofurantoin</a></li>
+<li><a href="{{ '/drugs/sulfamerazine/' | relative_url }}">Sulfamerazine</a></li>
+<li><a href="{{ '/drugs/sulfamethazine/' | relative_url }}">Sulfamethazine</a></li>
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [腎臟健康靠吃出來！營養師推薦9大護腎食物，維持腎功能、降低洗腎風險 - Harper's BAZAAR](https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0licS0ydUJwbjBQYm9hQ3NlVnZuLU1DZVJ6bG9vaWxacDE4ckxHcTJmUU9QYmlJakU4aHVOeXBaaDIzbmNhcTVBbmkwLVliT0o1X0FDd0hfOUxyUUd0OUlGOXVTY0RPWEJqdXVoOEQxcWNBRzMzTXlEQkIteVJmaExLQW80UXJmOXZUS2RSeUV2d0VLYWhkeS12MA?oc=5)
-
-2026-04-15
-
-來源：[Harper's BAZAAR](https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0licS0ydUJwbjBQYm9hQ3NlVnZuLU1DZVJ6bG9vaWxacDE4ckxHcTJmUU9QYmlJakU4aHVOeXBaaDIzbmNhcTVBbmkwLVliT0o1X0FDd0hfOUxyUUd0OUlGOXVTY0RPWEJqdXVoOEQxcWNBRzMzTXlEQkIteVJmaExLQW80UXJmOXZUS2RSeUV2d0VLYWhkeS12MA?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [這種流行的痛風藥物可以降低心臟病發作和中風的風險](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPSTBKLTBnbW1Vd3l4bndkd1VrcElkYVA2eTBsbk5zalJhTFhnamJ5OVNsLWRuWktfdWlNSmZzWl9zSGlPVFR0b0xUVzg1cjltbDgtcVhaTERWMzJiTDBKbDhFNGRtVjQxOThYZ0xlTmstano2VE1sZjBqYkZBeHVlZVB5Zkw1X0RkVFlydDVpbHBwNDBia3g2MzB1d0pKWlpLdUJscGdGS0k2dTA0T0h5NDJvUjhFTjh1bl9wUGNKc2kyVlZNSmFEM1lNMF9BQlJTaFVBWWxzVTJLTVJURDc0YVJ1cjI5M0l3VDVUdFRLQ3laQUgzSVlsaTFxa21KcDZXRzhQalZVdF9peU5UTGJuNURLMmZ4U2xXYi0wYXhYWXVBLS1xaFZWRzBSNDJNWUx6b3dPMGNUNWYtRzgyeXk1aUJUbGY2Zy1VTzhNMl9PX05YTnB6dzN3VXBJOE1YdHo4bkZBMk5n?oc=5)
 

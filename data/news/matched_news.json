@@ -1,8 +1,261 @@
 {
-  "last_updated": "2026-04-15T10:09:19.719467+00:00",
-  "total_count": 33,
-  "matched_count": 8,
+  "last_updated": "2026-04-15T11:50:34.739866+00:00",
+  "total_count": 31,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "e2627394bc0c",
+      "title": "腎臟健康靠吃出來！營養師推薦9大護腎食物，維持腎功能、降低洗腎風險 - Harper's BAZAAR",
+      "published": "2026-04-15T11:07:09+00:00",
+      "summary": "腎臟健康靠吃出來！營養師推薦9大護腎食物，維持腎功能、降低洗腎風險&nbsp;&nbsp;Harper's BAZAAR權威醫學期刊證實：每日兩湯匙橄欖油 降心臟病、護肝風險達三成&nbsp;&nbsp;墨新聞-MORE News腎友注意！日吃1款保健品 中風風險降43%&nbsp;&nbsp;鏡週刊Mirror Media腎友快看！2026新研究：補充「1營養品」心血管風險大減43%&nbsp;&nbsp;TVBS新聞網腎不好更要吃 研究曝日服1保健品：中風心梗狂降43％&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "Harper's BAZAAR",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0licS0ydUJwbjBQYm9hQ3NlVnZuLU1DZVJ6bG9vaWxacDE4ckxHcTJmUU9QYmlJakU4aHVOeXBaaDIzbmNhcTVBbmkwLVliT0o1X0FDd0hfOUxyUUd0OUlGOXVTY0RPWEJqdXVoOEQxcWNBRzMzTXlEQkIteVJmaExLQW80UXJmOXZUS2RSeUV2d0VLYWhkeS12MA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a48eb6afb8cc",
+      "title": "這種流行的痛風藥物可以降低心臟病發作和中風的風險",
+      "published": "2026-04-15T10:59:11+00:00",
+      "summary": "這種流行的痛風藥物可以降低心臟病發作和中風的風險&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPSTBKLTBnbW1Vd3l4bndkd1VrcElkYVA2eTBsbk5zalJhTFhnamJ5OVNsLWRuWktfdWlNSmZzWl9zSGlPVFR0b0xUVzg1cjltbDgtcVhaTERWMzJiTDBKbDhFNGRtVjQxOThYZ0xlTmstano2VE1sZjBqYkZBeHVlZVB5Zkw1X0RkVFlydDVpbHBwNDBia3g2MzB1d0pKWlpLdUJscGdGS0k2dTA0T0h5NDJvUjhFTjh1bl9wUGNKc2kyVlZNSmFEM1lNMF9BQlJTaFVBWWxzVTJLTVJURDc0YVJ1cjI5M0l3VDVUdFRLQ3laQUgzSVlsaTFxa21KcDZXRzhQalZVdF9peU5UTGJuNURLMmZ4U2xXYi0wYXhYWXVBLS1xaFZWRzBSNDJNWUx6b3dPMGNUNWYtRzgyeXk1aUJUbGY2Zy1VTzhNMl9PX05YTnB6dzN3VXBJOE1YdHo4bkZBMk5n?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心臟病發",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "gout",
+          "keyword": "痛風",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "sulfamerazine",
+              "name": "Sulfamerazine"
+            },
+            {
+              "slug": "sulfamethazine",
+              "name": "Sulfamethazine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dee183087945",
+      "title": "2026 年世界肝臟日：您的糖尿病是一場無聲的危機嗎？ 《柳葉刀》稱每20 名印度人中就有1 人患有隱性肝硬化",
+      "published": "2026-04-15T10:23:03+00:00",
+      "summary": "2026 年世界肝臟日：您的糖尿病是一場無聲的危機嗎？ 《柳葉刀》稱每20 名印度人中就有1 人患有隱性肝硬化&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNa3ZjMVFObmdsbEhnWjVyMThZUUNEaDdKY1QyZjJQYy13MEhGOU9IYUFPMWxhNjRvS1RuMDYyZGJ1WG1jbERpalV5cWUyLVVMaXRSbG5WbkRxQUgxV2dRVVlyN1laWEoyNUc4UVlCMWhRUzNJQ0pWQUk4dkdfbjZSNVZaN1Ytb1FnUjdJRkRId1UwcXVrQW9JdTh2M3d2VjJzMF96c1lDU2tsQ1E3YXRucGtCZEhsb0ZJaHFNTkwtMFExMzZLT3piNnVUU294eHJOamJSV1lodDF3RjRCdUdDTEtUQjFjT181WXd5Z083MjJRR2RBN2NCU1lyd25SeHl1eWVkcUxwYXMwSVpPcEhOVTNGNjhHWFZRc0pNU1FRbFVWNGVtRXdpNzc3YUh2WVhZQ0FuaWw4T1gwR0R3N2hDajlzbGQzZHNlQVVCSWNjVVBqd29UTHdFZnJHdkVsYTlq?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "肝硬化",
+          "keyword": "肝硬化",
+          "related_drugs": [
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "0fb288e0b0cc",
       "title": "一生堅持這樣做可以將阿茲海默症的風險降低38%。",
@@ -29,19 +282,6 @@
       ]
     },
     {
-      "id": "3df40e23e79f",
-      "title": "減低病毒傳播風險 獄中篩查 助囚友戰勝丙肝",
-      "published": "2026-04-15T08:08:13+00:00",
-      "summary": "減低病毒傳播風險 獄中篩查 助囚友戰勝丙肝&nbsp;&nbsp;信報網站",
-      "sources": [
-        {
-          "name": "信報網站",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQc25jVGp2cTNVTjRSak5BUnFzNm44Z0ljNWZVaXoxY3NmcXhMeUVqOUxJanVnR3V5dTJYV21BQmNnclY4ZzJBNmpzVzlUT2hHYTF3ck96S010b2YwNUptaXpkbEt5QWtwdFBjYW5jVUljRDdwRmpaMGhoV2FWaDJFajdteTI3TnA5UXFJeDBHYThoS3lTMTM1SXhvZ0RsRHY2RGxxVldRcVhyMjRJWXptMmhCeTlBRDJxcVMyS3lGWExYNDYyaDZycGthM2hDOFdQLVdhakFqN2FCOXVkcXdJeTdETXY1dlZDUG5rVU1mRDlKc2NZOWRzNzZjNE1EWE5mWWREeW9qZXhKYnNra1JpQzR1VWdrSGJGaXJFQ3kxYklJR2hMRWdCcl9CTzJBbTZtSmdqZHdzUkNvUnQzU29CUjBtSFEyTUM2T29jXw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "72b8e2beda81",
       "title": "麵包真的會讓人變胖？實驗打破迷思「身體不想燃燒了」",
       "published": "2026-04-15T07:41:33+00:00",
@@ -55,14 +295,14 @@
       "matched_keywords": []
     },
     {
-      "id": "5fd769cbc405",
+      "id": "a42e31126546",
       "title": "講座報名／頭痛別忍！ 神經科醫揭關鍵警訊與改善對策",
       "published": "2026-04-15T07:39:21+00:00",
-      "summary": "講座報名／頭痛別忍！ 神經科醫揭關鍵警訊與改善對策&nbsp;&nbsp;品觀點前往 Google 新聞查看完整報導",
+      "summary": "講座報名／頭痛別忍！ 神經科醫揭關鍵警訊與改善對策&nbsp;&nbsp;Yahoo新聞不只是頭痛！偏頭痛年輕化警訊 醫師解析症狀、風險族群與治療關鍵&nbsp;&nbsp;台視新聞網孩子總說「頭痛不想上學」是藉口嗎？研究證實「1關鍵」恐是真生病&nbsp;&nbsp;PChome Online 新聞吳芮醫生看我們與頭痛疾病的距離&nbsp;&nbsp;報新聞 Mega News女生盛行率高3倍！青少年偏頭痛「4警訊」曝：1現象恐腦瘤&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
-          "name": "品觀點",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43dmVLS3BhWG1FdzJ4dUpxZU9MQ2k4TFhZMVRtUlV6X29TWkxIUEJsbGdncEJfVGFTWm9WeVM1dlpTR2tsNHhQX1BlOHdDYm5tR3llUg?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOYThFMl9XeGhlRzN2b3ZlVWtKdmNtM3BfcDl1cDA3Q0JwOUZJVG53aUtQWmFTVDV2WFNiWWI1TWJDcVFNeDdmaXAwZy1rYnlhbU12UGk3a09ESldrbUEyWWlnTEdfSG5rRjVlamF5NndySmtqSThOY202VFVReXdCdUFtRmNOUElZcVkxUnprblo2MWVIcDYxNHFhWTZpd2lGTm9aYW9fRUhxUmRrRmJjbTctWHB0QkNyQ1I2XzVpMm1NZEdLMWJMUTh3emxsUWhkcjhSZ0o0VTFKYnNzdFRHeS1FU2xaOXdLcFNNend3LXpuc1pHbGZza2YxQU51aEQyTkNlZXlvLVNZMHZGYjlTcS1PNGo0UkdmcWFmS2NHMkVMdFpXRWtBZFFKZ3Y2NF9BVldBVWtIcG8xNlcyeUdZSTlxN0lYUm5PY2VGV1RkOHZhME1VXzk5VEdnVEhlZw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -84,7 +324,7 @@
       "id": "372187451d59",
       "title": "小心口腔裡的“隱形殺手”，早防早治是關鍵",
       "published": "2026-04-15T07:11:58+00:00",
-      "summary": "小心口腔裡的“隱形殺手”，早防早治是關鍵&nbsp;&nbsp;紫荊網又煙又酒還缺牙 日本研究：罹患口腔、咽喉癌致死風險比一般人高5倍 | 國際中心 | 新聞&nbsp;&nbsp;風傳媒",
+      "summary": "小心口腔裡的“隱形殺手”，早防早治是關鍵&nbsp;&nbsp;紫荊網又煙又酒還缺牙 日本研究：罹患口腔、咽喉癌致死風險比一般人高5倍&nbsp;&nbsp;LINE TODAY又煙又酒還缺牙 日本研究：罹患口腔、咽喉癌致死風險比一般人高5倍 | 國際中心 | 新聞&nbsp;&nbsp;風傳媒",
       "sources": [
         {
           "name": "紫荊網",
@@ -105,6 +345,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "dbf8cdb199cf",
+      "title": "高脂乳製品防失智？專家揭護腦關鍵：彩虹蔬果、蛋白質才是王道",
+      "published": "2026-04-15T04:21:10+00:00",
+      "summary": "高脂乳製品防失智？專家揭護腦關鍵：彩虹蔬果、蛋白質才是王道&nbsp;&nbsp;中時新聞網每週攝取3份豆類「失智風險降38％」 多吃這些食物讓大腦年輕4歲&nbsp;&nbsp;自由健康網主婦頻忘瑣事非正常老化 錯過防失智關鍵10年&nbsp;&nbsp;中央社 CNA4/15國際健康日 雙和.北醫公布護腦指南&nbsp;&nbsp;hakkatv.org.tw防失智吃什麼？哈佛追蹤20年：多吃「這2物」大腦竟年輕4歲&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HajRlT3RDSVFRb3UtU1pJUUUzZVFGRDJGNVl1bTRJNnNtMTdfcFNCOXdjY2hyN2RQUWFJOEFKazVlQjJmMGs5SWYyaGRBUHNXdDlOeF9iMl9LOXpJcUhGcHpxU1V2QUpEM0NHYUpR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "946386c89df5",
@@ -146,14 +411,14 @@
       "matched_keywords": []
     },
     {
-      "id": "50871aece4f2",
-      "title": "仁濟健康快訊：腦友失靈三部曲 無記性不是認知障礙症 - 20260415 - 副刊",
-      "published": "2026-04-14T20:30:00+00:00",
-      "summary": "仁濟健康快訊：腦友失靈三部曲 無記性不是認知障礙症 - 20260415 - 副刊&nbsp;&nbsp;明報新聞網",
+      "id": "29b47ff25863",
+      "title": "降血脂用藥 PCSK9 抑制劑，是否應在發病前提前使用？ - TechNews 科技新報",
+      "published": "2026-04-15T00:12:38+00:00",
+      "summary": "降血脂用藥 PCSK9 抑制劑，是否應在發病前提前使用？&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "明報新聞網",
-          "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNbXA3OWFIVWpEckI5WXc3YnlKQ1RIbEZQdlBRZUVHbktvY3BJVWFKVlFaYWd2SlVMdHgwQTlWTEllSWFCN2wxSloxd1RvVDhFMTdiMC1LSmJWTUp3SVU1MnJMajRfNkpmMC00NXlPaktObU5SY1A4Qlk2SXl0dGhHTlhiOGN6a0VMR2dCMFExTjNIYjc5WU1rNXhxd2NoNzVDdkNPU0dRd1FGRzVzQnhTa0JqMG9sUWI4SUFxM3ZyazNkUDhYX0MydndDM21HVFVkVzgyNFVzVzloa1FoZl9SV0hTUDlIT2dNdUhNSXVOcVJwUmpzTVhqd3B6OHduTXg5Y1ExbGktcGx6dmJVVzdseTRYTUVNeGQ0MHhyNlR2VEdVYkkyRDJidFFxWG1IVW5vTG9xbEhtTTZtNnREcTRGRTZlR011RWstcDgxblBHNXBoVnVzeUFpLVBVd0FMV1p0V3pFSkJEeEx1N3NOcUtCMkJqYVkzVmdqbTRJQ1ZqQ0huZUp3eEx6RkpzMVp5TllwaFdUeGthc1JjcUl6dkxiYi1iSFJPdw?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0VIN2YxdVE4ZFUyMFBJVlQ5MGQtV05zX0txdUNPYk1oajgzaGMxQzVlcExWWkUxVTV3WnNoQV9kdVF2YnJfRHhBWlhoXy10c215aGlnR0JfTG5mbWJiX2t5d3B5TDRtMEQ0TVlzYjZDTVJjcHR4OEt2NmJCLTFiU0VKb0xlTzBERGphdXBUdEdNbXR6NThrdjF3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -543,35 +808,10 @@
       ]
     },
     {
-      "id": "e9178d7a7993",
-      "title": "研究揭「自做1事」降23%失智風險！新手更降67%機率",
-      "published": "2026-04-14T00:11:59+00:00",
-      "summary": "研究揭「自做1事」降23%失智風險！新手更降67%機率&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPZElSaDZkNlVnX2NOdHFVaVJoUHZFMjNMa3hJN3UxMEdjN1p4VnBER1p3YmFUcC1zVWxNNzJjdnA0MnY4X3FqOHVXdWNiNlFDdHdpRUxZeENWQ0ZNelZ0dF9VRTVma3RNdDUydEFqZXV2OXd4MGkxRl9oS3lqYzhuWWlaelNjdWY4a0gzMUhIdGNwVndiRkR2OVpTM2w0WXk3Vk1Rdk9VemdlRUdrczdUNGVLQ3pJTi1qYS1BUlBPM3J0VVRoeGtKcV9ENmFHRlh6TXU3UGZaaGJvVWZmYjdSQlAtZGttMm5QWmw1Mm5Fa1ZKR0JCQW82SEZJZTFyWjlHdmlPTm9reVpZaWVaSDAtTEhrVQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "8a9c7414256a",
       "title": "防失智多曬太陽？16年研究揭關鍵：30至40歲是黃金期",
       "published": "2026-04-13T23:25:02+00:00",
-      "summary": "防失智多曬太陽？16年研究揭關鍵：30至40歲是黃金期&nbsp;&nbsp;聯合新聞網防失智，請多曬太陽？16年追蹤研究：30至40歲是黃金預防期&nbsp;&nbsp;遠見雜誌陽光維他命D，能幫助中風病患復原得較好嗎？&nbsp;&nbsp;careonline.com.tw研究揭維生素D水平或與失智症風險關聯！全球60% 人口不足引發醫界關注&nbsp;&nbsp;bastillepost.com腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關&nbsp;&nbsp;科技島",
+      "summary": "防失智多曬太陽？16年研究揭關鍵：30至40歲是黃金期&nbsp;&nbsp;聯合新聞網防失智，請多曬太陽？16年追蹤研究：30至40歲是黃金預防期&nbsp;&nbsp;遠見雜誌陽光維他命D，能幫助中風病患復原得較好嗎？&nbsp;&nbsp;careonline.com.tw研究揭維生素D水平或與失智症風險關聯！全球60% 人口不足引發醫界關注&nbsp;&nbsp;巴士的報腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關&nbsp;&nbsp;科技島",
       "sources": [
         {
           "name": "聯合新聞網",
@@ -852,155 +1092,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "5e3c6dc1b3d5",
-      "title": "28歲港女多囊卵巢綜合症 月經變「年經」停避孕藥即復發 中醫調理3個月回復正常",
-      "published": "2026-04-13T10:41:57+00:00",
-      "summary": "28歲港女多囊卵巢綜合症 月經變「年經」停避孕藥即復發 中醫調理3個月回復正常&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOM1dFcWdQbVRVRzdMb2RtN1FGTVNMdHdleS1iLW5OZ0dtd0diSHVYQ0o2eHRvT3d5YzdEaU1vNTBEcEFycjdjY1hvUU5mNE1rRmNCekNDTTk5aGR6S2FiOG9jZHJtX1RMMmtER1JBOXRFMFVobnFnd193M3VWdEQ0MWxoSkE0d3RVRGdsb3JvclVhelA0eWJjaFVYeEs4NU9WNnpFai1IMjBaRmZLbGQ0RlNDSVNUVVIwLWV5VlFtV185aXZrSDRmNzY4SU80dTB5NzlMd240NV9tUGRoRHhSdXFhdzROUnRQTHMwYTkwZDViYk9VQ0loZFZMRjUySmJESkNqd3dNd1dkNG9OT1R2ZFRjS1BKd3dvNkd4X0R1bkdUODFWMlBPVi02SU1aZTJHcTFqZ1VUN2pzV0RfY215cnY5dUxVZWpuOW1VSVhONVRVYmNwVWNHLW13TzBWMnNfb3hVS2VfMEh2ajFSbzZzUVRNNHhrSEJKYzBpZmtXcHhVOW9TRmJoNUx0QlF4SFk1ZHlNUDVGY3FOTUljbEJjX1MxYnVvazBPbXFHbGRLMkdkN3pTMW0zYWljTDJzUmF1M21POUJQTVdUZEhEcHBfb0xHR3ZOSDNwb19oZ2dtQUdrZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e45a943bb06c",
-      "title": "護腎關鍵找到了！最新研究：掌握「1飲食法」有效降低洗腎風險 - Harper's BAZAAR",
-      "published": "2026-04-13T10:40:09+00:00",
-      "summary": "護腎關鍵找到了！最新研究：掌握「1飲食法」有效降低洗腎風險&nbsp;&nbsp;Harper's BAZAAR權威醫學期刊證實：每日兩湯匙橄欖油 降心臟病、護肝風險達三成&nbsp;&nbsp;墨新聞-MORE News腎友注意！日吃1款保健品 中風風險降43%&nbsp;&nbsp;鏡週刊Mirror Media腎友快看！2026新研究：補充「1營養品」心血管風險大減43%&nbsp;&nbsp;TVBS新聞網腎不好更要吃 研究曝日服1保健品：中風心梗狂降43％&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "Harper's BAZAAR",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdzN6UkhXTy0zb3I5OVdwcnZTa0t0SE9JM2VqNmVNMUpHWVc3SUJSM1l4UGNzNkZVSl9FenM4R2M4WlE0eUVMS0x5MHREN2pDaTlBT1V6WkxKbHhVbV9jNExieU1ROWYzelpvaXU1c09FX09DNEFZa0liUUZLWHFEZEU3NUY0QWZET3p6bWR5Q2VNbE9yLWVFTjJOeWM2WjJp?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心梗",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4d1e3d3adb88",
-      "title": "糖尿病藥防癌︱糖尿病藥Metformin可防癌？醫生解析4大機制阻斷惡性增生搭配5營養素抗發炎更有效",
-      "published": "2026-04-13T10:23:28+00:00",
-      "summary": "糖尿病藥防癌︱糖尿病藥Metformin可防癌？醫生解析4大機制阻斷惡性增生搭配5營養素抗發炎更有效&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMizgRBVV95cUxNVGloandtQUpCUFd6RDZjSlFlU1R5aElWZzllTWE5QzNfelk1VjVodHZPSDFOcUh4OUt3TGp5S0ZMR2xVX1hodUJHc1ZxQTkzZnF3eUplZVpQYWVTUTROaWtKelhhbFJCUld2aUVfVTFITmxqQjRnU3dMZVRON01yQkhucGFDaG9McFFDblF4NGlpLU01cEEtSXc4ajFWaDYyb01xN1AyTFBNZzZvMnlJY2hxOEExTExyVVltUV9SZVBCemJnTjFKZHl5YkYtb1ZwVlNHUS1HMDNjU1owOEk4QmJnQm02VWhjb0xGakRKZDVYZmE2S1pOeTAxWFVPdVhSWW9rSFhjc2hBc0RGTk4tUkNtU3FfWFVoYlZwVVNJODlxMTBkeTV6MDg3RXJJc3BkSG5HTjJ1OHF5d2RJQXJLOUhwNFZyem04dXZVR3B0eTN5OVh5bDdSOEpKdmlsLTBmZGdlamZIOW5UemFzbmluRXpfNkptODNleC1EZFk2Z3ZZeklhMGc1MXJZeE85dUhUVTdiVHZOdE4waUVaVHFBWkRPRkhRSGJ5WWtGeEJSOW5RTS1ISXFVM1Z3bTRKTm16YW9iM3JNRzl1b19pdmJLd181SDladVVSb1NVVkhiU0hvRTc5ZEZDcTg1c0JDUFVUMFZxTDhVRXVMeXRHckQxdHlvNDVBaGIwMExFLWZCMFNMWWlCZ0FKSm9hXy1uWGlVd0RNejd2UEI5NTNqOXpnY3kwS3VNVHNpcFhqQ1N2RThLSHY2NkZ1REJIVlBadw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6e4dce7cd437",
-      "title": "超音波掃描活體光源技術突破深層組織影像與治療限制 - GeneOnline News",
-      "published": "2026-04-13T10:08:54+00:00",
-      "summary": "超音波掃描活體光源技術突破深層組織影像與治療限制&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOcmpteURYMFdHN0FJTXZSUjlVSkZnaG9hM1NwMTI3TUZFUUM1M3FuVlFHdkF4ZlpwTHBmUFI4eFdOSG1wME9wa0xtVzJLU2RyMkNnM0o4bzRJdWpOb2xvY1h0dTMxdWtmVmtSRmpDRkRFdXlvYmtWT292RnA0UlFscVJPRVpieC1adThMSFVrZUkweThobi1BakxMeEdHRzRYSmR0RXZVY2o1MWw4VE9SS3BtcXVLaGg2MGV4VUNGdmc1QmxzX0ZFU0Z5dy13NVQwYU5IR2FHcXU5UFk4cXQtR2R5ODV1VllHTlAyTDhYOVVhQWlPOW5BaVk3OFlxaC1ER3ozQkc3NVQ0dFNjS0UtcF85dFhrbjFUQVhPU2drZi01RjJldjJUa2xQNF82UGtIQy1TNFl2RGg5X1pVcG0wZHFZVWlvQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "b9ba655a58a1",
