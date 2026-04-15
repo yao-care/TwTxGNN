@@ -53,7 +53,7 @@ permalink: /news/gefitinib/
 
 ### [高脂乳製品防失智？專家揭護腦關鍵：彩虹蔬果、蛋白質才是王道](https://news.google.com/rss/articles/CBMijwFBVV95cUxNNlZkLTRXZFdIOHJvcGo4WGxFNHpRa1ZNOVhrRDhVWXVNV1ZCUzBDdjdyN25RSDBiVFppSk0wTDZPb0hIVnZJSmtRRlp3T24waktBa3RtVXUzWnNGZTFrSUs5TE4zTHB3RTZhbC16Zzk1T0YzWnVuLW44cDE1cjFrUDVfREtPcWlHYWRFRlliSQ?oc=5)
 
-2026-04-15 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+2026-04-15 <span class="news-indication-tag">失智</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxNNlZkLTRXZFdIOHJvcGo4WGxFNHpRa1ZNOVhrRDhVWXVNV1ZCUzBDdjdyN25RSDBiVFppSk0wTDZPb0hIVnZJSmtRRlp3T24waktBa3RtVXUzWnNGZTFrSUs5TE4zTHB3RTZhbC16Zzk1T0YzWnVuLW44cDE1cjFrUDVfREtPcWlHYWRFRlliSQ?oc=5)
 
