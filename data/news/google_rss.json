@@ -1,17 +1,29 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-15T15:00:01.659933+00:00",
-  "count": 31,
+  "fetched_at": "2026-04-15T16:09:05.722462+00:00",
+  "count": 28,
   "news": [
     {
-      "id": "dbf8cdb199cf",
+      "id": "2fc109ca3e75",
+      "title": "新型吖啶酮化合物展現廣譜抗瘧潛力助力全球瘧疾防治 - GeneOnline News",
+      "published": "2026-04-14T07:29:07+00:00",
+      "summary": "新型吖啶酮化合物展現廣譜抗瘧潛力助力全球瘧疾防治&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPUnBEUGNPR3VVQV9sUnNMcGFxS3MyNDJzX2xHbVJDX0dhTnh5OG0zWWtVcVZzbEtPZ3FkZHc1M0hhbE5DczVreEl5Y1VTTEdRZk5pSkExdTk5bXcyQ2U1THlnaXVKaHhPOWFFZDBNNnE1UjBKZmI2QnVpQ2Z2ZUZBSmF3dk9EZER5OFh0ZUZSTTFSWEtBdTlfd0twOHBjRmdORHJTUTB1cVgzTWZKZFd1SC1wMl9YWWFuWlZBQ1hSNHdqN0tLbFJDQ0Y4MG5EQjhlQllmUEZCYVpMUXp0ZnJOV1NnemxLcU8yd282anlwV3FhTERHZWctMHRFWWNJU05Cci01amxQdG5BOE1kRjJvbDdzczByaEwyNEhxTUlMb3o5blJRSHBtLUtFR3NmTWFFYWtESGExajNBY3haN0VlVDFkSXc0QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9b24030cfb20",
       "title": "高脂乳製品防失智？專家揭護腦關鍵：彩虹蔬果、蛋白質才是王道 - 中時新聞網",
       "published": "2026-04-15T04:21:10+00:00",
       "summary": "高脂乳製品防失智？專家揭護腦關鍵：彩虹蔬果、蛋白質才是王道&nbsp;&nbsp;中時新聞網健康網》科學證據：自己煮飯預防失智 每週煮1次風險最多降27％&nbsp;&nbsp;自由健康網婦人健忘拖10年「變中度失智」 醫嘆：錯過逆轉黃金時機！&nbsp;&nbsp;Yahoo新聞主婦頻忘瑣事非正常老化 錯過防失智關鍵10年&nbsp;&nbsp;中央社 CNA防失智吃什麼？哈佛追蹤20年：多吃「這2物」大腦竟年輕4歲&nbsp;&nbsp;TVBS 健康2.0",
       "sources": [
         {
           "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HajRlT3RDSVFRb3UtU1pJUUUzZVFGRDJGNVl1bTRJNnNtMTdfcFNCOXdjY2hyN2RQUWFJOEFKazVlQjJmMGs5SWYyaGRBUHNXdDlOeF9iMl9LOXpJcUhGcHpxU1V2QUpEM0NHYUpR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNlZkLTRXZFdIOHJvcGo4WGxFNHpRa1ZNOVhrRDhVWXVNV1ZCUzBDdjdyN25RSDBiVFppSk0wTDZPb0hIVnZJSmtRRlp3T24waktBa3RtVXUzWnNGZTFrSUs5TE4zTHB3RTZhbC16Zzk1T0YzWnVuLW44cDE1cjFrUDVfREtPcWlHYWRFRlliSQ?oc=5"
         }
       ]
     },
@@ -28,18 +40,6 @@
       ]
     },
     {
-      "id": "a42e31126546",
-      "title": "講座報名／頭痛別忍！ 神經科醫揭關鍵警訊與改善對策 - Yahoo新聞",
-      "published": "2026-04-15T07:39:21+00:00",
-      "summary": "講座報名／頭痛別忍！ 神經科醫揭關鍵警訊與改善對策&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOYThFMl9XeGhlRzN2b3ZlVWtKdmNtM3BfcDl1cDA3Q0JwOUZJVG53aUtQWmFTVDV2WFNiWWI1TWJDcVFNeDdmaXAwZy1rYnlhbU12UGk3a09ESldrbUEyWWlnTEdfSG5rRjVlamF5NndySmtqSThOY202VFVReXdCdUFtRmNOUElZcVkxUnprblo2MWVIcDYxNHFhWTZpd2lGTm9aYW9fRUhxUmRrRmJjbTctWHB0QkNyQ1I2XzVpMm1NZEdLMWJMUTh3emxsUWhkcjhSZ0o0VTFKYnNzdFRHeS1FU2xaOXdLcFNNend3LXpuc1pHbGZza2YxQU51aEQyTkNlZXlvLVNZMHZGYjlTcS1PNGo0UkdmcWFmS2NHMkVMdFpXRWtBZFFKZ3Y2NF9BVldBVWtIcG8xNlcyeUdZSTlxN0lYUm5PY2VGV1RkOHZhME1VXzk5VEdnVEhlZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0fb288e0b0cc",
       "title": "一生堅持這樣做可以將阿茲海默症的風險降低38%。 - arch-web.com.tw",
       "published": "2026-04-15T08:59:51+00:00",
@@ -48,18 +48,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPZkVMWUNSMXdFVkhQWkQwWjZjdDZTWTh0eHB6NHh1dDRsbnJQQUFjcXRaVm5zWUFNM2Z4S0dnaExDbVMyTlEwaUJONWRXY2xZQ0pUVWJ6Z0hCR2NOQnE1RHBjZWxzZVV5SkxyUi11ZnhmMlI4RHR5dVdkQW9qVDhmcjZUbGJkNWt5c3A5dlViX3h4VlRjYWh2UUVPTWxXb3FIR1lwamN6cmhram92aGhEMzNPUVQ4WFdrTWhwU3VEVTdlQXljbTliZTNjaFpXeXVhWjl0SkJCcDNfa3RCbnprV3gxUU9GZ0lkRDMzOFo3XzZabjhaa1RUQlVIbjFNU05GeVZfUWJub3l3SWk0QTcyUG5zNnBWYjlQYVM3bWdTZkFIT05aRzVySlFuOTlyb0RHVnVJVXVqMnQtcW9CS3BTeUhybTFXRnN4T0VFS3BmNWlQV2hDWC1JOGpXZ0Z0WENtN01MUkpGVGw4VzgybUdsUXU5RmpjWkxpUHhLY3BR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5d3a3e7b6418",
-      "title": "肩膀痛到睡不著醫教2招抗發炎：多加1個枕頭有效- 健康 - 中時新聞網",
-      "published": "2026-04-15T02:52:30+00:00",
-      "summary": "肩膀痛到睡不著醫教2招抗發炎：多加1個枕頭有效- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1WlhJQ0d5V2FXdEJLRkE2VXlBNjF2b3NaWXRnb0JsNGZSMy1UOTlOMjA3QW9GREpFZzVuSlRhYVFsdDZjVVozcW01WWpRMmdwcnl6SGxDQzFxNkJtWFpUNFJaaWZyejZEako1cTFn?oc=5"
         }
       ]
     },
@@ -124,18 +112,6 @@
       ]
     },
     {
-      "id": "372187451d59",
-      "title": "小心口腔裡的“隱形殺手”，早防早治是關鍵 - 紫荊網",
-      "published": "2026-04-15T07:11:58+00:00",
-      "summary": "小心口腔裡的“隱形殺手”，早防早治是關鍵&nbsp;&nbsp;紫荊網又煙又酒還缺牙 日本研究：罹患口腔、咽喉癌致死風險比一般人高5倍&nbsp;&nbsp;Yahoo新聞又煙又酒還缺牙 日本研究：罹患口腔、咽喉癌致死風險比一般人高5倍 | 國際中心 | 新聞&nbsp;&nbsp;風傳媒",
-      "sources": [
-        {
-          "name": "紫荊網",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZG9icmdCV2l6YkxDU3lha1dDUXFnYW1NZ29veE9NZ2RaSzZjMlpFUUFpZUdma0t4RDNNRVlnVWtLb2dxLVpORkNESHdKR25zcEZHRFkyRmpJaGRBUmFCQUp2cmEtSWNLSTNKdlAzYy1FTDF6bElMZ2xsQVRjbGs0M195N0JIYUd1QWFCMnBieXI?oc=5"
-        }
-      ]
-    },
-    {
       "id": "90d988dbc802",
       "title": "「捕蚊燈」體質解密！蚊子叮人不是看血型、體溫，而是這2條件 - 造咖",
       "published": "2026-04-15T06:58:00+00:00",
@@ -196,18 +172,6 @@
       ]
     },
     {
-      "id": "a2d45711cb8c",
-      "title": "研究發現，孤獨的人記憶力較差，但衰退速度並不會更快 - citytimes.tw",
-      "published": "2026-04-14T17:53:27+00:00",
-      "summary": "研究發現，孤獨的人記憶力較差，但衰退速度並不會更快&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOanFKT1FNNTJMaDhPbGVWUWdaUmVVXy1pU0tSbG56bTZvMV9pUGN6bGZ0YkRqTm5CeGpNRWg0cEdwZVV5N1ZfS3F3b1oxNFV4WlU2Zl9oamJtTDA5NmRwZng0dENFMnhENC1WV2NvYkRNSFhudklacXNMT25Bb056TDg5QXBGLWp6X3ByekRHQzlxMDcyank3VXpxWUNNanpTRUo4Q0J3WE1kd1pTS3hsaF9QNWdzVkc4SjAxSm9ZQ2pYUll4N3V4R0dUZzFFcEYtMndaTUNJZVF1dENqWkxQMDEtQzFNRlNtQTRyR0Ezcmd0ckV2QkQ2SFVrSXZLV2VxTmlmQ2lfN1l5NHEyVmZyX3BveG5hdHR1SUNuRG0zZURUWlhmLWpQaWk4RExEMDhyRHYxekdXX2pTMUhiZ01peTVxaW41Q2FiRzdJUlAxemgyMDVfNGZEYy1PNkdQVUFiTkpveGp3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e2627394bc0c",
       "title": "腎臟健康靠吃出來！營養師推薦9大護腎食物，維持腎功能、降低洗腎風險 - Harper's BAZAAR",
       "published": "2026-04-15T11:07:09+00:00",
@@ -216,6 +180,18 @@
         {
           "name": "Harper's BAZAAR",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0licS0ydUJwbjBQYm9hQ3NlVnZuLU1DZVJ6bG9vaWxacDE4ckxHcTJmUU9QYmlJakU4aHVOeXBaaDIzbmNhcTVBbmkwLVliT0o1X0FDd0hfOUxyUUd0OUlGOXVTY0RPWEJqdXVoOEQxcWNBRzMzTXlEQkIteVJmaExLQW80UXJmOXZUS2RSeUV2d0VLYWhkeS12MA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a2d45711cb8c",
+      "title": "研究發現，孤獨的人記憶力較差，但衰退速度並不會更快 - citytimes.tw",
+      "published": "2026-04-14T17:53:27+00:00",
+      "summary": "研究發現，孤獨的人記憶力較差，但衰退速度並不會更快&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOanFKT1FNNTJMaDhPbGVWUWdaUmVVXy1pU0tSbG56bTZvMV9pUGN6bGZ0YkRqTm5CeGpNRWg0cEdwZVV5N1ZfS3F3b1oxNFV4WlU2Zl9oamJtTDA5NmRwZng0dENFMnhENC1WV2NvYkRNSFhudklacXNMT25Bb056TDg5QXBGLWp6X3ByekRHQzlxMDcyank3VXpxWUNNanpTRUo4Q0J3WE1kd1pTS3hsaF9QNWdzVkc4SjAxSm9ZQ2pYUll4N3V4R0dUZzFFcEYtMndaTUNJZVF1dENqWkxQMDEtQzFNRlNtQTRyR0Ezcmd0ckV2QkQ2SFVrSXZLV2VxTmlmQ2lfN1l5NHEyVmZyX3BveG5hdHR1SUNuRG0zZURUWlhmLWpQaWk4RExEMDhyRHYxekdXX2pTMUhiZ01peTVxaW41Q2FiRzdJUlAxemgyMDVfNGZEYy1PNkdQVUFiTkpveGp3?oc=5"
         }
       ]
     },
@@ -232,18 +208,6 @@
       ]
     },
     {
-      "id": "f0f65526ac21",
-      "title": "【灣區新聞】舊金山性病感染明顯下降 或與新預防措施有關 - KTSF.com",
-      "published": "2026-04-14T16:23:55+00:00",
-      "summary": "【灣區新聞】舊金山性病感染明顯下降 或與新預防措施有關&nbsp;&nbsp;KTSF.com",
-      "sources": [
-        {
-          "name": "KTSF.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVYVNZb21UamwtdGo4TFFsZ3ZFWXNNbl9ENzFUM1dfYUNoNENxWnBFcGd1UjVuM2Vrakd6dlBnSEJDcFpHV0poQXRXZ0RUbEpSbmZqeERKNWVXU1d6ellN?oc=5"
-        }
-      ]
-    },
-    {
       "id": "946386c89df5",
       "title": "金縣一名嬰兒確診麻疹引發接觸風險預警 - 大紀元新聞網",
       "published": "2026-04-15T03:15:00+00:00",
@@ -256,14 +220,14 @@
       ]
     },
     {
-      "id": "2fc109ca3e75",
-      "title": "新型吖啶酮化合物展現廣譜抗瘧潛力助力全球瘧疾防治 - GeneOnline News",
-      "published": "2026-04-14T07:29:07+00:00",
-      "summary": "新型吖啶酮化合物展現廣譜抗瘧潛力助力全球瘧疾防治&nbsp;&nbsp;GeneOnline News",
+      "id": "f0f65526ac21",
+      "title": "【灣區新聞】舊金山性病感染明顯下降 或與新預防措施有關 - KTSF.com",
+      "published": "2026-04-14T16:23:55+00:00",
+      "summary": "【灣區新聞】舊金山性病感染明顯下降 或與新預防措施有關&nbsp;&nbsp;KTSF.com",
       "sources": [
         {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPUnBEUGNPR3VVQV9sUnNMcGFxS3MyNDJzX2xHbVJDX0dhTnh5OG0zWWtVcVZzbEtPZ3FkZHc1M0hhbE5DczVreEl5Y1VTTEdRZk5pSkExdTk5bXcyQ2U1THlnaXVKaHhPOWFFZDBNNnE1UjBKZmI2QnVpQ2Z2ZUZBSmF3dk9EZER5OFh0ZUZSTTFSWEtBdTlfd0twOHBjRmdORHJTUTB1cVgzTWZKZFd1SC1wMl9YWWFuWlZBQ1hSNHdqN0tLbFJDQ0Y4MG5EQjhlQllmUEZCYVpMUXp0ZnJOV1NnemxLcU8yd282anlwV3FhTERHZWctMHRFWWNJU05Cci01amxQdG5BOE1kRjJvbDdzczByaEwyNEhxTUlMb3o5blJRSHBtLUtFR3NmTWFFYWtESGExajNBY3haN0VlVDFkSXc0QQ?oc=5"
+          "name": "KTSF.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVYVNZb21UamwtdGo4TFFsZ3ZFWXNNbl9ENzFUM1dfYUNoNENxWnBFcGd1UjVuM2Vrakd6dlBnSEJDcFpHV0poQXRXZ0RUbEpSbmZqeERKNWVXU1d6ellN?oc=5"
         }
       ]
     },
