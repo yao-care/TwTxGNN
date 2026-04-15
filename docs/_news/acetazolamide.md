@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [腎臟健康靠吃出來！營養師推薦9大護腎食物，維持腎功能、降低洗腎風險 - Harper's BAZAAR](https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0licS0ydUJwbjBQYm9hQ3NlVnZuLU1DZVJ6bG9vaWxacDE4ckxHcTJmUU9QYmlJakU4aHVOeXBaaDIzbmNhcTVBbmkwLVliT0o1X0FDd0hfOUxyUUd0OUlGOXVTY0RPWEJqdXVoOEQxcWNBRzMzTXlEQkIteVJmaExLQW80UXJmOXZUS2RSeUV2d0VLYWhkeS12MA?oc=5)
 
@@ -73,14 +73,6 @@ permalink: /news/acetazolamide/
 2026-04-14 <span class="news-indication-tag">癲癇</span>
 
 來源：[紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxOcmR3QXNGbGlveG91SnZyS19KZWNrSnc4MDJqZDN1c2xyaTBLbHZBUkhqVE9Mc1h5eTBJcWFGemR0N0E1dlhoM3kzQzBFSnRrWEZtd2V2Z1BLVGdocVM1VWQwaG53d3pIeC1iV0RTTVZQUEJJaktuQ2JhTG04VkdObTZsTWdYczVCTjh4dWZPT1o?oc=5)
-
----
-
-### [加拿大2026年癌症預測趨勢整體改善　但年輕人例外](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNX2VNdEhUZENLSW4zT2VyNGNIMWUxalBBWlV1OUxJN0g4c0hnN3lkbzZkS0F1TmtpWThLdWZEaE9VYzlpX2g1d1o4czhzUFdwN2k3ZzVyVHJaRGIyWjJaRjZXZmpSWHM5SlNqclJsSm52ZGJhVTlzQVhVWGc0MGN0S0FLMUpiWFVuSk1ta1lPay1sbkRCVFFpbW9NeGFPUTgtMlJFamxva1dmdHJWRWxxeWZrckY1S1hYaktJZzZvek9md3hMc2c4d2cwSEY2ZGc0d2V5MUR3elc3WmhjbWhJenpWX2wzZUFfT3BoNXgwQ3A5Sm4zVGdOakVsaklTRHVXZjNLbmxrUU5WTEYzMUI1NkUzeEZvX19IdGotZE9FeUdqNDBWZkRZaDVfSHlNeGZvM0gzMGstTkhjc0F4QjhFUG5yUUpnVndkRHFDaVItTDYzbjd0Vm1BdHE0eEdnd1Y2Wkg1S0dB0gGKAUFVX3lxTE11andtc0JaMVZaeFpFOEpBeUdjT0NMaUs4UExNcVQtQWdfOVh2bkpYNnZmajAwWkxtc01hMHNMX3M2dXRxX3lIV0Vla0hzOEZCLWxHbTc0TUN2dk8zV1l2VDVDQkczTjdCLWRBVlpqV3dpaXRoRFRqQURiTDBFV2pTbkFuUFd1YkpOUQ?oc=5)
-
-2026-04-13 <span class="news-indication-tag">癌症</span>
-
-來源：[singtao.ca](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNX2VNdEhUZENLSW4zT2VyNGNIMWUxalBBWlV1OUxJN0g4c0hnN3lkbzZkS0F1TmtpWThLdWZEaE9VYzlpX2g1d1o4czhzUFdwN2k3ZzVyVHJaRGIyWjJaRjZXZmpSWHM5SlNqclJsSm52ZGJhVTlzQVhVWGc0MGN0S0FLMUpiWFVuSk1ta1lPay1sbkRCVFFpbW9NeGFPUTgtMlJFamxva1dmdHJWRWxxeWZrckY1S1hYaktJZzZvek9md3hMc2c4d2cwSEY2ZGc0d2V5MUR3elc3WmhjbWhJenpWX2wzZUFfT3BoNXgwQ3A5Sm4zVGdOakVsaklTRHVXZjNLbmxrUU5WTEYzMUI1NkUzeEZvX19IdGotZE9FeUdqNDBWZkRZaDVfSHlNeGZvM0gzMGstTkhjc0F4QjhFUG5yUUpnVndkRHFDaVItTDYzbjd0Vm1BdHE0eEdnd1Y2Wkg1S0dB0gGKAUFVX3lxTE11andtc0JaMVZaeFpFOEpBeUdjT0NMaUs4UExNcVQtQWdfOVh2bkpYNnZmajAwWkxtc01hMHNMX3M2dXRxX3lIV0Vla0hzOEZCLWxHbTc0TUN2dk8zV1l2VDVDQkczTjdCLWRBVlpqV3dpaXRoRFRqQURiTDBFV2pTbkFuUFd1YkpOUQ?oc=5)
 
 ---
 
