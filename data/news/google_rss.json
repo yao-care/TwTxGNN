@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-14T23:36:01.396340+00:00",
-  "count": 34,
+  "fetched_at": "2026-04-15T01:30:02.188658+00:00",
+  "count": 32,
   "news": [
     {
       "id": "94a01fa8913b",
@@ -16,14 +16,26 @@
       ]
     },
     {
-      "id": "3fddac0e3b7e",
-      "title": "一名挪威男子透過兄弟的幹細胞治癒了愛滋病毒 - arch-web.com.tw",
-      "published": "2026-04-14T20:27:34+00:00",
-      "summary": "一名挪威男子透過兄弟的幹細胞治癒了愛滋病毒&nbsp;&nbsp;arch-web.com.tw",
+      "id": "616b299897cd",
+      "title": "挪威愛滋病治癒新例：奧斯陸患者因幹細胞移植與CCR5基因突變康復 - Singtaousa",
+      "published": "2026-04-15T01:00:00+00:00",
+      "summary": "挪威愛滋病治癒新例：奧斯陸患者因幹細胞移植與CCR5基因突變康復&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQSmJMazdmaW5RR1Fia1RFUGFjcnY0b2Y1NkVQR1pnNTFQZURYQWtwWlJjbU5pcmhKbmdoSEZrMHJldUF1NDh3RjMwcXpkT3I3VTJhdWI1LXpGTXBlRlhnd2RLRV96MjI5X01zRmEzYV9pc0hyNVl4WTE5Y3p1OUszaFVIcWxDaTZ4SVhiODIxV3NOSnpnUDFmVzlweVFsd25KbGgtdk9lb1FSbUFIOFlyZDNvVExzYW5vRVVrdERsaEtfaE5wR3BITmdvc1RuTHp4czNSMV83azZXazRwcWxBWWM5S1VEaTI2LVBQSzFGQ1VCLUdySjRvT1U1LVNMcmE2WEtkUk9MLUVjdnByc3FSamFqRFpTTWcxMUZVLUxTNmVkTHg0MjNLVi02cDlGVUtQaFRjRlphMVYyWDA0VU9hN1YwRFpzaGpVTVRVSWp5bVRxeEJjRUhOc2dFeGdvQ05uMmRhZHN3b3BiTE94RGVOZnhreFJYU05uLUE?oc=5"
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGdNNmViWFNZSmQwUGZUekMxdEM5YUpadG1SSmdvM3VJZjNqcFNVVFI5SXdJX3c1bnB1X0c4bU5aUmlDcHdpaEtwMy1QWEpXMjQ5d1JKRUFHTUhGYk5OYXRieHV1eEI2VmhSbFNmZFJHSllNeUIzY3lXTkFhdFdPTzNwSXU3R1Y5ZlV3X1ZnQi1FNEJPRU9xYks0eklIZEc0MDkzMXNmUU5hUlk3dEtJYmltNUM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "024007700e36",
+      "title": "健康網》每週2次以上！ 研究曝男性「愛愛頻率」竟能降心臟病風險50％ - 自由健康網",
+      "published": "2026-04-14T15:57:00+00:00",
+      "summary": "健康網》每週2次以上！ 研究曝男性「愛愛頻率」竟能降心臟病風險50％&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uaVQ1N3I0b1RVTk41QXZCN3dlbkVzUmFuVlhHMUdSTXpqOUdFN295VTNqM1JtOGJVblNUY2xzTVBHSUpCQ0gybHdkQzFTZ3N4aDZEUjl2dWx2X2Iyd25jTTZwNnTSAWpBVV95cUxOdHk5LW5KWDN0NTVHVUk5V1QzcUJpcWlHeWJIOVhhYUNzdGJ2MnlTR3Qzd1p3b2FRZmZuZ0o4Z2lIMXhtMWxEMnFITXF5SFc5SGJFMmdvOFJDU2FDTTluZnVPeXREQTdRLXJB?oc=5"
         }
       ]
     },
@@ -52,26 +64,14 @@
       ]
     },
     {
-      "id": "2fc65e86c3fe",
-      "title": "科學家發現為什麼麵包可以在不增加熱量的情況下導致體重增加 - citytimes.tw",
-      "published": "2026-04-14T16:08:14+00:00",
-      "summary": "科學家發現為什麼麵包可以在不增加熱量的情況下導致體重增加&nbsp;&nbsp;citytimes.tw",
+      "id": "16553bbfa65c",
+      "title": "肥胖男性和女性面臨著截然不同的隱藏健康風險。 - arch-web.com.tw",
+      "published": "2026-04-13T15:26:15+00:00",
+      "summary": "肥胖男性和女性面臨著截然不同的隱藏健康風險。&nbsp;&nbsp;arch-web.com.tw肥胖健康風險男女有別 土耳其研究揭示性別差異&nbsp;&nbsp;蕃新聞肥胖男性和女性面臨截然不同的隱藏健康風險&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxON1VaeVItMUhaMldFbHFTRS1uR2dOcUNLZkJHbm8yQkd1THZ3TU10Xy1oMHNvOGduX3RLdHRkWC05elRhTDlPZUFDNmY1OThxeXRUREdrbU9aWGY1ZUpRc3dnbHN3dnE0Znh5bWgzLUdISmdBaGllMERMNzZKdDA3R2JhWEhjbU9NczB5VGtBVlpqelZpa2tweTJmZUxrVE5MeGhBdFdMcnUyR29hY1hxVHRJbFoxZGtpTlVlZ0E4Vmo0MklaaDVKRlFqam5INHhiRTBOd3pEb2djTjZLa1ZUaVVNUUlCQ1NhNnJ0aXB2d0tjbFlpTnl4SzhIQjNlS3lDdW5MMnJzNDRCTXpDNng5OWtQSWhwRDk3VmhaVDJ3X19BYzVYVWZfQ2xPcTg0ekVxM2JkZ3NWVjN6VlM2c3lDSVB5TXBXT3FBRjM0TWMzcGdFdmZIWVZCdDgwd080SkVXZTYzZF9R?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a4a9894cc211",
-      "title": "肥胖男性和女性面臨截然不同的隱藏健康風險 - citytimes.tw",
-      "published": "2026-04-13T16:28:29+00:00",
-      "summary": "肥胖男性和女性面臨截然不同的隱藏健康風險&nbsp;&nbsp;citytimes.tw肥胖健康風險男女有別 土耳其研究揭示性別差異&nbsp;&nbsp;蕃新聞肥胖男性和女性面臨著截然不同的隱藏健康風險。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQRWlrd1IwZjNiNnFTWUEwdVpKZG5ucHV4cjh0ZW1HRHUxOG1nQzRNam16aWgyUnhpZkVCR3BCd3FqakFoMlRSNHZzV0huT2VFaThUT3Q1RFl0ajg0X3pOMWFab25LaDBJdDdFUkR2S0VnZFpNSWxHM1JTc0lDNXktZFB6RGNnUVk5OUtwNTZ4T29yQk9MSlQ1RDhjQm9WTUNKYUhmaUFlbVd1X0k3TWkxYmpHa0RfczVOS1JpLUVYTG5ac1FyTElSeTlVUDlQcEVxYklscHhjSU56V3ItWVRTX0hYNVVZdldJTF95N2tCc0VZcTBiMkJQNmo0ZEpZQWxkR205MHktckRGZGRnZ0dkWjR5TVd1MXdfUTRLNUF2ZEpTX2pWYUx5blk2Z1dVQnBfZ0ZhY25jZmJYeGFhNUlDcWJvcnJaeFlrRDFMaEdR?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxONGdvWndoMkU3RENKcHZLNWczOWNqWF9wYkdLamZPSTdZZGF2LS1RRllld2RYenRtTGdGUDZXTWw1WU94ekZ0RlVhbTFad2dQVzAxclZnSUMxZVlQNm5zTC1CQjdLSEIyQ09FN1AxWjdoaFFIVGtnOTZUVHIwcG9zRnNnYlNHcnhmUlktaUNiRFpvQWl2ZFJfYW00c0V6Ul84ZVVMVzB0bGdpSGlrTEZZbGpRcU1lVHNfb3FmdV9JWXRBWnJOV0dCdmYtS2c3dG9RQlNKeVdkYXVULW5BbktkOGxUckU5bUUxbTZfaE1DNkZRMnpwOS13dzQyRHI4ODliNGF4V3RkOTlSbjhRMm8ta1FRSjBWS2FneFZoQ2dsdkdmc0c5TV9fbjQ4cHlFdnNGb0RGT19UTk1mVzN0Z3B5cWdxR2xERVRncFFCVGhxck1jUXM0MkQ0dFZ1bU4xSEFERnBZUEgyVTVPUm04TmZDSVhXRGZBQm9vVkZzSnZKN3ltQ3EyMnc?oc=5"
         }
       ]
     },
@@ -88,14 +88,14 @@
       ]
     },
     {
-      "id": "f1bd6aa9de8d",
-      "title": "糖尿病藥吃了卻沒效？問題可能藏在每天吃的「這些食物」裡 - 中天新聞網",
-      "published": "2026-04-14T08:52:23+00:00",
-      "summary": "糖尿病藥吃了卻沒效？問題可能藏在每天吃的「這些食物」裡&nbsp;&nbsp;中天新聞網",
+      "id": "2fc65e86c3fe",
+      "title": "科學家發現為什麼麵包可以在不增加熱量的情況下導致體重增加 - citytimes.tw",
+      "published": "2026-04-14T16:08:14+00:00",
+      "summary": "科學家發現為什麼麵包可以在不增加熱量的情況下導致體重增加&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qb04tZFZrcFVGMDQ0ZGhOUlppUFZ6U3FBZjhhRW93Z0hpWS1lVEMya3ZKT1dTa2ZQZzRvQzc2M1VzN3hSX0RaUm40dDlza190eWdR?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxON1VaeVItMUhaMldFbHFTRS1uR2dOcUNLZkJHbm8yQkd1THZ3TU10Xy1oMHNvOGduX3RLdHRkWC05elRhTDlPZUFDNmY1OThxeXRUREdrbU9aWGY1ZUpRc3dnbHN3dnE0Znh5bWgzLUdISmdBaGllMERMNzZKdDA3R2JhWEhjbU9NczB5VGtBVlpqelZpa2tweTJmZUxrVE5MeGhBdFdMcnUyR29hY1hxVHRJbFoxZGtpTlVlZ0E4Vmo0MklaaDVKRlFqam5INHhiRTBOd3pEb2djTjZLa1ZUaVVNUUlCQ1NhNnJ0aXB2d0tjbFlpTnl4SzhIQjNlS3lDdW5MMnJzNDRCTXpDNng5OWtQSWhwRDk3VmhaVDJ3X19BYzVYVWZfQ2xPcTg0ekVxM2JkZ3NWVjN6VlM2c3lDSVB5TXBXT3FBRjM0TWMzcGdFdmZIWVZCdDgwd080SkVXZTYzZF9R?oc=5"
         }
       ]
     },
@@ -108,6 +108,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbUxxNFVQOWV5LV9iMDFXYTNWYy1sMWlPaUxOalh6Vkp2NmY2UjdCVWhVcm1iR3pybXYtdzFTcjMzYmVucUZBdzFKLVFERllqYmxYRnZsdm9HXzBDMDlwNzNvNm9LV2ZVNTI2ZVpLQVpoc2c4NGt1UWRITHFRd3hTZjNoYkg1c3hwQVNhZnhkVzI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f445cfd24e1d",
+      "title": "高脂飲食破壞菌相！研究揭密：讓糖尿病藥物效果大打折扣 - Yahoo新聞",
+      "published": "2026-04-14T08:52:23+00:00",
+      "summary": "高脂飲食破壞菌相！研究揭密：讓糖尿病藥物效果大打折扣&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQb1lzZ1NfUW53Tmxqd3JlcWRjLXBPeHJuYi1DOTJYb01rN1g0NTRjbnhDVVpjMWFkUTNzVXppdEdFckhPb09zOVBXQzZUUzR4Sjd2Mm9YQmZPWGgtN2xjazdOY2YyQm9VVDdyYTBRUXJXWVJwbUhyMFNTc1J6azJROFNyS2NHa2ZSaG1nWkxNMFp6aUdaWXM4Wnpmckpic2JNUkQtbGoxRUIydjhwWmFQelRELVVKMEcxanNtZVM0WkZVMHB5WFlEZlF4MmhzQldrQ1diRHp5NWU2MDYzLVpaWEdDZk5fNlp2QTlvdXlZdzg4Q2R0VGhjYzlhNmc2UHZIWTVEZ0pOZDdvb18xZ1hDRlNjOHVIam5rWWU5c1I5Qy1va3hoOXR6Smt0amlIaUNJV1VMSTNJMDBBZ1YyYnlRNDJPam9pTWY1YkI1SlFGbDQyVnFSSmMwQ2E2ekloQ3I1blNueThka2FMclR4TkNUdS02UFJyUQ?oc=5"
         }
       ]
     },
@@ -136,14 +148,14 @@
       ]
     },
     {
-      "id": "49263a9161bb",
-      "title": "綠花椰菜防癌專家喊掌握關鍵40分鐘：改善脂肪肝- 健康 - 中時新聞網",
-      "published": "2026-04-14T03:04:23+00:00",
-      "summary": "綠花椰菜防癌專家喊掌握關鍵40分鐘：改善脂肪肝- 健康&nbsp;&nbsp;中時新聞網",
+      "id": "8a9c7414256a",
+      "title": "防失智多曬太陽？16年研究揭關鍵：30至40歲是黃金期 - 聯合新聞網",
+      "published": "2026-04-13T23:25:02+00:00",
+      "summary": "防失智多曬太陽？16年研究揭關鍵：30至40歲是黃金期&nbsp;&nbsp;聯合新聞網防失智，請多曬太陽？16年追蹤研究：30至40歲是黃金預防期&nbsp;&nbsp;遠見雜誌陽光維他命D，能幫助中風病患復原得較好嗎？&nbsp;&nbsp;careonline.com.tw研究揭維生素D水平或與失智症風險關聯！全球60% 人口不足引發醫界關注&nbsp;&nbsp;巴士的報腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關&nbsp;&nbsp;科技島",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU2NDaHRTZHpfLVNtUl9CXzNnRFJXWlVpMFlSYjdYeGRUblRmNU0ybVYtaDJDOUFKZkp0RVN6UVdsbGxDUUlqM1FVQXRyQkVmLThKR0xLMUV5a09WUWZxZW44a2V2dGxDaDRMM0ZZSlFjc0VUOXU3TU40Wk83Vzc1cmx3WTkzbFdveUpSejB6QQ?oc=5"
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oZ1hwM0EwVDZuYXM1eDdWNUlEQVh1bEd5LXJVUWNlSy12NEJrMzdTSE4yb1VWWThjemJjU1JkSGtiUVA0SExOLW0wWXJ3dVR3?oc=5"
         }
       ]
     },
@@ -160,18 +172,6 @@
       ]
     },
     {
-      "id": "e3db3957e111",
-      "title": "壓力大就想吃甜食？研究：看窗外綠地30秒，有助「阻斷」大腦暴食衝動 - Yahoo新聞",
-      "published": "2026-04-14T11:45:00+00:00",
-      "summary": "壓力大就想吃甜食？研究：看窗外綠地30秒，有助「阻斷」大腦暴食衝動&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQV0dVcV85aUVJZEI4RHVvLWkyc05iTTRBNGgzb0wtc0VFYkR6MGVETk1yRTdrVDlYVEdQbnVWc1ZBU01SVTlocUZZZTBIM25oLWhsT0RyaHRZTEhqQko5ZGVIa2hTSVc3cWl3cWtLVnZnRkRxVm12bmdKZjlOOThjOE5RTV9YY1ViYU9WeURrR1JWajFBNWE0Vnd1VThta3hpSUVlSUFpSVRmSDBEcVg0c1NIYVQzY1FuT2ZKektab1BocjFCbkFFWUxUaTVSTDBQWFo3UlpqeUsxRllpYzNBWTFfX3duVWVQd09CLWJ2S196OWpmSTByMU0zNEV5TXNKSklvcHNQdTlKTmRTU2lLY3R6X2tmaTVyaTZNVEw4ZVFiaXozRDVPWVhLblViUlgtdVYxdDVCdmxkSDNidEs2Ri1ienR2UUFSd1hn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "50abf0b9ed67",
       "title": "大腸癌檢測現新技術！瑞士開發AI解析糞便細菌 檢出率約9成 - 自由健康網",
       "published": "2026-04-13T05:36:00+00:00",
@@ -180,18 +180,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40U20xdURRSDVXdmk2eVgwck9nZy0tMjRzMEphd0JOU0RCR2x5TGltVzZzeks1eDYwZDU1VER6SF9tbkFfZmpYRGpDckdCSFE5RXY3VFhvYzdfWmFFTm45MmZXQzbSAWpBVV95cUxOME1XTEdLT0x1VlZLdm40Q3A3U2hocExEcTdFMm9BNUJkVDJDSDZVSmNYMlMzZDJxSVE2SVpOcERBRnZfSDBUOEpadVJiaTR2cHFrUkhNbFA5Q0xlMS10a2RGOFRKN0F0d053?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8a9c7414256a",
-      "title": "防失智多曬太陽？16年研究揭關鍵：30至40歲是黃金期 - 聯合新聞網",
-      "published": "2026-04-13T23:25:02+00:00",
-      "summary": "防失智多曬太陽？16年研究揭關鍵：30至40歲是黃金期&nbsp;&nbsp;聯合新聞網前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oZ1hwM0EwVDZuYXM1eDdWNUlEQVh1bEd5LXJVUWNlSy12NEJrMzdTSE4yb1VWWThjemJjU1JkSGtiUVA0SExOLW0wWXJ3dVR3?oc=5"
         }
       ]
     },
@@ -232,14 +220,14 @@
       ]
     },
     {
-      "id": "49226c7d3e75",
-      "title": "吳芮醫生看我們與頭痛疾病的距離 - 行銷人",
-      "published": "2026-04-13T01:24:34+00:00",
-      "summary": "吳芮醫生看我們與頭痛疾病的距離&nbsp;&nbsp;行銷人",
+      "id": "0be93758dc90",
+      "title": "吳芮醫生看我們與頭痛疾病的距離 - 報新聞 Mega News",
+      "published": "2026-04-13T01:13:43+00:00",
+      "summary": "吳芮醫生看我們與頭痛疾病的距離&nbsp;&nbsp;報新聞 Mega News",
       "sources": [
         {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWnZqMTNRMlFPUzhkTXhEQVg1anJEZzU4aTQwcVltd2hSZ2FLSDZqWjZwNzBtUkthV3lWTFc1RWt2OGVCTzJhaVh0S1gyaldaazZwZXFfWXFUam1zX0tWa1F6THRJSS15TGFHUXdheW1VTm9FekRwMU5zMGR5UTlQdDNfSUVrQ1VfczBUWUVQcEVUWW03Wlh4NGhLTllvM3c4MXJsV09tTHZoTlRnZ3QtN2ZOYkxmNnprM2FLR3daTFFCSktySU5iN2xUMzI2MFY3ZE16bFRPQlQ2NVEybXNNMzVfWWV6WEFJTmtreGprYy02OXhyWXVTczhoaDc0V2ZMNklKeU5rWEJKVXM5OHdzQWNHS1QyVmpuNXVn?oc=5"
+          "name": "報新聞 Mega News",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWnFjMjVDTDVMNFZ4SFJyWVA4bmxhQ3BmR2JIaWNTWElmQ1N2c3UyM0czQlY2QVNaZjJ0Y2RrVG83ZERBdlJUWUlXLUctR28wV3pwbFNVUzJHZlktWVltN05kdEZYZEEtY1NUdkJjR1J5c3k3LXNlbGpHMWh2MW5JYVlNeWw5STBWUDE2SmhscklVeWJ6NGZ5SEFfVVFvWnVLc1pLRkQ5SFlxUTJDb1NGLS1pMjlhZm1GcUw2MkZoYVN2UkRpM1pfelFxbnp5SHFsbUg3QmVsbkVDbWJVSGJIbFB2ZE5neWpTeGFpb2w1OFlGNFhUNDJGY0FXdVIxZm5hNGt1c1VsT1kyNE5VVVE0bEN1aw?oc=5"
         }
       ]
     },
@@ -252,18 +240,6 @@
         {
           "name": "Harper's BAZAAR",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdzN6UkhXTy0zb3I5OVdwcnZTa0t0SE9JM2VqNmVNMUpHWVc3SUJSM1l4UGNzNkZVSl9FenM4R2M4WlE0eUVMS0x5MHREN2pDaTlBT1V6WkxKbHhVbV9jNExieU1ROWYzelpvaXU1c09FX09DNEFZa0liUUZLWHFEZEU3NUY0QWZET3p6bWR5Q2VNbE9yLWVFTjJOeWM2WjJp?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3e1d34f61023",
-      "title": "孟加拉麻疹疫情：由於疫苗缺口，兒童死亡人數上升，ETHealthworld - citytimes.tw",
-      "published": "2026-04-12T23:13:12+00:00",
-      "summary": "孟加拉麻疹疫情：由於疫苗缺口，兒童死亡人數上升，ETHealthworld&nbsp;&nbsp;citytimes.tw孟加拉麻疹逾百童死 港衞生署籲外遊前檢查疫苗紀錄&nbsp;&nbsp;hkcna.hk麻疹疫情致百童死亡 孟加拉急推疫苗接種&nbsp;&nbsp;大紀元新聞網多地麻疹持續 衛生局籲加強注意防範&nbsp;&nbsp;澳門廣播電視股份有限公司孟加拉的麻疹疫情迅速蔓延 當局啟動緊急疫苗接種計劃&nbsp;&nbsp;香港電台",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQNEtVaVh5cGhGR1p5NkFFNmdlOWE1dGtMaGY3SjFqNXNHYWdTbzh2WGFqaWN0VHlmdEFyTHIyQzFheHlyaW9xb042U0wzYmxlVmstRHUtRkpmbTMzXzA1YXNSb3hRSHVQVUpDTEJzMEoxdnExWnZ6dHU2NGhpaEU2N1hIbnkxMU1Bc0JaMEF6MFNFemR5Ty1ESFItMUZEQlVxdGU4bk9fOFdXS1ZwblJBWUdoVG5GRW9wemFSREIxQVp4Y2JvOE1PVUhjZWJHcDdBS3E1TWdrVlhBV2hxUVJzdDNzWlplZWhEVlNZNE55WnVOWERlWDY1SEhCVEtTV0lIc3Y1OTlxcENtMW9oZTU5R3NNR29ZOGhJd1hNMUUzOU5KZ2Y5dFkwajZBMjE0QWRSWjhrRVBRMG0yMVZ6Y0JBNTFEb05aMklvVjR6RHJmcnhpYUpJQnVpZFRTdEVuUnZRWHRscFVn?oc=5"
         }
       ]
     },

@@ -14,7 +14,7 @@ permalink: /news/mannitol/
 ---
 
 <p class="key-answer" data-question="Mannitol 有什麼相關新聞？">
-<strong>Mannitol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mannitol</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/mannitol/
 <p><a href="{{ '/drugs/mannitol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [健康網》每週2次以上！ 研究曝男性「愛愛頻率」竟能降心臟病風險50％](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uaVQ1N3I0b1RVTk41QXZCN3dlbkVzUmFuVlhHMUdSTXpqOUdFN295VTNqM1JtOGJVblNUY2xzTVBHSUpCQ0gybHdkQzFTZ3N4aDZEUjl2dWx2X2Iyd25jTTZwNnTSAWpBVV95cUxOdHk5LW5KWDN0NTVHVUk5V1QzcUJpcWlHeWJIOVhhYUNzdGJ2MnlTR3Qzd1p3b2FRZmZuZ0o4Z2lIMXhtMWxEMnFITXF5SFc5SGJFMmdvOFJDU2FDTTluZnVPeXREQTdRLXJB?oc=5)
+
+2026-04-14 <span class="news-indication-tag">心臟病</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uaVQ1N3I0b1RVTk41QXZCN3dlbkVzUmFuVlhHMUdSTXpqOUdFN295VTNqM1JtOGJVblNUY2xzTVBHSUpCQ0gybHdkQzFTZ3N4aDZEUjl2dWx2X2Iyd25jTTZwNnTSAWpBVV95cUxOdHk5LW5KWDN0NTVHVUk5V1QzcUJpcWlHeWJIOVhhYUNzdGJ2MnlTR3Qzd1p3b2FRZmZuZ0o4Z2lIMXhtMWxEMnFITXF5SFc5SGJFMmdvOFJDU2FDTTluZnVPeXREQTdRLXJB?oc=5)
+
+---
 
 ### [研究發現，新發貧血與較高的癌症風險和死亡有關。](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNT2Z3NHZmcmk2M3hsN0xiUVdiajY1Y3RqeHpCdTIybmhhVW93WV9vTG01MlA4S1NURlpjWVU0b0JXcFVkQTQ5UnBsWHJ3NG5XdVlDMVBKWWRUdXlmUzJZdmd2RWE5NXJ6d1hwYkhINHhTcXNOQmVUQWVSd25YbjltYkdad1VPbnR0Q3BDM1E5RnRnT1pZV0otWUgtQlI0Z0s5ZG9RbUhmbXpaeHoxYXF6ZFhUMVpvZ25mQVZURi0yTE5xV1dqdmd4bTM3UmhpYVl3Z29TREROeGJOTUF6YU5GaEtTYTVGTEQ3aW1BRW9jZXVTTXlCOUhDaWVpNVlPczRYU1Rka3FPV1JLbkc0eW9SVXlINWxNTko0LV94bWMtTDQ2UVViajN0Nmx0bWhqRC1aaGJGQWo4cUF0Nnl4a2otaXcwZjluZ1FBcTFJOXdZWk9qOG9uSmxMeW5zR25iVUhLYk9LWEhR?oc=5)
 

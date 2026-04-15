@@ -61,7 +61,7 @@ permalink: /news/gefitinib/
 
 ### [防失智多曬太陽？16年研究揭關鍵：30至40歲是黃金期](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oZ1hwM0EwVDZuYXM1eDdWNUlEQVh1bEd5LXJVUWNlSy12NEJrMzdTSE4yb1VWWThjemJjU1JkSGtiUVA0SExOLW0wWXJ3dVR3?oc=5)
 
-2026-04-13 <span class="news-indication-tag">失智</span>
+2026-04-13 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
 
 來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oZ1hwM0EwVDZuYXM1eDdWNUlEQVh1bEd5LXJVUWNlSy12NEJrMzdTSE4yb1VWWThjemJjU1JkSGtiUVA0SExOLW0wWXJ3dVR3?oc=5)
 
