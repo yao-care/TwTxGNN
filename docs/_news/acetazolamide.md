@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,21 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [健康網》每週2次以上！ 研究曝男性「愛愛頻率」竟能降心臟病風險50％](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uaVQ1N3I0b1RVTk41QXZCN3dlbkVzUmFuVlhHMUdSTXpqOUdFN295VTNqM1JtOGJVblNUY2xzTVBHSUpCQ0gybHdkQzFTZ3N4aDZEUjl2dWx2X2Iyd25jTTZwNnTSAWpBVV95cUxOdHk5LW5KWDN0NTVHVUk5V1QzcUJpcWlHeWJIOVhhYUNzdGJ2MnlTR3Qzd1p3b2FRZmZuZ0o4Z2lIMXhtMWxEMnFITXF5SFc5SGJFMmdvOFJDU2FDTTluZnVPeXREQTdRLXJB?oc=5)
-
-2026-04-14 <span class="news-indication-tag">心臟病</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uaVQ1N3I0b1RVTk41QXZCN3dlbkVzUmFuVlhHMUdSTXpqOUdFN295VTNqM1JtOGJVblNUY2xzTVBHSUpCQ0gybHdkQzFTZ3N4aDZEUjl2dWx2X2Iyd25jTTZwNnTSAWpBVV95cUxOdHk5LW5KWDN0NTVHVUk5V1QzcUJpcWlHeWJIOVhhYUNzdGJ2MnlTR3Qzd1p3b2FRZmZuZ0o4Z2lIMXhtMWxEMnFITXF5SFc5SGJFMmdvOFJDU2FDTTluZnVPeXREQTdRLXJB?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [研究發現，新發貧血與較高的癌症風險和死亡有關。](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNT2Z3NHZmcmk2M3hsN0xiUVdiajY1Y3RqeHpCdTIybmhhVW93WV9vTG01MlA4S1NURlpjWVU0b0JXcFVkQTQ5UnBsWHJ3NG5XdVlDMVBKWWRUdXlmUzJZdmd2RWE5NXJ6d1hwYkhINHhTcXNOQmVUQWVSd25YbjltYkdad1VPbnR0Q3BDM1E5RnRnT1pZV0otWUgtQlI0Z0s5ZG9RbUhmbXpaeHoxYXF6ZFhUMVpvZ25mQVZURi0yTE5xV1dqdmd4bTM3UmhpYVl3Z29TREROeGJOTUF6YU5GaEtTYTVGTEQ3aW1BRW9jZXVTTXlCOUhDaWVpNVlPczRYU1Rka3FPV1JLbkc0eW9SVXlINWxNTko0LV94bWMtTDQ2UVViajN0Nmx0bWhqRC1aaGJGQWo4cUF0Nnl4a2otaXcwZjluZ1FBcTFJOXdZWk9qOG9uSmxMeW5zR25iVUhLYk9LWEhR?oc=5)
 
 2026-04-14 <span class="news-indication-tag">癌症</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNT2Z3NHZmcmk2M3hsN0xiUVdiajY1Y3RqeHpCdTIybmhhVW93WV9vTG01MlA4S1NURlpjWVU0b0JXcFVkQTQ5UnBsWHJ3NG5XdVlDMVBKWWRUdXlmUzJZdmd2RWE5NXJ6d1hwYkhINHhTcXNOQmVUQWVSd25YbjltYkdad1VPbnR0Q3BDM1E5RnRnT1pZV0otWUgtQlI0Z0s5ZG9RbUhmbXpaeHoxYXF6ZFhUMVpvZ25mQVZURi0yTE5xV1dqdmd4bTM3UmhpYVl3Z29TREROeGJOTUF6YU5GaEtTYTVGTEQ3aW1BRW9jZXVTTXlCOUhDaWVpNVlPczRYU1Rka3FPV1JLbkc0eW9SVXlINWxNTko0LV94bWMtTDQ2UVViajN0Nmx0bWhqRC1aaGJGQWo4cUF0Nnl4a2otaXcwZjluZ1FBcTFJOXdZWk9qOG9uSmxMeW5zR25iVUhLYk9LWEhR?oc=5)
+
+---
+
+### [國產癲癇創新藥為腦電活動裝“剎車”](https://news.google.com/rss/articles/CBMikAFBVV95cUxOcmR3QXNGbGlveG91SnZyS19KZWNrSnc4MDJqZDN1c2xyaTBLbHZBUkhqVE9Mc1h5eTBJcWFGemR0N0E1dlhoM3kzQzBFSnRrWEZtd2V2Z1BLVGdocVM1VWQwaG53d3pIeC1iV0RTTVZQUEJJaktuQ2JhTG04VkdObTZsTWdYczVCTjh4dWZPT1o?oc=5)
+
+2026-04-14 <span class="news-indication-tag">癲癇</span>
+
+來源：[紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxOcmR3QXNGbGlveG91SnZyS19KZWNrSnc4MDJqZDN1c2xyaTBLbHZBUkhqVE9Mc1h5eTBJcWFGemR0N0E1dlhoM3kzQzBFSnRrWEZtd2V2Z1BLVGdocVM1VWQwaG53d3pIeC1iV0RTTVZQUEJJaktuQ2JhTG04VkdObTZsTWdYczVCTjh4dWZPT1o?oc=5)
 
 ---
 
@@ -81,14 +81,6 @@ permalink: /news/acetazolamide/
 2026-04-13 <span class="news-indication-tag">青光眼</span>
 
 來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfLXdlWTdOYmY3a3duR2ZGWnd4cUxSVTRqZVN2ZDdxTjZXODFiSDB4cWY2SmYwb3Z2R3dNbmxiRUJtQVJ3dWY3aWpJQlhKMmFCNTA4QjNwWVhpQmRvaEw0?oc=5)
-
----
-
-### [癲癇基因療法展突破 卓飛症候群病患發作率大降逾八成](https://news.google.com/rss/articles/CBMiOkFVX3lxTE9rMm95bm4xRnR4OXJhQzlmNHA1OEtzbV9QMGU2TGlMaTZEME5tcHA2VVVtdi1nRVZoTFE?oc=5)
-
-2026-04-13 <span class="news-indication-tag">癲癇</span>
-
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE9rMm95bm4xRnR4OXJhQzlmNHA1OEtzbV9QMGU2TGlMaTZEME5tcHA2VVVtdi1nRVZoTFE?oc=5)
 
 ---
 

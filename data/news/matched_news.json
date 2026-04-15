@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-15T04:39:47.077929+00:00",
-  "total_count": 33,
-  "matched_count": 10,
+  "last_updated": "2026-04-15T06:28:14.190981+00:00",
+  "total_count": 29,
+  "matched_count": 8,
   "news": [
     {
       "id": "46cb12c4bc2a",
@@ -32,8 +32,8 @@
     {
       "id": "97b532a4056f",
       "title": "失智症可預防！這類食物「狂降38%風險」 醫：大腦年輕4歲",
-      "published": "2026-04-15T03:02:59+00:00",
-      "summary": "失智症可預防！這類食物「狂降38%風險」 醫：大腦年輕4歲&nbsp;&nbsp;祝你健康怕老化失智？美國營養師大推「14種護腦食物」逆轉大腦退化、增強記憶力&nbsp;&nbsp;ELLE研究揭「自做1事」降23%失智風險！新手更降67%機率&nbsp;&nbsp;祝你健康6旬婦人10年來頻繁忘記瑣事 家屬誤以為只是老化...竟是中度失智&nbsp;&nbsp;聯合新聞網不是所有橄欖油都健康！醫師示警「用錯恐害大腦退化」，怎麼挑才正確？&nbsp;&nbsp;天下雜誌",
+      "published": "2026-04-15T03:08:26+00:00",
+      "summary": "失智症可預防！這類食物「狂降38%風險」 醫：大腦年輕4歲&nbsp;&nbsp;祝你健康失智症海嘯來襲！醫揭「黃金逆轉期」 心肺適能可降40％風險&nbsp;&nbsp;Yahoo新聞每週攝取3份豆類「失智風險降38％」 多吃這些食物讓大腦年輕4歲&nbsp;&nbsp;自由健康網怕老化失智？美國營養師大推「14種護腦食物」逆轉大腦退化、增強記憶力&nbsp;&nbsp;ELLE6旬婦人10年來頻繁忘記瑣事 家屬誤以為只是老化...竟是中度失智&nbsp;&nbsp;聯合新聞網",
       "sources": [
         {
           "name": "祝你健康",
@@ -144,79 +144,6 @@
       "matched_keywords": []
     },
     {
-      "id": "024007700e36",
-      "title": "健康網》每週2次以上！ 研究曝男性「愛愛頻率」竟能降心臟病風險50％",
-      "published": "2026-04-14T15:57:00+00:00",
-      "summary": "健康網》每週2次以上！ 研究曝男性「愛愛頻率」竟能降心臟病風險50％&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uaVQ1N3I0b1RVTk41QXZCN3dlbkVzUmFuVlhHMUdSTXpqOUdFN295VTNqM1JtOGJVblNUY2xzTVBHSUpCQ0gybHdkQzFTZ3N4aDZEUjl2dWx2X2Iyd25jTTZwNnTSAWpBVV95cUxOdHk5LW5KWDN0NTVHVUk5V1QzcUJpcWlHeWJIOVhhYUNzdGJ2MnlTR3Qzd1p3b2FRZmZuZ0o4Z2lIMXhtMWxEMnFITXF5SFc5SGJFMmdvOFJDU2FDTTluZnVPeXREQTdRLXJB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "4c09d23cce17",
       "title": "研究發現，孤獨的人記憶力更差，但不是更快。",
       "published": "2026-04-14T15:50:12+00:00",
@@ -251,19 +178,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQb1lzZ1NfUW53Tmxqd3JlcWRjLXBPeHJuYi1DOTJYb01rN1g0NTRjbnhDVVpjMWFkUTNzVXppdEdFckhPb09zOVBXQzZUUzR4Sjd2Mm9YQmZPWGgtN2xjazdOY2YyQm9VVDdyYTBRUXJXWVJwbUhyMFNTc1J6azJROFNyS2NHa2ZSaG1nWkxNMFp6aUdaWXM4Wnpmckpic2JNUkQtbGoxRUIydjhwWmFQelRELVVKMEcxanNtZVM0WkZVMHB5WFlEZlF4MmhzQldrQ1diRHp5NWU2MDYzLVpaWEdDZk5fNlp2QTlvdXlZdzg4Q2R0VGhjYzlhNmc2UHZIWTVEZ0pOZDdvb18xZ1hDRlNjOHVIam5rWWU5c1I5Qy1va3hoOXR6Smt0amlIaUNJV1VMSTNJMDBBZ1YyYnlRNDJPam9pTWY1YkI1SlFGbDQyVnFSSmMwQ2E2ekloQ3I1blNueThka2FMclR4TkNUdS02UFJyUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0ae6cd3d02b3",
-      "title": "穩步推進全國招補標首款且唯一全人羣三價流感病毒亞單位疫苗助力全球2026流感防控！ 作者智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
-      "published": "2026-04-14T08:49:51+00:00",
-      "summary": "穩步推進全國招補標首款且唯一全人羣三價流感病毒亞單位疫苗助力全球2026流感防控！ 作者智通財經&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
-      "sources": [
-        {
-          "name": "Investing.com 香港 - 股市報價& 財經新聞",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kSm5wN1RpbzJueExvVnRCaHlCSkFFOW9sX2lqNGw2c1VOd0JlSjFhckpweWtLT1ktN2ljTmpjd21pY1U2dkFmSl81NTgwNVU4SXpQc0l6bWNXeGdtNTBjZVV6NXBSTG9xdnJlT0duUDI?oc=5"
         }
       ],
       "matched_keywords": []
@@ -557,6 +471,31 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0d8f35b59bee",
+      "title": "國產癲癇創新藥為腦電活動裝“剎車”",
+      "published": "2026-04-14T01:26:11+00:00",
+      "summary": "國產癲癇創新藥為腦電活動裝“剎車”&nbsp;&nbsp;紫荊網癲癇基因療法展突破 卓飛症候群病患發作率大降逾八成&nbsp;&nbsp;蕃新聞陸「藥物難治性癲癇」治療研究突破 新藥獲中美雙臨床試驗批准&nbsp;&nbsp;ETtoday新聞雲",
+      "sources": [
+        {
+          "name": "紫荊網",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcmR3QXNGbGlveG91SnZyS19KZWNrSnc4MDJqZDN1c2xyaTBLbHZBUkhqVE9Mc1h5eTBJcWFGemR0N0E1dlhoM3kzQzBFSnRrWEZtd2V2Z1BLVGdocVM1VWQwaG53d3pIeC1iV0RTTVZQUEJJaktuQ2JhTG04VkdObTZsTWdYczVCTjh4dWZPT1o?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "癲癇",
+          "keyword": "癲癇",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
             }
           ]
         }
@@ -1017,92 +956,6 @@
             {
               "slug": "acetazolamide",
               "name": "Acetazolamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e1dc1cc254c9",
-      "title": "癲癇基因療法展突破 卓飛症候群病患發作率大降逾八成",
-      "published": "2026-04-13T07:12:45+00:00",
-      "summary": "癲癇基因療法展突破 卓飛症候群病患發作率大降逾八成&nbsp;&nbsp;ENN台灣電報前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9rMm95bm4xRnR4OXJhQzlmNHA1OEtzbV9QMGU2TGlMaTZEME5tcHA2VVVtdi1nRVZoTFE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "癲癇",
-          "keyword": "癲癇",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d80d664e670f",
-      "title": "7成癌童遇營養危機！營養師揭家長常見2迷思 飲食「三要三不」助力抗癌",
-      "published": "2026-04-13T05:45:00+00:00",
-      "summary": "7成癌童遇營養危機！營養師揭家長常見2迷思 飲食「三要三不」助力抗癌&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fTFBidFJTdHBOamxzdU5ORzBEdmppeTNzeHpwOExMekRmcnNKem9QVld6OGdCNTY5X1Jkd2dfai1FSmk2RFJZZVhKaUpxQ2JNSWpsaXZMZU9vZnZhd21GNA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "50abf0b9ed67",
-      "title": "大腸癌檢測現新技術！瑞士開發AI解析糞便細菌 檢出率約9成",
-      "published": "2026-04-13T05:36:00+00:00",
-      "summary": "大腸癌檢測現新技術！瑞士開發AI解析糞便細菌 檢出率約9成&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40U20xdURRSDVXdmk2eVgwck9nZy0tMjRzMEphd0JOU0RCR2x5TGltVzZzeks1eDYwZDU1VER6SF9tbkFfZmpYRGpDckdCSFE5RXY3VFhvYzdfWmFFTm45MmZXQzbSAWpBVV95cUxOME1XTEdLT0x1VlZLdm40Q3A3U2hocExEcTdFMm9BNUJkVDJDSDZVSmNYMlMzZDJxSVE2SVpOcERBRnZfSDBUOEpadVJiaTR2cHFrUkhNbFA5Q0xlMS10a2RGOFRKN0F0d053?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
