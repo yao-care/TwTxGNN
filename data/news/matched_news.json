@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T15:19:15.450470+00:00",
+  "last_updated": "2026-04-16T17:04:38.999338+00:00",
   "total_count": 28,
   "matched_count": 6,
   "news": [
@@ -671,7 +671,7 @@
       "id": "286ac33f1265",
       "title": "超級細菌「鮑氏不動桿菌」致死率逾三成 中山大學團隊破解防護密碼",
       "published": "2026-04-16T04:16:35+00:00",
-      "summary": "超級細菌「鮑氏不動桿菌」致死率逾三成 中山大學團隊破解防護密碼&nbsp;&nbsp;聯合新聞網中山大學研究超級細菌助攻疫苗與替代療法研發| 生活&nbsp;&nbsp;中央社 CNA超級細菌破解關鍵曝光！研究揭「這分子」才是元兇&nbsp;&nbsp;Yahoo新聞破解超級細菌「化學開關」 中山大學突破新療法 | 青年日報&nbsp;&nbsp;LINE TODAY疫苗設計見曙光！中山大學研究首揭超級細菌發炎開關- 生活&nbsp;&nbsp;工商時報",
+      "summary": "超級細菌「鮑氏不動桿菌」致死率逾三成 中山大學團隊破解防護密碼&nbsp;&nbsp;聯合新聞網中山大學研究超級細菌助攻疫苗與替代療法研發| 生活&nbsp;&nbsp;中央社 CNA突破超級細菌鎧甲 中山大學揪出致病「開關」&nbsp;&nbsp;DIGITIMES破解超級細菌「防彈衣」密碼！中山大學突破新療法&nbsp;&nbsp;PChome Online 新聞疫苗設計見曙光！中山大學研究首揭超級細菌發炎開關&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "聯合新聞網",
@@ -966,6 +966,19 @@
       "matched_keywords": []
     },
     {
+      "id": "372187451d59",
+      "title": "小心口腔裡的“隱形殺手”，早防早治是關鍵",
+      "published": "2026-04-15T07:11:58+00:00",
+      "summary": "小心口腔裡的“隱形殺手”，早防早治是關鍵&nbsp;&nbsp;紫荊網",
+      "sources": [
+        {
+          "name": "紫荊網",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZG9icmdCV2l6YkxDU3lha1dDUXFnYW1NZ29veE9NZ2RaSzZjMlpFUUFpZUdma0t4RDNNRVlnVWtLb2dxLVpORkNESHdKR25zcEZHRFkyRmpJaGRBUmFCQUp2cmEtSWNLSTNKdlAzYy1FTDF6bElMZ2xsQVRjbGs0M195N0JIYUd1QWFCMnBieXI?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "90d988dbc802",
       "title": "「捕蚊燈」體質解密！蚊子叮人不是看血型、體溫，而是這2條件",
       "published": "2026-04-15T06:58:00+00:00",
@@ -1074,19 +1087,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOanFKT1FNNTJMaDhPbGVWUWdaUmVVXy1pU0tSbG56bTZvMV9pUGN6bGZ0YkRqTm5CeGpNRWg0cEdwZVV5N1ZfS3F3b1oxNFV4WlU2Zl9oamJtTDA5NmRwZng0dENFMnhENC1WV2NvYkRNSFhudklacXNMT25Bb056TDg5QXBGLWp6X3ByekRHQzlxMDcyank3VXpxWUNNanpTRUo4Q0J3WE1kd1pTS3hsaF9QNWdzVkc4SjAxSm9ZQ2pYUll4N3V4R0dUZzFFcEYtMndaTUNJZVF1dENqWkxQMDEtQzFNRlNtQTRyR0Ezcmd0ckV2QkQ2SFVrSXZLV2VxTmlmQ2lfN1l5NHEyVmZyX3BveG5hdHR1SUNuRG0zZURUWlhmLWpQaWk4RExEMDhyRHYxekdXX2pTMUhiZ01peTVxaW41Q2FiRzdJUlAxemgyMDVfNGZEYy1PNkdQVUFiTkpveGp3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f0f65526ac21",
-      "title": "【灣區新聞】舊金山性病感染明顯下降 或與新預防措施有關",
-      "published": "2026-04-14T16:23:55+00:00",
-      "summary": "【灣區新聞】舊金山性病感染明顯下降 或與新預防措施有關&nbsp;&nbsp;KTSF.com",
-      "sources": [
-        {
-          "name": "KTSF.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVYVNZb21UamwtdGo4TFFsZ3ZFWXNNbl9ENzFUM1dfYUNoNENxWnBFcGd1UjVuM2Vrakd6dlBnSEJDcFpHV0poQXRXZ0RUbEpSbmZqeERKNWVXU1d6ellN?oc=5"
         }
       ],
       "matched_keywords": []
