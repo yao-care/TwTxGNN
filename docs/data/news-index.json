@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-15T23:34:52.485405+00:00",
-  "count": 10,
+  "generated": "2026-04-16T01:52:15.272038+00:00",
+  "count": 9,
   "news": [
     {
       "id": "e2627394bc0c",
@@ -295,30 +295,6 @@
             {
               "slug": "isosorbide_dinitrate",
               "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9b24030cfb20",
-      "title": "高脂乳製品防失智？專家揭護腦關鍵：彩虹蔬果、蛋白質才是王道",
-      "published": "2026-04-15T04:21:10+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNlZkLTRXZFdIOHJvcGo4WGxFNHpRa1ZNOVhrRDhVWXVNV1ZCUzBDdjdyN25RSDBiVFppSk0wTDZPb0hIVnZJSmtRRlp3T24waktBa3RtVXUzWnNGZTFrSUs5TE4zTHB3RTZhbC16Zzk1T0YzWnVuLW44cDE1cjFrUDVfREtPcWlHYWRFRlliSQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

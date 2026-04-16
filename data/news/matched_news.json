@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-15T23:34:52.450705+00:00",
+  "last_updated": "2026-04-16T01:52:15.244370+00:00",
   "total_count": 31,
-  "matched_count": 10,
+  "matched_count": 9,
   "news": [
     {
       "id": "1f382486554c",
@@ -385,31 +385,6 @@
       ]
     },
     {
-      "id": "9b24030cfb20",
-      "title": "高脂乳製品防失智？專家揭護腦關鍵：彩虹蔬果、蛋白質才是王道",
-      "published": "2026-04-15T04:21:10+00:00",
-      "summary": "高脂乳製品防失智？專家揭護腦關鍵：彩虹蔬果、蛋白質才是王道&nbsp;&nbsp;中時新聞網「我媽只是老了...」10年後卻不認得孫子！醫揭失智黃金逆轉期，321做對還能讓大腦年輕3歲&nbsp;&nbsp;康健雜誌預防失智這樣吃 「彩虹蔬果」助大腦年輕3至4歲&nbsp;&nbsp;自由健康網研究揭「自做1事」降23%失智風險！新手更降67%機率&nbsp;&nbsp;祝你健康主婦頻忘瑣事非正常老化 錯過防失智關鍵10年&nbsp;&nbsp;中央社 CNA",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNlZkLTRXZFdIOHJvcGo4WGxFNHpRa1ZNOVhrRDhVWXVNV1ZCUzBDdjdyN25RSDBiVFppSk0wTDZPb0hIVnZJSmtRRlp3T24waktBa3RtVXUzWnNGZTFrSUs5TE4zTHB3RTZhbC16Zzk1T0YzWnVuLW44cDE1cjFrUDVfREtPcWlHYWRFRlliSQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "946386c89df5",
       "title": "金縣一名嬰兒確診麻疹引發接觸風險預警",
       "published": "2026-04-15T03:15:00+00:00",
@@ -645,6 +620,19 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNNDliZUg0ek5fXzh5ZXlwalk0cDdrSnFVV3lYOFB6ZjFtdU14M2xEYUZUdFEtSjFFVmlQWDE4djBTaElqZEktcldCMTl3TVJIRW1MZUNEcHJYTTJKNDdSd0tNRTROVncySjdVQkdCN2RZOTRMM2RCeE1FVUtlenQzaWliQlpHeVByak1Yci1NclpmZjRHc292eUtNXzVFWVNoVldIS054X1I3UjhVakhLQlVOSGJQbFFhZWJxakxGMWFfeTRyQ0VCNmxrdmRYWFJDSUxnck5lRTRsYzUybDQtVDYwUXhRYVVpcG1EQ2JsYlBMYlBXNWQ5ZnYwSHZmUmtDMzYtbTdLYjRGVFoxRlBRUVJVRTRFT1FEVk51eWY1a21DOEJxMjJKNGIxMnA4MlpiVXpfM2U2VHpCYlVmaVhtNkU3UmdQMTV1cTYyTVJPZEUzUXpwQ0htcy1oMUlHdFNZNUE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "751378c45a3d",
+      "title": "精神分裂，等於多重人格？精神科專科醫生解釋診斷有兩個準則",
+      "published": "2026-04-14T03:42:35+00:00",
+      "summary": "精神分裂，等於多重人格？精神科專科醫生解釋診斷有兩個準則&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxNYmNjbFJtOFpzdFpPQkM0ZFRNQk0wWFI2Z09hMTlMRUtnZHE3VUtzUmZzT2FZb2s4ZC02dUV5T1JyRHRiU1VlN0RXUGV3cUs3b2lTdDJHdXZ1NWZKcmpUOUdQcndmWWc1LXNNSzZVQkV3eURYa2FKb1NXTGprZXhBMjAwbUFlS0pTbW5oOVRLNzFiMk4wQ3dtdXhYa1EyeThJV0RlMXNudGcxdkVlY01UdnNQNVZwVHJ5QnBJVnR1b2FYdGJULUdoeU1ZbXJyQ2dZUnVBclBBaXRzZVp0eXQtR1A4VmhGVUEzYkE0Qk1BT1ljSUNfYV80ck9aRVQwenppVF93OUVYZy1ja3FnMkVMS3NaajNFcnZjUlgzZXY2eTIzbThSZ3JyWkFxWUhMeExQMkhyUXctS21UVVoyWG9ERjJLTzN2UXUwaEcyM1B6NXpldTRaSkZ5SGR3SG5kelRhS19RLTJMUmlqSFNNZVNyZ05iVXY3SzBJaWJ2VXlPNFJWbF9NYmxpWVJyb2VmZHlHVzhzaFZiT2kzM25mQXc?oc=5"
         }
       ],
       "matched_keywords": []
