@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [這種流行的痛風藥物可以降低心臟病發作和中風的風險](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPSTBKLTBnbW1Vd3l4bndkd1VrcElkYVA2eTBsbk5zalJhTFhnamJ5OVNsLWRuWktfdWlNSmZzWl9zSGlPVFR0b0xUVzg1cjltbDgtcVhaTERWMzJiTDBKbDhFNGRtVjQxOThYZ0xlTmstano2VE1sZjBqYkZBeHVlZVB5Zkw1X0RkVFlydDVpbHBwNDBia3g2MzB1d0pKWlpLdUJscGdGS0k2dTA0T0h5NDJvUjhFTjh1bl9wUGNKc2kyVlZNSmFEM1lNMF9BQlJTaFVBWWxzVTJLTVJURDc0YVJ1cjI5M0l3VDVUdFRLQ3laQUgzSVlsaTFxa21KcDZXRzhQalZVdF9peU5UTGJuNURLMmZ4U2xXYi0wYXhYWXVBLS1xaFZWRzBSNDJNWUx6b3dPMGNUNWYtRzgyeXk1aUJUbGY2Zy1VTzhNMl9PX05YTnB6dzN3VXBJOE1YdHo4bkZBMk5n?oc=5)
 
 2026-04-15 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">痛風</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPSTBKLTBnbW1Vd3l4bndkd1VrcElkYVA2eTBsbk5zalJhTFhnamJ5OVNsLWRuWktfdWlNSmZzWl9zSGlPVFR0b0xUVzg1cjltbDgtcVhaTERWMzJiTDBKbDhFNGRtVjQxOThYZ0xlTmstano2VE1sZjBqYkZBeHVlZVB5Zkw1X0RkVFlydDVpbHBwNDBia3g2MzB1d0pKWlpLdUJscGdGS0k2dTA0T0h5NDJvUjhFTjh1bl9wUGNKc2kyVlZNSmFEM1lNMF9BQlJTaFVBWWxzVTJLTVJURDc0YVJ1cjI5M0l3VDVUdFRLQ3laQUgzSVlsaTFxa21KcDZXRzhQalZVdF9peU5UTGJuNURLMmZ4U2xXYi0wYXhYWXVBLS1xaFZWRzBSNDJNWUx6b3dPMGNUNWYtRzgyeXk1aUJUbGY2Zy1VTzhNMl9PX05YTnB6dzN3VXBJOE1YdHo4bkZBMk5n?oc=5)
-
----
-
-### [壞膽固醇該降多低？《新英格蘭醫學期刊》最新研究給答案](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2TDJlXzcwbW9teXNyUjZjdmFVYnpzZl9hT0pWSjg5OUpvamtEbWFsYV8yVW41R3d6NUZtaVlrbHlFNDFQYzlhdFRVaC12eFJveV9kN3phVmo5c1Bp0gFiQVVfeXFMT2tyTXRkSHFKLVIxMHZva0U1U2t6cXpNM19QdHlXUEg4Um1QeTlKbFpfUzJ4U3lmR3NqNGhGR2ZIaGZFNVRLVHFJd0piNVlsQUJJOXVEaEttN1c5WW9fTG9hOWc?oc=5)
-
-2026-04-15 <span class="news-indication-tag">心血管</span>
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2TDJlXzcwbW9teXNyUjZjdmFVYnpzZl9hT0pWSjg5OUpvamtEbWFsYV8yVW41R3d6NUZtaVlrbHlFNDFQYzlhdFRVaC12eFJveV9kN3phVmo5c1Bp0gFiQVVfeXFMT2tyTXRkSHFKLVIxMHZva0U1U2t6cXpNM19QdHlXUEg4Um1QeTlKbFpfUzJ4U3lmR3NqNGhGR2ZIaGZFNVRLVHFJd0piNVlsQUJJOXVEaEttN1c5WW9fTG9hOWc?oc=5)
 
 ---
 

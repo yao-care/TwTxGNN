@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-16T17:04:39.029516+00:00",
-  "count": 6,
+  "generated": "2026-04-16T19:00:19.539713+00:00",
+  "count": 5,
   "news": [
     {
       "id": "aa88e63d7307",
@@ -760,30 +760,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "54eeab6d761c",
-      "title": "壞膽固醇該降多低？《新英格蘭醫學期刊》最新研究給答案",
-      "published": "2026-04-15T06:22:41+00:00",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2TDJlXzcwbW9teXNyUjZjdmFVYnpzZl9hT0pWSjg5OUpvamtEbWFsYV8yVW41R3d6NUZtaVlrbHlFNDFQYzlhdFRVaC12eFJveV9kN3phVmo5c1Bp0gFiQVVfeXFMT2tyTXRkSHFKLVIxMHZva0U1U2t6cXpNM19QdHlXUEg4Um1QeTlKbFpfUzJ4U3lmR3NqNGhGR2ZIaGZFNVRLVHFJd0piNVlsQUJJOXVEaEttN1c5WW9fTG9hOWc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
             }
           ]
         }
