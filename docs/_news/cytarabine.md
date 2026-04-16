@@ -14,7 +14,7 @@ permalink: /news/cytarabine/
 ---
 
 <p class="key-answer" data-question="Cytarabine 有什麼相關新聞？">
-<strong>Cytarabine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cytarabine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/cytarabine/
 <ul>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（9 個）：<ul>
-<li class="indication-matched">small cell lung carcinoma（99.8%）<span class="indication-tag">📰 肺癌</span></li>
+<li>small cell lung carcinoma（99.8%）</li>
 <li>primary pulmonary lymphoma（99.8%）</li>
 <li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
 <li>pulmonary blastoma（99.8%）</li>
@@ -40,15 +40,9 @@ permalink: /news/cytarabine/
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [對抗肺癌兼治肌肉萎縮！美開發雙效奈米療法 動物實驗現曙光](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fa2lmck1mZ1kxbVBnMDdyNVpOTmxqbFcwM3NIZG9OUEl1MUszejFVdHh3N09CYk94Z2dzbU9QWGVMSkRLTGh6RUpyYmpHa1B2NC1weDJFSWlaUjUtWTF5by1CckLSAWpBVV95cUxOSmVod0NKQ2ZjcEpiZ1RtNElWSldVVnl4WFNvUkNmdHZubkhvUE9Eb2ZSVndqbmE3dW0yQWROUVdxM0ZoZmZNV0lRNlBuUHU2QUpDYktXV2dYdk5yVGNVWjk4MDd4eEJPcDhn?oc=5)
-
-2026-04-14 <span class="news-indication-tag">肺癌</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fa2lmck1mZ1kxbVBnMDdyNVpOTmxqbFcwM3NIZG9OUEl1MUszejFVdHh3N09CYk94Z2dzbU9QWGVMSkRLTGh6RUpyYmpHa1B2NC1weDJFSWlaUjUtWTF5by1CckLSAWpBVV95cUxOSmVod0NKQ2ZjcEpiZ1RtNElWSldVVnl4WFNvUkNmdHZubkhvUE9Eb2ZSVndqbmE3dW0yQWROUVdxM0ZoZmZNV0lRNlBuUHU2QUpDYktXV2dYdk5yVGNVWjk4MDd4eEJPcDhn?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

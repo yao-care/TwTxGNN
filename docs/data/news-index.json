@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-16T06:29:29.265128+00:00",
-  "count": 6,
+  "generated": "2026-04-16T08:23:11.476258+00:00",
+  "count": 5,
   "news": [
     {
       "id": "a48eb6afb8cc",
@@ -236,38 +236,6 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "fab82c5830b6",
-      "title": "對抗肺癌兼治肌肉萎縮！美開發雙效奈米療法 動物實驗現曙光",
-      "published": "2026-04-14T06:18:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fa2lmck1mZ1kxbVBnMDdyNVpOTmxqbFcwM3NIZG9OUEl1MUszejFVdHh3N09CYk94Z2dzbU9QWGVMSkRLTGh6RUpyYmpHa1B2NC1weDJFSWlaUjUtWTF5by1CckLSAWpBVV95cUxOSmVod0NKQ2ZjcEpiZ1RtNElWSldVVnl4WFNvUkNmdHZubkhvUE9Eb2ZSVndqbmE3dW0yQWROUVdxM0ZoZmZNV0lRNlBuUHU2QUpDYktXV2dYdk5yVGNVWjk4MDd4eEJPcDhn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
             }
           ]
         }
