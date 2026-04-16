@@ -1,8 +1,620 @@
 {
-  "last_updated": "2026-04-16T10:08:35.655655+00:00",
-  "total_count": 29,
-  "matched_count": 5,
+  "last_updated": "2026-04-16T11:53:55.712947+00:00",
+  "total_count": 31,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "c3a0a01d6cd6",
+      "title": "麻疹｜39歲婦獨訪印尼後中招 曾到東區醫院及東華東院 187人被列密切接觸者",
+      "published": "2026-04-16T10:59:53+00:00",
+      "summary": "麻疹｜39歲婦獨訪印尼後中招 曾到東區醫院及東華東院 187人被列密切接觸者&nbsp;&nbsp;星島頭條前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxPYUZ3UU0tRXpPa1Y1Q2dMekRTQlBrM01pYXhQQjlSR0NXbld0ZkJzTE1xNnhrVnJfdGZLNC02RUx1VDVPXy1TTS1VTTJrZkVqY25HOHZiaDhKRTFWeG4yWmxtOXNiLWNIT0o1eUhBU1ZoZHVSbUxoY3loQWdtc0YxVmM0TzhxZjJfSmhmdDVFYXc2b0xxeUVtMjNsY2hwcUpGQTdUak1qdEpKT3Z2OWEzWjJidEtuQm1GS1lJTEYtc0ZNV2F6bHZ4bVI2MkhvY1lzU2d2OXFwNDV3UWVSVHpZMThnMWtFWkJPa0xfWFh5SFhkVHFQb2dCR1U4OWMtTURpenVJRGZjRlpULVB6RnFjamxMOEJETlNxV2hiWUdzLWdJNkZXN3p2T2pJdnN2Nl9yNlpCQmlXQmVxWTJUcUN6a0FueVktSDZmQ2g1a1dtbWJGd0F3LWpLLVZXMEhvcUdaSkdiLWFJRUwyWEk2cnlGYVVwbUNQcFFreTEyLWtwLWxCNFlYclF5QWZsMGJhb0pQd1BlT2Zrckwtc1dPWmExdGZpY3hlM09iellyby1qYlRHeVktZkhob1NINk1PUzhxWXcxa245Zw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "aa88e63d7307",
+      "title": "上海癌症5年生存率達65.2% 新版惡性腫瘤篩查預防《推薦》發布",
+      "published": "2026-04-16T09:53:00+00:00",
+      "summary": "上海癌症5年生存率達65.2% 新版惡性腫瘤篩查預防《推薦》發布&nbsp;&nbsp;人民网-上海频道",
+      "sources": [
+        {
+          "name": "人民网-上海频道",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nenV3d2dWNzctdmFvTlNUSWtqUmtqakNUYWM4WWlnX2xjZ2ozZ3hMd1BWeGdnUGdlQXBJMEE0M1RaalJWbGRLbVd4aWdWUVp0QnVGRW1oRmNRS280WWVKUGd5QW0xN1FnaUg0LXJfU0s?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腫瘤",
+          "keyword": "腫瘤",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "惡性腫瘤",
+          "keyword": "惡性腫瘤",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "8f94a4ea438f",
       "title": "細胞內部運輸機制揭示RNA與基因治療新突破 - GeneOnline News",
@@ -33,7 +645,7 @@
       "id": "4b7e6d830cf2",
       "title": "破解超級細菌「防彈衣」密碼！ 中山大學突破新療法",
       "published": "2026-04-16T05:02:33+00:00",
-      "summary": "破解超級細菌「防彈衣」密碼！ 中山大學突破新療法&nbsp;&nbsp;波新聞中山大學研究超級細菌助攻疫苗與替代療法研發| 生活&nbsp;&nbsp;中央社 CNA破解超級細菌「防彈衣」密碼 中山大學突破新療法&nbsp;&nbsp;Yahoo新聞突破超級細菌鎧甲 中山大學揪出致病「開關」&nbsp;&nbsp;DIGITIMES超級細菌「鮑氏不動桿菌」致死率逾三成 中山大學團隊破解防護密碼&nbsp;&nbsp;聯合新聞網",
+      "summary": "破解超級細菌「防彈衣」密碼！ 中山大學突破新療法&nbsp;&nbsp;波新聞中山大學研究超級細菌助攻疫苗與替代療法研發| 生活&nbsp;&nbsp;中央社 CNA突破超級細菌鎧甲 中山大學揪出致病「開關」&nbsp;&nbsp;DIGITIMES超級細菌破解關鍵曝光！研究揭「這分子」才是元兇&nbsp;&nbsp;Yahoo新聞超級細菌「鮑氏不動桿菌」致死率逾三成 中山大學團隊破解防護密碼&nbsp;&nbsp;聯合新聞網",
       "sources": [
         {
           "name": "波新聞",
@@ -395,7 +1007,7 @@
       "id": "946386c89df5",
       "title": "金縣一名嬰兒確診麻疹引發接觸風險預警",
       "published": "2026-04-15T03:15:00+00:00",
-      "summary": "金縣一名嬰兒確診麻疹引發接觸風險預警&nbsp;&nbsp;大紀元新聞網三藩市首宗個案 未滿1歲確診麻疹&nbsp;&nbsp;Singtaousa麻疹搭飛機前往愛達荷州，該州疫苗接種率全美最差&nbsp;&nbsp;citytimes.tw麻疹病毒的真面目是「免疫駭客」：可能強制破壞身體抵抗力&nbsp;&nbsp;四季線上4gTV麻疹疫苗的保護力，會隨時間減弱嗎？&nbsp;&nbsp;Bella.tw儂儂",
+      "summary": "金縣一名嬰兒確診麻疹引發接觸風險預警&nbsp;&nbsp;大紀元新聞網舊金山7年來首例 未滿1歲嬰兒出國旅行染麻疹&nbsp;&nbsp;世界新聞網麻疹疫苗接種史，如何影響免疫力判斷？&nbsp;&nbsp;Bella.tw儂儂美國麻疹病例增加，加州出現7年來最高數量&nbsp;&nbsp;citytimes.tw麻疹病毒的真面目是「免疫駭客」：可能強制破壞身體抵抗力&nbsp;&nbsp;四季線上4gTV",
       "sources": [
         {
           "name": "大紀元新聞網",

@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [上海癌症5年生存率達65.2% 新版惡性腫瘤篩查預防《推薦》發布](https://news.google.com/rss/articles/CBMicEFVX3lxTE9nenV3d2dWNzctdmFvTlNUSWtqUmtqakNUYWM4WWlnX2xjZ2ozZ3hMd1BWeGdnUGdlQXBJMEE0M1RaalJWbGRLbVd4aWdWUVp0QnVGRW1oRmNRS280WWVKUGd5QW0xN1FnaUg0LXJfU0s?oc=5)
+
+2026-04-16 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">惡性腫瘤</span>
+
+來源：[人民网-上海频道](https://news.google.com/rss/articles/CBMicEFVX3lxTE9nenV3d2dWNzctdmFvTlNUSWtqUmtqakNUYWM4WWlnX2xjZ2ozZ3hMd1BWeGdnUGdlQXBJMEE0M1RaalJWbGRLbVd4aWdWUVp0QnVGRW1oRmNRS280WWVKUGd5QW0xN1FnaUg0LXJfU0s?oc=5)
+
+---
 
 ### [一生堅持這樣做可以將阿茲海默症的風險降低38%。](https://news.google.com/rss/articles/CBMi_gJBVV95cUxPZkVMWUNSMXdFVkhQWkQwWjZjdDZTWTh0eHB6NHh1dDRsbnJQQUFjcXRaVm5zWUFNM2Z4S0dnaExDbVMyTlEwaUJONWRXY2xZQ0pUVWJ6Z0hCR2NOQnE1RHBjZWxzZVV5SkxyUi11ZnhmMlI4RHR5dVdkQW9qVDhmcjZUbGJkNWt5c3A5dlViX3h4VlRjYWh2UUVPTWxXb3FIR1lwamN6cmhram92aGhEMzNPUVQ4WFdrTWhwU3VEVTdlQXljbTliZTNjaFpXeXVhWjl0SkJCcDNfa3RCbnprV3gxUU9GZ0lkRDMzOFo3XzZabjhaa1RUQlVIbjFNU05GeVZfUWJub3l3SWk0QTcyUG5zNnBWYjlQYVM3bWdTZkFIT05aRzVySlFuOTlyb0RHVnVJVXVqMnQtcW9CS3BTeUhybTFXRnN4T0VFS3BmNWlQV2hDWC1JOGpXZ0Z0WENtN01MUkpGVGw4VzgybUdsUXU5RmpjWkxpUHhLY3BR?oc=5)
 

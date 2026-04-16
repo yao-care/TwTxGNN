@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [上海癌症5年生存率達65.2% 新版惡性腫瘤篩查預防《推薦》發布](https://news.google.com/rss/articles/CBMicEFVX3lxTE9nenV3d2dWNzctdmFvTlNUSWtqUmtqakNUYWM4WWlnX2xjZ2ozZ3hMd1BWeGdnUGdlQXBJMEE0M1RaalJWbGRLbVd4aWdWUVp0QnVGRW1oRmNRS280WWVKUGd5QW0xN1FnaUg0LXJfU0s?oc=5)
+
+2026-04-16 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">惡性腫瘤</span>
+
+來源：[人民网-上海频道](https://news.google.com/rss/articles/CBMicEFVX3lxTE9nenV3d2dWNzctdmFvTlNUSWtqUmtqakNUYWM4WWlnX2xjZ2ozZ3hMd1BWeGdnUGdlQXBJMEE0M1RaalJWbGRLbVd4aWdWUVp0QnVGRW1oRmNRS280WWVKUGd5QW0xN1FnaUg0LXJfU0s?oc=5)
+
+---
 
 ### [這種流行的痛風藥物可以降低心臟病發作和中風的風險](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPSTBKLTBnbW1Vd3l4bndkd1VrcElkYVA2eTBsbk5zalJhTFhnamJ5OVNsLWRuWktfdWlNSmZzWl9zSGlPVFR0b0xUVzg1cjltbDgtcVhaTERWMzJiTDBKbDhFNGRtVjQxOThYZ0xlTmstano2VE1sZjBqYkZBeHVlZVB5Zkw1X0RkVFlydDVpbHBwNDBia3g2MzB1d0pKWlpLdUJscGdGS0k2dTA0T0h5NDJvUjhFTjh1bl9wUGNKc2kyVlZNSmFEM1lNMF9BQlJTaFVBWWxzVTJLTVJURDc0YVJ1cjI5M0l3VDVUdFRLQ3laQUgzSVlsaTFxa21KcDZXRzhQalZVdF9peU5UTGJuNURLMmZ4U2xXYi0wYXhYWXVBLS1xaFZWRzBSNDJNWUx6b3dPMGNUNWYtRzgyeXk1aUJUbGY2Zy1VTzhNMl9PX05YTnB6dzN3VXBJOE1YdHo4bkZBMk5n?oc=5)
 
