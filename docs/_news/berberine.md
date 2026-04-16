@@ -14,7 +14,7 @@ permalink: /news/berberine/
 ---
 
 <p class="key-answer" data-question="Berberine 有什麼相關新聞？">
-<strong>Berberine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Berberine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/berberine/
 <p><a href="{{ '/drugs/berberine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [美國輪狀病毒疫情升溫，CDC警告嬰幼兒嘔吐腹瀉住院風險](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSXpKZThsSXNJM29Pb1ItZExTcVN2M3VzSDVvdUR3eXViaDdMMExybVdDMDFEdUFhdTdoNlVQYmFmcTR5U3I5eU5ibXI3ZTdMb21GdzE0SXFoT2xtUENZQ3BjemlQaTRkSnJDU0QtM0JYMUdBbDJFT3E1b1dIek5PT29lOWROdmNFTDk3LThVQmpQVEdnVllpMTJXMm9RaDRrRll2WWluVEZrNDcyNUFXem02cEIydWVhdWtwSlpxbGlfcFZPNHVNbkJmS2VkUFp6UjBRUFZiYTIwRkZYSDRF?oc=5)
+
+2026-04-16 <span class="news-indication-tag">腹瀉</span>
+
+來源：[Singtaousa](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSXpKZThsSXNJM29Pb1ItZExTcVN2M3VzSDVvdUR3eXViaDdMMExybVdDMDFEdUFhdTdoNlVQYmFmcTR5U3I5eU5ibXI3ZTdMb21GdzE0SXFoT2xtUENZQ3BjemlQaTRkSnJDU0QtM0JYMUdBbDJFT3E1b1dIek5PT29lOWROdmNFTDk3LThVQmpQVEdnVllpMTJXMm9RaDRrRll2WWluVEZrNDcyNUFXem02cEIydWVhdWtwSlpxbGlfcFZPNHVNbkJmS2VkUFp6UjBRUFZiYTIwRkZYSDRF?oc=5)
+
+---
 
 ### [上海癌症5年生存率達65.2% 新版惡性腫瘤篩查預防《推薦》發布](https://news.google.com/rss/articles/CBMicEFVX3lxTE9nenV3d2dWNzctdmFvTlNUSWtqUmtqakNUYWM4WWlnX2xjZ2ozZ3hMd1BWeGdnUGdlQXBJMEE0M1RaalJWbGRLbVd4aWdWUVp0QnVGRW1oRmNRS280WWVKUGd5QW0xN1FnaUg0LXJfU0s?oc=5)
 

@@ -1,8 +1,46 @@
 {
-  "last_updated": "2026-04-16T20:01:24.634375+00:00",
-  "total_count": 26,
-  "matched_count": 5,
+  "last_updated": "2026-04-16T21:36:10.809700+00:00",
+  "total_count": 27,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "e5d54429dc3e",
+      "title": "美國輪狀病毒疫情升溫，CDC警告嬰幼兒嘔吐腹瀉住院風險",
+      "published": "2026-04-16T20:38:12+00:00",
+      "summary": "美國輪狀病毒疫情升溫，CDC警告嬰幼兒嘔吐腹瀉住院風險&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSXpKZThsSXNJM29Pb1ItZExTcVN2M3VzSDVvdUR3eXViaDdMMExybVdDMDFEdUFhdTdoNlVQYmFmcTR5U3I5eU5ibXI3ZTdMb21GdzE0SXFoT2xtUENZQ3BjemlQaTRkSnJDU0QtM0JYMUdBbDJFT3E1b1dIek5PT29lOWROdmNFTDk3LThVQmpQVEdnVllpMTJXMm9RaDRrRll2WWluVEZrNDcyNUFXem02cEIydWVhdWtwSlpxbGlfcFZPNHVNbkJmS2VkUFp6UjBRUFZiYTIwRkZYSDRF?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cfc8e3e4493d",
+      "title": "衛生局舉行「蚊媒傳播疾病防控」新聞發佈會 籲居民提前準備及部署各項防蚊措施",
+      "published": "2026-04-16T15:19:25+00:00",
+      "summary": "衛生局舉行「蚊媒傳播疾病防控」新聞發佈會 籲居民提前準備及部署各項防蚊措施&nbsp;&nbsp;Exmoo衛生局與澳門電力有限公司合辦防蚊滅蚊講座 提升企業的蚊媒傳播疾病防控能力&nbsp;&nbsp;澳門特別行政區政府入口網站當局周末在全澳設十個“預防蚊媒傳染病社區諮詢站”助居民了解防蚊知識&nbsp;&nbsp;大衆報“雙熱”傳入風險增 衛生局籲提早防蚊&nbsp;&nbsp;澳門廣播電視股份有限公司臨近夏季蚊蟲活躍 當局賦能企業防“雙熱”&nbsp;&nbsp;澳門廣播電視股份有限公司",
+      "sources": [
+        {
+          "name": "Exmoo",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zWU1TalVpLXZxSElUck0tZ1llZ25iRFpCSk9SZWZZeC1BRkRfLVZjY0NacU5MRWl0Znlka3IwWFNJVVl3cHZib1IyWXY4azlPMDBZ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "5136f16b542b",
       "title": "【灣區新聞】舊金山有嬰兒旅行回國後確診麻疹 未接種疫苗（視頻）",
@@ -20,7 +58,7 @@
       "id": "c3a0a01d6cd6",
       "title": "麻疹｜39歲婦獨訪印尼後中招 曾到東區醫院及東華東院 187人被列密切接觸者",
       "published": "2026-04-16T10:59:53+00:00",
-      "summary": "麻疹｜39歲婦獨訪印尼後中招 曾到東區醫院及東華東院 187人被列密切接觸者&nbsp;&nbsp;星島頭條前往 Google 新聞查看完整報導",
+      "summary": "麻疹｜39歲婦獨訪印尼後中招 曾到東區醫院及東華東院 187人被列密切接觸者&nbsp;&nbsp;星島頭條潛伏期到印尼39歲女子確診麻疹187人被列密切接觸者- 香港 - 香港文匯網&nbsp;&nbsp;香港文匯網麻疹｜外傭遊印尼後感染麻疹 與僱主同住北角城市花園 187人被列為密切接觸者&nbsp;&nbsp;香港經濟日報HKET39歲婦印尼返港後發燒出疹 求醫證染麻疹列輸入&nbsp;&nbsp;on.cc東網39歲女子感染麻疹潛伏期曾到印尼 187人列為密切接觸者&nbsp;&nbsp;香港電台新聞網",
       "sources": [
         {
           "name": "星島頭條",
@@ -642,19 +680,6 @@
       "matched_keywords": []
     },
     {
-      "id": "580392211efa",
-      "title": "當局周末在全澳設十個“預防蚊媒傳染病社區諮詢站”助居民了解防蚊知識",
-      "published": "2026-04-16T07:54:37+00:00",
-      "summary": "當局周末在全澳設十個“預防蚊媒傳染病社區諮詢站”助居民了解防蚊知識&nbsp;&nbsp;大衆報衛生局與澳門電力有限公司合辦防蚊滅蚊講座 提升企業的蚊媒傳播疾病防控能力&nbsp;&nbsp;澳門特別行政區政府入口網站衛生局舉行「蚊媒傳播疾病防控」新聞發佈會 籲居民提前準備及部署各項防蚊措施&nbsp;&nbsp;Exmoo“雙熱”傳入風險增 衛生局籲提早防蚊&nbsp;&nbsp;澳門廣播電視股份有限公司臨近夏季蚊蟲活躍 當局賦能企業防“雙熱”&nbsp;&nbsp;澳門廣播電視股份有限公司",
-      "sources": [
-        {
-          "name": "大衆報",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5la2JlSXZlU1NEc1VXLXBzS2FiTjNseVVKTkdSdU1jTE5fdVVuTWV5ZzhGN0VDemlSZ1JKMUFIT2JYR1Nsc1NacVBITmFsTWJxREJ5YlZn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "5200126253d2",
       "title": "中慧生物(02627)指三價流感疫苗慧爾康欣3加速全國招補標進程 - Yahoo 財經",
       "published": "2026-04-16T05:12:51+00:00",
@@ -671,7 +696,7 @@
       "id": "286ac33f1265",
       "title": "超級細菌「鮑氏不動桿菌」致死率逾三成 中山大學團隊破解防護密碼",
       "published": "2026-04-16T04:16:35+00:00",
-      "summary": "超級細菌「鮑氏不動桿菌」致死率逾三成 中山大學團隊破解防護密碼&nbsp;&nbsp;聯合新聞網中山大學研究超級細菌助攻疫苗與替代療法研發| 生活&nbsp;&nbsp;中央社 CNA突破超級細菌鎧甲 中山大學揪出致病「開關」&nbsp;&nbsp;DIGITIMES破解超級細菌「防彈衣」密碼！中山大學突破新療法&nbsp;&nbsp;PChome Online 新聞疫苗設計見曙光！中山大學研究首揭超級細菌發炎開關&nbsp;&nbsp;Yahoo新聞",
+      "summary": "超級細菌「鮑氏不動桿菌」致死率逾三成 中山大學團隊破解防護密碼&nbsp;&nbsp;聯合新聞網中山大學研究超級細菌助攻疫苗與替代療法研發| 生活&nbsp;&nbsp;中央社 CNA突破超級細菌鎧甲 中山大學揪出致病「開關」&nbsp;&nbsp;DIGITIMES破解超級細菌「化學開關」 中山大學突破新療法 | 青年日報&nbsp;&nbsp;LINE TODAY破解超級細菌「防彈衣」 中山大學找出鮑氏不動桿菌弱點&nbsp;&nbsp;大紀元新聞網",
       "sources": [
         {
           "name": "聯合新聞網",
@@ -992,13 +1017,13 @@
       "matched_keywords": []
     },
     {
-      "id": "e2d10f85d9c2",
+      "id": "c99eb5b2d8f7",
       "title": "研究揭維生素D水平或與失智症風險關聯！全球60% 人口不足引發醫界關注",
       "published": "2026-04-15T01:20:14+00:00",
-      "summary": "研究揭維生素D水平或與失智症風險關聯！全球60% 人口不足引發醫界關注&nbsp;&nbsp;bastillepost.com",
+      "summary": "研究揭維生素D水平或與失智症風險關聯！全球60% 人口不足引發醫界關注&nbsp;&nbsp;巴士的報飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎&nbsp;&nbsp;祝你健康防失智，請多曬太陽？16年追蹤研究：30至40歲是黃金預防期&nbsp;&nbsp;Yahoo新聞陽光維他命D，能幫助中風病患復原得較好嗎？&nbsp;&nbsp;careonline.com.tw陽光充足仍恐維生素D不足 醫揭吸收誤區與實用補充建議&nbsp;&nbsp;獨家報導",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNVnQ0YTFaZ0VxOTVlS3hGUTBrR0x2NEFmNGtuOGIyamFySFp1WU5YSFBSaHBKbm1LOGEyWndHUURTVGNSZjdJYWwzWHotOUtWcEVMeTg3b0NTS0c1YkU0c1FhcW0wNWtHU2NNdF9EUU9Pb2RSMGhsdXZqZzR1bkZwNUJGdnZMRGRTcFQyUEwxTW5ibGVIUC11WFpvaTZwMjUwMzRVaEs5R3NUdWJmbkpaSkY3RS1KWTNzUVlpemNDOElOYWtNY1ZkQjZlYWVvMFdUMGp2R3hDUDZ0Nl9LZC1YbGdvT3RyRjVuNjJUUDhKenpaS2U1dW9QOHdRY3JIdzgyU3lvZktzOU5HdFZSVmNaSEd1SjdWdHI0bHNQUlN2X20zWmh6MmFQVkdhc0RBMjlTYU1yd0ZzMGRMZFhxcGhkQXJ3a3pKUzRhWHRPQlBINGV6MjRLTXRSUFVtR181SXRrc0VHMDVB?oc=5"
         }
       ],
@@ -1022,6 +1047,21 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
             }
           ]
         }
@@ -1057,7 +1097,7 @@
       "id": "50d344e03da6",
       "title": "撕下單純「瘦身針」標籤，最新研究：替爾泊肽能活化棕色脂肪加速燃脂 - TechNews 科技新報",
       "published": "2026-04-11T16:01:19+00:00",
-      "summary": "撕下單純「瘦身針」標籤，最新研究：替爾泊肽能活化棕色脂肪加速燃脂&nbsp;&nbsp;TechNews 科技新報威斯康辛大學研究揭燃燒卡路里分子機制 望開拓肥胖糖尿病新療法&nbsp;&nbsp;蕃新聞科學家發現關鍵蛋白質 有望將棕色脂肪變成「燃脂引擎」&nbsp;&nbsp;經濟日報撕下單純「瘦身針」標籤，最新研究：替爾泊肽能活化棕色脂肪加速燃脂- 股市爆料同學會&nbsp;&nbsp;CMoney",
+      "summary": "撕下單純「瘦身針」標籤，最新研究：替爾泊肽能活化棕色脂肪加速燃脂&nbsp;&nbsp;TechNews 科技新報威斯康辛大學研究揭燃燒卡路里分子機制 望開拓肥胖糖尿病新療法&nbsp;&nbsp;蕃新聞科學家發現關鍵蛋白質 有望將棕色脂肪變成「燃脂引擎」 | 生活 | 要聞&nbsp;&nbsp;經濟日報撕下單純「瘦身針」標籤，最新研究：替爾泊肽能活化棕色脂肪加速燃脂- 股市爆料同學會&nbsp;&nbsp;CMoney",
       "sources": [
         {
           "name": "TechNews 科技新報",
