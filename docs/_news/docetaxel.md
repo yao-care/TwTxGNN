@@ -14,7 +14,7 @@ permalink: /news/docetaxel/
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Docetaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/docetaxel/
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [對抗肺癌兼治肌肉萎縮！美開發雙效奈米療法 動物實驗現曙光](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fa2lmck1mZ1kxbVBnMDdyNVpOTmxqbFcwM3NIZG9OUEl1MUszejFVdHh3N09CYk94Z2dzbU9QWGVMSkRLTGh6RUpyYmpHa1B2NC1weDJFSWlaUjUtWTF5by1CckLSAWpBVV95cUxOSmVod0NKQ2ZjcEpiZ1RtNElWSldVVnl4WFNvUkNmdHZubkhvUE9Eb2ZSVndqbmE3dW0yQWROUVdxM0ZoZmZNV0lRNlBuUHU2QUpDYktXV2dYdk5yVGNVWjk4MDd4eEJPcDhn?oc=5)
 
 2026-04-14 <span class="news-indication-tag">肺癌</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fa2lmck1mZ1kxbVBnMDdyNVpOTmxqbFcwM3NIZG9OUEl1MUszejFVdHh3N09CYk94Z2dzbU9QWGVMSkRLTGh6RUpyYmpHa1B2NC1weDJFSWlaUjUtWTF5by1CckLSAWpBVV95cUxOSmVod0NKQ2ZjcEpiZ1RtNElWSldVVnl4WFNvUkNmdHZubkhvUE9Eb2ZSVndqbmE3dW0yQWROUVdxM0ZoZmZNV0lRNlBuUHU2QUpDYktXV2dYdk5yVGNVWjk4MDd4eEJPcDhn?oc=5)
-
----
-
-### [研究發現，新發貧血與較高的癌症風險和死亡有關。](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNT2Z3NHZmcmk2M3hsN0xiUVdiajY1Y3RqeHpCdTIybmhhVW93WV9vTG01MlA4S1NURlpjWVU0b0JXcFVkQTQ5UnBsWHJ3NG5XdVlDMVBKWWRUdXlmUzJZdmd2RWE5NXJ6d1hwYkhINHhTcXNOQmVUQWVSd25YbjltYkdad1VPbnR0Q3BDM1E5RnRnT1pZV0otWUgtQlI0Z0s5ZG9RbUhmbXpaeHoxYXF6ZFhUMVpvZ25mQVZURi0yTE5xV1dqdmd4bTM3UmhpYVl3Z29TREROeGJOTUF6YU5GaEtTYTVGTEQ3aW1BRW9jZXVTTXlCOUhDaWVpNVlPczRYU1Rka3FPV1JLbkc0eW9SVXlINWxNTko0LV94bWMtTDQ2UVViajN0Nmx0bWhqRC1aaGJGQWo4cUF0Nnl4a2otaXcwZjluZ1FBcTFJOXdZWk9qOG9uSmxMeW5zR25iVUhLYk9LWEhR?oc=5)
-
-2026-04-14 <span class="news-indication-tag">癌症</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNT2Z3NHZmcmk2M3hsN0xiUVdiajY1Y3RqeHpCdTIybmhhVW93WV9vTG01MlA4S1NURlpjWVU0b0JXcFVkQTQ5UnBsWHJ3NG5XdVlDMVBKWWRUdXlmUzJZdmd2RWE5NXJ6d1hwYkhINHhTcXNOQmVUQWVSd25YbjltYkdad1VPbnR0Q3BDM1E5RnRnT1pZV0otWUgtQlI0Z0s5ZG9RbUhmbXpaeHoxYXF6ZFhUMVpvZ25mQVZURi0yTE5xV1dqdmd4bTM3UmhpYVl3Z29TREROeGJOTUF6YU5GaEtTYTVGTEQ3aW1BRW9jZXVTTXlCOUhDaWVpNVlPczRYU1Rka3FPV1JLbkc0eW9SVXlINWxNTko0LV94bWMtTDQ2UVViajN0Nmx0bWhqRC1aaGJGQWo4cUF0Nnl4a2otaXcwZjluZ1FBcTFJOXdZWk9qOG9uSmxMeW5zR25iVUhLYk9LWEhR?oc=5)
 
 ---
 

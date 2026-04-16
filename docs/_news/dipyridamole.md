@@ -46,7 +46,7 @@ permalink: /news/dipyridamole/
 
 ### [腎臟健康靠吃出來！營養師推薦9大護腎食物，維持腎功能、降低洗腎風險 - Harper's BAZAAR](https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0licS0ydUJwbjBQYm9hQ3NlVnZuLU1DZVJ6bG9vaWxacDE4ckxHcTJmUU9QYmlJakU4aHVOeXBaaDIzbmNhcTVBbmkwLVliT0o1X0FDd0hfOUxyUUd0OUlGOXVTY0RPWEJqdXVoOEQxcWNBRzMzTXlEQkIteVJmaExLQW80UXJmOXZUS2RSeUV2d0VLYWhkeS12MA?oc=5)
 
-2026-04-15 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
+2026-04-15 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
 
 來源：[Harper's BAZAAR](https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0licS0ydUJwbjBQYm9hQ3NlVnZuLU1DZVJ6bG9vaWxacDE4ckxHcTJmUU9QYmlJakU4aHVOeXBaaDIzbmNhcTVBbmkwLVliT0o1X0FDd0hfOUxyUUd0OUlGOXVTY0RPWEJqdXVoOEQxcWNBRzMzTXlEQkIteVJmaExLQW80UXJmOXZUS2RSeUV2d0VLYWhkeS12MA?oc=5)
 
@@ -64,7 +64,7 @@ permalink: /news/dipyridamole/
 
 2026-04-15 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
 
-來源：[巴士的報](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNVnQ0YTFaZ0VxOTVlS3hGUTBrR0x2NEFmNGtuOGIyamFySFp1WU5YSFBSaHBKbm1LOGEyWndHUURTVGNSZjdJYWwzWHotOUtWcEVMeTg3b0NTS0c1YkU0c1FhcW0wNWtHU2NNdF9EUU9Pb2RSMGhsdXZqZzR1bkZwNUJGdnZMRGRTcFQyUEwxTW5ibGVIUC11WFpvaTZwMjUwMzRVaEs5R3NUdWJmbkpaSkY3RS1KWTNzUVlpemNDOElOYWtNY1ZkQjZlYWVvMFdUMGp2R3hDUDZ0Nl9LZC1YbGdvT3RyRjVuNjJUUDhKenpaS2U1dW9QOHdRY3JIdzgyU3lvZktzOU5HdFZSVmNaSEd1SjdWdHI0bHNQUlN2X20zWmh6MmFQVkdhc0RBMjlTYU1yd0ZzMGRMZFhxcGhkQXJ3a3pKUzRhWHRPQlBINGV6MjRLTXRSUFVtR181SXRrc0VHMDVB?oc=5)
+來源：[bastillepost.com](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNVnQ0YTFaZ0VxOTVlS3hGUTBrR0x2NEFmNGtuOGIyamFySFp1WU5YSFBSaHBKbm1LOGEyWndHUURTVGNSZjdJYWwzWHotOUtWcEVMeTg3b0NTS0c1YkU0c1FhcW0wNWtHU2NNdF9EUU9Pb2RSMGhsdXZqZzR1bkZwNUJGdnZMRGRTcFQyUEwxTW5ibGVIUC11WFpvaTZwMjUwMzRVaEs5R3NUdWJmbkpaSkY3RS1KWTNzUVlpemNDOElOYWtNY1ZkQjZlYWVvMFdUMGp2R3hDUDZ0Nl9LZC1YbGdvT3RyRjVuNjJUUDhKenpaS2U1dW9QOHdRY3JIdzgyU3lvZktzOU5HdFZSVmNaSEd1SjdWdHI0bHNQUlN2X20zWmh6MmFQVkdhc0RBMjlTYU1yd0ZzMGRMZFhxcGhkQXJ3a3pKUzRhWHRPQlBINGV6MjRLTXRSUFVtR181SXRrc0VHMDVB?oc=5)
 
 ---
 

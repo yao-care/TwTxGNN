@@ -46,7 +46,7 @@ permalink: /news/isosorbide_dinitrate/
 
 ### [腎臟健康靠吃出來！營養師推薦9大護腎食物，維持腎功能、降低洗腎風險 - Harper's BAZAAR](https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0licS0ydUJwbjBQYm9hQ3NlVnZuLU1DZVJ6bG9vaWxacDE4ckxHcTJmUU9QYmlJakU4aHVOeXBaaDIzbmNhcTVBbmkwLVliT0o1X0FDd0hfOUxyUUd0OUlGOXVTY0RPWEJqdXVoOEQxcWNBRzMzTXlEQkIteVJmaExLQW80UXJmOXZUS2RSeUV2d0VLYWhkeS12MA?oc=5)
 
-2026-04-15 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
+2026-04-15 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
 
 來源：[Harper's BAZAAR](https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0licS0ydUJwbjBQYm9hQ3NlVnZuLU1DZVJ6bG9vaWxacDE4ckxHcTJmUU9QYmlJakU4aHVOeXBaaDIzbmNhcTVBbmkwLVliT0o1X0FDd0hfOUxyUUd0OUlGOXVTY0RPWEJqdXVoOEQxcWNBRzMzTXlEQkIteVJmaExLQW80UXJmOXZUS2RSeUV2d0VLYWhkeS12MA?oc=5)
 

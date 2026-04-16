@@ -14,7 +14,7 @@ permalink: /news/dehydrocholic_acid/
 ---
 
 <p class="key-answer" data-question="Dehydrocholic acid 有什麼相關新聞？">
-<strong>Dehydrocholic acid</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dehydrocholic acid</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/dehydrocholic_acid/
 <p><a href="{{ '/drugs/dehydrocholic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [2026 年世界肝臟日：您的糖尿病是一場無聲的危機嗎？ 《柳葉刀》稱每20 名印度人中就有1 人患有隱性肝硬化](https://news.google.com/rss/articles/CBMi4AJBVV95cUxNa3ZjMVFObmdsbEhnWjVyMThZUUNEaDdKY1QyZjJQYy13MEhGOU9IYUFPMWxhNjRvS1RuMDYyZGJ1WG1jbERpalV5cWUyLVVMaXRSbG5WbkRxQUgxV2dRVVlyN1laWEoyNUc4UVlCMWhRUzNJQ0pWQUk4dkdfbjZSNVZaN1Ytb1FnUjdJRkRId1UwcXVrQW9JdTh2M3d2VjJzMF96c1lDU2tsQ1E3YXRucGtCZEhsb0ZJaHFNTkwtMFExMzZLT3piNnVUU294eHJOamJSV1lodDF3RjRCdUdDTEtUQjFjT181WXd5Z083MjJRR2RBN2NCU1lyd25SeHl1eWVkcUxwYXMwSVpPcEhOVTNGNjhHWFZRc0pNU1FRbFVWNGVtRXdpNzc3YUh2WVhZQ0FuaWw4T1gwR0R3N2hDajlzbGQzZHNlQVVCSWNjVVBqd29UTHdFZnJHdkVsYTlq?oc=5)
 
 2026-04-15 <span class="news-indication-tag">肝硬化</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi4AJBVV95cUxNa3ZjMVFObmdsbEhnWjVyMThZUUNEaDdKY1QyZjJQYy13MEhGOU9IYUFPMWxhNjRvS1RuMDYyZGJ1WG1jbERpalV5cWUyLVVMaXRSbG5WbkRxQUgxV2dRVVlyN1laWEoyNUc4UVlCMWhRUzNJQ0pWQUk4dkdfbjZSNVZaN1Ytb1FnUjdJRkRId1UwcXVrQW9JdTh2M3d2VjJzMF96c1lDU2tsQ1E3YXRucGtCZEhsb0ZJaHFNTkwtMFExMzZLT3piNnVUU294eHJOamJSV1lodDF3RjRCdUdDTEtUQjFjT181WXd5Z083MjJRR2RBN2NCU1lyd25SeHl1eWVkcUxwYXMwSVpPcEhOVTNGNjhHWFZRc0pNU1FRbFVWNGVtRXdpNzc3YUh2WVhZQ0FuaWw4T1gwR0R3N2hDajlzbGQzZHNlQVVCSWNjVVBqd29UTHdFZnJHdkVsYTlq?oc=5)
-
----
-
-### [研究發現，新發貧血與較高的癌症風險和死亡有關。](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNT2Z3NHZmcmk2M3hsN0xiUVdiajY1Y3RqeHpCdTIybmhhVW93WV9vTG01MlA4S1NURlpjWVU0b0JXcFVkQTQ5UnBsWHJ3NG5XdVlDMVBKWWRUdXlmUzJZdmd2RWE5NXJ6d1hwYkhINHhTcXNOQmVUQWVSd25YbjltYkdad1VPbnR0Q3BDM1E5RnRnT1pZV0otWUgtQlI0Z0s5ZG9RbUhmbXpaeHoxYXF6ZFhUMVpvZ25mQVZURi0yTE5xV1dqdmd4bTM3UmhpYVl3Z29TREROeGJOTUF6YU5GaEtTYTVGTEQ3aW1BRW9jZXVTTXlCOUhDaWVpNVlPczRYU1Rka3FPV1JLbkc0eW9SVXlINWxNTko0LV94bWMtTDQ2UVViajN0Nmx0bWhqRC1aaGJGQWo4cUF0Nnl4a2otaXcwZjluZ1FBcTFJOXdZWk9qOG9uSmxMeW5zR25iVUhLYk9LWEhR?oc=5)
-
-2026-04-14 <span class="news-indication-tag">癌症</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNT2Z3NHZmcmk2M3hsN0xiUVdiajY1Y3RqeHpCdTIybmhhVW93WV9vTG01MlA4S1NURlpjWVU0b0JXcFVkQTQ5UnBsWHJ3NG5XdVlDMVBKWWRUdXlmUzJZdmd2RWE5NXJ6d1hwYkhINHhTcXNOQmVUQWVSd25YbjltYkdad1VPbnR0Q3BDM1E5RnRnT1pZV0otWUgtQlI0Z0s5ZG9RbUhmbXpaeHoxYXF6ZFhUMVpvZ25mQVZURi0yTE5xV1dqdmd4bTM3UmhpYVl3Z29TREROeGJOTUF6YU5GaEtTYTVGTEQ3aW1BRW9jZXVTTXlCOUhDaWVpNVlPczRYU1Rka3FPV1JLbkc0eW9SVXlINWxNTko0LV94bWMtTDQ2UVViajN0Nmx0bWhqRC1aaGJGQWo4cUF0Nnl4a2otaXcwZjluZ1FBcTFJOXdZWk9qOG9uSmxMeW5zR25iVUhLYk9LWEhR?oc=5)
 
 ---
 

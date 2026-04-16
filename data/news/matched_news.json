@@ -1,8 +1,73 @@
 {
-  "last_updated": "2026-04-16T01:52:15.244370+00:00",
-  "total_count": 31,
-  "matched_count": 9,
+  "last_updated": "2026-04-16T04:46:00.050545+00:00",
+  "total_count": 34,
+  "matched_count": 7,
   "news": [
+    {
+      "id": "1ff5dc13660f",
+      "title": "中慧生物(02627)指三價流感疫苗慧爾康欣3加速全國招補標進程",
+      "published": "2026-04-16T04:31:00+00:00",
+      "summary": "中慧生物(02627)指三價流感疫苗慧爾康欣3加速全國招補標進程&nbsp;&nbsp;AASTOCKS.com",
+      "sources": [
+        {
+          "name": "AASTOCKS.com",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSHRQN0E3RWw5UHctSGN6a0FCTkIxRkdtY09JRWIxckc3MDdrZnZRZ053Tml5UXNqSl9EMXdXWGZWenUyUmY2MDBiM1AtYWlPMzVSa1RwSGZEb3U3dDhQeWQtS29mY1pIaG1BUmJzWnhKYlNMVlg2MDBjVFlmTmZuZE5MVnE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3f7043bdd640",
+      "title": "超級細菌「鮑氏不動桿菌」致死率逾三成 中山大學團隊破解防護密碼",
+      "published": "2026-04-16T04:16:35+00:00",
+      "summary": "超級細菌「鮑氏不動桿菌」致死率逾三成 中山大學團隊破解防護密碼&nbsp;&nbsp;聯合新聞網",
+      "sources": [
+        {
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwX1J1dXRTeDRTRnliSFdUdFZXM1UtdnpLZEwzaWgyRzROc08tMFJ2ek1HLVA2SWlzOFRKVEI4dVB3OUhfR0UyMVFiZ2xFUDFm?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "319131789a18",
+      "title": "疫情警告：ETHealthworld 帕拉穆區確診麻疹病例",
+      "published": "2026-04-16T03:44:56+00:00",
+      "summary": "疫情警告：ETHealthworld 帕拉穆區確診麻疹病例&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPUXZXd1hLUTdqMjlRdFdqcGNOdTBxV19nLW52XzBxeGJSSHpFQmtrSVBIRjg2MGVVTTZDdEVCN1lzUko3Z3VOWFlVcFdtRVd1dWhyMThoNllLRUkxQTU1Wk5wcDdyMFVraTFpaF9NTG5IcDJMWGRoWkhETURrQS10NVlvWklnVzZ0ZEE4aWhQM2FwSVdvcXZzYTdwYlVzNGd5UHVTSFpRQUZfYnhvRW5pOGVGNV9MVHhCQnpPb2ZBdGowYWlyNThVLTBWbG1FMGI2OTFWcEhfRU5tRVh4QnQzSEt3bDFRcWZXNVVfQlRYcldPR1BfQUstSzRPa0RRT3dvejdBcHFXbTJ1akxVZ05WdW51dkc4dDk2QkQzbnhIQk54TUtt?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1c095bc662b5",
+      "title": "「卵巢透明亮細胞癌」致癌關鍵BMAL2 有望成新型治療靶點",
+      "published": "2026-04-16T03:37:51+00:00",
+      "summary": "「卵巢透明亮細胞癌」致癌關鍵BMAL2 有望成新型治療靶點&nbsp;&nbsp;sinica.edu.tw",
+      "sources": [
+        {
+          "name": "sinica.edu.tw",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZZnNlSGNHUU5GV0ZNbEJMUjdfZGJPRGtycFBEZDBFU0piUV9qYmJvVmE2RktnZWQwRDVubWdhb01fNTZ3VDBaNXpKX2U3dm9DWDFvUkVPOVZsZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "26b88142269b",
+      "title": "屯門碼頭變「爆旋陀螺」夜戰區 網民 : 健康過屋企打機",
+      "published": "2026-04-16T03:17:00+00:00",
+      "summary": "屯門碼頭變「爆旋陀螺」夜戰區 網民 : 健康過屋企打機&nbsp;&nbsp;東周刊",
+      "sources": [
+        {
+          "name": "東周刊",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOa29KVnRGQzB3aW95MmZVWkhZcDQwd1Axc1lVS3JMODRVTjM5RkZsTlBHVGdJMHpOWFZiUmplRER1S3ZoX25TWU5XdzRxZVJ1bC1VMmg2bW5HcWNoTHgxWWRUUnN5by1vQUJVRGVMOTNFcXdQWnNrUkZFT1gxWlZYR3oxbnpLNVBOWkVHNExEcmpLcVRWSGVlY1IzWFo4Y0tDazZZQnQ2ODdJNk5VSGs3eUpWS0ZQeFNSY1JVVW9yMjFfOXpVeWU1Y2c4TVR2RlBBQldUci1sQUxhNVFIN09iZkJwaVp1dndSVmtwSnBQQk1yeGh4OC1lZVQ1amt5YkR2bHd3cGRpSnRCT2ttci1MeTV5X3FWaEtwTmQ1VW9VaGs5ekphRE9wY01BdTNfSW9Va0ZRTnBMNWR1OFo5NVJMb3JScGxHeUp0dnoxRVhlSHZvVnA1NERXWQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "1f382486554c",
       "title": "MIT 研製室溫量子感測器 可同時量度多個參數 - Techritual Hong Kong",
@@ -20,7 +85,7 @@
       "id": "b508f6ed4143",
       "title": "全球爆麻疹 外遊應小心 新冠疫情+地緣政治 免疫缺口崩潰",
       "published": "2026-04-15T18:08:56+00:00",
-      "summary": "全球爆麻疹 外遊應小心 新冠疫情+地緣政治 免疫缺口崩潰&nbsp;&nbsp;信報網站孟加拉麻疹逾百童死 港衞生署籲外遊前檢查疫苗紀錄&nbsp;&nbsp;hkcna.hk麻疹疫情致百童死亡 孟加拉急推疫苗接種&nbsp;&nbsp;大紀元新聞網多地麻疹持續 衛生局籲加強注意防範&nbsp;&nbsp;澳門廣播電視股份有限公司孟加拉的麻疹疫情迅速蔓延 當局啟動緊急疫苗接種計劃&nbsp;&nbsp;香港電台新聞網",
+      "summary": "全球爆麻疹 外遊應小心 新冠疫情+地緣政治 免疫缺口崩潰&nbsp;&nbsp;信報網站多地麻疹持續 衛生局籲加強注意防範&nbsp;&nbsp;澳門廣播電視股份有限公司孟加拉麻疹逾百童死 港衞生署籲外遊前檢查疫苗紀錄&nbsp;&nbsp;hkcna.hk孟加拉的麻疹疫情迅速蔓延 當局啟動緊急疫苗接種計劃&nbsp;&nbsp;香港電台新聞網3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "信報網站",
@@ -33,7 +98,7 @@
       "id": "e2627394bc0c",
       "title": "腎臟健康靠吃出來！營養師推薦9大護腎食物，維持腎功能、降低洗腎風險 - Harper's BAZAAR",
       "published": "2026-04-15T11:07:09+00:00",
-      "summary": "腎臟健康靠吃出來！營養師推薦9大護腎食物，維持腎功能、降低洗腎風險&nbsp;&nbsp;Harper's BAZAAR權威醫學期刊證實：每日兩湯匙橄欖油 降心臟病、護肝風險達三成&nbsp;&nbsp;墨新聞-MORE News腎友注意！日吃1款保健品 中風風險降43%&nbsp;&nbsp;鏡週刊Mirror Media腎友快看！2026新研究：補充「1營養品」心血管風險大減43%&nbsp;&nbsp;TVBS新聞網腎不好更要吃 研究曝日服1保健品：中風心梗狂降43％&nbsp;&nbsp;中時新聞網",
+      "summary": "腎臟健康靠吃出來！營養師推薦9大護腎食物，維持腎功能、降低洗腎風險&nbsp;&nbsp;Harper's BAZAAR腎友注意！日吃1款保健品 中風風險降43%&nbsp;&nbsp;鏡週刊Mirror Media腎友快看！2026新研究：補充「1營養品」心血管風險大減43%&nbsp;&nbsp;TVBS新聞網腎不好更要吃 研究曝日服1保健品：中風心梗狂降43％&nbsp;&nbsp;中時新聞網護腎關鍵找到了！最新研究：掌握「1飲食法」有效降低洗腎風險&nbsp;&nbsp;Harper's BAZAAR",
       "sources": [
         {
           "name": "Harper's BAZAAR",
@@ -49,65 +114,6 @@
             {
               "slug": "isosorbide_dinitrate",
               "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
             }
           ]
         },
@@ -283,6 +289,19 @@
       ]
     },
     {
+      "id": "0fb30c20b74f",
+      "title": "四肢纖瘦但有小腹？專家大推每日1分鐘呼吸練習鍛煉深層腹肌收小肚腩| 事事如意生活網站",
+      "published": "2026-04-15T10:00:45+00:00",
+      "summary": "四肢纖瘦但有小腹？專家大推每日1分鐘呼吸練習鍛煉深層腹肌收小肚腩| 事事如意生活網站&nbsp;&nbsp;CCUE.ca",
+      "sources": [
+        {
+          "name": "CCUE.ca",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNaEQxbmNJdjVhdE5keUN2c1E0OVdVQ3V1cGdiLVUzMHpMZUgxSkFnQ0FfaWxwaVdsb25EMEw1dFFrLXZWQjhzUEs5eHlncndlMmVKdlRHVWhOendWRU4xM2RvYXVnME5MckxTWkcyNHoxbm5zVjdJeFlDa1hzamZTYllHdHpQVE1DWTRjeFlRUTl3NXV6MW41TUlOOHJHWDRRajFTLWhGUEo4QVRKcElpZjhmcEZXbG9jQVFKMHNkOWRsak9UcTN5VTB0NFVXbDJPcWt0MzF6SGppT0hrNXJBeXlOVUM3ZWlVeEgzLVJoWS1ZVGFMeFNsSE5JTmdPVDd0Y21NN3c5dVJ0ZkYyX2tfd204YUpOT1BwZUkwQ1dlRGt5VDV2NUpvcTZobFhCdjc3R1RjWUZSVUtYVUxzeGpyLUZ5eUJKUXhPMWZWUDFjMU1EVjRHR3JXWWV4X0ZXOGdm?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "0fb288e0b0cc",
       "title": "一生堅持這樣做可以將阿茲海默症的風險降低38%。",
       "published": "2026-04-15T08:59:51+00:00",
@@ -398,13 +417,13 @@
       "matched_keywords": []
     },
     {
-      "id": "c99eb5b2d8f7",
+      "id": "e2d10f85d9c2",
       "title": "研究揭維生素D水平或與失智症風險關聯！全球60% 人口不足引發醫界關注",
       "published": "2026-04-15T01:20:14+00:00",
-      "summary": "研究揭維生素D水平或與失智症風險關聯！全球60% 人口不足引發醫界關注&nbsp;&nbsp;巴士的報防失智，請多曬太陽？16年追蹤研究：30至40歲是黃金預防期&nbsp;&nbsp;遠見雜誌陽光維他命D，能幫助中風病患復原得較好嗎？&nbsp;&nbsp;careonline.com.tw腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關&nbsp;&nbsp;科技島全球6成人缺乏這種維生素中年就開始影響恐牽動失智風險- 國際&nbsp;&nbsp;中時新聞網",
+      "summary": "研究揭維生素D水平或與失智症風險關聯！全球60% 人口不足引發醫界關注&nbsp;&nbsp;bastillepost.com防失智，請多曬太陽？16年追蹤研究：30至40歲是黃金預防期&nbsp;&nbsp;遠見雜誌陽光維他命D，能幫助中風病患復原得較好嗎？&nbsp;&nbsp;careonline.com.tw腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關&nbsp;&nbsp;科技島全球6成人缺乏這種維生素中年就開始影響恐牽動失智風險- 國際&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNVnQ0YTFaZ0VxOTVlS3hGUTBrR0x2NEFmNGtuOGIyamFySFp1WU5YSFBSaHBKbm1LOGEyWndHUURTVGNSZjdJYWwzWHotOUtWcEVMeTg3b0NTS0c1YkU0c1FhcW0wNWtHU2NNdF9EUU9Pb2RSMGhsdXZqZzR1bkZwNUJGdnZMRGRTcFQyUEwxTW5ibGVIUC11WFpvaTZwMjUwMzRVaEs5R3NUdWJmbkpaSkY3RS1KWTNzUVlpemNDOElOYWtNY1ZkQjZlYWVvMFdUMGp2R3hDUDZ0Nl9LZC1YbGdvT3RyRjVuNjJUUDhKenpaS2U1dW9QOHdRY3JIdzgyU3lvZktzOU5HdFZSVmNaSEd1SjdWdHI0bHNQUlN2X20zWmh6MmFQVkdhc0RBMjlTYU1yd0ZzMGRMZFhxcGhkQXJ3a3pKUzRhWHRPQlBINGV6MjRLTXRSUFVtR181SXRrc0VHMDVB?oc=5"
         }
       ],
@@ -514,6 +533,19 @@
       "matched_keywords": []
     },
     {
+      "id": "e3db3957e111",
+      "title": "壓力大就想吃甜食？研究：看窗外綠地30秒，有助「阻斷」大腦暴食衝動",
+      "published": "2026-04-14T11:45:00+00:00",
+      "summary": "壓力大就想吃甜食？研究：看窗外綠地30秒，有助「阻斷」大腦暴食衝動&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQV0dVcV85aUVJZEI4RHVvLWkyc05iTTRBNGgzb0wtc0VFYkR6MGVETk1yRTdrVDlYVEdQbnVWc1ZBU01SVTlocUZZZTBIM25oLWhsT0RyaHRZTEhqQko5ZGVIa2hTSVc3cWl3cWtLVnZnRkRxVm12bmdKZjlOOThjOE5RTV9YY1ViYU9WeURrR1JWajFBNWE0Vnd1VThta3hpSUVlSUFpSVRmSDBEcVg0c1NIYVQzY1FuT2ZKektab1BocjFCbkFFWUxUaTVSTDBQWFo3UlpqeUsxRllpYzNBWTFfX3duVWVQd09CLWJ2S196OWpmSTByMU0zNEV5TXNKSklvcHNQdTlKTmRTU2lLY3R6X2tmaTVyaTZNVEw4ZVFiaXozRDVPWVhLblViUlgtdVYxdDVCdmxkSDNidEs2Ri1ienR2UUFSd1hn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "78ed83172124",
       "title": "健康網》3習慣讓你必中流感！ 醫警：愛摸臉也中",
       "published": "2026-04-14T10:15:00+00:00",
@@ -527,14 +559,14 @@
       "matched_keywords": []
     },
     {
-      "id": "f1bd6aa9de8d",
-      "title": "糖尿病藥吃了卻沒效？問題可能藏在每天吃的「這些食物」裡",
+      "id": "f445cfd24e1d",
+      "title": "高脂飲食破壞菌相！研究揭密：讓糖尿病藥物效果大打折扣",
       "published": "2026-04-14T08:52:23+00:00",
-      "summary": "糖尿病藥吃了卻沒效？問題可能藏在每天吃的「這些食物」裡&nbsp;&nbsp;中天新聞網",
+      "summary": "高脂飲食破壞菌相！研究揭密：讓糖尿病藥物效果大打折扣&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qb04tZFZrcFVGMDQ0ZGhOUlppUFZ6U3FBZjhhRW93Z0hpWS1lVEMya3ZKT1dTa2ZQZzRvQzc2M1VzN3hSX0RaUm40dDlza190eWdR?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQb1lzZ1NfUW53Tmxqd3JlcWRjLXBPeHJuYi1DOTJYb01rN1g0NTRjbnhDVVpjMWFkUTNzVXppdEdFckhPb09zOVBXQzZUUzR4Sjd2Mm9YQmZPWGgtN2xjazdOY2YyQm9VVDdyYTBRUXJXWVJwbUhyMFNTc1J6azJROFNyS2NHa2ZSaG1nWkxNMFp6aUdaWXM4Wnpmckpic2JNUkQtbGoxRUIydjhwWmFQelRELVVKMEcxanNtZVM0WkZVMHB5WFlEZlF4MmhzQldrQ1diRHp5NWU2MDYzLVpaWEdDZk5fNlp2QTlvdXlZdzg4Q2R0VGhjYzlhNmc2UHZIWTVEZ0pOZDdvb18xZ1hDRlNjOHVIam5rWWU5c1I5Qy1va3hoOXR6Smt0amlIaUNJV1VMSTNJMDBBZ1YyYnlRNDJPam9pTWY1YkI1SlFGbDQyVnFSSmMwQ2E2ekloQ3I1blNueThka2FMclR4TkNUdS02UFJyUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -623,266 +655,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "751378c45a3d",
-      "title": "精神分裂，等於多重人格？精神科專科醫生解釋診斷有兩個準則",
-      "published": "2026-04-14T03:42:35+00:00",
-      "summary": "精神分裂，等於多重人格？精神科專科醫生解釋診斷有兩個準則&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxNYmNjbFJtOFpzdFpPQkM0ZFRNQk0wWFI2Z09hMTlMRUtnZHE3VUtzUmZzT2FZb2s4ZC02dUV5T1JyRHRiU1VlN0RXUGV3cUs3b2lTdDJHdXZ1NWZKcmpUOUdQcndmWWc1LXNNSzZVQkV3eURYa2FKb1NXTGprZXhBMjAwbUFlS0pTbW5oOVRLNzFiMk4wQ3dtdXhYa1EyeThJV0RlMXNudGcxdkVlY01UdnNQNVZwVHJ5QnBJVnR1b2FYdGJULUdoeU1ZbXJyQ2dZUnVBclBBaXRzZVp0eXQtR1A4VmhGVUEzYkE0Qk1BT1ljSUNfYV80ck9aRVQwenppVF93OUVYZy1ja3FnMkVMS3NaajNFcnZjUlgzZXY2eTIzbThSZ3JyWkFxWUhMeExQMkhyUXctS21UVVoyWG9ERjJLTzN2UXUwaEcyM1B6NXpldTRaSkZ5SGR3SG5kelRhS19RLTJMUmlqSFNNZVNyZ05iVXY3SzBJaWJ2VXlPNFJWbF9NYmxpWVJyb2VmZHlHVzhzaFZiT2kzM25mQXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7be03f836ece",
-      "title": "她罹癌後從人際匿跡，不想談病、也不想被同情…學會沒有罪惡感的設立界線：重新定義2.0版自己",
-      "published": "2026-04-14T03:17:00+00:00",
-      "summary": "她罹癌後從人際匿跡，不想談病、也不想被同情…學會沒有罪惡感的設立界線：重新定義2.0版自己&nbsp;&nbsp;幸福熟齡",
-      "sources": [
-        {
-          "name": "幸福熟齡",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uM2VGMDlLTXB3MDFkSldUY042eHRZUWdGUjlnNmk2VUtDWVZHTTdfRjJNZldFSTVuMjFxNHVoUGxxN3EtUzhQOXc2eHdrM093dWRkcFIyQzcycGltVWFJbkh2eTJwMUJLSzV3b0RnTzJFeWdqTHFhbjVJVQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "78d7a43c7b43",
-      "title": "研究發現，新發貧血與較高的癌症風險和死亡有關。",
-      "published": "2026-04-14T03:13:14+00:00",
-      "summary": "研究發現，新發貧血與較高的癌症風險和死亡有關。&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNT2Z3NHZmcmk2M3hsN0xiUVdiajY1Y3RqeHpCdTIybmhhVW93WV9vTG01MlA4S1NURlpjWVU0b0JXcFVkQTQ5UnBsWHJ3NG5XdVlDMVBKWWRUdXlmUzJZdmd2RWE5NXJ6d1hwYkhINHhTcXNOQmVUQWVSd25YbjltYkdad1VPbnR0Q3BDM1E5RnRnT1pZV0otWUgtQlI0Z0s5ZG9RbUhmbXpaeHoxYXF6ZFhUMVpvZ25mQVZURi0yTE5xV1dqdmd4bTM3UmhpYVl3Z29TREROeGJOTUF6YU5GaEtTYTVGTEQ3aW1BRW9jZXVTTXlCOUhDaWVpNVlPczRYU1Rka3FPV1JLbkc0eW9SVXlINWxNTko0LV94bWMtTDQ2UVViajN0Nmx0bWhqRC1aaGJGQWo4cUF0Nnl4a2otaXcwZjluZ1FBcTFJOXdZWk9qOG9uSmxMeW5zR25iVUhLYk9LWEhR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0d8f35b59bee",
-      "title": "國產癲癇創新藥為腦電活動裝“剎車”",
-      "published": "2026-04-14T01:26:11+00:00",
-      "summary": "國產癲癇創新藥為腦電活動裝“剎車”&nbsp;&nbsp;紫荊網癲癇基因療法展突破 卓飛症候群病患發作率大降逾八成&nbsp;&nbsp;蕃新聞陸「藥物難治性癲癇」治療研究突破 新藥獲中美雙臨床試驗批准&nbsp;&nbsp;ETtoday新聞雲",
-      "sources": [
-        {
-          "name": "紫荊網",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcmR3QXNGbGlveG91SnZyS19KZWNrSnc4MDJqZDN1c2xyaTBLbHZBUkhqVE9Mc1h5eTBJcWFGemR0N0E1dlhoM3kzQzBFSnRrWEZtd2V2Z1BLVGdocVM1VWQwaG53d3pIeC1iV0RTTVZQUEJJaktuQ2JhTG04VkdObTZsTWdYczVCTjh4dWZPT1o?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "癲癇",
-          "keyword": "癲癇",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "50d344e03da6",
