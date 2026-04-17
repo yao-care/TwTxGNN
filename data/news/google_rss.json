@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-17T10:06:51.578064+00:00",
-  "count": 25,
+  "fetched_at": "2026-04-17T11:43:13.069273+00:00",
+  "count": 26,
   "news": [
+    {
+      "id": "89f9549bfb10",
+      "title": "「1投資」才是幸福長壽關鍵？死亡率降低39%、比運動更能強身健體！ - Harper's BAZAAR",
+      "published": "2026-04-17T10:43:41+00:00",
+      "summary": "「1投資」才是幸福長壽關鍵？死亡率降低39%、比運動更能強身健體！&nbsp;&nbsp;Harper's BAZAAR",
+      "sources": [
+        {
+          "name": "Harper's BAZAAR",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNSDhQSUtfQ0dGVFBPbFphbnYxdHNQakVmd0kyWDBKcGdZOVotN0NuOVlVWS15MW5TeEk1dERJdFR5TUEyaHU1cWhhNkY4VVpVSFVSSjRYNHVFTmd5UGN1d3EwRGFRUXMza3ZXdXRqR21JaFlSSG9maU4tVkVYM2ZVZ1pJazY5S2tVQ1EzVlFidW1zR21xallTcFUwVkg2aldYQ1UwSE1TbUhIMFB3QkJ0ZnJtYzRJOHF6aWNlZ0dqRDFRdE9JNnVkWjlRdUhQUE00ZnhscmVNZkZ6TTlSQ2pzOEtmRjVoSWtmbGhxTVR2X2tWMVRnWjV1WGlrZFFQTXFnekpYWg?oc=5"
+        }
+      ]
+    },
     {
       "id": "eac44af4c4c0",
       "title": "蘇打水可以促進新陳代謝並幫助減肥嗎？ - arch-web.com.tw",
@@ -12,18 +24,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjBFWDc4eExwV2VsOFF5WHJUaElhS3pnMUFhck5BQ2dJdlZnR2h3ckRsTERISkdPb3AxVHNoYjQ5bVNoVzdDZHc0TmlUS0NUYkQwdUZycTNWMkZ2RGhYYW9pUTd0WlRUcl9xVnB6d1Y4NGRBZjAwUUE4QW9QT29uZzFySFNqNDBMWWs2YUViT1d5TFluMmV3QWsybUtzTk1DUFdxTl9yemxDYVpGVy1WeHg4d0JXemZhR2N3V0ZybGVBeEZ4RkdEcU1GMExiWjlEeEtONS1MeEdfRldfWTVoNlhtZ3JPY3JEZ3cyWEowYlhZZkt6S2pjQnlMeVFQYkFzWnV3a296Q2x5WU1Udm9GVHl1Y0Q3RzdfbDNwcmFkRm5HbFR6UDVoeF9LMzdTTUNCendCWnNnVWM3U09OY2Yzb05qdjI2d3NDMVVibUR1WnpZUHc5NEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d3ac36a12101",
-      "title": "科學家發現有助於減少肥胖的天然激素 - arch-web.com.tw",
-      "published": "2026-04-17T03:59:21+00:00",
-      "summary": "科學家發現有助於減少肥胖的天然激素&nbsp;&nbsp;arch-web.com.tw肚子大真的會變笨！專家警告：內臟脂肪超標 狂增4成失智退化風險&nbsp;&nbsp;TVBS 健康2.0內臟脂肪過高「讓人變笨」？ 研究示警：泡芙人族群最危險，大腦恐受到7種損害&nbsp;&nbsp;四季線上4gTV科學家發現了一種逆轉肥胖的天然激素&nbsp;&nbsp;citytimes.tw內臟脂肪過高「讓人變笨」？ 研究示警：泡芙人族群最危險，大腦恐受到10種損害| 有肌勵&nbsp;&nbsp;聯合新聞網",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPanlKLXppRllSNDVidjRYemZkLWhLMFpSN3pmWFlRNGpWSnB3QURxVllWRWdtd3pYREVqMXpwWlJ1ZEY0cGdpVk9DX1Izb1JzRmtUSWNCWGlQbm11d1VLUVBJWnNWZnFIeUp6U2NtRHFTalUxVnBKOU15RmRuemxmR09TWUVKbW5HNlFiTmxzajJWZDhNSUJDeWJ2MTZrdHB3em5jckVjM3hGazdvS2lkOGJfSUk4cllGZ3JkX01xeGV1Vk1VOG9pYlg5d0JPRUQzYjF5UFJIYkNZWHRqTGFIYldHcnowSmJfUjU5aFBwdndXa0hhcHd3MGdvWG1kcEs2RHk4My1vZjNzYm1BTldOYy1USU1xZU1Ld2FMZmR2aHA4aFVzaUROcmhUaTBLcW5KZElyMTVnYXVveHhmb2h0dVh5VjhLMExfa2c?oc=5"
         }
       ]
     },
@@ -72,6 +72,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQMmlOZUo0ZkVVUVZ0MnQ1cWN0M2NDYWRiWHY3NUlSaEtEX1JieHhRYTVqUmJNa0JSd0owaUxYSHpfd0pXQmJUOXctcDN5cEVJZmlUMUJ6Q1BFSXpETHZ2NHB3X1FKYWszUk1OSlRtVXpxenlNUFJqMXd3RjhOX29jNWFJU1FFSmJieXlVYW0yZExrM3J5di1BTWhHeHctZ3lDbjIwby1haHdveW84UG00Q3BBTHhXbFc1d0s4eDZUdWI0bUZySmp2dTU3d3RkRGpFR1MyNXl0Mk1pNWM5RFlxTFlGVEZ1TXlBdWw4Mmp0Zk1yRkEtaGpsWlNwRkFmSG5iaVd2cG0yNUdEbzdvNlhZQkJXSk1NS3RhX1hQY0NnV0hGUFVDOGN6UVZuaFFYQUZDcmYySEN6UVdVbnZnY0tncnZvUDI4UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1464dc06ad88",
+      "title": "內臟脂肪過高「讓人變笨」？ 研究示警：泡芙人族群最危險 大腦恐受到10種損害 - 民視新聞網",
+      "published": "2026-04-16T11:40:41+00:00",
+      "summary": "內臟脂肪過高「讓人變笨」？ 研究示警：泡芙人族群最危險 大腦恐受到10種損害&nbsp;&nbsp;民視新聞網肚子大真的會變笨！專家警告：內臟脂肪超標 狂增4成失智退化風險&nbsp;&nbsp;TVBS 健康2.0科學家發現有助於減少肥胖的天然激素&nbsp;&nbsp;arch-web.com.tw內臟脂肪過高「讓人變笨」？ 研究示警：泡芙人族群最危險，大腦恐受到10種損害| 有肌勵&nbsp;&nbsp;聯合新聞網科學家發現了一種逆轉肥胖的天然激素&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LTEt2VkNFM2txdVpfYzlQVlhWQjZjbXBBME1naHk5dWRmazgxTDZVVFI2ajJiS3pPbFFlNzNYMHZFVjdZRVFKcUJDd1JtZm5nU1RYQk5Zb0xGZXpZZHhaMQ?oc=5"
         }
       ]
     },
@@ -127,7 +139,7 @@
       "id": "50d344e03da6",
       "title": "撕下單純「瘦身針」標籤，最新研究：替爾泊肽能活化棕色脂肪加速燃脂 - TechNews 科技新報",
       "published": "2026-04-11T16:01:19+00:00",
-      "summary": "撕下單純「瘦身針」標籤，最新研究：替爾泊肽能活化棕色脂肪加速燃脂&nbsp;&nbsp;TechNews 科技新報威斯康辛大學研究揭燃燒卡路里分子機制 望開拓肥胖糖尿病新療法&nbsp;&nbsp;蕃新聞科學家發現關鍵蛋白質 有望將棕色脂肪變成「燃脂引擎」&nbsp;&nbsp;經濟日報撕下單純「瘦身針」標籤，最新研究：替爾泊肽能活化棕色脂肪加速燃脂- 股市爆料同學會&nbsp;&nbsp;CMoney",
+      "summary": "撕下單純「瘦身針」標籤，最新研究：替爾泊肽能活化棕色脂肪加速燃脂&nbsp;&nbsp;TechNews 科技新報威斯康辛大學研究揭燃燒卡路里分子機制 望開拓肥胖糖尿病新療法&nbsp;&nbsp;蕃新聞科學家發現關鍵蛋白質 有望將棕色脂肪變成「燃脂引擎」 | 生活 | 要聞&nbsp;&nbsp;經濟日報撕下單純「瘦身針」標籤，最新研究：替爾泊肽能活化棕色脂肪加速燃脂- 股市爆料同學會&nbsp;&nbsp;CMoney",
       "sources": [
         {
           "name": "TechNews 科技新報",

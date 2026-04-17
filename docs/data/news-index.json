@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-17T10:06:56.275775+00:00",
+  "generated": "2026-04-17T11:43:16.836324+00:00",
   "count": 9,
   "news": [
     {
@@ -486,30 +486,6 @@
       ]
     },
     {
-      "id": "d3ac36a12101",
-      "title": "科學家發現有助於減少肥胖的天然激素",
-      "published": "2026-04-17T03:59:21+00:00",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPanlKLXppRllSNDVidjRYemZkLWhLMFpSN3pmWFlRNGpWSnB3QURxVllWRWdtd3pYREVqMXpwWlJ1ZEY0cGdpVk9DX1Izb1JzRmtUSWNCWGlQbm11d1VLUVBJWnNWZnFIeUp6U2NtRHFTalUxVnBKOU15RmRuemxmR09TWUVKbW5HNlFiTmxzajJWZDhNSUJDeWJ2MTZrdHB3em5jckVjM3hGazdvS2lkOGJfSUk4cllGZ3JkX01xeGV1Vk1VOG9pYlg5d0JPRUQzYjF5UFJIYkNZWHRqTGFIYldHcnowSmJfUjU5aFBwdndXa0hhcHd3MGdvWG1kcEs2RHk4My1vZjNzYm1BTldOYy1USU1xZU1Ld2FMZmR2aHA4aFVzaUROcmhUaTBLcW5KZElyMTVnYXVveHhmb2h0dVh5VjhLMExfa2c?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "e5d54429dc3e",
       "title": "美國輪狀病毒疫情升溫，CDC警告嬰幼兒嘔吐腹瀉住院風險",
       "published": "2026-04-16T20:38:12+00:00",
@@ -528,6 +504,30 @@
             {
               "slug": "berberine",
               "name": "Berberine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1464dc06ad88",
+      "title": "內臟脂肪過高「讓人變笨」？ 研究示警：泡芙人族群最危險 大腦恐受到10種損害",
+      "published": "2026-04-16T11:40:41+00:00",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LTEt2VkNFM2txdVpfYzlQVlhWQjZjbXBBME1naHk5dWRmazgxTDZVVFI2ajJiS3pPbFFlNzNYMHZFVjdZRVFKcUJDd1JtZm5nU1RYQk5Zb0xGZXpZZHhaMQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
