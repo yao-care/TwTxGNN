@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-17T14:20:52.617441+00:00",
-  "count": 23,
+  "fetched_at": "2026-04-17T15:51:42.867524+00:00",
+  "count": 24,
   "news": [
     {
       "id": "89f9549bfb10",
@@ -24,6 +24,18 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjBFWDc4eExwV2VsOFF5WHJUaElhS3pnMUFhck5BQ2dJdlZnR2h3ckRsTERISkdPb3AxVHNoYjQ5bVNoVzdDZHc0TmlUS0NUYkQwdUZycTNWMkZ2RGhYYW9pUTd0WlRUcl9xVnB6d1Y4NGRBZjAwUUE4QW9QT29uZzFySFNqNDBMWWs2YUViT1d5TFluMmV3QWsybUtzTk1DUFdxTl9yemxDYVpGVy1WeHg4d0JXemZhR2N3V0ZybGVBeEZ4RkdEcU1GMExiWjlEeEtONS1MeEdfRldfWTVoNlhtZ3JPY3JEZ3cyWEowYlhZZkt6S2pjQnlMeVFQYkFzWnV3a296Q2x5WU1Udm9GVHl1Y0Q3RzdfbDNwcmFkRm5HbFR6UDVoeF9LMzdTTUNCendCWnNnVWM3U09OY2Yzb05qdjI2d3NDMVVibUR1WnpZUHc5NEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "06456b3808cb",
+      "title": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性 - citytimes.tw",
+      "published": "2026-04-17T14:31:50+00:00",
+      "summary": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性&nbsp;&nbsp;citytimes.tw科學家發現細菌可以「爆炸」傳播抗生素抗藥性。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxORl9TOXdiM0FIaWtVUVZ3WURlclR1UVA1MUg2MFNLaUlwUG92T3h5LThBRDdwRHFpZVY4Y2UtSkM1MHdIUGdfdGFBb01WZVRydkE3TFNSUzFXUXpuZkEtdzQ3dXdXZkxTNVJPQW42azJtOTZqZEJVYUs0dHliY0xfTXF5aUZycHBOTHNKREFkNGV0OHY4Mkpvb18yMDh2RDQ4TWV5cUZNZTd2S2ZQWnVfcDhVZVM1WS1VVnhTYU5VSElGZFZKQkhIQXdTQUFMdlJub05MVlMySkZRUGNmR0NrR1FlcDBlaTJzM2hHTDd5cXVVQ0NLYWdCbEpWeWtaOHBrSzBndU0yOXF3Vld1clg0VUhId2RNYTNqWlBoNm00ckR6TUhTTzhWV0hIMXpMT0lpbzBpLTNHY2RXWTZjcGxXdXBkUGsyVjRIa0lZUHRZOFNOTnExOGhkbGlB?oc=5"
         }
       ]
     },
@@ -160,18 +172,6 @@
       ]
     },
     {
-      "id": "b442783bdc60",
-      "title": "肺癌躍居中國女性首要癌症威脅 二手煙、三手煙與廚房油煙成關鍵因素 - Singtaousa",
-      "published": "2026-04-17T06:28:20+00:00",
-      "summary": "肺癌躍居中國女性首要癌症威脅 二手煙、三手煙與廚房油煙成關鍵因素&nbsp;&nbsp;Singtaousa肺癌成中國女性第一大癌症 發病率呈上升態勢&nbsp;&nbsp;大紀元新聞網「肺癌」成陸女性頭號癌症殺手 二手菸、三手菸與油煙暴露惹禍&nbsp;&nbsp;中天新聞網97%女患者從不吸煙仍中招 肺癌躍居中國女性第一大癌症 二手煙廚房油煙成最大元凶&nbsp;&nbsp;BusinessFocus肺癌成中國女性第一大癌症 三誘因最致命&nbsp;&nbsp;新唐人電視台",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORFBKY3FFODdzUXlzRzVfQlZndHNZanIybVBjc1hnWUxLTHcyY2pGZnlZWnFlcFdSNTN2RXZ0ZV9XTVBpYWNCemYzd3U1VUdDTGxqSTZuSjBsNGFEaVpFZkloYjJPczB4dHByWVVhR1hYWE5Xa3pzcjhiNF9HZGltTVJFSUxQMXVwSzlLcGtDTXU5dFE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e5d54429dc3e",
       "title": "美國輪狀病毒疫情升溫，CDC警告嬰幼兒嘔吐腹瀉住院風險 - Singtaousa",
       "published": "2026-04-16T20:38:12+00:00",
@@ -220,14 +220,14 @@
       ]
     },
     {
-      "id": "5200126253d2",
-      "title": "中慧生物(02627)指三價流感疫苗慧爾康欣3加速全國招補標進程 - Yahoo 財經",
-      "published": "2026-04-16T05:12:51+00:00",
-      "summary": "中慧生物(02627)指三價流感疫苗慧爾康欣3加速全國招補標進程&nbsp;&nbsp;Yahoo 財經",
+      "id": "c906b0808748",
+      "title": "肺癌成中國女性第一大癌症 二手煙、三手煙、油煙成主因 - 星島頭條",
+      "published": "2026-04-17T03:42:46+00:00",
+      "summary": "肺癌成中國女性第一大癌症 二手煙、三手煙、油煙成主因&nbsp;&nbsp;星島頭條",
       "sources": [
         {
-          "name": "Yahoo 財經",
-          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQcWVlX0U2NTVSWk5fMWd5M2pxS3lIUFNRNUVfSWlfc2xaSlRtcHZjT3phTjhrdEd2QkhrQ0xKaERxcURrRzNWbmZaaldOSUdweWRHVWhyc0VVN1VQTHNqRXFQcmV2TFpwbzNfczJ4eVY0UWQ3blFXUi05Q1pqTm9FQzFZSHFzQWFvdG9xdVBvUVdmRnRTQTJGamk1RjZQeV8zR1laeXRIUHJYU0JBQzNFZUk1TnZ1YlB3ZU1Na1RtWHR4Y0Jud2JFSGozTnZBSDhObk5sSGY0QXZpdGphUFQwUEpfZDYtWExJYnA5N2hfTlVlSUlFMFR5b3o4OE9nT25EVlFXVEg1T3RDSEh3dzN5QkFiQktiOHI4d2EzT1NLXzZfNzdNRGRNeWVCLTM0Qm1CaXMtaDJmd0NJY0U2THRJdDZONTd3d3QwLWN4UnJUQ1FLeDVfdDZHa2tpUWR3VzdIUkQ0TW9DZXNmQS1zY3NsTWotSUdIRTY5eEx6OVBxMnJyWVJzUUNqaw?oc=5"
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOSXVuSVdSTVZiQWlTOGpCTm1LY3pZaEppbWs3cXR6Ylh5LUMwMUg4ZHhaaVZiYkJqOTNxUF9ZUFg2Q3htVFUyS2d1anB3S2lPZGVzWE5RUGx6UUZRMnNGRHZLQTVPd09zR25OQ3JmRC1SM0FjRmtiNFVXVmlzQWJrUUFUMVFQS3Rqd29mUDRvM0xaMGkxTjBncUc1ZlVEbDZrTVJvTWxmSTRjcmFFOGlnS0FOMWlhZVo4ZS1neURwcEdSYno3UnU1VGVELWFobC1OSDNxYTlsM1NuOUR5a29GbDhXRml3NUt4dF9yd3Y3MWkyUGwyblhad2lFeEtjM3k5dkctd0dwQ1JzRTUwUzF3VVVLNUI5aS1peHBMcHBLS2lhUk5Xa0F1dC02VGxRSmd2NFYyYjVnWnRZbDU5Mlh1TFU0ODVRVkR2RjY5VGFDS3psQnowZEhzN0g3dkZRTFU3Tjc3M2Z5VTFVOEFMbWVYZWl6RQ?oc=5"
         }
       ]
     },
@@ -240,6 +240,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxONXdlcTU4RGlmaEZmTUZCdHRUQUx2bFhKdF9jaGk3NXZrRGhSbXkwOUZ3TjRjWW16MzNNcjZ1eDFEWUd4a0dwR2ZxbHFHc0hqeVczUWdhR0o5TnNWSnBCbV82bWF3TmVxdFh1a0tXX3JlRnlFeXpMWUpKRmRfT2RkajRlVnVUQm1QS2t6Z2xiakFJRmxYV3ZfeFA4T2xFYzY0R19IckczUGZkaXJISDlzNmhOUGVUclNnWnFpZFBtczh0cDlHZ3dkUWRpdDhBUWdLQ3FnU0JPLVZWZ3lKeFFBU1FKcDBsRFh2WTZhRUt0eG9MQlBGbjZ1eWY5azE2UjdSN1lfTkV5TERESDNFOGZuNjJlVjNZQUJTZkNCdHl0TG9oazlLdXlSZ09rZUJwLXlkNTl1bmZkN08tZlpSMFlBMnBJdlFrd1k5anRoSV9nNTdtZUtKajIzRmhzNS0tcXU5dV9uRw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5200126253d2",
+      "title": "中慧生物(02627)指三價流感疫苗慧爾康欣3加速全國招補標進程 - Yahoo 財經",
+      "published": "2026-04-16T05:12:51+00:00",
+      "summary": "中慧生物(02627)指三價流感疫苗慧爾康欣3加速全國招補標進程&nbsp;&nbsp;Yahoo 財經",
+      "sources": [
+        {
+          "name": "Yahoo 財經",
+          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQcWVlX0U2NTVSWk5fMWd5M2pxS3lIUFNRNUVfSWlfc2xaSlRtcHZjT3phTjhrdEd2QkhrQ0xKaERxcURrRzNWbmZaaldOSUdweWRHVWhyc0VVN1VQTHNqRXFQcmV2TFpwbzNfczJ4eVY0UWQ3blFXUi05Q1pqTm9FQzFZSHFzQWFvdG9xdVBvUVdmRnRTQTJGamk1RjZQeV8zR1laeXRIUHJYU0JBQzNFZUk1TnZ1YlB3ZU1Na1RtWHR4Y0Jud2JFSGozTnZBSDhObk5sSGY0QXZpdGphUFQwUEpfZDYtWExJYnA5N2hfTlVlSUlFMFR5b3o4OE9nT25EVlFXVEg1T3RDSEh3dzN5QkFiQktiOHI4d2EzT1NLXzZfNzdNRGRNeWVCLTM0Qm1CaXMtaDJmd0NJY0U2THRJdDZONTd3d3QwLWN4UnJUQ1FLeDVfdDZHa2tpUWR3VzdIUkQ0TW9DZXNmQS1zY3NsTWotSUdIRTY5eEx6OVBxMnJyWVJzUUNqaw?oc=5"
         }
       ]
     },

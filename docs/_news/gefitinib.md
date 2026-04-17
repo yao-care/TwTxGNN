@@ -51,14 +51,6 @@ permalink: /news/gefitinib/
 
 ---
 
-### [肺癌躍居中國女性首要癌症威脅 二手煙、三手煙與廚房油煙成關鍵因素](https://news.google.com/rss/articles/CBMikwFBVV95cUxORFBKY3FFODdzUXlzRzVfQlZndHNZanIybVBjc1hnWUxLTHcyY2pGZnlZWnFlcFdSNTN2RXZ0ZV9XTVBpYWNCemYzd3U1VUdDTGxqSTZuSjBsNGFEaVpFZkloYjJPczB4dHByWVVhR1hYWE5Xa3pzcjhiNF9HZGltTVJFSUxQMXVwSzlLcGtDTXU5dFE?oc=5)
-
-2026-04-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
-
-來源：[Singtaousa](https://news.google.com/rss/articles/CBMikwFBVV95cUxORFBKY3FFODdzUXlzRzVfQlZndHNZanIybVBjc1hnWUxLTHcyY2pGZnlZWnFlcFdSNTN2RXZ0ZV9XTVBpYWNCemYzd3U1VUdDTGxqSTZuSjBsNGFEaVpFZkloYjJPczB4dHByWVVhR1hYWE5Xa3pzcjhiNF9HZGltTVJFSUxQMXVwSzlLcGtDTXU5dFE?oc=5)
-
----
-
 ### [16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MV2JRQkRWd3RtdmlKaDFsdDNBM1pLN2ZQWm1VUG9OcHFWclc5YmFQYTM5U2lRcEVjZ1V4MXhsWktrSDdDcDBqOGVLR0E?oc=5)
 
 2026-04-17 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
@@ -72,6 +64,14 @@ permalink: /news/gefitinib/
 2026-04-17 <span class="news-indication-tag">失智</span>
 
 來源：[優活健康網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE90UU1EN3gwQWNRdzV4OFh5WmhmaEpZTEpraW00a0toVHZnZVdFMF9kaTFweU5NTGxSVjhGWHdSTlp0Q25MajlFanZKTkdOMF9ZVnlZ?oc=5)
+
+---
+
+### [肺癌成中國女性第一大癌症 二手煙、三手煙、油煙成主因](https://news.google.com/rss/articles/CBMi8wJBVV95cUxOSXVuSVdSTVZiQWlTOGpCTm1LY3pZaEppbWs3cXR6Ylh5LUMwMUg4ZHhaaVZiYkJqOTNxUF9ZUFg2Q3htVFUyS2d1anB3S2lPZGVzWE5RUGx6UUZRMnNGRHZLQTVPd09zR25OQ3JmRC1SM0FjRmtiNFVXVmlzQWJrUUFUMVFQS3Rqd29mUDRvM0xaMGkxTjBncUc1ZlVEbDZrTVJvTWxmSTRjcmFFOGlnS0FOMWlhZVo4ZS1neURwcEdSYno3UnU1VGVELWFobC1OSDNxYTlsM1NuOUR5a29GbDhXRml3NUt4dF9yd3Y3MWkyUGwyblhad2lFeEtjM3k5dkctd0dwQ1JzRTUwUzF3VVVLNUI5aS1peHBMcHBLS2lhUk5Xa0F1dC02VGxRSmd2NFYyYjVnWnRZbDU5Mlh1TFU0ODVRVkR2RjY5VGFDS3psQnowZEhzN0g3dkZRTFU3Tjc3M2Z5VTFVOEFMbWVYZWl6RQ?oc=5)
+
+2026-04-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
+
+來源：[星島頭條](https://news.google.com/rss/articles/CBMi8wJBVV95cUxOSXVuSVdSTVZiQWlTOGpCTm1LY3pZaEppbWs3cXR6Ylh5LUMwMUg4ZHhaaVZiYkJqOTNxUF9ZUFg2Q3htVFUyS2d1anB3S2lPZGVzWE5RUGx6UUZRMnNGRHZLQTVPd09zR25OQ3JmRC1SM0FjRmtiNFVXVmlzQWJrUUFUMVFQS3Rqd29mUDRvM0xaMGkxTjBncUc1ZlVEbDZrTVJvTWxmSTRjcmFFOGlnS0FOMWlhZVo4ZS1neURwcEdSYno3UnU1VGVELWFobC1OSDNxYTlsM1NuOUR5a29GbDhXRml3NUt4dF9yd3Y3MWkyUGwyblhad2lFeEtjM3k5dkctd0dwQ1JzRTUwUzF3VVVLNUI5aS1peHBMcHBLS2lhUk5Xa0F1dC02VGxRSmd2NFYyYjVnWnRZbDU5Mlh1TFU0ODVRVkR2RjY5VGFDS3psQnowZEhzN0g3dkZRTFU3Tjc3M2Z5VTFVOEFMbWVYZWl6RQ?oc=5)
 
 ---
 
