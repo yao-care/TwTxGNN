@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-17T04:43:04.175169+00:00",
-  "count": 27,
+  "fetched_at": "2026-04-17T06:52:14.854860+00:00",
+  "count": 30,
   "news": [
     {
       "id": "766bf82e4b9c",
@@ -16,14 +16,14 @@
       ]
     },
     {
-      "id": "4e3b757908b4",
-      "title": "殭屍免疫細胞在脂肪肝疾病與老化中的關鍵角色揭示 - GeneOnline News",
-      "published": "2026-04-16T09:06:21+00:00",
-      "summary": "殭屍免疫細胞在脂肪肝疾病與老化中的關鍵角色揭示&nbsp;&nbsp;GeneOnline News",
+      "id": "d3ac36a12101",
+      "title": "科學家發現有助於減少肥胖的天然激素 - arch-web.com.tw",
+      "published": "2026-04-17T03:59:21+00:00",
+      "summary": "科學家發現有助於減少肥胖的天然激素&nbsp;&nbsp;arch-web.com.tw肚子大真的會變笨！專家警告：內臟脂肪超標 狂增4成失智退化風險&nbsp;&nbsp;TVBS 健康2.0內臟脂肪過高「讓人變笨」？ 研究示警：泡芙人族群最危險，大腦恐受到7種損害&nbsp;&nbsp;四季線上4gTV科學家發現了一種逆轉肥胖的天然激素&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQMmlOZUo0ZkVVUVZ0MnQ1cWN0M2NDYWRiWHY3NUlSaEtEX1JieHhRYTVqUmJNa0JSd0owaUxYSHpfd0pXQmJUOXctcDN5cEVJZmlUMUJ6Q1BFSXpETHZ2NHB3X1FKYWszUk1OSlRtVXpxenlNUFJqMXd3RjhOX29jNWFJU1FFSmJieXlVYW0yZExrM3J5di1BTWhHeHctZ3lDbjIwby1haHdveW84UG00Q3BBTHhXbFc1d0s4eDZUdWI0bUZySmp2dTU3d3RkRGpFR1MyNXl0Mk1pNWM5RFlxTFlGVEZ1TXlBdWw4Mmp0Zk1yRkEtaGpsWlNwRkFmSG5iaVd2cG0yNUdEbzdvNlhZQkJXSk1NS3RhX1hQY0NnV0hGUFVDOGN6UVZuaFFYQUZDcmYySEN6UVdVbnZnY0tncnZvUDI4UQ?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPanlKLXppRllSNDVidjRYemZkLWhLMFpSN3pmWFlRNGpWSnB3QURxVllWRWdtd3pYREVqMXpwWlJ1ZEY0cGdpVk9DX1Izb1JzRmtUSWNCWGlQbm11d1VLUVBJWnNWZnFIeUp6U2NtRHFTalUxVnBKOU15RmRuemxmR09TWUVKbW5HNlFiTmxzajJWZDhNSUJDeWJ2MTZrdHB3em5jckVjM3hGazdvS2lkOGJfSUk4cllGZ3JkX01xeGV1Vk1VOG9pYlg5d0JPRUQzYjF5UFJIYkNZWHRqTGFIYldHcnowSmJfUjU5aFBwdndXa0hhcHd3MGdvWG1kcEs2RHk4My1vZjNzYm1BTldOYy1USU1xZU1Ld2FMZmR2aHA4aFVzaUROcmhUaTBLcW5KZElyMTVnYXVveHhmb2h0dVh5VjhLMExfa2c?oc=5"
         }
       ]
     },
@@ -40,6 +40,18 @@
       ]
     },
     {
+      "id": "4e3b757908b4",
+      "title": "殭屍免疫細胞在脂肪肝疾病與老化中的關鍵角色揭示 - GeneOnline News",
+      "published": "2026-04-16T09:06:21+00:00",
+      "summary": "殭屍免疫細胞在脂肪肝疾病與老化中的關鍵角色揭示&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQMmlOZUo0ZkVVUVZ0MnQ1cWN0M2NDYWRiWHY3NUlSaEtEX1JieHhRYTVqUmJNa0JSd0owaUxYSHpfd0pXQmJUOXctcDN5cEVJZmlUMUJ6Q1BFSXpETHZ2NHB3X1FKYWszUk1OSlRtVXpxenlNUFJqMXd3RjhOX29jNWFJU1FFSmJieXlVYW0yZExrM3J5di1BTWhHeHctZ3lDbjIwby1haHdveW84UG00Q3BBTHhXbFc1d0s4eDZUdWI0bUZySmp2dTU3d3RkRGpFR1MyNXl0Mk1pNWM5RFlxTFlGVEZ1TXlBdWw4Mmp0Zk1yRkEtaGpsWlNwRkFmSG5iaVd2cG0yNUdEbzdvNlhZQkJXSk1NS3RhX1hQY0NnV0hGUFVDOGN6UVZuaFFYQUZDcmYySEN6UVdVbnZnY0tncnZvUDI4UQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9435a6558cb0",
       "title": "比阿公阿嬤還常喊累？中醫揭年輕人為何「未老先衰」 1警訊要留意 - Yahoo新聞",
       "published": "2026-04-17T02:03:45+00:00",
@@ -48,6 +60,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxOQmFKT3JHN3ZneVVDQmRZTkVwWkFFMTY1d0NsMjFtSzQwbjFsd0dpd05zYW5DUDNzd3FNMHVYTWlzSm1iWTdkcFluSnAxUDlvbVVCS3pqdmVXMl9UUWhNNlZmS21rckpVVEVBZkFheDROZzI5WlJBem95NmttV0U4NkpkYmQtZkROSFZ1SmZYUXFLTzVtdWU0RGR1QXBxNUtzOXhMQzJNUlR1QkE5cVl2WU9QU01RdFdwdWlEZ0E0Ylg5NERvVWVzRlY2c0cwTXVaOGRFRGtocDVjWkVrbFpVVVc5eEJTdmVLaXlvd2wxeENadDhDMFZNSHpxTFhjTFZNNHI2VjZiRjlsWlNFOVBSVFBEMTdIMHJ4WXpIVGpEcFdRX25tWE5xN0VhTG45NHo2bG1RdHVHWUxLeFZKWm1QdmFKYVFZMFpCRkVFNTlSVjNVdnZFaGZWcDJsMGhtYWpmZkptSUVud2dHYUhsbDlSWldHbk9xZUJNQ244MFdzVFFBVFZWdTAwZHJCU1l2RHNT?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e6ef6f4f25ea",
+      "title": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃 - 祝你健康",
+      "published": "2026-04-17T04:52:25+00:00",
+      "summary": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃&nbsp;&nbsp;祝你健康防失智，請多曬太陽？16年追蹤研究：30至40歲是黃金預防期&nbsp;&nbsp;Yahoo新聞內臟脂肪減不動研究曝補足1維生素還能穩血糖- 健康&nbsp;&nbsp;中時新聞網研究揭維生素D水平或與失智症風險關聯！全球60% 人口不足引發醫界關注&nbsp;&nbsp;bastillepost.com陽光充足仍恐維生素D不足 醫揭吸收誤區與實用補充建議&nbsp;&nbsp;獨家報導",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MV2JRQkRWd3RtdmlKaDFsdDNBM1pLN2ZQWm1VUG9OcHFWclc5YmFQYTM5U2lRcEVjZ1V4MXhsWktrSDdDcDBqOGVLR0E?oc=5"
         }
       ]
     },
@@ -72,18 +96,6 @@
         {
           "name": "健康醫療網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nRm5yMkdsdEdkWXBFZVlhdEpZdzNMS2tRaVJKaWRXWlBzcUF5SVkza3lpaUhBZmhVUW02ZnR5bnB5alFBYkdRTEpER2I4eG8yb3gzN2dB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5660401aba2f",
-      "title": "中年降「失智毒素」 鮭魚可幫大忙 衝高維生素D濃度 - 中時新聞網",
-      "published": "2026-04-17T01:33:15+00:00",
-      "summary": "中年降「失智毒素」 鮭魚可幫大忙 衝高維生素D濃度&nbsp;&nbsp;中時新聞網飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎&nbsp;&nbsp;祝你健康防失智，請多曬太陽？16年追蹤研究：30至40歲是黃金預防期&nbsp;&nbsp;Yahoo新聞研究揭維生素D水平或與失智症風險關聯！全球60% 人口不足引發醫界關注&nbsp;&nbsp;巴士的報陽光充足仍恐維生素D不足 醫揭吸收誤區與實用補充建議&nbsp;&nbsp;獨家報導",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OMGYtWHJwVEhxU25rWXFlMER0X2NseFV3NmFzVFdUTE1aSC01dVdQQzhveFBXak5uZ0lWNjZQZm5YWWV5Sk13VXN1Mm1oMndhSXVpdWl3bWhRbjVfRTNVZF9IOS1LTVBsalVHUUFB?oc=5"
         }
       ]
     },
@@ -124,6 +136,18 @@
       ]
     },
     {
+      "id": "7be03f836ece",
+      "title": "她罹癌後從人際匿跡，不想談病、也不想被同情…學會沒有罪惡感的設立界線：重新定義2.0版自己 - 幸福熟齡",
+      "published": "2026-04-15T07:00:00+00:00",
+      "summary": "她罹癌後從人際匿跡，不想談病、也不想被同情…學會沒有罪惡感的設立界線：重新定義2.0版自己&nbsp;&nbsp;幸福熟齡",
+      "sources": [
+        {
+          "name": "幸福熟齡",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uM2VGMDlLTXB3MDFkSldUY042eHRZUWdGUjlnNmk2VUtDWVZHTTdfRjJNZldFSTVuMjFxNHVoUGxxN3EtUzhQOXc2eHdrM093dWRkcFIyQzcycGltVWFJbkh2eTJwMUJLSzV3b0RnTzJFeWdqTHFhbjVJVQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "72b8e2beda81",
       "title": "麵包真的會讓人變胖？實驗打破迷思「身體不想燃燒了」 - 科技島",
       "published": "2026-04-15T07:41:33+00:00",
@@ -151,7 +175,7 @@
       "id": "5136f16b542b",
       "title": "【灣區新聞】舊金山有嬰兒旅行回國後確診麻疹 未接種疫苗（視頻） - KTSF.com",
       "published": "2026-04-16T14:13:00+00:00",
-      "summary": "【灣區新聞】舊金山有嬰兒旅行回國後確診麻疹 未接種疫苗（視頻）&nbsp;&nbsp;KTSF.com金縣一名嬰兒確診麻疹引發接觸風險預警&nbsp;&nbsp;大紀元新聞網舊金山7年來首例 未滿1歲嬰兒出國旅行染麻疹&nbsp;&nbsp;世界新聞網麻疹疫苗接種史，如何影響免疫力判斷？&nbsp;&nbsp;Bella.tw儂儂美國麻疹病例增加，加州出現7年來最高數量&nbsp;&nbsp;citytimes.tw",
+      "summary": "【灣區新聞】舊金山有嬰兒旅行回國後確診麻疹 未接種疫苗（視頻）&nbsp;&nbsp;KTSF.com金縣一名嬰兒確診麻疹引發接觸風險預警&nbsp;&nbsp;大紀元新聞網麻疹疫情加州首季39例 近10年新高&nbsp;&nbsp;世界新聞網麻疹疫苗接種史，如何影響免疫力判斷？&nbsp;&nbsp;Bella.tw儂儂沙加緬度地區協調應對麻疹爆發 病例上升至19宗｜細說燊語&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "KTSF.com",
@@ -264,6 +288,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNa3ZjMVFObmdsbEhnWjVyMThZUUNEaDdKY1QyZjJQYy13MEhGOU9IYUFPMWxhNjRvS1RuMDYyZGJ1WG1jbERpalV5cWUyLVVMaXRSbG5WbkRxQUgxV2dRVVlyN1laWEoyNUc4UVlCMWhRUzNJQ0pWQUk4dkdfbjZSNVZaN1Ytb1FnUjdJRkRId1UwcXVrQW9JdTh2M3d2VjJzMF96c1lDU2tsQ1E3YXRucGtCZEhsb0ZJaHFNTkwtMFExMzZLT3piNnVUU294eHJOamJSV1lodDF3RjRCdUdDTEtUQjFjT181WXd5Z083MjJRR2RBN2NCU1lyd25SeHl1eWVkcUxwYXMwSVpPcEhOVTNGNjhHWFZRc0pNU1FRbFVWNGVtRXdpNzc3YUh2WVhZQ0FuaWw4T1gwR0R3N2hDajlzbGQzZHNlQVVCSWNjVVBqd29UTHdFZnJHdkVsYTlq?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "24b168d0e9c5",
+      "title": "陳詩欣囝囝細菌感染反覆發燒入院 即看中耳炎症狀成因及治療方法 - 香港01",
+      "published": "2026-04-16T04:24:55+00:00",
+      "summary": "陳詩欣囝囝細菌感染反覆發燒入院 即看中耳炎症狀成因及治療方法&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNTXI3djlleVpmM1U3MWVuZmVsajVDb21IX1VUUTBPZzVSZ1k2MkxyYlhjX0tqUUpuZGZ5aUdfNzJLU0U0eG9TTWF6UkNPWjdjMkF1Z01zdXMtQmJ6UERKT2xlS2plSmp2RlZhbVFGU0FVSkZiMmRwTWdwY0pEci14c3dKNHkyNlJnbkYtWDRIMnZPbzNOZENwUmk4OW1sdGo0c3lOUDNIcmV3WVJ1Z292X2JDckRoa0FsZ0hSV1VwTU9leWlqQ0NDMHpiOUcyTWZfOWhnVW9FUFdrV3FLSTdoTEk2MEQycWE0eDRCUnQxTlBiWERBcFo5RmhQQVA1enNXUGRZV1ZoZjBHalkweUU0dTFEcjNXRVlONW00M3pqYXRqa29DOHEtUmdkOGNGeUo5a29ZMkJRem5IM294ZDNUZ1lCNjRZRVpWVVAyaFg1eWgtb3VsOHVNdTg2N0c3MXhPYWR1SXFicFBtbkwwX2xUSG5DMVJDeEJVTFNOR0E5bGFlbXZHVnAwNUxZWVlBTm0zQzhDVHhuT1RXSHk0NFZVVnVBNnI3bHJRcVlkaThNX05ESktVRUNYZWE0SQ?oc=5"
         }
       ]
     },

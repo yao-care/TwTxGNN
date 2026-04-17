@@ -1,7 +1,42 @@
 {
-  "generated": "2026-04-17T04:43:07.550406+00:00",
-  "count": 8,
+  "generated": "2026-04-17T06:52:18.657612+00:00",
+  "count": 9,
   "news": [
+    {
+      "id": "e6ef6f4f25ea",
+      "title": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃",
+      "published": "2026-04-17T04:52:25+00:00",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MV2JRQkRWd3RtdmlKaDFsdDNBM1pLN2ZQWm1VUG9OcHFWclc5YmFQYTM5U2lRcEVjZ1V4MXhsWktrSDdDcDBqOGVLR0E?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "4e0c0ae3faa0",
       "title": "肺癌成中國女性第一大癌症　二手煙、三手煙、油煙成主因",
@@ -254,30 +289,19 @@
       ]
     },
     {
-      "id": "5660401aba2f",
-      "title": "中年降「失智毒素」 鮭魚可幫大忙 衝高維生素D濃度",
-      "published": "2026-04-17T01:33:15+00:00",
+      "id": "d3ac36a12101",
+      "title": "科學家發現有助於減少肥胖的天然激素",
+      "published": "2026-04-17T03:59:21+00:00",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OMGYtWHJwVEhxU25rWXFlMER0X2NseFV3NmFzVFdUTE1aSC01dVdQQzhveFBXak5uZ0lWNjZQZm5YWWV5Sk13VXN1Mm1oMndhSXVpdWl3bWhRbjVfRTNVZF9IOS1LTVBsalVHUUFB?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPanlKLXppRllSNDVidjRYemZkLWhLMFpSN3pmWFlRNGpWSnB3QURxVllWRWdtd3pYREVqMXpwWlJ1ZEY0cGdpVk9DX1Izb1JzRmtUSWNCWGlQbm11d1VLUVBJWnNWZnFIeUp6U2NtRHFTalUxVnBKOU15RmRuemxmR09TWUVKbW5HNlFiTmxzajJWZDhNSUJDeWJ2MTZrdHB3em5jckVjM3hGazdvS2lkOGJfSUk4cllGZ3JkX01xeGV1Vk1VOG9pYlg5d0JPRUQzYjF5UFJIYkNZWHRqTGFIYldHcnowSmJfUjU5aFBwdndXa0hhcHd3MGdvWG1kcEs2RHk4My1vZjNzYm1BTldOYy1USU1xZU1Ld2FMZmR2aHA4aFVzaUROcmhUaTBLcW5KZElyMTVnYXVveHhmb2h0dVh5VjhLMExfa2c?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
           "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
           "keyword": "失智",
           "related_drugs": [
             {

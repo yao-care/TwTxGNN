@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智（dementia） 相關新聞"
+title: "失智症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智症（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智（dementia） 相關新聞
+# 失智症（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
+<strong>失智症（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,7 +29,15 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MV2JRQkRWd3RtdmlKaDFsdDNBM1pLN2ZQWm1VUG9OcHFWclc5YmFQYTM5U2lRcEVjZ1V4MXhsWktrSDdDcDBqOGVLR0E?oc=5)
+
+2026-04-17
+
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MV2JRQkRWd3RtdmlKaDFsdDNBM1pLN2ZQWm1VUG9OcHFWclc5YmFQYTM5U2lRcEVjZ1V4MXhsWktrSDdDcDBqOGVLR0E?oc=5)
+
+---
 
 ### [101歲修女有失智病變，仍記憶力驚人！研究揭「1習慣」減緩大腦退化](https://news.google.com/rss/articles/CBMiU0FVX3lxTE90UU1EN3gwQWNRdzV4OFh5WmhmaEpZTEpraW00a0toVHZnZVdFMF9kaTFweU5NTGxSVjhGWHdSTlp0Q25MajlFanZKTkdOMF9ZVnlZ?oc=5)
 
@@ -39,11 +47,11 @@ permalink: /news/dementia/
 
 ---
 
-### [中年降「失智毒素」 鮭魚可幫大忙 衝高維生素D濃度](https://news.google.com/rss/articles/CBMibkFVX3lxTE1OMGYtWHJwVEhxU25rWXFlMER0X2NseFV3NmFzVFdUTE1aSC01dVdQQzhveFBXak5uZ0lWNjZQZm5YWWV5Sk13VXN1Mm1oMndhSXVpdWl3bWhRbjVfRTNVZF9IOS1LTVBsalVHUUFB?oc=5)
+### [科學家發現有助於減少肥胖的天然激素](https://news.google.com/rss/articles/CBMiygJBVV95cUxPanlKLXppRllSNDVidjRYemZkLWhLMFpSN3pmWFlRNGpWSnB3QURxVllWRWdtd3pYREVqMXpwWlJ1ZEY0cGdpVk9DX1Izb1JzRmtUSWNCWGlQbm11d1VLUVBJWnNWZnFIeUp6U2NtRHFTalUxVnBKOU15RmRuemxmR09TWUVKbW5HNlFiTmxzajJWZDhNSUJDeWJ2MTZrdHB3em5jckVjM3hGazdvS2lkOGJfSUk4cllGZ3JkX01xeGV1Vk1VOG9pYlg5d0JPRUQzYjF5UFJIYkNZWHRqTGFIYldHcnowSmJfUjU5aFBwdndXa0hhcHd3MGdvWG1kcEs2RHk4My1vZjNzYm1BTldOYy1USU1xZU1Ld2FMZmR2aHA4aFVzaUROcmhUaTBLcW5KZElyMTVnYXVveHhmb2h0dVh5VjhLMExfa2c?oc=5)
 
 2026-04-17
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1OMGYtWHJwVEhxU25rWXFlMER0X2NseFV3NmFzVFdUTE1aSC01dVdQQzhveFBXak5uZ0lWNjZQZm5YWWV5Sk13VXN1Mm1oMndhSXVpdWl3bWhRbjVfRTNVZF9IOS1LTVBsalVHUUFB?oc=5)
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMiygJBVV95cUxPanlKLXppRllSNDVidjRYemZkLWhLMFpSN3pmWFlRNGpWSnB3QURxVllWRWdtd3pYREVqMXpwWlJ1ZEY0cGdpVk9DX1Izb1JzRmtUSWNCWGlQbm11d1VLUVBJWnNWZnFIeUp6U2NtRHFTalUxVnBKOU15RmRuemxmR09TWUVKbW5HNlFiTmxzajJWZDhNSUJDeWJ2MTZrdHB3em5jckVjM3hGazdvS2lkOGJfSUk4cllGZ3JkX01xeGV1Vk1VOG9pYlg5d0JPRUQzYjF5UFJIYkNZWHRqTGFIYldHcnowSmJfUjU5aFBwdndXa0hhcHd3MGdvWG1kcEs2RHk4My1vZjNzYm1BTldOYy1USU1xZU1Ld2FMZmR2aHA4aFVzaUROcmhUaTBLcW5KZElyMTVnYXVveHhmb2h0dVh5VjhLMExfa2c?oc=5)
 
 ---
 
