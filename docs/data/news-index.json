@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-17T12:58:39.577822+00:00",
+  "generated": "2026-04-17T14:20:55.810588+00:00",
   "count": 8,
   "news": [
     {
@@ -438,12 +438,12 @@
       ]
     },
     {
-      "id": "33b6e8b3a3cc",
+      "id": "e6ef6f4f25ea",
       "title": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃",
       "published": "2026-04-17T04:52:25+00:00",
       "sources": [
         {
-          "name": "health.setn.com",
+          "name": "祝你健康",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MV2JRQkRWd3RtdmlKaDFsdDNBM1pLN2ZQWm1VUG9OcHFWclc5YmFQYTM5U2lRcEVjZ1V4MXhsWktrSDdDcDBqOGVLR0E?oc=5"
         }
       ],
@@ -456,6 +456,21 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
             }
           ]
         }

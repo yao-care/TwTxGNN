@@ -61,9 +61,9 @@ permalink: /news/gefitinib/
 
 ### [16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MV2JRQkRWd3RtdmlKaDFsdDNBM1pLN2ZQWm1VUG9OcHFWclc5YmFQYTM5U2lRcEVjZ1V4MXhsWktrSDdDcDBqOGVLR0E?oc=5)
 
-2026-04-17 <span class="news-indication-tag">失智</span>
+2026-04-17 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
 
-來源：[health.setn.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MV2JRQkRWd3RtdmlKaDFsdDNBM1pLN2ZQWm1VUG9OcHFWclc5YmFQYTM5U2lRcEVjZ1V4MXhsWktrSDdDcDBqOGVLR0E?oc=5)
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MV2JRQkRWd3RtdmlKaDFsdDNBM1pLN2ZQWm1VUG9OcHFWclc5YmFQYTM5U2lRcEVjZ1V4MXhsWktrSDdDcDBqOGVLR0E?oc=5)
 
 ---
 

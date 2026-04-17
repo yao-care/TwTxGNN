@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-17T12:58:35.539622+00:00",
-  "count": 24,
+  "fetched_at": "2026-04-17T14:20:52.617441+00:00",
+  "count": 23,
   "news": [
     {
       "id": "89f9549bfb10",
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "33b6e8b3a3cc",
-      "title": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃 - health.setn.com",
-      "published": "2026-04-17T04:52:25+00:00",
-      "summary": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃&nbsp;&nbsp;health.setn.com前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "health.setn.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MV2JRQkRWd3RtdmlKaDFsdDNBM1pLN2ZQWm1VUG9OcHFWclc5YmFQYTM5U2lRcEVjZ1V4MXhsWktrSDdDcDBqOGVLR0E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "286ac33f1265",
       "title": "超級細菌「鮑氏不動桿菌」致死率逾三成 中山大學團隊破解防護密碼 - 聯合新聞網",
       "published": "2026-04-16T04:16:35+00:00",
@@ -72,6 +60,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQMmlOZUo0ZkVVUVZ0MnQ1cWN0M2NDYWRiWHY3NUlSaEtEX1JieHhRYTVqUmJNa0JSd0owaUxYSHpfd0pXQmJUOXctcDN5cEVJZmlUMUJ6Q1BFSXpETHZ2NHB3X1FKYWszUk1OSlRtVXpxenlNUFJqMXd3RjhOX29jNWFJU1FFSmJieXlVYW0yZExrM3J5di1BTWhHeHctZ3lDbjIwby1haHdveW84UG00Q3BBTHhXbFc1d0s4eDZUdWI0bUZySmp2dTU3d3RkRGpFR1MyNXl0Mk1pNWM5RFlxTFlGVEZ1TXlBdWw4Mmp0Zk1yRkEtaGpsWlNwRkFmSG5iaVd2cG0yNUdEbzdvNlhZQkJXSk1NS3RhX1hQY0NnV0hGUFVDOGN6UVZuaFFYQUZDcmYySEN6UVdVbnZnY0tncnZvUDI4UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e6ef6f4f25ea",
+      "title": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃 - 祝你健康",
+      "published": "2026-04-17T04:52:25+00:00",
+      "summary": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃&nbsp;&nbsp;祝你健康飲控+運動減不掉內臟脂肪！研究曝「補充1維生素」穩血糖、抗發炎&nbsp;&nbsp;祝你健康中年降「失智毒素」 鮭魚可幫大忙 衝高維生素D濃度&nbsp;&nbsp;中時新聞網陽光充足仍恐維生素D不足 醫揭吸收誤區與實用補充建議&nbsp;&nbsp;獨家報導陽光維他命D，能幫助中風病患復原得較好嗎？&nbsp;&nbsp;careonline.com.tw",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MV2JRQkRWd3RtdmlKaDFsdDNBM1pLN2ZQWm1VUG9OcHFWclc5YmFQYTM5U2lRcEVjZ1V4MXhsWktrSDdDcDBqOGVLR0E?oc=5"
         }
       ]
     },
@@ -124,18 +124,6 @@
       ]
     },
     {
-      "id": "2e7afaae56db",
-      "title": "全球爆麻疹 外遊應小心 新冠疫情+地緣政治 免疫缺口崩潰 - 信報網站",
-      "published": "2026-04-15T18:08:56+00:00",
-      "summary": "全球爆麻疹 外遊應小心 新冠疫情+地緣政治 免疫缺口崩潰&nbsp;&nbsp;信報網站前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "信報網站",
-          "link": "https://news.google.com/rss/articles/CBMiywRBVV95cUxOTm8wYzhzWldhYUplTFFRVER6LXMweEpHd3ZUR0FzVG1YaW1pbjFPQkctcG05UmJMN3RGOU5YUmlKb0FpLW5peTRQT2VmLTdxUXlmSG9ZZFNpN2Rld2VRUGk1VzNhRXBodC16SGJfOF8zLVVaMGpzS29PaHpCdjBPU1VZZHBHWXh5X0FRUFJLNGNvMGFSdWdMeXUxOG9Cbno4VnFmWFVnSlZOVTF1UDdjQ0pfY1hDT2tPVnh4anoxTWRrTTlxc2F5STFXOHkzWlRlTDVrcG5xM3VIR1pDcUhpRWJYYUdXRE1jVmt3c3dvRm5tYmYxVGI1M04wWHJ6bHZMX0ZrRmJPTE1HYlQ4eUpvczlyQlFHWmkxaXc2LUlMT0doVmM3WVV0aVhuVmkwVTBpMmtPQm05REo2N2xNZzRmbTJBU0IyOE8yN3YtbDQxcWoza0VUdEJaVk4wRThGTTFjMDBPd1FCZDI0bDJROVlOeW0xMTRlblZuQldZaHZwQlhTNExhNzRzVnRwZVQtZi1YUkdXRzBldnBfSnBrTU1vRFROaUtuMzhZLW1ySkUzTFV2RUR4ZC1ZZlVoaHNHMW00TkgyVnlVdUVJN3hJN3VJU19WMDVSUXhLWlEzRzY3eTZMMU92alFDTGRxcXRxSS1UTHpaMGNxMXNPVVNURkNGb3JqTkRVYUU1Vk5DLTdxQ1pTaWxlSnJGTVVPd0xSV0JQUjd3NTNiaENyRHJvS2RHRHJ0R01QZTYxLU0zMTRXVkV6WTB1cHo1b05Ocw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5136f16b542b",
       "title": "【灣區新聞】舊金山有嬰兒旅行回國後確診麻疹 未接種疫苗（視頻） - KTSF.com",
       "published": "2026-04-16T14:13:00+00:00",
@@ -175,7 +163,7 @@
       "id": "b442783bdc60",
       "title": "肺癌躍居中國女性首要癌症威脅 二手煙、三手煙與廚房油煙成關鍵因素 - Singtaousa",
       "published": "2026-04-17T06:28:20+00:00",
-      "summary": "肺癌躍居中國女性首要癌症威脅 二手煙、三手煙與廚房油煙成關鍵因素&nbsp;&nbsp;Singtaousa97%女患者從不吸煙仍中招 肺癌躍居中國女性第一大癌症 二手煙廚房油煙成最大元凶&nbsp;&nbsp;BusinessFocus「肺癌」成陸女性頭號癌症殺手 二手菸、三手菸與油煙暴露惹禍&nbsp;&nbsp;中天新聞網肺癌成中國女性第一大癌症 三誘因最致命&nbsp;&nbsp;新唐人電視台肺癌成中國女性第一大癌症 二手煙、三手煙、油煙成主因&nbsp;&nbsp;singtao.ca",
+      "summary": "肺癌躍居中國女性首要癌症威脅 二手煙、三手煙與廚房油煙成關鍵因素&nbsp;&nbsp;Singtaousa肺癌成中國女性第一大癌症 發病率呈上升態勢&nbsp;&nbsp;大紀元新聞網「肺癌」成陸女性頭號癌症殺手 二手菸、三手菸與油煙暴露惹禍&nbsp;&nbsp;中天新聞網97%女患者從不吸煙仍中招 肺癌躍居中國女性第一大癌症 二手煙廚房油煙成最大元凶&nbsp;&nbsp;BusinessFocus肺癌成中國女性第一大癌症 三誘因最致命&nbsp;&nbsp;新唐人電視台",
       "sources": [
         {
           "name": "Singtaousa",
@@ -268,18 +256,6 @@
       ]
     },
     {
-      "id": "1f382486554c",
-      "title": "MIT 研製室溫量子感測器 可同時量度多個參數 - Techritual Hong Kong",
-      "published": "2026-04-15T19:04:53+00:00",
-      "summary": "MIT 研製室溫量子感測器 可同時量度多個參數&nbsp;&nbsp;Techritual Hong Kong",
-      "sources": [
-        {
-          "name": "Techritual Hong Kong",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DSWVHdlExQTA2UlFvdDNsaTg0bU94VlVxTERlQTRMQkpNQ1lBQVVFc3NyQnE3VWFtYUg4T1FoUmxVVnhneFZqWVk4SU9lMkR2UVJITjRXanU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "77d2e73f1203",
       "title": "健身｜空肚做gym 增肌變減肌？ - am730",
       "published": "2026-04-16T03:30:00+00:00",
@@ -288,6 +264,18 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WOXRadmhMQ1QwNm45azlydTlGbU5hMW5BZ0xMOTRqR1NDV1A2YUV6YlZsY3JhQkZRdVJhMEVua1JrVjZaUGlldjBFQ3psbVBhdUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1f382486554c",
+      "title": "MIT 研製室溫量子感測器 可同時量度多個參數 - Techritual Hong Kong",
+      "published": "2026-04-15T19:04:53+00:00",
+      "summary": "MIT 研製室溫量子感測器 可同時量度多個參數&nbsp;&nbsp;Techritual Hong Kong",
+      "sources": [
+        {
+          "name": "Techritual Hong Kong",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DSWVHdlExQTA2UlFvdDNsaTg0bU94VlVxTERlQTRMQkpNQ1lBQVVFc3NyQnE3VWFtYUg4T1FoUmxVVnhneFZqWVk4SU9lMkR2UVJITjRXanU?oc=5"
         }
       ]
     }
