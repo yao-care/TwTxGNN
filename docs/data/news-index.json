@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-17T08:22:08.147617+00:00",
+  "generated": "2026-04-17T10:06:56.275775+00:00",
   "count": 9,
   "news": [
     {
@@ -211,85 +211,13 @@
       ]
     },
     {
-      "id": "e6ef6f4f25ea",
-      "title": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃",
-      "published": "2026-04-17T04:52:25+00:00",
+      "id": "b442783bdc60",
+      "title": "肺癌躍居中國女性首要癌症威脅 二手煙、三手煙與廚房油煙成關鍵因素",
+      "published": "2026-04-17T06:28:20+00:00",
       "sources": [
         {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MV2JRQkRWd3RtdmlKaDFsdDNBM1pLN2ZQWm1VUG9OcHFWclc5YmFQYTM5U2lRcEVjZ1V4MXhsWktrSDdDcDBqOGVLR0E?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "766bf82e4b9c",
-      "title": "101歲修女有失智病變，仍記憶力驚人！研究揭「1習慣」減緩大腦退化",
-      "published": "2026-04-17T04:00:00+00:00",
-      "sources": [
-        {
-          "name": "優活健康網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90UU1EN3gwQWNRdzV4OFh5WmhmaEpZTEpraW00a0toVHZnZVdFMF9kaTFweU5NTGxSVjhGWHdSTlp0Q25MajlFanZKTkdOMF9ZVnlZ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d3ac36a12101",
-      "title": "科學家發現有助於減少肥胖的天然激素",
-      "published": "2026-04-17T03:59:21+00:00",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPanlKLXppRllSNDVidjRYemZkLWhLMFpSN3pmWFlRNGpWSnB3QURxVllWRWdtd3pYREVqMXpwWlJ1ZEY0cGdpVk9DX1Izb1JzRmtUSWNCWGlQbm11d1VLUVBJWnNWZnFIeUp6U2NtRHFTalUxVnBKOU15RmRuemxmR09TWUVKbW5HNlFiTmxzajJWZDhNSUJDeWJ2MTZrdHB3em5jckVjM3hGazdvS2lkOGJfSUk4cllGZ3JkX01xeGV1Vk1VOG9pYlg5d0JPRUQzYjF5UFJIYkNZWHRqTGFIYldHcnowSmJfUjU5aFBwdndXa0hhcHd3MGdvWG1kcEs2RHk4My1vZjNzYm1BTldOYy1USU1xZU1Ld2FMZmR2aHA4aFVzaUROcmhUaTBLcW5KZElyMTVnYXVveHhmb2h0dVh5VjhLMExfa2c?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c906b0808748",
-      "title": "肺癌成中國女性第一大癌症 二手煙、三手煙、油煙成主因",
-      "published": "2026-04-17T03:42:46+00:00",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOSXVuSVdSTVZiQWlTOGpCTm1LY3pZaEppbWs3cXR6Ylh5LUMwMUg4ZHhaaVZiYkJqOTNxUF9ZUFg2Q3htVFUyS2d1anB3S2lPZGVzWE5RUGx6UUZRMnNGRHZLQTVPd09zR25OQ3JmRC1SM0FjRmtiNFVXVmlzQWJrUUFUMVFQS3Rqd29mUDRvM0xaMGkxTjBncUc1ZlVEbDZrTVJvTWxmSTRjcmFFOGlnS0FOMWlhZVo4ZS1neURwcEdSYno3UnU1VGVELWFobC1OSDNxYTlsM1NuOUR5a29GbDhXRml3NUt4dF9yd3Y3MWkyUGwyblhad2lFeEtjM3k5dkctd0dwQ1JzRTUwUzF3VVVLNUI5aS1peHBMcHBLS2lhUk5Xa0F1dC02VGxRSmd2NFYyYjVnWnRZbDU5Mlh1TFU0ODVRVkR2RjY5VGFDS3psQnowZEhzN0g3dkZRTFU3Tjc3M2Z5VTFVOEFMbWVYZWl6RQ?oc=5"
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORFBKY3FFODdzUXlzRzVfQlZndHNZanIybVBjc1hnWUxLTHcyY2pGZnlZWnFlcFdSNTN2RXZ0ZV9XTVBpYWNCemYzd3U1VUdDTGxqSTZuSjBsNGFEaVpFZkloYjJPczB4dHByWVVhR1hYWE5Xa3pzcjhiNF9HZGltTVJFSUxQMXVwSzlLcGtDTXU5dFE?oc=5"
         }
       ],
       "keywords": [
@@ -504,6 +432,78 @@
             {
               "slug": "vinorelbine",
               "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "33b6e8b3a3cc",
+      "title": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃",
+      "published": "2026-04-17T04:52:25+00:00",
+      "sources": [
+        {
+          "name": "health.setn.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MV2JRQkRWd3RtdmlKaDFsdDNBM1pLN2ZQWm1VUG9OcHFWclc5YmFQYTM5U2lRcEVjZ1V4MXhsWktrSDdDcDBqOGVLR0E?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "766bf82e4b9c",
+      "title": "101歲修女有失智病變，仍記憶力驚人！研究揭「1習慣」減緩大腦退化",
+      "published": "2026-04-17T04:00:00+00:00",
+      "sources": [
+        {
+          "name": "優活健康網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90UU1EN3gwQWNRdzV4OFh5WmhmaEpZTEpraW00a0toVHZnZVdFMF9kaTFweU5NTGxSVjhGWHdSTlp0Q25MajlFanZKTkdOMF9ZVnlZ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d3ac36a12101",
+      "title": "科學家發現有助於減少肥胖的天然激素",
+      "published": "2026-04-17T03:59:21+00:00",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPanlKLXppRllSNDVidjRYemZkLWhLMFpSN3pmWFlRNGpWSnB3QURxVllWRWdtd3pYREVqMXpwWlJ1ZEY0cGdpVk9DX1Izb1JzRmtUSWNCWGlQbm11d1VLUVBJWnNWZnFIeUp6U2NtRHFTalUxVnBKOU15RmRuemxmR09TWUVKbW5HNlFiTmxzajJWZDhNSUJDeWJ2MTZrdHB3em5jckVjM3hGazdvS2lkOGJfSUk4cllGZ3JkX01xeGV1Vk1VOG9pYlg5d0JPRUQzYjF5UFJIYkNZWHRqTGFIYldHcnowSmJfUjU5aFBwdndXa0hhcHd3MGdvWG1kcEs2RHk4My1vZjNzYm1BTldOYy1USU1xZU1Ld2FMZmR2aHA4aFVzaUROcmhUaTBLcW5KZElyMTVnYXVveHhmb2h0dVh5VjhLMExfa2c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }

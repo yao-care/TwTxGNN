@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-17T08:22:03.594604+00:00",
-  "count": 27,
+  "fetched_at": "2026-04-17T10:06:51.578064+00:00",
+  "count": 25,
   "news": [
     {
       "id": "eac44af4c4c0",
@@ -12,18 +12,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjBFWDc4eExwV2VsOFF5WHJUaElhS3pnMUFhck5BQ2dJdlZnR2h3ckRsTERISkdPb3AxVHNoYjQ5bVNoVzdDZHc0TmlUS0NUYkQwdUZycTNWMkZ2RGhYYW9pUTd0WlRUcl9xVnB6d1Y4NGRBZjAwUUE4QW9QT29uZzFySFNqNDBMWWs2YUViT1d5TFluMmV3QWsybUtzTk1DUFdxTl9yemxDYVpGVy1WeHg4d0JXemZhR2N3V0ZybGVBeEZ4RkdEcU1GMExiWjlEeEtONS1MeEdfRldfWTVoNlhtZ3JPY3JEZ3cyWEowYlhZZkt6S2pjQnlMeVFQYkFzWnV3a296Q2x5WU1Udm9GVHl1Y0Q3RzdfbDNwcmFkRm5HbFR6UDVoeF9LMzdTTUNCendCWnNnVWM3U09OY2Yzb05qdjI2d3NDMVVibUR1WnpZUHc5NEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "766bf82e4b9c",
-      "title": "101歲修女有失智病變，仍記憶力驚人！研究揭「1習慣」減緩大腦退化 - 優活健康網",
-      "published": "2026-04-17T04:00:00+00:00",
-      "summary": "101歲修女有失智病變，仍記憶力驚人！研究揭「1習慣」減緩大腦退化&nbsp;&nbsp;優活健康網",
-      "sources": [
-        {
-          "name": "優活健康網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90UU1EN3gwQWNRdzV4OFh5WmhmaEpZTEpraW00a0toVHZnZVdFMF9kaTFweU5NTGxSVjhGWHdSTlp0Q25MajlFanZKTkdOMF9ZVnlZ?oc=5"
         }
       ]
     },
@@ -40,13 +28,25 @@
       ]
     },
     {
-      "id": "e6ef6f4f25ea",
-      "title": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃 - 祝你健康",
-      "published": "2026-04-17T04:52:25+00:00",
-      "summary": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃&nbsp;&nbsp;祝你健康前往 Google 新聞查看完整報導",
+      "id": "766bf82e4b9c",
+      "title": "101歲修女有失智病變，仍記憶力驚人！研究揭「1習慣」減緩大腦退化 - 優活健康網",
+      "published": "2026-04-17T04:00:00+00:00",
+      "summary": "101歲修女有失智病變，仍記憶力驚人！研究揭「1習慣」減緩大腦退化&nbsp;&nbsp;優活健康網",
       "sources": [
         {
-          "name": "祝你健康",
+          "name": "優活健康網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90UU1EN3gwQWNRdzV4OFh5WmhmaEpZTEpraW00a0toVHZnZVdFMF9kaTFweU5NTGxSVjhGWHdSTlp0Q25MajlFanZKTkdOMF9ZVnlZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "33b6e8b3a3cc",
+      "title": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃 - health.setn.com",
+      "published": "2026-04-17T04:52:25+00:00",
+      "summary": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃&nbsp;&nbsp;health.setn.com前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "health.setn.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MV2JRQkRWd3RtdmlKaDFsdDNBM1pLN2ZQWm1VUG9OcHFWclc5YmFQYTM5U2lRcEVjZ1V4MXhsWktrSDdDcDBqOGVLR0E?oc=5"
         }
       ]
@@ -184,6 +184,18 @@
       ]
     },
     {
+      "id": "b442783bdc60",
+      "title": "肺癌躍居中國女性首要癌症威脅 二手煙、三手煙與廚房油煙成關鍵因素 - Singtaousa",
+      "published": "2026-04-17T06:28:20+00:00",
+      "summary": "肺癌躍居中國女性首要癌症威脅 二手煙、三手煙與廚房油煙成關鍵因素&nbsp;&nbsp;Singtaousa97%女患者從不吸煙仍中招 肺癌躍居中國女性第一大癌症 二手煙廚房油煙成最大元凶&nbsp;&nbsp;BusinessFocus「肺癌」成陸女性頭號癌症殺手 二手菸、三手菸與油煙暴露惹禍&nbsp;&nbsp;中天新聞網肺癌成中國女性第一大癌症 三誘因最致命&nbsp;&nbsp;新唐人電視台肺癌成中國女性第一大癌症 二手煙、三手煙、油煙成主因&nbsp;&nbsp;singtao.ca",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORFBKY3FFODdzUXlzRzVfQlZndHNZanIybVBjc1hnWUxLTHcyY2pGZnlZWnFlcFdSNTN2RXZ0ZV9XTVBpYWNCemYzd3U1VUdDTGxqSTZuSjBsNGFEaVpFZkloYjJPczB4dHByWVVhR1hYWE5Xa3pzcjhiNF9HZGltTVJFSUxQMXVwSzlLcGtDTXU5dFE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e5d54429dc3e",
       "title": "美國輪狀病毒疫情升溫，CDC警告嬰幼兒嘔吐腹瀉住院風險 - Singtaousa",
       "published": "2026-04-16T20:38:12+00:00",
@@ -228,30 +240,6 @@
         {
           "name": "Exmoo",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zWU1TalVpLXZxSElUck0tZ1llZ25iRFpCSk9SZWZZeC1BRkRfLVZjY0NacU5MRWl0Znlka3IwWFNJVVl3cHZib1IyWXY4azlPMDBZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c3a0a01d6cd6",
-      "title": "麻疹｜39歲婦獨訪印尼後中招 曾到東區醫院及東華東院 187人被列密切接觸者 - 星島頭條",
-      "published": "2026-04-16T10:59:53+00:00",
-      "summary": "麻疹｜39歲婦獨訪印尼後中招 曾到東區醫院及東華東院 187人被列密切接觸者&nbsp;&nbsp;星島頭條潛伏期到印尼39歲女子確診麻疹187人被列密切接觸者- 香港 - 香港文匯網&nbsp;&nbsp;香港文匯網麻疹｜外傭遊印尼後感染麻疹 與僱主同住北角城市花園 187人被列為密切接觸者&nbsp;&nbsp;香港經濟日報HKET39歲婦印尼返港後發燒出疹 求醫證染麻疹列輸入&nbsp;&nbsp;on.cc東網39歲女子感染麻疹潛伏期曾到印尼 187人列為密切接觸者&nbsp;&nbsp;香港電台新聞網",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxPYUZ3UU0tRXpPa1Y1Q2dMekRTQlBrM01pYXhQQjlSR0NXbld0ZkJzTE1xNnhrVnJfdGZLNC02RUx1VDVPXy1TTS1VTTJrZkVqY25HOHZiaDhKRTFWeG4yWmxtOXNiLWNIT0o1eUhBU1ZoZHVSbUxoY3loQWdtc0YxVmM0TzhxZjJfSmhmdDVFYXc2b0xxeUVtMjNsY2hwcUpGQTdUak1qdEpKT3Z2OWEzWjJidEtuQm1GS1lJTEYtc0ZNV2F6bHZ4bVI2MkhvY1lzU2d2OXFwNDV3UWVSVHpZMThnMWtFWkJPa0xfWFh5SFhkVHFQb2dCR1U4OWMtTURpenVJRGZjRlpULVB6RnFjamxMOEJETlNxV2hiWUdzLWdJNkZXN3p2T2pJdnN2Nl9yNlpCQmlXQmVxWTJUcUN6a0FueVktSDZmQ2g1a1dtbWJGd0F3LWpLLVZXMEhvcUdaSkdiLWFJRUwyWEk2cnlGYVVwbUNQcFFreTEyLWtwLWxCNFlYclF5QWZsMGJhb0pQd1BlT2Zrckwtc1dPWmExdGZpY3hlM09iellyby1qYlRHeVktZkhob1NINk1PUzhxWXcxa245Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c906b0808748",
-      "title": "肺癌成中國女性第一大癌症 二手煙、三手煙、油煙成主因 - 星島頭條",
-      "published": "2026-04-17T03:42:46+00:00",
-      "summary": "肺癌成中國女性第一大癌症 二手煙、三手煙、油煙成主因&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOSXVuSVdSTVZiQWlTOGpCTm1LY3pZaEppbWs3cXR6Ylh5LUMwMUg4ZHhaaVZiYkJqOTNxUF9ZUFg2Q3htVFUyS2d1anB3S2lPZGVzWE5RUGx6UUZRMnNGRHZLQTVPd09zR25OQ3JmRC1SM0FjRmtiNFVXVmlzQWJrUUFUMVFQS3Rqd29mUDRvM0xaMGkxTjBncUc1ZlVEbDZrTVJvTWxmSTRjcmFFOGlnS0FOMWlhZVo4ZS1neURwcEdSYno3UnU1VGVELWFobC1OSDNxYTlsM1NuOUR5a29GbDhXRml3NUt4dF9yd3Y3MWkyUGwyblhad2lFeEtjM3k5dkctd0dwQ1JzRTUwUzF3VVVLNUI5aS1peHBMcHBLS2lhUk5Xa0F1dC02VGxRSmd2NFYyYjVnWnRZbDU5Mlh1TFU0ODVRVkR2RjY5VGFDS3psQnowZEhzN0g3dkZRTFU3Tjc3M2Z5VTFVOEFMbWVYZWl6RQ?oc=5"
         }
       ]
     },
@@ -304,26 +292,14 @@
       ]
     },
     {
-      "id": "77d2e73f1203",
-      "title": "健身｜空肚做gym 增肌變減肌？ - am730",
+      "id": "c4aee4f2caeb",
+      "title": "健身｜空肚做gym 增肌變減肌？ - AM730",
       "published": "2026-04-16T03:30:00+00:00",
-      "summary": "健身｜空肚做gym 增肌變減肌？&nbsp;&nbsp;am730",
+      "summary": "健身｜空肚做gym 增肌變減肌？&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WOXRadmhMQ1QwNm45azlydTlGbU5hMW5BZ0xMOTRqR1NDV1A2YUV6YlZsY3JhQkZRdVJhMEVua1JrVjZaUGlldjBFQ3psbVBhdUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7bdef834c744",
-      "title": "減低病毒傳播風險 獄中篩查 助囚友戰勝丙肝 - 信報網站",
-      "published": "2026-04-15T08:08:13+00:00",
-      "summary": "減低病毒傳播風險 獄中篩查 助囚友戰勝丙肝&nbsp;&nbsp;信報網站",
-      "sources": [
-        {
-          "name": "信報網站",
-          "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQQjlUakRsVW9UMWdOM093T2JMWmtDUWc2OGsyUjl0YnRFVzJwU2o3Skw2QS10SmZ4b3dTVTJCS1V4UXFXZ1hXdWNOci1ObHZLRFk3cF9JR1dOek5LRWJLUHg1VnRwTF9JOGV3a1FJRGNKMGprVHZncG5IQkV4ajlwQTh5NTA1LTJxMmxlaFBVcm9lamxaRWtrbGdpbXhneFZKOGdhdk5nYkZqOHMwakV2c0xiS21BQ0NhSVRMZHNaNFZUczZmMXhtZ3kyTDV4N3ViYjgtTWQzc3FnQVVnTU9VVklUMkhPUUpMOE1fT2hENGc1VkJEOUFyczJ1cEFYSVFGVmQ4cVlXRkZvRnBxM0RWUWhmZURiN1J3SlF0SXJuMHQzTXE1X2RwaE1wSy0wOEtJMlFfYVBVVkJWbk1ZQndKN3NaM1dmVi1PTkdYbDlHTmNIUlhwclVYcGNBLWRKWXp5WmVwV1cwQ3FkVnp6aGxXNTFLUDl5a3hHM25NZGxwaG9YX18waFBPMkw5Ri1yLVlxMHBjVFU4Y1ZtS3luYmV3dnN5VnZwWVNsWEw1RVFYbHVoakY5VnBtY09FTWJGRURISDEyVi1fdzlrNVJxTGpKUWkwRU42aHRmSjltUUtXMTN6enli?oc=5"
         }
       ]
     }
