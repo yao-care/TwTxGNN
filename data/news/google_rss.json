@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-17T21:34:11.017177+00:00",
+  "fetched_at": "2026-04-17T22:29:39.934493+00:00",
   "count": 25,
   "news": [
     {
@@ -196,6 +196,18 @@
       ]
     },
     {
+      "id": "5200126253d2",
+      "title": "中慧生物(02627)指三價流感疫苗慧爾康欣3加速全國招補標進程 - Yahoo 財經",
+      "published": "2026-04-16T05:12:51+00:00",
+      "summary": "中慧生物(02627)指三價流感疫苗慧爾康欣3加速全國招補標進程&nbsp;&nbsp;Yahoo 財經",
+      "sources": [
+        {
+          "name": "Yahoo 財經",
+          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQcWVlX0U2NTVSWk5fMWd5M2pxS3lIUFNRNUVfSWlfc2xaSlRtcHZjT3phTjhrdEd2QkhrQ0xKaERxcURrRzNWbmZaaldOSUdweWRHVWhyc0VVN1VQTHNqRXFQcmV2TFpwbzNfczJ4eVY0UWQ3blFXUi05Q1pqTm9FQzFZSHFzQWFvdG9xdVBvUVdmRnRTQTJGamk1RjZQeV8zR1laeXRIUHJYU0JBQzNFZUk1TnZ1YlB3ZU1Na1RtWHR4Y0Jud2JFSGozTnZBSDhObk5sSGY0QXZpdGphUFQwUEpfZDYtWExJYnA5N2hfTlVlSUlFMFR5b3o4OE9nT25EVlFXVEg1T3RDSEh3dzN5QkFiQktiOHI4d2EzT1NLXzZfNzdNRGRNeWVCLTM0Qm1CaXMtaDJmd0NJY0U2THRJdDZONTd3d3QwLWN4UnJUQ1FLeDVfdDZHa2tpUWR3VzdIUkQ0TW9DZXNmQS1zY3NsTWotSUdIRTY5eEx6OVBxMnJyWVJzUUNqaw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1c095bc662b5",
       "title": "「卵巢透明亮細胞癌」致癌關鍵BMAL2 有望成新型治療靶點 - sinica.edu.tw",
       "published": "2026-04-16T03:37:51+00:00",
@@ -264,18 +276,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxONXdlcTU4RGlmaEZmTUZCdHRUQUx2bFhKdF9jaGk3NXZrRGhSbXkwOUZ3TjRjWW16MzNNcjZ1eDFEWUd4a0dwR2ZxbHFHc0hqeVczUWdhR0o5TnNWSnBCbV82bWF3TmVxdFh1a0tXX3JlRnlFeXpMWUpKRmRfT2RkajRlVnVUQm1QS2t6Z2xiakFJRmxYV3ZfeFA4T2xFYzY0R19IckczUGZkaXJISDlzNmhOUGVUclNnWnFpZFBtczh0cDlHZ3dkUWRpdDhBUWdLQ3FnU0JPLVZWZ3lKeFFBU1FKcDBsRFh2WTZhRUt0eG9MQlBGbjZ1eWY5azE2UjdSN1lfTkV5TERESDNFOGZuNjJlVjNZQUJTZkNCdHl0TG9oazlLdXlSZ09rZUJwLXlkNTl1bmZkN08tZlpSMFlBMnBJdlFrd1k5anRoSV9nNTdtZUtKajIzRmhzNS0tcXU5dV9uRw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5200126253d2",
-      "title": "中慧生物(02627)指三價流感疫苗慧爾康欣3加速全國招補標進程 - Yahoo 財經",
-      "published": "2026-04-16T05:12:51+00:00",
-      "summary": "中慧生物(02627)指三價流感疫苗慧爾康欣3加速全國招補標進程&nbsp;&nbsp;Yahoo 財經",
-      "sources": [
-        {
-          "name": "Yahoo 財經",
-          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQcWVlX0U2NTVSWk5fMWd5M2pxS3lIUFNRNUVfSWlfc2xaSlRtcHZjT3phTjhrdEd2QkhrQ0xKaERxcURrRzNWbmZaaldOSUdweWRHVWhyc0VVN1VQTHNqRXFQcmV2TFpwbzNfczJ4eVY0UWQ3blFXUi05Q1pqTm9FQzFZSHFzQWFvdG9xdVBvUVdmRnRTQTJGamk1RjZQeV8zR1laeXRIUHJYU0JBQzNFZUk1TnZ1YlB3ZU1Na1RtWHR4Y0Jud2JFSGozTnZBSDhObk5sSGY0QXZpdGphUFQwUEpfZDYtWExJYnA5N2hfTlVlSUlFMFR5b3o4OE9nT25EVlFXVEg1T3RDSEh3dzN5QkFiQktiOHI4d2EzT1NLXzZfNzdNRGRNeWVCLTM0Qm1CaXMtaDJmd0NJY0U2THRJdDZONTd3d3QwLWN4UnJUQ1FLeDVfdDZHa2tpUWR3VzdIUkQ0TW9DZXNmQS1zY3NsTWotSUdIRTY5eEx6OVBxMnJyWVJzUUNqaw?oc=5"
         }
       ]
     },
