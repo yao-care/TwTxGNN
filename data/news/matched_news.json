@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-17T11:43:16.810035+00:00",
-  "total_count": 27,
-  "matched_count": 9,
+  "last_updated": "2026-04-17T12:58:39.549582+00:00",
+  "total_count": 25,
+  "matched_count": 8,
   "news": [
     {
       "id": "89f9549bfb10",
@@ -1321,13 +1321,13 @@
       "matched_keywords": []
     },
     {
-      "id": "c4aee4f2caeb",
+      "id": "77d2e73f1203",
       "title": "健身｜空肚做gym 增肌變減肌？",
       "published": "2026-04-16T03:30:00+00:00",
-      "summary": "健身｜空肚做gym 增肌變減肌？&nbsp;&nbsp;AM730",
+      "summary": "健身｜空肚做gym 增肌變減肌？&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WOXRadmhMQ1QwNm45azlydTlGbU5hMW5BZ0xMOTRqR1NDV1A2YUV6YlZsY3JhQkZRdVJhMEVua1JrVjZaUGlldjBFQ3psbVBhdUE?oc=5"
         }
       ],
@@ -1368,137 +1368,6 @@
         {
           "name": "信報網站",
           "link": "https://news.google.com/rss/articles/CBMiywRBVV95cUxOTm8wYzhzWldhYUplTFFRVER6LXMweEpHd3ZUR0FzVG1YaW1pbjFPQkctcG05UmJMN3RGOU5YUmlKb0FpLW5peTRQT2VmLTdxUXlmSG9ZZFNpN2Rld2VRUGk1VzNhRXBodC16SGJfOF8zLVVaMGpzS29PaHpCdjBPU1VZZHBHWXh5X0FRUFJLNGNvMGFSdWdMeXUxOG9Cbno4VnFmWFVnSlZOVTF1UDdjQ0pfY1hDT2tPVnh4anoxTWRrTTlxc2F5STFXOHkzWlRlTDVrcG5xM3VIR1pDcUhpRWJYYUdXRE1jVmt3c3dvRm5tYmYxVGI1M04wWHJ6bHZMX0ZrRmJPTE1HYlQ4eUpvczlyQlFHWmkxaXc2LUlMT0doVmM3WVV0aVhuVmkwVTBpMmtPQm05REo2N2xNZzRmbTJBU0IyOE8yN3YtbDQxcWoza0VUdEJaVk4wRThGTTFjMDBPd1FCZDI0bDJROVlOeW0xMTRlblZuQldZaHZwQlhTNExhNzRzVnRwZVQtZi1YUkdXRzBldnBfSnBrTU1vRFROaUtuMzhZLW1ySkUzTFV2RUR4ZC1ZZlVoaHNHMW00TkgyVnlVdUVJN3hJN3VJU19WMDVSUXhLWlEzRzY3eTZMMU92alFDTGRxcXRxSS1UTHpaMGNxMXNPVVNURkNGb3JqTkRVYUU1Vk5DLTdxQ1pTaWxlSnJGTVVPd0xSV0JQUjd3NTNiaENyRHJvS2RHRHJ0R01QZTYxLU0zMTRXVkV6WTB1cHo1b05Ocw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a48eb6afb8cc",
-      "title": "這種流行的痛風藥物可以降低心臟病發作和中風的風險",
-      "published": "2026-04-15T10:59:11+00:00",
-      "summary": "這種流行的痛風藥物可以降低心臟病發作和中風的風險&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPSTBKLTBnbW1Vd3l4bndkd1VrcElkYVA2eTBsbk5zalJhTFhnamJ5OVNsLWRuWktfdWlNSmZzWl9zSGlPVFR0b0xUVzg1cjltbDgtcVhaTERWMzJiTDBKbDhFNGRtVjQxOThYZ0xlTmstano2VE1sZjBqYkZBeHVlZVB5Zkw1X0RkVFlydDVpbHBwNDBia3g2MzB1d0pKWlpLdUJscGdGS0k2dTA0T0h5NDJvUjhFTjh1bl9wUGNKc2kyVlZNSmFEM1lNMF9BQlJTaFVBWWxzVTJLTVJURDc0YVJ1cjI5M0l3VDVUdFRLQ3laQUgzSVlsaTFxa21KcDZXRzhQalZVdF9peU5UTGJuNURLMmZ4U2xXYi0wYXhYWXVBLS1xaFZWRzBSNDJNWUx6b3dPMGNUNWYtRzgyeXk1aUJUbGY2Zy1VTzhNMl9PX05YTnB6dzN3VXBJOE1YdHo4bkZBMk5n?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心臟病發",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "gout",
-          "keyword": "痛風",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "sulfamerazine",
-              "name": "Sulfamerazine"
-            },
-            {
-              "slug": "sulfamethazine",
-              "name": "Sulfamethazine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "50d344e03da6",
-      "title": "撕下單純「瘦身針」標籤，最新研究：替爾泊肽能活化棕色脂肪加速燃脂 - TechNews 科技新報",
-      "published": "2026-04-11T16:01:19+00:00",
-      "summary": "撕下單純「瘦身針」標籤，最新研究：替爾泊肽能活化棕色脂肪加速燃脂&nbsp;&nbsp;TechNews 科技新報威斯康辛大學研究揭燃燒卡路里分子機制 望開拓肥胖糖尿病新療法&nbsp;&nbsp;蕃新聞科學家發現關鍵蛋白質 有望將棕色脂肪變成「燃脂引擎」 | 生活 | 要聞&nbsp;&nbsp;經濟日報撕下單純「瘦身針」標籤，最新研究：替爾泊肽能活化棕色脂肪加速燃脂- 股市爆料同學會&nbsp;&nbsp;CMoney",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd1JZWW40ZHhpbzZfMlcxVlcwcHRYNnFrMF84WHdwZDc2bG16NWxXcGlIT0hEVkd3VXAtV3QtdDQtZ0VjOEpxMDRDVDhmWmJwRXNsUWZEQ0RNSEttaEI3cm54bkVDNEM4X21QVkpEN0h3bGNoa19wVDVOU01rcl85d084VTJWRExUS2VQVU9iX3Vyd3UybWVNbGxtVEdDTC1xM1pjNFFn?oc=5"
         }
       ],
       "matched_keywords": []

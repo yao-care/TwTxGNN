@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/ouabain/
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>Prinzmetal angina（99.7%）</li>
 <li>hemoglobinopathy（99.5%）</li>
-<li class="indication-matched">myocardial infarction（99.4%）<span class="indication-tag">📰 心臟病發</span></li>
+<li>myocardial infarction（99.4%）</li>
 <li>thrombotic disease（99.3%）</li>
 <li>hyperthyroidism（99.3%）</li>
 <li>homozygous familial hypercholesterolemia（99.2%）</li>
@@ -42,15 +42,9 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [這種流行的痛風藥物可以降低心臟病發作和中風的風險](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPSTBKLTBnbW1Vd3l4bndkd1VrcElkYVA2eTBsbk5zalJhTFhnamJ5OVNsLWRuWktfdWlNSmZzWl9zSGlPVFR0b0xUVzg1cjltbDgtcVhaTERWMzJiTDBKbDhFNGRtVjQxOThYZ0xlTmstano2VE1sZjBqYkZBeHVlZVB5Zkw1X0RkVFlydDVpbHBwNDBia3g2MzB1d0pKWlpLdUJscGdGS0k2dTA0T0h5NDJvUjhFTjh1bl9wUGNKc2kyVlZNSmFEM1lNMF9BQlJTaFVBWWxzVTJLTVJURDc0YVJ1cjI5M0l3VDVUdFRLQ3laQUgzSVlsaTFxa21KcDZXRzhQalZVdF9peU5UTGJuNURLMmZ4U2xXYi0wYXhYWXVBLS1xaFZWRzBSNDJNWUx6b3dPMGNUNWYtRzgyeXk1aUJUbGY2Zy1VTzhNMl9PX05YTnB6dzN3VXBJOE1YdHo4bkZBMk5n?oc=5)
-
-2026-04-15 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">痛風</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPSTBKLTBnbW1Vd3l4bndkd1VrcElkYVA2eTBsbk5zalJhTFhnamJ5OVNsLWRuWktfdWlNSmZzWl9zSGlPVFR0b0xUVzg1cjltbDgtcVhaTERWMzJiTDBKbDhFNGRtVjQxOThYZ0xlTmstano2VE1sZjBqYkZBeHVlZVB5Zkw1X0RkVFlydDVpbHBwNDBia3g2MzB1d0pKWlpLdUJscGdGS0k2dTA0T0h5NDJvUjhFTjh1bl9wUGNKc2kyVlZNSmFEM1lNMF9BQlJTaFVBWWxzVTJLTVJURDc0YVJ1cjI5M0l3VDVUdFRLQ3laQUgzSVlsaTFxa21KcDZXRzhQalZVdF9peU5UTGJuNURLMmZ4U2xXYi0wYXhYWXVBLS1xaFZWRzBSNDJNWUx6b3dPMGNUNWYtRzgyeXk1aUJUbGY2Zy1VTzhNMl9PX05YTnB6dzN3VXBJOE1YdHo4bkZBMk5n?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

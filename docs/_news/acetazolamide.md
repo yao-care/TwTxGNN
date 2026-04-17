@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [壓力會導致癌症嗎？專家稱答案比你想像的更複雜](https://news.google.com/rss/articles/CBMi5gJBVV95cUxOcDkwczFRMHZXc09NXzBMd2R4Um1XTUphRHVyMnpXSDNzVWJHd1hlX3lXN1otR29ZUHNuWXBESXFUdE9tMWk0b00zUlpHUjVLR3l6WmV3b1A0WGxzbVdTUzZIbExBRE5mdTNMajJZc0MxS1FiYU5RNExxdWxoSkRDQnZiSTQ4TTlHMjdfX1ZUOTR1SjRYc3NENU00aU1FWGJ1cXRma1A5SzI2bDRHWTlVNERUbWdWcHNXb1hqSF8xREctWmxCd3JsVWJ4TWYxY3BJTkVRQjhVdm0yWENFSkppWk1SdVhla1B4WjNEY1NXMlFDTkdmcHhhQUF6WllkdVhlUmJZTkRyX2JHT3ZNSzhfNXl5YU14RjM1cktydWd5YmFWWTdxeEJkbUxQWFp5N2FuVnRGQUVCdE91VGpLNklIeUdrTENWOVVORUU4OWFJUjF5UDVOSnJ1elpldzV3U0txOXVHTXZn?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/acetazolamide/
 2026-04-16 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">惡性腫瘤</span>
 
 來源：[人民网-上海频道](https://news.google.com/rss/articles/CBMicEFVX3lxTE9nenV3d2dWNzctdmFvTlNUSWtqUmtqakNUYWM4WWlnX2xjZ2ozZ3hMd1BWeGdnUGdlQXBJMEE0M1RaalJWbGRLbVd4aWdWUVp0QnVGRW1oRmNRS280WWVKUGd5QW0xN1FnaUg0LXJfU0s?oc=5)
-
----
-
-### [這種流行的痛風藥物可以降低心臟病發作和中風的風險](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPSTBKLTBnbW1Vd3l4bndkd1VrcElkYVA2eTBsbk5zalJhTFhnamJ5OVNsLWRuWktfdWlNSmZzWl9zSGlPVFR0b0xUVzg1cjltbDgtcVhaTERWMzJiTDBKbDhFNGRtVjQxOThYZ0xlTmstano2VE1sZjBqYkZBeHVlZVB5Zkw1X0RkVFlydDVpbHBwNDBia3g2MzB1d0pKWlpLdUJscGdGS0k2dTA0T0h5NDJvUjhFTjh1bl9wUGNKc2kyVlZNSmFEM1lNMF9BQlJTaFVBWWxzVTJLTVJURDc0YVJ1cjI5M0l3VDVUdFRLQ3laQUgzSVlsaTFxa21KcDZXRzhQalZVdF9peU5UTGJuNURLMmZ4U2xXYi0wYXhYWXVBLS1xaFZWRzBSNDJNWUx6b3dPMGNUNWYtRzgyeXk1aUJUbGY2Zy1VTzhNMl9PX05YTnB6dzN3VXBJOE1YdHo4bkZBMk5n?oc=5)
-
-2026-04-15 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">痛風</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPSTBKLTBnbW1Vd3l4bndkd1VrcElkYVA2eTBsbk5zalJhTFhnamJ5OVNsLWRuWktfdWlNSmZzWl9zSGlPVFR0b0xUVzg1cjltbDgtcVhaTERWMzJiTDBKbDhFNGRtVjQxOThYZ0xlTmstano2VE1sZjBqYkZBeHVlZVB5Zkw1X0RkVFlydDVpbHBwNDBia3g2MzB1d0pKWlpLdUJscGdGS0k2dTA0T0h5NDJvUjhFTjh1bl9wUGNKc2kyVlZNSmFEM1lNMF9BQlJTaFVBWWxzVTJLTVJURDc0YVJ1cjI5M0l3VDVUdFRLQ3laQUgzSVlsaTFxa21KcDZXRzhQalZVdF9peU5UTGJuNURLMmZ4U2xXYi0wYXhYWXVBLS1xaFZWRzBSNDJNWUx6b3dPMGNUNWYtRzgyeXk1aUJUbGY2Zy1VTzhNMl9PX05YTnB6dzN3VXBJOE1YdHo4bkZBMk5n?oc=5)
 
 ---
 
