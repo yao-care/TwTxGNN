@@ -43,6 +43,14 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（3 則）
 
+### [中年降「失智毒素」 鮭魚可幫大忙 衝高維生素D濃度](https://news.google.com/rss/articles/CBMibkFVX3lxTE1OMGYtWHJwVEhxU25rWXFlMER0X2NseFV3NmFzVFdUTE1aSC01dVdQQzhveFBXak5uZ0lWNjZQZm5YWWV5Sk13VXN1Mm1oMndhSXVpdWl3bWhRbjVfRTNVZF9IOS1LTVBsalVHUUFB?oc=5)
+
+2026-04-17 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1OMGYtWHJwVEhxU25rWXFlMER0X2NseFV3NmFzVFdUTE1aSC01dVdQQzhveFBXak5uZ0lWNjZQZm5YWWV5Sk13VXN1Mm1oMndhSXVpdWl3bWhRbjVfRTNVZF9IOS1LTVBsalVHUUFB?oc=5)
+
+---
+
 ### [上海癌症5年生存率達65.2% 新版惡性腫瘤篩查預防《推薦》發布](https://news.google.com/rss/articles/CBMicEFVX3lxTE9nenV3d2dWNzctdmFvTlNUSWtqUmtqakNUYWM4WWlnX2xjZ2ozZ3hMd1BWeGdnUGdlQXBJMEE0M1RaalJWbGRLbVd4aWdWUVp0QnVGRW1oRmNRS280WWVKUGd5QW0xN1FnaUg0LXJfU0s?oc=5)
 
 2026-04-16 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">惡性腫瘤</span>
@@ -56,14 +64,6 @@ permalink: /news/gefitinib/
 2026-04-15 <span class="news-indication-tag">阿茲海默症</span>
 
 來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi_gJBVV95cUxPZkVMWUNSMXdFVkhQWkQwWjZjdDZTWTh0eHB6NHh1dDRsbnJQQUFjcXRaVm5zWUFNM2Z4S0dnaExDbVMyTlEwaUJONWRXY2xZQ0pUVWJ6Z0hCR2NOQnE1RHBjZWxzZVV5SkxyUi11ZnhmMlI4RHR5dVdkQW9qVDhmcjZUbGJkNWt5c3A5dlViX3h4VlRjYWh2UUVPTWxXb3FIR1lwamN6cmhram92aGhEMzNPUVQ4WFdrTWhwU3VEVTdlQXljbTliZTNjaFpXeXVhWjl0SkJCcDNfa3RCbnprV3gxUU9GZ0lkRDMzOFo3XzZabjhaa1RUQlVIbjFNU05GeVZfUWJub3l3SWk0QTcyUG5zNnBWYjlQYVM3bWdTZkFIT05aRzVySlFuOTlyb0RHVnVJVXVqMnQtcW9CS3BTeUhybTFXRnN4T0VFS3BmNWlQV2hDWC1JOGpXZ0Z0WENtN01MUkpGVGw4VzgybUdsUXU5RmpjWkxpUHhLY3BR?oc=5)
-
----
-
-### [研究揭維生素D水平或與失智症風險關聯！全球60% 人口不足引發醫界關注](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNVnQ0YTFaZ0VxOTVlS3hGUTBrR0x2NEFmNGtuOGIyamFySFp1WU5YSFBSaHBKbm1LOGEyWndHUURTVGNSZjdJYWwzWHotOUtWcEVMeTg3b0NTS0c1YkU0c1FhcW0wNWtHU2NNdF9EUU9Pb2RSMGhsdXZqZzR1bkZwNUJGdnZMRGRTcFQyUEwxTW5ibGVIUC11WFpvaTZwMjUwMzRVaEs5R3NUdWJmbkpaSkY3RS1KWTNzUVlpemNDOElOYWtNY1ZkQjZlYWVvMFdUMGp2R3hDUDZ0Nl9LZC1YbGdvT3RyRjVuNjJUUDhKenpaS2U1dW9QOHdRY3JIdzgyU3lvZktzOU5HdFZSVmNaSEd1SjdWdHI0bHNQUlN2X20zWmh6MmFQVkdhc0RBMjlTYU1yd0ZzMGRMZFhxcGhkQXJ3a3pKUzRhWHRPQlBINGV6MjRLTXRSUFVtR181SXRrc0VHMDVB?oc=5)
-
-2026-04-15 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
-
-來源：[巴士的報](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNVnQ0YTFaZ0VxOTVlS3hGUTBrR0x2NEFmNGtuOGIyamFySFp1WU5YSFBSaHBKbm1LOGEyWndHUURTVGNSZjdJYWwzWHotOUtWcEVMeTg3b0NTS0c1YkU0c1FhcW0wNWtHU2NNdF9EUU9Pb2RSMGhsdXZqZzR1bkZwNUJGdnZMRGRTcFQyUEwxTW5ibGVIUC11WFpvaTZwMjUwMzRVaEs5R3NUdWJmbkpaSkY3RS1KWTNzUVlpemNDOElOYWtNY1ZkQjZlYWVvMFdUMGp2R3hDUDZ0Nl9LZC1YbGdvT3RyRjVuNjJUUDhKenpaS2U1dW9QOHdRY3JIdzgyU3lvZktzOU5HdFZSVmNaSEd1SjdWdHI0bHNQUlN2X20zWmh6MmFQVkdhc0RBMjlTYU1yd0ZzMGRMZFhxcGhkQXJ3a3pKUzRhWHRPQlBINGV6MjRLTXRSUFVtR181SXRrc0VHMDVB?oc=5)
 
 ---
 

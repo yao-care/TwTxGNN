@@ -1,7 +1,78 @@
 {
-  "generated": "2026-04-16T23:32:54.918699+00:00",
-  "count": 6,
+  "generated": "2026-04-17T01:48:09.917439+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "5660401aba2f",
+      "title": "中年降「失智毒素」 鮭魚可幫大忙 衝高維生素D濃度",
+      "published": "2026-04-17T01:33:15+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OMGYtWHJwVEhxU25rWXFlMER0X2NseFV3NmFzVFdUTE1aSC01dVdQQzhveFBXak5uZ0lWNjZQZm5YWWV5Sk13VXN1Mm1oMndhSXVpdWl3bWhRbjVfRTNVZF9IOS1LTVBsalVHUUFB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b6f27c45f467",
+      "title": "咳嗽大笑就漏尿？醫揭更年期尿失禁3大高危險群 越拖只會越嚴重",
+      "published": "2026-04-17T00:00:28+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPbkxIQ0N6MVFQVkpjNVY0aVhQN1MyUXVEU2duLWYydnZvVWRXZ1A3N0ZaSkxTc2hCRk9ZOFJyWmJkVnE5VXBHRzBEWWw0cGY2dkRyd3YwR2JZOFZCYUdxVTBoNmpYZWVYOHpSUy1ILUJvbWVKeXVrY3BxVTFZNHJVRDE5dlRNVzFRTWl2N2p6RHpXR3FjeWxRdVJiSmpLWmZjcGFjczJEUmZvSmNHQk1ZRTIzODZJYXZVd19ielJ3RExwRGVteFQ0MUkxVWJQb0FvWm5falNYN3ZDSFZ3X3d1V0NlZmdQMXlnekxTSjVRb1l1bHpMTGphY2h0d0FieGI0ZGlEVUVyTGtjbDVJdVZEa3lQT2V3blRmRkc2WlQ2emVHR3hydzF3akptdkF0elhoOXlEMERoYlJEVHhLcWk4SFEzMFpRanRXdURWTmFnamI3aE1reVpDUWJVYTd0NE1keVpsZ0ZRdFhRa0xFMmhkZHRac3hmNEluXzN6VHIxYThyNF9ZV2lqOVp6Nk1LSWp4MFdYaFBNUmZmRk0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "e5d54429dc3e",
       "title": "美國輪狀病毒疫情升溫，CDC警告嬰幼兒嘔吐腹瀉住院風險",
@@ -625,6 +696,30 @@
       ]
     },
     {
+      "id": "dad3db698c7b",
+      "title": "維他命C真的能防感冒？醫揭答案 很多人都白吃了",
+      "published": "2026-04-16T07:00:08+00:00",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CWllUZkxVZTZ1RWswOWtSN3dwVjNOcG5NTDV4V0x2aXdVX1dKWXlTQVA3dDdiQkdJRjF6aFFNeGhtbFp5YjFLZUh5N0NmQlhtMUNJdU4xdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "a48eb6afb8cc",
       "title": "這種流行的痛風藥物可以降低心臟病發作和中風的風險",
       "published": "2026-04-15T10:59:11+00:00",
@@ -784,56 +879,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c99eb5b2d8f7",
-      "title": "研究揭維生素D水平或與失智症風險關聯！全球60% 人口不足引發醫界關注",
-      "published": "2026-04-15T01:20:14+00:00",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNVnQ0YTFaZ0VxOTVlS3hGUTBrR0x2NEFmNGtuOGIyamFySFp1WU5YSFBSaHBKbm1LOGEyWndHUURTVGNSZjdJYWwzWHotOUtWcEVMeTg3b0NTS0c1YkU0c1FhcW0wNWtHU2NNdF9EUU9Pb2RSMGhsdXZqZzR1bkZwNUJGdnZMRGRTcFQyUEwxTW5ibGVIUC11WFpvaTZwMjUwMzRVaEs5R3NUdWJmbkpaSkY3RS1KWTNzUVlpemNDOElOYWtNY1ZkQjZlYWVvMFdUMGp2R3hDUDZ0Nl9LZC1YbGdvT3RyRjVuNjJUUDhKenpaS2U1dW9QOHdRY3JIdzgyU3lvZktzOU5HdFZSVmNaSEd1SjdWdHI0bHNQUlN2X20zWmh6MmFQVkdhc0RBMjlTYU1yd0ZzMGRMZFhxcGhkQXJ3a3pKUzRhWHRPQlBINGV6MjRLTXRSUFVtR181SXRrc0VHMDVB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }
