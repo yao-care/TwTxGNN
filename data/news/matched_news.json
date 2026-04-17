@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-17T18:45:02.873974+00:00",
-  "total_count": 26,
+  "last_updated": "2026-04-17T19:52:57.142860+00:00",
+  "total_count": 27,
   "matched_count": 8,
   "news": [
+    {
+      "id": "1baa6732816b",
+      "title": "波士頓大學研究發現斑胸草雀腦神經新生機制 或解釋人類腦細胞再生限制 - Techritual Hong Kong",
+      "published": "2026-04-17T19:05:42+00:00",
+      "summary": "波士頓大學研究發現斑胸草雀腦神經新生機制 或解釋人類腦細胞再生限制&nbsp;&nbsp;Techritual Hong Kong",
+      "sources": [
+        {
+          "name": "Techritual Hong Kong",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmVXYxVVJ2TFRTeVM0aFFTcGwxM2JPV0VNVjZBdXdocDRTNFI4WEVncUU1NTBmbjRaTVd2b1ZQV2dUMWppV3ZXcUZVUzNlSTlaTXotQ0dJOTA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "06456b3808cb",
       "title": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性",
