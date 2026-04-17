@@ -1,17 +1,17 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-17T20:36:21.032168+00:00",
-  "count": 24,
+  "fetched_at": "2026-04-17T21:34:11.017177+00:00",
+  "count": 25,
   "news": [
     {
-      "id": "06456b3808cb",
-      "title": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性 - citytimes.tw",
-      "published": "2026-04-17T14:31:50+00:00",
-      "summary": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性&nbsp;&nbsp;citytimes.tw科學家發現細菌可以「爆炸」傳播抗生素抗藥性。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "f305534f3533",
+      "title": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性。 - arch-web.com.tw",
+      "published": "2026-04-17T13:45:17+00:00",
+      "summary": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性。&nbsp;&nbsp;arch-web.com.tw科學家發現細菌可以「爆炸」傳播抗生素抗藥性&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxORl9TOXdiM0FIaWtVUVZ3WURlclR1UVA1MUg2MFNLaUlwUG92T3h5LThBRDdwRHFpZVY4Y2UtSkM1MHdIUGdfdGFBb01WZVRydkE3TFNSUzFXUXpuZkEtdzQ3dXdXZkxTNVJPQW42azJtOTZqZEJVYUs0dHliY0xfTXF5aUZycHBOTHNKREFkNGV0OHY4Mkpvb18yMDh2RDQ4TWV5cUZNZTd2S2ZQWnVfcDhVZVM1WS1VVnhTYU5VSElGZFZKQkhIQXdTQUFMdlJub05MVlMySkZRUGNmR0NrR1FlcDBlaTJzM2hHTDd5cXVVQ0NLYWdCbEpWeWtaOHBrSzBndU0yOXF3Vld1clg0VUhId2RNYTNqWlBoNm00ckR6TUhTTzhWV0hIMXpMT0lpbzBpLTNHY2RXWTZjcGxXdXBkUGsyVjRIa0lZUHRZOFNOTnExOGhkbGlB?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQeV9RRUtrZUszTjZWY0IzYk5KRTlBRnV1SXNSanZpT0pRY1NwUC0yNk51ODdURHBhdHBWOFFvRHFscDU4SnNueU1DNVgwNV9oQzNfX1dnREllN2lRMUhLay0zLThfR1BmMFZGb01GbzhIVlVvNHJ3N1BMaXl1Um5nVUpWS1NhSHJpU2xHTFpvRUNxclktYTR4cWpoSFRYYVpSOFU2N3lKbjdwbXc5dHdMZWdMTVpRN1pxSEg0d1hlMGpvYS1rd1ppVGZOazN5LUlzQm1CMUs3em5ZbWdKbDB2THRhSjVveHNEcWN1bTNDeE9VdkFYeDJmRXUzRDFoX2plNkI5QXZGbU1PUXUzbktzV2VBNlVOZ3dINzdEWFdlcVhfUl84amE2UXFiOXYxUEliT1cwS1FrQ3lmWm9MckZTNHFTaUpnclJUWkpMTGJsSlV3MnNnQlEwc2RraW9yNEFfd2JlczNjTmZzRkx6MXlpNGFyT0t6S1phLXNqWkdPTlpwbng0R1E?oc=5"
         }
       ]
     },
@@ -112,6 +112,18 @@
       ]
     },
     {
+      "id": "0b9792199976",
+      "title": "國際野生動物貿易導致疾病從一種物種傳播到另一個物種。 - citytimes.tw",
+      "published": "2026-04-17T21:07:56+00:00",
+      "summary": "國際野生動物貿易導致疾病從一種物種傳播到另一個物種。&nbsp;&nbsp;citytimes.tw野生動物貿易 增加動物對人傳染病原體風險 50%：研究&nbsp;&nbsp;Techritual Hong Kong",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOay1qaFZic0RSYkRtOFVyRjZiR01NdlVwdFhuRVFiekM2Mjdmek1KQkhlcjFtYWU4d0RKZmVCdFNmanphR05fMnBaUzlrbWRNVzU1dVZxdmZLRVVyTlphUDRsQV9vNjNVVG9BRkVCMFNPNGJ3TmpGZUQ0dllIOTJDS0hNdkFVWEVMX2VmRkh2cU8wallmVTlZNE0yNFFTQS1mbkVidjJkZDR2RmxKeWVmTFY2bXhEdlNHaGRXTS1ndTRwbnl5TGh1RWM5dzdnbkphX2xIcnFrREhITWdQZ2FYcjI2cnZBaWxaTWJRNUF5U1NCOFpTWTJkOS01Q0VOYUhCLXM2WTNELUh6VHF6dGNpWjF5MElTSG96Xzc5LTN6Q1NJSFVReEtuQVFrN3NfenlNN3NlWW1EbmpacERCV2V5RnVnN0dKV25Pci1HaVY1OVRLU05ZTjBoMWR0R0dPWi13QXVZem93?oc=5"
+        }
+      ]
+    },
+    {
       "id": "dad3db698c7b",
       "title": "維他命C真的能防感冒？醫揭答案 很多人都白吃了 - 台視新聞網",
       "published": "2026-04-16T07:00:08+00:00",
@@ -196,14 +208,14 @@
       ]
     },
     {
-      "id": "b38f945e5fee",
+      "id": "229fd8b3bcc8",
       "title": "壓力會導致癌症嗎？專家稱答案比你想像的更複雜 - citytimes.tw",
-      "published": "2026-04-17T07:13:56+00:00",
+      "published": "2026-04-17T20:50:53+00:00",
       "summary": "壓力會導致癌症嗎？專家稱答案比你想像的更複雜&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
           "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOcDkwczFRMHZXc09NXzBMd2R4Um1XTUphRHVyMnpXSDNzVWJHd1hlX3lXN1otR29ZUHNuWXBESXFUdE9tMWk0b00zUlpHUjVLR3l6WmV3b1A0WGxzbVdTUzZIbExBRE5mdTNMajJZc0MxS1FiYU5RNExxdWxoSkRDQnZiSTQ4TTlHMjdfX1ZUOTR1SjRYc3NENU00aU1FWGJ1cXRma1A5SzI2bDRHWTlVNERUbWdWcHNXb1hqSF8xREctWmxCd3JsVWJ4TWYxY3BJTkVRQjhVdm0yWENFSkppWk1SdVhla1B4WjNEY1NXMlFDTkdmcHhhQUF6WllkdVhlUmJZTkRyX2JHT3ZNSzhfNXl5YU14RjM1cktydWd5YmFWWTdxeEJkbUxQWFp5N2FuVnRGQUVCdE91VGpLNklIeUdrTENWOVVORUU4OWFJUjF5UDVOSnJ1elpldzV3U0txOXVHTXZn?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQZFl1M0hLMjRFWnlvN29RNUllTFEzcHJoQzlzVzVPRGxRWXh4QklRY25ZYlFGN2pBWnFqdUg4NFpJS29UQXZpNG8xZ1JPTTFLOGRaUVExQm1VR2ViS0Q1SmFxSGJEcDVPalNUamFVcDJoLVhvWkkwOTdjalJFVzZFLUxFSUUtaHRjYlJLREx3MmJaSjl2SUttcW1RMDl3akpoS3JnRVhTbGpINV9uOWhHYlZGT3NDVnl3VzE4dUpDRVlWN3g3S250bjRmdWk5U29TbFY3SWxuXzU4dHJkRnVLbEJpUjRzV1N4N250UjJLT3drRHFWUVVkcVpyMm1ZaHR0YWtVWEZ3V3hZMnlJbTZsUzZ3Uk9UR2h0NDk5TFZJUzliejdSUEtBUkdnX09jYWw1bVNtWEtJQ1hTeVA4WWRsbGRkMU1vN1pmNm81WEdGaDJmdUNpQTNfUTJMalJTYjljV1VJU29R?oc=5"
         }
       ]
     },

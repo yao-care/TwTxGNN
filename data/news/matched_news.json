@@ -1,69 +1,30 @@
 {
-  "last_updated": "2026-04-17T20:36:24.478454+00:00",
-  "total_count": 25,
+  "last_updated": "2026-04-17T21:34:14.068235+00:00",
+  "total_count": 26,
   "matched_count": 7,
   "news": [
     {
-      "id": "1baa6732816b",
-      "title": "波士頓大學研究發現斑胸草雀腦神經新生機制 或解釋人類腦細胞再生限制 - Techritual Hong Kong",
-      "published": "2026-04-17T19:05:42+00:00",
-      "summary": "波士頓大學研究發現斑胸草雀腦神經新生機制 或解釋人類腦細胞再生限制&nbsp;&nbsp;Techritual Hong Kong",
-      "sources": [
-        {
-          "name": "Techritual Hong Kong",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmVXYxVVJ2TFRTeVM0aFFTcGwxM2JPV0VNVjZBdXdocDRTNFI4WEVncUU1NTBmbjRaTVd2b1ZQV2dUMWppV3ZXcUZVUzNlSTlaTXotQ0dJOTA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "06456b3808cb",
-      "title": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性",
-      "published": "2026-04-17T14:31:50+00:00",
-      "summary": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性&nbsp;&nbsp;citytimes.tw科學家發現細菌可以「爆炸」傳播抗生素抗藥性。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "0b9792199976",
+      "title": "國際野生動物貿易導致疾病從一種物種傳播到另一個物種。",
+      "published": "2026-04-17T21:07:56+00:00",
+      "summary": "國際野生動物貿易導致疾病從一種物種傳播到另一個物種。&nbsp;&nbsp;citytimes.tw野生動物貿易 增加動物對人傳染病原體風險 50%：研究&nbsp;&nbsp;Techritual Hong Kong",
       "sources": [
         {
           "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxORl9TOXdiM0FIaWtVUVZ3WURlclR1UVA1MUg2MFNLaUlwUG92T3h5LThBRDdwRHFpZVY4Y2UtSkM1MHdIUGdfdGFBb01WZVRydkE3TFNSUzFXUXpuZkEtdzQ3dXdXZkxTNVJPQW42azJtOTZqZEJVYUs0dHliY0xfTXF5aUZycHBOTHNKREFkNGV0OHY4Mkpvb18yMDh2RDQ4TWV5cUZNZTd2S2ZQWnVfcDhVZVM1WS1VVnhTYU5VSElGZFZKQkhIQXdTQUFMdlJub05MVlMySkZRUGNmR0NrR1FlcDBlaTJzM2hHTDd5cXVVQ0NLYWdCbEpWeWtaOHBrSzBndU0yOXF3Vld1clg0VUhId2RNYTNqWlBoNm00ckR6TUhTTzhWV0hIMXpMT0lpbzBpLTNHY2RXWTZjcGxXdXBkUGsyVjRIa0lZUHRZOFNOTnExOGhkbGlB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOay1qaFZic0RSYkRtOFVyRjZiR01NdlVwdFhuRVFiekM2Mjdmek1KQkhlcjFtYWU4d0RKZmVCdFNmanphR05fMnBaUzlrbWRNVzU1dVZxdmZLRVVyTlphUDRsQV9vNjNVVG9BRkVCMFNPNGJ3TmpGZUQ0dllIOTJDS0hNdkFVWEVMX2VmRkh2cU8wallmVTlZNE0yNFFTQS1mbkVidjJkZDR2RmxKeWVmTFY2bXhEdlNHaGRXTS1ndTRwbnl5TGh1RWM5dzdnbkphX2xIcnFrREhITWdQZ2FYcjI2cnZBaWxaTWJRNUF5U1NCOFpTWTJkOS01Q0VOYUhCLXM2WTNELUh6VHF6dGNpWjF5MElTSG96Xzc5LTN6Q1NJSFVReEtuQVFrN3NfenlNN3NlWW1EbmpacERCV2V5RnVnN0dKV25Pci1HaVY1OVRLU05ZTjBoMWR0R0dPWi13QXVZem93?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "89f9549bfb10",
-      "title": "「1投資」才是幸福長壽關鍵？死亡率降低39%、比運動更能強身健體！ - Harper's BAZAAR",
-      "published": "2026-04-17T10:43:41+00:00",
-      "summary": "「1投資」才是幸福長壽關鍵？死亡率降低39%、比運動更能強身健體！&nbsp;&nbsp;Harper's BAZAAR",
-      "sources": [
-        {
-          "name": "Harper's BAZAAR",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNSDhQSUtfQ0dGVFBPbFphbnYxdHNQakVmd0kyWDBKcGdZOVotN0NuOVlVWS15MW5TeEk1dERJdFR5TUEyaHU1cWhhNkY4VVpVSFVSSjRYNHVFTmd5UGN1d3EwRGFRUXMza3ZXdXRqR21JaFlSSG9maU4tVkVYM2ZVZ1pJazY5S2tVQ1EzVlFidW1zR21xallTcFUwVkg2aldYQ1UwSE1TbUhIMFB3QkJ0ZnJtYzRJOHF6aWNlZ0dqRDFRdE9JNnVkWjlRdUhQUE00ZnhscmVNZkZ6TTlSQ2pzOEtmRjVoSWtmbGhxTVR2X2tWMVRnWjV1WGlrZFFQTXFnekpYWg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "eac44af4c4c0",
-      "title": "蘇打水可以促進新陳代謝並幫助減肥嗎？",
-      "published": "2026-04-17T07:35:44+00:00",
-      "summary": "蘇打水可以促進新陳代謝並幫助減肥嗎？&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjBFWDc4eExwV2VsOFF5WHJUaElhS3pnMUFhck5BQ2dJdlZnR2h3ckRsTERISkdPb3AxVHNoYjQ5bVNoVzdDZHc0TmlUS0NUYkQwdUZycTNWMkZ2RGhYYW9pUTd0WlRUcl9xVnB6d1Y4NGRBZjAwUUE4QW9QT29uZzFySFNqNDBMWWs2YUViT1d5TFluMmV3QWsybUtzTk1DUFdxTl9yemxDYVpGVy1WeHg4d0JXemZhR2N3V0ZybGVBeEZ4RkdEcU1GMExiWjlEeEtONS1MeEdfRldfWTVoNlhtZ3JPY3JEZ3cyWEowYlhZZkt6S2pjQnlMeVFQYkFzWnV3a296Q2x5WU1Udm9GVHl1Y0Q3RzdfbDNwcmFkRm5HbFR6UDVoeF9LMzdTTUNCendCWnNnVWM3U09OY2Yzb05qdjI2d3NDMVVibUR1WnpZUHc5NEE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b38f945e5fee",
+      "id": "229fd8b3bcc8",
       "title": "壓力會導致癌症嗎？專家稱答案比你想像的更複雜",
-      "published": "2026-04-17T07:13:56+00:00",
+      "published": "2026-04-17T20:50:53+00:00",
       "summary": "壓力會導致癌症嗎？專家稱答案比你想像的更複雜&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
           "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOcDkwczFRMHZXc09NXzBMd2R4Um1XTUphRHVyMnpXSDNzVWJHd1hlX3lXN1otR29ZUHNuWXBESXFUdE9tMWk0b00zUlpHUjVLR3l6WmV3b1A0WGxzbVdTUzZIbExBRE5mdTNMajJZc0MxS1FiYU5RNExxdWxoSkRDQnZiSTQ4TTlHMjdfX1ZUOTR1SjRYc3NENU00aU1FWGJ1cXRma1A5SzI2bDRHWTlVNERUbWdWcHNXb1hqSF8xREctWmxCd3JsVWJ4TWYxY3BJTkVRQjhVdm0yWENFSkppWk1SdVhla1B4WjNEY1NXMlFDTkdmcHhhQUF6WllkdVhlUmJZTkRyX2JHT3ZNSzhfNXl5YU14RjM1cktydWd5YmFWWTdxeEJkbUxQWFp5N2FuVnRGQUVCdE91VGpLNklIeUdrTENWOVVORUU4OWFJUjF5UDVOSnJ1elpldzV3U0txOXVHTXZn?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQZFl1M0hLMjRFWnlvN29RNUllTFEzcHJoQzlzVzVPRGxRWXh4QklRY25ZYlFGN2pBWnFqdUg4NFpJS29UQXZpNG8xZ1JPTTFLOGRaUVExQm1VR2ViS0Q1SmFxSGJEcDVPalNUamFVcDJoLVhvWkkwOTdjalJFVzZFLUxFSUUtaHRjYlJLREx3MmJaSjl2SUttcW1RMDl3akpoS3JnRVhTbGpINV9uOWhHYlZGT3NDVnl3VzE4dUpDRVlWN3g3S250bjRmdWk5U29TbFY3SWxuXzU4dHJkRnVLbEJpUjRzV1N4N250UjJLT3drRHFWUVVkcVpyMm1ZaHR0YWtVWEZ3V3hZMnlJbTZsUzZ3Uk9UR2h0NDk5TFZJUzliejdSUEtBUkdnX09jYWw1bVNtWEtJQ1hTeVA4WWRsbGRkMU1vN1pmNm81WEdGaDJmdUNpQTNfUTJMalJTYjljV1VJU29R?oc=5"
         }
       ],
       "matched_keywords": [
@@ -263,6 +224,58 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1baa6732816b",
+      "title": "波士頓大學研究發現斑胸草雀腦神經新生機制 或解釋人類腦細胞再生限制 - Techritual Hong Kong",
+      "published": "2026-04-17T19:05:42+00:00",
+      "summary": "波士頓大學研究發現斑胸草雀腦神經新生機制 或解釋人類腦細胞再生限制&nbsp;&nbsp;Techritual Hong Kong",
+      "sources": [
+        {
+          "name": "Techritual Hong Kong",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmVXYxVVJ2TFRTeVM0aFFTcGwxM2JPV0VNVjZBdXdocDRTNFI4WEVncUU1NTBmbjRaTVd2b1ZQV2dUMWppV3ZXcUZVUzNlSTlaTXotQ0dJOTA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f305534f3533",
+      "title": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性。",
+      "published": "2026-04-17T13:45:17+00:00",
+      "summary": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性。&nbsp;&nbsp;arch-web.com.tw科學家發現細菌可以「爆炸」傳播抗生素抗藥性&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQeV9RRUtrZUszTjZWY0IzYk5KRTlBRnV1SXNSanZpT0pRY1NwUC0yNk51ODdURHBhdHBWOFFvRHFscDU4SnNueU1DNVgwNV9oQzNfX1dnREllN2lRMUhLay0zLThfR1BmMFZGb01GbzhIVlVvNHJ3N1BMaXl1Um5nVUpWS1NhSHJpU2xHTFpvRUNxclktYTR4cWpoSFRYYVpSOFU2N3lKbjdwbXc5dHdMZWdMTVpRN1pxSEg0d1hlMGpvYS1rd1ppVGZOazN5LUlzQm1CMUs3em5ZbWdKbDB2THRhSjVveHNEcWN1bTNDeE9VdkFYeDJmRXUzRDFoX2plNkI5QXZGbU1PUXUzbktzV2VBNlVOZ3dINzdEWFdlcVhfUl84amE2UXFiOXYxUEliT1cwS1FrQ3lmWm9MckZTNHFTaUpnclJUWkpMTGJsSlV3MnNnQlEwc2RraW9yNEFfd2JlczNjTmZzRkx6MXlpNGFyT0t6S1phLXNqWkdPTlpwbng0R1E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "89f9549bfb10",
+      "title": "「1投資」才是幸福長壽關鍵？死亡率降低39%、比運動更能強身健體！ - Harper's BAZAAR",
+      "published": "2026-04-17T10:43:41+00:00",
+      "summary": "「1投資」才是幸福長壽關鍵？死亡率降低39%、比運動更能強身健體！&nbsp;&nbsp;Harper's BAZAAR",
+      "sources": [
+        {
+          "name": "Harper's BAZAAR",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNSDhQSUtfQ0dGVFBPbFphbnYxdHNQakVmd0kyWDBKcGdZOVotN0NuOVlVWS15MW5TeEk1dERJdFR5TUEyaHU1cWhhNkY4VVpVSFVSSjRYNHVFTmd5UGN1d3EwRGFRUXMza3ZXdXRqR21JaFlSSG9maU4tVkVYM2ZVZ1pJazY5S2tVQ1EzVlFidW1zR21xallTcFUwVkg2aldYQ1UwSE1TbUhIMFB3QkJ0ZnJtYzRJOHF6aWNlZ0dqRDFRdE9JNnVkWjlRdUhQUE00ZnhscmVNZkZ6TTlSQ2pzOEtmRjVoSWtmbGhxTVR2X2tWMVRnWjV1WGlrZFFQTXFnekpYWg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "eac44af4c4c0",
+      "title": "蘇打水可以促進新陳代謝並幫助減肥嗎？",
+      "published": "2026-04-17T07:35:44+00:00",
+      "summary": "蘇打水可以促進新陳代謝並幫助減肥嗎？&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjBFWDc4eExwV2VsOFF5WHJUaElhS3pnMUFhck5BQ2dJdlZnR2h3ckRsTERISkdPb3AxVHNoYjQ5bVNoVzdDZHc0TmlUS0NUYkQwdUZycTNWMkZ2RGhYYW9pUTd0WlRUcl9xVnB6d1Y4NGRBZjAwUUE4QW9QT29uZzFySFNqNDBMWWs2YUViT1d5TFluMmV3QWsybUtzTk1DUFdxTl9yemxDYVpGVy1WeHg4d0JXemZhR2N3V0ZybGVBeEZ4RkdEcU1GMExiWjlEeEtONS1MeEdfRldfWTVoNlhtZ3JPY3JEZ3cyWEowYlhZZkt6S2pjQnlMeVFQYkFzWnV3a296Q2x5WU1Udm9GVHl1Y0Q3RzdfbDNwcmFkRm5HbFR6UDVoeF9LMzdTTUNCendCWnNnVWM3U09OY2Yzb05qdjI2d3NDMVVibUR1WnpZUHc5NEE?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "e6ef6f4f25ea",
