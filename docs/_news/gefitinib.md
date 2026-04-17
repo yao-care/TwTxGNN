@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [肺癌成中國女性第一大癌症　二手煙、三手煙、油煙成主因](https://news.google.com/rss/articles/CBMilANBVV95cUxPZ1ViQ19XenZ6NmJDUjB5OFpQRGFjS2lpdWk1Wk81THhkTnRvWUIxWjJ6cjNTTHpCajRNZlMzbGFRZlRKUTdYTXhtY0lWbGtyWFJUUWdVM1FKSzVBYmdvVTZfMUtZb3lrUDZtQXNHRWxkanlTNzV1bG1yeENWNFRrckpYSzZ6X2pjZ1hEU3RIWjhBV3QwazJnVEdDTUpCRm1RNWE5QURsamV1eEVUNWVjOG9yaEUyaFVnNlhrY0FCQ3laWjBmRmVTdTNjVG1FWmVfenZGX0dWMlhRY2ZlTV9KLVltcjQzTm5MXzI3WUVSRVoxVjlDWFZteWdxMHd0WXdVandjUlRjTllrRGZfbjQ3ZXVWNkpOTlRIRUJyclVscDNUbXpjRmJuUXFzT0F4cmpHMlZ5T1E1MlR0cmNMM2pWMmxTempFemdwcHI2Q0J4dkQ4Wnd1ZGhqQnVZY0xabklSN3Z4MmFfb1NKYWJoSkR3Yi0xOTFwOGtoR2hiRHM0cmw3U0J2aDVkcVREdHI3eDNTWTFkcdIBigFBVV95cUxPc2hLUmxUQTc1NTZFUkFMV25oU3M4UzVVX1YzaTJQZ0o1RG92ZGEzZnZoa0paNjAxSHRScTYxT2piMVZsWGRrSmxvbkczNDVPd2s3cTFaOWh2dVpMeDVIRUl5VUlXMUZhV1FuQkF6ZVB5TTA0R045RVJfS283QTdkaTN5NUlYNktFV3c?oc=5)
+
+2026-04-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
+
+來源：[singtao.ca](https://news.google.com/rss/articles/CBMilANBVV95cUxPZ1ViQ19XenZ6NmJDUjB5OFpQRGFjS2lpdWk1Wk81THhkTnRvWUIxWjJ6cjNTTHpCajRNZlMzbGFRZlRKUTdYTXhtY0lWbGtyWFJUUWdVM1FKSzVBYmdvVTZfMUtZb3lrUDZtQXNHRWxkanlTNzV1bG1yeENWNFRrckpYSzZ6X2pjZ1hEU3RIWjhBV3QwazJnVEdDTUpCRm1RNWE5QURsamV1eEVUNWVjOG9yaEUyaFVnNlhrY0FCQ3laWjBmRmVTdTNjVG1FWmVfenZGX0dWMlhRY2ZlTV9KLVltcjQzTm5MXzI3WUVSRVoxVjlDWFZteWdxMHd0WXdVandjUlRjTllrRGZfbjQ3ZXVWNkpOTlRIRUJyclVscDNUbXpjRmJuUXFzT0F4cmpHMlZ5T1E1MlR0cmNMM2pWMmxTempFemdwcHI2Q0J4dkQ4Wnd1ZGhqQnVZY0xabklSN3Z4MmFfb1NKYWJoSkR3Yi0xOTFwOGtoR2hiRHM0cmw3U0J2aDVkcVREdHI3eDNTWTFkcdIBigFBVV95cUxPc2hLUmxUQTc1NTZFUkFMV25oU3M4UzVVX1YzaTJQZ0o1RG92ZGEzZnZoa0paNjAxSHRScTYxT2piMVZsWGRrSmxvbkczNDVPd2s3cTFaOWh2dVpMeDVIRUl5VUlXMUZhV1FuQkF6ZVB5TTA0R045RVJfS283QTdkaTN5NUlYNktFV3c?oc=5)
+
+---
+
+### [101歲修女有失智病變，仍記憶力驚人！研究揭「1習慣」減緩大腦退化](https://news.google.com/rss/articles/CBMiU0FVX3lxTE90UU1EN3gwQWNRdzV4OFh5WmhmaEpZTEpraW00a0toVHZnZVdFMF9kaTFweU5NTGxSVjhGWHdSTlp0Q25MajlFanZKTkdOMF9ZVnlZ?oc=5)
+
+2026-04-17 <span class="news-indication-tag">失智</span>
+
+來源：[優活健康網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE90UU1EN3gwQWNRdzV4OFh5WmhmaEpZTEpraW00a0toVHZnZVdFMF9kaTFweU5NTGxSVjhGWHdSTlp0Q25MajlFanZKTkdOMF9ZVnlZ?oc=5)
+
+---
 
 ### [中年降「失智毒素」 鮭魚可幫大忙 衝高維生素D濃度](https://news.google.com/rss/articles/CBMibkFVX3lxTE1OMGYtWHJwVEhxU25rWXFlMER0X2NseFV3NmFzVFdUTE1aSC01dVdQQzhveFBXak5uZ0lWNjZQZm5YWWV5Sk13VXN1Mm1oMndhSXVpdWl3bWhRbjVfRTNVZF9IOS1LTVBsalVHUUFB?oc=5)
 
@@ -56,14 +72,6 @@ permalink: /news/gefitinib/
 2026-04-16 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">惡性腫瘤</span>
 
 來源：[人民网-上海频道](https://news.google.com/rss/articles/CBMicEFVX3lxTE9nenV3d2dWNzctdmFvTlNUSWtqUmtqakNUYWM4WWlnX2xjZ2ozZ3hMd1BWeGdnUGdlQXBJMEE0M1RaalJWbGRLbVd4aWdWUVp0QnVGRW1oRmNRS280WWVKUGd5QW0xN1FnaUg0LXJfU0s?oc=5)
-
----
-
-### [一生堅持這樣做可以將阿茲海默症的風險降低38%。](https://news.google.com/rss/articles/CBMi_gJBVV95cUxPZkVMWUNSMXdFVkhQWkQwWjZjdDZTWTh0eHB6NHh1dDRsbnJQQUFjcXRaVm5zWUFNM2Z4S0dnaExDbVMyTlEwaUJONWRXY2xZQ0pUVWJ6Z0hCR2NOQnE1RHBjZWxzZVV5SkxyUi11ZnhmMlI4RHR5dVdkQW9qVDhmcjZUbGJkNWt5c3A5dlViX3h4VlRjYWh2UUVPTWxXb3FIR1lwamN6cmhram92aGhEMzNPUVQ4WFdrTWhwU3VEVTdlQXljbTliZTNjaFpXeXVhWjl0SkJCcDNfa3RCbnprV3gxUU9GZ0lkRDMzOFo3XzZabjhaa1RUQlVIbjFNU05GeVZfUWJub3l3SWk0QTcyUG5zNnBWYjlQYVM3bWdTZkFIT05aRzVySlFuOTlyb0RHVnVJVXVqMnQtcW9CS3BTeUhybTFXRnN4T0VFS3BmNWlQV2hDWC1JOGpXZ0Z0WENtN01MUkpGVGw4VzgybUdsUXU5RmpjWkxpUHhLY3BR?oc=5)
-
-2026-04-15 <span class="news-indication-tag">阿茲海默症</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi_gJBVV95cUxPZkVMWUNSMXdFVkhQWkQwWjZjdDZTWTh0eHB6NHh1dDRsbnJQQUFjcXRaVm5zWUFNM2Z4S0dnaExDbVMyTlEwaUJONWRXY2xZQ0pUVWJ6Z0hCR2NOQnE1RHBjZWxzZVV5SkxyUi11ZnhmMlI4RHR5dVdkQW9qVDhmcjZUbGJkNWt5c3A5dlViX3h4VlRjYWh2UUVPTWxXb3FIR1lwamN6cmhram92aGhEMzNPUVQ4WFdrTWhwU3VEVTdlQXljbTliZTNjaFpXeXVhWjl0SkJCcDNfa3RCbnprV3gxUU9GZ0lkRDMzOFo3XzZabjhaa1RUQlVIbjFNU05GeVZfUWJub3l3SWk0QTcyUG5zNnBWYjlQYVM3bWdTZkFIT05aRzVySlFuOTlyb0RHVnVJVXVqMnQtcW9CS3BTeUhybTFXRnN4T0VFS3BmNWlQV2hDWC1JOGpXZ0Z0WENtN01MUkpGVGw4VzgybUdsUXU5RmpjWkxpUHhLY3BR?oc=5)
 
 ---
 

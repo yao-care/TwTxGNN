@@ -14,7 +14,7 @@ permalink: /news/nystatin/
 ---
 
 <p class="key-answer" data-question="Nystatin 有什麼相關新聞？">
-<strong>Nystatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nystatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/nystatin/
 <p><a href="{{ '/drugs/nystatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [咳嗽大笑就漏尿？醫揭更年期尿失禁3大高危險群 越拖只會越嚴重](https://news.google.com/rss/articles/CBMimwNBVV95cUxPbkxIQ0N6MVFQVkpjNVY0aVhQN1MyUXVEU2duLWYydnZvVWRXZ1A3N0ZaSkxTc2hCRk9ZOFJyWmJkVnE5VXBHRzBEWWw0cGY2dkRyd3YwR2JZOFZCYUdxVTBoNmpYZWVYOHpSUy1ILUJvbWVKeXVrY3BxVTFZNHJVRDE5dlRNVzFRTWl2N2p6RHpXR3FjeWxRdVJiSmpLWmZjcGFjczJEUmZvSmNHQk1ZRTIzODZJYXZVd19ielJ3RExwRGVteFQ0MUkxVWJQb0FvWm5falNYN3ZDSFZ3X3d1V0NlZmdQMXlnekxTSjVRb1l1bHpMTGphY2h0d0FieGI0ZGlEVUVyTGtjbDVJdVZEa3lQT2V3blRmRkc2WlQ2emVHR3hydzF3akptdkF0elhoOXlEMERoYlJEVHhLcWk4SFEzMFpRanRXdURWTmFnamI3aE1reVpDUWJVYTd0NE1keVpsZ0ZRdFhRa0xFMmhkZHRac3hmNEluXzN6VHIxYThyNF9ZV2lqOVp6Nk1LSWp4MFdYaFBNUmZmRk0?oc=5)
-
-2026-04-17 <span class="news-indication-tag">更年期</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMimwNBVV95cUxPbkxIQ0N6MVFQVkpjNVY0aVhQN1MyUXVEU2duLWYydnZvVWRXZ1A3N0ZaSkxTc2hCRk9ZOFJyWmJkVnE5VXBHRzBEWWw0cGY2dkRyd3YwR2JZOFZCYUdxVTBoNmpYZWVYOHpSUy1ILUJvbWVKeXVrY3BxVTFZNHJVRDE5dlRNVzFRTWl2N2p6RHpXR3FjeWxRdVJiSmpLWmZjcGFjczJEUmZvSmNHQk1ZRTIzODZJYXZVd19ielJ3RExwRGVteFQ0MUkxVWJQb0FvWm5falNYN3ZDSFZ3X3d1V0NlZmdQMXlnekxTSjVRb1l1bHpMTGphY2h0d0FieGI0ZGlEVUVyTGtjbDVJdVZEa3lQT2V3blRmRkc2WlQ2emVHR3hydzF3akptdkF0elhoOXlEMERoYlJEVHhLcWk4SFEzMFpRanRXdURWTmFnamI3aE1reVpDUWJVYTd0NE1keVpsZ0ZRdFhRa0xFMmhkZHRac3hmNEluXzN6VHIxYThyNF9ZV2lqOVp6Nk1LSWp4MFdYaFBNUmZmRk0?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

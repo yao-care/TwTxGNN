@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [肺癌成中國女性第一大癌症　二手煙、三手煙、油煙成主因](https://news.google.com/rss/articles/CBMilANBVV95cUxPZ1ViQ19XenZ6NmJDUjB5OFpQRGFjS2lpdWk1Wk81THhkTnRvWUIxWjJ6cjNTTHpCajRNZlMzbGFRZlRKUTdYTXhtY0lWbGtyWFJUUWdVM1FKSzVBYmdvVTZfMUtZb3lrUDZtQXNHRWxkanlTNzV1bG1yeENWNFRrckpYSzZ6X2pjZ1hEU3RIWjhBV3QwazJnVEdDTUpCRm1RNWE5QURsamV1eEVUNWVjOG9yaEUyaFVnNlhrY0FCQ3laWjBmRmVTdTNjVG1FWmVfenZGX0dWMlhRY2ZlTV9KLVltcjQzTm5MXzI3WUVSRVoxVjlDWFZteWdxMHd0WXdVandjUlRjTllrRGZfbjQ3ZXVWNkpOTlRIRUJyclVscDNUbXpjRmJuUXFzT0F4cmpHMlZ5T1E1MlR0cmNMM2pWMmxTempFemdwcHI2Q0J4dkQ4Wnd1ZGhqQnVZY0xabklSN3Z4MmFfb1NKYWJoSkR3Yi0xOTFwOGtoR2hiRHM0cmw3U0J2aDVkcVREdHI3eDNTWTFkcdIBigFBVV95cUxPc2hLUmxUQTc1NTZFUkFMV25oU3M4UzVVX1YzaTJQZ0o1RG92ZGEzZnZoa0paNjAxSHRScTYxT2piMVZsWGRrSmxvbkczNDVPd2s3cTFaOWh2dVpMeDVIRUl5VUlXMUZhV1FuQkF6ZVB5TTA0R045RVJfS283QTdkaTN5NUlYNktFV3c?oc=5)
+
+2026-04-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
+
+來源：[singtao.ca](https://news.google.com/rss/articles/CBMilANBVV95cUxPZ1ViQ19XenZ6NmJDUjB5OFpQRGFjS2lpdWk1Wk81THhkTnRvWUIxWjJ6cjNTTHpCajRNZlMzbGFRZlRKUTdYTXhtY0lWbGtyWFJUUWdVM1FKSzVBYmdvVTZfMUtZb3lrUDZtQXNHRWxkanlTNzV1bG1yeENWNFRrckpYSzZ6X2pjZ1hEU3RIWjhBV3QwazJnVEdDTUpCRm1RNWE5QURsamV1eEVUNWVjOG9yaEUyaFVnNlhrY0FCQ3laWjBmRmVTdTNjVG1FWmVfenZGX0dWMlhRY2ZlTV9KLVltcjQzTm5MXzI3WUVSRVoxVjlDWFZteWdxMHd0WXdVandjUlRjTllrRGZfbjQ3ZXVWNkpOTlRIRUJyclVscDNUbXpjRmJuUXFzT0F4cmpHMlZ5T1E1MlR0cmNMM2pWMmxTempFemdwcHI2Q0J4dkQ4Wnd1ZGhqQnVZY0xabklSN3Z4MmFfb1NKYWJoSkR3Yi0xOTFwOGtoR2hiRHM0cmw3U0J2aDVkcVREdHI3eDNTWTFkcdIBigFBVV95cUxPc2hLUmxUQTc1NTZFUkFMV25oU3M4UzVVX1YzaTJQZ0o1RG92ZGEzZnZoa0paNjAxSHRScTYxT2piMVZsWGRrSmxvbkczNDVPd2s3cTFaOWh2dVpMeDVIRUl5VUlXMUZhV1FuQkF6ZVB5TTA0R045RVJfS283QTdkaTN5NUlYNktFV3c?oc=5)
+
+---
 
 ### [上海癌症5年生存率達65.2% 新版惡性腫瘤篩查預防《推薦》發布](https://news.google.com/rss/articles/CBMicEFVX3lxTE9nenV3d2dWNzctdmFvTlNUSWtqUmtqakNUYWM4WWlnX2xjZ2ozZ3hMd1BWeGdnUGdlQXBJMEE0M1RaalJWbGRLbVd4aWdWUVp0QnVGRW1oRmNRS280WWVKUGd5QW0xN1FnaUg0LXJfU0s?oc=5)
 

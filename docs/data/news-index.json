@@ -1,7 +1,258 @@
 {
-  "generated": "2026-04-17T01:48:09.917439+00:00",
+  "generated": "2026-04-17T04:43:07.550406+00:00",
   "count": 8,
   "news": [
+    {
+      "id": "4e0c0ae3faa0",
+      "title": "肺癌成中國女性第一大癌症　二手煙、三手煙、油煙成主因",
+      "published": "2026-04-17T04:08:19+00:00",
+      "sources": [
+        {
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxPZ1ViQ19XenZ6NmJDUjB5OFpQRGFjS2lpdWk1Wk81THhkTnRvWUIxWjJ6cjNTTHpCajRNZlMzbGFRZlRKUTdYTXhtY0lWbGtyWFJUUWdVM1FKSzVBYmdvVTZfMUtZb3lrUDZtQXNHRWxkanlTNzV1bG1yeENWNFRrckpYSzZ6X2pjZ1hEU3RIWjhBV3QwazJnVEdDTUpCRm1RNWE5QURsamV1eEVUNWVjOG9yaEUyaFVnNlhrY0FCQ3laWjBmRmVTdTNjVG1FWmVfenZGX0dWMlhRY2ZlTV9KLVltcjQzTm5MXzI3WUVSRVoxVjlDWFZteWdxMHd0WXdVandjUlRjTllrRGZfbjQ3ZXVWNkpOTlRIRUJyclVscDNUbXpjRmJuUXFzT0F4cmpHMlZ5T1E1MlR0cmNMM2pWMmxTempFemdwcHI2Q0J4dkQ4Wnd1ZGhqQnVZY0xabklSN3Z4MmFfb1NKYWJoSkR3Yi0xOTFwOGtoR2hiRHM0cmw3U0J2aDVkcVREdHI3eDNTWTFkcdIBigFBVV95cUxPc2hLUmxUQTc1NTZFUkFMV25oU3M4UzVVX1YzaTJQZ0o1RG92ZGEzZnZoa0paNjAxSHRScTYxT2piMVZsWGRrSmxvbkczNDVPd2s3cTFaOWh2dVpMeDVIRUl5VUlXMUZhV1FuQkF6ZVB5TTA0R045RVJfS283QTdkaTN5NUlYNktFV3c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "766bf82e4b9c",
+      "title": "101歲修女有失智病變，仍記憶力驚人！研究揭「1習慣」減緩大腦退化",
+      "published": "2026-04-17T04:00:00+00:00",
+      "sources": [
+        {
+          "name": "優活健康網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90UU1EN3gwQWNRdzV4OFh5WmhmaEpZTEpraW00a0toVHZnZVdFMF9kaTFweU5NTGxSVjhGWHdSTlp0Q25MajlFanZKTkdOMF9ZVnlZ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "5660401aba2f",
       "title": "中年降「失智毒素」 鮭魚可幫大忙 衝高維生素D濃度",
@@ -32,42 +283,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b6f27c45f467",
-      "title": "咳嗽大笑就漏尿？醫揭更年期尿失禁3大高危險群 越拖只會越嚴重",
-      "published": "2026-04-17T00:00:28+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPbkxIQ0N6MVFQVkpjNVY0aVhQN1MyUXVEU2duLWYydnZvVWRXZ1A3N0ZaSkxTc2hCRk9ZOFJyWmJkVnE5VXBHRzBEWWw0cGY2dkRyd3YwR2JZOFZCYUdxVTBoNmpYZWVYOHpSUy1ILUJvbWVKeXVrY3BxVTFZNHJVRDE5dlRNVzFRTWl2N2p6RHpXR3FjeWxRdVJiSmpLWmZjcGFjczJEUmZvSmNHQk1ZRTIzODZJYXZVd19ielJ3RExwRGVteFQ0MUkxVWJQb0FvWm5falNYN3ZDSFZ3X3d1V0NlZmdQMXlnekxTSjVRb1l1bHpMTGphY2h0d0FieGI0ZGlEVUVyTGtjbDVJdVZEa3lQT2V3blRmRkc2WlQ2emVHR3hydzF3akptdkF0elhoOXlEMERoYlJEVHhLcWk4SFEzMFpRanRXdURWTmFnamI3aE1reVpDUWJVYTd0NE1keVpsZ0ZRdFhRa0xFMmhkZHRac3hmNEluXzN6VHIxYThyNF9ZV2lqOVp6Nk1LSWp4MFdYaFBNUmZmRk0?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }
@@ -855,30 +1070,6 @@
             {
               "slug": "dehydrocholic_acid",
               "name": "Dehydrocholic acid"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0fb288e0b0cc",
-      "title": "一生堅持這樣做可以將阿茲海默症的風險降低38%。",
-      "published": "2026-04-15T08:59:51+00:00",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPZkVMWUNSMXdFVkhQWkQwWjZjdDZTWTh0eHB6NHh1dDRsbnJQQUFjcXRaVm5zWUFNM2Z4S0dnaExDbVMyTlEwaUJONWRXY2xZQ0pUVWJ6Z0hCR2NOQnE1RHBjZWxzZVV5SkxyUi11ZnhmMlI4RHR5dVdkQW9qVDhmcjZUbGJkNWt5c3A5dlViX3h4VlRjYWh2UUVPTWxXb3FIR1lwamN6cmhram92aGhEMzNPUVQ4WFdrTWhwU3VEVTdlQXljbTliZTNjaFpXeXVhWjl0SkJCcDNfa3RCbnprV3gxUU9GZ0lkRDMzOFo3XzZabjhaa1RUQlVIbjFNU05GeVZfUWJub3l3SWk0QTcyUG5zNnBWYjlQYVM3bWdTZkFIT05aRzVySlFuOTlyb0RHVnVJVXVqMnQtcW9CS3BTeUhybTFXRnN4T0VFS3BmNWlQV2hDWC1JOGpXZ0Z0WENtN01MUkpGVGw4VzgybUdsUXU5RmpjWkxpUHhLY3BR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

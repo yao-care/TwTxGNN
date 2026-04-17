@@ -1,8 +1,274 @@
 {
-  "last_updated": "2026-04-17T01:48:09.889540+00:00",
+  "last_updated": "2026-04-17T04:43:07.520916+00:00",
   "total_count": 28,
   "matched_count": 8,
   "news": [
+    {
+      "id": "4e0c0ae3faa0",
+      "title": "肺癌成中國女性第一大癌症　二手煙、三手煙、油煙成主因",
+      "published": "2026-04-17T04:08:19+00:00",
+      "summary": "肺癌成中國女性第一大癌症 二手煙、三手煙、油煙成主因&nbsp;&nbsp;singtao.ca",
+      "sources": [
+        {
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxPZ1ViQ19XenZ6NmJDUjB5OFpQRGFjS2lpdWk1Wk81THhkTnRvWUIxWjJ6cjNTTHpCajRNZlMzbGFRZlRKUTdYTXhtY0lWbGtyWFJUUWdVM1FKSzVBYmdvVTZfMUtZb3lrUDZtQXNHRWxkanlTNzV1bG1yeENWNFRrckpYSzZ6X2pjZ1hEU3RIWjhBV3QwazJnVEdDTUpCRm1RNWE5QURsamV1eEVUNWVjOG9yaEUyaFVnNlhrY0FCQ3laWjBmRmVTdTNjVG1FWmVfenZGX0dWMlhRY2ZlTV9KLVltcjQzTm5MXzI3WUVSRVoxVjlDWFZteWdxMHd0WXdVandjUlRjTllrRGZfbjQ3ZXVWNkpOTlRIRUJyclVscDNUbXpjRmJuUXFzT0F4cmpHMlZ5T1E1MlR0cmNMM2pWMmxTempFemdwcHI2Q0J4dkQ4Wnd1ZGhqQnVZY0xabklSN3Z4MmFfb1NKYWJoSkR3Yi0xOTFwOGtoR2hiRHM0cmw3U0J2aDVkcVREdHI3eDNTWTFkcdIBigFBVV95cUxPc2hLUmxUQTc1NTZFUkFMV25oU3M4UzVVX1YzaTJQZ0o1RG92ZGEzZnZoa0paNjAxSHRScTYxT2piMVZsWGRrSmxvbkczNDVPd2s3cTFaOWh2dVpMeDVIRUl5VUlXMUZhV1FuQkF6ZVB5TTA0R045RVJfS283QTdkaTN5NUlYNktFV3c?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "766bf82e4b9c",
+      "title": "101歲修女有失智病變，仍記憶力驚人！研究揭「1習慣」減緩大腦退化",
+      "published": "2026-04-17T04:00:00+00:00",
+      "summary": "101歲修女有失智病變，仍記憶力驚人！研究揭「1習慣」減緩大腦退化&nbsp;&nbsp;優活健康網",
+      "sources": [
+        {
+          "name": "優活健康網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90UU1EN3gwQWNRdzV4OFh5WmhmaEpZTEpraW00a0toVHZnZVdFMF9kaTFweU5NTGxSVjhGWHdSTlp0Q25MajlFanZKTkdOMF9ZVnlZ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9435a6558cb0",
+      "title": "比阿公阿嬤還常喊累？中醫揭年輕人為何「未老先衰」 1警訊要留意",
+      "published": "2026-04-17T02:03:45+00:00",
+      "summary": "比阿公阿嬤還常喊累？中醫揭年輕人為何「未老先衰」 1警訊要留意&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxOQmFKT3JHN3ZneVVDQmRZTkVwWkFFMTY1d0NsMjFtSzQwbjFsd0dpd05zYW5DUDNzd3FNMHVYTWlzSm1iWTdkcFluSnAxUDlvbVVCS3pqdmVXMl9UUWhNNlZmS21rckpVVEVBZkFheDROZzI5WlJBem95NmttV0U4NkpkYmQtZkROSFZ1SmZYUXFLTzVtdWU0RGR1QXBxNUtzOXhMQzJNUlR1QkE5cVl2WU9QU01RdFdwdWlEZ0E0Ylg5NERvVWVzRlY2c0cwTXVaOGRFRGtocDVjWkVrbFpVVVc5eEJTdmVLaXlvd2wxeENadDhDMFZNSHpxTFhjTFZNNHI2VjZiRjlsWlNFOVBSVFBEMTdIMHJ4WXpIVGpEcFdRX25tWE5xN0VhTG45NHo2bG1RdHVHWUxLeFZKWm1QdmFKYVFZMFpCRkVFNTlSVjNVdnZFaGZWcDJsMGhtYWpmZkptSUVud2dHYUhsbDlSWldHbk9xZUJNQ244MFdzVFFBVFZWdTAwZHJCU1l2RHNT?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "5660401aba2f",
       "title": "中年降「失智毒素」 鮭魚可幫大忙 衝高維生素D濃度",
@@ -40,41 +306,17 @@
       ]
     },
     {
-      "id": "b6f27c45f467",
-      "title": "咳嗽大笑就漏尿？醫揭更年期尿失禁3大高危險群 越拖只會越嚴重",
-      "published": "2026-04-17T00:00:28+00:00",
-      "summary": "咳嗽大笑就漏尿？醫揭更年期尿失禁3大高危險群 越拖只會越嚴重&nbsp;&nbsp;Yahoo新聞",
+      "id": "a8703840fde3",
+      "title": "男友激情舔耳灌口水！她翌日耳痛慘似頭裂 網民驚︰口水這麼毒？",
+      "published": "2026-04-16T23:10:36+00:00",
+      "summary": "男友激情舔耳灌口水！她翌日耳痛慘似頭裂 網民驚︰口水這麼毒？&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPbkxIQ0N6MVFQVkpjNVY0aVhQN1MyUXVEU2duLWYydnZvVWRXZ1A3N0ZaSkxTc2hCRk9ZOFJyWmJkVnE5VXBHRzBEWWw0cGY2dkRyd3YwR2JZOFZCYUdxVTBoNmpYZWVYOHpSUy1ILUJvbWVKeXVrY3BxVTFZNHJVRDE5dlRNVzFRTWl2N2p6RHpXR3FjeWxRdVJiSmpLWmZjcGFjczJEUmZvSmNHQk1ZRTIzODZJYXZVd19ielJ3RExwRGVteFQ0MUkxVWJQb0FvWm5falNYN3ZDSFZ3X3d1V0NlZmdQMXlnekxTSjVRb1l1bHpMTGphY2h0d0FieGI0ZGlEVUVyTGtjbDVJdVZEa3lQT2V3blRmRkc2WlQ2emVHR3hydzF3akptdkF0elhoOXlEMERoYlJEVHhLcWk4SFEzMFpRanRXdURWTmFnamI3aE1reVpDUWJVYTd0NE1keVpsZ0ZRdFhRa0xFMmhkZHRac3hmNEluXzN6VHIxYThyNF9ZV2lqOVp6Nk1LSWp4MFdYaFBNUmZmRk0?oc=5"
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNQ3FmZnBqNFlEMFg1VF9NMlVvbVlLUVJrU2tCMC0zd3luSVVLM0o4Z2hBLUdiN0JoTG1QalN3VGdvYzNObUYtY1VVTGpBVlczeW42LWVFUS1JQWdhOWJHbUF1bHFMV2RCVjR3RUdDY3N0RVBvUFMwdE1IX3JVY0dkQjg5X0ZKeHd3c2JQOVU4YmxBOTd2ZDFYUnZ3SHo0TlFDUHZMRnAydnhRclFpTUY4eEUzam9hQXNBeHpuZ1ZETmVtOFlnSVFhdTJjNjRuNi0tWHI0Y0x4SE54NERrbW1od2JuU003bmowWm1aaFpaTFROeDctRXVKeGxsa1lrM0ZnWkRDZ1ktYmRPR0RIbExWVTQweG5mM1VtRDluV2tGbGNhaGRMVkpYeXdSOGZ3NE1wNzJKSS1VajdmZmtHdndvNDBtb0YzZjRaaFhSTy14b2t1dlMxRHVHQnMtNkNRYjZQUGdpY213Y3U1cDQtLUhrQ3MtWTN2VlFHcUhNQlVWRzJvWTdIM0VBeG82ZUwza3IteFhkelRsd2x3WEdRZ0RjN3QwWG9GTVpLbjcycGZ1TW9Vdw?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "e5d54429dc3e",
@@ -869,19 +1111,6 @@
       "matched_keywords": []
     },
     {
-      "id": "fe59f3dba3ea",
-      "title": "挪威男子首用兄長幹細胞移植 擺脫 HIV 20 年感染 - Techritual Hong Kong",
-      "published": "2026-04-15T19:01:21+00:00",
-      "summary": "挪威男子首用兄長幹細胞移植 擺脫 HIV 20 年感染&nbsp;&nbsp;Techritual Hong Kong",
-      "sources": [
-        {
-          "name": "Techritual Hong Kong",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uRi1LOFJFTktHdzhPQ3Q0RUhqRFdqRWVlS2dRVGdaOGlRd19yQUVwVG5PUEI4WHpzWmNxZXFwSm90eklGdHh3VXFHSzJGYVctRFB0UWZaaWQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "b508f6ed4143",
       "title": "全球爆麻疹 外遊應小心 新冠疫情+地緣政治 免疫缺口崩潰",
       "published": "2026-04-15T18:08:56+00:00",
@@ -1032,44 +1261,6 @@
             {
               "slug": "dehydrocholic_acid",
               "name": "Dehydrocholic acid"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b6cc996ad6de",
-      "title": "四肢纖瘦但有小腹？專家大推每日1分鐘呼吸練習 鍛煉深層腹肌收小肚腩",
-      "published": "2026-04-15T10:16:38+00:00",
-      "summary": "四肢纖瘦但有小腹？專家大推每日1分鐘呼吸練習 鍛煉深層腹肌收小肚腩&nbsp;&nbsp;singtao.ca",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPakd4MUJ4OC1Xd3M1UmQtNXlXb215SnlBVEhaTWMyUlk2THdjQUxONzN1SzNpSkZuREVhZ25mQ24yZ1VacUs3VHlOUDh1anZLeGQtWDdFN0ZfdmZ2SXItN2o2NkU2c2ZrOEFZZVdOb01xYzZzS21HZk9OTTctZHotVVpCWTdCdWJsZzA3bFZfQ0JJUVYxTjBoemRmV2xLSktNQnRiXzg2WnpFS1ctbmthaXJVZm5GYlJSclAtaThZMHA5TG1aLWxxbGstYmhaUTRpLTN0ekpaZGttald5UllZZEtNR21tWlFWOVE0VnYzRDNJalhmWVVlblRETlJ3RTlvMF83TFpmQTVNdjVMbXJEdjFfcjRKYkxpUXVvT29xUW1xVHhqaXdLZWktQzh0UmVoWHhqMkpneTNHcXk5Sl9uYVQ4Z045V1dlMGNSaVhvOXAwam5yU19SZmk0ZWVjQnVLaUd1NTY4VGt4OXlvUTZ4RFRHaHY3cWJUaHo4dzlBX2hOc1VWSnZnejQtR2lWZnZ2dEZ0bmlFdnkwbU1hMTZlaXJ0Sm9HaDZYYThRN2xsaDJYOXpzR2ZtaTdKem5SSE80ZE9BR1JtSzdUS2tLM2pic3Voc9IBjwFBVV95cUxPRm1taG1lLWQwUjliZWIxcHFRZEdCTEVrMkhBYm8taFpxWVhOVF9CUUpxd3VxMnBEbDVmTHBQZ2R3a25hTHZrR0QxS0pKNlJWcG8zaXpDemxZOW1PckU0aXY2NDR4Mkc5aHV5OU43TGdhVjJJcDEzMHdTbDdzN1kyNjVZM29GM3oyXzc1VGhWWQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0fb288e0b0cc",
-      "title": "一生堅持這樣做可以將阿茲海默症的風險降低38%。",
-      "published": "2026-04-15T08:59:51+00:00",
-      "summary": "一生堅持這樣做可以將阿茲海默症的風險降低38%。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPZkVMWUNSMXdFVkhQWkQwWjZjdDZTWTh0eHB6NHh1dDRsbnJQQUFjcXRaVm5zWUFNM2Z4S0dnaExDbVMyTlEwaUJONWRXY2xZQ0pUVWJ6Z0hCR2NOQnE1RHBjZWxzZVV5SkxyUi11ZnhmMlI4RHR5dVdkQW9qVDhmcjZUbGJkNWt5c3A5dlViX3h4VlRjYWh2UUVPTWxXb3FIR1lwamN6cmhram92aGhEMzNPUVQ4WFdrTWhwU3VEVTdlQXljbTliZTNjaFpXeXVhWjl0SkJCcDNfa3RCbnprV3gxUU9GZ0lkRDMzOFo3XzZabjhaa1RUQlVIbjFNU05GeVZfUWJub3l3SWk0QTcyUG5zNnBWYjlQYVM3bWdTZkFIT05aRzVySlFuOTlyb0RHVnVJVXVqMnQtcW9CS3BTeUhybTFXRnN4T0VFS3BmNWlQV2hDWC1JOGpXZ0Z0WENtN01MUkpGVGw4VzgybUdsUXU5RmpjWkxpUHhLY3BR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
