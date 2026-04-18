@@ -14,7 +14,7 @@ permalink: /news/berberine/
 ---
 
 <p class="key-answer" data-question="Berberine 有什麼相關新聞？">
-<strong>Berberine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Berberine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/berberine/
 <p><a href="{{ '/drugs/berberine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [壓力會導致癌症嗎？專家稱答案比你想像的更複雜](https://news.google.com/rss/articles/CBMi5gJBVV95cUxQZFl1M0hLMjRFWnlvN29RNUllTFEzcHJoQzlzVzVPRGxRWXh4QklRY25ZYlFGN2pBWnFqdUg4NFpJS29UQXZpNG8xZ1JPTTFLOGRaUVExQm1VR2ViS0Q1SmFxSGJEcDVPalNUamFVcDJoLVhvWkkwOTdjalJFVzZFLUxFSUUtaHRjYlJLREx3MmJaSjl2SUttcW1RMDl3akpoS3JnRVhTbGpINV9uOWhHYlZGT3NDVnl3VzE4dUpDRVlWN3g3S250bjRmdWk5U29TbFY3SWxuXzU4dHJkRnVLbEJpUjRzV1N4N250UjJLT3drRHFWUVVkcVpyMm1ZaHR0YWtVWEZ3V3hZMnlJbTZsUzZ3Uk9UR2h0NDk5TFZJUzliejdSUEtBUkdnX09jYWw1bVNtWEtJQ1hTeVA4WWRsbGRkMU1vN1pmNm81WEdGaDJmdUNpQTNfUTJMalJTYjljV1VJU29R?oc=5)
 
 2026-04-17 <span class="news-indication-tag">癌症</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxQZFl1M0hLMjRFWnlvN29RNUllTFEzcHJoQzlzVzVPRGxRWXh4QklRY25ZYlFGN2pBWnFqdUg4NFpJS29UQXZpNG8xZ1JPTTFLOGRaUVExQm1VR2ViS0Q1SmFxSGJEcDVPalNUamFVcDJoLVhvWkkwOTdjalJFVzZFLUxFSUUtaHRjYlJLREx3MmJaSjl2SUttcW1RMDl3akpoS3JnRVhTbGpINV9uOWhHYlZGT3NDVnl3VzE4dUpDRVlWN3g3S250bjRmdWk5U29TbFY3SWxuXzU4dHJkRnVLbEJpUjRzV1N4N250UjJLT3drRHFWUVVkcVpyMm1ZaHR0YWtVWEZ3V3hZMnlJbTZsUzZ3Uk9UR2h0NDk5TFZJUzliejdSUEtBUkdnX09jYWw1bVNtWEtJQ1hTeVA4WWRsbGRkMU1vN1pmNm81WEdGaDJmdUNpQTNfUTJMalJTYjljV1VJU29R?oc=5)
-
----
-
-### [美國輪狀病毒疫情升溫，CDC警告嬰幼兒嘔吐腹瀉住院風險](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSXpKZThsSXNJM29Pb1ItZExTcVN2M3VzSDVvdUR3eXViaDdMMExybVdDMDFEdUFhdTdoNlVQYmFmcTR5U3I5eU5ibXI3ZTdMb21GdzE0SXFoT2xtUENZQ3BjemlQaTRkSnJDU0QtM0JYMUdBbDJFT3E1b1dIek5PT29lOWROdmNFTDk3LThVQmpQVEdnVllpMTJXMm9RaDRrRll2WWluVEZrNDcyNUFXem02cEIydWVhdWtwSlpxbGlfcFZPNHVNbkJmS2VkUFp6UjBRUFZiYTIwRkZYSDRF?oc=5)
-
-2026-04-16 <span class="news-indication-tag">腹瀉</span>
-
-來源：[Singtaousa](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSXpKZThsSXNJM29Pb1ItZExTcVN2M3VzSDVvdUR3eXViaDdMMExybVdDMDFEdUFhdTdoNlVQYmFmcTR5U3I5eU5ibXI3ZTdMb21GdzE0SXFoT2xtUENZQ3BjemlQaTRkSnJDU0QtM0JYMUdBbDJFT3E1b1dIek5PT29lOWROdmNFTDk3LThVQmpQVEdnVllpMTJXMm9RaDRrRll2WWluVEZrNDcyNUFXem02cEIydWVhdWtwSlpxbGlfcFZPNHVNbkJmS2VkUFp6UjBRUFZiYTIwRkZYSDRF?oc=5)
 
 ---
 

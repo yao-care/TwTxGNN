@@ -14,7 +14,7 @@ permalink: /news/vinorelbine/
 ---
 
 <p class="key-answer" data-question="Vinorelbine 有什麼相關新聞？">
-<strong>Vinorelbine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vinorelbine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ permalink: /news/vinorelbine/
 <li>lung germ cell tumor（100.0%）</li>
 <li>pulmonary sulcus neoplasm（100.0%）</li>
 <li>hamartoma of lung（100.0%）</li>
-<li>small cell lung carcinoma（100.0%）</li>
+<li class="indication-matched">small cell lung carcinoma（100.0%）<span class="indication-tag">📰 肺癌</span></li>
 <li>lung benign neoplasm（100.0%）</li>
 <li>lung hilum carcinoma（100.0%）</li>
 <li>pulmonary blastoma（100.0%）</li>
@@ -42,7 +42,15 @@ permalink: /news/vinorelbine/
 <p><a href="{{ '/drugs/vinorelbine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [多吃水果和蔬菜與意外的肺癌風險有關](https://news.google.com/rss/articles/CBMiqgJBVV95cUxOMjgwQWtEYmx6UzYyOWpublduYUJLcGkwUjViRUNkWjZhRmNESnprNVJXUkp0X29Tbnk4MHVVbU9PT0NkZkRiaHFfRDVYM1hobExDd29wWDcyZmViaGhKWXdYbnZRQUtEZXFDdDM0SEpvdm1wejF4T1JEdHJTNVRVclN0YjR3Z09hc2tfSGFLZnVkOFExZEpkeE5sWTBmclJYWndneVUteWRtUzF1di1nT0dvRWZyamtTLXZEckNQS3NmUjRKalR0RG0wQzI2ZTZ6QWVQNmFqc09GYUVvMV90OXgyZFE2VTV2SXU4ejhNVlBnbWY1SE8wUkRFd1dPcWZSX1k4UV9UcVJCYXJ2TlNvOXpRVFV3S3VxY0RrSS1xY0VHVS1iRnBPM3pR?oc=5)
+
+2026-04-18 <span class="news-indication-tag">肺癌</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMiqgJBVV95cUxOMjgwQWtEYmx6UzYyOWpublduYUJLcGkwUjViRUNkWjZhRmNESnprNVJXUkp0X29Tbnk4MHVVbU9PT0NkZkRiaHFfRDVYM1hobExDd29wWDcyZmViaGhKWXdYbnZRQUtEZXFDdDM0SEpvdm1wejF4T1JEdHJTNVRVclN0YjR3Z09hc2tfSGFLZnVkOFExZEpkeE5sWTBmclJYWndneVUteWRtUzF1di1nT0dvRWZyamtTLXZEckNQS3NmUjRKalR0RG0wQzI2ZTZ6QWVQNmFqc09GYUVvMV90OXgyZFE2VTV2SXU4ejhNVlBnbWY1SE8wUkRFd1dPcWZSX1k4UV9UcVJCYXJ2TlNvOXpRVFV3S3VxY0RrSS1xY0VHVS1iRnBPM3pR?oc=5)
+
+---
 
 ### [壓力會導致癌症嗎？專家稱答案比你想像的更複雜](https://news.google.com/rss/articles/CBMi5gJBVV95cUxQZFl1M0hLMjRFWnlvN29RNUllTFEzcHJoQzlzVzVPRGxRWXh4QklRY25ZYlFGN2pBWnFqdUg4NFpJS29UQXZpNG8xZ1JPTTFLOGRaUVExQm1VR2ViS0Q1SmFxSGJEcDVPalNUamFVcDJoLVhvWkkwOTdjalJFVzZFLUxFSUUtaHRjYlJLREx3MmJaSjl2SUttcW1RMDl3akpoS3JnRVhTbGpINV9uOWhHYlZGT3NDVnl3VzE4dUpDRVlWN3g3S250bjRmdWk5U29TbFY3SWxuXzU4dHJkRnVLbEJpUjRzV1N4N250UjJLT3drRHFWUVVkcVpyMm1ZaHR0YWtVWEZ3V3hZMnlJbTZsUzZ3Uk9UR2h0NDk5TFZJUzliejdSUEtBUkdnX09jYWw1bVNtWEtJQ1hTeVA4WWRsbGRkMU1vN1pmNm81WEdGaDJmdUNpQTNfUTJMalJTYjljV1VJU29R?oc=5)
 

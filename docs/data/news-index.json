@@ -1,7 +1,39 @@
 {
-  "generated": "2026-04-18T20:27:20.447584+00:00",
+  "generated": "2026-04-18T21:25:37.363383+00:00",
   "count": 7,
   "news": [
+    {
+      "id": "03f9b5148b1f",
+      "title": "多吃水果和蔬菜與意外的肺癌風險有關",
+      "published": "2026-04-18T20:39:15+00:00",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOMjgwQWtEYmx6UzYyOWpublduYUJLcGkwUjViRUNkWjZhRmNESnprNVJXUkp0X29Tbnk4MHVVbU9PT0NkZkRiaHFfRDVYM1hobExDd29wWDcyZmViaGhKWXdYbnZRQUtEZXFDdDM0SEpvdm1wejF4T1JEdHJTNVRVclN0YjR3Z09hc2tfSGFLZnVkOFExZEpkeE5sWTBmclJYWndneVUteWRtUzF1di1nT0dvRWZyamtTLXZEckNQS3NmUjRKalR0RG0wQzI2ZTZ6QWVQNmFqc09GYUVvMV90OXgyZFE2VTV2SXU4ejhNVlBnbWY1SE8wUkRFd1dPcWZSX1k4UV9UcVJCYXJ2TlNvOXpRVFV3S3VxY0RrSS1xY0VHVS1iRnBPM3pR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "5f655f08434b",
       "title": "腦芯片技術揭示帕金森病蛋白對大腦血管屏障的影響 - GeneOnline News",
@@ -340,30 +372,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e5d54429dc3e",
-      "title": "美國輪狀病毒疫情升溫，CDC警告嬰幼兒嘔吐腹瀉住院風險",
-      "published": "2026-04-16T20:38:12+00:00",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSXpKZThsSXNJM29Pb1ItZExTcVN2M3VzSDVvdUR3eXViaDdMMExybVdDMDFEdUFhdTdoNlVQYmFmcTR5U3I5eU5ibXI3ZTdMb21GdzE0SXFoT2xtUENZQ3BjemlQaTRkSnJDU0QtM0JYMUdBbDJFT3E1b1dIek5PT29lOWROdmNFTDk3LThVQmpQVEdnVllpMTJXMm9RaDRrRll2WWluVEZrNDcyNUFXem02cEIydWVhdWtwSlpxbGlfcFZPNHVNbkJmS2VkUFp6UjBRUFZiYTIwRkZYSDRF?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "腹瀉",
-          "keyword": "腹瀉",
-          "related_drugs": [
-            {
-              "slug": "berberine",
-              "name": "Berberine"
             }
           ]
         }

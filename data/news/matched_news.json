@@ -1,8 +1,41 @@
 {
-  "last_updated": "2026-04-18T20:27:20.424042+00:00",
+  "last_updated": "2026-04-18T21:25:37.339328+00:00",
   "total_count": 23,
   "matched_count": 7,
   "news": [
+    {
+      "id": "03f9b5148b1f",
+      "title": "多吃水果和蔬菜與意外的肺癌風險有關",
+      "published": "2026-04-18T20:39:15+00:00",
+      "summary": "多吃水果和蔬菜與意外的肺癌風險有關&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOMjgwQWtEYmx6UzYyOWpublduYUJLcGkwUjViRUNkWjZhRmNESnprNVJXUkp0X29Tbnk4MHVVbU9PT0NkZkRiaHFfRDVYM1hobExDd29wWDcyZmViaGhKWXdYbnZRQUtEZXFDdDM0SEpvdm1wejF4T1JEdHJTNVRVclN0YjR3Z09hc2tfSGFLZnVkOFExZEpkeE5sWTBmclJYWndneVUteWRtUzF1di1nT0dvRWZyamtTLXZEckNQS3NmUjRKalR0RG0wQzI2ZTZ6QWVQNmFqc09GYUVvMV90OXgyZFE2VTV2SXU4ejhNVlBnbWY1SE8wUkRFd1dPcWZSX1k4UV9UcVJCYXJ2TlNvOXpRVFV3S3VxY0RrSS1xY0VHVS1iRnBPM3pR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "d46d2b96065c",
       "title": "咖啡因對螞蟻的作用可能會改變害蟲控制",
@@ -123,7 +156,7 @@
       "id": "eac47332275d",
       "title": "331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油",
       "published": "2026-04-18T03:14:07+00:00",
-      "summary": "331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油&nbsp;&nbsp;Yahoo新聞恐怖醫界醜聞！反覆用同一根針筒…害331兒童「確診HIV」凸顯1醫療困境&nbsp;&nbsp;Yahoo新聞巴基斯坦醫療疏失！針筒重用10次「331童確診HIV」&nbsp;&nbsp;東森新聞巴國醫院共用針頭害331童染愛滋病！8歲童死前掙扎：像被丟進滾燙熱油&nbsp;&nbsp;造咖【331童染HIV！醫院爆疏失 BBC臥底直擊：針筒重複使用】 #國際 （示意圖／達志影像） 這醫院可以關掉了吧。(#起啵)&nbsp;&nbsp;facebook.com",
+      "summary": "331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油&nbsp;&nbsp;Yahoo新聞巴基斯坦醫療疏失！針筒重用10次「331童確診HIV」&nbsp;&nbsp;東森新聞巴國醫院共用針頭害331童染愛滋病！8歲童死前掙扎：像被丟進滾燙熱油&nbsp;&nbsp;造咖巴基斯坦醫院爆兒童愛滋病，臥底影片揭發重複用針筒釀331童感染&nbsp;&nbsp;Singtaousa【331童染HIV！醫院爆疏失 BBC臥底直擊：針筒重複使用】 #國際 （示意圖／達志影像） 這醫院可以關掉了吧。(#起啵)&nbsp;&nbsp;facebook.com",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -447,7 +480,7 @@
       "id": "e6ef6f4f25ea",
       "title": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃",
       "published": "2026-04-17T04:52:25+00:00",
-      "summary": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃&nbsp;&nbsp;祝你健康陽光充足仍恐維生素D不足 醫揭吸收誤區與實用補充建議&nbsp;&nbsp;獨家報導陽光維他命D，能幫助中風病患復原得較好嗎？&nbsp;&nbsp;careonline.com.tw預防流感、病毒感染，曬太陽就有效&nbsp;&nbsp;PChome Online 新聞中年降「失智毒素」 鮭魚可幫大忙 衝高維生素D濃度&nbsp;&nbsp;中時新聞網",
+      "summary": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃&nbsp;&nbsp;祝你健康防失智，請多曬太陽？16年追蹤研究：30至40歲是黃金預防期&nbsp;&nbsp;遠見雜誌陽光充足仍恐維生素D不足 醫揭吸收誤區與實用補充建議&nbsp;&nbsp;獨家報導陽光維他命D，能幫助中風病患復原得較好嗎？&nbsp;&nbsp;careonline.com.tw預防流感、病毒感染，曬太陽就有效&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "祝你健康",
@@ -546,31 +579,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "e5d54429dc3e",
-      "title": "美國輪狀病毒疫情升溫，CDC警告嬰幼兒嘔吐腹瀉住院風險",
-      "published": "2026-04-16T20:38:12+00:00",
-      "summary": "美國輪狀病毒疫情升溫，CDC警告嬰幼兒嘔吐腹瀉住院風險&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSXpKZThsSXNJM29Pb1ItZExTcVN2M3VzSDVvdUR3eXViaDdMMExybVdDMDFEdUFhdTdoNlVQYmFmcTR5U3I5eU5ibXI3ZTdMb21GdzE0SXFoT2xtUENZQ3BjemlQaTRkSnJDU0QtM0JYMUdBbDJFT3E1b1dIek5PT29lOWROdmNFTDk3LThVQmpQVEdnVllpMTJXMm9RaDRrRll2WWluVEZrNDcyNUFXem02cEIydWVhdWtwSlpxbGlfcFZPNHVNbkJmS2VkUFp6UjBRUFZiYTIwRkZYSDRF?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "腹瀉",
-          "keyword": "腹瀉",
-          "related_drugs": [
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "b9ba655a58a1",
