@@ -1,7 +1,31 @@
 {
-  "generated": "2026-04-18T13:56:32.764658+00:00",
-  "count": 7,
+  "generated": "2026-04-18T14:37:03.560079+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "5f655f08434b",
+      "title": "腦芯片技術揭示帕金森病蛋白對大腦血管屏障的影響 - GeneOnline News",
+      "published": "2026-04-18T12:05:36+00:00",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQR1hWZFFkMjZmdWh0WUNuTXQxT183ZklxUUxBQVFmUFFubTBSMGhPVnRNaU90b2k4YUVVQW9qV09HSGhUYWhtaU45eEpOVjZlbTN5Mm1sSnp1cTFfUlliZklLUnhscUtncFhJazJqYlFoRGhaalAtOVp1aE92TTZBR3dNNVZNVlFQNTB2dkhLM0pTSHdTVk8wNEpoakszWXBFWGRfUkFHa2NwTXQ1QTZXTTA4MDVZWjd2bjNwRjhhNGRCRkxVZFoyVmZ2TXZHR2pXVHFWUUNfTzlQNTFHbnhET3ZULThzRy1leFA1cDhVb19kUHhNNW0zMjg0clQ0d2h0MTMxOGtvWTBmYTIwMExTVzRDRWJoaDY3d2J0Ty1scXhJbHczUjBxTE9FLVZlZ1VDem1qeFBkbzR2MW8xOTlYeWs1UUw0QQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "腦血管",
+          "keyword": "腦血管",
+          "related_drugs": [
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "03ad0e003641",
       "title": "不到一分鐘揪出早期徵兆，AI 語音分析技術有望提前數年偵測阿茲海默症 - TechNews 科技新報",

@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-18T13:56:32.738878+00:00",
+  "last_updated": "2026-04-18T14:37:03.533298+00:00",
   "total_count": 24,
-  "matched_count": 7,
+  "matched_count": 8,
   "news": [
     {
       "id": "5cbf4604008d",
@@ -15,6 +15,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "5f655f08434b",
+      "title": "腦芯片技術揭示帕金森病蛋白對大腦血管屏障的影響 - GeneOnline News",
+      "published": "2026-04-18T12:05:36+00:00",
+      "summary": "腦芯片技術揭示帕金森病蛋白對大腦血管屏障的影響&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQR1hWZFFkMjZmdWh0WUNuTXQxT183ZklxUUxBQVFmUFFubTBSMGhPVnRNaU90b2k4YUVVQW9qV09HSGhUYWhtaU45eEpOVjZlbTN5Mm1sSnp1cTFfUlliZklLUnhscUtncFhJazJqYlFoRGhaalAtOVp1aE92TTZBR3dNNVZNVlFQNTB2dkhLM0pTSHdTVk8wNEpoakszWXBFWGRfUkFHa2NwTXQ1QTZXTTA4MDVZWjd2bjNwRjhhNGRCRkxVZFoyVmZ2TXZHR2pXVHFWUUNfTzlQNTFHbnhET3ZULThzRy1leFA1cDhVb19kUHhNNW0zMjg0clQ0d2h0MTMxOGtvWTBmYTIwMExTVzRDRWJoaDY3d2J0Ty1scXhJbHczUjBxTE9FLVZlZ1VDem1qeFBkbzR2MW8xOTlYeWs1UUw0QQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "腦血管",
+          "keyword": "腦血管",
+          "related_drugs": [
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "c8b6ff30e0b4",
@@ -105,19 +130,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "d7156d950714",
-      "title": "《燕雲十六聲》# 05 八大碗收集| 大魔秘寶金玉手定身開寶箱｜跟隨金色蝴蝶開啟天地萬賴| 浮景行舟登船遊玩小遊戲獲得福緣積分| 鵝命鵝價治療玩法",
-      "published": "2026-04-18T02:02:11+00:00",
-      "summary": "《燕雲十六聲》# 05 八大碗收集| 大魔秘寶金玉手定身開寶箱｜跟隨金色蝴蝶開啟天地萬賴| 浮景行舟登船遊玩小遊戲獲得福緣積分| 鵝命鵝價治療玩法&nbsp;&nbsp;Mobile01",
-      "sources": [
-        {
-          "name": "Mobile01",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vbEYzUDNGNkpFOVYzNzlMaGRvUDJKNzcwUUQ3YUNHSVBtZVBGYTZxLUk5OExQTVBNbmRMQ2NZYVAtNWcyS2xpNkxqZTJqTndMY2czNEw1cHdxNm5XeXFHMmVmdGFmMEE?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "06df80b1c67f",
@@ -571,27 +583,27 @@
       ]
     },
     {
-      "id": "cfc8e3e4493d",
-      "title": "衛生局舉行「蚊媒傳播疾病防控」新聞發佈會 籲居民提前準備及部署各項防蚊措施",
-      "published": "2026-04-16T15:19:25+00:00",
-      "summary": "衛生局舉行「蚊媒傳播疾病防控」新聞發佈會 籲居民提前準備及部署各項防蚊措施&nbsp;&nbsp;Exmoo衛生局與澳門電力有限公司合辦防蚊滅蚊講座 提升企業的蚊媒傳播疾病防控能力&nbsp;&nbsp;澳門特別行政區政府入口網站當局周末在全澳設十個“預防蚊媒傳染病社區諮詢站”助居民了解防蚊知識&nbsp;&nbsp;大衆報“雙熱”傳入風險增 衛生局籲提早防蚊&nbsp;&nbsp;澳門廣播電視股份有限公司臨近夏季蚊蟲活躍 當局賦能企業防“雙熱”&nbsp;&nbsp;澳門廣播電視股份有限公司",
+      "id": "abd19ff0a0c5",
+      "title": "沙加緬度地區協調應對麻疹爆發 病例上升至19宗｜細說燊語",
+      "published": "2026-04-16T19:56:28+00:00",
+      "summary": "沙加緬度地區協調應對麻疹爆發 病例上升至19宗｜細說燊語&nbsp;&nbsp;Singtaousa金縣一名嬰兒確診麻疹引發接觸風險預警&nbsp;&nbsp;大紀元新聞網麻疹疫情加州首季39例 近10年新高&nbsp;&nbsp;世界新聞網麻疹疫苗接種史，如何影響免疫力判斷？&nbsp;&nbsp;Bella.tw儂儂麻疹病毒的真面目是「免疫駭客」：可能強制破壞身體抵抗力&nbsp;&nbsp;四季線上4gTV",
       "sources": [
         {
-          "name": "Exmoo",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zWU1TalVpLXZxSElUck0tZ1llZ25iRFpCSk9SZWZZeC1BRkRfLVZjY0NacU5MRWl0Znlka3IwWFNJVVl3cHZib1IyWXY4azlPMDBZ?oc=5"
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUmNVTHRQMG54cWtQQmV1ekl6bGo1NnJMN1BnUlpTVGlsaEtxcEVDVm82TEJHdUo1TmN2bGszbDNNWlU4ZjR2VDdwSE9QN3Q0dER5bE5sOFBjUzZ3SmJZWjhIZ3pKaVc4aVhUNGpvYzhEcjBtWmR4SGpsUkR6R0xmd25OdThaampoQlE2eVNNNVhsWnFxNHhPamFwbGpXamlMU3V0YXh4d0dLYlFRdnR1X0drTWh4aUlJQ2NyTE9xZmNOczZWZEdEcmtDVG1TQkt6?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "5136f16b542b",
-      "title": "【灣區新聞】舊金山有嬰兒旅行回國後確診麻疹 未接種疫苗（視頻）",
-      "published": "2026-04-16T14:13:00+00:00",
-      "summary": "【灣區新聞】舊金山有嬰兒旅行回國後確診麻疹 未接種疫苗（視頻）&nbsp;&nbsp;KTSF.com金縣一名嬰兒確診麻疹引發接觸風險預警&nbsp;&nbsp;大紀元新聞網麻疹疫情加州首季39例 近10年新高&nbsp;&nbsp;世界新聞網麻疹疫苗接種史，如何影響免疫力判斷？&nbsp;&nbsp;Bella.tw儂儂沙加緬度地區協調應對麻疹爆發 病例上升至19宗｜細說燊語&nbsp;&nbsp;Singtaousa",
+      "id": "cfc8e3e4493d",
+      "title": "衛生局舉行「蚊媒傳播疾病防控」新聞發佈會 籲居民提前準備及部署各項防蚊措施",
+      "published": "2026-04-16T15:19:25+00:00",
+      "summary": "衛生局舉行「蚊媒傳播疾病防控」新聞發佈會 籲居民提前準備及部署各項防蚊措施&nbsp;&nbsp;Exmoo衛生局與澳門電力有限公司合辦防蚊滅蚊講座 提升企業的蚊媒傳播疾病防控能力&nbsp;&nbsp;澳門特別行政區政府入口網站當局周末在全澳設十個“預防蚊媒傳染病社區諮詢站”助居民了解防蚊知識&nbsp;&nbsp;大衆報社區諮詢站推廣做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司“雙熱”傳入風險增 衛生局籲提早防蚊&nbsp;&nbsp;澳門廣播電視股份有限公司",
       "sources": [
         {
-          "name": "KTSF.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiTmVicXpLQWJpc1NXc05FSlh5S20yaU1RVW1YejZrUVlBbE9ySU1RaUJFSi1mSldBUUpoYWFybUZIUklPeUVObDIwSmF1SnJseE0tYjdib2hEUGRqdTZr?oc=5"
+          "name": "Exmoo",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zWU1TalVpLXZxSElUck0tZ1llZ25iRFpCSk9SZWZZeC1BRkRfLVZjY0NacU5MRWl0Znlka3IwWFNJVVl3cHZib1IyWXY4azlPMDBZ?oc=5"
         }
       ],
       "matched_keywords": []

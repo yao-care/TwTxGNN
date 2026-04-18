@@ -14,7 +14,7 @@ permalink: /news/iodixanol/
 ---
 
 <p class="key-answer" data-question="Iodixanol 有什麼相關新聞？">
-<strong>Iodixanol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Iodixanol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,9 +35,15 @@ permalink: /news/iodixanol/
 <p><a href="{{ '/drugs/iodixanol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [腦芯片技術揭示帕金森病蛋白對大腦血管屏障的影響 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQR1hWZFFkMjZmdWh0WUNuTXQxT183ZklxUUxBQVFmUFFubTBSMGhPVnRNaU90b2k4YUVVQW9qV09HSGhUYWhtaU45eEpOVjZlbTN5Mm1sSnp1cTFfUlliZklLUnhscUtncFhJazJqYlFoRGhaalAtOVp1aE92TTZBR3dNNVZNVlFQNTB2dkhLM0pTSHdTVk8wNEpoakszWXBFWGRfUkFHa2NwTXQ1QTZXTTA4MDVZWjd2bjNwRjhhNGRCRkxVZFoyVmZ2TXZHR2pXVHFWUUNfTzlQNTFHbnhET3ZULThzRy1leFA1cDhVb19kUHhNNW0zMjg0clQ0d2h0MTMxOGtvWTBmYTIwMExTVzRDRWJoaDY3d2J0Ty1scXhJbHczUjBxTE9FLVZlZ1VDem1qeFBkbzR2MW8xOTlYeWs1UUw0QQ?oc=5)
+
+2026-04-18 <span class="news-indication-tag">腦血管</span>
+
+來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQR1hWZFFkMjZmdWh0WUNuTXQxT183ZklxUUxBQVFmUFFubTBSMGhPVnRNaU90b2k4YUVVQW9qV09HSGhUYWhtaU45eEpOVjZlbTN5Mm1sSnp1cTFfUlliZklLUnhscUtncFhJazJqYlFoRGhaalAtOVp1aE92TTZBR3dNNVZNVlFQNTB2dkhLM0pTSHdTVk8wNEpoakszWXBFWGRfUkFHa2NwTXQ1QTZXTTA4MDVZWjd2bjNwRjhhNGRCRkxVZFoyVmZ2TXZHR2pXVHFWUUNfTzlQNTFHbnhET3ZULThzRy1leFA1cDhVb19kUHhNNW0zMjg0clQ0d2h0MTMxOGtvWTBmYTIwMExTVzRDRWJoaDY3d2J0Ty1scXhJbHczUjBxTE9FLVZlZ1VDem1qeFBkbzR2MW8xOTlYeWs1UUw0QQ?oc=5)
+
+---
 
 
 <div class="disclaimer">
