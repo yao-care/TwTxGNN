@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-18T22:25:10.478348+00:00",
-  "total_count": 22,
-  "matched_count": 7,
+  "last_updated": "2026-04-18T23:26:43.475490+00:00",
+  "total_count": 23,
+  "matched_count": 8,
   "news": [
+    {
+      "id": "d2c12ee31128",
+      "title": "2026健康飲食新時代：從吃得飽走向「吃得精準」",
+      "published": "2026-04-18T23:18:09+00:00",
+      "summary": "2026健康飲食新時代：從吃得飽走向「吃得精準」&nbsp;&nbsp;美南新聞",
+      "sources": [
+        {
+          "name": "美南新聞",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1tcTk2SUwwQXNtRGpaSmZFRzhIY1JjUlJMcFZWdHJhdC1mRHhXTHNGX0RQdmRiMjhyTzdwdjNHaEpQcjZf?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "03f9b5148b1f",
       "title": "多吃水果和蔬菜與意外的肺癌風險有關",
@@ -156,7 +169,7 @@
       "id": "eac47332275d",
       "title": "331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油",
       "published": "2026-04-18T03:14:07+00:00",
-      "summary": "331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油&nbsp;&nbsp;Yahoo新聞巴基斯坦醫療疏失！針筒重用10次「331童確診HIV」&nbsp;&nbsp;東森新聞巴國醫院共用針頭害331童染愛滋病！8歲童死前掙扎：像被丟進滾燙熱油&nbsp;&nbsp;造咖巴基斯坦醫院爆兒童愛滋病，臥底影片揭發重複用針筒釀331童感染&nbsp;&nbsp;Singtaousa【331童染HIV！醫院爆疏失 BBC臥底直擊：針筒重複使用】 #國際 （示意圖／達志影像） 這醫院可以關掉了吧。(#起啵)&nbsp;&nbsp;facebook.com",
+      "summary": "331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油&nbsp;&nbsp;Yahoo新聞巴基斯坦醫療疏失！針筒重用10次「331童確診HIV」&nbsp;&nbsp;東森新聞巴國醫院共用針頭害331童染愛滋病！8歲童死前掙扎：像被丟進滾燙熱油&nbsp;&nbsp;造咖巴基斯坦醫院爆兒童愛滋病，臥底影片揭發重複用針筒釀331童感染&nbsp;&nbsp;Singtaousa【331童染HIV！醫院爆疏失 BBC臥底直擊：針筒重複使用】 #國際 （示意圖／達志影像） 這醫院可以關掉了吧。(#起啵)&nbsp;&nbsp;Facebook",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -555,17 +568,33 @@
       "matched_keywords": []
     },
     {
-      "id": "24b168d0e9c5",
-      "title": "陳詩欣囝囝細菌感染反覆發燒入院 即看中耳炎症狀成因及治療方法",
-      "published": "2026-04-16T22:52:53+00:00",
-      "summary": "陳詩欣囝囝細菌感染反覆發燒入院 即看中耳炎症狀成因及治療方法&nbsp;&nbsp;香港01",
+      "id": "6ed1293b97a2",
+      "title": "華埠4月30日辦免費頭頸癌篩檢",
+      "published": "2026-04-17T03:03:00+00:00",
+      "summary": "華埠4月30日辦免費頭頸癌篩檢 &nbsp;&nbsp;大紀元新聞網",
       "sources": [
         {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNTXI3djlleVpmM1U3MWVuZmVsajVDb21IX1VUUTBPZzVSZ1k2MkxyYlhjX0tqUUpuZGZ5aUdfNzJLU0U0eG9TTWF6UkNPWjdjMkF1Z01zdXMtQmJ6UERKT2xlS2plSmp2RlZhbVFGU0FVSkZiMmRwTWdwY0pEci14c3dKNHkyNlJnbkYtWDRIMnZPbzNOZENwUmk4OW1sdGo0c3lOUDNIcmV3WVJ1Z292X2JDckRoa0FsZ0hSV1VwTU9leWlqQ0NDMHpiOUcyTWZfOWhnVW9FUFdrV3FLSTdoTEk2MEQycWE0eDRCUnQxTlBiWERBcFo5RmhQQVA1enNXUGRZV1ZoZjBHalkweUU0dTFEcjNXRVlONW00M3pqYXRqa29DOHEtUmdkOGNGeUo5a29ZMkJRem5IM294ZDNUZ1lCNjRZRVpWVVAyaFg1eWgtb3VsOHVNdTg2N0c3MXhPYWR1SXFicFBtbkwwX2xUSG5DMVJDeEJVTFNOR0E5bGFlbXZHVnAwNUxZWVlBTm0zQzhDVHhuT1RXSHk0NFZVVnVBNnI3bHJRcVlkaThNX05ESktVRUNYZWE0SQ?oc=5"
+          "name": "大紀元新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpQlNVdzc1V2RpRldQbkV1QXZTYXRsUno5enhBRlhkWE5XMFNFcHVlMkc3aWxIU0VDOXlOUmpmcU5oU2x0VUd0VFBfYWVQbVdzbzI4OE13T1JmMEpndjlVbtIBZkFVX3lxTE9XNENxRHVfdGZKVDZlNlFqakpQRGw5YjJ6YjVJOThaZkcxLW1TUnVQdzMxdFRNYTNoME9yLVFER0E0RWdDZVZ5dDlrbFlZbzUtYUpYd0xkTWNKNVU4WU5CRlk5UXhSdw?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "頭頸癌",
+          "keyword": "頭頸癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "b9ba655a58a1",

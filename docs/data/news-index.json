@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-18T22:25:10.503962+00:00",
-  "count": 7,
+  "generated": "2026-04-18T23:26:43.502960+00:00",
+  "count": 8,
   "news": [
     {
       "id": "03f9b5148b1f",
@@ -372,6 +372,34 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6ed1293b97a2",
+      "title": "華埠4月30日辦免費頭頸癌篩檢",
+      "published": "2026-04-17T03:03:00+00:00",
+      "sources": [
+        {
+          "name": "大紀元新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpQlNVdzc1V2RpRldQbkV1QXZTYXRsUno5enhBRlhkWE5XMFNFcHVlMkc3aWxIU0VDOXlOUmpmcU5oU2x0VUd0VFBfYWVQbVdzbzI4OE13T1JmMEpndjlVbtIBZkFVX3lxTE9XNENxRHVfdGZKVDZlNlFqakpQRGw5YjJ6YjVJOThaZkcxLW1TUnVQdzMxdFRNYTNoME9yLVFER0E0RWdDZVZ5dDlrbFlZbzUtYUpYd0xkTWNKNVU4WU5CRlk5UXhSdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "頭頸癌",
+          "keyword": "頭頸癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
             }
           ]
         }

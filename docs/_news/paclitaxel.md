@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [壓力會導致癌症嗎？專家稱答案比你想像的更複雜](https://news.google.com/rss/articles/CBMi5gJBVV95cUxQZFl1M0hLMjRFWnlvN29RNUllTFEzcHJoQzlzVzVPRGxRWXh4QklRY25ZYlFGN2pBWnFqdUg4NFpJS29UQXZpNG8xZ1JPTTFLOGRaUVExQm1VR2ViS0Q1SmFxSGJEcDVPalNUamFVcDJoLVhvWkkwOTdjalJFVzZFLUxFSUUtaHRjYlJLREx3MmJaSjl2SUttcW1RMDl3akpoS3JnRVhTbGpINV9uOWhHYlZGT3NDVnl3VzE4dUpDRVlWN3g3S250bjRmdWk5U29TbFY3SWxuXzU4dHJkRnVLbEJpUjRzV1N4N250UjJLT3drRHFWUVVkcVpyMm1ZaHR0YWtVWEZ3V3hZMnlJbTZsUzZ3Uk9UR2h0NDk5TFZJUzliejdSUEtBUkdnX09jYWw1bVNtWEtJQ1hTeVA4WWRsbGRkMU1vN1pmNm81WEdGaDJmdUNpQTNfUTJMalJTYjljV1VJU29R?oc=5)
 
 2026-04-17 <span class="news-indication-tag">癌症</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxQZFl1M0hLMjRFWnlvN29RNUllTFEzcHJoQzlzVzVPRGxRWXh4QklRY25ZYlFGN2pBWnFqdUg4NFpJS29UQXZpNG8xZ1JPTTFLOGRaUVExQm1VR2ViS0Q1SmFxSGJEcDVPalNUamFVcDJoLVhvWkkwOTdjalJFVzZFLUxFSUUtaHRjYlJLREx3MmJaSjl2SUttcW1RMDl3akpoS3JnRVhTbGpINV9uOWhHYlZGT3NDVnl3VzE4dUpDRVlWN3g3S250bjRmdWk5U29TbFY3SWxuXzU4dHJkRnVLbEJpUjRzV1N4N250UjJLT3drRHFWUVVkcVpyMm1ZaHR0YWtVWEZ3V3hZMnlJbTZsUzZ3Uk9UR2h0NDk5TFZJUzliejdSUEtBUkdnX09jYWw1bVNtWEtJQ1hTeVA4WWRsbGRkMU1vN1pmNm81WEdGaDJmdUNpQTNfUTJMalJTYjljV1VJU29R?oc=5)
+
+---
+
+### [華埠4月30日辦免費頭頸癌篩檢](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpQlNVdzc1V2RpRldQbkV1QXZTYXRsUno5enhBRlhkWE5XMFNFcHVlMkc3aWxIU0VDOXlOUmpmcU5oU2x0VUd0VFBfYWVQbVdzbzI4OE13T1JmMEpndjlVbtIBZkFVX3lxTE9XNENxRHVfdGZKVDZlNlFqakpQRGw5YjJ6YjVJOThaZkcxLW1TUnVQdzMxdFRNYTNoME9yLVFER0E0RWdDZVZ5dDlrbFlZbzUtYUpYd0xkTWNKNVU4WU5CRlk5UXhSdw?oc=5)
+
+2026-04-17 <span class="news-indication-tag">頭頸癌</span>
+
+來源：[大紀元新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpQlNVdzc1V2RpRldQbkV1QXZTYXRsUno5enhBRlhkWE5XMFNFcHVlMkc3aWxIU0VDOXlOUmpmcU5oU2x0VUd0VFBfYWVQbVdzbzI4OE13T1JmMEpndjlVbtIBZkFVX3lxTE9XNENxRHVfdGZKVDZlNlFqakpQRGw5YjJ6YjVJOThaZkcxLW1TUnVQdzMxdFRNYTNoME9yLVFER0E0RWdDZVZ5dDlrbFlZbzUtYUpYd0xkTWNKNVU4WU5CRlk5UXhSdw?oc=5)
 
 ---
 
