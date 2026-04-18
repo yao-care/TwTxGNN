@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-18T18:34:52.220354+00:00",
+  "fetched_at": "2026-04-18T19:34:55.347508+00:00",
   "count": 23,
   "news": [
     {
@@ -19,7 +19,7 @@
       "id": "eac47332275d",
       "title": "331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油 - Yahoo新聞",
       "published": "2026-04-18T03:14:07+00:00",
-      "summary": "331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油&nbsp;&nbsp;Yahoo新聞恐怖醫界醜聞！反覆用同一根針筒…害331兒童「確診HIV」凸顯1醫療困境&nbsp;&nbsp;Yahoo新聞巴基斯坦醫療疏失！針筒重用10次「331童確診HIV」&nbsp;&nbsp;東森新聞巴基斯坦醫院爆兒童愛滋病，臥底影片揭發重複用針筒釀331童感染&nbsp;&nbsp;Singtaousa【331童染HIV！醫院爆疏失 BBC臥底直擊：針筒重複使用】 #國際 （示意圖／達志影像） 這醫院可以關掉了吧。(#起啵)&nbsp;&nbsp;facebook.com",
+      "summary": "331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油&nbsp;&nbsp;Yahoo新聞恐怖醫界醜聞！反覆用同一根針筒…害331兒童「確診HIV」凸顯1醫療困境&nbsp;&nbsp;Yahoo新聞巴基斯坦醫療疏失！針筒重用10次「331童確診HIV」&nbsp;&nbsp;東森新聞巴國醫院共用針頭害331童染愛滋病！8歲童死前掙扎：像被丟進滾燙熱油&nbsp;&nbsp;造咖【331童染HIV！醫院爆疏失 BBC臥底直擊：針筒重複使用】 #國際 （示意圖／達志影像） 這醫院可以關掉了吧。(#起啵)&nbsp;&nbsp;facebook.com",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -52,18 +52,6 @@
       ]
     },
     {
-      "id": "03ad0e003641",
-      "title": "不到一分鐘揪出早期徵兆，AI 語音分析技術有望提前數年偵測阿茲海默症 - TechNews 科技新報",
-      "published": "2026-04-18T02:32:47+00:00",
-      "summary": "不到一分鐘揪出早期徵兆，AI 語音分析技術有望提前數年偵測阿茲海默症&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQalhWdnVPZllSRlZULW45MXhHdTdDSEduNFM1cC1vWUNVX3ZYVEpvb2hHNkhIaE43Q3gtSFM2RTN1Tlo3Sy15XzlBT3lmREdmZ09MUmk4RVRGajRxbmFBVkkzblR0OE1UUjNXbXhkRWx4c2RySkxUa2hhOC1fT2ljeGR6YVR3RENPaUxNMWJWVTdacFF2S0E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "766bf82e4b9c",
       "title": "101歲修女有失智病變，仍記憶力驚人！研究揭「1習慣」減緩大腦退化 - 優活健康網",
       "published": "2026-04-17T04:00:00+00:00",
@@ -72,6 +60,18 @@
         {
           "name": "優活健康網",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90UU1EN3gwQWNRdzV4OFh5WmhmaEpZTEpraW00a0toVHZnZVdFMF9kaTFweU5NTGxSVjhGWHdSTlp0Q25MajlFanZKTkdOMF9ZVnlZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "03ad0e003641",
+      "title": "不到一分鐘揪出早期徵兆，AI 語音分析技術有望提前數年偵測阿茲海默症 - TechNews 科技新報",
+      "published": "2026-04-18T02:32:47+00:00",
+      "summary": "不到一分鐘揪出早期徵兆，AI 語音分析技術有望提前數年偵測阿茲海默症&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQalhWdnVPZllSRlZULW45MXhHdTdDSEduNFM1cC1vWUNVX3ZYVEpvb2hHNkhIaE43Q3gtSFM2RTN1Tlo3Sy15XzlBT3lmREdmZ09MUmk4RVRGajRxbmFBVkkzblR0OE1UUjNXbXhkRWx4c2RySkxUa2hhOC1fT2ljeGR6YVR3RENPaUxNMWJWVTdacFF2S0E?oc=5"
         }
       ]
     },
