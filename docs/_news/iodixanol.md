@@ -14,7 +14,7 @@ permalink: /news/iodixanol/
 ---
 
 <p class="key-answer" data-question="Iodixanol 有什麼相關新聞？">
-<strong>Iodixanol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Iodixanol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,9 @@ permalink: /news/iodixanol/
 <p><a href="{{ '/drugs/iodixanol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [不菸不酒卻罹癌！研究：「近4成癌」可預防 醫曝掌握4關鍵](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sUl91RlRtcTVQRnV4SDJ6UmY0WW1DQ3VwWlNFN2szRXVpeHlpNXRneDdlRGlwS3lpZ3ZTYWlRdk9DNEtkVWgtN0lPTHJPOWpE?oc=5)
-
-2026-04-10 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腦血管</span>
-
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sUl91RlRtcTVQRnV4SDJ6UmY0WW1DQ3VwWlNFN2szRXVpeHlpNXRneDdlRGlwS3lpZ3ZTYWlRdk9DNEtkVWgtN0lPTHJPOWpE?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/dehydrocholic_acid/
 ---
 
 <p class="key-answer" data-question="Dehydrocholic acid 有什麼相關新聞？">
-<strong>Dehydrocholic acid</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dehydrocholic acid</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/dehydrocholic_acid/
 <p><a href="{{ '/drugs/dehydrocholic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [2026 年世界肝臟日：您的糖尿病是一場無聲的危機嗎？ 《柳葉刀》稱每20 名印度人中就有1 人患有隱性肝硬化](https://news.google.com/rss/articles/CBMi4AJBVV95cUxNSS1KLXFHSU1VQnk5azd3cmdZVWVvMy00OE1OSEdmMWdfNjdxN3pIT05tckJsLVdsOTBJMzR6TFZGdWVNWjAwTFVCSDJZc1lOLUJ6Y1kycEt1SGhyTlVJY2lld3hvNkxPQXJhMFZadlV0WFF3R3lPTENsYnJYczZFc0xCMmJzUjZ3YUl4akVFeVAyZ09qbkI5dU0teTJaOVZXaWhPX1UwazRYQWhRMWwyZDVnV1NjQkFzSl9OcU4xaEI0b2ZnNENuWFFyZHp0Sk96WXJPRFJ0VUVjV3JNMk5PQnNNMXJhTzNMQ0tiZ0lhOXEtRlRaZ0RTZWRWeDZfUTl1UXJQRWlFZ3JkUnhiUjIwQ0pXSGNhQWVYWW5BMTBVaTZieEZranFWcl84YTFpM0dxVWJLRFdHQ0FaekQtODU1azJuUUZLcWJvQlBZUVZ1TlM4Um1mZ3ZyZVdTSHlUbmdH?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/dehydrocholic_acid/
 2026-04-16 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">惡性腫瘤</span>
 
 來源：[人民网-上海频道](https://news.google.com/rss/articles/CBMicEFVX3lxTE9nenV3d2dWNzctdmFvTlNUSWtqUmtqakNUYWM4WWlnX2xjZ2ozZ3hMd1BWeGdnUGdlQXBJMEE0M1RaalJWbGRLbVd4aWdWUVp0QnVGRW1oRmNRS280WWVKUGd5QW0xN1FnaUg0LXJfU0s?oc=5)
-
----
-
-### [不菸不酒卻罹癌！研究：「近4成癌」可預防 醫曝掌握4關鍵](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sUl91RlRtcTVQRnV4SDJ6UmY0WW1DQ3VwWlNFN2szRXVpeHlpNXRneDdlRGlwS3lpZ3ZTYWlRdk9DNEtkVWgtN0lPTHJPOWpE?oc=5)
-
-2026-04-10 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腦血管</span>
-
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sUl91RlRtcTVQRnV4SDJ6UmY0WW1DQ3VwWlNFN2szRXVpeHlpNXRneDdlRGlwS3lpZ3ZTYWlRdk9DNEtkVWgtN0lPTHJPOWpE?oc=5)
 
 ---
 

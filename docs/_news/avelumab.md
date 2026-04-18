@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [帶狀皰疹症狀與原因解析 牙痛失眠恐誘發皮蛇發作](https://news.google.com/rss/articles/CBMi3AJBVV95cUxPTy1uaFRBeVV4ZDBmX2ZtZVoyRlV6eXFoakh2a2J0VGJBWUJwQVhmY29NQTJGOG1KajRvd3ZqYnRWaEdxNmVacG9UdjJhY1cwUlBpNmJzQ1huaHhwZ19ScUduMnNJR1ZLOU9QeXE1TDk1M2lBZkR0T3ZvVTJGN2R3Z05EY2xoOThtamUyTE5WZW1ONWYweld1ak5TS25uYm1SMjZLamVwZksxVkdHWktPajY0M1EzQUJ6RzdJd2JZTVZ6aGgySDdvSV9uOVF2OG5OMkdHS1VCNWJzY1pfT1BabFFZc3poSW5mLXlQbWxUbDZYRUFUS1gzcTkwcV9NRU1MYkpDNWFFbDVseUExMExJZy1xQnZLSTQ1bVZaQjFZbmxUbVMzSV9zVmdQMnVvdkVuanRVNlFKR0RwcUR6amdfMF9iRlRxdk9jNWhxQ1BrSGNQbTVNbEdWUGRZbHU?oc=5)
+### [帶狀皰疹症狀與原因解析 牙痛失眠恐誘發皮蛇發作 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikgFBVV95cUxONE1lZ1l3OGZocmhUaDNza0xFZE5xM2RzY0dIY2cwOGlqLW90SUlNX2hrbmcyY0JuRDQtTmptdmxvSDhqMGtYZVJQbEJwSDRhUEFySUpnWEU0YUZnS3UzX3BMUzBzbTREQjk5M1lFejEzbUREY3M2cGRydy1lRnRnSnJKYW85VEk0cnFpQWhZUGdVdw?oc=5)
 
 2026-04-18 <span class="news-indication-tag">帶狀皰疹</span> <span class="news-indication-tag">皮蛇</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi3AJBVV95cUxPTy1uaFRBeVV4ZDBmX2ZtZVoyRlV6eXFoakh2a2J0VGJBWUJwQVhmY29NQTJGOG1KajRvd3ZqYnRWaEdxNmVacG9UdjJhY1cwUlBpNmJzQ1huaHhwZ19ScUduMnNJR1ZLOU9QeXE1TDk1M2lBZkR0T3ZvVTJGN2R3Z05EY2xoOThtamUyTE5WZW1ONWYweld1ak5TS25uYm1SMjZLamVwZksxVkdHWktPajY0M1EzQUJ6RzdJd2JZTVZ6aGgySDdvSV9uOVF2OG5OMkdHS1VCNWJzY1pfT1BabFFZc3poSW5mLXlQbWxUbDZYRUFUS1gzcTkwcV9NRU1MYkpDNWFFbDVseUExMExJZy1xQnZLSTQ1bVZaQjFZbmxUbVMzSV9zVmdQMnVvdkVuanRVNlFKR0RwcUR6amdfMF9iRlRxdk9jNWhxQ1BrSGNQbTVNbEdWUGRZbHU?oc=5)
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMikgFBVV95cUxONE1lZ1l3OGZocmhUaDNza0xFZE5xM2RzY0dIY2cwOGlqLW90SUlNX2hrbmcyY0JuRDQtTmptdmxvSDhqMGtYZVJQbEJwSDRhUEFySUpnWEU0YUZnS3UzX3BMUzBzbTREQjk5M1lFejEzbUREY3M2cGRydy1lRnRnSnJKYW85VEk0cnFpQWhZUGdVdw?oc=5)
 
 ---
 
@@ -65,14 +65,6 @@ permalink: /news/avelumab/
 2026-04-16 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">惡性腫瘤</span>
 
 來源：[人民网-上海频道](https://news.google.com/rss/articles/CBMicEFVX3lxTE9nenV3d2dWNzctdmFvTlNUSWtqUmtqakNUYWM4WWlnX2xjZ2ozZ3hMd1BWeGdnUGdlQXBJMEE0M1RaalJWbGRLbVd4aWdWUVp0QnVGRW1oRmNRS280WWVKUGd5QW0xN1FnaUg0LXJfU0s?oc=5)
-
----
-
-### [不菸不酒卻罹癌！研究：「近4成癌」可預防 醫曝掌握4關鍵](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sUl91RlRtcTVQRnV4SDJ6UmY0WW1DQ3VwWlNFN2szRXVpeHlpNXRneDdlRGlwS3lpZ3ZTYWlRdk9DNEtkVWgtN0lPTHJPOWpE?oc=5)
-
-2026-04-10 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腦血管</span>
-
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sUl91RlRtcTVQRnV4SDJ6UmY0WW1DQ3VwWlNFN2szRXVpeHlpNXRneDdlRGlwS3lpZ3ZTYWlRdk9DNEtkVWgtN0lPTHJPOWpE?oc=5)
 
 ---
 
