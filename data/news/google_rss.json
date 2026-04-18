@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-18T19:34:55.347508+00:00",
-  "count": 23,
+  "fetched_at": "2026-04-18T20:27:14.100655+00:00",
+  "count": 22,
   "news": [
     {
       "id": "5f655f08434b",
@@ -232,18 +232,6 @@
       ]
     },
     {
-      "id": "e5d54429dc3e",
-      "title": "美國輪狀病毒疫情升溫，CDC警告嬰幼兒嘔吐腹瀉住院風險 - Singtaousa",
-      "published": "2026-04-16T20:38:12+00:00",
-      "summary": "美國輪狀病毒疫情升溫，CDC警告嬰幼兒嘔吐腹瀉住院風險&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSXpKZThsSXNJM29Pb1ItZExTcVN2M3VzSDVvdUR3eXViaDdMMExybVdDMDFEdUFhdTdoNlVQYmFmcTR5U3I5eU5ibXI3ZTdMb21GdzE0SXFoT2xtUENZQ3BjemlQaTRkSnJDU0QtM0JYMUdBbDJFT3E1b1dIek5PT29lOWROdmNFTDk3LThVQmpQVEdnVllpMTJXMm9RaDRrRll2WWluVEZrNDcyNUFXem02cEIydWVhdWtwSlpxbGlfcFZPNHVNbkJmS2VkUFp6UjBRUFZiYTIwRkZYSDRF?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0293f7915c6b",
       "title": "41歲男生痱滋兩個月不痛不癢 求醫驚揭患舌癌險割脷 出現5大症狀要小心 - singtao.ca",
       "published": "2026-04-18T14:24:06+00:00",
@@ -256,14 +244,14 @@
       ]
     },
     {
-      "id": "abd19ff0a0c5",
-      "title": "沙加緬度地區協調應對麻疹爆發 病例上升至19宗｜細說燊語 - Singtaousa",
-      "published": "2026-04-16T19:56:28+00:00",
-      "summary": "沙加緬度地區協調應對麻疹爆發 病例上升至19宗｜細說燊語&nbsp;&nbsp;Singtaousa金縣一名嬰兒確診麻疹引發接觸風險預警&nbsp;&nbsp;大紀元新聞網麻疹疫情加州首季39例 近10年新高&nbsp;&nbsp;世界新聞網麻疹疫苗接種史，如何影響免疫力判斷？&nbsp;&nbsp;Bella.tw儂儂麻疹病毒的真面目是「免疫駭客」：可能強制破壞身體抵抗力&nbsp;&nbsp;四季線上4gTV",
+      "id": "e5d54429dc3e",
+      "title": "美國輪狀病毒疫情升溫，CDC警告嬰幼兒嘔吐腹瀉住院風險 - Singtaousa",
+      "published": "2026-04-16T20:38:12+00:00",
+      "summary": "美國輪狀病毒疫情升溫，CDC警告嬰幼兒嘔吐腹瀉住院風險&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUmNVTHRQMG54cWtQQmV1ekl6bGo1NnJMN1BnUlpTVGlsaEtxcEVDVm82TEJHdUo1TmN2bGszbDNNWlU4ZjR2VDdwSE9QN3Q0dER5bE5sOFBjUzZ3SmJZWjhIZ3pKaVc4aVhUNGpvYzhEcjBtWmR4SGpsUkR6R0xmd25OdThaampoQlE2eVNNNVhsWnFxNHhPamFwbGpXamlMU3V0YXh4d0dLYlFRdnR1X0drTWh4aUlJQ2NyTE9xZmNOczZWZEdEcmtDVG1TQkt6?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSXpKZThsSXNJM29Pb1ItZExTcVN2M3VzSDVvdUR3eXViaDdMMExybVdDMDFEdUFhdTdoNlVQYmFmcTR5U3I5eU5ibXI3ZTdMb21GdzE0SXFoT2xtUENZQ3BjemlQaTRkSnJDU0QtM0JYMUdBbDJFT3E1b1dIek5PT29lOWROdmNFTDk3LThVQmpQVEdnVllpMTJXMm9RaDRrRll2WWluVEZrNDcyNUFXem02cEIydWVhdWtwSlpxbGlfcFZPNHVNbkJmS2VkUFp6UjBRUFZiYTIwRkZYSDRF?oc=5"
         }
       ]
     },
