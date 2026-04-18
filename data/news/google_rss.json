@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-18T11:27:54.777703+00:00",
-  "count": 20,
+  "fetched_at": "2026-04-18T12:40:58.250776+00:00",
+  "count": 21,
   "news": [
     {
       "id": "eac47332275d",
@@ -18,7 +18,7 @@
     {
       "id": "8eeaefc31485",
       "title": "60後別再減肥！醫揭微胖更長壽：BMI低於「這數值」死亡風險飆2倍，恐害肌少、骨鬆找上門 - Yahoo新聞",
-      "published": "2026-04-18T08:46:05+00:00",
+      "published": "2026-04-18T09:00:00+00:00",
       "summary": "60後別再減肥！醫揭微胖更長壽：BMI低於「這數值」死亡風險飆2倍，恐害肌少、骨鬆找上門&nbsp;&nbsp;Yahoo新聞60後別再減肥！醫揭微胖更長壽：BMI低於「這數值」死亡風險飆2倍，恐害肌少、骨鬆找上門| 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY長者管好體重 防營養過剩致肥保持均衡生活勿藥石亂投&nbsp;&nbsp;信報網站",
       "sources": [
         {
@@ -40,6 +40,18 @@
       ]
     },
     {
+      "id": "09c1de82658f",
+      "title": "科學家去除「殭屍」細胞並逆轉小鼠肝臟損傷 - citytimes.tw",
+      "published": "2026-04-18T08:14:50+00:00",
+      "summary": "科學家去除「殭屍」細胞並逆轉小鼠肝臟損傷&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPREd5eExpaGVTb2JlZ0Q5dHYzXzI3TkljUmM1N2lrN1hkRFQybllFZk5GOENOZEs0ejcwamZfUjRvcTBoNTN5ZVMyS3RIYzRVbmNRWG9memFBcnBuZnAzamZ5Y05zbXBjZDBjcVF6dXc2SkFaVTI5ZTc4cnc0aGdkMkMzZ3pRSjE4TjFyRXQ5VC1lZUlhOVBuS3FQNDZBbTNEOEkxQmg3YjBmUlVDVWNUMDBRT1RYX2VnZjJ2RFRmU1Fxa3EzY3pNd3FyOWpQRGtnQlFXay10am9LQXR1WGVib3gzOWE5NUxJM1RFR1dKcEszWXo1V3N2OUJXMUx0czNGekZtRmZsc2tiWHJZbVo0UVhKTUNlczZoQ3R1NGpDeXBfYnQxUUpIMkdHV1ZGYXdwYTZjT2Y0WlZJVEtSMlBDSEJTcVI2U2RlWUFvWGtR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "766bf82e4b9c",
       "title": "101歲修女有失智病變，仍記憶力驚人！研究揭「1習慣」減緩大腦退化 - 優活健康網",
       "published": "2026-04-17T04:00:00+00:00",
@@ -48,18 +60,6 @@
         {
           "name": "優活健康網",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90UU1EN3gwQWNRdzV4OFh5WmhmaEpZTEpraW00a0toVHZnZVdFMF9kaTFweU5NTGxSVjhGWHdSTlp0Q25MajlFanZKTkdOMF9ZVnlZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6fd9919e1046",
-      "title": "科學家消滅「殭屍」細胞並逆轉小鼠肝臟損傷 - arch-web.com.tw",
-      "published": "2026-04-16T12:11:48+00:00",
-      "summary": "科學家消滅「殭屍」細胞並逆轉小鼠肝臟損傷&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNeTBWSEhSVDdqWE5DcUl3bW00MmJyRFBXR3ZlMTJyeG5QTXJIRDg4YWY2aS1mYmFRQXU3cnVHNEx3U1U1NFM4ZzNrUUFnLVBweGFFZGlnSWRSaEFKYy0tZnBadFl4VGs1YXRpOFQwdk5BeWVnOXo5LVBsZTNjOHpvVzk1X3h3V285VFFHMjNFRXV4TEwyWm5LVnBBeU1uVkh0RG9GRXo2aXdCUXN5a1Mwd1VRUXYxeTh1U0U5RHBWMDFuY1QyS21KLUdsZldFSll1dlMwZzBfLXFndGxRcVVHb25pYVMxUmttaGtNcVAwSVBUNlcwMzQ2MDlNZDRlZW4xa2NOYlduTWhIclRuSVFMOGZ2SVBLUkZSQTlid1RiR0JkbjlBaC1tNEVOaHZiS0FGZzJWZDFsTXNvNlhzU01Cclc3WndNNmozZ2ExVWk0QXpaM1J6bFphNnJoZDhGZ09aNW5kcDJfSFZqOGVaeFE?oc=5"
         }
       ]
     },
@@ -160,6 +160,18 @@
       ]
     },
     {
+      "id": "c8b6ff30e0b4",
+      "title": "三分之一的城市印度人有脂肪肝的風險； ETHealthworld 健康專家警告人們焦慮日益加劇 - citytimes.tw",
+      "published": "2026-04-18T11:21:02+00:00",
+      "summary": "三分之一的城市印度人有脂肪肝的風險； ETHealthworld 健康專家警告人們焦慮日益加劇&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPX1liVjVlQWdLamVOdnhkaGZLa1E2ZnI1M3NrRWtLei1Bai05R3ZhN19IQ1BCVjBLNUdBYUtQN2RvS2RkQUI0aGRiRUxJd1NaRVA3TTVORzVITk10RmFiMTBzbVhIMHQyZktIZXFwaGo4RzBrY3lFWV9mUC1vbXBKVEVHZWdCeHNscmdHeXFSMk1zQmo2UDg1cTVCMUoxaGJaMldldUtfc2VpX3RyeGFlejF1QlNOQlk1NmVyNHIyZjJqajczOUc4dEJMOWZUS3RQUGVBSnU3MmtMWVBZSHRGdXE2cUVEYldPcDFNOUxlWDRlZ004R3NqRzJJeWlxNGFoOWZDRDRWSmFaX1JtTDhCOFpXLTY1RlBURHhQMjEzczV0OEwxYjB5OVo1dU9ZcGJUVjdkZjVWaGdYSEJvaDRiZEpSY2xlUjFWOE5fODlySTd3OWx5QzhWNkszNlN5cmVkWFE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "542831d2f832",
       "title": "女性老得慢、腦更年輕！長達24年研究曝：每天吃「這類水果」遠離發炎，大腦健康且虛弱風險降低 - Women's Health",
       "published": "2026-04-17T04:12:41+00:00",
@@ -168,6 +180,18 @@
         {
           "name": "Women's Health",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUHRyRXhHU2FKcXJQZmpsMTRmRm1EeTNSLWV0SndkbFR2VmFDNHdUd2xzbDdLTEFYeUhIVjdabEozV3JtOVJjRzJuN3ZUME1tNGhZVDduajlnNWNRSzA1aDExenoxVEZRUEc0ZUM3cWVYYzJGOWd3dTdQVU52ZmZHcE1EVTcwTEVVSE5aRGc1LXplNUJCRVRndDhhVldIZ1JiU184M3MxVWhnS29rM0xwYTRZRTZoTjJLY3J6c1FFam0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7f9824c6bf37",
+      "title": "奧拉布里蓋拉 (Aura Brigella) 衝進急診室，承認自己飲食不當 - citytimes.tw",
+      "published": "2026-04-18T10:25:40+00:00",
+      "summary": "奧拉布里蓋拉 (Aura Brigella) 衝進急診室，承認自己飲食不當&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQR0Fzd2l4ZnFqQlRrWjlUOG5jdnZrQVFaOENUbHBtLWxaR0F0a216d3N3VkRxUk5FWlVwTXgtNDk4ZmxFNGVFRFAyRC1RZkNvS01xNVNwMDV4UjY2RnZuVDV0TW5CMmxQTFlKQVpMTHRXaVBrYVlET3RSclNwYS1BbXlKY2Vib0tBMGp4b1B3S3dTX1piY29JdTBXSDNRN3I4TE9SLVZHLU96V2ZsRGNiWS1uTjdabDdTLTd5R204OUE1YmxjdVNza2NTMTJGTDMtYUhFb0FieWwxSzZoc00wdjN3M05PMjdzQklfNmJQQ0FDcVFVclFEMmZneWtzUlNSNV9QRzhEVFpiY3FQMnhPeVEzMkg1R1VtcUdIODBiVVJNaTJSTU5HS2pYemtqeGRtWDNIa0FRUlEyU0hSdFE2dG1iRV9Zbk5MMHRpUW0tcWJEZFBRR2dsZ3dlUURhWWhUNkE?oc=5"
         }
       ]
     },
@@ -192,18 +216,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQZFl1M0hLMjRFWnlvN29RNUllTFEzcHJoQzlzVzVPRGxRWXh4QklRY25ZYlFGN2pBWnFqdUg4NFpJS29UQXZpNG8xZ1JPTTFLOGRaUVExQm1VR2ViS0Q1SmFxSGJEcDVPalNUamFVcDJoLVhvWkkwOTdjalJFVzZFLUxFSUUtaHRjYlJLREx3MmJaSjl2SUttcW1RMDl3akpoS3JnRVhTbGpINV9uOWhHYlZGT3NDVnl3VzE4dUpDRVlWN3g3S250bjRmdWk5U29TbFY3SWxuXzU4dHJkRnVLbEJpUjRzV1N4N250UjJLT3drRHFWUVVkcVpyMm1ZaHR0YWtVWEZ3V3hZMnlJbTZsUzZ3Uk9UR2h0NDk5TFZJUzliejdSUEtBUkdnX09jYWw1bVNtWEtJQ1hTeVA4WWRsbGRkMU1vN1pmNm81WEdGaDJmdUNpQTNfUTJMalJTYjljV1VJU29R?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6af3e31eea99",
-      "title": "2026 年世界肝臟日：您的糖尿病是一場無聲的危機嗎？ 《柳葉刀》稱每20 名印度人中就有1 人患有隱性肝硬化 - citytimes.tw",
-      "published": "2026-04-18T01:54:52+00:00",
-      "summary": "2026 年世界肝臟日：您的糖尿病是一場無聲的危機嗎？ 《柳葉刀》稱每20 名印度人中就有1 人患有隱性肝硬化&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNSS1KLXFHSU1VQnk5azd3cmdZVWVvMy00OE1OSEdmMWdfNjdxN3pIT05tckJsLVdsOTBJMzR6TFZGdWVNWjAwTFVCSDJZc1lOLUJ6Y1kycEt1SGhyTlVJY2lld3hvNkxPQXJhMFZadlV0WFF3R3lPTENsYnJYczZFc0xCMmJzUjZ3YUl4akVFeVAyZ09qbkI5dU0teTJaOVZXaWhPX1UwazRYQWhRMWwyZDVnV1NjQkFzSl9OcU4xaEI0b2ZnNENuWFFyZHp0Sk96WXJPRFJ0VUVjV3JNMk5PQnNNMXJhTzNMQ0tiZ0lhOXEtRlRaZ0RTZWRWeDZfUTl1UXJQRWlFZ3JkUnhiUjIwQ0pXSGNhQWVYWW5BMTBVaTZieEZranFWcl84YTFpM0dxVWJLRFdHQ0FaekQtODU1azJuUUZLcWJvQlBZUVZ1TlM4Um1mZ3ZyZVdTSHlUbmdH?oc=5"
         }
       ]
     },
