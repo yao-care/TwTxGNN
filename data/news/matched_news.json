@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T08:39:18.157116+00:00",
+  "last_updated": "2026-04-18T09:39:43.137602+00:00",
   "total_count": 22,
   "matched_count": 9,
   "news": [
@@ -127,6 +127,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "03456b70cfdc",
+      "title": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性",
+      "published": "2026-04-18T00:58:50+00:00",
+      "summary": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性&nbsp;&nbsp;citytimes.tw科學家發現細菌可以「爆炸」傳播抗生素抗藥性。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPTzVUcGp6d2Q2cVdMVzVrNXNRc1ZHWVR3a2FsTUJjMDA3R1dBUnN3QWNmZVVGWVNoT0hEZ1JHc2poUHZSd3NnWl9WeFdHdjRJdXU4aU9faHY2U1lacjM5YVoycTI0RDh3ODlVUGJQT3V4QjktaWdGMjEzazVoeGFnS2E3YzFOQmpWcnpXSzRGQUpKM0kzaHRSU2hRaVE3SnFGeHB5dGQ3aFloSklTX0kyTHY5eE9LNlpaaDVGcm8tZlVfNkNYVld1ekpMMGVtaUNvMkduelRsWkNHbV90WWQ0YTlXdEg2MjJ3Y0d1cXhpMloxV1YxbkRvVW15NVpObUpzNjZuMHZrRTRJbG1sZ1BwaWk4Ml9yd0NxZWw2Qk9jRWl6WmthMkdTZ2FIZm14RzBrZTVBMk5QWHNyb3lmWXEtSHNMQlV3dkh4Y1J3bkJZYk52V2Q3OW5Mb3Bn?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "0b9792199976",
@@ -349,19 +362,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "f305534f3533",
-      "title": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性。",
-      "published": "2026-04-17T13:45:17+00:00",
-      "summary": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性。&nbsp;&nbsp;arch-web.com.tw科學家發現細菌可以「爆炸」傳播抗生素抗藥性&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQeV9RRUtrZUszTjZWY0IzYk5KRTlBRnV1SXNSanZpT0pRY1NwUC0yNk51ODdURHBhdHBWOFFvRHFscDU4SnNueU1DNVgwNV9oQzNfX1dnREllN2lRMUhLay0zLThfR1BmMFZGb01GbzhIVlVvNHJ3N1BMaXl1Um5nVUpWS1NhSHJpU2xHTFpvRUNxclktYTR4cWpoSFRYYVpSOFU2N3lKbjdwbXc5dHdMZWdMTVpRN1pxSEg0d1hlMGpvYS1rd1ppVGZOazN5LUlzQm1CMUs3em5ZbWdKbDB2THRhSjVveHNEcWN1bTNDeE9VdkFYeDJmRXUzRDFoX2plNkI5QXZGbU1PUXUzbktzV2VBNlVOZ3dINzdEWFdlcVhfUl84amE2UXFiOXYxUEliT1cwS1FrQ3lmWm9MckZTNHFTaUpnclJUWkpMTGJsSlV3MnNnQlEwc2RraW9yNEFfd2JlczNjTmZzRkx6MXlpNGFyT0t6S1phLXNqWkdPTlpwbng0R1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "89f9549bfb10",
