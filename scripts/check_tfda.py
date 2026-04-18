@@ -56,7 +56,7 @@ def download_tfda_data() -> tuple:
         response = requests.get(TFDA_DATA_URL, timeout=120)
         response.raise_for_status()
 
-        content_hash = hashlib.md5(response.content).hexdigest()
+        content_hash = hashlib.sha256(response.content).hexdigest()
 
         # Check if it's a ZIP file
         if response.content[:2] == b'PK':

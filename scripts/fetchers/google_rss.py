@@ -27,7 +27,7 @@ GOOGLE_NEWS_HEALTH_RSS = (
 def generate_id(title: str, link: str) -> str:
     """產生新聞 ID（基於標題和連結的 hash）"""
     content = f"{title}:{link}"
-    return hashlib.md5(content.encode()).hexdigest()[:12]
+    return hashlib.sha256(content.encode()).hexdigest()[:12]
 
 
 def parse_source(entry) -> dict:
