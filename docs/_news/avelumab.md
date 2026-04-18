@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,39 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（4 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [帶狀皰疹症狀與原因解析 牙痛失眠恐誘發皮蛇發作](https://news.google.com/rss/articles/CBMi3AJBVV95cUxPTy1uaFRBeVV4ZDBmX2ZtZVoyRlV6eXFoakh2a2J0VGJBWUJwQVhmY29NQTJGOG1KajRvd3ZqYnRWaEdxNmVacG9UdjJhY1cwUlBpNmJzQ1huaHhwZ19ScUduMnNJR1ZLOU9QeXE1TDk1M2lBZkR0T3ZvVTJGN2R3Z05EY2xoOThtamUyTE5WZW1ONWYweld1ak5TS25uYm1SMjZLamVwZksxVkdHWktPajY0M1EzQUJ6RzdJd2JZTVZ6aGgySDdvSV9uOVF2OG5OMkdHS1VCNWJzY1pfT1BabFFZc3poSW5mLXlQbWxUbDZYRUFUS1gzcTkwcV9NRU1MYkpDNWFFbDVseUExMExJZy1xQnZLSTQ1bVZaQjFZbmxUbVMzSV9zVmdQMnVvdkVuanRVNlFKR0RwcUR6amdfMF9iRlRxdk9jNWhxQ1BrSGNQbTVNbEdWUGRZbHU?oc=5)
+
+2026-04-18 <span class="news-indication-tag">帶狀皰疹</span> <span class="news-indication-tag">皮蛇</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi3AJBVV95cUxPTy1uaFRBeVV4ZDBmX2ZtZVoyRlV6eXFoakh2a2J0VGJBWUJwQVhmY29NQTJGOG1KajRvd3ZqYnRWaEdxNmVacG9UdjJhY1cwUlBpNmJzQ1huaHhwZ19ScUduMnNJR1ZLOU9QeXE1TDk1M2lBZkR0T3ZvVTJGN2R3Z05EY2xoOThtamUyTE5WZW1ONWYweld1ak5TS25uYm1SMjZLamVwZksxVkdHWktPajY0M1EzQUJ6RzdJd2JZTVZ6aGgySDdvSV9uOVF2OG5OMkdHS1VCNWJzY1pfT1BabFFZc3poSW5mLXlQbWxUbDZYRUFUS1gzcTkwcV9NRU1MYkpDNWFFbDVseUExMExJZy1xQnZLSTQ1bVZaQjFZbmxUbVMzSV9zVmdQMnVvdkVuanRVNlFKR0RwcUR6amdfMF9iRlRxdk9jNWhxQ1BrSGNQbTVNbEdWUGRZbHU?oc=5)
+
+---
+
+### [壓力會導致癌症嗎？專家稱答案比你想像的更複雜](https://news.google.com/rss/articles/CBMi5gJBVV95cUxQZFl1M0hLMjRFWnlvN29RNUllTFEzcHJoQzlzVzVPRGxRWXh4QklRY25ZYlFGN2pBWnFqdUg4NFpJS29UQXZpNG8xZ1JPTTFLOGRaUVExQm1VR2ViS0Q1SmFxSGJEcDVPalNUamFVcDJoLVhvWkkwOTdjalJFVzZFLUxFSUUtaHRjYlJLREx3MmJaSjl2SUttcW1RMDl3akpoS3JnRVhTbGpINV9uOWhHYlZGT3NDVnl3VzE4dUpDRVlWN3g3S250bjRmdWk5U29TbFY3SWxuXzU4dHJkRnVLbEJpUjRzV1N4N250UjJLT3drRHFWUVVkcVpyMm1ZaHR0YWtVWEZ3V3hZMnlJbTZsUzZ3Uk9UR2h0NDk5TFZJUzliejdSUEtBUkdnX09jYWw1bVNtWEtJQ1hTeVA4WWRsbGRkMU1vN1pmNm81WEdGaDJmdUNpQTNfUTJMalJTYjljV1VJU29R?oc=5)
+
+2026-04-17 <span class="news-indication-tag">癌症</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxQZFl1M0hLMjRFWnlvN29RNUllTFEzcHJoQzlzVzVPRGxRWXh4QklRY25ZYlFGN2pBWnFqdUg4NFpJS29UQXZpNG8xZ1JPTTFLOGRaUVExQm1VR2ViS0Q1SmFxSGJEcDVPalNUamFVcDJoLVhvWkkwOTdjalJFVzZFLUxFSUUtaHRjYlJLREx3MmJaSjl2SUttcW1RMDl3akpoS3JnRVhTbGpINV9uOWhHYlZGT3NDVnl3VzE4dUpDRVlWN3g3S250bjRmdWk5U29TbFY3SWxuXzU4dHJkRnVLbEJpUjRzV1N4N250UjJLT3drRHFWUVVkcVpyMm1ZaHR0YWtVWEZ3V3hZMnlJbTZsUzZ3Uk9UR2h0NDk5TFZJUzliejdSUEtBUkdnX09jYWw1bVNtWEtJQ1hTeVA4WWRsbGRkMU1vN1pmNm81WEdGaDJmdUNpQTNfUTJMalJTYjljV1VJU29R?oc=5)
+
+---
+
+### [上海癌症5年生存率達65.2% 新版惡性腫瘤篩查預防《推薦》發布](https://news.google.com/rss/articles/CBMicEFVX3lxTE9nenV3d2dWNzctdmFvTlNUSWtqUmtqakNUYWM4WWlnX2xjZ2ozZ3hMd1BWeGdnUGdlQXBJMEE0M1RaalJWbGRLbVd4aWdWUVp0QnVGRW1oRmNRS280WWVKUGd5QW0xN1FnaUg0LXJfU0s?oc=5)
+
+2026-04-16 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">惡性腫瘤</span>
+
+來源：[人民网-上海频道](https://news.google.com/rss/articles/CBMicEFVX3lxTE9nenV3d2dWNzctdmFvTlNUSWtqUmtqakNUYWM4WWlnX2xjZ2ozZ3hMd1BWeGdnUGdlQXBJMEE0M1RaalJWbGRLbVd4aWdWUVp0QnVGRW1oRmNRS280WWVKUGd5QW0xN1FnaUg0LXJfU0s?oc=5)
+
+---
+
+### [不菸不酒卻罹癌！研究：「近4成癌」可預防 醫曝掌握4關鍵](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sUl91RlRtcTVQRnV4SDJ6UmY0WW1DQ3VwWlNFN2szRXVpeHlpNXRneDdlRGlwS3lpZ3ZTYWlRdk9DNEtkVWgtN0lPTHJPOWpE?oc=5)
+
+2026-04-10 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腦血管</span>
+
+來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sUl91RlRtcTVQRnV4SDJ6UmY0WW1DQ3VwWlNFN2szRXVpeHlpNXRneDdlRGlwS3lpZ3ZTYWlRdk9DNEtkVWgtN0lPTHJPOWpE?oc=5)
+
+---
 
 
 <div class="disclaimer">
