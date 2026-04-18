@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智（dementia） 相關新聞"
+title: "阿茲海默症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "阿茲海默症（dementia） 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智（dementia） 相關新聞
+# 阿茲海默症（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="阿茲海默症（dementia） 有什麼相關新聞？">
+<strong>阿茲海默症（dementia）</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,7 +29,15 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [不到一分鐘揪出早期徵兆，AI 語音分析技術有望提前數年偵測阿茲海默症 - TechNews 科技新報](https://news.google.com/rss/articles/CBMilgFBVV95cUxQalhWdnVPZllSRlZULW45MXhHdTdDSEduNFM1cC1vWUNVX3ZYVEpvb2hHNkhIaE43Q3gtSFM2RTN1Tlo3Sy15XzlBT3lmREdmZ09MUmk4RVRGajRxbmFBVkkzblR0OE1UUjNXbXhkRWx4c2RySkxUa2hhOC1fT2ljeGR6YVR3RENPaUxNMWJWVTdacFF2S0E?oc=5)
+
+2026-04-18
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMilgFBVV95cUxQalhWdnVPZllSRlZULW45MXhHdTdDSEduNFM1cC1vWUNVX3ZYVEpvb2hHNkhIaE43Q3gtSFM2RTN1Tlo3Sy15XzlBT3lmREdmZ09MUmk4RVRGajRxbmFBVkkzblR0OE1UUjNXbXhkRWx4c2RySkxUa2hhOC1fT2ljeGR6YVR3RENPaUxNMWJWVTdacFF2S0E?oc=5)
+
+---
 
 ### [內臟脂肪過高「讓人變笨」？ 研究示警：泡芙人族群最危險，大腦恐受到10種損害| 有肌勵](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzUGlza0ZaN2dDelpRNUFpMDQ5ajdVSTE5MkIwZ3UtVm13VXlERG85QzZySFIySDFLOXM2ZTJKTmhoYWJ0ai14Zy1SaHlnWl85MHROaVRtU1hDVnI5?oc=5)
 

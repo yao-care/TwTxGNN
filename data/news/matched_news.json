@@ -1,8 +1,58 @@
 {
-  "last_updated": "2026-04-18T01:26:57.257446+00:00",
-  "total_count": 28,
-  "matched_count": 9,
+  "last_updated": "2026-04-18T04:25:35.886403+00:00",
+  "total_count": 25,
+  "matched_count": 11,
   "news": [
+    {
+      "id": "03ad0e003641",
+      "title": "不到一分鐘揪出早期徵兆，AI 語音分析技術有望提前數年偵測阿茲海默症 - TechNews 科技新報",
+      "published": "2026-04-18T02:32:47+00:00",
+      "summary": "不到一分鐘揪出早期徵兆，AI 語音分析技術有望提前數年偵測阿茲海默症&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQalhWdnVPZllSRlZULW45MXhHdTdDSEduNFM1cC1vWUNVX3ZYVEpvb2hHNkhIaE43Q3gtSFM2RTN1Tlo3Sy15XzlBT3lmREdmZ09MUmk4RVRGajRxbmFBVkkzblR0OE1UUjNXbXhkRWx4c2RySkxUa2hhOC1fT2ljeGR6YVR3RENPaUxNMWJWVTdacFF2S0E?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6af3e31eea99",
+      "title": "2026 年世界肝臟日：您的糖尿病是一場無聲的危機嗎？ 《柳葉刀》稱每20 名印度人中就有1 人患有隱性肝硬化",
+      "published": "2026-04-18T01:54:52+00:00",
+      "summary": "2026 年世界肝臟日：您的糖尿病是一場無聲的危機嗎？ 《柳葉刀》稱每20 名印度人中就有1 人患有隱性肝硬化&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNSS1KLXFHSU1VQnk5azd3cmdZVWVvMy00OE1OSEdmMWdfNjdxN3pIT05tckJsLVdsOTBJMzR6TFZGdWVNWjAwTFVCSDJZc1lOLUJ6Y1kycEt1SGhyTlVJY2lld3hvNkxPQXJhMFZadlV0WFF3R3lPTENsYnJYczZFc0xCMmJzUjZ3YUl4akVFeVAyZ09qbkI5dU0teTJaOVZXaWhPX1UwazRYQWhRMWwyZDVnV1NjQkFzSl9OcU4xaEI0b2ZnNENuWFFyZHp0Sk96WXJPRFJ0VUVjV3JNMk5PQnNNMXJhTzNMQ0tiZ0lhOXEtRlRaZ0RTZWRWeDZfUTl1UXJQRWlFZ3JkUnhiUjIwQ0pXSGNhQWVYWW5BMTBVaTZieEZranFWcl84YTFpM0dxVWJLRFdHQ0FaekQtODU1azJuUUZLcWJvQlBZUVZ1TlM4Um1mZ3ZyZVdTSHlUbmdH?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "肝硬化",
+          "keyword": "肝硬化",
+          "related_drugs": [
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "06df80b1c67f",
       "title": "帶狀皰疹症狀與原因解析 牙痛失眠恐誘發皮蛇發作",
@@ -53,14 +103,14 @@
       "matched_keywords": []
     },
     {
-      "id": "d8f4a191203e",
-      "title": "2026 年世界肝臟日：這 3 個日常習慣不會傷害您的肝臟，酒精也不會，以下是扭轉肝臟的方法",
-      "published": "2026-04-17T22:33:51+00:00",
-      "summary": "2026 年世界肝臟日：這 3 個日常習慣不會傷害您的肝臟，酒精也不會，以下是扭轉肝臟的方法&nbsp;&nbsp;citytimes.tw",
+      "id": "ca9576c6d6ac",
+      "title": "醫療困境害331兒童「確診HIV」原因超荒唐 - 鏡週刊Mirror Media",
+      "published": "2026-04-17T23:10:00+00:00",
+      "summary": "醫療困境害331兒童「確診HIV」原因超荒唐&nbsp;&nbsp;鏡週刊Mirror Media巴基斯坦醫療疏失！針筒重用10次「331童確診HIV」&nbsp;&nbsp;東森新聞恐怖醫界醜聞！反覆用同一根針筒…害331兒童「確診HIV」凸顯1醫療困境&nbsp;&nbsp;Yahoo新聞331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油&nbsp;&nbsp;鏡週刊Mirror Media巴基斯坦兒童愛滋病爆發 醫院重複用針筒BBC揭發&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPdUlWM0RhMWl2SDI1MEJraC1zYmMxOTJDWk52RWxjQnVSVGlyM3RWT0djaEY3RmtPcS1vd1kzMkU2eG9Sc0NzVkRDSHR6T01sVFpFR3NpLTRaaFBZQXZBampEd2RySEtRZHEyS0Ztb3FhOXVjZ2x6MFNOOU1ybDlnY054c25uSkpTbW00MmlVdmplS1FaeWxuTlQ0VnlPOG9KTEZUemI1a1VKWmxKV1hNUVRTaEw5ZDJDZk5qQmZJalRnUE1USUloZ0dZbXNnRDhFMWdacXF5Rm9TTjhCWGRfdzFiR1dkMzczWHJrZ2FOUV90SUhLb3l5emg5bzJRVU1wWjdtdUxTcW5ORnEwaU1IX0R1Zjh2c21KTlRWZXlpR0lOX2NyUWVJR1dHdXJmY2tUWkNoYzZsQzRtdWVURmlpVy03aG4zYWRXVXhmcUJBZlEyWjlsYWhMb2JOSmV4NFFaQmdjdA?oc=5"
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iSlR3bWlMaUFELUdxV3VKYnpIYVEzeWNlV1QyWHRKczZTMlg1UE5MelYyQ0RNNC1CZ0k5ODRwQnlDY0lPT1NJaWFKU01MazloaHdjZk5yXzBTYTZu0gFiQVVfeXFMUEZPV1N5UElTNm90VnlPTWV4XzBuMUxFZkpLUHI4dEJsRFJKejM5LUoyd25WQXB1UHc5RHV5VFk5OVZXc3Y3dWdNM1dTQWdrTjZtYnlCZnQ0UGFydDJBM0E5TGc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -288,19 +338,6 @@
       ]
     },
     {
-      "id": "1baa6732816b",
-      "title": "波士頓大學研究發現斑胸草雀腦神經新生機制 或解釋人類腦細胞再生限制 - Techritual Hong Kong",
-      "published": "2026-04-17T19:05:42+00:00",
-      "summary": "波士頓大學研究發現斑胸草雀腦神經新生機制 或解釋人類腦細胞再生限制&nbsp;&nbsp;Techritual Hong Kong",
-      "sources": [
-        {
-          "name": "Techritual Hong Kong",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmVXYxVVJ2TFRTeVM0aFFTcGwxM2JPV0VNVjZBdXdocDRTNFI4WEVncUU1NTBmbjRaTVd2b1ZQV2dUMWppV3ZXcUZVUzNlSTlaTXotQ0dJOTA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "89f9549bfb10",
       "title": "「1投資」才是幸福長壽關鍵？死亡率降低39%、比運動更能強身健體！ - Harper's BAZAAR",
       "published": "2026-04-17T10:43:41+00:00",
@@ -355,7 +392,7 @@
       "id": "e6ef6f4f25ea",
       "title": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃",
       "published": "2026-04-17T04:52:25+00:00",
-      "summary": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃&nbsp;&nbsp;祝你健康前往 Google 新聞查看完整報導",
+      "summary": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃&nbsp;&nbsp;祝你健康陽光充足仍恐維生素D不足 醫揭吸收誤區與實用補充建議&nbsp;&nbsp;獨家報導陽光維他命D，能幫助中風病患復原得較好嗎？&nbsp;&nbsp;careonline.com.tw預防流感、病毒感染，曬太陽就有效&nbsp;&nbsp;PChome Online 新聞中年降「失智毒素」 鮭魚可幫大忙 衝高維生素D濃度&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "祝你健康",
@@ -371,6 +408,21 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
             }
           ]
         }
@@ -415,13 +467,13 @@
       ]
     },
     {
-      "id": "f4581eff995f",
-      "title": "比阿公阿嬤還常喊累？中醫揭年輕人為何「未老先衰」 1警訊要留意 - PChome Online新聞",
+      "id": "d72bd84ef4e9",
+      "title": "比阿公阿嬤還常喊累？中醫揭年輕人為何「未老先衰」 1警訊要留意 - PChome Online 新聞",
       "published": "2026-04-17T02:00:00+00:00",
-      "summary": "比阿公阿嬤還常喊累？中醫揭年輕人為何「未老先衰」 1警訊要留意&nbsp;&nbsp;PChome Online新聞",
+      "summary": "比阿公阿嬤還常喊累？中醫揭年輕人為何「未老先衰」 1警訊要留意&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
-          "name": "PChome Online新聞",
+          "name": "PChome Online 新聞",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN0Z5WUpzVGxCUlZ4Q2JFS3FYN05GWWNGWkxTRERLUEJ2a1ltbzNsRFlwdGY4aVQ4c0I5WHY1M1pCOF82YV9KMDdXU2xkdm41Z19GZW5JaGU0ZU4yM20zRjg0Q3BrQUt3VHZadnVaNk0zX3JPZWFJbVQ3bXVBbmxKMV9adnR5ZDFWbDJLMU83LUtGRlU?oc=5"
         }
       ],
@@ -1150,58 +1202,6 @@
         {
           "name": "聯合新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwX1J1dXRTeDRTRnliSFdUdFZXM1UtdnpLZEwzaWgyRzROc08tMFJ2ek1HLVA2SWlzOFRKVEI4dVB3OUhfR0UyMVFiZ2xFUDFm0gFWQVVfeXFMT1lVbmE1VjlXbl94alJJLXJmT3ZFTHhOQVNBNGp6OVNSWDdQSW94RlhCTUdsUGZlRjhXYXAyU3paeXZIOXBNOWRnaEdudmpUdzE5Z0E1M1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "319131789a18",
-      "title": "疫情警告：ETHealthworld 帕拉穆區確診麻疹病例",
-      "published": "2026-04-16T03:44:56+00:00",
-      "summary": "疫情警告：ETHealthworld 帕拉穆區確診麻疹病例&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPUXZXd1hLUTdqMjlRdFdqcGNOdTBxV19nLW52XzBxeGJSSHpFQmtrSVBIRjg2MGVVTTZDdEVCN1lzUko3Z3VOWFlVcFdtRVd1dWhyMThoNllLRUkxQTU1Wk5wcDdyMFVraTFpaF9NTG5IcDJMWGRoWkhETURrQS10NVlvWklnVzZ0ZEE4aWhQM2FwSVdvcXZzYTdwYlVzNGd5UHVTSFpRQUZfYnhvRW5pOGVGNV9MVHhCQnpPb2ZBdGowYWlyNThVLTBWbG1FMGI2OTFWcEhfRU5tRVh4QnQzSEt3bDFRcWZXNVVfQlRYcldPR1BfQUstSzRPa0RRT3dvejdBcHFXbTJ1akxVZ05WdW51dkc4dDk2QkQzbnhIQk54TUtt?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1c095bc662b5",
-      "title": "「卵巢透明亮細胞癌」致癌關鍵BMAL2 有望成新型治療靶點",
-      "published": "2026-04-16T03:37:51+00:00",
-      "summary": "「卵巢透明亮細胞癌」致癌關鍵BMAL2 有望成新型治療靶點&nbsp;&nbsp;sinica.edu.tw",
-      "sources": [
-        {
-          "name": "sinica.edu.tw",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZZnNlSGNHUU5GV0ZNbEJMUjdfZGJPRGtycFBEZDBFU0piUV9qYmJvVmE2RktnZWQwRDVubWdhb01fNTZ3VDBaNXpKX2U3dm9DWDFvUkVPOVZsZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "77d2e73f1203",
-      "title": "健身｜空肚做gym 增肌變減肌？",
-      "published": "2026-04-16T03:30:00+00:00",
-      "summary": "健身｜空肚做gym 增肌變減肌？&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WOXRadmhMQ1QwNm45azlydTlGbU5hMW5BZ0xMOTRqR1NDV1A2YUV6YlZsY3JhQkZRdVJhMEVua1JrVjZaUGlldjBFQ3psbVBhdUE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "066434d74360",
-      "title": "【控鉀・穩住心與腎】50歲男性急性腎損傷 血鉀高達8 心跳險停止",
-      "published": "2026-04-16T01:00:00+00:00",
-      "summary": "【控鉀・穩住心與腎】50歲男性急性腎損傷 血鉀高達8 心跳險停止&nbsp;&nbsp;健康醫療網",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nRm5yMkdsdEdkWXBFZVlhdEpZdzNMS2tRaVJKaWRXWlBzcUF5SVkza3lpaUhBZmhVUW02ZnR5bnB5alFBYkdRTEpER2I4eG8yb3gzN2dB?oc=5"
         }
       ],
       "matched_keywords": []

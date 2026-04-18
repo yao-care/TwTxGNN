@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [不到一分鐘揪出早期徵兆，AI 語音分析技術有望提前數年偵測阿茲海默症 - TechNews 科技新報](https://news.google.com/rss/articles/CBMilgFBVV95cUxQalhWdnVPZllSRlZULW45MXhHdTdDSEduNFM1cC1vWUNVX3ZYVEpvb2hHNkhIaE43Q3gtSFM2RTN1Tlo3Sy15XzlBT3lmREdmZ09MUmk4RVRGajRxbmFBVkkzblR0OE1UUjNXbXhkRWx4c2RySkxUa2hhOC1fT2ljeGR6YVR3RENPaUxNMWJWVTdacFF2S0E?oc=5)
+
+2026-04-18 <span class="news-indication-tag">阿茲海默症</span>
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMilgFBVV95cUxQalhWdnVPZllSRlZULW45MXhHdTdDSEduNFM1cC1vWUNVX3ZYVEpvb2hHNkhIaE43Q3gtSFM2RTN1Tlo3Sy15XzlBT3lmREdmZ09MUmk4RVRGajRxbmFBVkkzblR0OE1UUjNXbXhkRWx4c2RySkxUa2hhOC1fT2ljeGR6YVR3RENPaUxNMWJWVTdacFF2S0E?oc=5)
+
+---
 
 ### [壓力會導致癌症嗎？專家稱答案比你想像的更複雜](https://news.google.com/rss/articles/CBMi5gJBVV95cUxQZFl1M0hLMjRFWnlvN29RNUllTFEzcHJoQzlzVzVPRGxRWXh4QklRY25ZYlFGN2pBWnFqdUg4NFpJS29UQXZpNG8xZ1JPTTFLOGRaUVExQm1VR2ViS0Q1SmFxSGJEcDVPalNUamFVcDJoLVhvWkkwOTdjalJFVzZFLUxFSUUtaHRjYlJLREx3MmJaSjl2SUttcW1RMDl3akpoS3JnRVhTbGpINV9uOWhHYlZGT3NDVnl3VzE4dUpDRVlWN3g3S250bjRmdWk5U29TbFY3SWxuXzU4dHJkRnVLbEJpUjRzV1N4N250UjJLT3drRHFWUVVkcVpyMm1ZaHR0YWtVWEZ3V3hZMnlJbTZsUzZ3Uk9UR2h0NDk5TFZJUzliejdSUEtBUkdnX09jYWw1bVNtWEtJQ1hTeVA4WWRsbGRkMU1vN1pmNm81WEdGaDJmdUNpQTNfUTJMalJTYjljV1VJU29R?oc=5)
 
@@ -61,7 +69,7 @@ permalink: /news/gefitinib/
 
 ### [16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MV2JRQkRWd3RtdmlKaDFsdDNBM1pLN2ZQWm1VUG9OcHFWclc5YmFQYTM5U2lRcEVjZ1V4MXhsWktrSDdDcDBqOGVLR0E?oc=5)
 
-2026-04-17 <span class="news-indication-tag">失智</span>
+2026-04-17 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
 
 來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MV2JRQkRWd3RtdmlKaDFsdDNBM1pLN2ZQWm1VUG9OcHFWclc5YmFQYTM5U2lRcEVjZ1V4MXhsWktrSDdDcDBqOGVLR0E?oc=5)
 
