@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-18T07:55:10.877017+00:00",
-  "count": 10,
+  "generated": "2026-04-18T08:39:18.184479+00:00",
+  "count": 9,
   "news": [
     {
       "id": "03ad0e003641",
@@ -51,13 +51,13 @@
       ]
     },
     {
-      "id": "922bf690ddc6",
-      "title": "帶狀皰疹症狀與原因解析 牙痛失眠恐誘發皮蛇發作 - PChome Online 新聞",
-      "published": "2026-04-18T01:00:00+00:00",
+      "id": "06df80b1c67f",
+      "title": "帶狀皰疹症狀與原因解析 牙痛失眠恐誘發皮蛇發作",
+      "published": "2026-04-18T01:11:24+00:00",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONE1lZ1l3OGZocmhUaDNza0xFZE5xM2RzY0dIY2cwOGlqLW90SUlNX2hrbmcyY0JuRDQtTmptdmxvSDhqMGtYZVJQbEJwSDRhUEFySUpnWEU0YUZnS3UzX3BMUzBzbTREQjk5M1lFejEzbUREY3M2cGRydy1lRnRnSnJKYW85VEk0cnFpQWhZUGdVdw?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPTy1uaFRBeVV4ZDBmX2ZtZVoyRlV6eXFoakh2a2J0VGJBWUJwQVhmY29NQTJGOG1KajRvd3ZqYnRWaEdxNmVacG9UdjJhY1cwUlBpNmJzQ1huaHhwZ19ScUduMnNJR1ZLOU9QeXE1TDk1M2lBZkR0T3ZvVTJGN2R3Z05EY2xoOThtamUyTE5WZW1ONWYweld1ak5TS25uYm1SMjZLamVwZksxVkdHWktPajY0M1EzQUJ6RzdJd2JZTVZ6aGgySDdvSV9uOVF2OG5OMkdHS1VCNWJzY1pfT1BabFFZc3poSW5mLXlQbWxUbDZYRUFUS1gzcTkwcV9NRU1MYkpDNWFFbDVseUExMExJZy1xQnZLSTQ1bVZaQjFZbmxUbVMzSV9zVmdQMnVvdkVuanRVNlFKR0RwcUR6amdfMF9iRlRxdk9jNWhxQ1BrSGNQbTVNbEdWUGRZbHU?oc=5"
         }
       ],
       "keywords": [
@@ -997,30 +997,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "dad3db698c7b",
-      "title": "維他命C真的能防感冒？醫揭答案 很多人都白吃了",
-      "published": "2026-04-16T07:00:08+00:00",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CWllUZkxVZTZ1RWswOWtSN3dwVjNOcG5NTDV4V0x2aXdVX1dKWXlTQVA3dDdiQkdJRjF6aFFNeGhtbFp5YjFLZUh5N0NmQlhtMUNJdU4xdw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }

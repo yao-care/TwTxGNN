@@ -1,13 +1,26 @@
 {
-  "last_updated": "2026-04-18T07:55:10.849570+00:00",
-  "total_count": 23,
-  "matched_count": 10,
+  "last_updated": "2026-04-18T08:39:18.157116+00:00",
+  "total_count": 22,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "09c1de82658f",
+      "title": "科學家去除「殭屍」細胞並逆轉小鼠肝臟損傷",
+      "published": "2026-04-18T08:14:50+00:00",
+      "summary": "科學家去除「殭屍」細胞並逆轉小鼠肝臟損傷&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPREd5eExpaGVTb2JlZ0Q5dHYzXzI3TkljUmM1N2lrN1hkRFQybllFZk5GOENOZEs0ejcwamZfUjRvcTBoNTN5ZVMyS3RIYzRVbmNRWG9memFBcnBuZnAzamZ5Y05zbXBjZDBjcVF6dXc2SkFaVTI5ZTc4cnc0aGdkMkMzZ3pRSjE4TjFyRXQ5VC1lZUlhOVBuS3FQNDZBbTNEOEkxQmg3YjBmUlVDVWNUMDBRT1RYX2VnZjJ2RFRmU1Fxa3EzY3pNd3FyOWpQRGtnQlFXay10am9LQXR1WGVib3gzOWE5NUxJM1RFR1dKcEszWXo1V3N2OUJXMUx0czNGekZtRmZsc2tiWHJZbVo0UVhKTUNlczZoQ3R1NGpDeXBfYnQxUUpIMkdHV1ZGYXdwYTZjT2Y0WlZJVEtSMlBDSEJTcVI2U2RlWUFvWGtR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "eac47332275d",
       "title": "331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油",
       "published": "2026-04-18T03:14:07+00:00",
-      "summary": "331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油&nbsp;&nbsp;Yahoo新聞巴基斯坦醫療疏失！針筒重用10次「331童確診HIV」&nbsp;&nbsp;東森新聞331童染愛滋！醫院疏失釀大禍 8歲童臨終前「痛苦如火燒」&nbsp;&nbsp;壹蘋新聞網醫療疏失奪童命！331童染HIV 重複用針恐成破口 | TVBS&nbsp;&nbsp;LINE TODAY巴國醫院共用針頭害331童染愛滋病！8歲童死前掙扎：像被丟進滾燙熱油&nbsp;&nbsp;造咖",
+      "summary": "331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油&nbsp;&nbsp;Yahoo新聞巴基斯坦醫療疏失！針筒重用10次「331童確診HIV」&nbsp;&nbsp;東森新聞331童染HIV！巴基斯坦醫院爆疏失 BBC臥底直擊：針筒重複使用&nbsp;&nbsp;ETtoday新聞雲醫療疏失奪童命！331童染HIV 重複用針恐成破口 | TVBS&nbsp;&nbsp;LINE TODAY巴國醫院共用針頭害331童染愛滋病！8歲童死前掙扎：像被丟進滾燙熱油&nbsp;&nbsp;造咖",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -80,14 +93,14 @@
       ]
     },
     {
-      "id": "922bf690ddc6",
-      "title": "帶狀皰疹症狀與原因解析 牙痛失眠恐誘發皮蛇發作 - PChome Online 新聞",
-      "published": "2026-04-18T01:00:00+00:00",
-      "summary": "帶狀皰疹症狀與原因解析 牙痛失眠恐誘發皮蛇發作&nbsp;&nbsp;PChome Online 新聞",
+      "id": "06df80b1c67f",
+      "title": "帶狀皰疹症狀與原因解析 牙痛失眠恐誘發皮蛇發作",
+      "published": "2026-04-18T01:11:24+00:00",
+      "summary": "帶狀皰疹症狀與原因解析 牙痛失眠恐誘發皮蛇發作&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONE1lZ1l3OGZocmhUaDNza0xFZE5xM2RzY0dIY2cwOGlqLW90SUlNX2hrbmcyY0JuRDQtTmptdmxvSDhqMGtYZVJQbEJwSDRhUEFySUpnWEU0YUZnS3UzX3BMUzBzbTREQjk5M1lFejEzbUREY3M2cGRydy1lRnRnSnJKYW85VEk0cnFpQWhZUGdVdw?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPTy1uaFRBeVV4ZDBmX2ZtZVoyRlV6eXFoakh2a2J0VGJBWUJwQVhmY29NQTJGOG1KajRvd3ZqYnRWaEdxNmVacG9UdjJhY1cwUlBpNmJzQ1huaHhwZ19ScUduMnNJR1ZLOU9QeXE1TDk1M2lBZkR0T3ZvVTJGN2R3Z05EY2xoOThtamUyTE5WZW1ONWYweld1ak5TS25uYm1SMjZLamVwZksxVkdHWktPajY0M1EzQUJ6RzdJd2JZTVZ6aGgySDdvSV9uOVF2OG5OMkdHS1VCNWJzY1pfT1BabFFZc3poSW5mLXlQbWxUbDZYRUFUS1gzcTkwcV9NRU1MYkpDNWFFbDVseUExMExJZy1xQnZLSTQ1bVZaQjFZbmxUbVMzSV9zVmdQMnVvdkVuanRVNlFKR0RwcUR6amdfMF9iRlRxdk9jNWhxQ1BrSGNQbTVNbEdWUGRZbHU?oc=5"
         }
       ],
       "matched_keywords": [
@@ -114,19 +127,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "03456b70cfdc",
-      "title": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性",
-      "published": "2026-04-18T00:58:50+00:00",
-      "summary": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性&nbsp;&nbsp;citytimes.tw科學家發現細菌可以「爆炸」傳播抗生素抗藥性。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPTzVUcGp6d2Q2cVdMVzVrNXNRc1ZHWVR3a2FsTUJjMDA3R1dBUnN3QWNmZVVGWVNoT0hEZ1JHc2poUHZSd3NnWl9WeFdHdjRJdXU4aU9faHY2U1lacjM5YVoycTI0RDh3ODlVUGJQT3V4QjktaWdGMjEzazVoeGFnS2E3YzFOQmpWcnpXSzRGQUpKM0kzaHRSU2hRaVE3SnFGeHB5dGQ3aFloSklTX0kyTHY5eE9LNlpaaDVGcm8tZlVfNkNYVld1ekpMMGVtaUNvMkduelRsWkNHbV90WWQ0YTlXdEg2MjJ3Y0d1cXhpMloxV1YxbkRvVW15NVpObUpzNjZuMHZrRTRJbG1sZ1BwaWk4Ml9yd0NxZWw2Qk9jRWl6WmthMkdTZ2FIZm14RzBrZTVBMk5QWHNyb3lmWXEtSHNMQlV3dkh4Y1J3bkJZYk52V2Q3OW5Mb3Bn?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "0b9792199976",
@@ -351,6 +351,19 @@
       ]
     },
     {
+      "id": "f305534f3533",
+      "title": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性。",
+      "published": "2026-04-17T13:45:17+00:00",
+      "summary": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性。&nbsp;&nbsp;arch-web.com.tw科學家發現細菌可以「爆炸」傳播抗生素抗藥性&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQeV9RRUtrZUszTjZWY0IzYk5KRTlBRnV1SXNSanZpT0pRY1NwUC0yNk51ODdURHBhdHBWOFFvRHFscDU4SnNueU1DNVgwNV9oQzNfX1dnREllN2lRMUhLay0zLThfR1BmMFZGb01GbzhIVlVvNHJ3N1BMaXl1Um5nVUpWS1NhSHJpU2xHTFpvRUNxclktYTR4cWpoSFRYYVpSOFU2N3lKbjdwbXc5dHdMZWdMTVpRN1pxSEg0d1hlMGpvYS1rd1ppVGZOazN5LUlzQm1CMUs3em5ZbWdKbDB2THRhSjVveHNEcWN1bTNDeE9VdkFYeDJmRXUzRDFoX2plNkI5QXZGbU1PUXUzbktzV2VBNlVOZ3dINzdEWFdlcVhfUl84amE2UXFiOXYxUEliT1cwS1FrQ3lmWm9MckZTNHFTaUpnclJUWkpMTGJsSlV3MnNnQlEwc2RraW9yNEFfd2JlczNjTmZzRkx6MXlpNGFyT0t6S1phLXNqWkdPTlpwbng0R1E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "89f9549bfb10",
       "title": "「1投資」才是幸福長壽關鍵？死亡率降低39%、比運動更能強身健體！ - Harper's BAZAAR",
       "published": "2026-04-17T10:43:41+00:00",
@@ -552,19 +565,6 @@
         {
           "name": "KTSF.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiTmVicXpLQWJpc1NXc05FSlh5S20yaU1RVW1YejZrUVlBbE9ySU1RaUJFSi1mSldBUUpoYWFybUZIUklPeUVObDIwSmF1SnJseE0tYjdib2hEUGRqdTZr?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6fd9919e1046",
-      "title": "科學家消滅「殭屍」細胞並逆轉小鼠肝臟損傷",
-      "published": "2026-04-16T12:11:48+00:00",
-      "summary": "科學家消滅「殭屍」細胞並逆轉小鼠肝臟損傷&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNeTBWSEhSVDdqWE5DcUl3bW00MmJyRFBXR3ZlMTJyeG5QTXJIRDg4YWY2aS1mYmFRQXU3cnVHNEx3U1U1NFM4ZzNrUUFnLVBweGFFZGlnSWRSaEFKYy0tZnBadFl4VGs1YXRpOFQwdk5BeWVnOXo5LVBsZTNjOHpvVzk1X3h3V285VFFHMjNFRXV4TEwyWm5LVnBBeU1uVkh0RG9GRXo2aXdCUXN5a1Mwd1VRUXYxeTh1U0U5RHBWMDFuY1QyS21KLUdsZldFSll1dlMwZzBfLXFndGxRcVVHb25pYVMxUmttaGtNcVAwSVBUNlcwMzQ2MDlNZDRlZW4xa2NOYlduTWhIclRuSVFMOGZ2SVBLUkZSQTlid1RiR0JkbjlBaC1tNEVOaHZiS0FGZzJWZDFsTXNvNlhzU01Cclc3WndNNmozZ2ExVWk0QXpaM1J6bFphNnJoZDhGZ09aNW5kcDJfSFZqOGVaeFE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1163,31 +1163,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "dad3db698c7b",
-      "title": "維他命C真的能防感冒？醫揭答案 很多人都白吃了",
-      "published": "2026-04-16T07:00:08+00:00",
-      "summary": "維他命C真的能防感冒？醫揭答案 很多人都白吃了&nbsp;&nbsp;台視新聞網",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CWllUZkxVZTZ1RWswOWtSN3dwVjNOcG5NTDV4V0x2aXdVX1dKWXlTQVA3dDdiQkdJRjF6aFFNeGhtbFp5YjFLZUh5N0NmQlhtMUNJdU4xdw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
