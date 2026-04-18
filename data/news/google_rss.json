@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-18T16:29:16.931090+00:00",
-  "count": 22,
+  "fetched_at": "2026-04-18T17:29:45.150461+00:00",
+  "count": 23,
   "news": [
+    {
+      "id": "5f655f08434b",
+      "title": "腦芯片技術揭示帕金森病蛋白對大腦血管屏障的影響 - GeneOnline News",
+      "published": "2026-04-18T12:05:36+00:00",
+      "summary": "腦芯片技術揭示帕金森病蛋白對大腦血管屏障的影響&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQR1hWZFFkMjZmdWh0WUNuTXQxT183ZklxUUxBQVFmUFFubTBSMGhPVnRNaU90b2k4YUVVQW9qV09HSGhUYWhtaU45eEpOVjZlbTN5Mm1sSnp1cTFfUlliZklLUnhscUtncFhJazJqYlFoRGhaalAtOVp1aE92TTZBR3dNNVZNVlFQNTB2dkhLM0pTSHdTVk8wNEpoakszWXBFWGRfUkFHa2NwTXQ1QTZXTTA4MDVZWjd2bjNwRjhhNGRCRkxVZFoyVmZ2TXZHR2pXVHFWUUNfTzlQNTFHbnhET3ZULThzRy1leFA1cDhVb19kUHhNNW0zMjg0clQ0d2h0MTMxOGtvWTBmYTIwMExTVzRDRWJoaDY3d2J0Ty1scXhJbHczUjBxTE9FLVZlZ1VDem1qeFBkbzR2MW8xOTlYeWs1UUw0QQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "eac47332275d",
       "title": "331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油 - Yahoo新聞",
@@ -12,6 +24,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxNYmo0MXlic1RWNmtUVW5SampiTE1DWWppMWFvVkVtaVM3cExNOW5SaWRTMmRKZXJ6ck5jVmFNR1dyWktEa0tsTXJKa1pLdE1JODkzMVg2TnZGcEpPT25lMjhDTUNFN2p5VkE2NERUOGNxN3g1UmMtYzFpMmpzZEVUcWJ5QXE4U3EzTmdTRmdsMkozSTFkMzREMkwteHg5WFEwaERCREhxNV9pa1piTnNDVWQwUjFzLXQ2R1E4eUYxVzdUSURWNmxKSjRoa1d6a3JTOVNtM3lMS1pOaVBsRVlud0VlWmduSGV4d0tmX2l3QWVHaFAzTTUtSWR3UFc2NGpDTUhBX2h5Z3pjU0dka1FCQnQ5TXZYYzBVSlNCeWRBX2o2cmtIS25mLTViNnM3UlpabllUbVU4RTBCa2lSLUNlV0JYV3RhZl8tRVczYUtNWW5SR0NvLTNQeURvWld6WFRMc1Q3ZzZDMG00dUsyc25QM0tvODd2dFV5dXVEOE5WU0w5aUZLUl9wNk5nYTdIaGRsSWlHSHNsYV9peFRYV3N0RExPeEpHbTFpMDZJa19PWG5hMWUtV0lLMGczVkdhS295VF9pTVNrVDVVaVNBMkp5YQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d46d2b96065c",
+      "title": "咖啡因對螞蟻的作用可能會改變害蟲控制 - arch-web.com.tw",
+      "published": "2026-04-18T16:31:03+00:00",
+      "summary": "咖啡因對螞蟻的作用可能會改變害蟲控制&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOemRTNjIwRFJ5by02bkk5SHA1TkRBMjV1MlZOeDNOQ3pzY3ZoRXhuZ1N0cGRQNkR3dzgtRUV0a1F3UHNiVmRXdm53S1RxUl9LY1pfb0pfekJOdTVLem5MVUFmLVNWNnFaMGxaTnRQajg1eGZIaHhfXzFfVkp5VFpobWxzMTQwOXJsZkVjTkdUWkNmSGhjcjVpaW1DRGNWZkd0TGJoeGdBaG9WMnczQlVaOUJJeVNUT3hoSS1GOHlKUmlwVE9uZzdLWUozSUs1YmE2QUg4SXF0ejJFQzJrX0lxRGFXWkZ5bEptMUlWLS01bmpLRTlYaEhqYWN0aHR3bG9LX2V6bWIwN0NuV2hWQ2VtQllGdWYzSDQwcXpocDFtVWw3OEFuNkdPaU5DT3RmRUE3N1BYb1UyNEtqSC1BVzhLNGZzcG5VQWJBMUctZGJyV0xIODFIQmc?oc=5"
         }
       ]
     },
@@ -144,18 +168,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOay1qaFZic0RSYkRtOFVyRjZiR01NdlVwdFhuRVFiekM2Mjdmek1KQkhlcjFtYWU4d0RKZmVCdFNmanphR05fMnBaUzlrbWRNVzU1dVZxdmZLRVVyTlphUDRsQV9vNjNVVG9BRkVCMFNPNGJ3TmpGZUQ0dllIOTJDS0hNdkFVWEVMX2VmRkh2cU8wallmVTlZNE0yNFFTQS1mbkVidjJkZDR2RmxKeWVmTFY2bXhEdlNHaGRXTS1ndTRwbnl5TGh1RWM5dzdnbkphX2xIcnFrREhITWdQZ2FYcjI2cnZBaWxaTWJRNUF5U1NCOFpTWTJkOS01Q0VOYUhCLXM2WTNELUh6VHF6dGNpWjF5MElTSG96Xzc5LTN6Q1NJSFVReEtuQVFrN3NfenlNN3NlWW1EbmpacERCV2V5RnVnN0dKV25Pci1HaVY1OVRLU05ZTjBoMWR0R0dPWi13QXVZem93?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5f655f08434b",
-      "title": "腦芯片技術揭示帕金森病蛋白對大腦血管屏障的影響 - GeneOnline News",
-      "published": "2026-04-18T12:05:36+00:00",
-      "summary": "腦芯片技術揭示帕金森病蛋白對大腦血管屏障的影響&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQR1hWZFFkMjZmdWh0WUNuTXQxT183ZklxUUxBQVFmUFFubTBSMGhPVnRNaU90b2k4YUVVQW9qV09HSGhUYWhtaU45eEpOVjZlbTN5Mm1sSnp1cTFfUlliZklLUnhscUtncFhJazJqYlFoRGhaalAtOVp1aE92TTZBR3dNNVZNVlFQNTB2dkhLM0pTSHdTVk8wNEpoakszWXBFWGRfUkFHa2NwTXQ1QTZXTTA4MDVZWjd2bjNwRjhhNGRCRkxVZFoyVmZ2TXZHR2pXVHFWUUNfTzlQNTFHbnhET3ZULThzRy1leFA1cDhVb19kUHhNNW0zMjg0clQ0d2h0MTMxOGtvWTBmYTIwMExTVzRDRWJoaDY3d2J0Ty1scXhJbHczUjBxTE9FLVZlZ1VDem1qeFBkbzR2MW8xOTlYeWs1UUw0QQ?oc=5"
         }
       ]
     },
