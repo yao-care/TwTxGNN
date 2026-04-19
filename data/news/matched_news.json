@@ -1,8 +1,61 @@
 {
-  "last_updated": "2026-04-19T13:54:43.093722+00:00",
+  "last_updated": "2026-04-19T14:35:56.344003+00:00",
   "total_count": 22,
   "matched_count": 9,
   "news": [
+    {
+      "id": "b1de9e9e0745",
+      "title": "哥倫比亞首例猴痘病例在安蒂奧基亞發現：MinSalud 是這麼說的 – Publimetro Columbia",
+      "published": "2026-04-19T08:15:52+00:00",
+      "summary": "哥倫比亞首例猴痘病例在安蒂奧基亞發現：MinSalud 是這麼說的 – Publimetro Columbia&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOTm5KbGozb0pjMDRIdWlTU00xTmtxaGtXQjFzemNta240NlpMYjRqd04tcmd2VVpfeTg0N2VpZnZ3eS1rWWxYTVF2ZnlHbzFzdjI0MkgyckVLZWVwVFBJR2c1NG1BZTJvN21FUVB2VzB6NmdjRXJGekU2YVdiSWlsRktCRTFnUi1DZXpEUnJ1WGNXQnVJek4zNW8zQWVDYTdMd2FJS3JyTUl2SWl0VUdnX0lLU19aY2FDZlU5ZTh4YWtKZnZrcEp1blhtOTFCMGhpeDVGUFhDSGxxakFsTnNPWVozN3VwY3lsaDBocFhmcENzLTY0RTdlT1VmMWZRNXo3RWh2eTNRSW9OX1gwS3hXY0R1cGxIZ3lwcGZXUTNaVVBtdWxVbC10eXljdG9feGdnTUZjWUp5NVhSRm1SU20weFJUeDJ5ZTV1RUNGX2N2ZVd3Nk5TLTFDRVl3c2hCamlLOTI3bThn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ae74a020b90b",
+      "title": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃 | 三立新聞網 - LINE TODAY",
+      "published": "2026-04-19T07:40:39+00:00",
+      "summary": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃 | 三立新聞網&nbsp;&nbsp;LINE TODAY防失智，請多曬太陽？16年追蹤研究：30至40歲是黃金預防期&nbsp;&nbsp;遠見雜誌16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃&nbsp;&nbsp;祝你健康陽光充足仍恐維生素D不足 醫揭吸收誤區與實用補充建議&nbsp;&nbsp;獨家報導陽光維他命D，能幫助中風病患復原得較好嗎？&nbsp;&nbsp;careonline.com.tw",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZWjJybnZSN1VhTWxJOFBQZTE5R2FDS3h1blF6eWJRQmN6QUpERXlFWS05dFhSVGJKMkh3d3dmdTEzbVhXemJhYjRKb3FVa3JORXZyczJB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "6184410c3f11",
       "title": "孟加拉總理批麻疹疫苗接種失敗「不可饒恕」 誓推醫療改革",
@@ -630,59 +683,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "ae74a020b90b",
-      "title": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃 | 三立新聞網 - LINE TODAY",
-      "published": "2026-04-17T13:57:55+00:00",
-      "summary": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃 | 三立新聞網&nbsp;&nbsp;LINE TODAY防失智，請多曬太陽？16年追蹤研究：30至40歲是黃金預防期&nbsp;&nbsp;遠見雜誌16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃&nbsp;&nbsp;祝你健康陽光充足仍恐維生素D不足 醫揭吸收誤區與實用補充建議&nbsp;&nbsp;獨家報導陽光維他命D，能幫助中風病患復原得較好嗎？&nbsp;&nbsp;careonline.com.tw",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZWjJybnZSN1VhTWxJOFBQZTE5R2FDS3h1blF6eWJRQmN6QUpERXlFWS05dFhSVGJKMkh3d3dmdTEzbVhXemJhYjRKb3FVa3JORXZyczJB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "06d661de333a",
-      "title": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性。",
-      "published": "2026-04-17T13:45:17+00:00",
-      "summary": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性。&nbsp;&nbsp;arch-web.com.tw科學家發現細菌可以「爆炸」傳播抗生素抗藥性&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQeV9RRUtrZUszTjZWY0IzYk5KRTlBRnV1SXNSanZpT0pRY1NwUC0yNk51ODdURHBhdHBWOFFvRHFscDU4SnNueU1DNVgwNV9oQzNfX1dnREllN2lRMUhLay0zLThfR1BmMFZGb01GbzhIVlVvNHJ3N1BMaXl1Um5nVUpWS1NhSHJpU2xHTFpvRUNxclktYTR4cWpoSFRYYVpSOFU2N3lKbjdwbXc5dHdMZWdMTVpRN1pxSEg0d1hlMGpvYS1rd1ppVGZOazN5LUlzQm1CMUs3em5ZbWdKbDB2THRhSjVveHNEcWN1bTNDeE9VdkFYeDJmRXUzRDFoX2plNkI5QXZGbU1PUXUzbktzV2VBNlVOZ3dINzdEWFdlcVhfUl84amE2UXFiOXYxUEliT1cwS1FrQ3lmWm9MckZTNHFTaUpnclJUWkpMTGJsSlV3MnNnQlEwc2RraW9yNEFfd2JlczNjTmZzRkx6MXlpNGFyT0t6S1phLXNqWkdPTlpwbng0R1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "b90b40f8055e",

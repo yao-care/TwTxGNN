@@ -1,7 +1,46 @@
 {
-  "generated": "2026-04-19T13:54:43.119543+00:00",
+  "generated": "2026-04-19T14:35:56.367535+00:00",
   "count": 9,
   "news": [
+    {
+      "id": "ae74a020b90b",
+      "title": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃 | 三立新聞網 - LINE TODAY",
+      "published": "2026-04-19T07:40:39+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZWjJybnZSN1VhTWxJOFBQZTE5R2FDS3h1blF6eWJRQmN6QUpERXlFWS05dFhSVGJKMkh3d3dmdTEzbVhXemJhYjRKb3FVa3JORXZyczJB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "21cb4dc5391a",
       "title": "這種流行的痛風藥物可以降低心臟病發作和中風的風險",
@@ -474,45 +513,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ae74a020b90b",
-      "title": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃 | 三立新聞網 - LINE TODAY",
-      "published": "2026-04-17T13:57:55+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZWjJybnZSN1VhTWxJOFBQZTE5R2FDS3h1blF6eWJRQmN6QUpERXlFWS05dFhSVGJKMkh3d3dmdTEzbVhXemJhYjRKb3FVa3JORXZyczJB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }

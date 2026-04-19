@@ -38,6 +38,14 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（5 則）
 
+### [16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃 | 三立新聞網 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZWjJybnZSN1VhTWxJOFBQZTE5R2FDS3h1blF6eWJRQmN6QUpERXlFWS05dFhSVGJKMkh3d3dmdTEzbVhXemJhYjRKb3FVa3JORXZyczJB?oc=5)
+
+2026-04-19 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZWjJybnZSN1VhTWxJOFBQZTE5R2FDS3h1blF6eWJRQmN6QUpERXlFWS05dFhSVGJKMkh3d3dmdTEzbVhXemJhYjRKb3FVa3JORXZyczJB?oc=5)
+
+---
+
 ### [一生堅持這樣做可以將阿茲海默症的風險降低38%。](https://news.google.com/rss/articles/CBMi3gJBVV95cUxOOWIzeHZLdVNzeHJ1a3Bwal96V1NjUFpneTZUVVl5Si1NSElFYUZWZzdMRkVvUEJDQlRvaTFUS1hFMTh5R2FJWGNScFVtNDl1endHeHl2dTVzOHRDOG81bEpqQnBGaGV4NEhSMGtwVXh2azFkUi1fUllBNkFkaGtrclFoN1cxMER3OUV2MTQ3ODNHQW16QVdaMlNMN0Z6LUswMExwbmlhcTU4UWFSdFBUOHpwSTV1T0VpSWVvUV96YVM5bEFWWk1Fb1hRLUZad25fV2FVYVNqMUNFejZpU1M2MldobmlGVm14Z2NfUkZYYzcyWUFtblBTVXVRTWpqUTkzVmNwclNZRHFpREVsZ3BudFBnSm02Vkd1V0UwZi1fbF96c0FVdzBwUEZjRTBWUjR5SDI1aXBuclNUVXFlSTh6TUhhWU9VY2dVbHVtbDE2SkNUTWtrWVlJUU5QRXZDQQ?oc=5)
 
 2026-04-18 <span class="news-indication-tag">阿茲海默症</span>
@@ -67,14 +75,6 @@ permalink: /news/gefitinib/
 2026-04-17 <span class="news-indication-tag">癌症</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxQZFl1M0hLMjRFWnlvN29RNUllTFEzcHJoQzlzVzVPRGxRWXh4QklRY25ZYlFGN2pBWnFqdUg4NFpJS29UQXZpNG8xZ1JPTTFLOGRaUVExQm1VR2ViS0Q1SmFxSGJEcDVPalNUamFVcDJoLVhvWkkwOTdjalJFVzZFLUxFSUUtaHRjYlJLREx3MmJaSjl2SUttcW1RMDl3akpoS3JnRVhTbGpINV9uOWhHYlZGT3NDVnl3VzE4dUpDRVlWN3g3S250bjRmdWk5U29TbFY3SWxuXzU4dHJkRnVLbEJpUjRzV1N4N250UjJLT3drRHFWUVVkcVpyMm1ZaHR0YWtVWEZ3V3hZMnlJbTZsUzZ3Uk9UR2h0NDk5TFZJUzliejdSUEtBUkdnX09jYWw1bVNtWEtJQ1hTeVA4WWRsbGRkMU1vN1pmNm81WEdGaDJmdUNpQTNfUTJMalJTYjljV1VJU29R?oc=5)
-
----
-
-### [16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃 | 三立新聞網 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZWjJybnZSN1VhTWxJOFBQZTE5R2FDS3h1blF6eWJRQmN6QUpERXlFWS05dFhSVGJKMkh3d3dmdTEzbVhXemJhYjRKb3FVa3JORXZyczJB?oc=5)
-
-2026-04-17 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZWjJybnZSN1VhTWxJOFBQZTE5R2FDS3h1blF6eWJRQmN6QUpERXlFWS05dFhSVGJKMkh3d3dmdTEzbVhXemJhYjRKb3FVa3JORXZyczJB?oc=5)
 
 ---
 
