@@ -1,8 +1,33 @@
 {
-  "last_updated": "2026-04-19T22:26:15.157781+00:00",
-  "total_count": 25,
-  "matched_count": 9,
+  "last_updated": "2026-04-19T23:28:00.221404+00:00",
+  "total_count": 26,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "7363b8e3cef3",
+      "title": "不只肚子脹！專家揭便秘產「2毒素」增洗腎、心血管風險：全台9成人中招",
+      "published": "2026-04-19T23:04:20+00:00",
+      "summary": "不只肚子脹！專家揭便秘產「2毒素」增洗腎、心血管風險：全台9成人中招&nbsp;&nbsp;祝你健康大便卡關好痛苦？哈佛醫授3關鍵告別便秘「1姿勢更順暢」&nbsp;&nbsp;PChome Online 新聞別小看大便頻率！研究揭影響腸道菌群分布 最健康是天天拉屎&nbsp;&nbsp;科技島蹲馬桶蹲好久？盤點4款「解便秘特調」 這時間喝肚子小一圈&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuNGFUcHBrT1F6UXl3UllqRDRNWDJSOE1OeEdBcXJBckkwanY2cEdaaFRkZHBzVUg0bFk5aUUyM1NMZVMtRmF5MC01aFdrcDFwRG1LcVBFbjAzemowWVdlZXRQU0cyQ3Z6XzRmNnRB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "03a7bc2609e3",
       "title": "影像檢查：平衡「獲益」與「代價」 - 明報 Our Lifestyle",

@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [不只肚子脹！專家揭便秘產「2毒素」增洗腎、心血管風險：全台9成人中招](https://news.google.com/rss/articles/CBMibkFVX3lxTFBuNGFUcHBrT1F6UXl3UllqRDRNWDJSOE1OeEdBcXJBckkwanY2cEdaaFRkZHBzVUg0bFk5aUUyM1NMZVMtRmF5MC01aFdrcDFwRG1LcVBFbjAzemowWVdlZXRQU0cyQ3Z6XzRmNnRB?oc=5)
+
+2026-04-19 <span class="news-indication-tag">心血管</span>
+
+來源：[祝你健康](https://news.google.com/rss/articles/CBMibkFVX3lxTFBuNGFUcHBrT1F6UXl3UllqRDRNWDJSOE1OeEdBcXJBckkwanY2cEdaaFRkZHBzVUg0bFk5aUUyM1NMZVMtRmF5MC01aFdrcDFwRG1LcVBFbjAzemowWVdlZXRQU0cyQ3Z6XzRmNnRB?oc=5)
+
+---
 
 ### [男性必看！醫曝「黃金射精次數」還能防攝護腺癌](https://news.google.com/rss/articles/CBMifkFVX3lxTE45clU0M2x0cjFGdWtfNXlQRW43aDdNa2c5NGhWNFJSVE44RGpkTXEwTnRKaDhFa0wtUllMTWc2eUZkMHhja05yTXdRZFp4dkVWT3ZwMjViNXpkTWM1UzFwdXN1cDRNYktIWlJzM0lucFNsbDYyMTcyZHE0OE83Zw?oc=5)
 
