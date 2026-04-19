@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-19T10:31:43.494517+00:00",
-  "count": 22,
+  "fetched_at": "2026-04-19T11:28:31.870181+00:00",
+  "count": 21,
   "news": [
     {
       "id": "901a538fefba",
@@ -64,6 +64,18 @@
       ]
     },
     {
+      "id": "9ccbc8e66ca7",
+      "title": "愛滋治癒再添1例 挪威男子因兄弟基因突變受益 - 自由健康網",
+      "published": "2026-04-19T02:27:00+00:00",
+      "summary": "愛滋治癒再添1例 挪威男子因兄弟基因突變受益&nbsp;&nbsp;自由健康網挪威愛滋病治癒新例：奧斯陸患者因幹細胞移植與CCR5基因突變康復&nbsp;&nbsp;Singtaousa一名挪威男子透過兄弟的幹細胞治癒了愛滋病毒&nbsp;&nbsp;arch-web.com.tw挪威男子首用兄長幹細胞移植 擺脫 HIV 20 年感染&nbsp;&nbsp;Techritual Hong Kong",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wYWYtVWFzX1F3VnU3dVRyT1pTV3U1VkxhdXdvRHFvY2tHdnNCWkxlUnFHUE5PVkp0Sjg0alJyREhVYkpVaFowZGxSbWNEU3FQVzkwa2dIc0FsZmVFT3dzUXRseUnSAWpBVV95cUxOZkMxWUZNY2lIVHd3dEtpWHhMNGx4OXNuU3dyR3oySjgxOEJITklBbTM2YW1GdHE2eTVGTXVuUXpyNmlGQXIyNnh6NG9uSWo3cmxxakNYZGlXc0wxTXJvYkRVcHYwVXNBbldn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b5018ff23f68",
       "title": "多吃水果和蔬菜與意外的肺癌風險有關。 - arch-web.com.tw",
       "published": "2026-04-18T18:15:09+00:00",
@@ -84,18 +96,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOaElSUE43cHB0SF9xUi1sY0xMMXBNMm1OR0tZcE1UNXNMUUM1SEhITWFFQkd2RU5fczhxN1g2cTZ6TUlSYzYzcTc5b2gwVnN0UmN1bG44XzZIME9OZnFib1pzSnFaMDhxaUtLODZDM21La3BwNllPVnZ6SFRnWEI3QlBrbXQyXzJKQS1sRWFUR19HempaR1ExTDVFSW9SdUoyTFV6QnkzZXlFNG5GN1A4N2lycXdaSnZrdGVJWjVLNWZMT0dIWmVMWXlwWFpjMG1lN0VFUTA3TS1TMGRvdDdJbnk1cW5KZVRkWWdvNHhHVHBLUG1uS2ZHVXdydW9nVVZxMW00ZUVyX21VcTBhdVQ3ZWhDS0daSExBQk95NGVoY2tDczUzMV9IOHVSeWR3Q3Z5UllRNFJabXVQNnJCdE5EcnhUOEg3cjNPTjQtOWpXOEdmWmRvbWdxVFNVUWR5Q2x0aVJFeElB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9ccbc8e66ca7",
-      "title": "愛滋治癒再添1例 挪威男子因兄弟基因突變受益 - 自由健康網",
-      "published": "2026-04-19T02:27:00+00:00",
-      "summary": "愛滋治癒再添1例 挪威男子因兄弟基因突變受益&nbsp;&nbsp;自由健康網挪威愛滋病治癒新例：奧斯陸患者因幹細胞移植與CCR5基因突變康復&nbsp;&nbsp;Singtaousa一名挪威男子透過兄弟的幹細胞治癒了愛滋病毒&nbsp;&nbsp;arch-web.com.tw挪威男子首用兄長幹細胞移植 擺脫 HIV 20 年感染&nbsp;&nbsp;Techritual Hong Kong",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wYWYtVWFzX1F3VnU3dVRyT1pTV3U1VkxhdXdvRHFvY2tHdnNCWkxlUnFHUE5PVkp0Sjg0alJyREhVYkpVaFowZGxSbWNEU3FQVzkwa2dIc0FsZmVFT3dzUXRseUnSAWpBVV95cUxOZkMxWUZNY2lIVHd3dEtpWHhMNGx4OXNuU3dyR3oySjgxOEJITklBbTM2YW1GdHE2eTVGTXVuUXpyNmlGQXIyNnh6NG9uSWo3cmxxakNYZGlXc0wxTXJvYkRVcHYwVXNBbldn?oc=5"
         }
       ]
     },
@@ -148,26 +148,14 @@
       ]
     },
     {
-      "id": "26c5bfbc5b1c",
-      "title": "「1投資」才是幸福長壽關鍵？死亡率降低39%、比運動更能強身健體！ - Harper's BAZAAR",
-      "published": "2026-04-17T10:43:41+00:00",
-      "summary": "「1投資」才是幸福長壽關鍵？死亡率降低39%、比運動更能強身健體！&nbsp;&nbsp;Harper's BAZAAR",
+      "id": "4aa893d8973e",
+      "title": "不到一分鐘揪出早期徵兆，AI 語音分析技術有望提前數年偵測阿茲海默症 | 科技新報 - LINE TODAY",
+      "published": "2026-04-18T14:36:51+00:00",
+      "summary": "不到一分鐘揪出早期徵兆，AI 語音分析技術有望提前數年偵測阿茲海默症 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "Harper's BAZAAR",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNSDhQSUtfQ0dGVFBPbFphbnYxdHNQakVmd0kyWDBKcGdZOVotN0NuOVlVWS15MW5TeEk1dERJdFR5TUEyaHU1cWhhNkY4VVpVSFVSSjRYNHVFTmd5UGN1d3EwRGFRUXMza3ZXdXRqR21JaFlSSG9maU4tVkVYM2ZVZ1pJazY5S2tVQ1EzVlFidW1zR21xallTcFUwVkg2aldYQ1UwSE1TbUhIMFB3QkJ0ZnJtYzRJOHF6aWNlZ0dqRDFRdE9JNnVkWjlRdUhQUE00ZnhscmVNZkZ6TTlSQ2pzOEtmRjVoSWtmbGhxTVR2X2tWMVRnWjV1WGlrZFFQTXFnekpYWg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c45b640c5e29",
-      "title": "不到一分鐘揪出早期徵兆，AI 語音分析技術有望提前數年偵測阿茲海默症 - TechNews 科技新報",
-      "published": "2026-04-18T02:32:47+00:00",
-      "summary": "不到一分鐘揪出早期徵兆，AI 語音分析技術有望提前數年偵測阿茲海默症&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQalhWdnVPZllSRlZULW45MXhHdTdDSEduNFM1cC1vWUNVX3ZYVEpvb2hHNkhIaE43Q3gtSFM2RTN1Tlo3Sy15XzlBT3lmREdmZ09MUmk4RVRGajRxbmFBVkkzblR0OE1UUjNXbXhkRWx4c2RySkxUa2hhOC1fT2ljeGR6YVR3RENPaUxNMWJWVTdacFF2S0E?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83R1ZFVUZLdVo0TDR4ZUxINGRPOEpnSHBMZ3d1RmlSY2hFV2lxWk1ScmUzRE5aMDNWZWxoc0xzb0NTUlYxYVUydnVDbnhSN3RHdk9xVTZB?oc=5"
         }
       ]
     },
