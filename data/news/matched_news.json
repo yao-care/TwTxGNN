@@ -1,10 +1,153 @@
 {
-  "last_updated": "2026-04-18T23:26:43.475490+00:00",
-  "total_count": 23,
-  "matched_count": 8,
+  "last_updated": "2026-04-19T01:51:44.857699+00:00",
+  "total_count": 25,
+  "matched_count": 10,
   "news": [
     {
-      "id": "d2c12ee31128",
+      "id": "21cb4dc5391a",
+      "title": "這種流行的痛風藥物可以降低心臟病發作和中風的風險",
+      "published": "2026-04-19T01:05:10+00:00",
+      "summary": "這種流行的痛風藥物可以降低心臟病發作和中風的風險&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOaElSUE43cHB0SF9xUi1sY0xMMXBNMm1OR0tZcE1UNXNMUUM1SEhITWFFQkd2RU5fczhxN1g2cTZ6TUlSYzYzcTc5b2gwVnN0UmN1bG44XzZIME9OZnFib1pzSnFaMDhxaUtLODZDM21La3BwNllPVnZ6SFRnWEI3QlBrbXQyXzJKQS1sRWFUR19HempaR1ExTDVFSW9SdUoyTFV6QnkzZXlFNG5GN1A4N2lycXdaSnZrdGVJWjVLNWZMT0dIWmVMWXlwWFpjMG1lN0VFUTA3TS1TMGRvdDdJbnk1cW5KZVRkWWdvNHhHVHBLUG1uS2ZHVXdydW9nVVZxMW00ZUVyX21VcTBhdVQ3ZWhDS0daSExBQk95NGVoY2tDczUzMV9IOHVSeWR3Q3Z5UllRNFJabXVQNnJCdE5EcnhUOEg3cjNPTjQtOWpXOEdmWmRvbWdxVFNVUWR5Q2x0aVJFeElB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心臟病發",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "gout",
+          "keyword": "痛風",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "sulfamerazine",
+              "name": "Sulfamerazine"
+            },
+            {
+              "slug": "sulfamethazine",
+              "name": "Sulfamethazine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1708ac45ab40",
+      "title": "一生堅持這樣做可以將阿茲海默症的風險降低38%。",
+      "published": "2026-04-18T23:18:11+00:00",
+      "summary": "一生堅持這樣做可以將阿茲海默症的風險降低38%。&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOOWIzeHZLdVNzeHJ1a3Bwal96V1NjUFpneTZUVVl5Si1NSElFYUZWZzdMRkVvUEJDQlRvaTFUS1hFMTh5R2FJWGNScFVtNDl1endHeHl2dTVzOHRDOG81bEpqQnBGaGV4NEhSMGtwVXh2azFkUi1fUllBNkFkaGtrclFoN1cxMER3OUV2MTQ3ODNHQW16QVdaMlNMN0Z6LUswMExwbmlhcTU4UWFSdFBUOHpwSTV1T0VpSWVvUV96YVM5bEFWWk1Fb1hRLUZad25fV2FVYVNqMUNFejZpU1M2MldobmlGVm14Z2NfUkZYYzcyWUFtblBTVXVRTWpqUTkzVmNwclNZRHFpREVsZ3BudFBnSm02Vkd1V0UwZi1fbF96c0FVdzBwUEZjRTBWUjR5SDI1aXBuclNUVXFlSTh6TUhhWU9VY2dVbHVtbDE2SkNUTWtrWVlJUU5QRXZDQQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37128b42da1a",
       "title": "2026健康飲食新時代：從吃得飽走向「吃得精準」",
       "published": "2026-04-18T23:18:09+00:00",
       "summary": "2026健康飲食新時代：從吃得飽走向「吃得精準」&nbsp;&nbsp;美南新聞",
@@ -17,14 +160,14 @@
       "matched_keywords": []
     },
     {
-      "id": "03f9b5148b1f",
-      "title": "多吃水果和蔬菜與意外的肺癌風險有關",
-      "published": "2026-04-18T20:39:15+00:00",
-      "summary": "多吃水果和蔬菜與意外的肺癌風險有關&nbsp;&nbsp;citytimes.tw",
+      "id": "b5018ff23f68",
+      "title": "多吃水果和蔬菜與意外的肺癌風險有關。",
+      "published": "2026-04-18T18:15:09+00:00",
+      "summary": "多吃水果和蔬菜與意外的肺癌風險有關。&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOMjgwQWtEYmx6UzYyOWpublduYUJLcGkwUjViRUNkWjZhRmNESnprNVJXUkp0X29Tbnk4MHVVbU9PT0NkZkRiaHFfRDVYM1hobExDd29wWDcyZmViaGhKWXdYbnZRQUtEZXFDdDM0SEpvdm1wejF4T1JEdHJTNVRVclN0YjR3Z09hc2tfSGFLZnVkOFExZEpkeE5sWTBmclJYWndneVUteWRtUzF1di1nT0dvRWZyamtTLXZEckNQS3NmUjRKalR0RG0wQzI2ZTZ6QWVQNmFqc09GYUVvMV90OXgyZFE2VTV2SXU4ejhNVlBnbWY1SE8wUkRFd1dPcWZSX1k4UV9UcVJCYXJ2TlNvOXpRVFV3S3VxY0RrSS1xY0VHVS1iRnBPM3pR?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPNnhJT0F1TnpDWDJCSWRaOUVQVjh2QzZ6TVVDZ2J3MDIwQzBQbUpnQVd5N2U5a1pMUTJkWW1ROFZRdnlvcVp4NlEyZjNpRUtidkxPWGlXQVNmNl9tRmZXbEJhSjNOdXlMSXlkYWh3LVVtLTJfZ0pjblhvc2NjX3ZMV3piX2VZVVJkZkFKTGswMmxsSkd5c0RPZHdEVTI0OTY3UWE3YnQzRjdBQ3JnTE9lRkNkb25oNm5FRkhvbkFwdUNTVk1UMWx2RXZyNk1Gdl9GWl9kajNsVm96V1pqdGc3MElKTHQ1Qm5hX1hZMEZHZDMwLUs1SjBOVW1Rdi1sSDEwZVZVX3ZTbXhCR2RBdTJHcGlzaTJVVjFNZnV2Vzg5QUdXZEtzTWZZTmY1clMwd2JYbDVZdHVpaW8tYW1Fc01iRG9CV3dyR2RjODV4SlRqd3RVeXllbHc?oc=5"
         }
       ],
       "matched_keywords": [
@@ -50,7 +193,7 @@
       ]
     },
     {
-      "id": "d46d2b96065c",
+      "id": "e44c761c1e28",
       "title": "咖啡因對螞蟻的作用可能會改變害蟲控制",
       "published": "2026-04-18T16:31:03+00:00",
       "summary": "咖啡因對螞蟻的作用可能會改變害蟲控制&nbsp;&nbsp;arch-web.com.tw",
@@ -63,7 +206,7 @@
       "matched_keywords": []
     },
     {
-      "id": "0293f7915c6b",
+      "id": "576b49fd7518",
       "title": "41歲男生痱滋兩個月不痛不癢 求醫驚揭患舌癌險割脷 出現5大症狀要小心",
       "published": "2026-04-18T14:24:06+00:00",
       "summary": "41歲男生痱滋兩個月不痛不癢 求醫驚揭患舌癌險割脷 出現5大症狀要小心&nbsp;&nbsp;singtao.ca",
@@ -76,7 +219,7 @@
       "matched_keywords": []
     },
     {
-      "id": "5cbf4604008d",
+      "id": "e1a872798082",
       "title": "這種廉價藥物可以幫助第 1 型糖尿病患者減少胰島素用量",
       "published": "2026-04-18T13:14:55+00:00",
       "summary": "這種廉價藥物可以幫助第 1 型糖尿病患者減少胰島素用量&nbsp;&nbsp;citytimes.tw",
@@ -89,7 +232,7 @@
       "matched_keywords": []
     },
     {
-      "id": "5f655f08434b",
+      "id": "2bb88ae71d7f",
       "title": "腦芯片技術揭示帕金森病蛋白對大腦血管屏障的影響 - GeneOnline News",
       "published": "2026-04-18T12:05:36+00:00",
       "summary": "腦芯片技術揭示帕金森病蛋白對大腦血管屏障的影響&nbsp;&nbsp;GeneOnline News",
@@ -114,7 +257,7 @@
       ]
     },
     {
-      "id": "c8b6ff30e0b4",
+      "id": "5be7abe76675",
       "title": "三分之一的城市印度人有脂肪肝的風險； ETHealthworld 健康專家警告人們焦慮日益加劇",
       "published": "2026-04-18T11:21:02+00:00",
       "summary": "三分之一的城市印度人有脂肪肝的風險； ETHealthworld 健康專家警告人們焦慮日益加劇&nbsp;&nbsp;citytimes.tw",
@@ -127,7 +270,20 @@
       "matched_keywords": []
     },
     {
-      "id": "7f9824c6bf37",
+      "id": "5a01eda365c5",
+      "title": "小心魚油！營養師曝3大「保健食品錯誤吃法」 嚴重恐血流不止",
+      "published": "2026-04-18T11:04:28+00:00",
+      "summary": "小心魚油！營養師曝3大「保健食品錯誤吃法」 嚴重恐血流不止&nbsp;&nbsp;祝你健康",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9nV3NZZ0dHUWRQTkVCTUF6Y20wSXVZSW1aTmpHRHJ2OGNZa25EdWZQR2NLa3pBbHdaWmt6NVhLbDBha0tsY1NkbVRkc2s?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d1104dd4a4ce",
       "title": "奧拉布里蓋拉 (Aura Brigella) 衝進急診室，承認自己飲食不當",
       "published": "2026-04-18T10:25:40+00:00",
       "summary": "奧拉布里蓋拉 (Aura Brigella) 衝進急診室，承認自己飲食不當&nbsp;&nbsp;citytimes.tw",
@@ -140,20 +296,7 @@
       "matched_keywords": []
     },
     {
-      "id": "8eeaefc31485",
-      "title": "60後別再減肥！醫揭微胖更長壽：BMI低於「這數值」死亡風險飆2倍，恐害肌少、骨鬆找上門",
-      "published": "2026-04-18T09:56:52+00:00",
-      "summary": "60後別再減肥！醫揭微胖更長壽：BMI低於「這數值」死亡風險飆2倍，恐害肌少、骨鬆找上門&nbsp;&nbsp;Yahoo新聞60後別再減肥！醫揭微胖更長壽：BMI低於「這數值」死亡風險飆2倍，恐害肌少、骨鬆找上門| 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY長者管好體重 防營養過剩致肥保持均衡生活勿藥石亂投&nbsp;&nbsp;信報網站",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNMXI4Q3hJVGJPN2hUZVNLY3RoMFlyOHNoYUlvckZUcTUzcFZuY19sbmxzRDZBcnZ5U2pWV1RkUXdwbGNTNnNldEVXVnBIRHppNFFLMFlFZERWT1JoZFZtMTJDY0RxZy1hOVdQWF9fSGVWc2pEUVZYNklmekZJR21mam0zblF2TXNEVDhKRFYtc1VyM3pSaUZjd1dmXzlUOUpJdVlyUXU0aVkzRFVHNjVndnhtUU5MSDlOYndWTkZUR1Y1eE82SktIT0NESWR3TXVmYnduXzUyb0wyWnE1YUVWeGI1a2VVcFhGTng3WXBjN0FTNlhCTDQyVnVibUJLRWtHeVZtd05oZUY1ZGluel8zZXhvSWVQcWRReTVzVTVWQk1oMUdWSWQwRlhoVURuMHBLZDFqVk53dW5XMkJIQThlTkxPeUxqM2ZXdklpb3dPa3RLVFRLZFdJTmFVbkFPVmFVNTIyTmRFMTE0ZTAzTDBiRDNlaHY?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "09c1de82658f",
+      "id": "bf61b7acd57c",
       "title": "科學家去除「殭屍」細胞並逆轉小鼠肝臟損傷",
       "published": "2026-04-18T08:14:50+00:00",
       "summary": "科學家去除「殭屍」細胞並逆轉小鼠肝臟損傷&nbsp;&nbsp;citytimes.tw",
@@ -166,7 +309,7 @@
       "matched_keywords": []
     },
     {
-      "id": "eac47332275d",
+      "id": "6c6cf9c0578e",
       "title": "331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油",
       "published": "2026-04-18T03:14:07+00:00",
       "summary": "331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油&nbsp;&nbsp;Yahoo新聞巴基斯坦醫療疏失！針筒重用10次「331童確診HIV」&nbsp;&nbsp;東森新聞巴國醫院共用針頭害331童染愛滋病！8歲童死前掙扎：像被丟進滾燙熱油&nbsp;&nbsp;造咖巴基斯坦醫院爆兒童愛滋病，臥底影片揭發重複用針筒釀331童感染&nbsp;&nbsp;Singtaousa【331童染HIV！醫院爆疏失 BBC臥底直擊：針筒重複使用】 #國際 （示意圖／達志影像） 這醫院可以關掉了吧。(#起啵)&nbsp;&nbsp;Facebook",
@@ -179,7 +322,7 @@
       "matched_keywords": []
     },
     {
-      "id": "03ad0e003641",
+      "id": "c45b640c5e29",
       "title": "不到一分鐘揪出早期徵兆，AI 語音分析技術有望提前數年偵測阿茲海默症 - TechNews 科技新報",
       "published": "2026-04-18T02:32:47+00:00",
       "summary": "不到一分鐘揪出早期徵兆，AI 語音分析技術有望提前數年偵測阿茲海默症&nbsp;&nbsp;TechNews 科技新報",
@@ -204,7 +347,7 @@
       ]
     },
     {
-      "id": "0b9792199976",
+      "id": "397517ccd2c9",
       "title": "國際野生動物貿易導致疾病從一種物種傳播到另一個物種。",
       "published": "2026-04-17T21:07:56+00:00",
       "summary": "國際野生動物貿易導致疾病從一種物種傳播到另一個物種。&nbsp;&nbsp;citytimes.tw野生動物貿易 增加動物對人傳染病原體風險 50%：研究&nbsp;&nbsp;Techritual Hong Kong",
@@ -217,7 +360,7 @@
       "matched_keywords": []
     },
     {
-      "id": "229fd8b3bcc8",
+      "id": "5f5413c8b015",
       "title": "壓力會導致癌症嗎？專家稱答案比你想像的更複雜",
       "published": "2026-04-17T20:50:53+00:00",
       "summary": "壓力會導致癌症嗎？專家稱答案比你想像的更複雜&nbsp;&nbsp;citytimes.tw",
@@ -426,78 +569,14 @@
       ]
     },
     {
-      "id": "f305534f3533",
-      "title": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性。",
-      "published": "2026-04-17T13:45:17+00:00",
-      "summary": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性。&nbsp;&nbsp;arch-web.com.tw科學家發現細菌可以「爆炸」傳播抗生素抗藥性&nbsp;&nbsp;citytimes.tw",
+      "id": "ae74a020b90b",
+      "title": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃 | 三立新聞網 - LINE TODAY",
+      "published": "2026-04-17T13:57:55+00:00",
+      "summary": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃 | 三立新聞網&nbsp;&nbsp;LINE TODAY防失智，請多曬太陽？16年追蹤研究：30至40歲是黃金預防期&nbsp;&nbsp;遠見雜誌16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃&nbsp;&nbsp;祝你健康陽光充足仍恐維生素D不足 醫揭吸收誤區與實用補充建議&nbsp;&nbsp;獨家報導陽光維他命D，能幫助中風病患復原得較好嗎？&nbsp;&nbsp;careonline.com.tw",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQeV9RRUtrZUszTjZWY0IzYk5KRTlBRnV1SXNSanZpT0pRY1NwUC0yNk51ODdURHBhdHBWOFFvRHFscDU4SnNueU1DNVgwNV9oQzNfX1dnREllN2lRMUhLay0zLThfR1BmMFZGb01GbzhIVlVvNHJ3N1BMaXl1Um5nVUpWS1NhSHJpU2xHTFpvRUNxclktYTR4cWpoSFRYYVpSOFU2N3lKbjdwbXc5dHdMZWdMTVpRN1pxSEg0d1hlMGpvYS1rd1ppVGZOazN5LUlzQm1CMUs3em5ZbWdKbDB2THRhSjVveHNEcWN1bTNDeE9VdkFYeDJmRXUzRDFoX2plNkI5QXZGbU1PUXUzbktzV2VBNlVOZ3dINzdEWFdlcVhfUl84amE2UXFiOXYxUEliT1cwS1FrQ3lmWm9MckZTNHFTaUpnclJUWkpMTGJsSlV3MnNnQlEwc2RraW9yNEFfd2JlczNjTmZzRkx6MXlpNGFyT0t6S1phLXNqWkdPTlpwbng0R1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "89f9549bfb10",
-      "title": "「1投資」才是幸福長壽關鍵？死亡率降低39%、比運動更能強身健體！ - Harper's BAZAAR",
-      "published": "2026-04-17T10:43:41+00:00",
-      "summary": "「1投資」才是幸福長壽關鍵？死亡率降低39%、比運動更能強身健體！&nbsp;&nbsp;Harper's BAZAAR",
-      "sources": [
-        {
-          "name": "Harper's BAZAAR",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNSDhQSUtfQ0dGVFBPbFphbnYxdHNQakVmd0kyWDBKcGdZOVotN0NuOVlVWS15MW5TeEk1dERJdFR5TUEyaHU1cWhhNkY4VVpVSFVSSjRYNHVFTmd5UGN1d3EwRGFRUXMza3ZXdXRqR21JaFlSSG9maU4tVkVYM2ZVZ1pJazY5S2tVQ1EzVlFidW1zR21xallTcFUwVkg2aldYQ1UwSE1TbUhIMFB3QkJ0ZnJtYzRJOHF6aWNlZ0dqRDFRdE9JNnVkWjlRdUhQUE00ZnhscmVNZkZ6TTlSQ2pzOEtmRjVoSWtmbGhxTVR2X2tWMVRnWjV1WGlrZFFQTXFnekpYWg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "398c679068d2",
-      "title": "內臟脂肪過高「讓人變笨」？ 研究示警：泡芙人族群最危險，大腦恐受到10種損害| 有肌勵",
-      "published": "2026-04-17T08:02:14+00:00",
-      "summary": "內臟脂肪過高「讓人變笨」？ 研究示警：泡芙人族群最危險，大腦恐受到10種損害| 有肌勵&nbsp;&nbsp;聯合新聞網肚子大真的會變笨！專家警告：內臟脂肪超標 狂增4成失智退化風險&nbsp;&nbsp;TVBS 健康2.0科學家發現有助於減少肥胖的天然激素&nbsp;&nbsp;arch-web.com.tw內臟脂肪過高「讓人變笨」？ 研究示警：泡芙人族群最危險，大腦恐受到7種損害&nbsp;&nbsp;四季線上4gTV科學家發現了一種逆轉肥胖的天然激素&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzUGlza0ZaN2dDelpRNUFpMDQ5ajdVSTE5MkIwZ3UtVm13VXlERG85QzZySFIySDFLOXM2ZTJKTmhoYWJ0ai14Zy1SaHlnWl85MHROaVRtU1hDVnI5?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "eac44af4c4c0",
-      "title": "蘇打水可以促進新陳代謝並幫助減肥嗎？",
-      "published": "2026-04-17T07:35:44+00:00",
-      "summary": "蘇打水可以促進新陳代謝並幫助減肥嗎？&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjBFWDc4eExwV2VsOFF5WHJUaElhS3pnMUFhck5BQ2dJdlZnR2h3ckRsTERISkdPb3AxVHNoYjQ5bVNoVzdDZHc0TmlUS0NUYkQwdUZycTNWMkZ2RGhYYW9pUTd0WlRUcl9xVnB6d1Y4NGRBZjAwUUE4QW9QT29uZzFySFNqNDBMWWs2YUViT1d5TFluMmV3QWsybUtzTk1DUFdxTl9yemxDYVpGVy1WeHg4d0JXemZhR2N3V0ZybGVBeEZ4RkdEcU1GMExiWjlEeEtONS1MeEdfRldfWTVoNlhtZ3JPY3JEZ3cyWEowYlhZZkt6S2pjQnlMeVFQYkFzWnV3a296Q2x5WU1Udm9GVHl1Y0Q3RzdfbDNwcmFkRm5HbFR6UDVoeF9LMzdTTUNCendCWnNnVWM3U09OY2Yzb05qdjI2d3NDMVVibUR1WnpZUHc5NEE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e6ef6f4f25ea",
-      "title": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃",
-      "published": "2026-04-17T04:52:25+00:00",
-      "summary": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃&nbsp;&nbsp;祝你健康防失智，請多曬太陽？16年追蹤研究：30至40歲是黃金預防期&nbsp;&nbsp;遠見雜誌陽光充足仍恐維生素D不足 醫揭吸收誤區與實用補充建議&nbsp;&nbsp;獨家報導陽光維他命D，能幫助中風病患復原得較好嗎？&nbsp;&nbsp;careonline.com.tw預防流感、病毒感染，曬太陽就有效&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MV2JRQkRWd3RtdmlKaDFsdDNBM1pLN2ZQWm1VUG9OcHFWclc5YmFQYTM5U2lRcEVjZ1V4MXhsWktrSDdDcDBqOGVLR0E?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZWjJybnZSN1VhTWxJOFBQZTE5R2FDS3h1blF6eWJRQmN6QUpERXlFWS05dFhSVGJKMkh3d3dmdTEzbVhXemJhYjRKb3FVa3JORXZyczJB?oc=5"
         }
       ],
       "matched_keywords": [
@@ -530,14 +609,40 @@
       ]
     },
     {
-      "id": "766bf82e4b9c",
-      "title": "101歲修女有失智病變，仍記憶力驚人！研究揭「1習慣」減緩大腦退化",
-      "published": "2026-04-17T04:00:00+00:00",
-      "summary": "101歲修女有失智病變，仍記憶力驚人！研究揭「1習慣」減緩大腦退化&nbsp;&nbsp;優活健康網",
+      "id": "06d661de333a",
+      "title": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性。",
+      "published": "2026-04-17T13:45:17+00:00",
+      "summary": "科學家發現細菌可以「爆炸」傳播抗生素抗藥性。&nbsp;&nbsp;arch-web.com.tw科學家發現細菌可以「爆炸」傳播抗生素抗藥性&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "優活健康網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90UU1EN3gwQWNRdzV4OFh5WmhmaEpZTEpraW00a0toVHZnZVdFMF9kaTFweU5NTGxSVjhGWHdSTlp0Q25MajlFanZKTkdOMF9ZVnlZ?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQeV9RRUtrZUszTjZWY0IzYk5KRTlBRnV1SXNSanZpT0pRY1NwUC0yNk51ODdURHBhdHBWOFFvRHFscDU4SnNueU1DNVgwNV9oQzNfX1dnREllN2lRMUhLay0zLThfR1BmMFZGb01GbzhIVlVvNHJ3N1BMaXl1Um5nVUpWS1NhSHJpU2xHTFpvRUNxclktYTR4cWpoSFRYYVpSOFU2N3lKbjdwbXc5dHdMZWdMTVpRN1pxSEg0d1hlMGpvYS1rd1ppVGZOazN5LUlzQm1CMUs3em5ZbWdKbDB2THRhSjVveHNEcWN1bTNDeE9VdkFYeDJmRXUzRDFoX2plNkI5QXZGbU1PUXUzbktzV2VBNlVOZ3dINzdEWFdlcVhfUl84amE2UXFiOXYxUEliT1cwS1FrQ3lmWm9MckZTNHFTaUpnclJUWkpMTGJsSlV3MnNnQlEwc2RraW9yNEFfd2JlczNjTmZzRkx6MXlpNGFyT0t6S1phLXNqWkdPTlpwbng0R1E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "26c5bfbc5b1c",
+      "title": "「1投資」才是幸福長壽關鍵？死亡率降低39%、比運動更能強身健體！ - Harper's BAZAAR",
+      "published": "2026-04-17T10:43:41+00:00",
+      "summary": "「1投資」才是幸福長壽關鍵？死亡率降低39%、比運動更能強身健體！&nbsp;&nbsp;Harper's BAZAAR",
+      "sources": [
+        {
+          "name": "Harper's BAZAAR",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNSDhQSUtfQ0dGVFBPbFphbnYxdHNQakVmd0kyWDBKcGdZOVotN0NuOVlVWS15MW5TeEk1dERJdFR5TUEyaHU1cWhhNkY4VVpVSFVSSjRYNHVFTmd5UGN1d3EwRGFRUXMza3ZXdXRqR21JaFlSSG9maU4tVkVYM2ZVZ1pJazY5S2tVQ1EzVlFidW1zR21xallTcFUwVkg2aldYQ1UwSE1TbUhIMFB3QkJ0ZnJtYzRJOHF6aWNlZ0dqRDFRdE9JNnVkWjlRdUhQUE00ZnhscmVNZkZ6TTlSQ2pzOEtmRjVoSWtmbGhxTVR2X2tWMVRnWjV1WGlrZFFQTXFnekpYWg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9a3b54883184",
+      "title": "內臟脂肪過高「讓人變笨」？ 研究示警：泡芙人族群最危險，大腦恐受到10種損害| 有肌勵",
+      "published": "2026-04-17T08:02:14+00:00",
+      "summary": "內臟脂肪過高「讓人變笨」？ 研究示警：泡芙人族群最危險，大腦恐受到10種損害| 有肌勵&nbsp;&nbsp;聯合新聞網肚子大真的會變笨！專家警告：內臟脂肪超標 狂增4成失智退化風險&nbsp;&nbsp;TVBS 健康2.0科學家發現有助於減少肥胖的天然激素&nbsp;&nbsp;arch-web.com.tw內臟脂肪過高「讓人變笨」？ 研究示警：泡芙人族群最危險，大腦恐受到7種損害&nbsp;&nbsp;四季線上4gTV科學家發現了一種逆轉肥胖的天然激素&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzUGlza0ZaN2dDelpRNUFpMDQ5ajdVSTE5MkIwZ3UtVm13VXlERG85QzZySFIySDFLOXM2ZTJKTmhoYWJ0ai14Zy1SaHlnWl85MHROaVRtU1hDVnI5?oc=5"
         }
       ],
       "matched_keywords": [
@@ -555,7 +660,20 @@
       ]
     },
     {
-      "id": "7f7a61e93e66",
+      "id": "4edac43c93eb",
+      "title": "蘇打水可以促進新陳代謝並幫助減肥嗎？",
+      "published": "2026-04-17T07:35:44+00:00",
+      "summary": "蘇打水可以促進新陳代謝並幫助減肥嗎？&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjBFWDc4eExwV2VsOFF5WHJUaElhS3pnMUFhck5BQ2dJdlZnR2h3ckRsTERISkdPb3AxVHNoYjQ5bVNoVzdDZHc0TmlUS0NUYkQwdUZycTNWMkZ2RGhYYW9pUTd0WlRUcl9xVnB6d1Y4NGRBZjAwUUE4QW9QT29uZzFySFNqNDBMWWs2YUViT1d5TFluMmV3QWsybUtzTk1DUFdxTl9yemxDYVpGVy1WeHg4d0JXemZhR2N3V0ZybGVBeEZ4RkdEcU1GMExiWjlEeEtONS1MeEdfRldfWTVoNlhtZ3JPY3JEZ3cyWEowYlhZZkt6S2pjQnlMeVFQYkFzWnV3a296Q2x5WU1Udm9GVHl1Y0Q3RzdfbDNwcmFkRm5HbFR6UDVoeF9LMzdTTUNCendCWnNnVWM3U09OY2Yzb05qdjI2d3NDMVVibUR1WnpZUHc5NEE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9338f1ea5826",
       "title": "比阿公阿嬤還常喊累？中醫揭年輕人為何「未老先衰」 1警訊要留意",
       "published": "2026-04-17T04:00:00+00:00",
       "summary": "比阿公阿嬤還常喊累？中醫揭年輕人為何「未老先衰」 1警訊要留意&nbsp;&nbsp;民視新聞網",
@@ -568,7 +686,44 @@
       "matched_keywords": []
     },
     {
-      "id": "6ed1293b97a2",
+      "id": "10ce3c98c9c4",
+      "title": "天氣轉熱尿道炎風險增 更年期女性為何成高危族群？",
+      "published": "2026-04-17T03:37:34+00:00",
+      "summary": "天氣轉熱尿道炎風險增 更年期女性為何成高危族群？&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdWJFeTl0aE43REU0bHFPWjlhMnBTMlJQUExzNXpRMEJ0TGl0LTZRR3hCTnVfdXBHVl83a2dIZWJUdnh0dUxTSWZzUDl2dncxWFY0NVlCOWIwZkpMdEZJa1lBVlczQ19JQjZMbDdoSFRIMHk3aXIxc2d2ZVk4SlNoQTBHWDgzN3p3Z2E5WUdhUlpwVW13X1VPM1NzLXR6NUV0VHFIWEE5Q181MldmZ2NkMHVJRTRheENWWVlIN0tUeGtvQWlLSXNkMzBrWXJkZw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "be9d93e712cb",
       "title": "華埠4月30日辦免費頭頸癌篩檢",
       "published": "2026-04-17T03:03:00+00:00",
       "summary": "華埠4月30日辦免費頭頸癌篩檢 &nbsp;&nbsp;大紀元新聞網",
@@ -597,7 +752,7 @@
       ]
     },
     {
-      "id": "b9ba655a58a1",
+      "id": "b90b40f8055e",
       "title": "嘉義慈濟與脊損中心攜手 用金縷樹轉動生命美學",
       "published": "2026-03-27T00:00:00+00:00",
       "summary": "",

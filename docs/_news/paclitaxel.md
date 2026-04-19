@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [壓力會導致癌症嗎？專家稱答案比你想像的更複雜](https://news.google.com/rss/articles/CBMi5gJBVV95cUxQZFl1M0hLMjRFWnlvN29RNUllTFEzcHJoQzlzVzVPRGxRWXh4QklRY25ZYlFGN2pBWnFqdUg4NFpJS29UQXZpNG8xZ1JPTTFLOGRaUVExQm1VR2ViS0Q1SmFxSGJEcDVPalNUamFVcDJoLVhvWkkwOTdjalJFVzZFLUxFSUUtaHRjYlJLREx3MmJaSjl2SUttcW1RMDl3akpoS3JnRVhTbGpINV9uOWhHYlZGT3NDVnl3VzE4dUpDRVlWN3g3S250bjRmdWk5U29TbFY3SWxuXzU4dHJkRnVLbEJpUjRzV1N4N250UjJLT3drRHFWUVVkcVpyMm1ZaHR0YWtVWEZ3V3hZMnlJbTZsUzZ3Uk9UR2h0NDk5TFZJUzliejdSUEtBUkdnX09jYWw1bVNtWEtJQ1hTeVA4WWRsbGRkMU1vN1pmNm81WEdGaDJmdUNpQTNfUTJMalJTYjljV1VJU29R?oc=5)
 
 2026-04-17 <span class="news-indication-tag">癌症</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxQZFl1M0hLMjRFWnlvN29RNUllTFEzcHJoQzlzVzVPRGxRWXh4QklRY25ZYlFGN2pBWnFqdUg4NFpJS29UQXZpNG8xZ1JPTTFLOGRaUVExQm1VR2ViS0Q1SmFxSGJEcDVPalNUamFVcDJoLVhvWkkwOTdjalJFVzZFLUxFSUUtaHRjYlJLREx3MmJaSjl2SUttcW1RMDl3akpoS3JnRVhTbGpINV9uOWhHYlZGT3NDVnl3VzE4dUpDRVlWN3g3S250bjRmdWk5U29TbFY3SWxuXzU4dHJkRnVLbEJpUjRzV1N4N250UjJLT3drRHFWUVVkcVpyMm1ZaHR0YWtVWEZ3V3hZMnlJbTZsUzZ3Uk9UR2h0NDk5TFZJUzliejdSUEtBUkdnX09jYWw1bVNtWEtJQ1hTeVA4WWRsbGRkMU1vN1pmNm81WEdGaDJmdUNpQTNfUTJMalJTYjljV1VJU29R?oc=5)
+
+---
+
+### [天氣轉熱尿道炎風險增 更年期女性為何成高危族群？](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdWJFeTl0aE43REU0bHFPWjlhMnBTMlJQUExzNXpRMEJ0TGl0LTZRR3hCTnVfdXBHVl83a2dIZWJUdnh0dUxTSWZzUDl2dncxWFY0NVlCOWIwZkpMdEZJa1lBVlczQ19JQjZMbDdoSFRIMHk3aXIxc2d2ZVk4SlNoQTBHWDgzN3p3Z2E5WUdhUlpwVW13X1VPM1NzLXR6NUV0VHFIWEE5Q181MldmZ2NkMHVJRTRheENWWVlIN0tUeGtvQWlLSXNkMzBrWXJkZw?oc=5)
+
+2026-04-17 <span class="news-indication-tag">更年期</span>
+
+來源：[Singtaousa](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdWJFeTl0aE43REU0bHFPWjlhMnBTMlJQUExzNXpRMEJ0TGl0LTZRR3hCTnVfdXBHVl83a2dIZWJUdnh0dUxTSWZzUDl2dncxWFY0NVlCOWIwZkpMdEZJa1lBVlczQ19JQjZMbDdoSFRIMHk3aXIxc2d2ZVk4SlNoQTBHWDgzN3p3Z2E5WUdhUlpwVW13X1VPM1NzLXR6NUV0VHFIWEE5Q181MldmZ2NkMHVJRTRheENWWVlIN0tUeGtvQWlLSXNkMzBrWXJkZw?oc=5)
 
 ---
 
