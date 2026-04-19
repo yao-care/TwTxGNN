@@ -1,43 +1,17 @@
 {
-  "last_updated": "2026-04-19T16:30:00.067213+00:00",
+  "last_updated": "2026-04-19T17:28:41.698145+00:00",
   "total_count": 22,
   "matched_count": 9,
   "news": [
     {
-      "id": "4597b0b1f934",
-      "title": "肥胖男性和女性面臨截然不同的隱藏健康風險",
-      "published": "2026-04-19T09:48:53+00:00",
-      "summary": "肥胖男性和女性面臨截然不同的隱藏健康風險&nbsp;&nbsp;citytimes.tw肥胖健康風險男女有別 土耳其研究揭示性別差異&nbsp;&nbsp;墨新聞-MORE News",
+      "id": "3e341e009667",
+      "title": "它會導致健康風險。了解「陽光維生素」缺乏對身體的影響",
+      "published": "2026-04-19T17:00:46+00:00",
+      "summary": "它會導致健康風險。了解「陽光維生素」缺乏對身體的影響&nbsp;&nbsp;arch-web.com.tw防失智，請多曬太陽？16年追蹤研究：30至40歲是黃金預防期&nbsp;&nbsp;遠見雜誌16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃&nbsp;&nbsp;祝你健康中年降「失智毒素」 鮭魚可幫大忙 衝高維生素D濃度&nbsp;&nbsp;中時新聞網陽光維他命D，能幫助中風病患復原得較好嗎？&nbsp;&nbsp;careonline.com.tw",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNNnc5S1B2cXI3UG8zY3pNR2trSEVYaGduaDRlalhjaUsxSlhhYWRONnpZWUl0ZVpDMXhKQ1VRNmJzSWd4NU9YS2ItUkdYYXlsc2RiWE5RTkptYUVBck90SWhpT2ppQmFCM3JPZXhWWE13REs2cGdMWDU2bkFUQjctLXd3ZjVYdXhJYkZYa0dHeDkxR0l4YjhaOTJNelNyQ0U4NHd4UV9abzVGemJseEgxMHY5SnJoRDdGeTdVS203dWZKT0FpWUFkUURINmtYUWdNb3JsRVl6aGphSElYX2hEQUV0d09CUzBma1ZQT2dscWt4RG5LNGc3REFYQ1E5aTlTRDRXdVFFLWQ3eXlHbVB2d3B3ck9DdG16QUoyd09WVXA2MTRWVTlNVUs5Z2hpT19TUWVJdDRITjU1SXRfdTRVaU02VVVfZ3JkUHF1Y25B?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b1de9e9e0745",
-      "title": "哥倫比亞首例猴痘病例在安蒂奧基亞發現：MinSalud 是這麼說的 – Publimetro Columbia",
-      "published": "2026-04-19T08:15:52+00:00",
-      "summary": "哥倫比亞首例猴痘病例在安蒂奧基亞發現：MinSalud 是這麼說的 – Publimetro Columbia&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOTm5KbGozb0pjMDRIdWlTU00xTmtxaGtXQjFzemNta240NlpMYjRqd04tcmd2VVpfeTg0N2VpZnZ3eS1rWWxYTVF2ZnlHbzFzdjI0MkgyckVLZWVwVFBJR2c1NG1BZTJvN21FUVB2VzB6NmdjRXJGekU2YVdiSWlsRktCRTFnUi1DZXpEUnJ1WGNXQnVJek4zNW8zQWVDYTdMd2FJS3JyTUl2SWl0VUdnX0lLU19aY2FDZlU5ZTh4YWtKZnZrcEp1blhtOTFCMGhpeDVGUFhDSGxxakFsTnNPWVozN3VwY3lsaDBocFhmcENzLTY0RTdlT1VmMWZRNXo3RWh2eTNRSW9OX1gwS3hXY0R1cGxIZ3lwcGZXUTNaVVBtdWxVbC10eXljdG9feGdnTUZjWUp5NVhSRm1SU20weFJUeDJ5ZTV1RUNGX2N2ZVd3Nk5TLTFDRVl3c2hCamlLOTI3bThn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ae74a020b90b",
-      "title": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃 | 三立新聞網 - LINE TODAY",
-      "published": "2026-04-19T07:40:39+00:00",
-      "summary": "16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃 | 三立新聞網&nbsp;&nbsp;LINE TODAY防失智，請多曬太陽？16年追蹤研究：30至40歲是黃金預防期&nbsp;&nbsp;遠見雜誌16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃&nbsp;&nbsp;祝你健康陽光充足仍恐維生素D不足 醫揭吸收誤區與實用補充建議&nbsp;&nbsp;獨家報導陽光維他命D，能幫助中風病患復原得較好嗎？&nbsp;&nbsp;careonline.com.tw",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZWjJybnZSN1VhTWxJOFBQZTE5R2FDS3h1blF6eWJRQmN6QUpERXlFWS05dFhSVGJKMkh3d3dmdTEzbVhXemJhYjRKb3FVa3JORXZyczJB?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOLVJyRURZcFRLMXNYT1hOVzhkY3JXVmlockU4ejFhN1YyLTdlYmdEbUw2TnZPdmV0NXp4SUdaRkJzZUFNRWlDdXN2d09lclFNWGJKdG9uLU5DZGdjRC1JU3dqVXBZRVA5dHRIQkktNTNGMkw4T1N3d1pMYi1MVllWV3dvWkJFVTNEUmpoQ2pNTnlsX2FuMk1mbnk3bG5IU2pGTk8zYUYycUQwRHB2Mm52VG05SjBtZHhBNkFiRkE0eHBwX3FHeEgtdXBnR1o0ZzgxNWxzU1JSQnV1OW1BUHNNMGRGc3F1cVdmYkNYWG14Z0M0VXdTeGxNWWRRQlJHeWhZZ1UxY3Vwb1htS3QybnBMbFJmaW9KejREVXhmVi11XzZsZmF6RTN3cDJxalc5b2JMQ0dyb0s4NWJYdEsyd0JjZUxvS08xNXNVTm9IZ0Vfb2E2THpEdGhYOFc0NHdpM0QyNDhGaUdzSk1ZQ3hNWm5VUHREUGs1anJwTjJSbmhrd3NTWmFOSFE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -68,6 +42,32 @@
           ]
         }
       ]
+    },
+    {
+      "id": "4597b0b1f934",
+      "title": "肥胖男性和女性面臨截然不同的隱藏健康風險",
+      "published": "2026-04-19T09:48:53+00:00",
+      "summary": "肥胖男性和女性面臨截然不同的隱藏健康風險&nbsp;&nbsp;citytimes.tw肥胖健康風險男女有別 土耳其研究揭示性別差異&nbsp;&nbsp;墨新聞-MORE News",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNNnc5S1B2cXI3UG8zY3pNR2trSEVYaGduaDRlalhjaUsxSlhhYWRONnpZWUl0ZVpDMXhKQ1VRNmJzSWd4NU9YS2ItUkdYYXlsc2RiWE5RTkptYUVBck90SWhpT2ppQmFCM3JPZXhWWE13REs2cGdMWDU2bkFUQjctLXd3ZjVYdXhJYkZYa0dHeDkxR0l4YjhaOTJNelNyQ0U4NHd4UV9abzVGemJseEgxMHY5SnJoRDdGeTdVS203dWZKT0FpWUFkUURINmtYUWdNb3JsRVl6aGphSElYX2hEQUV0d09CUzBma1ZQT2dscWt4RG5LNGc3REFYQ1E5aTlTRDRXdVFFLWQ3eXlHbVB2d3B3ck9DdG16QUoyd09WVXA2MTRWVTlNVUs5Z2hpT19TUWVJdDRITjU1SXRfdTRVaU02VVVfZ3JkUHF1Y25B?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b1de9e9e0745",
+      "title": "哥倫比亞首例猴痘病例在安蒂奧基亞發現：MinSalud 是這麼說的 – Publimetro Columbia",
+      "published": "2026-04-19T08:15:52+00:00",
+      "summary": "哥倫比亞首例猴痘病例在安蒂奧基亞發現：MinSalud 是這麼說的 – Publimetro Columbia&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOTm5KbGozb0pjMDRIdWlTU00xTmtxaGtXQjFzemNta240NlpMYjRqd04tcmd2VVpfeTg0N2VpZnZ3eS1rWWxYTVF2ZnlHbzFzdjI0MkgyckVLZWVwVFBJR2c1NG1BZTJvN21FUVB2VzB6NmdjRXJGekU2YVdiSWlsRktCRTFnUi1DZXpEUnJ1WGNXQnVJek4zNW8zQWVDYTdMd2FJS3JyTUl2SWl0VUdnX0lLU19aY2FDZlU5ZTh4YWtKZnZrcEp1blhtOTFCMGhpeDVGUFhDSGxxakFsTnNPWVozN3VwY3lsaDBocFhmcENzLTY0RTdlT1VmMWZRNXo3RWh2eTNRSW9OX1gwS3hXY0R1cGxIZ3lwcGZXUTNaVVBtdWxVbC10eXljdG9feGdnTUZjWUp5NVhSRm1SU20weFJUeDJ5ZTV1RUNGX2N2ZVd3Nk5TLTFDRVl3c2hCamlLOTI3bThn?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "6184410c3f11",
@@ -230,7 +230,7 @@
       "id": "901a538fefba",
       "title": "3保健品搭藥一起吃大踩雷專家：恐出血、傷肝- 健康",
       "published": "2026-04-18T23:57:30+00:00",
-      "summary": "3保健品搭藥一起吃大踩雷專家：恐出血、傷肝- 健康&nbsp;&nbsp;中時新聞網很多人天天吃！營養師揭「3大保健品地雷組合」：恐傷肝又出血&nbsp;&nbsp;Yahoo新聞營養師示警「保健品3大NG搭配」 恐增出血、傷肝風險還影響藥效&nbsp;&nbsp;health.ettoday.net小心魚油！營養師曝3大「保健食品錯誤吃法」 嚴重恐血流不止&nbsp;&nbsp;祝你健康吃補變吃毒！營養師：「3類保健品」不能混 魚油＋1藥物恐出血&nbsp;&nbsp;TVBS新聞網",
+      "summary": "3保健品搭藥一起吃大踩雷專家：恐出血、傷肝- 健康&nbsp;&nbsp;中時新聞網很多人天天吃！營養師揭「3大保健品地雷組合」：恐傷肝又出血&nbsp;&nbsp;Yahoo新聞營養師示警「保健品3大NG搭配」 恐增出血、傷肝風險還影響藥效&nbsp;&nbsp;ETtoday健康雲小心魚油！營養師曝3大「保健食品錯誤吃法」 嚴重恐血流不止&nbsp;&nbsp;祝你健康吃補變吃毒！營養師：「3類保健品」不能混 魚油＋1藥物恐出血&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
           "name": "中時新聞網",
@@ -265,14 +265,14 @@
       ]
     },
     {
-      "id": "b5018ff23f68",
-      "title": "多吃水果和蔬菜與意外的肺癌風險有關。",
-      "published": "2026-04-18T18:15:09+00:00",
-      "summary": "多吃水果和蔬菜與意外的肺癌風險有關。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "6ac252fe80b7",
+      "title": "多吃水果和蔬菜與意外的肺癌風險有關",
+      "published": "2026-04-18T20:39:15+00:00",
+      "summary": "多吃水果和蔬菜與意外的肺癌風險有關&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPNnhJT0F1TnpDWDJCSWRaOUVQVjh2QzZ6TVVDZ2J3MDIwQzBQbUpnQVd5N2U5a1pMUTJkWW1ROFZRdnlvcVp4NlEyZjNpRUtidkxPWGlXQVNmNl9tRmZXbEJhSjNOdXlMSXlkYWh3LVVtLTJfZ0pjblhvc2NjX3ZMV3piX2VZVVJkZkFKTGswMmxsSkd5c0RPZHdEVTI0OTY3UWE3YnQzRjdBQ3JnTE9lRkNkb25oNm5FRkhvbkFwdUNTVk1UMWx2RXZyNk1Gdl9GWl9kajNsVm96V1pqdGc3MElKTHQ1Qm5hX1hZMEZHZDMwLUs1SjBOVW1Rdi1sSDEwZVZVX3ZTbXhCR2RBdTJHcGlzaTJVVjFNZnV2Vzg5QUdXZEtzTWZZTmY1clMwd2JYbDVZdHVpaW8tYW1Fc01iRG9CV3dyR2RjODV4SlRqd3RVeXllbHc?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOMjgwQWtEYmx6UzYyOWpublduYUJLcGkwUjViRUNkWjZhRmNESnprNVJXUkp0X29Tbnk4MHVVbU9PT0NkZkRiaHFfRDVYM1hobExDd29wWDcyZmViaGhKWXdYbnZRQUtEZXFDdDM0SEpvdm1wejF4T1JEdHJTNVRVclN0YjR3Z09hc2tfSGFLZnVkOFExZEpkeE5sWTBmclJYWndneVUteWRtUzF1di1nT0dvRWZyamtTLXZEckNQS3NmUjRKalR0RG0wQzI2ZTZ6QWVQNmFqc09GYUVvMV90OXgyZFE2VTV2SXU4ejhNVlBnbWY1SE8wUkRFd1dPcWZSX1k4UV9UcVJCYXJ2TlNvOXpRVFV3S3VxY0RrSS1xY0VHVS1iRnBPM3pR?oc=5"
         }
       ],
       "matched_keywords": [
