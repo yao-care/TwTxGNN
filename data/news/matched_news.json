@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-19T19:35:39.475386+00:00",
-  "total_count": 22,
+  "last_updated": "2026-04-19T20:27:42.077631+00:00",
+  "total_count": 23,
   "matched_count": 9,
   "news": [
+    {
+      "id": "e10d3e64a265",
+      "title": "自體免疫病 可併發肺動脈高壓",
+      "published": "2026-04-19T20:00:00+00:00",
+      "summary": "自體免疫病 可併發肺動脈高壓&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSnYtVGZQSlVhQ0k3aXhFOWZJdklIR25aLW56QkRMWEl2VkROT3hhZ3k5RjN5OHFGbXItb2FrWWlXRFJKb2xJa1J4RUVWVWU0SnVYM3RNMG1NaFBQcTE2U01wRDZJWnNna3NRcmpfVDBnOU13OXVRTGwtZ2k4b2t3WlZid0hpMC1WV3kybGdtczl4RC1hSXF2TGhRbnNuUTQxNFA0RkU4SFh5c3ZmZjBLUjlJYzlwLWFvUFJDX0ZVbHdGNHJJbWppbE5kSW9UZDdvOWhVQlBrSXpqTHhYN1FUV1VCaGJpVGZtQnFpWGJQbVh3UVF1RmpjM21VWUNqdVk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "3e341e009667",
       "title": "它會導致健康風險。了解「陽光維生素」缺乏對身體的影響",
@@ -227,19 +240,6 @@
       ]
     },
     {
-      "id": "d988de449740",
-      "title": "「早晚1杯奶」成歷史？飲食指南調降建議量 每天1杯就夠 3類食物補鈣更強",
-      "published": "2026-04-19T00:05:57+00:00",
-      "summary": "「早晚1杯奶」成歷史？飲食指南調降建議量 每天1杯就夠 3類食物補鈣更強&nbsp;&nbsp;Yahoo新聞2026健康飲食新時代：從吃得飽走向「吃得精準」&nbsp;&nbsp;美南新聞《醫學大聯盟》「這物」危險等級最高！回歸「真正的食物」才能保命&nbsp;&nbsp;四季線上4gTV2026植物性飲食新趨勢：從吃素到精準營養的全面升級&nbsp;&nbsp;PChome Online 新聞純素飲食需妥善規畫&nbsp;&nbsp;人間福報電子報",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxPY05vcjFaUHNsNXJ6SUtCNURDRGxHTmdQNF9ESjBMQm1JTDJwdHlYenVhanFVUHJjMzdSVVRZdjFRTnJNampkS1hRR2pRdEZRc09GeHVWTG9USVAtVkFjMmdvT19hSHltdHFrNHJ2WWFuaEJ1YWRXVU1mSlYyb293ZURvY2FSTmZqZDdLclJYTF9tY1JoeF91cWpuSHZKSFhJVUNoVWJlNWJmeDFIUVdRQVNmVW9ndDREZGxZT1oweWtJcHdqdmNPUHdMUkRQb3pJcTZ4Sm1UbElCVnJkdndoaVR3LVI1a3lfdk8zYmJKSkY5NDhwWHRBcTZaeUctZllWd0ZWUkRMV1ZKVlU4OGg4YkhPVkMwdEo2UmtJSlVQWHdxWmZzNk5XY3NhNzBKeXdjR0pKbDJaeUZvT0dUc1dRbmZmUTNYeFR3M0RqMVl3Z0o2QlplRHFRSFBkU2hyaGN6MTJ6M2paZGdMM2xhMUZ1Wi1ZZXE3azhfTWpCZGYyTkRJekZ4VzZuRnRqLXd1LWI0WFVJdXltVnJpSHNXYlpGRHY2UjBQSlQyX1ZuQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "901a538fefba",
       "title": "3保健品搭藥一起吃大踩雷專家：恐出血、傷肝- 健康",
       "published": "2026-04-18T23:57:30+00:00",
@@ -276,6 +276,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "37128b42da1a",
+      "title": "2026健康飲食新時代：從吃得飽走向「吃得精準」",
+      "published": "2026-04-18T23:18:09+00:00",
+      "summary": "2026健康飲食新時代：從吃得飽走向「吃得精準」&nbsp;&nbsp;美南新聞《醫學大聯盟》「這物」危險等級最高！回歸「真正的食物」才能保命&nbsp;&nbsp;四季線上4gTV2026植物性飲食新趨勢：從吃素到精準營養的全面升級&nbsp;&nbsp;PChome Online 新聞純素飲食需妥善規畫&nbsp;&nbsp;人間福報電子報",
+      "sources": [
+        {
+          "name": "美南新聞",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1tcTk2SUwwQXNtRGpaSmZFRzhIY1JjUlJMcFZWdHJhdC1mRHhXTHNGX0RQdmRiMjhyTzdwdjNHaEpQcjZf?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "6ac252fe80b7",
