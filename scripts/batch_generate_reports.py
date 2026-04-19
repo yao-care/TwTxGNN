@@ -43,8 +43,12 @@ def get_all_bundles() -> list[Path]:
     return bundles
 
 
-def get_missing_reports() -> list[Path]:
-    """Get bundles that don't have notes yet."""
+def get_missing_reports(predictions_only: bool = False) -> list[Path]:
+    """Get bundles that don't have notes yet.
+
+    Args:
+        predictions_only: If True, only include bundles that have predicted_indications.
+    """
     notes_dir = Path("data/notes")
     bundles = get_all_bundles()
 
@@ -53,6 +57,12 @@ def get_missing_reports() -> list[Path]:
         drug_name = bundle_dir.name
         notes_path = notes_dir / drug_name / "drug_pharmacist_notes.md"
         if not notes_path.exists():
+            if predictions_only:
+                bundle_path = bundle_dir / "drug_bundle.json"
+                with open(bundle_path, "r", encoding="utf-8") as f:
+                    bundle_data = json.load(f)
+                if not bundle_data.get("drug", {}).get("predicted_indications"):
+                    continue
             missing.append(bundle_dir)
 
     return missing
@@ -62,6 +72,7 @@ def generate_report_for_drug(
     drug_name: str,
     prompt_version: str = "v5",
     skip_existing: bool = True,
+    model: str | None = "sonnet",
 ) -> dict:
     """Generate Evidence Pack and Notes for a single drug.
 
@@ -101,7 +112,7 @@ def generate_report_for_drug(
 
         # Step 1: Generate Evidence Pack
         ep_dir = data_dir / "evidence_packs" / drug_name
-        ep_generator = DrugEvidencePackGenerator()
+        ep_generator = DrugEvidencePackGenerator(model=model)
         json_path, md_path = ep_generator.generate_and_save(
             bundle=bundle,
             output_dir=ep_dir,
@@ -115,7 +126,7 @@ def generate_report_for_drug(
         notes_dir = data_dir / "notes" / drug_name
         notes_dir.mkdir(parents=True, exist_ok=True)
 
-        pharmacist_writer = DrugPharmacistNotesWriter(prompt_version=prompt_version)
+        pharmacist_writer = DrugPharmacistNotesWriter(prompt_version=prompt_version, model=model)
         pharmacist_path = notes_dir / "drug_pharmacist_notes.md"
         pharmacist_writer.generate_and_save(evidence_pack, pharmacist_path)
 
@@ -140,19 +151,16 @@ def main():
     parser.add_argument("--prompt-version", default="v5", choices=["v4", "v5"], help="Prompt version")
     parser.add_argument("--output", type=str, help="Output JSON file for results")
     parser.add_argument("--no-skip", action="store_true", help="Don't skip existing reports")
+    parser.add_argument("--predictions-only", action="store_true", help="Only process bundles with predicted_indications")
+    parser.add_argument("--model", type=str, default="sonnet", help="Claude model (default: sonnet)")
 
     args = parser.parse_args()
-
-    # Check API key
-    if not os.environ.get("OPENAI_API_KEY"):
-        print("ERROR: OPENAI_API_KEY not set")
-        sys.exit(1)
 
     # Get drug list
     if args.drugs:
         drug_dirs = [Path(f"data/bundles/{d.strip()}") for d in args.drugs.split(",")]
     elif args.missing_only:
-        drug_dirs = get_missing_reports()
+        drug_dirs = get_missing_reports(predictions_only=args.predictions_only)
     elif args.all:
         drug_dirs = get_all_bundles()
     else:
@@ -165,7 +173,7 @@ def main():
     if args.limit:
         drug_dirs = drug_dirs[:args.limit]
 
-    print(f"Processing {len(drug_dirs)} drugs (offset={args.offset}, limit={args.limit or 'all'})...")
+    print(f"Processing {len(drug_dirs)} drugs (model={args.model}, offset={args.offset}, limit={args.limit or 'all'})...")
     print("-" * 60)
 
     results = []
@@ -181,6 +189,7 @@ def main():
             drug_name=drug_name,
             prompt_version=args.prompt_version,
             skip_existing=not args.no_skip,
+            model=args.model,
         )
         results.append(result)
 
