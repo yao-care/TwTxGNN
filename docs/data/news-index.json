@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-19T04:45:08.616933+00:00",
+  "generated": "2026-04-19T06:25:12.481085+00:00",
   "count": 9,
   "news": [
     {
@@ -218,6 +218,30 @@
             {
               "slug": "dehydrocholic_acid",
               "name": "Dehydrocholic acid"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e034bc38c399",
+      "title": "科學家發現了一種逆轉肥胖的天然激素",
+      "published": "2026-04-18T04:17:18+00:00",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPaGcwdTZwU2tKV2FZb1ViQm9DMUhXTFZiS1k3UFNuQ0dSUXpLeFVkcnRURnFkdWNobnlyTExwN0RPa0h0eDk5RGNOQzZqOWFKMVIwZWhRY2V5OTk3MHp5ajhRdEl1TmNQNjhHelF2aE9HSWlEQjQxekxwYzhtUnJsY3lfMUdwakkxT3FBS0pJeDhNTlhtQldFMW83aVFHa2dpay1sWndvMzQ0cm9YQW41RFlRenBGdHQ0NDVWTFRHWjF2V2s2Q2N0bW5SUmdIcFZ5VDVNaFVldmVtUFJ5MVBCOGYzTU1UeTVHX1B2NHBzYlJUMEI1Sy01aWNOSHFQcjNCQ1ZXQjQ1eVl4TVRyS1VTLUUzbkdwc1lWMl9tS2puWmJXVzRCTllrZ2FR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -489,30 +513,6 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9a3b54883184",
-      "title": "內臟脂肪過高「讓人變笨」？ 研究示警：泡芙人族群最危險，大腦恐受到10種損害| 有肌勵",
-      "published": "2026-04-17T08:02:14+00:00",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzUGlza0ZaN2dDelpRNUFpMDQ5ajdVSTE5MkIwZ3UtVm13VXlERG85QzZySFIySDFLOXM2ZTJKTmhoYWJ0ai14Zy1SaHlnWl85MHROaVRtU1hDVnI5?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

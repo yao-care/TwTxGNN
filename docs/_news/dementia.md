@@ -39,6 +39,14 @@ permalink: /news/dementia/
 
 ---
 
+### [科學家發現了一種逆轉肥胖的天然激素](https://news.google.com/rss/articles/CBMiqgJBVV95cUxPaGcwdTZwU2tKV2FZb1ViQm9DMUhXTFZiS1k3UFNuQ0dSUXpLeFVkcnRURnFkdWNobnlyTExwN0RPa0h0eDk5RGNOQzZqOWFKMVIwZWhRY2V5OTk3MHp5ajhRdEl1TmNQNjhHelF2aE9HSWlEQjQxekxwYzhtUnJsY3lfMUdwakkxT3FBS0pJeDhNTlhtQldFMW83aVFHa2dpay1sWndvMzQ0cm9YQW41RFlRenBGdHQ0NDVWTFRHWjF2V2s2Q2N0bW5SUmdIcFZ5VDVNaFVldmVtUFJ5MVBCOGYzTU1UeTVHX1B2NHBzYlJUMEI1Sy01aWNOSHFQcjNCQ1ZXQjQ1eVl4TVRyS1VTLUUzbkdwc1lWMl9tS2puWmJXVzRCTllrZ2FR?oc=5)
+
+2026-04-18
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMiqgJBVV95cUxPaGcwdTZwU2tKV2FZb1ViQm9DMUhXTFZiS1k3UFNuQ0dSUXpLeFVkcnRURnFkdWNobnlyTExwN0RPa0h0eDk5RGNOQzZqOWFKMVIwZWhRY2V5OTk3MHp5ajhRdEl1TmNQNjhHelF2aE9HSWlEQjQxekxwYzhtUnJsY3lfMUdwakkxT3FBS0pJeDhNTlhtQldFMW83aVFHa2dpay1sWndvMzQ0cm9YQW41RFlRenBGdHQ0NDVWTFRHWjF2V2s2Q2N0bW5SUmdIcFZ5VDVNaFVldmVtUFJ5MVBCOGYzTU1UeTVHX1B2NHBzYlJUMEI1Sy01aWNOSHFQcjNCQ1ZXQjQ1eVl4TVRyS1VTLUUzbkdwc1lWMl9tS2puWmJXVzRCTllrZ2FR?oc=5)
+
+---
+
 ### [不到一分鐘揪出早期徵兆，AI 語音分析技術有望提前數年偵測阿茲海默症 - TechNews 科技新報](https://news.google.com/rss/articles/CBMilgFBVV95cUxQalhWdnVPZllSRlZULW45MXhHdTdDSEduNFM1cC1vWUNVX3ZYVEpvb2hHNkhIaE43Q3gtSFM2RTN1Tlo3Sy15XzlBT3lmREdmZ09MUmk4RVRGajRxbmFBVkkzblR0OE1UUjNXbXhkRWx4c2RySkxUa2hhOC1fT2ljeGR6YVR3RENPaUxNMWJWVTdacFF2S0E?oc=5)
 
 2026-04-18
@@ -52,14 +60,6 @@ permalink: /news/dementia/
 2026-04-17
 
 來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZWjJybnZSN1VhTWxJOFBQZTE5R2FDS3h1blF6eWJRQmN6QUpERXlFWS05dFhSVGJKMkh3d3dmdTEzbVhXemJhYjRKb3FVa3JORXZyczJB?oc=5)
-
----
-
-### [內臟脂肪過高「讓人變笨」？ 研究示警：泡芙人族群最危險，大腦恐受到10種損害| 有肌勵](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzUGlza0ZaN2dDelpRNUFpMDQ5ajdVSTE5MkIwZ3UtVm13VXlERG85QzZySFIySDFLOXM2ZTJKTmhoYWJ0ai14Zy1SaHlnWl85MHROaVRtU1hDVnI5?oc=5)
-
-2026-04-17
-
-來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzUGlza0ZaN2dDelpRNUFpMDQ5ajdVSTE5MkIwZ3UtVm13VXlERG85QzZySFIySDFLOXM2ZTJKTmhoYWJ0ai14Zy1SaHlnWl85MHROaVRtU1hDVnI5?oc=5)
 
 ---
 
