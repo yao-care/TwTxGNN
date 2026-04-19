@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-19T21:26:59.313075+00:00",
-  "count": 8,
+  "generated": "2026-04-19T22:26:15.182251+00:00",
+  "count": 9,
   "news": [
     {
       "id": "3e341e009667",
@@ -36,6 +36,89 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1e11e0290dfb",
+      "title": "男性必看！醫曝「黃金射精次數」還能防攝護腺癌",
+      "published": "2026-04-19T04:59:00+00:00",
+      "sources": [
+        {
+          "name": "壹蘋新聞網",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45clU0M2x0cjFGdWtfNXlQRW43aDdNa2c5NGhWNFJSVE44RGpkTXEwTnRKaDhFa0wtUllMTWc2eUZkMHhja05yTXdRZFp4dkVWT3ZwMjViNXpkTWM1UzFwdXN1cDRNYktIWlJzM0lucFNsbDYyMTcyZHE0OE83Zw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
             }
           ]
         }

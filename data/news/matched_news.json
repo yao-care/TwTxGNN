@@ -1,17 +1,43 @@
 {
-  "last_updated": "2026-04-19T21:26:59.296928+00:00",
-  "total_count": 22,
-  "matched_count": 8,
+  "last_updated": "2026-04-19T22:26:15.157781+00:00",
+  "total_count": 25,
+  "matched_count": 9,
   "news": [
     {
-      "id": "e10d3e64a265",
+      "id": "03a7bc2609e3",
+      "title": "影像檢查：平衡「獲益」與「代價」 - 明報 Our Lifestyle",
+      "published": "2026-04-19T20:30:00+00:00",
+      "summary": "影像檢查：平衡「獲益」與「代價」&nbsp;&nbsp;明報 Our Lifestyle",
+      "sources": [
+        {
+          "name": "明報 Our Lifestyle",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNaEFMOUhONk1VNlo2UlVfSnRpTVJ6aHdhSmlaVXFwMm9wRVRmVG90ZDhsaEpxdXNySU5IVUo5QnpWSUI4SUt5TVNFWnV3THgxVkk3Y2ZoczNQd3pxN1FzX3p5eFp0dHdObWxnb3BWRWkzRENJVVoxRkUtamd5TGoxdUViQXdPNndLU1BGbGdzTFVwZDhUQ25tdzcwZ1pFSEdMYVBxaE8zS2tibnlmYXBwbWNMSzh2TW5BY3RvYmoweTJlSDk1WTMwbVZsMUtoVHZPd3hlRmdWeWpySmJnRGExUXZ4WjRfTkZYRm9iRDdwYU1KSnFtbW1GbF93bTVZY3JXcG5BdVNlSjVGMkhld1lKWTk2ZllqSDhhZnN4TjJXOXFHUk84cnpmSzJXV1FNN0k?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e01e8cd56737",
       "title": "自體免疫病 可併發肺動脈高壓",
       "published": "2026-04-19T20:00:00+00:00",
       "summary": "自體免疫病 可併發肺動脈高壓&nbsp;&nbsp;am730",
       "sources": [
         {
           "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSnYtVGZQSlVhQ0k3aXhFOWZJdklIR25aLW56QkRMWEl2VkROT3hhZ3k5RjN5OHFGbXItb2FrWWlXRFJKb2xJa1J4RUVWVWU0SnVYM3RNMG1NaFBQcTE2U01wRDZJWnNna3NRcmpfVDBnOU13OXVRTGwtZ2k4b2t3WlZid0hpMC1WV3kybGdtczl4RC1hSXF2TGhRbnNuUTQxNFA0RkU4SFh5c3ZmZjBLUjlJYzlwLWFvUFJDX0ZVbHdGNHJJbWppbE5kSW9UZDdvOWhVQlBrSXpqTHhYN1FUV1VCaGJpVGZtQnFpWGJQbVh3UVF1RmpjM21VWUNqdVk?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sMVZRem5uUC1jQUVMV0dPUTdndXo5bnVNaVlGUGJBeGVLR0ZwX1lBTm55NE9JMFB0eWwybU5VNmtjcThwWkk4Y2tLUVdTeU90VkE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6dd9df959986",
+      "title": "市政府加強登革熱疫苗接種活動",
+      "published": "2026-04-19T19:01:41+00:00",
+      "summary": "市政府加強登革熱疫苗接種活動&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQSjRjNjhrc3gyU3ExYUc2S29VbENJR3JPeHh0MWNRTzVNYjF0OGFrUE41YjNHdUpjUHlwYVZDb3FZLUd3NXNvdGZYX0JsZ2Nac2kwenZUYmJuZnNET0F0ajRqMmdTRUsteWc0Z196OVlJRjJYbVI2Y2taSWZjbTltbC04aHhLZGtrM2dWaXVabi05UGR3UFptUWlEVlpaWUNoZ29pOVRwbF93SGJIcjhZSFhuX2EydXdnNmJBTVFaZ2lvN0hjZGREeUFlWUpuVDZ2Y0trYldrYzRWUkg4bnhXVURaX20zemtFN3hmTVVWRVZsSkVfM3Q1akw3OW81QjM4Wk9wNnVhaFFlWHhpUTAxaXVrcW9uMlRUNXMwdGtGQzF0Z192cXc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -94,6 +120,90 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "1e11e0290dfb",
+      "title": "男性必看！醫曝「黃金射精次數」還能防攝護腺癌",
+      "published": "2026-04-19T04:59:00+00:00",
+      "summary": "男性必看！醫曝「黃金射精次數」還能防攝護腺癌&nbsp;&nbsp;壹蘋新聞網每月清槍21次「降33%攝護腺癌」！ 醫揭各年齡建議次數&nbsp;&nbsp;ETtoday健康雲規律性行為護心又長壽每周2次以上心臟病風險減半- 健康&nbsp;&nbsp;中時新聞網前列腺癌預防：哈佛研究證實每月射精21次可降22%風險&nbsp;&nbsp;Singtaousa男性必看！研究：「性愛這頻率」大降50%心梗風險 少了害短命&nbsp;&nbsp;祝你健康",
+      "sources": [
+        {
+          "name": "壹蘋新聞網",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45clU0M2x0cjFGdWtfNXlQRW43aDdNa2c5NGhWNFJSVE44RGpkTXEwTnRKaDhFa0wtUllMTWc2eUZkMHhja05yTXdRZFp4dkVWT3ZwMjViNXpkTWM1UzFwdXN1cDRNYktIWlJzM0lucFNsbDYyMTcyZHE0OE83Zw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "6184410c3f11",
@@ -240,6 +350,19 @@
       ]
     },
     {
+      "id": "d988de449740",
+      "title": "「早晚1杯奶」成歷史？飲食指南調降建議量 每天1杯就夠 3類食物補鈣更強",
+      "published": "2026-04-19T00:05:57+00:00",
+      "summary": "「早晚1杯奶」成歷史？飲食指南調降建議量 每天1杯就夠 3類食物補鈣更強&nbsp;&nbsp;Yahoo新聞2026健康飲食新時代：從吃得飽走向「吃得精準」&nbsp;&nbsp;美南新聞《醫學大聯盟》「這物」危險等級最高！回歸「真正的食物」才能保命&nbsp;&nbsp;四季線上4gTV2026植物性飲食新趨勢：從吃素到精準營養的全面升級&nbsp;&nbsp;PChome Online 新聞純素飲食需妥善規畫&nbsp;&nbsp;人間福報電子報",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxPY05vcjFaUHNsNXJ6SUtCNURDRGxHTmdQNF9ESjBMQm1JTDJwdHlYenVhanFVUHJjMzdSVVRZdjFRTnJNampkS1hRR2pRdEZRc09GeHVWTG9USVAtVkFjMmdvT19hSHltdHFrNHJ2WWFuaEJ1YWRXVU1mSlYyb293ZURvY2FSTmZqZDdLclJYTF9tY1JoeF91cWpuSHZKSFhJVUNoVWJlNWJmeDFIUVdRQVNmVW9ndDREZGxZT1oweWtJcHdqdmNPUHdMUkRQb3pJcTZ4Sm1UbElCVnJkdndoaVR3LVI1a3lfdk8zYmJKSkY5NDhwWHRBcTZaeUctZllWd0ZWUkRMV1ZKVlU4OGg4YkhPVkMwdEo2UmtJSlVQWHdxWmZzNk5XY3NhNzBKeXdjR0pKbDJaeUZvT0dUc1dRbmZmUTNYeFR3M0RqMVl3Z0o2QlplRHFRSFBkU2hyaGN6MTJ6M2paZGdMM2xhMUZ1Wi1ZZXE3azhfTWpCZGYyTkRJekZ4VzZuRnRqLXd1LWI0WFVJdXltVnJpSHNXYlpGRHY2UjBQSlQyX1ZuQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "901a538fefba",
       "title": "3保健品搭藥一起吃大踩雷專家：恐出血、傷肝- 健康",
       "published": "2026-04-18T23:57:30+00:00",
@@ -276,19 +399,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "37128b42da1a",
-      "title": "2026健康飲食新時代：從吃得飽走向「吃得精準」",
-      "published": "2026-04-18T23:18:09+00:00",
-      "summary": "2026健康飲食新時代：從吃得飽走向「吃得精準」&nbsp;&nbsp;美南新聞《醫學大聯盟》「這物」危險等級最高！回歸「真正的食物」才能保命&nbsp;&nbsp;四季線上4gTV2026植物性飲食新趨勢：從吃素到精準營養的全面升級&nbsp;&nbsp;PChome Online 新聞純素飲食需妥善規畫&nbsp;&nbsp;人間福報電子報",
-      "sources": [
-        {
-          "name": "美南新聞",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1tcTk2SUwwQXNtRGpaSmZFRzhIY1JjUlJMcFZWdHJhdC1mRHhXTHNGX0RQdmRiMjhyTzdwdjNHaEpQcjZf?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "6ac252fe80b7",
