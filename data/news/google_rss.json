@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-19T15:30:29.242318+00:00",
-  "count": 20,
+  "fetched_at": "2026-04-19T16:29:55.397905+00:00",
+  "count": 21,
   "news": [
     {
       "id": "901a538fefba",
@@ -52,6 +52,18 @@
       ]
     },
     {
+      "id": "4597b0b1f934",
+      "title": "肥胖男性和女性面臨截然不同的隱藏健康風險 - citytimes.tw",
+      "published": "2026-04-19T09:48:53+00:00",
+      "summary": "肥胖男性和女性面臨截然不同的隱藏健康風險&nbsp;&nbsp;citytimes.tw肥胖健康風險男女有別 土耳其研究揭示性別差異&nbsp;&nbsp;墨新聞-MORE News",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNNnc5S1B2cXI3UG8zY3pNR2trSEVYaGduaDRlalhjaUsxSlhhYWRONnpZWUl0ZVpDMXhKQ1VRNmJzSWd4NU9YS2ItUkdYYXlsc2RiWE5RTkptYUVBck90SWhpT2ppQmFCM3JPZXhWWE13REs2cGdMWDU2bkFUQjctLXd3ZjVYdXhJYkZYa0dHeDkxR0l4YjhaOTJNelNyQ0U4NHd4UV9abzVGemJseEgxMHY5SnJoRDdGeTdVS203dWZKT0FpWUFkUURINmtYUWdNb3JsRVl6aGphSElYX2hEQUV0d09CUzBma1ZQT2dscWt4RG5LNGc3REFYQ1E5aTlTRDRXdVFFLWQ3eXlHbVB2d3B3ck9DdG16QUoyd09WVXA2MTRWVTlNVUs5Z2hpT19TUWVJdDRITjU1SXRfdTRVaU02VVVfZ3JkUHF1Y25B?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9ccbc8e66ca7",
       "title": "愛滋治癒再添1例 挪威男子因兄弟基因突變受益 - 自由健康網",
       "published": "2026-04-19T02:27:00+00:00",
@@ -64,18 +76,6 @@
       ]
     },
     {
-      "id": "6184410c3f11",
-      "title": "孟加拉總理批麻疹疫苗接種失敗「不可饒恕」 誓推醫療改革 - yesmedia.com.tw",
-      "published": "2026-04-19T02:54:31+00:00",
-      "summary": "孟加拉總理批麻疹疫苗接種失敗「不可饒恕」 誓推醫療改革&nbsp;&nbsp;yesmedia.com.tw前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOZkdhb1FWZVlEa29pOEhQUk83NV9EeENIOGFWck80eG9OdGg2dmFNY3plS2dUNUZTdURHOXVVRmJYNS1kdVJCZmRLbFlxazZ3MWRRdGlaNjAyR2tub1ZxV2RlaV9EckJMUTRndHR4aVcxNFJVa1M3YmpxVE5FSnpqYk5PdEtLSGNueURwNkFsckw4MmdJMlBpWVA3T28zMnVVampOei1NR3Y2d3plckw5Ulh3REs2Q3JrMTllRzBDTEkyUjZoaktjY1hwMFQ0OGxVaFRLZUlRYV9KdVhVNlZoa3NLeVk3c1V2SDkwWm1IcFFDVDBIVVNaLW9GMEM2UGNvS2J4WVI1c0d3MjdDSnJVQjR0RThsZjEwaGhDOWRPa29YRlNaZW9XXzUtNF9RUWRwVlhxOWhmUHAtbkFXVmhjUGxDUDBNOXpDNHdBVw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b5018ff23f68",
       "title": "多吃水果和蔬菜與意外的肺癌風險有關。 - arch-web.com.tw",
       "published": "2026-04-18T18:15:09+00:00",
@@ -84,6 +84,18 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPNnhJT0F1TnpDWDJCSWRaOUVQVjh2QzZ6TVVDZ2J3MDIwQzBQbUpnQVd5N2U5a1pMUTJkWW1ROFZRdnlvcVp4NlEyZjNpRUtidkxPWGlXQVNmNl9tRmZXbEJhSjNOdXlMSXlkYWh3LVVtLTJfZ0pjblhvc2NjX3ZMV3piX2VZVVJkZkFKTGswMmxsSkd5c0RPZHdEVTI0OTY3UWE3YnQzRjdBQ3JnTE9lRkNkb25oNm5FRkhvbkFwdUNTVk1UMWx2RXZyNk1Gdl9GWl9kajNsVm96V1pqdGc3MElKTHQ1Qm5hX1hZMEZHZDMwLUs1SjBOVW1Rdi1sSDEwZVZVX3ZTbXhCR2RBdTJHcGlzaTJVVjFNZnV2Vzg5QUdXZEtzTWZZTmY1clMwd2JYbDVZdHVpaW8tYW1Fc01iRG9CV3dyR2RjODV4SlRqd3RVeXllbHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6184410c3f11",
+      "title": "孟加拉總理批麻疹疫苗接種失敗「不可饒恕」 誓推醫療改革 - yesmedia.com.tw",
+      "published": "2026-04-19T02:54:31+00:00",
+      "summary": "孟加拉總理批麻疹疫苗接種失敗「不可饒恕」 誓推醫療改革&nbsp;&nbsp;yesmedia.com.tw前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOZkdhb1FWZVlEa29pOEhQUk83NV9EeENIOGFWck80eG9OdGg2dmFNY3plS2dUNUZTdURHOXVVRmJYNS1kdVJCZmRLbFlxazZ3MWRRdGlaNjAyR2tub1ZxV2RlaV9EckJMUTRndHR4aVcxNFJVa1M3YmpxVE5FSnpqYk5PdEtLSGNueURwNkFsckw4MmdJMlBpWVA3T28zMnVVampOei1NR3Y2d3plckw5Ulh3REs2Q3JrMTllRzBDTEkyUjZoaktjY1hwMFQ0OGxVaFRLZUlRYV9KdVhVNlZoa3NLeVk3c1V2SDkwWm1IcFFDVDBIVVNaLW9GMEM2UGNvS2J4WVI1c0d3MjdDSnJVQjR0RThsZjEwaGhDOWRPa29YRlNaZW9XXzUtNF9RUWRwVlhxOWhmUHAtbkFXVmhjUGxDUDBNOXpDNHdBVw?oc=5"
         }
       ]
     },
@@ -136,18 +148,6 @@
       ]
     },
     {
-      "id": "d988de449740",
-      "title": "「早晚1杯奶」成歷史？飲食指南調降建議量 每天1杯就夠 3類食物補鈣更強 - Yahoo新聞",
-      "published": "2026-04-19T00:05:57+00:00",
-      "summary": "「早晚1杯奶」成歷史？飲食指南調降建議量 每天1杯就夠 3類食物補鈣更強&nbsp;&nbsp;Yahoo新聞2026健康飲食新時代：從吃得飽走向「吃得精準」&nbsp;&nbsp;美南新聞《醫學大聯盟》「這物」危險等級最高！回歸「真正的食物」才能保命&nbsp;&nbsp;四季線上4gTV2026植物性飲食新趨勢：從吃素到精準營養的全面升級&nbsp;&nbsp;PChome Online新聞純素飲食需妥善規畫&nbsp;&nbsp;人間福報電子報",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxPY05vcjFaUHNsNXJ6SUtCNURDRGxHTmdQNF9ESjBMQm1JTDJwdHlYenVhanFVUHJjMzdSVVRZdjFRTnJNampkS1hRR2pRdEZRc09GeHVWTG9USVAtVkFjMmdvT19hSHltdHFrNHJ2WWFuaEJ1YWRXVU1mSlYyb293ZURvY2FSTmZqZDdLclJYTF9tY1JoeF91cWpuSHZKSFhJVUNoVWJlNWJmeDFIUVdRQVNmVW9ndDREZGxZT1oweWtJcHdqdmNPUHdMUkRQb3pJcTZ4Sm1UbElCVnJkdndoaVR3LVI1a3lfdk8zYmJKSkY5NDhwWHRBcTZaeUctZllWd0ZWUkRMV1ZKVlU4OGg4YkhPVkMwdEo2UmtJSlVQWHdxWmZzNk5XY3NhNzBKeXdjR0pKbDJaeUZvT0dUc1dRbmZmUTNYeFR3M0RqMVl3Z0o2QlplRHFRSFBkU2hyaGN6MTJ6M2paZGdMM2xhMUZ1Wi1ZZXE3azhfTWpCZGYyTkRJekZ4VzZuRnRqLXd1LWI0WFVJdXltVnJpSHNXYlpGRHY2UjBQSlQyX1ZuQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4aa893d8973e",
       "title": "不到一分鐘揪出早期徵兆，AI 語音分析技術有望提前數年偵測阿茲海默症 | 科技新報 - LINE TODAY",
       "published": "2026-04-18T14:36:51+00:00",
@@ -156,6 +156,18 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83R1ZFVUZLdVo0TDR4ZUxINGRPOEpnSHBMZ3d1RmlSY2hFV2lxWk1ScmUzRE5aMDNWZWxoc0xzb0NTUlYxYVUydnVDbnhSN3RHdk9xVTZB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d988de449740",
+      "title": "「早晚1杯奶」成歷史？飲食指南調降建議量 每天1杯就夠 3類食物補鈣更強 - Yahoo新聞",
+      "published": "2026-04-19T00:05:57+00:00",
+      "summary": "「早晚1杯奶」成歷史？飲食指南調降建議量 每天1杯就夠 3類食物補鈣更強&nbsp;&nbsp;Yahoo新聞2026健康飲食新時代：從吃得飽走向「吃得精準」&nbsp;&nbsp;美南新聞《醫學大聯盟》「這物」危險等級最高！回歸「真正的食物」才能保命&nbsp;&nbsp;四季線上4gTV2026植物性飲食新趨勢：從吃素到精準營養的全面升級&nbsp;&nbsp;PChome Online新聞純素飲食需妥善規畫&nbsp;&nbsp;人間福報電子報",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxPY05vcjFaUHNsNXJ6SUtCNURDRGxHTmdQNF9ESjBMQm1JTDJwdHlYenVhanFVUHJjMzdSVVRZdjFRTnJNampkS1hRR2pRdEZRc09GeHVWTG9USVAtVkFjMmdvT19hSHltdHFrNHJ2WWFuaEJ1YWRXVU1mSlYyb293ZURvY2FSTmZqZDdLclJYTF9tY1JoeF91cWpuSHZKSFhJVUNoVWJlNWJmeDFIUVdRQVNmVW9ndDREZGxZT1oweWtJcHdqdmNPUHdMUkRQb3pJcTZ4Sm1UbElCVnJkdndoaVR3LVI1a3lfdk8zYmJKSkY5NDhwWHRBcTZaeUctZllWd0ZWUkRMV1ZKVlU4OGg4YkhPVkMwdEo2UmtJSlVQWHdxWmZzNk5XY3NhNzBKeXdjR0pKbDJaeUZvT0dUc1dRbmZmUTNYeFR3M0RqMVl3Z0o2QlplRHFRSFBkU2hyaGN6MTJ6M2paZGdMM2xhMUZ1Wi1ZZXE3azhfTWpCZGYyTkRJekZ4VzZuRnRqLXd1LWI0WFVJdXltVnJpSHNXYlpGRHY2UjBQSlQyX1ZuQQ?oc=5"
         }
       ]
     },
