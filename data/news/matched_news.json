@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-20T20:39:12.997238+00:00",
-  "total_count": 21,
+  "last_updated": "2026-04-20T21:38:45.780595+00:00",
+  "total_count": 22,
   "matched_count": 7,
   "news": [
+    {
+      "id": "488db58585a2",
+      "title": "阿根廷日曆中您需要了解的有關疫苗的所有信息",
+      "published": "2026-04-20T21:11:12+00:00",
+      "summary": "阿根廷日曆中您需要了解的有關疫苗的所有信息&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQdHV1c19xd1dzWHJyZV9HTnZTcFotT0sya1Z4TVViTzlLYlBxWEJzYkxvaWUwMnpuNndRa2dDeG14WnJkdjMwVExFbUR6TzRGN3N2a0hGdGQwZHR1NE5oSU96c29vU3dOMGt2am5RVURKbEtNZy1qdFJQYW55N3hLeXFPLVNDdi00ZEgzZ2FDT0luc3pEcEN5Sm1MY0dNOGczSlJfY01fcTlyY1RtU2RMNEFBUVNoZGlFQ1o5NFFaajVPaWJMamdjVVN5bDNyOXJaRlBVbWlPbHdwYVIxZE5GR2tCMm0zV0xxeE1BMTNOcWJOb3NZZFJUMkNLaFVxS1dXSTk3blpINTZxb2M5dUlreGJiYVpwLTBpVmt3YlRrZ0VvUzhjQ3F4azBRdWN0OGNTM1FZazU0Um1VbGlYWnZmR1NaeHo0TFFkTWowV29sTlJDSG52bEFNNHd1cHBVYWo4TzlPbUZyYW0yQU5teld4Zklzb0I3UjVYREE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "c85ab890fe06",
       "title": "蚊怕水化學與天然成分的真實效果",
