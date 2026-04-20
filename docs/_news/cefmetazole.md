@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,9 +41,15 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [抗生素失效危機全球蔓延 世衛警告2050年死亡恐超癌症](https://news.google.com/rss/articles/CBMi9gJBVV95cUxQUDRMZWtkMDA5Y0tqTzF3SC13TV9LWWhxZWlpTzM4NXQ2VF94MEJKQ1pELVhFVFBxTERlNlhfRTRBVlNBU21vc000WDI5cVdlYmJobmZMZlJ1amJWdy1xSDJmZWxLRWtTNmJYdzdEbTZYeUNZRHpFZ1BOUXFpUmNNZ0JQS0RVNzJtNUp1NDZiUHotUDJRVlRncFNpWnZ1emxZYUZMNGhqN2dDaDZFSTRDZFBvVG0yZVVZdW5MZXlNMEI2ZzItRzJIRTNXc2JiMVlmQU55QmNqWHhwdE9rMGlaZUtHTUtIOEVLX3ZlaG8xck1FWHdPb0VmemFkWjNubUFsSmdjV0FiTTItSl91UlExTFplOUpYQjZEWUpRcWIxTVowTHNLT251eDBfdVZIS0RBU1RMT3ZMaUZhWmtXN3NSTkROcjhmUFNQTFFoWmdHZTdvNkRKTVhDQ0xxRWRwbFVQcXhjMEsxbEs1YzU1MWpZLTRrN0pHdw?oc=5)
+
+2026-04-20 <span class="news-indication-tag">癌症</span>
+
+來源：[行銷人](https://news.google.com/rss/articles/CBMi9gJBVV95cUxQUDRMZWtkMDA5Y0tqTzF3SC13TV9LWWhxZWlpTzM4NXQ2VF94MEJKQ1pELVhFVFBxTERlNlhfRTRBVlNBU21vc000WDI5cVdlYmJobmZMZlJ1amJWdy1xSDJmZWxLRWtTNmJYdzdEbTZYeUNZRHpFZ1BOUXFpUmNNZ0JQS0RVNzJtNUp1NDZiUHotUDJRVlRncFNpWnZ1emxZYUZMNGhqN2dDaDZFSTRDZFBvVG0yZVVZdW5MZXlNMEI2ZzItRzJIRTNXc2JiMVlmQU55QmNqWHhwdE9rMGlaZUtHTUtIOEVLX3ZlaG8xck1FWHdPb0VmemFkWjNubUFsSmdjV0FiTTItSl91UlExTFplOUpYQjZEWUpRcWIxTVowTHNLT251eDBfdVZIS0RBU1RMT3ZMaUZhWmtXN3NSTkROcjhmUFNQTFFoWmdHZTdvNkRKTVhDQ0xxRWRwbFVQcXhjMEsxbEs1YzU1MWpZLTRrN0pHdw?oc=5)
+
+---
 
 
 <div class="disclaimer">
