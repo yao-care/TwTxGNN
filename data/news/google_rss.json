@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-20T17:52:08.147377+00:00",
+  "fetched_at": "2026-04-20T18:53:34.798508+00:00",
   "count": 19,
   "news": [
     {
@@ -76,14 +76,14 @@
       ]
     },
     {
-      "id": "1708ac45ab40",
-      "title": "一生堅持這樣做可以將阿茲海默症的風險降低38%。 - citytimes.tw",
-      "published": "2026-04-18T23:18:11+00:00",
-      "summary": "一生堅持這樣做可以將阿茲海默症的風險降低38%。&nbsp;&nbsp;citytimes.tw",
+      "id": "4597b0b1f934",
+      "title": "肥胖男性和女性面臨截然不同的隱藏健康風險 - citytimes.tw",
+      "published": "2026-04-19T09:48:53+00:00",
+      "summary": "肥胖男性和女性面臨截然不同的隱藏健康風險&nbsp;&nbsp;citytimes.tw肥胖健康風險男女有別 土耳其研究揭示性別差異&nbsp;&nbsp;墨新聞-MORE News",
       "sources": [
         {
           "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOOWIzeHZLdVNzeHJ1a3Bwal96V1NjUFpneTZUVVl5Si1NSElFYUZWZzdMRkVvUEJDQlRvaTFUS1hFMTh5R2FJWGNScFVtNDl1endHeHl2dTVzOHRDOG81bEpqQnBGaGV4NEhSMGtwVXh2azFkUi1fUllBNkFkaGtrclFoN1cxMER3OUV2MTQ3ODNHQW16QVdaMlNMN0Z6LUswMExwbmlhcTU4UWFSdFBUOHpwSTV1T0VpSWVvUV96YVM5bEFWWk1Fb1hRLUZad25fV2FVYVNqMUNFejZpU1M2MldobmlGVm14Z2NfUkZYYzcyWUFtblBTVXVRTWpqUTkzVmNwclNZRHFpREVsZ3BudFBnSm02Vkd1V0UwZi1fbF96c0FVdzBwUEZjRTBWUjR5SDI1aXBuclNUVXFlSTh6TUhhWU9VY2dVbHVtbDE2SkNUTWtrWVlJUU5QRXZDQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNNnc5S1B2cXI3UG8zY3pNR2trSEVYaGduaDRlalhjaUsxSlhhYWRONnpZWUl0ZVpDMXhKQ1VRNmJzSWd4NU9YS2ItUkdYYXlsc2RiWE5RTkptYUVBck90SWhpT2ppQmFCM3JPZXhWWE13REs2cGdMWDU2bkFUQjctLXd3ZjVYdXhJYkZYa0dHeDkxR0l4YjhaOTJNelNyQ0U4NHd4UV9abzVGemJseEgxMHY5SnJoRDdGeTdVS203dWZKT0FpWUFkUURINmtYUWdNb3JsRVl6aGphSElYX2hEQUV0d09CUzBma1ZQT2dscWt4RG5LNGc3REFYQ1E5aTlTRDRXdVFFLWQ3eXlHbVB2d3B3ck9DdG16QUoyd09WVXA2MTRWVTlNVUs5Z2hpT19TUWVJdDRITjU1SXRfdTRVaU02VVVfZ3JkUHF1Y25B?oc=5"
         }
       ]
     },
@@ -100,14 +100,26 @@
       ]
     },
     {
-      "id": "4597b0b1f934",
-      "title": "肥胖男性和女性面臨截然不同的隱藏健康風險 - citytimes.tw",
-      "published": "2026-04-19T09:48:53+00:00",
-      "summary": "肥胖男性和女性面臨截然不同的隱藏健康風險&nbsp;&nbsp;citytimes.tw肥胖健康風險男女有別 土耳其研究揭示性別差異&nbsp;&nbsp;墨新聞-MORE News",
+      "id": "1708ac45ab40",
+      "title": "一生堅持這樣做可以將阿茲海默症的風險降低38%。 - citytimes.tw",
+      "published": "2026-04-18T23:18:11+00:00",
+      "summary": "一生堅持這樣做可以將阿茲海默症的風險降低38%。&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
           "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNNnc5S1B2cXI3UG8zY3pNR2trSEVYaGduaDRlalhjaUsxSlhhYWRONnpZWUl0ZVpDMXhKQ1VRNmJzSWd4NU9YS2ItUkdYYXlsc2RiWE5RTkptYUVBck90SWhpT2ppQmFCM3JPZXhWWE13REs2cGdMWDU2bkFUQjctLXd3ZjVYdXhJYkZYa0dHeDkxR0l4YjhaOTJNelNyQ0U4NHd4UV9abzVGemJseEgxMHY5SnJoRDdGeTdVS203dWZKT0FpWUFkUURINmtYUWdNb3JsRVl6aGphSElYX2hEQUV0d09CUzBma1ZQT2dscWt4RG5LNGc3REFYQ1E5aTlTRDRXdVFFLWQ3eXlHbVB2d3B3ck9DdG16QUoyd09WVXA2MTRWVTlNVUs5Z2hpT19TUWVJdDRITjU1SXRfdTRVaU02VVVfZ3JkUHF1Y25B?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOOWIzeHZLdVNzeHJ1a3Bwal96V1NjUFpneTZUVVl5Si1NSElFYUZWZzdMRkVvUEJDQlRvaTFUS1hFMTh5R2FJWGNScFVtNDl1endHeHl2dTVzOHRDOG81bEpqQnBGaGV4NEhSMGtwVXh2azFkUi1fUllBNkFkaGtrclFoN1cxMER3OUV2MTQ3ODNHQW16QVdaMlNMN0Z6LUswMExwbmlhcTU4UWFSdFBUOHpwSTV1T0VpSWVvUV96YVM5bEFWWk1Fb1hRLUZad25fV2FVYVNqMUNFejZpU1M2MldobmlGVm14Z2NfUkZYYzcyWUFtblBTVXVRTWpqUTkzVmNwclNZRHFpREVsZ3BudFBnSm02Vkd1V0UwZi1fbF96c0FVdzBwUEZjRTBWUjR5SDI1aXBuclNUVXFlSTh6TUhhWU9VY2dVbHVtbDE2SkNUTWtrWVlJUU5QRXZDQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9ccbc8e66ca7",
+      "title": "愛滋治癒再添1例 挪威男子因兄弟基因突變受益 - 自由健康網",
+      "published": "2026-04-19T02:27:00+00:00",
+      "summary": "愛滋治癒再添1例 挪威男子因兄弟基因突變受益&nbsp;&nbsp;自由健康網一名挪威男子透過兄弟的幹細胞治癒了愛滋病毒&nbsp;&nbsp;arch-web.com.tw挪威男子首用兄長幹細胞移植 擺脫 HIV 20 年感染&nbsp;&nbsp;Techritual Hong Kong",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wYWYtVWFzX1F3VnU3dVRyT1pTV3U1VkxhdXdvRHFvY2tHdnNCWkxlUnFHUE5PVkp0Sjg0alJyREhVYkpVaFowZGxSbWNEU3FQVzkwa2dIc0FsZmVFT3dzUXRseUnSAWpBVV95cUxOZkMxWUZNY2lIVHd3dEtpWHhMNGx4OXNuU3dyR3oySjgxOEJITklBbTM2YW1GdHE2eTVGTXVuUXpyNmlGQXIyNnh6NG9uSWo3cmxxakNYZGlXc0wxTXJvYkRVcHYwVXNBbldn?oc=5"
         }
       ]
     },
@@ -120,18 +132,6 @@
         {
           "name": "ENN台灣電報",
           "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE8tZThFbFVZd0dMaHp0VHF1QmY0UjFHSWIyZ0dpbjBIRTJTMEZqLUNBMy0tVExGd21HLWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "740659ab66e5",
-      "title": "愛滋治癒再添1例 挪威男子因兄弟基因突變受益 - Yahoo新聞",
-      "published": "2026-04-19T02:43:20+00:00",
-      "summary": "愛滋治癒再添1例 挪威男子因兄弟基因突變受益&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNMnlaTFpJdXE5YXFnSklrd1JFZFg3RkVIeU80V3ZtanpLYWQ0SUduZnpKQW9iWVJmWWUyVks0cTR6bTlLMHhQaTR4a013ODVQbmNvNHNMaDJNWjBVODE1cG9EbTdGUDZnaXFmTE8wUTl2TXRUSE9RUDl5TTJZYWZEdnNwT3hLcGhKRUNiZ2UzN3RFOEVPMWtQaXJGLXlMX2VNSkRFbXlaOFNzYXJKbGxRUGowV0RZNkVzaUpndGJXZEViSVd1OU5WdXBtX0hndm5MUmdpZERHcWQwaFFQTmUwWXpxY2N1aGM5b1NDd01JdG5jd2RGYzZfOG56RC1zWVVHbFBXSlFsUWdhLWVROXNPZzc3N3U4dHFDbklHMC10bmMxTVY0cnJmVDhFXzFhd0UzcDZBZFZ2dmNWWWUwTERtQ2w2eWZBdw?oc=5"
         }
       ]
     },
