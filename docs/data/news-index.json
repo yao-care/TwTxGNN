@@ -1,7 +1,39 @@
 {
-  "generated": "2026-04-20T01:53:18.785638+00:00",
+  "generated": "2026-04-20T04:52:15.966303+00:00",
   "count": 9,
   "news": [
+    {
+      "id": "11c7ce461741",
+      "title": "不吸菸年輕人肺癌增！ 研究：高蔬果攝取者確診率偏高但原因未明",
+      "published": "2026-04-20T03:19:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lRS12cG1VcnNvQlo1YWxwM1E2X3F6aUplUFZBX1VQd2RaVXAxaXhFVlBNM0JpUWZpS2JOSkt6NF9MU05rZzJSR0xkZ0tnV2xoSVhIT2VEUEh3N2N1LXpwMTlZaEfSAWpBVV95cUxQWUlYTFhOYmhieGVSLThWdzdGb0tPRHJERWd0bWozWTRzQ3ZRb2RZMlJUd09sZ3AwZVpyTTlRUndRM2F4MnlsSU9Qck8zNUcwQmhXdTFrLVZJU0lCeFJBMkFGc08zV2xuNXpB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "3e341e009667",
       "title": "它會導致健康風險。了解「陽光維生素」缺乏對身體的影響",
@@ -260,38 +292,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6ac252fe80b7",
-      "title": "多吃水果和蔬菜與意外的肺癌風險有關",
-      "published": "2026-04-18T20:39:15+00:00",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOMjgwQWtEYmx6UzYyOWpublduYUJLcGkwUjViRUNkWjZhRmNESnprNVJXUkp0X29Tbnk4MHVVbU9PT0NkZkRiaHFfRDVYM1hobExDd29wWDcyZmViaGhKWXdYbnZRQUtEZXFDdDM0SEpvdm1wejF4T1JEdHJTNVRVclN0YjR3Z09hc2tfSGFLZnVkOFExZEpkeE5sWTBmclJYWndneVUteWRtUzF1di1nT0dvRWZyamtTLXZEckNQS3NmUjRKalR0RG0wQzI2ZTZ6QWVQNmFqc09GYUVvMV90OXgyZFE2VTV2SXU4ejhNVlBnbWY1SE8wUkRFd1dPcWZSX1k4UV9UcVJCYXJ2TlNvOXpRVFV3S3VxY0RrSS1xY0VHVS1iRnBPM3pR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
             }
           ]
         }

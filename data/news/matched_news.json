@@ -1,17 +1,50 @@
 {
-  "last_updated": "2026-04-20T01:53:18.760723+00:00",
-  "total_count": 25,
+  "last_updated": "2026-04-20T04:52:15.941590+00:00",
+  "total_count": 24,
   "matched_count": 9,
   "news": [
     {
-      "id": "03a7bc2609e3",
-      "title": "影像檢查：平衡「獲益」與「代價」 - 明報 Our Lifestyle",
-      "published": "2026-04-19T20:30:00+00:00",
-      "summary": "影像檢查：平衡「獲益」與「代價」&nbsp;&nbsp;明報 Our Lifestyle",
+      "id": "11c7ce461741",
+      "title": "不吸菸年輕人肺癌增！ 研究：高蔬果攝取者確診率偏高但原因未明",
+      "published": "2026-04-20T03:19:00+00:00",
+      "summary": "不吸菸年輕人肺癌增！ 研究：高蔬果攝取者確診率偏高但原因未明&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "明報 Our Lifestyle",
-          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNaEFMOUhONk1VNlo2UlVfSnRpTVJ6aHdhSmlaVXFwMm9wRVRmVG90ZDhsaEpxdXNySU5IVUo5QnpWSUI4SUt5TVNFWnV3THgxVkk3Y2ZoczNQd3pxN1FzX3p5eFp0dHdObWxnb3BWRWkzRENJVVoxRkUtamd5TGoxdUViQXdPNndLU1BGbGdzTFVwZDhUQ25tdzcwZ1pFSEdMYVBxaE8zS2tibnlmYXBwbWNMSzh2TW5BY3RvYmoweTJlSDk1WTMwbVZsMUtoVHZPd3hlRmdWeWpySmJnRGExUXZ4WjRfTkZYRm9iRDdwYU1KSnFtbW1GbF93bTVZY3JXcG5BdVNlSjVGMkhld1lKWTk2ZllqSDhhZnN4TjJXOXFHUk84cnpmSzJXV1FNN0k?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lRS12cG1VcnNvQlo1YWxwM1E2X3F6aUplUFZBX1VQd2RaVXAxaXhFVlBNM0JpUWZpS2JOSkt6NF9MU05rZzJSR0xkZ0tnV2xoSVhIT2VEUEh3N2N1LXpwMTlZaEfSAWpBVV95cUxQWUlYTFhOYmhieGVSLThWdzdGb0tPRHJERWd0bWozWTRzQ3ZRb2RZMlJUd09sZ3AwZVpyTTlRUndRM2F4MnlsSU9Qck8zNUcwQmhXdTFrLVZJU0lCeFJBMkFGc08zV2xuNXpB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "084f3ce8bbf9",
+      "title": "不只營養高還能排毒、提升免疫引發外界關注 藍綠藻成分翻紅社群掀討論",
+      "published": "2026-04-20T03:17:26+00:00",
+      "summary": "不只營養高還能排毒、提升免疫引發外界關注 藍綠藻成分翻紅社群掀討論&nbsp;&nbsp;品觀點",
+      "sources": [
+        {
+          "name": "品觀點",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQbXNkVEFfUVJXNTlOVFdPdmQ0andYb2x3OTJmRDlKVXM2WU1VZUsyVXQ3anJibHRZOEFPcEt6aHVVQXN1YU54YTBEanBRYkhSMy1nbA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -25,19 +58,6 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sMVZRem5uUC1jQUVMV0dPUTdndXo5bnVNaVlGUGJBeGVLR0ZwX1lBTm55NE9JMFB0eWwybU5VNmtjcThwWkk4Y2tLUVdTeU90VkE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6dd9df959986",
-      "title": "市政府加強登革熱疫苗接種活動",
-      "published": "2026-04-19T19:01:41+00:00",
-      "summary": "市政府加強登革熱疫苗接種活動&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQSjRjNjhrc3gyU3ExYUc2S29VbENJR3JPeHh0MWNRTzVNYjF0OGFrUE41YjNHdUpjUHlwYVZDb3FZLUd3NXNvdGZYX0JsZ2Nac2kwenZUYmJuZnNET0F0ajRqMmdTRUsteWc0Z196OVlJRjJYbVI2Y2taSWZjbTltbC04aHhLZGtrM2dWaXVabi05UGR3UFptUWlEVlpaWUNoZ29pOVRwbF93SGJIcjhZSFhuX2EydXdnNmJBTVFaZ2lvN0hjZGREeUFlWUpuVDZ2Y0trYldrYzRWUkg4bnhXVURaX20zemtFN3hmTVVWRVZsSkVfM3Q1akw3OW81QjM4Wk9wNnVhaFFlWHhpUTAxaXVrcW9uMlRUNXMwdGtGQzF0Z192cXc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -112,7 +132,7 @@
       "id": "d9a3214a1bac",
       "title": "巴基斯坦醫院爆愛滋醜聞！醫院涉重複使用針筒 臥底揭重用多達10次 331 童感染",
       "published": "2026-04-19T05:20:39+00:00",
-      "summary": "巴基斯坦醫院爆愛滋醜聞！醫院涉重複使用針筒 臥底揭重用多達10次 331 童感染&nbsp;&nbsp;巴士的報331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油&nbsp;&nbsp;鏡週刊Mirror Media扯！巴基斯坦醫院重複使用針筒 害331童感染愛滋&nbsp;&nbsp;自由時報巴國醫院共用針頭害331童染愛滋病！8歲童死前掙扎：像被丟進滾燙熱油&nbsp;&nbsp;造咖【331童染HIV！醫院爆疏失 BBC臥底直擊：針筒重複使用】 #國際 （示意圖／達志影像） 這醫院可以關掉了吧。(#起啵)&nbsp;&nbsp;Facebook",
+      "summary": "巴基斯坦醫院爆愛滋醜聞！醫院涉重複使用針筒 臥底揭重用多達10次 331 童感染&nbsp;&nbsp;巴士的報331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油&nbsp;&nbsp;鏡週刊Mirror Media扯！巴基斯坦醫院重複使用針筒 害331童感染愛滋&nbsp;&nbsp;自由時報巴國醫院共用針頭害331童染愛滋病！8歲童死前掙扎：像被丟進滾燙熱油&nbsp;&nbsp;造咖【331童染HIV！醫院爆疏失 BBC臥底直擊：針筒重複使用】 #國際 （示意圖／達志影像） 這醫院可以關掉了吧。(#起啵)&nbsp;&nbsp;facebook.com",
       "sources": [
         {
           "name": "巴士的報",
@@ -350,19 +370,6 @@
       ]
     },
     {
-      "id": "d988de449740",
-      "title": "「早晚1杯奶」成歷史？飲食指南調降建議量 每天1杯就夠 3類食物補鈣更強",
-      "published": "2026-04-19T00:05:57+00:00",
-      "summary": "「早晚1杯奶」成歷史？飲食指南調降建議量 每天1杯就夠 3類食物補鈣更強&nbsp;&nbsp;Yahoo新聞2026健康飲食新時代：從吃得飽走向「吃得精準」&nbsp;&nbsp;美南新聞《醫學大聯盟》「這物」危險等級最高！回歸「真正的食物」才能保命&nbsp;&nbsp;四季線上4gTV2026植物性飲食新趨勢：從吃素到精準營養的全面升級&nbsp;&nbsp;報新聞 Mega News2026國健署「飲食指南」出爐：2食物比例翻倍更健康！澱粉「這樣吃」才對- 營養好食&nbsp;&nbsp;health.tvbs.com.tw",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxPY05vcjFaUHNsNXJ6SUtCNURDRGxHTmdQNF9ESjBMQm1JTDJwdHlYenVhanFVUHJjMzdSVVRZdjFRTnJNampkS1hRR2pRdEZRc09GeHVWTG9USVAtVkFjMmdvT19hSHltdHFrNHJ2WWFuaEJ1YWRXVU1mSlYyb293ZURvY2FSTmZqZDdLclJYTF9tY1JoeF91cWpuSHZKSFhJVUNoVWJlNWJmeDFIUVdRQVNmVW9ndDREZGxZT1oweWtJcHdqdmNPUHdMUkRQb3pJcTZ4Sm1UbElCVnJkdndoaVR3LVI1a3lfdk8zYmJKSkY5NDhwWHRBcTZaeUctZllWd0ZWUkRMV1ZKVlU4OGg4YkhPVkMwdEo2UmtJSlVQWHdxWmZzNk5XY3NhNzBKeXdjR0pKbDJaeUZvT0dUc1dRbmZmUTNYeFR3M0RqMVl3Z0o2QlplRHFRSFBkU2hyaGN6MTJ6M2paZGdMM2xhMUZ1Wi1ZZXE3azhfTWpCZGYyTkRJekZ4VzZuRnRqLXd1LWI0WFVJdXltVnJpSHNXYlpGRHY2UjBQSlQyX1ZuQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "901a538fefba",
       "title": "3保健品搭藥一起吃大踩雷專家：恐出血、傷肝- 健康",
       "published": "2026-04-18T23:57:30+00:00",
@@ -401,37 +408,17 @@
       ]
     },
     {
-      "id": "6ac252fe80b7",
-      "title": "多吃水果和蔬菜與意外的肺癌風險有關",
-      "published": "2026-04-18T20:39:15+00:00",
-      "summary": "多吃水果和蔬菜與意外的肺癌風險有關&nbsp;&nbsp;citytimes.tw",
+      "id": "37128b42da1a",
+      "title": "2026健康飲食新時代：從吃得飽走向「吃得精準」",
+      "published": "2026-04-18T23:18:09+00:00",
+      "summary": "2026健康飲食新時代：從吃得飽走向「吃得精準」&nbsp;&nbsp;美南新聞前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOMjgwQWtEYmx6UzYyOWpublduYUJLcGkwUjViRUNkWjZhRmNESnprNVJXUkp0X29Tbnk4MHVVbU9PT0NkZkRiaHFfRDVYM1hobExDd29wWDcyZmViaGhKWXdYbnZRQUtEZXFDdDM0SEpvdm1wejF4T1JEdHJTNVRVclN0YjR3Z09hc2tfSGFLZnVkOFExZEpkeE5sWTBmclJYWndneVUteWRtUzF1di1nT0dvRWZyamtTLXZEckNQS3NmUjRKalR0RG0wQzI2ZTZ6QWVQNmFqc09GYUVvMV90OXgyZFE2VTV2SXU4ejhNVlBnbWY1SE8wUkRFd1dPcWZSX1k4UV9UcVJCYXJ2TlNvOXpRVFV3S3VxY0RrSS1xY0VHVS1iRnBPM3pR?oc=5"
+          "name": "美南新聞",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1tcTk2SUwwQXNtRGpaSmZFRzhIY1JjUlJMcFZWdHJhdC1mRHhXTHNGX0RQdmRiMjhyTzdwdjNHaEpQcjZf?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "e44c761c1e28",
