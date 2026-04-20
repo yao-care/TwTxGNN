@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-20T09:49:33.243629+00:00",
+  "fetched_at": "2026-04-20T11:13:37.498524+00:00",
   "count": 26,
   "news": [
     {
@@ -12,18 +12,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQYm1RY01iazBSY2dFR3NOUmhDTEp0UTA2UlRZdUlVTlhRMzJIMF94ejY4ODJxNnBMaTFDWndCZlV5aGowT0dkdVZVejdrOHBEZkZreGl2aHRpUFdWdVg0aVRuN3hvZWlwNktGRFpadnA2Y01Ya05sOVNEckI0M3FOcEctSlc0UHVyaHNxTFZQbHdSWjZ3aGZsYlI5cG5qLTJNLXJRbC1uM3N6SEZmYTJsUTRCS0NhTUl6VlF4eXZCYnN3Uko5Xy1RNk5Oa09MdURNanl1V2x2NXZiZHdqelV6N2pLOUY2Mk1mZF9DN2piQlFGWURYZnV2THpycGc0UDNCZ1JuMXZ2VElzUkw4NkNjODNNTWxnZzFIa3llUFRSczNTY2gzUlVSQk4xSW1WNGdNeGVQSmdTREo2cUFiOUxJaHVLdmo5NjBCMmEtX1FiNzZseXJ4TzRFQWRkMmtxYXREZkV3ZTBjMm5oN0k5SEpsWnEzbEtKZDZIWFpveW9xQWh0MnFhbFJnQkVaT0EtbFl5aUpYUEhfcU92dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "084f3ce8bbf9",
-      "title": "不只營養高還能排毒、提升免疫引發外界關注 藍綠藻成分翻紅社群掀討論 - 品觀點",
-      "published": "2026-04-20T03:17:26+00:00",
-      "summary": "不只營養高還能排毒、提升免疫引發外界關注 藍綠藻成分翻紅社群掀討論&nbsp;&nbsp;品觀點",
-      "sources": [
-        {
-          "name": "品觀點",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQbXNkVEFfUVJXNTlOVFdPdmQ0andYb2x3OTJmRDlKVXM2WU1VZUsyVXQ3anJibHRZOEFPcEt6aHVVQXN1YU54YTBEanBRYkhSMy1nbA?oc=5"
         }
       ]
     },
@@ -40,10 +28,22 @@
       ]
     },
     {
+      "id": "084f3ce8bbf9",
+      "title": "不只營養高還能排毒、提升免疫引發外界關注 藍綠藻成分翻紅社群掀討論 - 品觀點",
+      "published": "2026-04-20T03:17:26+00:00",
+      "summary": "不只營養高還能排毒、提升免疫引發外界關注 藍綠藻成分翻紅社群掀討論&nbsp;&nbsp;品觀點",
+      "sources": [
+        {
+          "name": "品觀點",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQbXNkVEFfUVJXNTlOVFdPdmQ0andYb2x3OTJmRDlKVXM2WU1VZUsyVXQ3anJibHRZOEFPcEt6aHVVQXN1YU54YTBEanBRYkhSMy1nbA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d9a3214a1bac",
       "title": "巴基斯坦醫院爆愛滋醜聞！醫院涉重複使用針筒 臥底揭重用多達10次 331 童感染 - 巴士的報",
       "published": "2026-04-19T05:20:39+00:00",
-      "summary": "巴基斯坦醫院爆愛滋醜聞！醫院涉重複使用針筒 臥底揭重用多達10次 331 童感染&nbsp;&nbsp;巴士的報恐怖醫界醜聞！反覆用同一根針筒…害331兒童「確診HIV」凸顯1醫療困境&nbsp;&nbsp;Yahoo新聞331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油&nbsp;&nbsp;鏡週刊Mirror Media巴國醫院共用針頭害331童染愛滋病！8歲童死前掙扎：像被丟進滾燙熱油&nbsp;&nbsp;造咖331童染HIV！巴基斯坦醫院爆疏失 BBC臥底直擊：針筒重複使用&nbsp;&nbsp;ettoday.net",
+      "summary": "巴基斯坦醫院爆愛滋醜聞！醫院涉重複使用針筒 臥底揭重用多達10次 331 童感染&nbsp;&nbsp;巴士的報恐怖醫界醜聞！反覆用同一根針筒…害331兒童「確診HIV」凸顯1醫療困境&nbsp;&nbsp;Yahoo新聞331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油&nbsp;&nbsp;鏡週刊Mirror Media巴國醫院共用針頭害331童染愛滋病！8歲童死前掙扎：像被丟進滾燙熱油&nbsp;&nbsp;造咖331童染HIV！巴基斯坦醫院爆疏失 BBC臥底直擊：針筒重複使用&nbsp;&nbsp;ETtoday新聞雲",
       "sources": [
         {
           "name": "巴士的報",
@@ -60,18 +60,6 @@
         {
           "name": "yesmedia.com.tw",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPeklaRDNwcS1sNE8wM2R5WWFCZG5UTWU3YmZfendKN2N2RzhiY24yRUtSNDl1Wk9IRG1oRjlfT3hQVFg1RkFtUHU3VHRUSTA1b1dJOV8yZm5wYWc3RGtsWnpsYmltUnhUU1B0c25mZVBWZ1Q0dmk5S0Z2eTlZN0dfQWpWMjY2eU1kTUJvYWpVSldXLTluZXlSM2pSblV1dTNtM21lZWpnVGJPNGFLM2pCeC1HclNCZzVxRDRzbHFHZmg3MEd3UXNoNVhMTkhRb205d1FkWjAtYnFZYU9qOWhYYzM2QllXZEpyY0FscklNV1BKUkcxREw1d01zTHhMeEsweC1vTENOdDlibXFoanZmNDlvYXdPLXFyZ3R3aThaUEhoUDFtRTVyVXV3RkpveFhvUGNEU29udFZ4QUQxSm1pc2ZZZ082UDg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e8a2621cb180",
-      "title": "50歲後想健康減重？專家教你不需放棄蛋糕和起司也能達成目標 - 元氣網",
-      "published": "2026-04-20T02:50:41+00:00",
-      "summary": "50歲後想健康減重？專家教你不需放棄蛋糕和起司也能達成目標&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTcktnclB4bHZQOVUxSnZxaVRKMDBjbmlHUlZybVhFeUs2cDNtWUFxVjVnVGRiTW1manRFZHd1ZjZycURVYS1aMGZ6Qk9qcFczNldkNzBfckFERUdF0gFiQVVfeXFMUHAySTdreDV6Sk9pTHNSbHVjckJQR3ZNM3VxYmJvNjhka2JGZURCRGNLS3FJeUpmcGphWldyNURGaHhYUl9KbVd6U3pXeXJwX1I1Z185X1V2WWtTb3kyb1c1UlE?oc=5"
         }
       ]
     },
@@ -256,6 +244,18 @@
       ]
     },
     {
+      "id": "9183e6cb69fe",
+      "title": "乳癌丨婆媳相繼患乳癌醫揭3大元兇誘發「家庭癌」 無血緣關係都中招！【一文睇清症狀／成因／檢查／療法】 - 香港經濟日報HKET",
+      "published": "2026-04-20T09:57:25+00:00",
+      "summary": "乳癌丨婆媳相繼患乳癌醫揭3大元兇誘發「家庭癌」 無血緣關係都中招！【一文睇清症狀／成因／檢查／療法】&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiuAVBVV95cUxOcHRYT3FhLWFDWWRNOEpjcFdhWGhBQVJRV0t4MFJEMmJLZ2JIekw5VXBaX2pfekI4bUl6ZzVEX0ZYNlMtSHhvbUY5cTNmWmdLS0NKdUUxSElRM1NTNVdKVmFpRDNiUTRZRmNBcml3WFRBQVRGUXhfdk5aVXNnSU5zNGZSa1hYOFplalFwZmRyYXVUajM1VXl2NUpvUXdPWmpUTG5XeFp3TTZ0MENYUmtvRmZLdzRjZk11bmhDaTdFa2RBN0NyLWJ6MEJtX29vX3RNcUs5bGQwd3l2VkRBY191TVktX2NkX09oZ251UWtRRFFRZVY5aFQ1SFRQR0ZDcmtrMk5JcGliNlpPWGJGUGwyN3cwMlg4Um9KN1ZJWmhoV2NjdU81RXdMa3dwa25KaGNhOWlUMUJDekJRSmRNYWlwN0xNSDdPcy1XNU4wVGZXeEVBQ0VzS2JlbHYyVHc4aFJUekNxdDdxY3Uyb25XNTA3aFliM3Q1NEZNeVNWb1lPd085RnVrLVV5Nk9VenRGQ0ktOWduWDJ1UmtaUmhhc3NqNEtsR0w3ckpKcEZISkZVRU96LWlDQWFBeWZJZGhRR1VrMkQ4SFdtVEtYUkM0WUpVVl81YVlhcmVLZ0VsdWk1NGJpel9zSU5lV2FWdGRRSnlSLU5saWIybElfLWxBNk5iQ09tblNWNVdKYzZreFU5dkdpZzJVVUI4VzlLRWhDMDBYczY5X0VacWRQcS1MdWxpejFoOV9pdC1tdV9zTXF1dTdHd0pVQ3dtdF8zbHZVV01TVUVwdk5BTGhSdEFrdV83UXNtRmtET2JHcjl1ZFJlWGg2ZXNpXy1Bek50OFp5eFFlcmVNTld1WDN1OWxVT1JIT2NIU0pxNE16S0RKcThyV3JGMU1JZ0c5VEdoT0l0UnhHald6UXhqQzU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b1de9e9e0745",
       "title": "哥倫比亞首例猴痘病例在安蒂奧基亞發現：MinSalud 是這麼說的 – Publimetro Columbia - citytimes.tw",
       "published": "2026-04-19T08:15:52+00:00",
@@ -280,18 +280,6 @@
       ]
     },
     {
-      "id": "5be7abe76675",
-      "title": "三分之一的城市印度人有脂肪肝的風險； ETHealthworld 健康專家警告人們焦慮日益加劇 - citytimes.tw",
-      "published": "2026-04-18T11:21:02+00:00",
-      "summary": "三分之一的城市印度人有脂肪肝的風險； ETHealthworld 健康專家警告人們焦慮日益加劇&nbsp;&nbsp;citytimes.tw2026 年世界肝臟日：這 3 個日常習慣不會傷害您的肝臟，酒精也不會，以下是扭轉肝臟的方法&nbsp;&nbsp;citytimes.tw2026 年世界肝臟日：您的糖尿病是一場無聲的危機嗎？ 《柳葉刀》稱每20 名印度人中就有1 人患有隱性肝硬化&nbsp;&nbsp;citytimes.tw2026 年世界肝臟日：您永遠不應該忽視的肝臟不適的「無聲」跡象 – 檢查何時需要進行檢測&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPX1liVjVlQWdLamVOdnhkaGZLa1E2ZnI1M3NrRWtLei1Bai05R3ZhN19IQ1BCVjBLNUdBYUtQN2RvS2RkQUI0aGRiRUxJd1NaRVA3TTVORzVITk10RmFiMTBzbVhIMHQyZktIZXFwaGo4RzBrY3lFWV9mUC1vbXBKVEVHZWdCeHNscmdHeXFSMk1zQmo2UDg1cTVCMUoxaGJaMldldUtfc2VpX3RyeGFlejF1QlNOQlk1NmVyNHIyZjJqajczOUc4dEJMOWZUS3RQUGVBSnU3MmtMWVBZSHRGdXE2cUVEYldPcDFNOUxlWDRlZ004R3NqRzJJeWlxNGFoOWZDRDRWSmFaX1JtTDhCOFpXLTY1RlBURHhQMjEzczV0OEwxYjB5OVo1dU9ZcGJUVjdkZjVWaGdYSEJvaDRiZEpSY2xlUjFWOE5fODlySTd3OWx5QzhWNkszNlN5cmVkWFE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e1a872798082",
       "title": "這種廉價藥物可以幫助第 1 型糖尿病患者減少胰島素用量 - citytimes.tw",
       "published": "2026-04-18T13:14:55+00:00",
@@ -300,6 +288,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOaVVkc2ZPcnJZUUEyaFBJY29UeGFFalBuY2V1QkZjcDVSUzhfeFYzdUczWTJUOWxBRHNUZEJoQm5ma09DdDFjZnI0QXRrczFfeTBpYTRTeWhBNHRvWlZQRlBHckJlcVQwa0Eta3RjdjM3OWVTai1sYjJVcTRwVFRjUTZFOFNOamdaUWdVcEhkeTlyTkowVW9VOUlodGtrQU5nT2JMWjk4QUc3UVVBaU1ZaUNiZWZvblVGbXBiTWNjc1NKZGNoa2QxYXNlZDJoX21oZG1SdDR6TnJUTmRWTVdLMkVVRFEwT09PaEdHYlA3clE5ekhYZ0pnUUlYbWU4NFdPOUxPZmNxVDI5V20tYU5ZLUl2TUVueG8xSVpiNW91b3dGQms1UFJRbVliVmQtbFBkYmU4VjlLem1rVDZnTHowckhpMkRteG92LVh4YmRWeUFxVGhvdi1KRk1tQUp1dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5be7abe76675",
+      "title": "三分之一的城市印度人有脂肪肝的風險； ETHealthworld 健康專家警告人們焦慮日益加劇 - citytimes.tw",
+      "published": "2026-04-18T11:21:02+00:00",
+      "summary": "三分之一的城市印度人有脂肪肝的風險； ETHealthworld 健康專家警告人們焦慮日益加劇&nbsp;&nbsp;citytimes.tw2026 年世界肝臟日：這 3 個日常習慣不會傷害您的肝臟，酒精也不會，以下是扭轉肝臟的方法&nbsp;&nbsp;citytimes.tw2026 年世界肝臟日：您的糖尿病是一場無聲的危機嗎？ 《柳葉刀》稱每20 名印度人中就有1 人患有隱性肝硬化&nbsp;&nbsp;citytimes.tw2026 年世界肝臟日：您永遠不應該忽視的肝臟不適的「無聲」跡象 – 檢查何時需要進行檢測&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPX1liVjVlQWdLamVOdnhkaGZLa1E2ZnI1M3NrRWtLei1Bai05R3ZhN19IQ1BCVjBLNUdBYUtQN2RvS2RkQUI0aGRiRUxJd1NaRVA3TTVORzVITk10RmFiMTBzbVhIMHQyZktIZXFwaGo4RzBrY3lFWV9mUC1vbXBKVEVHZWdCeHNscmdHeXFSMk1zQmo2UDg1cTVCMUoxaGJaMldldUtfc2VpX3RyeGFlejF1QlNOQlk1NmVyNHIyZjJqajczOUc4dEJMOWZUS3RQUGVBSnU3MmtMWVBZSHRGdXE2cUVEYldPcDFNOUxlWDRlZ004R3NqRzJJeWlxNGFoOWZDRDRWSmFaX1JtTDhCOFpXLTY1RlBURHhQMjEzczV0OEwxYjB5OVo1dU9ZcGJUVjdkZjVWaGdYSEJvaDRiZEpSY2xlUjFWOE5fODlySTd3OWx5QzhWNkszNlN5cmVkWFE?oc=5"
         }
       ]
     },

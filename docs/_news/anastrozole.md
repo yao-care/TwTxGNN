@@ -14,7 +14,7 @@ permalink: /news/anastrozole/
 ---
 
 <p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
-<strong>Anastrozole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Anastrozole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/anastrozole/
 <li><strong>原適應症</strong>：停經後婦女晚期乳癌、荷爾蒙接受器陽性早期乳癌輔助治療</li>
 <li><strong>證據等級</strong>：L1</li>
 <li><strong>預測適應症</strong>（6 個）：<ul>
-<li>female breast carcinoma（99.7%）</li>
+<li class="indication-matched">female breast carcinoma（99.7%）<span class="indication-tag">📰 乳癌</span></li>
 <li>neuroblastoma（99.5%）</li>
 <li>vertebral anomalies and variable endocrine and T-cell dysfunction（99.4%）</li>
 <li>ganglioneuroblastoma (disease)（99.4%）</li>
@@ -38,7 +38,15 @@ permalink: /news/anastrozole/
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [乳癌丨婆媳相繼患乳癌醫揭3大元兇誘發「家庭癌」 無血緣關係都中招！【一文睇清症狀／成因／檢查／療法】](https://news.google.com/rss/articles/CBMiuAVBVV95cUxOcHRYT3FhLWFDWWRNOEpjcFdhWGhBQVJRV0t4MFJEMmJLZ2JIekw5VXBaX2pfekI4bUl6ZzVEX0ZYNlMtSHhvbUY5cTNmWmdLS0NKdUUxSElRM1NTNVdKVmFpRDNiUTRZRmNBcml3WFRBQVRGUXhfdk5aVXNnSU5zNGZSa1hYOFplalFwZmRyYXVUajM1VXl2NUpvUXdPWmpUTG5XeFp3TTZ0MENYUmtvRmZLdzRjZk11bmhDaTdFa2RBN0NyLWJ6MEJtX29vX3RNcUs5bGQwd3l2VkRBY191TVktX2NkX09oZ251UWtRRFFRZVY5aFQ1SFRQR0ZDcmtrMk5JcGliNlpPWGJGUGwyN3cwMlg4Um9KN1ZJWmhoV2NjdU81RXdMa3dwa25KaGNhOWlUMUJDekJRSmRNYWlwN0xNSDdPcy1XNU4wVGZXeEVBQ0VzS2JlbHYyVHc4aFJUekNxdDdxY3Uyb25XNTA3aFliM3Q1NEZNeVNWb1lPd085RnVrLVV5Nk9VenRGQ0ktOWduWDJ1UmtaUmhhc3NqNEtsR0w3ckpKcEZISkZVRU96LWlDQWFBeWZJZGhRR1VrMkQ4SFdtVEtYUkM0WUpVVl81YVlhcmVLZ0VsdWk1NGJpel9zSU5lV2FWdGRRSnlSLU5saWIybElfLWxBNk5iQ09tblNWNVdKYzZreFU5dkdpZzJVVUI4VzlLRWhDMDBYczY5X0VacWRQcS1MdWxpejFoOV9pdC1tdV9zTXF1dTdHd0pVQ3dtdF8zbHZVV01TVUVwdk5BTGhSdEFrdV83UXNtRmtET2JHcjl1ZFJlWGg2ZXNpXy1Bek50OFp5eFFlcmVNTld1WDN1OWxVT1JIT2NIU0pxNE16S0RKcThyV3JGMU1JZ0c5VEdoT0l0UnhHald6UXhqQzU?oc=5)
+
+2026-04-20 <span class="news-indication-tag">乳癌</span>
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiuAVBVV95cUxOcHRYT3FhLWFDWWRNOEpjcFdhWGhBQVJRV0t4MFJEMmJLZ2JIekw5VXBaX2pfekI4bUl6ZzVEX0ZYNlMtSHhvbUY5cTNmWmdLS0NKdUUxSElRM1NTNVdKVmFpRDNiUTRZRmNBcml3WFRBQVRGUXhfdk5aVXNnSU5zNGZSa1hYOFplalFwZmRyYXVUajM1VXl2NUpvUXdPWmpUTG5XeFp3TTZ0MENYUmtvRmZLdzRjZk11bmhDaTdFa2RBN0NyLWJ6MEJtX29vX3RNcUs5bGQwd3l2VkRBY191TVktX2NkX09oZ251UWtRRFFRZVY5aFQ1SFRQR0ZDcmtrMk5JcGliNlpPWGJGUGwyN3cwMlg4Um9KN1ZJWmhoV2NjdU81RXdMa3dwa25KaGNhOWlUMUJDekJRSmRNYWlwN0xNSDdPcy1XNU4wVGZXeEVBQ0VzS2JlbHYyVHc4aFJUekNxdDdxY3Uyb25XNTA3aFliM3Q1NEZNeVNWb1lPd085RnVrLVV5Nk9VenRGQ0ktOWduWDJ1UmtaUmhhc3NqNEtsR0w3ckpKcEZISkZVRU96LWlDQWFBeWZJZGhRR1VrMkQ4SFdtVEtYUkM0WUpVVl81YVlhcmVLZ0VsdWk1NGJpel9zSU5lV2FWdGRRSnlSLU5saWIybElfLWxBNk5iQ09tblNWNVdKYzZreFU5dkdpZzJVVUI4VzlLRWhDMDBYczY5X0VacWRQcS1MdWxpejFoOV9pdC1tdV9zTXF1dTdHd0pVQ3dtdF8zbHZVV01TVUVwdk5BTGhSdEFrdV83UXNtRmtET2JHcjl1ZFJlWGg2ZXNpXy1Bek50OFp5eFFlcmVNTld1WDN1OWxVT1JIT2NIU0pxNE16S0RKcThyV3JGMU1JZ0c5VEdoT0l0UnhHald6UXhqQzU?oc=5)
+
+---
 
 ### [運動與布洛芬對癌症患者化療腦影響的研究進展與挑戰 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxOa2ZnVDJtRW5TNHFwWDZNT2YzX2g5MkNMZmxUcVNpel84WUczWUctWFN4cFlkYUQwSmoyb3Q0Y1RzR3VwVVd1U0dnVlFSVWpDRkpIVERUM2xZNWo1bVlDRHpVaWlVQ1BJeEZtcDZ3OUZONEJFZ1MwSGt5SkRFVWktc1hibFh4WGZwM0hNVkF2ckpnc1B0c0hoOVhNb1loSFVqWGllSUUyY0QxWUFhbmJ0UlBnTkhQbnE1WXdTMG5kd3JQTGo0UTRKN3hTeVdhNjFRTGlXU3R2bS0wR2xldDdoOEdadjZWNE5kVjQ5elBsQ3JZTU9GeXM3dFdid3V3bzI4bTc2bmRSMUtwRWxWM3prZGsya2pheU4zTGNWVFhpVFpjdlJiT2lqZjFPeFpuX3J3TFpmcnRjYVlwWEZHMVVRajYwei1RQQ?oc=5)
 
