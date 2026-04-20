@@ -14,7 +14,7 @@ permalink: /news/oxytetracycline/
 ---
 
 <p class="key-answer" data-question="Oxytetracycline 有什麼相關新聞？">
-<strong>Oxytetracycline</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oxytetracycline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/oxytetracycline/
 <p><a href="{{ '/drugs/oxytetracycline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [運動與布洛芬對癌症患者化療腦影響的研究進展與挑戰 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxOa2ZnVDJtRW5TNHFwWDZNT2YzX2g5MkNMZmxUcVNpel84WUczWUctWFN4cFlkYUQwSmoyb3Q0Y1RzR3VwVVd1U0dnVlFSVWpDRkpIVERUM2xZNWo1bVlDRHpVaWlVQ1BJeEZtcDZ3OUZONEJFZ1MwSGt5SkRFVWktc1hibFh4WGZwM0hNVkF2ckpnc1B0c0hoOVhNb1loSFVqWGllSUUyY0QxWUFhbmJ0UlBnTkhQbnE1WXdTMG5kd3JQTGo0UTRKN3hTeVdhNjFRTGlXU3R2bS0wR2xldDdoOEdadjZWNE5kVjQ5elBsQ3JZTU9GeXM3dFdid3V3bzI4bTc2bmRSMUtwRWxWM3prZGsya2pheU4zTGNWVFhpVFpjdlJiT2lqZjFPeFpuX3J3TFpmcnRjYVlwWEZHMVVRajYwei1RQQ?oc=5)
 
@@ -52,19 +52,11 @@ permalink: /news/oxytetracycline/
 
 ---
 
-### [抗生素失效危機全球蔓延 世衛警告2050年死亡恐超癌症](https://news.google.com/rss/articles/CBMi9gJBVV95cUxQUDRMZWtkMDA5Y0tqTzF3SC13TV9LWWhxZWlpTzM4NXQ2VF94MEJKQ1pELVhFVFBxTERlNlhfRTRBVlNBU21vc000WDI5cVdlYmJobmZMZlJ1amJWdy1xSDJmZWxLRWtTNmJYdzdEbTZYeUNZRHpFZ1BOUXFpUmNNZ0JQS0RVNzJtNUp1NDZiUHotUDJRVlRncFNpWnZ1emxZYUZMNGhqN2dDaDZFSTRDZFBvVG0yZVVZdW5MZXlNMEI2ZzItRzJIRTNXc2JiMVlmQU55QmNqWHhwdE9rMGlaZUtHTUtIOEVLX3ZlaG8xck1FWHdPb0VmemFkWjNubUFsSmdjV0FiTTItSl91UlExTFplOUpYQjZEWUpRcWIxTVowTHNLT251eDBfdVZIS0RBU1RMT3ZMaUZhWmtXN3NSTkROcjhmUFNQTFFoWmdHZTdvNkRKTVhDQ0xxRWRwbFVQcXhjMEsxbEs1YzU1MWpZLTRrN0pHdw?oc=5)
+### [抗生素失效危機全球蔓延 世衛警告2050年死亡恐超癌症](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNcURMNk5LUmsxd2NGNGp5VzVQVEdOekpMbzNoQ05IRVkwWU9wNXkxSkRuTXh5YVJWdXg2cWUyQTBraUdjVEQxSzNoQUZZMmotOVNnaHdIdkFIU0ZnQzg3U3ZoOFZtS3NPWEQwVUNkMExFTGlIcWU5VXptcnpWdTk3TnBYOXBZNGFuZ2VfUkNjXzhZYVByeW51d3VjVzM4MFo0aV9WeHBjb3l5RDRQNmVTM29pVWZfckFRMG44VnlTV3dDa0NvTE8xLUU3NmI1SmJYc1E0ZmtrRFZjemdRNTlnODU1T1B0WThqcHRhdEZnYl95NjctLWNGRGFzZFFoRGI0dy1iV2dBVV9sSjNILW9CX2I5SnVURzkycUFJOW1td0wwSTBSTzFPaVR3ZnFCVDZNSThVbDl6dWpkcHRqa0JUOXFMcXhLOXhIbG9OUE1GWS1CdnctTTJRRDhsTS1mdmZzdGZSZA?oc=5)
 
 2026-04-20 <span class="news-indication-tag">癌症</span>
 
-來源：[行銷人](https://news.google.com/rss/articles/CBMi9gJBVV95cUxQUDRMZWtkMDA5Y0tqTzF3SC13TV9LWWhxZWlpTzM4NXQ2VF94MEJKQ1pELVhFVFBxTERlNlhfRTRBVlNBU21vc000WDI5cVdlYmJobmZMZlJ1amJWdy1xSDJmZWxLRWtTNmJYdzdEbTZYeUNZRHpFZ1BOUXFpUmNNZ0JQS0RVNzJtNUp1NDZiUHotUDJRVlRncFNpWnZ1emxZYUZMNGhqN2dDaDZFSTRDZFBvVG0yZVVZdW5MZXlNMEI2ZzItRzJIRTNXc2JiMVlmQU55QmNqWHhwdE9rMGlaZUtHTUtIOEVLX3ZlaG8xck1FWHdPb0VmemFkWjNubUFsSmdjV0FiTTItSl91UlExTFplOUpYQjZEWUpRcWIxTVowTHNLT251eDBfdVZIS0RBU1RMT3ZMaUZhWmtXN3NSTkROcjhmUFNQTFFoWmdHZTdvNkRKTVhDQ0xxRWRwbFVQcXhjMEsxbEs1YzU1MWpZLTRrN0pHdw?oc=5)
-
----
-
-### [男性必看！醫曝「黃金射精次數」還能防攝護腺癌](https://news.google.com/rss/articles/CBMifkFVX3lxTE45clU0M2x0cjFGdWtfNXlQRW43aDdNa2c5NGhWNFJSVE44RGpkTXEwTnRKaDhFa0wtUllMTWc2eUZkMHhja05yTXdRZFp4dkVWT3ZwMjViNXpkTWM1UzFwdXN1cDRNYktIWlJzM0lucFNsbDYyMTcyZHE0OE83Zw?oc=5)
-
-2026-04-19 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心梗</span>
-
-來源：[壹蘋新聞網](https://news.google.com/rss/articles/CBMifkFVX3lxTE45clU0M2x0cjFGdWtfNXlQRW43aDdNa2c5NGhWNFJSVE44RGpkTXEwTnRKaDhFa0wtUllMTWc2eUZkMHhja05yTXdRZFp4dkVWT3ZwMjViNXpkTWM1UzFwdXN1cDRNYktIWlJzM0lucFNsbDYyMTcyZHE0OE83Zw?oc=5)
+來源：[商傳媒](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNcURMNk5LUmsxd2NGNGp5VzVQVEdOekpMbzNoQ05IRVkwWU9wNXkxSkRuTXh5YVJWdXg2cWUyQTBraUdjVEQxSzNoQUZZMmotOVNnaHdIdkFIU0ZnQzg3U3ZoOFZtS3NPWEQwVUNkMExFTGlIcWU5VXptcnpWdTk3TnBYOXBZNGFuZ2VfUkNjXzhZYVByeW51d3VjVzM4MFo0aV9WeHBjb3l5RDRQNmVTM29pVWZfckFRMG44VnlTV3dDa0NvTE8xLUU3NmI1SmJYc1E0ZmtrRFZjemdRNTlnODU1T1B0WThqcHRhdEZnYl95NjctLWNGRGFzZFFoRGI0dy1iV2dBVV9sSjNILW9CX2I5SnVURzkycUFJOW1td0wwSTBSTzFPaVR3ZnFCVDZNSThVbDl6dWpkcHRqa0JUOXFMcXhLOXhIbG9OUE1GWS1CdnctTTJRRDhsTS1mdmZzdGZSZA?oc=5)
 
 ---
 

@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-20T11:13:37.498524+00:00",
-  "count": 26,
+  "fetched_at": "2026-04-20T13:08:38.903011+00:00",
+  "count": 23,
   "news": [
-    {
-      "id": "a1cbb24828e0",
-      "title": "不吸菸年輕人肺癌增！ 研究：高蔬果攝取者確診率偏高但原因未明 - Yahoo新聞",
-      "published": "2026-04-20T03:28:40+00:00",
-      "summary": "不吸菸年輕人肺癌增！ 研究：高蔬果攝取者確診率偏高但原因未明&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQYm1RY01iazBSY2dFR3NOUmhDTEp0UTA2UlRZdUlVTlhRMzJIMF94ejY4ODJxNnBMaTFDWndCZlV5aGowT0dkdVZVejdrOHBEZkZreGl2aHRpUFdWdVg0aVRuN3hvZWlwNktGRFpadnA2Y01Ya05sOVNEckI0M3FOcEctSlc0UHVyaHNxTFZQbHdSWjZ3aGZsYlI5cG5qLTJNLXJRbC1uM3N6SEZmYTJsUTRCS0NhTUl6VlF4eXZCYnN3Uko5Xy1RNk5Oa09MdURNanl1V2x2NXZiZHdqelV6N2pLOUY2Mk1mZF9DN2piQlFGWURYZnV2THpycGc0UDNCZ1JuMXZ2VElzUkw4NkNjODNNTWxnZzFIa3llUFRSczNTY2gzUlVSQk4xSW1WNGdNeGVQSmdTREo2cUFiOUxJaHVLdmo5NjBCMmEtX1FiNzZseXJ4TzRFQWRkMmtxYXREZkV3ZTBjMm5oN0k5SEpsWnEzbEtKZDZIWFpveW9xQWh0MnFhbFJnQkVaT0EtbFl5aUpYUEhfcU92dw?oc=5"
-        }
-      ]
-    },
     {
       "id": "127445c8d7fb",
       "title": "喝氣泡水能減肥嗎？效果有限 喝多反釀脹氣、胃食道逆流 - 科技島",
@@ -24,6 +12,18 @@
         {
           "name": "科技島",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwSU1uRmc1cWpYQWxXNFJiSElfbDN5Z0U1RS16amtBU2twMVhpTkxsczhIZXd0c0xweUxTV3M1a1NYRUpvTUVlOF82SFVQSEttMFh3OWRLRVNiZnF4ZXg4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a1cbb24828e0",
+      "title": "不吸菸年輕人肺癌增！ 研究：高蔬果攝取者確診率偏高但原因未明 - Yahoo新聞",
+      "published": "2026-04-20T03:28:40+00:00",
+      "summary": "不吸菸年輕人肺癌增！ 研究：高蔬果攝取者確診率偏高但原因未明&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQYm1RY01iazBSY2dFR3NOUmhDTEp0UTA2UlRZdUlVTlhRMzJIMF94ejY4ODJxNnBMaTFDWndCZlV5aGowT0dkdVZVejdrOHBEZkZreGl2aHRpUFdWdVg0aVRuN3hvZWlwNktGRFpadnA2Y01Ya05sOVNEckI0M3FOcEctSlc0UHVyaHNxTFZQbHdSWjZ3aGZsYlI5cG5qLTJNLXJRbC1uM3N6SEZmYTJsUTRCS0NhTUl6VlF4eXZCYnN3Uko5Xy1RNk5Oa09MdURNanl1V2x2NXZiZHdqelV6N2pLOUY2Mk1mZF9DN2piQlFGWURYZnV2THpycGc0UDNCZ1JuMXZ2VElzUkw4NkNjODNNTWxnZzFIa3llUFRSczNTY2gzUlVSQk4xSW1WNGdNeGVQSmdTREo2cUFiOUxJaHVLdmo5NjBCMmEtX1FiNzZseXJ4TzRFQWRkMmtxYXREZkV3ZTBjMm5oN0k5SEpsWnEzbEtKZDZIWFpveW9xQWh0MnFhbFJnQkVaT0EtbFl5aUpYUEhfcU92dw?oc=5"
         }
       ]
     },
@@ -64,18 +64,6 @@
       ]
     },
     {
-      "id": "2bb88ae71d7f",
-      "title": "腦芯片技術揭示帕金森病蛋白對大腦血管屏障的影響 - GeneOnline News",
-      "published": "2026-04-18T12:05:36+00:00",
-      "summary": "腦芯片技術揭示帕金森病蛋白對大腦血管屏障的影響&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQR1hWZFFkMjZmdWh0WUNuTXQxT183ZklxUUxBQVFmUFFubTBSMGhPVnRNaU90b2k4YUVVQW9qV09HSGhUYWhtaU45eEpOVjZlbTN5Mm1sSnp1cTFfUlliZklLUnhscUtncFhJazJqYlFoRGhaalAtOVp1aE92TTZBR3dNNVZNVlFQNTB2dkhLM0pTSHdTVk8wNEpoakszWXBFWGRfUkFHa2NwTXQ1QTZXTTA4MDVZWjd2bjNwRjhhNGRCRkxVZFoyVmZ2TXZHR2pXVHFWUUNfTzlQNTFHbnhET3ZULThzRy1leFA1cDhVb19kUHhNNW0zMjg0clQ0d2h0MTMxOGtvWTBmYTIwMExTVzRDRWJoaDY3d2J0Ty1scXhJbHczUjBxTE9FLVZlZ1VDem1qeFBkbzR2MW8xOTlYeWs1UUw0QQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "901a538fefba",
       "title": "3保健品搭藥一起吃大踩雷專家：恐出血、傷肝- 健康 - 中時新聞網",
       "published": "2026-04-18T23:57:30+00:00",
@@ -112,18 +100,6 @@
       ]
     },
     {
-      "id": "5f6e5ca2ea5b",
-      "title": "抗生素失效危機全球蔓延 世衛警告2050年死亡恐超癌症 - 行銷人",
-      "published": "2026-04-20T06:37:50+00:00",
-      "summary": "抗生素失效危機全球蔓延 世衛警告2050年死亡恐超癌症&nbsp;&nbsp;行銷人前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQUDRMZWtkMDA5Y0tqTzF3SC13TV9LWWhxZWlpTzM4NXQ2VF94MEJKQ1pELVhFVFBxTERlNlhfRTRBVlNBU21vc000WDI5cVdlYmJobmZMZlJ1amJWdy1xSDJmZWxLRWtTNmJYdzdEbTZYeUNZRHpFZ1BOUXFpUmNNZ0JQS0RVNzJtNUp1NDZiUHotUDJRVlRncFNpWnZ1emxZYUZMNGhqN2dDaDZFSTRDZFBvVG0yZVVZdW5MZXlNMEI2ZzItRzJIRTNXc2JiMVlmQU55QmNqWHhwdE9rMGlaZUtHTUtIOEVLX3ZlaG8xck1FWHdPb0VmemFkWjNubUFsSmdjV0FiTTItSl91UlExTFplOUpYQjZEWUpRcWIxTVowTHNLT251eDBfdVZIS0RBU1RMT3ZMaUZhWmtXN3NSTkROcjhmUFNQTFFoWmdHZTdvNkRKTVhDQ0xxRWRwbFVQcXhjMEsxbEs1YzU1MWpZLTRrN0pHdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3e341e009667",
       "title": "它會導致健康風險。了解「陽光維生素」缺乏對身體的影響 - arch-web.com.tw",
       "published": "2026-04-19T17:00:46+00:00",
@@ -132,6 +108,18 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOLVJyRURZcFRLMXNYT1hOVzhkY3JXVmlockU4ejFhN1YyLTdlYmdEbUw2TnZPdmV0NXp4SUdaRkJzZUFNRWlDdXN2d09lclFNWGJKdG9uLU5DZGdjRC1JU3dqVXBZRVA5dHRIQkktNTNGMkw4T1N3d1pMYi1MVllWV3dvWkJFVTNEUmpoQ2pNTnlsX2FuMk1mbnk3bG5IU2pGTk8zYUYycUQwRHB2Mm52VG05SjBtZHhBNkFiRkE0eHBwX3FHeEgtdXBnR1o0ZzgxNWxzU1JSQnV1OW1BUHNNMGRGc3F1cVdmYkNYWG14Z0M0VXdTeGxNWWRRQlJHeWhZZ1UxY3Vwb1htS3QybnBMbFJmaW9KejREVXhmVi11XzZsZmF6RTN3cDJxalc5b2JMQ0dyb0s4NWJYdEsyd0JjZUxvS08xNXNVTm9IZ0Vfb2E2THpEdGhYOFc0NHdpM0QyNDhGaUdzSk1ZQ3hNWm5VUHREUGs1anJwTjJSbmhrd3NTWmFOSFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5968bd202cf7",
+      "title": "抗生素失效危機全球蔓延 世衛警告2050年死亡恐超癌症 - 商傳媒",
+      "published": "2026-04-20T03:57:00+00:00",
+      "summary": "抗生素失效危機全球蔓延 世衛警告2050年死亡恐超癌症&nbsp;&nbsp;商傳媒前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNcURMNk5LUmsxd2NGNGp5VzVQVEdOekpMbzNoQ05IRVkwWU9wNXkxSkRuTXh5YVJWdXg2cWUyQTBraUdjVEQxSzNoQUZZMmotOVNnaHdIdkFIU0ZnQzg3U3ZoOFZtS3NPWEQwVUNkMExFTGlIcWU5VXptcnpWdTk3TnBYOXBZNGFuZ2VfUkNjXzhZYVByeW51d3VjVzM4MFo0aV9WeHBjb3l5RDRQNmVTM29pVWZfckFRMG44VnlTV3dDa0NvTE8xLUU3NmI1SmJYc1E0ZmtrRFZjemdRNTlnODU1T1B0WThqcHRhdEZnYl95NjctLWNGRGFzZFFoRGI0dy1iV2dBVV9sSjNILW9CX2I5SnVURzkycUFJOW1td0wwSTBSTzFPaVR3ZnFCVDZNSThVbDl6dWpkcHRqa0JUOXFMcXhLOXhIbG9OUE1GWS1CdnctTTJRRDhsTS1mdmZzdGZSZA?oc=5"
         }
       ]
     },
@@ -163,7 +151,7 @@
       "id": "1e11e0290dfb",
       "title": "男性必看！醫曝「黃金射精次數」還能防攝護腺癌 - 壹蘋新聞網",
       "published": "2026-04-19T04:59:00+00:00",
-      "summary": "男性必看！醫曝「黃金射精次數」還能防攝護腺癌&nbsp;&nbsp;壹蘋新聞網每月清槍21次「降33%攝護腺癌」！ 醫揭各年齡建議次數&nbsp;&nbsp;ETtoday健康雲規律性行為護心又長壽每周2次以上心臟病風險減半- 健康&nbsp;&nbsp;中時新聞網前列腺癌預防：哈佛研究證實每月射精21次可降22%風險&nbsp;&nbsp;Singtaousa男性必看！研究：「性愛這頻率」大降50%心梗風險 少了害短命&nbsp;&nbsp;祝你健康",
+      "summary": "男性必看！醫曝「黃金射精次數」還能防攝護腺癌&nbsp;&nbsp;壹蘋新聞網前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "壹蘋新聞網",
@@ -244,14 +232,14 @@
       ]
     },
     {
-      "id": "9183e6cb69fe",
-      "title": "乳癌丨婆媳相繼患乳癌醫揭3大元兇誘發「家庭癌」 無血緣關係都中招！【一文睇清症狀／成因／檢查／療法】 - 香港經濟日報HKET",
+      "id": "d0c49a50103b",
+      "title": "乳癌丨婆媳相繼患乳癌醫揭3大元兇誘發「家庭癌」 無血緣關係都中招！【一文睇清症狀／成因／自我檢查】 - 香港經濟日報HKET",
       "published": "2026-04-20T09:57:25+00:00",
-      "summary": "乳癌丨婆媳相繼患乳癌醫揭3大元兇誘發「家庭癌」 無血緣關係都中招！【一文睇清症狀／成因／檢查／療法】&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "乳癌丨婆媳相繼患乳癌醫揭3大元兇誘發「家庭癌」 無血緣關係都中招！【一文睇清症狀／成因／自我檢查】&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiuAVBVV95cUxOcHRYT3FhLWFDWWRNOEpjcFdhWGhBQVJRV0t4MFJEMmJLZ2JIekw5VXBaX2pfekI4bUl6ZzVEX0ZYNlMtSHhvbUY5cTNmWmdLS0NKdUUxSElRM1NTNVdKVmFpRDNiUTRZRmNBcml3WFRBQVRGUXhfdk5aVXNnSU5zNGZSa1hYOFplalFwZmRyYXVUajM1VXl2NUpvUXdPWmpUTG5XeFp3TTZ0MENYUmtvRmZLdzRjZk11bmhDaTdFa2RBN0NyLWJ6MEJtX29vX3RNcUs5bGQwd3l2VkRBY191TVktX2NkX09oZ251UWtRRFFRZVY5aFQ1SFRQR0ZDcmtrMk5JcGliNlpPWGJGUGwyN3cwMlg4Um9KN1ZJWmhoV2NjdU81RXdMa3dwa25KaGNhOWlUMUJDekJRSmRNYWlwN0xNSDdPcy1XNU4wVGZXeEVBQ0VzS2JlbHYyVHc4aFJUekNxdDdxY3Uyb25XNTA3aFliM3Q1NEZNeVNWb1lPd085RnVrLVV5Nk9VenRGQ0ktOWduWDJ1UmtaUmhhc3NqNEtsR0w3ckpKcEZISkZVRU96LWlDQWFBeWZJZGhRR1VrMkQ4SFdtVEtYUkM0WUpVVl81YVlhcmVLZ0VsdWk1NGJpel9zSU5lV2FWdGRRSnlSLU5saWIybElfLWxBNk5iQ09tblNWNVdKYzZreFU5dkdpZzJVVUI4VzlLRWhDMDBYczY5X0VacWRQcS1MdWxpejFoOV9pdC1tdV9zTXF1dTdHd0pVQ3dtdF8zbHZVV01TVUVwdk5BTGhSdEFrdV83UXNtRmtET2JHcjl1ZFJlWGg2ZXNpXy1Bek50OFp5eFFlcmVNTld1WDN1OWxVT1JIT2NIU0pxNE16S0RKcThyV3JGMU1JZ0c5VEdoT0l0UnhHald6UXhqQzU?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxOY214RnQtSkFwaG5iQjBtbEY0dGZMQko0NDlqRzBmTHRqLUI2cVBWZ1g1Zk8tMFlpWGVlWkw0Q3ZyTXAtVjc1X0dsQ2RKV0hSOUFVRWdDTlNqcjM1c2d4UDNlSUk1UnZ6UFI5a0hGMmhvdWFpMEdkVHlSaXJJTDNKQ092YmVTMlQyWUYxTi1yOU9zZ1FrZHdwOVpwR19YVV9JaE5lb1Y4WG9TQjZwRFZUd3hCeHJLR0FfbHpoT3lNTklpVlEwYXZBcnFDVWU4SDJ1MW91emxZbm5Ga21Gb2Jub1lhaVZoZmRYY2d2TW51ZG9jV3gyMnJkdDdXcG56RVo0ck0wbEJsQmxDa3lyMjlRYmZBVXI4Wl9zaS1IT2lpMzBGcXh4YVJIellrcmtBbjZWbVlrU3JRcm9YY0E0N3RmZlpWaWJoYTI5M0ppTVBmZTBHTWZLeERRNXJ1WFFVRXp5V1g1Y0djNldJWVRHNU9zMDRWVzJtS2tqMGltY3pxTmVvRVVoTE9BTVF5UTRENVBCOWlPdUk4bVJwTDdRckF4NDNMNXdidkNVdjFpOTgzTnhUMGVGV1d0Qk5kRjZtb011WTVuZ1MzeVN3ZUxoZ3I0NDRleEtNa1NTU0ZzTzE5OUVqUTF4UjNIMmxDWVg4Q0lKYXdEazlCbmJ6Zm12SFdkSUhCaUUwMjM4VVVDZlowTkVqS0wyWTQzeVIxb0JFLW41eUdfX0VUTG9VNy1hSHpUZUd3aGt1NnFIcTgyMGlUZnNFNHhkQkFlckdST3NBejMxYjNqVk94SGgwTHZZZUcwSjRER19GQk9pZGFudTAwaEtHUEwwSktkdVFCZzl0QXpOdl9TQ0ItTVQ1a0Q1LUFjVTRDR3JubHdxU2tpYm5aYw?oc=5"
         }
       ]
     },
@@ -276,30 +264,6 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sMVZRem5uUC1jQUVMV0dPUTdndXo5bnVNaVlGUGJBeGVLR0ZwX1lBTm55NE9JMFB0eWwybU5VNmtjcThwWkk4Y2tLUVdTeU90VkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e1a872798082",
-      "title": "這種廉價藥物可以幫助第 1 型糖尿病患者減少胰島素用量 - citytimes.tw",
-      "published": "2026-04-18T13:14:55+00:00",
-      "summary": "這種廉價藥物可以幫助第 1 型糖尿病患者減少胰島素用量&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOaVVkc2ZPcnJZUUEyaFBJY29UeGFFalBuY2V1QkZjcDVSUzhfeFYzdUczWTJUOWxBRHNUZEJoQm5ma09DdDFjZnI0QXRrczFfeTBpYTRTeWhBNHRvWlZQRlBHckJlcVQwa0Eta3RjdjM3OWVTai1sYjJVcTRwVFRjUTZFOFNOamdaUWdVcEhkeTlyTkowVW9VOUlodGtrQU5nT2JMWjk4QUc3UVVBaU1ZaUNiZWZvblVGbXBiTWNjc1NKZGNoa2QxYXNlZDJoX21oZG1SdDR6TnJUTmRWTVdLMkVVRFEwT09PaEdHYlA3clE5ekhYZ0pnUUlYbWU4NFdPOUxPZmNxVDI5V20tYU5ZLUl2TUVueG8xSVpiNW91b3dGQms1UFJRbVliVmQtbFBkYmU4VjlLem1rVDZnTHowckhpMkRteG92LVh4YmRWeUFxVGhvdi1KRk1tQUp1dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5be7abe76675",
-      "title": "三分之一的城市印度人有脂肪肝的風險； ETHealthworld 健康專家警告人們焦慮日益加劇 - citytimes.tw",
-      "published": "2026-04-18T11:21:02+00:00",
-      "summary": "三分之一的城市印度人有脂肪肝的風險； ETHealthworld 健康專家警告人們焦慮日益加劇&nbsp;&nbsp;citytimes.tw2026 年世界肝臟日：這 3 個日常習慣不會傷害您的肝臟，酒精也不會，以下是扭轉肝臟的方法&nbsp;&nbsp;citytimes.tw2026 年世界肝臟日：您的糖尿病是一場無聲的危機嗎？ 《柳葉刀》稱每20 名印度人中就有1 人患有隱性肝硬化&nbsp;&nbsp;citytimes.tw2026 年世界肝臟日：您永遠不應該忽視的肝臟不適的「無聲」跡象 – 檢查何時需要進行檢測&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPX1liVjVlQWdLamVOdnhkaGZLa1E2ZnI1M3NrRWtLei1Bai05R3ZhN19IQ1BCVjBLNUdBYUtQN2RvS2RkQUI0aGRiRUxJd1NaRVA3TTVORzVITk10RmFiMTBzbVhIMHQyZktIZXFwaGo4RzBrY3lFWV9mUC1vbXBKVEVHZWdCeHNscmdHeXFSMk1zQmo2UDg1cTVCMUoxaGJaMldldUtfc2VpX3RyeGFlejF1QlNOQlk1NmVyNHIyZjJqajczOUc4dEJMOWZUS3RQUGVBSnU3MmtMWVBZSHRGdXE2cUVEYldPcDFNOUxlWDRlZ004R3NqRzJJeWlxNGFoOWZDRDRWSmFaX1JtTDhCOFpXLTY1RlBURHhQMjEzczV0OEwxYjB5OVo1dU9ZcGJUVjdkZjVWaGdYSEJvaDRiZEpSY2xlUjFWOE5fODlySTd3OWx5QzhWNkszNlN5cmVkWFE?oc=5"
         }
       ]
     },
