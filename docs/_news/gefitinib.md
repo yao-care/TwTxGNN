@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 5 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 5 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [運動與布洛芬對癌症患者化療腦影響的研究進展與挑戰 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxOa2ZnVDJtRW5TNHFwWDZNT2YzX2g5MkNMZmxUcVNpel84WUczWUctWFN4cFlkYUQwSmoyb3Q0Y1RzR3VwVVd1U0dnVlFSVWpDRkpIVERUM2xZNWo1bVlDRHpVaWlVQ1BJeEZtcDZ3OUZONEJFZ1MwSGt5SkRFVWktc1hibFh4WGZwM0hNVkF2ckpnc1B0c0hoOVhNb1loSFVqWGllSUUyY0QxWUFhbmJ0UlBnTkhQbnE1WXdTMG5kd3JQTGo0UTRKN3hTeVdhNjFRTGlXU3R2bS0wR2xldDdoOEdadjZWNE5kVjQ5elBsQ3JZTU9GeXM3dFdid3V3bzI4bTc2bmRSMUtwRWxWM3prZGsya2pheU4zTGNWVFhpVFpjdlJiT2lqZjFPeFpuX3J3TFpmcnRjYVlwWEZHMVVRajYwei1RQQ?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/gefitinib/
 2026-04-18 <span class="news-indication-tag">阿茲海默症</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi3gJBVV95cUxOOWIzeHZLdVNzeHJ1a3Bwal96V1NjUFpneTZUVVl5Si1NSElFYUZWZzdMRkVvUEJDQlRvaTFUS1hFMTh5R2FJWGNScFVtNDl1endHeHl2dTVzOHRDOG81bEpqQnBGaGV4NEhSMGtwVXh2azFkUi1fUllBNkFkaGtrclFoN1cxMER3OUV2MTQ3ODNHQW16QVdaMlNMN0Z6LUswMExwbmlhcTU4UWFSdFBUOHpwSTV1T0VpSWVvUV96YVM5bEFWWk1Fb1hRLUZad25fV2FVYVNqMUNFejZpU1M2MldobmlGVm14Z2NfUkZYYzcyWUFtblBTVXVRTWpqUTkzVmNwclNZRHFpREVsZ3BudFBnSm02Vkd1V0UwZi1fbF96c0FVdzBwUEZjRTBWUjR5SDI1aXBuclNUVXFlSTh6TUhhWU9VY2dVbHVtbDE2SkNUTWtrWVlJUU5QRXZDQQ?oc=5)
-
----
-
-### [不到一分鐘揪出早期徵兆，AI 語音分析技術有望提前數年偵測阿茲海默症 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE83R1ZFVUZLdVo0TDR4ZUxINGRPOEpnSHBMZ3d1RmlSY2hFV2lxWk1ScmUzRE5aMDNWZWxoc0xzb0NTUlYxYVUydnVDbnhSN3RHdk9xVTZB?oc=5)
-
-2026-04-18 <span class="news-indication-tag">阿茲海默症</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE83R1ZFVUZLdVo0TDR4ZUxINGRPOEpnSHBMZ3d1RmlSY2hFV2lxWk1ScmUzRE5aMDNWZWxoc0xzb0NTUlYxYVUydnVDbnhSN3RHdk9xVTZB?oc=5)
 
 ---
 

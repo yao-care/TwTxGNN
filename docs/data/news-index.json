@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-20T13:08:42.802870+00:00",
-  "count": 8,
+  "generated": "2026-04-20T15:10:43.204679+00:00",
+  "count": 7,
   "news": [
     {
       "id": "d0c49a50103b",
@@ -467,13 +467,13 @@
       ]
     },
     {
-      "id": "a1cbb24828e0",
+      "id": "11c7ce461741",
       "title": "不吸菸年輕人肺癌增！ 研究：高蔬果攝取者確診率偏高但原因未明",
-      "published": "2026-04-20T03:28:40+00:00",
+      "published": "2026-04-20T03:19:00+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQYm1RY01iazBSY2dFR3NOUmhDTEp0UTA2UlRZdUlVTlhRMzJIMF94ejY4ODJxNnBMaTFDWndCZlV5aGowT0dkdVZVejdrOHBEZkZreGl2aHRpUFdWdVg0aVRuN3hvZWlwNktGRFpadnA2Y01Ya05sOVNEckI0M3FOcEctSlc0UHVyaHNxTFZQbHdSWjZ3aGZsYlI5cG5qLTJNLXJRbC1uM3N6SEZmYTJsUTRCS0NhTUl6VlF4eXZCYnN3Uko5Xy1RNk5Oa09MdURNanl1V2x2NXZiZHdqelV6N2pLOUY2Mk1mZF9DN2piQlFGWURYZnV2THpycGc0UDNCZ1JuMXZ2VElzUkw4NkNjODNNTWxnZzFIa3llUFRSczNTY2gzUlVSQk4xSW1WNGdNeGVQSmdTREo2cUFiOUxJaHVLdmo5NjBCMmEtX1FiNzZseXJ4TzRFQWRkMmtxYXREZkV3ZTBjMm5oN0k5SEpsWnEzbEtKZDZIWFpveW9xQWh0MnFhbFJnQkVaT0EtbFl5aUpYUEhfcU92dw?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lRS12cG1VcnNvQlo1YWxwM1E2X3F6aUplUFZBX1VQd2RaVXAxaXhFVlBNM0JpUWZpS2JOSkt6NF9MU05rZzJSR0xkZ0tnV2xoSVhIT2VEUEh3N2N1LXpwMTlZaEfSAWpBVV95cUxQWUlYTFhOYmhieGVSLThWdzdGb0tPRHJERWd0bWozWTRzQ3ZRb2RZMlJUd09sZ3AwZVpyTTlRUndRM2F4MnlsSU9Qck8zNUcwQmhXdTFrLVZJU0lCeFJBMkFGc08zV2xuNXpB?oc=5"
         }
       ],
       "keywords": [
@@ -662,30 +662,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOOWIzeHZLdVNzeHJ1a3Bwal96V1NjUFpneTZUVVl5Si1NSElFYUZWZzdMRkVvUEJDQlRvaTFUS1hFMTh5R2FJWGNScFVtNDl1endHeHl2dTVzOHRDOG81bEpqQnBGaGV4NEhSMGtwVXh2azFkUi1fUllBNkFkaGtrclFoN1cxMER3OUV2MTQ3ODNHQW16QVdaMlNMN0Z6LUswMExwbmlhcTU4UWFSdFBUOHpwSTV1T0VpSWVvUV96YVM5bEFWWk1Fb1hRLUZad25fV2FVYVNqMUNFejZpU1M2MldobmlGVm14Z2NfUkZYYzcyWUFtblBTVXVRTWpqUTkzVmNwclNZRHFpREVsZ3BudFBnSm02Vkd1V0UwZi1fbF96c0FVdzBwUEZjRTBWUjR5SDI1aXBuclNUVXFlSTh6TUhhWU9VY2dVbHVtbDE2SkNUTWtrWVlJUU5QRXZDQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4aa893d8973e",
-      "title": "不到一分鐘揪出早期徵兆，AI 語音分析技術有望提前數年偵測阿茲海默症 | 科技新報 - LINE TODAY",
-      "published": "2026-04-18T14:36:51+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83R1ZFVUZLdVo0TDR4ZUxINGRPOEpnSHBMZ3d1RmlSY2hFV2lxWk1ScmUzRE5aMDNWZWxoc0xzb0NTUlYxYVUydnVDbnhSN3RHdk9xVTZB?oc=5"
         }
       ],
       "keywords": [
