@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-20T19:55:58.793380+00:00",
-  "total_count": 20,
+  "last_updated": "2026-04-20T20:39:12.997238+00:00",
+  "total_count": 21,
   "matched_count": 7,
   "news": [
+    {
+      "id": "c85ab890fe06",
+      "title": "蚊怕水化學與天然成分的真實效果",
+      "published": "2026-04-20T20:00:00+00:00",
+      "summary": "蚊怕水化學與天然成分的真實效果&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxONkVRV0gtUzQ4d2lDSi0yUjZBeWVHeXRIcmprVkFWNEhoNTV3MVgwc1l6UlNEa2tEbElZaUxteTNUVjh4UmN6RDdwenlKNExnTXhiRXByNUlDVXEtRlByODlDMFlRcGh1OGxEdy1BdUkxYTgwMDZ4WHNlaV9qUFpKZS1sU2I4Z1lDSy1leUxNVzhjRVUzQ0VvUHhBbmN4UjV4UFQ2QTBIdHhvc0FYSWF2c0xCTFozakNad0paemViNUxRYTJjSkQydXJ4cG5keU5lZDFna19WSFItS3FJY3JXT0VhOHVLYnBIV0JRMnRNTEtpN2doOHhWeXJuemJpaV9EUTM5MFhXSjBpQWdnNVpQVGkyd1d6dnVEZDhMVS1ITQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "261f36f7cba9",
       "title": "抗生素失效危機全球蔓延 世衛警告2050年死亡恐超癌症",

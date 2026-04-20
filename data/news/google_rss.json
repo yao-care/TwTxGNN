@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-20T19:55:53.075047+00:00",
-  "count": 19,
+  "fetched_at": "2026-04-20T20:39:08.801609+00:00",
+  "count": 20,
   "news": [
     {
       "id": "127445c8d7fb",
@@ -112,18 +112,6 @@
       ]
     },
     {
-      "id": "740659ab66e5",
-      "title": "愛滋治癒再添1例 挪威男子因兄弟基因突變受益 - Yahoo新聞",
-      "published": "2026-04-19T02:43:20+00:00",
-      "summary": "愛滋治癒再添1例 挪威男子因兄弟基因突變受益&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNMnlaTFpJdXE5YXFnSklrd1JFZFg3RkVIeU80V3ZtanpLYWQ0SUduZnpKQW9iWVJmWWUyVks0cTR6bTlLMHhQaTR4a013ODVQbmNvNHNMaDJNWjBVODE1cG9EbTdGUDZnaXFmTE8wUTl2TXRUSE9RUDl5TTJZYWZEdnNwT3hLcGhKRUNiZ2UzN3RFOEVPMWtQaXJGLXlMX2VNSkRFbXlaOFNzYXJKbGxRUGowV0RZNkVzaUpndGJXZEViSVd1OU5WdXBtX0hndm5MUmdpZERHcWQwaFFQTmUwWXpxY2N1aGM5b1NDd01JdG5jd2RGYzZfOG56RC1zWVVHbFBXSlFsUWdhLWVROXNPZzc3N3U4dHFDbklHMC10bmMxTVY0cnJmVDhFXzFhd0UzcDZBZFZ2dmNWWWUwTERtQ2w2eWZBdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "261f36f7cba9",
       "title": "抗生素失效危機全球蔓延 世衛警告2050年死亡恐超癌症 - ENN台灣電報",
       "published": "2026-04-20T15:56:15+00:00",
@@ -132,6 +120,18 @@
         {
           "name": "ENN台灣電報",
           "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE8tZThFbFVZd0dMaHp0VHF1QmY0UjFHSWIyZ0dpbjBIRTJTMEZqLUNBMy0tVExGd21HLWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "740659ab66e5",
+      "title": "愛滋治癒再添1例 挪威男子因兄弟基因突變受益 - Yahoo新聞",
+      "published": "2026-04-19T02:43:20+00:00",
+      "summary": "愛滋治癒再添1例 挪威男子因兄弟基因突變受益&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNMnlaTFpJdXE5YXFnSklrd1JFZFg3RkVIeU80V3ZtanpLYWQ0SUduZnpKQW9iWVJmWWUyVks0cTR6bTlLMHhQaTR4a013ODVQbmNvNHNMaDJNWjBVODE1cG9EbTdGUDZnaXFmTE8wUTl2TXRUSE9RUDl5TTJZYWZEdnNwT3hLcGhKRUNiZ2UzN3RFOEVPMWtQaXJGLXlMX2VNSkRFbXlaOFNzYXJKbGxRUGowV0RZNkVzaUpndGJXZEViSVd1OU5WdXBtX0hndm5MUmdpZERHcWQwaFFQTmUwWXpxY2N1aGM5b1NDd01JdG5jd2RGYzZfOG56RC1zWVVHbFBXSlFsUWdhLWVROXNPZzc3N3U4dHFDbklHMC10bmMxTVY0cnJmVDhFXzFhd0UzcDZBZFZ2dmNWWWUwTERtQ2w2eWZBdw?oc=5"
         }
       ]
     },
@@ -192,6 +192,18 @@
         {
           "name": "Women's Health",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbkxYYnVhaW0zN25BaE56LVBQblY1SE5KY2g3ZEhnMExMZnU0eUxyWFJSSUcydkVVVUMtZDBKLW9sc3RCc3dTY3hoRFdzVjdUejIxMmtrWC1TYmdxUEZOU29EdTRHX2dNV1dTSEZhMTVyXzRFMnFWZWdfSk9UV3ZELTFIUkw2T0x0OEhoMlBYWnFPMkpIdzdhMjdpandsZEpFWHow?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c85ab890fe06",
+      "title": "蚊怕水化學與天然成分的真實效果 - am730",
+      "published": "2026-04-20T20:00:00+00:00",
+      "summary": "蚊怕水化學與天然成分的真實效果&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxONkVRV0gtUzQ4d2lDSi0yUjZBeWVHeXRIcmprVkFWNEhoNTV3MVgwc1l6UlNEa2tEbElZaUxteTNUVjh4UmN6RDdwenlKNExnTXhiRXByNUlDVXEtRlByODlDMFlRcGh1OGxEdy1BdUkxYTgwMDZ4WHNlaV9qUFpKZS1sU2I4Z1lDSy1leUxNVzhjRVUzQ0VvUHhBbmN4UjV4UFQ2QTBIdHhvc0FYSWF2c0xCTFozakNad0paemViNUxRYTJjSkQydXJ4cG5keU5lZDFna19WSFItS3FJY3JXT0VhOHVLYnBIV0JRMnRNTEtpN2doOHhWeXJuemJpaV9EUTM5MFhXSjBpQWdnNVpQVGkyd1d6dnVEZDhMVS1ITQ?oc=5"
         }
       ]
     },
