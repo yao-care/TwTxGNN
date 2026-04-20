@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-20T22:35:21.861550+00:00",
+  "last_updated": "2026-04-20T23:35:16.948650+00:00",
   "total_count": 22,
   "matched_count": 7,
   "news": [
+    {
+      "id": "4c2ea84c0e05",
+      "title": "巴基斯坦醫療事故釀悲劇 重複使用針筒致逾300童染愛滋",
+      "published": "2026-04-20T23:00:36+00:00",
+      "summary": "巴基斯坦醫療事故釀悲劇 重複使用針筒致逾300童染愛滋&nbsp;&nbsp;Exmoo331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油&nbsp;&nbsp;鏡新聞巴國醫院共用針頭害331童染愛滋病！8歲童死前掙扎：像被丟進滾燙熱油&nbsp;&nbsp;造咖331名無辜幼童染HIV！巴基斯坦醫院爆黑幕 母憶兒死前如「火燒」雨中翻滾 | 鏡週刊&nbsp;&nbsp;LINE TODAY【331童染HIV！醫院爆疏失 BBC臥底直擊：針筒重複使用】 #國際 （示意圖／達志影像） 這醫院可以關掉了吧。(#起啵)&nbsp;&nbsp;facebook.com",
+      "sources": [
+        {
+          "name": "Exmoo",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rWVlaMzNYaWtNbmpYZFFLdzM0NjlqVkY1V2g5WEYtdVlZQ1dQWjVOWHhSb3pyVG9RMkRKUnZzemVBbXZpdU1zUUh2b2VZYVlGUENv?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "488db58585a2",
       "title": "阿根廷日曆中您需要了解的有關疫苗的所有信息",
@@ -656,19 +669,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOTm5KbGozb0pjMDRIdWlTU00xTmtxaGtXQjFzemNta240NlpMYjRqd04tcmd2VVpfeTg0N2VpZnZ3eS1rWWxYTVF2ZnlHbzFzdjI0MkgyckVLZWVwVFBJR2c1NG1BZTJvN21FUVB2VzB6NmdjRXJGekU2YVdiSWlsRktCRTFnUi1DZXpEUnJ1WGNXQnVJek4zNW8zQWVDYTdMd2FJS3JyTUl2SWl0VUdnX0lLU19aY2FDZlU5ZTh4YWtKZnZrcEp1blhtOTFCMGhpeDVGUFhDSGxxakFsTnNPWVozN3VwY3lsaDBocFhmcENzLTY0RTdlT1VmMWZRNXo3RWh2eTNRSW9OX1gwS3hXY0R1cGxIZ3lwcGZXUTNaVVBtdWxVbC10eXljdG9feGdnTUZjWUp5NVhSRm1SU20weFJUeDJ5ZTV1RUNGX2N2ZVd3Nk5TLTFDRVl3c2hCamlLOTI3bThn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d9a3214a1bac",
-      "title": "巴基斯坦醫院爆愛滋醜聞！醫院涉重複使用針筒 臥底揭重用多達10次 331 童感染",
-      "published": "2026-04-19T05:20:39+00:00",
-      "summary": "巴基斯坦醫院爆愛滋醜聞！醫院涉重複使用針筒 臥底揭重用多達10次 331 童感染&nbsp;&nbsp;巴士的報恐怖醫界醜聞！反覆用同一根針筒…害331兒童「確診HIV」凸顯1醫療困境&nbsp;&nbsp;Yahoo新聞331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油&nbsp;&nbsp;鏡週刊Mirror Media巴國醫院共用針頭害331童染愛滋病！8歲童死前掙扎：像被丟進滾燙熱油&nbsp;&nbsp;造咖331童染HIV！巴基斯坦醫院爆疏失 BBC臥底直擊：針筒重複使用&nbsp;&nbsp;ETtoday新聞雲",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNRko5QUt2cFk1Q1FFY1ViNkE0WDVZaTJaU1ZITWNYVzhGS0RZQTlFWXIybVRBQ2JhR1VzTHpCREFmcFpDVG9sekJYWGlZZEZCRE5ZWjNOeFRSM3VMVVNJT0tJZTZUQkFaOWtzZFh3ZFI1QWp0U3JfeXQwd0gzZUgtQ1N5NzRhQ0E5MVFQbDNzRU9ZZXB5SmtSQi1nWmtCVWlUWmp2aG5pQm8xbjgwTHVIUndINXpuUGZNSTdodW8tdEZKb1ZQQnJNNVVpckhtTF9hSnU0U252TXk5c1BHT3NUa2lhWmxxQ2FiZDJ1aHB0LUhjRkNTU1JoVTVFU1Bnb1drU0ctX2I3LXNMVTlyMnRvTThRaElIcHZ6U0tRRHVyQ2lKZ2JjRDZvU25JaXBYRU5HalRCMVlvTkJ3ZF80OW4tWmJoTzdvZGNiY2pZbi03TWJFR0k0U0NyQkV0dDVWR0lkaHVIellmYllWdE1rZFE?oc=5"
         }
       ],
       "matched_keywords": []

@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-20T22:35:18.934643+00:00",
+  "fetched_at": "2026-04-20T23:35:13.225253+00:00",
   "count": 21,
   "news": [
     {
@@ -28,6 +28,18 @@
       ]
     },
     {
+      "id": "4c2ea84c0e05",
+      "title": "巴基斯坦醫療事故釀悲劇 重複使用針筒致逾300童染愛滋 - Exmoo",
+      "published": "2026-04-20T23:00:36+00:00",
+      "summary": "巴基斯坦醫療事故釀悲劇 重複使用針筒致逾300童染愛滋&nbsp;&nbsp;Exmoo331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油&nbsp;&nbsp;鏡新聞巴國醫院共用針頭害331童染愛滋病！8歲童死前掙扎：像被丟進滾燙熱油&nbsp;&nbsp;造咖331名無辜幼童染HIV！巴基斯坦醫院爆黑幕 母憶兒死前如「火燒」雨中翻滾 | 鏡週刊&nbsp;&nbsp;LINE TODAY【331童染HIV！醫院爆疏失 BBC臥底直擊：針筒重複使用】 #國際 （示意圖／達志影像） 這醫院可以關掉了吧。(#起啵)&nbsp;&nbsp;facebook.com",
+      "sources": [
+        {
+          "name": "Exmoo",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rWVlaMzNYaWtNbmpYZFFLdzM0NjlqVkY1V2g5WEYtdVlZQ1dQWjVOWHhSb3pyVG9RMkRKUnZzemVBbXZpdU1zUUh2b2VZYVlGUENv?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a1cbb24828e0",
       "title": "不吸菸年輕人肺癌增！ 研究：高蔬果攝取者確診率偏高但原因未明 - Yahoo新聞",
       "published": "2026-04-20T03:28:40+00:00",
@@ -36,18 +48,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQYm1RY01iazBSY2dFR3NOUmhDTEp0UTA2UlRZdUlVTlhRMzJIMF94ejY4ODJxNnBMaTFDWndCZlV5aGowT0dkdVZVejdrOHBEZkZreGl2aHRpUFdWdVg0aVRuN3hvZWlwNktGRFpadnA2Y01Ya05sOVNEckI0M3FOcEctSlc0UHVyaHNxTFZQbHdSWjZ3aGZsYlI5cG5qLTJNLXJRbC1uM3N6SEZmYTJsUTRCS0NhTUl6VlF4eXZCYnN3Uko5Xy1RNk5Oa09MdURNanl1V2x2NXZiZHdqelV6N2pLOUY2Mk1mZF9DN2piQlFGWURYZnV2THpycGc0UDNCZ1JuMXZ2VElzUkw4NkNjODNNTWxnZzFIa3llUFRSczNTY2gzUlVSQk4xSW1WNGdNeGVQSmdTREo2cUFiOUxJaHVLdmo5NjBCMmEtX1FiNzZseXJ4TzRFQWRkMmtxYXREZkV3ZTBjMm5oN0k5SEpsWnEzbEtKZDZIWFpveW9xQWh0MnFhbFJnQkVaT0EtbFl5aUpYUEhfcU92dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d9a3214a1bac",
-      "title": "巴基斯坦醫院爆愛滋醜聞！醫院涉重複使用針筒 臥底揭重用多達10次 331 童感染 - 巴士的報",
-      "published": "2026-04-19T05:20:39+00:00",
-      "summary": "巴基斯坦醫院爆愛滋醜聞！醫院涉重複使用針筒 臥底揭重用多達10次 331 童感染&nbsp;&nbsp;巴士的報恐怖醫界醜聞！反覆用同一根針筒…害331兒童「確診HIV」凸顯1醫療困境&nbsp;&nbsp;Yahoo新聞331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油&nbsp;&nbsp;鏡週刊Mirror Media巴國醫院共用針頭害331童染愛滋病！8歲童死前掙扎：像被丟進滾燙熱油&nbsp;&nbsp;造咖331童染HIV！巴基斯坦醫院爆疏失 BBC臥底直擊：針筒重複使用&nbsp;&nbsp;ETtoday新聞雲",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNRko5QUt2cFk1Q1FFY1ViNkE0WDVZaTJaU1ZITWNYVzhGS0RZQTlFWXIybVRBQ2JhR1VzTHpCREFmcFpDVG9sekJYWGlZZEZCRE5ZWjNOeFRSM3VMVVNJT0tJZTZUQkFaOWtzZFh3ZFI1QWp0U3JfeXQwd0gzZUgtQ1N5NzRhQ0E5MVFQbDNzRU9ZZXB5SmtSQi1nWmtCVWlUWmp2aG5pQm8xbjgwTHVIUndINXpuUGZNSTdodW8tdEZKb1ZQQnJNNVVpckhtTF9hSnU0U252TXk5c1BHT3NUa2lhWmxxQ2FiZDJ1aHB0LUhjRkNTU1JoVTVFU1Bnb1drU0ctX2I3LXNMVTlyMnRvTThRaElIcHZ6U0tRRHVyQ2lKZ2JjRDZvU25JaXBYRU5HalRCMVlvTkJ3ZF80OW4tWmJoTzdvZGNiY2pZbi03TWJFR0k0U0NyQkV0dDVWR0lkaHVIellmYllWdE1rZFE?oc=5"
         }
       ]
     },
@@ -124,18 +124,6 @@
       ]
     },
     {
-      "id": "261f36f7cba9",
-      "title": "抗生素失效危機全球蔓延 世衛警告2050年死亡恐超癌症 - ENN台灣電報",
-      "published": "2026-04-20T15:59:59+00:00",
-      "summary": "抗生素失效危機全球蔓延 世衛警告2050年死亡恐超癌症&nbsp;&nbsp;ENN台灣電報前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE8tZThFbFVZd0dMaHp0VHF1QmY0UjFHSWIyZ0dpbjBIRTJTMEZqLUNBMy0tVExGd21HLWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "740659ab66e5",
       "title": "愛滋治癒再添1例 挪威男子因兄弟基因突變受益 - Yahoo新聞",
       "published": "2026-04-19T02:43:20+00:00",
@@ -144,6 +132,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNMnlaTFpJdXE5YXFnSklrd1JFZFg3RkVIeU80V3ZtanpLYWQ0SUduZnpKQW9iWVJmWWUyVks0cTR6bTlLMHhQaTR4a013ODVQbmNvNHNMaDJNWjBVODE1cG9EbTdGUDZnaXFmTE8wUTl2TXRUSE9RUDl5TTJZYWZEdnNwT3hLcGhKRUNiZ2UzN3RFOEVPMWtQaXJGLXlMX2VNSkRFbXlaOFNzYXJKbGxRUGowV0RZNkVzaUpndGJXZEViSVd1OU5WdXBtX0hndm5MUmdpZERHcWQwaFFQTmUwWXpxY2N1aGM5b1NDd01JdG5jd2RGYzZfOG56RC1zWVVHbFBXSlFsUWdhLWVROXNPZzc3N3U4dHFDbklHMC10bmMxTVY0cnJmVDhFXzFhd0UzcDZBZFZ2dmNWWWUwTERtQ2w2eWZBdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "261f36f7cba9",
+      "title": "抗生素失效危機全球蔓延 世衛警告2050年死亡恐超癌症 - ENN台灣電報",
+      "published": "2026-04-20T15:59:59+00:00",
+      "summary": "抗生素失效危機全球蔓延 世衛警告2050年死亡恐超癌症&nbsp;&nbsp;ENN台灣電報前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE8tZThFbFVZd0dMaHp0VHF1QmY0UjFHSWIyZ0dpbjBIRTJTMEZqLUNBMy0tVExGd21HLWc?oc=5"
         }
       ]
     },
