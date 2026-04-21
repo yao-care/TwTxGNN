@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 5 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 5 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [失智症原因曝光！「每天久坐」風險激增27%，研究曝睡太久也是主因](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RV0dWNm90bnczQWVONGs1ZkpCUGFTUXhWZzNrZGp2dHdjQWVPcnRFWUpLYlVmTF90TzFsa2NGUzFTZjhlYnJmaU40Nkw?oc=5)
+
+2026-04-21 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RV0dWNm90bnczQWVONGs1ZkpCUGFTUXhWZzNrZGp2dHdjQWVPcnRFWUpLYlVmTF90TzFsa2NGUzFTZjhlYnJmaU40Nkw?oc=5)
+
+---
 
 ### [大腸癌新藥超神！32名病患試驗「全壓住惡疾」 醫生：癌症已經消失了](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjQkQzckhrd200U1RER1J0ZUhKZ25SSVYtdF9QMS1meGRvUjlvc0xNUENob01SM1FRZ3lzR253TkZVS2xEN2UxaEFPdHk?oc=5)
 
@@ -62,19 +70,19 @@ permalink: /news/gefitinib/
 
 ---
 
-### [抗生素失效危機全球蔓延 世衛警告2050年死亡恐超癌症](https://news.google.com/rss/articles/CBMiOkFVX3lxTE8tZThFbFVZd0dMaHp0VHF1QmY0UjFHSWIyZ0dpbjBIRTJTMEZqLUNBMy0tVExGd21HLWc?oc=5)
-
-2026-04-20 <span class="news-indication-tag">癌症</span>
-
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE8tZThFbFVZd0dMaHp0VHF1QmY0UjFHSWIyZ0dpbjBIRTJTMEZqLUNBMy0tVExGd21HLWc?oc=5)
-
----
-
 ### [運動與布洛芬對癌症患者化療腦影響的研究進展與挑戰 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxOa2ZnVDJtRW5TNHFwWDZNT2YzX2g5MkNMZmxUcVNpel84WUczWUctWFN4cFlkYUQwSmoyb3Q0Y1RzR3VwVVd1U0dnVlFSVWpDRkpIVERUM2xZNWo1bVlDRHpVaWlVQ1BJeEZtcDZ3OUZONEJFZ1MwSGt5SkRFVWktc1hibFh4WGZwM0hNVkF2ckpnc1B0c0hoOVhNb1loSFVqWGllSUUyY0QxWUFhbmJ0UlBnTkhQbnE1WXdTMG5kd3JQTGo0UTRKN3hTeVdhNjFRTGlXU3R2bS0wR2xldDdoOEdadjZWNE5kVjQ5elBsQ3JZTU9GeXM3dFdid3V3bzI4bTc2bmRSMUtwRWxWM3prZGsya2pheU4zTGNWVFhpVFpjdlJiT2lqZjFPeFpuX3J3TFpmcnRjYVlwWEZHMVVRajYwei1RQQ?oc=5)
 
 2026-04-20 <span class="news-indication-tag">癌症</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxOa2ZnVDJtRW5TNHFwWDZNT2YzX2g5MkNMZmxUcVNpel84WUczWUctWFN4cFlkYUQwSmoyb3Q0Y1RzR3VwVVd1U0dnVlFSVWpDRkpIVERUM2xZNWo1bVlDRHpVaWlVQ1BJeEZtcDZ3OUZONEJFZ1MwSGt5SkRFVWktc1hibFh4WGZwM0hNVkF2ckpnc1B0c0hoOVhNb1loSFVqWGllSUUyY0QxWUFhbmJ0UlBnTkhQbnE1WXdTMG5kd3JQTGo0UTRKN3hTeVdhNjFRTGlXU3R2bS0wR2xldDdoOEdadjZWNE5kVjQ5elBsQ3JZTU9GeXM3dFdid3V3bzI4bTc2bmRSMUtwRWxWM3prZGsya2pheU4zTGNWVFhpVFpjdlJiT2lqZjFPeFpuX3J3TFpmcnRjYVlwWEZHMVVRajYwei1RQQ?oc=5)
+
+---
+
+### [抗生素失效危機全球蔓延 世衛警告2050年死亡恐超癌症](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNcURMNk5LUmsxd2NGNGp5VzVQVEdOekpMbzNoQ05IRVkwWU9wNXkxSkRuTXh5YVJWdXg2cWUyQTBraUdjVEQxSzNoQUZZMmotOVNnaHdIdkFIU0ZnQzg3U3ZoOFZtS3NPWEQwVUNkMExFTGlIcWU5VXptcnpWdTk3TnBYOXBZNGFuZ2VfUkNjXzhZYVByeW51d3VjVzM4MFo0aV9WeHBjb3l5RDRQNmVTM29pVWZfckFRMG44VnlTV3dDa0NvTE8xLUU3NmI1SmJYc1E0ZmtrRFZjemdRNTlnODU1T1B0WThqcHRhdEZnYl95NjctLWNGRGFzZFFoRGI0dy1iV2dBVV9sSjNILW9CX2I5SnVURzkycUFJOW1td0wwSTBSTzFPaVR3ZnFCVDZNSThVbDl6dWpkcHRqa0JUOXFMcXhLOXhIbG9OUE1GWS1CdnctTTJRRDhsTS1mdmZzdGZSZA?oc=5)
+
+2026-04-20 <span class="news-indication-tag">癌症</span>
+
+來源：[商傳媒](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNcURMNk5LUmsxd2NGNGp5VzVQVEdOekpMbzNoQ05IRVkwWU9wNXkxSkRuTXh5YVJWdXg2cWUyQTBraUdjVEQxSzNoQUZZMmotOVNnaHdIdkFIU0ZnQzg3U3ZoOFZtS3NPWEQwVUNkMExFTGlIcWU5VXptcnpWdTk3TnBYOXBZNGFuZ2VfUkNjXzhZYVByeW51d3VjVzM4MFo0aV9WeHBjb3l5RDRQNmVTM29pVWZfckFRMG44VnlTV3dDa0NvTE8xLUU3NmI1SmJYc1E0ZmtrRFZjemdRNTlnODU1T1B0WThqcHRhdEZnYl95NjctLWNGRGFzZFFoRGI0dy1iV2dBVV9sSjNILW9CX2I5SnVURzkycUFJOW1td0wwSTBSTzFPaVR3ZnFCVDZNSThVbDl6dWpkcHRqa0JUOXFMcXhLOXhIbG9OUE1GWS1CdnctTTJRRDhsTS1mdmZzdGZSZA?oc=5)
 
 ---
 
