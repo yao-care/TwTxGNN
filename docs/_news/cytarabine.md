@@ -14,7 +14,7 @@ permalink: /news/cytarabine/
 ---
 
 <p class="key-answer" data-question="Cytarabine 有什麼相關新聞？">
-<strong>Cytarabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cytarabine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/cytarabine/
 <ul>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（9 個）：<ul>
-<li>small cell lung carcinoma（99.8%）</li>
+<li class="indication-matched">small cell lung carcinoma（99.8%）<span class="indication-tag">📰 肺癌</span></li>
 <li>primary pulmonary lymphoma（99.8%）</li>
 <li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
 <li>pulmonary blastoma（99.8%）</li>
@@ -40,7 +40,15 @@ permalink: /news/cytarabine/
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [英國22歲女子肺癌末期 僅剩1年半壽命 15歲起吸電子煙](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ2R3SHoybF9DSF82RklWN3h4NFJLU05RN25vR1Y3dV9LYzRCR3paU3dvMUQteEFuaGhIQWRMbV9hY1BSX25XZktONkxWWm1TNTMzN2hQdHpyaXkyekpyMlB5M3R6OFU2NzNKYXg3MkE1XzhQQ0tWaVRSZEJFVVltVWgwa0prWmdzVlZFMGE3dWN4cUk0ajFUT1J3QmF3Wm0tcFZMNTExZ2tTeEgzOWtKYUNEN0JHX20wMHBIdHVUdlVPWWE2X0pXeDJMbFpNWDV2OHZ2Z0FleDJwQ2ozdW5NRXEzZmRWUDJ4T3d6TnUzZlpKV2RCOThPVW4xMnY?oc=5)
+
+2026-04-21 <span class="news-indication-tag">肺癌</span>
+
+來源：[Singtaousa](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ2R3SHoybF9DSF82RklWN3h4NFJLU05RN25vR1Y3dV9LYzRCR3paU3dvMUQteEFuaGhIQWRMbV9hY1BSX25XZktONkxWWm1TNTMzN2hQdHpyaXkyekpyMlB5M3R6OFU2NzNKYXg3MkE1XzhQQ0tWaVRSZEJFVVltVWgwa0prWmdzVlZFMGE3dWN4cUk0ajFUT1J3QmF3Wm0tcFZMNTExZ2tTeEgzOWtKYUNEN0JHX20wMHBIdHVUdlVPWWE2X0pXeDJMbFpNWDV2OHZ2Z0FleDJwQ2ozdW5NRXEzZmRWUDJ4T3d6TnUzZlpKV2RCOThPVW4xMnY?oc=5)
+
+---
 
 ### [大腸癌新藥超神！32名病患試驗「全壓住惡疾」 醫生：癌症已經消失了](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjQkQzckhrd200U1RER1J0ZUhKZ25SSVYtdF9QMS1meGRvUjlvc0xNUENob01SM1FRZ3lzR253TkZVS2xEN2UxaEFPdHk?oc=5)
 

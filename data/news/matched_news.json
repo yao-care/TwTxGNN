@@ -1,8 +1,41 @@
 {
-  "last_updated": "2026-04-21T21:37:19.466034+00:00",
-  "total_count": 22,
-  "matched_count": 8,
+  "last_updated": "2026-04-21T22:34:45.737835+00:00",
+  "total_count": 23,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "5442d9626f3a",
+      "title": "英國22歲女子肺癌末期 僅剩1年半壽命 15歲起吸電子煙",
+      "published": "2026-04-21T21:26:38+00:00",
+      "summary": "英國22歲女子肺癌末期 僅剩1年半壽命 15歲起吸電子煙&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ2R3SHoybF9DSF82RklWN3h4NFJLU05RN25vR1Y3dV9LYzRCR3paU3dvMUQteEFuaGhIQWRMbV9hY1BSX25XZktONkxWWm1TNTMzN2hQdHpyaXkyekpyMlB5M3R6OFU2NzNKYXg3MkE1XzhQQ0tWaVRSZEJFVVltVWgwa0prWmdzVlZFMGE3dWN4cUk0ajFUT1J3QmF3Wm0tcFZMNTExZ2tTeEgzOWtKYUNEN0JHX20wMHBIdHVUdlVPWWE2X0pXeDJMbFpNWDV2OHZ2Z0FleDJwQ2ozdW5NRXEzZmRWUDJ4T3d6TnUzZlpKV2RCOThPVW4xMnY?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "fd3f1c5f6288",
       "title": "失智症原因曝光！「每天久坐」風險激增27%，研究曝睡太久也是主因",
@@ -308,6 +341,31 @@
       ]
     },
     {
+      "id": "26202e34a9d4",
+      "title": "牙痛竟引帶狀皰疹？醫：「這」原因讓免疫力下降、病毒入侵",
+      "published": "2026-04-21T14:07:17+00:00",
+      "summary": "牙痛竟引帶狀皰疹？醫：「這」原因讓免疫力下降、病毒入侵&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNTGZqTUlCc1VtUldfbUI5cjFBS3ZYbGx6YmNTbVJtcVRNbXg3eHZzcXVsaUNDMGVSRFRiMjlPMkxpNGJ0RkxzNmNHUks4ZTJDYVE0T2FrWk51RXhPbVRsQUtKcy16WFVaZGVUQVQyZnVPMzNta3J4OTF5elB1UWw4MlNGbG9ud2pPem5OeV92aEtCWWtoanpqZFhOcGNfa3JBRnJlbTNBcFBqU3NVeVdsUnhCNmpfYklROENLN013WGtCMXJVRUZSZURwNkt2YjJFSW9uenpOS21IN0FSYllNbHh5NHJNSHYxM3pvN25DYVdDdkJHOWhrOFYzd2ZHc3J1RDQ0bFRaRFRCLUFLYy1CMGNGTFJ1NHMwd3prZlhFcU5ORlBBR3AwbS1JNUoyelRYcWM2NjhnNmdiUl8xTU1rUTlXcGlUaVFfZ21JUDZNZFhFdDN3blAyczhjdENJRmtB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "帶狀皰疹",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "8fcd14342abd",
       "title": "19歲學霸節食減肥患胰臟癌晚期歷12次化療| 健康百科",
       "published": "2026-04-21T13:38:12+00:00",
@@ -593,31 +651,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "236ce9f8a791",
-      "title": "牙痛竟引帶狀皰疹？醫：「這」原因讓免疫力下降、病毒入侵",
-      "published": "2026-04-21T02:07:17+00:00",
-      "summary": "牙痛竟引帶狀皰疹？醫：「這」原因讓免疫力下降、病毒入侵&nbsp;&nbsp;Heho健康",
-      "sources": [
-        {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JamlaSFJwcC1HUFlEdy1EZFUwcElRMVMtN0IxcTIxcm5ESFduS0VJZUJqVHNQTk12UVpfLVluVE9Vay1PUmM2enQ2Yw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "帶狀皰疹",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "4c2ea84c0e05",

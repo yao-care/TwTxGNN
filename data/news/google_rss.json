@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-21T21:37:15.749048+00:00",
-  "count": 21,
+  "fetched_at": "2026-04-21T22:34:41.090897+00:00",
+  "count": 22,
   "news": [
     {
       "id": "3c107d24c4d9",
@@ -52,6 +52,18 @@
       ]
     },
     {
+      "id": "26202e34a9d4",
+      "title": "牙痛竟引帶狀皰疹？醫：「這」原因讓免疫力下降、病毒入侵 - Yahoo新聞",
+      "published": "2026-04-21T14:07:17+00:00",
+      "summary": "牙痛竟引帶狀皰疹？醫：「這」原因讓免疫力下降、病毒入侵&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNTGZqTUlCc1VtUldfbUI5cjFBS3ZYbGx6YmNTbVJtcVRNbXg3eHZzcXVsaUNDMGVSRFRiMjlPMkxpNGJ0RkxzNmNHUks4ZTJDYVE0T2FrWk51RXhPbVRsQUtKcy16WFVaZGVUQVQyZnVPMzNta3J4OTF5elB1UWw4MlNGbG9ud2pPem5OeV92aEtCWWtoanpqZFhOcGNfa3JBRnJlbTNBcFBqU3NVeVdsUnhCNmpfYklROENLN013WGtCMXJVRUZSZURwNkt2YjJFSW9uenpOS21IN0FSYllNbHh5NHJNSHYxM3pvN25DYVdDdkJHOWhrOFYzd2ZHc3J1RDQ0bFRaRFRCLUFLYy1CMGNGTFJ1NHMwd3prZlhFcU5ORlBBR3AwbS1JNUoyelRYcWM2NjhnNmdiUl8xTU1rUTlXcGlUaVFfZ21JUDZNZFhFdDN3blAyczhjdENJRmtB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "38f689cf46d6",
       "title": "癌細胞新弱點！研究揭「維生素B7不足」讓生長喊卡 - 科技島",
       "published": "2026-04-21T08:40:44+00:00",
@@ -60,18 +72,6 @@
         {
           "name": "科技島",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhQkNVMnljMTBiSUk2TW83aGlBT0pYWlRGMm1haVlES2wwNHd4a05oWHZJUDRYUEhzSlViOEYyZHlJamdSVHpPNTNnT05oaUJqWVFlZ0FMQTlhQ3Q0bDZF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "236ce9f8a791",
-      "title": "牙痛竟引帶狀皰疹？醫：「這」原因讓免疫力下降、病毒入侵 - Heho健康",
-      "published": "2026-04-21T02:07:17+00:00",
-      "summary": "牙痛竟引帶狀皰疹？醫：「這」原因讓免疫力下降、病毒入侵&nbsp;&nbsp;Heho健康",
-      "sources": [
-        {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JamlaSFJwcC1HUFlEdy1EZFUwcElRMVMtN0IxcTIxcm5ESFduS0VJZUJqVHNQTk12UVpfLVluVE9Vay1PUmM2enQ2Yw?oc=5"
         }
       ]
     },
@@ -228,6 +228,18 @@
         {
           "name": "東方新地",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNU3ppaC1SMklReElROTBLWkFvWjQtSm83NUVUZmpXUmxVek9vNklpbEYyM1BPRzVZeVRnQVhBZlR3N1lPOS1pRUotRzVYNFp2Q1VRWk1zdFJ6cDVtcktUcVp2MXNmenR3TFlvUHZsbXh5QnpXc3pFZUl5TFlQZnFWdWxHdWpEa2tVWjNRODVSUnluOS1NY1BWRDBrUENhRmxwUlZSQ3hqQ0JHblpDT2xYSzJJcEdmancxNHZSU3lDUUlScmVteWhkTGhzNjhYb2ZDYllKSDh4eU1hS3dpUHZxUUpNeVBUemN0U0I1VUJraHpSOUJ0UkVOUlhmVWRESWIxUXlrN3BEVHotRGxzRExqNVJ3LXZTNmRvYlhlMmVIUlBLWHJUTXdnRU0wdHRsaGtGNkU1dzFieHExUi1vZEt5UnBWa3Q3dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5442d9626f3a",
+      "title": "英國22歲女子肺癌末期 僅剩1年半壽命 15歲起吸電子煙 - Singtaousa",
+      "published": "2026-04-21T21:26:38+00:00",
+      "summary": "英國22歲女子肺癌末期 僅剩1年半壽命 15歲起吸電子煙&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ2R3SHoybF9DSF82RklWN3h4NFJLU05RN25vR1Y3dV9LYzRCR3paU3dvMUQteEFuaGhIQWRMbV9hY1BSX25XZktONkxWWm1TNTMzN2hQdHpyaXkyekpyMlB5M3R6OFU2NzNKYXg3MkE1XzhQQ0tWaVRSZEJFVVltVWgwa0prWmdzVlZFMGE3dWN4cUk0ajFUT1J3QmF3Wm0tcFZMNTExZ2tTeEgzOWtKYUNEN0JHX20wMHBIdHVUdlVPWWE2X0pXeDJMbFpNWDV2OHZ2Z0FleDJwQ2ozdW5NRXEzZmRWUDJ4T3d6TnUzZlpKV2RCOThPVW4xMnY?oc=5"
         }
       ]
     },

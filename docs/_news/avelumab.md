@@ -52,19 +52,19 @@ permalink: /news/avelumab/
 
 ---
 
+### [牙痛竟引帶狀皰疹？醫：「這」原因讓免疫力下降、病毒入侵](https://news.google.com/rss/articles/CBMi4AJBVV95cUxNTGZqTUlCc1VtUldfbUI5cjFBS3ZYbGx6YmNTbVJtcVRNbXg3eHZzcXVsaUNDMGVSRFRiMjlPMkxpNGJ0RkxzNmNHUks4ZTJDYVE0T2FrWk51RXhPbVRsQUtKcy16WFVaZGVUQVQyZnVPMzNta3J4OTF5elB1UWw4MlNGbG9ud2pPem5OeV92aEtCWWtoanpqZFhOcGNfa3JBRnJlbTNBcFBqU3NVeVdsUnhCNmpfYklROENLN013WGtCMXJVRUZSZURwNkt2YjJFSW9uenpOS21IN0FSYllNbHh5NHJNSHYxM3pvN25DYVdDdkJHOWhrOFYzd2ZHc3J1RDQ0bFRaRFRCLUFLYy1CMGNGTFJ1NHMwd3prZlhFcU5ORlBBR3AwbS1JNUoyelRYcWM2NjhnNmdiUl8xTU1rUTlXcGlUaVFfZ21JUDZNZFhFdDN3blAyczhjdENJRmtB?oc=5)
+
+2026-04-21 <span class="news-indication-tag">帶狀皰疹</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi4AJBVV95cUxNTGZqTUlCc1VtUldfbUI5cjFBS3ZYbGx6YmNTbVJtcVRNbXg3eHZzcXVsaUNDMGVSRFRiMjlPMkxpNGJ0RkxzNmNHUks4ZTJDYVE0T2FrWk51RXhPbVRsQUtKcy16WFVaZGVUQVQyZnVPMzNta3J4OTF5elB1UWw4MlNGbG9ud2pPem5OeV92aEtCWWtoanpqZFhOcGNfa3JBRnJlbTNBcFBqU3NVeVdsUnhCNmpfYklROENLN013WGtCMXJVRUZSZURwNkt2YjJFSW9uenpOS21IN0FSYllNbHh5NHJNSHYxM3pvN25DYVdDdkJHOWhrOFYzd2ZHc3J1RDQ0bFRaRFRCLUFLYy1CMGNGTFJ1NHMwd3prZlhFcU5ORlBBR3AwbS1JNUoyelRYcWM2NjhnNmdiUl8xTU1rUTlXcGlUaVFfZ21JUDZNZFhFdDN3blAyczhjdENJRmtB?oc=5)
+
+---
+
 ### [遶境求保庇，求神助更要自助！ 醫籲：接種HPV疫苗才是守護健康、預防癌症的關鍵方式！](https://news.google.com/rss/articles/CBMiakFVX3lxTE1QdlFuRUJoaVVpelZvSG5uZkFVejhOTUJnQTk1anRaLW1nMjVER25wY3ZYQm5ZTTlJcmxfeFNyQlhaT09jelMxWVpJT1dQMEJrLWNWVThPQ2VST0ctVE5zai1iY0FJUWRwWVE?oc=5)
 
 2026-04-21 <span class="news-indication-tag">癌症</span>
 
 來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTE1QdlFuRUJoaVVpelZvSG5uZkFVejhOTUJnQTk1anRaLW1nMjVER25wY3ZYQm5ZTTlJcmxfeFNyQlhaT09jelMxWVpJT1dQMEJrLWNWVThPQ2VST0ctVE5zai1iY0FJUWRwWVE?oc=5)
-
----
-
-### [牙痛竟引帶狀皰疹？醫：「這」原因讓免疫力下降、病毒入侵](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JamlaSFJwcC1HUFlEdy1EZFUwcElRMVMtN0IxcTIxcm5ESFduS0VJZUJqVHNQTk12UVpfLVluVE9Vay1PUmM2enQ2Yw?oc=5)
-
-2026-04-21 <span class="news-indication-tag">帶狀皰疹</span>
-
-來源：[Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JamlaSFJwcC1HUFlEdy1EZFUwcElRMVMtN0IxcTIxcm5ESFduS0VJZUJqVHNQTk12UVpfLVluVE9Vay1PUmM2enQ2Yw?oc=5)
 
 ---
 
