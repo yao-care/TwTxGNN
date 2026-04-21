@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智（dementia） 相關新聞"
+title: "阿茲海默症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
+description: "阿茲海默症（dementia） 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智（dementia） 相關新聞
+# 阿茲海默症（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="阿茲海默症（dementia） 有什麼相關新聞？">
+<strong>阿茲海默症（dementia）</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -31,19 +31,19 @@ permalink: /news/dementia/
 
 ## 相關新聞（4 則）
 
-### [它會導致健康風險。了解「陽光維生素」缺乏對身體的影響](https://news.google.com/rss/articles/CBMihgNBVV95cUxOLVJyRURZcFRLMXNYT1hOVzhkY3JXVmlockU4ejFhN1YyLTdlYmdEbUw2TnZPdmV0NXp4SUdaRkJzZUFNRWlDdXN2d09lclFNWGJKdG9uLU5DZGdjRC1JU3dqVXBZRVA5dHRIQkktNTNGMkw4T1N3d1pMYi1MVllWV3dvWkJFVTNEUmpoQ2pNTnlsX2FuMk1mbnk3bG5IU2pGTk8zYUYycUQwRHB2Mm52VG05SjBtZHhBNkFiRkE0eHBwX3FHeEgtdXBnR1o0ZzgxNWxzU1JSQnV1OW1BUHNNMGRGc3F1cVdmYkNYWG14Z0M0VXdTeGxNWWRRQlJHeWhZZ1UxY3Vwb1htS3QybnBMbFJmaW9KejREVXhmVi11XzZsZmF6RTN3cDJxalc5b2JMQ0dyb0s4NWJYdEsyd0JjZUxvS08xNXNVTm9IZ0Vfb2E2THpEdGhYOFc0NHdpM0QyNDhGaUdzSk1ZQ3hNWm5VUHREUGs1anJwTjJSbmhrd3NTWmFOSFE?oc=5)
-
-2026-04-19
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihgNBVV95cUxOLVJyRURZcFRLMXNYT1hOVzhkY3JXVmlockU4ejFhN1YyLTdlYmdEbUw2TnZPdmV0NXp4SUdaRkJzZUFNRWlDdXN2d09lclFNWGJKdG9uLU5DZGdjRC1JU3dqVXBZRVA5dHRIQkktNTNGMkw4T1N3d1pMYi1MVllWV3dvWkJFVTNEUmpoQ2pNTnlsX2FuMk1mbnk3bG5IU2pGTk8zYUYycUQwRHB2Mm52VG05SjBtZHhBNkFiRkE0eHBwX3FHeEgtdXBnR1o0ZzgxNWxzU1JSQnV1OW1BUHNNMGRGc3F1cVdmYkNYWG14Z0M0VXdTeGxNWWRRQlJHeWhZZ1UxY3Vwb1htS3QybnBMbFJmaW9KejREVXhmVi11XzZsZmF6RTN3cDJxalc5b2JMQ0dyb0s4NWJYdEsyd0JjZUxvS08xNXNVTm9IZ0Vfb2E2THpEdGhYOFc0NHdpM0QyNDhGaUdzSk1ZQ3hNWm5VUHREUGs1anJwTjJSbmhrd3NTWmFOSFE?oc=5)
-
----
-
 ### [不到一分鐘揪出早期徵兆，AI 語音分析技術有望提前數年偵測阿茲海默症 - TechNews 科技新報](https://news.google.com/rss/articles/CBMilgFBVV95cUxQalhWdnVPZllSRlZULW45MXhHdTdDSEduNFM1cC1vWUNVX3ZYVEpvb2hHNkhIaE43Q3gtSFM2RTN1Tlo3Sy15XzlBT3lmREdmZ09MUmk4RVRGajRxbmFBVkkzblR0OE1UUjNXbXhkRWx4c2RySkxUa2hhOC1fT2ljeGR6YVR3RENPaUxNMWJWVTdacFF2S0E?oc=5)
 
 2026-04-18
 
 來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMilgFBVV95cUxQalhWdnVPZllSRlZULW45MXhHdTdDSEduNFM1cC1vWUNVX3ZYVEpvb2hHNkhIaE43Q3gtSFM2RTN1Tlo3Sy15XzlBT3lmREdmZ09MUmk4RVRGajRxbmFBVkkzblR0OE1UUjNXbXhkRWx4c2RySkxUa2hhOC1fT2ljeGR6YVR3RENPaUxNMWJWVTdacFF2S0E?oc=5)
+
+---
+
+### [16年研究：中年「1數值」越高！大腦失智毒素越少 多吃鮭魚、蛋黃](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MV2JRQkRWd3RtdmlKaDFsdDNBM1pLN2ZQWm1VUG9OcHFWclc5YmFQYTM5U2lRcEVjZ1V4MXhsWktrSDdDcDBqOGVLR0E?oc=5)
+
+2026-04-17
+
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MV2JRQkRWd3RtdmlKaDFsdDNBM1pLN2ZQWm1VUG9OcHFWclc5YmFQYTM5U2lRcEVjZ1V4MXhsWktrSDdDcDBqOGVLR0E?oc=5)
 
 ---
 
