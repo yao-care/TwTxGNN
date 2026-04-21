@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/salicylamide/
 <li>nasal cavity disease（100.0%）</li>
 <li>acute laryngopharyngitis（100.0%）</li>
 <li>trigeminal autonomic cephalalgia（99.9%）</li>
-<li>common cold（99.9%）</li>
+<li class="indication-matched">common cold（99.9%）<span class="indication-tag">📰 感冒</span></li>
 <li>allergic urticaria（99.7%）</li>
 <li>lung disease（99.6%）</li>
 <li>massive neonatal aspiration syndrome（99.6%）</li>
@@ -42,9 +42,15 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [維他命C真的能防感冒？醫揭答案 很多人都白吃了](https://news.google.com/rss/articles/CBMixwJBVV95cUxQdWdFMmoyZVA0N05JazZXMmxkRS1ERmJKdmlJZlZUWkl5M2RwUVhSbWM2QlY5eFJUUzl0VnYtMC1VSU04R3g1Y1pGYUc4dy12VVQ1Z2s5RzBxRGVDZkRPX216aTFJWlhDeHBVTHk4ZnNXVWRlVDVNT1VwU0VBdjJHSTBES3dlblNyUzJvem9obi1IdVBocXdjdFVZakQ5SmFCWGZSQk5TRUE1QkhUTlA4LW5NTlpRajJXVjhJajdnRHdoc1lHaWRwQlBlbGQtOTY4emtCLUZTWjAwSzNLR19SY1V2eGFTUmRwckg4THFvVmx0VERfLXAxb2FHQlBCTVZrYzZrWm5hVVNIQlZuOVlJQVlfbUF1MzZTYlQtWE9UamhjYmZtbG5PLU9QOHVfWk95Znc1UC02WnF5RjN4RDNlRjZmTFpWM2M?oc=5)
+
+2026-04-16 <span class="news-indication-tag">感冒</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMixwJBVV95cUxQdWdFMmoyZVA0N05JazZXMmxkRS1ERmJKdmlJZlZUWkl5M2RwUVhSbWM2QlY5eFJUUzl0VnYtMC1VSU04R3g1Y1pGYUc4dy12VVQ1Z2s5RzBxRGVDZkRPX216aTFJWlhDeHBVTHk4ZnNXVWRlVDVNT1VwU0VBdjJHSTBES3dlblNyUzJvem9obi1IdVBocXdjdFVZakQ5SmFCWGZSQk5TRUE1QkhUTlA4LW5NTlpRajJXVjhJajdnRHdoc1lHaWRwQlBlbGQtOTY4emtCLUZTWjAwSzNLR19SY1V2eGFTUmRwckg4THFvVmx0VERfLXAxb2FHQlBCTVZrYzZrWm5hVVNIQlZuOVlJQVlfbUF1MzZTYlQtWE9UamhjYmZtbG5PLU9QOHVfWk95Znc1UC02WnF5RjN4RDNlRjZmTFpWM2M?oc=5)
+
+---
 
 
 <div class="disclaimer">

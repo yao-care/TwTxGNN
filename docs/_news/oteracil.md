@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [免疫療法消除了 26 歲女孩的直腸癌](https://news.google.com/rss/articles/CBMiqwJBVV95cUxQWFM2cG9ZVUl6aDJIczNuX3lQR08wQ1B6a3pIYi1zeXBCX3ZQUXlMUFYzVXBhNU9sMk85LUo5c2JscWlFV0Q5eUhrUFpGVTAtLWc5UWNES2MxOERyajh4eWxITjNxLUpJX3J2TWtqWF9ROW9QS0d5RURyQjNNXzk1NWFRX0pHRGNVVHVfRzBZN25DanNtUEpKajA3NXA1V2lJOWR5NWlITnd5dlJheThzS3JSNXVSRDRjRzhrR2d4Vkx5WWpRZnIzdmRrRTJ5Qjh4VWYxYjZZU21pSGVBQmc2UE1HTGU4QWpvejkyQ3FNdEdTenJnWTlZblh3R2tJYmhUOEtkOHQ0UkQxdGZ6dTA1RW56anpqMjlDSzhhcXRPcmVGV0F3cHNnckJUSQ?oc=5)
 
@@ -73,6 +73,14 @@ permalink: /news/oteracil/
 2026-04-20 <span class="news-indication-tag">癌症</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxOa2ZnVDJtRW5TNHFwWDZNT2YzX2g5MkNMZmxUcVNpel84WUczWUctWFN4cFlkYUQwSmoyb3Q0Y1RzR3VwVVd1U0dnVlFSVWpDRkpIVERUM2xZNWo1bVlDRHpVaWlVQ1BJeEZtcDZ3OUZONEJFZ1MwSGt5SkRFVWktc1hibFh4WGZwM0hNVkF2ckpnc1B0c0hoOVhNb1loSFVqWGllSUUyY0QxWUFhbmJ0UlBnTkhQbnE1WXdTMG5kd3JQTGo0UTRKN3hTeVdhNjFRTGlXU3R2bS0wR2xldDdoOEdadjZWNE5kVjQ5elBsQ3JZTU9GeXM3dFdid3V3bzI4bTc2bmRSMUtwRWxWM3prZGsya2pheU4zTGNWVFhpVFpjdlJiT2lqZjFPeFpuX3J3TFpmcnRjYVlwWEZHMVVRajYwei1RQQ?oc=5)
+
+---
+
+### [壓力會導致癌症嗎？專家稱答案比你想像的更複雜](https://news.google.com/rss/articles/CBMi5gJBVV95cUxOcDkwczFRMHZXc09NXzBMd2R4Um1XTUphRHVyMnpXSDNzVWJHd1hlX3lXN1otR29ZUHNuWXBESXFUdE9tMWk0b00zUlpHUjVLR3l6WmV3b1A0WGxzbVdTUzZIbExBRE5mdTNMajJZc0MxS1FiYU5RNExxdWxoSkRDQnZiSTQ4TTlHMjdfX1ZUOTR1SjRYc3NENU00aU1FWGJ1cXRma1A5SzI2bDRHWTlVNERUbWdWcHNXb1hqSF8xREctWmxCd3JsVWJ4TWYxY3BJTkVRQjhVdm0yWENFSkppWk1SdVhla1B4WjNEY1NXMlFDTkdmcHhhQUF6WllkdVhlUmJZTkRyX2JHT3ZNSzhfNXl5YU14RjM1cktydWd5YmFWWTdxeEJkbUxQWFp5N2FuVnRGQUVCdE91VGpLNklIeUdrTENWOVVORUU4OWFJUjF5UDVOSnJ1elpldzV3U0txOXVHTXZn?oc=5)
+
+2026-04-17 <span class="news-indication-tag">癌症</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxOcDkwczFRMHZXc09NXzBMd2R4Um1XTUphRHVyMnpXSDNzVWJHd1hlX3lXN1otR29ZUHNuWXBESXFUdE9tMWk0b00zUlpHUjVLR3l6WmV3b1A0WGxzbVdTUzZIbExBRE5mdTNMajJZc0MxS1FiYU5RNExxdWxoSkRDQnZiSTQ4TTlHMjdfX1ZUOTR1SjRYc3NENU00aU1FWGJ1cXRma1A5SzI2bDRHWTlVNERUbWdWcHNXb1hqSF8xREctWmxCd3JsVWJ4TWYxY3BJTkVRQjhVdm0yWENFSkppWk1SdVhla1B4WjNEY1NXMlFDTkdmcHhhQUF6WllkdVhlUmJZTkRyX2JHT3ZNSzhfNXl5YU14RjM1cktydWd5YmFWWTdxeEJkbUxQWFp5N2FuVnRGQUVCdE91VGpLNklIeUdrTENWOVVORUU4OWFJUjF5UDVOSnJ1elpldzV3U0txOXVHTXZn?oc=5)
 
 ---
 
