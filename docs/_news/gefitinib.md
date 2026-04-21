@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 5 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 5 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [抗生素失效危機全球蔓延 世衛警告2050年死亡恐超癌症](https://news.google.com/rss/articles/CBMiOkFVX3lxTE8tZThFbFVZd0dMaHp0VHF1QmY0UjFHSWIyZ0dpbjBIRTJTMEZqLUNBMy0tVExGd21HLWc?oc=5)
 
@@ -59,14 +59,6 @@ permalink: /news/gefitinib/
 2026-04-19 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
 
 來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihgNBVV95cUxOLVJyRURZcFRLMXNYT1hOVzhkY3JXVmlockU4ejFhN1YyLTdlYmdEbUw2TnZPdmV0NXp4SUdaRkJzZUFNRWlDdXN2d09lclFNWGJKdG9uLU5DZGdjRC1JU3dqVXBZRVA5dHRIQkktNTNGMkw4T1N3d1pMYi1MVllWV3dvWkJFVTNEUmpoQ2pNTnlsX2FuMk1mbnk3bG5IU2pGTk8zYUYycUQwRHB2Mm52VG05SjBtZHhBNkFiRkE0eHBwX3FHeEgtdXBnR1o0ZzgxNWxzU1JSQnV1OW1BUHNNMGRGc3F1cVdmYkNYWG14Z0M0VXdTeGxNWWRRQlJHeWhZZ1UxY3Vwb1htS3QybnBMbFJmaW9KejREVXhmVi11XzZsZmF6RTN3cDJxalc5b2JMQ0dyb0s4NWJYdEsyd0JjZUxvS08xNXNVTm9IZ0Vfb2E2THpEdGhYOFc0NHdpM0QyNDhGaUdzSk1ZQ3hNWm5VUHREUGs1anJwTjJSbmhrd3NTWmFOSFE?oc=5)
-
----
-
-### [一生堅持這樣做可以將阿茲海默症的風險降低38%。](https://news.google.com/rss/articles/CBMi3gJBVV95cUxOOWIzeHZLdVNzeHJ1a3Bwal96V1NjUFpneTZUVVl5Si1NSElFYUZWZzdMRkVvUEJDQlRvaTFUS1hFMTh5R2FJWGNScFVtNDl1endHeHl2dTVzOHRDOG81bEpqQnBGaGV4NEhSMGtwVXh2azFkUi1fUllBNkFkaGtrclFoN1cxMER3OUV2MTQ3ODNHQW16QVdaMlNMN0Z6LUswMExwbmlhcTU4UWFSdFBUOHpwSTV1T0VpSWVvUV96YVM5bEFWWk1Fb1hRLUZad25fV2FVYVNqMUNFejZpU1M2MldobmlGVm14Z2NfUkZYYzcyWUFtblBTVXVRTWpqUTkzVmNwclNZRHFpREVsZ3BudFBnSm02Vkd1V0UwZi1fbF96c0FVdzBwUEZjRTBWUjR5SDI1aXBuclNUVXFlSTh6TUhhWU9VY2dVbHVtbDE2SkNUTWtrWVlJUU5QRXZDQQ?oc=5)
-
-2026-04-18 <span class="news-indication-tag">阿茲海默症</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi3gJBVV95cUxOOWIzeHZLdVNzeHJ1a3Bwal96V1NjUFpneTZUVVl5Si1NSElFYUZWZzdMRkVvUEJDQlRvaTFUS1hFMTh5R2FJWGNScFVtNDl1endHeHl2dTVzOHRDOG81bEpqQnBGaGV4NEhSMGtwVXh2azFkUi1fUllBNkFkaGtrclFoN1cxMER3OUV2MTQ3ODNHQW16QVdaMlNMN0Z6LUswMExwbmlhcTU4UWFSdFBUOHpwSTV1T0VpSWVvUV96YVM5bEFWWk1Fb1hRLUZad25fV2FVYVNqMUNFejZpU1M2MldobmlGVm14Z2NfUkZYYzcyWUFtblBTVXVRTWpqUTkzVmNwclNZRHFpREVsZ3BudFBnSm02Vkd1V0UwZi1fbF96c0FVdzBwUEZjRTBWUjR5SDI1aXBuclNUVXFlSTh6TUhhWU9VY2dVbHVtbDE2SkNUTWtrWVlJUU5QRXZDQQ?oc=5)
 
 ---
 

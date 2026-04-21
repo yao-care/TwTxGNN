@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-20T23:35:16.974604+00:00",
-  "count": 7,
+  "generated": "2026-04-21T01:48:58.576336+00:00",
+  "count": 6,
   "news": [
     {
       "id": "261f36f7cba9",
@@ -649,30 +649,6 @@
             {
               "slug": "sulfamethazine",
               "name": "Sulfamethazine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1708ac45ab40",
-      "title": "一生堅持這樣做可以將阿茲海默症的風險降低38%。",
-      "published": "2026-04-18T23:18:11+00:00",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOOWIzeHZLdVNzeHJ1a3Bwal96V1NjUFpneTZUVVl5Si1NSElFYUZWZzdMRkVvUEJDQlRvaTFUS1hFMTh5R2FJWGNScFVtNDl1endHeHl2dTVzOHRDOG81bEpqQnBGaGV4NEhSMGtwVXh2azFkUi1fUllBNkFkaGtrclFoN1cxMER3OUV2MTQ3ODNHQW16QVdaMlNMN0Z6LUswMExwbmlhcTU4UWFSdFBUOHpwSTV1T0VpSWVvUV96YVM5bEFWWk1Fb1hRLUZad25fV2FVYVNqMUNFejZpU1M2MldobmlGVm14Z2NfUkZYYzcyWUFtblBTVXVRTWpqUTkzVmNwclNZRHFpREVsZ3BudFBnSm02Vkd1V0UwZi1fbF96c0FVdzBwUEZjRTBWUjR5SDI1aXBuclNUVXFlSTh6TUhhWU9VY2dVbHVtbDE2SkNUTWtrWVlJUU5QRXZDQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
