@@ -1,11 +1,58 @@
 {
-  "generated": "2026-04-21T10:12:05.340313+00:00",
-  "count": 5,
+  "generated": "2026-04-21T11:55:02.562314+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "583519673108",
+      "title": "免疫療法消除了 26 歲女孩的直腸癌",
+      "published": "2026-04-21T10:07:05+00:00",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQWFM2cG9ZVUl6aDJIczNuX3lQR08wQ1B6a3pIYi1zeXBCX3ZQUXlMUFYzVXBhNU9sMk85LUo5c2JscWlFV0Q5eUhrUFpGVTAtLWc5UWNES2MxOERyajh4eWxITjNxLUpJX3J2TWtqWF9ROW9QS0d5RURyQjNNXzk1NWFRX0pHRGNVVHVfRzBZN25DanNtUEpKajA3NXA1V2lJOWR5NWlITnd5dlJheThzS3JSNXVSRDRjRzhrR2d4Vkx5WWpRZnIzdmRrRTJ5Qjh4VWYxYjZZU21pSGVBQmc2UE1HTGU4QWpvejkyQ3FNdEdTenJnWTlZblh3R2tJYmhUOEtkOHQ0UkQxdGZ6dTA1RW56anpqMjlDSzhhcXRPcmVGV0F3cHNnckJUSQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "直腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "d7a786fdab4d",
       "title": "遶境求保庇，求神助更要自助！ 醫籲：接種HPV疫苗才是守護健康、預防癌症的關鍵方式！",
-      "published": "2026-04-21T06:57:37+00:00",
+      "published": "2026-04-21T05:37:55+00:00",
       "sources": [
         {
           "name": "良醫健康網",

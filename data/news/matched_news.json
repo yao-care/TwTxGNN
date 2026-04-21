@@ -1,8 +1,56 @@
 {
-  "last_updated": "2026-04-21T10:12:05.317228+00:00",
-  "total_count": 18,
-  "matched_count": 5,
+  "last_updated": "2026-04-21T11:55:02.536824+00:00",
+  "total_count": 19,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "583519673108",
+      "title": "免疫療法消除了 26 歲女孩的直腸癌",
+      "published": "2026-04-21T10:07:05+00:00",
+      "summary": "免疫療法消除了 26 歲女孩的直腸癌&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQWFM2cG9ZVUl6aDJIczNuX3lQR08wQ1B6a3pIYi1zeXBCX3ZQUXlMUFYzVXBhNU9sMk85LUo5c2JscWlFV0Q5eUhrUFpGVTAtLWc5UWNES2MxOERyajh4eWxITjNxLUpJX3J2TWtqWF9ROW9QS0d5RURyQjNNXzk1NWFRX0pHRGNVVHVfRzBZN25DanNtUEpKajA3NXA1V2lJOWR5NWlITnd5dlJheThzS3JSNXVSRDRjRzhrR2d4Vkx5WWpRZnIzdmRrRTJ5Qjh4VWYxYjZZU21pSGVBQmc2UE1HTGU4QWpvejkyQ3FNdEdTenJnWTlZblh3R2tJYmhUOEtkOHQ0UkQxdGZ6dTA1RW56anpqMjlDSzhhcXRPcmVGV0F3cHNnckJUSQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "直腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "0774c647ff0c",
       "title": "在不安裡長大的人，後來都學會了一件事",
@@ -30,9 +78,22 @@
       "matched_keywords": []
     },
     {
+      "id": "b6021589a544",
+      "title": "19歲學霸為減肥不吃飯 揭患胰臟癌晚期歷12次化療 「熬過黑暗定能迎來屬於我的風景」",
+      "published": "2026-04-21T06:30:00+00:00",
+      "summary": "19歲學霸為減肥不吃飯 揭患胰臟癌晚期歷12次化療 「熬過黑暗定能迎來屬於我的風景」&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQZ0N0ZzZ0Y2N4V1gzSGFBNGFuel9lejVxejVYbEVzSHFiUkM3aFZ4aXd6Y0FFaW1qWkViWElfSkNrdGJUQnVUOElsTEFvbThHLVN0NTVRMl9fLUhUWXdOVGlzNlgzRG9jZEk5NlAwcElES3JpT010UEw4YndxUWlVYmJMal9Od3dlZ00wQXBwZlJBM05pdWtwXzd3amxUc3k0Y0RUR25CMU1JelJEWHd3dE9WSUNSd29DNi1HWWtFYUlBS2V5UDlmcC03Z1l6Y2RJVUZIUGNDWGlRRUR2elVCUVZpYVVjdEpzeTNxMUh2QmFRQjBmd2RhT1hBY3FXc2lxWVhhMzlDTE5xdnY3c09jT3RPTUI0dVFTT0R1WHJRRDRYQlpMcnJTU1RaUmEteGtSN0ZLZWI0aUdYOWlsQXVyel82eWFuVGN6QTBoU2FYQkFrVklUMlFteThaUE55UlhzMFhQWFNVSVdncHN6RVBUUXlzMHJ5QXkyenJVN2FpdXZ6RVBzTGYxRGRuVVR0c1FjVVdoM2JFYXRQX0ZpWUt1dzJOdWJXSFFvbWNpS3FOTXVHSVo0bFR2R082VlVrR2Zqd1JTaUljbURrOTdpUjU1ODRMVktBQWFtN0VHbHktVGVtcVhmdXo3VGlUR3ROZTEwRnp1X24tTU16WVk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "d7a786fdab4d",
       "title": "遶境求保庇，求神助更要自助！ 醫籲：接種HPV疫苗才是守護健康、預防癌症的關鍵方式！",
-      "published": "2026-04-21T06:57:37+00:00",
+      "published": "2026-04-21T05:37:55+00:00",
       "summary": "遶境求保庇，求神助更要自助！ 醫籲：接種HPV疫苗才是守護健康、預防癌症的關鍵方式！&nbsp;&nbsp;良醫健康網",
       "sources": [
         {
@@ -239,19 +300,6 @@
       ]
     },
     {
-      "id": "b6021589a544",
-      "title": "19歲學霸為減肥不吃飯 揭患胰臟癌晚期歷12次化療 「熬過黑暗定能迎來屬於我的風景」",
-      "published": "2026-04-21T06:30:00+00:00",
-      "summary": "19歲學霸為減肥不吃飯 揭患胰臟癌晚期歷12次化療 「熬過黑暗定能迎來屬於我的風景」&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQZ0N0ZzZ0Y2N4V1gzSGFBNGFuel9lejVxejVYbEVzSHFiUkM3aFZ4aXd6Y0FFaW1qWkViWElfSkNrdGJUQnVUOElsTEFvbThHLVN0NTVRMl9fLUhUWXdOVGlzNlgzRG9jZEk5NlAwcElES3JpT010UEw4YndxUWlVYmJMal9Od3dlZ00wQXBwZlJBM05pdWtwXzd3amxUc3k0Y0RUR25CMU1JelJEWHd3dE9WSUNSd29DNi1HWWtFYUlBS2V5UDlmcC03Z1l6Y2RJVUZIUGNDWGlRRUR2elVCUVZpYVVjdEpzeTNxMUh2QmFRQjBmd2RhT1hBY3FXc2lxWVhhMzlDTE5xdnY3c09jT3RPTUI0dVFTT0R1WHJRRDRYQlpMcnJTU1RaUmEteGtSN0ZLZWI0aUdYOWlsQXVyel82eWFuVGN6QTBoU2FYQkFrVklUMlFteThaUE55UlhzMFhQWFNVSVdncHN6RVBUUXlzMHJ5QXkyenJVN2FpdXZ6RVBzTGYxRGRuVVR0c1FjVVdoM2JFYXRQX0ZpWUt1dzJOdWJXSFFvbWNpS3FOTXVHSVo0bFR2R082VlVrR2Zqd1JTaUljbURrOTdpUjU1ODRMVktBQWFtN0VHbHktVGVtcVhmdXo3VGlUR3ROZTEwRnp1X24tTU16WVk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "b7d5828dc1f7",
       "title": "超市最容易被忽略的抗癌食物——醫師解析「5種種子」的關鍵營養素，每天一小把效果驚人",
       "published": "2026-04-21T04:55:50+00:00",
@@ -281,7 +329,7 @@
       "id": "4c2ea84c0e05",
       "title": "巴基斯坦醫療事故釀悲劇 重複使用針筒致逾300童染愛滋",
       "published": "2026-04-20T23:00:36+00:00",
-      "summary": "巴基斯坦醫療事故釀悲劇 重複使用針筒致逾300童染愛滋&nbsp;&nbsp;Exmoo331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油&nbsp;&nbsp;鏡新聞巴國醫院共用針頭害331童染愛滋病！8歲童死前掙扎：像被丟進滾燙熱油&nbsp;&nbsp;造咖331名無辜幼童染HIV！巴基斯坦醫院爆黑幕 母憶兒死前如「火燒」雨中翻滾 | 鏡週刊&nbsp;&nbsp;LINE TODAY【331童染HIV！醫院爆疏失 BBC臥底直擊：針筒重複使用】 #國際 （示意圖／達志影像） 這醫院可以關掉了吧。(#起啵)&nbsp;&nbsp;Facebook",
+      "summary": "巴基斯坦醫療事故釀悲劇 重複使用針筒致逾300童染愛滋&nbsp;&nbsp;Exmoo331名兒童感染愛滋病！醫院疏失釀禍 8歲男童死前痛苦吶喊：像被丟進滾燙熱油&nbsp;&nbsp;鏡新聞巴國醫院共用針頭害331童染愛滋病！8歲童死前掙扎：像被丟進滾燙熱油&nbsp;&nbsp;造咖331名無辜幼童染HIV！巴基斯坦醫院爆黑幕 母憶兒死前如「火燒」雨中翻滾 | 鏡週刊&nbsp;&nbsp;LINE TODAY【331童染HIV！醫院爆疏失 BBC臥底直擊：針筒重複使用】 #國際 （示意圖／達志影像） 這醫院可以關掉了吧。(#起啵)&nbsp;&nbsp;facebook.com",
       "sources": [
         {
           "name": "Exmoo",
