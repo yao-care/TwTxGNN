@@ -1,8 +1,33 @@
 {
-  "last_updated": "2026-04-21T11:55:02.536824+00:00",
-  "total_count": 19,
-  "matched_count": 6,
+  "last_updated": "2026-04-21T13:03:15.387534+00:00",
+  "total_count": 20,
+  "matched_count": 7,
   "news": [
+    {
+      "id": "a98a52f2dff5",
+      "title": "健康網》20秒通鼻塞爆紅！ 醫揭新關鍵：竟和「晚餐時間」有關",
+      "published": "2026-04-21T12:18:00+00:00",
+      "summary": "健康網》20秒通鼻塞爆紅！ 醫揭新關鍵：竟和「晚餐時間」有關&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aZGg4c1JTX2RVSk5Fel9oM044TUhiT3k0eG02UzQyTmQ1eHNJOTFCakcxeEFVTzN2QjR4SHdEd2tkMVNFY2NWYlFJV2IyYVZuQjlaSHJMdUlXb1JOaFpOXzE1TDnSAWpBVV95cUxQZ3NLUFBSeUx0azRqOGtmbnlJVWxObTFMOWJ1SHdlNXh1MHdWYWNQOHBjczRmeTZhV3QwSHA0c2phX1M5QWR2dDJvNFB5TzU3SlRBNmxsZnJ4Qnl3WkhVSGpweFBHMWFDOU9B?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "鼻塞",
+          "keyword": "鼻塞",
+          "related_drugs": [
+            {
+              "slug": "xylometazoline",
+              "name": "Xylometazoline"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "583519673108",
       "title": "免疫療法消除了 26 歲女孩的直腸癌",
@@ -887,7 +912,7 @@
       "id": "3e341e009667",
       "title": "它會導致健康風險。了解「陽光維生素」缺乏對身體的影響",
       "published": "2026-04-19T17:00:46+00:00",
-      "summary": "它會導致健康風險。了解「陽光維生素」缺乏對身體的影響&nbsp;&nbsp;arch-web.com.tw防失智，請多曬太陽？16年追蹤研究：30至40歲是黃金預防期&nbsp;&nbsp;遠見雜誌16年研究：中年「1數值」越高! 大腦失智毒素越少 多吃鮭魚、蛋黃&nbsp;&nbsp;MSN陽光維他命D，能幫助中風病患復原得較好嗎？&nbsp;&nbsp;careonline.com.tw預防流感、病毒感染，曬太陽就有效&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "它會導致健康風險。了解「陽光維生素」缺乏對身體的影響&nbsp;&nbsp;arch-web.com.tw防失智，請多曬太陽？16年追蹤研究：30至40歲是黃金預防期&nbsp;&nbsp;遠見雜誌16年研究：中年「1數值」越高! 大腦失智毒素越少 多吃鮭魚、蛋黃&nbsp;&nbsp;MSN預防流感、病毒感染，曬太陽就有效&nbsp;&nbsp;PChome Online 新聞陽光充足仍恐維生素D不足 醫揭吸收誤區與實用補充建議&nbsp;&nbsp;獨家報導",
       "sources": [
         {
           "name": "arch-web.com.tw",
@@ -903,21 +928,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }
