@@ -14,7 +14,7 @@ permalink: /news/docetaxel/
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Docetaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ permalink: /news/docetaxel/
 <li class="indication-matched">female breast carcinoma（99.9%）<span class="indication-tag">📰 乳癌</span></li>
 <li>Ewing sarcoma（99.9%）</li>
 <li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
-<li class="indication-matched">small cell lung carcinoma（99.8%）<span class="indication-tag">📰 肺癌</span></li>
+<li>small cell lung carcinoma（99.8%）</li>
 <li>primary pulmonary lymphoma（99.8%）</li>
 <li>botryoid-type embryonal rhabdomyosarcoma of the vagina（99.8%）</li>
 <li>pulmonary blastoma（99.8%）</li>
@@ -42,7 +42,7 @@ permalink: /news/docetaxel/
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [抗生素失效危機全球蔓延 世衛警告2050年死亡恐超癌症](https://news.google.com/rss/articles/CBMiOkFVX3lxTE8tZThFbFVZd0dMaHp0VHF1QmY0UjFHSWIyZ0dpbjBIRTJTMEZqLUNBMy0tVExGd21HLWc?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/docetaxel/
 2026-04-20 <span class="news-indication-tag">癌症</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxOa2ZnVDJtRW5TNHFwWDZNT2YzX2g5MkNMZmxUcVNpel84WUczWUctWFN4cFlkYUQwSmoyb3Q0Y1RzR3VwVVd1U0dnVlFSVWpDRkpIVERUM2xZNWo1bVlDRHpVaWlVQ1BJeEZtcDZ3OUZONEJFZ1MwSGt5SkRFVWktc1hibFh4WGZwM0hNVkF2ckpnc1B0c0hoOVhNb1loSFVqWGllSUUyY0QxWUFhbmJ0UlBnTkhQbnE1WXdTMG5kd3JQTGo0UTRKN3hTeVdhNjFRTGlXU3R2bS0wR2xldDdoOEdadjZWNE5kVjQ5elBsQ3JZTU9GeXM3dFdid3V3bzI4bTc2bmRSMUtwRWxWM3prZGsya2pheU4zTGNWVFhpVFpjdlJiT2lqZjFPeFpuX3J3TFpmcnRjYVlwWEZHMVVRajYwei1RQQ?oc=5)
-
----
-
-### [不吸菸年輕人肺癌增！ 研究：高蔬果攝取者確診率偏高但原因未明](https://news.google.com/rss/articles/CBMimgNBVV95cUxQYm1RY01iazBSY2dFR3NOUmhDTEp0UTA2UlRZdUlVTlhRMzJIMF94ejY4ODJxNnBMaTFDWndCZlV5aGowT0dkdVZVejdrOHBEZkZreGl2aHRpUFdWdVg0aVRuN3hvZWlwNktGRFpadnA2Y01Ya05sOVNEckI0M3FOcEctSlc0UHVyaHNxTFZQbHdSWjZ3aGZsYlI5cG5qLTJNLXJRbC1uM3N6SEZmYTJsUTRCS0NhTUl6VlF4eXZCYnN3Uko5Xy1RNk5Oa09MdURNanl1V2x2NXZiZHdqelV6N2pLOUY2Mk1mZF9DN2piQlFGWURYZnV2THpycGc0UDNCZ1JuMXZ2VElzUkw4NkNjODNNTWxnZzFIa3llUFRSczNTY2gzUlVSQk4xSW1WNGdNeGVQSmdTREo2cUFiOUxJaHVLdmo5NjBCMmEtX1FiNzZseXJ4TzRFQWRkMmtxYXREZkV3ZTBjMm5oN0k5SEpsWnEzbEtKZDZIWFpveW9xQWh0MnFhbFJnQkVaT0EtbFl5aUpYUEhfcU92dw?oc=5)
-
-2026-04-20 <span class="news-indication-tag">肺癌</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMimgNBVV95cUxQYm1RY01iazBSY2dFR3NOUmhDTEp0UTA2UlRZdUlVTlhRMzJIMF94ejY4ODJxNnBMaTFDWndCZlV5aGowT0dkdVZVejdrOHBEZkZreGl2aHRpUFdWdVg0aVRuN3hvZWlwNktGRFpadnA2Y01Ya05sOVNEckI0M3FOcEctSlc0UHVyaHNxTFZQbHdSWjZ3aGZsYlI5cG5qLTJNLXJRbC1uM3N6SEZmYTJsUTRCS0NhTUl6VlF4eXZCYnN3Uko5Xy1RNk5Oa09MdURNanl1V2x2NXZiZHdqelV6N2pLOUY2Mk1mZF9DN2piQlFGWURYZnV2THpycGc0UDNCZ1JuMXZ2VElzUkw4NkNjODNNTWxnZzFIa3llUFRSczNTY2gzUlVSQk4xSW1WNGdNeGVQSmdTREo2cUFiOUxJaHVLdmo5NjBCMmEtX1FiNzZseXJ4TzRFQWRkMmtxYXREZkV3ZTBjMm5oN0k5SEpsWnEzbEtKZDZIWFpveW9xQWh0MnFhbFJnQkVaT0EtbFl5aUpYUEhfcU92dw?oc=5)
 
 ---
 

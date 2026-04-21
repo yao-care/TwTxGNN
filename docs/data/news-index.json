@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-21T01:48:58.576336+00:00",
-  "count": 6,
+  "generated": "2026-04-21T04:42:36.481981+00:00",
+  "count": 4,
   "news": [
     {
       "id": "261f36f7cba9",
@@ -467,38 +467,6 @@
       ]
     },
     {
-      "id": "a1cbb24828e0",
-      "title": "不吸菸年輕人肺癌增！ 研究：高蔬果攝取者確診率偏高但原因未明",
-      "published": "2026-04-20T03:28:40+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQYm1RY01iazBSY2dFR3NOUmhDTEp0UTA2UlRZdUlVTlhRMzJIMF94ejY4ODJxNnBMaTFDWndCZlV5aGowT0dkdVZVejdrOHBEZkZreGl2aHRpUFdWdVg0aVRuN3hvZWlwNktGRFpadnA2Y01Ya05sOVNEckI0M3FOcEctSlc0UHVyaHNxTFZQbHdSWjZ3aGZsYlI5cG5qLTJNLXJRbC1uM3N6SEZmYTJsUTRCS0NhTUl6VlF4eXZCYnN3Uko5Xy1RNk5Oa09MdURNanl1V2x2NXZiZHdqelV6N2pLOUY2Mk1mZF9DN2piQlFGWURYZnV2THpycGc0UDNCZ1JuMXZ2VElzUkw4NkNjODNNTWxnZzFIa3llUFRSczNTY2gzUlVSQk4xSW1WNGdNeGVQSmdTREo2cUFiOUxJaHVLdmo5NjBCMmEtX1FiNzZseXJ4TzRFQWRkMmtxYXREZkV3ZTBjMm5oN0k5SEpsWnEzbEtKZDZIWFpveW9xQWh0MnFhbFJnQkVaT0EtbFl5aUpYUEhfcU92dw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "3e341e009667",
       "title": "它會導致健康風險。了解「陽光維生素」缺乏對身體的影響",
       "published": "2026-04-19T17:00:46+00:00",
@@ -532,123 +500,6 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "21cb4dc5391a",
-      "title": "這種流行的痛風藥物可以降低心臟病發作和中風的風險",
-      "published": "2026-04-19T01:05:10+00:00",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOaElSUE43cHB0SF9xUi1sY0xMMXBNMm1OR0tZcE1UNXNMUUM1SEhITWFFQkd2RU5fczhxN1g2cTZ6TUlSYzYzcTc5b2gwVnN0UmN1bG44XzZIME9OZnFib1pzSnFaMDhxaUtLODZDM21La3BwNllPVnZ6SFRnWEI3QlBrbXQyXzJKQS1sRWFUR19HempaR1ExTDVFSW9SdUoyTFV6QnkzZXlFNG5GN1A4N2lycXdaSnZrdGVJWjVLNWZMT0dIWmVMWXlwWFpjMG1lN0VFUTA3TS1TMGRvdDdJbnk1cW5KZVRkWWdvNHhHVHBLUG1uS2ZHVXdydW9nVVZxMW00ZUVyX21VcTBhdVQ3ZWhDS0daSExBQk95NGVoY2tDczUzMV9IOHVSeWR3Q3Z5UllRNFJabXVQNnJCdE5EcnhUOEg3cjNPTjQtOWpXOEdmWmRvbWdxVFNVUWR5Q2x0aVJFeElB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心臟病發",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "gout",
-          "keyword": "痛風",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "sulfamerazine",
-              "name": "Sulfamerazine"
-            },
-            {
-              "slug": "sulfamethazine",
-              "name": "Sulfamethazine"
             }
           ]
         }
