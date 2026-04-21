@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 5 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 5 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [失智症原因曝光！「每天久坐」風險激增27%，研究曝睡太久也是主因](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RV0dWNm90bnczQWVONGs1ZkpCUGFTUXhWZzNrZGp2dHdjQWVPcnRFWUpLYlVmTF90TzFsa2NGUzFTZjhlYnJmaU40Nkw?oc=5)
 
 2026-04-21 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RV0dWNm90bnczQWVONGs1ZkpCUGFTUXhWZzNrZGp2dHdjQWVPcnRFWUpLYlVmTF90TzFsa2NGUzFTZjhlYnJmaU40Nkw?oc=5)
-
----
-
-### [大腸癌新藥超神！32名病患試驗「全壓住惡疾」 醫生：癌症已經消失了](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjQkQzckhrd200U1RER1J0ZUhKZ25SSVYtdF9QMS1meGRvUjlvc0xNUENob01SM1FRZ3lzR253TkZVS2xEN2UxaEFPdHk?oc=5)
-
-2026-04-21 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjQkQzckhrd200U1RER1J0ZUhKZ25SSVYtdF9QMS1meGRvUjlvc0xNUENob01SM1FRZ3lzR253TkZVS2xEN2UxaEFPdHk?oc=5)
 
 ---
 

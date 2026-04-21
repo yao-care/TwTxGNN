@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [大腸癌新藥超神！32名病患試驗「全壓住惡疾」 醫生：癌症已經消失了](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjQkQzckhrd200U1RER1J0ZUhKZ25SSVYtdF9QMS1meGRvUjlvc0xNUENob01SM1FRZ3lzR253TkZVS2xEN2UxaEFPdHk?oc=5)
-
-2026-04-21 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjQkQzckhrd200U1RER1J0ZUhKZ25SSVYtdF9QMS1meGRvUjlvc0xNUENob01SM1FRZ3lzR253TkZVS2xEN2UxaEFPdHk?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [牙痛竟引帶狀皰疹？醫：「這」原因讓免疫力下降、病毒入侵](https://news.google.com/rss/articles/CBMi4AJBVV95cUxNTGZqTUlCc1VtUldfbUI5cjFBS3ZYbGx6YmNTbVJtcVRNbXg3eHZzcXVsaUNDMGVSRFRiMjlPMkxpNGJ0RkxzNmNHUks4ZTJDYVE0T2FrWk51RXhPbVRsQUtKcy16WFVaZGVUQVQyZnVPMzNta3J4OTF5elB1UWw4MlNGbG9ud2pPem5OeV92aEtCWWtoanpqZFhOcGNfa3JBRnJlbTNBcFBqU3NVeVdsUnhCNmpfYklROENLN013WGtCMXJVRUZSZURwNkt2YjJFSW9uenpOS21IN0FSYllNbHh5NHJNSHYxM3pvN25DYVdDdkJHOWhrOFYzd2ZHc3J1RDQ0bFRaRFRCLUFLYy1CMGNGTFJ1NHMwd3prZlhFcU5ORlBBR3AwbS1JNUoyelRYcWM2NjhnNmdiUl8xTU1rUTlXcGlUaVFfZ21JUDZNZFhFdDN3blAyczhjdENJRmtB?oc=5)
 
