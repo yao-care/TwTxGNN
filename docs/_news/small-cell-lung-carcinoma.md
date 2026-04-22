@@ -3,7 +3,7 @@ layout: default
 title: "肺癌（small cell lung carcinoma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "肺癌（small cell lung carcinoma） 的相關健康新聞報導。1 則新聞、3 個相關藥物。"
+description: "肺癌（small cell lung carcinoma） 的相關健康新聞報導。2 則新聞、3 個相關藥物。"
 permalink: /news/small-cell-lung-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/small-cell-lung-carcinoma/
 ---
 
 <p class="key-answer" data-question="肺癌（small cell lung carcinoma） 有什麼相關新聞？">
-<strong>肺癌（small cell lung carcinoma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，3 個相關藥物。
+<strong>肺癌（small cell lung carcinoma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，3 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -31,13 +31,21 @@ permalink: /news/small-cell-lung-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [英國22歲女子肺癌末期 僅剩1年半壽命 15歲起吸電子煙](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ2R3SHoybF9DSF82RklWN3h4NFJLU05RN25vR1Y3dV9LYzRCR3paU3dvMUQteEFuaGhIQWRMbV9hY1BSX25XZktONkxWWm1TNTMzN2hQdHpyaXkyekpyMlB5M3R6OFU2NzNKYXg3MkE1XzhQQ0tWaVRSZEJFVVltVWgwa0prWmdzVlZFMGE3dWN4cUk0ajFUT1J3QmF3Wm0tcFZMNTExZ2tTeEgzOWtKYUNEN0JHX20wMHBIdHVUdlVPWWE2X0pXeDJMbFpNWDV2OHZ2Z0FleDJwQ2ozdW5NRXEzZmRWUDJ4T3d6TnUzZlpKV2RCOThPVW4xMnY?oc=5)
 
 2026-04-21
 
 來源：[Singtaousa](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ2R3SHoybF9DSF82RklWN3h4NFJLU05RN25vR1Y3dV9LYzRCR3paU3dvMUQteEFuaGhIQWRMbV9hY1BSX25XZktONkxWWm1TNTMzN2hQdHpyaXkyekpyMlB5M3R6OFU2NzNKYXg3MkE1XzhQQ0tWaVRSZEJFVVltVWgwa0prWmdzVlZFMGE3dWN4cUk0ajFUT1J3QmF3Wm0tcFZMNTExZ2tTeEgzOWtKYUNEN0JHX20wMHBIdHVUdlVPWWE2X0pXeDJMbFpNWDV2OHZ2Z0FleDJwQ2ozdW5NRXEzZmRWUDJ4T3d6TnUzZlpKV2RCOThPVW4xMnY?oc=5)
+
+---
+
+### [50歲以下無菸族肺癌風險竟上升美研究曝：愛吃生菜沙拉者風險較高| 生活](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZRzc3QncyRzAtZDUtNE03MmhrOE1ON2tGd0JDalYta0o0MkI3NnZ3aGFZdGt2cjR0VGtjMUJtNFBaR1FtRjdCRHFjdFVOUVpTeXhreE5fMlhvcjQ?oc=5)
+
+2026-04-21
+
+來源：[Newtalk新聞](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZRzc3QncyRzAtZDUtNE03MmhrOE1ON2tGd0JDalYta0o0MkI3NnZ3aGFZdGt2cjR0VGtjMUJtNFBaR1FtRjdCRHFjdFVOUVpTeXhreE5fMlhvcjQ?oc=5)
 
 ---
 

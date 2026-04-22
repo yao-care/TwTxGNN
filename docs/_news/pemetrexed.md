@@ -14,7 +14,7 @@ permalink: /news/pemetrexed/
 ---
 
 <p class="key-answer" data-question="Pemetrexed 有什麼相關新聞？">
-<strong>Pemetrexed</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pemetrexed</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/pemetrexed/
 <p><a href="{{ '/drugs/pemetrexed/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [50歲以下無菸族肺癌風險竟上升美研究曝：愛吃生菜沙拉者風險較高| 生活](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZRzc3QncyRzAtZDUtNE03MmhrOE1ON2tGd0JDalYta0o0MkI3NnZ3aGFZdGt2cjR0VGtjMUJtNFBaR1FtRjdCRHFjdFVOUVpTeXhreE5fMlhvcjQ?oc=5)
+
+2026-04-21 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
+
+來源：[Newtalk新聞](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZRzc3QncyRzAtZDUtNE03MmhrOE1ON2tGd0JDalYta0o0MkI3NnZ3aGFZdGt2cjR0VGtjMUJtNFBaR1FtRjdCRHFjdFVOUVpTeXhreE5fMlhvcjQ?oc=5)
+
+---
 
 ### [遶境求保庇，求神助更要自助！ 醫籲：接種HPV疫苗才是守護健康、預防癌症的關鍵方式！](https://news.google.com/rss/articles/CBMiakFVX3lxTE1QdlFuRUJoaVVpelZvSG5uZkFVejhOTUJnQTk1anRaLW1nMjVER25wY3ZYQm5ZTTlJcmxfeFNyQlhaT09jelMxWVpJT1dQMEJrLWNWVThPQ2VST0ctVE5zai1iY0FJUWRwWVE?oc=5)
 

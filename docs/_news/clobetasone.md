@@ -14,7 +14,7 @@ permalink: /news/clobetasone/
 ---
 
 <p class="key-answer" data-question="Clobetasone 有什麼相關新聞？">
-<strong>Clobetasone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Clobetasone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/clobetasone/
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>primary cutaneous T-cell lymphoma（100.0%）</li>
 <li>Sezary syndrome（99.8%）</li>
-<li>primary cutaneous B-cell lymphoma（99.8%）</li>
+<li class="indication-matched">primary cutaneous B-cell lymphoma（99.8%）<span class="indication-tag">📰 淋巴癌</span></li>
 <li>granulomatous slack skin disease（99.7%）</li>
 <li>Crohn's colitis（99.7%）</li>
 <li>adrenocortical insufficiency（99.7%）</li>
@@ -42,7 +42,23 @@ permalink: /news/clobetasone/
 <p><a href="{{ '/drugs/clobetasone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [柏臻慈善信託啟動 2026 年度「生命無 Plan B，關注 B 細胞淋巴癌」宣傳活動 | 國際現場 | 商情](https://news.google.com/rss/articles/CBMiW0FVX3lxTE11T2U4NUJXUGpPbzJwWG1USno2NWQ2Nmd4LU1fc1k3aTB2SGI5M0NPdFZTZWU0NzFMaTRaV1BOQkRJNDBfaTgxcU9UTTdyN0ZrYVZoY0ZtdzJyWHc?oc=5)
+
+2026-04-22 <span class="news-indication-tag">淋巴癌</span>
+
+來源：[經濟日報](https://news.google.com/rss/articles/CBMiW0FVX3lxTE11T2U4NUJXUGpPbzJwWG1USno2NWQ2Nmd4LU1fc1k3aTB2SGI5M0NPdFZTZWU0NzFMaTRaV1BOQkRJNDBfaTgxcU9UTTdyN0ZrYVZoY0ZtdzJyWHc?oc=5)
+
+---
+
+### [50歲以下無菸族肺癌風險竟上升美研究曝：愛吃生菜沙拉者風險較高| 生活](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZRzc3QncyRzAtZDUtNE03MmhrOE1ON2tGd0JDalYta0o0MkI3NnZ3aGFZdGt2cjR0VGtjMUJtNFBaR1FtRjdCRHFjdFVOUVpTeXhreE5fMlhvcjQ?oc=5)
+
+2026-04-21 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
+
+來源：[Newtalk新聞](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZRzc3QncyRzAtZDUtNE03MmhrOE1ON2tGd0JDalYta0o0MkI3NnZ3aGFZdGt2cjR0VGtjMUJtNFBaR1FtRjdCRHFjdFVOUVpTeXhreE5fMlhvcjQ?oc=5)
+
+---
 
 ### [遶境求保庇，求神助更要自助！ 醫籲：接種HPV疫苗才是守護健康、預防癌症的關鍵方式！](https://news.google.com/rss/articles/CBMiakFVX3lxTE1QdlFuRUJoaVVpelZvSG5uZkFVejhOTUJnQTk1anRaLW1nMjVER25wY3ZYQm5ZTTlJcmxfeFNyQlhaT09jelMxWVpJT1dQMEJrLWNWVThPQ2VST0ctVE5zai1iY0FJUWRwWVE?oc=5)
 
