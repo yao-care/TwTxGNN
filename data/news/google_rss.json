@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-22T11:53:33.690975+00:00",
-  "count": 28,
+  "fetched_at": "2026-04-22T13:05:27.729174+00:00",
+  "count": 29,
   "news": [
     {
       "id": "2d0ff844bfa5",
@@ -16,14 +16,14 @@
       ]
     },
     {
-      "id": "5bb7aab2e57c",
-      "title": "試藥半年變14天 三總AI預測免疫用藥 助患者擺脫類固醇 - 自由健康網",
-      "published": "2026-04-22T08:42:00+00:00",
-      "summary": "試藥半年變14天 三總AI預測免疫用藥 助患者擺脫類固醇&nbsp;&nbsp;自由健康網維他命C氫分子救自體免疫疾病 三總邀個案分享 (圖)&nbsp;&nbsp;Yahoo新聞三總「AI免疫導航及氫分子療法」 助紅斑性狼瘡患者重獲新生 | 青年日報&nbsp;&nbsp;LINE TODAYAI預測免疫用藥14天抓到方向 新療法助狼瘡患者停用類固醇&nbsp;&nbsp;ETtoday健康雲AI預測14天找藥、擺脫類固醇！三總突破自體免疫治療瓶頸&nbsp;&nbsp;聯合新聞網",
+      "id": "247b4d385cd3",
+      "title": "不用再試藥等半年 AI預測自體免疫治療效果只要14天 - 中時新聞網",
+      "published": "2026-04-22T08:36:42+00:00",
+      "summary": "不用再試藥等半年 AI預測自體免疫治療效果只要14天&nbsp;&nbsp;中時新聞網維他命C氫分子救自體免疫病台灣成果登國際期刊| 生活&nbsp;&nbsp;中央社 CNA試藥半年變14天 三總AI預測免疫用藥 助患者擺脫類固醇&nbsp;&nbsp;自由健康網維他命C氫分子救自體免疫疾病 三總邀個案分享 (圖)&nbsp;&nbsp;Yahoo新聞AI預測14天找藥、擺脫類固醇！三總突破自體免疫治療瓶頸&nbsp;&nbsp;聯合新聞網",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QalRhb0U3a2VTNTVTR0VkamZVdlAtRWJBUE1uVlo5Sm54a2JpN2xWWi1lYjRvUk5Ic3p3eXhvcFJEc1JkM3NzUGZlMU13bmRHVmpFSUFCZUQxZUdGc3pHTlNDaEPSAWpBVV95cUxOOEhVS3ExLWtEdDJPcW43SVNGZTZCWUZnbFJFN1BSOXhFX2l0MGZXN3EtamdOalFwRTRhVTVCYVBiXzItTHpQSlh5TTBBLUY5VFExLU41WlhOcnBJNkZrQ1JPWUQ1bnIydHR3?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQkROcU12Q2RXQUFWRy1UOXV3YkYzV21PaWRjMi12VkpTRmJoS0NoTG9Mb3RvZDlxa2tDRDB4ZEswRU44bEVpY1dLRkY0LWNSTkdjWGpMSXM2ZmY5Ymw3WEs1V2UwM3NqLVljclFxLVVrUmQzWlFCdHFUNVo2THc4bVpVSDdZWGQ3ZWhRa0NtUQ?oc=5"
         }
       ]
     },
@@ -136,6 +136,18 @@
       ]
     },
     {
+      "id": "247621d60588",
+      "title": "吃穀胱甘肽、維生素C真的能變白嗎？皮膚科醫師揭真相：基因決定，真正影響美白的是這一步 - Yahoo新聞",
+      "published": "2026-04-22T10:16:03+00:00",
+      "summary": "吃穀胱甘肽、維生素C真的能變白嗎？皮膚科醫師揭真相：基因決定，真正影響美白的是這一步&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxQQkx6emh4ajU4V3Y2c292QjY5a1ZOeDc4NlkyOEZMeHdGcnllUEJOc3U0bnBULURZczQwMkhpT1pYcmNiV2RwdDZrSEZ3ejhqYUl3Z3pjb2ZXSFdnRUhyaFNTeXZjUWRWNUU0NzBGTWdBTUxSZWlyQVlxWGVwTTc3TzRxX1FwV21UdXBUa2tjX3IzMmc0cFM0OEpqcnBMT096R1hsUG1tdENlbTN6Sm1MNXhKQmJMa1JlaXZqbFlUa09VLVl1Yl9RQ1ZUVkt2ZEhxaXNtdkd3WmhQNFFLQWhXSzFxbkZndVQ3dzFqT24zakZIcTk2c3VfUEhuOHRCMEVZczBKMXdmTUNsbmpCNl9sQjVPUlZ5dmtzdzBJWVoxdXdXUnBqZHhkWElYeE9ocGtER2g0QnZIVmJ6Mnd6TG00NUtQRGpyZlNJcmY2c2IwNTdVZ0stRkdIVDZpaS1OUkk2RFVyazREQnV5UkRzUzhqS200Sk0xRTJMRDdfLS1qZ2V1dDZJU3pYdXhnZ2oxZjZ5dHFOMExSYzBkTlpCWm5nN3MyYlFObEw3Y3g5ZW5QdWJHNVprQ1VxVWVfMFhLZTI2SFpnUTZjOXFjSHV0bGpFVU9EdldVMjZTSzNXQVZFMkRQaVk1NmZQQ3c3eUlRdnpLYjdTSWg4YTctekd2dWc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "488db58585a2",
       "title": "阿根廷日曆中您需要了解的有關疫苗的所有信息 - arch-web.com.tw",
       "published": "2026-04-20T21:11:12+00:00",
@@ -223,7 +235,7 @@
       "id": "e8f08efef0fd",
       "title": "衞生防護中心稱登革熱本地傳播風險屬中等 會加強蚊患監測工作 - 巴士的報",
       "published": "2026-04-22T03:32:24+00:00",
-      "summary": "衞生防護中心稱登革熱本地傳播風險屬中等 會加強蚊患監測工作&nbsp;&nbsp;巴士的報登革熱病徵、潛伏期是什麼？白紋伊蚊叮怎麼辦？一文看清預防方法&nbsp;&nbsp;香港01登革熱 預防攻略｜ 5招預防蚊叮咬及滋生 孕婦兒童驅蚊劑用法｜生活百科&nbsp;&nbsp;Oh!爸媽衞生防護中心積極跟進一宗本地登革熱個案&nbsp;&nbsp;大公文匯網今年首宗本地登革熱個案 歐家榮：爆發風險不能忽視&nbsp;&nbsp;紫荊網",
+      "summary": "衞生防護中心稱登革熱本地傳播風險屬中等 會加強蚊患監測工作&nbsp;&nbsp;巴士的報登革熱病徵、潛伏期是什麼？白紋伊蚊叮怎麼辦？一文看清預防方法&nbsp;&nbsp;香港01本港爆首宗本地登革熱！警告呢1類人要特別小心恐致命 附8大病徵及防蚊法&nbsp;&nbsp;U Lifestyle今年首宗本地登革熱個案 歐家榮：爆發風險不能忽視&nbsp;&nbsp;紫荊網今年首宗本地登革熱個案 21歲患者居太和邨竹篙灣地盤工作&nbsp;&nbsp;信報網站",
       "sources": [
         {
           "name": "巴士的報",
@@ -244,18 +256,6 @@
       ]
     },
     {
-      "id": "bd493127adcf",
-      "title": "不是只有男生才要補鋅，女生也需要！10大「鋅」食物排行榜！不是生蠔、第一名竟然是「這食物」 - Women's Health",
-      "published": "2026-04-21T03:30:12+00:00",
-      "summary": "不是只有男生才要補鋅，女生也需要！10大「鋅」食物排行榜！不是生蠔、第一名竟然是「這食物」&nbsp;&nbsp;Women's Health",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcVJQT3MyclBET1dsanVUc2c2RmlZTElhbHdZVnlta1Y2OWtWSVRxZER0ZnZrV1VuYlZ0cGZDbTFiUTNJZ2dtR2NQZUVWZlVzRUpqN1NabUFGTUQ4bGJoQ0pWeVVadEdMelZWQVRsWl9ZdjJZaTdpM29kX0dReXBRbUZlOHU3U3FfeUFDQUY4akloWmlLVXkwWjdZclpXdERPWEE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "361de305db3a",
       "title": "長期滑手機損健康 滑出媽媽手 隨時痛到筷子都拎唔穩 - am730",
       "published": "2026-04-22T03:30:00+00:00",
@@ -264,6 +264,18 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOUzBrT1F5REoxcEhPLThxUGRBZVM4MVgyRm5JMGNEMEpfRkkyYkJIaGV6dW43VFExZjZ5V3VpNENWQ0dpeFZObnh1Q0lqWnJLQU9XQmtHeUZLSDNhVVA5Y1JWWW56eGdRNjZLWW5LVW9kYXFEeGQ4NHhscnNOWFBBT0kzYUMtQ2F6TVc2TldLMGtJTy11MEpZZnZxZ1EzQzREN1VHbHNXdkp5YkMtcTJ5WkxTUFFZZ1pHZFVsa3d0cG5CRGt5Tlp5LXl3ZHN0WE1uejJVc1BENWppMlByU3o3aXlRZlZBbkR0d1NSVzFlUEVteTlxbW1BOG9uWDc2anZqV2ZkTGt3RUppRnpPQWsxVnFjMW5yRldVWmpVbnRUSDdTaFdaNkJxTW5HcHlFa2hjS29ES0JWWEdDeGhuemJpa0JFYklaaDNWb2dYbS1DaFBZbG9oY21jVUZNR0RzU3FLMjRGUVBNcWpkOFViN0RfLTBaTTkwMDYz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bd493127adcf",
+      "title": "不是只有男生才要補鋅，女生也需要！10大「鋅」食物排行榜！不是生蠔、第一名竟然是「這食物」 - Women's Health",
+      "published": "2026-04-21T03:30:12+00:00",
+      "summary": "不是只有男生才要補鋅，女生也需要！10大「鋅」食物排行榜！不是生蠔、第一名竟然是「這食物」&nbsp;&nbsp;Women's Health",
+      "sources": [
+        {
+          "name": "Women's Health",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcVJQT3MyclBET1dsanVUc2c2RmlZTElhbHdZVnlta1Y2OWtWSVRxZER0ZnZrV1VuYlZ0cGZDbTFiUTNJZ2dtR2NQZUVWZlVzRUpqN1NabUFGTUQ4bGJoQ0pWeVVadEdMelZWQVRsWl9ZdjJZaTdpM29kX0dReXBRbUZlOHU3U3FfeUFDQUY4akloWmlLVXkwWjdZclpXdERPWEE?oc=5"
         }
       ]
     },
