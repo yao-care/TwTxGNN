@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-22T21:42:38.171960+00:00",
-  "count": 27,
+  "fetched_at": "2026-04-22T22:39:38.266824+00:00",
+  "count": 26,
   "news": [
     {
       "id": "a4b70225b799",
@@ -31,7 +31,7 @@
       "id": "247b4d385cd3",
       "title": "不用再試藥等半年 AI預測自體免疫治療效果只要14天 - 中時新聞網",
       "published": "2026-04-22T08:36:42+00:00",
-      "summary": "不用再試藥等半年 AI預測自體免疫治療效果只要14天&nbsp;&nbsp;中時新聞網維他命C氫分子救自體免疫病台灣成果登國際期刊| 生活&nbsp;&nbsp;中央社 CNA自體免疫疾病 AI試藥助甩類固醇&nbsp;&nbsp;聯合新聞網試藥半年變14天 三總AI預測免疫用藥 助患者擺脫類固醇&nbsp;&nbsp;自由健康網治療自體免疫疾病不再碰運氣！三總AI精準預測療效 14天找出適合用藥&nbsp;&nbsp;TVBS 健康2.0",
+      "summary": "不用再試藥等半年 AI預測自體免疫治療效果只要14天&nbsp;&nbsp;中時新聞網維他命C氫分子救自體免疫病台灣成果登國際期刊| 生活&nbsp;&nbsp;中央社 CNA婦3病纏身 AI預測用藥準確率9成&nbsp;&nbsp;Yahoo新聞自體免疫疾病 AI試藥助甩類固醇&nbsp;&nbsp;聯合新聞網試藥半年變14天 三總AI預測免疫用藥 助患者擺脫類固醇&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "中時新聞網",
@@ -76,26 +76,14 @@
       ]
     },
     {
-      "id": "ae8349622a04",
+      "id": "8f3980647d2e",
       "title": "癌細胞會「變裝」騙過免疫系統！治療後復發竟是因「這機制」 - 祝你健康",
       "published": "2026-04-22T08:04:56+00:00",
-      "summary": "癌細胞會「變裝」騙過免疫系統！治療後復發竟是因「這機制」&nbsp;&nbsp;祝你健康癌細胞為何難以根除？研究揭「生存模式」：它會換裝躲過治療&nbsp;&nbsp;自由健康網",
+      "summary": "癌細胞會「變裝」騙過免疫系統！治療後復發竟是因「這機制」&nbsp;&nbsp;祝你健康前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Vak11TXZqd0JucW13UnFUczdHYW4wNFJQNDRHbGpZT00xRGMyU1c0T2U3X0Vka3d4SXFQUzd0aUh3dU1CQTU3ZjBOVWw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b6ad8b908173",
-      "title": "腳底灼熱難耐夜晚難眠 中醫推糖尿病神經病變分型治療 - 品觀點",
-      "published": "2026-04-22T08:33:48+00:00",
-      "summary": "腳底灼熱難耐夜晚難眠 中醫推糖尿病神經病變分型治療&nbsp;&nbsp;品觀點",
-      "sources": [
-        {
-          "name": "品觀點",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53dm1VbTgzLXlDTHJsOFc0YTRyYWNvOGE5ZEU0TzdHWGtST3RoYm1ybWdhMUF2QkFJRTVCV1Y5d0R2N3RfLUZrUlhXRnJzcTdZdmlKNA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE12YW1FUTZxVlUxTWhGZVhndXp6cjU3US1WeUI0TW9zRDBWS2xrbTN0enlSb2xPaWlXd1dhNlRzSi13MVBTYTQzN1JQdzE?oc=5"
         }
       ]
     },
@@ -108,6 +96,18 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc0NTN08zRW4tdjlhLUNhclVpbGpDcG16Njk0ZWhGSk84MTNTUU11alpoMkpMTnlYdXRnbEZBRmFuUXd4MFZzamNZMFMyZGE1eFRGMWd1eWFLNDVrcjBlUDZ2cE1raFRFX1NRVkRoZ2trbHRYZnVIbEViV0Q2TG9rbVVSb2QweXNQSUxONTlGWTl6Zkt6d1hEcC1HekxNMXhtTEhMeFJLNWhNdWVfRXRncXpqNXBZRUJPQkkwTi1IMzY2bS1C?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b6ad8b908173",
+      "title": "腳底灼熱難耐夜晚難眠 中醫推糖尿病神經病變分型治療 - 品觀點",
+      "published": "2026-04-22T08:33:48+00:00",
+      "summary": "腳底灼熱難耐夜晚難眠 中醫推糖尿病神經病變分型治療&nbsp;&nbsp;品觀點",
+      "sources": [
+        {
+          "name": "品觀點",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53dm1VbTgzLXlDTHJsOFc0YTRyYWNvOGE5ZEU0TzdHWGtST3RoYm1ybWdhMUF2QkFJRTVCV1Y5d0R2N3RfLUZrUlhXRnJzcTdZdmlKNA?oc=5"
         }
       ]
     },
@@ -160,6 +160,18 @@
       ]
     },
     {
+      "id": "247621d60588",
+      "title": "吃穀胱甘肽、維生素C真的能變白嗎？皮膚科醫師揭真相：基因決定，真正影響美白的是這一步 - Yahoo新聞",
+      "published": "2026-04-22T10:16:03+00:00",
+      "summary": "吃穀胱甘肽、維生素C真的能變白嗎？皮膚科醫師揭真相：基因決定，真正影響美白的是這一步&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxQQkx6emh4ajU4V3Y2c292QjY5a1ZOeDc4NlkyOEZMeHdGcnllUEJOc3U0bnBULURZczQwMkhpT1pYcmNiV2RwdDZrSEZ3ejhqYUl3Z3pjb2ZXSFdnRUhyaFNTeXZjUWRWNUU0NzBGTWdBTUxSZWlyQVlxWGVwTTc3TzRxX1FwV21UdXBUa2tjX3IzMmc0cFM0OEpqcnBMT096R1hsUG1tdENlbTN6Sm1MNXhKQmJMa1JlaXZqbFlUa09VLVl1Yl9RQ1ZUVkt2ZEhxaXNtdkd3WmhQNFFLQWhXSzFxbkZndVQ3dzFqT24zakZIcTk2c3VfUEhuOHRCMEVZczBKMXdmTUNsbmpCNl9sQjVPUlZ5dmtzdzBJWVoxdXdXUnBqZHhkWElYeE9ocGtER2g0QnZIVmJ6Mnd6TG00NUtQRGpyZlNJcmY2c2IwNTdVZ0stRkdIVDZpaS1OUkk2RFVyazREQnV5UkRzUzhqS200Sk0xRTJMRDdfLS1qZ2V1dDZJU3pYdXhnZ2oxZjZ5dHFOMExSYzBkTlpCWm5nN3MyYlFObEw3Y3g5ZW5QdWJHNVprQ1VxVWVfMFhLZTI2SFpnUTZjOXFjSHV0bGpFVU9EdldVMjZTSzNXQVZFMkRQaVk1NmZQQ3c3eUlRdnpLYjdTSWg4YTctekd2dWc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4c2ea84c0e05",
       "title": "巴基斯坦醫療事故釀悲劇 重複使用針筒致逾300童染愛滋 - Exmoo",
       "published": "2026-04-20T23:00:36+00:00",
@@ -168,18 +180,6 @@
         {
           "name": "Exmoo",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rWVlaMzNYaWtNbmpYZFFLdzM0NjlqVkY1V2g5WEYtdVlZQ1dQWjVOWHhSb3pyVG9RMkRKUnZzemVBbXZpdU1zUUh2b2VZYVlGUENv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "488db58585a2",
-      "title": "阿根廷日曆中您需要了解的有關疫苗的所有信息 - arch-web.com.tw",
-      "published": "2026-04-20T21:11:12+00:00",
-      "summary": "阿根廷日曆中您需要了解的有關疫苗的所有信息&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQdHV1c19xd1dzWHJyZV9HTnZTcFotT0sya1Z4TVViTzlLYlBxWEJzYkxvaWUwMnpuNndRa2dDeG14WnJkdjMwVExFbUR6TzRGN3N2a0hGdGQwZHR1NE5oSU96c29vU3dOMGt2am5RVURKbEtNZy1qdFJQYW55N3hLeXFPLVNDdi00ZEgzZ2FDT0luc3pEcEN5Sm1MY0dNOGczSlJfY01fcTlyY1RtU2RMNEFBUVNoZGlFQ1o5NFFaajVPaWJMamdjVVN5bDNyOXJaRlBVbWlPbHdwYVIxZE5GR2tCMm0zV0xxeE1BMTNOcWJOb3NZZFJUMkNLaFVxS1dXSTk3blpINTZxb2M5dUlreGJiYVpwLTBpVmt3YlRrZ0VvUzhjQ3F4azBRdWN0OGNTM1FZazU0Um1VbGlYWnZmR1NaeHo0TFFkTWowV29sTlJDSG52bEFNNHd1cHBVYWo4TzlPbUZyYW0yQU5teld4Zklzb0I3UjVYREE?oc=5"
         }
       ]
     },
@@ -196,26 +196,14 @@
       ]
     },
     {
-      "id": "6d2f873dc842",
-      "title": "夜間開燈瞓覺風險高 研究揭光照愈多中風及心血管病增近6成 - 巴士的報",
+      "id": "35a7b13df207",
+      "title": "夜間開燈瞓覺風險高 研究揭光照愈多中風及心血管病增近6成 - bastillepost.com",
       "published": "2026-04-20T23:00:20+00:00",
-      "summary": "夜間開燈瞓覺風險高 研究揭光照愈多中風及心血管病增近6成&nbsp;&nbsp;巴士的報開燈睡覺會怎樣？醫師示警「１狀況」恐釀糖尿病，別以為閉上眼睛就沒事&nbsp;&nbsp;食尚玩家睡眠｜冇安全感開燈瞓覺 恐誘發糖尿病 待機燈都有影響！醫生教2招兩星期穩定血糖&nbsp;&nbsp;am730",
+      "summary": "夜間開燈瞓覺風險高 研究揭光照愈多中風及心血管病增近6成&nbsp;&nbsp;bastillepost.com開燈睡覺會怎樣？醫師示警「１狀況」恐釀糖尿病，別以為閉上眼睛就沒事&nbsp;&nbsp;食尚玩家睡眠｜冇安全感開燈瞓覺 恐誘發糖尿病 待機燈都有影響！醫生教2招兩星期穩定血糖&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQVUExWnA2WTB0aF91WXBrNVVrQ1dtUC1EUG1GV0ViUTNXM2dUblV1aUJWMmw5cS1mbUxHVFFqZHN1NEVnNUVaQkNCUDBZdll1QmF3dXcyN2JoZXpkU2xmWFdKbFRPUDZ5Qk9Sai03Y3E4ZUtnUTFIaHhOdFh5ckxkVXFKYTdONlZUc2Q4dGZFeTNGNFVodTVoSTB5Y0d3UUZaQTFoOXhVNmZDNm8yMGhHLTVPWExPRDZzaGt5VUp5MFZYdHZrX0tEMWtxMkJhc3JIaTBJMHlCLUZUUUdGdGtPZGMtbkVaTTJMZmpWWEMzWlplQkQ3UjhYb2ZrYTRndG1KYzBMZ3htLVlxY2RTbTFJRGZ6ZHJLMGphaDBwV05WZWh1aFF6OTU3VlVfU1RhX2hzLVQ1S0ttUHZyaW9QaFdtMjdaRkNVYkF3b0NzajBSQnJjeGpnNEFzREIwQ2c1bjdSU0lad3ViYnJKYmxXWHZB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "58dc7c47f730",
-      "title": "春季精神健康需關注 醫生解構「桃花癲」與雙相情感障礙 - Singtaousa",
-      "published": "2026-04-21T07:28:20+00:00",
-      "summary": "春季精神健康需關注 醫生解構「桃花癲」與雙相情感障礙&nbsp;&nbsp;Singtaousa女大生四處告白竟是病！醫示警春季好發「桃花癲」 失控行為暴增 | 國際 | CTWANT&nbsp;&nbsp;CTWANT以為全班男同學都暗戀自己？女大生狂表白被拒 醫生揭患春季高發「桃花癲」&nbsp;&nbsp;UHK 港生活情不自禁向多名男同學告白 江蘇女大生就醫確診一種病&nbsp;&nbsp;世界新聞網蘇女大生自作多情四出表白 醫生：春季特別易「發花癲」&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2U0RnVxT016M1VaUkZZMGVOa1NYd0ZBdVlUazJISVpMSzdrTEZFSDUtdWUyZjM4WWY0X3VtZ19NOWJMNEJtaFh6TmdTZ0tQaWg2ZlEwV2FhY05hdWNlZnF0a195UEZiaUwtUXI0SldvRUdQUnJSdFFYUHQyTnpDclFuODBVX1lNei1rallkeDhENzVXWWZTaGxTcE1FWTQ?oc=5"
         }
       ]
     },
@@ -268,18 +256,6 @@
       ]
     },
     {
-      "id": "b7d5828dc1f7",
-      "title": "超市最容易被忽略的抗癌食物——醫師解析「5種種子」的關鍵營養素，每天一小把效果驚人 - Singtaousa",
-      "published": "2026-04-21T04:55:50+00:00",
-      "summary": "超市最容易被忽略的抗癌食物——醫師解析「5種種子」的關鍵營養素，每天一小把效果驚人&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPTHM3NmxZVTVxd21PYUMyVHdlaVBEdHoyd3hienBWc3F1RGpkNmJiV0lsb05iTy1PMzVPZ1h1SjFsZUhvcTJhV2pzeEtGMWpLdW9NU1NoQUVEdHRVUDZQTGllUm5hZE1vSG9yV012dDlvMXRpc3NMM0d1VHUzUHdRZmJZak90UG8xVk1zZVNPRFVfQ1Y4ekxkaG5ib0RFZ2NYaWNxb2xXdWktLVo0LWRmRHpkeFFPSkpfQ1JxQmE2UGtLWmlBa1VEQklnMEtZeGFaZmZUNm95OVJLU2dtdk9lTkxBeE91Z1R6YmRkdUh3X1J6R3FKb0FkRTY1elNJeVN4RHFJU05Db21PRzh6YVl2aTRCckZNX29zbjg1V1prUnZlZFdmZkF1eWJRbUdVZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "16c458e12810",
       "title": "胰臟癌｜19歲女學霸驚患胰臟癌末期被斷言剩3個月命 堅強抗癌歷12次化療父母傾家蕩產救女 - 香港經濟日報HKET",
       "published": "2026-04-22T09:51:16+00:00",
@@ -288,6 +264,18 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMiugRBVV95cUxNckFqX05VUHRmSk90aTE3MDJNYmJkM05hQjJiS3BZeEJtTEFNWVlRck0tRXZ1U0JQRUNQcFRWRW4wSHVMWVBMaUs5UlhDWTU2dko0MmtTd2FVcEk3X2JqYlFaRXJKQnhqeGtVOTM4OUh5SzlqVF9qV0JVZmx3c19fR1dOc2NnM3ZucHZRQ0dVdFFEdnJoM0hYcjVvOVZvem4zc3ktNEd1SExJTkc2RWJMaFJhTGtBRnBxMWlJN1NNNW1vQnFWOWdicmJ5dVo2SmZMakVHS2ZEaG9WWGNGdy1tT2o2M015Uk1lMjZtX1VmNlNDUnlGYjUyOWt3TnRLTkM1S2I3T0xhcEVGemdqTm9fRXF0U1o2RjN6N1M5WUZlall0ZTdyWVF0VHE1XzZFNWFzV1VsWnI5SS0weUl3MWp6azViN1BrdjZSQjZod3d5dHpUMHBhbERKZDlNWnpIQnRuNWh6SFY3cjVVR3pRdHVfcEVyalRkXzM0ZTdBUGlzRXVMYmhmdFdxSGs0Unk4cnFDQm15TDFMZjFoRkVNUDJLQ2JnWk1paHkzSUF5ZWx3aThnZi1oRGs2U3c1SGwxcWVYX250MnFmRm1VeU1na2pFX19jUlRVUjdXU2c4X2NnVm5teG5XNkZta24xQnN2dzlxRFdLUTRUY3dsN3ZBYU1SZjVVajBHV0FyaXRVTWtOTjFHQko5cTRsUi1lT3JrbWxlQTlkcG5yeDZ0emtnSDVoUDZsVGFVWXBhOFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b7d5828dc1f7",
+      "title": "超市最容易被忽略的抗癌食物——醫師解析「5種種子」的關鍵營養素，每天一小把效果驚人 - Singtaousa",
+      "published": "2026-04-21T04:55:50+00:00",
+      "summary": "超市最容易被忽略的抗癌食物——醫師解析「5種種子」的關鍵營養素，每天一小把效果驚人&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPTHM3NmxZVTVxd21PYUMyVHdlaVBEdHoyd3hienBWc3F1RGpkNmJiV0lsb05iTy1PMzVPZ1h1SjFsZUhvcTJhV2pzeEtGMWpLdW9NU1NoQUVEdHRVUDZQTGllUm5hZE1vSG9yV012dDlvMXRpc3NMM0d1VHUzUHdRZmJZak90UG8xVk1zZVNPRFVfQ1Y4ekxkaG5ib0RFZ2NYaWNxb2xXdWktLVo0LWRmRHpkeFFPSkpfQ1JxQmE2UGtLWmlBa1VEQklnMEtZeGFaZmZUNm95OVJLU2dtdk9lTkxBeE91Z1R6YmRkdUh3X1J6R3FKb0FkRTY1elNJeVN4RHFJU05Db21PRzh6YVl2aTRCckZNX29zbjg1V1prUnZlZFdmZkF1eWJRbUdVZw?oc=5"
         }
       ]
     },
