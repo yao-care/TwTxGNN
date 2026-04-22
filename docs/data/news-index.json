@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-22T06:52:36.815802+00:00",
-  "count": 7,
+  "generated": "2026-04-22T08:25:43.104474+00:00",
+  "count": 8,
   "news": [
     {
       "id": "53faf680abce",
@@ -492,6 +492,34 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a534cafe40c5",
+      "title": "幫家中長輩注意RSV！防肺炎、中風等風險，預防策略一次看",
+      "published": "2026-04-21T02:34:00+00:00",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XMGRqb0QxWVdYeURoSHRhb1NybjNmNnZHNlMwQW9nd3dzeGp2TEY2OHJLeHVhbVlDdmVzcGdSdEl0bURId0taUmdmS2h1V0huQWc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
             }
           ]
         }
