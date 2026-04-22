@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-22T01:47:50.759171+00:00",
-  "count": 7,
+  "generated": "2026-04-22T04:40:03.478258+00:00",
+  "count": 5,
   "news": [
     {
       "id": "5442d9626f3a",
@@ -29,54 +29,6 @@
             {
               "slug": "vinorelbine",
               "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "761f1b0b52e5",
-      "title": "肚子大真的會變笨！專家警告：內臟脂肪超標 狂增4成失智退化風險 - TVBS 健康2.0",
-      "published": "2026-04-21T15:17:53+00:00",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3cjhJQXU1RnZVWDd5ZVAyd19zVXdJTXo4Rjl3Z2pmc25jeFV2YnppUlNZWVNhZDl5TmN6VDB4NUFsNzZOZHkxbkl3UmVLVEMzbXc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "26202e34a9d4",
-      "title": "牙痛竟引帶狀皰疹？醫：「這」原因讓免疫力下降、病毒入侵",
-      "published": "2026-04-21T14:07:17+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNTGZqTUlCc1VtUldfbUI5cjFBS3ZYbGx6YmNTbVJtcVRNbXg3eHZzcXVsaUNDMGVSRFRiMjlPMkxpNGJ0RkxzNmNHUks4ZTJDYVE0T2FrWk51RXhPbVRsQUtKcy16WFVaZGVUQVQyZnVPMzNta3J4OTF5elB1UWw4MlNGbG9ud2pPem5OeV92aEtCWWtoanpqZFhOcGNfa3JBRnJlbTNBcFBqU3NVeVdsUnhCNmpfYklROENLN013WGtCMXJVRUZSZURwNkt2YjJFSW9uenpOS21IN0FSYllNbHh5NHJNSHYxM3pvN25DYVdDdkJHOWhrOFYzd2ZHc3J1RDQ0bFRaRFRCLUFLYy1CMGNGTFJ1NHMwd3prZlhFcU5ORlBBR3AwbS1JNUoyelRYcWM2NjhnNmdiUl8xTU1rUTlXcGlUaVFfZ21JUDZNZFhFdDN3blAyczhjdENJRmtB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "帶狀皰疹",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
             }
           ]
         }
