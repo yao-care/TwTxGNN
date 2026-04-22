@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/gemcitabine/
 <li><strong>原適應症</strong>：轉移性大腸直腸癌</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（100.0%）</li>
 <li>rectum mucinous adenocarcinoma（99.8%）</li>
 <li>colon mucinous adenocarcinoma（99.8%）</li>
 <li>endometrial mixed adenocarcinoma（99.8%）</li>
@@ -42,7 +42,7 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（3 則）
 
 ### [50歲以下無菸族肺癌風險竟上升美研究曝：愛吃生菜沙拉者風險較高| 生活](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZRzc3QncyRzAtZDUtNE03MmhrOE1ON2tGd0JDalYta0o0MkI3NnZ3aGFZdGt2cjR0VGtjMUJtNFBaR1FtRjdCRHFjdFVOUVpTeXhreE5fMlhvcjQ?oc=5)
 
@@ -65,30 +65,6 @@ permalink: /news/gemcitabine/
 2026-04-20 <span class="news-indication-tag">癌症</span>
 
 來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE8tZThFbFVZd0dMaHp0VHF1QmY0UjFHSWIyZ0dpbjBIRTJTMEZqLUNBMy0tVExGd21HLWc?oc=5)
-
----
-
-### [乳癌丨婆媳相繼患乳癌醫揭3大元兇誘發「家庭癌」 無血緣關係都中招！【一文睇清症狀／成因／自我檢查】](https://news.google.com/rss/articles/CBMinwVBVV95cUxOY214RnQtSkFwaG5iQjBtbEY0dGZMQko0NDlqRzBmTHRqLUI2cVBWZ1g1Zk8tMFlpWGVlWkw0Q3ZyTXAtVjc1X0dsQ2RKV0hSOUFVRWdDTlNqcjM1c2d4UDNlSUk1UnZ6UFI5a0hGMmhvdWFpMEdkVHlSaXJJTDNKQ092YmVTMlQyWUYxTi1yOU9zZ1FrZHdwOVpwR19YVV9JaE5lb1Y4WG9TQjZwRFZUd3hCeHJLR0FfbHpoT3lNTklpVlEwYXZBcnFDVWU4SDJ1MW91emxZbm5Ga21Gb2Jub1lhaVZoZmRYY2d2TW51ZG9jV3gyMnJkdDdXcG56RVo0ck0wbEJsQmxDa3lyMjlRYmZBVXI4Wl9zaS1IT2lpMzBGcXh4YVJIellrcmtBbjZWbVlrU3JRcm9YY0E0N3RmZlpWaWJoYTI5M0ppTVBmZTBHTWZLeERRNXJ1WFFVRXp5V1g1Y0djNldJWVRHNU9zMDRWVzJtS2tqMGltY3pxTmVvRVVoTE9BTVF5UTRENVBCOWlPdUk4bVJwTDdRckF4NDNMNXdidkNVdjFpOTgzTnhUMGVGV1d0Qk5kRjZtb011WTVuZ1MzeVN3ZUxoZ3I0NDRleEtNa1NTU0ZzTzE5OUVqUTF4UjNIMmxDWVg4Q0lKYXdEazlCbmJ6Zm12SFdkSUhCaUUwMjM4VVVDZlowTkVqS0wyWTQzeVIxb0JFLW41eUdfX0VUTG9VNy1hSHpUZUd3aGt1NnFIcTgyMGlUZnNFNHhkQkFlckdST3NBejMxYjNqVk94SGgwTHZZZUcwSjRER19GQk9pZGFudTAwaEtHUEwwSktkdVFCZzl0QXpOdl9TQ0ItTVQ1a0Q1LUFjVTRDR3JubHdxU2tpYm5aYw?oc=5)
-
-2026-04-20 <span class="news-indication-tag">乳癌</span>
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMinwVBVV95cUxOY214RnQtSkFwaG5iQjBtbEY0dGZMQko0NDlqRzBmTHRqLUI2cVBWZ1g1Zk8tMFlpWGVlWkw0Q3ZyTXAtVjc1X0dsQ2RKV0hSOUFVRWdDTlNqcjM1c2d4UDNlSUk1UnZ6UFI5a0hGMmhvdWFpMEdkVHlSaXJJTDNKQ092YmVTMlQyWUYxTi1yOU9zZ1FrZHdwOVpwR19YVV9JaE5lb1Y4WG9TQjZwRFZUd3hCeHJLR0FfbHpoT3lNTklpVlEwYXZBcnFDVWU4SDJ1MW91emxZbm5Ga21Gb2Jub1lhaVZoZmRYY2d2TW51ZG9jV3gyMnJkdDdXcG56RVo0ck0wbEJsQmxDa3lyMjlRYmZBVXI4Wl9zaS1IT2lpMzBGcXh4YVJIellrcmtBbjZWbVlrU3JRcm9YY0E0N3RmZlpWaWJoYTI5M0ppTVBmZTBHTWZLeERRNXJ1WFFVRXp5V1g1Y0djNldJWVRHNU9zMDRWVzJtS2tqMGltY3pxTmVvRVVoTE9BTVF5UTRENVBCOWlPdUk4bVJwTDdRckF4NDNMNXdidkNVdjFpOTgzTnhUMGVGV1d0Qk5kRjZtb011WTVuZ1MzeVN3ZUxoZ3I0NDRleEtNa1NTU0ZzTzE5OUVqUTF4UjNIMmxDWVg4Q0lKYXdEazlCbmJ6Zm12SFdkSUhCaUUwMjM4VVVDZlowTkVqS0wyWTQzeVIxb0JFLW41eUdfX0VUTG9VNy1hSHpUZUd3aGt1NnFIcTgyMGlUZnNFNHhkQkFlckdST3NBejMxYjNqVk94SGgwTHZZZUcwSjRER19GQk9pZGFudTAwaEtHUEwwSktkdVFCZzl0QXpOdl9TQ0ItTVQ1a0Q1LUFjVTRDR3JubHdxU2tpYm5aYw?oc=5)
-
----
-
-### [運動與布洛芬對癌症患者化療腦影響的研究進展與挑戰 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxOa2ZnVDJtRW5TNHFwWDZNT2YzX2g5MkNMZmxUcVNpel84WUczWUctWFN4cFlkYUQwSmoyb3Q0Y1RzR3VwVVd1U0dnVlFSVWpDRkpIVERUM2xZNWo1bVlDRHpVaWlVQ1BJeEZtcDZ3OUZONEJFZ1MwSGt5SkRFVWktc1hibFh4WGZwM0hNVkF2ckpnc1B0c0hoOVhNb1loSFVqWGllSUUyY0QxWUFhbmJ0UlBnTkhQbnE1WXdTMG5kd3JQTGo0UTRKN3hTeVdhNjFRTGlXU3R2bS0wR2xldDdoOEdadjZWNE5kVjQ5elBsQ3JZTU9GeXM3dFdid3V3bzI4bTc2bmRSMUtwRWxWM3prZGsya2pheU4zTGNWVFhpVFpjdlJiT2lqZjFPeFpuX3J3TFpmcnRjYVlwWEZHMVVRajYwei1RQQ?oc=5)
-
-2026-04-20 <span class="news-indication-tag">癌症</span>
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxOa2ZnVDJtRW5TNHFwWDZNT2YzX2g5MkNMZmxUcVNpel84WUczWUctWFN4cFlkYUQwSmoyb3Q0Y1RzR3VwVVd1U0dnVlFSVWpDRkpIVERUM2xZNWo1bVlDRHpVaWlVQ1BJeEZtcDZ3OUZONEJFZ1MwSGt5SkRFVWktc1hibFh4WGZwM0hNVkF2ckpnc1B0c0hoOVhNb1loSFVqWGllSUUyY0QxWUFhbmJ0UlBnTkhQbnE1WXdTMG5kd3JQTGo0UTRKN3hTeVdhNjFRTGlXU3R2bS0wR2xldDdoOEdadjZWNE5kVjQ5elBsQ3JZTU9GeXM3dFdid3V3bzI4bTc2bmRSMUtwRWxWM3prZGsya2pheU4zTGNWVFhpVFpjdlJiT2lqZjFPeFpuX3J3TFpmcnRjYVlwWEZHMVVRajYwei1RQQ?oc=5)
-
----
-
-### [壓力會導致癌症嗎？專家稱答案比你想像的更複雜](https://news.google.com/rss/articles/CBMi5gJBVV95cUxOcDkwczFRMHZXc09NXzBMd2R4Um1XTUphRHVyMnpXSDNzVWJHd1hlX3lXN1otR29ZUHNuWXBESXFUdE9tMWk0b00zUlpHUjVLR3l6WmV3b1A0WGxzbVdTUzZIbExBRE5mdTNMajJZc0MxS1FiYU5RNExxdWxoSkRDQnZiSTQ4TTlHMjdfX1ZUOTR1SjRYc3NENU00aU1FWGJ1cXRma1A5SzI2bDRHWTlVNERUbWdWcHNXb1hqSF8xREctWmxCd3JsVWJ4TWYxY3BJTkVRQjhVdm0yWENFSkppWk1SdVhla1B4WjNEY1NXMlFDTkdmcHhhQUF6WllkdVhlUmJZTkRyX2JHT3ZNSzhfNXl5YU14RjM1cktydWd5YmFWWTdxeEJkbUxQWFp5N2FuVnRGQUVCdE91VGpLNklIeUdrTENWOVVORUU4OWFJUjF5UDVOSnJ1elpldzV3U0txOXVHTXZn?oc=5)
-
-2026-04-17 <span class="news-indication-tag">癌症</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxOcDkwczFRMHZXc09NXzBMd2R4Um1XTUphRHVyMnpXSDNzVWJHd1hlX3lXN1otR29ZUHNuWXBESXFUdE9tMWk0b00zUlpHUjVLR3l6WmV3b1A0WGxzbVdTUzZIbExBRE5mdTNMajJZc0MxS1FiYU5RNExxdWxoSkRDQnZiSTQ4TTlHMjdfX1ZUOTR1SjRYc3NENU00aU1FWGJ1cXRma1A5SzI2bDRHWTlVNERUbWdWcHNXb1hqSF8xREctWmxCd3JsVWJ4TWYxY3BJTkVRQjhVdm0yWENFSkppWk1SdVhla1B4WjNEY1NXMlFDTkdmcHhhQUF6WllkdVhlUmJZTkRyX2JHT3ZNSzhfNXl5YU14RjM1cktydWd5YmFWWTdxeEJkbUxQWFp5N2FuVnRGQUVCdE91VGpLNklIeUdrTENWOVVORUU4OWFJUjF5UDVOSnJ1elpldzV3U0txOXVHTXZn?oc=5)
 
 ---
 
