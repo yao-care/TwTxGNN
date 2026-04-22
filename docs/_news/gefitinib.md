@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 5 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 5 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,15 +36,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [失智症原因曝光！「每天久坐」風險激增27%，研究曝睡太久也是主因](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RV0dWNm90bnczQWVONGs1ZkpCUGFTUXhWZzNrZGp2dHdjQWVPcnRFWUpLYlVmTF90TzFsa2NGUzFTZjhlYnJmaU40Nkw?oc=5)
-
-2026-04-21 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RV0dWNm90bnczQWVONGs1ZkpCUGFTUXhWZzNrZGp2dHdjQWVPcnRFWUpLYlVmTF90TzFsa2NGUzFTZjhlYnJmaU40Nkw?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [肚子大真的會變笨！專家警告：內臟脂肪超標 狂增4成失智退化風險 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3cjhJQXU1RnZVWDd5ZVAyd19zVXdJTXo4Rjl3Z2pmc25jeFV2YnppUlNZWVNhZDl5TmN6VDB4NUFsNzZOZHkxbkl3UmVLVEMzbXc?oc=5)
 

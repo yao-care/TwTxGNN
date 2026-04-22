@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-21T23:28:55.185310+00:00",
+  "last_updated": "2026-04-22T01:47:50.733399+00:00",
   "total_count": 22,
-  "matched_count": 8,
+  "matched_count": 7,
   "news": [
     {
       "id": "5442d9626f3a",
@@ -37,42 +37,6 @@
       ]
     },
     {
-      "id": "fd3f1c5f6288",
-      "title": "失智症原因曝光！「每天久坐」風險激增27%，研究曝睡太久也是主因",
-      "published": "2026-04-21T16:45:44+00:00",
-      "summary": "失智症原因曝光！「每天久坐」風險激增27%，研究曝睡太久也是主因&nbsp;&nbsp;祝你健康",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RV0dWNm90bnczQWVONGs1ZkpCUGFTUXhWZzNrZGp2dHdjQWVPcnRFWUpLYlVmTF90TzFsa2NGUzFTZjhlYnJmaU40Nkw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "f44757ddefc2",
       "title": "不是只有男生才要補鋅，女生也需要！10大「鋅」食物排行榜！不是生蠔、第一名竟然是「這食物」 | Women's Health",
       "published": "2026-04-21T15:28:00+00:00",
@@ -89,7 +53,7 @@
       "id": "761f1b0b52e5",
       "title": "肚子大真的會變笨！專家警告：內臟脂肪超標 狂增4成失智退化風險 - TVBS 健康2.0",
       "published": "2026-04-21T15:17:53+00:00",
-      "summary": "肚子大真的會變笨！專家警告：內臟脂肪超標 狂增4成失智退化風險&nbsp;&nbsp;TVBS 健康2.0內臟脂肪過高「讓人變笨」？ 研究示警：泡芙人族群最危險，大腦恐受到7種損害&nbsp;&nbsp;四季線上4gTV內臟脂肪過高「讓人變笨」？ 研究示警：泡芙人族群最危險，大腦恐受到10種損害| 有肌勵&nbsp;&nbsp;聯合新聞網",
+      "summary": "肚子大真的會變笨！專家警告：內臟脂肪超標 狂增4成失智退化風險&nbsp;&nbsp;TVBS 健康2.0科學家發現有助於減少肥胖的天然激素&nbsp;&nbsp;arch-web.com.tw內臟脂肪過高「讓人變笨」？ 研究示警：泡芙人族群最危險，大腦恐受到7種損害&nbsp;&nbsp;四季線上4gTV內臟脂肪過高「讓人變笨」？ 研究示警：泡芙人族群最危險，大腦恐受到10種損害| 有肌勵&nbsp;&nbsp;聯合新聞網",
       "sources": [
         {
           "name": "TVBS 健康2.0",
@@ -444,6 +408,19 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHU3lNWjRKbmQtSkJkSDliOU1zQmg2OUduTWczaWh5b3hqQUcwZW94UjRCMnFUR1RiMUZYZTBrTV9RMUZJcnZJaWRnNXVVT3UyWWc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3e31203386f0",
+      "title": "【健康養成記】小腹難消？50歲後靠這兩招增肌又減脂 - 大紀元時報 香港",
+      "published": "2026-04-20T19:32:39+00:00",
+      "summary": "【健康養成記】小腹難消？50歲後靠這兩招增肌又減脂&nbsp;&nbsp;大紀元時報 香港",
+      "sources": [
+        {
+          "name": "大紀元時報 香港",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IM05Hbm9qUXljSWg2WmZTSWFxSWlvY1VfQkRBbVk1ZFZfa01zSk85U2l5N3FHblgtQThjOXpyTHhPR1MtU0lkamxhVE9pS04zSkZLN1JqbEtYUzZjeXdn?oc=5"
         }
       ],
       "matched_keywords": []

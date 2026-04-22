@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-21T23:28:55.212491+00:00",
-  "count": 8,
+  "generated": "2026-04-22T01:47:50.759171+00:00",
+  "count": 7,
   "news": [
     {
       "id": "5442d9626f3a",
@@ -29,41 +29,6 @@
             {
               "slug": "vinorelbine",
               "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "fd3f1c5f6288",
-      "title": "失智症原因曝光！「每天久坐」風險激增27%，研究曝睡太久也是主因",
-      "published": "2026-04-21T16:45:44+00:00",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RV0dWNm90bnczQWVONGs1ZkpCUGFTUXhWZzNrZGp2dHdjQWVPcnRFWUpLYlVmTF90TzFsa2NGUzFTZjhlYnJmaU40Nkw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
