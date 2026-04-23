@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [大腸癌風險新線索 科學家發現腸道菌藏神秘病毒](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtS0pjU0kwcTFLLWtXVkpJX3FCcUtmRXBRTjBLVFcwSUxVWnhkM2hJT2hlcHlHMVZfMl9oOXViYUk4dnNBbWo0Xy1VMmU0Tl90M2EzR1N4bnBORlZFTnA0?oc=5)
+
+2026-04-23 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtS0pjU0kwcTFLLWtXVkpJX3FCcUtmRXBRTjBLVFcwSUxVWnhkM2hJT2hlcHlHMVZfMl9oOXViYUk4dnNBbWo0Xy1VMmU0Tl90M2EzR1N4bnBORlZFTnA0?oc=5)
+
+---
 
 ### [孩子錯過HPV疫苗來得及補嗎？醫提醒兩劑完成關鍵 建立防護降低癌症風險](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yWUtoLTdVTlRVcnZ2RDZ4MWowalN4cFZsZzFtRmpDZ1JJcG9YbEdEX21sVHBncm9FT0dqcUtaQWRhcjFBSjAxRVljWVh5eGhGNndSYzFR?oc=5)
 

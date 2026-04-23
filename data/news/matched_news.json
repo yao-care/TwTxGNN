@@ -1,8 +1,69 @@
 {
-  "last_updated": "2026-04-23T08:50:35.138225+00:00",
-  "total_count": 29,
-  "matched_count": 6,
+  "last_updated": "2026-04-23T10:15:37.655278+00:00",
+  "total_count": 27,
+  "matched_count": 7,
   "news": [
+    {
+      "id": "8beaf5a7c78b",
+      "title": "大腸癌風險新線索 科學家發現腸道菌藏神秘病毒",
+      "published": "2026-04-23T09:02:45+00:00",
+      "summary": "大腸癌風險新線索 科學家發現腸道菌藏神秘病毒&nbsp;&nbsp;科技島",
+      "sources": [
+        {
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtS0pjU0kwcTFLLWtXVkpJX3FCcUtmRXBRTjBLVFcwSUxVWnhkM2hJT2hlcHlHMVZfMl9oOXViYUk4dnNBbWo0Xy1VMmU0Tl90M2EzR1N4bnBORlZFTnA0?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "460635300aa4",
+      "title": "低碳飲食當心「酮流感」！疲勞、易怒、沒食慾⋯醫：反讓減重效果打折",
+      "published": "2026-04-23T09:00:00+00:00",
+      "summary": "低碳飲食當心「酮流感」！疲勞、易怒、沒食慾⋯醫：反讓減重效果打折&nbsp;&nbsp;優活健康網",
+      "sources": [
+        {
+          "name": "優活健康網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lZHVmT01JSWp2OENzWGpaX3ZMX0RGNEtINFFza25QX0hMOHNabnpDR1JtTnRpNVUwR2d0VVIzQW5WeG05Q1NWX3JBZlllWUJvOFZF?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "c584d85d79f0",
       "title": "天竺葵精油奈米乳液展現抗菌潛力助力應對抗藥性問題 - GeneOnline News",
@@ -59,7 +120,7 @@
       "id": "650a7acd354f",
       "title": "高燒4天後全身紅疹！ 醫揭「玫瑰疹」關鍵徵兆 與麻疹差異一次看",
       "published": "2026-04-23T02:56:05+00:00",
-      "summary": "高燒4天後全身紅疹！ 醫揭「玫瑰疹」關鍵徵兆 與麻疹差異一次看&nbsp;&nbsp;聯合新聞網寶寶高燒39度沒感冒？醫揭「玫瑰疹」特徵：退燒後1現象是關鍵&nbsp;&nbsp;TVBS 健康2.010個月嬰染高燒39度「4天後出紅疹」 醫揭玫瑰疹關鍵徵兆&nbsp;&nbsp;ETtoday健康雲嬰幼兒高燒4天後出紅疹 醫：多數免驚但要留意這些警訊&nbsp;&nbsp;台視新聞網嬰高燒39度！全身爬滿紅疹 醫示警玫瑰疹徵兆&nbsp;&nbsp;NOWnews今日新聞",
+      "summary": "高燒4天後全身紅疹！ 醫揭「玫瑰疹」關鍵徵兆 與麻疹差異一次看&nbsp;&nbsp;聯合新聞網寶寶高燒39度沒感冒？醫揭「玫瑰疹」特徵：退燒後1現象是關鍵&nbsp;&nbsp;TVBS 健康2.0嬰高燒39度後「全身紅疹」！ 醫揭玫瑰疹徵兆：退燒後「1現象」是關鍵&nbsp;&nbsp;祝你健康10個月嬰染高燒39度「4天後出紅疹」 醫揭玫瑰疹關鍵徵兆&nbsp;&nbsp;ETtoday健康雲嬰高燒39度！全身爬滿紅疹 醫示警玫瑰疹徵兆&nbsp;&nbsp;NOWnews今日新聞",
       "sources": [
         {
           "name": "聯合新聞網",
@@ -303,23 +364,10 @@
       "matched_keywords": []
     },
     {
-      "id": "a997b2b7cc61",
-      "title": "精準醫療轉化臨床：Nature系列會議探討多體學與AI挑戰",
-      "published": "2026-04-22T13:39:29+00:00",
-      "summary": "精準醫療轉化臨床：Nature系列會議探討多體學與AI挑戰&nbsp;&nbsp;Yahoo股市前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "Yahoo股市",
-          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPTWZYWkpVWWFrTDhOV0YxSFpodlZkOHR1N0wyNmpWWmh4MmczbXJUMDBNV1lMbUxtS0FoZXZXUjdRREVLSVk0SjRjcGg2UWNiM1hlRmhxRW5HMTVndU1vdDFvY3hzSkNYc05yWGE0bEV5cER1S21jY2RxdkFxYW1UXzRiRmRJNlROcDl4OXBLUVZuaUROS0VJX2RUVzZvNkhmdEV0dURJU3B6Tkd3LTN2Q0RFZmFpbGNDM20za1JnTHl3Ym9tZkFHaWJGN2FCMEMyT2pXdF9EY2ZyM1J6elN2WjVjcjkzc1Nuak9fTmNnY3JJbjYwV3o3anNESG96X3dYZGNFNWd0Wll2TF9FUURPYkxPR3pra1hObVRYN29aLXJ3UlhIQ3Z3dldZaXExYllFUEFZWnVsTHdDd1RyQUVaQjJXYXhNWWRoY0hkTHZCUmh3WnllNGFF?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "b84a43ac7a56",
       "title": "「3類養生飲品」天天喝10年後出事！　醫嘆：身體變癌細胞溫床",
       "published": "2026-04-22T12:25:00+00:00",
-      "summary": "「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲不是珍奶！這飲品「沒壞東西樣子」 喝10年癌細胞恐肆虐&nbsp;&nbsp;Yahoo新聞癌症為何越來越年輕？關鍵可能不只是基因&nbsp;&nbsp;TechNews 科技新報喝錯飲品竟致癌？果汁、熱飲藏危機 醫：身體變癌細胞溫床&nbsp;&nbsp;TVBS新聞網40歲媽每天1杯果汁「喝出癌」 醫揭「3偽健康飲料」：身體變癌細胞溫床&nbsp;&nbsp;祝你健康",
+      "summary": "「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲不是珍奶！這飲品「沒壞東西樣子」 喝10年癌細胞恐肆虐&nbsp;&nbsp;Yahoo新聞癌症為何越來越年輕？關鍵可能不只是基因&nbsp;&nbsp;TechNews 科技新報40歲媽每天1杯果汁「喝出癌」 醫揭「3偽健康飲料」：身體變癌細胞溫床&nbsp;&nbsp;祝你健康日飲1杯常見飲品胰臟癌風險激增87%‌！醫生點名4大飲料黑名單：熱茶恐致癌&nbsp;&nbsp;U Food",
       "sources": [
         {
           "name": "ETtoday健康雲",
@@ -525,19 +573,6 @@
       ]
     },
     {
-      "id": "cf0bada65d30",
-      "title": "大陸「五一連假」將近陸疾控局：流感病毒活躍度上升| 大陸傳真| 兩岸",
-      "published": "2026-04-22T12:03:46+00:00",
-      "summary": "大陸「五一連假」將近陸疾控局：流感病毒活躍度上升| 大陸傳真| 兩岸&nbsp;&nbsp;聯合新聞網國家疾控局：內地流感病毒和鼻病毒的活動水平呈上升趨勢麻疹發病率處歷史低位- 內地&nbsp;&nbsp;大公文匯網內地本月流感和鼻病毒活動水平趨升&nbsp;&nbsp;澳門廣播電視股份有限公司內地流感病毒活動水平上升 需關注蚊媒傳染病&nbsp;&nbsp;on.cc東網內地流感鼻病毒趨活躍 國家疾管局提醒「五一」假留意目的地疫情 (19:00) - 20260422 - 熱點&nbsp;&nbsp;明報新聞網",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PS21pQXc2blpUcmw5VTRIRkVSSWNIdmZqWWZuQVZra0tjanFIM1dLazRkbTktNzJqaFNuSVYtX09nR2VFcHRBZldhajZmZDhB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "601ad91ae768",
       "title": "防曬｜28歲女為美白狂搽防曬慘患「軟骨病」連咬嘢都無力！醫生警告：避陽光過龍隨時出事附消委會6款滿分防曬推介 - UHK 港生活",
       "published": "2026-04-22T11:10:39+00:00",
@@ -564,6 +599,19 @@
       "matched_keywords": []
     },
     {
+      "id": "c1b819c08670",
+      "title": "中國疾控局：流感病毒活躍度上升| 兩岸 - 中央社 CNA",
+      "published": "2026-04-22T10:00:00+00:00",
+      "summary": "中國疾控局：流感病毒活躍度上升| 兩岸&nbsp;&nbsp;中央社 CNA大陸「五一連假」將近陸疾控局：流感病毒活躍度上升| 大陸傳真| 兩岸&nbsp;&nbsp;聯合新聞網國家疾控局：內地流感病毒和鼻病毒的活動水平呈上升趨勢麻疹發病率處歷史低位- 內地&nbsp;&nbsp;大公文匯網內地本月流感和鼻病毒活動水平趨升&nbsp;&nbsp;澳門廣播電視股份有限公司內地流感病毒活動水平上升 需關注蚊媒傳染病&nbsp;&nbsp;on.cc東網",
+      "sources": [
+        {
+          "name": "中央社 CNA",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hc0Q4cUlSQVd4X2w1Y0Jtb0ppZkNSSVN5UnFHNEFhLU5NNDNYRTNMUVd6eFlWcVp3YmtMcWV4cWdDNFJDeGxZYjQ4b3piWjJVTmx4ZUVTbEtBQ2ZybGc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "16c458e12810",
       "title": "胰臟癌｜19歲女學霸驚患胰臟癌末期被斷言剩3個月命 堅強抗癌歷12次化療父母傾家蕩產救女",
       "published": "2026-04-22T09:51:16+00:00",
@@ -572,19 +620,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMiugRBVV95cUxNckFqX05VUHRmSk90aTE3MDJNYmJkM05hQjJiS3BZeEJtTEFNWVlRck0tRXZ1U0JQRUNQcFRWRW4wSHVMWVBMaUs5UlhDWTU2dko0MmtTd2FVcEk3X2JqYlFaRXJKQnhqeGtVOTM4OUh5SzlqVF9qV0JVZmx3c19fR1dOc2NnM3ZucHZRQ0dVdFFEdnJoM0hYcjVvOVZvem4zc3ktNEd1SExJTkc2RWJMaFJhTGtBRnBxMWlJN1NNNW1vQnFWOWdicmJ5dVo2SmZMakVHS2ZEaG9WWGNGdy1tT2o2M015Uk1lMjZtX1VmNlNDUnlGYjUyOWt3TnRLTkM1S2I3T0xhcEVGemdqTm9fRXF0U1o2RjN6N1M5WUZlall0ZTdyWVF0VHE1XzZFNWFzV1VsWnI5SS0weUl3MWp6azViN1BrdjZSQjZod3d5dHpUMHBhbERKZDlNWnpIQnRuNWh6SFY3cjVVR3pRdHVfcEVyalRkXzM0ZTdBUGlzRXVMYmhmdFdxSGs0Unk4cnFDQm15TDFMZjFoRkVNUDJLQ2JnWk1paHkzSUF5ZWx3aThnZi1oRGs2U3c1SGwxcWVYX250MnFmRm1VeU1na2pFX19jUlRVUjdXU2c4X2NnVm5teG5XNkZta24xQnN2dzlxRFdLUTRUY3dsN3ZBYU1SZjVVajBHV0FyaXRVTWtOTjFHQko5cTRsUi1lT3JrbWxlQTlkcG5yeDZ0emtnSDVoUDZsVGFVWXBhOFE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "247b4d385cd3",
-      "title": "不用再試藥等半年 AI預測自體免疫治療效果只要14天",
-      "published": "2026-04-22T08:36:42+00:00",
-      "summary": "不用再試藥等半年 AI預測自體免疫治療效果只要14天&nbsp;&nbsp;中時新聞網維他命C氫分子救自體免疫病台灣成果登國際期刊| 生活&nbsp;&nbsp;中央社 CNA自體免疫疾病 AI試藥助甩類固醇&nbsp;&nbsp;聯合新聞網試藥半年變14天 三總AI預測免疫用藥 助患者擺脫類固醇&nbsp;&nbsp;自由健康網婦3病纏身 AI預測用藥準確率9成 | 中華日報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQkROcU12Q2RXQUFWRy1UOXV3YkYzV21PaWRjMi12VkpTRmJoS0NoTG9Mb3RvZDlxa2tDRDB4ZEswRU44bEVpY1dLRkY0LWNSTkdjWGpMSXM2ZmY5Ymw3WEs1V2UwM3NqLVljclFxLVVrUmQzWlFCdHFUNVo2THc4bVpVSDdZWGQ3ZWhRa0NtUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -938,6 +973,19 @@
       ]
     },
     {
+      "id": "90e04685c25b",
+      "title": "益生菌改造技術，抗癌治療迎來關鍵轉折",
+      "published": "2026-04-21T22:16:32+00:00",
+      "summary": "益生菌改造技術，抗癌治療迎來關鍵轉折&nbsp;&nbsp;美南新聞",
+      "sources": [
+        {
+          "name": "美南新聞",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4wTDVFc3ZZN3AwUmd2cWk5WDZ3SUtLMllJM0FNcm9iZmdMblNOS2xVZVluRVQ3bkkyelhwY0JJaklsei0y?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "5442d9626f3a",
       "title": "英國22歲女子肺癌末期 僅剩1年半壽命 15歲起吸電子煙",
       "published": "2026-04-21T21:26:38+00:00",
@@ -979,45 +1027,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNcXR4RmZwUjJ2a292ZHR6YmZfbnprV1lBSzh2emR4MHZLR1ZURlBISl9kaDZ1MkV1T3BjRW1SUlNXb1Q0bF9nNzdXN21SVXJ6MEtqZzVvMTFDZWs1NzVOVWRjQWE2am8yZkdTc2pHdGZIbDBSUG5sdWVuU290VFlMaFAzMkZHZU1tWjhLOHg2Rk5lNXpXMnpMMDkwM3ZRMml5U1FzWUMzTFBkX19DbXhXcTNuUVBqYU8yZGdwOEhGaFdKSURIOVJtbGlqSTRkNTBTOU9RU3NkUDRNaWZNY2ZOWnlIcDVHbnVwaXhYdnpwT0xtSnF3dFVDVGJjaHBhX3VCTDFTam5oMmMybnhVczlfWXNjdEczeUdGN0w4b1dlNzNUQUdGM1pOR1l3VG8tdHkwbVdRRVh0alNWQ08yNHdmVmNJR3BZMm9MWGRpdGV2Q0Q2M2MtbU83QVB1X0hTR3k5NUhB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "cef3d6cadcdc",
-      "title": "懶人先會瞓晏覺？ 午睡是大腦保養秘技 權威實測腦部逆齡6.5年！預防腦退化！",
-      "published": "2026-04-21T08:58:19+00:00",
-      "summary": "懶人先會瞓晏覺？ 午睡是大腦保養秘技 權威實測腦部逆齡6.5年！預防腦退化！&nbsp;&nbsp;東方新地",
-      "sources": [
-        {
-          "name": "東方新地",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNU3ppaC1SMklReElROTBLWkFvWjQtSm83NUVUZmpXUmxVek9vNklpbEYyM1BPRzVZeVRnQVhBZlR3N1lPOS1pRUotRzVYNFp2Q1VRWk1zdFJ6cDVtcktUcVp2MXNmenR3TFlvUHZsbXh5QnpXc3pFZUl5TFlQZnFWdWxHdWpEa2tVWjNRODVSUnluOS1NY1BWRDBrUENhRmxwUlZSQ3hqQ0JHblpDT2xYSzJJcEdmancxNHZSU3lDUUlScmVteWhkTGhzNjhYb2ZDYllKSDh4eU1hS3dpUHZxUUpNeVBUemN0U0I1VUJraHpSOUJ0UkVOUlhmVWRESWIxUXlrN3BEVHotRGxzRExqNVJ3LXZTNmRvYlhlMmVIUlBLWHJUTXdnRU0wdHRsaGtGNkU1dzFieHExUi1vZEt5UnBWa3Q3dw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "38f689cf46d6",
-      "title": "癌細胞新弱點！研究揭「維生素B7不足」讓生長喊卡",
-      "published": "2026-04-21T08:40:44+00:00",
-      "summary": "癌細胞新弱點！研究揭「維生素B7不足」讓生長喊卡&nbsp;&nbsp;科技島",
-      "sources": [
-        {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhQkNVMnljMTBiSUk2TW83aGlBT0pYWlRGMm1haVlES2wwNHd4a05oWHZJUDRYUEhzSlViOEYyZHlJamdSVHpPNTNnT05oaUJqWVFlZ0FMQTlhQ3Q0bDZF?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0774c647ff0c",
-      "title": "在不安裡長大的人，後來都學會了一件事",
-      "published": "2026-04-21T08:25:00+00:00",
-      "summary": "在不安裡長大的人，後來都學會了一件事&nbsp;&nbsp;peopo.org",
-      "sources": [
-        {
-          "name": "peopo.org",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5VVFONXQ2Tkt2RkxCUUtjRFQ1VXhFcVhKY0hCbkdueUtKWmZXQjBPbTVzdDRnSzN2SFdQZmhrM2dvS2tUc19zTQ?oc=5"
         }
       ],
       "matched_keywords": []

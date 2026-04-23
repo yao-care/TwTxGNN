@@ -1,7 +1,54 @@
 {
-  "generated": "2026-04-23T08:50:35.231853+00:00",
-  "count": 6,
+  "generated": "2026-04-23T10:15:37.673157+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "8beaf5a7c78b",
+      "title": "大腸癌風險新線索 科學家發現腸道菌藏神秘病毒",
+      "published": "2026-04-23T09:02:45+00:00",
+      "sources": [
+        {
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtS0pjU0kwcTFLLWtXVkpJX3FCcUtmRXBRTjBLVFcwSUxVWnhkM2hJT2hlcHlHMVZfMl9oOXViYUk4dnNBbWo0Xy1VMmU0Tl90M2EzR1N4bnBORlZFTnA0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "650a7acd354f",
       "title": "高燒4天後全身紅疹！ 醫揭「玫瑰疹」關鍵徵兆 與麻疹差異一次看",
