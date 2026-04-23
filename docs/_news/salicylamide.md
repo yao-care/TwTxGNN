@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/salicylamide/
 <li>nasal cavity disease（100.0%）</li>
 <li>acute laryngopharyngitis（100.0%）</li>
 <li>trigeminal autonomic cephalalgia（99.9%）</li>
-<li class="indication-matched">common cold（99.9%）<span class="indication-tag">📰 感冒</span></li>
+<li>common cold（99.9%）</li>
 <li>allergic urticaria（99.7%）</li>
 <li>lung disease（99.6%）</li>
 <li>massive neonatal aspiration syndrome（99.6%）</li>
@@ -42,15 +42,9 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [高燒4天後全身紅疹！ 醫揭「玫瑰疹」關鍵徵兆 與麻疹差異一次看](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GT2hIUG5FTjhoalZEY0U4Ul9sTFVqLWl6WTQxMm9zTF9FekU5Vi1oSFU2TV9UMWVlQjVsVzBlZVV1RFFnQWRYSUJRTWFHV3ZC0gFWQVVfeXFMTmNsaG1YcEFJQkRYWHBJSnlxQkxuVXYwSm1aS3hDSmQzYzNmM200OHlKOUItclpTc216UE5EX2d1SDBNTTZOQ2dNeVZmdkhQWHNzZElaNnc?oc=5)
-
-2026-04-23 <span class="news-indication-tag">感冒</span>
-
-來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GT2hIUG5FTjhoalZEY0U4Ul9sTFVqLWl6WTQxMm9zTF9FekU5Vi1oSFU2TV9UMWVlQjVsVzBlZVV1RFFnQWRYSUJRTWFHV3ZC0gFWQVVfeXFMTmNsaG1YcEFJQkRYWHBJSnlxQkxuVXYwSm1aS3hDSmQzYzNmM200OHlKOUItclpTc216UE5EX2d1SDBNTTZOQ2dNeVZmdkhQWHNzZElaNnc?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

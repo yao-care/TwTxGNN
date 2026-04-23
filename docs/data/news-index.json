@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-23T13:04:35.951554+00:00",
-  "count": 8,
+  "generated": "2026-04-23T15:45:02.087046+00:00",
+  "count": 7,
   "news": [
     {
       "id": "8beaf5a7c78b",
@@ -68,30 +68,6 @@
             {
               "slug": "isosorbide_dinitrate",
               "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "650a7acd354f",
-      "title": "高燒4天後全身紅疹！ 醫揭「玫瑰疹」關鍵徵兆 與麻疹差異一次看",
-      "published": "2026-04-23T02:56:05+00:00",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GT2hIUG5FTjhoalZEY0U4Ul9sTFVqLWl6WTQxMm9zTF9FekU5Vi1oSFU2TV9UMWVlQjVsVzBlZVV1RFFnQWRYSUJRTWFHV3ZC0gFWQVVfeXFMTmNsaG1YcEFJQkRYWHBJSnlxQkxuVXYwSm1aS3hDSmQzYzNmM200OHlKOUItclpTc216UE5EX2d1SDBNTTZOQ2dNeVZmdkhQWHNzZElaNnc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
@@ -741,13 +717,13 @@
       ]
     },
     {
-      "id": "53faf680abce",
-      "title": "柏臻慈善信託啟動 2026 年度「生命無 Plan B，關注 B 細胞淋巴癌」宣傳活動 | 國際現場 | 商情",
-      "published": "2026-04-22T02:01:02+00:00",
+      "id": "d9e67d44db26",
+      "title": "柏臻慈善信託啟動 2026 年度「生命無 Plan B，關注 B 細胞淋巴癌」宣傳活動 - Taiwan News",
+      "published": "2026-04-22T01:30:00+00:00",
       "sources": [
         {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11T2U4NUJXUGpPbzJwWG1USno2NWQ2Nmd4LU1fc1k3aTB2SGI5M0NPdFZTZWU0NzFMaTRaV1BOQkRJNDBfaTgxcU9UTTdyN0ZrYVZoY0ZtdzJyWHc?oc=5"
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MOG1YQnpzdVJDaURLNFdXd3JaTGlRX0I1T2hQdDFIZ3NvaDVSZDNHVF9UTGJqNnhZcWtYOUlLYVF4NmdLaXlqLXZxZzgtMXY5NVZJZ0dhRV8?oc=5"
         }
       ],
       "keywords": [

@@ -68,11 +68,11 @@ permalink: /news/clobetasone/
 
 ---
 
-### [柏臻慈善信託啟動 2026 年度「生命無 Plan B，關注 B 細胞淋巴癌」宣傳活動 | 國際現場 | 商情](https://news.google.com/rss/articles/CBMiW0FVX3lxTE11T2U4NUJXUGpPbzJwWG1USno2NWQ2Nmd4LU1fc1k3aTB2SGI5M0NPdFZTZWU0NzFMaTRaV1BOQkRJNDBfaTgxcU9UTTdyN0ZrYVZoY0ZtdzJyWHc?oc=5)
+### [柏臻慈善信託啟動 2026 年度「生命無 Plan B，關注 B 細胞淋巴癌」宣傳活動 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MOG1YQnpzdVJDaURLNFdXd3JaTGlRX0I1T2hQdDFIZ3NvaDVSZDNHVF9UTGJqNnhZcWtYOUlLYVF4NmdLaXlqLXZxZzgtMXY5NVZJZ0dhRV8?oc=5)
 
 2026-04-22 <span class="news-indication-tag">淋巴癌</span>
 
-來源：[經濟日報](https://news.google.com/rss/articles/CBMiW0FVX3lxTE11T2U4NUJXUGpPbzJwWG1USno2NWQ2Nmd4LU1fc1k3aTB2SGI5M0NPdFZTZWU0NzFMaTRaV1BOQkRJNDBfaTgxcU9UTTdyN0ZrYVZoY0ZtdzJyWHc?oc=5)
+來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MOG1YQnpzdVJDaURLNFdXd3JaTGlRX0I1T2hQdDFIZ3NvaDVSZDNHVF9UTGJqNnhZcWtYOUlLYVF4NmdLaXlqLXZxZzgtMXY5NVZJZ0dhRV8?oc=5)
 
 ---
 
