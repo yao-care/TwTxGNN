@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-23T10:15:37.673157+00:00",
-  "count": 7,
+  "generated": "2026-04-23T11:54:53.829714+00:00",
+  "count": 8,
   "news": [
     {
       "id": "8beaf5a7c78b",
@@ -44,6 +44,30 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "59297613c926",
+      "title": "B群、維他命D｜營養師解析心血管與代謝健康關鍵，4大攝取建議 - etnet 經濟通",
+      "published": "2026-04-23T04:09:29+00:00",
+      "sources": [
+        {
+          "name": "etnet 經濟通",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81RDZ2R0t0bllGbGN2R0JBWEU5TVc0ZVQwdHlta2twMWEwZjRtdEpHU0lUZkM0WTV6Y3o1emZ3MGw4ZGFnTWEzNUJQV3RZcmhSOGZGWmR2U0w?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
             }
           ]
         }

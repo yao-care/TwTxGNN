@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [B群、維他命D｜營養師解析心血管與代謝健康關鍵，4大攝取建議 - etnet 經濟通](https://news.google.com/rss/articles/CBMiWEFVX3lxTE81RDZ2R0t0bllGbGN2R0JBWEU5TVc0ZVQwdHlta2twMWEwZjRtdEpHU0lUZkM0WTV6Y3o1emZ3MGw4ZGFnTWEzNUJQV3RZcmhSOGZGWmR2U0w?oc=5)
+
+2026-04-23 <span class="news-indication-tag">心血管</span>
+
+來源：[etnet 經濟通](https://news.google.com/rss/articles/CBMiWEFVX3lxTE81RDZ2R0t0bllGbGN2R0JBWEU5TVc0ZVQwdHlta2twMWEwZjRtdEpHU0lUZkM0WTV6Y3o1emZ3MGw4ZGFnTWEzNUJQV3RZcmhSOGZGWmR2U0w?oc=5)
+
+---
 
 
 <div class="disclaimer">
