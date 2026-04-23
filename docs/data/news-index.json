@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-23T17:11:25.039569+00:00",
+  "generated": "2026-04-23T18:56:47.525515+00:00",
   "count": 7,
   "news": [
     {
@@ -74,49 +74,13 @@
       ]
     },
     {
-      "id": "006bdabfe873",
-      "title": "「所有辣妹都有它」：Mel B 講述更年期症狀",
-      "published": "2026-04-22T15:41:54+00:00",
+      "id": "2e57f818077b",
+      "title": "喝錯飲品竟致癌？果汁、熱飲藏危機 醫：身體變癌細胞溫床",
+      "published": "2026-04-23T02:08:00+00:00",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQUkdZTldybVhrYUYzVUhuaWJsMmlqbWlqZzA0cjRBb3Q3NURkWXFEQ1lHRWR2WjdOdV9xOWNNMHlfYjFfZnRDTklvVU8wTENTRDY5dGFUWjRfOG9yNTE4M0xjaDhuZm94cUVLYnc2WXZBZndKT2F3TjN2M2ZjMlo4Y0JvNnhtMzVjdDAycklXaUo0VmRKclNXbHhJSWM0QzJob09hbnBQclhIOVAtZ2xVWUpfbkZzSWpEVjdFbXptYlByZHdnYURZSWFmZXNybjFvZ2Zhd05BdG42Nko3Ujg2SGlFSGJ6UnFWbzBDakFjeTRyaGlDNzlzdmVFeUlMQ0NIRXFBV081ZHVoaGltYXRFTjM4MnhzdmYxOXVsZzJfdjRfbTdWc3NiLWc4Z0ZLeWJ2YnN0RGtfdnhvQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b84a43ac7a56",
-      "title": "「3類養生飲品」天天喝10年後出事！　醫嘆：身體變癌細胞溫床",
-      "published": "2026-04-22T12:25:00+00:00",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DSmR6SzFvOHhCdWt2UnNZNExDSXBSNnk1YTZZVWtXMUZiUlg4NklGME9nMFdoUmVyQkhIYjhpSE1WdThoTzVQNUM2cmVrT2Jp0gFsQVVfeXFMTWpsTHBWdG95aUtnRnlrRF81eHB4LU1leDBfWkprel93d19NOTJ4NDF2V3Y0U3VFbldTNlRteTNtWTNDRS14MWRSYUEzTGt3alFsMmJjMVYweHJkaGJoSS1UekdhRU9ScHBwbzU0?oc=5"
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4bm9FbV9peXMxU1lOTnVMTThQZEdvMEgyYTdVVG04WEJSa0hHQjZ5MTNzeHY0TC1uUGN1YTVSNmNFVE81T1VTMDNEZkhEUQ?oc=5"
         }
       ],
       "keywords": [
@@ -312,6 +276,42 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "006bdabfe873",
+      "title": "「所有辣妹都有它」：Mel B 講述更年期症狀",
+      "published": "2026-04-22T15:41:54+00:00",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQUkdZTldybVhrYUYzVUhuaWJsMmlqbWlqZzA0cjRBb3Q3NURkWXFEQ1lHRWR2WjdOdV9xOWNNMHlfYjFfZnRDTklvVU8wTENTRDY5dGFUWjRfOG9yNTE4M0xjaDhuZm94cUVLYnc2WXZBZndKT2F3TjN2M2ZjMlo4Y0JvNnhtMzVjdDAycklXaUo0VmRKclNXbHhJSWM0QzJob09hbnBQclhIOVAtZ2xVWUpfbkZzSWpEVjdFbXptYlByZHdnYURZSWFmZXNybjFvZ2Zhd05BdG42Nko3Ujg2SGlFSGJ6UnFWbzBDakFjeTRyaGlDNzlzdmVFeUlMQ0NIRXFBV081ZHVoaGltYXRFTjM4MnhzdmYxOXVsZzJfdjRfbTdWc3NiLWc4Z0ZLeWJ2YnN0RGtfdnhvQQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
             }
           ]
         }

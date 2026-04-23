@@ -44,19 +44,19 @@ permalink: /news/paclitaxel/
 
 ## 相關新聞（3 則）
 
+### [喝錯飲品竟致癌？果汁、熱飲藏危機 醫：身體變癌細胞溫床](https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4bm9FbV9peXMxU1lOTnVMTThQZEdvMEgyYTdVVG04WEJSa0hHQjZ5MTNzeHY0TC1uUGN1YTVSNmNFVE81T1VTMDNEZkhEUQ?oc=5)
+
+2026-04-23 <span class="news-indication-tag">癌症</span>
+
+來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4bm9FbV9peXMxU1lOTnVMTThQZEdvMEgyYTdVVG04WEJSa0hHQjZ5MTNzeHY0TC1uUGN1YTVSNmNFVE81T1VTMDNEZkhEUQ?oc=5)
+
+---
+
 ### [「所有辣妹都有它」：Mel B 講述更年期症狀](https://news.google.com/rss/articles/CBMiugJBVV95cUxQUkdZTldybVhrYUYzVUhuaWJsMmlqbWlqZzA0cjRBb3Q3NURkWXFEQ1lHRWR2WjdOdV9xOWNNMHlfYjFfZnRDTklvVU8wTENTRDY5dGFUWjRfOG9yNTE4M0xjaDhuZm94cUVLYnc2WXZBZndKT2F3TjN2M2ZjMlo4Y0JvNnhtMzVjdDAycklXaUo0VmRKclNXbHhJSWM0QzJob09hbnBQclhIOVAtZ2xVWUpfbkZzSWpEVjdFbXptYlByZHdnYURZSWFmZXNybjFvZ2Zhd05BdG42Nko3Ujg2SGlFSGJ6UnFWbzBDakFjeTRyaGlDNzlzdmVFeUlMQ0NIRXFBV081ZHVoaGltYXRFTjM4MnhzdmYxOXVsZzJfdjRfbTdWc3NiLWc4Z0ZLeWJ2YnN0RGtfdnhvQQ?oc=5)
 
 2026-04-22 <span class="news-indication-tag">更年期</span>
 
 來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMiugJBVV95cUxQUkdZTldybVhrYUYzVUhuaWJsMmlqbWlqZzA0cjRBb3Q3NURkWXFEQ1lHRWR2WjdOdV9xOWNNMHlfYjFfZnRDTklvVU8wTENTRDY5dGFUWjRfOG9yNTE4M0xjaDhuZm94cUVLYnc2WXZBZndKT2F3TjN2M2ZjMlo4Y0JvNnhtMzVjdDAycklXaUo0VmRKclNXbHhJSWM0QzJob09hbnBQclhIOVAtZ2xVWUpfbkZzSWpEVjdFbXptYlByZHdnYURZSWFmZXNybjFvZ2Zhd05BdG42Nko3Ujg2SGlFSGJ6UnFWbzBDakFjeTRyaGlDNzlzdmVFeUlMQ0NIRXFBV081ZHVoaGltYXRFTjM4MnhzdmYxOXVsZzJfdjRfbTdWc3NiLWc4Z0ZLeWJ2YnN0RGtfdnhvQQ?oc=5)
-
----
-
-### [「3類養生飲品」天天喝10年後出事！　醫嘆：身體變癌細胞溫床](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DSmR6SzFvOHhCdWt2UnNZNExDSXBSNnk1YTZZVWtXMUZiUlg4NklGME9nMFdoUmVyQkhIYjhpSE1WdThoTzVQNUM2cmVrT2Jp0gFsQVVfeXFMTWpsTHBWdG95aUtnRnlrRF81eHB4LU1leDBfWkprel93d19NOTJ4NDF2V3Y0U3VFbldTNlRteTNtWTNDRS14MWRSYUEzTGt3alFsMmJjMVYweHJkaGJoSS1UekdhRU9ScHBwbzU0?oc=5)
-
-2026-04-22 <span class="news-indication-tag">癌症</span>
-
-來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DSmR6SzFvOHhCdWt2UnNZNExDSXBSNnk1YTZZVWtXMUZiUlg4NklGME9nMFdoUmVyQkhIYjhpSE1WdThoTzVQNUM2cmVrT2Jp0gFsQVVfeXFMTWpsTHBWdG95aUtnRnlrRF81eHB4LU1leDBfWkprel93d19NOTJ4NDF2V3Y0U3VFbldTNlRteTNtWTNDRS14MWRSYUEzTGt3alFsMmJjMVYweHJkaGJoSS1UekdhRU9ScHBwbzU0?oc=5)
 
 ---
 

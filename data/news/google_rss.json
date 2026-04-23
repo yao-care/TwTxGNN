@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-23T17:11:20.424691+00:00",
+  "fetched_at": "2026-04-23T18:56:43.183920+00:00",
   "count": 34,
   "news": [
     {
@@ -40,14 +40,14 @@
       ]
     },
     {
-      "id": "b84a43ac7a56",
-      "title": "「3類養生飲品」天天喝10年後出事！　醫嘆：身體變癌細胞溫床 - ETtoday健康雲",
-      "published": "2026-04-22T12:25:00+00:00",
-      "summary": "「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲癌症為何越來越年輕？關鍵可能不只是基因&nbsp;&nbsp;TechNews 科技新報討論牆 | 不是珍奶！這飲品「沒壞東西樣子」 喝10年癌細胞恐肆虐&nbsp;&nbsp;LINE TODAY40歲媽每天1杯果汁「喝出癌」 醫揭「3偽健康飲料」：身體變癌細胞溫床&nbsp;&nbsp;祝你健康胰臟癌｜日飲1杯呢類飲品患胰臟癌風險激增87% 醫生點名4大高危飲品 戒3類食物保護腎臟&nbsp;&nbsp;香港經濟日報HKET",
+      "id": "2e57f818077b",
+      "title": "喝錯飲品竟致癌？果汁、熱飲藏危機 醫：身體變癌細胞溫床 - TVBS新聞網",
+      "published": "2026-04-23T02:08:00+00:00",
+      "summary": "喝錯飲品竟致癌？果汁、熱飲藏危機 醫：身體變癌細胞溫床&nbsp;&nbsp;TVBS新聞網癌症為何越來越年輕？關鍵可能不只是基因&nbsp;&nbsp;TechNews 科技新報討論牆 | 不是珍奶！這飲品「沒壞東西樣子」 喝10年癌細胞恐肆虐&nbsp;&nbsp;LINE TODAY「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲40歲媽每天1杯果汁「喝出癌」 醫揭「3偽健康飲料」：身體變癌細胞溫床&nbsp;&nbsp;祝你健康",
       "sources": [
         {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DSmR6SzFvOHhCdWt2UnNZNExDSXBSNnk1YTZZVWtXMUZiUlg4NklGME9nMFdoUmVyQkhIYjhpSE1WdThoTzVQNUM2cmVrT2Jp0gFsQVVfeXFMTWpsTHBWdG95aUtnRnlrRF81eHB4LU1leDBfWkprel93d19NOTJ4NDF2V3Y0U3VFbldTNlRteTNtWTNDRS14MWRSYUEzTGt3alFsMmJjMVYweHJkaGJoSS1UekdhRU9ScHBwbzU0?oc=5"
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4bm9FbV9peXMxU1lOTnVMTThQZEdvMEgyYTdVVG04WEJSa0hHQjZ5MTNzeHY0TC1uUGN1YTVSNmNFVE81T1VTMDNEZkhEUQ?oc=5"
         }
       ]
     },
@@ -88,6 +88,18 @@
       ]
     },
     {
+      "id": "cf0bada65d30",
+      "title": "大陸「五一連假」將近陸疾控局：流感病毒活躍度上升| 大陸傳真| 兩岸 - 聯合新聞網",
+      "published": "2026-04-22T12:03:46+00:00",
+      "summary": "大陸「五一連假」將近陸疾控局：流感病毒活躍度上升| 大陸傳真| 兩岸&nbsp;&nbsp;聯合新聞網國家疾控局：內地流感病毒和鼻病毒的活動水平呈上升趨勢麻疹發病率處歷史低位- 內地&nbsp;&nbsp;大公文匯網內地本月流感和鼻病毒活動水平趨升&nbsp;&nbsp;澳門廣播電視股份有限公司內地流感病毒活動水平上升 需關注蚊媒傳染病&nbsp;&nbsp;on.cc東網內地流感鼻病毒趨活躍 國家疾管局提醒「五一」假留意目的地疫情 (19:00) - 20260422 - 熱點&nbsp;&nbsp;明報新聞網",
+      "sources": [
+        {
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PS21pQXc2blpUcmw5VTRIRkVSSWNIdmZqWWZuQVZra0tjanFIM1dLazRkbTktNzJqaFNuSVYtX09nR2VFcHRBZldhajZmZDhB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8beaf5a7c78b",
       "title": "大腸癌風險新線索 科學家發現腸道菌藏神秘病毒 - 科技島",
       "published": "2026-04-23T09:02:45+00:00",
@@ -108,18 +120,6 @@
         {
           "name": "Marie Claire 美麗佳人",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51cWNEd2twX1dRRWsyN3lqZmNvRkUxdTB5U3d2VzgwNlBDQ092SjBNT25wOUptZnJCNUhNUnNIQk52ckNQZ2FJanFYcm5OWjFZUjJwUVJNQTFoX3B4bVdtWm01NA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cf0bada65d30",
-      "title": "大陸「五一連假」將近陸疾控局：流感病毒活躍度上升| 大陸傳真| 兩岸 - 聯合新聞網",
-      "published": "2026-04-22T12:03:46+00:00",
-      "summary": "大陸「五一連假」將近陸疾控局：流感病毒活躍度上升| 大陸傳真| 兩岸&nbsp;&nbsp;聯合新聞網國家疾控局：內地流感病毒和鼻病毒的活動水平呈上升趨勢麻疹發病率處歷史低位- 內地&nbsp;&nbsp;大公文匯網內地本月流感和鼻病毒活動水平趨升&nbsp;&nbsp;澳門廣播電視股份有限公司內地流感病毒活動水平上升 需關注蚊媒傳染病&nbsp;&nbsp;on.cc東網內地流感鼻病毒趨活躍 國家疾管局提醒「五一」假留意目的地疫情 (19:00) - 20260422 - 熱點&nbsp;&nbsp;明報新聞網",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PS21pQXc2blpUcmw5VTRIRkVSSWNIdmZqWWZuQVZra0tjanFIM1dLazRkbTktNzJqaFNuSVYtX09nR2VFcHRBZldhajZmZDhB?oc=5"
         }
       ]
     },
@@ -292,18 +292,6 @@
       ]
     },
     {
-      "id": "90e04685c25b",
-      "title": "益生菌改造技術，抗癌治療迎來關鍵轉折 - 美南新聞",
-      "published": "2026-04-21T22:16:32+00:00",
-      "summary": "益生菌改造技術，抗癌治療迎來關鍵轉折&nbsp;&nbsp;美南新聞",
-      "sources": [
-        {
-          "name": "美南新聞",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4wTDVFc3ZZN3AwUmd2cWk5WDZ3SUtLMllJM0FNcm9iZmdMblNOS2xVZVluRVQ3bkkyelhwY0JJaklsei0y?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e8f08efef0fd",
       "title": "衞生防護中心稱登革熱本地傳播風險屬中等 會加強蚊患監測工作 - 巴士的報",
       "published": "2026-04-22T03:32:24+00:00",
@@ -312,6 +300,18 @@
         {
           "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxORm5aLTVUZmtxckNhVDU2ckpMaEREVURxZ3FLZDBKYnhDY2NKclNJblFnRzNxc1RJbWFPOElDM1Q3cHJRbmJGU2g2U0dPMmM4UTVKUDRIZUowZms1bnpyMVF0REoyNlFxdTFmaHlYdEczdlRVRWZXenNtbHBHOXpzZXZ1QmF1R0M1NXRzT2xyMV9Uem05RmNCYTduVnVWOGkzX1FfNWVzR2tZc2xoRzVvQXdndW4wVEtZZ3AzRmhNMHJ3OXcxX3lkaldmSV93Z2hUU0F3MFRsbXF1TEZHUjNQMWFrRFpkMVdnWVB0cXZtOGVjaXVuV09LaXJlalVPOEY3VmlnNVJqQ0JtdmJnUVVyVmlYaW1uMFhEN040a2RNa284bUNIVkxBR2JGVm1SZVAwVVhtZG10WWg2SUoyVVgzOGU3bk9fY2R6UUJUdkhTYmpfZFYxcko1NG1jWW1HVVpzT0JoQUdjVGZWcDNicFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "90e04685c25b",
+      "title": "益生菌改造技術，抗癌治療迎來關鍵轉折 - 美南新聞",
+      "published": "2026-04-21T22:16:32+00:00",
+      "summary": "益生菌改造技術，抗癌治療迎來關鍵轉折&nbsp;&nbsp;美南新聞",
+      "sources": [
+        {
+          "name": "美南新聞",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4wTDVFc3ZZN3AwUmd2cWk5WDZ3SUtLMllJM0FNcm9iZmdMblNOS2xVZVluRVQ3bkkyelhwY0JJaklsei0y?oc=5"
         }
       ]
     },
@@ -352,18 +352,6 @@
       ]
     },
     {
-      "id": "361de305db3a",
-      "title": "長期滑手機損健康 滑出媽媽手 隨時痛到筷子都拎唔穩 - am730",
-      "published": "2026-04-22T03:30:00+00:00",
-      "summary": "長期滑手機損健康 滑出媽媽手 隨時痛到筷子都拎唔穩&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOUzBrT1F5REoxcEhPLThxUGRBZVM4MVgyRm5JMGNEMEpfRkkyYkJIaGV6dW43VFExZjZ5V3VpNENWQ0dpeFZObnh1Q0lqWnJLQU9XQmtHeUZLSDNhVVA5Y1JWWW56eGdRNjZLWW5LVW9kYXFEeGQ4NHhscnNOWFBBT0kzYUMtQ2F6TVc2TldLMGtJTy11MEpZZnZxZ1EzQzREN1VHbHNXdkp5YkMtcTJ5WkxTUFFZZ1pHZFVsa3d0cG5CRGt5Tlp5LXl3ZHN0WE1uejJVc1BENWppMlByU3o3aXlRZlZBbkR0d1NSVzFlUEVteTlxbW1BOG9uWDc2anZqV2ZkTGt3RUppRnpPQWsxVnFjMW5yRldVWmpVbnRUSDdTaFdaNkJxTW5HcHlFa2hjS29ES0JWWEdDeGhuemJpa0JFYklaaDNWb2dYbS1DaFBZbG9oY21jVUZNR0RzU3FLMjRGUVBNcWpkOFViN0RfLTBaTTkwMDYz?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f791421d5911",
       "title": "胰臟癌｜19歲女學霸驚患胰臟癌末期被斷言剩3個月命 堅強抗癌歷12次化療父母傾家蕩產救女 - 香港經濟日報HKET",
       "published": "2026-04-22T08:07:10+00:00",
@@ -372,6 +360,18 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMirARBVV95cUxNQVBqS0tsa1BZT2xkX0l4NVdNelVaYlhPV29CdzJ5RXFuanN0UHlTbWNuc2stU0JjUHJ1eDRZdGtmbkl0TVBrbndMUXBjZjFPc0FPbDQ1TFdJQ0FGc1BKSjFldERYMmNkRDNKcjlXdVhrMElQTDAxTk5MM243SS1kbUZJV3VMcGdRTEVSMGVsS0w3TlJsYTh6RkZSSlhUOEJxMF84RlhUMWFqaExkWUFaRHJhR3JLR1ViNzdHaGZlOXFSeXlDV014MGRiaUFyc0ZGaXF6X29zNGU1cnlVeF9pWDE4S1hOR0lZT2RNMHV0Z3dQM1poQjVWbmVCVTNFZUNseFk1RTdFNW5yYWVQV3pWaHN1U3FxaHpMRnhCX3I4S0RlVmx1RmViTTBnRW9rNWJ4Y29uczBISnRLUjFFSEFwblR2UWpTX0RTYVFQYVZpNUY5NUtlUV9LQS1KTF9DWnlQSFAwNlJyN201TVhxbFpIak15V2dNM0laVXZwQ2hHYzRXMEZpcVltZmZRZ1VFVWNLdE4tWUdnN3FYYW9QOGdmMWYtamJseDRvSkhRWGt2N0lkTG1XQ1JpdjBYSXJ1RWJxTFFJd2sxNHpTYzN3ZC1kOHRxS3FsLVR4dk8yYzY0MjhEWlZfMWgtMW94bGFPU1p3RmNHbFFMWW01RVprSVFiZVBLOElZOXdLS05JN0ZXZkdCaWdZR2h3NVRjbWRKZkJIbi1WdlFJZ3FPd3hX?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "361de305db3a",
+      "title": "長期滑手機損健康 滑出媽媽手 隨時痛到筷子都拎唔穩 - am730",
+      "published": "2026-04-22T03:30:00+00:00",
+      "summary": "長期滑手機損健康 滑出媽媽手 隨時痛到筷子都拎唔穩&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOUzBrT1F5REoxcEhPLThxUGRBZVM4MVgyRm5JMGNEMEpfRkkyYkJIaGV6dW43VFExZjZ5V3VpNENWQ0dpeFZObnh1Q0lqWnJLQU9XQmtHeUZLSDNhVVA5Y1JWWW56eGdRNjZLWW5LVW9kYXFEeGQ4NHhscnNOWFBBT0kzYUMtQ2F6TVc2TldLMGtJTy11MEpZZnZxZ1EzQzREN1VHbHNXdkp5YkMtcTJ5WkxTUFFZZ1pHZFVsa3d0cG5CRGt5Tlp5LXl3ZHN0WE1uejJVc1BENWppMlByU3o3aXlRZlZBbkR0d1NSVzFlUEVteTlxbW1BOG9uWDc2anZqV2ZkTGt3RUppRnpPQWsxVnFjMW5yRldVWmpVbnRUSDdTaFdaNkJxTW5HcHlFa2hjS29ES0JWWEdDeGhuemJpa0JFYklaaDNWb2dYbS1DaFBZbG9oY21jVUZNR0RzU3FLMjRGUVBNcWpkOFViN0RfLTBaTTkwMDYz?oc=5"
         }
       ]
     },
