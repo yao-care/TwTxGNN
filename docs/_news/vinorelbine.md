@@ -14,7 +14,7 @@ permalink: /news/vinorelbine/
 ---
 
 <p class="key-answer" data-question="Vinorelbine 有什麼相關新聞？">
-<strong>Vinorelbine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vinorelbine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/vinorelbine/
 <p><a href="{{ '/drugs/vinorelbine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [喝錯飲品竟致癌？果汁、熱飲藏危機 醫：身體變癌細胞溫床](https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4bm9FbV9peXMxU1lOTnVMTThQZEdvMEgyYTdVVG04WEJSa0hHQjZ5MTNzeHY0TC1uUGN1YTVSNmNFVE81T1VTMDNEZkhEUQ?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/vinorelbine/
 2026-04-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
 
 來源：[Singtaousa](https://news.google.com/rss/articles/CBMixAFBVV95cUxPc0NTN08zRW4tdjlhLUNhclVpbGpDcG16Njk0ZWhGSk84MTNTUU11alpoMkpMTnlYdXRnbEZBRmFuUXd4MFZzamNZMFMyZGE1eFRGMWd1eWFLNDVrcjBlUDZ2cE1raFRFX1NRVkRoZ2trbHRYZnVIbEViV0Q2TG9rbVVSb2QweXNQSUxONTlGWTl6Zkt6d1hEcC1HekxNMXhtTEhMeFJLNWhNdWVfRXRncXpqNXBZRUJPQkkwTi1IMzY2bS1C?oc=5)
-
----
-
-### [英國22歲女子肺癌末期 僅剩1年半壽命 15歲起吸電子煙](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ2R3SHoybF9DSF82RklWN3h4NFJLU05RN25vR1Y3dV9LYzRCR3paU3dvMUQteEFuaGhIQWRMbV9hY1BSX25XZktONkxWWm1TNTMzN2hQdHpyaXkyekpyMlB5M3R6OFU2NzNKYXg3MkE1XzhQQ0tWaVRSZEJFVVltVWgwa0prWmdzVlZFMGE3dWN4cUk0ajFUT1J3QmF3Wm0tcFZMNTExZ2tTeEgzOWtKYUNEN0JHX20wMHBIdHVUdlVPWWE2X0pXeDJMbFpNWDV2OHZ2Z0FleDJwQ2ozdW5NRXEzZmRWUDJ4T3d6TnUzZlpKV2RCOThPVW4xMnY?oc=5)
-
-2026-04-21 <span class="news-indication-tag">肺癌</span>
-
-來源：[Singtaousa](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ2R3SHoybF9DSF82RklWN3h4NFJLU05RN25vR1Y3dV9LYzRCR3paU3dvMUQteEFuaGhIQWRMbV9hY1BSX25XZktONkxWWm1TNTMzN2hQdHpyaXkyekpyMlB5M3R6OFU2NzNKYXg3MkE1XzhQQ0tWaVRSZEJFVVltVWgwa0prWmdzVlZFMGE3dWN4cUk0ajFUT1J3QmF3Wm0tcFZMNTExZ2tTeEgzOWtKYUNEN0JHX20wMHBIdHVUdlVPWWE2X0pXeDJMbFpNWDV2OHZ2Z0FleDJwQ2ozdW5NRXEzZmRWUDJ4T3d6TnUzZlpKV2RCOThPVW4xMnY?oc=5)
 
 ---
 

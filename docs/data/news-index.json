@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-23T21:38:06.155541+00:00",
-  "count": 6,
+  "generated": "2026-04-23T22:35:53.755372+00:00",
+  "count": 5,
   "news": [
     {
       "id": "8beaf5a7c78b",
@@ -531,38 +531,6 @@
             {
               "slug": "clobetasone",
               "name": "Clobetasone"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5442d9626f3a",
-      "title": "英國22歲女子肺癌末期 僅剩1年半壽命 15歲起吸電子煙",
-      "published": "2026-04-21T21:26:38+00:00",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ2R3SHoybF9DSF82RklWN3h4NFJLU05RN25vR1Y3dV9LYzRCR3paU3dvMUQteEFuaGhIQWRMbV9hY1BSX25XZktONkxWWm1TNTMzN2hQdHpyaXkyekpyMlB5M3R6OFU2NzNKYXg3MkE1XzhQQ0tWaVRSZEJFVVltVWgwa0prWmdzVlZFMGE3dWN4cUk0ajFUT1J3QmF3Wm0tcFZMNTExZ2tTeEgzOWtKYUNEN0JHX20wMHBIdHVUdlVPWWE2X0pXeDJMbFpNWDV2OHZ2Z0FleDJwQ2ozdW5NRXEzZmRWUDJ4T3d6TnUzZlpKV2RCOThPVW4xMnY?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
             }
           ]
         }
