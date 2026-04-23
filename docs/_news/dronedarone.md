@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [幫家中長輩注意RSV！防肺炎、中風等風險，預防策略一次看](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XMGRqb0QxWVdYeURoSHRhb1NybjNmNnZHNlMwQW9nd3dzeGp2TEY2OHJLeHVhbVlDdmVzcGdSdEl0bURId0taUmdmS2h1V0huQWc?oc=5)
 
 2026-04-21 <span class="news-indication-tag">中風</span>
 
 來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XMGRqb0QxWVdYeURoSHRhb1NybjNmNnZHNlMwQW9nd3dzeGp2TEY2OHJLeHVhbVlDdmVzcGdSdEl0bURId0taUmdmS2h1V0huQWc?oc=5)
-
----
-
-### [夜間開燈瞓覺風險高 研究揭光照愈多中風及心血管病增近6成](https://news.google.com/rss/articles/CBMi7wJBVV95cUxQVUExWnA2WTB0aF91WXBrNVVrQ1dtUC1EUG1GV0ViUTNXM2dUblV1aUJWMmw5cS1mbUxHVFFqZHN1NEVnNUVaQkNCUDBZdll1QmF3dXcyN2JoZXpkU2xmWFdKbFRPUDZ5Qk9Sai03Y3E4ZUtnUTFIaHhOdFh5ckxkVXFKYTdONlZUc2Q4dGZFeTNGNFVodTVoSTB5Y0d3UUZaQTFoOXhVNmZDNm8yMGhHLTVPWExPRDZzaGt5VUp5MFZYdHZrX0tEMWtxMkJhc3JIaTBJMHlCLUZUUUdGdGtPZGMtbkVaTTJMZmpWWEMzWlplQkQ3UjhYb2ZrYTRndG1KYzBMZ3htLVlxY2RTbTFJRGZ6ZHJLMGphaDBwV05WZWh1aFF6OTU3VlVfU1RhX2hzLVQ1S0ttUHZyaW9QaFdtMjdaRkNVYkF3b0NzajBSQnJjeGpnNEFzREIwQ2c1bjdSU0lad3ViYnJKYmxXWHZB?oc=5)
-
-2026-04-20 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">中風</span>
-
-來源：[巴士的報](https://news.google.com/rss/articles/CBMi7wJBVV95cUxQVUExWnA2WTB0aF91WXBrNVVrQ1dtUC1EUG1GV0ViUTNXM2dUblV1aUJWMmw5cS1mbUxHVFFqZHN1NEVnNUVaQkNCUDBZdll1QmF3dXcyN2JoZXpkU2xmWFdKbFRPUDZ5Qk9Sai03Y3E4ZUtnUTFIaHhOdFh5ckxkVXFKYTdONlZUc2Q4dGZFeTNGNFVodTVoSTB5Y0d3UUZaQTFoOXhVNmZDNm8yMGhHLTVPWExPRDZzaGt5VUp5MFZYdHZrX0tEMWtxMkJhc3JIaTBJMHlCLUZUUUdGdGtPZGMtbkVaTTJMZmpWWEMzWlplQkQ3UjhYb2ZrYTRndG1KYzBMZ3htLVlxY2RTbTFJRGZ6ZHJLMGphaDBwV05WZWh1aFF6OTU3VlVfU1RhX2hzLVQ1S0ttUHZyaW9QaFdtMjdaRkNVYkF3b0NzajBSQnJjeGpnNEFzREIwQ2c1bjdSU0lad3ViYnJKYmxXWHZB?oc=5)
 
 ---
 

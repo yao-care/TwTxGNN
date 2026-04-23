@@ -1,7 +1,262 @@
 {
-  "generated": "2026-04-22T23:39:09.247188+00:00",
-  "count": 6,
+  "generated": "2026-04-23T01:51:43.845874+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "e51d3560718d",
+      "title": "看膽固醇竟揪出癌 中年男1數值不對勁 一查大腸癌三期",
+      "published": "2026-04-23T01:19:28+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xY0FVeGZYeHNlbURaUU8wLW1mQVU3S3FZeFlOalJIeGwxS21iaW9QOE9sVmpYX3VKNEZadnVkb2FXaGthVWwtVTJseDNPcDFabU9JZ09jcExUUHdKM3NzcUtZVFRSZzAyclNvbHhB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a497532cf5b4",
+      "title": "癌症為何越來越年輕？關鍵可能不只是基因 - TechNews 科技新報",
+      "published": "2026-04-22T23:40:48+00:00",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcWx1aGIwTUlBQlk3TWltYTJ2LVZfVmVGSlVCZ0hRdGFRMU44dG9lZnBKV1NMOUNkQXhyX0Nhc1F6eTdCcnd2bV93MzVaSDBXZVhaN0hVM3J6V2Z0T1hELWttaWp3aWh2Q05KeHE3NXFQSmhHeGpvc1MybUZHZzFSTg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "0e9c37812cc7",
       "title": "南加州大學研究：健康飲食反增肺癌風險，農藥殘留成疑兇",
@@ -508,45 +763,6 @@
         }
       ],
       "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6d2f873dc842",
-      "title": "夜間開燈瞓覺風險高 研究揭光照愈多中風及心血管病增近6成",
-      "published": "2026-04-20T23:00:20+00:00",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQVUExWnA2WTB0aF91WXBrNVVrQ1dtUC1EUG1GV0ViUTNXM2dUblV1aUJWMmw5cS1mbUxHVFFqZHN1NEVnNUVaQkNCUDBZdll1QmF3dXcyN2JoZXpkU2xmWFdKbFRPUDZ5Qk9Sai03Y3E4ZUtnUTFIaHhOdFh5ckxkVXFKYTdONlZUc2Q4dGZFeTNGNFVodTVoSTB5Y0d3UUZaQTFoOXhVNmZDNm8yMGhHLTVPWExPRDZzaGt5VUp5MFZYdHZrX0tEMWtxMkJhc3JIaTBJMHlCLUZUUUdGdGtPZGMtbkVaTTJMZmpWWEMzWlplQkQ3UjhYb2ZrYTRndG1KYzBMZ3htLVlxY2RTbTFJRGZ6ZHJLMGphaDBwV05WZWh1aFF6OTU3VlVfU1RhX2hzLVQ1S0ttUHZyaW9QaFdtMjdaRkNVYkF3b0NzajBSQnJjeGpnNEFzREIwQ2c1bjdSU0lad3ViYnJKYmxXWHZB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "stroke",

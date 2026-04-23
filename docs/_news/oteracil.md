@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/oteracil/
 <li><strong>原適應症</strong>：胃癌用藥。</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>colonic neoplasm（100.0%）</li>
+<li class="indication-matched">colonic neoplasm（100.0%）<span class="indication-tag">📰 大腸癌</span></li>
 <li>cecum villous adenoma（100.0%）</li>
 <li>cecum neuroendocrine tumor G1（100.0%）</li>
 <li>lipoma of colon（100.0%）</li>
@@ -42,7 +42,23 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [看膽固醇竟揪出癌 中年男1數值不對勁 一查大腸癌三期](https://news.google.com/rss/articles/CBMibkFVX3lxTE5xY0FVeGZYeHNlbURaUU8wLW1mQVU3S3FZeFlOalJIeGwxS21iaW9QOE9sVmpYX3VKNEZadnVkb2FXaGthVWwtVTJseDNPcDFabU9JZ09jcExUUHdKM3NzcUtZVFRSZzAyclNvbHhB?oc=5)
+
+2026-04-23 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5xY0FVeGZYeHNlbURaUU8wLW1mQVU3S3FZeFlOalJIeGwxS21iaW9QOE9sVmpYX3VKNEZadnVkb2FXaGthVWwtVTJseDNPcDFabU9JZ09jcExUUHdKM3NzcUtZVFRSZzAyclNvbHhB?oc=5)
+
+---
+
+### [癌症為何越來越年輕？關鍵可能不只是基因 - TechNews 科技新報](https://news.google.com/rss/articles/CBMigAFBVV95cUxNcWx1aGIwTUlBQlk3TWltYTJ2LVZfVmVGSlVCZ0hRdGFRMU44dG9lZnBKV1NMOUNkQXhyX0Nhc1F6eTdCcnd2bV93MzVaSDBXZVhaN0hVM3J6V2Z0T1hELWttaWp3aWh2Q05KeHE3NXFQSmhHeGpvc1MybUZHZzFSTg?oc=5)
+
+2026-04-22 <span class="news-indication-tag">癌症</span>
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMigAFBVV95cUxNcWx1aGIwTUlBQlk3TWltYTJ2LVZfVmVGSlVCZ0hRdGFRMU44dG9lZnBKV1NMOUNkQXhyX0Nhc1F6eTdCcnd2bV93MzVaSDBXZVhaN0hVM3J6V2Z0T1hELWttaWp3aWh2Q05KeHE3NXFQSmhHeGpvc1MybUZHZzFSTg?oc=5)
+
+---
 
 ### [南加州大學研究：健康飲食反增肺癌風險，農藥殘留成疑兇](https://news.google.com/rss/articles/CBMixAFBVV95cUxPc0NTN08zRW4tdjlhLUNhclVpbGpDcG16Njk0ZWhGSk84MTNTUU11alpoMkpMTnlYdXRnbEZBRmFuUXd4MFZzamNZMFMyZGE1eFRGMWd1eWFLNDVrcjBlUDZ2cE1raFRFX1NRVkRoZ2trbHRYZnVIbEViV0Q2TG9rbVVSb2QweXNQSUxONTlGWTl6Zkt6d1hEcC1HekxNMXhtTEhMeFJLNWhNdWVfRXRncXpqNXBZRUJPQkkwTi1IMzY2bS1C?oc=5)
 
