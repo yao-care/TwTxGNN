@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-23T06:56:35.062496+00:00",
-  "count": 7,
+  "generated": "2026-04-23T08:50:35.231853+00:00",
+  "count": 6,
   "news": [
     {
       "id": "650a7acd354f",
@@ -229,53 +229,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e51d3560718d",
-      "title": "看膽固醇竟揪出癌 中年男1數值不對勁 一查大腸癌三期",
-      "published": "2026-04-23T01:19:28+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xY0FVeGZYeHNlbURaUU8wLW1mQVU3S3FZeFlOalJIeGwxS21iaW9QOE9sVmpYX3VKNEZadnVkb2FXaGthVWwtVTJseDNPcDFabU9JZ09jcExUUHdKM3NzcUtZVFRSZzAyclNvbHhB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }

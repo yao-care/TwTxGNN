@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [孩子錯過HPV疫苗來得及補嗎？醫提醒兩劑完成關鍵 建立防護降低癌症風險](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yWUtoLTdVTlRVcnZ2RDZ4MWowalN4cFZsZzFtRmpDZ1JJcG9YbEdEX21sVHBncm9FT0dqcUtaQWRhcjFBSjAxRVljWVh5eGhGNndSYzFR?oc=5)
 
 2026-04-23 <span class="news-indication-tag">癌症</span>
 
 來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yWUtoLTdVTlRVcnZ2RDZ4MWowalN4cFZsZzFtRmpDZ1JJcG9YbEdEX21sVHBncm9FT0dqcUtaQWRhcjFBSjAxRVljWVh5eGhGNndSYzFR?oc=5)
-
----
-
-### [看膽固醇竟揪出癌 中年男1數值不對勁 一查大腸癌三期](https://news.google.com/rss/articles/CBMibkFVX3lxTE5xY0FVeGZYeHNlbURaUU8wLW1mQVU3S3FZeFlOalJIeGwxS21iaW9QOE9sVmpYX3VKNEZadnVkb2FXaGthVWwtVTJseDNPcDFabU9JZ09jcExUUHdKM3NzcUtZVFRSZzAyclNvbHhB?oc=5)
-
-2026-04-23 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5xY0FVeGZYeHNlbURaUU8wLW1mQVU3S3FZeFlOalJIeGwxS21iaW9QOE9sVmpYX3VKNEZadnVkb2FXaGthVWwtVTJseDNPcDFabU9JZ09jcExUUHdKM3NzcUtZVFRSZzAyclNvbHhB?oc=5)
 
 ---
 
