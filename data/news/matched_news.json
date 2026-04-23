@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-23T20:03:56.884521+00:00",
-  "total_count": 35,
-  "matched_count": 7,
+  "last_updated": "2026-04-23T21:38:06.132798+00:00",
+  "total_count": 34,
+  "matched_count": 6,
   "news": [
     {
       "id": "0706a4a5e1bc",
@@ -455,43 +455,6 @@
       "matched_keywords": []
     },
     {
-      "id": "006bdabfe873",
-      "title": "「所有辣妹都有它」：Mel B 講述更年期症狀",
-      "published": "2026-04-22T15:41:54+00:00",
-      "summary": "「所有辣妹都有它」：Mel B 講述更年期症狀&nbsp;&nbsp;arch-web.com.tw50歲後更年期熱潮紅、失眠？醫推1招改善不適還能降血脂、防骨鬆、提升記憶力- 營養好食&nbsp;&nbsp;TVBS 健康2.0更年期入睡難 醫：規律作息多運動&nbsp;&nbsp;世界新聞網知更｜她的「熱辣滾燙」&nbsp;&nbsp;大公文匯網【50+女生】醫師證實：50+女生每天做「7件事」，比擦再多精華液都有效&nbsp;&nbsp;Women's Health",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQUkdZTldybVhrYUYzVUhuaWJsMmlqbWlqZzA0cjRBb3Q3NURkWXFEQ1lHRWR2WjdOdV9xOWNNMHlfYjFfZnRDTklvVU8wTENTRDY5dGFUWjRfOG9yNTE4M0xjaDhuZm94cUVLYnc2WXZBZndKT2F3TjN2M2ZjMlo4Y0JvNnhtMzVjdDAycklXaUo0VmRKclNXbHhJSWM0QzJob09hbnBQclhIOVAtZ2xVWUpfbkZzSWpEVjdFbXptYlByZHdnYURZSWFmZXNybjFvZ2Zhd05BdG42Nko3Ujg2SGlFSGJ6UnFWbzBDakFjeTRyaGlDNzlzdmVFeUlMQ0NIRXFBV081ZHVoaGltYXRFTjM4MnhzdmYxOXVsZzJfdjRfbTdWc3NiLWc4Z0ZLeWJ2YnN0RGtfdnhvQQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "cf0bada65d30",
       "title": "大陸「五一連假」將近陸疾控局：流感病毒活躍度上升| 大陸傳真| 兩岸",
       "published": "2026-04-22T12:03:46+00:00",
@@ -863,13 +826,13 @@
       ]
     },
     {
-      "id": "e8f08efef0fd",
+      "id": "419c0a31c494",
       "title": "衞生防護中心稱登革熱本地傳播風險屬中等 會加強蚊患監測工作",
       "published": "2026-04-22T03:32:24+00:00",
-      "summary": "衞生防護中心稱登革熱本地傳播風險屬中等 會加強蚊患監測工作&nbsp;&nbsp;巴士的報辛正兒 - 本地登革熱再現 全民防蚊不鬆懈 | 社論&nbsp;&nbsp;星島頭條今年首宗本地登革熱個案 歐家榮：爆發風險不能忽視&nbsp;&nbsp;紫荊網登革熱病徵、潛伏期是什麼？白紋伊蚊叮怎麼辦？一文看清預防方法&nbsp;&nbsp;香港01本港爆首宗本地登革熱！警告呢1類人要特別小心恐致命 附8大病徵及防蚊法&nbsp;&nbsp;UHK 港生活",
+      "summary": "衞生防護中心稱登革熱本地傳播風險屬中等 會加強蚊患監測工作&nbsp;&nbsp;bastillepost.com辛正兒 - 本地登革熱再現 全民防蚊不鬆懈 | 社論&nbsp;&nbsp;星島頭條今年首宗本地登革熱個案 歐家榮：爆發風險不能忽視&nbsp;&nbsp;紫荊網登革熱病徵、潛伏期是什麼？白紋伊蚊叮怎麼辦？一文看清預防方法&nbsp;&nbsp;香港01本港爆首宗本地登革熱！警告呢1類人要特別小心恐致命 附8大病徵及防蚊法&nbsp;&nbsp;UHK 港生活",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxORm5aLTVUZmtxckNhVDU2ckpMaEREVURxZ3FLZDBKYnhDY2NKclNJblFnRzNxc1RJbWFPOElDM1Q3cHJRbmJGU2g2U0dPMmM4UTVKUDRIZUowZms1bnpyMVF0REoyNlFxdTFmaHlYdEczdlRVRWZXenNtbHBHOXpzZXZ1QmF1R0M1NXRzT2xyMV9Uem05RmNCYTduVnVWOGkzX1FfNWVzR2tZc2xoRzVvQXdndW4wVEtZZ3AzRmhNMHJ3OXcxX3lkaldmSV93Z2hUU0F3MFRsbXF1TEZHUjNQMWFrRFpkMVdnWVB0cXZtOGVjaXVuV09LaXJlalVPOEY3VmlnNVJqQ0JtdmJnUVVyVmlYaW1uMFhEN040a2RNa284bUNIVkxBR2JGVm1SZVAwVVhtZG10WWg2SUoyVVgzOGU3bk9fY2R6UUJUdkhTYmpfZFYxcko1NG1jWW1HVVpzT0JoQUdjVGZWcDNicFE?oc=5"
         }
       ],

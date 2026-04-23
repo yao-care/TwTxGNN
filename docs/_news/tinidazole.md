@@ -14,7 +14,7 @@ permalink: /news/tinidazole/
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/tinidazole/
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [喝錯飲品竟致癌？果汁、熱飲藏危機 醫：身體變癌細胞溫床](https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4bm9FbV9peXMxU1lOTnVMTThQZEdvMEgyYTdVVG04WEJSa0hHQjZ5MTNzeHY0TC1uUGN1YTVSNmNFVE81T1VTMDNEZkhEUQ?oc=5)
 
 2026-04-23 <span class="news-indication-tag">癌症</span>
 
 來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4bm9FbV9peXMxU1lOTnVMTThQZEdvMEgyYTdVVG04WEJSa0hHQjZ5MTNzeHY0TC1uUGN1YTVSNmNFVE81T1VTMDNEZkhEUQ?oc=5)
-
----
-
-### [「所有辣妹都有它」：Mel B 講述更年期症狀](https://news.google.com/rss/articles/CBMiugJBVV95cUxQUkdZTldybVhrYUYzVUhuaWJsMmlqbWlqZzA0cjRBb3Q3NURkWXFEQ1lHRWR2WjdOdV9xOWNNMHlfYjFfZnRDTklvVU8wTENTRDY5dGFUWjRfOG9yNTE4M0xjaDhuZm94cUVLYnc2WXZBZndKT2F3TjN2M2ZjMlo4Y0JvNnhtMzVjdDAycklXaUo0VmRKclNXbHhJSWM0QzJob09hbnBQclhIOVAtZ2xVWUpfbkZzSWpEVjdFbXptYlByZHdnYURZSWFmZXNybjFvZ2Zhd05BdG42Nko3Ujg2SGlFSGJ6UnFWbzBDakFjeTRyaGlDNzlzdmVFeUlMQ0NIRXFBV081ZHVoaGltYXRFTjM4MnhzdmYxOXVsZzJfdjRfbTdWc3NiLWc4Z0ZLeWJ2YnN0RGtfdnhvQQ?oc=5)
-
-2026-04-22 <span class="news-indication-tag">更年期</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMiugJBVV95cUxQUkdZTldybVhrYUYzVUhuaWJsMmlqbWlqZzA0cjRBb3Q3NURkWXFEQ1lHRWR2WjdOdV9xOWNNMHlfYjFfZnRDTklvVU8wTENTRDY5dGFUWjRfOG9yNTE4M0xjaDhuZm94cUVLYnc2WXZBZndKT2F3TjN2M2ZjMlo4Y0JvNnhtMzVjdDAycklXaUo0VmRKclNXbHhJSWM0QzJob09hbnBQclhIOVAtZ2xVWUpfbkZzSWpEVjdFbXptYlByZHdnYURZSWFmZXNybjFvZ2Zhd05BdG42Nko3Ujg2SGlFSGJ6UnFWbzBDakFjeTRyaGlDNzlzdmVFeUlMQ0NIRXFBV081ZHVoaGltYXRFTjM4MnhzdmYxOXVsZzJfdjRfbTdWc3NiLWc4Z0ZLeWJ2YnN0RGtfdnhvQQ?oc=5)
 
 ---
 

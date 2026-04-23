@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-23T20:03:56.910623+00:00",
-  "count": 7,
+  "generated": "2026-04-23T21:38:06.155541+00:00",
+  "count": 6,
   "news": [
     {
       "id": "8beaf5a7c78b",
@@ -276,42 +276,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "006bdabfe873",
-      "title": "「所有辣妹都有它」：Mel B 講述更年期症狀",
-      "published": "2026-04-22T15:41:54+00:00",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQUkdZTldybVhrYUYzVUhuaWJsMmlqbWlqZzA0cjRBb3Q3NURkWXFEQ1lHRWR2WjdOdV9xOWNNMHlfYjFfZnRDTklvVU8wTENTRDY5dGFUWjRfOG9yNTE4M0xjaDhuZm94cUVLYnc2WXZBZndKT2F3TjN2M2ZjMlo4Y0JvNnhtMzVjdDAycklXaUo0VmRKclNXbHhJSWM0QzJob09hbnBQclhIOVAtZ2xVWUpfbkZzSWpEVjdFbXptYlByZHdnYURZSWFmZXNybjFvZ2Zhd05BdG42Nko3Ujg2SGlFSGJ6UnFWbzBDakFjeTRyaGlDNzlzdmVFeUlMQ0NIRXFBV081ZHVoaGltYXRFTjM4MnhzdmYxOXVsZzJfdjRfbTdWc3NiLWc4Z0ZLeWJ2YnN0RGtfdnhvQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }
