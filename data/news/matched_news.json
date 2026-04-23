@@ -1,78 +1,55 @@
 {
-  "last_updated": "2026-04-23T01:51:43.818958+00:00",
-  "total_count": 27,
+  "last_updated": "2026-04-23T04:44:50.091697+00:00",
+  "total_count": 30,
   "matched_count": 7,
   "news": [
     {
-      "id": "e51d3560718d",
-      "title": "看膽固醇竟揪出癌 中年男1數值不對勁 一查大腸癌三期",
-      "published": "2026-04-23T01:19:28+00:00",
-      "summary": "看膽固醇竟揪出癌 中年男1數值不對勁 一查大腸癌三期&nbsp;&nbsp;中時新聞網",
+      "id": "6349915fc408",
+      "title": "陪伴是最長情告白！60歲司機帶腦退化愛妻開工10年來貼身照顧「她陪我走過半生現在換我守著她」",
+      "published": "2026-04-23T04:30:00+00:00",
+      "summary": "陪伴是最長情告白！60歲司機帶腦退化愛妻開工10年來貼身照顧「她陪我走過半生現在換我守著她」&nbsp;&nbsp;星島頭條",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xY0FVeGZYeHNlbURaUU8wLW1mQVU3S3FZeFlOalJIeGwxS21iaW9QOE9sVmpYX3VKNEZadnVkb2FXaGthVWwtVTJseDNPcDFabU9JZ09jcExUUHdKM3NzcUtZVFRSZzAyclNvbHhB?oc=5"
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMitwRBVV95cUxOd2haWkVuOXBUSGtrLVdPQjNRR1JoOEl0TFhDUFFoRjE5VzhaUjlLTWFtc1hpclZSXzA0dHNEN0M4aFRZdzNCUm4ycHlzR0lrd3QyZ0UwOUdlem5VYVNxM2dGQ21NUmtJZHdKX3V6UGJtRUpqanFhejgwQlI2UkRiTGVTX0MybGRYeTJnZjN5aDNYcGpyQjVfOFZVWWQ1M1lUY2YwSHdRVTFLSC1tYVhRX1d1X2NqOHFnUWUzU3diaHNJaXIySEIwRXZVQVByWUZ4aW5mem5nWWtpcEpNbnJKeGRYVEM4UmpUZEFKLXVadTFJekNNbFpBaG9DYXpGS3p6Ui1CNTVab2ROQV9aZ2ZhQWU0MWhZRUNQWDVOcW9hM3FUM1h2S2N2Wm1YejVQdk1ZS1FYTGg3YTl2SVRFRTVBdHNSbVVqcjg5Y1E3dEwtOV9DekFGVmFIWUxxX3JQU1JhcVRTQS1ROHhwSERGLTNvZkszNXI3MVhWRmlRcDgtS283N29XbHJHaWRtNmZCVXFrX21PMEI3UVBCUVlMV2ljUzR2ZzNzVEoxUWREbGduam4weVNxSnk3SFRmU2JGZWNMMy1pNjUyRnJDb1JCcmFieGxfcUwxVjNEd1RuNnpYNmY4YXpPSXE2WDVpZmpJTG1lRHg0RGRncmlWVlhxbFV0MmhyUTdvYlF0N29fOENXai02dkdjVWg3T0JMY0FPNHJ5dFNrU0c3eDkxY2NBT29NM3ZsY3RXQ1k?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "650a7acd354f",
+      "title": "高燒4天後全身紅疹！ 醫揭「玫瑰疹」關鍵徵兆 與麻疹差異一次看",
+      "published": "2026-04-23T02:56:05+00:00",
+      "summary": "高燒4天後全身紅疹！ 醫揭「玫瑰疹」關鍵徵兆 與麻疹差異一次看&nbsp;&nbsp;聯合新聞網嬰高燒39度後「全身紅疹」！ 醫揭玫瑰疹徵兆：退燒後「1現象」是關鍵&nbsp;&nbsp;祝你健康嬰幼兒高燒4天後出紅疹，醫：多數免驚，但要留意這些警訊&nbsp;&nbsp;PChome Online 新聞寶寶高燒39度沒感冒？醫揭「玫瑰疹」特徵：退燒後1現象是關鍵&nbsp;&nbsp;TVBS 健康2.0嬰兒高燒後全身紅疹 醫揭玫瑰疹典型症狀&nbsp;&nbsp;壹蘋新聞網",
+      "sources": [
+        {
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GT2hIUG5FTjhoalZEY0U4Ul9sTFVqLWl6WTQxMm9zTF9FekU5Vi1oSFU2TV9UMWVlQjVsVzBlZVV1RFFnQWRYSUJRTWFHV3ZC0gFWQVVfeXFMTmNsaG1YcEFJQkRYWHBJSnlxQkxuVXYwSm1aS3hDSmQzYzNmM200OHlKOUItclpTc216UE5EX2d1SDBNTTZOQ2dNeVZmdkhQWHNzZElaNnc?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
+          "name": "common cold",
+          "keyword": "感冒",
           "related_drugs": [
             {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }
       ]
     },
     {
-      "id": "8b4f1f842c88",
-      "title": "健康醫療網》【控鉀・穩住心與腎】50歲男性急性腎損傷 血鉀高達8 心跳險停止",
-      "published": "2026-04-23T00:00:00+00:00",
-      "summary": "健康醫療網》【控鉀・穩住心與腎】50歲男性急性腎損傷 血鉀高達8 心跳險停止&nbsp;&nbsp;自由評論網",
+      "id": "cd7e71067d5d",
+      "title": "孩子錯過HPV疫苗來得及補嗎？醫提醒兩劑完成關鍵 建立防護降低癌症風險",
+      "published": "2026-04-23T02:30:00+00:00",
+      "summary": "孩子錯過HPV疫苗來得及補嗎？醫提醒兩劑完成關鍵 建立防護降低癌症風險&nbsp;&nbsp;健康醫療網",
       "sources": [
         {
-          "name": "自由評論網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1URGp5bE11THFXQTRUM2pua0lSMFU4Nmw5MmtFSE9LUkc4RnBKTjA4RDhwMy13TXd3ZHhhS3pVbjFMdTRaVWdQbmVHU01GNzlaZVp5ZGhYVlJTbFhkb2RIUENB0gFnQVVfeXFMT3FTT1hxSVV3a1p2TFMzS244QnZwTE5GWUNYYl83WnV0aWNlOFR5NHltTTZhLURQQm9FbUhJcENXWWJKRDVBeEhaaUVUQ1kyT2U2b2dBWEJmal9MT29GNWRRbDZYNC02VQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a497532cf5b4",
-      "title": "癌症為何越來越年輕？關鍵可能不只是基因 - TechNews 科技新報",
-      "published": "2026-04-22T23:40:48+00:00",
-      "summary": "癌症為何越來越年輕？關鍵可能不只是基因&nbsp;&nbsp;TechNews 科技新報「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲3飲品每日一杯看似「養生」 醫示警：10年後身體成癌細胞溫床&nbsp;&nbsp;TVBS新聞網防癌飲食｜年輕人患癌飲食是元兇 做3件事防癌 醫生親測一星期後大推：一身輕！&nbsp;&nbsp;香港經濟日報HKET男子每日飯前飲湯驚揭患癌！醫生：做錯一事傷防護！列6類養癌食品名單奶茶都上榜！附6大防癌食物清單&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcWx1aGIwTUlBQlk3TWltYTJ2LVZfVmVGSlVCZ0hRdGFRMU44dG9lZnBKV1NMOUNkQXhyX0Nhc1F6eTdCcnd2bV93MzVaSDBXZVhaN0hVM3J6V2Z0T1hELWttaWp3aWh2Q05KeHE3NXFQSmhHeGpvc1MybUZHZzFSTg?oc=5"
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yWUtoLTdVTlRVcnZ2RDZ4MWowalN4cFZsZzFtRmpDZ1JJcG9YbEdEX21sVHBncm9FT0dqcUtaQWRhcjFBSjAxRVljWVh5eGhGNndSYzFR?oc=5"
         }
       ],
       "matched_keywords": [
@@ -274,6 +251,302 @@
       ]
     },
     {
+      "id": "e51d3560718d",
+      "title": "看膽固醇竟揪出癌 中年男1數值不對勁 一查大腸癌三期",
+      "published": "2026-04-23T01:19:28+00:00",
+      "summary": "看膽固醇竟揪出癌 中年男1數值不對勁 一查大腸癌三期&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xY0FVeGZYeHNlbURaUU8wLW1mQVU3S3FZeFlOalJIeGwxS21iaW9QOE9sVmpYX3VKNEZadnVkb2FXaGthVWwtVTJseDNPcDFabU9JZ09jcExUUHdKM3NzcUtZVFRSZzAyclNvbHhB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8b4f1f842c88",
+      "title": "健康醫療網》【控鉀・穩住心與腎】50歲男性急性腎損傷 血鉀高達8 心跳險停止",
+      "published": "2026-04-23T00:00:00+00:00",
+      "summary": "健康醫療網》【控鉀・穩住心與腎】50歲男性急性腎損傷 血鉀高達8 心跳險停止&nbsp;&nbsp;自由評論網",
+      "sources": [
+        {
+          "name": "自由評論網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1URGp5bE11THFXQTRUM2pua0lSMFU4Nmw5MmtFSE9LUkc4RnBKTjA4RDhwMy13TXd3ZHhhS3pVbjFMdTRaVWdQbmVHU01GNzlaZVp5ZGhYVlJTbFhkb2RIUENB0gFnQVVfeXFMT3FTT1hxSVV3a1p2TFMzS244QnZwTE5GWUNYYl83WnV0aWNlOFR5NHltTTZhLURQQm9FbUhJcENXWWJKRDVBeEhaaUVUQ1kyT2U2b2dBWEJmal9MT29GNWRRbDZYNC02VQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "71f64f98e4c1",
+      "title": "精準醫療轉化臨床：Nature系列會議探討多體學與AI挑戰",
+      "published": "2026-04-22T13:39:29+00:00",
+      "summary": "精準醫療轉化臨床：Nature系列會議探討多體學與AI挑戰&nbsp;&nbsp;商傳媒前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNOGRmeVVfb0NBVFI1NkpEdEo0RzJsUjB0c2tGRVo1YWw0cEM0VmMtUFlaYVhMV3ZCa092Y0kwSFN4clZjNjJfNWw4ZElKWGozUGJGSlNLMDEzSVktMEVWWG5EVDBMYVJHbDZITXF0VU9uZWJDZ0NzV2hfN1FGSXhEbEVRMjJIMlJ3cGppY0pYVDQ5T3Z4YzBLSHZObXpWcGgzWXNCamZnNUdpRVNTLWoxWjFJcV9zZU1lTzMySlpSN3RsX2NmU0lIRTNPdEVqdEx6a2VyZDZET08zSDZWRGZodXNHNGlud28wUjA1Wm1faEVwOHVoR08wV05BWWlaeUlsZHllZUdvNS1aazl4cE16cm5NT2hJcjNTT0VVMHJXekpNU2Z2emtVZThUTFpCV0pMMUZvamFCZ3pnOXJIQTBtUVhGaGZxNUY2WGluNEZFMlpIXzdrbDVRU1N6OVJTNHNrWXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b84a43ac7a56",
+      "title": "「3類養生飲品」天天喝10年後出事！　醫嘆：身體變癌細胞溫床",
+      "published": "2026-04-22T12:25:00+00:00",
+      "summary": "「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲癌症為何越來越年輕？關鍵可能不只是基因&nbsp;&nbsp;TechNews 科技新報喝錯飲品竟致癌？果汁、熱飲藏危機 醫：身體變癌細胞溫床&nbsp;&nbsp;TVBS新聞網40歲媽每天1杯果汁「喝出癌」 醫揭「3偽健康飲料」：身體變癌細胞溫床&nbsp;&nbsp;祝你健康胰臟癌｜日飲1杯呢類飲品患胰臟癌風險激增87% 醫生點名4大高危飲品 戒3類食物保護腎臟&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DSmR6SzFvOHhCdWt2UnNZNExDSXBSNnk1YTZZVWtXMUZiUlg4NklGME9nMFdoUmVyQkhIYjhpSE1WdThoTzVQNUM2cmVrT2Jp0gFsQVVfeXFMTWpsTHBWdG95aUtnRnlrRF81eHB4LU1leDBfWkprel93d19NOTJ4NDF2V3Y0U3VFbldTNlRteTNtWTNDRS14MWRSYUEzTGt3alFsMmJjMVYweHJkaGJoSS1UekdhRU9ScHBwbzU0?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cf0bada65d30",
+      "title": "大陸「五一連假」將近陸疾控局：流感病毒活躍度上升| 大陸傳真| 兩岸",
+      "published": "2026-04-22T12:03:46+00:00",
+      "summary": "大陸「五一連假」將近陸疾控局：流感病毒活躍度上升| 大陸傳真| 兩岸&nbsp;&nbsp;聯合新聞網",
+      "sources": [
+        {
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PS21pQXc2blpUcmw5VTRIRkVSSWNIdmZqWWZuQVZra0tjanFIM1dLazRkbTktNzJqaFNuSVYtX09nR2VFcHRBZldhajZmZDhB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "601ad91ae768",
       "title": "防曬｜28歲女為美白狂搽防曬慘患「軟骨病」連咬嘢都無力！醫生警告：避陽光過龍隨時出事附消委會6款滿分防曬推介 - UHK 港生活",
       "published": "2026-04-22T11:10:39+00:00",
@@ -329,7 +602,7 @@
       "id": "247b4d385cd3",
       "title": "不用再試藥等半年 AI預測自體免疫治療效果只要14天",
       "published": "2026-04-22T08:36:42+00:00",
-      "summary": "不用再試藥等半年 AI預測自體免疫治療效果只要14天&nbsp;&nbsp;中時新聞網維他命C氫分子救自體免疫病台灣成果登國際期刊| 生活&nbsp;&nbsp;中央社 CNA自體免疫疾病 AI試藥助甩類固醇&nbsp;&nbsp;聯合新聞網試藥半年變14天 三總AI預測免疫用藥 助患者擺脫類固醇&nbsp;&nbsp;自由健康網治療自體免疫疾病不再碰運氣！三總AI精準預測療效 14天找出適合用藥&nbsp;&nbsp;TVBS 健康2.0",
+      "summary": "不用再試藥等半年 AI預測自體免疫治療效果只要14天&nbsp;&nbsp;中時新聞網維他命C氫分子救自體免疫病台灣成果登國際期刊| 生活&nbsp;&nbsp;中央社 CNA自體免疫疾病 AI試藥助甩類固醇&nbsp;&nbsp;聯合新聞網試藥半年變14天 三總AI預測免疫用藥 助患者擺脫類固醇&nbsp;&nbsp;自由健康網紅斑性狼瘡治療新突破？三總AI免疫導航拚14天找對藥&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "中時新聞網",
@@ -645,13 +918,13 @@
       "matched_keywords": []
     },
     {
-      "id": "f8bf31e2e2f6",
+      "id": "361de305db3a",
       "title": "長期滑手機損健康 滑出媽媽手 隨時痛到筷子都拎唔穩",
       "published": "2026-04-22T03:30:00+00:00",
-      "summary": "長期滑手機損健康 滑出媽媽手 隨時痛到筷子都拎唔穩&nbsp;&nbsp;AM730",
+      "summary": "長期滑手機損健康 滑出媽媽手 隨時痛到筷子都拎唔穩&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOUzBrT1F5REoxcEhPLThxUGRBZVM4MVgyRm5JMGNEMEpfRkkyYkJIaGV6dW43VFExZjZ5V3VpNENWQ0dpeFZObnh1Q0lqWnJLQU9XQmtHeUZLSDNhVVA5Y1JWWW56eGdRNjZLWW5LVW9kYXFEeGQ4NHhscnNOWFBBT0kzYUMtQ2F6TVc2TldLMGtJTy11MEpZZnZxZ1EzQzREN1VHbHNXdkp5YkMtcTJ5WkxTUFFZZ1pHZFVsa3d0cG5CRGt5Tlp5LXl3ZHN0WE1uejJVc1BENWppMlByU3o3aXlRZlZBbkR0d1NSVzFlUEVteTlxbW1BOG9uWDc2anZqV2ZkTGt3RUppRnpPQWsxVnFjMW5yRldVWmpVbnRUSDdTaFdaNkJxTW5HcHlFa2hjS29ES0JWWEdDeGhuemJpa0JFYklaaDNWb2dYbS1DaFBZbG9oY21jVUZNR0RzU3FLMjRGUVBNcWpkOFViN0RfLTBaTTkwMDYz?oc=5"
         }
       ],
@@ -733,6 +1006,19 @@
       ]
     },
     {
+      "id": "f44757ddefc2",
+      "title": "不是只有男生才要補鋅，女生也需要！10大「鋅」食物排行榜！不是生蠔、第一名竟然是「這食物」 | Women's Health",
+      "published": "2026-04-21T15:28:00+00:00",
+      "summary": "不是只有男生才要補鋅，女生也需要！10大「鋅」食物排行榜！不是生蠔、第一名竟然是「這食物」 | Women's Health&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNcXR4RmZwUjJ2a292ZHR6YmZfbnprV1lBSzh2emR4MHZLR1ZURlBISl9kaDZ1MkV1T3BjRW1SUlNXb1Q0bF9nNzdXN21SVXJ6MEtqZzVvMTFDZWs1NzVOVWRjQWE2am8yZkdTc2pHdGZIbDBSUG5sdWVuU290VFlMaFAzMkZHZU1tWjhLOHg2Rk5lNXpXMnpMMDkwM3ZRMml5U1FzWUMzTFBkX19DbXhXcTNuUVBqYU8yZGdwOEhGaFdKSURIOVJtbGlqSTRkNTBTOU9RU3NkUDRNaWZNY2ZOWnlIcDVHbnVwaXhYdnpwT0xtSnF3dFVDVGJjaHBhX3VCTDFTam5oMmMybnhVczlfWXNjdEczeUdGN0w4b1dlNzNUQUdGM1pOR1l3VG8tdHkwbVdRRVh0alNWQ08yNHdmVmNJR3BZMm9MWGRpdGV2Q0Q2M2MtbU83QVB1X0hTR3k5NUhB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "cef3d6cadcdc",
       "title": "懶人先會瞓晏覺？ 午睡是大腦保養秘技 權威實測腦部逆齡6.5年！預防腦退化！",
       "published": "2026-04-21T08:58:19+00:00",
@@ -772,215 +1058,6 @@
       "matched_keywords": []
     },
     {
-      "id": "d7a786fdab4d",
-      "title": "遶境求保庇，求神助更要自助！ 醫籲：接種HPV疫苗才是守護健康、預防癌症的關鍵方式！",
-      "published": "2026-04-21T05:37:55+00:00",
-      "summary": "遶境求保庇，求神助更要自助！ 醫籲：接種HPV疫苗才是守護健康、預防癌症的關鍵方式！&nbsp;&nbsp;良醫健康網",
-      "sources": [
-        {
-          "name": "良醫健康網",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QdlFuRUJoaVVpelZvSG5uZkFVejhOTUJnQTk1anRaLW1nMjVER25wY3ZYQm5ZTTlJcmxfeFNyQlhaT09jelMxWVpJT1dQMEJrLWNWVThPQ2VST0ctVE5zai1iY0FJUWRwWVE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "b7d5828dc1f7",
       "title": "超市最容易被忽略的抗癌食物——醫師解析「5種種子」的關鍵營養素，每天一小把效果驚人",
       "published": "2026-04-21T04:55:50+00:00",
@@ -992,48 +1069,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "bd493127adcf",
-      "title": "不是只有男生才要補鋅，女生也需要！10大「鋅」食物排行榜！不是生蠔、第一名竟然是「這食物」 - Women's Health",
-      "published": "2026-04-21T03:30:12+00:00",
-      "summary": "不是只有男生才要補鋅，女生也需要！10大「鋅」食物排行榜！不是生蠔、第一名竟然是「這食物」&nbsp;&nbsp;Women's Health",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcVJQT3MyclBET1dsanVUc2c2RmlZTElhbHdZVnlta1Y2OWtWSVRxZER0ZnZrV1VuYlZ0cGZDbTFiUTNJZ2dtR2NQZUVWZlVzRUpqN1NabUFGTUQ4bGJoQ0pWeVVadEdMelZWQVRsWl9ZdjJZaTdpM29kX0dReXBRbUZlOHU3U3FfeUFDQUY4akloWmlLVXkwWjdZclpXdERPWEE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a534cafe40c5",
-      "title": "幫家中長輩注意RSV！防肺炎、中風等風險，預防策略一次看",
-      "published": "2026-04-21T02:34:00+00:00",
-      "summary": "幫家中長輩注意RSV！防肺炎、中風等風險，預防策略一次看&nbsp;&nbsp;蕃新聞嬰幼兒呼吸道殺手！醫曝RSV預防新里程 單株抗體體給寶寶直接保護&nbsp;&nbsp;三立新聞網SETN.com",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XMGRqb0QxWVdYeURoSHRhb1NybjNmNnZHNlMwQW9nd3dzeGp2TEY2OHJLeHVhbVlDdmVzcGdSdEl0bURId0taUmdmS2h1V0huQWc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "b90b40f8055e",

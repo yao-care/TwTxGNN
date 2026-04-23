@@ -42,11 +42,19 @@ permalink: /news/cytarabine/
 
 ## 相關新聞（4 則）
 
-### [癌症為何越來越年輕？關鍵可能不只是基因 - TechNews 科技新報](https://news.google.com/rss/articles/CBMigAFBVV95cUxNcWx1aGIwTUlBQlk3TWltYTJ2LVZfVmVGSlVCZ0hRdGFRMU44dG9lZnBKV1NMOUNkQXhyX0Nhc1F6eTdCcnd2bV93MzVaSDBXZVhaN0hVM3J6V2Z0T1hELWttaWp3aWh2Q05KeHE3NXFQSmhHeGpvc1MybUZHZzFSTg?oc=5)
+### [孩子錯過HPV疫苗來得及補嗎？醫提醒兩劑完成關鍵 建立防護降低癌症風險](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yWUtoLTdVTlRVcnZ2RDZ4MWowalN4cFZsZzFtRmpDZ1JJcG9YbEdEX21sVHBncm9FT0dqcUtaQWRhcjFBSjAxRVljWVh5eGhGNndSYzFR?oc=5)
+
+2026-04-23 <span class="news-indication-tag">癌症</span>
+
+來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yWUtoLTdVTlRVcnZ2RDZ4MWowalN4cFZsZzFtRmpDZ1JJcG9YbEdEX21sVHBncm9FT0dqcUtaQWRhcjFBSjAxRVljWVh5eGhGNndSYzFR?oc=5)
+
+---
+
+### [「3類養生飲品」天天喝10年後出事！　醫嘆：身體變癌細胞溫床](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DSmR6SzFvOHhCdWt2UnNZNExDSXBSNnk1YTZZVWtXMUZiUlg4NklGME9nMFdoUmVyQkhIYjhpSE1WdThoTzVQNUM2cmVrT2Jp0gFsQVVfeXFMTWpsTHBWdG95aUtnRnlrRF81eHB4LU1leDBfWkprel93d19NOTJ4NDF2V3Y0U3VFbldTNlRteTNtWTNDRS14MWRSYUEzTGt3alFsMmJjMVYweHJkaGJoSS1UekdhRU9ScHBwbzU0?oc=5)
 
 2026-04-22 <span class="news-indication-tag">癌症</span>
 
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMigAFBVV95cUxNcWx1aGIwTUlBQlk3TWltYTJ2LVZfVmVGSlVCZ0hRdGFRMU44dG9lZnBKV1NMOUNkQXhyX0Nhc1F6eTdCcnd2bV93MzVaSDBXZVhaN0hVM3J6V2Z0T1hELWttaWp3aWh2Q05KeHE3NXFQSmhHeGpvc1MybUZHZzFSTg?oc=5)
+來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DSmR6SzFvOHhCdWt2UnNZNExDSXBSNnk1YTZZVWtXMUZiUlg4NklGME9nMFdoUmVyQkhIYjhpSE1WdThoTzVQNUM2cmVrT2Jp0gFsQVVfeXFMTWpsTHBWdG95aUtnRnlrRF81eHB4LU1leDBfWkprel93d19NOTJ4NDF2V3Y0U3VFbldTNlRteTNtWTNDRS14MWRSYUEzTGt3alFsMmJjMVYweHJkaGJoSS1UekdhRU9ScHBwbzU0?oc=5)
 
 ---
 
@@ -63,14 +71,6 @@ permalink: /news/cytarabine/
 2026-04-21 <span class="news-indication-tag">肺癌</span>
 
 來源：[Singtaousa](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ2R3SHoybF9DSF82RklWN3h4NFJLU05RN25vR1Y3dV9LYzRCR3paU3dvMUQteEFuaGhIQWRMbV9hY1BSX25XZktONkxWWm1TNTMzN2hQdHpyaXkyekpyMlB5M3R6OFU2NzNKYXg3MkE1XzhQQ0tWaVRSZEJFVVltVWgwa0prWmdzVlZFMGE3dWN4cUk0ajFUT1J3QmF3Wm0tcFZMNTExZ2tTeEgzOWtKYUNEN0JHX20wMHBIdHVUdlVPWWE2X0pXeDJMbFpNWDV2OHZ2Z0FleDJwQ2ozdW5NRXEzZmRWUDJ4T3d6TnUzZlpKV2RCOThPVW4xMnY?oc=5)
-
----
-
-### [遶境求保庇，求神助更要自助！ 醫籲：接種HPV疫苗才是守護健康、預防癌症的關鍵方式！](https://news.google.com/rss/articles/CBMiakFVX3lxTE1QdlFuRUJoaVVpelZvSG5uZkFVejhOTUJnQTk1anRaLW1nMjVER25wY3ZYQm5ZTTlJcmxfeFNyQlhaT09jelMxWVpJT1dQMEJrLWNWVThPQ2VST0ctVE5zai1iY0FJUWRwWVE?oc=5)
-
-2026-04-21 <span class="news-indication-tag">癌症</span>
-
-來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTE1QdlFuRUJoaVVpelZvSG5uZkFVejhOTUJnQTk1anRaLW1nMjVER25wY3ZYQm5ZTTlJcmxfeFNyQlhaT09jelMxWVpJT1dQMEJrLWNWVThPQ2VST0ctVE5zai1iY0FJUWRwWVE?oc=5)
 
 ---
 
