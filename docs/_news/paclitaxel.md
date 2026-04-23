@@ -44,11 +44,11 @@ permalink: /news/paclitaxel/
 
 ## 相關新聞（3 則）
 
-### [孩子錯過HPV疫苗來得及補嗎？醫提醒兩劑完成關鍵 建立防護降低癌症風險](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yWUtoLTdVTlRVcnZ2RDZ4MWowalN4cFZsZzFtRmpDZ1JJcG9YbEdEX21sVHBncm9FT0dqcUtaQWRhcjFBSjAxRVljWVh5eGhGNndSYzFR?oc=5)
+### [「所有辣妹都有它」：Mel B 講述更年期症狀](https://news.google.com/rss/articles/CBMiugJBVV95cUxQUkdZTldybVhrYUYzVUhuaWJsMmlqbWlqZzA0cjRBb3Q3NURkWXFEQ1lHRWR2WjdOdV9xOWNNMHlfYjFfZnRDTklvVU8wTENTRDY5dGFUWjRfOG9yNTE4M0xjaDhuZm94cUVLYnc2WXZBZndKT2F3TjN2M2ZjMlo4Y0JvNnhtMzVjdDAycklXaUo0VmRKclNXbHhJSWM0QzJob09hbnBQclhIOVAtZ2xVWUpfbkZzSWpEVjdFbXptYlByZHdnYURZSWFmZXNybjFvZ2Zhd05BdG42Nko3Ujg2SGlFSGJ6UnFWbzBDakFjeTRyaGlDNzlzdmVFeUlMQ0NIRXFBV081ZHVoaGltYXRFTjM4MnhzdmYxOXVsZzJfdjRfbTdWc3NiLWc4Z0ZLeWJ2YnN0RGtfdnhvQQ?oc=5)
 
-2026-04-23 <span class="news-indication-tag">癌症</span>
+2026-04-22 <span class="news-indication-tag">更年期</span>
 
-來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yWUtoLTdVTlRVcnZ2RDZ4MWowalN4cFZsZzFtRmpDZ1JJcG9YbEdEX21sVHBncm9FT0dqcUtaQWRhcjFBSjAxRVljWVh5eGhGNndSYzFR?oc=5)
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMiugJBVV95cUxQUkdZTldybVhrYUYzVUhuaWJsMmlqbWlqZzA0cjRBb3Q3NURkWXFEQ1lHRWR2WjdOdV9xOWNNMHlfYjFfZnRDTklvVU8wTENTRDY5dGFUWjRfOG9yNTE4M0xjaDhuZm94cUVLYnc2WXZBZndKT2F3TjN2M2ZjMlo4Y0JvNnhtMzVjdDAycklXaUo0VmRKclNXbHhJSWM0QzJob09hbnBQclhIOVAtZ2xVWUpfbkZzSWpEVjdFbXptYlByZHdnYURZSWFmZXNybjFvZ2Zhd05BdG42Nko3Ujg2SGlFSGJ6UnFWbzBDakFjeTRyaGlDNzlzdmVFeUlMQ0NIRXFBV081ZHVoaGltYXRFTjM4MnhzdmYxOXVsZzJfdjRfbTdWc3NiLWc4Z0ZLeWJ2YnN0RGtfdnhvQQ?oc=5)
 
 ---
 
