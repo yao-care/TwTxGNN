@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-24T11:58:42.989353+00:00",
-  "count": 28,
+  "fetched_at": "2026-04-24T13:26:25.221743+00:00",
+  "count": 25,
   "news": [
-    {
-      "id": "879258b9a4d7",
-      "title": "中醫治媽媽手不只按痛點 - 更生新聞網",
-      "published": "2026-04-24T00:40:07+00:00",
-      "summary": "中醫治媽媽手不只按痛點&nbsp;&nbsp;更生新聞網",
-      "sources": [
-        {
-          "name": "更生新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vNWVHLWFQdzY4UWU4TFlvWWtaNUFzY1d4NEhEU2w5RkZ2Zkt5M0dPczVyVy12RUdiRGdWX0RqVGVoekx6MGVDNw?oc=5"
-        }
-      ]
-    },
     {
       "id": "f34f4314b19d",
       "title": "胖一點沒關係？醫示警免疫系統已開始「擺爛」了 - 中天新聞網",
@@ -52,30 +40,6 @@
       ]
     },
     {
-      "id": "5057c9424a00",
-      "title": "COVID-19 新研究：Paxlovid 助康復但難降重症率 - 行銷人",
-      "published": "2026-04-24T07:07:00+00:00",
-      "summary": "COVID-19 新研究：Paxlovid 助康復但難降重症率&nbsp;&nbsp;行銷人",
-      "sources": [
-        {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQR1lyRzVUTnBLUmFGTEZSWjVJdVFzUlZVWUZPbzVfVGZpZ250T3VhTzEzdHFwRGJzVzdmVmQyLUpDblRQMzNXRjN6eHdFMjZsUF9DOEZyeDBuZ2pYNk5uR2VOU3FJT0w5UUZFSzFxcXJGLVRRWXlyX3F6TDZqa3hIeGhVbmNlWHpTMFVfWjNRM1JyUnUtMjdXQmdJdHZSVzRQRm0zcDdfU0h2V0NRUlFsRUNSV3RqdkgxSVVZYkVFUkF0dFRaTDBJNjBDRGZabEpmVFRCZTF3SFBqeGcwLXlSWDF3UVVVeU9zOE9TT1hEMU1ZdDBkeFRQc1U2Qmk0X2xWcEF6M05ybzRGWFhOY1FHZEt6WQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8ed139d003a5",
-      "title": "以為飲果汁好健康？醫生揭4大致癌飲料黑名單／日飲1杯胰臟癌風險狂飆87% - U Food",
-      "published": "2026-04-23T18:09:59+00:00",
-      "summary": "以為飲果汁好健康？醫生揭4大致癌飲料黑名單／日飲1杯胰臟癌風險狂飆87%&nbsp;&nbsp;U Food不是珍奶！這飲品「沒壞東西樣子」 喝10年癌細胞恐肆虐&nbsp;&nbsp;Yahoo新聞癌症為何越來越年輕？關鍵可能不只是基因&nbsp;&nbsp;TechNews 科技新報「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲討論牆 | 不是珍奶！這飲品「沒壞東西樣子」 喝10年癌細胞恐肆虐&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "U Food",
-          "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxPUEFIU054U1kxZEJJbjFocWZ5NDJwREtpVTRKU0h3T04tOGVyQnVMMy1DRHlIdzdlNmh6VFdUVzVPWmtaVkU2RWc4dGlFNk9SYkt6aVJmeFBOY3lvdVo2cW1VSXozcUlubHYtb01uYks0bkJsX09EZzVlU1F2M3o4WVV4cEFCNlVQRkJkeG43RTlWcmdqcFVwQUg1WVJUUHlVUTNSRFlBUVhyZUV1b3dabU5Wb21ienNuSktCRXBtNnlLMUNIdjY5aENCS2ZoTFM5UTJaaG5EdU5TMUgzcmNDV2MzRVVnRDhicVNtcURld0VvVWNtSU9vM0RETFRTZjdtYy1OaVRCNHA5aF9tU21Rb0NlaGc0SXVOUTZESDBSYjdJOXVaSkVvLXROVlUya3dvSHVLTUwzcnpYcXVOZEM3WEV4M3oxeWJkdGh5TV9XR3Exbkk2Z3FhcU5GZ2d2ZXBLQVZHMjFFOUlkYlFodnJpZnBzQ0JZUy1lVURfdGltVWx5ZW5JbGZYamdXUGdWMW5IX0EwYTNIdkFYcmlVenR4SFBQUWswckFyalNhS0s1UjhqT2g0Y21qWDlYT1B2cHNncnl4ZQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "566047775cf1",
       "title": "癌症為何越來越年輕？關鍵可能不只是基因 | 科技新報 - LINE TODAY",
       "published": "2026-04-23T08:30:12+00:00",
@@ -88,6 +52,18 @@
       ]
     },
     {
+      "id": "5057c9424a00",
+      "title": "COVID-19 新研究：Paxlovid 助康復但難降重症率 - 行銷人",
+      "published": "2026-04-24T07:07:00+00:00",
+      "summary": "COVID-19 新研究：Paxlovid 助康復但難降重症率&nbsp;&nbsp;行銷人",
+      "sources": [
+        {
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQR1lyRzVUTnBLUmFGTEZSWjVJdVFzUlZVWUZPbzVfVGZpZ250T3VhTzEzdHFwRGJzVzdmVmQyLUpDblRQMzNXRjN6eHdFMjZsUF9DOEZyeDBuZ2pYNk5uR2VOU3FJT0w5UUZFSzFxcXJGLVRRWXlyX3F6TDZqa3hIeGhVbmNlWHpTMFVfWjNRM1JyUnUtMjdXQmdJdHZSVzRQRm0zcDdfU0h2V0NRUlFsRUNSV3RqdkgxSVVZYkVFUkF0dFRaTDBJNjBDRGZabEpmVFRCZTF3SFBqeGcwLXlSWDF3UVVVeU9zOE9TT1hEMU1ZdDBkeFRQc1U2Qmk0X2xWcEF6M05ybzRGWFhOY1FHZEt6WQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "68cfd7b6e339",
       "title": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道 - Yahoo新聞",
       "published": "2026-04-24T01:09:58+00:00",
@@ -96,6 +72,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNaXJwS2hSR2xSRFhPdzRxc1FmblVBMVJxeVRSSTh2TmdYcU0tSXhlamcyOGFSYm0wTGRnT0s3SU1OMEwzRTZyZ3VUYUFPZ04xM2FxZlJTSFl4MDJ0bXVRNnhreEZKc3k2SnhiM3c1TFZ2MWZlNVdPaHhCUDZ2MUpLM1UxSXptOG5udGhRYWZBbXRiTkpDWDJ6eDdIT0JUcmdCTE1QekZzLTdPYTRCRmFLNm1Ec1NoUFpWazRHajdLUzA1ZnJnVzlmbUdBNFh2eDlsbExMZjI5VFVZMWtEdng2UWdoRm80bVlsU2gxN1psX1A1MlNFeXZvLUZBM1p2bEgyZkNvcFlHREQ2dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8ed139d003a5",
+      "title": "以為飲果汁好健康？醫生揭4大致癌飲料黑名單／日飲1杯胰臟癌風險狂飆87% - U Food",
+      "published": "2026-04-23T18:09:59+00:00",
+      "summary": "以為飲果汁好健康？醫生揭4大致癌飲料黑名單／日飲1杯胰臟癌風險狂飆87%&nbsp;&nbsp;U Food不是珍奶！這飲品「沒壞東西樣子」 喝10年癌細胞恐肆虐&nbsp;&nbsp;Yahoo新聞癌症為何越來越年輕？關鍵可能不只是基因&nbsp;&nbsp;TechNews 科技新報「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲討論牆 | 不是珍奶！這飲品「沒壞東西樣子」 喝10年癌細胞恐肆虐&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "U Food",
+          "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxPUEFIU054U1kxZEJJbjFocWZ5NDJwREtpVTRKU0h3T04tOGVyQnVMMy1DRHlIdzdlNmh6VFdUVzVPWmtaVkU2RWc4dGlFNk9SYkt6aVJmeFBOY3lvdVo2cW1VSXozcUlubHYtb01uYks0bkJsX09EZzVlU1F2M3o4WVV4cEFCNlVQRkJkeG43RTlWcmdqcFVwQUg1WVJUUHlVUTNSRFlBUVhyZUV1b3dabU5Wb21ienNuSktCRXBtNnlLMUNIdjY5aENCS2ZoTFM5UTJaaG5EdU5TMUgzcmNDV2MzRVVnRDhicVNtcURld0VvVWNtSU9vM0RETFRTZjdtYy1OaVRCNHA5aF9tU21Rb0NlaGc0SXVOUTZESDBSYjdJOXVaSkVvLXROVlUya3dvSHVLTUwzcnpYcXVOZEM3WEV4M3oxeWJkdGh5TV9XR3Exbkk2Z3FhcU5GZ2d2ZXBLQVZHMjFFOUlkYlFodnJpZnBzQ0JZUy1lVURfdGltVWx5ZW5JbGZYamdXUGdWMW5IX0EwYTNIdkFYcmlVenR4SFBQUWswckFyalNhS0s1UjhqT2g0Y21qWDlYT1B2cHNncnl4ZQ?oc=5"
         }
       ]
     },
@@ -144,18 +132,6 @@
         {
           "name": "優活健康網",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lZHVmT01JSWp2OENzWGpaX3ZMX0RGNEtINFFza25QX0hMOHNabnpDR1JtTnRpNVUwR2d0VVIzQW5WeG05Q1NWX3JBZlllWUJvOFZF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "81cbbac3d810",
-      "title": "50歲以下無菸族肺癌風險竟上升 美研究曝：愛吃生菜沙拉者風險較高 | 新頭殼 - LINE TODAY",
-      "published": "2026-04-22T12:25:29+00:00",
-      "summary": "50歲以下無菸族肺癌風險竟上升 美研究曝：愛吃生菜沙拉者風險較高 | 新頭殼&nbsp;&nbsp;LINE TODAY不吸菸年輕人肺癌增！ 研究：高蔬果攝取者確診率偏高但原因未明&nbsp;&nbsp;自由健康網多吃菜竟生病？不吸菸年輕人肺癌患者增！研究：高蔬果攝取確診率偏高&nbsp;&nbsp;祝你健康健康飲食竟與年輕肺癌相關？最新研究引發學界震撼&nbsp;&nbsp;Taiwan News一項荒謬的研究顯示吃水果和蔬菜會導致癌症&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DNXZVZkFpcjdkbElCTkFXQXJwQzhYWlNQOUVUcU00eUx0WlRTLVVFMTVwMF9feWl6eG9qOUhrOHVUN0NraXluelFjaE9PV3lXZi1jVW53?oc=5"
         }
       ]
     },
@@ -244,14 +220,14 @@
       ]
     },
     {
-      "id": "bf67038e0ac2",
-      "title": "愛吃辣可能更長壽！研究揭死亡風險更低 辣椒素還有許多益處 - 科技島",
+      "id": "fd95ac44fd5a",
+      "title": "愛吃辣可能更長壽！研究揭死亡風險更低 辣椒素還有許多益處 - PChome Online 新聞",
       "published": "2026-04-24T09:12:21+00:00",
-      "summary": "愛吃辣可能更長壽！研究揭死亡風險更低 辣椒素還有許多益處&nbsp;&nbsp;科技島",
+      "summary": "愛吃辣可能更長壽！研究揭死亡風險更低 辣椒素還有許多益處&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlWnN4bGlVbEdMcmhJRzRJU1c5ZXNuLU5EODBfUFJqUm8tczY3OVZkakhxWVhucDdSdmJaenBlRXdqZTNORXZZNy1ValNHWW9XbWQ0WXE5WEZTMkZfUHdz?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGVPbGlOTXR2aHZkaWNFam16M1VYak5tbHZTS0VfY2pMSU9QaVl3TnlVbkRNX1UySmJuWFVSOGhUeExPb0F0Y1RZVW1ZVG9kbHFXblB0amh6V3B0Y1FlQXhrRUkzNzdhMHloTFdaTGZsTzBQR0x4MFd4aDJtb1EyM25nZVIwTlhfbmlWUg?oc=5"
         }
       ]
     },
@@ -312,18 +288,6 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPV19PY0NZel9NQlZXODFnR1cwcUpicTh4SjU3LVRTbG5ibEN6djNTVloxUDlDRXFSeXhsU3dMaFhXaGVnZGdobGhHRHRQcE1VWk5BRTJHVmwtbmVKVS1hZzNxMXA0a3hsQTQ2Njd1eWt1WW1jaEFDR0lUN0tEX21CcG1OSkpUUDBYcDRmcFJZRjFFVUJkY2pfeFhQclRLUUhtZUI0OXpDdHc4RzNuTmZEaGY4OTM4YUFoVFg4NnZMcVlabEtkUFpZQXIxY3RDSlpUSDJNVDcyUERFQTZwWkk4NFMtWnY0emNIeDhob3VpdDVucTJaWWthSUU2bWNieXRJR1g5V0FwS3dxOHRmUkMwa2NpeThLWFNXcDVqRHRDVzl3eTliV19vei1LQkU0M09COVl6Ums0R2JmTVkzckY3ZjlsNUdVWVRmdW5qdnVER0pFRmwwV25STkZZUWItdXZVdGt0aVhybzg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "601ad91ae768",
-      "title": "防曬｜28歲女為美白狂搽防曬慘患「軟骨病」連咬嘢都無力！醫生警告：避陽光過龍隨時出事附消委會6款滿分防曬推介 - UHK 港生活",
-      "published": "2026-04-22T11:10:39+00:00",
-      "summary": "防曬｜28歲女為美白狂搽防曬慘患「軟骨病」連咬嘢都無力！醫生警告：避陽光過龍隨時出事附消委會6款滿分防曬推介&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMikwVBVV95cUxNTWFyQzZDNW9ocF9zbUFKZjZnVE9hUklwenBRTmZiNFk4YzZqSXdwOHdkeEl2X3IzaUs0am9CSERmNlFzV085TEloYmIyY2FqMmZRQUgtWFVybFQ4cDY5YlgzRjVoS3E5RE5fZnlhOGNxWDJHbEE5X2QtLVF6dVp3eEE0WWJzaUItRTBndENTUjZieXhTTzNfZndzMTQ4OHN5X09Va1oxWTkwZEN0S2tCRm5xbzFHVHlFOEV2UFJuQU1zVTNuLTJRcGp0NXMzUlFXOFZBcS1DMW9RZU1lSElqazQ3cXZobHpmdEZlS2NYWElhU1hsSlJpN21ONDVPajNXZVJmNjZOenhYdXBLUWs4MGlETW0tOFNlSVFxenpZbUZCNUZLOTJNQ2FDLWktUldLOHc0MlJscV9iUk9TenhWbFVhb1hwRXNXNFl6aFUzNG9MaER5U0VpYmtyOG1KOFlmZ2plWDJlUjAzMDNvSE1ELU9WYXVUUEdjS3ZuRjVtRGVqYmcwd1RiYTEySy12ZDlFRGc2UUVxaFJHX0d0OWh3TGx5SjBqeTc0ZmlmME9QSUdRakxaRFhmSzdaNDRMVlUyY3dKN3pzbzBLUVVZLU1pYmZxN1J0Rm1JOWhJYTExbnZMWFc2bHdQQTZPWlQ2amtITXdZRndJbUl2YmxQRTN4NkpnaWlFWFR0REctWE50ZExiYkxHcmZKT0FaU2VvcDhQNDdrRWJ6YTU1ZUNobWFLWHh4OXdsOTduZ3dXT3pVLWt3X0NVYWpVNUZhbGhlcXljbkV2eDlHSGkxd2ltOVc5M2tlRWdJX3FfVi1JOGNaMy1uQTFycllSSHZoNkFHa2VKVG5BNFNjanlYRVZkcEdkWTVJaw?oc=5"
         }
       ]
     },

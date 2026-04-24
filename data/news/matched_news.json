@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-24T11:58:46.629578+00:00",
-  "total_count": 29,
-  "matched_count": 8,
+  "last_updated": "2026-04-24T13:26:29.266297+00:00",
+  "total_count": 26,
+  "matched_count": 7,
   "news": [
     {
       "id": "16527e82da43",
@@ -30,14 +30,14 @@
       "matched_keywords": []
     },
     {
-      "id": "bf67038e0ac2",
-      "title": "愛吃辣可能更長壽！研究揭死亡風險更低 辣椒素還有許多益處",
+      "id": "fd95ac44fd5a",
+      "title": "愛吃辣可能更長壽！研究揭死亡風險更低 辣椒素還有許多益處 - PChome Online 新聞",
       "published": "2026-04-24T09:12:21+00:00",
-      "summary": "愛吃辣可能更長壽！研究揭死亡風險更低 辣椒素還有許多益處&nbsp;&nbsp;科技島",
+      "summary": "愛吃辣可能更長壽！研究揭死亡風險更低 辣椒素還有許多益處&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlWnN4bGlVbEdMcmhJRzRJU1c5ZXNuLU5EODBfUFJqUm8tczY3OVZkakhxWVhucDdSdmJaenBlRXdqZTNORXZZNy1ValNHWW9XbWQ0WXE5WEZTMkZfUHdz?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGVPbGlOTXR2aHZkaWNFam16M1VYak5tbHZTS0VfY2pMSU9QaVl3TnlVbkRNX1UySmJuWFVSOGhUeExPb0F0Y1RZVW1ZVG9kbHFXblB0amh6V3B0Y1FlQXhrRUkzNzdhMHloTFdaTGZsTzBQR0x4MFd4aDJtb1EyM25nZVIwTlhfbmlWUg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -177,19 +177,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "879258b9a4d7",
-      "title": "中醫治媽媽手不只按痛點",
-      "published": "2026-04-24T00:40:07+00:00",
-      "summary": "中醫治媽媽手不只按痛點&nbsp;&nbsp;更生新聞網",
-      "sources": [
-        {
-          "name": "更生新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vNWVHLWFQdzY4UWU4TFlvWWtaNUFzY1d4NEhEU2w5RkZ2Zkt5M0dPczVyVy12RUdiRGdWX0RqVGVoekx6MGVDNw?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "8ed139d003a5",
@@ -827,247 +814,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "81cbbac3d810",
-      "title": "50歲以下無菸族肺癌風險竟上升 美研究曝：愛吃生菜沙拉者風險較高 | 新頭殼 - LINE TODAY",
-      "published": "2026-04-22T12:25:29+00:00",
-      "summary": "50歲以下無菸族肺癌風險竟上升 美研究曝：愛吃生菜沙拉者風險較高 | 新頭殼&nbsp;&nbsp;LINE TODAY不吸菸年輕人肺癌增！ 研究：高蔬果攝取者確診率偏高但原因未明&nbsp;&nbsp;自由健康網多吃菜竟生病？不吸菸年輕人肺癌患者增！研究：高蔬果攝取確診率偏高&nbsp;&nbsp;祝你健康健康飲食竟與年輕肺癌相關？最新研究引發學界震撼&nbsp;&nbsp;Taiwan News一項荒謬的研究顯示吃水果和蔬菜會導致癌症&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DNXZVZkFpcjdkbElCTkFXQXJwQzhYWlNQOUVUcU00eUx0WlRTLVVFMTVwMF9feWl6eG9qOUhrOHVUN0NraXluelFjaE9PV3lXZi1jVW53?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "601ad91ae768",
-      "title": "防曬｜28歲女為美白狂搽防曬慘患「軟骨病」連咬嘢都無力！醫生警告：避陽光過龍隨時出事附消委會6款滿分防曬推介 - UHK 港生活",
-      "published": "2026-04-22T11:10:39+00:00",
-      "summary": "防曬｜28歲女為美白狂搽防曬慘患「軟骨病」連咬嘢都無力！醫生警告：避陽光過龍隨時出事附消委會6款滿分防曬推介&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMikwVBVV95cUxNTWFyQzZDNW9ocF9zbUFKZjZnVE9hUklwenBRTmZiNFk4YzZqSXdwOHdkeEl2X3IzaUs0am9CSERmNlFzV085TEloYmIyY2FqMmZRQUgtWFVybFQ4cDY5YlgzRjVoS3E5RE5fZnlhOGNxWDJHbEE5X2QtLVF6dVp3eEE0WWJzaUItRTBndENTUjZieXhTTzNfZndzMTQ4OHN5X09Va1oxWTkwZEN0S2tCRm5xbzFHVHlFOEV2UFJuQU1zVTNuLTJRcGp0NXMzUlFXOFZBcS1DMW9RZU1lSElqazQ3cXZobHpmdEZlS2NYWElhU1hsSlJpN21ONDVPajNXZVJmNjZOenhYdXBLUWs4MGlETW0tOFNlSVFxenpZbUZCNUZLOTJNQ2FDLWktUldLOHc0MlJscV9iUk9TenhWbFVhb1hwRXNXNFl6aFUzNG9MaER5U0VpYmtyOG1KOFlmZ2plWDJlUjAzMDNvSE1ELU9WYXVUUEdjS3ZuRjVtRGVqYmcwd1RiYTEySy12ZDlFRGc2UUVxaFJHX0d0OWh3TGx5SjBqeTc0ZmlmME9QSUdRakxaRFhmSzdaNDRMVlUyY3dKN3pzbzBLUVVZLU1pYmZxN1J0Rm1JOWhJYTExbnZMWFc2bHdQQTZPWlQ2amtITXdZRndJbUl2YmxQRTN4NkpnaWlFWFR0REctWE50ZExiYkxHcmZKT0FaU2VvcDhQNDdrRWJ6YTU1ZUNobWFLWHh4OXdsOTduZ3dXT3pVLWt3X0NVYWpVNUZhbGhlcXljbkV2eDlHSGkxd2ltOVc5M2tlRWdJX3FfVi1JOGNaMy1uQTFycllSSHZoNkFHa2VKVG5BNFNjanlYRVZkcEdkWTVJaw?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "b90b40f8055e",
