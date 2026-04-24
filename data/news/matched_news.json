@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T23:37:13.385762+00:00",
+  "last_updated": "2026-04-24T01:51:57.387319+00:00",
   "total_count": 32,
   "matched_count": 5,
   "news": [
@@ -195,13 +195,13 @@
       "matched_keywords": []
     },
     {
-      "id": "0810975e0f71",
+      "id": "55d278b34dc5",
       "title": "每個月牙齦都出血？你可能不知道這跟荷爾蒙有關",
       "published": "2026-04-23T04:30:00+00:00",
-      "summary": "每個月牙齦都出血？你可能不知道這跟荷爾蒙有關&nbsp;&nbsp;AM730",
+      "summary": "每個月牙齦都出血？你可能不知道這跟荷爾蒙有關&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPV19PY0NZel9NQlZXODFnR1cwcUpicTh4SjU3LVRTbG5ibEN6djNTVloxUDlDRXFSeXhsU3dMaFhXaGVnZGdobGhHRHRQcE1VWk5BRTJHVmwtbmVKVS1hZzNxMXA0a3hsQTQ2Njd1eWt1WW1jaEFDR0lUN0tEX21CcG1OSkpUUDBYcDRmcFJZRjFFVUJkY2pfeFhQclRLUUhtZUI0OXpDdHc4RzNuTmZEaGY4OTM4YUFoVFg4NnZMcVlabEtkUFpZQXIxY3RDSlpUSDJNVDcyUERFQTZwWkk4NFMtWnY0emNIeDhob3VpdDVucTJaWWthSUU2bWNieXRJR1g5V0FwS3dxOHRmUkMwa2NpeThLWFNXcDVqRHRDVzl3eTliV19vei1LQkU0M09COVl6Ums0R2JmTVkzckY3ZjlsNUdVWVRmdW5qdnVER0pFRmwwV25STkZZUWItdXZVdGt0aVhybzg?oc=5"
         }
       ],
@@ -455,6 +455,35 @@
       "matched_keywords": []
     },
     {
+      "id": "f6e0930981ed",
+      "title": "柏臻慈善信託啟動 2026 年度「生命無 Plan B，關注 B 細胞淋巴癌」宣傳活動",
+      "published": "2026-04-22T15:24:00+00:00",
+      "summary": "柏臻慈善信託啟動 2026 年度「生命無 Plan B，關注 B 細胞淋巴癌」宣傳活動&nbsp;&nbsp;香港財經時報HKBT",
+      "sources": [
+        {
+          "name": "香港財經時報HKBT",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNLWNfRTBPem1hdkl0WmxvM09UanZNOFZfdE1ZeUZydGdacWVqbVJZVEpfLUItRnZDcTZ6QWJTQnQ0bjQxNXNrRml5TWhtdXIxRkFhWkhKUVpzcVY1bDNQMk5BZ2dHVTlaX3pDaU42bE9PXzhIMEJQbFd0NmJIVDFjdGR5UV91R0JrUjVmYWpXMV95Ym1BNXI2emVMMFRUU1E0MWhISDRObThfWWV1SzVkZlJCaVVqbW9Yd0V1Mnc0QTNpS3o1ckdtakszRDhudFU2cnVLMC1YQkJRVnJhY2dseXh6cGxkaFN6cTdRV2I5WGwxS0RPUzdCX3J3eVhmM0Z6RnZabXpfeFZIT0JGeVExX2xlMXdPVUEyRWxGeEt2cnpVOGZjVHdUdE1aRmlrd1h3dk5pTzZoNnVWdTAwWnl0YkttRVhRaHg3VHMzVnpmdWIyVndXWGtXRjRtdlFGMDB6?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "primary cutaneous B-cell lymphoma",
+          "keyword": "淋巴癌",
+          "related_drugs": [
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "cf0bada65d30",
       "title": "大陸「五一連假」將近陸疾控局：流感病毒活躍度上升| 大陸傳真| 兩岸",
       "published": "2026-04-22T12:03:46+00:00",
@@ -515,6 +544,19 @@
         {
           "name": "品觀點",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DUXRuZktyaFhKMThsSGxrUGtKSHJfOE1XV3Q2aGg5aUUxUXJPeTEzYW4zTkQ3QW8xUmNYX2lUMWtfaUYxN3BLRS1ZNWVPTTQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "cf97cfb7e57b",
+      "title": "今年首宗本地登革熱 歐家榮：傳播風險屬中等水平 - 大紀元時報 香港",
+      "published": "2026-04-22T08:22:43+00:00",
+      "summary": "今年首宗本地登革熱 歐家榮：傳播風險屬中等水平&nbsp;&nbsp;大紀元時報 香港辛正兒 - 本地登革熱再現 全民防蚊不鬆懈 | 社論&nbsp;&nbsp;星島頭條今年首宗本地登革熱個案 歐家榮：爆發風險不能忽視&nbsp;&nbsp;紫荊網登革熱病徵、潛伏期是什麼？白紋伊蚊叮怎麼辦？一文看清預防方法&nbsp;&nbsp;香港01本港爆首宗本地登革熱！警告呢1類人要特別小心恐致命 附8大病徵及防蚊法&nbsp;&nbsp;UHK 港生活",
+      "sources": [
+        {
+          "name": "大紀元時報 香港",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBENXJXckdXUFlBOXljN3lraWo4MFVwMTRhZFlsYUxBX29DQTNPblJ6RmVoTTVUY1ljTXczeG5JVDEwcm5zMGNBZkozenFNV3RDNlBvb1dnX29MOHlwQ0F3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -826,59 +868,17 @@
       ]
     },
     {
-      "id": "e8f08efef0fd",
-      "title": "衞生防護中心稱登革熱本地傳播風險屬中等 會加強蚊患監測工作",
-      "published": "2026-04-22T03:32:24+00:00",
-      "summary": "衞生防護中心稱登革熱本地傳播風險屬中等 會加強蚊患監測工作&nbsp;&nbsp;巴士的報辛正兒 - 本地登革熱再現 全民防蚊不鬆懈 | 社論&nbsp;&nbsp;星島頭條今年首宗本地登革熱個案 歐家榮：爆發風險不能忽視&nbsp;&nbsp;紫荊網登革熱病徵、潛伏期是什麼？白紋伊蚊叮怎麼辦？一文看清預防方法&nbsp;&nbsp;香港01本港爆首宗本地登革熱！警告呢1類人要特別小心恐致命 附8大病徵及防蚊法&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxORm5aLTVUZmtxckNhVDU2ckpMaEREVURxZ3FLZDBKYnhDY2NKclNJblFnRzNxc1RJbWFPOElDM1Q3cHJRbmJGU2g2U0dPMmM4UTVKUDRIZUowZms1bnpyMVF0REoyNlFxdTFmaHlYdEczdlRVRWZXenNtbHBHOXpzZXZ1QmF1R0M1NXRzT2xyMV9Uem05RmNCYTduVnVWOGkzX1FfNWVzR2tZc2xoRzVvQXdndW4wVEtZZ3AzRmhNMHJ3OXcxX3lkaldmSV93Z2hUU0F3MFRsbXF1TEZHUjNQMWFrRFpkMVdnWVB0cXZtOGVjaXVuV09LaXJlalVPOEY3VmlnNVJqQ0JtdmJnUVVyVmlYaW1uMFhEN040a2RNa284bUNIVkxBR2JGVm1SZVAwVVhtZG10WWg2SUoyVVgzOGU3bk9fY2R6UUJUdkhTYmpfZFYxcko1NG1jWW1HVVpzT0JoQUdjVGZWcDNicFE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f8bf31e2e2f6",
+      "id": "361de305db3a",
       "title": "長期滑手機損健康 滑出媽媽手 隨時痛到筷子都拎唔穩",
       "published": "2026-04-22T03:30:00+00:00",
-      "summary": "長期滑手機損健康 滑出媽媽手 隨時痛到筷子都拎唔穩&nbsp;&nbsp;AM730",
+      "summary": "長期滑手機損健康 滑出媽媽手 隨時痛到筷子都拎唔穩&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOUzBrT1F5REoxcEhPLThxUGRBZVM4MVgyRm5JMGNEMEpfRkkyYkJIaGV6dW43VFExZjZ5V3VpNENWQ0dpeFZObnh1Q0lqWnJLQU9XQmtHeUZLSDNhVVA5Y1JWWW56eGdRNjZLWW5LVW9kYXFEeGQ4NHhscnNOWFBBT0kzYUMtQ2F6TVc2TldLMGtJTy11MEpZZnZxZ1EzQzREN1VHbHNXdkp5YkMtcTJ5WkxTUFFZZ1pHZFVsa3d0cG5CRGt5Tlp5LXl3ZHN0WE1uejJVc1BENWppMlByU3o3aXlRZlZBbkR0d1NSVzFlUEVteTlxbW1BOG9uWDc2anZqV2ZkTGt3RUppRnpPQWsxVnFjMW5yRldVWmpVbnRUSDdTaFdaNkJxTW5HcHlFa2hjS29ES0JWWEdDeGhuemJpa0JFYklaaDNWb2dYbS1DaFBZbG9oY21jVUZNR0RzU3FLMjRGUVBNcWpkOFViN0RfLTBaTTkwMDYz?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "d9e67d44db26",
-      "title": "柏臻慈善信託啟動 2026 年度「生命無 Plan B，關注 B 細胞淋巴癌」宣傳活動 - Taiwan News",
-      "published": "2026-04-22T01:30:00+00:00",
-      "summary": "柏臻慈善信託啟動 2026 年度「生命無 Plan B，關注 B 細胞淋巴癌」宣傳活動&nbsp;&nbsp;Taiwan News",
-      "sources": [
-        {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MOG1YQnpzdVJDaURLNFdXd3JaTGlRX0I1T2hQdDFIZ3NvaDVSZDNHVF9UTGJqNnhZcWtYOUlLYVF4NmdLaXlqLXZxZzgtMXY5NVZJZ0dhRV8?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "primary cutaneous B-cell lymphoma",
-          "keyword": "淋巴癌",
-          "related_drugs": [
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "b90b40f8055e",

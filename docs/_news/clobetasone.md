@@ -52,19 +52,19 @@ permalink: /news/clobetasone/
 
 ---
 
+### [柏臻慈善信託啟動 2026 年度「生命無 Plan B，關注 B 細胞淋巴癌」宣傳活動](https://news.google.com/rss/articles/CBMi4AJBVV95cUxNLWNfRTBPem1hdkl0WmxvM09UanZNOFZfdE1ZeUZydGdacWVqbVJZVEpfLUItRnZDcTZ6QWJTQnQ0bjQxNXNrRml5TWhtdXIxRkFhWkhKUVpzcVY1bDNQMk5BZ2dHVTlaX3pDaU42bE9PXzhIMEJQbFd0NmJIVDFjdGR5UV91R0JrUjVmYWpXMV95Ym1BNXI2emVMMFRUU1E0MWhISDRObThfWWV1SzVkZlJCaVVqbW9Yd0V1Mnc0QTNpS3o1ckdtakszRDhudFU2cnVLMC1YQkJRVnJhY2dseXh6cGxkaFN6cTdRV2I5WGwxS0RPUzdCX3J3eVhmM0Z6RnZabXpfeFZIT0JGeVExX2xlMXdPVUEyRWxGeEt2cnpVOGZjVHdUdE1aRmlrd1h3dk5pTzZoNnVWdTAwWnl0YkttRVhRaHg3VHMzVnpmdWIyVndXWGtXRjRtdlFGMDB6?oc=5)
+
+2026-04-22 <span class="news-indication-tag">淋巴癌</span>
+
+來源：[香港財經時報HKBT](https://news.google.com/rss/articles/CBMi4AJBVV95cUxNLWNfRTBPem1hdkl0WmxvM09UanZNOFZfdE1ZeUZydGdacWVqbVJZVEpfLUItRnZDcTZ6QWJTQnQ0bjQxNXNrRml5TWhtdXIxRkFhWkhKUVpzcVY1bDNQMk5BZ2dHVTlaX3pDaU42bE9PXzhIMEJQbFd0NmJIVDFjdGR5UV91R0JrUjVmYWpXMV95Ym1BNXI2emVMMFRUU1E0MWhISDRObThfWWV1SzVkZlJCaVVqbW9Yd0V1Mnc0QTNpS3o1ckdtakszRDhudFU2cnVLMC1YQkJRVnJhY2dseXh6cGxkaFN6cTdRV2I5WGwxS0RPUzdCX3J3eVhmM0Z6RnZabXpfeFZIT0JGeVExX2xlMXdPVUEyRWxGeEt2cnpVOGZjVHdUdE1aRmlrd1h3dk5pTzZoNnVWdTAwWnl0YkttRVhRaHg3VHMzVnpmdWIyVndXWGtXRjRtdlFGMDB6?oc=5)
+
+---
+
 ### [南加州大學研究：健康飲食反增肺癌風險，農藥殘留成疑兇](https://news.google.com/rss/articles/CBMixAFBVV95cUxPc0NTN08zRW4tdjlhLUNhclVpbGpDcG16Njk0ZWhGSk84MTNTUU11alpoMkpMTnlYdXRnbEZBRmFuUXd4MFZzamNZMFMyZGE1eFRGMWd1eWFLNDVrcjBlUDZ2cE1raFRFX1NRVkRoZ2trbHRYZnVIbEViV0Q2TG9rbVVSb2QweXNQSUxONTlGWTl6Zkt6d1hEcC1HekxNMXhtTEhMeFJLNWhNdWVfRXRncXpqNXBZRUJPQkkwTi1IMzY2bS1C?oc=5)
 
 2026-04-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
 
 來源：[Singtaousa](https://news.google.com/rss/articles/CBMixAFBVV95cUxPc0NTN08zRW4tdjlhLUNhclVpbGpDcG16Njk0ZWhGSk84MTNTUU11alpoMkpMTnlYdXRnbEZBRmFuUXd4MFZzamNZMFMyZGE1eFRGMWd1eWFLNDVrcjBlUDZ2cE1raFRFX1NRVkRoZ2trbHRYZnVIbEViV0Q2TG9rbVVSb2QweXNQSUxONTlGWTl6Zkt6d1hEcC1HekxNMXhtTEhMeFJLNWhNdWVfRXRncXpqNXBZRUJPQkkwTi1IMzY2bS1C?oc=5)
-
----
-
-### [柏臻慈善信託啟動 2026 年度「生命無 Plan B，關注 B 細胞淋巴癌」宣傳活動 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MOG1YQnpzdVJDaURLNFdXd3JaTGlRX0I1T2hQdDFIZ3NvaDVSZDNHVF9UTGJqNnhZcWtYOUlLYVF4NmdLaXlqLXZxZzgtMXY5NVZJZ0dhRV8?oc=5)
-
-2026-04-22 <span class="news-indication-tag">淋巴癌</span>
-
-來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MOG1YQnpzdVJDaURLNFdXd3JaTGlRX0I1T2hQdDFIZ3NvaDVSZDNHVF9UTGJqNnhZcWtYOUlLYVF4NmdLaXlqLXZxZzgtMXY5NVZJZ0dhRV8?oc=5)
 
 ---
 

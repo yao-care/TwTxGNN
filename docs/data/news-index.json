@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-23T23:37:13.410917+00:00",
+  "generated": "2026-04-24T01:51:57.407394+00:00",
   "count": 5,
   "news": [
     {
@@ -282,6 +282,34 @@
       ]
     },
     {
+      "id": "f6e0930981ed",
+      "title": "柏臻慈善信託啟動 2026 年度「生命無 Plan B，關注 B 細胞淋巴癌」宣傳活動",
+      "published": "2026-04-22T15:24:00+00:00",
+      "sources": [
+        {
+          "name": "香港財經時報HKBT",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNLWNfRTBPem1hdkl0WmxvM09UanZNOFZfdE1ZeUZydGdacWVqbVJZVEpfLUItRnZDcTZ6QWJTQnQ0bjQxNXNrRml5TWhtdXIxRkFhWkhKUVpzcVY1bDNQMk5BZ2dHVTlaX3pDaU42bE9PXzhIMEJQbFd0NmJIVDFjdGR5UV91R0JrUjVmYWpXMV95Ym1BNXI2emVMMFRUU1E0MWhISDRObThfWWV1SzVkZlJCaVVqbW9Yd0V1Mnc0QTNpS3o1ckdtakszRDhudFU2cnVLMC1YQkJRVnJhY2dseXh6cGxkaFN6cTdRV2I5WGwxS0RPUzdCX3J3eVhmM0Z6RnZabXpfeFZIT0JGeVExX2xlMXdPVUEyRWxGeEt2cnpVOGZjVHdUdE1aRmlrd1h3dk5pTzZoNnVWdTAwWnl0YkttRVhRaHg3VHMzVnpmdWIyVndXWGtXRjRtdlFGMDB6?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "primary cutaneous B-cell lymphoma",
+          "keyword": "淋巴癌",
+          "related_drugs": [
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "0e9c37812cc7",
       "title": "南加州大學研究：健康飲食反增肺癌風險，農藥殘留成疑兇",
       "published": "2026-04-22T04:04:36+00:00",
@@ -503,34 +531,6 @@
             {
               "slug": "vinorelbine",
               "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d9e67d44db26",
-      "title": "柏臻慈善信託啟動 2026 年度「生命無 Plan B，關注 B 細胞淋巴癌」宣傳活動 - Taiwan News",
-      "published": "2026-04-22T01:30:00+00:00",
-      "sources": [
-        {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MOG1YQnpzdVJDaURLNFdXd3JaTGlRX0I1T2hQdDFIZ3NvaDVSZDNHVF9UTGJqNnhZcWtYOUlLYVF4NmdLaXlqLXZxZzgtMXY5NVZJZ0dhRV8?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "primary cutaneous B-cell lymphoma",
-          "keyword": "淋巴癌",
-          "related_drugs": [
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
             }
           ]
         }
