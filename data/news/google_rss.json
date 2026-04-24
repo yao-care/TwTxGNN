@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-24T18:38:19.239516+00:00",
+  "fetched_at": "2026-04-24T19:44:43.911890+00:00",
   "count": 25,
   "news": [
     {
@@ -12,18 +12,6 @@
         {
           "name": "中天新聞網",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IM0dGRjBnZ2s1Sld4UzNvRk5BMFhhZ0Ixc0l0Y185ak5pdWlaUzV0bFVuaUJGNEprTEFtNWxaTE81S1hMLVJacmx6b3M0Snd2dkVz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4a26a56a2f11",
-      "title": "這些 80 歲的老人擁有 50 歲的記憶，科學家現在知道原因 - arch-web.com.tw",
-      "published": "2026-04-23T14:11:14+00:00",
-      "summary": "這些 80 歲的老人擁有 50 歲的記憶，科學家現在知道原因&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxORmtJeGR3OWpEaVd5OXZadlN6eGZ3SzVBbENmX0tyUlRXMWkycmcwS2N3cUZGOFJabmJqNlJnZHBTMGRKa29KRGZ1bnVFNVpuSmp6UWR5Nk10SURFNnRZWE5oc210MGphTVJKS09qZUprR1ZQWkptSldTZUU2enQ5d3JkdTVvVE5OSU5jbDV0ZjVQTlZNdlNCbmM0VFAzX0szc1FVTmVXVlFROC1sWVdYYmxUNkdfUVl3ZzBTTWNVSE5pVkhiR3ZuTEFwSmpRc1dYUWJWb2hYTWFvMnEtU0FFZ0RudTRuWnpianpIMDFmbzU2eV9udlpPcnBwSmFyRlBqTm40NDVSc3c5UmNsQTVrY3V4dkwxSDRNSkdZN3RNcDVYdmlXVExrbC1NZ1k4dmFaUTU5ODF0SUZ4VmRTdWxVaTRzd3QxbVlkcXVJei1IaEdNbmpTUHpNMWxBYVBRLXpQcy1mdkdHUE16c3NINWVEWGJ3NjNuekhOTWtKYTd2bmdJRVVz?oc=5"
         }
       ]
     },
@@ -64,18 +52,6 @@
       ]
     },
     {
-      "id": "5057c9424a00",
-      "title": "COVID-19 新研究：Paxlovid 助康復但難降重症率 - 行銷人",
-      "published": "2026-04-24T07:07:00+00:00",
-      "summary": "COVID-19 新研究：Paxlovid 助康復但難降重症率&nbsp;&nbsp;行銷人",
-      "sources": [
-        {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQR1lyRzVUTnBLUmFGTEZSWjVJdVFzUlZVWUZPbzVfVGZpZ250T3VhTzEzdHFwRGJzVzdmVmQyLUpDblRQMzNXRjN6eHdFMjZsUF9DOEZyeDBuZ2pYNk5uR2VOU3FJT0w5UUZFSzFxcXJGLVRRWXlyX3F6TDZqa3hIeGhVbmNlWHpTMFVfWjNRM1JyUnUtMjdXQmdJdHZSVzRQRm0zcDdfU0h2V0NRUlFsRUNSV3RqdkgxSVVZYkVFUkF0dFRaTDBJNjBDRGZabEpmVFRCZTF3SFBqeGcwLXlSWDF3UVVVeU9zOE9TT1hEMU1ZdDBkeFRQc1U2Qmk0X2xWcEF6M05ybzRGWFhOY1FHZEt6WQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8ed139d003a5",
       "title": "以為飲果汁好健康？醫生揭4大致癌飲料黑名單／日飲1杯胰臟癌風險狂飆87% - U Food",
       "published": "2026-04-23T18:09:59+00:00",
@@ -84,6 +60,18 @@
         {
           "name": "U Food",
           "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxPUEFIU054U1kxZEJJbjFocWZ5NDJwREtpVTRKU0h3T04tOGVyQnVMMy1DRHlIdzdlNmh6VFdUVzVPWmtaVkU2RWc4dGlFNk9SYkt6aVJmeFBOY3lvdVo2cW1VSXozcUlubHYtb01uYks0bkJsX09EZzVlU1F2M3o4WVV4cEFCNlVQRkJkeG43RTlWcmdqcFVwQUg1WVJUUHlVUTNSRFlBUVhyZUV1b3dabU5Wb21ienNuSktCRXBtNnlLMUNIdjY5aENCS2ZoTFM5UTJaaG5EdU5TMUgzcmNDV2MzRVVnRDhicVNtcURld0VvVWNtSU9vM0RETFRTZjdtYy1OaVRCNHA5aF9tU21Rb0NlaGc0SXVOUTZESDBSYjdJOXVaSkVvLXROVlUya3dvSHVLTUwzcnpYcXVOZEM3WEV4M3oxeWJkdGh5TV9XR3Exbkk2Z3FhcU5GZ2d2ZXBLQVZHMjFFOUlkYlFodnJpZnBzQ0JZUy1lVURfdGltVWx5ZW5JbGZYamdXUGdWMW5IX0EwYTNIdkFYcmlVenR4SFBQUWswckFyalNhS0s1UjhqT2g0Y21qWDlYT1B2cHNncnl4ZQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5057c9424a00",
+      "title": "COVID-19 新研究：Paxlovid 助康復但難降重症率 - 行銷人",
+      "published": "2026-04-24T07:07:00+00:00",
+      "summary": "COVID-19 新研究：Paxlovid 助康復但難降重症率&nbsp;&nbsp;行銷人",
+      "sources": [
+        {
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQR1lyRzVUTnBLUmFGTEZSWjVJdVFzUlZVWUZPbzVfVGZpZ250T3VhTzEzdHFwRGJzVzdmVmQyLUpDblRQMzNXRjN6eHdFMjZsUF9DOEZyeDBuZ2pYNk5uR2VOU3FJT0w5UUZFSzFxcXJGLVRRWXlyX3F6TDZqa3hIeGhVbmNlWHpTMFVfWjNRM1JyUnUtMjdXQmdJdHZSVzRQRm0zcDdfU0h2V0NRUlFsRUNSV3RqdkgxSVVZYkVFUkF0dFRaTDBJNjBDRGZabEpmVFRCZTF3SFBqeGcwLXlSWDF3UVVVeU9zOE9TT1hEMU1ZdDBkeFRQc1U2Qmk0X2xWcEF6M05ybzRGWFhOY1FHZEt6WQ?oc=5"
         }
       ]
     },
@@ -100,14 +88,14 @@
       ]
     },
     {
-      "id": "fd95ac44fd5a",
-      "title": "愛吃辣可能更長壽！研究揭死亡風險更低 辣椒素還有許多益處 - PChome Online 新聞",
+      "id": "bf67038e0ac2",
+      "title": "愛吃辣可能更長壽！研究揭死亡風險更低 辣椒素還有許多益處 - 科技島",
       "published": "2026-04-24T09:12:21+00:00",
-      "summary": "愛吃辣可能更長壽！研究揭死亡風險更低 辣椒素還有許多益處&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "愛吃辣可能更長壽！研究揭死亡風險更低 辣椒素還有許多益處&nbsp;&nbsp;科技島",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGVPbGlOTXR2aHZkaWNFam16M1VYak5tbHZTS0VfY2pMSU9QaVl3TnlVbkRNX1UySmJuWFVSOGhUeExPb0F0Y1RZVW1ZVG9kbHFXblB0amh6V3B0Y1FlQXhrRUkzNzdhMHloTFdaTGZsTzBQR0x4MFd4aDJtb1EyM25nZVIwTlhfbmlWUg?oc=5"
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlWnN4bGlVbEdMcmhJRzRJU1c5ZXNuLU5EODBfUFJqUm8tczY3OVZkakhxWVhucDdSdmJaenBlRXdqZTNORXZZNy1ValNHWW9XbWQ0WXE5WEZTMkZfUHdz?oc=5"
         }
       ]
     },
@@ -120,6 +108,18 @@
         {
           "name": "on.cc東網",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1dBeGQwSVRZYWNIWHI2QVhnVmFQdlBXTWJySFRBVDQwMk1JWmxuU0xkMFdRMnlKa2NuVkxlYjNhS0dKTV9LZXRyY0d0QkRPU0g1NG1MaW1aRWFpV0ttXzNnVDVlZHdkMl9PbWZNZkI1ZVZQenJXQUN6U1otQWFNYm1oN290OXZKWEFF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4a26a56a2f11",
+      "title": "這些 80 歲的老人擁有 50 歲的記憶，科學家現在知道原因 - arch-web.com.tw",
+      "published": "2026-04-23T14:11:14+00:00",
+      "summary": "這些 80 歲的老人擁有 50 歲的記憶，科學家現在知道原因&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxORmtJeGR3OWpEaVd5OXZadlN6eGZ3SzVBbENmX0tyUlRXMWkycmcwS2N3cUZGOFJabmJqNlJnZHBTMGRKa29KRGZ1bnVFNVpuSmp6UWR5Nk10SURFNnRZWE5oc210MGphTVJKS09qZUprR1ZQWkptSldTZUU2enQ5d3JkdTVvVE5OSU5jbDV0ZjVQTlZNdlNCbmM0VFAzX0szc1FVTmVXVlFROC1sWVdYYmxUNkdfUVl3ZzBTTWNVSE5pVkhiR3ZuTEFwSmpRc1dYUWJWb2hYTWFvMnEtU0FFZ0RudTRuWnpianpIMDFmbzU2eV9udlpPcnBwSmFyRlBqTm40NDVSc3c5UmNsQTVrY3V4dkwxSDRNSkdZN3RNcDVYdmlXVExrbC1NZ1k4dmFaUTU5ODF0SUZ4VmRTdWxVaTRzd3QxbVlkcXVJei1IaEdNbmpTUHpNMWxBYVBRLXpQcy1mdkdHUE16c3NINWVEWGJ3NjNuekhOTWtKYTd2bmdJRVVz?oc=5"
         }
       ]
     },
