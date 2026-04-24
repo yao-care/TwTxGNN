@@ -44,11 +44,11 @@ permalink: /news/disopyramide/
 
 ## 相關新聞（2 則）
 
-### [喝錯飲品竟致癌？果汁、熱飲藏危機 醫：身體變癌細胞溫床](https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4bm9FbV9peXMxU1lOTnVMTThQZEdvMEgyYTdVVG04WEJSa0hHQjZ5MTNzeHY0TC1uUGN1YTVSNmNFVE81T1VTMDNEZkhEUQ?oc=5)
+### [癌症為何越來越年輕？關鍵可能不只是基因 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQcHU0aENEWlZLaWJIUTk5ZVZBUllOM0VmdXlfQmQwNEd6TlBvM2QyVkVLb0ZVWjFRaGlsMHllcGR5eDRIa0NMVHUxTGY2WTlzZFdiOWNn?oc=5)
 
 2026-04-23 <span class="news-indication-tag">癌症</span>
 
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4bm9FbV9peXMxU1lOTnVMTThQZEdvMEgyYTdVVG04WEJSa0hHQjZ5MTNzeHY0TC1uUGN1YTVSNmNFVE81T1VTMDNEZkhEUQ?oc=5)
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQcHU0aENEWlZLaWJIUTk5ZVZBUllOM0VmdXlfQmQwNEd6TlBvM2QyVkVLb0ZVWjFRaGlsMHllcGR5eDRIa0NMVHUxTGY2WTlzZFdiOWNn?oc=5)
 
 ---
 

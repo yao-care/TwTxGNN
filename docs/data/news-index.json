@@ -1,7 +1,31 @@
 {
-  "generated": "2026-04-24T01:51:57.407394+00:00",
-  "count": 5,
+  "generated": "2026-04-24T04:48:57.661483+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "9c40cca1d3b6",
+      "title": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道",
+      "published": "2026-04-24T01:00:43+00:00",
+      "sources": [
+        {
+          "name": "匯流新聞網",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNTkNDSEZUWXR6SjhrV0s2dE1pNi1NZUJQZlloem5CMFBMZ0FwT3U2X25SdWlLenVMNEtrdEJoYklTbWRzLU44b19KWFZwVlFnUVh6UzJVS3g0UHg1dzRkWFUwZTN3WUt0RWtGRFJKSFh3dXluRTVFa1ZqUFhvSVF3ZDBONXIxazJtd1hENUVpSGpFU3pEVER2RzlPaFVScU1YUTAxVjRSS21fZGdMcUhjR2QtcTE2cTBvUlVsUDZwZl9PYVhmTFI2TVBJWFNPVVFMRDRwcHQzR1I0NG1ULXJuUHpTRGFaRHB5eU02S2dHSnRxcmIzOFlGZzJSSVpQSFFlWTM3RzE0RklwSWw3WER0Y3J2RnFBUVhtZUl5QmJDOHJrd1lkb2ZwN3hVMlRfUFVQQkF0aGZxQWtDYWdLRk9JeVNEdlk?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "腦血管",
+          "keyword": "腦血管",
+          "related_drugs": [
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "8beaf5a7c78b",
       "title": "大腸癌風險新線索 科學家發現腸道菌藏神秘病毒",
@@ -50,37 +74,13 @@
       ]
     },
     {
-      "id": "59297613c926",
-      "title": "B群、維他命D｜營養師解析心血管與代謝健康關鍵，4大攝取建議 - etnet 經濟通",
-      "published": "2026-04-23T04:09:29+00:00",
+      "id": "566047775cf1",
+      "title": "癌症為何越來越年輕？關鍵可能不只是基因 | 科技新報 - LINE TODAY",
+      "published": "2026-04-23T07:53:38+00:00",
       "sources": [
         {
-          "name": "etnet 經濟通",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81RDZ2R0t0bllGbGN2R0JBWEU5TVc0ZVQwdHlta2twMWEwZjRtdEpHU0lUZkM0WTV6Y3o1emZ3MGw4ZGFnTWEzNUJQV3RZcmhSOGZGWmR2U0w?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2e57f818077b",
-      "title": "喝錯飲品竟致癌？果汁、熱飲藏危機 醫：身體變癌細胞溫床",
-      "published": "2026-04-23T02:08:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4bm9FbV9peXMxU1lOTnVMTThQZEdvMEgyYTdVVG04WEJSa0hHQjZ5MTNzeHY0TC1uUGN1YTVSNmNFVE81T1VTMDNEZkhEUQ?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQcHU0aENEWlZLaWJIUTk5ZVZBUllOM0VmdXlfQmQwNEd6TlBvM2QyVkVLb0ZVWjFRaGlsMHllcGR5eDRIa0NMVHUxTGY2WTlzZFdiOWNn?oc=5"
         }
       ],
       "keywords": [
@@ -276,6 +276,30 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "59297613c926",
+      "title": "B群、維他命D｜營養師解析心血管與代謝健康關鍵，4大攝取建議 - etnet 經濟通",
+      "published": "2026-04-23T04:09:29+00:00",
+      "sources": [
+        {
+          "name": "etnet 經濟通",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81RDZ2R0t0bllGbGN2R0JBWEU5TVc0ZVQwdHlta2twMWEwZjRtdEpHU0lUZkM0WTV6Y3o1emZ3MGw4ZGFnTWEzNUJQV3RZcmhSOGZGWmR2U0w?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
             }
           ]
         }
