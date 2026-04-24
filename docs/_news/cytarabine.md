@@ -50,11 +50,11 @@ permalink: /news/cytarabine/
 
 ---
 
-### [南加州大學研究：健康飲食反增肺癌風險，農藥殘留成疑兇](https://news.google.com/rss/articles/CBMixAFBVV95cUxPc0NTN08zRW4tdjlhLUNhclVpbGpDcG16Njk0ZWhGSk84MTNTUU11alpoMkpMTnlYdXRnbEZBRmFuUXd4MFZzamNZMFMyZGE1eFRGMWd1eWFLNDVrcjBlUDZ2cE1raFRFX1NRVkRoZ2trbHRYZnVIbEViV0Q2TG9rbVVSb2QweXNQSUxONTlGWTl6Zkt6d1hEcC1HekxNMXhtTEhMeFJLNWhNdWVfRXRncXpqNXBZRUJPQkkwTi1IMzY2bS1C?oc=5)
+### [50歲以下無菸族肺癌風險竟上升 美研究曝：愛吃生菜沙拉者風險較高 | 新頭殼 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DNXZVZkFpcjdkbElCTkFXQXJwQzhYWlNQOUVUcU00eUx0WlRTLVVFMTVwMF9feWl6eG9qOUhrOHVUN0NraXluelFjaE9PV3lXZi1jVW53?oc=5)
 
 2026-04-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
 
-來源：[Singtaousa](https://news.google.com/rss/articles/CBMixAFBVV95cUxPc0NTN08zRW4tdjlhLUNhclVpbGpDcG16Njk0ZWhGSk84MTNTUU11alpoMkpMTnlYdXRnbEZBRmFuUXd4MFZzamNZMFMyZGE1eFRGMWd1eWFLNDVrcjBlUDZ2cE1raFRFX1NRVkRoZ2trbHRYZnVIbEViV0Q2TG9rbVVSb2QweXNQSUxONTlGWTl6Zkt6d1hEcC1HekxNMXhtTEhMeFJLNWhNdWVfRXRncXpqNXBZRUJPQkkwTi1IMzY2bS1C?oc=5)
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DNXZVZkFpcjdkbElCTkFXQXJwQzhYWlNQOUVUcU00eUx0WlRTLVVFMTVwMF9feWl6eG9qOUhrOHVUN0NraXluelFjaE9PV3lXZi1jVW53?oc=5)
 
 ---
 
