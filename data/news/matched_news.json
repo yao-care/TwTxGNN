@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-24T21:40:06.588411+00:00",
+  "last_updated": "2026-04-24T22:33:07.003638+00:00",
   "total_count": 26,
   "matched_count": 6,
   "news": [
+    {
+      "id": "4c3e25bdc694",
+      "title": "挑戰認知拒絕萎縮，長者善用 AI 訓練腦力 - TechNews 科技新報",
+      "published": "2026-04-24T16:17:47+00:00",
+      "summary": "挑戰認知拒絕萎縮，長者善用 AI 訓練腦力&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tcXFkNTQxa2RlNld3YUYtWmt2cUpNTmd4eGtrVmxXNHF5Y3FybWJpZy1aa1RvSU1ELVNFVUZwSFBZanB4a1R3REN2X0pKcy1WdW9jbF9n?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "5621a46d1311",
       "title": "不只補維生素D！醫揭曬太陽3大好處 曬對時間助眠還能抗憂鬱 - TVBS 健康2.0",
@@ -190,19 +203,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "4a26a56a2f11",
-      "title": "這些 80 歲的老人擁有 50 歲的記憶，科學家現在知道原因",
-      "published": "2026-04-23T14:11:14+00:00",
-      "summary": "這些 80 歲的老人擁有 50 歲的記憶，科學家現在知道原因&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxORmtJeGR3OWpEaVd5OXZadlN6eGZ3SzVBbENmX0tyUlRXMWkycmcwS2N3cUZGOFJabmJqNlJnZHBTMGRKa29KRGZ1bnVFNVpuSmp6UWR5Nk10SURFNnRZWE5oc210MGphTVJKS09qZUprR1ZQWkptSldTZUU2enQ5d3JkdTVvVE5OSU5jbDV0ZjVQTlZNdlNCbmM0VFAzX0szc1FVTmVXVlFROC1sWVdYYmxUNkdfUVl3ZzBTTWNVSE5pVkhiR3ZuTEFwSmpRc1dYUWJWb2hYTWFvMnEtU0FFZ0RudTRuWnpianpIMDFmbzU2eV9udlpPcnBwSmFyRlBqTm40NDVSc3c5UmNsQTVrY3V4dkwxSDRNSkdZN3RNcDVYdmlXVExrbC1NZ1k4dmFaUTU5ODF0SUZ4VmRTdWxVaTRzd3QxbVlkcXVJei1IaEdNbmpTUHpNMWxBYVBRLXpQcy1mdkdHUE16c3NINWVEWGJ3NjNuekhOTWtKYTd2bmdJRVVz?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "0aee9ee62872",
@@ -440,13 +440,13 @@
       ]
     },
     {
-      "id": "74f23033c90e",
-      "title": "大腸癌風險新線索 科學家發現腸道菌藏神秘病毒 - PChome Online 新聞",
+      "id": "fed359431d23",
+      "title": "大腸癌風險新線索 科學家發現腸道菌藏神秘病毒 - PChome Online新聞",
       "published": "2026-04-23T09:02:45+00:00",
-      "summary": "大腸癌風險新線索 科學家發現腸道菌藏神秘病毒&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "大腸癌風險新線索 科學家發現腸道菌藏神秘病毒&nbsp;&nbsp;PChome Online新聞",
       "sources": [
         {
-          "name": "PChome Online 新聞",
+          "name": "PChome Online新聞",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa1U5eHh3akFzel9odEhOVU0zcWFnSzR4elgyWEdyRllNQXZIMGM5Z1Jvc1BvNXY4YzRTTmIwZEd3bnpockZXSndLR183bHczMVdwWXVsT00xX3I4WVMydGQzMW0xZmVlTk1wSU93M0xEQjNUZ0xnZk5Ob2dXd3NFVkhkVnRJa25HY2dQWQ?oc=5"
         }
       ],
