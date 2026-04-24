@@ -31,11 +31,11 @@ permalink: /news/colonic-neoplasm/
 
 ## 相關新聞（1 則）
 
-### [大腸癌風險新線索 科學家發現腸道菌藏神秘病毒 - PChome Online新聞](https://news.google.com/rss/articles/CBMijAFBVV95cUxPa1U5eHh3akFzel9odEhOVU0zcWFnSzR4elgyWEdyRllNQXZIMGM5Z1Jvc1BvNXY4YzRTTmIwZEd3bnpockZXSndLR183bHczMVdwWXVsT00xX3I4WVMydGQzMW0xZmVlTk1wSU93M0xEQjNUZ0xnZk5Ob2dXd3NFVkhkVnRJa25HY2dQWQ?oc=5)
+### [大腸癌風險新線索 科學家發現腸道菌藏神秘病毒](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtS0pjU0kwcTFLLWtXVkpJX3FCcUtmRXBRTjBLVFcwSUxVWnhkM2hJT2hlcHlHMVZfMl9oOXViYUk4dnNBbWo0Xy1VMmU0Tl90M2EzR1N4bnBORlZFTnA0?oc=5)
 
 2026-04-23
 
-來源：[PChome Online新聞](https://news.google.com/rss/articles/CBMijAFBVV95cUxPa1U5eHh3akFzel9odEhOVU0zcWFnSzR4elgyWEdyRllNQXZIMGM5Z1Jvc1BvNXY4YzRTTmIwZEd3bnpockZXSndLR183bHczMVdwWXVsT00xX3I4WVMydGQzMW0xZmVlTk1wSU93M0xEQjNUZ0xnZk5Ob2dXd3NFVkhkVnRJa25HY2dQWQ?oc=5)
+來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtS0pjU0kwcTFLLWtXVkpJX3FCcUtmRXBRTjBLVFcwSUxVWnhkM2hJT2hlcHlHMVZfMl9oOXViYUk4dnNBbWo0Xy1VMmU0Tl90M2EzR1N4bnBORlZFTnA0?oc=5)
 
 ---
 
