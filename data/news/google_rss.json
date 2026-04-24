@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-24T09:22:55.465950+00:00",
+  "fetched_at": "2026-04-24T10:59:04.027116+00:00",
   "count": 27,
   "news": [
     {
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "68cfd7b6e339",
-      "title": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道 - Yahoo新聞",
-      "published": "2026-04-24T01:09:58+00:00",
-      "summary": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNaXJwS2hSR2xSRFhPdzRxc1FmblVBMVJxeVRSSTh2TmdYcU0tSXhlamcyOGFSYm0wTGRnT0s3SU1OMEwzRTZyZ3VUYUFPZ04xM2FxZlJTSFl4MDJ0bXVRNnhreEZKc3k2SnhiM3c1TFZ2MWZlNVdPaHhCUDZ2MUpLM1UxSXptOG5udGhRYWZBbXRiTkpDWDJ6eDdIT0JUcmdCTE1QekZzLTdPYTRCRmFLNm1Ec1NoUFpWazRHajdLUzA1ZnJnVzlmbUdBNFh2eDlsbExMZjI5VFVZMWtEdng2UWdoRm80bVlsU2gxN1psX1A1MlNFeXZvLUZBM1p2bEgyZkNvcFlHREQ2dw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5057c9424a00",
       "title": "COVID-19 新研究：Paxlovid 助康復但難降重症率 - 行銷人",
       "published": "2026-04-24T07:07:00+00:00",
@@ -64,14 +52,26 @@
       ]
     },
     {
-      "id": "b84a43ac7a56",
-      "title": "「3類養生飲品」天天喝10年後出事！　醫嘆：身體變癌細胞溫床 - ETtoday健康雲",
-      "published": "2026-04-22T12:25:00+00:00",
-      "summary": "「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲不是珍奶！這飲品「沒壞東西樣子」 喝10年癌細胞恐肆虐&nbsp;&nbsp;Yahoo新聞癌症為何越來越年輕？關鍵可能不只是基因&nbsp;&nbsp;TechNews 科技新報討論牆 | 不是珍奶！這飲品「沒壞東西樣子」 喝10年癌細胞恐肆虐&nbsp;&nbsp;LINE TODAY胰臟癌｜日飲1杯呢類飲品患胰臟癌風險激增87% 醫生點名4大高危飲品 戒3類食物保護腎臟&nbsp;&nbsp;香港經濟日報HKET",
+      "id": "68cfd7b6e339",
+      "title": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道 - Yahoo新聞",
+      "published": "2026-04-24T01:09:58+00:00",
+      "summary": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DSmR6SzFvOHhCdWt2UnNZNExDSXBSNnk1YTZZVWtXMUZiUlg4NklGME9nMFdoUmVyQkhIYjhpSE1WdThoTzVQNUM2cmVrT2Jp0gFsQVVfeXFMTWpsTHBWdG95aUtnRnlrRF81eHB4LU1leDBfWkprel93d19NOTJ4NDF2V3Y0U3VFbldTNlRteTNtWTNDRS14MWRSYUEzTGt3alFsMmJjMVYweHJkaGJoSS1UekdhRU9ScHBwbzU0?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNaXJwS2hSR2xSRFhPdzRxc1FmblVBMVJxeVRSSTh2TmdYcU0tSXhlamcyOGFSYm0wTGRnT0s3SU1OMEwzRTZyZ3VUYUFPZ04xM2FxZlJTSFl4MDJ0bXVRNnhreEZKc3k2SnhiM3c1TFZ2MWZlNVdPaHhCUDZ2MUpLM1UxSXptOG5udGhRYWZBbXRiTkpDWDJ6eDdIT0JUcmdCTE1QekZzLTdPYTRCRmFLNm1Ec1NoUFpWazRHajdLUzA1ZnJnVzlmbUdBNFh2eDlsbExMZjI5VFVZMWtEdng2UWdoRm80bVlsU2gxN1psX1A1MlNFeXZvLUZBM1p2bEgyZkNvcFlHREQ2dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8ed139d003a5",
+      "title": "以為飲果汁好健康？醫生揭4大致癌飲料黑名單／日飲1杯胰臟癌風險狂飆87% - U Food",
+      "published": "2026-04-23T18:09:59+00:00",
+      "summary": "以為飲果汁好健康？醫生揭4大致癌飲料黑名單／日飲1杯胰臟癌風險狂飆87%&nbsp;&nbsp;U Food不是珍奶！這飲品「沒壞東西樣子」 喝10年癌細胞恐肆虐&nbsp;&nbsp;Yahoo新聞癌症為何越來越年輕？關鍵可能不只是基因&nbsp;&nbsp;TechNews 科技新報「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲討論牆 | 不是珍奶！這飲品「沒壞東西樣子」 喝10年癌細胞恐肆虐&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "U Food",
+          "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxPUEFIU054U1kxZEJJbjFocWZ5NDJwREtpVTRKU0h3T04tOGVyQnVMMy1DRHlIdzdlNmh6VFdUVzVPWmtaVkU2RWc4dGlFNk9SYkt6aVJmeFBOY3lvdVo2cW1VSXozcUlubHYtb01uYks0bkJsX09EZzVlU1F2M3o4WVV4cEFCNlVQRkJkeG43RTlWcmdqcFVwQUg1WVJUUHlVUTNSRFlBUVhyZUV1b3dabU5Wb21ienNuSktCRXBtNnlLMUNIdjY5aENCS2ZoTFM5UTJaaG5EdU5TMUgzcmNDV2MzRVVnRDhicVNtcURld0VvVWNtSU9vM0RETFRTZjdtYy1OaVRCNHA5aF9tU21Rb0NlaGc0SXVOUTZESDBSYjdJOXVaSkVvLXROVlUya3dvSHVLTUwzcnpYcXVOZEM3WEV4M3oxeWJkdGh5TV9XR3Exbkk2Z3FhcU5GZ2d2ZXBLQVZHMjFFOUlkYlFodnJpZnBzQ0JZUy1lVURfdGltVWx5ZW5JbGZYamdXUGdWMW5IX0EwYTNIdkFYcmlVenR4SFBQUWswckFyalNhS0s1UjhqT2g0Y21qWDlYT1B2cHNncnl4ZQ?oc=5"
         }
       ]
     },
@@ -196,18 +196,6 @@
       ]
     },
     {
-      "id": "857bfe3605f5",
-      "title": "痛風飲食｜醫生推4種降尿酸食物豆腐都得！防痛風7招日飲2公升水 - 香港01",
-      "published": "2026-04-24T09:04:19+00:00",
-      "summary": "痛風飲食｜醫生推4種降尿酸食物豆腐都得！防痛風7招日飲2公升水&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxQRHZkNFNqRmdqcXBtOVhOTXFxcVZPT2tHQ2JiTHJBN25zMTFPbTNnSUZlUGVIRjEwMTl2US1Kb1dBRUlXU3JycTFlSGNtdlpUaG9zUS1fMzRRTkZZRExta1U0d1VoaGVxM0x2RUtzanpiUUJ1VFJpRWt6VUxDNm02ZVN3Wmo5YXRtalp5UWFiM081U2JjNThtb0Z0STZRdnRDSlRPOHc5YjlfUlU0Z1g2dGV4SGw1MzRUSU5PdWNhWHBrMkxhclNnOERoYnNFdE5PZU91emNha1NBeDdfU3k0V253UnZPeGpQcTZQaU9NTkJDOGIwa3I4UnkyNDREQnZJcERWSXRyY3dJc0tLWW53dUhQTnY0djVYLXFHNDhQVm1uaF9vNFQ5ZENpbXdFV0xyRGVCQzVmMy1HNW9td3huUFl3Z2x5SzBQaGxkRWxfREdDSWJJcUlRRFlRUGF2ajRLMUJjbUpMMXpZZTZkWFBPT0ktOWdLcEFZZHluUzVhWVMwODcwQW0xZS1ZWHpmbzZFYk1vVjNIS2czN252?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f6e0930981ed",
       "title": "柏臻慈善信託啟動 2026 年度「生命無 Plan B，關注 B 細胞淋巴癌」宣傳活動 - 香港財經時報HKBT",
       "published": "2026-04-22T15:24:00+00:00",
@@ -216,6 +204,18 @@
         {
           "name": "香港財經時報HKBT",
           "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNLWNfRTBPem1hdkl0WmxvM09UanZNOFZfdE1ZeUZydGdacWVqbVJZVEpfLUItRnZDcTZ6QWJTQnQ0bjQxNXNrRml5TWhtdXIxRkFhWkhKUVpzcVY1bDNQMk5BZ2dHVTlaX3pDaU42bE9PXzhIMEJQbFd0NmJIVDFjdGR5UV91R0JrUjVmYWpXMV95Ym1BNXI2emVMMFRUU1E0MWhISDRObThfWWV1SzVkZlJCaVVqbW9Yd0V1Mnc0QTNpS3o1ckdtakszRDhudFU2cnVLMC1YQkJRVnJhY2dseXh6cGxkaFN6cTdRV2I5WGwxS0RPUzdCX3J3eVhmM0Z6RnZabXpfeFZIT0JGeVExX2xlMXdPVUEyRWxGeEt2cnpVOGZjVHdUdE1aRmlrd1h3dk5pTzZoNnVWdTAwWnl0YkttRVhRaHg3VHMzVnpmdWIyVndXWGtXRjRtdlFGMDB6?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "857bfe3605f5",
+      "title": "痛風飲食｜醫生推4種降尿酸食物豆腐都得！防痛風7招日飲2公升水 - 香港01",
+      "published": "2026-04-24T09:04:19+00:00",
+      "summary": "痛風飲食｜醫生推4種降尿酸食物豆腐都得！防痛風7招日飲2公升水&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxQRHZkNFNqRmdqcXBtOVhOTXFxcVZPT2tHQ2JiTHJBN25zMTFPbTNnSUZlUGVIRjEwMTl2US1Kb1dBRUlXU3JycTFlSGNtdlpUaG9zUS1fMzRRTkZZRExta1U0d1VoaGVxM0x2RUtzanpiUUJ1VFJpRWt6VUxDNm02ZVN3Wmo5YXRtalp5UWFiM081U2JjNThtb0Z0STZRdnRDSlRPOHc5YjlfUlU0Z1g2dGV4SGw1MzRUSU5PdWNhWHBrMkxhclNnOERoYnNFdE5PZU91emNha1NBeDdfU3k0V253UnZPeGpQcTZQaU9NTkJDOGIwa3I4UnkyNDREQnZJcERWSXRyY3dJc0tLWW53dUhQTnY0djVYLXFHNDhQVm1uaF9vNFQ5ZENpbXdFV0xyRGVCQzVmMy1HNW9td3huUFl3Z2x5SzBQaGxkRWxfREdDSWJJcUlRRFlRUGF2ajRLMUJjbUpMMXpZZTZkWFBPT0ktOWdLcEFZZHluUzVhWVMwODcwQW0xZS1ZWHpmbzZFYk1vVjNIS2czN252?oc=5"
         }
       ]
     },
@@ -268,6 +268,18 @@
       ]
     },
     {
+      "id": "16527e82da43",
+      "title": "本港過去一周錄得三宗外地傳入及一宗本地登革熱個案 - 香港電台新聞網",
+      "published": "2026-04-24T10:27:00+00:00",
+      "summary": "本港過去一周錄得三宗外地傳入及一宗本地登革熱個案&nbsp;&nbsp;香港電台新聞網辛正兒 - 本地登革熱再現 全民防蚊不鬆懈 | 社論&nbsp;&nbsp;星島頭條本港爆首宗本地登革熱！警告呢1類人要特別小心恐致命 附8大病徵及防蚊法&nbsp;&nbsp;UHK 港生活今年首宗本地登革熱個案 歐家榮：爆發風險不能忽視&nbsp;&nbsp;紫荊網登革熱病徵、潛伏期是什麼？白紋伊蚊叮怎麼辦？一文看清預防方法&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港電台新聞網",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtUG91SGJxclZ0LTgxbDRXVGdJUFNMOEQ4UkxFaXk0d1E3UjZrSHZfdlozbVlYQ3VpanRNUnlhNXZ5dEZpQXVwby1kcEF1SFBPTXJmLURmZmtxWE1YVFpONDZJSDI3bFNSZF9SYWVuYw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6349915fc408",
       "title": "陪伴是最長情告白！60歲司機帶腦退化愛妻開工10年來貼身照顧「她陪我走過半生現在換我守著她」 - 星島頭條",
       "published": "2026-04-23T04:30:00+00:00",
@@ -276,18 +288,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMitwRBVV95cUxOd2haWkVuOXBUSGtrLVdPQjNRR1JoOEl0TFhDUFFoRjE5VzhaUjlLTWFtc1hpclZSXzA0dHNEN0M4aFRZdzNCUm4ycHlzR0lrd3QyZ0UwOUdlem5VYVNxM2dGQ21NUmtJZHdKX3V6UGJtRUpqanFhejgwQlI2UkRiTGVTX0MybGRYeTJnZjN5aDNYcGpyQjVfOFZVWWQ1M1lUY2YwSHdRVTFLSC1tYVhRX1d1X2NqOHFnUWUzU3diaHNJaXIySEIwRXZVQVByWUZ4aW5mem5nWWtpcEpNbnJKeGRYVEM4UmpUZEFKLXVadTFJekNNbFpBaG9DYXpGS3p6Ui1CNTVab2ROQV9aZ2ZhQWU0MWhZRUNQWDVOcW9hM3FUM1h2S2N2Wm1YejVQdk1ZS1FYTGg3YTl2SVRFRTVBdHNSbVVqcjg5Y1E3dEwtOV9DekFGVmFIWUxxX3JQU1JhcVRTQS1ROHhwSERGLTNvZkszNXI3MVhWRmlRcDgtS283N29XbHJHaWRtNmZCVXFrX21PMEI3UVBCUVlMV2ljUzR2ZzNzVEoxUWREbGduam4weVNxSnk3SFRmU2JGZWNMMy1pNjUyRnJDb1JCcmFieGxfcUwxVjNEd1RuNnpYNmY4YXpPSXE2WDVpZmpJTG1lRHg0RGRncmlWVlhxbFV0MmhyUTdvYlF0N29fOENXai02dkdjVWg3T0JMY0FPNHJ5dFNrU0c3eDkxY2NBT29NM3ZsY3RXQ1k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4382d542c930",
-      "title": "登革熱警示 │ 本港錄今年首宗本地個案，醫生教4個蚊咬止痕妙法 - etnet 經濟通",
-      "published": "2026-04-23T03:22:10+00:00",
-      "summary": "登革熱警示 │ 本港錄今年首宗本地個案，醫生教4個蚊咬止痕妙法&nbsp;&nbsp;etnet 經濟通辛正兒 - 本地登革熱再現 全民防蚊不鬆懈 | 社論&nbsp;&nbsp;星島頭條今年首宗本地登革熱個案 歐家榮：爆發風險不能忽視&nbsp;&nbsp;紫荊網登革熱病徵、潛伏期是什麼？白紋伊蚊叮怎麼辦？一文看清預防方法&nbsp;&nbsp;香港01本港爆首宗本地登革熱！警告呢1類人要特別小心恐致命 附8大病徵及防蚊法&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "etnet 經濟通",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJSzNRTVdZUFVuQXZWLTdReEZiT0Y0aXFTRFZRNVRYQUdTbkZvVGtYWDlqcExFSEJ4UUxkUnQzMXA2TDd1M3dmMXpVM1JNTHNGQVV6RDF2T04?oc=5"
         }
       ]
     },
