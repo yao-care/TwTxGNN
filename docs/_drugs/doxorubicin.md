@@ -2,15 +2,15 @@
 layout: default
 title: Doxorubicin
 parent: 高證據等級 (L1-L2)
-nav_order: 87
+nav_order: 86
 evidence_level: L1
-indication_count: 10
+indication_count: 1
 ---
 
 # Doxorubicin
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **10** 個
+證據等級: **L1** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -151,5 +151,6 @@ Doxorubicin 在 Ewing 肉瘤治療中具備多項已完成的 Phase 3 RCT 直接
 - 針對 665 個已知 DDI 進行完整用藥核對，尤其是 CYP3A4 抑制劑與 QT 延長風險藥物
 - 補充 TFDA 正式 Doxorubicin 許可證清單，釐清 Evidence Pack 中重複登記的資料問題
 - 考量 Ewing 肉瘤族群（多為兒童/青少年）的長期心毒性監測與晚期效應追蹤計畫
+
 ---
 

@@ -2,15 +2,15 @@
 layout: default
 title: Naftifine
 parent: 高證據等級 (L1-L2)
-nav_order: 172
+nav_order: 171
 evidence_level: L1
-indication_count: 8
+indication_count: 1
 ---
 
 # Naftifine
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **8** 個
+證據等級: **L1** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -114,6 +114,7 @@ TxGNN 預測的「皮膚念珠菌病」和「花斑癬」實際上已是 naftifi
 - 此藥物已被核准用於預測適應症
 - 無需額外驗證研究
 - 可直接依據仿單使用
+
 
 ---
 

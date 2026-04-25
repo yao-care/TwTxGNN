@@ -2,15 +2,15 @@
 layout: default
 title: Tazarotene
 parent: 僅模型預測 (L5)
-nav_order: 244
+nav_order: 243
 evidence_level: L5
-indication_count: 3
+indication_count: 1
 ---
 
 # Tazarotene
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -103,6 +103,7 @@ Tazarotene 調節角質形成細胞的分化作用，理論上可能對脂漏性
 - 進行針對脂漏性皮膚炎的 Pilot 臨床試驗
 - 收集使用者的療效觀察性資料
 - 與脂漏性角化症的文獻證據進行區分和比較
+
 
 ---
 

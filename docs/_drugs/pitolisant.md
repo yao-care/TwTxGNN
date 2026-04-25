@@ -2,15 +2,15 @@
 layout: default
 title: Pitolisant
 parent: 僅模型預測 (L5)
-nav_order: 202
+nav_order: 201
 evidence_level: L5
-indication_count: 3
+indication_count: 1
 ---
 
 # Pitolisant
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -144,6 +144,7 @@ DDInter 資料庫顯示 Pitolisant 與多種藥物有交互作用：
 ---
 *本筆記由 TwTxGNN 系統自動產生，僅供研究參考，不構成醫療建議。*
 *產生日期：2026-02-11*
+
 
 ---
 

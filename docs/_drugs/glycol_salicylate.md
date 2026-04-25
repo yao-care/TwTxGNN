@@ -2,15 +2,15 @@
 layout: default
 title: Glycol Salicylate
 parent: 僅模型預測 (L5)
-nav_order: 117
+nav_order: 116
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 ---
 
 # Glycol Salicylate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -106,5 +106,6 @@ TxGNN 模型預測它可能對 **Glanzmann 血小板無力症 (Glanzmann Thromba
 - 評估是否存在可改變給藥途徑的研究配方（口服/注射），以產生足夠的全身暴露量
 - 針對任何候選適應症，需先完成前臨床（體外/動物）機轉驗證研究，才能考慮進入 L4 以上的評估階段
 - 本藥現有適應症為局部肌肉骨骼疼痛，建議優先評估其他同為局部或炎症機轉相關的預測適應症，而非罕見血液疾病
+
 ---
 

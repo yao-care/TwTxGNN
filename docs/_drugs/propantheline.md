@@ -2,15 +2,15 @@
 layout: default
 title: Propantheline
 parent: 中證據等級 (L3-L4)
-nav_order: 218
+nav_order: 217
 evidence_level: L3
-indication_count: 2
+indication_count: 1
 ---
 
 # Propantheline
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **2** 個
+證據等級: **L3** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -100,6 +100,7 @@ Propantheline 是一種抗膽鹼藥物，能夠阻斷副交感神經的作用，
 - 確認台灣目前是否有有效的許可證（部分已註銷）
 - 評估與現代質子泵抑制劑（PPI）相比的定位
 - 制定適當的劑量方案
+
 
 ---
 

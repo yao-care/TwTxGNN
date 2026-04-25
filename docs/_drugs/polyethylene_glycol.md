@@ -2,7 +2,7 @@
 layout: default
 title: Polyethylene Glycol
 parent: 僅模型預測 (L5)
-nav_order: 203
+nav_order: 202
 evidence_level: L5
 indication_count: 1
 ---
@@ -115,6 +115,7 @@ DDInter 資料庫未發現 Polyethylene glycol 的顯著藥物交互作用。
 ---
 *本筆記由 TwTxGNN 系統自動產生，僅供研究參考，不構成醫療建議。*
 *產生日期：2026-02-11*
+
 
 ---
 

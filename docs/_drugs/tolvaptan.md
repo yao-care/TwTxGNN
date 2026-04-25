@@ -2,15 +2,15 @@
 layout: default
 title: Tolvaptan
 parent: 僅模型預測 (L5)
-nav_order: 263
+nav_order: 262
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 ---
 
 # Tolvaptan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -140,5 +140,6 @@ PKD3（GANAB/DNAJB11 突變）與 PKD1/PKD2 共享 cAMP 驅動的囊泡生成機
 - **肝功能監測計畫**：PKD3 患者常合併多囊性肝臟病，tolvaptan 已知具肝毒性風險（ALT/AST 上升），需制定更嚴格的 LFT 監測方案
 - **小兒族群考量**：已有兒童 ADPKD 試驗（NCT02964273），若 PKD3 患者年齡較小，需評估兒科劑量
 - **倫理與知情同意**：因 PKD3 為 ADPKD 亞型而非獨立核准適應症，臨床使用需以 off-label 框架說明
+
 ---
 

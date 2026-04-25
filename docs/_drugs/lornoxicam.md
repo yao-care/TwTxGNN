@@ -2,15 +2,15 @@
 layout: default
 title: Lornoxicam
 parent: 中證據等級 (L3-L4)
-nav_order: 156
+nav_order: 155
 evidence_level: L3
-indication_count: 10
+indication_count: 1
 ---
 
 # Lornoxicam
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **L3** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -219,6 +219,7 @@ Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風
 *本筆記由 TxGNN 老藥新用預測系統生成，僅供研究參考，不構成醫療建議。*
 
 *生成日期：2026-02-11*
+
 
 ---
 

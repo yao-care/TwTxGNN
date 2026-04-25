@@ -2,15 +2,15 @@
 layout: default
 title: Ritonavir
 parent: 中證據等級 (L3-L4)
-nav_order: 228
+nav_order: 227
 evidence_level: L4
-indication_count: 3
+indication_count: 1
 ---
 
 # Ritonavir
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **3** 個
+證據等級: **L4** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -100,6 +100,7 @@ Ritonavir 是一種 HIV 蛋白酶抑制劑，主要用於 HIV 治療。目前它
 - 評估在 SIV 感染的非人靈長類動物中的療效和安全性
 - 作為 HIV 研究工具，已有充分的應用基礎
 - 對於貓愛滋病（FIV），需進行額外的種間交叉反應研究
+
 
 ---
 

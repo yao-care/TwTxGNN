@@ -2,15 +2,15 @@
 layout: default
 title: Inositol
 parent: 中證據等級 (L3-L4)
-nav_order: 135
+nav_order: 134
 evidence_level: L3
-indication_count: 10
+indication_count: 1
 ---
 
 # Inositol
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **L3** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -105,6 +105,7 @@ Inositol Niacinate 用於高血脂症有歷史臨床證據支持，尤其是 197
 - 評估在 Statin 不耐受患者中的替代治療角色
 - 確認現代製劑品質與藥動學特性
 - 考慮與現代降血脂藥物的合併療法潛力
+
 
 ---
 

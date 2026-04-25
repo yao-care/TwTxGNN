@@ -2,15 +2,15 @@
 layout: default
 title: Buprenorphine
 parent: 僅模型預測 (L5)
-nav_order: 46
+nav_order: 45
 evidence_level: L5
-indication_count: 6
+indication_count: 1
 ---
 
 # Buprenorphine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -35,6 +35,7 @@ indication_count: 6
 Buprenorphine 原為類鴉片部分致效劑，用於中重度疼痛及鴉片類成癮替代療法，TxGNN 預測其可能對急性間歇性紫質症(acute intermittent porphyria)有治療潛力。
 
 ## 快速總覽
+
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 中重度疼痛、鴉片類物質成癮替代療法 |
@@ -106,6 +107,7 @@ Buprenorphine 在台灣有多種劑型：
 - 肝功能不全者需調整劑量
 
 ### 藥物交互作用(主要)
+
 | 交互作用藥物 | 嚴重程度 |
 |-------------|---------|
 | Ethanol (酒精) | 重度 |
@@ -128,6 +130,7 @@ Buprenorphine 在台灣有多種劑型：
 - 比較不同類鴉片藥物在紫質症患者中的安全性特性
 
 **特別注意**：此為探索性建議，臨床使用仍需依據個案評估及專科醫師判斷。
+
 
 ---
 

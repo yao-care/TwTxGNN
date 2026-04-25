@@ -2,15 +2,15 @@
 layout: default
 title: Icatibant
 parent: 高證據等級 (L1-L2)
-nav_order: 131
+nav_order: 130
 evidence_level: L1
-indication_count: 7
+indication_count: 1
 ---
 
 # Icatibant
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **7** 個
+證據等級: **L1** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -104,6 +104,7 @@ Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonis
 - 已有充分的臨床證據支持
 - 台灣已有核准適應症涵蓋此用途
 - 可直接應用於臨床實踐
+
 
 ---
 

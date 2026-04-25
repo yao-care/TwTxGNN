@@ -2,7 +2,7 @@
 layout: default
 title: Timepidium
 parent: 僅模型預測 (L5)
-nav_order: 256
+nav_order: 255
 evidence_level: L5
 indication_count: 1
 ---
@@ -125,6 +125,7 @@ Timepidium 應維持其原有適應症使用：胃腸道平滑肌痙攣性疼痛
 
 *報告產生日期：2026-02-11*
 *資料來源：TxGNN 知識圖譜預測、ClinicalTrials.gov、PubMed、台灣 FDA*
+
 
 ---
 

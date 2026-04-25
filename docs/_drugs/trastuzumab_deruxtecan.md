@@ -2,7 +2,7 @@
 layout: default
 title: Trastuzumab Deruxtecan
 parent: 僅模型預測 (L5)
-nav_order: 266
+nav_order: 265
 evidence_level: L5
 indication_count: 1
 ---
@@ -107,6 +107,7 @@ Trastuzumab deruxtecan 是一種抗體藥物複合體 (ADC)，由抗 HER2 單株
 - 作用機轉與適應症無生物學關聯
 - 藥物本身可能加重骨質疏鬆
 - 高度細胞毒性不適用於非腫瘤適應症
+
 
 ---
 

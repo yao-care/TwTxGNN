@@ -2,15 +2,15 @@
 layout: default
 title: Pexidartinib
 parent: 中證據等級 (L3-L4)
-nav_order: 198
+nav_order: 197
 evidence_level: L3
-indication_count: 10
+indication_count: 1
 ---
 
 # Pexidartinib
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **L3** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -133,5 +133,6 @@ TxGNN 預測分數達 99.98%，CSF-1R 抑制透過減少腫瘤相關巨噬細胞
 - 補充 pexidartinib 完整 MOA 資料（建議查詢 DrugBank API，解決 DG001 數據缺口）
 - 系統性評估 DDI 風險，尤其是與 PPI 類（影響吸收）及 CYP3A4 調節劑的交互作用
 - 制定 HER2+ 乳癌的生物標記策略（如 TAM 密度、CSF-1R 表現量、免疫微環境分型）以利病人篩選
+
 ---
 

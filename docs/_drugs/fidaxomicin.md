@@ -2,15 +2,15 @@
 layout: default
 title: Fidaxomicin
 parent: 僅模型預測 (L5)
-nav_order: 103
+nav_order: 102
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 ---
 
 # Fidaxomicin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -120,5 +120,6 @@ TxGNN 模型預測它可能對**葡萄球菌燙傷樣皮膚症候群（Staphyloc
 - 評估外用製劑（如局部皮膚應用）的技術可行性
 - 取得 DrugBank 完整 MOA 資料以強化機轉分析
 - 至少達到前臨床動物模型（in vivo）的初步療效證據，才可重新評估升至 Go
+
 ---
 

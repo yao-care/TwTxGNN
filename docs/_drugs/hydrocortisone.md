@@ -2,15 +2,15 @@
 layout: default
 title: Hydrocortisone
 parent: 高證據等級 (L1-L2)
-nav_order: 125
+nav_order: 124
 evidence_level: L1
-indication_count: 10
+indication_count: 1
 ---
 
 # Hydrocortisone
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **10** 個
+證據等級: **L1** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -134,5 +134,6 @@ Hydrocortisone（氫化可體松）是人體腎上腺皮質自然分泌的內源
 - 評估不同給藥途徑（外用 1% 乳膏、皮內注射、局部密封性治療）的療效差異，確定最佳劑型
 - 釐清 Hydrocortisone 在現行圓禿治療階梯（相較於高效類固醇、JAK 抑制劑等）中的定位與適用族群
 - 針對兒童族群（尤其輕度圓禿）制定安全性監測計畫，包括 HPA 軸抑制風險評估
+
 ---
 

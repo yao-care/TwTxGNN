@@ -2,15 +2,15 @@
 layout: default
 title: Cefoperazone
 parent: 高證據等級 (L1-L2)
-nav_order: 57
+nav_order: 56
 evidence_level: L2
-indication_count: 10
+indication_count: 1
 ---
 
 # Cefoperazone
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **10** 個
+證據等級: **L2** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -136,5 +136,6 @@ TxGNN 模型預測它可能對**肺炎（Pneumonia）** 具有更系統性的應
 - 建立 MDR 肺炎患者的安全監測計畫，特別注意與氨基糖苷類（Amikacin、Gentamicin 等）合用時的腎毒性監測
 - 補充正式警語、禁忌症及劑量調整資訊（目前資料缺口，需查閱台灣核准仿單）
 - 若考慮高劑量方案用於 XDR 菌株，可參考 2025 年多中心回溯研究（PMID 41368483）的安全性數據
+
 ---
 

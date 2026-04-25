@@ -2,15 +2,15 @@
 layout: default
 title: Tinidazole
 parent: 僅模型預測 (L5)
-nav_order: 257
+nav_order: 256
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 ---
 
 # Tinidazole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -147,6 +147,7 @@ Tinidazole 在台灣有多張有效許可證：
 
 *報告產生日期：2026-02-11*
 *資料來源：TxGNN 知識圖譜預測、ClinicalTrials.gov、PubMed、台灣 FDA*
+
 
 ---
 

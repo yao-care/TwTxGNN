@@ -2,15 +2,15 @@
 layout: default
 title: Emedastine
 parent: 僅模型預測 (L5)
-nav_order: 91
+nav_order: 90
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 ---
 
 # Emedastine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -185,6 +185,7 @@ Emedastine 對蕁麻疹的療效有隨機對照試驗支持，起效速度可能
 *本筆記僅供研究參考，不構成醫療建議。任何用藥決策應諮詢專業醫療人員。*
 
 *最後更新：2026-02-11*
+
 
 ---
 

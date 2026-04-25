@@ -2,15 +2,15 @@
 layout: default
 title: Remdesivir
 parent: 僅模型預測 (L5)
-nav_order: 224
+nav_order: 223
 evidence_level: L5
-indication_count: 6
+indication_count: 1
 ---
 
 # Remdesivir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -97,6 +97,7 @@ Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 
 - 探討 TxGNN 模型產生此預測的具體原因
 - 進行基礎研究確認是否存在任何潛在的分子機轉
 - 若有任何理論依據，需進行前臨床研究驗證
+
 
 ---
 

@@ -2,15 +2,15 @@
 layout: default
 title: Conjugated Estrogens
 parent: 中證據等級 (L3-L4)
-nav_order: 69
+nav_order: 68
 evidence_level: L3
-indication_count: 10
+indication_count: 1
 ---
 
 # Conjugated Estrogens
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **L3** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -135,5 +135,6 @@ Conjugated Estrogens（結合型雌激素）是廣泛使用的女性荷爾蒙補
 - 設計針對更年期過渡期月經性偏頭痛的前瞻性隨機對照試驗
 - 建立完整的心血管事件（VTE、缺血性中風）風險監測計畫
 - 評估給藥途徑差異（口服 vs. 經皮）對偏頭痛療效與安全性的影響
+
 ---
 

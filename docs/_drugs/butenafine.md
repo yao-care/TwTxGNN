@@ -2,15 +2,15 @@
 layout: default
 title: Butenafine
 parent: 僅模型預測 (L5)
-nav_order: 48
+nav_order: 47
 evidence_level: L5
-indication_count: 5
+indication_count: 1
 ---
 
 # Butenafine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -35,6 +35,7 @@ indication_count: 5
 Butenafine 原為治療香港腳、股癬、體癬等皮膚黴菌感染的外用抗黴菌藥，TxGNN 預測其可能對皮膚念珠菌病(cutaneous candidiasis)有治療潛力。
 
 ## 快速總覽
+
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 指(趾)間黴菌病(香港腳)、圓癬(體癬)、股癬等皮膚真菌感染 |
@@ -134,6 +135,7 @@ Butenafine 在台灣有眾多品牌：
 - 探討 butenafine 與其他外用藥物併用的協同效果
 
 **臨床提示**：由於此為非標示適應症(off-label)使用，建議告知病患並記錄臨床療效追蹤。
+
 
 ---
 

@@ -2,15 +2,15 @@
 layout: default
 title: Anastrozole
 parent: 高證據等級 (L1-L2)
-nav_order: 28
+nav_order: 27
 evidence_level: L1
-indication_count: 6
+indication_count: 1
 ---
 
 # Anastrozole
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **6** 個
+證據等級: **L1** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -126,6 +126,7 @@ Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
 - 定期監測骨密度，必要時給予骨質保護劑
 - 注意關節症狀的處理，以提升治療順從性
 - 與 CDK4/6 抑制劑併用可進一步提升晚期乳癌療效
+
 
 ---
 

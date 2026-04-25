@@ -2,15 +2,15 @@
 layout: default
 title: Prednisone
 parent: 高證據等級 (L1-L2)
-nav_order: 214
+nav_order: 213
 evidence_level: L2
-indication_count: 10
+indication_count: 1
 ---
 
 # Prednisone
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **10** 個
+證據等級: **L2** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -100,6 +100,7 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 - 根據患者個別情況評估風險效益
 - 考慮與 methotrexate 或 JAK 抑制劑併用
 - 制定長期監測計畫（骨密度、血糖等）
+
 
 ---
 

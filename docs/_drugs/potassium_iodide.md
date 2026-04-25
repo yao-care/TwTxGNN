@@ -2,15 +2,15 @@
 layout: default
 title: Potassium Iodide
 parent: 僅模型預測 (L5)
-nav_order: 207
+nav_order: 206
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 ---
 
 # Potassium Iodide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -125,6 +125,7 @@ indication_count: 2
 碘化鉀有多項重要藥物交互作用,需特別注意:
 
 **Major (主要) 交互作用**:
+
 | 交互藥物 | 機制/風險 |
 |----------|-----------|
 | ACE抑制劑 (Benazepril, Captopril, Enalapril等) | 增加高血鉀風險 |
@@ -133,6 +134,7 @@ indication_count: 2
 | Trimethoprim | 高血鉀風險 |
 
 **Moderate (中等) 交互作用**:
+
 | 交互藥物 | 機制/風險 |
 |----------|-----------|
 | NSAIDs (Ibuprofen, Diclofenac, Naproxen等) | 可能增加血鉀 |
@@ -178,6 +180,7 @@ indication_count: 2
 ---
 *報告產生日期: 2026-02-11*
 *資料來源: TxGNN預測、ClinicalTrials.gov、PubMed、台灣食品藥物管理署、DDInter*
+
 
 ---
 

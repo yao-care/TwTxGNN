@@ -2,15 +2,15 @@
 layout: default
 title: Amcinonide
 parent: 中證據等級 (L3-L4)
-nav_order: 25
+nav_order: 24
 evidence_level: L3
-indication_count: 8
+indication_count: 1
 ---
 
 # Amcinonide
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **8** 個
+證據等級: **L3** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -103,6 +103,7 @@ Amcinonide 是高效價局部類固醇，屬於副腎皮質荷爾蒙類藥物。
 - 依據皮膚炎嚴重程度選擇適當效價的類固醇
 - 注意使用部位（臉部、皺褶處應避免使用高效價類固醇）
 - 監測長期使用的局部副作用
+
 
 ---
 

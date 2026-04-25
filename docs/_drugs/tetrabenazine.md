@@ -2,15 +2,15 @@
 layout: default
 title: Tetrabenazine
 parent: 僅模型預測 (L5)
-nav_order: 249
+nav_order: 248
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 ---
 
 # Tetrabenazine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -209,6 +209,7 @@ Tetrabenazine 有多項重要藥物交互作用：
 
 *本筆記由 TxGNN 預測系統產生，僅供研究參考，不構成醫療建議。*
 *更新日期：2026-02-11*
+
 
 ---
 

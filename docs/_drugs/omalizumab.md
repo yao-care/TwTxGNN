@@ -2,15 +2,15 @@
 layout: default
 title: Omalizumab
 parent: 高證據等級 (L1-L2)
-nav_order: 184
+nav_order: 183
 evidence_level: L2
-indication_count: 10
+indication_count: 1
 ---
 
 # Omalizumab
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **10** 個
+證據等級: **L2** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -129,6 +129,7 @@ Omalizumab 對異位性皮膚炎和支氣管炎的預測具有合理的藥理學
 - 與現有標準治療（如 dupilumab for AD）的比較研究
 - 開發預測治療反應的生物標記
 - 評估高 IgE 水平患者（>700 IU/mL）的劑量策略
+
 
 ---
 

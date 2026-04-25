@@ -2,7 +2,7 @@
 layout: default
 title: Caspofungin
 parent: 僅模型預測 (L5)
-nav_order: 55
+nav_order: 54
 evidence_level: L5
 indication_count: 1
 ---
@@ -110,6 +110,7 @@ Caspofungin 是一種棘白菌素類抗真菌藥物，其作用機轉為：
 - 前臨床動物實驗驗證
 - 明確的作用機轉假說
 - 臨床試驗設計的合理性論證
+
 
 ---
 

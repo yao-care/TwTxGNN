@@ -2,15 +2,15 @@
 layout: default
 title: Cephalexin
 parent: 僅模型預測 (L5)
-nav_order: 58
+nav_order: 57
 evidence_level: L5
-indication_count: 0
+indication_count: 1
 ---
 
 # Cephalexin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -112,6 +112,7 @@ Cephalexin 是一種經典的第一代頭孢黴素類抗生素，其特性包括
 - 持續監測抗藥性變化
 - 關注抗生素管理原則（Antimicrobial Stewardship）
 - 若有新的研究發現，可重新評估潛在新用途
+
 
 ---
 

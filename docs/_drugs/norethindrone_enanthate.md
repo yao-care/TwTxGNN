@@ -2,15 +2,15 @@
 layout: default
 title: Norethindrone Enanthate
 parent: 僅模型預測 (L5)
-nav_order: 182
+nav_order: 181
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 ---
 
 # Norethindrone Enanthate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -95,5 +95,6 @@ TxGNN 模型預測它可能對**第二型抗凝血素缺乏症 (Antithrombin Def
 - 補充完整作用機轉資料（MOA），確認是否存在任何抗凝血調節效果
 - 針對「黃體素促血栓 vs. 假設的抗凝血效益」進行藥理學悖論評估
 - 若仍要探索免疫調節相關適應症（如類風濕性關節炎），需先完成上述安全性評估
+
 ---
 

@@ -2,15 +2,15 @@
 layout: default
 title: Oxybutynin
 parent: 僅模型預測 (L5)
-nav_order: 187
+nav_order: 186
 evidence_level: L5
-indication_count: 3
+indication_count: 1
 ---
 
 # Oxybutynin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -139,6 +139,7 @@ Oxybutynin 對預測新適應症的支持證據極為有限：
 ---
 
 *本報告由 TxGNN 預測系統生成，僅供研究參考，不構成醫療建議。*
+
 
 ---
 

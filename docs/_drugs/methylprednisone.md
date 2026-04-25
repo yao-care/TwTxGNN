@@ -2,15 +2,15 @@
 layout: default
 title: Methylprednisone
 parent: 中證據等級 (L3-L4)
-nav_order: 165
+nav_order: 164
 evidence_level: L3
-indication_count: 10
+indication_count: 1
 ---
 
 # Methylprednisone
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **L3** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -167,5 +167,6 @@ Methylprednisolone 透過抑制 Fc 受體介導的血小板清除及自體抗體
 
 **L5 Hold 適應症（麻風病、肺囊蟲肺炎、ALCAPA 等）：**
 建議暫不推進，待更多機轉或前臨床研究資料出現後重新評估。
+
 ---
 

@@ -2,15 +2,15 @@
 layout: default
 title: Pipemidic Acid
 parent: 僅模型預測 (L5)
-nav_order: 200
+nav_order: 199
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 ---
 
 # Pipemidic Acid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -68,6 +68,7 @@ Pipemidic acid 主要作用機轉為抑制細菌 DNA 旋轉酶，屬於抗菌作
 **證據等級：L5 (僅預測)**
 
 僅發現 1 篇間接相關文獻：
+
 | PMID | 標題 | 年份 | 內容 |
 |------|------|------|------|
 | 372558 | Use of pipemidic acid in renal insufficiency and hemodialysis | 1978 | 討論 Pipemidic acid 在腎功能不全患者的使用，與心臟病無直接關聯 |
@@ -125,6 +126,7 @@ DDInter 資料庫未發現 Pipemidic acid 的藥物交互作用資料。
 ---
 *本筆記由 TwTxGNN 系統自動產生，僅供研究參考，不構成醫療建議。*
 *產生日期：2026-02-11*
+
 
 ---
 

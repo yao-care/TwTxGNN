@@ -2,15 +2,15 @@
 layout: default
 title: Famotidine
 parent: 僅模型預測 (L5)
-nav_order: 98
+nav_order: 97
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 ---
 
 # Famotidine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -162,6 +162,7 @@ Famotidine 可安全用於：
 
 *報告生成日期：2026-02-11*
 *資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、TFDA*
+
 
 ---
 

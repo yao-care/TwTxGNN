@@ -2,15 +2,15 @@
 layout: default
 title: Fenoterol
 parent: 僅模型預測 (L5)
-nav_order: 101
+nav_order: 100
 evidence_level: L5
-indication_count: 8
+indication_count: 1
 ---
 
 # Fenoterol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -173,6 +173,7 @@ Fenoterol 在台灣有多種劑型上市，主要用於呼吸道疾病：
 - [ ] 若需研究神經系統疾病，應尋找更合適的藥物標的
 
 ### 替代建議
+
 | 預測適應症 | 建議替代治療 |
 |-----------|-------------|
 | POTS | Beta 阻斷劑、fludrocortisone、midodrine |
@@ -187,6 +188,7 @@ Fenoterol 在台灣有多種劑型上市，主要用於呼吸道疾病：
 
 *報告生成日期：2026-02-11*
 *資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、TFDA*
+
 
 ---
 

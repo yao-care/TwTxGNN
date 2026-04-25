@@ -2,15 +2,15 @@
 layout: default
 title: Nitrofurantoin
 parent: 僅模型預測 (L5)
-nav_order: 179
+nav_order: 178
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 ---
 
 # Nitrofurantoin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -104,6 +104,7 @@ Nitrofurantoin 通過損傷細菌 DNA 和抑制酶活性發揮殺菌作用，對
 **若要推進需要：**
 - 不建議進一步探索此適應症
 - 此預測反映的是共病/不良反應關係，而非治療潛力
+
 
 ---
 

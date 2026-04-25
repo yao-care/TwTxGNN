@@ -2,15 +2,15 @@
 layout: default
 title: Methocarbamol
 parent: 僅模型預測 (L5)
-nav_order: 163
+nav_order: 162
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 ---
 
 # Methocarbamol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -158,6 +158,7 @@ Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統
 
 *報告產生日期：2026-02-11*
 *資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、台灣 FDA*
+
 
 ---
 

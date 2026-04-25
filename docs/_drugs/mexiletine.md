@@ -2,15 +2,15 @@
 layout: default
 title: Mexiletine
 parent: 僅模型預測 (L5)
-nav_order: 167
+nav_order: 166
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 ---
 
 # Mexiletine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -118,5 +118,6 @@ Mexiletine 的鈉離子通道阻斷機轉與多毛症的毛囊生長調控路徑
 - 建立可驗證的藥理假說，說明 Nav 通道抑制如何影響毛囊生長路徑
 - 執行毛囊細胞 in vitro 實驗（如 dermal papilla cell 模型），驗證 Mexiletine 是否具有生物活性
 - 評估 106 筆高 DDI 負擔對潛在應用情境的臨床可行性
+
 ---
 

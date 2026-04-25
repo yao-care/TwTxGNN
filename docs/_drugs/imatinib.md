@@ -2,15 +2,15 @@
 layout: default
 title: Imatinib
 parent: 中證據等級 (L3-L4)
-nav_order: 132
+nav_order: 131
 evidence_level: L4
-indication_count: 10
+indication_count: 1
 ---
 
 # Imatinib
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L4** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -135,5 +135,6 @@ TxGNN 模型預測它可能對**心臟纖維肉瘤（Heart Fibrosarcoma）** 有
 - 補充 Imatinib 完整作用機轉資料（建議查詢 DrugBank API，填補 DG001 資料缺口）
 - 執行心臟纖維肉瘤細胞株或動物模型前臨床實驗，確認抗腫瘤活性
 - 評估罕見腫瘤擴大使用（Compassionate Use）或同情性使用申請的可行性
+
 ---
 

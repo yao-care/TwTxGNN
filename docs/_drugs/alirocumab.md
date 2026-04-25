@@ -2,15 +2,15 @@
 layout: default
 title: Alirocumab
 parent: 僅模型預測 (L5)
-nav_order: 16
+nav_order: 15
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 ---
 
 # Alirocumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -100,6 +100,7 @@ Alirocumab 對黃色瘤病和膽固醇代謝疾病的預測具有強烈的機轉
 - 針對黃色瘤病的前瞻性臨床試驗
 - 確認長期使用對黃色瘤消退的效果
 - 評估成本效益，考量 PCSK9 抑制劑的高價格
+
 
 ---
 

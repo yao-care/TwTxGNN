@@ -2,15 +2,15 @@
 layout: default
 title: Ouabain
 parent: 僅模型預測 (L5)
-nav_order: 186
+nav_order: 185
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 ---
 
 # Ouabain
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -139,6 +139,7 @@ Ouabain 對鐮刀型紅血球貧血和心肌梗塞的老藥新用預測在機轉
 ---
 
 *本報告由 TxGNN 預測系統生成，僅供研究參考，不構成醫療建議。*
+
 
 ---
 

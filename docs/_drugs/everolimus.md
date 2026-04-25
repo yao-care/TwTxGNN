@@ -2,15 +2,15 @@
 layout: default
 title: Everolimus
 parent: 高證據等級 (L1-L2)
-nav_order: 97
+nav_order: 96
 evidence_level: L2
-indication_count: 10
+indication_count: 1
 ---
 
 # Everolimus
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **10** 個
+證據等級: **L2** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -138,5 +138,6 @@ Phase 2 臨床試驗（NCT03114527，n=48）直接研究 Everolimus 聯合 Riboc
 - 確立脂肉瘤亞型的分子分型策略（DDL mTOR 活化狀態篩選，作為病患選擇依據）
 - 確認聯合用藥（Ribociclib）的劑量調整方案及血液毒性監測計畫
 - 評估台灣健保給付可行性及罕見腫瘤擴大使用申請途徑
+
 ---
 

@@ -2,15 +2,15 @@
 layout: default
 title: Ibuprofen
 parent: 僅模型預測 (L5)
-nav_order: 130
+nav_order: 129
 evidence_level: L5
-indication_count: 7
+indication_count: 1
 ---
 
 # Ibuprofen
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -116,6 +116,7 @@ TxGNN 預測的適應症包括多種罕見骨骼發育異常疾病：
 - 澄清 TxGNN 預測的機轉基礎
 - 若目的是症狀緩解（疼痛管理），需明確此角色定位
 - 這些適應症不適合作為老藥新用的開發方向
+
 
 ---
 

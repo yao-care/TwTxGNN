@@ -2,15 +2,15 @@
 layout: default
 title: Indacaterol
 parent: 高證據等級 (L1-L2)
-nav_order: 134
+nav_order: 133
 evidence_level: L1
-indication_count: 10
+indication_count: 1
 ---
 
 # Indacaterol
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **10** 個
+證據等級: **L1** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -143,5 +143,6 @@ Indacaterol 為選擇性超長效 β2 腎上腺素受體激動劑，與氣道平
 - 確認不同 Indacaterol 組合製劑（IND 單藥 / IND+GLY / IND+GLY+MF）在特定支氣管疾病亞型（如小兒族群、嗜酸球性表型）中的劑量選擇依據
 - 對 9 項 L5 預測適應症，如有探索意願，應優先進行機轉合理性評估及前臨床研究設計，並釐清吸入製劑對非肺部標靶器官的給藥途徑可行性
 - 定期更新 DDI 資料（建議每季確認 DDInter 資料庫版本）
+
 ---
 

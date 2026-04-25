@@ -2,15 +2,15 @@
 layout: default
 title: Pravastatin
 parent: 僅模型預測 (L5)
-nav_order: 211
+nav_order: 210
 evidence_level: L5
-indication_count: 9
+indication_count: 1
 ---
 
 # Pravastatin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -201,6 +201,7 @@ indication_count: 9
 ---
 *報告產生日期: 2026-02-11*
 *資料來源: TxGNN預測、ClinicalTrials.gov、PubMed、台灣食品藥物管理署*
+
 
 ---
 

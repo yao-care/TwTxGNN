@@ -2,15 +2,15 @@
 layout: default
 title: Vigabatrin
 parent: 僅模型預測 (L5)
-nav_order: 277
+nav_order: 276
 evidence_level: L5
-indication_count: 0
+indication_count: 1
 ---
 
 # Vigabatrin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -109,6 +109,7 @@ Vigabatrin 的作用機轉高度專一於 GABA 能神經傳導，TxGNN 模型未
 **注意事項：**
 - Vigabatrin 可能導致不可逆的視野缺損，需定期監測視力
 - 與皮質類固醇併用需特別注意交互作用
+
 
 ---
 

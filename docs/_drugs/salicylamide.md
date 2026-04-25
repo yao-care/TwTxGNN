@@ -2,15 +2,15 @@
 layout: default
 title: Salicylamide
 parent: 中證據等級 (L3-L4)
-nav_order: 233
+nav_order: 232
 evidence_level: L4
-indication_count: 10
+indication_count: 1
 ---
 
 # Salicylamide
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L4** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -139,6 +139,7 @@ Salicylamide 是水楊酸的醯胺衍生物，具有以下藥理特性：
 - 標準化劑量和給藥方案
 - 與現有感冒藥物的比較性研究
 - 考慮複方製劑的開發可能性
+
 
 ---
 

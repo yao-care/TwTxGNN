@@ -2,15 +2,15 @@
 layout: default
 title: Acyclovir
 parent: 中證據等級 (L3-L4)
-nav_order: 14
+nav_order: 13
 evidence_level: L4
-indication_count: 10
+indication_count: 1
 ---
 
 # Acyclovir
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L4** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -118,5 +118,6 @@ TxGNN 模型預測它可能對**點狀上皮角結膜炎 (Punctate Epithelial Ke
 - 進行 PEK 病因亞群鑑別，明確篩選 HSV 或 VZV 陽性病例作為潛在目標族群
 - 針對 HSV/VZV 相關 PEK 設計前瞻性小規模可行性研究（Phase 2），觀察 Acyclovir 口服或局部用藥的療效
 - 評估由帶狀疱疹眼炎（已核准適應症）外推至 PEK 的監管路徑可行性
+
 ---
 

@@ -2,15 +2,15 @@
 layout: default
 title: Inclisiran
 parent: 僅模型預測 (L5)
-nav_order: 133
+nav_order: 132
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 ---
 
 # Inclisiran
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -91,6 +91,7 @@ Inclisiran 用於鉀缺乏症的預測缺乏明確的機轉支持和臨床證據
 - 進行機轉層面的研究，探討 PCSK9 抑制與鉀代謝的潛在關聯
 - 分析 Inclisiran 臨床試驗中的電解質變化數據
 - 建立假說並設計探索性臨床研究
+
 
 ---
 
