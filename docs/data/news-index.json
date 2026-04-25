@@ -1,7 +1,54 @@
 {
-  "generated": "2026-04-25T21:28:38.222757+00:00",
-  "count": 4,
+  "generated": "2026-04-25T22:27:32.644482+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "4b6e9d446694",
+      "title": "隱藏在腸道中的病毒可能與結腸癌有關。",
+      "published": "2026-04-25T21:20:34+00:00",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNVFE3TUROX1k2MkdVYm1ySENhVkljZHJwNkhiYWVaU284Rkgyc01NRE1BbXY3dlpVRTVRRENXNnhmclFHcXp5OFBfUHpTcjlDdTB0YUxVRmVSNnc0QTFadE0tMElKQkxhenU1T3JBVFVzTnNkTk4zVF9zS1Rjc2l4MHBXaEZ2VjlnWnNtYXc5c2NmM3pUTTI0UXdlUVZCT3R0cjkwQWRNc2JqdlRpX0ZWOW5fTUxjaG44VllEUWRqVXNUS0tYaVZlZ3pxcmhHWTF1d1VMVGZQTGJvM1Z3cmtKRTllWFoyNGRQZXFMS1laYnRHdWV3OTc5WFJ0T25yWTZrZklycmJ2Q1liemFtT21fZkt3dUpkY2hqZXdqMWs3U21Dby1vSEExT2xqTElDOERIY3lPT0c5OWpfNzBKTk5fWUMtaXczSEJHTUdjQmxCaFVPQk53M0E?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "結腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "59c21f2abef2",
       "title": "【健康】從「似感冒」到命危 腦膜炎雙球菌致命24小時",
