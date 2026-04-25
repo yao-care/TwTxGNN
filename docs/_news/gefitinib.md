@@ -43,19 +43,19 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（2 則）
 
+### [醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WMm8yZE5GdTlCdmJNZWw2T3VPQjVLS25yMlo1dzhLR09QbVpWbm90SEtlTDRVMjdGVWhIU3pNNG5NQTFzZTZtVGlKUmRlMW5wb1gxMQ?oc=5)
+
+2026-04-25 <span class="news-indication-tag">癌症</span>
+
+來源：[news.ebc.net.tw](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WMm8yZE5GdTlCdmJNZWw2T3VPQjVLS25yMlo1dzhLR09QbVpWbm90SEtlTDRVMjdGVWhIU3pNNG5NQTFzZTZtVGlKUmRlMW5wb1gxMQ?oc=5)
+
+---
+
 ### [別只關注久坐傷身 最新研究：坐著時「做對事」可預防失智症](https://news.google.com/rss/articles/CBMiY0FVX3lxTE94TDVrN1lOQ0pLalRyaEtlSU95d19ydTlZcXpoX1pPR29YRUFIdEN0dVg3RlNhQll4YlBHcGFuWFlwbkVzc1pKZXNBNFFNY2psTFBkX3ZUTGh2aXFxNEhSbTJvQdIBY0FVX3lxTE94TDVrN1lOQ0pLalRyaEtlSU95d19ydTlZcXpoX1pPR29YRUFIdEN0dVg3RlNhQll4YlBHcGFuWFlwbkVzc1pKZXNBNFFNY2psTFBkX3ZUTGh2aXFxNEhSbTJvQQ?oc=5)
 
 2026-04-25 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiY0FVX3lxTE94TDVrN1lOQ0pLalRyaEtlSU95d19ydTlZcXpoX1pPR29YRUFIdEN0dVg3RlNhQll4YlBHcGFuWFlwbkVzc1pKZXNBNFFNY2psTFBkX3ZUTGh2aXFxNEhSbTJvQdIBY0FVX3lxTE94TDVrN1lOQ0pLalRyaEtlSU95d19ydTlZcXpoX1pPR29YRUFIdEN0dVg3RlNhQll4YlBHcGFuWFlwbkVzc1pKZXNBNFFNY2psTFBkX3ZUTGh2aXFxNEhSbTJvQQ?oc=5)
-
----
-
-### [癌症為何越來越年輕？關鍵可能不只是基因 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQcHU0aENEWlZLaWJIUTk5ZVZBUllOM0VmdXlfQmQwNEd6TlBvM2QyVkVLb0ZVWjFRaGlsMHllcGR5eDRIa0NMVHUxTGY2WTlzZFdiOWNn?oc=5)
-
-2026-04-23 <span class="news-indication-tag">癌症</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQcHU0aENEWlZLaWJIUTk5ZVZBUllOM0VmdXlfQmQwNEd6TlBvM2QyVkVLb0ZVWjFRaGlsMHllcGR5eDRIa0NMVHUxTGY2WTlzZFdiOWNn?oc=5)
 
 ---
 

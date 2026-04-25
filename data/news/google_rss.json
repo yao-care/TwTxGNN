@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-25T11:32:42.793076+00:00",
-  "count": 17,
+  "fetched_at": "2026-04-25T12:42:16.466403+00:00",
+  "count": 18,
   "news": [
+    {
+      "id": "2063f4f7d126",
+      "title": "健康網》花甲男常累、沒性趣 美網紅醫曝「不吃蛋」恐更慘 - 自由健康網",
+      "published": "2026-04-25T11:11:00+00:00",
+      "summary": "健康網》花甲男常累、沒性趣 美網紅醫曝「不吃蛋」恐更慘&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzYUtFT0IzXzZFdUpvV2x2VGl5TENMWkI5WlczX0hVLTFMbzdsRHlPUmVadFpwWmlYdWRoRHZwcmNTdWhCUUoyVmQwLW5tOXVhbGNXQ21ZRk4wU3ZLZFhLTHlzZFPSAWpBVV95cUxNajJYbkI5NGVNb1hjTU8yTUhEeVhJT0RVQlhoVDA4enR3X0NqSEh2WjhFbEhqT3R0MkJnaFBVUFJzOHZmYVMxdXNEVjRsTmxGS2VGR0o1ek9QZDVoZnJhSTVkWHpWaUszWVJR?oc=5"
+        }
+      ]
+    },
     {
       "id": "05c874ddbdc7",
       "title": "「媽媽手」不只按痛點　中醫師經絡遠端下手效果快可根治 - ETtoday新聞雲",
@@ -28,6 +40,18 @@
       ]
     },
     {
+      "id": "7df8c0e72b47",
+      "title": "醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康 - news.ebc.net.tw",
+      "published": "2026-04-25T11:45:00+00:00",
+      "summary": "醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;news.ebc.net.tw「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲癌症為何越來越年輕？關鍵可能不只是基因 | 科技新報&nbsp;&nbsp;LINE TODAY以為飲果汁好健康？醫生揭4大致癌飲料黑名單／日飲1杯胰臟癌風險狂飆87%&nbsp;&nbsp;U Food胰臟癌｜日飲1杯呢類飲品患胰臟癌風險激增87% 醫生點名4大高危飲品 戒3類食物保護腎臟&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "news.ebc.net.tw",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WMm8yZE5GdTlCdmJNZWw2T3VPQjVLS25yMlo1dzhLR09QbVpWbm90SEtlTDRVMjdGVWhIU3pNNG5NQTFzZTZtVGlKUmRlMW5wb1gxMQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1d14ebc8ecdd",
       "title": "以為吃事前藥就穩了？30歲男「尿道流膿」竟染淋病大崩潰 醫揭2迷思 - 祝你健康",
       "published": "2026-04-24T02:26:23+00:00",
@@ -36,18 +60,6 @@
         {
           "name": "祝你健康",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyMER2LW9oalJ0S1VGU2ZrYnlDOWRoMjhFMUlzeUpKelZzVmhWZktHM2ZpT3Rzc1FTdWFyUkFnX0wtMEhxSmtETFRaQ2k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "566047775cf1",
-      "title": "癌症為何越來越年輕？關鍵可能不只是基因 | 科技新報 - LINE TODAY",
-      "published": "2026-04-23T13:30:12+00:00",
-      "summary": "癌症為何越來越年輕？關鍵可能不只是基因 | 科技新報&nbsp;&nbsp;LINE TODAY不是珍奶！這飲品「沒壞東西樣子」 喝10年癌細胞恐肆虐&nbsp;&nbsp;Yahoo新聞癌症為何越來越年輕？關鍵可能不只是基因&nbsp;&nbsp;TechNews 科技新報「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲討論牆 | 不是珍奶！這飲品「沒壞東西樣子」 喝10年癌細胞恐肆虐&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQcHU0aENEWlZLaWJIUTk5ZVZBUllOM0VmdXlfQmQwNEd6TlBvM2QyVkVLb0ZVWjFRaGlsMHllcGR5eDRIa0NMVHUxTGY2WTlzZFdiOWNn?oc=5"
         }
       ]
     },

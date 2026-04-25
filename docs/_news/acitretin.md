@@ -38,11 +38,11 @@ permalink: /news/acitretin/
 
 ## 相關新聞（1 則）
 
-### [癌症為何越來越年輕？關鍵可能不只是基因 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQcHU0aENEWlZLaWJIUTk5ZVZBUllOM0VmdXlfQmQwNEd6TlBvM2QyVkVLb0ZVWjFRaGlsMHllcGR5eDRIa0NMVHUxTGY2WTlzZFdiOWNn?oc=5)
+### [醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WMm8yZE5GdTlCdmJNZWw2T3VPQjVLS25yMlo1dzhLR09QbVpWbm90SEtlTDRVMjdGVWhIU3pNNG5NQTFzZTZtVGlKUmRlMW5wb1gxMQ?oc=5)
 
-2026-04-23 <span class="news-indication-tag">癌症</span>
+2026-04-25 <span class="news-indication-tag">癌症</span>
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQcHU0aENEWlZLaWJIUTk5ZVZBUllOM0VmdXlfQmQwNEd6TlBvM2QyVkVLb0ZVWjFRaGlsMHllcGR5eDRIa0NMVHUxTGY2WTlzZFdiOWNn?oc=5)
+來源：[news.ebc.net.tw](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WMm8yZE5GdTlCdmJNZWw2T3VPQjVLS25yMlo1dzhLR09QbVpWbm90SEtlTDRVMjdGVWhIU3pNNG5NQTFzZTZtVGlKUmRlMW5wb1gxMQ?oc=5)
 
 ---
 
