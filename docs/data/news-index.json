@@ -1,7 +1,31 @@
 {
-  "generated": "2026-04-25T15:33:24.475128+00:00",
-  "count": 3,
+  "generated": "2026-04-25T16:32:13.870063+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "59c21f2abef2",
+      "title": "【健康】從「似感冒」到命危 腦膜炎雙球菌致命24小時",
+      "published": "2026-04-25T16:01:00+00:00",
+      "sources": [
+        {
+          "name": "堅料",
+          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNcGl1eHhrNnZzZ0tWeUctdWg2TGV2SjMtc2I3akV5MmJzZ1ZYTGMtNjRjSUVBLW5KbU5LTlp3QkVjOW14ak1GcFpCSzBoTkdZUTBTd0xDMVpfa0xUS0pTY1g3aUkzektmYm5tdE82NkxFQW9qMmVacEFONFFYTnh0YURZXzNJTUUzVU8zMlRQX29zNVdJQUxDN1llQS0yc0RzeWRXdHlsUC1idUIzVDBtM3JfTnRPcWxFcnI3S2JpUnZNVHdKd0xCdE5adHRZTXB0alExVHl5Wi1oMFRTUjlSbTlQdnVZVnhBSDM2T0tUbFJjMlRXQmJnZlh1Y2ZkRXhfU0o5NXlXTWFIV2hEdFByWVBRUjg4Qm83b0ZOVW9YaEFsOVlqOXJ3WWRlS2Y0Q0RRaVhRNk1vRTM4aUgwalgzbFB2SGpvaFg5SjZabEloaWVNdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "592e2d77668d",
       "title": "醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康",
@@ -211,13 +235,13 @@
       ]
     },
     {
-      "id": "ac1d5a1be04e",
+      "id": "482666a9e86c",
       "title": "別只關注久坐傷身 最新研究：坐著時「做對事」可預防失智症",
       "published": "2026-04-25T01:09:25+00:00",
       "sources": [
         {
           "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94TDVrN1lOQ0pLalRyaEtlSU95d19ydTlZcXpoX1pPR29YRUFIdEN0dVg3RlNhQll4YlBHcGFuWFlwbkVzc1pKZXNBNFFNY2psTFBkX3ZUTGh2aXFxNEhSbTJvQdIBY0FVX3lxTE94TDVrN1lOQ0pLalRyaEtlSU95d19ydTlZcXpoX1pPR29YRUFIdEN0dVg3RlNhQll4YlBHcGFuWFlwbkVzc1pKZXNBNFFNY2psTFBkX3ZUTGh2aXFxNEhSbTJvQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwMFRybWxfTkdNbklwd2NWeDNnaDVmc0Q3Y3plLTZsR1BBZmpNcUswSzdrZDU2VXY1bEw0UWRrd3ZxTDBUX0VPdlUwQkZnVlBrdW1QdGVmYnplV0NxdFHSAWNBVV95cUxPeEw1azdZTkNKS2pUcmhLZUlPeXdfcnU5WXF6aF9aT0dvWEVBSHRDdHVYN0ZTYUJZeGJQR3BhblhZcG5Fc3NaSmVzQTRRTWNqbExQZF92VExodmlxcTRIUm0yb0E?oc=5"
         }
       ],
       "keywords": [
@@ -246,13 +270,13 @@
       ]
     },
     {
-      "id": "9c40cca1d3b6",
+      "id": "68cfd7b6e339",
       "title": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道",
-      "published": "2026-04-24T01:00:43+00:00",
+      "published": "2026-04-24T01:09:58+00:00",
       "sources": [
         {
-          "name": "匯流新聞網",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNTkNDSEZUWXR6SjhrV0s2dE1pNi1NZUJQZlloem5CMFBMZ0FwT3U2X25SdWlLenVMNEtrdEJoYklTbWRzLU44b19KWFZwVlFnUVh6UzJVS3g0UHg1dzRkWFUwZTN3WUt0RWtGRFJKSFh3dXluRTVFa1ZqUFhvSVF3ZDBONXIxazJtd1hENUVpSGpFU3pEVER2RzlPaFVScU1YUTAxVjRSS21fZGdMcUhjR2QtcTE2cTBvUlVsUDZwZl9PYVhmTFI2TVBJWFNPVVFMRDRwcHQzR1I0NG1ULXJuUHpTRGFaRHB5eU02S2dHSnRxcmIzOFlGZzJSSVpQSFFlWTM3RzE0RklwSWw3WER0Y3J2RnFBUVhtZUl5QmJDOHJrd1lkb2ZwN3hVMlRfUFVQQkF0aGZxQWtDYWdLRk9JeVNEdlk?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNaXJwS2hSR2xSRFhPdzRxc1FmblVBMVJxeVRSSTh2TmdYcU0tSXhlamcyOGFSYm0wTGRnT0s3SU1OMEwzRTZyZ3VUYUFPZ04xM2FxZlJTSFl4MDJ0bXVRNnhreEZKc3k2SnhiM3c1TFZ2MWZlNVdPaHhCUDZ2MUpLM1UxSXptOG5udGhRYWZBbXRiTkpDWDJ6eDdIT0JUcmdCTE1QekZzLTdPYTRCRmFLNm1Ec1NoUFpWazRHajdLUzA1ZnJnVzlmbUdBNFh2eDlsbExMZjI5VFVZMWtEdng2UWdoRm80bVlsU2gxN1psX1A1MlNFeXZvLUZBM1p2bEgyZkNvcFlHREQ2dw?oc=5"
         }
       ],
       "keywords": [

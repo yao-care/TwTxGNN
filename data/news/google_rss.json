@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-25T15:33:20.044552+00:00",
-  "count": 19,
+  "fetched_at": "2026-04-25T16:32:07.708035+00:00",
+  "count": 20,
   "news": [
     {
       "id": "2063f4f7d126",
@@ -88,14 +88,26 @@
       ]
     },
     {
-      "id": "ac1d5a1be04e",
+      "id": "482666a9e86c",
       "title": "別只關注久坐傷身 最新研究：坐著時「做對事」可預防失智症 - 元氣網",
       "published": "2026-04-25T01:09:25+00:00",
       "summary": "別只關注久坐傷身 最新研究：坐著時「做對事」可預防失智症&nbsp;&nbsp;元氣網",
       "sources": [
         {
           "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94TDVrN1lOQ0pLalRyaEtlSU95d19ydTlZcXpoX1pPR29YRUFIdEN0dVg3RlNhQll4YlBHcGFuWFlwbkVzc1pKZXNBNFFNY2psTFBkX3ZUTGh2aXFxNEhSbTJvQdIBY0FVX3lxTE94TDVrN1lOQ0pLalRyaEtlSU95d19ydTlZcXpoX1pPR29YRUFIdEN0dVg3RlNhQll4YlBHcGFuWFlwbkVzc1pKZXNBNFFNY2psTFBkX3ZUTGh2aXFxNEhSbTJvQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwMFRybWxfTkdNbklwd2NWeDNnaDVmc0Q3Y3plLTZsR1BBZmpNcUswSzdrZDU2VXY1bEw0UWRrd3ZxTDBUX0VPdlUwQkZnVlBrdW1QdGVmYnplV0NxdFHSAWNBVV95cUxPeEw1azdZTkNKS2pUcmhLZUlPeXdfcnU5WXF6aF9aT0dvWEVBSHRDdHVYN0ZTYUJZeGJQR3BhblhZcG5Fc3NaSmVzQTRRTWNqbExQZF92VExodmlxcTRIUm0yb0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1c61e641c38c",
+      "title": "科學家首次發現了憂鬱症背後的腦細胞。 - arch-web.com.tw",
+      "published": "2026-04-25T16:10:16+00:00",
+      "summary": "科學家首次發現了憂鬱症背後的腦細胞。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQM1E4T3hmeEJaQy0waHFtUmxDb1E2Wm45ck41UTNWTnJZM1NHT3c0MDkyekdESnlGdkg4Vkg4a1BHejUybFl6YmxnSG01Wi1YeE02VWR6bEtkSkZkVHJUdW9LRWI2V3cyZVQyaVdXRHY4aFFJdTI1aHZQV2FJYy0zMlVfeFVQb2VFY3FyenVsRHFWTHlyX1BVbDExSTB4NWNMU0tRTXRYWXdBcEpvM0hyWXBETHdMcTVla1gwd3JfZjZRTXF5TFhobUF3N1hEd1NzYmEtQWNVZXlzdVJFTlB0a3k5OTdMMWRiWDh5aktNaGE4WXNwVzZodFJialN2ell1eHR1TENJWGo3cXU3T3JkS0t0azVicnIyZUh0VkdMTmt4dHRCbVRKVXZmX2swTnhxMmhkdGtsal9KWjJ4QWl6cUZnSVNmMEh0alp4LXdoSGhJZGdyWHc?oc=5"
         }
       ]
     },
@@ -124,14 +136,14 @@
       ]
     },
     {
-      "id": "9c40cca1d3b6",
-      "title": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道 - 匯流新聞網",
-      "published": "2026-04-24T01:00:43+00:00",
-      "summary": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道&nbsp;&nbsp;匯流新聞網",
+      "id": "68cfd7b6e339",
+      "title": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道 - Yahoo新聞",
+      "published": "2026-04-24T01:09:58+00:00",
+      "summary": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "匯流新聞網",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNTkNDSEZUWXR6SjhrV0s2dE1pNi1NZUJQZlloem5CMFBMZ0FwT3U2X25SdWlLenVMNEtrdEJoYklTbWRzLU44b19KWFZwVlFnUVh6UzJVS3g0UHg1dzRkWFUwZTN3WUt0RWtGRFJKSFh3dXluRTVFa1ZqUFhvSVF3ZDBONXIxazJtd1hENUVpSGpFU3pEVER2RzlPaFVScU1YUTAxVjRSS21fZGdMcUhjR2QtcTE2cTBvUlVsUDZwZl9PYVhmTFI2TVBJWFNPVVFMRDRwcHQzR1I0NG1ULXJuUHpTRGFaRHB5eU02S2dHSnRxcmIzOFlGZzJSSVpQSFFlWTM3RzE0RklwSWw3WER0Y3J2RnFBUVhtZUl5QmJDOHJrd1lkb2ZwN3hVMlRfUFVQQkF0aGZxQWtDYWdLRk9JeVNEdlk?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNaXJwS2hSR2xSRFhPdzRxc1FmblVBMVJxeVRSSTh2TmdYcU0tSXhlamcyOGFSYm0wTGRnT0s3SU1OMEwzRTZyZ3VUYUFPZ04xM2FxZlJTSFl4MDJ0bXVRNnhreEZKc3k2SnhiM3c1TFZ2MWZlNVdPaHhCUDZ2MUpLM1UxSXptOG5udGhRYWZBbXRiTkpDWDJ6eDdIT0JUcmdCTE1QekZzLTdPYTRCRmFLNm1Ec1NoUFpWazRHajdLUzA1ZnJnVzlmbUdBNFh2eDlsbExMZjI5VFVZMWtEdng2UWdoRm80bVlsU2gxN1psX1A1MlNFeXZvLUZBM1p2bEgyZkNvcFlHREQ2dw?oc=5"
         }
       ]
     },
@@ -196,6 +208,18 @@
       ]
     },
     {
+      "id": "59c21f2abef2",
+      "title": "【健康】從「似感冒」到命危 腦膜炎雙球菌致命24小時 - 堅料",
+      "published": "2026-04-25T16:01:00+00:00",
+      "summary": "【健康】從「似感冒」到命危 腦膜炎雙球菌致命24小時&nbsp;&nbsp;堅料",
+      "sources": [
+        {
+          "name": "堅料",
+          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNcGl1eHhrNnZzZ0tWeUctdWg2TGV2SjMtc2I3akV5MmJzZ1ZYTGMtNjRjSUVBLW5KbU5LTlp3QkVjOW14ak1GcFpCSzBoTkdZUTBTd0xDMVpfa0xUS0pTY1g3aUkzektmYm5tdE82NkxFQW9qMmVacEFONFFYTnh0YURZXzNJTUUzVU8zMlRQX29zNVdJQUxDN1llQS0yc0RzeWRXdHlsUC1idUIzVDBtM3JfTnRPcWxFcnI3S2JpUnZNVHdKd0xCdE5adHRZTXB0alExVHl5Wi1oMFRTUjlSbTlQdnVZVnhBSDM2T0tUbFJjMlRXQmJnZlh1Y2ZkRXhfU0o5NXlXTWFIV2hEdFByWVBRUjg4Qm83b0ZOVW9YaEFsOVlqOXJ3WWRlS2Y0Q0RRaVhRNk1vRTM4aUgwalgzbFB2SGpvaFg5SjZabEloaWVNdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c2d1b44987ca",
       "title": "口腔潰瘍兩周沒好恐是口腔癌 醫生教4辨別方法 3招緩解經常口乾 - 香港01",
       "published": "2026-04-24T02:01:35+00:00",
@@ -204,18 +228,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxOU2JhVVFJVzVIdmZWRXl3MFUxcE0xNndkMERvS21sU1VJNkphUUhqTnNIandhUmVvVzRZelJDekl0MFBBZTR0SnJSa2V0TnpwdjBfdTZlcEJMVXdVZ2FfZTlFUFJ1MGdMN2FMMFVDMFRWNlpqWTNaVm8wOXJSanR3cElUdGM1S0UwTUdCT1BsNWpnR3A4SDhvTXE0TFYySjU5WENmcDBCNEtrcG93UWJaU1ROSXlxclFBX3AtVlVMYWx3dm5vZGlYbnVBbXE0UWpxR1pEQjBuTldXUXN6by03djU0MnRKZWxoWk1VMDBKTmhtalZpMURocTFmVGJNSEN0WlpkZzNDejhtcW9KSEdtNXFiRTF4RVVMcDJ3QVRpR25xQlJlU0FNYWZsYjM1cnoySnMzbjRQUjh2RUpYNEpvRDNNaWhnUW1janUxcC1uWFU4RVBzbHFZYkttbXEtWnctZ2ZHaUs4TTR5NTFITlRtdkJLU1RaZ0dWaURXWWFFbkZ4WFhoMXgwYjJyUGxwcVlqSGYyeG5jMUgxX1FISm5MeHN3TlBwNFU5UUluMg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "783f03abd0a3",
-      "title": "腦膜炎雙球菌或會有健康「帶菌者」？中招後3大危險警號：出現「極嚴重頭痛」｜親子健康 - 星島頭條",
-      "published": "2026-04-25T04:36:35+00:00",
-      "summary": "腦膜炎雙球菌或會有健康「帶菌者」？中招後3大危險警號：出現「極嚴重頭痛」｜親子健康&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNdnMzZlRQY3J0NzFIS2VoWTItcWdFQVlIQ0Jiakw4VklVdmlfekx3bnhrWk5vLWpqMm9Yam5yWkZZNzZPWEdBVXNxbG5VTjNWbTdNSkF3TEUxSzJCM3RPbDVzUllTMlRNeWNEZnFtSU1lNFBwR2xrM0p5a1l6RDlUMS1nb1dfNjNNaFd1Q3pIQlR2NmVXalVodms3blBocV9DWk5OaXdtZXJScXltMmxFbzA2cHhHekJ0TE54MFUxbng4NWY3T3pDMXJPTXJwNEU3Y2ZMWlMzWlJjU3dkbDZFaC1tcFE5T2hualZicU9yNnZ1WnB0Ul9XNjFJbjF3RklDLVhZMlZRcThTMkd4ZlF3UTRwWXI0eVZadnVQRE1wZXB6UVY5OXR1TTBGQlNZc1ZNSjl5c3M3eXZtTnlaSHp4V3JKb2JQSmFobVVGVktDX2lzV3lZaFNzRWtMZ1AtaUpMcUhkRzdENWtvdUhPUUZzZXBUSzNJaS11Zzl4SWFhazZ3d005dE92R19ER1ROcmk0U0JLNGRCY2NHU3RmM09nOWUwWkVMQlUteHlhRFVtN3F0QktyUEVkSVBtc3pEQURDNFVxekFiOW9BeEJoa2VmU3JEMTNQbVRVN0NkRmJ6UmFaWGU5QlE?oc=5"
         }
       ]
     },
