@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T20:29:55.556517+00:00",
+  "last_updated": "2026-04-25T21:28:38.190690+00:00",
   "total_count": 22,
   "matched_count": 4,
   "news": [
@@ -316,6 +316,19 @@
       "matched_keywords": []
     },
     {
+      "id": "ba7d51e36897",
+      "title": "挑戰認知拒絕萎縮，長者善用 AI 訓練腦力 | 科技新報 - LINE TODAY",
+      "published": "2026-04-25T01:19:17+00:00",
+      "summary": "挑戰認知拒絕萎縮，長者善用 AI 訓練腦力 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTVUtZcE4xdUFkd2xULVhtdTgyVXV1dFpTdzBfbVQ5SWpFd0k3MEY2dTVpNnlhdlA0dVhscDRqQmhRcFc3Uk9saWlZVGJ2RlJOV19GMWNR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "482666a9e86c",
       "title": "別只關注久坐傷身 最新研究：坐著時「做對事」可預防失智症",
       "published": "2026-04-25T01:09:25+00:00",
@@ -360,19 +373,6 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0VDI0eWR3WUljaXlmVjJFYmwzMmlvUTlFVzhaWEpCb3JoUFp3UXBRbVBfOUxsYmlibTh1cGkzTDc2cHNyUG1JakxpT1l4UXJZWFRxR3FTX2h1NDFwWmp5SndOMHh0RVBqREp0Qlpn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4c3e25bdc694",
-      "title": "挑戰認知拒絕萎縮，長者善用 AI 訓練腦力 - TechNews 科技新報",
-      "published": "2026-04-24T16:17:47+00:00",
-      "summary": "挑戰認知拒絕萎縮，長者善用 AI 訓練腦力&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tcXFkNTQxa2RlNld3YUYtWmt2cUpNTmd4eGtrVmxXNHF5Y3FybWJpZy1aa1RvSU1ELVNFVUZwSFBZanB4a1R3REN2X0pKcy1WdW9jbF9n?oc=5"
         }
       ],
       "matched_keywords": []
