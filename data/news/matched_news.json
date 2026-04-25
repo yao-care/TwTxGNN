@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-25T08:00:45.532072+00:00",
-  "total_count": 24,
-  "matched_count": 5,
+  "last_updated": "2026-04-25T09:42:58.527375+00:00",
+  "total_count": 22,
+  "matched_count": 4,
   "news": [
     {
       "id": "58690feba6a2",
@@ -142,39 +142,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "857bfe3605f5",
-      "title": "痛風飲食｜醫生推4種降尿酸食物豆腐都得！防痛風7招日飲2公升水",
-      "published": "2026-04-24T09:04:19+00:00",
-      "summary": "痛風飲食｜醫生推4種降尿酸食物豆腐都得！防痛風7招日飲2公升水&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxQRHZkNFNqRmdqcXBtOVhOTXFxcVZPT2tHQ2JiTHJBN25zMTFPbTNnSUZlUGVIRjEwMTl2US1Kb1dBRUlXU3JycTFlSGNtdlpUaG9zUS1fMzRRTkZZRExta1U0d1VoaGVxM0x2RUtzanpiUUJ1VFJpRWt6VUxDNm02ZVN3Wmo5YXRtalp5UWFiM081U2JjNThtb0Z0STZRdnRDSlRPOHc5YjlfUlU0Z1g2dGV4SGw1MzRUSU5PdWNhWHBrMkxhclNnOERoYnNFdE5PZU91emNha1NBeDdfU3k0V253UnZPeGpQcTZQaU9NTkJDOGIwa3I4UnkyNDREQnZJcERWSXRyY3dJc0tLWW53dUhQTnY0djVYLXFHNDhQVm1uaF9vNFQ5ZENpbXdFV0xyRGVCQzVmMy1HNW9td3huUFl3Z2x5SzBQaGxkRWxfREdDSWJJcUlRRFlRUGF2ajRLMUJjbUpMMXpZZTZkWFBPT0ktOWdLcEFZZHluUzVhWVMwODcwQW0xZS1ZWHpmbzZFYk1vVjNIS2czN252?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "gout",
-          "keyword": "痛風",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "sulfamerazine",
-              "name": "Sulfamerazine"
-            },
-            {
-              "slug": "sulfamethazine",
-              "name": "Sulfamethazine"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "5057c9424a00",
@@ -571,19 +538,6 @@
         {
           "name": "優活健康網",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lZHVmT01JSWp2OENzWGpaX3ZMX0RGNEtINFFza25QX0hMOHNabnpDR1JtTnRpNVUwR2d0VVIzQW5WeG05Q1NWX3JBZlllWUJvOFZF?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fd337180aaa5",
-      "title": "內地流感病毒活動水平上升 需關注蚊媒傳染病",
-      "published": "2026-04-23T08:37:24+00:00",
-      "summary": "內地流感病毒活動水平上升 需關注蚊媒傳染病&nbsp;&nbsp;on.cc東網大陸「五一連假」將近陸疾控局：流感病毒活躍度上升| 大陸傳真| 兩岸&nbsp;&nbsp;聯合新聞網國家疾控局：內地流感病毒和鼻病毒的活動水平呈上升趨勢麻疹發病率處歷史低位- 內地&nbsp;&nbsp;大公文匯網內地本月流感和鼻病毒活動水平趨升&nbsp;&nbsp;澳門廣播電視股份有限公司內地流感鼻病毒趨活躍 國家疾管局提醒「五一」假留意目的地疫情 (19:00) - 20260422 - 熱點&nbsp;&nbsp;明報新聞網",
-      "sources": [
-        {
-          "name": "on.cc東網",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1dBeGQwSVRZYWNIWHI2QVhnVmFQdlBXTWJySFRBVDQwMk1JWmxuU0xkMFdRMnlKa2NuVkxlYjNhS0dKTV9LZXRyY0d0QkRPU0g1NG1MaW1aRWFpV0ttXzNnVDVlZHdkMl9PbWZNZkI1ZVZQenJXQUN6U1otQWFNYm1oN290OXZKWEFF?oc=5"
         }
       ],
       "matched_keywords": []

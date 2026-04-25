@@ -3,7 +3,7 @@ layout: default
 title: "Flunitrazepam 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Flunitrazepam 的相關健康新聞報導。原適應症：。預測適應症 3 個。"
+description: "Flunitrazepam 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
 permalink: /news/flunitrazepam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/flunitrazepam/
 ---
 
 <p class="key-answer" data-question="Flunitrazepam 有什麼相關新聞？">
-<strong>Flunitrazepam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Flunitrazepam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,17 @@ permalink: /news/flunitrazepam/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（3 個）：<ul>
-<li>失眠（疾病）（1.0%）</li>
-<li>偏頭痛（1.0%）</li>
-<li>焦慮（1.0%）</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>insomnia (disease)（99.9%）</li>
+<li>migraine disorder（99.7%）</li>
+<li>migraine with brainstem aura（99.6%）</li>
+<li>anxiety（99.6%）</li>
+<li>anxiety disorder（99.6%）</li>
+<li>alcohol withdrawal delirium（99.5%）</li>
+<li>migraine with or without aura, susceptibility to（99.5%）</li>
+<li>agoraphobia（99.4%）</li>
+<li>benign paroxysmal torticollis of infancy（99.4%）</li>
+<li>atrophoderma vermiculata（99.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/flunitrazepam/' | relative_url }}">查看完整藥物報告 →</a></p>

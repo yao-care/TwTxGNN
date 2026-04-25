@@ -26,11 +26,11 @@ permalink: /news/griseofulvin/
 <ul>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（5 個）：<ul>
-<li>蠅蛆症（1.0%）</li>
-<li>疥蟲性蠅蛆症（1.0%）</li>
-<li>傷口蠅蛆症（1.0%）</li>
-<li>爬行性蠅蛆症（1.0%）</li>
-<li>包蟲病（1.0%）</li>
+<li>myiasis（99.4%）</li>
+<li>furuncular myiasis（99.3%）</li>
+<li>wound myiasis（99.3%）</li>
+<li>creeping myiasis（99.3%）</li>
+<li>echinococcus granulosus infectious disease（99.3%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/griseofulvin/' | relative_url }}">查看完整藥物報告 →</a></p>

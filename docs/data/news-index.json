@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-25T08:00:45.549347+00:00",
-  "count": 5,
+  "generated": "2026-04-25T09:42:58.558707+00:00",
+  "count": 4,
   "news": [
     {
       "id": "ac1d5a1be04e",
@@ -32,38 +32,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "857bfe3605f5",
-      "title": "痛風飲食｜醫生推4種降尿酸食物豆腐都得！防痛風7招日飲2公升水",
-      "published": "2026-04-24T09:04:19+00:00",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxQRHZkNFNqRmdqcXBtOVhOTXFxcVZPT2tHQ2JiTHJBN25zMTFPbTNnSUZlUGVIRjEwMTl2US1Kb1dBRUlXU3JycTFlSGNtdlpUaG9zUS1fMzRRTkZZRExta1U0d1VoaGVxM0x2RUtzanpiUUJ1VFJpRWt6VUxDNm02ZVN3Wmo5YXRtalp5UWFiM081U2JjNThtb0Z0STZRdnRDSlRPOHc5YjlfUlU0Z1g2dGV4SGw1MzRUSU5PdWNhWHBrMkxhclNnOERoYnNFdE5PZU91emNha1NBeDdfU3k0V253UnZPeGpQcTZQaU9NTkJDOGIwa3I4UnkyNDREQnZJcERWSXRyY3dJc0tLWW53dUhQTnY0djVYLXFHNDhQVm1uaF9vNFQ5ZENpbXdFV0xyRGVCQzVmMy1HNW9td3huUFl3Z2x5SzBQaGxkRWxfREdDSWJJcUlRRFlRUGF2ajRLMUJjbUpMMXpZZTZkWFBPT0ktOWdLcEFZZHluUzVhWVMwODcwQW0xZS1ZWHpmbzZFYk1vVjNIS2czN252?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "gout",
-          "keyword": "痛風",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "sulfamerazine",
-              "name": "Sulfamerazine"
-            },
-            {
-              "slug": "sulfamethazine",
-              "name": "Sulfamethazine"
             }
           ]
         }

@@ -27,16 +27,16 @@ permalink: /news/tiaprofenic_acid/
 <li><strong>原適應症</strong>：消炎鎮痛</li>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>Brachydactyly-Syndactyly Syndrome | 99.99% | 骨骼發育異常（99.0%）</li>
-<li>Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome | 99.99% | 骨骼發育異常（99.0%）</li>
-<li>Brachyolmia-Amelogenesis Imperfecta Syndrome | 99.99% | 骨骼發育異常（99.0%）</li>
-<li>Acromesomelic Dysplasia, Hunter-Thompson Type | 99.99% | 骨骼發育異常（99.0%）</li>
-<li>Myosclerosis | 99.99% | 肌肉疾病（99.0%）</li>
-<li>Spondyloarthropathy, Susceptibility to | 99.99% | 脊椎關節病變（99.0%）</li>
-<li>Brachyolmia | 99.99% | 骨骼發育異常（99.0%）</li>
-<li>Factor 5 Excess with Spontaneous Thrombosis | 99.98% | 凝血異常（99.0%）</li>
-<li>Heparin Cofactor 2 Deficiency | 99.98% | 凝血異常（99.0%）</li>
-<li>Pseudoachondroplasia | 99.98% | 骨骼發育異常（99.0%）</li>
+<li>brachydactyly-syndactyly syndrome（100.0%）</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（100.0%）</li>
+<li>brachyolmia-amelogenesis imperfecta syndrome（100.0%）</li>
+<li>acromesomelic dysplasia, Hunter-Thompson type（100.0%）</li>
+<li>myosclerosis（100.0%）</li>
+<li>spondyloarthropathy, susceptibility to（100.0%）</li>
+<li>brachyolmia（100.0%）</li>
+<li>factor 5 excess with spontaneous thrombosis（100.0%）</li>
+<li>heparin cofactor 2 deficiency（100.0%）</li>
+<li>pseudoachondroplasia（100.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tiaprofenic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Gefitinib 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Gefitinib 的相關健康新聞報導。原適應症：。預測適應症 5 個。"
+description: "Gefitinib 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
 permalink: /news/gefitinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 5 個。
+<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,17 @@ permalink: /news/gefitinib/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（5 個）：<ul>
-<li>牙齦纖維瘤（1.0%）</li>
-<li>肺纖維瘤（1.0%）</li>
-<li>額顳葉失智伴肌病（1.0%）</li>
-<li>肺錯構瘤（1.0%）</li>
-<li>肺門癌（1.0%）</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>fibromatosis, gingival（99.9%）</li>
+<li>fibroma of lung（99.9%）</li>
+<li>inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia（99.9%）</li>
+<li>hamartoma of lung（99.9%）</li>
+<li>lung hilum carcinoma（99.9%）</li>
+<li>lung benign neoplasm（99.8%）</li>
+<li>Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome（99.8%）</li>
+<li>lung germ cell tumor（99.8%）</li>
+<li>pulmonary sulcus neoplasm（99.8%）</li>
+<li>junctional epidermolysis bullosa（99.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>

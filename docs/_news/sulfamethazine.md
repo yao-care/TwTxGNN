@@ -14,7 +14,7 @@ permalink: /news/sulfamethazine/
 ---
 
 <p class="key-answer" data-question="Sulfamethazine 有什麼相關新聞？">
-<strong>Sulfamethazine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Sulfamethazine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/sulfamethazine/
 <li><strong>原適應症</strong>：磺胺劑、革蘭氏陽性及陰性菌感染症</li>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（6 個）：<ul>
-<li class="indication-matched">gout（99.9%）<span class="indication-tag">📰 痛風</span></li>
+<li>gout（99.9%）</li>
 <li>brain small vessel disease 1 with or without ocular anomalies（99.8%）</li>
 <li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome（99.8%）</li>
 <li>diabetic nephropathy（99.8%）</li>
@@ -38,15 +38,9 @@ permalink: /news/sulfamethazine/
 <p><a href="{{ '/drugs/sulfamethazine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [痛風飲食｜醫生推4種降尿酸食物豆腐都得！防痛風7招日飲2公升水](https://news.google.com/rss/articles/CBMinANBVV95cUxQRHZkNFNqRmdqcXBtOVhOTXFxcVZPT2tHQ2JiTHJBN25zMTFPbTNnSUZlUGVIRjEwMTl2US1Kb1dBRUlXU3JycTFlSGNtdlpUaG9zUS1fMzRRTkZZRExta1U0d1VoaGVxM0x2RUtzanpiUUJ1VFJpRWt6VUxDNm02ZVN3Wmo5YXRtalp5UWFiM081U2JjNThtb0Z0STZRdnRDSlRPOHc5YjlfUlU0Z1g2dGV4SGw1MzRUSU5PdWNhWHBrMkxhclNnOERoYnNFdE5PZU91emNha1NBeDdfU3k0V253UnZPeGpQcTZQaU9NTkJDOGIwa3I4UnkyNDREQnZJcERWSXRyY3dJc0tLWW53dUhQTnY0djVYLXFHNDhQVm1uaF9vNFQ5ZENpbXdFV0xyRGVCQzVmMy1HNW9td3huUFl3Z2x5SzBQaGxkRWxfREdDSWJJcUlRRFlRUGF2ajRLMUJjbUpMMXpZZTZkWFBPT0ktOWdLcEFZZHluUzVhWVMwODcwQW0xZS1ZWHpmbzZFYk1vVjNIS2czN252?oc=5)
-
-2026-04-24 <span class="news-indication-tag">痛風</span>
-
-來源：[香港01](https://news.google.com/rss/articles/CBMinANBVV95cUxQRHZkNFNqRmdqcXBtOVhOTXFxcVZPT2tHQ2JiTHJBN25zMTFPbTNnSUZlUGVIRjEwMTl2US1Kb1dBRUlXU3JycTFlSGNtdlpUaG9zUS1fMzRRTkZZRExta1U0d1VoaGVxM0x2RUtzanpiUUJ1VFJpRWt6VUxDNm02ZVN3Wmo5YXRtalp5UWFiM081U2JjNThtb0Z0STZRdnRDSlRPOHc5YjlfUlU0Z1g2dGV4SGw1MzRUSU5PdWNhWHBrMkxhclNnOERoYnNFdE5PZU91emNha1NBeDdfU3k0V253UnZPeGpQcTZQaU9NTkJDOGIwa3I4UnkyNDREQnZJcERWSXRyY3dJc0tLWW53dUhQTnY0djVYLXFHNDhQVm1uaF9vNFQ5ZENpbXdFV0xyRGVCQzVmMy1HNW9td3huUFl3Z2x5SzBQaGxkRWxfREdDSWJJcUlRRFlRUGF2ajRLMUJjbUpMMXpZZTZkWFBPT0ktOWdLcEFZZHluUzVhWVMwODcwQW0xZS1ZWHpmbzZFYk1vVjNIS2czN252?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
