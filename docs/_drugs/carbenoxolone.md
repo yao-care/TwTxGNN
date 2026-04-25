@@ -1,18 +1,25 @@
 ---
 layout: default
 title: Carbenoxolone
-description: "Carbenoxolone 的老藥新用潛力分析。模型預測等級 L5，包含 7 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
-nav_order: 39
-evidence_level: L4
+nav_order: 52
+evidence_level: L5
 indication_count: 7
 ---
 
 # Carbenoxolone
+{: .fs-9 }
 
-<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
-證據等級: <strong>L5</strong> | 預測適應症: <strong>7</strong> 個
-</p>
+證據等級: **L5** | 預測適應症: **7** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
@@ -25,158 +32,44 @@ indication_count: 7
 # Carbenoxolone：從消化性潰瘍到非症候群性食道畸形
 
 ## 一句話總結
-<p class="key-answer" data-question="Carbenoxolone 可以用於治療什麼新適應症？">
 Carbenoxolone 原為治療胃潰瘍及口內潰瘍的甘草酸衍生物，TxGNN 預測其可能對非症候群性食道畸形(non-syndromic esophageal malformation)有治療潛力。
-</p>
-
 
 ## 快速總覽
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 胃潰瘍、十二指腸潰瘍、口內炎性潰瘍 |
-| 預測新適應症 | non-syndromic esophageal malformation、esophageal disease、vitamin deficiency disorder、biotin metabolic disease、filariasis、esophageal ulcer、bile duct disease |
+| 預測新適應症 | 非症候群性食道畸形 (non-syndromic esophageal malformation) |
 | TxGNN 預測分數 | 99.9988% |
 | 證據等級 | L5 (僅預測) |
 | 台灣上市 | 部分已上市(多數已註銷) |
 | 許可證數 | 29張(大部分已註銷，4張有效) |
 | 建議決策 | Hold |
 
+## 為什麼這個預測合理？
+Carbenoxolone 是甘草次酸(glycyrrhetinic acid)的琥珀酸酯衍生物：
 
+1. **黏膜保護作用**：增加胃黏膜黏液及碳酸氫鹽分泌
+2. **抗炎特性**：抑制前列腺素代謝
+3. **促進潰瘍癒合**：增強上皮再生
 
+然而，對於此預測需謹慎：
+- 非症候群性食道畸形是先天性結構異常，如食道閉鎖、食道氣管瘻管
+- 此類疾病主要需要外科手術矯正，而非藥物治療
+- Carbenoxolone 的黏膜保護機轉與先天性畸形的病理機制無直接關聯
 
+## 臨床試驗證據
+無針對 carbenoxolone 治療食道畸形的臨床試驗。
 
+## 文獻證據
+PubMed 檢索僅發現1篇間接相關文獻：
 
-## 預測適應症詳細分析
+**Mall A 等人 (1991)** - *American Journal of Medicine*
+- 研究 sucralfate 在豬膽管結紮誘發食道潰瘍模型中的作用
+- Carbenoxolone 被作為對照組藥物
+- 研究顯示 sucralfate 優於 carbenoxolone 促進潰瘍癒合
+- 此研究與食道畸形無直接關聯
 
-<details class="indication-section" open>
-<summary>
-<span class="indication-name">1. non-syndromic esophageal malformation</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
-</summary>
-<div class="indication-content">
-
-<h3>為什麼這個預測合理？</h3>
-
-<p>Carbenoxolone 是甘草次酸(glycyrrhetinic acid)的琥珀酸酯衍生物：</p>
-
-<ol>
-<li><strong>黏膜保護作用</strong>：增加胃黏膜黏液及碳酸氫鹽分泌</li>
-<li><strong>抗炎特性</strong>：抑制前列腺素代謝</li>
-<li><strong>促進潰瘍癒合</strong>：增強上皮再生</li>
-
-</ol>
-<p>然而，對於此預測需謹慎：</p>
-<ul>
-<li>非症候群性食道畸形是先天性結構異常，如食道閉鎖、食道氣管瘻管</li>
-<li>此類疾病主要需要外科手術矯正，而非藥物治療</li>
-<li>Carbenoxolone 的黏膜保護機轉與先天性畸形的病理機制無直接關聯</li>
-</ul>
-
-<h3>臨床試驗</h3>
-
-<p>目前無針對此特定適應症的臨床試驗登記。</p>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">2. vitamin deficiency disorder</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.97%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">3. biotin metabolic disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.97%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">4. filariasis</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.94%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">5. bile duct disease</span>
-<span class="evidence-badge evidence-L4">L4</span>
-<span class="prediction-score">99.54%</span>
-</summary>
-<div class="indication-content">
-
-<h3>相關文獻（1 篇）</h3>
-
-<table>
-<thead>
-<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1715672/" target="_blank">1715672</a></td><td>1991</td><td>Article</td><td>The American journal of medici</td><td>Administration of sucralfate prolongs survival of animals with experimental pept...</td></tr>
-</tbody>
-</table>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">6. bile duct neoplasm</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.48%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">7. tinea nigra</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.22%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
+無其他支持 carbenoxolone 用於食道畸形的文獻證據。
 
 ## 台灣上市資訊
 Carbenoxolone 在台灣的許可證狀態：
@@ -234,49 +127,5 @@ Carbenoxolone 在台灣的許可證狀態：
 
 **特別注意**：此預測極可能為 TxGNN 演算法基於解剖位置或疾病分類關聯產生的偽陽性結果。非症候群性食道畸形為手術適應症，藥物治療無法取代手術矯正。
 
-
 ---
 
-## 相關藥物報告
-
-- [Bempedoic Acid]({{ "/drugs/bempedoic_acid/" | relative_url }}) - 證據等級 L5
-- [Warfarin Af]({{ "/drugs/warfarin_af/" | relative_url }}) - 證據等級 L5
-- [Buprenorphine]({{ "/drugs/buprenorphine/" | relative_url }}) - 證據等級 L5
-- [Leflunomide]({{ "/drugs/leflunomide/" | relative_url }}) - 證據等級 L5
-- [Methocarbamol]({{ "/drugs/methocarbamol/" | relative_url }}) - 證據等級 L5
-
----
-
-{% include ai-analysis.html %}
-
-{% include social-share.html %}
-
-## 引用本報告
-
-如需引用本報告，請使用以下格式：
-
-**APA 格式：**
-```
-TwTxGNN. (2026). Carbenoxolone老藥新用驗證報告. https://twtxgnn.yao.care/drugs/carbenoxolone/
-```
-
-**BibTeX 格式：**
-```bibtex
-@misc{twtxgnn_carbenoxolone,
-  title = {Carbenoxolone老藥新用驗證報告},
-  author = {TwTxGNN Team},
-  year = {2026},
-  url = {https://twtxgnn.yao.care/drugs/carbenoxolone/}
-}
-```
-
----
-
-<div class="disclaimer">
-<strong>免責聲明</strong><br>
-本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
-<br><br>
-<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
-</div>
-
-{% include giscus.html %}

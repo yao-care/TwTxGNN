@@ -1,18 +1,25 @@
 ---
 layout: default
 title: Nebivolol
-description: "Nebivolol 的老藥新用潛力分析。模型預測等級 L5，包含 5 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
-nav_order: 112
-evidence_level: L4
+nav_order: 175
+evidence_level: L5
 indication_count: 5
 ---
 
 # Nebivolol
+{: .fs-9 }
 
-<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
-證據等級: <strong>L5</strong> | 預測適應症: <strong>5</strong> 個
-</p>
+證據等級: **L5** | 預測適應症: **5** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
@@ -26,9 +33,7 @@ indication_count: 5
 
 ## 一句話總結
 
-<p class="key-answer" data-question="Nebivolol 可以用於治療什麼新適應症？">
 Nebivolol 是一種具有血管擴張作用的高選擇性 beta-1 阻斷劑，TxGNN 預測其對惡性腎血管性高血壓和肺高壓有治療潛力，這些預測與其已知的降血壓和心血管保護機轉具有合理的藥理學關聯。
-</p>
 
 ---
 
@@ -40,160 +45,75 @@ Nebivolol 是一種具有血管擴張作用的高選擇性 beta-1 阻斷劑，Tx
 | DrugBank ID | DB04861 |
 | 台灣商品名 | 舒爾脈錠、耐比洛錠、欣倍泰錠 |
 | 原核准適應症 | 治療原發性高血壓 |
-| 預測新適應症 | malignant renovascular hypertension、malignant hypertensive renal disease、pulmonary hypertension owing to lung disease and/or hypoxia、pulmonary hypertension with unclear multifactorial mechanism、hypertensive disorder |
+| 預測新適應症 | 惡性腎血管性高血壓、惡性高血壓性腎病、肺高壓（低氧相關）、Braddock 症候群 |
 | 最高預測分數 | 0.9942（惡性腎血管性高血壓） |
 | 證據等級 | L5（僅預測）至 L3（文獻支持） |
 
 ---
 
+## 為什麼這個預測合理？
 
+### 藥理機轉分析
 
+Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：
+1. 高選擇性 beta-1 受體阻斷
+2. 透過 L-arginine/一氧化氮途徑的血管擴張作用
 
+其機轉與預測適應症的關聯：
 
-## 預測適應症詳細分析
+1. **惡性腎血管性高血壓/惡性高血壓性腎病**（TxGNN Score: 0.9942）
+   - Nebivolol 已獲核准用於原發性高血壓
+   - 其血管擴張作用可能在嚴重高血壓中提供額外益處
+   - 對腎臟血流的影響可能優於傳統 beta 阻斷劑
+   - **預測具合理性**，但需確認在惡性高血壓的療效和安全性
 
-<details class="indication-section" open>
-<summary>
-<span class="indication-name">1. malignant renovascular hypertension</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.42%</span> <span class="primary-badge">主要分析</span>
-</summary>
-<div class="indication-content">
+2. **肺高壓（低氧相關）**（TxGNN Score: 0.9939）
+   - 一氧化氮介導的血管擴張可能對肺血管有益
+   - 傳統 beta 阻斷劑在肺高壓中通常禁忌或需謹慎
+   - Nebivolol 的獨特機轉可能克服這一限制
+   - 文獻有相關低氧和血管調節的研究
 
-<h3>為什麼這個預測合理？</h3>
+3. **Braddock 症候群**（TxGNN Score: 0.9914）
+   - 罕見遺傳性疾病
+   - 與 Nebivolol 機轉關聯不明
+   - **預測合理性較低**
 
-<p>### 藥理機轉分析</p>
+---
 
-<p>Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：</p>
-<ol>
-<li>高選擇性 beta-1 受體阻斷</li>
-<li>透過 L-arginine/一氧化氮途徑的血管擴張作用</li>
+## 臨床試驗證據
 
-</ol>
-<p>其機轉與預測適應症的關聯：</p>
+| 疾病 | 臨床試驗數量 | 最高期別 | 證據等級 |
+|------|-------------|---------|---------|
+| 惡性腎血管性高血壓 | 0 | - | L5 |
+| 肺高壓（低氧相關） | 0 | - | L5 |
+| Braddock 症候群 | 0 | - | L5 |
 
-<ol>
-<li><strong>惡性腎血管性高血壓/惡性高血壓性腎病</strong>（TxGNN Score: 0.9942）</li>
-</ol>
-<ul>
-<li>Nebivolol 已獲核准用於原發性高血壓</li>
-<li>其血管擴張作用可能在嚴重高血壓中提供額外益處</li>
-<li>對腎臟血流的影響可能優於傳統 beta 阻斷劑</li>
-<li><strong>預測具合理性</strong>，但需確認在惡性高血壓的療效和安全性</li>
+**結論：目前無預測適應症進入臨床試驗階段。**
 
-</ul>
-<ol>
-<li><strong>肺高壓（低氧相關）</strong>（TxGNN Score: 0.9939）</li>
-</ol>
-<ul>
-<li>一氧化氮介導的血管擴張可能對肺血管有益</li>
-<li>傳統 beta 阻斷劑在肺高壓中通常禁忌或需謹慎</li>
-<li>Nebivolol 的獨特機轉可能克服這一限制</li>
-<li>文獻有相關低氧和血管調節的研究</li>
+---
 
-</ul>
-<ol>
-<li><strong>Braddock 症候群</strong>（TxGNN Score: 0.9914）</li>
-</ol>
-<ul>
-<li>罕見遺傳性疾病</li>
-<li>與 Nebivolol 機轉關聯不明</li>
-<li><strong>預測合理性較低</strong></li>
-</ul>
+## 文獻證據
 
-<h3>臨床試驗</h3>
+### 肺高壓/低氧相關文獻
 
-<p>目前無針對此特定適應症的臨床試驗登記。</p>
+| PMID | 標題 | 年份 | 類型 |
+|------|------|------|------|
+| 33862277 | Hypoxia and brain aging: Neurodegeneration or neuroprotection? | 2021 | 綜述 |
+| 39841808 | Hypoxia as a medicine | 2025 | 綜述 |
+| 28972206 | Regulation of immunity and inflammation by hypoxia | 2017 | 綜述 |
 
-</div>
-</details>
+**文獻評估**：
+- 上述文獻主要討論低氧對生理和病理的影響
+- 並非直接研究 Nebivolol 用於肺高壓
+- 需要更多直接證據支持此適應症
 
-<details class="indication-section">
-<summary>
-<span class="indication-name">2. malignant hypertensive renal disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.42%</span>
-</summary>
-<div class="indication-content">
+### Nebivolol 的特殊藥理特性（背景知識）
 
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
+- Nebivolol 透過刺激內皮細胞一氧化氮合酶產生血管擴張
+- 此特性使其與其他 beta 阻斷劑不同
+- 理論上可能在肺血管擴張方面有潛力
 
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">3. pulmonary hypertension owing to lung disease and/or hypoxia</span>
-<span class="evidence-badge evidence-L4">L4</span>
-<span class="prediction-score">99.39%</span>
-</summary>
-<div class="indication-content">
-
-<h3>相關文獻（20 篇）</h3>
-
-<table>
-<thead>
-<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33862277/" target="_blank">33862277</a></td><td>2021</td><td>Article</td><td>Ageing research reviews</td><td>Hypoxia and brain aging: Neurodegeneration or neuroprotection?</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37328448/" target="_blank">37328448</a></td><td>2023</td><td>Article</td><td>Advanced science (Weinheim, Ba</td><td>N4-Acetylcytidine Drives Glycolysis Addiction in Gastric Cancer via NAT10/SEPT9/...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39841808/" target="_blank">39841808</a></td><td>2025</td><td>Article</td><td>Science translational medicine</td><td>Hypoxia as a medicine.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28972206/" target="_blank">28972206</a></td><td>2017</td><td>Article</td><td>Nature reviews. Immunology</td><td>Regulation of immunity and inflammation by hypoxia in immunological niches.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34618295/" target="_blank">34618295</a></td><td>2022</td><td>Article</td><td>Metabolic brain disease</td><td>Cognitive impairment caused by hypoxia: from clinical evidences to molecular mec...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31706510/" target="_blank">31706510</a></td><td>2019</td><td>Article</td><td>Trends in cancer</td><td>DUBs, Hypoxia, and Cancer.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21328446/" target="_blank">21328446</a></td><td>2011</td><td>Article</td><td>Journal of cellular biochemist</td><td>Hypoxia-mediated biological control.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40347693/" target="_blank">40347693</a></td><td>2025</td><td>Article</td><td>Redox biology</td><td>Hypoxia in multiple sclerosis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34535359/" target="_blank">34535359</a></td><td>2021</td><td>Article</td><td>Clinical oncology (Royal Colle</td><td>Therapeutic Modification of Hypoxia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11172576/" target="_blank">11172576</a></td><td>2000</td><td>Article</td><td>Respiratory care clinics of No</td><td>Mechanisms of hypoxemia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24557798/" target="_blank">24557798</a></td><td>2014</td><td>Article</td><td>Journal of applied physiology </td><td>Translation in progress: hypoxia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4585366/" target="_blank">4585366</a></td><td>1973</td><td>Article</td><td>Revista medica de Chile</td><td>[Cerebral hypoxia].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36100192/" target="_blank">36100192</a></td><td>2022</td><td>Article</td><td>Journal of controlled release </td><td>Research progress on tumor hypoxia-associative nanomedicine.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2164797/" target="_blank">2164797</a></td><td>1990</td><td>Article</td><td>Annales francaises d&#x27;anesthesi</td><td>[Postanoxia encephalopathies].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37915135/" target="_blank">37915135</a></td><td>2023</td><td>Article</td><td>BMB reports</td><td>Regulation of CMGC kinases by hypoxia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30423905/" target="_blank">30423905</a></td><td>2018</td><td>Article</td><td>International journal of molec</td><td>Hypoxic Microenvironment and Metastatic Bone Disease.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8817697/" target="_blank">8817697</a></td><td>1996</td><td>Article</td><td>Progress in neurobiology</td><td>Hypoxia and brain development.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18345017/" target="_blank">18345017</a></td><td>2008</td><td>Article</td><td>Cell death and differentiation</td><td>Hypoxia-inducible factor: roles in development, physiology, and disease.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27146279/" target="_blank">27146279</a></td><td>2017</td><td>Article</td><td>Cephalalgia : an international</td><td>Hypoxic mechanisms in primary headaches.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28493839/" target="_blank">28493839</a></td><td>2017</td><td>Article</td><td>Oncotarget</td><td>Hypoxia inducible factors in hepatocellular carcinoma.</td></tr>
-</tbody>
-</table>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">4. pulmonary hypertension with unclear multifactorial mechanism</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.39%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">5. Braddock syndrome</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.14%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
+---
 
 ## 台灣上市資訊
 
@@ -242,74 +162,6 @@ Nebivolol 是一種具有血管擴張作用的高選擇性 beta-1 阻斷劑，Tx
 
 ---
 
-
-### 藥物-疾病注意事項 (DDSI)
-
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
-
-**Cerebrovascular Disorders** 🟡 Moderate
-- 應謹慎使用本藥物。
-
-**青光眼** 🟡 Moderate
-- 注意事項：Systemic beta-adrenergic receptor blocking agents (aka beta-blockers) may lower intraocular pressure...
-
-**Hyperlipidemias** 🟡 Moderate
-- 需定期監測。
-
-**甲狀腺機能亢進** 🟡 Moderate
-- 需定期監測。出現症狀時應考慮停藥。
-
-**重症肌無力** 🟡 Moderate
-- 注意事項：Beta-adrenergic receptor blocking agents (aka beta-blockers) may potentiate muscle weakness consistent with certain myasthenic symptoms such as diplop...
-
-**Pheochromocytoma** 🟡 Moderate
-- 應謹慎使用本藥物。
-
-**Psoriasis** 🟡 Moderate
-- 注意事項：The use of beta-blockers in psoriatic patients should be carefully weighed since the use of these agents may cause an aggravation in psoriasis...
-
-**心搏過速** 🟡 Moderate
-- 可能有嚴重不良反應。
-
-**氣喘** 🟡 Moderate
-- 注意事項：Patients with bronchospastic disease, should, in general, not receive beta blockers, including cardioselective beta-blockers...
-
-**腎臟疾病** 🟡 Moderate
-- 可能需要調整劑量。可能有嚴重不良反應。
-
-**Atrioventricular Block** 🟢 Minor
-- 本藥物在此情況下禁用。風險包括：心律不整。
-
-**Shock, Cardiogenic** 🟢 Minor
-- 本藥物在此情況下禁用。風險包括：低血壓。
-
-**心臟衰竭** 🟢 Minor
-- 不應使用本藥物。可能有嚴重不良反應。
-
-**糖尿病** 🟢 Minor
-- 風險包括：低血糖。
-
-**Hypersensitivity** 🟢 Minor
-- 注意事項：The use of beta-adrenergic receptor blocking agents (aka beta-blockers) in patients with a history of allergic reactions or anaphylaxis may be associa...
-
-**Myocardial Ischemia** 🟢 Minor
-- 風險包括：心律不整。必要時應停止治療。
-
-**Peripheral Vascular Diseases** 🟢 Minor
-- 需定期監測。
-
-**Hepatic Insufficiency** 🟢 Minor
-- 本藥物在此情況下禁用。可能需要調整劑量。可能有嚴重不良反應。
-
-### 藥物-食物交互作用 (DFI)
-
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
-
-**酒精** 🟡 Moderate
-- 影響：產生協同作用。
-- 建議：建議避免併用。需監測療效或不良反應。
-
-
 ## 結論與下一步
 
 ### 評估結論
@@ -349,46 +201,3 @@ Nebivolol 是一種具有血管擴張作用的高選擇性 beta-1 阻斷劑，Tx
 
 ---
 
-## 相關藥物報告
-
-- [Trifluoperazine]({{ "/drugs/trifluoperazine/" | relative_url }}) - 證據等級 L5
-- [Caplacizumab]({{ "/drugs/caplacizumab/" | relative_url }}) - 證據等級 L5
-- [Treprostinil]({{ "/drugs/treprostinil/" | relative_url }}) - 證據等級 L5
-- [Benazepril]({{ "/drugs/benazepril/" | relative_url }}) - 證據等級 L5
-- [Tolmetin]({{ "/drugs/tolmetin/" | relative_url }}) - 證據等級 L5
-
----
-
-{% include ai-analysis.html %}
-
-{% include social-share.html %}
-
-## 引用本報告
-
-如需引用本報告，請使用以下格式：
-
-**APA 格式：**
-```
-TwTxGNN. (2026). Nebivolol老藥新用驗證報告. https://twtxgnn.yao.care/drugs/nebivolol/
-```
-
-**BibTeX 格式：**
-```bibtex
-@misc{twtxgnn_nebivolol,
-  title = {Nebivolol老藥新用驗證報告},
-  author = {TwTxGNN Team},
-  year = {2026},
-  url = {https://twtxgnn.yao.care/drugs/nebivolol/}
-}
-```
-
----
-
-<div class="disclaimer">
-<strong>免責聲明</strong><br>
-本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
-<br><br>
-<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
-</div>
-
-{% include giscus.html %}

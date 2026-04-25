@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Acebutolol
-description: "Acebutolol 的老藥新用潛力分析。初步證據等級 L4，包含 2 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 中證據等級 (L3-L4)
 nav_order: 11
 evidence_level: L4
@@ -9,10 +8,18 @@ indication_count: 2
 ---
 
 # Acebutolol
+{: .fs-9 }
 
-<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
-證據等級: <strong>L4</strong> | 預測適應症: <strong>2</strong> 個
-</p>
+證據等級: **L4** | 預測適應症: **2** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
@@ -26,75 +33,39 @@ indication_count: 2
 
 ## 一句話總結
 
-<p class="key-answer" data-question="Acebutolol 可以用於治療什麼新適應症？">
 Acebutolol 原本用於高血壓、狹心症及心律不整。
 TxGNN 模型預測它可能對**惡性腎血管高血壓 (malignant renovascular hypertension)** 有效，
 目前有 **1 篇文獻**支持這個方向。
-</p>
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 高血壓、狹心症、心律不整 |
-| 預測新適應症 | malignant hypertensive renal disease、malignant renovascular hypertension |
+| 預測新適應症 | 惡性腎血管高血壓 (malignant renovascular hypertension) |
 | TxGNN 預測分數 | 99.10% |
 | 證據等級 | L4 |
 | 台灣上市 | 已上市 |
 | 許可證數 | 27 張（部分已註銷） |
 | 建議決策 | Hold |
 
+## 為什麼這個預測合理？
 
+Acebutolol 是一種選擇性 beta-1 交感神經阻斷劑，具有內在擬交感活性 (ISA)。其降壓機轉包括減少心輸出量、抑制腎素釋放，以及中樞性降壓作用。
 
+在腎血管性高血壓的病理機轉中，腎素-血管張力素系統 (RAS) 過度活化扮演關鍵角色。Beta 阻斷劑能抑制腎素分泌，理論上可能對腎血管性高血壓有輔助療效。1975 年的法國研究 (PMID: 768911) 指出，acebutolol 在血漿腎素活性增高的腎血管性高血壓患者中展現良好療效。
 
+然而，目前臨床上對於惡性腎血管高血壓的一線治療仍以血管介入或手術為主，藥物治療多以 ACE 抑制劑或 ARB 為首選。
 
-## 預測適應症詳細分析
+## 臨床試驗證據
 
-<details class="indication-section" open>
-<summary>
-<span class="indication-name">1. malignant hypertensive renal disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.10%</span> <span class="primary-badge">主要分析</span>
-</summary>
-<div class="indication-content">
+目前無針對 acebutolol 與惡性腎血管高血壓的註冊臨床試驗。
 
-<h3>為什麼這個預測合理？</h3>
+## 文獻證據
 
-<p>Acebutolol 是一種選擇性 beta-1 交感神經阻斷劑，具有內在擬交感活性 (ISA)。其降壓機轉包括減少心輸出量、抑制腎素釋放，以及中樞性降壓作用。</p>
-
-<p>在腎血管性高血壓的病理機轉中，腎素-血管張力素系統 (RAS) 過度活化扮演關鍵角色。Beta 阻斷劑能抑制腎素分泌，理論上可能對腎血管性高血壓有輔助療效。1975 年的法國研究 (PMID: 768911) 指出，acebutolol 在血漿腎素活性增高的腎血管性高血壓患者中展現良好療效。</p>
-
-<p>然而，目前臨床上對於惡性腎血管高血壓的一線治療仍以血管介入或手術為主，藥物治療多以 ACE 抑制劑或 ARB 為首選。</p>
-
-<h3>臨床試驗</h3>
-
-<p>目前無針對此特定適應症的臨床試驗登記。</p>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">2. malignant renovascular hypertension</span>
-<span class="evidence-badge evidence-L4">L4</span>
-<span class="prediction-score">99.10%</span>
-</summary>
-<div class="indication-content">
-
-<h3>相關文獻（1 篇）</h3>
-
-<table>
-<thead>
-<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/768911/" target="_blank">768911</a></td><td>1975</td><td>Article</td><td>La Nouvelle presse medicale</td><td>[Acebutolol in the treatment of arterial hypertension. Clinical study].</td></tr>
-</tbody>
-</table>
-
-</div>
-</details>
-
+| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+|------|-----|------|------|---------|
+| [768911](https://pubmed.ncbi.nlm.nih.gov/768911/) | 1975 | Clinical Trial | La Nouvelle presse medicale | 50 例高血壓患者使用 acebutolol，74% 效果良好；研究指出腎血管性高血壓伴隨高腎素活性者為良好適應症 |
 
 ## 台灣上市資訊
 
@@ -131,77 +102,6 @@ TxGNN 模型預測它可能對**惡性腎血管高血壓 (malignant renovascular
 
 安全性資訊請參考原廠仿單。
 
-
-### 藥物-疾病注意事項 (DDSI)
-
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
-
-**Hepatic Insufficiency** 🟡 Moderate
-- 注意事項：Acebutolol should be used cautiously in patients with impaired hepatic function...
-
-**Cerebrovascular Disorders** 🟡 Moderate
-- 應謹慎使用本藥物。
-
-**青光眼** 🟡 Moderate
-- 注意事項：Systemic beta-adrenergic receptor blocking agents (aka beta-blockers) may lower intraocular pressure...
-
-**Hyperlipidemias** 🟡 Moderate
-- 需定期監測。
-
-**甲狀腺機能亢進** 🟡 Moderate
-- 需定期監測。出現症狀時應考慮停藥。
-
-**重症肌無力** 🟡 Moderate
-- 注意事項：Beta-adrenergic receptor blocking agents (aka beta-blockers) may potentiate muscle weakness consistent with certain myasthenic symptoms such as diplop...
-
-**Pheochromocytoma** 🟡 Moderate
-- 應謹慎使用本藥物。
-
-**Psoriasis** 🟡 Moderate
-- 注意事項：The use of beta-blockers in psoriatic patients should be carefully weighed since the use of these agents may cause an aggravation in psoriasis...
-
-**心搏過速** 🟡 Moderate
-- 可能有嚴重不良反應。
-
-**氣喘** 🟡 Moderate
-- 注意事項：Patients with bronchospastic disease, should, in general, not receive beta blockers, including cardioselective beta-blockers...
-
-**Diseases requiring hemodialysis** 🟢 Minor
-- 需密切監測。
-
-**腎臟疾病** 🟢 Minor
-- 可能需要調整劑量。可能有嚴重不良反應。
-
-**Atrioventricular Block** 🟢 Minor
-- 本藥物在此情況下禁用。風險包括：心律不整。
-
-**Shock, Cardiogenic** 🟢 Minor
-- 本藥物在此情況下禁用。風險包括：低血壓。
-
-**心臟衰竭** 🟢 Minor
-- 不應使用本藥物。可能有嚴重不良反應。
-
-**糖尿病** 🟢 Minor
-- 風險包括：低血糖。
-
-**Hypersensitivity** 🟢 Minor
-- 注意事項：The use of beta-adrenergic receptor blocking agents (aka beta-blockers) in patients with a history of allergic reactions or anaphylaxis may be associa...
-
-**Myocardial Ischemia** 🟢 Minor
-- 風險包括：心律不整。必要時應停止治療。
-
-**Peripheral Vascular Diseases** 🟢 Minor
-- 需定期監測。
-
-### 藥物-食物交互作用 (DFI)
-
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
-
-**酒精** 🟡 Moderate
-- 影響：產生協同作用。
-- 建議：建議避免併用。需監測療效或不良反應。
-
-
 ## 結論與下一步
 
 **決策：Hold**
@@ -216,46 +116,3 @@ TxGNN 模型預測它可能對**惡性腎血管高血壓 (malignant renovascular
 
 ---
 
-## 相關藥物報告
-
-- [Cisatracurium]({{ "/drugs/cisatracurium/" | relative_url }}) - 證據等級 L4
-- [Salicylamide]({{ "/drugs/salicylamide/" | relative_url }}) - 證據等級 L4
-- [Dl-Alpha-Tocopherol]({{ "/drugs/dl-alpha-tocopherol/" | relative_url }}) - 證據等級 L4
-- [Brodalumab]({{ "/drugs/brodalumab/" | relative_url }}) - 證據等級 L4
-- [Hydroquinone]({{ "/drugs/hydroquinone/" | relative_url }}) - 證據等級 L4
-
----
-
-{% include ai-analysis.html %}
-
-{% include social-share.html %}
-
-## 引用本報告
-
-如需引用本報告，請使用以下格式：
-
-**APA 格式：**
-```
-TwTxGNN. (2026). Acebutolol老藥新用驗證報告. https://twtxgnn.yao.care/drugs/acebutolol/
-```
-
-**BibTeX 格式：**
-```bibtex
-@misc{twtxgnn_acebutolol,
-  title = {Acebutolol老藥新用驗證報告},
-  author = {TwTxGNN Team},
-  year = {2026},
-  url = {https://twtxgnn.yao.care/drugs/acebutolol/}
-}
-```
-
----
-
-<div class="disclaimer">
-<strong>免責聲明</strong><br>
-本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
-<br><br>
-<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
-</div>
-
-{% include giscus.html %}

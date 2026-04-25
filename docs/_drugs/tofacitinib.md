@@ -1,18 +1,25 @@
 ---
 layout: default
 title: Tofacitinib
-description: "Tofacitinib 的老藥新用潛力分析。模型預測等級 L5。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
-nav_order: 178
+nav_order: 261
 evidence_level: L5
 indication_count: 0
 ---
 
 # Tofacitinib
+{: .fs-9 }
 
-<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
-證據等級: <strong>L5</strong> | 預測適應症: <strong>0</strong> 個
-</p>
+證據等級: **L5** | 預測適應症: **0** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
@@ -26,10 +33,7 @@ indication_count: 0
 
 ## 一句話總結
 
-<p class="key-answer" data-question="Tofacitinib 可以用於治療什麼新適應症？">
 Tofacitinib 是一種 JAK 抑制劑，已在台灣核准用於多種自體免疫疾病，TxGNN 未預測出新適應症，反映此藥已充分開發且適應症廣泛。
-</p>
-
 
 ---
 
@@ -41,7 +45,7 @@ Tofacitinib 是一種 JAK 抑制劑，已在台灣核准用於多種自體免疫
 | DrugBank ID | DB08895 |
 | 商品名 | 捷抑炎 (Xeljanz) |
 | 原適應症 | 類風濕性關節炎、乾癬性關節炎、僵直性脊椎炎、潰瘍性結腸炎、多關節型兒童特發性關節炎 |
-| 預測新適應症 |  |
+| 預測新適應症 | **無**（TxGNN 未預測出符合條件的新適應症） |
 | 台灣上市狀態 | 有效許可證（輝瑞大藥廠） |
 
 ---
@@ -175,49 +179,5 @@ Tofacitinib 在台灣有多張有效許可證：
 *報告產生日期：2026-02-11*
 *資料來源：TxGNN 知識圖譜預測、ClinicalTrials.gov、PubMed、台灣 FDA*
 
-
 ---
 
-## 相關藥物報告
-
-- [Povidone]({{ "/drugs/povidone/" | relative_url }}) - 證據等級 L5
-- [Atezolizumab]({{ "/drugs/atezolizumab/" | relative_url }}) - 證據等級 L5
-- [Avelumab]({{ "/drugs/avelumab/" | relative_url }}) - 證據等級 L5
-- [Remdesivir]({{ "/drugs/remdesivir/" | relative_url }}) - 證據等級 L5
-- [Amorolfine]({{ "/drugs/amorolfine/" | relative_url }}) - 證據等級 L5
-
----
-
-{% include ai-analysis.html %}
-
-{% include social-share.html %}
-
-## 引用本報告
-
-如需引用本報告，請使用以下格式：
-
-**APA 格式：**
-```
-TwTxGNN. (2026). Tofacitinib老藥新用驗證報告. https://twtxgnn.yao.care/drugs/tofacitinib/
-```
-
-**BibTeX 格式：**
-```bibtex
-@misc{twtxgnn_tofacitinib,
-  title = {Tofacitinib老藥新用驗證報告},
-  author = {TwTxGNN Team},
-  year = {2026},
-  url = {https://twtxgnn.yao.care/drugs/tofacitinib/}
-}
-```
-
----
-
-<div class="disclaimer">
-<strong>免責聲明</strong><br>
-本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
-<br><br>
-<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
-</div>
-
-{% include giscus.html %}

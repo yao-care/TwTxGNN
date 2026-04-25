@@ -1,18 +1,25 @@
 ---
 layout: default
 title: Cladribine
-description: "Cladribine 的老藥新用潛力分析。模型預測等級 L5，包含 7 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
-nav_order: 48
-evidence_level: L4
+nav_order: 65
+evidence_level: L5
 indication_count: 7
 ---
 
 # Cladribine
+{: .fs-9 }
 
-<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
-證據等級: <strong>L5</strong> | 預測適應症: <strong>7</strong> 個
-</p>
+證據等級: **L5** | 預測適應症: **7** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
@@ -26,9 +33,7 @@ indication_count: 7
 
 ## 一句話總結
 
-<p class="key-answer" data-question="Cladribine 可以用於治療什麼新適應症？">
 Cladribine 是一種核苷類似物抗腫瘤藥，目前核准用於多發性硬化症及毛髮狀細胞白血病，TxGNN 預測其可能對橫紋肌肉瘤及肝臟肉瘤等罕見腫瘤有療效，但目前缺乏臨床證據支持。
-</p>
 
 ---
 
@@ -40,142 +45,39 @@ Cladribine 是一種核苷類似物抗腫瘤藥，目前核准用於多發性硬
 | DrugBank ID | DB00242 |
 | 台灣商品名 | 瑪威克錠 10 毫克 (Mavenclad)、祿斯得停注射劑 (Leustatin) |
 | 原核准適應症 | 復發型多發性硬化症、毛髮狀細胞白血病 |
-| 預測新適應症 | parameningeal embryonal rhabdomyosarcoma、botryoid-type embryonal rhabdomyosarcoma of the vagina、embryonal extrahepatic bile duct rhabdomyosarcoma、prostate embryonal rhabdomyosarcoma、extrahepatic bile duct rhabdomyosarcoma、rhabdomyosarcoma (disease)、liver sarcoma |
+| 預測新適應症 | 橫紋肌肉瘤 (多種亞型)、肝臟肉瘤 |
 | 最高預測分數 | 0.998 (parameningeal embryonal rhabdomyosarcoma) |
 | 證據等級 | L5 (僅預測) |
 
 ---
 
+## 為什麼這個預測合理
 
+Cladribine 是一種嘌呤核苷類似物，具有強效的抗增殖及免疫調節作用。其作用機轉包括：
 
+1. **DNA 合成抑制**：Cladribine 進入細胞後被磷酸化為活性代謝物，干擾 DNA 合成與修復
+2. **淋巴細胞毒性**：選擇性地對淋巴細胞產生細胞毒性，這也是其用於治療毛髮狀細胞白血病的基礎
+3. **廣譜抗腫瘤活性**：作為核苷類似物，理論上對快速分裂的腫瘤細胞有抑制作用
 
+橫紋肌肉瘤屬於軟組織肉瘤，傳統上使用 VAC (vincristine, actinomycin D, cyclophosphamide) 方案治療。知識圖譜預測 cladribine 可能對此類腫瘤有效，可能基於其與其他核苷類抗腫瘤藥物的結構相似性。
 
-## 預測適應症詳細分析
+---
 
-<details class="indication-section" open>
-<summary>
-<span class="indication-name">1. parameningeal embryonal rhabdomyosarcoma</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.77%</span> <span class="primary-badge">主要分析</span>
-</summary>
-<div class="indication-content">
+## 臨床試驗證據
 
-<h3>為什麼這個預測合理？</h3>
+目前 **無** 針對 cladribine 用於橫紋肌肉瘤或肝臟肉瘤的臨床試驗登記。
 
-<p>Cladribine 是一種嘌呤核苷類似物，具有強效的抗增殖及免疫調節作用。其作用機轉包括：</p>
+---
 
-<ol>
-<li><strong>DNA 合成抑制</strong>：Cladribine 進入細胞後被磷酸化為活性代謝物，干擾 DNA 合成與修復</li>
-<li><strong>淋巴細胞毒性</strong>：選擇性地對淋巴細胞產生細胞毒性，這也是其用於治療毛髮狀細胞白血病的基礎</li>
-<li><strong>廣譜抗腫瘤活性</strong>：作為核苷類似物，理論上對快速分裂的腫瘤細胞有抑制作用</li>
+## 文獻證據
 
-</ol>
-<p>橫紋肌肉瘤屬於軟組織肉瘤，傳統上使用 VAC (vincristine, actinomycin D, cyclophosphamide) 方案治療。知識圖譜預測 cladribine 可能對此類腫瘤有效，可能基於其與其他核苷類抗腫瘤藥物的結構相似性。</p>
+| PMID | 標題 | 相關性 |
+|------|------|--------|
+| 15241520 | Smoldering systemic mastocytosis - Successful therapy with cladribine | 間接證據：Cladribine 對肥大細胞增生症有效，顯示其對某些造血系統腫瘤的活性 |
 
-<h3>臨床試驗</h3>
+文獻中關於 cladribine 用於肝臟肉瘤的報告實際上是關於全身性肥大細胞增生症的個案，與預測適應症的直接相關性有限。
 
-<p>目前無針對此特定適應症的臨床試驗登記。</p>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">2. botryoid-type embryonal rhabdomyosarcoma of the vagina</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.77%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">3. embryonal extrahepatic bile duct rhabdomyosarcoma</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.76%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">4. prostate embryonal rhabdomyosarcoma</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.75%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">5. extrahepatic bile duct rhabdomyosarcoma</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.75%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">6. rhabdomyosarcoma (disease)</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.74%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">7. liver sarcoma</span>
-<span class="evidence-badge evidence-L4">L4</span>
-<span class="prediction-score">99.70%</span>
-</summary>
-<div class="indication-content">
-
-<h3>相關文獻（1 篇）</h3>
-
-<table>
-<thead>
-<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15241520/" target="_blank">15241520</a></td><td>2004</td><td>Article</td><td>Der Hautarzt; Zeitschrift fur </td><td>[&quot;Smoldering systemic mastocytosis. &quot;Successful therapy with cladribine].</td></tr>
-</tbody>
-</table>
-
-</div>
-</details>
-
+---
 
 ## 台灣上市資訊
 
@@ -207,26 +109,6 @@ Cladribine 是一種核苷類似物抗腫瘤藥，目前核准用於多發性硬
 
 ---
 
-
-### 藥物-疾病注意事項 (DDSI)
-
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
-
-**肝臟疾病** 🟡 Moderate
-- 需定期監測。
-
-**腎臟疾病** 🟡 Moderate
-- 需定期監測。
-
-**Infections** 🟢 Minor
-- 本藥物在此情況下禁用。需定期監測。風險包括：骨髓抑制、感染。
-
-**Bone Marrow Failure Disorders** 🟢 Minor
-- 需定期監測。風險包括：骨髓抑制、出血、感染、血栓、貧血。可能有嚴重不良反應。
-
-**Nervous System Diseases** 🟢 Minor
-- 可能有嚴重不良反應。
-
 ## 結論與下一步
 
 ### 預測評估
@@ -252,46 +134,3 @@ Cladribine 是一種核苷類似物抗腫瘤藥，目前核准用於多發性硬
 
 ---
 
-## 相關藥物報告
-
-- [Tenofovir Alafenamide]({{ "/drugs/tenofovir_alafenamide/" | relative_url }}) - 證據等級 L5
-- [Felodipine]({{ "/drugs/felodipine/" | relative_url }}) - 證據等級 L5
-- [Lidocaine]({{ "/drugs/lidocaine/" | relative_url }}) - 證據等級 L5
-- [Iodixanol]({{ "/drugs/iodixanol/" | relative_url }}) - 證據等級 L5
-- [Potassium Iodide]({{ "/drugs/potassium_iodide/" | relative_url }}) - 證據等級 L5
-
----
-
-{% include ai-analysis.html %}
-
-{% include social-share.html %}
-
-## 引用本報告
-
-如需引用本報告，請使用以下格式：
-
-**APA 格式：**
-```
-TwTxGNN. (2026). Cladribine老藥新用驗證報告. https://twtxgnn.yao.care/drugs/cladribine/
-```
-
-**BibTeX 格式：**
-```bibtex
-@misc{twtxgnn_cladribine,
-  title = {Cladribine老藥新用驗證報告},
-  author = {TwTxGNN Team},
-  year = {2026},
-  url = {https://twtxgnn.yao.care/drugs/cladribine/}
-}
-```
-
----
-
-<div class="disclaimer">
-<strong>免責聲明</strong><br>
-本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
-<br><br>
-<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
-</div>
-
-{% include giscus.html %}

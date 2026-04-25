@@ -1,18 +1,25 @@
 ---
 layout: default
 title: Ibuprofen
-description: "Ibuprofen 的老藥新用潛力分析。模型預測等級 L5，包含 7 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
-nav_order: 84
+nav_order: 130
 evidence_level: L5
 indication_count: 7
 ---
 
 # Ibuprofen
+{: .fs-9 }
 
-<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
-證據等級: <strong>L5</strong> | 預測適應症: <strong>7</strong> 個
-</p>
+證據等級: **L5** | 預測適應症: **7** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
@@ -26,160 +33,50 @@ indication_count: 7
 
 ## 一句話總結
 
-<p class="key-answer" data-question="Ibuprofen 可以用於治療什麼新適應症？">
 Ibuprofen 原本用於解熱鎮痛及治療關節炎。
 TxGNN 模型預測它可能對**肢端肢中發育不良 (acromesomelic dysplasia)** 等罕見骨骼疾病有效，
 但目前**無臨床試驗或文獻**支持這些新適應症。
-</p>
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 解熱、鎮痛、關節炎、神經痛 |
-| 預測新適應症 | osteoarthritis susceptibility、osteoarthritis、rheumatoid arthritis、acromesomelic dysplasia, Hunter-Thompson type、brachyolmia-amelogenesis imperfecta syndrome、myosclerosis、brachyolmia |
+| 預測新適應症 | 肢端肢中發育不良 (acromesomelic dysplasia) |
 | TxGNN 預測分數 | 99.74% |
 | 證據等級 | L5 |
 | 台灣上市 | 有效許可證 |
 | 許可證數 | 435 張 |
 | 建議決策 | Hold |
 
+## 為什麼這個預測合理？
 
+Ibuprofen 是一種非類固醇消炎藥（NSAID），透過抑制環氧合酶（COX）降低前列腺素合成，
+達到解熱、鎮痛和消炎的效果。
 
+**預測分析：**
+TxGNN 預測的適應症包括多種罕見骨骼發育異常疾病：
+- 肢端肢中發育不良 Hunter-Thompson 型
+- 短軀體釉質發育不全症候群
+- 肌硬化症
+- 短軀體症
+- 短指併指症候群
+- 假性軟骨發育不全
+- 眼缺損小眼畸形-近側肢短畸形症候群
 
+**機轉考量：**
+- 這些罕見疾病主要是遺傳性骨骼發育異常
+- Ibuprofen 的 COX 抑制機轉與骨骼發育無直接關聯
+- 預測可能反映 ibuprofen 在骨骼相關疼痛管理中的廣泛使用
+- 但無法治療疾病本身，僅能緩解症狀
 
-## 預測適應症詳細分析
+## 臨床試驗證據
 
-<details class="indication-section" open>
-<summary>
-<span class="indication-name">1. acromesomelic dysplasia, Hunter-Thompson type</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.74%</span> <span class="primary-badge">主要分析</span>
-</summary>
-<div class="indication-content">
+目前**無臨床試驗**研究 ibuprofen 用於任何預測的骨骼發育異常疾病。
 
-<h3>為什麼這個預測合理？</h3>
+## 文獻證據
 
-<p>Ibuprofen 是一種非類固醇消炎藥（NSAID），透過抑制環氧合酶（COX）降低前列腺素合成，</p>
-<p>達到解熱、鎮痛和消炎的效果。</p>
-
-<p><strong>預測分析：</strong></p>
-<p>TxGNN 預測的適應症包括多種罕見骨骼發育異常疾病：</p>
-<ul>
-<li>肢端肢中發育不良 Hunter-Thompson 型</li>
-<li>短軀體釉質發育不全症候群</li>
-<li>肌硬化症</li>
-<li>短軀體症</li>
-<li>短指併指症候群</li>
-<li>假性軟骨發育不全</li>
-<li>眼缺損小眼畸形-近側肢短畸形症候群</li>
-
-</ul>
-<p><strong>機轉考量：</strong></p>
-<ul>
-<li>這些罕見疾病主要是遺傳性骨骼發育異常</li>
-<li>Ibuprofen 的 COX 抑制機轉與骨骼發育無直接關聯</li>
-<li>預測可能反映 ibuprofen 在骨骼相關疼痛管理中的廣泛使用</li>
-<li>但無法治療疾病本身，僅能緩解症狀</li>
-</ul>
-
-<h3>臨床試驗</h3>
-
-<p>目前無針對此特定適應症的臨床試驗登記。</p>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">2. brachyolmia-amelogenesis imperfecta syndrome</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.71%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">3. myosclerosis</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.68%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">4. brachyolmia</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.67%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">5. brachydactyly-syndactyly syndrome</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.66%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">6. pseudoachondroplasia</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.66%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">7. colobomatous microphthalmia-rhizomelic dysplasia syndrome</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.60%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
+目前**無 PubMed 文獻**直接探討 ibuprofen 用於這些罕見疾病的治療。
 
 ## 台灣上市資訊
 
@@ -205,59 +102,6 @@ TxGNN 模型預測它可能對**肢端肢中發育不良 (acromesomelic dysplasi
 
 安全性資訊請參考原廠仿單。
 
-
-### 藥物-疾病注意事項 (DDSI)
-
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
-
-**Phenylketonurias** 🟡 Moderate
-- 注意事項：Chewable products frequently may contain aspartame, which is metabolized in the gastrointestinal tract to phenylalanine...
-
-**Anemia** 🟡 Moderate
-- 需定期監測。風險包括：出血、貧血。
-
-**心臟衰竭** 🟡 Moderate
-- 應避免使用本藥物。需定期監測。可能有嚴重不良反應。
-
-**肝臟疾病** 🟡 Moderate
-- 需定期監測。風險包括：肝毒性。可能有致命風險。
-
-**Hyperkalemia** 🟡 Moderate
-- 應謹慎使用本藥物。
-
-**高血壓** 🟡 Moderate
-- 應謹慎使用本藥物。需密切監測。
-
-**Blood Platelet Disorders** 🟡 Moderate
-- 風險包括：出血、血栓。可能有嚴重不良反應。
-
-**氣喘** 🟢 Minor
-- 本藥物在此情況下禁用。需定期監測。可能有致命風險。
-
-**Water-Electrolyte Imbalance** 🟢 Minor
-- 需密切監測。
-
-**消化性潰瘍** 🟢 Minor
-- 應謹慎使用本藥物。風險包括：出血。可能有致命風險。特別注意族群：老年人。
-
-**Exanthema** 🟢 Minor
-- 本藥物在此情況下禁用。可能有致命風險。必要時應停止治療。
-
-**腎臟疾病** 🟢 Minor
-- 應避免使用本藥物。需定期監測。特別注意族群：老年人。
-
-**Thrombosis** 🟢 Minor
-- 本藥物在此情況下禁用。需定期監測。風險包括：血栓。可能有致命風險。
-
-### 藥物-食物交互作用 (DFI)
-
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
-
-**酒精** 🟡 Moderate
-- 影響：產生協同作用。可能降低藥效。
-- 建議：請諮詢醫師或藥師了解詳細建議。
-
-
 ## 結論與下一步
 
 **決策：Hold**
@@ -275,46 +119,3 @@ TxGNN 模型預測它可能對**肢端肢中發育不良 (acromesomelic dysplasi
 
 ---
 
-## 相關藥物報告
-
-- [Tizanidine]({{ "/drugs/tizanidine/" | relative_url }}) - 證據等級 L5
-- [Pemetrexed]({{ "/drugs/pemetrexed/" | relative_url }}) - 證據等級 L5
-- [Nebivolol]({{ "/drugs/nebivolol/" | relative_url }}) - 證據等級 L5
-- [Timepidium]({{ "/drugs/timepidium/" | relative_url }}) - 證據等級 L5
-- [Belimumab]({{ "/drugs/belimumab/" | relative_url }}) - 證據等級 L5
-
----
-
-{% include ai-analysis.html %}
-
-{% include social-share.html %}
-
-## 引用本報告
-
-如需引用本報告，請使用以下格式：
-
-**APA 格式：**
-```
-TwTxGNN. (2026). Ibuprofen老藥新用驗證報告. https://twtxgnn.yao.care/drugs/ibuprofen/
-```
-
-**BibTeX 格式：**
-```bibtex
-@misc{twtxgnn_ibuprofen,
-  title = {Ibuprofen老藥新用驗證報告},
-  author = {TwTxGNN Team},
-  year = {2026},
-  url = {https://twtxgnn.yao.care/drugs/ibuprofen/}
-}
-```
-
----
-
-<div class="disclaimer">
-<strong>免責聲明</strong><br>
-本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
-<br><br>
-<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
-</div>
-
-{% include giscus.html %}

@@ -1,18 +1,25 @@
 ---
 layout: default
 title: Sodium Carbonate
-description: "Sodium Carbonate 的老藥新用潛力分析。模型預測等級 L5，包含 6 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
-nav_order: 158
-evidence_level: L1
+nav_order: 239
+evidence_level: L5
 indication_count: 6
 ---
 
 # Sodium Carbonate
+{: .fs-9 }
 
-<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
-證據等級: <strong>L5</strong> | 預測適應症: <strong>6</strong> 個
-</p>
+證據等級: **L5** | 預測適應症: **6** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
@@ -26,10 +33,7 @@ indication_count: 6
 
 ## 一句話總結
 
-<p class="key-answer" data-question="Sodium Carbonate 可以用於治療什麼新適應症？">
 Sodium Carbonate 主要作為制酸劑及抗生素製劑輔助劑使用，TxGNN 預測其可能對過敏反應（anaphylaxis）有輔助治療潛力，並有初步文獻支持其作為腎上腺素舌下給藥的增強劑。
-</p>
-
 
 ## 快速總覽
 
@@ -43,133 +47,31 @@ Sodium Carbonate 主要作為制酸劑及抗生素製劑輔助劑使用，TxGNN 
 | 許可證數 | 38 張（含已註銷） |
 | 建議決策 | Watch |
 
+## 為什麼這個預測合理？
 
+### 過敏反應（Anaphylaxis）- TxGNN 分數 0.997
 
+**機轉假說：**
+Sodium Carbonate 作為鹼化劑，可調節局部 pH 值。根據 2021 年發表於 European Journal of Pharmaceutical Sciences 的研究（PMID: 34600046），Sodium Carbonate 0.75% 被發現是最有效的緩衝劑，可將腎上腺素溶液 pH 調整至 8.0，從而顯著提升腎上腺素通過豬舌下黏膜的滲透性達 11 倍。
 
+**文獻支持：**
+該研究探索舌下給予腎上腺素作為過敏反應急救的替代劑型，發現 Sodium Carbonate 能穩定腎上腺素並增強其舌下吸收，可能為無法使用自動注射器的患者提供替代選擇。
 
+### 乾眼症（Dry Eye Syndrome）- TxGNN 分數 0.996
 
-## 預測適應症詳細分析
+**機轉假說：**
+2017 年發表於 Gerodontology 的研究（PMID: 27813150）顯示，Sodium Carbonate 噴霧結合專業口腔衛生治療，對原發性乾燥症候群（Sjogren's syndrome）患者具有改善效果。乾燥症候群患者同時有口乾及乾眼問題，此研究提示 Sodium Carbonate 可能在改善黏膜乾燥方面有潛力。
 
-<details class="indication-section" open>
-<summary>
-<span class="indication-name">1. cauda equina syndrome</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.80%</span> <span class="primary-badge">主要分析</span>
-</summary>
-<div class="indication-content">
+## 臨床試驗
 
-<h3>為什麼這個預測合理？</h3>
+目前無直接以 Sodium Carbonate 治療過敏反應的臨床試驗。相關試驗為評估碳酸氫鈉（sodium bicarbonate）在血液透析導管封管液的應用（NCT04054128）。
 
-<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+## 相關文獻
 
-<h3>臨床試驗</h3>
-
-<p>目前無針對此特定適應症的臨床試驗登記。</p>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">2. anaphylaxis</span>
-<span class="evidence-badge evidence-L1">L1</span>
-<span class="prediction-score">99.72%</span>
-</summary>
-<div class="indication-content">
-
-<h3>臨床試驗（2 項）</h3>
-
-<table>
-<thead>
-<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04054128" target="_blank">NCT04054128</a></td><td>PHASE4</td><td>UNKNOWN</td><td>60</td><td>Bicarbonate vs Heparin Catheter Lock in Chronic Hemodialysis Patients</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT07325383" target="_blank">NCT07325383</a></td><td>PHASE3</td><td>ACTIVE_NOT_RECRUITING</td><td>106</td><td>Evaluating the Safety and Efficacy of N-acetylcysteine Mouthwash on the Preventi...</td></tr>
-</tbody>
-</table>
-
-<h3>相關文獻（1 篇）</h3>
-
-<table>
-<thead>
-<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34600046/" target="_blank">34600046</a></td><td>2021</td><td>Article</td><td>European journal of pharmaceut</td><td>Assessment of epinephrine sublingual stability and permeability pathways to enha...</td></tr>
-</tbody>
-</table>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">3. food-dependent exercise-induced anaphylaxis</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.63%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">4. obsolete neurogenic bladder (disease)</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.62%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">5. dry eye syndrome</span>
-<span class="evidence-badge evidence-L4">L4</span>
-<span class="prediction-score">99.58%</span>
-</summary>
-<div class="indication-content">
-
-<h3>相關文獻（1 篇）</h3>
-
-<table>
-<thead>
-<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27813150/" target="_blank">27813150</a></td><td>2017</td><td>Article</td><td>Gerodontology</td><td>Impact of a sodium carbonate spray combined with professional oral hygiene proce...</td></tr>
-</tbody>
-</table>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">6. ventricular tachycardia</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.18%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
+| PMID | 標題 | 年份 | 相關性 |
+|------|------|------|--------|
+| 34600046 | Assessment of epinephrine sublingual stability and permeability pathways | 2021 | 高 |
+| 27813150 | Impact of sodium carbonate spray in patients with Sjogren's syndrome | 2017 | 中 |
 
 ## 台灣上市資訊
 
@@ -202,49 +104,5 @@ Sodium Carbonate 主要作為制酸劑及抗生素製劑輔助劑使用，TxGNN 
 - 評估相較於現有腎上腺素自動注射器的優劣勢
 - 進行安全性與有效性的頭對頭比較研究
 
-
 ---
 
-## 相關藥物報告
-
-- [Deoxycholic Acid]({{ "/drugs/deoxycholic_acid/" | relative_url }}) - 證據等級 L5
-- [Carisoprodol]({{ "/drugs/carisoprodol/" | relative_url }}) - 證據等級 L5
-- [Tofacitinib]({{ "/drugs/tofacitinib/" | relative_url }}) - 證據等級 L5
-- [Mannitol]({{ "/drugs/mannitol/" | relative_url }}) - 證據等級 L5
-- [Urea]({{ "/drugs/urea/" | relative_url }}) - 證據等級 L5
-
----
-
-{% include ai-analysis.html %}
-
-{% include social-share.html %}
-
-## 引用本報告
-
-如需引用本報告，請使用以下格式：
-
-**APA 格式：**
-```
-TwTxGNN. (2026). Sodium Carbonate老藥新用驗證報告. https://twtxgnn.yao.care/drugs/sodium_carbonate/
-```
-
-**BibTeX 格式：**
-```bibtex
-@misc{twtxgnn_sodium_carbonate,
-  title = {Sodium Carbonate老藥新用驗證報告},
-  author = {TwTxGNN Team},
-  year = {2026},
-  url = {https://twtxgnn.yao.care/drugs/sodium_carbonate/}
-}
-```
-
----
-
-<div class="disclaimer">
-<strong>免責聲明</strong><br>
-本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
-<br><br>
-<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
-</div>
-
-{% include giscus.html %}

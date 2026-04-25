@@ -1,18 +1,25 @@
 ---
 layout: default
 title: Lornoxicam
-description: "Lornoxicam 的老藥新用潛力分析。中等證據等級 L3，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 中證據等級 (L3-L4)
-nav_order: 99
+nav_order: 156
 evidence_level: L3
 indication_count: 10
 ---
 
 # Lornoxicam
+{: .fs-9 }
 
-<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
-證據等級: <strong>L3</strong> | 預測適應症: <strong>10</strong> 個
-</p>
+證據等級: **L3** | 預測適應症: **10** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
@@ -26,10 +33,7 @@ indication_count: 10
 
 ## 一句話總結
 
-<p class="key-answer" data-question="Lornoxicam 可以用於治療什麼新適應症？">
 Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風濕性關節炎及偏頭痛，兩項預測皆有豐富的 PubMed 文獻支持，偏頭痛更有 Phase 2 臨床試驗證據，證據等級達 L2-L3。
-</p>
-
 
 ---
 
@@ -41,7 +45,7 @@ Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風
 | DrugBank ID | DB06725 |
 | 台灣商品名 | 療紓疼速效膜衣錠 |
 | 原核准適應症 | 輕度至中度急性疼痛之短期止痛、退化性關節炎症狀緩解 |
-| 預測新適應症 | rheumatoid arthritis、migraine with or without aura, susceptibility to、migraine disorder、migraine with brainstem aura、brachydactyly-syndactyly syndrome、colobomatous microphthalmia-rhizomelic dysplasia syndrome、headache disorder、trigeminal autonomic cephalalgia、tendinitis、idiopathic granulomatous myositis |
+| 預測新適應症 | 類風濕性關節炎、偏頭痛 |
 | TxGNN 預測分數 | 0.999 (RA)、0.999 (偏頭痛) |
 | 證據等級 | **L2** (偏頭痛 - Phase 2 臨床試驗)、**L3** (類風濕性關節炎 - 多篇文獻) |
 | 臨床試驗 | 有 (偏頭痛) |
@@ -49,288 +53,72 @@ Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風
 
 ---
 
+## 為什麼這個預測合理？
 
+### 機轉推論
 
+1. **COX-1/COX-2 雙重抑制**：Lornoxicam 是非選擇性 COX 抑制劑，可有效抑制前列腺素合成，減少發炎反應與疼痛。
 
+2. **類風濕性關節炎應用**：
+   - NSAIDs 是類風濕性關節炎症狀控制的基礎用藥
+   - Lornoxicam 的抗發炎與止痛效果適用於關節炎疼痛管理
+   - 相較其他 oxicam 類藥物，其半衰期較短 (3-5 小時)，可能減少副作用累積
 
+3. **偏頭痛應用**：
+   - 前列腺素在偏頭痛發病機轉中扮演重要角色
+   - NSAIDs 已被證實可有效緩解偏頭痛急性發作
+   - Lornoxicam 的快速起效特性適合急性偏頭痛治療
 
-## 預測適應症詳細分析
+### 時序治療 (Chronotherapy) 概念
 
-<details class="indication-section" open>
-<summary>
-<span class="indication-name">1. rheumatoid arthritis</span>
-<span class="evidence-badge evidence-L4">L4</span>
-<span class="prediction-score">99.90%</span> <span class="primary-badge">主要分析</span>
-</summary>
-<div class="indication-content">
+多篇文獻探討 Lornoxicam 在類風濕性關節炎時序治療的應用，針對早晨關節僵硬症狀設計特殊劑型 (pulsatile release)，利用夜間給藥達到清晨釋放的效果。
 
-<h3>為什麼這個預測合理？</h3>
+---
 
-<p>### 機轉推論</p>
+## 臨床試驗證據
 
-<ol>
-<li><strong>COX-1/COX-2 雙重抑制</strong>：Lornoxicam 是非選擇性 COX 抑制劑，可有效抑制前列腺素合成，減少發炎反應與疼痛。</li>
+### 偏頭痛臨床試驗
 
-<li><strong>類風濕性關節炎應用</strong>：</li>
-</ol>
-<ul>
-<li>NSAIDs 是類風濕性關節炎症狀控制的基礎用藥</li>
-<li>Lornoxicam 的抗發炎與止痛效果適用於關節炎疼痛管理</li>
-<li>相較其他 oxicam 類藥物，其半衰期較短 (3-5 小時)，可能減少副作用累積</li>
+| 試驗編號 | NCT00293657 |
+|---------|-------------|
+| 標題 | 靜脈注射 Lornoxicam 治療偏頭痛急性發作的安全性與療效評估 |
+| 階段 | Phase 2 |
+| 狀態 | 已完成 |
+| 國家 | 美國 |
+| 收案人數 | 150 人 |
+| 研究設計 | 隨機、雙盲、安慰劑對照 |
+| 劑量 | IV Lornoxicam 8mg 或 16mg vs 安慰劑 |
+| 主要終點 | 24 小時內頭痛疼痛強度評估 |
+| 贊助單位 | POZEN |
 
-</ul>
-<ol>
-<li><strong>偏頭痛應用</strong>：</li>
-</ol>
-<ul>
-<li>前列腺素在偏頭痛發病機轉中扮演重要角色</li>
-<li>NSAIDs 已被證實可有效緩解偏頭痛急性發作</li>
-<li>Lornoxicam 的快速起效特性適合急性偏頭痛治療</li>
-</ul>
+**試驗意義**：此 Phase 2 試驗為 Lornoxicam 用於偏頭痛提供了直接臨床證據。
 
-<h3>臨床試驗</h3>
+---
 
-<p>目前無針對此特定適應症的臨床試驗登記。</p>
+## 文獻證據
 
-<h3>相關文獻</h3>
+### 類風濕性關節炎相關文獻 (精選)
 
-<table>
-<thead>
-<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27042335/" target="_blank">27042335</a></td><td>2016</td><td>Article</td><td>RMD open</td><td>Glucocorticoids and chronotherapy in rheumatoid arthritis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22469263/" target="_blank">22469263</a></td><td>2011</td><td>Article</td><td>Profiles of drug substances, e</td><td>Lornoxicam.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25553695/" target="_blank">25553695</a></td><td>2015</td><td>Article</td><td>Pakistan journal of pharmaceut</td><td>Formulation and evaluation of mini-tablets-filled-pulsincap delivery of lornoxic...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32792844/" target="_blank">32792844</a></td><td>2020</td><td>Article</td><td>Saudi pharmaceutical journal :</td><td>Formulation and characterization of lornoxicam-loaded cellulosic-microsponge gel...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29026298/" target="_blank">29026298</a></td><td>2017</td><td>Article</td><td>International journal of nanom</td><td>Therapeutic effects of lornoxicam-loaded nanomicellar formula in experimental mo...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29056774/" target="_blank">29056774</a></td><td>2017</td><td>Article</td><td>Reumatologia</td><td>Glucocorticoid management in rheumatoid arthritis: morning or night low dose?</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23567043/" target="_blank">23567043</a></td><td>2013</td><td>Article</td><td>Journal of controlled release </td><td>Intra-articular drug delivery from an optimized topical patch containing teriflu...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39069701/" target="_blank">39069701</a></td><td>2024</td><td>Article</td><td>Anti-inflammatory &amp; anti-aller</td><td>Formulation and Characterization of Emulgel Lornoxicam Containing Lemon Grass Oi...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8706598/" target="_blank">8706598</a></td><td>1996</td><td>Article</td><td>Drugs</td><td>Lornoxicam. A review of its pharmacology and therapeutic potential in the manage...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24967065/" target="_blank">24967065</a></td><td>2014</td><td>Article</td><td>Iranian journal of basic medic</td><td>Matrix-mini-tablets of lornoxicam for targeting early morning peak symptoms of r...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38953843/" target="_blank">38953843</a></td><td>2024</td><td>Article</td><td>Nanomedicine (London, England)</td><td>Optimizing lornoxicam-loaded poly(lactic-co-glycolic acid) and (polyethylene gly...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12207202/" target="_blank">12207202</a></td><td>2002</td><td>Article</td><td>Minerva medica</td><td>[Long term study on the efficacy and safety of lornoxicam in rheumatoid arthriti...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26556001/" target="_blank">26556001</a></td><td>2013</td><td>Article</td><td>Journal of pharmaceutics</td><td>Development and Evaluation of Dual Cross-Linked Pulsatile Beads for Chronotherap...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28283842/" target="_blank">28283842</a></td><td>2017</td><td>Article</td><td>Drug delivery and translationa</td><td>A pharmaceutical study on lornoxicam fast disintegrating tablets: formulation an...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27086708/" target="_blank">27086708</a></td><td>2016</td><td>Article</td><td>Pain management</td><td>Tolerability of the COX-1/COX-2 inhibitor lornoxicam in the treatment of acute a...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28711030/" target="_blank">28711030</a></td><td>2017</td><td>Article</td><td>International immunopharmacolo</td><td>Carvedilol can attenuate histamine-induced paw edema and formaldehyde-induced ar...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12404032/" target="_blank">12404032</a></td><td>2002</td><td>Article</td><td>Reumatismo</td><td>[Analgesic dose range finding of lornoxicam compared to diclofenac. Crossover do...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18479176/" target="_blank">18479176</a></td><td>2008</td><td>Article</td><td>Clinical drug investigation</td><td>Comparative bioavailability of lornoxicam as single doses of quick-release table...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12240779/" target="_blank">12240779</a></td><td>2002</td><td>Article</td><td>Clinical therapeutics</td><td>Dose-effect relationships of nonsteroidal anti-inflammatory drugs: a literature ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19821419/" target="_blank">19821419</a></td><td>2009</td><td>Article</td><td>The Cochrane database of syste</td><td>Single dose oral lornoxicam for acute postoperative pain in adults.</td></tr>
-</tbody>
-</table>
+| PMID | 標題 | 年份 | 重點發現 |
+|------|------|------|---------|
+| 8706598 | Lornoxicam: 藥理學與治療潛力回顧 | 1996 | 綜合回顧確認 Lornoxicam 在 RA 的療效與安全性 |
+| 12207202 | Lornoxicam 在類風濕性關節炎的長期療效與安全性研究 | 2002 | 臨床試驗證實長期使用的有效性 |
+| 12404032 | Lornoxicam vs Diclofenac 止痛劑量比較研究 | 2002 | 隨機對照試驗顯示 8-16mg/day 與 Diclofenac 150mg/day 等效 |
+| 27086708 | Lornoxicam 在急性與風濕性疼痛治療的耐受性評估 | 2016 | 確認腸胃道副作用的管理策略 |
+| 29026298 | Lornoxicam 奈米微胞配方在實驗性關節炎的治療效果 | 2017 | 奈米製劑可提升療效並減少副作用 |
 
-</div>
-</details>
+### 偏頭痛相關文獻
 
-<details class="indication-section">
-<summary>
-<span class="indication-name">2. migraine with or without aura, susceptibility to</span>
-<span class="evidence-badge evidence-L4">L4</span>
-<span class="prediction-score">99.87%</span>
-</summary>
-<div class="indication-content">
+| PMID | 標題 | 年份 | 重點發現 |
+|------|------|------|---------|
+| 1495823 | 偏頭痛與非類固醇抗發炎藥 | 1992 | 回顧確認 Lornoxicam 及其他 NSAIDs 在偏頭痛的療效 |
+| 8706598 | Lornoxicam 藥理學回顧 | 1996 | 提及偏頭痛為潛在適應症 |
 
-<h3>相關文獻（20 篇）</h3>
+### 時序治療相關文獻
 
-<table>
-<thead>
-<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22938964/" target="_blank">22938964</a></td><td>2012</td><td>Article</td><td>Handbook of clinical neurology</td><td>Animal models.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16201993/" target="_blank">16201993</a></td><td>2005</td><td>Article</td><td>Epilepsia</td><td>Rearranging receptors.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22266888/" target="_blank">22266888</a></td><td>2011</td><td>Article</td><td>Seminars in neurology</td><td>Genetics of epilepsy.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34575901/" target="_blank">34575901</a></td><td>2021</td><td>Article</td><td>International journal of molec</td><td>Selected Molecular Targets for Antiepileptogenesis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34209535/" target="_blank">34209535</a></td><td>2021</td><td>Article</td><td>International journal of molec</td><td>Neuroinflammation: A Signature or a Cause of Epilepsy?</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17460155/" target="_blank">17460155</a></td><td>2007</td><td>Article</td><td>Neurology</td><td>Familial occipitotemporal lobe epilepsy and migraine with visual aura: linkage t...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30267335/" target="_blank">30267335</a></td><td>2018</td><td>Article</td><td>Neurological sciences : offici</td><td>Methylenetetrahydrofolate reductase C677T polymorphism and susceptibility to epi...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23294289/" target="_blank">23294289</a></td><td>2013</td><td>Article</td><td>Epilepsia</td><td>Evidence for a shared genetic susceptibility to migraine and epilepsy.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32639997/" target="_blank">32639997</a></td><td>2020</td><td>Article</td><td>PLoS neglected tropical diseas</td><td>Protection or susceptibility to devastating childhood epilepsy: Nodding Syndrome...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28086980/" target="_blank">28086980</a></td><td>2017</td><td>Article</td><td>Journal of neuroinflammation</td><td>Inflammation in epileptogenesis after traumatic brain injury.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33856647/" target="_blank">33856647</a></td><td>2021</td><td>Article</td><td>Molecular neurobiology</td><td>Epilepsy and Migraine Shared Genetic and Molecular Mechanisms: Focus on Therapeu...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19935934/" target="_blank">19935934</a></td><td>2009</td><td>Article</td><td>Tidsskrift for den Norske laeg</td><td>[Psychogenic non-epileptic seizures].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24874544/" target="_blank">24874544</a></td><td>2014</td><td>Article</td><td>Neurobiology of disease</td><td>Does gender influence susceptibility and consequences of acquired epilepsies?</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28837072/" target="_blank">28837072</a></td><td>2017</td><td>Article</td><td>International journal of molec</td><td>Understanding the Epilepsy in POLG Related Disease.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16377142/" target="_blank">16377142</a></td><td>2006</td><td>Article</td><td>Epilepsy research</td><td>Pediatric epilepsy models.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32521797/" target="_blank">32521797</a></td><td>2020</td><td>Article</td><td>International journal of molec</td><td>Reactive Glia Inflammatory Signaling Pathways and Epilepsy.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24643875/" target="_blank">24643875</a></td><td>2015</td><td>Article</td><td>Metabolic brain disease</td><td>Does abnormal glycogen structure contribute to increased susceptibility to seizu...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21919606/" target="_blank">21919606</a></td><td>2011</td><td>Article</td><td>Pharmacogenomics</td><td>Pharmacogenomics of the human µ-opioid receptor.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12183340/" target="_blank">12183340</a></td><td>2002</td><td>Article</td><td>Brain : a journal of neurology</td><td>Disease modification in partial epilepsy.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33187755/" target="_blank">33187755</a></td><td>2021</td><td>Article</td><td>Clinical neurology and neurosu</td><td>Association of KCNJ10 variants and the susceptibility to clinical epilepsy.</td></tr>
-</tbody>
-</table>
+多篇文獻探討 Lornoxicam 緩釋劑型用於類風濕性關節炎的時序治療概念 (PMID: 25553695, 24967065, 26556001)，設計夜間服用、清晨釋放的製劑以針對早晨關節僵硬症狀。
 
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">3. migraine disorder</span>
-<span class="evidence-badge evidence-L3">L3</span>
-<span class="prediction-score">99.87%</span>
-</summary>
-<div class="indication-content">
-
-<h3>臨床試驗（1 項）</h3>
-
-<table>
-<thead>
-<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT00293657" target="_blank">NCT00293657</a></td><td>PHASE2</td><td>COMPLETED</td><td>150</td><td>A Randomized, Double-Blind, Single-Dose Study, Placebo-Controlled Evaluation of ...</td></tr>
-</tbody>
-</table>
-
-<h3>相關文獻（2 篇）</h3>
-
-<table>
-<thead>
-<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8706598/" target="_blank">8706598</a></td><td>1996</td><td>Article</td><td>Drugs</td><td>Lornoxicam. A review of its pharmacology and therapeutic potential in the manage...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1495823/" target="_blank">1495823</a></td><td>1992</td><td>Article</td><td>Pathologie-biologie</td><td>[Migraine and non-steroidal anti-inflammatory agents].</td></tr>
-</tbody>
-</table>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">4. migraine with brainstem aura</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.85%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">5. brachydactyly-syndactyly syndrome</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.82%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">6. colobomatous microphthalmia-rhizomelic dysplasia syndrome</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.81%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">7. headache disorder</span>
-<span class="evidence-badge evidence-L3">L3</span>
-<span class="prediction-score">99.80%</span>
-</summary>
-<div class="indication-content">
-
-<h3>臨床試驗（1 項）</h3>
-
-<table>
-<thead>
-<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT00293657" target="_blank">NCT00293657</a></td><td>PHASE2</td><td>COMPLETED</td><td>150</td><td>A Randomized, Double-Blind, Single-Dose Study, Placebo-Controlled Evaluation of ...</td></tr>
-</tbody>
-</table>
-
-<h3>相關文獻（2 篇）</h3>
-
-<table>
-<thead>
-<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8706598/" target="_blank">8706598</a></td><td>1996</td><td>Article</td><td>Drugs</td><td>Lornoxicam. A review of its pharmacology and therapeutic potential in the manage...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1495823/" target="_blank">1495823</a></td><td>1992</td><td>Article</td><td>Pathologie-biologie</td><td>[Migraine and non-steroidal anti-inflammatory agents].</td></tr>
-</tbody>
-</table>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">8. trigeminal autonomic cephalalgia</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.75%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">9. tendinitis</span>
-<span class="evidence-badge evidence-L4">L4</span>
-<span class="prediction-score">99.72%</span>
-</summary>
-<div class="indication-content">
-
-<h3>相關文獻（1 篇）</h3>
-
-<table>
-<thead>
-<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27468823/" target="_blank">27468823</a></td><td>2017</td><td>Article</td><td>Der Orthopade</td><td>Lornoxicam injection is inferior to betamethasone in the treatment of subacromia...</td></tr>
-</tbody>
-</table>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">10. idiopathic granulomatous myositis</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.70%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
+---
 
 ## 台灣上市資訊
 
@@ -432,49 +220,5 @@ Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風
 
 *生成日期：2026-02-11*
 
-
 ---
 
-## 相關藥物報告
-
-- [Aluminum Hydroxide]({{ "/drugs/aluminum_hydroxide/" | relative_url }}) - 證據等級 L3
-- [Inositol]({{ "/drugs/inositol/" | relative_url }}) - 證據等級 L3
-- [Propantheline]({{ "/drugs/propantheline/" | relative_url }}) - 證據等級 L3
-- [Alfacalcidol]({{ "/drugs/alfacalcidol/" | relative_url }}) - 證據等級 L3
-- [Amcinonide]({{ "/drugs/amcinonide/" | relative_url }}) - 證據等級 L3
-
----
-
-{% include ai-analysis.html %}
-
-{% include social-share.html %}
-
-## 引用本報告
-
-如需引用本報告，請使用以下格式：
-
-**APA 格式：**
-```
-TwTxGNN. (2026). Lornoxicam老藥新用驗證報告. https://twtxgnn.yao.care/drugs/lornoxicam/
-```
-
-**BibTeX 格式：**
-```bibtex
-@misc{twtxgnn_lornoxicam,
-  title = {Lornoxicam老藥新用驗證報告},
-  author = {TwTxGNN Team},
-  year = {2026},
-  url = {https://twtxgnn.yao.care/drugs/lornoxicam/}
-}
-```
-
----
-
-<div class="disclaimer">
-<strong>免責聲明</strong><br>
-本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
-<br><br>
-<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
-</div>
-
-{% include giscus.html %}

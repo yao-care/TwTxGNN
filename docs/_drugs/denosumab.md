@@ -1,18 +1,25 @@
 ---
 layout: default
 title: Denosumab
-description: "Denosumab 的老藥新用潛力分析。模型預測等級 L5，包含 2 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
-nav_order: 55
-evidence_level: L2
+nav_order: 77
+evidence_level: L5
 indication_count: 2
 ---
 
 # Denosumab
+{: .fs-9 }
 
-<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
-證據等級: <strong>L5</strong> | 預測適應症: <strong>2</strong> 個
-</p>
+證據等級: **L5** | 預測適應症: **2** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
@@ -26,10 +33,7 @@ indication_count: 2
 
 ## 一句話總結
 
-<p class="key-answer" data-question="Denosumab 可以用於治療什麼新適應症？">
 Denosumab 是一種 RANKL 抑制劑，主要用於骨質疏鬆症和骨轉移；TxGNN 預測其可能對糖尿病視網膜病變有潛在療效，已有臨床試驗和文獻初步支持其代謝保護作用。
-</p>
-
 
 ## 快速總覽
 
@@ -39,88 +43,56 @@ Denosumab 是一種 RANKL 抑制劑，主要用於骨質疏鬆症和骨轉移；
 | DrugBank ID | DB06643 |
 | 台灣商品名 | 癌骨瓦 (XGEVA)、保骼麗 (Prolia) |
 | 原適應症 | 骨質疏鬆症、骨轉移、骨巨細胞瘤、惡性高血鈣症 |
-| 預測新適應症 | severe nonproliferative diabetic retinopathy、drug-induced osteoporosis |
+| 預測新適應症 | 嚴重非增殖性糖尿病視網膜病變、糖尿病視網膜病變 |
 | 最高 TxGNN 分數 | 0.9963 (嚴重非增殖性糖尿病視網膜病變) |
 | 臨床試驗支持 | 有 (間接相關) |
 | 文獻支持 | 有 |
 
+## 為什麼預測合理
 
+### 機轉分析
 
+1. **糖尿病視網膜病變 (diabetic retinopathy)**：
+   - Denosumab 抑制 RANKL (RANK ligand)，這是一種與骨代謝和免疫調節相關的蛋白質
+   - RANKL 路徑在發炎反應和血管新生中扮演角色
+   - 糖尿病視網膜病變涉及微血管病變和慢性發炎
+   - 理論上，抑制 RANKL 可能減少發炎介導的視網膜損傷
 
+2. **代謝保護效應**：
+   - 2024 年 Henney AE 等人發表的系統回顧和薈萃分析顯示，denosumab 治療骨質疏鬆症的患者，相較於雙磷酸鹽類藥物，有較低的第二型糖尿病發生率
+   - 這提示 denosumab 可能具有代謝保護作用
 
-## 預測適應症詳細分析
+### 預測品質評估
 
-<details class="indication-section" open>
-<summary>
-<span class="indication-name">1. severe nonproliferative diabetic retinopathy</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.63%</span> <span class="primary-badge">主要分析</span>
-</summary>
-<div class="indication-content">
+- TxGNN 分數相對較低 (0.99 左右)，排名在 7857-13761
+- 但有臨床試驗和文獻間接支持
+- 機轉連結存在但非直接
 
-<h3>為什麼這個預測合理？</h3>
+## 臨床試驗
 
-<p>### 機轉分析</p>
+### 相關試驗
 
-<ol>
-<li><strong>糖尿病視網膜病變 (diabetic retinopathy)</strong>：</li>
-</ol>
-<ul>
-<li>Denosumab 抑制 RANKL (RANK ligand)，這是一種與骨代謝和免疫調節相關的蛋白質</li>
-<li>RANKL 路徑在發炎反應和血管新生中扮演角色</li>
-<li>糖尿病視網膜病變涉及微血管病變和慢性發炎</li>
-<li>理論上，抑制 RANKL 可能減少發炎介導的視網膜損傷</li>
+**NCT00925600** - 已完成
+- 標題：評估接受 denosumab 治療因雄性素去勢療法導致骨質流失的非轉移性前列腺癌患者新發或惡化水晶體混濁
+- 階段：Phase 3
+- 狀態：已完成 (2016)
+- 贊助者：Amgen
+- 受試者：769 人
+- 相關性：研究眼部安全性終點（水晶體混濁），間接涉及糖尿病視網膜病變患者群
 
-</ul>
-<ol>
-<li><strong>代謝保護效應</strong>：</li>
-</ol>
-<ul>
-<li>2024 年 Henney AE 等人發表的系統回顧和薈萃分析顯示，denosumab 治療骨質疏鬆症的患者，相較於雙磷酸鹽類藥物，有較低的第二型糖尿病發生率</li>
-<li>這提示 denosumab 可能具有代謝保護作用</li>
-</ul>
+## 文獻證據
 
-<h3>臨床試驗</h3>
+### 重要文獻
 
-<p>目前無針對此特定適應症的臨床試驗登記。</p>
+1. **Henney AE et al. (2024)** - Diabetes, Obesity & Metabolism
+   - 標題：Denosumab 用於骨質疏鬆症可降低第二型糖尿病發生率、足部潰瘍風險及全因死亡率
+   - 設計：真實世界數據分析 + 系統回顧和薈萃分析
+   - 發現：與雙磷酸鹽類相比，denosumab 降低了微血管併發症（包括視網膜病變）的風險
+   - **證據等級：中等**
 
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">2. diabetic retinopathy</span>
-<span class="evidence-badge evidence-L2">L2</span>
-<span class="prediction-score">99.23%</span>
-</summary>
-<div class="indication-content">
-
-<h3>臨床試驗（1 項）</h3>
-
-<table>
-<thead>
-<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT00925600" target="_blank">NCT00925600</a></td><td>PHASE3</td><td>COMPLETED</td><td>769</td><td>A Double-blind, Placebo-controlled Study to Evaluate New or Worsening Lens Opaci...</td></tr>
-</tbody>
-</table>
-
-<h3>相關文獻（2 篇）</h3>
-
-<table>
-<thead>
-<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38899553/" target="_blank">38899553</a></td><td>2024</td><td>Article</td><td>Diabetes, obesity &amp; metabolism</td><td>Denosumab, for osteoporosis, reduces the incidence of type 2 diabetes, risk of f...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36960265/" target="_blank">36960265</a></td><td>2023</td><td>Article</td><td>Cureus</td><td>Evaluation of Usage of a Fracture Risk Assessment by FRAX Tool in Adults With Ty...</td></tr>
-</tbody>
-</table>
-
-</div>
-</details>
-
+2. **Santos Monteiro S et al. (2023)** - Cureus
+   - 研究第二型糖尿病患者的骨折風險評估
+   - 涉及 denosumab 在糖尿病患者中的使用
 
 ## 台灣上市狀態
 
@@ -183,49 +155,5 @@ Denosumab 對糖尿病視網膜病變的預測具有一定的科學基礎。2024
 *報告產生日期：2026-02-11*
 *資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、台灣 FDA*
 
-
 ---
 
-## 相關藥物報告
-
-- [Carbenoxolone]({{ "/drugs/carbenoxolone/" | relative_url }}) - 證據等級 L5
-- [Tofacitinib]({{ "/drugs/tofacitinib/" | relative_url }}) - 證據等級 L5
-- [Sodium Carbonate]({{ "/drugs/sodium_carbonate/" | relative_url }}) - 證據等級 L5
-- [Sulfamerazine]({{ "/drugs/sulfamerazine/" | relative_url }}) - 證據等級 L5
-- [Trihexyphenidyl]({{ "/drugs/trihexyphenidyl/" | relative_url }}) - 證據等級 L5
-
----
-
-{% include ai-analysis.html %}
-
-{% include social-share.html %}
-
-## 引用本報告
-
-如需引用本報告，請使用以下格式：
-
-**APA 格式：**
-```
-TwTxGNN. (2026). Denosumab老藥新用驗證報告. https://twtxgnn.yao.care/drugs/denosumab/
-```
-
-**BibTeX 格式：**
-```bibtex
-@misc{twtxgnn_denosumab,
-  title = {Denosumab老藥新用驗證報告},
-  author = {TwTxGNN Team},
-  year = {2026},
-  url = {https://twtxgnn.yao.care/drugs/denosumab/}
-}
-```
-
----
-
-<div class="disclaimer">
-<strong>免責聲明</strong><br>
-本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
-<br><br>
-<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
-</div>
-
-{% include giscus.html %}

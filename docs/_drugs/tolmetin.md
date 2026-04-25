@@ -1,18 +1,25 @@
 ---
 layout: default
 title: Tolmetin
-description: "Tolmetin 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
-nav_order: 179
+nav_order: 262
 evidence_level: L5
 indication_count: 10
 ---
 
 # Tolmetin
+{: .fs-9 }
 
-<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
-證據等級: <strong>L5</strong> | 預測適應症: <strong>10</strong> 個
-</p>
+證據等級: **L5** | 預測適應症: **10** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
@@ -26,10 +33,7 @@ indication_count: 10
 
 ## 一句話總結
 
-<p class="key-answer" data-question="Tolmetin 可以用於治療什麼新適應症？">
 Tolmetin 是一種非類固醇抗發炎藥 (NSAID)，TxGNN 預測多項罕見骨骼發育疾病，但均缺乏臨床試驗與文獻支持，不建議用於這些預測適應症。
-</p>
-
 
 ---
 
@@ -40,207 +44,56 @@ Tolmetin 是一種非類固醇抗發炎藥 (NSAID)，TxGNN 預測多項罕見骨
 | 藥物名稱 | Tolmetin (妥美汀) |
 | DrugBank ID | DB00500 |
 | 原適應症 | 類風濕性關節炎、骨關節炎、僵直性脊椎炎、急性痛風 |
-| 預測新適應症 | osteoarthritis susceptibility、osteoarthritis、acromesomelic dysplasia, Hunter-Thompson type、brachyolmia-amelogenesis imperfecta syndrome、myosclerosis、brachyolmia、arthropathy、pseudoachondroplasia、rheumatoid arthritis、rheumatoid nodulosis |
+| 預測新適應症 | 肢端中段發育不全、短軀幹發育不良、肌硬化症、假性軟骨發育不全等罕病 |
 | 最高 TxGNN 分數 | 0.9998 (Hunter-Thompson 型肢端中段發育不全，排名 887) |
 | 證據等級 | 所有預測適應症均無臨床試驗與文獻支持 |
 | 台灣上市狀態 | 有效許可證（利達、恆信、應元等廠） |
 
 ---
 
+## 為什麼預測合理？
 
+### 機轉分析
 
+Tolmetin 是非選擇性 COX 抑制劑，具有抗發炎、鎮痛、解熱作用。TxGNN 預測的適應症多為罕見骨骼發育異常疾病：
 
+| 預測適應症 | TxGNN 分數 | 疾病特性 |
+|-----------|-----------|---------|
+| Hunter-Thompson 型肢端中段發育不全 | 0.9998 | GDF5 基因突變，軟骨發育異常 |
+| 短軀幹發育不良-牙釉質發育不全症候群 | 0.9998 | LTBP3 基因突變 |
+| 肌硬化症 | 0.9998 | 肌肉進行性纖維化 |
+| 假性軟骨發育不全 | 0.9995 | COMP 基因突變 |
 
-## 預測適應症詳細分析
+### 預測限制
 
-<details class="indication-section" open>
-<summary>
-<span class="indication-name">1. acromesomelic dysplasia, Hunter-Thompson type</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.98%</span> <span class="primary-badge">主要分析</span>
-</summary>
-<div class="indication-content">
+1. **機轉不符**：NSAID 無法修正基因突變導致的發育異常
+2. **疾病本質**：這些疾病是結構性/發育性問題，非發炎性疾病
+3. **可能原因**：這些疾病常伴有關節疼痛，可能造成知識圖譜關聯
 
-<h3>為什麼這個預測合理？</h3>
+### 合理的症狀緩解應用
 
-<p>### 機轉分析</p>
+部分預測可能反映的是：
+- 骨骼發育異常患者常有關節疼痛
+- NSAID 可用於這些患者的症狀緩解
+- 但這不等於「治療」該疾病本身
 
-<p>Tolmetin 是非選擇性 COX 抑制劑，具有抗發炎、鎮痛、解熱作用。TxGNN 預測的適應症多為罕見骨骼發育異常疾病：</p>
+---
 
-<table>
-<thead>
-<tr>
-<th>預測適應症</th>
-<th>TxGNN 分數</th>
-<th>疾病特性</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Hunter-Thompson 型肢端中段發育不全</td>
-<td>0.9998</td>
-<td>GDF5 基因突變，軟骨發育異常</td>
-</tr>
-<tr>
-<td>短軀幹發育不良-牙釉質發育不全症候群</td>
-<td>0.9998</td>
-<td>LTBP3 基因突變</td>
-</tr>
-<tr>
-<td>肌硬化症</td>
-<td>0.9998</td>
-<td>肌肉進行性纖維化</td>
-</tr>
-<tr>
-<td>假性軟骨發育不全</td>
-<td>0.9995</td>
-<td>COMP 基因突變</td>
-</tr>
-</tbody>
-</table>
+## 臨床試驗
 
-<h3>臨床試驗</h3>
+**所有預測適應症均無相關臨床試驗**
 
-<p>目前無針對此特定適應症的臨床試驗登記。</p>
+在 ClinicalTrials.gov 與 ICTRP 未找到 Tolmetin 用於任何預測適應症的臨床試驗。
 
-</div>
-</details>
+---
 
-<details class="indication-section">
-<summary>
-<span class="indication-name">2. brachyolmia-amelogenesis imperfecta syndrome</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.98%</span>
-</summary>
-<div class="indication-content">
+## 文獻證據
 
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
+**所有預測適應症均無相關 PubMed 文獻**
 
-</div>
-</details>
+未發現任何探討 Tolmetin 用於這些罕見骨骼發育疾病的學術文獻。
 
-<details class="indication-section">
-<summary>
-<span class="indication-name">3. myosclerosis</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.98%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">4. brachyolmia</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.97%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">5. pseudoachondroplasia</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.95%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">6. rheumatoid nodulosis</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.76%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">7. rheumatoid factor-positive polyarticular juvenile idiopathic arthritis</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.75%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">8. spondyloarthropathy, susceptibility to</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.75%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">9. colobomatous microphthalmia-rhizomelic dysplasia syndrome</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.72%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">10. WHIM syndrome</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.71%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
+---
 
 ## 台灣上市情形
 
@@ -335,49 +188,5 @@ Tolmetin 在台灣有有效許可證，但多數已註銷：
 *報告產生日期：2026-02-11*
 *資料來源：TxGNN 知識圖譜預測、ClinicalTrials.gov、PubMed、台灣 FDA*
 
-
 ---
 
-## 相關藥物報告
-
-- [Pitolisant]({{ "/drugs/pitolisant/" | relative_url }}) - 證據等級 L5
-- [Salicylic Acid]({{ "/drugs/salicylic_acid/" | relative_url }}) - 證據等級 L5
-- [Tyrosine]({{ "/drugs/tyrosine/" | relative_url }}) - 證據等級 L5
-- [Caspofungin]({{ "/drugs/caspofungin/" | relative_url }}) - 證據等級 L5
-- [Benzylpenicillin]({{ "/drugs/benzylpenicillin/" | relative_url }}) - 證據等級 L5
-
----
-
-{% include ai-analysis.html %}
-
-{% include social-share.html %}
-
-## 引用本報告
-
-如需引用本報告，請使用以下格式：
-
-**APA 格式：**
-```
-TwTxGNN. (2026). Tolmetin老藥新用驗證報告. https://twtxgnn.yao.care/drugs/tolmetin/
-```
-
-**BibTeX 格式：**
-```bibtex
-@misc{twtxgnn_tolmetin,
-  title = {Tolmetin老藥新用驗證報告},
-  author = {TwTxGNN Team},
-  year = {2026},
-  url = {https://twtxgnn.yao.care/drugs/tolmetin/}
-}
-```
-
----
-
-<div class="disclaimer">
-<strong>免責聲明</strong><br>
-本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
-<br><br>
-<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
-</div>
-
-{% include giscus.html %}

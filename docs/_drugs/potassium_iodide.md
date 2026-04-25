@@ -1,18 +1,25 @@
 ---
 layout: default
 title: Potassium Iodide
-description: "Potassium Iodide 的老藥新用潛力分析。模型預測等級 L5，包含 2 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
-nav_order: 134
-evidence_level: L4
+nav_order: 207
+evidence_level: L5
 indication_count: 2
 ---
 
 # Potassium Iodide
+{: .fs-9 }
 
-<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
-證據等級: <strong>L5</strong> | 預測適應症: <strong>2</strong> 個
-</p>
+證據等級: **L5** | 預測適應症: **2** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
@@ -26,9 +33,7 @@ indication_count: 2
 
 ## 一句話總結
 
-<p class="key-answer" data-question="Potassium Iodide 可以用於治療什麼新適應症？">
 碘化鉀是一種具有祛痰、抗真菌及甲狀腺保護作用的藥物,TxGNN預測其可用於鼻腔疾病治療,已有文獻證據支持其對真菌性鼻竇炎的療效。
-</p>
 
 ## 快速總覽
 
@@ -38,72 +43,58 @@ indication_count: 2
 | DrugBank ID | DB06715 |
 | 台灣品牌名 | 碘化鉀、濃碘酊、碘楊酸外用液劑 |
 | 原核准適應症 | 祛痰、皮膚消毒、甲狀腺腫預防、絲狀菌感染 |
-| 預測新適應症 | pharyngitis、nasal cavity disease |
+| 預測新適應症 | 鼻腔疾病 (nasal cavity disease)、急性喉咽炎 |
 | 最高證據等級 | L3 (觀察性研究/病例報告) |
 | 臨床試驗數 | 0項 |
 | 文獻支持 | 4篇 (鼻腔真菌感染) |
 
+## 為什麼這個預測合理?
 
+### 鼻腔疾病預測分析 (TxGNN Score: 0.9995, Rank: 1593)
 
+1. **抗真菌活性**: 碘化鉀具有已知的抗真菌活性,特別是對孢子絲菌病和接合菌病
+2. **黏膜作用**: 碘離子可促進黏液分泌和清除
+3. **免疫調節**: 可能具有增強局部免疫反應的作用
+4. **歷史應用**: 傳統上用於治療深部真菌感染
 
+### 急性喉咽炎預測分析 (TxGNN Score: 0.9995, Rank: 1664)
 
-## 預測適應症詳細分析
+1. **祛痰作用**: 碘化鉀可增加呼吸道分泌物,有助於痰液排出
+2. **抗菌特性**: 碘具有廣譜抗菌作用
+3. **黏膜保護**: 可能有助於黏膜修復
 
-<details class="indication-section" open>
-<summary>
-<span class="indication-name">1. nasal cavity disease</span>
-<span class="evidence-badge evidence-L4">L4</span>
-<span class="prediction-score">99.95%</span> <span class="primary-badge">主要分析</span>
-</summary>
-<div class="indication-content">
+## 臨床試驗證據
 
-<h3>為什麼這個預測合理？</h3>
+### 檢索結果
 
-<p>### 鼻腔疾病預測分析 (TxGNN Score: 0.9995, Rank: 1593)</p>
+**ClinicalTrials.gov**: 無直接相關試驗
+**ICTRP**: 無直接相關試驗
 
-<ol>
-<li><strong>抗真菌活性</strong>: 碘化鉀具有已知的抗真菌活性,特別是對孢子絲菌病和接合菌病</li>
-<li><strong>黏膜作用</strong>: 碘離子可促進黏液分泌和清除</li>
-<li><strong>免疫調節</strong>: 可能具有增強局部免疫反應的作用</li>
-<li><strong>歷史應用</strong>: 傳統上用於治療深部真菌感染</li>
-</ol>
+目前沒有針對碘化鉀治療鼻腔疾病或喉咽炎的前瞻性臨床試驗。
 
-<h3>臨床試驗</h3>
+## 文獻證據
 
-<p>目前無針對此特定適應症的臨床試驗登記。</p>
+### 鼻腔疾病相關文獻 (共4篇)
 
-<h3>相關文獻</h3>
+| PMID | 年份 | 標題 | 研究類型 | 動物/人類 |
+|------|------|------|----------|-----------|
+| 34902797 | 2022 | 綿羊鼻面部腐黴病的碘化鉀治療成功案例 | 病例報告 | 動物 |
+| 39576399 | 2024 | 馬匹煙曲霉真菌性鼻炎治療 | 病例報告 | 動物 |
+| 10976304 | 2000 | 馬匹假性阿利舍氏菌鼻腔感染 | 病例報告 | 動物 |
+| 7997795 | 1994 | 鼻面部接合菌病病例報告 | 病例報告 | 人類 |
 
-<table>
-<thead>
-<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34902797/" target="_blank">34902797</a></td><td>2022</td><td>Article</td><td>Journal de mycologie medicale</td><td>Successful potassium iodide treatment for rhinofacial pythiosis in sheep.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39576399/" target="_blank">39576399</a></td><td>2024</td><td>Article</td><td>Veterinary research communicat</td><td>Treatment of mycotic rhinitis caused by aspergillus fumigatus in a quarter horse...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10976304/" target="_blank">10976304</a></td><td>2000</td><td>Article</td><td>Journal of the American Veteri</td><td>Pseudallescheria boydii infection of the nasal cavity of a horse.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7997795/" target="_blank">7997795</a></td><td>1994</td><td>Article</td><td>Revista do Instituto de Medici</td><td>[Nasofacial zygomycosis. Report of a case of Para state, Brazil].</td></tr>
-</tbody>
-</table>
+### 關鍵文獻摘要
 
-</div>
-</details>
+**PMID: 7997795 (人類病例)**:
+- 64歲女性患者
+- 鼻面部接合菌病診斷
+- 碘化鉀治療獲得快速反應
+- 後續合併itraconazole治療
 
-<details class="indication-section">
-<summary>
-<span class="indication-name">2. acute laryngopharyngitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.95%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
+**PMID: 34902797 (獸醫研究)**:
+- 綿羊鼻面部腐黴病
+- 口服碘化鉀治療成功
+- 證實碘化鉀對Pythium insidiosum有效
 
 ## 台灣上市資訊
 
@@ -149,23 +140,6 @@ indication_count: 2
 | I-131, I-123 | 干擾放射碘攝取 |
 | Aliskiren | 增加高血鉀風險 |
 
-
-### 藥物-疾病注意事項 (DDSI)
-
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
-
-**甲狀腺機能亢進** 🟡 Moderate
-- 注意事項：The use of iodide salts has been associated with the exacerbation or precipitation of hyperthyroidism in patients previously euthyroid...
-
-**Heart Diseases** 🟡 Moderate
-- 不應使用本藥物。
-
-**Dermatitis Herpetiformis** 🟡 Moderate
-- 不應使用本藥物。
-
-**Vasculitis** 🟡 Moderate
-- 注意事項：People who are allergic to iodide or have hypocomplementemic vasculitis should not take potassium iodide...
-
 ## 結論與下一步
 
 ### 整體評估
@@ -207,46 +181,3 @@ indication_count: 2
 
 ---
 
-## 相關藥物報告
-
-- [Pemetrexed]({{ "/drugs/pemetrexed/" | relative_url }}) - 證據等級 L5
-- [Povidone]({{ "/drugs/povidone/" | relative_url }}) - 證據等級 L5
-- [Denosumab]({{ "/drugs/denosumab/" | relative_url }}) - 證據等級 L5
-- [Atracurium Besylate]({{ "/drugs/atracurium_besylate/" | relative_url }}) - 證據等級 L5
-- [Sacituzumab Govitecan]({{ "/drugs/sacituzumab_govitecan/" | relative_url }}) - 證據等級 L5
-
----
-
-{% include ai-analysis.html %}
-
-{% include social-share.html %}
-
-## 引用本報告
-
-如需引用本報告，請使用以下格式：
-
-**APA 格式：**
-```
-TwTxGNN. (2026). Potassium Iodide老藥新用驗證報告. https://twtxgnn.yao.care/drugs/potassium_iodide/
-```
-
-**BibTeX 格式：**
-```bibtex
-@misc{twtxgnn_potassium_iodide,
-  title = {Potassium Iodide老藥新用驗證報告},
-  author = {TwTxGNN Team},
-  year = {2026},
-  url = {https://twtxgnn.yao.care/drugs/potassium_iodide/}
-}
-```
-
----
-
-<div class="disclaimer">
-<strong>免責聲明</strong><br>
-本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
-<br><br>
-<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
-</div>
-
-{% include giscus.html %}

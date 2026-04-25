@@ -1,18 +1,25 @@
 ---
 layout: default
 title: Disopyramide
-description: "Disopyramide 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
-nav_order: 59
-evidence_level: L4
+nav_order: 83
+evidence_level: L5
 indication_count: 10
 ---
 
 # Disopyramide
+{: .fs-9 }
 
-<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
-證據等級: <strong>L5</strong> | 預測適應症: <strong>10</strong> 個
-</p>
+證據等級: **L5** | 預測適應症: **10** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
@@ -26,10 +33,7 @@ indication_count: 10
 
 ## 一句話總結
 
-<p class="key-answer" data-question="Disopyramide 可以用於治療什麼新適應症？">
 Disopyramide 是一種 Class Ia 抗心律不整藥物，TxGNN 預測其可能對妥瑞症、ADHD 和拔毛症等神經精神疾病有療效，但這些預測缺乏機轉支持和臨床證據，可能是知識圖譜中的假陽性關聯。
-</p>
-
 
 ## 快速總覽
 
@@ -39,215 +43,63 @@ Disopyramide 是一種 Class Ia 抗心律不整藥物，TxGNN 預測其可能對
 | DrugBank ID | DB00280 |
 | 台灣商品名 | 福元心達寧膠囊 100mg |
 | 原適應症 | 心室性不整律、心律不整 |
-| 預測新適應症 | Tourette syndrome、attention deficit-hyperactivity disorder、trichotillomania、attention deficit hyperactivity disorder, inattentive type、faciodigitogenital syndrome、specific developmental disorder、idiopathic neonatal atrial flutter、chondromyxoid fibroma、multifocal atrial tachycardia (disease)、trigeminal nerve neoplasm |
+| 預測新適應症 | 妥瑞症、ADHD、拔毛症、多灶性心房頻脈、新生兒心房撲動 |
 | 最高 TxGNN 分數 | 0.9986 (妥瑞症) |
 | 臨床試驗支持 | 無 |
 | 文獻支持 | 極弱（僅心律不整相關） |
 
+## 為什麼預測合理
 
+### 機轉分析
 
+1. **妥瑞症 (Tourette syndrome)** - TxGNN 分數 0.9986：
+   - Disopyramide 具有抗膽鹼作用
+   - 妥瑞症涉及多巴胺系統異常
+   - 但 disopyramide 主要作用於心臟鈉離子通道，對中樞神經系統的直接影響有限
+   - **機轉連結薄弱**
 
+2. **注意力不足過動症 (ADHD)** - TxGNN 分數 0.9982：
+   - ADHD 主要與多巴胺和正腎上腺素通路相關
+   - Disopyramide 無已知的中樞神經系統活性
+   - **機轉連結極為薄弱**
 
-## 預測適應症詳細分析
+3. **拔毛症 (trichotillomania)** - TxGNN 分數 0.9981：
+   - 這是一種強迫相關障礙
+   - 與 disopyramide 的藥理作用無關
+   - **機轉連結極為薄弱**
 
-<details class="indication-section" open>
-<summary>
-<span class="indication-name">1. Tourette syndrome</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.86%</span> <span class="primary-badge">主要分析</span>
-</summary>
-<div class="indication-content">
+4. **新生兒心房撲動 / 多灶性心房頻脈**：
+   - 這些預測與原適應症（心律不整）直接相關
+   - Disopyramide 作為 Class Ia 抗心律不整藥確實可能用於某些心房心律不整
+   - **但已在原適應症範圍內**
 
-<h3>為什麼這個預測合理？</h3>
+### 預測品質評估
 
-<p>### 機轉分析</p>
+- 神經精神疾病預測（妥瑞症、ADHD、拔毛症）可能是知識圖譜中的假陽性關聯
+- 這些預測可能源於藥物的抗膽鹼作用與某些神經疾病的間接關聯
+- 心律不整相關預測與原適應症重疊
 
-<ol>
-<li><strong>妥瑞症 (Tourette syndrome)</strong> - TxGNN 分數 0.9986：</li>
-</ol>
-<ul>
-<li>Disopyramide 具有抗膽鹼作用</li>
-<li>妥瑞症涉及多巴胺系統異常</li>
-<li>但 disopyramide 主要作用於心臟鈉離子通道，對中樞神經系統的直接影響有限</li>
-<li><strong>機轉連結薄弱</strong></li>
+## 臨床試驗
 
-</ul>
-<ol>
-<li><strong>注意力不足過動症 (ADHD)</strong> - TxGNN 分數 0.9982：</li>
-</ol>
-<ul>
-<li>ADHD 主要與多巴胺和正腎上腺素通路相關</li>
-<li>Disopyramide 無已知的中樞神經系統活性</li>
-<li><strong>機轉連結極為薄弱</strong></li>
+**無相關臨床試驗**
 
-</ul>
-<ol>
-<li><strong>拔毛症 (trichotillomania)</strong> - TxGNN 分數 0.9981：</li>
-</ol>
-<ul>
-<li>這是一種強迫相關障礙</li>
-<li>與 disopyramide 的藥理作用無關</li>
-<li><strong>機轉連結極為薄弱</strong></li>
+未發現 disopyramide 用於妥瑞症、ADHD 或其他預測新適應症的臨床試驗。
 
-</ul>
-<ol>
-<li><strong>新生兒心房撲動 / 多灶性心房頻脈</strong>：</li>
-</ol>
-<ul>
-<li>這些預測與原適應症（心律不整）直接相關</li>
-<li>Disopyramide 作為 Class Ia 抗心律不整藥確實可能用於某些心房心律不整</li>
-<li><strong>但已在原適應症範圍內</strong></li>
-</ul>
+## 文獻證據
 
-<h3>臨床試驗</h3>
+### 多灶性心房頻脈相關文獻
 
-<p>目前無針對此特定適應症的臨床試驗登記。</p>
+1. **Somani P et al. (1980)** - Chest
+   - 報告一例難治性心室和心房心律不整患者
+   - 患者對多種藥物（包括 disopyramide）無效
+   - 最終使用 lorcainide 成功治療
+   - 相關性：僅提及 disopyramide 為失敗治療選項之一
 
-</div>
-</details>
+### 神經精神疾病相關文獻
 
-<details class="indication-section">
-<summary>
-<span class="indication-name">2. attention deficit-hyperactivity disorder</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.82%</span>
-</summary>
-<div class="indication-content">
+**無相關文獻**
 
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">3. trichotillomania</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.81%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">4. attention deficit hyperactivity disorder, inattentive type</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.74%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">5. faciodigitogenital syndrome</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.66%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">6. specific developmental disorder</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.54%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">7. idiopathic neonatal atrial flutter</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.42%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">8. chondromyxoid fibroma</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.41%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">9. multifocal atrial tachycardia (disease)</span>
-<span class="evidence-badge evidence-L4">L4</span>
-<span class="prediction-score">99.21%</span>
-</summary>
-<div class="indication-content">
-
-<h3>相關文獻（1 篇）</h3>
-
-<table>
-<thead>
-<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7418495/" target="_blank">7418495</a></td><td>1980</td><td>Article</td><td>Chest</td><td>Resistant ventricular arrhythmias treated with lorcainide, a new antiarrhythmic ...</td></tr>
-</tbody>
-</table>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">10. trigeminal nerve neoplasm</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.16%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
+未發現任何將 disopyramide 用於妥瑞症、ADHD 或拔毛症治療的文獻。
 
 ## 台灣上市狀態
 
@@ -312,49 +164,5 @@ Disopyramide 的 TxGNN 預測新適應症主要為神經精神疾病（妥瑞症
 *報告產生日期：2026-02-11*
 *資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、台灣 FDA*
 
-
 ---
 
-## 相關藥物報告
-
-- [Gefitinib]({{ "/drugs/gefitinib/" | relative_url }}) - 證據等級 L5
-- [Berberine]({{ "/drugs/berberine/" | relative_url }}) - 證據等級 L5
-- [Diosmin]({{ "/drugs/diosmin/" | relative_url }}) - 證據等級 L5
-- [Paclitaxel]({{ "/drugs/paclitaxel/" | relative_url }}) - 證據等級 L5
-- [Pipemidic Acid]({{ "/drugs/pipemidic_acid/" | relative_url }}) - 證據等級 L5
-
----
-
-{% include ai-analysis.html %}
-
-{% include social-share.html %}
-
-## 引用本報告
-
-如需引用本報告，請使用以下格式：
-
-**APA 格式：**
-```
-TwTxGNN. (2026). Disopyramide老藥新用驗證報告. https://twtxgnn.yao.care/drugs/disopyramide/
-```
-
-**BibTeX 格式：**
-```bibtex
-@misc{twtxgnn_disopyramide,
-  title = {Disopyramide老藥新用驗證報告},
-  author = {TwTxGNN Team},
-  year = {2026},
-  url = {https://twtxgnn.yao.care/drugs/disopyramide/}
-}
-```
-
----
-
-<div class="disclaimer">
-<strong>免責聲明</strong><br>
-本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
-<br><br>
-<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
-</div>
-
-{% include giscus.html %}

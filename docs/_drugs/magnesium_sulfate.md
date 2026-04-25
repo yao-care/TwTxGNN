@@ -1,18 +1,25 @@
 ---
 layout: default
 title: Magnesium Sulfate
-description: "Magnesium Sulfate 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
-nav_order: 101
-evidence_level: L1
+nav_order: 159
+evidence_level: L5
 indication_count: 10
 ---
 
 # Magnesium Sulfate
+{: .fs-9 }
 
-<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
-證據等級: <strong>L5</strong> | 預測適應症: <strong>10</strong> 個
-</p>
+證據等級: **L5** | 預測適應症: **10** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
@@ -26,9 +33,7 @@ indication_count: 10
 
 ## 一句話總結
 
-<p class="key-answer" data-question="Magnesium Sulfate 可以用於治療什麼新適應症？">
 Magnesium sulfate 為多用途藥物，TxGNN 預測其用於子癇前症/子癇症的預測與台灣現行核准適應症完全一致，具有極豐富的 RCT 及 Phase 3/4 臨床試驗證據，為最高證據等級 (L1)。
-</p>
 
 ---
 
@@ -49,558 +54,98 @@ Magnesium sulfate 為多用途藥物，TxGNN 預測其用於子癇前症/子癇�
 
 ---
 
+## 為什麼這個預測合理？
 
+### 機轉推論
 
+1. **中樞神經保護作用**：
+   - Magnesium sulfate 可阻斷 NMDA 受體，減少興奮性神經傳導
+   - 降低腦血管痙攣及腦灌流壓
+   - 有效預防子癇症痙攣發作
 
+2. **血管擴張效應**：
+   - 作為鈣離子拮抗劑，可放鬆血管平滑肌
+   - 減少周邊血管阻力
+   - 改善子宮胎盤血流
 
-## 預測適應症詳細分析
+3. **神經肌肉阻斷**：
+   - 減少乙醯膽鹼釋放
+   - 降低神經肌肉接合處興奮性
+   - 預防痙攣性抽搐
 
-<details class="indication-section" open>
-<summary>
-<span class="indication-name">1. preeclampsia/eclampsia</span>
-<span class="evidence-badge evidence-L1">L1</span>
-<span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
-</summary>
-<div class="indication-content">
+4. **抗發炎作用**：
+   - 減少促發炎細胞激素釋放
+   - 保護內皮細胞功能
 
-<h3>為什麼這個預測合理？</h3>
+### 預測評估
 
-<p>### 機轉推論</p>
+此為 **「已核准適應症的再次驗證」**，TxGNN 模型成功識別出 Magnesium sulfate 與子癇前症/子癇症的強關聯，與臨床實務完全吻合。
 
-<ol>
-<li><strong>中樞神經保護作用</strong>：</li>
-</ol>
-<ul>
-<li>Magnesium sulfate 可阻斷 NMDA 受體，減少興奮性神經傳導</li>
-<li>降低腦血管痙攣及腦灌流壓</li>
-<li>有效預防子癇症痙攣發作</li>
+---
 
-</ul>
-<ol>
-<li><strong>血管擴張效應</strong>：</li>
-</ol>
-<ul>
-<li>作為鈣離子拮抗劑，可放鬆血管平滑肌</li>
-<li>減少周邊血管阻力</li>
-<li>改善子宮胎盤血流</li>
+## 臨床試驗證據
 
-</ul>
-<ol>
-<li><strong>神經肌肉阻斷</strong>：</li>
-</ol>
-<ul>
-<li>減少乙醯膽鹼釋放</li>
-<li>降低神經肌肉接合處興奮性</li>
-<li>預防痙攣性抽搐</li>
+### 試驗數量統計
 
-</ul>
-<ol>
-<li><strong>抗發炎作用</strong>：</li>
-</ol>
-<ul>
-<li>減少促發炎細胞激素釋放</li>
-<li>保護內皮細胞功能</li>
-</ul>
+| 試驗階段 | 數量 |
+|---------|------|
+| Phase 3/4 | 10+ |
+| Phase 2/3 | 5+ |
+| 其他臨床試驗 | 20+ |
+| **總計** | **30+** |
 
-<h3>臨床試驗</h3>
+### 代表性臨床試驗 (精選)
 
-<table>
-<thead>
-<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT00004399" target="_blank">NCT00004399</a></td><td>NA</td><td>COMPLETED</td><td>2000</td><td>Randomized Study of Nimodipine Versus Magnesium Sulfate in the Prevention of Ecl...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT01030627" target="_blank">NCT01030627</a></td><td>PHASE4</td><td>COMPLETED</td><td>85</td><td>Treatment Approaches to Preeclampsia</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT02396030" target="_blank">NCT02396030</a></td><td>PHASE4</td><td>TERMINATED</td><td>62</td><td>Effectiveness and Safety of 1g/Hour vs. 2g/Hour of Magnesium Sulfate Maintenance...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT03210350" target="_blank">NCT03210350</a></td><td>N/A</td><td>COMPLETED</td><td>30</td><td>Effect of Magnesium Sulphate on the Intracranial Pressure of Preeclamptic Patien...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT05789381" target="_blank">NCT05789381</a></td><td>NA</td><td>WITHDRAWN</td><td>0</td><td>Patient Satisfaction and Abbreviated Postpartum Magnesium Sulfate for Preeclamps...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04586348" target="_blank">NCT04586348</a></td><td>PHASE4</td><td>ACTIVE_NOT_RECRUITING</td><td>794</td><td>Prenatal Iodine Supplementation and Early Childhood Neurodevelopment</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT02647268" target="_blank">NCT02647268</a></td><td>NA</td><td>COMPLETED</td><td>26</td><td>Effect of Magnesium Sulphate Pre-exposure on Oxytocin-induced Contractility in D...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT00344058" target="_blank">NCT00344058</a></td><td>NA</td><td>COMPLETED</td><td>200</td><td>Abbreviated Post-partum Magnesium Sulfate Seizure Prophylaxis in Preeclampsia: A...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT03549767" target="_blank">NCT03549767</a></td><td>NA</td><td>UNKNOWN</td><td>241</td><td>Randomized Trial to Compare Magnesium Sulphate Administration for Preeclampsia a...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT02317146" target="_blank">NCT02317146</a></td><td>PHASE2, PHASE3</td><td>COMPLETED</td><td>280</td><td>A Novel Protocol for Postpartum Magnesium Sulfate in Severe Preeclampsia When th...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT01911494" target="_blank">NCT01911494</a></td><td>NA</td><td>COMPLETED</td><td>87500</td><td>The CLIP (Community Level Interventions for Pre-eclampsia) Cluster Randomized Co...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT02307201" target="_blank">NCT02307201</a></td><td>PHASE2, PHASE3</td><td>COMPLETED</td><td>1114</td><td>Magnesium Sulfate During the Postpartum in Women With Severe Preeclampsia Receiv...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04645719" target="_blank">NCT04645719</a></td><td>PHASE3</td><td>UNKNOWN</td><td>75</td><td>Best Dose of Magnesium Sulfate Infusion in Obese. A Blind and Randomized Trial</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT03318211" target="_blank">NCT03318211</a></td><td>PHASE4</td><td>UNKNOWN</td><td>100</td><td>Continuation Versus Discontinuation of Magnesium Sulfate After Delivery in Women...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT06126068" target="_blank">NCT06126068</a></td><td>NA</td><td>COMPLETED</td><td>120</td><td>Comparison of Loading Dose Magnesium Sulphate With Prichard Regimen in the Manag...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT02091401" target="_blank">NCT02091401</a></td><td>PHASE4</td><td>COMPLETED</td><td>200</td><td>A Randomized Open-label Study to Compare the Clinical Outcomes and Magnesium Ser...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT07220902" target="_blank">NCT07220902</a></td><td>PHASE3</td><td>NOT_YET_RECRUITING</td><td>1240</td><td>Levetiracetam Compared to Magnesium Sulfate for Prevention of Eclamptic Seizure:...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT01360060" target="_blank">NCT01360060</a></td><td>N/A</td><td>COMPLETED</td><td>503</td><td>Analgesia After Cesarean Section</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT03412552" target="_blank">NCT03412552</a></td><td>N/A</td><td>COMPLETED</td><td>1238</td><td>Risk Analysis of Intensive Care Management on Maternal and Fetal Outcome of Seve...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04003688" target="_blank">NCT04003688</a></td><td>NA</td><td>COMPLETED</td><td>74</td><td>Strategy to Calculate Magnesium Sulfate Dose in Obese Patients. A Randomized and...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT06306040" target="_blank">NCT06306040</a></td><td>PHASE3</td><td>NOT_YET_RECRUITING</td><td>105</td><td>Effect of Intravenous Nalbuphine Versus Magnesium Sulfate on Emergence Agitation...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT01801410" target="_blank">NCT01801410</a></td><td>PHASE3</td><td>COMPLETED</td><td>602</td><td>Induction of Labour in Pre-eclamptic Women: a Randomised Trial Comparing the Fol...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT00293735" target="_blank">NCT00293735</a></td><td>PHASE2, PHASE3</td><td>WITHDRAWN</td><td>0</td><td>Labetalol Versus MgSO4 for the Prevention of Eclampsia Trial (LAMPET)</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT03237819" target="_blank">NCT03237819</a></td><td>PHASE3</td><td>UNKNOWN</td><td>74</td><td>Interest of Magnesium Sulfate in Thrombotic Thrombocytopenic Purpura in Intensiv...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT05610774" target="_blank">NCT05610774</a></td><td>NA</td><td>COMPLETED</td><td>50</td><td>Using Optic Nerve Sheath Diameter to Monitor Intracranial Tension in Pre-Eclampt...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT01408979" target="_blank">NCT01408979</a></td><td>PHASE4</td><td>COMPLETED</td><td>120</td><td>Postpartum Prophylaxis With Short Course Magnesium Sulfate in Severe Preeclampsi...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT06563908" target="_blank">NCT06563908</a></td><td>NA</td><td>NOT_YET_RECRUITING</td><td>784</td><td>Lipiodol® For Enhancing Live Birth Rates In Infertile Couples Undergoing In Vitr...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT00666133" target="_blank">NCT00666133</a></td><td>NA</td><td>COMPLETED</td><td>304</td><td>Treatment Approaches for Preeclampsia in Low-Resource Settings</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04387565" target="_blank">NCT04387565</a></td><td>N/A</td><td>COMPLETED</td><td>210</td><td>Analysis of Maternal Plasma/Urine/Hair Magnesium and Vanadium Levels in Preeclam...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04474704" target="_blank">NCT04474704</a></td><td>NA</td><td>COMPLETED</td><td>53</td><td>Use of Cheetah® Non-invasive Cardiac Monitoring System to Guide Discontinuation ...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT05283473" target="_blank">NCT05283473</a></td><td>N/A</td><td>COMPLETED</td><td>64</td><td>Serum Concentration of Magnesium Attained in Magnesium Sulfate Therapy in Pregna...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT01846156" target="_blank">NCT01846156</a></td><td>PHASE3</td><td>COMPLETED</td><td>240</td><td>The Best Magnesium Sulphate Protocol for Severe Pre-eclampsia : A Randomized Con...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT03891498" target="_blank">NCT03891498</a></td><td>NA</td><td>UNKNOWN</td><td>100</td><td>The Effect of Loading Dose of Magnesium Sulfate on Uterine, Umbilical, and Fetal...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04501289" target="_blank">NCT04501289</a></td><td>NA</td><td>COMPLETED</td><td>114</td><td>Low Dose Magnesium Sulphate Versus Standard Pritchard Regimen In Management Of S...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT01972659" target="_blank">NCT01972659</a></td><td>PHASE4</td><td>COMPLETED</td><td>80</td><td>Effects of Magnesium Sulphate on Sugammadex Reversal of Rocuronium Induced Block...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04300985" target="_blank">NCT04300985</a></td><td>PHASE3</td><td>COMPLETED</td><td>90</td><td>Magnesium Sulfate Versus Dexmedetomidine on Anesthesia Awakening. Randomized Cli...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT05558969" target="_blank">NCT05558969</a></td><td>NA</td><td>COMPLETED</td><td>30</td><td>The Effect of Prophylactic Magnesium Use in Pregnant Women on Reversal of Neurom...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT06791668" target="_blank">NCT06791668</a></td><td>N/A</td><td>RECRUITING</td><td>400</td><td>Comparison of Different Regimens of Magnesium Sulphate in Patients With Severe P...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT05284474" target="_blank">NCT05284474</a></td><td>NA</td><td>NOT_YET_RECRUITING</td><td>340</td><td>Management of Early-onset Fetal Growth Restriction: Angiogenic Factors Versus Fe...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT02911701" target="_blank">NCT02911701</a></td><td>PHASE4</td><td>COMPLETED</td><td>100</td><td>Effect of Acetaminophen on Postpartum Blood Pressure Control in Preeclampsia Wit...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04462367" target="_blank">NCT04462367</a></td><td>N/A</td><td>ACTIVE_NOT_RECRUITING</td><td>180</td><td>Clinical and Laboratory Predictors of COVID-19 Progression and Maternal and Peri...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04468763" target="_blank">NCT04468763</a></td><td>N/A</td><td>UNKNOWN</td><td>263</td><td>Cardiac Biomarkers in Preeclampsia: Prediction of Disease and the Risk of Future...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT03112551" target="_blank">NCT03112551</a></td><td>NA</td><td>UNKNOWN</td><td>100</td><td>Safety and Efficacy of Twelve Hours Duration of Magnesium Sulphate in the Treatm...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT03494517" target="_blank">NCT03494517</a></td><td>N/A</td><td>UNKNOWN</td><td>35</td><td>Detection of Epileptiform Activity in Severe Preeclampsia: A Prospective Observa...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT02835339" target="_blank">NCT02835339</a></td><td>PHASE4</td><td>COMPLETED</td><td>66</td><td>Randomized Trial of Magnesium Sulfate in Obese Preeclamptic Women</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT05358483" target="_blank">NCT05358483</a></td><td>N/A</td><td>RECRUITING</td><td>1000</td><td>The PROMISE Study: PROspective Study of Mothers&#x27; and Infants&#x27; Social and Epidemi...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT05119101" target="_blank">NCT05119101</a></td><td>PHASE1</td><td>UNKNOWN</td><td>100</td><td>Dexamedtomidine as Adjuvant to Magnesium Sulphate for Intracranial Pressure Cont...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT05687669" target="_blank">NCT05687669</a></td><td>PHASE4</td><td>COMPLETED</td><td>170</td><td>Comparison Between the Use of Phentolamine Versus Glyceryl Trinitrate for Their ...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT02443259" target="_blank">NCT02443259</a></td><td>N/A</td><td>COMPLETED</td><td>60</td><td>Short Term Neurobehavioural Outcomes in Late Preterm Neonates Born to Pre Eclamp...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT03928691" target="_blank">NCT03928691</a></td><td>N/A</td><td>UNKNOWN</td><td>400</td><td>Impact of Body Mass Index on Serum Maternal and Fetal Magnesium Level in Pregnan...</td></tr>
-</tbody>
-</table>
+#### 大型比較試驗
 
-<h3>相關文獻</h3>
+| 試驗編號 | 標題 | 階段 | 收案 | 國家 | 狀態 |
+|---------|------|------|------|------|------|
+| NCT00004399 | Nimodipine vs MgSO4 預防子癇症痙攣 | N/A | 2,000 | 多國 | 完成 |
+| NCT01911494 | CLIP 社區介入子癇前症 | N/A | 87,500 | 印度/巴基斯坦/奈及利亞 | 完成 |
+| NCT07220902 | Levetiracetam vs MgSO4 預防子癇症 | Phase 3 | 1,240 | 美國 | 招募中 |
 
-<table>
-<thead>
-<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9794688/" target="_blank">9794688</a></td><td>1998</td><td>Article</td><td>Obstetrics and gynecology</td><td>Magnesium sulfate therapy in preeclampsia and eclampsia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39110688/" target="_blank">39110688</a></td><td>2024</td><td>Article</td><td>PloS one</td><td>Perspectives of providing magnesium sulfate to patients with preeclampsia and ec...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2288560/" target="_blank">2288560</a></td><td>1990</td><td>Article</td><td>American journal of obstetrics</td><td>Magnesium sulfate is the ideal anticonvulsant in preeclampsia-eclampsia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31527059/" target="_blank">31527059</a></td><td>2019</td><td>Article</td><td>Global health, science and pra</td><td>It Takes a System: Magnesium Sulfate for Prevention of Eclampsia in a Resource-L...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2672428/" target="_blank">2672428</a></td><td>1989</td><td>Article</td><td>Stroke</td><td>Action of magnesium sulfate in the treatment of preeclampsia-eclampsia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/490496/" target="_blank">490496</a></td><td>1979</td><td>Article</td><td>The Journal of reproductive me</td><td>The use of magnesium sulfate in preeclampsia-eclampsia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16978425/" target="_blank">16978425</a></td><td>2006</td><td>Article</td><td>Obstetrical &amp; gynecological su</td><td>Cerebral hemodynamics in preeclampsia: cerebral perfusion and the rationale for ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38865319/" target="_blank">38865319</a></td><td>2024</td><td>Article</td><td>PloS one</td><td>Randomized trial to compare acceptability of magnesium sulphate administration f...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7726272/" target="_blank">7726272</a></td><td>1995</td><td>Article</td><td>American journal of obstetrics</td><td>Blindness associated with preeclampsia and eclampsia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17441885/" target="_blank">17441885</a></td><td>2007</td><td>Article</td><td>The journal of obstetrics and </td><td>Ionized and total magnesium concentration in patients with severe preeclampsia-e...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36413336/" target="_blank">36413336</a></td><td>2023</td><td>Article</td><td>Biological trace element resea</td><td>Critical Hypermagnesemia in Preeclamptic Women Under a Magnesium Sulfate Regimen...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41054655/" target="_blank">41054655</a></td><td>2025</td><td>Article</td><td>Cureus</td><td>Magnesium Sulfate in Pediatric Emergency Medicine: Pharmacology, Evidence, and C...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28867883/" target="_blank">28867883</a></td><td>2017</td><td>Article</td><td>Journal of obstetrics and gyna</td><td>Examining the Use of Magnesium Sulfate to Treat Pregnant Women with Preeclampsia...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8319988/" target="_blank">8319988</a></td><td>1993</td><td>Article</td><td>Hypertension (Dallas, Tex. : 1</td><td>Hypertension in pregnancy.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25353716/" target="_blank">25353716</a></td><td>2015</td><td>Article</td><td>Acta obstetricia et gynecologi</td><td>Reducing maternal mortality from preeclampsia and eclampsia in low-resource coun...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28301493/" target="_blank">28301493</a></td><td>2017</td><td>Article</td><td>PloS one</td><td>Obstetrician&#x27;s risk perception on the prescription of magnesium sulfate in sever...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26069818/" target="_blank">26069818</a></td><td>2012</td><td>Article</td><td>Clinical kidney journal</td><td>Magnesium in disease.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1566765/" target="_blank">1566765</a></td><td>1992</td><td>Article</td><td>American journal of obstetrics</td><td>Anticonvulsant effects of magnesium sulfate on hippocampal seizures: therapeutic...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29470266/" target="_blank">29470266</a></td><td>2018</td><td>Article</td><td>MCN. The American journal of m</td><td>Posterior Reversible Encephalopathy Syndrome.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23282276/" target="_blank">23282276</a></td><td>2012</td><td>Article</td><td>Revista medica del Instituto M</td><td>[Clinical guideline. Preeclampsia-eclampsia].</td></tr>
-</tbody>
-</table>
+#### 劑量與療程優化試驗
 
-</div>
-</details>
+| 試驗編號 | 標題 | 階段 | 收案 | 關鍵發現 |
+|---------|------|------|------|---------|
+| NCT02307201 | 產後 MgSO4 療程比較 (多國) | Phase 2/3 | 1,114 | 探討產前接受 8 小時以上 MgSO4 者產後是否仍需繼續治療 |
+| NCT02317146 | 產後 6 vs 24 小時 MgSO4 | Phase 2/3 | 280 | 縮短療程研究 |
+| NCT00344058 | 產後 12 vs 24 小時 MgSO4 | N/A | 200 | 輕度子癇前症可縮短療程 |
+| NCT01846156 | 最佳 MgSO4 療程方案 (埃及) | Phase 3 | 240 | 比較不同療程方案 |
+| NCT02396030 | 維持劑量 1g/h vs 2g/h | Phase 4 | 62 | 劑量優化 |
 
-<details class="indication-section">
-<summary>
-<span class="indication-name">2. toxemia of pregnancy</span>
-<span class="evidence-badge evidence-L1">L1</span>
-<span class="prediction-score">100.00%</span>
-</summary>
-<div class="indication-content">
+#### 給藥途徑/裝置比較
 
-<h3>臨床試驗（50 項）</h3>
+| 試驗編號 | 標題 | 收案 | 關鍵發現 |
+|---------|------|------|---------|
+| NCT01030627 | Springfusor pump 給藥評估 | 85 | 新型給藥裝置可行性 |
+| NCT02091401 | Springfusor vs 持續靜脈輸注 | 200 | 重複推注 vs 持續輸注的藥動學比較 |
+| NCT03549767 | Springfusor vs 標準方法 (烏干達) | 241 | 資源有限地區的給藥方案 |
+| NCT00666133 | 低資源環境治療方案 (印度) | 304 | 肌肉注射方案評估 |
 
-<table>
-<thead>
-<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT00004399" target="_blank">NCT00004399</a></td><td>NA</td><td>COMPLETED</td><td>2000</td><td>Randomized Study of Nimodipine Versus Magnesium Sulfate in the Prevention of Ecl...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT01030627" target="_blank">NCT01030627</a></td><td>PHASE4</td><td>COMPLETED</td><td>85</td><td>Treatment Approaches to Preeclampsia</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT02396030" target="_blank">NCT02396030</a></td><td>PHASE4</td><td>TERMINATED</td><td>62</td><td>Effectiveness and Safety of 1g/Hour vs. 2g/Hour of Magnesium Sulfate Maintenance...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT03210350" target="_blank">NCT03210350</a></td><td>N/A</td><td>COMPLETED</td><td>30</td><td>Effect of Magnesium Sulphate on the Intracranial Pressure of Preeclamptic Patien...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT05789381" target="_blank">NCT05789381</a></td><td>NA</td><td>WITHDRAWN</td><td>0</td><td>Patient Satisfaction and Abbreviated Postpartum Magnesium Sulfate for Preeclamps...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT00185900" target="_blank">NCT00185900</a></td><td>NA</td><td>COMPLETED</td><td>192</td><td>Magnesium Sulfate Versus Nifedipine for the Acute Tocolysis of Preterm Labor: A ...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04586348" target="_blank">NCT04586348</a></td><td>PHASE4</td><td>ACTIVE_NOT_RECRUITING</td><td>794</td><td>Prenatal Iodine Supplementation and Early Childhood Neurodevelopment</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT02647268" target="_blank">NCT02647268</a></td><td>NA</td><td>COMPLETED</td><td>26</td><td>Effect of Magnesium Sulphate Pre-exposure on Oxytocin-induced Contractility in D...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT00344058" target="_blank">NCT00344058</a></td><td>NA</td><td>COMPLETED</td><td>200</td><td>Abbreviated Post-partum Magnesium Sulfate Seizure Prophylaxis in Preeclampsia: A...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT02619799" target="_blank">NCT02619799</a></td><td>PHASE2, PHASE3</td><td>COMPLETED</td><td>50</td><td>A Comparative Study Between Intrathecal Magnesium Sulphate Versus Midazolam Alon...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT03549767" target="_blank">NCT03549767</a></td><td>NA</td><td>UNKNOWN</td><td>241</td><td>Randomized Trial to Compare Magnesium Sulphate Administration for Preeclampsia a...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT02317146" target="_blank">NCT02317146</a></td><td>PHASE2, PHASE3</td><td>COMPLETED</td><td>280</td><td>A Novel Protocol for Postpartum Magnesium Sulfate in Severe Preeclampsia When th...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT01911494" target="_blank">NCT01911494</a></td><td>NA</td><td>COMPLETED</td><td>87500</td><td>The CLIP (Community Level Interventions for Pre-eclampsia) Cluster Randomized Co...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT02307201" target="_blank">NCT02307201</a></td><td>PHASE2, PHASE3</td><td>COMPLETED</td><td>1114</td><td>Magnesium Sulfate During the Postpartum in Women With Severe Preeclampsia Receiv...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04645719" target="_blank">NCT04645719</a></td><td>PHASE3</td><td>UNKNOWN</td><td>75</td><td>Best Dose of Magnesium Sulfate Infusion in Obese. A Blind and Randomized Trial</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT03318211" target="_blank">NCT03318211</a></td><td>PHASE4</td><td>UNKNOWN</td><td>100</td><td>Continuation Versus Discontinuation of Magnesium Sulfate After Delivery in Women...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT06126068" target="_blank">NCT06126068</a></td><td>NA</td><td>COMPLETED</td><td>120</td><td>Comparison of Loading Dose Magnesium Sulphate With Prichard Regimen in the Manag...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT02091401" target="_blank">NCT02091401</a></td><td>PHASE4</td><td>COMPLETED</td><td>200</td><td>A Randomized Open-label Study to Compare the Clinical Outcomes and Magnesium Ser...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT07220902" target="_blank">NCT07220902</a></td><td>PHASE3</td><td>NOT_YET_RECRUITING</td><td>1240</td><td>Levetiracetam Compared to Magnesium Sulfate for Prevention of Eclamptic Seizure:...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT01360060" target="_blank">NCT01360060</a></td><td>N/A</td><td>COMPLETED</td><td>503</td><td>Analgesia After Cesarean Section</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT03412552" target="_blank">NCT03412552</a></td><td>N/A</td><td>COMPLETED</td><td>1238</td><td>Risk Analysis of Intensive Care Management on Maternal and Fetal Outcome of Seve...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04003688" target="_blank">NCT04003688</a></td><td>NA</td><td>COMPLETED</td><td>74</td><td>Strategy to Calculate Magnesium Sulfate Dose in Obese Patients. A Randomized and...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT05345132" target="_blank">NCT05345132</a></td><td>NA</td><td>UNKNOWN</td><td>264</td><td>Nifedipine Plus Magnesium Sulfate Versus Magnesium Sulfate Alone for Tocolysis i...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04752475" target="_blank">NCT04752475</a></td><td>PHASE3</td><td>COMPLETED</td><td>82</td><td>Lasix for the Prevention of De Novo Postpartum Hypertension: A Randomized Contro...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT06306040" target="_blank">NCT06306040</a></td><td>PHASE3</td><td>NOT_YET_RECRUITING</td><td>105</td><td>Effect of Intravenous Nalbuphine Versus Magnesium Sulfate on Emergence Agitation...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT01801410" target="_blank">NCT01801410</a></td><td>PHASE3</td><td>COMPLETED</td><td>602</td><td>Induction of Labour in Pre-eclamptic Women: a Randomised Trial Comparing the Fol...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT00293735" target="_blank">NCT00293735</a></td><td>PHASE2, PHASE3</td><td>WITHDRAWN</td><td>0</td><td>Labetalol Versus MgSO4 for the Prevention of Eclampsia Trial (LAMPET)</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT03237819" target="_blank">NCT03237819</a></td><td>PHASE3</td><td>UNKNOWN</td><td>74</td><td>Interest of Magnesium Sulfate in Thrombotic Thrombocytopenic Purpura in Intensiv...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT05610774" target="_blank">NCT05610774</a></td><td>NA</td><td>COMPLETED</td><td>50</td><td>Using Optic Nerve Sheath Diameter to Monitor Intracranial Tension in Pre-Eclampt...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT01408979" target="_blank">NCT01408979</a></td><td>PHASE4</td><td>COMPLETED</td><td>120</td><td>Postpartum Prophylaxis With Short Course Magnesium Sulfate in Severe Preeclampsi...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT06563908" target="_blank">NCT06563908</a></td><td>NA</td><td>NOT_YET_RECRUITING</td><td>784</td><td>Lipiodol® For Enhancing Live Birth Rates In Infertile Couples Undergoing In Vitr...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT00666133" target="_blank">NCT00666133</a></td><td>NA</td><td>COMPLETED</td><td>304</td><td>Treatment Approaches for Preeclampsia in Low-Resource Settings</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04387565" target="_blank">NCT04387565</a></td><td>N/A</td><td>COMPLETED</td><td>210</td><td>Analysis of Maternal Plasma/Urine/Hair Magnesium and Vanadium Levels in Preeclam...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT02454322" target="_blank">NCT02454322</a></td><td>N/A</td><td>COMPLETED</td><td>300</td><td>The Effect of Magnesium on Maternal Mood, Cognitive Function, and Birth Experien...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04492072" target="_blank">NCT04492072</a></td><td>NA</td><td>COMPLETED</td><td>150</td><td>Misoprostol With Mechanical Dilation Versus Oxytocin With Mechanical Dilation fo...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT03863613" target="_blank">NCT03863613</a></td><td>NA</td><td>TERMINATED</td><td>219</td><td>The Effectiveness of Cervical Pessary Compared to Cervical Cerclage With or With...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04474704" target="_blank">NCT04474704</a></td><td>NA</td><td>COMPLETED</td><td>53</td><td>Use of Cheetah® Non-invasive Cardiac Monitoring System to Guide Discontinuation ...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT06463652" target="_blank">NCT06463652</a></td><td>NA</td><td>RECRUITING</td><td>328</td><td>Cervical Cerclage With Vaginal Progesterone Versus Vaginal Progesterone Only for...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT05671081" target="_blank">NCT05671081</a></td><td>PHASE3</td><td>COMPLETED</td><td>60</td><td>Dexmedetomidine Versus Magnesium Sulfate in Ultrasound Guided Bilateral Bi-level...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT05283473" target="_blank">NCT05283473</a></td><td>N/A</td><td>COMPLETED</td><td>64</td><td>Serum Concentration of Magnesium Attained in Magnesium Sulfate Therapy in Pregna...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT01846156" target="_blank">NCT01846156</a></td><td>PHASE3</td><td>COMPLETED</td><td>240</td><td>The Best Magnesium Sulphate Protocol for Severe Pre-eclampsia : A Randomized Con...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT03891498" target="_blank">NCT03891498</a></td><td>NA</td><td>UNKNOWN</td><td>100</td><td>The Effect of Loading Dose of Magnesium Sulfate on Uterine, Umbilical, and Fetal...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04501289" target="_blank">NCT04501289</a></td><td>NA</td><td>COMPLETED</td><td>114</td><td>Low Dose Magnesium Sulphate Versus Standard Pritchard Regimen In Management Of S...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT01972659" target="_blank">NCT01972659</a></td><td>PHASE4</td><td>COMPLETED</td><td>80</td><td>Effects of Magnesium Sulphate on Sugammadex Reversal of Rocuronium Induced Block...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04300985" target="_blank">NCT04300985</a></td><td>PHASE3</td><td>COMPLETED</td><td>90</td><td>Magnesium Sulfate Versus Dexmedetomidine on Anesthesia Awakening. Randomized Cli...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT05558969" target="_blank">NCT05558969</a></td><td>NA</td><td>COMPLETED</td><td>30</td><td>The Effect of Prophylactic Magnesium Use in Pregnant Women on Reversal of Neurom...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT06791668" target="_blank">NCT06791668</a></td><td>N/A</td><td>RECRUITING</td><td>400</td><td>Comparison of Different Regimens of Magnesium Sulphate in Patients With Severe P...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04300322" target="_blank">NCT04300322</a></td><td>NA</td><td>UNKNOWN</td><td>804</td><td>The Effectiveness of Cervical Pessary Versus Vaginal Progesterone for the Preven...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT05284474" target="_blank">NCT05284474</a></td><td>NA</td><td>NOT_YET_RECRUITING</td><td>340</td><td>Management of Early-onset Fetal Growth Restriction: Angiogenic Factors Versus Fe...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT05624151" target="_blank">NCT05624151</a></td><td>PHASE3</td><td>COMPLETED</td><td>75</td><td>Dexmedetomidine Versus Magnesium Sulphate Added to Bupivacaine in Infraorbital N...</td></tr>
-</tbody>
-</table>
+#### 特殊族群研究
 
-<h3>相關文獻（20 篇）</h3>
+| 試驗編號 | 標題 | 收案 | 目標族群 |
+|---------|------|------|---------|
+| NCT02835339 | 肥胖子癇前症患者 MgSO4 | 66 | BMI >= 35 kg/m2 |
+| NCT04645719 | 肥胖患者最佳 MgSO4 劑量 | 75 | 肥胖患者劑量調整 |
+| NCT04003688 | 肥胖患者 MgSO4 劑量計算策略 | 74 | 比較不同劑量計算方法 |
 
-<table>
-<thead>
-<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10803454/" target="_blank">10803454</a></td><td>2000</td><td>Article</td><td>Clinical pharmacokinetics</td><td>Magnesium sulfate in eclampsia and pre-eclampsia: pharmacokinetic principles.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36822712/" target="_blank">36822712</a></td><td>2023</td><td>Article</td><td>Obstetrics and gynecology clin</td><td>Magnesium Sulfate Use in Pregnancy for Preeclampsia Prophylaxis and Fetal Neurop...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38669914/" target="_blank">38669914</a></td><td>2024</td><td>Article</td><td>Pregnancy hypertension</td><td>Magnesium sulfate in preeclampsia: Broad indications, not only in neurological s...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37415326/" target="_blank">37415326</a></td><td>2023</td><td>Article</td><td>Medical science monitor : inte</td><td>Eclampsia: A Critical Pregnancy Complication Demanding Enhanced Maternal Care: A...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12057549/" target="_blank">12057549</a></td><td>2002</td><td>Article</td><td>Lancet (London, England)</td><td>Do women with pre-eclampsia, and their babies, benefit from magnesium sulphate? ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21069663/" target="_blank">21069663</a></td><td>2010</td><td>Article</td><td>The Cochrane database of syste</td><td>Magnesium sulphate and other anticonvulsants for women with pre-eclampsia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35704050/" target="_blank">35704050</a></td><td>2022</td><td>Article</td><td>The journal of maternal-fetal </td><td>Intrapartum magnesium sulfate exposure and obstetric hemorrhage risk.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35271534/" target="_blank">35271534</a></td><td>2022</td><td>Article</td><td>Obstetrics and gynecology</td><td>Duration of Postpartum Magnesium Sulphate for the Prevention of Eclampsia: A Sys...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34187284/" target="_blank">34187284</a></td><td>2022</td><td>Article</td><td>The journal of maternal-fetal </td><td>Duration of postpartum magnesium sulfate for seizure prophylaxis in women with p...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22060216/" target="_blank">22060216</a></td><td>2011</td><td>Article</td><td>Journal of midwifery &amp; women&#x27;s</td><td>Magnesium sulfate: past, present, and future.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35656755/" target="_blank">35656755</a></td><td>2022</td><td>Article</td><td>International journal of gynae</td><td>The effect of magnesium sulfate on maternal serum electrolytes and parathyroid h...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32642964/" target="_blank">32642964</a></td><td>2020</td><td>Article</td><td>Drugs in R&amp;D</td><td>Population Pharmacokinetics of Magnesium Sulfate in Preeclampsia and Associated ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38872116/" target="_blank">38872116</a></td><td>2024</td><td>Article</td><td>BMC pregnancy and childbirth</td><td>Population pharmacokinetics and dose optimization of magnesium sulfate in Chines...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2225578/" target="_blank">2225578</a></td><td>1990</td><td>Article</td><td>Clinical obstetrics and gyneco</td><td>Eclampsia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26599617/" target="_blank">26599617</a></td><td>2016</td><td>Article</td><td>BJOG : an international journa</td><td>Clinical pharmacokinetic properties of magnesium sulphate in women with pre-ecla...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/452989/" target="_blank">452989</a></td><td>1979</td><td>Article</td><td>American family physician</td><td>Toxemia of pregnancy.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8879973/" target="_blank">8879973</a></td><td>1996</td><td>Article</td><td>Drug safety</td><td>Role of magnesium sulfate in seizure prevention in patients with eclampsia and p...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31527059/" target="_blank">31527059</a></td><td>2019</td><td>Article</td><td>Global health, science and pra</td><td>It Takes a System: Magnesium Sulfate for Prevention of Eclampsia in a Resource-L...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9794688/" target="_blank">9794688</a></td><td>1998</td><td>Article</td><td>Obstetrics and gynecology</td><td>Magnesium sulfate therapy in preeclampsia and eclampsia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26767791/" target="_blank">26767791</a></td><td>2016</td><td>Article</td><td>American journal of obstetrics</td><td>Pharmacokinetics and placental transfer of magnesium sulfate in pregnant women.</td></tr>
-</tbody>
-</table>
+---
 
-</div>
-</details>
+## 文獻證據
 
-<details class="indication-section">
-<summary>
-<span class="indication-name">3. thrombotic disease</span>
-<span class="evidence-badge evidence-L2">L2</span>
-<span class="prediction-score">99.90%</span>
-</summary>
-<div class="indication-content">
+Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科標準治療。
 
-<h3>臨床試驗（2 項）</h3>
+### 具里程碑意義的研究
 
-<table>
-<thead>
-<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04844801" target="_blank">NCT04844801</a></td><td>NA</td><td>RECRUITING</td><td>240</td><td>Comparison of Three Care Strategies in Cases of New-onset Supraventricular Arrhy...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT03237819" target="_blank">NCT03237819</a></td><td>PHASE3</td><td>UNKNOWN</td><td>74</td><td>Interest of Magnesium Sulfate in Thrombotic Thrombocytopenic Purpura in Intensiv...</td></tr>
-</tbody>
-</table>
+1. **Magpie Trial (2002)**：全球 33 國、10,141 名孕婦參與的大型 RCT，確立 MgSO4 為子癇前症抗痙攣首選藥物
 
-<h3>相關文獻（20 篇）</h3>
+2. **Cochrane 系統性回顧**：多次更新確認 MgSO4 優於 Phenytoin 及 Diazepam
 
-<table>
-<thead>
-<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35615616/" target="_blank">35615616</a></td><td>2021</td><td>Article</td><td>Indian journal of critical car</td><td>Preeclampsia and Related Problems.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26747754/" target="_blank">26747754</a></td><td>2016</td><td>Article</td><td>Digestive and liver disease : </td><td>AISF position paper on liver disease and pregnancy.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37867165/" target="_blank">37867165</a></td><td>2023</td><td>Article</td><td>Intensive care medicine</td><td>Magnesium sulphate in patients with thrombotic thrombocytopenic purpura (MAGMAT)...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32938758/" target="_blank">32938758</a></td><td>2020</td><td>Article</td><td>Open heart</td><td>Relationships between hyperinsulinaemia, magnesium, vitamin D, thrombosis and CO...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8024163/" target="_blank">8024163</a></td><td>1994</td><td>Article</td><td>Angiology</td><td>Effect of magnesium sulfate infusion on circulating levels of noradrenaline and ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27749350/" target="_blank">27749350</a></td><td>2016</td><td>Article</td><td>Anesthesia and analgesia</td><td>Spine Surgery and Blood Loss: Systematic Review of Clinical Evidence.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19566552/" target="_blank">19566552</a></td><td>2009</td><td>Article</td><td>The Australian &amp; New Zealand j</td><td>Guidelines for the management of hypertensive disorders of pregnancy 2008.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27568839/" target="_blank">27568839</a></td><td>2016</td><td>Article</td><td>European journal of pharmacolo</td><td>Anti-inflammatory and anti-thrombotic effects of zingerone in a rat model of myo...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3724238/" target="_blank">3724238</a></td><td>1986</td><td>Article</td><td>Magnesium</td><td>Prompt termination and/or prevention of cold-pressor-stimulus-induced vasoconstr...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22463492/" target="_blank">22463492</a></td><td>2012</td><td>Article</td><td>International journal of strok</td><td>Progressive lacunar stroke: review of mechanisms, prognostic features, and putat...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8519163/" target="_blank">8519163</a></td><td>1993</td><td>Article</td><td>Clinical physiology (Oxford, E</td><td>Effects of cold pressor test on circulating atrial natriuretic peptide 99-126 (A...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3441141/" target="_blank">3441141</a></td><td>1987</td><td>Article</td><td>Magnesium</td><td>Effect of magnesium sulfate on thrombus formation following partial arterial con...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34784343/" target="_blank">34784343</a></td><td>2021</td><td>Article</td><td>The American journal of case r</td><td>Reversible Cerebral Vasoconstriction Syndrome in a Background of Eclampsia Respo...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14506544/" target="_blank">14506544</a></td><td>2003</td><td>Article</td><td>Journal of cardiovascular phar</td><td>A prospective, nonrandomized, open-labeled pilot study investigating the use of ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14168822/" target="_blank">14168822</a></td><td>1964</td><td>Article</td><td>The Practitioner</td><td>PARENTERAL MAGNESIUM SULPHATE IN ARTERIAL DISEASE.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38803431/" target="_blank">38803431</a></td><td>2024</td><td>Article</td><td>Frontiers in pharmacology</td><td>Expectant management for umbilical artery thrombosis in the third trimester of p...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25738044/" target="_blank">25738044</a></td><td>2015</td><td>Article</td><td>Journal of clinical and diagno</td><td>Cerebral venous sinus thrombosis and posterior reversible encephalopathy syndrom...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7368083/" target="_blank">7368083</a></td><td>1980</td><td>Article</td><td>Surgery</td><td>Effect of magnesium sulfate on platelet deposition in rabbits following temporar...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8819258/" target="_blank">8819258</a></td><td>1996</td><td>Article</td><td>Thrombosis and haemostasis</td><td>Magnesium inhibits platelet activity--an in vitro study.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7475761/" target="_blank">7475761</a></td><td>1995</td><td>Article</td><td>Lancet (London, England)</td><td>Magnesium sulphate increases plasma noradrenaline and neuropeptide-Y-like immuno...</td></tr>
-</tbody>
-</table>
+3. **WHO 基本藥物清單**：MgSO4 被列為子癇前症/子癇症的必要藥物
 
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">4. pharyngitis</span>
-<span class="evidence-badge evidence-L1">L1</span>
-<span class="prediction-score">99.61%</span>
-</summary>
-<div class="indication-content">
-
-<h3>臨床試驗（12 項）</h3>
-
-<table>
-<thead>
-<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT07213037" target="_blank">NCT07213037</a></td><td>PHASE3</td><td>NOT_YET_RECRUITING</td><td>102</td><td>Magnesium Sulfate Versus Lidocaine as Additives to Dexmedetomidine for Cough Sup...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT02100293" target="_blank">NCT02100293</a></td><td>NA</td><td>COMPLETED</td><td>84</td><td>Effects of Magnesium Sulfate on Onset and Duration of Low Dose Rocuronium</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT07381036" target="_blank">NCT07381036</a></td><td>NA</td><td>NOT_YET_RECRUITING</td><td>150</td><td>Comparison of Nebulized Ketamine With Nebulized Magnesium Sulfate for the Preven...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT01923831" target="_blank">NCT01923831</a></td><td>NA</td><td>COMPLETED</td><td>146</td><td>Comparison of the Effect of Magnesium Sulfate and Dexamethasone on Postoperative...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT07123714" target="_blank">NCT07123714</a></td><td>NA</td><td>NOT_YET_RECRUITING</td><td>140</td><td>Effect of Preoperative Nebulized Magnesium Sulfate on Post-intubation Stress Res...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT03729973" target="_blank">NCT03729973</a></td><td>PHASE3</td><td>COMPLETED</td><td>100</td><td>Comparing The Efficacy Of Preoperative Nebulized: Ketamine, Magnesium Sulfate, a...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04462367" target="_blank">NCT04462367</a></td><td>N/A</td><td>ACTIVE_NOT_RECRUITING</td><td>180</td><td>Clinical and Laboratory Predictors of COVID-19 Progression and Maternal and Peri...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04705948" target="_blank">NCT04705948</a></td><td>NA</td><td>COMPLETED</td><td>60</td><td>Comparing the Effect of Ketamine and Magnesium Sulfate Gargling With Placebo on ...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT02826746" target="_blank">NCT02826746</a></td><td>NA</td><td>COMPLETED</td><td>20</td><td>Effect of Intravenous Magnesium on Postoperative Sore Throat After Thyroidectomy</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT05714540" target="_blank">NCT05714540</a></td><td>PHASE4</td><td>UNKNOWN</td><td>90</td><td>The Effect of Oropharyngeal Pack Soaked With Ketamine or Magnesium Sulphate on P...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT07131033" target="_blank">NCT07131033</a></td><td>PHASE1, PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>120</td><td>Effects of Perioperative Intravenous Infusion Esketamine Combined With Magnesium...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT06091631" target="_blank">NCT06091631</a></td><td>NA</td><td>COMPLETED</td><td>100</td><td>Effect of Magnesium Sulfate Nebulization on Postoperative Sore Throat and Stress...</td></tr>
-</tbody>
-</table>
-
-<h3>相關文獻（12 篇）</h3>
-
-<table>
-<thead>
-<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37929508/" target="_blank">37929508</a></td><td>2024</td><td>Article</td><td>Medical gas research</td><td>Comparison of adding magnesium sulfate, dexmedetomidine and ondansetron to lidoc...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40098904/" target="_blank">40098904</a></td><td>2025</td><td>Article</td><td>Drug design, development and t</td><td>Comparison of Preoperative Topical Magnesium Sulfate Spraying and Magnesium Sulf...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28183544/" target="_blank">28183544</a></td><td>2017</td><td>Article</td><td>Journal of clinical anesthesia</td><td>Magnesium sulfate accelerates the onset of low-dose rocuronium in patients under...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38693477/" target="_blank">38693477</a></td><td>2024</td><td>Article</td><td>BMC anesthesiology</td><td>Role of preoperative zinc, magnesium and budesonide gargles in Postoperative Sor...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27275043/" target="_blank">27275043</a></td><td>2016</td><td>Article</td><td>Journal of anaesthesiology, cl</td><td>Effect of magnesium sulfate nebulization on the incidence of postoperative sore ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39780052/" target="_blank">39780052</a></td><td>2025</td><td>Article</td><td>BMC anesthesiology</td><td>The effect of preoperative topical magnesium sulfate spraying in the oropharynge...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31119554/" target="_blank">31119554</a></td><td>2019</td><td>Article</td><td>Canadian journal of anaesthesi</td><td>Topical application of magnesium to prevent intubation-related sore throat in ad...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35089202/" target="_blank">35089202</a></td><td>2022</td><td>Article</td><td>Medicine</td><td>Nebulized fentanyl for respiratory symptoms in patients with COVID-19 (ventanyl ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26516308/" target="_blank">26516308</a></td><td>2015</td><td>Article</td><td>International journal of medic</td><td>A Randomized, Double-blind, Non-inferiority Trial of Magnesium Sulphate versus D...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22593134/" target="_blank">22593134</a></td><td>2012</td><td>Article</td><td>British journal of anaesthesia</td><td>Postoperative sore throat: a multifactorial problem.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22157461/" target="_blank">22157461</a></td><td>2012</td><td>Article</td><td>British journal of anaesthesia</td><td>Nebulized magnesium for prevention of postoperative sore throat.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/960443/" target="_blank">960443</a></td><td>1976</td><td>Article</td><td>Vestnik otorinolaringologii</td><td>[Protective effect of magnesium in sensitization (clinico-experimental study)].</td></tr>
-</tbody>
-</table>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">5. nasal cavity disease</span>
-<span class="evidence-badge evidence-L3">L3</span>
-<span class="prediction-score">99.59%</span>
-</summary>
-<div class="indication-content">
-
-<h3>臨床試驗（1 項）</h3>
-
-<table>
-<thead>
-<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04462367" target="_blank">NCT04462367</a></td><td>N/A</td><td>ACTIVE_NOT_RECRUITING</td><td>180</td><td>Clinical and Laboratory Predictors of COVID-19 Progression and Maternal and Peri...</td></tr>
-</tbody>
-</table>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">6. psychotic disorder</span>
-<span class="evidence-badge evidence-L2">L2</span>
-<span class="prediction-score">99.50%</span>
-</summary>
-<div class="indication-content">
-
-<h3>臨床試驗（2 項）</h3>
-
-<table>
-<thead>
-<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT06702488" target="_blank">NCT06702488</a></td><td>PHASE1</td><td>RECRUITING</td><td>58</td><td>The Efficacy of Dexmedetomidine and Magnesium Sulfate in Cognitive Dysfunction</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT05669417" target="_blank">NCT05669417</a></td><td>PHASE2, PHASE3</td><td>TERMINATED</td><td>265</td><td>Randomized Controlled Trial of Magnesium Sulfate Versus Placebo on the Preventio...</td></tr>
-</tbody>
-</table>
-
-<h3>相關文獻（12 篇）</h3>
-
-<table>
-<thead>
-<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2497643/" target="_blank">2497643</a></td><td>1989</td><td>Article</td><td>American journal of kidney dis</td><td>The effects of administration of lithium salts and magnesium sulfate on the seru...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5131870/" target="_blank">5131870</a></td><td>1971</td><td>Article</td><td>The Journal of laboratory and </td><td>Therapy of delirium tremens with urea (or dexamethasone) and magnesium sulfate.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5259585/" target="_blank">5259585</a></td><td>1969</td><td>Article</td><td>Annals of the New York Academy</td><td>The relationship of hypomagnesemia and alkalosis to alcohol withdrawal symptoms.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4289114/" target="_blank">4289114</a></td><td>1967</td><td>Article</td><td>Southern medical journal</td><td>Management of withdrawal from alcohol (including delirium tremens).</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21189701/" target="_blank">21189701</a></td><td>2010</td><td>Article</td><td>The Journal of the Association</td><td>Primary hypoparathyroidism: psychosis in postpartum period.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4030178/" target="_blank">4030178</a></td><td>1985</td><td>Article</td><td>The International journal of t</td><td>Clinical experience with 781 cases of alcoholism evaluated and treated on an inp...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4393191/" target="_blank">4393191</a></td><td>1967</td><td>Article</td><td>Journal de medecine de Lyon</td><td>[On the treatment of delirium tremens. Apropos of 414 cases].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20354061/" target="_blank">20354061</a></td><td>2011</td><td>Article</td><td>Human &amp; experimental toxicolog</td><td>Intoxication by large amounts of barium nitrate overcome by early massive K supp...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14854267/" target="_blank">14854267</a></td><td>1951</td><td>Article</td><td>Rassegna di studi psichiatrici</td><td>[Magnesium sulfate in alcoholic psychoses].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14015718/" target="_blank">14015718</a></td><td>1963</td><td>Article</td><td>Belgisch tijdschrift voor gene</td><td>[Chronic alcoholism and its treatment].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6113628/" target="_blank">6113628</a></td><td>1980</td><td>Article</td><td>Revista medica de Chile</td><td>[Pharmacotherapy of the alcohol withdrawal syndrome (author&#x27;s transl)].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5745947/" target="_blank">5745947</a></td><td>1968</td><td>Article</td><td>Laval medical</td><td>[Comparative study of chlordiazepoxide and hypertonic MgSO4 in the alcohol withd...</td></tr>
-</tbody>
-</table>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">7. acute laryngopharyngitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.47%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">8. headache disorder</span>
-<span class="evidence-badge evidence-L1">L1</span>
-<span class="prediction-score">99.36%</span>
-</summary>
-<div class="indication-content">
-
-<h3>臨床試驗（15 項）</h3>
-
-<table>
-<thead>
-<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT05789381" target="_blank">NCT05789381</a></td><td>NA</td><td>WITHDRAWN</td><td>0</td><td>Patient Satisfaction and Abbreviated Postpartum Magnesium Sulfate for Preeclamps...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT00344058" target="_blank">NCT00344058</a></td><td>NA</td><td>COMPLETED</td><td>200</td><td>Abbreviated Post-partum Magnesium Sulfate Seizure Prophylaxis in Preeclampsia: A...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04814381" target="_blank">NCT04814381</a></td><td>PHASE4</td><td>RECRUITING</td><td>90</td><td>Evaluation of the Efficacy of a Single Infusion of Ketamine Combined With Magnes...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT03412552" target="_blank">NCT03412552</a></td><td>N/A</td><td>COMPLETED</td><td>1238</td><td>Risk Analysis of Intensive Care Management on Maternal and Fetal Outcome of Seve...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT06376916" target="_blank">NCT06376916</a></td><td>PHASE3</td><td>RECRUITING</td><td>153</td><td>Atrial Tachycardia Reduction With Intravenous Use of Magnesium (ATRIUM) Study: C...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT06791668" target="_blank">NCT06791668</a></td><td>N/A</td><td>RECRUITING</td><td>400</td><td>Comparison of Different Regimens of Magnesium Sulphate in Patients With Severe P...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT05967442" target="_blank">NCT05967442</a></td><td>PHASE3</td><td>COMPLETED</td><td>157</td><td>A Randomized, Placebo-Controlled, Double-Blind Study of the Effects of Magnesium...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT06920576" target="_blank">NCT06920576</a></td><td>PHASE1, PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>144</td><td>Effect of Perioperative Intravenous Infusion of Esketamine or Magnesium Sulphate...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT05843812" target="_blank">NCT05843812</a></td><td>N/A</td><td>UNKNOWN</td><td>104</td><td>&quot;Evaluation of the Clinical Response to Magnesium Sulfate as an Adjuvant in Anes...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04462367" target="_blank">NCT04462367</a></td><td>N/A</td><td>ACTIVE_NOT_RECRUITING</td><td>180</td><td>Clinical and Laboratory Predictors of COVID-19 Progression and Maternal and Peri...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT03112551" target="_blank">NCT03112551</a></td><td>NA</td><td>UNKNOWN</td><td>100</td><td>Safety and Efficacy of Twelve Hours Duration of Magnesium Sulphate in the Treatm...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT06272916" target="_blank">NCT06272916</a></td><td>N/A</td><td>NOT_YET_RECRUITING</td><td>630</td><td>Comparison of the Effect of Aminophylline, Magnesium Sulphate and Placebo in Pre...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT05227716" target="_blank">NCT05227716</a></td><td>PHASE4</td><td>UNKNOWN</td><td>104</td><td>Evaluation of the Clinical Response to Magnesium Sulfate as an Adjunct in the An...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04225793" target="_blank">NCT04225793</a></td><td>NA</td><td>UNKNOWN</td><td>98</td><td>Comparative Analysis of the Osmotic Laxative Application Efficiency and Safety E...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT02523911" target="_blank">NCT02523911</a></td><td>NA</td><td>WITHDRAWN</td><td>0</td><td>Sodium Sulfate/Potassium Sulfate/Magnesium Sulfate Bowel Preparation With and Wi...</td></tr>
-</tbody>
-</table>
-
-<h3>相關文獻（19 篇）</h3>
-
-<table>
-<thead>
-<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35177218/" target="_blank">35177218</a></td><td>2022</td><td>Article</td><td>American journal of obstetrics</td><td>Postpartum preeclampsia or eclampsia: defining its place and management among th...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38307660/" target="_blank">38307660</a></td><td>2024</td><td>Article</td><td>Handbook of clinical neurology</td><td>Status migrainosus.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30198804/" target="_blank">30198804</a></td><td>2018</td><td>Article</td><td>Expert opinion on pharmacother</td><td>Treating status migrainosus in the emergency setting: what is the best strategy?</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25622379/" target="_blank">25622379</a></td><td>2014</td><td>Article</td><td>Acta anaesthesiologica Belgica</td><td>Preeclampsia: an update.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41216917/" target="_blank">41216917</a></td><td>2025</td><td>Article</td><td>The Cochrane database of syste</td><td>Magnesium supplementation for migraine prophylaxis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28286809/" target="_blank">28286809</a></td><td>2017</td><td>Article</td><td>Emergency (Tehran, Iran)</td><td>Ketorolac versus Magnesium Sulfate in Migraine Headache Pain Management; a Preli...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2802287/" target="_blank">2802287</a></td><td>1989</td><td>Article</td><td>Annals of emergency medicine</td><td>Postpartum eclampsia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31498421/" target="_blank">31498421</a></td><td>2019</td><td>Article</td><td>The Cochrane database of syste</td><td>Magnesium for treating sickle cell disease.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28409830/" target="_blank">28409830</a></td><td>2017</td><td>Article</td><td>The Cochrane database of syste</td><td>Magnesium for treating sickle cell disease.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1840336/" target="_blank">1840336</a></td><td>1991</td><td>Article</td><td>Acta Universitatis Palackianae</td><td>Magnesium and its combination with cinnarizine in the long-term treatment of hea...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25278139/" target="_blank">25278139</a></td><td>2015</td><td>Article</td><td>The Journal of emergency medic</td><td>Comparison of therapeutic effects of magnesium sulfate vs. dexamethasone/metoclo...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35615616/" target="_blank">35615616</a></td><td>2021</td><td>Article</td><td>Indian journal of critical car</td><td>Preeclampsia and Related Problems.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9523054/" target="_blank">9523054</a></td><td>1998</td><td>Article</td><td>Clinical neuroscience (New Yor</td><td>Role of magnesium in the pathogenesis and treatment of migraines.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28757917/" target="_blank">28757917</a></td><td>2017</td><td>Article</td><td>The Korean journal of pain</td><td>Intravenous caffeine citrate vs. magnesium sulfate for reducing pain in patients...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3619172/" target="_blank">3619172</a></td><td>1987</td><td>Article</td><td>Annals of emergency medicine</td><td>Late postpartum eclampsia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33128280/" target="_blank">33128280</a></td><td>2020</td><td>Article</td><td>Headache</td><td>Ketamine-Magnesium for Refractory Chronic Cluster Headache: A Case Series.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40225988/" target="_blank">40225988</a></td><td>2025</td><td>Article</td><td>American journal of translatio</td><td>Effects of labetalol plus magnesium sulfate on brain symptoms and pregnancy outc...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11719739/" target="_blank">11719739</a></td><td>2001</td><td>Article</td><td>Annals of emergency medicine</td><td>Randomized clinical trial of intravenous magnesium sulfate as an adjunctive medi...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27017021/" target="_blank">27017021</a></td><td>2016</td><td>Article</td><td>Seminars in pediatric neurolog</td><td>Management of Primary Headache in the Emergency Department and Inpatient Headach...</td></tr>
-</tbody>
-</table>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">9. trigeminal autonomic cephalalgia</span>
-<span class="evidence-badge evidence-L2">L2</span>
-<span class="prediction-score">99.18%</span>
-</summary>
-<div class="indication-content">
-
-<h3>臨床試驗（1 項）</h3>
-
-<table>
-<thead>
-<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT04814381" target="_blank">NCT04814381</a></td><td>PHASE4</td><td>RECRUITING</td><td>90</td><td>Evaluation of the Efficacy of a Single Infusion of Ketamine Combined With Magnes...</td></tr>
-</tbody>
-</table>
-
-<h3>相關文獻（3 篇）</h3>
-
-<table>
-<thead>
-<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33128280/" target="_blank">33128280</a></td><td>2020</td><td>Article</td><td>Headache</td><td>Ketamine-Magnesium for Refractory Chronic Cluster Headache: A Case Series.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8550360/" target="_blank">8550360</a></td><td>1995</td><td>Article</td><td>Headache</td><td>Intravenous magnesium sulfate relieves cluster headaches in patients with low se...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28670718/" target="_blank">28670718</a></td><td>2017</td><td>Article</td><td>Headache</td><td>Ketamine Infusion Combined With Magnesium as a Therapy for Intractable Chronic C...</td></tr>
-</tbody>
-</table>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">10. treatment-refractory schizophrenia</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.11%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
+---
 
 ## 台灣上市資訊
 
@@ -695,35 +240,6 @@ Magnesium sulfate 為多用途藥物，TxGNN 預測其用於子癇前症/子癇�
 
 ---
 
-
-### 藥物-疾病注意事項 (DDSI)
-
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
-
-**Arrhythmias, Cardiac** 🟡 Moderate
-- 應謹慎使用本藥物。風險包括：心律不整、癲癇發作。可能有嚴重不良反應。
-
-**Depressive Disorder** 🟢 Minor
-- 需定期監測。
-
-**Inflammatory Bowel Diseases** 🟢 Minor
-- 本藥物在此情況下禁用。
-
-**Intestinal Obstruction** 🟢 Minor
-- 本藥物在此情況下禁用。
-
-**Heart Diseases** 🟢 Minor
-- 本藥物在此情況下禁用。需密切監測。
-
-**Pre-Eclampsia** 🟢 Minor
-- 注意事項：Intravenous magnesium should not be given to mothers with preeclampsia during the two hours preceding delivery...
-
-**腎臟疾病** 🟢 Minor
-- 需定期監測。風險包括：低血壓。
-
-**重症肌無力** 🟢 Minor
-- 本藥物在此情況下禁用。可能危及生命。
-
 ## 結論與下一步
 
 ### 藥師評估
@@ -770,46 +286,3 @@ Magnesium sulfate 為多用途藥物，TxGNN 預測其用於子癇前症/子癇�
 
 ---
 
-## 相關藥物報告
-
-- [Lidocaine]({{ "/drugs/lidocaine/" | relative_url }}) - 證據等級 L5
-- [Xylitol]({{ "/drugs/xylitol/" | relative_url }}) - 證據等級 L5
-- [Voriconazole]({{ "/drugs/voriconazole/" | relative_url }}) - 證據等級 L5
-- [Paclitaxel]({{ "/drugs/paclitaxel/" | relative_url }}) - 證據等級 L5
-- [Trihexyphenidyl]({{ "/drugs/trihexyphenidyl/" | relative_url }}) - 證據等級 L5
-
----
-
-{% include ai-analysis.html %}
-
-{% include social-share.html %}
-
-## 引用本報告
-
-如需引用本報告，請使用以下格式：
-
-**APA 格式：**
-```
-TwTxGNN. (2026). Magnesium Sulfate老藥新用驗證報告. https://twtxgnn.yao.care/drugs/magnesium_sulfate/
-```
-
-**BibTeX 格式：**
-```bibtex
-@misc{twtxgnn_magnesium_sulfate,
-  title = {Magnesium Sulfate老藥新用驗證報告},
-  author = {TwTxGNN Team},
-  year = {2026},
-  url = {https://twtxgnn.yao.care/drugs/magnesium_sulfate/}
-}
-```
-
----
-
-<div class="disclaimer">
-<strong>免責聲明</strong><br>
-本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
-<br><br>
-<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
-</div>
-
-{% include giscus.html %}

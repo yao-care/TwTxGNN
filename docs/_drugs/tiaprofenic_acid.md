@@ -1,18 +1,25 @@
 ---
 layout: default
 title: Tiaprofenic Acid
-description: "Tiaprofenic Acid 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
-nav_order: 172
+nav_order: 255
 evidence_level: L5
 indication_count: 10
 ---
 
 # Tiaprofenic Acid
+{: .fs-9 }
 
-<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
-證據等級: <strong>L5</strong> | 預測適應症: <strong>10</strong> 個
-</p>
+證據等級: **L5** | 預測適應症: **10** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
@@ -26,12 +33,9 @@ indication_count: 10
 
 ## 一句話總結
 
-<p class="key-answer" data-question="Tiaprofenic Acid 可以用於治療什麼新適應症？">
 Tiaprofenic Acid（泰普菲酸）原本用於消炎鎮痛。
 TxGNN 模型預測它可能對多種罕見骨骼發育不良疾病有效，
 但目前 **缺乏任何臨床試驗或文獻證據** 支持這些預測。
-</p>
-
 
 ## 快速總覽
 
@@ -62,181 +66,31 @@ TxGNN 模型預測它可能對多種罕見骨骼發育不良疾病有效，
 
 **模式觀察：** 預測結果高度集中於骨骼發育不良及相關遺傳性疾病。
 
+## 為什麼這個預測合理？
 
+Tiaprofenic Acid 是一種 **非類固醇抗發炎藥（NSAID）**，屬於丙酸衍生物。
 
+**潛在機轉推測：**
+1. **COX 抑制作用**：抑制環氧合酶，減少前列腺素合成，可能影響骨骼重塑過程
+2. **軟骨保護假說**：某些研究顯示 NSAID 可能對軟骨代謝有影響
+3. **抗發炎特性**：可能緩解骨骼發育異常相關的發炎反應
 
+**重要警示：**
+- 預測疾病多為罕見遺傳性疾病，主要涉及骨骼軟骨發育基因突變
+- NSAID 無法糾正基因缺陷，僅可能提供症狀緩解
+- 目前缺乏支持此預測的文獻或臨床證據
 
+## 臨床試驗證據
 
-## 預測適應症詳細分析
+所有 10 項預測適應症均無相關臨床試驗登記。
 
-<details class="indication-section" open>
-<summary>
-<span class="indication-name">1. brachydactyly-syndactyly syndrome</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
-</summary>
-<div class="indication-content">
+## 文獻證據
 
-<h3>為什麼這個預測合理？</h3>
+| 疾病 | PubMed 文獻數 | ClinicalTrials.gov | ICTRP |
+|-----|--------------|-------------------|-------|
+| 所有 10 項預測適應症 | 0 篇 | 0 項 | 0 項 |
 
-<p>Tiaprofenic Acid 是一種 <strong>非類固醇抗發炎藥（NSAID）</strong>，屬於丙酸衍生物。</p>
-
-<p><strong>潛在機轉推測：</strong></p>
-<ol>
-<li><strong>COX 抑制作用</strong>：抑制環氧合酶，減少前列腺素合成，可能影響骨骼重塑過程</li>
-<li><strong>軟骨保護假說</strong>：某些研究顯示 NSAID 可能對軟骨代謝有影響</li>
-<li><strong>抗發炎特性</strong>：可能緩解骨骼發育異常相關的發炎反應</li>
-
-</ol>
-<p><strong>重要警示：</strong></p>
-<ul>
-<li>預測疾病多為罕見遺傳性疾病，主要涉及骨骼軟骨發育基因突變</li>
-<li>NSAID 無法糾正基因缺陷，僅可能提供症狀緩解</li>
-<li>目前缺乏支持此預測的文獻或臨床證據</li>
-</ul>
-
-<h3>臨床試驗</h3>
-
-<p>目前無針對此特定適應症的臨床試驗登記。</p>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">2. colobomatous microphthalmia-rhizomelic dysplasia syndrome</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.99%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">3. brachyolmia-amelogenesis imperfecta syndrome</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.99%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">4. acromesomelic dysplasia, Hunter-Thompson type</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.99%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">5. myosclerosis</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.99%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">6. spondyloarthropathy, susceptibility to</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.99%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">7. brachyolmia</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.99%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">8. factor 5 excess with spontaneous thrombosis</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.98%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">9. heparin cofactor 2 deficiency</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.98%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">10. pseudoachondroplasia</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.98%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
+**結論：** 完全缺乏支持證據。
 
 ## 台灣上市資訊
 
@@ -286,49 +140,5 @@ TxGNN 模型預測它可能對多種罕見骨骼發育不良疾病有效，
 **藥師建議：**
 此預測的臨床轉化價值較低，建議優先關注其他更具證據基礎的候選藥物。
 
-
 ---
 
-## 相關藥物報告
-
-- [Nepafenac]({{ "/drugs/nepafenac/" | relative_url }}) - 證據等級 L5
-- [Polyethylene Glycol]({{ "/drugs/polyethylene_glycol/" | relative_url }}) - 證據等級 L5
-- [Homatropine Methylbromide]({{ "/drugs/homatropine_methylbromide/" | relative_url }}) - 證據等級 L5
-- [Tioconazole]({{ "/drugs/tioconazole/" | relative_url }}) - 證據等級 L5
-- [Clomipramine]({{ "/drugs/clomipramine/" | relative_url }}) - 證據等級 L5
-
----
-
-{% include ai-analysis.html %}
-
-{% include social-share.html %}
-
-## 引用本報告
-
-如需引用本報告，請使用以下格式：
-
-**APA 格式：**
-```
-TwTxGNN. (2026). Tiaprofenic Acid老藥新用驗證報告. https://twtxgnn.yao.care/drugs/tiaprofenic_acid/
-```
-
-**BibTeX 格式：**
-```bibtex
-@misc{twtxgnn_tiaprofenic_acid,
-  title = {Tiaprofenic Acid老藥新用驗證報告},
-  author = {TwTxGNN Team},
-  year = {2026},
-  url = {https://twtxgnn.yao.care/drugs/tiaprofenic_acid/}
-}
-```
-
----
-
-<div class="disclaimer">
-<strong>免責聲明</strong><br>
-本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
-<br><br>
-<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
-</div>
-
-{% include giscus.html %}

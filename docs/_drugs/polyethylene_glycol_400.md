@@ -1,18 +1,25 @@
 ---
 layout: default
 title: Polyethylene Glycol 400
-description: "Polyethylene Glycol 400 的老藥新用潛力分析。模型預測等級 L5，包含 2 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
-nav_order: 131
-evidence_level: L1
+nav_order: 204
+evidence_level: L5
 indication_count: 2
 ---
 
 # Polyethylene Glycol 400
+{: .fs-9 }
 
-<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
-證據等級: <strong>L5</strong> | 預測適應症: <strong>2</strong> 個
-</p>
+證據等級: **L5** | 預測適應症: **2** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
@@ -26,10 +33,7 @@ indication_count: 2
 
 ## 一句話總結
 
-<p class="key-answer" data-question="Polyethylene Glycol 400 可以用於治療什麼新適應症？">
 聚乙二醇400主要作為眼用潤滑劑和軟膏基劑,TxGNN預測其可能對支氣管炎和先天性魚鱗癬樣紅皮症有潛在應用,但缺乏直接臨床證據支持。
-</p>
-
 
 ## 快速總覽
 
@@ -44,64 +48,39 @@ indication_count: 2
 | 臨床試驗數 | 5項 (但為Mircera相關,非直接相關) |
 | 文獻支持 | 無直接相關文獻 |
 
+## 為什麼這個預測合理?
 
+### 支氣管炎預測分析 (TxGNN Score: 0.996, Rank: 8652)
 
+1. **潤滑保護特性**: 聚乙二醇類化合物具有優良的潤滑和保濕特性,理論上可能有助於呼吸道黏膜保護
+2. **賦形劑角色**: PEG-400常作為藥物載體,可能增加其他支氣管炎治療藥物的傳遞效率
+3. **機制推測有限**: 作為賦形劑,PEG-400本身不具有直接的抗炎或抗菌作用
 
+### 先天性魚鱗癬樣紅皮症預測分析 (TxGNN Score: 0.991, Rank: 15492)
 
+1. **皮膚保濕作用**: PEG作為軟膏基劑具有保濕特性,可能有助於改善皮膚乾燥
+2. **屏障修復潛力**: 理論上可增強皮膚屏障功能
+3. **缺乏特異性**: 此為非特異性賦形劑效應,非針對疾病機制
 
-## 預測適應症詳細分析
+## 臨床試驗證據
 
-<details class="indication-section" open>
-<summary>
-<span class="indication-name">1. bronchitis</span>
-<span class="evidence-badge evidence-L1">L1</span>
-<span class="prediction-score">99.58%</span> <span class="primary-badge">主要分析</span>
-</summary>
-<div class="indication-content">
+### 相關試驗概況
 
-<h3>為什麼這個預測合理？</h3>
+檢索到的5項臨床試驗均與Mircera (methoxy polyethylene glycol-epoetin beta)相關,用於慢性腎臟病貧血治療,而非PEG-400直接用於支氣管炎:
 
-<p>### 支氣管炎預測分析 (TxGNN Score: 0.996, Rank: 8652)</p>
+| 試驗編號 | 狀態 | 適應症 | 說明 |
+|----------|------|--------|------|
+| NCT01422824 | 已完成 | 腎性貧血 | PEG化紅血球生成素 |
+| NCT01519947 | 已完成 | 腎性貧血 | 海拔對劑量影響研究 |
+| NCT00559273 | 已完成 | 腎性貧血 | 與darbepoetin比較 |
 
-<ol>
-<li><strong>潤滑保護特性</strong>: 聚乙二醇類化合物具有優良的潤滑和保濕特性,理論上可能有助於呼吸道黏膜保護</li>
-<li><strong>賦形劑角色</strong>: PEG-400常作為藥物載體,可能增加其他支氣管炎治療藥物的傳遞效率</li>
-<li><strong>機制推測有限</strong>: 作為賦形劑,PEG-400本身不具有直接的抗炎或抗菌作用</li>
-</ol>
+**重要說明**: 這些試驗涉及PEG修飾的蛋白質藥物,而非PEG-400本身用於呼吸道疾病。
 
-<h3>臨床試驗</h3>
+## 文獻證據
 
-<table>
-<thead>
-<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT01422824" target="_blank">NCT01422824</a></td><td>N/A</td><td>COMPLETED</td><td>185</td><td>An Observational. Non-interventional Study to Observe the Safety and Efficacy of...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT01519947" target="_blank">NCT01519947</a></td><td>PHASE4</td><td>COMPLETED</td><td>87</td><td>Comparative Study to Evaluate the Effect of the Altitude on Dosage Requirements ...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT00559273" target="_blank">NCT00559273</a></td><td>PHASE3</td><td>COMPLETED</td><td>307</td><td>An Open-label, Randomized, Multicenter, Parallel-group Study to Demonstrate Corr...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT01309295" target="_blank">NCT01309295</a></td><td>N/A</td><td>COMPLETED</td><td>250</td><td>A Prospective Study Evaluating the Efficacy and Safety of Mircera in Patients Wi...</td></tr>
-<tr><td><a href="https://clinicaltrials.gov/study/NCT01379963" target="_blank">NCT01379963</a></td><td>N/A</td><td>COMPLETED</td><td>780</td><td>Non-interventional Study of Six-month Retrospective Reporting of Hemoglobin Leve...</td></tr>
-</tbody>
-</table>
+**PubMed文獻檢索結果**: 無
 
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">2. congenital ichthyosiform erythroderma</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.10%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
+未找到PEG-400直接用於支氣管炎或魚鱗癬的相關文獻。
 
 ## 台灣上市資訊
 
@@ -158,49 +137,5 @@ indication_count: 2
 *報告產生日期: 2026-02-11*
 *資料來源: TxGNN預測、ClinicalTrials.gov、PubMed、台灣食品藥物管理署*
 
-
 ---
 
-## 相關藥物報告
-
-- [Loteprednol Etabonate]({{ "/drugs/loteprednol_etabonate/" | relative_url }}) - 證據等級 L5
-- [Levamisole]({{ "/drugs/levamisole/" | relative_url }}) - 證據等級 L5
-- [Clobetasone]({{ "/drugs/clobetasone/" | relative_url }}) - 證據等級 L5
-- [Griseofulvin]({{ "/drugs/griseofulvin/" | relative_url }}) - 證據等級 L5
-- [Teriparatide]({{ "/drugs/teriparatide/" | relative_url }}) - 證據等級 L5
-
----
-
-{% include ai-analysis.html %}
-
-{% include social-share.html %}
-
-## 引用本報告
-
-如需引用本報告，請使用以下格式：
-
-**APA 格式：**
-```
-TwTxGNN. (2026). Polyethylene Glycol 400老藥新用驗證報告. https://twtxgnn.yao.care/drugs/polyethylene_glycol_400/
-```
-
-**BibTeX 格式：**
-```bibtex
-@misc{twtxgnn_polyethylene_glycol_400,
-  title = {Polyethylene Glycol 400老藥新用驗證報告},
-  author = {TwTxGNN Team},
-  year = {2026},
-  url = {https://twtxgnn.yao.care/drugs/polyethylene_glycol_400/}
-}
-```
-
----
-
-<div class="disclaimer">
-<strong>免責聲明</strong><br>
-本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
-<br><br>
-<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
-</div>
-
-{% include giscus.html %}

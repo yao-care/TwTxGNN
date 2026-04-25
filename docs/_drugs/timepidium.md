@@ -1,18 +1,25 @@
 ---
 layout: default
 title: Timepidium
-description: "Timepidium 的老藥新用潛力分析。模型預測等級 L5，包含 1 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
-nav_order: 173
+nav_order: 256
 evidence_level: L5
 indication_count: 1
 ---
 
 # Timepidium
+{: .fs-9 }
 
-<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
-證據等級: <strong>L5</strong> | 預測適應症: <strong>1</strong> 個
-</p>
+證據等級: **L5** | 預測適應症: **1** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
@@ -26,10 +33,7 @@ indication_count: 1
 
 ## 一句話總結
 
-<p class="key-answer" data-question="Timepidium 可以用於治療什麼新適應症？">
 Timepidium 是一種抗膽鹼類解痙劑，目前僅預測出一項新適應症（失眠症），但缺乏臨床試驗與文獻支持，不建議用於此用途。
-</p>
-
 
 ---
 
@@ -40,7 +44,7 @@ Timepidium 是一種抗膽鹼類解痙劑，目前僅預測出一項新適應症
 | 藥物名稱 | Timepidium (梯每匹定) |
 | DrugBank ID | DB13850 |
 | 原適應症 | 胃腸道平滑肌痙攣性疼痛（胃炎、消化性潰瘍、腸炎、膽道疾患、尿路結石、胰臟炎） |
-| 預測新適應症 | insomnia (disease) |
+| 預測新適應症 | 失眠症 (insomnia) |
 | TxGNN 分數 | 0.995 (排名 10,408) |
 | 證據等級 | 無臨床試驗、無相關文獻 |
 | 台灣上市狀態 | 有多張許可證（永信、田邊、衛達等廠） |
@@ -122,49 +126,5 @@ Timepidium 應維持其原有適應症使用：胃腸道平滑肌痙攣性疼痛
 *報告產生日期：2026-02-11*
 *資料來源：TxGNN 知識圖譜預測、ClinicalTrials.gov、PubMed、台灣 FDA*
 
-
 ---
 
-## 相關藥物報告
-
-- [Warfarin Atrial Fibrillation]({{ "/drugs/warfarin_atrial_fibrillation/" | relative_url }}) - 證據等級 L5
-- [Cyclizine]({{ "/drugs/cyclizine/" | relative_url }}) - 證據等級 L5
-- [Denosumab]({{ "/drugs/denosumab/" | relative_url }}) - 證據等級 L5
-- [Titanium Dioxide]({{ "/drugs/titanium_dioxide/" | relative_url }}) - 證據等級 L5
-- [Pitavastatin]({{ "/drugs/pitavastatin/" | relative_url }}) - 證據等級 L5
-
----
-
-{% include ai-analysis.html %}
-
-{% include social-share.html %}
-
-## 引用本報告
-
-如需引用本報告，請使用以下格式：
-
-**APA 格式：**
-```
-TwTxGNN. (2026). Timepidium老藥新用驗證報告. https://twtxgnn.yao.care/drugs/timepidium/
-```
-
-**BibTeX 格式：**
-```bibtex
-@misc{twtxgnn_timepidium,
-  title = {Timepidium老藥新用驗證報告},
-  author = {TwTxGNN Team},
-  year = {2026},
-  url = {https://twtxgnn.yao.care/drugs/timepidium/}
-}
-```
-
----
-
-<div class="disclaimer">
-<strong>免責聲明</strong><br>
-本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
-<br><br>
-<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
-</div>
-
-{% include giscus.html %}

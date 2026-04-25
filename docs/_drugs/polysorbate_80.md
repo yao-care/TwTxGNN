@@ -1,18 +1,25 @@
 ---
 layout: default
 title: Polysorbate 80
-description: "Polysorbate 80 的老藥新用潛力分析。模型預測等級 L5，包含 1 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
-nav_order: 133
+nav_order: 206
 evidence_level: L5
 indication_count: 1
 ---
 
 # Polysorbate 80
+{: .fs-9 }
 
-<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
-證據等級: <strong>L5</strong> | 預測適應症: <strong>1</strong> 個
-</p>
+證據等級: **L5** | 預測適應症: **1** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
@@ -26,10 +33,7 @@ indication_count: 1
 
 ## 一句話總結
 
-<p class="key-answer" data-question="Polysorbate 80 可以用於治療什麼新適應症？">
 聚山梨醇酯80是一種常用的藥用賦形劑和界面活性劑,TxGNN預測其可能對先天性魚鱗癬樣紅皮症有潛在應用,但缺乏任何臨床或文獻證據支持。
-</p>
-
 
 ## 快速總覽
 
@@ -39,7 +43,7 @@ indication_count: 1
 | DrugBank ID | DB11063 |
 | 台灣品牌名 | 優麗舒加強型眼用乳劑等 |
 | 原核准適應症 | 界面活性劑、疫苗佐劑、眼用潤滑劑 |
-| 預測新適應症 | xerophthalmia |
+| 預測新適應症 | 先天性魚鱗癬樣紅皮症 (congenital ichthyosiform erythroderma) |
 | 最高證據等級 | L5 (僅預測) |
 | 臨床試驗數 | 0項 |
 | 文獻支持 | 無 |
@@ -141,49 +145,5 @@ DDI資料庫未記載顯著藥物交互作用。
 *報告產生日期: 2026-02-11*
 *資料來源: TxGNN預測、ClinicalTrials.gov、PubMed、台灣食品藥物管理署*
 
-
 ---
 
-## 相關藥物報告
-
-- [Tofacitinib]({{ "/drugs/tofacitinib/" | relative_url }}) - 證據等級 L5
-- [Urea]({{ "/drugs/urea/" | relative_url }}) - 證據等級 L5
-- [Cobicistat]({{ "/drugs/cobicistat/" | relative_url }}) - 證據等級 L5
-- [Leflunomide]({{ "/drugs/leflunomide/" | relative_url }}) - 證據等級 L5
-- [Alprostadil]({{ "/drugs/alprostadil/" | relative_url }}) - 證據等級 L5
-
----
-
-{% include ai-analysis.html %}
-
-{% include social-share.html %}
-
-## 引用本報告
-
-如需引用本報告，請使用以下格式：
-
-**APA 格式：**
-```
-TwTxGNN. (2026). Polysorbate 80老藥新用驗證報告. https://twtxgnn.yao.care/drugs/polysorbate_80/
-```
-
-**BibTeX 格式：**
-```bibtex
-@misc{twtxgnn_polysorbate_80,
-  title = {Polysorbate 80老藥新用驗證報告},
-  author = {TwTxGNN Team},
-  year = {2026},
-  url = {https://twtxgnn.yao.care/drugs/polysorbate_80/}
-}
-```
-
----
-
-<div class="disclaimer">
-<strong>免責聲明</strong><br>
-本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
-<br><br>
-<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
-</div>
-
-{% include giscus.html %}

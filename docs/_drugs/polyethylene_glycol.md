@@ -1,18 +1,25 @@
 ---
 layout: default
 title: Polyethylene Glycol
-description: "Polyethylene Glycol 的老藥新用潛力分析。模型預測等級 L5，包含 1 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
-nav_order: 130
+nav_order: 203
 evidence_level: L5
 indication_count: 1
 ---
 
 # Polyethylene Glycol
+{: .fs-9 }
 
-<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
-證據等級: <strong>L5</strong> | 預測適應症: <strong>1</strong> 個
-</p>
+證據等級: **L5** | 預測適應症: **1** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
@@ -26,10 +33,7 @@ indication_count: 1
 
 ## 一句話總結
 
-<p class="key-answer" data-question="Polyethylene Glycol 可以用於治療什麼新適應症？">
 Polyethylene glycol (PEG) 主要作為藥用賦形劑及滲透性瀉劑，TxGNN 僅預測對先天性魚鱗癬紅皮症有潛在療效，但無文獻支持。
-</p>
-
 
 ## 快速總覽
 
@@ -112,49 +116,5 @@ DDInter 資料庫未發現 Polyethylene glycol 的顯著藥物交互作用。
 *本筆記由 TwTxGNN 系統自動產生，僅供研究參考，不構成醫療建議。*
 *產生日期：2026-02-11*
 
-
 ---
 
-## 相關藥物報告
-
-- [Salicylic Acid]({{ "/drugs/salicylic_acid/" | relative_url }}) - 證據等級 L5
-- [Nebivolol]({{ "/drugs/nebivolol/" | relative_url }}) - 證據等級 L5
-- [Methocarbamol]({{ "/drugs/methocarbamol/" | relative_url }}) - 證據等級 L5
-- [Verteporfin]({{ "/drugs/verteporfin/" | relative_url }}) - 證據等級 L5
-- [Fosfomycin]({{ "/drugs/fosfomycin/" | relative_url }}) - 證據等級 L5
-
----
-
-{% include ai-analysis.html %}
-
-{% include social-share.html %}
-
-## 引用本報告
-
-如需引用本報告，請使用以下格式：
-
-**APA 格式：**
-```
-TwTxGNN. (2026). Polyethylene Glycol老藥新用驗證報告. https://twtxgnn.yao.care/drugs/polyethylene_glycol/
-```
-
-**BibTeX 格式：**
-```bibtex
-@misc{twtxgnn_polyethylene_glycol,
-  title = {Polyethylene Glycol老藥新用驗證報告},
-  author = {TwTxGNN Team},
-  year = {2026},
-  url = {https://twtxgnn.yao.care/drugs/polyethylene_glycol/}
-}
-```
-
----
-
-<div class="disclaimer">
-<strong>免責聲明</strong><br>
-本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
-<br><br>
-<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
-</div>
-
-{% include giscus.html %}

@@ -1,18 +1,25 @@
 ---
 layout: default
 title: Methocarbamol
-description: "Methocarbamol 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
-nav_order: 104
-evidence_level: L4
+nav_order: 163
+evidence_level: L5
 indication_count: 10
 ---
 
 # Methocarbamol
+{: .fs-9 }
 
-<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
-證據等級: <strong>L5</strong> | 預測適應症: <strong>10</strong> 個
-</p>
+證據等級: **L5** | 預測適應症: **10** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
@@ -26,9 +33,7 @@ indication_count: 10
 
 ## 一句話總結
 
-<p class="key-answer" data-question="Methocarbamol 可以用於治療什麼新適應症？">
 Methocarbamol 是一種中樞性骨骼肌鬆弛劑，TxGNN 預測其可能對馬尾症候群、腸躁症等神經肌肉相關疾病有治療潛力，但目前缺乏臨床證據支持這些新適應症。
-</p>
 
 ---
 
@@ -40,214 +45,58 @@ Methocarbamol 是一種中樞性骨骼肌鬆弛劑，TxGNN 預測其可能對馬
 | DrugBank ID | DB00423 |
 | 台灣商品名 | 佳復筋片、達士邦錠、寶樂欣膜衣錠、肌樂弛錠、美卡欣錠 |
 | 原核准適應症 | 肌肉攣縮症狀、腰痛、背痛、頸肩腕疼痛、肌肉痙攣 |
-| 預測新適應症 | cauda equina syndrome、irritable bowel syndrome、panuveitis (disease)、anaphylaxis、iris disease、uveitis、ventricular tachycardia、food-dependent exercise-induced anaphylaxis、conjunctivitis、obsolete bundle branch block |
+| 預測新適應症 | 馬尾症候群、腸躁症、全葡萄膜炎、過敏性休克、心室頻脈 |
 | 最高預測分數 | 0.9998（馬尾症候群） |
 | 證據等級 | L5（僅預測） |
 
 ---
 
+## 為什麼這個預測合理？
 
+### 藥理機轉分析
 
+Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統抑制多突觸反射弧。其機轉與預測適應症的關聯：
 
+1. **馬尾症候群**（TxGNN Score: 0.9998）
+   - 馬尾症候群常伴隨嚴重的肌肉痙攣
+   - Methocarbamol 的肌肉鬆弛作用可能有助於緩解相關症狀
+   - 但無法治療根本的神經壓迫病因
 
-## 預測適應症詳細分析
+2. **腸躁症**（TxGNN Score: 0.9998）
+   - 腸道平滑肌功能異常是腸躁症的特徵之一
+   - 骨骼肌鬆弛劑對平滑肌的作用有限
+   - 預測合理性較低
 
-<details class="indication-section" open>
-<summary>
-<span class="indication-name">1. cauda equina syndrome</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.98%</span> <span class="primary-badge">主要分析</span>
-</summary>
-<div class="indication-content">
+3. **過敏性休克**（TxGNN Score: 0.9996）
+   - 有文獻報導 Methocarbamol 用於蜘蛛咬傷引起的全身反應輔助治療
+   - 但非第一線治療藥物
 
-<h3>為什麼這個預測合理？</h3>
+---
 
-<p>### 藥理機轉分析</p>
+## 臨床試驗證據
 
-<p>Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統抑制多突觸反射弧。其機轉與預測適應症的關聯：</p>
+| 疾病 | 臨床試驗數量 | 最高期別 | 證據等級 |
+|------|-------------|---------|---------|
+| 馬尾症候群 | 0 | - | L5 |
+| 腸躁症 | 0 | - | L5 |
+| 全葡萄膜炎 | 0 | - | L5 |
+| 過敏性休克 | 0 | - | L5 |
 
-<ol>
-<li><strong>馬尾症候群</strong>（TxGNN Score: 0.9998）</li>
-</ol>
-<ul>
-<li>馬尾症候群常伴隨嚴重的肌肉痙攣</li>
-<li>Methocarbamol 的肌肉鬆弛作用可能有助於緩解相關症狀</li>
-<li>但無法治療根本的神經壓迫病因</li>
+**結論：目前無任何預測適應症進入臨床試驗階段。**
 
-</ul>
-<ol>
-<li><strong>腸躁症</strong>（TxGNN Score: 0.9998）</li>
-</ol>
-<ul>
-<li>腸道平滑肌功能異常是腸躁症的特徵之一</li>
-<li>骨骼肌鬆弛劑對平滑肌的作用有限</li>
-<li>預測合理性較低</li>
+---
 
-</ul>
-<ol>
-<li><strong>過敏性休克</strong>（TxGNN Score: 0.9996）</li>
-</ol>
-<ul>
-<li>有文獻報導 Methocarbamol 用於蜘蛛咬傷引起的全身反應輔助治療</li>
-<li>但非第一線治療藥物</li>
-</ul>
+## 文獻證據
 
-<h3>臨床試驗</h3>
+### 過敏性休克相關文獻
 
-<p>目前無針對此特定適應症的臨床試驗登記。</p>
+| PMID | 標題 | 年份 | 類型 |
+|------|------|------|------|
+| 20086833 | Managing arthropod bites and stings | 1998 | 期刊文章 |
 
-</div>
-</details>
+**文獻摘要**：此文章提到 Methocarbamol 可用於黑寡婦蜘蛛咬傷的全身反應處理，作為輔助治療。然而，過敏性休克的第一線治療仍為 epinephrine 和抗組織胺藥物。
 
-<details class="indication-section">
-<summary>
-<span class="indication-name">2. irritable bowel syndrome</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.98%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">3. panuveitis (disease)</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.96%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">4. anaphylaxis</span>
-<span class="evidence-badge evidence-L4">L4</span>
-<span class="prediction-score">99.96%</span>
-</summary>
-<div class="indication-content">
-
-<h3>相關文獻（1 篇）</h3>
-
-<table>
-<thead>
-<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20086833/" target="_blank">20086833</a></td><td>1998</td><td>Article</td><td>The Physician and sportsmedici</td><td>Managing arthropod bites and stings.</td></tr>
-</tbody>
-</table>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">5. iris disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.94%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">6. uveitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.93%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">7. ventricular tachycardia</span>
-<span class="evidence-badge evidence-L4">L4</span>
-<span class="prediction-score">99.93%</span>
-</summary>
-<div class="indication-content">
-
-<h3>相關文獻（1 篇）</h3>
-
-<table>
-<thead>
-<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
-</thead>
-<tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30050852/" target="_blank">30050852</a></td><td>2017</td><td>Article</td><td>Veterinary medicine (Auckland,</td><td>Severe lamotrigine toxicosis in a dog.</td></tr>
-</tbody>
-</table>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">8. food-dependent exercise-induced anaphylaxis</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.93%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">9. conjunctivitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.93%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
-<details class="indication-section">
-<summary>
-<span class="indication-name">10. obsolete bundle branch block</span>
-<span class="evidence-badge evidence-L5">L5</span>
-<span class="prediction-score">99.93%</span>
-</summary>
-<div class="indication-content">
-
-<div class="no-evidence-notice">
-目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
-</div>
-
-</div>
-</details>
-
+---
 
 ## 台灣上市資訊
 
@@ -283,26 +132,6 @@ Methocarbamol 是一種中樞性骨骼肌鬆弛劑，TxGNN 預測其可能對馬
 
 ---
 
-
-### 藥物-疾病注意事項 (DDSI)
-
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
-
-**Seizures** 🟡 Moderate
-- 風險包括：癲癇發作。
-
-**腎臟疾病** 🟢 Minor
-- 本藥物在此情況下禁用。
-
-### 藥物-食物交互作用 (DFI)
-
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
-
-**酒精** 🟡 Moderate
-- 影響：產生協同作用。
-- 建議：避免大量攝取。
-
-
 ## 結論與下一步
 
 ### 評估結論
@@ -332,46 +161,3 @@ Methocarbamol 是一種中樞性骨骼肌鬆弛劑，TxGNN 預測其可能對馬
 
 ---
 
-## 相關藥物報告
-
-- [Vigabatrin]({{ "/drugs/vigabatrin/" | relative_url }}) - 證據等級 L5
-- [Travoprost]({{ "/drugs/travoprost/" | relative_url }}) - 證據等級 L5
-- [Teriparatide]({{ "/drugs/teriparatide/" | relative_url }}) - 證據等級 L5
-- [Avelumab]({{ "/drugs/avelumab/" | relative_url }}) - 證據等級 L5
-- [Polyethylene Glycol]({{ "/drugs/polyethylene_glycol/" | relative_url }}) - 證據等級 L5
-
----
-
-{% include ai-analysis.html %}
-
-{% include social-share.html %}
-
-## 引用本報告
-
-如需引用本報告，請使用以下格式：
-
-**APA 格式：**
-```
-TwTxGNN. (2026). Methocarbamol老藥新用驗證報告. https://twtxgnn.yao.care/drugs/methocarbamol/
-```
-
-**BibTeX 格式：**
-```bibtex
-@misc{twtxgnn_methocarbamol,
-  title = {Methocarbamol老藥新用驗證報告},
-  author = {TwTxGNN Team},
-  year = {2026},
-  url = {https://twtxgnn.yao.care/drugs/methocarbamol/}
-}
-```
-
----
-
-<div class="disclaimer">
-<strong>免責聲明</strong><br>
-本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
-<br><br>
-<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
-</div>
-
-{% include giscus.html %}

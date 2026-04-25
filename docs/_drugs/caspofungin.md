@@ -1,18 +1,25 @@
 ---
 layout: default
 title: Caspofungin
-description: "Caspofungin 的老藥新用潛力分析。模型預測等級 L5，包含 1 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
-nav_order: 42
+nav_order: 55
 evidence_level: L5
 indication_count: 1
 ---
 
 # Caspofungin
+{: .fs-9 }
 
-<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
-證據等級: <strong>L5</strong> | 預測適應症: <strong>1</strong> 個
-</p>
+證據等級: **L5** | 預測適應症: **1** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
@@ -26,18 +33,16 @@ indication_count: 1
 
 ## 一句話總結
 
-<p class="key-answer" data-question="Caspofungin 可以用於治療什麼新適應症？">
 Caspofungin 是棘白菌素類抗真菌藥物，用於侵入性麴菌病和念珠菌感染。
 TxGNN 模型預測它可能對**胃泌素分泌異常 (gastrin secretion abnormality)** 有效，
 但目前**無臨床試驗或文獻**支持這一預測。
-</p>
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 侵入性麴菌病（第二線）、食道念珠菌感染、侵入性念珠菌感染症（含念珠菌血症）、發燒性嗜中性白血球缺乏症之經驗療法 |
-| 預測新適應症 | gastrin secretion abnormality |
+| 預測新適應症 | 胃泌素分泌異常 (gastrin secretion abnormality) |
 | TxGNN 預測分數 | 99.44% |
 | 證據等級 | L5 |
 | 台灣上市 | 已上市 |
@@ -93,17 +98,6 @@ Caspofungin 是一種棘白菌素類抗真菌藥物，其作用機轉為：
 **多種未知等級交互作用**：
 包括 Calcitriol、Pantoprazole、Doxycycline、Morphine、Omeprazole、Lansoprazole、Vancomycin、Fluconazole 等，建議臨床使用時密切監測。
 
-
-### 藥物-疾病注意事項 (DDSI)
-
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
-
-**肝臟疾病** 🟡 Moderate
-- 可能需要調整劑量。可能有嚴重不良反應。
-
-**肝臟疾病** 🟡 Moderate
-- 需定期監測。可能有嚴重不良反應。
-
 ## 結論與下一步
 
 **決策：Hold**
@@ -119,46 +113,3 @@ Caspofungin 是一種棘白菌素類抗真菌藥物，其作用機轉為：
 
 ---
 
-## 相關藥物報告
-
-- [Ipilimumab]({{ "/drugs/ipilimumab/" | relative_url }}) - 證據等級 L5
-- [Methocarbamol]({{ "/drugs/methocarbamol/" | relative_url }}) - 證據等級 L5
-- [Ramucirumab]({{ "/drugs/ramucirumab/" | relative_url }}) - 證據等級 L5
-- [Isoleucine]({{ "/drugs/isoleucine/" | relative_url }}) - 證據等級 L5
-- [Raloxifene]({{ "/drugs/raloxifene/" | relative_url }}) - 證據等級 L5
-
----
-
-{% include ai-analysis.html %}
-
-{% include social-share.html %}
-
-## 引用本報告
-
-如需引用本報告，請使用以下格式：
-
-**APA 格式：**
-```
-TwTxGNN. (2026). Caspofungin老藥新用驗證報告. https://twtxgnn.yao.care/drugs/caspofungin/
-```
-
-**BibTeX 格式：**
-```bibtex
-@misc{twtxgnn_caspofungin,
-  title = {Caspofungin老藥新用驗證報告},
-  author = {TwTxGNN Team},
-  year = {2026},
-  url = {https://twtxgnn.yao.care/drugs/caspofungin/}
-}
-```
-
----
-
-<div class="disclaimer">
-<strong>免責聲明</strong><br>
-本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
-<br><br>
-<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
-</div>
-
-{% include giscus.html %}
