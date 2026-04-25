@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-25T13:58:42.700552+00:00",
+  "fetched_at": "2026-04-25T14:42:05.901141+00:00",
   "count": 19,
   "news": [
     {
@@ -28,6 +28,18 @@
       ]
     },
     {
+      "id": "ea549f8991bc",
+      "title": "我認為格溫妮絲·帕特洛不知道勝肽是什麼 - citytimes.tw",
+      "published": "2026-04-25T08:04:11+00:00",
+      "summary": "我認為格溫妮絲·帕特洛不知道勝肽是什麼&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOZ1ZNUWFyTWgxNXFPVGJLNlpNY3ZkbmpLUHhwbzZReVBtRVVCc2RqUVhKcjJMS3ZDa0hMeTZrUnJUeUpVRUZLUlg2b3ExbFJVQXJpWGNXMXBZRzBqVnc2V1I0bEtOWEl1TlNzMUpNVW9Od0FfQUtwQ2M1bnVqNUZ1RWhtY3UxVEk4QkVPQndlUmR5bE8zTENCZzNtdFJwb3cwWlQ5Z0lCZnpEX0dYWldkRjVZNEpKS3F2aFI2d19VSTlXY1E3TnlEdHlsQ1hKcW1wckQ4d1EySGhxQ00wRFpHdl9qYjdyLThkOFBGeEY5ekREQzhEYmF3MEdDd1BFLUU5akZIV29YN1RiVFdwXzVzRWE1Ty1jRXpIbG5EOUV4Sm51eFEzUTVNbjdjcVh0VGpZNkpDT0dySk1wU3lmQ3c?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4f74d114ae64",
       "title": "肥胖不是小事！荷爾蒙改變、削弱免疫力 醫示警：罹癌風險增 - 民報",
       "published": "2026-04-25T07:00:00+00:00",
@@ -40,14 +52,14 @@
       ]
     },
     {
-      "id": "ea549f8991bc",
-      "title": "我認為格溫妮絲·帕特洛不知道勝肽是什麼 - citytimes.tw",
-      "published": "2026-04-25T08:04:11+00:00",
-      "summary": "我認為格溫妮絲·帕特洛不知道勝肽是什麼&nbsp;&nbsp;citytimes.tw",
+      "id": "4c3e25bdc694",
+      "title": "挑戰認知拒絕萎縮，長者善用 AI 訓練腦力 - TechNews 科技新報",
+      "published": "2026-04-24T16:17:47+00:00",
+      "summary": "挑戰認知拒絕萎縮，長者善用 AI 訓練腦力&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOZ1ZNUWFyTWgxNXFPVGJLNlpNY3ZkbmpLUHhwbzZReVBtRVVCc2RqUVhKcjJMS3ZDa0hMeTZrUnJUeUpVRUZLUlg2b3ExbFJVQXJpWGNXMXBZRzBqVnc2V1I0bEtOWEl1TlNzMUpNVW9Od0FfQUtwQ2M1bnVqNUZ1RWhtY3UxVEk4QkVPQndlUmR5bE8zTENCZzNtdFJwb3cwWlQ5Z0lCZnpEX0dYWldkRjVZNEpKS3F2aFI2d19VSTlXY1E3TnlEdHlsQ1hKcW1wckQ4d1EySGhxQ00wRFpHdl9qYjdyLThkOFBGeEY5ekREQzhEYmF3MEdDd1BFLUU5akZIV29YN1RiVFdwXzVzRWE1Ty1jRXpIbG5EOUV4Sm51eFEzUTVNbjdjcVh0VGpZNkpDT0dySk1wU3lmQ3c?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tcXFkNTQxa2RlNld3YUYtWmt2cUpNTmd4eGtrVmxXNHF5Y3FybWJpZy1aa1RvSU1ELVNFVUZwSFBZanB4a1R3REN2X0pKcy1WdW9jbF9n?oc=5"
         }
       ]
     },
@@ -72,18 +84,6 @@
         {
           "name": "祝你健康",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyMER2LW9oalJ0S1VGU2ZrYnlDOWRoMjhFMUlzeUpKelZzVmhWZktHM2ZpT3Rzc1FTdWFyUkFnX0wtMEhxSmtETFRaQ2k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4c3e25bdc694",
-      "title": "挑戰認知拒絕萎縮，長者善用 AI 訓練腦力 - TechNews 科技新報",
-      "published": "2026-04-24T16:17:47+00:00",
-      "summary": "挑戰認知拒絕萎縮，長者善用 AI 訓練腦力&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tcXFkNTQxa2RlNld3YUYtWmt2cUpNTmd4eGtrVmxXNHF5Y3FybWJpZy1aa1RvSU1ELVNFVUZwSFBZanB4a1R3REN2X0pKcy1WdW9jbF9n?oc=5"
         }
       ]
     },
@@ -124,14 +124,14 @@
       ]
     },
     {
-      "id": "68cfd7b6e339",
-      "title": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道 - Yahoo新聞",
-      "published": "2026-04-24T01:09:58+00:00",
-      "summary": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道&nbsp;&nbsp;Yahoo新聞",
+      "id": "9c40cca1d3b6",
+      "title": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道 - 匯流新聞網",
+      "published": "2026-04-24T01:00:43+00:00",
+      "summary": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道&nbsp;&nbsp;匯流新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNaXJwS2hSR2xSRFhPdzRxc1FmblVBMVJxeVRSSTh2TmdYcU0tSXhlamcyOGFSYm0wTGRnT0s3SU1OMEwzRTZyZ3VUYUFPZ04xM2FxZlJTSFl4MDJ0bXVRNnhreEZKc3k2SnhiM3c1TFZ2MWZlNVdPaHhCUDZ2MUpLM1UxSXptOG5udGhRYWZBbXRiTkpDWDJ6eDdIT0JUcmdCTE1QekZzLTdPYTRCRmFLNm1Ec1NoUFpWazRHajdLUzA1ZnJnVzlmbUdBNFh2eDlsbExMZjI5VFVZMWtEdng2UWdoRm80bVlsU2gxN1psX1A1MlNFeXZvLUZBM1p2bEgyZkNvcFlHREQ2dw?oc=5"
+          "name": "匯流新聞網",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNTkNDSEZUWXR6SjhrV0s2dE1pNi1NZUJQZlloem5CMFBMZ0FwT3U2X25SdWlLenVMNEtrdEJoYklTbWRzLU44b19KWFZwVlFnUVh6UzJVS3g0UHg1dzRkWFUwZTN3WUt0RWtGRFJKSFh3dXluRTVFa1ZqUFhvSVF3ZDBONXIxazJtd1hENUVpSGpFU3pEVER2RzlPaFVScU1YUTAxVjRSS21fZGdMcUhjR2QtcTE2cTBvUlVsUDZwZl9PYVhmTFI2TVBJWFNPVVFMRDRwcHQzR1I0NG1ULXJuUHpTRGFaRHB5eU02S2dHSnRxcmIzOFlGZzJSSVpQSFFlWTM3RzE0RklwSWw3WER0Y3J2RnFBUVhtZUl5QmJDOHJrd1lkb2ZwN3hVMlRfUFVQQkF0aGZxQWtDYWdLRk9JeVNEdlk?oc=5"
         }
       ]
     },
