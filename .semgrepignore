@@ -1,2 +1,2 @@
-# RxNorm API error logging — rxcui 是純數字的藥物代碼，非使用者可控輸入
-docs/assets/js/smart-fhir-mapper.js
+# Semgrep 排除清單
+# smart-fhir-mapper.js console.error 已修復為 %s 格式化，不再需要排除
