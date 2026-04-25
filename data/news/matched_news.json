@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-25T16:32:13.841594+00:00",
-  "total_count": 21,
+  "last_updated": "2026-04-25T17:32:02.270207+00:00",
+  "total_count": 22,
   "matched_count": 4,
   "news": [
+    {
+      "id": "b9e188bae310",
+      "title": "哈佛大學的科學家透過隱藏的發炎觸發因素將腸道細菌與憂鬱症聯繫起來。",
+      "published": "2026-04-25T16:47:25+00:00",
+      "summary": "哈佛大學的科學家透過隱藏的發炎觸發因素將腸道細菌與憂鬱症聯繫起來。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQVTRlY0tZQ1hHQ2pEcFlkQ1FpWlhOTVBoN0piTDVMQWYzV1RrUmJqXzZjRzJnTGhXUERpLUNZeGRZVGVVc2JlRWQ1ZVFETUlhUXRsaDNTSVpsYmZCY3E0YmEzRFIycUxCVW1tbUFvTjVXT3Nwb3VzZWwyWGR6QmNCdW5WSGpRVmkwTnVweUFKVzFvSVc1WUJpdExvUU10SnlVeUdNNmZsVF9KSmx0NDUtaFdOSzVCckMyWEJTMUpia0FnM1hBLVVzMDVBbkVwd1RTRzBLanJaeWNaQTd4ZHZ4Vk9fSVhIWWt1WWNuLXhjQjJzNl9PdEhha0hlVkNET2hUSkZPVUl5ajBLbjFaRkpBM2xRMWw1MjdyOFdQWmdsMUlOb3NlVzBKbzVta1IyT1NYSXQ2Nm9FVHNtZnZ3cllVeXFsYVR6Z2dXSkZiNEl5cmFtVDNmUG4xZ0VfWkVhXzZFLVFlcHNUYkhRV09LMUR3UnNJU21IRURpUWNXSmJpRXBHT1lnVHc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "1c61e641c38c",
       "title": "科學家首次發現了憂鬱症背後的腦細胞。",
@@ -42,14 +55,14 @@
       ]
     },
     {
-      "id": "592e2d77668d",
+      "id": "8c71381e94ac",
       "title": "醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康",
       "published": "2026-04-25T11:45:00+00:00",
-      "summary": "醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;Yahoo新聞「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲癌症為何越來越年輕？關鍵可能不只是基因 | 科技新報&nbsp;&nbsp;LINE TODAY以為飲果汁好健康？醫生揭4大致癌飲料黑名單／日飲1杯胰臟癌風險狂飆87%&nbsp;&nbsp;U Food胰臟癌｜日飲1杯呢類飲品患胰臟癌風險激增87% 醫生點名4大高危飲品 戒3類食物保護腎臟&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;東森新聞「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲癌症為何越來越年輕？關鍵可能不只是基因 | 科技新報&nbsp;&nbsp;LINE TODAY以為飲果汁好健康？醫生揭4大致癌飲料黑名單／日飲1杯胰臟癌風險狂飆87%&nbsp;&nbsp;U Food胰臟癌｜日飲1杯呢類飲品患胰臟癌風險激增87% 醫生點名4大高危飲品 戒3類食物保護腎臟&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOT20wZkppVUU4azNsSUZmbHZYTEIyMHBHVFJiVnRTa1RURnAzS0lvZFpsVEQyV0RIYW02cFBnN21JLUNDeUtad1loRlFKQ0tWa21YU2JhbHZScnFGcHpkc0l5NGV1T2ZKWFlJX0VhanZUSDBnRFIzeEJZMXBmUGdwaTFxNmVkM3JnN2lIMjdUYUkwejRrOXpTLVBsal9kY1U0RjVsQzM5YmFsd3Q1SFhJTjFGTU9TcG5md1QxR2FEUkpUcVBITnhtYUlUZjliNWZiMVRWRUFJRDZLVUpDQkduNXgybXkyWEJmWGN5TjJ1VUdHZzRDRUF4S0x4RnN1TG9sZjlJVzdaR2hJRmU0bEF5ejB5MmE5NG1EVlFDVlpVNWt3OXUzd1pfU0trVmJXTWtGRTNHXy1ZQk9FMG80bnc?oc=5"
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WMm8yZE5GdTlCdmJNZWw2T3VPQjVLS25yMlo1dzhLR09QbVpWbm90SEtlTDRVMjdGVWhIU3pNNG5NQTFzZTZtVGlKUmRlMW5wb1gxMQ?oc=5"
         }
       ],
       "matched_keywords": [
