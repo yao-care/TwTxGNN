@@ -44,19 +44,11 @@ permalink: /news/hydroxyurea/
 
 ## 相關新聞（3 則）
 
-### [以為飲果汁好健康？醫生揭4大致癌飲料黑名單／日飲1杯胰臟癌風險狂飆87% - U Food](https://news.google.com/rss/articles/CBMixANBVV95cUxPUEFIU054U1kxZEJJbjFocWZ5NDJwREtpVTRKU0h3T04tOGVyQnVMMy1DRHlIdzdlNmh6VFdUVzVPWmtaVkU2RWc4dGlFNk9SYkt6aVJmeFBOY3lvdVo2cW1VSXozcUlubHYtb01uYks0bkJsX09EZzVlU1F2M3o4WVV4cEFCNlVQRkJkeG43RTlWcmdqcFVwQUg1WVJUUHlVUTNSRFlBUVhyZUV1b3dabU5Wb21ienNuSktCRXBtNnlLMUNIdjY5aENCS2ZoTFM5UTJaaG5EdU5TMUgzcmNDV2MzRVVnRDhicVNtcURld0VvVWNtSU9vM0RETFRTZjdtYy1OaVRCNHA5aF9tU21Rb0NlaGc0SXVOUTZESDBSYjdJOXVaSkVvLXROVlUya3dvSHVLTUwzcnpYcXVOZEM3WEV4M3oxeWJkdGh5TV9XR3Exbkk2Z3FhcU5GZ2d2ZXBLQVZHMjFFOUlkYlFodnJpZnBzQ0JZUy1lVURfdGltVWx5ZW5JbGZYamdXUGdWMW5IX0EwYTNIdkFYcmlVenR4SFBQUWswckFyalNhS0s1UjhqT2g0Y21qWDlYT1B2cHNncnl4ZQ?oc=5)
-
-2026-04-23 <span class="news-indication-tag">癌症</span>
-
-來源：[U Food](https://news.google.com/rss/articles/CBMixANBVV95cUxPUEFIU054U1kxZEJJbjFocWZ5NDJwREtpVTRKU0h3T04tOGVyQnVMMy1DRHlIdzdlNmh6VFdUVzVPWmtaVkU2RWc4dGlFNk9SYkt6aVJmeFBOY3lvdVo2cW1VSXozcUlubHYtb01uYks0bkJsX09EZzVlU1F2M3o4WVV4cEFCNlVQRkJkeG43RTlWcmdqcFVwQUg1WVJUUHlVUTNSRFlBUVhyZUV1b3dabU5Wb21ienNuSktCRXBtNnlLMUNIdjY5aENCS2ZoTFM5UTJaaG5EdU5TMUgzcmNDV2MzRVVnRDhicVNtcURld0VvVWNtSU9vM0RETFRTZjdtYy1OaVRCNHA5aF9tU21Rb0NlaGc0SXVOUTZESDBSYjdJOXVaSkVvLXROVlUya3dvSHVLTUwzcnpYcXVOZEM3WEV4M3oxeWJkdGh5TV9XR3Exbkk2Z3FhcU5GZ2d2ZXBLQVZHMjFFOUlkYlFodnJpZnBzQ0JZUy1lVURfdGltVWx5ZW5JbGZYamdXUGdWMW5IX0EwYTNIdkFYcmlVenR4SFBQUWswckFyalNhS0s1UjhqT2g0Y21qWDlYT1B2cHNncnl4ZQ?oc=5)
-
----
-
-### [大腸癌風險新線索 科學家發現腸道菌藏神秘病毒](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtS0pjU0kwcTFLLWtXVkpJX3FCcUtmRXBRTjBLVFcwSUxVWnhkM2hJT2hlcHlHMVZfMl9oOXViYUk4dnNBbWo0Xy1VMmU0Tl90M2EzR1N4bnBORlZFTnA0?oc=5)
+### [大腸癌風險新線索 科學家發現腸道菌藏神秘病毒 - PChome Online 新聞](https://news.google.com/rss/articles/CBMijAFBVV95cUxPa1U5eHh3akFzel9odEhOVU0zcWFnSzR4elgyWEdyRllNQXZIMGM5Z1Jvc1BvNXY4YzRTTmIwZEd3bnpockZXSndLR183bHczMVdwWXVsT00xX3I4WVMydGQzMW0xZmVlTk1wSU93M0xEQjNUZ0xnZk5Ob2dXd3NFVkhkVnRJa25HY2dQWQ?oc=5)
 
 2026-04-23 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtS0pjU0kwcTFLLWtXVkpJX3FCcUtmRXBRTjBLVFcwSUxVWnhkM2hJT2hlcHlHMVZfMl9oOXViYUk4dnNBbWo0Xy1VMmU0Tl90M2EzR1N4bnBORlZFTnA0?oc=5)
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMijAFBVV95cUxPa1U5eHh3akFzel9odEhOVU0zcWFnSzR4elgyWEdyRllNQXZIMGM5Z1Jvc1BvNXY4YzRTTmIwZEd3bnpockZXSndLR183bHczMVdwWXVsT00xX3I4WVMydGQzMW0xZmVlTk1wSU93M0xEQjNUZ0xnZk5Ob2dXd3NFVkhkVnRJa25HY2dQWQ?oc=5)
 
 ---
 
@@ -65,6 +57,14 @@ permalink: /news/hydroxyurea/
 2026-04-23 <span class="news-indication-tag">癌症</span>
 
 來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQcHU0aENEWlZLaWJIUTk5ZVZBUllOM0VmdXlfQmQwNEd6TlBvM2QyVkVLb0ZVWjFRaGlsMHllcGR5eDRIa0NMVHUxTGY2WTlzZFdiOWNn?oc=5)
+
+---
+
+### [喝錯飲品竟致癌？果汁、熱飲藏危機 醫：身體變癌細胞溫床](https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4bm9FbV9peXMxU1lOTnVMTThQZEdvMEgyYTdVVG04WEJSa0hHQjZ5MTNzeHY0TC1uUGN1YTVSNmNFVE81T1VTMDNEZkhEUQ?oc=5)
+
+2026-04-23 <span class="news-indication-tag">癌症</span>
+
+來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4bm9FbV9peXMxU1lOTnVMTThQZEdvMEgyYTdVVG04WEJSa0hHQjZ5MTNzeHY0TC1uUGN1YTVSNmNFVE81T1VTMDNEZkhEUQ?oc=5)
 
 ---
 
