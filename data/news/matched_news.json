@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T22:27:32.616729+00:00",
+  "last_updated": "2026-04-25T23:29:34.040551+00:00",
   "total_count": 23,
   "matched_count": 5,
   "news": [
@@ -341,7 +341,7 @@
       "id": "4f74d114ae64",
       "title": "肥胖不是小事！荷爾蒙改變、削弱免疫力 醫示警：罹癌風險增",
       "published": "2026-04-25T07:00:00+00:00",
-      "summary": "肥胖不是小事！荷爾蒙改變、削弱免疫力 醫示警：罹癌風險增&nbsp;&nbsp;民報肥胖不只影響體態？專家解析與肌膚變化的可能關聯&nbsp;&nbsp;蕃新聞胖一點沒關係？醫示警免疫系統已開始「擺爛」了&nbsp;&nbsp;中天新聞網",
+      "summary": "肥胖不是小事！荷爾蒙改變、削弱免疫力 醫示警：罹癌風險增&nbsp;&nbsp;民報",
       "sources": [
         {
           "name": "民報",
@@ -543,14 +543,14 @@
       "matched_keywords": []
     },
     {
-      "id": "68cfd7b6e339",
+      "id": "d7221538436c",
       "title": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道",
-      "published": "2026-04-24T01:09:58+00:00",
-      "summary": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道&nbsp;&nbsp;Yahoo新聞",
+      "published": "2026-04-24T01:16:00+00:00",
+      "summary": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNaXJwS2hSR2xSRFhPdzRxc1FmblVBMVJxeVRSSTh2TmdYcU0tSXhlamcyOGFSYm0wTGRnT0s3SU1OMEwzRTZyZ3VUYUFPZ04xM2FxZlJTSFl4MDJ0bXVRNnhreEZKc3k2SnhiM3c1TFZ2MWZlNVdPaHhCUDZ2MUpLM1UxSXptOG5udGhRYWZBbXRiTkpDWDJ6eDdIT0JUcmdCTE1QekZzLTdPYTRCRmFLNm1Ec1NoUFpWazRHajdLUzA1ZnJnVzlmbUdBNFh2eDlsbExMZjI5VFVZMWtEdng2UWdoRm80bVlsU2gxN1psX1A1MlNFeXZvLUZBM1p2bEgyZkNvcFlHREQ2dw?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nQ0dydGVVNC1iYV9taVZkeDlKdlZ6NEdQdjlTVjloOHM3M2xQQWlMcGpBcnNCak1pTExZZWVlRHNhenFRem1xaDBuZkx3bElhMUkxc2xfUWJJS3FDdU12aA?oc=5"
         }
       ],
       "matched_keywords": [
