@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-25T23:29:30.090376+00:00",
+  "fetched_at": "2026-04-26T01:54:32.055724+00:00",
   "count": 22,
   "news": [
     {
@@ -16,18 +16,6 @@
       ]
     },
     {
-      "id": "b9e188bae310",
-      "title": "哈佛大學的科學家透過隱藏的發炎觸發因素將腸道細菌與憂鬱症聯繫起來。 - arch-web.com.tw",
-      "published": "2026-04-25T16:47:25+00:00",
-      "summary": "哈佛大學的科學家透過隱藏的發炎觸發因素將腸道細菌與憂鬱症聯繫起來。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQVTRlY0tZQ1hHQ2pEcFlkQ1FpWlhOTVBoN0piTDVMQWYzV1RrUmJqXzZjRzJnTGhXUERpLUNZeGRZVGVVc2JlRWQ1ZVFETUlhUXRsaDNTSVpsYmZCY3E0YmEzRFIycUxCVW1tbUFvTjVXT3Nwb3VzZWwyWGR6QmNCdW5WSGpRVmkwTnVweUFKVzFvSVc1WUJpdExvUU10SnlVeUdNNmZsVF9KSmx0NDUtaFdOSzVCckMyWEJTMUpia0FnM1hBLVVzMDVBbkVwd1RTRzBLanJaeWNaQTd4ZHZ4Vk9fSVhIWWt1WWNuLXhjQjJzNl9PdEhha0hlVkNET2hUSkZPVUl5ajBLbjFaRkpBM2xRMWw1MjdyOFdQWmdsMUlOb3NlVzBKbzVta1IyT1NYSXQ2Nm9FVHNtZnZ3cllVeXFsYVR6Z2dXSkZiNEl5cmFtVDNmUG4xZ0VfWkVhXzZFLVFlcHNUYkhRV09LMUR3UnNJU21IRURpUWNXSmJpRXBHT1lnVHc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4f74d114ae64",
       "title": "肥胖不是小事！荷爾蒙改變、削弱免疫力 醫示警：罹癌風險增 - 民報",
       "published": "2026-04-25T07:00:00+00:00",
@@ -36,6 +24,18 @@
         {
           "name": "民報",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56dUVqUTN6TzloVldOZVFycUN0ZmZXcERLVkRNY2xEYmx3elZ1WmRIWTl1UExFN1A3ZG5NeVpQd1NnZlI1Q3BiUGQ5dGFZdU54UVFNOXJFbEplU0xnNjNqZg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b9e188bae310",
+      "title": "哈佛大學的科學家透過隱藏的發炎觸發因素將腸道細菌與憂鬱症聯繫起來。 - arch-web.com.tw",
+      "published": "2026-04-25T16:47:25+00:00",
+      "summary": "哈佛大學的科學家透過隱藏的發炎觸發因素將腸道細菌與憂鬱症聯繫起來。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQVTRlY0tZQ1hHQ2pEcFlkQ1FpWlhOTVBoN0piTDVMQWYzV1RrUmJqXzZjRzJnTGhXUERpLUNZeGRZVGVVc2JlRWQ1ZVFETUlhUXRsaDNTSVpsYmZCY3E0YmEzRFIycUxCVW1tbUFvTjVXT3Nwb3VzZWwyWGR6QmNCdW5WSGpRVmkwTnVweUFKVzFvSVc1WUJpdExvUU10SnlVeUdNNmZsVF9KSmx0NDUtaFdOSzVCckMyWEJTMUpia0FnM1hBLVVzMDVBbkVwd1RTRzBLanJaeWNaQTd4ZHZ4Vk9fSVhIWWt1WWNuLXhjQjJzNl9PdEhha0hlVkNET2hUSkZPVUl5ajBLbjFaRkpBM2xRMWw1MjdyOFdQWmdsMUlOb3NlVzBKbzVta1IyT1NYSXQ2Nm9FVHNtZnZ3cllVeXFsYVR6Z2dXSkZiNEl5cmFtVDNmUG4xZ0VfWkVhXzZFLVFlcHNUYkhRV09LMUR3UnNJU21IRURpUWNXSmJpRXBHT1lnVHc?oc=5"
         }
       ]
     },
@@ -100,14 +100,14 @@
       ]
     },
     {
-      "id": "8c71381e94ac",
-      "title": "醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康 - 東森新聞",
+      "id": "592e2d77668d",
+      "title": "醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康 - Yahoo新聞",
       "published": "2026-04-25T11:45:00+00:00",
-      "summary": "醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;東森新聞「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲癌症為何越來越年輕？關鍵可能不只是基因 | 科技新報&nbsp;&nbsp;LINE TODAY以為飲果汁好健康？醫生揭4大致癌飲料黑名單／日飲1杯胰臟癌風險狂飆87%&nbsp;&nbsp;U Food胰臟癌｜日飲1杯呢類飲品患胰臟癌風險激增87% 醫生點名4大高危飲品 戒3類食物保護腎臟&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;Yahoo新聞「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲癌症為何越來越年輕？關鍵可能不只是基因 | 科技新報&nbsp;&nbsp;LINE TODAY以為飲果汁好健康？醫生揭4大致癌飲料黑名單／日飲1杯胰臟癌風險狂飆87%&nbsp;&nbsp;U Food胰臟癌｜日飲1杯呢類飲品患胰臟癌風險激增87% 醫生點名4大高危飲品 戒3類食物保護腎臟&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WMm8yZE5GdTlCdmJNZWw2T3VPQjVLS25yMlo1dzhLR09QbVpWbm90SEtlTDRVMjdGVWhIU3pNNG5NQTFzZTZtVGlKUmRlMW5wb1gxMQ?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOT20wZkppVUU4azNsSUZmbHZYTEIyMHBHVFJiVnRTa1RURnAzS0lvZFpsVEQyV0RIYW02cFBnN21JLUNDeUtad1loRlFKQ0tWa21YU2JhbHZScnFGcHpkc0l5NGV1T2ZKWFlJX0VhanZUSDBnRFIzeEJZMXBmUGdwaTFxNmVkM3JnN2lIMjdUYUkwejRrOXpTLVBsal9kY1U0RjVsQzM5YmFsd3Q1SFhJTjFGTU9TcG5md1QxR2FEUkpUcVBITnhtYUlUZjliNWZiMVRWRUFJRDZLVUpDQkduNXgybXkyWEJmWGN5TjJ1VUdHZzRDRUF4S0x4RnN1TG9sZjlJVzdaR2hJRmU0bEF5ejB5MmE5NG1EVlFDVlpVNWt3OXUzd1pfU0trVmJXTWtGRTNHXy1ZQk9FMG80bnc?oc=5"
         }
       ]
     },
@@ -148,14 +148,14 @@
       ]
     },
     {
-      "id": "d7221538436c",
-      "title": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道 - 民視新聞網",
-      "published": "2026-04-24T01:16:00+00:00",
-      "summary": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道&nbsp;&nbsp;民視新聞網",
+      "id": "9c40cca1d3b6",
+      "title": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道 - 匯流新聞網",
+      "published": "2026-04-24T01:00:43+00:00",
+      "summary": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道&nbsp;&nbsp;匯流新聞網",
       "sources": [
         {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nQ0dydGVVNC1iYV9taVZkeDlKdlZ6NEdQdjlTVjloOHM3M2xQQWlMcGpBcnNCak1pTExZZWVlRHNhenFRem1xaDBuZkx3bElhMUkxc2xfUWJJS3FDdU12aA?oc=5"
+          "name": "匯流新聞網",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNTkNDSEZUWXR6SjhrV0s2dE1pNi1NZUJQZlloem5CMFBMZ0FwT3U2X25SdWlLenVMNEtrdEJoYklTbWRzLU44b19KWFZwVlFnUVh6UzJVS3g0UHg1dzRkWFUwZTN3WUt0RWtGRFJKSFh3dXluRTVFa1ZqUFhvSVF3ZDBONXIxazJtd1hENUVpSGpFU3pEVER2RzlPaFVScU1YUTAxVjRSS21fZGdMcUhjR2QtcTE2cTBvUlVsUDZwZl9PYVhmTFI2TVBJWFNPVVFMRDRwcHQzR1I0NG1ULXJuUHpTRGFaRHB5eU02S2dHSnRxcmIzOFlGZzJSSVpQSFFlWTM3RzE0RklwSWw3WER0Y3J2RnFBUVhtZUl5QmJDOHJrd1lkb2ZwN3hVMlRfUFVQQkF0aGZxQWtDYWdLRk9JeVNEdlk?oc=5"
         }
       ]
     },
@@ -184,14 +184,14 @@
       ]
     },
     {
-      "id": "5057c9424a00",
-      "title": "COVID-19 新研究：Paxlovid 助康復但難降重症率 - 行銷人",
-      "published": "2026-04-24T07:07:00+00:00",
-      "summary": "COVID-19 新研究：Paxlovid 助康復但難降重症率&nbsp;&nbsp;行銷人",
+      "id": "96b47a57b827",
+      "title": "COVID-19 新研究：Paxlovid 助康復但難降重症率 - ENN台灣電報",
+      "published": "2026-04-24T08:11:44+00:00",
+      "summary": "COVID-19 新研究：Paxlovid 助康復但難降重症率&nbsp;&nbsp;ENN台灣電報",
       "sources": [
         {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQR1lyRzVUTnBLUmFGTEZSWjVJdVFzUlZVWUZPbzVfVGZpZ250T3VhTzEzdHFwRGJzVzdmVmQyLUpDblRQMzNXRjN6eHdFMjZsUF9DOEZyeDBuZ2pYNk5uR2VOU3FJT0w5UUZFSzFxcXJGLVRRWXlyX3F6TDZqa3hIeGhVbmNlWHpTMFVfWjNRM1JyUnUtMjdXQmdJdHZSVzRQRm0zcDdfU0h2V0NRUlFsRUNSV3RqdkgxSVVZYkVFUkF0dFRaTDBJNjBDRGZabEpmVFRCZTF3SFBqeGcwLXlSWDF3UVVVeU9zOE9TT1hEMU1ZdDBkeFRQc1U2Qmk0X2xWcEF6M05ybzRGWFhOY1FHZEt6WQ?oc=5"
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5vSVRSWG1KLVF1dDRpQlVwcEVUVlZRQnQ2UFpkcmVBaW50ZEFQVEtTd1ZPbm84dzluclE?oc=5"
         }
       ]
     },
@@ -220,18 +220,6 @@
       ]
     },
     {
-      "id": "e9f5837eab03",
-      "title": "ADHD風險｜中大研究揭示嬰兒早期表觀遺傳改變及腸道微生態或影響日後腦部發展 - healthyD",
-      "published": "2026-04-24T04:07:27+00:00",
-      "summary": "ADHD風險｜中大研究揭示嬰兒早期表觀遺傳改變及腸道微生態或影響日後腦部發展&nbsp;&nbsp;healthyD保持腸道健康 及早預防學童ADHD問題&nbsp;&nbsp;星島頭條中大新發現：腸道菌群影響嬰兒腦發展- 港聞&nbsp;&nbsp;今日大公中大研究：嬰兒早期表觀遺傳及腸道微生態 或影響日後腦部發展&nbsp;&nbsp;橙新聞",
-      "sources": [
-        {
-          "name": "healthyD",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPTkdiRGp2WG9VeV9taG9OUEM1aWY5UHBMX2I2eFNnRzRKZkdfUVY3ZFJ3RHkyX1JzR0pIWVRiNUt4TEhBeWhSOE5VcU5pWnRJekRoZENIcDl3c3duOHdvNjQ3SFFuaFFHRTNLSHZETTg4TVFhQV9xYUF3eXJfVmMwZllzN0pUTTRnZjh1OEZZRGNoQkV3VDMyZmFuNEpsMmtqcExjYTJ4OWdQdS1oZGFVUThkdHVONFVlWmxTbkpyWmhDRTVIVWN3Z24wejF5MkhJYUVwNFdCUlZiSTNpM1VWVll4QmEyYTdpaklFRzBpRU9rQ2R4RXNFaEVWLXpiTzdxU3dkY0FRVEZIbm92TXFJUERZdXFpTGtJS3VPNm01ZlJhVGtxN2FCT1I4ZlQ2dkpsQktYNEJ5U1h2dkl3REM4bHVodlh6NkJYZGpVWEMyUFczenYyT2xwcg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "59c21f2abef2",
       "title": "【健康】從「似感冒」到命危 腦膜炎雙球菌致命24小時 - 堅料",
       "published": "2026-04-25T16:01:00+00:00",
@@ -244,14 +232,14 @@
       ]
     },
     {
-      "id": "c2d1b44987ca",
-      "title": "口腔潰瘍兩周沒好恐是口腔癌 醫生教4辨別方法 3招緩解經常口乾 - 香港01",
-      "published": "2026-04-24T02:01:35+00:00",
-      "summary": "口腔潰瘍兩周沒好恐是口腔癌 醫生教4辨別方法 3招緩解經常口乾&nbsp;&nbsp;香港01",
+      "id": "e9f5837eab03",
+      "title": "ADHD風險｜中大研究揭示嬰兒早期表觀遺傳改變及腸道微生態或影響日後腦部發展 - healthyD",
+      "published": "2026-04-24T04:07:27+00:00",
+      "summary": "ADHD風險｜中大研究揭示嬰兒早期表觀遺傳改變及腸道微生態或影響日後腦部發展&nbsp;&nbsp;healthyD保持腸道健康 及早預防學童ADHD問題&nbsp;&nbsp;星島頭條中大新發現：腸道菌群影響嬰兒腦發展- 港聞&nbsp;&nbsp;今日大公中大研究：嬰兒早期表觀遺傳及腸道微生態 或影響日後腦部發展&nbsp;&nbsp;橙新聞",
       "sources": [
         {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxOU2JhVVFJVzVIdmZWRXl3MFUxcE0xNndkMERvS21sU1VJNkphUUhqTnNIandhUmVvVzRZelJDekl0MFBBZTR0SnJSa2V0TnpwdjBfdTZlcEJMVXdVZ2FfZTlFUFJ1MGdMN2FMMFVDMFRWNlpqWTNaVm8wOXJSanR3cElUdGM1S0UwTUdCT1BsNWpnR3A4SDhvTXE0TFYySjU5WENmcDBCNEtrcG93UWJaU1ROSXlxclFBX3AtVlVMYWx3dm5vZGlYbnVBbXE0UWpxR1pEQjBuTldXUXN6by03djU0MnRKZWxoWk1VMDBKTmhtalZpMURocTFmVGJNSEN0WlpkZzNDejhtcW9KSEdtNXFiRTF4RVVMcDJ3QVRpR25xQlJlU0FNYWZsYjM1cnoySnMzbjRQUjh2RUpYNEpvRDNNaWhnUW1janUxcC1uWFU4RVBzbHFZYkttbXEtWnctZ2ZHaUs4TTR5NTFITlRtdkJLU1RaZ0dWaURXWWFFbkZ4WFhoMXgwYjJyUGxwcVlqSGYyeG5jMUgxX1FISm5MeHN3TlBwNFU5UUluMg?oc=5"
+          "name": "healthyD",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPTkdiRGp2WG9VeV9taG9OUEM1aWY5UHBMX2I2eFNnRzRKZkdfUVY3ZFJ3RHkyX1JzR0pIWVRiNUt4TEhBeWhSOE5VcU5pWnRJekRoZENIcDl3c3duOHdvNjQ3SFFuaFFHRTNLSHZETTg4TVFhQV9xYUF3eXJfVmMwZllzN0pUTTRnZjh1OEZZRGNoQkV3VDMyZmFuNEpsMmtqcExjYTJ4OWdQdS1oZGFVUThkdHVONFVlWmxTbkpyWmhDRTVIVWN3Z24wejF5MkhJYUVwNFdCUlZiSTNpM1VWVll4QmEyYTdpaklFRzBpRU9rQ2R4RXNFaEVWLXpiTzdxU3dkY0FRVEZIbm92TXFJUERZdXFpTGtJS3VPNm01ZlJhVGtxN2FCT1I4ZlQ2dkpsQktYNEJ5U1h2dkl3REM4bHVodlh6NkJYZGpVWEMyUFczenYyT2xwcg?oc=5"
         }
       ]
     },
@@ -264,6 +252,18 @@
         {
           "name": "香港電台新聞網",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtUG91SGJxclZ0LTgxbDRXVGdJUFNMOEQ4UkxFaXk0d1E3UjZrSHZfdlozbVlYQ3VpanRNUnlhNXZ5dEZpQXVwby1kcEF1SFBPTXJmLURmZmtxWE1YVFpONDZJSDI3bFNSZF9SYWVuYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c2d1b44987ca",
+      "title": "口腔潰瘍兩周沒好恐是口腔癌 醫生教4辨別方法 3招緩解經常口乾 - 香港01",
+      "published": "2026-04-24T02:01:35+00:00",
+      "summary": "口腔潰瘍兩周沒好恐是口腔癌 醫生教4辨別方法 3招緩解經常口乾&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxOU2JhVVFJVzVIdmZWRXl3MFUxcE0xNndkMERvS21sU1VJNkphUUhqTnNIandhUmVvVzRZelJDekl0MFBBZTR0SnJSa2V0TnpwdjBfdTZlcEJMVXdVZ2FfZTlFUFJ1MGdMN2FMMFVDMFRWNlpqWTNaVm8wOXJSanR3cElUdGM1S0UwTUdCT1BsNWpnR3A4SDhvTXE0TFYySjU5WENmcDBCNEtrcG93UWJaU1ROSXlxclFBX3AtVlVMYWx3dm5vZGlYbnVBbXE0UWpxR1pEQjBuTldXUXN6by03djU0MnRKZWxoWk1VMDBKTmhtalZpMURocTFmVGJNSEN0WlpkZzNDejhtcW9KSEdtNXFiRTF4RVVMcDJ3QVRpR25xQlJlU0FNYWZsYjM1cnoySnMzbjRQUjh2RUpYNEpvRDNNaWhnUW1janUxcC1uWFU4RVBzbHFZYkttbXEtWnctZ2ZHaUs4TTR5NTFITlRtdkJLU1RaZ0dWaURXWWFFbkZ4WFhoMXgwYjJyUGxwcVlqSGYyeG5jMUgxX1FISm5MeHN3TlBwNFU5UUluMg?oc=5"
         }
       ]
     }
