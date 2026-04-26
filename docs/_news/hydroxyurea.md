@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [不只傷腎！「1調味料」吃多胃癌風險增1倍 醫示警：致癌物更易入侵 | 三立新聞網 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE44VTF6d3RJVjVRajFXT2g4RFpWSURILXdUaFRJSUFBYy1oMUhFallYMkR1MXhvY21ZSkp6M2NvVXNpUnlUenJoQmx2QXNrb3NNU2dqaVFR?oc=5)
-
-2026-04-26 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">胃癌</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE44VTF6d3RJVjVRajFXT2g4RFpWSURILXdUaFRJSUFBYy1oMUhFallYMkR1MXhvY21ZSkp6M2NvVXNpUnlUenJoQmx2QXNrb3NNU2dqaVFR?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [隱藏在腸道中的病毒可能與結腸癌有關。](https://news.google.com/rss/articles/CBMi1gJBVV95cUxNVFE3TUROX1k2MkdVYm1ySENhVkljZHJwNkhiYWVaU284Rkgyc01NRE1BbXY3dlpVRTVRRENXNnhmclFHcXp5OFBfUHpTcjlDdTB0YUxVRmVSNnc0QTFadE0tMElKQkxhenU1T3JBVFVzTnNkTk4zVF9zS1Rjc2l4MHBXaEZ2VjlnWnNtYXc5c2NmM3pUTTI0UXdlUVZCT3R0cjkwQWRNc2JqdlRpX0ZWOW5fTUxjaG44VllEUWRqVXNUS0tYaVZlZ3pxcmhHWTF1d1VMVGZQTGJvM1Z3cmtKRTllWFoyNGRQZXFMS1laYnRHdWV3OTc5WFJ0T25yWTZrZklycmJ2Q1liemFtT21fZkt3dUpkY2hqZXdqMWs3U21Dby1vSEExT2xqTElDOERIY3lPT0c5OWpfNzBKTk5fWUMtaXczSEJHTUdjQmxCaFVPQk53M0E?oc=5)
 
