@@ -1,6 +1,722 @@
 {
-  "last_updated": "2026-04-26T06:55:41.964186+00:00",
-  "total_count": 0,
-  "matched_count": 0,
-  "news": []
+  "last_updated": "2026-04-26T08:13:19.228470+00:00",
+  "total_count": 18,
+  "matched_count": 5,
+  "news": [
+    {
+      "id": "953d24e6e3e8",
+      "title": "一項新研究發現魚油可能會損害您的大腦。",
+      "published": "2026-04-26T06:22:43+00:00",
+      "summary": "一項新研究發現魚油可能會損害您的大腦。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNX05mR214bnBVRXRSX2lQTU9ZV2ctLWNUOXY5dzdtWjVlWlFrQmtqNXFidjZkb2lMeFE2WTZpMWZXY0JYWW9iVFRLOHJaZjE2QnIwRDBDc0J2WnROWXdFR1JLWWJFcnhCRzVrUjlZRG9XbU8tR2t0WDMxQ2VXZ3NCcUdWUlRrTVo3NUU4akthSzZkSFdLSU5pVkFFWmoyMk82V3pwZVRvamNQXzlaQ0cwOXY0WDk2UDVCSnJ5NGJHR295cXl5Vzl3d2VidDdGWmNmbmliTU1zcFZaVmo2b3o1aHhCam5HallTS3IzWHl5cE51WGlNaHZNQkUyMkp2aDFLTDZrRzRUSGdpYnZ5MEFPNjg2cllSdHhYVi01UFR5bUMzNmZfN0o5ZkhEa3J6WjVaQTFRbEE3UVVYR0J1VFBjSWhHVndfaUtCQnQ1X3UxT24xVkNqNHl3ZkNiZF92VlNoWUE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ce2f22870aa7",
+      "title": "不只傷腎！「1調味料」吃多胃癌風險增1倍 醫示警：致癌物更易入侵 | 三立新聞網 - LINE TODAY",
+      "published": "2026-04-26T02:34:31+00:00",
+      "summary": "不只傷腎！「1調味料」吃多胃癌風險增1倍 醫示警：致癌物更易入侵 | 三立新聞網&nbsp;&nbsp;LINE TODAY不只傷腎！「1調味料」吃多胃癌風險增1倍 醫示警：致癌物更易入侵&nbsp;&nbsp;祝你健康癌症為何越來越年輕？關鍵可能不只是基因&nbsp;&nbsp;TechNews 科技新報防癌飲食｜年輕人患癌飲食是元兇 做3件事防癌 醫生親測一星期後大推：一身輕！&nbsp;&nbsp;香港經濟日報HKET毒物科名醫顏宗海曝防癌祕訣！必吃這些食物抗氧化 抗癌千萬別碰這2物&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44VTF6d3RJVjVRajFXT2g4RFpWSURILXdUaFRJSUFBYy1oMUhFallYMkR1MXhvY21ZSkp6M2NvVXNpUnlUenJoQmx2QXNrb3NNU2dqaVFR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "胃癌",
+          "keyword": "胃癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "trastuzumab_deruxtecan",
+              "name": "Trastuzumab deruxtecan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4b6e9d446694",
+      "title": "隱藏在腸道中的病毒可能與結腸癌有關。",
+      "published": "2026-04-25T21:20:34+00:00",
+      "summary": "隱藏在腸道中的病毒可能與結腸癌有關。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNVFE3TUROX1k2MkdVYm1ySENhVkljZHJwNkhiYWVaU284Rkgyc01NRE1BbXY3dlpVRTVRRENXNnhmclFHcXp5OFBfUHpTcjlDdTB0YUxVRmVSNnc0QTFadE0tMElKQkxhenU1T3JBVFVzTnNkTk4zVF9zS1Rjc2l4MHBXaEZ2VjlnWnNtYXc5c2NmM3pUTTI0UXdlUVZCT3R0cjkwQWRNc2JqdlRpX0ZWOW5fTUxjaG44VllEUWRqVXNUS0tYaVZlZ3pxcmhHWTF1d1VMVGZQTGJvM1Z3cmtKRTllWFoyNGRQZXFMS1laYnRHdWV3OTc5WFJ0T25yWTZrZklycmJ2Q1liemFtT21fZkt3dUpkY2hqZXdqMWs3U21Dby1vSEExT2xqTElDOERIY3lPT0c5OWpfNzBKTk5fWUMtaXczSEJHTUdjQmxCaFVPQk53M0E?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "結腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b9e188bae310",
+      "title": "哈佛大學的科學家透過隱藏的發炎觸發因素將腸道細菌與憂鬱症聯繫起來。",
+      "published": "2026-04-25T16:47:25+00:00",
+      "summary": "哈佛大學的科學家透過隱藏的發炎觸發因素將腸道細菌與憂鬱症聯繫起來。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQVTRlY0tZQ1hHQ2pEcFlkQ1FpWlhOTVBoN0piTDVMQWYzV1RrUmJqXzZjRzJnTGhXUERpLUNZeGRZVGVVc2JlRWQ1ZVFETUlhUXRsaDNTSVpsYmZCY3E0YmEzRFIycUxCVW1tbUFvTjVXT3Nwb3VzZWwyWGR6QmNCdW5WSGpRVmkwTnVweUFKVzFvSVc1WUJpdExvUU10SnlVeUdNNmZsVF9KSmx0NDUtaFdOSzVCckMyWEJTMUpia0FnM1hBLVVzMDVBbkVwd1RTRzBLanJaeWNaQTd4ZHZ4Vk9fSVhIWWt1WWNuLXhjQjJzNl9PdEhha0hlVkNET2hUSkZPVUl5ajBLbjFaRkpBM2xRMWw1MjdyOFdQWmdsMUlOb3NlVzBKbzVta1IyT1NYSXQ2Nm9FVHNtZnZ3cllVeXFsYVR6Z2dXSkZiNEl5cmFtVDNmUG4xZ0VfWkVhXzZFLVFlcHNUYkhRV09LMUR3UnNJU21IRURpUWNXSmJpRXBHT1lnVHc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1c61e641c38c",
+      "title": "科學家首次發現了憂鬱症背後的腦細胞。",
+      "published": "2026-04-25T16:10:16+00:00",
+      "summary": "科學家首次發現了憂鬱症背後的腦細胞。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQM1E4T3hmeEJaQy0waHFtUmxDb1E2Wm45ck41UTNWTnJZM1NHT3c0MDkyekdESnlGdkg4Vkg4a1BHejUybFl6YmxnSG01Wi1YeE02VWR6bEtkSkZkVHJUdW9LRWI2V3cyZVQyaVdXRHY4aFFJdTI1aHZQV2FJYy0zMlVfeFVQb2VFY3FyenVsRHFWTHlyX1BVbDExSTB4NWNMU0tRTXRYWXdBcEpvM0hyWXBETHdMcTVla1gwd3JfZjZRTXF5TFhobUF3N1hEd1NzYmEtQWNVZXlzdVJFTlB0a3k5OTdMMWRiWDh5aktNaGE4WXNwVzZodFJialN2ell1eHR1TENJWGo3cXU3T3JkS0t0azVicnIyZUh0VkdMTmt4dHRCbVRKVXZmX2swTnhxMmhkdGtsal9KWjJ4QWl6cUZnSVNmMEh0alp4LXdoSGhJZGdyWHc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "59c21f2abef2",
+      "title": "【健康】從「似感冒」到命危 腦膜炎雙球菌致命24小時",
+      "published": "2026-04-25T16:01:00+00:00",
+      "summary": "【健康】從「似感冒」到命危 腦膜炎雙球菌致命24小時&nbsp;&nbsp;堅料",
+      "sources": [
+        {
+          "name": "堅料",
+          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNcGl1eHhrNnZzZ0tWeUctdWg2TGV2SjMtc2I3akV5MmJzZ1ZYTGMtNjRjSUVBLW5KbU5LTlp3QkVjOW14ak1GcFpCSzBoTkdZUTBTd0xDMVpfa0xUS0pTY1g3aUkzektmYm5tdE82NkxFQW9qMmVacEFONFFYTnh0YURZXzNJTUUzVU8zMlRQX29zNVdJQUxDN1llQS0yc0RzeWRXdHlsUC1idUIzVDBtM3JfTnRPcWxFcnI3S2JpUnZNVHdKd0xCdE5adHRZTXB0alExVHl5Wi1oMFRTUjlSbTlQdnVZVnhBSDM2T0tUbFJjMlRXQmJnZlh1Y2ZkRXhfU0o5NXlXTWFIV2hEdFByWVBRUjg4Qm83b0ZOVW9YaEFsOVlqOXJ3WWRlS2Y0Q0RRaVhRNk1vRTM4aUgwalgzbFB2SGpvaFg5SjZabEloaWVNdw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8c71381e94ac",
+      "title": "醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康",
+      "published": "2026-04-25T11:45:00+00:00",
+      "summary": "醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;東森新聞「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲癌症為何越來越年輕？關鍵可能不只是基因 | 科技新報&nbsp;&nbsp;LINE TODAY以為飲果汁好健康？醫生揭4大致癌飲料黑名單／日飲1杯胰臟癌風險狂飆87%&nbsp;&nbsp;U Food胰臟癌｜日飲1杯呢類飲品患胰臟癌風險激增87% 醫生點名4大高危飲品 戒3類食物保護腎臟&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WMm8yZE5GdTlCdmJNZWw2T3VPQjVLS25yMlo1dzhLR09QbVpWbm90SEtlTDRVMjdGVWhIU3pNNG5NQTFzZTZtVGlKUmRlMW5wb1gxMQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2063f4f7d126",
+      "title": "健康網》花甲男常累、沒性趣 美網紅醫曝「不吃蛋」恐更慘",
+      "published": "2026-04-25T11:11:00+00:00",
+      "summary": "健康網》花甲男常累、沒性趣 美網紅醫曝「不吃蛋」恐更慘&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzYUtFT0IzXzZFdUpvV2x2VGl5TENMWkI5WlczX0hVLTFMbzdsRHlPUmVadFpwWmlYdWRoRHZwcmNTdWhCUUoyVmQwLW5tOXVhbGNXQ21ZRk4wU3ZLZFhLTHlzZFPSAWpBVV95cUxNajJYbkI5NGVNb1hjTU8yTUhEeVhJT0RVQlhoVDA4enR3X0NqSEh2WjhFbEhqT3R0MkJnaFBVUFJzOHZmYVMxdXNEVjRsTmxGS2VGR0o1ek9QZDVoZnJhSTVkWHpWaUszWVJR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ea549f8991bc",
+      "title": "我認為格溫妮絲·帕特洛不知道勝肽是什麼",
+      "published": "2026-04-25T08:04:11+00:00",
+      "summary": "我認為格溫妮絲·帕特洛不知道勝肽是什麼&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOZ1ZNUWFyTWgxNXFPVGJLNlpNY3ZkbmpLUHhwbzZReVBtRVVCc2RqUVhKcjJMS3ZDa0hMeTZrUnJUeUpVRUZLUlg2b3ExbFJVQXJpWGNXMXBZRzBqVnc2V1I0bEtOWEl1TlNzMUpNVW9Od0FfQUtwQ2M1bnVqNUZ1RWhtY3UxVEk4QkVPQndlUmR5bE8zTENCZzNtdFJwb3cwWlQ5Z0lCZnpEX0dYWldkRjVZNEpKS3F2aFI2d19VSTlXY1E3TnlEdHlsQ1hKcW1wckQ4d1EySGhxQ00wRFpHdl9qYjdyLThkOFBGeEY5ekREQzhEYmF3MEdDd1BFLUU5akZIV29YN1RiVFdwXzVzRWE1Ty1jRXpIbG5EOUV4Sm51eFEzUTVNbjdjcVh0VGpZNkpDT0dySk1wU3lmQ3c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "db2481e46f4d",
+      "title": "肥胖不是小事！荷爾蒙改變、削弱免疫力 醫示警：罹癌風險增",
+      "published": "2026-04-25T07:45:08+00:00",
+      "summary": "肥胖不是小事！荷爾蒙改變、削弱免疫力 醫示警：罹癌風險增&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOT0FRa2JxTkttZTJIVnAzelNSekd6SElIenMycjAtdHVkdmxfYlVobGlPcVZOcXVLTHd0eGJ3WHI4VjVFTzg1T0lSajQ2Y1lEZlM2YzhJWEdoSW1Tb0VsTG5TNU5ONmpLUFJOelg4em1pQU13UTltTTgxUTFMb2NhbXhQMXlkUTVjZ0Z0OElqM250OWZIcEJPTTlkZ2M1RU9YR2ZaTUg2Z2pMWXBwY3ZFREpON0htbG9yZ1NuenZScUtvVTEzQ2JGcWQ3YWctbWQtZEQ5R29YYnhRcEIyZTVJVEZ2dDNJUzBSVWF1T1VScHF1TW54enBXUGJmc2NpX2hqU3poRjR0bUV3dld5bjBEMWhtOWJxRHJEcHFNZG10dkdfZXh2aEJHV29fTnNrRVpmajVvZUhDZnVhSFR3eGU5WUg4TWczc0ZwMWN6Z21ZOEZUNVlvdndya1JTdlB2Z3JTeThBazB6Y25iS0pxTzd3Ni14djM1TWdTU0pmWUtONW9QUjFy?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "05c874ddbdc7",
+      "title": "「媽媽手」不只按痛點　中醫師經絡遠端下手效果快可根治",
+      "published": "2026-04-25T05:47:00+00:00",
+      "summary": "「媽媽手」不只按痛點 中醫師經絡遠端下手效果快可根治&nbsp;&nbsp;ETtoday新聞雲中醫治媽媽手不只按痛點&nbsp;&nbsp;更生新聞網精準定位病灶 成醫開創肌骨神經疾病治療&nbsp;&nbsp;TDN台灣生活新聞",
+      "sources": [
+        {
+          "name": "ETtoday新聞雲",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNNVJNZmhEZ2drWjNGbHdQcE14NE5xVTRvYnBtSXhWYzBMLUpndm96TFRqZ2hoMVAwbFJmVDFDcEZOVWhHbkRRdzhzRjhlSloydm9WMWt4eVozazQ5U3fSAWhBVV95cUxQTWtHU2hiTXhkakQzQzY5OGVXeW1ybUttekowQkxmWFJ6ZlFiem51endENVQ5czh2VWhTRzJjRVdiSTk0dlR4YThsV3o4b2ZTY1FVRzFtVzNkMnFPemdXT0VIeTh2cktleA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "482666a9e86c",
+      "title": "別只關注久坐傷身 最新研究：坐著時「做對事」可預防失智症",
+      "published": "2026-04-25T01:09:25+00:00",
+      "summary": "別只關注久坐傷身 最新研究：坐著時「做對事」可預防失智症&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwMFRybWxfTkdNbklwd2NWeDNnaDVmc0Q3Y3plLTZsR1BBZmpNcUswSzdrZDU2VXY1bEw0UWRrd3ZxTDBUX0VPdlUwQkZnVlBrdW1QdGVmYnplV0NxdFHSAWNBVV95cUxPeEw1azdZTkNKS2pUcmhLZUlPeXdfcnU5WXF6aF9aT0dvWEVBSHRDdHVYN0ZTYUJZeGJQR3BhblhZcG5Fc3NaSmVzQTRRTWNqbExQZF92VExodmlxcTRIUm0yb0E?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7f2c9067ea0b",
+      "title": "江飛宇Science》原來是它！科學家找到年齡型脂肪肝的成因- 國際",
+      "published": "2026-04-24T23:40:30+00:00",
+      "summary": "江飛宇Science》原來是它！科學家找到年齡型脂肪肝的成因- 國際&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0VDI0eWR3WUljaXlmVjJFYmwzMmlvUTlFVzhaWEpCb3JoUFp3UXBRbVBfOUxsYmlibTh1cGkzTDc2cHNyUG1JakxpT1l4UXJZWFRxR3FTX2h1NDFwWmp5SndOMHh0RVBqREp0Qlpn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4c3e25bdc694",
+      "title": "挑戰認知拒絕萎縮，長者善用 AI 訓練腦力 - TechNews 科技新報",
+      "published": "2026-04-24T16:17:47+00:00",
+      "summary": "挑戰認知拒絕萎縮，長者善用 AI 訓練腦力&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tcXFkNTQxa2RlNld3YUYtWmt2cUpNTmd4eGtrVmxXNHF5Y3FybWJpZy1aa1RvSU1ELVNFVUZwSFBZanB4a1R3REN2X0pKcy1WdW9jbF9n?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "90b2527d2e82",
+      "title": "增3宗外地傳入登革熱　患者到過大馬和越南",
+      "published": "2026-04-24T10:40:00+00:00",
+      "summary": "增3宗外地傳入登革熱 患者到過大馬和越南&nbsp;&nbsp;881903.com登革熱丨食環署:會研是否調低啟動加強控蚊門檻&nbsp;&nbsp;信報網站登革熱︱食環署「以蚊治蚊」 擬最快年底引進「絕育雄蚊」 交配產卵下一代無法發育&nbsp;&nbsp;stheadline.com今年首宗本地登革熱個案 歐家榮：爆發風險不能忽視&nbsp;&nbsp;紫荊網登革熱病徵、潛伏期是什麼？白紋伊蚊叮怎麼辦？一文看清預防方法&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "881903.com",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KRWo4MWFQRDFYR2wzN0RIQmtNZHg0NlRGRFhzeGxJc2hILWZrTXh4MDhhZFh2OEtzRzNYUjhpbUpzS1c0UVRWa2JoUk5UQ19ORnhN0gFYQVVfeXFMT3RGbkI1c21UMUtfRVVPZEdOa3NsSm1BaGNBWkJOdFRnd0ZLZ2NrRmRMeElldE9CSUI5VWRwNkMzMFE1VmU4Nk44dTFkNmRObnZSeEdyQkNERA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "bf67038e0ac2",
+      "title": "愛吃辣可能更長壽！研究揭死亡風險更低 辣椒素還有許多益處",
+      "published": "2026-04-24T09:12:21+00:00",
+      "summary": "愛吃辣可能更長壽！研究揭死亡風險更低 辣椒素還有許多益處&nbsp;&nbsp;科技島",
+      "sources": [
+        {
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlWnN4bGlVbEdMcmhJRzRJU1c5ZXNuLU5EODBfUFJqUm8tczY3OVZkakhxWVhucDdSdmJaenBlRXdqZTNORXZZNy1ValNHWW9XbWQ0WXE5WEZTMkZfUHdz?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1e1a336c3c15",
+      "title": "中大研究：嬰兒早期表觀遺傳及腸道微生態 或影響日後腦部發展",
+      "published": "2026-04-24T07:43:27+00:00",
+      "summary": "中大研究：嬰兒早期表觀遺傳及腸道微生態 或影響日後腦部發展&nbsp;&nbsp;橙新聞ADHD風險｜中大研究揭示嬰兒早期表觀遺傳改變及腸道微生態或影響日後腦部發展&nbsp;&nbsp;healthyD保持腸道健康 及早預防學童ADHD問題&nbsp;&nbsp;stheadline.com中大新發現：腸道菌群影響嬰兒腦發展- 港聞&nbsp;&nbsp;今日大公",
+      "sources": [
+        {
+          "name": "橙新聞",
+          "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxOcUhjdVZNUEs2RDBKRFlGWDFGWUlyRmJYTzhqR1U1cEk5UFNILXU5OVdlcGNjSk5XdUdnZk1kbVFja0FWMVZiOTNublQzYzFWUk1fMndlejVNb2YxVmxhdEEteHloSy1Ea0V5ODFiREtDX1c1QTh3b2FtbEdyVzl6bmpvYUtaU08xOGZFOW1uc0hDcjBuZUxJSkVvUzljbmNRN3Q0QWZzT1ZCTDB1ZFpfbmZibWtYZjRsQWgwTndHUDZuWi1rdmRZajE3NjJnZFhKcDJRVkpnWS1Dc1RGNmhjWWZPV1BlM25HUWdFUWg3TkM0V084UEZSODdOemE3c1I1cVpuOHk1Vk1QaVhDZlh0VWNGRkJMSHpEbEZkLU9XTTNYUk1qQmJGVHR1ZDJMRFMyeHA5U3hSYV9yMmRJRENuZXU1NWhrTHlvQmV6NTRSbHdtaThPME5QeHM4T2ZvWTZOQWhpTURiY0tSNGNzVjg3d1BoRmtmTFVTbVdaMUhwRnN6S1FTcGJlRzB6TWg2UTlKUHhZNTVDMVcwNllWSWtaV1lpNTA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5057c9424a00",
+      "title": "COVID-19 新研究：Paxlovid 助康復但難降重症率",
+      "published": "2026-04-24T07:07:00+00:00",
+      "summary": "COVID-19 新研究：Paxlovid 助康復但難降重症率&nbsp;&nbsp;行銷人",
+      "sources": [
+        {
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQR1lyRzVUTnBLUmFGTEZSWjVJdVFzUlZVWUZPbzVfVGZpZ250T3VhTzEzdHFwRGJzVzdmVmQyLUpDblRQMzNXRjN6eHdFMjZsUF9DOEZyeDBuZ2pYNk5uR2VOU3FJT0w5UUZFSzFxcXJGLVRRWXlyX3F6TDZqa3hIeGhVbmNlWHpTMFVfWjNRM1JyUnUtMjdXQmdJdHZSVzRQRm0zcDdfU0h2V0NRUlFsRUNSV3RqdkgxSVVZYkVFUkF0dFRaTDBJNjBDRGZabEpmVFRCZTF3SFBqeGcwLXlSWDF3UVVVeU9zOE9TT1hEMU1ZdDBkeFRQc1U2Qmk0X2xWcEF6M05ybzRGWFhOY1FHZEt6WQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    }
+  ]
 }
