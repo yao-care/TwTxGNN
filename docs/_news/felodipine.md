@@ -14,7 +14,7 @@ permalink: /news/felodipine/
 ---
 
 <p class="key-answer" data-question="Felodipine 有什麼相關新聞？">
-<strong>Felodipine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Felodipine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ permalink: /news/felodipine/
 <p><a href="{{ '/drugs/felodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [不只傷腎！「1調味料」吃多胃癌風險增1倍 醫示警：致癌物更易入侵](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FWDZabUZNTG4ydGZQVUdpUVhUY25QUHRnYXFuTTdtVm1Cb1RlSFZqVUNIbHNvV1l2OVZtY1dnbWJfeE1zRmw4TXRGVVc?oc=5)
+
+2026-04-26 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">胃癌</span>
+
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FWDZabUZNTG4ydGZQVUdpUVhUY25QUHRnYXFuTTdtVm1Cb1RlSFZqVUNIbHNvV1l2OVZtY1dnbWJfeE1zRmw4TXRGVVc?oc=5)
+
+---
 
 ### [醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康](https://news.google.com/rss/articles/CBMivgJBVV95cUxOT20wZkppVUU4azNsSUZmbHZYTEIyMHBHVFJiVnRTa1RURnAzS0lvZFpsVEQyV0RIYW02cFBnN21JLUNDeUtad1loRlFKQ0tWa21YU2JhbHZScnFGcHpkc0l5NGV1T2ZKWFlJX0VhanZUSDBnRFIzeEJZMXBmUGdwaTFxNmVkM3JnN2lIMjdUYUkwejRrOXpTLVBsal9kY1U0RjVsQzM5YmFsd3Q1SFhJTjFGTU9TcG5md1QxR2FEUkpUcVBITnhtYUlUZjliNWZiMVRWRUFJRDZLVUpDQkduNXgybXkyWEJmWGN5TjJ1VUdHZzRDRUF4S0x4RnN1TG9sZjlJVzdaR2hJRmU0bEF5ejB5MmE5NG1EVlFDVlpVNWt3OXUzd1pfU0trVmJXTWtGRTNHXy1ZQk9FMG80bnc?oc=5)
 

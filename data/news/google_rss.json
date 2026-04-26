@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-26T01:54:32.055724+00:00",
-  "count": 22,
+  "fetched_at": "2026-04-26T04:53:27.859812+00:00",
+  "count": 18,
   "news": [
     {
       "id": "2063f4f7d126",
@@ -16,38 +16,14 @@
       ]
     },
     {
-      "id": "4f74d114ae64",
-      "title": "肥胖不是小事！荷爾蒙改變、削弱免疫力 醫示警：罹癌風險增 - 民報",
-      "published": "2026-04-25T07:00:00+00:00",
-      "summary": "肥胖不是小事！荷爾蒙改變、削弱免疫力 醫示警：罹癌風險增&nbsp;&nbsp;民報",
+      "id": "db2481e46f4d",
+      "title": "肥胖不是小事！荷爾蒙改變、削弱免疫力 醫示警：罹癌風險增 - Yahoo新聞",
+      "published": "2026-04-25T07:45:08+00:00",
+      "summary": "肥胖不是小事！荷爾蒙改變、削弱免疫力 醫示警：罹癌風險增&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "民報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56dUVqUTN6TzloVldOZVFycUN0ZmZXcERLVkRNY2xEYmx3elZ1WmRIWTl1UExFN1A3ZG5NeVpQd1NnZlI1Q3BiUGQ5dGFZdU54UVFNOXJFbEplU0xnNjNqZg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b9e188bae310",
-      "title": "哈佛大學的科學家透過隱藏的發炎觸發因素將腸道細菌與憂鬱症聯繫起來。 - arch-web.com.tw",
-      "published": "2026-04-25T16:47:25+00:00",
-      "summary": "哈佛大學的科學家透過隱藏的發炎觸發因素將腸道細菌與憂鬱症聯繫起來。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQVTRlY0tZQ1hHQ2pEcFlkQ1FpWlhOTVBoN0piTDVMQWYzV1RrUmJqXzZjRzJnTGhXUERpLUNZeGRZVGVVc2JlRWQ1ZVFETUlhUXRsaDNTSVpsYmZCY3E0YmEzRFIycUxCVW1tbUFvTjVXT3Nwb3VzZWwyWGR6QmNCdW5WSGpRVmkwTnVweUFKVzFvSVc1WUJpdExvUU10SnlVeUdNNmZsVF9KSmx0NDUtaFdOSzVCckMyWEJTMUpia0FnM1hBLVVzMDVBbkVwd1RTRzBLanJaeWNaQTd4ZHZ4Vk9fSVhIWWt1WWNuLXhjQjJzNl9PdEhha0hlVkNET2hUSkZPVUl5ajBLbjFaRkpBM2xRMWw1MjdyOFdQWmdsMUlOb3NlVzBKbzVta1IyT1NYSXQ2Nm9FVHNtZnZ3cllVeXFsYVR6Z2dXSkZiNEl5cmFtVDNmUG4xZ0VfWkVhXzZFLVFlcHNUYkhRV09LMUR3UnNJU21IRURpUWNXSmJpRXBHT1lnVHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ea549f8991bc",
-      "title": "我認為格溫妮絲·帕特洛不知道勝肽是什麼 - citytimes.tw",
-      "published": "2026-04-25T08:04:11+00:00",
-      "summary": "我認為格溫妮絲·帕特洛不知道勝肽是什麼&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOZ1ZNUWFyTWgxNXFPVGJLNlpNY3ZkbmpLUHhwbzZReVBtRVVCc2RqUVhKcjJMS3ZDa0hMeTZrUnJUeUpVRUZLUlg2b3ExbFJVQXJpWGNXMXBZRzBqVnc2V1I0bEtOWEl1TlNzMUpNVW9Od0FfQUtwQ2M1bnVqNUZ1RWhtY3UxVEk4QkVPQndlUmR5bE8zTENCZzNtdFJwb3cwWlQ5Z0lCZnpEX0dYWldkRjVZNEpKS3F2aFI2d19VSTlXY1E3TnlEdHlsQ1hKcW1wckQ4d1EySGhxQ00wRFpHdl9qYjdyLThkOFBGeEY5ekREQzhEYmF3MEdDd1BFLUU5akZIV29YN1RiVFdwXzVzRWE1Ty1jRXpIbG5EOUV4Sm51eFEzUTVNbjdjcVh0VGpZNkpDT0dySk1wU3lmQ3c?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOT0FRa2JxTkttZTJIVnAzelNSekd6SElIenMycjAtdHVkdmxfYlVobGlPcVZOcXVLTHd0eGJ3WHI4VjVFTzg1T0lSajQ2Y1lEZlM2YzhJWEdoSW1Tb0VsTG5TNU5ONmpLUFJOelg4em1pQU13UTltTTgxUTFMb2NhbXhQMXlkUTVjZ0Z0OElqM250OWZIcEJPTTlkZ2M1RU9YR2ZaTUg2Z2pMWXBwY3ZFREpON0htbG9yZ1NuenZScUtvVTEzQ2JGcWQ3YWctbWQtZEQ5R29YYnhRcEIyZTVJVEZ2dDNJUzBSVWF1T1VScHF1TW54enBXUGJmc2NpX2hqU3poRjR0bUV3dld5bjBEMWhtOWJxRHJEcHFNZG10dkdfZXh2aEJHV29fTnNrRVpmajVvZUhDZnVhSFR3eGU5WUg4TWczc0ZwMWN6Z21ZOEZUNVlvdndya1JTdlB2Z3JTeThBazB6Y25iS0pxTzd3Ni14djM1TWdTU0pmWUtONW9QUjFy?oc=5"
         }
       ]
     },
@@ -64,6 +40,30 @@
       ]
     },
     {
+      "id": "ea549f8991bc",
+      "title": "我認為格溫妮絲·帕特洛不知道勝肽是什麼 - citytimes.tw",
+      "published": "2026-04-25T08:04:11+00:00",
+      "summary": "我認為格溫妮絲·帕特洛不知道勝肽是什麼&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOZ1ZNUWFyTWgxNXFPVGJLNlpNY3ZkbmpLUHhwbzZReVBtRVVCc2RqUVhKcjJMS3ZDa0hMeTZrUnJUeUpVRUZLUlg2b3ExbFJVQXJpWGNXMXBZRzBqVnc2V1I0bEtOWEl1TlNzMUpNVW9Od0FfQUtwQ2M1bnVqNUZ1RWhtY3UxVEk4QkVPQndlUmR5bE8zTENCZzNtdFJwb3cwWlQ5Z0lCZnpEX0dYWldkRjVZNEpKS3F2aFI2d19VSTlXY1E3TnlEdHlsQ1hKcW1wckQ4d1EySGhxQ00wRFpHdl9qYjdyLThkOFBGeEY5ekREQzhEYmF3MEdDd1BFLUU5akZIV29YN1RiVFdwXzVzRWE1Ty1jRXpIbG5EOUV4Sm51eFEzUTVNbjdjcVh0VGpZNkpDT0dySk1wU3lmQ3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b9e188bae310",
+      "title": "哈佛大學的科學家透過隱藏的發炎觸發因素將腸道細菌與憂鬱症聯繫起來。 - arch-web.com.tw",
+      "published": "2026-04-25T16:47:25+00:00",
+      "summary": "哈佛大學的科學家透過隱藏的發炎觸發因素將腸道細菌與憂鬱症聯繫起來。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQVTRlY0tZQ1hHQ2pEcFlkQ1FpWlhOTVBoN0piTDVMQWYzV1RrUmJqXzZjRzJnTGhXUERpLUNZeGRZVGVVc2JlRWQ1ZVFETUlhUXRsaDNTSVpsYmZCY3E0YmEzRFIycUxCVW1tbUFvTjVXT3Nwb3VzZWwyWGR6QmNCdW5WSGpRVmkwTnVweUFKVzFvSVc1WUJpdExvUU10SnlVeUdNNmZsVF9KSmx0NDUtaFdOSzVCckMyWEJTMUpia0FnM1hBLVVzMDVBbkVwd1RTRzBLanJaeWNaQTd4ZHZ4Vk9fSVhIWWt1WWNuLXhjQjJzNl9PdEhha0hlVkNET2hUSkZPVUl5ajBLbjFaRkpBM2xRMWw1MjdyOFdQWmdsMUlOb3NlVzBKbzVta1IyT1NYSXQ2Nm9FVHNtZnZ3cllVeXFsYVR6Z2dXSkZiNEl5cmFtVDNmUG4xZ0VfWkVhXzZFLVFlcHNUYkhRV09LMUR3UnNJU21IRURpUWNXSmJpRXBHT1lnVHc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4b6e9d446694",
       "title": "隱藏在腸道中的病毒可能與結腸癌有關。 - arch-web.com.tw",
       "published": "2026-04-25T21:20:34+00:00",
@@ -76,26 +76,14 @@
       ]
     },
     {
-      "id": "ba7d51e36897",
-      "title": "挑戰認知拒絕萎縮，長者善用 AI 訓練腦力 | 科技新報 - LINE TODAY",
-      "published": "2026-04-25T01:19:17+00:00",
-      "summary": "挑戰認知拒絕萎縮，長者善用 AI 訓練腦力 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTVUtZcE4xdUFkd2xULVhtdTgyVXV1dFpTdzBfbVQ5SWpFd0k3MEY2dTVpNnlhdlA0dVhscDRqQmhRcFc3Uk9saWlZVGJ2RlJOV19GMWNR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1d14ebc8ecdd",
-      "title": "以為吃事前藥就穩了？30歲男「尿道流膿」竟染淋病大崩潰 醫揭2迷思 - 祝你健康",
-      "published": "2026-04-24T02:26:23+00:00",
-      "summary": "以為吃事前藥就穩了？30歲男「尿道流膿」竟染淋病大崩潰 醫揭2迷思&nbsp;&nbsp;祝你健康健康網》壯男吃事前藥以為「穩了」仍染淋病 醫解析&nbsp;&nbsp;自由健康網以為吃事前藥準沒事！30歲男「下體流膿」慘罹淋病 醫：並非萬靈丹&nbsp;&nbsp;Yahoo新聞以為吃事前藥就穩了！30歲男「染淋病」崩潰&nbsp;&nbsp;PChome Online 新聞",
+      "id": "c9efdc8a5a6d",
+      "title": "不只傷腎！「1調味料」吃多胃癌風險增1倍 醫示警：致癌物更易入侵 - 祝你健康",
+      "published": "2026-04-26T02:08:03+00:00",
+      "summary": "不只傷腎！「1調味料」吃多胃癌風險增1倍 醫示警：致癌物更易入侵&nbsp;&nbsp;祝你健康癌症為何越來越年輕？關鍵可能不只是基因&nbsp;&nbsp;TechNews 科技新報防癌飲食｜年輕人患癌飲食是元兇 做3件事防癌 醫生親測一星期後大推：一身輕！&nbsp;&nbsp;香港經濟日報HKET毒物科名醫顏宗海曝防癌祕訣！必吃這些食物抗氧化 抗癌千萬別碰這2物&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyMER2LW9oalJ0S1VGU2ZrYnlDOWRoMjhFMUlzeUpKelZzVmhWZktHM2ZpT3Rzc1FTdWFyUkFnX0wtMEhxSmtETFRaQ2k?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FWDZabUZNTG4ydGZQVUdpUVhUY25QUHRnYXFuTTdtVm1Cb1RlSFZqVUNIbHNvV1l2OVZtY1dnbWJfeE1zRmw4TXRGVVc?oc=5"
         }
       ]
     },
@@ -112,6 +100,18 @@
       ]
     },
     {
+      "id": "ba7d51e36897",
+      "title": "挑戰認知拒絕萎縮，長者善用 AI 訓練腦力 | 科技新報 - LINE TODAY",
+      "published": "2026-04-25T01:19:17+00:00",
+      "summary": "挑戰認知拒絕萎縮，長者善用 AI 訓練腦力 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTVUtZcE4xdUFkd2xULVhtdTgyVXV1dFpTdzBfbVQ5SWpFd0k3MEY2dTVpNnlhdlA0dVhscDRqQmhRcFc3Uk9saWlZVGJ2RlJOV19GMWNR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "482666a9e86c",
       "title": "別只關注久坐傷身 最新研究：坐著時「做對事」可預防失智症 - 元氣網",
       "published": "2026-04-25T01:09:25+00:00",
@@ -120,42 +120,6 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwMFRybWxfTkdNbklwd2NWeDNnaDVmc0Q3Y3plLTZsR1BBZmpNcUswSzdrZDU2VXY1bEw0UWRrd3ZxTDBUX0VPdlUwQkZnVlBrdW1QdGVmYnplV0NxdFHSAWNBVV95cUxPeEw1azdZTkNKS2pUcmhLZUlPeXdfcnU5WXF6aF9aT0dvWEVBSHRDdHVYN0ZTYUJZeGJQR3BhblhZcG5Fc3NaSmVzQTRRTWNqbExQZF92VExodmlxcTRIUm0yb0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "78e48d1383ce",
-      "title": "男人平均少活5年不是因為「這件事」！科學家研究：老女人多了1種關鍵基因！ - Harper's BAZAAR",
-      "published": "2026-04-24T03:21:56+00:00",
-      "summary": "男人平均少活5年不是因為「這件事」！科學家研究：老女人多了1種關鍵基因！&nbsp;&nbsp;Harper's BAZAAR",
-      "sources": [
-        {
-          "name": "Harper's BAZAAR",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbmtTX05NSUpwREkxeHdCSlp2eE5Gam93d2lKNmhJeVY2cHZHSGJWZzc5Q1lGRVY0cmlzRlJ4Y0QxR3VZdV9qSFcxYm5yaE1aV0xYVVJ5WjJySkFzb1JPalFnMDUxTkVicUNhMHZnWVpsZFZEa0Q4NkVxdXVBaEg3c19CcHBXVkQ2VllmQnp1WW9KX1NRVWhyQ1QxclJLSGxWVUx0d2dSbzRwQnBhY2dFdFhjX1R1YVBJVFoyOEhfMW9SSmxwMTNTNTFLenZxZ2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8fed41ceea08",
-      "title": "哈佛研究：「冰淇淋」其實可以吃！每天「喝它」還降低18%死亡風險！ - Harper's BAZAAR",
-      "published": "2026-04-24T03:11:55+00:00",
-      "summary": "哈佛研究：「冰淇淋」其實可以吃！每天「喝它」還降低18%死亡風險！&nbsp;&nbsp;Harper's BAZAAR",
-      "sources": [
-        {
-          "name": "Harper's BAZAAR",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRDF0TFdxYVl4YkREWmVfbnUxTFdsbk81NVhjUXNPWUZyZzZuOS1wY0ZWTUk2QnZFZ2VzODdaR0swOE1TN1k2UmZKeUZORFllS2lXcDhnaVdtNUlJSzc4MXN5VTkxRGdBOE5jTllwWUQ2QUV3RXhoWEVTenpOQ2dmMFdDamQtZ085N0ZnWTVUQWJYa0FqSkwzSWZsa1h4TGVqVDJQUjNpYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9c40cca1d3b6",
-      "title": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道 - 匯流新聞網",
-      "published": "2026-04-24T01:00:43+00:00",
-      "summary": "《心腦血管治療的奇蹟》擺脫 COVID-19 後遺症 生活重回軌道&nbsp;&nbsp;匯流新聞網",
-      "sources": [
-        {
-          "name": "匯流新聞網",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNTkNDSEZUWXR6SjhrV0s2dE1pNi1NZUJQZlloem5CMFBMZ0FwT3U2X25SdWlLenVMNEtrdEJoYklTbWRzLU44b19KWFZwVlFnUVh6UzJVS3g0UHg1dzRkWFUwZTN3WUt0RWtGRFJKSFh3dXluRTVFa1ZqUFhvSVF3ZDBONXIxazJtd1hENUVpSGpFU3pEVER2RzlPaFVScU1YUTAxVjRSS21fZGdMcUhjR2QtcTE2cTBvUlVsUDZwZl9PYVhmTFI2TVBJWFNPVVFMRDRwcHQzR1I0NG1ULXJuUHpTRGFaRHB5eU02S2dHSnRxcmIzOFlGZzJSSVpQSFFlWTM3RzE0RklwSWw3WER0Y3J2RnFBUVhtZUl5QmJDOHJrd1lkb2ZwN3hVMlRfUFVQQkF0aGZxQWtDYWdLRk9JeVNEdlk?oc=5"
         }
       ]
     },
@@ -172,18 +136,6 @@
       ]
     },
     {
-      "id": "1c61e641c38c",
-      "title": "科學家首次發現了憂鬱症背後的腦細胞。 - arch-web.com.tw",
-      "published": "2026-04-25T16:10:16+00:00",
-      "summary": "科學家首次發現了憂鬱症背後的腦細胞。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQM1E4T3hmeEJaQy0waHFtUmxDb1E2Wm45ck41UTNWTnJZM1NHT3c0MDkyekdESnlGdkg4Vkg4a1BHejUybFl6YmxnSG01Wi1YeE02VWR6bEtkSkZkVHJUdW9LRWI2V3cyZVQyaVdXRHY4aFFJdTI1aHZQV2FJYy0zMlVfeFVQb2VFY3FyenVsRHFWTHlyX1BVbDExSTB4NWNMU0tRTXRYWXdBcEpvM0hyWXBETHdMcTVla1gwd3JfZjZRTXF5TFhobUF3N1hEd1NzYmEtQWNVZXlzdVJFTlB0a3k5OTdMMWRiWDh5aktNaGE4WXNwVzZodFJialN2ell1eHR1TENJWGo3cXU3T3JkS0t0azVicnIyZUh0VkdMTmt4dHRCbVRKVXZmX2swTnhxMmhkdGtsal9KWjJ4QWl6cUZnSVNmMEh0alp4LXdoSGhJZGdyWHc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "96b47a57b827",
       "title": "COVID-19 新研究：Paxlovid 助康復但難降重症率 - ENN台灣電報",
       "published": "2026-04-24T08:11:44+00:00",
@@ -192,6 +144,18 @@
         {
           "name": "ENN台灣電報",
           "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5vSVRSWG1KLVF1dDRpQlVwcEVUVlZRQnQ2UFpkcmVBaW50ZEFQVEtTd1ZPbm84dzluclE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1c61e641c38c",
+      "title": "科學家首次發現了憂鬱症背後的腦細胞。 - arch-web.com.tw",
+      "published": "2026-04-25T16:10:16+00:00",
+      "summary": "科學家首次發現了憂鬱症背後的腦細胞。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQM1E4T3hmeEJaQy0waHFtUmxDb1E2Wm45ck41UTNWTnJZM1NHT3c0MDkyekdESnlGdkg4Vkg4a1BHejUybFl6YmxnSG01Wi1YeE02VWR6bEtkSkZkVHJUdW9LRWI2V3cyZVQyaVdXRHY4aFFJdTI1aHZQV2FJYy0zMlVfeFVQb2VFY3FyenVsRHFWTHlyX1BVbDExSTB4NWNMU0tRTXRYWXdBcEpvM0hyWXBETHdMcTVla1gwd3JfZjZRTXF5TFhobUF3N1hEd1NzYmEtQWNVZXlzdVJFTlB0a3k5OTdMMWRiWDh5aktNaGE4WXNwVzZodFJialN2ell1eHR1TENJWGo3cXU3T3JkS0t0azVicnIyZUh0VkdMTmt4dHRCbVRKVXZmX2swTnhxMmhkdGtsal9KWjJ4QWl6cUZnSVNmMEh0alp4LXdoSGhJZGdyWHc?oc=5"
         }
       ]
     },
@@ -232,22 +196,10 @@
       ]
     },
     {
-      "id": "e9f5837eab03",
-      "title": "ADHD風險｜中大研究揭示嬰兒早期表觀遺傳改變及腸道微生態或影響日後腦部發展 - healthyD",
-      "published": "2026-04-24T04:07:27+00:00",
-      "summary": "ADHD風險｜中大研究揭示嬰兒早期表觀遺傳改變及腸道微生態或影響日後腦部發展&nbsp;&nbsp;healthyD保持腸道健康 及早預防學童ADHD問題&nbsp;&nbsp;星島頭條中大新發現：腸道菌群影響嬰兒腦發展- 港聞&nbsp;&nbsp;今日大公中大研究：嬰兒早期表觀遺傳及腸道微生態 或影響日後腦部發展&nbsp;&nbsp;橙新聞",
-      "sources": [
-        {
-          "name": "healthyD",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPTkdiRGp2WG9VeV9taG9OUEM1aWY5UHBMX2I2eFNnRzRKZkdfUVY3ZFJ3RHkyX1JzR0pIWVRiNUt4TEhBeWhSOE5VcU5pWnRJekRoZENIcDl3c3duOHdvNjQ3SFFuaFFHRTNLSHZETTg4TVFhQV9xYUF3eXJfVmMwZllzN0pUTTRnZjh1OEZZRGNoQkV3VDMyZmFuNEpsMmtqcExjYTJ4OWdQdS1oZGFVUThkdHVONFVlWmxTbkpyWmhDRTVIVWN3Z24wejF5MkhJYUVwNFdCUlZiSTNpM1VWVll4QmEyYTdpaklFRzBpRU9rQ2R4RXNFaEVWLXpiTzdxU3dkY0FRVEZIbm92TXFJUERZdXFpTGtJS3VPNm01ZlJhVGtxN2FCT1I4ZlQ2dkpsQktYNEJ5U1h2dkl3REM4bHVodlh6NkJYZGpVWEMyUFczenYyT2xwcg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "16527e82da43",
       "title": "本港過去一周錄得三宗外地傳入及一宗本地登革熱個案 - 香港電台新聞網",
       "published": "2026-04-24T10:27:00+00:00",
-      "summary": "本港過去一周錄得三宗外地傳入及一宗本地登革熱個案&nbsp;&nbsp;香港電台新聞網增3宗外地傳入登革熱 患者到過大馬和越南&nbsp;&nbsp;881903.com無人機+機械狗科技滅蚊見效- 港聞&nbsp;&nbsp;今日大公衞生防護中心:登革熱本地傳播風險屬中等 風險可控&nbsp;&nbsp;信報網站今年首宗本地登革熱個案 歐家榮：爆發風險不能忽視&nbsp;&nbsp;紫荊網",
+      "summary": "本港過去一周錄得三宗外地傳入及一宗本地登革熱個案&nbsp;&nbsp;香港電台新聞網增3宗外地傳入登革熱 患者到過大馬和越南&nbsp;&nbsp;881903.com食環署長：本月誘蚊器指數上升速度按年加快 料明年初試行「以蚊治蚊」新方法 (12:23) - 20260426 - 港聞&nbsp;&nbsp;明報新聞網本港爆首宗本地登革熱！警告呢1類人要特別小心恐致命 附8大病徵及防蚊法&nbsp;&nbsp;UHK 港生活今年首宗本地登革熱個案 歐家榮：爆發風險不能忽視&nbsp;&nbsp;紫荊網",
       "sources": [
         {
           "name": "香港電台新聞網",
@@ -256,14 +208,14 @@
       ]
     },
     {
-      "id": "c2d1b44987ca",
-      "title": "口腔潰瘍兩周沒好恐是口腔癌 醫生教4辨別方法 3招緩解經常口乾 - 香港01",
-      "published": "2026-04-24T02:01:35+00:00",
-      "summary": "口腔潰瘍兩周沒好恐是口腔癌 醫生教4辨別方法 3招緩解經常口乾&nbsp;&nbsp;香港01",
+      "id": "1e1a336c3c15",
+      "title": "中大研究：嬰兒早期表觀遺傳及腸道微生態 或影響日後腦部發展 - 橙新聞",
+      "published": "2026-04-24T07:43:27+00:00",
+      "summary": "中大研究：嬰兒早期表觀遺傳及腸道微生態 或影響日後腦部發展&nbsp;&nbsp;橙新聞ADHD風險｜中大研究揭示嬰兒早期表觀遺傳改變及腸道微生態或影響日後腦部發展&nbsp;&nbsp;healthyD保持腸道健康 及早預防學童ADHD問題&nbsp;&nbsp;星島頭條中大新發現：腸道菌群影響嬰兒腦發展- 港聞&nbsp;&nbsp;今日大公",
       "sources": [
         {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxOU2JhVVFJVzVIdmZWRXl3MFUxcE0xNndkMERvS21sU1VJNkphUUhqTnNIandhUmVvVzRZelJDekl0MFBBZTR0SnJSa2V0TnpwdjBfdTZlcEJMVXdVZ2FfZTlFUFJ1MGdMN2FMMFVDMFRWNlpqWTNaVm8wOXJSanR3cElUdGM1S0UwTUdCT1BsNWpnR3A4SDhvTXE0TFYySjU5WENmcDBCNEtrcG93UWJaU1ROSXlxclFBX3AtVlVMYWx3dm5vZGlYbnVBbXE0UWpxR1pEQjBuTldXUXN6by03djU0MnRKZWxoWk1VMDBKTmhtalZpMURocTFmVGJNSEN0WlpkZzNDejhtcW9KSEdtNXFiRTF4RVVMcDJ3QVRpR25xQlJlU0FNYWZsYjM1cnoySnMzbjRQUjh2RUpYNEpvRDNNaWhnUW1janUxcC1uWFU4RVBzbHFZYkttbXEtWnctZ2ZHaUs4TTR5NTFITlRtdkJLU1RaZ0dWaURXWWFFbkZ4WFhoMXgwYjJyUGxwcVlqSGYyeG5jMUgxX1FISm5MeHN3TlBwNFU5UUluMg?oc=5"
+          "name": "橙新聞",
+          "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxOcUhjdVZNUEs2RDBKRFlGWDFGWUlyRmJYTzhqR1U1cEk5UFNILXU5OVdlcGNjSk5XdUdnZk1kbVFja0FWMVZiOTNublQzYzFWUk1fMndlejVNb2YxVmxhdEEteHloSy1Ea0V5ODFiREtDX1c1QTh3b2FtbEdyVzl6bmpvYUtaU08xOGZFOW1uc0hDcjBuZUxJSkVvUzljbmNRN3Q0QWZzT1ZCTDB1ZFpfbmZibWtYZjRsQWgwTndHUDZuWi1rdmRZajE3NjJnZFhKcDJRVkpnWS1Dc1RGNmhjWWZPV1BlM25HUWdFUWg3TkM0V084UEZSODdOemE3c1I1cVpuOHk1Vk1QaVhDZlh0VWNGRkJMSHpEbEZkLU9XTTNYUk1qQmJGVHR1ZDJMRFMyeHA5U3hSYV9yMmRJRENuZXU1NWhrTHlvQmV6NTRSbHdtaThPME5QeHM4T2ZvWTZOQWhpTURiY0tSNGNzVjg3d1BoRmtmTFVTbVdaMUhwRnN6S1FTcGJlRzB6TWg2UTlKUHhZNTVDMVcwNllWSWtaV1lpNTA?oc=5"
         }
       ]
     }
