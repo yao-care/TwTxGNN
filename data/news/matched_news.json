@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-26T10:37:49.909987+00:00",
-  "total_count": 13,
-  "matched_count": 4,
+  "last_updated": "2026-04-26T11:33:30.426589+00:00",
+  "total_count": 15,
+  "matched_count": 5,
   "news": [
     {
       "id": "da5fb2107b95",
@@ -28,6 +28,234 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "ce2f22870aa7",
+      "title": "不只傷腎！「1調味料」吃多胃癌風險增1倍 醫示警：致癌物更易入侵 | 三立新聞網 - LINE TODAY",
+      "published": "2026-04-26T02:34:31+00:00",
+      "summary": "不只傷腎！「1調味料」吃多胃癌風險增1倍 醫示警：致癌物更易入侵 | 三立新聞網&nbsp;&nbsp;LINE TODAY不只傷腎！「1調味料」吃多胃癌風險增1倍 醫示警：致癌物更易入侵&nbsp;&nbsp;祝你健康癌症為何越來越年輕？關鍵可能不只是基因&nbsp;&nbsp;TechNews 科技新報防癌飲食｜年輕人患癌飲食是元兇 做3件事防癌 醫生親測一星期後大推：一身輕！&nbsp;&nbsp;香港經濟日報HKET毒物科名醫顏宗海曝防癌祕訣！必吃這些食物抗氧化 抗癌千萬別碰這2物&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44VTF6d3RJVjVRajFXT2g4RFpWSURILXdUaFRJSUFBYy1oMUhFallYMkR1MXhvY21ZSkp6M2NvVXNpUnlUenJoQmx2QXNrb3NNU2dqaVFR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "胃癌",
+          "keyword": "胃癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "trastuzumab_deruxtecan",
+              "name": "Trastuzumab deruxtecan"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "4b6e9d446694",
@@ -338,6 +566,19 @@
       ]
     },
     {
+      "id": "2063f4f7d126",
+      "title": "健康網》花甲男常累、沒性趣 美網紅醫曝「不吃蛋」恐更慘",
+      "published": "2026-04-25T11:11:00+00:00",
+      "summary": "健康網》花甲男常累、沒性趣 美網紅醫曝「不吃蛋」恐更慘&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzYUtFT0IzXzZFdUpvV2x2VGl5TENMWkI5WlczX0hVLTFMbzdsRHlPUmVadFpwWmlYdWRoRHZwcmNTdWhCUUoyVmQwLW5tOXVhbGNXQ21ZRk4wU3ZLZFhLTHlzZFPSAWpBVV95cUxNajJYbkI5NGVNb1hjTU8yTUhEeVhJT0RVQlhoVDA4enR3X0NqSEh2WjhFbEhqT3R0MkJnaFBVUFJzOHZmYVMxdXNEVjRsTmxGS2VGR0o1ek9QZDVoZnJhSTVkWHpWaUszWVJR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "ea549f8991bc",
       "title": "我認為格溫妮絲·帕特洛不知道勝肽是什麼",
       "published": "2026-04-25T08:04:11+00:00",
@@ -364,27 +605,14 @@
       "matched_keywords": []
     },
     {
-      "id": "05c874ddbdc7",
+      "id": "ca8f24ac7907",
       "title": "「媽媽手」不只按痛點　中醫師經絡遠端下手效果快可根治",
       "published": "2026-04-25T05:47:00+00:00",
-      "summary": "「媽媽手」不只按痛點 中醫師經絡遠端下手效果快可根治&nbsp;&nbsp;ETtoday新聞雲中醫治媽媽手不只按痛點&nbsp;&nbsp;更生新聞網精準定位病灶 成醫開創肌骨神經疾病治療&nbsp;&nbsp;TDN台灣生活新聞",
+      "summary": "「媽媽手」不只按痛點 中醫師經絡遠端下手效果快可根治&nbsp;&nbsp;ettoday.net中醫治媽媽手不只按痛點&nbsp;&nbsp;更生新聞網精準定位病灶 成醫開創肌骨神經疾病治療&nbsp;&nbsp;TDN台灣生活新聞",
       "sources": [
         {
-          "name": "ETtoday新聞雲",
+          "name": "ettoday.net",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNNVJNZmhEZ2drWjNGbHdQcE14NE5xVTRvYnBtSXhWYzBMLUpndm96TFRqZ2hoMVAwbFJmVDFDcEZOVWhHbkRRdzhzRjhlSloydm9WMWt4eVozazQ5U3fSAWhBVV95cUxQTWtHU2hiTXhkakQzQzY5OGVXeW1ybUttekowQkxmWFJ6ZlFiem51endENVQ5czh2VWhTRzJjRVdiSTk0dlR4YThsV3o4b2ZTY1FVRzFtVzNkMnFPemdXT0VIeTh2cktleA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ba7d51e36897",
-      "title": "挑戰認知拒絕萎縮，長者善用 AI 訓練腦力 | 科技新報 - LINE TODAY",
-      "published": "2026-04-25T01:19:17+00:00",
-      "summary": "挑戰認知拒絕萎縮，長者善用 AI 訓練腦力 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTVUtZcE4xdUFkd2xULVhtdTgyVXV1dFpTdzBfbVQ5SWpFd0k3MEY2dTVpNnlhdlA0dVhscDRqQmhRcFc3Uk9saWlZVGJ2RlJOV19GMWNR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -426,14 +654,27 @@
       ]
     },
     {
-      "id": "90b2527d2e82",
-      "title": "增3宗外地傳入登革熱　患者到過大馬和越南",
-      "published": "2026-04-24T10:40:00+00:00",
-      "summary": "增3宗外地傳入登革熱 患者到過大馬和越南&nbsp;&nbsp;881903.com食環署擬引進絕育雄蚊 以生物技術防治登革熱&nbsp;&nbsp;Singtaousa登革熱丨食環署:會研是否調低啟動加強控蚊門檻&nbsp;&nbsp;信報網站今年首宗本地登革熱個案 歐家榮：爆發風險不能忽視&nbsp;&nbsp;紫荊網登革熱病徵、潛伏期是什麼？白紋伊蚊叮怎麼辦？一文看清預防方法&nbsp;&nbsp;香港01",
+      "id": "4c3e25bdc694",
+      "title": "挑戰認知拒絕萎縮，長者善用 AI 訓練腦力 - TechNews 科技新報",
+      "published": "2026-04-24T16:17:47+00:00",
+      "summary": "挑戰認知拒絕萎縮，長者善用 AI 訓練腦力&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "881903.com",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KRWo4MWFQRDFYR2wzN0RIQmtNZHg0NlRGRFhzeGxJc2hILWZrTXh4MDhhZFh2OEtzRzNYUjhpbUpzS1c0UVRWa2JoUk5UQ19ORnhN0gFYQVVfeXFMT3RGbkI1c21UMUtfRVVPZEdOa3NsSm1BaGNBWkJOdFRnd0ZLZ2NrRmRMeElldE9CSUI5VWRwNkMzMFE1VmU4Nk44dTFkNmRObnZSeEdyQkNERA?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tcXFkNTQxa2RlNld3YUYtWmt2cUpNTmd4eGtrVmxXNHF5Y3FybWJpZy1aa1RvSU1ELVNFVUZwSFBZanB4a1R3REN2X0pKcy1WdW9jbF9n?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "16527e82da43",
+      "title": "本港過去一周錄得三宗外地傳入及一宗本地登革熱個案",
+      "published": "2026-04-24T10:27:00+00:00",
+      "summary": "本港過去一周錄得三宗外地傳入及一宗本地登革熱個案&nbsp;&nbsp;香港電台新聞網食環署擬引進絕育雄蚊 以生物技術防治登革熱&nbsp;&nbsp;Singtaousa登革熱丨食環署:會研是否調低啟動加強控蚊門檻&nbsp;&nbsp;信報網站增3宗外地傳入登革熱 患者到過大馬和越南&nbsp;&nbsp;881903.com今年首宗本地登革熱個案 歐家榮：爆發風險不能忽視&nbsp;&nbsp;紫荊網",
+      "sources": [
+        {
+          "name": "香港電台新聞網",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtUG91SGJxclZ0LTgxbDRXVGdJUFNMOEQ4UkxFaXk0d1E3UjZrSHZfdlozbVlYQ3VpanRNUnlhNXZ5dEZpQXVwby1kcEF1SFBPTXJmLURmZmtxWE1YVFpONDZJSDI3bFNSZF9SYWVuYw?oc=5"
         }
       ],
       "matched_keywords": []

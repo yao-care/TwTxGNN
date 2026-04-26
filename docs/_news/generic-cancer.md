@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,15 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [不只傷腎！「1調味料」吃多胃癌風險增1倍 醫示警：致癌物更易入侵 | 三立新聞網 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE44VTF6d3RJVjVRajFXT2g4RFpWSURILXdUaFRJSUFBYy1oMUhFallYMkR1MXhvY21ZSkp6M2NvVXNpUnlUenJoQmx2QXNrb3NNU2dqaVFR?oc=5)
+
+2026-04-26
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE44VTF6d3RJVjVRajFXT2g4RFpWSURILXdUaFRJSUFBYy1oMUhFallYMkR1MXhvY21ZSkp6M2NvVXNpUnlUenJoQmx2QXNrb3NNU2dqaVFR?oc=5)
+
+---
 
 ### [醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WMm8yZE5GdTlCdmJNZWw2T3VPQjVLS25yMlo1dzhLR09QbVpWbm90SEtlTDRVMjdGVWhIU3pNNG5NQTFzZTZtVGlKUmRlMW5wb1gxMQ?oc=5)
 
