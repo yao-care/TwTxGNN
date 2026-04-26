@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-26T08:13:19.228470+00:00",
-  "total_count": 18,
+  "last_updated": "2026-04-26T09:44:52.636231+00:00",
+  "total_count": 17,
   "matched_count": 5,
   "news": [
+    {
+      "id": "da5fb2107b95",
+      "title": "噴完防蚊液還是被叮成「紅豆冰」？醫曝這些部位最常被遺漏",
+      "published": "2026-04-26T08:50:38+00:00",
+      "summary": "噴完防蚊液還是被叮成「紅豆冰」？醫曝這些部位最常被遺漏&nbsp;&nbsp;民報",
+      "sources": [
+        {
+          "name": "民報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qdTlNV01HMTVLZEZfbFBfQloyX3Y4TkN6SnA0d0RPWDhtc3BEQVJkMWJtUHV1TmZaRjZqNDlKSU5CVFpMcnNuOW5pSXI5aTVrNldHZ19XbUFEMVhCVU9FMQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "953d24e6e3e8",
       "title": "一項新研究發現魚油可能會損害您的大腦。",
@@ -670,7 +683,7 @@
       "id": "90b2527d2e82",
       "title": "增3宗外地傳入登革熱　患者到過大馬和越南",
       "published": "2026-04-24T10:40:00+00:00",
-      "summary": "增3宗外地傳入登革熱 患者到過大馬和越南&nbsp;&nbsp;881903.com登革熱丨食環署:會研是否調低啟動加強控蚊門檻&nbsp;&nbsp;信報網站登革熱︱食環署「以蚊治蚊」 擬最快年底引進「絕育雄蚊」 交配產卵下一代無法發育&nbsp;&nbsp;stheadline.com今年首宗本地登革熱個案 歐家榮：爆發風險不能忽視&nbsp;&nbsp;紫荊網登革熱病徵、潛伏期是什麼？白紋伊蚊叮怎麼辦？一文看清預防方法&nbsp;&nbsp;香港01",
+      "summary": "增3宗外地傳入登革熱 患者到過大馬和越南&nbsp;&nbsp;881903.com食環署擬引進絕育雄蚊 以生物技術防治登革熱&nbsp;&nbsp;Singtaousa登革熱丨食環署:會研是否調低啟動加強控蚊門檻&nbsp;&nbsp;信報網站今年首宗本地登革熱個案 歐家榮：爆發風險不能忽視&nbsp;&nbsp;紫荊網登革熱病徵、潛伏期是什麼？白紋伊蚊叮怎麼辦？一文看清預防方法&nbsp;&nbsp;香港01",
       "sources": [
         {
           "name": "881903.com",
@@ -688,32 +701,6 @@
         {
           "name": "科技島",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlWnN4bGlVbEdMcmhJRzRJU1c5ZXNuLU5EODBfUFJqUm8tczY3OVZkakhxWVhucDdSdmJaenBlRXdqZTNORXZZNy1ValNHWW9XbWQ0WXE5WEZTMkZfUHdz?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1e1a336c3c15",
-      "title": "中大研究：嬰兒早期表觀遺傳及腸道微生態 或影響日後腦部發展",
-      "published": "2026-04-24T07:43:27+00:00",
-      "summary": "中大研究：嬰兒早期表觀遺傳及腸道微生態 或影響日後腦部發展&nbsp;&nbsp;橙新聞ADHD風險｜中大研究揭示嬰兒早期表觀遺傳改變及腸道微生態或影響日後腦部發展&nbsp;&nbsp;healthyD保持腸道健康 及早預防學童ADHD問題&nbsp;&nbsp;stheadline.com中大新發現：腸道菌群影響嬰兒腦發展- 港聞&nbsp;&nbsp;今日大公",
-      "sources": [
-        {
-          "name": "橙新聞",
-          "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxOcUhjdVZNUEs2RDBKRFlGWDFGWUlyRmJYTzhqR1U1cEk5UFNILXU5OVdlcGNjSk5XdUdnZk1kbVFja0FWMVZiOTNublQzYzFWUk1fMndlejVNb2YxVmxhdEEteHloSy1Ea0V5ODFiREtDX1c1QTh3b2FtbEdyVzl6bmpvYUtaU08xOGZFOW1uc0hDcjBuZUxJSkVvUzljbmNRN3Q0QWZzT1ZCTDB1ZFpfbmZibWtYZjRsQWgwTndHUDZuWi1rdmRZajE3NjJnZFhKcDJRVkpnWS1Dc1RGNmhjWWZPV1BlM25HUWdFUWg3TkM0V084UEZSODdOemE3c1I1cVpuOHk1Vk1QaVhDZlh0VWNGRkJMSHpEbEZkLU9XTTNYUk1qQmJGVHR1ZDJMRFMyeHA5U3hSYV9yMmRJRENuZXU1NWhrTHlvQmV6NTRSbHdtaThPME5QeHM4T2ZvWTZOQWhpTURiY0tSNGNzVjg3d1BoRmtmTFVTbVdaMUhwRnN6S1FTcGJlRzB6TWg2UTlKUHhZNTVDMVcwNllWSWtaV1lpNTA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5057c9424a00",
-      "title": "COVID-19 新研究：Paxlovid 助康復但難降重症率",
-      "published": "2026-04-24T07:07:00+00:00",
-      "summary": "COVID-19 新研究：Paxlovid 助康復但難降重症率&nbsp;&nbsp;行銷人",
-      "sources": [
-        {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQR1lyRzVUTnBLUmFGTEZSWjVJdVFzUlZVWUZPbzVfVGZpZ250T3VhTzEzdHFwRGJzVzdmVmQyLUpDblRQMzNXRjN6eHdFMjZsUF9DOEZyeDBuZ2pYNk5uR2VOU3FJT0w5UUZFSzFxcXJGLVRRWXlyX3F6TDZqa3hIeGhVbmNlWHpTMFVfWjNRM1JyUnUtMjdXQmdJdHZSVzRQRm0zcDdfU0h2V0NRUlFsRUNSV3RqdkgxSVVZYkVFUkF0dFRaTDBJNjBDRGZabEpmVFRCZTF3SFBqeGcwLXlSWDF3UVVVeU9zOE9TT1hEMU1ZdDBkeFRQc1U2Qmk0X2xWcEF6M05ybzRGWFhOY1FHZEt6WQ?oc=5"
         }
       ],
       "matched_keywords": []
