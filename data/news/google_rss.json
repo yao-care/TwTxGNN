@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-26T21:30:03.485239+00:00",
+  "fetched_at": "2026-04-26T22:29:02.161007+00:00",
   "count": 14,
   "news": [
-    {
-      "id": "da5fb2107b95",
-      "title": "噴完防蚊液還是被叮成「紅豆冰」？醫曝這些部位最常被遺漏 - 民報",
-      "published": "2026-04-26T08:53:46+00:00",
-      "summary": "噴完防蚊液還是被叮成「紅豆冰」？醫曝這些部位最常被遺漏&nbsp;&nbsp;民報",
-      "sources": [
-        {
-          "name": "民報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qdTlNV01HMTVLZEZfbFBfQloyX3Y4TkN6SnA0d0RPWDhtc3BEQVJkMWJtUHV1TmZaRjZqNDlKSU5CVFpMcnNuOW5pSXI5aTVrNldHZ19XbUFEMVhCVU9FMQ?oc=5"
-        }
-      ]
-    },
     {
       "id": "db2481e46f4d",
       "title": "肥胖不是小事！荷爾蒙改變、削弱免疫力 醫示警：罹癌風險增 - Yahoo新聞",
@@ -24,6 +12,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOT0FRa2JxTkttZTJIVnAzelNSekd6SElIenMycjAtdHVkdmxfYlVobGlPcVZOcXVLTHd0eGJ3WHI4VjVFTzg1T0lSajQ2Y1lEZlM2YzhJWEdoSW1Tb0VsTG5TNU5ONmpLUFJOelg4em1pQU13UTltTTgxUTFMb2NhbXhQMXlkUTVjZ0Z0OElqM250OWZIcEJPTTlkZ2M1RU9YR2ZaTUg2Z2pMWXBwY3ZFREpON0htbG9yZ1NuenZScUtvVTEzQ2JGcWQ3YWctbWQtZEQ5R29YYnhRcEIyZTVJVEZ2dDNJUzBSVWF1T1VScHF1TW54enBXUGJmc2NpX2hqU3poRjR0bUV3dld5bjBEMWhtOWJxRHJEcHFNZG10dkdfZXh2aEJHV29fTnNrRVpmajVvZUhDZnVhSFR3eGU5WUg4TWczc0ZwMWN6Z21ZOEZUNVlvdndya1JTdlB2Z3JTeThBazB6Y25iS0pxTzd3Ni14djM1TWdTU0pmWUtONW9QUjFy?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "da5fb2107b95",
+      "title": "噴完防蚊液還是被叮成「紅豆冰」？醫曝這些部位最常被遺漏 - 民報",
+      "published": "2026-04-26T08:53:46+00:00",
+      "summary": "噴完防蚊液還是被叮成「紅豆冰」？醫曝這些部位最常被遺漏&nbsp;&nbsp;民報",
+      "sources": [
+        {
+          "name": "民報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qdTlNV01HMTVLZEZfbFBfQloyX3Y4TkN6SnA0d0RPWDhtc3BEQVJkMWJtUHV1TmZaRjZqNDlKSU5CVFpMcnNuOW5pSXI5aTVrNldHZ19XbUFEMVhCVU9FMQ?oc=5"
         }
       ]
     },
@@ -76,14 +76,14 @@
       ]
     },
     {
-      "id": "8c71381e94ac",
-      "title": "醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康 - 東森新聞",
+      "id": "592e2d77668d",
+      "title": "醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康 - Yahoo新聞",
       "published": "2026-04-25T11:45:00+00:00",
-      "summary": "醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;東森新聞「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲癌症為何越來越年輕？關鍵可能不只是基因 | 科技新報&nbsp;&nbsp;LINE TODAY以為飲果汁好健康？醫生揭4大致癌飲料黑名單／日飲1杯胰臟癌風險狂飆87%&nbsp;&nbsp;U Food胰臟癌｜日飲1杯呢類飲品患胰臟癌風險激增87% 醫生點名4大高危飲品 戒3類食物保護腎臟&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;Yahoo新聞「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲癌症為何越來越年輕？關鍵可能不只是基因 | 科技新報&nbsp;&nbsp;LINE TODAY以為飲果汁好健康？醫生揭4大致癌飲料黑名單／日飲1杯胰臟癌風險狂飆87%&nbsp;&nbsp;U Food胰臟癌｜日飲1杯呢類飲品患胰臟癌風險激增87% 醫生點名4大高危飲品 戒3類食物保護腎臟&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WMm8yZE5GdTlCdmJNZWw2T3VPQjVLS25yMlo1dzhLR09QbVpWbm90SEtlTDRVMjdGVWhIU3pNNG5NQTFzZTZtVGlKUmRlMW5wb1gxMQ?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOT20wZkppVUU4azNsSUZmbHZYTEIyMHBHVFJiVnRTa1RURnAzS0lvZFpsVEQyV0RIYW02cFBnN21JLUNDeUtad1loRlFKQ0tWa21YU2JhbHZScnFGcHpkc0l5NGV1T2ZKWFlJX0VhanZUSDBnRFIzeEJZMXBmUGdwaTFxNmVkM3JnN2lIMjdUYUkwejRrOXpTLVBsal9kY1U0RjVsQzM5YmFsd3Q1SFhJTjFGTU9TcG5md1QxR2FEUkpUcVBITnhtYUlUZjliNWZiMVRWRUFJRDZLVUpDQkduNXgybXkyWEJmWGN5TjJ1VUdHZzRDRUF4S0x4RnN1TG9sZjlJVzdaR2hJRmU0bEF5ejB5MmE5NG1EVlFDVlpVNWt3OXUzd1pfU0trVmJXTWtGRTNHXy1ZQk9FMG80bnc?oc=5"
         }
       ]
     },
