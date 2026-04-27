@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [健康解碼｜病人氣喘腹痛求醫 竟是心臟衰竭警號 早診早治 扭轉致命危機](https://news.google.com/rss/articles/CBMi5wNBVV95cUxQb0FxTDJjSXBzTzdRclpqdmZrNzNGTEdNUVgwYV9raExrVWMzaHI2LWt4d0FkQWFmdHRoX2wzUDdwbHN6cXRLUlE1UHdfWUpWNGc4SURFRTlTa0lOXzRtaExNLTNjQkJVT3lKMFczeGoyTVg5d2dPMHdLRnNGVk1FQTlYX3FJbFZjeDc3eUYyNEZsdl9XVmFkVzB2TTNoc1lwS0JwelZvcUJXNWJDMXk0bzVGbVdlSWJrNW40ZnJOZkoxZlNBUUtFT3UtMERHcUNvQ2thMnpwekVMQ3lFaUxQWGtQd3ZIRXFrS0k1b2lKTm9QeEVma0h2UFBrY0xYeFNHMlM0NFhBVE5kX3Fmc0N5MGF1aXZlVnhaOWg4MEN1VkRrYXFuVC1oUFhyeWtWZ2JLWGROTElNYy02VnUwbGV4NHdjWEhXckhkaGhsQnE0QkN1cjNQZ0FzLXoxZC1MZElpYjUxWXZPem5xdE1uXzRsOEhhQ2VucE9udWlJeUxTLXBxbjdPT3k0eVB3c0xBYnU2UlEtRkxnSU1Ga2NQQklmS1NxbnJTcmtrX3U4Rm04dC14VDRIVTlWeXIxTDN3ZzFrSExWRnlTTC1Cc2FUYWRMUUx6NXBzUy1QYlN4eDlWSURMajJ4Tmpz?oc=5)
+
+2026-04-27 <span class="news-indication-tag">心臟衰竭</span> <span class="news-indication-tag">氣喘</span>
+
+來源：[am730](https://news.google.com/rss/articles/CBMi5wNBVV95cUxQb0FxTDJjSXBzTzdRclpqdmZrNzNGTEdNUVgwYV9raExrVWMzaHI2LWt4d0FkQWFmdHRoX2wzUDdwbHN6cXRLUlE1UHdfWUpWNGc4SURFRTlTa0lOXzRtaExNLTNjQkJVT3lKMFczeGoyTVg5d2dPMHdLRnNGVk1FQTlYX3FJbFZjeDc3eUYyNEZsdl9XVmFkVzB2TTNoc1lwS0JwelZvcUJXNWJDMXk0bzVGbVdlSWJrNW40ZnJOZkoxZlNBUUtFT3UtMERHcUNvQ2thMnpwekVMQ3lFaUxQWGtQd3ZIRXFrS0k1b2lKTm9QeEVma0h2UFBrY0xYeFNHMlM0NFhBVE5kX3Fmc0N5MGF1aXZlVnhaOWg4MEN1VkRrYXFuVC1oUFhyeWtWZ2JLWGROTElNYy02VnUwbGV4NHdjWEhXckhkaGhsQnE0QkN1cjNQZ0FzLXoxZC1MZElpYjUxWXZPem5xdE1uXzRsOEhhQ2VucE9udWlJeUxTLXBxbjdPT3k0eVB3c0xBYnU2UlEtRkxnSU1Ga2NQQklmS1NxbnJTcmtrX3U4Rm04dC14VDRIVTlWeXIxTDN3ZzFrSExWRnlTTC1Cc2FUYWRMUUx6NXBzUy1QYlN4eDlWSURMajJ4Tmpz?oc=5)
+
+---
 
 
 <div class="disclaimer">

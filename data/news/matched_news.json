@@ -1,8 +1,44 @@
 {
-  "last_updated": "2026-04-27T22:40:57.323854+00:00",
+  "last_updated": "2026-04-27T23:43:38.123233+00:00",
   "total_count": 17,
   "matched_count": 6,
   "news": [
+    {
+      "id": "acaaf4a2e4f2",
+      "title": "健康解碼｜病人氣喘腹痛求醫 竟是心臟衰竭警號 早診早治 扭轉致命危機",
+      "published": "2026-04-27T23:30:00+00:00",
+      "summary": "健康解碼｜病人氣喘腹痛求醫 竟是心臟衰竭警號 早診早治 扭轉致命危機&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQb0FxTDJjSXBzTzdRclpqdmZrNzNGTEdNUVgwYV9raExrVWMzaHI2LWt4d0FkQWFmdHRoX2wzUDdwbHN6cXRLUlE1UHdfWUpWNGc4SURFRTlTa0lOXzRtaExNLTNjQkJVT3lKMFczeGoyTVg5d2dPMHdLRnNGVk1FQTlYX3FJbFZjeDc3eUYyNEZsdl9XVmFkVzB2TTNoc1lwS0JwelZvcUJXNWJDMXk0bzVGbVdlSWJrNW40ZnJOZkoxZlNBUUtFT3UtMERHcUNvQ2thMnpwekVMQ3lFaUxQWGtQd3ZIRXFrS0k1b2lKTm9QeEVma0h2UFBrY0xYeFNHMlM0NFhBVE5kX3Fmc0N5MGF1aXZlVnhaOWg4MEN1VkRrYXFuVC1oUFhyeWtWZ2JLWGROTElNYy02VnUwbGV4NHdjWEhXckhkaGhsQnE0QkN1cjNQZ0FzLXoxZC1MZElpYjUxWXZPem5xdE1uXzRsOEhhQ2VucE9udWlJeUxTLXBxbjdPT3k0eVB3c0xBYnU2UlEtRkxnSU1Ga2NQQklmS1NxbnJTcmtrX3U4Rm04dC14VDRIVTlWeXIxTDN3ZzFrSExWRnlTTC1Cc2FUYWRMUUx6NXBzUy1QYlN4eDlWSURMajJ4Tmpz?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "心臟衰竭",
+          "keyword": "心臟衰竭",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "氣喘",
+          "keyword": "氣喘",
+          "related_drugs": [
+            {
+              "slug": "dupilumab",
+              "name": "Dupilumab"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "acbab3256717",
       "title": "科學家可能發現大腦轉向慢性疼痛",
@@ -448,14 +484,14 @@
       "matched_keywords": []
     },
     {
-      "id": "1dc302e92a2f",
+      "id": "8333a3c3b600",
       "title": "年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」",
-      "published": "2026-04-26T04:14:00+00:00",
-      "summary": "年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」&nbsp;&nbsp;自由健康網",
+      "published": "2026-04-26T04:35:22+00:00",
+      "summary": "年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kMXpFV3ZNaHl6bEpjdThQb3ZNbjdyWDdFZTcxT0NKOE1yOERNU1ZMSUo4NFZacTlxTEI5dEFSdFhsZzJNcmRQZ0M4QXE0UFk0Ul91YmN3UDJlNUlVSmtNYWwxNWzSAWpBVV95cUxOTTd2SnhLZzFVNFBTWHVTZTExMW1rcmdtcV9tZy11NUR4RWltZ21mSlJYd1hQYVFGVEd2dFVJcVl2TDFTUUM0bjF4SEpMZWJHX1drTy13YkVLb05oallFNUlkVEtjSDE1cUZB?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQRURmdF8tVFp4dkEwNGJFTW1YUjFKQW5kZDJlS2hnLVoyWkR1Z01UbURrV2FzQWpRUVZuWDl3VmUwT0d1VFA2NDd5MmdGSTQ5aTJtUVBKUXR2a3JqVEppaVFmWkpYMEZUU1M2M0x1X0plZ24yb0dJT3pfbGE5SG5lQ2FCWG1DZzRxX1hnTTR6SUxScThXTEhFOTNNZF9vd08tV09QQXoweFFueERJSFBYcWxVYWxJbjJJTGxEelZIMG0xcTRIVkV2LWdkYVRJM3IzOGpWTkUzVTdyc01tek8tWVpjWTFjRVhIQ0RtUmsxaVIwZE02ZVlyV1R6Wktwb1dobV9qMU9lRV9GWW44OHlHeW9MY091djRxYURvTjVQcGVJcHpXSFp6Zkd1VzYxR2FnNGhsbWZBdmJ6dFFLRlN3b3VVNzZRYTFib2VCNnFJMUxpWWFMMXBR?oc=5"
         }
       ],
       "matched_keywords": [
@@ -490,39 +526,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b1d3a8aa7b81",
-      "title": "年輕人不吸菸卻患肺癌 禍首是吃太多蔬果？",
-      "published": "2026-04-26T02:35:00+00:00",
-      "summary": "年輕人不吸菸卻患肺癌 禍首是吃太多蔬果？&nbsp;&nbsp;大纪元前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jQ3dqTDU1WXFrYmtqX2FlbW1TNjdRbjNDRU1EeVJVdmJMeUVGVUtSUm5Ea2twUGRKTGRpbVdFQ1FCQ2RXZjhnV2hNcXM2VkxjaDgyMFFpQTZUNmVvZVE5etIBZkFVX3lxTFBSYjRIejNQN1pwSnRDYnh2MzR4QnY5R0ZjOFc0T3l2UVE2RkJZQllOdFJ1OEZ2dXNtWnUxUlVXcUZEN1NlVjdYTDFvYm15OWFSSjc4RDdLVm9UWGtKTy12aVlLMHdtdw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
             }
           ]
         }

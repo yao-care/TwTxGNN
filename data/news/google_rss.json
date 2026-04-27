@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-27T22:40:53.336009+00:00",
+  "fetched_at": "2026-04-27T23:43:34.767494+00:00",
   "count": 17,
   "news": [
     {
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "acbab3256717",
-      "title": "科學家可能發現大腦轉向慢性疼痛 - arch-web.com.tw",
-      "published": "2026-04-27T16:55:50+00:00",
-      "summary": "科學家可能發現大腦轉向慢性疼痛&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNUmpleUhZYW51Vk1QNnV1bjRjUy12eUVEZTBiamRqcmlxWGdZeXZvLXA1c3M5QTY4bHIzLTRvNlVwNTR6RlNqZUxHeFdxX2NXaXdnblZkZUk1RjlXRWRPN2V4c0Z1N2pmd2hUZXdDaDdmeEtTcUxFYmd4bTBNM0htazF3OW5SMjE1bXpzT0cyM1NfTWh4clBBR25uTUpKNGNKMlEzc2ZpQWQ5SmN0Z09Ib2x5YWl3WDZLMERzb3dkY3hOX1NHampjdkRsS1J4NmV2Q2czdTBZU3IxOEJ4Y2tRYl91U181M0tGVUd6WGRWS0E3Z3RfRGVnSDV5QWxnMG9FUl9OallmRF9TcEljM0c3UVdMS3pMdkctSVJQM0tIRC1UVWpxdmdKNUlMaUwtU2oxWnc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9fc04215b822",
       "title": "當兵共用2物竟染菜花？苦主沒亂來衰遭分手 醫曝同行更慘：鼻孔也長 - 祝你健康",
       "published": "2026-04-27T15:10:41+00:00",
@@ -52,14 +40,26 @@
       ]
     },
     {
-      "id": "1dc302e92a2f",
-      "title": "年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 - 自由健康網",
-      "published": "2026-04-26T04:14:00+00:00",
-      "summary": "年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」&nbsp;&nbsp;自由健康網",
+      "id": "acbab3256717",
+      "title": "科學家可能發現大腦轉向慢性疼痛 - arch-web.com.tw",
+      "published": "2026-04-27T16:55:50+00:00",
+      "summary": "科學家可能發現大腦轉向慢性疼痛&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kMXpFV3ZNaHl6bEpjdThQb3ZNbjdyWDdFZTcxT0NKOE1yOERNU1ZMSUo4NFZacTlxTEI5dEFSdFhsZzJNcmRQZ0M4QXE0UFk0Ul91YmN3UDJlNUlVSmtNYWwxNWzSAWpBVV95cUxOTTd2SnhLZzFVNFBTWHVTZTExMW1rcmdtcV9tZy11NUR4RWltZ21mSlJYd1hQYVFGVEd2dFVJcVl2TDFTUUM0bjF4SEpMZWJHX1drTy13YkVLb05oallFNUlkVEtjSDE1cUZB?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNUmpleUhZYW51Vk1QNnV1bjRjUy12eUVEZTBiamRqcmlxWGdZeXZvLXA1c3M5QTY4bHIzLTRvNlVwNTR6RlNqZUxHeFdxX2NXaXdnblZkZUk1RjlXRWRPN2V4c0Z1N2pmd2hUZXdDaDdmeEtTcUxFYmd4bTBNM0htazF3OW5SMjE1bXpzT0cyM1NfTWh4clBBR25uTUpKNGNKMlEzc2ZpQWQ5SmN0Z09Ib2x5YWl3WDZLMERzb3dkY3hOX1NHampjdkRsS1J4NmV2Q2czdTBZU3IxOEJ4Y2tRYl91U181M0tGVUd6WGRWS0E3Z3RfRGVnSDV5QWxnMG9FUl9OallmRF9TcEljM0c3UVdMS3pMdkctSVJQM0tIRC1UVWpxdmdKNUlMaUwtU2oxWnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8333a3c3b600",
+      "title": "年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 - Yahoo新聞",
+      "published": "2026-04-26T04:35:22+00:00",
+      "summary": "年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQRURmdF8tVFp4dkEwNGJFTW1YUjFKQW5kZDJlS2hnLVoyWkR1Z01UbURrV2FzQWpRUVZuWDl3VmUwT0d1VFA2NDd5MmdGSTQ5aTJtUVBKUXR2a3JqVEppaVFmWkpYMEZUU1M2M0x1X0plZ24yb0dJT3pfbGE5SG5lQ2FCWG1DZzRxX1hnTTR6SUxScThXTEhFOTNNZF9vd08tV09QQXoweFFueERJSFBYcWxVYWxJbjJJTGxEelZIMG0xcTRIVkV2LWdkYVRJM3IzOGpWTkUzVTdyc01tek8tWVpjWTFjRVhIQ0RtUmsxaVIwZE02ZVlyV1R6Wktwb1dobV9qMU9lRV9GWW44OHlHeW9MY091djRxYURvTjVQcGVJcHpXSFp6Zkd1VzYxR2FnNGhsbWZBdmJ6dFFLRlN3b3VVNzZRYTFib2VCNnFJMUxpWWFMMXBR?oc=5"
         }
       ]
     },
@@ -112,18 +112,6 @@
       ]
     },
     {
-      "id": "8aee918f8c2c",
-      "title": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷 - ENN台灣電報",
-      "published": "2026-04-27T12:13:14+00:00",
-      "summary": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9ZZjlUZUNRaGVhYTRJSDJVUVctXzlYeWdNc3pyYjNxM2V4RmZYdjN0NFFkUGVtSFVLVHc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "49a34923c60c",
       "title": "為頭頸癌病友開啟新希望：BNCT講座雲嘉地區登場 大林慈濟展現整合照護實力 | 醫藥生技 | 商情 - 經濟日報",
       "published": "2026-04-27T02:01:14+00:00",
@@ -136,14 +124,14 @@
       ]
     },
     {
-      "id": "b1d3a8aa7b81",
-      "title": "年輕人不吸菸卻患肺癌 禍首是吃太多蔬果？ - 大纪元",
-      "published": "2026-04-26T02:35:00+00:00",
-      "summary": "年輕人不吸菸卻患肺癌 禍首是吃太多蔬果？&nbsp;&nbsp;大纪元前往 Google 新聞查看完整報導",
+      "id": "8aee918f8c2c",
+      "title": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷 - ENN台灣電報",
+      "published": "2026-04-27T12:13:14+00:00",
+      "summary": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷&nbsp;&nbsp;ENN台灣電報",
       "sources": [
         {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jQ3dqTDU1WXFrYmtqX2FlbW1TNjdRbjNDRU1EeVJVdmJMeUVGVUtSUm5Ea2twUGRKTGRpbVdFQ1FCQ2RXZjhnV2hNcXM2VkxjaDgyMFFpQTZUNmVvZVE5etIBZkFVX3lxTFBSYjRIejNQN1pwSnRDYnh2MzR4QnY5R0ZjOFc0T3l2UVE2RkJZQllOdFJ1OEZ2dXNtWnUxUlVXcUZEN1NlVjdYTDFvYm15OWFSSjc4RDdLVm9UWGtKTy12aVlLMHdtdw?oc=5"
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9ZZjlUZUNRaGVhYTRJSDJVUVctXzlYeWdNc3pyYjNxM2V4RmZYdjN0NFFkUGVtSFVLVHc?oc=5"
         }
       ]
     },
@@ -204,6 +192,18 @@
         {
           "name": "POPBEE",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ3VjNF9lbldXMzJyNVZKeDV5bmF2djNYdkEyN2JHMV9BOTdwZDdEbzFnazk3Z0Nldkg0WGVCQVhjZzdiMFNHWWRkcFB4SjVqSE9iVU1wTVFlSzhrQmRNU0sxUzNxS2ljcWoyWklQS2RjNTZ3aDZab3A2TmJTSGlCdnMwenlLY1JVd200S0xB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "acaaf4a2e4f2",
+      "title": "健康解碼｜病人氣喘腹痛求醫 竟是心臟衰竭警號 早診早治 扭轉致命危機 - am730",
+      "published": "2026-04-27T23:30:00+00:00",
+      "summary": "健康解碼｜病人氣喘腹痛求醫 竟是心臟衰竭警號 早診早治 扭轉致命危機&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQb0FxTDJjSXBzTzdRclpqdmZrNzNGTEdNUVgwYV9raExrVWMzaHI2LWt4d0FkQWFmdHRoX2wzUDdwbHN6cXRLUlE1UHdfWUpWNGc4SURFRTlTa0lOXzRtaExNLTNjQkJVT3lKMFczeGoyTVg5d2dPMHdLRnNGVk1FQTlYX3FJbFZjeDc3eUYyNEZsdl9XVmFkVzB2TTNoc1lwS0JwelZvcUJXNWJDMXk0bzVGbVdlSWJrNW40ZnJOZkoxZlNBUUtFT3UtMERHcUNvQ2thMnpwekVMQ3lFaUxQWGtQd3ZIRXFrS0k1b2lKTm9QeEVma0h2UFBrY0xYeFNHMlM0NFhBVE5kX3Fmc0N5MGF1aXZlVnhaOWg4MEN1VkRrYXFuVC1oUFhyeWtWZ2JLWGROTElNYy02VnUwbGV4NHdjWEhXckhkaGhsQnE0QkN1cjNQZ0FzLXoxZC1MZElpYjUxWXZPem5xdE1uXzRsOEhhQ2VucE9udWlJeUxTLXBxbjdPT3k0eVB3c0xBYnU2UlEtRkxnSU1Ga2NQQklmS1NxbnJTcmtrX3U4Rm04dC14VDRIVTlWeXIxTDN3ZzFrSExWRnlTTC1Cc2FUYWRMUUx6NXBzUy1QYlN4eDlWSURMajJ4Tmpz?oc=5"
         }
       ]
     }
