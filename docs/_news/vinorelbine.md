@@ -14,7 +14,7 @@ permalink: /news/vinorelbine/
 ---
 
 <p class="key-answer" data-question="Vinorelbine 有什麼相關新聞？">
-<strong>Vinorelbine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vinorelbine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/vinorelbine/
 <p><a href="{{ '/drugs/vinorelbine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [港大醫學院揭示癌症藥物抗藥性關鍵機制](https://news.google.com/rss/articles/CBMivgJBVV95cUxORWx1LUpBOWNZSkZqc3RYQk9Vc1ZPbDRacks1V0ZNdlMzMU9kVjNkM1BUaWFMaXBxQTZibmFENEswc1U5eHlvVzRIMHRHMjI2dW5IemF3cDZrazJxcnItWDEyWnB0bUhHY1c4SXU0SFVvelRfX2laa1c4TXRqWXREdHNETlY2U2JKY3dpRHZ4OUpsc0tGUjVMS1l4VGRXN1FYelFsckNoSE5yRVFKT25JcS13ZnpJc1dlSk5mZ3V1QUkwT2xoQllQSW1YaHhOTGI1WTRaNEVuTVBjLWtaYUZFdVdnS3Q4YnZxbU5SQTJzVGlFYklHSU8wN2Q4ZEdEMEtnZnR4dmpkT1FzbTdQZ1Fjb0dpNXY3ZXJRQVFzRHdJTVBjMzQzS1RwOUs3SE82c3B1NDNBR3puazFVZklaN0E?oc=5)
+
+2026-04-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+
+來源：[bastillepost.com](https://news.google.com/rss/articles/CBMivgJBVV95cUxORWx1LUpBOWNZSkZqc3RYQk9Vc1ZPbDRacks1V0ZNdlMzMU9kVjNkM1BUaWFMaXBxQTZibmFENEswc1U5eHlvVzRIMHRHMjI2dW5IemF3cDZrazJxcnItWDEyWnB0bUhHY1c4SXU0SFVvelRfX2laa1c4TXRqWXREdHNETlY2U2JKY3dpRHZ4OUpsc0tGUjVMS1l4VGRXN1FYelFsckNoSE5yRVFKT25JcS13ZnpJc1dlSk5mZ3V1QUkwT2xoQllQSW1YaHhOTGI1WTRaNEVuTVBjLWtaYUZFdVdnS3Q4YnZxbU5SQTJzVGlFYklHSU8wN2Q4ZEdEMEtnZnR4dmpkT1FzbTdQZ1Fjb0dpNXY3ZXJRQVFzRHdJTVBjMzQzS1RwOUs3SE82c3B1NDNBR3puazFVZklaN0E?oc=5)
+
+---
 
 ### [32歲女不菸又運動卻持續咳嗽 就醫發現肺癌四期嚇傻](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VWDZYRnRnSGhDR3g1T29wdWpybWlGSXBXaGZoUGdMX201YTNIeUJGM0NFUi1GZjg5NGVXME9td2xGR3BvZ1lOS01EUmJ4ZGdHZ1pSc1QtSlFpZG12N2RzWVdR0gFnQVVfeXFMT21WbGpMQjBZNlRrQjdaVjRWR3dCaHYxTU5RWXZjOHJlV3dDOExPV0l3RlZWN2o0ejRvalh2d0xGRDExWVZyS3ZkUFFrX1htUmtCNUhPc2JVRFdFRXZwVU1IWVJtdnVqWQ?oc=5)
 
 2026-04-27 <span class="news-indication-tag">肺癌</span>
 
-來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VWDZYRnRnSGhDR3g1T29wdWpybWlGSXBXaGZoUGdMX201YTNIeUJGM0NFUi1GZjg5NGVXME9td2xGR3BvZ1lOS01EUmJ4ZGdHZ1pSc1QtSlFpZG12N2RzWVdR0gFnQVVfeXFMT21WbGpMQjBZNlRrQjdaVjRWR3dCaHYxTU5RWXZjOHJlV3dDOExPV0l3RlZWN2o0ejRvalh2d0xGRDExWVZyS3ZkUFFrX1htUmtCNUhPc2JVRFdFRXZwVU1IWVJtdnVqWQ?oc=5)
+來源：[worldjournal.com](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VWDZYRnRnSGhDR3g1T29wdWpybWlGSXBXaGZoUGdMX201YTNIeUJGM0NFUi1GZjg5NGVXME9td2xGR3BvZ1lOS01EUmJ4ZGdHZ1pSc1QtSlFpZG12N2RzWVdR0gFnQVVfeXFMT21WbGpMQjBZNlRrQjdaVjRWR3dCaHYxTU5RWXZjOHJlV3dDOExPV0l3RlZWN2o0ejRvalh2d0xGRDExWVZyS3ZkUFFrX1htUmtCNUhPc2JVRFdFRXZwVU1IWVJtdnVqWQ?oc=5)
 
 ---
 

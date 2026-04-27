@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [港大醫學院揭示癌症藥物抗藥性關鍵機制](https://news.google.com/rss/articles/CBMivgJBVV95cUxORWx1LUpBOWNZSkZqc3RYQk9Vc1ZPbDRacks1V0ZNdlMzMU9kVjNkM1BUaWFMaXBxQTZibmFENEswc1U5eHlvVzRIMHRHMjI2dW5IemF3cDZrazJxcnItWDEyWnB0bUhHY1c4SXU0SFVvelRfX2laa1c4TXRqWXREdHNETlY2U2JKY3dpRHZ4OUpsc0tGUjVMS1l4VGRXN1FYelFsckNoSE5yRVFKT25JcS13ZnpJc1dlSk5mZ3V1QUkwT2xoQllQSW1YaHhOTGI1WTRaNEVuTVBjLWtaYUZFdVdnS3Q4YnZxbU5SQTJzVGlFYklHSU8wN2Q4ZEdEMEtnZnR4dmpkT1FzbTdQZ1Fjb0dpNXY3ZXJRQVFzRHdJTVBjMzQzS1RwOUs3SE82c3B1NDNBR3puazFVZklaN0E?oc=5)
+
+2026-04-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+
+來源：[bastillepost.com](https://news.google.com/rss/articles/CBMivgJBVV95cUxORWx1LUpBOWNZSkZqc3RYQk9Vc1ZPbDRacks1V0ZNdlMzMU9kVjNkM1BUaWFMaXBxQTZibmFENEswc1U5eHlvVzRIMHRHMjI2dW5IemF3cDZrazJxcnItWDEyWnB0bUhHY1c4SXU0SFVvelRfX2laa1c4TXRqWXREdHNETlY2U2JKY3dpRHZ4OUpsc0tGUjVMS1l4VGRXN1FYelFsckNoSE5yRVFKT25JcS13ZnpJc1dlSk5mZ3V1QUkwT2xoQllQSW1YaHhOTGI1WTRaNEVuTVBjLWtaYUZFdVdnS3Q4YnZxbU5SQTJzVGlFYklHSU8wN2Q4ZEdEMEtnZnR4dmpkT1FzbTdQZ1Fjb0dpNXY3ZXJRQVFzRHdJTVBjMzQzS1RwOUs3SE82c3B1NDNBR3puazFVZklaN0E?oc=5)
+
+---
 
 ### [為頭頸癌病友開啟新希望：BNCT講座雲嘉地區登場 大林慈濟展現整合照護實力 | 醫藥生技 | 商情](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xUGZsY0NNQVh4dFBHeXVpV1NHcmU2UGxnZ1NEbmNpZlI3Z1RmOVBtVko0ZnlEbEc1YUhBbjkyY21iOWRNWFNRd21lUkZJbmplaC1VRmdOMk05dw?oc=5)
 

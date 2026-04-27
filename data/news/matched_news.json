@@ -1,20 +1,411 @@
 {
-  "last_updated": "2026-04-27T10:54:17.994427+00:00",
+  "last_updated": "2026-04-27T12:16:47.754387+00:00",
   "total_count": 16,
-  "matched_count": 6,
+  "matched_count": 7,
   "news": [
     {
-      "id": "408b14f63e2f",
-      "title": "糙米藜麥比一比：專家揭示腸道健康關鍵，高纖蛋白有助維護腸道平衡",
-      "published": "2026-04-27T10:41:17+00:00",
-      "summary": "糙米藜麥比一比：專家揭示腸道健康關鍵，高纖蛋白有助維護腸道平衡&nbsp;&nbsp;商傳媒",
+      "id": "e88ea1a3ab71",
+      "title": "港大醫學院揭示癌症藥物抗藥性關鍵機制",
+      "published": "2026-04-27T08:36:42+00:00",
+      "summary": "港大醫學院揭示癌症藥物抗藥性關鍵機制&nbsp;&nbsp;bastillepost.com港大醫學院揭示癌症藥物抗藥性關鍵機制 - 新聞稿 - 傳媒 - 香港大學&nbsp;&nbsp;The University of Hong Kong (HKU)港大解鎖微管蛋白運作機制 克服癌症藥抗藥性現曙光&nbsp;&nbsp;on.cc東網癌症治療｜港大揭癌症藥有抗藥性關鍵 蛋白變異影響靶點 解鎖機制料能提升藥效&nbsp;&nbsp;香港經濟日報HKET癌症藥物｜同一種藥有人有效有人無效？港大揭抗藥性機制助研精準療法| 腫瘤及癌症&nbsp;&nbsp;東方新地",
       "sources": [
         {
-          "name": "商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQdFBZaUhRQ3lmTW0zMGdVUXBsdmFEQ1RSNm5nV1ZRTWthek5XaWFCQ1FLY1NZUFFrVGJ6Z0JXeFN1MkFDbGZ2MENMTmJPbi1xZ3RUWkNnNmROOTNPYmxRRkNiWWpSM1owb3kzRmk0blRXUlNwLUNNN3VVbDQtRlZEcHhvTE9oZ1VZNFV4c2JXbWF2cUVRcVNrTFhNQTd5R2NvQTlidnZ4MEdTUFZYTkladDdweUJQT3g3N21BM0lBZHdra1Z2UjZSekZOTEZrQ1ZjaVp6MTZOcjM3SG56WHZ2Nld6eEp0NWJoUzQ2aG84LS1rcFp5TWtiNHVWbjJIYkZBcE5ILUFsRjRJZmhVcWVQZEdVLXlKSXRtdlIxTGNlZ3hHdGwzYVBiWDAwYUR6ekZad3RUQmpSVXNuVUlCNWxrd1U1bUVqWEdaSXhnMWhLWm5OWEpZZjlqUzRDLTRJdWRFLUxXVklBeFJ1OTMzUS1wMTNpcGkzcmdFcV9RWW5WV29ycEphQkNXaWRKeml3YVdPbS1Jd3BObmp0cUo4ZWpKaTB6VE5CRENSRnBGNVp6c2JNRTJRck0wd0Z0YzRxaVRpT0o0Y3ZfclFsQQ?oc=5"
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxORWx1LUpBOWNZSkZqc3RYQk9Vc1ZPbDRacks1V0ZNdlMzMU9kVjNkM1BUaWFMaXBxQTZibmFENEswc1U5eHlvVzRIMHRHMjI2dW5IemF3cDZrazJxcnItWDEyWnB0bUhHY1c4SXU0SFVvelRfX2laa1c4TXRqWXREdHNETlY2U2JKY3dpRHZ4OUpsc0tGUjVMS1l4VGRXN1FYelFsckNoSE5yRVFKT25JcS13ZnpJc1dlSk5mZ3V1QUkwT2xoQllQSW1YaHhOTGI1WTRaNEVuTVBjLWtaYUZFdVdnS3Q4YnZxbU5SQTJzVGlFYklHSU8wN2Q4ZEdEMEtnZnR4dmpkT1FzbTdQZ1Fjb0dpNXY3ZXJRQVFzRHdJTVBjMzQzS1RwOUs3SE82c3B1NDNBR3puazFVZklaN0E?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腫瘤",
+          "keyword": "腫瘤",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "2a594cc691bb",
@@ -83,13 +474,13 @@
       ]
     },
     {
-      "id": "9b9334120751",
+      "id": "d6ebe700cc13",
       "title": "32歲女不菸又運動卻持續咳嗽 就醫發現肺癌四期嚇傻",
       "published": "2026-04-27T02:25:36+00:00",
-      "summary": "32歲女不菸又運動卻持續咳嗽 就醫發現肺癌四期嚇傻&nbsp;&nbsp;世界新聞網",
+      "summary": "32歲女不菸又運動卻持續咳嗽 就醫發現肺癌四期嚇傻&nbsp;&nbsp;worldjournal.com",
       "sources": [
         {
-          "name": "世界新聞網",
+          "name": "worldjournal.com",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VWDZYRnRnSGhDR3g1T29wdWpybWlGSXBXaGZoUGdMX201YTNIeUJGM0NFUi1GZjg5NGVXME9td2xGR3BvZ1lOS01EUmJ4ZGdHZ1pSc1QtSlFpZG12N2RzWVdR0gFnQVVfeXFMT21WbGpMQjBZNlRrQjdaVjRWR3dCaHYxTU5RWXZjOHJlV3dDOExPV0l3RlZWN2o0ejRvalh2d0xGRDExWVZyS3ZkUFFrX1htUmtCNUhPc2JVRFdFRXZwVU1IWVJtdnVqWQ?oc=5"
         }
       ],
@@ -412,6 +803,19 @@
       ]
     },
     {
+      "id": "d0b0853dcf93",
+      "title": "男子每日飯前飲湯驚揭患癌！醫生：做錯一事傷防護！列6類養癌食品名單奶茶都上榜！附6大防癌食物清單 - UHK 港生活",
+      "published": "2026-04-26T00:10:15+00:00",
+      "summary": "男子每日飯前飲湯驚揭患癌！醫生：做錯一事傷防護！列6類養癌食品名單奶茶都上榜！附6大防癌食物清單&nbsp;&nbsp;UHK 港生活醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;Yahoo新聞「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲40歲媽每天1杯果汁「喝出癌」 醫揭「3偽健康飲料」：身體變癌細胞溫床&nbsp;&nbsp;祝你健康討論牆 | 不是珍奶！這飲品「沒壞東西樣子」 喝10年癌細胞恐肆虐&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "UHK 港生活",
+          "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxOejRaVkFBOWlnX3pyOC03MTVmeWF6S2RXRlMza2N3aTRNMDROamxuMFhMVGJuQ3hrWmQ0Zi1iWVNGdE9SeUhIU1A3d1V6cFBYYkk2Y0dxeWpJTEFEck1XOFlVVWRHcWpkT3J4QzdsUUlXSWxZYkFxTi0xcUdzNUhJTlJYWkNna1YxUGRWMTB2NFM0ejA5QkFSUWdmdTRUdHFvQ1hyWjJ3ZkUtS05KLXhSalRHY29zMUxYMzBFTU81dEVkbHJfRVRDSTJiaU9WMkxadWpENUt5VWcxZjFvTFZ5d0ZpZ0xaSWlPdkctcWR6YVprLW1ONER1d2FTcEVObHNNOXVqanU3TVdLRlZicm1wcnVZZEwxcDVnZ3d3NVp1TEQ0SFhvczJSUXNfSW9mME1fU0J1YXVNVDlIcVpKNGMzM21WcE5FSkZrRzFLam53akZzTTZZWDR2MWNtdmFLTWlFSDNYalZmT2tkS3IyTGl1WFFUMHdWTDJYcW1qWjR1V001cnU4aEY0ekJwR3phclI4YlFtcExZNklsS2RzMXpNc1k4dTZEemlrRGRMbjFGeHN6TWxCZWY4OUtxeWZRUXlkQTBiNGtMNldhbUlacjEycHdiNHZpYnpjODJGa0l0eVFnUmFNUGRJdC1JUk5xNWp5WXE0TzFycjJQSDktV19YelJqUUhLYU9qYV8xcXFyRldXbG4wZ1kxQ2dXYWRVOHNhNTlIcg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "4b6e9d446694",
       "title": "隱藏在腸道中的病毒可能與結腸癌有關。",
       "published": "2026-04-25T21:20:34+00:00",
@@ -519,19 +923,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOM3RMblJxd3E4Zno5SmFTdUN1SkVUTmFkS25WcEJwYmJWMGdYSDgwVGVCQTlqVVVqbURnY1VrbDh6Z01pVkdCWDJYT1E2dXpwQjJaSW01Yzg2TGhKUTBKYWdtMk96bHgzNGtZWDRhcno5dGwxOVFqMldUcTlsYnptd1pOTEkycG9BWHI4aVk4eVFkbTZWMlhJc252TzRfbUtSN3NvZW5jRmk4V2wtWWxRRG52R0x5LUxRMVFocHpMd0pGMVpQRjFhQ2dzSTBFZEpFY0VEQVVDQS1qZVJSMDBMdUdGM1pLMVFUc0lDLUtJcUxZd05tSFp6VUJMMEJCcFc4MFZlZ2ZlZzhOVURZdGliSTZ1SlhYQThwcjhaVEhMTzhxZzRmY2NCRVpSZFg1djVwNHpmLTNwbEZZNDdOeGxWa2Z6S042dHdGU2kzcGNhYUV0QXJVdVZWRXZCSG9GN3lGeGZuMm5JVkF5QVlMOUNRcnpxelZwd1dsdXVZS3JiU0FpTHAx?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3d3911efd8cd",
-      "title": "醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康 | EBC 東森新聞 - LINE TODAY",
-      "published": "2026-04-25T12:19:34+00:00",
-      "summary": "醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康 | EBC 東森新聞&nbsp;&nbsp;LINE TODAY醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;Yahoo新聞「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲40歲媽每天1杯果汁「喝出癌」 醫揭「3偽健康飲料」：身體變癌細胞溫床&nbsp;&nbsp;祝你健康討論牆 | 不是珍奶！這飲品「沒壞東西樣子」 喝10年癌細胞恐肆虐&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LUlZqS0ozZ2xPdUotaG5hd252N1h4N3Zqb0JwZGlMSEFlbDRBc3FibmprQVI0SFRrazZPWEhHdXpkMi1lNU1IcWpsTlN5MmlvdW1Ja0d3?oc=5"
         }
       ],
       "matched_keywords": []
