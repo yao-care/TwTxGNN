@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,29 +41,21 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [重大研究顯示，接觸農藥與癌症風險增加 150% 相關](https://news.google.com/rss/articles/CBMi9AJBVV95cUxQTndtS1VieTF3bFNvTTN1TXdpcHlsTFVueVlHVHl3WVRxMFlKRWZCLWdkeUhZLTFhUXowbjh4Mm5HS3NUQmpqblVRV05jRENQNlI5RXNBbTVGdXBSZ0tBMVJhY2RDeHkyeENpTTZXdXlTOWx4cjc1MXdUeDBDUnRnWHFOUFdSbEYyaVNkc3RBSl93SG10aG9EZkRkWFlRS1ZUT1hmN0NTWHNoQ3ZmdnZhTlBiMWRiQUdIcDh4MFg0eFpSd2NWd2RYZjFJWGNxekFNS2tMcW44ZUpKVmJtNG1mNUlRSTRET0xpdG1qaFZqd0VSNDVBYW5jc3pzQnhPX25RZXJ3UWk5S0huS3BZYWJqb1JuLUhkT1VHR0oxYUJzQUR4RmY0eXZaU0JuN25IZG55V3ZKWXl2UEdDdWE1dmp4U1pOMk1PN3BKMUlNUEZDa2tOUi1sZTVFVUxFZ2FhTGdVMFZmekJLREwxRTdOSkpVcWVrZC0?oc=5)
 
-2026-04-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
+2026-04-27 <span class="news-indication-tag">癌症</span>
 
 來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi9AJBVV95cUxQTndtS1VieTF3bFNvTTN1TXdpcHlsTFVueVlHVHl3WVRxMFlKRWZCLWdkeUhZLTFhUXowbjh4Mm5HS3NUQmpqblVRV05jRENQNlI5RXNBbTVGdXBSZ0tBMVJhY2RDeHkyeENpTTZXdXlTOWx4cjc1MXdUeDBDUnRnWHFOUFdSbEYyaVNkc3RBSl93SG10aG9EZkRkWFlRS1ZUT1hmN0NTWHNoQ3ZmdnZhTlBiMWRiQUdIcDh4MFg0eFpSd2NWd2RYZjFJWGNxekFNS2tMcW44ZUpKVmJtNG1mNUlRSTRET0xpdG1qaFZqd0VSNDVBYW5jc3pzQnhPX25RZXJ3UWk5S0huS3BZYWJqb1JuLUhkT1VHR0oxYUJzQUR4RmY0eXZaU0JuN25IZG55V3ZKWXl2UEdDdWE1dmp4U1pOMk1PN3BKMUlNUEZDa2tOUi1sZTVFVUxFZ2FhTGdVMFZmekJLREwxRTdOSkpVcWVrZC0?oc=5)
 
 ---
 
-### [癌症藥物｜同一種藥有人有效有人無效？港大揭抗藥性機制助研精準療法| 腫瘤及癌症](https://news.google.com/rss/articles/CBMirgJBVV95cUxNU1VvWlBqT2JHbkJrcHBaVW03cldXdndkdnlpeHR1SlVNeGwzcUtsa1JBLWh0aTlVZjVRbFlyTW5qa0trR3Z5MDNDd3FaYklpUlZKckQyZExTcFNrallhaERnSEN0dWVPalVDZ2dMVmdYZkxxVHpOV0czZThvbzg3Q19oRzJXc3oyTTVZUzVyUEFadUtGeGZQcGRia3h4M0NmNHBzblNuYTE2MjhDbmVxd2V0Q2FWaWJJMHI4cEdxNV93cVlQa0Y1QTgzV2E5YlNlWkhQN3k2WlMzcjNYblVVNnFTam1aVEF5TEEyLXJyRk9FS1NfTlZva0Y1RUo2UjkxRVRPU0plLTZGeTNSU1EtWjVhTlFCOXdYY2xDM29Sd2R3YVRMQ2NPMk9EMzhzUQ?oc=5)
+### [每天睡幾小時最不容易失智？ 研究給答案：不是越多越好](https://news.google.com/rss/articles/CBMi6gJBVV95cUxQa0xpNEZMV3NqSGdrbG5uUEN2bE5DZllZMU45RHhrWXBXd0pvaFgzN1VwX25IOGZMTVFVUFJ1Mk1mNlVWNUh5T3dfa0FHakpVNml1anB0MXVOQVVFZEpxSU80UTRhekZnTnRGR1JhUHhtcmZkQ0hXZkp4emhuUFhyT0pWTGJBOWtBaVBVRWxGTVVOeXNqYnNlYkZ3WUs4VnZrTGRTT3BnVnBhdWlyck1ncnJXcW5WZXlCR2lHVElfVG4yWEhlYXFjMm9OeTB6emFaQVZvOXpLaUFhYkxPOFAxSW4zWndmOXNra0dDZXlSMlptdy1XZUx2WXJIVzF5em43STNqZmJEYVAyQnpXekE1emNxZXdXZWJCYzgwcXVUSERtNDM2M1Zjd3JMM0VneGVERi1XUVhFVW1sVVdPYnZVT00xek9vTThrb3JvT1Y3Y0hLY201R1RSVHU3RGM2UDVpMEl0LUlrOWFrUQ?oc=5)
 
-2026-04-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+2026-04-27 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[東方新地](https://news.google.com/rss/articles/CBMirgJBVV95cUxNU1VvWlBqT2JHbkJrcHBaVW03cldXdndkdnlpeHR1SlVNeGwzcUtsa1JBLWh0aTlVZjVRbFlyTW5qa0trR3Z5MDNDd3FaYklpUlZKckQyZExTcFNrallhaERnSEN0dWVPalVDZ2dMVmdYZkxxVHpOV0czZThvbzg3Q19oRzJXc3oyTTVZUzVyUEFadUtGeGZQcGRia3h4M0NmNHBzblNuYTE2MjhDbmVxd2V0Q2FWaWJJMHI4cEdxNV93cVlQa0Y1QTgzV2E5YlNlWkhQN3k2WlMzcjNYblVVNnFTam1aVEF5TEEyLXJyRk9FS1NfTlZva0Y1RUo2UjkxRVRPU0plLTZGeTNSU1EtWjVhTlFCOXdYY2xDM29Sd2R3YVRMQ2NPMk9EMzhzUQ?oc=5)
-
----
-
-### [「防失智最佳睡眠時間」曝！超過反增28%失智風險 | 三立新聞網 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tcDRxWDd5bGFVWi16RHFaVVhickl5ZnVDQ2R5a0ZvY3JuMVZlOVNfMlp4THlobzJBU0IzU1hFRFJpQVc2eDliX1J3aUJLTkpCUTRzOUVB?oc=5)
-
-2026-04-26 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tcDRxWDd5bGFVWi16RHFaVVhickl5ZnVDQ2R5a0ZvY3JuMVZlOVNfMlp4THlobzJBU0IzU1hFRFJpQVc2eDliX1J3aUJLTkpCUTRzOUVB?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi6gJBVV95cUxQa0xpNEZMV3NqSGdrbG5uUEN2bE5DZllZMU45RHhrWXBXd0pvaFgzN1VwX25IOGZMTVFVUFJ1Mk1mNlVWNUh5T3dfa0FHakpVNml1anB0MXVOQVVFZEpxSU80UTRhekZnTnRGR1JhUHhtcmZkQ0hXZkp4emhuUFhyT0pWTGJBOWtBaVBVRWxGTVVOeXNqYnNlYkZ3WUs4VnZrTGRTT3BnVnBhdWlyck1ncnJXcW5WZXlCR2lHVElfVG4yWEhlYXFjMm9OeTB6emFaQVZvOXpLaUFhYkxPOFAxSW4zWndmOXNra0dDZXlSMlptdy1XZUx2WXJIVzF5em43STNqZmJEYVAyQnpXekE1emNxZXdXZWJCYzgwcXVUSERtNDM2M1Zjd3JMM0VneGVERi1XUVhFVW1sVVdPYnZVT00xek9vTThrb3JvT1Y3Y0hLY201R1RSVHU3RGM2UDVpMEl0LUlrOWFrUQ?oc=5)
 
 ---
 
