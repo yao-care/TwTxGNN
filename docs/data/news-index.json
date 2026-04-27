@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-27T21:47:29.376985+00:00",
-  "count": 7,
+  "generated": "2026-04-27T22:40:57.359135+00:00",
+  "count": 6,
   "news": [
     {
       "id": "fd0c8d506bd1",
@@ -250,41 +250,6 @@
       ]
     },
     {
-      "id": "3f93c87dd209",
-      "title": "每天睡幾小時最不容易失智？ 研究給答案：不是越多越好",
-      "published": "2026-04-27T03:49:04+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQa0xpNEZMV3NqSGdrbG5uUEN2bE5DZllZMU45RHhrWXBXd0pvaFgzN1VwX25IOGZMTVFVUFJ1Mk1mNlVWNUh5T3dfa0FHakpVNml1anB0MXVOQVVFZEpxSU80UTRhekZnTnRGR1JhUHhtcmZkQ0hXZkp4emhuUFhyT0pWTGJBOWtBaVBVRWxGTVVOeXNqYnNlYkZ3WUs4VnZrTGRTT3BnVnBhdWlyck1ncnJXcW5WZXlCR2lHVElfVG4yWEhlYXFjMm9OeTB6emFaQVZvOXpLaUFhYkxPOFAxSW4zWndmOXNra0dDZXlSMlptdy1XZUx2WXJIVzF5em43STNqZmJEYVAyQnpXekE1emNxZXdXZWJCYzgwcXVUSERtNDM2M1Zjd3JMM0VneGVERi1XUVhFVW1sVVdPYnZVT00xek9vTThrb3JvT1Y3Y0hLY201R1RSVHU3RGM2UDVpMEl0LUlrOWFrUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "49a34923c60c",
       "title": "為頭頸癌病友開啟新希望：BNCT講座雲嘉地區登場 大林慈濟展現整合照護實力 | 醫藥生技 | 商情",
       "published": "2026-04-27T02:01:14+00:00",
@@ -313,13 +278,48 @@
       ]
     },
     {
-      "id": "524ed7b65492",
-      "title": "年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 | 自由電子報 - LINE TODAY",
-      "published": "2026-04-26T12:23:29+00:00",
+      "id": "cc6721f759ed",
+      "title": "「防失智最佳睡眠時間」曝！超過反增28%失智風險 | 三立新聞網 - LINE TODAY",
+      "published": "2026-04-26T23:39:49+00:00",
       "sources": [
         {
           "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZ3RzaV9TMTFseElWWmU4UTBsWWE0ZVd2cEt5ZlBWVlduUjZkbWJzUFFCdDlGYm1OVlJtZFQ4SmVxVWw4akxUb1hjTFFSUXlrQTdxMVpR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tcDRxWDd5bGFVWi16RHFaVVhickl5ZnVDQ2R5a0ZvY3JuMVZlOVNfMlp4THlobzJBU0IzU1hFRFJpQVc2eDliX1J3aUJLTkpCUTRzOUVB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1dc302e92a2f",
+      "title": "年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」",
+      "published": "2026-04-26T04:14:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kMXpFV3ZNaHl6bEpjdThQb3ZNbjdyWDdFZTcxT0NKOE1yOERNU1ZMSUo4NFZacTlxTEI5dEFSdFhsZzJNcmRQZ0M4QXE0UFk0Ul91YmN3UDJlNUlVSmtNYWwxNWzSAWpBVV95cUxOTTd2SnhLZzFVNFBTWHVTZTExMW1rcmdtcV9tZy11NUR4RWltZ21mSlJYd1hQYVFGVEd2dFVJcVl2TDFTUUM0bjF4SEpMZWJHX1drTy13YkVLb05oallFNUlkVEtjSDE1cUZB?oc=5"
         }
       ],
       "keywords": [
@@ -386,53 +386,6 @@
             {
               "slug": "vinorelbine",
               "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4b6e9d446694",
-      "title": "隱藏在腸道中的病毒可能與結腸癌有關。",
-      "published": "2026-04-25T21:20:34+00:00",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNVFE3TUROX1k2MkdVYm1ySENhVkljZHJwNkhiYWVaU284Rkgyc01NRE1BbXY3dlpVRTVRRENXNnhmclFHcXp5OFBfUHpTcjlDdTB0YUxVRmVSNnc0QTFadE0tMElKQkxhenU1T3JBVFVzTnNkTk4zVF9zS1Rjc2l4MHBXaEZ2VjlnWnNtYXc5c2NmM3pUTTI0UXdlUVZCT3R0cjkwQWRNc2JqdlRpX0ZWOW5fTUxjaG44VllEUWRqVXNUS0tYaVZlZ3pxcmhHWTF1d1VMVGZQTGJvM1Z3cmtKRTllWFoyNGRQZXFMS1laYnRHdWV3OTc5WFJ0T25yWTZrZklycmJ2Q1liemFtT21fZkt3dUpkY2hqZXdqMWs3U21Dby1vSEExT2xqTElDOERIY3lPT0c5OWpfNzBKTk5fWUMtaXczSEJHTUdjQmxCaFVPQk53M0E?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "結腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
