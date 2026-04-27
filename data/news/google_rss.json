@@ -1,41 +1,53 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-27T12:16:43.084495+00:00",
-  "count": 16,
+  "fetched_at": "2026-04-27T14:58:45.011765+00:00",
+  "count": 17,
   "news": [
     {
-      "id": "e88ea1a3ab71",
-      "title": "港大醫學院揭示癌症藥物抗藥性關鍵機制 - bastillepost.com",
-      "published": "2026-04-27T08:36:42+00:00",
-      "summary": "港大醫學院揭示癌症藥物抗藥性關鍵機制&nbsp;&nbsp;bastillepost.com港大醫學院揭示癌症藥物抗藥性關鍵機制 - 新聞稿 - 傳媒 - 香港大學&nbsp;&nbsp;The University of Hong Kong (HKU)港大解鎖微管蛋白運作機制 克服癌症藥抗藥性現曙光&nbsp;&nbsp;on.cc東網癌症治療｜港大揭癌症藥有抗藥性關鍵 蛋白變異影響靶點 解鎖機制料能提升藥效&nbsp;&nbsp;香港經濟日報HKET癌症藥物｜同一種藥有人有效有人無效？港大揭抗藥性機制助研精準療法| 腫瘤及癌症&nbsp;&nbsp;東方新地",
+      "id": "19bc963919d8",
+      "title": "《減重》終止瘦瘦針停藥復胖魔咒！創新的「腸道重置」微創手術，助患者鎖住減重成果！ - genetinfo.com",
+      "published": "2026-04-27T13:28:23+00:00",
+      "summary": "《減重》終止瘦瘦針停藥復胖魔咒！創新的「腸道重置」微創手術，助患者鎖住減重成果！&nbsp;&nbsp;genetinfo.com",
       "sources": [
         {
-          "name": "bastillepost.com",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxORWx1LUpBOWNZSkZqc3RYQk9Vc1ZPbDRacks1V0ZNdlMzMU9kVjNkM1BUaWFMaXBxQTZibmFENEswc1U5eHlvVzRIMHRHMjI2dW5IemF3cDZrazJxcnItWDEyWnB0bUhHY1c4SXU0SFVvelRfX2laa1c4TXRqWXREdHNETlY2U2JKY3dpRHZ4OUpsc0tGUjVMS1l4VGRXN1FYelFsckNoSE5yRVFKT25JcS13ZnpJc1dlSk5mZ3V1QUkwT2xoQllQSW1YaHhOTGI1WTRaNEVuTVBjLWtaYUZFdVdnS3Q4YnZxbU5SQTJzVGlFYklHSU8wN2Q4ZEdEMEtnZnR4dmpkT1FzbTdQZ1Fjb0dpNXY3ZXJRQVFzRHdJTVBjMzQzS1RwOUs3SE82c3B1NDNBR3puazFVZklaN0E?oc=5"
+          "name": "genetinfo.com",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPQmxzcHF6eV9Yb0Zjc0ZFVGlNM2VHU1dHR3RLdUR0TEUwT1o2WDJUYkhLUmxhQVVCZ09naG53WGZwdTh2cElGUnJPTy0tbEpnX0g4dVhFR1JJSl93LW5OMFB2LVZQOFpYTTdTOQ?oc=5"
         }
       ]
     },
     {
-      "id": "2a594cc691bb",
-      "title": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷 - 蕃新聞",
-      "published": "2026-04-27T08:05:00+00:00",
-      "summary": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷&nbsp;&nbsp;蕃新聞",
+      "id": "410db4d5ef1e",
+      "title": "癌症藥物｜同一種藥有人有效有人無效？港大揭抗藥性機制助研精準療法| 腫瘤及癌症 - 東方新地",
+      "published": "2026-04-27T10:19:52+00:00",
+      "summary": "癌症藥物｜同一種藥有人有效有人無效？港大揭抗藥性機制助研精準療法| 腫瘤及癌症&nbsp;&nbsp;東方新地抗癌藥為何常失敗？研究揭關鍵誤判：把「舞台監督」當演員&nbsp;&nbsp;health.ltn.com.tw港大解鎖微管蛋白運作機制 克服癌症藥抗藥性現曙光&nbsp;&nbsp;on.cc東網港大醫學院揭示癌症藥物抗藥性關鍵機制 - 新聞稿 - 傳媒 - 香港大學&nbsp;&nbsp;The University of Hong Kong (HKU)癌症治療｜港大揭癌症藥有抗藥性關鍵 蛋白變異影響靶點 解鎖機制料能提升藥效&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xV09TQVQ4Yjd6V2UwdFVvVk5WMkJHbGdOVU9mYzN0RlJDZnI4elIwVkd3RlRhQ21GV18wVHA3d1Z1aDlSbngxMUFrY0NKSVlnc2c?oc=5"
+          "name": "東方新地",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNU1VvWlBqT2JHbkJrcHBaVW03cldXdndkdnlpeHR1SlVNeGwzcUtsa1JBLWh0aTlVZjVRbFlyTW5qa0trR3Z5MDNDd3FaYklpUlZKckQyZExTcFNrallhaERnSEN0dWVPalVDZ2dMVmdYZkxxVHpOV0czZThvbzg3Q19oRzJXc3oyTTVZUzVyUEFadUtGeGZQcGRia3h4M0NmNHBzblNuYTE2MjhDbmVxd2V0Q2FWaWJJMHI4cEdxNV93cVlQa0Y1QTgzV2E5YlNlWkhQN3k2WlMzcjNYblVVNnFTam1aVEF5TEEyLXJyRk9FS1NfTlZva0Y1RUo2UjkxRVRPU0plLTZGeTNSU1EtWjVhTlFCOXdYY2xDM29Sd2R3YVRMQ2NPMk9EMzhzUQ?oc=5"
         }
       ]
     },
     {
-      "id": "5f5b57c34acf",
-      "title": "美國太空總署微型IV液生成器抵國際太空站 革新太空人深空醫療照護 - 蕃新聞",
-      "published": "2026-04-27T06:05:00+00:00",
-      "summary": "美國太空總署微型IV液生成器抵國際太空站 革新太空人深空醫療照護&nbsp;&nbsp;蕃新聞",
+      "id": "ee0b639fd755",
+      "title": "沒性行為也會染菜花！醫曝職災慘例 鼻孔、腳趾都中鏢 - Yahoo新聞",
+      "published": "2026-04-27T13:04:40+00:00",
+      "summary": "沒性行為也會染菜花！醫曝職災慘例 鼻孔、腳趾都中鏢&nbsp;&nbsp;Yahoo新聞沒性行為…當兵「共用2物」衰染菜花！醫親揭職災：鼻孔裡也長&nbsp;&nbsp;ETtoday健康雲沒性行為也會染菜花！醫曝職災慘例鼻孔、腳趾都中鏢- 生活&nbsp;&nbsp;中時新聞網【都在當兵！同梯弟兄「染菜花」醫揭職災：鼻孔裡也長】 （#大表哥）&nbsp;&nbsp;facebook.com醫起看／他當兵「共用2物」染菜花 泌尿科醫師解釋原因&nbsp;&nbsp;news.ebc.net.tw",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01LVpmNVRtbGxxWEdERkdOWmszRkl2THUzbGJkMEUydW5ZUW5IRFh5UFpSd2JvS0hCQzJLbjVWbHR1U0dmTmVqNXNpeHo4RU9YaHc?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPVnlWZXZvZkZVWHhpdF9LQ2JXc0J3bEYwTDhEUEJwVXNtR0VrcWZKa0Vub19VWjdiRVNnQUJvNi1VSDB6ZFJwYUc2d3VnT3RVc3ZnbVdnMFVhWFNXelNMX01mQVUtUl81OXJ5dUxqUWZTdDRBSWdsbGt4bzBLX2wwdXAxa3BSQmpkVFEtSTRpRkp1RjZaNWZGZzAwYWY4UGIzTFZMTy1TZFVnLThoUlRGM0JuV1VZckZiWlpOOFphSE1qUkhQNURCRVdjMnNYZ015UHZGU1NuSlRNdWpLczRiZVFBQ2tTYjgzR2c2ancwa0F5ZEJ5OVh5UjhzX2dHeUsySUttVzlSVkloRWp3bDc2UzlqNTVkSEd2TEVLd0pBcDlQUzNFS3hRUmhoZk9scHZ4WXpfVFVoQ1pIazVUYVg3dVhOa0RHeVRvYlhhWGpZcE5ET2QzWlVrSWFfWjNUUUU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8aee918f8c2c",
+      "title": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷 - ENN台灣電報",
+      "published": "2026-04-27T12:11:15+00:00",
+      "summary": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷&nbsp;&nbsp;ENN台灣電報",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9ZZjlUZUNRaGVhYTRJSDJVUVctXzlYeWdNc3pyYjNxM2V4RmZYdjN0NFFkUGVtSFVLVHc?oc=5"
         }
       ]
     },
@@ -67,7 +79,7 @@
       "id": "268b2c4563f2",
       "title": "年輕人不吸菸卻患肺癌 禍首是吃太多蔬果？ - epochtimes.com",
       "published": "2026-04-26T02:35:00+00:00",
-      "summary": "年輕人不吸菸卻患肺癌 禍首是吃太多蔬果？&nbsp;&nbsp;epochtimes.com不吸菸年輕人肺癌增！ 研究：高蔬果攝取者確診率偏高但原因未明&nbsp;&nbsp;自由健康網重大研究顯示，接觸農藥與癌症風險增加 150% 相關&nbsp;&nbsp;arch-web.com.tw健康飲食竟與年輕肺癌相關？最新研究引發學界震撼&nbsp;&nbsp;Taiwan News50歲以下無菸族肺癌風險竟上升 美研究曝：愛吃生菜沙拉者風險較高 | 新頭殼&nbsp;&nbsp;LINE TODAY",
+      "summary": "年輕人不吸菸卻患肺癌 禍首是吃太多蔬果？&nbsp;&nbsp;epochtimes.com不吸菸年輕人肺癌增！ 研究：高蔬果攝取者確診率偏高但原因未明&nbsp;&nbsp;health.ltn.com.tw重大研究顯示，接觸農藥與癌症風險增加 150% 相關&nbsp;&nbsp;arch-web.com.tw健康飲食竟與年輕肺癌相關？最新研究引發學界震撼&nbsp;&nbsp;Taiwan News50歲以下無菸族肺癌風險竟上升 美研究曝：愛吃生菜沙拉者風險較高 | 新頭殼&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "epochtimes.com",
@@ -88,18 +100,6 @@
       ]
     },
     {
-      "id": "dc60c779553c",
-      "title": "症狀像感冒卻恐致命 呼吸道融合病毒是被低估的肺炎元兇 - epochtimes.com",
-      "published": "2026-04-27T05:00:00+00:00",
-      "summary": "症狀像感冒卻恐致命 呼吸道融合病毒是被低估的肺炎元兇&nbsp;&nbsp;epochtimes.com幫家中長輩注意RSV！防肺炎、中風等風險，預防策略一次看&nbsp;&nbsp;蕃新聞RSV不是幼兒專利…家庭交叉傳染 長者肺炎發生率為流感2.7倍&nbsp;&nbsp;元氣網嬰幼兒呼吸道殺手！醫曝RSV預防新里程 單株抗體體給寶寶直接保護&nbsp;&nbsp;三立新聞網SETN.com",
-      "sources": [
-        {
-          "name": "epochtimes.com",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wMW5RMnktajlUYzJXaGJDN09xWHozUU1zUW1wTFVERWt3WVNxdUVBOWUyT1gtSzJYNm54S1dQRjg2YkoxdEl4M0xENVJ5T2pEUnJWNm91bndRSXY2LTBmd9IBZkFVX3lxTFBteHBkaWpvSzZRWnJiSjJwNXVRQVdFdlBKVkE4NUV6U1otWnpHUVVmRzZPeWdDQW9BcllDbV81SkNWcktzRXZoOXlabl9yeEEzTHNBMmYzVmU5aEtQN0p5SU5OWUhPZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b9e188bae310",
       "title": "哈佛大學的科學家透過隱藏的發炎觸發因素將腸道細菌與憂鬱症聯繫起來。 - arch-web.com.tw",
       "published": "2026-04-25T16:47:25+00:00",
@@ -108,6 +108,18 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQVTRlY0tZQ1hHQ2pEcFlkQ1FpWlhOTVBoN0piTDVMQWYzV1RrUmJqXzZjRzJnTGhXUERpLUNZeGRZVGVVc2JlRWQ1ZVFETUlhUXRsaDNTSVpsYmZCY3E0YmEzRFIycUxCVW1tbUFvTjVXT3Nwb3VzZWwyWGR6QmNCdW5WSGpRVmkwTnVweUFKVzFvSVc1WUJpdExvUU10SnlVeUdNNmZsVF9KSmx0NDUtaFdOSzVCckMyWEJTMUpia0FnM1hBLVVzMDVBbkVwd1RTRzBLanJaeWNaQTd4ZHZ4Vk9fSVhIWWt1WWNuLXhjQjJzNl9PdEhha0hlVkNET2hUSkZPVUl5ajBLbjFaRkpBM2xRMWw1MjdyOFdQWmdsMUlOb3NlVzBKbzVta1IyT1NYSXQ2Nm9FVHNtZnZ3cllVeXFsYVR6Z2dXSkZiNEl5cmFtVDNmUG4xZ0VfWkVhXzZFLVFlcHNUYkhRV09LMUR3UnNJU21IRURpUWNXSmJpRXBHT1lnVHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dc60c779553c",
+      "title": "症狀像感冒卻恐致命 呼吸道融合病毒是被低估的肺炎元兇 - epochtimes.com",
+      "published": "2026-04-27T05:00:00+00:00",
+      "summary": "症狀像感冒卻恐致命 呼吸道融合病毒是被低估的肺炎元兇&nbsp;&nbsp;epochtimes.com幫家中長輩注意RSV！防肺炎、中風等風險，預防策略一次看&nbsp;&nbsp;蕃新聞RSV不是幼兒專利…家庭交叉傳染 長者肺炎發生率為流感2.7倍&nbsp;&nbsp;元氣網嬰幼兒呼吸道殺手！醫曝RSV預防新里程 單株抗體體給寶寶直接保護&nbsp;&nbsp;三立新聞網SETN.com",
+      "sources": [
+        {
+          "name": "epochtimes.com",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wMW5RMnktajlUYzJXaGJDN09xWHozUU1zUW1wTFVERWt3WVNxdUVBOWUyT1gtSzJYNm54S1dQRjg2YkoxdEl4M0xENVJ5T2pEUnJWNm91bndRSXY2LTBmd9IBZkFVX3lxTFBteHBkaWpvSzZRWnJiSjJwNXVRQVdFdlBKVkE4NUV6U1otWnpHUVVmRzZPeWdDQW9BcllDbV81SkNWcktzRXZoOXlabl9yeEEzTHNBMmYzVmU5aEtQN0p5SU5OWUhPZw?oc=5"
         }
       ]
     },
