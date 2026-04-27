@@ -1,7 +1,67 @@
 {
-  "generated": "2026-04-27T01:57:58.557953+00:00",
-  "count": 3,
+  "generated": "2026-04-27T05:23:12.556931+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "9b9334120751",
+      "title": "32歲女不菸又運動卻持續咳嗽 就醫發現肺癌四期嚇傻",
+      "published": "2026-04-27T02:25:36+00:00",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VWDZYRnRnSGhDR3g1T29wdWpybWlGSXBXaGZoUGdMX201YTNIeUJGM0NFUi1GZjg5NGVXME9td2xGR3BvZ1lOS01EUmJ4ZGdHZ1pSc1QtSlFpZG12N2RzWVdR0gFnQVVfeXFMT21WbGpMQjBZNlRrQjdaVjRWR3dCaHYxTU5RWXZjOHJlV3dDOExPV0l3RlZWN2o0ejRvalh2d0xGRDExWVZyS3ZkUFFrX1htUmtCNUhPc2JVRFdFRXZwVU1IWVJtdnVqWQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "49a34923c60c",
+      "title": "為頭頸癌病友開啟新希望：BNCT講座雲嘉地區登場 大林慈濟展現整合照護實力 | 醫藥生技 | 商情",
+      "published": "2026-04-27T02:01:14+00:00",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xUGZsY0NNQVh4dFBHeXVpV1NHcmU2UGxnZ1NEbmNpZlI3Z1RmOVBtVko0ZnlEbEc1YUhBbjkyY21iOWRNWFNRd21lUkZJbmplaC1VRmdOMk05dw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "頭頸癌",
+          "keyword": "頭頸癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "4b6e9d446694",
       "title": "隱藏在腸道中的病毒可能與結腸癌有關。",
@@ -68,41 +128,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ac1d5a1be04e",
-      "title": "別只關注久坐傷身 最新研究：坐著時「做對事」可預防失智症",
-      "published": "2026-04-25T01:09:25+00:00",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94TDVrN1lOQ0pLalRyaEtlSU95d19ydTlZcXpoX1pPR29YRUFIdEN0dVg3RlNhQll4YlBHcGFuWFlwbkVzc1pKZXNBNFFNY2psTFBkX3ZUTGh2aXFxNEhSbTJvQdIBY0FVX3lxTE94TDVrN1lOQ0pLalRyaEtlSU95d19ydTlZcXpoX1pPR29YRUFIdEN0dVg3RlNhQll4YlBHcGFuWFlwbkVzc1pKZXNBNFFNY2psTFBkX3ZUTGh2aXFxNEhSbTJvQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

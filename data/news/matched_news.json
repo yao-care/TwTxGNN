@@ -1,30 +1,92 @@
 {
-  "last_updated": "2026-04-27T01:57:58.528755+00:00",
-  "total_count": 13,
-  "matched_count": 3,
+  "last_updated": "2026-04-27T05:23:12.528174+00:00",
+  "total_count": 15,
+  "matched_count": 4,
   "news": [
     {
-      "id": "fe1b16aedd4d",
-      "title": "每天一顆維他命 真能變年輕？研究揭老化關鍵",
-      "published": "2026-04-26T11:00:00+00:00",
-      "summary": "每天一顆維他命 真能變年輕？研究揭老化關鍵&nbsp;&nbsp;epochtimes.com",
+      "id": "9b9334120751",
+      "title": "32歲女不菸又運動卻持續咳嗽 就醫發現肺癌四期嚇傻",
+      "published": "2026-04-27T02:25:36+00:00",
+      "summary": "32歲女不菸又運動卻持續咳嗽 就醫發現肺癌四期嚇傻&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "epochtimes.com",
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VWDZYRnRnSGhDR3g1T29wdWpybWlGSXBXaGZoUGdMX201YTNIeUJGM0NFUi1GZjg5NGVXME9td2xGR3BvZ1lOS01EUmJ4ZGdHZ1pSc1QtSlFpZG12N2RzWVdR0gFnQVVfeXFMT21WbGpMQjBZNlRrQjdaVjRWR3dCaHYxTU5RWXZjOHJlV3dDOExPV0l3RlZWN2o0ejRvalh2d0xGRDExWVZyS3ZkUFFrX1htUmtCNUhPc2JVRFdFRXZwVU1IWVJtdnVqWQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "49a34923c60c",
+      "title": "為頭頸癌病友開啟新希望：BNCT講座雲嘉地區登場 大林慈濟展現整合照護實力 | 醫藥生技 | 商情",
+      "published": "2026-04-27T02:01:14+00:00",
+      "summary": "為頭頸癌病友開啟新希望：BNCT講座雲嘉地區登場 大林慈濟展現整合照護實力 | 醫藥生技 | 商情&nbsp;&nbsp;經濟日報",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xUGZsY0NNQVh4dFBHeXVpV1NHcmU2UGxnZ1NEbmNpZlI3Z1RmOVBtVko0ZnlEbEc1YUhBbjkyY21iOWRNWFNRd21lUkZJbmplaC1VRmdOMk05dw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "頭頸癌",
+          "keyword": "頭頸癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c8b8587032e1",
+      "title": "每天一顆維他命 真能變年輕？研究揭老化關鍵",
+      "published": "2026-04-26T11:00:00+00:00",
+      "summary": "每天一顆維他命 真能變年輕？研究揭老化關鍵&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HRzZXQVhnUU1mMVJ3TjdQRWtKalJUaTBzRENYdURKMGZka3EwTzZpSk1EMGVjZ3hmaHFGZjZ1blpQYlB4WFFpdEZpSUVLWjcwak9aTXhiMnljSUdFMHNnctIBZkFVX3lxTE15bUFQZ3RBTUZtd1JqSUIzTVdPZG1ESmdmMGpjc1hYc2E1MHRUOEJHQXh3ZWxIOXRVR2ZVTWw0RDA5eXgxV1pCZkZQZFE3V25lbWZreTFZVWpIUEhMNDYxclV4UE1LUQ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "da5fb2107b95",
+      "id": "a7de2db17295",
       "title": "噴完防蚊液還是被叮成「紅豆冰」？醫曝這些部位最常被遺漏",
-      "published": "2026-04-26T08:53:46+00:00",
-      "summary": "噴完防蚊液還是被叮成「紅豆冰」？醫曝這些部位最常被遺漏&nbsp;&nbsp;民報",
+      "published": "2026-04-26T08:50:39+00:00",
+      "summary": "噴完防蚊液還是被叮成「紅豆冰」？醫曝這些部位最常被遺漏&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "民報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qdTlNV01HMTVLZEZfbFBfQloyX3Y4TkN6SnA0d0RPWDhtc3BEQVJkMWJtUHV1TmZaRjZqNDlKSU5CVFpMcnNuOW5pSXI5aTVrNldHZ19XbUFEMVhCVU9FMQ?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxORUh2eDVrbUJ4VkRxalRMOHRuZkRTMTNsT2NfZmFhM1FkZDRJbDJ3ZGk3OF9KMWdLOEktNG16Ykt4Z2p5QXQ3WThaRXZCRlBzaWNtV2d1OWIyajlfQnNRdmRXcTBNMXZSejRoSU5sUlpiVGM2OHJlUlNOam1IaGl2MTktdlQ4NDFLdXh5VTlEMGRVdWJpQlhSQlR5UFdPSDdNWFF3M3FwQlFZNVVSS0w1eC1zNDhzb2ZVM05vTTU2VzJ0RlEyNTRKc0o3WExOUDBEVUJ4ZS01S0RCWFJlOW4zak84cXBZMHgzNXprUFFpTDB2SDYxY3UtZHd2Vlpyc2lYaGt1QnNpN05OZjNDeWlWY3ZndDgwQnBraXFHSVY0ZGpGc3lRaEc3MTlxX3hkOHNtc2ZKam1neE5KT21JN2FxWnk3cGp2N2o1MUlrVElXRy1Hb2wxaXRfRFZsa2JzX3VqY1FuTUxmOHBwZXNKaEdQRHYwaTBpUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -181,14 +243,27 @@
       "matched_keywords": []
     },
     {
-      "id": "db2481e46f4d",
-      "title": "肥胖不是小事！荷爾蒙改變、削弱免疫力 醫示警：罹癌風險增",
-      "published": "2026-04-25T07:45:08+00:00",
-      "summary": "肥胖不是小事！荷爾蒙改變、削弱免疫力 醫示警：罹癌風險增&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
+      "id": "ea549f8991bc",
+      "title": "我認為格溫妮絲·帕特洛不知道勝肽是什麼",
+      "published": "2026-04-25T08:04:11+00:00",
+      "summary": "我認為格溫妮絲·帕特洛不知道勝肽是什麼&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOT0FRa2JxTkttZTJIVnAzelNSekd6SElIenMycjAtdHVkdmxfYlVobGlPcVZOcXVLTHd0eGJ3WHI4VjVFTzg1T0lSajQ2Y1lEZlM2YzhJWEdoSW1Tb0VsTG5TNU5ONmpLUFJOelg4em1pQU13UTltTTgxUTFMb2NhbXhQMXlkUTVjZ0Z0OElqM250OWZIcEJPTTlkZ2M1RU9YR2ZaTUg2Z2pMWXBwY3ZFREpON0htbG9yZ1NuenZScUtvVTEzQ2JGcWQ3YWctbWQtZEQ5R29YYnhRcEIyZTVJVEZ2dDNJUzBSVWF1T1VScHF1TW54enBXUGJmc2NpX2hqU3poRjR0bUV3dld5bjBEMWhtOWJxRHJEcHFNZG10dkdfZXh2aEJHV29fTnNrRVpmajVvZUhDZnVhSFR3eGU5WUg4TWczc0ZwMWN6Z21ZOEZUNVlvdndya1JTdlB2Z3JTeThBazB6Y25iS0pxTzd3Ni14djM1TWdTU0pmWUtONW9QUjFy?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOZ1ZNUWFyTWgxNXFPVGJLNlpNY3ZkbmpLUHhwbzZReVBtRVVCc2RqUVhKcjJMS3ZDa0hMeTZrUnJUeUpVRUZLUlg2b3ExbFJVQXJpWGNXMXBZRzBqVnc2V1I0bEtOWEl1TlNzMUpNVW9Od0FfQUtwQ2M1bnVqNUZ1RWhtY3UxVEk4QkVPQndlUmR5bE8zTENCZzNtdFJwb3cwWlQ5Z0lCZnpEX0dYWldkRjVZNEpKS3F2aFI2d19VSTlXY1E3TnlEdHlsQ1hKcW1wckQ4d1EySGhxQ00wRFpHdl9qYjdyLThkOFBGeEY5ekREQzhEYmF3MEdDd1BFLUU5akZIV29YN1RiVFdwXzVzRWE1Ty1jRXpIbG5EOUV4Sm51eFEzUTVNbjdjcVh0VGpZNkpDT0dySk1wU3lmQ3c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4f74d114ae64",
+      "title": "肥胖不是小事！荷爾蒙改變、削弱免疫力 醫示警：罹癌風險增",
+      "published": "2026-04-25T07:00:00+00:00",
+      "summary": "肥胖不是小事！荷爾蒙改變、削弱免疫力 醫示警：罹癌風險增&nbsp;&nbsp;民報為何「快速瘦」常導致復胖？中醫解析減脂過程中的誤區與建議&nbsp;&nbsp;鏡週刊Mirror Media透視腸道菌》肥胖不是吃太多、動太少 1隱形火苗造成身體發炎&nbsp;&nbsp;自由健康網肥胖不只影響體態？專家解析與肌膚變化的可能關聯&nbsp;&nbsp;蕃新聞胖一點沒關係？醫示警免疫系統已開始「擺爛」了&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "民報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56dUVqUTN6TzloVldOZVFycUN0ZmZXcERLVkRNY2xEYmx3elZ1WmRIWTl1UExFN1A3ZG5NeVpQd1NnZlI1Q3BiUGQ5dGFZdU54UVFNOXJFbEplU0xnNjNqZg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -205,42 +280,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "ac1d5a1be04e",
-      "title": "別只關注久坐傷身 最新研究：坐著時「做對事」可預防失智症",
-      "published": "2026-04-25T01:09:25+00:00",
-      "summary": "別只關注久坐傷身 最新研究：坐著時「做對事」可預防失智症&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94TDVrN1lOQ0pLalRyaEtlSU95d19ydTlZcXpoX1pPR29YRUFIdEN0dVg3RlNhQll4YlBHcGFuWFlwbkVzc1pKZXNBNFFNY2psTFBkX3ZUTGh2aXFxNEhSbTJvQdIBY0FVX3lxTE94TDVrN1lOQ0pLalRyaEtlSU95d19ydTlZcXpoX1pPR29YRUFIdEN0dVg3RlNhQll4YlBHcGFuWFlwbkVzc1pKZXNBNFFNY2psTFBkX3ZUTGh2aXFxNEhSbTJvQQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

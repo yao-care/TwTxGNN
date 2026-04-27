@@ -14,7 +14,7 @@ permalink: /news/docetaxel/
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Docetaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ permalink: /news/docetaxel/
 <li>female breast carcinoma（99.9%）</li>
 <li>Ewing sarcoma（99.9%）</li>
 <li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
-<li>small cell lung carcinoma（99.8%）</li>
+<li class="indication-matched">small cell lung carcinoma（99.8%）<span class="indication-tag">📰 肺癌</span></li>
 <li>primary pulmonary lymphoma（99.8%）</li>
 <li>botryoid-type embryonal rhabdomyosarcoma of the vagina（99.8%）</li>
 <li>pulmonary blastoma（99.8%）</li>
@@ -42,9 +42,15 @@ permalink: /news/docetaxel/
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [32歲女不菸又運動卻持續咳嗽 就醫發現肺癌四期嚇傻](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VWDZYRnRnSGhDR3g1T29wdWpybWlGSXBXaGZoUGdMX201YTNIeUJGM0NFUi1GZjg5NGVXME9td2xGR3BvZ1lOS01EUmJ4ZGdHZ1pSc1QtSlFpZG12N2RzWVdR0gFnQVVfeXFMT21WbGpMQjBZNlRrQjdaVjRWR3dCaHYxTU5RWXZjOHJlV3dDOExPV0l3RlZWN2o0ejRvalh2d0xGRDExWVZyS3ZkUFFrX1htUmtCNUhPc2JVRFdFRXZwVU1IWVJtdnVqWQ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">肺癌</span>
+
+來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VWDZYRnRnSGhDR3g1T29wdWpybWlGSXBXaGZoUGdMX201YTNIeUJGM0NFUi1GZjg5NGVXME9td2xGR3BvZ1lOS01EUmJ4ZGdHZ1pSc1QtSlFpZG12N2RzWVdR0gFnQVVfeXFMT21WbGpMQjBZNlRrQjdaVjRWR3dCaHYxTU5RWXZjOHJlV3dDOExPV0l3RlZWN2o0ejRvalh2d0xGRDExWVZyS3ZkUFFrX1htUmtCNUhPc2JVRFdFRXZwVU1IWVJtdnVqWQ?oc=5)
+
+---
 
 
 <div class="disclaimer">
