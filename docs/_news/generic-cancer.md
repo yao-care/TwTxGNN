@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,15 +75,7 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [癌症藥物｜同一種藥有人有效有人無效？港大揭抗藥性機制助研精準療法| 腫瘤及癌症](https://news.google.com/rss/articles/CBMirgJBVV95cUxNU1VvWlBqT2JHbkJrcHBaVW03cldXdndkdnlpeHR1SlVNeGwzcUtsa1JBLWh0aTlVZjVRbFlyTW5qa0trR3Z5MDNDd3FaYklpUlZKckQyZExTcFNrallhaERnSEN0dWVPalVDZ2dMVmdYZkxxVHpOV0czZThvbzg3Q19oRzJXc3oyTTVZUzVyUEFadUtGeGZQcGRia3h4M0NmNHBzblNuYTE2MjhDbmVxd2V0Q2FWaWJJMHI4cEdxNV93cVlQa0Y1QTgzV2E5YlNlWkhQN3k2WlMzcjNYblVVNnFTam1aVEF5TEEyLXJyRk9FS1NfTlZva0Y1RUo2UjkxRVRPU0plLTZGeTNSU1EtWjVhTlFCOXdYY2xDM29Sd2R3YVRMQ2NPMk9EMzhzUQ?oc=5)
-
-2026-04-27
-
-來源：[東方新地](https://news.google.com/rss/articles/CBMirgJBVV95cUxNU1VvWlBqT2JHbkJrcHBaVW03cldXdndkdnlpeHR1SlVNeGwzcUtsa1JBLWh0aTlVZjVRbFlyTW5qa0trR3Z5MDNDd3FaYklpUlZKckQyZExTcFNrallhaERnSEN0dWVPalVDZ2dMVmdYZkxxVHpOV0czZThvbzg3Q19oRzJXc3oyTTVZUzVyUEFadUtGeGZQcGRia3h4M0NmNHBzblNuYTE2MjhDbmVxd2V0Q2FWaWJJMHI4cEdxNV93cVlQa0Y1QTgzV2E5YlNlWkhQN3k2WlMzcjNYblVVNnFTam1aVEF5TEEyLXJyRk9FS1NfTlZva0Y1RUo2UjkxRVRPU0plLTZGeTNSU1EtWjVhTlFCOXdYY2xDM29Sd2R3YVRMQ2NPMk9EMzhzUQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [年輕人不吸菸卻患肺癌 禍首是吃太多蔬果？](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jQ3dqTDU1WXFrYmtqX2FlbW1TNjdRbjNDRU1EeVJVdmJMeUVGVUtSUm5Ea2twUGRKTGRpbVdFQ1FCQ2RXZjhnV2hNcXM2VkxjaDgyMFFpQTZUNmVvZVE5etIBZkFVX3lxTFBSYjRIejNQN1pwSnRDYnh2MzR4QnY5R0ZjOFc0T3l2UVE2RkJZQllOdFJ1OEZ2dXNtWnUxUlVXcUZEN1NlVjdYTDFvYm15OWFSSjc4RDdLVm9UWGtKTy12aVlLMHdtdw?oc=5)
 

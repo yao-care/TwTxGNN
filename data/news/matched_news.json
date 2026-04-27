@@ -1,8 +1,70 @@
 {
-  "last_updated": "2026-04-27T14:58:48.596832+00:00",
-  "total_count": 17,
+  "last_updated": "2026-04-27T16:27:13.618941+00:00",
+  "total_count": 19,
   "matched_count": 7,
   "news": [
+    {
+      "id": "9fc04215b822",
+      "title": "當兵共用2物竟染菜花？苦主沒亂來衰遭分手 醫曝同行更慘：鼻孔也長",
+      "published": "2026-04-27T15:09:29+00:00",
+      "summary": "當兵共用2物竟染菜花？苦主沒亂來衰遭分手 醫曝同行更慘：鼻孔也長&nbsp;&nbsp;祝你健康沒性行為…當兵「共用2物」衰染菜花！醫親揭職災：鼻孔裡也長&nbsp;&nbsp;ETtoday健康雲沒性行為也中！當兵共用毛巾染菜花 醫揭看診沒戴口罩「鼻孔也長」&nbsp;&nbsp;TVBS新聞網【都在當兵！同梯弟兄「染菜花」醫揭職災：鼻孔裡也長】 （#大表哥）&nbsp;&nbsp;facebook.com醫起看／他當兵「共用2物」染菜花 泌尿科醫師解釋原因&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PQ2JiNjIxSXozTlJRV1ZxcDg1YkV5M0VmeF9BRFZHLThaX0xReEpLOE44VWRMbF9aanBFYzhRcExXUEF5M21oT2pDaFk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1f069c4f4cc7",
+      "title": "以為吃事前藥就不會得性病了？醫破除「PrEP」萬能迷思",
+      "published": "2026-04-27T14:48:26+00:00",
+      "summary": "以為吃事前藥就不會得性病了？醫破除「PrEP」萬能迷思&nbsp;&nbsp;Yahoo新聞吃事前藥就穩了？30歲男染「淋病」崩潰&nbsp;&nbsp;民報以為吃事前藥準沒事！30歲男「下體流膿」慘罹淋病 醫：並非萬靈丹&nbsp;&nbsp;鏡新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOaW5zV3FyclB5dGFmQW5ubnJPU21SVW9ZbFF6M1dsZmtoUWpXME5XRzZTd1hnSVNoZzkzT040X3RiUWotNlE1YzBIcDNRZnBmWXluUUFoOFNYazlDS3BmdXFfMG80eHJPSThFQmI0bHNBUEVuZ1FHTHJseWdkX3ZROFdkekJWZHR0QWFqcHBreDJFWmw3R0pJSl9MVjI0alhINWtqREpSMTRRR1NfZDRZWkRrYlVVWWdqQTV3OXVmWkFsMjlCdjAxcW9OOG5uU0xJbHpVU1BOUUFxdXNZMFVySFoxUmtoTFVWZVpfZ1A1cVI3SXlHWDJlODZtTkZGb0w5bjllamVoUE4xNjJ0aU4zWWgtR0xqb2FKa2FpekxlMGx4NnBlMkRfdHVJRXFEVEZQRE0walN2R3NJSU83RDBEUWxUcEJkN1p6TnB6Rg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3e4c398d4118",
+      "title": "健康網》睡太久可能更傷腦！ 研究：超過8小時失智風險升28％",
+      "published": "2026-04-27T13:43:00+00:00",
+      "summary": "健康網》睡太久可能更傷腦！ 研究：超過8小時失智風險升28％&nbsp;&nbsp;health.ltn.com.tw記憶力變好差？醫揭元凶：很多人每天都在做這件事失智機率狂飆- 書房&nbsp;&nbsp;工商時報「防失智最佳睡眠時間」曝！超過反增28%失智風險&nbsp;&nbsp;祝你健康別只關注久坐傷身 最新研究：坐著時「做對事」可預防失智症&nbsp;&nbsp;元氣網失智症原因曝光！「每天久坐」風險激增27%，研究曝睡太久也是主因&nbsp;&nbsp;四季線上4gTV",
+      "sources": [
+        {
+          "name": "health.ltn.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4RmkzR1hoT3paYldkZWpVeGI4OXhwS1RFQWZxNV9YMGVselBDVlYxZ2xWVG04UGZaZEVOd1VZenJ3UHN1RjEzbFgyQkgzdGQ5SEpCUlVEUzFlVTYyNlM4WHAwcHXSAWpBVV95cUxPdWxaMnNXeWc0dmpBYVNRMWtjWkI3Q25va3EzOHZpODhDOW5tdTVtTkh4WW93VklLeTByX3NoeWYtVWJLVkptZ3NOZjlaLWlPTHJHZmY0c1NNR2p0UkNzMEVUemNCaWkwQUxR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "19bc963919d8",
       "title": "《減重》終止瘦瘦針停藥復胖魔咒！創新的「腸道重置」微創手術，助患者鎖住減重成果！",
@@ -17,434 +79,43 @@
       "matched_keywords": []
     },
     {
-      "id": "ee0b639fd755",
-      "title": "沒性行為也會染菜花！醫曝職災慘例 鼻孔、腳趾都中鏢",
-      "published": "2026-04-27T13:04:40+00:00",
-      "summary": "沒性行為也會染菜花！醫曝職災慘例 鼻孔、腳趾都中鏢&nbsp;&nbsp;Yahoo新聞沒性行為…當兵「共用2物」衰染菜花！醫親揭職災：鼻孔裡也長&nbsp;&nbsp;ETtoday健康雲沒性行為也會染菜花！醫曝職災慘例鼻孔、腳趾都中鏢- 生活&nbsp;&nbsp;中時新聞網【都在當兵！同梯弟兄「染菜花」醫揭職災：鼻孔裡也長】 （#大表哥）&nbsp;&nbsp;facebook.com醫起看／他當兵「共用2物」染菜花 泌尿科醫師解釋原因&nbsp;&nbsp;news.ebc.net.tw",
+      "id": "7fa548703df3",
+      "title": "糙米藜麥比一比：專家揭示腸道健康關鍵，高纖蛋白有助維護腸道平衡",
+      "published": "2026-04-27T10:41:17+00:00",
+      "summary": "糙米藜麥比一比：專家揭示腸道健康關鍵，高纖蛋白有助維護腸道平衡&nbsp;&nbsp;yesmedia.com.tw",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPVnlWZXZvZkZVWHhpdF9LQ2JXc0J3bEYwTDhEUEJwVXNtR0VrcWZKa0Vub19VWjdiRVNnQUJvNi1VSDB6ZFJwYUc2d3VnT3RVc3ZnbVdnMFVhWFNXelNMX01mQVUtUl81OXJ5dUxqUWZTdDRBSWdsbGt4bzBLX2wwdXAxa3BSQmpkVFEtSTRpRkp1RjZaNWZGZzAwYWY4UGIzTFZMTy1TZFVnLThoUlRGM0JuV1VZckZiWlpOOFphSE1qUkhQNURCRVdjMnNYZ015UHZGU1NuSlRNdWpLczRiZVFBQ2tTYjgzR2c2ancwa0F5ZEJ5OVh5UjhzX2dHeUsySUttVzlSVkloRWp3bDc2UzlqNTVkSEd2TEVLd0pBcDlQUzNFS3hRUmhoZk9scHZ4WXpfVFVoQ1pIazVUYVg3dVhOa0RHeVRvYlhhWGpZcE5ET2QzWlVrSWFfWjNUUUU?oc=5"
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNRmVfR2VoNk54eGk5OTJLMU1SdEhQOFVIQUxPMy0wU3ZVM0NBSjlXeHpvbFJGaVZJLUpQWEs1cENrQ3hKUFZOcFZGSkRFTmpFQjdOZVdOQV9TTmgxbVBtQ2FxZ2tqbTd0el9ERnNYejdYaW5rOHNFTTdlOTF4c2pQMjdBNmg4cjA1ZllobWRWZEFPcUpTc2NCbXZYWDJYZU5BUlM5a2ZCeGJySEF5NldhRi1WbzVaWVBVWUwzVjlLMmdYTGc2OFFwR0xCbjlvdnp5T2QtY0poakg2TGdLZkNycXZjTWk3NC1LNzF0Qk9tMlNySEtKNl95bUh1ckxVcVBmQ1IzTmdKclk0RXFzODQ0cVQ1Mkhya0tsZkh2endKLW5KelVTeVBJckN6RWZ4RlFDbTlqSEJNb1FLZVBwd2NOamhUWjNkcnQ1a2Fn?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "8aee918f8c2c",
+      "id": "0fb53751bee0",
       "title": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷",
-      "published": "2026-04-27T12:11:15+00:00",
-      "summary": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷&nbsp;&nbsp;ENN台灣電報",
+      "published": "2026-04-27T09:01:58+00:00",
+      "summary": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷&nbsp;&nbsp;行銷人",
+      "sources": [
+        {
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOZnpEcEpHZWdSSEQ2anl3bE56LWluemdiMEotcDdQR1dMc01nSE11cHV3dWh1aHFxSFRXMThKR3VhV2prN1NiOVFxMFZuWkRXNjNFVmFnLTJNdWlUcXUyNmlQVjJPLVVGUU91YUlPLV9aeC15d3J1S1VXaHJCSXI5MV8zY2lCVS1fdEJwcTRUSmZUWTBScTZ6WUhyMW9Ua3R2ckF4S3Q2bnJCb3M4cVBRS05OX1hVTXJDRll4T19GVDh1NXI4N002U3VnTHhsRWM1cUZuU3EyOXo2ZlhFcUFIeldjRzJDTjk3UnlBdG1aM3NUYzNCX0pmcDB0LWhqLU9pU3Z2dHRWbmtDSkN4RE5FY3JkWTJRaUIzSTl6aXpOVFZER21mcV9jc3Z4eld2VWxZLTVyY0pPSHBEeXVkdG5rb3pxN3NTSDFubWl3eUg2dWhRQVZMTUVSWE5uNzhDa18xOUI5aGcxX3dkVDNHeXlkVldEUnp2cHR5YmdPYg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4a95d728858e",
+      "title": "美國太空總署微型IV液生成器抵國際太空站 革新太空人深空醫療照護",
+      "published": "2026-04-27T06:12:57+00:00",
+      "summary": "美國太空總署微型IV液生成器抵國際太空站 革新太空人深空醫療照護&nbsp;&nbsp;ENN台灣電報",
       "sources": [
         {
           "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9ZZjlUZUNRaGVhYTRJSDJVUVctXzlYeWdNc3pyYjNxM2V4RmZYdjN0NFFkUGVtSFVLVHc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5HczA0OHVnVGx2YU1nOGN6SkVnLWJ5SFNfaWtCMkYyRjB3TV9fUllfNEVDRDV6bUpNYnc?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "410db4d5ef1e",
-      "title": "癌症藥物｜同一種藥有人有效有人無效？港大揭抗藥性機制助研精準療法| 腫瘤及癌症",
-      "published": "2026-04-27T10:19:52+00:00",
-      "summary": "癌症藥物｜同一種藥有人有效有人無效？港大揭抗藥性機制助研精準療法| 腫瘤及癌症&nbsp;&nbsp;東方新地抗癌藥為何常失敗？研究揭關鍵誤判：把「舞台監督」當演員&nbsp;&nbsp;health.ltn.com.tw港大解鎖微管蛋白運作機制 克服癌症藥抗藥性現曙光&nbsp;&nbsp;on.cc東網港大醫學院揭示癌症藥物抗藥性關鍵機制 - 新聞稿 - 傳媒 - 香港大學&nbsp;&nbsp;The University of Hong Kong (HKU)癌症治療｜港大揭癌症藥有抗藥性關鍵 蛋白變異影響靶點 解鎖機制料能提升藥效&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "東方新地",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNU1VvWlBqT2JHbkJrcHBaVW03cldXdndkdnlpeHR1SlVNeGwzcUtsa1JBLWh0aTlVZjVRbFlyTW5qa0trR3Z5MDNDd3FaYklpUlZKckQyZExTcFNrallhaERnSEN0dWVPalVDZ2dMVmdYZkxxVHpOV0czZThvbzg3Q19oRzJXc3oyTTVZUzVyUEFadUtGeGZQcGRia3h4M0NmNHBzblNuYTE2MjhDbmVxd2V0Q2FWaWJJMHI4cEdxNV93cVlQa0Y1QTgzV2E5YlNlWkhQN3k2WlMzcjNYblVVNnFTam1aVEF5TEEyLXJyRk9FS1NfTlZva0Y1RUo2UjkxRVRPU0plLTZGeTNSU1EtWjVhTlFCOXdYY2xDM29Sd2R3YVRMQ2NPMk9EMzhzUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腫瘤",
-          "keyword": "腫瘤",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "dc60c779553c",
@@ -564,7 +235,7 @@
     {
       "id": "da5fb2107b95",
       "title": "噴完防蚊液還是被叮成「紅豆冰」？醫曝這些部位最常被遺漏",
-      "published": "2026-04-26T08:54:52+00:00",
+      "published": "2026-04-26T08:50:38+00:00",
       "summary": "噴完防蚊液還是被叮成「紅豆冰」？醫曝這些部位最常被遺漏&nbsp;&nbsp;民報",
       "sources": [
         {
@@ -926,19 +597,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "324a3981bc31",
-      "title": "這些 80 歲的老人擁有 50 歲的記憶，科學家現在知道原因",
-      "published": "2026-04-25T15:51:52+00:00",
-      "summary": "這些 80 歲的老人擁有 50 歲的記憶，科學家現在知道原因&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOM3RMblJxd3E4Zno5SmFTdUN1SkVUTmFkS25WcEJwYmJWMGdYSDgwVGVCQTlqVVVqbURnY1VrbDh6Z01pVkdCWDJYT1E2dXpwQjJaSW01Yzg2TGhKUTBKYWdtMk96bHgzNGtZWDRhcno5dGwxOVFqMldUcTlsYnptd1pOTEkycG9BWHI4aVk4eVFkbTZWMlhJc252TzRfbUtSN3NvZW5jRmk4V2wtWWxRRG52R0x5LUxRMVFocHpMd0pGMVpQRjFhQ2dzSTBFZEpFY0VEQVVDQS1qZVJSMDBMdUdGM1pLMVFUc0lDLUtJcUxZd05tSFp6VUJMMEJCcFc4MFZlZ2ZlZzhOVURZdGliSTZ1SlhYQThwcjhaVEhMTzhxZzRmY2NCRVpSZFg1djVwNHpmLTNwbEZZNDdOeGxWa2Z6S042dHdGU2kzcGNhYUV0QXJVdVZWRXZCSG9GN3lGeGZuMm5JVkF5QVlMOUNRcnpxelZwd1dsdXVZS3JiU0FpTHAx?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
