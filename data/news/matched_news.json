@@ -1,8 +1,48 @@
 {
-  "last_updated": "2026-04-27T05:23:12.528174+00:00",
+  "last_updated": "2026-04-27T08:07:15.970038+00:00",
   "total_count": 15,
-  "matched_count": 4,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "dc60c779553c",
+      "title": "症狀像感冒卻恐致命 呼吸道融合病毒是被低估的肺炎元兇",
+      "published": "2026-04-27T05:00:00+00:00",
+      "summary": "症狀像感冒卻恐致命 呼吸道融合病毒是被低估的肺炎元兇&nbsp;&nbsp;epochtimes.com幫家中長輩注意RSV！防肺炎、中風等風險，預防策略一次看&nbsp;&nbsp;蕃新聞RSV不是幼兒專利…家庭交叉傳染 長者肺炎發生率為流感2.7倍&nbsp;&nbsp;元氣網嬰幼兒呼吸道殺手！醫曝RSV預防新里程單株抗體體給寶寶直接保護| 生活&nbsp;&nbsp;三立新聞網SETN.com",
+      "sources": [
+        {
+          "name": "epochtimes.com",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wMW5RMnktajlUYzJXaGJDN09xWHozUU1zUW1wTFVERWt3WVNxdUVBOWUyT1gtSzJYNm54S1dQRjg2YkoxdEl4M0xENVJ5T2pEUnJWNm91bndRSXY2LTBmd9IBZkFVX3lxTFBteHBkaWpvSzZRWnJiSjJwNXVRQVdFdlBKVkE4NUV6U1otWnpHUVVmRzZPeWdDQW9BcllDbV81SkNWcktzRXZoOXlabl9yeEEzTHNBMmYzVmU5aEtQN0p5SU5OWUhPZw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "9b9334120751",
       "title": "32歲女不菸又運動卻持續咳嗽 就醫發現肺癌四期嚇傻",
@@ -66,13 +106,13 @@
       ]
     },
     {
-      "id": "c8b8587032e1",
+      "id": "fe1b16aedd4d",
       "title": "每天一顆維他命 真能變年輕？研究揭老化關鍵",
       "published": "2026-04-26T11:00:00+00:00",
-      "summary": "每天一顆維他命 真能變年輕？研究揭老化關鍵&nbsp;&nbsp;大纪元",
+      "summary": "每天一顆維他命 真能變年輕？研究揭老化關鍵&nbsp;&nbsp;epochtimes.com",
       "sources": [
         {
-          "name": "大纪元",
+          "name": "epochtimes.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HRzZXQVhnUU1mMVJ3TjdQRWtKalJUaTBzRENYdURKMGZka3EwTzZpSk1EMGVjZ3hmaHFGZjZ1blpQYlB4WFFpdEZpSUVLWjcwak9aTXhiMnljSUdFMHNnctIBZkFVX3lxTE15bUFQZ3RBTUZtd1JqSUIzTVdPZG1ESmdmMGpjc1hYc2E1MHRUOEJHQXh3ZWxIOXRVR2ZVTWw0RDA5eXgxV1pCZkZQZFE3V25lbWZreTFZVWpIUEhMNDYxclV4UE1LUQ?oc=5"
         }
       ],
@@ -100,19 +140,6 @@
         {
           "name": "POPBEE",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ3VjNF9lbldXMzJyNVZKeDV5bmF2djNYdkEyN2JHMV9BOTdwZDdEbzFnazk3Z0Nldkg0WGVCQVhjZzdiMFNHWWRkcFB4SjVqSE9iVU1wTVFlSzhrQmRNU0sxUzNxS2ljcWoyWklQS2RjNTZ3aDZab3A2TmJTSGlCdnMwenlLY1JVd200S0xB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "953d24e6e3e8",
-      "title": "一項新研究發現魚油可能會損害您的大腦。",
-      "published": "2026-04-26T06:22:43+00:00",
-      "summary": "一項新研究發現魚油可能會損害您的大腦。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNX05mR214bnBVRXRSX2lQTU9ZV2ctLWNUOXY5dzdtWjVlWlFrQmtqNXFidjZkb2lMeFE2WTZpMWZXY0JYWW9iVFRLOHJaZjE2QnIwRDBDc0J2WnROWXdFR1JLWWJFcnhCRzVrUjlZRG9XbU8tR2t0WDMxQ2VXZ3NCcUdWUlRrTVo3NUU4akthSzZkSFdLSU5pVkFFWmoyMk82V3pwZVRvamNQXzlaQ0cwOXY0WDk2UDVCSnJ5NGJHR295cXl5Vzl3d2VidDdGWmNmbmliTU1zcFZaVmo2b3o1aHhCam5HallTS3IzWHl5cE51WGlNaHZNQkUyMkp2aDFLTDZrRzRUSGdpYnZ5MEFPNjg2cllSdHhYVi01UFR5bUMzNmZfN0o5ZkhEa3J6WjVaQTFRbEE3UVVYR0J1VFBjSWhHVndfaUtCQnQ1X3UxT24xVkNqNHl3ZkNiZF92VlNoWUE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -230,14 +257,27 @@
       "matched_keywords": []
     },
     {
-      "id": "8c71381e94ac",
-      "title": "醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康",
-      "published": "2026-04-25T11:45:00+00:00",
-      "summary": "醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;東森新聞前往 Google 新聞查看完整報導",
+      "id": "3d3911efd8cd",
+      "title": "醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康 | EBC 東森新聞 - LINE TODAY",
+      "published": "2026-04-25T12:19:34+00:00",
+      "summary": "醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康 | EBC 東森新聞&nbsp;&nbsp;LINE TODAY醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;Yahoo新聞「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲40歲媽每天1杯果汁「喝出癌」 醫揭「3偽健康飲料」：身體變癌細胞溫床&nbsp;&nbsp;祝你健康討論牆 | 不是珍奶！這飲品「沒壞東西樣子」 喝10年癌細胞恐肆虐&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WMm8yZE5GdTlCdmJNZWw2T3VPQjVLS25yMlo1dzhLR09QbVpWbm90SEtlTDRVMjdGVWhIU3pNNG5NQTFzZTZtVGlKUmRlMW5wb1gxMQ?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LUlZqS0ozZ2xPdUotaG5hd252N1h4N3Zqb0JwZGlMSEFlbDRBc3FibmprQVI0SFRrazZPWEhHdXpkMi1lNU1IcWpsTlN5MmlvdW1Ja0d3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "641b61722929",
+      "title": "糖吃太多增致癌脂肪肝風險 醫推3類糖降膽固醇穩血糖 1種可通便",
+      "published": "2026-04-25T09:01:29+00:00",
+      "summary": "糖吃太多增致癌脂肪肝風險 醫推3類糖降膽固醇穩血糖 1種可通便&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOQVhjTU9MQklWeWtCbUJ0MFpZUXhfWEZsb3NzSzE3Q3lPRGNtMFJ2QnpscFJYcTJwb00wTmhyMHBGVXVGay1YenMwNXVTb1Y0Ymp4YUJxTUNJclpGSjluQ19mcHNfdHotT0d4NWdSWThnQWhNX0VRa1VIRjNTV2p5UDVra2M1MEp1dlUyY1BYWUVnT20zZEpMQ09US1hFMlpxOS1MUmdsSHVLNXBKTFBRLTk1STRKb2xramNTTDluanE1clVIN2Q5TkVPYkc2R0xuOS1HaWZNaTRFLUtrZkVvOHlNek5Nc1ByT2RURkVQRTFaOUVTWnJ5d21GNEVsV1YwazFQRTFhMV9tWlo5YTlrMGhiVm9XeHZVNlVzWjBJeGNxdkV3d3QxRWVPYWxDbGluWnBnbjFKTnphYVVxN09lTGp3UEpubFAydGZPeGVpM2pMWE90NWJnZUVMekdvcFg3V3BBVDZBb3R2Q3F5b2VGM2F6N281WmlpQXM0VjFKYVhWbzh1cWhWelg1OVpjR2hhaGVBVFRZSl9hOGRwZl9nZmlVakV3dkE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -264,19 +304,6 @@
         {
           "name": "民報",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56dUVqUTN6TzloVldOZVFycUN0ZmZXcERLVkRNY2xEYmx3elZ1WmRIWTl1UExFN1A3ZG5NeVpQd1NnZlI1Q3BiUGQ5dGFZdU54UVFNOXJFbEplU0xnNjNqZg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "05c874ddbdc7",
-      "title": "「媽媽手」不只按痛點　中醫師經絡遠端下手效果快可根治",
-      "published": "2026-04-25T05:47:00+00:00",
-      "summary": "「媽媽手」不只按痛點 中醫師經絡遠端下手效果快可根治&nbsp;&nbsp;ETtoday新聞雲中醫治媽媽手不只按痛點&nbsp;&nbsp;更生新聞網精準定位病灶 成醫開創肌骨神經疾病治療&nbsp;&nbsp;TDN台灣生活新聞",
-      "sources": [
-        {
-          "name": "ETtoday新聞雲",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNNVJNZmhEZ2drWjNGbHdQcE14NE5xVTRvYnBtSXhWYzBMLUpndm96TFRqZ2hoMVAwbFJmVDFDcEZOVWhHbkRRdzhzRjhlSloydm9WMWt4eVozazQ5U3fSAWhBVV95cUxQTWtHU2hiTXhkakQzQzY5OGVXeW1ybUttekowQkxmWFJ6ZlFiem51endENVQ5czh2VWhTRzJjRVdiSTk0dlR4YThsV3o4b2ZTY1FVRzFtVzNkMnFPemdXT0VIeTh2cktleA?oc=5"
         }
       ],
       "matched_keywords": []
