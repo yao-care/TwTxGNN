@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [症狀像感冒卻恐致命 呼吸道融合病毒是被低估的肺炎元兇](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wMW5RMnktajlUYzJXaGJDN09xWHozUU1zUW1wTFVERWt3WVNxdUVBOWUyT1gtSzJYNm54S1dQRjg2YkoxdEl4M0xENVJ5T2pEUnJWNm91bndRSXY2LTBmd9IBZkFVX3lxTFBteHBkaWpvSzZRWnJiSjJwNXVRQVdFdlBKVkE4NUV6U1otWnpHUVVmRzZPeWdDQW9BcllDbV81SkNWcktzRXZoOXlabl9yeEEzTHNBMmYzVmU5aEtQN0p5SU5OWUhPZw?oc=5)
 
 2026-04-27 <span class="news-indication-tag">中風</span> <span class="news-indication-tag">感冒</span>
 
-來源：[epochtimes.com](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wMW5RMnktajlUYzJXaGJDN09xWHozUU1zUW1wTFVERWt3WVNxdUVBOWUyT1gtSzJYNm54S1dQRjg2YkoxdEl4M0xENVJ5T2pEUnJWNm91bndRSXY2LTBmd9IBZkFVX3lxTFBteHBkaWpvSzZRWnJiSjJwNXVRQVdFdlBKVkE4NUV6U1otWnpHUVVmRzZPeWdDQW9BcllDbV81SkNWcktzRXZoOXlabl9yeEEzTHNBMmYzVmU5aEtQN0p5SU5OWUhPZw?oc=5)
-
----
-
-### [【健康】從「似感冒」到命危 腦膜炎雙球菌致命24小時](https://news.google.com/rss/articles/CBMi0gJBVV95cUxNcGl1eHhrNnZzZ0tWeUctdWg2TGV2SjMtc2I3akV5MmJzZ1ZYTGMtNjRjSUVBLW5KbU5LTlp3QkVjOW14ak1GcFpCSzBoTkdZUTBTd0xDMVpfa0xUS0pTY1g3aUkzektmYm5tdE82NkxFQW9qMmVacEFONFFYTnh0YURZXzNJTUUzVU8zMlRQX29zNVdJQUxDN1llQS0yc0RzeWRXdHlsUC1idUIzVDBtM3JfTnRPcWxFcnI3S2JpUnZNVHdKd0xCdE5adHRZTXB0alExVHl5Wi1oMFRTUjlSbTlQdnVZVnhBSDM2T0tUbFJjMlRXQmJnZlh1Y2ZkRXhfU0o5NXlXTWFIV2hEdFByWVBRUjg4Qm83b0ZOVW9YaEFsOVlqOXJ3WWRlS2Y0Q0RRaVhRNk1vRTM4aUgwalgzbFB2SGpvaFg5SjZabEloaWVNdw?oc=5)
-
-2026-04-25 <span class="news-indication-tag">感冒</span>
-
-來源：[堅料](https://news.google.com/rss/articles/CBMi0gJBVV95cUxNcGl1eHhrNnZzZ0tWeUctdWg2TGV2SjMtc2I3akV5MmJzZ1ZYTGMtNjRjSUVBLW5KbU5LTlp3QkVjOW14ak1GcFpCSzBoTkdZUTBTd0xDMVpfa0xUS0pTY1g3aUkzektmYm5tdE82NkxFQW9qMmVacEFONFFYTnh0YURZXzNJTUUzVU8zMlRQX29zNVdJQUxDN1llQS0yc0RzeWRXdHlsUC1idUIzVDBtM3JfTnRPcWxFcnI3S2JpUnZNVHdKd0xCdE5adHRZTXB0alExVHl5Wi1oMFRTUjlSbTlQdnVZVnhBSDM2T0tUbFJjMlRXQmJnZlh1Y2ZkRXhfU0o5NXlXTWFIV2hEdFByWVBRUjg4Qm83b0ZOVW9YaEFsOVlqOXJ3WWRlS2Y0Q0RRaVhRNk1vRTM4aUgwalgzbFB2SGpvaFg5SjZabEloaWVNdw?oc=5)
+來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wMW5RMnktajlUYzJXaGJDN09xWHozUU1zUW1wTFVERWt3WVNxdUVBOWUyT1gtSzJYNm54S1dQRjg2YkoxdEl4M0xENVJ5T2pEUnJWNm91bndRSXY2LTBmd9IBZkFVX3lxTFBteHBkaWpvSzZRWnJiSjJwNXVRQVdFdlBKVkE4NUV6U1otWnpHUVVmRzZPeWdDQW9BcllDbV81SkNWcktzRXZoOXlabl9yeEEzTHNBMmYzVmU5aEtQN0p5SU5OWUhPZw?oc=5)
 
 ---
 

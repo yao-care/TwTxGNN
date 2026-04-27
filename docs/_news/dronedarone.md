@@ -48,7 +48,7 @@ permalink: /news/dronedarone/
 
 2026-04-27 <span class="news-indication-tag">中風</span> <span class="news-indication-tag">感冒</span>
 
-來源：[epochtimes.com](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wMW5RMnktajlUYzJXaGJDN09xWHozUU1zUW1wTFVERWt3WVNxdUVBOWUyT1gtSzJYNm54S1dQRjg2YkoxdEl4M0xENVJ5T2pEUnJWNm91bndRSXY2LTBmd9IBZkFVX3lxTFBteHBkaWpvSzZRWnJiSjJwNXVRQVdFdlBKVkE4NUV6U1otWnpHUVVmRzZPeWdDQW9BcllDbV81SkNWcktzRXZoOXlabl9yeEEzTHNBMmYzVmU5aEtQN0p5SU5OWUhPZw?oc=5)
+來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wMW5RMnktajlUYzJXaGJDN09xWHozUU1zUW1wTFVERWt3WVNxdUVBOWUyT1gtSzJYNm54S1dQRjg2YkoxdEl4M0xENVJ5T2pEUnJWNm91bndRSXY2LTBmd9IBZkFVX3lxTFBteHBkaWpvSzZRWnJiSjJwNXVRQVdFdlBKVkE4NUV6U1otWnpHUVVmRzZPeWdDQW9BcllDbV81SkNWcktzRXZoOXlabl9yeEEzTHNBMmYzVmU5aEtQN0p5SU5OWUhPZw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/regorafenib/
 ---
 
 <p class="key-answer" data-question="Regorafenib 有什麼相關新聞？">
-<strong>Regorafenib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 8 個。
+<strong>Regorafenib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 8 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ permalink: /news/regorafenib/
 <p><a href="{{ '/drugs/regorafenib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [年輕人不吸菸卻患肺癌 禍首是吃太多蔬果？](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jQ3dqTDU1WXFrYmtqX2FlbW1TNjdRbjNDRU1EeVJVdmJMeUVGVUtSUm5Ea2twUGRKTGRpbVdFQ1FCQ2RXZjhnV2hNcXM2VkxjaDgyMFFpQTZUNmVvZVE5etIBZkFVX3lxTFBSYjRIejNQN1pwSnRDYnh2MzR4QnY5R0ZjOFc0T3l2UVE2RkJZQllOdFJ1OEZ2dXNtWnUxUlVXcUZEN1NlVjdYTDFvYm15OWFSSjc4RDdLVm9UWGtKTy12aVlLMHdtdw?oc=5)
+### [重大研究顯示，接觸農藥與癌症風險增加 150% 相關](https://news.google.com/rss/articles/CBMi9AJBVV95cUxQTndtS1VieTF3bFNvTTN1TXdpcHlsTFVueVlHVHl3WVRxMFlKRWZCLWdkeUhZLTFhUXowbjh4Mm5HS3NUQmpqblVRV05jRENQNlI5RXNBbTVGdXBSZ0tBMVJhY2RDeHkyeENpTTZXdXlTOWx4cjc1MXdUeDBDUnRnWHFOUFdSbEYyaVNkc3RBSl93SG10aG9EZkRkWFlRS1ZUT1hmN0NTWHNoQ3ZmdnZhTlBiMWRiQUdIcDh4MFg0eFpSd2NWd2RYZjFJWGNxekFNS2tMcW44ZUpKVmJtNG1mNUlRSTRET0xpdG1qaFZqd0VSNDVBYW5jc3pzQnhPX25RZXJ3UWk5S0huS3BZYWJqb1JuLUhkT1VHR0oxYUJzQUR4RmY0eXZaU0JuN25IZG55V3ZKWXl2UEdDdWE1dmp4U1pOMk1PN3BKMUlNUEZDa2tOUi1sZTVFVUxFZ2FhTGdVMFZmekJLREwxRTdOSkpVcWVrZC0?oc=5)
 
-2026-04-26 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
+2026-04-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
 
-來源：[epochtimes.com](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jQ3dqTDU1WXFrYmtqX2FlbW1TNjdRbjNDRU1EeVJVdmJMeUVGVUtSUm5Ea2twUGRKTGRpbVdFQ1FCQ2RXZjhnV2hNcXM2VkxjaDgyMFFpQTZUNmVvZVE5etIBZkFVX3lxTFBSYjRIejNQN1pwSnRDYnh2MzR4QnY5R0ZjOFc0T3l2UVE2RkJZQllOdFJ1OEZ2dXNtWnUxUlVXcUZEN1NlVjdYTDFvYm15OWFSSjc4RDdLVm9UWGtKTy12aVlLMHdtdw?oc=5)
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi9AJBVV95cUxQTndtS1VieTF3bFNvTTN1TXdpcHlsTFVueVlHVHl3WVRxMFlKRWZCLWdkeUhZLTFhUXowbjh4Mm5HS3NUQmpqblVRV05jRENQNlI5RXNBbTVGdXBSZ0tBMVJhY2RDeHkyeENpTTZXdXlTOWx4cjc1MXdUeDBDUnRnWHFOUFdSbEYyaVNkc3RBSl93SG10aG9EZkRkWFlRS1ZUT1hmN0NTWHNoQ3ZmdnZhTlBiMWRiQUdIcDh4MFg0eFpSd2NWd2RYZjFJWGNxekFNS2tMcW44ZUpKVmJtNG1mNUlRSTRET0xpdG1qaFZqd0VSNDVBYW5jc3pzQnhPX25RZXJ3UWk5S0huS3BZYWJqb1JuLUhkT1VHR0oxYUJzQUR4RmY0eXZaU0JuN25IZG55V3ZKWXl2UEdDdWE1dmp4U1pOMk1PN3BKMUlNUEZDa2tOUi1sZTVFVUxFZ2FhTGdVMFZmekJLREwxRTdOSkpVcWVrZC0?oc=5)
+
+---
+
+### [癌症藥物｜同一種藥有人有效有人無效？港大揭抗藥性機制助研精準療法| 腫瘤及癌症](https://news.google.com/rss/articles/CBMirgJBVV95cUxNU1VvWlBqT2JHbkJrcHBaVW03cldXdndkdnlpeHR1SlVNeGwzcUtsa1JBLWh0aTlVZjVRbFlyTW5qa0trR3Z5MDNDd3FaYklpUlZKckQyZExTcFNrallhaERnSEN0dWVPalVDZ2dMVmdYZkxxVHpOV0czZThvbzg3Q19oRzJXc3oyTTVZUzVyUEFadUtGeGZQcGRia3h4M0NmNHBzblNuYTE2MjhDbmVxd2V0Q2FWaWJJMHI4cEdxNV93cVlQa0Y1QTgzV2E5YlNlWkhQN3k2WlMzcjNYblVVNnFTam1aVEF5TEEyLXJyRk9FS1NfTlZva0Y1RUo2UjkxRVRPU0plLTZGeTNSU1EtWjVhTlFCOXdYY2xDM29Sd2R3YVRMQ2NPMk9EMzhzUQ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+
+來源：[東方新地](https://news.google.com/rss/articles/CBMirgJBVV95cUxNU1VvWlBqT2JHbkJrcHBaVW03cldXdndkdnlpeHR1SlVNeGwzcUtsa1JBLWh0aTlVZjVRbFlyTW5qa0trR3Z5MDNDd3FaYklpUlZKckQyZExTcFNrallhaERnSEN0dWVPalVDZ2dMVmdYZkxxVHpOV0czZThvbzg3Q19oRzJXc3oyTTVZUzVyUEFadUtGeGZQcGRia3h4M0NmNHBzblNuYTE2MjhDbmVxd2V0Q2FWaWJJMHI4cEdxNV93cVlQa0Y1QTgzV2E5YlNlWkhQN3k2WlMzcjNYblVVNnFTam1aVEF5TEEyLXJyRk9FS1NfTlZva0Y1RUo2UjkxRVRPU0plLTZGeTNSU1EtWjVhTlFCOXdYY2xDM29Sd2R3YVRMQ2NPMk9EMzhzUQ?oc=5)
 
 ---
 
