@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康](https://news.google.com/rss/articles/CBMivgJBVV95cUxOT20wZkppVUU4azNsSUZmbHZYTEIyMHBHVFJiVnRTa1RURnAzS0lvZFpsVEQyV0RIYW02cFBnN21JLUNDeUtad1loRlFKQ0tWa21YU2JhbHZScnFGcHpkc0l5NGV1T2ZKWFlJX0VhanZUSDBnRFIzeEJZMXBmUGdwaTFxNmVkM3JnN2lIMjdUYUkwejRrOXpTLVBsal9kY1U0RjVsQzM5YmFsd3Q1SFhJTjFGTU9TcG5md1QxR2FEUkpUcVBITnhtYUlUZjliNWZiMVRWRUFJRDZLVUpDQkduNXgybXkyWEJmWGN5TjJ1VUdHZzRDRUF4S0x4RnN1TG9sZjlJVzdaR2hJRmU0bEF5ejB5MmE5NG1EVlFDVlpVNWt3OXUzd1pfU0trVmJXTWtGRTNHXy1ZQk9FMG80bnc?oc=5)
-
-2026-04-25 <span class="news-indication-tag">癌症</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMivgJBVV95cUxOT20wZkppVUU4azNsSUZmbHZYTEIyMHBHVFJiVnRTa1RURnAzS0lvZFpsVEQyV0RIYW02cFBnN21JLUNDeUtad1loRlFKQ0tWa21YU2JhbHZScnFGcHpkc0l5NGV1T2ZKWFlJX0VhanZUSDBnRFIzeEJZMXBmUGdwaTFxNmVkM3JnN2lIMjdUYUkwejRrOXpTLVBsal9kY1U0RjVsQzM5YmFsd3Q1SFhJTjFGTU9TcG5md1QxR2FEUkpUcVBITnhtYUlUZjliNWZiMVRWRUFJRDZLVUpDQkduNXgybXkyWEJmWGN5TjJ1VUdHZzRDRUF4S0x4RnN1TG9sZjlJVzdaR2hJRmU0bEF5ejB5MmE5NG1EVlFDVlpVNWt3OXUzd1pfU0trVmJXTWtGRTNHXy1ZQk9FMG80bnc?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [別只關注久坐傷身 最新研究：坐著時「做對事」可預防失智症](https://news.google.com/rss/articles/CBMiY0FVX3lxTE94TDVrN1lOQ0pLalRyaEtlSU95d19ydTlZcXpoX1pPR29YRUFIdEN0dVg3RlNhQll4YlBHcGFuWFlwbkVzc1pKZXNBNFFNY2psTFBkX3ZUTGh2aXFxNEhSbTJvQdIBY0FVX3lxTE94TDVrN1lOQ0pLalRyaEtlSU95d19ydTlZcXpoX1pPR29YRUFIdEN0dVg3RlNhQll4YlBHcGFuWFlwbkVzc1pKZXNBNFFNY2psTFBkX3ZUTGh2aXFxNEhSbTJvQQ?oc=5)
 
