@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-27T20:03:55.517935+00:00",
-  "count": 6,
+  "generated": "2026-04-27T21:47:29.376985+00:00",
+  "count": 7,
   "news": [
     {
       "id": "fd0c8d506bd1",
@@ -307,6 +307,53 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524ed7b65492",
+      "title": "年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 | 自由電子報 - LINE TODAY",
+      "published": "2026-04-26T12:23:29+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZ3RzaV9TMTFseElWWmU4UTBsWWE0ZVd2cEt5ZlBWVlduUjZkbWJzUFFCdDlGYm1OVlJtZFQ4SmVxVWw4akxUb1hjTFFSUXlrQTdxMVpR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }

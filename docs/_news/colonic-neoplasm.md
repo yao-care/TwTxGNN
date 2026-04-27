@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "結腸癌（colonic neoplasm） 相關新聞"
+title: "大腸癌（colonic neoplasm） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "結腸癌（colonic neoplasm） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
-# 結腸癌（colonic neoplasm） 相關新聞
+# 大腸癌（colonic neoplasm） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="結腸癌（colonic neoplasm） 有什麼相關新聞？">
-<strong>結腸癌（colonic neoplasm）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="大腸癌（colonic neoplasm） 有什麼相關新聞？">
+<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「結腸癌」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「大腸癌」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,7 +29,15 @@ permalink: /news/colonic-neoplasm/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 | 自由電子報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZ3RzaV9TMTFseElWWmU4UTBsWWE0ZVd2cEt5ZlBWVlduUjZkbWJzUFFCdDlGYm1OVlJtZFQ4SmVxVWw4akxUb1hjTFFSUXlrQTdxMVpR?oc=5)
+
+2026-04-26
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZ3RzaV9TMTFseElWWmU4UTBsWWE0ZVd2cEt5ZlBWVlduUjZkbWJzUFFCdDlGYm1OVlJtZFQ4SmVxVWw4akxUb1hjTFFSUXlrQTdxMVpR?oc=5)
+
+---
 
 ### [隱藏在腸道中的病毒可能與結腸癌有關。](https://news.google.com/rss/articles/CBMi1gJBVV95cUxNVFE3TUROX1k2MkdVYm1ySENhVkljZHJwNkhiYWVaU284Rkgyc01NRE1BbXY3dlpVRTVRRENXNnhmclFHcXp5OFBfUHpTcjlDdTB0YUxVRmVSNnc0QTFadE0tMElKQkxhenU1T3JBVFVzTnNkTk4zVF9zS1Rjc2l4MHBXaEZ2VjlnWnNtYXc5c2NmM3pUTTI0UXdlUVZCT3R0cjkwQWRNc2JqdlRpX0ZWOW5fTUxjaG44VllEUWRqVXNUS0tYaVZlZ3pxcmhHWTF1d1VMVGZQTGJvM1Z3cmtKRTllWFoyNGRQZXFMS1laYnRHdWV3OTc5WFJ0T25yWTZrZklycmJ2Q1liemFtT21fZkt3dUpkY2hqZXdqMWs3U21Dby1vSEExT2xqTElDOERIY3lPT0c5OWpfNzBKTk5fWUMtaXczSEJHTUdjQmxCaFVPQk53M0E?oc=5)
 
