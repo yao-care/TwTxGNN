@@ -1,8 +1,455 @@
 {
-  "last_updated": "2026-04-28T02:04:28.236609+00:00",
-  "total_count": 17,
-  "matched_count": 7,
+  "last_updated": "2026-04-28T05:50:44.601674+00:00",
+  "total_count": 20,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "84bdfd9c798f",
+      "title": "死亡率逾5成！女性結紮「很有用」 卵巢癌機率大降80％",
+      "published": "2026-04-28T05:37:30+00:00",
+      "summary": "死亡率逾5成！女性結紮「很有用」 卵巢癌機率大降80％&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOZGFBUkQ2ajlVblBVZmYzWExCTExYUnliNXc0SGtlZHNIdUFzZDBic0RkLTRtWS1La0lNSGQzZWM5VGxadUNQX3VFUjZmc2FtWnBoelAzWXdmT0pSbjZfWkRpTWtDTVVuVUUyaFRkSzlkZ2lJdFI3a0JhR1h0QUlVV0ZPQVBPUVp1dzFia0RrdjdsWDZkTVRVYmJKQjNFMnVvZzFidVN5YW56YkJxTzMwdlYybFpFSm9sMk1PWm92Z21oRzJkdVlZQ09QWXJpWUhFVTJqOXU3U0Fvel9QeTJ1cWxQdC1zcE1FcXl5SERRVmVyaGpJblFtSXRaT0psMzJLZEotbTBiWWFDaGdOcXctUWJ4NzFJVUN5WU5UUjZmc0hvRTIwdTRIVVNLLWZBZkFNTE4yRTd6RHJGRVVSaGVB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "卵巢癌",
+          "keyword": "卵巢癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bbbc7a0e83b1",
+      "title": "罹患癌症的足部WAG 凱莉芬利森(Kelly Finlayson) 揭露了她的丈夫如何透過令人震驚的酒吧行為危及她的健康，並對此撒了謊。",
+      "published": "2026-04-28T04:21:11+00:00",
+      "summary": "罹患癌症的足部WAG 凱莉芬利森(Kelly Finlayson) 揭露了她的丈夫如何透過令人震驚的酒吧行為危及她的健康，並對此撒了謊。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOWXZmU1BvUUx5M0djSEJ5V3hmT3pVZlVuVlNDUnUwRG9FdE9zRTRDanJrbTNMb0U1alJDTnMwWmo3V0xFa0lHSTlYb0I3MlhvN2pYUFJoZ1ZjdVpSWGNPSlF0dWxKNjVCcGRmVU1pUHMzd2FaUzRETzJsdUxtemNIZ3hmNzVaZ2xhV09GdWxYOG8zWnd6Q0JaekMtODYwS0xIVnhxWVdYd2ZhTFFna0MySWtrNm5PejBUNVJ3Rk9FVUFSVVdGbUpQd1FqRVUteUExU0c4dENLM1pqUktsdndjc3dCeG1qam1SenJCcXcwMGxaZDRqcXp3Q2dEWkprVmpBWHlWMFl0WmdHVk1YR29EZTBQNFZCRE1HU3BYNTBrMF9QVmhUTG9NMkpSeTZpTmh3Y0tDdmNsOEd4ODl3cUlEajA4Q3F6VHFNNzBfRUFUbnRxOEhnYm44X1lfbkFsQjZBZGtPSms0Y05wQU1Cc2F1VHFMdUQxbnZPUkFWV2tWQQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "61adfd8ddbba",
+      "title": "癌症最怕的不是治療，而是你體內的環境！研究揭5大關鍵：發炎、缺氧讓癌細胞更難清",
+      "published": "2026-04-28T04:17:40+00:00",
+      "summary": "癌症最怕的不是治療，而是你體內的環境！研究揭5大關鍵：發炎、缺氧讓癌細胞更難清&nbsp;&nbsp;良醫健康網癌症為何越來越年輕？關鍵可能不只是基因&nbsp;&nbsp;TechNews 科技新報癌症年輕化是吃出來的！醫推「１飲食法」抗癌、抗發炎：１週就讓身體變輕盈&nbsp;&nbsp;Yahoo新聞防癌飲食｜年輕人患癌飲食是元兇 做3件事防癌 醫生親測一星期後大推：一身輕！&nbsp;&nbsp;香港經濟日報HKET毒物科名醫顏宗海曝防癌祕訣！必吃這些食物抗氧化 抗癌千萬別碰這2物&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "良醫健康網",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVazFiTVN2LWxGV0s5NDlfQVJRMGVwa2gtT2RNYkUwTTdSYWZ6QzZpbW4yNUZpYUhTcEFZNXlYSGZYeU5xX21oYTgzU3ExMnVGR1hvVFptbXVxdzRfQk9LYnBrQWREckN3Q3c?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "c6b12d2fdea3",
       "title": "不菸不酒也罹癌？癌症不是壞掉，是訊號斷線…吃進去的每一口天然食材，都在叫癌細胞閉嘴",
@@ -249,6 +696,19 @@
       ]
     },
     {
+      "id": "a53f3296aa49",
+      "title": "當兵染菜花！跟同梯「互借2物」竟中標 醫證實傳染力超高：鼻孔也長",
+      "published": "2026-04-27T22:29:50+00:00",
+      "summary": "當兵染菜花！跟同梯「互借2物」竟中標 醫證實傳染力超高：鼻孔也長&nbsp;&nbsp;Yahoo新聞沒性行為…當兵「共用2物」衰染菜花！醫親揭職災：鼻孔裡也長&nbsp;&nbsp;ETtoday健康雲當兵共用「這物品」竟染菜花？同梯爆感染風波 女友怒疑「偷吃」鬧分手&nbsp;&nbsp;聯合新聞網醫起看／他當兵「共用2物」染菜花 泌尿科醫師解釋原因&nbsp;&nbsp;東森新聞沒性行為也中！當兵共用毛巾染菜花 醫揭看診沒戴口罩「鼻孔也長」&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNLWt6QUNzVWFfN040Q0FtU2x6UjlwcDVpc3VLY0FkaDNqa0h5VVdjNFFtM0MyTG1qZ3R3QWVRX0steEFTWFJrUmJFeGZPb01pMmhhY3dBV2dCNE5fZlg5dWVFRHFZeWhKc3Z2dWRYWWdOa0JXbG5rQUg1MVh5TTRURHVLYlBqRDBKdFNHTEt4SnQ2cUdxRUR2dHVSSzllR0Fvc0ZCVXdJbExWdWxCU3lJNE43ZUhMaUM1UEs3c19JakdJaW5nN2N2aWxiYV9UTGc4QWlLNFFpUktkN3Nxd2N4bmZrNU52NkROZEJfb3dTeXpBQ0JSVnV2VU8tYXBYU3VlM1VXZ1g5cnNoUnZQRjA1TGNETlJqaTBrMXo0NUQ3TF9ybGwteXpZYlZTcEJzaWRRY1p3TkFfWkR4UzhsaUpwNHRhZ0FQeGRVdjJRLVZMRHpCcnljOE1RckRxMnVkbHBxOEE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "bf8f6ded18da",
       "title": "《減肥》終止瘦瘦針停藥復胖魔咒！創新的「腸道重置」微創手術，助80%患者鎖住減重成果！",
       "published": "2026-04-27T20:49:22+00:00",
@@ -273,55 +733,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "9fc04215b822",
-      "title": "當兵共用2物竟染菜花？苦主沒亂來衰遭分手 醫曝同行更慘：鼻孔也長",
-      "published": "2026-04-27T15:10:41+00:00",
-      "summary": "當兵共用2物竟染菜花？苦主沒亂來衰遭分手 醫曝同行更慘：鼻孔也長&nbsp;&nbsp;祝你健康沒性行為…當兵「共用2物」衰染菜花！醫親揭職災：鼻孔裡也長&nbsp;&nbsp;ETtoday健康雲當兵染菜花！跟同梯「互借2物」竟中標 醫證實傳染力超高：鼻孔也長&nbsp;&nbsp;鏡週刊Mirror Media沒性行為也中！當兵共用毛巾染菜花 醫揭看診沒戴口罩「鼻孔也長」&nbsp;&nbsp;TVBS新聞網醫起看／他當兵「共用2物」染菜花 泌尿科醫師解釋原因&nbsp;&nbsp;東森新聞",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PQ2JiNjIxSXozTlJRV1ZxcDg1YkV5M0VmeF9BRFZHLThaX0xReEpLOE44VWRMbF9aanBFYzhRcExXUEF5M21oT2pDaFk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f52e94225212",
-      "title": "健康網》睡太久可能更傷腦！ 研究：超過8小時失智風險升28％",
-      "published": "2026-04-27T13:43:00+00:00",
-      "summary": "健康網》睡太久可能更傷腦！ 研究：超過8小時失智風險升28％&nbsp;&nbsp;自由健康網記憶力變好差？醫揭元凶：很多人每天都在做這件事失智機率狂飆- 書房&nbsp;&nbsp;工商時報「防失智最佳睡眠時間」曝！超過反增28%失智風險&nbsp;&nbsp;祝你健康別只關注久坐傷身 最新研究：坐著時「做對事」可預防失智症&nbsp;&nbsp;元氣網大腦老化幾歲開始？記憶力變差是警訊，揭密延緩衰老3大原理&nbsp;&nbsp;早安健康",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4RmkzR1hoT3paYldkZWpVeGI4OXhwS1RFQWZxNV9YMGVselBDVlYxZ2xWVG04UGZaZEVOd1VZenJ3UHN1RjEzbFgyQkgzdGQ5SEpCUlVEUzFlVTYyNlM4WHAwcHXSAWpBVV95cUxPdWxaMnNXeWc0dmpBYVNRMWtjWkI3Q25va3EzOHZpODhDOW5tdTVtTkh4WW93VklLeTByX3NoeWYtVWJLVkptZ3NOZjlaLWlPTHJHZmY0c1NNR2p0UkNzMEVUemNCaWkwQUxR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "8aee918f8c2c",
@@ -612,19 +1023,6 @@
       ]
     },
     {
-      "id": "0ab6c4bfcade",
-      "title": "以為吃事前藥就不會得性病了？醫破除「PrEP」萬能迷思",
-      "published": "2026-04-27T02:48:26+00:00",
-      "summary": "以為吃事前藥就不會得性病了？醫破除「PrEP」萬能迷思&nbsp;&nbsp;Heho健康前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PUEVKTERPUUoxQjhibDBXUU1sNUlnVXk0Uy1ZS2x4bjdNVXl0WVRsU09LMTlpa1l4eUNQOGR5S290YkFtRUotX1pPWQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "49a34923c60c",
       "title": "為頭頸癌病友開啟新希望：BNCT講座雲嘉地區登場 大林慈濟展現整合照護實力 | 醫藥生技 | 商情",
       "published": "2026-04-27T02:01:14+00:00",
@@ -652,6 +1050,55 @@
           ]
         }
       ]
+    },
+    {
+      "id": "c5c704b6c797",
+      "title": "防失智最佳睡眠時間！不理反大增失智風險 - 鏡週刊Mirror Media",
+      "published": "2026-04-26T22:58:00+00:00",
+      "summary": "防失智最佳睡眠時間！不理反大增失智風險&nbsp;&nbsp;鏡週刊Mirror Media「防失智最佳睡眠時間」曝！超過反增28%失智風險&nbsp;&nbsp;祝你健康記憶力變好差？醫揭元凶：很多人每天都在做這件事失智機率狂飆- 書房&nbsp;&nbsp;工商時報別只關注久坐傷身 最新研究：坐著時「做對事」可預防失智症&nbsp;&nbsp;元氣網大腦老化幾歲開始？記憶力變差是警訊，揭密延緩衰老3大原理&nbsp;&nbsp;早安健康",
+      "sources": [
+        {
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PSFowT1g4Y1JKc21UakxNbmdCYy1fandnaTVyRGQzaV9xdF9Pd2k2WDdPQVNUQnVnR251ZWZ3WWdiR25pTjNGRTFDYnh4eFpUTmlHaUJCYWQ3UlVm0gFiQVVfeXFMTmRGcXNmVzN4NHFtS0NhWDN4V01KTGxKV2F6eld6Y3BBbGdkTFZUV2Q2YU1xV25YeU9DVDRFWXNOLVBJdnhpcEUxOEc3ajlWbG5GV3ZqSjQzNTNFSGZjLVdUTXc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b32f15a12ed7",
+      "title": "吃事前藥就穩了？30歲男染「淋病」崩潰",
+      "published": "2026-04-26T12:30:00+00:00",
+      "summary": "吃事前藥就穩了？30歲男染「淋病」崩潰&nbsp;&nbsp;民報吃了PrEP仍染淋病？醫警告：沒有一種藥能防所有性病&nbsp;&nbsp;Yahoo新聞以為吃事前藥準沒事！30歲男「下體流膿」慘罹淋病 醫：並非萬靈丹&nbsp;&nbsp;鏡新聞",
+      "sources": [
+        {
+          "name": "民報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9weDgzZ3M0aFJNeUljVVI2SWNicTlfQzhkTU9VRTJhSnVlSHg3bjdfbnhMbTFtS2V4ckw3ajNQSjk0dUM3Vy1DOUctclV0SjdhWUoyVURMN1JuUE95OEFBUA?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "c8b8587032e1",
@@ -696,7 +1143,7 @@
       "id": "1dc302e92a2f",
       "title": "年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」",
       "published": "2026-04-26T04:14:00+00:00",
-      "summary": "年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」&nbsp;&nbsp;自由健康網大便沉水底正常嗎？台大名醫4字描述「最健康」大便 | 三立新聞網&nbsp;&nbsp;LINE TODAY很多人中招！專家揭6種「幾乎沒感覺」的癌症 肝癌、大腸癌都上榜&nbsp;&nbsp;Yahoo新聞研究：年輕人罹大腸癌案例增加恐與常用除草劑有關| 世界萬象| 全球&nbsp;&nbsp;聯合新聞網不是老人病！千禧世代「大腸直腸癌」死亡率飆升 大便習慣變了快就醫&nbsp;&nbsp;科技島",
+      "summary": "年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」&nbsp;&nbsp;自由健康網台大醫師：每天的排便習慣，告訴你是否罹患大腸癌&nbsp;&nbsp;造咖很多人中招！專家揭6種「幾乎沒感覺」的癌症 肝癌、大腸癌都上榜&nbsp;&nbsp;Yahoo新聞大便沉水底正常嗎？台大名醫4字描述「最健康」大便 | 三立新聞網&nbsp;&nbsp;LINE TODAY50歲女沒血便、沒變瘦「天天睡不飽」竟是大腸癌 醫揭右側大腸癌隱藏訊號&nbsp;&nbsp;TVBS 健康2.0",
       "sources": [
         {
           "name": "自由健康網",
@@ -918,29 +1365,6 @@
             {
               "slug": "oteracil",
               "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "直腸癌",
-          "keyword": "直腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         },
