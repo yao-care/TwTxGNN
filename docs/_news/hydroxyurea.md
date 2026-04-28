@@ -44,11 +44,11 @@ permalink: /news/hydroxyurea/
 
 ## 相關新聞（7 則）
 
-### [死亡率逾5成！女性結紮「很有用」 卵巢癌機率大降80％](https://news.google.com/rss/articles/CBMivwJBVV95cUxOZGFBUkQ2ajlVblBVZmYzWExCTExYUnliNXc0SGtlZHNIdUFzZDBic0RkLTRtWS1La0lNSGQzZWM5VGxadUNQX3VFUjZmc2FtWnBoelAzWXdmT0pSbjZfWkRpTWtDTVVuVUUyaFRkSzlkZ2lJdFI3a0JhR1h0QUlVV0ZPQVBPUVp1dzFia0RrdjdsWDZkTVRVYmJKQjNFMnVvZzFidVN5YW56YkJxTzMwdlYybFpFSm9sMk1PWm92Z21oRzJkdVlZQ09QWXJpWUhFVTJqOXU3U0Fvel9QeTJ1cWxQdC1zcE1FcXl5SERRVmVyaGpJblFtSXRaT0psMzJLZEotbTBiWWFDaGdOcXctUWJ4NzFJVUN5WU5UUjZmc0hvRTIwdTRIVVNLLWZBZkFNTE4yRTd6RHJGRVVSaGVB?oc=5)
+### [死亡率逾5成！女性結紮「很有用」 卵巢癌機率大降80％](https://news.google.com/rss/articles/CBMibkFVX3lxTE85TlBaZFM5UWJ5Q0t1WGJ3UEhqb0RiM01IN3l0elNjcXZadVFSRTEyb2pVVkt0MF9YMzQxYjRKc241cmgwc1FvUERlYjJ0V1Y1N3gtTEZ5MDVTX0t6U3BjUXBFaWhCSEVZQVdfVVpn?oc=5)
 
 2026-04-28 <span class="news-indication-tag">卵巢癌</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMivwJBVV95cUxOZGFBUkQ2ajlVblBVZmYzWExCTExYUnliNXc0SGtlZHNIdUFzZDBic0RkLTRtWS1La0lNSGQzZWM5VGxadUNQX3VFUjZmc2FtWnBoelAzWXdmT0pSbjZfWkRpTWtDTVVuVUUyaFRkSzlkZ2lJdFI3a0JhR1h0QUlVV0ZPQVBPUVp1dzFia0RrdjdsWDZkTVRVYmJKQjNFMnVvZzFidVN5YW56YkJxTzMwdlYybFpFSm9sMk1PWm92Z21oRzJkdVlZQ09QWXJpWUhFVTJqOXU3U0Fvel9QeTJ1cWxQdC1zcE1FcXl5SERRVmVyaGpJblFtSXRaT0psMzJLZEotbTBiWWFDaGdOcXctUWJ4NzFJVUN5WU5UUjZmc0hvRTIwdTRIVVNLLWZBZkFNTE4yRTd6RHJGRVVSaGVB?oc=5)
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE85TlBaZFM5UWJ5Q0t1WGJ3UEhqb0RiM01IN3l0elNjcXZadVFSRTEyb2pVVkt0MF9YMzQxYjRKc241cmgwc1FvUERlYjJ0V1Y1N3gtTEZ5MDVTX0t6U3BjUXBFaWhCSEVZQVdfVVpn?oc=5)
 
 ---
 
@@ -92,11 +92,11 @@ permalink: /news/hydroxyurea/
 
 ---
 
-### [年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kMXpFV3ZNaHl6bEpjdThQb3ZNbjdyWDdFZTcxT0NKOE1yOERNU1ZMSUo4NFZacTlxTEI5dEFSdFhsZzJNcmRQZ0M4QXE0UFk0Ul91YmN3UDJlNUlVSmtNYWwxNWzSAWpBVV95cUxOTTd2SnhLZzFVNFBTWHVTZTExMW1rcmdtcV9tZy11NUR4RWltZ21mSlJYd1hQYVFGVEd2dFVJcVl2TDFTUUM0bjF4SEpMZWJHX1drTy13YkVLb05oallFNUlkVEtjSDE1cUZB?oc=5)
+### [年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 | 自由電子報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZ3RzaV9TMTFseElWWmU4UTBsWWE0ZVd2cEt5ZlBWVlduUjZkbWJzUFFCdDlGYm1OVlJtZFQ4SmVxVWw4akxUb1hjTFFSUXlrQTdxMVpR?oc=5)
 
-2026-04-26 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肝癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-04-26 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kMXpFV3ZNaHl6bEpjdThQb3ZNbjdyWDdFZTcxT0NKOE1yOERNU1ZMSUo4NFZacTlxTEI5dEFSdFhsZzJNcmRQZ0M4QXE0UFk0Ul91YmN3UDJlNUlVSmtNYWwxNWzSAWpBVV95cUxOTTd2SnhLZzFVNFBTWHVTZTExMW1rcmdtcV9tZy11NUR4RWltZ21mSlJYd1hQYVFGVEd2dFVJcVl2TDFTUUM0bjF4SEpMZWJHX1drTy13YkVLb05oallFNUlkVEtjSDE1cUZB?oc=5)
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZ3RzaV9TMTFseElWWmU4UTBsWWE0ZVd2cEt5ZlBWVlduUjZkbWJzUFFCdDlGYm1OVlJtZFQ4SmVxVWw4akxUb1hjTFFSUXlrQTdxMVpR?oc=5)
 
 ---
 

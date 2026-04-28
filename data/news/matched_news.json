@@ -1,17 +1,30 @@
 {
-  "last_updated": "2026-04-28T05:50:44.601674+00:00",
-  "total_count": 20,
+  "last_updated": "2026-04-28T08:08:38.412276+00:00",
+  "total_count": 22,
   "matched_count": 10,
   "news": [
     {
-      "id": "84bdfd9c798f",
-      "title": "死亡率逾5成！女性結紮「很有用」 卵巢癌機率大降80％",
-      "published": "2026-04-28T05:37:30+00:00",
-      "summary": "死亡率逾5成！女性結紮「很有用」 卵巢癌機率大降80％&nbsp;&nbsp;Yahoo新聞",
+      "id": "34a6682ca67a",
+      "title": "抗老穩血糖杏仁奪全球最健康食物冠軍最優3吃法曝- 健康",
+      "published": "2026-04-28T07:23:09+00:00",
+      "summary": "抗老穩血糖杏仁奪全球最健康食物冠軍最優3吃法曝- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOZGFBUkQ2ajlVblBVZmYzWExCTExYUnliNXc0SGtlZHNIdUFzZDBic0RkLTRtWS1La0lNSGQzZWM5VGxadUNQX3VFUjZmc2FtWnBoelAzWXdmT0pSbjZfWkRpTWtDTVVuVUUyaFRkSzlkZ2lJdFI3a0JhR1h0QUlVV0ZPQVBPUVp1dzFia0RrdjdsWDZkTVRVYmJKQjNFMnVvZzFidVN5YW56YkJxTzMwdlYybFpFSm9sMk1PWm92Z21oRzJkdVlZQ09QWXJpWUhFVTJqOXU3U0Fvel9QeTJ1cWxQdC1zcE1FcXl5SERRVmVyaGpJblFtSXRaT0psMzJLZEotbTBiWWFDaGdOcXctUWJ4NzFJVUN5WU5UUjZmc0hvRTIwdTRIVVNLLWZBZkFNTE4yRTd6RHJGRVVSaGVB?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaDVqRE9iODEwdVAyZ205X3gxalZ3NmxIMXMwMUwybFgwTWJZZzRTZ3F3c09TTFNPa3NYdmdEVjlkajBiYjlhaGVlQ0J4TTFzdmtwb2dia1h4ZFE5cUo2SDFmRXdNNGRPM0M2cVd4dkN5VU1SWmRtTzlwOFhjUzVwc0FpbkhBdVVmdUgtcU5QWQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "cbbc4467922f",
+      "title": "死亡率逾5成！女性結紮「很有用」 卵巢癌機率大降80％",
+      "published": "2026-04-28T05:09:15+00:00",
+      "summary": "死亡率逾5成！女性結紮「很有用」 卵巢癌機率大降80％&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85TlBaZFM5UWJ5Q0t1WGJ3UEhqb0RiM01IN3l0elNjcXZadVFSRTEyb2pVVkt0MF9YMzQxYjRKc241cmgwc1FvUERlYjJ0V1Y1N3gtTEZ5MDVTX0t6U3BjUXBFaWhCSEVZQVdfVVpn?oc=5"
         }
       ],
       "matched_keywords": [
@@ -451,10 +464,23 @@
       ]
     },
     {
+      "id": "e3c8062dddb8",
+      "title": "生理期做愛恐埋下隱憂！婦產科醫曝「經血逆流」增巧克力囊腫風險",
+      "published": "2026-04-28T03:00:00+00:00",
+      "summary": "生理期做愛恐埋下隱憂！婦產科醫曝「經血逆流」增巧克力囊腫風險&nbsp;&nbsp;優活健康網",
+      "sources": [
+        {
+          "name": "優活健康網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04OFhFcW5rS2NHMC1qWDdTUnFQWkpCa21aX2JvTWdCYVFDd3c0ZjV6Yi0yWUdKak5vZHdyZmFVV3M5eWJoS0wwd0dvSkVWcFNHeUx3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "c6b12d2fdea3",
       "title": "不菸不酒也罹癌？癌症不是壞掉，是訊號斷線…吃進去的每一口天然食材，都在叫癌細胞閉嘴",
       "published": "2026-04-28T01:24:00+00:00",
-      "summary": "不菸不酒也罹癌？癌症不是壞掉，是訊號斷線…吃進去的每一口天然食材，都在叫癌細胞閉嘴&nbsp;&nbsp;幸福熟齡醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;東森新聞「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲40歲媽每天1杯果汁「喝出癌」 醫揭「3偽健康飲料」：身體變癌細胞溫床&nbsp;&nbsp;祝你健康討論牆 | 不是珍奶！這飲品「沒壞東西樣子」 喝10年癌細胞恐肆虐&nbsp;&nbsp;LINE TODAY",
+      "summary": "不菸不酒也罹癌？癌症不是壞掉，是訊號斷線…吃進去的每一口天然食材，都在叫癌細胞閉嘴&nbsp;&nbsp;幸福熟齡醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;東森新聞「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲40歲媽每天1杯果汁「喝出癌」 醫揭「3偽健康飲料」：身體變癌細胞溫床&nbsp;&nbsp;三立新聞網SETN.com討論牆 | 不是珍奶！這飲品「沒壞東西樣子」 喝10年癌細胞恐肆虐&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "幸福熟齡",
@@ -660,6 +686,19 @@
       ]
     },
     {
+      "id": "5f2cf2480114",
+      "title": "短短10分鐘高強度運動就能改變血液！最新研究：有助抑制癌細胞",
+      "published": "2026-04-28T01:05:19+00:00",
+      "summary": "短短10分鐘高強度運動就能改變血液！最新研究：有助抑制癌細胞&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wWVJnVk1YSW5iZ01fYjhmNTFmOV9UalI0ekl2QzZKWG13RGZvYTEwRUdDc2xzUzdIUFRmZURoZlBabTBHZE13d1FnajhDSV9wUklZeVNmYmROaVoy0gFiQVVfeXFMTXpXNFJpQUVuX19lVVM2TWQyc0hhY3FEdUVhYzJtZl9rOE5wczlleGY2SXh0SFFINjFXN1ExelYtdHdhalZFZjVTdjdCRjBuNy1JVkQxamVMb0ViUFgzM0xycXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "acaaf4a2e4f2",
       "title": "健康解碼｜病人氣喘腹痛求醫 竟是心臟衰竭警號 早診早治 扭轉致命危機",
       "published": "2026-04-27T23:30:00+00:00",
@@ -699,7 +738,7 @@
       "id": "a53f3296aa49",
       "title": "當兵染菜花！跟同梯「互借2物」竟中標 醫證實傳染力超高：鼻孔也長",
       "published": "2026-04-27T22:29:50+00:00",
-      "summary": "當兵染菜花！跟同梯「互借2物」竟中標 醫證實傳染力超高：鼻孔也長&nbsp;&nbsp;Yahoo新聞沒性行為…當兵「共用2物」衰染菜花！醫親揭職災：鼻孔裡也長&nbsp;&nbsp;ETtoday健康雲當兵共用「這物品」竟染菜花？同梯爆感染風波 女友怒疑「偷吃」鬧分手&nbsp;&nbsp;聯合新聞網醫起看／他當兵「共用2物」染菜花 泌尿科醫師解釋原因&nbsp;&nbsp;東森新聞沒性行為也中！當兵共用毛巾染菜花 醫揭看診沒戴口罩「鼻孔也長」&nbsp;&nbsp;TVBS新聞網",
+      "summary": "當兵染菜花！跟同梯「互借2物」竟中標 醫證實傳染力超高：鼻孔也長&nbsp;&nbsp;Yahoo新聞沒性行為…當兵「共用2物」衰染菜花！醫親揭職災：鼻孔裡也長&nbsp;&nbsp;ETtoday健康雲沒有性行為也可能感染菜花？ 泌尿科醫師揭露「職災」：感染性極強| 生活&nbsp;&nbsp;Newtalk新聞沒性行為也中！當兵共用毛巾染菜花 醫揭看診沒戴口罩「鼻孔也長」&nbsp;&nbsp;TVBS新聞網當兵共用2物竟染菜花？苦主沒亂來衰遭分手 醫曝同行更慘：鼻孔也長&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -986,7 +1025,7 @@
       "id": "5fec661b652e",
       "title": "症狀像感冒卻恐致命 呼吸道融合病毒是被低估的肺炎元兇",
       "published": "2026-04-27T05:00:00+00:00",
-      "summary": "症狀像感冒卻恐致命 呼吸道融合病毒是被低估的肺炎元兇&nbsp;&nbsp;大纪元幫家中長輩注意RSV！防肺炎、中風等風險，預防策略一次看&nbsp;&nbsp;蕃新聞RSV不是幼兒專利…家庭交叉傳染 長者肺炎發生率為流感2.7倍&nbsp;&nbsp;元氣網嬰幼兒呼吸道殺手！醫曝RSV預防新里程 單株抗體體給寶寶直接保護&nbsp;&nbsp;三立新聞網SETN.com",
+      "summary": "症狀像感冒卻恐致命 呼吸道融合病毒是被低估的肺炎元兇&nbsp;&nbsp;大纪元幫家中長輩注意RSV！防肺炎、中風等風險，預防策略一次看&nbsp;&nbsp;蕃新聞嬰幼兒呼吸道殺手！醫曝RSV預防新里程 單株抗體體給寶寶直接保護&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
           "name": "大纪元",
@@ -1055,7 +1094,7 @@
       "id": "c5c704b6c797",
       "title": "防失智最佳睡眠時間！不理反大增失智風險 - 鏡週刊Mirror Media",
       "published": "2026-04-26T22:58:00+00:00",
-      "summary": "防失智最佳睡眠時間！不理反大增失智風險&nbsp;&nbsp;鏡週刊Mirror Media「防失智最佳睡眠時間」曝！超過反增28%失智風險&nbsp;&nbsp;祝你健康記憶力變好差？醫揭元凶：很多人每天都在做這件事失智機率狂飆- 書房&nbsp;&nbsp;工商時報別只關注久坐傷身 最新研究：坐著時「做對事」可預防失智症&nbsp;&nbsp;元氣網大腦老化幾歲開始？記憶力變差是警訊，揭密延緩衰老3大原理&nbsp;&nbsp;早安健康",
+      "summary": "防失智最佳睡眠時間！不理反大增失智風險&nbsp;&nbsp;鏡週刊Mirror Media「防失智最佳睡眠時間」曝！超過反增28%失智風險&nbsp;&nbsp;三立新聞網SETN.com記憶力變好差？醫揭元凶：很多人每天都在做這件事失智機率狂飆- 書房&nbsp;&nbsp;工商時報別只關注久坐傷身 最新研究：坐著時「做對事」可預防失智症&nbsp;&nbsp;元氣網大腦老化幾歲開始？記憶力變差是警訊，揭密延緩衰老3大原理&nbsp;&nbsp;早安健康",
       "sources": [
         {
           "name": "鏡週刊Mirror Media",
@@ -1088,17 +1127,52 @@
       ]
     },
     {
-      "id": "b32f15a12ed7",
-      "title": "吃事前藥就穩了？30歲男染「淋病」崩潰",
-      "published": "2026-04-26T12:30:00+00:00",
-      "summary": "吃事前藥就穩了？30歲男染「淋病」崩潰&nbsp;&nbsp;民報吃了PrEP仍染淋病？醫警告：沒有一種藥能防所有性病&nbsp;&nbsp;Yahoo新聞以為吃事前藥準沒事！30歲男「下體流膿」慘罹淋病 醫：並非萬靈丹&nbsp;&nbsp;鏡新聞",
+      "id": "524ed7b65492",
+      "title": "年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 | 自由電子報 - LINE TODAY",
+      "published": "2026-04-26T12:23:29+00:00",
+      "summary": "年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 | 自由電子報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "民報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9weDgzZ3M0aFJNeUljVVI2SWNicTlfQzhkTU9VRTJhSnVlSHg3bjdfbnhMbTFtS2V4ckw3ajNQSjk0dUM3Vy1DOUctclV0SjdhWUoyVURMN1JuUE95OEFBUA?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZ3RzaV9TMTFseElWWmU4UTBsWWE0ZVd2cEt5ZlBWVlduUjZkbWJzUFFCdDlGYm1OVlJtZFQ4SmVxVWw4akxUb1hjTFFSUXlrQTdxMVpR?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "c8b8587032e1",
@@ -1138,260 +1212,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "1dc302e92a2f",
-      "title": "年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」",
-      "published": "2026-04-26T04:14:00+00:00",
-      "summary": "年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」&nbsp;&nbsp;自由健康網台大醫師：每天的排便習慣，告訴你是否罹患大腸癌&nbsp;&nbsp;造咖很多人中招！專家揭6種「幾乎沒感覺」的癌症 肝癌、大腸癌都上榜&nbsp;&nbsp;Yahoo新聞大便沉水底正常嗎？台大名醫4字描述「最健康」大便 | 三立新聞網&nbsp;&nbsp;LINE TODAY50歲女沒血便、沒變瘦「天天睡不飽」竟是大腸癌 醫揭右側大腸癌隱藏訊號&nbsp;&nbsp;TVBS 健康2.0",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kMXpFV3ZNaHl6bEpjdThQb3ZNbjdyWDdFZTcxT0NKOE1yOERNU1ZMSUo4NFZacTlxTEI5dEFSdFhsZzJNcmRQZ0M4QXE0UFk0Ul91YmN3UDJlNUlVSmtNYWwxNWzSAWpBVV95cUxOTTd2SnhLZzFVNFBTWHVTZTExMW1rcmdtcV9tZy11NUR4RWltZ21mSlJYd1hQYVFGVEd2dFVJcVl2TDFTUUM0bjF4SEpMZWJHX1drTy13YkVLb05oallFNUlkVEtjSDE1cUZB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "liver sarcoma",
-          "keyword": "肝癌",
-          "related_drugs": [
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

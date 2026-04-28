@@ -31,11 +31,11 @@ permalink: /news/colonic-neoplasm/
 
 ## 相關新聞（1 則）
 
-### [年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kMXpFV3ZNaHl6bEpjdThQb3ZNbjdyWDdFZTcxT0NKOE1yOERNU1ZMSUo4NFZacTlxTEI5dEFSdFhsZzJNcmRQZ0M4QXE0UFk0Ul91YmN3UDJlNUlVSmtNYWwxNWzSAWpBVV95cUxOTTd2SnhLZzFVNFBTWHVTZTExMW1rcmdtcV9tZy11NUR4RWltZ21mSlJYd1hQYVFGVEd2dFVJcVl2TDFTUUM0bjF4SEpMZWJHX1drTy13YkVLb05oallFNUlkVEtjSDE1cUZB?oc=5)
+### [年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 | 自由電子報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZ3RzaV9TMTFseElWWmU4UTBsWWE0ZVd2cEt5ZlBWVlduUjZkbWJzUFFCdDlGYm1OVlJtZFQ4SmVxVWw4akxUb1hjTFFSUXlrQTdxMVpR?oc=5)
 
 2026-04-26
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kMXpFV3ZNaHl6bEpjdThQb3ZNbjdyWDdFZTcxT0NKOE1yOERNU1ZMSUo4NFZacTlxTEI5dEFSdFhsZzJNcmRQZ0M4QXE0UFk0Ul91YmN3UDJlNUlVSmtNYWwxNWzSAWpBVV95cUxOTTd2SnhLZzFVNFBTWHVTZTExMW1rcmdtcV9tZy11NUR4RWltZ21mSlJYd1hQYVFGVEd2dFVJcVl2TDFTUUM0bjF4SEpMZWJHX1drTy13YkVLb05oallFNUlkVEtjSDE1cUZB?oc=5)
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZ3RzaV9TMTFseElWWmU4UTBsWWE0ZVd2cEt5ZlBWVlduUjZkbWJzUFFCdDlGYm1OVlJtZFQ4SmVxVWw4akxUb1hjTFFSUXlrQTdxMVpR?oc=5)
 
 ---
 

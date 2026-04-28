@@ -14,7 +14,7 @@ permalink: /news/vismodegib/
 ---
 
 <p class="key-answer" data-question="Vismodegib 有什麼相關新聞？">
-<strong>Vismodegib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vismodegib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/vismodegib/
 <p><a href="{{ '/drugs/vismodegib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [罹患癌症的足部WAG 凱莉芬利森(Kelly Finlayson) 揭露了她的丈夫如何透過令人震驚的酒吧行為危及她的健康，並對此撒了謊。](https://news.google.com/rss/articles/CBMi_wJBVV95cUxOWXZmU1BvUUx5M0djSEJ5V3hmT3pVZlVuVlNDUnUwRG9FdE9zRTRDanJrbTNMb0U1alJDTnMwWmo3V0xFa0lHSTlYb0I3MlhvN2pYUFJoZ1ZjdVpSWGNPSlF0dWxKNjVCcGRmVU1pUHMzd2FaUzRETzJsdUxtemNIZ3hmNzVaZ2xhV09GdWxYOG8zWnd6Q0JaekMtODYwS0xIVnhxWVdYd2ZhTFFna0MySWtrNm5PejBUNVJ3Rk9FVUFSVVdGbUpQd1FqRVUteUExU0c4dENLM1pqUktsdndjc3dCeG1qam1SenJCcXcwMGxaZDRqcXp3Q2dEWkprVmpBWHlWMFl0WmdHVk1YR29EZTBQNFZCRE1HU3BYNTBrMF9QVmhUTG9NMkpSeTZpTmh3Y0tDdmNsOEd4ODl3cUlEajA4Q3F6VHFNNzBfRUFUbnRxOEhnYm44X1lfbkFsQjZBZGtPSms0Y05wQU1Cc2F1VHFMdUQxbnZPUkFWV2tWQQ?oc=5)
 
@@ -73,14 +73,6 @@ permalink: /news/vismodegib/
 2026-04-27 <span class="news-indication-tag">癌症</span>
 
 來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi9AJBVV95cUxQTndtS1VieTF3bFNvTTN1TXdpcHlsTFVueVlHVHl3WVRxMFlKRWZCLWdkeUhZLTFhUXowbjh4Mm5HS3NUQmpqblVRV05jRENQNlI5RXNBbTVGdXBSZ0tBMVJhY2RDeHkyeENpTTZXdXlTOWx4cjc1MXdUeDBDUnRnWHFOUFdSbEYyaVNkc3RBSl93SG10aG9EZkRkWFlRS1ZUT1hmN0NTWHNoQ3ZmdnZhTlBiMWRiQUdIcDh4MFg0eFpSd2NWd2RYZjFJWGNxekFNS2tMcW44ZUpKVmJtNG1mNUlRSTRET0xpdG1qaFZqd0VSNDVBYW5jc3pzQnhPX25RZXJ3UWk5S0huS3BZYWJqb1JuLUhkT1VHR0oxYUJzQUR4RmY0eXZaU0JuN25IZG55V3ZKWXl2UEdDdWE1dmp4U1pOMk1PN3BKMUlNUEZDa2tOUi1sZTVFVUxFZ2FhTGdVMFZmekJLREwxRTdOSkpVcWVrZC0?oc=5)
-
----
-
-### [年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kMXpFV3ZNaHl6bEpjdThQb3ZNbjdyWDdFZTcxT0NKOE1yOERNU1ZMSUo4NFZacTlxTEI5dEFSdFhsZzJNcmRQZ0M4QXE0UFk0Ul91YmN3UDJlNUlVSmtNYWwxNWzSAWpBVV95cUxOTTd2SnhLZzFVNFBTWHVTZTExMW1rcmdtcV9tZy11NUR4RWltZ21mSlJYd1hQYVFGVEd2dFVJcVl2TDFTUUM0bjF4SEpMZWJHX1drTy13YkVLb05oallFNUlkVEtjSDE1cUZB?oc=5)
-
-2026-04-26 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肝癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kMXpFV3ZNaHl6bEpjdThQb3ZNbjdyWDdFZTcxT0NKOE1yOERNU1ZMSUo4NFZacTlxTEI5dEFSdFhsZzJNcmRQZ0M4QXE0UFk0Ul91YmN3UDJlNUlVSmtNYWwxNWzSAWpBVV95cUxOTTd2SnhLZzFVNFBTWHVTZTExMW1rcmdtcV9tZy11NUR4RWltZ21mSlJYd1hQYVFGVEd2dFVJcVl2TDFTUUM0bjF4SEpMZWJHX1drTy13YkVLb05oallFNUlkVEtjSDE1cUZB?oc=5)
 
 ---
 
