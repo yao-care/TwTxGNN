@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [死亡率逾5成！女性結紮「很有用」 卵巢癌機率大降80％](https://news.google.com/rss/articles/CBMibkFVX3lxTE85TlBaZFM5UWJ5Q0t1WGJ3UEhqb0RiM01IN3l0elNjcXZadVFSRTEyb2pVVkt0MF9YMzQxYjRKc241cmgwc1FvUERlYjJ0V1Y1N3gtTEZ5MDVTX0t6U3BjUXBFaWhCSEVZQVdfVVpn?oc=5)
 
 2026-04-28 <span class="news-indication-tag">卵巢癌</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE85TlBaZFM5UWJ5Q0t1WGJ3UEhqb0RiM01IN3l0elNjcXZadVFSRTEyb2pVVkt0MF9YMzQxYjRKc241cmgwc1FvUERlYjJ0V1Y1N3gtTEZ5MDVTX0t6U3BjUXBFaWhCSEVZQVdfVVpn?oc=5)
-
----
-
-### [罹患癌症的足部WAG 凱莉芬利森(Kelly Finlayson) 揭露了她的丈夫如何透過令人震驚的酒吧行為危及她的健康，並對此撒了謊。](https://news.google.com/rss/articles/CBMi_wJBVV95cUxOWXZmU1BvUUx5M0djSEJ5V3hmT3pVZlVuVlNDUnUwRG9FdE9zRTRDanJrbTNMb0U1alJDTnMwWmo3V0xFa0lHSTlYb0I3MlhvN2pYUFJoZ1ZjdVpSWGNPSlF0dWxKNjVCcGRmVU1pUHMzd2FaUzRETzJsdUxtemNIZ3hmNzVaZ2xhV09GdWxYOG8zWnd6Q0JaekMtODYwS0xIVnhxWVdYd2ZhTFFna0MySWtrNm5PejBUNVJ3Rk9FVUFSVVdGbUpQd1FqRVUteUExU0c4dENLM1pqUktsdndjc3dCeG1qam1SenJCcXcwMGxaZDRqcXp3Q2dEWkprVmpBWHlWMFl0WmdHVk1YR29EZTBQNFZCRE1HU3BYNTBrMF9QVmhUTG9NMkpSeTZpTmh3Y0tDdmNsOEd4ODl3cUlEajA4Q3F6VHFNNzBfRUFUbnRxOEhnYm44X1lfbkFsQjZBZGtPSms0Y05wQU1Cc2F1VHFMdUQxbnZPUkFWV2tWQQ?oc=5)
-
-2026-04-28 <span class="news-indication-tag">癌症</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi_wJBVV95cUxOWXZmU1BvUUx5M0djSEJ5V3hmT3pVZlVuVlNDUnUwRG9FdE9zRTRDanJrbTNMb0U1alJDTnMwWmo3V0xFa0lHSTlYb0I3MlhvN2pYUFJoZ1ZjdVpSWGNPSlF0dWxKNjVCcGRmVU1pUHMzd2FaUzRETzJsdUxtemNIZ3hmNzVaZ2xhV09GdWxYOG8zWnd6Q0JaekMtODYwS0xIVnhxWVdYd2ZhTFFna0MySWtrNm5PejBUNVJ3Rk9FVUFSVVdGbUpQd1FqRVUteUExU0c4dENLM1pqUktsdndjc3dCeG1qam1SenJCcXcwMGxaZDRqcXp3Q2dEWkprVmpBWHlWMFl0WmdHVk1YR29EZTBQNFZCRE1HU3BYNTBrMF9QVmhUTG9NMkpSeTZpTmh3Y0tDdmNsOEd4ODl3cUlEajA4Q3F6VHFNNzBfRUFUbnRxOEhnYm44X1lfbkFsQjZBZGtPSms0Y05wQU1Cc2F1VHFMdUQxbnZPUkFWV2tWQQ?oc=5)
 
 ---
 

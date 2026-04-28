@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [罹患癌症的足部WAG 凱莉芬利森(Kelly Finlayson) 揭露了她的丈夫如何透過令人震驚的酒吧行為危及她的健康，並對此撒了謊。](https://news.google.com/rss/articles/CBMi_wJBVV95cUxOWXZmU1BvUUx5M0djSEJ5V3hmT3pVZlVuVlNDUnUwRG9FdE9zRTRDanJrbTNMb0U1alJDTnMwWmo3V0xFa0lHSTlYb0I3MlhvN2pYUFJoZ1ZjdVpSWGNPSlF0dWxKNjVCcGRmVU1pUHMzd2FaUzRETzJsdUxtemNIZ3hmNzVaZ2xhV09GdWxYOG8zWnd6Q0JaekMtODYwS0xIVnhxWVdYd2ZhTFFna0MySWtrNm5PejBUNVJ3Rk9FVUFSVVdGbUpQd1FqRVUteUExU0c4dENLM1pqUktsdndjc3dCeG1qam1SenJCcXcwMGxaZDRqcXp3Q2dEWkprVmpBWHlWMFl0WmdHVk1YR29EZTBQNFZCRE1HU3BYNTBrMF9QVmhUTG9NMkpSeTZpTmh3Y0tDdmNsOEd4ODl3cUlEajA4Q3F6VHFNNzBfRUFUbnRxOEhnYm44X1lfbkFsQjZBZGtPSms0Y05wQU1Cc2F1VHFMdUQxbnZPUkFWV2tWQQ?oc=5)
-
-2026-04-28 <span class="news-indication-tag">癌症</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi_wJBVV95cUxOWXZmU1BvUUx5M0djSEJ5V3hmT3pVZlVuVlNDUnUwRG9FdE9zRTRDanJrbTNMb0U1alJDTnMwWmo3V0xFa0lHSTlYb0I3MlhvN2pYUFJoZ1ZjdVpSWGNPSlF0dWxKNjVCcGRmVU1pUHMzd2FaUzRETzJsdUxtemNIZ3hmNzVaZ2xhV09GdWxYOG8zWnd6Q0JaekMtODYwS0xIVnhxWVdYd2ZhTFFna0MySWtrNm5PejBUNVJ3Rk9FVUFSVVdGbUpQd1FqRVUteUExU0c4dENLM1pqUktsdndjc3dCeG1qam1SenJCcXcwMGxaZDRqcXp3Q2dEWkprVmpBWHlWMFl0WmdHVk1YR29EZTBQNFZCRE1HU3BYNTBrMF9QVmhUTG9NMkpSeTZpTmh3Y0tDdmNsOEd4ODl3cUlEajA4Q3F6VHFNNzBfRUFUbnRxOEhnYm44X1lfbkFsQjZBZGtPSms0Y05wQU1Cc2F1VHFMdUQxbnZPUkFWV2tWQQ?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [癌症最怕的不是治療，而是你體內的環境！研究揭5大關鍵：發炎、缺氧讓癌細胞更難清](https://news.google.com/rss/articles/CBMiakFVX3lxTFBVazFiTVN2LWxGV0s5NDlfQVJRMGVwa2gtT2RNYkUwTTdSYWZ6QzZpbW4yNUZpYUhTcEFZNXlYSGZYeU5xX21oYTgzU3ExMnVGR1hvVFptbXVxdzRfQk9LYnBrQWREckN3Q3c?oc=5)
 
@@ -75,11 +67,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [防失智最佳睡眠時間！不理反大增失智風險 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PSFowT1g4Y1JKc21UakxNbmdCYy1fandnaTVyRGQzaV9xdF9Pd2k2WDdPQVNUQnVnR251ZWZ3WWdiR25pTjNGRTFDYnh4eFpUTmlHaUJCYWQ3UlVm0gFiQVVfeXFMTmRGcXNmVzN4NHFtS0NhWDN4V01KTGxKV2F6eld6Y3BBbGdkTFZUV2Q2YU1xV25YeU9DVDRFWXNOLVBJdnhpcEUxOEc3ajlWbG5GV3ZqSjQzNTNFSGZjLVdUTXc?oc=5)
+### [「防失智最佳睡眠時間」曝！超過反增28%失智風險](https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4YVRZY1h5YUpRTnhDVjFZVi1tQzBTR29wVTZPMGFJZUJYSkQzZWp6UElmRGpyTG1XeHNLejFXWXltdnVZMGgyaDBFNmw?oc=5)
 
 2026-04-26 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PSFowT1g4Y1JKc21UakxNbmdCYy1fandnaTVyRGQzaV9xdF9Pd2k2WDdPQVNUQnVnR251ZWZ3WWdiR25pTjNGRTFDYnh4eFpUTmlHaUJCYWQ3UlVm0gFiQVVfeXFMTmRGcXNmVzN4NHFtS0NhWDN4V01KTGxKV2F6eld6Y3BBbGdkTFZUV2Q2YU1xV25YeU9DVDRFWXNOLVBJdnhpcEUxOEc3ajlWbG5GV3ZqSjQzNTNFSGZjLVdUTXc?oc=5)
+來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4YVRZY1h5YUpRTnhDVjFZVi1tQzBTR29wVTZPMGFJZUJYSkQzZWp6UElmRGpyTG1XeHNLejFXWXltdnVZMGgyaDBFNmw?oc=5)
 
 ---
 
