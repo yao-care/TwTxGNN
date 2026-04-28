@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [不菸不酒也罹癌？癌症不是壞掉，是訊號斷線…吃進去的每一口天然食材，都在叫癌細胞閉嘴](https://news.google.com/rss/articles/CBMie0FVX3lxTE4zN200X21weWxkQjZ0bHJZQVRKeXFoQ3FpYldZeU1kV2tvT21sWTVYRDZfWENieGsxRmwxZTZIYXI3Vk41UFBQaGFPMVF6U0xUMmo0bmRwYlhkMzY0b21iTHRzZTZhb2M1RXF4U2M4VXJPZGY0TEtFVW1DNA?oc=5)
+
+2026-04-28 <span class="news-indication-tag">癌症</span>
+
+來源：[幸福熟齡](https://news.google.com/rss/articles/CBMie0FVX3lxTE4zN200X21weWxkQjZ0bHJZQVRKeXFoQ3FpYldZeU1kV2tvT21sWTVYRDZfWENieGsxRmwxZTZIYXI3Vk41UFBQaGFPMVF6U0xUMmo0bmRwYlhkMzY0b21iTHRzZTZhb2M1RXF4U2M4VXJPZGY0TEtFVW1DNA?oc=5)
+
+---
+
+### [健康網》睡太久可能更傷腦！ 研究：超過8小時失智風險升28％](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4RmkzR1hoT3paYldkZWpVeGI4OXhwS1RFQWZxNV9YMGVselBDVlYxZ2xWVG04UGZaZEVOd1VZenJ3UHN1RjEzbFgyQkgzdGQ5SEpCUlVEUzFlVTYyNlM4WHAwcHXSAWpBVV95cUxPdWxaMnNXeWc0dmpBYVNRMWtjWkI3Q25va3EzOHZpODhDOW5tdTVtTkh4WW93VklLeTByX3NoeWYtVWJLVkptZ3NOZjlaLWlPTHJHZmY0c1NNR2p0UkNzMEVUemNCaWkwQUxR?oc=5)
+
+2026-04-27 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4RmkzR1hoT3paYldkZWpVeGI4OXhwS1RFQWZxNV9YMGVselBDVlYxZ2xWVG04UGZaZEVOd1VZenJ3UHN1RjEzbFgyQkgzdGQ5SEpCUlVEUzFlVTYyNlM4WHAwcHXSAWpBVV95cUxPdWxaMnNXeWc0dmpBYVNRMWtjWkI3Q25va3EzOHZpODhDOW5tdTVtTkh4WW93VklLeTByX3NoeWYtVWJLVkptZ3NOZjlaLWlPTHJHZmY0c1NNR2p0UkNzMEVUemNCaWkwQUxR?oc=5)
+
+---
 
 ### [重大研究顯示，接觸農藥與癌症風險增加 150% 相關](https://news.google.com/rss/articles/CBMi9AJBVV95cUxQTndtS1VieTF3bFNvTTN1TXdpcHlsTFVueVlHVHl3WVRxMFlKRWZCLWdkeUhZLTFhUXowbjh4Mm5HS3NUQmpqblVRV05jRENQNlI5RXNBbTVGdXBSZ0tBMVJhY2RDeHkyeENpTTZXdXlTOWx4cjc1MXdUeDBDUnRnWHFOUFdSbEYyaVNkc3RBSl93SG10aG9EZkRkWFlRS1ZUT1hmN0NTWHNoQ3ZmdnZhTlBiMWRiQUdIcDh4MFg0eFpSd2NWd2RYZjFJWGNxekFNS2tMcW44ZUpKVmJtNG1mNUlRSTRET0xpdG1qaFZqd0VSNDVBYW5jc3pzQnhPX25RZXJ3UWk5S0huS3BZYWJqb1JuLUhkT1VHR0oxYUJzQUR4RmY0eXZaU0JuN25IZG55V3ZKWXl2UEdDdWE1dmp4U1pOMk1PN3BKMUlNUEZDa2tOUi1sZTVFVUxFZ2FhTGdVMFZmekJLREwxRTdOSkpVcWVrZC0?oc=5)
 
@@ -51,11 +67,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [「防失智最佳睡眠時間」曝！超過反增28%失智風險 | 三立新聞網 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tcDRxWDd5bGFVWi16RHFaVVhickl5ZnVDQ2R5a0ZvY3JuMVZlOVNfMlp4THlobzJBU0IzU1hFRFJpQVc2eDliX1J3aUJLTkpCUTRzOUVB?oc=5)
+### [年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kMXpFV3ZNaHl6bEpjdThQb3ZNbjdyWDdFZTcxT0NKOE1yOERNU1ZMSUo4NFZacTlxTEI5dEFSdFhsZzJNcmRQZ0M4QXE0UFk0Ul91YmN3UDJlNUlVSmtNYWwxNWzSAWpBVV95cUxOTTd2SnhLZzFVNFBTWHVTZTExMW1rcmdtcV9tZy11NUR4RWltZ21mSlJYd1hQYVFGVEd2dFVJcVl2TDFTUUM0bjF4SEpMZWJHX1drTy13YkVLb05oallFNUlkVEtjSDE1cUZB?oc=5)
 
-2026-04-26 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+2026-04-26 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肝癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tcDRxWDd5bGFVWi16RHFaVVhickl5ZnVDQ2R5a0ZvY3JuMVZlOVNfMlp4THlobzJBU0IzU1hFRFJpQVc2eDliX1J3aUJLTkpCUTRzOUVB?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kMXpFV3ZNaHl6bEpjdThQb3ZNbjdyWDdFZTcxT0NKOE1yOERNU1ZMSUo4NFZacTlxTEI5dEFSdFhsZzJNcmRQZ0M4QXE0UFk0Ul91YmN3UDJlNUlVSmtNYWwxNWzSAWpBVV95cUxOTTd2SnhLZzFVNFBTWHVTZTExMW1rcmdtcV9tZy11NUR4RWltZ21mSlJYd1hQYVFGVEd2dFVJcVl2TDFTUUM0bjF4SEpMZWJHX1drTy13YkVLb05oallFNUlkVEtjSDE1cUZB?oc=5)
 
 ---
 
