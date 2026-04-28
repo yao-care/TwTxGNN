@@ -1,7 +1,55 @@
 {
-  "generated": "2026-04-28T15:19:03.561161+00:00",
-  "count": 8,
+  "generated": "2026-04-28T17:40:09.273320+00:00",
+  "count": 9,
   "news": [
+    {
+      "id": "262936f7d3a1",
+      "title": "維生素 D 可使乳癌治療成功率提高79%。",
+      "published": "2026-04-28T15:15:44+00:00",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNbXVJb1ZDTkV0WlNRTk9LU1pPZjdWVDdPSnZNcF82N1l3TkdNcnJLVmxqaVpKcktvYVNmdkh4d3k2S2syU3ZKWkN0NVZqb3Z6SDBxa1kwZ05LQ1J6NE1MWnplTnA4U0xYQlpRcWpGMkVWdTQxZlhXeDdEc0FmNlQ3aTlmTk9mczRFMWtSalBMN0ZSNmhodHpkdGpLUGYyR2ZVTDNlZEhYeVV0S2hCcXpScnlvcGNXY1FRTzQtSDNaamI4aDZJaWFWYTI3TjR4QXZzOXNocW9PaE5IMWNEOFB5eW0yZUpUbTFPcjZVcDYwUmJsOTh4Z0FPZHFycXlvb1NCNEhFdlBaVEJTUHJCNjJlNzFvajQtV3cyOE0wRzFYTW9vWFJsb2JDUnctd1BrMVN0MUVTck5DMnZXdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "524ed7b65492",
       "title": "年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 | 自由電子報 - LINE TODAY",
@@ -50,13 +98,13 @@
       ]
     },
     {
-      "id": "4fa9a148a41b",
-      "title": "卵巢癌難早期發現怎麼辦？結紮不只避孕 風險可降3成關鍵在輸卵管",
-      "published": "2026-04-28T06:27:33+00:00",
+      "id": "84bdfd9c798f",
+      "title": "死亡率逾5成！女性結紮「很有用」 卵巢癌機率大降80％",
+      "published": "2026-04-28T05:39:17+00:00",
       "sources": [
         {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OQzBnd25uSzBUdjBROUdoOGcteF9IWGRLREpwWTFrM1hkcUY0c2xvWmcwclpHQVA0LVUtM0dnLVBxU2g2ZGFxV3BNbw?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOZGFBUkQ2ajlVblBVZmYzWExCTExYUnliNXc0SGtlZHNIdUFzZDBic0RkLTRtWS1La0lNSGQzZWM5VGxadUNQX3VFUjZmc2FtWnBoelAzWXdmT0pSbjZfWkRpTWtDTVVuVUUyaFRkSzlkZ2lJdFI3a0JhR1h0QUlVV0ZPQVBPUVp1dzFia0RrdjdsWDZkTVRVYmJKQjNFMnVvZzFidVN5YW56YkJxTzMwdlYybFpFSm9sMk1PWm92Z21oRzJkdVlZQ09QWXJpWUhFVTJqOXU3U0Fvel9QeTJ1cWxQdC1zcE1FcXl5SERRVmVyaGpJblFtSXRaT0psMzJLZEotbTBiWWFDaGdOcXctUWJ4NzFJVUN5WU5UUjZmc0hvRTIwdTRIVVNLLWZBZkFNTE4yRTd6RHJGRVVSaGVB?oc=5"
         }
       ],
       "keywords": [

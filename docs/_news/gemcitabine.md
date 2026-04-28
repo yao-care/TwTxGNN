@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/gemcitabine/
 <li><strong>原適應症</strong>：轉移性大腸直腸癌</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>female breast carcinoma（100.0%）</li>
+<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
 <li>rectum mucinous adenocarcinoma（99.8%）</li>
 <li>colon mucinous adenocarcinoma（99.8%）</li>
 <li>endometrial mixed adenocarcinoma（99.8%）</li>
@@ -42,7 +42,15 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [維生素 D 可使乳癌治療成功率提高79%。](https://news.google.com/rss/articles/CBMiugJBVV95cUxNbXVJb1ZDTkV0WlNRTk9LU1pPZjdWVDdPSnZNcF82N1l3TkdNcnJLVmxqaVpKcktvYVNmdkh4d3k2S2syU3ZKWkN0NVZqb3Z6SDBxa1kwZ05LQ1J6NE1MWnplTnA4U0xYQlpRcWpGMkVWdTQxZlhXeDdEc0FmNlQ3aTlmTk9mczRFMWtSalBMN0ZSNmhodHpkdGpLUGYyR2ZVTDNlZEhYeVV0S2hCcXpScnlvcGNXY1FRTzQtSDNaamI4aDZJaWFWYTI3TjR4QXZzOXNocW9PaE5IMWNEOFB5eW0yZUpUbTFPcjZVcDYwUmJsOTh4Z0FPZHFycXlvb1NCNEhFdlBaVEJTUHJCNjJlNzFvajQtV3cyOE0wRzFYTW9vWFJsb2JDUnctd1BrMVN0MUVTck5DMnZXdw?oc=5)
+
+2026-04-28 <span class="news-indication-tag">乳癌</span>
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMiugJBVV95cUxNbXVJb1ZDTkV0WlNRTk9LU1pPZjdWVDdPSnZNcF82N1l3TkdNcnJLVmxqaVpKcktvYVNmdkh4d3k2S2syU3ZKWkN0NVZqb3Z6SDBxa1kwZ05LQ1J6NE1MWnplTnA4U0xYQlpRcWpGMkVWdTQxZlhXeDdEc0FmNlQ3aTlmTk9mczRFMWtSalBMN0ZSNmhodHpkdGpLUGYyR2ZVTDNlZEhYeVV0S2hCcXpScnlvcGNXY1FRTzQtSDNaamI4aDZJaWFWYTI3TjR4QXZzOXNocW9PaE5IMWNEOFB5eW0yZUpUbTFPcjZVcDYwUmJsOTh4Z0FPZHFycXlvb1NCNEhFdlBaVEJTUHJCNjJlNzFvajQtV3cyOE0wRzFYTW9vWFJsb2JDUnctd1BrMVN0MUVTck5DMnZXdw?oc=5)
+
+---
 
 ### [年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 | 自由電子報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZ3RzaV9TMTFseElWWmU4UTBsWWE0ZVd2cEt5ZlBWVlduUjZkbWJzUFFCdDlGYm1OVlJtZFQ4SmVxVWw4akxUb1hjTFFSUXlrQTdxMVpR?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/hydroxyurea/
 <li><strong>原適應症</strong>：慢性骨髓性白血病、骨髓纖維化、真性紅血球增多症、卵巢癌、頭頸癌</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>female breast carcinoma（100.0%）</li>
+<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
 <li>sickle cell-hemoglobin E disease syndrome（99.7%）</li>
 <li>sickle cell-hemoglobin c disease syndrome（99.7%）</li>
 <li>hereditary persistence of fetal hemoglobin-sickle cell disease syndrome（99.7%）</li>
@@ -42,7 +42,15 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [維生素 D 可使乳癌治療成功率提高79%。](https://news.google.com/rss/articles/CBMiugJBVV95cUxNbXVJb1ZDTkV0WlNRTk9LU1pPZjdWVDdPSnZNcF82N1l3TkdNcnJLVmxqaVpKcktvYVNmdkh4d3k2S2syU3ZKWkN0NVZqb3Z6SDBxa1kwZ05LQ1J6NE1MWnplTnA4U0xYQlpRcWpGMkVWdTQxZlhXeDdEc0FmNlQ3aTlmTk9mczRFMWtSalBMN0ZSNmhodHpkdGpLUGYyR2ZVTDNlZEhYeVV0S2hCcXpScnlvcGNXY1FRTzQtSDNaamI4aDZJaWFWYTI3TjR4QXZzOXNocW9PaE5IMWNEOFB5eW0yZUpUbTFPcjZVcDYwUmJsOTh4Z0FPZHFycXlvb1NCNEhFdlBaVEJTUHJCNjJlNzFvajQtV3cyOE0wRzFYTW9vWFJsb2JDUnctd1BrMVN0MUVTck5DMnZXdw?oc=5)
+
+2026-04-28 <span class="news-indication-tag">乳癌</span>
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMiugJBVV95cUxNbXVJb1ZDTkV0WlNRTk9LU1pPZjdWVDdPSnZNcF82N1l3TkdNcnJLVmxqaVpKcktvYVNmdkh4d3k2S2syU3ZKWkN0NVZqb3Z6SDBxa1kwZ05LQ1J6NE1MWnplTnA4U0xYQlpRcWpGMkVWdTQxZlhXeDdEc0FmNlQ3aTlmTk9mczRFMWtSalBMN0ZSNmhodHpkdGpLUGYyR2ZVTDNlZEhYeVV0S2hCcXpScnlvcGNXY1FRTzQtSDNaamI4aDZJaWFWYTI3TjR4QXZzOXNocW9PaE5IMWNEOFB5eW0yZUpUbTFPcjZVcDYwUmJsOTh4Z0FPZHFycXlvb1NCNEhFdlBaVEJTUHJCNjJlNzFvajQtV3cyOE0wRzFYTW9vWFJsb2JDUnctd1BrMVN0MUVTck5DMnZXdw?oc=5)
+
+---
 
 ### [年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 | 自由電子報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZ3RzaV9TMTFseElWWmU4UTBsWWE0ZVd2cEt5ZlBWVlduUjZkbWJzUFFCdDlGYm1OVlJtZFQ4SmVxVWw4akxUb1hjTFFSUXlrQTdxMVpR?oc=5)
 
@@ -52,11 +60,11 @@ permalink: /news/hydroxyurea/
 
 ---
 
-### [卵巢癌難早期發現怎麼辦？結紮不只避孕 風險可降3成關鍵在輸卵管](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OQzBnd25uSzBUdjBROUdoOGcteF9IWGRLREpwWTFrM1hkcUY0c2xvWmcwclpHQVA0LVUtM0dnLVBxU2g2ZGFxV3BNbw?oc=5)
+### [死亡率逾5成！女性結紮「很有用」 卵巢癌機率大降80％](https://news.google.com/rss/articles/CBMivwJBVV95cUxOZGFBUkQ2ajlVblBVZmYzWExCTExYUnliNXc0SGtlZHNIdUFzZDBic0RkLTRtWS1La0lNSGQzZWM5VGxadUNQX3VFUjZmc2FtWnBoelAzWXdmT0pSbjZfWkRpTWtDTVVuVUUyaFRkSzlkZ2lJdFI3a0JhR1h0QUlVV0ZPQVBPUVp1dzFia0RrdjdsWDZkTVRVYmJKQjNFMnVvZzFidVN5YW56YkJxTzMwdlYybFpFSm9sMk1PWm92Z21oRzJkdVlZQ09QWXJpWUhFVTJqOXU3U0Fvel9QeTJ1cWxQdC1zcE1FcXl5SERRVmVyaGpJblFtSXRaT0psMzJLZEotbTBiWWFDaGdOcXctUWJ4NzFJVUN5WU5UUjZmc0hvRTIwdTRIVVNLLWZBZkFNTE4yRTd6RHJGRVVSaGVB?oc=5)
 
 2026-04-28 <span class="news-indication-tag">卵巢癌</span>
 
-來源：[Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OQzBnd25uSzBUdjBROUdoOGcteF9IWGRLREpwWTFrM1hkcUY0c2xvWmcwclpHQVA0LVUtM0dnLVBxU2g2ZGFxV3BNbw?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMivwJBVV95cUxOZGFBUkQ2ajlVblBVZmYzWExCTExYUnliNXc0SGtlZHNIdUFzZDBic0RkLTRtWS1La0lNSGQzZWM5VGxadUNQX3VFUjZmc2FtWnBoelAzWXdmT0pSbjZfWkRpTWtDTVVuVUUyaFRkSzlkZ2lJdFI3a0JhR1h0QUlVV0ZPQVBPUVp1dzFia0RrdjdsWDZkTVRVYmJKQjNFMnVvZzFidVN5YW56YkJxTzMwdlYybFpFSm9sMk1PWm92Z21oRzJkdVlZQ09QWXJpWUhFVTJqOXU3U0Fvel9QeTJ1cWxQdC1zcE1FcXl5SERRVmVyaGpJblFtSXRaT0psMzJLZEotbTBiWWFDaGdOcXctUWJ4NzFJVUN5WU5UUjZmc0hvRTIwdTRIVVNLLWZBZkFNTE4yRTd6RHJGRVVSaGVB?oc=5)
 
 ---
 

@@ -1,8 +1,57 @@
 {
-  "last_updated": "2026-04-28T15:19:03.526960+00:00",
-  "total_count": 17,
-  "matched_count": 8,
+  "last_updated": "2026-04-28T17:40:09.240385+00:00",
+  "total_count": 18,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "262936f7d3a1",
+      "title": "維生素 D 可使乳癌治療成功率提高79%。",
+      "published": "2026-04-28T15:15:44+00:00",
+      "summary": "維生素 D 可使乳癌治療成功率提高79%。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNbXVJb1ZDTkV0WlNRTk9LU1pPZjdWVDdPSnZNcF82N1l3TkdNcnJLVmxqaVpKcktvYVNmdkh4d3k2S2syU3ZKWkN0NVZqb3Z6SDBxa1kwZ05LQ1J6NE1MWnplTnA4U0xYQlpRcWpGMkVWdTQxZlhXeDdEc0FmNlQ3aTlmTk9mczRFMWtSalBMN0ZSNmhodHpkdGpLUGYyR2ZVTDNlZEhYeVV0S2hCcXpScnlvcGNXY1FRTzQtSDNaamI4aDZJaWFWYTI3TjR4QXZzOXNocW9PaE5IMWNEOFB5eW0yZUpUbTFPcjZVcDYwUmJsOTh4Z0FPZHFycXlvb1NCNEhFdlBaVEJTUHJCNjJlNzFvajQtV3cyOE0wRzFYTW9vWFJsb2JDUnctd1BrMVN0MUVTck5DMnZXdw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "524ed7b65492",
       "title": "年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 | 自由電子報 - LINE TODAY",
@@ -65,14 +114,14 @@
       "matched_keywords": []
     },
     {
-      "id": "4fa9a148a41b",
-      "title": "卵巢癌難早期發現怎麼辦？結紮不只避孕 風險可降3成關鍵在輸卵管",
-      "published": "2026-04-28T06:27:33+00:00",
-      "summary": "卵巢癌難早期發現怎麼辦？結紮不只避孕 風險可降3成關鍵在輸卵管&nbsp;&nbsp;Heho健康",
+      "id": "84bdfd9c798f",
+      "title": "死亡率逾5成！女性結紮「很有用」 卵巢癌機率大降80％",
+      "published": "2026-04-28T05:39:17+00:00",
+      "summary": "死亡率逾5成！女性結紮「很有用」 卵巢癌機率大降80％&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OQzBnd25uSzBUdjBROUdoOGcteF9IWGRLREpwWTFrM1hkcUY0c2xvWmcwclpHQVA0LVUtM0dnLVBxU2g2ZGFxV3BNbw?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOZGFBUkQ2ajlVblBVZmYzWExCTExYUnliNXc0SGtlZHNIdUFzZDBic0RkLTRtWS1La0lNSGQzZWM5VGxadUNQX3VFUjZmc2FtWnBoelAzWXdmT0pSbjZfWkRpTWtDTVVuVUUyaFRkSzlkZ2lJdFI3a0JhR1h0QUlVV0ZPQVBPUVp1dzFia0RrdjdsWDZkTVRVYmJKQjNFMnVvZzFidVN5YW56YkJxTzMwdlYybFpFSm9sMk1PWm92Z21oRzJkdVlZQ09QWXJpWUhFVTJqOXU3U0Fvel9QeTJ1cWxQdC1zcE1FcXl5SERRVmVyaGpJblFtSXRaT0psMzJLZEotbTBiWWFDaGdOcXctUWJ4NzFJVUN5WU5UUjZmc0hvRTIwdTRIVVNLLWZBZkFNTE4yRTd6RHJGRVVSaGVB?oc=5"
         }
       ],
       "matched_keywords": [
@@ -574,6 +623,19 @@
       ]
     },
     {
+      "id": "3a1788ccc9a9",
+      "title": "當兵染菜花！跟同梯「互借2物」竟中標　醫證實傳染力超高：鼻孔也長 - 鏡週刊Mirror Media",
+      "published": "2026-04-27T22:29:50+00:00",
+      "summary": "當兵染菜花！跟同梯「互借2物」竟中標 醫證實傳染力超高：鼻孔也長&nbsp;&nbsp;鏡週刊Mirror Media沒性行為…當兵「共用2物」衰染菜花！醫親揭職災：鼻孔裡也長&nbsp;&nbsp;ETtoday健康雲沒有性行為也可能感染菜花？ 泌尿科醫師揭露「職災」：感染性極強| 生活&nbsp;&nbsp;Newtalk新聞當兵共用2物竟染菜花？苦主沒亂來衰遭分手 醫曝同行更慘：鼻孔也長&nbsp;&nbsp;三立新聞網SETN.com被誤會偷吃…當兵共用2物品集體染菜花 醫揭恐怖職災：鼻孔也長&nbsp;&nbsp;聯合新聞網",
+      "sources": [
+        {
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52UjZtQVNMeUxTRWNaYWEtRExwOEtmVkJfTzg3Q1RCNXhRVUlfZmtJdnVxNS1BOE85NmxTakNPUERBYThGNU1ZY0RWdGh2OV9HMnFlNDN3UlI4R2vSAWBBVV95cUxQTzAzb3h3WUlfR2JCeEFVZ2lSTGpacFprV01jMEl1ajJJU3Axb0hsWllScFY3NEdBU1ZPMmxGM0Q0RnV1OGl1VjluMkJteEdMNEZSZlRxelpoVmtvX0RJeGY?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "bf8f6ded18da",
       "title": "《減肥》終止瘦瘦針停藥復胖魔咒！創新的「腸道重置」微創手術，助80%患者鎖住減重成果！",
       "published": "2026-04-27T20:49:22+00:00",
@@ -608,19 +670,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNUmpleUhZYW51Vk1QNnV1bjRjUy12eUVEZTBiamRqcmlxWGdZeXZvLXA1c3M5QTY4bHIzLTRvNlVwNTR6RlNqZUxHeFdxX2NXaXdnblZkZUk1RjlXRWRPN2V4c0Z1N2pmd2hUZXdDaDdmeEtTcUxFYmd4bTBNM0htazF3OW5SMjE1bXpzT0cyM1NfTWh4clBBR25uTUpKNGNKMlEzc2ZpQWQ5SmN0Z09Ib2x5YWl3WDZLMERzb3dkY3hOX1NHampjdkRsS1J4NmV2Q2czdTBZU3IxOEJ4Y2tRYl91U181M0tGVUd6WGRWS0E3Z3RfRGVnSDV5QWxnMG9FUl9OallmRF9TcEljM0c3UVdMS3pMdkctSVJQM0tIRC1UVWpxdmdKNUlMaUwtU2oxWnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c7d0169f5141",
-      "title": "沒性行為…當兵「共用2物」衰染菜花！醫親揭職災：鼻孔裡也長",
-      "published": "2026-04-27T12:18:00+00:00",
-      "summary": "沒性行為…當兵「共用2物」衰染菜花！醫親揭職災：鼻孔裡也長&nbsp;&nbsp;ETtoday健康雲沒有性行為也可能感染菜花？ 泌尿科醫師揭露「職災」：感染性極強| 生活&nbsp;&nbsp;Newtalk新聞當兵共用2物竟染菜花？苦主沒亂來衰遭分手 醫曝同行更慘：鼻孔也長&nbsp;&nbsp;三立新聞網SETN.com當兵染菜花！跟同梯「互借2物」竟中標 醫證實傳染力超高：鼻孔也長&nbsp;&nbsp;鏡週刊Mirror Media被誤會偷吃…當兵共用2物品集體染菜花 醫揭恐怖職災：鼻孔也長&nbsp;&nbsp;聯合新聞網",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10d0FDdHRRVTFteDZJSjhoeEMzQ0lKTlVfaFZFSU9KQzJlbllKSmkxV1R2R0dFbUtnY3YxLXB3Vzk5azBtWHltdTlkdlA0UHcw0gFsQVVfeXFMTTBzS1NRXzZXcmV5WHNGV1BTYUc5Ml9mOEhUcHN4eThsY0FjQzhteEExdU5ta29lQzkwSDdzMTBPOTRheXRPVDFsTzZXcEt5ZXN5S2YxaE5WVS10X2l1R2VXclFvRU5PQlJoei1x?oc=5"
         }
       ],
       "matched_keywords": []
