@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-28T17:40:04.381226+00:00",
+  "fetched_at": "2026-04-28T19:21:20.249289+00:00",
   "count": 18,
   "news": [
     {
@@ -136,18 +136,6 @@
       ]
     },
     {
-      "id": "b41a47e3a7f5",
-      "title": "美國太空總署微型IV液生成器抵國際太空站 革新太空人深空醫療照護 - 記者爆料網",
-      "published": "2026-04-27T18:56:52+00:00",
-      "summary": "美國太空總署微型IV液生成器抵國際太空站 革新太空人深空醫療照護&nbsp;&nbsp;記者爆料網",
-      "sources": [
-        {
-          "name": "記者爆料網",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4NVFNSVRZYXN0WmU5dlNPUE1OdTlQdWZpbzVMOXoyU1E5SF8xVVVzUko3RUZUR3lVUXNOQUNIeDh0UEI4akVqbHk3NDAtdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "49a34923c60c",
       "title": "為頭頸癌病友開啟新希望：BNCT講座雲嘉地區登場 大林慈濟展現整合照護實力 | 醫藥生技 | 商情 - 經濟日報",
       "published": "2026-04-27T02:01:14+00:00",
@@ -160,14 +148,26 @@
       ]
     },
     {
-      "id": "0fb53751bee0",
-      "title": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷 - 行銷人",
-      "published": "2026-04-27T09:01:58+00:00",
-      "summary": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷&nbsp;&nbsp;行銷人",
+      "id": "b41a47e3a7f5",
+      "title": "美國太空總署微型IV液生成器抵國際太空站 革新太空人深空醫療照護 - 記者爆料網",
+      "published": "2026-04-27T18:56:52+00:00",
+      "summary": "美國太空總署微型IV液生成器抵國際太空站 革新太空人深空醫療照護&nbsp;&nbsp;記者爆料網",
       "sources": [
         {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOZnpEcEpHZWdSSEQ2anl3bE56LWluemdiMEotcDdQR1dMc01nSE11cHV3dWh1aHFxSFRXMThKR3VhV2prN1NiOVFxMFZuWkRXNjNFVmFnLTJNdWlUcXUyNmlQVjJPLVVGUU91YUlPLV9aeC15d3J1S1VXaHJCSXI5MV8zY2lCVS1fdEJwcTRUSmZUWTBScTZ6WUhyMW9Ua3R2ckF4S3Q2bnJCb3M4cVBRS05OX1hVTXJDRll4T19GVDh1NXI4N002U3VnTHhsRWM1cUZuU3EyOXo2ZlhFcUFIeldjRzJDTjk3UnlBdG1aM3NUYzNCX0pmcDB0LWhqLU9pU3Z2dHRWbmtDSkN4RE5FY3JkWTJRaUIzSTl6aXpOVFZER21mcV9jc3Z4eld2VWxZLTVyY0pPSHBEeXVkdG5rb3pxN3NTSDFubWl3eUg2dWhRQVZMTUVSWE5uNzhDa18xOUI5aGcxX3dkVDNHeXlkVldEUnp2cHR5YmdPYg?oc=5"
+          "name": "記者爆料網",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4NVFNSVRZYXN0WmU5dlNPUE1OdTlQdWZpbzVMOXoyU1E5SF8xVVVzUko3RUZUR3lVUXNOQUNIeDh0UEI4akVqbHk3NDAtdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8aee918f8c2c",
+      "title": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷 - ENN台灣電報",
+      "published": "2026-04-27T12:13:14+00:00",
+      "summary": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷&nbsp;&nbsp;ENN台灣電報",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9ZZjlUZUNRaGVhYTRJSDJVUVctXzlYeWdNc3pyYjNxM2V4RmZYdjN0NFFkUGVtSFVLVHc?oc=5"
         }
       ]
     },
