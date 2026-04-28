@@ -1,21 +1,8 @@
 {
-  "last_updated": "2026-04-28T10:55:37.209214+00:00",
-  "total_count": 19,
+  "last_updated": "2026-04-28T12:21:19.993278+00:00",
+  "total_count": 18,
   "matched_count": 9,
   "news": [
-    {
-      "id": "5f780c8d15ef",
-      "title": "被誤會偷吃…當兵共用2物品集體染菜花 醫揭恐怖職災：鼻孔也長",
-      "published": "2026-04-28T07:38:52+00:00",
-      "summary": "被誤會偷吃…當兵共用2物品集體染菜花 醫揭恐怖職災：鼻孔也長&nbsp;&nbsp;聯合新聞網沒性行為…當兵「共用2物」衰染菜花！醫親揭職災：鼻孔裡也長&nbsp;&nbsp;ETtoday健康雲沒有性行為也可能感染菜花？ 泌尿科醫師揭露「職災」：感染性極強| 生活&nbsp;&nbsp;Newtalk新聞當兵染菜花！跟同梯「互借2物」竟中標 醫證實傳染力超高：鼻孔也長&nbsp;&nbsp;鏡週刊Mirror Media沒性行為也會染菜花 傳染力爆強！醫曝：鼻孔、腳趾都中鏢...&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94bVdEYjNGRi1ITE8yRzc3a0hXSUY4LV9zZ0lQcko2QlppbjZfVWRTV2VqS25pSHFZWTN0dU9CbnVnT05CTlZRNXFLdFVzUmNN?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
     {
       "id": "91b75be7a727",
       "title": "抗老穩血糖杏仁奪全球最健康食物冠軍最優3吃法曝- 健康",
@@ -565,6 +552,19 @@
       "matched_keywords": []
     },
     {
+      "id": "c7d0169f5141",
+      "title": "沒性行為…當兵「共用2物」衰染菜花！醫親揭職災：鼻孔裡也長",
+      "published": "2026-04-27T12:18:00+00:00",
+      "summary": "沒性行為…當兵「共用2物」衰染菜花！醫親揭職災：鼻孔裡也長&nbsp;&nbsp;ETtoday健康雲沒有性行為也可能感染菜花？ 泌尿科醫師揭露「職災」：感染性極強| 生活&nbsp;&nbsp;Newtalk新聞沒性行為也會染菜花 傳染力爆強！醫曝：鼻孔、腳趾都中鏢...&nbsp;&nbsp;Yahoo新聞當兵染菜花！跟同梯「互借2物」竟中標 醫證實傳染力超高：鼻孔也長&nbsp;&nbsp;鏡週刊Mirror Media當兵共用2物竟染菜花？苦主沒亂來衰遭分手 醫曝同行更慘：鼻孔也長&nbsp;&nbsp;三立新聞網SETN.com",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10d0FDdHRRVTFteDZJSjhoeEMzQ0lKTlVfaFZFSU9KQzJlbllKSmkxV1R2R0dFbUtnY3YxLXB3Vzk5azBtWHltdTlkdlA0UHcw0gFsQVVfeXFMTTBzS1NRXzZXcmV5WHNGV1BTYUc5Ml9mOEhUcHN4eThsY0FjQzhteEExdU5ta29lQzkwSDdzMTBPOTRheXRPVDFsTzZXcEt5ZXN5S2YxaE5WVS10X2l1R2VXclFvRU5PQlJoei1x?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "8aee918f8c2c",
       "title": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷",
       "published": "2026-04-27T12:13:14+00:00",
@@ -964,19 +964,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "c8b8587032e1",
-      "title": "每天一顆維他命 真能變年輕？研究揭老化關鍵",
-      "published": "2026-04-26T11:00:00+00:00",
-      "summary": "每天一顆維他命 真能變年輕？研究揭老化關鍵&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HRzZXQVhnUU1mMVJ3TjdQRWtKalJUaTBzRENYdURKMGZka3EwTzZpSk1EMGVjZ3hmaHFGZjZ1blpQYlB4WFFpdEZpSUVLWjcwak9aTXhiMnljSUdFMHNnctIBZkFVX3lxTE15bUFQZ3RBTUZtd1JqSUIzTVdPZG1ESmdmMGpjc1hYc2E1MHRUOEJHQXh3ZWxIOXRVR2ZVTWw0RDA5eXgxV1pCZkZQZFE3V25lbWZreTFZVWpIUEhMNDYxclV4UE1LUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

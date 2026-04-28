@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-28T10:55:33.482293+00:00",
-  "count": 19,
+  "fetched_at": "2026-04-28T12:21:15.238471+00:00",
+  "count": 18,
   "news": [
     {
       "id": "524ed7b65492",
@@ -12,18 +12,6 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZ3RzaV9TMTFseElWWmU4UTBsWWE0ZVd2cEt5ZlBWVlduUjZkbWJzUFFCdDlGYm1OVlJtZFQ4SmVxVWw4akxUb1hjTFFSUXlrQTdxMVpR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5f780c8d15ef",
-      "title": "被誤會偷吃…當兵共用2物品集體染菜花 醫揭恐怖職災：鼻孔也長 - 聯合新聞網",
-      "published": "2026-04-28T07:38:52+00:00",
-      "summary": "被誤會偷吃…當兵共用2物品集體染菜花 醫揭恐怖職災：鼻孔也長&nbsp;&nbsp;聯合新聞網沒性行為…當兵「共用2物」衰染菜花！醫親揭職災：鼻孔裡也長&nbsp;&nbsp;ETtoday健康雲沒有性行為也可能感染菜花？ 泌尿科醫師揭露「職災」：感染性極強| 生活&nbsp;&nbsp;Newtalk新聞當兵染菜花！跟同梯「互借2物」竟中標 醫證實傳染力超高：鼻孔也長&nbsp;&nbsp;鏡週刊Mirror Media沒性行為也會染菜花 傳染力爆強！醫曝：鼻孔、腳趾都中鏢...&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94bVdEYjNGRi1ITE8yRzc3a0hXSUY4LV9zZ0lQcko2QlppbjZfVWRTV2VqS25pSHFZWTN0dU9CbnVnT05CTlZRNXFLdFVzUmNN?oc=5"
         }
       ]
     },
@@ -96,6 +84,18 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wWVJnVk1YSW5iZ01fYjhmNTFmOV9UalI0ekl2QzZKWG13RGZvYTEwRUdDc2xzUzdIUFRmZURoZlBabTBHZE13d1FnajhDSV9wUklZeVNmYmROaVoy0gFiQVVfeXFMTXpXNFJpQUVuX19lVVM2TWQyc0hhY3FEdUVhYzJtZl9rOE5wczlleGY2SXh0SFFINjFXN1ExelYtdHdhalZFZjVTdjdCRjBuNy1JVkQxamVMb0ViUFgzM0xycXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c7d0169f5141",
+      "title": "沒性行為…當兵「共用2物」衰染菜花！醫親揭職災：鼻孔裡也長 - ETtoday健康雲",
+      "published": "2026-04-27T12:18:00+00:00",
+      "summary": "沒性行為…當兵「共用2物」衰染菜花！醫親揭職災：鼻孔裡也長&nbsp;&nbsp;ETtoday健康雲沒有性行為也可能感染菜花？ 泌尿科醫師揭露「職災」：感染性極強| 生活&nbsp;&nbsp;Newtalk新聞沒性行為也會染菜花 傳染力爆強！醫曝：鼻孔、腳趾都中鏢...&nbsp;&nbsp;Yahoo新聞當兵染菜花！跟同梯「互借2物」竟中標 醫證實傳染力超高：鼻孔也長&nbsp;&nbsp;鏡週刊Mirror Media當兵共用2物竟染菜花？苦主沒亂來衰遭分手 醫曝同行更慘：鼻孔也長&nbsp;&nbsp;三立新聞網SETN.com",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10d0FDdHRRVTFteDZJSjhoeEMzQ0lKTlVfaFZFSU9KQzJlbllKSmkxV1R2R0dFbUtnY3YxLXB3Vzk5azBtWHltdTlkdlA0UHcw0gFsQVVfeXFMTTBzS1NRXzZXcmV5WHNGV1BTYUc5Ml9mOEhUcHN4eThsY0FjQzhteEExdU5ta29lQzkwSDdzMTBPOTRheXRPVDFsTzZXcEt5ZXN5S2YxaE5WVS10X2l1R2VXclFvRU5PQlJoei1x?oc=5"
         }
       ]
     },
@@ -216,18 +216,6 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQb0FxTDJjSXBzTzdRclpqdmZrNzNGTEdNUVgwYV9raExrVWMzaHI2LWt4d0FkQWFmdHRoX2wzUDdwbHN6cXRLUlE1UHdfWUpWNGc4SURFRTlTa0lOXzRtaExNLTNjQkJVT3lKMFczeGoyTVg5d2dPMHdLRnNGVk1FQTlYX3FJbFZjeDc3eUYyNEZsdl9XVmFkVzB2TTNoc1lwS0JwelZvcUJXNWJDMXk0bzVGbVdlSWJrNW40ZnJOZkoxZlNBUUtFT3UtMERHcUNvQ2thMnpwekVMQ3lFaUxQWGtQd3ZIRXFrS0k1b2lKTm9QeEVma0h2UFBrY0xYeFNHMlM0NFhBVE5kX3Fmc0N5MGF1aXZlVnhaOWg4MEN1VkRrYXFuVC1oUFhyeWtWZ2JLWGROTElNYy02VnUwbGV4NHdjWEhXckhkaGhsQnE0QkN1cjNQZ0FzLXoxZC1MZElpYjUxWXZPem5xdE1uXzRsOEhhQ2VucE9udWlJeUxTLXBxbjdPT3k0eVB3c0xBYnU2UlEtRkxnSU1Ga2NQQklmS1NxbnJTcmtrX3U4Rm04dC14VDRIVTlWeXIxTDN3ZzFrSExWRnlTTC1Cc2FUYWRMUUx6NXBzUy1QYlN4eDlWSURMajJ4Tmpz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c8b8587032e1",
-      "title": "每天一顆維他命 真能變年輕？研究揭老化關鍵 - 大纪元",
-      "published": "2026-04-26T11:00:00+00:00",
-      "summary": "每天一顆維他命 真能變年輕？研究揭老化關鍵&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HRzZXQVhnUU1mMVJ3TjdQRWtKalJUaTBzRENYdURKMGZka3EwTzZpSk1EMGVjZ3hmaHFGZjZ1blpQYlB4WFFpdEZpSUVLWjcwak9aTXhiMnljSUdFMHNnctIBZkFVX3lxTE15bUFQZ3RBTUZtd1JqSUIzTVdPZG1ESmdmMGpjc1hYc2E1MHRUOEJHQXh3ZWxIOXRVR2ZVTWw0RDA5eXgxV1pCZkZQZFE3V25lbWZreTFZVWpIUEhMNDYxclV4UE1LUQ?oc=5"
         }
       ]
     }
