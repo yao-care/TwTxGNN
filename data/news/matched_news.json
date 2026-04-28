@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-28T22:02:29.145478+00:00",
-  "total_count": 17,
-  "matched_count": 8,
+  "last_updated": "2026-04-28T23:45:12.684248+00:00",
+  "total_count": 18,
+  "matched_count": 9,
   "news": [
     {
       "id": "262936f7d3a1",
@@ -117,7 +117,7 @@
       "id": "84bdfd9c798f",
       "title": "死亡率逾5成！女性結紮「很有用」 卵巢癌機率大降80％",
       "published": "2026-04-28T05:39:17+00:00",
-      "summary": "死亡率逾5成！女性結紮「很有用」 卵巢癌機率大降80％&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
+      "summary": "死亡率逾5成！女性結紮「很有用」 卵巢癌機率大降80％&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -904,6 +904,46 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5fec661b652e",
+      "title": "症狀像感冒卻恐致命 呼吸道融合病毒是被低估的肺炎元兇",
+      "published": "2026-04-27T05:00:00+00:00",
+      "summary": "症狀像感冒卻恐致命 呼吸道融合病毒是被低估的肺炎元兇&nbsp;&nbsp;大纪元幫家中長輩注意RSV！防肺炎、中風等風險，預防策略一次看&nbsp;&nbsp;蕃新聞嬰幼兒呼吸道殺手！醫曝RSV預防新里程 單株抗體體給寶寶直接保護&nbsp;&nbsp;三立新聞網SETN.com",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wMW5RMnktajlUYzJXaGJDN09xWHozUU1zUW1wTFVERWt3WVNxdUVBOWUyT1gtSzJYNm54S1dQRjg2YkoxdEl4M0xENVJ5T2pEUnJWNm91bndRSXY2LTBmd9IBZkFVX3lxTFBteHBkaWpvSzZRWnJiSjJwNXVRQVdFdlBKVkE4NUV6U1otWnpHUVVmRzZPeWdDQW9BcllDbV81SkNWcktzRXZoOXlabl9yeEEzTHNBMmYzVmU5aEtQN0p5SU5OWUhPZw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }

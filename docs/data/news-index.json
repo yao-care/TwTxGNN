@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-28T22:02:29.168423+00:00",
-  "count": 8,
+  "generated": "2026-04-28T23:45:12.716870+00:00",
+  "count": 9,
   "news": [
     {
       "id": "262936f7d3a1",
@@ -779,6 +779,45 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5fec661b652e",
+      "title": "症狀像感冒卻恐致命 呼吸道融合病毒是被低估的肺炎元兇",
+      "published": "2026-04-27T05:00:00+00:00",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wMW5RMnktajlUYzJXaGJDN09xWHozUU1zUW1wTFVERWt3WVNxdUVBOWUyT1gtSzJYNm54S1dQRjg2YkoxdEl4M0xENVJ5T2pEUnJWNm91bndRSXY2LTBmd9IBZkFVX3lxTFBteHBkaWpvSzZRWnJiSjJwNXVRQVdFdlBKVkE4NUV6U1otWnpHUVVmRzZPeWdDQW9BcllDbV81SkNWcktzRXZoOXlabl9yeEEzTHNBMmYzVmU5aEtQN0p5SU5OWUhPZw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }
