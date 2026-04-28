@@ -44,6 +44,14 @@ permalink: /news/oteracil/
 
 ## 相關新聞（4 則）
 
+### [年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 | 自由電子報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZ3RzaV9TMTFseElWWmU4UTBsWWE0ZVd2cEt5ZlBWVlduUjZkbWJzUFFCdDlGYm1OVlJtZFQ4SmVxVWw4akxUb1hjTFFSUXlrQTdxMVpR?oc=5)
+
+2026-04-28 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZ3RzaV9TMTFseElWWmU4UTBsWWE0ZVd2cEt5ZlBWVlduUjZkbWJzUFFCdDlGYm1OVlJtZFQ4SmVxVWw4akxUb1hjTFFSUXlrQTdxMVpR?oc=5)
+
+---
+
 ### [癌症最怕的不是治療，而是你體內的環境！研究揭5大關鍵：發炎、缺氧讓癌細胞更難清](https://news.google.com/rss/articles/CBMiakFVX3lxTFBVazFiTVN2LWxGV0s5NDlfQVJRMGVwa2gtT2RNYkUwTTdSYWZ6QzZpbW4yNUZpYUhTcEFZNXlYSGZYeU5xX21oYTgzU3ExMnVGR1hvVFptbXVxdzRfQk9LYnBrQWREckN3Q3c?oc=5)
 
 2026-04-28 <span class="news-indication-tag">癌症</span>
@@ -65,14 +73,6 @@ permalink: /news/oteracil/
 2026-04-27 <span class="news-indication-tag">癌症</span>
 
 來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi9AJBVV95cUxQTndtS1VieTF3bFNvTTN1TXdpcHlsTFVueVlHVHl3WVRxMFlKRWZCLWdkeUhZLTFhUXowbjh4Mm5HS3NUQmpqblVRV05jRENQNlI5RXNBbTVGdXBSZ0tBMVJhY2RDeHkyeENpTTZXdXlTOWx4cjc1MXdUeDBDUnRnWHFOUFdSbEYyaVNkc3RBSl93SG10aG9EZkRkWFlRS1ZUT1hmN0NTWHNoQ3ZmdnZhTlBiMWRiQUdIcDh4MFg0eFpSd2NWd2RYZjFJWGNxekFNS2tMcW44ZUpKVmJtNG1mNUlRSTRET0xpdG1qaFZqd0VSNDVBYW5jc3pzQnhPX25RZXJ3UWk5S0huS3BZYWJqb1JuLUhkT1VHR0oxYUJzQUR4RmY0eXZaU0JuN25IZG55V3ZKWXl2UEdDdWE1dmp4U1pOMk1PN3BKMUlNUEZDa2tOUi1sZTVFVUxFZ2FhTGdVMFZmekJLREwxRTdOSkpVcWVrZC0?oc=5)
-
----
-
-### [年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 | 自由電子報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZ3RzaV9TMTFseElWWmU4UTBsWWE0ZVd2cEt5ZlBWVlduUjZkbWJzUFFCdDlGYm1OVlJtZFQ4SmVxVWw4akxUb1hjTFFSUXlrQTdxMVpR?oc=5)
-
-2026-04-26 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZ3RzaV9TMTFseElWWmU4UTBsWWE0ZVd2cEt5ZlBWVlduUjZkbWJzUFFCdDlGYm1OVlJtZFQ4SmVxVWw4akxUb1hjTFFSUXlrQTdxMVpR?oc=5)
 
 ---
 

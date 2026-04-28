@@ -1,12 +1,12 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-28T12:21:15.238471+00:00",
-  "count": 18,
+  "fetched_at": "2026-04-28T15:18:58.870719+00:00",
+  "count": 17,
   "news": [
     {
       "id": "524ed7b65492",
       "title": "年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 | 自由電子報 - LINE TODAY",
-      "published": "2026-04-26T12:23:29+00:00",
+      "published": "2026-04-28T10:52:10+00:00",
       "summary": "年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 | 自由電子報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -16,50 +16,26 @@
       ]
     },
     {
-      "id": "850f79cd77a5",
-      "title": "「防失智最佳睡眠時間」曝！超過反增28%失智風險 - 三立新聞網SETN.com",
-      "published": "2026-04-26T23:00:29+00:00",
-      "summary": "「防失智最佳睡眠時間」曝！超過反增28%失智風險&nbsp;&nbsp;三立新聞網SETN.com記憶力變好差？醫揭元凶：很多人每天都在做這件事失智機率狂飆- 書房&nbsp;&nbsp;工商時報別只關注久坐傷身 最新研究：坐著時「做對事」可預防失智症&nbsp;&nbsp;元氣網大腦老化幾歲開始？記憶力變差是警訊，揭密延緩衰老3大原理&nbsp;&nbsp;早安健康失智症原因曝光！「每天久坐」風險激增27%，研究曝睡太久也是主因&nbsp;&nbsp;四季線上4gTV",
+      "id": "4fa9a148a41b",
+      "title": "卵巢癌難早期發現怎麼辦？結紮不只避孕 風險可降3成關鍵在輸卵管 - Heho健康",
+      "published": "2026-04-28T06:27:33+00:00",
+      "summary": "卵巢癌難早期發現怎麼辦？結紮不只避孕 風險可降3成關鍵在輸卵管&nbsp;&nbsp;Heho健康",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4YVRZY1h5YUpRTnhDVjFZVi1tQzBTR29wVTZPMGFJZUJYSkQzZWp6UElmRGpyTG1XeHNLejFXWXltdnVZMGgyaDBFNmw?oc=5"
+          "name": "Heho健康",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OQzBnd25uSzBUdjBROUdoOGcteF9IWGRLREpwWTFrM1hkcUY0c2xvWmcwclpHQVA0LVUtM0dnLVBxU2g2ZGFxV3BNbw?oc=5"
         }
       ]
     },
     {
-      "id": "91b75be7a727",
+      "id": "34a6682ca67a",
       "title": "抗老穩血糖杏仁奪全球最健康食物冠軍最優3吃法曝- 健康 - 中時新聞網",
       "published": "2026-04-28T07:23:09+00:00",
       "summary": "抗老穩血糖杏仁奪全球最健康食物冠軍最優3吃法曝- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sazJneS1sV3ZScnprc1VRM0hZc3NrQ2VpZlpzVk8zakN5MF80ODR3Rl95ejJraVlLR0VtUDAybUVrdXkwTXQ4TkIta3o5czgyaFN4YU1veU5tdTQtQ0hNNjFONVRnNEMzOUJXQmdR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cbbc4467922f",
-      "title": "死亡率逾5成！女性結紮「很有用」 卵巢癌機率大降80％ - 中時新聞網",
-      "published": "2026-04-28T05:09:15+00:00",
-      "summary": "死亡率逾5成！女性結紮「很有用」 卵巢癌機率大降80％&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85TlBaZFM5UWJ5Q0t1WGJ3UEhqb0RiM01IN3l0elNjcXZadVFSRTEyb2pVVkt0MF9YMzQxYjRKc241cmgwc1FvUERlYjJ0V1Y1N3gtTEZ5MDVTX0t6U3BjUXBFaWhCSEVZQVdfVVpn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e3c8062dddb8",
-      "title": "生理期做愛恐埋下隱憂！婦產科醫曝「經血逆流」增巧克力囊腫風險 - 優活健康網",
-      "published": "2026-04-28T03:00:00+00:00",
-      "summary": "生理期做愛恐埋下隱憂！婦產科醫曝「經血逆流」增巧克力囊腫風險&nbsp;&nbsp;優活健康網",
-      "sources": [
-        {
-          "name": "優活健康網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04OFhFcW5rS2NHMC1qWDdTUnFQWkpCa21aX2JvTWdCYVFDd3c0ZjV6Yi0yWUdKak5vZHdyZmFVV3M5eWJoS0wwd0dvSkVWcFNHeUx3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaDVqRE9iODEwdVAyZ205X3gxalZ3NmxIMXMwMUwybFgwTWJZZzRTZ3F3c09TTFNPa3NYdmdEVjlkajBiYjlhaGVlQ0J4TTFzdmtwb2dia1h4ZFE5cUo2SDFmRXdNNGRPM0M2cVd4dkN5VU1SWmRtTzlwOFhjUzVwc0FpbkhBdVVmdUgtcU5QWQ?oc=5"
         }
       ]
     },
@@ -72,6 +48,18 @@
         {
           "name": "genetinfo.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPQmxzcHF6eV9Yb0Zjc0ZFVGlNM2VHU1dHR3RLdUR0TEUwT1o2WDJUYkhLUmxhQVVCZ09naG53WGZwdTh2cElGUnJPTy0tbEpnX0g4dVhFR1JJSl93LW5OMFB2LVZQOFpYTTdTOQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e3c8062dddb8",
+      "title": "生理期做愛恐埋下隱憂！婦產科醫曝「經血逆流」增巧克力囊腫風險 - 優活健康網",
+      "published": "2026-04-28T03:00:00+00:00",
+      "summary": "生理期做愛恐埋下隱憂！婦產科醫曝「經血逆流」增巧克力囊腫風險&nbsp;&nbsp;優活健康網",
+      "sources": [
+        {
+          "name": "優活健康網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04OFhFcW5rS2NHMC1qWDdTUnFQWkpCa21aX2JvTWdCYVFDd3c0ZjV6Yi0yWUdKak5vZHdyZmFVV3M5eWJoS0wwd0dvSkVWcFNHeUx3?oc=5"
         }
       ]
     },
@@ -91,7 +79,7 @@
       "id": "c7d0169f5141",
       "title": "沒性行為…當兵「共用2物」衰染菜花！醫親揭職災：鼻孔裡也長 - ETtoday健康雲",
       "published": "2026-04-27T12:18:00+00:00",
-      "summary": "沒性行為…當兵「共用2物」衰染菜花！醫親揭職災：鼻孔裡也長&nbsp;&nbsp;ETtoday健康雲沒有性行為也可能感染菜花？ 泌尿科醫師揭露「職災」：感染性極強| 生活&nbsp;&nbsp;Newtalk新聞沒性行為也會染菜花 傳染力爆強！醫曝：鼻孔、腳趾都中鏢...&nbsp;&nbsp;Yahoo新聞當兵染菜花！跟同梯「互借2物」竟中標 醫證實傳染力超高：鼻孔也長&nbsp;&nbsp;鏡週刊Mirror Media當兵共用2物竟染菜花？苦主沒亂來衰遭分手 醫曝同行更慘：鼻孔也長&nbsp;&nbsp;三立新聞網SETN.com",
+      "summary": "沒性行為…當兵「共用2物」衰染菜花！醫親揭職災：鼻孔裡也長&nbsp;&nbsp;ETtoday健康雲沒有性行為也可能感染菜花？ 泌尿科醫師揭露「職災」：感染性極強| 生活&nbsp;&nbsp;Newtalk新聞當兵共用2物竟染菜花？苦主沒亂來衰遭分手 醫曝同行更慘：鼻孔也長&nbsp;&nbsp;三立新聞網SETN.com當兵染菜花！跟同梯「互借2物」竟中標 醫證實傳染力超高：鼻孔也長&nbsp;&nbsp;鏡週刊Mirror Media被誤會偷吃…當兵共用2物品集體染菜花 醫揭恐怖職災：鼻孔也長&nbsp;&nbsp;聯合新聞網",
       "sources": [
         {
           "name": "ETtoday健康雲",
@@ -136,14 +124,14 @@
       ]
     },
     {
-      "id": "93024bd93afb",
-      "title": "美國太空總署微型IV液生成器抵國際太空站 革新太空人深空醫療照護 - 行銷人",
-      "published": "2026-04-27T06:52:19+00:00",
-      "summary": "美國太空總署微型IV液生成器抵國際太空站 革新太空人深空醫療照護&nbsp;&nbsp;行銷人",
+      "id": "b41a47e3a7f5",
+      "title": "美國太空總署微型IV液生成器抵國際太空站 革新太空人深空醫療照護 - 記者爆料網",
+      "published": "2026-04-27T18:56:52+00:00",
+      "summary": "美國太空總署微型IV液生成器抵國際太空站 革新太空人深空醫療照護&nbsp;&nbsp;記者爆料網",
       "sources": [
         {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPVm4tZEpGTVV0dGpYQU5OV25tVTdobDV3ZTZfZElrRGQ0WTZZazRFTVE5bnh3dEtMWHByaTdFQlVBS1V5bk8ycjRoeU56MlJPWmpDcUFyOXBqUDBxV0QweUVXdlViSnJiQ09FQ2dBd0ZVVjE1MFcybGlZdEFrQ0dvQjZRS2g1Tk9SOXAwbHV5ZDhsNHdRcURaVkxseEM1SzVtUkdXUFhXa0pFY3RfdV9USXcwUFBSODNqNlNMZmpWclpIaDVpb1NPZUd2MVd0R2hzNWhNR25BQk50cUpkeEg4MGNIV1REeURhS2g2UE85MDJfSmlSR18yYzhEa1hvelZCTUFMbU1mRjVEOThQYXFEY1VIVGV5YXc1djg2SDl0YnBLUWtkb0haVW9tZGZwbVZFUk51UWxFam40d0FBeWJMb0daRkVIYlE0MmpuckhCWTdKd1pkMXpqS1lrVS1OTmM4alRPY1hkT21sOHhhSkwtaVQ2QQ?oc=5"
+          "name": "記者爆料網",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4NVFNSVRZYXN0WmU5dlNPUE1OdTlQdWZpbzVMOXoyU1E5SF8xVVVzUko3RUZUR3lVUXNOQUNIeDh0UEI4akVqbHk3NDAtdw?oc=5"
         }
       ]
     },
@@ -160,14 +148,14 @@
       ]
     },
     {
-      "id": "8aee918f8c2c",
-      "title": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷 - ENN台灣電報",
-      "published": "2026-04-27T12:13:14+00:00",
-      "summary": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷&nbsp;&nbsp;ENN台灣電報",
+      "id": "0fb53751bee0",
+      "title": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷 - 行銷人",
+      "published": "2026-04-27T09:01:58+00:00",
+      "summary": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷&nbsp;&nbsp;行銷人",
       "sources": [
         {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9ZZjlUZUNRaGVhYTRJSDJVUVctXzlYeWdNc3pyYjNxM2V4RmZYdjN0NFFkUGVtSFVLVHc?oc=5"
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOZnpEcEpHZWdSSEQ2anl3bE56LWluemdiMEotcDdQR1dMc01nSE11cHV3dWh1aHFxSFRXMThKR3VhV2prN1NiOVFxMFZuWkRXNjNFVmFnLTJNdWlUcXUyNmlQVjJPLVVGUU91YUlPLV9aeC15d3J1S1VXaHJCSXI5MV8zY2lCVS1fdEJwcTRUSmZUWTBScTZ6WUhyMW9Ua3R2ckF4S3Q2bnJCb3M4cVBRS05OX1hVTXJDRll4T19GVDh1NXI4N002U3VnTHhsRWM1cUZuU3EyOXo2ZlhFcUFIeldjRzJDTjk3UnlBdG1aM3NUYzNCX0pmcDB0LWhqLU9pU3Z2dHRWbmtDSkN4RE5FY3JkWTJRaUIzSTl6aXpOVFZER21mcV9jc3Z4eld2VWxZLTVyY0pPSHBEeXVkdG5rb3pxN3NTSDFubWl3eUg2dWhRQVZMTUVSWE5uNzhDa18xOUI5aGcxX3dkVDNHeXlkVldEUnp2cHR5YmdPYg?oc=5"
         }
       ]
     },

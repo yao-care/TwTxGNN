@@ -44,11 +44,19 @@ permalink: /news/hydroxyurea/
 
 ## 相關新聞（6 則）
 
-### [死亡率逾5成！女性結紮「很有用」 卵巢癌機率大降80％](https://news.google.com/rss/articles/CBMibkFVX3lxTE85TlBaZFM5UWJ5Q0t1WGJ3UEhqb0RiM01IN3l0elNjcXZadVFSRTEyb2pVVkt0MF9YMzQxYjRKc241cmgwc1FvUERlYjJ0V1Y1N3gtTEZ5MDVTX0t6U3BjUXBFaWhCSEVZQVdfVVpn?oc=5)
+### [年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 | 自由電子報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZ3RzaV9TMTFseElWWmU4UTBsWWE0ZVd2cEt5ZlBWVlduUjZkbWJzUFFCdDlGYm1OVlJtZFQ4SmVxVWw4akxUb1hjTFFSUXlrQTdxMVpR?oc=5)
+
+2026-04-28 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZ3RzaV9TMTFseElWWmU4UTBsWWE0ZVd2cEt5ZlBWVlduUjZkbWJzUFFCdDlGYm1OVlJtZFQ4SmVxVWw4akxUb1hjTFFSUXlrQTdxMVpR?oc=5)
+
+---
+
+### [卵巢癌難早期發現怎麼辦？結紮不只避孕 風險可降3成關鍵在輸卵管](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OQzBnd25uSzBUdjBROUdoOGcteF9IWGRLREpwWTFrM1hkcUY0c2xvWmcwclpHQVA0LVUtM0dnLVBxU2g2ZGFxV3BNbw?oc=5)
 
 2026-04-28 <span class="news-indication-tag">卵巢癌</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE85TlBaZFM5UWJ5Q0t1WGJ3UEhqb0RiM01IN3l0elNjcXZadVFSRTEyb2pVVkt0MF9YMzQxYjRKc241cmgwc1FvUERlYjJ0V1Y1N3gtTEZ5MDVTX0t6U3BjUXBFaWhCSEVZQVdfVVpn?oc=5)
+來源：[Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OQzBnd25uSzBUdjBROUdoOGcteF9IWGRLREpwWTFrM1hkcUY0c2xvWmcwclpHQVA0LVUtM0dnLVBxU2g2ZGFxV3BNbw?oc=5)
 
 ---
 
@@ -81,14 +89,6 @@ permalink: /news/hydroxyurea/
 2026-04-27 <span class="news-indication-tag">頭頸癌</span>
 
 來源：[經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xUGZsY0NNQVh4dFBHeXVpV1NHcmU2UGxnZ1NEbmNpZlI3Z1RmOVBtVko0ZnlEbEc1YUhBbjkyY21iOWRNWFNRd21lUkZJbmplaC1VRmdOMk05dw?oc=5)
-
----
-
-### [年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 | 自由電子報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZ3RzaV9TMTFseElWWmU4UTBsWWE0ZVd2cEt5ZlBWVlduUjZkbWJzUFFCdDlGYm1OVlJtZFQ4SmVxVWw4akxUb1hjTFFSUXlrQTdxMVpR?oc=5)
-
-2026-04-26 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZ3RzaV9TMTFseElWWmU4UTBsWWE0ZVd2cEt5ZlBWVlduUjZkbWJzUFFCdDlGYm1OVlJtZFQ4SmVxVWw4akxUb1hjTFFSUXlrQTdxMVpR?oc=5)
 
 ---
 
