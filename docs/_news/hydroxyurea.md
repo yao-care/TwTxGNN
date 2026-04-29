@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,29 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
-### [維生素 D 可使乳癌治療成功率提高79%。](https://news.google.com/rss/articles/CBMiugJBVV95cUxNbXVJb1ZDTkV0WlNRTk9LU1pPZjdWVDdPSnZNcF82N1l3TkdNcnJLVmxqaVpKcktvYVNmdkh4d3k2S2syU3ZKWkN0NVZqb3Z6SDBxa1kwZ05LQ1J6NE1MWnplTnA4U0xYQlpRcWpGMkVWdTQxZlhXeDdEc0FmNlQ3aTlmTk9mczRFMWtSalBMN0ZSNmhodHpkdGpLUGYyR2ZVTDNlZEhYeVV0S2hCcXpScnlvcGNXY1FRTzQtSDNaamI4aDZJaWFWYTI3TjR4QXZzOXNocW9PaE5IMWNEOFB5eW0yZUpUbTFPcjZVcDYwUmJsOTh4Z0FPZHFycXlvb1NCNEhFdlBaVEJTUHJCNjJlNzFvajQtV3cyOE0wRzFYTW9vWFJsb2JDUnctd1BrMVN0MUVTck5DMnZXdw?oc=5)
+### [養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ0xZT0ItalV4YWFyNm5sOGVDS05FZ1hQcXVmUXFuWHJTUGFFUURsYTZUZk55ZFBvNURvQTBIOGIxQWJMa2U2M2FHemNHMldTSFE?oc=5)
 
-2026-04-28 <span class="news-indication-tag">乳癌</span>
+2026-04-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMiugJBVV95cUxNbXVJb1ZDTkV0WlNRTk9LU1pPZjdWVDdPSnZNcF82N1l3TkdNcnJLVmxqaVpKcktvYVNmdkh4d3k2S2syU3ZKWkN0NVZqb3Z6SDBxa1kwZ05LQ1J6NE1MWnplTnA4U0xYQlpRcWpGMkVWdTQxZlhXeDdEc0FmNlQ3aTlmTk9mczRFMWtSalBMN0ZSNmhodHpkdGpLUGYyR2ZVTDNlZEhYeVV0S2hCcXpScnlvcGNXY1FRTzQtSDNaamI4aDZJaWFWYTI3TjR4QXZzOXNocW9PaE5IMWNEOFB5eW0yZUpUbTFPcjZVcDYwUmJsOTh4Z0FPZHFycXlvb1NCNEhFdlBaVEJTUHJCNjJlNzFvajQtV3cyOE0wRzFYTW9vWFJsb2JDUnctd1BrMVN0MUVTck5DMnZXdw?oc=5)
-
----
-
-### [年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 | 自由電子報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZ3RzaV9TMTFseElWWmU4UTBsWWE0ZVd2cEt5ZlBWVlduUjZkbWJzUFFCdDlGYm1OVlJtZFQ4SmVxVWw4akxUb1hjTFFSUXlrQTdxMVpR?oc=5)
-
-2026-04-28 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZ3RzaV9TMTFseElWWmU4UTBsWWE0ZVd2cEt5ZlBWVlduUjZkbWJzUFFCdDlGYm1OVlJtZFQ4SmVxVWw4akxUb1hjTFFSUXlrQTdxMVpR?oc=5)
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ0xZT0ItalV4YWFyNm5sOGVDS05FZ1hQcXVmUXFuWHJTUGFFUURsYTZUZk55ZFBvNURvQTBIOGIxQWJMa2U2M2FHemNHMldTSFE?oc=5)
 
 ---
 
-### [死亡率逾5成！女性結紮「很有用」 卵巢癌機率大降80％](https://news.google.com/rss/articles/CBMivwJBVV95cUxOZGFBUkQ2ajlVblBVZmYzWExCTExYUnliNXc0SGtlZHNIdUFzZDBic0RkLTRtWS1La0lNSGQzZWM5VGxadUNQX3VFUjZmc2FtWnBoelAzWXdmT0pSbjZfWkRpTWtDTVVuVUUyaFRkSzlkZ2lJdFI3a0JhR1h0QUlVV0ZPQVBPUVp1dzFia0RrdjdsWDZkTVRVYmJKQjNFMnVvZzFidVN5YW56YkJxTzMwdlYybFpFSm9sMk1PWm92Z21oRzJkdVlZQ09QWXJpWUhFVTJqOXU3U0Fvel9QeTJ1cWxQdC1zcE1FcXl5SERRVmVyaGpJblFtSXRaT0psMzJLZEotbTBiWWFDaGdOcXctUWJ4NzFJVUN5WU5UUjZmc0hvRTIwdTRIVVNLLWZBZkFNTE4yRTd6RHJGRVVSaGVB?oc=5)
+### [維生素D助攻乳癌化療成功率增79％ 研究曝低劑量也有效](https://news.google.com/rss/articles/CBMiX0FVX3lxTE00RHhRdGxaWEdtYzBNWHA1XzN6TUthYUNOSTZhY1R5Q2dnZ3l2V3ZaQWpGU0VkbGlvTEh3TkVyMWtUMV9HbkJ1dmE1N3pUYU9GRW5JR01CQXlTMjQxTlJr?oc=5)
+
+2026-04-29 <span class="news-indication-tag">乳癌</span>
+
+來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE00RHhRdGxaWEdtYzBNWHA1XzN6TUthYUNOSTZhY1R5Q2dnZ3l2V3ZaQWpGU0VkbGlvTEh3TkVyMWtUMV9HbkJ1dmE1N3pUYU9GRW5JR01CQXlTMjQxTlJr?oc=5)
+
+---
+
+### [卵巢癌難早期發現怎麼辦？結紮不只避孕 風險可降3成關鍵在輸卵管](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OQzBnd25uSzBUdjBROUdoOGcteF9IWGRLREpwWTFrM1hkcUY0c2xvWmcwclpHQVA0LVUtM0dnLVBxU2g2ZGFxV3BNbw?oc=5)
 
 2026-04-28 <span class="news-indication-tag">卵巢癌</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMivwJBVV95cUxOZGFBUkQ2ajlVblBVZmYzWExCTExYUnliNXc0SGtlZHNIdUFzZDBic0RkLTRtWS1La0lNSGQzZWM5VGxadUNQX3VFUjZmc2FtWnBoelAzWXdmT0pSbjZfWkRpTWtDTVVuVUUyaFRkSzlkZ2lJdFI3a0JhR1h0QUlVV0ZPQVBPUVp1dzFia0RrdjdsWDZkTVRVYmJKQjNFMnVvZzFidVN5YW56YkJxTzMwdlYybFpFSm9sMk1PWm92Z21oRzJkdVlZQ09QWXJpWUhFVTJqOXU3U0Fvel9QeTJ1cWxQdC1zcE1FcXl5SERRVmVyaGpJblFtSXRaT0psMzJLZEotbTBiWWFDaGdOcXctUWJ4NzFJVUN5WU5UUjZmc0hvRTIwdTRIVVNLLWZBZkFNTE4yRTd6RHJGRVVSaGVB?oc=5)
+來源：[Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OQzBnd25uSzBUdjBROUdoOGcteF9IWGRLREpwWTFrM1hkcUY0c2xvWmcwclpHQVA0LVUtM0dnLVBxU2g2ZGFxV3BNbw?oc=5)
 
 ---
 
@@ -73,22 +73,6 @@ permalink: /news/hydroxyurea/
 2026-04-28 <span class="news-indication-tag">癌症</span>
 
 來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTFBVazFiTVN2LWxGV0s5NDlfQVJRMGVwa2gtT2RNYkUwTTdSYWZ6QzZpbW4yNUZpYUhTcEFZNXlYSGZYeU5xX21oYTgzU3ExMnVGR1hvVFptbXVxdzRfQk9LYnBrQWREckN3Q3c?oc=5)
-
----
-
-### [不菸不酒也罹癌？癌症不是壞掉，是訊號斷線…吃進去的每一口天然食材，都在叫癌細胞閉嘴](https://news.google.com/rss/articles/CBMie0FVX3lxTE4zN200X21weWxkQjZ0bHJZQVRKeXFoQ3FpYldZeU1kV2tvT21sWTVYRDZfWENieGsxRmwxZTZIYXI3Vk41UFBQaGFPMVF6U0xUMmo0bmRwYlhkMzY0b21iTHRzZTZhb2M1RXF4U2M4VXJPZGY0TEtFVW1DNA?oc=5)
-
-2026-04-28 <span class="news-indication-tag">癌症</span>
-
-來源：[幸福熟齡](https://news.google.com/rss/articles/CBMie0FVX3lxTE4zN200X21weWxkQjZ0bHJZQVRKeXFoQ3FpYldZeU1kV2tvT21sWTVYRDZfWENieGsxRmwxZTZIYXI3Vk41UFBQaGFPMVF6U0xUMmo0bmRwYlhkMzY0b21iTHRzZTZhb2M1RXF4U2M4VXJPZGY0TEtFVW1DNA?oc=5)
-
----
-
-### [為頭頸癌病友開啟新希望：BNCT講座雲嘉地區登場 大林慈濟展現整合照護實力 | 醫藥生技 | 商情](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xUGZsY0NNQVh4dFBHeXVpV1NHcmU2UGxnZ1NEbmNpZlI3Z1RmOVBtVko0ZnlEbEc1YUhBbjkyY21iOWRNWFNRd21lUkZJbmplaC1VRmdOMk05dw?oc=5)
-
-2026-04-27 <span class="news-indication-tag">頭頸癌</span>
-
-來源：[經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xUGZsY0NNQVh4dFBHeXVpV1NHcmU2UGxnZ1NEbmNpZlI3Z1RmOVBtVko0ZnlEbEc1YUhBbjkyY21iOWRNWFNRd21lUkZJbmplaC1VRmdOMk05dw?oc=5)
 
 ---
 

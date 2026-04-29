@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ0xZT0ItalV4YWFyNm5sOGVDS05FZ1hQcXVmUXFuWHJTUGFFUURsYTZUZk55ZFBvNURvQTBIOGIxQWJMa2U2M2FHemNHMldTSFE?oc=5)
+
+2026-04-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ0xZT0ItalV4YWFyNm5sOGVDS05FZ1hQcXVmUXFuWHJTUGFFUURsYTZUZk55ZFBvNURvQTBIOGIxQWJMa2U2M2FHemNHMldTSFE?oc=5)
+
+---
 
 ### [癌症最怕的不是治療，而是你體內的環境！研究揭5大關鍵：發炎、缺氧讓癌細胞更難清](https://news.google.com/rss/articles/CBMiakFVX3lxTFBVazFiTVN2LWxGV0s5NDlfQVJRMGVwa2gtT2RNYkUwTTdSYWZ6QzZpbW4yNUZpYUhTcEFZNXlYSGZYeU5xX21oYTgzU3ExMnVGR1hvVFptbXVxdzRfQk9LYnBrQWREckN3Q3c?oc=5)
 
@@ -51,11 +59,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [不菸不酒也罹癌？癌症不是壞掉，是訊號斷線…吃進去的每一口天然食材，都在叫癌細胞閉嘴](https://news.google.com/rss/articles/CBMie0FVX3lxTE4zN200X21weWxkQjZ0bHJZQVRKeXFoQ3FpYldZeU1kV2tvT21sWTVYRDZfWENieGsxRmwxZTZIYXI3Vk41UFBQaGFPMVF6U0xUMmo0bmRwYlhkMzY0b21iTHRzZTZhb2M1RXF4U2M4VXJPZGY0TEtFVW1DNA?oc=5)
+### [久坐看電視易失智 閱讀談話活化大腦](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJQ1pKeHNvaGVpcTlTVnRnejJfZE81YW5EUnltV1Y2TktiQ1Nta3dHMmVkQkNaVnV4b2ZRVFhIV3c5U1R4RWNENXBzbzZxbjhKdVowWHV5QWNjdFRndk9zaGhncFVsRTQ?oc=5)
 
-2026-04-28 <span class="news-indication-tag">癌症</span>
+2026-04-28 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[幸福熟齡](https://news.google.com/rss/articles/CBMie0FVX3lxTE4zN200X21weWxkQjZ0bHJZQVRKeXFoQ3FpYldZeU1kV2tvT21sWTVYRDZfWENieGsxRmwxZTZIYXI3Vk41UFBQaGFPMVF6U0xUMmo0bmRwYlhkMzY0b21iTHRzZTZhb2M1RXF4U2M4VXJPZGY0TEtFVW1DNA?oc=5)
+來源：[人間福報電子報](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJQ1pKeHNvaGVpcTlTVnRnejJfZE81YW5EUnltV1Y2TktiQ1Nta3dHMmVkQkNaVnV4b2ZRVFhIV3c5U1R4RWNENXBzbzZxbjhKdVowWHV5QWNjdFRndk9zaGhncFVsRTQ?oc=5)
 
 ---
 
