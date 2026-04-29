@@ -1,7 +1,35 @@
 {
-  "generated": "2026-04-29T12:11:38.799118+00:00",
+  "generated": "2026-04-29T15:04:30.273708+00:00",
   "count": 6,
   "news": [
+    {
+      "id": "4a3c201d94a1",
+      "title": "結紮「能降低卵巢癌風險？」 婦產科醫這樣說",
+      "published": "2026-04-29T08:02:00+00:00",
+      "sources": [
+        {
+          "name": "威傳媒新聞",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rMHFpV1FGZ3dNOVdvenJEaG5WVlQycmtlbUdfUjVCdXVSaV9RYkVVaFNXQWRBVzQ4UUN5V3FIeXM0bFZGWC1BVTZn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "卵巢癌",
+          "keyword": "卵巢癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "e56250081fb7",
       "title": "養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了 - TVBS 健康2.0",
@@ -448,34 +476,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4fa9a148a41b",
-      "title": "卵巢癌難早期發現怎麼辦？結紮不只避孕 風險可降3成關鍵在輸卵管",
-      "published": "2026-04-28T06:27:33+00:00",
-      "sources": [
-        {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OQzBnd25uSzBUdjBROUdoOGcteF9IWGRLREpwWTFrM1hkcUY0c2xvWmcwclpHQVA0LVUtM0dnLVBxU2g2ZGFxV3BNbw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "卵巢癌",
-          "keyword": "卵巢癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }

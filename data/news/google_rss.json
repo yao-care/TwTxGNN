@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-29T12:11:35.423543+00:00",
+  "fetched_at": "2026-04-29T15:04:27.158911+00:00",
   "count": 17,
   "news": [
     {
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "ea6424e131be",
-      "title": "眼整形術後乾眼、閉眼困難？醫說明多元重建對策 眼部結構修復是關鍵 - Yahoo新聞",
-      "published": "2026-04-29T01:14:53+00:00",
-      "summary": "眼整形術後乾眼、閉眼困難？醫說明多元重建對策 眼部結構修復是關鍵&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOZDhWRkFrSDEzZDE0SEQ4S3dmTFlua081dWw5cWRZZVFzaGFCNmdZWFNWcEJVbGZuU3ViUGxtejFGZWdJdFh5Ym1CeTlmSE44aXNfX3dfVi1XVDkwY0R3dFVBNW5nVlFoNGxfNktoM3AzUzBBRVhaMnlUM0dBY080empWdlNwNk1veGVLUVJ1TDRmdFpvUmQ2cmxqNG1VdUZQc0NqODlULVJXbW5qaE1zbXdCZnBsSTlyOWI2cWR1ak9Zc2YxSXZvRG1GaUpVNkprbUM3emFQbnB5amtCZzZKYktmYVZ2OWZpTVd6aGdVdVdqNkpGT09IZEdFME1oRmFCckRmNm05ZTJiM3NCMmluME5xaTA5Uksxb1pjOWpFOFp4cjhEMDI3QlhaWlJDY2tmQVJFQVBPbl9LU3N5cFV3UWxzcjRnQ3JoT2hSRldYdXJuUEdxRUd5QVdqNHVqeF8xQXQ1ai1IV21RZnNhaEpKUHN4QmsyYzl2RnFqR2ZTcUx2LWt4dkFqcXU0U3NTSjlwNHVqVUpmQUg4QjhPeUhIbmQzendsWjhLUWlKRENWdVpUbms?oc=5"
-        }
-      ]
-    },
-    {
       "id": "02e80ce9c43e",
       "title": "當兵共用2物竟染菜花？苦主沒亂來衰遭分手 醫曝同行更慘：鼻孔也長 - 民視新聞網",
       "published": "2026-04-28T04:28:47+00:00",
@@ -48,6 +36,30 @@
         {
           "name": "民視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZLWcyeERtSnVteE1WN0hId3VsMFNoLWRaSE85dkE4ZVFJQUoyZTNjd0VIU0FZXzM4UjNiODg4VU9qSl9EMDhlcDdtaDd5ODB5Q2RjcVp2T0FvTS1pRzBLUA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4a3c201d94a1",
+      "title": "結紮「能降低卵巢癌風險？」 婦產科醫這樣說 - 威傳媒新聞",
+      "published": "2026-04-29T08:02:00+00:00",
+      "summary": "結紮「能降低卵巢癌風險？」 婦產科醫這樣說&nbsp;&nbsp;威傳媒新聞前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "威傳媒新聞",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rMHFpV1FGZ3dNOVdvenJEaG5WVlQycmtlbUdfUjVCdXVSaV9RYkVVaFNXQWRBVzQ4UUN5V3FIeXM0bFZGWC1BVTZn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ea6424e131be",
+      "title": "眼整形術後乾眼、閉眼困難？醫說明多元重建對策 眼部結構修復是關鍵 - Yahoo新聞",
+      "published": "2026-04-29T01:14:53+00:00",
+      "summary": "眼整形術後乾眼、閉眼困難？醫說明多元重建對策 眼部結構修復是關鍵&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOZDhWRkFrSDEzZDE0SEQ4S3dmTFlua081dWw5cWRZZVFzaGFCNmdZWFNWcEJVbGZuU3ViUGxtejFGZWdJdFh5Ym1CeTlmSE44aXNfX3dfVi1XVDkwY0R3dFVBNW5nVlFoNGxfNktoM3AzUzBBRVhaMnlUM0dBY080empWdlNwNk1veGVLUVJ1TDRmdFpvUmQ2cmxqNG1VdUZQc0NqODlULVJXbW5qaE1zbXdCZnBsSTlyOWI2cWR1ak9Zc2YxSXZvRG1GaUpVNkprbUM3emFQbnB5amtCZzZKYktmYVZ2OWZpTVd6aGdVdVdqNkpGT09IZEdFME1oRmFCckRmNm05ZTJiM3NCMmluME5xaTA5Uksxb1pjOWpFOFp4cjhEMDI3QlhaWlJDY2tmQVJFQVBPbl9LU3N5cFV3UWxzcjRnQ3JoT2hSRldYdXJuUEdxRUd5QVdqNHVqeF8xQXQ1ai1IV21RZnNhaEpKUHN4QmsyYzl2RnFqR2ZTcUx2LWt4dkFqcXU0U3NTSjlwNHVqVUpmQUg4QjhPeUhIbmQzendsWjhLUWlKRENWdVpUbms?oc=5"
         }
       ]
     },
@@ -88,18 +100,6 @@
       ]
     },
     {
-      "id": "4fa9a148a41b",
-      "title": "卵巢癌難早期發現怎麼辦？結紮不只避孕 風險可降3成關鍵在輸卵管 - Heho健康",
-      "published": "2026-04-28T06:27:33+00:00",
-      "summary": "卵巢癌難早期發現怎麼辦？結紮不只避孕 風險可降3成關鍵在輸卵管&nbsp;&nbsp;Heho健康前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OQzBnd25uSzBUdjBROUdoOGcteF9IWGRLREpwWTFrM1hkcUY0c2xvWmcwclpHQVA0LVUtM0dnLVBxU2g2ZGFxV3BNbw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e3c8062dddb8",
       "title": "生理期做愛恐埋下隱憂！婦產科醫曝「經血逆流」增巧克力囊腫風險 - 優活健康網",
       "published": "2026-04-28T03:00:00+00:00",
@@ -108,18 +108,6 @@
         {
           "name": "優活健康網",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04OFhFcW5rS2NHMC1qWDdTUnFQWkpCa21aX2JvTWdCYVFDd3c0ZjV6Yi0yWUdKak5vZHdyZmFVV3M5eWJoS0wwd0dvSkVWcFNHeUx3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8aee918f8c2c",
-      "title": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷 - ENN台灣電報",
-      "published": "2026-04-27T12:13:14+00:00",
-      "summary": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9ZZjlUZUNRaGVhYTRJSDJVUVctXzlYeWdNc3pyYjNxM2V4RmZYdjN0NFFkUGVtSFVLVHc?oc=5"
         }
       ]
     },
@@ -139,7 +127,7 @@
       "id": "e56250081fb7",
       "title": "養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了 - TVBS 健康2.0",
       "published": "2026-04-29T04:48:01+00:00",
-      "summary": "養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了&nbsp;&nbsp;TVBS 健康2.0不菸不酒也罹癌？癌症不是壞掉，是訊號斷線…吃進去的每一口天然食材，都在叫癌細胞閉嘴&nbsp;&nbsp;幸福熟齡醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;東森新聞「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲討論牆 | 不是珍奶！這飲品「沒壞東西樣子」 喝10年癌細胞恐肆虐&nbsp;&nbsp;LINE TODAY",
+      "summary": "養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了&nbsp;&nbsp;TVBS 健康2.0不菸不酒也罹癌？癌症不是壞掉，是訊號斷線…吃進去的每一口天然食材，都在叫癌細胞閉嘴&nbsp;&nbsp;幸福熟齡醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;東森新聞「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲胰臟癌｜日飲1杯呢類飲品患胰臟癌風險激增87% 醫生點名4大高危飲品 戒3類食物保護腎臟&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "TVBS 健康2.0",
@@ -192,6 +180,18 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91MDhwNmRkQ29fWlFpYnQzdEZvWlh2bmlXR1lfd2tOczJEc3A4UHFaN256YmxaSENsY2I3Wm5yWjZKNnJSU2pPZmdwdllhWXl0TkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "06b577b99b20",
+      "title": "澳洲研究：打哈欠時腦脊液隨靜脈同時排出 - Techritual Hong Kong",
+      "published": "2026-04-29T12:06:02+00:00",
+      "summary": "澳洲研究：打哈欠時腦脊液隨靜脈同時排出&nbsp;&nbsp;Techritual Hong Kong",
+      "sources": [
+        {
+          "name": "Techritual Hong Kong",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rZEdXTUZIdUFqQzR5UjlyanY3Y1FuNldDWUpjQ2ZTcUZReU1ZWExXYjZRQmdwdC11MGl0a3A1bnJBOVAtWG1KeWMyX0x5WHJSMWgxTVZRWVY?oc=5"
         }
       ]
     },

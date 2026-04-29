@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-29T12:11:38.764422+00:00",
+  "last_updated": "2026-04-29T15:04:30.250952+00:00",
   "total_count": 17,
   "matched_count": 6,
   "news": [
+    {
+      "id": "06b577b99b20",
+      "title": "澳洲研究：打哈欠時腦脊液隨靜脈同時排出 - Techritual Hong Kong",
+      "published": "2026-04-29T12:06:02+00:00",
+      "summary": "澳洲研究：打哈欠時腦脊液隨靜脈同時排出&nbsp;&nbsp;Techritual Hong Kong",
+      "sources": [
+        {
+          "name": "Techritual Hong Kong",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rZEdXTUZIdUFqQzR5UjlyanY3Y1FuNldDWUpjQ2ZTcUZReU1ZWExXYjZRQmdwdC11MGl0a3A1bnJBOVAtWG1KeWMyX0x5WHJSMWgxTVZRWVY?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "9f230afeef53",
       "title": "麻省理工學院的研究發現兒童更容易受到水中致癌化學物質的影響",
@@ -30,10 +43,39 @@
       "matched_keywords": []
     },
     {
+      "id": "4a3c201d94a1",
+      "title": "結紮「能降低卵巢癌風險？」 婦產科醫這樣說",
+      "published": "2026-04-29T08:02:00+00:00",
+      "summary": "結紮「能降低卵巢癌風險？」 婦產科醫這樣說&nbsp;&nbsp;威傳媒新聞前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "威傳媒新聞",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rMHFpV1FGZ3dNOVdvenJEaG5WVlQycmtlbUdfUjVCdXVSaV9RYkVVaFNXQWRBVzQ4UUN5V3FIeXM0bFZGWC1BVTZn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "卵巢癌",
+          "keyword": "卵巢癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "e56250081fb7",
       "title": "養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了 - TVBS 健康2.0",
       "published": "2026-04-29T04:48:01+00:00",
-      "summary": "養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了&nbsp;&nbsp;TVBS 健康2.0不菸不酒也罹癌？癌症不是壞掉，是訊號斷線…吃進去的每一口天然食材，都在叫癌細胞閉嘴&nbsp;&nbsp;幸福熟齡醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;東森新聞「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲討論牆 | 不是珍奶！這飲品「沒壞東西樣子」 喝10年癌細胞恐肆虐&nbsp;&nbsp;LINE TODAY",
+      "summary": "養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了&nbsp;&nbsp;TVBS 健康2.0不菸不酒也罹癌？癌症不是壞掉，是訊號斷線…吃進去的每一口天然食材，都在叫癌細胞閉嘴&nbsp;&nbsp;幸福熟齡醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;東森新聞「3類養生飲品」天天喝10年後出事！ 醫嘆：身體變癌細胞溫床&nbsp;&nbsp;ETtoday健康雲胰臟癌｜日飲1杯呢類飲品患胰臟癌風險激增87% 醫生點名4大高危飲品 戒3類食物保護腎臟&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "TVBS 健康2.0",
@@ -509,35 +551,6 @@
       "matched_keywords": []
     },
     {
-      "id": "4fa9a148a41b",
-      "title": "卵巢癌難早期發現怎麼辦？結紮不只避孕 風險可降3成關鍵在輸卵管",
-      "published": "2026-04-28T06:27:33+00:00",
-      "summary": "卵巢癌難早期發現怎麼辦？結紮不只避孕 風險可降3成關鍵在輸卵管&nbsp;&nbsp;Heho健康前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OQzBnd25uSzBUdjBROUdoOGcteF9IWGRLREpwWTFrM1hkcUY0c2xvWmcwclpHQVA0LVUtM0dnLVBxU2g2ZGFxV3BNbw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "卵巢癌",
-          "keyword": "卵巢癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "02e80ce9c43e",
       "title": "當兵共用2物竟染菜花？苦主沒亂來衰遭分手 醫曝同行更慘：鼻孔也長",
       "published": "2026-04-28T04:28:47+00:00",
@@ -892,19 +905,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNUmpleUhZYW51Vk1QNnV1bjRjUy12eUVEZTBiamRqcmlxWGdZeXZvLXA1c3M5QTY4bHIzLTRvNlVwNTR6RlNqZUxHeFdxX2NXaXdnblZkZUk1RjlXRWRPN2V4c0Z1N2pmd2hUZXdDaDdmeEtTcUxFYmd4bTBNM0htazF3OW5SMjE1bXpzT0cyM1NfTWh4clBBR25uTUpKNGNKMlEzc2ZpQWQ5SmN0Z09Ib2x5YWl3WDZLMERzb3dkY3hOX1NHampjdkRsS1J4NmV2Q2czdTBZU3IxOEJ4Y2tRYl91U181M0tGVUd6WGRWS0E3Z3RfRGVnSDV5QWxnMG9FUl9OallmRF9TcEljM0c3UVdMS3pMdkctSVJQM0tIRC1UVWpxdmdKNUlMaUwtU2oxWnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8aee918f8c2c",
-      "title": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷",
-      "published": "2026-04-27T12:13:14+00:00",
-      "summary": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9ZZjlUZUNRaGVhYTRJSDJVUVctXzlYeWdNc3pyYjNxM2V4RmZYdjN0NFFkUGVtSFVLVHc?oc=5"
         }
       ],
       "matched_keywords": []
