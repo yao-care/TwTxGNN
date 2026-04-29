@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [維生素 D 可使乳癌治療成功率提高79%。](https://news.google.com/rss/articles/CBMiugJBVV95cUxNbXVJb1ZDTkV0WlNRTk9LU1pPZjdWVDdPSnZNcF82N1l3TkdNcnJLVmxqaVpKcktvYVNmdkh4d3k2S2syU3ZKWkN0NVZqb3Z6SDBxa1kwZ05LQ1J6NE1MWnplTnA4U0xYQlpRcWpGMkVWdTQxZlhXeDdEc0FmNlQ3aTlmTk9mczRFMWtSalBMN0ZSNmhodHpkdGpLUGYyR2ZVTDNlZEhYeVV0S2hCcXpScnlvcGNXY1FRTzQtSDNaamI4aDZJaWFWYTI3TjR4QXZzOXNocW9PaE5IMWNEOFB5eW0yZUpUbTFPcjZVcDYwUmJsOTh4Z0FPZHFycXlvb1NCNEhFdlBaVEJTUHJCNjJlNzFvajQtV3cyOE0wRzFYTW9vWFJsb2JDUnctd1BrMVN0MUVTck5DMnZXdw?oc=5)
 
@@ -81,14 +81,6 @@ permalink: /news/hydroxyurea/
 2026-04-28 <span class="news-indication-tag">癌症</span>
 
 來源：[幸福熟齡](https://news.google.com/rss/articles/CBMie0FVX3lxTE4zN200X21weWxkQjZ0bHJZQVRKeXFoQ3FpYldZeU1kV2tvT21sWTVYRDZfWENieGsxRmwxZTZIYXI3Vk41UFBQaGFPMVF6U0xUMmo0bmRwYlhkMzY0b21iTHRzZTZhb2M1RXF4U2M4VXJPZGY0TEtFVW1DNA?oc=5)
-
----
-
-### [重大研究顯示，接觸農藥與癌症風險增加 150% 相關](https://news.google.com/rss/articles/CBMi9AJBVV95cUxQTndtS1VieTF3bFNvTTN1TXdpcHlsTFVueVlHVHl3WVRxMFlKRWZCLWdkeUhZLTFhUXowbjh4Mm5HS3NUQmpqblVRV05jRENQNlI5RXNBbTVGdXBSZ0tBMVJhY2RDeHkyeENpTTZXdXlTOWx4cjc1MXdUeDBDUnRnWHFOUFdSbEYyaVNkc3RBSl93SG10aG9EZkRkWFlRS1ZUT1hmN0NTWHNoQ3ZmdnZhTlBiMWRiQUdIcDh4MFg0eFpSd2NWd2RYZjFJWGNxekFNS2tMcW44ZUpKVmJtNG1mNUlRSTRET0xpdG1qaFZqd0VSNDVBYW5jc3pzQnhPX25RZXJ3UWk5S0huS3BZYWJqb1JuLUhkT1VHR0oxYUJzQUR4RmY0eXZaU0JuN25IZG55V3ZKWXl2UEdDdWE1dmp4U1pOMk1PN3BKMUlNUEZDa2tOUi1sZTVFVUxFZ2FhTGdVMFZmekJLREwxRTdOSkpVcWVrZC0?oc=5)
-
-2026-04-27 <span class="news-indication-tag">癌症</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi9AJBVV95cUxQTndtS1VieTF3bFNvTTN1TXdpcHlsTFVueVlHVHl3WVRxMFlKRWZCLWdkeUhZLTFhUXowbjh4Mm5HS3NUQmpqblVRV05jRENQNlI5RXNBbTVGdXBSZ0tBMVJhY2RDeHkyeENpTTZXdXlTOWx4cjc1MXdUeDBDUnRnWHFOUFdSbEYyaVNkc3RBSl93SG10aG9EZkRkWFlRS1ZUT1hmN0NTWHNoQ3ZmdnZhTlBiMWRiQUdIcDh4MFg0eFpSd2NWd2RYZjFJWGNxekFNS2tMcW44ZUpKVmJtNG1mNUlRSTRET0xpdG1qaFZqd0VSNDVBYW5jc3pzQnhPX25RZXJ3UWk5S0huS3BZYWJqb1JuLUhkT1VHR0oxYUJzQUR4RmY0eXZaU0JuN25IZG55V3ZKWXl2UEdDdWE1dmp4U1pOMk1PN3BKMUlNUEZDa2tOUi1sZTVFVUxFZ2FhTGdVMFZmekJLREwxRTdOSkpVcWVrZC0?oc=5)
 
 ---
 
