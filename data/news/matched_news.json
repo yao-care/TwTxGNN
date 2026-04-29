@@ -1,8 +1,44 @@
 {
-  "last_updated": "2026-04-29T17:18:39.621532+00:00",
+  "last_updated": "2026-04-29T19:10:48.893311+00:00",
   "total_count": 16,
-  "matched_count": 6,
+  "matched_count": 7,
   "news": [
+    {
+      "id": "e68e70a1565e",
+      "title": "「心包脂肪」增心血管疾病風險 三高患者更應注意",
+      "published": "2026-04-29T17:23:26+00:00",
+      "summary": "「心包脂肪」增心血管疾病風險 三高患者更應注意&nbsp;&nbsp;聯合新聞網",
+      "sources": [
+        {
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xd2dmZ09JcS12UUdVT0VheS05QXgxVXBZb0ZBSnM0a3NKdGZnYkRnaWlqVFE1S1U0eUhHclhfYmR0UXVuRTgtZzkzQnY3Sk93ZWtEbTJMRGdjNjdVY1Z6dU81cS02UmhxSjdfUzFzZlBiMmM?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "06b577b99b20",
       "title": "澳洲研究：打哈欠時腦脊液隨靜脈同時排出 - Techritual Hong Kong",
@@ -538,14 +574,14 @@
       "matched_keywords": []
     },
     {
-      "id": "ea6424e131be",
-      "title": "眼整形術後乾眼、閉眼困難？醫說明多元重建對策 眼部結構修復是關鍵",
-      "published": "2026-04-29T01:14:53+00:00",
-      "summary": "眼整形術後乾眼、閉眼困難？醫說明多元重建對策 眼部結構修復是關鍵&nbsp;&nbsp;Yahoo新聞",
+      "id": "1064dc0b9f12",
+      "title": "眼整形術後乾眼、閉眼困難？醫說明多元重建對策 眼部結構修復是關鍵 - PChome Online 新聞",
+      "published": "2026-04-29T01:00:00+00:00",
+      "summary": "眼整形術後乾眼、閉眼困難？醫說明多元重建對策 眼部結構修復是關鍵&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOZDhWRkFrSDEzZDE0SEQ4S3dmTFlua081dWw5cWRZZVFzaGFCNmdZWFNWcEJVbGZuU3ViUGxtejFGZWdJdFh5Ym1CeTlmSE44aXNfX3dfVi1XVDkwY0R3dFVBNW5nVlFoNGxfNktoM3AzUzBBRVhaMnlUM0dBY080empWdlNwNk1veGVLUVJ1TDRmdFpvUmQ2cmxqNG1VdUZQc0NqODlULVJXbW5qaE1zbXdCZnBsSTlyOWI2cWR1ak9Zc2YxSXZvRG1GaUpVNkprbUM3emFQbnB5amtCZzZKYktmYVZ2OWZpTVd6aGdVdVdqNkpGT09IZEdFME1oRmFCckRmNm05ZTJiM3NCMmluME5xaTA5Uksxb1pjOWpFOFp4cjhEMDI3QlhaWlJDY2tmQVJFQVBPbl9LU3N5cFV3UWxzcjRnQ3JoT2hSRldYdXJuUEdxRUd5QVdqNHVqeF8xQXQ1ai1IV21RZnNhaEpKUHN4QmsyYzl2RnFqR2ZTcUx2LWt4dkFqcXU0U3NTSjlwNHVqVUpmQUg4QjhPeUhIbmQzendsWjhLUWlKRENWdVpUbms?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR3l0MU5rUVpHMnZtMHRHRERKOEFVMjhrTjl5WEZ1ZmJuZ0VoVTl4aTJCbU5FbnR3VUhVRXd3NFJtWnhDNWFDaXlmQ3VsM0xLRFlzcG1TNV9KSEdkODd3WFRSWkYyb0Y5RzN1VzYzdlpzdjlXUnl2LWh1Z19YX3pnenJaOHQ3cE52Q3ZhNk9WeFFuajA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -879,19 +915,6 @@
         {
           "name": "genetinfo.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPQmxzcHF6eV9Yb0Zjc0ZFVGlNM2VHU1dHR3RLdUR0TEUwT1o2WDJUYkhLUmxhQVVCZ09naG53WGZwdTh2cElGUnJPTy0tbEpnX0g4dVhFR1JJSl93LW5OMFB2LVZQOFpYTTdTOQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b41a47e3a7f5",
-      "title": "美國太空總署微型IV液生成器抵國際太空站 革新太空人深空醫療照護",
-      "published": "2026-04-27T18:56:52+00:00",
-      "summary": "美國太空總署微型IV液生成器抵國際太空站 革新太空人深空醫療照護&nbsp;&nbsp;記者爆料網",
-      "sources": [
-        {
-          "name": "記者爆料網",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4NVFNSVRZYXN0WmU5dlNPUE1OdTlQdWZpbzVMOXoyU1E5SF8xVVVzUko3RUZUR3lVUXNOQUNIeDh0UEI4akVqbHk3NDAtdw?oc=5"
         }
       ],
       "matched_keywords": []
