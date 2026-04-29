@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-29T08:01:52.760948+00:00",
-  "count": 16,
+  "fetched_at": "2026-04-29T10:47:40.053779+00:00",
+  "count": 18,
   "news": [
     {
       "id": "ea6424e131be",
@@ -67,23 +67,11 @@
       "id": "4fa9a148a41b",
       "title": "卵巢癌難早期發現怎麼辦？結紮不只避孕 風險可降3成關鍵在輸卵管 - Heho健康",
       "published": "2026-04-28T06:27:33+00:00",
-      "summary": "卵巢癌難早期發現怎麼辦？結紮不只避孕 風險可降3成關鍵在輸卵管&nbsp;&nbsp;Heho健康結紮「能降低卵巢癌風險？」 婦產科醫詳解！一票長知識了&nbsp;&nbsp;ETtoday健康雲結紮「能降低卵巢癌風險？」 婦產科醫這樣說&nbsp;&nbsp;蕃新聞死亡率逾5成！女性結紮「很有用」 卵巢癌機率大降80％&nbsp;&nbsp;中時新聞網",
+      "summary": "卵巢癌難早期發現怎麼辦？結紮不只避孕 風險可降3成關鍵在輸卵管&nbsp;&nbsp;Heho健康前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "Heho健康",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OQzBnd25uSzBUdjBROUdoOGcteF9IWGRLREpwWTFrM1hkcUY0c2xvWmcwclpHQVA0LVUtM0dnLVBxU2g2ZGFxV3BNbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8aee918f8c2c",
-      "title": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷 - ENN台灣電報",
-      "published": "2026-04-27T12:13:14+00:00",
-      "summary": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9ZZjlUZUNRaGVhYTRJSDJVUVctXzlYeWdNc3pyYjNxM2V4RmZYdjN0NFFkUGVtSFVLVHc?oc=5"
         }
       ]
     },
@@ -100,6 +88,18 @@
       ]
     },
     {
+      "id": "8aee918f8c2c",
+      "title": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷 - ENN台灣電報",
+      "published": "2026-04-27T12:13:14+00:00",
+      "summary": "頻繁網路搜尋健康資訊陷阱多 專家籲回歸專業醫療診斷&nbsp;&nbsp;ENN台灣電報",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9ZZjlUZUNRaGVhYTRJSDJVUVctXzlYeWdNc3pyYjNxM2V4RmZYdjN0NFFkUGVtSFVLVHc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "acbab3256717",
       "title": "科學家可能發現大腦轉向慢性疼痛 - arch-web.com.tw",
       "published": "2026-04-27T16:55:50+00:00",
@@ -112,14 +112,14 @@
       ]
     },
     {
-      "id": "ae6e0bc014fa",
-      "title": "沒有性行為也可能感染菜花？ 泌尿科醫師揭露「職災」：感染性極強| 生活 - Newtalk新聞",
-      "published": "2026-04-28T06:38:30+00:00",
-      "summary": "沒有性行為也可能感染菜花？ 泌尿科醫師揭露「職災」：感染性極強| 生活&nbsp;&nbsp;Newtalk新聞被誤會偷吃…當兵共用2物品集體染菜花 醫揭恐怖職災：鼻孔也長&nbsp;&nbsp;聯合新聞網當兵共用2物竟染菜花？苦主沒亂來衰遭分手 醫曝同行更慘：鼻孔也長&nbsp;&nbsp;三立新聞網SETN.com阿兵哥沒愛愛卻長菜花 竟是「共用2物」惹禍 | 民視新聞網&nbsp;&nbsp;LINE TODAY沒性行為…當兵「共用2物」衰染菜花！醫親揭職災：鼻孔裡也長&nbsp;&nbsp;ETtoday健康雲",
+      "id": "02e80ce9c43e",
+      "title": "當兵共用2物竟染菜花？苦主沒亂來衰遭分手 醫曝同行更慘：鼻孔也長 - 民視新聞網",
+      "published": "2026-04-28T04:28:47+00:00",
+      "summary": "當兵共用2物竟染菜花？苦主沒亂來衰遭分手 醫曝同行更慘：鼻孔也長&nbsp;&nbsp;民視新聞網前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "Newtalk新聞",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1Q1ROdko4M3BsekFpNDV6VEFxUWhWYk9MSkNSS0FLdmlwZVE2NWNLejlteXBYc1JGbTVHY1FxeVpGM2hrNUQ2WTJ2WHZxaTJuYW1FeDY1VmNMems?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZLWcyeERtSnVteE1WN0hId3VsMFNoLWRaSE85dkE4ZVFJQUoyZTNjd0VIU0FZXzM4UjNiODg4VU9qSl9EMDhlcDdtaDd5ODB5Q2RjcVp2T0FvTS1pRzBLUA?oc=5"
         }
       ]
     },
@@ -168,6 +168,30 @@
         {
           "name": "良醫健康網",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVazFiTVN2LWxGV0s5NDlfQVJRMGVwa2gtT2RNYkUwTTdSYWZ6QzZpbW4yNUZpYUhTcEFZNXlYSGZYeU5xX21oYTgzU3ExMnVGR1hvVFptbXVxdzRfQk9LYnBrQWREckN3Q3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aff4171fb320",
+      "title": "14歲男孩狂嗑150顆維生素糖 竟導致肝損傷！醫揭維生素過量攝取後果 - TVBS 健康2.0",
+      "published": "2026-04-29T09:33:00+00:00",
+      "summary": "14歲男孩狂嗑150顆維生素糖 竟導致肝損傷！醫揭維生素過量攝取後果&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xOVZJb0pYdnR4V215enlzczJMZjZZeEJSVVZVM1c2T2JEdExUT0otQ2pMZTJLR3J6RWljV2MwTkJvS1FrU1VLQlI3V3dGaGlmQVNV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eb7a0d1105a4",
+      "title": "【兒童腦癌】孩子無故嘔吐或早期腦瘤病徵 術後黃金4周：質子治療減長遠副作用 - 明報健康網",
+      "published": "2026-04-29T08:18:03+00:00",
+      "summary": "【兒童腦癌】孩子無故嘔吐或早期腦瘤病徵 術後黃金4周：質子治療減長遠副作用&nbsp;&nbsp;明報健康網",
+      "sources": [
+        {
+          "name": "明報健康網",
+          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQWlJLM1NMU2xQNkY1Ymg0R1dyWW16NElwZEpCeGhFT3dqV2M0WlB1NF9uSE14TW9NaGI0azh3eXE4U1F3VkYtdGZ5NlJLWGw5T3MtRGp6NVNyU054LURIQ1Vib0tBa1dFeGhhSU9IblZtMnl1WUI3bHhCMWhfaEtWUWQxbUVpTlNyRnN0aTRobUgtOHhaLXMyN2FfRjNtd293OVlnSUJvS3pWZzZUejUyUVk0a1RKMGlnTDNOR2FiVkJlSWljUEtPU0NvQ01UT05yQWpsOFRZWXFZcDFIVUFTTWxEa0NGcWpTdnh3U2tIOFB1eGVvTG9fdnlnQUNrcVphdmVCUEtMY2pjcG9xdWV0NHkzTEctR0VHVENOalNjYlFSamtRRkJIbHZacTNHMWRVdThNSUZ5dXFXY0xDMFdiUzlB?oc=5"
         }
       ]
     },
