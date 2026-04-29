@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-29T20:53:49.030793+00:00",
+  "fetched_at": "2026-04-29T21:53:11.309630+00:00",
   "count": 16,
   "news": [
     {
@@ -52,18 +52,6 @@
       ]
     },
     {
-      "id": "4a3c201d94a1",
-      "title": "結紮「能降低卵巢癌風險？」 婦產科醫這樣說 - 威傳媒新聞",
-      "published": "2026-04-29T08:02:00+00:00",
-      "summary": "結紮「能降低卵巢癌風險？」 婦產科醫這樣說&nbsp;&nbsp;威傳媒新聞前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "威傳媒新聞",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rMHFpV1FGZ3dNOVdvenJEaG5WVlQycmtlbUdfUjVCdXVSaV9RYkVVaFNXQWRBVzQ4UUN5V3FIeXM0bFZGWC1BVTZn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bf8f6ded18da",
       "title": "《減肥》終止瘦瘦針停藥復胖魔咒！創新的「腸道重置」微創手術，助80%患者鎖住減重成果！ - genetinfo.com",
       "published": "2026-04-27T20:49:22+00:00",
@@ -72,6 +60,18 @@
         {
           "name": "genetinfo.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPQmxzcHF6eV9Yb0Zjc0ZFVGlNM2VHU1dHR3RLdUR0TEUwT1o2WDJUYkhLUmxhQVVCZ09naG53WGZwdTh2cElGUnJPTy0tbEpnX0g4dVhFR1JJSl93LW5OMFB2LVZQOFpYTTdTOQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4a3c201d94a1",
+      "title": "結紮「能降低卵巢癌風險？」 婦產科醫這樣說 - 威傳媒新聞",
+      "published": "2026-04-29T08:02:00+00:00",
+      "summary": "結紮「能降低卵巢癌風險？」 婦產科醫這樣說&nbsp;&nbsp;威傳媒新聞前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "威傳媒新聞",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rMHFpV1FGZ3dNOVdvenJEaG5WVlQycmtlbUdfUjVCdXVSaV9RYkVVaFNXQWRBVzQ4UUN5V3FIeXM0bFZGWC1BVTZn?oc=5"
         }
       ]
     },
@@ -139,7 +139,7 @@
       "id": "61adfd8ddbba",
       "title": "癌症最怕的不是治療，而是你體內的環境！研究揭5大關鍵：發炎、缺氧讓癌細胞更難清 - 良醫健康網",
       "published": "2026-04-28T04:17:40+00:00",
-      "summary": "癌症最怕的不是治療，而是你體內的環境！研究揭5大關鍵：發炎、缺氧讓癌細胞更難清&nbsp;&nbsp;良醫健康網癌症為何越來越年輕？關鍵可能不只是基因&nbsp;&nbsp;TechNews 科技新報癌症年輕化是吃出來的！醫推「１飲食法」抗癌、抗發炎：１週就讓身體變輕盈&nbsp;&nbsp;Yahoo新聞防癌飲食｜年輕人患癌飲食是元兇 做3件事防癌 醫生親測一星期後大推：一身輕！&nbsp;&nbsp;香港經濟日報HKET毒物科名醫顏宗海曝防癌祕訣！必吃這些食物抗氧化 抗癌千萬別碰這2物&nbsp;&nbsp;Yahoo新聞",
+      "summary": "癌症最怕的不是治療，而是你體內的環境！研究揭5大關鍵：發炎、缺氧讓癌細胞更難清&nbsp;&nbsp;良醫健康網癌症為何越來越年輕？關鍵可能不只是基因&nbsp;&nbsp;TechNews 科技新報癌症年輕化是吃出來的！醫推「１飲食法」抗癌、抗發炎：１週就讓身體變輕盈&nbsp;&nbsp;Yahoo新聞毒物科名醫顏宗海曝防癌祕訣！必吃這些食物抗氧化 抗癌千萬別碰這2物&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "良醫健康網",
