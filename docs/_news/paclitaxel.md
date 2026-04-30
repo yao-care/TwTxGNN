@@ -44,6 +44,14 @@ permalink: /news/paclitaxel/
 
 ## 相關新聞（4 則）
 
+### [這11種癌症在年輕人中增加，科學家首次找到原因線索](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pRGhYS0syVjVLOG5yMjZKQ1dISE5WaUF5YWNUenk0cXBZeTVyT3A4X3dRRU5nR28zTmlPaE1IdVdvR0E1QWtDcVc1NEZ5cU5rWDV0NElVY2hHSDRsYk0xc2xETWdKQdIBa0FVX3lxTFA5b2tNWC1ueDgydUJXTWF6QzVhQ1BNZkNadzhjcGh6Z0hWU1lJUUdhSlNGSVdHV0xwcWk1LWlPUHItcXlKa0d4My1OWG1GbjA2UGdtZU0wRlZhekZfNnRZeUR6THh0anhWVWFn?oc=5)
+
+2026-04-30 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pRGhYS0syVjVLOG5yMjZKQ1dISE5WaUF5YWNUenk0cXBZeTVyT3A4X3dRRU5nR28zTmlPaE1IdVdvR0E1QWtDcVc1NEZ5cU5rWDV0NElVY2hHSDRsYk0xc2xETWdKQdIBa0FVX3lxTFA5b2tNWC1ueDgydUJXTWF6QzVhQ1BNZkNadzhjcGh6Z0hWU1lJUUdhSlNGSVdHV0xwcWk1LWlPUHItcXlKa0d4My1OWG1GbjA2UGdtZU0wRlZhekZfNnRZeUR6THh0anhWVWFn?oc=5)
+
+---
+
 ### [結紮「能降低卵巢癌風險？」 婦產科醫這樣說](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rMHFpV1FGZ3dNOVdvenJEaG5WVlQycmtlbUdfUjVCdXVSaV9RYkVVaFNXQWRBVzQ4UUN5V3FIeXM0bFZGWC1BVTZn?oc=5)
 
 2026-04-29 <span class="news-indication-tag">卵巢癌</span>
@@ -54,7 +62,7 @@ permalink: /news/paclitaxel/
 
 ### [養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ0xZT0ItalV4YWFyNm5sOGVDS05FZ1hQcXVmUXFuWHJTUGFFUURsYTZUZk55ZFBvNURvQTBIOGIxQWJMa2U2M2FHemNHMldTSFE?oc=5)
 
-2026-04-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+2026-04-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ0xZT0ItalV4YWFyNm5sOGVDS05FZ1hQcXVmUXFuWHJTUGFFUURsYTZUZk55ZFBvNURvQTBIOGIxQWJMa2U2M2FHemNHMldTSFE?oc=5)
 
@@ -65,14 +73,6 @@ permalink: /news/paclitaxel/
 2026-04-29 <span class="news-indication-tag">乳癌</span>
 
 來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE00RHhRdGxaWEdtYzBNWHA1XzN6TUthYUNOSTZhY1R5Q2dnZ3l2V3ZaQWpGU0VkbGlvTEh3TkVyMWtUMV9HbkJ1dmE1N3pUYU9GRW5JR01CQXlTMjQxTlJr?oc=5)
-
----
-
-### [癌症最怕的不是治療，而是你體內的環境！研究揭5大關鍵：發炎、缺氧讓癌細胞更難清](https://news.google.com/rss/articles/CBMiakFVX3lxTFBVazFiTVN2LWxGV0s5NDlfQVJRMGVwa2gtT2RNYkUwTTdSYWZ6QzZpbW4yNUZpYUhTcEFZNXlYSGZYeU5xX21oYTgzU3ExMnVGR1hvVFptbXVxdzRfQk9LYnBrQWREckN3Q3c?oc=5)
-
-2026-04-28 <span class="news-indication-tag">癌症</span>
-
-來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTFBVazFiTVN2LWxGV0s5NDlfQVJRMGVwa2gtT2RNYkUwTTdSYWZ6QzZpbW4yNUZpYUhTcEFZNXlYSGZYeU5xX21oYTgzU3ExMnVGR1hvVFptbXVxdzRfQk9LYnBrQWREckN3Q3c?oc=5)
 
 ---
 
