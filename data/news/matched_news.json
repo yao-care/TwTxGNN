@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-29T23:45:00.179052+00:00",
-  "total_count": 15,
-  "matched_count": 7,
+  "last_updated": "2026-04-30T02:06:10.866014+00:00",
+  "total_count": 14,
+  "matched_count": 6,
   "news": [
     {
       "id": "e68e70a1565e",
@@ -869,42 +869,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "acaaf4a2e4f2",
-      "title": "健康解碼｜病人氣喘腹痛求醫 竟是心臟衰竭警號 早診早治 扭轉致命危機",
-      "published": "2026-04-27T23:30:00+00:00",
-      "summary": "健康解碼｜病人氣喘腹痛求醫 竟是心臟衰竭警號 早診早治 扭轉致命危機&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQb0FxTDJjSXBzTzdRclpqdmZrNzNGTEdNUVgwYV9raExrVWMzaHI2LWt4d0FkQWFmdHRoX2wzUDdwbHN6cXRLUlE1UHdfWUpWNGc4SURFRTlTa0lOXzRtaExNLTNjQkJVT3lKMFczeGoyTVg5d2dPMHdLRnNGVk1FQTlYX3FJbFZjeDc3eUYyNEZsdl9XVmFkVzB2TTNoc1lwS0JwelZvcUJXNWJDMXk0bzVGbVdlSWJrNW40ZnJOZkoxZlNBUUtFT3UtMERHcUNvQ2thMnpwekVMQ3lFaUxQWGtQd3ZIRXFrS0k1b2lKTm9QeEVma0h2UFBrY0xYeFNHMlM0NFhBVE5kX3Fmc0N5MGF1aXZlVnhaOWg4MEN1VkRrYXFuVC1oUFhyeWtWZ2JLWGROTElNYy02VnUwbGV4NHdjWEhXckhkaGhsQnE0QkN1cjNQZ0FzLXoxZC1MZElpYjUxWXZPem5xdE1uXzRsOEhhQ2VucE9udWlJeUxTLXBxbjdPT3k0eVB3c0xBYnU2UlEtRkxnSU1Ga2NQQklmS1NxbnJTcmtrX3U4Rm04dC14VDRIVTlWeXIxTDN3ZzFrSExWRnlTTC1Cc2FUYWRMUUx6NXBzUy1QYlN4eDlWSURMajJ4Tmpz?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "心臟衰竭",
-          "keyword": "心臟衰竭",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "氣喘",
-          "keyword": "氣喘",
-          "related_drugs": [
-            {
-              "slug": "dupilumab",
-              "name": "Dupilumab"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
