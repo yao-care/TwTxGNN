@@ -44,6 +44,14 @@ permalink: /news/hydroxyurea/
 
 ## 相關新聞（5 則）
 
+### [結紮竟能防癌？醫揭「驚人真相」：最高降8成卵巢癌風險](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FTDNLdnFnSW1USDZLWVpwcGlxdzNNN1lJZWdYS2lwZWxZZXQ2bVczUTdVMjZLZ0FDLXlVX3FrYWdaOVNxVUVETEZobHJLQTRN?oc=5)
+
+2026-04-30 <span class="news-indication-tag">卵巢癌</span>
+
+來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FTDNLdnFnSW1USDZLWVpwcGlxdzNNN1lJZWdYS2lwZWxZZXQ2bVczUTdVMjZLZ0FDLXlVX3FrYWdaOVNxVUVETEZobHJLQTRN?oc=5)
+
+---
+
 ### [癌症為何開始攻擊年輕人？英國研究：11種癌症發病率激增，「體重超標」是關鍵殺手| BBC News 中文 | 新聞](https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0bkh4dDlGTFRMU0pOUVFWMUdzaFZBTHl2ZVVTMWVJd1RxcVRYejBURlFVRDBtUHJvWFNNUkNzU3AwSThHMmwxY2ZXZ2pCZw?oc=5)
 
 2026-04-30 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
@@ -57,14 +65,6 @@ permalink: /news/hydroxyurea/
 2026-04-30 <span class="news-indication-tag">癌症</span>
 
 來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPOHlKRWJzS1VOMEM0MVVtY05nZjhIaGx3Wkh1MEhfWG9NZDczb0dJTnlCTE1fUnZOa3dmbFd3cDRjTHBpWjJtUlFFMVZKVWR0YUdBZGc2bFZDc0RnZnNFR3NJaGlGWms1czluaTZMblJveV94RVhqbFZlY2RWd2tmU2pERFNlMXJNRFdLeVZCXzkwWGtNRzJQQmllbEs2SXdhQWFaME1XVFRXYXFmVWF5TDNqTUlHMVVuQm82RXE0SDdZdUpMRkJ4SXlwU3FOb3M4eUlvRW5UWFo3UkJiRmNMSmdDMVJXMG9qM05BV09HTUlvOURIenJUYldkdTM5UUI1aHF5OGZyVWhMUkU5QkpHZ1gzdkVUSld0eTVkdVRscVMyRmZMQ3RPaXVuTGFqM3FZbVlLcEx1bGNTQ3VDX0U0NndHOU9Nel8zOTY5NURvU1N5N09jRWh3djVxYVNTVE0?oc=5)
-
----
-
-### [結紮「能降低卵巢癌風險？」 婦產科醫這樣說](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rMHFpV1FGZ3dNOVdvenJEaG5WVlQycmtlbUdfUjVCdXVSaV9RYkVVaFNXQWRBVzQ4UUN5V3FIeXM0bFZGWC1BVTZn?oc=5)
-
-2026-04-29 <span class="news-indication-tag">卵巢癌</span>
-
-來源：[威傳媒新聞](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rMHFpV1FGZ3dNOVdvenJEaG5WVlQycmtlbUdfUjVCdXVSaV9RYkVVaFNXQWRBVzQ4UUN5V3FIeXM0bFZGWC1BVTZn?oc=5)
 
 ---
 

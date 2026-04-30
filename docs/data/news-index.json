@@ -1,26 +1,30 @@
 {
-  "generated": "2026-04-30T15:00:15.593317+00:00",
-  "count": 10,
+  "generated": "2026-04-30T16:23:49.330588+00:00",
+  "count": 9,
   "news": [
     {
-      "id": "0aa043b7fc2d",
-      "title": "不必走萬步！哈佛揭護腦黃金步數：每天達標『這數字』，不僅防失智還更長壽 - Women's Health",
-      "published": "2026-04-30T09:32:37+00:00",
+      "id": "2e5ce220cdc0",
+      "title": "結紮竟能防癌？醫揭「驚人真相」：最高降8成卵巢癌風險",
+      "published": "2026-04-30T10:07:00+00:00",
       "sources": [
         {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZmJUU0hrbTF5Y2hfOExMcFZvSXNOVVl6XzNMTmNOVWg0LWZoTmFlM245MDJhNWhUdVZrSC1ENGlSb1pyanpfY1hrbVFTdnY4aVJFdlZuUktmX1hsLWpSbmhBMGEzdkdld3VxSkFhMmVLd05LUElCVEJtYlNfXzJFUnVvQUh3a0RlbndSREE5OVktMFk?oc=5"
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FTDNLdnFnSW1USDZLWVpwcGlxdzNNN1lJZWdYS2lwZWxZZXQ2bVczUTdVMjZLZ0FDLXlVX3FrYWdaOVNxVUVETEZobHJLQTRN?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
+          "name": "卵巢癌",
+          "keyword": "卵巢癌",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
             }
           ]
         }
@@ -589,34 +593,6 @@
             {
               "slug": "isosorbide_dinitrate",
               "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4a3c201d94a1",
-      "title": "結紮「能降低卵巢癌風險？」 婦產科醫這樣說",
-      "published": "2026-04-29T08:02:00+00:00",
-      "sources": [
-        {
-          "name": "威傳媒新聞",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rMHFpV1FGZ3dNOVdvenJEaG5WVlQycmtlbUdfUjVCdXVSaV9RYkVVaFNXQWRBVzQ4UUN5V3FIeXM0bFZGWC1BVTZn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "卵巢癌",
-          "keyword": "卵巢癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }
