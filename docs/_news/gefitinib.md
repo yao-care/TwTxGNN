@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [不必走萬步！哈佛揭護腦黃金步數：每天達標『這數字』，不僅防失智還更長壽 - Women's Health](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZmJUU0hrbTF5Y2hfOExMcFZvSXNOVVl6XzNMTmNOVWg0LWZoTmFlM245MDJhNWhUdVZrSC1ENGlSb1pyanpfY1hrbVFTdnY4aVJFdlZuUktmX1hsLWpSbmhBMGEzdkdld3VxSkFhMmVLd05LUElCVEJtYlNfXzJFUnVvQUh3a0RlbndSREE5OVktMFk?oc=5)
+
+2026-04-30 <span class="news-indication-tag">失智</span>
+
+來源：[Women's Health](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZmJUU0hrbTF5Y2hfOExMcFZvSXNOVVl6XzNMTmNOVWg0LWZoTmFlM245MDJhNWhUdVZrSC1ENGlSb1pyanpfY1hrbVFTdnY4aVJFdlZuUktmX1hsLWpSbmhBMGEzdkdld3VxSkFhMmVLd05LUElCVEJtYlNfXzJFUnVvQUh3a0RlbndSREE5OVktMFk?oc=5)
+
+---
 
 ### [科學家透過阻斷單一阿茲海默症蛋白來恢復記憶](https://news.google.com/rss/articles/CBMi-gJBVV95cUxOVkJUSUNEOHVTcV83ZUdFekVRMm4yQTNGam9CTldWME9qVktfWXdFbVhiZThfMVVZTFpCNS01RC1sb1hKT2FxZXBud0pXamttTkhFbFYtNE1jMXpVYW5Td3ZIa3NreGFsc0R4VDhUTExDdFdvbXFjOUY4V0Rzd1E3eDZCN01NZkd6aVN0aTRVUmJQSnF2Ul9uTGNvX1d3Y3VFM3dRZlZfLVBTWTRBZ1h2bFRqblJaZ0MyUmxUSjlQMXlMQ09wUERsbWdBOTQ4Y3JsWmM5dHNWOXgzeHN5Vl9nUnRUbUhILXlRM3B6MWhqb3ZjQ25xcEltNkprVHB4Z2UwRnFwSTVxLWlkSE0weXhoVVZpd1MzLVNseWRrdnFrSzJBQ0x6cTNIR1FSTURndXNKUXNkaUV4OHFOc25qQ1JHazl2OGJPeTUyM1hteVFacUR1TDVobXNONGhDQllmRzJlR0hNWm44M3A5NVRtcW81VFVEc3NSbEFDTnc?oc=5)
 
@@ -59,9 +67,17 @@ permalink: /news/gefitinib/
 
 ---
 
+### [第一個 3D 視圖顯示殺傷性 T 細胞如何消滅癌症](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPOHlKRWJzS1VOMEM0MVVtY05nZjhIaGx3Wkh1MEhfWG9NZDczb0dJTnlCTE1fUnZOa3dmbFd3cDRjTHBpWjJtUlFFMVZKVWR0YUdBZGc2bFZDc0RnZnNFR3NJaGlGWms1czluaTZMblJveV94RVhqbFZlY2RWd2tmU2pERFNlMXJNRFdLeVZCXzkwWGtNRzJQQmllbEs2SXdhQWFaME1XVFRXYXFmVWF5TDNqTUlHMVVuQm82RXE0SDdZdUpMRkJ4SXlwU3FOb3M4eUlvRW5UWFo3UkJiRmNMSmdDMVJXMG9qM05BV09HTUlvOURIenJUYldkdTM5UUI1aHF5OGZyVWhMUkU5QkpHZ1gzdkVUSld0eTVkdVRscVMyRmZMQ3RPaXVuTGFqM3FZbVlLcEx1bGNTQ3VDX0U0NndHOU9Nel8zOTY5NURvU1N5N09jRWh3djVxYVNTVE0?oc=5)
+
+2026-04-30 <span class="news-indication-tag">癌症</span>
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPOHlKRWJzS1VOMEM0MVVtY05nZjhIaGx3Wkh1MEhfWG9NZDczb0dJTnlCTE1fUnZOa3dmbFd3cDRjTHBpWjJtUlFFMVZKVWR0YUdBZGc2bFZDc0RnZnNFR3NJaGlGWms1czluaTZMblJveV94RVhqbFZlY2RWd2tmU2pERFNlMXJNRFdLeVZCXzkwWGtNRzJQQmllbEs2SXdhQWFaME1XVFRXYXFmVWF5TDNqTUlHMVVuQm82RXE0SDdZdUpMRkJ4SXlwU3FOb3M4eUlvRW5UWFo3UkJiRmNMSmdDMVJXMG9qM05BV09HTUlvOURIenJUYldkdTM5UUI1aHF5OGZyVWhMUkU5QkpHZ1gzdkVUSld0eTVkdVRscVMyRmZMQ3RPaXVuTGFqM3FZbVlLcEx1bGNTQ3VDX0U0NndHOU9Nel8zOTY5NURvU1N5N09jRWh3djVxYVNTVE0?oc=5)
+
+---
+
 ### [養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ0xZT0ItalV4YWFyNm5sOGVDS05FZ1hQcXVmUXFuWHJTUGFFUURsYTZUZk55ZFBvNURvQTBIOGIxQWJMa2U2M2FHemNHMldTSFE?oc=5)
 
-2026-04-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+2026-04-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ0xZT0ItalV4YWFyNm5sOGVDS05FZ1hQcXVmUXFuWHJTUGFFUURsYTZUZk55ZFBvNURvQTBIOGIxQWJMa2U2M2FHemNHMldTSFE?oc=5)
 

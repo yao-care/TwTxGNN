@@ -3,7 +3,7 @@ layout: default
 title: "大腸癌（colonic neoplasm） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/colonic-neoplasm/
 ---
 
 <p class="key-answer" data-question="大腸癌（colonic neoplasm） 有什麼相關新聞？">
-<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ permalink: /news/colonic-neoplasm/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [癌症為何開始攻擊年輕人？英國研究：11種癌症發病率激增，「體重超標」是關鍵殺手| BBC News 中文 | 新聞](https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0bkh4dDlGTFRMU0pOUVFWMUdzaFZBTHl2ZVVTMWVJd1RxcVRYejBURlFVRDBtUHJvWFNNUkNzU3AwSThHMmwxY2ZXZ2pCZw?oc=5)
 
 2026-04-30
 
 來源：[風傳媒](https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0bkh4dDlGTFRMU0pOUVFWMUdzaFZBTHl2ZVVTMWVJd1RxcVRYejBURlFVRDBtUHJvWFNNUkNzU3AwSThHMmwxY2ZXZ2pCZw?oc=5)
+
+---
+
+### [養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ0xZT0ItalV4YWFyNm5sOGVDS05FZ1hQcXVmUXFuWHJTUGFFUURsYTZUZk55ZFBvNURvQTBIOGIxQWJMa2U2M2FHemNHMldTSFE?oc=5)
+
+2026-04-29
+
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ0xZT0ItalV4YWFyNm5sOGVDS05FZ1hQcXVmUXFuWHJTUGFFUURsYTZUZk55ZFBvNURvQTBIOGIxQWJMa2U2M2FHemNHMldTSFE?oc=5)
 
 ---
 

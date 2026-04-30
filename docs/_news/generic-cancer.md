@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,13 +75,21 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [癌症為何開始攻擊年輕人？英國研究：11種癌症發病率激增，「體重超標」是關鍵殺手| BBC News 中文 | 新聞](https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0bkh4dDlGTFRMU0pOUVFWMUdzaFZBTHl2ZVVTMWVJd1RxcVRYejBURlFVRDBtUHJvWFNNUkNzU3AwSThHMmwxY2ZXZ2pCZw?oc=5)
 
 2026-04-30
 
 來源：[風傳媒](https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0bkh4dDlGTFRMU0pOUVFWMUdzaFZBTHl2ZVVTMWVJd1RxcVRYejBURlFVRDBtUHJvWFNNUkNzU3AwSThHMmwxY2ZXZ2pCZw?oc=5)
+
+---
+
+### [第一個 3D 視圖顯示殺傷性 T 細胞如何消滅癌症](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPOHlKRWJzS1VOMEM0MVVtY05nZjhIaGx3Wkh1MEhfWG9NZDczb0dJTnlCTE1fUnZOa3dmbFd3cDRjTHBpWjJtUlFFMVZKVWR0YUdBZGc2bFZDc0RnZnNFR3NJaGlGWms1czluaTZMblJveV94RVhqbFZlY2RWd2tmU2pERFNlMXJNRFdLeVZCXzkwWGtNRzJQQmllbEs2SXdhQWFaME1XVFRXYXFmVWF5TDNqTUlHMVVuQm82RXE0SDdZdUpMRkJ4SXlwU3FOb3M4eUlvRW5UWFo3UkJiRmNMSmdDMVJXMG9qM05BV09HTUlvOURIenJUYldkdTM5UUI1aHF5OGZyVWhMUkU5QkpHZ1gzdkVUSld0eTVkdVRscVMyRmZMQ3RPaXVuTGFqM3FZbVlLcEx1bGNTQ3VDX0U0NndHOU9Nel8zOTY5NURvU1N5N09jRWh3djVxYVNTVE0?oc=5)
+
+2026-04-30
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPOHlKRWJzS1VOMEM0MVVtY05nZjhIaGx3Wkh1MEhfWG9NZDczb0dJTnlCTE1fUnZOa3dmbFd3cDRjTHBpWjJtUlFFMVZKVWR0YUdBZGc2bFZDc0RnZnNFR3NJaGlGWms1czluaTZMblJveV94RVhqbFZlY2RWd2tmU2pERFNlMXJNRFdLeVZCXzkwWGtNRzJQQmllbEs2SXdhQWFaME1XVFRXYXFmVWF5TDNqTUlHMVVuQm82RXE0SDdZdUpMRkJ4SXlwU3FOb3M4eUlvRW5UWFo3UkJiRmNMSmdDMVJXMG9qM05BV09HTUlvOURIenJUYldkdTM5UUI1aHF5OGZyVWhMUkU5QkpHZ1gzdkVUSld0eTVkdVRscVMyRmZMQ3RPaXVuTGFqM3FZbVlLcEx1bGNTQ3VDX0U0NndHOU9Nel8zOTY5NURvU1N5N09jRWh3djVxYVNTVE0?oc=5)
 
 ---
 

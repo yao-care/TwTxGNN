@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="Ramucirumab 有什麼相關新聞？">
-<strong>Ramucirumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ramucirumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/ramucirumab/
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [癌症為何開始攻擊年輕人？英國研究：11種癌症發病率激增，「體重超標」是關鍵殺手| BBC News 中文 | 新聞](https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0bkh4dDlGTFRMU0pOUVFWMUdzaFZBTHl2ZVVTMWVJd1RxcVRYejBURlFVRDBtUHJvWFNNUkNzU3AwSThHMmwxY2ZXZ2pCZw?oc=5)
 
@@ -52,9 +52,17 @@ permalink: /news/ramucirumab/
 
 ---
 
+### [第一個 3D 視圖顯示殺傷性 T 細胞如何消滅癌症](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPOHlKRWJzS1VOMEM0MVVtY05nZjhIaGx3Wkh1MEhfWG9NZDczb0dJTnlCTE1fUnZOa3dmbFd3cDRjTHBpWjJtUlFFMVZKVWR0YUdBZGc2bFZDc0RnZnNFR3NJaGlGWms1czluaTZMblJveV94RVhqbFZlY2RWd2tmU2pERFNlMXJNRFdLeVZCXzkwWGtNRzJQQmllbEs2SXdhQWFaME1XVFRXYXFmVWF5TDNqTUlHMVVuQm82RXE0SDdZdUpMRkJ4SXlwU3FOb3M4eUlvRW5UWFo3UkJiRmNMSmdDMVJXMG9qM05BV09HTUlvOURIenJUYldkdTM5UUI1aHF5OGZyVWhMUkU5QkpHZ1gzdkVUSld0eTVkdVRscVMyRmZMQ3RPaXVuTGFqM3FZbVlLcEx1bGNTQ3VDX0U0NndHOU9Nel8zOTY5NURvU1N5N09jRWh3djVxYVNTVE0?oc=5)
+
+2026-04-30 <span class="news-indication-tag">癌症</span>
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPOHlKRWJzS1VOMEM0MVVtY05nZjhIaGx3Wkh1MEhfWG9NZDczb0dJTnlCTE1fUnZOa3dmbFd3cDRjTHBpWjJtUlFFMVZKVWR0YUdBZGc2bFZDc0RnZnNFR3NJaGlGWms1czluaTZMblJveV94RVhqbFZlY2RWd2tmU2pERFNlMXJNRFdLeVZCXzkwWGtNRzJQQmllbEs2SXdhQWFaME1XVFRXYXFmVWF5TDNqTUlHMVVuQm82RXE0SDdZdUpMRkJ4SXlwU3FOb3M4eUlvRW5UWFo3UkJiRmNMSmdDMVJXMG9qM05BV09HTUlvOURIenJUYldkdTM5UUI1aHF5OGZyVWhMUkU5QkpHZ1gzdkVUSld0eTVkdVRscVMyRmZMQ3RPaXVuTGFqM3FZbVlLcEx1bGNTQ3VDX0U0NndHOU9Nel8zOTY5NURvU1N5N09jRWh3djVxYVNTVE0?oc=5)
+
+---
+
 ### [養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ0xZT0ItalV4YWFyNm5sOGVDS05FZ1hQcXVmUXFuWHJTUGFFUURsYTZUZk55ZFBvNURvQTBIOGIxQWJMa2U2M2FHemNHMldTSFE?oc=5)
 
-2026-04-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+2026-04-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ0xZT0ItalV4YWFyNm5sOGVDS05FZ1hQcXVmUXFuWHJTUGFFUURsYTZUZk55ZFBvNURvQTBIOGIxQWJMa2U2M2FHemNHMldTSFE?oc=5)
 
