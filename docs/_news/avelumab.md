@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [牙痛竟是皮蛇前兆？32歲工程師熬夜3天誘發帶狀皰疹，醫警告：長在頭部恐失明失聰- 書房](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YZnhlNGJSNlRJay1wWWtPYUZwUEo0SzZQQ2ZmbkUxMU5NczJzSVhKTjJlVnJrc3N0UGRPSlZvT2YyUklUaXNKc2RzSFNmWW5NWGdZNHE5Z0FKQUkxTlJv?oc=5)
+
+2026-04-30 <span class="news-indication-tag">帶狀皰疹</span> <span class="news-indication-tag">皮蛇</span>
+
+來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YZnhlNGJSNlRJay1wWWtPYUZwUEo0SzZQQ2ZmbkUxMU5NczJzSVhKTjJlVnJrc3N0UGRPSlZvT2YyUklUaXNKc2RzSFNmWW5NWGdZNHE5Z0FKQUkxTlJv?oc=5)
+
+---
 
 ### [癌症為何開始攻擊年輕人？英國研究：11種癌症發病率激增，「體重超標」是關鍵殺手| BBC News 中文 | 新聞](https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0bkh4dDlGTFRMU0pOUVFWMUdzaFZBTHl2ZVVTMWVJd1RxcVRYejBURlFVRDBtUHJvWFNNUkNzU3AwSThHMmwxY2ZXZ2pCZw?oc=5)
 

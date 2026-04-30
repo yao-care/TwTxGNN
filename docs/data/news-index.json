@@ -1,7 +1,42 @@
 {
-  "generated": "2026-04-30T22:42:42.159498+00:00",
-  "count": 9,
+  "generated": "2026-04-30T23:43:14.074814+00:00",
+  "count": 10,
   "news": [
+    {
+      "id": "c11bd198cf70",
+      "title": "牙痛竟是皮蛇前兆？32歲工程師熬夜3天誘發帶狀皰疹，醫警告：長在頭部恐失明失聰- 書房",
+      "published": "2026-04-30T22:51:00+00:00",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YZnhlNGJSNlRJay1wWWtPYUZwUEo0SzZQQ2ZmbkUxMU5NczJzSVhKTjJlVnJrc3N0UGRPSlZvT2YyUklUaXNKc2RzSFNmWW5NWGdZNHE5Z0FKQUkxTlJv?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "帶狀皰疹",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "皮蛇",
+          "keyword": "皮蛇",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2e5ce220cdc0",
       "title": "結紮竟能防癌？醫揭「驚人真相」：最高降8成卵巢癌風險",
