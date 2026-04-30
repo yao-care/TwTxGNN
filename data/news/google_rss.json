@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-30T21:49:44.870520+00:00",
+  "fetched_at": "2026-04-30T22:42:38.388605+00:00",
   "count": 23,
   "news": [
-    {
-      "id": "33030685d4d4",
-      "title": "癌症為何開始攻擊年輕人？英國研究：11種癌症發病率激增，「體重超標」是關鍵殺手| BBC News 中文 | 新聞 - 風傳媒",
-      "published": "2026-04-30T07:10:26+00:00",
-      "summary": "癌症為何開始攻擊年輕人？英國研究：11種癌症發病率激增，「體重超標」是關鍵殺手| BBC News 中文 | 新聞&nbsp;&nbsp;風傳媒這11種癌症在年輕人中增加，科學家首次找到原因線索&nbsp;&nbsp;BBC年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」&nbsp;&nbsp;自由健康網排除吸菸、肥胖因素！研究發現「除草劑」與50歲以下大腸癌發病率疑正相關&nbsp;&nbsp;倡議家為什麼50歲以下大腸癌變多了？最新研究：隱藏在環境裡的「毒素」是關鍵&nbsp;&nbsp;康健雜誌",
-      "sources": [
-        {
-          "name": "風傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0bkh4dDlGTFRMU0pOUVFWMUdzaFZBTHl2ZVVTMWVJd1RxcVRYejBURlFVRDBtUHJvWFNNUkNzU3AwSThHMmwxY2ZXZ2pCZw?oc=5"
-        }
-      ]
-    },
     {
       "id": "d8dc29adf57d",
       "title": "聖地牙哥基孔肯雅熱病例增加：一週新增16例 - arch-web.com.tw",
@@ -24,6 +12,18 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPZ0VlS2ZCbEI3cXFPTVNpQ0dwWHZoSVViSHJzZHM0em1rZC1MS2lNY0FBOGotR1dWVS0wQ2NvalZmcUgyQmVBczMxMEdkQk9ybHhTaHdDdXhvQjRJTmVIU2hsS3lGZ3VrMlkyVU16bHNIbTdvbVJwUWd1THlfZHFGOWJBWVlrX2psV2RSQmZNMy1QczFyN1FRU00wdlpvd0JuN3JMZTVTTVBXNjh6QlhXdTRURG12c01WaE5tQWp0dm1ZVlFZTHYxMkgyeGMxR1h3ckZ1dHVYX2MxTWNscjRlMWp0enFHb1lnb1hHTEhtYWFCMHlZbkt6WTVwU1hhdzk4U0RxeHJFRDluQlBkUHlCRTAxZGdMdi16V0U1UjM5aGtOSHRPSVl0b2F2THFNRXlOR1lYRG1SdUk2YnNPeDdfS0RCREpYdTZCazVDTWxEbXljQmw1N3dDS2ZmSk82X3pFOTRzZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "33030685d4d4",
+      "title": "癌症為何開始攻擊年輕人？英國研究：11種癌症發病率激增，「體重超標」是關鍵殺手| BBC News 中文 | 新聞 - 風傳媒",
+      "published": "2026-04-30T07:10:26+00:00",
+      "summary": "癌症為何開始攻擊年輕人？英國研究：11種癌症發病率激增，「體重超標」是關鍵殺手| BBC News 中文 | 新聞&nbsp;&nbsp;風傳媒這11種癌症在年輕人中增加，科學家首次找到原因線索&nbsp;&nbsp;BBC年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」&nbsp;&nbsp;自由健康網排除吸菸、肥胖因素！研究發現「除草劑」與50歲以下大腸癌發病率疑正相關&nbsp;&nbsp;倡議家為什麼50歲以下大腸癌變多了？最新研究：隱藏在環境裡的「毒素」是關鍵&nbsp;&nbsp;康健雜誌",
+      "sources": [
+        {
+          "name": "風傳媒",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0bkh4dDlGTFRMU0pOUVFWMUdzaFZBTHl2ZVVTMWVJd1RxcVRYejBURlFVRDBtUHJvWFNNUkNzU3AwSThHMmwxY2ZXZ2pCZw?oc=5"
         }
       ]
     },
