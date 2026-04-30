@@ -31,11 +31,11 @@ permalink: /news/cardiovascular/
 
 ## 相關新聞（1 則）
 
-### [「心包脂肪」增心血管疾病風險 三高患者更應注意](https://news.google.com/rss/articles/CBMic0FVX3lxTE1xd2dmZ09JcS12UUdVT0VheS05QXgxVXBZb0ZBSnM0a3NKdGZnYkRnaWlqVFE1S1U0eUhHclhfYmR0UXVuRTgtZzkzQnY3Sk93ZWtEbTJMRGdjNjdVY1Z6dU81cS02UmhxSjdfUzFzZlBiMmM?oc=5)
+### [內臟脂肪不只傷腰圍 醫師提醒「心包脂肪」恐影響心血管健康](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vTk9mcW1IdlkyMVJRQWJlT3hjYmFWbDhFM2M3NHpySzRTNnhPaTJGYTUtNi0wTkdrZVA0SXd1QV94eU5wdm5QNFY3UVk2cjdUVzlhRUFwTVJQdzFE0gFiQVVfeXFMTjExZE0xcllDR1RxS2lGWnpEUDBiM1JHUTBKMElRci1LdEVaUl9VaW1nVWVDN1dWM2dJeVhnWjJmVlVpRVJVSlRXTmRvRGhWbjBGaHdRekZtQVR3akpCWVNRRHc?oc=5)
 
-2026-04-29
+2026-04-30
 
-來源：[聯合新聞網](https://news.google.com/rss/articles/CBMic0FVX3lxTE1xd2dmZ09JcS12UUdVT0VheS05QXgxVXBZb0ZBSnM0a3NKdGZnYkRnaWlqVFE1S1U0eUhHclhfYmR0UXVuRTgtZzkzQnY3Sk93ZWtEbTJMRGdjNjdVY1Z6dU81cS02UmhxSjdfUzFzZlBiMmM?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vTk9mcW1IdlkyMVJRQWJlT3hjYmFWbDhFM2M3NHpySzRTNnhPaTJGYTUtNi0wTkdrZVA0SXd1QV94eU5wdm5QNFY3UVk2cjdUVzlhRUFwTVJQdzFE0gFiQVVfeXFMTjExZE0xcllDR1RxS2lGWnpEUDBiM1JHUTBKMElRci1LdEVaUl9VaW1nVWVDN1dWM2dJeVhnWjJmVlVpRVJVSlRXTmRvRGhWbjBGaHdRekZtQVR3akpCWVNRRHc?oc=5)
 
 ---
 

@@ -44,19 +44,19 @@ permalink: /news/paclitaxel/
 
 ## 相關新聞（4 則）
 
-### [這11種癌症在年輕人中增加，科學家首次找到原因線索](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pRGhYS0syVjVLOG5yMjZKQ1dISE5WaUF5YWNUenk0cXBZeTVyT3A4X3dRRU5nR28zTmlPaE1IdVdvR0E1QWtDcVc1NEZ5cU5rWDV0NElVY2hHSDRsYk0xc2xETWdKQdIBa0FVX3lxTFA5b2tNWC1ueDgydUJXTWF6QzVhQ1BNZkNadzhjcGh6Z0hWU1lJUUdhSlNGSVdHV0xwcWk1LWlPUHItcXlKa0d4My1OWG1GbjA2UGdtZU0wRlZhekZfNnRZeUR6THh0anhWVWFn?oc=5)
+### [癌症為何開始攻擊年輕人？英國研究：11種癌症發病率激增，「體重超標」是關鍵殺手| BBC News 中文 | 新聞](https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0bkh4dDlGTFRMU0pOUVFWMUdzaFZBTHl2ZVVTMWVJd1RxcVRYejBURlFVRDBtUHJvWFNNUkNzU3AwSThHMmwxY2ZXZ2pCZw?oc=5)
 
 2026-04-30 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pRGhYS0syVjVLOG5yMjZKQ1dISE5WaUF5YWNUenk0cXBZeTVyT3A4X3dRRU5nR28zTmlPaE1IdVdvR0E1QWtDcVc1NEZ5cU5rWDV0NElVY2hHSDRsYk0xc2xETWdKQdIBa0FVX3lxTFA5b2tNWC1ueDgydUJXTWF6QzVhQ1BNZkNadzhjcGh6Z0hWU1lJUUdhSlNGSVdHV0xwcWk1LWlPUHItcXlKa0d4My1OWG1GbjA2UGdtZU0wRlZhekZfNnRZeUR6THh0anhWVWFn?oc=5)
+來源：[風傳媒](https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0bkh4dDlGTFRMU0pOUVFWMUdzaFZBTHl2ZVVTMWVJd1RxcVRYejBURlFVRDBtUHJvWFNNUkNzU3AwSThHMmwxY2ZXZ2pCZw?oc=5)
 
 ---
 
-### [結紮「能降低卵巢癌風險？」 婦產科醫這樣說](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rMHFpV1FGZ3dNOVdvenJEaG5WVlQycmtlbUdfUjVCdXVSaV9RYkVVaFNXQWRBVzQ4UUN5V3FIeXM0bFZGWC1BVTZn?oc=5)
+### [結紮「能降低卵巢癌風險？」 婦產科醫這樣說](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yYzFITTYtWVRJdVI5RkRiRHVzUUgycUhFQ0pwYVFrMDc3YU1Ea05sRjZfem5HV3Vpb0p0djJVUnIxU0ZWRm1KRGc4ZlB4dw?oc=5)
 
 2026-04-29 <span class="news-indication-tag">卵巢癌</span>
 
-來源：[威傳媒新聞](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rMHFpV1FGZ3dNOVdvenJEaG5WVlQycmtlbUdfUjVCdXVSaV9RYkVVaFNXQWRBVzQ4UUN5V3FIeXM0bFZGWC1BVTZn?oc=5)
+來源：[天天上新聞](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yYzFITTYtWVRJdVI5RkRiRHVzUUgycUhFQ0pwYVFrMDc3YU1Ea05sRjZfem5HV3Vpb0p0djJVUnIxU0ZWRm1KRGc4ZlB4dw?oc=5)
 
 ---
 

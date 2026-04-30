@@ -44,11 +44,11 @@ permalink: /news/avelumab/
 
 ## 相關新聞（2 則）
 
-### [這11種癌症在年輕人中增加，科學家首次找到原因線索](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pRGhYS0syVjVLOG5yMjZKQ1dISE5WaUF5YWNUenk0cXBZeTVyT3A4X3dRRU5nR28zTmlPaE1IdVdvR0E1QWtDcVc1NEZ5cU5rWDV0NElVY2hHSDRsYk0xc2xETWdKQdIBa0FVX3lxTFA5b2tNWC1ueDgydUJXTWF6QzVhQ1BNZkNadzhjcGh6Z0hWU1lJUUdhSlNGSVdHV0xwcWk1LWlPUHItcXlKa0d4My1OWG1GbjA2UGdtZU0wRlZhekZfNnRZeUR6THh0anhWVWFn?oc=5)
+### [癌症為何開始攻擊年輕人？英國研究：11種癌症發病率激增，「體重超標」是關鍵殺手| BBC News 中文 | 新聞](https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0bkh4dDlGTFRMU0pOUVFWMUdzaFZBTHl2ZVVTMWVJd1RxcVRYejBURlFVRDBtUHJvWFNNUkNzU3AwSThHMmwxY2ZXZ2pCZw?oc=5)
 
 2026-04-30 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pRGhYS0syVjVLOG5yMjZKQ1dISE5WaUF5YWNUenk0cXBZeTVyT3A4X3dRRU5nR28zTmlPaE1IdVdvR0E1QWtDcVc1NEZ5cU5rWDV0NElVY2hHSDRsYk0xc2xETWdKQdIBa0FVX3lxTFA5b2tNWC1ueDgydUJXTWF6QzVhQ1BNZkNadzhjcGh6Z0hWU1lJUUdhSlNGSVdHV0xwcWk1LWlPUHItcXlKa0d4My1OWG1GbjA2UGdtZU0wRlZhekZfNnRZeUR6THh0anhWVWFn?oc=5)
+來源：[風傳媒](https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0bkh4dDlGTFRMU0pOUVFWMUdzaFZBTHl2ZVVTMWVJd1RxcVRYejBURlFVRDBtUHJvWFNNUkNzU3AwSThHMmwxY2ZXZ2pCZw?oc=5)
 
 ---
 

@@ -1,15 +1,15 @@
 {
-  "generated": "2026-04-30T05:50:33.539289+00:00",
+  "generated": "2026-04-30T08:05:41.399991+00:00",
   "count": 5,
   "news": [
     {
-      "id": "04cd30f3b5c0",
-      "title": "這11種癌症在年輕人中增加，科學家首次找到原因線索",
-      "published": "2026-04-30T05:33:01+00:00",
+      "id": "33030685d4d4",
+      "title": "癌症為何開始攻擊年輕人？英國研究：11種癌症發病率激增，「體重超標」是關鍵殺手| BBC News 中文 | 新聞",
+      "published": "2026-04-30T07:10:26+00:00",
       "sources": [
         {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pRGhYS0syVjVLOG5yMjZKQ1dISE5WaUF5YWNUenk0cXBZeTVyT3A4X3dRRU5nR28zTmlPaE1IdVdvR0E1QWtDcVc1NEZ5cU5rWDV0NElVY2hHSDRsYk0xc2xETWdKQdIBa0FVX3lxTFA5b2tNWC1ueDgydUJXTWF6QzVhQ1BNZkNadzhjcGh6Z0hWU1lJUUdhSlNGSVdHV0xwcWk1LWlPUHItcXlKa0d4My1OWG1GbjA2UGdtZU0wRlZhekZfNnRZeUR6THh0anhWVWFn?oc=5"
+          "name": "風傳媒",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0bkh4dDlGTFRMU0pOUVFWMUdzaFZBTHl2ZVVTMWVJd1RxcVRYejBURlFVRDBtUHJvWFNNUkNzU3AwSThHMmwxY2ZXZ2pCZw?oc=5"
         }
       ],
       "keywords": [
@@ -245,13 +245,13 @@
       ]
     },
     {
-      "id": "e68e70a1565e",
-      "title": "「心包脂肪」增心血管疾病風險 三高患者更應注意",
-      "published": "2026-04-29T17:23:26+00:00",
+      "id": "b4bab3d3179f",
+      "title": "內臟脂肪不只傷腰圍 醫師提醒「心包脂肪」恐影響心血管健康",
+      "published": "2026-04-30T01:38:01+00:00",
       "sources": [
         {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xd2dmZ09JcS12UUdVT0VheS05QXgxVXBZb0ZBSnM0a3NKdGZnYkRnaWlqVFE1S1U0eUhHclhfYmR0UXVuRTgtZzkzQnY3Sk93ZWtEbTJMRGdjNjdVY1Z6dU81cS02UmhxSjdfUzFzZlBiMmM?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vTk9mcW1IdlkyMVJRQWJlT3hjYmFWbDhFM2M3NHpySzRTNnhPaTJGYTUtNi0wTkdrZVA0SXd1QV94eU5wdm5QNFY3UVk2cjdUVzlhRUFwTVJQdzFE0gFiQVVfeXFMTjExZE0xcllDR1RxS2lGWnpEUDBiM1JHUTBKMElRci1LdEVaUl9VaW1nVWVDN1dWM2dJeVhnWjJmVlVpRVJVSlRXTmRvRGhWbjBGaHdRekZtQVR3akpCWVNRRHc?oc=5"
         }
       ],
       "keywords": [
@@ -265,28 +265,17 @@
               "name": "Isosorbide dinitrate"
             }
           ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
         }
       ]
     },
     {
-      "id": "4a3c201d94a1",
+      "id": "6989ac1283c4",
       "title": "結紮「能降低卵巢癌風險？」 婦產科醫這樣說",
-      "published": "2026-04-29T08:02:00+00:00",
+      "published": "2026-04-29T06:59:51+00:00",
       "sources": [
         {
-          "name": "威傳媒新聞",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rMHFpV1FGZ3dNOVdvenJEaG5WVlQycmtlbUdfUjVCdXVSaV9RYkVVaFNXQWRBVzQ4UUN5V3FIeXM0bFZGWC1BVTZn?oc=5"
+          "name": "天天上新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yYzFITTYtWVRJdVI5RkRiRHVzUUgycUhFQ0pwYVFrMDc3YU1Ea05sRjZfem5HV3Vpb0p0djJVUnIxU0ZWRm1KRGc4ZlB4dw?oc=5"
         }
       ],
       "keywords": [
