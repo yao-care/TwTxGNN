@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-30T12:09:22.186905+00:00",
+  "generated": "2026-04-30T15:00:15.593317+00:00",
   "count": 10,
   "news": [
     {
@@ -560,13 +560,13 @@
       ]
     },
     {
-      "id": "b4bab3d3179f",
-      "title": "內臟脂肪不只傷腰圍 醫師提醒「心包脂肪」恐影響心血管健康",
-      "published": "2026-04-30T01:38:01+00:00",
+      "id": "e68e70a1565e",
+      "title": "「心包脂肪」增心血管疾病風險 三高患者更應注意",
+      "published": "2026-04-29T17:23:26+00:00",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vTk9mcW1IdlkyMVJRQWJlT3hjYmFWbDhFM2M3NHpySzRTNnhPaTJGYTUtNi0wTkdrZVA0SXd1QV94eU5wdm5QNFY3UVk2cjdUVzlhRUFwTVJQdzFE0gFiQVVfeXFMTjExZE0xcllDR1RxS2lGWnpEUDBiM1JHUTBKMElRci1LdEVaUl9VaW1nVWVDN1dWM2dJeVhnWjJmVlVpRVJVSlRXTmRvRGhWbjBGaHdRekZtQVR3akpCWVNRRHc?oc=5"
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xd2dmZ09JcS12UUdVT0VheS05QXgxVXBZb0ZBSnM0a3NKdGZnYkRnaWlqVFE1S1U0eUhHclhfYmR0UXVuRTgtZzkzQnY3Sk93ZWtEbTJMRGdjNjdVY1Z6dU81cS02UmhxSjdfUzFzZlBiMmM?oc=5"
         }
       ],
       "keywords": [
@@ -574,6 +574,17 @@
           "type": "indication",
           "name": "cardiovascular",
           "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
           "related_drugs": [
             {
               "slug": "isosorbide_dinitrate",
