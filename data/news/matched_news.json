@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-30T20:05:35.544883+00:00",
-  "total_count": 22,
+  "last_updated": "2026-04-30T21:49:48.262817+00:00",
+  "total_count": 23,
   "matched_count": 9,
   "news": [
     {
@@ -30,14 +30,27 @@
       "matched_keywords": []
     },
     {
-      "id": "8f5d03240bca",
-      "title": "健康網》當兵共用毛巾 菜花上身！醫：鼻孔也會有",
+      "id": "40f33fba4906",
+      "title": "新加坡批准ACAM2000疫苗用於預防猴痘 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
+      "published": "2026-04-30T12:04:12+00:00",
+      "summary": "新加坡批准ACAM2000疫苗用於預防猴痘 作者 Investing.com&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
+      "sources": [
+        {
+          "name": "Investing.com 香港 - 股市報價& 財經新聞",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qX2ZvMUJMaXJaTnBOMDhKdXdKRm9YUXkzMG11aWFpOWNObXQ5ZXFuMGFNcGE3U2VlRnY3ZGxYWnJxY1ZUakMtTUt0cTVFeFhDdU1uSXRoMThzQTBMeDlfeElXS3pkVENLSTFrU3BQbWQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4dbcf85edd91",
+      "title": "健康網》當兵共用毛巾染菜花 醫揭職災：長在鼻孔",
       "published": "2026-04-30T11:49:00+00:00",
-      "summary": "健康網》當兵共用毛巾 菜花上身！醫：鼻孔也會有&nbsp;&nbsp;自由健康網當兵染菜花！跟同梯「互借2物」竟中標 醫證實傳染力超高：鼻孔也長&nbsp;&nbsp;鏡週刊Mirror Media沒有性行為也可能感染菜花？ 泌尿科醫師揭露「職災」：感染性極強 | 新頭殼&nbsp;&nbsp;LINE TODAY被誤會偷吃…當兵共用2物品集體染菜花 醫揭恐怖職災：鼻孔也長&nbsp;&nbsp;聯合新聞網沒性行為也會染菜花 傳染力爆強！醫曝：鼻孔、腳趾都中鏢...&nbsp;&nbsp;中天新聞網",
+      "summary": "健康網》當兵共用毛巾染菜花 醫揭職災：長在鼻孔&nbsp;&nbsp;自由健康網當兵染菜花！跟同梯「互借2物」竟中標 醫證實傳染力超高：鼻孔也長&nbsp;&nbsp;鏡週刊Mirror Media沒有性行為也可能感染菜花？ 泌尿科醫師揭露「職災」：感染性極強 | 新頭殼&nbsp;&nbsp;LINE TODAY被誤會偷吃…當兵共用2物品集體染菜花 醫揭恐怖職災：鼻孔也長&nbsp;&nbsp;聯合新聞網沒性行為也會染菜花 傳染力爆強！醫曝：鼻孔、腳趾都中鏢...&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
           "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hOUxURDFSam5USU5GVjBCTE1uUkg1RlJfWUdxWnJUYXN3UzhDZW55anJWVnQ5emNKTVQzNEloU21JVlZuSG5NV1JpRHZGVU5ZRDFiTDVqNDBtYUlhMFZjYl81dEc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hOUxURDFSam5USU5GVjBCTE1uUkg1RlJfWUdxWnJUYXN3UzhDZW55anJWVnQ5emNKTVQzNEloU21JVlZuSG5NV1JpRHZGVU5ZRDFiTDVqNDBtYUlhMFZjYl81dEfSAWpBVV95cUxNazFpTTdpaVc1SHBzekk0VGx0YUVSLUFfNnpxZzMxRkZ4UWtGaUJreHkxbk9RWDZtVUxRMmM4ZUtYbUpoTFlLRmdJTDNPUG5YR0ZMTWloLVQ4NzBIZll4MUlKLVFVb2lIaGtn?oc=5"
         }
       ],
       "matched_keywords": []

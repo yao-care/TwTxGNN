@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-30T20:05:31.776995+00:00",
-  "count": 22,
+  "fetched_at": "2026-04-30T21:49:44.870520+00:00",
+  "count": 23,
   "news": [
     {
       "id": "33030685d4d4",
@@ -40,6 +40,18 @@
       ]
     },
     {
+      "id": "4dbcf85edd91",
+      "title": "健康網》當兵共用毛巾染菜花 醫揭職災：長在鼻孔 - 自由健康網",
+      "published": "2026-04-30T11:49:00+00:00",
+      "summary": "健康網》當兵共用毛巾染菜花 醫揭職災：長在鼻孔&nbsp;&nbsp;自由健康網當兵染菜花！跟同梯「互借2物」竟中標 醫證實傳染力超高：鼻孔也長&nbsp;&nbsp;鏡週刊Mirror Media沒有性行為也可能感染菜花？ 泌尿科醫師揭露「職災」：感染性極強 | 新頭殼&nbsp;&nbsp;LINE TODAY被誤會偷吃…當兵共用2物品集體染菜花 醫揭恐怖職災：鼻孔也長&nbsp;&nbsp;聯合新聞網沒性行為也會染菜花 傳染力爆強！醫曝：鼻孔、腳趾都中鏢...&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hOUxURDFSam5USU5GVjBCTE1uUkg1RlJfWUdxWnJUYXN3UzhDZW55anJWVnQ5emNKTVQzNEloU21JVlZuSG5NV1JpRHZGVU5ZRDFiTDVqNDBtYUlhMFZjYl81dEfSAWpBVV95cUxNazFpTTdpaVc1SHBzekk0VGx0YUVSLUFfNnpxZzMxRkZ4UWtGaUJreHkxbk9RWDZtVUxRMmM4ZUtYbUpoTFlLRmdJTDNPUG5YR0ZMTWloLVQ4NzBIZll4MUlKLVFVb2lIaGtn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5c00d5884737",
       "title": "看似健康竟突發心肌梗塞？醫師揭「健檢盲點」：99%人忽略這數值， 恐是血管隱形殺手 - 風傳媒",
       "published": "2026-04-30T09:13:51+00:00",
@@ -48,18 +60,6 @@
         {
           "name": "風傳媒",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4td044XzNHYURNbGE4bmtCeTRQRmZlRFVoS1lBQ20yb0FuUGxUY2w5WmIxMmJRcW9lNjg3SEZEZGRFTkFaTXN1OTZtckZtZE5k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8f5d03240bca",
-      "title": "健康網》當兵共用毛巾 菜花上身！醫：鼻孔也會有 - 自由健康網",
-      "published": "2026-04-30T11:49:00+00:00",
-      "summary": "健康網》當兵共用毛巾 菜花上身！醫：鼻孔也會有&nbsp;&nbsp;自由健康網當兵染菜花！跟同梯「互借2物」竟中標 醫證實傳染力超高：鼻孔也長&nbsp;&nbsp;鏡週刊Mirror Media沒有性行為也可能感染菜花？ 泌尿科醫師揭露「職災」：感染性極強 | 新頭殼&nbsp;&nbsp;LINE TODAY被誤會偷吃…當兵共用2物品集體染菜花 醫揭恐怖職災：鼻孔也長&nbsp;&nbsp;聯合新聞網沒性行為也會染菜花 傳染力爆強！醫曝：鼻孔、腳趾都中鏢...&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hOUxURDFSam5USU5GVjBCTE1uUkg1RlJfWUdxWnJUYXN3UzhDZW55anJWVnQ5emNKTVQzNEloU21JVlZuSG5NV1JpRHZGVU5ZRDFiTDVqNDBtYUlhMFZjYl81dEc?oc=5"
         }
       ]
     },
@@ -112,18 +112,6 @@
       ]
     },
     {
-      "id": "7f591cb2bd73",
-      "title": "兒癌終極挑戰 質子是首選 - 《現代保險》雜誌",
-      "published": "2026-04-30T03:21:44+00:00",
-      "summary": "兒癌終極挑戰 質子是首選&nbsp;&nbsp;《現代保險》雜誌",
-      "sources": [
-        {
-          "name": "《現代保險》雜誌",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Obk40c1d3S2tYNW5LNlJhYnN5SUQ4cU1hVktKaUcwQUhNNGFMUUFIWVJDWHZNTTY2ZHRzSmlCNEQ5OGZhVWVKQ2liQTliNXRSVl80?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9f230afeef53",
       "title": "麻省理工學院的研究發現兒童更容易受到水中致癌化學物質的影響 - arch-web.com.tw",
       "published": "2026-04-29T10:41:32+00:00",
@@ -132,6 +120,18 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPNlNYcTI3clpkdWIzOGdfbXhKTzBxS0VUTlI1QXJtZVRNbkU5T1RzT1lUaEpyMFpaVHg5cERKbEZpUE45V09GYkVyMzIzRktBbjRzTFNKWmZRTXFxaFpBU2txaHVkbkptem5QZzhCRThzU2J6YUZINk9MUVVZbUlMU0M3Ykg0bHdHQkV0c0RPNzhHRlh5TU5fLWQweVYtX2FNVndoWFVhWk5GLS1sWmNaY1Bfa2tlbWtac0RyV0tXd3c5aEZpZTdiZzlzY3UtenMxaTVCaVQ4c1J3bVRBbFRja3A4UTNDZl9pdnFiWHVzcnRpMExqbnd2amJ4Tjd5MWUxMlpVTmJab3RkZHAweUN6RXNqeXA1dGZxLUthcnRfRDFNVXlYdjhub3VvcWF0eEM4U2FHTGFpekJ2U016bVZXQmY5bjRWTGUwb0cwX01kd1lzR0VZLXJ0enVCSzcwRlJ5UmhsUE90UVduaEF0MVV0UFZJbUZrSmJydDlpSkRUaWxmNHB1Y3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7f591cb2bd73",
+      "title": "兒癌終極挑戰 質子是首選 - 《現代保險》雜誌",
+      "published": "2026-04-30T03:21:44+00:00",
+      "summary": "兒癌終極挑戰 質子是首選&nbsp;&nbsp;《現代保險》雜誌",
+      "sources": [
+        {
+          "name": "《現代保險》雜誌",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Obk40c1d3S2tYNW5LNlJhYnN5SUQ4cU1hVktKaUcwQUhNNGFMUUFIWVJDWHZNTTY2ZHRzSmlCNEQ5OGZhVWVKQ2liQTliNXRSVl80?oc=5"
         }
       ]
     },
@@ -192,6 +192,18 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNcklrRGRVSWZ3cWxCeWQ0ZjNkU1VJcXlrNzlLV05qVnJTS2d1cXVlY1AxNTdUU2VLN3FxNWg0R3dTem52OXA4UjVQVnYzSndtVndiU0V5aXdiWmNHWWpUT2ZRNG1nQWVEbU5rbzJNZEZ2ZU8xNHFNMklvQnVZTHlhVzBLd3doTlZ5OGVNMXVmMi1GTU1DRXFQVnJCM3ZoeGI2Y3ZVX1BFaVhjQThtTkgwdjA2LUpNWlRGVW9vNnZhWWNpS0p3aS1OV0F2OG1MN3dXSjdHRmh1Y3pqVW8yU1c5MzFGX2tTdGI2cm1KU2lSZmZzS3pvOGhZQmNaVWtGQnF3VVRjb3JQcHpaZGtHdTlNQVFCV1IzYXdDMXhKWkxpbmR2M1NxS1B5ZTJ3Znl0dDZ1LUNsVy1peGdVUHpRVEptV2g5SjRRQnA2cFFDMm45V0xNX2o4UFVLeHlKWkJmM0lwOHFBZnRxcGtPdWRhYTc2dEVsLXhINmVLd2R1bGtTZVJPNGwxSlpmLWgwbEstNmZheWZVVUdfQkU0RDU4eHFacXlkQ1RsUzJBUGVtTHZIRHRreW1hbVlkZ1JTcU15YzdhVWJ2MzM3cFJ4TFJ6dm94b2x2VWh2bFo3d3FoS2JaaUREZnEzYTZR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "40f33fba4906",
+      "title": "新加坡批准ACAM2000疫苗用於預防猴痘 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
+      "published": "2026-04-30T12:04:12+00:00",
+      "summary": "新加坡批准ACAM2000疫苗用於預防猴痘 作者 Investing.com&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
+      "sources": [
+        {
+          "name": "Investing.com 香港 - 股市報價& 財經新聞",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qX2ZvMUJMaXJaTnBOMDhKdXdKRm9YUXkzMG11aWFpOWNObXQ5ZXFuMGFNcGE3U2VlRnY3ZGxYWnJxY1ZUakMtTUt0cTVFeFhDdU1uSXRoMThzQTBMeDlfeElXS3pkVENLSTFrU3BQbWQ?oc=5"
         }
       ]
     },
