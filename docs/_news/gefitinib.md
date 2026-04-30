@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [科學家透過阻斷單一阿茲海默症蛋白來恢復記憶](https://news.google.com/rss/articles/CBMi-gJBVV95cUxOVkJUSUNEOHVTcV83ZUdFekVRMm4yQTNGam9CTldWME9qVktfWXdFbVhiZThfMVVZTFpCNS01RC1sb1hKT2FxZXBud0pXamttTkhFbFYtNE1jMXpVYW5Td3ZIa3NreGFsc0R4VDhUTExDdFdvbXFjOUY4V0Rzd1E3eDZCN01NZkd6aVN0aTRVUmJQSnF2Ul9uTGNvX1d3Y3VFM3dRZlZfLVBTWTRBZ1h2bFRqblJaZ0MyUmxUSjlQMXlMQ09wUERsbWdBOTQ4Y3JsWmM5dHNWOXgzeHN5Vl9nUnRUbUhILXlRM3B6MWhqb3ZjQ25xcEltNkprVHB4Z2UwRnFwSTVxLWlkSE0weXhoVVZpd1MzLVNseWRrdnFrSzJBQ0x6cTNIR1FSTURndXNKUXNkaUV4OHFOc25qQ1JHazl2OGJPeTUyM1hteVFacUR1TDVobXNONGhDQllmRzJlR0hNWm44M3A5NVRtcW81VFVEc3NSbEFDTnc?oc=5)
+
+2026-04-30 <span class="news-indication-tag">阿茲海默症</span>
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi-gJBVV95cUxOVkJUSUNEOHVTcV83ZUdFekVRMm4yQTNGam9CTldWME9qVktfWXdFbVhiZThfMVVZTFpCNS01RC1sb1hKT2FxZXBud0pXamttTkhFbFYtNE1jMXpVYW5Td3ZIa3NreGFsc0R4VDhUTExDdFdvbXFjOUY4V0Rzd1E3eDZCN01NZkd6aVN0aTRVUmJQSnF2Ul9uTGNvX1d3Y3VFM3dRZlZfLVBTWTRBZ1h2bFRqblJaZ0MyUmxUSjlQMXlMQ09wUERsbWdBOTQ4Y3JsWmM5dHNWOXgzeHN5Vl9nUnRUbUhILXlRM3B6MWhqb3ZjQ25xcEltNkprVHB4Z2UwRnFwSTVxLWlkSE0weXhoVVZpd1MzLVNseWRrdnFrSzJBQ0x6cTNIR1FSTURndXNKUXNkaUV4OHFOc25qQ1JHazl2OGJPeTUyM1hteVFacUR1TDVobXNONGhDQllmRzJlR0hNWm44M3A5NVRtcW81VFVEc3NSbEFDTnc?oc=5)
+
+---
 
 ### [癌症為何開始攻擊年輕人？英國研究：11種癌症發病率激增，「體重超標」是關鍵殺手| BBC News 中文 | 新聞](https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0bkh4dDlGTFRMU0pOUVFWMUdzaFZBTHl2ZVVTMWVJd1RxcVRYejBURlFVRDBtUHJvWFNNUkNzU3AwSThHMmwxY2ZXZ2pCZw?oc=5)
 
@@ -53,7 +61,7 @@ permalink: /news/gefitinib/
 
 ### [養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ0xZT0ItalV4YWFyNm5sOGVDS05FZ1hQcXVmUXFuWHJTUGFFUURsYTZUZk55ZFBvNURvQTBIOGIxQWJMa2U2M2FHemNHMldTSFE?oc=5)
 
-2026-04-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-04-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
 來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ0xZT0ItalV4YWFyNm5sOGVDS05FZ1hQcXVmUXFuWHJTUGFFUURsYTZUZk55ZFBvNURvQTBIOGIxQWJMa2U2M2FHemNHMldTSFE?oc=5)
 

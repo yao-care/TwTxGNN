@@ -52,17 +52,17 @@ permalink: /news/paclitaxel/
 
 ---
 
-### [結紮「能降低卵巢癌風險？」 婦產科醫這樣說](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yYzFITTYtWVRJdVI5RkRiRHVzUUgycUhFQ0pwYVFrMDc3YU1Ea05sRjZfem5HV3Vpb0p0djJVUnIxU0ZWRm1KRGc4ZlB4dw?oc=5)
+### [結紮「能降低卵巢癌風險？」 婦產科醫這樣說](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rMHFpV1FGZ3dNOVdvenJEaG5WVlQycmtlbUdfUjVCdXVSaV9RYkVVaFNXQWRBVzQ4UUN5V3FIeXM0bFZGWC1BVTZn?oc=5)
 
 2026-04-29 <span class="news-indication-tag">卵巢癌</span>
 
-來源：[天天上新聞](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yYzFITTYtWVRJdVI5RkRiRHVzUUgycUhFQ0pwYVFrMDc3YU1Ea05sRjZfem5HV3Vpb0p0djJVUnIxU0ZWRm1KRGc4ZlB4dw?oc=5)
+來源：[威傳媒新聞](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rMHFpV1FGZ3dNOVdvenJEaG5WVlQycmtlbUdfUjVCdXVSaV9RYkVVaFNXQWRBVzQ4UUN5V3FIeXM0bFZGWC1BVTZn?oc=5)
 
 ---
 
 ### [養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ0xZT0ItalV4YWFyNm5sOGVDS05FZ1hQcXVmUXFuWHJTUGFFUURsYTZUZk55ZFBvNURvQTBIOGIxQWJMa2U2M2FHemNHMldTSFE?oc=5)
 
-2026-04-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-04-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
 來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ0xZT0ItalV4YWFyNm5sOGVDS05FZ1hQcXVmUXFuWHJTUGFFUURsYTZUZk55ZFBvNURvQTBIOGIxQWJMa2U2M2FHemNHMldTSFE?oc=5)
 

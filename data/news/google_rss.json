@@ -1,13 +1,25 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-30T08:05:37.951415+00:00",
-  "count": 14,
+  "fetched_at": "2026-04-30T10:46:55.512764+00:00",
+  "count": 18,
   "news": [
+    {
+      "id": "5c00d5884737",
+      "title": "看似健康竟突發心肌梗塞？醫師揭「健檢盲點」：99%人忽略這數值， 恐是血管隱形殺手 - 風傳媒",
+      "published": "2026-04-30T09:13:51+00:00",
+      "summary": "看似健康竟突發心肌梗塞？醫師揭「健檢盲點」：99%人忽略這數值， 恐是血管隱形殺手&nbsp;&nbsp;風傳媒",
+      "sources": [
+        {
+          "name": "風傳媒",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4td044XzNHYURNbGE4bmtCeTRQRmZlRFVoS1lBQ20yb0FuUGxUY2w5WmIxMmJRcW9lNjg3SEZEZGRFTkFaTXN1OTZtckZtZE5k?oc=5"
+        }
+      ]
+    },
     {
       "id": "33030685d4d4",
       "title": "癌症為何開始攻擊年輕人？英國研究：11種癌症發病率激增，「體重超標」是關鍵殺手| BBC News 中文 | 新聞 - 風傳媒",
       "published": "2026-04-30T07:10:26+00:00",
-      "summary": "癌症為何開始攻擊年輕人？英國研究：11種癌症發病率激增，「體重超標」是關鍵殺手| BBC News 中文 | 新聞&nbsp;&nbsp;風傳媒這11種癌症在年輕人中增加，科學家首次找到原因線索&nbsp;&nbsp;Yahoo新聞排除吸菸、肥胖因素！研究發現「除草劑」與50歲以下大腸癌發病率疑正相關&nbsp;&nbsp;倡議家年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」&nbsp;&nbsp;自由健康網為什麼50歲以下大腸癌變多了？最新研究：隱藏在環境裡的「毒素」是關鍵&nbsp;&nbsp;康健雜誌",
+      "summary": "癌症為何開始攻擊年輕人？英國研究：11種癌症發病率激增，「體重超標」是關鍵殺手| BBC News 中文 | 新聞&nbsp;&nbsp;風傳媒這11種癌症在年輕人中增加，科學家首次找到原因線索&nbsp;&nbsp;BBC年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」&nbsp;&nbsp;自由健康網排除吸菸、肥胖因素！研究發現「除草劑」與50歲以下大腸癌發病率疑正相關&nbsp;&nbsp;倡議家為什麼50歲以下大腸癌變多了？最新研究：隱藏在環境裡的「毒素」是關鍵&nbsp;&nbsp;康健雜誌",
       "sources": [
         {
           "name": "風傳媒",
@@ -16,14 +28,26 @@
       ]
     },
     {
-      "id": "7f591cb2bd73",
-      "title": "兒癌終極挑戰 質子是首選 - 《現代保險》雜誌",
-      "published": "2026-04-30T03:21:44+00:00",
-      "summary": "兒癌終極挑戰 質子是首選&nbsp;&nbsp;《現代保險》雜誌",
+      "id": "73cf687aa387",
+      "title": "科學家透過阻斷單一阿茲海默症蛋白來恢復記憶 - arch-web.com.tw",
+      "published": "2026-04-30T08:49:04+00:00",
+      "summary": "科學家透過阻斷單一阿茲海默症蛋白來恢復記憶&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "《現代保險》雜誌",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Obk40c1d3S2tYNW5LNlJhYnN5SUQ4cU1hVktKaUcwQUhNNGFMUUFIWVJDWHZNTTY2ZHRzSmlCNEQ5OGZhVWVKQ2liQTliNXRSVl80?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOVkJUSUNEOHVTcV83ZUdFekVRMm4yQTNGam9CTldWME9qVktfWXdFbVhiZThfMVVZTFpCNS01RC1sb1hKT2FxZXBud0pXamttTkhFbFYtNE1jMXpVYW5Td3ZIa3NreGFsc0R4VDhUTExDdFdvbXFjOUY4V0Rzd1E3eDZCN01NZkd6aVN0aTRVUmJQSnF2Ul9uTGNvX1d3Y3VFM3dRZlZfLVBTWTRBZ1h2bFRqblJaZ0MyUmxUSjlQMXlMQ09wUERsbWdBOTQ4Y3JsWmM5dHNWOXgzeHN5Vl9nUnRUbUhILXlRM3B6MWhqb3ZjQ25xcEltNkprVHB4Z2UwRnFwSTVxLWlkSE0weXhoVVZpd1MzLVNseWRrdnFrSzJBQ0x6cTNIR1FSTURndXNKUXNkaUV4OHFOc25qQ1JHazl2OGJPeTUyM1hteVFacUR1TDVobXNONGhDQllmRzJlR0hNWm44M3A5NVRtcW81VFVEc3NSbEFDTnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7127e5e29c50",
+      "title": "心臟健康靠吃出來！專家欽點15種「護心食物」降低心血管疾病和死亡風險 - Harper's BAZAAR",
+      "published": "2026-04-30T08:28:59+00:00",
+      "summary": "心臟健康靠吃出來！專家欽點15種「護心食物」降低心血管疾病和死亡風險&nbsp;&nbsp;Harper's BAZAAR",
+      "sources": [
+        {
+          "name": "Harper's BAZAAR",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3VjV05yNlJlVFJKbEthXzVldGN5S0tReHcxSXlwcGp3NVpmTE1MckdRbW5YbjJ3Y3RCeDM3ckc3X05HRlFDS1V6ZTZNc3NVZ3lpZ3lXYWNBSVd6d1NIV3dFSjFraGZPZGZXVzRuZ3RCa2dHcjF6MVVnZDZoUGplSFlobnZ4Tkh4bEppS1Fka0pZQk1wVE12Ng?oc=5"
         }
       ]
     },
@@ -40,6 +64,18 @@
       ]
     },
     {
+      "id": "eb7a0d1105a4",
+      "title": "【兒童腦癌】孩子無故嘔吐或早期腦瘤病徵 術後黃金4周：質子治療減長遠副作用 - 明報健康網",
+      "published": "2026-04-29T08:18:03+00:00",
+      "summary": "【兒童腦癌】孩子無故嘔吐或早期腦瘤病徵 術後黃金4周：質子治療減長遠副作用&nbsp;&nbsp;明報健康網",
+      "sources": [
+        {
+          "name": "明報健康網",
+          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQWlJLM1NMU2xQNkY1Ymg0R1dyWW16NElwZEpCeGhFT3dqV2M0WlB1NF9uSE14TW9NaGI0azh3eXE4U1F3VkYtdGZ5NlJLWGw5T3MtRGp6NVNyU054LURIQ1Vib0tBa1dFeGhhSU9IblZtMnl1WUI3bHhCMWhfaEtWUWQxbUVpTlNyRnN0aTRobUgtOHhaLXMyN2FfRjNtd293OVlnSUJvS3pWZzZUejUyUVk0a1RKMGlnTDNOR2FiVkJlSWljUEtPU0NvQ01UT05yQWpsOFRZWXFZcDFIVUFTTWxEa0NGcWpTdnh3U2tIOFB1eGVvTG9fdnlnQUNrcVphdmVCUEtMY2pjcG9xdWV0NHkzTEctR0VHVENOalNjYlFSamtRRkJIbHZacTNHMWRVdThNSUZ5dXFXY0xDMFdiUzlB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9f230afeef53",
       "title": "麻省理工學院的研究發現兒童更容易受到水中致癌化學物質的影響 - arch-web.com.tw",
       "published": "2026-04-29T10:41:32+00:00",
@@ -52,26 +88,26 @@
       ]
     },
     {
-      "id": "1064dc0b9f12",
-      "title": "眼整形術後乾眼、閉眼困難？醫說明多元重建對策 眼部結構修復是關鍵 - PChome Online 新聞",
-      "published": "2026-04-29T01:00:00+00:00",
-      "summary": "眼整形術後乾眼、閉眼困難？醫說明多元重建對策 眼部結構修復是關鍵&nbsp;&nbsp;PChome Online 新聞",
+      "id": "ea6424e131be",
+      "title": "眼整形術後乾眼、閉眼困難？醫說明多元重建對策 眼部結構修復是關鍵 - Yahoo新聞",
+      "published": "2026-04-29T01:14:53+00:00",
+      "summary": "眼整形術後乾眼、閉眼困難？醫說明多元重建對策 眼部結構修復是關鍵&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR3l0MU5rUVpHMnZtMHRHRERKOEFVMjhrTjl5WEZ1ZmJuZ0VoVTl4aTJCbU5FbnR3VUhVRXd3NFJtWnhDNWFDaXlmQ3VsM0xLRFlzcG1TNV9KSEdkODd3WFRSWkYyb0Y5RzN1VzYzdlpzdjlXUnl2LWh1Z19YX3pnenJaOHQ3cE52Q3ZhNk9WeFFuajA?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOZDhWRkFrSDEzZDE0SEQ4S3dmTFlua081dWw5cWRZZVFzaGFCNmdZWFNWcEJVbGZuU3ViUGxtejFGZWdJdFh5Ym1CeTlmSE44aXNfX3dfVi1XVDkwY0R3dFVBNW5nVlFoNGxfNktoM3AzUzBBRVhaMnlUM0dBY080empWdlNwNk1veGVLUVJ1TDRmdFpvUmQ2cmxqNG1VdUZQc0NqODlULVJXbW5qaE1zbXdCZnBsSTlyOWI2cWR1ak9Zc2YxSXZvRG1GaUpVNkprbUM3emFQbnB5amtCZzZKYktmYVZ2OWZpTVd6aGdVdVdqNkpGT09IZEdFME1oRmFCckRmNm05ZTJiM3NCMmluME5xaTA5Uksxb1pjOWpFOFp4cjhEMDI3QlhaWlJDY2tmQVJFQVBPbl9LU3N5cFV3UWxzcjRnQ3JoT2hSRldYdXJuUEdxRUd5QVdqNHVqeF8xQXQ1ai1IV21RZnNhaEpKUHN4QmsyYzl2RnFqR2ZTcUx2LWt4dkFqcXU0U3NTSjlwNHVqVUpmQUg4QjhPeUhIbmQzendsWjhLUWlKRENWdVpUbms?oc=5"
         }
       ]
     },
     {
-      "id": "6989ac1283c4",
-      "title": "結紮「能降低卵巢癌風險？」 婦產科醫這樣說 - 天天上新聞",
-      "published": "2026-04-29T06:59:51+00:00",
-      "summary": "結紮「能降低卵巢癌風險？」 婦產科醫這樣說&nbsp;&nbsp;天天上新聞前往 Google 新聞查看完整報導",
+      "id": "4a3c201d94a1",
+      "title": "結紮「能降低卵巢癌風險？」 婦產科醫這樣說 - 威傳媒新聞",
+      "published": "2026-04-29T08:02:00+00:00",
+      "summary": "結紮「能降低卵巢癌風險？」 婦產科醫這樣說&nbsp;&nbsp;威傳媒新聞前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "天天上新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yYzFITTYtWVRJdVI5RkRiRHVzUUgycUhFQ0pwYVFrMDc3YU1Ea05sRjZfem5HV3Vpb0p0djJVUnIxU0ZWRm1KRGc4ZlB4dw?oc=5"
+          "name": "威傳媒新聞",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rMHFpV1FGZ3dNOVdvenJEaG5WVlQycmtlbUdfUjVCdXVSaV9RYkVVaFNXQWRBVzQ4UUN5V3FIeXM0bFZGWC1BVTZn?oc=5"
         }
       ]
     },
@@ -91,7 +127,7 @@
       "id": "e56250081fb7",
       "title": "養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了 - TVBS 健康2.0",
       "published": "2026-04-29T04:48:01+00:00",
-      "summary": "養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了&nbsp;&nbsp;TVBS 健康2.0養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱每天1杯果汁慘了- 營養好食&nbsp;&nbsp;TVBS 健康2.0不菸不酒也罹癌？癌症不是壞掉，是訊號斷線…吃進去的每一口天然食材，都在叫癌細胞閉嘴&nbsp;&nbsp;幸福熟齡醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;東森新聞大腸癌｜空腹喝高糖飲品腐蝕腸黏膜 早餐改黑咖啡/水抗炎護腸道&nbsp;&nbsp;香港01",
+      "summary": "養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了&nbsp;&nbsp;TVBS 健康2.0養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱每天1杯果汁慘了- 營養好食&nbsp;&nbsp;TVBS 健康2.0不菸不酒也罹癌？癌症不是壞掉，是訊號斷線…吃進去的每一口天然食材，都在叫癌細胞閉嘴&nbsp;&nbsp;幸福熟齡醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;東森新聞討論牆 | 不是珍奶！這飲品「沒壞東西樣子」 喝10年癌細胞恐肆虐&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "TVBS 健康2.0",
@@ -124,6 +160,18 @@
       ]
     },
     {
+      "id": "4b5251c28d7e",
+      "title": "RSV病毒｜RSV病毒肆虐一周確診升3成 醫生拆解感染風險 2大高危人士易患重症 - 香港經濟日報HKET",
+      "published": "2026-04-30T10:22:24+00:00",
+      "summary": "RSV病毒｜RSV病毒肆虐一周確診升3成 醫生拆解感染風險 2大高危人士易患重症&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPNXN3NDVRcWN1TGQ2anZqTzdzUUVRM3duVkR1U3FHM2ZmcjFlR3RzR0l6SFBUYk1DVWFpM1FlcXJXVWwtNGhnTGlKd19NM01kcTMtNUFMLXNWOWRsWmtHT2hYTVV6bTlpcFZNcDl6OWVCd2xMX0dyMVQ5OXB1QkE1V1o5aURJdXNFN2hLemFBWVk5cHZxeXVmanIyaDQxa2x6RGttSHFPbHpQSFJENmFnQk5zRTd6NklXRUwzTk1GUHhyX3VjUHY4QVp5dmNPa0EwbkRFcmVOcTNMdmllVVRHbkZoVmJQN05BQk43UFcza3pOcG5JWHFXZjA1TTBla0xoeWxVX29COXN6UHU1bXliRWtpLU1hRjVWWFc2d2tobU5xbmJhdUVTT25fZDJtTEZkQlJjUHZrMFgzeFVuN3kxUmpKTjVRNFVHT1pyb2lMQWo5MlJLOHk3WU05NjN4NHVmb2MyMi0za3ZMQzk3SUtkbllTWE9LTlBMSmlscm04eExELWhMZExhSEFNZXQ1MTI4cHI1Y0U0R20tYjFnZ3RLZXJSYkJKZUFtQVM0MFVkQ1VfazZ4Q0JQTnlEWExWTFB6SHRnRVdEcmJ2Vl9RR0F5cUJGVlFjQnBhczFveFNYbnFMVTh4SHJPOVRBc0l1NVBob3c?oc=5"
+        }
+      ]
+    },
+    {
       "id": "51e77a81deab",
       "title": "明星近況｜前TVB御用印度人陳振華患鼻咽癌4期 抗癌年半容光煥發 北上嘆潮汕生醃勁滋味 - 香港經濟日報HKET",
       "published": "2026-04-30T06:09:02+00:00",
@@ -148,18 +196,6 @@
       ]
     },
     {
-      "id": "1bbbb006bbd0",
-      "title": "肥胖｜多個方法更清楚 美研究：身體圓球指數 或更精準反映內臟脂肪堆積 - am730",
-      "published": "2026-04-29T03:30:00+00:00",
-      "summary": "肥胖｜多個方法更清楚 美研究：身體圓球指數 或更精準反映內臟脂肪堆積&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91MDhwNmRkQ29fWlFpYnQzdEZvWlh2bmlXR1lfd2tOczJEc3A4UHFaN256YmxaSENsY2I3Wm5yWjZKNnJSU2pPZmdwdllhWXl0TkE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "06b577b99b20",
       "title": "澳洲研究：打哈欠時腦脊液隨靜脈同時排出 - Techritual Hong Kong",
       "published": "2026-04-29T12:06:02+00:00",
@@ -168,6 +204,18 @@
         {
           "name": "Techritual Hong Kong",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rZEdXTUZIdUFqQzR5UjlyanY3Y1FuNldDWUpjQ2ZTcUZReU1ZWExXYjZRQmdwdC11MGl0a3A1bnJBOVAtWG1KeWMyX0x5WHJSMWgxTVZRWVY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1bbbb006bbd0",
+      "title": "肥胖｜多個方法更清楚 美研究：身體圓球指數 或更精準反映內臟脂肪堆積 - am730",
+      "published": "2026-04-29T03:30:00+00:00",
+      "summary": "肥胖｜多個方法更清楚 美研究：身體圓球指數 或更精準反映內臟脂肪堆積&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91MDhwNmRkQ29fWlFpYnQzdEZvWlh2bmlXR1lfd2tOczJEc3A4UHFaN256YmxaSENsY2I3Wm5yWjZKNnJSU2pPZmdwdllhWXl0TkE?oc=5"
         }
       ]
     }
