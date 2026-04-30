@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-30T16:23:49.330588+00:00",
+  "generated": "2026-04-30T18:05:35.158351+00:00",
   "count": 9,
   "news": [
     {
@@ -564,48 +564,13 @@
       ]
     },
     {
-      "id": "e68e70a1565e",
-      "title": "「心包脂肪」增心血管疾病風險 三高患者更應注意",
-      "published": "2026-04-29T17:23:26+00:00",
+      "id": "69b270ad1e1e",
+      "title": "糖分攝取過量不止會肥！研究揭「體內焦糖化」恐加速衰老增失智、 癌症風險",
+      "published": "2026-04-29T23:00:59+00:00",
       "sources": [
         {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xd2dmZ09JcS12UUdVT0VheS05QXgxVXBZb0ZBSnM0a3NKdGZnYkRnaWlqVFE1S1U0eUhHclhfYmR0UXVuRTgtZzkzQnY3Sk93ZWtEbTJMRGdjNjdVY1Z6dU81cS02UmhxSjdfUzFzZlBiMmM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e56250081fb7",
-      "title": "養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了 - TVBS 健康2.0",
-      "published": "2026-04-29T04:48:01+00:00",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ0xZT0ItalV4YWFyNm5sOGVDS05FZ1hQcXVmUXFuWHJTUGFFUURsYTZUZk55ZFBvNURvQTBIOGIxQWJMa2U2M2FHemNHMldTSFE?oc=5"
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQLWN2TFV3aFRUVmRXUDFxSy03aHV2dkV4UjZ2ZGJFbUhiOXJDZFFXSUd6Y0ZOaU5ySlRnN1pJR1Flc3NZQW1kSVhPN0NBSk5wTEJfYUdpMzN3UlgwV2ZQSkw1RTRISEEtQThCOFNaWjAxenFpSkJObGlPTlNEWGN5aTJVaTZZaHk5WkFKNFRWV2FnemVtTXVIeU00dzBzT18xNG1IQkhQLXdtSUV1WTZHczJURWxNRWlDNTBSX2gzYkR1S2VGT29nX0FqQTl1Qno5aS1BS3RMdHNzZUVvRWJVc3FaSjFNTmhxOEd1eGpDSEo1VGQybWtXV2FqbEZqcm1mSXUtSlJhUVE4X1VjSTBSUkhESVRoNnoweHBEaDN1WGpOOWdleG9rREc5d01vNDZBRzB2SnVOX2xfeGE0VUFhcU94MkEwbmJSXzZkWDJoVXM3RXNhU0FuOGpsa29fc2RETEJLV0JYR25Fdi03Qnc?oc=5"
         }
       ],
       "keywords": [
@@ -1001,6 +966,17 @@
         },
         {
           "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
           "name": "colonic neoplasm",
           "keyword": "大腸癌",
           "related_drugs": [
@@ -1030,6 +1006,41 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2aeea6d702a6",
+      "title": "「心包脂肪」增心血管疾病風險 三高患者更應注意",
+      "published": "2026-04-29T17:23:26+00:00",
+      "sources": [
+        {
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BUXdTTERaLU9kbnRZWmMyS2ZfeXdqYjFIOV9HUFk3TFl0MmNybERGVWhpSUdsd0s3MDFla0M1WE9MSGFZaVJRZ0R1LUFpdHF6?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
             }
           ]
         }

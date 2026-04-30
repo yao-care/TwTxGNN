@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T16:23:49.297440+00:00",
+  "last_updated": "2026-04-30T18:05:35.125695+00:00",
   "total_count": 22,
   "matched_count": 9,
   "news": [
@@ -675,76 +675,14 @@
       "matched_keywords": []
     },
     {
-      "id": "e68e70a1565e",
-      "title": "「心包脂肪」增心血管疾病風險 三高患者更應注意",
-      "published": "2026-04-29T17:23:26+00:00",
-      "summary": "「心包脂肪」增心血管疾病風險 三高患者更應注意&nbsp;&nbsp;聯合新聞網",
+      "id": "69b270ad1e1e",
+      "title": "糖分攝取過量不止會肥！研究揭「體內焦糖化」恐加速衰老增失智、 癌症風險",
+      "published": "2026-04-29T23:00:59+00:00",
+      "summary": "糖分攝取過量不止會肥！研究揭「體內焦糖化」恐加速衰老增失智、 癌症風險&nbsp;&nbsp;巴士的報養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱每天1杯果汁慘了- 營養好食&nbsp;&nbsp;TVBS 健康2.0不菸不酒也罹癌？癌症不是壞掉，是訊號斷線…吃進去的每一口天然食材，都在叫癌細胞閉嘴&nbsp;&nbsp;幸福熟齡醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;東森新聞大腸癌｜空腹喝高糖飲品腐蝕腸黏膜 早餐改黑咖啡/水抗炎護腸道&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xd2dmZ09JcS12UUdVT0VheS05QXgxVXBZb0ZBSnM0a3NKdGZnYkRnaWlqVFE1S1U0eUhHclhfYmR0UXVuRTgtZzkzQnY3Sk93ZWtEbTJMRGdjNjdVY1Z6dU81cS02UmhxSjdfUzFzZlBiMmM?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "06b577b99b20",
-      "title": "澳洲研究：打哈欠時腦脊液隨靜脈同時排出 - Techritual Hong Kong",
-      "published": "2026-04-29T12:06:02+00:00",
-      "summary": "澳洲研究：打哈欠時腦脊液隨靜脈同時排出&nbsp;&nbsp;Techritual Hong Kong",
-      "sources": [
-        {
-          "name": "Techritual Hong Kong",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rZEdXTUZIdUFqQzR5UjlyanY3Y1FuNldDWUpjQ2ZTcUZReU1ZWExXYjZRQmdwdC11MGl0a3A1bnJBOVAtWG1KeWMyX0x5WHJSMWgxTVZRWVY?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9f230afeef53",
-      "title": "麻省理工學院的研究發現兒童更容易受到水中致癌化學物質的影響",
-      "published": "2026-04-29T10:41:32+00:00",
-      "summary": "麻省理工學院的研究發現兒童更容易受到水中致癌化學物質的影響&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPNlNYcTI3clpkdWIzOGdfbXhKTzBxS0VUTlI1QXJtZVRNbkU5T1RzT1lUaEpyMFpaVHg5cERKbEZpUE45V09GYkVyMzIzRktBbjRzTFNKWmZRTXFxaFpBU2txaHVkbkptem5QZzhCRThzU2J6YUZINk9MUVVZbUlMU0M3Ykg0bHdHQkV0c0RPNzhHRlh5TU5fLWQweVYtX2FNVndoWFVhWk5GLS1sWmNaY1Bfa2tlbWtac0RyV0tXd3c5aEZpZTdiZzlzY3UtenMxaTVCaVQ4c1J3bVRBbFRja3A4UTNDZl9pdnFiWHVzcnRpMExqbnd2amJ4Tjd5MWUxMlpVTmJab3RkZHAweUN6RXNqeXA1dGZxLUthcnRfRDFNVXlYdjhub3VvcWF0eEM4U2FHTGFpekJ2U016bVZXQmY5bjRWTGUwb0cwX01kd1lzR0VZLXJ0enVCSzcwRlJ5UmhsUE90UVduaEF0MVV0UFZJbUZrSmJydDlpSkRUaWxmNHB1Y3c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e56250081fb7",
-      "title": "養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了 - TVBS 健康2.0",
-      "published": "2026-04-29T04:48:01+00:00",
-      "summary": "養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了&nbsp;&nbsp;TVBS 健康2.0養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱每天1杯果汁慘了- 營養好食&nbsp;&nbsp;TVBS 健康2.0不菸不酒也罹癌？癌症不是壞掉，是訊號斷線…吃進去的每一口天然食材，都在叫癌細胞閉嘴&nbsp;&nbsp;幸福熟齡醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;東森新聞大腸癌｜空腹喝高糖飲品腐蝕腸黏膜 早餐改黑咖啡/水抗炎護腸道&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ0xZT0ItalV4YWFyNm5sOGVDS05FZ1hQcXVmUXFuWHJTUGFFUURsYTZUZk55ZFBvNURvQTBIOGIxQWJMa2U2M2FHemNHMldTSFE?oc=5"
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQLWN2TFV3aFRUVmRXUDFxSy03aHV2dkV4UjZ2ZGJFbUhiOXJDZFFXSUd6Y0ZOaU5ySlRnN1pJR1Flc3NZQW1kSVhPN0NBSk5wTEJfYUdpMzN3UlgwV2ZQSkw1RTRISEEtQThCOFNaWjAxenFpSkJObGlPTlNEWGN5aTJVaTZZaHk5WkFKNFRWV2FnemVtTXVIeU00dzBzT18xNG1IQkhQLXdtSUV1WTZHczJURWxNRWlDNTBSX2gzYkR1S2VGT29nX0FqQTl1Qno5aS1BS3RMdHNzZUVvRWJVc3FaSjFNTmhxOEd1eGpDSEo1VGQybWtXV2FqbEZqcm1mSXUtSlJhUVE4X1VjSTBSUkhESVRoNnoweHBEaDN1WGpOOWdleG9rREc5d01vNDZBRzB2SnVOX2xfeGE0VUFhcU94MkEwbmJSXzZkWDJoVXM3RXNhU0FuOGpsa29fc2RETEJLV0JYR25Fdi03Qnc?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1140,6 +1078,17 @@
         },
         {
           "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
           "name": "colonic neoplasm",
           "keyword": "大腸癌",
           "related_drugs": [
@@ -1173,6 +1122,68 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2aeea6d702a6",
+      "title": "「心包脂肪」增心血管疾病風險 三高患者更應注意",
+      "published": "2026-04-29T17:23:26+00:00",
+      "summary": "「心包脂肪」增心血管疾病風險 三高患者更應注意&nbsp;&nbsp;聯合新聞網",
+      "sources": [
+        {
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BUXdTTERaLU9kbnRZWmMyS2ZfeXdqYjFIOV9HUFk3TFl0MmNybERGVWhpSUdsd0s3MDFla0M1WE9MSGFZaVJRZ0R1LUFpdHF6?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06b577b99b20",
+      "title": "澳洲研究：打哈欠時腦脊液隨靜脈同時排出 - Techritual Hong Kong",
+      "published": "2026-04-29T12:06:02+00:00",
+      "summary": "澳洲研究：打哈欠時腦脊液隨靜脈同時排出&nbsp;&nbsp;Techritual Hong Kong",
+      "sources": [
+        {
+          "name": "Techritual Hong Kong",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rZEdXTUZIdUFqQzR5UjlyanY3Y1FuNldDWUpjQ2ZTcUZReU1ZWExXYjZRQmdwdC11MGl0a3A1bnJBOVAtWG1KeWMyX0x5WHJSMWgxTVZRWVY?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9f230afeef53",
+      "title": "麻省理工學院的研究發現兒童更容易受到水中致癌化學物質的影響",
+      "published": "2026-04-29T10:41:32+00:00",
+      "summary": "麻省理工學院的研究發現兒童更容易受到水中致癌化學物質的影響&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPNlNYcTI3clpkdWIzOGdfbXhKTzBxS0VUTlI1QXJtZVRNbkU5T1RzT1lUaEpyMFpaVHg5cERKbEZpUE45V09GYkVyMzIzRktBbjRzTFNKWmZRTXFxaFpBU2txaHVkbkptem5QZzhCRThzU2J6YUZINk9MUVVZbUlMU0M3Ykg0bHdHQkV0c0RPNzhHRlh5TU5fLWQweVYtX2FNVndoWFVhWk5GLS1sWmNaY1Bfa2tlbWtac0RyV0tXd3c5aEZpZTdiZzlzY3UtenMxaTVCaVQ4c1J3bVRBbFRja3A4UTNDZl9pdnFiWHVzcnRpMExqbnd2amJ4Tjd5MWUxMlpVTmJab3RkZHAweUN6RXNqeXA1dGZxLUthcnRfRDFNVXlYdjhub3VvcWF0eEM4U2FHTGFpekJ2U016bVZXQmY5bjRWTGUwb0cwX01kd1lzR0VZLXJ0enVCSzcwRlJ5UmhsUE90UVduaEF0MVV0UFZJbUZrSmJydDlpSkRUaWxmNHB1Y3c?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "6d0c55604b55",

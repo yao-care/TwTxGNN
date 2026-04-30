@@ -39,11 +39,11 @@ permalink: /news/cardiovascular/
 
 ---
 
-### [「心包脂肪」增心血管疾病風險 三高患者更應注意](https://news.google.com/rss/articles/CBMic0FVX3lxTE1xd2dmZ09JcS12UUdVT0VheS05QXgxVXBZb0ZBSnM0a3NKdGZnYkRnaWlqVFE1S1U0eUhHclhfYmR0UXVuRTgtZzkzQnY3Sk93ZWtEbTJMRGdjNjdVY1Z6dU81cS02UmhxSjdfUzFzZlBiMmM?oc=5)
+### [「心包脂肪」增心血管疾病風險 三高患者更應注意](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BUXdTTERaLU9kbnRZWmMyS2ZfeXdqYjFIOV9HUFk3TFl0MmNybERGVWhpSUdsd0s3MDFla0M1WE9MSGFZaVJRZ0R1LUFpdHF6?oc=5)
 
 2026-04-29
 
-來源：[聯合新聞網](https://news.google.com/rss/articles/CBMic0FVX3lxTE1xd2dmZ09JcS12UUdVT0VheS05QXgxVXBZb0ZBSnM0a3NKdGZnYkRnaWlqVFE1S1U0eUhHclhfYmR0UXVuRTgtZzkzQnY3Sk93ZWtEbTJMRGdjNjdVY1Z6dU81cS02UmhxSjdfUzFzZlBiMmM?oc=5)
+來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BUXdTTERaLU9kbnRZWmMyS2ZfeXdqYjFIOV9HUFk3TFl0MmNybERGVWhpSUdsd0s3MDFla0M1WE9MSGFZaVJRZ0R1LUFpdHF6?oc=5)
 
 ---
 

@@ -60,11 +60,11 @@ permalink: /news/gemcitabine/
 
 ---
 
-### [養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ0xZT0ItalV4YWFyNm5sOGVDS05FZ1hQcXVmUXFuWHJTUGFFUURsYTZUZk55ZFBvNURvQTBIOGIxQWJMa2U2M2FHemNHMldTSFE?oc=5)
+### [糖分攝取過量不止會肥！研究揭「體內焦糖化」恐加速衰老增失智、 癌症風險](https://news.google.com/rss/articles/CBMi7gJBVV95cUxQLWN2TFV3aFRUVmRXUDFxSy03aHV2dkV4UjZ2ZGJFbUhiOXJDZFFXSUd6Y0ZOaU5ySlRnN1pJR1Flc3NZQW1kSVhPN0NBSk5wTEJfYUdpMzN3UlgwV2ZQSkw1RTRISEEtQThCOFNaWjAxenFpSkJObGlPTlNEWGN5aTJVaTZZaHk5WkFKNFRWV2FnemVtTXVIeU00dzBzT18xNG1IQkhQLXdtSUV1WTZHczJURWxNRWlDNTBSX2gzYkR1S2VGT29nX0FqQTl1Qno5aS1BS3RMdHNzZUVvRWJVc3FaSjFNTmhxOEd1eGpDSEo1VGQybWtXV2FqbEZqcm1mSXUtSlJhUVE4X1VjSTBSUkhESVRoNnoweHBEaDN1WGpOOWdleG9rREc5d01vNDZBRzB2SnVOX2xfeGE0VUFhcU94MkEwbmJSXzZkWDJoVXM3RXNhU0FuOGpsa29fc2RETEJLV0JYR25Fdi03Qnc?oc=5)
 
-2026-04-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-04-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ0xZT0ItalV4YWFyNm5sOGVDS05FZ1hQcXVmUXFuWHJTUGFFUURsYTZUZk55ZFBvNURvQTBIOGIxQWJMa2U2M2FHemNHMldTSFE?oc=5)
+來源：[巴士的報](https://news.google.com/rss/articles/CBMi7gJBVV95cUxQLWN2TFV3aFRUVmRXUDFxSy03aHV2dkV4UjZ2ZGJFbUhiOXJDZFFXSUd6Y0ZOaU5ySlRnN1pJR1Flc3NZQW1kSVhPN0NBSk5wTEJfYUdpMzN3UlgwV2ZQSkw1RTRISEEtQThCOFNaWjAxenFpSkJObGlPTlNEWGN5aTJVaTZZaHk5WkFKNFRWV2FnemVtTXVIeU00dzBzT18xNG1IQkhQLXdtSUV1WTZHczJURWxNRWlDNTBSX2gzYkR1S2VGT29nX0FqQTl1Qno5aS1BS3RMdHNzZUVvRWJVc3FaSjFNTmhxOEd1eGpDSEo1VGQybWtXV2FqbEZqcm1mSXUtSlJhUVE4X1VjSTBSUkhESVRoNnoweHBEaDN1WGpOOWdleG9rREc5d01vNDZBRzB2SnVOX2xfeGE0VUFhcU94MkEwbmJSXzZkWDJoVXM3RXNhU0FuOGpsa29fc2RETEJLV0JYR25Fdi03Qnc?oc=5)
 
 ---
 
