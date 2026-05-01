@@ -14,7 +14,7 @@ permalink: /news/vinorelbine/
 ---
 
 <p class="key-answer" data-question="Vinorelbine 有什麼相關新聞？">
-<strong>Vinorelbine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vinorelbine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/vinorelbine/
 <p><a href="{{ '/drugs/vinorelbine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [經歷癌症腦瘤雙重打擊 64歲港婦重拾人生主導權 「心境係良藥！」](https://news.google.com/rss/articles/CBMijANBVV95cUxOQWMwd1NsX0xNNXVBRWVQM044eVZQMlliU2dVTENvRXo4QXJ5a2d0NFNSMnp5d2tGM3R6RXlteUdtZ3lHcm8xT3JJU3ktUlBDM0VmQ2FjTHZEYzFtQXFFaTBjenJ6ZkJIVTZGWmxZX01kb0g0MUFPVWtwWTBFM2JiNmFTV3NwSTVmTnZFWDdWSDBGcW1pMmYxS214N0U0Ym9qbGlBZVh0QXhpV3lBbzd6Q3V3X1NCWXUtR3FMMmpwa1NkNUNOMWpaM0c1cU5KZWFwaTIwU0dLenJObjNBaW1YTzlEVHVPVUM4WVJSeDRPWF8zU25aV2hOUDNlR1pvSVE2Q2thVi12NnFsMHBpZWVpVmtjaWRLXzVOWnYtbFVaM0huTUNCMktxakx1R29ESzktck1BcGFDTEltU1FIeWV1MkZCR1dYbzBZXzItODVjOE5lMTRvaGpUMEd2b0hBdUFHVTY2aVpFWjRaR2N5cmdfQ2g3Ykhld205QXpOWHp4UmdqVHk4Z3RKTHpVNDI?oc=5)
 
@@ -73,14 +73,6 @@ permalink: /news/vinorelbine/
 2026-04-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[巴士的報](https://news.google.com/rss/articles/CBMi7gJBVV95cUxQLWN2TFV3aFRUVmRXUDFxSy03aHV2dkV4UjZ2ZGJFbUhiOXJDZFFXSUd6Y0ZOaU5ySlRnN1pJR1Flc3NZQW1kSVhPN0NBSk5wTEJfYUdpMzN3UlgwV2ZQSkw1RTRISEEtQThCOFNaWjAxenFpSkJObGlPTlNEWGN5aTJVaTZZaHk5WkFKNFRWV2FnemVtTXVIeU00dzBzT18xNG1IQkhQLXdtSUV1WTZHczJURWxNRWlDNTBSX2gzYkR1S2VGT29nX0FqQTl1Qno5aS1BS3RMdHNzZUVvRWJVc3FaSjFNTmhxOEd1eGpDSEo1VGQybWtXV2FqbEZqcm1mSXUtSlJhUVE4X1VjSTBSUkhESVRoNnoweHBEaDN1WGpOOWdleG9rREc5d01vNDZBRzB2SnVOX2xfeGE0VUFhcU94MkEwbmJSXzZkWDJoVXM3RXNhU0FuOGpsa29fc2RETEJLV0JYR25Fdi03Qnc?oc=5)
-
----
-
-### [男性罹癌新線索！HPV疫苗實測結果曝光：相關癌症風險大降46％ | 自由電子報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KYU1qUUpFZmRnX1ZBOFhLX2YtZnZYMG1HS3lINXYzNTVwcXJEZ21uMGgxZ0NBS2c0U2N6QjdKU2xjLXNSaEFMdndBOXV4ZDNaZ1VmOWhR?oc=5)
-
-2026-04-29 <span class="news-indication-tag">癌症</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KYU1qUUpFZmRnX1ZBOFhLX2YtZnZYMG1HS3lINXYzNTVwcXJEZ21uMGgxZ0NBS2c0U2N6QjdKU2xjLXNSaEFMdndBOXV4ZDNaZ1VmOWhR?oc=5)
 
 ---
 

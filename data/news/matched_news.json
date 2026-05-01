@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-05-01T06:07:39.075963+00:00",
-  "total_count": 24,
-  "matched_count": 13,
+  "last_updated": "2026-05-01T08:54:12.682556+00:00",
+  "total_count": 22,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "b7acc938dfbc",
+      "title": "研究顯示早期人類主動避開瘧疾高風險區 改變遷徙路徑及演化格局 - Techritual Hong Kong",
+      "published": "2026-05-01T07:03:46+00:00",
+      "summary": "研究顯示早期人類主動避開瘧疾高風險區 改變遷徙路徑及演化格局&nbsp;&nbsp;Techritual Hong Kong",
+      "sources": [
+        {
+          "name": "Techritual Hong Kong",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NLUVmWEtHTDBERlVyQlNZYUZxOWZJRk0zUk1SZzJPeVNIOUZkQV9rTTQ1T0pydzBmbDY2Nl9EVzB2Sm9kcVlMX3R6cy0yVlpoNFVnYUQ0Y24?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "aa4e5f203cb1",
       "title": "經歷癌症腦瘤雙重打擊 64歲港婦重拾人生主導權 「心境係良藥！」",
@@ -226,46 +239,10 @@
       "matched_keywords": []
     },
     {
-      "id": "c11bd198cf70",
-      "title": "牙痛竟是皮蛇前兆？32歲工程師熬夜3天誘發帶狀皰疹，醫警告：長在頭部恐失明失聰- 書房",
-      "published": "2026-04-30T22:51:00+00:00",
-      "summary": "牙痛竟是皮蛇前兆？32歲工程師熬夜3天誘發帶狀皰疹，醫警告：長在頭部恐失明失聰- 書房&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YZnhlNGJSNlRJay1wWWtPYUZwUEo0SzZQQ2ZmbkUxMU5NczJzSVhKTjJlVnJrc3N0UGRPSlZvT2YyUklUaXNKc2RzSFNmWW5NWGdZNHE5Z0FKQUkxTlJv?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "帶狀皰疹",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "皮蛇",
-          "keyword": "皮蛇",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "a7413a4b61ed",
       "title": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵",
       "published": "2026-04-30T18:02:08+00:00",
-      "summary": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵&nbsp;&nbsp;ENN台灣電報",
+      "summary": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵&nbsp;&nbsp;ENN台灣電報糙米藜麥比一比：專家揭示腸道健康關鍵，高纖蛋白有助維護腸道平衡&nbsp;&nbsp;yesmedia.com.tw",
       "sources": [
         {
           "name": "ENN台灣電報",
@@ -398,31 +375,6 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0aa043b7fc2d",
-      "title": "不必走萬步！哈佛揭護腦黃金步數：每天達標『這數字』，不僅防失智還更長壽 - Women's Health",
-      "published": "2026-04-30T09:32:37+00:00",
-      "summary": "不必走萬步！哈佛揭護腦黃金步數：每天達標『這數字』，不僅防失智還更長壽&nbsp;&nbsp;Women's Health",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZmJUU0hrbTF5Y2hfOExMcFZvSXNOVVl6XzNMTmNOVWg0LWZoTmFlM245MDJhNWhUdVZrSC1ENGlSb1pyanpfY1hrbVFTdnY4aVJFdlZuUktmX1hsLWpSbmhBMGEzdkdld3VxSkFhMmVLd05LUElCVEJtYlNfXzJFUnVvQUh3a0RlbndSREE5OVktMFk?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
@@ -1009,7 +961,7 @@
       "id": "69b270ad1e1e",
       "title": "糖分攝取過量不止會肥！研究揭「體內焦糖化」恐加速衰老增失智、 癌症風險",
       "published": "2026-04-29T23:00:59+00:00",
-      "summary": "糖分攝取過量不止會肥！研究揭「體內焦糖化」恐加速衰老增失智、 癌症風險&nbsp;&nbsp;巴士的報養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了&nbsp;&nbsp;TVBS 健康2.0不菸不酒也罹癌？癌症不是壞掉，是訊號斷線…吃進去的每一口天然食材，都在叫癌細胞閉嘴&nbsp;&nbsp;幸福熟齡醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;東森新聞大腸癌｜空腹喝高糖飲品腐蝕腸黏膜 早餐改黑咖啡/水抗炎護腸道&nbsp;&nbsp;香港01",
+      "summary": "糖分攝取過量不止會肥！研究揭「體內焦糖化」恐加速衰老增失智、 癌症風險&nbsp;&nbsp;巴士的報養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱每天1杯果汁慘了- 營養好食&nbsp;&nbsp;TVBS 健康2.0醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;東森新聞大腸癌｜空腹喝高糖飲品腐蝕腸黏膜 早餐改黑咖啡/水抗炎護腸道&nbsp;&nbsp;香港01養生變攞命！40歲女日日飲1款「健康飲品」竟罹癌！醫生踢爆3大致癌陷阱&nbsp;&nbsp;新假期",
       "sources": [
         {
           "name": "巴士的報",
@@ -1515,215 +1467,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "0df012dfed7e",
-      "title": "男性罹癌新線索！HPV疫苗實測結果曝光：相關癌症風險大降46％ | 自由電子報 - LINE TODAY",
-      "published": "2026-04-29T06:02:48+00:00",
-      "summary": "男性罹癌新線索！HPV疫苗實測結果曝光：相關癌症風險大降46％ | 自由電子報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KYU1qUUpFZmRnX1ZBOFhLX2YtZnZYMG1HS3lINXYzNTVwcXJEZ21uMGgxZ0NBS2c0U2N6QjdKU2xjLXNSaEFMdndBOXV4ZDNaZ1VmOWhR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

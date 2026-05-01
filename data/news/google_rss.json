@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-01T06:07:35.425700+00:00",
-  "count": 24,
+  "fetched_at": "2026-05-01T08:54:09.336495+00:00",
+  "count": 22,
   "news": [
-    {
-      "id": "c11bd198cf70",
-      "title": "牙痛竟是皮蛇前兆？32歲工程師熬夜3天誘發帶狀皰疹，醫警告：長在頭部恐失明失聰- 書房 - 工商時報",
-      "published": "2026-04-30T22:51:00+00:00",
-      "summary": "牙痛竟是皮蛇前兆？32歲工程師熬夜3天誘發帶狀皰疹，醫警告：長在頭部恐失明失聰- 書房&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YZnhlNGJSNlRJay1wWWtPYUZwUEo0SzZQQ2ZmbkUxMU5NczJzSVhKTjJlVnJrc3N0UGRPSlZvT2YyUklUaXNKc2RzSFNmWW5NWGdZNHE5Z0FKQUkxTlJv?oc=5"
-        }
-      ]
-    },
     {
       "id": "8d5d50c049cd",
       "title": "日本長壽秘密曝研究揭1神秘荷爾蒙：抑癌還防糖尿病- 健康 - 中時新聞網",
@@ -24,6 +12,18 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU2JqQldqZHBJbVR0T2drbDJQSm9GMmF6aGFYdGlWQ293U1VacWU3bG5nMHJMSk5fc2thaU12TXRDaUhxeGtiSi1oTV9RRFdxTnQ5NUlnRm5oa1c0Z0RCdGNURHppbEhWQzRnT3Z3MHV5N1E2Nl9vNnkzeGNfOEJkRGtjTVRNTXhFV09UTnNuZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a7413a4b61ed",
+      "title": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵 - ENN台灣電報",
+      "published": "2026-04-30T18:02:08+00:00",
+      "summary": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵&nbsp;&nbsp;ENN台灣電報糙米藜麥比一比：專家揭示腸道健康關鍵，高纖蛋白有助維護腸道平衡&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1UOVZsR19PS2pWcDA5QkpxUVlaU01zNFh3bWUzQ2NDR2xuVlp4NDI2ZjNUZnQ4QWZDMkE?oc=5"
         }
       ]
     },
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "d8dc29adf57d",
-      "title": "聖地牙哥基孔肯雅熱病例增加：一週新增16例 - arch-web.com.tw",
-      "published": "2026-04-30T15:28:33+00:00",
-      "summary": "聖地牙哥基孔肯雅熱病例增加：一週新增16例&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPZ0VlS2ZCbEI3cXFPTVNpQ0dwWHZoSVViSHJzZHM0em1rZC1MS2lNY0FBOGotR1dWVS0wQ2NvalZmcUgyQmVBczMxMEdkQk9ybHhTaHdDdXhvQjRJTmVIU2hsS3lGZ3VrMlkyVU16bHNIbTdvbVJwUWd1THlfZHFGOWJBWVlrX2psV2RSQmZNMy1QczFyN1FRU00wdlpvd0JuN3JMZTVTTVBXNjh6QlhXdTRURG12c01WaE5tQWp0dm1ZVlFZTHYxMkgyeGMxR1h3ckZ1dHVYX2MxTWNscjRlMWp0enFHb1lnb1hHTEhtYWFCMHlZbkt6WTVwU1hhdzk4U0RxeHJFRDluQlBkUHlCRTAxZGdMdi16V0U1UjM5aGtOSHRPSVl0b2F2THFNRXlOR1lYRG1SdUk2YnNPeDdfS0RCREpYdTZCazVDTWxEbXljQmw1N3dDS2ZmSk82X3pFOTRzZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4dbcf85edd91",
       "title": "健康網》當兵共用毛巾染菜花 醫揭職災：長在鼻孔 - 自由健康網",
       "published": "2026-04-30T11:49:00+00:00",
@@ -64,6 +52,18 @@
       ]
     },
     {
+      "id": "d8dc29adf57d",
+      "title": "聖地牙哥基孔肯雅熱病例增加：一週新增16例 - arch-web.com.tw",
+      "published": "2026-04-30T15:28:33+00:00",
+      "summary": "聖地牙哥基孔肯雅熱病例增加：一週新增16例&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPZ0VlS2ZCbEI3cXFPTVNpQ0dwWHZoSVViSHJzZHM0em1rZC1MS2lNY0FBOGotR1dWVS0wQ2NvalZmcUgyQmVBczMxMEdkQk9ybHhTaHdDdXhvQjRJTmVIU2hsS3lGZ3VrMlkyVU16bHNIbTdvbVJwUWd1THlfZHFGOWJBWVlrX2psV2RSQmZNMy1QczFyN1FRU00wdlpvd0JuN3JMZTVTTVBXNjh6QlhXdTRURG12c01WaE5tQWp0dm1ZVlFZTHYxMkgyeGMxR1h3ckZ1dHVYX2MxTWNscjRlMWp0enFHb1lnb1hHTEhtYWFCMHlZbkt6WTVwU1hhdzk4U0RxeHJFRDluQlBkUHlCRTAxZGdMdi16V0U1UjM5aGtOSHRPSVl0b2F2THFNRXlOR1lYRG1SdUk2YnNPeDdfS0RCREpYdTZCazVDTWxEbXljQmw1N3dDS2ZmSk82X3pFOTRzZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f6547d2a44a6",
       "title": "宣萱的無創美學： OLAY黑管精華及小白瓶，在家養出無瑕底氣 - PopLady",
       "published": "2026-04-30T13:35:58+00:00",
@@ -72,18 +72,6 @@
         {
           "name": "PopLady",
           "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUHI5LVV6Y004elV1T2JuMW95dW44OXk0Yjl5U2VSbmdRdVJHdEhWQjBybHNQbTNSSXE3MGRiNEd2TXBFcVF4dVpHWEhyNFFfN3pvd0dvWFJkeGU5VG8yQXYxT0ZpTWRXZjdhNzczbGFLbGJ5ZE9qZDhDZnF0TjJnbDIzUk9PMllaVERuNXVOZ1pROHpvd0Myd1NGWmpEbFdzX1Ryb3pUajBkcnZfWTRSRU5na2FyU2R1c2Z0eXhVY2FWcl9UWVh3Ty1qRm9hMFRhVzFxSG1mMFl0YjlPd2IzMGIzdmNDRWtTaDlaNFFWQ2k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0df012dfed7e",
-      "title": "男性罹癌新線索！HPV疫苗實測結果曝光：相關癌症風險大降46％ | 自由電子報 - LINE TODAY",
-      "published": "2026-04-29T06:02:48+00:00",
-      "summary": "男性罹癌新線索！HPV疫苗實測結果曝光：相關癌症風險大降46％ | 自由電子報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KYU1qUUpFZmRnX1ZBOFhLX2YtZnZYMG1HS3lINXYzNTVwcXJEZ21uMGgxZ0NBS2c0U2N6QjdKU2xjLXNSaEFMdndBOXV4ZDNaZ1VmOWhR?oc=5"
         }
       ]
     },
@@ -132,18 +120,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPOHlKRWJzS1VOMEM0MVVtY05nZjhIaGx3Wkh1MEhfWG9NZDczb0dJTnlCTE1fUnZOa3dmbFd3cDRjTHBpWjJtUlFFMVZKVWR0YUdBZGc2bFZDc0RnZnNFR3NJaGlGWms1czluaTZMblJveV94RVhqbFZlY2RWd2tmU2pERFNlMXJNRFdLeVZCXzkwWGtNRzJQQmllbEs2SXdhQWFaME1XVFRXYXFmVWF5TDNqTUlHMVVuQm82RXE0SDdZdUpMRkJ4SXlwU3FOb3M4eUlvRW5UWFo3UkJiRmNMSmdDMVJXMG9qM05BV09HTUlvOURIenJUYldkdTM5UUI1aHF5OGZyVWhMUkU5QkpHZ1gzdkVUSld0eTVkdVRscVMyRmZMQ3RPaXVuTGFqM3FZbVlLcEx1bGNTQ3VDX0U0NndHOU9Nel8zOTY5NURvU1N5N09jRWh3djVxYVNTVE0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a7413a4b61ed",
-      "title": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵 - ENN台灣電報",
-      "published": "2026-04-30T18:02:08+00:00",
-      "summary": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1UOVZsR19PS2pWcDA5QkpxUVlaU01zNFh3bWUzQ2NDR2xuVlp4NDI2ZjNUZnQ4QWZDMkE?oc=5"
         }
       ]
     },
@@ -199,7 +175,7 @@
       "id": "69b270ad1e1e",
       "title": "糖分攝取過量不止會肥！研究揭「體內焦糖化」恐加速衰老增失智、 癌症風險 - 巴士的報",
       "published": "2026-04-29T23:00:59+00:00",
-      "summary": "糖分攝取過量不止會肥！研究揭「體內焦糖化」恐加速衰老增失智、 癌症風險&nbsp;&nbsp;巴士的報養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了&nbsp;&nbsp;TVBS 健康2.0不菸不酒也罹癌？癌症不是壞掉，是訊號斷線…吃進去的每一口天然食材，都在叫癌細胞閉嘴&nbsp;&nbsp;幸福熟齡醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;東森新聞大腸癌｜空腹喝高糖飲品腐蝕腸黏膜 早餐改黑咖啡/水抗炎護腸道&nbsp;&nbsp;香港01",
+      "summary": "糖分攝取過量不止會肥！研究揭「體內焦糖化」恐加速衰老增失智、 癌症風險&nbsp;&nbsp;巴士的報養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱每天1杯果汁慘了- 營養好食&nbsp;&nbsp;TVBS 健康2.0醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;東森新聞大腸癌｜空腹喝高糖飲品腐蝕腸黏膜 早餐改黑咖啡/水抗炎護腸道&nbsp;&nbsp;香港01養生變攞命！40歲女日日飲1款「健康飲品」竟罹癌！醫生踢爆3大致癌陷阱&nbsp;&nbsp;新假期",
       "sources": [
         {
           "name": "巴士的報",
@@ -232,14 +208,14 @@
       ]
     },
     {
-      "id": "0aa043b7fc2d",
-      "title": "不必走萬步！哈佛揭護腦黃金步數：每天達標『這數字』，不僅防失智還更長壽 - Women's Health",
-      "published": "2026-04-30T09:32:37+00:00",
-      "summary": "不必走萬步！哈佛揭護腦黃金步數：每天達標『這數字』，不僅防失智還更長壽&nbsp;&nbsp;Women's Health",
+      "id": "b7acc938dfbc",
+      "title": "研究顯示早期人類主動避開瘧疾高風險區 改變遷徙路徑及演化格局 - Techritual Hong Kong",
+      "published": "2026-05-01T07:03:46+00:00",
+      "summary": "研究顯示早期人類主動避開瘧疾高風險區 改變遷徙路徑及演化格局&nbsp;&nbsp;Techritual Hong Kong",
       "sources": [
         {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZmJUU0hrbTF5Y2hfOExMcFZvSXNOVVl6XzNMTmNOVWg0LWZoTmFlM245MDJhNWhUdVZrSC1ENGlSb1pyanpfY1hrbVFTdnY4aVJFdlZuUktmX1hsLWpSbmhBMGEzdkdld3VxSkFhMmVLd05LUElCVEJtYlNfXzJFUnVvQUh3a0RlbndSREE5OVktMFk?oc=5"
+          "name": "Techritual Hong Kong",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NLUVmWEtHTDBERlVyQlNZYUZxOWZJRk0zUk1SZzJPeVNIOUZkQV9rTTQ1T0pydzBmbDY2Nl9EVzB2Sm9kcVlMX3R6cy0yVlpoNFVnYUQ0Y24?oc=5"
         }
       ]
     },
