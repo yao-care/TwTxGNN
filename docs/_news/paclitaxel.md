@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/paclitaxel/
 <li><strong>原適應症</strong>：卵巢癌、乳癌、非小細胞肺癌、胃癌、食道癌、頭頸癌、膀胱癌、子宮頸癌</li>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（100.0%）</li>
 <li>estrogen-receptor negative breast cancer（99.9%）</li>
 <li>hormone-resistant breast carcinoma（99.9%）</li>
 <li>estrogen-receptor positive breast cancer（99.9%）</li>
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [經歷癌症腦瘤雙重打擊 64歲港婦重拾人生主導權 「心境係良藥！」](https://news.google.com/rss/articles/CBMijANBVV95cUxOQWMwd1NsX0xNNXVBRWVQM044eVZQMlliU2dVTENvRXo4QXJ5a2d0NFNSMnp5d2tGM3R6RXlteUdtZ3lHcm8xT3JJU3ktUlBDM0VmQ2FjTHZEYzFtQXFFaTBjenJ6ZkJIVTZGWmxZX01kb0g0MUFPVWtwWTBFM2JiNmFTV3NwSTVmTnZFWDdWSDBGcW1pMmYxS214N0U0Ym9qbGlBZVh0QXhpV3lBbzd6Q3V3X1NCWXUtR3FMMmpwa1NkNUNOMWpaM0c1cU5KZWFwaTIwU0dLenJObjNBaW1YTzlEVHVPVUM4WVJSeDRPWF8zU25aV2hOUDNlR1pvSVE2Q2thVi12NnFsMHBpZWVpVmtjaWRLXzVOWnYtbFVaM0huTUNCMktxakx1R29ESzktck1BcGFDTEltU1FIeWV1MkZCR1dYbzBZXzItODVjOE5lMTRvaGpUMEd2b0hBdUFHVTY2aVpFWjRaR2N5cmdfQ2g3Ykhld205QXpOWHp4UmdqVHk4Z3RKTHpVNDI?oc=5)
+
+2026-05-01 <span class="news-indication-tag">癌症</span>
+
+來源：[星島頭條](https://news.google.com/rss/articles/CBMijANBVV95cUxOQWMwd1NsX0xNNXVBRWVQM044eVZQMlliU2dVTENvRXo4QXJ5a2d0NFNSMnp5d2tGM3R6RXlteUdtZ3lHcm8xT3JJU3ktUlBDM0VmQ2FjTHZEYzFtQXFFaTBjenJ6ZkJIVTZGWmxZX01kb0g0MUFPVWtwWTBFM2JiNmFTV3NwSTVmTnZFWDdWSDBGcW1pMmYxS214N0U0Ym9qbGlBZVh0QXhpV3lBbzd6Q3V3X1NCWXUtR3FMMmpwa1NkNUNOMWpaM0c1cU5KZWFwaTIwU0dLenJObjNBaW1YTzlEVHVPVUM4WVJSeDRPWF8zU25aV2hOUDNlR1pvSVE2Q2thVi12NnFsMHBpZWVpVmtjaWRLXzVOWnYtbFVaM0huTUNCMktxakx1R29ESzktck1BcGFDTEltU1FIeWV1MkZCR1dYbzBZXzItODVjOE5lMTRvaGpUMEd2b0hBdUFHVTY2aVpFWjRaR2N5cmdfQ2g3Ykhld205QXpOWHp4UmdqVHk4Z3RKTHpVNDI?oc=5)
+
+---
 
 ### [結紮竟能防癌？醫揭「驚人真相」：最高降8成卵巢癌風險](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FTDNLdnFnSW1USDZLWVpwcGlxdzNNN1lJZWdYS2lwZWxZZXQ2bVczUTdVMjZLZ0FDLXlVX3FrYWdaOVNxVUVETEZobHJLQTRN?oc=5)
 
@@ -72,15 +80,15 @@ permalink: /news/paclitaxel/
 
 2026-04-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[bastillepost.com](https://news.google.com/rss/articles/CBMi7gJBVV95cUxQLWN2TFV3aFRUVmRXUDFxSy03aHV2dkV4UjZ2ZGJFbUhiOXJDZFFXSUd6Y0ZOaU5ySlRnN1pJR1Flc3NZQW1kSVhPN0NBSk5wTEJfYUdpMzN3UlgwV2ZQSkw1RTRISEEtQThCOFNaWjAxenFpSkJObGlPTlNEWGN5aTJVaTZZaHk5WkFKNFRWV2FnemVtTXVIeU00dzBzT18xNG1IQkhQLXdtSUV1WTZHczJURWxNRWlDNTBSX2gzYkR1S2VGT29nX0FqQTl1Qno5aS1BS3RMdHNzZUVvRWJVc3FaSjFNTmhxOEd1eGpDSEo1VGQybWtXV2FqbEZqcm1mSXUtSlJhUVE4X1VjSTBSUkhESVRoNnoweHBEaDN1WGpOOWdleG9rREc5d01vNDZBRzB2SnVOX2xfeGE0VUFhcU94MkEwbmJSXzZkWDJoVXM3RXNhU0FuOGpsa29fc2RETEJLV0JYR25Fdi03Qnc?oc=5)
+來源：[巴士的報](https://news.google.com/rss/articles/CBMi7gJBVV95cUxQLWN2TFV3aFRUVmRXUDFxSy03aHV2dkV4UjZ2ZGJFbUhiOXJDZFFXSUd6Y0ZOaU5ySlRnN1pJR1Flc3NZQW1kSVhPN0NBSk5wTEJfYUdpMzN3UlgwV2ZQSkw1RTRISEEtQThCOFNaWjAxenFpSkJObGlPTlNEWGN5aTJVaTZZaHk5WkFKNFRWV2FnemVtTXVIeU00dzBzT18xNG1IQkhQLXdtSUV1WTZHczJURWxNRWlDNTBSX2gzYkR1S2VGT29nX0FqQTl1Qno5aS1BS3RMdHNzZUVvRWJVc3FaSjFNTmhxOEd1eGpDSEo1VGQybWtXV2FqbEZqcm1mSXUtSlJhUVE4X1VjSTBSUkhESVRoNnoweHBEaDN1WGpOOWdleG9rREc5d01vNDZBRzB2SnVOX2xfeGE0VUFhcU94MkEwbmJSXzZkWDJoVXM3RXNhU0FuOGpsa29fc2RETEJLV0JYR25Fdi03Qnc?oc=5)
 
 ---
 
-### [維生素D助攻乳癌化療成功率增79％ 研究曝低劑量也有效](https://news.google.com/rss/articles/CBMiX0FVX3lxTE00RHhRdGxaWEdtYzBNWHA1XzN6TUthYUNOSTZhY1R5Q2dnZ3l2V3ZaQWpGU0VkbGlvTEh3TkVyMWtUMV9HbkJ1dmE1N3pUYU9GRW5JR01CQXlTMjQxTlJr?oc=5)
+### [男性罹癌新線索！HPV疫苗實測結果曝光：相關癌症風險大降46％ | 自由電子報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KYU1qUUpFZmRnX1ZBOFhLX2YtZnZYMG1HS3lINXYzNTVwcXJEZ21uMGgxZ0NBS2c0U2N6QjdKU2xjLXNSaEFMdndBOXV4ZDNaZ1VmOWhR?oc=5)
 
-2026-04-29 <span class="news-indication-tag">乳癌</span>
+2026-04-29 <span class="news-indication-tag">癌症</span>
 
-來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE00RHhRdGxaWEdtYzBNWHA1XzN6TUthYUNOSTZhY1R5Q2dnZ3l2V3ZaQWpGU0VkbGlvTEh3TkVyMWtUMV9HbkJ1dmE1N3pUYU9GRW5JR01CQXlTMjQxTlJr?oc=5)
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KYU1qUUpFZmRnX1ZBOFhLX2YtZnZYMG1HS3lINXYzNTVwcXJEZ21uMGgxZ0NBS2c0U2N6QjdKU2xjLXNSaEFMdndBOXV4ZDNaZ1VmOWhR?oc=5)
 
 ---
 
