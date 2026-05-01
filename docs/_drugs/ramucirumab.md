@@ -2,15 +2,15 @@
 layout: default
 title: Ramucirumab
 parent: 僅模型預測 (L5)
-nav_order: 220
+nav_order: 221
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Ramucirumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -93,6 +93,5 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (Uterine Ligament Adenocarcin
 **若要推進需要：**
 - 進一步的臨床試驗以驗證療效
 - 詳細的藥物作用機轉資料（MOA）
-
 ---
 

@@ -2,15 +2,15 @@
 layout: default
 title: Ivermectin
 parent: 僅模型預測 (L5)
-nav_order: 147
+nav_order: 148
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Ivermectin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -119,6 +119,5 @@ Ivermectin 對 Candida 屬真菌無已知直接抗菌機轉，TxGNN 的預測分
 - 進行體外抗念珠菌最小抑菌濃度（MIC）測試，確認是否具基礎抗真菌活性
 - 評估知識圖譜的共病連結是否源自混淆因子（confounding），例如免疫抑制族群同時發生疥瘡與念珠菌感染
 - 若體外試驗顯示陽性訊號，再考慮動物模型驗證後升級為 L4
-
 ---
 

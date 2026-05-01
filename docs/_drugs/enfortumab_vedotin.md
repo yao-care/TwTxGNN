@@ -2,15 +2,15 @@
 layout: default
 title: Enfortumab Vedotin
 parent: 中證據等級 (L3-L4)
-nav_order: 91
+nav_order: 92
 evidence_level: L3
-indication_count: 1
+indication_count: 10
 ---
 
 # Enfortumab Vedotin
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **1** 個
+證據等級: **L3** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -135,6 +135,5 @@ EV-202（NCT04225117）Phase 2 籃子試驗已直接納入乳癌 cohort，正式
 - 與現有 HER2 靶向 ADC（T-DM1、T-DXd）療效的比較或互補性分析
 - 釐清 Nectin-4 / HER2 共陽性族群的精準篩選標準
 - 制定合併降糖藥使用時的血糖監測與劑量調整計畫
-
 ---
 

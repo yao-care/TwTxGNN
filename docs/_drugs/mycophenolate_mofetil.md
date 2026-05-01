@@ -2,15 +2,15 @@
 layout: default
 title: Mycophenolate Mofetil
 parent: 中證據等級 (L3-L4)
-nav_order: 170
+nav_order: 171
 evidence_level: L3
-indication_count: 1
+indication_count: 10
 ---
 
 # Mycophenolate Mofetil
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **1** 個
+證據等級: **L3** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -144,6 +144,5 @@ TxGNN 模型預測它可能對 **HIV 感染症 (HIV infectious disease)** 有效
 - 評估 MMF 在 HIV 感染者中的長期安全性，特別是機會性感染風險
 - 確認 MAN2 Study（NCT00120419）的完整結果資料（目前狀態為「未知」）
 - 針對 HIV 合併腎臟移植的特定族群，收集 MMF 劑量最佳化數據
-
 ---
 

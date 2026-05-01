@@ -2,15 +2,15 @@
 layout: default
 title: Prilocaine
 parent: 中證據等級 (L3-L4)
-nav_order: 214
+nav_order: 215
 evidence_level: L3
-indication_count: 1
+indication_count: 10
 ---
 
 # Prilocaine
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **1** 個
+證據等級: **L3** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -163,6 +163,5 @@ EMLA 乳膏（含 2.5% Prilocaine）用於帶狀疱疹後遺神經痛已有 1989
 - 設計以 PHN 為主要終點的前瞻性台灣本土研究，補足現有文獻多為小型（n<20）、年代久遠（1989–1996）之缺口
 - 建立甲血紅素血症風險排除標準（排除嬰幼兒、G6PD 缺乏、合用高風險氧化劑藥物者）及上市後監測計畫
 - 進行 PHN 市場規模評估（台灣帶狀疱疹發生率 × PHN 轉化率）以支持商業決策
-
 ---
 

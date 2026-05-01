@@ -2,15 +2,15 @@
 layout: default
 title: Brivaracetam
 parent: 僅模型預測 (L5)
-nav_order: 43
+nav_order: 44
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Brivaracetam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -35,7 +35,6 @@ indication_count: 1
 Brivaracetam 原為治療局部癲癇發作的第三代抗癲癇藥物，TxGNN 預測其可能對視覺性癲癇(visual epilepsy)有治療潛力。
 
 ## 快速總覽
-
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 1個月大以上局部癲癇發作病人的治療 |
@@ -122,7 +121,6 @@ Brivaracetam 在台灣的藥品許可證：
 - 針對視覺性癲癇亞型的前瞻性臨床試驗
 - 評估 brivaracetam 與其他第三代抗癲癇藥物在此適應症的比較效益
 - 收集真實世界數據以支持適應症擴展
-
 
 ---
 

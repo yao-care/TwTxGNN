@@ -2,15 +2,15 @@
 layout: default
 title: Theophylline
 parent: 僅模型預測 (L5)
-nav_order: 250
+nav_order: 251
 evidence_level: L5
-indication_count: 1
+indication_count: 7
 ---
 
 # Theophylline
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **7** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -227,7 +227,6 @@ Theophylline 有 **狹窄的治療指數**，藥物交互作用尤其重要：
 
 *本筆記由 TxGNN 預測系統產生，僅供研究參考，不構成醫療建議。*
 *更新日期：2026-02-11*
-
 
 ---
 

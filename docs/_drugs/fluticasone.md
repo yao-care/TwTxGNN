@@ -2,15 +2,15 @@
 layout: default
 title: Fluticasone
 parent: 中證據等級 (L3-L4)
-nav_order: 108
+nav_order: 109
 evidence_level: L4
-indication_count: 1
+indication_count: 10
 ---
 
 # Fluticasone
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **1** 個
+證據等級: **L4** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -98,6 +98,5 @@ Fluticasone（丙酸氟替皮質醇）是一種廣泛使用的皮質類固醇，
 - 設計前臨床研究，評估糖皮質激素在偏頭痛動物模型中的抑炎效果
 - 系統性回顧皮質類固醇輔助用於偏頭痛急性發作的現有文獻（目前此用途在急診室有一定實務使用，可探索相關數據）
 - 確認給藥途徑（鼻腔、吸入、全身）在偏頭痛治療中的可行性
-
 ---
 

@@ -2,15 +2,15 @@
 layout: default
 title: Tizanidine
 parent: 僅模型預測 (L5)
-nav_order: 259
+nav_order: 260
 evidence_level: L5
-indication_count: 1
+indication_count: 6
 ---
 
 # Tizanidine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **6** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -202,7 +202,6 @@ Tizanidine 在台灣有多張有效許可證：
 
 *報告產生日期：2026-02-11*
 *資料來源：TxGNN 知識圖譜預測、ClinicalTrials.gov、PubMed、台灣 FDA*
-
 
 ---
 

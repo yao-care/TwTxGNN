@@ -2,15 +2,15 @@
 layout: default
 title: Ferrous Gluconate
 parent: 僅模型預測 (L5)
-nav_order: 101
+nav_order: 102
 evidence_level: L5
-indication_count: 1
+indication_count: 5
 ---
 
 # Ferrous Gluconate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **5** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -139,7 +139,6 @@ indication_count: 1
 
 *報告生成日期：2026-02-11*
 *資料來源：TxGNN 知識圖譜預測、ClinicalTrials.gov、PubMed、台灣 FDA*
-
 
 ---
 

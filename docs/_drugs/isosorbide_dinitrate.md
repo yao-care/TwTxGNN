@@ -2,15 +2,15 @@
 layout: default
 title: Isosorbide Dinitrate
 parent: 高證據等級 (L1-L2)
-nav_order: 145
+nav_order: 146
 evidence_level: L2
-indication_count: 1
+indication_count: 10
 ---
 
 # Isosorbide Dinitrate
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **1** 個
+證據等級: **L2** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -112,7 +112,6 @@ ISDN 對肺高壓的治療具有清晰的藥理機轉和豐富的文獻支持。
 - 與現有標準治療的比較研究
 - 確定最佳給藥途徑（吸入 vs 口服 vs 靜脈）
 - 長期安全性和耐受性數據
-
 
 ---
 

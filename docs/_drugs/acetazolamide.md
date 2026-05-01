@@ -2,15 +2,15 @@
 layout: default
 title: Acetazolamide
 parent: 高證據等級 (L1-L2)
-nav_order: 11
+nav_order: 12
 evidence_level: L2
-indication_count: 1
+indication_count: 10
 ---
 
 # Acetazolamide
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **1** 個
+證據等級: **L2** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -126,7 +126,6 @@ Acetazolamide 在急性失代償性心衰竭的輔助利尿角色已有高品質
 - 避免與高劑量 aspirin 併用
 - 監測腎功能及酸鹼平衡
 - 評估是否有磺胺類過敏史
-
 
 ---
 

@@ -2,15 +2,15 @@
 layout: default
 title: Fulvestrant
 parent: 僅模型預測 (L5)
-nav_order: 110
+nav_order: 111
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Fulvestrant
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -130,6 +130,5 @@ TxGNN 預測分數雖高（99.91%），但 Fulvestrant 以 ER 降解為核心機
 - 基礎研究：確認雌激素受體訊號是否在 HIV 感染複製週期或 CD4+ T 細胞生物學中扮演潛在角色
 - 補充 Fulvestrant 完整 MOA 資料（查詢 DrugBank API：DB00947）
 - 如有雌激素訊號與 HIV 相關的前臨床數據，可升級為 L4 再行重新評估
-
 ---
 

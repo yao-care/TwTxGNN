@@ -2,15 +2,15 @@
 layout: default
 title: Busulfan
 parent: 高證據等級 (L1-L2)
-nav_order: 46
+nav_order: 47
 evidence_level: L1
-indication_count: 1
+indication_count: 10
 ---
 
 # Busulfan
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **1** 個
+證據等級: **L1** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -148,6 +148,5 @@ Busulfan 在 MDS 的 HSCT 條件療法情境下，已有包含多個 Phase 3 RCT
 - 制定老年族群及高 HCT-CI 評分患者的個別化安全性監測計畫
 - 評估台灣臨床實務中 Busulfan 與常用輔助藥物（PPIs、唑類抗黴菌藥）交互作用的管理策略
 - 確認靜脈製劑（補束剋注射劑）之藥物血中濃度監測（TDM）在台灣的可及性與標準化流程
-
 ---
 

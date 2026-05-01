@@ -2,15 +2,15 @@
 layout: default
 title: Rifampicin
 parent: 中證據等級 (L3-L4)
-nav_order: 225
+nav_order: 226
 evidence_level: L3
-indication_count: 1
+indication_count: 10
 ---
 
 # Rifampicin
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **1** 個
+證據等級: **L3** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -129,6 +129,5 @@ TxGNN 模型預測它可能對**結膜炎 (Conjunctivitis)** 有效，
 - **補充 MOA 資料**：查詢 DrugBank API 取得完整作用機轉資訊，強化機轉關聯性分析
 - **聚焦特定病原亞型**：優先考慮 *Chlamydia* 所致慢性結膜炎（沙眼）或耐藥菌株（如 MRSA 結膜炎）作為首批研究問題
 - **設計概念驗證研究**：規劃現代化小型 Phase 2 RCT，對比 Rifampicin 眼部局部製劑與現行標準治療的療效與安全性
-
 ---
 

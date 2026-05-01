@@ -2,7 +2,7 @@
 layout: default
 title: Isoleucine
 parent: 僅模型預測 (L5)
-nav_order: 144
+nav_order: 145
 evidence_level: L5
 indication_count: 1
 ---
@@ -157,7 +157,6 @@ Isoleucine 為必需氨基酸營養劑，TxGNN 預測其可能對胃輕癱具有
 *本筆記由 TxGNN 老藥新用預測系統生成，僅供研究參考，不構成醫療建議。*
 
 *生成日期：2026-02-11*
-
 
 ---
 

@@ -2,15 +2,15 @@
 layout: default
 title: Erdafitinib
 parent: 僅模型預測 (L5)
-nav_order: 92
+nav_order: 93
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Erdafitinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -133,6 +133,5 @@ Erdafitinib 為抗腫瘤標靶藥物（FGFR 抑制劑），適用以下細胞毒
 - 確認肺動脈高壓患者中 FGFR1 過度活化的生物標記（biomarker）策略
 - 評估 FGFR 抑制對肺動脈高壓的藥理方向是否合理（抑制 vs. 促進血管修復）
 - 若機轉評估通過，考慮進行探索性前臨床實驗以取得 L4 級證據
-
 ---
 

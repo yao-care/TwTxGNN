@@ -2,15 +2,15 @@
 layout: default
 title: Denosumab
 parent: 僅模型預測 (L5)
-nav_order: 76
+nav_order: 77
 evidence_level: L5
-indication_count: 1
+indication_count: 2
 ---
 
 # Denosumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **2** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -154,7 +154,6 @@ Denosumab 對糖尿病視網膜病變的預測具有一定的科學基礎。2024
 ---
 *報告產生日期：2026-02-11*
 *資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、台灣 FDA*
-
 
 ---
 

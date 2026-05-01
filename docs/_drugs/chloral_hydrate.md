@@ -2,15 +2,15 @@
 layout: default
 title: Chloral Hydrate
 parent: 僅模型預測 (L5)
-nav_order: 59
+nav_order: 60
 evidence_level: L5
-indication_count: 1
+indication_count: 0
 ---
 
 # Chloral Hydrate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **0** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -124,7 +124,6 @@ Chloral hydrate 是一種歷史悠久的鎮靜催眠劑，其特性包括：
 - 嚴格遵守兒童程序性鎮靜的監測標準
 - 考慮更安全的替代藥物（如 dexmedetomidine、propofol 等）
 - 持續教育醫療人員關於藥物安全性和交互作用的知識
-
 
 ---
 

@@ -2,15 +2,15 @@
 layout: default
 title: Rotigotine
 parent: 中證據等級 (L3-L4)
-nav_order: 230
+nav_order: 231
 evidence_level: L4
-indication_count: 1
+indication_count: 10
 ---
 
 # Rotigotine
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **1** 個
+證據等級: **L4** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -145,7 +145,6 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 - 臨床試驗評估 Rotigotine 貼片輔助治療思覺失調症負性症狀的療效
 - 確定最適劑量範圍（可能與帕金森氏症用量不同）
 - 評估與抗精神病藥物併用的安全性和交互作用
-
 
 ---
 

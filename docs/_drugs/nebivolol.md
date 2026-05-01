@@ -2,15 +2,15 @@
 layout: default
 title: Nebivolol
 parent: 僅模型預測 (L5)
-nav_order: 174
+nav_order: 175
 evidence_level: L5
-indication_count: 1
+indication_count: 5
 ---
 
 # Nebivolol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **5** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -198,7 +198,6 @@ Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：
 
 *報告產生日期：2026-02-11*
 *資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、台灣 FDA*
-
 
 ---
 

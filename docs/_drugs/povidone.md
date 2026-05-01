@@ -2,7 +2,7 @@
 layout: default
 title: Povidone
 parent: 僅模型預測 (L5)
-nav_order: 207
+nav_order: 208
 evidence_level: L5
 indication_count: 1
 ---
@@ -164,7 +164,6 @@ DDI資料庫未記載顯著藥物交互作用。
 ---
 *報告產生日期: 2026-02-11*
 *資料來源: TxGNN預測、ClinicalTrials.gov、PubMed、台灣食品藥物管理署*
-
 
 ---
 

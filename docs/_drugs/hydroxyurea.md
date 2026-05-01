@@ -2,15 +2,15 @@
 layout: default
 title: Hydroxyurea
 parent: 高證據等級 (L1-L2)
-nav_order: 127
+nav_order: 128
 evidence_level: L2
-indication_count: 1
+indication_count: 10
 ---
 
 # Hydroxyurea
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **1** 個
+證據等級: **L2** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -132,7 +132,6 @@ Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成
 - 開發更有效的藥物傳遞系統以提高腫瘤靶向性
 - 確定最適合的乳癌亞型（如三陰性乳癌）
 - 設計與 valproic acid 或其他增敏劑的聯合用藥方案
-
 
 ---
 

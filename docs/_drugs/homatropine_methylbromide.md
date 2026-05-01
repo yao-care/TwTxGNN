@@ -2,15 +2,15 @@
 layout: default
 title: Homatropine Methylbromide
 parent: 僅模型預測 (L5)
-nav_order: 121
+nav_order: 122
 evidence_level: L5
-indication_count: 1
+indication_count: 2
 ---
 
 # Homatropine Methylbromide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **2** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -102,7 +102,6 @@ Homatropine methylbromide 是一種抗膽鹼藥物（副交感神經抑制劑）
 - 確認此適應症是否已在臨床實務中使用
 - 與現有治療（如 PPI、H2 受體拮抗劑）進行療效比較研究
 - 評估此適應症在健保給付或藥證擴展方面的價值
-
 
 ---
 

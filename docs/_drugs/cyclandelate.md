@@ -2,15 +2,15 @@
 layout: default
 title: Cyclandelate
 parent: 高證據等級 (L1-L2)
-nav_order: 71
+nav_order: 72
 evidence_level: L1
-indication_count: 1
+indication_count: 10
 ---
 
 # Cyclandelate
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **1** 個
+證據等級: **L1** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -148,6 +148,5 @@ Cyclandelate 用於偏頭痛預防已有 6 篇 RCT（含多中心、安慰劑對
 - 諮詢神經科專家評估台灣偏頭痛預防的未滿足醫療需求與現行治療缺口
 - 確認與常見偏頭痛預防藥物（topiramate、propranolol、CGRP 拮抗劑）及急性治療藥物（triptans、NSAIDs）的交互作用
 - 在 SGLT2 抑制劑使用者（糖尿病合併偏頭痛族群）中特別注意血壓加成風險
-
 ---
 

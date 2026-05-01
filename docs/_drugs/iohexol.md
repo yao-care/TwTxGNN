@@ -2,15 +2,15 @@
 layout: default
 title: Iohexol
 parent: 僅模型預測 (L5)
-nav_order: 138
+nav_order: 139
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Iohexol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -122,6 +122,5 @@ Iohexol 是藥理上的惰性顯影劑，無任何中樞神經系統或睡眠調
 - 進行前臨床機轉研究，確認是否有睡眠調節相關受體（GABA-A、褪黑激素受體等）結合活性
 - 評估 TxGNN 圖譜推論路徑，釐清高分的來源是否為資料雜訊或間接共病關聯
 - 建議優先評估排名 2–10 中較具機轉合理性的其他適應症（如 rheumatoid arthritis 或 tendinitis 均有 Iohexol 實際應用的間接依據）
-
 ---
 

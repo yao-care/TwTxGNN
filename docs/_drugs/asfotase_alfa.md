@@ -2,15 +2,15 @@
 layout: default
 title: Asfotase Alfa
 parent: 僅模型預測 (L5)
-nav_order: 30
+nav_order: 31
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Asfotase Alfa
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -86,6 +86,5 @@ TxGNN 模型預測它可能對**粒線體氧化磷酸化障礙（Mitochondrial O
 - 取得 Asfotase alfa 的詳細作用機轉資料（MOA），確認其對粒線體磷酸鹽代謝的影響路徑
 - 在細胞或動物模型中驗證 TNSALP 活性對粒線體氧化磷酸化功能的潛在影響
 - 搜尋 TNSALP 與粒線體功能相關的基礎研究文獻，確立前臨床概念驗證後，再評估是否進入臨床階段
-
 ---
 

@@ -2,15 +2,15 @@
 layout: default
 title: Vonoprazan
 parent: 高證據等級 (L1-L2)
-nav_order: 280
+nav_order: 281
 evidence_level: L2
-indication_count: 1
+indication_count: 10
 ---
 
 # Vonoprazan
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **1** 個
+證據等級: **L2** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -116,7 +116,6 @@ Vonoprazan 對活動性消化性潰瘍的預測與其核准適應症高度重疊
 - 可直接用於臨床實踐，遵循現有用藥指引
 - 持續關注長期安全性數據
 - 對於 PPI 療效不佳的患者可優先考慮使用
-
 
 ---
 

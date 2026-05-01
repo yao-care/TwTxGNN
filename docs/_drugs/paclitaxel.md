@@ -2,15 +2,15 @@
 layout: default
 title: Paclitaxel
 parent: 僅模型預測 (L5)
-nav_order: 188
+nav_order: 189
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Paclitaxel
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -178,7 +178,6 @@ Paclitaxel 對乳癌的預測已獲得最高等級的臨床證據支持：
 ---
 
 *本報告由 TxGNN 預測系統生成，僅供研究參考，不構成醫療建議。*
-
 
 ---
 

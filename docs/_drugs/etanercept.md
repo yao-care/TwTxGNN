@@ -2,15 +2,15 @@
 layout: default
 title: Etanercept
 parent: 僅模型預測 (L5)
-nav_order: 94
+nav_order: 95
 evidence_level: L5
-indication_count: 1
+indication_count: 6
 ---
 
 # Etanercept
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **6** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -132,7 +132,6 @@ PubMed 文獻搜尋結果：
 
 *報告生成日期：2026-02-11*
 *資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、TFDA*
-
 
 ---
 

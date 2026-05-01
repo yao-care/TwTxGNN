@@ -2,15 +2,15 @@
 layout: default
 title: Cabazitaxel
 parent: 高證據等級 (L1-L2)
-nav_order: 48
+nav_order: 49
 evidence_level: L2
-indication_count: 1
+indication_count: 10
 ---
 
 # Cabazitaxel
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **1** 個
+證據等級: **L2** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -143,6 +143,5 @@ Cabazitaxel 的微管穩定機轉與乳癌的藥理關聯性強，已有 Phase I
 - 制定骨髓抑制管理計畫（G-CSF 使用時機、CBC 監測頻率）
 - 評估與乳癌常用藥物（如 pembrolizumab、CDK4/6 抑制劑）的交互作用安全性
 - 若計畫申請台灣新適應症，需有 Phase II/III 隨機對照試驗資料支持
-
 ---
 

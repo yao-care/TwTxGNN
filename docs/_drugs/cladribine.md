@@ -2,15 +2,15 @@
 layout: default
 title: Cladribine
 parent: 僅模型預測 (L5)
-nav_order: 64
+nav_order: 65
 evidence_level: L5
-indication_count: 1
+indication_count: 7
 ---
 
 # Cladribine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **7** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -131,7 +131,6 @@ Cladribine 是一種嘌呤核苷類似物，具有強效的抗增殖及免疫調
 *本筆記僅供研究參考，不構成醫療建議。任何用藥決策應諮詢專業醫療人員。*
 
 *最後更新：2026-02-11*
-
 
 ---
 

@@ -2,15 +2,15 @@
 layout: default
 title: Niraparib
 parent: 僅模型預測 (L5)
-nav_order: 177
+nav_order: 178
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Niraparib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -129,6 +129,5 @@ TxGNN 模型預測分數雖高（99.99%），但 Niraparib 的 PARP 抑制合成
 - 會厭腫瘤樣本的 BRCA/HRD 突變率流行病學調查
 - 細胞株或類器官模型的臨床前療效驗證數據
 - 明確的 Niraparib 完整作用機轉資料（MOA，建議查詢 DrugBank API）
-
 ---
 

@@ -2,15 +2,15 @@
 layout: default
 title: Palbociclib
 parent: 僅模型預測 (L5)
-nav_order: 189
+nav_order: 190
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Palbociclib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -137,6 +137,5 @@ Palbociclib 為抗腫瘤藥物（原適應症含乳癌，屬 CDK4/6 標靶治療
 - 基礎研究確認 CDK4/6 在甲狀腺細胞功能調控中的角色（體外/體內實驗）
 - 明確的作用機轉資料（MOA，可查詢 DrugBank API）
 - 至少一篇探討 CDK4/6 抑制劑與甲狀腺功能關聯的前臨床研究
-
 ---
 

@@ -2,15 +2,15 @@
 layout: default
 title: Ascorbyl Phosphate
 parent: 僅模型預測 (L5)
-nav_order: 29
+nav_order: 30
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Ascorbyl Phosphate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -109,6 +109,5 @@ TxGNN 模型預測它可能對**嚴重非增殖性糖尿病視網膜病變 (Seve
 - 設計臨床前動物模型，驗證點眼局部給藥是否能達到視網膜層有效藥物濃度
 - 搜尋廣義維生素 C 衍生物（ascorbic acid、ascorbate）用於糖尿病視網膜病變的相關文獻，評估類別效應（class effect）可能性
 - 若轉向**痤瘡**適應症推進（建議），可直接規劃 Phase 2 隨機對照試驗，利用現有 RCT 作為先導依據
-
 ---
 

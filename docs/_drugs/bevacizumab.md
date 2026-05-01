@@ -2,15 +2,15 @@
 layout: default
 title: Bevacizumab
 parent: 僅模型預測 (L5)
-nav_order: 42
+nav_order: 43
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Bevacizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -35,7 +35,6 @@ indication_count: 1
 Bevacizumab 原為抗血管新生的癌症標靶藥物，用於轉移性大腸直腸癌、肺癌、卵巢癌等多種惡性腫瘤，TxGNN 預測其可能對會厭腫瘤(epiglottis neoplasm)有治療潛力。
 
 ## 快速總覽
-
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 轉移性大腸直腸癌、乳癌、非小細胞肺癌、卵巢癌、子宮頸癌、神經膠母細胞瘤等 |
@@ -109,7 +108,6 @@ Bevacizumab 在台灣有多項藥品許可證：
 **下一步研究方向**：
 - 回顧性分析頭頸部癌症病例中會厭受累的治療反應
 - 考慮個案報告或小規模臨床試驗評估可行性
-
 
 ---
 

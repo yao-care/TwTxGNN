@@ -2,15 +2,15 @@
 layout: default
 title: Silicon Dioxide
 parent: 中證據等級 (L3-L4)
-nav_order: 235
+nav_order: 236
 evidence_level: L4
-indication_count: 1
+indication_count: 4
 ---
 
 # Silicon Dioxide
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **1** 個
+證據等級: **L4** | 預測適應症: **4** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -115,7 +115,6 @@ TxGNN 預測的消化性潰瘍適應症與 Silicon Dioxide 相關化合物的制
 - 針對胃潰瘍保護作用的臨床前研究
 - 探索矽奈米粒子作為藥物遞送載體的臨床可行性
 - 評估長期口服安全性
-
 
 ---
 

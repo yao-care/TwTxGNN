@@ -2,15 +2,15 @@
 layout: default
 title: Fludarabine
 parent: 中證據等級 (L3-L4)
-nav_order: 104
+nav_order: 105
 evidence_level: L3
-indication_count: 1
+indication_count: 10
 ---
 
 # Fludarabine
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **1** 個
+證據等級: **L3** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -147,6 +147,5 @@ Fludarabine 在漿細胞骨髓瘤有直接的體外抗腫瘤證據（PMID 179761
 - 評估在現代骨髓瘤治療背景（蛋白酶體抑制劑、IMiD、CD38 抗體）下 Fludarabine 的加乘或互補潛力
 - 確認台灣許可證資料完整性（現有資料疑含 CD20 靶向抗體之許可證，建議重新比對 TFDA 資料庫）
 - 規劃高度免疫抑制情境下的機會性感染監測計畫與風險管理方案
-
 ---
 

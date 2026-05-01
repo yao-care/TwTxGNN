@@ -2,15 +2,15 @@
 layout: default
 title: Probenecid
 parent: 中證據等級 (L3-L4)
-nav_order: 215
+nav_order: 216
 evidence_level: L4
-indication_count: 1
+indication_count: 3
 ---
 
 # Probenecid
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **1** 個
+證據等級: **L4** | 預測適應症: **3** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -94,7 +94,6 @@ Probenecid 對腎性低尿酸血症患者的作用主要是作為診斷工具，
 - 澄清預測目的：是用於診斷還是治療
 - 若用於診斷，需確立標準化的負荷試驗方案
 - 若考慮任何治療用途，需進行安全性評估
-
 
 ---
 

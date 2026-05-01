@@ -2,15 +2,15 @@
 layout: default
 title: Fluorouracil
 parent: 僅模型預測 (L5)
-nav_order: 107
+nav_order: 108
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Fluorouracil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -146,6 +146,5 @@ Fluorouracil 屬於抗腫瘤/細胞毒性藥物（Antineoplastic Agents、Antime
 1. **修正資料管道**：確保台灣許可證資料正確對應 Fluorouracil（5-FU），而非 Trastuzumab
 2. **補充 MOA 資料**：查詢 DrugBank API 取得 DB00544 完整作用機轉描述
 3. **前臨床驗證**：在 RMS 細胞株（如 RD、A204）進行 5-FU 敏感性測試，建立最低可信的前臨床依據後，才可考慮進一步評估
-
 ---
 

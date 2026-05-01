@@ -2,15 +2,15 @@
 layout: default
 title: Lactic Acid
 parent: 僅模型預測 (L5)
-nav_order: 149
+nav_order: 150
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Lactic Acid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -127,6 +127,5 @@ TxGNN 模型預測它可能對**非典型主動脈縮窄 (Atypical Coarctation o
 - 乳酸分子在主動脈縮窄或相關血管重塑病理中的明確機轉研究
 - 取得完整作用機轉資料（MOA）以補足 DrugBank 資料缺口
 - 重新評估預測清單中證據等級較高的候選適應症（如 dry eye syndrome L4、esophageal disease L4、eye disease L4）是否更具研究價值
-
 ---
 

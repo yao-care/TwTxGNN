@@ -2,15 +2,15 @@
 layout: default
 title: Riluzole
 parent: 中證據等級 (L3-L4)
-nav_order: 226
+nav_order: 227
 evidence_level: L4
-indication_count: 1
+indication_count: 10
 ---
 
 # Riluzole
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **1** 個
+證據等級: **L4** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -104,7 +104,6 @@ TxGNN 預測的適應症與 ALS 在病理機轉上高度相關，都涉及運動
 - 收集真實世界證據（如 ALS 門診中其他運動神經元疾病患者使用 riluzole 的經驗）
 - 定期監測肝功能
 - 評估長期療效和安全性
-
 
 ---
 

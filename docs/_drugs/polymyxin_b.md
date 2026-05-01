@@ -2,15 +2,15 @@
 layout: default
 title: Polymyxin B
 parent: 僅模型預測 (L5)
-nav_order: 204
+nav_order: 205
 evidence_level: L5
-indication_count: 1
+indication_count: 3
 ---
 
 # Polymyxin B
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **3** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -162,7 +162,6 @@ DDI資料庫未記載顯著交互作用,但應注意:
 ---
 *報告產生日期: 2026-02-11*
 *資料來源: TxGNN預測、ClinicalTrials.gov、PubMed、台灣食品藥物管理署*
-
 
 ---
 

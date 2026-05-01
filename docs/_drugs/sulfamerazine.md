@@ -2,15 +2,15 @@
 layout: default
 title: Sulfamerazine
 parent: 僅模型預測 (L5)
-nav_order: 241
+nav_order: 242
 evidence_level: L5
-indication_count: 1
+indication_count: 4
 ---
 
 # Sulfamerazine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **4** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -120,7 +120,6 @@ Sulfamerazine 作為磺胺類抗菌劑，可抑制細菌二氫葉酸合成酶，
 
 **建議：**
 除非有特殊需求（如特定抗藥性菌株治療），否則不建議投入資源開發此藥物的新適應症。
-
 
 ---
 

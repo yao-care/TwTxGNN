@@ -2,15 +2,15 @@
 layout: default
 title: Hesperidin
 parent: 中證據等級 (L3-L4)
-nav_order: 119
+nav_order: 120
 evidence_level: L4
-indication_count: 1
+indication_count: 10
 ---
 
 # Hesperidin
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **1** 個
+證據等級: **L4** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -109,6 +109,5 @@ TxGNN 模型預測它可能對**骨髓增生性腫瘤 (Myeloproliferative Neopla
 - 釐清 Hesperidin → Hesperetin 的代謝轉化率與腫瘤組織生物可用性
 - 評估與現有 TKI（如 Imatinib）的協同或拮抗效應
 - 確認口服劑型的血漿藥物濃度是否達到體外實驗有效濃度
-
 ---
 

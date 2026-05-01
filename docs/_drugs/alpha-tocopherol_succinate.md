@@ -2,15 +2,15 @@
 layout: default
 title: Alpha-Tocopherol Succinate
 parent: 僅模型預測 (L5)
-nav_order: 19
+nav_order: 20
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Alpha-Tocopherol Succinate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -158,6 +158,5 @@ TxGNN 對藥物誘發性骨質疏鬆症的預測分數雖達 99.997%，但完全
 **建議優先評估的替代方向：**
 - **膀胱腫瘤（化學預防）**：Rank 3，L3 證據，含 RCT + Meta-analysis，可直接規劃「Alpha-Tocopherol 膀胱癌化學預防」系統性回顧
 - **皮質性白內障**：Rank 9，L3 證據，含 2 篇 RCT 及動物劑量反應研究，機轉明確，可評估口服 Vit E 補充延緩白內障進程的臨床研究可行性
-
 ---
 

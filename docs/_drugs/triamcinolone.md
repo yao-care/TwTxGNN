@@ -2,15 +2,15 @@
 layout: default
 title: Triamcinolone
 parent: 中證據等級 (L3-L4)
-nav_order: 268
+nav_order: 269
 evidence_level: L4
-indication_count: 1
+indication_count: 10
 ---
 
 # Triamcinolone
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **1** 個
+證據等級: **L4** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -124,6 +124,5 @@ Triamcinolone 是一種合成糖皮質激素，廣泛用於過敏性疾患、皮
 - 以回溯性病例系列或前瞻性病例系列評估局部糖皮質激素在原發性 Alopecia Mucinosa 中的實際使用經驗
 - 釐清原發性（良性自限型）與 CTCL 相關型之間的適應症區隔，避免在惡性病因未排除的情形下延誤適當治療
 - 評估既有外用及注射劑型（台灣已上市）的給藥途徑是否適合皮膚局部治療應用
-
 ---
 

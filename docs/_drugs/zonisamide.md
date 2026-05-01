@@ -2,15 +2,15 @@
 layout: default
 title: Zonisamide
 parent: 僅模型預測 (L5)
-nav_order: 288
+nav_order: 289
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Zonisamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -120,6 +120,5 @@ TxGNN 雖對妥瑞症給出高達 99.85% 的預測分數，但截至資料截止
 - 系統性搜尋是否有未發表的病例報告或觀察性資料
 - 評估與現行妥瑞症標準治療（如 haloperidol、fluphenazine、clonidine）的定位差異
 - 若臨床前結果支持，再考慮規劃 Phase 2 概念驗證試驗
-
 ---
 

@@ -2,15 +2,15 @@
 layout: default
 title: Carbenoxolone
 parent: 僅模型預測 (L5)
-nav_order: 51
+nav_order: 52
 evidence_level: L5
-indication_count: 1
+indication_count: 7
 ---
 
 # Carbenoxolone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **7** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -35,7 +35,6 @@ indication_count: 1
 Carbenoxolone 原為治療胃潰瘍及口內潰瘍的甘草酸衍生物，TxGNN 預測其可能對非症候群性食道畸形(non-syndromic esophageal malformation)有治療潛力。
 
 ## 快速總覽
-
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 胃潰瘍、十二指腸潰瘍、口內炎性潰瘍 |
@@ -76,7 +75,6 @@ PubMed 檢索僅發現1篇間接相關文獻：
 Carbenoxolone 在台灣的許可證狀態：
 
 **目前有效許可證**：
-
 | 許可證字號 | 商品名 | 適應症 | 許可證持有者 |
 |-----------|--------|--------|-------------|
 | 衛署藥製字第021999號 | 炎立治口內軟膏(優良) | 口內潰瘍 | 優良化學製藥 |
@@ -128,7 +126,6 @@ Carbenoxolone 在台灣的許可證狀態：
 - 可考慮其他更現代且副作用較少的藥物替代方案
 
 **特別注意**：此預測極可能為 TxGNN 演算法基於解剖位置或疾病分類關聯產生的偽陽性結果。非症候群性食道畸形為手術適應症，藥物治療無法取代手術矯正。
-
 
 ---
 

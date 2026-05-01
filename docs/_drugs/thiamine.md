@@ -2,15 +2,15 @@
 layout: default
 title: Thiamine
 parent: 僅模型預測 (L5)
-nav_order: 251
+nav_order: 252
 evidence_level: L5
-indication_count: 1
+indication_count: 4
 ---
 
 # Thiamine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **4** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -248,7 +248,6 @@ Thiamine 用於甲狀腺亢進的研究價值高：
 
 *本筆記由 TxGNN 預測系統產生，僅供研究參考，不構成醫療建議。*
 *更新日期：2026-02-11*
-
 
 ---
 

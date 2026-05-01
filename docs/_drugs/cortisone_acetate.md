@@ -2,15 +2,15 @@
 layout: default
 title: Cortisone Acetate
 parent: 中證據等級 (L3-L4)
-nav_order: 69
+nav_order: 70
 evidence_level: L3
-indication_count: 1
+indication_count: 10
 ---
 
 # Cortisone Acetate
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **1** 個
+證據等級: **L3** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -117,6 +117,5 @@ TxGNN 模型預測它可能對**圓禿 (Alopecia Areata)** 有效，
 - 設計現代化隨機對照試驗以取得 L1/L2 等級證據
 - 建立全身性皮質固醇長期使用的安全性監測計畫（HPA 軸抑制、骨質疏鬆、感染風險等）
 - 考慮特定次族群（如重症全禿、合併其他自體免疫疾病患者）是否有較高療效預測性
-
 ---
 

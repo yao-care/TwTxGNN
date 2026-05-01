@@ -2,15 +2,15 @@
 layout: default
 title: Temozolomide
 parent: 高證據等級 (L1-L2)
-nav_order: 244
+nav_order: 245
 evidence_level: L1
-indication_count: 1
+indication_count: 2
 ---
 
 # Temozolomide
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **1** 個
+證據等級: **L1** | 預測適應症: **2** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -104,7 +104,6 @@ Temozolomide 用於成人星狀細胞瘤的證據充分，已有多個 Phase 3 R
 **若要推進需要：**
 - 確認特定亞型星狀細胞瘤的 MGMT 甲基化狀態以預測療效
 - 針對不同分子亞型制定個人化治療方案
-
 
 ---
 

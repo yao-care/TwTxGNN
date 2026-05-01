@@ -2,15 +2,15 @@
 layout: default
 title: Human Immunoglobulin G
 parent: 中證據等級 (L3-L4)
-nav_order: 122
+nav_order: 123
 evidence_level: L3
-indication_count: 1
+indication_count: 3
 ---
 
 # Human Immunoglobulin G
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **1** 個
+證據等級: **L3** | 預測適應症: **3** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -117,7 +117,6 @@ Human immunoglobulin G 是一種免疫調節生物製劑，透過多種機轉發
 - 小規模臨床試驗評估 IVIG 在 DR 患者中的安全性和初步療效
 - 與現有抗 VEGF 治療進行比較或聯合治療研究
 - 成本效益分析
-
 
 ---
 

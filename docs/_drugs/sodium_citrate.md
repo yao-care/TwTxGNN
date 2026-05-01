@@ -2,15 +2,15 @@
 layout: default
 title: Sodium Citrate
 parent: 僅模型預測 (L5)
-nav_order: 239
+nav_order: 240
 evidence_level: L5
-indication_count: 1
+indication_count: 9
 ---
 
 # Sodium Citrate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -121,7 +121,6 @@ TxGNN 預測分數極高（0.999），且有多篇高品質體外及動物實驗
 - 設計 Phase I 安全性試驗
 - 探索與現有胃癌化療藥物的協同作用
 - 考慮作為化療增敏劑而非單一療法的定位
-
 
 ---
 

@@ -2,15 +2,15 @@
 layout: default
 title: Fenoprofen
 parent: 僅模型預測 (L5)
-nav_order: 99
+nav_order: 100
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Fenoprofen
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -169,7 +169,6 @@ Brogden et al. (1977) 的藥物回顧指出：
 
 *報告生成日期：2026-02-11*
 *資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、TFDA*
-
 
 ---
 

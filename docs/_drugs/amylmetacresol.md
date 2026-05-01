@@ -2,15 +2,15 @@
 layout: default
 title: Amylmetacresol
 parent: 僅模型預測 (L5)
-nav_order: 26
+nav_order: 27
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Amylmetacresol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -104,6 +104,5 @@ Amylmetacresol 為局部口腔用藥，與馬尾症候群（及其餘所有前 1
 - 進行體外細胞毒性及神經細胞活性篩選實驗，確認是否有任何臨床前依據
 - 重新評估 TxGNN 知識圖譜中產生此預測的圖譜路徑，確認是否為雜訊或有意義的關聯
 - 若欲探索 Amylmetacresol 的再利用潛力，建議優先考慮更具生物合理性的方向（如呼吸道感染、口咽黏膜炎等）
-
 ---
 

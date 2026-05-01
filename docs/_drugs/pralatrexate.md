@@ -2,15 +2,15 @@
 layout: default
 title: Pralatrexate
 parent: 中證據等級 (L3-L4)
-nav_order: 208
+nav_order: 209
 evidence_level: L4
-indication_count: 1
+indication_count: 10
 ---
 
 # Pralatrexate
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **1** 個
+證據等級: **L4** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -96,6 +96,5 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 **若要推進需要：**
 - 進一步的臨床試驗以確認其在胸膜上皮型間皮瘤中的療效
 - 更詳細的藥物作用機轉資料（MOA）
-
 ---
 

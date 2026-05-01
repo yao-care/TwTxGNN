@@ -2,7 +2,7 @@
 layout: default
 title: Xylitol
 parent: 僅模型預測 (L5)
-nav_order: 285
+nav_order: 286
 evidence_level: L5
 indication_count: 1
 ---
@@ -91,7 +91,6 @@ Xylitol 與腦膜炎球菌感染之間的關聯缺乏任何臨床試驗或文獻
 - 基礎研究確認 Xylitol 的抗菌或免疫調節機轉
 - 體外或動物模型研究驗證對腦膜炎球菌的抑制效果
 - 進一步了解知識圖譜中此預測的推論路徑
-
 
 ---
 

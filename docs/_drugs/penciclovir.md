@@ -2,15 +2,15 @@
 layout: default
 title: Penciclovir
 parent: 僅模型預測 (L5)
-nav_order: 193
+nav_order: 194
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Penciclovir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -110,6 +110,5 @@ TxGNN 模型給出高分的原因，推測是知識圖譜中**感染性疾病節
 - 評估給藥途徑可行性：目前台灣核准劑型均為局部外用，若要治療系統性疾病需重新開發劑型
 - 優先確認是否有其他同類核苷類似物（如 Acyclovir、Famciclovir）曾在預測適應症中展現實驗室活性，再決定是否值得進一步探索
 - 若仍有興趣，建議先從體外（in vitro）細胞模型層面評估 Penciclovir 對預測疾病病原體的基礎活性，再考慮更大規模的前置研究
-
 ---
 

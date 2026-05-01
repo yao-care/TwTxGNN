@@ -2,15 +2,15 @@
 layout: default
 title: Axitinib
 parent: 中證據等級 (L3-L4)
-nav_order: 35
+nav_order: 36
 evidence_level: L3
-indication_count: 1
+indication_count: 10
 ---
 
 # Axitinib
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **1** 個
+證據等級: **L3** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -132,6 +132,5 @@ Axitinib 的 VEGFR 抑制機轉在廣義 RCC 中已有充分的療效基礎（L1
 - 設計針對未分類 RCC 亞型的前瞻性探索性 Phase 2 研究（建議納入 axitinib 單藥或聯合 ICI）
 - 建立病患分子分型，識別 VEGF 訊號路徑依賴程度較高的亞群以提升療效預測
 - 設計特定安全性監測計畫，涵蓋高血壓管理、甲狀腺功能及 CYP3A4 相關 DDI 審查
-
 ---
 

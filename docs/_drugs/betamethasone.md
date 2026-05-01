@@ -2,15 +2,15 @@
 layout: default
 title: Betamethasone
 parent: 高證據等級 (L1-L2)
-nav_order: 41
+nav_order: 42
 evidence_level: L1
-indication_count: 1
+indication_count: 10
 ---
 
 # Betamethasone
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **1** 個
+證據等級: **L1** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -139,6 +139,5 @@ Betamethasone 原有的皮膚炎與自體免疫適應症，與圓禿同屬皮膚
 - 針對不同疾病嚴重度（局限型 vs. 全禿/普禿）制定最佳給藥途徑與劑量方案
 - 建立長期安全性監測計畫，特別關注系統性使用的 HPA 軸抑制、血糖影響及骨質流失風險
 - 評估與台灣現行皮膚科圓禿治療（JAK 抑制劑核准後）的定位整合與競爭優勢
-
 ---
 

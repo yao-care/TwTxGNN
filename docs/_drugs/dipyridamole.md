@@ -2,15 +2,15 @@
 layout: default
 title: Dipyridamole
 parent: 僅模型預測 (L5)
-nav_order: 81
+nav_order: 82
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Dipyridamole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -174,7 +174,6 @@ Dipyridamole 的 TxGNN 預測雖然分數很高，但兩項主要預測都與現
 ---
 *報告產生日期：2026-02-11*
 *資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、台灣 FDA*
-
 
 ---
 

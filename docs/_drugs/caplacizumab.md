@@ -2,15 +2,15 @@
 layout: default
 title: Caplacizumab
 parent: 僅模型預測 (L5)
-nav_order: 50
+nav_order: 51
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Caplacizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -35,7 +35,6 @@ indication_count: 1
 Caplacizumab 原為治療後天性血栓性血小板低下紫斑症(aTTP)的抗von Willebrand因子奈米抗體，TxGNN 預測其可能對血小板原發釋放障礙(primary release disorder of platelets)有治療潛力。
 
 ## 快速總覽
-
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 後天性血栓性血小板低下紫斑症 (aTTP)，合併血漿置換術及免疫抑制劑使用 |
@@ -93,7 +92,6 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 無針對血小板原發釋放障礙的相關文獻。
 
 ## 台灣上市資訊
-
 | 許可證字號 | 商品名 | 劑型 | 許可證持有者 |
 |-----------|--------|------|-------------|
 | 衛部菌疫輸字第001243號 | 可利康凍晶注射劑10毫克 (Cablivi) | 注射劑 | 賽諾菲股份有限公司 |
@@ -114,7 +112,6 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 - 需監測出血徵象
 
 ### 藥物交互作用(主要)
-
 | 交互作用藥物 | 嚴重程度 |
 |-------------|---------|
 | 阿斯匹靈 | 重度 |
@@ -137,7 +134,6 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 - 建議專注於 caplacizumab 在其他血栓性微血管病變(如非典型HUS)的潛在應用研究
 
 **特別注意**：此預測可能為 TxGNN 演算法的偽陽性結果，臨床上不應依據此預測進行治療決策。
-
 
 ---
 

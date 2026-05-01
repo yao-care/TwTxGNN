@@ -2,15 +2,15 @@
 layout: default
 title: Isosorbide Mononitrate
 parent: 僅模型預測 (L5)
-nav_order: 146
+nav_order: 147
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Isosorbide Mononitrate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -125,6 +125,5 @@ TxGNN 模型預測它可能對**多毛症 (Hypertrichosis)** 有效，
 - 驗證 NO/cGMP 路徑對毛囊生長週期的直接影響
 - 評估外用劑型可行性（現有許可劑型為口服及原料藥，全身性低血壓風險限制口服用於皮膚科適應症的可行性）
 - 若機轉驗證成功，考慮與 IND 申請前顧問會議（Pre-IND meeting）確認監管路徑
-
 ---
 
