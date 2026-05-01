@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-01T12:58:21.734707+00:00",
-  "count": 22,
+  "fetched_at": "2026-05-01T14:16:28.542202+00:00",
+  "count": 20,
   "news": [
     {
       "id": "ef01e6334c2f",
@@ -148,18 +148,6 @@
       ]
     },
     {
-      "id": "e0250d01b4ff",
-      "title": "結紮「能降低卵巢癌風險？」 婦產科醫這樣說 - 民視新聞網",
-      "published": "2026-04-29T14:00:00+00:00",
-      "summary": "結紮「能降低卵巢癌風險？」 婦產科醫這樣說&nbsp;&nbsp;民視新聞網前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jbUg0YUdFV0FCZ3d5eG11YllieVZrd0tDRF94RVpxQXM3ejdNY216SllzMmtIYmZBNU5Ga1dpSWtpeTFjTGtEcWtUZXdYTTNjMER6SWRVNnVFT3V2WFlXcA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7f591cb2bd73",
       "title": "兒癌終極挑戰 質子是首選 - 《現代保險》雜誌",
       "published": "2026-04-30T03:21:44+00:00",
@@ -252,18 +240,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pVlJ3VUhjLUprWkhQSmVlN3MxTWQydllXaU44VjFZNGE1UEI2d0tWTHAweDV0Uk14Y2ZLNmlCUWVIaWNJS3p2dWVfb1dZci1jMEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "06b577b99b20",
-      "title": "澳洲研究：打哈欠時腦脊液隨靜脈同時排出 - Techritual Hong Kong",
-      "published": "2026-04-29T12:06:02+00:00",
-      "summary": "澳洲研究：打哈欠時腦脊液隨靜脈同時排出&nbsp;&nbsp;Techritual Hong Kong",
-      "sources": [
-        {
-          "name": "Techritual Hong Kong",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rZEdXTUZIdUFqQzR5UjlyanY3Y1FuNldDWUpjQ2ZTcUZReU1ZWExXYjZRQmdwdC11MGl0a3A1bnJBOVAtWG1KeWMyX0x5WHJSMWgxTVZRWVY?oc=5"
         }
       ]
     }

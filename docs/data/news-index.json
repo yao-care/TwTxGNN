@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-01T12:58:25.644887+00:00",
-  "count": 11,
+  "generated": "2026-05-01T14:16:32.797601+00:00",
+  "count": 10,
   "news": [
     {
       "id": "ef01e6334c2f",
@@ -1476,34 +1476,6 @@
             {
               "slug": "isosorbide_dinitrate",
               "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e0250d01b4ff",
-      "title": "結紮「能降低卵巢癌風險？」 婦產科醫這樣說",
-      "published": "2026-04-29T14:00:00+00:00",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jbUg0YUdFV0FCZ3d5eG11YllieVZrd0tDRF94RVpxQXM3ejdNY216SllzMmtIYmZBNU5Ga1dpSWtpeTFjTGtEcWtUZXdYTTNjMER6SWRVNnVFT3V2WFlXcA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "卵巢癌",
-          "keyword": "卵巢癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }

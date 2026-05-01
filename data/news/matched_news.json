@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-01T12:58:25.612404+00:00",
-  "total_count": 22,
-  "matched_count": 11,
+  "last_updated": "2026-05-01T14:16:32.763598+00:00",
+  "total_count": 20,
+  "matched_count": 10,
   "news": [
     {
       "id": "ef01e6334c2f",
@@ -1621,48 +1621,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "e0250d01b4ff",
-      "title": "結紮「能降低卵巢癌風險？」 婦產科醫這樣說",
-      "published": "2026-04-29T14:00:00+00:00",
-      "summary": "結紮「能降低卵巢癌風險？」 婦產科醫這樣說&nbsp;&nbsp;民視新聞網前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jbUg0YUdFV0FCZ3d5eG11YllieVZrd0tDRF94RVpxQXM3ejdNY216SllzMmtIYmZBNU5Ga1dpSWtpeTFjTGtEcWtUZXdYTTNjMER6SWRVNnVFT3V2WFlXcA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "卵巢癌",
-          "keyword": "卵巢癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "06b577b99b20",
-      "title": "澳洲研究：打哈欠時腦脊液隨靜脈同時排出 - Techritual Hong Kong",
-      "published": "2026-04-29T12:06:02+00:00",
-      "summary": "澳洲研究：打哈欠時腦脊液隨靜脈同時排出&nbsp;&nbsp;Techritual Hong Kong",
-      "sources": [
-        {
-          "name": "Techritual Hong Kong",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rZEdXTUZIdUFqQzR5UjlyanY3Y1FuNldDWUpjQ2ZTcUZReU1ZWExXYjZRQmdwdC11MGl0a3A1bnJBOVAtWG1KeWMyX0x5WHJSMWgxTVZRWVY?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
