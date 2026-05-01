@@ -1,13 +1,13 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-01T11:51:47.656836+00:00",
+  "fetched_at": "2026-05-01T12:58:21.734707+00:00",
   "count": 22,
   "news": [
     {
       "id": "ef01e6334c2f",
       "title": "年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵 - 聯合新聞網",
       "published": "2026-05-01T11:38:52+00:00",
-      "summary": "年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵&nbsp;&nbsp;聯合新聞網這11種癌症在年輕人中增加，科學家首次找到原因線索&nbsp;&nbsp;BBC年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」&nbsp;&nbsp;自由健康網研究：年輕人罹大腸癌案例增加 恐與常用除草劑有關&nbsp;&nbsp;世界新聞網2026 AACR揭年輕癌症警訊！從微生物致突變到免疫療法抗藥機制浮現&nbsp;&nbsp;環球生技",
+      "summary": "年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵&nbsp;&nbsp;聯合新聞網年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」&nbsp;&nbsp;自由健康網這11種癌症在年輕人中增加，科學家首次找到原因線索&nbsp;&nbsp;BBC研究：年輕人罹大腸癌案例增加 恐與常用除草劑有關&nbsp;&nbsp;世界新聞網2026 AACR揭年輕癌症警訊！從微生物致突變到免疫療法抗藥機制浮現&nbsp;&nbsp;環球生技",
       "sources": [
         {
           "name": "聯合新聞網",
@@ -148,18 +148,6 @@
       ]
     },
     {
-      "id": "7f591cb2bd73",
-      "title": "兒癌終極挑戰 質子是首選 - 《現代保險》雜誌",
-      "published": "2026-04-30T03:21:44+00:00",
-      "summary": "兒癌終極挑戰 質子是首選&nbsp;&nbsp;《現代保險》雜誌",
-      "sources": [
-        {
-          "name": "《現代保險》雜誌",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Obk40c1d3S2tYNW5LNlJhYnN5SUQ4cU1hVktKaUcwQUhNNGFMUUFIWVJDWHZNTTY2ZHRzSmlCNEQ5OGZhVWVKQ2liQTliNXRSVl80?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e0250d01b4ff",
       "title": "結紮「能降低卵巢癌風險？」 婦產科醫這樣說 - 民視新聞網",
       "published": "2026-04-29T14:00:00+00:00",
@@ -168,6 +156,18 @@
         {
           "name": "民視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jbUg0YUdFV0FCZ3d5eG11YllieVZrd0tDRF94RVpxQXM3ejdNY216SllzMmtIYmZBNU5Ga1dpSWtpeTFjTGtEcWtUZXdYTTNjMER6SWRVNnVFT3V2WFlXcA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7f591cb2bd73",
+      "title": "兒癌終極挑戰 質子是首選 - 《現代保險》雜誌",
+      "published": "2026-04-30T03:21:44+00:00",
+      "summary": "兒癌終極挑戰 質子是首選&nbsp;&nbsp;《現代保險》雜誌",
+      "sources": [
+        {
+          "name": "《現代保險》雜誌",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Obk40c1d3S2tYNW5LNlJhYnN5SUQ4cU1hVktKaUcwQUhNNGFMUUFIWVJDWHZNTTY2ZHRzSmlCNEQ5OGZhVWVKQ2liQTliNXRSVl80?oc=5"
         }
       ]
     },
