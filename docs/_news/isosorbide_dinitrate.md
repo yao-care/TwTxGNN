@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [心臟健康靠吃出來！專家欽點15種「護心食物」降低心血管疾病和死亡風險 - Harper's BAZAAR](https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3VjV05yNlJlVFJKbEthXzVldGN5S0tReHcxSXlwcGp3NVpmTE1MckdRbW5YbjJ3Y3RCeDM3ckc3X05HRlFDS1V6ZTZNc3NVZ3lpZ3lXYWNBSVd6d1NIV3dFSjFraGZPZGZXVzRuZ3RCa2dHcjF6MVVnZDZoUGplSFlobnZ4Tkh4bEppS1Fka0pZQk1wVE12Ng?oc=5)
 
 2026-04-30 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
 
 來源：[Harper's BAZAAR](https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3VjV05yNlJlVFJKbEthXzVldGN5S0tReHcxSXlwcGp3NVpmTE1MckdRbW5YbjJ3Y3RCeDM3ckc3X05HRlFDS1V6ZTZNc3NVZ3lpZ3lXYWNBSVd6d1NIV3dFSjFraGZPZGZXVzRuZ3RCa2dHcjF6MVVnZDZoUGplSFlobnZ4Tkh4bEppS1Fka0pZQk1wVE12Ng?oc=5)
-
----
-
-### [「心包脂肪」增心血管疾病風險 三高患者更應注意](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BUXdTTERaLU9kbnRZWmMyS2ZfeXdqYjFIOV9HUFk3TFl0MmNybERGVWhpSUdsd0s3MDFla0M1WE9MSGFZaVJRZ0R1LUFpdHF6?oc=5)
-
-2026-04-29 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
-
-來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BUXdTTERaLU9kbnRZWmMyS2ZfeXdqYjFIOV9HUFk3TFl0MmNybERGVWhpSUdsd0s3MDFla0M1WE9MSGFZaVJRZ0R1LUFpdHF6?oc=5)
 
 ---
 

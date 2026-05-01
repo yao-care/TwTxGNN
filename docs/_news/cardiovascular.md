@@ -3,7 +3,7 @@ layout: default
 title: "心血管（cardiovascular） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "心血管（cardiovascular） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "心血管（cardiovascular） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/cardiovascular/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cardiovascular/
 ---
 
 <p class="key-answer" data-question="心血管（cardiovascular） 有什麼相關新聞？">
-<strong>心血管（cardiovascular）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心血管（cardiovascular）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/cardiovascular/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [心臟健康靠吃出來！專家欽點15種「護心食物」降低心血管疾病和死亡風險 - Harper's BAZAAR](https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3VjV05yNlJlVFJKbEthXzVldGN5S0tReHcxSXlwcGp3NVpmTE1MckdRbW5YbjJ3Y3RCeDM3ckc3X05HRlFDS1V6ZTZNc3NVZ3lpZ3lXYWNBSVd6d1NIV3dFSjFraGZPZGZXVzRuZ3RCa2dHcjF6MVVnZDZoUGplSFlobnZ4Tkh4bEppS1Fka0pZQk1wVE12Ng?oc=5)
 
 2026-04-30
 
 來源：[Harper's BAZAAR](https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3VjV05yNlJlVFJKbEthXzVldGN5S0tReHcxSXlwcGp3NVpmTE1MckdRbW5YbjJ3Y3RCeDM3ckc3X05HRlFDS1V6ZTZNc3NVZ3lpZ3lXYWNBSVd6d1NIV3dFSjFraGZPZGZXVzRuZ3RCa2dHcjF6MVVnZDZoUGplSFlobnZ4Tkh4bEppS1Fka0pZQk1wVE12Ng?oc=5)
-
----
-
-### [「心包脂肪」增心血管疾病風險 三高患者更應注意](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BUXdTTERaLU9kbnRZWmMyS2ZfeXdqYjFIOV9HUFk3TFl0MmNybERGVWhpSUdsd0s3MDFla0M1WE9MSGFZaVJRZ0R1LUFpdHF6?oc=5)
-
-2026-04-29
-
-來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BUXdTTERaLU9kbnRZWmMyS2ZfeXdqYjFIOV9HUFk3TFl0MmNybERGVWhpSUdsd0s3MDFla0M1WE9MSGFZaVJRZ0R1LUFpdHF6?oc=5)
 
 ---
 
