@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-05-01T22:41:13.118294+00:00",
-  "total_count": 21,
+  "last_updated": "2026-05-01T23:42:59.564861+00:00",
+  "total_count": 22,
   "matched_count": 9,
   "news": [
+    {
+      "id": "4739407abe9c",
+      "title": "維生素D 或成防腦退化關鍵中年水平較高或有助降低患病風險",
+      "published": "2026-05-01T23:00:14+00:00",
+      "summary": "維生素D 或成防腦退化關鍵中年水平較高或有助降低患病風險&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQWUx6T2VXazFEMkFrYm4wSkdKNDJMRWlyMmRDVGxQMjVsZU91RHg1OXhEZkFBcmpfLU81QTNyYlBoYWxBYjd6dS1TaUdiZS11alhkRkNlUnJyYXg1QUhwZ3R5RThhWXhJUDloNzIxMjlfR29CSE5EWVpDOUFmTDNqVWw3ekN1WEx4WWo1NkNtblV1THV3OTl6V280azVIeGxzV2dFZTdtbXRRaTJkR2dMRjJhSlQ0RGpFS0l1dVotWGJ6Qm5RWl9RSUp1YUFsaHA1dXpJYmJoanc2bndLdWlSOHAwWG90N29KbmVGbUlwMHgycWZSTlFQYV9XX2J3S3lySkRPazdubHdJNEo2ajFEMk12Zm5KcU9nQXR3Rm9QTDNVUkllbUNjbnBhdHdjeUJXZ2ZUMWJfQmI5TVNIalUzWmJ5QmFKRjJFOXJvNExDLXNQWlR5RGVCQ2RzX1ZHNTlzNnZ3anpVR3RzV1ZNdzFQZA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "9956c3a88aa6",
       "title": "曬太陽助眠又甩憂鬱！醫曝「2黃金時段」不中暑：15分鐘就夠",
@@ -286,13 +299,13 @@
       "matched_keywords": []
     },
     {
-      "id": "609da5892443",
+      "id": "3a73c221554f",
       "title": "不只防糖尿病！日本人瑞體內「1物多2倍↑」 可抗癌、護血管",
       "published": "2026-05-01T09:45:31+00:00",
-      "summary": "不只防糖尿病！日本人瑞體內「1物多2倍↑」 可抗癌、護血管&nbsp;&nbsp;祝你健康",
+      "summary": "不只防糖尿病！日本人瑞體內「1物多2倍↑」 可抗癌、護血管&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
-          "name": "祝你健康",
+          "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JZU0taHl0RmlPTlBFR05EckctMDVvZ0JlNk9LRU9ob3FTS3RjbEFuZzc3TVVBdjQ1U2lqWmxsVXI3TmZ1dkhCdmx2MUw?oc=5"
         }
       ],
