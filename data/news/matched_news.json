@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-30T23:43:14.039938+00:00",
-  "total_count": 24,
-  "matched_count": 10,
+  "last_updated": "2026-05-01T02:10:13.893590+00:00",
+  "total_count": 26,
+  "matched_count": 11,
   "news": [
+    {
+      "id": "550d86aa4c51",
+      "title": "只是發燒幾天…4歲弟進ICU「沒再回來」　醫嘆：大腦被兇猛摧毀",
+      "published": "2026-05-01T00:31:00+00:00",
+      "summary": "只是發燒幾天…4歲弟進ICU「沒再回來」 醫嘆：大腦被兇猛摧毀&nbsp;&nbsp;ETtoday健康雲",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wWHV4VEE0QzYtS3BNZnZPeVV3Wmd0UVZVaHpVQnQwYVVHQmR3MnowVWV2M2pXcHdMVk5naktwNkVacHhFbVZ3RHZNbmplbmZt0gFsQVVfeXFMT1hNN0EtenFYM01CRDZxQkdMQ1I5NkNyX2NubG5SMnFrdFNvVWU0R29SR1cwVHRSektkUFFMNHhBdFd0Tnk4Y29xdW1OaXlwbms3NmR1TVloZVZ2VklrbWZ4MlhmaExGQjhCYzFm?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "c11bd198cf70",
       "title": "牙痛竟是皮蛇前兆？32歲工程師熬夜3天誘發帶狀皰疹，醫警告：長在頭部恐失明失聰- 書房",
@@ -34,6 +47,54 @@
             {
               "slug": "avelumab",
               "name": "Avelumab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a7413a4b61ed",
+      "title": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵",
+      "published": "2026-04-30T18:02:08+00:00",
+      "summary": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵&nbsp;&nbsp;ENN台灣電報",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1UOVZsR19PS2pWcDA5QkpxUVlaU01zNFh3bWUzQ2NDR2xuVlp4NDI2ZjNUZnQ4QWZDMkE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
@@ -724,13 +785,13 @@
       "matched_keywords": []
     },
     {
-      "id": "69b270ad1e1e",
+      "id": "3699a891ce6b",
       "title": "糖分攝取過量不止會肥！研究揭「體內焦糖化」恐加速衰老增失智、 癌症風險",
       "published": "2026-04-29T23:00:59+00:00",
-      "summary": "糖分攝取過量不止會肥！研究揭「體內焦糖化」恐加速衰老增失智、 癌症風險&nbsp;&nbsp;巴士的報養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱每天1杯果汁慘了- 營養好食&nbsp;&nbsp;TVBS 健康2.0不菸不酒也罹癌？癌症不是壞掉，是訊號斷線…吃進去的每一口天然食材，都在叫癌細胞閉嘴&nbsp;&nbsp;幸福熟齡醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;東森新聞大腸癌｜空腹喝高糖飲品腐蝕腸黏膜 早餐改黑咖啡/水抗炎護腸道&nbsp;&nbsp;香港01",
+      "summary": "糖分攝取過量不止會肥！研究揭「體內焦糖化」恐加速衰老增失智、 癌症風險&nbsp;&nbsp;bastillepost.com養生飲竟是「餵癌」？腫瘤科醫揭3大偽健康飲品陷阱 每天1杯果汁慘了&nbsp;&nbsp;TVBS 健康2.0不菸不酒也罹癌？癌症不是壞掉，是訊號斷線…吃進去的每一口天然食材，都在叫癌細胞閉嘴&nbsp;&nbsp;幸福熟齡醫起看／醫揭3大「偽健康飲品」竟成致癌溫床：每天一杯恐毀健康&nbsp;&nbsp;東森新聞大腸癌｜空腹喝高糖飲品腐蝕腸黏膜 早餐改黑咖啡/水抗炎護腸道&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQLWN2TFV3aFRUVmRXUDFxSy03aHV2dkV4UjZ2ZGJFbUhiOXJDZFFXSUd6Y0ZOaU5ySlRnN1pJR1Flc3NZQW1kSVhPN0NBSk5wTEJfYUdpMzN3UlgwV2ZQSkw1RTRISEEtQThCOFNaWjAxenFpSkJObGlPTlNEWGN5aTJVaTZZaHk5WkFKNFRWV2FnemVtTXVIeU00dzBzT18xNG1IQkhQLXdtSUV1WTZHczJURWxNRWlDNTBSX2gzYkR1S2VGT29nX0FqQTl1Qno5aS1BS3RMdHNzZUVvRWJVc3FaSjFNTmhxOEd1eGpDSEo1VGQybWtXV2FqbEZqcm1mSXUtSlJhUVE4X1VjSTBSUkhESVRoNnoweHBEaDN1WGpOOWdleG9rREc5d01vNDZBRzB2SnVOX2xfeGE0VUFhcU94MkEwbmJSXzZkWDJoVXM3RXNhU0FuOGpsa29fc2RETEJLV0JYR25Fdi03Qnc?oc=5"
         }
       ],
@@ -1235,14 +1296,14 @@
       "matched_keywords": []
     },
     {
-      "id": "6d0c55604b55",
-      "title": "玫瑰痤瘡治療｜35歲女律師臉部飽受紅斑困擾情緒焦慮加重病情｜西醫精準藥物+中醫辨證調養助復發風險降逾七成",
-      "published": "2026-04-29T04:17:48+00:00",
-      "summary": "玫瑰痤瘡治療｜35歲女律師臉部飽受紅斑困擾情緒焦慮加重病情｜西醫精準藥物+中醫辨證調養助復發風險降逾七成&nbsp;&nbsp;healthyD中西醫結合治療新突破 有效控制玫瑰痤瘡並降低復發&nbsp;&nbsp;Singtaousa國際玫瑰斑月！玫瑰斑不止跟蟎蟲有關？權威醫師提醒：「這」原因造成的更嚴重&nbsp;&nbsp;蕃新聞臉反覆紅腫 疑玫瑰斑警訊 8成患者生活受影響&nbsp;&nbsp;世界新聞網臉紅非小事！「以為只是過敏」卻反覆發作...皮膚科醫：玫瑰斑恐被低估成常見過敏 | 信傳媒&nbsp;&nbsp;LINE TODAY",
+      "id": "611f24bdddaf",
+      "title": "中、西醫治療玫瑰痤瘡相輔相承 提升療效且減少復發",
+      "published": "2026-04-29T05:00:53+00:00",
+      "summary": "中、西醫治療玫瑰痤瘡相輔相承 提升療效且減少復發&nbsp;&nbsp;香港01玫瑰痤瘡治療｜35歲女律師臉部飽受紅斑困擾情緒焦慮加重病情｜西醫精準藥物+中醫辨證調養助復發風險降逾七成&nbsp;&nbsp;healthyD中西醫結合治療新突破 有效控制玫瑰痤瘡並降低復發&nbsp;&nbsp;Singtaousa國際玫瑰斑月！玫瑰斑不止跟蟎蟲有關？權威醫師提醒：「這」原因造成的更嚴重&nbsp;&nbsp;蕃新聞臉反覆紅腫 疑玫瑰斑警訊 8成患者生活受影響&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "healthyD",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxONkxXeFpHWDBpYlJRSjNYVWhvX3p4SEZrMlNHem02ZG5wY2paRk1JbWhZVW1BVTV1dXdGR1BwUDEtS0hnYkc3LXUzSzNCaElEd29NbmhYVGJIcVZ4YjVSTmJtZ21ObmlsMkxvenJBX1RHUFlIWVkxTHM3ZmRjYVRKTi1YS0VPaDltSmVWemdEMmhMMEI4ODNNaXVPVi1BTHNGaG5vYVhXZUZPckxEeTNRaDRkMnBJTzg4bG04ZUVzTlE4bjM5TjJnb2NPY3J1RDh0TXB0N244ZjZHNE1adWVONXdKcWtXX3UyMXRJMnJnenRFbGdQdjh4LXNZdWZYNjZYTnVvMnQxUHM2WEtQa1lSQWU5YzQ3X1Y5Wi1VQzZTcnFaUkdwU2JBTFVUVUxORmhNLUVBcGtKbnlOcmFTV2hlTk9VM0kxUQ?oc=5"
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQMk51MjhldmV5OVFGNEUwNGp0NmktbXRGMmVpR3dNLXBhNFBhNnVTZ1Z0RnVhSmEySEg0WElaYmN3YTFtSE5qckdHUEh5UHlrUEZ6ZUNZZXN2ZXo0QWRCZlZ3ZS01SEJHdnBrUDJGSkhHNkctdnpFOUJaYWlHOEhZRzhoWEtfaE42RC1xZE54TF9ONzFmZFFjYXdYSDd5bjFZc0REcVctZ3NNZmpxUUxEdENleVRObG1pRHZHUmpyNVRvRGhLWUt1TS1LTFV2dGw2RENuSWtObHA1VU5LRGRFX2hUSXYtYWpRRU5zbTRrb182dHJCeEVOUzRMNktpaDhNaVlXSkpXdVA5Z2pwblcwV2JQam1HUDRWSXVSTXg5ZW1aSnRtZEpvcEUwT2hFcUNINFc1NzlJREhROExnSlhaX2d6YlZ1LUFCd2ppdm1NR3hoeE40ZEZMbHBmdzhGc1hGc3pyYzlSU3BTOHVTdGc?oc=5"
         }
       ],
       "matched_keywords": []
