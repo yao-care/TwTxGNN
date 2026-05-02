@@ -14,7 +14,7 @@ permalink: /news/nystatin/
 ---
 
 <p class="key-answer" data-question="Nystatin 有什麼相關新聞？">
-<strong>Nystatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nystatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/nystatin/
 <p><a href="{{ '/drugs/nystatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [3D 研究分析面部衰老軌跡女性更年期後老化明顯加速](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNNDFMcmkwQmJicmhyM1h0RGNoTXcyalhndTcxNEh2M3REaW9mRy1lckMtbGM0RU9fUE5OU1VJQW9fclpwRl9KUzNSM3RNV2Ewcm1xcUluN0RLMUJVTjk3UEZIWmRmdVY1UXRac1podmRrMkd5TFpOcHlqc1pMemlmR04wem9mVVBSTkNoc2xCaENhQTdZamxHNTI1aGJ1T2lmY3lPME1HY2NPVjFHZHhTYkVMLXpzUFFpMDZCdlU0enVZUFBNS2h1dG9US181bXgxR2FCVTVDYzlsWms2WFotZVQ0SUpFcTdkM256R1VPN3RRNFgxTER3Z1huX3dyRGQwV2l0QUJHTzJ5RzVBS0FKcnl1bG1sbGkyemdmY2wwM3FpUUNfZUgyNGlHWlJoaEpTbU1sUnNZc0RKTmlVLUF2cHdpemR5dmtMSFJCYWZ1aFZNeUg5ZFhYVXJoNmltUXI1MzFCNkx3?oc=5)
+
+2026-05-02 <span class="news-indication-tag">更年期</span>
+
+來源：[巴士的報](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNNDFMcmkwQmJicmhyM1h0RGNoTXcyalhndTcxNEh2M3REaW9mRy1lckMtbGM0RU9fUE5OU1VJQW9fclpwRl9KUzNSM3RNV2Ewcm1xcUluN0RLMUJVTjk3UEZIWmRmdVY1UXRac1podmRrMkd5TFpOcHlqc1pMemlmR04wem9mVVBSTkNoc2xCaENhQTdZamxHNTI1aGJ1T2lmY3lPME1HY2NPVjFHZHhTYkVMLXpzUFFpMDZCdlU0enVZUFBNS2h1dG9US181bXgxR2FCVTVDYzlsWms2WFotZVQ0SUpFcTdkM256R1VPN3RRNFgxTER3Z1huX3dyRGQwV2l0QUJHTzJ5RzVBS0FKcnl1bG1sbGkyemdmY2wwM3FpUUNfZUgyNGlHWlJoaEpTbU1sUnNZc0RKTmlVLUF2cHdpemR5dmtMSFJCYWZ1aFZNeUg5ZFhYVXJoNmltUXI1MzFCNkx3?oc=5)
+
+---
 
 
 <div class="disclaimer">

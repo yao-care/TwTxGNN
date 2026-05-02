@@ -1,8 +1,45 @@
 {
-  "last_updated": "2026-05-02T22:31:28.761301+00:00",
-  "total_count": 17,
-  "matched_count": 6,
+  "last_updated": "2026-05-02T23:34:47.129905+00:00",
+  "total_count": 18,
+  "matched_count": 7,
   "news": [
+    {
+      "id": "c3305a1bf320",
+      "title": "3D 研究分析面部衰老軌跡女性更年期後老化明顯加速",
+      "published": "2026-05-02T23:00:28+00:00",
+      "summary": "3D 研究分析面部衰老軌跡女性更年期後老化明顯加速&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNNDFMcmkwQmJicmhyM1h0RGNoTXcyalhndTcxNEh2M3REaW9mRy1lckMtbGM0RU9fUE5OU1VJQW9fclpwRl9KUzNSM3RNV2Ewcm1xcUluN0RLMUJVTjk3UEZIWmRmdVY1UXRac1podmRrMkd5TFpOcHlqc1pMemlmR04wem9mVVBSTkNoc2xCaENhQTdZamxHNTI1aGJ1T2lmY3lPME1HY2NPVjFHZHhTYkVMLXpzUFFpMDZCdlU0enVZUFBNS2h1dG9US181bXgxR2FCVTVDYzlsWms2WFotZVQ0SUpFcTdkM256R1VPN3RRNFgxTER3Z1huX3dyRGQwV2l0QUJHTzJ5RzVBS0FKcnl1bG1sbGkyemdmY2wwM3FpUUNfZUgyNGlHWlJoaEpTbU1sUnNZc0RKTmlVLUF2cHdpemR5dmtMSFJCYWZ1aFZNeUg5ZFhYVXJoNmltUXI1MzFCNkx3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "c4e7eb785ca7",
       "title": "危險的阿米巴原蟲在世界各地蔓延，科學家敲響了警鐘",
