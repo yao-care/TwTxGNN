@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-02T06:59:10.711422+00:00",
+  "fetched_at": "2026-05-02T08:21:09.233636+00:00",
   "count": 21,
   "news": [
     {
@@ -172,6 +172,18 @@
       ]
     },
     {
+      "id": "8817c71588b1",
+      "title": "安義男子手抓野貓救老伴 染漢坦病毒直入ICU 確診嚴重腎損傷 - Techritual Hong Kong",
+      "published": "2026-05-02T08:02:46+00:00",
+      "summary": "安義男子手抓野貓救老伴 染漢坦病毒直入ICU 確診嚴重腎損傷&nbsp;&nbsp;Techritual Hong Kong",
+      "sources": [
+        {
+          "name": "Techritual Hong Kong",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WbUhNa0NROXhPR1Vmb2o5RDZxWlJRYnREMmMxSGxLYmRkSGlpOWpaS1BMZ1FyU1lvejNObExSbl96QU5qd2RDTEhNTWdpUUVLR3U2ekNLSzE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3eeeb66b455f",
       "title": "美國北卡羅萊納州癌症患者出現罕見外國口音綜合症，治療期間突變愛爾蘭腔調 - Singtaousa",
       "published": "2026-05-02T06:30:00+00:00",
@@ -240,18 +252,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOQXN1cWIyUUNYRjJqSkw5bEx3NjA4ZFdyNzZpSEp2TmtiZlNqWkNTUGZ3UmN0NVpLd1VVMVB5azNjLWk3MW9xTWRvYkJrbmtpRXFUQWNiaWdwMnVaSFNibVRlM1N6R0Z4amhYb29tRjAzdl9tNF9YOUQxMTJDdGpqR2xyQTlDejdyWkUzTzZkOVVKOU5DRFBpRDQyeHJibmlhTElpTlpiWVBWNXRxWUNnbzZRbVZfT3NkRFlBdm1sNFctQnAzbmtpMGU0TF9ScGt6TndsOVNPQkRzUlNuRlVLbEF0WHROTkhvLXVTZWp5TWpRV2dzV2ZmYzM2NmRmbEJyRFFoNUZEZU0zbzQ5aHJfTUJicERieWhPdENVQzFFNDlMdmtoLTBJMm1xRXdzR2pCVzdrdjlFWEs5aHMyQXd2UTVqeFViRGEtSUl6WGRlX3Z5Y0tFdkI1UVpFVmNjX1FWMkpQWVF2LUd6VW9tRGREaEVOd0tXUjIyR0VxMUswLU45eXRELVpKeXNyb1pGTEJONm1YcmdEdDNrYU4xdGpIZXd4NWZFNXRDNGxNR2dVQjBRR1ZCamR5azVDYlZQVWFhU1JPR2FPLXlYdjdaTzlJWUloc3lySktSOVFOUUdSUFhYeFhf?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "01bf178984c0",
-      "title": "明星近況｜前TVB御用印度人陳振華患鼻咽癌4期 抗癌年半容光煥發 北上嘆潮汕生醃 - 香港經濟日報HKET",
-      "published": "2026-04-30T06:09:02+00:00",
-      "summary": "明星近況｜前TVB御用印度人陳振華患鼻咽癌4期 抗癌年半容光煥發 北上嘆潮汕生醃&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pVlJ3VUhjLUprWkhQSmVlN3MxTWQydllXaU44VjFZNGE1UEI2d0tWTHAweDV0Uk14Y2ZLNmlCUWVIaWNJS3p2dWVfb1dZci1jMEE?oc=5"
         }
       ]
     }
