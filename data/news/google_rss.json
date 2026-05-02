@@ -1,24 +1,36 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-02T01:57:14.697642+00:00",
-  "count": 20,
+  "fetched_at": "2026-05-02T04:57:01.814751+00:00",
+  "count": 17,
   "news": [
     {
-      "id": "ef01e6334c2f",
-      "title": "年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵 - 聯合新聞網",
-      "published": "2026-05-01T11:38:52+00:00",
-      "summary": "年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵&nbsp;&nbsp;聯合新聞網這11種癌症在年輕人中增加，科學家首次找到原因線索&nbsp;&nbsp;BBC年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」&nbsp;&nbsp;自由健康網研究：年輕人罹大腸癌案例增加 恐與常用除草劑有關&nbsp;&nbsp;世界新聞網2026 AACR揭年輕癌症警訊！從微生物致突變到免疫療法抗藥機制浮現&nbsp;&nbsp;環球生技",
+      "id": "1b14302b43fe",
+      "title": "澳洲拚全球第一！子宮頸癌將被「消滅」 預計2035年前達標 - TVBS新聞網",
+      "published": "2026-05-02T01:58:00+00:00",
+      "summary": "澳洲拚全球第一！子宮頸癌將被「消滅」 預計2035年前達標&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HSERuU0JkVEY3MXZTUTdhVVNYc3plU2U4d21Da3p5TzZtQW9MVEVBa1pzb1VBd0NETDY2OFZMMTJZQzV3OFN4MkllRG9wS01o0gFWQVVfeXFMTVVULWhNNEhpX3NsOTZYdGNoNW82WURjTWVJcm40TFlYTURHVndaZUplNWpqQWo4TnhqNktLc21kMWxsVFNqd21RRUJ1VmdaaDdRaHM3TGc?oc=5"
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14Y2t2LU1ya3NrRmRiYldkTWNJdGI2U09FRGZGRFNVbjZHQUt2WDdCQnRIU0I2blVhb2F0U09MM1VWVVFIMVBEYzlZaG1qNEk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "33030685d4d4",
+      "title": "癌症為何開始攻擊年輕人？英國研究：11種癌症發病率激增，「體重超標」是關鍵殺手| BBC News 中文 | 新聞 - 風傳媒",
+      "published": "2026-04-30T07:10:26+00:00",
+      "summary": "癌症為何開始攻擊年輕人？英國研究：11種癌症發病率激增，「體重超標」是關鍵殺手| BBC News 中文 | 新聞&nbsp;&nbsp;風傳媒這11種癌症在年輕人中增加，科學家首次找到原因線索&nbsp;&nbsp;BBC年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵&nbsp;&nbsp;聯合新聞網年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」&nbsp;&nbsp;自由健康網研究：年輕人罹大腸癌案例增加 恐與常用除草劑有關&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "風傳媒",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0bkh4dDlGTFRMU0pOUVFWMUdzaFZBTHl2ZVVTMWVJd1RxcVRYejBURlFVRDBtUHJvWFNNUkNzU3AwSThHMmwxY2ZXZ2pCZw?oc=5"
         }
       ]
     },
     {
       "id": "3a73c221554f",
       "title": "不只防糖尿病！日本人瑞體內「1物多2倍↑」 可抗癌、護血管 - 三立新聞網SETN.com",
-      "published": "2026-05-01T09:45:31+00:00",
+      "published": "2026-05-01T09:43:35+00:00",
       "summary": "不只防糖尿病！日本人瑞體內「1物多2倍↑」 可抗癌、護血管&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
@@ -64,18 +76,6 @@
       ]
     },
     {
-      "id": "9956c3a88aa6",
-      "title": "曬太陽助眠又甩憂鬱！醫曝「2黃金時段」不中暑：15分鐘就夠 - TVBS新聞網",
-      "published": "2026-05-01T19:00:00+00:00",
-      "summary": "曬太陽助眠又甩憂鬱！醫曝「2黃金時段」不中暑：15分鐘就夠&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsa1B4TGZmVU5vMHo1MTQzT1o1ZVphUGk3TElJNFBsOG1vQWRwdTNoODJkVVh6a0hfTm5FTElveU82VmxTb180bzJMeU1XT01W?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0df012dfed7e",
       "title": "男性罹癌新線索！HPV疫苗實測結果曝光：相關癌症風險大降46％ | 自由電子報 - LINE TODAY",
       "published": "2026-05-01T07:52:19+00:00",
@@ -88,14 +88,14 @@
       ]
     },
     {
-      "id": "d8dc29adf57d",
-      "title": "聖地牙哥基孔肯雅熱病例增加：一週新增16例 - arch-web.com.tw",
-      "published": "2026-04-30T15:28:33+00:00",
-      "summary": "聖地牙哥基孔肯雅熱病例增加：一週新增16例&nbsp;&nbsp;arch-web.com.tw",
+      "id": "9956c3a88aa6",
+      "title": "曬太陽助眠又甩憂鬱！醫曝「2黃金時段」不中暑：15分鐘就夠 - TVBS新聞網",
+      "published": "2026-05-01T19:00:00+00:00",
+      "summary": "曬太陽助眠又甩憂鬱！醫曝「2黃金時段」不中暑：15分鐘就夠&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPZ0VlS2ZCbEI3cXFPTVNpQ0dwWHZoSVViSHJzZHM0em1rZC1MS2lNY0FBOGotR1dWVS0wQ2NvalZmcUgyQmVBczMxMEdkQk9ybHhTaHdDdXhvQjRJTmVIU2hsS3lGZ3VrMlkyVU16bHNIbTdvbVJwUWd1THlfZHFGOWJBWVlrX2psV2RSQmZNMy1QczFyN1FRU00wdlpvd0JuN3JMZTVTTVBXNjh6QlhXdTRURG12c01WaE5tQWp0dm1ZVlFZTHYxMkgyeGMxR1h3ckZ1dHVYX2MxTWNscjRlMWp0enFHb1lnb1hHTEhtYWFCMHlZbkt6WTVwU1hhdzk4U0RxeHJFRDluQlBkUHlCRTAxZGdMdi16V0U1UjM5aGtOSHRPSVl0b2F2THFNRXlOR1lYRG1SdUk2YnNPeDdfS0RCREpYdTZCazVDTWxEbXljQmw1N3dDS2ZmSk82X3pFOTRzZw?oc=5"
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsa1B4TGZmVU5vMHo1MTQzT1o1ZVphUGk3TElJNFBsOG1vQWRwdTNoODJkVVh6a0hfTm5FTElveU82VmxTb180bzJMeU1XT01W?oc=5"
         }
       ]
     },
@@ -124,18 +124,6 @@
       ]
     },
     {
-      "id": "73cf687aa387",
-      "title": "科學家透過阻斷單一阿茲海默症蛋白來恢復記憶 - arch-web.com.tw",
-      "published": "2026-04-30T08:49:04+00:00",
-      "summary": "科學家透過阻斷單一阿茲海默症蛋白來恢復記憶&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOVkJUSUNEOHVTcV83ZUdFekVRMm4yQTNGam9CTldWME9qVktfWXdFbVhiZThfMVVZTFpCNS01RC1sb1hKT2FxZXBud0pXamttTkhFbFYtNE1jMXpVYW5Td3ZIa3NreGFsc0R4VDhUTExDdFdvbXFjOUY4V0Rzd1E3eDZCN01NZkd6aVN0aTRVUmJQSnF2Ul9uTGNvX1d3Y3VFM3dRZlZfLVBTWTRBZ1h2bFRqblJaZ0MyUmxUSjlQMXlMQ09wUERsbWdBOTQ4Y3JsWmM5dHNWOXgzeHN5Vl9nUnRUbUhILXlRM3B6MWhqb3ZjQ25xcEltNkprVHB4Z2UwRnFwSTVxLWlkSE0weXhoVVZpd1MzLVNseWRrdnFrSzJBQ0x6cTNIR1FSTURndXNKUXNkaUV4OHFOc25qQ1JHazl2OGJPeTUyM1hteVFacUR1TDVobXNONGhDQllmRzJlR0hNWm44M3A5NVRtcW81VFVEc3NSbEFDTnc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7127e5e29c50",
       "title": "心臟健康靠吃出來！專家欽點15種「護心食物」降低心血管疾病和死亡風險 - Harper's BAZAAR",
       "published": "2026-04-30T08:28:59+00:00",
@@ -144,30 +132,6 @@
         {
           "name": "Harper's BAZAAR",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3VjV05yNlJlVFJKbEthXzVldGN5S0tReHcxSXlwcGp3NVpmTE1MckdRbW5YbjJ3Y3RCeDM3ckc3X05HRlFDS1V6ZTZNc3NVZ3lpZ3lXYWNBSVd6d1NIV3dFSjFraGZPZGZXVzRuZ3RCa2dHcjF6MVVnZDZoUGplSFlobnZ4Tkh4bEppS1Fka0pZQk1wVE12Ng?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9cf81e2e5bcf",
-      "title": "第一個 3D 視圖顯示殺傷性 T 細胞如何消滅癌症 - arch-web.com.tw",
-      "published": "2026-04-30T05:36:59+00:00",
-      "summary": "第一個 3D 視圖顯示殺傷性 T 細胞如何消滅癌症&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPOHlKRWJzS1VOMEM0MVVtY05nZjhIaGx3Wkh1MEhfWG9NZDczb0dJTnlCTE1fUnZOa3dmbFd3cDRjTHBpWjJtUlFFMVZKVWR0YUdBZGc2bFZDc0RnZnNFR3NJaGlGWms1czluaTZMblJveV94RVhqbFZlY2RWd2tmU2pERFNlMXJNRFdLeVZCXzkwWGtNRzJQQmllbEs2SXdhQWFaME1XVFRXYXFmVWF5TDNqTUlHMVVuQm82RXE0SDdZdUpMRkJ4SXlwU3FOb3M4eUlvRW5UWFo3UkJiRmNMSmdDMVJXMG9qM05BV09HTUlvOURIenJUYldkdTM5UUI1aHF5OGZyVWhMUkU5QkpHZ1gzdkVUSld0eTVkdVRscVMyRmZMQ3RPaXVuTGFqM3FZbVlLcEx1bGNTQ3VDX0U0NndHOU9Nel8zOTY5NURvU1N5N09jRWh3djVxYVNTVE0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7f591cb2bd73",
-      "title": "兒癌終極挑戰 質子是首選 - 《現代保險》雜誌",
-      "published": "2026-04-30T03:21:44+00:00",
-      "summary": "兒癌終極挑戰 質子是首選&nbsp;&nbsp;《現代保險》雜誌",
-      "sources": [
-        {
-          "name": "《現代保險》雜誌",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Obk40c1d3S2tYNW5LNlJhYnN5SUQ4cU1hVktKaUcwQUhNNGFMUUFIWVJDWHZNTTY2ZHRzSmlCNEQ5OGZhVWVKQ2liQTliNXRSVl80?oc=5"
         }
       ]
     },
@@ -196,6 +160,18 @@
       ]
     },
     {
+      "id": "79107118d54f",
+      "title": "日本研究：下廚能預防失智症！購買食材、控制火候過程等同「大腦做Gym」 - 星島頭條",
+      "published": "2026-05-01T03:35:09+00:00",
+      "summary": "日本研究：下廚能預防失智症！購買食材、控制火候過程等同「大腦做Gym」&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPa3JTTnRCc3R1T2ZmT1NKb3ZwUEtSdnZMWHBkRkJpRmRUVkdfNkl3cml4N3Q5cGhoUkRCcTlweFU3c0cxTWU3Nk85eGxrX1lJcU5hRldacjlsTkZ2THpJc1FYN255clZ0Q1RvWEVjbWFqdmJxSWktaDNSaFNJeXNKTmdndlBZa3duU2Q5SkthMVhHbXJHZzJvbGh4NWs0a1Nkbl9lci1oOWl2cHN0elppREVSc0J0N3N3N0JjNGVWRlhVYUs4LWY0c01WVnZqRkJ6MGpIX0l4bmZ3QWcyZFNIS2pjTVltXzVEd2h5MVFodTdleU9sNkkxTkxscTJWUjN3WGp0OGdRMGVVVG5RWk9ZRUVJZWR5UUxVblNJV1RuQ3Z5S29DMVdYeDNrMmFiNVpVVlZ0M3V0RjdVLS1Lb2M3aFUtVWdjQmVkZTU3bW9qaW93Sm9zMXUtMExwZG02aWRGMVBVdlNXR0ctQmxOUTJIakRseDJ0WkdYZDFiWHphTV9RSWRpUjVDZzVoOHZYNUpIaE00d05leDU2WXMxQ01F?oc=5"
+        }
+      ]
+    },
+    {
       "id": "aa4e5f203cb1",
       "title": "經歷癌症腦瘤雙重打擊 64歲港婦重拾人生主導權 「心境係良藥！」 - 星島頭條",
       "published": "2026-05-01T04:00:00+00:00",
@@ -204,18 +180,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxOQWMwd1NsX0xNNXVBRWVQM044eVZQMlliU2dVTENvRXo4QXJ5a2d0NFNSMnp5d2tGM3R6RXlteUdtZ3lHcm8xT3JJU3ktUlBDM0VmQ2FjTHZEYzFtQXFFaTBjenJ6ZkJIVTZGWmxZX01kb0g0MUFPVWtwWTBFM2JiNmFTV3NwSTVmTnZFWDdWSDBGcW1pMmYxS214N0U0Ym9qbGlBZVh0QXhpV3lBbzd6Q3V3X1NCWXUtR3FMMmpwa1NkNUNOMWpaM0c1cU5KZWFwaTIwU0dLenJObjNBaW1YTzlEVHVPVUM4WVJSeDRPWF8zU25aV2hOUDNlR1pvSVE2Q2thVi12NnFsMHBpZWVpVmtjaWRLXzVOWnYtbFVaM0huTUNCMktxakx1R29ESzktck1BcGFDTEltU1FIeWV1MkZCR1dYbzBZXzItODVjOE5lMTRvaGpUMEd2b0hBdUFHVTY2aVpFWjRaR2N5cmdfQ2g3Ykhld205QXpOWHp4UmdqVHk4Z3RKTHpVNDI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2c131cc962a1",
-      "title": "研究發現已婚者患癌風險較低 - 华尔街日报中文网",
-      "published": "2026-04-30T02:48:12+00:00",
-      "summary": "研究發現已婚者患癌風險較低&nbsp;&nbsp;华尔街日报中文网",
-      "sources": [
-        {
-          "name": "华尔街日报中文网",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOUtKWDZReXJYS0xrWGtTTUM3WXF1MFB3dmxQQjBsdDlnUTZteldGaXZaaERsVFc3R21rUTY3eUNxazgwTy1ZejBuZ2hITmtKTVAxeHp4c0oxZkhxVUFKbW1WVTBPZGFJOWV3N2plYl9DQ3Y1dmxWMnlIbzcxTGNpVnUtcTRGSXdxN1h6ZzZjUTRuU0xmenhrZ1NrOWg3VDI0UzRLVDBRU3RDeU1YUTVoa1FONnVqUTNpNmNVMGVKWjNhLTk4ci1FX04ydTNxdlh3QlNlbFdvOVUxNTlTX00zVjFvTTY5SUpldFE?oc=5"
         }
       ]
     },
