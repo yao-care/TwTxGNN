@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-02T18:44:37.166387+00:00",
-  "total_count": 16,
+  "last_updated": "2026-05-02T19:48:26.816789+00:00",
+  "total_count": 17,
   "matched_count": 6,
   "news": [
     {
@@ -868,6 +868,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "7f591cb2bd73",
+      "title": "兒癌終極挑戰 質子是首選",
+      "published": "2026-04-30T03:21:44+00:00",
+      "summary": "兒癌終極挑戰 質子是首選&nbsp;&nbsp;《現代保險》雜誌",
+      "sources": [
+        {
+          "name": "《現代保險》雜誌",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Obk40c1d3S2tYNW5LNlJhYnN5SUQ4cU1hVktKaUcwQUhNNGFMUUFIWVJDWHZNTTY2ZHRzSmlCNEQ5OGZhVWVKQ2liQTliNXRSVl80?oc=5"
+        }
+      ],
+      "matched_keywords": []
     }
   ]
 }
