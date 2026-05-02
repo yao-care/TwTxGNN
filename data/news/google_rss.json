@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-02T09:54:15.535778+00:00",
-  "count": 20,
+  "fetched_at": "2026-05-02T10:42:50.256701+00:00",
+  "count": 18,
   "news": [
     {
       "id": "542bfcc6395a",
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "1b14302b43fe",
-      "title": "澳洲拚全球第一！子宮頸癌將被「消滅」 預計2035年前達標 - TVBS新聞網",
-      "published": "2026-05-02T01:58:00+00:00",
-      "summary": "澳洲拚全球第一！子宮頸癌將被「消滅」 預計2035年前達標&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14Y2t2LU1ya3NrRmRiYldkTWNJdGI2U09FRGZGRFNVbjZHQUt2WDdCQnRIU0I2blVhb2F0U09MM1VWVVFIMVBEYzlZaG1qNEk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ef01e6334c2f",
       "title": "年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵 - 聯合新聞網",
       "published": "2026-05-01T11:38:52+00:00",
@@ -55,23 +43,11 @@
       "id": "3a73c221554f",
       "title": "不只防糖尿病！日本人瑞體內「1物多2倍↑」 可抗癌、護血管 - 三立新聞網SETN.com",
       "published": "2026-05-01T09:43:35+00:00",
-      "summary": "不只防糖尿病！日本人瑞體內「1物多2倍↑」 可抗癌、護血管&nbsp;&nbsp;三立新聞網SETN.com",
+      "summary": "不只防糖尿病！日本人瑞體內「1物多2倍↑」 可抗癌、護血管&nbsp;&nbsp;三立新聞網SETN.com百歲人瑞多3倍！研究揭日本「長壽鎮」秘密 每天必吃「5食物」助延壽&nbsp;&nbsp;三立新聞網SETN.com日本人為什麼最長壽？研究：「這種荷爾蒙」濃度比別人高2倍！&nbsp;&nbsp;Yahoo新聞日本人瑞長壽關鍵曝光！可抗癌、防糖尿病&nbsp;&nbsp;鏡週刊Mirror Media日人瑞1荷爾蒙多2倍！專家曝「3食物」助分泌：抗癌又防糖尿病&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
           "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JZU0taHl0RmlPTlBFR05EckctMDVvZ0JlNk9LRU9ob3FTS3RjbEFuZzc3TVVBdjQ1U2lqWmxsVXI3TmZ1dkhCdmx2MUw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a7413a4b61ed",
-      "title": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵 - ENN台灣電報",
-      "published": "2026-04-30T18:02:08+00:00",
-      "summary": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵&nbsp;&nbsp;ENN台灣電報前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1UOVZsR19PS2pWcDA5QkpxUVlaU01zNFh3bWUzQ2NDR2xuVlp4NDI2ZjNUZnQ4QWZDMkE?oc=5"
         }
       ]
     },
@@ -112,6 +88,18 @@
       ]
     },
     {
+      "id": "ed6d5997425e",
+      "title": "吃優格防大腸癌！每週至少吃2次 營養師教「選這種」最有效 - TVBS新聞網",
+      "published": "2026-05-01T07:13:00+00:00",
+      "summary": "吃優格防大腸癌！每週至少吃2次 營養師教「選這種」最有效&nbsp;&nbsp;TVBS新聞網前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIc1lWeTRSbzhqN3hEeTBTYV9NTGJCUXZGdXZLTURFUTd0aS12UGZKMHFFQzRSVE4tT2FTVFZpVXJpOHhBai1JWVZxT05zWWlM?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9956c3a88aa6",
       "title": "曬太陽助眠又甩憂鬱！醫曝「2黃金時段」不中暑：15分鐘就夠 - TVBS新聞網",
       "published": "2026-05-01T19:00:00+00:00",
@@ -144,18 +132,6 @@
         {
           "name": "PopLady",
           "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUHI5LVV6Y004elV1T2JuMW95dW44OXk0Yjl5U2VSbmdRdVJHdEhWQjBybHNQbTNSSXE3MGRiNEd2TXBFcVF4dVpHWEhyNFFfN3pvd0dvWFJkeGU5VG8yQXYxT0ZpTWRXZjdhNzczbGFLbGJ5ZE9qZDhDZnF0TjJnbDIzUk9PMllaVERuNXVOZ1pROHpvd0Myd1NGWmpEbFdzX1Ryb3pUajBkcnZfWTRSRU5na2FyU2R1c2Z0eXhVY2FWcl9UWVh3Ty1qRm9hMFRhVzFxSG1mMFl0YjlPd2IzMGIzdmNDRWtTaDlaNFFWQ2k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5c00d5884737",
-      "title": "看似健康竟突發心肌梗塞？醫師揭「健檢盲點」：99%人忽略這數值， 恐是血管隱形殺手 - 風傳媒",
-      "published": "2026-04-30T09:13:51+00:00",
-      "summary": "看似健康竟突發心肌梗塞？醫師揭「健檢盲點」：99%人忽略這數值， 恐是血管隱形殺手&nbsp;&nbsp;風傳媒",
-      "sources": [
-        {
-          "name": "風傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4td044XzNHYURNbGE4bmtCeTRQRmZlRFVoS1lBQ20yb0FuUGxUY2w5WmIxMmJRcW9lNjg3SEZEZGRFTkFaTXN1OTZtckZtZE5k?oc=5"
         }
       ]
     },

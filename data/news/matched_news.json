@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-02T09:54:20.121416+00:00",
-  "total_count": 20,
-  "matched_count": 8,
+  "last_updated": "2026-05-02T10:42:54.405385+00:00",
+  "total_count": 18,
+  "matched_count": 6,
   "news": [
     {
       "id": "8817c71588b1",
@@ -250,31 +250,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "1b14302b43fe",
-      "title": "澳洲拚全球第一！子宮頸癌將被「消滅」 預計2035年前達標",
-      "published": "2026-05-02T01:58:00+00:00",
-      "summary": "澳洲拚全球第一！子宮頸癌將被「消滅」 預計2035年前達標&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14Y2t2LU1ya3NrRmRiYldkTWNJdGI2U09FRGZGRFNVbjZHQUt2WDdCQnRIU0I2blVhb2F0U09MM1VWVVFIMVBEYzlZaG1qNEk?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "9956c3a88aa6",
@@ -562,7 +537,7 @@
       "id": "3a73c221554f",
       "title": "不只防糖尿病！日本人瑞體內「1物多2倍↑」 可抗癌、護血管",
       "published": "2026-05-01T09:43:35+00:00",
-      "summary": "不只防糖尿病！日本人瑞體內「1物多2倍↑」 可抗癌、護血管&nbsp;&nbsp;三立新聞網SETN.com",
+      "summary": "不只防糖尿病！日本人瑞體內「1物多2倍↑」 可抗癌、護血管&nbsp;&nbsp;三立新聞網SETN.com百歲人瑞多3倍！研究揭日本「長壽鎮」秘密 每天必吃「5食物」助延壽&nbsp;&nbsp;三立新聞網SETN.com日本人為什麼最長壽？研究：「這種荷爾蒙」濃度比別人高2倍！&nbsp;&nbsp;Yahoo新聞日本人瑞長壽關鍵曝光！可抗癌、防糖尿病&nbsp;&nbsp;鏡週刊Mirror Media日人瑞1荷爾蒙多2倍！專家曝「3食物」助分泌：抗癌又防糖尿病&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
           "name": "三立新聞網SETN.com",
@@ -775,6 +750,54 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ed6d5997425e",
+      "title": "吃優格防大腸癌！每週至少吃2次 營養師教「選這種」最有效",
+      "published": "2026-05-01T07:13:00+00:00",
+      "summary": "吃優格防大腸癌！每週至少吃2次 營養師教「選這種」最有效&nbsp;&nbsp;TVBS新聞網前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIc1lWeTRSbzhqN3hEeTBTYV9NTGJCUXZGdXZLTURFUTd0aS12UGZKMHFFQzRSVE4tT2FTVFZpVXJpOHhBai1JWVZxT05zWWlM?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
@@ -1039,54 +1062,6 @@
       ]
     },
     {
-      "id": "a7413a4b61ed",
-      "title": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵",
-      "published": "2026-04-30T18:02:08+00:00",
-      "summary": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵&nbsp;&nbsp;ENN台灣電報前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1UOVZsR19PS2pWcDA5QkpxUVlaU01zNFh3bWUzQ2NDR2xuVlp4NDI2ZjNUZnQ4QWZDMkE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "d8dc29adf57d",
       "title": "聖地牙哥基孔肯雅熱病例增加：一週新增16例",
       "published": "2026-04-30T15:28:33+00:00",
@@ -1137,31 +1112,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "5c00d5884737",
-      "title": "看似健康竟突發心肌梗塞？醫師揭「健檢盲點」：99%人忽略這數值， 恐是血管隱形殺手",
-      "published": "2026-04-30T09:13:51+00:00",
-      "summary": "看似健康竟突發心肌梗塞？醫師揭「健檢盲點」：99%人忽略這數值， 恐是血管隱形殺手&nbsp;&nbsp;風傳媒",
-      "sources": [
-        {
-          "name": "風傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4td044XzNHYURNbGE4bmtCeTRQRmZlRFVoS1lBQ20yb0FuUGxUY2w5WmIxMmJRcW9lNjg3SEZEZGRFTkFaTXN1OTZtckZtZE5k?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心肌梗塞",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
