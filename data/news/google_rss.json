@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-02T08:21:09.233636+00:00",
-  "count": 21,
+  "fetched_at": "2026-05-02T09:54:15.535778+00:00",
+  "count": 20,
   "news": [
+    {
+      "id": "542bfcc6395a",
+      "title": "露營完「手掌爆紅斑」狂擦藥沒用 一驗竟是梅毒！醫揭關鍵原因 - 壹蘋新聞網",
+      "published": "2026-05-02T02:48:00+00:00",
+      "summary": "露營完「手掌爆紅斑」狂擦藥沒用 一驗竟是梅毒！醫揭關鍵原因&nbsp;&nbsp;壹蘋新聞網",
+      "sources": [
+        {
+          "name": "壹蘋新聞網",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jRnQzbWNpUWVLMmthdDR4d2JPSDl6enBlR0tBRGFQdW9NWHp4SHZXZ1FLMi1GdlRmbU5ic2QyN1R0Z25fdFgzbkJLUUQ4a1RyVkZFd1B3TXlSaEpfY1dfXzIydF9CNlVxUzVJS094bWVSQ2N0cloyU0x1V1JiUQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "7c8b2b43ad0c",
       "title": "中醫助抗癌路更平穩！針灸、中藥減輕化療副作用 舒緩7成癌性疲憊 - 中時新聞網",
@@ -52,18 +64,6 @@
       ]
     },
     {
-      "id": "20de952b17c8",
-      "title": "GLP-1 藥物不是人人有效，約一成患者可能不適合 - TechNews 科技新報",
-      "published": "2026-05-01T16:01:11+00:00",
-      "summary": "GLP-1 藥物不是人人有效，約一成患者可能不適合&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTGxtX3N0Y3FUS1dTbTZBcWFFd2lNb3JtRkhaSXBYSnlfVzJpeUxZbTM1S296T3UwRkp5Wmh3dGdEZmwxSWFCaXV1cDY5WHFUb2VjTFJhUEo2NDdVVE0tOXdUdGZzTWhZMDk1Mmp6UzI4ME1ta1BoVXI5UVpqaGJqbExQSm5nVnBMNmtGeHpfa1hyTmhMcEpB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a7413a4b61ed",
       "title": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵 - ENN台灣電報",
       "published": "2026-04-30T18:02:08+00:00",
@@ -72,6 +72,18 @@
         {
           "name": "ENN台灣電報",
           "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1UOVZsR19PS2pWcDA5QkpxUVlaU01zNFh3bWUzQ2NDR2xuVlp4NDI2ZjNUZnQ4QWZDMkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "20de952b17c8",
+      "title": "GLP-1 藥物不是人人有效，約一成患者可能不適合 - TechNews 科技新報",
+      "published": "2026-05-01T16:01:11+00:00",
+      "summary": "GLP-1 藥物不是人人有效，約一成患者可能不適合&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTGxtX3N0Y3FUS1dTbTZBcWFFd2lNb3JtRkhaSXBYSnlfVzJpeUxZbTM1S296T3UwRkp5Wmh3dGdEZmwxSWFCaXV1cDY5WHFUb2VjTFJhUEo2NDdVVE0tOXdUdGZzTWhZMDk1Mmp6UzI4ME1ta1BoVXI5UVpqaGJqbExQSm5nVnBMNmtGeHpfa1hyTmhMcEpB?oc=5"
         }
       ]
     },
@@ -144,30 +156,6 @@
         {
           "name": "風傳媒",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4td044XzNHYURNbGE4bmtCeTRQRmZlRFVoS1lBQ20yb0FuUGxUY2w5WmIxMmJRcW9lNjg3SEZEZGRFTkFaTXN1OTZtckZtZE5k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "73cf687aa387",
-      "title": "科學家透過阻斷單一阿茲海默症蛋白來恢復記憶 - arch-web.com.tw",
-      "published": "2026-04-30T08:49:04+00:00",
-      "summary": "科學家透過阻斷單一阿茲海默症蛋白來恢復記憶&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOVkJUSUNEOHVTcV83ZUdFekVRMm4yQTNGam9CTldWME9qVktfWXdFbVhiZThfMVVZTFpCNS01RC1sb1hKT2FxZXBud0pXamttTkhFbFYtNE1jMXpVYW5Td3ZIa3NreGFsc0R4VDhUTExDdFdvbXFjOUY4V0Rzd1E3eDZCN01NZkd6aVN0aTRVUmJQSnF2Ul9uTGNvX1d3Y3VFM3dRZlZfLVBTWTRBZ1h2bFRqblJaZ0MyUmxUSjlQMXlMQ09wUERsbWdBOTQ4Y3JsWmM5dHNWOXgzeHN5Vl9nUnRUbUhILXlRM3B6MWhqb3ZjQ25xcEltNkprVHB4Z2UwRnFwSTVxLWlkSE0weXhoVVZpd1MzLVNseWRrdnFrSzJBQ0x6cTNIR1FSTURndXNKUXNkaUV4OHFOc25qQ1JHazl2OGJPeTUyM1hteVFacUR1TDVobXNONGhDQllmRzJlR0hNWm44M3A5NVRtcW81VFVEc3NSbEFDTnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7127e5e29c50",
-      "title": "心臟健康靠吃出來！專家欽點15種「護心食物」降低心血管疾病和死亡風險 - Harper's BAZAAR",
-      "published": "2026-04-30T08:28:59+00:00",
-      "summary": "心臟健康靠吃出來！專家欽點15種「護心食物」降低心血管疾病和死亡風險&nbsp;&nbsp;Harper's BAZAAR",
-      "sources": [
-        {
-          "name": "Harper's BAZAAR",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3VjV05yNlJlVFJKbEthXzVldGN5S0tReHcxSXlwcGp3NVpmTE1MckdRbW5YbjJ3Y3RCeDM3ckc3X05HRlFDS1V6ZTZNc3NVZ3lpZ3lXYWNBSVd6d1NIV3dFSjFraGZPZGZXVzRuZ3RCa2dHcjF6MVVnZDZoUGplSFlobnZ4Tkh4bEppS1Fka0pZQk1wVE12Ng?oc=5"
         }
       ]
     },
