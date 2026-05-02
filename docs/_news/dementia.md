@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智症（dementia） 相關新聞"
+title: "阿茲海默症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智症（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "阿茲海默症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智症（dementia） 相關新聞
+# 阿茲海默症（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
-<strong>失智症（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="阿茲海默症（dementia） 有什麼相關新聞？">
+<strong>阿茲海默症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,7 +29,15 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [添加一種蛋白質有助於大腦對抗阿茲海默症。](https://news.google.com/rss/articles/CBMi7gJBVV95cUxOWC1oZENuTUpCa0F5M0ZjeS1hOV9KdHB0bjEyaXJUWGctMmxwRXBZX2o3cktvekctOVJyQTYydk5telZqUXJmVGRwNEhSd3FmSkpQS2Nma0RsU1lFWkEyU0o3ZWJkRklRTkRucFhudnplY1Zfbk82YTdLc01RME5ZYUJKQ2NFdjZPaTNFdGpFbnB1dkJ4bXltQnVjZ2FIOFFSSEF5UjI3SjhhcnJSVmFNUTRndGtWenNkTl9UV2pnYlJ0bVJDNlNlSEVqc0xzMjdVVHJ4WWhXS2FYS0p4SHFPeVN1UXNvSkd5RjZwMDFrR1g0bHRmU21hQTdaM3BOaG1QU0o2d0FIemExRXZlRm1IckFUM3JHSmFWbTVaMS1qam1kMk5YbWJobEt6REk4d0xjeUY2UFZMOVdyZHVDQ0pBMWttOWdaWW9GN2h6WW1pZWlQcVJza0NSY25ZSVZ5LUZXNUhXWElQbWxGak1waFE?oc=5)
+
+2026-05-02
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi7gJBVV95cUxOWC1oZENuTUpCa0F5M0ZjeS1hOV9KdHB0bjEyaXJUWGctMmxwRXBZX2o3cktvekctOVJyQTYydk5telZqUXJmVGRwNEhSd3FmSkpQS2Nma0RsU1lFWkEyU0o3ZWJkRklRTkRucFhudnplY1Zfbk82YTdLc01RME5ZYUJKQ2NFdjZPaTNFdGpFbnB1dkJ4bXltQnVjZ2FIOFFSSEF5UjI3SjhhcnJSVmFNUTRndGtWenNkTl9UV2pnYlJ0bVJDNlNlSEVqc0xzMjdVVHJ4WWhXS2FYS0p4SHFPeVN1UXNvSkd5RjZwMDFrR1g0bHRmU21hQTdaM3BOaG1QU0o2d0FIemExRXZlRm1IckFUM3JHSmFWbTVaMS1qam1kMk5YbWJobEt6REk4d0xjeUY2UFZMOVdyZHVDQ0pBMWttOWdaWW9GN2h6WW1pZWlQcVJza0NSY25ZSVZ5LUZXNUhXWElQbWxGak1waFE?oc=5)
+
+---
 
 ### [日本研究：下廚能預防失智症！購買食材、控制火候過程等同「大腦做Gym」](https://news.google.com/rss/articles/CBMinwNBVV95cUxPa3JTTnRCc3R1T2ZmT1NKb3ZwUEtSdnZMWHBkRkJpRmRUVkdfNkl3cml4N3Q5cGhoUkRCcTlweFU3c0cxTWU3Nk85eGxrX1lJcU5hRldacjlsTkZ2THpJc1FYN255clZ0Q1RvWEVjbWFqdmJxSWktaDNSaFNJeXNKTmdndlBZa3duU2Q5SkthMVhHbXJHZzJvbGh4NWs0a1Nkbl9lci1oOWl2cHN0elppREVSc0J0N3N3N0JjNGVWRlhVYUs4LWY0c01WVnZqRkJ6MGpIX0l4bmZ3QWcyZFNIS2pjTVltXzVEd2h5MVFodTdleU9sNkkxTkxscTJWUjN3WGp0OGdRMGVVVG5RWk9ZRUVJZWR5UUxVblNJV1RuQ3Z5S29DMVdYeDNrMmFiNVpVVlZ0M3V0RjdVLS1Lb2M3aFUtVWdjQmVkZTU3bW9qaW93Sm9zMXUtMExwZG02aWRGMVBVdlNXR0ctQmxOUTJIakRseDJ0WkdYZDFiWHphTV9RSWRpUjVDZzVoOHZYNUpIaE00d05leDU2WXMxQ01F?oc=5)
 
