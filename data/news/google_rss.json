@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-02T15:38:14.975089+00:00",
-  "count": 17,
+  "fetched_at": "2026-05-02T16:36:57.959686+00:00",
+  "count": 16,
   "news": [
     {
       "id": "c4e7eb785ca7",
@@ -24,6 +24,18 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOWC1oZENuTUpCa0F5M0ZjeS1hOV9KdHB0bjEyaXJUWGctMmxwRXBZX2o3cktvekctOVJyQTYydk5telZqUXJmVGRwNEhSd3FmSkpQS2Nma0RsU1lFWkEyU0o3ZWJkRklRTkRucFhudnplY1Zfbk82YTdLc01RME5ZYUJKQ2NFdjZPaTNFdGpFbnB1dkJ4bXltQnVjZ2FIOFFSSEF5UjI3SjhhcnJSVmFNUTRndGtWenNkTl9UV2pnYlJ0bVJDNlNlSEVqc0xzMjdVVHJ4WWhXS2FYS0p4SHFPeVN1UXNvSkd5RjZwMDFrR1g0bHRmU21hQTdaM3BOaG1QU0o2d0FIemExRXZlRm1IckFUM3JHSmFWbTVaMS1qam1kMk5YbWJobEt6REk4d0xjeUY2UFZMOVdyZHVDQ0pBMWttOWdaWW9GN2h6WW1pZWlQcVJza0NSY25ZSVZ5LUZXNUhXWElQbWxGak1waFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "606b5dcc3532",
+      "title": "蔡尚樺喝這碗湯竟「斷片狂哭」！醫揭：酒前補充「這一物」能救肝，還能減緩喝醉速度！ 短今「睫毛掉光」兇手竟是它！眼科醫警告：隱形眼鏡戴超過「這時數」，小心角膜永久缺氧！ - 東森綜合",
+      "published": "2026-05-02T10:00:00+00:00",
+      "summary": "蔡尚樺喝這碗湯竟「斷片狂哭」！醫揭：酒前補充「這一物」能救肝，還能減緩喝醉速度！ 短今「睫毛掉光」兇手竟是它！眼科醫警告：隱形眼鏡戴超過「這時數」，小心角膜永久缺氧！&nbsp;&nbsp;東森綜合",
+      "sources": [
+        {
+          "name": "東森綜合",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83TUJzcmVueldrZERTQTRURk50b3AweEp0TXdta3liM3E0MHdrZm95Sy1BRlc5YTFJQk1kQ0t2STBKdUJWQUFTU2xvNlZDTW9yU0JF?oc=5"
         }
       ]
     },
@@ -76,18 +88,6 @@
       ]
     },
     {
-      "id": "0df012dfed7e",
-      "title": "男性罹癌新線索！HPV疫苗實測結果曝光：相關癌症風險大降46％ | 自由電子報 - LINE TODAY",
-      "published": "2026-05-01T07:52:19+00:00",
-      "summary": "男性罹癌新線索！HPV疫苗實測結果曝光：相關癌症風險大降46％ | 自由電子報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KYU1qUUpFZmRnX1ZBOFhLX2YtZnZYMG1HS3lINXYzNTVwcXJEZ21uMGgxZ0NBS2c0U2N6QjdKU2xjLXNSaEFMdndBOXV4ZDNaZ1VmOWhR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ed6d5997425e",
       "title": "吃優格防大腸癌！每週至少吃2次 營養師教「選這種」最有效 - TVBS新聞網",
       "published": "2026-05-01T07:13:00+00:00",
@@ -96,18 +96,6 @@
         {
           "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIc1lWeTRSbzhqN3hEeTBTYV9NTGJCUXZGdXZLTURFUTd0aS12UGZKMHFFQzRSVE4tT2FTVFZpVXJpOHhBai1JWVZxT05zWWlM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d8dc29adf57d",
-      "title": "聖地牙哥基孔肯雅熱病例增加：一週新增16例 - arch-web.com.tw",
-      "published": "2026-04-30T15:28:33+00:00",
-      "summary": "聖地牙哥基孔肯雅熱病例增加：一週新增16例&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPZ0VlS2ZCbEI3cXFPTVNpQ0dwWHZoSVViSHJzZHM0em1rZC1MS2lNY0FBOGotR1dWVS0wQ2NvalZmcUgyQmVBczMxMEdkQk9ybHhTaHdDdXhvQjRJTmVIU2hsS3lGZ3VrMlkyVU16bHNIbTdvbVJwUWd1THlfZHFGOWJBWVlrX2psV2RSQmZNMy1QczFyN1FRU00wdlpvd0JuN3JMZTVTTVBXNjh6QlhXdTRURG12c01WaE5tQWp0dm1ZVlFZTHYxMkgyeGMxR1h3ckZ1dHVYX2MxTWNscjRlMWp0enFHb1lnb1hHTEhtYWFCMHlZbkt6WTVwU1hhdzk4U0RxeHJFRDluQlBkUHlCRTAxZGdMdi16V0U1UjM5aGtOSHRPSVl0b2F2THFNRXlOR1lYRG1SdUk2YnNPeDdfS0RCREpYdTZCazVDTWxEbXljQmw1N3dDS2ZmSk82X3pFOTRzZw?oc=5"
         }
       ]
     },
