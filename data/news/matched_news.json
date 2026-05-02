@@ -1,8 +1,217 @@
 {
-  "last_updated": "2026-05-02T10:42:54.405385+00:00",
-  "total_count": 18,
+  "last_updated": "2026-05-02T11:37:47.552512+00:00",
+  "total_count": 17,
   "matched_count": 6,
   "news": [
+    {
+      "id": "6dc5b714332e",
+      "title": "年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵",
+      "published": "2026-05-02T10:54:03+00:00",
+      "summary": "年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQTGpNTXpoWDk3WVQ0cTZ4SGNKVjhFbmhFVGdGdFhBdERWMFZQdDMyWlhuUDlNTkl2b205aVI4RTVuSFRXS09vLUVDdGZpYmVOLUZsSDhCWU92VTNWUS03V282dVFPb29OcjF3TmRGQjR5WWxlQlZPOXFvY3FMdjBGYTdFek9kSXRKdTc4QnNudjR4ZUw2T3FUNWxYakZsRW9ZMzhqSWFUSG83RmMwaTBRN1loR0NJY3JsTDFpQXNMVm8yRTdDLXpDYU5TSGFldmhxVGdkbXkzYWNpSlo4dVVzQlJHWXpLUEFMRlRfSHlfcm5MdzB5X1h4X1BWYjE1aVg4a3k5b0Q5dFg1bHdVLVBUM0M3MFhDTi14MW9Xd2xXMVJGZmNmNnd6aXMtcE9mV3kwWjdaWVhmTjJJQ1d6NnRaMnFDb1BWTTZqdXdBT0lGdm5ueGNvMHQ0TWdXR3ZPNE9USUlpbXV1dnZWNU9pZUdSYUQ5dG9yMXdnX2ZjVWc5bjFBSXk5bWk0dzYyNkhYaXUyeW1pR1JWaXFwc2I4SDk3cTlfODNiLWQxMVVoZEtvWlJ1bjQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "8817c71588b1",
       "title": "安義男子手抓野貓救老伴 染漢坦病毒直入ICU 確診嚴重腎損傷 - Techritual Hong Kong",
@@ -239,13 +448,13 @@
       "matched_keywords": []
     },
     {
-      "id": "542bfcc6395a",
+      "id": "73f668350a42",
       "title": "露營完「手掌爆紅斑」狂擦藥沒用 一驗竟是梅毒！醫揭關鍵原因",
       "published": "2026-05-02T02:48:00+00:00",
-      "summary": "露營完「手掌爆紅斑」狂擦藥沒用 一驗竟是梅毒！醫揭關鍵原因&nbsp;&nbsp;壹蘋新聞網",
+      "summary": "露營完「手掌爆紅斑」狂擦藥沒用 一驗竟是梅毒！醫揭關鍵原因&nbsp;&nbsp;news.nextapple.com",
       "sources": [
         {
-          "name": "壹蘋新聞網",
+          "name": "news.nextapple.com",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jRnQzbWNpUWVLMmthdDR4d2JPSDl6enBlR0tBRGFQdW9NWHp4SHZXZ1FLMi1GdlRmbU5ic2QyN1R0Z25fdFgzbkJLUUQ4a1RyVkZFd1B3TXlSaEpfY1dfXzIydF9CNlVxUzVJS094bWVSQ2N0cloyU0x1V1JiUQ?oc=5"
         }
       ],
@@ -278,249 +487,6 @@
       "matched_keywords": []
     },
     {
-      "id": "ef01e6334c2f",
-      "title": "年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵",
-      "published": "2026-05-01T11:38:52+00:00",
-      "summary": "年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵&nbsp;&nbsp;聯合新聞網這11種癌症在年輕人中增加，科學家首次找到原因線索&nbsp;&nbsp;BBC年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」&nbsp;&nbsp;自由健康網研究：年輕人罹大腸癌案例增加 恐與常用除草劑有關&nbsp;&nbsp;世界新聞網2026 AACR揭年輕癌症警訊！從微生物致突變到免疫療法抗藥機制浮現&nbsp;&nbsp;環球生技",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HSERuU0JkVEY3MXZTUTdhVVNYc3plU2U4d21Da3p5TzZtQW9MVEVBa1pzb1VBd0NETDY2OFZMMTJZQzV3OFN4MkllRG9wS01o0gFWQVVfeXFMTVVULWhNNEhpX3NsOTZYdGNoNW82WURjTWVJcm40TFlYTURHVndaZUplNWpqQWo4TnhqNktLc21kMWxsVFNqd21RRUJ1VmdaaDdRaHM3TGc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "9d2e6674beb3",
       "title": "帕沙迪納學校爆發百日咳疫情",
       "published": "2026-05-01T10:00:00+00:00",
@@ -537,7 +503,7 @@
       "id": "3a73c221554f",
       "title": "不只防糖尿病！日本人瑞體內「1物多2倍↑」 可抗癌、護血管",
       "published": "2026-05-01T09:43:35+00:00",
-      "summary": "不只防糖尿病！日本人瑞體內「1物多2倍↑」 可抗癌、護血管&nbsp;&nbsp;三立新聞網SETN.com百歲人瑞多3倍！研究揭日本「長壽鎮」秘密 每天必吃「5食物」助延壽&nbsp;&nbsp;三立新聞網SETN.com日本人為什麼最長壽？研究：「這種荷爾蒙」濃度比別人高2倍！&nbsp;&nbsp;Yahoo新聞日本人瑞長壽關鍵曝光！可抗癌、防糖尿病&nbsp;&nbsp;鏡週刊Mirror Media日人瑞1荷爾蒙多2倍！專家曝「3食物」助分泌：抗癌又防糖尿病&nbsp;&nbsp;TVBS新聞網",
+      "summary": "不只防糖尿病！日本人瑞體內「1物多2倍↑」 可抗癌、護血管&nbsp;&nbsp;三立新聞網SETN.com百歲人瑞多3倍！研究揭日本「長壽鎮」秘密 每天必吃「5食物」助延壽&nbsp;&nbsp;Yahoo新聞日本人為什麼最長壽？研究：「這種荷爾蒙」濃度比別人高2倍！&nbsp;&nbsp;中天新聞網日本長壽秘密曝研究揭1神秘荷爾蒙：抑癌還防糖尿病- 健康&nbsp;&nbsp;中時新聞網日人瑞1荷爾蒙多2倍！專家曝「3食物」助分泌：抗癌又防糖尿病&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
           "name": "三立新聞網SETN.com",
@@ -817,13 +783,13 @@
       "matched_keywords": []
     },
     {
-      "id": "aa4e5f203cb1",
+      "id": "ee0e2b71e337",
       "title": "經歷癌症腦瘤雙重打擊 64歲港婦重拾人生主導權 「心境係良藥！」",
       "published": "2026-05-01T04:00:00+00:00",
-      "summary": "經歷癌症腦瘤雙重打擊 64歲港婦重拾人生主導權 「心境係良藥！」&nbsp;&nbsp;星島頭條",
+      "summary": "經歷癌症腦瘤雙重打擊 64歲港婦重拾人生主導權 「心境係良藥！」&nbsp;&nbsp;stheadline.com",
       "sources": [
         {
-          "name": "星島頭條",
+          "name": "stheadline.com",
           "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxOQWMwd1NsX0xNNXVBRWVQM044eVZQMlliU2dVTENvRXo4QXJ5a2d0NFNSMnp5d2tGM3R6RXlteUdtZ3lHcm8xT3JJU3ktUlBDM0VmQ2FjTHZEYzFtQXFFaTBjenJ6ZkJIVTZGWmxZX01kb0g0MUFPVWtwWTBFM2JiNmFTV3NwSTVmTnZFWDdWSDBGcW1pMmYxS214N0U0Ym9qbGlBZVh0QXhpV3lBbzd6Q3V3X1NCWXUtR3FMMmpwa1NkNUNOMWpaM0c1cU5KZWFwaTIwU0dLenJObjNBaW1YTzlEVHVPVUM4WVJSeDRPWF8zU25aV2hOUDNlR1pvSVE2Q2thVi12NnFsMHBpZWVpVmtjaWRLXzVOWnYtbFVaM0huTUNCMktxakx1R29ESzktck1BcGFDTEltU1FIeWV1MkZCR1dYbzBZXzItODVjOE5lMTRvaGpUMEd2b0hBdUFHVTY2aVpFWjRaR2N5cmdfQ2g3Ykhld205QXpOWHp4UmdqVHk4Z3RKTHpVNDI?oc=5"
         }
       ],
@@ -1026,13 +992,13 @@
       ]
     },
     {
-      "id": "79107118d54f",
+      "id": "74262a22990c",
       "title": "日本研究：下廚能預防失智症！購買食材、控制火候過程等同「大腦做Gym」",
       "published": "2026-05-01T03:35:09+00:00",
-      "summary": "日本研究：下廚能預防失智症！購買食材、控制火候過程等同「大腦做Gym」&nbsp;&nbsp;星島頭條",
+      "summary": "日本研究：下廚能預防失智症！購買食材、控制火候過程等同「大腦做Gym」&nbsp;&nbsp;stheadline.com",
       "sources": [
         {
-          "name": "星島頭條",
+          "name": "stheadline.com",
           "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPa3JTTnRCc3R1T2ZmT1NKb3ZwUEtSdnZMWHBkRkJpRmRUVkdfNkl3cml4N3Q5cGhoUkRCcTlweFU3c0cxTWU3Nk85eGxrX1lJcU5hRldacjlsTkZ2THpJc1FYN255clZ0Q1RvWEVjbWFqdmJxSWktaDNSaFNJeXNKTmdndlBZa3duU2Q5SkthMVhHbXJHZzJvbGh4NWs0a1Nkbl9lci1oOWl2cHN0elppREVSc0J0N3N3N0JjNGVWRlhVYUs4LWY0c01WVnZqRkJ6MGpIX0l4bmZ3QWcyZFNIS2pjTVltXzVEd2h5MVFodTdleU9sNkkxTkxscTJWUjN3WGp0OGdRMGVVVG5RWk9ZRUVJZWR5UUxVblNJV1RuQ3Z5S29DMVdYeDNrMmFiNVpVVlZ0M3V0RjdVLS1Lb2M3aFUtVWdjQmVkZTU3bW9qaW93Sm9zMXUtMExwZG02aWRGMVBVdlNXR0ctQmxOUTJIakRseDJ0WkdYZDFiWHphTV9RSWRpUjVDZzVoOHZYNUpIaE00d05leDU2WXMxQ01F?oc=5"
         }
       ],
@@ -1096,19 +1062,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hOUxURDFSam5USU5GVjBCTE1uUkg1RlJfWUdxWnJUYXN3UzhDZW55anJWVnQ5emNKTVQzNEloU21JVlZuSG5NV1JpRHZGVU5ZRDFiTDVqNDBtYUlhMFZjYl81dEfSAWpBVV95cUxNazFpTTdpaVc1SHBzekk0VGx0YUVSLUFfNnpxZzMxRkZ4UWtGaUJreHkxbk9RWDZtVUxRMmM4ZUtYbUpoTFlLRmdJTDNPUG5YR0ZMTWloLVQ4NzBIZll4MUlKLVFVb2lIaGtn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "61ea72042940",
-      "title": "RSV病毒｜RSV病毒肆虐一周確診升3成 醫生拆解感染風險 2大高危人士易患重症",
-      "published": "2026-04-30T10:22:24+00:00",
-      "summary": "RSV病毒｜RSV病毒肆虐一周確診升3成 醫生拆解感染風險 2大高危人士易患重症&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOQXN1cWIyUUNYRjJqSkw5bEx3NjA4ZFdyNzZpSEp2TmtiZlNqWkNTUGZ3UmN0NVpLd1VVMVB5azNjLWk3MW9xTWRvYkJrbmtpRXFUQWNiaWdwMnVaSFNibVRlM1N6R0Z4amhYb29tRjAzdl9tNF9YOUQxMTJDdGpqR2xyQTlDejdyWkUzTzZkOVVKOU5DRFBpRDQyeHJibmlhTElpTlpiWVBWNXRxWUNnbzZRbVZfT3NkRFlBdm1sNFctQnAzbmtpMGU0TF9ScGt6TndsOVNPQkRzUlNuRlVLbEF0WHROTkhvLXVTZWp5TWpRV2dzV2ZmYzM2NmRmbEJyRFFoNUZEZU0zbzQ5aHJfTUJicERieWhPdENVQzFFNDlMdmtoLTBJMm1xRXdzR2pCVzdrdjlFWEs5aHMyQXd2UTVqeFViRGEtSUl6WGRlX3Z5Y0tFdkI1UVpFVmNjX1FWMkpQWVF2LUd6VW9tRGREaEVOd0tXUjIyR0VxMUswLU45eXRELVpKeXNyb1pGTEJONm1YcmdEdDNrYU4xdGpIZXd4NWZFNXRDNGxNR2dVQjBRR1ZCamR5azVDYlZQVWFhU1JPR2FPLXlYdjdaTzlJWUloc3lySktSOVFOUUdSUFhYeFhf?oc=5"
         }
       ],
       "matched_keywords": []

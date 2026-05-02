@@ -3,7 +3,7 @@ layout: default
 title: "大腸癌（colonic neoplasm） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/colonic-neoplasm/
 ---
 
 <p class="key-answer" data-question="大腸癌（colonic neoplasm） 有什麼相關新聞？">
-<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,15 +29,7 @@ permalink: /news/colonic-neoplasm/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HSERuU0JkVEY3MXZTUTdhVVNYc3plU2U4d21Da3p5TzZtQW9MVEVBa1pzb1VBd0NETDY2OFZMMTJZQzV3OFN4MkllRG9wS01o0gFWQVVfeXFMTVVULWhNNEhpX3NsOTZYdGNoNW82WURjTWVJcm40TFlYTURHVndaZUplNWpqQWo4TnhqNktLc21kMWxsVFNqd21RRUJ1VmdaaDdRaHM3TGc?oc=5)
-
-2026-05-01
-
-來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HSERuU0JkVEY3MXZTUTdhVVNYc3plU2U4d21Da3p5TzZtQW9MVEVBa1pzb1VBd0NETDY2OFZMMTJZQzV3OFN4MkllRG9wS01o0gFWQVVfeXFMTVVULWhNNEhpX3NsOTZYdGNoNW82WURjTWVJcm40TFlYTURHVndaZUplNWpqQWo4TnhqNktLc21kMWxsVFNqd21RRUJ1VmdaaDdRaHM3TGc?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [吃優格防大腸癌！每週至少吃2次 營養師教「選這種」最有效](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIc1lWeTRSbzhqN3hEeTBTYV9NTGJCUXZGdXZLTURFUTd0aS12UGZKMHFFQzRSVE4tT2FTVFZpVXJpOHhBai1JWVZxT05zWWlM?oc=5)
 
