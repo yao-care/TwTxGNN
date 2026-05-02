@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-02T04:57:01.814751+00:00",
-  "count": 17,
+  "fetched_at": "2026-05-02T06:59:10.711422+00:00",
+  "count": 21,
   "news": [
+    {
+      "id": "7c8b2b43ad0c",
+      "title": "中醫助抗癌路更平穩！針灸、中藥減輕化療副作用 舒緩7成癌性疲憊 - 中時新聞網",
+      "published": "2026-05-02T03:38:37+00:00",
+      "summary": "中醫助抗癌路更平穩！針灸、中藥減輕化療副作用 舒緩7成癌性疲憊&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WdVdfTjNpYTFxOTF3S0pMdjVILUJzSW9XX0lDYnJoNE52MFJIVDFyUTlNZjJqbUFOVXFRLUc5QzNuc2J5VlB6TjE0M1c4ZEw4dmJneXBFSk1ZVFgwYVc4RnNaN0F6QmZoelB6WFF3?oc=5"
+        }
+      ]
+    },
     {
       "id": "1b14302b43fe",
       "title": "澳洲拚全球第一！子宮頸癌將被「消滅」 預計2035年前達標 - TVBS新聞網",
@@ -16,14 +28,14 @@
       ]
     },
     {
-      "id": "33030685d4d4",
-      "title": "癌症為何開始攻擊年輕人？英國研究：11種癌症發病率激增，「體重超標」是關鍵殺手| BBC News 中文 | 新聞 - 風傳媒",
-      "published": "2026-04-30T07:10:26+00:00",
-      "summary": "癌症為何開始攻擊年輕人？英國研究：11種癌症發病率激增，「體重超標」是關鍵殺手| BBC News 中文 | 新聞&nbsp;&nbsp;風傳媒這11種癌症在年輕人中增加，科學家首次找到原因線索&nbsp;&nbsp;BBC年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵&nbsp;&nbsp;聯合新聞網年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」&nbsp;&nbsp;自由健康網研究：年輕人罹大腸癌案例增加 恐與常用除草劑有關&nbsp;&nbsp;世界新聞網",
+      "id": "ef01e6334c2f",
+      "title": "年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵 - 聯合新聞網",
+      "published": "2026-05-01T11:38:52+00:00",
+      "summary": "年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵&nbsp;&nbsp;聯合新聞網這11種癌症在年輕人中增加，科學家首次找到原因線索&nbsp;&nbsp;BBC年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」&nbsp;&nbsp;自由健康網研究：年輕人罹大腸癌案例增加 恐與常用除草劑有關&nbsp;&nbsp;世界新聞網2026 AACR揭年輕癌症警訊！從微生物致突變到免疫療法抗藥機制浮現&nbsp;&nbsp;環球生技",
       "sources": [
         {
-          "name": "風傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0bkh4dDlGTFRMU0pOUVFWMUdzaFZBTHl2ZVVTMWVJd1RxcVRYejBURlFVRDBtUHJvWFNNUkNzU3AwSThHMmwxY2ZXZ2pCZw?oc=5"
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HSERuU0JkVEY3MXZTUTdhVVNYc3plU2U4d21Da3p5TzZtQW9MVEVBa1pzb1VBd0NETDY2OFZMMTJZQzV3OFN4MkllRG9wS01o0gFWQVVfeXFMTVVULWhNNEhpX3NsOTZYdGNoNW82WURjTWVJcm40TFlYTURHVndaZUplNWpqQWo4TnhqNktLc21kMWxsVFNqd21RRUJ1VmdaaDdRaHM3TGc?oc=5"
         }
       ]
     },
@@ -55,7 +67,7 @@
       "id": "a7413a4b61ed",
       "title": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵 - ENN台灣電報",
       "published": "2026-04-30T18:02:08+00:00",
-      "summary": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵&nbsp;&nbsp;ENN台灣電報糙米藜麥比一比：專家揭示腸道健康關鍵，高纖蛋白有助維護腸道平衡&nbsp;&nbsp;yesmedia.com.tw",
+      "summary": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵&nbsp;&nbsp;ENN台灣電報前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "ENN台灣電報",
@@ -67,7 +79,7 @@
       "id": "4dbcf85edd91",
       "title": "健康網》當兵共用毛巾染菜花 醫揭職災：長在鼻孔 - 自由健康網",
       "published": "2026-04-30T11:49:00+00:00",
-      "summary": "健康網》當兵共用毛巾染菜花 醫揭職災：長在鼻孔&nbsp;&nbsp;自由健康網當兵染菜花！跟同梯「互借2物」竟中標 醫證實傳染力超高：鼻孔也長&nbsp;&nbsp;鏡週刊Mirror Media沒有性行為也可能感染菜花？ 泌尿科醫師揭露「職災」：感染性極強 | 新頭殼&nbsp;&nbsp;LINE TODAY被誤會偷吃…當兵共用2物品集體染菜花 醫揭恐怖職災：鼻孔也長&nbsp;&nbsp;聯合新聞網沒性行為也會染菜花 傳染力爆強！醫曝：鼻孔、腳趾都中鏢...&nbsp;&nbsp;中天新聞網",
+      "summary": "健康網》當兵共用毛巾染菜花 醫揭職災：長在鼻孔&nbsp;&nbsp;自由健康網當兵共用「這物品」竟染菜花？同梯爆感染風波 女友怒疑「偷吃」鬧分手&nbsp;&nbsp;聯合新聞網沒性行為…當兵「共用2物」衰染菜花！醫親揭職災：鼻孔裡也長&nbsp;&nbsp;ETtoday健康雲沒性行為也會染菜花 傳染力爆強！醫曝：鼻孔、腳趾都中鏢...&nbsp;&nbsp;中天新聞網當兵染菜花！跟同梯「互借2物」竟中標 醫證實傳染力超高：鼻孔也長&nbsp;&nbsp;鏡週刊Mirror Media",
       "sources": [
         {
           "name": "自由健康網",
@@ -100,6 +112,18 @@
       ]
     },
     {
+      "id": "d8dc29adf57d",
+      "title": "聖地牙哥基孔肯雅熱病例增加：一週新增16例 - arch-web.com.tw",
+      "published": "2026-04-30T15:28:33+00:00",
+      "summary": "聖地牙哥基孔肯雅熱病例增加：一週新增16例&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPZ0VlS2ZCbEI3cXFPTVNpQ0dwWHZoSVViSHJzZHM0em1rZC1MS2lNY0FBOGotR1dWVS0wQ2NvalZmcUgyQmVBczMxMEdkQk9ybHhTaHdDdXhvQjRJTmVIU2hsS3lGZ3VrMlkyVU16bHNIbTdvbVJwUWd1THlfZHFGOWJBWVlrX2psV2RSQmZNMy1QczFyN1FRU00wdlpvd0JuN3JMZTVTTVBXNjh6QlhXdTRURG12c01WaE5tQWp0dm1ZVlFZTHYxMkgyeGMxR1h3ckZ1dHVYX2MxTWNscjRlMWp0enFHb1lnb1hHTEhtYWFCMHlZbkt6WTVwU1hhdzk4U0RxeHJFRDluQlBkUHlCRTAxZGdMdi16V0U1UjM5aGtOSHRPSVl0b2F2THFNRXlOR1lYRG1SdUk2YnNPeDdfS0RCREpYdTZCazVDTWxEbXljQmw1N3dDS2ZmSk82X3pFOTRzZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f6547d2a44a6",
       "title": "宣萱的無創美學： OLAY黑管精華及小白瓶，在家養出無瑕底氣 - PopLady",
       "published": "2026-04-30T13:35:58+00:00",
@@ -124,6 +148,18 @@
       ]
     },
     {
+      "id": "73cf687aa387",
+      "title": "科學家透過阻斷單一阿茲海默症蛋白來恢復記憶 - arch-web.com.tw",
+      "published": "2026-04-30T08:49:04+00:00",
+      "summary": "科學家透過阻斷單一阿茲海默症蛋白來恢復記憶&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOVkJUSUNEOHVTcV83ZUdFekVRMm4yQTNGam9CTldWME9qVktfWXdFbVhiZThfMVVZTFpCNS01RC1sb1hKT2FxZXBud0pXamttTkhFbFYtNE1jMXpVYW5Td3ZIa3NreGFsc0R4VDhUTExDdFdvbXFjOUY4V0Rzd1E3eDZCN01NZkd6aVN0aTRVUmJQSnF2Ul9uTGNvX1d3Y3VFM3dRZlZfLVBTWTRBZ1h2bFRqblJaZ0MyUmxUSjlQMXlMQ09wUERsbWdBOTQ4Y3JsWmM5dHNWOXgzeHN5Vl9nUnRUbUhILXlRM3B6MWhqb3ZjQ25xcEltNkprVHB4Z2UwRnFwSTVxLWlkSE0weXhoVVZpd1MzLVNseWRrdnFrSzJBQ0x6cTNIR1FSTURndXNKUXNkaUV4OHFOc25qQ1JHazl2OGJPeTUyM1hteVFacUR1TDVobXNONGhDQllmRzJlR0hNWm44M3A5NVRtcW81VFVEc3NSbEFDTnc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7127e5e29c50",
       "title": "心臟健康靠吃出來！專家欽點15種「護心食物」降低心血管疾病和死亡風險 - Harper's BAZAAR",
       "published": "2026-04-30T08:28:59+00:00",
@@ -132,6 +168,18 @@
         {
           "name": "Harper's BAZAAR",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3VjV05yNlJlVFJKbEthXzVldGN5S0tReHcxSXlwcGp3NVpmTE1MckdRbW5YbjJ3Y3RCeDM3ckc3X05HRlFDS1V6ZTZNc3NVZ3lpZ3lXYWNBSVd6d1NIV3dFSjFraGZPZGZXVzRuZ3RCa2dHcjF6MVVnZDZoUGplSFlobnZ4Tkh4bEppS1Fka0pZQk1wVE12Ng?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3eeeb66b455f",
+      "title": "美國北卡羅萊納州癌症患者出現罕見外國口音綜合症，治療期間突變愛爾蘭腔調 - Singtaousa",
+      "published": "2026-05-02T06:30:00+00:00",
+      "summary": "美國北卡羅萊納州癌症患者出現罕見外國口音綜合症，治療期間突變愛爾蘭腔調&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN3pHTFNsTEREeGMwcmg0bXRZWE5qYjl5MjQ1YnJGWGdoS1NmSXBCZVYzNFpVZkMxUkZKSF9mVTRlWEhvb1F1QjA2Vm5iZDI1Z1A5eExHTURrbjdRMGRGbkVDa3llVmxldGpYNGw5VnpqR2VXLTJiendQcDRaRWw4ME5fdTZwblV3MjEybUNqbWk4dDNXSTJlbHBQSDRqYW9hckdZdE9qaEpZYWItcm5BNE9sbGNndw?oc=5"
         }
       ]
     },
