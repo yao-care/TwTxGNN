@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,11 +42,11 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [每天吃優格會如何？營養師解答3大好處- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTFBMRjJCZXlOaWJCcC1rd3hwTkFGb1hBQnNPTENUX0lvZXZwak5NTmpkUWpVUngwQk1DQlRDN1pZOUpLME1ybHZxTFJ4aG04cHRTc1dRdnZqdUFocHJXNUZEUlNsYkVEdFgwWU5fRldB?oc=5)
 
-2026-05-03 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-05-03 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">感冒</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFBMRjJCZXlOaWJCcC1rd3hwTkFGb1hBQnNPTENUX0lvZXZwak5NTmpkUWpVUngwQk1DQlRDN1pZOUpLME1ybHZxTFJ4aG04cHRTc1dRdnZqdUFocHJXNUZEUlNsYkVEdFgwWU5fRldB?oc=5)
 
@@ -57,6 +57,14 @@ permalink: /news/oteracil/
 2026-05-02 <span class="news-indication-tag">癌症</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiswNBVV95cUxQTGpNTXpoWDk3WVQ0cTZ4SGNKVjhFbmhFVGdGdFhBdERWMFZQdDMyWlhuUDlNTkl2b205aVI4RTVuSFRXS09vLUVDdGZpYmVOLUZsSDhCWU92VTNWUS03V282dVFPb29OcjF3TmRGQjR5WWxlQlZPOXFvY3FMdjBGYTdFek9kSXRKdTc4QnNudjR4ZUw2T3FUNWxYakZsRW9ZMzhqSWFUSG83RmMwaTBRN1loR0NJY3JsTDFpQXNMVm8yRTdDLXpDYU5TSGFldmhxVGdkbXkzYWNpSlo4dVVzQlJHWXpLUEFMRlRfSHlfcm5MdzB5X1h4X1BWYjE1aVg4a3k5b0Q5dFg1bHdVLVBUM0M3MFhDTi14MW9Xd2xXMVJGZmNmNnd6aXMtcE9mV3kwWjdaWVhmTjJJQ1d6NnRaMnFDb1BWTTZqdXdBT0lGdm5ueGNvMHQ0TWdXR3ZPNE9USUlpbXV1dnZWNU9pZUdSYUQ5dG9yMXdnX2ZjVWc5bjFBSXk5bWk0dzYyNkhYaXUyeW1pR1JWaXFwc2I4SDk3cTlfODNiLWQxMVVoZEtvWlJ1bjQ?oc=5)
+
+---
+
+### [每日服用低劑量阿斯匹靈，竟能讓特定大腸癌患者復發風險減半 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zUnlubWFYYXRlZVU4VENfTlFLZ3U5OEdUSlBqTDF5SzIwcnhZR0dDQlBCMUJGMU8xV09PLVcyVGswNzZOVTFLaWpfRHlycVZlT01hNXd3?oc=5)
+
+2026-05-02 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zUnlubWFYYXRlZVU4VENfTlFLZ3U5OEdUSlBqTDF5SzIwcnhZR0dDQlBCMUJGMU8xV09PLVcyVGswNzZOVTFLaWpfRHlycVZlT01hNXd3?oc=5)
 
 ---
 
