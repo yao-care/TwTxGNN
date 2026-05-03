@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-03T10:45:18.983465+00:00",
-  "count": 15,
+  "fetched_at": "2026-05-03T11:35:50.113485+00:00",
+  "count": 14,
   "news": [
     {
       "id": "6dc5b714332e",
@@ -43,7 +43,7 @@
       "id": "012679fa7f2d",
       "title": "每天吃優格會如何？營養師解答3大好處- 健康 - 中時新聞網",
       "published": "2026-05-03T07:13:52+00:00",
-      "summary": "每天吃優格會如何？營養師解答3大好處- 健康&nbsp;&nbsp;中時新聞網蔬果吃夠就不會大腸癌？營養師點名「這1神隊友」：每週吃2次降風險&nbsp;&nbsp;三立新聞網SETN.com糙米藜麥比一比：專家揭示腸道健康關鍵，高纖蛋白有助維護腸道平衡&nbsp;&nbsp;yesmedia.com.tw天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵&nbsp;&nbsp;ENN台灣電報感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年&nbsp;&nbsp;壹蘋新聞網",
+      "summary": "每天吃優格會如何？營養師解答3大好處- 健康&nbsp;&nbsp;中時新聞網蔬果吃夠就不會大腸癌？營養師點名「這1神隊友」：每週吃2次降風險&nbsp;&nbsp;祝你健康糙米藜麥比一比：專家揭示腸道健康關鍵，高纖蛋白有助維護腸道平衡&nbsp;&nbsp;yesmedia.com.tw天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵&nbsp;&nbsp;ENN台灣電報感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年&nbsp;&nbsp;壹蘋新聞網",
       "sources": [
         {
           "name": "中時新聞網",
@@ -90,7 +90,7 @@
     {
       "id": "9547ef601435",
       "title": "GLP-1 藥物不是人人有效，約一成患者可能不適合 | 科技新報 - LINE TODAY",
-      "published": "2026-05-02T00:12:07+00:00",
+      "published": "2026-05-02T00:11:58+00:00",
       "summary": "GLP-1 藥物不是人人有效，約一成患者可能不適合 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -168,18 +168,6 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOelVEaS1faVlldDlKX052QzBLV1JwUEt0aDJaRE1BYXBqbG92dzJDaXFicExKWDFMc3JxVGt6M2JKeUg1OC1uSFhJdGU5Q3ZFN3JTTDEtWllIeUp5MnloNlM1dUlTWDNvbjdOekhrcE9EVVRNWjh5TkIxaXVkSUZfTDdDeXNCNnFVX2hTd1BWZVBVQ3QwTDRFcFlpU0JTN2JUY21JWU9QbkFiWHpoNUpFZkF2Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9d2e6674beb3",
-      "title": "帕沙迪納學校爆發百日咳疫情 - Singtaousa",
-      "published": "2026-05-01T10:00:00+00:00",
-      "summary": "帕沙迪納學校爆發百日咳疫情&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUmtrQ0JBZmx5cVpKV21aTzg5TFZEUGZ1VjIya3JiU3VaQ1c1VHNPcS1OUVFaRUU4Tk1qY29zSHpELUp5UlVEZ3pvaTZoRGFRZUFQaG9LSmw4eElBYUpBRkE2bkVlZkVfSEVEUnp4MExvcVVIRHhZdXNOZ1k3U2Y4N0JFN1RfNWpNRUE?oc=5"
         }
       ]
     }
