@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-03T02:01:00.926879+00:00",
-  "count": 7,
+  "generated": "2026-05-03T05:50:14.741661+00:00",
+  "count": 6,
   "news": [
     {
-      "id": "5fef92eab6e0",
+      "id": "c3305a1bf320",
       "title": "3D 研究分析面部衰老軌跡女性更年期後老化明顯加速",
       "published": "2026-05-02T23:00:28+00:00",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNNDFMcmkwQmJicmhyM1h0RGNoTXcyalhndTcxNEh2M3REaW9mRy1lckMtbGM0RU9fUE5OU1VJQW9fclpwRl9KUzNSM3RNV2Ewcm1xcUluN0RLMUJVTjk3UEZIWmRmdVY1UXRac1podmRrMkd5TFpOcHlqc1pMemlmR04wem9mVVBSTkNoc2xCaENhQTdZamxHNTI1aGJ1T2lmY3lPME1HY2NPVjFHZHhTYkVMLXpzUFFpMDZCdlU0enVZUFBNS2h1dG9US181bXgxR2FCVTVDYzlsWms2WFotZVQ0SUpFcTdkM256R1VPN3RRNFgxTER3Z1huX3dyRGQwV2l0QUJHTzJ5RzVBS0FKcnl1bG1sbGkyemdmY2wwM3FpUUNfZUgyNGlHWlJoaEpTbU1sUnNZc0RKTmlVLUF2cHdpemR5dmtMSFJCYWZ1aFZNeUg5ZFhYVXJoNmltUXI1MzFCNkx3?oc=5"
         }
       ],
@@ -728,41 +728,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "79107118d54f",
-      "title": "日本研究：下廚能預防失智症！購買食材、控制火候過程等同「大腦做Gym」",
-      "published": "2026-05-01T03:35:09+00:00",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPa3JTTnRCc3R1T2ZmT1NKb3ZwUEtSdnZMWHBkRkJpRmRUVkdfNkl3cml4N3Q5cGhoUkRCcTlweFU3c0cxTWU3Nk85eGxrX1lJcU5hRldacjlsTkZ2THpJc1FYN255clZ0Q1RvWEVjbWFqdmJxSWktaDNSaFNJeXNKTmdndlBZa3duU2Q5SkthMVhHbXJHZzJvbGh4NWs0a1Nkbl9lci1oOWl2cHN0elppREVSc0J0N3N3N0JjNGVWRlhVYUs4LWY0c01WVnZqRkJ6MGpIX0l4bmZ3QWcyZFNIS2pjTVltXzVEd2h5MVFodTdleU9sNkkxTkxscTJWUjN3WGp0OGdRMGVVVG5RWk9ZRUVJZWR5UUxVblNJV1RuQ3Z5S29DMVdYeDNrMmFiNVpVVlZ0M3V0RjdVLS1Lb2M3aFUtVWdjQmVkZTU3bW9qaW93Sm9zMXUtMExwZG02aWRGMVBVdlNXR0ctQmxOUTJIakRseDJ0WkdYZDFiWHphTV9RSWRpUjVDZzVoOHZYNUpIaE00d05leDU2WXMxQ01F?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
