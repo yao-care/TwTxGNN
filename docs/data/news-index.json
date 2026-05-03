@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T21:33:31.996202+00:00",
-  "count": 5,
+  "generated": "2026-05-03T22:32:08.311533+00:00",
+  "count": 4,
   "news": [
     {
       "id": "e6086a91a08d",
@@ -80,30 +80,6 @@
             {
               "slug": "nystatin",
               "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c47a26a15ab5",
-      "title": "添加一種蛋白質有助於大腦對抗阿茲海默症。",
-      "published": "2026-05-02T13:53:46+00:00",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOWC1oZENuTUpCa0F5M0ZjeS1hOV9KdHB0bjEyaXJUWGctMmxwRXBZX2o3cktvekctOVJyQTYydk5telZqUXJmVGRwNEhSd3FmSkpQS2Nma0RsU1lFWkEyU0o3ZWJkRklRTkRucFhudnplY1Zfbk82YTdLc01RME5ZYUJKQ2NFdjZPaTNFdGpFbnB1dkJ4bXltQnVjZ2FIOFFSSEF5UjI3SjhhcnJSVmFNUTRndGtWenNkTl9UV2pnYlJ0bVJDNlNlSEVqc0xzMjdVVHJ4WWhXS2FYS0p4SHFPeVN1UXNvSkd5RjZwMDFrR1g0bHRmU21hQTdaM3BOaG1QU0o2d0FIemExRXZlRm1IckFUM3JHSmFWbTVaMS1qam1kMk5YbWJobEt6REk4d0xjeUY2UFZMOVdyZHVDQ0pBMWttOWdaWW9GN2h6WW1pZWlQcVJza0NSY25ZSVZ5LUZXNUhXWElQbWxGak1waFE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

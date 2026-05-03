@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-03T21:33:31.967386+00:00",
+  "last_updated": "2026-05-03T22:32:08.280590+00:00",
   "total_count": 16,
-  "matched_count": 5,
+  "matched_count": 4,
   "news": [
     {
       "id": "5895b62536c9",
@@ -12,6 +12,19 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPdDF4OVlyX1J1bG5jbDFEbjM1R0JNTTRmV2hkV2Zsempidm03c0dacm02Rm11X1dsRTRzamJjTTkwUHc3T1lmd1RhbmxJdFdBVEo5T2JuRDJMQkZhMWotU1ZmREFzTTRYR3JMTW1KWkI2NnR0bENRNzEweEtFTWZ1RnE3ZmF0alR6M0NobWE5OEhtamtjcnZ6Q0xFaERWTVRjb0NUSWROS1dLUjZyVm5hNUM5eklVMHFfWDlQRHBRRDRxT1AxdmE4Zk81MGU0M29oamltbmtCUFhHU0x0S1hRTjExdC1CeG1JTDlJWl9GelJFNzQyVnplQXM2SDg2S2xfbHBCWTRtNnFrekwxYUxQZG1rdWlnMmtMSzdfUFpQdkw4bDlRVGFJQ01NZFFGeWV1eHcxdHcxaXpZeU1XcDVDcVpVLVlJcjZWejlZUFpwa3p1UzV1dEhpNmFjOGw3WUtUVHc4T1ZEZ1Z5U1EzdDJLYmlvLVNVU0dZaFdGQzBKbFRQUm5kWVE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b8338fc87d19",
+      "title": "快樂面對帕金森氏症 醫師：有一類可逆轉",
+      "published": "2026-05-03T15:04:31+00:00",
+      "summary": "快樂面對帕金森氏症 醫師：有一類可逆轉&nbsp;&nbsp;新唐人電視台",
+      "sources": [
+        {
+          "name": "新唐人電視台",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lcVN4NjV3VUZCQnpHY1pOb054YTlVdXpCQ242WW5fcFJncURFVE95a2E5eGlWemt5VVJQb3BRNDBjaF94c2Z4LWlBS2Z5djFjb2dQVGhwUkh4RHFqWEFabdIBZkFVX3lxTFBwZ2s4S3hqRmQ1bDBCb0otd3FqeEwxNW1ncWRDXzJDeno4VGl4eDNrN3k3YXR1bjdraHNRMmRTNkJjai1OR0VYUHZvOW9lWWJWU1pwSVRYaUlPVzhzSnBSY29UamNHdw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -139,31 +152,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "c47a26a15ab5",
-      "title": "添加一種蛋白質有助於大腦對抗阿茲海默症。",
-      "published": "2026-05-02T13:53:46+00:00",
-      "summary": "添加一種蛋白質有助於大腦對抗阿茲海默症。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOWC1oZENuTUpCa0F5M0ZjeS1hOV9KdHB0bjEyaXJUWGctMmxwRXBZX2o3cktvekctOVJyQTYydk5telZqUXJmVGRwNEhSd3FmSkpQS2Nma0RsU1lFWkEyU0o3ZWJkRklRTkRucFhudnplY1Zfbk82YTdLc01RME5ZYUJKQ2NFdjZPaTNFdGpFbnB1dkJ4bXltQnVjZ2FIOFFSSEF5UjI3SjhhcnJSVmFNUTRndGtWenNkTl9UV2pnYlJ0bVJDNlNlSEVqc0xzMjdVVHJ4WWhXS2FYS0p4SHFPeVN1UXNvSkd5RjZwMDFrR1g0bHRmU21hQTdaM3BOaG1QU0o2d0FIemExRXZlRm1IckFUM3JHSmFWbTVaMS1qam1kMk5YbWJobEt6REk4d0xjeUY2UFZMOVdyZHVDQ0pBMWttOWdaWW9GN2h6WW1pZWlQcVJza0NSY25ZSVZ5LUZXNUhXWElQbWxGak1waFE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "f55a1df1fb05",
