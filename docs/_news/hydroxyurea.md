@@ -44,7 +44,7 @@ permalink: /news/hydroxyurea/
 
 ## 相關新聞（3 則）
 
-### [每天吃優格會如何？營養師解答3大好處- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTFBMRjJCZXlOaWJCcC1rd3hwTkFGb1hBQnNPTENUX0lvZXZwak5NTmpkUWpVUngwQk1DQlRDN1pZOUpLME1ybHZxTFJ4aG04cHRTc1dRdnZqdUFocHJXNUZEUlNsYkVEdFgwWU5fRldB?oc=5)
+### [每天吃優格會如何？營養師解答3大好處- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTFBMRjJCZXlOaWJCcC1rd3hwTkFGb1hBQnNPTENUX0lvZXZwak5NTmpkUWpVUngwQk1DQlRDN1pZOUpLME1ybHZxTFJ4aG04cHRTc1dRdnZqdUFocHJXNUZEUlNsYkVEdFgwWU5fRldB?oc=5)
 
 2026-05-03 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">感冒</span>
 
