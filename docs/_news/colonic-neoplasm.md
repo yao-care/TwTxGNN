@@ -31,11 +31,11 @@ permalink: /news/colonic-neoplasm/
 
 ## 相關新聞（1 則）
 
-### [吃優格防大腸癌！每週至少吃2次 營養師教「選這種」最有效](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIc1lWeTRSbzhqN3hEeTBTYV9NTGJCUXZGdXZLTURFUTd0aS12UGZKMHFFQzRSVE4tT2FTVFZpVXJpOHhBai1JWVZxT05zWWlM?oc=5)
+### [每天吃優格會如何？營養師解答3大好處- 健康](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYVZCcldFVWFKWHpIbnRzOWJiVmlocTg5ejNyZ3FuVFk5ZmVIemN4YXlva0ZZQlk1N1pXWkJPVWl1SlZfVnlQb3d2Y2tVS093RmRBcjEyTC03VlhJN3Q3eHpTaFJRZ0VDLXRxbWVZV1VwajhVZ2ZDSU13cnMwdm1HN1N2ZVZlUzh5LXQzeFhXWQ?oc=5)
 
-2026-05-01
+2026-05-03
 
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIc1lWeTRSbzhqN3hEeTBTYV9NTGJCUXZGdXZLTURFUTd0aS12UGZKMHFFQzRSVE4tT2FTVFZpVXJpOHhBai1JWVZxT05zWWlM?oc=5)
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYVZCcldFVWFKWHpIbnRzOWJiVmlocTg5ejNyZ3FuVFk5ZmVIemN4YXlva0ZZQlk1N1pXWkJPVWl1SlZfVnlQb3d2Y2tVS093RmRBcjEyTC03VlhJN3Q3eHpTaFJRZ0VDLXRxbWVZV1VwajhVZ2ZDSU13cnMwdm1HN1N2ZVZlUzh5LXQzeFhXWQ?oc=5)
 
 ---
 

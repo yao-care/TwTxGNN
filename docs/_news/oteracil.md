@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
+
+### [每天吃優格會如何？營養師解答3大好處- 健康](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYVZCcldFVWFKWHpIbnRzOWJiVmlocTg5ejNyZ3FuVFk5ZmVIemN4YXlva0ZZQlk1N1pXWkJPVWl1SlZfVnlQb3d2Y2tVS093RmRBcjEyTC03VlhJN3Q3eHpTaFJRZ0VDLXRxbWVZV1VwajhVZ2ZDSU13cnMwdm1HN1N2ZVZlUzh5LXQzeFhXWQ?oc=5)
+
+2026-05-03 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYVZCcldFVWFKWHpIbnRzOWJiVmlocTg5ejNyZ3FuVFk5ZmVIemN4YXlva0ZZQlk1N1pXWkJPVWl1SlZfVnlQb3d2Y2tVS093RmRBcjEyTC03VlhJN3Q3eHpTaFJRZ0VDLXRxbWVZV1VwajhVZ2ZDSU13cnMwdm1HN1N2ZVZlUzh5LXQzeFhXWQ?oc=5)
+
+---
 
 ### [年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵](https://news.google.com/rss/articles/CBMiswNBVV95cUxQTGpNTXpoWDk3WVQ0cTZ4SGNKVjhFbmhFVGdGdFhBdERWMFZQdDMyWlhuUDlNTkl2b205aVI4RTVuSFRXS09vLUVDdGZpYmVOLUZsSDhCWU92VTNWUS03V282dVFPb29OcjF3TmRGQjR5WWxlQlZPOXFvY3FMdjBGYTdFek9kSXRKdTc4QnNudjR4ZUw2T3FUNWxYakZsRW9ZMzhqSWFUSG83RmMwaTBRN1loR0NJY3JsTDFpQXNMVm8yRTdDLXpDYU5TSGFldmhxVGdkbXkzYWNpSlo4dVVzQlJHWXpLUEFMRlRfSHlfcm5MdzB5X1h4X1BWYjE1aVg4a3k5b0Q5dFg1bHdVLVBUM0M3MFhDTi14MW9Xd2xXMVJGZmNmNnd6aXMtcE9mV3kwWjdaWVhmTjJJQ1d6NnRaMnFDb1BWTTZqdXdBT0lGdm5ueGNvMHQ0TWdXR3ZPNE9USUlpbXV1dnZWNU9pZUdSYUQ5dG9yMXdnX2ZjVWc5bjFBSXk5bWk0dzYyNkhYaXUyeW1pR1JWaXFwc2I4SDk3cTlfODNiLWQxMVVoZEtvWlJ1bjQ?oc=5)
 
@@ -57,22 +65,6 @@ permalink: /news/oteracil/
 2026-05-02 <span class="news-indication-tag">癌症</span>
 
 來源：[Singtaousa](https://news.google.com/rss/articles/CBMitgFBVV95cUxNN3pHTFNsTEREeGMwcmg0bXRZWE5qYjl5MjQ1YnJGWGdoS1NmSXBCZVYzNFpVZkMxUkZKSF9mVTRlWEhvb1F1QjA2Vm5iZDI1Z1A5eExHTURrbjdRMGRGbkVDa3llVmxldGpYNGw5VnpqR2VXLTJiendQcDRaRWw4ME5fdTZwblV3MjEybUNqbWk4dDNXSTJlbHBQSDRqYW9hckdZdE9qaEpZYWItcm5BNE9sbGNndw?oc=5)
-
----
-
-### [吃優格防大腸癌！每週至少吃2次 營養師教「選這種」最有效](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIc1lWeTRSbzhqN3hEeTBTYV9NTGJCUXZGdXZLTURFUTd0aS12UGZKMHFFQzRSVE4tT2FTVFZpVXJpOHhBai1JWVZxT05zWWlM?oc=5)
-
-2026-05-01 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIc1lWeTRSbzhqN3hEeTBTYV9NTGJCUXZGdXZLTURFUTd0aS12UGZKMHFFQzRSVE4tT2FTVFZpVXJpOHhBai1JWVZxT05zWWlM?oc=5)
-
----
-
-### [經歷癌症腦瘤雙重打擊 64歲港婦重拾人生主導權 「心境係良藥！」](https://news.google.com/rss/articles/CBMijANBVV95cUxOQWMwd1NsX0xNNXVBRWVQM044eVZQMlliU2dVTENvRXo4QXJ5a2d0NFNSMnp5d2tGM3R6RXlteUdtZ3lHcm8xT3JJU3ktUlBDM0VmQ2FjTHZEYzFtQXFFaTBjenJ6ZkJIVTZGWmxZX01kb0g0MUFPVWtwWTBFM2JiNmFTV3NwSTVmTnZFWDdWSDBGcW1pMmYxS214N0U0Ym9qbGlBZVh0QXhpV3lBbzd6Q3V3X1NCWXUtR3FMMmpwa1NkNUNOMWpaM0c1cU5KZWFwaTIwU0dLenJObjNBaW1YTzlEVHVPVUM4WVJSeDRPWF8zU25aV2hOUDNlR1pvSVE2Q2thVi12NnFsMHBpZWVpVmtjaWRLXzVOWnYtbFVaM0huTUNCMktxakx1R29ESzktck1BcGFDTEltU1FIeWV1MkZCR1dYbzBZXzItODVjOE5lMTRvaGpUMEd2b0hBdUFHVTY2aVpFWjRaR2N5cmdfQ2g3Ykhld205QXpOWHp4UmdqVHk4Z3RKTHpVNDI?oc=5)
-
-2026-05-01 <span class="news-indication-tag">癌症</span>
-
-來源：[星島頭條](https://news.google.com/rss/articles/CBMijANBVV95cUxOQWMwd1NsX0xNNXVBRWVQM044eVZQMlliU2dVTENvRXo4QXJ5a2d0NFNSMnp5d2tGM3R6RXlteUdtZ3lHcm8xT3JJU3ktUlBDM0VmQ2FjTHZEYzFtQXFFaTBjenJ6ZkJIVTZGWmxZX01kb0g0MUFPVWtwWTBFM2JiNmFTV3NwSTVmTnZFWDdWSDBGcW1pMmYxS214N0U0Ym9qbGlBZVh0QXhpV3lBbzd6Q3V3X1NCWXUtR3FMMmpwa1NkNUNOMWpaM0c1cU5KZWFwaTIwU0dLenJObjNBaW1YTzlEVHVPVUM4WVJSeDRPWF8zU25aV2hOUDNlR1pvSVE2Q2thVi12NnFsMHBpZWVpVmtjaWRLXzVOWnYtbFVaM0huTUNCMktxakx1R29ESzktck1BcGFDTEltU1FIeWV1MkZCR1dYbzBZXzItODVjOE5lMTRvaGpUMEd2b0hBdUFHVTY2aVpFWjRaR2N5cmdfQ2g3Ykhld205QXpOWHp4UmdqVHk4Z3RKTHpVNDI?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [添加一種蛋白質有助於大腦對抗阿茲海默症。](https://news.google.com/rss/articles/CBMi7gJBVV95cUxOWC1oZENuTUpCa0F5M0ZjeS1hOV9KdHB0bjEyaXJUWGctMmxwRXBZX2o3cktvekctOVJyQTYydk5telZqUXJmVGRwNEhSd3FmSkpQS2Nma0RsU1lFWkEyU0o3ZWJkRklRTkRucFhudnplY1Zfbk82YTdLc01RME5ZYUJKQ2NFdjZPaTNFdGpFbnB1dkJ4bXltQnVjZ2FIOFFSSEF5UjI3SjhhcnJSVmFNUTRndGtWenNkTl9UV2pnYlJ0bVJDNlNlSEVqc0xzMjdVVHJ4WWhXS2FYS0p4SHFPeVN1UXNvSkd5RjZwMDFrR1g0bHRmU21hQTdaM3BOaG1QU0o2d0FIemExRXZlRm1IckFUM3JHSmFWbTVaMS1qam1kMk5YbWJobEt6REk4d0xjeUY2UFZMOVdyZHVDQ0pBMWttOWdaWW9GN2h6WW1pZWlQcVJza0NSY25ZSVZ5LUZXNUhXWElQbWxGak1waFE?oc=5)
 
@@ -64,14 +64,6 @@ permalink: /news/gefitinib/
 2026-05-02 <span class="news-indication-tag">癌症</span>
 
 來源：[Singtaousa](https://news.google.com/rss/articles/CBMitgFBVV95cUxNN3pHTFNsTEREeGMwcmg0bXRZWE5qYjl5MjQ1YnJGWGdoS1NmSXBCZVYzNFpVZkMxUkZKSF9mVTRlWEhvb1F1QjA2Vm5iZDI1Z1A5eExHTURrbjdRMGRGbkVDa3llVmxldGpYNGw5VnpqR2VXLTJiendQcDRaRWw4ME5fdTZwblV3MjEybUNqbWk4dDNXSTJlbHBQSDRqYW9hckdZdE9qaEpZYWItcm5BNE9sbGNndw?oc=5)
-
----
-
-### [經歷癌症腦瘤雙重打擊 64歲港婦重拾人生主導權 「心境係良藥！」](https://news.google.com/rss/articles/CBMijANBVV95cUxOQWMwd1NsX0xNNXVBRWVQM044eVZQMlliU2dVTENvRXo4QXJ5a2d0NFNSMnp5d2tGM3R6RXlteUdtZ3lHcm8xT3JJU3ktUlBDM0VmQ2FjTHZEYzFtQXFFaTBjenJ6ZkJIVTZGWmxZX01kb0g0MUFPVWtwWTBFM2JiNmFTV3NwSTVmTnZFWDdWSDBGcW1pMmYxS214N0U0Ym9qbGlBZVh0QXhpV3lBbzd6Q3V3X1NCWXUtR3FMMmpwa1NkNUNOMWpaM0c1cU5KZWFwaTIwU0dLenJObjNBaW1YTzlEVHVPVUM4WVJSeDRPWF8zU25aV2hOUDNlR1pvSVE2Q2thVi12NnFsMHBpZWVpVmtjaWRLXzVOWnYtbFVaM0huTUNCMktxakx1R29ESzktck1BcGFDTEltU1FIeWV1MkZCR1dYbzBZXzItODVjOE5lMTRvaGpUMEd2b0hBdUFHVTY2aVpFWjRaR2N5cmdfQ2g3Ykhld205QXpOWHp4UmdqVHk4Z3RKTHpVNDI?oc=5)
-
-2026-05-01 <span class="news-indication-tag">癌症</span>
-
-來源：[星島頭條](https://news.google.com/rss/articles/CBMijANBVV95cUxOQWMwd1NsX0xNNXVBRWVQM044eVZQMlliU2dVTENvRXo4QXJ5a2d0NFNSMnp5d2tGM3R6RXlteUdtZ3lHcm8xT3JJU3ktUlBDM0VmQ2FjTHZEYzFtQXFFaTBjenJ6ZkJIVTZGWmxZX01kb0g0MUFPVWtwWTBFM2JiNmFTV3NwSTVmTnZFWDdWSDBGcW1pMmYxS214N0U0Ym9qbGlBZVh0QXhpV3lBbzd6Q3V3X1NCWXUtR3FMMmpwa1NkNUNOMWpaM0c1cU5KZWFwaTIwU0dLenJObjNBaW1YTzlEVHVPVUM4WVJSeDRPWF8zU25aV2hOUDNlR1pvSVE2Q2thVi12NnFsMHBpZWVpVmtjaWRLXzVOWnYtbFVaM0huTUNCMktxakx1R29ESzktck1BcGFDTEltU1FIeWV1MkZCR1dYbzBZXzItODVjOE5lMTRvaGpUMEd2b0hBdUFHVTY2aVpFWjRaR2N5cmdfQ2g3Ykhld205QXpOWHp4UmdqVHk4Z3RKTHpVNDI?oc=5)
 
 ---
 

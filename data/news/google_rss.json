@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-03T05:50:10.698740+00:00",
-  "count": 19,
+  "fetched_at": "2026-05-03T07:49:19.513568+00:00",
+  "count": 18,
   "news": [
     {
       "id": "6dc5b714332e",
@@ -52,6 +52,18 @@
       ]
     },
     {
+      "id": "283cfbe63bab",
+      "title": "每天吃優格會如何？營養師解答3大好處- 健康 - 中時新聞網",
+      "published": "2026-05-03T07:13:52+00:00",
+      "summary": "每天吃優格會如何？營養師解答3大好處- 健康&nbsp;&nbsp;中時新聞網蔬果吃夠就不會大腸癌？營養師點名「這1神隊友」：每週吃2次降風險&nbsp;&nbsp;三立新聞網SETN.com糙米藜麥比一比：專家揭示腸道健康關鍵，高纖蛋白有助維護腸道平衡&nbsp;&nbsp;yesmedia.com.tw天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵&nbsp;&nbsp;ENN台灣電報選對優格防腸癌 13萬人研究曝關鍵益菌：每周吃2次&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYVZCcldFVWFKWHpIbnRzOWJiVmlocTg5ejNyZ3FuVFk5ZmVIemN4YXlva0ZZQlk1N1pXWkJPVWl1SlZfVnlQb3d2Y2tVS093RmRBcjEyTC03VlhJN3Q3eHpTaFJRZ0VDLXRxbWVZV1VwajhVZ2ZDSU13cnMwdm1HN1N2ZVZlUzh5LXQzeFhXWQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "542bfcc6395a",
       "title": "露營完「手掌爆紅斑」狂擦藥沒用 一驗竟是梅毒！醫揭關鍵原因 - 壹蘋新聞網",
       "published": "2026-05-02T02:48:00+00:00",
@@ -96,18 +108,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNTi1hdkRPQjdzQXdwOFhYaDI2dlgtdDJ6azJEQWF2YVBRQThyMUlQQ3NYc3hBVXhWU1ZFUUlWT3NRUVFEZXNtTnMzcWNKSE1McEMxZF9fUmo2dTU4bXJRS2NpMFUxVm94eFBSQXZHcG91bktpSXNPaVhyRV9iMXlKa1Z2OTFVVkdkcVFVeTFwdy15MmZ4d1ZqeDVTWnJpZFhoNk9hZUZsa2JNajM2NXVqRzFPcWNza3dCdkpXVXRPRW1fSXZfdjgxMWNBUC1wMVEwa3hldjJDUVBhb0pBQ2h2OURsTWdoRDk1UWg5dmZ3TEphbFZqY1BOTDUtXzhZZDM4T3R3YVF3VHhVZk1iNjdKU0pXNTdFYzc3U0VfdkVHYUJVVjFBcXNaYkFyMUtBYWZuVFpnZy1UeXJLY1VpbHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ed6d5997425e",
-      "title": "吃優格防大腸癌！每週至少吃2次 營養師教「選這種」最有效 - TVBS新聞網",
-      "published": "2026-05-01T07:13:00+00:00",
-      "summary": "吃優格防大腸癌！每週至少吃2次 營養師教「選這種」最有效&nbsp;&nbsp;TVBS新聞網前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIc1lWeTRSbzhqN3hEeTBTYV9NTGJCUXZGdXZLTURFUTd0aS12UGZKMHFFQzRSVE4tT2FTVFZpVXJpOHhBai1JWVZxT05zWWlM?oc=5"
         }
       ]
     },
@@ -172,18 +172,6 @@
       ]
     },
     {
-      "id": "9d2e6674beb3",
-      "title": "帕沙迪納學校爆發百日咳疫情 - Singtaousa",
-      "published": "2026-05-01T10:00:00+00:00",
-      "summary": "帕沙迪納學校爆發百日咳疫情&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUmtrQ0JBZmx5cVpKV21aTzg5TFZEUGZ1VjIya3JiU3VaQ1c1VHNPcS1OUVFaRUU4Tk1qY29zSHpELUp5UlVEZ3pvaTZoRGFRZUFQaG9LSmw4eElBYUpBRkE2bkVlZkVfSEVEUnp4MExvcVVIRHhZdXNOZ1k3U2Y4N0JFN1RfNWpNRUE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f55a1df1fb05",
       "title": "細胞增生 - Singtaousa",
       "published": "2026-05-02T12:00:00+00:00",
@@ -192,6 +180,18 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMW53bURNd1I3UWJyb0tLeEVzWjdZeDJqSHNVam9vV1hiOFFNbDNrSm5RdnVNaXVSVVBqNGU5a3BfakF6QXFDa191UFBPWVZaRFpKZHZQLUt2emNwblMxcTBGaE1NUjN5RWtDWms2Q09MMXdQOUktTnRxaVVUamVWNXV4NkZUa1U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9d2e6674beb3",
+      "title": "帕沙迪納學校爆發百日咳疫情 - Singtaousa",
+      "published": "2026-05-01T10:00:00+00:00",
+      "summary": "帕沙迪納學校爆發百日咳疫情&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUmtrQ0JBZmx5cVpKV21aTzg5TFZEUGZ1VjIya3JiU3VaQ1c1VHNPcS1OUVFaRUU4Tk1qY29zSHpELUp5UlVEZ3pvaTZoRGFRZUFQaG9LSmw4eElBYUpBRkE2bkVlZkVfSEVEUnp4MExvcVVIRHhZdXNOZ1k3U2Y4N0JFN1RfNWpNRUE?oc=5"
         }
       ]
     },
@@ -216,18 +216,6 @@
         {
           "name": "Techritual Hong Kong",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NLUVmWEtHTDBERlVyQlNZYUZxOWZJRk0zUk1SZzJPeVNIOUZkQV9rTTQ1T0pydzBmbDY2Nl9EVzB2Sm9kcVlMX3R6cy0yVlpoNFVnYUQ0Y24?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aa4e5f203cb1",
-      "title": "經歷癌症腦瘤雙重打擊 64歲港婦重拾人生主導權 「心境係良藥！」 - 星島頭條",
-      "published": "2026-05-01T04:00:00+00:00",
-      "summary": "經歷癌症腦瘤雙重打擊 64歲港婦重拾人生主導權 「心境係良藥！」&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxOQWMwd1NsX0xNNXVBRWVQM044eVZQMlliU2dVTENvRXo4QXJ5a2d0NFNSMnp5d2tGM3R6RXlteUdtZ3lHcm8xT3JJU3ktUlBDM0VmQ2FjTHZEYzFtQXFFaTBjenJ6ZkJIVTZGWmxZX01kb0g0MUFPVWtwWTBFM2JiNmFTV3NwSTVmTnZFWDdWSDBGcW1pMmYxS214N0U0Ym9qbGlBZVh0QXhpV3lBbzd6Q3V3X1NCWXUtR3FMMmpwa1NkNUNOMWpaM0c1cU5KZWFwaTIwU0dLenJObjNBaW1YTzlEVHVPVUM4WVJSeDRPWF8zU25aV2hOUDNlR1pvSVE2Q2thVi12NnFsMHBpZWVpVmtjaWRLXzVOWnYtbFVaM0huTUNCMktxakx1R29ESzktck1BcGFDTEltU1FIeWV1MkZCR1dYbzBZXzItODVjOE5lMTRvaGpUMEd2b0hBdUFHVTY2aVpFWjRaR2N5cmdfQ2g3Ykhld205QXpOWHp4UmdqVHk4Z3RKTHpVNDI?oc=5"
         }
       ]
     }
