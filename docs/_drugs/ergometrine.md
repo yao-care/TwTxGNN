@@ -131,5 +131,10 @@ Moderate 級別交互作用包含：Doxycycline、Aprepitant、Dexamethasone、T
 - 建立心血管安全監測計畫，特別針對 Major DDI 藥物（Epinephrine、Ephedrine、Cobicistat）及合併冠心病、高血壓患者
 - **肺動脈高壓患者（TxGNN 第 10 名預測）為明確安全疑慮族群**：Ergometrine 在此族群可能誘發急性肺高壓危象（見文獻 PMID 26050249），應列為禁忌評估
 - 評估是否申請「偏頭痛」正式適應症擴充，利用既有台灣仿單先例加速審查
+## 免責聲明
+
+本內容僅供研究參考，不構成醫療建議。
+所有老藥新用預測結果需經過臨床驗證才能應用。
+
 ---
 

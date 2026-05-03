@@ -127,5 +127,10 @@ TxGNN 模型預測它可能對**非典型主動脈縮窄 (Atypical Coarctation o
 - 乳酸分子在主動脈縮窄或相關血管重塑病理中的明確機轉研究
 - 取得完整作用機轉資料（MOA）以補足 DrugBank 資料缺口
 - 重新評估預測清單中證據等級較高的候選適應症（如 dry eye syndrome L4、esophageal disease L4、eye disease L4）是否更具研究價值
+## 免責聲明
+
+本內容僅供研究參考，不構成醫療建議。
+所有老藥新用預測結果需經過臨床驗證才能應用。
+
 ---
 
