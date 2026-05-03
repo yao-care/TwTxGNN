@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T16:38:17.054443+00:00",
-  "count": 6,
+  "generated": "2026-05-03T17:39:35.584753+00:00",
+  "count": 5,
   "news": [
     {
       "id": "e6086a91a08d",
@@ -312,53 +312,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a7413a4b61ed",
-      "title": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵",
-      "published": "2026-05-02T08:23:54+00:00",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1UOVZsR19PS2pWcDA5QkpxUVlaU01zNFh3bWUzQ2NDR2xuVlp4NDI2ZjNUZnQ4QWZDMkE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }

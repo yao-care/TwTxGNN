@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-05-03T16:38:17.025600+00:00",
+  "last_updated": "2026-05-03T17:39:35.553413+00:00",
   "total_count": 17,
-  "matched_count": 6,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "5895b62536c9",
+      "title": "瘧疾不僅殺死了早期人類。但它也定義了我們是誰。",
+      "published": "2026-05-03T16:39:18+00:00",
+      "summary": "瘧疾不僅殺死了早期人類。但它也定義了我們是誰。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPdDF4OVlyX1J1bG5jbDFEbjM1R0JNTTRmV2hkV2Zsempidm03c0dacm02Rm11X1dsRTRzamJjTTkwUHc3T1lmd1RhbmxJdFdBVEo5T2JuRDJMQkZhMWotU1ZmREFzTTRYR3JMTW1KWkI2NnR0bENRNzEweEtFTWZ1RnE3ZmF0alR6M0NobWE5OEhtamtjcnZ6Q0xFaERWTVRjb0NUSWROS1dLUjZyVm5hNUM5eklVMHFfWDlQRHBRRDRxT1AxdmE4Zk81MGU0M29oamltbmtCUFhHU0x0S1hRTjExdC1CeG1JTDlJWl9GelJFNzQyVnplQXM2SDg2S2xfbHBCWTRtNnFrekwxYUxQZG1rdWlnMmtMSzdfUFpQdkw4bDlRVGFJQ01NZFFGeWV1eHcxdHcxaXpZeU1XcDVDcVpVLVlJcjZWejlZUFpwa3p1UzV1dEhpNmFjOGw3WUtUVHc4T1ZEZ1Z5U1EzdDJLYmlvLVNVU0dZaFdGQzBKbFRQUm5kWVE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "c7772df16edf",
       "title": "每天吃優格會如何？營養師解答3大好處- 國際",
@@ -386,54 +399,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "a7413a4b61ed",
-      "title": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵",
-      "published": "2026-05-02T08:23:54+00:00",
-      "summary": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵&nbsp;&nbsp;ENN台灣電報前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1UOVZsR19PS2pWcDA5QkpxUVlaU01zNFh3bWUzQ2NDR2xuVlp4NDI2ZjNUZnQ4QWZDMkE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "8817c71588b1",

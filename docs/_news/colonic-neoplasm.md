@@ -3,7 +3,7 @@ layout: default
 title: "大腸癌（colonic neoplasm） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/colonic-neoplasm/
 ---
 
 <p class="key-answer" data-question="大腸癌（colonic neoplasm） 有什麼相關新聞？">
-<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/colonic-neoplasm/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [每日服用低劑量阿斯匹靈，竟能讓特定大腸癌患者復發風險減半 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zUnlubWFYYXRlZVU4VENfTlFLZ3U5OEdUSlBqTDF5SzIwcnhZR0dDQlBCMUJGMU8xV09PLVcyVGswNzZOVTFLaWpfRHlycVZlT01hNXd3?oc=5)
 
 2026-05-02
 
 來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zUnlubWFYYXRlZVU4VENfTlFLZ3U5OEdUSlBqTDF5SzIwcnhZR0dDQlBCMUJGMU8xV09PLVcyVGswNzZOVTFLaWpfRHlycVZlT01hNXd3?oc=5)
-
----
-
-### [天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1UOVZsR19PS2pWcDA5QkpxUVlaU01zNFh3bWUzQ2NDR2xuVlp4NDI2ZjNUZnQ4QWZDMkE?oc=5)
-
-2026-05-02
-
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1UOVZsR19PS2pWcDA5QkpxUVlaU01zNFh3bWUzQ2NDR2xuVlp4NDI2ZjNUZnQ4QWZDMkE?oc=5)
 
 ---
 
