@@ -31,11 +31,11 @@ permalink: /news/colonic-neoplasm/
 
 ## 相關新聞（1 則）
 
-### [每天吃優格會如何？營養師解答3大好處- 健康](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYVZCcldFVWFKWHpIbnRzOWJiVmlocTg5ejNyZ3FuVFk5ZmVIemN4YXlva0ZZQlk1N1pXWkJPVWl1SlZfVnlQb3d2Y2tVS093RmRBcjEyTC03VlhJN3Q3eHpTaFJRZ0VDLXRxbWVZV1VwajhVZ2ZDSU13cnMwdm1HN1N2ZVZlUzh5LXQzeFhXWQ?oc=5)
+### [天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1UOVZsR19PS2pWcDA5QkpxUVlaU01zNFh3bWUzQ2NDR2xuVlp4NDI2ZjNUZnQ4QWZDMkE?oc=5)
 
-2026-05-03
+2026-05-02
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYVZCcldFVWFKWHpIbnRzOWJiVmlocTg5ejNyZ3FuVFk5ZmVIemN4YXlva0ZZQlk1N1pXWkJPVWl1SlZfVnlQb3d2Y2tVS093RmRBcjEyTC03VlhJN3Q3eHpTaFJRZ0VDLXRxbWVZV1VwajhVZ2ZDSU13cnMwdm1HN1N2ZVZlUzh5LXQzeFhXWQ?oc=5)
+來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1UOVZsR19PS2pWcDA5QkpxUVlaU01zNFh3bWUzQ2NDR2xuVlp4NDI2ZjNUZnQ4QWZDMkE?oc=5)
 
 ---
 

@@ -1,56 +1,8 @@
 {
-  "last_updated": "2026-05-03T07:49:28.890731+00:00",
-  "total_count": 18,
+  "last_updated": "2026-05-03T09:14:26.357346+00:00",
+  "total_count": 15,
   "matched_count": 5,
   "news": [
-    {
-      "id": "283cfbe63bab",
-      "title": "每天吃優格會如何？營養師解答3大好處- 健康",
-      "published": "2026-05-03T07:13:52+00:00",
-      "summary": "每天吃優格會如何？營養師解答3大好處- 健康&nbsp;&nbsp;中時新聞網蔬果吃夠就不會大腸癌？營養師點名「這1神隊友」：每週吃2次降風險&nbsp;&nbsp;三立新聞網SETN.com糙米藜麥比一比：專家揭示腸道健康關鍵，高纖蛋白有助維護腸道平衡&nbsp;&nbsp;yesmedia.com.tw天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵&nbsp;&nbsp;ENN台灣電報選對優格防腸癌 13萬人研究曝關鍵益菌：每周吃2次&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYVZCcldFVWFKWHpIbnRzOWJiVmlocTg5ejNyZ3FuVFk5ZmVIemN4YXlva0ZZQlk1N1pXWkJPVWl1SlZfVnlQb3d2Y2tVS093RmRBcjEyTC03VlhJN3Q3eHpTaFJRZ0VDLXRxbWVZV1VwajhVZ2ZDSU13cnMwdm1HN1N2ZVZlUzh5LXQzeFhXWQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "203303209bb1",
       "title": "加州多縣梅毒病例飆升 弗雷斯諾縣發病率居高不下",
@@ -375,6 +327,65 @@
       "matched_keywords": []
     },
     {
+      "id": "a7413a4b61ed",
+      "title": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵",
+      "published": "2026-05-02T08:23:54+00:00",
+      "summary": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵&nbsp;&nbsp;ENN台灣電報蔬果吃夠就不會大腸癌？營養師點名「這1神隊友」：每週吃2次降風險&nbsp;&nbsp;三立新聞網SETN.com糙米藜麥比一比：專家揭示腸道健康關鍵，高纖蛋白有助維護腸道平衡&nbsp;&nbsp;yesmedia.com.tw感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年&nbsp;&nbsp;壹蘋新聞網選對優格防腸癌 13萬人研究曝關鍵益菌：每周吃2次&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1UOVZsR19PS2pWcDA5QkpxUVlaU01zNFh3bWUzQ2NDR2xuVlp4NDI2ZjNUZnQ4QWZDMkE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "8817c71588b1",
       "title": "安義男子手抓野貓救老伴 染漢坦病毒直入ICU 確診嚴重腎損傷 - Techritual Hong Kong",
       "published": "2026-05-02T08:02:46+00:00",
@@ -657,45 +668,6 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUmtrQ0JBZmx5cVpKV21aTzg5TFZEUGZ1VjIya3JiU3VaQ1c1VHNPcS1OUVFaRUU4Tk1qY29zSHpELUp5UlVEZ3pvaTZoRGFRZUFQaG9LSmw4eElBYUpBRkE2bkVlZkVfSEVEUnp4MExvcVVIRHhZdXNOZ1k3U2Y4N0JFN1RfNWpNRUE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "89408424ae75",
-      "title": "您的腸道受到壓力和晚食的“雙重影響”",
-      "published": "2026-05-01T08:05:19+00:00",
-      "summary": "您的腸道受到壓力和晚食的“雙重影響”&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNTi1hdkRPQjdzQXdwOFhYaDI2dlgtdDJ6azJEQWF2YVBRQThyMUlQQ3NYc3hBVXhWU1ZFUUlWT3NRUVFEZXNtTnMzcWNKSE1McEMxZF9fUmo2dTU4bXJRS2NpMFUxVm94eFBSQXZHcG91bktpSXNPaVhyRV9iMXlKa1Z2OTFVVkdkcVFVeTFwdy15MmZ4d1ZqeDVTWnJpZFhoNk9hZUZsa2JNajM2NXVqRzFPcWNza3dCdkpXVXRPRW1fSXZfdjgxMWNBUC1wMVEwa3hldjJDUVBhb0pBQ2h2OURsTWdoRDk1UWg5dmZ3TEphbFZqY1BOTDUtXzhZZDM4T3R3YVF3VHhVZk1iNjdKU0pXNTdFYzc3U0VfdkVHYUJVVjFBcXNaYkFyMUtBYWZuVFpnZy1UeXJLY1VpbHc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b7acc938dfbc",
-      "title": "研究顯示早期人類主動避開瘧疾高風險區 改變遷徙路徑及演化格局 - Techritual Hong Kong",
-      "published": "2026-05-01T07:03:46+00:00",
-      "summary": "研究顯示早期人類主動避開瘧疾高風險區 改變遷徙路徑及演化格局&nbsp;&nbsp;Techritual Hong Kong",
-      "sources": [
-        {
-          "name": "Techritual Hong Kong",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NLUVmWEtHTDBERlVyQlNZYUZxOWZJRk0zUk1SZzJPeVNIOUZkQV9rTTQ1T0pydzBmbDY2Nl9EVzB2Sm9kcVlMX3R6cy0yVlpoNFVnYUQ0Y24?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7f591cb2bd73",
-      "title": "兒癌終極挑戰 質子是首選",
-      "published": "2026-04-30T03:21:44+00:00",
-      "summary": "兒癌終極挑戰 質子是首選&nbsp;&nbsp;《現代保險》雜誌",
-      "sources": [
-        {
-          "name": "《現代保險》雜誌",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Obk40c1d3S2tYNW5LNlJhYnN5SUQ4cU1hVktKaUcwQUhNNGFMUUFIWVJDWHZNTTY2ZHRzSmlCNEQ5OGZhVWVKQ2liQTliNXRSVl80?oc=5"
         }
       ],
       "matched_keywords": []
