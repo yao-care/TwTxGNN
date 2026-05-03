@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [台女長期食1 物確診晚期胃癌醫生警告加工肉類增患癌風險](https://news.google.com/rss/articles/CBMi8AJBVV95cUxPZE8tMXRBbGJOV2VKcFlzbFNJaURkLWZRa1ZEbDNEcERfVlBTZE14VTJwMFFYNnBkZVB4M1lEUmRUSF8ya29Pa1JTanFlTmtwMEU4UnVRMmhiV3hRS2JjX05Dd1pnOTdWbUN1RnlDUU9zMHc1bTB3VFRwRWxTcFNJU3Y0LUJkc1hGYmNCalFUdS1uWW9yU3hBRlZOUk5URFd4ZHhNU3cwc3VIUmhacmhXRnpBR04xZmpOdVVYU0FMMU9iaU1YMkJTdVQ4ZTh4U2VFUVF3Nkc4VnJJNGtEaGpnM1FwZXZGdkdndUUxaGF3VU1iTmduVHBCMW1xMnIxWkNXSFlUTkVrdTFuTWQ1T0k1RlB4S2M4dHFJeVo4RWppSzVuVU1jck9veWpYSEJkMUxnNnE5c2Y0S200cUNFUktodnhLR2U0TkNMY1kzVUcxdVFxeE9jNmFYNnhoUUZmRXAyQndIbFIxTVZtbndLZEhJcQ?oc=5)
+
+2026-05-03 <span class="news-indication-tag">胃癌</span>
+
+來源：[bastillepost.com](https://news.google.com/rss/articles/CBMi8AJBVV95cUxPZE8tMXRBbGJOV2VKcFlzbFNJaURkLWZRa1ZEbDNEcERfVlBTZE14VTJwMFFYNnBkZVB4M1lEUmRUSF8ya29Pa1JTanFlTmtwMEU4UnVRMmhiV3hRS2JjX05Dd1pnOTdWbUN1RnlDUU9zMHc1bTB3VFRwRWxTcFNJU3Y0LUJkc1hGYmNCalFUdS1uWW9yU3hBRlZOUk5URFd4ZHhNU3cwc3VIUmhacmhXRnpBR04xZmpOdVVYU0FMMU9iaU1YMkJTdVQ4ZTh4U2VFUVF3Nkc4VnJJNGtEaGpnM1FwZXZGdkdndUUxaGF3VU1iTmduVHBCMW1xMnIxWkNXSFlUTkVrdTFuTWQ1T0k1RlB4S2M4dHFJeVo4RWppSzVuVU1jck9veWpYSEJkMUxnNnE5c2Y0S200cUNFUktodnhLR2U0TkNMY1kzVUcxdVFxeE9jNmFYNnhoUUZmRXAyQndIbFIxTVZtbndLZEhJcQ?oc=5)
+
+---
 
 ### [3D 研究分析面部衰老軌跡女性更年期後老化明顯加速](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNNDFMcmkwQmJicmhyM1h0RGNoTXcyalhndTcxNEh2M3REaW9mRy1lckMtbGM0RU9fUE5OU1VJQW9fclpwRl9KUzNSM3RNV2Ewcm1xcUluN0RLMUJVTjk3UEZIWmRmdVY1UXRac1podmRrMkd5TFpOcHlqc1pMemlmR04wem9mVVBSTkNoc2xCaENhQTdZamxHNTI1aGJ1T2lmY3lPME1HY2NPVjFHZHhTYkVMLXpzUFFpMDZCdlU0enVZUFBNS2h1dG9US181bXgxR2FCVTVDYzlsWms2WFotZVQ0SUpFcTdkM256R1VPN3RRNFgxTER3Z1huX3dyRGQwV2l0QUJHTzJ5RzVBS0FKcnl1bG1sbGkyemdmY2wwM3FpUUNfZUgyNGlHWlJoaEpTbU1sUnNZc0RKTmlVLUF2cHdpemR5dmtMSFJCYWZ1aFZNeUg5ZFhYVXJoNmltUXI1MzFCNkx3?oc=5)
 

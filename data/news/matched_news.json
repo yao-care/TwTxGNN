@@ -1,8 +1,41 @@
 {
-  "last_updated": "2026-05-03T22:32:08.280590+00:00",
-  "total_count": 16,
-  "matched_count": 4,
+  "last_updated": "2026-05-03T23:35:41.861530+00:00",
+  "total_count": 17,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "04561586a0a7",
+      "title": "台女長期食1 物確診晚期胃癌醫生警告加工肉類增患癌風險",
+      "published": "2026-05-03T23:00:54+00:00",
+      "summary": "台女長期食1 物確診晚期胃癌醫生警告加工肉類增患癌風險&nbsp;&nbsp;bastillepost.com",
+      "sources": [
+        {
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPZE8tMXRBbGJOV2VKcFlzbFNJaURkLWZRa1ZEbDNEcERfVlBTZE14VTJwMFFYNnBkZVB4M1lEUmRUSF8ya29Pa1JTanFlTmtwMEU4UnVRMmhiV3hRS2JjX05Dd1pnOTdWbUN1RnlDUU9zMHc1bTB3VFRwRWxTcFNJU3Y0LUJkc1hGYmNCalFUdS1uWW9yU3hBRlZOUk5URFd4ZHhNU3cwc3VIUmhacmhXRnpBR04xZmpOdVVYU0FMMU9iaU1YMkJTdVQ4ZTh4U2VFUVF3Nkc4VnJJNGtEaGpnM1FwZXZGdkdndUUxaGF3VU1iTmduVHBCMW1xMnIxWkNXSFlUTkVrdTFuTWQ1T0k1RlB4S2M4dHFJeVo4RWppSzVuVU1jck9veWpYSEJkMUxnNnE5c2Y0S200cUNFUktodnhLR2U0TkNMY1kzVUcxdVFxeE9jNmFYNnhoUUZmRXAyQndIbFIxTVZtbndLZEhJcQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "胃癌",
+          "keyword": "胃癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "trastuzumab_deruxtecan",
+              "name": "Trastuzumab deruxtecan"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "5895b62536c9",
       "title": "瘧疾不僅殺死了早期人類。但它也定義了我們是誰。",
