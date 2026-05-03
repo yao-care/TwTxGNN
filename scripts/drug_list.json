@@ -1,6 +1,6 @@
 {
-  "total": 279,
-  "generated_at": "2026-05-03T02:24:26.199556",
+  "total": 277,
+  "generated_at": "2026-05-03T12:56:38.032934",
   "drugs": [
     {
       "name": "Acebutolol",
@@ -1912,20 +1912,6 @@
       "evidence_level": "L5",
       "indication_count": 3,
       "predicted_indication": "Heparin Cofactor 2 Deficiency"
-    },
-    {
-      "name": "Warfarin Af",
-      "file": "warfarin_af.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
-    },
-    {
-      "name": "Warfarin Atrial Fibrillation",
-      "file": "warfarin_atrial_fibrillation.md",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "predicted_indication": ""
     },
     {
       "name": "Xylitol",
