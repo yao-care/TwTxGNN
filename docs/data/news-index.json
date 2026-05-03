@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-03T12:50:20.458398+00:00",
+  "generated": "2026-05-03T14:06:43.752018+00:00",
   "count": 5,
   "news": [
     {
@@ -44,17 +44,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
