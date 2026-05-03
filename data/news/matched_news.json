@@ -1,17 +1,43 @@
 {
-  "last_updated": "2026-05-03T15:38:38.762907+00:00",
-  "total_count": 14,
-  "matched_count": 5,
+  "last_updated": "2026-05-03T16:38:17.025600+00:00",
+  "total_count": 17,
+  "matched_count": 6,
   "news": [
     {
       "id": "c7772df16edf",
       "title": "每天吃優格會如何？營養師解答3大好處- 國際",
       "published": "2026-05-03T07:13:52+00:00",
-      "summary": "每天吃優格會如何？營養師解答3大好處- 國際&nbsp;&nbsp;中時新聞網蔬果吃夠就不會大腸癌？營養師點名「這1神隊友」：每週吃2次降風險&nbsp;&nbsp;祝你健康健康網》大腸癌不是突然來！醫揭腸道毒素不痛不癢卻傷DNA&nbsp;&nbsp;自由健康網感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年&nbsp;&nbsp;壹蘋新聞網糙米藜麥比一比：專家揭示腸道健康關鍵，高纖蛋白有助維護腸道平衡&nbsp;&nbsp;yesmedia.com.tw",
+      "summary": "每天吃優格會如何？營養師解答3大好處- 國際&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMRjJCZXlOaWJCcC1rd3hwTkFGb1hBQnNPTENUX0lvZXZwak5NTmpkUWpVUngwQk1DQlRDN1pZOUpLME1ybHZxTFJ4aG04cHRTc1dRdnZqdUFocHJXNUZEUlNsYkVEdFgwWU5fRldB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "203303209bb1",
+      "title": "加州多縣梅毒病例飆升 弗雷斯諾縣發病率居高不下",
+      "published": "2026-05-03T05:08:23+00:00",
+      "summary": "加州多縣梅毒病例飆升 弗雷斯諾縣發病率居高不下&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOelVEaS1faVlldDlKX052QzBLV1JwUEt0aDJaRE1BYXBqbG92dzJDaXFicExKWDFMc3JxVGt6M2JKeUg1OC1uSFhJdGU5Q3ZFN3JTTDEtWllIeUp5MnloNlM1dUlTWDNvbjdOekhrcE9EVVRNWjh5TkIxaXVkSUZfTDdDeXNCNnFVX2hTd1BWZVBVQ3QwTDRFcFlpU0JTN2JUY21JWU9QbkFiWHpoNUpFZkF2Yw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e6086a91a08d",
+      "title": "每日服用低劑量阿斯匹靈，竟能讓特定大腸癌患者復發風險減半 | 科技新報 - LINE TODAY",
+      "published": "2026-05-02T23:21:36+00:00",
+      "summary": "每日服用低劑量阿斯匹靈，竟能讓特定大腸癌患者復發風險減半 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zUnlubWFYYXRlZVU4VENfTlFLZ3U5OEdUSlBqTDF5SzIwcnhZR0dDQlBCMUJGMU8xV09PLVcyVGswNzZOVTFLaWpfRHlycVZlT01hNXd3?oc=5"
         }
       ],
       "matched_keywords": [
@@ -48,32 +74,8 @@
               "name": "Hydroxyurea"
             }
           ]
-        },
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
         }
       ]
-    },
-    {
-      "id": "203303209bb1",
-      "title": "加州多縣梅毒病例飆升 弗雷斯諾縣發病率居高不下",
-      "published": "2026-05-03T05:08:23+00:00",
-      "summary": "加州多縣梅毒病例飆升 弗雷斯諾縣發病率居高不下&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOelVEaS1faVlldDlKX052QzBLV1JwUEt0aDJaRE1BYXBqbG92dzJDaXFicExKWDFMc3JxVGt6M2JKeUg1OC1uSFhJdGU5Q3ZFN3JTTDEtWllIeUp5MnloNlM1dUlTWDNvbjdOekhrcE9EVVRNWjh5TkIxaXVkSUZfTDdDeXNCNnFVX2hTd1BWZVBVQ3QwTDRFcFlpU0JTN2JUY21JWU9QbkFiWHpoNUpFZkF2Yw?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "c3305a1bf320",
@@ -107,6 +109,44 @@
             {
               "slug": "nystatin",
               "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c4e7eb785ca7",
+      "title": "危險的阿米巴原蟲在世界各地蔓延，科學家敲響了警鐘",
+      "published": "2026-05-02T14:50:02+00:00",
+      "summary": "危險的阿米巴原蟲在世界各地蔓延，科學家敲響了警鐘&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPSjZ2dVpnUnQ0QjNSSThBdU9LcUdVX2pCLWVGZy0zTzgwWkdzSHhRYmstLXZfRVpwaExNVWpZTG9seFlCdlBmMzEwUlVobXo0VnlEeFhEbXRwNktpZlpfdG1RQzlHS2lERGFWR0R2U0ZCLXU2V05sNm1KUzlYcWk2VnZjMFdDcGJkX3VXeERRWHNhdUlncjgzUmJqSFdOb1FIZkdsU05RRDR4eGdVd28weWdCWm51dURjaDlPVDZ2WGVBd3A0d0VlTVp6dklxYmFDeXl5TnRuaGZmaHFWSW92NjBla3U1RmZTemhIUE1mU2JtNjFTWkhKbGx6bTZHYVdaQ0c5c21uXzhVRXpSLWpvd05pVU9VeXBQWGJfUmhKZG5vdEdDc1VNbFAyRW92RldaWGpXci1ET0Z5b2RzSjk2TGlLclNGTm5KY1UtREx3bUdzbXlVTkFsOFVxUzhqVEw5enkyc1V0WjRzbXBWNURtXzBmLUdXN0lsUTRJeE5la1o5Mm55ZXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c47a26a15ab5",
+      "title": "添加一種蛋白質有助於大腦對抗阿茲海默症。",
+      "published": "2026-05-02T13:53:46+00:00",
+      "summary": "添加一種蛋白質有助於大腦對抗阿茲海默症。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOWC1oZENuTUpCa0F5M0ZjeS1hOV9KdHB0bjEyaXJUWGctMmxwRXBZX2o3cktvekctOVJyQTYydk5telZqUXJmVGRwNEhSd3FmSkpQS2Nma0RsU1lFWkEyU0o3ZWJkRklRTkRucFhudnplY1Zfbk82YTdLc01RME5ZYUJKQ2NFdjZPaTNFdGpFbnB1dkJ4bXltQnVjZ2FIOFFSSEF5UjI3SjhhcnJSVmFNUTRndGtWenNkTl9UV2pnYlJ0bVJDNlNlSEVqc0xzMjdVVHJ4WWhXS2FYS0p4SHFPeVN1UXNvSkd5RjZwMDFrR1g0bHRmU21hQTdaM3BOaG1QU0o2d0FIemExRXZlRm1IckFUM3JHSmFWbTVaMS1qam1kMk5YbWJobEt6REk4d0xjeUY2UFZMOVdyZHVDQ0pBMWttOWdaWW9GN2h6WW1pZWlQcVJza0NSY25ZSVZ5LUZXNUhXWElQbWxGak1waFE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -348,14 +388,14 @@
       "matched_keywords": []
     },
     {
-      "id": "e6086a91a08d",
-      "title": "每日服用低劑量阿斯匹靈，竟能讓特定大腸癌患者復發風險減半 | 科技新報 - LINE TODAY",
-      "published": "2026-05-02T09:07:17+00:00",
-      "summary": "每日服用低劑量阿斯匹靈，竟能讓特定大腸癌患者復發風險減半 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "id": "a7413a4b61ed",
+      "title": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵",
+      "published": "2026-05-02T08:23:54+00:00",
+      "summary": "天天外食怕大腸癌？ 營養師建議：補充這類「超級纖維」是關鍵&nbsp;&nbsp;ENN台灣電報前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zUnlubWFYYXRlZVU4VENfTlFLZ3U5OEdUSlBqTDF5SzIwcnhZR0dDQlBCMUJGMU8xV09PLVcyVGswNzZOVTFLaWpfRHlycVZlT01hNXd3?oc=5"
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1UOVZsR19PS2pWcDA5QkpxUVlaU01zNFh3bWUzQ2NDR2xuVlp4NDI2ZjNUZnQ4QWZDMkE?oc=5"
         }
       ],
       "matched_keywords": [
