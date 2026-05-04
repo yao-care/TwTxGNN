@@ -1,7 +1,108 @@
 {
-  "generated": "2026-05-04T15:04:48.940788+00:00",
-  "count": 6,
+  "generated": "2026-05-04T17:22:48.945079+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "1968336b1730",
+      "title": "新研究揭示類風濕性關節炎骨破壞機制：鐵質過載與脂質代謝關聯",
+      "published": "2026-05-04T14:24:04+00:00",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQTWpUR0d4M1FKOGUwbkItbVd2NjZrRnoySWROcXhWZm5MNTQtdmNXN3FWVG01dklWUUtyQ1M3d2tTd2JFdmlQZGl6Rjg3VTY4bHQtS2RkT2padXFtcm1raXcyYUtGTEMwS3hWTnJ1UjUwNlVUeEFCWFJXTWlJdkNtU3F6VGItMWNLSUo1SldCcXFjR0dnTmsxVHptT1R5YTh2ZVQ3bE1DVjk1LVpBbjZoZTlOaDlGU2ZsX00yNlh1a2RYZ1BxNmhrZ0hQb1JBMHpUVlludUtoQW9aczZPZ0pTZ2szdF83djRpczlsTDRldUNzbHYyajhJZXd4cmRQckRoZm50cGx5eGhrRGR3Q01YVjlYMDZ3ejNZQkt0bmRQSGpmdkNPajJtSi1FdzlkSDltbHJNSy16a2U4TlRrQkk1ODNhdTFaQlV4Y05F?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "類風濕性關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "風濕",
+          "keyword": "風濕",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "關節炎",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            },
+            {
+              "slug": "ibuprofen",
+              "name": "Ibuprofen"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "風濕性關節炎",
+          "keyword": "風濕性關節炎",
+          "related_drugs": [
+            {
+              "slug": "carisoprodol",
+              "name": "Carisoprodol"
+            },
+            {
+              "slug": "prednisone",
+              "name": "Prednisone"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "a00aef3c4dc4",
       "title": "駝背死亡風險暴增2倍！極易患糖尿病+心臟病！醫生警告：大腦出問題！教6招1分鐘簡單自救法 - UHK 港生活",
@@ -340,12 +441,12 @@
       ]
     },
     {
-      "id": "386ee96b1cff",
+      "id": "e1630df51346",
       "title": "不是越老越危險！癌症擴散高峰竟落在中年 研究揪「免疫防線」破口",
       "published": "2026-05-04T05:46:00+00:00",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FSTJPcHRNNE96YlpPQ05nZjY5WG5HbEVRU3FpaUdIOXpmWkNCR0ZFemxQTlRQSDZRRlNZU1NWUXZrUUFibDBEM1NpVlNQSzRuSFJUanZyZzN6MTVGUzBLOWEyZnrSAWpBVV95cUxQajExN0FVamprMDZEZGFLcGlrTTk3TEJrQlRnS0htT2Q0LUM3M2I4WEQwVzg3R0ZGdUxkUGVJUXA3RWhqcnJxamJaM05tX2lOZF9adVFkRFFsaS1xb3lJS0JObElucDhCYlh3?oc=5"
         }
       ],
@@ -596,12 +697,12 @@
       ]
     },
     {
-      "id": "5fef92eab6e0",
+      "id": "c3305a1bf320",
       "title": "3D 研究分析面部衰老軌跡女性更年期後老化明顯加速",
       "published": "2026-05-02T23:00:28+00:00",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNNDFMcmkwQmJicmhyM1h0RGNoTXcyalhndTcxNEh2M3REaW9mRy1lckMtbGM0RU9fUE5OU1VJQW9fclpwRl9KUzNSM3RNV2Ewcm1xcUluN0RLMUJVTjk3UEZIWmRmdVY1UXRac1podmRrMkd5TFpOcHlqc1pMemlmR04wem9mVVBSTkNoc2xCaENhQTdZamxHNTI1aGJ1T2lmY3lPME1HY2NPVjFHZHhTYkVMLXpzUFFpMDZCdlU0enVZUFBNS2h1dG9US181bXgxR2FCVTVDYzlsWms2WFotZVQ0SUpFcTdkM256R1VPN3RRNFgxTER3Z1huX3dyRGQwV2l0QUJHTzJ5RzVBS0FKcnl1bG1sbGkyemdmY2wwM3FpUUNfZUgyNGlHWlJoaEpTbU1sUnNZc0RKTmlVLUF2cHdpemR5dmtMSFJCYWZ1aFZNeUg5ZFhYVXJoNmltUXI1MzFCNkx3?oc=5"
         }
       ],

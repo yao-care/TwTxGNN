@@ -14,7 +14,7 @@ permalink: /news/carisoprodol/
 ---
 
 <p class="key-answer" data-question="Carisoprodol 有什麼相關新聞？">
-<strong>Carisoprodol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Carisoprodol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,9 +33,15 @@ permalink: /news/carisoprodol/
 <p><a href="{{ '/drugs/carisoprodol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [新研究揭示類風濕性關節炎骨破壞機制：鐵質過載與脂質代謝關聯](https://news.google.com/rss/articles/CBMiywJBVV95cUxQTWpUR0d4M1FKOGUwbkItbVd2NjZrRnoySWROcXhWZm5MNTQtdmNXN3FWVG01dklWUUtyQ1M3d2tTd2JFdmlQZGl6Rjg3VTY4bHQtS2RkT2padXFtcm1raXcyYUtGTEMwS3hWTnJ1UjUwNlVUeEFCWFJXTWlJdkNtU3F6VGItMWNLSUo1SldCcXFjR0dnTmsxVHptT1R5YTh2ZVQ3bE1DVjk1LVpBbjZoZTlOaDlGU2ZsX00yNlh1a2RYZ1BxNmhrZ0hQb1JBMHpUVlludUtoQW9aczZPZ0pTZ2szdF83djRpczlsTDRldUNzbHYyajhJZXd4cmRQckRoZm50cGx5eGhrRGR3Q01YVjlYMDZ3ejNZQkt0bmRQSGpmdkNPajJtSi1FdzlkSDltbHJNSy16a2U4TlRrQkk1ODNhdTFaQlV4Y05F?oc=5)
+
+2026-05-04 <span class="news-indication-tag">類風濕性關節炎</span> <span class="news-indication-tag">風濕</span> <span class="news-indication-tag">關節炎</span> <span class="news-indication-tag">風濕性關節炎</span>
+
+來源：[yesmedia.com.tw](https://news.google.com/rss/articles/CBMiywJBVV95cUxQTWpUR0d4M1FKOGUwbkItbVd2NjZrRnoySWROcXhWZm5MNTQtdmNXN3FWVG01dklWUUtyQ1M3d2tTd2JFdmlQZGl6Rjg3VTY4bHQtS2RkT2padXFtcm1raXcyYUtGTEMwS3hWTnJ1UjUwNlVUeEFCWFJXTWlJdkNtU3F6VGItMWNLSUo1SldCcXFjR0dnTmsxVHptT1R5YTh2ZVQ3bE1DVjk1LVpBbjZoZTlOaDlGU2ZsX00yNlh1a2RYZ1BxNmhrZ0hQb1JBMHpUVlludUtoQW9aczZPZ0pTZ2szdF83djRpczlsTDRldUNzbHYyajhJZXd4cmRQckRoZm50cGx5eGhrRGR3Q01YVjlYMDZ3ejNZQkt0bmRQSGpmdkNPajJtSi1FdzlkSDltbHJNSy16a2U4TlRrQkk1ODNhdTFaQlV4Y05F?oc=5)
+
+---
 
 
 <div class="disclaimer">

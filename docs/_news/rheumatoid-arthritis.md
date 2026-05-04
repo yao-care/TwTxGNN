@@ -1,0 +1,48 @@
+---
+layout: default
+title: "類風濕性關節炎（rheumatoid arthritis） 相關新聞"
+parent: 健康新聞
+nav_exclude: true
+description: "類風濕性關節炎（rheumatoid arthritis） 的相關健康新聞報導。1 則新聞、4 個相關藥物。"
+permalink: /news/rheumatoid-arthritis/
+---
+
+# 類風濕性關節炎（rheumatoid arthritis） 相關新聞
+
+[← 返回新聞總覽]({{ '/news/' | relative_url }})
+
+---
+
+<p class="key-answer" data-question="類風濕性關節炎（rheumatoid arthritis） 有什麼相關新聞？">
+<strong>類風濕性關節炎（rheumatoid arthritis）</strong> 目前有 <strong>1 則</strong>相關新聞報導，4 個相關藥物。
+</p>
+
+<div class="key-takeaway">
+本頁整合「類風濕性關節炎」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+</div>
+
+<div class="related-drugs-card">
+<strong>相關藥物報告</strong>
+<p>以下藥物的預測適應症可能與此疾病相關：</p>
+<ul>
+<li><a href="{{ '/drugs/aluminum_oxide/' | relative_url }}">Aluminum oxide</a></li>
+<li><a href="{{ '/drugs/iodixanol/' | relative_url }}">Iodixanol</a></li>
+<li><a href="{{ '/drugs/lornoxicam/' | relative_url }}">Lornoxicam</a></li>
+<li><a href="{{ '/drugs/nitrofurantoin/' | relative_url }}">Nitrofurantoin</a></li>
+</ul>
+</div>
+
+## 相關新聞（1 則）
+
+### [新研究揭示類風濕性關節炎骨破壞機制：鐵質過載與脂質代謝關聯](https://news.google.com/rss/articles/CBMiywJBVV95cUxQTWpUR0d4M1FKOGUwbkItbVd2NjZrRnoySWROcXhWZm5MNTQtdmNXN3FWVG01dklWUUtyQ1M3d2tTd2JFdmlQZGl6Rjg3VTY4bHQtS2RkT2padXFtcm1raXcyYUtGTEMwS3hWTnJ1UjUwNlVUeEFCWFJXTWlJdkNtU3F6VGItMWNLSUo1SldCcXFjR0dnTmsxVHptT1R5YTh2ZVQ3bE1DVjk1LVpBbjZoZTlOaDlGU2ZsX00yNlh1a2RYZ1BxNmhrZ0hQb1JBMHpUVlludUtoQW9aczZPZ0pTZ2szdF83djRpczlsTDRldUNzbHYyajhJZXd4cmRQckRoZm50cGx5eGhrRGR3Q01YVjlYMDZ3ejNZQkt0bmRQSGpmdkNPajJtSi1FdzlkSDltbHJNSy16a2U4TlRrQkk1ODNhdTFaQlV4Y05F?oc=5)
+
+2026-05-04
+
+來源：[yesmedia.com.tw](https://news.google.com/rss/articles/CBMiywJBVV95cUxQTWpUR0d4M1FKOGUwbkItbVd2NjZrRnoySWROcXhWZm5MNTQtdmNXN3FWVG01dklWUUtyQ1M3d2tTd2JFdmlQZGl6Rjg3VTY4bHQtS2RkT2padXFtcm1raXcyYUtGTEMwS3hWTnJ1UjUwNlVUeEFCWFJXTWlJdkNtU3F6VGItMWNLSUo1SldCcXFjR0dnTmsxVHptT1R5YTh2ZVQ3bE1DVjk1LVpBbjZoZTlOaDlGU2ZsX00yNlh1a2RYZ1BxNmhrZ0hQb1JBMHpUVlludUtoQW9aczZPZ0pTZ2szdF83djRpczlsTDRldUNzbHYyajhJZXd4cmRQckRoZm50cGx5eGhrRGR3Q01YVjlYMDZ3ejNZQkt0bmRQSGpmdkNPajJtSi1FdzlkSDltbHJNSy16a2U4TlRrQkk1ODNhdTFaQlV4Y05F?oc=5)
+
+---
+
+
+<div class="disclaimer">
+<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+</div>

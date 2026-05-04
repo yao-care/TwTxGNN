@@ -1,29 +1,53 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-04T15:04:44.351398+00:00",
-  "count": 21,
+  "fetched_at": "2026-05-04T17:22:45.522673+00:00",
+  "count": 22,
   "news": [
     {
-      "id": "386ee96b1cff",
-      "title": "不是越老越危險！癌症擴散高峰竟落在中年 研究揪「免疫防線」破口 - health.ltn.com.tw",
+      "id": "e1630df51346",
+      "title": "不是越老越危險！癌症擴散高峰竟落在中年 研究揪「免疫防線」破口 - 自由健康網",
       "published": "2026-05-04T05:46:00+00:00",
-      "summary": "不是越老越危險！癌症擴散高峰竟落在中年 研究揪「免疫防線」破口&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "不是越老越危險！癌症擴散高峰竟落在中年 研究揪「免疫防線」破口&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FSTJPcHRNNE96YlpPQ05nZjY5WG5HbEVRU3FpaUdIOXpmWkNCR0ZFemxQTlRQSDZRRlNZU1NWUXZrUUFibDBEM1NpVlNQSzRuSFJUanZyZzN6MTVGUzBLOWEyZnrSAWpBVV95cUxQajExN0FVamprMDZEZGFLcGlrTTk3TEJrQlRnS0htT2Q0LUM3M2I4WEQwVzg3R0ZGdUxkUGVJUXA3RWhqcnJxamJaM05tX2lOZF9adVFkRFFsaS1xb3lJS0JObElucDhCYlh3?oc=5"
         }
       ]
     },
     {
-      "id": "08f4e5844621",
-      "title": "明明很舒服卻崩潰大哭？原來真的有「高潮後憂鬱」，男女都可能發生 - 造咖",
+      "id": "1968336b1730",
+      "title": "新研究揭示類風濕性關節炎骨破壞機制：鐵質過載與脂質代謝關聯 - yesmedia.com.tw",
+      "published": "2026-05-04T14:24:04+00:00",
+      "summary": "新研究揭示類風濕性關節炎骨破壞機制：鐵質過載與脂質代謝關聯&nbsp;&nbsp;yesmedia.com.tw前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQTWpUR0d4M1FKOGUwbkItbVd2NjZrRnoySWROcXhWZm5MNTQtdmNXN3FWVG01dklWUUtyQ1M3d2tTd2JFdmlQZGl6Rjg3VTY4bHQtS2RkT2padXFtcm1raXcyYUtGTEMwS3hWTnJ1UjUwNlVUeEFCWFJXTWlJdkNtU3F6VGItMWNLSUo1SldCcXFjR0dnTmsxVHptT1R5YTh2ZVQ3bE1DVjk1LVpBbjZoZTlOaDlGU2ZsX00yNlh1a2RYZ1BxNmhrZ0hQb1JBMHpUVlludUtoQW9aczZPZ0pTZ2szdF83djRpczlsTDRldUNzbHYyajhJZXd4cmRQckRoZm50cGx5eGhrRGR3Q01YVjlYMDZ3ejNZQkt0bmRQSGpmdkNPajJtSi1FdzlkSDltbHJNSy16a2U4TlRrQkk1ODNhdTFaQlV4Y05F?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c3395aa4050f",
+      "title": "明明很舒服卻崩潰大哭？科學揭秘「性高潮憂鬱症候群」 - 造咖",
       "published": "2026-05-04T10:12:00+00:00",
-      "summary": "明明很舒服卻崩潰大哭？原來真的有「高潮後憂鬱」，男女都可能發生&nbsp;&nbsp;造咖",
+      "summary": "明明很舒服卻崩潰大哭？科學揭秘「性高潮憂鬱症候群」&nbsp;&nbsp;造咖",
       "sources": [
         {
           "name": "造咖",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vLVVJN0hEbExPQ3ZGVzlVMkVFSVU5d2d6eVpDRmJMVmNJM1Rua1pDRXM1TEJiWDJjQ0xMeEpuelM4TC1HSmJuTkN1SWpQZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cf6c3876f8ab",
+      "title": "40歲以後每週做愛達到「這次數」外表年輕7歲！ - news.ebc.net.tw",
+      "published": "2026-05-04T13:36:00+00:00",
+      "summary": "40歲以後每週做愛達到「這次數」外表年輕7歲！&nbsp;&nbsp;news.ebc.net.tw",
+      "sources": [
+        {
+          "name": "news.ebc.net.tw",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOS0xZcHBLMV83VnFfYUVmMTdjSkVjRVBCZmxnN1VfRGp1Ni1sR19OX0t4dkY0TnJRdnhRenpMN21xU2dFcjYtb1RuZ05xYUlkR2FSOA?oc=5"
         }
       ]
     },
@@ -52,22 +76,10 @@
       ]
     },
     {
-      "id": "f0095977025f",
-      "title": "40歲以後每週做愛達到「這次數」外表年輕7歲！ - 東森新聞",
-      "published": "2026-05-04T13:36:00+00:00",
-      "summary": "40歲以後每週做愛達到「這次數」外表年輕7歲！&nbsp;&nbsp;東森新聞",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOS0xZcHBLMV83VnFfYUVmMTdjSkVjRVBCZmxnN1VfRGp1Ni1sR19OX0t4dkY0TnJRdnhRenpMN21xU2dFcjYtb1RuZ05xYUlkR2FSOA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6e88af9a090d",
       "title": "這11種癌症在年輕人中增加，科學家首次找到原因線索 - TNL The News Lens 關鍵評論網",
       "published": "2026-05-04T08:00:00+00:00",
-      "summary": "這11種癌症在年輕人中增加，科學家首次找到原因線索&nbsp;&nbsp;TNL The News Lens 關鍵評論網年輕人大腸癌又變了！直腸癌死亡飆快2倍 延誤7個月成關鍵&nbsp;&nbsp;health.ltn.com.tw年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵&nbsp;&nbsp;聯合新聞網為什麼50歲以下大腸癌變多了？最新研究：隱藏在環境裡的「毒素」是關鍵&nbsp;&nbsp;康健雜誌年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 | 自由電子報&nbsp;&nbsp;LINE TODAY",
+      "summary": "這11種癌症在年輕人中增加，科學家首次找到原因線索&nbsp;&nbsp;TNL The News Lens 關鍵評論網年輕人大腸癌又變了！直腸癌死亡飆快2倍 延誤7個月成關鍵&nbsp;&nbsp;自由健康網年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵&nbsp;&nbsp;udn.com為什麼50歲以下大腸癌變多了？最新研究：隱藏在環境裡的「毒素」是關鍵&nbsp;&nbsp;康健雜誌年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 | 自由電子報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "TNL The News Lens 關鍵評論網",
@@ -88,13 +100,13 @@
       ]
     },
     {
-      "id": "c18930893916",
-      "title": "健康網》耳感染21天醒來要跨年了！ 英國作家險死於腦膜炎 醫列6招預防 - health.ltn.com.tw",
+      "id": "8b4fa50e9085",
+      "title": "健康網》耳感染21天醒來要跨年了！ 英國作家險死於腦膜炎 醫列6招預防 - 自由健康網",
       "published": "2026-05-03T07:02:00+00:00",
-      "summary": "健康網》耳感染21天醒來要跨年了！ 英國作家險死於腦膜炎 醫列6招預防&nbsp;&nbsp;health.ltn.com.tw前往 Google 新聞查看完整報導",
+      "summary": "健康網》耳感染21天醒來要跨年了！ 英國作家險死於腦膜炎 醫列6招預防&nbsp;&nbsp;自由健康網前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RWm1QcU0yRzMwcDlkbGdzY2JwQmJJM3h0cV91aUtyYlBBYlVTNkx2VkdpRm5IZGRvamMxMTc3R0VtenFaSm50bHZWR1d5S04xY2s2TnBtV1Foam93SnpKYmUtWGrSAWpBVV95cUxPRmpGeTVzU1d6YjZvZDk5S0hIUjdRVndtQnhzZTVMQVhxVi14UGhmYjRLNWNRNVJQNXJhZWxxbl9KUnQ0cUVsMjFULTAtMzQ3YlJvYXNOSmVUOTViY3V2QjVKdTVEV3J4TlBR?oc=5"
         }
       ]
@@ -184,26 +196,14 @@
       ]
     },
     {
-      "id": "6133958d5601",
-      "title": "春天踏青好時節？ 先留意三項隱形風險 - bastillepost.com",
+      "id": "bb3cf6bf38e0",
+      "title": "春天踏青好時節？ 先留意三項隱形風險 - 巴士的報",
       "published": "2026-05-04T12:00:00+00:00",
-      "summary": "春天踏青好時節？ 先留意三項隱形風險&nbsp;&nbsp;bastillepost.com",
+      "summary": "春天踏青好時節？ 先留意三項隱形風險&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxORTRaUEliV04ySGk4d2k4dUpUTGhQWExYLXdvUEp5dlBFQzRZeFp5cnZGRlQzVnFlZ20zRjdqOEtxMlVNbTNlSzlnNmFJNlk2ZTdqNFZKbVNfUUxQNUZINlZ5clJOWWI2VVZ4NkdMSjh3STA4OXdTSzdBWnBUY0I4U2VMdWJKLVdacFlBelZ6ZjN6YkhjZFZnUTBwaEFaUDkwVmFmQ1ZTdWp6M3F3QTZDTWwxd3pwMjA0RVI0eGVBMTQ4ZTJaMGh5Zk9EY1lGYzhqNDdJOUNCSGdQWmhlUmZ5RV9PVVNnald2Tk1PTGdwcXVLN3V2bF9CNXBpUU55TmFIaGxwMmpiRUZ4UVFEV1Q4bVdSTXE0VUwxY0JhX091VkJoeGdieVpkYXZHeTg1X2k0NWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5fef92eab6e0",
-      "title": "3D 研究分析面部衰老軌跡女性更年期後老化明顯加速 - bastillepost.com",
-      "published": "2026-05-02T23:00:28+00:00",
-      "summary": "3D 研究分析面部衰老軌跡女性更年期後老化明顯加速&nbsp;&nbsp;bastillepost.com",
-      "sources": [
-        {
-          "name": "bastillepost.com",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNNDFMcmkwQmJicmhyM1h0RGNoTXcyalhndTcxNEh2M3REaW9mRy1lckMtbGM0RU9fUE5OU1VJQW9fclpwRl9KUzNSM3RNV2Ewcm1xcUluN0RLMUJVTjk3UEZIWmRmdVY1UXRac1podmRrMkd5TFpOcHlqc1pMemlmR04wem9mVVBSTkNoc2xCaENhQTdZamxHNTI1aGJ1T2lmY3lPME1HY2NPVjFHZHhTYkVMLXpzUFFpMDZCdlU0enVZUFBNS2h1dG9US181bXgxR2FCVTVDYzlsWms2WFotZVQ0SUpFcTdkM256R1VPN3RRNFgxTER3Z1huX3dyRGQwV2l0QUJHTzJ5RzVBS0FKcnl1bG1sbGkyemdmY2wwM3FpUUNfZUgyNGlHWlJoaEpTbU1sUnNZc0RKTmlVLUF2cHdpemR5dmtMSFJCYWZ1aFZNeUg5ZFhYVXJoNmltUXI1MzFCNkx3?oc=5"
         }
       ]
     },
@@ -216,6 +216,18 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0a0FXQU5qaHctekFQbXJGdHp1dnA3RzhiS0FVVENzTDNBM1VlZGtwUS1jUjh3MVBYOFR0MHk3eUVwZnBySWFKMFQ5dzdySnpHNTBzbnlRR3VTTkdER0JnTlVn0gFnQVVfeXFMUHhKVHEzN3J3cDZEcUF4ZWxYTjZPLTJyM3RjSnJVQzEyYzFjNGhWNDF1ZmtKYXdxOXEydWdMdGZNckt3bEFZenhHTlpDdG5wbDcyaXdydlJSejAyTWc0Y1J3VHVmdXltQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c3305a1bf320",
+      "title": "3D 研究分析面部衰老軌跡女性更年期後老化明顯加速 - 巴士的報",
+      "published": "2026-05-02T23:00:28+00:00",
+      "summary": "3D 研究分析面部衰老軌跡女性更年期後老化明顯加速&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNNDFMcmkwQmJicmhyM1h0RGNoTXcyalhndTcxNEh2M3REaW9mRy1lckMtbGM0RU9fUE5OU1VJQW9fclpwRl9KUzNSM3RNV2Ewcm1xcUluN0RLMUJVTjk3UEZIWmRmdVY1UXRac1podmRrMkd5TFpOcHlqc1pMemlmR04wem9mVVBSTkNoc2xCaENhQTdZamxHNTI1aGJ1T2lmY3lPME1HY2NPVjFHZHhTYkVMLXpzUFFpMDZCdlU0enVZUFBNS2h1dG9US181bXgxR2FCVTVDYzlsWms2WFotZVQ0SUpFcTdkM256R1VPN3RRNFgxTER3Z1huX3dyRGQwV2l0QUJHTzJ5RzVBS0FKcnl1bG1sbGkyemdmY2wwM3FpUUNfZUgyNGlHWlJoaEpTbU1sUnNZc0RKTmlVLUF2cHdpemR5dmtMSFJCYWZ1aFZNeUg5ZFhYVXJoNmltUXI1MzFCNkx3?oc=5"
         }
       ]
     },
