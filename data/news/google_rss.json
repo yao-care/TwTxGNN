@@ -1,29 +1,53 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-04T05:55:16.378047+00:00",
-  "count": 19,
+  "fetched_at": "2026-05-04T08:19:16.068256+00:00",
+  "count": 20,
   "news": [
     {
-      "id": "8b4fa50e9085",
-      "title": "健康網》耳感染21天醒來要跨年了！ 英國作家險死於腦膜炎 醫列6招預防 - 自由健康網",
-      "published": "2026-05-03T07:02:00+00:00",
-      "summary": "健康網》耳感染21天醒來要跨年了！ 英國作家險死於腦膜炎 醫列6招預防&nbsp;&nbsp;自由健康網前往 Google 新聞查看完整報導",
+      "id": "e1630df51346",
+      "title": "不是越老越危險！癌症擴散高峰竟落在中年 研究揪「免疫防線」破口 - 自由健康網",
+      "published": "2026-05-04T05:46:00+00:00",
+      "summary": "不是越老越危險！癌症擴散高峰竟落在中年 研究揪「免疫防線」破口&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RWm1QcU0yRzMwcDlkbGdzY2JwQmJJM3h0cV91aUtyYlBBYlVTNkx2VkdpRm5IZGRvamMxMTc3R0VtenFaSm50bHZWR1d5S04xY2s2TnBtV1Foam93SnpKYmUtWGrSAWpBVV95cUxPRmpGeTVzU1d6YjZvZDk5S0hIUjdRVndtQnhzZTVMQVhxVi14UGhmYjRLNWNRNVJQNXJhZWxxbl9KUnQ0cUVsMjFULTAtMzQ3YlJvYXNOSmVUOTViY3V2QjVKdTVEV3J4TlBR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FSTJPcHRNNE96YlpPQ05nZjY5WG5HbEVRU3FpaUdIOXpmWkNCR0ZFemxQTlRQSDZRRlNZU1NWUXZrUUFibDBEM1NpVlNQSzRuSFJUanZyZzN6MTVGUzBLOWEyZnrSAWpBVV95cUxQajExN0FVamprMDZEZGFLcGlrTTk3TEJrQlRnS0htT2Q0LUM3M2I4WEQwVzg3R0ZGdUxkUGVJUXA3RWhqcnJxamJaM05tX2lOZF9adVFkRFFsaS1xb3lJS0JObElucDhCYlh3?oc=5"
         }
       ]
     },
     {
-      "id": "8e01704b7c57",
-      "title": "49歲媽居然忘記小孩名字「以為罹失智快崩潰」七年後才檢出真正病因 - 元氣網",
-      "published": "2026-05-04T00:08:15+00:00",
-      "summary": "49歲媽居然忘記小孩名字「以為罹失智快崩潰」七年後才檢出真正病因&nbsp;&nbsp;元氣網",
+      "id": "b65f8ff9fa57",
+      "title": "40歲以後每週做愛達到「這次數」，外表年輕7歲！ - 造咖",
+      "published": "2026-05-04T07:59:00+00:00",
+      "summary": "40歲以後每週做愛達到「這次數」，外表年輕7歲！&nbsp;&nbsp;造咖",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZOTRpSGp1YkxMTkV5eTJCY3I4MF9zZGFWbV82MGM0dGhXSDlRT0g4QVh5VEtTNXYzcmVCTU03cFdiWkptU1NZeWtaU3VIdEtMSFNfWjdrMVl3cjNY0gFiQVVfeXFMTVNfemtlZkg2X2dIdWs2WFdDODc3ZVUzOWlOQ25wN24yNGJlMW1rdzBJYkh5SkxoejBVOWg4MGhHQ3B1WkhqQTUzZXB0aTZHS1ltWXNPdUpQc2Nmemt5SXpaeEE?oc=5"
+          "name": "造咖",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIVm1iUkthQnJvMXp5cUJOWUlFbTk3LTVqeExXanI0YVhObU95eF9qRUZyREo4TUxDODBsbmVIcW53TWRpbG1ySUwwR3gyZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fc90d1aff0ee",
+      "title": "露營惹性病？男手掌生紅斑以為蟲咬 醫揭竟染二期梅毒附3大特徵 - UHK 港生活",
+      "published": "2026-05-04T07:15:40+00:00",
+      "summary": "露營惹性病？男手掌生紅斑以為蟲咬 醫揭竟染二期梅毒附3大特徵&nbsp;&nbsp;UHK 港生活",
+      "sources": [
+        {
+          "name": "UHK 港生活",
+          "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxQRTZ4Q1F1U3RjT2JpdzVQTHB3LUVPS3I3UWZSNUxQOHVCYVE0d0oyV2VPOWp6MlF2Y3RmN3VzOEtEUmR3bXNpbjhaMDBNWTNlQWRNZnFQeGpDb1ZwR1R4YmpNeDhFWTYzbVhLSkN1UVNTOFlzQ3ZxdXZHTEc0dmpKSHo2RmRiRS1JM2dlTHlad1E4VjZKT19YdS1EWlRvc01BQ2l3Q2RCUUxYS3lHUUVQRzJfVWw3b0tVOWZ2R2t5Q0N5cjNQdHE1SWdSRy12YzBuU1UtUlBwWnlub2RxcFV6TVVGQWRuX2g3U3ZNbGhUcnVfMWc4SDlRV1BaeXh1V1BvWWpNVlR2T3dCcGdmYmdUM3dGMWxVSEwtOVlFQ0JtdVh6VTZ5TnB6WGFXY3hjTXBXSEpJVW5Ycm93bGcxUEprdGR2X3JLbUdPbFBOaG9XZW5xV0xlclFpUkk5Q2NNNGJ2TExpQjdEQXRCUWJtWTlUV2pGWkpVaGRvMVctM1BSQmpVeHFsRnBIVWV1TWJsRVVmUlRORkNtTUk1Q2V2TVBudFdwVndkM19DR3RqbzZCN1Ruc080c1Y2Q0IyWFQ0dlFGSGFUYi16QlNtV1RrcXl1RzVBX096ZlF3cVJ2QnFlTGpIRHRTQ3lnUg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "817da559d237",
+      "title": "耳痛陷昏迷 作家睡一覺竟「穿越」到隔年 醒來崩潰：我死了？ - 世界新聞網",
+      "published": "2026-05-04T04:10:42+00:00",
+      "summary": "耳痛陷昏迷 作家睡一覺竟「穿越」到隔年 醒來崩潰：我死了？&nbsp;&nbsp;世界新聞網前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82TVFnQ05tRWFhOTRnY3BLVk9hTG9BVmVaa1hNbkF3VW5pb3Q4b1NXcGFvdUs5M0F3NzFCLU5xMlFwWTdJLWJsSTVNV1h2a2M2YWViSmFzQUdPYkNtUU10R1l30gFnQVVfeXFMTXRRQzJTaks5ck5SNlNMY1BiOElsNDFlR015T1F1OExzOHY1TUc0eEVrRHpRa3ctNWJ5T2IzRURTSVdnTWU2YUVvSEJqUEtNRTE4dndLamNfWm5KT1JTTGFRR2JLallxaw?oc=5"
         }
       ]
     },
@@ -40,6 +64,18 @@
       ]
     },
     {
+      "id": "8e01704b7c57",
+      "title": "49歲媽居然忘記小孩名字「以為罹失智快崩潰」七年後才檢出真正病因 - 元氣網",
+      "published": "2026-05-04T00:08:15+00:00",
+      "summary": "49歲媽居然忘記小孩名字「以為罹失智快崩潰」七年後才檢出真正病因&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZOTRpSGp1YkxMTkV5eTJCY3I4MF9zZGFWbV82MGM0dGhXSDlRT0g4QVh5VEtTNXYzcmVCTU03cFdiWkptU1NZeWtaU3VIdEtMSFNfWjdrMVl3cjNY0gFiQVVfeXFMTVNfemtlZkg2X2dIdWs2WFdDODc3ZVUzOWlOQ25wN24yNGJlMW1rdzBJYkh5SkxoejBVOWg4MGhHQ3B1WkhqQTUzZXB0aTZHS1ltWXNPdUpQc2Nmemt5SXpaeEE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "144094f06f58",
       "title": "《心腦血管治療的奇蹟》改善高血糖不適症狀 重新為人生注能量 - 匯流新聞網",
       "published": "2026-05-04T01:00:12+00:00",
@@ -52,14 +88,14 @@
       ]
     },
     {
-      "id": "6dc5b714332e",
-      "title": "年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵 - Yahoo新聞",
-      "published": "2026-05-02T10:54:03+00:00",
-      "summary": "年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
+      "id": "6e88af9a090d",
+      "title": "這11種癌症在年輕人中增加，科學家首次找到原因線索 - TNL The News Lens 關鍵評論網",
+      "published": "2026-05-04T08:00:00+00:00",
+      "summary": "這11種癌症在年輕人中增加，科學家首次找到原因線索&nbsp;&nbsp;TNL The News Lens 關鍵評論網年輕人大腸癌又變了！直腸癌死亡飆快2倍 延誤7個月成關鍵&nbsp;&nbsp;自由健康網年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵&nbsp;&nbsp;聯合新聞網為什麼50歲以下大腸癌變多了？最新研究：隱藏在環境裡的「毒素」是關鍵&nbsp;&nbsp;康健雜誌年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 | 自由電子報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQTGpNTXpoWDk3WVQ0cTZ4SGNKVjhFbmhFVGdGdFhBdERWMFZQdDMyWlhuUDlNTkl2b205aVI4RTVuSFRXS09vLUVDdGZpYmVOLUZsSDhCWU92VTNWUS03V282dVFPb29OcjF3TmRGQjR5WWxlQlZPOXFvY3FMdjBGYTdFek9kSXRKdTc4QnNudjR4ZUw2T3FUNWxYakZsRW9ZMzhqSWFUSG83RmMwaTBRN1loR0NJY3JsTDFpQXNMVm8yRTdDLXpDYU5TSGFldmhxVGdkbXkzYWNpSlo4dVVzQlJHWXpLUEFMRlRfSHlfcm5MdzB5X1h4X1BWYjE1aVg4a3k5b0Q5dFg1bHdVLVBUM0M3MFhDTi14MW9Xd2xXMVJGZmNmNnd6aXMtcE9mV3kwWjdaWVhmTjJJQ1d6NnRaMnFDb1BWTTZqdXdBT0lGdm5ueGNvMHQ0TWdXR3ZPNE9USUlpbXV1dnZWNU9pZUdSYUQ5dG9yMXdnX2ZjVWc5bjFBSXk5bWk0dzYyNkhYaXUyeW1pR1JWaXFwc2I4SDk3cTlfODNiLWQxMVVoZEtvWlJ1bjQ?oc=5"
+          "name": "TNL The News Lens 關鍵評論網",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3eHBPbl9JSm9yNGk2aFVhMWJnMjNjRGFKM0JWNURwOU1uZTRXOGRvMEVhMmtpUlRuNFhxaDFLNl9rSlNRcnZGTWpLVWN0azZGTU5KVg?oc=5"
         }
       ]
     },
@@ -72,18 +108,6 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BWlBkY19yb1Y0dWd4ZHladVA5azF3OVplTnRXTVYxWGNnQXJMam1nUFRCX1p1QktYX1ZiTl9jY1ZuQjlvcUZTU1NEZ2U2THJiOHV1ZXZScmNrbW9Db0pv0gFkQVVfeXFMTkVFS1NiZEpqamhkY2haVjVXLWVIaGxycGthYXdiM2htT2o0VEZtUmdodGVKTGx3RzZ5aEVEZkZMZmo0VVh4WnAtTzhtdGp2eEJwMVpDZGFmSmZxQVdrT01zcnl4MQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e6086a91a08d",
-      "title": "每日服用低劑量阿斯匹靈，竟能讓特定大腸癌患者復發風險減半 | 科技新報 - LINE TODAY",
-      "published": "2026-05-02T23:21:36+00:00",
-      "summary": "每日服用低劑量阿斯匹靈，竟能讓特定大腸癌患者復發風險減半 | 科技新報&nbsp;&nbsp;LINE TODAY每日服用低劑量阿斯匹靈，竟能讓特定大腸癌患者復發風險減半&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zUnlubWFYYXRlZVU4VENfTlFLZ3U5OEdUSlBqTDF5SzIwcnhZR0dDQlBCMUJGMU8xV09PLVcyVGswNzZOVTFLaWpfRHlycVZlT01hNXd3?oc=5"
         }
       ]
     },
@@ -184,18 +208,6 @@
       ]
     },
     {
-      "id": "8817c71588b1",
-      "title": "安義男子手抓野貓救老伴 染漢坦病毒直入ICU 確診嚴重腎損傷 - Techritual Hong Kong",
-      "published": "2026-05-02T08:02:46+00:00",
-      "summary": "安義男子手抓野貓救老伴 染漢坦病毒直入ICU 確診嚴重腎損傷&nbsp;&nbsp;Techritual Hong Kong",
-      "sources": [
-        {
-          "name": "Techritual Hong Kong",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WbUhNa0NROXhPR1Vmb2o5RDZxWlJRYnREMmMxSGxLYmRkSGlpOWpaS1BMZ1FyU1lvejNObExSbl96QU5qd2RDTEhNTWdpUUVLR3U2ekNLSzE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "203303209bb1",
       "title": "加州多縣梅毒病例飆升 弗雷斯諾縣發病率居高不下 - Singtaousa",
       "published": "2026-05-03T05:08:23+00:00",
@@ -208,18 +220,6 @@
       ]
     },
     {
-      "id": "3eeeb66b455f",
-      "title": "美國北卡羅萊納州癌症患者出現罕見外國口音綜合症，治療期間突變愛爾蘭腔調 - Singtaousa",
-      "published": "2026-05-02T06:30:00+00:00",
-      "summary": "美國北卡羅萊納州癌症患者出現罕見外國口音綜合症，治療期間突變愛爾蘭腔調&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN3pHTFNsTEREeGMwcmg0bXRZWE5qYjl5MjQ1YnJGWGdoS1NmSXBCZVYzNFpVZkMxUkZKSF9mVTRlWEhvb1F1QjA2Vm5iZDI1Z1A5eExHTURrbjdRMGRGbkVDa3llVmxldGpYNGw5VnpqR2VXLTJiendQcDRaRWw4ME5fdTZwblV3MjEybUNqbWk4dDNXSTJlbHBQSDRqYW9hckdZdE9qaEpZYWItcm5BNE9sbGNndw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f55a1df1fb05",
       "title": "細胞增生 - Singtaousa",
       "published": "2026-05-02T12:00:00+00:00",
@@ -228,6 +228,18 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMW53bURNd1I3UWJyb0tLeEVzWjdZeDJqSHNVam9vV1hiOFFNbDNrSm5RdnVNaXVSVVBqNGU5a3BfakF6QXFDa191UFBPWVZaRFpKZHZQLUt2emNwblMxcTBGaE1NUjN5RWtDWms2Q09MMXdQOUktTnRxaVVUamVWNXV4NkZUa1U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8817c71588b1",
+      "title": "安義男子手抓野貓救老伴 染漢坦病毒直入ICU 確診嚴重腎損傷 - Techritual Hong Kong",
+      "published": "2026-05-02T08:02:46+00:00",
+      "summary": "安義男子手抓野貓救老伴 染漢坦病毒直入ICU 確診嚴重腎損傷&nbsp;&nbsp;Techritual Hong Kong",
+      "sources": [
+        {
+          "name": "Techritual Hong Kong",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WbUhNa0NROXhPR1Vmb2o5RDZxWlJRYnREMmMxSGxLYmRkSGlpOWpaS1BMZ1FyU1lvejNObExSbl96QU5qd2RDTEhNTWdpUUVLR3U2ekNLSzE?oc=5"
         }
       ]
     }
