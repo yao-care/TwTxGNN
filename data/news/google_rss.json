@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-04T08:19:16.068256+00:00",
-  "count": 20,
+  "fetched_at": "2026-05-04T10:57:35.328916+00:00",
+  "count": 23,
   "news": [
     {
       "id": "e1630df51346",
@@ -12,6 +12,42 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FSTJPcHRNNE96YlpPQ05nZjY5WG5HbEVRU3FpaUdIOXpmWkNCR0ZFemxQTlRQSDZRRlNZU1NWUXZrUUFibDBEM1NpVlNQSzRuSFJUanZyZzN6MTVGUzBLOWEyZnrSAWpBVV95cUxQajExN0FVamprMDZEZGFLcGlrTTk3TEJrQlRnS0htT2Q0LUM3M2I4WEQwVzg3R0ZGdUxkUGVJUXA3RWhqcnJxamJaM05tX2lOZF9adVFkRFFsaS1xb3lJS0JObElucDhCYlh3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c3395aa4050f",
+      "title": "明明很舒服卻崩潰大哭？科學揭秘「性高潮憂鬱症候群」 - 造咖",
+      "published": "2026-05-04T10:12:00+00:00",
+      "summary": "明明很舒服卻崩潰大哭？科學揭秘「性高潮憂鬱症候群」&nbsp;&nbsp;造咖",
+      "sources": [
+        {
+          "name": "造咖",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vLVVJN0hEbExPQ3ZGVzlVMkVFSVU5d2d6eVpDRmJMVmNJM1Rua1pDRXM1TEJiWDJjQ0xMeEpuelM4TC1HSmJuTkN1SWpQZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "98b00cbed656",
+      "title": "三高的人只吃魚油不夠！專家揭一關鍵：ECNS+QH才能讓心臟真正有力 - 壹蘋新聞網",
+      "published": "2026-05-04T08:20:00+00:00",
+      "summary": "三高的人只吃魚油不夠！專家揭一關鍵：ECNS+QH才能讓心臟真正有力&nbsp;&nbsp;壹蘋新聞網",
+      "sources": [
+        {
+          "name": "壹蘋新聞網",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtWUFSUG1sTGFtS1p4cm5lYWNPOGZzRzVFLXotMUFvRzZXdXAyWlFUM2psSHRrREVrWUM2WFlXVU1QVTlyMmYzbm5jRFpnYTlHVmlzZHJGb05SOWdsaWJRMThIdDU3V3pacTlwMWlLd09MZzRVc1RrZkZESU1fZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1c8b019a6bfe",
+      "title": "「44歲、60歲｣竟是斷崖式衰老關鍵期！脂肪易堆積、免疫力下降，專家揭示如何避免 - ELLE",
+      "published": "2026-05-04T08:43:18+00:00",
+      "summary": "「44歲、60歲｣竟是斷崖式衰老關鍵期！脂肪易堆積、免疫力下降，專家揭示如何避免&nbsp;&nbsp;ELLE",
+      "sources": [
+        {
+          "name": "ELLE",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKdTNELXpFUFpPZHNkb1V3THZzd205V2VXSzJwM2pYMWtiZUluX241TUlNM2FjX0dyZDlqVm9xUkJRcVI4WnR2LWhlZS15eDljZzlCRTN0YzM3WHUyNHloNkttcEJ0S3RreDFSdnVIWnJHOHVNRGtaZC0zM2dfdw?oc=5"
         }
       ]
     },
@@ -28,18 +64,6 @@
       ]
     },
     {
-      "id": "fc90d1aff0ee",
-      "title": "露營惹性病？男手掌生紅斑以為蟲咬 醫揭竟染二期梅毒附3大特徵 - UHK 港生活",
-      "published": "2026-05-04T07:15:40+00:00",
-      "summary": "露營惹性病？男手掌生紅斑以為蟲咬 醫揭竟染二期梅毒附3大特徵&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxQRTZ4Q1F1U3RjT2JpdzVQTHB3LUVPS3I3UWZSNUxQOHVCYVE0d0oyV2VPOWp6MlF2Y3RmN3VzOEtEUmR3bXNpbjhaMDBNWTNlQWRNZnFQeGpDb1ZwR1R4YmpNeDhFWTYzbVhLSkN1UVNTOFlzQ3ZxdXZHTEc0dmpKSHo2RmRiRS1JM2dlTHlad1E4VjZKT19YdS1EWlRvc01BQ2l3Q2RCUUxYS3lHUUVQRzJfVWw3b0tVOWZ2R2t5Q0N5cjNQdHE1SWdSRy12YzBuU1UtUlBwWnlub2RxcFV6TVVGQWRuX2g3U3ZNbGhUcnVfMWc4SDlRV1BaeXh1V1BvWWpNVlR2T3dCcGdmYmdUM3dGMWxVSEwtOVlFQ0JtdVh6VTZ5TnB6WGFXY3hjTXBXSEpJVW5Ycm93bGcxUEprdGR2X3JLbUdPbFBOaG9XZW5xV0xlclFpUkk5Q2NNNGJ2TExpQjdEQXRCUWJtWTlUV2pGWkpVaGRvMVctM1BSQmpVeHFsRnBIVWV1TWJsRVVmUlRORkNtTUk1Q2V2TVBudFdwVndkM19DR3RqbzZCN1Ruc080c1Y2Q0IyWFQ0dlFGSGFUYi16QlNtV1RrcXl1RzVBX096ZlF3cVJ2QnFlTGpIRHRTQ3lnUg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "817da559d237",
       "title": "耳痛陷昏迷 作家睡一覺竟「穿越」到隔年 醒來崩潰：我死了？ - 世界新聞網",
       "published": "2026-05-04T04:10:42+00:00",
@@ -48,6 +72,18 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82TVFnQ05tRWFhOTRnY3BLVk9hTG9BVmVaa1hNbkF3VW5pb3Q4b1NXcGFvdUs5M0F3NzFCLU5xMlFwWTdJLWJsSTVNV1h2a2M2YWViSmFzQUdPYkNtUU10R1l30gFnQVVfeXFMTXRRQzJTaks5ck5SNlNMY1BiOElsNDFlR015T1F1OExzOHY1TUc0eEVrRHpRa3ctNWJ5T2IzRURTSVdnTWU2YUVvSEJqUEtNRTE4dndLamNfWm5KT1JTTGFRR2JLallxaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6e88af9a090d",
+      "title": "這11種癌症在年輕人中增加，科學家首次找到原因線索 - TNL The News Lens 關鍵評論網",
+      "published": "2026-05-04T08:00:00+00:00",
+      "summary": "這11種癌症在年輕人中增加，科學家首次找到原因線索&nbsp;&nbsp;TNL The News Lens 關鍵評論網年輕人大腸癌又變了！直腸癌死亡飆快2倍 延誤7個月成關鍵&nbsp;&nbsp;自由健康網年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵&nbsp;&nbsp;聯合新聞網為什麼50歲以下大腸癌變多了？最新研究：隱藏在環境裡的「毒素」是關鍵&nbsp;&nbsp;康健雜誌年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 | 自由電子報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "TNL The News Lens 關鍵評論網",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3eHBPbl9JSm9yNGk2aFVhMWJnMjNjRGFKM0JWNURwOU1uZTRXOGRvMEVhMmtpUlRuNFhxaDFLNl9rSlNRcnZGTWpLVWN0azZGTU5KVg?oc=5"
         }
       ]
     },
@@ -88,14 +124,14 @@
       ]
     },
     {
-      "id": "6e88af9a090d",
-      "title": "這11種癌症在年輕人中增加，科學家首次找到原因線索 - TNL The News Lens 關鍵評論網",
-      "published": "2026-05-04T08:00:00+00:00",
-      "summary": "這11種癌症在年輕人中增加，科學家首次找到原因線索&nbsp;&nbsp;TNL The News Lens 關鍵評論網年輕人大腸癌又變了！直腸癌死亡飆快2倍 延誤7個月成關鍵&nbsp;&nbsp;自由健康網年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵&nbsp;&nbsp;聯合新聞網為什麼50歲以下大腸癌變多了？最新研究：隱藏在環境裡的「毒素」是關鍵&nbsp;&nbsp;康健雜誌年輕人大腸癌暴增！不只飲食 研究在DNA抓到「環境線索」 | 自由電子報&nbsp;&nbsp;LINE TODAY",
+      "id": "fc90d1aff0ee",
+      "title": "露營惹性病？男手掌生紅斑以為蟲咬 醫揭竟染二期梅毒附3大特徵 - UHK 港生活",
+      "published": "2026-05-04T07:15:40+00:00",
+      "summary": "露營惹性病？男手掌生紅斑以為蟲咬 醫揭竟染二期梅毒附3大特徵&nbsp;&nbsp;UHK 港生活",
       "sources": [
         {
-          "name": "TNL The News Lens 關鍵評論網",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3eHBPbl9JSm9yNGk2aFVhMWJnMjNjRGFKM0JWNURwOU1uZTRXOGRvMEVhMmtpUlRuNFhxaDFLNl9rSlNRcnZGTWpLVWN0azZGTU5KVg?oc=5"
+          "name": "UHK 港生活",
+          "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxQRTZ4Q1F1U3RjT2JpdzVQTHB3LUVPS3I3UWZSNUxQOHVCYVE0d0oyV2VPOWp6MlF2Y3RmN3VzOEtEUmR3bXNpbjhaMDBNWTNlQWRNZnFQeGpDb1ZwR1R4YmpNeDhFWTYzbVhLSkN1UVNTOFlzQ3ZxdXZHTEc0dmpKSHo2RmRiRS1JM2dlTHlad1E4VjZKT19YdS1EWlRvc01BQ2l3Q2RCUUxYS3lHUUVQRzJfVWw3b0tVOWZ2R2t5Q0N5cjNQdHE1SWdSRy12YzBuU1UtUlBwWnlub2RxcFV6TVVGQWRuX2g3U3ZNbGhUcnVfMWc4SDlRV1BaeXh1V1BvWWpNVlR2T3dCcGdmYmdUM3dGMWxVSEwtOVlFQ0JtdVh6VTZ5TnB6WGFXY3hjTXBXSEpJVW5Ycm93bGcxUEprdGR2X3JLbUdPbFBOaG9XZW5xV0xlclFpUkk5Q2NNNGJ2TExpQjdEQXRCUWJtWTlUV2pGWkpVaGRvMVctM1BSQmpVeHFsRnBIVWV1TWJsRVVmUlRORkNtTUk1Q2V2TVBudFdwVndkM19DR3RqbzZCN1Ruc080c1Y2Q0IyWFQ0dlFGSGFUYi16QlNtV1RrcXl1RzVBX096ZlF3cVJ2QnFlTGpIRHRTQ3lnUg?oc=5"
         }
       ]
     },
@@ -208,6 +244,18 @@
       ]
     },
     {
+      "id": "a00aef3c4dc4",
+      "title": "駝背死亡風險暴增2倍！極易患糖尿病+心臟病！醫生警告：大腦出問題！教6招1分鐘簡單自救法 - UHK 港生活",
+      "published": "2026-05-04T10:39:55+00:00",
+      "summary": "駝背死亡風險暴增2倍！極易患糖尿病+心臟病！醫生警告：大腦出問題！教6招1分鐘簡單自救法&nbsp;&nbsp;UHK 港生活",
+      "sources": [
+        {
+          "name": "UHK 港生活",
+          "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxNM0cyeEtmdndIdGFXZ3FFTlNEVWFBQnlXeUdtLUc1WGh4eEM4RVVZRl9uZk9JcEhCSEZOaGFYaHVBejFUb0FDWGVmbWdlYU1vWXJCN2ZQUTB0cXo1QnVWNUF1T29VWWRpb2N6YVJWNWI4UVJHVUpuZ1RSRGxQYjdUMnFhdWYwYXRiSi01dkhGMjNRVmY4SzFlc3hSS21vVWRmR2F1RU1CNlNiOUJhcm9jTkwzR1VNaWlTLThmQ2M5LXhyOXF2Ym5uYzlYRmV1WnNYbUNzVVlQTV90clBXR3N3MV85RkdDSVpHNmswaDlXXzZvYlVCTktyU1Z4bkM0QkZsOTluZ2lDRUlOUm5DMVFHSzVyVTlSRURuTlp6ZGR2STdHTGZzWl83RW9xTGxZX1lYaF9xNU5rc3c5WjRrM0s1bjFabk1CelU4QUE4Zng1Z201QjhUS0RMWGJ0dV9NZXVSTTJSWW5MOWVuOXRMV1pYZ0hYa29Nb3dNMzBtQnBRUU9iVEkzcjBkeW16b185WHRyMVpXYkZaMW1weGY2MVB0Q0lMeFZQUFZQcm5MRko2bXJJVWFjUnJXWDdFRmJWMzlYaGV6SWdJLXNHeU5fa3ZaT2xMUlNiRThvdlV2VUV5eWxZOHBpelhpVHoza2RKSTlDLXBrbFpuMF9VcEJHVE1JS2xxWkxMRXNHa3d6OExyaDExb3hnN3VYMjZhd3FITzczalhieg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "203303209bb1",
       "title": "加州多縣梅毒病例飆升 弗雷斯諾縣發病率居高不下 - Singtaousa",
       "published": "2026-05-03T05:08:23+00:00",
@@ -228,18 +276,6 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMW53bURNd1I3UWJyb0tLeEVzWjdZeDJqSHNVam9vV1hiOFFNbDNrSm5RdnVNaXVSVVBqNGU5a3BfakF6QXFDa191UFBPWVZaRFpKZHZQLUt2emNwblMxcTBGaE1NUjN5RWtDWms2Q09MMXdQOUktTnRxaVVUamVWNXV4NkZUa1U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8817c71588b1",
-      "title": "安義男子手抓野貓救老伴 染漢坦病毒直入ICU 確診嚴重腎損傷 - Techritual Hong Kong",
-      "published": "2026-05-02T08:02:46+00:00",
-      "summary": "安義男子手抓野貓救老伴 染漢坦病毒直入ICU 確診嚴重腎損傷&nbsp;&nbsp;Techritual Hong Kong",
-      "sources": [
-        {
-          "name": "Techritual Hong Kong",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WbUhNa0NROXhPR1Vmb2o5RDZxWlJRYnREMmMxSGxLYmRkSGlpOWpaS1BMZ1FyU1lvejNObExSbl96QU5qd2RDTEhNTWdpUUVLR3U2ekNLSzE?oc=5"
         }
       ]
     }
