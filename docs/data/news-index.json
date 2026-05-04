@@ -1,7 +1,55 @@
 {
-  "generated": "2026-05-04T02:01:38.896128+00:00",
-  "count": 4,
+  "generated": "2026-05-04T05:55:21.092425+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "144094f06f58",
+      "title": "《心腦血管治療的奇蹟》改善高血糖不適症狀 重新為人生注能量",
+      "published": "2026-05-04T01:00:12+00:00",
+      "sources": [
+        {
+          "name": "匯流新聞網",
+          "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNbGlia3NVem9weTJJUkVWWUNEMmxJNzhNaGF0RC12OUIxS21RaUltaHZfVkZDUG8xMGJNdmVuZk15TVhWdjJONXNfcTEzQ3BidDZOWDlqVWM2NWhSWUVVc21JYktfRG9MTWl2Y1ZzSGxaZDJGdFM5YmFzaUhrM0luOHdXVXVUWllSSnV3SjYxQ1ZuV1p4aXJjNm8yZWZtRVBJa0hWZ0FOdFhxcmhXSzFDZWhtNXpFRzZQQlFoRU1mYTZMVHF1X0NqMEQtdFZ6Z3luOEJDekpOYlEwZE9rSTNETV9yM2pCanVDY09Td1FrTGwycXhvd2puTVplemJrNHRCY0M5dXdJcDlvaUxOcTVZLUFUamJjR1Q4b2hRRmJjaklvUE9vbnVvd3M5bkFRSERhYVhuOTJnZw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "腦血管",
+          "keyword": "腦血管",
+          "related_drugs": [
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8e01704b7c57",
+      "title": "49歲媽居然忘記小孩名字「以為罹失智快崩潰」七年後才檢出真正病因",
+      "published": "2026-05-04T00:08:15+00:00",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZOTRpSGp1YkxMTkV5eTJCY3I4MF9zZGFWbV82MGM0dGhXSDlRT0g4QVh5VEtTNXYzcmVCTU03cFdiWkptU1NZeWtaU3VIdEtMSFNfWjdrMVl3cjNY0gFiQVVfeXFMTVNfemtlZkg2X2dIdWs2WFdDODc3ZVUzOWlOQ25wN24yNGJlMW1rdzBJYkh5SkxoejBVOWg4MGhHQ3B1WkhqQTUzZXB0aTZHS1ltWXNPdUpQc2Nmemt5SXpaeEE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "e6086a91a08d",
       "title": "每日服用低劑量阿斯匹靈，竟能讓特定大腸癌患者復發風險減半 | 科技新報 - LINE TODAY",

@@ -14,7 +14,7 @@ permalink: /news/iodixanol/
 ---
 
 <p class="key-answer" data-question="Iodixanol 有什麼相關新聞？">
-<strong>Iodixanol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Iodixanol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,9 +35,15 @@ permalink: /news/iodixanol/
 <p><a href="{{ '/drugs/iodixanol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [《心腦血管治療的奇蹟》改善高血糖不適症狀 重新為人生注能量](https://news.google.com/rss/articles/CBMitwJBVV95cUxNbGlia3NVem9weTJJUkVWWUNEMmxJNzhNaGF0RC12OUIxS21RaUltaHZfVkZDUG8xMGJNdmVuZk15TVhWdjJONXNfcTEzQ3BidDZOWDlqVWM2NWhSWUVVc21JYktfRG9MTWl2Y1ZzSGxaZDJGdFM5YmFzaUhrM0luOHdXVXVUWllSSnV3SjYxQ1ZuV1p4aXJjNm8yZWZtRVBJa0hWZ0FOdFhxcmhXSzFDZWhtNXpFRzZQQlFoRU1mYTZMVHF1X0NqMEQtdFZ6Z3luOEJDekpOYlEwZE9rSTNETV9yM2pCanVDY09Td1FrTGwycXhvd2puTVplemJrNHRCY0M5dXdJcDlvaUxOcTVZLUFUamJjR1Q4b2hRRmJjaklvUE9vbnVvd3M5bkFRSERhYVhuOTJnZw?oc=5)
+
+2026-05-04 <span class="news-indication-tag">腦血管</span>
+
+來源：[匯流新聞網](https://news.google.com/rss/articles/CBMitwJBVV95cUxNbGlia3NVem9weTJJUkVWWUNEMmxJNzhNaGF0RC12OUIxS21RaUltaHZfVkZDUG8xMGJNdmVuZk15TVhWdjJONXNfcTEzQ3BidDZOWDlqVWM2NWhSWUVVc21JYktfRG9MTWl2Y1ZzSGxaZDJGdFM5YmFzaUhrM0luOHdXVXVUWllSSnV3SjYxQ1ZuV1p4aXJjNm8yZWZtRVBJa0hWZ0FOdFhxcmhXSzFDZWhtNXpFRzZQQlFoRU1mYTZMVHF1X0NqMEQtdFZ6Z3luOEJDekpOYlEwZE9rSTNETV9yM2pCanVDY09Td1FrTGwycXhvd2puTVplemJrNHRCY0M5dXdJcDlvaUxOcTVZLUFUamJjR1Q4b2hRRmJjaklvUE9vbnVvd3M5bkFRSERhYVhuOTJnZw?oc=5)
+
+---
 
 
 <div class="disclaimer">

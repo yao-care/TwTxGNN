@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [49歲媽居然忘記小孩名字「以為罹失智快崩潰」七年後才檢出真正病因](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZOTRpSGp1YkxMTkV5eTJCY3I4MF9zZGFWbV82MGM0dGhXSDlRT0g4QVh5VEtTNXYzcmVCTU03cFdiWkptU1NZeWtaU3VIdEtMSFNfWjdrMVl3cjNY0gFiQVVfeXFMTVNfemtlZkg2X2dIdWs2WFdDODc3ZVUzOWlOQ25wN24yNGJlMW1rdzBJYkh5SkxoejBVOWg4MGhHQ3B1WkhqQTUzZXB0aTZHS1ltWXNPdUpQc2Nmemt5SXpaeEE?oc=5)
+
+2026-05-04 <span class="news-indication-tag">失智</span>
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZOTRpSGp1YkxMTkV5eTJCY3I4MF9zZGFWbV82MGM0dGhXSDlRT0g4QVh5VEtTNXYzcmVCTU03cFdiWkptU1NZeWtaU3VIdEtMSFNfWjdrMVl3cjNY0gFiQVVfeXFMTVNfemtlZkg2X2dIdWs2WFdDODc3ZVUzOWlOQ25wN24yNGJlMW1rdzBJYkh5SkxoejBVOWg4MGhHQ3B1WkhqQTUzZXB0aTZHS1ltWXNPdUpQc2Nmemt5SXpaeEE?oc=5)
+
+---
 
 ### [年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵](https://news.google.com/rss/articles/CBMiswNBVV95cUxQTGpNTXpoWDk3WVQ0cTZ4SGNKVjhFbmhFVGdGdFhBdERWMFZQdDMyWlhuUDlNTkl2b205aVI4RTVuSFRXS09vLUVDdGZpYmVOLUZsSDhCWU92VTNWUS03V282dVFPb29OcjF3TmRGQjR5WWxlQlZPOXFvY3FMdjBGYTdFek9kSXRKdTc4QnNudjR4ZUw2T3FUNWxYakZsRW9ZMzhqSWFUSG83RmMwaTBRN1loR0NJY3JsTDFpQXNMVm8yRTdDLXpDYU5TSGFldmhxVGdkbXkzYWNpSlo4dVVzQlJHWXpLUEFMRlRfSHlfcm5MdzB5X1h4X1BWYjE1aVg4a3k5b0Q5dFg1bHdVLVBUM0M3MFhDTi14MW9Xd2xXMVJGZmNmNnd6aXMtcE9mV3kwWjdaWVhmTjJJQ1d6NnRaMnFDb1BWTTZqdXdBT0lGdm5ueGNvMHQ0TWdXR3ZPNE9USUlpbXV1dnZWNU9pZUdSYUQ5dG9yMXdnX2ZjVWc5bjFBSXk5bWk0dzYyNkhYaXUyeW1pR1JWaXFwc2I4SDk3cTlfODNiLWQxMVVoZEtvWlJ1bjQ?oc=5)
 
