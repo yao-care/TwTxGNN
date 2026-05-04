@@ -44,11 +44,11 @@ permalink: /news/gemcitabine/
 
 ## 相關新聞（2 則）
 
-### [這11種癌症在年輕人中增加，科學家首次找到原因線索 - TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3eHBPbl9JSm9yNGk2aFVhMWJnMjNjRGFKM0JWNURwOU1uZTRXOGRvMEVhMmtpUlRuNFhxaDFLNl9rSlNRcnZGTWpLVWN0azZGTU5KVg?oc=5)
+### [年輕大腸癌患者持續攀升！醫揭「童年腸道菌」埋致癌伏筆](https://news.google.com/rss/articles/CBMi6wJBVV95cUxOUHR2NEVEeE1tWlJfa2ZpWno1YUJ3aklzNzlxV190ekN2NzZKNTZEdnFvaFZHSmwwdk9maGRpWllyUGNsQnRWNjktamlGQXE4amdjUkpGbHY1eTJ1RGlMZEpKb09DamxQeHBzLUFUMUxodWxPV2NRZ1hGX1h0U0pMQWN5R1BxczZmSFlCUkhpb1hUQmI3ZUR2OFJFY1BVOE96cVFVZDZ5MEd3Nm1rakQ0QTg1YXVBY3VJUTJUSEJENUM5T05FcDFRVjY1aFFKMVlwb25fNElCOVBuZkZUbTExTzN3NkxuRzlMek1HSVF4Zko0RnZvNV9nRFRvaTVxODF6YmtnUXQ5T2Y1SDFrWFdLclBJT0U3NW51QnVCX0ppdktac0tUNUZfZWNWY2gxYTJ1SjJRVjJGYzFiaW1ZaXh4N3J4LTYxUDhBR1N1akFCWVA1MGliY0dGR0xGb2dDN0wyclROc0o1LXh6SFE?oc=5)
 
-2026-05-04 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-05-04 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3eHBPbl9JSm9yNGk2aFVhMWJnMjNjRGFKM0JWNURwOU1uZTRXOGRvMEVhMmtpUlRuNFhxaDFLNl9rSlNRcnZGTWpLVWN0azZGTU5KVg?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi6wJBVV95cUxOUHR2NEVEeE1tWlJfa2ZpWno1YUJ3aklzNzlxV190ekN2NzZKNTZEdnFvaFZHSmwwdk9maGRpWllyUGNsQnRWNjktamlGQXE4amdjUkpGbHY1eTJ1RGlMZEpKb09DamxQeHBzLUFUMUxodWxPV2NRZ1hGX1h0U0pMQWN5R1BxczZmSFlCUkhpb1hUQmI3ZUR2OFJFY1BVOE96cVFVZDZ5MEd3Nm1rakQ0QTg1YXVBY3VJUTJUSEJENUM5T05FcDFRVjY1aFFKMVlwb25fNElCOVBuZkZUbTExTzN3NkxuRzlMek1HSVF4Zko0RnZvNV9nRFRvaTVxODF6YmtnUXQ5T2Y1SDFrWFdLclBJT0U3NW51QnVCX0ppdktac0tUNUZfZWNWY2gxYTJ1SjJRVjJGYzFiaW1ZaXh4N3J4LTYxUDhBR1N1akFCWVA1MGliY0dGR0xGb2dDN0wyclROc0o1LXh6SFE?oc=5)
 
 ---
 
