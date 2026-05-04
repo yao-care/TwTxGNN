@@ -14,7 +14,7 @@ permalink: /news/trastuzumab_deruxtecan/
 ---
 
 <p class="key-answer" data-question="Trastuzumab deruxtecan 有什麼相關新聞？">
-<strong>Trastuzumab deruxtecan</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Trastuzumab deruxtecan</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,15 +33,9 @@ permalink: /news/trastuzumab_deruxtecan/
 <p><a href="{{ '/drugs/trastuzumab_deruxtecan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [台女長期食1 物確診晚期胃癌醫生警告加工肉類增患癌風險](https://news.google.com/rss/articles/CBMi8AJBVV95cUxPZE8tMXRBbGJOV2VKcFlzbFNJaURkLWZRa1ZEbDNEcERfVlBTZE14VTJwMFFYNnBkZVB4M1lEUmRUSF8ya29Pa1JTanFlTmtwMEU4UnVRMmhiV3hRS2JjX05Dd1pnOTdWbUN1RnlDUU9zMHc1bTB3VFRwRWxTcFNJU3Y0LUJkc1hGYmNCalFUdS1uWW9yU3hBRlZOUk5URFd4ZHhNU3cwc3VIUmhacmhXRnpBR04xZmpOdVVYU0FMMU9iaU1YMkJTdVQ4ZTh4U2VFUVF3Nkc4VnJJNGtEaGpnM1FwZXZGdkdndUUxaGF3VU1iTmduVHBCMW1xMnIxWkNXSFlUTkVrdTFuTWQ1T0k1RlB4S2M4dHFJeVo4RWppSzVuVU1jck9veWpYSEJkMUxnNnE5c2Y0S200cUNFUktodnhLR2U0TkNMY1kzVUcxdVFxeE9jNmFYNnhoUUZmRXAyQndIbFIxTVZtbndLZEhJcQ?oc=5)
-
-2026-05-03 <span class="news-indication-tag">胃癌</span>
-
-來源：[bastillepost.com](https://news.google.com/rss/articles/CBMi8AJBVV95cUxPZE8tMXRBbGJOV2VKcFlzbFNJaURkLWZRa1ZEbDNEcERfVlBTZE14VTJwMFFYNnBkZVB4M1lEUmRUSF8ya29Pa1JTanFlTmtwMEU4UnVRMmhiV3hRS2JjX05Dd1pnOTdWbUN1RnlDUU9zMHc1bTB3VFRwRWxTcFNJU3Y0LUJkc1hGYmNCalFUdS1uWW9yU3hBRlZOUk5URFd4ZHhNU3cwc3VIUmhacmhXRnpBR04xZmpOdVVYU0FMMU9iaU1YMkJTdVQ4ZTh4U2VFUVF3Nkc4VnJJNGtEaGpnM1FwZXZGdkdndUUxaGF3VU1iTmduVHBCMW1xMnIxWkNXSFlUTkVrdTFuTWQ1T0k1RlB4S2M4dHFJeVo4RWppSzVuVU1jck9veWpYSEJkMUxnNnE5c2Y0S200cUNFUktodnhLR2U0TkNMY1kzVUcxdVFxeE9jNmFYNnhoUUZmRXAyQndIbFIxTVZtbndLZEhJcQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="Ramucirumab 有什麼相關新聞？">
-<strong>Ramucirumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ramucirumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/ramucirumab/
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [台女長期食1 物確診晚期胃癌醫生警告加工肉類增患癌風險](https://news.google.com/rss/articles/CBMi8AJBVV95cUxPZE8tMXRBbGJOV2VKcFlzbFNJaURkLWZRa1ZEbDNEcERfVlBTZE14VTJwMFFYNnBkZVB4M1lEUmRUSF8ya29Pa1JTanFlTmtwMEU4UnVRMmhiV3hRS2JjX05Dd1pnOTdWbUN1RnlDUU9zMHc1bTB3VFRwRWxTcFNJU3Y0LUJkc1hGYmNCalFUdS1uWW9yU3hBRlZOUk5URFd4ZHhNU3cwc3VIUmhacmhXRnpBR04xZmpOdVVYU0FMMU9iaU1YMkJTdVQ4ZTh4U2VFUVF3Nkc4VnJJNGtEaGpnM1FwZXZGdkdndUUxaGF3VU1iTmduVHBCMW1xMnIxWkNXSFlUTkVrdTFuTWQ1T0k1RlB4S2M4dHFJeVo4RWppSzVuVU1jck9veWpYSEJkMUxnNnE5c2Y0S200cUNFUktodnhLR2U0TkNMY1kzVUcxdVFxeE9jNmFYNnhoUUZmRXAyQndIbFIxTVZtbndLZEhJcQ?oc=5)
-
-2026-05-03 <span class="news-indication-tag">胃癌</span>
-
-來源：[bastillepost.com](https://news.google.com/rss/articles/CBMi8AJBVV95cUxPZE8tMXRBbGJOV2VKcFlzbFNJaURkLWZRa1ZEbDNEcERfVlBTZE14VTJwMFFYNnBkZVB4M1lEUmRUSF8ya29Pa1JTanFlTmtwMEU4UnVRMmhiV3hRS2JjX05Dd1pnOTdWbUN1RnlDUU9zMHc1bTB3VFRwRWxTcFNJU3Y0LUJkc1hGYmNCalFUdS1uWW9yU3hBRlZOUk5URFd4ZHhNU3cwc3VIUmhacmhXRnpBR04xZmpOdVVYU0FMMU9iaU1YMkJTdVQ4ZTh4U2VFUVF3Nkc4VnJJNGtEaGpnM1FwZXZGdkdndUUxaGF3VU1iTmduVHBCMW1xMnIxWkNXSFlUTkVrdTFuTWQ1T0k1RlB4S2M4dHFJeVo4RWppSzVuVU1jck9veWpYSEJkMUxnNnE5c2Y0S200cUNFUktodnhLR2U0TkNMY1kzVUcxdVFxeE9jNmFYNnhoUUZmRXAyQndIbFIxTVZtbndLZEhJcQ?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [年輕人癌症暴增原因曝光？研究指加工食品與「永久化學物質」恐是關鍵](https://news.google.com/rss/articles/CBMiswNBVV95cUxQTGpNTXpoWDk3WVQ0cTZ4SGNKVjhFbmhFVGdGdFhBdERWMFZQdDMyWlhuUDlNTkl2b205aVI4RTVuSFRXS09vLUVDdGZpYmVOLUZsSDhCWU92VTNWUS03V282dVFPb29OcjF3TmRGQjR5WWxlQlZPOXFvY3FMdjBGYTdFek9kSXRKdTc4QnNudjR4ZUw2T3FUNWxYakZsRW9ZMzhqSWFUSG83RmMwaTBRN1loR0NJY3JsTDFpQXNMVm8yRTdDLXpDYU5TSGFldmhxVGdkbXkzYWNpSlo4dVVzQlJHWXpLUEFMRlRfSHlfcm5MdzB5X1h4X1BWYjE1aVg4a3k5b0Q5dFg1bHdVLVBUM0M3MFhDTi14MW9Xd2xXMVJGZmNmNnd6aXMtcE9mV3kwWjdaWVhmTjJJQ1d6NnRaMnFDb1BWTTZqdXdBT0lGdm5ueGNvMHQ0TWdXR3ZPNE9USUlpbXV1dnZWNU9pZUdSYUQ5dG9yMXdnX2ZjVWc5bjFBSXk5bWk0dzYyNkhYaXUyeW1pR1JWaXFwc2I4SDk3cTlfODNiLWQxMVVoZEtvWlJ1bjQ?oc=5)
 
