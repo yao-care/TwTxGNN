@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-04T19:15:35.903315+00:00",
-  "total_count": 23,
-  "matched_count": 7,
+  "last_updated": "2026-05-04T20:59:13.477142+00:00",
+  "total_count": 24,
+  "matched_count": 8,
   "news": [
     {
       "id": "d0303ed4eaf8",
@@ -268,6 +268,215 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "8738f5c19731",
+      "title": "米爾肯研究院報告：癌症防治投資不足 預防與早期診斷效益高",
+      "published": "2026-05-04T07:47:54+00:00",
+      "summary": "米爾肯研究院報告：癌症防治投資不足 預防與早期診斷效益高&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQeVp2OTUzNTh2VVVSZnJwb2pfLXI3V05sVzNvVTM0LTdNRmFHMVNnOU5hQ1RvUmhKNWhBbmxDeHR1bHd3dzhCcnZZanJlc2F1aXB5SElHRUZDdUNrbEs0QkVOQWwyWFNwWlZlbVhjX1RWbFNlaEhvZl9hc25XeWxzOHJCdzJIcUN0VUZZSlJ4VlJ6NWEtaEdNZzEweWFQUjFuRmZQLXhISEZweVB3Vm5uVWV4cGlLanVKWjh6MjhqWXV3M2d1bGdqRjROZmFxZnZlTDdOeFlyMjQzeldaWVZRY1hnT3ZTMTlrTnZsbmJaTXpqR0JKZm5YSWJrYjBxTk15bUcyMHhJbnFTZUdreHB6T04yQ1BGeG5kcmt6WkhLc1J4TnZWcExObmM1Ty1LVHhvS2loVS1LbzczVzV6Q3FrSFhVS1VrUG9aY25BVA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "57190643bb99",
@@ -748,6 +957,19 @@
       "matched_keywords": []
     },
     {
+      "id": "817da559d237",
+      "title": "耳痛陷昏迷 作家睡一覺竟「穿越」到隔年 醒來崩潰：我死了？",
+      "published": "2026-05-04T04:10:42+00:00",
+      "summary": "耳痛陷昏迷 作家睡一覺竟「穿越」到隔年 醒來崩潰：我死了？&nbsp;&nbsp;世界新聞網前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82TVFnQ05tRWFhOTRnY3BLVk9hTG9BVmVaa1hNbkF3VW5pb3Q4b1NXcGFvdUs5M0F3NzFCLU5xMlFwWTdJLWJsSTVNV1h2a2M2YWViSmFzQUdPYkNtUU10R1l30gFnQVVfeXFMTXRRQzJTaks5ck5SNlNMY1BiOElsNDFlR015T1F1OExzOHY1TUc0eEVrRHpRa3ctNWJ5T2IzRURTSVdnTWU2YUVvSEJqUEtNRTE4dndLamNfWm5KT1JTTGFRR2JLallxaw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "8a77a4db8279",
       "title": "身體出現這一細微變化 可能是衰老加速的警訊",
       "published": "2026-05-04T02:24:08+00:00",
@@ -845,19 +1067,6 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMRjJCZXlOaWJCcC1rd3hwTkFGb1hBQnNPTENUX0lvZXZwak5NTmpkUWpVUngwQk1DQlRDN1pZOUpLME1ybHZxTFJ4aG04cHRTc1dRdnZqdUFocHJXNUZEUlNsYkVEdFgwWU5fRldB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8b4fa50e9085",
-      "title": "健康網》耳感染21天醒來要跨年了！ 英國作家險死於腦膜炎 醫列6招預防",
-      "published": "2026-05-03T07:02:00+00:00",
-      "summary": "健康網》耳感染21天醒來要跨年了！ 英國作家險死於腦膜炎 醫列6招預防&nbsp;&nbsp;自由健康網前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RWm1QcU0yRzMwcDlkbGdzY2JwQmJJM3h0cV91aUtyYlBBYlVTNkx2VkdpRm5IZGRvamMxMTc3R0VtenFaSm50bHZWR1d5S04xY2s2TnBtV1Foam93SnpKYmUtWGrSAWpBVV95cUxPRmpGeTVzU1d6YjZvZDk5S0hIUjdRVndtQnhzZTVMQVhxVi14UGhmYjRLNWNRNVJQNXJhZWxxbl9KUnQ0cUVsMjFULTAtMzQ3YlJvYXNOSmVUOTViY3V2QjVKdTVEV3J4TlBR?oc=5"
         }
       ],
       "matched_keywords": []

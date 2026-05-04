@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,15 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [米爾肯研究院報告：癌症防治投資不足 預防與早期診斷效益高](https://news.google.com/rss/articles/CBMizAJBVV95cUxQeVp2OTUzNTh2VVVSZnJwb2pfLXI3V05sVzNvVTM0LTdNRmFHMVNnOU5hQ1RvUmhKNWhBbmxDeHR1bHd3dzhCcnZZanJlc2F1aXB5SElHRUZDdUNrbEs0QkVOQWwyWFNwWlZlbVhjX1RWbFNlaEhvZl9hc25XeWxzOHJCdzJIcUN0VUZZSlJ4VlJ6NWEtaEdNZzEweWFQUjFuRmZQLXhISEZweVB3Vm5uVWV4cGlLanVKWjh6MjhqWXV3M2d1bGdqRjROZmFxZnZlTDdOeFlyMjQzeldaWVZRY1hnT3ZTMTlrTnZsbmJaTXpqR0JKZm5YSWJrYjBxTk15bUcyMHhJbnFTZUdreHB6T04yQ1BGeG5kcmt6WkhLc1J4TnZWcExObmM1Ty1LVHhvS2loVS1LbzczVzV6Q3FrSFhVS1VrUG9aY25BVA?oc=5)
+
+2026-05-04
+
+來源：[yesmedia.com.tw](https://news.google.com/rss/articles/CBMizAJBVV95cUxQeVp2OTUzNTh2VVVSZnJwb2pfLXI3V05sVzNvVTM0LTdNRmFHMVNnOU5hQ1RvUmhKNWhBbmxDeHR1bHd3dzhCcnZZanJlc2F1aXB5SElHRUZDdUNrbEs0QkVOQWwyWFNwWlZlbVhjX1RWbFNlaEhvZl9hc25XeWxzOHJCdzJIcUN0VUZZSlJ4VlJ6NWEtaEdNZzEweWFQUjFuRmZQLXhISEZweVB3Vm5uVWV4cGlLanVKWjh6MjhqWXV3M2d1bGdqRjROZmFxZnZlTDdOeFlyMjQzeldaWVZRY1hnT3ZTMTlrTnZsbmJaTXpqR0JKZm5YSWJrYjBxTk15bUcyMHhJbnFTZUdreHB6T04yQ1BGeG5kcmt6WkhLc1J4TnZWcExObmM1Ty1LVHhvS2loVS1LbzczVzV6Q3FrSFhVS1VrUG9aY25BVA?oc=5)
+
+---
 
 ### [年輕大腸癌患者持續攀升！醫揭「童年腸道菌」埋致癌伏筆](https://news.google.com/rss/articles/CBMi6wJBVV95cUxOUHR2NEVEeE1tWlJfa2ZpWno1YUJ3aklzNzlxV190ekN2NzZKNTZEdnFvaFZHSmwwdk9maGRpWllyUGNsQnRWNjktamlGQXE4amdjUkpGbHY1eTJ1RGlMZEpKb09DamxQeHBzLUFUMUxodWxPV2NRZ1hGX1h0U0pMQWN5R1BxczZmSFlCUkhpb1hUQmI3ZUR2OFJFY1BVOE96cVFVZDZ5MEd3Nm1rakQ0QTg1YXVBY3VJUTJUSEJENUM5T05FcDFRVjY1aFFKMVlwb25fNElCOVBuZkZUbTExTzN3NkxuRzlMek1HSVF4Zko0RnZvNV9nRFRvaTVxODF6YmtnUXQ5T2Y1SDFrWFdLclBJT0U3NW51QnVCX0ppdktac0tUNUZfZWNWY2gxYTJ1SjJRVjJGYzFiaW1ZaXh4N3J4LTYxUDhBR1N1akFCWVA1MGliY0dGR0xGb2dDN0wyclROc0o1LXh6SFE?oc=5)
 
