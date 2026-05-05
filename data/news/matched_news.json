@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-05T15:30:05.231596+00:00",
-  "total_count": 25,
-  "matched_count": 9,
+  "last_updated": "2026-05-05T17:14:42.808473+00:00",
+  "total_count": 23,
+  "matched_count": 8,
   "news": [
     {
       "id": "50b794e1ca0e",
@@ -313,14 +313,14 @@
       "matched_keywords": []
     },
     {
-      "id": "d34f1e2689b1",
+      "id": "3d8a6293e427",
       "title": "七旬翁免開刀、完整保留腸道功能 新北聯醫成功切除8公分大腸病灶",
       "published": "2026-05-05T03:45:48+00:00",
       "summary": "七旬翁免開刀、完整保留腸道功能 新北聯醫成功切除8公分大腸病灶&nbsp;&nbsp;經濟日報",
       "sources": [
         {
           "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GS0RGa1NqT0lKOVhSbjdqTHFmZVdHS1Rrc0JBc3UyOEFXVkVFUnJJblJDYTZuVHkwdXBKcUZmSHNHSFdFaXJkck9Ob21fM1Rocm1hQ1Y3R2pvb2VtUlROakRIemhQN00wUWhsS0s5U2xpV0NuQ0M40gFfQVVfeXFMT0tOUUVqQXVIbUFjRGphejNORTNrcFJMbzNBRGg1Rkh4cml5cjdOekZCVUlPWGExUmt0YjR6cHpuY3J2RkdmVFVhNnBpMVVHM3pjd3JqcGU5aTAtdjJDMnM?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40bGVnWnE4NGdmQVFzLTJIc0h2UmhpTndsdjBmd3VJa2FVa091cXB1M1kyazhkT04xUUJ1YlZEYWhYY2ZzX0F6V0s4eDVlYjlLanFPdEUwWERnUdIBX0FVX3lxTE9LTlFFakF1SG1BY0RqYXozTkUza3BSTG8zQURoNUZIeHJpeXI3TnpGQlVJT1hhMVJrdGI0enB6bmNydkZHZlRVYTZwaTFVRzN6Y3dyanBlOWkwLXYyQzJz?oc=5"
         }
       ],
       "matched_keywords": []
@@ -480,139 +480,14 @@
       "matched_keywords": []
     },
     {
-      "id": "334719d4955b",
-      "title": "護肝不只靠戒酒！營養師公開「12種最強護肝食物」黑咖啡、酪梨都上榜",
-      "published": "2026-05-04T11:08:43+00:00",
-      "summary": "護肝不只靠戒酒！營養師公開「12種最強護肝食物」黑咖啡、酪梨都上榜&nbsp;&nbsp;ELLE",
-      "sources": [
-        {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03R2hBVWU1OENNNlljZjJfRk1pZUJkNWRTU0ZQR2VCbldlUWl1SFowTUhQdG1jMmptT1BtV2l0dWtXMjlxejMtRUdqaDM0cG5GRE5UdWI0cWZhc3VmeGlzcGM0ZFRRY0pqcWdENFc2aDRLZm43UV9VYk1Paw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a00aef3c4dc4",
-      "title": "駝背死亡風險暴增2倍！極易患糖尿病+心臟病！醫生警告：大腦出問題！教6招1分鐘簡單自救法 - UHK 港生活",
-      "published": "2026-05-04T10:39:55+00:00",
-      "summary": "駝背死亡風險暴增2倍！極易患糖尿病+心臟病！醫生警告：大腦出問題！教6招1分鐘簡單自救法&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxNM0cyeEtmdndIdGFXZ3FFTlNEVWFBQnlXeUdtLUc1WGh4eEM4RVVZRl9uZk9JcEhCSEZOaGFYaHVBejFUb0FDWGVmbWdlYU1vWXJCN2ZQUTB0cXo1QnVWNUF1T29VWWRpb2N6YVJWNWI4UVJHVUpuZ1RSRGxQYjdUMnFhdWYwYXRiSi01dkhGMjNRVmY4SzFlc3hSS21vVWRmR2F1RU1CNlNiOUJhcm9jTkwzR1VNaWlTLThmQ2M5LXhyOXF2Ym5uYzlYRmV1WnNYbUNzVVlQTV90clBXR3N3MV85RkdDSVpHNmswaDlXXzZvYlVCTktyU1Z4bkM0QkZsOTluZ2lDRUlOUm5DMVFHSzVyVTlSRURuTlp6ZGR2STdHTGZzWl83RW9xTGxZX1lYaF9xNU5rc3c5WjRrM0s1bjFabk1CelU4QUE4Zng1Z201QjhUS0RMWGJ0dV9NZXVSTTJSWW5MOWVuOXRMV1pYZ0hYa29Nb3dNMzBtQnBRUU9iVEkzcjBkeW16b185WHRyMVpXYkZaMW1weGY2MVB0Q0lMeFZQUFZQcm5MRko2bXJJVWFjUnJXWDdFRmJWMzlYaGV6SWdJLXNHeU5fa3ZaT2xMUlNiRThvdlV2VUV5eWxZOHBpelhpVHoza2RKSTlDLXBrbFpuMF9VcEJHVE1JS2xxWkxMRXNHa3d6OExyaDExb3hnN3VYMjZhd3FITzczalhieg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "08f4e5844621",
-      "title": "明明很舒服卻崩潰大哭？原來真的有「高潮後憂鬱」，男女都可能發生",
-      "published": "2026-05-04T10:12:00+00:00",
-      "summary": "明明很舒服卻崩潰大哭？原來真的有「高潮後憂鬱」，男女都可能發生&nbsp;&nbsp;造咖",
-      "sources": [
-        {
-          "name": "造咖",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vLVVJN0hEbExPQ3ZGVzlVMkVFSVU5d2d6eVpDRmJMVmNJM1Rua1pDRXM1TEJiWDJjQ0xMeEpuelM4TC1HSmJuTkN1SWpQZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f0095977025f",
-      "title": "40歲以後每週做愛達到「這次數」外表年輕7歲！",
-      "published": "2026-05-04T09:38:00+00:00",
-      "summary": "40歲以後每週做愛達到「這次數」外表年輕7歲！&nbsp;&nbsp;東森新聞",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOS0xZcHBLMV83VnFfYUVmMTdjSkVjRVBCZmxnN1VfRGp1Ni1sR19OX0t4dkY0TnJRdnhRenpMN21xU2dFcjYtb1RuZ05xYUlkR2FSOA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7a0afa0b4f5e",
-      "title": "糖尿病不只傷眼腎 研究揭：糖友「看不清」恐與認知退化有關",
-      "published": "2026-05-04T08:20:54+00:00",
-      "summary": "糖尿病不只傷眼腎 研究揭：糖友「看不清」恐與認知退化有關&nbsp;&nbsp;草根影響力新視野",
-      "sources": [
-        {
-          "name": "草根影響力新視野",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNc0w3UXBGRFVyeDg4aERQTnJNQkZxOEl3NGxGODhiQWc1OXg5SU9hNGNEZjdlS0tzYTRlT2ZfNnB5djRHUXUtZ20zVTNyUlJCcWdJempONkRseFNVQXhsZnZIMzNWY1FCUWVKZFA3WnNuMC1tVE9DRndTUmZhWUZXQ1lBTms1OF9ULVVqMmNnZFByT2R0NEtoT3Q2UlhNVmNYaHRvWjJ5MDZsbG9zbDU1cnVOaTZ6NTd2dHpSU0RCTWF3OWhjRUlleHpZSDZ5ZzQ2dEJuWk5TTlYzbF8yNS0xTThpQzhRaDV6bEM5MVItd0JaTEw3VnI5SWtZcVQtWC15bm1JY3RrMHpIeE93d2JmX3FKQmczbWY3eXJIenBtdmxwY2NqN2VoRW41c0FlODJnaGdISko4WTBQU2Z2RFIzakdPVlVwWEk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8738f5c19731",
+      "id": "c40ae8ce745c",
       "title": "米爾肯研究院報告：癌症防治投資不足 預防與早期診斷效益高",
-      "published": "2026-05-04T07:47:54+00:00",
-      "summary": "米爾肯研究院報告：癌症防治投資不足 預防與早期診斷效益高&nbsp;&nbsp;yesmedia.com.tw",
+      "published": "2026-05-04T11:14:00+00:00",
+      "summary": "米爾肯研究院報告：癌症防治投資不足 預防與早期診斷效益高&nbsp;&nbsp;ENN台灣電報",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQeVp2OTUzNTh2VVVSZnJwb2pfLXI3V05sVzNvVTM0LTdNRmFHMVNnOU5hQ1RvUmhKNWhBbmxDeHR1bHd3dzhCcnZZanJlc2F1aXB5SElHRUZDdUNrbEs0QkVOQWwyWFNwWlZlbVhjX1RWbFNlaEhvZl9hc25XeWxzOHJCdzJIcUN0VUZZSlJ4VlJ6NWEtaEdNZzEweWFQUjFuRmZQLXhISEZweVB3Vm5uVWV4cGlLanVKWjh6MjhqWXV3M2d1bGdqRjROZmFxZnZlTDdOeFlyMjQzeldaWVZRY1hnT3ZTMTlrTnZsbmJaTXpqR0JKZm5YSWJrYjBxTk15bUcyMHhJbnFTZUdreHB6T04yQ1BGeG5kcmt6WkhLc1J4TnZWcExObmM1Ty1LVHhvS2loVS1LbzczVzV6Q3FrSFhVS1VrUG9aY25BVA?oc=5"
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1aNXNUY05FVTZVcGJmN0dGXzh3T1d5bzZ1c1FodGFCbUZIRTkybmRPVFd3NEcwc3A2TVE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -812,6 +687,131 @@
           ]
         }
       ]
+    },
+    {
+      "id": "334719d4955b",
+      "title": "護肝不只靠戒酒！營養師公開「12種最強護肝食物」黑咖啡、酪梨都上榜",
+      "published": "2026-05-04T11:08:43+00:00",
+      "summary": "護肝不只靠戒酒！營養師公開「12種最強護肝食物」黑咖啡、酪梨都上榜&nbsp;&nbsp;ELLE",
+      "sources": [
+        {
+          "name": "ELLE",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03R2hBVWU1OENNNlljZjJfRk1pZUJkNWRTU0ZQR2VCbldlUWl1SFowTUhQdG1jMmptT1BtV2l0dWtXMjlxejMtRUdqaDM0cG5GRE5UdWI0cWZhc3VmeGlzcGM0ZFRRY0pqcWdENFc2aDRLZm43UV9VYk1Paw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a00aef3c4dc4",
+      "title": "駝背死亡風險暴增2倍！極易患糖尿病+心臟病！醫生警告：大腦出問題！教6招1分鐘簡單自救法 - UHK 港生活",
+      "published": "2026-05-04T10:39:55+00:00",
+      "summary": "駝背死亡風險暴增2倍！極易患糖尿病+心臟病！醫生警告：大腦出問題！教6招1分鐘簡單自救法&nbsp;&nbsp;UHK 港生活",
+      "sources": [
+        {
+          "name": "UHK 港生活",
+          "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxNM0cyeEtmdndIdGFXZ3FFTlNEVWFBQnlXeUdtLUc1WGh4eEM4RVVZRl9uZk9JcEhCSEZOaGFYaHVBejFUb0FDWGVmbWdlYU1vWXJCN2ZQUTB0cXo1QnVWNUF1T29VWWRpb2N6YVJWNWI4UVJHVUpuZ1RSRGxQYjdUMnFhdWYwYXRiSi01dkhGMjNRVmY4SzFlc3hSS21vVWRmR2F1RU1CNlNiOUJhcm9jTkwzR1VNaWlTLThmQ2M5LXhyOXF2Ym5uYzlYRmV1WnNYbUNzVVlQTV90clBXR3N3MV85RkdDSVpHNmswaDlXXzZvYlVCTktyU1Z4bkM0QkZsOTluZ2lDRUlOUm5DMVFHSzVyVTlSRURuTlp6ZGR2STdHTGZzWl83RW9xTGxZX1lYaF9xNU5rc3c5WjRrM0s1bjFabk1CelU4QUE4Zng1Z201QjhUS0RMWGJ0dV9NZXVSTTJSWW5MOWVuOXRMV1pYZ0hYa29Nb3dNMzBtQnBRUU9iVEkzcjBkeW16b185WHRyMVpXYkZaMW1weGY2MVB0Q0lMeFZQUFZQcm5MRko2bXJJVWFjUnJXWDdFRmJWMzlYaGV6SWdJLXNHeU5fa3ZaT2xMUlNiRThvdlV2VUV5eWxZOHBpelhpVHoza2RKSTlDLXBrbFpuMF9VcEJHVE1JS2xxWkxMRXNHa3d6OExyaDExb3hnN3VYMjZhd3FITzczalhieg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "08f4e5844621",
+      "title": "明明很舒服卻崩潰大哭？原來真的有「高潮後憂鬱」，男女都可能發生",
+      "published": "2026-05-04T10:12:00+00:00",
+      "summary": "明明很舒服卻崩潰大哭？原來真的有「高潮後憂鬱」，男女都可能發生&nbsp;&nbsp;造咖",
+      "sources": [
+        {
+          "name": "造咖",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vLVVJN0hEbExPQ3ZGVzlVMkVFSVU5d2d6eVpDRmJMVmNJM1Rua1pDRXM1TEJiWDJjQ0xMeEpuelM4TC1HSmJuTkN1SWpQZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f0095977025f",
+      "title": "40歲以後每週做愛達到「這次數」外表年輕7歲！",
+      "published": "2026-05-04T09:38:00+00:00",
+      "summary": "40歲以後每週做愛達到「這次數」外表年輕7歲！&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOS0xZcHBLMV83VnFfYUVmMTdjSkVjRVBCZmxnN1VfRGp1Ni1sR19OX0t4dkY0TnJRdnhRenpMN21xU2dFcjYtb1RuZ05xYUlkR2FSOA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7a0afa0b4f5e",
+      "title": "糖尿病不只傷眼腎 研究揭：糖友「看不清」恐與認知退化有關",
+      "published": "2026-05-04T08:20:54+00:00",
+      "summary": "糖尿病不只傷眼腎 研究揭：糖友「看不清」恐與認知退化有關&nbsp;&nbsp;草根影響力新視野",
+      "sources": [
+        {
+          "name": "草根影響力新視野",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNc0w3UXBGRFVyeDg4aERQTnJNQkZxOEl3NGxGODhiQWc1OXg5SU9hNGNEZjdlS0tzYTRlT2ZfNnB5djRHUXUtZ20zVTNyUlJCcWdJempONkRseFNVQXhsZnZIMzNWY1FCUWVKZFA3WnNuMC1tVE9DRndTUmZhWUZXQ1lBTms1OF9ULVVqMmNnZFByT2R0NEtoT3Q2UlhNVmNYaHRvWjJ5MDZsbG9zbDU1cnVOaTZ6NTd2dHpSU0RCTWF3OWhjRUlleHpZSDZ5ZzQ2dEJuWk5TTlYzbF8yNS0xTThpQzhRaDV6bEM5MVItd0JaTEw3VnI5SWtZcVQtWC15bm1JY3RrMHpIeE93d2JmX3FKQmczbWY3eXJIenBtdmxwY2NqN2VoRW41c0FlODJnaGdISko4WTBQU2Z2RFIzakdPVlVwWEk?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "57190643bb99",
@@ -1292,31 +1292,6 @@
       "matched_keywords": []
     },
     {
-      "id": "144094f06f58",
-      "title": "《心腦血管治療的奇蹟》改善高血糖不適症狀 重新為人生注能量",
-      "published": "2026-05-04T01:00:12+00:00",
-      "summary": "《心腦血管治療的奇蹟》改善高血糖不適症狀 重新為人生注能量&nbsp;&nbsp;匯流新聞網",
-      "sources": [
-        {
-          "name": "匯流新聞網",
-          "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNbGlia3NVem9weTJJUkVWWUNEMmxJNzhNaGF0RC12OUIxS21RaUltaHZfVkZDUG8xMGJNdmVuZk15TVhWdjJONXNfcTEzQ3BidDZOWDlqVWM2NWhSWUVVc21JYktfRG9MTWl2Y1ZzSGxaZDJGdFM5YmFzaUhrM0luOHdXVXVUWllSSnV3SjYxQ1ZuV1p4aXJjNm8yZWZtRVBJa0hWZ0FOdFhxcmhXSzFDZWhtNXpFRzZQQlFoRU1mYTZMVHF1X0NqMEQtdFZ6Z3luOEJDekpOYlEwZE9rSTNETV9yM2pCanVDY09Td1FrTGwycXhvd2puTVplemJrNHRCY0M5dXdJcDlvaUxOcTVZLUFUamJjR1Q4b2hRRmJjaklvUE9vbnVvd3M5bkFRSERhYVhuOTJnZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "腦血管",
-          "keyword": "腦血管",
-          "related_drugs": [
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "8e01704b7c57",
       "title": "49歲媽居然忘記小孩名字「以為罹失智快崩潰」七年後才檢出真正病因",
       "published": "2026-05-04T00:08:15+00:00",
@@ -1340,19 +1315,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "5895b62536c9",
-      "title": "瘧疾不僅殺死了早期人類。但它也定義了我們是誰。",
-      "published": "2026-05-03T16:39:18+00:00",
-      "summary": "瘧疾不僅殺死了早期人類。但它也定義了我們是誰。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPdDF4OVlyX1J1bG5jbDFEbjM1R0JNTTRmV2hkV2Zsempidm03c0dacm02Rm11X1dsRTRzamJjTTkwUHc3T1lmd1RhbmxJdFdBVEo5T2JuRDJMQkZhMWotU1ZmREFzTTRYR3JMTW1KWkI2NnR0bENRNzEweEtFTWZ1RnE3ZmF0alR6M0NobWE5OEhtamtjcnZ6Q0xFaERWTVRjb0NUSWROS1dLUjZyVm5hNUM5eklVMHFfWDlQRHBRRDRxT1AxdmE4Zk81MGU0M29oamltbmtCUFhHU0x0S1hRTjExdC1CeG1JTDlJWl9GelJFNzQyVnplQXM2SDg2S2xfbHBCWTRtNnFrekwxYUxQZG1rdWlnMmtMSzdfUFpQdkw4bDlRVGFJQ01NZFFGeWV1eHcxdHcxaXpZeU1XcDVDcVpVLVlJcjZWejlZUFpwa3p1UzV1dEhpNmFjOGw3WUtUVHc4T1ZEZ1Z5U1EzdDJLYmlvLVNVU0dZaFdGQzBKbFRQUm5kWVE?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
