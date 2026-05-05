@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-05T07:55:46.932314+00:00",
-  "count": 9,
+  "generated": "2026-05-05T09:55:44.803711+00:00",
+  "count": 8,
   "news": [
     {
       "id": "d12e58b0e887",
@@ -205,89 +205,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6fd7a0bce983",
-      "title": "全球406萬心臟病人死於飲食不理想！必吃3大護心血管食物 專家公開最佳食法",
-      "published": "2026-05-05T01:00:00+00:00",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxOaXRJdElZUUE3ZENsOHRfTFFGcW5LZnBPQl83UGlkdXQydGlWdHhDWFFEMXkwNXk4eVJVTExXX2picEIxbGI1b3pORHhvWFFzLUFNQUZLNlp0Ulh6bXBEVVFjQTRsLTdmZ2EtLVp0WHk2YWNiZlNYb3FDRHdacFdrb05DZjJrSVRRalFBLXRVdGdnUUdRWktQd3U0cmYwMk5MUlZrS296dno1aTJWaGlhRUh3ZHNLVWFXZm95b0NJVTk4MFdaZi00UVgtdkxpaURZNGtYMUtEWUFES2dhVlVfQlZXc1pGanJ4aUg2YXo5V0JiNkZ1M0FDY09CUV9Ta0NiRWxwMDNYSW5OcW9kTXFRdkh3bE84bTZhOGY1NW5sMUdEUE03NTd5dlZqVXZDMkh5c0lVTU5XT2VFQldERjFGSVV5S1VQVVpKRVhCeV9DdXFlcjUtejlpLW1NNGxSNmlJRVQ1NldMWVFJWWo5RG5ha2dPeE5xZ3JEa3dWZ2lMWXk3MlgyaXZVdlBwb3BSOVJaN2tLVW1fbHRTWFRvQTdwUUpVSGZMcDI0RndCSlBqV3FQN1VHb3RXZGJuR2x3c3g5SXdIckstTENUWkxISFU3OV9BVzJyUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
             }
           ]
         }

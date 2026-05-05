@@ -14,7 +14,7 @@ permalink: /news/felodipine/
 ---
 
 <p class="key-answer" data-question="Felodipine 有什麼相關新聞？">
-<strong>Felodipine</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Felodipine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,21 +38,13 @@ permalink: /news/felodipine/
 <p><a href="{{ '/drugs/felodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [曾被當沒用器官！研究指切除後死亡率較高 還與癌症風險相關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zVGMzbE9ZNXpBWUIxTGtkaGVmOHRGRGtjazdWZ2Z0MEpnMXZuT2xBamMwMVQyUlNydUVra2lYRW1MS19WUWk3REdRcmVrUURKVVBvRFRNa3VoUFVoU3VCZlpna2fSAWpBVV95cUxOT0tUUU9Yc25ROEQwdkVlX3J6NXBlTGdEOGdaalQ3UjgyVmpGN0RMeExfR0U2aUItcXpYVGRJNFVVM2JCNmVvQ0lLR1lnQ3I1MVJiTWVUNEk0R1l2cmlRdGo2OXctWFJpRXN3?oc=5)
 
 2026-05-05 <span class="news-indication-tag">癌症</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zVGMzbE9ZNXpBWUIxTGtkaGVmOHRGRGtjazdWZ2Z0MEpnMXZuT2xBamMwMVQyUlNydUVra2lYRW1MS19WUWk3REdRcmVrUURKVVBvRFRNa3VoUFVoU3VCZlpna2fSAWpBVV95cUxOT0tUUU9Yc25ROEQwdkVlX3J6NXBlTGdEOGdaalQ3UjgyVmpGN0RMeExfR0U2aUItcXpYVGRJNFVVM2JCNmVvQ0lLR1lnQ3I1MVJiTWVUNEk0R1l2cmlRdGo2OXctWFJpRXN3?oc=5)
-
----
-
-### [全球406萬心臟病人死於飲食不理想！必吃3大護心血管食物 專家公開最佳食法](https://news.google.com/rss/articles/CBMi1gNBVV95cUxOaXRJdElZUUE3ZENsOHRfTFFGcW5LZnBPQl83UGlkdXQydGlWdHhDWFFEMXkwNXk4eVJVTExXX2picEIxbGI1b3pORHhvWFFzLUFNQUZLNlp0Ulh6bXBEVVFjQTRsLTdmZ2EtLVp0WHk2YWNiZlNYb3FDRHdacFdrb05DZjJrSVRRalFBLXRVdGdnUUdRWktQd3U0cmYwMk5MUlZrS296dno1aTJWaGlhRUh3ZHNLVWFXZm95b0NJVTk4MFdaZi00UVgtdkxpaURZNGtYMUtEWUFES2dhVlVfQlZXc1pGanJ4aUg2YXo5V0JiNkZ1M0FDY09CUV9Ta0NiRWxwMDNYSW5OcW9kTXFRdkh3bE84bTZhOGY1NW5sMUdEUE03NTd5dlZqVXZDMkh5c0lVTU5XT2VFQldERjFGSVV5S1VQVVpKRVhCeV9DdXFlcjUtejlpLW1NNGxSNmlJRVQ1NldMWVFJWWo5RG5ha2dPeE5xZ3JEa3dWZ2lMWXk3MlgyaXZVdlBwb3BSOVJaN2tLVW1fbHRTWFRvQTdwUUpVSGZMcDI0RndCSlBqV3FQN1VHb3RXZGJuR2x3c3g5SXdIckstTENUWkxISFU3OV9BVzJyUQ?oc=5)
-
-2026-05-05 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臟病</span>
-
-來源：[星島頭條](https://news.google.com/rss/articles/CBMi1gNBVV95cUxOaXRJdElZUUE3ZENsOHRfTFFGcW5LZnBPQl83UGlkdXQydGlWdHhDWFFEMXkwNXk4eVJVTExXX2picEIxbGI1b3pORHhvWFFzLUFNQUZLNlp0Ulh6bXBEVVFjQTRsLTdmZ2EtLVp0WHk2YWNiZlNYb3FDRHdacFdrb05DZjJrSVRRalFBLXRVdGdnUUdRWktQd3U0cmYwMk5MUlZrS296dno1aTJWaGlhRUh3ZHNLVWFXZm95b0NJVTk4MFdaZi00UVgtdkxpaURZNGtYMUtEWUFES2dhVlVfQlZXc1pGanJ4aUg2YXo5V0JiNkZ1M0FDY09CUV9Ta0NiRWxwMDNYSW5OcW9kTXFRdkh3bE84bTZhOGY1NW5sMUdEUE03NTd5dlZqVXZDMkh5c0lVTU5XT2VFQldERjFGSVV5S1VQVVpKRVhCeV9DdXFlcjUtejlpLW1NNGxSNmlJRVQ1NldMWVFJWWo5RG5ha2dPeE5xZ3JEa3dWZ2lMWXk3MlgyaXZVdlBwb3BSOVJaN2tLVW1fbHRTWFRvQTdwUUpVSGZMcDI0RndCSlBqV3FQN1VHb3RXZGJuR2x3c3g5SXdIckstTENUWkxISFU3OV9BVzJyUQ?oc=5)
 
 ---
 
