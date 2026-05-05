@@ -1,13 +1,13 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-05T22:48:12.694271+00:00",
+  "fetched_at": "2026-05-05T23:40:43.998479+00:00",
   "count": 26,
   "news": [
     {
       "id": "525a709eaaf6",
       "title": "健康網》露營後手掌冒紅斑 拖1個月當蟲咬 抽血一驗竟染梅毒 - 自由健康網",
       "published": "2026-05-05T07:40:00+00:00",
-      "summary": "健康網》露營後手掌冒紅斑 拖1個月當蟲咬 抽血一驗竟染梅毒&nbsp;&nbsp;自由健康網手掌紅斑以為被咬！年輕男拖1個月 一驗竟是梅毒&nbsp;&nbsp;Yahoo新聞露營男手掌爆長紅斑！「不痛不癢拖1個月」問AI嚇傻衝醫院確診梅毒&nbsp;&nbsp;三立新聞網SETN.com露營惹性病？男手掌生紅斑以為蟲咬 醫揭竟染二期梅毒附3大特徵&nbsp;&nbsp;UHK 港生活【年輕人露營回來「手掌紅斑狂冒」驗出梅毒！醫籲別拖：從床上來的】 （圖／蘇信豪醫師授權提供） 就說要戴套。(#起啵)&nbsp;&nbsp;facebook.com",
+      "summary": "健康網》露營後手掌冒紅斑 拖1個月當蟲咬 抽血一驗竟染梅毒&nbsp;&nbsp;自由健康網露營後「手冒紅疹1個月」竟驗出梅毒 醫揭真相：號稱「偉大的模仿者」&nbsp;&nbsp;Yahoo新聞露營男手掌爆長紅斑！「不痛不癢拖1個月」問AI嚇傻衝醫院確診梅毒&nbsp;&nbsp;三立新聞網SETN.com手掌紅斑以為被咬！年輕男拖1個月 一驗竟是梅毒&nbsp;&nbsp;鏡週刊Mirror Media【年輕人露營回來「手掌紅斑狂冒」驗出梅毒！醫籲別拖：從床上來的】 （圖／蘇信豪醫師授權提供） 就說要戴套。(#起啵)&nbsp;&nbsp;facebook.com",
       "sources": [
         {
           "name": "自由健康網",
@@ -232,13 +232,13 @@
       ]
     },
     {
-      "id": "4d643f73058d",
-      "title": "運動強度或更影響健康！最新研究揭： 每日數分鐘高強度活動可大幅降疾病風險 - 巴士的報",
+      "id": "93c5ec67713c",
+      "title": "運動強度或更影響健康！最新研究揭： 每日數分鐘高強度活動可大幅降疾病風險 - bastillepost.com",
       "published": "2026-05-04T23:00:13+00:00",
-      "summary": "運動強度或更影響健康！最新研究揭： 每日數分鐘高強度活動可大幅降疾病風險&nbsp;&nbsp;巴士的報",
+      "summary": "運動強度或更影響健康！最新研究揭： 每日數分鐘高強度活動可大幅降疾病風險&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOcmVTYWdXTUV6LXRmX0lpVkFuVXRQV0dlM0R4aWwxTXk1Uzg2bWZVaWpXUzVHcmtLX2hLTnBxV2c3OExha2kyQnZPWkRFX0pxd3RPaFkwMFB2aHp4RkxyUktjdWFydzIwSUpidUtFRjFmRmQyYVpRV1FGcWk0QjczNjVzaldCbTlISXNzWXJocEk1ZExQNkcyQ1Y4dktBR2ZfQkJHbVpmd2QyWjBfekh3Nk55MEF3eWg1c0d2cDdPNTh3c1Ixb2VlVDMwWmNiMU15eHY5Q2lmZVIyeGstNUc2bXdNU3paMUZQVnVKV3NNY3Z2ejRWWl96SVFQM1lNeUZiZmxPTEJzSXkya0pwREpJdWg4RnpwYWtJLUVnN1hKTEdZZFd6SWpDZ2k5eUFyU1hwRVpkNWt5T3BZNXNPZ2hkX2EtTVRIMExOd25ON2h3dkk0RklkMnU3c0ZuOE9KS2ExbDB5amZFMnV1MTFDUEE?oc=5"
         }
       ]
@@ -256,18 +256,6 @@
       ]
     },
     {
-      "id": "bb3cf6bf38e0",
-      "title": "春天踏青好時節？ 先留意三項隱形風險 - 巴士的報",
-      "published": "2026-05-04T12:00:00+00:00",
-      "summary": "春天踏青好時節？ 先留意三項隱形風險&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxORTRaUEliV04ySGk4d2k4dUpUTGhQWExYLXdvUEp5dlBFQzRZeFp5cnZGRlQzVnFlZ20zRjdqOEtxMlVNbTNlSzlnNmFJNlk2ZTdqNFZKbVNfUUxQNUZINlZ5clJOWWI2VVZ4NkdMSjh3STA4OXdTSzdBWnBUY0I4U2VMdWJKLVdacFlBelZ6ZjN6YkhjZFZnUTBwaEFaUDkwVmFmQ1ZTdWp6M3F3QTZDTWwxd3pwMjA0RVI0eGVBMTQ4ZTJaMGh5Zk9EY1lGYzhqNDdJOUNCSGdQWmhlUmZ5RV9PVVNnald2Tk1PTGdwcXVLN3V2bF9CNXBpUU55TmFIaGxwMmpiRUZ4UVFEV1Q4bVdSTXE0VUwxY0JhX091VkJoeGdieVpkYXZHeTg1X2k0NWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "50b794e1ca0e",
       "title": "🎙️想比別人多活9年？先做好這8件事 - 世界新聞網",
       "published": "2026-05-05T13:35:00+00:00",
@@ -276,6 +264,18 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ialY5WldmRnZPV1EwTWtSd2h5cHZsQmNXUDBTWTUyN3hRNHhES3ZCN25Ma3ExTEE5NnpfVWNPaGF6d3dKUHVYV1IwMzJfYkxKaUZaQkJ1RE1XR3dOMGVlTmZn0gFnQVVfeXFMTVBla2NtRVZndDhwZkVUamtzZkp6bzUyTTAtNzQ4RnhKNC1zdDV6UnREMGFXR0YyTTdNalJ1WE5zcHBHUV9WMUtha1J4bVdqeVJudGJrQ3I3dXBLb3hpRmotajJ1dTAtaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6133958d5601",
+      "title": "春天踏青好時節？ 先留意三項隱形風險 - bastillepost.com",
+      "published": "2026-05-04T12:00:00+00:00",
+      "summary": "春天踏青好時節？ 先留意三項隱形風險&nbsp;&nbsp;bastillepost.com",
+      "sources": [
+        {
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxORTRaUEliV04ySGk4d2k4dUpUTGhQWExYLXdvUEp5dlBFQzRZeFp5cnZGRlQzVnFlZ20zRjdqOEtxMlVNbTNlSzlnNmFJNlk2ZTdqNFZKbVNfUUxQNUZINlZ5clJOWWI2VVZ4NkdMSjh3STA4OXdTSzdBWnBUY0I4U2VMdWJKLVdacFlBelZ6ZjN6YkhjZFZnUTBwaEFaUDkwVmFmQ1ZTdWp6M3F3QTZDTWwxd3pwMjA0RVI0eGVBMTQ4ZTJaMGh5Zk9EY1lGYzhqNDdJOUNCSGdQWmhlUmZ5RV9PVVNnald2Tk1PTGdwcXVLN3V2bF9CNXBpUU55TmFIaGxwMmpiRUZ4UVFEV1Q4bVdSTXE0VUwxY0JhX091VkJoeGdieVpkYXZHeTg1X2k0NWc?oc=5"
         }
       ]
     },
