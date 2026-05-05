@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [米爾肯研究院報告：癌症防治投資不足 預防與早期診斷效益高](https://news.google.com/rss/articles/CBMizAJBVV95cUxQeVp2OTUzNTh2VVVSZnJwb2pfLXI3V05sVzNvVTM0LTdNRmFHMVNnOU5hQ1RvUmhKNWhBbmxDeHR1bHd3dzhCcnZZanJlc2F1aXB5SElHRUZDdUNrbEs0QkVOQWwyWFNwWlZlbVhjX1RWbFNlaEhvZl9hc25XeWxzOHJCdzJIcUN0VUZZSlJ4VlJ6NWEtaEdNZzEweWFQUjFuRmZQLXhISEZweVB3Vm5uVWV4cGlLanVKWjh6MjhqWXV3M2d1bGdqRjROZmFxZnZlTDdOeFlyMjQzeldaWVZRY1hnT3ZTMTlrTnZsbmJaTXpqR0JKZm5YSWJrYjBxTk15bUcyMHhJbnFTZUdreHB6T04yQ1BGeG5kcmt6WkhLc1J4TnZWcExObmM1Ty1LVHhvS2loVS1LbzczVzV6Q3FrSFhVS1VrUG9aY25BVA?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/paclitaxel/
 2026-05-04 <span class="news-indication-tag">癌症</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FSTJPcHRNNE96YlpPQ05nZjY5WG5HbEVRU3FpaUdIOXpmWkNCR0ZFemxQTlRQSDZRRlNZU1NWUXZrUUFibDBEM1NpVlNQSzRuSFJUanZyZzN6MTVGUzBLOWEyZnrSAWpBVV95cUxQajExN0FVamprMDZEZGFLcGlrTTk3TEJrQlRnS0htT2Q0LUM3M2I4WEQwVzg3R0ZGdUxkUGVJUXA3RWhqcnJxamJaM05tX2lOZF9adVFkRFFsaS1xb3lJS0JObElucDhCYlh3?oc=5)
-
----
-
-### [3D 研究分析面部衰老軌跡女性更年期後老化明顯加速](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNNDFMcmkwQmJicmhyM1h0RGNoTXcyalhndTcxNEh2M3REaW9mRy1lckMtbGM0RU9fUE5OU1VJQW9fclpwRl9KUzNSM3RNV2Ewcm1xcUluN0RLMUJVTjk3UEZIWmRmdVY1UXRac1podmRrMkd5TFpOcHlqc1pMemlmR04wem9mVVBSTkNoc2xCaENhQTdZamxHNTI1aGJ1T2lmY3lPME1HY2NPVjFHZHhTYkVMLXpzUFFpMDZCdlU0enVZUFBNS2h1dG9US181bXgxR2FCVTVDYzlsWms2WFotZVQ0SUpFcTdkM256R1VPN3RRNFgxTER3Z1huX3dyRGQwV2l0QUJHTzJ5RzVBS0FKcnl1bG1sbGkyemdmY2wwM3FpUUNfZUgyNGlHWlJoaEpTbU1sUnNZc0RKTmlVLUF2cHdpemR5dmtMSFJCYWZ1aFZNeUg5ZFhYVXJoNmltUXI1MzFCNkx3?oc=5)
-
-2026-05-02 <span class="news-indication-tag">更年期</span>
-
-來源：[巴士的報](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNNDFMcmkwQmJicmhyM1h0RGNoTXcyalhndTcxNEh2M3REaW9mRy1lckMtbGM0RU9fUE5OU1VJQW9fclpwRl9KUzNSM3RNV2Ewcm1xcUluN0RLMUJVTjk3UEZIWmRmdVY1UXRac1podmRrMkd5TFpOcHlqc1pMemlmR04wem9mVVBSTkNoc2xCaENhQTdZamxHNTI1aGJ1T2lmY3lPME1HY2NPVjFHZHhTYkVMLXpzUFFpMDZCdlU0enVZUFBNS2h1dG9US181bXgxR2FCVTVDYzlsWms2WFotZVQ0SUpFcTdkM256R1VPN3RRNFgxTER3Z1huX3dyRGQwV2l0QUJHTzJ5RzVBS0FKcnl1bG1sbGkyemdmY2wwM3FpUUNfZUgyNGlHWlJoaEpTbU1sUnNZc0RKTmlVLUF2cHdpemR5dmtMSFJCYWZ1aFZNeUg5ZFhYVXJoNmltUXI1MzFCNkx3?oc=5)
 
 ---
 
