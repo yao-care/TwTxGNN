@@ -1,7 +1,54 @@
 {
-  "generated": "2026-05-05T09:55:44.803711+00:00",
-  "count": 8,
+  "generated": "2026-05-05T11:12:26.960231+00:00",
+  "count": 10,
   "news": [
+    {
+      "id": "a65caa1cdb30",
+      "title": "健康網》優格吃錯反而是負擔 醫教選擇3大原則避開地雷",
+      "published": "2026-05-05T10:03:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aaDRudUxjeXdfSDVERzI4TFl4N2N1Z04xTVVvLTZnMVZZT0pNQ3dLdmV0MlJwMkZJcnh1Z0RQT1NIVk5Qa3psQmpYemwzLW9kSDdUU25ZOG9uazhtWVdKOHFmdV_SAWpBVV95cUxNbUtFQ1lBTnEtcFFyazZGY25OVWZ5c1F0ZGhKMnRkVHAyb1dvNWNoUWtrTDY4MHdkYW1xanhpNjZ2T082R1ZfZmZsUDJ0djhiRGNaV1paOHNRa3dqeEJNOEN6Qll6VV9Ucmx3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "d12e58b0e887",
       "title": "曾被當沒用器官！研究指切除後死亡率較高 還與癌症風險相關",
@@ -1084,6 +1131,30 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "53710098138e",
+      "title": "睡一覺直接跨年！他感染腦膜炎陷昏迷3週 醒來崩潰：我以為我死了 | CTWANT - LINE TODAY",
+      "published": "2026-05-03T15:02:39+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11V3dVSTNteHRoT0FBN2o5a1RpVDZXNm0tVEFjN0ZkekdfOHd2Rm1nY0tKcWh4d2RnOWN5Tm9fWUxpemRRcS1aZzNjakFtSlpKZjgzVFJn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }

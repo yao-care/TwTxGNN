@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [健康網》優格吃錯反而是負擔 醫教選擇3大原則避開地雷](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aaDRudUxjeXdfSDVERzI4TFl4N2N1Z04xTVVvLTZnMVZZT0pNQ3dLdmV0MlJwMkZJcnh1Z0RQT1NIVk5Qa3psQmpYemwzLW9kSDdUU25ZOG9uazhtWVdKOHFmdV_SAWpBVV95cUxNbUtFQ1lBTnEtcFFyazZGY25OVWZ5c1F0ZGhKMnRkVHAyb1dvNWNoUWtrTDY4MHdkYW1xanhpNjZ2T082R1ZfZmZsUDJ0djhiRGNaV1paOHNRa3dqeEJNOEN6Qll6VV9Ucmx3?oc=5)
+
+2026-05-05 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aaDRudUxjeXdfSDVERzI4TFl4N2N1Z04xTVVvLTZnMVZZT0pNQ3dLdmV0MlJwMkZJcnh1Z0RQT1NIVk5Qa3psQmpYemwzLW9kSDdUU25ZOG9uazhtWVdKOHFmdV_SAWpBVV95cUxNbUtFQ1lBTnEtcFFyazZGY25OVWZ5c1F0ZGhKMnRkVHAyb1dvNWNoUWtrTDY4MHdkYW1xanhpNjZ2T082R1ZfZmZsUDJ0djhiRGNaV1paOHNRa3dqeEJNOEN6Qll6VV9Ucmx3?oc=5)
+
+---
 
 ### [曾被當沒用器官！研究指切除後死亡率較高 還與癌症風險相關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zVGMzbE9ZNXpBWUIxTGtkaGVmOHRGRGtjazdWZ2Z0MEpnMXZuT2xBamMwMVQyUlNydUVra2lYRW1MS19WUWk3REdRcmVrUURKVVBvRFRNa3VoUFVoU3VCZlpna2fSAWpBVV95cUxOT0tUUU9Yc25ROEQwdkVlX3J6NXBlTGdEOGdaalQ3UjgyVmpGN0RMeExfR0U2aUItcXpYVGRJNFVVM2JCNmVvQ0lLR1lnQ3I1MVJiTWVUNEk0R1l2cmlRdGo2OXctWFJpRXN3?oc=5)
 

@@ -1,8 +1,56 @@
 {
-  "last_updated": "2026-05-05T09:55:44.772840+00:00",
-  "total_count": 25,
-  "matched_count": 8,
+  "last_updated": "2026-05-05T11:12:26.924513+00:00",
+  "total_count": 26,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "a65caa1cdb30",
+      "title": "健康網》優格吃錯反而是負擔 醫教選擇3大原則避開地雷",
+      "published": "2026-05-05T10:03:00+00:00",
+      "summary": "健康網》優格吃錯反而是負擔 醫教選擇3大原則避開地雷&nbsp;&nbsp;自由健康網每天吃優格會如何? 營養師解答3 大好處&nbsp;&nbsp;MSN蔬果吃夠就不會大腸癌？營養師點名「這1神隊友」：每週吃2次降風險&nbsp;&nbsp;三立新聞網SETN.com選對優格防腸癌 13萬人研究曝關鍵益菌：每周吃2次&nbsp;&nbsp;中時新聞網吃優格防大腸癌！每週至少吃2次 營養師教「選這種」最有效&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aaDRudUxjeXdfSDVERzI4TFl4N2N1Z04xTVVvLTZnMVZZT0pNQ3dLdmV0MlJwMkZJcnh1Z0RQT1NIVk5Qa3psQmpYemwzLW9kSDdUU25ZOG9uazhtWVdKOHFmdV_SAWpBVV95cUxNbUtFQ1lBTnEtcFFyazZGY25OVWZ5c1F0ZGhKMnRkVHAyb1dvNWNoUWtrTDY4MHdkYW1xanhpNjZ2T082R1ZfZmZsUDJ0djhiRGNaV1paOHNRa3dqeEJNOEN6Qll6VV9Ucmx3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "d12e58b0e887",
       "title": "曾被當沒用器官！研究指切除後死亡率較高 還與癌症風險相關",
@@ -213,6 +261,32 @@
       ]
     },
     {
+      "id": "5b2dfa6bfe5f",
+      "title": "婦女4種癌不容小覷！醫曝預防三大關鍵　分享早期發現新方法",
+      "published": "2026-05-05T04:59:00+00:00",
+      "summary": "婦女4種癌不容小覷！醫曝預防三大關鍵 分享早期發現新方法&nbsp;&nbsp;ETtoday新聞雲",
+      "sources": [
+        {
+          "name": "ETtoday新聞雲",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80UDNwekxhVldtN0FXNm5lRWhkdU1YZG9wMnY3LXZycXM3UlJPWlhjXzNJS3RuTXFNZXJINlNUM0FHdkdVOWtXQUs0bHpncFR6UmFad3NoU0hmRVF4dnfSAWhBVV95cUxPY3VOaVJ2MHRCQ1d0TFBsVFdHbFJjS0tacUxuc01uSHluVERDOS1zRGNFNjhSQ1F2c2R2NmplNFVYVm8wNjRaZXB3dkZVeExYVm5UNkt2OEZKZ21IQm1HVEwyQWdhS1Nacg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7835b3d198e9",
+      "title": "露營男手掌爆長紅斑！「不痛不癢拖1個月」問AI嚇傻衝醫院確診梅毒",
+      "published": "2026-05-05T04:27:30+00:00",
+      "summary": "露營男手掌爆長紅斑！「不痛不癢拖1個月」問AI嚇傻衝醫院確診梅毒&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPU1NKWk9VZHhLYkFfbEEtTDN1QkZ4Qm1aeHUtT3hBMFFLejdJUk10Z3RuUUVWa2tPaHhzUmtvMmpBX2tUNmIzRVRGSVU4NnZXRGZFazdUMkRIOUN3dmUxU2pta3FvaHMtUHVXVzh6aEUxQ1pZQzRXQU12TS16Uk5SWUI1cnRicWNzTEpPOVdtSWRZRUhiRHF3MVNwNnExLUdfWmJ3Mm1fWkNZQ2dVaUhVc0JoRXZnYnRWcGRUcFZpUHhPdjc5MUx0MjE4NXFyamluSjEzeTJ4LXhTYTdJQm1URW9ETWJXM2pxNTc3NFVFSlBnV3ZnMkJ4TjNsR1J5QkxQUVBZTm9EVFZLRmdvYjhzeGxkeHd1MERuOERWZmdmRFhKOFFHSktjLUkxSnFxRTkwdmNkZkxSTlgzczN6SWdUSm5XT1NRQ3pJVmRVcmVyd1dIc0llOFhzOTd3T3VJbDM2SUZEcXZ2cEVEZWFGTE5udGgtSlJyUVIxYkdGZ29GQ2Z0RjdydjhWTk5wd3ZJYW55TVE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "14a0d95ebde9",
       "title": "不是喝酒、不是熬夜！英國倫敦帝國學院證實：每週做「這件小事」早死風險飆3倍！ - Harper's BAZAAR",
       "published": "2026-05-05T03:58:27+00:00",
@@ -252,19 +326,6 @@
       "matched_keywords": []
     },
     {
-      "id": "d3252c93e896",
-      "title": "要愛不要癌 花蓮慈院公開「預防婦癌三大關鍵」",
-      "published": "2026-05-05T02:35:00+00:00",
-      "summary": "要愛不要癌 花蓮慈院公開「預防婦癌三大關鍵」&nbsp;&nbsp;TCnews慈善新聞網",
-      "sources": [
-        {
-          "name": "TCnews慈善新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRVHJfbVA3MnhrYW1laWhDcS1KV3V1ckxDWXdjWlNBYktzbXRDeTlRUk0tVTBpUTRSQ1dYeEpHb3l6QzRHV3ZXaGJjcVZ6RG9RdFJvZk1DTjFsZUtzWlZ3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "2531a9f46cfc",
       "title": "心理健康|每日為揀三餐感選擇困難 小心被「決策疲勞」榨乾意志力",
       "published": "2026-05-05T01:00:57+00:00",
@@ -273,19 +334,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxOMFgta3JCOWdMV0RIYmJpNnFIV2k4cE9vR0pTTW05enJZUld2YUxiTU9RTlJEaWhZMjkxZGQxOXVvY1lHSGdtQ0QyM2ljNmJOU1Q3dGtiNjJqYndFMWxZY05STHNSX2xTNlk2cUdYN0F1MW1VN1JsemROR19IZlpvcEo1SW5LR05NZ1pMbWk3d0VwaVdKMXlTaFlEbjRQdTE1WlprY1o4aHZjajlpay1UN05CRmM5UFF1ZU1fWWU0UUg5VGg4LUxtNkpYbVB1SENUdmdNaUp3Z0ZuQ1R1TnJpYWZGc1ZWVU9BN1FkeDB6UVJ2MzY0MzVpcl9IUHZaRlpFcV96X1AxYlZDNzBsa0trRmRzSkJtLW9CaHFYUVRhQ3F2RGFpTGx1b0M5emJiRHV6dnNCZG9yWXI1Ul8yNzh1bF82ay1BNDJOZDdFMUNMblRSQXlSbzI0cUlkZnZkV3BoZEVCa0MzamRCMEQxTENQaFpTSThhdzBwa29Vd0dEdDRNY1RDNWtLMFNTU0dZbzRmNGoxOTBvcWZkcjF3NkNWV1lIZzVUb2JNemtscQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4295415c5fe2",
-      "title": "露營完手掌「炸詭異紅斑」竟確診梅毒！ - 鏡週刊Mirror Media",
-      "published": "2026-05-05T01:00:00+00:00",
-      "summary": "露營完手掌「炸詭異紅斑」竟確診梅毒！&nbsp;&nbsp;鏡週刊Mirror Media手掌紅斑以為被咬！年輕男拖1個月 一驗竟是梅毒&nbsp;&nbsp;Yahoo新聞健康網》露營後手掌冒紅斑 拖1個月當蟲咬 抽血一驗竟染梅毒&nbsp;&nbsp;自由健康網露營男手掌爆長紅斑！「不痛不癢拖1個月」問AI嚇傻衝醫院確診梅毒&nbsp;&nbsp;三立新聞網SETN.com露營惹性病？男手掌生紅斑以為蟲咬 醫揭竟染二期梅毒附3大特徵&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11ODgxZ2RiTURUcktSLVc1V3VETG5BTEFGUEZCM0ZEU2tNQndDVHdURjRPclJUSEpBUEpsQldUVnphdDBGQVBNc0ZLYXlZaHZDYmxCN0RKYWdza2x10gFiQVVfeXFMT3ZmMmFTb1RfRU9GemEzRU9QUzZ6U3paQVRjV0V2cndpNno4dTByVkhwS3lrUk5QdVF2U2YtUlQ4OEtubkltVWFmMWlpRHZCQzcxVXVVd0tfbG5DbTV1ZlF4ZVE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -406,13 +454,13 @@
       ]
     },
     {
-      "id": "6133958d5601",
+      "id": "bb3cf6bf38e0",
       "title": "春天踏青好時節？ 先留意三項隱形風險",
       "published": "2026-05-04T12:00:00+00:00",
-      "summary": "春天踏青好時節？ 先留意三項隱形風險&nbsp;&nbsp;bastillepost.com",
+      "summary": "春天踏青好時節？ 先留意三項隱形風險&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxORTRaUEliV04ySGk4d2k4dUpUTGhQWExYLXdvUEp5dlBFQzRZeFp5cnZGRlQzVnFlZ20zRjdqOEtxMlVNbTNlSzlnNmFJNlk2ZTdqNFZKbVNfUUxQNUZINlZ5clJOWWI2VVZ4NkdMSjh3STA4OXdTSzdBWnBUY0I4U2VMdWJKLVdacFlBelZ6ZjN6YkhjZFZnUTBwaEFaUDkwVmFmQ1ZTdWp6M3F3QTZDTWwxd3pwMjA0RVI0eGVBMTQ4ZTJaMGh5Zk9EY1lGYzhqNDdJOUNCSGdQWmhlUmZ5RV9PVVNnald2Tk1PTGdwcXVLN3V2bF9CNXBpUU55TmFIaGxwMmpiRUZ4UVFEV1Q4bVdSTXE0VUwxY0JhX091VkJoeGdieVpkYXZHeTg1X2k0NWc?oc=5"
         }
       ],
@@ -1218,19 +1266,6 @@
       "matched_keywords": []
     },
     {
-      "id": "817da559d237",
-      "title": "耳痛陷昏迷 作家睡一覺竟「穿越」到隔年 醒來崩潰：我死了？",
-      "published": "2026-05-04T04:10:42+00:00",
-      "summary": "耳痛陷昏迷 作家睡一覺竟「穿越」到隔年 醒來崩潰：我死了？&nbsp;&nbsp;世界新聞網前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82TVFnQ05tRWFhOTRnY3BLVk9hTG9BVmVaa1hNbkF3VW5pb3Q4b1NXcGFvdUs5M0F3NzFCLU5xMlFwWTdJLWJsSTVNV1h2a2M2YWViSmFzQUdPYkNtUU10R1l30gFnQVVfeXFMTXRRQzJTaks5ck5SNlNMY1BiOElsNDFlR015T1F1OExzOHY1TUc0eEVrRHpRa3ctNWJ5T2IzRURTSVdnTWU2YUVvSEJqUEtNRTE4dndLamNfWm5KT1JTTGFRR2JLallxaw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "b1513e5e48da",
       "title": "別再以為「站著辦公」就健康！追蹤1.4萬人研究：救命關鍵不在姿勢，而是每天多這5分鐘",
       "published": "2026-05-04T01:20:00+00:00",
@@ -1305,6 +1340,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "53710098138e",
+      "title": "睡一覺直接跨年！他感染腦膜炎陷昏迷3週 醒來崩潰：我以為我死了 | CTWANT - LINE TODAY",
+      "published": "2026-05-03T15:02:39+00:00",
+      "summary": "睡一覺直接跨年！他感染腦膜炎陷昏迷3週 醒來崩潰：我以為我死了 | CTWANT&nbsp;&nbsp;LINE TODAY健康網》耳感染21天醒來要跨年了！ 英國作家險死於腦膜炎 醫列6招預防&nbsp;&nbsp;自由健康網耳痛陷昏迷 作家睡一覺竟「穿越」到隔年 醒來崩潰：我死了？&nbsp;&nbsp;世界新聞網耳痛以為感冒！他睡一覺竟「穿越到隔年」 醫宣判剩24小時生命...醒來崩潰了&nbsp;&nbsp;鏡新聞耳痛後昏迷21日 英作家患腦膜炎奇蹟甦醒驚覺「時間消失」 已是新一年&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11V3dVSTNteHRoT0FBN2o5a1RpVDZXNm0tVEFjN0ZkekdfOHd2Rm1nY0tKcWh4d2RnOWN5Tm9fWUxpemRRcS1aZzNjakFtSlpKZjgzVFJn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "7f591cb2bd73",
