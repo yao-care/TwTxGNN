@@ -1,8 +1,217 @@
 {
-  "last_updated": "2026-05-05T05:34:07.918190+00:00",
-  "total_count": 29,
+  "last_updated": "2026-05-05T07:55:46.897776+00:00",
+  "total_count": 28,
   "matched_count": 9,
   "news": [
+    {
+      "id": "d12e58b0e887",
+      "title": "曾被當沒用器官！研究指切除後死亡率較高 還與癌症風險相關",
+      "published": "2026-05-05T07:00:00+00:00",
+      "summary": "曾被當沒用器官！研究指切除後死亡率較高 還與癌症風險相關&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zVGMzbE9ZNXpBWUIxTGtkaGVmOHRGRGtjazdWZ2Z0MEpnMXZuT2xBamMwMVQyUlNydUVra2lYRW1MS19WUWk3REdRcmVrUURKVVBvRFRNa3VoUFVoU3VCZlpna2fSAWpBVV95cUxOT0tUUU9Yc25ROEQwdkVlX3J6NXBlTGdEOGdaalQ3UjgyVmpGN0RMeExfR0U2aUItcXpYVGRJNFVVM2JCNmVvQ0lLR1lnQ3I1MVJiTWVUNEk0R1l2cmlRdGo2OXctWFJpRXN3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "14a0d95ebde9",
       "title": "不是喝酒、不是熬夜！英國倫敦帝國學院證實：每週做「這件小事」早死風險飆3倍！ - Harper's BAZAAR",
@@ -72,7 +281,7 @@
       "id": "2d2e20e4858f",
       "title": "露營男手掌爆長紅斑！「不痛不癢拖1個月」問AI嚇傻衝醫院確診梅毒",
       "published": "2026-05-05T01:01:53+00:00",
-      "summary": "露營男手掌爆長紅斑！「不痛不癢拖1個月」問AI嚇傻衝醫院確診梅毒&nbsp;&nbsp;三立新聞網SETN.com露營惹性病？男手掌生紅斑以為蟲咬 醫揭竟染二期梅毒附3大特徵&nbsp;&nbsp;UHK 港生活【年輕人露營回來「手掌紅斑狂冒」驗出梅毒！醫籲別拖：從床上來的】 （圖／蘇信豪醫師授權提供） 就說要戴套。(#起啵)&nbsp;&nbsp;facebook.com他去露營後手掌狂長紅斑！醫一看：是「梅毒」&nbsp;&nbsp;蕃新聞露營完「手掌爆紅斑」狂擦藥沒用 一驗竟是梅毒！醫揭關鍵原因&nbsp;&nbsp;壹蘋新聞網",
+      "summary": "露營男手掌爆長紅斑！「不痛不癢拖1個月」問AI嚇傻衝醫院確診梅毒&nbsp;&nbsp;三立新聞網SETN.com健康網》露營後手掌冒紅斑 拖1個月當蟲咬 抽血一驗竟染梅毒&nbsp;&nbsp;自由健康網露營惹性病？男手掌生紅斑以為蟲咬 醫揭竟染二期梅毒附3大特徵&nbsp;&nbsp;UHK 港生活【年輕人露營回來「手掌紅斑狂冒」驗出梅毒！醫籲別拖：從床上來的】 （圖／蘇信豪醫師授權提供） 就說要戴套。(#起啵)&nbsp;&nbsp;facebook.com他去露營後手掌狂長紅斑！醫一看：是「梅毒」&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
           "name": "三立新聞網SETN.com",
@@ -93,31 +302,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "e8a9b5670e1b",
-      "title": "世界氣喘日提醒：別忽略呼吸道病毒！成人RSV可能讓氣喘突然惡化- 健康",
-      "published": "2026-05-05T01:00:30+00:00",
-      "summary": "世界氣喘日提醒：別忽略呼吸道病毒！成人RSV可能讓氣喘突然惡化- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OU1p1dW4zRUN1SlFJOWg5aF9PdWpRN0JYN3lkNElUS2JDcVFyQ09kX1l3RWs0WXVWYkdvSmFnNlY1a3dZMEtlb3ZJQWpwQ2hPRGR3VzVoY0cwc2FoLU5tclVCTjBXSHJKYm9DMnRn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "氣喘",
-          "keyword": "氣喘",
-          "related_drugs": [
-            {
-              "slug": "dupilumab",
-              "name": "Dupilumab"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "6fd7a0bce983",
@@ -202,6 +386,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "02e5df5f102e",
+      "title": "“為全球公共衛生應急管理貢獻更多中國力量”（新時代中非合作） --新聞報道-中國共產黨新聞網",
+      "published": "2026-05-05T00:13:00+00:00",
+      "summary": "“為全球公共衛生應急管理貢獻更多中國力量”（新時代中非合作） --新聞報道-中國共產黨新聞網&nbsp;&nbsp;中国共产党新闻网",
+      "sources": [
+        {
+          "name": "中国共产党新闻网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mSEJHQ0E5ZWhabjBWcFowdjU5N3JFd0pfMWpZWDh4TlZDT0hWTktpUDZkRm9aOTlQeWZ6aHdpQy1Bb3N6TUVJMTZFb1A1R3FzUXhaLWNoVXZQaWJDUXgycGVlUHF5UG5GTGtLT3BMbzU?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "1968336b1730",
@@ -418,27 +615,14 @@
       "matched_keywords": []
     },
     {
-      "id": "cf6c3876f8ab",
+      "id": "f0095977025f",
       "title": "40歲以後每週做愛達到「這次數」外表年輕7歲！",
       "published": "2026-05-04T09:38:00+00:00",
-      "summary": "40歲以後每週做愛達到「這次數」外表年輕7歲！&nbsp;&nbsp;news.ebc.net.tw",
+      "summary": "40歲以後每週做愛達到「這次數」外表年輕7歲！&nbsp;&nbsp;東森新聞",
       "sources": [
         {
-          "name": "news.ebc.net.tw",
+          "name": "東森新聞",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOS0xZcHBLMV83VnFfYUVmMTdjSkVjRVBCZmxnN1VfRGp1Ni1sR19OX0t4dkY0TnJRdnhRenpMN21xU2dFcjYtb1RuZ05xYUlkR2FSOA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1c8b019a6bfe",
-      "title": "「44歲、60歲｣竟是斷崖式衰老關鍵期！脂肪易堆積、免疫力下降，專家揭示如何避免",
-      "published": "2026-05-04T08:43:18+00:00",
-      "summary": "「44歲、60歲｣竟是斷崖式衰老關鍵期！脂肪易堆積、免疫力下降，專家揭示如何避免&nbsp;&nbsp;ELLE",
-      "sources": [
-        {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKdTNELXpFUFpPZHNkb1V3THZzd205V2VXSzJwM2pYMWtiZUluX241TUlNM2FjX0dyZDlqVm9xUkJRcVI4WnR2LWhlZS15eDljZzlCRTN0YzM3WHUyNHloNkttcEJ0S3RreDFSdnVIWnJHOHVNRGtaZC0zM2dfdw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1228,19 +1412,6 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMRjJCZXlOaWJCcC1rd3hwTkFGb1hBQnNPTENUX0lvZXZwak5NTmpkUWpVUngwQk1DQlRDN1pZOUpLME1ybHZxTFJ4aG04cHRTc1dRdnZqdUFocHJXNUZEUlNsYkVEdFgwWU5fRldB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "203303209bb1",
-      "title": "加州多縣梅毒病例飆升 弗雷斯諾縣發病率居高不下",
-      "published": "2026-05-03T05:08:23+00:00",
-      "summary": "加州多縣梅毒病例飆升 弗雷斯諾縣發病率居高不下&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOelVEaS1faVlldDlKX052QzBLV1JwUEt0aDJaRE1BYXBqbG92dzJDaXFicExKWDFMc3JxVGt6M2JKeUg1OC1uSFhJdGU5Q3ZFN3JTTDEtWllIeUp5MnloNlM1dUlTWDNvbjdOekhrcE9EVVRNWjh5TkIxaXVkSUZfTDdDeXNCNnFVX2hTd1BWZVBVQ3QwTDRFcFlpU0JTN2JUY21JWU9QbkFiWHpoNUpFZkF2Yw?oc=5"
         }
       ],
       "matched_keywords": []

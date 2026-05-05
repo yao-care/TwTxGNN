@@ -14,7 +14,7 @@ permalink: /news/bempedoic_acid/
 ---
 
 <p class="key-answer" data-question="Bempedoic acid 有什麼相關新聞？">
-<strong>Bempedoic acid</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bempedoic acid</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/bempedoic_acid/
 <p><a href="{{ '/drugs/bempedoic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [曾被當沒用器官！研究指切除後死亡率較高 還與癌症風險相關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zVGMzbE9ZNXpBWUIxTGtkaGVmOHRGRGtjazdWZ2Z0MEpnMXZuT2xBamMwMVQyUlNydUVra2lYRW1MS19WUWk3REdRcmVrUURKVVBvRFRNa3VoUFVoU3VCZlpna2fSAWpBVV95cUxOT0tUUU9Yc25ROEQwdkVlX3J6NXBlTGdEOGdaalQ3UjgyVmpGN0RMeExfR0U2aUItcXpYVGRJNFVVM2JCNmVvQ0lLR1lnQ3I1MVJiTWVUNEk0R1l2cmlRdGo2OXctWFJpRXN3?oc=5)
+
+2026-05-05 <span class="news-indication-tag">癌症</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zVGMzbE9ZNXpBWUIxTGtkaGVmOHRGRGtjazdWZ2Z0MEpnMXZuT2xBamMwMVQyUlNydUVra2lYRW1MS19WUWk3REdRcmVrUURKVVBvRFRNa3VoUFVoU3VCZlpna2fSAWpBVV95cUxOT0tUUU9Yc25ROEQwdkVlX3J6NXBlTGdEOGdaalQ3UjgyVmpGN0RMeExfR0U2aUItcXpYVGRJNFVVM2JCNmVvQ0lLR1lnQ3I1MVJiTWVUNEk0R1l2cmlRdGo2OXctWFJpRXN3?oc=5)
+
+---
 
 ### [米爾肯研究院報告：癌症防治投資不足 預防與早期診斷效益高](https://news.google.com/rss/articles/CBMizAJBVV95cUxQeVp2OTUzNTh2VVVSZnJwb2pfLXI3V05sVzNvVTM0LTdNRmFHMVNnOU5hQ1RvUmhKNWhBbmxDeHR1bHd3dzhCcnZZanJlc2F1aXB5SElHRUZDdUNrbEs0QkVOQWwyWFNwWlZlbVhjX1RWbFNlaEhvZl9hc25XeWxzOHJCdzJIcUN0VUZZSlJ4VlJ6NWEtaEdNZzEweWFQUjFuRmZQLXhISEZweVB3Vm5uVWV4cGlLanVKWjh6MjhqWXV3M2d1bGdqRjROZmFxZnZlTDdOeFlyMjQzeldaWVZRY1hnT3ZTMTlrTnZsbmJaTXpqR0JKZm5YSWJrYjBxTk15bUcyMHhJbnFTZUdreHB6T04yQ1BGeG5kcmt6WkhLc1J4TnZWcExObmM1Ty1LVHhvS2loVS1LbzczVzV6Q3FrSFhVS1VrUG9aY25BVA?oc=5)
 
