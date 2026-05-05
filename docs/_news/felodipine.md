@@ -14,7 +14,7 @@ permalink: /news/felodipine/
 ---
 
 <p class="key-answer" data-question="Felodipine 有什麼相關新聞？">
-<strong>Felodipine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Felodipine</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,13 +38,21 @@ permalink: /news/felodipine/
 <p><a href="{{ '/drugs/felodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [曾被當沒用器官！研究指切除後死亡率較高 還與癌症風險相關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zVGMzbE9ZNXpBWUIxTGtkaGVmOHRGRGtjazdWZ2Z0MEpnMXZuT2xBamMwMVQyUlNydUVra2lYRW1MS19WUWk3REdRcmVrUURKVVBvRFRNa3VoUFVoU3VCZlpna2fSAWpBVV95cUxOT0tUUU9Yc25ROEQwdkVlX3J6NXBlTGdEOGdaalQ3UjgyVmpGN0RMeExfR0U2aUItcXpYVGRJNFVVM2JCNmVvQ0lLR1lnQ3I1MVJiTWVUNEk0R1l2cmlRdGo2OXctWFJpRXN3?oc=5)
 
 2026-05-05 <span class="news-indication-tag">癌症</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zVGMzbE9ZNXpBWUIxTGtkaGVmOHRGRGtjazdWZ2Z0MEpnMXZuT2xBamMwMVQyUlNydUVra2lYRW1MS19WUWk3REdRcmVrUURKVVBvRFRNa3VoUFVoU3VCZlpna2fSAWpBVV95cUxOT0tUUU9Yc25ROEQwdkVlX3J6NXBlTGdEOGdaalQ3UjgyVmpGN0RMeExfR0U2aUItcXpYVGRJNFVVM2JCNmVvQ0lLR1lnQ3I1MVJiTWVUNEk0R1l2cmlRdGo2OXctWFJpRXN3?oc=5)
+
+---
+
+### [不菸不酒也可能罹癌？牙周病壞菌竟能「跨器官」刺激腫瘤生長：刷牙不只防癌，可能比你想得更保命](https://news.google.com/rss/articles/CBMie0FVX3lxTE5uQUc0N3RoM21nZWh5VFRUZU95OXUxaW13TzZpcV9FSVFHb1p3MUhnS1M2MlVGTWlwVUhjMGU5bGRjMlZaajlfQXdGWW9DTnRadlVhUjFsN2FHSDdoV2oxT2g5WXpiWTNxeXVnSVBlU2p0dVpTaVgwNjZfNA?oc=5)
+
+2026-05-05 <span class="news-indication-tag">腫瘤</span>
+
+來源：[幸福熟齡](https://news.google.com/rss/articles/CBMie0FVX3lxTE5uQUc0N3RoM21nZWh5VFRUZU95OXUxaW13TzZpcV9FSVFHb1p3MUhnS1M2MlVGTWlwVUhjMGU5bGRjMlZaajlfQXdGWW9DTnRadlVhUjFsN2FHSDdoV2oxT2g5WXpiWTNxeXVnSVBlU2p0dVpTaVgwNjZfNA?oc=5)
 
 ---
 
