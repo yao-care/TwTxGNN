@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-05T13:16:42.789612+00:00",
-  "count": 10,
+  "generated": "2026-05-05T15:30:05.263254+00:00",
+  "count": 9,
   "news": [
     {
       "id": "a65caa1cdb30",
@@ -1131,30 +1131,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "53710098138e",
-      "title": "睡一覺直接跨年！他感染腦膜炎陷昏迷3週 醒來崩潰：我以為我死了 | CTWANT - LINE TODAY",
-      "published": "2026-05-03T15:02:39+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11V3dVSTNteHRoT0FBN2o5a1RpVDZXNm0tVEFjN0ZkekdfOHd2Rm1nY0tKcWh4d2RnOWN5Tm9fWUxpemRRcS1aZzNjakFtSlpKZjgzVFJn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }

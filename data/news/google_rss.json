@@ -1,13 +1,25 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-05T13:16:40.015159+00:00",
-  "count": 26,
+  "fetched_at": "2026-05-05T15:30:01.641350+00:00",
+  "count": 25,
   "news": [
+    {
+      "id": "525a709eaaf6",
+      "title": "健康網》露營後手掌冒紅斑 拖1個月當蟲咬 抽血一驗竟染梅毒 - 自由健康網",
+      "published": "2026-05-05T07:40:00+00:00",
+      "summary": "健康網》露營後手掌冒紅斑 拖1個月當蟲咬 抽血一驗竟染梅毒&nbsp;&nbsp;自由健康網露營男手掌爆長紅斑！「不痛不癢拖1個月」問AI嚇傻衝醫院確診梅毒&nbsp;&nbsp;三立新聞網SETN.com露營惹性病？男手掌生紅斑以為蟲咬 醫揭竟染二期梅毒附3大特徵&nbsp;&nbsp;UHK 港生活【年輕人露營回來「手掌紅斑狂冒」驗出梅毒！醫籲別拖：從床上來的】 （圖／蘇信豪醫師授權提供） 就說要戴套。(#起啵)&nbsp;&nbsp;facebook.com他去露營後手掌狂長紅斑！醫一看：是「梅毒」&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PbzdPR05oUTRKUHFfQXhnUnoyVVdzUkpXZ0NjZG5qQS15WlpacWZzRnFXODJlUlVNMmd6RVRZLVVacExZSnVLcmRlNHJ6Q09yWm9mZEV5bVhFSGJ2ZUluRk9mdW_SAWpBVV95cUxPcXlXXy1PWjFvcGg1amE2dzZzQ3lpZFVOdWY5dzd0OUx5a2VwclFfRV9EcFUzcnIxbHp5RHlEZHlfcTk1Z0VaWHlGclVFNEtMV0xURmJxQ2w2a3B1WTZIMHBMVUx3ZXFUc3RB?oc=5"
+        }
+      ]
+    },
     {
       "id": "a65caa1cdb30",
       "title": "健康網》優格吃錯反而是負擔 醫教選擇3大原則避開地雷 - 自由健康網",
       "published": "2026-05-05T10:03:00+00:00",
-      "summary": "健康網》優格吃錯反而是負擔 醫教選擇3大原則避開地雷&nbsp;&nbsp;自由健康網每天吃優格會如何? 營養師解答3 大好處&nbsp;&nbsp;MSN蔬果吃夠就不會大腸癌？營養師點名「這1神隊友」：每週吃2次降風險&nbsp;&nbsp;祝你健康選對優格防腸癌 13萬人研究曝關鍵益菌：每周吃2次&nbsp;&nbsp;中時新聞網吃優格防大腸癌！每週至少吃2次 營養師教「選這種」最有效&nbsp;&nbsp;TVBS新聞網",
+      "summary": "健康網》優格吃錯反而是負擔 醫教選擇3大原則避開地雷&nbsp;&nbsp;自由健康網每天吃優格會如何? 營養師解答3 大好處&nbsp;&nbsp;MSN蔬果吃夠就不會大腸癌？營養師點名「這1神隊友」：每週吃2次降風險&nbsp;&nbsp;三立新聞網SETN.com選對優格防腸癌 13萬人研究曝關鍵益菌：每周吃2次&nbsp;&nbsp;中時新聞網吃優格防大腸癌！每週至少吃2次 營養師教「選這種」最有效&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
           "name": "自由健康網",
@@ -84,30 +96,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FSTJPcHRNNE96YlpPQ05nZjY5WG5HbEVRU3FpaUdIOXpmWkNCR0ZFemxQTlRQSDZRRlNZU1NWUXZrUUFibDBEM1NpVlNQSzRuSFJUanZyZzN6MTVGUzBLOWEyZnrSAWpBVV95cUxQajExN0FVamprMDZEZGFLcGlrTTk3TEJrQlRnS0htT2Q0LUM3M2I4WEQwVzg3R0ZGdUxkUGVJUXA3RWhqcnJxamJaM05tX2lOZF9adVFkRFFsaS1xb3lJS0JObElucDhCYlh3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7835b3d198e9",
-      "title": "露營男手掌爆長紅斑！「不痛不癢拖1個月」問AI嚇傻衝醫院確診梅毒 - Yahoo新聞",
-      "published": "2026-05-05T04:27:30+00:00",
-      "summary": "露營男手掌爆長紅斑！「不痛不癢拖1個月」問AI嚇傻衝醫院確診梅毒&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPU1NKWk9VZHhLYkFfbEEtTDN1QkZ4Qm1aeHUtT3hBMFFLejdJUk10Z3RuUUVWa2tPaHhzUmtvMmpBX2tUNmIzRVRGSVU4NnZXRGZFazdUMkRIOUN3dmUxU2pta3FvaHMtUHVXVzh6aEUxQ1pZQzRXQU12TS16Uk5SWUI1cnRicWNzTEpPOVdtSWRZRUhiRHF3MVNwNnExLUdfWmJ3Mm1fWkNZQ2dVaUhVc0JoRXZnYnRWcGRUcFZpUHhPdjc5MUx0MjE4NXFyamluSjEzeTJ4LXhTYTdJQm1URW9ETWJXM2pxNTc3NFVFSlBnV3ZnMkJ4TjNsR1J5QkxQUVBZTm9EVFZLRmdvYjhzeGxkeHd1MERuOERWZmdmRFhKOFFHSktjLUkxSnFxRTkwdmNkZkxSTlgzczN6SWdUSm5XT1NRQ3pJVmRVcmVyd1dIc0llOFhzOTd3T3VJbDM2SUZEcXZ2cEVEZWFGTE5udGgtSlJyUVIxYkdGZ29GQ2Z0RjdydjhWTk5wd3ZJYW55TVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "53710098138e",
-      "title": "睡一覺直接跨年！他感染腦膜炎陷昏迷3週 醒來崩潰：我以為我死了 | CTWANT - LINE TODAY",
-      "published": "2026-05-03T15:02:39+00:00",
-      "summary": "睡一覺直接跨年！他感染腦膜炎陷昏迷3週 醒來崩潰：我以為我死了 | CTWANT&nbsp;&nbsp;LINE TODAY健康網》耳感染21天醒來要跨年了！ 英國作家險死於腦膜炎 醫列6招預防&nbsp;&nbsp;自由健康網耳痛陷昏迷 作家睡一覺竟「穿越」到隔年 醒來崩潰：我死了？&nbsp;&nbsp;世界新聞網耳痛以為感冒！他睡一覺竟「穿越到隔年」 醫宣判剩24小時生命...醒來崩潰了&nbsp;&nbsp;鏡新聞耳痛後昏迷21日 英作家患腦膜炎奇蹟甦醒驚覺「時間消失」 已是新一年&nbsp;&nbsp;bastillepost.com",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11V3dVSTNteHRoT0FBN2o5a1RpVDZXNm0tVEFjN0ZkekdfOHd2Rm1nY0tKcWh4d2RnOWN5Tm9fWUxpemRRcS1aZzNjakFtSlpKZjgzVFJn?oc=5"
         }
       ]
     },
@@ -244,18 +232,6 @@
       ]
     },
     {
-      "id": "7f591cb2bd73",
-      "title": "兒癌終極挑戰 質子是首選 - 《現代保險》雜誌",
-      "published": "2026-04-30T03:21:44+00:00",
-      "summary": "兒癌終極挑戰 質子是首選&nbsp;&nbsp;《現代保險》雜誌",
-      "sources": [
-        {
-          "name": "《現代保險》雜誌",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Obk40c1d3S2tYNW5LNlJhYnN5SUQ4cU1hVktKaUcwQUhNNGFMUUFIWVJDWHZNTTY2ZHRzSmlCNEQ5OGZhVWVKQ2liQTliNXRSVl80?oc=5"
-        }
-      ]
-    },
-    {
       "id": "02e5df5f102e",
       "title": "“為全球公共衛生應急管理貢獻更多中國力量”（新時代中非合作） --新聞報道-中國共產黨新聞網 - 中国共产党新闻网",
       "published": "2026-05-05T00:13:00+00:00",
@@ -280,14 +256,14 @@
       ]
     },
     {
-      "id": "26c7593b8aae",
-      "title": "中大破研究｜BB腸道生態影響腦部發展、自閉症ADHD 剖腹產為關鍵 - 香港01",
-      "published": "2026-05-04T04:45:09+00:00",
-      "summary": "中大破研究｜BB腸道生態影響腦部發展、自閉症ADHD 剖腹產為關鍵&nbsp;&nbsp;香港01",
+      "id": "50b794e1ca0e",
+      "title": "🎙️想比別人多活9年？先做好這8件事 - 世界新聞網",
+      "published": "2026-05-05T13:35:00+00:00",
+      "summary": "🎙️想比別人多活9年？先做好這8件事&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQc1ZYSW55QVpLOXJtdjRBNWN1OEdQMG9oOVNLeEtyTWJWd0JtbGk5cTUyQnhYdU01R1VMdkVqZGlqUWU4bDFKMlkwVWRueVVuWmRDbUdKOGFHbjNHRVFDMW5SWVRjQWdYVnVWM0ZYYXFTVFBJT3BjaVZxYXpCR1Z4c2hhQUFwR0Z5cjhWcVpMMWlUY3RyOExFWHRQSVk5X0tScklJTHBDck9BZjM3ZXNfTi1waEN0UzRQM0xOYTZPbTVvekJtdW1hTkhwVG1XWFBTNlRvUExzeGx3dVg5STAxNGNaSDdBTUhqbVpYWmZPNFVDQko3cjNzYkFnTEFza1FCbXZvRmpPMW1SNkpMeVZsUHJEbnE4NkVYZHg2Slc0dXNrUUkyeXgxYUtxSTVPTG02eVdfczZaWFBPVTVmVXR2dGZKZjQ1dm9VTl9USkRXdmdYUldPRW15bVZQeTlZVllSN0tlem1mRWtzVGZFWEZ3dEZLRmJORk1SbmpidGZpX3BONkZKNEdRSG5R?oc=5"
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ialY5WldmRnZPV1EwTWtSd2h5cHZsQmNXUDBTWTUyN3hRNHhES3ZCN25Ma3ExTEE5NnpfVWNPaGF6d3dKUHVYV1IwMzJfYkxKaUZaQkJ1RE1XR3dOMGVlTmZn0gFnQVVfeXFMTVBla2NtRVZndDhwZkVUamtzZkp6bzUyTTAtNzQ4RnhKNC1zdDV6UnREMGFXR0YyTTdNalJ1WE5zcHBHUV9WMUtha1J4bVdqeVJudGJrQ3I3dXBLb3hpRmotajJ1dTAtaw?oc=5"
         }
       ]
     },
@@ -300,6 +276,18 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxOMFgta3JCOWdMV0RIYmJpNnFIV2k4cE9vR0pTTW05enJZUld2YUxiTU9RTlJEaWhZMjkxZGQxOXVvY1lHSGdtQ0QyM2ljNmJOU1Q3dGtiNjJqYndFMWxZY05STHNSX2xTNlk2cUdYN0F1MW1VN1JsemROR19IZlpvcEo1SW5LR05NZ1pMbWk3d0VwaVdKMXlTaFlEbjRQdTE1WlprY1o4aHZjajlpay1UN05CRmM5UFF1ZU1fWWU0UUg5VGg4LUxtNkpYbVB1SENUdmdNaUp3Z0ZuQ1R1TnJpYWZGc1ZWVU9BN1FkeDB6UVJ2MzY0MzVpcl9IUHZaRlpFcV96X1AxYlZDNzBsa0trRmRzSkJtLW9CaHFYUVRhQ3F2RGFpTGx1b0M5emJiRHV6dnNCZG9yWXI1Ul8yNzh1bF82ay1BNDJOZDdFMUNMblRSQXlSbzI0cUlkZnZkV3BoZEVCa0MzamRCMEQxTENQaFpTSThhdzBwa29Vd0dEdDRNY1RDNWtLMFNTU0dZbzRmNGoxOTBvcWZkcjF3NkNWV1lIZzVUb2JNemtscQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "26c7593b8aae",
+      "title": "中大破研究｜BB腸道生態影響腦部發展、自閉症ADHD 剖腹產為關鍵 - 香港01",
+      "published": "2026-05-04T04:45:09+00:00",
+      "summary": "中大破研究｜BB腸道生態影響腦部發展、自閉症ADHD 剖腹產為關鍵&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQc1ZYSW55QVpLOXJtdjRBNWN1OEdQMG9oOVNLeEtyTWJWd0JtbGk5cTUyQnhYdU01R1VMdkVqZGlqUWU4bDFKMlkwVWRueVVuWmRDbUdKOGFHbjNHRVFDMW5SWVRjQWdYVnVWM0ZYYXFTVFBJT3BjaVZxYXpCR1Z4c2hhQUFwR0Z5cjhWcVpMMWlUY3RyOExFWHRQSVk5X0tScklJTHBDck9BZjM3ZXNfTi1waEN0UzRQM0xOYTZPbTVvekJtdW1hTkhwVG1XWFBTNlRvUExzeGx3dVg5STAxNGNaSDdBTUhqbVpYWmZPNFVDQko3cjNzYkFnTEFza1FCbXZvRmpPMW1SNkpMeVZsUHJEbnE4NkVYZHg2Slc0dXNrUUkyeXgxYUtxSTVPTG02eVdfczZaWFBPVTVmVXR2dGZKZjQ1dm9VTl9USkRXdmdYUldPRW15bVZQeTlZVllSN0tlem1mRWtzVGZFWEZ3dEZLRmJORk1SbmpidGZpX3BONkZKNEdRSG5R?oc=5"
         }
       ]
     },

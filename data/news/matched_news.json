@@ -1,13 +1,26 @@
 {
-  "last_updated": "2026-05-05T13:16:42.754738+00:00",
-  "total_count": 26,
-  "matched_count": 10,
+  "last_updated": "2026-05-05T15:30:05.231596+00:00",
+  "total_count": 25,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "50b794e1ca0e",
+      "title": "🎙️想比別人多活9年？先做好這8件事",
+      "published": "2026-05-05T13:35:00+00:00",
+      "summary": "🎙️想比別人多活9年？先做好這8件事&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ialY5WldmRnZPV1EwTWtSd2h5cHZsQmNXUDBTWTUyN3hRNHhES3ZCN25Ma3ExTEE5NnpfVWNPaGF6d3dKUHVYV1IwMzJfYkxKaUZaQkJ1RE1XR3dOMGVlTmZn0gFnQVVfeXFMTVBla2NtRVZndDhwZkVUamtzZkp6bzUyTTAtNzQ4RnhKNC1zdDV6UnREMGFXR0YyTTdNalJ1WE5zcHBHUV9WMUtha1J4bVdqeVJudGJrQ3I3dXBLb3hpRmotajJ1dTAtaw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "a65caa1cdb30",
       "title": "健康網》優格吃錯反而是負擔 醫教選擇3大原則避開地雷",
       "published": "2026-05-05T10:03:00+00:00",
-      "summary": "健康網》優格吃錯反而是負擔 醫教選擇3大原則避開地雷&nbsp;&nbsp;自由健康網每天吃優格會如何? 營養師解答3 大好處&nbsp;&nbsp;MSN蔬果吃夠就不會大腸癌？營養師點名「這1神隊友」：每週吃2次降風險&nbsp;&nbsp;祝你健康選對優格防腸癌 13萬人研究曝關鍵益菌：每周吃2次&nbsp;&nbsp;中時新聞網吃優格防大腸癌！每週至少吃2次 營養師教「選這種」最有效&nbsp;&nbsp;TVBS新聞網",
+      "summary": "健康網》優格吃錯反而是負擔 醫教選擇3大原則避開地雷&nbsp;&nbsp;自由健康網每天吃優格會如何? 營養師解答3 大好處&nbsp;&nbsp;MSN蔬果吃夠就不會大腸癌？營養師點名「這1神隊友」：每週吃2次降風險&nbsp;&nbsp;三立新聞網SETN.com選對優格防腸癌 13萬人研究曝關鍵益菌：每周吃2次&nbsp;&nbsp;中時新聞網吃優格防大腸癌！每週至少吃2次 營養師教「選這種」最有效&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
           "name": "自由健康網",
@@ -50,6 +63,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "525a709eaaf6",
+      "title": "健康網》露營後手掌冒紅斑 拖1個月當蟲咬 抽血一驗竟染梅毒",
+      "published": "2026-05-05T07:40:00+00:00",
+      "summary": "健康網》露營後手掌冒紅斑 拖1個月當蟲咬 抽血一驗竟染梅毒&nbsp;&nbsp;自由健康網露營男手掌爆長紅斑！「不痛不癢拖1個月」問AI嚇傻衝醫院確診梅毒&nbsp;&nbsp;三立新聞網SETN.com露營惹性病？男手掌生紅斑以為蟲咬 醫揭竟染二期梅毒附3大特徵&nbsp;&nbsp;UHK 港生活【年輕人露營回來「手掌紅斑狂冒」驗出梅毒！醫籲別拖：從床上來的】 （圖／蘇信豪醫師授權提供） 就說要戴套。(#起啵)&nbsp;&nbsp;facebook.com他去露營後手掌狂長紅斑！醫一看：是「梅毒」&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PbzdPR05oUTRKUHFfQXhnUnoyVVdzUkpXZ0NjZG5qQS15WlpacWZzRnFXODJlUlVNMmd6RVRZLVVacExZSnVLcmRlNHJ6Q09yWm9mZEV5bVhFSGJ2ZUluRk9mdW_SAWpBVV95cUxPcXlXXy1PWjFvcGg1amE2dzZzQ3lpZFVOdWY5dzd0OUx5a2VwclFfRV9EcFUzcnIxbHp5RHlEZHlfcTk1Z0VaWHlGclVFNEtMV0xURmJxQ2w2a3B1WTZIMHBMVUx3ZXFUc3RB?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "d12e58b0e887",
@@ -269,19 +295,6 @@
         {
           "name": "ETtoday新聞雲",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80UDNwekxhVldtN0FXNm5lRWhkdU1YZG9wMnY3LXZycXM3UlJPWlhjXzNJS3RuTXFNZXJINlNUM0FHdkdVOWtXQUs0bHpncFR6UmFad3NoU0hmRVF4dnfSAWhBVV95cUxPY3VOaVJ2MHRCQ1d0TFBsVFdHbFJjS0tacUxuc01uSHluVERDOS1zRGNFNjhSQ1F2c2R2NmplNFVYVm8wNjRaZXB3dkZVeExYVm5UNkt2OEZKZ21IQm1HVEwyQWdhS1Nacg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7835b3d198e9",
-      "title": "露營男手掌爆長紅斑！「不痛不癢拖1個月」問AI嚇傻衝醫院確診梅毒",
-      "published": "2026-05-05T04:27:30+00:00",
-      "summary": "露營男手掌爆長紅斑！「不痛不癢拖1個月」問AI嚇傻衝醫院確診梅毒&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPU1NKWk9VZHhLYkFfbEEtTDN1QkZ4Qm1aeHUtT3hBMFFLejdJUk10Z3RuUUVWa2tPaHhzUmtvMmpBX2tUNmIzRVRGSVU4NnZXRGZFazdUMkRIOUN3dmUxU2pta3FvaHMtUHVXVzh6aEUxQ1pZQzRXQU12TS16Uk5SWUI1cnRicWNzTEpPOVdtSWRZRUhiRHF3MVNwNnExLUdfWmJ3Mm1fWkNZQ2dVaUhVc0JoRXZnYnRWcGRUcFZpUHhPdjc5MUx0MjE4NXFyamluSjEzeTJ4LXhTYTdJQm1URW9ETWJXM2pxNTc3NFVFSlBnV3ZnMkJ4TjNsR1J5QkxQUVBZTm9EVFZLRmdvYjhzeGxkeHd1MERuOERWZmdmRFhKOFFHSktjLUkxSnFxRTkwdmNkZkxSTlgzczN6SWdUSm5XT1NRQ3pJVmRVcmVyd1dIc0llOFhzOTd3T3VJbDM2SUZEcXZ2cEVEZWFGTE5udGgtSlJyUVIxYkdGZ29GQ2Z0RjdydjhWTk5wd3ZJYW55TVE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1337,44 +1350,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPdDF4OVlyX1J1bG5jbDFEbjM1R0JNTTRmV2hkV2Zsempidm03c0dacm02Rm11X1dsRTRzamJjTTkwUHc3T1lmd1RhbmxJdFdBVEo5T2JuRDJMQkZhMWotU1ZmREFzTTRYR3JMTW1KWkI2NnR0bENRNzEweEtFTWZ1RnE3ZmF0alR6M0NobWE5OEhtamtjcnZ6Q0xFaERWTVRjb0NUSWROS1dLUjZyVm5hNUM5eklVMHFfWDlQRHBRRDRxT1AxdmE4Zk81MGU0M29oamltbmtCUFhHU0x0S1hRTjExdC1CeG1JTDlJWl9GelJFNzQyVnplQXM2SDg2S2xfbHBCWTRtNnFrekwxYUxQZG1rdWlnMmtMSzdfUFpQdkw4bDlRVGFJQ01NZFFGeWV1eHcxdHcxaXpZeU1XcDVDcVpVLVlJcjZWejlZUFpwa3p1UzV1dEhpNmFjOGw3WUtUVHc4T1ZEZ1Z5U1EzdDJLYmlvLVNVU0dZaFdGQzBKbFRQUm5kWVE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "53710098138e",
-      "title": "睡一覺直接跨年！他感染腦膜炎陷昏迷3週 醒來崩潰：我以為我死了 | CTWANT - LINE TODAY",
-      "published": "2026-05-03T15:02:39+00:00",
-      "summary": "睡一覺直接跨年！他感染腦膜炎陷昏迷3週 醒來崩潰：我以為我死了 | CTWANT&nbsp;&nbsp;LINE TODAY健康網》耳感染21天醒來要跨年了！ 英國作家險死於腦膜炎 醫列6招預防&nbsp;&nbsp;自由健康網耳痛陷昏迷 作家睡一覺竟「穿越」到隔年 醒來崩潰：我死了？&nbsp;&nbsp;世界新聞網耳痛以為感冒！他睡一覺竟「穿越到隔年」 醫宣判剩24小時生命...醒來崩潰了&nbsp;&nbsp;鏡新聞耳痛後昏迷21日 英作家患腦膜炎奇蹟甦醒驚覺「時間消失」 已是新一年&nbsp;&nbsp;bastillepost.com",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11V3dVSTNteHRoT0FBN2o5a1RpVDZXNm0tVEFjN0ZkekdfOHd2Rm1nY0tKcWh4d2RnOWN5Tm9fWUxpemRRcS1aZzNjakFtSlpKZjgzVFJn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7f591cb2bd73",
-      "title": "兒癌終極挑戰 質子是首選",
-      "published": "2026-04-30T03:21:44+00:00",
-      "summary": "兒癌終極挑戰 質子是首選&nbsp;&nbsp;《現代保險》雜誌",
-      "sources": [
-        {
-          "name": "《現代保險》雜誌",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Obk40c1d3S2tYNW5LNlJhYnN5SUQ4cU1hVktKaUcwQUhNNGFMUUFIWVJDWHZNTTY2ZHRzSmlCNEQ5OGZhVWVKQ2liQTliNXRSVl80?oc=5"
         }
       ],
       "matched_keywords": []
