@@ -1,7 +1,55 @@
 {
-  "generated": "2026-05-06T12:26:03.171320+00:00",
-  "count": 5,
+  "generated": "2026-05-06T15:23:43.597692+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "6e7f4850a0c5",
+      "title": "肺炎細菌恐偷襲大腦！潛藏呼吸道的失智風險",
+      "published": "2026-05-06T13:58:31+00:00",
+      "sources": [
+        {
+          "name": "台灣大紀元",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPWFFrLVNWYXl5UEY5bmN5cW95SExpOTlPM3dxNDRiQTNJeWMzWU5CMFhmeW9Wa3Bid0ZYUWlPdEU3UW9KV2FCekR0UzJZSVJ4ODRIZGdnTW0tUVVfQV9Zd3gybE9SN2N4VUhoQkNHZEtTRVA1RWROdkFRTzZfWmNnanktaFhWR201eWFxWE9MLVY5ZnVkU1IwV1RqaVBndV9QejdxRkpZM2E2MzVTSmMycUdzNWx5Z0VjZ1NWNENvOHIxQTFBYVpiZEltVnVIdDVrVUJfNWh6bDU4dUdLTmE3aW9sWGpSTU9FdTBlQmNMYW94dW8takhwTlBPOUthQ1NPank3MjdtcUNZS0Z6dkRaWDN1NmRlTGlUNDVBVExVRV9hMzBvb0VPdjhLUkZuUTJIMm9iYnpFWVBpdlRGV01JNjYxdTU?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f6d5576fa85d",
+      "title": "健康網》張曼娟母親踏進健身房後變了 醫曝失智緩解",
+      "published": "2026-05-06T13:19:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XWlBHUFpmSXN1NjluN3hJZ3l4NGowMEVHRVdMREVEbHNqMkRWcnQxZUNfeFJaeFlnNnBsSG5VUFd3Mk5GZmZPWEhUSXhiQXdPRkNxUWFEcnRYYi1pUUJIdGk5N3TSAWpBVV95cUxQVVlERzRkbDl1cExyVVl4eFNWa0s1NWNmUXNyUXhQRVdqaTZFaU1pdkNmTXo0U19veDRDQ1lGUWlUa18wOUZzOUkxY0ppYmxfTnVmNk5CUDBwcTBSVFlocE1pc3lleFg3ZVRR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "a65caa1cdb30",
       "title": "健康網》優格吃錯反而是負擔 醫教選擇3大原則避開地雷",
@@ -484,107 +532,6 @@
             {
               "slug": "dupilumab",
               "name": "Dupilumab"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e8faf1ffd887",
-      "title": "新研究揭示類風濕性關節炎骨破壞機制：鐵質過載與脂質代謝關聯",
-      "published": "2026-05-04T14:24:00+00:00",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtVVMtOGN2a2FEdGVrNlBCVjFaMkl3cjBza2QyZmtNc3B0VDduZGlBdGVSb2pScDl1eGVrVnNHZllZT3RBS0RPRFlBRHpTNTBxdWc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "類風濕性關節炎",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "風濕",
-          "keyword": "風濕",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "關節炎",
-          "keyword": "關節炎",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            },
-            {
-              "slug": "ibuprofen",
-              "name": "Ibuprofen"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "風濕性關節炎",
-          "keyword": "風濕性關節炎",
-          "related_drugs": [
-            {
-              "slug": "carisoprodol",
-              "name": "Carisoprodol"
-            },
-            {
-              "slug": "prednisone",
-              "name": "Prednisone"
             }
           ]
         }

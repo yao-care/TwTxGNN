@@ -1,8 +1,71 @@
 {
-  "last_updated": "2026-05-06T12:26:03.148754+00:00",
-  "total_count": 19,
-  "matched_count": 5,
+  "last_updated": "2026-05-06T15:23:43.563403+00:00",
+  "total_count": 20,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "6e7f4850a0c5",
+      "title": "肺炎細菌恐偷襲大腦！潛藏呼吸道的失智風險",
+      "published": "2026-05-06T13:58:31+00:00",
+      "summary": "肺炎細菌恐偷襲大腦！潛藏呼吸道的失智風險&nbsp;&nbsp;台灣大紀元",
+      "sources": [
+        {
+          "name": "台灣大紀元",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPWFFrLVNWYXl5UEY5bmN5cW95SExpOTlPM3dxNDRiQTNJeWMzWU5CMFhmeW9Wa3Bid0ZYUWlPdEU3UW9KV2FCekR0UzJZSVJ4ODRIZGdnTW0tUVVfQV9Zd3gybE9SN2N4VUhoQkNHZEtTRVA1RWROdkFRTzZfWmNnanktaFhWR201eWFxWE9MLVY5ZnVkU1IwV1RqaVBndV9QejdxRkpZM2E2MzVTSmMycUdzNWx5Z0VjZ1NWNENvOHIxQTFBYVpiZEltVnVIdDVrVUJfNWh6bDU4dUdLTmE3aW9sWGpSTU9FdTBlQmNMYW94dW8takhwTlBPOUthQ1NPank3MjdtcUNZS0Z6dkRaWDN1NmRlTGlUNDVBVExVRV9hMzBvb0VPdjhLUkZuUTJIMm9iYnpFWVBpdlRGV01JNjYxdTU?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f6d5576fa85d",
+      "title": "健康網》張曼娟母親踏進健身房後變了 醫曝失智緩解",
+      "published": "2026-05-06T13:19:00+00:00",
+      "summary": "健康網》張曼娟母親踏進健身房後變了 醫曝失智緩解&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XWlBHUFpmSXN1NjluN3hJZ3l4NGowMEVHRVdMREVEbHNqMkRWcnQxZUNfeFJaeFlnNnBsSG5VUFd3Mk5GZmZPWEhUSXhiQXdPRkNxUWFEcnRYYi1pUUJIdGk5N3TSAWpBVV95cUxQVVlERzRkbDl1cExyVVl4eFNWa0s1NWNmUXNyUXhQRVdqaTZFaU1pdkNmTXo0U19veDRDQ1lGUWlUa18wOUZzOUkxY0ppYmxfTnVmNk5CUDBwcTBSVFlocE1pc3lleFg3ZVRR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "350cb273ce19",
+      "title": "不是喝酒、熬夜！英國倫敦帝國學院證實：每週做「這件小事」早死風險飆3倍 - Harper's BAZAAR",
+      "published": "2026-05-06T13:05:06+00:00",
+      "summary": "不是喝酒、熬夜！英國倫敦帝國學院證實：每週做「這件小事」早死風險飆3倍&nbsp;&nbsp;Harper's BAZAAR",
+      "sources": [
+        {
+          "name": "Harper's BAZAAR",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS0NQS2xZV19TanEyOWhQOHExSTBWR3BtX3hTaV8yelZDcGptbHJDU19nSzlueDVqT3VPTXAtZmhoZU5UZzFyNUE3S0F6Z0lyS1k5REhVLUE3Sk9FcXMxaXREQUlhdWV6bUtlZmN2ZmVVMmdBUzQxbEl6ZWx4NUFNbXZJaFNDTDB1M3YtNU0wM2lYQVQ3LUpQZC1vSDRETlg1VmpuVG5qemoyVGJ4TmRvblZMcUp6cTZOUTBSZHJReWtWUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "3c6c4826fc87",
       "title": "「白色瘟疫」再次敲響警鐘",
@@ -17,14 +80,14 @@
       "matched_keywords": []
     },
     {
-      "id": "350cb273ce19",
-      "title": "不是喝酒、熬夜！英國倫敦帝國學院證實：每週做「這件小事」早死風險飆3倍 - Harper's BAZAAR",
-      "published": "2026-05-06T10:13:33+00:00",
-      "summary": "不是喝酒、熬夜！英國倫敦帝國學院證實：每週做「這件小事」早死風險飆3倍&nbsp;&nbsp;Harper's BAZAAR",
+      "id": "c126978071ef",
+      "title": "72歲美衛生部長爆肌惹關注 靠3招逆齡養生 間歇斷食/每周重訓/每日登山",
+      "published": "2026-05-06T11:00:00+00:00",
+      "summary": "72歲美衛生部長爆肌惹關注 靠3招逆齡養生 間歇斷食/每周重訓/每日登山&nbsp;&nbsp;星島頭條",
       "sources": [
         {
-          "name": "Harper's BAZAAR",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS0NQS2xZV19TanEyOWhQOHExSTBWR3BtX3hTaV8yelZDcGptbHJDU19nSzlueDVqT3VPTXAtZmhoZU5UZzFyNUE3S0F6Z0lyS1k5REhVLUE3Sk9FcXMxaXREQUlhdWV6bUtlZmN2ZmVVMmdBUzQxbEl6ZWx4NUFNbXZJaFNDTDB1M3YtNU0wM2lYQVQ3LUpQZC1vSDRETlg1VmpuVG5qemoyVGJ4TmRvblZMcUp6cTZOUTBSZHJReWtWUQ?oc=5"
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNS2ZvWWdDUUF5TTZqM1VNS19HWXFYSW1VanZaQVFSUkpBUWN3a1lmMm5hNUNvbGpFeE9QUUQ4aFgxWUpHLXowTDhOSVdBbk9ieWxScGtEaVBQeGs5VlNJeldMQjcwbkw2bjh6aVgxYWtlZ2lzYnFKZGlydEVLejFDRk5md3RfTmFfaHdBZjg1UzhWSDVhcnFwUi1aUW9FRWFNWldTRXhqZUZ2d1NTdXYwM1BESG84Zlh5US1Pcng3bDlSRTRDdzRHYzllV1VGRlJNY3ZCUXpvY2dEMDFiN0tWOEEwMy11QUMtT3hGWU5oWlFoWDdOZjBWQTJpaGJwTWFBMXBJMkNoakRwSU1WZmdJWkJ1clNhbmkyZkZocDBva01WNTZ2NGo1bktzSV90enJHQXA3Q29ucGlWVnFzMy1ZWXByRXUxa3hkZzBQeWQtT0V4RXFjYXdYWmpiaTMyNmVLX2FCTkgtU0pDYW9tZk9IeWRKd1VuTmRsckNTRk11NklPU00xMlREekZEVWlKZ3JOeFJOOUh4WFp3YjhIa2VYUjlPY3JRb25fdlRCZVdyZkVWNjh5SVdlYkU3Zw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -85,7 +148,7 @@
       "id": "a65caa1cdb30",
       "title": "健康網》優格吃錯反而是負擔 醫教選擇3大原則避開地雷",
       "published": "2026-05-05T10:03:00+00:00",
-      "summary": "健康網》優格吃錯反而是負擔 醫教選擇3大原則避開地雷&nbsp;&nbsp;自由健康網每天吃優格會如何? 營養師解答3大好處&nbsp;&nbsp;MSN蔬果吃夠就不會大腸癌？營養師點名「這1神隊友」：每週吃2次降風險&nbsp;&nbsp;祝你健康選對優格防腸癌 13萬人研究曝關鍵益菌：每周吃2次&nbsp;&nbsp;中時新聞網吃優格防大腸癌！每週至少吃2次 營養師教「選這種」最有效&nbsp;&nbsp;TVBS新聞網",
+      "summary": "健康網》優格吃錯反而是負擔 醫教選擇3大原則避開地雷&nbsp;&nbsp;自由健康網每天吃優格會如何? 營養師解答3大好處&nbsp;&nbsp;MSN蔬果吃夠就不會大腸癌？營養師點名「這1神隊友」：每週吃2次降風險&nbsp;&nbsp;三立新聞網SETN.com選對優格防腸癌 13萬人研究曝關鍵益菌：每周吃2次&nbsp;&nbsp;中時新聞網吃優格防大腸癌！每週至少吃2次 營養師教「選這種」最有效&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
           "name": "自由健康網",
@@ -659,121 +722,6 @@
         {
           "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOcmVTYWdXTUV6LXRmX0lpVkFuVXRQV0dlM0R4aWwxTXk1Uzg2bWZVaWpXUzVHcmtLX2hLTnBxV2c3OExha2kyQnZPWkRFX0pxd3RPaFkwMFB2aHp4RkxyUktjdWFydzIwSUpidUtFRjFmRmQyYVpRV1FGcWk0QjczNjVzaldCbTlISXNzWXJocEk1ZExQNkcyQ1Y4dktBR2ZfQkJHbVpmd2QyWjBfekh3Nk55MEF3eWg1c0d2cDdPNTh3c1Ixb2VlVDMwWmNiMU15eHY5Q2lmZVIyeGstNUc2bXdNU3paMUZQVnVKV3NNY3Z2ejRWWl96SVFQM1lNeUZiZmxPTEJzSXkya0pwREpJdWg4RnpwYWtJLUVnN1hKTEdZZFd6SWpDZ2k5eUFyU1hwRVpkNWt5T3BZNXNPZ2hkX2EtTVRIMExOd25ON2h3dkk0RklkMnU3c0ZuOE9KS2ExbDB5amZFMnV1MTFDUEE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e8faf1ffd887",
-      "title": "新研究揭示類風濕性關節炎骨破壞機制：鐵質過載與脂質代謝關聯",
-      "published": "2026-05-04T14:24:00+00:00",
-      "summary": "新研究揭示類風濕性關節炎骨破壞機制：鐵質過載與脂質代謝關聯&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtVVMtOGN2a2FEdGVrNlBCVjFaMkl3cjBza2QyZmtNc3B0VDduZGlBdGVSb2pScDl1eGVrVnNHZllZT3RBS0RPRFlBRHpTNTBxdWc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "類風濕性關節炎",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "風濕",
-          "keyword": "風濕",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "關節炎",
-          "keyword": "關節炎",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            },
-            {
-              "slug": "ibuprofen",
-              "name": "Ibuprofen"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "風濕性關節炎",
-          "keyword": "風濕性關節炎",
-          "related_drugs": [
-            {
-              "slug": "carisoprodol",
-              "name": "Carisoprodol"
-            },
-            {
-              "slug": "prednisone",
-              "name": "Prednisone"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bb3cf6bf38e0",
-      "title": "春天踏青好時節？ 先留意三項隱形風險",
-      "published": "2026-05-04T12:00:00+00:00",
-      "summary": "春天踏青好時節？ 先留意三項隱形風險&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxORTRaUEliV04ySGk4d2k4dUpUTGhQWExYLXdvUEp5dlBFQzRZeFp5cnZGRlQzVnFlZ20zRjdqOEtxMlVNbTNlSzlnNmFJNlk2ZTdqNFZKbVNfUUxQNUZINlZ5clJOWWI2VVZ4NkdMSjh3STA4OXdTSzdBWnBUY0I4U2VMdWJKLVdacFlBelZ6ZjN6YkhjZFZnUTBwaEFaUDkwVmFmQ1ZTdWp6M3F3QTZDTWwxd3pwMjA0RVI0eGVBMTQ4ZTJaMGh5Zk9EY1lGYzhqNDdJOUNCSGdQWmhlUmZ5RV9PVVNnald2Tk1PTGdwcXVLN3V2bF9CNXBpUU55TmFIaGxwMmpiRUZ4UVFEV1Q4bVdSTXE0VUwxY0JhX091VkJoeGdieVpkYXZHeTg1X2k0NWc?oc=5"
         }
       ],
       "matched_keywords": []
