@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [健康網》優格吃錯反而是負擔 醫教選擇3大原則避開地雷](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aaDRudUxjeXdfSDVERzI4TFl4N2N1Z04xTVVvLTZnMVZZT0pNQ3dLdmV0MlJwMkZJcnh1Z0RQT1NIVk5Qa3psQmpYemwzLW9kSDdUU25ZOG9uazhtWVdKOHFmdV_SAWpBVV95cUxNbUtFQ1lBTnEtcFFyazZGY25OVWZ5c1F0ZGhKMnRkVHAyb1dvNWNoUWtrTDY4MHdkYW1xanhpNjZ2T082R1ZfZmZsUDJ0djhiRGNaV1paOHNRa3dqeEJNOEN6Qll6VV9Ucmx3?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/hydroxyurea/
 2026-05-05 <span class="news-indication-tag">癌症</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zVGMzbE9ZNXpBWUIxTGtkaGVmOHRGRGtjazdWZ2Z0MEpnMXZuT2xBamMwMVQyUlNydUVra2lYRW1MS19WUWk3REdRcmVrUURKVVBvRFRNa3VoUFVoU3VCZlpna2fSAWpBVV95cUxOT0tUUU9Yc25ROEQwdkVlX3J6NXBlTGdEOGdaalQ3UjgyVmpGN0RMeExfR0U2aUItcXpYVGRJNFVVM2JCNmVvQ0lLR1lnQ3I1MVJiTWVUNEk0R1l2cmlRdGo2OXctWFJpRXN3?oc=5)
-
----
-
-### [不菸不酒也可能罹癌？牙周病壞菌竟能「跨器官」刺激腫瘤生長：刷牙不只防癌，可能比你想得更保命](https://news.google.com/rss/articles/CBMie0FVX3lxTE5uQUc0N3RoM21nZWh5VFRUZU95OXUxaW13TzZpcV9FSVFHb1p3MUhnS1M2MlVGTWlwVUhjMGU5bGRjMlZaajlfQXdGWW9DTnRadlVhUjFsN2FHSDdoV2oxT2g5WXpiWTNxeXVnSVBlU2p0dVpTaVgwNjZfNA?oc=5)
-
-2026-05-05 <span class="news-indication-tag">腫瘤</span>
-
-來源：[幸福熟齡](https://news.google.com/rss/articles/CBMie0FVX3lxTE5uQUc0N3RoM21nZWh5VFRUZU95OXUxaW13TzZpcV9FSVFHb1p3MUhnS1M2MlVGTWlwVUhjMGU5bGRjMlZaajlfQXdGWW9DTnRadlVhUjFsN2FHSDdoV2oxT2g5WXpiWTNxeXVnSVBlU2p0dVpTaVgwNjZfNA?oc=5)
 
 ---
 
