@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-05-06T02:00:51.290328+00:00",
-  "total_count": 23,
+  "last_updated": "2026-05-06T05:49:08.957407+00:00",
+  "total_count": 24,
   "matched_count": 8,
   "news": [
+    {
+      "id": "598e2c53ae92",
+      "title": "嬰幼兒發高燒出疹不一定是麻疹 可能是玫瑰疹作祟",
+      "published": "2026-05-06T05:00:00+00:00",
+      "summary": "嬰幼兒發高燒出疹不一定是麻疹 可能是玫瑰疹作祟&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSYUdtUDJkZ3ppaWhCRk80RG5yUTVJM0dnTG5kWGZwR2pKS3J1ZlVzZ1lXR1RDeFB4UUQteFQwS25QS2l0UW9CYkVqMDJNVEpIcTFCV3ZlRnpwYzY2dUwxVNIBZkFVX3lxTE5xNDR5ZEx2a1JTcHAwSUE0bWVfT0hsb2syNVowTmxBUE9ReDg4aWljZFJZZnh5dnRkZmQyUldBM1JtVHlKZEhvaUdRZkpnRmdjOEZkRk9oemR3aHhSUmMzY1Bld2NXUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "554d4b56a4a9",
       "title": "膿皰遍佈全⾝疼痛難眠  ⼤林慈濟醫院精準治療助患者重拾⽣活品質",
@@ -30,10 +43,23 @@
       "matched_keywords": []
     },
     {
+      "id": "26c7593b8aae",
+      "title": "中大破研究｜BB腸道生態影響腦部發展、自閉症ADHD 剖腹產為關鍵",
+      "published": "2026-05-05T10:10:58+00:00",
+      "summary": "中大破研究｜BB腸道生態影響腦部發展、自閉症ADHD 剖腹產為關鍵&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQc1ZYSW55QVpLOXJtdjRBNWN1OEdQMG9oOVNLeEtyTWJWd0JtbGk5cTUyQnhYdU01R1VMdkVqZGlqUWU4bDFKMlkwVWRueVVuWmRDbUdKOGFHbjNHRVFDMW5SWVRjQWdYVnVWM0ZYYXFTVFBJT3BjaVZxYXpCR1Z4c2hhQUFwR0Z5cjhWcVpMMWlUY3RyOExFWHRQSVk5X0tScklJTHBDck9BZjM3ZXNfTi1waEN0UzRQM0xOYTZPbTVvekJtdW1hTkhwVG1XWFBTNlRvUExzeGx3dVg5STAxNGNaSDdBTUhqbVpYWmZPNFVDQko3cjNzYkFnTEFza1FCbXZvRmpPMW1SNkpMeVZsUHJEbnE4NkVYZHg2Slc0dXNrUUkyeXgxYUtxSTVPTG02eVdfczZaWFBPVTVmVXR2dGZKZjQ1dm9VTl9USkRXdmdYUldPRW15bVZQeTlZVllSN0tlem1mRWtzVGZFWEZ3dEZLRmJORk1SbmpidGZpX3BONkZKNEdRSG5R?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "a65caa1cdb30",
       "title": "健康網》優格吃錯反而是負擔 醫教選擇3大原則避開地雷",
       "published": "2026-05-05T10:03:00+00:00",
-      "summary": "健康網》優格吃錯反而是負擔 醫教選擇3大原則避開地雷&nbsp;&nbsp;自由健康網每天吃優格會如何? 營養師解答3 大好處&nbsp;&nbsp;MSN蔬果吃夠就不會大腸癌？營養師點名「這1神隊友」：每週吃2次降風險&nbsp;&nbsp;三立新聞網SETN.com選對優格防腸癌 13萬人研究曝關鍵益菌：每周吃2次&nbsp;&nbsp;中時新聞網吃優格防大腸癌！每週至少吃2次 營養師教「選這種」最有效&nbsp;&nbsp;TVBS新聞網",
+      "summary": "健康網》優格吃錯反而是負擔 醫教選擇3大原則避開地雷&nbsp;&nbsp;自由健康網每天吃優格會如何? 營養師解答3大好處&nbsp;&nbsp;MSN蔬果吃夠就不會大腸癌？營養師點名「這1神隊友」：每週吃2次降風險&nbsp;&nbsp;祝你健康選對優格防腸癌 13萬人研究曝關鍵益菌：每周吃2次&nbsp;&nbsp;中時新聞網吃優格防大腸癌！每週至少吃2次 營養師教「選這種」最有效&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
           "name": "自由健康網",
@@ -86,6 +112,19 @@
         {
           "name": "Women's Health",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT0kxU0pZR0lBWDhNQUIwY0JhVzRBVmEwSGJKSDlSRjlxX3dmaHkyRmtWLS12QlI3YXd4aEFhVE1WYVFNejRBS2t0dHI5TW90RlRucW1GN2xMUlZYV09ZLXh4amtEQk1Lc0pZY1pyNDFhOGNBcUFNWXM3d0ZZdkNWMHVwdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a51aea97f62c",
+      "title": "他去露營後手掌狂長紅斑！醫一看：是「梅毒」",
+      "published": "2026-05-05T07:01:01+00:00",
+      "summary": "他去露營後手掌狂長紅斑！醫一看：是「梅毒」&nbsp;&nbsp;天天上新聞露營後「手冒紅疹1個月」竟驗出梅毒 醫揭真相：號稱「偉大的模仿者」&nbsp;&nbsp;Yahoo新聞健康網》露營後手掌冒紅斑 拖1個月當蟲咬 抽血一驗竟染梅毒&nbsp;&nbsp;自由健康網手掌紅斑以為被咬！年輕男拖1個月 一驗竟是梅毒&nbsp;&nbsp;鏡週刊Mirror Media露營惹性病？男手掌生紅斑以為蟲咬 醫揭竟染二期梅毒附3大特徵&nbsp;&nbsp;UHK 港生活",
+      "sources": [
+        {
+          "name": "天天上新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uRTJ0eFQyVXo3b3dVZE9iQjJZazdTV0UwYVktd0xoQkY2MmNEVDE0cWpJcWVMNTlNeEg2dUZFaDFLWUE0OFNGTXBrVk9wZw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -313,14 +352,14 @@
       "matched_keywords": []
     },
     {
-      "id": "3d8a6293e427",
+      "id": "256eca5c3df3",
       "title": "七旬翁免開刀、完整保留腸道功能 新北聯醫成功切除8公分大腸病灶",
       "published": "2026-05-05T03:45:48+00:00",
       "summary": "七旬翁免開刀、完整保留腸道功能 新北聯醫成功切除8公分大腸病灶&nbsp;&nbsp;經濟日報",
       "sources": [
         {
           "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40bGVnWnE4NGdmQVFzLTJIc0h2UmhpTndsdjBmd3VJa2FVa091cXB1M1kyazhkT04xUUJ1YlZEYWhYY2ZzX0F6V0s4eDVlYjlLanFPdEUwWERnUdIBX0FVX3lxTE9LTlFFakF1SG1BY0RqYXozTkUza3BSTG8zQURoNUZIeHJpeXI3TnpGQlVJT1hhMVJrdGI0enB6bmNydkZHZlRVYTZwaTFVRzN6Y3dyanBlOWkwLXYyQzJz?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LTlFFakF1SG1BY0RqYXozTkUza3BSTG8zQURoNUZIeHJpeXI3TnpGQlVJT1hhMVJrdGI0enB6bmNydkZHZlRVYTZwaTFVRzN6Y3dyanBlOWkwLXYyQzJz0gFfQVVfeXFMT0tOUUVqQXVIbUFjRGphejNORTNrcFJMbzNBRGg1Rkh4cml5cjdOekZCVUlPWGExUmt0YjR6cHpuY3J2RkdmVFVhNnBpMVVHM3pjd3JqcGU5aTAtdjJDMnM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -548,19 +587,6 @@
       ]
     },
     {
-      "id": "2d2e20e4858f",
-      "title": "露營男手掌爆長紅斑！「不痛不癢拖1個月」問AI嚇傻衝醫院確診梅毒",
-      "published": "2026-05-05T01:01:53+00:00",
-      "summary": "露營男手掌爆長紅斑！「不痛不癢拖1個月」問AI嚇傻衝醫院確診梅毒&nbsp;&nbsp;三立新聞網SETN.com露營後「手冒紅疹1個月」竟驗出梅毒 醫揭真相：號稱「偉大的模仿者」&nbsp;&nbsp;Yahoo新聞健康網》露營後手掌冒紅斑 拖1個月當蟲咬 抽血一驗竟染梅毒&nbsp;&nbsp;自由健康網手掌紅斑以為被咬！年輕男拖1個月 一驗竟是梅毒&nbsp;&nbsp;鏡週刊Mirror Media露營惹性病？男手掌生紅斑以為蟲咬 醫揭竟染二期梅毒附3大特徵&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5WYlVVLVRZOERNUDY4TWQydlh6X29KZ0JJb25oQjFsOHhXTE13RElqWmRPMlkwZ1pvUXIzMlc3WkdhZm83am9rWVB4ZFM?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "2531a9f46cfc",
       "title": "心理健康|每日為揀三餐感選擇困難 小心被「決策疲勞」榨乾意志力",
       "published": "2026-05-05T01:00:57+00:00",
@@ -587,13 +613,13 @@
       "matched_keywords": []
     },
     {
-      "id": "4d643f73058d",
+      "id": "93c5ec67713c",
       "title": "運動強度或更影響健康！最新研究揭： 每日數分鐘高強度活動可大幅降疾病風險",
       "published": "2026-05-04T23:00:13+00:00",
-      "summary": "運動強度或更影響健康！最新研究揭： 每日數分鐘高強度活動可大幅降疾病風險&nbsp;&nbsp;巴士的報",
+      "summary": "運動強度或更影響健康！最新研究揭： 每日數分鐘高強度活動可大幅降疾病風險&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOcmVTYWdXTUV6LXRmX0lpVkFuVXRQV0dlM0R4aWwxTXk1Uzg2bWZVaWpXUzVHcmtLX2hLTnBxV2c3OExha2kyQnZPWkRFX0pxd3RPaFkwMFB2aHp4RkxyUktjdWFydzIwSUpidUtFRjFmRmQyYVpRV1FGcWk0QjczNjVzaldCbTlISXNzWXJocEk1ZExQNkcyQ1Y4dktBR2ZfQkJHbVpmd2QyWjBfekh3Nk55MEF3eWg1c0d2cDdPNTh3c1Ixb2VlVDMwWmNiMU15eHY5Q2lmZVIyeGstNUc2bXdNU3paMUZQVnVKV3NNY3Z2ejRWWl96SVFQM1lNeUZiZmxPTEJzSXkya0pwREpJdWg4RnpwYWtJLUVnN1hKTEdZZFd6SWpDZ2k5eUFyU1hwRVpkNWt5T3BZNXNPZ2hkX2EtTVRIMExOd25ON2h3dkk0RklkMnU3c0ZuOE9KS2ExbDB5amZFMnV1MTFDUEE?oc=5"
         }
       ],
@@ -702,13 +728,13 @@
       ]
     },
     {
-      "id": "bb3cf6bf38e0",
+      "id": "6133958d5601",
       "title": "春天踏青好時節？ 先留意三項隱形風險",
       "published": "2026-05-04T12:00:00+00:00",
-      "summary": "春天踏青好時節？ 先留意三項隱形風險&nbsp;&nbsp;巴士的報",
+      "summary": "春天踏青好時節？ 先留意三項隱形風險&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxORTRaUEliV04ySGk4d2k4dUpUTGhQWExYLXdvUEp5dlBFQzRZeFp5cnZGRlQzVnFlZ20zRjdqOEtxMlVNbTNlSzlnNmFJNlk2ZTdqNFZKbVNfUUxQNUZINlZ5clJOWWI2VVZ4NkdMSjh3STA4OXdTSzdBWnBUY0I4U2VMdWJKLVdacFlBelZ6ZjN6YkhjZFZnUTBwaEFaUDkwVmFmQ1ZTdWp6M3F3QTZDTWwxd3pwMjA0RVI0eGVBMTQ4ZTJaMGh5Zk9EY1lGYzhqNDdJOUNCSGdQWmhlUmZ5RV9PVVNnald2Tk1PTGdwcXVLN3V2bF9CNXBpUU55TmFIaGxwMmpiRUZ4UVFEV1Q4bVdSTXE0VUwxY0JhX091VkJoeGdieVpkYXZHeTg1X2k0NWc?oc=5"
         }
       ],
@@ -1036,14 +1062,14 @@
       "matched_keywords": []
     },
     {
-      "id": "57190643bb99",
-      "title": "年輕大腸癌患者持續攀升！醫揭「童年腸道菌」埋致癌伏筆",
+      "id": "b918d950fd43",
+      "title": "生活正常、沒有家族史…還是得了大腸癌！醫曝原因從童年就開始了",
       "published": "2026-05-04T07:38:19+00:00",
-      "summary": "年輕大腸癌患者持續攀升！醫揭「童年腸道菌」埋致癌伏筆&nbsp;&nbsp;Yahoo新聞這11種癌症在年輕人中增加，科學家首次找到原因線索&nbsp;&nbsp;TNL The News Lens 關鍵評論網健康網》大腸癌不是突然來！醫揭腸道毒素不痛不癢卻傷DNA&nbsp;&nbsp;自由健康網癌症為何開始攻擊年輕人？英國研究：11種癌症發病率激增，「體重超標」是關鍵殺手| BBC News 中文 | 新聞&nbsp;&nbsp;風傳媒排除吸菸、肥胖因素！研究發現「除草劑」與50歲以下大腸癌發病率疑正相關&nbsp;&nbsp;倡議家",
+      "summary": "生活正常、沒有家族史…還是得了大腸癌！醫曝原因從童年就開始了&nbsp;&nbsp;中天新聞網年輕大腸癌患者持續攀升！醫揭「童年腸道菌」埋致癌伏筆&nbsp;&nbsp;Yahoo新聞這11種癌症在年輕人中增加，科學家首次找到原因線索&nbsp;&nbsp;TNL The News Lens 關鍵評論網健康網》大腸癌不是突然來！醫揭腸道毒素不痛不癢卻傷DNA&nbsp;&nbsp;自由健康網癌症為何開始攻擊年輕人？英國研究：11種癌症發病率激增，「體重超標」是關鍵殺手| BBC News 中文 | 新聞&nbsp;&nbsp;風傳媒",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOUHR2NEVEeE1tWlJfa2ZpWno1YUJ3aklzNzlxV190ekN2NzZKNTZEdnFvaFZHSmwwdk9maGRpWllyUGNsQnRWNjktamlGQXE4amdjUkpGbHY1eTJ1RGlMZEpKb09DamxQeHBzLUFUMUxodWxPV2NRZ1hGX1h0U0pMQWN5R1BxczZmSFlCUkhpb1hUQmI3ZUR2OFJFY1BVOE96cVFVZDZ5MEd3Nm1rakQ0QTg1YXVBY3VJUTJUSEJENUM5T05FcDFRVjY1aFFKMVlwb25fNElCOVBuZkZUbTExTzN3NkxuRzlMek1HSVF4Zko0RnZvNV9nRFRvaTVxODF6YmtnUXQ5T2Y1SDFrWFdLclBJT0U3NW51QnVCX0ppdktac0tUNUZfZWNWY2gxYTJ1SjJRVjJGYzFiaW1ZaXh4N3J4LTYxUDhBR1N1akFCWVA1MGliY0dGR0xGb2dDN0wyclROc0o1LXh6SFE?oc=5"
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45Y0hITVNnX0laYl9xdmdvcUZWTVNoZXBzVzZYNWtrMmlxaHpHOHlCSEpKY1o2OXFZVE0zWElBVWpnRnVSWnFxeGsybmQ5NmR5NzFz?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1486,19 +1512,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "26c7593b8aae",
-      "title": "中大破研究｜BB腸道生態影響腦部發展、自閉症ADHD 剖腹產為關鍵",
-      "published": "2026-05-04T04:45:09+00:00",
-      "summary": "中大破研究｜BB腸道生態影響腦部發展、自閉症ADHD 剖腹產為關鍵&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQc1ZYSW55QVpLOXJtdjRBNWN1OEdQMG9oOVNLeEtyTWJWd0JtbGk5cTUyQnhYdU01R1VMdkVqZGlqUWU4bDFKMlkwVWRueVVuWmRDbUdKOGFHbjNHRVFDMW5SWVRjQWdYVnVWM0ZYYXFTVFBJT3BjaVZxYXpCR1Z4c2hhQUFwR0Z5cjhWcVpMMWlUY3RyOExFWHRQSVk5X0tScklJTHBDck9BZjM3ZXNfTi1waEN0UzRQM0xOYTZPbTVvekJtdW1hTkhwVG1XWFBTNlRvUExzeGx3dVg5STAxNGNaSDdBTUhqbVpYWmZPNFVDQko3cjNzYkFnTEFza1FCbXZvRmpPMW1SNkpMeVZsUHJEbnE4NkVYZHg2Slc0dXNrUUkyeXgxYUtxSTVPTG02eVdfczZaWFBPVTVmVXR2dGZKZjQ1dm9VTl9USkRXdmdYUldPRW15bVZQeTlZVllSN0tlem1mRWtzVGZFWEZ3dEZLRmJORk1SbmpidGZpX3BONkZKNEdRSG5R?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
