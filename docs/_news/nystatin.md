@@ -14,7 +14,7 @@ permalink: /news/nystatin/
 ---
 
 <p class="key-answer" data-question="Nystatin 有什麼相關新聞？">
-<strong>Nystatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nystatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/nystatin/
 <p><a href="{{ '/drugs/nystatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [骨質疏鬆初期無症狀！營養師：女性更年期後流失速度加快](https://news.google.com/rss/articles/CBMi9gJBVV95cUxNOWxqY2Y2bnRldFpWaVpJN1NKOHNsVUlqLWRRbE1NRVpITVFuczRqWkJET2sydU9SR3BRTWMzUTFzVF90eXY0clhITGl2SkF2RlNldWlvQjRDb2FRcExPZ3FxZ0RkLThHLWdwOC1QbW0zTlJVQm9rMzAxa0NySGVKVDZwZGlpVTdIQ005VENYNl84ODU4UHppMFB5azhsMEFOakQ3Zzc4Wk9tVnhQQTdTSHRnVFdmVlZMMUZ0MXJqTVpDQnIxTTFlM2NoX3RXRGc1dGkyenA4djZqXzdVOG1QN0w0WlJWYmFVT3hINEQzVkFGdEJ6OEJTSEt1aDE1MzdOVy1DSE1JRFpfZ2ZURkpfLVlUaTRGSWhuS0kxdnFHU0xpcUc2NGlUTFY4OUFGR2laaWVhTWZSNndoZUtiYmtKbW9leHRLVEdJd2RETVpJOWYyZHdlNTE1S1g4cWExTG82Q1FmYkRRWWZZMVZIbEZmTWZ5Wllndw?oc=5)
+
+2026-05-06 <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi9gJBVV95cUxNOWxqY2Y2bnRldFpWaVpJN1NKOHNsVUlqLWRRbE1NRVpITVFuczRqWkJET2sydU9SR3BRTWMzUTFzVF90eXY0clhITGl2SkF2RlNldWlvQjRDb2FRcExPZ3FxZ0RkLThHLWdwOC1QbW0zTlJVQm9rMzAxa0NySGVKVDZwZGlpVTdIQ005VENYNl84ODU4UHppMFB5azhsMEFOakQ3Zzc4Wk9tVnhQQTdTSHRnVFdmVlZMMUZ0MXJqTVpDQnIxTTFlM2NoX3RXRGc1dGkyenA4djZqXzdVOG1QN0w0WlJWYmFVT3hINEQzVkFGdEJ6OEJTSEt1aDE1MzdOVy1DSE1JRFpfZ2ZURkpfLVlUaTRGSWhuS0kxdnFHU0xpcUc2NGlUTFY4OUFGR2laaWVhTWZSNndoZUtiYmtKbW9leHRLVEdJd2RETVpJOWYyZHdlNTE1S1g4cWExTG82Q1FmYkRRWWZZMVZIbEZmTWZ5Wllndw?oc=5)
+
+---
 
 
 <div class="disclaimer">

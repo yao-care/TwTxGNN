@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-06T22:40:43.193729+00:00",
-  "total_count": 17,
-  "matched_count": 5,
+  "last_updated": "2026-05-06T23:41:23.663666+00:00",
+  "total_count": 18,
+  "matched_count": 4,
   "news": [
     {
       "id": "350cb273ce19",
@@ -68,6 +68,79 @@
       "matched_keywords": []
     },
     {
+      "id": "620a7d553d90",
+      "title": "歐洲肝病死亡人數激增 報告促政府嚴管酒精",
+      "published": "2026-05-06T10:46:28+00:00",
+      "summary": "歐洲肝病死亡人數激增 報告促政府嚴管酒精&nbsp;&nbsp;行銷人",
+      "sources": [
+        {
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQS1R3QWtSWElObVlDNGlSbjBPVHRQRkpFMFA1eXktQlkwSk5RMjZaT1hCZjNKWXRwTHAxREV3RzRlWTZOd2dGaHN2NFBzZml1MkQ0NDRjaDdQNGpQNjEyMHFDcmd0WllMaTIzWjhJSEZKdTdtUkdGQS1QWGxKR2Y4dVZXTTlmQWlaX0k0c09LY0M2TlV4VEpycVN1TWNTdEw2enhpbF9VcWhPSlN6TjZVTTBJS0ZDdjh4MW1kU3ZDNW5YbUJ5OTdSTEo1WWJGT0c4ejVwRVc1WURlUGk2c2hfUmdOejFCcUtfV3RVNUFhenNQblRMbVZCQVQ5R1lBZ0pmb0RlUkxvR0RYSVBaenA1aEp6QmVaLU5Cb0tfSUQ4QVgxbkl0X0NsR3B1ZTY0R19qMl9NdFl4X3UtY0Q3VVhYRXdVYjhDOEFIbXk5M2FGS2U4MW5vX2VCVA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3dd687687fab",
+      "title": "骨質疏鬆初期無症狀！營養師：女性更年期後流失速度加快",
+      "published": "2026-05-06T07:20:09+00:00",
+      "summary": "骨質疏鬆初期無症狀！營養師：女性更年期後流失速度加快&nbsp;&nbsp;Yahoo新聞健康網》變矮、駝背要小心 醫揭更年期後「隱性殺手」&nbsp;&nbsp;自由健康網增強骨密度無需複雜訓練 研究揭每天做1事就有助延緩骨質流失&nbsp;&nbsp;元氣網55歲女輕微撞傷後「呼吸會痛」竟是骨裂 醫提醒「這年齡層」以上要注意&nbsp;&nbsp;知新聞醫師：停經後骨質快速流失 藥物、保健可降風險&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNOWxqY2Y2bnRldFpWaVpJN1NKOHNsVUlqLWRRbE1NRVpITVFuczRqWkJET2sydU9SR3BRTWMzUTFzVF90eXY0clhITGl2SkF2RlNldWlvQjRDb2FRcExPZ3FxZ0RkLThHLWdwOC1QbW0zTlJVQm9rMzAxa0NySGVKVDZwZGlpVTdIQ005VENYNl84ODU4UHppMFB5azhsMEFOakQ3Zzc4Wk9tVnhQQTdTSHRnVFdmVlZMMUZ0MXJqTVpDQnIxTTFlM2NoX3RXRGc1dGkyenA4djZqXzdVOG1QN0w0WlJWYmFVT3hINEQzVkFGdEJ6OEJTSEt1aDE1MzdOVy1DSE1JRFpfZ2ZURkpfLVlUaTRGSWhuS0kxdnFHU0xpcUc2NGlUTFY4OUFGR2laaWVhTWZSNndoZUtiYmtKbW9leHRLVEdJd2RETVpJOWYyZHdlNTE1S1g4cWExTG82Q1FmYkRRWWZZMVZIbEZmTWZ5Wllndw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "停經",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "598e2c53ae92",
       "title": "嬰幼兒發高燒出疹不一定是麻疹 可能是玫瑰疹作祟",
       "published": "2026-05-06T05:00:00+00:00",
@@ -118,54 +191,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "a65caa1cdb30",
-      "title": "健康網》優格吃錯反而是負擔 醫教選擇3大原則避開地雷",
-      "published": "2026-05-05T10:03:00+00:00",
-      "summary": "健康網》優格吃錯反而是負擔 醫教選擇3大原則避開地雷&nbsp;&nbsp;自由健康網每天吃優格會如何? 營養師解答3大好處&nbsp;&nbsp;MSN蔬果吃夠就不會大腸癌？營養師點名「這1神隊友」：每週吃2次降風險&nbsp;&nbsp;三立新聞網SETN.com選對優格防腸癌 13萬人研究曝關鍵益菌：每周吃2次&nbsp;&nbsp;中時新聞網吃優格防大腸癌！每週至少吃2次 營養師教「選這種」最有效&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aaDRudUxjeXdfSDVERzI4TFl4N2N1Z04xTVVvLTZnMVZZT0pNQ3dLdmV0MlJwMkZJcnh1Z0RQT1NIVk5Qa3psQmpYemwzLW9kSDdUU25ZOG9uazhtWVdKOHFmdV_SAWpBVV95cUxNbUtFQ1lBTnEtcFFyazZGY25OVWZ5c1F0ZGhKMnRkVHAyb1dvNWNoUWtrTDY4MHdkYW1xanhpNjZ2T082R1ZfZmZsUDJ0djhiRGNaV1paOHNRa3dqeEJNOEN6Qll6VV9Ucmx3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "c94b8ef44b44",
@@ -390,52 +415,17 @@
       ]
     },
     {
-      "id": "6f9b50883031",
-      "title": "慎入！7旬翁揪出「8公分大腸病灶」急切除 醫曝大腸癌機率：1情況快檢查",
-      "published": "2026-05-05T04:12:27+00:00",
-      "summary": "慎入！7旬翁揪出「8公分大腸病灶」急切除 醫曝大腸癌機率：1情況快檢查&nbsp;&nbsp;Yahoo新聞",
+      "id": "256eca5c3df3",
+      "title": "七旬翁免開刀、完整保留腸道功能 新北聯醫成功切除8公分大腸病灶",
+      "published": "2026-05-05T03:45:48+00:00",
+      "summary": "七旬翁免開刀、完整保留腸道功能 新北聯醫成功切除8公分大腸病灶&nbsp;&nbsp;經濟日報",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNbnNkTVY5MkExLVBULWV6X0J3MUtfQXZBZXFhOWFYQlF0bzV5YnFnU205TDdNTUdBbndTM0s0aGMxZkdJejQydzFqNW5pZUZOaDRSejNwUGhEVl9kUGN0Q1B1UUhBRjl3SXlfbkxRZ0h0TEwwdHNXY3VzVDVZclRMenZQOFNsb2pPcUFrSE5Va3k3RDlRdEs0bnc4dVBmYTFUMW1JS2pXeUJuYks5X0FNay05UGZVRFZrTVVCZ2I0N1c2blBVd3N1cTRjZllnQmRRU3ZJdDN5VU1MblppUWFobExqa2pKLUhwMnFXdUtWaE0zU180NVVYSU1EWGVPOWgzd1VJV1lsOGl3TzR0QVNKb2dmLU5rc3RpdjBCLVhJXzhKYTdnc0tWZkFHbURFVlM1d0xGVWtGRC1Zc3ZqZ1hTbXNpa3VrNnNRNWpMT0pHSEZRcS1vdm5qSkRzVTg0MVZYNTNJ?oc=5"
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LTlFFakF1SG1BY0RqYXozTkUza3BSTG8zQURoNUZIeHJpeXI3TnpGQlVJT1hhMVJrdGI0enB6bmNydkZHZlRVYTZwaTFVRzN6Y3dyanBlOWkwLXYyQzJz0gFfQVVfeXFMT0tOUUVqQXVIbUFjRGphejNORTNrcFJMbzNBRGg1Rkh4cml5cjdOekZCVUlPWGExUmt0YjR6cHpuY3J2RkdmVFVhNnBpMVVHM3pjd3JqcGU5aTAtdjJDMnM?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "7b519378f758",
@@ -502,13 +492,13 @@
       "matched_keywords": []
     },
     {
-      "id": "93c5ec67713c",
+      "id": "4d643f73058d",
       "title": "運動強度或更影響健康！最新研究揭： 每日數分鐘高強度活動可大幅降疾病風險",
       "published": "2026-05-04T23:00:13+00:00",
-      "summary": "運動強度或更影響健康！最新研究揭： 每日數分鐘高強度活動可大幅降疾病風險&nbsp;&nbsp;bastillepost.com",
+      "summary": "運動強度或更影響健康！最新研究揭： 每日數分鐘高強度活動可大幅降疾病風險&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOcmVTYWdXTUV6LXRmX0lpVkFuVXRQV0dlM0R4aWwxTXk1Uzg2bWZVaWpXUzVHcmtLX2hLTnBxV2c3OExha2kyQnZPWkRFX0pxd3RPaFkwMFB2aHp4RkxyUktjdWFydzIwSUpidUtFRjFmRmQyYVpRV1FGcWk0QjczNjVzaldCbTlISXNzWXJocEk1ZExQNkcyQ1Y4dktBR2ZfQkJHbVpmd2QyWjBfekh3Nk55MEF3eWg1c0d2cDdPNTh3c1Ixb2VlVDMwWmNiMU15eHY5Q2lmZVIyeGstNUc2bXdNU3paMUZQVnVKV3NNY3Z2ejRWWl96SVFQM1lNeUZiZmxPTEJzSXkya0pwREpJdWg4RnpwYWtJLUVnN1hKTEdZZFd6SWpDZ2k5eUFyU1hwRVpkNWt5T3BZNXNPZ2hkX2EtTVRIMExOd25ON2h3dkk0RklkMnU3c0ZuOE9KS2ExbDB5amZFMnV1MTFDUEE?oc=5"
         }
       ],

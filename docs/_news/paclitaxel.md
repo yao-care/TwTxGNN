@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [骨質疏鬆初期無症狀！營養師：女性更年期後流失速度加快](https://news.google.com/rss/articles/CBMi9gJBVV95cUxNOWxqY2Y2bnRldFpWaVpJN1NKOHNsVUlqLWRRbE1NRVpITVFuczRqWkJET2sydU9SR3BRTWMzUTFzVF90eXY0clhITGl2SkF2RlNldWlvQjRDb2FRcExPZ3FxZ0RkLThHLWdwOC1QbW0zTlJVQm9rMzAxa0NySGVKVDZwZGlpVTdIQ005VENYNl84ODU4UHppMFB5azhsMEFOakQ3Zzc4Wk9tVnhQQTdTSHRnVFdmVlZMMUZ0MXJqTVpDQnIxTTFlM2NoX3RXRGc1dGkyenA4djZqXzdVOG1QN0w0WlJWYmFVT3hINEQzVkFGdEJ6OEJTSEt1aDE1MzdOVy1DSE1JRFpfZ2ZURkpfLVlUaTRGSWhuS0kxdnFHU0xpcUc2NGlUTFY4OUFGR2laaWVhTWZSNndoZUtiYmtKbW9leHRLVEdJd2RETVpJOWYyZHdlNTE1S1g4cWExTG82Q1FmYkRRWWZZMVZIbEZmTWZ5Wllndw?oc=5)
+
+2026-05-06 <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi9gJBVV95cUxNOWxqY2Y2bnRldFpWaVpJN1NKOHNsVUlqLWRRbE1NRVpITVFuczRqWkJET2sydU9SR3BRTWMzUTFzVF90eXY0clhITGl2SkF2RlNldWlvQjRDb2FRcExPZ3FxZ0RkLThHLWdwOC1QbW0zTlJVQm9rMzAxa0NySGVKVDZwZGlpVTdIQ005VENYNl84ODU4UHppMFB5azhsMEFOakQ3Zzc4Wk9tVnhQQTdTSHRnVFdmVlZMMUZ0MXJqTVpDQnIxTTFlM2NoX3RXRGc1dGkyenA4djZqXzdVOG1QN0w0WlJWYmFVT3hINEQzVkFGdEJ6OEJTSEt1aDE1MzdOVy1DSE1JRFpfZ2ZURkpfLVlUaTRGSWhuS0kxdnFHU0xpcUc2NGlUTFY4OUFGR2laaWVhTWZSNndoZUtiYmtKbW9leHRLVEdJd2RETVpJOWYyZHdlNTE1S1g4cWExTG82Q1FmYkRRWWZZMVZIbEZmTWZ5Wllndw?oc=5)
+
+---
 
 ### [曾被當沒用器官！研究指切除後死亡率較高 還與癌症風險相關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zVGMzbE9ZNXpBWUIxTGtkaGVmOHRGRGtjazdWZ2Z0MEpnMXZuT2xBamMwMVQyUlNydUVra2lYRW1MS19WUWk3REdRcmVrUURKVVBvRFRNa3VoUFVoU3VCZlpna2fSAWpBVV95cUxOT0tUUU9Yc25ROEQwdkVlX3J6NXBlTGdEOGdaalQ3UjgyVmpGN0RMeExfR0U2aUItcXpYVGRJNFVVM2JCNmVvQ0lLR1lnQ3I1MVJiTWVUNEk0R1l2cmlRdGo2OXctWFJpRXN3?oc=5)
 
