@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-06T10:57:46.871244+00:00",
-  "count": 6,
+  "generated": "2026-05-06T12:26:03.171320+00:00",
+  "count": 5,
   "news": [
     {
       "id": "a65caa1cdb30",
@@ -466,13 +466,37 @@
       ]
     },
     {
-      "id": "1968336b1730",
-      "title": "新研究揭示類風濕性關節炎骨破壞機制：鐵質過載與脂質代謝關聯",
-      "published": "2026-05-04T14:24:04+00:00",
+      "id": "e8a9b5670e1b",
+      "title": "世界氣喘日提醒：別忽略呼吸道病毒！成人RSV可能讓氣喘突然惡化- 健康",
+      "published": "2026-05-05T01:00:30+00:00",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQTWpUR0d4M1FKOGUwbkItbVd2NjZrRnoySWROcXhWZm5MNTQtdmNXN3FWVG01dklWUUtyQ1M3d2tTd2JFdmlQZGl6Rjg3VTY4bHQtS2RkT2padXFtcm1raXcyYUtGTEMwS3hWTnJ1UjUwNlVUeEFCWFJXTWlJdkNtU3F6VGItMWNLSUo1SldCcXFjR0dnTmsxVHptT1R5YTh2ZVQ3bE1DVjk1LVpBbjZoZTlOaDlGU2ZsX00yNlh1a2RYZ1BxNmhrZ0hQb1JBMHpUVlludUtoQW9aczZPZ0pTZ2szdF83djRpczlsTDRldUNzbHYyajhJZXd4cmRQckRoZm50cGx5eGhrRGR3Q01YVjlYMDZ3ejNZQkt0bmRQSGpmdkNPajJtSi1FdzlkSDltbHJNSy16a2U4TlRrQkk1ODNhdTFaQlV4Y05F?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OU1p1dW4zRUN1SlFJOWg5aF9PdWpRN0JYN3lkNElUS2JDcVFyQ09kX1l3RWs0WXVWYkdvSmFnNlY1a3dZMEtlb3ZJQWpwQ2hPRGR3VzVoY0cwc2FoLU5tclVCTjBXSHJKYm9DMnRn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "氣喘",
+          "keyword": "氣喘",
+          "related_drugs": [
+            {
+              "slug": "dupilumab",
+              "name": "Dupilumab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e8faf1ffd887",
+      "title": "新研究揭示類風濕性關節炎骨破壞機制：鐵質過載與脂質代謝關聯",
+      "published": "2026-05-04T14:24:00+00:00",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtVVMtOGN2a2FEdGVrNlBCVjFaMkl3cjBza2QyZmtNc3B0VDduZGlBdGVSb2pScDl1eGVrVnNHZllZT3RBS0RPRFlBRHpTNTBxdWc?oc=5"
         }
       ],
       "keywords": [
@@ -561,286 +585,6 @@
             {
               "slug": "prednisone",
               "name": "Prednisone"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c40ae8ce745c",
-      "title": "米爾肯研究院報告：癌症防治投資不足 預防與早期診斷效益高",
-      "published": "2026-05-04T11:14:00+00:00",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1aNXNUY05FVTZVcGJmN0dGXzh3T1d5bzZ1c1FodGFCbUZIRTkybmRPVFd3NEcwc3A2TVE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a00aef3c4dc4",
-      "title": "駝背死亡風險暴增2倍！極易患糖尿病+心臟病！醫生警告：大腦出問題！教6招1分鐘簡單自救法 - UHK 港生活",
-      "published": "2026-05-04T10:39:55+00:00",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxNM0cyeEtmdndIdGFXZ3FFTlNEVWFBQnlXeUdtLUc1WGh4eEM4RVVZRl9uZk9JcEhCSEZOaGFYaHVBejFUb0FDWGVmbWdlYU1vWXJCN2ZQUTB0cXo1QnVWNUF1T29VWWRpb2N6YVJWNWI4UVJHVUpuZ1RSRGxQYjdUMnFhdWYwYXRiSi01dkhGMjNRVmY4SzFlc3hSS21vVWRmR2F1RU1CNlNiOUJhcm9jTkwzR1VNaWlTLThmQ2M5LXhyOXF2Ym5uYzlYRmV1WnNYbUNzVVlQTV90clBXR3N3MV85RkdDSVpHNmswaDlXXzZvYlVCTktyU1Z4bkM0QkZsOTluZ2lDRUlOUm5DMVFHSzVyVTlSRURuTlp6ZGR2STdHTGZzWl83RW9xTGxZX1lYaF9xNU5rc3c5WjRrM0s1bjFabk1CelU4QUE4Zng1Z201QjhUS0RMWGJ0dV9NZXVSTTJSWW5MOWVuOXRMV1pYZ0hYa29Nb3dNMzBtQnBRUU9iVEkzcjBkeW16b185WHRyMVpXYkZaMW1weGY2MVB0Q0lMeFZQUFZQcm5MRko2bXJJVWFjUnJXWDdFRmJWMzlYaGV6SWdJLXNHeU5fa3ZaT2xMUlNiRThvdlV2VUV5eWxZOHBpelhpVHoza2RKSTlDLXBrbFpuMF9VcEJHVE1JS2xxWkxMRXNHa3d6OExyaDExb3hnN3VYMjZhd3FITzczalhieg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
             }
           ]
         }

@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [健康網》優格吃錯反而是負擔 醫教選擇3大原則避開地雷](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aaDRudUxjeXdfSDVERzI4TFl4N2N1Z04xTVVvLTZnMVZZT0pNQ3dLdmV0MlJwMkZJcnh1Z0RQT1NIVk5Qa3psQmpYemwzLW9kSDdUU25ZOG9uazhtWVdKOHFmdV_SAWpBVV95cUxNbUtFQ1lBTnEtcFFyazZGY25OVWZ5c1F0ZGhKMnRkVHAyb1dvNWNoUWtrTDY4MHdkYW1xanhpNjZ2T082R1ZfZmZsUDJ0djhiRGNaV1paOHNRa3dqeEJNOEN6Qll6VV9Ucmx3?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/carboplatin/
 2026-05-05 <span class="news-indication-tag">腫瘤</span>
 
 來源：[幸福熟齡](https://news.google.com/rss/articles/CBMie0FVX3lxTE5uQUc0N3RoM21nZWh5VFRUZU95OXUxaW13TzZpcV9FSVFHb1p3MUhnS1M2MlVGTWlwVUhjMGU5bGRjMlZaajlfQXdGWW9DTnRadlVhUjFsN2FHSDdoV2oxT2g5WXpiWTNxeXVnSVBlU2p0dVpTaVgwNjZfNA?oc=5)
-
----
-
-### [米爾肯研究院報告：癌症防治投資不足 預防與早期診斷效益高](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1aNXNUY05FVTZVcGJmN0dGXzh3T1d5bzZ1c1FodGFCbUZIRTkybmRPVFd3NEcwc3A2TVE?oc=5)
-
-2026-05-04 <span class="news-indication-tag">癌症</span>
-
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1aNXNUY05FVTZVcGJmN0dGXzh3T1d5bzZ1c1FodGFCbUZIRTkybmRPVFd3NEcwc3A2TVE?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,7 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [曾被當沒用器官！研究指切除後死亡率較高 還與癌症風險相關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zVGMzbE9ZNXpBWUIxTGtkaGVmOHRGRGtjazdWZ2Z0MEpnMXZuT2xBamMwMVQyUlNydUVra2lYRW1MS19WUWk3REdRcmVrUURKVVBvRFRNa3VoUFVoU3VCZlpna2fSAWpBVV95cUxOT0tUUU9Yc25ROEQwdkVlX3J6NXBlTGdEOGdaalQ3UjgyVmpGN0RMeExfR0U2aUItcXpYVGRJNFVVM2JCNmVvQ0lLR1lnQ3I1MVJiTWVUNEk0R1l2cmlRdGo2OXctWFJpRXN3?oc=5)
 
@@ -90,14 +90,6 @@ permalink: /news/generic-cancer/
 2026-05-05
 
 來源：[幸福熟齡](https://news.google.com/rss/articles/CBMie0FVX3lxTE5uQUc0N3RoM21nZWh5VFRUZU95OXUxaW13TzZpcV9FSVFHb1p3MUhnS1M2MlVGTWlwVUhjMGU5bGRjMlZaajlfQXdGWW9DTnRadlVhUjFsN2FHSDdoV2oxT2g5WXpiWTNxeXVnSVBlU2p0dVpTaVgwNjZfNA?oc=5)
-
----
-
-### [米爾肯研究院報告：癌症防治投資不足 預防與早期診斷效益高](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1aNXNUY05FVTZVcGJmN0dGXzh3T1d5bzZ1c1FodGFCbUZIRTkybmRPVFd3NEcwc3A2TVE?oc=5)
-
-2026-05-04
-
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1aNXNUY05FVTZVcGJmN0dGXzh3T1d5bzZ1c1FodGFCbUZIRTkybmRPVFd3NEcwc3A2TVE?oc=5)
 
 ---
 

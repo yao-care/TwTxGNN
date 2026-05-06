@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
 ### [曾被當沒用器官！研究指切除後死亡率較高 還與癌症風險相關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zVGMzbE9ZNXpBWUIxTGtkaGVmOHRGRGtjazdWZ2Z0MEpnMXZuT2xBamMwMVQyUlNydUVra2lYRW1MS19WUWk3REdRcmVrUURKVVBvRFRNa3VoUFVoU3VCZlpna2fSAWpBVV95cUxOT0tUUU9Yc25ROEQwdkVlX3J6NXBlTGdEOGdaalQ3UjgyVmpGN0RMeExfR0U2aUItcXpYVGRJNFVVM2JCNmVvQ0lLR1lnQ3I1MVJiTWVUNEk0R1l2cmlRdGo2OXctWFJpRXN3?oc=5)
 
@@ -57,22 +57,6 @@ permalink: /news/metoprolol/
 2026-05-05 <span class="news-indication-tag">腫瘤</span>
 
 來源：[幸福熟齡](https://news.google.com/rss/articles/CBMie0FVX3lxTE5uQUc0N3RoM21nZWh5VFRUZU95OXUxaW13TzZpcV9FSVFHb1p3MUhnS1M2MlVGTWlwVUhjMGU5bGRjMlZaajlfQXdGWW9DTnRadlVhUjFsN2FHSDdoV2oxT2g5WXpiWTNxeXVnSVBlU2p0dVpTaVgwNjZfNA?oc=5)
-
----
-
-### [米爾肯研究院報告：癌症防治投資不足 預防與早期診斷效益高](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1aNXNUY05FVTZVcGJmN0dGXzh3T1d5bzZ1c1FodGFCbUZIRTkybmRPVFd3NEcwc3A2TVE?oc=5)
-
-2026-05-04 <span class="news-indication-tag">癌症</span>
-
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1aNXNUY05FVTZVcGJmN0dGXzh3T1d5bzZ1c1FodGFCbUZIRTkybmRPVFd3NEcwc3A2TVE?oc=5)
-
----
-
-### [駝背死亡風險暴增2倍！極易患糖尿病+心臟病！醫生警告：大腦出問題！教6招1分鐘簡單自救法 - UHK 港生活](https://news.google.com/rss/articles/CBMipARBVV95cUxNM0cyeEtmdndIdGFXZ3FFTlNEVWFBQnlXeUdtLUc1WGh4eEM4RVVZRl9uZk9JcEhCSEZOaGFYaHVBejFUb0FDWGVmbWdlYU1vWXJCN2ZQUTB0cXo1QnVWNUF1T29VWWRpb2N6YVJWNWI4UVJHVUpuZ1RSRGxQYjdUMnFhdWYwYXRiSi01dkhGMjNRVmY4SzFlc3hSS21vVWRmR2F1RU1CNlNiOUJhcm9jTkwzR1VNaWlTLThmQ2M5LXhyOXF2Ym5uYzlYRmV1WnNYbUNzVVlQTV90clBXR3N3MV85RkdDSVpHNmswaDlXXzZvYlVCTktyU1Z4bkM0QkZsOTluZ2lDRUlOUm5DMVFHSzVyVTlSRURuTlp6ZGR2STdHTGZzWl83RW9xTGxZX1lYaF9xNU5rc3c5WjRrM0s1bjFabk1CelU4QUE4Zng1Z201QjhUS0RMWGJ0dV9NZXVSTTJSWW5MOWVuOXRMV1pYZ0hYa29Nb3dNMzBtQnBRUU9iVEkzcjBkeW16b185WHRyMVpXYkZaMW1weGY2MVB0Q0lMeFZQUFZQcm5MRko2bXJJVWFjUnJXWDdFRmJWMzlYaGV6SWdJLXNHeU5fa3ZaT2xMUlNiRThvdlV2VUV5eWxZOHBpelhpVHoza2RKSTlDLXBrbFpuMF9VcEJHVE1JS2xxWkxMRXNHa3d6OExyaDExb3hnN3VYMjZhd3FITzczalhieg?oc=5)
-
-2026-05-04 <span class="news-indication-tag">心臟病</span>
-
-來源：[UHK 港生活](https://news.google.com/rss/articles/CBMipARBVV95cUxNM0cyeEtmdndIdGFXZ3FFTlNEVWFBQnlXeUdtLUc1WGh4eEM4RVVZRl9uZk9JcEhCSEZOaGFYaHVBejFUb0FDWGVmbWdlYU1vWXJCN2ZQUTB0cXo1QnVWNUF1T29VWWRpb2N6YVJWNWI4UVJHVUpuZ1RSRGxQYjdUMnFhdWYwYXRiSi01dkhGMjNRVmY4SzFlc3hSS21vVWRmR2F1RU1CNlNiOUJhcm9jTkwzR1VNaWlTLThmQ2M5LXhyOXF2Ym5uYzlYRmV1WnNYbUNzVVlQTV90clBXR3N3MV85RkdDSVpHNmswaDlXXzZvYlVCTktyU1Z4bkM0QkZsOTluZ2lDRUlOUm5DMVFHSzVyVTlSRURuTlp6ZGR2STdHTGZzWl83RW9xTGxZX1lYaF9xNU5rc3c5WjRrM0s1bjFabk1CelU4QUE4Zng1Z201QjhUS0RMWGJ0dV9NZXVSTTJSWW5MOWVuOXRMV1pYZ0hYa29Nb3dNMzBtQnBRUU9iVEkzcjBkeW16b185WHRyMVpXYkZaMW1weGY2MVB0Q0lMeFZQUFZQcm5MRko2bXJJVWFjUnJXWDdFRmJWMzlYaGV6SWdJLXNHeU5fa3ZaT2xMUlNiRThvdlV2VUV5eWxZOHBpelhpVHoza2RKSTlDLXBrbFpuMF9VcEJHVE1JS2xxWkxMRXNHa3d6OExyaDExb3hnN3VYMjZhd3FITzczalhieg?oc=5)
 
 ---
 

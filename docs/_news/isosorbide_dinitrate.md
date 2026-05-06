@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [駝背死亡風險暴增2倍！極易患糖尿病+心臟病！醫生警告：大腦出問題！教6招1分鐘簡單自救法 - UHK 港生活](https://news.google.com/rss/articles/CBMipARBVV95cUxNM0cyeEtmdndIdGFXZ3FFTlNEVWFBQnlXeUdtLUc1WGh4eEM4RVVZRl9uZk9JcEhCSEZOaGFYaHVBejFUb0FDWGVmbWdlYU1vWXJCN2ZQUTB0cXo1QnVWNUF1T29VWWRpb2N6YVJWNWI4UVJHVUpuZ1RSRGxQYjdUMnFhdWYwYXRiSi01dkhGMjNRVmY4SzFlc3hSS21vVWRmR2F1RU1CNlNiOUJhcm9jTkwzR1VNaWlTLThmQ2M5LXhyOXF2Ym5uYzlYRmV1WnNYbUNzVVlQTV90clBXR3N3MV85RkdDSVpHNmswaDlXXzZvYlVCTktyU1Z4bkM0QkZsOTluZ2lDRUlOUm5DMVFHSzVyVTlSRURuTlp6ZGR2STdHTGZzWl83RW9xTGxZX1lYaF9xNU5rc3c5WjRrM0s1bjFabk1CelU4QUE4Zng1Z201QjhUS0RMWGJ0dV9NZXVSTTJSWW5MOWVuOXRMV1pYZ0hYa29Nb3dNMzBtQnBRUU9iVEkzcjBkeW16b185WHRyMVpXYkZaMW1weGY2MVB0Q0lMeFZQUFZQcm5MRko2bXJJVWFjUnJXWDdFRmJWMzlYaGV6SWdJLXNHeU5fa3ZaT2xMUlNiRThvdlV2VUV5eWxZOHBpelhpVHoza2RKSTlDLXBrbFpuMF9VcEJHVE1JS2xxWkxMRXNHa3d6OExyaDExb3hnN3VYMjZhd3FITzczalhieg?oc=5)
-
-2026-05-04 <span class="news-indication-tag">心臟病</span>
-
-來源：[UHK 港生活](https://news.google.com/rss/articles/CBMipARBVV95cUxNM0cyeEtmdndIdGFXZ3FFTlNEVWFBQnlXeUdtLUc1WGh4eEM4RVVZRl9uZk9JcEhCSEZOaGFYaHVBejFUb0FDWGVmbWdlYU1vWXJCN2ZQUTB0cXo1QnVWNUF1T29VWWRpb2N6YVJWNWI4UVJHVUpuZ1RSRGxQYjdUMnFhdWYwYXRiSi01dkhGMjNRVmY4SzFlc3hSS21vVWRmR2F1RU1CNlNiOUJhcm9jTkwzR1VNaWlTLThmQ2M5LXhyOXF2Ym5uYzlYRmV1WnNYbUNzVVlQTV90clBXR3N3MV85RkdDSVpHNmswaDlXXzZvYlVCTktyU1Z4bkM0QkZsOTluZ2lDRUlOUm5DMVFHSzVyVTlSRURuTlp6ZGR2STdHTGZzWl83RW9xTGxZX1lYaF9xNU5rc3c5WjRrM0s1bjFabk1CelU4QUE4Zng1Z201QjhUS0RMWGJ0dV9NZXVSTTJSWW5MOWVuOXRMV1pYZ0hYa29Nb3dNMzBtQnBRUU9iVEkzcjBkeW16b185WHRyMVpXYkZaMW1weGY2MVB0Q0lMeFZQUFZQcm5MRko2bXJJVWFjUnJXWDdFRmJWMzlYaGV6SWdJLXNHeU5fa3ZaT2xMUlNiRThvdlV2VUV5eWxZOHBpelhpVHoza2RKSTlDLXBrbFpuMF9VcEJHVE1JS2xxWkxMRXNHa3d6OExyaDExb3hnN3VYMjZhd3FITzczalhieg?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
