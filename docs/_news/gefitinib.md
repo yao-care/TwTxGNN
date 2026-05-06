@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [曾被當沒用器官！研究指切除後死亡率較高 還與癌症風險相關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zVGMzbE9ZNXpBWUIxTGtkaGVmOHRGRGtjazdWZ2Z0MEpnMXZuT2xBamMwMVQyUlNydUVra2lYRW1MS19WUWk3REdRcmVrUURKVVBvRFRNa3VoUFVoU3VCZlpna2fSAWpBVV95cUxOT0tUUU9Yc25ROEQwdkVlX3J6NXBlTGdEOGdaalQ3UjgyVmpGN0RMeExfR0U2aUItcXpYVGRJNFVVM2JCNmVvQ0lLR1lnQ3I1MVJiTWVUNEk0R1l2cmlRdGo2OXctWFJpRXN3?oc=5)
 
@@ -80,14 +80,6 @@ permalink: /news/gefitinib/
 2026-05-04 <span class="news-indication-tag">癌症</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FSTJPcHRNNE96YlpPQ05nZjY5WG5HbEVRU3FpaUdIOXpmWkNCR0ZFemxQTlRQSDZRRlNZU1NWUXZrUUFibDBEM1NpVlNQSzRuSFJUanZyZzN6MTVGUzBLOWEyZnrSAWpBVV95cUxQajExN0FVamprMDZEZGFLcGlrTTk3TEJrQlRnS0htT2Q0LUM3M2I4WEQwVzg3R0ZGdUxkUGVJUXA3RWhqcnJxamJaM05tX2lOZF9adVFkRFFsaS1xb3lJS0JObElucDhCYlh3?oc=5)
-
----
-
-### [49歲媽居然忘記小孩名字「以為罹失智快崩潰」七年後才檢出真正病因](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZOTRpSGp1YkxMTkV5eTJCY3I4MF9zZGFWbV82MGM0dGhXSDlRT0g4QVh5VEtTNXYzcmVCTU03cFdiWkptU1NZeWtaU3VIdEtMSFNfWjdrMVl3cjNY0gFiQVVfeXFMTVNfemtlZkg2X2dIdWs2WFdDODc3ZVUzOWlOQ25wN24yNGJlMW1rdzBJYkh5SkxoejBVOWg4MGhHQ3B1WkhqQTUzZXB0aTZHS1ltWXNPdUpQc2Nmemt5SXpaeEE?oc=5)
-
-2026-05-04 <span class="news-indication-tag">失智</span>
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZOTRpSGp1YkxMTkV5eTJCY3I4MF9zZGFWbV82MGM0dGhXSDlRT0g4QVh5VEtTNXYzcmVCTU03cFdiWkptU1NZeWtaU3VIdEtMSFNfWjdrMVl3cjNY0gFiQVVfeXFMTVNfemtlZkg2X2dIdWs2WFdDODc3ZVUzOWlOQ25wN24yNGJlMW1rdzBJYkh5SkxoejBVOWg4MGhHQ3B1WkhqQTUzZXB0aTZHS1ltWXNPdUpQc2Nmemt5SXpaeEE?oc=5)
 
 ---
 

@@ -1,8 +1,20 @@
 {
   "source": "tzuchi_chiayi",
-  "fetched_at": "2026-05-05T23:40:48.332871+00:00",
+  "fetched_at": "2026-05-06T02:00:51.167331+00:00",
   "count": 6,
   "news": [
+    {
+      "id": "554d4b56a4a9",
+      "title": "膿皰遍佈全⾝疼痛難眠  ⼤林慈濟醫院精準治療助患者重拾⽣活品質",
+      "published": "2026-05-06T00:00:00+00:00",
+      "summary": "",
+      "sources": [
+        {
+          "name": "嘉義慈濟醫院",
+          "link": "https://chiayi.tzuchi-healthcare.org.tw/index.php/zui-xin-xiao-xi/jian-kang-wei-jiao-4/nong-pao-bian-bu-quan-shen-teng-tong-nan-mian-da-lin-ci-ji-yi-yuan-jing-zhun-zhi-liao-zhu-huan-zhe-zhong-shi-sheng-huo-pin-zhi"
+        }
+      ]
+    },
     {
       "id": "b90b40f8055e",
       "title": "嘉義慈濟與脊損中心攜手 用金縷樹轉動生命美學",
@@ -60,18 +72,6 @@
         {
           "name": "嘉義慈濟醫院",
           "link": "https://chiayi.tzuchi-healthcare.org.tw/index.php/zui-xin-xiao-xi/jian-kang-wei-jiao-4/ai-bian-qing-xin-jiu-gu-zhe-da-lin-ci-yuan-yu-yun-ke-da-gong-deng-guo-ji-qi-kan"
-        }
-      ]
-    },
-    {
-      "id": "07415d52b0d7",
-      "title": "骨科江晏昇醫師、復健科朱思潔物理治療師｜自行車手重摔險癱！頸椎椎間盤突出 肩膀脫臼 骨折的治療重生路",
-      "published": "2025-05-06T00:00:00+00:00",
-      "summary": "",
-      "sources": [
-        {
-          "name": "嘉義慈濟醫院",
-          "link": "https://chiayi.tzuchi-healthcare.org.tw/index.php/zui-xin-xiao-xi/jian-kang-wei-jiao-4/gu-ke-jiang-yan-sheng-yi-shi-fu-jian-ke-zhu-si-jie-wu-li-zhi-liao-shi-zi-xing-che-shou-zhong-shuai-xian-tan-jing-chui-chui-jian-pan-tu-chu-jian-bang-tuo-jiu-gu-zhe-de-zhi-liao-zhong-sheng-lu"
         }
       ]
     }

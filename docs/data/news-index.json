@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-05T23:40:48.492292+00:00",
-  "count": 9,
+  "generated": "2026-05-06T02:00:51.321733+00:00",
+  "count": 8,
   "news": [
     {
       "id": "a65caa1cdb30",
@@ -1291,30 +1291,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8e01704b7c57",
-      "title": "49歲媽居然忘記小孩名字「以為罹失智快崩潰」七年後才檢出真正病因",
-      "published": "2026-05-04T00:08:15+00:00",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZOTRpSGp1YkxMTkV5eTJCY3I4MF9zZGFWbV82MGM0dGhXSDlRT0g4QVh5VEtTNXYzcmVCTU03cFdiWkptU1NZeWtaU3VIdEtMSFNfWjdrMVl3cjNY0gFiQVVfeXFMTVNfemtlZkg2X2dIdWs2WFdDODc3ZVUzOWlOQ25wN24yNGJlMW1rdzBJYkh5SkxoejBVOWg4MGhHQ3B1WkhqQTUzZXB0aTZHS1ltWXNPdUpQc2Nmemt5SXpaeEE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
