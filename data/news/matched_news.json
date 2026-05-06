@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-05-06T08:09:14.459276+00:00",
-  "total_count": 23,
-  "matched_count": 7,
+  "last_updated": "2026-05-06T10:57:46.838918+00:00",
+  "total_count": 20,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "350cb273ce19",
+      "title": "不是喝酒、熬夜！英國倫敦帝國學院證實：每週做「這件小事」早死風險飆3倍 - Harper's BAZAAR",
+      "published": "2026-05-06T10:13:33+00:00",
+      "summary": "不是喝酒、熬夜！英國倫敦帝國學院證實：每週做「這件小事」早死風險飆3倍&nbsp;&nbsp;Harper's BAZAAR",
+      "sources": [
+        {
+          "name": "Harper's BAZAAR",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS0NQS2xZV19TanEyOWhQOHExSTBWR3BtX3hTaV8yelZDcGptbHJDU19nSzlueDVqT3VPTXAtZmhoZU5UZzFyNUE3S0F6Z0lyS1k5REhVLUE3Sk9FcXMxaXREQUlhdWV6bUtlZmN2ZmVVMmdBUzQxbEl6ZWx4NUFNbXZJaFNDTDB1M3YtNU0wM2lYQVQ3LUpQZC1vSDRETlg1VmpuVG5qemoyVGJ4TmRvblZMcUp6cTZOUTBSZHJReWtWUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "598e2c53ae92",
       "title": "嬰幼兒發高燒出疹不一定是麻疹 可能是玫瑰疹作祟",
@@ -112,19 +125,6 @@
         {
           "name": "Women's Health",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT0kxU0pZR0lBWDhNQUIwY0JhVzRBVmEwSGJKSDlSRjlxX3dmaHkyRmtWLS12QlI3YXd4aEFhVE1WYVFNejRBS2t0dHI5TW90RlRucW1GN2xMUlZYV09ZLXh4amtEQk1Lc0pZY1pyNDFhOGNBcUFNWXM3d0ZZdkNWMHVwdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a51aea97f62c",
-      "title": "他去露營後手掌狂長紅斑！醫一看：是「梅毒」",
-      "published": "2026-05-05T07:01:01+00:00",
-      "summary": "他去露營後手掌狂長紅斑！醫一看：是「梅毒」&nbsp;&nbsp;天天上新聞露營後「手冒紅疹1個月」竟驗出梅毒 醫揭真相：號稱「偉大的模仿者」&nbsp;&nbsp;Yahoo新聞健康網》露營後手掌冒紅斑 拖1個月當蟲咬 抽血一驗竟染梅毒&nbsp;&nbsp;自由健康網手掌紅斑以為被咬！年輕男拖1個月 一驗竟是梅毒&nbsp;&nbsp;鏡週刊Mirror Media露營惹性病？男手掌生紅斑以為蟲咬 醫揭竟染二期梅毒附3大特徵&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "天天上新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uRTJ0eFQyVXo3b3dVZE9iQjJZazdTV0UwYVktd0xoQkY2MmNEVDE0cWpJcWVMNTlNeEg2dUZFaDFLWUE0OFNGTXBrVk9wZw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -339,14 +339,14 @@
       ]
     },
     {
-      "id": "14a0d95ebde9",
-      "title": "不是喝酒、不是熬夜！英國倫敦帝國學院證實：每週做「這件小事」早死風險飆3倍！ - Harper's BAZAAR",
-      "published": "2026-05-05T03:58:27+00:00",
-      "summary": "不是喝酒、不是熬夜！英國倫敦帝國學院證實：每週做「這件小事」早死風險飆3倍！&nbsp;&nbsp;Harper's BAZAAR",
+      "id": "2604118bf109",
+      "title": "他去露營後手掌狂長紅斑！醫一看：是「梅毒」",
+      "published": "2026-05-05T05:03:00+00:00",
+      "summary": "他去露營後手掌狂長紅斑！醫一看：是「梅毒」&nbsp;&nbsp;威傳媒新聞露營後「手冒紅疹1個月」竟驗出梅毒 醫揭真相：號稱「偉大的模仿者」&nbsp;&nbsp;Yahoo新聞健康網》露營後手掌冒紅斑 拖1個月當蟲咬 抽血一驗竟染梅毒&nbsp;&nbsp;自由健康網手掌紅斑以為被咬！年輕男拖1個月 一驗竟是梅毒&nbsp;&nbsp;鏡週刊Mirror Media露營惹性病？男手掌生紅斑以為蟲咬 醫揭竟染二期梅毒附3大特徵&nbsp;&nbsp;UHK 港生活",
       "sources": [
         {
-          "name": "Harper's BAZAAR",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS0NQS2xZV19TanEyOWhQOHExSTBWR3BtX3hTaV8yelZDcGptbHJDU19nSzlueDVqT3VPTXAtZmhoZU5UZzFyNUE3S0F6Z0lyS1k5REhVLUE3Sk9FcXMxaXREQUlhdWV6bUtlZmN2ZmVVMmdBUzQxbEl6ZWx4NUFNbXZJaFNDTDB1M3YtNU0wM2lYQVQ3LUpQZC1vSDRETlg1VmpuVG5qemoyVGJ4TmRvblZMcUp6cTZOUTBSZHJReWtWUQ?oc=5"
+          "name": "威傳媒新聞",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41cV9xaUpiNDU4M1dSZ3dBQlk2R2ZrVDh3MmdVd1RXN3BSTlJXQnVBdDdTNXpSMDV6OGZzZllTeGVnLXUzZV80b0FB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1023,10 +1023,10 @@
       ]
     },
     {
-      "id": "c3395aa4050f",
-      "title": "明明很舒服卻崩潰大哭？科學揭秘「性高潮憂鬱症候群」",
+      "id": "08f4e5844621",
+      "title": "明明很舒服卻崩潰大哭？原來真的有「高潮後憂鬱」，男女都可能發生",
       "published": "2026-05-04T10:12:00+00:00",
-      "summary": "明明很舒服卻崩潰大哭？科學揭秘「性高潮憂鬱症候群」&nbsp;&nbsp;造咖",
+      "summary": "明明很舒服卻崩潰大哭？原來真的有「高潮後憂鬱」，男女都可能發生&nbsp;&nbsp;造咖",
       "sources": [
         {
           "name": "造咖",
@@ -1034,275 +1034,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "f0095977025f",
-      "title": "40歲以後每週做愛達到「這次數」外表年輕7歲！",
-      "published": "2026-05-04T09:38:00+00:00",
-      "summary": "40歲以後每週做愛達到「這次數」外表年輕7歲！&nbsp;&nbsp;東森新聞",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOS0xZcHBLMV83VnFfYUVmMTdjSkVjRVBCZmxnN1VfRGp1Ni1sR19OX0t4dkY0TnJRdnhRenpMN21xU2dFcjYtb1RuZ05xYUlkR2FSOA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7a0afa0b4f5e",
-      "title": "糖尿病不只傷眼腎 研究揭：糖友「看不清」恐與認知退化有關",
-      "published": "2026-05-04T08:20:54+00:00",
-      "summary": "糖尿病不只傷眼腎 研究揭：糖友「看不清」恐與認知退化有關&nbsp;&nbsp;草根影響力新視野",
-      "sources": [
-        {
-          "name": "草根影響力新視野",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNc0w3UXBGRFVyeDg4aERQTnJNQkZxOEl3NGxGODhiQWc1OXg5SU9hNGNEZjdlS0tzYTRlT2ZfNnB5djRHUXUtZ20zVTNyUlJCcWdJempONkRseFNVQXhsZnZIMzNWY1FCUWVKZFA3WnNuMC1tVE9DRndTUmZhWUZXQ1lBTms1OF9ULVVqMmNnZFByT2R0NEtoT3Q2UlhNVmNYaHRvWjJ5MDZsbG9zbDU1cnVOaTZ6NTd2dHpSU0RCTWF3OWhjRUlleHpZSDZ5ZzQ2dEJuWk5TTlYzbF8yNS0xTThpQzhRaDV6bEM5MVItd0JaTEw3VnI5SWtZcVQtWC15bm1JY3RrMHpIeE93d2JmX3FKQmczbWY3eXJIenBtdmxwY2NqN2VoRW41c0FlODJnaGdISko4WTBQU2Z2RFIzakdPVlVwWEk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6e88af9a090d",
-      "title": "這11種癌症在年輕人中增加，科學家首次找到原因線索 - TNL The News Lens 關鍵評論網",
-      "published": "2026-05-04T08:00:00+00:00",
-      "summary": "這11種癌症在年輕人中增加，科學家首次找到原因線索&nbsp;&nbsp;TNL The News Lens 關鍵評論網年輕大腸癌患者持續攀升！醫揭「童年腸道菌」埋致癌伏筆&nbsp;&nbsp;Yahoo新聞健康網》大腸癌不是突然來！醫揭腸道毒素不痛不癢卻傷DNA&nbsp;&nbsp;自由健康網癌症為何開始攻擊年輕人？英國研究：11種癌症發病率激增，「體重超標」是關鍵殺手| BBC News 中文 | 新聞&nbsp;&nbsp;風傳媒排除吸菸、肥胖因素！研究發現「除草劑」與50歲以下大腸癌發病率疑正相關&nbsp;&nbsp;倡議家",
-      "sources": [
-        {
-          "name": "TNL The News Lens 關鍵評論網",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3eHBPbl9JSm9yNGk2aFVhMWJnMjNjRGFKM0JWNURwOU1uZTRXOGRvMEVhMmtpUlRuNFhxaDFLNl9rSlNRcnZGTWpLVWN0azZGTU5KVg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

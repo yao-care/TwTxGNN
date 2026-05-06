@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,7 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [曾被當沒用器官！研究指切除後死亡率較高 還與癌症風險相關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zVGMzbE9ZNXpBWUIxTGtkaGVmOHRGRGtjazdWZ2Z0MEpnMXZuT2xBamMwMVQyUlNydUVra2lYRW1MS19WUWk3REdRcmVrUURKVVBvRFRNa3VoUFVoU3VCZlpna2fSAWpBVV95cUxOT0tUUU9Yc25ROEQwdkVlX3J6NXBlTGdEOGdaalQ3UjgyVmpGN0RMeExfR0U2aUItcXpYVGRJNFVVM2JCNmVvQ0lLR1lnQ3I1MVJiTWVUNEk0R1l2cmlRdGo2OXctWFJpRXN3?oc=5)
 
@@ -98,14 +98,6 @@ permalink: /news/generic-cancer/
 2026-05-04
 
 來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1aNXNUY05FVTZVcGJmN0dGXzh3T1d5bzZ1c1FodGFCbUZIRTkybmRPVFd3NEcwc3A2TVE?oc=5)
-
----
-
-### [這11種癌症在年輕人中增加，科學家首次找到原因線索 - TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3eHBPbl9JSm9yNGk2aFVhMWJnMjNjRGFKM0JWNURwOU1uZTRXOGRvMEVhMmtpUlRuNFhxaDFLNl9rSlNRcnZGTWpLVWN0azZGTU5KVg?oc=5)
-
-2026-05-04
-
-來源：[TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3eHBPbl9JSm9yNGk2aFVhMWJnMjNjRGFKM0JWNURwOU1uZTRXOGRvMEVhMmtpUlRuNFhxaDFLNl9rSlNRcnZGTWpLVWN0azZGTU5KVg?oc=5)
 
 ---
 

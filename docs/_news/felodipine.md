@@ -14,7 +14,7 @@ permalink: /news/felodipine/
 ---
 
 <p class="key-answer" data-question="Felodipine 有什麼相關新聞？">
-<strong>Felodipine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Felodipine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/felodipine/
 <p><a href="{{ '/drugs/felodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [曾被當沒用器官！研究指切除後死亡率較高 還與癌症風險相關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zVGMzbE9ZNXpBWUIxTGtkaGVmOHRGRGtjazdWZ2Z0MEpnMXZuT2xBamMwMVQyUlNydUVra2lYRW1MS19WUWk3REdRcmVrUURKVVBvRFRNa3VoUFVoU3VCZlpna2fSAWpBVV95cUxOT0tUUU9Yc25ROEQwdkVlX3J6NXBlTGdEOGdaalQ3UjgyVmpGN0RMeExfR0U2aUItcXpYVGRJNFVVM2JCNmVvQ0lLR1lnQ3I1MVJiTWVUNEk0R1l2cmlRdGo2OXctWFJpRXN3?oc=5)
 
@@ -69,14 +69,6 @@ permalink: /news/felodipine/
 2026-05-04 <span class="news-indication-tag">心臟病</span>
 
 來源：[UHK 港生活](https://news.google.com/rss/articles/CBMipARBVV95cUxNM0cyeEtmdndIdGFXZ3FFTlNEVWFBQnlXeUdtLUc1WGh4eEM4RVVZRl9uZk9JcEhCSEZOaGFYaHVBejFUb0FDWGVmbWdlYU1vWXJCN2ZQUTB0cXo1QnVWNUF1T29VWWRpb2N6YVJWNWI4UVJHVUpuZ1RSRGxQYjdUMnFhdWYwYXRiSi01dkhGMjNRVmY4SzFlc3hSS21vVWRmR2F1RU1CNlNiOUJhcm9jTkwzR1VNaWlTLThmQ2M5LXhyOXF2Ym5uYzlYRmV1WnNYbUNzVVlQTV90clBXR3N3MV85RkdDSVpHNmswaDlXXzZvYlVCTktyU1Z4bkM0QkZsOTluZ2lDRUlOUm5DMVFHSzVyVTlSRURuTlp6ZGR2STdHTGZzWl83RW9xTGxZX1lYaF9xNU5rc3c5WjRrM0s1bjFabk1CelU4QUE4Zng1Z201QjhUS0RMWGJ0dV9NZXVSTTJSWW5MOWVuOXRMV1pYZ0hYa29Nb3dNMzBtQnBRUU9iVEkzcjBkeW16b185WHRyMVpXYkZaMW1weGY2MVB0Q0lMeFZQUFZQcm5MRko2bXJJVWFjUnJXWDdFRmJWMzlYaGV6SWdJLXNHeU5fa3ZaT2xMUlNiRThvdlV2VUV5eWxZOHBpelhpVHoza2RKSTlDLXBrbFpuMF9VcEJHVE1JS2xxWkxMRXNHa3d6OExyaDExb3hnN3VYMjZhd3FITzczalhieg?oc=5)
-
----
-
-### [這11種癌症在年輕人中增加，科學家首次找到原因線索 - TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3eHBPbl9JSm9yNGk2aFVhMWJnMjNjRGFKM0JWNURwOU1uZTRXOGRvMEVhMmtpUlRuNFhxaDFLNl9rSlNRcnZGTWpLVWN0azZGTU5KVg?oc=5)
-
-2026-05-04 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3eHBPbl9JSm9yNGk2aFVhMWJnMjNjRGFKM0JWNURwOU1uZTRXOGRvMEVhMmtpUlRuNFhxaDFLNl9rSlNRcnZGTWpLVWN0azZGTU5KVg?oc=5)
 
 ---
 
