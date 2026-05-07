@@ -34,11 +34,11 @@ permalink: /news/menopause/
 
 ## 相關新聞（1 則）
 
-### [糖友骨鬆性骨折風險上升逾3成！專家籲：落實骨密度檢測，及早啟動「長骨頭計畫」](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GbjFNeWI1UFlDdWM3ZmNPZ1hvOHpIWUU1a0Y4ZDVyZ0E5WFBsc1J4TFBlSlQzN1JLTVR6cDBrMURYeF9aNHg0Zlg1Nk1RdXlrR1VGWm9lOA?oc=5)
+### [健康主題館／長輩骨鬆「摔不起」 一次骨折就恐釀失能](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aVlo2MEJzQ25DemdVNFVNTlQ5b0pveFo4TEVBLVJNcG1MTm5uT2VsTm1ZRjY4eVJIcHlJdEtFa19BQ0lkemlFWEdiOXhFY0x10gFWQVVfeXFMUGtXU1NaWGFWbzJZVlhXalQyVUhXT0VMQ3lra2pMcld3ZmlHVU1ObzB3QTlxem5NdVdrcHoyTmxFQkVncTNvUnlzZHYtbW04aXVSS1VGVmc?oc=5)
 
 2026-05-07
 
-來源：[華人健康網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GbjFNeWI1UFlDdWM3ZmNPZ1hvOHpIWUU1a0Y4ZDVyZ0E5WFBsc1J4TFBlSlQzN1JLTVR6cDBrMURYeF9aNHg0Zlg1Nk1RdXlrR1VGWm9lOA?oc=5)
+來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aVlo2MEJzQ25DemdVNFVNTlQ5b0pveFo4TEVBLVJNcG1MTm5uT2VsTm1ZRjY4eVJIcHlJdEtFa19BQ0lkemlFWEdiOXhFY0x10gFWQVVfeXFMUGtXU1NaWGFWbzJZVlhXalQyVUhXT0VMQ3lra2pMcld3ZmlHVU1ObzB3QTlxem5NdVdrcHoyTmxFQkVncTNvUnlzZHYtbW04aXVSS1VGVmc?oc=5)
 
 ---
 
