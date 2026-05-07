@@ -44,11 +44,11 @@ permalink: /news/nystatin/
 
 ## 相關新聞（1 則）
 
-### [糖友骨鬆性骨折風險上升逾3成！專家籲：落實骨密度檢測，及早啟動「長骨頭計畫」](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZN0Z2TFdWWXZ1QUxrZjUwdnhoZ1VzVTZNMjBEMGRUQm5qOTZuOVEtTkNnZGFnanlZRHpmRm84YzgxcGFWNTNxeS04TGV3amNyeEZRTlp1aw?oc=5)
+### [糖友骨鬆性骨折風險上升逾3成！專家籲：落實骨密度檢測，及早啟動「長骨頭計畫」](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GbjFNeWI1UFlDdWM3ZmNPZ1hvOHpIWUU1a0Y4ZDVyZ0E5WFBsc1J4TFBlSlQzN1JLTVR6cDBrMURYeF9aNHg0Zlg1Nk1RdXlrR1VGWm9lOA?oc=5)
 
 2026-05-07 <span class="news-indication-tag">更年期</span>
 
-來源：[華人健康網](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZN0Z2TFdWWXZ1QUxrZjUwdnhoZ1VzVTZNMjBEMGRUQm5qOTZuOVEtTkNnZGFnanlZRHpmRm84YzgxcGFWNTNxeS04TGV3amNyeEZRTlp1aw?oc=5)
+來源：[華人健康網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GbjFNeWI1UFlDdWM3ZmNPZ1hvOHpIWUU1a0Y4ZDVyZ0E5WFBsc1J4TFBlSlQzN1JLTVR6cDBrMURYeF9aNHg0Zlg1Nk1RdXlrR1VGWm9lOA?oc=5)
 
 ---
 
