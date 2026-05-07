@@ -1,15 +1,15 @@
 {
-  "generated": "2026-05-07T13:30:17.422751+00:00",
+  "generated": "2026-05-07T15:59:56.272756+00:00",
   "count": 3,
   "news": [
     {
-      "id": "7c2f173dc4a6",
-      "title": "骨折即骨鬆警訊！恐掀家庭骨牌效應照護成本年增近百萬母親節別讓媽媽硬撐！中華民國骨質疏鬆症學會、糖尿病衛教學會共同呼籲： 骨頭一斷，生活全亂！及早啟動「長骨頭計畫」",
-      "published": "2026-05-07T07:06:27+00:00",
+      "id": "33f17251b30d",
+      "title": "糖友骨鬆性骨折風險上升逾3成！專家籲：落實骨密度檢測，及早啟動「長骨頭計畫」",
+      "published": "2026-05-07T11:27:52+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxOXzU0SnAxem1tMVNWLThLTW8zTmZLNzFwZVZUTlREYXpQUi1fYmVJY2xwN052ZlZxUU5NTXFvajRnRlNLQUkzc0RsTlFTVW40T0pxLWxJQlVjQ1JfbnlydExCTWlnbC1TUG1aSTQtN3V4bzB0bmFMNW1Ca0xHZUpWVFZtZnNRdThLWkdORWxZR0JyVWxjT3ZNUkJSdWhaWWpZNVZwZ1g3M3J1RWNtU203UXA3ODZJQzlaZG5TaFRIci1XUjJBZ2tmV3lwRExwTDBMNmxaMG9vUmZWYWtCM29QNWgwVmZKQjVNNWtCdTU2OGZIV093TWlCVXk0RTZEUUZDTE94eWlmdF9fU2MxY2JMd3hhUWxRODFVU1dPeGxjWXNQMDNOSDFYX3YwSFpWcnJxNmNleUw3ZXJycWdkckFtUU9HZ3NldnZJeUpWSlNBMXZiMjJpSWlNZTVlQ0U5UEJiNnRiYWdLMmszVnlHM3R1VkF4b1RpYndIWmY0cklXd1RvTDQ0LTRLbGxIZG1lSnY0T1ctQkR0T1hwd1NfRV9iaDNGZ19ycGlnRTN0T3lMak9BSlkxZzZhUXRxZkJoNnFTeEZka2FCZUk1S0JLNjBCc0NyblBnRjMzMlBhd180SVpCM1FTbVp0RC1RMFBSa0t2Qjg3RVllQi1YNG9wbkU1akNubk1fNjdMek1jRmF5TjlMX092UG5qQ3ZYLXcxeUw4Sk44dXByVzdIeVdUZkVNemdSTXFQaHk4MlB1ZzJ3cGZkdnpnZEV2RzJldmFRaThUa1AtaWNkNHNaSGY1UzlnczZOWUNKdUYt?oc=5"
+          "name": "華人健康網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZN0Z2TFdWWXZ1QUxrZjUwdnhoZ1VzVTZNMjBEMGRUQm5qOTZuOVEtTkNnZGFnanlZRHpmRm84YzgxcGFWNTNxeS04TGV3amNyeEZRTlp1aw?oc=5"
         }
       ],
       "keywords": [
@@ -33,21 +33,6 @@
             {
               "slug": "nystatin",
               "name": "Nystatin"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "骨質疏鬆症",
-          "keyword": "骨質疏鬆症",
-          "related_drugs": [
-            {
-              "slug": "alfacalcidol",
-              "name": "Alfacalcidol"
-            },
-            {
-              "slug": "denosumab",
-              "name": "Denosumab"
             }
           ]
         }
