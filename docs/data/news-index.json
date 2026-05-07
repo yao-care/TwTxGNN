@@ -1,7 +1,31 @@
 {
-  "generated": "2026-05-06T23:41:23.693675+00:00",
-  "count": 4,
+  "generated": "2026-05-07T02:03:14.558844+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "31fa605be13a",
+      "title": "尿酸、血糖全失控！醫心梗倒下換吃2物半年逆轉人生- 健康",
+      "published": "2026-05-07T01:23:53+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0RFViUTMwVTVWTmJILUxwX1RyNjlHX19DdC1maVg1YmxBQzZoLUx5ZEZtSlN3V1dfSnBOdGlTSml5eVZ6WWJUMkk5YnFfNHRrWlJtN243c0RMYzVNcEVJdUh5N1FXeVJUNy0wVU9R?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "f6d5576fa85d",
       "title": "健康網》張曼娟母親踏進健身房後變了 醫曝失智緩解",
@@ -41,29 +65,6 @@
           "type": "indication",
           "name": "menopause",
           "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "停經",
-          "keyword": "停經",
           "related_drugs": [
             {
               "slug": "tinidazole",
@@ -294,24 +295,47 @@
       ]
     },
     {
-      "id": "e8a9b5670e1b",
-      "title": "世界氣喘日提醒：別忽略呼吸道病毒！成人RSV可能讓氣喘突然惡化- 健康",
-      "published": "2026-05-05T01:00:30+00:00",
+      "id": "6f9b50883031",
+      "title": "慎入！7旬翁揪出「8公分大腸病灶」急切除 醫曝大腸癌機率：1情況快檢查",
+      "published": "2026-05-05T04:12:27+00:00",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OU1p1dW4zRUN1SlFJOWg5aF9PdWpRN0JYN3lkNElUS2JDcVFyQ09kX1l3RWs0WXVWYkdvSmFnNlY1a3dZMEtlb3ZJQWpwQ2hPRGR3VzVoY0cwc2FoLU5tclVCTjBXSHJKYm9DMnRn?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNbnNkTVY5MkExLVBULWV6X0J3MUtfQXZBZXFhOWFYQlF0bzV5YnFnU205TDdNTUdBbndTM0s0aGMxZkdJejQydzFqNW5pZUZOaDRSejNwUGhEVl9kUGN0Q1B1UUhBRjl3SXlfbkxRZ0h0TEwwdHNXY3VzVDVZclRMenZQOFNsb2pPcUFrSE5Va3k3RDlRdEs0bnc4dVBmYTFUMW1JS2pXeUJuYks5X0FNay05UGZVRFZrTVVCZ2I0N1c2blBVd3N1cTRjZllnQmRRU3ZJdDN5VU1MblppUWFobExqa2pKLUhwMnFXdUtWaE0zU180NVVYSU1EWGVPOWgzd1VJV1lsOGl3TzR0QVNKb2dmLU5rc3RpdjBCLVhJXzhKYTdnc0tWZkFHbURFVlM1d0xGVWtGRC1Zc3ZqZ1hTbXNpa3VrNnNRNWpMT0pHSEZRcS1vdm5qSkRzVTg0MVZYNTNJ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "氣喘",
-          "keyword": "氣喘",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
           "related_drugs": [
             {
-              "slug": "dupilumab",
-              "name": "Dupilumab"
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }

@@ -1,8 +1,46 @@
 {
-  "last_updated": "2026-05-06T23:41:23.663666+00:00",
-  "total_count": 18,
-  "matched_count": 4,
+  "last_updated": "2026-05-07T02:03:14.525567+00:00",
+  "total_count": 16,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "31fa605be13a",
+      "title": "尿酸、血糖全失控！醫心梗倒下換吃2物半年逆轉人生- 健康",
+      "published": "2026-05-07T01:23:53+00:00",
+      "summary": "尿酸、血糖全失控！醫心梗倒下換吃2物半年逆轉人生- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0RFViUTMwVTVWTmJILUxwX1RyNjlHX19DdC1maVg1YmxBQzZoLUx5ZEZtSlN3V1dfSnBOdGlTSml5eVZ6WWJUMkk5YnFfNHRrWlJtN243c0RMYzVNcEVJdUh5N1FXeVJUNy0wVU9R?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d9d39b32290d",
+      "title": "吳芮醫生看我們與呼吸道感染問題的距離 - 報新聞 Mega News",
+      "published": "2026-05-06T23:41:43+00:00",
+      "summary": "吳芮醫生看我們與呼吸道感染問題的距離&nbsp;&nbsp;報新聞 Mega News",
+      "sources": [
+        {
+          "name": "報新聞 Mega News",
+          "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNOXMyUndnLWd5SUdpdjVaQ1k1LUoyeGlFc2VaUlBsR2w1SVFpR2VBVW1oU3hCT0xoN0JSOFd5R2xpd0RodjVvd2lfWExtb01ST0F2NlFnT0s2cWgxOGN0OEEtdUpTMHNPVWFpQ2JVbWxaeGdjNnlocEJ2NFFuLU84aW8xR1lMOXpsMlFuZUZOZGtPQnI1RlhvMGw0Sno3aVpMTkdYQzVRQWVkVzJuTllSNUppaFNwUXl6Mkk4R05jNFJVc3VqVlo3NHZ4VnEyUG5lekNzRTItb0l2WU5CTV9iWWdweWhWNlJRb2JWTldqTmRsQmxQVW1SWnZoeXYzY25yOGdVWjJyN1FrVUtPZlNCZG5FZ0NmRXBPZWloTU1qdVZsZ1RObEotemNrN2lFZThBVWpvYkNOOA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "350cb273ce19",
       "title": "不是喝酒、熬夜！英國倫敦帝國學院證實：每週做「這件小事」早死風險飆3倍 - Harper's BAZAAR",
@@ -84,7 +122,7 @@
       "id": "3dd687687fab",
       "title": "骨質疏鬆初期無症狀！營養師：女性更年期後流失速度加快",
       "published": "2026-05-06T07:20:09+00:00",
-      "summary": "骨質疏鬆初期無症狀！營養師：女性更年期後流失速度加快&nbsp;&nbsp;Yahoo新聞健康網》變矮、駝背要小心 醫揭更年期後「隱性殺手」&nbsp;&nbsp;自由健康網增強骨密度無需複雜訓練 研究揭每天做1事就有助延緩骨質流失&nbsp;&nbsp;元氣網55歲女輕微撞傷後「呼吸會痛」竟是骨裂 醫提醒「這年齡層」以上要注意&nbsp;&nbsp;知新聞醫師：停經後骨質快速流失 藥物、保健可降風險&nbsp;&nbsp;世界新聞網",
+      "summary": "骨質疏鬆初期無症狀！營養師：女性更年期後流失速度加快&nbsp;&nbsp;Yahoo新聞母親節快樂!媽媽更年期別硬撐！醫曝5大保養關鍵防骨鬆、慢性病&nbsp;&nbsp;Yahoo新聞健康網》變矮、駝背要小心 醫揭更年期後「隱性殺手」&nbsp;&nbsp;自由健康網增強骨密度無需複雜訓練 研究揭每天做1事就有助延緩骨質流失&nbsp;&nbsp;元氣網母親節送健康！營養師揭骨質疏鬆最怕「這幾件事」&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -96,29 +134,6 @@
           "type": "indication",
           "name": "menopause",
           "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "停經",
-          "keyword": "停經",
           "related_drugs": [
             {
               "slug": "tinidazole",
@@ -415,17 +430,52 @@
       ]
     },
     {
-      "id": "256eca5c3df3",
-      "title": "七旬翁免開刀、完整保留腸道功能 新北聯醫成功切除8公分大腸病灶",
-      "published": "2026-05-05T03:45:48+00:00",
-      "summary": "七旬翁免開刀、完整保留腸道功能 新北聯醫成功切除8公分大腸病灶&nbsp;&nbsp;經濟日報",
+      "id": "6f9b50883031",
+      "title": "慎入！7旬翁揪出「8公分大腸病灶」急切除 醫曝大腸癌機率：1情況快檢查",
+      "published": "2026-05-05T04:12:27+00:00",
+      "summary": "慎入！7旬翁揪出「8公分大腸病灶」急切除 醫曝大腸癌機率：1情況快檢查&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LTlFFakF1SG1BY0RqYXozTkUza3BSTG8zQURoNUZIeHJpeXI3TnpGQlVJT1hhMVJrdGI0enB6bmNydkZHZlRVYTZwaTFVRzN6Y3dyanBlOWkwLXYyQzJz0gFfQVVfeXFMT0tOUUVqQXVIbUFjRGphejNORTNrcFJMbzNBRGg1Rkh4cml5cjdOekZCVUlPWGExUmt0YjR6cHpuY3J2RkdmVFVhNnBpMVVHM3pjd3JqcGU5aTAtdjJDMnM?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNbnNkTVY5MkExLVBULWV6X0J3MUtfQXZBZXFhOWFYQlF0bzV5YnFnU205TDdNTUdBbndTM0s0aGMxZkdJejQydzFqNW5pZUZOaDRSejNwUGhEVl9kUGN0Q1B1UUhBRjl3SXlfbkxRZ0h0TEwwdHNXY3VzVDVZclRMenZQOFNsb2pPcUFrSE5Va3k3RDlRdEs0bnc4dVBmYTFUMW1JS2pXeUJuYks5X0FNay05UGZVRFZrTVVCZ2I0N1c2blBVd3N1cTRjZllnQmRRU3ZJdDN5VU1MblppUWFobExqa2pKLUhwMnFXdUtWaE0zU180NVVYSU1EWGVPOWgzd1VJV1lsOGl3TzR0QVNKb2dmLU5rc3RpdjBCLVhJXzhKYTdnc0tWZkFHbURFVlM1d0xGVWtGRC1Zc3ZqZ1hTbXNpa3VrNnNRNWpMT0pHSEZRcS1vdm5qSkRzVTg0MVZYNTNJ?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "7b519378f758",
@@ -436,70 +486,6 @@
         {
           "name": "良醫健康網",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TazgxeEtyOVYybjdYUHJ4R2RlbXRzbzd0aEJqcHJ4UXJiRlViQ3dnSkJSRUtPUzJlOWNfczdJTWtjVmdLcldLQXFFRjVoNlFPaUhKV09Hd2JTTzVfTll3Y2NZVVo1X1FRcXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2531a9f46cfc",
-      "title": "心理健康|每日為揀三餐感選擇困難 小心被「決策疲勞」榨乾意志力",
-      "published": "2026-05-05T01:00:57+00:00",
-      "summary": "心理健康|每日為揀三餐感選擇困難 小心被「決策疲勞」榨乾意志力&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxOMFgta3JCOWdMV0RIYmJpNnFIV2k4cE9vR0pTTW05enJZUld2YUxiTU9RTlJEaWhZMjkxZGQxOXVvY1lHSGdtQ0QyM2ljNmJOU1Q3dGtiNjJqYndFMWxZY05STHNSX2xTNlk2cUdYN0F1MW1VN1JsemROR19IZlpvcEo1SW5LR05NZ1pMbWk3d0VwaVdKMXlTaFlEbjRQdTE1WlprY1o4aHZjajlpay1UN05CRmM5UFF1ZU1fWWU0UUg5VGg4LUxtNkpYbVB1SENUdmdNaUp3Z0ZuQ1R1TnJpYWZGc1ZWVU9BN1FkeDB6UVJ2MzY0MzVpcl9IUHZaRlpFcV96X1AxYlZDNzBsa0trRmRzSkJtLW9CaHFYUVRhQ3F2RGFpTGx1b0M5emJiRHV6dnNCZG9yWXI1Ul8yNzh1bF82ay1BNDJOZDdFMUNMblRSQXlSbzI0cUlkZnZkV3BoZEVCa0MzamRCMEQxTENQaFpTSThhdzBwa29Vd0dEdDRNY1RDNWtLMFNTU0dZbzRmNGoxOTBvcWZkcjF3NkNWV1lIZzVUb2JNemtscQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e8a9b5670e1b",
-      "title": "世界氣喘日提醒：別忽略呼吸道病毒！成人RSV可能讓氣喘突然惡化- 健康",
-      "published": "2026-05-05T01:00:30+00:00",
-      "summary": "世界氣喘日提醒：別忽略呼吸道病毒！成人RSV可能讓氣喘突然惡化- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OU1p1dW4zRUN1SlFJOWg5aF9PdWpRN0JYN3lkNElUS2JDcVFyQ09kX1l3RWs0WXVWYkdvSmFnNlY1a3dZMEtlb3ZJQWpwQ2hPRGR3VzVoY0cwc2FoLU5tclVCTjBXSHJKYm9DMnRn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "氣喘",
-          "keyword": "氣喘",
-          "related_drugs": [
-            {
-              "slug": "dupilumab",
-              "name": "Dupilumab"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "02e5df5f102e",
-      "title": "“為全球公共衛生應急管理貢獻更多中國力量”（新時代中非合作） --新聞報道-中國共產黨新聞網",
-      "published": "2026-05-05T00:13:00+00:00",
-      "summary": "“為全球公共衛生應急管理貢獻更多中國力量”（新時代中非合作） --新聞報道-中國共產黨新聞網&nbsp;&nbsp;中国共产党新闻网",
-      "sources": [
-        {
-          "name": "中国共产党新闻网",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mSEJHQ0E5ZWhabjBWcFowdjU5N3JFd0pfMWpZWDh4TlZDT0hWTktpUDZkRm9aOTlQeWZ6aHdpQy1Bb3N6TUVJMTZFb1A1R3FzUXhaLWNoVXZQaWJDUXgycGVlUHF5UG5GTGtLT3BMbzU?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4d643f73058d",
-      "title": "運動強度或更影響健康！最新研究揭： 每日數分鐘高強度活動可大幅降疾病風險",
-      "published": "2026-05-04T23:00:13+00:00",
-      "summary": "運動強度或更影響健康！最新研究揭： 每日數分鐘高強度活動可大幅降疾病風險&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOcmVTYWdXTUV6LXRmX0lpVkFuVXRQV0dlM0R4aWwxTXk1Uzg2bWZVaWpXUzVHcmtLX2hLTnBxV2c3OExha2kyQnZPWkRFX0pxd3RPaFkwMFB2aHp4RkxyUktjdWFydzIwSUpidUtFRjFmRmQyYVpRV1FGcWk0QjczNjVzaldCbTlISXNzWXJocEk1ZExQNkcyQ1Y4dktBR2ZfQkJHbVpmd2QyWjBfekh3Nk55MEF3eWg1c0d2cDdPNTh3c1Ixb2VlVDMwWmNiMU15eHY5Q2lmZVIyeGstNUc2bXdNU3paMUZQVnVKV3NNY3Z2ejRWWl96SVFQM1lNeUZiZmxPTEJzSXkya0pwREpJdWg4RnpwYWtJLUVnN1hKTEdZZFd6SWpDZ2k5eUFyU1hwRVpkNWt5T3BZNXNPZ2hkX2EtTVRIMExOd25ON2h3dkk0RklkMnU3c0ZuOE9KS2ExbDB5amZFMnV1MTFDUEE?oc=5"
         }
       ],
       "matched_keywords": []
