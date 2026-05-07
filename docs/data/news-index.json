@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T08:17:45.257864+00:00",
-  "count": 5,
+  "generated": "2026-05-07T11:01:56.081800+00:00",
+  "count": 4,
   "news": [
     {
       "id": "7c2f173dc4a6",
@@ -48,64 +48,6 @@
             {
               "slug": "denosumab",
               "name": "Denosumab"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "559c820da6a3",
-      "title": "每3人就有1人脂肪肝！醫師點「1女性族群」最危險：脂肪肝飆2倍",
-      "published": "2026-05-07T03:19:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mY1pZVjdNSkx2dU9Qd1JlTXhwVVZ4aHNtMXptZEVRUlFVUm1CSVBlUnUxaUdTS1paaEJVVGdIVUdCLU5WNXpYaF9FUVItdw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }
@@ -160,13 +102,13 @@
       ]
     },
     {
-      "id": "d4eca094e8d4",
-      "title": "漸進超負荷訓練 鍛煉全身大肌群 - 20260506 - 副刊",
+      "id": "4cea87e4689f",
+      "title": "穩健下半場 「肌」不可失 識食多動 90歲也能增肌 - 20260506 - 副刊",
       "published": "2026-05-05T20:30:00+00:00",
       "sources": [
         {
           "name": "明報新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPd29kMmZLRm1adlBqOGxmenVWa0IwMnlXTG16bWI1Ulk2RDg3UFlYTjZXcU5nZ3JQbDdIaWZuX19reDNBUkxVOEVXUGZUR0FsM2M3Q1g1c0dRNGJDcWxkUGo3elZJTFhUYVQzVTh2eURDcFZyOEZGdU05WGt4b2pOQVpTNGlmLVVLTE5ZRGtYS2NTR3dmd0UyWFlZdUYyaWk2SGd5RHVCQkRFOGpUQ1g0Tzh1ZUMtVHBvVkRoYmV4N3c0ZC13OW42alVIZGtqcnNzZGdTVF8yNFJ1Tmwzd2hvc0NBVlB5UTBQOC1PTmhTTVBYZy1PbkxkVC01Z2szMEJOWjBWWFRROTYzUThOY0RfWlZRN3NPNkNmYUlYaGp6cWlDNEZDaWhiOEpYY2hRSnpRUkFpNDl2Zzg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPc19vNUNBYTJBbWdDVjdEMWtMMlFMZW1LdVlOdFluMHhGajFiRVFqMmtoeHVNV2hrakVtWW03SUpiRkU4ZzhIWTlSenVoRDhLT3RYZ2tRWHhBS3NWNC0tc2FydlJoZlp1Z1hIcm5zRFp1SEJjNWdwZkFIMm5HODFUVmd1Ml9ZaXQ4MTU5bHVhZnFuMWNwdkpSYWU2Z2ZSUnpGR19mOE1sbWpXT0RWVUJPY3N4eTBaaXhINDZXQXZLaTBZZjVpbVFfODRJMG53NC1ONVlGTlROVVFTUVQ5ajFfRE5wWWFMd280SHFOQ0xxcS1jQmhXeXlJUHdBZTVxRHk2Q1NaQkw3cWlVTnZOZnlvNFhvYklqX19KOU0wSmljUDFobzdpZDJFTnBIRzU0MGkwZ1J1UFNmU0dOQzhfNXhiSGMtTGVBX1hOZmpNd3lkLUJ3UGdaRTkwM3drd21LRHh2RHB3MDFhYmtJN01RZWx6VTUzd2tZR0FjdVpsREdxQ1BJZXVBREE?oc=5"
         }
       ],
       "keywords": [
