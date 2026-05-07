@@ -29,7 +29,7 @@ permalink: /news/ouabain/
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>Prinzmetal angina（99.7%）</li>
 <li>hemoglobinopathy（99.5%）</li>
-<li class="indication-matched">myocardial infarction（99.4%）<span class="indication-tag">📰 心梗</span></li>
+<li class="indication-matched">myocardial infarction（99.4%）<span class="indication-tag">📰 心臟病發</span></li>
 <li>thrombotic disease（99.3%）</li>
 <li>hyperthyroidism（99.3%）</li>
 <li>homozygous familial hypercholesterolemia（99.2%）</li>
@@ -44,11 +44,11 @@ permalink: /news/ouabain/
 
 ## 相關新聞（1 則）
 
-### [尿酸、血糖全失控！醫心梗倒下換吃2物半年逆轉人生- 健康](https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0MzTm9HZlZPZDByOUJSZUZWb2wtaU5DTjUxQkN0cGRscjVyTThWSlozWEl5OFplbHNydTRyN2NlcXVaSEhhenk2WWdMZ2gtdFdXdi05eWxsei0weHBjRnE1OUxOVTVoTTZreWZ0aVpJSmI1c0RVZlg0Q0JKQW1KVVBiUjFLRElHdTZTRnEzbw?oc=5)
+### [這種常見的睡眠習慣可能會使心臟病發作的風險加倍。](https://news.google.com/rss/articles/CBMihgNBVV95cUxQaXpCYjJ4NFljVmoxemR3RDBTb3FTTV9EYk9zT2l5VWtPQXZ3MGVTck5rZ0JMVjFZQ0ZNUUkzZmxMeXduTGxOOTU3WTVMS0pYNGxTb0UxcXFoT08xSEFzdVFfS1FJT19feXBhOEdMNmpUVmhYSTVXcGdweWw2eFRIWFpUcTNybHNET3ZsY3hGM2YwdFI4Yjg2OHl6ODc4RGdLdTlmRDhWVkJuNWZ0SWdHdXZLVzlubHFJVjB0OTJPakRzbFkwVmI1VXJmVVdFVWFGYkF5cXVCdFRZVGx4eGZQMy1zVFNaVTQtc2h6R3pEazRrMzQxQWJDdUF6NEh4SjJOejFfeHJEYUMzM0tMSDZPQzJudEJjWERmOUpTdHJSMjMzUzhRd1FlZlNwMUFMUnEzRG5uaUJNdXBGb2lKZ1NMOGxXT3lILTBpTk8xZWlITkZ4V25RdkZWbzVKeE5MYWRoRk5MRnM1eTZBTFI3amxmTWRjdmFSVGZSVTlaNzc3VVhWWGlwWWc?oc=5)
 
-2026-05-07 <span class="news-indication-tag">心梗</span>
+2026-05-07 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span> <span class="news-indication-tag">中風</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0MzTm9HZlZPZDByOUJSZUZWb2wtaU5DTjUxQkN0cGRscjVyTThWSlozWEl5OFplbHNydTRyN2NlcXVaSEhhenk2WWdMZ2gtdFdXdi05eWxsei0weHBjRnE1OUxOVTVoTTZreWZ0aVpJSmI1c0RVZlg0Q0JKQW1KVVBiUjFLRElHdTZTRnEzbw?oc=5)
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihgNBVV95cUxQaXpCYjJ4NFljVmoxemR3RDBTb3FTTV9EYk9zT2l5VWtPQXZ3MGVTck5rZ0JMVjFZQ0ZNUUkzZmxMeXduTGxOOTU3WTVMS0pYNGxTb0UxcXFoT08xSEFzdVFfS1FJT19feXBhOEdMNmpUVmhYSTVXcGdweWw2eFRIWFpUcTNybHNET3ZsY3hGM2YwdFI4Yjg2OHl6ODc4RGdLdTlmRDhWVkJuNWZ0SWdHdXZLVzlubHFJVjB0OTJPakRzbFkwVmI1VXJmVVdFVWFGYkF5cXVCdFRZVGx4eGZQMy1zVFNaVTQtc2h6R3pEazRrMzQxQWJDdUF6NEh4SjJOejFfeHJEYUMzM0tMSDZPQzJudEJjWERmOUpTdHJSMjMzUzhRd1FlZlNwMUFMUnEzRG5uaUJNdXBGb2lKZ1NMOGxXT3lILTBpTk8xZWlITkZ4V25RdkZWbzVKeE5MYWRoRk5MRnM1eTZBTFI3amxmTWRjdmFSVGZSVTlaNzc3VVhWWGlwWWc?oc=5)
 
 ---
 

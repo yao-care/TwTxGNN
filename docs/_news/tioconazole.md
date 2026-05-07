@@ -14,7 +14,7 @@ permalink: /news/tioconazole/
 ---
 
 <p class="key-answer" data-question="Tioconazole 有什麼相關新聞？">
-<strong>Tioconazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Tioconazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,9 @@ permalink: /news/tioconazole/
 <p><a href="{{ '/drugs/tioconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [健康主題館／長輩骨鬆「摔不起」 一次骨折就恐釀失能](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aVlo2MEJzQ25DemdVNFVNTlQ5b0pveFo4TEVBLVJNcG1MTm5uT2VsTm1ZRjY4eVJIcHlJdEtFa19BQ0lkemlFWEdiOXhFY0x10gFWQVVfeXFMUGtXU1NaWGFWbzJZVlhXalQyVUhXT0VMQ3lra2pMcld3ZmlHVU1ObzB3QTlxem5NdVdrcHoyTmxFQkVncTNvUnlzZHYtbW04aXVSS1VGVmc?oc=5)
-
-2026-05-07 <span class="news-indication-tag">更年期</span>
-
-來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aVlo2MEJzQ25DemdVNFVNTlQ5b0pveFo4TEVBLVJNcG1MTm5uT2VsTm1ZRjY4eVJIcHlJdEtFa19BQ0lkemlFWEdiOXhFY0x10gFWQVVfeXFMUGtXU1NaWGFWbzJZVlhXalQyVUhXT0VMQ3lra2pMcld3ZmlHVU1ObzB3QTlxem5NdVdrcHoyTmxFQkVncTNvUnlzZHYtbW04aXVSS1VGVmc?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

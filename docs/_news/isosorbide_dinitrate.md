@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [這種常見的睡眠習慣可能會使心臟病發作的風險加倍。](https://news.google.com/rss/articles/CBMihgNBVV95cUxQaXpCYjJ4NFljVmoxemR3RDBTb3FTTV9EYk9zT2l5VWtPQXZ3MGVTck5rZ0JMVjFZQ0ZNUUkzZmxMeXduTGxOOTU3WTVMS0pYNGxTb0UxcXFoT08xSEFzdVFfS1FJT19feXBhOEdMNmpUVmhYSTVXcGdweWw2eFRIWFpUcTNybHNET3ZsY3hGM2YwdFI4Yjg2OHl6ODc4RGdLdTlmRDhWVkJuNWZ0SWdHdXZLVzlubHFJVjB0OTJPakRzbFkwVmI1VXJmVVdFVWFGYkF5cXVCdFRZVGx4eGZQMy1zVFNaVTQtc2h6R3pEazRrMzQxQWJDdUF6NEh4SjJOejFfeHJEYUMzM0tMSDZPQzJudEJjWERmOUpTdHJSMjMzUzhRd1FlZlNwMUFMUnEzRG5uaUJNdXBGb2lKZ1NMOGxXT3lILTBpTk8xZWlITkZ4V25RdkZWbzVKeE5MYWRoRk5MRnM1eTZBTFI3amxmTWRjdmFSVGZSVTlaNzc3VVhWWGlwWWc?oc=5)
+
+2026-05-07 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span> <span class="news-indication-tag">中風</span>
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihgNBVV95cUxQaXpCYjJ4NFljVmoxemR3RDBTb3FTTV9EYk9zT2l5VWtPQXZ3MGVTck5rZ0JMVjFZQ0ZNUUkzZmxMeXduTGxOOTU3WTVMS0pYNGxTb0UxcXFoT08xSEFzdVFfS1FJT19feXBhOEdMNmpUVmhYSTVXcGdweWw2eFRIWFpUcTNybHNET3ZsY3hGM2YwdFI4Yjg2OHl6ODc4RGdLdTlmRDhWVkJuNWZ0SWdHdXZLVzlubHFJVjB0OTJPakRzbFkwVmI1VXJmVVdFVWFGYkF5cXVCdFRZVGx4eGZQMy1zVFNaVTQtc2h6R3pEazRrMzQxQWJDdUF6NEh4SjJOejFfeHJEYUMzM0tMSDZPQzJudEJjWERmOUpTdHJSMjMzUzhRd1FlZlNwMUFMUnEzRG5uaUJNdXBGb2lKZ1NMOGxXT3lILTBpTk8xZWlITkZ4V25RdkZWbzVKeE5MYWRoRk5MRnM1eTZBTFI3amxmTWRjdmFSVGZSVTlaNzc3VVhWWGlwWWc?oc=5)
+
+---
 
 
 <div class="disclaimer">
