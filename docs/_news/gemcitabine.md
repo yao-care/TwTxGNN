@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [曾被當沒用器官！研究指切除後死亡率較高 還與癌症風險相關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zVGMzbE9ZNXpBWUIxTGtkaGVmOHRGRGtjazdWZ2Z0MEpnMXZuT2xBamMwMVQyUlNydUVra2lYRW1MS19WUWk3REdRcmVrUURKVVBvRFRNa3VoUFVoU3VCZlpna2fSAWpBVV95cUxOT0tUUU9Yc25ROEQwdkVlX3J6NXBlTGdEOGdaalQ3UjgyVmpGN0RMeExfR0U2aUItcXpYVGRJNFVVM2JCNmVvQ0lLR1lnQ3I1MVJiTWVUNEk0R1l2cmlRdGo2OXctWFJpRXN3?oc=5)
 
 2026-05-05 <span class="news-indication-tag">癌症</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zVGMzbE9ZNXpBWUIxTGtkaGVmOHRGRGtjazdWZ2Z0MEpnMXZuT2xBamMwMVQyUlNydUVra2lYRW1MS19WUWk3REdRcmVrUURKVVBvRFRNa3VoUFVoU3VCZlpna2fSAWpBVV95cUxOT0tUUU9Yc25ROEQwdkVlX3J6NXBlTGdEOGdaalQ3UjgyVmpGN0RMeExfR0U2aUItcXpYVGRJNFVVM2JCNmVvQ0lLR1lnQ3I1MVJiTWVUNEk0R1l2cmlRdGo2OXctWFJpRXN3?oc=5)
-
----
-
-### [慎入！7旬翁揪出「8公分大腸病灶」急切除 醫曝大腸癌機率：1情況快檢查](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNbnNkTVY5MkExLVBULWV6X0J3MUtfQXZBZXFhOWFYQlF0bzV5YnFnU205TDdNTUdBbndTM0s0aGMxZkdJejQydzFqNW5pZUZOaDRSejNwUGhEVl9kUGN0Q1B1UUhBRjl3SXlfbkxRZ0h0TEwwdHNXY3VzVDVZclRMenZQOFNsb2pPcUFrSE5Va3k3RDlRdEs0bnc4dVBmYTFUMW1JS2pXeUJuYks5X0FNay05UGZVRFZrTVVCZ2I0N1c2blBVd3N1cTRjZllnQmRRU3ZJdDN5VU1MblppUWFobExqa2pKLUhwMnFXdUtWaE0zU180NVVYSU1EWGVPOWgzd1VJV1lsOGl3TzR0QVNKb2dmLU5rc3RpdjBCLVhJXzhKYTdnc0tWZkFHbURFVlM1d0xGVWtGRC1Zc3ZqZ1hTbXNpa3VrNnNRNWpMT0pHSEZRcS1vdm5qSkRzVTg0MVZYNTNJ?oc=5)
-
-2026-05-05 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNbnNkTVY5MkExLVBULWV6X0J3MUtfQXZBZXFhOWFYQlF0bzV5YnFnU205TDdNTUdBbndTM0s0aGMxZkdJejQydzFqNW5pZUZOaDRSejNwUGhEVl9kUGN0Q1B1UUhBRjl3SXlfbkxRZ0h0TEwwdHNXY3VzVDVZclRMenZQOFNsb2pPcUFrSE5Va3k3RDlRdEs0bnc4dVBmYTFUMW1JS2pXeUJuYks5X0FNay05UGZVRFZrTVVCZ2I0N1c2blBVd3N1cTRjZllnQmRRU3ZJdDN5VU1MblppUWFobExqa2pKLUhwMnFXdUtWaE0zU180NVVYSU1EWGVPOWgzd1VJV1lsOGl3TzR0QVNKb2dmLU5rc3RpdjBCLVhJXzhKYTdnc0tWZkFHbURFVlM1d0xGVWtGRC1Zc3ZqZ1hTbXNpa3VrNnNRNWpMT0pHSEZRcS1vdm5qSkRzVTg0MVZYNTNJ?oc=5)
 
 ---
 

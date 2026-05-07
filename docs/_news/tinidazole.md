@@ -14,7 +14,7 @@ permalink: /news/tinidazole/
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/tinidazole/
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [骨質疏鬆初期無症狀！營養師：女性更年期後流失速度加快](https://news.google.com/rss/articles/CBMi9gJBVV95cUxNOWxqY2Y2bnRldFpWaVpJN1NKOHNsVUlqLWRRbE1NRVpITVFuczRqWkJET2sydU9SR3BRTWMzUTFzVF90eXY0clhITGl2SkF2RlNldWlvQjRDb2FRcExPZ3FxZ0RkLThHLWdwOC1QbW0zTlJVQm9rMzAxa0NySGVKVDZwZGlpVTdIQ005VENYNl84ODU4UHppMFB5azhsMEFOakQ3Zzc4Wk9tVnhQQTdTSHRnVFdmVlZMMUZ0MXJqTVpDQnIxTTFlM2NoX3RXRGc1dGkyenA4djZqXzdVOG1QN0w0WlJWYmFVT3hINEQzVkFGdEJ6OEJTSEt1aDE1MzdOVy1DSE1JRFpfZ2ZURkpfLVlUaTRGSWhuS0kxdnFHU0xpcUc2NGlUTFY4OUFGR2laaWVhTWZSNndoZUtiYmtKbW9leHRLVEdJd2RETVpJOWYyZHdlNTE1S1g4cWExTG82Q1FmYkRRWWZZMVZIbEZmTWZ5Wllndw?oc=5)
+### [恩主公醫院「保鈣防跌大作戰」！健保擴大給付別讓「一低」成健康隱形炸彈](https://news.google.com/rss/articles/CBMiqANBVV95cUxNZjZtQ1JqMGxCMUhXODg0WVJUU0REZXE2WlYtakM5Nm83dHZLZy1lZHdGU1Nrc0MxcmZUOFAzZkdYUXQ2Y3JvM1U0R1E0YzI4Z1RweXVsU29EM05jQWpaR281ejNDelJUWFpBb3FUOUpkQjVOTEUzSFlNdkQwUTU1OUM0cEV1Z1hPbVlVenk4T3lnaXFNTEdSTDRhdE42QTRYTjB4NGtSbTBUTlk1X3B5SmJDUURWMVQ4amU1emNnUXVDQkI3QjE4Y0VZbi1VOF9nSGVKTXh0ZVpqYVoySHRvcm9ldTRydlp5dHpKT3g5U01PSVYyTHVMMmZ2dDYwVVZ5M3JYZTJnTXBvXzdhZk8yX1d6WVdLVVJUM2s4NEY5eEF2Z3o0MzFqQUZFcmJ1SjdfcTF4TUI1YmtiQkdBYnhRbnFlZnQwcEVFblJsbUpWcjM3TklKUlY0a2l2Yy1CYWlRU19TQmJLdnVSTGVzQTFXSWYxWEgxU0lNS1A3cWxMYVA2djc2Uk5PMHlyVDRiX1hBRlgxU0huUWF5aTJzMzNMVXpEQko3cWQz?oc=5)
 
-2026-05-06 <span class="news-indication-tag">更年期</span>
+2026-05-07 <span class="news-indication-tag">更年期</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi9gJBVV95cUxNOWxqY2Y2bnRldFpWaVpJN1NKOHNsVUlqLWRRbE1NRVpITVFuczRqWkJET2sydU9SR3BRTWMzUTFzVF90eXY0clhITGl2SkF2RlNldWlvQjRDb2FRcExPZ3FxZ0RkLThHLWdwOC1QbW0zTlJVQm9rMzAxa0NySGVKVDZwZGlpVTdIQ005VENYNl84ODU4UHppMFB5azhsMEFOakQ3Zzc4Wk9tVnhQQTdTSHRnVFdmVlZMMUZ0MXJqTVpDQnIxTTFlM2NoX3RXRGc1dGkyenA4djZqXzdVOG1QN0w0WlJWYmFVT3hINEQzVkFGdEJ6OEJTSEt1aDE1MzdOVy1DSE1JRFpfZ2ZURkpfLVlUaTRGSWhuS0kxdnFHU0xpcUc2NGlUTFY4OUFGR2laaWVhTWZSNndoZUtiYmtKbW9leHRLVEdJd2RETVpJOWYyZHdlNTE1S1g4cWExTG82Q1FmYkRRWWZZMVZIbEZmTWZ5Wllndw?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiqANBVV95cUxNZjZtQ1JqMGxCMUhXODg0WVJUU0REZXE2WlYtakM5Nm83dHZLZy1lZHdGU1Nrc0MxcmZUOFAzZkdYUXQ2Y3JvM1U0R1E0YzI4Z1RweXVsU29EM05jQWpaR281ejNDelJUWFpBb3FUOUpkQjVOTEUzSFlNdkQwUTU1OUM0cEV1Z1hPbVlVenk4T3lnaXFNTEdSTDRhdE42QTRYTjB4NGtSbTBUTlk1X3B5SmJDUURWMVQ4amU1emNnUXVDQkI3QjE4Y0VZbi1VOF9nSGVKTXh0ZVpqYVoySHRvcm9ldTRydlp5dHpKT3g5U01PSVYyTHVMMmZ2dDYwVVZ5M3JYZTJnTXBvXzdhZk8yX1d6WVdLVVJUM2s4NEY5eEF2Z3o0MzFqQUZFcmJ1SjdfcTF4TUI1YmtiQkdBYnhRbnFlZnQwcEVFblJsbUpWcjM3TklKUlY0a2l2Yy1CYWlRU19TQmJLdnVSTGVzQTFXSWYxWEgxU0lNS1A3cWxMYVA2djc2Uk5PMHlyVDRiX1hBRlgxU0huUWF5aTJzMzNMVXpEQko3cWQz?oc=5)
+
+---
+
+### [每3人就有1人脂肪肝！醫師點「1女性族群」最危險：脂肪肝飆2倍](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mY1pZVjdNSkx2dU9Qd1JlTXhwVVZ4aHNtMXptZEVRUlFVUm1CSVBlUnUxaUdTS1paaEJVVGdIVUdCLU5WNXpYaF9FUVItdw?oc=5)
+
+2026-05-07 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">停經</span>
+
+來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mY1pZVjdNSkx2dU9Qd1JlTXhwVVZ4aHNtMXptZEVRUlFVUm1CSVBlUnUxaUdTS1paaEJVVGdIVUdCLU5WNXpYaF9FUVItdw?oc=5)
 
 ---
 

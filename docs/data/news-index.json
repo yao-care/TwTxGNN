@@ -1,7 +1,101 @@
 {
-  "generated": "2026-05-07T02:03:14.558844+00:00",
+  "generated": "2026-05-07T05:53:01.312186+00:00",
   "count": 5,
   "news": [
+    {
+      "id": "304a1de8b347",
+      "title": "恩主公醫院「保鈣防跌大作戰」！健保擴大給付別讓「一低」成健康隱形炸彈",
+      "published": "2026-05-07T04:07:30+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNZjZtQ1JqMGxCMUhXODg0WVJUU0REZXE2WlYtakM5Nm83dHZLZy1lZHdGU1Nrc0MxcmZUOFAzZkdYUXQ2Y3JvM1U0R1E0YzI4Z1RweXVsU29EM05jQWpaR281ejNDelJUWFpBb3FUOUpkQjVOTEUzSFlNdkQwUTU1OUM0cEV1Z1hPbVlVenk4T3lnaXFNTEdSTDRhdE42QTRYTjB4NGtSbTBUTlk1X3B5SmJDUURWMVQ4amU1emNnUXVDQkI3QjE4Y0VZbi1VOF9nSGVKTXh0ZVpqYVoySHRvcm9ldTRydlp5dHpKT3g5U01PSVYyTHVMMmZ2dDYwVVZ5M3JYZTJnTXBvXzdhZk8yX1d6WVdLVVJUM2s4NEY5eEF2Z3o0MzFqQUZFcmJ1SjdfcTF4TUI1YmtiQkdBYnhRbnFlZnQwcEVFblJsbUpWcjM3TklKUlY0a2l2Yy1CYWlRU19TQmJLdnVSTGVzQTFXSWYxWEgxU0lNS1A3cWxMYVA2djc2Uk5PMHlyVDRiX1hBRlgxU0huUWF5aTJzMzNMVXpEQko3cWQz?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "559c820da6a3",
+      "title": "每3人就有1人脂肪肝！醫師點「1女性族群」最危險：脂肪肝飆2倍",
+      "published": "2026-05-07T03:19:00+00:00",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mY1pZVjdNSkx2dU9Qd1JlTXhwVVZ4aHNtMXptZEVRUlFVUm1CSVBlUnUxaUdTS1paaEJVVGdIVUdCLU5WNXpYaF9FUVItdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "31fa605be13a",
       "title": "尿酸、血糖全失控！醫心梗倒下換吃2物半年逆轉人生- 健康",
@@ -45,42 +139,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3dd687687fab",
-      "title": "骨質疏鬆初期無症狀！營養師：女性更年期後流失速度加快",
-      "published": "2026-05-06T07:20:09+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNOWxqY2Y2bnRldFpWaVpJN1NKOHNsVUlqLWRRbE1NRVpITVFuczRqWkJET2sydU9SR3BRTWMzUTFzVF90eXY0clhITGl2SkF2RlNldWlvQjRDb2FRcExPZ3FxZ0RkLThHLWdwOC1QbW0zTlJVQm9rMzAxa0NySGVKVDZwZGlpVTdIQ005VENYNl84ODU4UHppMFB5azhsMEFOakQ3Zzc4Wk9tVnhQQTdTSHRnVFdmVlZMMUZ0MXJqTVpDQnIxTTFlM2NoX3RXRGc1dGkyenA4djZqXzdVOG1QN0w0WlJWYmFVT3hINEQzVkFGdEJ6OEJTSEt1aDE1MzdOVy1DSE1JRFpfZ2ZURkpfLVlUaTRGSWhuS0kxdnFHU0xpcUc2NGlUTFY4OUFGR2laaWVhTWZSNndoZUtiYmtKbW9leHRLVEdJd2RETVpJOWYyZHdlNTE1S1g4cWExTG82Q1FmYkRRWWZZMVZIbEZmTWZ5Wllndw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }
@@ -289,53 +347,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6f9b50883031",
-      "title": "慎入！7旬翁揪出「8公分大腸病灶」急切除 醫曝大腸癌機率：1情況快檢查",
-      "published": "2026-05-05T04:12:27+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNbnNkTVY5MkExLVBULWV6X0J3MUtfQXZBZXFhOWFYQlF0bzV5YnFnU205TDdNTUdBbndTM0s0aGMxZkdJejQydzFqNW5pZUZOaDRSejNwUGhEVl9kUGN0Q1B1UUhBRjl3SXlfbkxRZ0h0TEwwdHNXY3VzVDVZclRMenZQOFNsb2pPcUFrSE5Va3k3RDlRdEs0bnc4dVBmYTFUMW1JS2pXeUJuYks5X0FNay05UGZVRFZrTVVCZ2I0N1c2blBVd3N1cTRjZllnQmRRU3ZJdDN5VU1MblppUWFobExqa2pKLUhwMnFXdUtWaE0zU180NVVYSU1EWGVPOWgzd1VJV1lsOGl3TzR0QVNKb2dmLU5rc3RpdjBCLVhJXzhKYTdnc0tWZkFHbURFVlM1d0xGVWtGRC1Zc3ZqZ1hTbXNpa3VrNnNRNWpMT0pHSEZRcS1vdm5qSkRzVTg0MVZYNTNJ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
