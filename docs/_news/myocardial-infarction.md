@@ -31,11 +31,11 @@ permalink: /news/myocardial-infarction/
 
 ## 相關新聞（1 則）
 
-### [尿酸、血糖全失控！醫心梗倒下換吃2物半年逆轉人生- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTFB0RFViUTMwVTVWTmJILUxwX1RyNjlHX19DdC1maVg1YmxBQzZoLUx5ZEZtSlN3V1dfSnBOdGlTSml5eVZ6WWJUMkk5YnFfNHRrWlJtN243c0RMYzVNcEVJdUh5N1FXeVJUNy0wVU9R?oc=5)
+### [尿酸、血糖全失控！醫心梗倒下換吃2物半年逆轉人生- 健康](https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0MzTm9HZlZPZDByOUJSZUZWb2wtaU5DTjUxQkN0cGRscjVyTThWSlozWEl5OFplbHNydTRyN2NlcXVaSEhhenk2WWdMZ2gtdFdXdi05eWxsei0weHBjRnE1OUxOVTVoTTZreWZ0aVpJSmI1c0RVZlg0Q0JKQW1KVVBiUjFLRElHdTZTRnEzbw?oc=5)
 
 2026-05-07
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFB0RFViUTMwVTVWTmJILUxwX1RyNjlHX19DdC1maVg1YmxBQzZoLUx5ZEZtSlN3V1dfSnBOdGlTSml5eVZ6WWJUMkk5YnFfNHRrWlJtN243c0RMYzVNcEVJdUh5N1FXeVJUNy0wVU9R?oc=5)
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0MzTm9HZlZPZDByOUJSZUZWb2wtaU5DTjUxQkN0cGRscjVyTThWSlozWEl5OFplbHNydTRyN2NlcXVaSEhhenk2WWdMZ2gtdFdXdi05eWxsei0weHBjRnE1OUxOVTVoTTZreWZ0aVpJSmI1c0RVZlg0Q0JKQW1KVVBiUjFLRElHdTZTRnEzbw?oc=5)
 
 ---
 

@@ -1,15 +1,15 @@
 {
-  "generated": "2026-05-07T05:53:01.312186+00:00",
+  "generated": "2026-05-07T08:17:45.257864+00:00",
   "count": 5,
   "news": [
     {
-      "id": "304a1de8b347",
-      "title": "恩主公醫院「保鈣防跌大作戰」！健保擴大給付別讓「一低」成健康隱形炸彈",
-      "published": "2026-05-07T04:07:30+00:00",
+      "id": "7c2f173dc4a6",
+      "title": "骨折即骨鬆警訊！恐掀家庭骨牌效應照護成本年增近百萬母親節別讓媽媽硬撐！中華民國骨質疏鬆症學會、糖尿病衛教學會共同呼籲： 骨頭一斷，生活全亂！及早啟動「長骨頭計畫」",
+      "published": "2026-05-07T07:06:27+00:00",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNZjZtQ1JqMGxCMUhXODg0WVJUU0REZXE2WlYtakM5Nm83dHZLZy1lZHdGU1Nrc0MxcmZUOFAzZkdYUXQ2Y3JvM1U0R1E0YzI4Z1RweXVsU29EM05jQWpaR281ejNDelJUWFpBb3FUOUpkQjVOTEUzSFlNdkQwUTU1OUM0cEV1Z1hPbVlVenk4T3lnaXFNTEdSTDRhdE42QTRYTjB4NGtSbTBUTlk1X3B5SmJDUURWMVQ4amU1emNnUXVDQkI3QjE4Y0VZbi1VOF9nSGVKTXh0ZVpqYVoySHRvcm9ldTRydlp5dHpKT3g5U01PSVYyTHVMMmZ2dDYwVVZ5M3JYZTJnTXBvXzdhZk8yX1d6WVdLVVJUM2s4NEY5eEF2Z3o0MzFqQUZFcmJ1SjdfcTF4TUI1YmtiQkdBYnhRbnFlZnQwcEVFblJsbUpWcjM3TklKUlY0a2l2Yy1CYWlRU19TQmJLdnVSTGVzQTFXSWYxWEgxU0lNS1A3cWxMYVA2djc2Uk5PMHlyVDRiX1hBRlgxU0huUWF5aTJzMzNMVXpEQko3cWQz?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxOXzU0SnAxem1tMVNWLThLTW8zTmZLNzFwZVZUTlREYXpQUi1fYmVJY2xwN052ZlZxUU5NTXFvajRnRlNLQUkzc0RsTlFTVW40T0pxLWxJQlVjQ1JfbnlydExCTWlnbC1TUG1aSTQtN3V4bzB0bmFMNW1Ca0xHZUpWVFZtZnNRdThLWkdORWxZR0JyVWxjT3ZNUkJSdWhaWWpZNVZwZ1g3M3J1RWNtU203UXA3ODZJQzlaZG5TaFRIci1XUjJBZ2tmV3lwRExwTDBMNmxaMG9vUmZWYWtCM29QNWgwVmZKQjVNNWtCdTU2OGZIV093TWlCVXk0RTZEUUZDTE94eWlmdF9fU2MxY2JMd3hhUWxRODFVU1dPeGxjWXNQMDNOSDFYX3YwSFpWcnJxNmNleUw3ZXJycWdkckFtUU9HZ3NldnZJeUpWSlNBMXZiMjJpSWlNZTVlQ0U5UEJiNnRiYWdLMmszVnlHM3R1VkF4b1RpYndIWmY0cklXd1RvTDQ0LTRLbGxIZG1lSnY0T1ctQkR0T1hwd1NfRV9iaDNGZ19ycGlnRTN0T3lMak9BSlkxZzZhUXRxZkJoNnFTeEZka2FCZUk1S0JLNjBCc0NyblBnRjMzMlBhd180SVpCM1FTbVp0RC1RMFBSa0t2Qjg3RVllQi1YNG9wbkU1akNubk1fNjdMek1jRmF5TjlMX092UG5qQ3ZYLXcxeUw4Sk44dXByVzdIeVdUZkVNemdSTXFQaHk4MlB1ZzJ3cGZkdnpnZEV2RzJldmFRaThUa1AtaWNkNHNaSGY1UzlnczZOWUNKdUYt?oc=5"
         }
       ],
       "keywords": [
@@ -33,6 +33,21 @@
             {
               "slug": "nystatin",
               "name": "Nystatin"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "骨質疏鬆症",
+          "keyword": "骨質疏鬆症",
+          "related_drugs": [
+            {
+              "slug": "alfacalcidol",
+              "name": "Alfacalcidol"
+            },
+            {
+              "slug": "denosumab",
+              "name": "Denosumab"
             }
           ]
         }
@@ -97,13 +112,13 @@
       ]
     },
     {
-      "id": "31fa605be13a",
+      "id": "5a228f191855",
       "title": "尿酸、血糖全失控！醫心梗倒下換吃2物半年逆轉人生- 健康",
       "published": "2026-05-07T01:23:53+00:00",
       "sources": [
         {
           "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0RFViUTMwVTVWTmJILUxwX1RyNjlHX19DdC1maVg1YmxBQzZoLUx5ZEZtSlN3V1dfSnBOdGlTSml5eVZ6WWJUMkk5YnFfNHRrWlJtN243c0RMYzVNcEVJdUh5N1FXeVJUNy0wVU9R?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0MzTm9HZlZPZDByOUJSZUZWb2wtaU5DTjUxQkN0cGRscjVyTThWSlozWEl5OFplbHNydTRyN2NlcXVaSEhhenk2WWdMZ2gtdFdXdi05eWxsei0weHBjRnE1OUxOVTVoTTZreWZ0aVpJSmI1c0RVZlg0Q0JKQW1KVVBiUjFLRElHdTZTRnEzbw?oc=5"
         }
       ],
       "keywords": [
@@ -145,208 +160,35 @@
       ]
     },
     {
-      "id": "d12e58b0e887",
-      "title": "曾被當沒用器官！研究指切除後死亡率較高 還與癌症風險相關",
-      "published": "2026-05-05T07:00:00+00:00",
+      "id": "d4eca094e8d4",
+      "title": "漸進超負荷訓練 鍛煉全身大肌群 - 20260506 - 副刊",
+      "published": "2026-05-05T20:30:00+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zVGMzbE9ZNXpBWUIxTGtkaGVmOHRGRGtjazdWZ2Z0MEpnMXZuT2xBamMwMVQyUlNydUVra2lYRW1MS19WUWk3REdRcmVrUURKVVBvRFRNa3VoUFVoU3VCZlpna2fSAWpBVV95cUxOT0tUUU9Yc25ROEQwdkVlX3J6NXBlTGdEOGdaalQ3UjgyVmpGN0RMeExfR0U2aUItcXpYVGRJNFVVM2JCNmVvQ0lLR1lnQ3I1MVJiTWVUNEk0R1l2cmlRdGo2OXctWFJpRXN3?oc=5"
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPd29kMmZLRm1adlBqOGxmenVWa0IwMnlXTG16bWI1Ulk2RDg3UFlYTjZXcU5nZ3JQbDdIaWZuX19reDNBUkxVOEVXUGZUR0FsM2M3Q1g1c0dRNGJDcWxkUGo3elZJTFhUYVQzVTh2eURDcFZyOEZGdU05WGt4b2pOQVpTNGlmLVVLTE5ZRGtYS2NTR3dmd0UyWFlZdUYyaWk2SGd5RHVCQkRFOGpUQ1g0Tzh1ZUMtVHBvVkRoYmV4N3c0ZC13OW42alVIZGtqcnNzZGdTVF8yNFJ1Tmwzd2hvc0NBVlB5UTBQOC1PTmhTTVBYZy1PbkxkVC01Z2szMEJOWjBWWFRROTYzUThOY0RfWlZRN3NPNkNmYUlYaGp6cWlDNEZDaWhiOEpYY2hRSnpRUkFpNDl2Zzg?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
+          "name": "dementia",
+          "keyword": "失智症",
           "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            },
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
             {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
