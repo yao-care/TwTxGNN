@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T11:01:56.081800+00:00",
-  "count": 4,
+  "generated": "2026-05-07T13:30:17.422751+00:00",
+  "count": 3,
   "news": [
     {
       "id": "7c2f173dc4a6",
@@ -91,41 +91,6 @@
         {
           "type": "indication",
           "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4cea87e4689f",
-      "title": "穩健下半場 「肌」不可失 識食多動 90歲也能增肌 - 20260506 - 副刊",
-      "published": "2026-05-05T20:30:00+00:00",
-      "sources": [
-        {
-          "name": "明報新聞網",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPc19vNUNBYTJBbWdDVjdEMWtMMlFMZW1LdVlOdFluMHhGajFiRVFqMmtoeHVNV2hrakVtWW03SUpiRkU4ZzhIWTlSenVoRDhLT3RYZ2tRWHhBS3NWNC0tc2FydlJoZlp1Z1hIcm5zRFp1SEJjNWdwZkFIMm5HODFUVmd1Ml9ZaXQ4MTU5bHVhZnFuMWNwdkpSYWU2Z2ZSUnpGR19mOE1sbWpXT0RWVUJPY3N4eTBaaXhINDZXQXZLaTBZZjVpbVFfODRJMG53NC1ONVlGTlROVVFTUVQ5ajFfRE5wWWFMd280SHFOQ0xxcS1jQmhXeXlJUHdBZTVxRHk2Q1NaQkw3cWlVTnZOZnlvNFhvYklqX19KOU0wSmljUDFobzdpZDJFTnBIRzU0MGkwZ1J1UFNmU0dOQzhfNXhiSGMtTGVBX1hOZmpNd3lkLUJ3UGdaRTkwM3drd21LRHh2RHB3MDFhYmtJN01RZWx6VTUzd2tZR0FjdVpsREdxQ1BJZXVBREE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
           "keyword": "失智",
           "related_drugs": [
             {
