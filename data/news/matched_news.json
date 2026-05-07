@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T20:58:26.222898+00:00",
+  "last_updated": "2026-05-07T21:57:50.116021+00:00",
   "total_count": 23,
   "matched_count": 3,
   "news": [
@@ -260,6 +260,19 @@
       "matched_keywords": []
     },
     {
+      "id": "ebb5c41ffcf1",
+      "title": "紐約新增2例麻疹病患 皆未打疫苗",
+      "published": "2026-05-06T11:14:00+00:00",
+      "summary": "紐約新增2例麻疹病患 皆未打疫苗&nbsp;&nbsp;世界新聞網曼哈頓出現1例麻疹病例&nbsp;&nbsp;大纪元波士頓洛根機場現麻疹暴露風險&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LZlRuVnI3RGVhR2ZRMTVqRE9kQkc5VmZMQlpEb1pqVWFpT2h0cDdHYzdYQ0piOEJUSklqT2NKZUNXLXUzbGlvZkN1QnIzMkh6UEpjS1A4UWhBYVIwQUpZZTdR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "c126978071ef",
       "title": "72歲美衛生部長爆肌惹關注 靠3招逆齡養生 間歇斷食/每周重訓/每日登山",
       "published": "2026-05-06T11:00:00+00:00",
@@ -307,19 +320,6 @@
         {
           "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSYUdtUDJkZ3ppaWhCRk80RG5yUTVJM0dnTG5kWGZwR2pKS3J1ZlVzZ1lXR1RDeFB4UUQteFQwS25QS2l0UW9CYkVqMDJNVEpIcTFCV3ZlRnpwYzY2dUwxVNIBZkFVX3lxTE5xNDR5ZEx2a1JTcHAwSUE0bWVfT0hsb2syNVowTmxBUE9ReDg4aWljZFJZZnh5dnRkZmQyUldBM1JtVHlKZEhvaUdRZkpnRmdjOEZkRk9oemR3aHhSUmMzY1Bld2NXUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "927b4ed2feba",
-      "title": "曼哈頓出現1例麻疹病例",
-      "published": "2026-05-06T02:32:00+00:00",
-      "summary": "曼哈頓出現1例麻疹病例&nbsp;&nbsp;大纪元紐約新增2例麻疹病患 皆未打疫苗&nbsp;&nbsp;世界新聞網波士頓洛根機場現麻疹暴露風險&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xTlFVQXVrM1J4SnVQTi1PbjR1Vlo2Qm5jUFZUYlFZbFVFUm52MEtRY2tjRDBuRzAzb21iTUZpZEdrd3lBZUZsTFFYX3VYSWNQQ3lGcEtNOHJNZGxfOXBv0gFkQVVfeXFMTnZNeEx4LThxX1hxLXBERWFpTDRCaElrZVpLUHg1ZjRRaGdTQnpQMDlIRTVYMTdUSDlOSXRTekNkSU1kN1hMRHdOOS1yZkdrSHE2bEltUVRTbkFmelhkRjh5M0pVWg?oc=5"
         }
       ],
       "matched_keywords": []
