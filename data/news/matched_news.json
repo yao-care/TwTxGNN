@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-05-08T20:49:29.406249+00:00",
-  "total_count": 29,
-  "matched_count": 3,
+  "last_updated": "2026-05-08T21:51:39.940137+00:00",
+  "total_count": 31,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "0a53cd291dc6",
+      "title": "新的肥胖發現改寫了數十年來的脂肪科學。",
+      "published": "2026-05-08T21:34:22+00:00",
+      "summary": "新的肥胖發現改寫了數十年來的脂肪科學。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNYmJqRUJoemxsM25ZaGpWb1FzQ0FiYk5NZU0zQmJubDByeWlMTXRXam1zLWpNNEx6TWllLUtaT0puUlBsTnYyejg1TnNDZmZFNDdmMFFtY21IeGhRX2ZyVm80MG1zS0MzeGZFa1FUYWZ5S1ZKdExkZkxGaTNYLVFNTDBfSnlfMDlXc1NOUDdPNmVMZW56eWRnMFJiWUFjMXFydmRVWVBfdVJYdDgwcTlXd3RfaDI3eXVnS0EwZGM2SUJvVWJVbk5SLVFjNFk0ZTg4QTZmOFZuNXNjYTRfdGxTYXJkQlBqR2VscHhIYnJyVUQweDBVUGxWZGp0dmlJQmtpRUNNbFVJVzNna08yclhzSGxUN3NhSkt4MllkSkRlNlpjeF9VMFUyVGdPZXE1aWRBakdBRGZJYjRJcmdlajhhM0RERkd4NV82ZW85N3NrY0tYVk94a2tTQ29FUWRtTzJOaEE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "5993e5400d76",
       "title": "疾病管制與預防中心 (CDC) 漢他病毒爆發分類 最低緊急啟動等級：報告",
@@ -25,19 +38,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQSHFVWmdMY01mbDk2VVRhTHNtWXJVOXZ0Q0RabldSeDJ4aXUyZ2llNHVvLVBuRGYxbG0xaXBuR2ltS1BYQnlKa250d19pSzNaRnBFaHEwOHBHXzcwTk1GZnVDT2tWd00yb1JNNW1HNjZra2pvVy1GNnQ3SF9iRjByYk8wWHZzd2FtVmROblJIOUQ4eTc3Sk5yazN1YU55U3lhMW1Zci1KZVoxUVp3N19RUWpCMUtPVkltS0FWSmNCOTdHVWdZWUFpQXloMndKNHhiS1VFeW9BcEh5cmUzam81c3kxWmxFN21vZ3JFdEdQZ0J6c2hFb0lkMkdQd29pWEhac3lCWC1mSHdjSWxNZlMzRjR2WkdZNTVCRXFwNG5MNmdDVjRuWGczSG9vMlVoZkNmSldtUFRnRzJVU0JMMlVzQ0xhT1M3cURib2FtcFVsZUdiRVlWeld5MFJFVU1oeGFtTVBkMDRsdkxvUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c24d8cf170ec",
-      "title": "麻疹防治重大突破！科學家首度發現人類抗體 可望成為預防與治療新利器",
-      "published": "2026-05-08T11:58:32+00:00",
-      "summary": "麻疹防治重大突破！科學家首度發現人類抗體 可望成為預防與治療新利器&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40TnZBbTNfdHgxQTNpVkNtbWdGM29LR2E5c1NFX20tV0E1U0lFdTNUV0x5R2VUVm1sSEJCaDFudG1jSnltM3U3enc2bXlqV0JwOG8wbG54aXlSQV9OZUp6Nw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -407,6 +407,234 @@
       "matched_keywords": []
     },
     {
+      "id": "044fdce71bfb",
+      "title": "癌後黃金三年是關鍵！醫揭復發風險不只癌細胞 而是「這體質」",
+      "published": "2026-05-08T01:20:00+00:00",
+      "summary": "癌後黃金三年是關鍵！醫揭復發風險不只癌細胞 而是「這體質」&nbsp;&nbsp;TVBS新聞網從治療到生活：關護癌症康復者的全方位支持- 註冊慈善機構雅麗氏何妙齡那打素慈善基金會&nbsp;&nbsp;healthyD醫師一句話，能讓肺癌病友動起來並提升生活品質嗎？&nbsp;&nbsp;careonline.com.tw化療結束才是真正開始！研究揭「癌後黃金三年」關鍵：每週運動●次，8年存活率多7%&nbsp;&nbsp;良醫健康網",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42eWxIcGVidURZNl9UQ04xVWM3WTZjMTYzcUhOYktvMzdxb2NCenJyZ0VTNlBBR3BVajZLQ0p2c1RDWjVzTVYtcWd2ekU5UQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "23a5e098a7ad",
       "title": "車厘茄連蒂放入雪櫃竟發霉！研究揭細菌數量暴增64% 即學1招延長保存期限",
       "published": "2026-05-08T00:00:00+00:00",
@@ -673,6 +901,108 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "d3f3e577d208",
+      "title": "新研究揭示類風濕性關節炎骨破壞機制：鐵質過載與脂質代謝關聯",
+      "published": "2026-05-04T16:45:59+00:00",
+      "summary": "新研究揭示類風濕性關節炎骨破壞機制：鐵質過載與脂質代謝關聯&nbsp;&nbsp;ENN台灣電報前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBDVDc3VDYtTUZ6V3czVXBlM3UzSkdMRUg3TUJxeXFfV0x1VHpIRkR3SFJiak90dE5lTUE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "類風濕性關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "風濕",
+          "keyword": "風濕",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "關節炎",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            },
+            {
+              "slug": "ibuprofen",
+              "name": "Ibuprofen"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "風濕性關節炎",
+          "keyword": "風濕性關節炎",
+          "related_drugs": [
+            {
+              "slug": "carisoprodol",
+              "name": "Carisoprodol"
+            },
+            {
+              "slug": "prednisone",
+              "name": "Prednisone"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

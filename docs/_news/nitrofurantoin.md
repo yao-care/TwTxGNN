@@ -14,7 +14,7 @@ permalink: /news/nitrofurantoin/
 ---
 
 <p class="key-answer" data-question="Nitrofurantoin 有什麼相關新聞？">
-<strong>Nitrofurantoin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nitrofurantoin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/nitrofurantoin/
 <li><strong>原適應症</strong>：尿路感染（膀胱炎、腎盂炎、尿道炎）</li>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>rheumatoid arthritis（99.9%）</li>
+<li class="indication-matched">rheumatoid arthritis（99.9%）<span class="indication-tag">📰 類風濕性關節炎</span></li>
 <li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome（99.8%）</li>
 <li>brain small vessel disease 1 with or without ocular anomalies（99.8%）</li>
 <li>diabetic nephropathy（99.8%）</li>
@@ -42,9 +42,15 @@ permalink: /news/nitrofurantoin/
 <p><a href="{{ '/drugs/nitrofurantoin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [新研究揭示類風濕性關節炎骨破壞機制：鐵質過載與脂質代謝關聯](https://news.google.com/rss/articles/CBMiOkFVX3lxTFBDVDc3VDYtTUZ6V3czVXBlM3UzSkdMRUg3TUJxeXFfV0x1VHpIRkR3SFJiak90dE5lTUE?oc=5)
+
+2026-05-04 <span class="news-indication-tag">類風濕性關節炎</span> <span class="news-indication-tag">風濕</span> <span class="news-indication-tag">關節炎</span> <span class="news-indication-tag">風濕性關節炎</span>
+
+來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTFBDVDc3VDYtTUZ6V3czVXBlM3UzSkdMRUg3TUJxeXFfV0x1VHpIRkR3SFJiak90dE5lTUE?oc=5)
+
+---
 
 
 <div class="disclaimer">
