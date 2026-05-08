@@ -1,8 +1,256 @@
 {
-  "last_updated": "2026-05-07T23:56:31.979117+00:00",
-  "total_count": 23,
-  "matched_count": 2,
+  "last_updated": "2026-05-08T02:34:58.387651+00:00",
+  "total_count": 27,
+  "matched_count": 3,
   "news": [
+    {
+      "id": "024a07c41912",
+      "title": "吳芮醫生看我們與腫瘤疾病的距離 - 報新聞 Mega News",
+      "published": "2026-05-08T01:36:28+00:00",
+      "summary": "吳芮醫生看我們與腫瘤疾病的距離&nbsp;&nbsp;報新聞 Mega News",
+      "sources": [
+        {
+          "name": "報新聞 Mega News",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOS1BJQWU5M3loY3pPOFRIVUtQcDVDOFR4bGs1MDlELVd3VFNWaDR1bXlkRTQ2Ym0yaWQwd3Z6TDZPYTR2TkYyS3BZeGZNS1Ftc01GWVl3ejc4TzRzX2F2bVRRQl8zdnY3YVN1Y1Q2N29ZWkdyaGNZOUJvNF9YdE1PNzJjNkV3bHBwQ3NlLU9GOEdweUp1NzJfRzV4WnVZLWZVREFmOU1zVzFzUGVuSjNaNC1MT0dCOVY4WGpidVhPQ2RYaXRpX1N1Y2pVOHBOTVVDZHhVLURJYmljTHlqMzMzLWZnZlVRZTMtamxudFJnbWRoTWNmZHlmajhYV0VjVkE4VXdYUEkyVHZBdmphUzdxajh4UQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "腫瘤",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eb0c5ab76877",
+      "title": "創新生物材料從內到外治癒組織",
+      "published": "2026-05-08T01:36:27+00:00",
+      "summary": "創新生物材料從內到外治癒組織&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxORnlpTThyb2loRmtsLWt3WHNtREFLTHBnX0NrRzBGa1pPRmdfTXlqS0p6cW91T0RBNC14R1I2eTZUQjJ1NUJrZzk5U0JMZmRkQUNZOWpuLU96dTFtSUMydEtzWk1EYU82VlF5SzhDZGJmeFVaX2VlelRWYTVqQmE5Rk9FVUo2Nl84UXdjeU1sN0lYMW1fdzY2d1RaMkdYNV96OW5aaGE3aDlHYTJDMVlRRUpEMUZHU2M5SXlRSVliekd3YlhNbWFmY205VGhEWjA3c0FMTy1jQVNVWnRXY1FvZ3RxdDlFR0xvZ0Q1N3MxTzVMMXJTUW9yUXNkNnRTNlZhQ1hBaENLV3R2cUxkaUZubWQ5N0ZERnFfOWpGc05FdTV0cFV0S3c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "428165870d38",
+      "title": "透視腸道菌》攝取蛋白質也要分高低 吃錯反而助長壞菌氣燄",
+      "published": "2026-05-08T01:00:00+00:00",
+      "summary": "透視腸道菌》攝取蛋白質也要分高低 吃錯反而助長壞菌氣燄&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fWXE5WjVmdTJycGFQbW54NE1kS3QxS3FPWHM0SW5FZXFwRHdqb29laXIwdU51U1F6RjBNbUpEc01hMFZPZjNMVzV6bVg5MDZkU0tJcFJVeEgxMm5kVkNqaUxJYWTSAWpBVV95cUxPOG5zd1VTeVhyMGZySEhwdGRHSVdfSUlGWnhIY0JKb0tFeVNzMFg0U2gwcVZpT1IwUGJxNUg4bmd1bjlNTjNNYkppRkhVd0xXamRVem9wU20wbU9INFYxSlpzR0JqNThCOW13?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "23a5e098a7ad",
+      "title": "車厘茄連蒂放入雪櫃竟發霉！研究揭細菌數量暴增64% 即學1招延長保存期限",
+      "published": "2026-05-08T00:00:00+00:00",
+      "summary": "車厘茄連蒂放入雪櫃竟發霉！研究揭細菌數量暴增64% 即學1招延長保存期限&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPd3FCMEF0VFIycXNEVU1ya3J1YmNjQS1FZEV0N2JaRlJjSXBIdmxzV09lYllYZldibi1jSDRubEpVNFFpbFFiTVRzMnJMZVNPY2IwbGpzRGZmWUhtUnRROXRRMGgzSWRiRXRUVnB5R2VUcmw5WFU4dW1kclRST0NyOXFPTV9USVdPcmZ4Z2NUeWR6WERHeVI5MklmSWR2VVJDRGMtSFdmWS1Xc3FQbHN0aUFFdE5Fbnl6OFRNQWhJQnZUMl9BT1RBdEpKOU5ja0VaZkxTTE1PTGZNNlI4YXRyWFJ4SEdsR1ZTMWlYS3IzWWtWanBHbUJMMGZQTHlYUU1ZV2dONG00VzgxMmE5ZzhILUV0RW15aTY1cEJMM3k3SFptV1lnblZZcHQxcjBJRVEwZk05Sy01dlFxT05jb1ROREFkS0Y2ODZUMkRPNUs2aTJHemI3a1ZXXzU5WENnX3ZaeVVibzJvT2VEbVh3MFF2Zm9TWXhoV1VTYlFuWWRZX3NlaGNuSzB2LW9jYU1fdkR2WllMRzhWNXBKLW1FVXdUNUlQZVdET2hVTW5KNGJUWHdqWGFBaU0wU05QSVd1SU54NGhUZEJVQ0E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "64e629d4a516",
       "title": "健康主題館／長輩骨鬆「摔不起」 一次骨折就恐釀失能",
@@ -20,7 +268,7 @@
       "id": "9590cefa8dd7",
       "title": "這種常見的睡眠習慣可能會使心臟病發作的風險加倍。",
       "published": "2026-05-07T22:30:30+00:00",
-      "summary": "這種常見的睡眠習慣可能會使心臟病發作的風險加倍。&nbsp;&nbsp;arch-web.com.tw熬夜族怎麼維持健康？研究指出：運動可能有助減緩睡眠不足帶來的影響&nbsp;&nbsp;聯合新聞網心臟病| 5萬人研究證每日多睡X分鐘心臟病風險降10%媲美服藥結合2大生活調整中風機率減半- 東張+&nbsp;&nbsp;myTV SUPER規律運動有助睡眠？十年研究觀察長期習慣與失眠風險關聯&nbsp;&nbsp;聯合新聞網",
+      "summary": "這種常見的睡眠習慣可能會使心臟病發作的風險加倍。&nbsp;&nbsp;arch-web.com.tw心臟病| 5萬人研究證每日多睡X分鐘心臟病風險降10%媲美服藥結合2大生活調整中風機率減半- 東張+&nbsp;&nbsp;myTV SUPER規律運動有助睡眠？十年研究觀察長期習慣與失眠風險關聯&nbsp;&nbsp;聯合新聞網",
       "sources": [
         {
           "name": "arch-web.com.tw",
@@ -259,14 +507,14 @@
       "matched_keywords": []
     },
     {
-      "id": "2d6100e782e0",
+      "id": "effc0b7b8910",
       "title": "歐洲肝病死亡人數激增 報告促政府嚴管酒精",
-      "published": "2026-05-06T15:23:28+00:00",
-      "summary": "歐洲肝病死亡人數激增 報告促政府嚴管酒精&nbsp;&nbsp;ENN台灣電報",
+      "published": "2026-05-06T19:56:38+00:00",
+      "summary": "歐洲肝病死亡人數激增 報告促政府嚴管酒精&nbsp;&nbsp;記者爆料網",
       "sources": [
         {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE52QkpzaWd6cVFmYUl6Mm5vSnU5WHVvXzEwNHZsdUZ0U0xnRmp5c2hGdVZMNXZfSkU0REE?oc=5"
+          "name": "記者爆料網",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jMFB2Z0tlQjhRaU9ZTUVJWGRaNWJGSnpXWi14dnpSaEhIaWVZUlVNeGlfdnQ4MnNEYzFIYlJkdUpCZ2k4cWpiYzJoQlRiQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -305,6 +553,19 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSTdLSEw4b1Jzc2Zzc1lpemFoTE9lZTNMSmVwcThjUlMxOE5XSVg1RUFOS0prcWxsVzZFbHB4TENRT2EtYUxQWEtWakhOVDVCQUs0RkhiYm84YlhPMEpTdVlrS01kcnNvMEdQaVlJTWlYc2JDbTkyb0lBZkFhMjNaTk1kdnc0SmVH?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e6fab05dada2",
+      "title": "紐約新增2例麻疹病患 皆未打疫苗",
+      "published": "2026-05-06T11:14:00+00:00",
+      "summary": "紐約新增2例麻疹病患 皆未打疫苗&nbsp;&nbsp;世界新聞網曼哈頓出現1例麻疹病例&nbsp;&nbsp;大纪元波士頓洛根機場現麻疹暴露風險&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LZlRuVnI3RGVhR2ZRMTVqRE9kQkc5VmZMQlpEb1pqVWFpT2h0cDdHYzdYQ0piOEJUSklqT2NKZUNXLXUzbGlvZkN1QnIzMkh6UEpjS1A4UWhBYVIwQUpZZTdR0gFnQVVfeXFMTjB4OWlrMXNsOTE5V2FDMFFMVVZkTWJjY2Z1VzMyREE4MzhOVWFUQ3J0MjJjLUFGRE1zQk9iNndPa0RSdWM4YjhKZl9NVG80TUJxODV5Y3NnWHZQNTFyTURCUGd2NmROSQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -357,19 +618,6 @@
         {
           "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSYUdtUDJkZ3ppaWhCRk80RG5yUTVJM0dnTG5kWGZwR2pKS3J1ZlVzZ1lXR1RDeFB4UUQteFQwS25QS2l0UW9CYkVqMDJNVEpIcTFCV3ZlRnpwYzY2dUwxVNIBZkFVX3lxTE5xNDR5ZEx2a1JTcHAwSUE0bWVfT0hsb2syNVowTmxBUE9ReDg4aWljZFJZZnh5dnRkZmQyUldBM1JtVHlKZEhvaUdRZkpnRmdjOEZkRk9oemR3aHhSUmMzY1Bld2NXUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "927b4ed2feba",
-      "title": "曼哈頓出現1例麻疹病例",
-      "published": "2026-05-06T02:32:00+00:00",
-      "summary": "曼哈頓出現1例麻疹病例&nbsp;&nbsp;大纪元紐約新增2例麻疹病患 皆未打疫苗&nbsp;&nbsp;世界新聞網波士頓洛根機場現麻疹暴露風險&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xTlFVQXVrM1J4SnVQTi1PbjR1Vlo2Qm5jUFZUYlFZbFVFUm52MEtRY2tjRDBuRzAzb21iTUZpZEdrd3lBZUZsTFFYX3VYSWNQQ3lGcEtNOHJNZGxfOXBv0gFkQVVfeXFMTnZNeEx4LThxX1hxLXBERWFpTDRCaElrZVpLUHg1ZjRRaGdTQnpQMDlIRTVYMTdUSDlOSXRTekNkSU1kN1hMRHdOOS1yZkdrSHE2bEltUVRTbkFmelhkRjh5M0pVWg?oc=5"
         }
       ],
       "matched_keywords": []
