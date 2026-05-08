@@ -1,7 +1,42 @@
 {
-  "generated": "2026-05-08T22:46:44.431323+00:00",
-  "count": 5,
+  "generated": "2026-05-08T23:47:57.441348+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "a5804a6e4325",
+      "title": "規律有氧讓大腦年輕1歲！神經科學家證實：有氧＋肌力這樣練，是大腦抗老化的最強處方",
+      "published": "2026-05-08T23:31:07+00:00",
+      "sources": [
+        {
+          "name": "ELLE",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVlzTjVWc1V6MkxFTkRPXzJWTTg4RU9xR29rM2EwWF9fbHFrX01sWmdqS0FzMVFzR2x5Tno1Y2RCMVhNbzFkV3Zsel9UanV3WkNfUGRuOUdvSU9nSVllS3lLRXFLSDBZVlphYkxnT2N4ZDNrMzBYQ1VKNTR5ZllvSVNNdmdyUk0wY3JROUFB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "75bd14aed376",
       "title": "阿茲海默症藥物可能不起作用，並且可能會增加大腦的風險。",
@@ -27,13 +62,13 @@
       ]
     },
     {
-      "id": "00480d1b47cc",
-      "title": "吳芮醫生看我們與腫瘤疾病的距離 - PChome Online 新聞",
+      "id": "024a07c41912",
+      "title": "吳芮醫生看我們與腫瘤疾病的距離 - 報新聞 Mega News",
       "published": "2026-05-08T01:36:28+00:00",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWkJxN18tUkhHQkQ3cmhqTENTdkIzX0ZwUXV1bHlIamdTZVNvaE8yTzI5RDJQd0ZJd21zNkljY196ZHN2TUdUWTR1UzdnRUtmNmlhRzkxajlrbng0QlVwZDVPUEdDWlo1bURvSVZMemM3QnMxM3VvT2NodDZsY3lUUVFwUzlYaDdabVVZ?oc=5"
+          "name": "報新聞 Mega News",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOS1BJQWU5M3loY3pPOFRIVUtQcDVDOFR4bGs1MDlELVd3VFNWaDR1bXlkRTQ2Ym0yaWQwd3Z6TDZPYTR2TkYyS3BZeGZNS1Ftc01GWVl3ejc4TzRzX2F2bVRRQl8zdnY3YVN1Y1Q2N29ZWkdyaGNZOUJvNF9YdE1PNzJjNkV3bHBwQ3NlLU9GOEdweUp1NzJfRzV4WnVZLWZVREFmOU1zVzFzUGVuSjNaNC1MT0dCOVY4WGpidVhPQ2RYaXRpX1N1Y2pVOHBOTVVDZHhVLURJYmljTHlqMzMzLWZnZlVRZTMtamxudFJnbWRoTWNmZHlmajhYV0VjVkE4VXdYUEkyVHZBdmphUzdxajh4UQ?oc=5"
         }
       ],
       "keywords": [

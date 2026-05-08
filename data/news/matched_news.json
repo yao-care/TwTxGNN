@@ -1,8 +1,44 @@
 {
-  "last_updated": "2026-05-08T22:46:44.406183+00:00",
-  "total_count": 32,
-  "matched_count": 5,
+  "last_updated": "2026-05-08T23:47:57.409156+00:00",
+  "total_count": 31,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "a5804a6e4325",
+      "title": "規律有氧讓大腦年輕1歲！神經科學家證實：有氧＋肌力這樣練，是大腦抗老化的最強處方",
+      "published": "2026-05-08T23:31:07+00:00",
+      "summary": "規律有氧讓大腦年輕1歲！神經科學家證實：有氧＋肌力這樣練，是大腦抗老化的最強處方&nbsp;&nbsp;ELLE走不動是失能前兆？中醫「補益肝腎」搭配阻力運動與飲食逆轉肌少症&nbsp;&nbsp;Yahoo新聞「肌少症」、「失智症」互為因果！ 提早儲存肌肉銀行 營養師建議吃「這些」&nbsp;&nbsp;壹蘋新聞網穩健下半場「肌」不可失識食多動90歲也能增肌- 20260506&nbsp;&nbsp;明報 Our Lifestyle別再只會公園甩手、打太極！16周研究實測：2招活化大腦超有效&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "ELLE",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVlzTjVWc1V6MkxFTkRPXzJWTTg4RU9xR29rM2EwWF9fbHFrX01sWmdqS0FzMVFzR2x5Tno1Y2RCMVhNbzFkV3Zsel9UanV3WkNfUGRuOUdvSU9nSVllS3lLRXFLSDBZVlphYkxnT2N4ZDNrMzBYQ1VKNTR5ZllvSVNNdmdyUk0wY3JROUFB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "0a53cd291dc6",
       "title": "新的肥胖發現改寫了數十年來的脂肪科學。",
@@ -82,6 +118,19 @@
       "matched_keywords": []
     },
     {
+      "id": "bf32412fdb91",
+      "title": "媽媽別硬撐，骨折即骨鬆警訊！專家分享「長骨計畫」，精準補鈣不白費",
+      "published": "2026-05-08T08:16:44+00:00",
+      "summary": "媽媽別硬撐，骨折即骨鬆警訊！專家分享「長骨計畫」，精準補鈣不白費&nbsp;&nbsp;Heho健康保健》骨鬆性骨折 嚴防骨牌效應&nbsp;&nbsp;Yahoo新聞68歲婦剛退休婦就跌倒骨折 子女面臨辭職長照困境&nbsp;&nbsp;民報恩主公醫院推動「保鈣防跌大作戰」 醫籲：114年健保擴大給付，別讓「一低」成為健康隱形炸彈&nbsp;&nbsp;良醫健康網骨折不只是跌倒意外！醫：恐增加失能與長期照護風險&nbsp;&nbsp;鏡週刊Mirror Media",
+      "sources": [
+        {
+          "name": "Heho健康",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16MmhqSVI4bU5LNG9lNVoxUnl0QXhmY1B2WWQ1dElKRi0zZG16a2hRU1B4WU1rWF8tbVR5bVRaendOMy1jXzFXbG5iaw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "f0459d60e65e",
       "title": "研究指40歲起免疫力急降！醫推6關鍵營養素 甜椒1吃法維他命C暴增",
       "published": "2026-05-08T08:05:36+00:00",
@@ -90,19 +139,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOam1BN3hBOVdXdjJRRk80ODdlZ1ZwdVhiakhpV0JOLW85NGRYUlNZSVdKX3pxaGQ0Y0o5WHdNeS1KdFZNdXBlZW9iVjdrRjBJX0x1WTF5VFNWdUYxMnJYcVlyYm8tOVpOX3MzVzIyZFdGUVVQcVIzdW51QjJ4REVOVVBWeUFJeUdXSDBDeWJZTlVXakd4MHY5clZWUHFvNUNVM21CU19Jc1NFRFg0WHVwZFBJYm9WcjJEX3lnRUxRRXdLdHA0ZWFlU2RyQ2dnc2JzVlNZeW4zVk9FOFgxR2l3VWZPTkFnS08yT3U4eDBfdFRMLUtpcTY4OHV0bTRNbFd2bUtzcW9BMUlpc2pXMURZVGhZZUUtZERqTzhCMkE3TVJ4TktlNlUzVWpBX2NYUGtmYlJGZ0NDLWZuRnhBYW0zX2dqZ3dHLTQ1eTVUM3ppUGFvazFlUjlxVEFSdFZjOVdtaG9nTWJwUmVOTWtRNjFzRXFEWTFrZVFzeThsdTdxOThEekgtNTJHdjN2REp3Q3BEUHVGd0xHYm9zNHE0Mms0?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "65f833d1aa7e",
-      "title": "歐洲肝病死亡人數激增 報告促政府嚴管酒精",
-      "published": "2026-05-08T07:58:39+00:00",
-      "summary": "歐洲肝病死亡人數激增 報告促政府嚴管酒精&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XUFBSc05IbXlDcFlxQjdIcXVaNXVHZHlHOVJBLVphVkpZWDljcmhZVmFoMU9XUjVRWktJeExkTzZoV0J4OVJLb1hsaTdJZEtkNHc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -198,14 +234,14 @@
       "matched_keywords": []
     },
     {
-      "id": "00480d1b47cc",
-      "title": "吳芮醫生看我們與腫瘤疾病的距離 - PChome Online 新聞",
+      "id": "024a07c41912",
+      "title": "吳芮醫生看我們與腫瘤疾病的距離 - 報新聞 Mega News",
       "published": "2026-05-08T01:36:28+00:00",
-      "summary": "吳芮醫生看我們與腫瘤疾病的距離&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "吳芮醫生看我們與腫瘤疾病的距離&nbsp;&nbsp;報新聞 Mega News",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWkJxN18tUkhHQkQ3cmhqTENTdkIzX0ZwUXV1bHlIamdTZVNvaE8yTzI5RDJQd0ZJd21zNkljY196ZHN2TUdUWTR1UzdnRUtmNmlhRzkxajlrbng0QlVwZDVPUEdDWlo1bURvSVZMemM3QnMxM3VvT2NodDZsY3lUUVFwUzlYaDdabVVZ?oc=5"
+          "name": "報新聞 Mega News",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOS1BJQWU5M3loY3pPOFRIVUtQcDVDOFR4bGs1MDlELVd3VFNWaDR1bXlkRTQ2Ym0yaWQwd3Z6TDZPYTR2TkYyS3BZeGZNS1Ftc01GWVl3ejc4TzRzX2F2bVRRQl8zdnY3YVN1Y1Q2N29ZWkdyaGNZOUJvNF9YdE1PNzJjNkV3bHBwQ3NlLU9GOEdweUp1NzJfRzV4WnVZLWZVREFmOU1zVzFzUGVuSjNaNC1MT0dCOVY4WGpidVhPQ2RYaXRpX1N1Y2pVOHBOTVVDZHhVLURJYmljTHlqMzMzLWZnZlVRZTMtamxudFJnbWRoTWNmZHlmajhYV0VjVkE4VXdYUEkyVHZBdmphUzdxajh4UQ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -661,19 +697,6 @@
       "matched_keywords": []
     },
     {
-      "id": "0ce6857157dc",
-      "title": "走不動是失能前兆？中醫「補益肝腎」搭配阻力運動與飲食逆轉肌少症",
-      "published": "2026-05-07T23:50:00+00:00",
-      "summary": "走不動是失能前兆？中醫「補益肝腎」搭配阻力運動與飲食逆轉肌少症&nbsp;&nbsp;民視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMk1sc0ZsZm4zR21zOXBKeFFQTzFBSTdjekM4VmsxSXJlc2tKRE56a1U4TFZXcHdYZGhXckdRSWI4cml6U3E4ZDhnVm9raDNiclI5N2xUQnNkb0U1ajJPbA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "9590cefa8dd7",
       "title": "這種常見的睡眠習慣可能會使心臟病發作的風險加倍。",
       "published": "2026-05-07T22:30:30+00:00",
@@ -799,19 +822,6 @@
       "matched_keywords": []
     },
     {
-      "id": "04a664c02af9",
-      "title": "糖友骨鬆性骨折風險上升逾3成！專家籲：落實骨密度檢測，及早啟動「長骨頭計畫」",
-      "published": "2026-05-07T11:27:52+00:00",
-      "summary": "糖友骨鬆性骨折風險上升逾3成！專家籲：落實骨密度檢測，及早啟動「長骨頭計畫」&nbsp;&nbsp;華人健康網保健》骨鬆性骨折 嚴防骨牌效應&nbsp;&nbsp;Yahoo新聞68歲婦剛退休婦就跌倒骨折 子女面臨辭職長照困境&nbsp;&nbsp;民報恩主公醫院推動「保鈣防跌大作戰」 醫籲：114年健保擴大給付，別讓「一低」成為健康隱形炸彈&nbsp;&nbsp;良醫健康網骨折不只是跌倒意外！醫：恐增加失能與長期照護風險&nbsp;&nbsp;鏡週刊Mirror Media",
-      "sources": [
-        {
-          "name": "華人健康網",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hX0Y4RnBwdDNKX25RRmYtUWJhb1hrYWY1Um9iM1UyVGRCTDdHMXFlMWo2ZlBHVEYzekxpcUtVb215WmNlcENQUnE4YWhiUW1MMlE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "a7a0e27f7e60",
       "title": "只是小酌也一樣傷腦？研究發現「適量飲酒」仍有害，年紀愈大愈危險",
       "published": "2026-05-07T10:42:27+00:00",
@@ -890,14 +900,14 @@
       "matched_keywords": []
     },
     {
-      "id": "d9d39b32290d",
-      "title": "吳芮醫生看我們與呼吸道感染問題的距離 - 報新聞 Mega News",
-      "published": "2026-05-06T23:41:43+00:00",
-      "summary": "吳芮醫生看我們與呼吸道感染問題的距離&nbsp;&nbsp;報新聞 Mega News",
+      "id": "b0b96db312d4",
+      "title": "吳芮醫生看我們與呼吸道感染問題的距離",
+      "published": "2026-05-06T23:50:16+00:00",
+      "summary": "吳芮醫生看我們與呼吸道感染問題的距離&nbsp;&nbsp;行銷人",
       "sources": [
         {
-          "name": "報新聞 Mega News",
-          "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNOXMyUndnLWd5SUdpdjVaQ1k1LUoyeGlFc2VaUlBsR2w1SVFpR2VBVW1oU3hCT0xoN0JSOFd5R2xpd0RodjVvd2lfWExtb01ST0F2NlFnT0s2cWgxOGN0OEEtdUpTMHNPVWFpQ2JVbWxaeGdjNnlocEJ2NFFuLU84aW8xR1lMOXpsMlFuZUZOZGtPQnI1RlhvMGw0Sno3aVpMTkdYQzVRQWVkVzJuTllSNUppaFNwUXl6Mkk4R05jNFJVc3VqVlo3NHZ4VnEyUG5lekNzRTItb0l2WU5CTV9iWWdweWhWNlJRb2JWTldqTmRsQmxQVW1SWnZoeXYzY25yOGdVWjJyN1FrVUtPZlNCZG5FZ0NmRXBPZWloTU1qdVZsZ1RObEotemNrN2lFZThBVWpvYkNOOA?oc=5"
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQMEtYUkpPYmYzMDA3azJ3cVVRVVN3by1Qa3R3WWJKcmJ6S2pxSGJSV1BOSTJEQ21IWjdqaHBpTFF2XzBDdnlYSzJHYkZLcUIyWDV2OElGTFVmMFJaRFZqYm5ZSGtWdUFqelB1ZW1HUWJUbkdYRF93bTVMMDRpb3h0OUZGVnZlVDZDdnE1cFBsQmh0cTYtQnNOMEZjSjdPZktaclVCRXFsREZfSWpacnl6VjdtVEVQZWhuZTZMWnlKWnVjcmhBTW5uZXRMeGgxbnJJUVZvR3hkNHg2YW9aeXJvWWdLSmZhNkFqRDRCaG9wdk1RQmlwUGFSY21HSlN0QUxNYjZDRy10SmduMXpNUVNYSmRIdkwtbFhraHFVQ0ZrREZjWGVBRzJzZ2k2b3l2ZldHenRBMEhuRQ?oc=5"
         }
       ],
       "matched_keywords": []
