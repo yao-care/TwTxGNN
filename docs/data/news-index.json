@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-08T07:16:56.095590+00:00",
+  "generated": "2026-05-08T09:06:22.155439+00:00",
   "count": 5,
   "news": [
     {
@@ -363,6 +363,21 @@
             {
               "slug": "nystatin",
               "name": "Nystatin"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "骨質疏鬆症",
+          "keyword": "骨質疏鬆症",
+          "related_drugs": [
+            {
+              "slug": "alfacalcidol",
+              "name": "Alfacalcidol"
+            },
+            {
+              "slug": "denosumab",
+              "name": "Denosumab"
             }
           ]
         }

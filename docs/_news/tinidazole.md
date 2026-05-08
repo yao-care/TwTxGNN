@@ -54,7 +54,7 @@ permalink: /news/tinidazole/
 
 ### [糖友骨鬆性骨折風險上升逾3成！專家籲：落實骨密度檢測，及早啟動「長骨頭計畫」](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hX0Y4RnBwdDNKX25RRmYtUWJhb1hrYWY1Um9iM1UyVGRCTDdHMXFlMWo2ZlBHVEYzekxpcUtVb215WmNlcENQUnE4YWhiUW1MMlE?oc=5)
 
-2026-05-07 <span class="news-indication-tag">更年期</span>
+2026-05-07 <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">骨質疏鬆症</span>
 
 來源：[華人健康網](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hX0Y4RnBwdDNKX25RRmYtUWJhb1hrYWY1Um9iM1UyVGRCTDdHMXFlMWo2ZlBHVEYzekxpcUtVb215WmNlcENQUnE4YWhiUW1MMlE?oc=5)
 
