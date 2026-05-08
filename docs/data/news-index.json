@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T02:34:58.419794+00:00",
-  "count": 3,
+  "generated": "2026-05-08T05:23:22.173151+00:00",
+  "count": 4,
   "news": [
     {
       "id": "024a07c41912",
@@ -303,6 +303,34 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5ee26c2491c0",
+      "title": "糖友骨鬆性骨折風險上升逾3成！專家籲：落實骨密度檢測，及早啟動「長骨頭計畫」",
+      "published": "2026-05-07T11:27:52+00:00",
+      "sources": [
+        {
+          "name": "華人健康網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GbjFNeWI1UFlDdWM3ZmNPZ1hvOHpIWUU1a0Y4ZDVyZ0E5WFBsc1J4TFBlSlQzN1JLTVR6cDBrMURYeF9aNHg0Zlg1Nk1RdXlrR1VGWm9lOA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "骨質疏鬆症",
+          "keyword": "骨質疏鬆症",
+          "related_drugs": [
+            {
+              "slug": "alfacalcidol",
+              "name": "Alfacalcidol"
+            },
+            {
+              "slug": "denosumab",
+              "name": "Denosumab"
             }
           ]
         }
