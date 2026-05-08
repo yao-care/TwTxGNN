@@ -14,7 +14,7 @@ permalink: /news/tinidazole/
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/tinidazole/
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [吳芮醫生看我們與腫瘤疾病的距離 - PChome Online 新聞](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWkJxN18tUkhHQkQ3cmhqTENTdkIzX0ZwUXV1bHlIamdTZVNvaE8yTzI5RDJQd0ZJd21zNkljY196ZHN2TUdUWTR1UzdnRUtmNmlhRzkxajlrbng0QlVwZDVPUEdDWlo1bURvSVZMemM3QnMxM3VvT2NodDZsY3lUUVFwUzlYaDdabVVZ?oc=5)
 
 2026-05-08 <span class="news-indication-tag">腫瘤</span>
 
 來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWkJxN18tUkhHQkQ3cmhqTENTdkIzX0ZwUXV1bHlIamdTZVNvaE8yTzI5RDJQd0ZJd21zNkljY196ZHN2TUdUWTR1UzdnRUtmNmlhRzkxajlrbng0QlVwZDVPUEdDWlo1bURvSVZMemM3QnMxM3VvT2NodDZsY3lUUVFwUzlYaDdabVVZ?oc=5)
-
----
-
-### [糖友骨鬆性骨折風險上升逾3成！專家籲：落實骨密度檢測，及早啟動「長骨頭計畫」](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hX0Y4RnBwdDNKX25RRmYtUWJhb1hrYWY1Um9iM1UyVGRCTDdHMXFlMWo2ZlBHVEYzekxpcUtVb215WmNlcENQUnE4YWhiUW1MMlE?oc=5)
-
-2026-05-07 <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">骨質疏鬆症</span>
-
-來源：[華人健康網](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hX0Y4RnBwdDNKX25RRmYtUWJhb1hrYWY1Um9iM1UyVGRCTDdHMXFlMWo2ZlBHVEYzekxpcUtVb215WmNlcENQUnE4YWhiUW1MMlE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/nystatin/
 ---
 
 <p class="key-answer" data-question="Nystatin 有什麼相關新聞？">
-<strong>Nystatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nystatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/nystatin/
 <p><a href="{{ '/drugs/nystatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [糖友骨鬆性骨折風險上升逾3成！專家籲：落實骨密度檢測，及早啟動「長骨頭計畫」](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hX0Y4RnBwdDNKX25RRmYtUWJhb1hrYWY1Um9iM1UyVGRCTDdHMXFlMWo2ZlBHVEYzekxpcUtVb215WmNlcENQUnE4YWhiUW1MMlE?oc=5)
-
-2026-05-07 <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">骨質疏鬆症</span>
-
-來源：[華人健康網](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hX0Y4RnBwdDNKX25RRmYtUWJhb1hrYWY1Um9iM1UyVGRCTDdHMXFlMWo2ZlBHVEYzekxpcUtVb215WmNlcENQUnE4YWhiUW1MMlE?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

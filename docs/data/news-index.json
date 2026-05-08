@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T09:06:22.155439+00:00",
-  "count": 5,
+  "generated": "2026-05-08T11:03:55.226326+00:00",
+  "count": 4,
   "news": [
     {
       "id": "75bd14aed376",
@@ -327,57 +327,6 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "04a664c02af9",
-      "title": "糖友骨鬆性骨折風險上升逾3成！專家籲：落實骨密度檢測，及早啟動「長骨頭計畫」",
-      "published": "2026-05-07T11:27:52+00:00",
-      "sources": [
-        {
-          "name": "華人健康網",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hX0Y4RnBwdDNKX25RRmYtUWJhb1hrYWY1Um9iM1UyVGRCTDdHMXFlMWo2ZlBHVEYzekxpcUtVb215WmNlcENQUnE4YWhiUW1MMlE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "骨質疏鬆症",
-          "keyword": "骨質疏鬆症",
-          "related_drugs": [
-            {
-              "slug": "alfacalcidol",
-              "name": "Alfacalcidol"
-            },
-            {
-              "slug": "denosumab",
-              "name": "Denosumab"
             }
           ]
         }
