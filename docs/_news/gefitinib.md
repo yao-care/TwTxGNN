@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [吳芮醫生看我們與腫瘤疾病的距離 - 報新聞 Mega News](https://news.google.com/rss/articles/CBMikwJBVV95cUxOS1BJQWU5M3loY3pPOFRIVUtQcDVDOFR4bGs1MDlELVd3VFNWaDR1bXlkRTQ2Ym0yaWQwd3Z6TDZPYTR2TkYyS3BZeGZNS1Ftc01GWVl3ejc4TzRzX2F2bVRRQl8zdnY3YVN1Y1Q2N29ZWkdyaGNZOUJvNF9YdE1PNzJjNkV3bHBwQ3NlLU9GOEdweUp1NzJfRzV4WnVZLWZVREFmOU1zVzFzUGVuSjNaNC1MT0dCOVY4WGpidVhPQ2RYaXRpX1N1Y2pVOHBOTVVDZHhVLURJYmljTHlqMzMzLWZnZlVRZTMtamxudFJnbWRoTWNmZHlmajhYV0VjVkE4VXdYUEkyVHZBdmphUzdxajh4UQ?oc=5)
+### [阿茲海默症藥物可能不起作用，並且可能會增加大腦的風險。](https://news.google.com/rss/articles/CBMihgNBVV95cUxQWEo0X21XVWZXNFlGRDlESVczNE1uZ2RfXzRVZGFWaHRyR0VkMDBtZlNHT3JMRUUtMURPRXdUQ3RmQTdUc1dpR2dRcWZfaE1VbklwVGlvVGgzczlLSGRxWVN2ZGd2c3AwaTV3RThidHFrMnpMel9HYnlLcVNSNDR2Qmk0U1BMWDFIYkFBdy1oSXFjWkpPa2N6Wk1aVmgtVUJkVVJFbW1mazZvS080RzExaFJLaEZJcFlOWnNaeFhJekdmOHFoU0RrYTdjZ3RPLXp1QkljRVVwU3k3OUxCX1BaSkVUbUE5MktoM2NJOWZPRWFOM1V5TjAxVWVzYllIb08yZTVrc0ZscWNvd2FFdzh6NVFZbXAzcVFnc0taRWpuYmUtcjd3Z1VDa0wzOTVZME5Dckg2Uzl0amQ2OUV1QnlESDkySUExeDJ1VEFUU0xIVW9COHFZdllTVkxrZE50VGk1NUZPc2xoaUJoWFhVcnBLaHZ2UHNkU1JWYktYV3I0N3p6NldVVVE?oc=5)
+
+2026-05-08 <span class="news-indication-tag">阿茲海默症</span>
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihgNBVV95cUxQWEo0X21XVWZXNFlGRDlESVczNE1uZ2RfXzRVZGFWaHRyR0VkMDBtZlNHT3JMRUUtMURPRXdUQ3RmQTdUc1dpR2dRcWZfaE1VbklwVGlvVGgzczlLSGRxWVN2ZGd2c3AwaTV3RThidHFrMnpMel9HYnlLcVNSNDR2Qmk0U1BMWDFIYkFBdy1oSXFjWkpPa2N6Wk1aVmgtVUJkVVJFbW1mazZvS080RzExaFJLaEZJcFlOWnNaeFhJekdmOHFoU0RrYTdjZ3RPLXp1QkljRVVwU3k3OUxCX1BaSkVUbUE5MktoM2NJOWZPRWFOM1V5TjAxVWVzYllIb08yZTVrc0ZscWNvd2FFdzh6NVFZbXAzcVFnc0taRWpuYmUtcjd3Z1VDa0wzOTVZME5Dckg2Uzl0amQ2OUV1QnlESDkySUExeDJ1VEFUU0xIVW9COHFZdllTVkxrZE50VGk1NUZPc2xoaUJoWFhVcnBLaHZ2UHNkU1JWYktYV3I0N3p6NldVVVE?oc=5)
+
+---
+
+### [吳芮醫生看我們與腫瘤疾病的距離 - PChome Online 新聞](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWkJxN18tUkhHQkQ3cmhqTENTdkIzX0ZwUXV1bHlIamdTZVNvaE8yTzI5RDJQd0ZJd21zNkljY196ZHN2TUdUWTR1UzdnRUtmNmlhRzkxajlrbng0QlVwZDVPUEdDWlo1bURvSVZMemM3QnMxM3VvT2NodDZsY3lUUVFwUzlYaDdabVVZ?oc=5)
 
 2026-05-08 <span class="news-indication-tag">腫瘤</span>
 
-來源：[報新聞 Mega News](https://news.google.com/rss/articles/CBMikwJBVV95cUxOS1BJQWU5M3loY3pPOFRIVUtQcDVDOFR4bGs1MDlELVd3VFNWaDR1bXlkRTQ2Ym0yaWQwd3Z6TDZPYTR2TkYyS3BZeGZNS1Ftc01GWVl3ejc4TzRzX2F2bVRRQl8zdnY3YVN1Y1Q2N29ZWkdyaGNZOUJvNF9YdE1PNzJjNkV3bHBwQ3NlLU9GOEdweUp1NzJfRzV4WnVZLWZVREFmOU1zVzFzUGVuSjNaNC1MT0dCOVY4WGpidVhPQ2RYaXRpX1N1Y2pVOHBOTVVDZHhVLURJYmljTHlqMzMzLWZnZlVRZTMtamxudFJnbWRoTWNmZHlmajhYV0VjVkE4VXdYUEkyVHZBdmphUzdxajh4UQ?oc=5)
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWkJxN18tUkhHQkQ3cmhqTENTdkIzX0ZwUXV1bHlIamdTZVNvaE8yTzI5RDJQd0ZJd21zNkljY196ZHN2TUdUWTR1UzdnRUtmNmlhRzkxajlrbng0QlVwZDVPUEdDWlo1bURvSVZMemM3QnMxM3VvT2NodDZsY3lUUVFwUzlYaDdabVVZ?oc=5)
 
 ---
 

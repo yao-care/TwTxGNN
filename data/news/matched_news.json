@@ -1,8 +1,33 @@
 {
-  "last_updated": "2026-05-08T05:23:22.141704+00:00",
-  "total_count": 27,
-  "matched_count": 4,
+  "last_updated": "2026-05-08T07:16:56.064634+00:00",
+  "total_count": 29,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "75bd14aed376",
+      "title": "阿茲海默症藥物可能不起作用，並且可能會增加大腦的風險。",
+      "published": "2026-05-08T06:24:25+00:00",
+      "summary": "阿茲海默症藥物可能不起作用，並且可能會增加大腦的風險。&nbsp;&nbsp;arch-web.com.tw研究：抗澱粉樣蛋白藥物 或對阿茲海默症患者無益&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQWEo0X21XVWZXNFlGRDlESVczNE1uZ2RfXzRVZGFWaHRyR0VkMDBtZlNHT3JMRUUtMURPRXdUQ3RmQTdUc1dpR2dRcWZfaE1VbklwVGlvVGgzczlLSGRxWVN2ZGd2c3AwaTV3RThidHFrMnpMel9HYnlLcVNSNDR2Qmk0U1BMWDFIYkFBdy1oSXFjWkpPa2N6Wk1aVmgtVUJkVVJFbW1mazZvS080RzExaFJLaEZJcFlOWnNaeFhJekdmOHFoU0RrYTdjZ3RPLXp1QkljRVVwU3k3OUxCX1BaSkVUbUE5MktoM2NJOWZPRWFOM1V5TjAxVWVzYllIb08yZTVrc0ZscWNvd2FFdzh6NVFZbXAzcVFnc0taRWpuYmUtcjd3Z1VDa0wzOTVZME5Dckg2Uzl0amQ2OUV1QnlESDkySUExeDJ1VEFUU0xIVW9COHFZdllTVkxrZE50VGk1NUZPc2xoaUJoWFhVcnBLaHZ2UHNkU1JWYktYV3I0N3p6NldVVVE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "f6a13d40449c",
       "title": "沙丁魚斷食法爆紅！醫揭精神變好這些魚也能替代| TVBS - LINE TODAY",
@@ -30,14 +55,27 @@
       "matched_keywords": []
     },
     {
-      "id": "024a07c41912",
-      "title": "吳芮醫生看我們與腫瘤疾病的距離 - 報新聞 Mega News",
-      "published": "2026-05-08T01:36:28+00:00",
-      "summary": "吳芮醫生看我們與腫瘤疾病的距離&nbsp;&nbsp;報新聞 Mega News",
+      "id": "926af24f32db",
+      "title": "茂盛醫院PGT-H技術 助評基因疾病風險",
+      "published": "2026-05-08T02:40:42+00:00",
+      "summary": "茂盛醫院PGT-H技術 助評基因疾病風險&nbsp;&nbsp;經濟日報",
       "sources": [
         {
-          "name": "報新聞 Mega News",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOS1BJQWU5M3loY3pPOFRIVUtQcDVDOFR4bGs1MDlELVd3VFNWaDR1bXlkRTQ2Ym0yaWQwd3Z6TDZPYTR2TkYyS3BZeGZNS1Ftc01GWVl3ejc4TzRzX2F2bVRRQl8zdnY3YVN1Y1Q2N29ZWkdyaGNZOUJvNF9YdE1PNzJjNkV3bHBwQ3NlLU9GOEdweUp1NzJfRzV4WnVZLWZVREFmOU1zVzFzUGVuSjNaNC1MT0dCOVY4WGpidVhPQ2RYaXRpX1N1Y2pVOHBOTVVDZHhVLURJYmljTHlqMzMzLWZnZlVRZTMtamxudFJnbWRoTWNmZHlmajhYV0VjVkE4VXdYUEkyVHZBdmphUzdxajh4UQ?oc=5"
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HVzZRQ3lUenVqMC1fSi0wOEFmT3ptRXVZSDlfVFhrRHBPNWV3UUg3QWlwZVNGeEV3Sjg4Qlg5dndkaWZvN1AxQkJEOG45b3IwNmZxa1VTMFhQd9IBX0FVX3lxTE1vV2N3bTNHZHZ5YUZBajFYZ2lvT1VEempzMDBYWkQ0Y01LN21WTXVpRGdjSHFXclppbjFMZGFmOGlGR242aWViV1FpQkFxbDVnSXdDRTYtdmtTWUZPVEh3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "00480d1b47cc",
+      "title": "吳芮醫生看我們與腫瘤疾病的距離 - PChome Online 新聞",
+      "published": "2026-05-08T01:36:28+00:00",
+      "summary": "吳芮醫生看我們與腫瘤疾病的距離&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWkJxN18tUkhHQkQ3cmhqTENTdkIzX0ZwUXV1bHlIamdTZVNvaE8yTzI5RDJQd0ZJd21zNkljY196ZHN2TUdUWTR1UzdnRUtmNmlhRzkxajlrbng0QlVwZDVPUEdDWlo1bURvSVZMemM3QnMxM3VvT2NodDZsY3lUUVFwUzlYaDdabVVZ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -403,29 +441,37 @@
       "matched_keywords": []
     },
     {
-      "id": "5ee26c2491c0",
+      "id": "04a664c02af9",
       "title": "糖友骨鬆性骨折風險上升逾3成！專家籲：落實骨密度檢測，及早啟動「長骨頭計畫」",
       "published": "2026-05-07T11:27:52+00:00",
-      "summary": "糖友骨鬆性骨折風險上升逾3成！專家籲：落實骨密度檢測，及早啟動「長骨頭計畫」&nbsp;&nbsp;華人健康網骨折即骨鬆警訊！恐掀家庭骨牌效應，照護成本年增近百萬母親節別讓媽媽硬撐！中華民國骨質疏鬆症學會、糖尿病衛教學會共同呼籲：骨頭一斷，生活全亂！及早啟動「長骨頭計畫」&nbsp;&nbsp;Yahoo新聞骨折不只是跌倒意外！醫：恐增加失能與長期照護風險&nbsp;&nbsp;Yahoo新聞防骨鬆不能只靠牛奶、鈣片！專家公開「黃金護骨祕方」骨質不空洞- 營養好食&nbsp;&nbsp;TVBS 健康2.0健康主題館／長輩骨鬆「摔不起」 一次骨折就恐釀失能&nbsp;&nbsp;聯合新聞網",
+      "summary": "糖友骨鬆性骨折風險上升逾3成！專家籲：落實骨密度檢測，及早啟動「長骨頭計畫」&nbsp;&nbsp;華人健康網防骨鬆不能只靠牛奶、鈣片！專家公開「黃金護骨祕方」骨質不空洞- 營養好食&nbsp;&nbsp;TVBS 健康2.0骨折不只是跌倒意外！醫：恐增加失能與長期照護風險&nbsp;&nbsp;Yahoo新聞母親節快樂!媽媽更年期別硬撐！醫曝5大保養關鍵防骨鬆、慢性病&nbsp;&nbsp;PChome Online 新聞健康主題館／長輩骨鬆「摔不起」 一次骨折就恐釀失能&nbsp;&nbsp;聯合新聞網",
       "sources": [
         {
           "name": "華人健康網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GbjFNeWI1UFlDdWM3ZmNPZ1hvOHpIWUU1a0Y4ZDVyZ0E5WFBsc1J4TFBlSlQzN1JLTVR6cDBrMURYeF9aNHg0Zlg1Nk1RdXlrR1VGWm9lOA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hX0Y4RnBwdDNKX25RRmYtUWJhb1hrYWY1Um9iM1UyVGRCTDdHMXFlMWo2ZlBHVEYzekxpcUtVb215WmNlcENQUnE4YWhiUW1MMlE?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "骨質疏鬆症",
-          "keyword": "骨質疏鬆症",
+          "name": "menopause",
+          "keyword": "更年期",
           "related_drugs": [
             {
-              "slug": "alfacalcidol",
-              "name": "Alfacalcidol"
+              "slug": "tinidazole",
+              "name": "Tinidazole"
             },
             {
-              "slug": "denosumab",
-              "name": "Denosumab"
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
             }
           ]
         }
@@ -458,13 +504,13 @@
       "matched_keywords": []
     },
     {
-      "id": "695caf245328",
+      "id": "95939f47d3f7",
       "title": "豉油推介｜水中銀檢測19款豉油不含黄曲霉毒素 24款豉油無色素真正零添加",
       "published": "2026-05-07T07:52:26+00:00",
-      "summary": "豉油推介｜水中銀檢測19款豉油不含黄曲霉毒素 24款豉油無色素真正零添加&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "豉油推介｜水中銀檢測19款豉油不含黄曲霉毒素 24款豉油無色素真正零添加&nbsp;&nbsp;topick.hket.com",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
+          "name": "topick.hket.com",
           "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNcjM2SGJOeVFSY3lkRk1EVlZxeVdITUdVMGdhM1NBeTdIU0tsR0h2Q0RzUU56SHNNNnhvRzloTk1vSDZnTDNvbXRCMk5mUlRiYmVsV0JGVmJnTGpISnEtTk1yM0Jja3B1N1ZYeWhzb0lnMkFaaWRyeElqUWE3NktDdzVPWm5wbjR5ZXg4NThBWnZVZ2FSNXcxVFNDOVlLaFB1Mk1qVjVxUm9aU3Jzc01SV1hyRWcwYjZkS2QtdjdzVUVqWkY1bmdsN0w1ZDRGUm9kMmhaVElnM0VjTGZrTnBzcVppTnRIWWFNVVQ3OXQ5Rk5DU2QwZ0laMkZkZGVGNUJiOWRBdHlOa3Q0RUVERDlHWXViVG1RNGpBUlZEYUtEd2lIOWN5OHFWSzhYaWluTWVUaWNLajBHNlJUTWlUcEFHRjFhdHJIY2pHRVZiOWhiWWVsVnE1TlB5UnM2aVJlblNFYmZmRVpaaEFyM0kzT0RERjJ1LUZyelZQX2dqcXBYeHROTHdkbE9HVVhIRlZJSm4wQ0xXcGp2TnFoR0YtcndMWE1OZUZTOERwOGNVbFFaTE4yOVJoZUZyanhNN0NrR1JUN0dhTWxnTkg1UnBHdVdYTWF5cmhKY3BZTTMtOWRvVndoamRG?oc=5"
         }
       ],
@@ -510,14 +556,27 @@
       "matched_keywords": []
     },
     {
-      "id": "87d2b9d7583d",
+      "id": "562bbffed2c1",
       "title": "洪金寶丨74歲洪金寶狀態回春靠「糞便移植」成功減重 患糖尿病一度虛弱到抱不到孫",
       "published": "2026-05-07T04:17:03+00:00",
-      "summary": "洪金寶丨74歲洪金寶狀態回春靠「糞便移植」成功減重 患糖尿病一度虛弱到抱不到孫&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "洪金寶丨74歲洪金寶狀態回春靠「糞便移植」成功減重 患糖尿病一度虛弱到抱不到孫&nbsp;&nbsp;topick.hket.com",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
+          "name": "topick.hket.com",
           "link": "https://news.google.com/rss/articles/CBMikARBVV95cUxQVFBjVW1BaS1oNGMzSjhzd3lWd3R6SGEwVFRnaVpWbjA4MzhvTUJVRVU0S0NVbHRDeWQzenRUTnNPbDg4QkxPcWYzTHdlQWhKR1owS3AydjRmWU5mbXVpSEZDUmM0Z3VPeFhHa3dvWmVIS1k3NHktZ1FVUmt1MkdtcU41OHh4SEw1WkJnMTB2LVd5cWpKWUVmeWpHWm8zWU43TWdNVXVLX3VwWkZ1M1JlWVNDUmlBbEFhYzBnbW14OEtFaTJtMFV5NVYtMFJ4a3pMRkU5VDZrVTlqUnhRanpROVJiUU04RXFGbDZILWpjUGVzc2JnZ2tHc1dZSjRrVlUzeE45VXJsQVdvc1RUY0VBelZsUzFyV0t1UW1hc0hVUkdvX0J6U0ItdE50dmNOd291TDk0SmlRYW5uMjVoQ0FEQW1fRmdLaTZqLWltQXJZeHg5dm1yUU55VExiNGRqemdHUXY1LURtOGlHb3pySndPdEhuUHVGalJzM29pajJLSnQwbU5udW1ReHF5R3gyaVVjSkRSVi1xV3Vqd183ZXFhajNpZ3FRVF9pM2MxY0VEVlFKRDdXRjNDNzZxbGN0WHRGanptS1ZzWWEybTB3S3lUYW1hTF9UbnJqU3I3ZFc0S1JjYjBhN0tobG9falBYZlhKcU9famtKTmlIdlVCWFlUT3ZHQWIwM1R2SlB2d2hNVnE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d9d39b32290d",
+      "title": "吳芮醫生看我們與呼吸道感染問題的距離 - 報新聞 Mega News",
+      "published": "2026-05-06T23:41:43+00:00",
+      "summary": "吳芮醫生看我們與呼吸道感染問題的距離&nbsp;&nbsp;報新聞 Mega News",
+      "sources": [
+        {
+          "name": "報新聞 Mega News",
+          "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNOXMyUndnLWd5SUdpdjVaQ1k1LUoyeGlFc2VaUlBsR2w1SVFpR2VBVW1oU3hCT0xoN0JSOFd5R2xpd0RodjVvd2lfWExtb01ST0F2NlFnT0s2cWgxOGN0OEEtdUpTMHNPVWFpQ2JVbWxaeGdjNnlocEJ2NFFuLU84aW8xR1lMOXpsMlFuZUZOZGtPQnI1RlhvMGw0Sno3aVpMTkdYQzVRQWVkVzJuTllSNUppaFNwUXl6Mkk4R05jNFJVc3VqVlo3NHZ4VnEyUG5lekNzRTItb0l2WU5CTV9iWWdweWhWNlJRb2JWTldqTmRsQmxQVW1SWnZoeXYzY25yOGdVWjJyN1FrVUtPZlNCZG5FZ0NmRXBPZWloTU1qdVZsZ1RObEotemNrN2lFZThBVWpvYkNOOA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -621,19 +680,6 @@
         {
           "name": "Harper's BAZAAR",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS0NQS2xZV19TanEyOWhQOHExSTBWR3BtX3hTaV8yelZDcGptbHJDU19nSzlueDVqT3VPTXAtZmhoZU5UZzFyNUE3S0F6Z0lyS1k5REhVLUE3Sk9FcXMxaXREQUlhdWV6bUtlZmN2ZmVVMmdBUzQxbEl6ZWx4NUFNbXZJaFNDTDB1M3YtNU0wM2lYQVQ3LUpQZC1vSDRETlg1VmpuVG5qemoyVGJ4TmRvblZMcUp6cTZOUTBSZHJReWtWUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "598e2c53ae92",
-      "title": "嬰幼兒發高燒出疹不一定是麻疹 可能是玫瑰疹作祟",
-      "published": "2026-05-06T05:00:00+00:00",
-      "summary": "嬰幼兒發高燒出疹不一定是麻疹 可能是玫瑰疹作祟&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSYUdtUDJkZ3ppaWhCRk80RG5yUTVJM0dnTG5kWGZwR2pKS3J1ZlVzZ1lXR1RDeFB4UUQteFQwS25QS2l0UW9CYkVqMDJNVEpIcTFCV3ZlRnpwYzY2dUwxVNIBZkFVX3lxTE5xNDR5ZEx2a1JTcHAwSUE0bWVfT0hsb2syNVowTmxBUE9ReDg4aWljZFJZZnh5dnRkZmQyUldBM1JtVHlKZEhvaUdRZkpnRmdjOEZkRk9oemR3aHhSUmMzY1Bld2NXUQ?oc=5"
         }
       ],
       "matched_keywords": []
