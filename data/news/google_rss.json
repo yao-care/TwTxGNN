@@ -1,13 +1,25 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-08T15:14:29.182697+00:00",
+  "fetched_at": "2026-05-08T17:03:22.491610+00:00",
   "count": 27,
   "news": [
+    {
+      "id": "75bd14aed376",
+      "title": "阿茲海默症藥物可能不起作用，並且可能會增加大腦的風險。 - arch-web.com.tw",
+      "published": "2026-05-08T06:24:25+00:00",
+      "summary": "阿茲海默症藥物可能不起作用，並且可能會增加大腦的風險。&nbsp;&nbsp;arch-web.com.tw研究：抗澱粉樣蛋白藥物 或對阿茲海默症患者無益&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQWEo0X21XVWZXNFlGRDlESVczNE1uZ2RfXzRVZGFWaHRyR0VkMDBtZlNHT3JMRUUtMURPRXdUQ3RmQTdUc1dpR2dRcWZfaE1VbklwVGlvVGgzczlLSGRxWVN2ZGd2c3AwaTV3RThidHFrMnpMel9HYnlLcVNSNDR2Qmk0U1BMWDFIYkFBdy1oSXFjWkpPa2N6Wk1aVmgtVUJkVVJFbW1mazZvS080RzExaFJLaEZJcFlOWnNaeFhJekdmOHFoU0RrYTdjZ3RPLXp1QkljRVVwU3k3OUxCX1BaSkVUbUE5MktoM2NJOWZPRWFOM1V5TjAxVWVzYllIb08yZTVrc0ZscWNvd2FFdzh6NVFZbXAzcVFnc0taRWpuYmUtcjd3Z1VDa0wzOTVZME5Dckg2Uzl0amQ2OUV1QnlESDkySUExeDJ1VEFUU0xIVW9COHFZdllTVkxrZE50VGk1NUZPc2xoaUJoWFhVcnBLaHZ2UHNkU1JWYktYV3I0N3p6NldVVVE?oc=5"
+        }
+      ]
+    },
     {
       "id": "04a664c02af9",
       "title": "糖友骨鬆性骨折風險上升逾3成！專家籲：落實骨密度檢測，及早啟動「長骨頭計畫」 - 華人健康網",
       "published": "2026-05-07T11:27:52+00:00",
-      "summary": "糖友骨鬆性骨折風險上升逾3成！專家籲：落實骨密度檢測，及早啟動「長骨頭計畫」&nbsp;&nbsp;華人健康網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "糖友骨鬆性骨折風險上升逾3成！專家籲：落實骨密度檢測，及早啟動「長骨頭計畫」&nbsp;&nbsp;華人健康網防骨鬆不能只靠牛奶、鈣片！專家公開「黃金護骨祕方」骨質不空洞- 營養好食&nbsp;&nbsp;TVBS 健康2.0骨折不只是跌倒意外！醫：恐增加失能與長期照護風險&nbsp;&nbsp;Yahoo新聞恩主公醫院推動「保鈣防跌大作戰」 醫籲：114年健保擴大給付，別讓「一低」成為健康隱形炸彈&nbsp;&nbsp;良醫健康網70歲媽媽2週竟骨折3次 醫提醒：骨折可能是骨鬆警訊，忽視恐導致反覆骨折&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
           "name": "華人健康網",
@@ -72,18 +84,6 @@
         {
           "name": "經濟日報",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HVzZRQ3lUenVqMC1fSi0wOEFmT3ptRXVZSDlfVFhrRHBPNWV3UUg3QWlwZVNGeEV3Sjg4Qlg5dndkaWZvN1AxQkJEOG45b3IwNmZxa1VTMFhQd9IBX0FVX3lxTE1vV2N3bTNHZHZ5YUZBajFYZ2lvT1VEempzMDBYWkQ0Y01LN21WTXVpRGdjSHFXclppbjFMZGFmOGlGR242aWViV1FpQkFxbDVnSXdDRTYtdmtTWUZPVEh3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "75bd14aed376",
-      "title": "阿茲海默症藥物可能不起作用，並且可能會增加大腦的風險。 - arch-web.com.tw",
-      "published": "2026-05-08T06:24:25+00:00",
-      "summary": "阿茲海默症藥物可能不起作用，並且可能會增加大腦的風險。&nbsp;&nbsp;arch-web.com.tw研究：抗澱粉樣蛋白藥物 或對阿茲海默症患者無益&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQWEo0X21XVWZXNFlGRDlESVczNE1uZ2RfXzRVZGFWaHRyR0VkMDBtZlNHT3JMRUUtMURPRXdUQ3RmQTdUc1dpR2dRcWZfaE1VbklwVGlvVGgzczlLSGRxWVN2ZGd2c3AwaTV3RThidHFrMnpMel9HYnlLcVNSNDR2Qmk0U1BMWDFIYkFBdy1oSXFjWkpPa2N6Wk1aVmgtVUJkVVJFbW1mazZvS080RzExaFJLaEZJcFlOWnNaeFhJekdmOHFoU0RrYTdjZ3RPLXp1QkljRVVwU3k3OUxCX1BaSkVUbUE5MktoM2NJOWZPRWFOM1V5TjAxVWVzYllIb08yZTVrc0ZscWNvd2FFdzh6NVFZbXAzcVFnc0taRWpuYmUtcjd3Z1VDa0wzOTVZME5Dckg2Uzl0amQ2OUV1QnlESDkySUExeDJ1VEFUU0xIVW9COHFZdllTVkxrZE50VGk1NUZPc2xoaUJoWFhVcnBLaHZ2UHNkU1JWYktYV3I0N3p6NldVVVE?oc=5"
         }
       ]
     },
