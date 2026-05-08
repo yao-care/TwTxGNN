@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T13:11:06.501461+00:00",
-  "count": 4,
+  "generated": "2026-05-08T15:14:32.603953+00:00",
+  "count": 3,
   "news": [
     {
       "id": "75bd14aed376",
@@ -327,30 +327,6 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f6d5576fa85d",
-      "title": "健康網》張曼娟母親踏進健身房後變了 醫曝失智緩解",
-      "published": "2026-05-06T13:19:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XWlBHUFpmSXN1NjluN3hJZ3l4NGowMEVHRVdMREVEbHNqMkRWcnQxZUNfeFJaeFlnNnBsSG5VUFd3Mk5GZmZPWEhUSXhiQXdPRkNxUWFEcnRYYi1pUUJIdGk5N3TSAWpBVV95cUxQVVlERzRkbDl1cExyVVl4eFNWa0s1NWNmUXNyUXhQRVdqaTZFaU1pdkNmTXo0U19veDRDQ1lGUWlUa18wOUZzOUkxY0ppYmxfTnVmNk5CUDBwcTBSVFlocE1pc3lleFg3ZVRR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

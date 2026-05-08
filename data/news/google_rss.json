@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-08T13:11:02.434639+00:00",
-  "count": 29,
+  "fetched_at": "2026-05-08T15:14:29.182697+00:00",
+  "count": 27,
   "news": [
     {
       "id": "04a664c02af9",
@@ -28,14 +28,14 @@
       ]
     },
     {
-      "id": "4d506d859e83",
+      "id": "c82427d57327",
       "title": "研究：簡單日常習慣 改善血壓和心臟風險因素 - 自由健康網",
       "published": "2026-05-08T06:09:00+00:00",
       "summary": "研究：簡單日常習慣 改善血壓和心臟風險因素&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hWlRFUVFJeE50NzFSUG5KX3NsQUhUNnlKSnBPOW5KUlg5Z0VSenJHNWxCaV9FMXlkUWZPOTBYdnlvNGhKMDh0MVQwbWpKZVdwX3UxaXdZamlUZU80M3RjRHU0MGo?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hWlRFUVFJeE50NzFSUG5KX3NsQUhUNnlKSnBPOW5KUlg5Z0VSenJHNWxCaV9FMXlkUWZPOTBYdnlvNGhKMDh0MVQwbWpKZVdwX3UxaXdZamlUZU80M3RjRHU0MGrSAWpBVV95cUxPblBUY2lwN3Jrck9iQ0xoZXNZb3gyMUtIRlpIRXB5SjZoWkNKRVZPODNRUzV2dVhxM3RabHRTUGZBN0k1Qkx0WHNKSnpIMnhmem9iRmFYLTFtUU9DNkNxTWlGRzNqS3BOZW5R?oc=5"
         }
       ]
     },
@@ -52,18 +52,6 @@
       ]
     },
     {
-      "id": "926af24f32db",
-      "title": "茂盛醫院PGT-H技術 助評基因疾病風險 - 經濟日報",
-      "published": "2026-05-08T02:40:42+00:00",
-      "summary": "茂盛醫院PGT-H技術 助評基因疾病風險&nbsp;&nbsp;經濟日報",
-      "sources": [
-        {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HVzZRQ3lUenVqMC1fSi0wOEFmT3ptRXVZSDlfVFhrRHBPNWV3UUg3QWlwZVNGeEV3Sjg4Qlg5dndkaWZvN1AxQkJEOG45b3IwNmZxa1VTMFhQd9IBX0FVX3lxTE1vV2N3bTNHZHZ5YUZBajFYZ2lvT1VEempzMDBYWkQ0Y01LN21WTXVpRGdjSHFXclppbjFMZGFmOGlGR242aWViV1FpQkFxbDVnSXdDRTYtdmtTWUZPVEh3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5cb141bba2d8",
       "title": "植入眼睛直接觀察！科學家成功培養胰島素細胞 糖尿病小鼠恢復血糖控制 - 自由健康網",
       "published": "2026-05-07T06:22:00+00:00",
@@ -72,6 +60,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Za0JDeUlfTGFhaVpLQlIzNzE1VXZkS2k0aU5sdWNhdXF5MmJFaFBidS1FSHROYWVSMzZEZGZ5dkpTU0VjM2tDTG1mSW1jZ3NxRXM1VVBIbURRa0l5cXhYSFlvNy3SAWpBVV95cUxOaE5EYm5oTFBsM0ozXzNodjRQZWRNQXB3amxMOTAxQmo5UG96blpEcW1HQmNSemkwWVVZdFhKclBhNE1fUTdBc1FOSHQwcEtXY2wzellPTFNqUmROaTVJODFpOWZzNmRldVZR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "926af24f32db",
+      "title": "茂盛醫院PGT-H技術 助評基因疾病風險 - 經濟日報",
+      "published": "2026-05-08T02:40:42+00:00",
+      "summary": "茂盛醫院PGT-H技術 助評基因疾病風險&nbsp;&nbsp;經濟日報",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HVzZRQ3lUenVqMC1fSi0wOEFmT3ptRXVZSDlfVFhrRHBPNWV3UUg3QWlwZVNGeEV3Sjg4Qlg5dndkaWZvN1AxQkJEOG45b3IwNmZxa1VTMFhQd9IBX0FVX3lxTE1vV2N3bTNHZHZ5YUZBajFYZ2lvT1VEempzMDBYWkQ0Y01LN21WTXVpRGdjSHFXclppbjFMZGFmOGlGR242aWViV1FpQkFxbDVnSXdDRTYtdmtTWUZPVEh3?oc=5"
         }
       ]
     },
@@ -88,18 +88,6 @@
       ]
     },
     {
-      "id": "c9a1459aa3f6",
-      "title": "科學家表示，旅行可以延緩老化並改善健康。 - arch-web.com.tw",
-      "published": "2026-05-08T03:18:19+00:00",
-      "summary": "科學家表示，旅行可以延緩老化並改善健康。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxONkE4eWdTN092NmtRYlFSZ3lwLVlCOS1zTFYxYnlxVTZTdnJIVGZsNmtxXzdwVXIxUnVEaEt1NWoySmJhVjNFeEhZb0RDZDdrT1loTThOVk16ZG1BVi1jZTQ2cGJNbkJLbldwdEVZOGQ0TFYxbnlxbEk2SGNzTXdCbHJCVi0tQUlrTkk1VnQ1bl96V09lWDNLWTZfUDR1b0FZMWh2VGwtOTU1Nkg3YnRIZzFkbzg2MktJb2RkaXJnRnFoMGpiYlFRaHd0NDE4NFlpZ1NlNi1HQVdwSUM1V2ZfVzAzVGlVUm1FRy1OQmQzb2x5eV9lYWVTWThCQ095Z0EyTFM2UUYxb29VWnJUTTV5T1RnOXVEWVlRendpekd2TXZoUlRnMy1PRE9RVE1Lc2tTdGxkODJjZm83WVoxTHFTQTBxalh4Q2twZG9BZFJQckJBTkQ5dnlJZE50ZUI2dC1nbVNzaGhXTS1rdWZXcEE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e41e82ee18a2",
       "title": "健康網》陰莖突變彎難行房 網紅醫談佩羅尼氏症 - 自由健康網",
       "published": "2026-05-07T12:36:00+00:00",
@@ -108,6 +96,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLTmlGQ19jTXhjYmFpaGpKRGJDRzJUNTh2RzBXZWRKUFFTU2JuOU5SUEVESV9RUjZfRDNyQzR4dm1LenVfOVBTa0xQa0xtVHp2bkZvY3BJOUlrTFgzREFCYUVNLVbSAWpBVV95cUxPWWtCYXBKRGF5a1N3SHFCajBJT1VTbmwtN05OQnpVY0EwSFlYT1NORTVURGgxa1Q1djhxb0ZQYzVaaU5LUlhrZlVyUzJqakZmME90OFpYZmswMUJCRm1KN1V5YnVndmhFNVZR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c9a1459aa3f6",
+      "title": "科學家表示，旅行可以延緩老化並改善健康。 - arch-web.com.tw",
+      "published": "2026-05-08T03:18:19+00:00",
+      "summary": "科學家表示，旅行可以延緩老化並改善健康。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxONkE4eWdTN092NmtRYlFSZ3lwLVlCOS1zTFYxYnlxVTZTdnJIVGZsNmtxXzdwVXIxUnVEaEt1NWoySmJhVjNFeEhZb0RDZDdrT1loTThOVk16ZG1BVi1jZTQ2cGJNbkJLbldwdEVZOGQ0TFYxbnlxbEk2SGNzTXdCbHJCVi0tQUlrTkk1VnQ1bl96V09lWDNLWTZfUDR1b0FZMWh2VGwtOTU1Nkg3YnRIZzFkbzg2MktJb2RkaXJnRnFoMGpiYlFRaHd0NDE4NFlpZ1NlNi1HQVdwSUM1V2ZfVzAzVGlVUm1FRy1OQmQzb2x5eV9lYWVTWThCQ095Z0EyTFM2UUYxb29VWnJUTTV5T1RnOXVEWVlRendpekd2TXZoUlRnMy1PRE9RVE1Lc2tTdGxkODJjZm83WVoxTHFTQTBxalh4Q2twZG9BZFJQckJBTkQ5dnlJZE50ZUI2dC1nbVNzaGhXTS1rdWZXcEE?oc=5"
         }
       ]
     },
@@ -124,14 +124,14 @@
       ]
     },
     {
-      "id": "f6d5576fa85d",
-      "title": "健康網》張曼娟母親踏進健身房後變了 醫曝失智緩解 - 自由健康網",
-      "published": "2026-05-06T13:19:00+00:00",
-      "summary": "健康網》張曼娟母親踏進健身房後變了 醫曝失智緩解&nbsp;&nbsp;自由健康網",
+      "id": "eb0c5ab76877",
+      "title": "創新生物材料從內到外治癒組織 - arch-web.com.tw",
+      "published": "2026-05-08T01:36:27+00:00",
+      "summary": "創新生物材料從內到外治癒組織&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XWlBHUFpmSXN1NjluN3hJZ3l4NGowMEVHRVdMREVEbHNqMkRWcnQxZUNfeFJaeFlnNnBsSG5VUFd3Mk5GZmZPWEhUSXhiQXdPRkNxUWFEcnRYYi1pUUJIdGk5N3TSAWpBVV95cUxQVVlERzRkbDl1cExyVVl4eFNWa0s1NWNmUXNyUXhQRVdqaTZFaU1pdkNmTXo0U19veDRDQ1lGUWlUa18wOUZzOUkxY0ppYmxfTnVmNk5CUDBwcTBSVFlocE1pc3lleFg3ZVRR?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxORnlpTThyb2loRmtsLWt3WHNtREFLTHBnX0NrRzBGa1pPRmdfTXlqS0p6cW91T0RBNC14R1I2eTZUQjJ1NUJrZzk5U0JMZmRkQUNZOWpuLU96dTFtSUMydEtzWk1EYU82VlF5SzhDZGJmeFVaX2VlelRWYTVqQmE5Rk9FVUo2Nl84UXdjeU1sN0lYMW1fdzY2d1RaMkdYNV96OW5aaGE3aDlHYTJDMVlRRUpEMUZHU2M5SXlRSVliekd3YlhNbWFmY205VGhEWjA3c0FMTy1jQVNVWnRXY1FvZ3RxdDlFR0xvZ0Q1N3MxTzVMMXJTUW9yUXNkNnRTNlZhQ1hBaENLV3R2cUxkaUZubWQ5N0ZERnFfOWpGc05FdTV0cFV0S3c?oc=5"
         }
       ]
     },
@@ -160,6 +160,18 @@
       ]
     },
     {
+      "id": "69591c7963f9",
+      "title": "走不動是失能前兆？中醫「補益肝腎」搭配阻力運動與飲食逆轉肌少症 - 健康醫療網",
+      "published": "2026-05-07T13:00:00+00:00",
+      "summary": "走不動是失能前兆？中醫「補益肝腎」搭配阻力運動與飲食逆轉肌少症&nbsp;&nbsp;健康醫療網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtdzZRMDBCT2JydHZpY1hVOXBIQlF3ZmxmaTJkV01RQ1Y1N2tvTUNKcjJtVEJ3OG1qX1hVcEFtS191ZFQ1d3ZGcG9QdzlmYTdYaHFfa0p3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f0459d60e65e",
       "title": "研究指40歲起免疫力急降！醫推6關鍵營養素 甜椒1吃法維他命C暴增 - 香港01",
       "published": "2026-05-08T08:05:36+00:00",
@@ -172,6 +184,18 @@
       ]
     },
     {
+      "id": "c220d0530120",
+      "title": "瘧疾不僅殺死了早期人類。但它也定義了我們是誰。 - arch-web.com.tw",
+      "published": "2026-05-08T08:38:26+00:00",
+      "summary": "瘧疾不僅殺死了早期人類。但它也定義了我們是誰。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNbXZIV3djYXVFMTNTRzY2a0dPZFM3bi1VZmUzNVFOand4QW90eWllbnoxSnpKazIzQmdWakJ0Sy02cVMyMEsyU0FiMzJxVWwxMFJiQ0lRTVJlME5HTTNfenMySkNva0VfcERrRWptendSbnhqV3k4cGx5X1BWbjZhd05Qd05JTENBMWhzNy03NXNtS1dMRnpxY2RqTjFfeDFIMF94bWUwNEIwSFVwRVhfc2h5YWl1Ujh3RTdWeEg0cS1NRm1DdnlQbHF1bUp0bnRQX1QzN1U0dUgwVzJIT2c3WE1QcEdhdnhsa0lZUzRXbDRuU0I2UVBRM0d5TjR6VWRNUUFFTjZVQTRKckY1YTZVcnFnWHpJUWdOZ3h0QWlfdjVrX0g3bnN4Y3J6SE5BeFFoejNHaVNGd0Y3SktjcGx3YW1PUnVVMkRKTHBiZWw3WFlVMG9xZmFoM01TTVAzVVM1RUYzYTlXOElyRWRCVlJWYmgwRnRRMXJzY2wxN2FKY1hJX29UbHc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "73f1a7772eef",
       "title": "久坐像水管打結有害健康 4個實用建議可望改善 - 世界新聞網",
       "published": "2026-05-07T17:20:54+00:00",
@@ -180,18 +204,6 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rVVdDRW9BLUVIQ29Dak1GaHdnMlZaZHJaTXRENUZCaUdRbTMwV0RzUjRTc3dSWkZ1VW82d3dlYkoyMzNUQVpzVEptOGY4QTJwYktFU3lwTmQwRGtvX3NFMnR30gFnQVVfeXFMT0hwZHJxeWV4dXJkX2lKLTBlaWp1eGlBSDAtM3BXbzNjZHhFVWhPcWRVb19HRmJfT1EydDhoLUlFancxXzQ4a2l6Q1pwRXVnUmx6TzkxZzRsc2trVVJfTm1oT05lUE9Caw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "69591c7963f9",
-      "title": "走不動是失能前兆？中醫「補益肝腎」搭配阻力運動與飲食逆轉肌少症 - 健康醫療網",
-      "published": "2026-05-07T13:00:00+00:00",
-      "summary": "走不動是失能前兆？中醫「補益肝腎」搭配阻力運動與飲食逆轉肌少症&nbsp;&nbsp;健康醫療網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtdzZRMDBCT2JydHZpY1hVOXBIQlF3ZmxmaTJkV01RQ1Y1N2tvTUNKcjJtVEJ3OG1qX1hVcEFtS191ZFQ1d3ZGcG9QdzlmYTdYaHFfa0p3?oc=5"
         }
       ]
     },
@@ -312,42 +324,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNcjM2SGJOeVFSY3lkRk1EVlZxeVdITUdVMGdhM1NBeTdIU0tsR0h2Q0RzUU56SHNNNnhvRzloTk1vSDZnTDNvbXRCMk5mUlRiYmVsV0JGVmJnTGpISnEtTk1yM0Jja3B1N1ZYeWhzb0lnMkFaaWRyeElqUWE3NktDdzVPWm5wbjR5ZXg4NThBWnZVZ2FSNXcxVFNDOVlLaFB1Mk1qVjVxUm9aU3Jzc01SV1hyRWcwYjZkS2QtdjdzVUVqWkY1bmdsN0w1ZDRGUm9kMmhaVElnM0VjTGZrTnBzcVppTnRIWWFNVVQ3OXQ5Rk5DU2QwZ0laMkZkZGVGNUJiOWRBdHlOa3Q0RUVERDlHWXViVG1RNGpBUlZEYUtEd2lIOWN5OHFWSzhYaWluTWVUaWNLajBHNlJUTWlUcEFHRjFhdHJIY2pHRVZiOWhiWWVsVnE1TlB5UnM2aVJlblNFYmZmRVpaaEFyM0kzT0RERjJ1LUZyelZQX2dqcXBYeHROTHdkbE9HVVhIRlZJSm4wQ0xXcGp2TnFoR0YtcndMWE1OZUZTOERwOGNVbFFaTE4yOVJoZUZyanhNN0NrR1JUN0dhTWxnTkg1UnBHdVdYTWF5cmhKY3BZTTMtOWRvVndoamRG?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "87d2b9d7583d",
-      "title": "洪金寶丨74歲洪金寶狀態回春靠「糞便移植」成功減重 患糖尿病一度虛弱到抱不到孫 - 香港經濟日報HKET",
-      "published": "2026-05-07T04:17:03+00:00",
-      "summary": "洪金寶丨74歲洪金寶狀態回春靠「糞便移植」成功減重 患糖尿病一度虛弱到抱不到孫&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMikARBVV95cUxQVFBjVW1BaS1oNGMzSjhzd3lWd3R6SGEwVFRnaVpWbjA4MzhvTUJVRVU0S0NVbHRDeWQzenRUTnNPbDg4QkxPcWYzTHdlQWhKR1owS3AydjRmWU5mbXVpSEZDUmM0Z3VPeFhHa3dvWmVIS1k3NHktZ1FVUmt1MkdtcU41OHh4SEw1WkJnMTB2LVd5cWpKWUVmeWpHWm8zWU43TWdNVXVLX3VwWkZ1M1JlWVNDUmlBbEFhYzBnbW14OEtFaTJtMFV5NVYtMFJ4a3pMRkU5VDZrVTlqUnhRanpROVJiUU04RXFGbDZILWpjUGVzc2JnZ2tHc1dZSjRrVlUzeE45VXJsQVdvc1RUY0VBelZsUzFyV0t1UW1hc0hVUkdvX0J6U0ItdE50dmNOd291TDk0SmlRYW5uMjVoQ0FEQW1fRmdLaTZqLWltQXJZeHg5dm1yUU55VExiNGRqemdHUXY1LURtOGlHb3pySndPdEhuUHVGalJzM29pajJLSnQwbU5udW1ReHF5R3gyaVVjSkRSVi1xV3Vqd183ZXFhajNpZ3FRVF9pM2MxY0VEVlFKRDdXRjNDNzZxbGN0WHRGanptS1ZzWWEybTB3S3lUYW1hTF9UbnJqU3I3ZFc0S1JjYjBhN0tobG9falBYZlhKcU9famtKTmlIdlVCWFlUT3ZHQWIwM1R2SlB2d2hNVnE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7f591cb2bd73",
-      "title": "兒癌終極挑戰 質子是首選 - 《現代保險》雜誌",
-      "published": "2026-04-30T03:21:44+00:00",
-      "summary": "兒癌終極挑戰 質子是首選&nbsp;&nbsp;《現代保險》雜誌",
-      "sources": [
-        {
-          "name": "《現代保險》雜誌",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Obk40c1d3S2tYNW5LNlJhYnN5SUQ4cU1hVktKaUcwQUhNNGFMUUFIWVJDWHZNTTY2ZHRzSmlCNEQ5OGZhVWVKQ2liQTliNXRSVl80?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3c6c4826fc87",
-      "title": "「白色瘟疫」再次敲響警鐘 - Singtaousa",
-      "published": "2026-05-06T12:00:00+00:00",
-      "summary": "「白色瘟疫」再次敲響警鐘&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSTdLSEw4b1Jzc2Zzc1lpemFoTE9lZTNMSmVwcThjUlMxOE5XSVg1RUFOS0prcWxsVzZFbHB4TENRT2EtYUxQWEtWakhOVDVCQUs0RkhiYm84YlhPMEpTdVlrS01kcnNvMEdQaVlJTWlYc2JDbTkyb0lBZkFhMjNaTk1kdnc0SmVH?oc=5"
         }
       ]
     }

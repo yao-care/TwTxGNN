@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-08T13:11:06.470808+00:00",
-  "total_count": 30,
-  "matched_count": 4,
+  "last_updated": "2026-05-08T15:14:32.572537+00:00",
+  "total_count": 28,
+  "matched_count": 3,
   "news": [
     {
       "id": "b351f9964568",
@@ -12,6 +12,19 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQSHFVWmdMY01mbDk2VVRhTHNtWXJVOXZ0Q0RabldSeDJ4aXUyZ2llNHVvLVBuRGYxbG0xaXBuR2ltS1BYQnlKa250d19pSzNaRnBFaHEwOHBHXzcwTk1GZnVDT2tWd00yb1JNNW1HNjZra2pvVy1GNnQ3SF9iRjByYk8wWHZzd2FtVmROblJIOUQ4eTc3Sk5yazN1YU55U3lhMW1Zci1KZVoxUVp3N19RUWpCMUtPVkltS0FWSmNCOTdHVWdZWUFpQXloMndKNHhiS1VFeW9BcEh5cmUzam81c3kxWmxFN21vZ3JFdEdQZ0J6c2hFb0lkMkdQd29pWEhac3lCWC1mSHdjSWxNZlMzRjR2WkdZNTVCRXFwNG5MNmdDVjRuWGczSG9vMlVoZkNmSldtUFRnRzJVU0JMMlVzQ0xhT1M3cURib2FtcFVsZUdiRVlWeld5MFJFVU1oeGFtTVBkMDRsdkxvUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c220d0530120",
+      "title": "瘧疾不僅殺死了早期人類。但它也定義了我們是誰。",
+      "published": "2026-05-08T08:38:26+00:00",
+      "summary": "瘧疾不僅殺死了早期人類。但它也定義了我們是誰。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNbXZIV3djYXVFMTNTRzY2a0dPZFM3bi1VZmUzNVFOand4QW90eWllbnoxSnpKazIzQmdWakJ0Sy02cVMyMEsyU0FiMzJxVWwxMFJiQ0lRTVJlME5HTTNfenMySkNva0VfcERrRWptendSbnhqV3k4cGx5X1BWbjZhd05Qd05JTENBMWhzNy03NXNtS1dMRnpxY2RqTjFfeDFIMF94bWUwNEIwSFVwRVhfc2h5YWl1Ujh3RTdWeEg0cS1NRm1DdnlQbHF1bUp0bnRQX1QzN1U0dUgwVzJIT2c3WE1QcEdhdnhsa0lZUzRXbDRuU0I2UVBRM0d5TjR6VWRNUUFFTjZVQTRKckY1YTZVcnFnWHpJUWdOZ3h0QWlfdjVrX0g3bnN4Y3J6SE5BeFFoejNHaVNGd0Y3SktjcGx3YW1PUnVVMkRKTHBiZWw3WFlVMG9xZmFoM01TTVAzVVM1RUYzYTlXOElyRWRCVlJWYmgwRnRRMXJzY2wxN2FKY1hJX29UbHc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -68,14 +81,14 @@
       ]
     },
     {
-      "id": "4d506d859e83",
+      "id": "c82427d57327",
       "title": "研究：簡單日常習慣 改善血壓和心臟風險因素",
       "published": "2026-05-08T06:09:00+00:00",
       "summary": "研究：簡單日常習慣 改善血壓和心臟風險因素&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hWlRFUVFJeE50NzFSUG5KX3NsQUhUNnlKSnBPOW5KUlg5Z0VSenJHNWxCaV9FMXlkUWZPOTBYdnlvNGhKMDh0MVQwbWpKZVdwX3UxaXdZamlUZU80M3RjRHU0MGo?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hWlRFUVFJeE50NzFSUG5KX3NsQUhUNnlKSnBPOW5KUlg5Z0VSenJHNWxCaV9FMXlkUWZPOTBYdnlvNGhKMDh0MVQwbWpKZVdwX3UxaXdZamlUZU80M3RjRHU0MGrSAWpBVV95cUxPblBUY2lwN3Jrck9iQ0xoZXNZb3gyMUtIRlpIRXB5SjZoWkNKRVZPODNRUzV2dVhxM3RabHRTUGZBN0k1Qkx0WHNKSnpIMnhmem9iRmFYLTFtUU9DNkNxTWlGRzNqS3BOZW5R?oc=5"
         }
       ],
       "matched_keywords": []
@@ -342,6 +355,19 @@
       ]
     },
     {
+      "id": "eb0c5ab76877",
+      "title": "創新生物材料從內到外治癒組織",
+      "published": "2026-05-08T01:36:27+00:00",
+      "summary": "創新生物材料從內到外治癒組織&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxORnlpTThyb2loRmtsLWt3WHNtREFLTHBnX0NrRzBGa1pPRmdfTXlqS0p6cW91T0RBNC14R1I2eTZUQjJ1NUJrZzk5U0JMZmRkQUNZOWpuLU96dTFtSUMydEtzWk1EYU82VlF5SzhDZGJmeFVaX2VlelRWYTVqQmE5Rk9FVUo2Nl84UXdjeU1sN0lYMW1fdzY2d1RaMkdYNV96OW5aaGE3aDlHYTJDMVlRRUpEMUZHU2M5SXlRSVliekd3YlhNbWFmY205VGhEWjA3c0FMTy1jQVNVWnRXY1FvZ3RxdDlFR0xvZ0Q1N3MxTzVMMXJTUW9yUXNkNnRTNlZhQ1hBaENLV3R2cUxkaUZubWQ5N0ZERnFfOWpGc05FdTV0cFV0S3c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "23a5e098a7ad",
       "title": "車厘茄連蒂放入雪櫃竟發霉！研究揭細菌數量暴增64% 即學1招延長保存期限",
       "published": "2026-05-08T00:00:00+00:00",
@@ -597,19 +623,6 @@
       "matched_keywords": []
     },
     {
-      "id": "87d2b9d7583d",
-      "title": "洪金寶丨74歲洪金寶狀態回春靠「糞便移植」成功減重 患糖尿病一度虛弱到抱不到孫",
-      "published": "2026-05-07T04:17:03+00:00",
-      "summary": "洪金寶丨74歲洪金寶狀態回春靠「糞便移植」成功減重 患糖尿病一度虛弱到抱不到孫&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMikARBVV95cUxQVFBjVW1BaS1oNGMzSjhzd3lWd3R6SGEwVFRnaVpWbjA4MzhvTUJVRVU0S0NVbHRDeWQzenRUTnNPbDg4QkxPcWYzTHdlQWhKR1owS3AydjRmWU5mbXVpSEZDUmM0Z3VPeFhHa3dvWmVIS1k3NHktZ1FVUmt1MkdtcU41OHh4SEw1WkJnMTB2LVd5cWpKWUVmeWpHWm8zWU43TWdNVXVLX3VwWkZ1M1JlWVNDUmlBbEFhYzBnbW14OEtFaTJtMFV5NVYtMFJ4a3pMRkU5VDZrVTlqUnhRanpROVJiUU04RXFGbDZILWpjUGVzc2JnZ2tHc1dZSjRrVlUzeE45VXJsQVdvc1RUY0VBelZsUzFyV0t1UW1hc0hVUkdvX0J6U0ItdE50dmNOd291TDk0SmlRYW5uMjVoQ0FEQW1fRmdLaTZqLWltQXJZeHg5dm1yUU55VExiNGRqemdHUXY1LURtOGlHb3pySndPdEhuUHVGalJzM29pajJLSnQwbU5udW1ReHF5R3gyaVVjSkRSVi1xV3Vqd183ZXFhajNpZ3FRVF9pM2MxY0VEVlFKRDdXRjNDNzZxbGN0WHRGanptS1ZzWWEybTB3S3lUYW1hTF9UbnJqU3I3ZFc0S1JjYjBhN0tobG9falBYZlhKcU9famtKTmlIdlVCWFlUT3ZHQWIwM1R2SlB2d2hNVnE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "d9d39b32290d",
       "title": "吳芮醫生看我們與呼吸道感染問題的距離 - 報新聞 Mega News",
       "published": "2026-05-06T23:41:43+00:00",
@@ -636,44 +649,6 @@
       "matched_keywords": []
     },
     {
-      "id": "f6d5576fa85d",
-      "title": "健康網》張曼娟母親踏進健身房後變了 醫曝失智緩解",
-      "published": "2026-05-06T13:19:00+00:00",
-      "summary": "健康網》張曼娟母親踏進健身房後變了 醫曝失智緩解&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XWlBHUFpmSXN1NjluN3hJZ3l4NGowMEVHRVdMREVEbHNqMkRWcnQxZUNfeFJaeFlnNnBsSG5VUFd3Mk5GZmZPWEhUSXhiQXdPRkNxUWFEcnRYYi1pUUJIdGk5N3TSAWpBVV95cUxQVVlERzRkbDl1cExyVVl4eFNWa0s1NWNmUXNyUXhQRVdqaTZFaU1pdkNmTXo0U19veDRDQ1lGUWlUa18wOUZzOUkxY0ppYmxfTnVmNk5CUDBwcTBSVFlocE1pc3lleFg3ZVRR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3c6c4826fc87",
-      "title": "「白色瘟疫」再次敲響警鐘",
-      "published": "2026-05-06T12:00:00+00:00",
-      "summary": "「白色瘟疫」再次敲響警鐘&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSTdLSEw4b1Jzc2Zzc1lpemFoTE9lZTNMSmVwcThjUlMxOE5XSVg1RUFOS0prcWxsVzZFbHB4TENRT2EtYUxQWEtWakhOVDVCQUs0RkhiYm84YlhPMEpTdVlrS01kcnNvMEdQaVlJTWlYc2JDbTkyb0lBZkFhMjNaTk1kdnc0SmVH?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "554d4b56a4a9",
       "title": "膿皰遍佈全⾝疼痛難眠  ⼤林慈濟醫院精準治療助患者重拾⽣活品質",
       "published": "2026-05-06T00:00:00+00:00",
@@ -682,19 +657,6 @@
         {
           "name": "嘉義慈濟醫院",
           "link": "https://chiayi.tzuchi-healthcare.org.tw/index.php/zui-xin-xiao-xi/jian-kang-wei-jiao-4/nong-pao-bian-bu-quan-shen-teng-tong-nan-mian-da-lin-ci-ji-yi-yuan-jing-zhun-zhi-liao-zhu-huan-zhe-zhong-shi-sheng-huo-pin-zhi"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7f591cb2bd73",
-      "title": "兒癌終極挑戰 質子是首選",
-      "published": "2026-04-30T03:21:44+00:00",
-      "summary": "兒癌終極挑戰 質子是首選&nbsp;&nbsp;《現代保險》雜誌",
-      "sources": [
-        {
-          "name": "《現代保險》雜誌",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Obk40c1d3S2tYNW5LNlJhYnN5SUQ4cU1hVktKaUcwQUhNNGFMUUFIWVJDWHZNTTY2ZHRzSmlCNEQ5OGZhVWVKQ2liQTliNXRSVl80?oc=5"
         }
       ],
       "matched_keywords": []
