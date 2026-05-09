@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [少吃多動還是胖？營養師揭「漏斗減肥法」：這層比BMI更關鍵](https://news.google.com/rss/articles/CBMihwNBVV95cUxQM3NJVUx4cWJ4ZnF0djEzdXAzRHdONk1zTk9naFNMNGV1aU9XdVY3c2RxamFtOW5RaklQSW5ienNVVmpfdVQzaUdGN0E0WVpEbGhVVW82NlJOTUNTTTBkNk1neExfZXlDZTR0THlvQ2hlMVBPdGFkYmF4TV9oNkZiRDJvS0FNMXhEMGFfcThkakNyTENHbEJlaWIwT0hmcm5KVDd3Sm40TW9NczFJN1VxQXY0R2dnTTk4djc1NjNkMmFuNHVaM3A5bDg4emJLWWljZEVTODIyNU94bmtZcWEzS1dLeU5ueEFkcEpIbWU1a1d0S1BzbjAtVHRheEMwS2Y0UnpDbkZEU09tcHJKdXNmNngzRVVnSGpGcUxjVlJtX0ZfS2tfS0g0YTJZMFZ6aVEtTjdqVW9fVlVieGFRdUxCRUYybHUweVl4dTYxTWplTXJjY0pKRjAxeHJSM3QtMnRDOVdESjQ2YTVaX3UxUzM5X29VTkdXTlE2enVzdGUtTi1DX3MzTFQ0?oc=5)
+
+2026-05-09 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMihwNBVV95cUxQM3NJVUx4cWJ4ZnF0djEzdXAzRHdONk1zTk9naFNMNGV1aU9XdVY3c2RxamFtOW5RaklQSW5ienNVVmpfdVQzaUdGN0E0WVpEbGhVVW82NlJOTUNTTTBkNk1neExfZXlDZTR0THlvQ2hlMVBPdGFkYmF4TV9oNkZiRDJvS0FNMXhEMGFfcThkakNyTENHbEJlaWIwT0hmcm5KVDd3Sm40TW9NczFJN1VxQXY0R2dnTTk4djc1NjNkMmFuNHVaM3A5bDg4emJLWWljZEVTODIyNU94bmtZcWEzS1dLeU5ueEFkcEpIbWU1a1d0S1BzbjAtVHRheEMwS2Y0UnpDbkZEU09tcHJKdXNmNngzRVVnSGpGcUxjVlJtX0ZfS2tfS0g0YTJZMFZ6aVEtTjdqVW9fVlVieGFRdUxCRUYybHUweVl4dTYxTWplTXJjY0pKRjAxeHJSM3QtMnRDOVdESjQ2YTVaX3UxUzM5X29VTkdXTlE2enVzdGUtTi1DX3MzTFQ0?oc=5)
+
+---
 
 
 <div class="disclaimer">

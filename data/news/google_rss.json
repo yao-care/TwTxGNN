@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-09T15:41:54.380704+00:00",
-  "count": 23,
+  "fetched_at": "2026-05-09T16:42:07.297032+00:00",
+  "count": 24,
   "news": [
     {
       "id": "337c3e2d4edc",
@@ -28,14 +28,38 @@
       ]
     },
     {
-      "id": "6f427a16373c",
-      "title": "少吃多動還是胖？營養師揭「漏斗減肥法」：這層比BMI更關鍵 - 民報",
-      "published": "2026-05-09T06:00:00+00:00",
-      "summary": "少吃多動還是胖？營養師揭「漏斗減肥法」：這層比BMI更關鍵&nbsp;&nbsp;民報前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "bf0873a17daf",
+      "title": "多年來，醫生將疲勞和焦慮歸咎於荷爾蒙，我差點失血過多而死。 - arch-web.com.tw",
+      "published": "2026-05-09T16:26:28+00:00",
+      "summary": "多年來，醫生將疲勞和焦慮歸咎於荷爾蒙，我差點失血過多而死。&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "民報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDclY3cEh5VGotOGJldHZSYVhLQ3VWRVB2R09yR2FBYmlwMW5mMWRsOS1pR3B5ZUVxRUpWS1hITnRONFNIdzlvX0J5Q20wcjFsQnlTYzJxOXYwMmxndC1hTA?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQZG5FMTByaXQyaGFqSG95UGxsXzJKVDZWQ3Azd2w2T2dFakdWQktBVUs1blFVdEs4V2xBZ00zbDZHSjgybGk2WVJzZ2JNbWVmbTFRUFZkSlB6bThMQVlKNHo5SjBYalhmeGhYREktYUxWTHNUWWRpTUh0b3ZEVldxNFBzMkgyUE8weS1pTHhpaHhOdkJ6NmM4a0pIUzItMDd0eXJUTFg1NkdoRmVQSi1GalhhUmctNjBhelVfZEZoMnFQdm4yeVFNYnR5Z1UyWVUxa3hVUmJadWltMGdBZzkzcFVEQjRtNDhhSmVibjE1NlBGbkR4R1Y0T1lUMmdMOTIwMFUxcE42MTFGSlhrUmxOcEJyMTU5ejdRV2I1UUk0MnZLV3Y0TUtvMVhoX3piQmg0bkR3cUFSSm90Z0h4bDFkd2NHMUZodkRITnVnRTFqRVNxaGw0MG5WcnRKUEVYbmROakRzZjFtVEhEUmVSZGRqZEtxS2VuMVo4TDdiUElraTdXNUs1b0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3c924cbf5595",
+      "title": "少吃多動還是胖？營養師揭「漏斗減肥法」：這層比BMI更關鍵 - Yahoo新聞",
+      "published": "2026-05-09T15:49:43+00:00",
+      "summary": "少吃多動還是胖？營養師揭「漏斗減肥法」：這層比BMI更關鍵&nbsp;&nbsp;Yahoo新聞健康網》研究：肥胖關鍵在腰圍、腰臀比 營養師曝7步驟改善肥胖&nbsp;&nbsp;自由健康網比BMI更準！研究曝「1數值」超標5% 中風、心梗機率飆升&nbsp;&nbsp;祝你健康肥胖｜多個方法更清楚 美研究：身體圓球指數 或更精準反映內臟脂肪堆積&nbsp;&nbsp;am730比BMI準！47萬人研究曝腰高比逾0.5：心梗風險飆24％&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQM3NJVUx4cWJ4ZnF0djEzdXAzRHdONk1zTk9naFNMNGV1aU9XdVY3c2RxamFtOW5RaklQSW5ienNVVmpfdVQzaUdGN0E0WVpEbGhVVW82NlJOTUNTTTBkNk1neExfZXlDZTR0THlvQ2hlMVBPdGFkYmF4TV9oNkZiRDJvS0FNMXhEMGFfcThkakNyTENHbEJlaWIwT0hmcm5KVDd3Sm40TW9NczFJN1VxQXY0R2dnTTk4djc1NjNkMmFuNHVaM3A5bDg4emJLWWljZEVTODIyNU94bmtZcWEzS1dLeU5ueEFkcEpIbWU1a1d0S1BzbjAtVHRheEMwS2Y0UnpDbkZEU09tcHJKdXNmNngzRVVnSGpGcUxjVlJtX0ZfS2tfS0g0YTJZMFZ6aVEtTjdqVW9fVlVieGFRdUxCRUYybHUweVl4dTYxTWplTXJjY0pKRjAxeHJSM3QtMnRDOVdESjQ2YTVaX3UxUzM5X29VTkdXTlE2enVzdGUtTi1DX3MzTFQ0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e47b73f4abd7",
+      "title": "「BMI愈高愈多癌」！醫揭研究數據：減肥達「10%以上」才有防癌效果 - 祝你健康",
+      "published": "2026-05-09T15:39:50+00:00",
+      "summary": "「BMI愈高愈多癌」！醫揭研究數據：減肥達「10%以上」才有防癌效果&nbsp;&nbsp;祝你健康胖久了會致癌！醫揭「BMI每增5單位」癌症風險暴增&nbsp;&nbsp;Yahoo新聞BMI愈高「罹癌風險愈大」！醫師提醒：減肥就是在防癌&nbsp;&nbsp;ETtoday新聞雲肥胖不只是體重問題，它如何透過「腸道—脂肪—腫瘤軸」增加罹癌風險？&nbsp;&nbsp;careonline.com.tw細胞增生&nbsp;&nbsp;東周刊",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uVjhyVnJWeWNsV1dITm55cWFlbTVWZmdCX1hlRjIyT1dGeFBMSGJkWXhQdERlU1dzd3drZko0UGlaaWtWb1NVTTFxMko?oc=5"
         }
       ]
     },
@@ -48,18 +72,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNdnRyWERnSHE3N1pHS2JHd3JoNVFNWlNZckVWSHBlZ01aanVwa1lRbWlyQkdMUnljdFFLR0otQ3FrcHJsdkcxeEIxMllJTlp2aGRiQTBpdzFrRzdmczhFRk81WnFFLVAwOW5ZVS1rWDdmRERnaDltZXpXZDZiS1Q4WmRtUlh1NGZkaUtpWmxLUFRibGxXOUU5N3A0cTJpcUowb3dSTTBNR2kwVVZBQld1RkVQUFg1RUFWYmRETGxORWZsWnJFOTNYZTRfYjNUX3VpR3JYcVlwOHRjcVhmdjVqbWZXYlJzUzRtR0hKd3k0MHpoY0VxdmhWX3JEYmwzWGJySThxVnljVlIyMENaRmxnMnpCOWRENS1WdXM3cWRKb3dXcUY5TURDaVdlRXA3V29Ddi1qdks2NDhWamttWFNBTUc0cEw3ZmVaaXJXbjdOMFEzSzVZaGdhelpkcHY2NGdoanZQQzJCU1VVd1ZMNXZUVzlBWlhCSEJ2VE9z?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "86092972da05",
-      "title": "胖久了會致癌！醫揭「BMI每增5單位」癌症風險暴增 - Yahoo新聞",
-      "published": "2026-05-09T07:54:00+00:00",
-      "summary": "胖久了會致癌！醫揭「BMI每增5單位」癌症風險暴增&nbsp;&nbsp;Yahoo新聞BMI愈高「罹癌風險愈大」！醫師提醒：減肥就是在防癌&nbsp;&nbsp;ETtoday新聞雲肥胖不只是體重問題，它如何透過「腸道—脂肪—腫瘤軸」增加罹癌風險？&nbsp;&nbsp;careonline.com.tw細胞增生&nbsp;&nbsp;東周刊",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPUzROcVlxOHFVSEhCdV9oM05mdktFUHMtaV9Sb0JReHoyM0RXdmZDdjlhUWwzZ3JscFhRd0RxX1dTcFMxM1ZoYmdob1F6VVZMcWVyazk4S25NMjY0NUFWSDZCbndyRmR6aFV3UDhCOEJKeU9IM2VQUWtENjRpUC1hMzZQSDVHZkpFOG1OMHAwbGRuSklMZ01wenAtSGRiYkN0SkFORDNWeGl0MkhFOVRqNlBSSXBXZVJzZnk1Y29YZnZWRzlHdXZZa3oydTZLMk5wbzl3c1FwY1lQa1RWTlZ0ZUl0SG1RWnpvbG14eUtKVDhtVm1Qdzl2T1hjenJ3a1JueHkxTG1PblRWeTJkdnNjcEZFbjFWZEN2WmU1THdxRkF3clpfNkV4bXU3TzItQ2pyRm00bw?oc=5"
         }
       ]
     },

@@ -1,15 +1,54 @@
 {
-  "generated": "2026-05-09T15:42:00.326081+00:00",
-  "count": 4,
+  "generated": "2026-05-09T16:42:11.152206+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "86092972da05",
-      "title": "胖久了會致癌！醫揭「BMI每增5單位」癌症風險暴增",
-      "published": "2026-05-09T07:54:00+00:00",
+      "id": "3c924cbf5595",
+      "title": "少吃多動還是胖？營養師揭「漏斗減肥法」：這層比BMI更關鍵",
+      "published": "2026-05-09T15:49:43+00:00",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPUzROcVlxOHFVSEhCdV9oM05mdktFUHMtaV9Sb0JReHoyM0RXdmZDdjlhUWwzZ3JscFhRd0RxX1dTcFMxM1ZoYmdob1F6VVZMcWVyazk4S25NMjY0NUFWSDZCbndyRmR6aFV3UDhCOEJKeU9IM2VQUWtENjRpUC1hMzZQSDVHZkpFOG1OMHAwbGRuSklMZ01wenAtSGRiYkN0SkFORDNWeGl0MkhFOVRqNlBSSXBXZVJzZnk1Y29YZnZWRzlHdXZZa3oydTZLMk5wbzl3c1FwY1lQa1RWTlZ0ZUl0SG1RWnpvbG14eUtKVDhtVm1Qdzl2T1hjenJ3a1JueHkxTG1PblRWeTJkdnNjcEZFbjFWZEN2WmU1THdxRkF3clpfNkV4bXU3TzItQ2pyRm00bw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQM3NJVUx4cWJ4ZnF0djEzdXAzRHdONk1zTk9naFNMNGV1aU9XdVY3c2RxamFtOW5RaklQSW5ienNVVmpfdVQzaUdGN0E0WVpEbGhVVW82NlJOTUNTTTBkNk1neExfZXlDZTR0THlvQ2hlMVBPdGFkYmF4TV9oNkZiRDJvS0FNMXhEMGFfcThkakNyTENHbEJlaWIwT0hmcm5KVDd3Sm40TW9NczFJN1VxQXY0R2dnTTk4djc1NjNkMmFuNHVaM3A5bDg4emJLWWljZEVTODIyNU94bmtZcWEzS1dLeU5ueEFkcEpIbWU1a1d0S1BzbjAtVHRheEMwS2Y0UnpDbkZEU09tcHJKdXNmNngzRVVnSGpGcUxjVlJtX0ZfS2tfS0g0YTJZMFZ6aVEtTjdqVW9fVlVieGFRdUxCRUYybHUweVl4dTYxTWplTXJjY0pKRjAxeHJSM3QtMnRDOVdESjQ2YTVaX3UxUzM5X29VTkdXTlE2enVzdGUtTi1DX3MzTFQ0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e47b73f4abd7",
+      "title": "「BMI愈高愈多癌」！醫揭研究數據：減肥達「10%以上」才有防癌效果",
+      "published": "2026-05-09T15:39:50+00:00",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uVjhyVnJWeWNsV1dITm55cWFlbTVWZmdCX1hlRjIyT1dGeFBMSGJkWXhQdERlU1dzd3drZko0UGlaaWtWb1NVTTFxMko?oc=5"
         }
       ],
       "keywords": [
