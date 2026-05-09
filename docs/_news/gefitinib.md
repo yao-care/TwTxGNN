@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [規律有氧讓大腦年輕1歲！神經科學家證實：有氧＋肌力訓練是大腦抗老化的最強處方](https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVlzTjVWc1V6MkxFTkRPXzJWTTg4RU9xR29rM2EwWF9fbHFrX01sWmdqS0FzMVFzR2x5Tno1Y2RCMVhNbzFkV3Zsel9UanV3WkNfUGRuOUdvSU9nSVllS3lLRXFLSDBZVlphYkxnT2N4ZDNrMzBYQ1VKNTR5ZllvSVNNdmdyUk0wY3JROUFB?oc=5)
 
@@ -64,14 +64,6 @@ permalink: /news/gefitinib/
 2026-05-08 <span class="news-indication-tag">腫瘤</span>
 
 來源：[報新聞 Mega News](https://news.google.com/rss/articles/CBMikwJBVV95cUxOS1BJQWU5M3loY3pPOFRIVUtQcDVDOFR4bGs1MDlELVd3VFNWaDR1bXlkRTQ2Ym0yaWQwd3Z6TDZPYTR2TkYyS3BZeGZNS1Ftc01GWVl3ejc4TzRzX2F2bVRRQl8zdnY3YVN1Y1Q2N29ZWkdyaGNZOUJvNF9YdE1PNzJjNkV3bHBwQ3NlLU9GOEdweUp1NzJfRzV4WnVZLWZVREFmOU1zVzFzUGVuSjNaNC1MT0dCOVY4WGpidVhPQ2RYaXRpX1N1Y2pVOHBOTVVDZHhVLURJYmljTHlqMzMzLWZnZlVRZTMtamxudFJnbWRoTWNmZHlmajhYV0VjVkE4VXdYUEkyVHZBdmphUzdxajh4UQ?oc=5)
-
----
-
-### [癌後黃金三年是關鍵！醫揭復發風險不只癌細胞 而是「這體質」](https://news.google.com/rss/articles/CBMiTkFVX3lxTE42eWxIcGVidURZNl9UQ04xVWM3WTZjMTYzcUhOYktvMzdxb2NCenJyZ0VTNlBBR3BVajZLQ0p2c1RDWjVzTVYtcWd2ekU5UQ?oc=5)
-
-2026-05-08 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
-
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiTkFVX3lxTE42eWxIcGVidURZNl9UQ04xVWM3WTZjMTYzcUhOYktvMzdxb2NCenJyZ0VTNlBBR3BVajZLQ0p2c1RDWjVzTVYtcWd2ekU5UQ?oc=5)
 
 ---
 

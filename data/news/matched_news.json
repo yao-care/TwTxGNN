@@ -1,8 +1,46 @@
 {
-  "last_updated": "2026-05-09T02:03:56.063560+00:00",
-  "total_count": 30,
+  "last_updated": "2026-05-09T05:40:40.076649+00:00",
+  "total_count": 31,
   "matched_count": 6,
   "news": [
+    {
+      "id": "c34858066c46",
+      "title": "尿酸8.1卻大喊沒病 醫嘆錯過黃金期 洗腎、心梗全來",
+      "published": "2026-05-09T04:47:51+00:00",
+      "summary": "尿酸8.1卻大喊沒病 醫嘆錯過黃金期 洗腎、心梗全來&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IVnpwbGhFVTlsOU9udjlqa1hfTkpNTHVNTjBQdm1vYXlUb2J5YmE1aW1fakNUQmJ2eVZLUlN2a2N0X1NYNGVIQ2FpWk1DRHU4UmxtamZYNmxrSWVKU09HYVAwdUZMMUFFUWVhaUVn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c6803544ebfb",
+      "title": "別再以為「站著辦公」就健康！追蹤1.4萬人研究：救命關鍵不在姿勢，而是每天多這5分鐘",
+      "published": "2026-05-09T03:08:20+00:00",
+      "summary": "別再以為「站著辦公」就健康！追蹤1.4萬人研究：救命關鍵不在姿勢，而是每天多這5分鐘&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPQzlUVzUwS2tvR2hDcmhBeWNmUVFfZTdUQ3B1R3VObTlLUzZnVmhvQ1hKZTVHU052TzhmNzBsNUVyaUdJM1BoS2hpeEczcVRfUVRvbHhNU1V1QjdUY1pENnhwTkN2alJBb2htZTJFVzRkZ3Z4MGF1M1BfOVNHTWhMNjcyMGdOT0Iwd2ZPZ2tuTC1BcVpsWEV3MGZqYm5RQXA5anZPdDBaeHhYN3VWRE1OemlUdWNpODIyM0pwNUI4WENCVlhWLTFsN0VRZFgwWnZSTFFtS1pBQlNHaHJlb0luNjFXdjBrOVVJVVZWTWdocFBVWVNWMmhFQlFfbFRYMmM4OTZLSWZKbE5xdWJoQkRIaklJMV9kb0o4RktRclJheUpCT2ExQVpJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "f67cb81ec132",
       "title": "3個月「逆齡」近1年 醫揭最強回春運動處方",
@@ -12,6 +50,19 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50M1VBY2Z6MjdHSk5DdTQzSS1JWkVyU1dwM2hpUmVGRm1hdi1aaUxfbTc3T2FTSXBUWTFvWjhZOEFGSHY5WWdWVHVIVUFmRVBrX0NWVl81MGxxNk11YlZfNG1NLUF6NEU4NXMtTGRn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "88e4fbccbc2c",
+      "title": "母親節健康警訊！骨鬆性骨折恐成家庭負擔 專家籲及早骨密度檢測",
+      "published": "2026-05-09T00:43:20+00:00",
+      "summary": "母親節健康警訊！骨鬆性骨折恐成家庭負擔 專家籲及早骨密度檢測&nbsp;&nbsp;Yahoo新聞輕微撞傷不在意！她「會呼吸的痛」竟骨裂 醫示警「這年齡層」要注意&nbsp;&nbsp;祝你健康骨折不只是跌倒意外！醫：恐增加失能與長期照護風險&nbsp;&nbsp;Yahoo新聞恩主公醫院推動「保鈣防跌大作戰」 醫籲：114年健保擴大給付，別讓「一低」成為健康隱形炸彈&nbsp;&nbsp;良醫健康網68歲婦剛退休婦就跌倒骨折 子女面臨辭職長照困境&nbsp;&nbsp;民報",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNNjNvaTdGQlBHZHh2djNad0FQUVhFUzhsaWdQNUh4UE5URXZyLWpfZllHdGU0MENLRl9RdzlLY25BeWhtWTZhM09wNUtqa2R5SmhJLTRnTUc4QTdtSjZvWWJqR29TZjFfNGhhbHlWSTRKcjluWHBOMWJkdjJfc1FxeGpYdU1uYnlqME5zcXU1eFVrVUlRb0k4Nm9nT2ZkOGVRMnBDRDJZMGMxVGFsUkstRlQ4TEd3Ul9mc3lSY3BCdHRFNEgxN0NMT2tUd3A4aUVtNzJsQ3F0RkZubzJZNTk1VHdNQlBLUGhtanFGemxabENFbEVvY0lzU2ZqYjJDb2NUSnM3RlpBUE13NHZXeUdZYVpuMG43MXlCM2VEa3JlalBoY3BSVjNtaElYYmx1WVpORWdNNzZxUEJOOVlHM3cza3RFQVBGNEFIMFE5QmVZNkRmY01Belg2bUVNVTdPTlFBQ3Z6LUFiaDhobFk1WDctTWlWNUlKNkZXZDk0bWR5eVptand0dHhyaE9vWGVfb1U3dzZoZVVBVUtaT3JXdHpKM2dSSl8zUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -126,19 +177,6 @@
         {
           "name": "881903.com",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50ODRhNzNjMjNFOGZsam5LRWhKSU5ZeGtuZWw2V1l2czR3blNQVmpzYkg3VnVkQWZzamZLRW9MR3FndVlzRzYzVGVKdnpnSEItOWI40gFYQVVfeXFMTkFaZDQ0ejVuNm1XQzRNTWppN0xOdmZhV0lhQ3N6LWNTblNZX29vZm9WR3dUU21xckZOTklibzlLSzVtVTkwNnVESjlDNXVReWx5SEhBeEl0WA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "bf32412fdb91",
-      "title": "媽媽別硬撐，骨折即骨鬆警訊！專家分享「長骨計畫」，精準補鈣不白費",
-      "published": "2026-05-08T08:16:44+00:00",
-      "summary": "媽媽別硬撐，骨折即骨鬆警訊！專家分享「長骨計畫」，精準補鈣不白費&nbsp;&nbsp;Heho健康每天運動還不夠？醫師提醒骨本流失：補鈣＋關鍵營養是關鍵！&nbsp;&nbsp;TVBS 健康2.0母親節健康警訊！骨鬆性骨折恐成家庭負擔 專家籲及早骨密度檢測&nbsp;&nbsp;Yahoo新聞68歲婦剛退休婦就跌倒骨折 子女面臨辭職長照困境&nbsp;&nbsp;民報恩主公醫院推動「保鈣防跌大作戰」 醫籲：114年健保擴大給付，別讓「一低」成為健康隱形炸彈&nbsp;&nbsp;良醫健康網",
-      "sources": [
-        {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16MmhqSVI4bU5LNG9lNVoxUnl0QXhmY1B2WWQ1dElKRi0zZG16a2hRU1B4WU1rWF8tbVR5bVRaendOMy1jXzFXbG5iaw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -472,229 +510,14 @@
       "id": "044fdce71bfb",
       "title": "癌後黃金三年是關鍵！醫揭復發風險不只癌細胞 而是「這體質」",
       "published": "2026-05-08T01:20:00+00:00",
-      "summary": "癌後黃金三年是關鍵！醫揭復發風險不只癌細胞 而是「這體質」&nbsp;&nbsp;TVBS新聞網從治療到生活：關護癌症康復者的全方位支持- 註冊慈善機構雅麗氏何妙齡那打素慈善基金會&nbsp;&nbsp;healthyD醫師一句話，能讓肺癌病友動起來並提升生活品質嗎？&nbsp;&nbsp;careonline.com.tw化療結束才是真正開始！研究揭「癌後黃金三年」關鍵：每週運動●次，8年存活率多7%&nbsp;&nbsp;良醫健康網",
+      "summary": "癌後黃金三年是關鍵！醫揭復發風險不只癌細胞 而是「這體質」&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
           "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42eWxIcGVidURZNl9UQ04xVWM3WTZjMTYzcUhOYktvMzdxb2NCenJyZ0VTNlBBR3BVajZLQ0p2c1RDWjVzTVYtcWd2ekU5UQ?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "23a5e098a7ad",
@@ -822,6 +645,32 @@
       "matched_keywords": []
     },
     {
+      "id": "8f95623b8c13",
+      "title": "科學家用實驗室培養的胰島素細胞治癒了小鼠的糖尿病。",
+      "published": "2026-05-07T19:05:34+00:00",
+      "summary": "科學家用實驗室培養的胰島素細胞治癒了小鼠的糖尿病。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOQVlIYXBvVXBYWFFCM1lVSnJQMEUybXRqUzRXaVk2aDFUUDBNZkV2SW9kamNncFBUMVlsWHBpakFScmJuTThSUDdVVDRJTDVQQWhKeTJhTllJWVZ4YVJjWG5lMl9ER2VlQWRhX0Mwdy1BMFVNUHJaX0E4YzB3WjBZbWt2MTdTUXg5QzZjcjNqYmdVU0xSMlBWVUNkWGF1UlZmeWowamFIelNLN01DRGhicFpjN1daRkFVZUlXZWZIaVRnTzU5cEdleTdTX3c4SThOWEVoc1lIclZGeS0wUWdUVU4tY0ZXN1Rab0hLbWVnb18yU0tycEJnU2V0a3MzSGNVUzFVV3ZERG9uelVDNldWQkVvbjR2a0ZEUXZMandhR29qOVJWZHl5YUF0ZG13U3lkQ2g0UXNXMmtHOHBPZklKRldjZ0ZGNFM4RW8wYmtTQ0tIWUF6ZFRIdVhMVjlkVHdveThfYXB1MWttb3VfdVJ1RVhiVENFTFJRa3ZUeGxPNzhVMV9pVFE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0cc7a9464e9b",
+      "title": "PM2.5加重術後併發症風險 研究籲重視空氣品質",
+      "published": "2026-05-07T12:55:06+00:00",
+      "summary": "PM2.5加重術後併發症風險 研究籲重視空氣品質&nbsp;&nbsp;記者爆料網",
+      "sources": [
+        {
+          "name": "記者爆料網",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GNjdjMDBjNTBFMWhoN1laaTB4NTlCMndHOHFiMTBqR2RFT3RwcUtUa09aaUczRUJ0M1ZycHNxZzlNRENKLU5nTmZhdkhWZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "e41e82ee18a2",
       "title": "健康網》陰莖突變彎難行房 網紅醫談佩羅尼氏症",
       "published": "2026-05-07T12:36:00+00:00",
@@ -830,19 +679,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLTmlGQ19jTXhjYmFpaGpKRGJDRzJUNTh2RzBXZWRKUFFTU2JuOU5SUEVESV9RUjZfRDNyQzR4dm1LenVfOVBTa0xQa0xtVHp2bkZvY3BJOUlrTFgzREFCYUVNLVbSAWpBVV95cUxPWWtCYXBKRGF5a1N3SHFCajBJT1VTbmwtN05OQnpVY0EwSFlYT1NORTVURGgxa1Q1djhxb0ZQYzVaaU5LUlhrZlVyUzJqakZmME90OFpYZmswMUJCRm1KN1V5YnVndmhFNVZR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ad19c329dc9b",
-      "title": "PM2.5加重術後併發症風險 研究籲重視空氣品質",
-      "published": "2026-05-07T08:57:37+00:00",
-      "summary": "PM2.5加重術後併發症風險 研究籲重視空氣品質&nbsp;&nbsp;行銷人",
-      "sources": [
-        {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOTVhDcC00SUkyVjRFTlkxV2d1MkdGWm4tVjdRd2V0NVpsdTA4ZmVGelkzOHlDMDNCNVFQeGJTNjNQZ1I3UWpoWE5uNTBCdGdOaDJ3Wk1tQVVMWlhiZzNZcXZfc1laVkNWSVFtQkdVNjRaY01aRmhUM2ZNZjZjTzF5cEhWVmdNOXdsaFkyZEowSDBtQ1pFOEFJZEV0SmxPcjJOYm9RMXF6N0EtejZfLTZlQ2RKaHhKUk44UkJjN25ZOXZ3T21RZ3A0RzYybTh6NE16WW1kanhYNjhkV0lzN0tickNfR0ZmQThmXzh5T2VMcHFkS3NELUtxWEExazZCNk13VXZiRlB6cmFCNHV4WklSa094bWpIckQ5MGRHXzF4VEk2Y0tzYlJiSkhfOWwtUTBsVXZoZ3g0cEpxMWNzZWtTTmc3WWt2ZkE4REFXRmthRmNZN3M?oc=5"
         }
       ],
       "matched_keywords": []
@@ -861,19 +697,6 @@
       "matched_keywords": []
     },
     {
-      "id": "5cb141bba2d8",
-      "title": "植入眼睛直接觀察！科學家成功培養胰島素細胞 糖尿病小鼠恢復血糖控制",
-      "published": "2026-05-07T06:22:00+00:00",
-      "summary": "植入眼睛直接觀察！科學家成功培養胰島素細胞 糖尿病小鼠恢復血糖控制&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Za0JDeUlfTGFhaVpLQlIzNzE1VXZkS2k0aU5sdWNhdXF5MmJFaFBidS1FSHROYWVSMzZEZGZ5dkpTU0VjM2tDTG1mSW1jZ3NxRXM1VVBIbURRa0l5cXhYSFlvNy3SAWpBVV95cUxOaE5EYm5oTFBsM0ozXzNodjRQZWRNQXB3amxMOTAxQmo5UG96blpEcW1HQmNSemkwWVVZdFhKclBhNE1fUTdBc1FOSHQwcEtXY2wzellPTFNqUmROaTVJODFpOWZzNmRldVZR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "e336b6f6b78c",
       "title": "研究：腸道免疫系統阻斷特定訊號 或有助防止發炎",
       "published": "2026-05-07T06:13:00+00:00",
@@ -882,19 +705,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtV0E3dlg1eFJFQ1VoU3lVcjhfQmFqSFNZODlSZFhibFN3bUJVMG4xakhxRWNwbGlMZURfY1dndmtjLThyX2NRSTdnV21ybFNka0lfUjBHS01panhDYVhYX2M1ZVPSAWpBVV95cUxOd3puelMzOXhpLXQ4aFYwS3RaQUxKYTV5MWk0TWE5QjI2STV4OUJTZmlHQk9TR3NqQThPa3A1cU9VdkVMUU8tQnlDamNCYXNXYktQMlJhdk56WDNDdFRySVpQYktXYUpOYXV3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "efbc2b51129d",
-      "title": "急診安全措施 每人只許攜帶一個包",
-      "published": "2026-05-07T04:18:00+00:00",
-      "summary": "急診安全措施 每人只許攜帶一個包&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwQ296R3VER3JNSlpOTG1qSkhRdWdsNWhVcDNVNTdXVTJ1UGsxaHVjQ3ZBcEM5dGliVGVaVDdKaTZBVm41UFpSMXRvTHBfaU9uLXNhc1E0Wm03OG9qemNn0gFkQVVfeXFMT0ZKN2VIdWcteFA1UkNDTVJUTm9zc0pkTTdoQlBNcXRmQi1pdmxQemZfVEgzSklETF9VSUU5WXdGa0NrMVJUV2lUZmxjYlptcW1ZUEctamVidmVzc0xDNW1zZnJHMQ?oc=5"
         }
       ],
       "matched_keywords": []
