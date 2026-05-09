@@ -1,21 +1,8 @@
 {
-  "last_updated": "2026-05-09T10:49:16.301460+00:00",
-  "total_count": 28,
-  "matched_count": 5,
+  "last_updated": "2026-05-09T11:41:51.268204+00:00",
+  "total_count": 27,
+  "matched_count": 6,
   "news": [
-    {
-      "id": "edb8182f1d39",
-      "title": "母親節健康警訊！骨鬆性骨折恐成家庭負擔 專家籲及早骨密度檢測",
-      "published": "2026-05-09T09:13:33+00:00",
-      "summary": "母親節健康警訊！骨鬆性骨折恐成家庭負擔 專家籲及早骨密度檢測&nbsp;&nbsp;台視新聞網每天運動還不夠？醫師提醒骨本流失：補鈣＋關鍵營養是關鍵！&nbsp;&nbsp;TVBS 健康2.068歲婦剛退休婦就跌倒骨折 子女面臨辭職長照困境&nbsp;&nbsp;民報恩主公醫院推動「保鈣防跌大作戰」 醫籲：114年健保擴大給付，別讓「一低」成為健康隱形炸彈&nbsp;&nbsp;良醫健康網輕微撞傷不在意！她「會呼吸的痛」竟骨裂 醫示警「這年齡層」要注意&nbsp;&nbsp;祝你健康",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BUVk5UjZfNmJXQVBzMm1KNXlod3NFSlM2MzJsa25jQ29QX3h1V2tHWXYzYWtsWm9aTzV2Nm12OHdzdTFROUhfWTZGZnVWNmFqU1RZZlNXbw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
     {
       "id": "86092972da05",
       "title": "胖久了會致癌！醫揭「BMI每增5單位」癌症風險暴增",
@@ -511,17 +498,57 @@
       "matched_keywords": []
     },
     {
+      "id": "edb8182f1d39",
+      "title": "母親節健康警訊！骨鬆性骨折恐成家庭負擔 專家籲及早骨密度檢測",
+      "published": "2026-05-09T07:00:07+00:00",
+      "summary": "母親節健康警訊！骨鬆性骨折恐成家庭負擔 專家籲及早骨密度檢測&nbsp;&nbsp;台視新聞網每天運動還不夠？醫師提醒骨本流失：補鈣＋關鍵營養是關鍵！&nbsp;&nbsp;TVBS 健康2.068歲婦剛退休婦就跌倒骨折 子女面臨辭職長照困境&nbsp;&nbsp;民報恩主公醫院推動「保鈣防跌大作戰」 醫籲：114年健保擴大給付，別讓「一低」成為健康隱形炸彈&nbsp;&nbsp;良醫健康網輕微撞傷不在意！她「會呼吸的痛」竟骨裂 醫示警「這年齡層」要注意&nbsp;&nbsp;祝你健康",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BUVk5UjZfNmJXQVBzMm1KNXlod3NFSlM2MzJsa25jQ29QX3h1V2tHWXYzYWtsWm9aTzV2Nm12OHdzdTFROUhfWTZGZnVWNmFqU1RZZlNXbw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "5730b950e6d6",
       "title": "營養師揭「漏斗減肥法」 從BMI檢查到生活習慣 擊破減肥卡關原因",
       "published": "2026-05-09T06:00:00+00:00",
-      "summary": "營養師揭「漏斗減肥法」 從BMI檢查到生活習慣 擊破減肥卡關原因&nbsp;&nbsp;民報前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "營養師揭「漏斗減肥法」 從BMI檢查到生活習慣 擊破減肥卡關原因&nbsp;&nbsp;民報少吃多動還是胖？營養師揭「漏斗減肥法」：這層比BMI更關鍵&nbsp;&nbsp;Yahoo新聞健康網》研究：肥胖關鍵在腰圍、腰臀比 營養師曝7步驟改善肥胖&nbsp;&nbsp;自由健康網比BMI更準！研究曝「1數值」超標5% 中風、心梗機率飆升&nbsp;&nbsp;祝你健康肥胖｜多個方法更清楚 美研究：身體圓球指數 或更精準反映內臟脂肪堆積&nbsp;&nbsp;AM730",
       "sources": [
         {
           "name": "民報",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDclY3cEh5VGotOGJldHZSYVhLQ3VWRVB2R09yR2FBYmlwMW5mMWRsOS1pR3B5ZUVxRUpWS1hITnRONFNIdzlvX0J5Q20wcjFsQnlTYzJxOXYwMmxndC1hTA?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "c34858066c46",
@@ -973,19 +1000,6 @@
         {
           "name": "ENN台灣電報",
           "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1lWC1pOUp0WldWR2laa0tmUm01cFJJWkFGRlV5OXVEczJuSnpVWGNSa1djdjBrQmk4eVE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8f95623b8c13",
-      "title": "科學家用實驗室培養的胰島素細胞治癒了小鼠的糖尿病。",
-      "published": "2026-05-07T19:05:34+00:00",
-      "summary": "科學家用實驗室培養的胰島素細胞治癒了小鼠的糖尿病。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOQVlIYXBvVXBYWFFCM1lVSnJQMEUybXRqUzRXaVk2aDFUUDBNZkV2SW9kamNncFBUMVlsWHBpakFScmJuTThSUDdVVDRJTDVQQWhKeTJhTllJWVZ4YVJjWG5lMl9ER2VlQWRhX0Mwdy1BMFVNUHJaX0E4YzB3WjBZbWt2MTdTUXg5QzZjcjNqYmdVU0xSMlBWVUNkWGF1UlZmeWowamFIelNLN01DRGhicFpjN1daRkFVZUlXZWZIaVRnTzU5cEdleTdTX3c4SThOWEVoc1lIclZGeS0wUWdUVU4tY0ZXN1Rab0hLbWVnb18yU0tycEJnU2V0a3MzSGNVUzFVV3ZERG9uelVDNldWQkVvbjR2a0ZEUXZMandhR29qOVJWZHl5YUF0ZG13U3lkQ2g0UXNXMmtHOHBPZklKRldjZ0ZGNFM4RW8wYmtTQ0tIWUF6ZFRIdVhMVjlkVHdveThfYXB1MWttb3VfdVJ1RVhiVENFTFJRa3ZUeGxPNzhVMV9pVFE?oc=5"
         }
       ],
       "matched_keywords": []
