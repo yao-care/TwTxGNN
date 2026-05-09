@@ -3,7 +3,7 @@ layout: default
 title: "心梗（myocardial infarction） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "心梗（myocardial infarction） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "心梗（myocardial infarction） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/myocardial-infarction/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/myocardial-infarction/
 ---
 
 <p class="key-answer" data-question="心梗（myocardial infarction） 有什麼相關新聞？">
-<strong>心梗（myocardial infarction）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心梗（myocardial infarction）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,15 +29,7 @@ permalink: /news/myocardial-infarction/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [營養師揭「漏斗減肥法」 從BMI檢查到生活習慣 擊破減肥卡關原因](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDclY3cEh5VGotOGJldHZSYVhLQ3VWRVB2R09yR2FBYmlwMW5mMWRsOS1pR3B5ZUVxRUpWS1hITnRONFNIdzlvX0J5Q20wcjFsQnlTYzJxOXYwMmxndC1hTA?oc=5)
-
-2026-05-09
-
-來源：[民報](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDclY3cEh5VGotOGJldHZSYVhLQ3VWRVB2R09yR2FBYmlwMW5mMWRsOS1pR3B5ZUVxRUpWS1hITnRONFNIdzlvX0J5Q20wcjFsQnlTYzJxOXYwMmxndC1hTA?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [尿酸8.1卻大喊沒病 醫嘆錯過黃金期 洗腎、心梗全來](https://news.google.com/rss/articles/CBMibkFVX3lxTE5IVnpwbGhFVTlsOU9udjlqa1hfTkpNTHVNTjBQdm1vYXlUb2J5YmE1aW1fakNUQmJ2eVZLUlN2a2N0X1NYNGVIQ2FpWk1DRHU4UmxtamZYNmxrSWVKU09HYVAwdUZMMUFFUWVhaUVn?oc=5)
 

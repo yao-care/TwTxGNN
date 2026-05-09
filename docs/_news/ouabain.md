@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [營養師揭「漏斗減肥法」 從BMI檢查到生活習慣 擊破減肥卡關原因](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDclY3cEh5VGotOGJldHZSYVhLQ3VWRVB2R09yR2FBYmlwMW5mMWRsOS1pR3B5ZUVxRUpWS1hITnRONFNIdzlvX0J5Q20wcjFsQnlTYzJxOXYwMmxndC1hTA?oc=5)
-
-2026-05-09 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
-
-來源：[民報](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDclY3cEh5VGotOGJldHZSYVhLQ3VWRVB2R09yR2FBYmlwMW5mMWRsOS1pR3B5ZUVxRUpWS1hITnRONFNIdzlvX0J5Q20wcjFsQnlTYzJxOXYwMmxndC1hTA?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [尿酸8.1卻大喊沒病 醫嘆錯過黃金期 洗腎、心梗全來](https://news.google.com/rss/articles/CBMibkFVX3lxTE5IVnpwbGhFVTlsOU9udjlqa1hfTkpNTHVNTjBQdm1vYXlUb2J5YmE1aW1fakNUQmJ2eVZLUlN2a2N0X1NYNGVIQ2FpWk1DRHU4UmxtamZYNmxrSWVKU09HYVAwdUZMMUFFUWVhaUVn?oc=5)
 
