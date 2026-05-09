@@ -1,7 +1,50 @@
 {
-  "generated": "2026-05-09T21:35:07.480677+00:00",
-  "count": 4,
+  "generated": "2026-05-09T22:34:13.046753+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "3523800860a7",
+      "title": "「有種腦中風是一直打嗝」！醫曝5D警訊　波及最末區恐呼吸衰竭",
+      "published": "2026-05-09T13:35:00+00:00",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlaU1OQzJST2liSHJKNXdRZE93cmVHSDVNdS1OTDlNWVhfSmQ1YlByYzZJSkpBSFl6MUJ3anBYc0MzQTlyeXlNMmt1eEpQNDRV0gFsQVVfeXFMT2Zrbjg1bVF1UUNlcnA5Uk5KSGFQWUNocXFRWEhMbm9XTk5HUUlRbGRYNk9KWGQxNTZFTDdFdFB0Y2NFSWp0aTlfemkyNTFGOG91bXd0U29raWtXZDBKc2RQbkszOE52UE9nWXJs?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腦中風",
+          "keyword": "腦中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "b56a194c5bce",
       "title": "南京85kg少女「水桶腰」以為純粹發胖 醫生驚揭患卵巢癌",

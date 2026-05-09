@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-09T21:35:07.449476+00:00",
-  "total_count": 25,
-  "matched_count": 4,
+  "last_updated": "2026-05-09T22:34:13.016615+00:00",
+  "total_count": 24,
+  "matched_count": 5,
   "news": [
     {
       "id": "bf0873a17daf",
@@ -30,6 +30,50 @@
       "matched_keywords": []
     },
     {
+      "id": "3523800860a7",
+      "title": "「有種腦中風是一直打嗝」！醫曝5D警訊　波及最末區恐呼吸衰竭",
+      "published": "2026-05-09T13:35:00+00:00",
+      "summary": "「有種腦中風是一直打嗝」！醫曝5D警訊 波及最末區恐呼吸衰竭&nbsp;&nbsp;ETtoday健康雲",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlaU1OQzJST2liSHJKNXdRZE93cmVHSDVNdS1OTDlNWVhfSmQ1YlByYzZJSkpBSFl6MUJ3anBYc0MzQTlyeXlNMmt1eEpQNDRV0gFsQVVfeXFMT2Zrbjg1bVF1UUNlcnA5Uk5KSGFQWUNocXFRWEhMbm9XTk5HUUlRbGRYNk9KWGQxNTZFTDdFdFB0Y2NFSWp0aTlfemkyNTFGOG91bXd0U29raWtXZDBKc2RQbkszOE52UE9nWXJs?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腦中風",
+          "keyword": "腦中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "337c3e2d4edc",
       "title": "網傳感染漢他病毒是接種BNT疫苗副作用 路透事實查核狠打臉！",
       "published": "2026-05-09T11:42:36+00:00",
@@ -38,19 +82,6 @@
         {
           "name": "經濟日報",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sdTRqUUE5U25ncldQT3Rmd0J6ZXFLdWlJMk5FM0dFX3JHVUVoS0Y3TUt5a3dHV1JhajJ5S1NuUnQ1M2NqYTY4LWFnMEp2cURxZEFNVGROZ19jd9IBX0FVX3lxTE1iQmJMVy1PR3lYUE1jc0h6elFBTFhIejZxMEtxY0N5THd6U2pMbVdQSGZOdG11MEVIRkRnNlFtQzFBNURacU9sRFU4Nm9qNk14MlVyLU1LMmp4azdoclZj?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f371e5583d5a",
-      "title": "1滴血驗50種癌？抽血驗癌爆紅 醫示警：忽略傳統篩檢反而危險",
-      "published": "2026-05-09T10:45:29+00:00",
-      "summary": "1滴血驗50種癌？抽血驗癌爆紅 醫示警：忽略傳統篩檢反而危險&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNdnRyWERnSHE3N1pHS2JHd3JoNVFNWlNZckVWSHBlZ01aanVwa1lRbWlyQkdMUnljdFFLR0otQ3FrcHJsdkcxeEIxMllJTlp2aGRiQTBpdzFrRzdmczhFRk81WnFFLVAwOW5ZVS1rWDdmRERnaDltZXpXZDZiS1Q4WmRtUlh1NGZkaUtpWmxLUFRibGxXOUU5N3A0cTJpcUowb3dSTTBNR2kwVVZBQld1RkVQUFg1RUFWYmRETGxORWZsWnJFOTNYZTRfYjNUX3VpR3JYcVlwOHRjcVhmdjVqbWZXYlJzUzRtR0hKd3k0MHpoY0VxdmhWX3JEYmwzWGJySThxVnljVlIyMENaRmxnMnpCOWRENS1WdXM3cWRKb3dXcUY5TURDaVdlRXA3V29Ddi1qdks2NDhWamttWFNBTUc0cEw3ZmVaaXJXbjdOMFEzSzVZaGdhelpkcHY2NGdoanZQQzJCU1VVd1ZMNXZUVzlBWlhCSEJ2VE9z?oc=5"
         }
       ],
       "matched_keywords": []
@@ -136,14 +167,14 @@
       ]
     },
     {
-      "id": "98257a60dece",
-      "title": "別再以為「站著辦公」就健康！追蹤1.4萬人研究：救命關鍵不在姿勢，而是每天多這5分鐘 | 幸福熟齡X 今周刊 - LINE TODAY",
-      "published": "2026-05-09T04:30:03+00:00",
-      "summary": "別再以為「站著辦公」就健康！追蹤1.4萬人研究：救命關鍵不在姿勢，而是每天多這5分鐘 | 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY",
+      "id": "c6803544ebfb",
+      "title": "別再以為「站著辦公」就健康！追蹤1.4萬人研究：救命關鍵不在姿勢，而是每天多這5分鐘",
+      "published": "2026-05-09T03:08:20+00:00",
+      "summary": "別再以為「站著辦公」就健康！追蹤1.4萬人研究：救命關鍵不在姿勢，而是每天多這5分鐘&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10OGZFaWpxaVZyMjFKOVBhOUoyMVJfNjFtbE0waFVDOEJPaS1uUDRNM2pSYWVHbnJOTEwySjFrRjVCamlBYnN2TG45WDlxRzZ5Ym1EYUJB?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPQzlUVzUwS2tvR2hDcmhBeWNmUVFfZTdUQ3B1R3VObTlLUzZnVmhvQ1hKZTVHU052TzhmNzBsNUVyaUdJM1BoS2hpeEczcVRfUVRvbHhNU1V1QjdUY1pENnhwTkN2alJBb2htZTJFVzRkZ3Z4MGF1M1BfOVNHTWhMNjcyMGdOT0Iwd2ZPZ2tuTC1BcVpsWEV3MGZqYm5RQXA5anZPdDBaeHhYN3VWRE1OemlUdWNpODIyM0pwNUI4WENCVlhWLTFsN0VRZFgwWnZSTFFtS1pBQlNHaHJlb0luNjFXdjBrOVVJVVZWTWdocFBVWVNWMmhFQlFfbFRYMmM4OTZLSWZKbE5xdWJoQkRIaklJMV9kb0o4RktRclJheUpCT2ExQVpJ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -152,7 +183,7 @@
       "id": "63fa0b28cdc6",
       "title": "規律有氧讓大腦年輕1歲！神經科學家證實：有氧＋肌力訓練是大腦抗老化的最強處方",
       "published": "2026-05-08T23:31:07+00:00",
-      "summary": "規律有氧讓大腦年輕1歲！神經科學家證實：有氧＋肌力訓練是大腦抗老化的最強處方&nbsp;&nbsp;ELLE走不動是失能前兆？中醫「補益肝腎」搭配阻力運動與飲食逆轉肌少症&nbsp;&nbsp;Yahoo新聞漸進超負荷訓練 鍛煉全身大肌群 - 20260506 - 副刊&nbsp;&nbsp;明報新聞網別再只會公園甩手、打太極！16周研究實測：2招活化大腦超有效&nbsp;&nbsp;TVBS 健康2.0年長者要小心肌少型肥胖嗎？&nbsp;&nbsp;careonline.com.tw",
+      "summary": "規律有氧讓大腦年輕1歲！神經科學家證實：有氧＋肌力訓練是大腦抗老化的最強處方&nbsp;&nbsp;ELLE走不動是失能前兆？中醫「補益肝腎」搭配阻力運動與飲食逆轉肌少症&nbsp;&nbsp;Yahoo新聞漸進超負荷訓練 鍛煉全身大肌群 - 20260506 - 副刊&nbsp;&nbsp;明報新聞網別再只會公園甩手、打太極！16周研究實測：2招活化大腦超有效&nbsp;&nbsp;TVBS 健康2.0「肌少型肥胖」是老年人的隱形殺手嗎？為何老年人較容易遇到？&nbsp;&nbsp;careonline.com.tw",
       "sources": [
         {
           "name": "ELLE",
@@ -217,7 +248,7 @@
       "id": "f0459d60e65e",
       "title": "研究指40歲起免疫力急降！醫推6關鍵營養素 甜椒1吃法維他命C暴增",
       "published": "2026-05-08T08:05:36+00:00",
-      "summary": "研究指40歲起免疫力急降！醫推6關鍵營養素 甜椒1吃法維他命C暴增&nbsp;&nbsp;香港01健康網》炸雞美味要小心 醫：1週吃1次就好&nbsp;&nbsp;自由健康網「這年齡｣竟是斷崖式衰老關鍵期！44歲脂肪易堆積、60歲後免疫力下降，專家揭示如何延緩老化&nbsp;&nbsp;ELLE莫名疲倦卻睡不著！專家示警：身體在慢性發炎 5大飲食地雷一次看&nbsp;&nbsp;Yahoo新聞【健康1+1】慢性發炎是老化與慢性病關鍵 免疫失衡加速惡化&nbsp;&nbsp;大紀元時報 香港",
+      "summary": "研究指40歲起免疫力急降！醫推6關鍵營養素 甜椒1吃法維他命C暴增&nbsp;&nbsp;香港01「這年齡｣竟是斷崖式衰老關鍵期！44歲脂肪易堆積、60歲後免疫力下降，專家揭示如何延緩老化&nbsp;&nbsp;ELLE莫名疲倦卻睡不著！專家示警：身體在慢性發炎 5大飲食地雷一次看&nbsp;&nbsp;Yahoo新聞累又睡不著 身體慢性發炎了 專家：快避5NG食物&nbsp;&nbsp;中時新聞網【健康1+1】慢性發炎是老化與慢性病關鍵 免疫失衡加速惡化&nbsp;&nbsp;大紀元時報 香港",
       "sources": [
         {
           "name": "香港01",
@@ -718,19 +749,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPd3FCMEF0VFIycXNEVU1ya3J1YmNjQS1FZEV0N2JaRlJjSXBIdmxzV09lYllYZldibi1jSDRubEpVNFFpbFFiTVRzMnJMZVNPY2IwbGpzRGZmWUhtUnRROXRRMGgzSWRiRXRUVnB5R2VUcmw5WFU4dW1kclRST0NyOXFPTV9USVdPcmZ4Z2NUeWR6WERHeVI5MklmSWR2VVJDRGMtSFdmWS1Xc3FQbHN0aUFFdE5Fbnl6OFRNQWhJQnZUMl9BT1RBdEpKOU5ja0VaZkxTTE1PTGZNNlI4YXRyWFJ4SEdsR1ZTMWlYS3IzWWtWanBHbUJMMGZQTHlYUU1ZV2dONG00VzgxMmE5ZzhILUV0RW15aTY1cEJMM3k3SFptV1lnblZZcHQxcjBJRVEwZk05Sy01dlFxT05jb1ROREFkS0Y2ODZUMkRPNUs2aTJHemI3a1ZXXzU5WENnX3ZaeVVibzJvT2VEbVh3MFF2Zm9TWXhoV1VTYlFuWWRZX3NlaGNuSzB2LW9jYU1fdkR2WllMRzhWNXBKLW1FVXdUNUlQZVdET2hVTW5KNGJUWHdqWGFBaU0wU05QSVd1SU54NGhUZEJVQ0E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e34601713329",
-      "title": "Tekton Research延攬精神科專家Amit Vijapura 強化中樞神經藥物研發實力",
-      "published": "2026-05-07T21:13:36+00:00",
-      "summary": "Tekton Research延攬精神科專家Amit Vijapura 強化中樞神經藥物研發實力&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1lWC1pOUp0WldWR2laa0tmUm01cFJJWkFGRlV5OXVEczJuSnpVWGNSa1djdjBrQmk4eVE?oc=5"
         }
       ],
       "matched_keywords": []
