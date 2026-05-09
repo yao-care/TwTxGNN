@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "癌症（generic_cancer） 相關新聞"
+title: "腫瘤（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "腫瘤（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
-# 癌症（generic_cancer） 相關新聞
+# 腫瘤（generic_cancer） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="腫瘤（generic_cancer） 有什麼相關新聞？">
+<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「癌症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「腫瘤」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,15 +75,7 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [「BMI愈高愈多癌」！醫揭研究數據：減肥達「10%以上」才有防癌效果](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uVjhyVnJWeWNsV1dITm55cWFlbTVWZmdCX1hlRjIyT1dGeFBMSGJkWXhQdERlU1dzd3drZko0UGlaaWtWb1NVTTFxMko?oc=5)
-
-2026-05-09
-
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uVjhyVnJWeWNsV1dITm55cWFlbTVWZmdCX1hlRjIyT1dGeFBMSGJkWXhQdERlU1dzd3drZko0UGlaaWtWb1NVTTFxMko?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [吳芮醫生看我們與腫瘤疾病的距離 - 報新聞 Mega News](https://news.google.com/rss/articles/CBMikwJBVV95cUxOS1BJQWU5M3loY3pPOFRIVUtQcDVDOFR4bGs1MDlELVd3VFNWaDR1bXlkRTQ2Ym0yaWQwd3Z6TDZPYTR2TkYyS3BZeGZNS1Ftc01GWVl3ejc4TzRzX2F2bVRRQl8zdnY3YVN1Y1Q2N29ZWkdyaGNZOUJvNF9YdE1PNzJjNkV3bHBwQ3NlLU9GOEdweUp1NzJfRzV4WnVZLWZVREFmOU1zVzFzUGVuSjNaNC1MT0dCOVY4WGpidVhPQ2RYaXRpX1N1Y2pVOHBOTVVDZHhVLURJYmljTHlqMzMzLWZnZlVRZTMtamxudFJnbWRoTWNmZHlmajhYV0VjVkE4VXdYUEkyVHZBdmphUzdxajh4UQ?oc=5)
 

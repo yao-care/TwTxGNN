@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [少吃多動還是胖？營養師揭「漏斗減肥法」：這層比BMI更關鍵](https://news.google.com/rss/articles/CBMihwNBVV95cUxQM3NJVUx4cWJ4ZnF0djEzdXAzRHdONk1zTk9naFNMNGV1aU9XdVY3c2RxamFtOW5RaklQSW5ienNVVmpfdVQzaUdGN0E0WVpEbGhVVW82NlJOTUNTTTBkNk1neExfZXlDZTR0THlvQ2hlMVBPdGFkYmF4TV9oNkZiRDJvS0FNMXhEMGFfcThkakNyTENHbEJlaWIwT0hmcm5KVDd3Sm40TW9NczFJN1VxQXY0R2dnTTk4djc1NjNkMmFuNHVaM3A5bDg4emJLWWljZEVTODIyNU94bmtZcWEzS1dLeU5ueEFkcEpIbWU1a1d0S1BzbjAtVHRheEMwS2Y0UnpDbkZEU09tcHJKdXNmNngzRVVnSGpGcUxjVlJtX0ZfS2tfS0g0YTJZMFZ6aVEtTjdqVW9fVlVieGFRdUxCRUYybHUweVl4dTYxTWplTXJjY0pKRjAxeHJSM3QtMnRDOVdESjQ2YTVaX3UxUzM5X29VTkdXTlE2enVzdGUtTi1DX3MzTFQ0?oc=5)
-
-2026-05-09 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMihwNBVV95cUxQM3NJVUx4cWJ4ZnF0djEzdXAzRHdONk1zTk9naFNMNGV1aU9XdVY3c2RxamFtOW5RaklQSW5ienNVVmpfdVQzaUdGN0E0WVpEbGhVVW82NlJOTUNTTTBkNk1neExfZXlDZTR0THlvQ2hlMVBPdGFkYmF4TV9oNkZiRDJvS0FNMXhEMGFfcThkakNyTENHbEJlaWIwT0hmcm5KVDd3Sm40TW9NczFJN1VxQXY0R2dnTTk4djc1NjNkMmFuNHVaM3A5bDg4emJLWWljZEVTODIyNU94bmtZcWEzS1dLeU5ueEFkcEpIbWU1a1d0S1BzbjAtVHRheEMwS2Y0UnpDbkZEU09tcHJKdXNmNngzRVVnSGpGcUxjVlJtX0ZfS2tfS0g0YTJZMFZ6aVEtTjdqVW9fVlVieGFRdUxCRUYybHUweVl4dTYxTWplTXJjY0pKRjAxeHJSM3QtMnRDOVdESjQ2YTVaX3UxUzM5X29VTkdXTlE2enVzdGUtTi1DX3MzTFQ0?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [尿酸8.1卻大喊沒病 醫嘆錯過黃金期 洗腎、心梗全來](https://news.google.com/rss/articles/CBMibkFVX3lxTE5IVnpwbGhFVTlsOU9udjlqa1hfTkpNTHVNTjBQdm1vYXlUb2J5YmE1aW1fakNUQmJ2eVZLUlN2a2N0X1NYNGVIQ2FpWk1DRHU4UmxtamZYNmxrSWVKU09HYVAwdUZMMUFFUWVhaUVn?oc=5)
 
