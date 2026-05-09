@@ -43,7 +43,7 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（4 則）
 
-### [規律有氧讓大腦年輕1歲！神經科學家證實：有氧＋肌力這樣練，是大腦抗老化的最強處方](https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVlzTjVWc1V6MkxFTkRPXzJWTTg4RU9xR29rM2EwWF9fbHFrX01sWmdqS0FzMVFzR2x5Tno1Y2RCMVhNbzFkV3Zsel9UanV3WkNfUGRuOUdvSU9nSVllS3lLRXFLSDBZVlphYkxnT2N4ZDNrMzBYQ1VKNTR5ZllvSVNNdmdyUk0wY3JROUFB?oc=5)
+### [規律有氧讓大腦年輕1歲！神經科學家證實：有氧＋肌力訓練是大腦抗老化的最強處方](https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVlzTjVWc1V6MkxFTkRPXzJWTTg4RU9xR29rM2EwWF9fbHFrX01sWmdqS0FzMVFzR2x5Tno1Y2RCMVhNbzFkV3Zsel9UanV3WkNfUGRuOUdvSU9nSVllS3lLRXFLSDBZVlphYkxnT2N4ZDNrMzBYQ1VKNTR5ZllvSVNNdmdyUk0wY3JROUFB?oc=5)
 
 2026-05-08 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
