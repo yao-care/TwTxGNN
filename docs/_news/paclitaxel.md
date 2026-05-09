@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [南京85kg少女「水桶腰」以為純粹發胖 醫生驚揭患卵巢癌](https://news.google.com/rss/articles/CBMi4gJBVV95cUxOeElWNWdCNFoxeERWVnctdkZoT3NSTXJzeWFTNHNnc0VzVmgzTE5aNFNfQjR4LTBLXzg1VkxCRE1IQ3FERGc1OWZvM0JUdzdJTHFadnZ5aVZuRlQyTVNvbjMwRmxVZzFybXd0NmFVY3pKVEZHaGUza1psbjB0dGtjYm1XTnZoZXJZdktJcDlEY1dqM0FVSEpWWDIyT2FlaW56UEdYMmYtNURwMXVKUi1uTzY0NUJTX09xcy1PcW5fZHB5VDU0d3RwZ1pEOE9Rb0U0WHNjb0dDWDRTck84c0diUmxvaGtSQkI4bEl0QW5aenQzdElndTg0SENqaGlmSUkxRVBKSkJ5YUN5SF90QndUTVczd2pKTVhlZ0d6UFVpMFNCeGNHMFdYLUNpU1lOM3RDUjRSLWZHcm8wTHJNeVB3R3ZRUmNWV3QtVXlrc0tGbFlpd2p0VVFBeE9Nc1JxSjNxcGc?oc=5)
+
+2026-05-09 <span class="news-indication-tag">卵巢癌</span>
+
+來源：[星島頭條](https://news.google.com/rss/articles/CBMi4gJBVV95cUxOeElWNWdCNFoxeERWVnctdkZoT3NSTXJzeWFTNHNnc0VzVmgzTE5aNFNfQjR4LTBLXzg1VkxCRE1IQ3FERGc1OWZvM0JUdzdJTHFadnZ5aVZuRlQyTVNvbjMwRmxVZzFybXd0NmFVY3pKVEZHaGUza1psbjB0dGtjYm1XTnZoZXJZdktJcDlEY1dqM0FVSEpWWDIyT2FlaW56UEdYMmYtNURwMXVKUi1uTzY0NUJTX09xcy1PcW5fZHB5VDU0d3RwZ1pEOE9Rb0U0WHNjb0dDWDRTck84c0diUmxvaGtSQkI4bEl0QW5aenQzdElndTg0SENqaGlmSUkxRVBKSkJ5YUN5SF90QndUTVczd2pKTVhlZ0d6UFVpMFNCeGNHMFdYLUNpU1lOM3RDUjRSLWZHcm8wTHJNeVB3R3ZRUmNWV3QtVXlrc0tGbFlpd2p0VVFBeE9Nc1JxSjNxcGc?oc=5)
+
+---
 
 ### [吳芮醫生看我們與腫瘤疾病的距離 - 報新聞 Mega News](https://news.google.com/rss/articles/CBMikwJBVV95cUxOS1BJQWU5M3loY3pPOFRIVUtQcDVDOFR4bGs1MDlELVd3VFNWaDR1bXlkRTQ2Ym0yaWQwd3Z6TDZPYTR2TkYyS3BZeGZNS1Ftc01GWVl3ejc4TzRzX2F2bVRRQl8zdnY3YVN1Y1Q2N29ZWkdyaGNZOUJvNF9YdE1PNzJjNkV3bHBwQ3NlLU9GOEdweUp1NzJfRzV4WnVZLWZVREFmOU1zVzFzUGVuSjNaNC1MT0dCOVY4WGpidVhPQ2RYaXRpX1N1Y2pVOHBOTVVDZHhVLURJYmljTHlqMzMzLWZnZlVRZTMtamxudFJnbWRoTWNmZHlmajhYV0VjVkE4VXdYUEkyVHZBdmphUzdxajh4UQ?oc=5)
 
