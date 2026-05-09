@@ -43,11 +43,11 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（3 則）
 
-### [規律有氧讓大腦年輕1歲！神經科學家證實：有氧＋肌力訓練是大腦抗老化的最強處方](https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVlzTjVWc1V6MkxFTkRPXzJWTTg4RU9xR29rM2EwWF9fbHFrX01sWmdqS0FzMVFzR2x5Tno1Y2RCMVhNbzFkV3Zsel9UanV3WkNfUGRuOUdvSU9nSVllS3lLRXFLSDBZVlphYkxnT2N4ZDNrMzBYQ1VKNTR5ZllvSVNNdmdyUk0wY3JROUFB?oc=5)
+### [胖久了會致癌！醫揭「BMI每增5單位」癌症風險暴增](https://news.google.com/rss/articles/CBMitAJBVV95cUxPUzROcVlxOHFVSEhCdV9oM05mdktFUHMtaV9Sb0JReHoyM0RXdmZDdjlhUWwzZ3JscFhRd0RxX1dTcFMxM1ZoYmdob1F6VVZMcWVyazk4S25NMjY0NUFWSDZCbndyRmR6aFV3UDhCOEJKeU9IM2VQUWtENjRpUC1hMzZQSDVHZkpFOG1OMHAwbGRuSklMZ01wenAtSGRiYkN0SkFORDNWeGl0MkhFOVRqNlBSSXBXZVJzZnk1Y29YZnZWRzlHdXZZa3oydTZLMk5wbzl3c1FwY1lQa1RWTlZ0ZUl0SG1RWnpvbG14eUtKVDhtVm1Qdzl2T1hjenJ3a1JueHkxTG1PblRWeTJkdnNjcEZFbjFWZEN2WmU1THdxRkF3clpfNkV4bXU3TzItQ2pyRm00bw?oc=5)
 
-2026-05-08 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+2026-05-09 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span>
 
-來源：[ELLE](https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVlzTjVWc1V6MkxFTkRPXzJWTTg4RU9xR29rM2EwWF9fbHFrX01sWmdqS0FzMVFzR2x5Tno1Y2RCMVhNbzFkV3Zsel9UanV3WkNfUGRuOUdvSU9nSVllS3lLRXFLSDBZVlphYkxnT2N4ZDNrMzBYQ1VKNTR5ZllvSVNNdmdyUk0wY3JROUFB?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMitAJBVV95cUxPUzROcVlxOHFVSEhCdV9oM05mdktFUHMtaV9Sb0JReHoyM0RXdmZDdjlhUWwzZ3JscFhRd0RxX1dTcFMxM1ZoYmdob1F6VVZMcWVyazk4S25NMjY0NUFWSDZCbndyRmR6aFV3UDhCOEJKeU9IM2VQUWtENjRpUC1hMzZQSDVHZkpFOG1OMHAwbGRuSklMZ01wenAtSGRiYkN0SkFORDNWeGl0MkhFOVRqNlBSSXBXZVJzZnk1Y29YZnZWRzlHdXZZa3oydTZLMk5wbzl3c1FwY1lQa1RWTlZ0ZUl0SG1RWnpvbG14eUtKVDhtVm1Qdzl2T1hjenJ3a1JueHkxTG1PblRWeTJkdnNjcEZFbjFWZEN2WmU1THdxRkF3clpfNkV4bXU3TzItQ2pyRm00bw?oc=5)
 
 ---
 

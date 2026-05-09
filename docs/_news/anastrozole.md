@@ -14,7 +14,7 @@ permalink: /news/anastrozole/
 ---
 
 <p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
-<strong>Anastrozole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Anastrozole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/anastrozole/
 <li><strong>原適應症</strong>：停經後婦女晚期乳癌、荷爾蒙接受器陽性早期乳癌輔助治療</li>
 <li><strong>證據等級</strong>：L1</li>
 <li><strong>預測適應症</strong>（6 個）：<ul>
-<li>female breast carcinoma（99.7%）</li>
+<li class="indication-matched">female breast carcinoma（99.7%）<span class="indication-tag">📰 乳癌</span></li>
 <li>neuroblastoma（99.5%）</li>
 <li>vertebral anomalies and variable endocrine and T-cell dysfunction（99.4%）</li>
 <li>ganglioneuroblastoma (disease)（99.4%）</li>
@@ -38,7 +38,15 @@ permalink: /news/anastrozole/
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [胖久了會致癌！醫揭「BMI每增5單位」癌症風險暴增](https://news.google.com/rss/articles/CBMitAJBVV95cUxPUzROcVlxOHFVSEhCdV9oM05mdktFUHMtaV9Sb0JReHoyM0RXdmZDdjlhUWwzZ3JscFhRd0RxX1dTcFMxM1ZoYmdob1F6VVZMcWVyazk4S25NMjY0NUFWSDZCbndyRmR6aFV3UDhCOEJKeU9IM2VQUWtENjRpUC1hMzZQSDVHZkpFOG1OMHAwbGRuSklMZ01wenAtSGRiYkN0SkFORDNWeGl0MkhFOVRqNlBSSXBXZVJzZnk1Y29YZnZWRzlHdXZZa3oydTZLMk5wbzl3c1FwY1lQa1RWTlZ0ZUl0SG1RWnpvbG14eUtKVDhtVm1Qdzl2T1hjenJ3a1JueHkxTG1PblRWeTJkdnNjcEZFbjFWZEN2WmU1THdxRkF3clpfNkV4bXU3TzItQ2pyRm00bw?oc=5)
+
+2026-05-09 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMitAJBVV95cUxPUzROcVlxOHFVSEhCdV9oM05mdktFUHMtaV9Sb0JReHoyM0RXdmZDdjlhUWwzZ3JscFhRd0RxX1dTcFMxM1ZoYmdob1F6VVZMcWVyazk4S25NMjY0NUFWSDZCbndyRmR6aFV3UDhCOEJKeU9IM2VQUWtENjRpUC1hMzZQSDVHZkpFOG1OMHAwbGRuSklMZ01wenAtSGRiYkN0SkFORDNWeGl0MkhFOVRqNlBSSXBXZVJzZnk1Y29YZnZWRzlHdXZZa3oydTZLMk5wbzl3c1FwY1lQa1RWTlZ0ZUl0SG1RWnpvbG14eUtKVDhtVm1Qdzl2T1hjenJ3a1JueHkxTG1PblRWeTJkdnNjcEZFbjFWZEN2WmU1THdxRkF3clpfNkV4bXU3TzItQ2pyRm00bw?oc=5)
+
+---
 
 ### [吳芮醫生看我們與腫瘤疾病的距離 - 報新聞 Mega News](https://news.google.com/rss/articles/CBMikwJBVV95cUxOS1BJQWU5M3loY3pPOFRIVUtQcDVDOFR4bGs1MDlELVd3VFNWaDR1bXlkRTQ2Ym0yaWQwd3Z6TDZPYTR2TkYyS3BZeGZNS1Ftc01GWVl3ejc4TzRzX2F2bVRRQl8zdnY3YVN1Y1Q2N29ZWkdyaGNZOUJvNF9YdE1PNzJjNkV3bHBwQ3NlLU9GOEdweUp1NzJfRzV4WnVZLWZVREFmOU1zVzFzUGVuSjNaNC1MT0dCOVY4WGpidVhPQ2RYaXRpX1N1Y2pVOHBOTVVDZHhVLURJYmljTHlqMzMzLWZnZlVRZTMtamxudFJnbWRoTWNmZHlmajhYV0VjVkE4VXdYUEkyVHZBdmphUzdxajh4UQ?oc=5)
 
