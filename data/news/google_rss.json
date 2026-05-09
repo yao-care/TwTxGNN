@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-09T22:34:08.619527+00:00",
-  "count": 23,
+  "fetched_at": "2026-05-09T23:38:22.947662+00:00",
+  "count": 22,
   "news": [
     {
       "id": "edb8182f1d39",
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "bf0873a17daf",
-      "title": "多年來，醫生將疲勞和焦慮歸咎於荷爾蒙，我差點失血過多而死。 - arch-web.com.tw",
-      "published": "2026-05-09T16:26:28+00:00",
-      "summary": "多年來，醫生將疲勞和焦慮歸咎於荷爾蒙，我差點失血過多而死。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQZG5FMTByaXQyaGFqSG95UGxsXzJKVDZWQ3Azd2w2T2dFakdWQktBVUs1blFVdEs4V2xBZ00zbDZHSjgybGk2WVJzZ2JNbWVmbTFRUFZkSlB6bThMQVlKNHo5SjBYalhmeGhYREktYUxWTHNUWWRpTUh0b3ZEVldxNFBzMkgyUE8weS1pTHhpaHhOdkJ6NmM4a0pIUzItMDd0eXJUTFg1NkdoRmVQSi1GalhhUmctNjBhelVfZEZoMnFQdm4yeVFNYnR5Z1UyWVUxa3hVUmJadWltMGdBZzkzcFVEQjRtNDhhSmVibjE1NlBGbkR4R1Y0T1lUMmdMOTIwMFUxcE42MTFGSlhrUmxOcEJyMTU5ejdRV2I1UUk0MnZLV3Y0TUtvMVhoX3piQmg0bkR3cUFSSm90Z0h4bDFkd2NHMUZodkRITnVnRTFqRVNxaGw0MG5WcnRKUEVYbmROakRzZjFtVEhEUmVSZGRqZEtxS2VuMVo4TDdiUElraTdXNUs1b0E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5ee8e879fab6",
       "title": "「BMI愈高愈多癌」！醫揭研究數據：減肥達「10%以上」才有防癌效果 - Yahoo新聞",
       "published": "2026-05-09T15:42:00+00:00",
@@ -64,14 +52,14 @@
       ]
     },
     {
-      "id": "6f427a16373c",
-      "title": "少吃多動還是胖？營養師揭「漏斗減肥法」：這層比BMI更關鍵 - 民報",
-      "published": "2026-05-09T06:00:00+00:00",
-      "summary": "少吃多動還是胖？營養師揭「漏斗減肥法」：這層比BMI更關鍵&nbsp;&nbsp;民報前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "bf0873a17daf",
+      "title": "多年來，醫生將疲勞和焦慮歸咎於荷爾蒙，我差點失血過多而死。 - arch-web.com.tw",
+      "published": "2026-05-09T16:26:28+00:00",
+      "summary": "多年來，醫生將疲勞和焦慮歸咎於荷爾蒙，我差點失血過多而死。&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "民報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDclY3cEh5VGotOGJldHZSYVhLQ3VWRVB2R09yR2FBYmlwMW5mMWRsOS1pR3B5ZUVxRUpWS1hITnRONFNIdzlvX0J5Q20wcjFsQnlTYzJxOXYwMmxndC1hTA?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQZG5FMTByaXQyaGFqSG95UGxsXzJKVDZWQ3Azd2w2T2dFakdWQktBVUs1blFVdEs4V2xBZ00zbDZHSjgybGk2WVJzZ2JNbWVmbTFRUFZkSlB6bThMQVlKNHo5SjBYalhmeGhYREktYUxWTHNUWWRpTUh0b3ZEVldxNFBzMkgyUE8weS1pTHhpaHhOdkJ6NmM4a0pIUzItMDd0eXJUTFg1NkdoRmVQSi1GalhhUmctNjBhelVfZEZoMnFQdm4yeVFNYnR5Z1UyWVUxa3hVUmJadWltMGdBZzkzcFVEQjRtNDhhSmVibjE1NlBGbkR4R1Y0T1lUMmdMOTIwMFUxcE42MTFGSlhrUmxOcEJyMTU5ejdRV2I1UUk0MnZLV3Y0TUtvMVhoX3piQmg0bkR3cUFSSm90Z0h4bDFkd2NHMUZodkRITnVnRTFqRVNxaGw0MG5WcnRKUEVYbmROakRzZjFtVEhEUmVSZGRqZEtxS2VuMVo4TDdiUElraTdXNUs1b0E?oc=5"
         }
       ]
     },
