@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-09T12:56:25.681222+00:00",
-  "total_count": 27,
+  "last_updated": "2026-05-09T14:14:58.907593+00:00",
+  "total_count": 25,
   "matched_count": 5,
   "news": [
     {
@@ -33,7 +33,7 @@
       "id": "86092972da05",
       "title": "胖久了會致癌！醫揭「BMI每增5單位」癌症風險暴增",
       "published": "2026-05-09T07:54:00+00:00",
-      "summary": "胖久了會致癌！醫揭「BMI每增5單位」癌症風險暴增&nbsp;&nbsp;Yahoo新聞肥胖不只是體重問題，它如何透過「腸道—脂肪—腫瘤軸」增加罹癌風險？&nbsp;&nbsp;careonline.com.tw細胞增生&nbsp;&nbsp;東周刊肥胖恐加速乳癌惡化 台大副教授郭靜穎獲吳大猷先生紀念獎&nbsp;&nbsp;聯合新聞網",
+      "summary": "胖久了會致癌！醫揭「BMI每增5單位」癌症風險暴增&nbsp;&nbsp;Yahoo新聞BMI愈高「罹癌風險愈大」！醫師提醒：減肥就是在防癌&nbsp;&nbsp;ETtoday新聞雲肥胖不只是體重問題，它如何透過「腸道—脂肪—腫瘤軸」增加罹癌風險？&nbsp;&nbsp;careonline.com.tw細胞增生&nbsp;&nbsp;東周刊成年早期體重增加快增加死於肥胖相關疾病風險- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -430,41 +430,6 @@
               "name": "Zanubrutinib"
             }
           ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
         }
       ]
     },
@@ -549,14 +514,14 @@
       ]
     },
     {
-      "id": "98257a60dece",
-      "title": "別再以為「站著辦公」就健康！追蹤1.4萬人研究：救命關鍵不在姿勢，而是每天多這5分鐘 | 幸福熟齡X 今周刊 - LINE TODAY",
-      "published": "2026-05-09T04:30:03+00:00",
-      "summary": "別再以為「站著辦公」就健康！追蹤1.4萬人研究：救命關鍵不在姿勢，而是每天多這5分鐘 | 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY",
+      "id": "c6803544ebfb",
+      "title": "別再以為「站著辦公」就健康！追蹤1.4萬人研究：救命關鍵不在姿勢，而是每天多這5分鐘",
+      "published": "2026-05-09T03:08:20+00:00",
+      "summary": "別再以為「站著辦公」就健康！追蹤1.4萬人研究：救命關鍵不在姿勢，而是每天多這5分鐘&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10OGZFaWpxaVZyMjFKOVBhOUoyMVJfNjFtbE0waFVDOEJPaS1uUDRNM2pSYWVHbnJOTEwySjFrRjVCamlBYnN2TG45WDlxRzZ5Ym1EYUJB?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPQzlUVzUwS2tvR2hDcmhBeWNmUVFfZTdUQ3B1R3VObTlLUzZnVmhvQ1hKZTVHU052TzhmNzBsNUVyaUdJM1BoS2hpeEczcVRfUVRvbHhNU1V1QjdUY1pENnhwTkN2alJBb2htZTJFVzRkZ3Z4MGF1M1BfOVNHTWhMNjcyMGdOT0Iwd2ZPZ2tuTC1BcVpsWEV3MGZqYm5RQXA5anZPdDBaeHhYN3VWRE1OemlUdWNpODIyM0pwNUI4WENCVlhWLTFsN0VRZFgwWnZSTFFtS1pBQlNHaHJlb0luNjFXdjBrOVVJVVZWTWdocFBVWVNWMmhFQlFfbFRYMmM4OTZLSWZKbE5xdWJoQkRIaklJMV9kb0o4RktRclJheUpCT2ExQVpJ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -973,32 +938,6 @@
         {
           "name": "ENN台灣電報",
           "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1lWC1pOUp0WldWR2laa0tmUm01cFJJWkFGRlV5OXVEczJuSnpVWGNSa1djdjBrQmk4eVE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0cc7a9464e9b",
-      "title": "PM2.5加重術後併發症風險 研究籲重視空氣品質",
-      "published": "2026-05-07T12:55:06+00:00",
-      "summary": "PM2.5加重術後併發症風險 研究籲重視空氣品質&nbsp;&nbsp;記者爆料網",
-      "sources": [
-        {
-          "name": "記者爆料網",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GNjdjMDBjNTBFMWhoN1laaTB4NTlCMndHOHFiMTBqR2RFT3RwcUtUa09aaUczRUJ0M1ZycHNxZzlNRENKLU5nTmZhdkhWZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e41e82ee18a2",
-      "title": "健康網》陰莖突變彎難行房 網紅醫談佩羅尼氏症",
-      "published": "2026-05-07T12:36:00+00:00",
-      "summary": "健康網》陰莖突變彎難行房 網紅醫談佩羅尼氏症&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLTmlGQ19jTXhjYmFpaGpKRGJDRzJUNTh2RzBXZWRKUFFTU2JuOU5SUEVESV9RUjZfRDNyQzR4dm1LenVfOVBTa0xQa0xtVHp2bkZvY3BJOUlrTFgzREFCYUVNLVbSAWpBVV95cUxPWWtCYXBKRGF5a1N3SHFCajBJT1VTbmwtN05OQnpVY0EwSFlYT1NORTVURGgxa1Q1djhxb0ZQYzVaaU5LUlhrZlVyUzJqakZmME90OFpYZmswMUJCRm1KN1V5YnVndmhFNVZR?oc=5"
         }
       ],
       "matched_keywords": []

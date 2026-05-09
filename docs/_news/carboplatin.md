@@ -27,7 +27,7 @@ permalink: /news/carboplatin/
 <li><strong>原適應症</strong>：HER2 陽性早期乳癌、轉移性乳癌、黑色素瘤、非小細胞肺癌、何杰金氏淋巴瘤、頭頸部鱗狀細胞癌、泌尿道上皮癌等</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（99.9%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（99.9%）</li>
 <li>rectum mucinous adenocarcinoma（99.3%）</li>
 <li>colon mucinous adenocarcinoma（99.3%）</li>
 <li>adult germ cell tumor（99.2%）</li>
@@ -46,7 +46,7 @@ permalink: /news/carboplatin/
 
 ### [胖久了會致癌！醫揭「BMI每增5單位」癌症風險暴增](https://news.google.com/rss/articles/CBMitAJBVV95cUxPUzROcVlxOHFVSEhCdV9oM05mdktFUHMtaV9Sb0JReHoyM0RXdmZDdjlhUWwzZ3JscFhRd0RxX1dTcFMxM1ZoYmdob1F6VVZMcWVyazk4S25NMjY0NUFWSDZCbndyRmR6aFV3UDhCOEJKeU9IM2VQUWtENjRpUC1hMzZQSDVHZkpFOG1OMHAwbGRuSklMZ01wenAtSGRiYkN0SkFORDNWeGl0MkhFOVRqNlBSSXBXZVJzZnk1Y29YZnZWRzlHdXZZa3oydTZLMk5wbzl3c1FwY1lQa1RWTlZ0ZUl0SG1RWnpvbG14eUtKVDhtVm1Qdzl2T1hjenJ3a1JueHkxTG1PblRWeTJkdnNjcEZFbjFWZEN2WmU1THdxRkF3clpfNkV4bXU3TzItQ2pyRm00bw?oc=5)
 
-2026-05-09 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span>
+2026-05-09 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMitAJBVV95cUxPUzROcVlxOHFVSEhCdV9oM05mdktFUHMtaV9Sb0JReHoyM0RXdmZDdjlhUWwzZ3JscFhRd0RxX1dTcFMxM1ZoYmdob1F6VVZMcWVyazk4S25NMjY0NUFWSDZCbndyRmR6aFV3UDhCOEJKeU9IM2VQUWtENjRpUC1hMzZQSDVHZkpFOG1OMHAwbGRuSklMZ01wenAtSGRiYkN0SkFORDNWeGl0MkhFOVRqNlBSSXBXZVJzZnk1Y29YZnZWRzlHdXZZa3oydTZLMk5wbzl3c1FwY1lQa1RWTlZ0ZUl0SG1RWnpvbG14eUtKVDhtVm1Qdzl2T1hjenJ3a1JueHkxTG1PblRWeTJkdnNjcEZFbjFWZEN2WmU1THdxRkF3clpfNkV4bXU3TzItQ2pyRm00bw?oc=5)
 
