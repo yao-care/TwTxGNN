@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-09T14:14:54.695180+00:00",
-  "count": 24,
+  "fetched_at": "2026-05-09T15:41:54.380704+00:00",
+  "count": 23,
   "news": [
-    {
-      "id": "edb8182f1d39",
-      "title": "母親節健康警訊！骨鬆性骨折恐成家庭負擔 專家籲及早骨密度檢測 - 台視新聞網",
-      "published": "2026-05-09T07:00:07+00:00",
-      "summary": "母親節健康警訊！骨鬆性骨折恐成家庭負擔 專家籲及早骨密度檢測&nbsp;&nbsp;台視新聞網每天運動還不夠？醫師提醒骨本流失：補鈣＋關鍵營養是關鍵！&nbsp;&nbsp;TVBS 健康2.068歲婦剛退休婦就跌倒骨折 子女面臨辭職長照困境&nbsp;&nbsp;民報恩主公醫院推動「保鈣防跌大作戰」 醫籲：114年健保擴大給付，別讓「一低」成為健康隱形炸彈&nbsp;&nbsp;良醫健康網輕微撞傷不在意！她「會呼吸的痛」竟骨裂 醫示警「這年齡層」要注意&nbsp;&nbsp;祝你健康",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BUVk5UjZfNmJXQVBzMm1KNXlod3NFSlM2MzJsa25jQ29QX3h1V2tHWXYzYWtsWm9aTzV2Nm12OHdzdTFROUhfWTZGZnVWNmFqU1RZZlNXbw?oc=5"
-        }
-      ]
-    },
     {
       "id": "337c3e2d4edc",
       "title": "網傳感染漢他病毒是接種BNT疫苗副作用 路透事實查核狠打臉！ - 經濟日報",
@@ -24,6 +12,18 @@
         {
           "name": "經濟日報",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sdTRqUUE5U25ncldQT3Rmd0J6ZXFLdWlJMk5FM0dFX3JHVUVoS0Y3TUt5a3dHV1JhajJ5S1NuUnQ1M2NqYTY4LWFnMEp2cURxZEFNVGROZ19jd9IBX0FVX3lxTE1iQmJMVy1PR3lYUE1jc0h6elFBTFhIejZxMEtxY0N5THd6U2pMbVdQSGZOdG11MEVIRkRnNlFtQzFBNURacU9sRFU4Nm9qNk14MlVyLU1LMmp4azdoclZj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "edb8182f1d39",
+      "title": "母親節健康警訊！骨鬆性骨折恐成家庭負擔 專家籲及早骨密度檢測 - 台視新聞網",
+      "published": "2026-05-09T07:00:07+00:00",
+      "summary": "母親節健康警訊！骨鬆性骨折恐成家庭負擔 專家籲及早骨密度檢測&nbsp;&nbsp;台視新聞網每天運動還不夠？醫師提醒骨本流失：補鈣＋關鍵營養是關鍵！&nbsp;&nbsp;TVBS 健康2.068歲婦剛退休婦就跌倒骨折 子女面臨辭職長照困境&nbsp;&nbsp;民報恩主公醫院推動「保鈣防跌大作戰」 醫籲：114年健保擴大給付，別讓「一低」成為健康隱形炸彈&nbsp;&nbsp;良醫健康網輕微撞傷不在意！她「會呼吸的痛」竟骨裂 醫示警「這年齡層」要注意&nbsp;&nbsp;祝你健康",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BUVk5UjZfNmJXQVBzMm1KNXlod3NFSlM2MzJsa25jQ29QX3h1V2tHWXYzYWtsWm9aTzV2Nm12OHdzdTFROUhfWTZGZnVWNmFqU1RZZlNXbw?oc=5"
         }
       ]
     },
@@ -40,30 +40,6 @@
       ]
     },
     {
-      "id": "75bd14aed376",
-      "title": "阿茲海默症藥物可能不起作用，並且可能會增加大腦的風險。 - arch-web.com.tw",
-      "published": "2026-05-08T06:24:25+00:00",
-      "summary": "阿茲海默症藥物可能不起作用，並且可能會增加大腦的風險。&nbsp;&nbsp;arch-web.com.tw研究：抗澱粉樣蛋白藥物 或對阿茲海默症患者無益&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQWEo0X21XVWZXNFlGRDlESVczNE1uZ2RfXzRVZGFWaHRyR0VkMDBtZlNHT3JMRUUtMURPRXdUQ3RmQTdUc1dpR2dRcWZfaE1VbklwVGlvVGgzczlLSGRxWVN2ZGd2c3AwaTV3RThidHFrMnpMel9HYnlLcVNSNDR2Qmk0U1BMWDFIYkFBdy1oSXFjWkpPa2N6Wk1aVmgtVUJkVVJFbW1mazZvS080RzExaFJLaEZJcFlOWnNaeFhJekdmOHFoU0RrYTdjZ3RPLXp1QkljRVVwU3k3OUxCX1BaSkVUbUE5MktoM2NJOWZPRWFOM1V5TjAxVWVzYllIb08yZTVrc0ZscWNvd2FFdzh6NVFZbXAzcVFnc0taRWpuYmUtcjd3Z1VDa0wzOTVZME5Dckg2Uzl0amQ2OUV1QnlESDkySUExeDJ1VEFUU0xIVW9COHFZdllTVkxrZE50VGk1NUZPc2xoaUJoWFhVcnBLaHZ2UHNkU1JWYktYV3I0N3p6NldVVVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "86092972da05",
-      "title": "胖久了會致癌！醫揭「BMI每增5單位」癌症風險暴增 - Yahoo新聞",
-      "published": "2026-05-09T07:54:00+00:00",
-      "summary": "胖久了會致癌！醫揭「BMI每增5單位」癌症風險暴增&nbsp;&nbsp;Yahoo新聞BMI愈高「罹癌風險愈大」！醫師提醒：減肥就是在防癌&nbsp;&nbsp;ETtoday新聞雲肥胖不只是體重問題，它如何透過「腸道—脂肪—腫瘤軸」增加罹癌風險？&nbsp;&nbsp;careonline.com.tw細胞增生&nbsp;&nbsp;東周刊成年早期體重增加快增加死於肥胖相關疾病風險- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPUzROcVlxOHFVSEhCdV9oM05mdktFUHMtaV9Sb0JReHoyM0RXdmZDdjlhUWwzZ3JscFhRd0RxX1dTcFMxM1ZoYmdob1F6VVZMcWVyazk4S25NMjY0NUFWSDZCbndyRmR6aFV3UDhCOEJKeU9IM2VQUWtENjRpUC1hMzZQSDVHZkpFOG1OMHAwbGRuSklMZ01wenAtSGRiYkN0SkFORDNWeGl0MkhFOVRqNlBSSXBXZVJzZnk1Y29YZnZWRzlHdXZZa3oydTZLMk5wbzl3c1FwY1lQa1RWTlZ0ZUl0SG1RWnpvbG14eUtKVDhtVm1Qdzl2T1hjenJ3a1JueHkxTG1PblRWeTJkdnNjcEZFbjFWZEN2WmU1THdxRkF3clpfNkV4bXU3TzItQ2pyRm00bw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f371e5583d5a",
       "title": "1滴血驗50種癌？抽血驗癌爆紅 醫示警：忽略傳統篩檢反而危險 - Yahoo新聞",
       "published": "2026-05-09T10:45:29+00:00",
@@ -72,6 +48,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNdnRyWERnSHE3N1pHS2JHd3JoNVFNWlNZckVWSHBlZ01aanVwa1lRbWlyQkdMUnljdFFLR0otQ3FrcHJsdkcxeEIxMllJTlp2aGRiQTBpdzFrRzdmczhFRk81WnFFLVAwOW5ZVS1rWDdmRERnaDltZXpXZDZiS1Q4WmRtUlh1NGZkaUtpWmxLUFRibGxXOUU5N3A0cTJpcUowb3dSTTBNR2kwVVZBQld1RkVQUFg1RUFWYmRETGxORWZsWnJFOTNYZTRfYjNUX3VpR3JYcVlwOHRjcVhmdjVqbWZXYlJzUzRtR0hKd3k0MHpoY0VxdmhWX3JEYmwzWGJySThxVnljVlIyMENaRmxnMnpCOWRENS1WdXM3cWRKb3dXcUY5TURDaVdlRXA3V29Ddi1qdks2NDhWamttWFNBTUc0cEw3ZmVaaXJXbjdOMFEzSzVZaGdhelpkcHY2NGdoanZQQzJCU1VVd1ZMNXZUVzlBWlhCSEJ2VE9z?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "86092972da05",
+      "title": "胖久了會致癌！醫揭「BMI每增5單位」癌症風險暴增 - Yahoo新聞",
+      "published": "2026-05-09T07:54:00+00:00",
+      "summary": "胖久了會致癌！醫揭「BMI每增5單位」癌症風險暴增&nbsp;&nbsp;Yahoo新聞BMI愈高「罹癌風險愈大」！醫師提醒：減肥就是在防癌&nbsp;&nbsp;ETtoday新聞雲肥胖不只是體重問題，它如何透過「腸道—脂肪—腫瘤軸」增加罹癌風險？&nbsp;&nbsp;careonline.com.tw細胞增生&nbsp;&nbsp;東周刊",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPUzROcVlxOHFVSEhCdV9oM05mdktFUHMtaV9Sb0JReHoyM0RXdmZDdjlhUWwzZ3JscFhRd0RxX1dTcFMxM1ZoYmdob1F6VVZMcWVyazk4S25NMjY0NUFWSDZCbndyRmR6aFV3UDhCOEJKeU9IM2VQUWtENjRpUC1hMzZQSDVHZkpFOG1OMHAwbGRuSklMZ01wenAtSGRiYkN0SkFORDNWeGl0MkhFOVRqNlBSSXBXZVJzZnk1Y29YZnZWRzlHdXZZa3oydTZLMk5wbzl3c1FwY1lQa1RWTlZ0ZUl0SG1RWnpvbG14eUtKVDhtVm1Qdzl2T1hjenJ3a1JueHkxTG1PblRWeTJkdnNjcEZFbjFWZEN2WmU1THdxRkF3clpfNkV4bXU3TzItQ2pyRm00bw?oc=5"
         }
       ]
     },
@@ -88,14 +76,14 @@
       ]
     },
     {
-      "id": "d0ed08e2e04b",
-      "title": "政府更新《登革熱應變計劃》　納入基孔肯雅熱防控策略 - 881903.com",
-      "published": "2026-05-08T08:37:00+00:00",
-      "summary": "政府更新《登革熱應變計劃》 納入基孔肯雅熱防控策略&nbsp;&nbsp;881903.com前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "c82427d57327",
+      "title": "研究：簡單日常習慣 改善血壓和心臟風險因素 - 自由健康網",
+      "published": "2026-05-08T06:09:00+00:00",
+      "summary": "研究：簡單日常習慣 改善血壓和心臟風險因素&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "881903.com",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50ODRhNzNjMjNFOGZsam5LRWhKSU5ZeGtuZWw2V1l2czR3blNQVmpzYkg3VnVkQWZzamZLRW9MR3FndVlzRzYzVGVKdnpnSEItOWI40gFYQVVfeXFMTkFaZDQ0ejVuNm1XQzRNTWppN0xOdmZhV0lhQ3N6LWNTblNZX29vZm9WR3dUU21xckZOTklibzlLSzVtVTkwNnVESjlDNXVReWx5SEhBeEl0WA?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hWlRFUVFJeE50NzFSUG5KX3NsQUhUNnlKSnBPOW5KUlg5Z0VSenJHNWxCaV9FMXlkUWZPOTBYdnlvNGhKMDh0MVQwbWpKZVdwX3UxaXdZamlUZU80M3RjRHU0MGrSAWpBVV95cUxPblBUY2lwN3Jrck9iQ0xoZXNZb3gyMUtIRlpIRXB5SjZoWkNKRVZPODNRUzV2dVhxM3RabHRTUGZBN0k1Qkx0WHNKSnpIMnhmem9iRmFYLTFtUU9DNkNxTWlGRzNqS3BOZW5R?oc=5"
         }
       ]
     },
@@ -112,18 +100,6 @@
       ]
     },
     {
-      "id": "c82427d57327",
-      "title": "研究：簡單日常習慣 改善血壓和心臟風險因素 - 自由健康網",
-      "published": "2026-05-08T06:09:00+00:00",
-      "summary": "研究：簡單日常習慣 改善血壓和心臟風險因素&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hWlRFUVFJeE50NzFSUG5KX3NsQUhUNnlKSnBPOW5KUlg5Z0VSenJHNWxCaV9FMXlkUWZPOTBYdnlvNGhKMDh0MVQwbWpKZVdwX3UxaXdZamlUZU80M3RjRHU0MGrSAWpBVV95cUxPblBUY2lwN3Jrck9iQ0xoZXNZb3gyMUtIRlpIRXB5SjZoWkNKRVZPODNRUzV2dVhxM3RabHRTUGZBN0k1Qkx0WHNKSnpIMnhmem9iRmFYLTFtUU9DNkNxTWlGRzNqS3BOZW5R?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0a53cd291dc6",
       "title": "新的肥胖發現改寫了數十年來的脂肪科學。 - arch-web.com.tw",
       "published": "2026-05-08T21:34:22+00:00",
@@ -136,14 +112,14 @@
       ]
     },
     {
-      "id": "c6803544ebfb",
-      "title": "別再以為「站著辦公」就健康！追蹤1.4萬人研究：救命關鍵不在姿勢，而是每天多這5分鐘 - Yahoo新聞",
-      "published": "2026-05-09T03:08:20+00:00",
-      "summary": "別再以為「站著辦公」就健康！追蹤1.4萬人研究：救命關鍵不在姿勢，而是每天多這5分鐘&nbsp;&nbsp;Yahoo新聞",
+      "id": "98257a60dece",
+      "title": "別再以為「站著辦公」就健康！追蹤1.4萬人研究：救命關鍵不在姿勢，而是每天多這5分鐘 | 幸福熟齡X 今周刊 - LINE TODAY",
+      "published": "2026-05-09T04:30:03+00:00",
+      "summary": "別再以為「站著辦公」就健康！追蹤1.4萬人研究：救命關鍵不在姿勢，而是每天多這5分鐘 | 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPQzlUVzUwS2tvR2hDcmhBeWNmUVFfZTdUQ3B1R3VObTlLUzZnVmhvQ1hKZTVHU052TzhmNzBsNUVyaUdJM1BoS2hpeEczcVRfUVRvbHhNU1V1QjdUY1pENnhwTkN2alJBb2htZTJFVzRkZ3Z4MGF1M1BfOVNHTWhMNjcyMGdOT0Iwd2ZPZ2tuTC1BcVpsWEV3MGZqYm5RQXA5anZPdDBaeHhYN3VWRE1OemlUdWNpODIyM0pwNUI4WENCVlhWLTFsN0VRZFgwWnZSTFFtS1pBQlNHaHJlb0luNjFXdjBrOVVJVVZWTWdocFBVWVNWMmhFQlFfbFRYMmM4OTZLSWZKbE5xdWJoQkRIaklJMV9kb0o4RktRclJheUpCT2ExQVpJ?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10OGZFaWpxaVZyMjFKOVBhOUoyMVJfNjFtbE0waFVDOEJPaS1uUDRNM2pSYWVHbnJOTEwySjFrRjVCamlBYnN2TG45WDlxRzZ5Ym1EYUJB?oc=5"
         }
       ]
     },
@@ -192,6 +168,18 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ia2ZtV25TdXAtSHlYd1pLZDd1S21vMVFiYmtkeWFTQ25oR1Utek1VSmlIUG5OQS1nbUxXMDRSX01INnZDeHY3c2E5N0ZDcWFjVUVHY3N3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f0459d60e65e",
+      "title": "研究指40歲起免疫力急降！醫推6關鍵營養素 甜椒1吃法維他命C暴增 - 香港01",
+      "published": "2026-05-08T08:05:36+00:00",
+      "summary": "研究指40歲起免疫力急降！醫推6關鍵營養素 甜椒1吃法維他命C暴增&nbsp;&nbsp;香港01健康網》炸雞美味要小心 醫：1週吃1次就好&nbsp;&nbsp;自由健康網「這年齡｣竟是斷崖式衰老關鍵期！44歲脂肪易堆積、60歲後免疫力下降，專家揭示如何延緩老化&nbsp;&nbsp;ELLE莫名疲倦卻睡不著！專家示警：身體在慢性發炎 5大飲食地雷一次看&nbsp;&nbsp;Yahoo新聞【健康1+1】慢性發炎是老化與慢性病關鍵 免疫失衡加速惡化&nbsp;&nbsp;大紀元時報 香港",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOam1BN3hBOVdXdjJRRk80ODdlZ1ZwdVhiakhpV0JOLW85NGRYUlNZSVdKX3pxaGQ0Y0o5WHdNeS1KdFZNdXBlZW9iVjdrRjBJX0x1WTF5VFNWdUYxMnJYcVlyYm8tOVpOX3MzVzIyZFdGUVVQcVIzdW51QjJ4REVOVVBWeUFJeUdXSDBDeWJZTlVXakd4MHY5clZWUHFvNUNVM21CU19Jc1NFRFg0WHVwZFBJYm9WcjJEX3lnRUxRRXdLdHA0ZWFlU2RyQ2dnc2JzVlNZeW4zVk9FOFgxR2l3VWZPTkFnS08yT3U4eDBfdFRMLUtpcTY4OHV0bTRNbFd2bUtzcW9BMUlpc2pXMURZVGhZZUUtZERqTzhCMkE3TVJ4TktlNlUzVWpBX2NYUGtmYlJGZ0NDLWZuRnhBYW0zX2dqZ3dHLTQ1eTVUM3ppUGFvazFlUjlxVEFSdFZjOVdtaG9nTWJwUmVOTWtRNjFzRXFEWTFrZVFzeThsdTdxOThEekgtNTJHdjN2REp3Q3BEUHVGd0xHYm9zNHE0Mms0?oc=5"
         }
       ]
     },

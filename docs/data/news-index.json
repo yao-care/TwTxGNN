@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-09T14:14:58.940914+00:00",
-  "count": 5,
+  "generated": "2026-05-09T15:42:00.326081+00:00",
+  "count": 4,
   "news": [
     {
       "id": "86092972da05",
@@ -452,30 +452,6 @@
             {
               "slug": "ouabain",
               "name": "Ouabain"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "75bd14aed376",
-      "title": "阿茲海默症藥物可能不起作用，並且可能會增加大腦的風險。",
-      "published": "2026-05-08T06:24:25+00:00",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQWEo0X21XVWZXNFlGRDlESVczNE1uZ2RfXzRVZGFWaHRyR0VkMDBtZlNHT3JMRUUtMURPRXdUQ3RmQTdUc1dpR2dRcWZfaE1VbklwVGlvVGgzczlLSGRxWVN2ZGd2c3AwaTV3RThidHFrMnpMel9HYnlLcVNSNDR2Qmk0U1BMWDFIYkFBdy1oSXFjWkpPa2N6Wk1aVmgtVUJkVVJFbW1mazZvS080RzExaFJLaEZJcFlOWnNaeFhJekdmOHFoU0RrYTdjZ3RPLXp1QkljRVVwU3k3OUxCX1BaSkVUbUE5MktoM2NJOWZPRWFOM1V5TjAxVWVzYllIb08yZTVrc0ZscWNvd2FFdzh6NVFZbXAzcVFnc0taRWpuYmUtcjd3Z1VDa0wzOTVZME5Dckg2Uzl0amQ2OUV1QnlESDkySUExeDJ1VEFUU0xIVW9COHFZdllTVkxrZE50VGk1NUZPc2xoaUJoWFhVcnBLaHZ2UHNkU1JWYktYV3I0N3p6NldVVVE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

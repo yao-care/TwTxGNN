@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [胖久了會致癌！醫揭「BMI每增5單位」癌症風險暴增](https://news.google.com/rss/articles/CBMitAJBVV95cUxPUzROcVlxOHFVSEhCdV9oM05mdktFUHMtaV9Sb0JReHoyM0RXdmZDdjlhUWwzZ3JscFhRd0RxX1dTcFMxM1ZoYmdob1F6VVZMcWVyazk4S25NMjY0NUFWSDZCbndyRmR6aFV3UDhCOEJKeU9IM2VQUWtENjRpUC1hMzZQSDVHZkpFOG1OMHAwbGRuSklMZ01wenAtSGRiYkN0SkFORDNWeGl0MkhFOVRqNlBSSXBXZVJzZnk1Y29YZnZWRzlHdXZZa3oydTZLMk5wbzl3c1FwY1lQa1RWTlZ0ZUl0SG1RWnpvbG14eUtKVDhtVm1Qdzl2T1hjenJ3a1JueHkxTG1PblRWeTJkdnNjcEZFbjFWZEN2WmU1THdxRkF3clpfNkV4bXU3TzItQ2pyRm00bw?oc=5)
 
 2026-05-09 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMitAJBVV95cUxPUzROcVlxOHFVSEhCdV9oM05mdktFUHMtaV9Sb0JReHoyM0RXdmZDdjlhUWwzZ3JscFhRd0RxX1dTcFMxM1ZoYmdob1F6VVZMcWVyazk4S25NMjY0NUFWSDZCbndyRmR6aFV3UDhCOEJKeU9IM2VQUWtENjRpUC1hMzZQSDVHZkpFOG1OMHAwbGRuSklMZ01wenAtSGRiYkN0SkFORDNWeGl0MkhFOVRqNlBSSXBXZVJzZnk1Y29YZnZWRzlHdXZZa3oydTZLMk5wbzl3c1FwY1lQa1RWTlZ0ZUl0SG1RWnpvbG14eUtKVDhtVm1Qdzl2T1hjenJ3a1JueHkxTG1PblRWeTJkdnNjcEZFbjFWZEN2WmU1THdxRkF3clpfNkV4bXU3TzItQ2pyRm00bw?oc=5)
-
----
-
-### [阿茲海默症藥物可能不起作用，並且可能會增加大腦的風險。](https://news.google.com/rss/articles/CBMihgNBVV95cUxQWEo0X21XVWZXNFlGRDlESVczNE1uZ2RfXzRVZGFWaHRyR0VkMDBtZlNHT3JMRUUtMURPRXdUQ3RmQTdUc1dpR2dRcWZfaE1VbklwVGlvVGgzczlLSGRxWVN2ZGd2c3AwaTV3RThidHFrMnpMel9HYnlLcVNSNDR2Qmk0U1BMWDFIYkFBdy1oSXFjWkpPa2N6Wk1aVmgtVUJkVVJFbW1mazZvS080RzExaFJLaEZJcFlOWnNaeFhJekdmOHFoU0RrYTdjZ3RPLXp1QkljRVVwU3k3OUxCX1BaSkVUbUE5MktoM2NJOWZPRWFOM1V5TjAxVWVzYllIb08yZTVrc0ZscWNvd2FFdzh6NVFZbXAzcVFnc0taRWpuYmUtcjd3Z1VDa0wzOTVZME5Dckg2Uzl0amQ2OUV1QnlESDkySUExeDJ1VEFUU0xIVW9COHFZdllTVkxrZE50VGk1NUZPc2xoaUJoWFhVcnBLaHZ2UHNkU1JWYktYV3I0N3p6NldVVVE?oc=5)
-
-2026-05-08 <span class="news-indication-tag">阿茲海默症</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihgNBVV95cUxQWEo0X21XVWZXNFlGRDlESVczNE1uZ2RfXzRVZGFWaHRyR0VkMDBtZlNHT3JMRUUtMURPRXdUQ3RmQTdUc1dpR2dRcWZfaE1VbklwVGlvVGgzczlLSGRxWVN2ZGd2c3AwaTV3RThidHFrMnpMel9HYnlLcVNSNDR2Qmk0U1BMWDFIYkFBdy1oSXFjWkpPa2N6Wk1aVmgtVUJkVVJFbW1mazZvS080RzExaFJLaEZJcFlOWnNaeFhJekdmOHFoU0RrYTdjZ3RPLXp1QkljRVVwU3k3OUxCX1BaSkVUbUE5MktoM2NJOWZPRWFOM1V5TjAxVWVzYllIb08yZTVrc0ZscWNvd2FFdzh6NVFZbXAzcVFnc0taRWpuYmUtcjd3Z1VDa0wzOTVZME5Dckg2Uzl0amQ2OUV1QnlESDkySUExeDJ1VEFUU0xIVW9COHFZdllTVkxrZE50VGk1NUZPc2xoaUJoWFhVcnBLaHZ2UHNkU1JWYktYV3I0N3p6NldVVVE?oc=5)
 
 ---
 
