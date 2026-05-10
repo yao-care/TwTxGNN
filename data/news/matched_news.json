@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-05-10T18:48:19.466398+00:00",
+  "last_updated": "2026-05-10T19:53:11.433812+00:00",
   "total_count": 15,
   "matched_count": 3,
   "news": [
+    {
+      "id": "1104bb47f37d",
+      "title": "長者嚴防呼吸道合胞病毒死亡率逾兩成 未有治療藥物",
+      "published": "2026-05-10T18:40:55+00:00",
+      "summary": "長者嚴防呼吸道合胞病毒死亡率逾兩成 未有治療藥物&nbsp;&nbsp;信報網站",
+      "sources": [
+        {
+          "name": "信報網站",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcG9wc1cyRGQ1SXVudjRQdVRFUHg5ZDd0VlNiSVFQdHVQbmF5SkQ0Znl5UjFUWWdGVGdGNHVfMEtoR3hPOFZTc045aXNFM0R0RjRrdjVQclEtSC1RbWJjLUJoV0k1NEY3TThfaldZT19Ja1hNWWZiUVF2d3I4TFMzT0xDSzJaWkk5VjB1UFVpeDBTMWdWYkRxa1JuWEs5bFpzMXZ5R2tCSkE0ZVl0aWpDNzl3aUNjeFNrRXdCMFlQYWZwTUV6MUVxX1ExM2h6cjdYQm00STZIWWlSZlExcldFcXpXYWtBZ2hCb1E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "5b7ea044a7d0",
       "title": "科爾多瓦：Cruz del Eje監獄的囚犯中發現五例結核病病例",
@@ -102,19 +115,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "f2d8248a59e9",
-      "title": "女性下腹痛勿輕忽！骨盆腔發炎恐影響生育 性伴侶也要同步治療 - FTNN 新聞網",
-      "published": "2026-05-10T02:30:00+00:00",
-      "summary": "女性下腹痛勿輕忽！骨盆腔發炎恐影響生育 性伴侶也要同步治療&nbsp;&nbsp;FTNN 新聞網",
-      "sources": [
-        {
-          "name": "FTNN 新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lUzE4alZlWTM5SFFwcURfaTNmT2hLaUlSczZaMGU0RURiQjAtY29Pb1N0RkhCU1VnTmIyb3ZGb2U1NWtVanpuNDBadw?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "fa51bbd0ae5a",
