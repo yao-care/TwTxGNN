@@ -14,7 +14,7 @@ permalink: /news/disopyramide/
 ---
 
 <p class="key-answer" data-question="Disopyramide 有什麼相關新聞？">
-<strong>Disopyramide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Disopyramide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/disopyramide/
 <p><a href="{{ '/drugs/disopyramide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [吳芮醫生看我們與腫瘤疾病的距離 - 報新聞 Mega News](https://news.google.com/rss/articles/CBMikwJBVV95cUxOS1BJQWU5M3loY3pPOFRIVUtQcDVDOFR4bGs1MDlELVd3VFNWaDR1bXlkRTQ2Ym0yaWQwd3Z6TDZPYTR2TkYyS3BZeGZNS1Ftc01GWVl3ejc4TzRzX2F2bVRRQl8zdnY3YVN1Y1Q2N29ZWkdyaGNZOUJvNF9YdE1PNzJjNkV3bHBwQ3NlLU9GOEdweUp1NzJfRzV4WnVZLWZVREFmOU1zVzFzUGVuSjNaNC1MT0dCOVY4WGpidVhPQ2RYaXRpX1N1Y2pVOHBOTVVDZHhVLURJYmljTHlqMzMzLWZnZlVRZTMtamxudFJnbWRoTWNmZHlmajhYV0VjVkE4VXdYUEkyVHZBdmphUzdxajh4UQ?oc=5)
+### [「BMI愈高愈多癌」！醫揭研究數據：減肥達「10%以上」才有防癌效果](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uVjhyVnJWeWNsV1dITm55cWFlbTVWZmdCX1hlRjIyT1dGeFBMSGJkWXhQdERlU1dzd3drZko0UGlaaWtWb1NVTTFxMko?oc=5)
 
-2026-05-08 <span class="news-indication-tag">腫瘤</span>
+2026-05-09 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
-來源：[報新聞 Mega News](https://news.google.com/rss/articles/CBMikwJBVV95cUxOS1BJQWU5M3loY3pPOFRIVUtQcDVDOFR4bGs1MDlELVd3VFNWaDR1bXlkRTQ2Ym0yaWQwd3Z6TDZPYTR2TkYyS3BZeGZNS1Ftc01GWVl3ejc4TzRzX2F2bVRRQl8zdnY3YVN1Y1Q2N29ZWkdyaGNZOUJvNF9YdE1PNzJjNkV3bHBwQ3NlLU9GOEdweUp1NzJfRzV4WnVZLWZVREFmOU1zVzFzUGVuSjNaNC1MT0dCOVY4WGpidVhPQ2RYaXRpX1N1Y2pVOHBOTVVDZHhVLURJYmljTHlqMzMzLWZnZlVRZTMtamxudFJnbWRoTWNmZHlmajhYV0VjVkE4VXdYUEkyVHZBdmphUzdxajh4UQ?oc=5)
-
----
-
-### [癌後黃金三年是關鍵！醫揭復發風險不只癌細胞 而是「這體質」](https://news.google.com/rss/articles/CBMiTkFVX3lxTE42eWxIcGVidURZNl9UQ04xVWM3WTZjMTYzcUhOYktvMzdxb2NCenJyZ0VTNlBBR3BVajZLQ0p2c1RDWjVzTVYtcWd2ekU5UQ?oc=5)
-
-2026-05-08 <span class="news-indication-tag">癌症</span>
-
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiTkFVX3lxTE42eWxIcGVidURZNl9UQ04xVWM3WTZjMTYzcUhOYktvMzdxb2NCenJyZ0VTNlBBR3BVajZLQ0p2c1RDWjVzTVYtcWd2ekU5UQ?oc=5)
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uVjhyVnJWeWNsV1dITm55cWFlbTVWZmdCX1hlRjIyT1dGeFBMSGJkWXhQdERlU1dzd3drZko0UGlaaWtWb1NVTTFxMko?oc=5)
 
 ---
 
