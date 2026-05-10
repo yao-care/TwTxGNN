@@ -44,11 +44,11 @@ permalink: /news/carboplatin/
 
 ## 相關新聞（1 則）
 
-### [「BMI愈高愈多癌」！醫揭研究數據：減肥達「10%以上」才有防癌效果](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uVjhyVnJWeWNsV1dITm55cWFlbTVWZmdCX1hlRjIyT1dGeFBMSGJkWXhQdERlU1dzd3drZko0UGlaaWtWb1NVTTFxMko?oc=5)
+### [20％人體內藏這種細菌 研究揭可能一步步誘發大腸癌](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOVXFBbnBjaHRUS3EtSU9EcFl2V3NndEphWjAyWjJFNlBjckFxeDhpeTRNWTROSk5VWEc5YjlwVXNWLVhTc1hKclRpRUpPODFlc1FSNnhET01SOFZWdF95bDUtTmvSAWpBVV95cUxQZkRPUWstdjE5YXR0TUNaZTJkS2FqSkR4UF95em4zeHBlR0U3QldYVnc0Wlh2a1R5czFVR0VaeFB3TEFpRko4eG5iSXhHcGlTaWNHV2JzLW1DTUF0VUQyN0Q2WUJieWNYc2pR?oc=5)
 
-2026-05-09 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+2026-05-10 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uVjhyVnJWeWNsV1dITm55cWFlbTVWZmdCX1hlRjIyT1dGeFBMSGJkWXhQdERlU1dzd3drZko0UGlaaWtWb1NVTTFxMko?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOVXFBbnBjaHRUS3EtSU9EcFl2V3NndEphWjAyWjJFNlBjckFxeDhpeTRNWTROSk5VWEc5YjlwVXNWLVhTc1hKclRpRUpPODFlc1FSNnhET01SOFZWdF95bDUtTmvSAWpBVV95cUxQZkRPUWstdjE5YXR0TUNaZTJkS2FqSkR4UF95em4zeHBlR0U3QldYVnc0Wlh2a1R5czFVR0VaeFB3TEFpRko4eG5iSXhHcGlTaWNHV2JzLW1DTUF0VUQyN0Q2WUJieWNYc2pR?oc=5)
 
 ---
 

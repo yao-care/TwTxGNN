@@ -14,7 +14,7 @@ permalink: /news/benazepril/
 ---
 
 <p class="key-answer" data-question="Benazepril 有什麼相關新聞？">
-<strong>Benazepril</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 5 個。
+<strong>Benazepril</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 5 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,15 +36,9 @@ permalink: /news/benazepril/
 <p><a href="{{ '/drugs/benazepril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [「BMI愈高愈多癌」！醫揭研究數據：減肥達「10%以上」才有防癌效果](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uVjhyVnJWeWNsV1dITm55cWFlbTVWZmdCX1hlRjIyT1dGeFBMSGJkWXhQdERlU1dzd3drZko0UGlaaWtWb1NVTTFxMko?oc=5)
-
-2026-05-09 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
-
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uVjhyVnJWeWNsV1dITm55cWFlbTVWZmdCX1hlRjIyT1dGeFBMSGJkWXhQdERlU1dzd3drZko0UGlaaWtWb1NVTTFxMko?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
