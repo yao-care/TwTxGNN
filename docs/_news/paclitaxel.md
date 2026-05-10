@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [體重每增加5公斤這「3種癌症」風險狂飆 瘦瘦針能防癌？醫師解答](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nWmtuRDdndG5pbEtpcWVkeV81MVZVS3pRbkNmYk00c19fSXJMeG9ETjhYbTlYX09XWVJhZGY3VkhxS1VNRDJoTjhvMXA2Z0s3NGhUcGdjb2Fxam9kdWVwWA?oc=5)
-
-2026-05-10 <span class="news-indication-tag">癌症</span>
-
-來源：[民報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nWmtuRDdndG5pbEtpcWVkeV81MVZVS3pRbkNmYk00c19fSXJMeG9ETjhYbTlYX09XWVJhZGY3VkhxS1VNRDJoTjhvMXA2Z0s3NGhUcGdjb2Fxam9kdWVwWA?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [南京85kg少女「水桶腰」以為純粹發胖 醫生驚揭患卵巢癌](https://news.google.com/rss/articles/CBMi4gJBVV95cUxNQ0VhOTJnaURMRXRrNWZidU4zY2htMFQxQTRlUHFrb0sxVjd5cjFHbFRzV2UySkJZRTZsNlFPWWJ1dEVxaG1zT24xQm4zNWNINVlubV81OXQyZzlVcWk5TGhRVlZFN2Rfa19RMmNCd1FadmNxXzMydEs4ZHFIQ2Y1U0F3VXktN3hxMjhLbVFPbFVsTzdGNHVoU0o3QjBQYzd6VXJWdTNpd0FOTGlQcXBvYlVoU3k5ZzhCS2p4NWc1emNmZTEtWVpsQUx4QV9UQllVdmZuaWF4VDVBNm15ejlEZHlPT09PQVdOUGlUaDFIZXdMaExSWkxtOGd4N21kUlJEWlNJYkswMV9WcVdLOC1mM05zOHRJbEdBRFdpMVBVdlpfWG55MWNUUkhEVHF6eHJ2TmRrc3NvdXNEbk1JdDRxYk0xbHpVT3hUOTE3eElVWlJBeGJqM3BFUEFKZEF6OGJtN0E?oc=5)
 

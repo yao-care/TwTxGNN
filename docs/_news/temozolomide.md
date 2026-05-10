@@ -14,7 +14,7 @@ permalink: /news/temozolomide/
 ---
 
 <p class="key-answer" data-question="Temozolomide 有什麼相關新聞？">
-<strong>Temozolomide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Temozolomide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,9 @@ permalink: /news/temozolomide/
 <p><a href="{{ '/drugs/temozolomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [體重每增加5公斤這「3種癌症」風險狂飆 瘦瘦針能防癌？醫師解答](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nWmtuRDdndG5pbEtpcWVkeV81MVZVS3pRbkNmYk00c19fSXJMeG9ETjhYbTlYX09XWVJhZGY3VkhxS1VNRDJoTjhvMXA2Z0s3NGhUcGdjb2Fxam9kdWVwWA?oc=5)
-
-2026-05-10 <span class="news-indication-tag">癌症</span>
-
-來源：[民報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nWmtuRDdndG5pbEtpcWVkeV81MVZVS3pRbkNmYk00c19fSXJMeG9ETjhYbTlYX09XWVJhZGY3VkhxS1VNRDJoTjhvMXA2Z0s3NGhUcGdjb2Fxam9kdWVwWA?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
