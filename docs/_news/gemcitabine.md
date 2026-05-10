@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [數據證實「越肥越癌」 瘦瘦針可防癌？醫揭最有用5招](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNOXlNaUhsLUlDLWsxY1U3RWVTOTJieTJ3ZVFVRjZ5UUlBMWZtZGhPbkEzY1A1ZHBONFhxcnNkSTRRNHh0dG1IQjZLZ1NuSWFHQ2RzY2FiNnNSVHpRX2Z1WHN5MGM1TXBwTGZaZFZYY0pyYjlwLS0xVC1qb3VrTGRNQ0RMZFhZZ0Q2Sm52eHh5VkpYdE9zM2lwaXJzM2I4NkEwd2E2ekp2enZUMy10SWdWekh3SjlJVWtLN0ExYmRSZ2NRLXc0dVgxNWtOUTc2dFdwVTZXQmE2aV9VOEkyWU9pLVU3ek03S25Ldi00UFZsbWtpdjh0dHZ2d0s3Tkl2WEhsb01mTDRjSlVOMm5nYXhENHd2VDlQVV82VXhoa0pxSXZ5X0lHWk5hTEpITjFOVV9QeFp5UjNfakR3UVBtaXFTRkluUFZGNzdQ?oc=5)
+
+2026-05-10 <span class="news-indication-tag">癌症</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNOXlNaUhsLUlDLWsxY1U3RWVTOTJieTJ3ZVFVRjZ5UUlBMWZtZGhPbkEzY1A1ZHBONFhxcnNkSTRRNHh0dG1IQjZLZ1NuSWFHQ2RzY2FiNnNSVHpRX2Z1WHN5MGM1TXBwTGZaZFZYY0pyYjlwLS0xVC1qb3VrTGRNQ0RMZFhZZ0Q2Sm52eHh5VkpYdE9zM2lwaXJzM2I4NkEwd2E2ekp2enZUMy10SWdWekh3SjlJVWtLN0ExYmRSZ2NRLXc0dVgxNWtOUTc2dFdwVTZXQmE2aV9VOEkyWU9pLVU3ek03S25Ldi00UFZsbWtpdjh0dHZ2d0s3Tkl2WEhsb01mTDRjSlVOMm5nYXhENHd2VDlQVV82VXhoa0pxSXZ5X0lHWk5hTEpITjFOVV9QeFp5UjNfakR3UVBtaXFTRkluUFZGNzdQ?oc=5)
+
+---
 
 ### [20％人體內藏這種細菌 研究揭可能一步步誘發大腸癌](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOVXFBbnBjaHRUS3EtSU9EcFl2V3NndEphWjAyWjJFNlBjckFxeDhpeTRNWTROSk5VWEc5YjlwVXNWLVhTc1hKclRpRUpPODFlc1FSNnhET01SOFZWdF95bDUtTmvSAWpBVV95cUxQZkRPUWstdjE5YXR0TUNaZTJkS2FqSkR4UF95em4zeHBlR0U3QldYVnc0Wlh2a1R5czFVR0VaeFB3TEFpRko4eG5iSXhHcGlTaWNHV2JzLW1DTUF0VUQyN0Q2WUJieWNYc2pR?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [數據證實「越肥越癌」 瘦瘦針可防癌？醫揭最有用5招](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNOXlNaUhsLUlDLWsxY1U3RWVTOTJieTJ3ZVFVRjZ5UUlBMWZtZGhPbkEzY1A1ZHBONFhxcnNkSTRRNHh0dG1IQjZLZ1NuSWFHQ2RzY2FiNnNSVHpRX2Z1WHN5MGM1TXBwTGZaZFZYY0pyYjlwLS0xVC1qb3VrTGRNQ0RMZFhZZ0Q2Sm52eHh5VkpYdE9zM2lwaXJzM2I4NkEwd2E2ekp2enZUMy10SWdWekh3SjlJVWtLN0ExYmRSZ2NRLXc0dVgxNWtOUTc2dFdwVTZXQmE2aV9VOEkyWU9pLVU3ek03S25Ldi00UFZsbWtpdjh0dHZ2d0s3Tkl2WEhsb01mTDRjSlVOMm5nYXhENHd2VDlQVV82VXhoa0pxSXZ5X0lHWk5hTEpITjFOVV9QeFp5UjNfakR3UVBtaXFTRkluUFZGNzdQ?oc=5)
+
+2026-05-10 <span class="news-indication-tag">癌症</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNOXlNaUhsLUlDLWsxY1U3RWVTOTJieTJ3ZVFVRjZ5UUlBMWZtZGhPbkEzY1A1ZHBONFhxcnNkSTRRNHh0dG1IQjZLZ1NuSWFHQ2RzY2FiNnNSVHpRX2Z1WHN5MGM1TXBwTGZaZFZYY0pyYjlwLS0xVC1qb3VrTGRNQ0RMZFhZZ0Q2Sm52eHh5VkpYdE9zM2lwaXJzM2I4NkEwd2E2ekp2enZUMy10SWdWekh3SjlJVWtLN0ExYmRSZ2NRLXc0dVgxNWtOUTc2dFdwVTZXQmE2aV9VOEkyWU9pLVU3ek03S25Ldi00UFZsbWtpdjh0dHZ2d0s3Tkl2WEhsb01mTDRjSlVOMm5nYXhENHd2VDlQVV82VXhoa0pxSXZ5X0lHWk5hTEpITjFOVV9QeFp5UjNfakR3UVBtaXFTRkluUFZGNzdQ?oc=5)
+
+---
 
 ### [南京85kg少女「水桶腰」以為純粹發胖 醫生驚揭患卵巢癌](https://news.google.com/rss/articles/CBMi4gJBVV95cUxOeElWNWdCNFoxeERWVnctdkZoT3NSTXJzeWFTNHNnc0VzVmgzTE5aNFNfQjR4LTBLXzg1VkxCRE1IQ3FERGc1OWZvM0JUdzdJTHFadnZ5aVZuRlQyTVNvbjMwRmxVZzFybXd0NmFVY3pKVEZHaGUza1psbjB0dGtjYm1XTnZoZXJZdktJcDlEY1dqM0FVSEpWWDIyT2FlaW56UEdYMmYtNURwMXVKUi1uTzY0NUJTX09xcy1PcW5fZHB5VDU0d3RwZ1pEOE9Rb0U0WHNjb0dDWDRTck84c0diUmxvaGtSQkI4bEl0QW5aenQzdElndTg0SENqaGlmSUkxRVBKSkJ5YUN5SF90QndUTVczd2pKTVhlZ0d6UFVpMFNCeGNHMFdYLUNpU1lOM3RDUjRSLWZHcm8wTHJNeVB3R3ZRUmNWV3QtVXlrc0tGbFlpd2p0VVFBeE9Nc1JxSjNxcGc?oc=5)
 

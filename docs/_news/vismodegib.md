@@ -14,7 +14,7 @@ permalink: /news/vismodegib/
 ---
 
 <p class="key-answer" data-question="Vismodegib 有什麼相關新聞？">
-<strong>Vismodegib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vismodegib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/vismodegib/
 <p><a href="{{ '/drugs/vismodegib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [數據證實「越肥越癌」 瘦瘦針可防癌？醫揭最有用5招](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNOXlNaUhsLUlDLWsxY1U3RWVTOTJieTJ3ZVFVRjZ5UUlBMWZtZGhPbkEzY1A1ZHBONFhxcnNkSTRRNHh0dG1IQjZLZ1NuSWFHQ2RzY2FiNnNSVHpRX2Z1WHN5MGM1TXBwTGZaZFZYY0pyYjlwLS0xVC1qb3VrTGRNQ0RMZFhZZ0Q2Sm52eHh5VkpYdE9zM2lwaXJzM2I4NkEwd2E2ekp2enZUMy10SWdWekh3SjlJVWtLN0ExYmRSZ2NRLXc0dVgxNWtOUTc2dFdwVTZXQmE2aV9VOEkyWU9pLVU3ek03S25Ldi00UFZsbWtpdjh0dHZ2d0s3Tkl2WEhsb01mTDRjSlVOMm5nYXhENHd2VDlQVV82VXhoa0pxSXZ5X0lHWk5hTEpITjFOVV9QeFp5UjNfakR3UVBtaXFTRkluUFZGNzdQ?oc=5)
+
+2026-05-10 <span class="news-indication-tag">癌症</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNOXlNaUhsLUlDLWsxY1U3RWVTOTJieTJ3ZVFVRjZ5UUlBMWZtZGhPbkEzY1A1ZHBONFhxcnNkSTRRNHh0dG1IQjZLZ1NuSWFHQ2RzY2FiNnNSVHpRX2Z1WHN5MGM1TXBwTGZaZFZYY0pyYjlwLS0xVC1qb3VrTGRNQ0RMZFhZZ0Q2Sm52eHh5VkpYdE9zM2lwaXJzM2I4NkEwd2E2ekp2enZUMy10SWdWekh3SjlJVWtLN0ExYmRSZ2NRLXc0dVgxNWtOUTc2dFdwVTZXQmE2aV9VOEkyWU9pLVU3ek03S25Ldi00UFZsbWtpdjh0dHZ2d0s3Tkl2WEhsb01mTDRjSlVOMm5nYXhENHd2VDlQVV82VXhoa0pxSXZ5X0lHWk5hTEpITjFOVV9QeFp5UjNfakR3UVBtaXFTRkluUFZGNzdQ?oc=5)
+
+---
 
 
 <div class="disclaimer">
