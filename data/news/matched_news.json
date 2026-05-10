@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T10:05:46.696649+00:00",
+  "last_updated": "2026-05-10T11:42:45.670088+00:00",
   "total_count": 19,
   "matched_count": 6,
   "news": [
@@ -383,27 +383,14 @@
       ]
     },
     {
-      "id": "337c3e2d4edc",
-      "title": "網傳感染漢他病毒是接種BNT疫苗副作用 路透事實查核狠打臉！",
-      "published": "2026-05-09T11:42:36+00:00",
-      "summary": "網傳感染漢他病毒是接種BNT疫苗副作用 路透事實查核狠打臉！&nbsp;&nbsp;經濟日報",
-      "sources": [
-        {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sdTRqUUE5U25ncldQT3Rmd0J6ZXFLdWlJMk5FM0dFX3JHVUVoS0Y3TUt5a3dHV1JhajJ5S1NuUnQ1M2NqYTY4LWFnMEp2cURxZEFNVGROZ19jd9IBX0FVX3lxTE1iQmJMVy1PR3lYUE1jc0h6elFBTFhIejZxMEtxY0N5THd6U2pMbVdQSGZOdG11MEVIRkRnNlFtQzFBNURacU9sRFU4Nm9qNk14MlVyLU1LMmp4azdoclZj?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b56a194c5bce",
+      "id": "f140d6208322",
       "title": "南京85kg少女「水桶腰」以為純粹發胖 醫生驚揭患卵巢癌",
       "published": "2026-05-09T07:30:06+00:00",
       "summary": "南京85kg少女「水桶腰」以為純粹發胖 醫生驚揭患卵巢癌&nbsp;&nbsp;星島頭條",
       "sources": [
         {
           "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOeElWNWdCNFoxeERWVnctdkZoT3NSTXJzeWFTNHNnc0VzVmgzTE5aNFNfQjR4LTBLXzg1VkxCRE1IQ3FERGc1OWZvM0JUdzdJTHFadnZ5aVZuRlQyTVNvbjMwRmxVZzFybXd0NmFVY3pKVEZHaGUza1psbjB0dGtjYm1XTnZoZXJZdktJcDlEY1dqM0FVSEpWWDIyT2FlaW56UEdYMmYtNURwMXVKUi1uTzY0NUJTX09xcy1PcW5fZHB5VDU0d3RwZ1pEOE9Rb0U0WHNjb0dDWDRTck84c0diUmxvaGtSQkI4bEl0QW5aenQzdElndTg0SENqaGlmSUkxRVBKSkJ5YUN5SF90QndUTVczd2pKTVhlZ0d6UFVpMFNCeGNHMFdYLUNpU1lOM3RDUjRSLWZHcm8wTHJNeVB3R3ZRUmNWV3QtVXlrc0tGbFlpd2p0VVFBeE9Nc1JxSjNxcGc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNQ0VhOTJnaURMRXRrNWZidU4zY2htMFQxQTRlUHFrb0sxVjd5cjFHbFRzV2UySkJZRTZsNlFPWWJ1dEVxaG1zT24xQm4zNWNINVlubV81OXQyZzlVcWk5TGhRVlZFN2Rfa19RMmNCd1FadmNxXzMydEs4ZHFIQ2Y1U0F3VXktN3hxMjhLbVFPbFVsTzdGNHVoU0o3QjBQYzd6VXJWdTNpd0FOTGlQcXBvYlVoU3k5ZzhCS2p4NWc1emNmZTEtWVpsQUx4QV9UQllVdmZuaWF4VDVBNm15ejlEZHlPT09PQVdOUGlUaDFIZXdMaExSWkxtOGd4N21kUlJEWlNJYkswMV9WcVdLOC1mM05zOHRJbEdBRFdpMVBVdlpfWG55MWNUUkhEVHF6eHJ2TmRrc3NvdXNEbk1JdDRxYk0xbHpVT3hUOTE3eElVWlJBeGJqM3BFUEFKZEF6OGJtN0E?oc=5"
         }
       ],
       "matched_keywords": [
@@ -461,6 +448,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "31a87440a23c",
+      "title": "輝瑞疫苗被扯上漢他病毒 路透查證：假訊息！",
+      "published": "2026-05-09T03:50:50+00:00",
+      "summary": "輝瑞疫苗被扯上漢他病毒 路透查證：假訊息！&nbsp;&nbsp;自由時報",
+      "sources": [
+        {
+          "name": "自由時報",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFM1NTRndseGU1SWtsd196SldreGFwaEhrOEVDM0Z4a3JPLTdvNEVqZVY2MXVSLWwzTjU2OUlrMjZxa0JTVXZsTHc4N1FXT05aY0lmUHlicGN3Z3pnY18wTXk0cnZjZ9IBa0FVX3lxTE5pSUxmamV3dzZqSnFDR3ZCSk1iZm5tMkdYV0FNT1JqSFY5ejY3ODJaS1YzQjBLR25URVVWak4wS3NpVlppV0ltWnNnVXF0OFdvaTNFaGFrNGVkaXpqTUJ2Ulp6T2ktOERhWFZR?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "63fa0b28cdc6",
