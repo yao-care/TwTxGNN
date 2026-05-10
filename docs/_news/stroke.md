@@ -32,11 +32,11 @@ permalink: /news/stroke/
 
 ## 相關新聞（1 則）
 
-### [「有種腦中風是一直打嗝」！醫曝5D警訊　波及最末區恐呼吸衰竭](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlaU1OQzJST2liSHJKNXdRZE93cmVHSDVNdS1OTDlNWVhfSmQ1YlByYzZJSkpBSFl6MUJ3anBYc0MzQTlyeXlNMmt1eEpQNDRV0gFsQVVfeXFMT2Zrbjg1bVF1UUNlcnA5Uk5KSGFQWUNocXFRWEhMbm9XTk5HUUlRbGRYNk9KWGQxNTZFTDdFdFB0Y2NFSWp0aTlfemkyNTFGOG91bXd0U29raWtXZDBKc2RQbkszOE52UE9nWXJs?oc=5)
+### [不只臉歪嘴斜！醫揭腦中風「6警訊」 一直打嗝還可能呼吸衰竭](https://news.google.com/rss/articles/CBMiUEFVX3lxTE43YUxPNjBVWjY2ZDFpeHprUEpiX3pzRG9FdDFiSlBJdzZlc1dfNFU5WlducWdwZVFwZklXcmwzbEdUT0xUNURMcU9OalotLVBq?oc=5)
 
-2026-05-09
+2026-05-10
 
-來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlaU1OQzJST2liSHJKNXdRZE93cmVHSDVNdS1OTDlNWVhfSmQ1YlByYzZJSkpBSFl6MUJ3anBYc0MzQTlyeXlNMmt1eEpQNDRV0gFsQVVfeXFMT2Zrbjg1bVF1UUNlcnA5Uk5KSGFQWUNocXFRWEhMbm9XTk5HUUlRbGRYNk9KWGQxNTZFTDdFdFB0Y2NFSWp0aTlfemkyNTFGOG91bXd0U29raWtXZDBKc2RQbkszOE52UE9nWXJs?oc=5)
+來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE43YUxPNjBVWjY2ZDFpeHprUEpiX3pzRG9FdDFiSlBJdzZlc1dfNFU5WlducWdwZVFwZklXcmwzbEdUT0xUNURMcU9OalotLVBq?oc=5)
 
 ---
 
