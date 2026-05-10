@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-10T15:43:20.414067+00:00",
-  "total_count": 17,
-  "matched_count": 4,
+  "last_updated": "2026-05-10T16:43:09.119510+00:00",
+  "total_count": 15,
+  "matched_count": 3,
   "news": [
     {
       "id": "5b7ea044a7d0",
@@ -229,19 +229,6 @@
       ]
     },
     {
-      "id": "edb8182f1d39",
-      "title": "母親節健康警訊！骨鬆性骨折恐成家庭負擔 專家籲及早骨密度檢測",
-      "published": "2026-05-09T07:00:07+00:00",
-      "summary": "母親節健康警訊！骨鬆性骨折恐成家庭負擔 專家籲及早骨密度檢測&nbsp;&nbsp;台視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BUVk5UjZfNmJXQVBzMm1KNXlod3NFSlM2MzJsa25jQ29QX3h1V2tHWXYzYWtsWm9aTzV2Nm12OHdzdTFROUhfWTZGZnVWNmFqU1RZZlNXbw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "ae230f6ae4c4",
       "title": "保健養生｜腸道發炎老是常出現？研究指維他命D是「穩腸關鍵」！",
       "published": "2026-05-09T03:00:24+00:00",
@@ -292,108 +279,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "d3f3e577d208",
-      "title": "新研究揭示類風濕性關節炎骨破壞機制：鐵質過載與脂質代謝關聯",
-      "published": "2026-05-04T16:45:59+00:00",
-      "summary": "新研究揭示類風濕性關節炎骨破壞機制：鐵質過載與脂質代謝關聯&nbsp;&nbsp;ENN台灣電報前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBDVDc3VDYtTUZ6V3czVXBlM3UzSkdMRUg3TUJxeXFfV0x1VHpIRkR3SFJiak90dE5lTUE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "類風濕性關節炎",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "風濕",
-          "keyword": "風濕",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "關節炎",
-          "keyword": "關節炎",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            },
-            {
-              "slug": "ibuprofen",
-              "name": "Ibuprofen"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "風濕性關節炎",
-          "keyword": "風濕性關節炎",
-          "related_drugs": [
-            {
-              "slug": "carisoprodol",
-              "name": "Carisoprodol"
-            },
-            {
-              "slug": "prednisone",
-              "name": "Prednisone"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
