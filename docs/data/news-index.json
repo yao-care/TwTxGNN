@@ -1,15 +1,50 @@
 {
-  "generated": "2026-05-10T23:42:13.152840+00:00",
+  "generated": "2026-05-11T02:13:31.792100+00:00",
   "count": 3,
   "news": [
     {
-      "id": "2ded2de8022f",
-      "title": "20％人體內藏這種細菌 研究揭可能一步步誘發大腸癌",
-      "published": "2026-05-10T02:52:00+00:00",
+      "id": "64c83610c49c",
+      "title": "生活觀察｜“老來瘦”別大意，或許暗藏肌少症",
+      "published": "2026-05-11T01:09:01+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOVXFBbnBjaHRUS3EtSU9EcFl2V3NndEphWjAyWjJFNlBjckFxeDhpeTRNWTROSk5VWEc5YjlwVXNWLVhTc1hKclRpRUpPODFlc1FSNnhET01SOFZWdF95bDUtTmvSAWpBVV95cUxQZkRPUWstdjE5YXR0TUNaZTJkS2FqSkR4UF95em4zeHBlR0U3QldYVnc0Wlh2a1R5czFVR0VaeFB3TEFpRko4eG5iSXhHcGlTaWNHV2JzLW1DTUF0VUQyN0Q2WUJieWNYc2pR?oc=5"
+          "name": "紫荊網",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWG1lVjRjMlZhMHh4SlEwaGREbjZyMlhpcC0xMzE3ZHZ3bVlIWWZFZm1zZGtsUVdMVHNpRC1QTjJtUncwcnZOX3NPZmFUOTVnYi05RkF5MUdHUVFDbm9ndTdUTS1FdzhYdlpJMDAzZmdsTkVjSzRYaTRtdExoSDdlN0NtUWNrR0hobDdzTVNhdWs?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5297665ded18",
+      "title": "20％人體內藏這種細菌 研究揭可能一步步誘發大腸癌",
+      "published": "2026-05-10T03:06:34+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQeFZpRmlGRWJKdWs0cm42QWxPRFNBOG9IbHZOYmRiVlJZWXUxbWktMDhTQmNSal8yNk9STklpVzYydFZSY1lpVTloQldOUnpnLTlyNzI5WDhtYjdxV1VhcVRSclM0NHZSR1AxTmZ3TE0ybWVEWlBmQjM2ZVBZbTAteVRHVUM1ZXpzdWVZbXkxckx3ZEpsVDhhY21CRHFNSmROU3hoc3FDdjhUSDRUVTdWTW5oWW41WTNRTnpNUkNCUVhyZ0R5SEFkNHg0N3dCNjdONFFYY3VRQ21WZUVDMzJ1ejU2VlNuZ0NrVVpId0Nlb3NSODVoN1Ayc1hEMjU2NGVzbVdKRHF6NHMyeFRmUXdFdkRpSFhTQmptYk1FNEdrUVM2b3lKNVY0TkFtVEZYSjJHQmFiM3RURWdhVFVhUndpYXBUc1VCNV9xNUE?oc=5"
         }
       ],
       "keywords": [
@@ -44,49 +79,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "fa51bbd0ae5a",
-      "title": "不只臉歪嘴斜！醫揭腦中風「6警訊」 一直打嗝還可能呼吸衰竭",
-      "published": "2026-05-10T02:00:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43YUxPNjBVWjY2ZDFpeHprUEpiX3pzRG9FdDFiSlBJdzZlc1dfNFU5WlducWdwZVFwZklXcmwzbEdUT0xUNURMcU9OalotLVBq?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腦中風",
-          "keyword": "腦中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }
