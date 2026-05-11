@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [85kg少女以為純粹發胖惟持續腹痛就醫揭20cm腫瘤確診卵巢癌醫生：早期難發現附6個徵狀/7類高危人士|](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQT1FmelBnUHowZks2aDh5S3k5Y3loSnZScHh4ZHFyNHoyY05BWkRSQVZDb3c5TS1RNUdBbkwzRUEwRTFudWI0T3pQb2psZmJoeUdmcTFJY3FfNGdWZ1VBR1dVLW0ycDRLU0JnR3hnOWVkTnZhaTh3OEY4bG5xUGZ0TDAwNnBoSWtHSUd2ZnRkVk5obGQ3TEhEYWR0N1RRdzZwYlA2amlvbWZTVXFoaDFJc3ZZREFycEFjQUhsUmJ1d0xBMmQ2ODFWNTNXNzdUaEdaWHJpRVRjZW1aNFJRQ0I3Q21XQ3BNaVk?oc=5)
 
 2026-05-11 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
 
 來源：[Oh!爸媽](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQT1FmelBnUHowZks2aDh5S3k5Y3loSnZScHh4ZHFyNHoyY05BWkRSQVZDb3c5TS1RNUdBbkwzRUEwRTFudWI0T3pQb2psZmJoeUdmcTFJY3FfNGdWZ1VBR1dVLW0ycDRLU0JnR3hnOWVkTnZhaTh3OEY4bG5xUGZ0TDAwNnBoSWtHSUd2ZnRkVk5obGQ3TEhEYWR0N1RRdzZwYlA2amlvbWZTVXFoaDFJc3ZZREFycEFjQUhsUmJ1d0xBMmQ2ODFWNTNXNzdUaEdaWHJpRVRjZW1aNFJRQ0I3Q21XQ3BNaVk?oc=5)
+
+---
+
+### [根除子宮頸癌成為國際共識，澳洲科學家如何領先全球？ - TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTE13U0tJeDRfQW1mVjkyNHJIMTN3anZ0UE9ReTIyeUJlT3ZKNVZMcy1EeE1EejZfYzBsbUtBUU9pcTUwMmkyb3ZuYmg2TWxYX1hTd2JoOQ?oc=5)
+
+2026-05-10 <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTE13U0tJeDRfQW1mVjkyNHJIMTN3anZ0UE9ReTIyeUJlT3ZKNVZMcy1EeE1EejZfYzBsbUtBUU9pcTUwMmkyb3ZuYmg2TWxYX1hTd2JoOQ?oc=5)
 
 ---
 

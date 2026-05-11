@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-05-11T22:54:34.106584+00:00",
-  "total_count": 21,
-  "matched_count": 3,
+  "last_updated": "2026-05-11T23:49:39.770983+00:00",
+  "total_count": 23,
+  "matched_count": 4,
   "news": [
+    {
+      "id": "b78e9b107628",
+      "title": "法國世界報 - 長尾侏稻鼠：漢坦病毒安第斯毒株的主要宿主",
+      "published": "2026-05-11T23:19:00+00:00",
+      "summary": "法國世界報 - 長尾侏稻鼠：漢坦病毒安第斯毒株的主要宿主&nbsp;&nbsp;RFI",
+      "sources": [
+        {
+          "name": "RFI",
+          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOQmhleUFFMkNQaEprVzZ5NlgwcGZUbVV1TVlPcWlidnRiZGhMUU1UQnJsZ1lZS0JMTEpxZTFRWW91aE4xNnlXSzI1dEhZTUlNLXVtWWdZb0M2b25Sd1IyM2FiYUViSF82NUdOejktdG9UMldBelpEOW9TNmp5eVdPbGFxeUNVRUlSb2NwYzFpelZUYm1JTFVwdzVEWW13N25LLVV1LTFKNzBrM0RKREp3NHF5RmkyeDEwd1ExRUlNMmVpa1VfbVJGQld2c2l3WW1YR2J4bkFSN05abEpMTDFuV2pGTVFMaVh3MWU2am5ETTVxT21SUE1fTFBZeHhHZjZIdVBhbXFDanhQNUl4UEhJTDYtLXlfOGY1MUxkRDN2dVdzR3BCV1pJd1pRd1RJVUkydklsLVozZjZNLTUxOGFoM3NfdXM0SDVlTWo0ZDYyM25MM21jYUZwUWhPRmZsSlBuOFcwLUxXMDY5RmlteC0zdi1rbUM4YVBXTHdzTVdxUGQ1OUh0Q2E0ZEE2MHo5M0lYNkZacGFDb01rQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "d7601cd9d9fd",
       "title": "偏頭痛竟然和天氣有關？空氣污染、高溫和濕度都會加劇偏頭痛 - Vogue Taiwan",
@@ -431,6 +444,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "285efb6d73c3",
+      "title": "根除子宮頸癌成為國際共識，澳洲科學家如何領先全球？ - TNL The News Lens 關鍵評論網",
+      "published": "2026-05-10T08:00:00+00:00",
+      "summary": "根除子宮頸癌成為國際共識，澳洲科學家如何領先全球？&nbsp;&nbsp;TNL The News Lens 關鍵評論網",
+      "sources": [
+        {
+          "name": "TNL The News Lens 關鍵評論網",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13U0tJeDRfQW1mVjkyNHJIMTN3anZ0UE9ReTIyeUJlT3ZKNVZMcy1EeE1EejZfYzBsbUtBUU9pcTUwMmkyb3ZuYmg2TWxYX1hTd2JoOQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "7f73489cbda7",
