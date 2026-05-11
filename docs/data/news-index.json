@@ -1,7 +1,230 @@
 {
-  "generated": "2026-05-11T06:29:54.852095+00:00",
+  "generated": "2026-05-11T10:29:28.358343+00:00",
   "count": 3,
   "news": [
+    {
+      "id": "81e59507e0fc",
+      "title": "85kg少女以為純粹發胖惟持續腹痛就醫揭20cm腫瘤確診卵巢癌醫生：早期難發現附6個徵狀/7類高危人士|",
+      "published": "2026-05-11T07:24:56+00:00",
+      "sources": [
+        {
+          "name": "Oh!爸媽",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQT1FmelBnUHowZks2aDh5S3k5Y3loSnZScHh4ZHFyNHoyY05BWkRSQVZDb3c5TS1RNUdBbkwzRUEwRTFudWI0T3pQb2psZmJoeUdmcTFJY3FfNGdWZ1VBR1dVLW0ycDRLU0JnR3hnOWVkTnZhaTh3OEY4bG5xUGZ0TDAwNnBoSWtHSUd2ZnRkVk5obGQ3TEhEYWR0N1RRdzZwYlA2amlvbWZTVXFoaDFJc3ZZREFycEFjQUhsUmJ1d0xBMmQ2ODFWNTNXNzdUaEdaWHJpRVRjZW1aNFJRQ0I3Q21XQ3BNaVk?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "腫瘤",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "卵巢癌",
+          "keyword": "卵巢癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "64c83610c49c",
       "title": "生活觀察｜“老來瘦”別大意，或許暗藏肌少症",
@@ -38,13 +261,13 @@
       ]
     },
     {
-      "id": "5297665ded18",
+      "id": "2ded2de8022f",
       "title": "20％人體內藏這種細菌 研究揭可能一步步誘發大腸癌",
-      "published": "2026-05-10T03:06:34+00:00",
+      "published": "2026-05-10T02:52:00+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQeFZpRmlGRWJKdWs0cm42QWxPRFNBOG9IbHZOYmRiVlJZWXUxbWktMDhTQmNSal8yNk9STklpVzYydFZSY1lpVTloQldOUnpnLTlyNzI5WDhtYjdxV1VhcVRSclM0NHZSR1AxTmZ3TE0ybWVEWlBmQjM2ZVBZbTAteVRHVUM1ZXpzdWVZbXkxckx3ZEpsVDhhY21CRHFNSmROU3hoc3FDdjhUSDRUVTdWTW5oWW41WTNRTnpNUkNCUVhyZ0R5SEFkNHg0N3dCNjdONFFYY3VRQ21WZUVDMzJ1ejU2VlNuZ0NrVVpId0Nlb3NSODVoN1Ayc1hEMjU2NGVzbVdKRHF6NHMyeFRmUXdFdkRpSFhTQmptYk1FNEdrUVM2b3lKNVY0TkFtVEZYSjJHQmFiM3RURWdhVFVhUndpYXBUc1VCNV9xNUE?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOVXFBbnBjaHRUS3EtSU9EcFl2V3NndEphWjAyWjJFNlBjckFxeDhpeTRNWTROSk5VWEc5YjlwVXNWLVhTc1hKclRpRUpPODFlc1FSNnhET01SOFZWdF95bDUtTmvSAWpBVV95cUxQZkRPUWstdjE5YXR0TUNaZTJkS2FqSkR4UF95em4zeHBlR0U3QldYVnc0Wlh2a1R5czFVR0VaeFB3TEFpRko4eG5iSXhHcGlTaWNHV2JzLW1DTUF0VUQyN0Q2WUJieWNYc2pR?oc=5"
         }
       ],
       "keywords": [
@@ -79,34 +302,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f140d6208322",
-      "title": "南京85kg少女「水桶腰」以為純粹發胖 醫生驚揭患卵巢癌",
-      "published": "2026-05-09T07:30:06+00:00",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNQ0VhOTJnaURMRXRrNWZidU4zY2htMFQxQTRlUHFrb0sxVjd5cjFHbFRzV2UySkJZRTZsNlFPWWJ1dEVxaG1zT24xQm4zNWNINVlubV81OXQyZzlVcWk5TGhRVlZFN2Rfa19RMmNCd1FadmNxXzMydEs4ZHFIQ2Y1U0F3VXktN3hxMjhLbVFPbFVsTzdGNHVoU0o3QjBQYzd6VXJWdTNpd0FOTGlQcXBvYlVoU3k5ZzhCS2p4NWc1emNmZTEtWVpsQUx4QV9UQllVdmZuaWF4VDVBNm15ejlEZHlPT09PQVdOUGlUaDFIZXdMaExSWkxtOGd4N21kUlJEWlNJYkswMV9WcVdLOC1mM05zOHRJbEdBRFdpMVBVdlpfWG55MWNUUkhEVHF6eHJ2TmRrc3NvdXNEbk1JdDRxYk0xbHpVT3hUOTE3eElVWlJBeGJqM3BFUEFKZEF6OGJtN0E?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "卵巢癌",
-          "keyword": "卵巢癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }

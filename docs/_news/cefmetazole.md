@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,9 +41,15 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [85kg少女以為純粹發胖惟持續腹痛就醫揭20cm腫瘤確診卵巢癌醫生：早期難發現附6個徵狀/7類高危人士|](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQT1FmelBnUHowZks2aDh5S3k5Y3loSnZScHh4ZHFyNHoyY05BWkRSQVZDb3c5TS1RNUdBbkwzRUEwRTFudWI0T3pQb2psZmJoeUdmcTFJY3FfNGdWZ1VBR1dVLW0ycDRLU0JnR3hnOWVkTnZhaTh3OEY4bG5xUGZ0TDAwNnBoSWtHSUd2ZnRkVk5obGQ3TEhEYWR0N1RRdzZwYlA2amlvbWZTVXFoaDFJc3ZZREFycEFjQUhsUmJ1d0xBMmQ2ODFWNTNXNzdUaEdaWHJpRVRjZW1aNFJRQ0I3Q21XQ3BNaVk?oc=5)
+
+2026-05-11 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
+
+來源：[Oh!爸媽](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQT1FmelBnUHowZks2aDh5S3k5Y3loSnZScHh4ZHFyNHoyY05BWkRSQVZDb3c5TS1RNUdBbkwzRUEwRTFudWI0T3pQb2psZmJoeUdmcTFJY3FfNGdWZ1VBR1dVLW0ycDRLU0JnR3hnOWVkTnZhaTh3OEY4bG5xUGZ0TDAwNnBoSWtHSUd2ZnRkVk5obGQ3TEhEYWR0N1RRdzZwYlA2amlvbWZTVXFoaDFJc3ZZREFycEFjQUhsUmJ1d0xBMmQ2ODFWNTNXNzdUaEdaWHJpRVRjZW1aNFJRQ0I3Q21XQ3BNaVk?oc=5)
+
+---
 
 
 <div class="disclaimer">
