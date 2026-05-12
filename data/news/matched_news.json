@@ -1,8 +1,60 @@
 {
-  "last_updated": "2026-05-12T11:13:09.772172+00:00",
-  "total_count": 25,
-  "matched_count": 4,
+  "last_updated": "2026-05-12T14:00:53.475572+00:00",
+  "total_count": 28,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "3cadf8beeaba",
+      "title": "科學家表示，這種藻類可以去除飲用水中的微塑膠。",
+      "published": "2026-05-12T13:31:39+00:00",
+      "summary": "科學家表示，這種藻類可以去除飲用水中的微塑膠。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNQ0FsVE0tLVBZQjBoRTlKWFlHVWM5ZzRwX243U2RWRGtwMWgxaXo5UF9FX3ZHejNwbmtQN1lhMXltbXpiTlhUR1FFT3lhUXZPVF9fR21JckRlaEROaUZ6SXlhb1JOa3YzVUFvbXpoMWVsR0FwdHE3U3ZHTlRQUEVVX2pvWnl2cEZMMEQ0S1V1a0lJNTFDM1RrTmlyaE1EV25yeUVxOGlKRTh3N1U4WDMzcTZGSWRkYVc3ZXZQLU40dDYyRHZZSUxwZVJvcDFqOE81WFBYZ0xyN3BNdG1Qc21CZ3psS3E4UHBZZ1lwVG14NEdCOW44UTgwUjhkZzV2RUlZWDk0QldKcGdrR0VqQm1HcE1EekhFSEc2S01rR1NwZnd6TVlHM0ZDTFJjSkdnb1VzMTk2UFhicDBwS29VZ3h3MmNNZ2w3ZFlCYlRjTEhJdEtnYUJ0aEtxMWl6cmJmZm5lTEY2ZDFRWFFvM3V1WU5qMFVLYm9YM3Q4TGdldUdpd2xuN3BJLXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7721d3fd72ed",
+      "title": "伊利湖發現兩具遺體　包括7歲男童及53歲男子",
+      "published": "2026-05-12T13:27:13+00:00",
+      "summary": "伊利湖發現兩具遺體 包括7歲男童及53歲男子&nbsp;&nbsp;singtao.ca",
+      "sources": [
+        {
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOdnZOSGJwRDQwM3hWUjJtbVRUd0hqdnV4T1B3QV94SW1UX2tTT2NkaVFMcXdyVmp0U0ZKQ2l4ak9UN3VtRzhOS0c2cHBOUDZGLXYyNmZiVUxaTHA3STJDbEsyV3ZqUzdld1g4VzV1eENKem9DSFIxZm1TMFJ0d3pYTlpqLVhiMTl4UEpkTThMbklReHV3NmNGNjc3UF94eDRxa2xHQkZCc09kczRWNG1QUExobXk1UkItenZIVE5kTlZ6cnB1LUhoN3NiY0J1c1E3N0h1QUdiOThvWV9PblVZOEV1OEpSblRjb0tqLVYwNDFacVBSYnFaeGJMYmFCZkdaNXNWNUJ2Y2VqSllFQTVNYmtqUUIwdkdHODUzRjRXcTZ2WDhXOFNfWHpNRGQyOUtkd2QzTXFmYlpXZXZ5N21YXzhQZTXSAYoBQVVfeXFMTTRvVF9zZUloVGdyNEd2SnkzUEVDN0F3clF6bmNNeXBGZHRPdHo0c25JbktyS1IyM0JKcnZGcUNWOGREMWNtQXNtQVJqM2wwdEZaaERsTVlkc3ZSRWN5cUtVMVctLTVxVjRydFFHYTUxbFltM0dVRUwwZU53N25FMHpodENqZjBaRlB3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "650dbb974c28",
+      "title": "數千人前往美國觀看世界杯，阿根廷面臨漢坦病毒爆發",
+      "published": "2026-05-12T12:13:20+00:00",
+      "summary": "數千人前往美國觀看世界杯，阿根廷面臨漢坦病毒爆發&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOODhHenJuSVhhOG8zNXY0Y29qLUh4Wk9kenRUOG9HR09JR1U0UVFWanNEMG9OQngtTVFKUFlEYlgtbkEyQVBuRnRUMXdudDliLU5Ha3luTGlQUnJ3Q0VOOUpULVhBck9CY09zSHdvZERaZHBoSE02V0JZY2JGeHAzMGsyRXpwRHNST2JvaFl2dEJyaHFXNk9DS3BvWnAzX1lkTEhmdm1vRmxHdEZpOXdXNkYycGdhS0pPMnpfYVBOU0lnd1BXOE9IMm15SG83U3J2aWF5NFNmUGVIR1VCYlBZUHhFRDlhdVh5bFYxemxmb0JoN0xHOTctNkJ4aTlWYmhJb3F5NWROcDUzWWNxbGdvUVd1VFVJUFJEV1Y5c0lTWjI2Um1MeWFhWGlrMnpCNTZ0dGtCOGR1S3VsWmlSV2RSdFg5YmZRdlFNV3J2RFRTdjVXbnV3YjhDbE1SZVNKaHBQblBUcnpLNlVwWUY1TXliSmVQaHg1N01TZFFlazNydnAwOG5rX2c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ab021119445c",
+      "title": "健康網》查了4年還是沒元氣 百萬網紅醫揪5個隱藏病因",
+      "published": "2026-05-12T11:09:00+00:00",
+      "summary": "健康網》查了4年還是沒元氣 百萬網紅醫揪5個隱藏病因&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oMjFLRDdvb3ZvTXk5ekQ0V1FVQm1jd3FjbDZpdzA1N1k3U3FPMk1VcUV6YkdaTjFyaTBUQzBfQlNTRXpleVdNVjYwWXRKN21kN3BSYzd2aXJ6bzV5OEw3aWpUbG7SAWpBVV95cUxPU3VCaTNheW81WTF4UEFjc2ZHUHhwUzhMWm5lN0Vxc0JVcERmVXY1LVJoUUxBMzBEN3FvWS1mS2Rma0VRSXFjcXE0ZG5rUTdNTUVLOXJ5UXh5S1g4MGlLbHNFTFVTbWRRcTRn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "9c8dd4a2d173",
       "title": "81歲李家鼎健康亮紅燈 曾暴瘦20磅「捱出胃病」 手震仍堅持開工 專家教每日做5小事防長者疾病",
@@ -33,7 +85,7 @@
       "id": "56777132ba23",
       "title": "登革熱蔓延快 超越巴西「阻毒蚊」防線",
       "published": "2026-05-12T07:18:45+00:00",
-      "summary": "登革熱蔓延快 超越巴西「阻毒蚊」防線&nbsp;&nbsp;Yahoo殺光世間所有蚊子有何後果？法新社一探究竟&nbsp;&nbsp;Yahoo氣候變遷助長登革熱！巴西「抗病蚊子」工廠全力趕工仍難敵疫情&nbsp;&nbsp;民視健康長照網蚊子不只會吸血！科學家揭露「採花」真相：牠們也是重要授粉者&nbsp;&nbsp;民視新聞網氣候變遷助長蚊子威脅！科學家研發「抗病蚊子」對抗登革熱&nbsp;&nbsp;民視健康長照網",
+      "summary": "登革熱蔓延快 超越巴西「阻毒蚊」防線&nbsp;&nbsp;Yahoo殺光世間所有蚊子有何後果？法新社一探究竟&nbsp;&nbsp;Yahoo氣候變遷助長登革熱！巴西「抗病蚊子」工廠全力趕工仍難敵疫情&nbsp;&nbsp;民視健康長照網蚊子不只會吸血！科學家揭露「採花」真相：牠們也是重要授粉者&nbsp;&nbsp;民視新聞網人類最強宿敵！如果蚊子滅絕會怎樣？專家揭開致命真相&nbsp;&nbsp;民視健康長照網",
       "sources": [
         {
           "name": "Yahoo",
@@ -72,7 +124,7 @@
       "id": "0475cdcbba6e",
       "title": "2年齡斷崖式衰老內外都失控吃對抗老又防糖尿病- 健康",
       "published": "2026-05-12T05:27:44+00:00",
-      "summary": "2年齡斷崖式衰老內外都失控吃對抗老又防糖尿病- 健康&nbsp;&nbsp;中時新聞網「這年齡｣竟是斷崖式衰老關鍵期！44歲脂肪易堆積、60歲後免疫力下降，專家揭示如何延緩老化&nbsp;&nbsp;ELLE研究指40歲起免疫力急降！醫推6關鍵營養素 甜椒1吃法維他命C暴增&nbsp;&nbsp;香港01抗老飲食新發現！專家揭黃金3要素 飯+醋降血糖/炸雞加1物防老化&nbsp;&nbsp;香港01",
+      "summary": "2年齡斷崖式衰老內外都失控吃對抗老又防糖尿病- 健康&nbsp;&nbsp;中時新聞網研究指40歲起免疫力急降！醫推6關鍵營養素 甜椒1吃法維他命C暴增&nbsp;&nbsp;香港01抗老飲食新發現！專家揭黃金3要素 飯+醋降血糖/炸雞加1物防老化&nbsp;&nbsp;香港01",
       "sources": [
         {
           "name": "中時新聞網",
@@ -312,19 +364,6 @@
         {
           "name": "RFI",
           "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOQmhleUFFMkNQaEprVzZ5NlgwcGZUbVV1TVlPcWlidnRiZGhMUU1UQnJsZ1lZS0JMTEpxZTFRWW91aE4xNnlXSzI1dEhZTUlNLXVtWWdZb0M2b25Sd1IyM2FiYUViSF82NUdOejktdG9UMldBelpEOW9TNmp5eVdPbGFxeUNVRUlSb2NwYzFpelZUYm1JTFVwdzVEWW13N25LLVV1LTFKNzBrM0RKREp3NHF5RmkyeDEwd1ExRUlNMmVpa1VfbVJGQld2c2l3WW1YR2J4bkFSN05abEpMTDFuV2pGTVFMaVh3MWU2am5ETTVxT21SUE1fTFBZeHhHZjZIdVBhbXFDanhQNUl4UEhJTDYtLXlfOGY1MUxkRDN2dVdzR3BCV1pJd1pRd1RJVUkydklsLVozZjZNLTUxOGFoM3NfdXM0SDVlTWo0ZDYyM25MM21jYUZwUWhPRmZsSlBuOFcwLUxXMDY5RmlteC0zdi1rbUM4YVBXTHdzTVdxUGQ1OUh0Q2E0ZEE2MHo5M0lYNkZacGFDb01rQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d7b2ac6cd7d0",
-      "title": "躁鬱症常被誤當憂鬱症？醫曝 10 大關鍵指標，精準辨別躁鬱症",
-      "published": "2026-05-11T18:00:00+00:00",
-      "summary": "躁鬱症常被誤當憂鬱症？醫曝 10 大關鍵指標，精準辨別躁鬱症&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPOVVnQnVmOThuZEE2WkFLMnMta2lHWF9qMll3b1lCWWVOZ1FjRndXeGVSeUJkd0gtaE5qVXZjU1ltSHVvcWlvdElrSkpFUzF4SDJZdTdZSmZpbjB2UkhEcFQ1U3QzX0tIMnVEVGljZTBmNkVTOHZnbktSU2pCamNRQXpRMVNKV1BNbmZudlpqektCQThQRTAyUmFIVWJ5Z1U1LWp4eTZlaHptN2QyUG1SWkh0Q1lsRzUyQXNmOWhTWGVtbDJxM0Jld0RibWwtUU1rQ083QUF2RmlwVDhQRGlIOTAxTmZxYzFmanNaZi1veDR3aGdQYzZvWGZjclU1ZDVCU1ZPWER1WEIyZUVqUHJnS09JNzVJalRvUGNxSkZBb1dsSUlhT2NfT2d2OFBNM1RReEM0WjR1aWVreEF5bzBmUGRTXzJGRE5xN0x4aVBXRm5aU2VIOEFPMVlCeUd2YTZzdDB5WVNhbEgyYktKTzFwaEktWmk4Y1pYZC1Z?oc=5"
         }
       ],
       "matched_keywords": []
@@ -619,6 +658,35 @@
       "matched_keywords": []
     },
     {
+      "id": "54eac49d501d",
+      "title": "每天那杯豆漿可能有用 研究：高血壓風險最多降近2成 | 自由電子報 - LINE TODAY",
+      "published": "2026-05-11T04:44:47+00:00",
+      "summary": "每天那杯豆漿可能有用 研究：高血壓風險最多降近2成 | 自由電子報&nbsp;&nbsp;LINE TODAY前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42RmhFSmpUM3I3V0dFcUhpZHFYaGN3dDRtSmp6a255YUhsN05QRGtLbHBZWkE4aWRQVVVUcWNQcE5SWE1TUkJVTjRqVDZCcmRZSlFhdk13?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "86565756f449",
       "title": "研究人員開發了人工智慧工具，用於早期檢測隱藏的肝損傷",
       "published": "2026-05-11T04:11:10+00:00",
@@ -763,19 +831,6 @@
         {
           "name": "信報網站",
           "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxORHQ1cVlxcVNfZlRwYUZZN0VqZi16aWZEbVo1aDZnZ0s1YzNPREEwX2k5V3g5QlJ3TkRBZE8wN1dCa2U1dldaVU9EeGZ3ckQwdDBfNWhOYWRleGdKQ045M1VBY0NydFMzbGVLR1RVLVRGX0JPM2s4d3dVSEd3NlFkQ2RiemVqX1R3NGYyTW1kcXpxSUtZT0ZJY3NCRXZOQjBYbURla1NBMlhramxBMVZJcHhXWFMzc0JoRThhT01BdlFZS3poWjRoY1VfSG4zNm0wWXllZE1QaGNzVW5ENjBHMkJyRnFmNnV0dVpjNDMzTXJOOTJtYWVuQ25lQ09KTW9wUDVtWk5DdjFWSUJJeGhXSWFSODBZeGw4U0dFX3hYZllHTjlYckx0TkMzQ2dYNEpMcG5lckxYNkZ3cTh2T2I5bV9B?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5b7ea044a7d0",
-      "title": "科爾多瓦：Cruz del Eje監獄的囚犯中發現五例結核病病例",
-      "published": "2026-05-10T13:04:32+00:00",
-      "summary": "科爾多瓦：Cruz del Eje監獄的囚犯中發現五例結核病病例&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQUTZNN2ZQWmx3bjdfczBXUDI5VW51QktPWGRJbHY4MjRNOW5PcGJkdWcxc2VnaWVQTXJWSkVGeXVkZ0EyMEJJT2Fzc1lNWVZXUy00NGplRkRQUG1RUEtvd0R5VENza2VJVkl3QjduWF94RFdOZm5sU243RXRENnY4cnZ2UWQ5Z3hZWXUxLXNQU05IbU05NEZPbEZ0QlZSNVZfZXRjelNoVlRkU29VWkMwRmRaUUtrUXlTQTZKZ3BPNGduSmRqcnVOWk1Dc1ktMElvTFp3RFUyTTFaTnB3WUI5YlNsWEJ4a1B1cUkyWlkxalMxQWlMZmxibWhtTC1IaHRwZnVDNVFENGRkcmpaeEdiNUdPTTJHZ2JWMEd5MkotbVQtU2IwcE9iQW1sbVI1SVNaVEF3RVZSbFJoRzlISUE1WEVOdXJKbzRLZFg4dmVEVHZkOGJiSU5IakdoOWxkc2FxaExzMkJkdGJSb2I4MTR5azNteEIzVmk3WkIzTVln?oc=5"
         }
       ],
       "matched_keywords": []

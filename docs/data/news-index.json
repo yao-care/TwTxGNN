@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-12T11:13:09.795696+00:00",
-  "count": 4,
+  "generated": "2026-05-12T14:00:53.506913+00:00",
+  "count": 5,
   "news": [
     {
       "id": "9b5a5732d228",
@@ -428,6 +428,34 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "54eac49d501d",
+      "title": "每天那杯豆漿可能有用 研究：高血壓風險最多降近2成 | 自由電子報 - LINE TODAY",
+      "published": "2026-05-11T04:44:47+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42RmhFSmpUM3I3V0dFcUhpZHFYaGN3dDRtSmp6a255YUhsN05QRGtLbHBZWkE4aWRQVVVUcWNQcE5SWE1TUkJVTjRqVDZCcmRZSlFhdk13?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
             }
           ]
         }
