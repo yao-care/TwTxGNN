@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-11T23:49:39.808976+00:00",
+  "generated": "2026-05-12T02:08:57.117915+00:00",
   "count": 4,
   "news": [
     {
@@ -226,6 +226,53 @@
       ]
     },
     {
+      "id": "73f2c1d6370f",
+      "title": "20％人體內藏這種細菌 研究揭可能一步步誘發大腸癌 | 自由電子報 - LINE TODAY",
+      "published": "2026-05-11T02:06:46+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBacS1OZi1lZVhVUGNKOFAzdm1aSjMxcHA5OVYybE1ISlpuY0kxN1lpMkhyYlZzVHdfTXhMYktwTThLNjlYZUZLWDc4M2lqMHlKM1FLY1J3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "64c83610c49c",
       "title": "生活觀察｜“老來瘦”別大意，或許暗藏肌少症",
       "published": "2026-05-11T01:09:01+00:00",
@@ -279,53 +326,6 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5297665ded18",
-      "title": "20％人體內藏這種細菌 研究揭可能一步步誘發大腸癌",
-      "published": "2026-05-10T03:06:34+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQeFZpRmlGRWJKdWs0cm42QWxPRFNBOG9IbHZOYmRiVlJZWXUxbWktMDhTQmNSal8yNk9STklpVzYydFZSY1lpVTloQldOUnpnLTlyNzI5WDhtYjdxV1VhcVRSclM0NHZSR1AxTmZ3TE0ybWVEWlBmQjM2ZVBZbTAteVRHVUM1ZXpzdWVZbXkxckx3ZEpsVDhhY21CRHFNSmROU3hoc3FDdjhUSDRUVTdWTW5oWW41WTNRTnpNUkNCUVhyZ0R5SEFkNHg0N3dCNjdONFFYY3VRQ21WZUVDMzJ1ejU2VlNuZ0NrVVpId0Nlb3NSODVoN1Ayc1hEMjU2NGVzbVdKRHF6NHMyeFRmUXdFdkRpSFhTQmptYk1FNEdrUVM2b3lKNVY0TkFtVEZYSjJHQmFiM3RURWdhVFVhUndpYXBUc1VCNV9xNUE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
