@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-12T14:00:53.506913+00:00",
+  "generated": "2026-05-12T17:05:34.888436+00:00",
   "count": 5,
   "news": [
     {
@@ -434,13 +434,13 @@
       ]
     },
     {
-      "id": "54eac49d501d",
-      "title": "每天那杯豆漿可能有用 研究：高血壓風險最多降近2成 | 自由電子報 - LINE TODAY",
-      "published": "2026-05-11T04:44:47+00:00",
+      "id": "7b83740af8e4",
+      "title": "每天那杯豆漿可能有用 研究：高血壓風險最多降近2成",
+      "published": "2026-05-11T03:08:00+00:00",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42RmhFSmpUM3I3V0dFcUhpZHFYaGN3dDRtSmp6a255YUhsN05QRGtLbHBZWkE4aWRQVVVUcWNQcE5SWE1TUkJVTjRqVDZCcmRZSlFhdk13?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pSmdWLXpVRDI1M3VfQzRxcTJGbC1XWDRSWHZPRzFGYnpQN05CbkxxX1lRMUJUTUFHYWxPdzRsb0tfeEhUeHpnVExGdHlPd0lueU00M2lxOGNRZ1lXVEtDYlJzNjLSAWpBVV95cUxQRzducWdsQ0F1V0hpQ0x1QzBQeHVwcDBZaGd5RUg2Z29lQmFSQVVvXy12V1R0SlB6NVptLU4tcmZNYkIwbmhXa2wxM3BqYUdpZW1SbVB5NEdvajZ2Nmx3eDYtVnB0V09TSklR?oc=5"
         }
       ],
       "keywords": [
@@ -519,17 +519,6 @@
         }
       ],
       "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "myocardial infarction",

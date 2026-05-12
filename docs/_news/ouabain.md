@@ -46,7 +46,7 @@ permalink: /news/ouabain/
 
 ### [預防心梗，這些不良習慣需警惕](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUXRyT19CcEFFRGloNlZHTnFNaU9vcFBpdERDLXprOGxkWXhQSmd1bkd5Qjc1VTl5SThCTjVjQ0hITXFqakt3Ujg1T0ZGZS1YSGkxRlF6THE2ZkV1WFpKVlpxYThnWTYwaHVVUlozVDFlTTBuYjZVS21vXy0xSWR0U0pSd1N4d0wzekhDLTlzMUY?oc=5)
 
-2026-05-11 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心梗</span>
+2026-05-11 <span class="news-indication-tag">心梗</span>
 
 來源：[紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUXRyT19CcEFFRGloNlZHTnFNaU9vcFBpdERDLXprOGxkWXhQSmd1bkd5Qjc1VTl5SThCTjVjQ0hITXFqakt3Ujg1T0ZGZS1YSGkxRlF6THE2ZkV1WFpKVlpxYThnWTYwaHVVUlozVDFlTTBuYjZVS21vXy0xSWR0U0pSd1N4d0wzekhDLTlzMUY?oc=5)
 

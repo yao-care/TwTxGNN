@@ -52,11 +52,11 @@ permalink: /news/acebutolol/
 
 ---
 
-### [每天那杯豆漿可能有用 研究：高血壓風險最多降近2成 | 自由電子報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE42RmhFSmpUM3I3V0dFcUhpZHFYaGN3dDRtSmp6a255YUhsN05QRGtLbHBZWkE4aWRQVVVUcWNQcE5SWE1TUkJVTjRqVDZCcmRZSlFhdk13?oc=5)
+### [每天那杯豆漿可能有用 研究：高血壓風險最多降近2成](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pSmdWLXpVRDI1M3VfQzRxcTJGbC1XWDRSWHZPRzFGYnpQN05CbkxxX1lRMUJUTUFHYWxPdzRsb0tfeEhUeHpnVExGdHlPd0lueU00M2lxOGNRZ1lXVEtDYlJzNjLSAWpBVV95cUxQRzducWdsQ0F1V0hpQ0x1QzBQeHVwcDBZaGd5RUg2Z29lQmFSQVVvXy12V1R0SlB6NVptLU4tcmZNYkIwbmhXa2wxM3BqYUdpZW1SbVB5NEdvajZ2Nmx3eDYtVnB0V09TSklR?oc=5)
 
 2026-05-11 <span class="news-indication-tag">高血壓</span>
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE42RmhFSmpUM3I3V0dFcUhpZHFYaGN3dDRtSmp6a255YUhsN05QRGtLbHBZWkE4aWRQVVVUcWNQcE5SWE1TUkJVTjRqVDZCcmRZSlFhdk13?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pSmdWLXpVRDI1M3VfQzRxcTJGbC1XWDRSWHZPRzFGYnpQN05CbkxxX1lRMUJUTUFHYWxPdzRsb0tfeEhUeHpnVExGdHlPd0lueU00M2lxOGNRZ1lXVEtDYlJzNjLSAWpBVV95cUxQRzducWdsQ0F1V0hpQ0x1QzBQeHVwcDBZaGd5RUg2Z29lQmFSQVVvXy12V1R0SlB6NVptLU4tcmZNYkIwbmhXa2wxM3BqYUdpZW1SbVB5NEdvajZ2Nmx3eDYtVnB0V09TSklR?oc=5)
 
 ---
 

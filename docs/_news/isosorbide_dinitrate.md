@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [預防心梗，這些不良習慣需警惕](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUXRyT19CcEFFRGloNlZHTnFNaU9vcFBpdERDLXprOGxkWXhQSmd1bkd5Qjc1VTl5SThCTjVjQ0hITXFqakt3Ujg1T0ZGZS1YSGkxRlF6THE2ZkV1WFpKVlpxYThnWTYwaHVVUlozVDFlTTBuYjZVS21vXy0xSWR0U0pSd1N4d0wzekhDLTlzMUY?oc=5)
-
-2026-05-11 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心梗</span>
-
-來源：[紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUXRyT19CcEFFRGloNlZHTnFNaU9vcFBpdERDLXprOGxkWXhQSmd1bkd5Qjc1VTl5SThCTjVjQ0hITXFqakt3Ujg1T0ZGZS1YSGkxRlF6THE2ZkV1WFpKVlpxYThnWTYwaHVVUlozVDFlTTBuYjZVS21vXy0xSWR0U0pSd1N4d0wzekhDLTlzMUY?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
