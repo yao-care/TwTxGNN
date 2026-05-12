@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-12T19:28:50.626621+00:00",
-  "total_count": 25,
-  "matched_count": 4,
+  "last_updated": "2026-05-12T21:10:00.459828+00:00",
+  "total_count": 23,
+  "matched_count": 3,
   "news": [
     {
       "id": "486f8f9ba6a6",
@@ -645,109 +645,6 @@
       "matched_keywords": []
     },
     {
-      "id": "7b83740af8e4",
-      "title": "每天那杯豆漿可能有用 研究：高血壓風險最多降近2成",
-      "published": "2026-05-11T03:08:00+00:00",
-      "summary": "每天那杯豆漿可能有用 研究：高血壓風險最多降近2成&nbsp;&nbsp;自由健康網不只護血管、血壓降30%！研究揭每天多吃「這類常見食物」還能防中風&nbsp;&nbsp;Yahoo新聞降血壓、減少心臟病風險 研究揭這類食物天天吃有好處&nbsp;&nbsp;元氣網高血壓易致中風/心臟病營養師推介7種碳水食物助降血壓每日喝1種果汁也有效| 事事如意生活網站&nbsp;&nbsp;ccue.singtao.ca血壓控制有方法！常見「廚房食物」可能幫助降血壓&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pSmdWLXpVRDI1M3VfQzRxcTJGbC1XWDRSWHZPRzFGYnpQN05CbkxxX1lRMUJUTUFHYWxPdzRsb0tfeEhUeHpnVExGdHlPd0lueU00M2lxOGNRZ1lXVEtDYlJzNjLSAWpBVV95cUxQRzducWdsQ0F1V0hpQ0x1QzBQeHVwcDBZaGd5RUg2Z29lQmFSQVVvXy12V1R0SlB6NVptLU4tcmZNYkIwbmhXa2wxM3BqYUdpZW1SbVB5NEdvajZ2Nmx3eDYtVnB0V09TSklR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "73f2c1d6370f",
       "title": "20％人體內藏這種細菌 研究揭可能一步步誘發大腸癌 | 自由電子報 - LINE TODAY",
       "published": "2026-05-11T02:06:46+00:00",
@@ -830,19 +727,6 @@
         {
           "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWG1lVjRjMlZhMHh4SlEwaGREbjZyMlhpcC0xMzE3ZHZ3bVlIWWZFZm1zZGtsUVdMVHNpRC1QTjJtUncwcnZOX3NPZmFUOTVnYi05RkF5MUdHUVFDbm9ndTdUTS1FdzhYdlpJMDAzZmdsTkVjSzRYaTRtdExoSDdlN0NtUWNrR0hobDdzTVNhdWs?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1104bb47f37d",
-      "title": "長者嚴防呼吸道合胞病毒死亡率逾兩成 未有治療藥物",
-      "published": "2026-05-10T18:40:55+00:00",
-      "summary": "長者嚴防呼吸道合胞病毒死亡率逾兩成 未有治療藥物&nbsp;&nbsp;信報網站",
-      "sources": [
-        {
-          "name": "信報網站",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcG9wc1cyRGQ1SXVudjRQdVRFUHg5ZDd0VlNiSVFQdHVQbmF5SkQ0Znl5UjFUWWdGVGdGNHVfMEtoR3hPOFZTc045aXNFM0R0RjRrdjVQclEtSC1RbWJjLUJoV0k1NEY3TThfaldZT19Ja1hNWWZiUVF2d3I4TFMzT0xDSzJaWkk5VjB1UFVpeDBTMWdWYkRxa1JuWEs5bFpzMXZ5R2tCSkE0ZVl0aWpDNzl3aUNjeFNrRXdCMFlQYWZwTUV6MUVxX1ExM2h6cjdYQm00STZIWWlSZlExcldFcXpXYWtBZ2hCb1E?oc=5"
         }
       ],
       "matched_keywords": []
