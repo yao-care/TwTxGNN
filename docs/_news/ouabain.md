@@ -29,7 +29,7 @@ permalink: /news/ouabain/
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>Prinzmetal angina（99.7%）</li>
 <li>hemoglobinopathy（99.5%）</li>
-<li class="indication-matched">myocardial infarction（99.4%）<span class="indication-tag">📰 心梗</span></li>
+<li>myocardial infarction（99.4%）</li>
 <li>thrombotic disease（99.3%）</li>
 <li>hyperthyroidism（99.3%）</li>
 <li>homozygous familial hypercholesterolemia（99.2%）</li>
@@ -44,11 +44,11 @@ permalink: /news/ouabain/
 
 ## 相關新聞（1 則）
 
-### [預防心梗，這些不良習慣需警惕](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUXRyT19CcEFFRGloNlZHTnFNaU9vcFBpdERDLXprOGxkWXhQSmd1bkd5Qjc1VTl5SThCTjVjQ0hITXFqakt3Ujg1T0ZGZS1YSGkxRlF6THE2ZkV1WFpKVlpxYThnWTYwaHVVUlozVDFlTTBuYjZVS21vXy0xSWR0U0pSd1N4d0wzekhDLTlzMUY?oc=5)
+### [每天那杯豆漿可能有用 研究：高血壓風險最多降近2成](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pSmdWLXpVRDI1M3VfQzRxcTJGbC1XWDRSWHZPRzFGYnpQN05CbkxxX1lRMUJUTUFHYWxPdzRsb0tfeEhUeHpnVExGdHlPd0lueU00M2lxOGNRZ1lXVEtDYlJzNjLSAWpBVV95cUxQRzducWdsQ0F1V0hpQ0x1QzBQeHVwcDBZaGd5RUg2Z29lQmFSQVVvXy12V1R0SlB6NVptLU4tcmZNYkIwbmhXa2wxM3BqYUdpZW1SbVB5NEdvajZ2Nmx3eDYtVnB0V09TSklR?oc=5)
 
-2026-05-11 <span class="news-indication-tag">心梗</span>
+2026-05-11 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">中風</span>
 
-來源：[紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUXRyT19CcEFFRGloNlZHTnFNaU9vcFBpdERDLXprOGxkWXhQSmd1bkd5Qjc1VTl5SThCTjVjQ0hITXFqakt3Ujg1T0ZGZS1YSGkxRlF6THE2ZkV1WFpKVlpxYThnWTYwaHVVUlozVDFlTTBuYjZVS21vXy0xSWR0U0pSd1N4d0wzekhDLTlzMUY?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pSmdWLXpVRDI1M3VfQzRxcTJGbC1XWDRSWHZPRzFGYnpQN05CbkxxX1lRMUJUTUFHYWxPdzRsb0tfeEhUeHpnVExGdHlPd0lueU00M2lxOGNRZ1lXVEtDYlJzNjLSAWpBVV95cUxQRzducWdsQ0F1V0hpQ0x1QzBQeHVwcDBZaGd5RUg2Z29lQmFSQVVvXy12V1R0SlB6NVptLU4tcmZNYkIwbmhXa2wxM3BqYUdpZW1SbVB5NEdvajZ2Nmx3eDYtVnB0V09TSklR?oc=5)
 
 ---
 

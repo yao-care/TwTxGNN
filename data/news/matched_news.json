@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-05-12T17:05:34.866369+00:00",
+  "last_updated": "2026-05-12T19:28:50.626621+00:00",
   "total_count": 25,
-  "matched_count": 5,
+  "matched_count": 4,
   "news": [
+    {
+      "id": "486f8f9ba6a6",
+      "title": "英擴大RSV疫苗施打 300萬銀髮族受惠",
+      "published": "2026-05-12T16:00:00+00:00",
+      "summary": "英擴大RSV疫苗施打 300萬銀髮族受惠&nbsp;&nbsp;聯合新聞網",
+      "sources": [
+        {
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16WTJVbTUyMlo1LTNWd1hQYXRsNGtjamh1ZHRzMUJnMmdZTEl2QVhBOExHLXAtVVJkVUlDMEFyTl8yejNjb0JwVkI5SzFSLXZ60gFWQVVfeXFMT1AxVjRaaWhKYl9WakVpV1l0WEpfa09WSktTQ3VVMEJieDNVTjdsRXpQWUo1Zm5LYnBrWWEtRDJQZ3g5dW9FNzNXUjdJZnJfcDAzQk9BV1E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "3cadf8beeaba",
       "title": "科學家表示，這種藻類可以去除飲用水中的微塑膠。",
@@ -635,7 +648,7 @@
       "id": "7b83740af8e4",
       "title": "每天那杯豆漿可能有用 研究：高血壓風險最多降近2成",
       "published": "2026-05-11T03:08:00+00:00",
-      "summary": "每天那杯豆漿可能有用 研究：高血壓風險最多降近2成&nbsp;&nbsp;自由健康網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "每天那杯豆漿可能有用 研究：高血壓風險最多降近2成&nbsp;&nbsp;自由健康網不只護血管、血壓降30%！研究揭每天多吃「這類常見食物」還能防中風&nbsp;&nbsp;Yahoo新聞降血壓、減少心臟病風險 研究揭這類食物天天吃有好處&nbsp;&nbsp;元氣網高血壓易致中風/心臟病營養師推介7種碳水食物助降血壓每日喝1種果汁也有效| 事事如意生活網站&nbsp;&nbsp;ccue.singtao.ca血壓控制有方法！常見「廚房食物」可能幫助降血壓&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "自由健康網",
@@ -643,6 +656,65 @@
         }
       ],
       "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
         {
           "type": "indication",
           "name": "高血壓",
@@ -655,6 +727,21 @@
             {
               "slug": "metoprolol",
               "name": "Metoprolol"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
             }
           ]
         }
@@ -722,31 +809,6 @@
       "matched_keywords": []
     },
     {
-      "id": "a81a1ef1be5b",
-      "title": "預防心梗，這些不良習慣需警惕",
-      "published": "2026-05-11T01:29:02+00:00",
-      "summary": "預防心梗，這些不良習慣需警惕&nbsp;&nbsp;紫荊網",
-      "sources": [
-        {
-          "name": "紫荊網",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUXRyT19CcEFFRGloNlZHTnFNaU9vcFBpdERDLXprOGxkWXhQSmd1bkd5Qjc1VTl5SThCTjVjQ0hITXFqakt3Ujg1T0ZGZS1YSGkxRlF6THE2ZkV1WFpKVlpxYThnWTYwaHVVUlozVDFlTTBuYjZVS21vXy0xSWR0U0pSd1N4d0wzekhDLTlzMUY?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心梗",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "82d6dbf860b9",
       "title": "媽媽孕期病多動少 孩子3歲時肥胖風險加倍",
       "published": "2026-05-11T01:24:02+00:00",
@@ -773,14 +835,14 @@
       "matched_keywords": []
     },
     {
-      "id": "8743656b140d",
+      "id": "1104bb47f37d",
       "title": "長者嚴防呼吸道合胞病毒死亡率逾兩成 未有治療藥物",
       "published": "2026-05-10T18:40:55+00:00",
       "summary": "長者嚴防呼吸道合胞病毒死亡率逾兩成 未有治療藥物&nbsp;&nbsp;信報網站",
       "sources": [
         {
           "name": "信報網站",
-          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxORHQ1cVlxcVNfZlRwYUZZN0VqZi16aWZEbVo1aDZnZ0s1YzNPREEwX2k5V3g5QlJ3TkRBZE8wN1dCa2U1dldaVU9EeGZ3ckQwdDBfNWhOYWRleGdKQ045M1VBY0NydFMzbGVLR1RVLVRGX0JPM2s4d3dVSEd3NlFkQ2RiemVqX1R3NGYyTW1kcXpxSUtZT0ZJY3NCRXZOQjBYbURla1NBMlhramxBMVZJcHhXWFMzc0JoRThhT01BdlFZS3poWjRoY1VfSG4zNm0wWXllZE1QaGNzVW5ENjBHMkJyRnFmNnV0dVpjNDMzTXJOOTJtYWVuQ25lQ09KTW9wUDVtWk5DdjFWSUJJeGhXSWFSODBZeGw4U0dFX3hYZllHTjlYckx0TkMzQ2dYNEpMcG5lckxYNkZ3cTh2T2I5bV9B?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcG9wc1cyRGQ1SXVudjRQdVRFUHg5ZDd0VlNiSVFQdHVQbmF5SkQ0Znl5UjFUWWdGVGdGNHVfMEtoR3hPOFZTc045aXNFM0R0RjRrdjVQclEtSC1RbWJjLUJoV0k1NEY3TThfaldZT19Ja1hNWWZiUVF2d3I4TFMzT0xDSzJaWkk5VjB1UFVpeDBTMWdWYkRxa1JuWEs5bFpzMXZ5R2tCSkE0ZVl0aWpDNzl3aUNjeFNrRXdCMFlQYWZwTUV6MUVxX1ExM2h6cjdYQm00STZIWWlSZlExcldFcXpXYWtBZ2hCb1E?oc=5"
         }
       ],
       "matched_keywords": []

@@ -14,7 +14,7 @@ permalink: /news/treprostinil/
 ---
 
 <p class="key-answer" data-question="Treprostinil 有什麼相關新聞？">
-<strong>Treprostinil</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Treprostinil</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/treprostinil/
 <p><a href="{{ '/drugs/treprostinil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [每天那杯豆漿可能有用 研究：高血壓風險最多降近2成](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pSmdWLXpVRDI1M3VfQzRxcTJGbC1XWDRSWHZPRzFGYnpQN05CbkxxX1lRMUJUTUFHYWxPdzRsb0tfeEhUeHpnVExGdHlPd0lueU00M2lxOGNRZ1lXVEtDYlJzNjLSAWpBVV95cUxQRzducWdsQ0F1V0hpQ0x1QzBQeHVwcDBZaGd5RUg2Z29lQmFSQVVvXy12V1R0SlB6NVptLU4tcmZNYkIwbmhXa2wxM3BqYUdpZW1SbVB5NEdvajZ2Nmx3eDYtVnB0V09TSklR?oc=5)
+
+2026-05-11 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">中風</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pSmdWLXpVRDI1M3VfQzRxcTJGbC1XWDRSWHZPRzFGYnpQN05CbkxxX1lRMUJUTUFHYWxPdzRsb0tfeEhUeHpnVExGdHlPd0lueU00M2lxOGNRZ1lXVEtDYlJzNjLSAWpBVV95cUxQRzducWdsQ0F1V0hpQ0x1QzBQeHVwcDBZaGd5RUg2Z29lQmFSQVVvXy12V1R0SlB6NVptLU4tcmZNYkIwbmhXa2wxM3BqYUdpZW1SbVB5NEdvajZ2Nmx3eDYtVnB0V09TSklR?oc=5)
+
+---
 
 
 <div class="disclaimer">
