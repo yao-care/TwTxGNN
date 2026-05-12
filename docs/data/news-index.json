@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-12T08:42:09.785534+00:00",
+  "generated": "2026-05-12T11:13:09.795696+00:00",
   "count": 4,
   "news": [
     {
@@ -481,24 +481,35 @@
       ]
     },
     {
-      "id": "285efb6d73c3",
-      "title": "根除子宮頸癌成為國際共識，澳洲科學家如何領先全球？ - TNL The News Lens 關鍵評論網",
-      "published": "2026-05-10T08:00:00+00:00",
+      "id": "a81a1ef1be5b",
+      "title": "預防心梗，這些不良習慣需警惕",
+      "published": "2026-05-11T01:29:02+00:00",
       "sources": [
         {
-          "name": "TNL The News Lens 關鍵評論網",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13U0tJeDRfQW1mVjkyNHJIMTN3anZ0UE9ReTIyeUJlT3ZKNVZMcy1EeE1EejZfYzBsbUtBUU9pcTUwMmkyb3ZuYmg2TWxYX1hTd2JoOQ?oc=5"
+          "name": "紫荊網",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUXRyT19CcEFFRGloNlZHTnFNaU9vcFBpdERDLXprOGxkWXhQSmd1bkd5Qjc1VTl5SThCTjVjQ0hITXFqakt3Ujg1T0ZGZS1YSGkxRlF6THE2ZkV1WFpKVlpxYThnWTYwaHVVUlozVDFlTTBuYjZVS21vXy0xSWR0U0pSd1N4d0wzekhDLTlzMUY?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
+          "name": "cardiovascular",
+          "keyword": "心血管",
           "related_drugs": [
             {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
             }
           ]
         }
