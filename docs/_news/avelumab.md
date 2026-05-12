@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [健康解碼｜生蛇不能掉以輕「心」 心血管代謝病患者屬高危族群](https://news.google.com/rss/articles/CBMiqgNBVV95cUxOYy1NYVZFR2lYOFhfQnh0UGNDbTQyNFd0Z0FCMzJQOGd3M1JMWDV1X2Q1c1N3UGdNTThQb242RjZCcHNVMXVlbnJ6SWNTUnJ6WEJEblFzdVdtVVdWZzZtVWMzWEJqQnJCZnZWMWZaZTNiYjZaUEFwaHZINkItS1NhRENERWpRZElHRVktc3JRVEhpY0s0YUY4S2VUbkVucnhkZ3F6NUJWdTZTNG90OHdTZUFTakhpTG1sMVJoOU5wQVExMTJlV3l0UkF1Z05yUG1sVENlV29VS2l5REhnTDh4R29oTmM1VUJTMFB6aEdOYXJnT2xzdlFnNnBPamJObThkYzlvVjBKS1FBZG85U19LaVVvZjZzVy1sLVRIcWdVcDZqNVZDMFNoYkVXWDB5NTlqekl1bWs0NDZtN19hT0NPNDIyMXk0YTF4eTFCbTJZVVV5d2dKSWljbUxRSm9PTjREUXF4TWpsZXRmRGRXUGQ5TmlZeUpQZmcxQjRMMUR0SGNHenhXUmEySHlkVXM2OEpfdDR5OEstWUVBUTlxd1JCRjhyTHQ0empvbUE?oc=5)
+
+2026-05-12 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">生蛇</span>
+
+來源：[am730](https://news.google.com/rss/articles/CBMiqgNBVV95cUxOYy1NYVZFR2lYOFhfQnh0UGNDbTQyNFd0Z0FCMzJQOGd3M1JMWDV1X2Q1c1N3UGdNTThQb242RjZCcHNVMXVlbnJ6SWNTUnJ6WEJEblFzdVdtVVdWZzZtVWMzWEJqQnJCZnZWMWZaZTNiYjZaUEFwaHZINkItS1NhRENERWpRZElHRVktc3JRVEhpY0s0YUY4S2VUbkVucnhkZ3F6NUJWdTZTNG90OHdTZUFTakhpTG1sMVJoOU5wQVExMTJlV3l0UkF1Z05yUG1sVENlV29VS2l5REhnTDh4R29oTmM1VUJTMFB6aEdOYXJnT2xzdlFnNnBPamJObThkYzlvVjBKS1FBZG85U19LaVVvZjZzVy1sLVRIcWdVcDZqNVZDMFNoYkVXWDB5NTlqekl1bWs0NDZtN19hT0NPNDIyMXk0YTF4eTFCbTJZVVV5d2dKSWljbUxRSm9PTjREUXF4TWpsZXRmRGRXUGQ5TmlZeUpQZmcxQjRMMUR0SGNHenhXUmEySHlkVXM2OEpfdDR5OEstWUVBUTlxd1JCRjhyTHQ0empvbUE?oc=5)
+
+---
 
 ### [健康網》一滴血驗50種癌非萬靈丹 醫揭最大盲點：找到癌症還不夠](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0TDJobUI4S2E4eVlFaXVCZzVoVEZRbzdQR2F2Y2Z1SmV3aVlYV0lKZlpaS0ZwTTJxSVZSRjRMbzloMllKdnctVVMwcXFoTXhpNGVWLWlJMnVrTF8wQjVMVThrVFTSAWpBVV95cUxQVGFWZUl6eDVjR0ZjcDF0ZnNPeEN2U21SYmFLWnh2cV9jUVQ5a2NOQWZZWFFHWTBDZXhNNjRWd3A5X1dTSHBQWE16VjI2Q3hOeERnZmhGOUlBZ0VWbUNUMVJNdGpZaTZiTWx3?oc=5)
 

@@ -1,7 +1,42 @@
 {
-  "generated": "2026-05-12T22:52:37.446993+00:00",
-  "count": 3,
+  "generated": "2026-05-12T23:52:18.280413+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "74f0160330b4",
+      "title": "健康解碼｜生蛇不能掉以輕「心」 心血管代謝病患者屬高危族群",
+      "published": "2026-05-12T23:30:00+00:00",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOYy1NYVZFR2lYOFhfQnh0UGNDbTQyNFd0Z0FCMzJQOGd3M1JMWDV1X2Q1c1N3UGdNTThQb242RjZCcHNVMXVlbnJ6SWNTUnJ6WEJEblFzdVdtVVdWZzZtVWMzWEJqQnJCZnZWMWZaZTNiYjZaUEFwaHZINkItS1NhRENERWpRZElHRVktc3JRVEhpY0s0YUY4S2VUbkVucnhkZ3F6NUJWdTZTNG90OHdTZUFTakhpTG1sMVJoOU5wQVExMTJlV3l0UkF1Z05yUG1sVENlV29VS2l5REhnTDh4R29oTmM1VUJTMFB6aEdOYXJnT2xzdlFnNnBPamJObThkYzlvVjBKS1FBZG85U19LaVVvZjZzVy1sLVRIcWdVcDZqNVZDMFNoYkVXWDB5NTlqekl1bWs0NDZtN19hT0NPNDIyMXk0YTF4eTFCbTJZVVV5d2dKSWljbUxRSm9PTjREUXF4TWpsZXRmRGRXUGQ5TmlZeUpQZmcxQjRMMUR0SGNHenhXUmEySHlkVXM2OEpfdDR5OEstWUVBUTlxd1JCRjhyTHQ0empvbUE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "生蛇",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "9b5a5732d228",
       "title": "健康網》一滴血驗50種癌非萬靈丹 醫揭最大盲點：找到癌症還不夠",

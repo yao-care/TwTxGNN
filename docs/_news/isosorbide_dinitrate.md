@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [健康解碼｜生蛇不能掉以輕「心」 心血管代謝病患者屬高危族群](https://news.google.com/rss/articles/CBMiqgNBVV95cUxOYy1NYVZFR2lYOFhfQnh0UGNDbTQyNFd0Z0FCMzJQOGd3M1JMWDV1X2Q1c1N3UGdNTThQb242RjZCcHNVMXVlbnJ6SWNTUnJ6WEJEblFzdVdtVVdWZzZtVWMzWEJqQnJCZnZWMWZaZTNiYjZaUEFwaHZINkItS1NhRENERWpRZElHRVktc3JRVEhpY0s0YUY4S2VUbkVucnhkZ3F6NUJWdTZTNG90OHdTZUFTakhpTG1sMVJoOU5wQVExMTJlV3l0UkF1Z05yUG1sVENlV29VS2l5REhnTDh4R29oTmM1VUJTMFB6aEdOYXJnT2xzdlFnNnBPamJObThkYzlvVjBKS1FBZG85U19LaVVvZjZzVy1sLVRIcWdVcDZqNVZDMFNoYkVXWDB5NTlqekl1bWs0NDZtN19hT0NPNDIyMXk0YTF4eTFCbTJZVVV5d2dKSWljbUxRSm9PTjREUXF4TWpsZXRmRGRXUGQ5TmlZeUpQZmcxQjRMMUR0SGNHenhXUmEySHlkVXM2OEpfdDR5OEstWUVBUTlxd1JCRjhyTHQ0empvbUE?oc=5)
+
+2026-05-12 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">生蛇</span>
+
+來源：[am730](https://news.google.com/rss/articles/CBMiqgNBVV95cUxOYy1NYVZFR2lYOFhfQnh0UGNDbTQyNFd0Z0FCMzJQOGd3M1JMWDV1X2Q1c1N3UGdNTThQb242RjZCcHNVMXVlbnJ6SWNTUnJ6WEJEblFzdVdtVVdWZzZtVWMzWEJqQnJCZnZWMWZaZTNiYjZaUEFwaHZINkItS1NhRENERWpRZElHRVktc3JRVEhpY0s0YUY4S2VUbkVucnhkZ3F6NUJWdTZTNG90OHdTZUFTakhpTG1sMVJoOU5wQVExMTJlV3l0UkF1Z05yUG1sVENlV29VS2l5REhnTDh4R29oTmM1VUJTMFB6aEdOYXJnT2xzdlFnNnBPamJObThkYzlvVjBKS1FBZG85U19LaVVvZjZzVy1sLVRIcWdVcDZqNVZDMFNoYkVXWDB5NTlqekl1bWs0NDZtN19hT0NPNDIyMXk0YTF4eTFCbTJZVVV5d2dKSWljbUxRSm9PTjREUXF4TWpsZXRmRGRXUGQ5TmlZeUpQZmcxQjRMMUR0SGNHenhXUmEySHlkVXM2OEpfdDR5OEstWUVBUTlxd1JCRjhyTHQ0empvbUE?oc=5)
+
+---
 
 
 <div class="disclaimer">

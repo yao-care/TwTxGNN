@@ -1,8 +1,44 @@
 {
-  "last_updated": "2026-05-12T22:52:37.417862+00:00",
-  "total_count": 23,
-  "matched_count": 3,
+  "last_updated": "2026-05-12T23:52:18.248214+00:00",
+  "total_count": 25,
+  "matched_count": 4,
   "news": [
+    {
+      "id": "74f0160330b4",
+      "title": "健康解碼｜生蛇不能掉以輕「心」 心血管代謝病患者屬高危族群",
+      "published": "2026-05-12T23:30:00+00:00",
+      "summary": "健康解碼｜生蛇不能掉以輕「心」 心血管代謝病患者屬高危族群&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOYy1NYVZFR2lYOFhfQnh0UGNDbTQyNFd0Z0FCMzJQOGd3M1JMWDV1X2Q1c1N3UGdNTThQb242RjZCcHNVMXVlbnJ6SWNTUnJ6WEJEblFzdVdtVVdWZzZtVWMzWEJqQnJCZnZWMWZaZTNiYjZaUEFwaHZINkItS1NhRENERWpRZElHRVktc3JRVEhpY0s0YUY4S2VUbkVucnhkZ3F6NUJWdTZTNG90OHdTZUFTakhpTG1sMVJoOU5wQVExMTJlV3l0UkF1Z05yUG1sVENlV29VS2l5REhnTDh4R29oTmM1VUJTMFB6aEdOYXJnT2xzdlFnNnBPamJObThkYzlvVjBKS1FBZG85U19LaVVvZjZzVy1sLVRIcWdVcDZqNVZDMFNoYkVXWDB5NTlqekl1bWs0NDZtN19hT0NPNDIyMXk0YTF4eTFCbTJZVVV5d2dKSWljbUxRSm9PTjREUXF4TWpsZXRmRGRXUGQ5TmlZeUpQZmcxQjRMMUR0SGNHenhXUmEySHlkVXM2OEpfdDR5OEstWUVBUTlxd1JCRjhyTHQ0empvbUE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "生蛇",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "486f8f9ba6a6",
       "title": "英擴大RSV疫苗施打 300萬銀髮族受惠",
@@ -377,6 +413,19 @@
         {
           "name": "台灣好報",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uNm94Ry1zemlmSUNhelZKekh6VkFzTFFKMzVPRTZtU3laVTRub3BRMTRTbjRWR2hTdUtEX0p2TXlkYUo5VE9uSHhfWVBJVkt5NXRn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "454ab400de01",
+      "title": "魚油跌落神壇？美國心臟學會最新指南揭：「關鍵成分」吃錯，恐讓壞膽固醇更高",
+      "published": "2026-05-11T10:45:38+00:00",
+      "summary": "魚油跌落神壇？美國心臟學會最新指南揭：「關鍵成分」吃錯，恐讓壞膽固醇更高&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxNcjBxd2I3R2tFSlFYLWxCYUZ0M1o0LUFLSmF3YTRLb0g5TnFPdXAxLW9PRWsyY2NLbGNSS1lpU3Y2SnE3TzUzN2RZVEpqTU9Kc0cwSjZsdnRVcjVIYUg2VEVBZnB1VzFpYlJnXzVSMTJDTks4OW9mNzVWeEw3M2trcWdvQUlSX2t0Z1BtMW1OWkUydlprQV92X1JPYm1VYWdlcFlBSkt6Tk51VEVqb1BCUjJCTVJPOGlEVkZEYXBaNXVTQlVhWWVOWjVBd2FCTEk4cTJFeU5NNnEyeGNCbS1ORGoyYVZiVVhMQlQwcFEtZ1dRdnBrNWlhb2tXRU5YQUxhcm9XTldkSVR6VmN4a3VxT1FUeFRocWZOYWQyZHR6NVlXaFRPUzF4RlI4NkNDOGptT3d6WTdVTkZpMFRBcGlCWW81cEx1VDVRQUlEalByQ2V6cHczcjUxSU14d2FFTENZaGZvUlFzbU8weWQybXQyRFNlaWhrcE9hWmZqcTZaeDkxNzZRUVk4ck03NnZ2U1p2SFplRUZBVGlSTGtJc3NFcU9hd0YtU3JnY04yQXlCT3p0RHpwN1pxdXFEZ1cxeDJ0YUlJTnJwRVJMWEdo?oc=5"
         }
       ],
       "matched_keywords": []
