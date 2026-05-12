@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-12T05:59:00.326286+00:00",
-  "count": 5,
+  "generated": "2026-05-12T08:42:09.785534+00:00",
+  "count": 4,
   "news": [
     {
       "id": "9b5a5732d228",
@@ -475,41 +475,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "64c83610c49c",
-      "title": "生活觀察｜“老來瘦”別大意，或許暗藏肌少症",
-      "published": "2026-05-11T01:09:01+00:00",
-      "sources": [
-        {
-          "name": "紫荊網",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWG1lVjRjMlZhMHh4SlEwaGREbjZyMlhpcC0xMzE3ZHZ3bVlIWWZFZm1zZGtsUVdMVHNpRC1QTjJtUncwcnZOX3NPZmFUOTVnYi05RkF5MUdHUVFDbm9ndTdUTS1FdzhYdlpJMDAzZmdsTkVjSzRYaTRtdExoSDdlN0NtUWNrR0hobDdzTVNhdWs?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

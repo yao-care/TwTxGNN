@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [健康網》一滴血驗50種癌非萬靈丹 醫揭最大盲點：找到癌症還不夠](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0TDJobUI4S2E4eVlFaXVCZzVoVEZRbzdQR2F2Y2Z1SmV3aVlYV0lKZlpaS0ZwTTJxSVZSRjRMbzloMllKdnctVVMwcXFoTXhpNGVWLWlJMnVrTF8wQjVMVThrVFTSAWpBVV95cUxQVGFWZUl6eDVjR0ZjcDF0ZnNPeEN2U21SYmFLWnh2cV9jUVQ5a2NOQWZZWFFHWTBDZXhNNjRWd3A5X1dTSHBQWE16VjI2Q3hOeERnZmhGOUlBZ0VWbUNUMVJNdGpZaTZiTWx3?oc=5)
 
@@ -56,14 +56,6 @@ permalink: /news/gefitinib/
 2026-05-11 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
 
 來源：[Oh!爸媽](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQT1FmelBnUHowZks2aDh5S3k5Y3loSnZScHh4ZHFyNHoyY05BWkRSQVZDb3c5TS1RNUdBbkwzRUEwRTFudWI0T3pQb2psZmJoeUdmcTFJY3FfNGdWZ1VBR1dVLW0ycDRLU0JnR3hnOWVkTnZhaTh3OEY4bG5xUGZ0TDAwNnBoSWtHSUd2ZnRkVk5obGQ3TEhEYWR0N1RRdzZwYlA2amlvbWZTVXFoaDFJc3ZZREFycEFjQUhsUmJ1d0xBMmQ2ODFWNTNXNzdUaEdaWHJpRVRjZW1aNFJRQ0I3Q21XQ3BNaVk?oc=5)
-
----
-
-### [生活觀察｜“老來瘦”別大意，或許暗藏肌少症](https://news.google.com/rss/articles/CBMikAFBVV95cUxOWG1lVjRjMlZhMHh4SlEwaGREbjZyMlhpcC0xMzE3ZHZ3bVlIWWZFZm1zZGtsUVdMVHNpRC1QTjJtUncwcnZOX3NPZmFUOTVnYi05RkF5MUdHUVFDbm9ndTdUTS1FdzhYdlpJMDAzZmdsTkVjSzRYaTRtdExoSDdlN0NtUWNrR0hobDdzTVNhdWs?oc=5)
-
-2026-05-11 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxOWG1lVjRjMlZhMHh4SlEwaGREbjZyMlhpcC0xMzE3ZHZ3bVlIWWZFZm1zZGtsUVdMVHNpRC1QTjJtUncwcnZOX3NPZmFUOTVnYi05RkF5MUdHUVFDbm9ndTdUTS1FdzhYdlpJMDAzZmdsTkVjSzRYaTRtdExoSDdlN0NtUWNrR0hobDdzTVNhdWs?oc=5)
 
 ---
 
