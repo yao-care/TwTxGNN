@@ -1,17 +1,239 @@
 {
-  "last_updated": "2026-05-12T02:08:57.087580+00:00",
-  "total_count": 22,
-  "matched_count": 4,
+  "last_updated": "2026-05-12T05:59:00.297433+00:00",
+  "total_count": 23,
+  "matched_count": 5,
   "news": [
     {
-      "id": "2ae6632dc1a0",
-      "title": "家裡很乾淨還是狂過敏？專家點名主因：「這些食物」少吃",
-      "published": "2026-05-12T00:41:32+00:00",
-      "summary": "家裡很乾淨還是狂過敏？專家點名主因：「這些食物」少吃&nbsp;&nbsp;祝你健康前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "9663ff7f2081",
+      "title": "2年齡斷崖式衰老內外都失控吃對抗老又防糖尿病- 健康",
+      "published": "2026-05-12T05:27:44+00:00",
+      "summary": "2年齡斷崖式衰老內外都失控吃對抗老又防糖尿病- 健康&nbsp;&nbsp;中時新聞網「這年齡｣竟是斷崖式衰老關鍵期！44歲脂肪易堆積、60歲後免疫力下降，專家揭示如何延緩老化&nbsp;&nbsp;ELLE研究指40歲起免疫力急降！醫推6關鍵營養素 甜椒1吃法維他命C暴增&nbsp;&nbsp;香港01抗老飲食新發現！專家揭黃金3要素 飯+醋降血糖/炸雞加1物防老化&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PTjB0X3FucVR4ekZnVDdieFRVMTZwTFdIUUhzcFA4SUFpTDRJaUxrOXdfY0hCUVlYR2x6S01Gd0J1VXhhRlJRWDIxWWs?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTG83clpxWmwzcWdtcHV2dldrWEtzMy1ldlA1UTZBWnN4eXgtbGVPRVhNTGhhZkpKeTBITzJkZGhqcWx2YkZvMkZ0XzFRM3cybEdyYS1IWVRiUGR5RU53bHdCdC1ncG8zSThCcXFnN3dSd05UR0FCT1l4djE4SHNWV3JHR2oxakFHSU1JNG1GYw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9b5a5732d228",
+      "title": "健康網》一滴血驗50種癌非萬靈丹 醫揭最大盲點：找到癌症還不夠",
+      "published": "2026-05-12T02:56:00+00:00",
+      "summary": "健康網》一滴血驗50種癌非萬靈丹 醫揭最大盲點：找到癌症還不夠&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0TDJobUI4S2E4eVlFaXVCZzVoVEZRbzdQR2F2Y2Z1SmV3aVlYV0lKZlpaS0ZwTTJxSVZSRjRMbzloMllKdnctVVMwcXFoTXhpNGVWLWlJMnVrTF8wQjVMVThrVFTSAWpBVV95cUxQVGFWZUl6eDVjR0ZjcDF0ZnNPeEN2U21SYmFLWnh2cV9jUVQ5a2NOQWZZWFFHWTBDZXhNNjRWd3A5X1dTSHBQWE16VjI2Q3hOeERnZmhGOUlBZ0VWbUNUMVJNdGpZaTZiTWx3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4618e743b297",
+      "title": "喘、累、腫別輕忽！醫警告：心衰竭5年存活率低，國人須及早警覺 - PChome Online 新聞",
+      "published": "2026-05-12T02:00:00+00:00",
+      "summary": "喘、累、腫別輕忽！醫警告：心衰竭5年存活率低，國人須及早警覺&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTGp6V0EwemJoVEcwVTZBcjhXNEpwN0J0cGJTeFZ3cnJCN25iWXNSaTVhc2ExRFZsZEpUTkpJVW0tc2hneUIyLWJaY0NuVi1pSWNJQmtkYXl4VmVyajdkNlU5UkdhUXM3UGtDbkwxdEo5M1c4b1F1cDZhS2RFam9mRm1tUHlubEE3MkE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -25,6 +247,19 @@
         {
           "name": "RFI",
           "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOQmhleUFFMkNQaEprVzZ5NlgwcGZUbVV1TVlPcWlidnRiZGhMUU1UQnJsZ1lZS0JMTEpxZTFRWW91aE4xNnlXSzI1dEhZTUlNLXVtWWdZb0M2b25Sd1IyM2FiYUViSF82NUdOejktdG9UMldBelpEOW9TNmp5eVdPbGFxeUNVRUlSb2NwYzFpelZUYm1JTFVwdzVEWW13N25LLVV1LTFKNzBrM0RKREp3NHF5RmkyeDEwd1ExRUlNMmVpa1VfbVJGQld2c2l3WW1YR2J4bkFSN05abEpMTDFuV2pGTVFMaVh3MWU2am5ETTVxT21SUE1fTFBZeHhHZjZIdVBhbXFDanhQNUl4UEhJTDYtLXlfOGY1MUxkRDN2dVdzR3BCV1pJd1pRd1RJVUkydklsLVozZjZNLTUxOGFoM3NfdXM0SDVlTWo0ZDYyM25MM21jYUZwUWhPRmZsSlBuOFcwLUxXMDY5RmlteC0zdi1rbUM4YVBXTHdzTVdxUGQ1OUh0Q2E0ZEE2MHo5M0lYNkZacGFDb01rQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "cae236de3deb",
+      "title": "每天打掃還是大過敏！專家揭「問題恐出在餐桌」：少吃3食物",
+      "published": "2026-05-11T18:00:00+00:00",
+      "summary": "每天打掃還是大過敏！專家揭「問題恐出在餐桌」：少吃3食物&nbsp;&nbsp;TVBS新聞網家裡很乾淨還是狂過敏？專家點名主因：「這些食物」少吃&nbsp;&nbsp;Yahoo新聞抗炎飲食｜慢性發炎致腦退化風險增88% 5類促炎食物+抗炎3營養素&nbsp;&nbsp;香港019大NG行為悄悄破壞你的免疫系統！醫公開自己每天做這幾件事逆轉&nbsp;&nbsp;元氣網生吃燈籠椒可抗發炎？營養師盤點8大抗發炎食物 這種抗氧化能力高維他命E50倍&nbsp;&nbsp;ccue.singtao.ca",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lVV9DWUgwcmM0MVhPYjNrV1V5Z1prZTJiVnJnLXRKUngxVnRIV1MtRE90MXBuVUJFdGxsWXpSc1A2eGtUbjhIcmR3NjJ4bUJZ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -72,7 +307,7 @@
       "id": "14ce92483d5b",
       "title": "預防骨鬆趁現在 太保市衛生所骨鬆肌少高風險運動營養班開跑",
       "published": "2026-05-11T11:15:28+00:00",
-      "summary": "預防骨鬆趁現在 太保市衛生所骨鬆肌少高風險運動營養班開跑&nbsp;&nbsp;台灣好報預防骨鬆趁現在 太保市衛生所「骨鬆肌少高風險運動營養班」開跑&nbsp;&nbsp;中央社 CNA骨鬆肌少高風險運動營養班健康開跑 | 觀傳媒&nbsp;&nbsp;LINE TODAY嘉縣衛生局攜手南華大學推「骨鬆肌少運動營養班」 助長者強筋骨&nbsp;&nbsp;中華新聞雲／中華日報嘉義縣「骨鬆肌少高風險運動營養班」 8鄉鎮市同步開課&nbsp;&nbsp;Yahoo新聞",
+      "summary": "預防骨鬆趁現在 太保市衛生所骨鬆肌少高風險運動營養班開跑&nbsp;&nbsp;台灣好報預防骨鬆趁現在 太保市衛生所「骨鬆肌少高風險運動營養班」開跑&nbsp;&nbsp;中央社 CNA骨鬆肌少高風險運動營養班健康開跑 | 觀傳媒&nbsp;&nbsp;LINE TODAY嘉縣衛生局攜手南華大學推「骨鬆肌少運動營養班」 助長者強筋骨&nbsp;&nbsp;中華新聞雲／中華日報嘉義縣「骨鬆肌少高風險運動營養班」 8鄉鎮市同步開課 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "台灣好報",
@@ -527,32 +762,6 @@
         {
           "name": "香港商报",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yNjNaNEFRaWpVN0c5TGt4TlRfclRkQ1Q3RWhxbDBNU185ZndoNzNqUkRMSVdYTF9ZTGFHeWMwNnRvVF8wM0lJdkoxd2JVa2hUa2FEUW5WbVk2bFktOEFSSXR1OWptVnFYZ3JYZkI2ZFY0QXZybXdsVlFsdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "deb779753d62",
-      "title": "黑甘草化合物對腸道疾病具有抗發炎作用。",
-      "published": "2026-05-10T03:31:28+00:00",
-      "summary": "黑甘草化合物對腸道疾病具有抗發炎作用。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPaEN1ajJsMU45UloxZFVFU1ROYzV2MkU0VjlCTTNjZ1ZKTW5FX2ZPR3UzN3ZDa2thTF90aGxOMFY2X3ZkaU5PMURXeE5OcXpZdHFRTXpoUlhhMjZqakYxZ09VRHUxT21Cc2tzclRDS1pxYWVEeWlHbENDdkJJaWdjNnNId3Bab1hPX0xiNlFzVkh3MFViWXVZWFhIaVNwMjRIT2dsNHNwOWJ2OVdvc3Y0UWd3WTNXOWRsU1pGSmdpaFprNDEtWXppQ090UXNZTTlLbFkzMkxxNjhkdHNrcjJ3MHpjZmNIX0QtR3AyVTBLYWhMX2JEOVlZcWJoTFQ4V0JxU1Q5cGRVUmN3X29JLTJ2TGxWT282MVNETG9kRFMyRXJCZFM3TGpocXI4MW1uTkM4X3pBOTVaTzhRaGk0NHNmRHpMMjN2R2ZRYzZ0czJSaFdobXdJWHlLRXN2Rzhpc25sdXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3e6a8a486a97",
-      "title": "市政府在 CAMM 中推廣性病檢測",
-      "published": "2026-05-10T02:58:11+00:00",
-      "summary": "市政府在 CAMM 中推廣性病檢測&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPOE1QMmxVdDlycHMtejF1aWVybDJLNWJFUFF0SW51b1Y0V2ZQbVhhUGtyLVVCOEhsd2kxRkFkaDJ2MjJfUWtxd2V2OFRNTllBSEZsS295c2FNUVV1akFOc3pWc0FqV2tJeGRqSnhMTm1DaVlJV3lGWTk2d05DOGE4d05LdkliUjJyWFBIWDVBWHZDZVprTmdFYnlJSmhwS3VsWmZRQ0VDZlNHa2p0TjJKQTFKZHBOaEZaVDhacE1iYnhaZTJSOVdOZ1VaX2J6TWFXYUtoa2plaEI1YXdQYkJXUklaUk5ZSzJ6c2VmcmdUT2h2RXpUdi04SEVEVnJGcTdGOFMtSUtBOVFzZw?oc=5"
         }
       ],
       "matched_keywords": []
