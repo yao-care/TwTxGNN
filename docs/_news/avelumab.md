@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [無不良嗜好竟確診雙重癌症 醫生揭1個常被忽略的致命傷 隨時增患13種癌症風險 - U Food](https://news.google.com/rss/articles/CBMi9ANBVV95cUxNZ1R3ZWM3ZDNsZHNFdVF3dWtUMjBxVVdmak5PSnpQRk94R1hOZU9GN2JMWWh5U3J2eHBvWVQtZzFMbGxEdmlyUXB3cFRzTHl1VHY4Zlk2bGxmbVBBSTVMdnNLM3daUlJIYnNKUlpxRmh0VzhCbFBaY0t6UHJfcERXQnNhdTRPOTRtSzNNbWhCelV1dTVFN0xUenRYNFRiZ3c0T2NDVVdQMXFUWlJSWTVYWmJLS3d4TXo4OVpkMGZSVFU2VkZKSjM2d3hpWDhNUm8yRkpqVUd0SUxUNWRuZFJUWEZsTXZHRUM0NTZoVlZHalpPeE81MXFXNllaWFpVSk5CLXZjRG5FUzBKLUY5Nkc1aVA5bkhVZFFleFIzNlVzOUlnb0R0bnhPWUhacGczbnhWdjdDdmNpMndMUkJXUEVaQWlrWGllLUpLYVpCaE5IRVhWd3lZTHIyNkZnSHJzRjdjMldHOXUybWpKNTNiR0NMX2FFcUxIOGZaeXZNdXRsVzFsbjQ5cHBFLVRfb0p4T1hfZFBWdmVwb1ZJNkI4S095c09HVmxKNnZzbDBoNGtDai1rNTVXQ2EwVVJlaEJaSmc5YzNBVGs0ZXNFRjNMRF9RdThkRlJUOU4ya0FHTXA5bDhsMzN3VVdMd3g0TUhZWFUwVW45Tw?oc=5)
+
+2026-05-13 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+
+來源：[U Food](https://news.google.com/rss/articles/CBMi9ANBVV95cUxNZ1R3ZWM3ZDNsZHNFdVF3dWtUMjBxVVdmak5PSnpQRk94R1hOZU9GN2JMWWh5U3J2eHBvWVQtZzFMbGxEdmlyUXB3cFRzTHl1VHY4Zlk2bGxmbVBBSTVMdnNLM3daUlJIYnNKUlpxRmh0VzhCbFBaY0t6UHJfcERXQnNhdTRPOTRtSzNNbWhCelV1dTVFN0xUenRYNFRiZ3c0T2NDVVdQMXFUWlJSWTVYWmJLS3d4TXo4OVpkMGZSVFU2VkZKSjM2d3hpWDhNUm8yRkpqVUd0SUxUNWRuZFJUWEZsTXZHRUM0NTZoVlZHalpPeE81MXFXNllaWFpVSk5CLXZjRG5FUzBKLUY5Nkc1aVA5bkhVZFFleFIzNlVzOUlnb0R0bnhPWUhacGczbnhWdjdDdmNpMndMUkJXUEVaQWlrWGllLUpLYVpCaE5IRVhWd3lZTHIyNkZnSHJzRjdjMldHOXUybWpKNTNiR0NMX2FFcUxIOGZaeXZNdXRsVzFsbjQ5cHBFLVRfb0p4T1hfZFBWdmVwb1ZJNkI4S095c09HVmxKNnZzbDBoNGtDai1rNTVXQ2EwVVJlaEJaSmc5YzNBVGs0ZXNFRjNMRF9RdThkRlJUOU4ya0FHTXA5bDhsMzN3VVdMd3g0TUhZWFUwVW45Tw?oc=5)
+
+---
 
 ### [皮蛇長一圈會致命？營養師揭「神經痛」才是折磨、點名4危險族群](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jd0JMMHl4SnlPWEd6R29WNG5PMU8wcEV4UDNmZUowVXdsVk1tZ1Q2ZjRseGFNcjVPRlVTX01Zc3N5eHRsVUhidnA2aHF2WFl3YkRYYnVCa1BORTRiTWxpVg?oc=5)
 
