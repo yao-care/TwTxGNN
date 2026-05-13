@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,21 +34,13 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [健康網》一滴血驗50種癌非萬靈丹 醫揭最大盲點：找到癌症還不夠](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0TDJobUI4S2E4eVlFaXVCZzVoVEZRbzdQR2F2Y2Z1SmV3aVlYV0lKZlpaS0ZwTTJxSVZSRjRMbzloMllKdnctVVMwcXFoTXhpNGVWLWlJMnVrTF8wQjVMVThrVFTSAWpBVV95cUxQVGFWZUl6eDVjR0ZjcDF0ZnNPeEN2U21SYmFLWnh2cV9jUVQ5a2NOQWZZWFFHWTBDZXhNNjRWd3A5X1dTSHBQWE16VjI2Q3hOeERnZmhGOUlBZ0VWbUNUMVJNdGpZaTZiTWx3?oc=5)
 
 2026-05-12 <span class="news-indication-tag">癌症</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0TDJobUI4S2E4eVlFaXVCZzVoVEZRbzdQR2F2Y2Z1SmV3aVlYV0lKZlpaS0ZwTTJxSVZSRjRMbzloMllKdnctVVMwcXFoTXhpNGVWLWlJMnVrTF8wQjVMVThrVFTSAWpBVV95cUxQVGFWZUl6eDVjR0ZjcDF0ZnNPeEN2U21SYmFLWnh2cV9jUVQ5a2NOQWZZWFFHWTBDZXhNNjRWd3A5X1dTSHBQWE16VjI2Q3hOeERnZmhGOUlBZ0VWbUNUMVJNdGpZaTZiTWx3?oc=5)
-
----
-
-### [85kg少女以為純粹發胖惟持續腹痛就醫揭20cm腫瘤確診卵巢癌醫生：早期難發現附6個徵狀/7類高危人士|](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQT1FmelBnUHowZks2aDh5S3k5Y3loSnZScHh4ZHFyNHoyY05BWkRSQVZDb3c5TS1RNUdBbkwzRUEwRTFudWI0T3pQb2psZmJoeUdmcTFJY3FfNGdWZ1VBR1dVLW0ycDRLU0JnR3hnOWVkTnZhaTh3OEY4bG5xUGZ0TDAwNnBoSWtHSUd2ZnRkVk5obGQ3TEhEYWR0N1RRdzZwYlA2amlvbWZTVXFoaDFJc3ZZREFycEFjQUhsUmJ1d0xBMmQ2ODFWNTNXNzdUaEdaWHJpRVRjZW1aNFJRQ0I3Q21XQ3BNaVk?oc=5)
-
-2026-05-11 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
-
-來源：[Oh!爸媽](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQT1FmelBnUHowZks2aDh5S3k5Y3loSnZScHh4ZHFyNHoyY05BWkRSQVZDb3c5TS1RNUdBbkwzRUEwRTFudWI0T3pQb2psZmJoeUdmcTFJY3FfNGdWZ1VBR1dVLW0ycDRLU0JnR3hnOWVkTnZhaTh3OEY4bG5xUGZ0TDAwNnBoSWtHSUd2ZnRkVk5obGQ3TEhEYWR0N1RRdzZwYlA2amlvbWZTVXFoaDFJc3ZZREFycEFjQUhsUmJ1d0xBMmQ2ODFWNTNXNzdUaEdaWHJpRVRjZW1aNFJRQ0I3Q21XQ3BNaVk?oc=5)
 
 ---
 
