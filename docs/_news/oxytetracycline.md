@@ -14,7 +14,7 @@ permalink: /news/oxytetracycline/
 ---
 
 <p class="key-answer" data-question="Oxytetracycline 有什麼相關新聞？">
-<strong>Oxytetracycline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oxytetracycline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/oxytetracycline/
 <p><a href="{{ '/drugs/oxytetracycline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [練鐵人、吃魚油能防心臟病？權威醫真心勸：這2件事更關鍵…護心不追求極端養生「快樂更重要」](https://news.google.com/rss/articles/CBMie0FVX3lxTE5BX19vSnBxNjFLdDA0WUhHbHhLbTRiUEE3SVpKRjRFWldJZWJfTF81LWhnYU53MVAyMzF4UUhUaVd6cl9ZMWNxVzhPcHJoVG5jcjRNLUNiZXgxVGZFQ01ESENyZ214aDJsVHZrcEdFNEpZcWFvWFJnM2Y2RQ?oc=5)
+
+2026-05-13 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
+
+來源：[幸福熟齡](https://news.google.com/rss/articles/CBMie0FVX3lxTE5BX19vSnBxNjFLdDA0WUhHbHhLbTRiUEE3SVpKRjRFWldJZWJfTF81LWhnYU53MVAyMzF4UUhUaVd6cl9ZMWNxVzhPcHJoVG5jcjRNLUNiZXgxVGZFQ01ESENyZ214aDJsVHZrcEdFNEpZcWFvWFJnM2Y2RQ?oc=5)
+
+---
 
 ### [健康網》一滴血驗50種癌非萬靈丹 醫揭最大盲點：找到癌症還不夠](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0TDJobUI4S2E4eVlFaXVCZzVoVEZRbzdQR2F2Y2Z1SmV3aVlYV0lKZlpaS0ZwTTJxSVZSRjRMbzloMllKdnctVVMwcXFoTXhpNGVWLWlJMnVrTF8wQjVMVThrVFTSAWpBVV95cUxQVGFWZUl6eDVjR0ZjcDF0ZnNPeEN2U21SYmFLWnh2cV9jUVQ5a2NOQWZZWFFHWTBDZXhNNjRWd3A5X1dTSHBQWE16VjI2Q3hOeERnZmhGOUlBZ0VWbUNUMVJNdGpZaTZiTWx3?oc=5)
 

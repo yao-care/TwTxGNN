@@ -1,8 +1,160 @@
 {
-  "last_updated": "2026-05-13T02:14:36.434734+00:00",
-  "total_count": 25,
-  "matched_count": 4,
+  "last_updated": "2026-05-13T06:18:42.232804+00:00",
+  "total_count": 26,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "d82794337acc",
+      "title": "練鐵人、吃魚油能防心臟病？權威醫真心勸：這2件事更關鍵…護心不追求極端養生「快樂更重要」",
+      "published": "2026-05-13T05:55:00+00:00",
+      "summary": "練鐵人、吃魚油能防心臟病？權威醫真心勸：這2件事更關鍵…護心不追求極端養生「快樂更重要」&nbsp;&nbsp;幸福熟齡魚油跌落神壇？美國心臟學會最新指南揭：「關鍵成分」吃錯，恐讓壞膽固醇更高&nbsp;&nbsp;康健雜誌降血脂藥「史他汀」輸了！魚油是洗腎患者的心臟救星 中風狂降43%&nbsp;&nbsp;Yahoo新聞三高的人只吃魚油不夠！專家揭一關鍵：ECNS+QH才能讓心臟真正有力&nbsp;&nbsp;壹蘋新聞網魚油神話幻滅？美國心臟學會：揀錯1關鍵反而唔健康 營養師教6大實用選購貼士&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "幸福熟齡",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BX19vSnBxNjFLdDA0WUhHbHhLbTRiUEE3SVpKRjRFWldJZWJfTF81LWhnYU53MVAyMzF4UUhUaVd6cl9ZMWNxVzhPcHJoVG5jcjRNLUNiZXgxVGZFQ01ESENyZ214aDJsVHZrcEdFNEpZcWFvWFJnM2Y2RQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f2f2508e11a5",
+      "title": "5歲女腦瘤如蘋果大走路不穩頭痛送院 腦幹受壓險喪命附腦瘤症狀",
+      "published": "2026-05-13T03:00:22+00:00",
+      "summary": "5歲女腦瘤如蘋果大走路不穩頭痛送院 腦幹受壓險喪命附腦瘤症狀&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxQajdhUGhib2d0RE92cFh5b1l0d3A4YlMydkpBelN4a3hHS2ZtcTNEWjE5WXRPSmRFR2dFeEl0WE5IUG9teGFyMm5PMEZHcDhmeFcyb25MRlhpdjFOU2dOb1hqS1huSXRkTll2VENiU3ZjZXcycGRCRXVDVTM2Yml5cWo4RGFUR0pxZlJDdDB2SEFRRmhfR3NYZXVaWUV2VHphd05GUWc2emFqSHJGWXhLaExYM0d5WUhkOHhVSEdMQXJtaXotckk4b0k1ZHRybjI4OFR6Q09FMmxUalFZcUU5OEx4a1J5TlgyS0Rjem9oeHVrRDNwbjhodTdpcU9oamk1RVdDQU1pdXFxbWQyaW1uVllGNExHN3N0ZWRHZWxqTV9TNU9Ya2V4Q21VY20wTDJvNjZmU3lmcDNJZm04bzZDQ2NXRUFNMmdsQ0dfdmJTTkFzM3c5OTFvdHp0eW1NNDVsejhUTDlMV2tQOWIxOG04Z3YweU1mZEd2ZS1JaGN4LTBmQlZYenBDczlqZTVrSVkzUlJzWEZWeXRoMld5Y3JEWFE0MTlxaXhETU9oTGllMzE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c8039597bd21",
+      "title": "科學家在抗衰老方面取得重大突破，使衰老的血液幹細胞再次年輕",
+      "published": "2026-05-13T02:51:33+00:00",
+      "summary": "科學家在抗衰老方面取得重大突破，使衰老的血液幹細胞再次年輕&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOMVM4YWtnZk4tbnJ1Vkh2dFVVajgyMl83bDBaS0hpbno3TDFJVFhLR1dhdWd3Y09tb0FPdWhPSUJKUXp1eF94cHhrTmJ0b0FKUUo0MGREWGc5d21RdGtfcWxNbjIzempaNGZId1pXa3NoQ1h4TFlORE16M3NLM3hraVYxZ0hBNmlTME5vVDd4RVo0YnNIVHlPRDhqUGRlWHBEVHl2V0dWNlE3VHZEUUdEaHJwNGxSbUZwMlFEbk9EZUZNS1R4czRCZ1k1dDlvZi1Cd1pfRll1RC1SUk10b2NhaklnNDhzdUhfMmtUUl9HYm9KeEVKV1Q1YWVYTmFGQXhZc0paZ3Rkd1RqaVZjVHpDVWVyM09VOGk1MjMwN2d0Tm5yR3F3VE9KVXV6Q3FNRVhOY0JtOEFXUzZLOGdKUHNjMmhpUnZIaFlYb281LXVwT3kzZjdtdzlhdzlINENrVnpIWUVMSUJ1d01pNmNqMlpkSWEwcmRXVThUMWkzb3p4Z29jLU9KX2c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "aa86548ad614",
+      "title": "科學家發現小兒麻痺和一般感冒病毒共有的弱點",
+      "published": "2026-05-13T02:15:01+00:00",
+      "summary": "科學家發現小兒麻痺和一般感冒病毒共有的弱點&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOQXlXaEFZWGlZbnYtcXlZN0J0aHFnNF9PdFRaNy1jR19OcXEyMk1YbjlBZFJHbG5sNjdiWUc4WmFScTR6Y1kzRFZNZTBkdVRFMm12UjN2aW94dFFEMS1CMU1vWTZtc2tXRktXUjlWcTc4T2hqckZXbnhaTXZmS1RVWGxzT2oxeXNPRlQtMnFERjdoSzVVaVM1U3c3a3d1cUJHVkxkLUVjTnFDZUZpRGVtdjByTmNIaTBWZldRR2w5cHE3VXFXUmVRRzllQ0E0MlJTbFZIZ0gxMGRwemZBWVp5ZmpZOGZFbVA2cEVDSFkwS0tNMFBGLTBkN3AwRmoxS0pxRTlTYV9ac293MjZiTXQ5ZVItVkg1OHE0RDBMOVcwLVlDN1V3YS1ZNC1sWDBpVWJfcldSX19YVDcwZnZCTVhrMExLdTh5OVlOUl9tVUVtbW4yNmtOemYzR2hSaEdmWTVpRlZSM1M5Q01RaTVfeWhjYW5neE5aTjY0Z2c?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c9009816f327",
+      "title": "防疫缺口RSV襲長照醫界籲納公費疫苗｜感染科｜醫療",
+      "published": "2026-05-13T02:14:16+00:00",
+      "summary": "防疫缺口RSV襲長照醫界籲納公費疫苗｜感染科｜醫療&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVmIyUXFvV0xYNWNaWGFJSUVtU1RCbFFsU1hUU1JaYWQzdzVpSGxFUEZnenk2cS03V3R5TE5lT2pOZE90eUV5WEsxaHVRd2Y5UGxUMm93UW1Vd21kZVJJenFpWW1HWmhiX0JWTW1XUURFaDFOSjYydW14MVp4VE5ic3lB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "5f8b9e5076d2",
       "title": "皮蛇長一圈會致命？營養師揭「神經痛」才是折磨、點名4危險族群",
@@ -44,19 +196,6 @@
       ]
     },
     {
-      "id": "74a0dcd55214",
-      "title": "亂傳「漢他病毒是BNT疫苗不良反應」假訊息 北市婦人到案送辦",
-      "published": "2026-05-13T00:33:39+00:00",
-      "summary": "亂傳「漢他病毒是BNT疫苗不良反應」假訊息 北市婦人到案送辦&nbsp;&nbsp;自由時報假訊息「漢他病毒是BNT疫苗不良反應」 調查局溯源查出散布者移送法辦&nbsp;&nbsp;Yahoo新聞網傳「漢他病毒是BNT疫苗的不良反應」 調查局逮散布不實訊息婦人送辦&nbsp;&nbsp;聯合新聞網涉散「漢他病毒是疫苗不良反應」假訊息犯嫌送辦| 社會&nbsp;&nbsp;Newtalk新聞網路散布漢他病毒不實消息 調查局查獲1人送北檢偵辦 | 林益民 | 新聞&nbsp;&nbsp;風傳媒",
-      "sources": [
-        {
-          "name": "自由時報",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yeE1sd1QwY0lFaG9uQjJhZ1hWLXpnWUdZdXFYdlNFQmY2d1U5SHM1STBKNXNqb2lQUllRZkJ5V1hsWVRDeEpVQnpzZVZnTnFQc2xteW1leVhaZjFkUEFSUFhuR19FZHNN0gFuQVVfeXFMTTcxZzFxaGZ1Wl9wYk9aWkloTnlSSTJ2OVlvMWJUNmV5dzA2MENiTzh4c0JWSEZhSlhWcTNNWnFTN1JKZ3pBcFRsM3E1c0JLODhXSlU2M3JrM0I5ajQ5S2MyaWwzZEZkQi1US2dfRXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "a4d68f683f93",
       "title": "巫苡萱《醫學大聯盟》暴瘦10公斤？研究驚爆：深厚友誼讓肥胖風險暴增 17%",
       "published": "2026-05-13T00:16:17+00:00",
@@ -70,19 +209,6 @@
       "matched_keywords": []
     },
     {
-      "id": "486f8f9ba6a6",
-      "title": "英擴大RSV疫苗施打 300萬銀髮族受惠",
-      "published": "2026-05-12T16:00:00+00:00",
-      "summary": "英擴大RSV疫苗施打 300萬銀髮族受惠&nbsp;&nbsp;聯合新聞網",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16WTJVbTUyMlo1LTNWd1hQYXRsNGtjamh1ZHRzMUJnMmdZTEl2QVhBOExHLXAtVVJkVUlDMEFyTl8yejNjb0JwVkI5SzFSLXZ60gFWQVVfeXFMT1AxVjRaaWhKYl9WakVpV1l0WEpfa09WSktTQ3VVMEJieDNVTjdsRXpQWUo1Zm5LYnBrWWEtRDJQZ3g5dW9FNzNXUjdJZnJfcDAzQk9BV1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "3cadf8beeaba",
       "title": "科學家表示，這種藻類可以去除飲用水中的微塑膠。",
       "published": "2026-05-12T13:31:39+00:00",
@@ -91,19 +217,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNQ0FsVE0tLVBZQjBoRTlKWFlHVWM5ZzRwX243U2RWRGtwMWgxaXo5UF9FX3ZHejNwbmtQN1lhMXltbXpiTlhUR1FFT3lhUXZPVF9fR21JckRlaEROaUZ6SXlhb1JOa3YzVUFvbXpoMWVsR0FwdHE3U3ZHTlRQUEVVX2pvWnl2cEZMMEQ0S1V1a0lJNTFDM1RrTmlyaE1EV25yeUVxOGlKRTh3N1U4WDMzcTZGSWRkYVc3ZXZQLU40dDYyRHZZSUxwZVJvcDFqOE81WFBYZ0xyN3BNdG1Qc21CZ3psS3E4UHBZZ1lwVG14NEdCOW44UTgwUjhkZzV2RUlZWDk0QldKcGdrR0VqQm1HcE1EekhFSEc2S01rR1NwZnd6TVlHM0ZDTFJjSkdnb1VzMTk2UFhicDBwS29VZ3h3MmNNZ2w3ZFlCYlRjTEhJdEtnYUJ0aEtxMWl6cmJmZm5lTEY2ZDFRWFFvM3V1WU5qMFVLYm9YM3Q4TGdldUdpd2xuN3BJLXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7721d3fd72ed",
-      "title": "伊利湖發現兩具遺體　包括7歲男童及53歲男子",
-      "published": "2026-05-12T13:27:13+00:00",
-      "summary": "伊利湖發現兩具遺體 包括7歲男童及53歲男子&nbsp;&nbsp;singtao.ca",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOdnZOSGJwRDQwM3hWUjJtbVRUd0hqdnV4T1B3QV94SW1UX2tTT2NkaVFMcXdyVmp0U0ZKQ2l4ak9UN3VtRzhOS0c2cHBOUDZGLXYyNmZiVUxaTHA3STJDbEsyV3ZqUzdld1g4VzV1eENKem9DSFIxZm1TMFJ0d3pYTlpqLVhiMTl4UEpkTThMbklReHV3NmNGNjc3UF94eDRxa2xHQkZCc09kczRWNG1QUExobXk1UkItenZIVE5kTlZ6cnB1LUhoN3NiY0J1c1E3N0h1QUdiOThvWV9PblVZOEV1OEpSblRjb0tqLVYwNDFacVBSYnFaeGJMYmFCZkdaNXNWNUJ2Y2VqSllFQTVNYmtqUUIwdkdHODUzRjRXcTZ2WDhXOFNfWHpNRGQyOUtkd2QzTXFmYlpXZXZ5N21YXzhQZTXSAYoBQVVfeXFMTTRvVF9zZUloVGdyNEd2SnkzUEVDN0F3clF6bmNNeXBGZHRPdHo0c25JbktyS1IyM0JKcnZGcUNWOGREMWNtQXNtQVJqM2wwdEZaaERsTVlkc3ZSRWN5cUtVMVctLTVxVjRydFFHYTUxbFltM0dVRUwwZU53N25FMHpodENqZjBaRlB3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -130,6 +243,19 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oMjFLRDdvb3ZvTXk5ekQ0V1FVQm1jd3FjbDZpdzA1N1k3U3FPMk1VcUV6YkdaTjFyaTBUQzBfQlNTRXpleVdNVjYwWXRKN21kN3BSYzd2aXJ6bzV5OEw3aWpUbG7SAWpBVV95cUxPU3VCaTNheW81WTF4UEFjc2ZHUHhwUzhMWm5lN0Vxc0JVcERmVXY1LVJoUUxBMzBEN3FvWS1mS2Rma0VRSXFjcXE0ZG5rUTdNTUVLOXJ5UXh5S1g4MGlLbHNFTFVTbWRRcTRn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9c8dd4a2d173",
+      "title": "81歲李家鼎健康亮紅燈 曾暴瘦20磅「捱出胃病」 手震仍堅持開工 專家教每日做5小事防長者疾病",
+      "published": "2026-05-12T09:02:07+00:00",
+      "summary": "81歲李家鼎健康亮紅燈 曾暴瘦20磅「捱出胃病」 手震仍堅持開工 專家教每日做5小事防長者疾病&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMiogRBVV95cUxNX3RkVkQ1TXlJSzJ0MUJZUXl1eHNNc2hPdGJpSG40Q05PSHViWnlwV0V2bFRwcGNudnc0SktLRngwWXBDU3Q0b2dtWkJhS2FoNVU0dzFrT0Z2c0RFQm5Vd0NnT0lyeGJDVV9aQVlLeXVjSE5TbjMtXzhYcklYby1DbnQ4M1lSbGl4b0ctWUVBTnY5cWY4MTZhTFl0WDFGdDZWU2ZnbDh3dWR6eU8zU2RNWEwyd21rTV9LSjJ0WDAzOVJOaDhtZ2NHQnJQbDlsRFdFQlVhR205YkJxQnM3TXdKMi14YzJ0U0RHaVl3M0hQNEFUM2ZPc3prN0lmeDdhN3hoampYM3AyZ0hNRXRXR0xHblhYS24xRUc3QnE4cVpVenhvbzE5QjhpT0NrQ25OTWFqOUdBN1ZaMWx4cnJLU2R3ZkI1ajQ4Rmpoa3huT0NYWkFxNG1tc2tJYnFnbzZPLXFBVkM4X1E4WkF5SG1fZG41OFpDemtmYkxmQmJDY2x1NEc3a3ZoMHByNHFDYmRWZVJSY0JueXRrRm0wYWFZMHlTTllWcGcxQVI1YnZFQ2tKanlKOURYZllIRmdZeTUxMllkVEZwajh5aGpuUGNiVVh3M0xDdFdIOGVTUXRTYVMzMl84TkhyTHZyR1NON1M5SHpGcnptNzVfalNlYWhVV1RUeHRPUFhfbDlNZkZQTld3aWZNZjBfMzhxTFRtamdDZkViRFE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -164,7 +290,7 @@
       "id": "c082e6bd4194",
       "title": "男赴日洗泡泡浴！回台驚「沒壞壞」中鏢菜花 醫揭5關鍵：手也會傳播",
       "published": "2026-05-12T06:16:32+00:00",
-      "summary": "男赴日洗泡泡浴！回台驚「沒壞壞」中鏢菜花 醫揭5關鍵：手也會傳播&nbsp;&nbsp;祝你健康赴日洗泡泡浴…男「沒壞壞」衰染菜花！ 醫揭5大暗黑地雷&nbsp;&nbsp;ETtoday健康雲赴日洗泡泡浴…男「沒壞壞」衰染菜花！ 醫揭5大暗黑地雷 （示意圖，非本新聞當事人／李綜合醫院提供）&nbsp;&nbsp;facebook.com赴日洗泡泡浴「沒壞壞」竟長菜花！醫示警：接觸皮膚就會得- 生活&nbsp;&nbsp;中時新聞網",
+      "summary": "男赴日洗泡泡浴！回台驚「沒壞壞」中鏢菜花 醫揭5關鍵：手也會傳播&nbsp;&nbsp;祝你健康前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "祝你健康",
@@ -409,6 +535,19 @@
       "matched_keywords": []
     },
     {
+      "id": "262c51500fb9",
+      "title": "健康網》抗老不用狂健身！ 研究揭每天7分鐘 健康壽命多1年",
+      "published": "2026-05-11T22:14:00+00:00",
+      "summary": "健康網》抗老不用狂健身！ 研究揭每天7分鐘 健康壽命多1年&nbsp;&nbsp;自由健康網運動能逆齡回春！醫公開最強訓練法 持續12週效果驚人&nbsp;&nbsp;PChome Online 新聞3個月就能讓身體「逆齡」近1年！醫揭最強抗老運動菜單&nbsp;&nbsp;TVBS新聞網日花7分鐘就能抗老！研究曝微調3習慣 健康壽命多1年&nbsp;&nbsp;中時新聞網3個月「逆齡」近1年醫揭最強回春運動處方- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NLWZHTGhfcDhRNW14UzVfc3M1Xy1MU2pBZ3ZNdUo1UXBNRFpLZXNwSldEeDdNOVkwOVFhbTRzRjRKaGRIeXVSbGxqRzZQbl85VmpjU002SmI1OGs1TVVFalJiOWPSAWpBVV95cUxNZE92Wm5tWFFBZEZldjR6UkU4SFV6VG9sQ2prc0tYRkJSNEM4eDdSOWppVHhIaTBUS3NySTVUd180SXNSbTIybkZlZENld1JVT201WXZoRkd1bU0wdG5PTlZIa20zOEZwc293?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "d7601cd9d9fd",
       "title": "偏頭痛竟然和天氣有關？空氣污染、高溫和濕度都會加劇偏頭痛 - Vogue Taiwan",
       "published": "2026-05-11T14:46:30+00:00",
@@ -448,19 +587,6 @@
       "matched_keywords": []
     },
     {
-      "id": "454ab400de01",
-      "title": "魚油跌落神壇？美國心臟學會最新指南揭：「關鍵成分」吃錯，恐讓壞膽固醇更高",
-      "published": "2026-05-11T10:45:38+00:00",
-      "summary": "魚油跌落神壇？美國心臟學會最新指南揭：「關鍵成分」吃錯，恐讓壞膽固醇更高&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxNcjBxd2I3R2tFSlFYLWxCYUZ0M1o0LUFLSmF3YTRLb0g5TnFPdXAxLW9PRWsyY2NLbGNSS1lpU3Y2SnE3TzUzN2RZVEpqTU9Kc0cwSjZsdnRVcjVIYUg2VEVBZnB1VzFpYlJnXzVSMTJDTks4OW9mNzVWeEw3M2trcWdvQUlSX2t0Z1BtMW1OWkUydlprQV92X1JPYm1VYWdlcFlBSkt6Tk51VEVqb1BCUjJCTVJPOGlEVkZEYXBaNXVTQlVhWWVOWjVBd2FCTEk4cTJFeU5NNnEyeGNCbS1ORGoyYVZiVVhMQlQwcFEtZ1dRdnBrNWlhb2tXRU5YQUxhcm9XTldkSVR6VmN4a3VxT1FUeFRocWZOYWQyZHR6NVlXaFRPUzF4RlI4NkNDOGptT3d6WTdVTkZpMFRBcGlCWW81cEx1VDVRQUlEalByQ2V6cHczcjUxSU14d2FFTENZaGZvUlFzbU8weWQybXQyRFNlaWhrcE9hWmZqcTZaeDkxNzZRUVk4ck03NnZ2U1p2SFplRUZBVGlSTGtJc3NFcU9hd0YtU3JnY04yQXlCT3p0RHpwN1pxdXFEZ1cxeDJ0YUlJTnJwRVJMWEdo?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "7c81fc6ecf2f",
       "title": "納蘇縣數日兩宗麻疹",
       "published": "2026-05-11T10:00:00+00:00",
@@ -469,6 +595,19 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVkRibGtzNm1NeDJMU1VmcG00RVc1UmdDQUwtbkxhRmxsV2ZXOW1KNkhPVXZ6QkM5dEZabkxqX2ZsdmMyMU9TMHVxRVNsdHhLRFFfOG5oamU1ZlBRcW9QVl8zai1LbEd1ZGp2enpfbV9QNERtV3ctbzFqX0xFM050RA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3c85c7f240e9",
+      "title": "梁振英連環遇上「水費」及「滲水」騙徒 提醒網民提防騙子",
+      "published": "2026-05-11T09:50:00+00:00",
+      "summary": "梁振英連環遇上「水費」及「滲水」騙徒 提醒網民提防騙子&nbsp;&nbsp;香港商报",
+      "sources": [
+        {
+          "name": "香港商报",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nNDRjZmpLM2pLSGZtalY3aTFsbzNHTWhfNzFObzRMVkNpQ2dyQXdaX21xeGl3bU9ERjlmS25uMUl5QmQ2REd1VHA4WmFCVmZwWkY3NmFDSzhfbnN1YlpPUm5vZlVSbngwXzdlWXVCdlM5QkdLMnFrUUdCMA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -706,80 +845,6 @@
         {
           "name": "香港文匯網",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HbUxfN2pGVzF6QnNsdDR3QlQyOEI3WjgwUkltZVBUYzVXNFU3TG00bnVXdEt6ZkdGZS1wMHQwSEttVjhPMFhYNFZQNmNweUktWTM5cXdGZzlIVmVmVXJodUxsYXRGdV9vVnk0SVJuWFNmVks1cmdV?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "86565756f449",
-      "title": "研究人員開發了人工智慧工具，用於早期檢測隱藏的肝損傷",
-      "published": "2026-05-11T04:11:10+00:00",
-      "summary": "研究人員開發了人工智慧工具，用於早期檢測隱藏的肝損傷&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPWHo0WDRNZ0VNQUQ1LXlkMlZmVUNQQm1RbXZMbHY0ZnVzYkRNV1Q0UnlkOVpwaEIydmF1dW45MUhRcVZ3Vy04Znh6SE55VlFpelk4dmtTa0trUjh4NEpBR1hiejhDOURWVVFHV1A2T21MMkdrS2szV3FVNHd4eFM5SUQ3VE9rb0J1X3JIUGhoaXJsQTlBVTZHMG1NZm03bTZtRmFSNENPLW56NTJlYnhzSDM1bUNPV1k1cEZTTGlxQlRSU082YndlMWhLZDMzbmtmV3AzWFRZdVlwMUFCOWg5Z20yMGRXODd3dmVRWFJaUlI3OTFQazdmSnNHRmtVaEpNdXJwUjY5Z0hnWXRoUkpXVWtiMWMtbUE1M1hvNVZobl90dFhVbUdXSUFDOUMzVHIxYVBWMmtXanZ6TFZrUDRScDZHQjl3WUlzeEpHNzFabnZITjkxVkNXMmZNejRfR000M2I2dFktTjVVWXR5U205RE9jVDI1QU1xMnE5VE94MzB5SHpMNFE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "73f2c1d6370f",
-      "title": "20％人體內藏這種細菌 研究揭可能一步步誘發大腸癌 | 自由電子報 - LINE TODAY",
-      "published": "2026-05-11T02:06:46+00:00",
-      "summary": "20％人體內藏這種細菌 研究揭可能一步步誘發大腸癌 | 自由電子報&nbsp;&nbsp;LINE TODAY20％人體內藏這種細菌 研究揭可能一步步誘發大腸癌&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBacS1OZi1lZVhVUGNKOFAzdm1aSjMxcHA5OVYybE1ISlpuY0kxN1lpMkhyYlZzVHdfTXhMYktwTThLNjlYZUZLWDc4M2lqMHlKM1FLY1J3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a762d3ee6083",
-      "title": "大腿粗竟是抗癌優勢 降血壓和患糖尿病風險 3方法養出長壽身材",
-      "published": "2026-05-11T02:02:53+00:00",
-      "summary": "大腿粗竟是抗癌優勢 降血壓和患糖尿病風險 3方法養出長壽身材&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQLVlwdjBRai1aWnFFLWtCSEFhMlFhQzRpa0Rfak5QY21fVTNjeV96TmxGRGU0OVpSYU1vUy0xUWdwWWtZUkJsbFhpbHcwckxCM3VGT2FyZnNjdXNUU2hndHQwdUlFQko4X2txUno1S2QzTW5RSExwNl9HYzE0cEZla2Y5S3dTR1kzaGdhUFQxRS1IU3R2ZFVsWTBkYVUyZm02dDE3RXpIMDc2aWs4XzhJTlc5LXBGWlFEaVR6emtqbDRGLTVZcVpLbFNYb0dQYVVKem9UbGdzRk9tS0E1TlJFLTZhcUJfQzl2ekZEWW9leXhteFJzUGxpWTNCVDQ0S3k4eWdIY2ZBQk1yRUlkOHZGekg2RjV0bm02YmFLSER0YU1WN0Q2aHlRaFBPdV9JZW1fQkZ6S0VRRldWbnZaVjdyRDU4QWltN3hFOVJTUXVHYW9CQVVYSUFoMzEwZnNFSFVOanFPOElqSEdjSVBsbjUtUEtDQ2RqZmcxeE04WE1uOFhvS3NDM0JydXhwTGthelg1cGZjMURQRUxvc1Nra0hjbW9XYnpUTUkwLWZz?oc=5"
         }
       ],
       "matched_keywords": []
