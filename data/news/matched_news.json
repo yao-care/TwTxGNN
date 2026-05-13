@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-13T09:36:20.844813+00:00",
-  "total_count": 27,
+  "last_updated": "2026-05-13T11:56:08.689803+00:00",
+  "total_count": 24,
   "matched_count": 4,
   "news": [
     {
@@ -25,32 +25,6 @@
         {
           "name": "客新聞 HakkaNews",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zZnQxdW9Dbm5sTklzQkVOc1BhbUhmQXlHR1YybW5UQnJ4NjRxd2NJT0pjTUZDRnpmSU1ZODhiWEkxSzVnZ0VxOHlJaDI0Nk9T?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d56d2bcc948a",
-      "title": "「我好叻」社區健康推廣計劃 - Centre for Health Protection",
-      "published": "2026-05-13T07:14:09+00:00",
-      "summary": "「我好叻」社區健康推廣計劃&nbsp;&nbsp;Centre for Health Protection",
-      "sources": [
-        {
-          "name": "Centre for Health Protection",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqcmowQVFwUjdQOG9ReDl4ZmRxY21hZnJqXzAtN0RLb08wYW9ERG1XbVUwRlBmaU5MRnVqOUdwX1dOWllwSjIyR2E3cDUtLWo4bGp4VmsxUEZ1UQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2b8b0ae22794",
-      "title": "無糖甜味劑或模仿果糖有害作用 研究：造成脂肪肝風險",
-      "published": "2026-05-13T07:02:00+00:00",
-      "summary": "無糖甜味劑或模仿果糖有害作用 研究：造成脂肪肝風險&nbsp;&nbsp;自由健康網果糖促癌？醫揭真相1類糖易肥快老傷肝！預防5招 無糖比含糖高危&nbsp;&nbsp;香港01科學家表示，這種常見的甜味劑可能會悄悄地改善你的新陳代謝。&nbsp;&nbsp;arch-web.com.tw研究顯示無糖甜味劑會增加肝病的風險&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FTno3UzFMUE94bXA0ejA3allSN3FUbmpYd0JKdzZaVGpCb2FUTXdFTk0wZ3ZLTGh4ZFUwREJNRDN3MDl4N0pkR25xT096ZDNRVzB0Q0ZmdHZobnJpQ3plMVZEZkjSAWpBVV95cUxPa3I2bTZXV2tvWTBEdHlzVE82bXpPaTlma0xhdWN4T1MtOE9tWmJOQU1kM09zVEJNUXM5ZUZRRlNsczdBNTVGNS03MEZIRUtUeEg3ZHlpdHhmTVUyM1JqWW5COVZRUzlKald3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -147,7 +121,7 @@
       "id": "3f8f2e95f602",
       "title": "旅遊達人梁芷佩硬扛發燒失敗病倒送醫 確診甲流憔悴臥床無奈停工",
       "published": "2026-05-13T05:30:50+00:00",
-      "summary": "旅遊達人梁芷佩硬扛發燒失敗病倒送醫 確診甲流憔悴臥床無奈停工&nbsp;&nbsp;香港01",
+      "summary": "旅遊達人梁芷佩硬扛發燒失敗病倒送醫 確診甲流憔悴臥床無奈停工&nbsp;&nbsp;香港01流感殺到 旅遊達人梁芷珮確診甲流 「醫生話而家社區爆發緊！」附9大症狀及預防方法&nbsp;&nbsp;星島頭條「旅遊達人」梁芷珮突發高燒 確診甲型流感臥床病容曝光&nbsp;&nbsp;on.cc東網",
       "sources": [
         {
           "name": "香港01",
@@ -259,6 +233,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "e4337fe03845",
+      "title": "報稅季忙節稅 醫提醒男性別忽略HPV長期健康風險",
+      "published": "2026-05-12T21:30:00+00:00",
+      "summary": "報稅季忙節稅 醫提醒男性別忽略HPV長期健康風險&nbsp;&nbsp;民視新聞網",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81UlBQcFJKV25iem5NVUk3a3pONlJLU293Y3VzWGxOcXBJR0tjR1JHNkpLWE1HQkY1VmJIcHBSUldqUmwxcXdHamJZTXVKd0lzV0M2WFBUMFdwS0ZMTkN0ZA?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "3cadf8beeaba",
@@ -616,37 +603,11 @@
       "id": "90bb3b24cc3a",
       "title": "骨鬆肌少高風險運動營養班健康開跑 | 觀傳媒 - LINE TODAY",
       "published": "2026-05-11T13:55:21+00:00",
-      "summary": "骨鬆肌少高風險運動營養班健康開跑 | 觀傳媒&nbsp;&nbsp;LINE TODAY預防骨鬆趁現在 太保市衛生所「骨鬆肌少高風險運動營養班」開跑&nbsp;&nbsp;中央社 CNA嘉縣衛生局攜手南華大學推「骨鬆肌少運動營養班」 助長者強筋骨&nbsp;&nbsp;中華新聞雲／中華日報嘉義縣「骨鬆肌少高風險運動營養班」 8鄉鎮市同步開課 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞嘉義縣骨鬆肌少照護研究躍上國際 展現產官學跨域合作成效&nbsp;&nbsp;波新聞",
+      "summary": "骨鬆肌少高風險運動營養班健康開跑 | 觀傳媒&nbsp;&nbsp;LINE TODAY前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84M204UV9ZdWhadlZSZmxrdmVVeXN1a0VCSDFjV0tESnR4Z3J4S1BaVEk4VW9sZExTVWxQM3AtZXA1ZGxHQXpTR1VpT2Z0SkxwOUN5aHN3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7c81fc6ecf2f",
-      "title": "納蘇縣數日兩宗麻疹",
-      "published": "2026-05-11T10:00:00+00:00",
-      "summary": "納蘇縣數日兩宗麻疹&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVkRibGtzNm1NeDJMU1VmcG00RVc1UmdDQUwtbkxhRmxsV2ZXOW1KNkhPVXZ6QkM5dEZabkxqX2ZsdmMyMU9TMHVxRVNsdHhLRFFfOG5oamU1ZlBRcW9QVl8zai1LbEd1ZGp2enpfbV9QNERtV3ctbzFqX0xFM050RA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3c85c7f240e9",
-      "title": "梁振英連環遇上「水費」及「滲水」騙徒 提醒網民提防騙子",
-      "published": "2026-05-11T09:50:00+00:00",
-      "summary": "梁振英連環遇上「水費」及「滲水」騙徒 提醒網民提防騙子&nbsp;&nbsp;香港商报",
-      "sources": [
-        {
-          "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nNDRjZmpLM2pLSGZtalY3aTFsbzNHTWhfNzFObzRMVkNpQ2dyQXdaX21xeGl3bU9ERjlmS25uMUl5QmQ2REd1VHA4WmFCVmZwWkY3NmFDSzhfbnN1YlpPUm5vZlVSbngwXzdlWXVCdlM5QkdLMnFrUUdCMA?oc=5"
         }
       ],
       "matched_keywords": []
