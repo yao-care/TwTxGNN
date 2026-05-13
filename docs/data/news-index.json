@@ -1,37 +1,41 @@
 {
-  "generated": "2026-05-12T23:52:18.280413+00:00",
+  "generated": "2026-05-13T02:14:36.467281+00:00",
   "count": 4,
   "news": [
     {
-      "id": "74f0160330b4",
-      "title": "健康解碼｜生蛇不能掉以輕「心」 心血管代謝病患者屬高危族群",
-      "published": "2026-05-12T23:30:00+00:00",
+      "id": "5f8b9e5076d2",
+      "title": "皮蛇長一圈會致命？營養師揭「神經痛」才是折磨、點名4危險族群",
+      "published": "2026-05-13T02:00:00+00:00",
       "sources": [
         {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOYy1NYVZFR2lYOFhfQnh0UGNDbTQyNFd0Z0FCMzJQOGd3M1JMWDV1X2Q1c1N3UGdNTThQb242RjZCcHNVMXVlbnJ6SWNTUnJ6WEJEblFzdVdtVVdWZzZtVWMzWEJqQnJCZnZWMWZaZTNiYjZaUEFwaHZINkItS1NhRENERWpRZElHRVktc3JRVEhpY0s0YUY4S2VUbkVucnhkZ3F6NUJWdTZTNG90OHdTZUFTakhpTG1sMVJoOU5wQVExMTJlV3l0UkF1Z05yUG1sVENlV29VS2l5REhnTDh4R29oTmM1VUJTMFB6aEdOYXJnT2xzdlFnNnBPamJObThkYzlvVjBKS1FBZG85U19LaVVvZjZzVy1sLVRIcWdVcDZqNVZDMFNoYkVXWDB5NTlqekl1bWs0NDZtN19hT0NPNDIyMXk0YTF4eTFCbTJZVVV5d2dKSWljbUxRSm9PTjREUXF4TWpsZXRmRGRXUGQ5TmlZeUpQZmcxQjRMMUR0SGNHenhXUmEySHlkVXM2OEpfdDR5OEstWUVBUTlxd1JCRjhyTHQ0empvbUE?oc=5"
+          "name": "民報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jd0JMMHl4SnlPWEd6R29WNG5PMU8wcEV4UDNmZUowVXdsVk1tZ1Q2ZjRseGFNcjVPRlVTX01Zc3N5eHRsVUhidnA2aHF2WFl3YkRYYnVCa1BORTRiTWxpVg?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
+          "name": "herpes zoster",
+          "keyword": "皮蛇",
           "related_drugs": [
             {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
+              "slug": "avelumab",
+              "name": "Avelumab"
             }
           ]
         },
         {
           "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "生蛇",
+          "name": "神經痛",
+          "keyword": "神經痛",
           "related_drugs": [
             {
-              "slug": "avelumab",
-              "name": "Avelumab"
+              "slug": "ibuprofen",
+              "name": "Ibuprofen"
+            },
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }
