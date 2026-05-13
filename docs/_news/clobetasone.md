@@ -14,7 +14,7 @@ permalink: /news/clobetasone/
 ---
 
 <p class="key-answer" data-question="Clobetasone 有什麼相關新聞？">
-<strong>Clobetasone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Clobetasone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/clobetasone/
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>primary cutaneous T-cell lymphoma（100.0%）</li>
 <li>Sezary syndrome（99.8%）</li>
-<li>primary cutaneous B-cell lymphoma（99.8%）</li>
+<li class="indication-matched">primary cutaneous B-cell lymphoma（99.8%）<span class="indication-tag">📰 淋巴癌</span></li>
 <li>granulomatous slack skin disease（99.7%）</li>
 <li>Crohn's colitis（99.7%）</li>
 <li>adrenocortical insufficiency（99.7%）</li>
@@ -42,7 +42,15 @@ permalink: /news/clobetasone/
 <p><a href="{{ '/drugs/clobetasone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [醫晴醫情｜結外邊沿區細胞淋巴癌](https://news.google.com/rss/articles/CBMikwJBVV95cUxOSkFlLXhqZ25wMWx2TmgzTHFMM2JpeUxpcEp6cFppQ3BRYjVEYkJvX0Jqc3owMkNBVzMxTWFtVFdOaFdnejRDNWdKYWdHenNyOENXZnFSVlp2dkI4bUV4QXZCT2NCZlhIX2ZUQ1ZhZTNHRmFLWjVyeUtOVkszZTE2VEsyR3lLR0dPdVJnWkZJLUF0akl4NFRPMTJZMjVQeGdzazZkTm1hRzRFUEExeVJMeGExcXNfVjk2WTRrZXJMMWtBQnhvYS1WYXpVYlRmWG5Ibm5tS3pMR1p4c0M2OW1hYkUxd0lqdHJTVlNjOVR1NnVGemdIdko5TzdTNWJsNndpWEdYTFZBd1FDdF9uNG1saWxLTQ?oc=5)
+
+2026-05-13 <span class="news-indication-tag">淋巴癌</span>
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMikwJBVV95cUxOSkFlLXhqZ25wMWx2TmgzTHFMM2JpeUxpcEp6cFppQ3BRYjVEYkJvX0Jqc3owMkNBVzMxTWFtVFdOaFdnejRDNWdKYWdHenNyOENXZnFSVlp2dkI4bUV4QXZCT2NCZlhIX2ZUQ1ZhZTNHRmFLWjVyeUtOVkszZTE2VEsyR3lLR0dPdVJnWkZJLUF0akl4NFRPMTJZMjVQeGdzazZkTm1hRzRFUEExeVJMeGExcXNfVjk2WTRrZXJMMWtBQnhvYS1WYXpVYlRmWG5Ibm5tS3pMR1p4c0M2OW1hYkUxd0lqdHJTVlNjOVR1NnVGemdIdko5TzdTNWJsNndpWEdYTFZBd1FDdF9uNG1saWxLTQ?oc=5)
+
+---
 
 ### [無不良嗜好竟確診雙重癌症 醫生揭1個常被忽略的致命傷 隨時增患13種癌症風險 - U Food](https://news.google.com/rss/articles/CBMi9ANBVV95cUxNZ1R3ZWM3ZDNsZHNFdVF3dWtUMjBxVVdmak5PSnpQRk94R1hOZU9GN2JMWWh5U3J2eHBvWVQtZzFMbGxEdmlyUXB3cFRzTHl1VHY4Zlk2bGxmbVBBSTVMdnNLM3daUlJIYnNKUlpxRmh0VzhCbFBaY0t6UHJfcERXQnNhdTRPOTRtSzNNbWhCelV1dTVFN0xUenRYNFRiZ3c0T2NDVVdQMXFUWlJSWTVYWmJLS3d4TXo4OVpkMGZSVFU2VkZKSjM2d3hpWDhNUm8yRkpqVUd0SUxUNWRuZFJUWEZsTXZHRUM0NTZoVlZHalpPeE81MXFXNllaWFpVSk5CLXZjRG5FUzBKLUY5Nkc1aVA5bkhVZFFleFIzNlVzOUlnb0R0bnhPWUhacGczbnhWdjdDdmNpMndMUkJXUEVaQWlrWGllLUpLYVpCaE5IRVhWd3lZTHIyNkZnSHJzRjdjMldHOXUybWpKNTNiR0NMX2FFcUxIOGZaeXZNdXRsVzFsbjQ5cHBFLVRfb0p4T1hfZFBWdmVwb1ZJNkI4S095c09HVmxKNnZzbDBoNGtDai1rNTVXQ2EwVVJlaEJaSmc5YzNBVGs0ZXNFRjNMRF9RdThkRlJUOU4ya0FHTXA5bDhsMzN3VVdMd3g0TUhZWFUwVW45Tw?oc=5)
 

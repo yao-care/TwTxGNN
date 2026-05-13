@@ -1,8 +1,50 @@
 {
-  "last_updated": "2026-05-13T22:57:51.043912+00:00",
-  "total_count": 26,
-  "matched_count": 5,
+  "last_updated": "2026-05-13T23:56:20.847511+00:00",
+  "total_count": 27,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "99a289874117",
+      "title": "醫晴醫情｜結外邊沿區細胞淋巴癌",
+      "published": "2026-05-13T23:00:00+00:00",
+      "summary": "醫晴醫情｜結外邊沿區細胞淋巴癌&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOSkFlLXhqZ25wMWx2TmgzTHFMM2JpeUxpcEp6cFppQ3BRYjVEYkJvX0Jqc3owMkNBVzMxTWFtVFdOaFdnejRDNWdKYWdHenNyOENXZnFSVlp2dkI4bUV4QXZCT2NCZlhIX2ZUQ1ZhZTNHRmFLWjVyeUtOVkszZTE2VEsyR3lLR0dPdVJnWkZJLUF0akl4NFRPMTJZMjVQeGdzazZkTm1hRzRFUEExeVJMeGExcXNfVjk2WTRrZXJMMWtBQnhvYS1WYXpVYlRmWG5Ibm5tS3pMR1p4c0M2OW1hYkUxd0lqdHJTVlNjOVR1NnVGemdIdko5TzdTNWJsNndpWEdYTFZBd1FDdF9uNG1saWxLTQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "primary cutaneous B-cell lymphoma",
+          "keyword": "淋巴癌",
+          "related_drugs": [
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d8024a083e8c",
+      "title": "多囊性卵巢症候群正式更名 醫界強調其影響逾越婦科範疇",
+      "published": "2026-05-13T17:12:12+00:00",
+      "summary": "多囊性卵巢症候群正式更名 醫界強調其影響逾越婦科範疇&nbsp;&nbsp;商傳媒前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNRVdpZmhXWDM3blZPd1NLN0tXeE43SC0yMnpmaTdRVklNc1U0azlFYWdUUWp1N2lJQ0xMaWlybFRGN01BYXBHT3ZucFJJeDJPV2VaZ1FiQ01MZDltQ2dmTUhMRHMyRHppYTltOG9VNXVzWmpoZTJNcjk4RG9CSUQzdnhESmRWRTdzX19jVzZuWF9aUlVudTBGbWV6aUx2OThTeEpxbmJ4eE5qRE1aVjd3M0UwNlI4MkxsZEZCbGVEVDROaWR4TUtXUDNqeFRPY3k1ZGJ2LUpKcUpKX24wZ3M0TXNOV3VWTThLbW9rMGtIUzR4a1F1c0NFTm1kSXpvUnh0bk9URmYyREd4OFNWMzN5TjFVY3RWVDkwSDFRc2N0MGN4c0NaN3RCdzVFT21xYU9YV2dNbkpBYkpZanlKaldBbDJaN0ZvVkMzRFhRRnJheTlQdWpYTGdqTGtFOFlUbUFpTmkxUnFzV2x3MkVFYV9XbHpYRTdWa3JIUk1Fcm5mcHJpWHdIX2c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "9bec75bf5367",
       "title": "無不良嗜好竟確診雙重癌症 醫生揭1個常被忽略的致命傷 隨時增患13種癌症風險 - U Food",
@@ -442,19 +484,6 @@
         {
           "name": "客新聞 HakkaNews",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zZnQxdW9Dbm5sTklzQkVOc1BhbUhmQXlHR1YybW5UQnJ4NjRxd2NJT0pjTUZDRnpmSU1ZODhiWEkxSzVnZ0VxOHlJaDI0Nk9T?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2bb968cb9a73",
-      "title": "多囊性卵巢症候群將更名為多內分泌代謝性卵巢症候群 - GeneOnline News",
-      "published": "2026-05-13T08:07:29+00:00",
-      "summary": "多囊性卵巢症候群將更名為多內分泌代謝性卵巢症候群&nbsp;&nbsp;GeneOnline News影響全球1.7億女性！ 多囊性卵巢症候群將正名多內分泌代謝卵巢症候群&nbsp;&nbsp;自由健康網什麼是多囊性卵巢症候群？ PMOS的新名稱、解釋——好萊塢生活&nbsp;&nbsp;arch-web.com.tw多囊性卵巢症候群正式更名 醫界強調其影響逾越婦科範疇&nbsp;&nbsp;蕃新聞擺脫「多囊」誤導！全球醫界宣布更名 PMOS 盼提升診斷效率&nbsp;&nbsp;四季線上4gTV",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNVHdkU2VwYnZJNDlUbGJNcmlYTE5TNmlYeFJkR0xyRXg3aHFrT0k3S1MtaVJKRk1nZHpRaTVCU1AtSXh0MDBjSmpreExLSElKN043aGpIYzU5N2h4NkZEclF2WmRsT1ExaXVvNGVfVnpkX2JnNkRSRGw3YllYYzlTVjNVUnNfNzN1TFl3R2F2YUZPa3RwcHFQUGduMThxOW4tWExEQ3lHQzVxaW9IazlVSlpUMnBselE2MEpUMjBJOWFFdHVERllOTnpkZjhOM2FSQWpfUUp4MDU5TzNoMzZsMFQyVVFQN1J5Z25YcjJ1VkhEeDBtOGlNSDRwa3N4TmRzSjIxOUtZaTZZX3ZsY21xR051VVZYVDZSLTBUaDUzUGtmV0pRel9fWHkzcWtvMVR5QVpKZ29qOUtTLVNVUGx4UjNtQlFoRWp3?oc=5"
         }
       ],
       "matched_keywords": []
