@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-13T19:41:46.470457+00:00",
+  "fetched_at": "2026-05-13T21:18:23.530684+00:00",
   "count": 25,
   "news": [
     {
@@ -148,18 +148,6 @@
       ]
     },
     {
-      "id": "5f8b9e5076d2",
-      "title": "皮蛇長一圈會致命？營養師揭「神經痛」才是折磨、點名4危險族群 - 民報",
-      "published": "2026-05-13T02:00:00+00:00",
-      "summary": "皮蛇長一圈會致命？營養師揭「神經痛」才是折磨、點名4危險族群&nbsp;&nbsp;民報",
-      "sources": [
-        {
-          "name": "民報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jd0JMMHl4SnlPWEd6R29WNG5PMU8wcEV4UDNmZUowVXdsVk1tZ1Q2ZjRseGFNcjVPRlVTX01Zc3N5eHRsVUhidnA2aHF2WFl3YkRYYnVCa1BORTRiTWxpVg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d55dae479160",
       "title": "金門防範恙蟲病高峰！環保局備妥滅鼠物資落實居家防護 | 勁報 - LINE TODAY",
       "published": "2026-05-13T07:43:00+00:00",
@@ -168,6 +156,18 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oSjNPMnhSWER1MGFwQ1A5aWt6c293LVFCX3VWeDlZYkxoVjhtODY0c0Vnd2xyUWYxNmNxemxhMFJVQWZwRzNWcGkxLUxZZ3hDaDlMV3J3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5f8b9e5076d2",
+      "title": "皮蛇長一圈會致命？營養師揭「神經痛」才是折磨、點名4危險族群 - 民報",
+      "published": "2026-05-13T02:00:00+00:00",
+      "summary": "皮蛇長一圈會致命？營養師揭「神經痛」才是折磨、點名4危險族群&nbsp;&nbsp;民報",
+      "sources": [
+        {
+          "name": "民報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jd0JMMHl4SnlPWEd6R29WNG5PMU8wcEV4UDNmZUowVXdsVk1tZ1Q2ZjRseGFNcjVPRlVTX01Zc3N5eHRsVUhidnA2aHF2WFl3YkRYYnVCa1BORTRiTWxpVg?oc=5"
         }
       ]
     },
