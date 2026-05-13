@@ -1,13 +1,13 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-13T21:18:23.530684+00:00",
+  "fetched_at": "2026-05-13T22:57:47.810399+00:00",
   "count": 25,
   "news": [
     {
       "id": "2bb968cb9a73",
       "title": "多囊性卵巢症候群將更名為多內分泌代謝性卵巢症候群 - GeneOnline News",
       "published": "2026-05-13T08:07:29+00:00",
-      "summary": "多囊性卵巢症候群將更名為多內分泌代謝性卵巢症候群&nbsp;&nbsp;GeneOnline News影響全球1.7億女性！ 多囊性卵巢症候群將正名多內分泌代謝卵巢症候群&nbsp;&nbsp;自由健康網什麼是多囊性卵巢症候群？ PMOS的新名稱、解釋——好萊塢生活&nbsp;&nbsp;arch-web.com.tw擺脫「多囊」誤導！全球醫界宣布更名 PMOS 盼提升診斷效率&nbsp;&nbsp;四季線上4gTV",
+      "summary": "多囊性卵巢症候群將更名為多內分泌代謝性卵巢症候群&nbsp;&nbsp;GeneOnline News影響全球1.7億女性！ 多囊性卵巢症候群將正名多內分泌代謝卵巢症候群&nbsp;&nbsp;自由健康網什麼是多囊性卵巢症候群？ PMOS的新名稱、解釋——好萊塢生活&nbsp;&nbsp;arch-web.com.tw多囊性卵巢症候群正式更名 醫界強調其影響逾越婦科範疇&nbsp;&nbsp;蕃新聞擺脫「多囊」誤導！全球醫界宣布更名 PMOS 盼提升診斷效率&nbsp;&nbsp;四季線上4gTV",
       "sources": [
         {
           "name": "GeneOnline News",
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "d82794337acc",
-      "title": "練鐵人、吃魚油能防心臟病？權威醫真心勸：這2件事更關鍵…護心不追求極端養生「快樂更重要」 - 幸福熟齡",
-      "published": "2026-05-13T05:55:00+00:00",
-      "summary": "練鐵人、吃魚油能防心臟病？權威醫真心勸：這2件事更關鍵…護心不追求極端養生「快樂更重要」&nbsp;&nbsp;幸福熟齡魚油跌落神壇？美國心臟學會最新指南揭：「關鍵成分」吃錯，恐讓壞膽固醇更高&nbsp;&nbsp;康健雜誌降血脂藥「史他汀」輸了！魚油是洗腎患者的心臟救星 中風狂降43%&nbsp;&nbsp;Yahoo新聞魚油神話幻滅？美國心臟學會：揀錯1關鍵反而唔健康 營養師教6大實用選購貼士&nbsp;&nbsp;星島頭條法國人愛吃奶油卻少心臟病？護心祕方是甚麼(組圖) - 療養保健 - 石川恭三 - (移動版)&nbsp;&nbsp;secretchina.com",
-      "sources": [
-        {
-          "name": "幸福熟齡",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BX19vSnBxNjFLdDA0WUhHbHhLbTRiUEE3SVpKRjRFWldJZWJfTF81LWhnYU53MVAyMzF4UUhUaVd6cl9ZMWNxVzhPcHJoVG5jcjRNLUNiZXgxVGZFQ01ESENyZ214aDJsVHZrcEdFNEpZcWFvWFJnM2Y2RQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "da298bf63d1e",
       "title": "嘉縣衛生局攜手南華大學推「骨鬆肌少運動營養班」 助長者強筋骨 | 中華日報 - LINE TODAY",
       "published": "2026-05-12T12:20:36+00:00",
@@ -60,6 +48,18 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82M2pTNE00aDR6UFdSWFdudU5WUndFZjd2RDBnZTdEWFZlZ01pVEZSSGI1cmk4bnhGVVFjZlZaZmJfaEpqLVZHUVlMTXJrMGtydHNwSTBn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d82794337acc",
+      "title": "練鐵人、吃魚油能防心臟病？權威醫真心勸：這2件事更關鍵…護心不追求極端養生「快樂更重要」 - 幸福熟齡",
+      "published": "2026-05-13T05:55:00+00:00",
+      "summary": "練鐵人、吃魚油能防心臟病？權威醫真心勸：這2件事更關鍵…護心不追求極端養生「快樂更重要」&nbsp;&nbsp;幸福熟齡魚油跌落神壇？美國心臟學會最新指南揭：「關鍵成分」吃錯，恐讓壞膽固醇更高&nbsp;&nbsp;康健雜誌降血脂藥「史他汀」輸了！魚油是洗腎患者的心臟救星 中風狂降43%&nbsp;&nbsp;Yahoo新聞魚油神話幻滅？美國心臟學會：揀錯1關鍵反而唔健康 營養師教6大實用選購貼士&nbsp;&nbsp;星島頭條法國人愛吃奶油卻少心臟病？護心祕方是甚麼(組圖) - 療養保健 - 石川恭三 - (移動版)&nbsp;&nbsp;secretchina.com",
+      "sources": [
+        {
+          "name": "幸福熟齡",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BX19vSnBxNjFLdDA0WUhHbHhLbTRiUEE3SVpKRjRFWldJZWJfTF81LWhnYU53MVAyMzF4UUhUaVd6cl9ZMWNxVzhPcHJoVG5jcjRNLUNiZXgxVGZFQ01ESENyZ214aDJsVHZrcEdFNEpZcWFvWFJnM2Y2RQ?oc=5"
         }
       ]
     },
@@ -112,18 +112,6 @@
       ]
     },
     {
-      "id": "aa86548ad614",
-      "title": "科學家發現小兒麻痺和一般感冒病毒共有的弱點 - arch-web.com.tw",
-      "published": "2026-05-13T02:15:01+00:00",
-      "summary": "科學家發現小兒麻痺和一般感冒病毒共有的弱點&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOQXlXaEFZWGlZbnYtcXlZN0J0aHFnNF9PdFRaNy1jR19OcXEyMk1YbjlBZFJHbG5sNjdiWUc4WmFScTR6Y1kzRFZNZTBkdVRFMm12UjN2aW94dFFEMS1CMU1vWTZtc2tXRktXUjlWcTc4T2hqckZXbnhaTXZmS1RVWGxzT2oxeXNPRlQtMnFERjdoSzVVaVM1U3c3a3d1cUJHVkxkLUVjTnFDZUZpRGVtdjByTmNIaTBWZldRR2w5cHE3VXFXUmVRRzllQ0E0MlJTbFZIZ0gxMGRwemZBWVp5ZmpZOGZFbVA2cEVDSFkwS0tNMFBGLTBkN3AwRmoxS0pxRTlTYV9ac293MjZiTXQ5ZVItVkg1OHE0RDBMOVcwLVlDN1V3YS1ZNC1sWDBpVWJfcldSX19YVDcwZnZCTVhrMExLdTh5OVlOUl9tVUVtbW4yNmtOemYzR2hSaEdmWTVpRlZSM1M5Q01RaTVfeWhjYW5neE5aTjY0Z2c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9b5a5732d228",
       "title": "健康網》一滴血驗50種癌非萬靈丹 醫揭最大盲點：找到癌症還不夠 - 自由健康網",
       "published": "2026-05-12T02:56:00+00:00",
@@ -132,6 +120,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0TDJobUI4S2E4eVlFaXVCZzVoVEZRbzdQR2F2Y2Z1SmV3aVlYV0lKZlpaS0ZwTTJxSVZSRjRMbzloMllKdnctVVMwcXFoTXhpNGVWLWlJMnVrTF8wQjVMVThrVFTSAWpBVV95cUxQVGFWZUl6eDVjR0ZjcDF0ZnNPeEN2U21SYmFLWnh2cV9jUVQ5a2NOQWZZWFFHWTBDZXhNNjRWd3A5X1dTSHBQWE16VjI2Q3hOeERnZmhGOUlBZ0VWbUNUMVJNdGpZaTZiTWx3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa86548ad614",
+      "title": "科學家發現小兒麻痺和一般感冒病毒共有的弱點 - arch-web.com.tw",
+      "published": "2026-05-13T02:15:01+00:00",
+      "summary": "科學家發現小兒麻痺和一般感冒病毒共有的弱點&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOQXlXaEFZWGlZbnYtcXlZN0J0aHFnNF9PdFRaNy1jR19OcXEyMk1YbjlBZFJHbG5sNjdiWUc4WmFScTR6Y1kzRFZNZTBkdVRFMm12UjN2aW94dFFEMS1CMU1vWTZtc2tXRktXUjlWcTc4T2hqckZXbnhaTXZmS1RVWGxzT2oxeXNPRlQtMnFERjdoSzVVaVM1U3c3a3d1cUJHVkxkLUVjTnFDZUZpRGVtdjByTmNIaTBWZldRR2w5cHE3VXFXUmVRRzllQ0E0MlJTbFZIZ0gxMGRwemZBWVp5ZmpZOGZFbVA2cEVDSFkwS0tNMFBGLTBkN3AwRmoxS0pxRTlTYV9ac293MjZiTXQ5ZVItVkg1OHE0RDBMOVcwLVlDN1V3YS1ZNC1sWDBpVWJfcldSX19YVDcwZnZCTVhrMExLdTh5OVlOUl9tVUVtbW4yNmtOemYzR2hSaEdmWTVpRlZSM1M5Q01RaTVfeWhjYW5neE5aTjY0Z2c?oc=5"
         }
       ]
     },
@@ -256,18 +256,6 @@
       ]
     },
     {
-      "id": "b78e9b107628",
-      "title": "法國世界報 - 長尾侏稻鼠：漢坦病毒安第斯毒株的主要宿主 - RFI",
-      "published": "2026-05-11T23:19:00+00:00",
-      "summary": "法國世界報 - 長尾侏稻鼠：漢坦病毒安第斯毒株的主要宿主&nbsp;&nbsp;RFI",
-      "sources": [
-        {
-          "name": "RFI",
-          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOQmhleUFFMkNQaEprVzZ5NlgwcGZUbVV1TVlPcWlidnRiZGhMUU1UQnJsZ1lZS0JMTEpxZTFRWW91aE4xNnlXSzI1dEhZTUlNLXVtWWdZb0M2b25Sd1IyM2FiYUViSF82NUdOejktdG9UMldBelpEOW9TNmp5eVdPbGFxeUNVRUlSb2NwYzFpelZUYm1JTFVwdzVEWW13N25LLVV1LTFKNzBrM0RKREp3NHF5RmkyeDEwd1ExRUlNMmVpa1VfbVJGQld2c2l3WW1YR2J4bkFSN05abEpMTDFuV2pGTVFMaVh3MWU2am5ETTVxT21SUE1fTFBZeHhHZjZIdVBhbXFDanhQNUl4UEhJTDYtLXlfOGY1MUxkRDN2dVdzR3BCV1pJd1pRd1RJVUkydklsLVozZjZNLTUxOGFoM3NfdXM0SDVlTWo0ZDYyM25MM21jYUZwUWhPRmZsSlBuOFcwLUxXMDY5RmlteC0zdi1rbUM4YVBXTHdzTVdxUGQ1OUh0Q2E0ZEE2MHo5M0lYNkZacGFDb01rQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3f8f2e95f602",
       "title": "旅遊達人梁芷佩硬扛發燒失敗病倒送醫 確診甲流憔悴臥床無奈停工 - 香港01",
       "published": "2026-05-13T05:30:50+00:00",
@@ -300,6 +288,18 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMiogRBVV95cUxNX3RkVkQ1TXlJSzJ0MUJZUXl1eHNNc2hPdGJpSG40Q05PSHViWnlwV0V2bFRwcGNudnc0SktLRngwWXBDU3Q0b2dtWkJhS2FoNVU0dzFrT0Z2c0RFQm5Vd0NnT0lyeGJDVV9aQVlLeXVjSE5TbjMtXzhYcklYby1DbnQ4M1lSbGl4b0ctWUVBTnY5cWY4MTZhTFl0WDFGdDZWU2ZnbDh3dWR6eU8zU2RNWEwyd21rTV9LSjJ0WDAzOVJOaDhtZ2NHQnJQbDlsRFdFQlVhR205YkJxQnM3TXdKMi14YzJ0U0RHaVl3M0hQNEFUM2ZPc3prN0lmeDdhN3hoampYM3AyZ0hNRXRXR0xHblhYS24xRUc3QnE4cVpVenhvbzE5QjhpT0NrQ25OTWFqOUdBN1ZaMWx4cnJLU2R3ZkI1ajQ4Rmpoa3huT0NYWkFxNG1tc2tJYnFnbzZPLXFBVkM4X1E4WkF5SG1fZG41OFpDemtmYkxmQmJDY2x1NEc3a3ZoMHByNHFDYmRWZVJSY0JueXRrRm0wYWFZMHlTTllWcGcxQVI1YnZFQ2tKanlKOURYZllIRmdZeTUxMllkVEZwajh5aGpuUGNiVVh3M0xDdFdIOGVTUXRTYVMzMl84TkhyTHZyR1NON1M5SHpGcnptNzVfalNlYWhVV1RUeHRPUFhfbDlNZkZQTld3aWZNZjBfMzhxTFRtamdDZkViRFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b78e9b107628",
+      "title": "法國世界報 - 長尾侏稻鼠：漢坦病毒安第斯毒株的主要宿主 - RFI",
+      "published": "2026-05-11T23:19:00+00:00",
+      "summary": "法國世界報 - 長尾侏稻鼠：漢坦病毒安第斯毒株的主要宿主&nbsp;&nbsp;RFI",
+      "sources": [
+        {
+          "name": "RFI",
+          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOQmhleUFFMkNQaEprVzZ5NlgwcGZUbVV1TVlPcWlidnRiZGhMUU1UQnJsZ1lZS0JMTEpxZTFRWW91aE4xNnlXSzI1dEhZTUlNLXVtWWdZb0M2b25Sd1IyM2FiYUViSF82NUdOejktdG9UMldBelpEOW9TNmp5eVdPbGFxeUNVRUlSb2NwYzFpelZUYm1JTFVwdzVEWW13N25LLVV1LTFKNzBrM0RKREp3NHF5RmkyeDEwd1ExRUlNMmVpa1VfbVJGQld2c2l3WW1YR2J4bkFSN05abEpMTDFuV2pGTVFMaVh3MWU2am5ETTVxT21SUE1fTFBZeHhHZjZIdVBhbXFDanhQNUl4UEhJTDYtLXlfOGY1MUxkRDN2dVdzR3BCV1pJd1pRd1RJVUkydklsLVozZjZNLTUxOGFoM3NfdXM0SDVlTWo0ZDYyM25MM21jYUZwUWhPRmZsSlBuOFcwLUxXMDY5RmlteC0zdi1rbUM4YVBXTHdzTVdxUGQ1OUh0Q2E0ZEE2MHo5M0lYNkZacGFDb01rQQ?oc=5"
         }
       ]
     }
