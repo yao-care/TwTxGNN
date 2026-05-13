@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-13T17:09:26.129607+00:00",
-  "count": 24,
+  "fetched_at": "2026-05-13T19:41:46.470457+00:00",
+  "count": 25,
   "news": [
+    {
+      "id": "2bb968cb9a73",
+      "title": "多囊性卵巢症候群將更名為多內分泌代謝性卵巢症候群 - GeneOnline News",
+      "published": "2026-05-13T08:07:29+00:00",
+      "summary": "多囊性卵巢症候群將更名為多內分泌代謝性卵巢症候群&nbsp;&nbsp;GeneOnline News影響全球1.7億女性！ 多囊性卵巢症候群將正名多內分泌代謝卵巢症候群&nbsp;&nbsp;自由健康網什麼是多囊性卵巢症候群？ PMOS的新名稱、解釋——好萊塢生活&nbsp;&nbsp;arch-web.com.tw擺脫「多囊」誤導！全球醫界宣布更名 PMOS 盼提升診斷效率&nbsp;&nbsp;四季線上4gTV",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNVHdkU2VwYnZJNDlUbGJNcmlYTE5TNmlYeFJkR0xyRXg3aHFrT0k3S1MtaVJKRk1nZHpRaTVCU1AtSXh0MDBjSmpreExLSElKN043aGpIYzU5N2h4NkZEclF2WmRsT1ExaXVvNGVfVnpkX2JnNkRSRGw3YllYYzlTVjNVUnNfNzN1TFl3R2F2YUZPa3RwcHFQUGduMThxOW4tWExEQ3lHQzVxaW9IazlVSlpUMnBselE2MEpUMjBJOWFFdHVERllOTnpkZjhOM2FSQWpfUUp4MDU5TzNoMzZsMFQyVVFQN1J5Z25YcjJ1VkhEeDBtOGlNSDRwa3N4TmRzSjIxOUtZaTZZX3ZsY21xR051VVZYVDZSLTBUaDUzUGtmV0pRel9fWHkzcWtvMVR5QVpKZ29qOUtTLVNVUGx4UjNtQlFoRWp3?oc=5"
+        }
+      ]
+    },
     {
       "id": "badf3f2aea10",
       "title": "實驗室「聲波」成功摧毀新冠與流感病毒 有望成抗疫新武器 - 客新聞 HakkaNews",
@@ -40,18 +52,6 @@
       ]
     },
     {
-      "id": "2a17a7d9c0a7",
-      "title": "A流未退、B流升溫，成為新潮「流」 - 聯合新聞網",
-      "published": "2026-05-13T09:10:45+00:00",
-      "summary": "A流未退、B流升溫，成為新潮「流」&nbsp;&nbsp;聯合新聞網",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kSTY5cjI4aU5lSnc0R2t0TExkdE82dDNtbm5uUzNSdGFMVVNucDU2eDg0VFpwUG1uSUZCSGdoWlo0cG9ZRHZMSGdXV3lGS21n?oc=5"
-        }
-      ]
-    },
-    {
       "id": "da298bf63d1e",
       "title": "嘉縣衛生局攜手南華大學推「骨鬆肌少運動營養班」 助長者強筋骨 | 中華日報 - LINE TODAY",
       "published": "2026-05-12T12:20:36+00:00",
@@ -60,6 +60,18 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82M2pTNE00aDR6UFdSWFdudU5WUndFZjd2RDBnZTdEWFZlZ01pVEZSSGI1cmk4bnhGVVFjZlZaZmJfaEpqLVZHUVlMTXJrMGtydHNwSTBn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2a17a7d9c0a7",
+      "title": "A流未退、B流升溫，成為新潮「流」 - 聯合新聞網",
+      "published": "2026-05-13T09:10:45+00:00",
+      "summary": "A流未退、B流升溫，成為新潮「流」&nbsp;&nbsp;聯合新聞網",
+      "sources": [
+        {
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kSTY5cjI4aU5lSnc0R2t0TExkdE82dDNtbm5uUzNSdGFMVVNucDU2eDg0VFpwUG1uSUZCSGdoWlo0cG9ZRHZMSGdXV3lGS21n?oc=5"
         }
       ]
     },
@@ -112,9 +124,21 @@
       ]
     },
     {
+      "id": "9b5a5732d228",
+      "title": "健康網》一滴血驗50種癌非萬靈丹 醫揭最大盲點：找到癌症還不夠 - 自由健康網",
+      "published": "2026-05-12T02:56:00+00:00",
+      "summary": "健康網》一滴血驗50種癌非萬靈丹 醫揭最大盲點：找到癌症還不夠&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0TDJobUI4S2E4eVlFaXVCZzVoVEZRbzdQR2F2Y2Z1SmV3aVlYV0lKZlpaS0ZwTTJxSVZSRjRMbzloMllKdnctVVMwcXFoTXhpNGVWLWlJMnVrTF8wQjVMVThrVFTSAWpBVV95cUxQVGFWZUl6eDVjR0ZjcDF0ZnNPeEN2U21SYmFLWnh2cV9jUVQ5a2NOQWZZWFFHWTBDZXhNNjRWd3A5X1dTSHBQWE16VjI2Q3hOeERnZmhGOUlBZ0VWbUNUMVJNdGpZaTZiTWx3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9bec75bf5367",
       "title": "無不良嗜好竟確診雙重癌症 醫生揭1個常被忽略的致命傷 隨時增患13種癌症風險 - U Food",
-      "published": "2026-05-13T05:48:17+00:00",
+      "published": "2026-05-13T13:54:32+00:00",
       "summary": "無不良嗜好竟確診雙重癌症 醫生揭1個常被忽略的致命傷 隨時增患13種癌症風險&nbsp;&nbsp;U Food健康網》肥胖小心 醫：癌症恐正在等待&nbsp;&nbsp;自由健康網胖只是外觀問題？醫搖頭：脂肪一直在改變體內癌症環境&nbsp;&nbsp;中天新聞網細胞增生&nbsp;&nbsp;東周刊肥胖不只是體重問題，它如何透過「腸道—脂肪—腫瘤軸」增加罹癌風險？&nbsp;&nbsp;careonline.com.tw",
       "sources": [
         {
@@ -136,14 +160,14 @@
       ]
     },
     {
-      "id": "9b5a5732d228",
-      "title": "健康網》一滴血驗50種癌非萬靈丹 醫揭最大盲點：找到癌症還不夠 - 自由健康網",
-      "published": "2026-05-12T02:56:00+00:00",
-      "summary": "健康網》一滴血驗50種癌非萬靈丹 醫揭最大盲點：找到癌症還不夠&nbsp;&nbsp;自由健康網",
+      "id": "d55dae479160",
+      "title": "金門防範恙蟲病高峰！環保局備妥滅鼠物資落實居家防護 | 勁報 - LINE TODAY",
+      "published": "2026-05-13T07:43:00+00:00",
+      "summary": "金門防範恙蟲病高峰！環保局備妥滅鼠物資落實居家防護 | 勁報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0TDJobUI4S2E4eVlFaXVCZzVoVEZRbzdQR2F2Y2Z1SmV3aVlYV0lKZlpaS0ZwTTJxSVZSRjRMbzloMllKdnctVVMwcXFoTXhpNGVWLWlJMnVrTF8wQjVMVThrVFTSAWpBVV95cUxQVGFWZUl6eDVjR0ZjcDF0ZnNPeEN2U21SYmFLWnh2cV9jUVQ5a2NOQWZZWFFHWTBDZXhNNjRWd3A5X1dTSHBQWE16VjI2Q3hOeERnZmhGOUlBZ0VWbUNUMVJNdGpZaTZiTWx3?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oSjNPMnhSWER1MGFwQ1A5aWt6c293LVFCX3VWeDlZYkxoVjhtODY0c0Vnd2xyUWYxNmNxemxhMFJVQWZwRzNWcGkxLUxZZ3hDaDlMV3J3?oc=5"
         }
       ]
     },
@@ -156,18 +180,6 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVmIyUXFvV0xYNWNaWGFJSUVtU1RCbFFsU1hUU1JaYWQzdzVpSGxFUEZnenk2cS03V3R5TE5lT2pOZE90eUV5WEsxaHVRd2Y5UGxUMm93UW1Vd21kZVJJenFpWW1HWmhiX0JWTW1XUURFaDFOSjYydW14MVp4VE5ic3lB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d55dae479160",
-      "title": "金門防範恙蟲病高峰！環保局備妥滅鼠物資落實居家防護 | 勁報 - LINE TODAY",
-      "published": "2026-05-13T07:43:00+00:00",
-      "summary": "金門防範恙蟲病高峰！環保局備妥滅鼠物資落實居家防護 | 勁報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oSjNPMnhSWER1MGFwQ1A5aWt6c293LVFCX3VWeDlZYkxoVjhtODY0c0Vnd2xyUWYxNmNxemxhMFJVQWZwRzNWcGkxLUxZZ3hDaDlMV3J3?oc=5"
         }
       ]
     },
@@ -220,13 +232,13 @@
       ]
     },
     {
-      "id": "5ee16e034a77",
-      "title": "家裡很乾淨還是狂過敏？專家點名主因：「這些食物」少吃 - 三立娛樂星聞",
+      "id": "2998834e1c09",
+      "title": "家裡很乾淨還是狂過敏？專家點名主因：「這些食物」少吃 - 娛樂星聞",
       "published": "2026-05-12T00:41:32+00:00",
-      "summary": "家裡很乾淨還是狂過敏？專家點名主因：「這些食物」少吃&nbsp;&nbsp;三立娛樂星聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "家裡很乾淨還是狂過敏？專家點名主因：「這些食物」少吃&nbsp;&nbsp;娛樂星聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "三立娛樂星聞",
+          "name": "娛樂星聞",
           "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rcXNrV0h3U0dPVGhXWUV2R3IwMU1QMXhLUG5xTWY2Zi1Pcjd6OXd0VW8xM05ZSDd0a3VfMUJfZDEzZ3l4X0lTUGZ3?oc=5"
         }
       ]
