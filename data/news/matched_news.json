@@ -1,17 +1,43 @@
 {
-  "last_updated": "2026-05-13T23:56:20.847511+00:00",
-  "total_count": 27,
+  "last_updated": "2026-05-14T02:38:22.200352+00:00",
+  "total_count": 26,
   "matched_count": 6,
   "news": [
     {
-      "id": "99a289874117",
+      "id": "9e1666e22b67",
+      "title": "康乃狄克州確認歐洲首例與旅行相關的炭疽病例",
+      "published": "2026-05-14T00:48:39+00:00",
+      "summary": "康乃狄克州確認歐洲首例與旅行相關的炭疽病例&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNZExiOVNXV3hSdC1oN1RzR2lBVUVfeUo4Xy04OXFlOGlrX1l3WWU0dlpJLXhFTkg1YTk0UVRhWFltVTZnYXVCdUNVTkxmWWVkaTNxZHZxLXVjclpwbkpvWFJtX0tnbkhPZC1XaUZfaGQzeFE4QVpCVEhibUh6ZXlJZ2xKVXdYbkVaamtCNDMxOXdmVnZzZ0hDVkdWZEdKR0JEaWxjQWhxUm1aTl9RRS1iTDJpemN0MVVnc19rejdGN3FfeFhSeVVvbXNhTl93YjV3Q0N6MkJ5cm96UGhRaVgtMFRBeDdZbjYwRkxXel83dHNwMEY4N0ZJSmRncVdXSmxENi1pLUFCZV9GdW5RSl9rdXN0Q2k0MnRGbVlCSnp2TFk2ZjVxWjBNeXVZYTVYZThsaTh0c2x3SU9ITzZBN2RHZEdCbTdfS3BGN1Y4TV8wamoyZVFVNlRXV01JVG4wTy10cFNJZTRnbEU1dFkzMmp1MGVwb0lhV1VNR1E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "437cd5d73b3a",
+      "title": "改造益生菌在腸道發揮作用，重塑肝與腦的代謝連動 - TechNews 科技新報",
+      "published": "2026-05-14T00:22:40+00:00",
+      "summary": "改造益生菌在腸道發揮作用，重塑肝與腦的代謝連動&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHk4a3QzZVlXYVRhN2xiaTR2SlpHdkZXNHNCOS1WSWwycjQ0WVVkcGNPdWxIVVd0Y1RCUHBrN0JHWHlrNDlQU1RfMVVPcmd0dUE0aF9mcjBuMnY2TjctaFJzTldIeDVid01sMEFqNjhsQlNNM21EOEJZeEFTX2xic2dHdTBVOE9RYnVSMVFaTHRhVldWQ3VXYWlkLWFKRzM4SV9hYTkzbFUtUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "916084f04baa",
       "title": "醫晴醫情｜結外邊沿區細胞淋巴癌",
       "published": "2026-05-13T23:00:00+00:00",
       "summary": "醫晴醫情｜結外邊沿區細胞淋巴癌&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOSkFlLXhqZ25wMWx2TmgzTHFMM2JpeUxpcEp6cFppQ3BRYjVEYkJvX0Jqc3owMkNBVzMxTWFtVFdOaFdnejRDNWdKYWdHenNyOENXZnFSVlp2dkI4bUV4QXZCT2NCZlhIX2ZUQ1ZhZTNHRmFLWjVyeUtOVkszZTE2VEsyR3lLR0dPdVJnWkZJLUF0akl4NFRPMTJZMjVQeGdzazZkTm1hRzRFUEExeVJMeGExcXNfVjk2WTRrZXJMMWtBQnhvYS1WYXpVYlRmWG5Ibm5tS3pMR1p4c0M2OW1hYkUxd0lqdHJTVlNjOVR1NnVGemdIdko5TzdTNWJsNndpWEdYTFZBd1FDdF9uNG1saWxLTQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQa1BWU2JIby1UQmRMR0ZaU3RIc3JKRUFqNHdwZ2toM2UyUVJmOWdVcF9vVlAzdDlGRThNUU9BUFNoMDBpSWJWWDRqVWtYenM4SVdfUmJyV3Y3UEJxTGg3Rm5EcFdkUTBod1NaREU3Z0p2NzhVMzk4aTl4dHpLVEIxODVyaTFDQ040bFQwXzJLc0g4dEIwLU5iZWc0empZekpwZDlFZkYySVZaU081VWxNZDlwc1BkRzZMb1RFWGNUTkZ3SHRKU1BOU1RQaWhhZFh4MGFvSEtrRDRXS3FLM085Y2JaODlFZWFkSGNYc0p6QktBcEp5VkR4V0lBSXBrR2t4eUdFV1N3?oc=5"
         }
       ],
       "matched_keywords": [
@@ -31,19 +57,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "d8024a083e8c",
-      "title": "多囊性卵巢症候群正式更名 醫界強調其影響逾越婦科範疇",
-      "published": "2026-05-13T17:12:12+00:00",
-      "summary": "多囊性卵巢症候群正式更名 醫界強調其影響逾越婦科範疇&nbsp;&nbsp;商傳媒前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNRVdpZmhXWDM3blZPd1NLN0tXeE43SC0yMnpmaTdRVklNc1U0azlFYWdUUWp1N2lJQ0xMaWlybFRGN01BYXBHT3ZucFJJeDJPV2VaZ1FiQ01MZDltQ2dmTUhMRHMyRHppYTltOG9VNXVzWmpoZTJNcjk4RG9CSUQzdnhESmRWRTdzX19jVzZuWF9aUlVudTBGbWV6aUx2OThTeEpxbmJ4eE5qRE1aVjd3M0UwNlI4MkxsZEZCbGVEVDROaWR4TUtXUDNqeFRPY3k1ZGJ2LUpKcUpKX24wZ3M0TXNOV3VWTThLbW9rMGtIUzR4a1F1c0NFTm1kSXpvUnh0bk9URmYyREd4OFNWMzN5TjFVY3RWVDkwSDFRc2N0MGN4c0NaN3RCdzVFT21xYU9YV2dNbkpBYkpZanlKaldBbDJaN0ZvVkMzRFhRRnJheTlQdWpYTGdqTGtFOFlUbUFpTmkxUnFzV2x3MkVFYV9XbHpYRTdWa3JIUk1Fcm5mcHJpWHdIX2c?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "9bec75bf5367",
@@ -489,19 +502,6 @@
       "matched_keywords": []
     },
     {
-      "id": "d55dae479160",
-      "title": "金門防範恙蟲病高峰！環保局備妥滅鼠物資落實居家防護 | 勁報 - LINE TODAY",
-      "published": "2026-05-13T07:43:00+00:00",
-      "summary": "金門防範恙蟲病高峰！環保局備妥滅鼠物資落實居家防護 | 勁報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oSjNPMnhSWER1MGFwQ1A5aWt6c293LVFCX3VWeDlZYkxoVjhtODY0c0Vnd2xyUWYxNmNxemxhMFJVQWZwRzNWcGkxLUxZZ3hDaDlMV3J3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "d82794337acc",
       "title": "練鐵人、吃魚油能防心臟病？權威醫真心勸：這2件事更關鍵…護心不追求極端養生「快樂更重要」",
       "published": "2026-05-13T05:55:00+00:00",
@@ -705,6 +705,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "d55dae479160",
+      "title": "金門防範恙蟲病高峰！環保局備妥滅鼠物資落實居家防護 | 勁報 - LINE TODAY",
+      "published": "2026-05-12T22:26:46+00:00",
+      "summary": "金門防範恙蟲病高峰！環保局備妥滅鼠物資落實居家防護 | 勁報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oSjNPMnhSWER1MGFwQ1A5aWt6c293LVFCX3VWeDlZYkxoVjhtODY0c0Vnd2xyUWYxNmNxemxhMFJVQWZwRzNWcGkxLUxZZ3hDaDlMV3J3?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "e4337fe03845",
@@ -1031,32 +1044,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "2998834e1c09",
-      "title": "家裡很乾淨還是狂過敏？專家點名主因：「這些食物」少吃",
-      "published": "2026-05-12T00:41:32+00:00",
-      "summary": "家裡很乾淨還是狂過敏？專家點名主因：「這些食物」少吃&nbsp;&nbsp;娛樂星聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "娛樂星聞",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rcXNrV0h3U0dPVGhXWUV2R3IwMU1QMXhLUG5xTWY2Zi1Pcjd6OXd0VW8xM05ZSDd0a3VfMUJfZDEzZ3l4X0lTUGZ3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b78e9b107628",
-      "title": "法國世界報 - 長尾侏稻鼠：漢坦病毒安第斯毒株的主要宿主",
-      "published": "2026-05-11T23:19:00+00:00",
-      "summary": "法國世界報 - 長尾侏稻鼠：漢坦病毒安第斯毒株的主要宿主&nbsp;&nbsp;RFI",
-      "sources": [
-        {
-          "name": "RFI",
-          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOQmhleUFFMkNQaEprVzZ5NlgwcGZUbVV1TVlPcWlidnRiZGhMUU1UQnJsZ1lZS0JMTEpxZTFRWW91aE4xNnlXSzI1dEhZTUlNLXVtWWdZb0M2b25Sd1IyM2FiYUViSF82NUdOejktdG9UMldBelpEOW9TNmp5eVdPbGFxeUNVRUlSb2NwYzFpelZUYm1JTFVwdzVEWW13N25LLVV1LTFKNzBrM0RKREp3NHF5RmkyeDEwd1ExRUlNMmVpa1VfbVJGQld2c2l3WW1YR2J4bkFSN05abEpMTDFuV2pGTVFMaVh3MWU2am5ETTVxT21SUE1fTFBZeHhHZjZIdVBhbXFDanhQNUl4UEhJTDYtLXlfOGY1MUxkRDN2dVdzR3BCV1pJd1pRd1RJVUkydklsLVozZjZNLTUxOGFoM3NfdXM0SDVlTWo0ZDYyM25MM21jYUZwUWhPRmZsSlBuOFcwLUxXMDY5RmlteC0zdi1rbUM4YVBXTHdzTVdxUGQ1OUh0Q2E0ZEE2MHo5M0lYNkZacGFDb01rQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "554d4b56a4a9",
