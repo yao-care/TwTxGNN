@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-14T11:44:51.691704+00:00",
-  "count": 28,
+  "fetched_at": "2026-05-14T13:47:19.548541+00:00",
+  "count": 26,
   "news": [
-    {
-      "id": "9bec75bf5367",
-      "title": "無不良嗜好竟確診雙重癌症 醫生揭1個常被忽略的致命傷 隨時增患13種癌症風險 - U Food",
-      "published": "2026-05-13T13:54:32+00:00",
-      "summary": "無不良嗜好竟確診雙重癌症 醫生揭1個常被忽略的致命傷 隨時增患13種癌症風險&nbsp;&nbsp;U Food肥胖、有糖尿病更容易罹癌？醫揭：高胰島素可能成癌細胞生長訊號&nbsp;&nbsp;康健雜誌健康網》肥胖小心 醫：癌症恐正在等待&nbsp;&nbsp;自由健康網細胞增生&nbsp;&nbsp;東周刊肥胖不只是體重問題，它如何透過「腸道—脂肪—腫瘤軸」增加罹癌風險？&nbsp;&nbsp;careonline.com.tw",
-      "sources": [
-        {
-          "name": "U Food",
-          "link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNZ1R3ZWM3ZDNsZHNFdVF3dWtUMjBxVVdmak5PSnpQRk94R1hOZU9GN2JMWWh5U3J2eHBvWVQtZzFMbGxEdmlyUXB3cFRzTHl1VHY4Zlk2bGxmbVBBSTVMdnNLM3daUlJIYnNKUlpxRmh0VzhCbFBaY0t6UHJfcERXQnNhdTRPOTRtSzNNbWhCelV1dTVFN0xUenRYNFRiZ3c0T2NDVVdQMXFUWlJSWTVYWmJLS3d4TXo4OVpkMGZSVFU2VkZKSjM2d3hpWDhNUm8yRkpqVUd0SUxUNWRuZFJUWEZsTXZHRUM0NTZoVlZHalpPeE81MXFXNllaWFpVSk5CLXZjRG5FUzBKLUY5Nkc1aVA5bkhVZFFleFIzNlVzOUlnb0R0bnhPWUhacGczbnhWdjdDdmNpMndMUkJXUEVaQWlrWGllLUpLYVpCaE5IRVhWd3lZTHIyNkZnSHJzRjdjMldHOXUybWpKNTNiR0NMX2FFcUxIOGZaeXZNdXRsVzFsbjQ5cHBFLVRfb0p4T1hfZFBWdmVwb1ZJNkI4S095c09HVmxKNnZzbDBoNGtDai1rNTVXQ2EwVVJlaEJaSmc5YzNBVGs0ZXNFRjNMRF9RdThkRlJUOU4ya0FHTXA5bDhsMzN3VVdMd3g0TUhZWFUwVW45Tw?oc=5"
-        }
-      ]
-    },
     {
       "id": "b0e720448d52",
       "title": "比目魚肌運動可降血糖壞膽固醇？非嚴謹實驗 - 台灣事實查核中心",
@@ -40,14 +28,14 @@
       ]
     },
     {
-      "id": "437cd5d73b3a",
-      "title": "改造益生菌在腸道發揮作用，重塑肝與腦的代謝連動 - TechNews 科技新報",
-      "published": "2026-05-14T00:31:40+00:00",
-      "summary": "改造益生菌在腸道發揮作用，重塑肝與腦的代謝連動&nbsp;&nbsp;TechNews 科技新報",
+      "id": "4d7fb20e8c68",
+      "title": "法國漢他病毒警報解除？26名接觸者檢測全陰性 當局持續監測 - 民視新聞網",
+      "published": "2026-05-14T13:23:26+00:00",
+      "summary": "法國漢他病毒警報解除？26名接觸者檢測全陰性 當局持續監測&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHk4a3QzZVlXYVRhN2xiaTR2SlpHdkZXNHNCOS1WSWwycjQ0WVVkcGNPdWxIVVd0Y1RCUHBrN0JHWHlrNDlQU1RfMVVPcmd0dUE0aF9mcjBuMnY2TjctaFJzTldIeDVid01sMEFqNjhsQlNNM21EOEJZeEFTX2xic2dHdTBVOE9RYnVSMVFaTHRhVldWQ3VXYWlkLWFKRzM4SV9hYTkzbFUtUQ?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rOEs0bzlXcjE4X214bFBYSmRtR19oelJGMkxta1VfVjJRMmRLaFFvUlBGVVdOU1Z0UkMtWGg1VU5hV2hoeUZEclJ5cWxkaFRWSDdjM1ZPMURBZmpkczZ5Yw?oc=5"
         }
       ]
     },
@@ -60,6 +48,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPRVNUdFVMLTNXNE5uMHhZNHNPb1V1Rk85ckI5bjhjS3lBYkpOY0U4dXpMYjIwQnRnaVlSUl8tLXVNdHBGdW9pcHdwWkxnV29ENDQxRkZRVmduQUxLTUp3MHhuelRSQTFEVmxaUmY1RjlONlJaV1Q4RVRfdmtzWmtYNlBZVU4yMTVDZDlLczlfSTVwcGkxcHhBRkRPbzVyTjlPV2FPOHVPZXR0SHpTbXVxNGdlSnRtMHZYd3RSRlNWZ0FBQnBiam1aRW9zMmdjc1RYb2RmQU5JeHYzQXd1TTdLaDlUTEdxNUFrOE84SUZWdUZEMEZXbUtPY1NNc01LSWtyU0hBd3o5aHJZSkNMd2hKNHJZa0NSWTU3YWxQVF80a0xqZGpKTUl5R0FGdmdGdDY5WWNhYmVQOGMyblVK?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "437cd5d73b3a",
+      "title": "改造益生菌在腸道發揮作用，重塑肝與腦的代謝連動 - TechNews 科技新報",
+      "published": "2026-05-14T00:31:40+00:00",
+      "summary": "改造益生菌在腸道發揮作用，重塑肝與腦的代謝連動&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHk4a3QzZVlXYVRhN2xiaTR2SlpHdkZXNHNCOS1WSWwycjQ0WVVkcGNPdWxIVVd0Y1RCUHBrN0JHWHlrNDlQU1RfMVVPcmd0dUE0aF9mcjBuMnY2TjctaFJzTldIeDVid01sMEFqNjhsQlNNM21EOEJZeEFTX2xic2dHdTBVOE9RYnVSMVFaTHRhVldWQ3VXYWlkLWFKRzM4SV9hYTkzbFUtUQ?oc=5"
         }
       ]
     },
@@ -88,26 +88,14 @@
       ]
     },
     {
-      "id": "543a59585c32",
-      "title": "萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發 - 行銷人",
-      "published": "2026-05-14T11:23:39+00:00",
-      "summary": "萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發&nbsp;&nbsp;行銷人",
+      "id": "cd0d55fce013",
+      "title": "萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發 - yesmedia.com.tw",
+      "published": "2026-05-14T10:30:31+00:00",
+      "summary": "萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發&nbsp;&nbsp;yesmedia.com.tw",
       "sources": [
         {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPdDFwSnZYR1hTU3lmZzV1WGw5V1NnTU9SUFlwenJIdk5PTWZoZHNlY1dNNWtFZHNJbDg3Q3Q1blRlSHN0TEtQbHlUSmVJbG9ER1VaaHpaYjBVQ1hwNF9IVGlhZ1JUZmRtekotVnBqOXF6X3hoR05DaEs3QkJabGw0alFQNmFTazluNHRSXy1hY0tjWjhZZFNUV0RMWlE5MkgtaVRmejFWNHRCNFdjTXJoaUg1bVFnTmJnejNVZV9BZ3N2ZnptNGt3SEgwdm9LZ3M4aVYwOG9leG1Fa09ab3NEMDNyOTNqYmZVSmctZFlxdHhNeTcyOHI2SFN3U3E4anFaS0FWcGV3aG5lYkJjMmVocmpHNXVkNTJ6WjB1Q2VFaGl4cjE4bV9oSndnTTVBUUZfdTlwdk16RG90Qk1xaHJBWk1udXQyVXpZUk1IbDNIRHpTbG42OExzb3hzOF94VURYV1cwWkhsd3NmajNYQUpyNE5sMU5EdVJvX1dKVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9e1666e22b67",
-      "title": "康乃狄克州確認歐洲首例與旅行相關的炭疽病例 - arch-web.com.tw",
-      "published": "2026-05-14T00:48:39+00:00",
-      "summary": "康乃狄克州確認歐洲首例與旅行相關的炭疽病例&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNZExiOVNXV3hSdC1oN1RzR2lBVUVfeUo4Xy04OXFlOGlrX1l3WWU0dlpJLXhFTkg1YTk0UVRhWFltVTZnYXVCdUNVTkxmWWVkaTNxZHZxLXVjclpwbkpvWFJtX0tnbkhPZC1XaUZfaGQzeFE4QVpCVEhibUh6ZXlJZ2xKVXdYbkVaamtCNDMxOXdmVnZzZ0hDVkdWZEdKR0JEaWxjQWhxUm1aTl9RRS1iTDJpemN0MVVnc19rejdGN3FfeFhSeVVvbXNhTl93YjV3Q0N6MkJ5cm96UGhRaVgtMFRBeDdZbjYwRkxXel83dHNwMEY4N0ZJSmRncVdXSmxENi1pLUFCZV9GdW5RSl9rdXN0Q2k0MnRGbVlCSnp2TFk2ZjVxWjBNeXVZYTVYZThsaTh0c2x3SU9ITzZBN2RHZEdCbTdfS3BGN1Y4TV8wamoyZVFVNlRXV01JVG4wTy10cFNJZTRnbEU1dFkzMmp1MGVwb0lhV1VNR1E?oc=5"
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQdlFLQWJ0cFpJV3kyODBlWUpFeGN5NXJvdlNEOFV0NnBQZno1TDJyZWk3TVlORWFEYXh4NzRXa0hIRUNuVXkwQmI1eTlWQ2RUQ2ZvZGEyQXhPcjFJWFVvajRDbGhsdVVmV2IzdkltajFkc2FhQ1pCd1hjWncwTEU2WmQtejczRG5jS3lpNUlUYl9SLTNMU3pIcFVUMzZMbWNCMGV4TU00Z3BrRWFmMjJ0ZGpUc0ZUNVBRN0lQUGpKSEtEdElFWmNuTkhhWHZJeE91djN4Rlo1eDVYb0tKUXo5R2VXNzdKVENFZWxHdGx6QVNYcWdLRlBVUzZRQl90R20zSGZTUUxQckJzb0k4YUVOS0I0dzJXbUZpX2lsQndmdXFRa0FGcHZGUlJ4YmxIX295ZXY4U0JydTlIa0Q2TUVsa1hUc2NPT21QSWlLWg?oc=5"
         }
       ]
     },
@@ -124,37 +112,37 @@
       ]
     },
     {
-      "id": "ee2a20aee0af",
-      "title": "健康網》老司機體驗暗黑旅遊 「沒放進去」仍染菜花 - 自由健康網",
-      "published": "2026-05-13T13:17:00+00:00",
-      "summary": "健康網》老司機體驗暗黑旅遊 「沒放進去」仍染菜花&nbsp;&nbsp;自由健康網男赴日洗泡泡浴！回台驚「沒壞壞」中鏢菜花 醫揭5關鍵：手也會傳播&nbsp;&nbsp;祝你健康沒壞壞也會染菜花？醫示警日本泡泡浴不是單純洗澡，5大風險一次看&nbsp;&nbsp;聯合新聞網赴日洗泡泡浴…男「沒壞壞」衰染菜花！ 醫揭5大暗黑地雷&nbsp;&nbsp;ETtoday健康雲男生遊日本試泡泡浴惹椰菜花 呼冤「沒做過」醫生列5大感染地雷&nbsp;&nbsp;香港01",
+      "id": "9e1666e22b67",
+      "title": "康乃狄克州確認歐洲首例與旅行相關的炭疽病例 - arch-web.com.tw",
+      "published": "2026-05-14T00:48:39+00:00",
+      "summary": "康乃狄克州確認歐洲首例與旅行相關的炭疽病例&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxNF9IQV9UcTE3QmRhSlUxQUhvbVVTWkttRm93b3MzU0pkM0pOZGJEQXRBay1SRTA0UzdDS1p6dTBMQXdZR3p2NENKODR1d0IxS3NzdTU1UlRLcnNFcG5GRlo5WWPSAWpBVV95cUxPM0libUZFTkI0d3dua1phTHhvYkZBS1lsQmFUTU1iMFRCWWVQeG9aTFVuOWtOWWRzS1daNTIzWDJaamFTaVIydzdUUnNwN2ZrVHJkcW43b1hiZGNYQXZ0cC1CQTY1dnNqRXBB?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNZExiOVNXV3hSdC1oN1RzR2lBVUVfeUo4Xy04OXFlOGlrX1l3WWU0dlpJLXhFTkg1YTk0UVRhWFltVTZnYXVCdUNVTkxmWWVkaTNxZHZxLXVjclpwbkpvWFJtX0tnbkhPZC1XaUZfaGQzeFE4QVpCVEhibUh6ZXlJZ2xKVXdYbkVaamtCNDMxOXdmVnZzZ0hDVkdWZEdKR0JEaWxjQWhxUm1aTl9RRS1iTDJpemN0MVVnc19rejdGN3FfeFhSeVVvbXNhTl93YjV3Q0N6MkJ5cm96UGhRaVgtMFRBeDdZbjYwRkxXel83dHNwMEY4N0ZJSmRncVdXSmxENi1pLUFCZV9GdW5RSl9rdXN0Q2k0MnRGbVlCSnp2TFk2ZjVxWjBNeXVZYTVYZThsaTh0c2x3SU9ITzZBN2RHZEdCbTdfS3BGN1Y4TV8wamoyZVFVNlRXV01JVG4wTy10cFNJZTRnbEU1dFkzMmp1MGVwb0lhV1VNR1E?oc=5"
         }
       ]
     },
     {
-      "id": "ab021119445c",
-      "title": "健康網》查了4年還是沒元氣 百萬網紅醫揪5個隱藏病因 - 自由健康網",
-      "published": "2026-05-12T11:09:00+00:00",
-      "summary": "健康網》查了4年還是沒元氣 百萬網紅醫揪5個隱藏病因&nbsp;&nbsp;自由健康網",
+      "id": "9bec75bf5367",
+      "title": "無不良嗜好竟確診雙重癌症 醫生揭1個常被忽略的致命傷 隨時增患13種癌症風險 - U Food",
+      "published": "2026-05-13T14:14:01+00:00",
+      "summary": "無不良嗜好竟確診雙重癌症 醫生揭1個常被忽略的致命傷 隨時增患13種癌症風險&nbsp;&nbsp;U Food肥胖、有糖尿病更容易罹癌？醫揭：高胰島素可能成癌細胞生長訊號&nbsp;&nbsp;康健雜誌健康網》肥胖小心 醫：癌症恐正在等待&nbsp;&nbsp;自由健康網細胞增生&nbsp;&nbsp;東周刊肥胖不只是體重問題，它如何透過「腸道—脂肪—腫瘤軸」增加罹癌風險？&nbsp;&nbsp;careonline.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oMjFLRDdvb3ZvTXk5ekQ0V1FVQm1jd3FjbDZpdzA1N1k3U3FPMk1VcUV6YkdaTjFyaTBUQzBfQlNTRXpleVdNVjYwWXRKN21kN3BSYzd2aXJ6bzV5OEw3aWpUbG7SAWpBVV95cUxPU3VCaTNheW81WTF4UEFjc2ZHUHhwUzhMWm5lN0Vxc0JVcERmVXY1LVJoUUxBMzBEN3FvWS1mS2Rma0VRSXFjcXE0ZG5rUTdNTUVLOXJ5UXh5S1g4MGlLbHNFTFVTbWRRcTRn?oc=5"
+          "name": "U Food",
+          "link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNZ1R3ZWM3ZDNsZHNFdVF3dWtUMjBxVVdmak5PSnpQRk94R1hOZU9GN2JMWWh5U3J2eHBvWVQtZzFMbGxEdmlyUXB3cFRzTHl1VHY4Zlk2bGxmbVBBSTVMdnNLM3daUlJIYnNKUlpxRmh0VzhCbFBaY0t6UHJfcERXQnNhdTRPOTRtSzNNbWhCelV1dTVFN0xUenRYNFRiZ3c0T2NDVVdQMXFUWlJSWTVYWmJLS3d4TXo4OVpkMGZSVFU2VkZKSjM2d3hpWDhNUm8yRkpqVUd0SUxUNWRuZFJUWEZsTXZHRUM0NTZoVlZHalpPeE81MXFXNllaWFpVSk5CLXZjRG5FUzBKLUY5Nkc1aVA5bkhVZFFleFIzNlVzOUlnb0R0bnhPWUhacGczbnhWdjdDdmNpMndMUkJXUEVaQWlrWGllLUpLYVpCaE5IRVhWd3lZTHIyNkZnSHJzRjdjMldHOXUybWpKNTNiR0NMX2FFcUxIOGZaeXZNdXRsVzFsbjQ5cHBFLVRfb0p4T1hfZFBWdmVwb1ZJNkI4S095c09HVmxKNnZzbDBoNGtDai1rNTVXQ2EwVVJlaEJaSmc5YzNBVGs0ZXNFRjNMRF9RdThkRlJUOU4ya0FHTXA5bDhsMzN3VVdMd3g0TUhZWFUwVW45Tw?oc=5"
         }
       ]
     },
     {
-      "id": "1a0ca304cbd9",
-      "title": "A流未退、B流升溫，成為新潮「流」 - UDN",
+      "id": "2a17a7d9c0a7",
+      "title": "A流未退、B流升溫，成為新潮「流」 - 聯合新聞網",
       "published": "2026-05-13T09:10:45+00:00",
-      "summary": "A流未退、B流升溫，成為新潮「流」&nbsp;&nbsp;UDN",
+      "summary": "A流未退、B流升溫，成為新潮「流」&nbsp;&nbsp;聯合新聞網",
       "sources": [
         {
-          "name": "UDN",
+          "name": "聯合新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kSTY5cjI4aU5lSnc0R2t0TExkdE82dDNtbm5uUzNSdGFMVVNucDU2eDg0VFpwUG1uSUZCSGdoWlo0cG9ZRHZMSGdXV3lGS21n?oc=5"
         }
       ]
@@ -244,18 +232,6 @@
       ]
     },
     {
-      "id": "650dbb974c28",
-      "title": "數千人前往美國觀看世界杯，阿根廷面臨漢坦病毒爆發 - arch-web.com.tw",
-      "published": "2026-05-12T12:13:20+00:00",
-      "summary": "數千人前往美國觀看世界杯，阿根廷面臨漢坦病毒爆發&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOODhHenJuSVhhOG8zNXY0Y29qLUh4Wk9kenRUOG9HR09JR1U0UVFWanNEMG9OQngtTVFKUFlEYlgtbkEyQVBuRnRUMXdudDliLU5Ha3luTGlQUnJ3Q0VOOUpULVhBck9CY09zSHdvZERaZHBoSE02V0JZY2JGeHAzMGsyRXpwRHNST2JvaFl2dEJyaHFXNk9DS3BvWnAzX1lkTEhmdm1vRmxHdEZpOXdXNkYycGdhS0pPMnpfYVBOU0lnd1BXOE9IMm15SG83U3J2aWF5NFNmUGVIR1VCYlBZUHhFRDlhdVh5bFYxemxmb0JoN0xHOTctNkJ4aTlWYmhJb3F5NWROcDUzWWNxbGdvUVd1VFVJUFJEV1Y5c0lTWjI2Um1MeWFhWGlrMnpCNTZ0dGtCOGR1S3VsWmlSV2RSdFg5YmZRdlFNV3J2RFRTdjVXbnV3YjhDbE1SZVNKaHBQblBUcnpLNlVwWUY1TXliSmVQaHg1N01TZFFlazNydnAwOG5rX2c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e4337fe03845",
       "title": "報稅季忙節稅 醫提醒男性別忽略HPV長期健康風險 - 民視新聞網",
       "published": "2026-05-12T21:30:00+00:00",
@@ -307,7 +283,7 @@
       "id": "3f8f2e95f602",
       "title": "旅遊達人梁芷佩硬扛發燒失敗病倒送醫 確診甲流憔悴臥床無奈停工 - 香港01",
       "published": "2026-05-13T05:30:50+00:00",
-      "summary": "旅遊達人梁芷佩硬扛發燒失敗病倒送醫 確診甲流憔悴臥床無奈停工&nbsp;&nbsp;香港01梁芷珮母親節被子女「抬出街」2天後交代病況：冇諗過咁癲 醫生指社區爆發緊&nbsp;&nbsp;GOtrip.hk甲型流感︱梁芷珮自爆確診甲型流感高燒骨痛全身無力 食特效藥壓不住：冇唸過係咁癲&nbsp;&nbsp;晴報 Sky Post流感殺到 旅遊達人梁芷珮確診甲流 「醫生話而家社區爆發緊！」附9大症狀及預防方法&nbsp;&nbsp;星島頭條「旅遊達人」梁芷珮突發高燒 確診甲型流感臥床病容曝光&nbsp;&nbsp;on.cc東網",
+      "summary": "旅遊達人梁芷佩硬扛發燒失敗病倒送醫 確診甲流憔悴臥床無奈停工&nbsp;&nbsp;香港01甲型流感︱梁芷珮自爆確診甲型流感高燒骨痛全身無力 食特效藥壓不住：冇唸過係咁癲&nbsp;&nbsp;晴報 Sky Post流感殺到 旅遊達人梁芷珮確診甲流 「醫生話而家社區爆發緊！」附9大症狀及預防方法&nbsp;&nbsp;星島頭條「旅遊達人」梁芷珮突發高燒 確診甲型流感臥床病容曝光&nbsp;&nbsp;on.cc東網梁芷珮母親節被子女「抬出街」2天後交代病況：冇諗過咁癲 醫生指社區爆發緊&nbsp;&nbsp;Sundaykiss",
       "sources": [
         {
           "name": "香港01",

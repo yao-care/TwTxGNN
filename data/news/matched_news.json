@@ -1,17 +1,30 @@
 {
-  "last_updated": "2026-05-14T11:44:55.553918+00:00",
-  "total_count": 29,
+  "last_updated": "2026-05-14T13:47:23.942271+00:00",
+  "total_count": 27,
   "matched_count": 6,
   "news": [
     {
-      "id": "543a59585c32",
-      "title": "萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發",
-      "published": "2026-05-14T11:23:39+00:00",
-      "summary": "萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發&nbsp;&nbsp;行銷人",
+      "id": "4d7fb20e8c68",
+      "title": "法國漢他病毒警報解除？26名接觸者檢測全陰性 當局持續監測",
+      "published": "2026-05-14T13:23:26+00:00",
+      "summary": "法國漢他病毒警報解除？26名接觸者檢測全陰性 當局持續監測&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPdDFwSnZYR1hTU3lmZzV1WGw5V1NnTU9SUFlwenJIdk5PTWZoZHNlY1dNNWtFZHNJbDg3Q3Q1blRlSHN0TEtQbHlUSmVJbG9ER1VaaHpaYjBVQ1hwNF9IVGlhZ1JUZmRtekotVnBqOXF6X3hoR05DaEs3QkJabGw0alFQNmFTazluNHRSXy1hY0tjWjhZZFNUV0RMWlE5MkgtaVRmejFWNHRCNFdjTXJoaUg1bVFnTmJnejNVZV9BZ3N2ZnptNGt3SEgwdm9LZ3M4aVYwOG9leG1Fa09ab3NEMDNyOTNqYmZVSmctZFlxdHhNeTcyOHI2SFN3U3E4anFaS0FWcGV3aG5lYkJjMmVocmpHNXVkNTJ6WjB1Q2VFaGl4cjE4bV9oSndnTTVBUUZfdTlwdk16RG90Qk1xaHJBWk1udXQyVXpZUk1IbDNIRHpTbG42OExzb3hzOF94VURYV1cwWkhsd3NmajNYQUpyNE5sMU5EdVJvX1dKVQ?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rOEs0bzlXcjE4X214bFBYSmRtR19oelJGMkxta1VfVjJRMmRLaFFvUlBGVVdOU1Z0UkMtWGg1VU5hV2hoeUZEclJ5cWxkaFRWSDdjM1ZPMURBZmpkczZ5Yw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "cd0d55fce013",
+      "title": "萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發",
+      "published": "2026-05-14T10:30:31+00:00",
+      "summary": "萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQdlFLQWJ0cFpJV3kyODBlWUpFeGN5NXJvdlNEOFV0NnBQZno1TDJyZWk3TVlORWFEYXh4NzRXa0hIRUNuVXkwQmI1eTlWQ2RUQ2ZvZGEyQXhPcjFJWFVvajRDbGhsdVVmV2IzdkltajFkc2FhQ1pCd1hjWncwTEU2WmQtejczRG5jS3lpNUlUYl9SLTNMU3pIcFVUMzZMbWNCMGV4TU00Z3BrRWFmMjJ0ZGpUc0ZUNVBRN0lQUGpKSEtEdElFWmNuTkhhWHZJeE91djN4Rlo1eDVYb0tKUXo5R2VXNzdKVENFZWxHdGx6QVNYcWdLRlBVUzZRQl90R20zSGZTUUxQckJzb0k4YUVOS0I0dzJXbUZpX2lsQndmdXFRa0FGcHZGUlJ4YmxIX295ZXY4U0JydTlIa0Q2TUVsa1hUc2NPT21QSWlLWg?oc=5"
         }
       ],
       "matched_keywords": [
@@ -177,7 +190,7 @@
     {
       "id": "9bec75bf5367",
       "title": "無不良嗜好竟確診雙重癌症 醫生揭1個常被忽略的致命傷 隨時增患13種癌症風險 - U Food",
-      "published": "2026-05-13T13:54:32+00:00",
+      "published": "2026-05-13T14:14:01+00:00",
       "summary": "無不良嗜好竟確診雙重癌症 醫生揭1個常被忽略的致命傷 隨時增患13種癌症風險&nbsp;&nbsp;U Food肥胖、有糖尿病更容易罹癌？醫揭：高胰島素可能成癌細胞生長訊號&nbsp;&nbsp;康健雜誌健康網》肥胖小心 醫：癌症恐正在等待&nbsp;&nbsp;自由健康網細胞增生&nbsp;&nbsp;東周刊肥胖不只是體重問題，它如何透過「腸道—脂肪—腫瘤軸」增加罹癌風險？&nbsp;&nbsp;careonline.com.tw",
       "sources": [
         {
@@ -579,26 +592,13 @@
       ]
     },
     {
-      "id": "ee2a20aee0af",
-      "title": "健康網》老司機體驗暗黑旅遊 「沒放進去」仍染菜花",
-      "published": "2026-05-13T13:17:00+00:00",
-      "summary": "健康網》老司機體驗暗黑旅遊 「沒放進去」仍染菜花&nbsp;&nbsp;自由健康網男赴日洗泡泡浴！回台驚「沒壞壞」中鏢菜花 醫揭5關鍵：手也會傳播&nbsp;&nbsp;祝你健康沒壞壞也會染菜花？醫示警日本泡泡浴不是單純洗澡，5大風險一次看&nbsp;&nbsp;聯合新聞網赴日洗泡泡浴…男「沒壞壞」衰染菜花！ 醫揭5大暗黑地雷&nbsp;&nbsp;ETtoday健康雲男生遊日本試泡泡浴惹椰菜花 呼冤「沒做過」醫生列5大感染地雷&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxNF9IQV9UcTE3QmRhSlUxQUhvbVVTWkttRm93b3MzU0pkM0pOZGJEQXRBay1SRTA0UzdDS1p6dTBMQXdZR3p2NENKODR1d0IxS3NzdTU1UlRLcnNFcG5GRlo5WWPSAWpBVV95cUxPM0libUZFTkI0d3dua1phTHhvYkZBS1lsQmFUTU1iMFRCWWVQeG9aTFVuOWtOWWRzS1daNTIzWDJaamFTaVIydzdUUnNwN2ZrVHJkcW43b1hiZGNYQXZ0cC1CQTY1dnNqRXBB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1a0ca304cbd9",
+      "id": "2a17a7d9c0a7",
       "title": "A流未退、B流升溫，成為新潮「流」",
       "published": "2026-05-13T09:10:45+00:00",
-      "summary": "A流未退、B流升溫，成為新潮「流」&nbsp;&nbsp;UDN",
+      "summary": "A流未退、B流升溫，成為新潮「流」&nbsp;&nbsp;聯合新聞網",
       "sources": [
         {
-          "name": "UDN",
+          "name": "聯合新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kSTY5cjI4aU5lSnc0R2t0TExkdE82dDNtbm5uUzNSdGFMVVNucDU2eDg0VFpwUG1uSUZCSGdoWlo0cG9ZRHZMSGdXV3lGS21n?oc=5"
         }
       ],
@@ -634,7 +634,7 @@
       "id": "3f8f2e95f602",
       "title": "旅遊達人梁芷佩硬扛發燒失敗病倒送醫 確診甲流憔悴臥床無奈停工",
       "published": "2026-05-13T05:30:50+00:00",
-      "summary": "旅遊達人梁芷佩硬扛發燒失敗病倒送醫 確診甲流憔悴臥床無奈停工&nbsp;&nbsp;香港01梁芷珮母親節被子女「抬出街」2天後交代病況：冇諗過咁癲 醫生指社區爆發緊&nbsp;&nbsp;GOtrip.hk甲型流感︱梁芷珮自爆確診甲型流感高燒骨痛全身無力 食特效藥壓不住：冇唸過係咁癲&nbsp;&nbsp;晴報 Sky Post流感殺到 旅遊達人梁芷珮確診甲流 「醫生話而家社區爆發緊！」附9大症狀及預防方法&nbsp;&nbsp;星島頭條「旅遊達人」梁芷珮突發高燒 確診甲型流感臥床病容曝光&nbsp;&nbsp;on.cc東網",
+      "summary": "旅遊達人梁芷佩硬扛發燒失敗病倒送醫 確診甲流憔悴臥床無奈停工&nbsp;&nbsp;香港01甲型流感︱梁芷珮自爆確診甲型流感高燒骨痛全身無力 食特效藥壓不住：冇唸過係咁癲&nbsp;&nbsp;晴報 Sky Post流感殺到 旅遊達人梁芷珮確診甲流 「醫生話而家社區爆發緊！」附9大症狀及預防方法&nbsp;&nbsp;星島頭條「旅遊達人」梁芷珮突發高燒 確診甲型流感臥床病容曝光&nbsp;&nbsp;on.cc東網梁芷珮母親節被子女「抬出街」2天後交代病況：冇諗過咁癲 醫生指社區爆發緊&nbsp;&nbsp;Sundaykiss",
       "sources": [
         {
           "name": "香港01",
@@ -810,32 +810,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "650dbb974c28",
-      "title": "數千人前往美國觀看世界杯，阿根廷面臨漢坦病毒爆發",
-      "published": "2026-05-12T12:13:20+00:00",
-      "summary": "數千人前往美國觀看世界杯，阿根廷面臨漢坦病毒爆發&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOODhHenJuSVhhOG8zNXY0Y29qLUh4Wk9kenRUOG9HR09JR1U0UVFWanNEMG9OQngtTVFKUFlEYlgtbkEyQVBuRnRUMXdudDliLU5Ha3luTGlQUnJ3Q0VOOUpULVhBck9CY09zSHdvZERaZHBoSE02V0JZY2JGeHAzMGsyRXpwRHNST2JvaFl2dEJyaHFXNk9DS3BvWnAzX1lkTEhmdm1vRmxHdEZpOXdXNkYycGdhS0pPMnpfYVBOU0lnd1BXOE9IMm15SG83U3J2aWF5NFNmUGVIR1VCYlBZUHhFRDlhdVh5bFYxemxmb0JoN0xHOTctNkJ4aTlWYmhJb3F5NWROcDUzWWNxbGdvUVd1VFVJUFJEV1Y5c0lTWjI2Um1MeWFhWGlrMnpCNTZ0dGtCOGR1S3VsWmlSV2RSdFg5YmZRdlFNV3J2RFRTdjVXbnV3YjhDbE1SZVNKaHBQblBUcnpLNlVwWUY1TXliSmVQaHg1N01TZFFlazNydnAwOG5rX2c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ab021119445c",
-      "title": "健康網》查了4年還是沒元氣 百萬網紅醫揪5個隱藏病因",
-      "published": "2026-05-12T11:09:00+00:00",
-      "summary": "健康網》查了4年還是沒元氣 百萬網紅醫揪5個隱藏病因&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oMjFLRDdvb3ZvTXk5ekQ0V1FVQm1jd3FjbDZpdzA1N1k3U3FPMk1VcUV6YkdaTjFyaTBUQzBfQlNTRXpleVdNVjYwWXRKN21kN3BSYzd2aXJ6bzV5OEw3aWpUbG7SAWpBVV95cUxPU3VCaTNheW81WTF4UEFjc2ZHUHhwUzhMWm5lN0Vxc0JVcERmVXY1LVJoUUxBMzBEN3FvWS1mS2Rma0VRSXFjcXE0ZG5rUTdNTUVLOXJ5UXh5S1g4MGlLbHNFTFVTbWRRcTRn?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "554d4b56a4a9",
