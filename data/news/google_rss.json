@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-14T22:02:06.083470+00:00",
+  "fetched_at": "2026-05-14T23:47:09.327889+00:00",
   "count": 24,
   "news": [
     {
@@ -76,18 +76,6 @@
       ]
     },
     {
-      "id": "bacbcea985fb",
-      "title": "GLP-1藥物研究新發現 肥胖糖尿病乳癌患存活率增 - ENN台灣電報",
-      "published": "2026-05-14T18:12:09+00:00",
-      "summary": "GLP-1藥物研究新發現 肥胖糖尿病乳癌患存活率增&nbsp;&nbsp;ENN台灣電報前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5QN3J3YU9JcW4zU1Nic2poZXFpd1ZHYnVBdEw3Tk9xT3RGQXRFSzJVbmQtSjJxZC1xNnc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "badf3f2aea10",
       "title": "實驗室「聲波」成功摧毀新冠與流感病毒 有望成抗疫新武器 - 客新聞 HakkaNews",
       "published": "2026-05-13T08:25:05+00:00",
@@ -96,6 +84,18 @@
         {
           "name": "客新聞 HakkaNews",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zZnQxdW9Dbm5sTklzQkVOc1BhbUhmQXlHR1YybW5UQnJ4NjRxd2NJT0pjTUZDRnpmSU1ZODhiWEkxSzVnZ0VxOHlJaDI0Nk9T?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bacbcea985fb",
+      "title": "GLP-1藥物研究新發現 肥胖糖尿病乳癌患存活率增 - ENN台灣電報",
+      "published": "2026-05-14T18:12:09+00:00",
+      "summary": "GLP-1藥物研究新發現 肥胖糖尿病乳癌患存活率增&nbsp;&nbsp;ENN台灣電報前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5QN3J3YU9JcW4zU1Nic2poZXFpd1ZHYnVBdEw3Tk9xT3RGQXRFSzJVbmQtSjJxZC1xNnc?oc=5"
         }
       ]
     },
@@ -124,13 +124,13 @@
       ]
     },
     {
-      "id": "2a17a7d9c0a7",
-      "title": "A流未退、B流升溫，成為新潮「流」 - 聯合新聞網",
+      "id": "1a0ca304cbd9",
+      "title": "A流未退、B流升溫，成為新潮「流」 - UDN",
       "published": "2026-05-13T09:10:45+00:00",
-      "summary": "A流未退、B流升溫，成為新潮「流」&nbsp;&nbsp;聯合新聞網",
+      "summary": "A流未退、B流升溫，成為新潮「流」&nbsp;&nbsp;UDN",
       "sources": [
         {
-          "name": "聯合新聞網",
+          "name": "UDN",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kSTY5cjI4aU5lSnc0R2t0TExkdE82dDNtbm5uUzNSdGFMVVNucDU2eDg0VFpwUG1uSUZCSGdoWlo0cG9ZRHZMSGdXV3lGS21n?oc=5"
         }
       ]

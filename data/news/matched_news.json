@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T22:02:09.627478+00:00",
+  "last_updated": "2026-05-14T23:47:12.287688+00:00",
   "total_count": 25,
   "matched_count": 5,
   "news": [
@@ -250,13 +250,13 @@
       "matched_keywords": []
     },
     {
-      "id": "2a17a7d9c0a7",
+      "id": "1a0ca304cbd9",
       "title": "A流未退、B流升溫，成為新潮「流」",
       "published": "2026-05-13T09:10:45+00:00",
-      "summary": "A流未退、B流升溫，成為新潮「流」&nbsp;&nbsp;聯合新聞網",
+      "summary": "A流未退、B流升溫，成為新潮「流」&nbsp;&nbsp;UDN",
       "sources": [
         {
-          "name": "聯合新聞網",
+          "name": "UDN",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kSTY5cjI4aU5lSnc0R2t0TExkdE82dDNtbm5uUzNSdGFMVVNucDU2eDg0VFpwUG1uSUZCSGdoWlo0cG9ZRHZMSGdXV3lGS21n?oc=5"
         }
       ],
