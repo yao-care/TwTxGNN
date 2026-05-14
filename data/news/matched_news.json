@@ -1,8 +1,73 @@
 {
-  "last_updated": "2026-05-14T02:38:22.200352+00:00",
-  "total_count": 26,
-  "matched_count": 6,
+  "last_updated": "2026-05-14T06:17:11.280409+00:00",
+  "total_count": 30,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "6eb045c49f92",
+      "title": "廣東省疾控中心發布2026年5月健康風險提示",
+      "published": "2026-05-14T04:53:00+00:00",
+      "summary": "廣東省疾控中心發布2026年5月健康風險提示&nbsp;&nbsp;香港商报",
+      "sources": [
+        {
+          "name": "香港商报",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lczJuMjFvRGxsa3oyMGxTZkFNSGtRZDU4VGpvemZCUU5vc2N0ZFNMNTd3WmREcTFCN2xMbTB0dW5MYVZoR0lYX2ZiV2N2ZEgwVHJ0TDg3SVFYc0ljUEk3RnRxUUdHaFRadFljcHBkZkt4TWlZM0ZrQzVTcw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "78554547307a",
+      "title": "控血糖黃金時段曝光！研究揭「這時起身走路」：10分鐘降22%",
+      "published": "2026-05-14T04:42:35+00:00",
+      "summary": "控血糖黃金時段曝光！研究揭「這時起身走路」：10分鐘降22%&nbsp;&nbsp;Yahoo新聞吃糙米、青菜血糖仍飆高？醫揭1動作有驚人奇效：餐後降血糖效果高達22%&nbsp;&nbsp;TVBS 健康2.0飯前吃「這堅果」有奇效！餐後血糖大降28％，穩糖防發胖&nbsp;&nbsp;早安健康每天超慢跑「血糖卻失控」！醫曝真正關鍵 一堆人都忘做1事&nbsp;&nbsp;祝你健康今天起，每坐30分鐘起身走走，代謝悄悄變好&nbsp;&nbsp;flamingwheels.online",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPdS1OeVRXYUk5bUlfc0NNQ1pHMHEzYVFyY2ZBOXlsTlJ3aEhLNTlRcmJkVTJ1LTNGWERYdXlHVERCbl96STZUUzRGRlZYRFZfNGpBSzg2RFV3Ny1HbDVfY1luR0s4cWd6cmNoWDBpeDRxVFpxUHhtOG1UNS1NRWgtNkVvdUxWemJSTVZYeEFiZDB4UFBoRGNnVDJ6TDVOakJIVHY3SU5NRFpMNmtBazJHR1JWVy1ZSWxSOU1CMG5sZERuSlJReDBPekJ5VWR5UlBUY25YWjZBdF81LVlJa25nSFlHcDlZVkNWcGcxRENmOC1YOEQ4S05NNHhlY0paZUtERTF6aE9XT3NfNk9vRWtrWkdkSlY2UE1nZHNBZXI1OG5YRE9QUjAxYnoxWmZaQUx4d2lrbThOeUY3TGtUUUZ6Z2NRMF9hRjE5Skl0YS1fVjFjdXI3VV9tcw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "61ccf67a89e8",
+      "title": "65歲後減重要小心！ 醫師警告瘦太快更危險 | 中廣新聞網 - LINE TODAY",
+      "published": "2026-05-14T03:33:45+00:00",
+      "summary": "65歲後減重要小心！ 醫師警告瘦太快更危險 | 中廣新聞網&nbsp;&nbsp;LINE TODAY65歲後減重要小心！ 醫師警告瘦太快更危險&nbsp;&nbsp;Yahoo新聞規律有氧讓大腦年輕1歲！神經科學家證實：有氧＋肌力這樣練，是大腦抗老化的最強處方&nbsp;&nbsp;ELLE肌肉流失預防｜中醫警告2類長者易患少肌症 2方法改善肌力 推介益氣生肌食療&nbsp;&nbsp;TVB走不動是失能前兆？中醫「補益肝腎」搭配阻力運動與飲食逆轉肌少症&nbsp;&nbsp;健康醫療網",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82aG5pYU1uOWlJc2hibWRWOE9FZDRKNWJMUWwzb1ZtQUtYZ0FJTGQwaVlSZmNTb1czRHpsSjVFLWp0VXVQQ0FocWxzX25MX3VKQWg2VnZB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6fc71b6e9e5c",
+      "title": "吃對能快速逆齡？最新研究揭「1飲食」吃4週 生理年齡降4歲",
+      "published": "2026-05-14T03:00:00+00:00",
+      "summary": "吃對能快速逆齡？最新研究揭「1飲食」吃4週 生理年齡降4歲&nbsp;&nbsp;祝你健康",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0N0MtNU5ZNmRwZHREU2FuN0FlQm0zb0ZKbmljMVoxakY0V2xOSTNUNHliZlJLc0hQazRmMDJCVXI2MTU0REhnbkhEN1c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a1cd42fa4690",
+      "title": "美國CDC應對漢坦病毒如「走鋼絲」",
+      "published": "2026-05-14T02:42:18+00:00",
+      "summary": "美國CDC應對漢坦病毒如「走鋼絲」&nbsp;&nbsp;华尔街日报中文网疾管中心官員表示：漢他病毒對公眾的風險仍然極低 作者 Investing.com&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
+      "sources": [
+        {
+          "name": "华尔街日报中文网",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOS2pacDRSMEN0cG1wUlBOSDJwV2NiT0E4R3ZxeEpCUWdMMURYcVI5d1BwbUNiMjB4VU1MWlYxdEJPQXlfYmtTYzRJSWw3WmxBLXNDd3VsUk1DeVhScEVrQXd2NDJuZ0ozU3d3cDJYblZpVWNhUEE0TnZadm9VakJTSWJCbTMxZUhEMUpDMGhrN3ktSnJpMjRkcy1XUzNXR1AtVF9qbHd0WHFDVy0wdG9hNHZYS29lTjFkbFBtc0hWMFFvTU5xamtHbmx0VzBGU2JfenRjbTdHTkVlNWVvZzlqVXUzQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "9e1666e22b67",
       "title": "康乃狄克州確認歐洲首例與旅行相關的炭疽病例",
@@ -19,7 +84,7 @@
     {
       "id": "437cd5d73b3a",
       "title": "改造益生菌在腸道發揮作用，重塑肝與腦的代謝連動 - TechNews 科技新報",
-      "published": "2026-05-14T00:22:40+00:00",
+      "published": "2026-05-14T00:31:40+00:00",
       "summary": "改造益生菌在腸道發揮作用，重塑肝與腦的代謝連動&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
@@ -489,6 +554,19 @@
       "matched_keywords": []
     },
     {
+      "id": "d98096a8123e",
+      "title": "國家兒童醫學中心推兒科腦瘤AI資料集 助提升診斷精準度",
+      "published": "2026-05-13T09:02:04+00:00",
+      "summary": "國家兒童醫學中心推兒科腦瘤AI資料集 助提升診斷精準度&nbsp;&nbsp;Yahoo股市",
+      "sources": [
+        {
+          "name": "Yahoo股市",
+          "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPcGQ2WEg3UTdJLWoxcUNMTk5ad21LVHVVazQ2U0g5Mm85bUNuR01QUWhRby0xYjFfdGFFeDdNdmctckUyWGl1Q3h0QzVrS1lZNUtqVGdXN195aWc2Q3Rxak5uQkNGT0pUbGkyTkp2ejBqVE94RkQ1bUlYUXdlczF6cHBsLUp3NVFHSzlDM09hSGZCQksyZC0xWnRRRGtZWlVnQkE3MmtpdFJoVVF4d0lOSWNwbVF6elRqc0pCR3pPYzFzak5zNy1yaXZCekllMGpxWUFRT0NQdUVYRXFBU1psXzB5WERhYkRvZ2ExaThVMVhrQnJHYWRGc0MwaEZLNF9yeGN1WE1pR2FoWUY2NnNJZTJ4WmNSN3did2xObkhLNjhDR1pBZ3c1VFNoV0tfUlNkdjM2MUtnT2lVZXREYlJhazM0d3pTcnJWbG1tQlRfTDUxUl9pVjl3STJhSkJ0Q3Z2UGo5Zkd4cTZkU3k1ZjFma3NFVG5JazZRREI2cDVvVQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "badf3f2aea10",
       "title": "實驗室「聲波」成功摧毀新冠與流感病毒 有望成抗疫新武器 - 客新聞 HakkaNews",
       "published": "2026-05-13T08:25:05+00:00",
@@ -505,7 +583,7 @@
       "id": "d82794337acc",
       "title": "練鐵人、吃魚油能防心臟病？權威醫真心勸：這2件事更關鍵…護心不追求極端養生「快樂更重要」",
       "published": "2026-05-13T05:55:00+00:00",
-      "summary": "練鐵人、吃魚油能防心臟病？權威醫真心勸：這2件事更關鍵…護心不追求極端養生「快樂更重要」&nbsp;&nbsp;幸福熟齡魚油跌落神壇？美國心臟學會最新指南揭：「關鍵成分」吃錯，恐讓壞膽固醇更高&nbsp;&nbsp;康健雜誌降血脂藥「史他汀」輸了！魚油是洗腎患者的心臟救星 中風狂降43%&nbsp;&nbsp;Yahoo新聞魚油神話幻滅？美國心臟學會：揀錯1關鍵反而唔健康 營養師教6大實用選購貼士&nbsp;&nbsp;星島頭條法國人愛吃奶油卻少心臟病？護心祕方是甚麼(組圖) - 療養保健 - 石川恭三 - (移動版)&nbsp;&nbsp;secretchina.com",
+      "summary": "練鐵人、吃魚油能防心臟病？權威醫真心勸：這2件事更關鍵…護心不追求極端養生「快樂更重要」&nbsp;&nbsp;幸福熟齡魚油跌落神壇？美國心臟學會最新指南揭：「關鍵成分」吃錯，恐讓壞膽固醇更高&nbsp;&nbsp;康健雜誌降血脂藥「史他汀」輸了！魚油是洗腎患者的心臟救星 中風狂降43%&nbsp;&nbsp;Yahoo新聞喇低賽 金毛大章魚這話說的 偶迷有評論......-股市爆料同學會&nbsp;&nbsp;CMoney三高的人只吃魚油不夠！專家揭一關鍵：ECNS+QH才能讓心臟真正有力&nbsp;&nbsp;壹蘋新聞網",
       "sources": [
         {
           "name": "幸福熟齡",
@@ -593,7 +671,7 @@
       "id": "3f8f2e95f602",
       "title": "旅遊達人梁芷佩硬扛發燒失敗病倒送醫 確診甲流憔悴臥床無奈停工",
       "published": "2026-05-13T05:30:50+00:00",
-      "summary": "旅遊達人梁芷佩硬扛發燒失敗病倒送醫 確診甲流憔悴臥床無奈停工&nbsp;&nbsp;香港01流感殺到 旅遊達人梁芷珮確診甲流 「醫生話而家社區爆發緊！」附9大症狀及預防方法&nbsp;&nbsp;星島頭條「旅遊達人」梁芷珮突發高燒 確診甲型流感臥床病容曝光&nbsp;&nbsp;on.cc東網",
+      "summary": "旅遊達人梁芷佩硬扛發燒失敗病倒送醫 確診甲流憔悴臥床無奈停工&nbsp;&nbsp;香港01梁芷珮母親節被子女「抬出街」2天後交代病況：冇諗過咁癲 醫生指社區爆發緊&nbsp;&nbsp;Sundaykiss流感殺到 旅遊達人梁芷珮確診甲流 「醫生話而家社區爆發緊！」附9大症狀及預防方法&nbsp;&nbsp;星島頭條「旅遊達人」梁芷珮突發高燒 確診甲型流感臥床病容曝光&nbsp;&nbsp;on.cc東網",
       "sources": [
         {
           "name": "香港01",
@@ -822,228 +900,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "0475cdcbba6e",
-      "title": "2年齡斷崖式衰老內外都失控吃對抗老又防糖尿病- 健康",
-      "published": "2026-05-12T05:27:44+00:00",
-      "summary": "2年齡斷崖式衰老內外都失控吃對抗老又防糖尿病- 健康&nbsp;&nbsp;中時新聞網研究指40歲起免疫力急降！醫推6關鍵營養素 甜椒1吃法維他命C暴增&nbsp;&nbsp;香港01抗老飲食新發現！專家揭黃金3要素 飯+醋降血糖/炸雞加1物防老化&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWNhVDNGMjFwc3duSENjZ19id3M1U2duRnFZZW1wX3Nfa0FQZWNrSXl4Ukg4NTFzbkVYMVBVLXUtZDY1eUxCaDBLMjdZVU9OMkdSS1BVM0Z1Ul9YbGZfeXl4SDdhaVNxaFBuOXFzM0pzcjlPcjYtaGR2M0tsWTM4SzIzdGNNaktDMm5qYUxaOA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9b5a5732d228",
-      "title": "健康網》一滴血驗50種癌非萬靈丹 醫揭最大盲點：找到癌症還不夠",
-      "published": "2026-05-12T02:56:00+00:00",
-      "summary": "健康網》一滴血驗50種癌非萬靈丹 醫揭最大盲點：找到癌症還不夠&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0TDJobUI4S2E4eVlFaXVCZzVoVEZRbzdQR2F2Y2Z1SmV3aVlYV0lKZlpaS0ZwTTJxSVZSRjRMbzloMllKdnctVVMwcXFoTXhpNGVWLWlJMnVrTF8wQjVMVThrVFTSAWpBVV95cUxQVGFWZUl6eDVjR0ZjcDF0ZnNPeEN2U21SYmFLWnh2cV9jUVQ5a2NOQWZZWFFHWTBDZXhNNjRWd3A5X1dTSHBQWE16VjI2Q3hOeERnZmhGOUlBZ0VWbUNUMVJNdGpZaTZiTWx3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "554d4b56a4a9",
