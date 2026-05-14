@@ -1,7 +1,31 @@
 {
-  "generated": "2026-05-14T09:27:41.736870+00:00",
-  "count": 4,
+  "generated": "2026-05-14T11:44:55.582672+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "543a59585c32",
+      "title": "萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發",
+      "published": "2026-05-14T11:23:39+00:00",
+      "sources": [
+        {
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPdDFwSnZYR1hTU3lmZzV1WGw5V1NnTU9SUFlwenJIdk5PTWZoZHNlY1dNNWtFZHNJbDg3Q3Q1blRlSHN0TEtQbHlUSmVJbG9ER1VaaHpaYjBVQ1hwNF9IVGlhZ1JUZmRtekotVnBqOXF6X3hoR05DaEs3QkJabGw0alFQNmFTazluNHRSXy1hY0tjWjhZZFNUV0RMWlE5MkgtaVRmejFWNHRCNFdjTXJoaUg1bVFnTmJnejNVZV9BZ3N2ZnptNGt3SEgwdm9LZ3M4aVYwOG9leG1Fa09ab3NEMDNyOTNqYmZVSmctZFlxdHhNeTcyOHI2SFN3U3E4anFaS0FWcGV3aG5lYkJjMmVocmpHNXVkNTJ6WjB1Q2VFaGl4cjE4bV9oSndnTTVBUUZfdTlwdk16RG90Qk1xaHJBWk1udXQyVXpZUk1IbDNIRHpTbG42OExzb3hzOF94VURYV1cwWkhsd3NmajNYQUpyNE5sMU5EdVJvX1dKVQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "916084f04baa",
       "title": "醫晴醫情｜結外邊沿區細胞淋巴癌",
@@ -491,6 +515,30 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "abdb2f209b51",
+      "title": "29歲網紅KOL子宮頸癌離世 27歲確診積極抗癌生前辨一人婚禮圓夢／附預防子宮頸癌飲食 - U Food",
+      "published": "2026-05-12T13:39:00+00:00",
+      "sources": [
+        {
+          "name": "U Food",
+          "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQNTlMOFpiMzlfSHFYOXRocUI3NjAxMExHdWxULWhtRUdoZWdxTFoxV2hIdTc1VGpyLTBzRlQ2TXRUNC1lZjZrblBEN29iUHl0cWJGMXA4WmpWOVZUWE92X0UxQWVUc0ZULW43R1FlVnhKY1UxYWNhUXhhNHZ5eDRwMzhvYUcwc1NDT1h0aC16MTJJdG9CcnM1SFU2SUNPcHVLWUpsRWRlT1RTN1dhZ0tuSTVJUkI3LUJ2OXBjNjVjaTQ2N3RVaF9SaExmeGpXR1hzcjR5bkx1cFhPZXduX0hDZG5PVXdWYnRBYWlUWFpoRkFmbllNdUl2bjBSdjBteW0tN1pDQUJJRExocFd5MncwTnhGVUZYSExmekdzVXBzZnhxQ0xZc1F0LUUxZnZsSnlNNjlVdU4xV0pCVFFnVU15dk9wV3c1N29obEE4N1d2cHdYeXdLWmVWUUIta084SzJpMjdFM3Y5SFI3QktRZVNoY0NubGpJXzdGYnR6UzlwaktDX0IwalV1ZzNlVkxUd2xGekczUkMyNTlhNlB5MTYzTlQ5TEczcHFObm9XVGVQc25RQVFBcm1Sam5ucVFTamk5RV91ZWliam53b2gyNGg5T19Lamp6SlotZTI5bnB1cm9tM3hNaXBj?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
             }
           ]
         }
