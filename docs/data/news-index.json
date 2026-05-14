@@ -1,67 +1,15 @@
 {
-  "generated": "2026-05-14T13:47:23.964975+00:00",
-  "count": 6,
+  "generated": "2026-05-14T16:05:34.230933+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "cd0d55fce013",
-      "title": "萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發",
-      "published": "2026-05-14T10:30:31+00:00",
+      "id": "765d999c1c40",
+      "title": "GLP-1藥物研究新發現 肥胖糖尿病乳癌患存活率增",
+      "published": "2026-05-14T13:50:00+00:00",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQdlFLQWJ0cFpJV3kyODBlWUpFeGN5NXJvdlNEOFV0NnBQZno1TDJyZWk3TVlORWFEYXh4NzRXa0hIRUNuVXkwQmI1eTlWQ2RUQ2ZvZGEyQXhPcjFJWFVvajRDbGhsdVVmV2IzdkltajFkc2FhQ1pCd1hjWncwTEU2WmQtejczRG5jS3lpNUlUYl9SLTNMU3pIcFVUMzZMbWNCMGV4TU00Z3BrRWFmMjJ0ZGpUc0ZUNVBRN0lQUGpKSEtEdElFWmNuTkhhWHZJeE91djN4Rlo1eDVYb0tKUXo5R2VXNzdKVENFZWxHdGx6QVNYcWdLRlBVUzZRQl90R20zSGZTUUxQckJzb0k4YUVOS0I0dzJXbUZpX2lsQndmdXFRa0FGcHZGUlJ4YmxIX295ZXY4U0JydTlIa0Q2TUVsa1hUc2NPT21QSWlLWg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "916084f04baa",
-      "title": "醫晴醫情｜結外邊沿區細胞淋巴癌",
-      "published": "2026-05-13T23:00:00+00:00",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQa1BWU2JIby1UQmRMR0ZaU3RIc3JKRUFqNHdwZ2toM2UyUVJmOWdVcF9vVlAzdDlGRThNUU9BUFNoMDBpSWJWWDRqVWtYenM4SVdfUmJyV3Y3UEJxTGg3Rm5EcFdkUTBod1NaREU3Z0p2NzhVMzk4aTl4dHpLVEIxODVyaTFDQ040bFQwXzJLc0g4dEIwLU5iZWc0empZekpwZDlFZkYySVZaU081VWxNZDlwc1BkRzZMb1RFWGNUTkZ3SHRKU1BOU1RQaWhhZFh4MGFvSEtrRDRXS3FLM085Y2JaODlFZWFkSGNYc0p6QktBcEp5VkR4V0lBSXBrR2t4eUdFV1N3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "primary cutaneous B-cell lymphoma",
-          "keyword": "淋巴癌",
-          "related_drugs": [
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9bec75bf5367",
-      "title": "無不良嗜好竟確診雙重癌症 醫生揭1個常被忽略的致命傷 隨時增患13種癌症風險 - U Food",
-      "published": "2026-05-13T14:14:01+00:00",
-      "sources": [
-        {
-          "name": "U Food",
-          "link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNZ1R3ZWM3ZDNsZHNFdVF3dWtUMjBxVVdmak5PSnpQRk94R1hOZU9GN2JMWWh5U3J2eHBvWVQtZzFMbGxEdmlyUXB3cFRzTHl1VHY4Zlk2bGxmbVBBSTVMdnNLM3daUlJIYnNKUlpxRmh0VzhCbFBaY0t6UHJfcERXQnNhdTRPOTRtSzNNbWhCelV1dTVFN0xUenRYNFRiZ3c0T2NDVVdQMXFUWlJSWTVYWmJLS3d4TXo4OVpkMGZSVFU2VkZKSjM2d3hpWDhNUm8yRkpqVUd0SUxUNWRuZFJUWEZsTXZHRUM0NTZoVlZHalpPeE81MXFXNllaWFpVSk5CLXZjRG5FUzBKLUY5Nkc1aVA5bkhVZFFleFIzNlVzOUlnb0R0bnhPWUhacGczbnhWdjdDdmNpMndMUkJXUEVaQWlrWGllLUpLYVpCaE5IRVhWd3lZTHIyNkZnSHJzRjdjMldHOXUybWpKNTNiR0NMX2FFcUxIOGZaeXZNdXRsVzFsbjQ5cHBFLVRfb0p4T1hfZFBWdmVwb1ZJNkI4S095c09HVmxKNnZzbDBoNGtDai1rNTVXQ2EwVVJlaEJaSmc5YzNBVGs0ZXNFRjNMRF9RdThkRlJUOU4ya0FHTXA5bDhsMzN3VVdMd3g0TUhZWFUwVW45Tw?oc=5"
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BMHhZWmN3ak1FdmNSV0llYjhNU1gyckZUZTB2a1hUbm9zUFRsRThLa1Y3eGpwa2RiWmJBMExsc010dllzVUZETDJkYXROczhvRWc?oc=5"
         }
       ],
       "keywords": [
@@ -262,132 +210,20 @@
         },
         {
           "type": "indication",
-          "name": "腫瘤",
-          "keyword": "腫瘤",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
           "related_drugs": [
             {
               "slug": "trabectedin",
               "name": "Trabectedin"
             },
             {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
               "slug": "docetaxel",
               "name": "Docetaxel"
             },
             {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
             },
             {
               "slug": "carboplatin",
@@ -398,60 +234,88 @@
               "name": "Gemcitabine"
             },
             {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
               "slug": "anastrozole",
               "name": "Anastrozole"
             },
             {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "543a59585c32",
+      "title": "萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發",
+      "published": "2026-05-14T11:23:39+00:00",
+      "sources": [
+        {
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPdDFwSnZYR1hTU3lmZzV1WGw5V1NnTU9SUFlwenJIdk5PTWZoZHNlY1dNNWtFZHNJbDg3Q3Q1blRlSHN0TEtQbHlUSmVJbG9ER1VaaHpaYjBVQ1hwNF9IVGlhZ1JUZmRtekotVnBqOXF6X3hoR05DaEs3QkJabGw0alFQNmFTazluNHRSXy1hY0tjWjhZZFNUV0RMWlE5MkgtaVRmejFWNHRCNFdjTXJoaUg1bVFnTmJnejNVZV9BZ3N2ZnptNGt3SEgwdm9LZ3M4aVYwOG9leG1Fa09ab3NEMDNyOTNqYmZVSmctZFlxdHhNeTcyOHI2SFN3U3E4anFaS0FWcGV3aG5lYkJjMmVocmpHNXVkNTJ6WjB1Q2VFaGl4cjE4bV9oSndnTTVBUUZfdTlwdk16RG90Qk1xaHJBWk1udXQyVXpZUk1IbDNIRHpTbG42OExzb3hzOF94VURYV1cwWkhsd3NmajNYQUpyNE5sMU5EdVJvX1dKVQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "916084f04baa",
+      "title": "醫晴醫情｜結外邊沿區細胞淋巴癌",
+      "published": "2026-05-13T23:00:00+00:00",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQa1BWU2JIby1UQmRMR0ZaU3RIc3JKRUFqNHdwZ2toM2UyUVJmOWdVcF9vVlAzdDlGRThNUU9BUFNoMDBpSWJWWDRqVWtYenM4SVdfUmJyV3Y3UEJxTGg3Rm5EcFdkUTBod1NaREU3Z0p2NzhVMzk4aTl4dHpLVEIxODVyaTFDQ040bFQwXzJLc0g4dEIwLU5iZWc0empZekpwZDlFZkYySVZaU081VWxNZDlwc1BkRzZMb1RFWGNUTkZ3SHRKU1BOU1RQaWhhZFh4MGFvSEtrRDRXS3FLM085Y2JaODlFZWFkSGNYc0p6QktBcEp5VkR4V0lBSXBrR2t4eUdFV1N3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "primary cutaneous B-cell lymphoma",
+          "keyword": "淋巴癌",
+          "related_drugs": [
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
             },
             {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e1f9186064cf",
+      "title": "皮蛇會致命？初期忽略又踩「2飲食地雷」 營養師警告：小心好不了",
+      "published": "2026-05-13T03:58:00+00:00",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRbFB5MWZ2QUlsWEdvVWtMTWdCM2twWFNvNHJFNGxKRHlNTG9ETldfTXNvUHFlUy0zdno4TUZaakFodjFQazNqQl8xOVFRM1lF?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "皮蛇",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
             }
           ]
         }
@@ -476,69 +340,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5f8b9e5076d2",
-      "title": "皮蛇長一圈會致命？營養師揭「神經痛」才是折磨、點名4危險族群",
-      "published": "2026-05-13T02:00:00+00:00",
-      "sources": [
-        {
-          "name": "民報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jd0JMMHl4SnlPWEd6R29WNG5PMU8wcEV4UDNmZUowVXdsVk1tZ1Q2ZjRseGFNcjVPRlVTX01Zc3N5eHRsVUhidnA2aHF2WFl3YkRYYnVCa1BORTRiTWxpVg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "皮蛇",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "神經痛",
-          "keyword": "神經痛",
-          "related_drugs": [
-            {
-              "slug": "ibuprofen",
-              "name": "Ibuprofen"
-            },
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "abdb2f209b51",
-      "title": "29歲網紅KOL子宮頸癌離世 27歲確診積極抗癌生前辨一人婚禮圓夢／附預防子宮頸癌飲食 - U Food",
-      "published": "2026-05-12T13:39:00+00:00",
-      "sources": [
-        {
-          "name": "U Food",
-          "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQNTlMOFpiMzlfSHFYOXRocUI3NjAxMExHdWxULWhtRUdoZWdxTFoxV2hIdTc1VGpyLTBzRlQ2TXRUNC1lZjZrblBEN29iUHl0cWJGMXA4WmpWOVZUWE92X0UxQWVUc0ZULW43R1FlVnhKY1UxYWNhUXhhNHZ5eDRwMzhvYUcwc1NDT1h0aC16MTJJdG9CcnM1SFU2SUNPcHVLWUpsRWRlT1RTN1dhZ0tuSTVJUkI3LUJ2OXBjNjVjaTQ2N3RVaF9SaExmeGpXR1hzcjR5bkx1cFhPZXduX0hDZG5PVXdWYnRBYWlUWFpoRkFmbllNdUl2bjBSdjBteW0tN1pDQUJJRExocFd5MncwTnhGVUZYSExmekdzVXBzZnhxQ0xZc1F0LUUxZnZsSnlNNjlVdU4xV0pCVFFnVU15dk9wV3c1N29obEE4N1d2cHdYeXdLWmVWUUIta084SzJpMjdFM3Y5SFI3QktRZVNoY0NubGpJXzdGYnR6UzlwaktDX0IwalV1ZzNlVkxUd2xGekczUkMyNTlhNlB5MTYzTlQ5TEczcHFObm9XVGVQc25RQVFBcm1Sam5ucVFTamk5RV91ZWliam53b2gyNGg5T19Lamp6SlotZTI5bnB1cm9tM3hNaXBj?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }

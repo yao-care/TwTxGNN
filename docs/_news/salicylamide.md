@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [科學家發現小兒麻痺和一般感冒病毒共有的弱點](https://news.google.com/rss/articles/CBMi-gJBVV95cUxOQXlXaEFZWGlZbnYtcXlZN0J0aHFnNF9PdFRaNy1jR19OcXEyMk1YbjlBZFJHbG5sNjdiWUc4WmFScTR6Y1kzRFZNZTBkdVRFMm12UjN2aW94dFFEMS1CMU1vWTZtc2tXRktXUjlWcTc4T2hqckZXbnhaTXZmS1RVWGxzT2oxeXNPRlQtMnFERjdoSzVVaVM1U3c3a3d1cUJHVkxkLUVjTnFDZUZpRGVtdjByTmNIaTBWZldRR2w5cHE3VXFXUmVRRzllQ0E0MlJTbFZIZ0gxMGRwemZBWVp5ZmpZOGZFbVA2cEVDSFkwS0tNMFBGLTBkN3AwRmoxS0pxRTlTYV9ac293MjZiTXQ5ZVItVkg1OHE0RDBMOVcwLVlDN1V3YS1ZNC1sWDBpVWJfcldSX19YVDcwZnZCTVhrMExLdTh5OVlOUl9tVUVtbW4yNmtOemYzR2hSaEdmWTVpRlZSM1M5Q01RaTVfeWhjYW5neE5aTjY0Z2c?oc=5)
 
 2026-05-13 <span class="news-indication-tag">感冒</span>
 
 來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi-gJBVV95cUxOQXlXaEFZWGlZbnYtcXlZN0J0aHFnNF9PdFRaNy1jR19OcXEyMk1YbjlBZFJHbG5sNjdiWUc4WmFScTR6Y1kzRFZNZTBkdVRFMm12UjN2aW94dFFEMS1CMU1vWTZtc2tXRktXUjlWcTc4T2hqckZXbnhaTXZmS1RVWGxzT2oxeXNPRlQtMnFERjdoSzVVaVM1U3c3a3d1cUJHVkxkLUVjTnFDZUZpRGVtdjByTmNIaTBWZldRR2w5cHE3VXFXUmVRRzllQ0E0MlJTbFZIZ0gxMGRwemZBWVp5ZmpZOGZFbVA2cEVDSFkwS0tNMFBGLTBkN3AwRmoxS0pxRTlTYV9ac293MjZiTXQ5ZVItVkg1OHE0RDBMOVcwLVlDN1V3YS1ZNC1sWDBpVWJfcldSX19YVDcwZnZCTVhrMExLdTh5OVlOUl9tVUVtbW4yNmtOemYzR2hSaEdmWTVpRlZSM1M5Q01RaTVfeWhjYW5neE5aTjY0Z2c?oc=5)
-
----
-
-### [皮蛇長一圈會致命？營養師揭「神經痛」才是折磨、點名4危險族群](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jd0JMMHl4SnlPWEd6R29WNG5PMU8wcEV4UDNmZUowVXdsVk1tZ1Q2ZjRseGFNcjVPRlVTX01Zc3N5eHRsVUhidnA2aHF2WFl3YkRYYnVCa1BORTRiTWxpVg?oc=5)
-
-2026-05-13 <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">神經痛</span>
-
-來源：[民報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jd0JMMHl4SnlPWEd6R29WNG5PMU8wcEV4UDNmZUowVXdsVk1tZ1Q2ZjRseGFNcjVPRlVTX01Zc3N5eHRsVUhidnA2aHF2WFl3YkRYYnVCa1BORTRiTWxpVg?oc=5)
 
 ---
 

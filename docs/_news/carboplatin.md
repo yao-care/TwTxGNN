@@ -27,7 +27,7 @@ permalink: /news/carboplatin/
 <li><strong>原適應症</strong>：HER2 陽性早期乳癌、轉移性乳癌、黑色素瘤、非小細胞肺癌、何杰金氏淋巴瘤、頭頸部鱗狀細胞癌、泌尿道上皮癌等</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>female breast carcinoma（99.9%）</li>
+<li class="indication-matched">female breast carcinoma（99.9%）<span class="indication-tag">📰 乳癌</span></li>
 <li>rectum mucinous adenocarcinoma（99.3%）</li>
 <li>colon mucinous adenocarcinoma（99.3%）</li>
 <li>adult germ cell tumor（99.2%）</li>
@@ -44,11 +44,11 @@ permalink: /news/carboplatin/
 
 ## 相關新聞（1 則）
 
-### [無不良嗜好竟確診雙重癌症 醫生揭1個常被忽略的致命傷 隨時增患13種癌症風險 - U Food](https://news.google.com/rss/articles/CBMi9ANBVV95cUxNZ1R3ZWM3ZDNsZHNFdVF3dWtUMjBxVVdmak5PSnpQRk94R1hOZU9GN2JMWWh5U3J2eHBvWVQtZzFMbGxEdmlyUXB3cFRzTHl1VHY4Zlk2bGxmbVBBSTVMdnNLM3daUlJIYnNKUlpxRmh0VzhCbFBaY0t6UHJfcERXQnNhdTRPOTRtSzNNbWhCelV1dTVFN0xUenRYNFRiZ3c0T2NDVVdQMXFUWlJSWTVYWmJLS3d4TXo4OVpkMGZSVFU2VkZKSjM2d3hpWDhNUm8yRkpqVUd0SUxUNWRuZFJUWEZsTXZHRUM0NTZoVlZHalpPeE81MXFXNllaWFpVSk5CLXZjRG5FUzBKLUY5Nkc1aVA5bkhVZFFleFIzNlVzOUlnb0R0bnhPWUhacGczbnhWdjdDdmNpMndMUkJXUEVaQWlrWGllLUpLYVpCaE5IRVhWd3lZTHIyNkZnSHJzRjdjMldHOXUybWpKNTNiR0NMX2FFcUxIOGZaeXZNdXRsVzFsbjQ5cHBFLVRfb0p4T1hfZFBWdmVwb1ZJNkI4S095c09HVmxKNnZzbDBoNGtDai1rNTVXQ2EwVVJlaEJaSmc5YzNBVGs0ZXNFRjNMRF9RdThkRlJUOU4ya0FHTXA5bDhsMzN3VVdMd3g0TUhZWFUwVW45Tw?oc=5)
+### [GLP-1藥物研究新發現 肥胖糖尿病乳癌患存活率增](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BMHhZWmN3ak1FdmNSV0llYjhNU1gyckZUZTB2a1hUbm9zUFRsRThLa1Y3eGpwa2RiWmJBMExsc010dllzVUZETDJkYXROczhvRWc?oc=5)
 
-2026-05-13 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+2026-05-14 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
 
-來源：[U Food](https://news.google.com/rss/articles/CBMi9ANBVV95cUxNZ1R3ZWM3ZDNsZHNFdVF3dWtUMjBxVVdmak5PSnpQRk94R1hOZU9GN2JMWWh5U3J2eHBvWVQtZzFMbGxEdmlyUXB3cFRzTHl1VHY4Zlk2bGxmbVBBSTVMdnNLM3daUlJIYnNKUlpxRmh0VzhCbFBaY0t6UHJfcERXQnNhdTRPOTRtSzNNbWhCelV1dTVFN0xUenRYNFRiZ3c0T2NDVVdQMXFUWlJSWTVYWmJLS3d4TXo4OVpkMGZSVFU2VkZKSjM2d3hpWDhNUm8yRkpqVUd0SUxUNWRuZFJUWEZsTXZHRUM0NTZoVlZHalpPeE81MXFXNllaWFpVSk5CLXZjRG5FUzBKLUY5Nkc1aVA5bkhVZFFleFIzNlVzOUlnb0R0bnhPWUhacGczbnhWdjdDdmNpMndMUkJXUEVaQWlrWGllLUpLYVpCaE5IRVhWd3lZTHIyNkZnSHJzRjdjMldHOXUybWpKNTNiR0NMX2FFcUxIOGZaeXZNdXRsVzFsbjQ5cHBFLVRfb0p4T1hfZFBWdmVwb1ZJNkI4S095c09HVmxKNnZzbDBoNGtDai1rNTVXQ2EwVVJlaEJaSmc5YzNBVGs0ZXNFRjNMRF9RdThkRlJUOU4ya0FHTXA5bDhsMzN3VVdMd3g0TUhZWFUwVW45Tw?oc=5)
+來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BMHhZWmN3ak1FdmNSV0llYjhNU1gyckZUZTB2a1hUbm9zUFRsRThLa1Y3eGpwa2RiWmJBMExsc010dllzVUZETDJkYXROczhvRWc?oc=5)
 
 ---
 

@@ -31,11 +31,11 @@ permalink: /news/herpes-zoster/
 
 ## 相關新聞（1 則）
 
-### [皮蛇長一圈會致命？營養師揭「神經痛」才是折磨、點名4危險族群](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jd0JMMHl4SnlPWEd6R29WNG5PMU8wcEV4UDNmZUowVXdsVk1tZ1Q2ZjRseGFNcjVPRlVTX01Zc3N5eHRsVUhidnA2aHF2WFl3YkRYYnVCa1BORTRiTWxpVg?oc=5)
+### [皮蛇會致命？初期忽略又踩「2飲食地雷」 營養師警告：小心好不了](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRbFB5MWZ2QUlsWEdvVWtMTWdCM2twWFNvNHJFNGxKRHlNTG9ETldfTXNvUHFlUy0zdno4TUZaakFodjFQazNqQl8xOVFRM1lF?oc=5)
 
 2026-05-13
 
-來源：[民報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jd0JMMHl4SnlPWEd6R29WNG5PMU8wcEV4UDNmZUowVXdsVk1tZ1Q2ZjRseGFNcjVPRlVTX01Zc3N5eHRsVUhidnA2aHF2WFl3YkRYYnVCa1BORTRiTWxpVg?oc=5)
+來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRbFB5MWZ2QUlsWEdvVWtMTWdCM2twWFNvNHJFNGxKRHlNTG9ETldfTXNvUHFlUy0zdno4TUZaakFodjFQazNqQl8xOVFRM1lF?oc=5)
 
 ---
 
