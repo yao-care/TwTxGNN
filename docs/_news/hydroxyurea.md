@@ -44,11 +44,11 @@ permalink: /news/hydroxyurea/
 
 ## 相關新聞（1 則）
 
-### [GLP-1藥物研究新發現 肥胖糖尿病乳癌患存活率增](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BMHhZWmN3ak1FdmNSV0llYjhNU1gyckZUZTB2a1hUbm9zUFRsRThLa1Y3eGpwa2RiWmJBMExsc010dllzVUZETDJkYXROczhvRWc?oc=5)
+### [GLP-1藥物研究新發現 肥胖糖尿病乳癌患存活率增](https://news.google.com/rss/articles/CBMiOkFVX3lxTE5QN3J3YU9JcW4zU1Nic2poZXFpd1ZHYnVBdEw3Tk9xT3RGQXRFSzJVbmQtSjJxZC1xNnc?oc=5)
 
-2026-05-14 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
+2026-05-14 <span class="news-indication-tag">乳癌</span>
 
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BMHhZWmN3ak1FdmNSV0llYjhNU1gyckZUZTB2a1hUbm9zUFRsRThLa1Y3eGpwa2RiWmJBMExsc010dllzVUZETDJkYXROczhvRWc?oc=5)
+來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE5QN3J3YU9JcW4zU1Nic2poZXFpd1ZHYnVBdEw3Tk9xT3RGQXRFSzJVbmQtSjJxZC1xNnc?oc=5)
 
 ---
 

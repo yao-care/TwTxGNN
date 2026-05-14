@@ -14,7 +14,7 @@ permalink: /news/clobetasone/
 ---
 
 <p class="key-answer" data-question="Clobetasone 有什麼相關新聞？">
-<strong>Clobetasone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Clobetasone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/clobetasone/
 <p><a href="{{ '/drugs/clobetasone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [GLP-1藥物研究新發現 肥胖糖尿病乳癌患存活率增](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BMHhZWmN3ak1FdmNSV0llYjhNU1gyckZUZTB2a1hUbm9zUFRsRThLa1Y3eGpwa2RiWmJBMExsc010dllzVUZETDJkYXROczhvRWc?oc=5)
-
-2026-05-14 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BMHhZWmN3ak1FdmNSV0llYjhNU1gyckZUZTB2a1hUbm9zUFRsRThLa1Y3eGpwa2RiWmJBMExsc010dllzVUZETDJkYXROczhvRWc?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [醫晴醫情｜結外邊沿區細胞淋巴癌](https://news.google.com/rss/articles/CBMihgJBVV95cUxQa1BWU2JIby1UQmRMR0ZaU3RIc3JKRUFqNHdwZ2toM2UyUVJmOWdVcF9vVlAzdDlGRThNUU9BUFNoMDBpSWJWWDRqVWtYenM4SVdfUmJyV3Y3UEJxTGg3Rm5EcFdkUTBod1NaREU3Z0p2NzhVMzk4aTl4dHpLVEIxODVyaTFDQ040bFQwXzJLc0g4dEIwLU5iZWc0empZekpwZDlFZkYySVZaU081VWxNZDlwc1BkRzZMb1RFWGNUTkZ3SHRKU1BOU1RQaWhhZFh4MGFvSEtrRDRXS3FLM085Y2JaODlFZWFkSGNYc0p6QktBcEp5VkR4V0lBSXBrR2t4eUdFV1N3?oc=5)
 

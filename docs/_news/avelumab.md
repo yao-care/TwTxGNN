@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [GLP-1藥物研究新發現 肥胖糖尿病乳癌患存活率增](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BMHhZWmN3ak1FdmNSV0llYjhNU1gyckZUZTB2a1hUbm9zUFRsRThLa1Y3eGpwa2RiWmJBMExsc010dllzVUZETDJkYXROczhvRWc?oc=5)
-
-2026-05-14 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BMHhZWmN3ak1FdmNSV0llYjhNU1gyckZUZTB2a1hUbm9zUFRsRThLa1Y3eGpwa2RiWmJBMExsc010dllzVUZETDJkYXROczhvRWc?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [皮蛇會致命？初期忽略又踩「2飲食地雷」 營養師警告：小心好不了](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRbFB5MWZ2QUlsWEdvVWtMTWdCM2twWFNvNHJFNGxKRHlNTG9ETldfTXNvUHFlUy0zdno4TUZaakFodjFQazNqQl8xOVFRM1lF?oc=5)
 
