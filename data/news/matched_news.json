@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-05-15T11:48:20.819285+00:00",
-  "total_count": 23,
+  "last_updated": "2026-05-15T13:44:56.789221+00:00",
+  "total_count": 24,
   "matched_count": 5,
   "news": [
+    {
+      "id": "f3b88b06fc79",
+      "title": "科學家發現維生素 B2 可能有助於癌細胞存活。",
+      "published": "2026-05-15T13:14:52+00:00",
+      "summary": "科學家發現維生素 B2 可能有助於癌細胞存活。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOTFNOTkdmRUI3NFR3V3JPQldkVndISm9GWThGZjVfWjdRS29VTTl4THNSZVNweklmQ2JyTEN6b3lGc3RPNy1hWkN3a19mSFpINVhPZk5DLWwwNTlhYXdaYWZWWVBnSHFJVXJXWU1Kdk1VWVJSSFJSbkxSTVhSRXBkMl82bjJKOV9STjVtckRDcnBJeFgyVzF2enNKM3dTTWYzRVd3aDRaQUU4S2RHU1kwOWEtNDJqOUN2NXN0bzhoQ0t2SFZQTWdjRGxOeF9PRnUxcjJSaldZdDM0QVU4eUR6czhBdFJ4cGUzSHJjNkduUHFHZ2diVUFrZnQ3VmhqQmFUNVkzOG0zMjE3NzBhY1dfZGlKSTFaeEZ6eXV3a0ZZaDRNcEhETy1kS2lpRWpDOHBSODVWQ2hyanplazd3ek9tRm1LSUprSFVaV014ZnBLUWM3b2xpV0EzYWdabzk3MGdXWWluRVJqUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "a990a992c105",
       "title": "研究揭孕婦免疫過度反應致重症流感 新型治療有望",
@@ -12,6 +25,19 @@
         {
           "name": "yesmedia.com.tw",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQaWQ5NnY3bVVwRWtLaGR0TjZqZmQyc0NQanoyajVhbmRDRDBMcUV5X3JQUXREd2RKdjByalpfR19DR2xEdmhROGNmb1VhVnJyY3NnOHFRUUo5YklYajFxRUk0R2hWTlNHdXJERlllWFBrNXBZYlBleXk0UnRCR2lqLURSZUwzaHA3Rlk2RW1neGxnUFVqNnk1Q0p5NDAwUEN1ZVBPX0didTJFVXVNVzd6RDdxTDBwRzg5cnV2S0FxYlA2VDJmUU4xcFFrVE9jYUk1Q0hNdjUwT0dvY0ZPa0JJSDkxTk1Wd1plb1BQajgtQjlzdTBDTVo5M2drYWZxaEhzcU50cjhzeVAyckEzLTlnaW9DQXJ1dDJkMURIcFpla19walF2alNOaUwxbkpQbU8zSXptUWQ1ZXdvOWd3MG9LU2hzRnMyZkpPVWFtdg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d812015d066b",
+      "title": "剛果民主共和國爆發新伊波拉疫情逾200人遭感染、65人死亡| 國際",
+      "published": "2026-05-15T09:21:37+00:00",
+      "summary": "剛果民主共和國爆發新伊波拉疫情逾200人遭感染、65人死亡| 國際&nbsp;&nbsp;Newtalk新聞剛果爆發「伊波拉病毒」疑似病例 至少65人死亡&nbsp;&nbsp;Yahoo新聞非洲疾控中心：剛果（金）出現埃博拉疫情- 國際 - 香港文匯網&nbsp;&nbsp;香港文匯網非洲疾控中心：民主剛果爆發伊波拉病毒疫情&nbsp;&nbsp;大紀元時報 香港非洲疾控中心證實剛果伊圖里省爆發新一輪伊波拉疫情&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "Newtalk新聞",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MSTNQN0c1S3d1TmVNMDk4cmNYeHpBX2tRbXF3bjRtNUtGQ19PSTdJNExseEtMWUJ3UWpkenhrS2JFVVhqM0o5UEd4QS11LXlxSEk1TVd6dGtyWm8?oc=5"
         }
       ],
       "matched_keywords": []
@@ -302,19 +328,6 @@
         {
           "name": "台灣事實查核中心",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRTRyMElZMnJGRmg4OEJOVmJMRjBzSGJYbjNGZ0VXWmNkdWhtQllXcHg2eGxjRWRWVk1xVUFoTzlMZ25Rdl9yaWtMbi1TNTNoT3hhRGo2eE1meE5OdFNSb2pfS0dhaWxnQ2hZSlEtX1N4di1fODVMNUZoZUNvRjFYeVhSQ2dNZEloeUhycjdOQzdKWDRjOExCQVRUd1o1YkR0NGY3UlBQRkhrUDk5aVk3ZHRfSEpqa2hZWndlbVV0WXE3akdaNWdV?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "03a66d0b6f53",
-      "title": "網上熱話｜港男形容「受過情傷嘅女仔」好難搞 拍拖數周已想斬纜 網民睇法兩極",
-      "published": "2026-05-14T06:00:00+00:00",
-      "summary": "網上熱話｜港男形容「受過情傷嘅女仔」好難搞 拍拖數周已想斬纜 網民睇法兩極&nbsp;&nbsp;AM730",
-      "sources": [
-        {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zR3ZaWVlFb0dYb3k3VWRoMlRDVk1sZ1RQU3NDQUt3cERubW50Rm1SVVA0QXNfNmVzUHgxbHFEeEJKRGdiaEZ5MUNNX3IzelFsdWc?oc=5"
         }
       ],
       "matched_keywords": []
