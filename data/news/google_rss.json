@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-15T09:39:23.393264+00:00",
-  "count": 24,
+  "fetched_at": "2026-05-15T11:48:17.449807+00:00",
+  "count": 22,
   "news": [
     {
       "id": "f866f5c253be",
@@ -12,6 +12,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41aEcwR2ZYMHFtd2EyZEdaLWxZM05Cckk4aWNHa3c5WmdPWmNfTF80dlJpMDktSkdSRFlSOVBhYkpPRngybjlValhaREF2RnpxLVVjSHk3d0o2MnRXbk4zcDd3Q2bSAWpBVV95cUxNR3ZFNG9IQ2cyY1RTN3ladkxUbi0xNVk4aVR0SUxab3kyZlU0cUhVVHJwR1g1QjhWc3JaLWdfOUpHY0VOVHlPS3VLQmxGUFh4T3NTcTZ2LWV5bE5ud0pQajZLd0dWUzk0QmdR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a990a992c105",
+      "title": "研究揭孕婦免疫過度反應致重症流感 新型治療有望 - yesmedia.com.tw",
+      "published": "2026-05-15T10:08:34+00:00",
+      "summary": "研究揭孕婦免疫過度反應致重症流感 新型治療有望&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQaWQ5NnY3bVVwRWtLaGR0TjZqZmQyc0NQanoyajVhbmRDRDBMcUV5X3JQUXREd2RKdjByalpfR19DR2xEdmhROGNmb1VhVnJyY3NnOHFRUUo5YklYajFxRUk0R2hWTlNHdXJERlllWFBrNXBZYlBleXk0UnRCR2lqLURSZUwzaHA3Rlk2RW1neGxnUFVqNnk1Q0p5NDAwUEN1ZVBPX0didTJFVXVNVzd6RDdxTDBwRzg5cnV2S0FxYlA2VDJmUU4xcFFrVE9jYUk1Q0hNdjUwT0dvY0ZPa0JJSDkxTk1Wd1plb1BQajgtQjlzdTBDTVo5M2drYWZxaEhzcU50cjhzeVAyckEzLTlnaW9DQXJ1dDJkMURIcFpla19walF2alNOaUwxbkpQbU8zSXptUWQ1ZXdvOWd3MG9LU2hzRnMyZkpPVWFtdg?oc=5"
         }
       ]
     },
@@ -40,18 +52,6 @@
       ]
     },
     {
-      "id": "f966e607279a",
-      "title": "大型研究揭示：人類細胞蛋白如何影響 HIV 感染與複製 - TechNews 科技新報",
-      "published": "2026-05-14T23:18:44+00:00",
-      "summary": "大型研究揭示：人類細胞蛋白如何影響 HIV 感染與複製&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmdUVndHQkdqWnNIYnFFY1J0cnNkc0RXYlhNZG1HLUR1emttT3ktRTI5aHNmUjE2WHNKS0F3cnQxX3BmbUl6cGJiNDVNa1JzVVh3VkVlc01YRENqSkJHNnNjcThtQjRZNE1tVUMyZGNVcWU1dnhIYmpRZGNZNGVXSGwzenFvMWNzS2UyMDVCdFNwSXJ6SVBhbnhzeEp5eDdyYWotRWJkZUktTVhMRElJN0VjclY?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2629e8b2046d",
       "title": "多囊性卵巢症候群正式更名 醫界強調其影響逾越婦科範疇 - ENN台灣電報",
       "published": "2026-05-14T03:18:32+00:00",
@@ -72,6 +72,18 @@
         {
           "name": "台灣事實查核中心",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRTRyMElZMnJGRmg4OEJOVmJMRjBzSGJYbjNGZ0VXWmNkdWhtQllXcHg2eGxjRWRWVk1xVUFoTzlMZ25Rdl9yaWtMbi1TNTNoT3hhRGo2eE1meE5OdFNSb2pfS0dhaWxnQ2hZSlEtX1N4di1fODVMNUZoZUNvRjFYeVhSQ2dNZEloeUhycjdOQzdKWDRjOExCQVRUd1o1YkR0NGY3UlBQRkhrUDk5aVk3ZHRfSEpqa2hZWndlbVV0WXE3akdaNWdV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f966e607279a",
+      "title": "大型研究揭示：人類細胞蛋白如何影響 HIV 感染與複製 - TechNews 科技新報",
+      "published": "2026-05-14T23:18:44+00:00",
+      "summary": "大型研究揭示：人類細胞蛋白如何影響 HIV 感染與複製&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmdUVndHQkdqWnNIYnFFY1J0cnNkc0RXYlhNZG1HLUR1emttT3ktRTI5aHNmUjE2WHNKS0F3cnQxX3BmbUl6cGJiNDVNa1JzVVh3VkVlc01YRENqSkJHNnNjcThtQjRZNE1tVUMyZGNVcWU1dnhIYmpRZGNZNGVXSGwzenFvMWNzS2UyMDVCdFNwSXJ6SVBhbnhzeEp5eDdyYWotRWJkZUktTVhMRElJN0VjclY?oc=5"
         }
       ]
     },
@@ -100,14 +112,14 @@
       ]
     },
     {
-      "id": "f66555095cc1",
-      "title": "一下雨就厭世？疲倦、嗜甜、懶出門…小心「季節性情感障礙」！營養師教這樣吃趕走雨天憂鬱 - Yahoo新聞",
-      "published": "2026-05-14T09:00:02+00:00",
-      "summary": "一下雨就厭世？疲倦、嗜甜、懶出門…小心「季節性情感障礙」！營養師教這樣吃趕走雨天憂鬱&nbsp;&nbsp;Yahoo新聞",
+      "id": "281fe8900236",
+      "title": "一下雨就厭世？疲倦、嗜甜、懶出門…小心「季節性情感障礙」！營養師教這樣吃趕走雨天憂鬱| 幸福熟齡X 今周刊 - LINE TODAY",
+      "published": "2026-05-14T09:29:51+00:00",
+      "summary": "一下雨就厭世？疲倦、嗜甜、懶出門…小心「季節性情感障礙」！營養師教這樣吃趕走雨天憂鬱| 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPemVEdmdtNW5YeU42Xy1FdUlKS1d4eUwzR0x4MV81NndnSEozYUs0RXEydHRHMkRwb2JzSTBjMnJVbW41OXpHWXQzREx5Q3VpNGJyellzV3NpRG5ydnZFTTBvc1kwaXRTbkZsSUZEQ2xTajhZQjhab2RKS3d2VzRQTllaR3F5RExWZ0lHR3FnQUVTSEZ1NlR6MVM0TlpROFBNNklvZUJSdi02VjNDd21MMlVRdmptRk9VU3NmdUd0b3RFNF9CMG5Ya3dDdzB5eW9ZMElNWk01MXdUMTJiSFUta2MyUGdibmNRR1BSZVhZb2dFZ2k1TVFNS251eDNkQmVB?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmeEJiYlR4X3pmekdRakt6bnhuNTc5b3MyTi13VWR2SkYyTWpyQVNMcnBWb09mUExKX29MRWlVRURXT1ZZLTdpa3E4SEY0SFpFUElEc09R?oc=5"
         }
       ]
     },
@@ -136,18 +148,6 @@
       ]
     },
     {
-      "id": "2a17a7d9c0a7",
-      "title": "A流未退、B流升溫，成為新潮「流」 - 聯合新聞網",
-      "published": "2026-05-13T09:10:45+00:00",
-      "summary": "A流未退、B流升溫，成為新潮「流」&nbsp;&nbsp;聯合新聞網",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kSTY5cjI4aU5lSnc0R2t0TExkdE82dDNtbm5uUzNSdGFMVVNucDU2eDg0VFpwUG1uSUZCSGdoWlo0cG9ZRHZMSGdXV3lGS21n?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1a46284e62c9",
       "title": "忙著報稅也別忘健康，醫：男性HPV風險不容忽視 - Yahoo新聞",
       "published": "2026-05-15T02:50:41+00:00",
@@ -168,30 +168,6 @@
         {
           "name": "华尔街日报中文网",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOS2pacDRSMEN0cG1wUlBOSDJwV2NiT0E4R3ZxeEpCUWdMMURYcVI5d1BwbUNiMjB4VU1MWlYxdEJPQXlfYmtTYzRJSWw3WmxBLXNDd3VsUk1DeVhScEVrQXd2NDJuZ0ozU3d3cDJYblZpVWNhUEE0TnZadm9VakJTSWJCbTMxZUhEMUpDMGhrN3ktSnJpMjRkcy1XUzNXR1AtVF9qbHd0WHFDVy0wdG9hNHZYS29lTjFkbFBtc0hWMFFvTU5xamtHbmx0VzBGU2JfenRjbTdHTkVlNWVvZzlqVXUzQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6924e3c47177",
-      "title": "國家兒童醫學中心推兒科腦瘤AI資料集 助提升診斷精準度 - 蕃新聞",
-      "published": "2026-05-13T09:02:00+00:00",
-      "summary": "國家兒童醫學中心推兒科腦瘤AI資料集 助提升診斷精準度&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0ydUVteXdaaTQ2cnJKTTRrUFNYQmhLWVBlbmVUa0FScE5qZ2FiMkhZb0t6RzdYVHZGR3BJUmtjdlp1WVk3SGJNYjhjOEQwbkRodGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "159d5feab364",
-      "title": "敗血症是什麼？醫曝「感染失控」恐器官衰竭 發燒、全身痠痛別輕忽 - Yahoo新聞",
-      "published": "2026-05-15T07:15:00+00:00",
-      "summary": "敗血症是什麼？醫曝「感染失控」恐器官衰竭 發燒、全身痠痛別輕忽&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPdml3TWE0SS1LWWpMTGZVaGtMR0htZG84ZzJRYUhJRHF0Y0x4OUd6d1dSX2c3UktCZWRGMDAtN2FaNmtrQlZUczVLaVlyMVV4TkRrbU5MZkZKTkI4eW1YNGZXN20zc3dhUG82aHU1VThCeWNNSWNhYlVHR3E2Y3BRMUhiUklKYk9LNHBMOTFwQmRiMmkyWVJ2TUpxYm1OVkVQTHpsLWwyOGFaT2RWZS01N1pMd1pYMHRGc3lsaWRERWo1U093cGFhZnotX2hmWW1YenhJa2pPT1pNV0g1YTE5anVILXFoR25yVGJSTWRCSjl3YlVQOVB3b1hfeVZJQmgwaTNIYlpIcHpzQ2RJMU1MOGg1UFAyOVFmYk1OX09JUVNydjQyOXNvYkdDbEwyT2RwQWpJNnBpVk42amJi?oc=5"
         }
       ]
     },
@@ -268,18 +244,6 @@
       ]
     },
     {
-      "id": "547f1415547d",
-      "title": "舌癌成因｜舌頭常損易變癌！無辣不歡蛀牙不理舌癌5成因＋4症狀 - 香港01",
-      "published": "2026-05-14T09:08:40+00:00",
-      "summary": "舌癌成因｜舌頭常損易變癌！無辣不歡蛀牙不理舌癌5成因＋4症狀&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxQTTdtVkV6Rmdtd3JYWG1DSXF0bU9wN1FlX1RCRTBoUTBJYVM2UTdzb0doNE5qakxnX29zQ2NXUDlxUHZZc2x3NC1JeW95MWZrUFR0MW5yZ3dHaDlwUHJkRkdzN0pxQVE4dE9aMlNiTEYyck0zWEVPbXJ0WFhKRHRXSmJ5Y0xIbXNacUhaWWpkVUI5a2ZZbEo0NTFYSU9wRGd3SHFtXzdlVFZheGNwb05YenFHN1BGYmhCLU42aW9ldU9ic05qS1VNanJuOWJER05WSENaczZCTlVkcXUtZzZIakgzc0hJaElNOWNCQ1NWSHRnUkFtbFU0VGpFNFF1RHlJd3V5dm1sUFpxbWxuNEVvUldsMXAyTlVsemxVNEs0OUpfM2hHVFRZaFRHbFF1Ym9pRURlZXU5dXZ5c1lTcVl6SzM4Nk1TTTdZcEpGdi10ZUMzRWVURE5ua3BxVEJ4d3ZXSnRjeVd4eUFVWmExUWZwNmZkTTZ4RGRfZmk0LVV4ejh4emVvM2tMY185THpsMm8x?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0fd0bded29d6",
       "title": "滿地可停車場疑遭縱火　重型貨車燃起熊熊大火 另10車受波及 - singtao.ca",
       "published": "2026-05-14T17:15:00+00:00",
@@ -288,6 +252,18 @@
         {
           "name": "singtao.ca",
           "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxOMklVYVZwdEEtcmlEcWlWSnFKY3BnbWFVLW14UWloTGtxRFhpblVSZkNVQ2otS3Q5VDlnMEItQU9VazBFaVY1S0lWVXY0RlJURXZiSXFGTXl2NTNhWldGYVdxRHdRZ1lxc0tWRUwtZ3J6RGI1Y251V1lpZ1FDTlV1c3JsTkthV1hub0UtWWJ5QTJxdUVwYTQyckR4TjBQMVY5eEs4bGdfVlhQekY5RGNoeGFVM3l4eVJpMzVLX1pKdXpITVVPVXJLRWdHOFhuYmxKX0lFTnVYeW9ZRmF3V2VrX0pGcGdVWmNtSFZwcHFoS2tEcm5OdHVIWGNDckJwRkh0OWpQLXFud2NYR3hoelVudzFsNkQ1cFh5NlFaLUVHZFhadHNLS0hmVlFuX043STlVMXB0LTdFSFp1VW0wd1VDX3VLam1OZFN4T3kxUVZKODl3WlMydk01dHgyaVp1TnR0TlEtYTdxQTFyQUVScVZmYXUtSmU5UVZkcFpOSlZjaDBNaThBSW01OHhFay1hYi1ZUEZLaDVVdHrSAYoBQVVfeXFMTnB0M2xWSHl2cUpyVUJDYWN1My0yOGp4ZGROZVpYWGlDeDZvQnhrYXhjQU8taXBSM0U2OUo0bklqM041ckVWRjctZ2ltUmV5R0xvVjh6Yndtc0ZjNHNobFlBU19qMzE3WE1qVjN0b3FkRnBPWEpOdUM1V2FhckxVSklUQzZmN2hxendR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "547f1415547d",
+      "title": "舌癌成因｜舌頭常損易變癌！無辣不歡蛀牙不理舌癌5成因＋4症狀 - 香港01",
+      "published": "2026-05-14T09:08:40+00:00",
+      "summary": "舌癌成因｜舌頭常損易變癌！無辣不歡蛀牙不理舌癌5成因＋4症狀&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxQTTdtVkV6Rmdtd3JYWG1DSXF0bU9wN1FlX1RCRTBoUTBJYVM2UTdzb0doNE5qakxnX29zQ2NXUDlxUHZZc2x3NC1JeW95MWZrUFR0MW5yZ3dHaDlwUHJkRkdzN0pxQVE4dE9aMlNiTEYyck0zWEVPbXJ0WFhKRHRXSmJ5Y0xIbXNacUhaWWpkVUI5a2ZZbEo0NTFYSU9wRGd3SHFtXzdlVFZheGNwb05YenFHN1BGYmhCLU42aW9ldU9ic05qS1VNanJuOWJER05WSENaczZCTlVkcXUtZzZIakgzc0hJaElNOWNCQ1NWSHRnUkFtbFU0VGpFNFF1RHlJd3V5dm1sUFpxbWxuNEVvUldsMXAyTlVsemxVNEs0OUpfM2hHVFRZaFRHbFF1Ym9pRURlZXU5dXZ5c1lTcVl6SzM4Nk1TTTdZcEpGdi10ZUMzRWVURE5ua3BxVEJ4d3ZXSnRjeVd4eUFVWmExUWZwNmZkTTZ4RGRfZmk0LVV4ejh4emVvM2tMY185THpsMm8x?oc=5"
         }
       ]
     }

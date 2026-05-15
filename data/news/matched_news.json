@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-05-15T09:39:27.803418+00:00",
-  "total_count": 25,
+  "last_updated": "2026-05-15T11:48:20.819285+00:00",
+  "total_count": 23,
   "matched_count": 5,
   "news": [
+    {
+      "id": "a990a992c105",
+      "title": "研究揭孕婦免疫過度反應致重症流感 新型治療有望",
+      "published": "2026-05-15T10:08:34+00:00",
+      "summary": "研究揭孕婦免疫過度反應致重症流感 新型治療有望&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQaWQ5NnY3bVVwRWtLaGR0TjZqZmQyc0NQanoyajVhbmRDRDBMcUV5X3JQUXREd2RKdjByalpfR19DR2xEdmhROGNmb1VhVnJyY3NnOHFRUUo5YklYajFxRUk0R2hWTlNHdXJERlllWFBrNXBZYlBleXk0UnRCR2lqLURSZUwzaHA3Rlk2RW1neGxnUFVqNnk1Q0p5NDAwUEN1ZVBPX0didTJFVXVNVzd6RDdxTDBwRzg5cnV2S0FxYlA2VDJmUU4xcFFrVE9jYUk1Q0hNdjUwT0dvY0ZPa0JJSDkxTk1Wd1plb1BQajgtQjlzdTBDTVo5M2drYWZxaEhzcU50cjhzeVAyckEzLTlnaW9DQXJ1dDJkMURIcFpla19walF2alNOaUwxbkpQbU8zSXptUWQ1ZXdvOWd3MG9LU2hzRnMyZkpPVWFtdg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "859b491fcc98",
       "title": "營養師：吃義大利麵根本不會發胖，它是地中海健康飲食之一，越吃越健康！ - Vogue Taiwan",
@@ -25,19 +38,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQbVg5Z2doZVpxNlZCRUFkM0ctcHljVUlhSDJCcFp0TGpVclBmYTlnTFNFU1RNcTF4Q2xwV0tKa0dIZWVvd2dGbGxDVjN1Q1hGZ3RCbEYxd3VVRWRYQ1VqNi1YOVpTWVlBazVXZjBaUndkSHZaQlNfVnI3R3lhTVA0UC10NGQtRVM1NGlxRkpabjZrSHZYOXRFZEpnZmhmaU45VzE4RVp1cGtHVExyQWhNQ25hSlBJd3JEdnc0Q2owNk5OZkVhcDBmaHhRS01zTlhBOHlFSkwxb21tNEw4OUkwb0UtblU4NUxhMUFxa0k1TnhCNGRiQUdudnJvbkJEdXNpNEJyNjFCOE5DMFV0X0k3X2pVbWFwSXozUFJSZGlQNF90NUZiNmlGa2wtS3M4bEdjX1NRYl9saEdPektlWjBGamY1T2Z6WnhlUXZjZFNYWWtXOEV5MW1lQVA2TmNnVVBLTUotallzMm5DZThkaV9ra2V0M0pwM1k3d2poWTlIZWI3eDJUZlhLTEpmUlhUSGZtWXFRb0VsYXNVcFZHaU5yR1ZXbWlHei0tTVFlQ0tEaU96QWVaNmxyTF9aS0M2RE1oMFdMOTB4VG9NNVJqVjFLZVU0SQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "159d5feab364",
-      "title": "敗血症是什麼？醫曝「感染失控」恐器官衰竭 發燒、全身痠痛別輕忽",
-      "published": "2026-05-15T07:15:00+00:00",
-      "summary": "敗血症是什麼？醫曝「感染失控」恐器官衰竭 發燒、全身痠痛別輕忽&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPdml3TWE0SS1LWWpMTGZVaGtMR0htZG84ZzJRYUhJRHF0Y0x4OUd6d1dSX2c3UktCZWRGMDAtN2FaNmtrQlZUczVLaVlyMVV4TkRrbU5MZkZKTkI4eW1YNGZXN20zc3dhUG82aHU1VThCeWNNSWNhYlVHR3E2Y3BRMUhiUklKYk9LNHBMOTFwQmRiMmkyWVJ2TUpxYm1OVkVQTHpsLWwyOGFaT2RWZS01N1pMd1pYMHRGc3lsaWRERWo1U093cGFhZnotX2hmWW1YenhJa2pPT1pNV0g1YTE5anVILXFoR25yVGJSTWRCSjl3YlVQOVB3b1hfeVZJQmgwaTNIYlpIcHpzQ2RJMU1MOGg1UFAyOVFmYk1OX09JUVNydjQyOXNvYkdDbEwyT2RwQWpJNnBpVk42amJi?oc=5"
         }
       ],
       "matched_keywords": []
@@ -255,6 +255,19 @@
       ]
     },
     {
+      "id": "281fe8900236",
+      "title": "一下雨就厭世？疲倦、嗜甜、懶出門…小心「季節性情感障礙」！營養師教這樣吃趕走雨天憂鬱| 幸福熟齡X 今周刊 - LINE TODAY",
+      "published": "2026-05-14T09:29:51+00:00",
+      "summary": "一下雨就厭世？疲倦、嗜甜、懶出門…小心「季節性情感障礙」！營養師教這樣吃趕走雨天憂鬱| 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmeEJiYlR4X3pmekdRakt6bnhuNTc5b3MyTi13VWR2SkYyTWpyQVNMcnBWb09mUExKX29MRWlVRURXT1ZZLTdpa3E4SEY0SFpFUElEc09R?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "547f1415547d",
       "title": "舌癌成因｜舌頭常損易變癌！無辣不歡蛀牙不理舌癌5成因＋4症狀",
       "published": "2026-05-14T09:08:40+00:00",
@@ -263,19 +276,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxQTTdtVkV6Rmdtd3JYWG1DSXF0bU9wN1FlX1RCRTBoUTBJYVM2UTdzb0doNE5qakxnX29zQ2NXUDlxUHZZc2x3NC1JeW95MWZrUFR0MW5yZ3dHaDlwUHJkRkdzN0pxQVE4dE9aMlNiTEYyck0zWEVPbXJ0WFhKRHRXSmJ5Y0xIbXNacUhaWWpkVUI5a2ZZbEo0NTFYSU9wRGd3SHFtXzdlVFZheGNwb05YenFHN1BGYmhCLU42aW9ldU9ic05qS1VNanJuOWJER05WSENaczZCTlVkcXUtZzZIakgzc0hJaElNOWNCQ1NWSHRnUkFtbFU0VGpFNFF1RHlJd3V5dm1sUFpxbWxuNEVvUldsMXAyTlVsemxVNEs0OUpfM2hHVFRZaFRHbFF1Ym9pRURlZXU5dXZ5c1lTcVl6SzM4Nk1TTTdZcEpGdi10ZUMzRWVURE5ua3BxVEJ4d3ZXSnRjeVd4eUFVWmExUWZwNmZkTTZ4RGRfZmk0LVV4ejh4emVvM2tMY185THpsMm8x?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f66555095cc1",
-      "title": "一下雨就厭世？疲倦、嗜甜、懶出門…小心「季節性情感障礙」！營養師教這樣吃趕走雨天憂鬱",
-      "published": "2026-05-14T09:00:02+00:00",
-      "summary": "一下雨就厭世？疲倦、嗜甜、懶出門…小心「季節性情感障礙」！營養師教這樣吃趕走雨天憂鬱&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPemVEdmdtNW5YeU42Xy1FdUlKS1d4eUwzR0x4MV81NndnSEozYUs0RXEydHRHMkRwb2JzSTBjMnJVbW41OXpHWXQzREx5Q3VpNGJyellzV3NpRG5ydnZFTTBvc1kwaXRTbkZsSUZEQ2xTajhZQjhab2RKS3d2VzRQTllaR3F5RExWZ0lHR3FnQUVTSEZ1NlR6MVM0TlpROFBNNklvZUJSdi02VjNDd21MMlVRdmptRk9VU3NmdUd0b3RFNF9CMG5Ya3dDdzB5eW9ZMElNWk01MXdUMTJiSFUta2MyUGdibmNRR1BSZVhZb2dFZ2k1TVFNS251eDNkQmVB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -399,32 +399,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "2a17a7d9c0a7",
-      "title": "A流未退、B流升溫，成為新潮「流」",
-      "published": "2026-05-13T09:10:45+00:00",
-      "summary": "A流未退、B流升溫，成為新潮「流」&nbsp;&nbsp;聯合新聞網",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kSTY5cjI4aU5lSnc0R2t0TExkdE82dDNtbm5uUzNSdGFMVVNucDU2eDg0VFpwUG1uSUZCSGdoWlo0cG9ZRHZMSGdXV3lGS21n?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6924e3c47177",
-      "title": "國家兒童醫學中心推兒科腦瘤AI資料集 助提升診斷精準度",
-      "published": "2026-05-13T09:02:00+00:00",
-      "summary": "國家兒童醫學中心推兒科腦瘤AI資料集 助提升診斷精準度&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0ydUVteXdaaTQ2cnJKTTRrUFNYQmhLWVBlbmVUa0FScE5qZ2FiMkhZb0t6RzdYVHZGR3BJUmtjdlp1WVk3SGJNYjhjOEQwbkRodGc?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "554d4b56a4a9",
