@@ -1,7 +1,78 @@
 {
-  "generated": "2026-05-15T02:14:54.521719+00:00",
+  "generated": "2026-05-15T06:25:06.496255+00:00",
   "count": 5,
   "news": [
+    {
+      "id": "5d7bab463d82",
+      "title": "子宮頸癌｜20歲女經期大出血竟患子宮頸癌 疑因常用1類廁紙出事！醫生揭2大成分損生殖器官 - U Lifestyle",
+      "published": "2026-05-15T04:30:00+00:00",
+      "sources": [
+        {
+          "name": "U Lifestyle",
+          "link": "https://news.google.com/rss/articles/CBMiowRBVV95cUxNTWtHM21VelZ4aXFPWkhmWGs2bmtpdTc5RVJaanE3OWJCaW9LLUxkNmN5MUQ3Y0cxQnN2TkNnRWZRTzFzRW9mSm5KdllBb1VNR1hJOV9VOXhkaFFnNmNGNkp6Z3ozZVN3Z1NEY1pwclNVd1JjNU9vX1J2ekdSTW9aaGpmTzJlR2FtUG1BQ1Fsb2hVVkRFcTkyQnJzcGItREJwbTlmUjJYQlFaaG1TbVVsczVpV2g5amVtVTJMMTJqUE5OaWhPd3ZGQTA5ako4NGpXcUYyeGdzTGJrdHhzZ3lfSnNwalEtYlFVMFdSdlVlb3hiT0sxcnhMUFlmUjRJZmNKbW5lZmNuNkV4S19VMmRhOTY4eG1PbUhfTXpRajhmOUo2R1M4Ym10bzNDMmlVR2FUaUU4NzM5aGk5WkV1eGRTOFlveC1nZHV3YTRMNWlfNGlPb19kUFkzRVhFemthemhTVEk2NFJOSEYzTVp5cXpNOGFBUWQ0MmRNT3pvTmdzclZqdGhSZG95bFBsclBCdVp4ckhVTHFxd2tvYTN2b3ctNFZka0ZUaEt3OHdqdXpIRW1QeFRlcjBQbkV6WU1BcnJ1RzVyaUwwWGE5YkhYT3h3Zm9PZVZDR3RFRE53YWZlRU9FM0tKdWs1eWZURlVEVW51UGZQN2RNLWNEdGNmUEN5SkQ4REhBeXBxeFNRajlDcTJ4UkpweU9uVWZJMmFMRFNHVUZR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a0f460f56521",
+      "title": "結腸癌在年輕人中呈上升趨勢。醫生也不知道確切的原因。",
+      "published": "2026-05-15T04:05:39+00:00",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPOVhXVHRoRTV4SkpUWnc4UEFibVhIajMwYlR0X19XMGo1Q0JPTjhHbXE0TUprNEFEUUY1YWc5MjRCUjFNZWhuMFhhNEk0TDBtSVJ2Q2s2VzB6WlhuekRuT3U0ZnlRU19FRE9GRDR1aFNtZVFobzJXdTFsaF9mZFRZZmw5elE3eW1EYi1zUXBCOUw2WkVnZlVyWGZfbGxZYzVHeXFka1ByOG5RZXUwSWxsQTg4cm96V0o2WnQ2bm9neXFwVWR1bnE5YUJCQmgwVG0ycWpyMUxlZEw3RW5RemFNSVJXWUpDWm5XY05UajVhMnNnMnZWSTJra1M0VnhxcDNYME1ZakpWcl9ZRGs1c0JfYnF3RmhCRkNrczg1VmhCaTdyTVhkZ0hmYXRvTE1mRnZxYVp4ZmpyaVlXZDVSWnVMeGdhVWF6cFNKakRmYkxGQ0E1aFpqR2tmLWhrVS15Xzd3Y0p4WThQbFRHOFd3QnZUZDVqOTdaTFIzSm9qWW5WUEY4NVFJM2c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "結腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "bacbcea985fb",
       "title": "GLP-1藥物研究新發現 肥胖糖尿病乳癌患存活率增",
@@ -51,13 +122,13 @@
       ]
     },
     {
-      "id": "543a59585c32",
+      "id": "cd0d55fce013",
       "title": "萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發",
-      "published": "2026-05-14T11:23:39+00:00",
+      "published": "2026-05-14T10:30:31+00:00",
       "sources": [
         {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPdDFwSnZYR1hTU3lmZzV1WGw5V1NnTU9SUFlwenJIdk5PTWZoZHNlY1dNNWtFZHNJbDg3Q3Q1blRlSHN0TEtQbHlUSmVJbG9ER1VaaHpaYjBVQ1hwNF9IVGlhZ1JUZmRtekotVnBqOXF6X3hoR05DaEs3QkJabGw0alFQNmFTazluNHRSXy1hY0tjWjhZZFNUV0RMWlE5MkgtaVRmejFWNHRCNFdjTXJoaUg1bVFnTmJnejNVZV9BZ3N2ZnptNGt3SEgwdm9LZ3M4aVYwOG9leG1Fa09ab3NEMDNyOTNqYmZVSmctZFlxdHhNeTcyOHI2SFN3U3E4anFaS0FWcGV3aG5lYkJjMmVocmpHNXVkNTJ6WjB1Q2VFaGl4cjE4bV9oSndnTTVBUUZfdTlwdk16RG90Qk1xaHJBWk1udXQyVXpZUk1IbDNIRHpTbG42OExzb3hzOF94VURYV1cwWkhsd3NmajNYQUpyNE5sMU5EdVJvX1dKVQ?oc=5"
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQdlFLQWJ0cFpJV3kyODBlWUpFeGN5NXJvdlNEOFV0NnBQZno1TDJyZWk3TVlORWFEYXh4NzRXa0hIRUNuVXkwQmI1eTlWQ2RUQ2ZvZGEyQXhPcjFJWFVvajRDbGhsdVVmV2IzdkltajFkc2FhQ1pCd1hjWncwTEU2WmQtejczRG5jS3lpNUlUYl9SLTNMU3pIcFVUMzZMbWNCMGV4TU00Z3BrRWFmMjJ0ZGpUc0ZUNVBRN0lQUGpKSEtEdElFWmNuTkhhWHZJeE91djN4Rlo1eDVYb0tKUXo5R2VXNzdKVENFZWxHdGx6QVNYcWdLRlBVUzZRQl90R20zSGZTUUxQckJzb0k4YUVOS0I0dzJXbUZpX2lsQndmdXFRa0FGcHZGUlJ4YmxIX295ZXY4U0JydTlIa0Q2TUVsa1hUc2NPT21QSWlLWg?oc=5"
         }
       ],
       "keywords": [
@@ -97,54 +168,6 @@
             {
               "slug": "clobetasone",
               "name": "Clobetasone"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e1f9186064cf",
-      "title": "皮蛇會致命？初期忽略又踩「2飲食地雷」 營養師警告：小心好不了",
-      "published": "2026-05-13T03:58:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRbFB5MWZ2QUlsWEdvVWtMTWdCM2twWFNvNHJFNGxKRHlNTG9ETldfTXNvUHFlUy0zdno4TUZaakFodjFQazNqQl8xOVFRM1lF?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "皮蛇",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "aa86548ad614",
-      "title": "科學家發現小兒麻痺和一般感冒病毒共有的弱點",
-      "published": "2026-05-13T02:15:01+00:00",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOQXlXaEFZWGlZbnYtcXlZN0J0aHFnNF9PdFRaNy1jR19OcXEyMk1YbjlBZFJHbG5sNjdiWUc4WmFScTR6Y1kzRFZNZTBkdVRFMm12UjN2aW94dFFEMS1CMU1vWTZtc2tXRktXUjlWcTc4T2hqckZXbnhaTXZmS1RVWGxzT2oxeXNPRlQtMnFERjdoSzVVaVM1U3c3a3d1cUJHVkxkLUVjTnFDZUZpRGVtdjByTmNIaTBWZldRR2w5cHE3VXFXUmVRRzllQ0E0MlJTbFZIZ0gxMGRwemZBWVp5ZmpZOGZFbVA2cEVDSFkwS0tNMFBGLTBkN3AwRmoxS0pxRTlTYV9ac293MjZiTXQ5ZVItVkg1OHE0RDBMOVcwLVlDN1V3YS1ZNC1sWDBpVWJfcldSX19YVDcwZnZCTVhrMExLdTh5OVlOUl9tVUVtbW4yNmtOemYzR2hSaEdmWTVpRlZSM1M5Q01RaTVfeWhjYW5neE5aTjY0Z2c?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
