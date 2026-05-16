@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-16T17:48:42.507976+00:00",
-  "count": 28,
+  "fetched_at": "2026-05-16T18:51:51.467257+00:00",
+  "count": 26,
   "news": [
     {
       "id": "4222ca6a5e48",
@@ -28,14 +28,14 @@
       ]
     },
     {
-      "id": "c65b99326cde",
-      "title": "45歲女發燒竟「敗血性休克」　醫揭9警訊：燒退了不代表變好 - ETtoday健康雲",
-      "published": "2026-05-16T08:09:00+00:00",
-      "summary": "45歲女發燒竟「敗血性休克」 醫揭9警訊：燒退了不代表變好&nbsp;&nbsp;ETtoday健康雲",
+      "id": "fcb57514be0a",
+      "title": "健康網》睪固酮低恐性慾降、骨疏鬆 網紅醫6招提升睪固酮 - 自由健康網",
+      "published": "2026-05-15T13:03:00+00:00",
+      "summary": "健康網》睪固酮低恐性慾降、骨疏鬆 網紅醫6招提升睪固酮&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83Sjh1a2RSblpzTXVkXzZhOHEwNTBqaEVIVk1IVEp3eVNVS0JQem9UZ0MybnA1cHl6M0U3QVhpdFhldnY2UWpiT1I0MzczejJh0gFsQVVfeXFMUDFGRW1PZ083SUxzZXlQWTJZUXpodkhMQmVFdEZYUWNtZmpvSlNFNmkzb3JNSjI2TVpHUkNqZENHcWV5MUw3T3djNGhyZThjV3lONjVhQkItZS1lUUxXSGRfdG10Q3lSdzNZZzdG?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXS3NhblI5SXVfc2JFSnViNDJuRDNQM1NzN19lYncwcHcxQldERnBWMXRmMWJXUzdTNXRBOWFZY0NkdEZYYUNMcEhDWnJoT09rdHhQRmZ0N0owQThBMnJDbmpOYnLSAWpBVV95cUxPcnV3MHppZ1JtU3NVYlhFVWF0X1hSM0hqSU9KeUlUQ0h1M0hjRXhWVXN5djh2SE9VSGdNM2NBM0dTWnF1Z0RadWdBWjU4a0pXdEFiZTNTUmowVmdwMHBQWXV0TWJKSHZpSWN3?oc=5"
         }
       ]
     },
@@ -52,14 +52,14 @@
       ]
     },
     {
-      "id": "fcb57514be0a",
-      "title": "健康網》睪固酮低恐性慾降、骨疏鬆 網紅醫6招提升睪固酮 - 自由健康網",
-      "published": "2026-05-15T13:03:00+00:00",
-      "summary": "健康網》睪固酮低恐性慾降、骨疏鬆 網紅醫6招提升睪固酮&nbsp;&nbsp;自由健康網",
+      "id": "c65b99326cde",
+      "title": "45歲女發燒竟「敗血性休克」　醫揭9警訊：燒退了不代表變好 - ETtoday健康雲",
+      "published": "2026-05-16T08:09:00+00:00",
+      "summary": "45歲女發燒竟「敗血性休克」 醫揭9警訊：燒退了不代表變好&nbsp;&nbsp;ETtoday健康雲",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXS3NhblI5SXVfc2JFSnViNDJuRDNQM1NzN19lYncwcHcxQldERnBWMXRmMWJXUzdTNXRBOWFZY0NkdEZYYUNMcEhDWnJoT09rdHhQRmZ0N0owQThBMnJDbmpOYnLSAWpBVV95cUxPcnV3MHppZ1JtU3NVYlhFVWF0X1hSM0hqSU9KeUlUQ0h1M0hjRXhWVXN5djh2SE9VSGdNM2NBM0dTWnF1Z0RadWdBWjU4a0pXdEFiZTNTUmowVmdwMHBQWXV0TWJKSHZpSWN3?oc=5"
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83Sjh1a2RSblpzTXVkXzZhOHEwNTBqaEVIVk1IVEp3eVNVS0JQem9UZ0MybnA1cHl6M0U3QVhpdFhldnY2UWpiT1I0MzczejJh0gFsQVVfeXFMUDFGRW1PZ083SUxzZXlQWTJZUXpodkhMQmVFdEZYUWNtZmpvSlNFNmkzb3JNSjI2TVpHUkNqZENHcWV5MUw3T3djNGhyZThjV3lONjVhQkItZS1lUUxXSGRfdG10Q3lSdzNZZzdG?oc=5"
         }
       ]
     },
@@ -100,6 +100,18 @@
       ]
     },
     {
+      "id": "d7b16b904e0c",
+      "title": "胰島素阻抗易引發代謝異常 增12癌風險 - 大纪元",
+      "published": "2026-05-16T05:00:00+00:00",
+      "summary": "胰島素阻抗易引發代謝異常 增12癌風險&nbsp;&nbsp;大纪元肥胖、有糖尿病更容易罹癌？醫揭：高胰島素可能成癌細胞生長訊號&nbsp;&nbsp;康健雜誌GLP-1藥物研究新發現 肥胖糖尿病乳癌患存活率增&nbsp;&nbsp;蕃新聞細胞增生&nbsp;&nbsp;東周刊GLP-1減重針，能幫助乳癌患者降低復發風險嗎？&nbsp;&nbsp;careonline.com.tw",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tTHh2RWtXNnRKZGN3T096ZE05MWdqV2E3RldybGZ2Uk1icEVrN3h1endveG1lclN5X2lsb1dVRzgyYkczX2lhWVlqcFN6UkR3Z1FhUEFhQ3lWS1hsbW1V0gFkQVVfeXFMTzJUQm5pd0htU2x0YzBBa0tNcGpuWV93VmZRSTIzZDlqRFByWlkxN0g1Mm5GQUdzYjAwWXphRE9RWTVXTnBiVHFuT2JWMzFpS0tTWV9UUXF4N0ZlaTBFZktsbHctTA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "14b359e2b9f2",
       "title": "運動比目魚肌可能有助穩定血糖、血脂，但無法大量降血糖，也不能靠單一運動治療疾病 - 台灣事實查核中心",
       "published": "2026-05-14T07:52:22+00:00",
@@ -120,18 +132,6 @@
         {
           "name": "Investing.com 香港 - 股市報價& 財經新聞",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jSWVFUktuYW5ZYTQxd0o1Rml5OXZ3eFlVUWRFZnlKandFVlhOdHJTLUxYbFdRczRNQ1ptcERBNC1aMjdDZVJRakc4U3VJejZ3UjdJbklNVnVTNEd1X3h1V1lXazFiNlVBeG5XMXV3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d7b16b904e0c",
-      "title": "胰島素阻抗易引發代謝異常 增12癌風險 - 大纪元",
-      "published": "2026-05-16T05:00:00+00:00",
-      "summary": "胰島素阻抗易引發代謝異常 增12癌風險&nbsp;&nbsp;大纪元肥胖、有糖尿病更容易罹癌？醫揭：高胰島素可能成癌細胞生長訊號&nbsp;&nbsp;康健雜誌GLP-1藥物研究新發現 肥胖糖尿病乳癌患存活率增&nbsp;&nbsp;蕃新聞細胞增生&nbsp;&nbsp;東周刊GLP-1減重針，能幫助乳癌患者降低復發風險嗎？&nbsp;&nbsp;careonline.com.tw",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tTHh2RWtXNnRKZGN3T096ZE05MWdqV2E3RldybGZ2Uk1icEVrN3h1endveG1lclN5X2lsb1dVRzgyYkczX2lhWVlqcFN6UkR3Z1FhUEFhQ3lWS1hsbW1V0gFkQVVfeXFMTzJUQm5pd0htU2x0YzBBa0tNcGpuWV93VmZRSTIzZDlqRFByWlkxN0g1Mm5GQUdzYjAwWXphRE9RWTVXTnBiVHFuT2JWMzFpS0tTWV9UUXF4N0ZlaTBFZktsbHctTA?oc=5"
         }
       ]
     },
@@ -280,18 +280,6 @@
       ]
     },
     {
-      "id": "a0f460f56521",
-      "title": "結腸癌在年輕人中呈上升趨勢。醫生也不知道確切的原因。 - arch-web.com.tw",
-      "published": "2026-05-15T04:05:39+00:00",
-      "summary": "結腸癌在年輕人中呈上升趨勢。醫生也不知道確切的原因。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPOVhXVHRoRTV4SkpUWnc4UEFibVhIajMwYlR0X19XMGo1Q0JPTjhHbXE0TUprNEFEUUY1YWc5MjRCUjFNZWhuMFhhNEk0TDBtSVJ2Q2s2VzB6WlhuekRuT3U0ZnlRU19FRE9GRDR1aFNtZVFobzJXdTFsaF9mZFRZZmw5elE3eW1EYi1zUXBCOUw2WkVnZlVyWGZfbGxZYzVHeXFka1ByOG5RZXUwSWxsQTg4cm96V0o2WnQ2bm9neXFwVWR1bnE5YUJCQmgwVG0ycWpyMUxlZEw3RW5RemFNSVJXWUpDWm5XY05UajVhMnNnMnZWSTJra1M0VnhxcDNYME1ZakpWcl9ZRGs1c0JfYnF3RmhCRkNrczg1VmhCaTdyTVhkZ0hmYXRvTE1mRnZxYVp4ZmpyaVlXZDVSWnVMeGdhVWF6cFNKakRmYkxGQ0E1aFpqR2tmLWhrVS15Xzd3Y0p4WThQbFRHOFd3QnZUZDVqOTdaTFIzSm9qWW5WUEY4NVFJM2c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "09e7849919d4",
       "title": "來稿｜告別「打針」恐懼——噴鼻式疫苗築起無痛防疫 - 香港01",
       "published": "2026-05-16T03:00:03+00:00",
@@ -324,18 +312,6 @@
         {
           "name": "U Lifestyle",
           "link": "https://news.google.com/rss/articles/CBMiowRBVV95cUxNTWtHM21VelZ4aXFPWkhmWGs2bmtpdTc5RVJaanE3OWJCaW9LLUxkNmN5MUQ3Y0cxQnN2TkNnRWZRTzFzRW9mSm5KdllBb1VNR1hJOV9VOXhkaFFnNmNGNkp6Z3ozZVN3Z1NEY1pwclNVd1JjNU9vX1J2ekdSTW9aaGpmTzJlR2FtUG1BQ1Fsb2hVVkRFcTkyQnJzcGItREJwbTlmUjJYQlFaaG1TbVVsczVpV2g5amVtVTJMMTJqUE5OaWhPd3ZGQTA5ako4NGpXcUYyeGdzTGJrdHhzZ3lfSnNwalEtYlFVMFdSdlVlb3hiT0sxcnhMUFlmUjRJZmNKbW5lZmNuNkV4S19VMmRhOTY4eG1PbUhfTXpRajhmOUo2R1M4Ym10bzNDMmlVR2FUaUU4NzM5aGk5WkV1eGRTOFlveC1nZHV3YTRMNWlfNGlPb19kUFkzRVhFemthemhTVEk2NFJOSEYzTVp5cXpNOGFBUWQ0MmRNT3pvTmdzclZqdGhSZG95bFBsclBCdVp4ckhVTHFxd2tvYTN2b3ctNFZka0ZUaEt3OHdqdXpIRW1QeFRlcjBQbkV6WU1BcnJ1RzVyaUwwWGE5YkhYT3h3Zm9PZVZDR3RFRE53YWZlRU9FM0tKdWs1eWZURlVEVW51UGZQN2RNLWNEdGNmUEN5SkQ4REhBeXBxeFNRajlDcTJ4UkpweU9uVWZJMmFMRFNHVUZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0fd0bded29d6",
-      "title": "滿地可停車場疑遭縱火　重型貨車燃起熊熊大火 另10車受波及 - singtao.ca",
-      "published": "2026-05-14T17:15:00+00:00",
-      "summary": "滿地可停車場疑遭縱火 重型貨車燃起熊熊大火 另10車受波及&nbsp;&nbsp;singtao.ca",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxOMklVYVZwdEEtcmlEcWlWSnFKY3BnbWFVLW14UWloTGtxRFhpblVSZkNVQ2otS3Q5VDlnMEItQU9VazBFaVY1S0lWVXY0RlJURXZiSXFGTXl2NTNhWldGYVdxRHdRZ1lxc0tWRUwtZ3J6RGI1Y251V1lpZ1FDTlV1c3JsTkthV1hub0UtWWJ5QTJxdUVwYTQyckR4TjBQMVY5eEs4bGdfVlhQekY5RGNoeGFVM3l4eVJpMzVLX1pKdXpITVVPVXJLRWdHOFhuYmxKX0lFTnVYeW9ZRmF3V2VrX0pGcGdVWmNtSFZwcHFoS2tEcm5OdHVIWGNDckJwRkh0OWpQLXFud2NYR3hoelVudzFsNkQ1cFh5NlFaLUVHZFhadHNLS0hmVlFuX043STlVMXB0LTdFSFp1VW0wd1VDX3VLam1OZFN4T3kxUVZKODl3WlMydk01dHgyaVp1TnR0TlEtYTdxQTFyQUVScVZmYXUtSmU5UVZkcFpOSlZjaDBNaThBSW01OHhFay1hYi1ZUEZLaDVVdHrSAYoBQVVfeXFMTnB0M2xWSHl2cUpyVUJDYWN1My0yOGp4ZGROZVpYWGlDeDZvQnhrYXhjQU8taXBSM0U2OUo0bklqM041ckVWRjctZ2ltUmV5R0xvVjh6Yndtc0ZjNHNobFlBU19qMzE3WE1qVjN0b3FkRnBPWEpOdUM1V2FhckxVSklUQzZmN2hxendR?oc=5"
         }
       ]
     }

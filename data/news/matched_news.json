@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-16T17:48:47.125908+00:00",
-  "total_count": 29,
-  "matched_count": 4,
+  "last_updated": "2026-05-16T18:51:54.766806+00:00",
+  "total_count": 27,
+  "matched_count": 3,
   "news": [
     {
       "id": "4222ca6a5e48",
@@ -349,54 +349,6 @@
       ]
     },
     {
-      "id": "a0f460f56521",
-      "title": "結腸癌在年輕人中呈上升趨勢。醫生也不知道確切的原因。",
-      "published": "2026-05-15T04:05:39+00:00",
-      "summary": "結腸癌在年輕人中呈上升趨勢。醫生也不知道確切的原因。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPOVhXVHRoRTV4SkpUWnc4UEFibVhIajMwYlR0X19XMGo1Q0JPTjhHbXE0TUprNEFEUUY1YWc5MjRCUjFNZWhuMFhhNEk0TDBtSVJ2Q2s2VzB6WlhuekRuT3U0ZnlRU19FRE9GRDR1aFNtZVFobzJXdTFsaF9mZFRZZmw5elE3eW1EYi1zUXBCOUw2WkVnZlVyWGZfbGxZYzVHeXFka1ByOG5RZXUwSWxsQTg4cm96V0o2WnQ2bm9neXFwVWR1bnE5YUJCQmgwVG0ycWpyMUxlZEw3RW5RemFNSVJXWUpDWm5XY05UajVhMnNnMnZWSTJra1M0VnhxcDNYME1ZakpWcl9ZRGs1c0JfYnF3RmhCRkNrczg1VmhCaTdyTVhkZ0hmYXRvTE1mRnZxYVp4ZmpyaVlXZDVSWnVMeGdhVWF6cFNKakRmYkxGQ0E1aFpqR2tmLWhrVS15Xzd3Y0p4WThQbFRHOFd3QnZUZDVqOTdaTFIzSm9qWW5WUEY4NVFJM2c?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "結腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "1a46284e62c9",
       "title": "忙著報稅也別忘健康，醫：男性HPV風險不容忽視",
       "published": "2026-05-15T02:50:41+00:00",
@@ -444,19 +396,6 @@
         {
           "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qd0VRVTZsWXJnVlJoVUpvQ0Fta2NSaEdTZXFPb1VOaTNwWFJ5blZKUWlibGRWUUlsZldIWmd3dHZFbmNfUUVINlFwYlV5Q0Ri?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0fd0bded29d6",
-      "title": "滿地可停車場疑遭縱火　重型貨車燃起熊熊大火 另10車受波及",
-      "published": "2026-05-14T17:15:00+00:00",
-      "summary": "滿地可停車場疑遭縱火 重型貨車燃起熊熊大火 另10車受波及&nbsp;&nbsp;singtao.ca",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxOMklVYVZwdEEtcmlEcWlWSnFKY3BnbWFVLW14UWloTGtxRFhpblVSZkNVQ2otS3Q5VDlnMEItQU9VazBFaVY1S0lWVXY0RlJURXZiSXFGTXl2NTNhWldGYVdxRHdRZ1lxc0tWRUwtZ3J6RGI1Y251V1lpZ1FDTlV1c3JsTkthV1hub0UtWWJ5QTJxdUVwYTQyckR4TjBQMVY5eEs4bGdfVlhQekY5RGNoeGFVM3l4eVJpMzVLX1pKdXpITVVPVXJLRWdHOFhuYmxKX0lFTnVYeW9ZRmF3V2VrX0pGcGdVWmNtSFZwcHFoS2tEcm5OdHVIWGNDckJwRkh0OWpQLXFud2NYR3hoelVudzFsNkQ1cFh5NlFaLUVHZFhadHNLS0hmVlFuX043STlVMXB0LTdFSFp1VW0wd1VDX3VLam1OZFN4T3kxUVZKODl3WlMydk01dHgyaVp1TnR0TlEtYTdxQTFyQUVScVZmYXUtSmU5UVZkcFpOSlZjaDBNaThBSW01OHhFay1hYi1ZUEZLaDVVdHrSAYoBQVVfeXFMTnB0M2xWSHl2cUpyVUJDYWN1My0yOGp4ZGROZVpYWGlDeDZvQnhrYXhjQU8taXBSM0U2OUo0bklqM041ckVWRjctZ2ltUmV5R0xvVjh6Yndtc0ZjNHNobFlBU19qMzE3WE1qVjN0b3FkRnBPWEpOdUM1V2FhckxVSklUQzZmN2hxendR?oc=5"
         }
       ],
       "matched_keywords": []

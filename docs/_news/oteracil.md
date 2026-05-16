@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/oteracil/
 <li><strong>原適應症</strong>：胃癌用藥。</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">colonic neoplasm（100.0%）<span class="indication-tag">📰 結腸癌</span></li>
+<li>colonic neoplasm（100.0%）</li>
 <li>cecum villous adenoma（100.0%）</li>
 <li>cecum neuroendocrine tumor G1（100.0%）</li>
 <li>lipoma of colon（100.0%）</li>
@@ -42,15 +42,9 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [結腸癌在年輕人中呈上升趨勢。醫生也不知道確切的原因。](https://news.google.com/rss/articles/CBMihgNBVV95cUxPOVhXVHRoRTV4SkpUWnc4UEFibVhIajMwYlR0X19XMGo1Q0JPTjhHbXE0TUprNEFEUUY1YWc5MjRCUjFNZWhuMFhhNEk0TDBtSVJ2Q2s2VzB6WlhuekRuT3U0ZnlRU19FRE9GRDR1aFNtZVFobzJXdTFsaF9mZFRZZmw5elE3eW1EYi1zUXBCOUw2WkVnZlVyWGZfbGxZYzVHeXFka1ByOG5RZXUwSWxsQTg4cm96V0o2WnQ2bm9neXFwVWR1bnE5YUJCQmgwVG0ycWpyMUxlZEw3RW5RemFNSVJXWUpDWm5XY05UajVhMnNnMnZWSTJra1M0VnhxcDNYME1ZakpWcl9ZRGs1c0JfYnF3RmhCRkNrczg1VmhCaTdyTVhkZ0hmYXRvTE1mRnZxYVp4ZmpyaVlXZDVSWnVMeGdhVWF6cFNKakRmYkxGQ0E1aFpqR2tmLWhrVS15Xzd3Y0p4WThQbFRHOFd3QnZUZDVqOTdaTFIzSm9qWW5WUEY4NVFJM2c?oc=5)
-
-2026-05-15 <span class="news-indication-tag">結腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihgNBVV95cUxPOVhXVHRoRTV4SkpUWnc4UEFibVhIajMwYlR0X19XMGo1Q0JPTjhHbXE0TUprNEFEUUY1YWc5MjRCUjFNZWhuMFhhNEk0TDBtSVJ2Q2s2VzB6WlhuekRuT3U0ZnlRU19FRE9GRDR1aFNtZVFobzJXdTFsaF9mZFRZZmw5elE3eW1EYi1zUXBCOUw2WkVnZlVyWGZfbGxZYzVHeXFka1ByOG5RZXUwSWxsQTg4cm96V0o2WnQ2bm9neXFwVWR1bnE5YUJCQmgwVG0ycWpyMUxlZEw3RW5RemFNSVJXWUpDWm5XY05UajVhMnNnMnZWSTJra1M0VnhxcDNYME1ZakpWcl9ZRGs1c0JfYnF3RmhCRkNrczg1VmhCaTdyTVhkZ0hmYXRvTE1mRnZxYVp4ZmpyaVlXZDVSWnVMeGdhVWF6cFNKakRmYkxGQ0E1aFpqR2tmLWhrVS15Xzd3Y0p4WThQbFRHOFd3QnZUZDVqOTdaTFIzSm9qWW5WUEY4NVFJM2c?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
