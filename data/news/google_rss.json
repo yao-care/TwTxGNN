@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-16T16:47:05.455867+00:00",
+  "fetched_at": "2026-05-16T17:48:42.507976+00:00",
   "count": 28,
   "news": [
-    {
-      "id": "c65b99326cde",
-      "title": "45歲女發燒竟「敗血性休克」　醫揭9警訊：燒退了不代表變好 - ETtoday健康雲",
-      "published": "2026-05-16T08:09:00+00:00",
-      "summary": "45歲女發燒竟「敗血性休克」 醫揭9警訊：燒退了不代表變好&nbsp;&nbsp;ETtoday健康雲",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83Sjh1a2RSblpzTXVkXzZhOHEwNTBqaEVIVk1IVEp3eVNVS0JQem9UZ0MybnA1cHl6M0U3QVhpdFhldnY2UWpiT1I0MzczejJh0gFsQVVfeXFMUDFGRW1PZ083SUxzZXlQWTJZUXpodkhMQmVFdEZYUWNtZmpvSlNFNmkzb3JNSjI2TVpHUkNqZENHcWV5MUw3T3djNGhyZThjV3lONjVhQkItZS1lUUxXSGRfdG10Q3lSdzNZZzdG?oc=5"
-        }
-      ]
-    },
     {
       "id": "4222ca6a5e48",
       "title": "AI 分析游離 DNA，提早揪出無症狀肝病 - TechNews 科技新報",
@@ -36,6 +24,18 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPdVhkOUxrLWJnRHdveUlLR1Y2V1VzVjAzbUluVHZ2cmhMclN1NWJaOVRHVjViVVFTUWVvQlpWMEVnVHBIcGVFckdSLUtqN203NXQ2NkV0NDVIeVlINXFkTFlOb0d4ZUVveUpsQU4wTDNORmY4ZFYtcnNqWjkwaVZ3RGE0UXVJbjJZOTg2RTZ5N1VUYVh6RUZROHdOeHhCWlBCc3psSTRHOFZIcE0tSENXT2pVRzFRdW1BbkhDSmQ0dGRpR3pnRndrWmVySTJ0MEozcnhYdm9lQnhiQUtmZVVHU0xrYUp0WDh2dGdTdEl0dUNZRjJ1eXE3aVM2d25hMlNiRmNwSzlpdUJLZ0d4SmRCQmhNRGpORHBXc2x1ZUUxV2MtVVN6SG5Jbmo1ODR5bjY0QTY2VHBVTUFzSjZyNHBDTkNUV2ozREZjVFJsdHF2NE4wVDJyVnp2YUdSZS1qbFd4NGVpRUlJWnVfOTJhSnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c65b99326cde",
+      "title": "45歲女發燒竟「敗血性休克」　醫揭9警訊：燒退了不代表變好 - ETtoday健康雲",
+      "published": "2026-05-16T08:09:00+00:00",
+      "summary": "45歲女發燒竟「敗血性休克」 醫揭9警訊：燒退了不代表變好&nbsp;&nbsp;ETtoday健康雲",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83Sjh1a2RSblpzTXVkXzZhOHEwNTBqaEVIVk1IVEp3eVNVS0JQem9UZ0MybnA1cHl6M0U3QVhpdFhldnY2UWpiT1I0MzczejJh0gFsQVVfeXFMUDFGRW1PZ083SUxzZXlQWTJZUXpodkhMQmVFdEZYUWNtZmpvSlNFNmkzb3JNSjI2TVpHUkNqZENHcWV5MUw3T3djNGhyZThjV3lONjVhQkItZS1lUUxXSGRfdG10Q3lSdzNZZzdG?oc=5"
         }
       ]
     },
