@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-16T19:57:38.018553+00:00",
-  "count": 25,
+  "fetched_at": "2026-05-16T20:43:13.088586+00:00",
+  "count": 24,
   "news": [
     {
       "id": "4222ca6a5e48",
@@ -120,18 +120,6 @@
         {
           "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tTHh2RWtXNnRKZGN3T096ZE05MWdqV2E3RldybGZ2Uk1icEVrN3h1endveG1lclN5X2lsb1dVRzgyYkczX2lhWVlqcFN6UkR3Z1FhUEFhQ3lWS1hsbW1V0gFkQVVfeXFMTzJUQm5pd0htU2x0YzBBa0tNcGpuWV93VmZRSTIzZDlqRFByWlkxN0g1Mm5GQUdzYjAwWXphRE9RWTVXTnBiVHFuT2JWMzFpS0tTWV9UUXF4N0ZlaTBFZktsbHctTA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "de1b9e77c786",
-      "title": "紐約一名高中生疑似感染漢他病毒 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
-      "published": "2026-05-16T00:55:56+00:00",
-      "summary": "紐約一名高中生疑似感染漢他病毒 作者 Investing.com&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
-      "sources": [
-        {
-          "name": "Investing.com 香港 - 股市報價& 財經新聞",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jSWVFUktuYW5ZYTQxd0o1Rml5OXZ3eFlVUWRFZnlKandFVlhOdHJTLUxYbFdRczRNQ1ptcERBNC1aMjdDZVJRakc4U3VJejZ3UjdJbklNVnVTNEd1X3h1V1lXazFiNlVBeG5XMXV3?oc=5"
         }
       ]
     },
@@ -256,14 +244,14 @@
       ]
     },
     {
-      "id": "ca7a25637833",
-      "title": "【2026世界盃】公衛署稱賽事期間加拿大傳播麻疹風險高 - singtao.ca",
-      "published": "2026-05-14T22:44:13+00:00",
-      "summary": "【2026世界盃】公衛署稱賽事期間加拿大傳播麻疹風險高&nbsp;&nbsp;singtao.ca前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "1651912e0bd0",
+      "title": "衞生局警告世界盃舉行期間出現麻疹傳播的風險偏高 - am1320.com",
+      "published": "2026-05-15T17:09:50+00:00",
+      "summary": "衞生局警告世界盃舉行期間出現麻疹傳播的風險偏高&nbsp;&nbsp;am1320.com【2026世界盃】公衛署稱賽事期間加拿大傳播麻疹風險高&nbsp;&nbsp;singtao.ca",
       "sources": [
         {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPSkN2TklkRzRtc0UwZVJ4Vk5IcEt0eUxiMVJYYWx0LUwtLXRNUEk2Y0U2a2xrck9ZWlpHeFRFSUV2T2Rqbmo5Qk9mY19TTUhMU05WVWxxd0xKTFpueWFJYmZhbE1KbmJndS11ZVgyRzN2cXhZZko2M3I3QzJ6RWUwZ0NIVFBkdjd3cE8tU3RKdnE0dGpiQmgwYmpjd0NocUE3NkFkdVZIdG9jV0tLU3ZTbm1SS1dxVVdUWU13dmdfUW90TUFFOUIwN1ZHUHpTeTZPdW40Rm5rQ2NSalBQUlh4LThIaVlyZ2R5MTJwSnZZUEJWVEI4dXE0NXAxbHNmbW5aT1UxVUZTX0tDeXNTNk9JSWtKSXZJT0huMGdGZ3ZyTEE2alY4RkNZRVNmTjJValg5LTFXSTV1V2xyaWRKUS1WeU1RU09rSE8zSUFzTk9ad0VaOXVRVXlBSUdpcVR5RXZoWEc4ZFFhSnhpaGRaZlF5RWdBX3dNQdIBkgFBVV95cUxPMl8yMzNwVXlEMDdDQ2Jvakk0dnY4eTNZT1F5elVxRTNhVnJ3c1hmclRjQ2N3dkNEVENXYVpfdmpIWjdnQk9welBrREFBWkNMdFh4UU1za0JKZjZ6bllpQlB6NFdjcnVNQ1JnTUF6a05qVnI0a25INkwwRHFQbm05aXZvNFVWLXQ4YUJDQ3N3RmcyZw?oc=5"
+          "name": "am1320.com",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQaV9RbFZxNjRUdDRsMG0tUkVLZER2cW9DUG9SNVRfSlhhUXFySHJhZFlMTTdhdENfNmdCWkFiV3FLeXhfSEFibzlpSnhtdlRPdWRIaUlfVVpwX09TaXE2N2dienJrYTFra1h1REtPTi13QzZSQWgtM09CS0ZvRnIyUVVyNEV2UXRmZlBLYW52N2ZVWVB0OHdYS2FvYmNFN2MwNk13WE1Ydy1zakQyNEo1Y0RLQ0p5MXcxazg0UHlWZ0pLYjQtaTBtUmFQSUZ3RVA0TmhSRTRKNVo0bk82R2V5V2o1bzNaZkJ0NG1WeWlrNGhweFlHWUI4ZkV5LTZWS3g5UFJrMkw0WnRXZjd4UERXX3dLLVhPek92QUhfYWp3WHIzM0V2Rk1BNTIzd2RrbGhyQmMzRXZMWDkzMEVJcWpVamJCZk5oSzdmWUZGbVNwTXpBdmxERE9xWV92aGd2ZnhRNWNBUjQxWEFmemxxbm9zMA?oc=5"
         }
       ]
     },
