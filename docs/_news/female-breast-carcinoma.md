@@ -37,11 +37,11 @@ permalink: /news/female-breast-carcinoma/
 
 ## 相關新聞（1 則）
 
-### [GLP-1藥物研究新發現 肥胖糖尿病乳癌患存活率增](https://news.google.com/rss/articles/CBMiOkFVX3lxTE5QN3J3YU9JcW4zU1Nic2poZXFpd1ZHYnVBdEw3Tk9xT3RGQXRFSzJVbmQtSjJxZC1xNnc?oc=5)
+### [胰島素阻抗易引發代謝異常 增12癌風險](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tTHh2RWtXNnRKZGN3T096ZE05MWdqV2E3RldybGZ2Uk1icEVrN3h1endveG1lclN5X2lsb1dVRzgyYkczX2lhWVlqcFN6UkR3Z1FhUEFhQ3lWS1hsbW1V0gFkQVVfeXFMTzJUQm5pd0htU2x0YzBBa0tNcGpuWV93VmZRSTIzZDlqRFByWlkxN0g1Mm5GQUdzYjAwWXphRE9RWTVXTnBiVHFuT2JWMzFpS0tTWV9UUXF4N0ZlaTBFZktsbHctTA?oc=5)
 
-2026-05-14
+2026-05-16
 
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE5QN3J3YU9JcW4zU1Nic2poZXFpd1ZHYnVBdEw3Tk9xT3RGQXRFSzJVbmQtSjJxZC1xNnc?oc=5)
+來源：[大纪元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tTHh2RWtXNnRKZGN3T096ZE05MWdqV2E3RldybGZ2Uk1icEVrN3h1endveG1lclN5X2lsb1dVRzgyYkczX2lhWVlqcFN6UkR3Z1FhUEFhQ3lWS1hsbW1V0gFkQVVfeXFMTzJUQm5pd0htU2x0YzBBa0tNcGpuWV93VmZRSTIzZDlqRFByWlkxN0g1Mm5GQUdzYjAwWXphRE9RWTVXTnBiVHFuT2JWMzFpS0tTWV9UUXF4N0ZlaTBFZktsbHctTA?oc=5)
 
 ---
 

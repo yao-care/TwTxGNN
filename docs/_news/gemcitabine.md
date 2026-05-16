@@ -44,19 +44,19 @@ permalink: /news/gemcitabine/
 
 ## 相關新聞（2 則）
 
+### [胰島素阻抗易引發代謝異常 增12癌風險](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tTHh2RWtXNnRKZGN3T096ZE05MWdqV2E3RldybGZ2Uk1icEVrN3h1endveG1lclN5X2lsb1dVRzgyYkczX2lhWVlqcFN6UkR3Z1FhUEFhQ3lWS1hsbW1V0gFkQVVfeXFMTzJUQm5pd0htU2x0YzBBa0tNcGpuWV93VmZRSTIzZDlqRFByWlkxN0g1Mm5GQUdzYjAwWXphRE9RWTVXTnBiVHFuT2JWMzFpS0tTWV9UUXF4N0ZlaTBFZktsbHctTA?oc=5)
+
+2026-05-16 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
+
+來源：[大纪元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tTHh2RWtXNnRKZGN3T096ZE05MWdqV2E3RldybGZ2Uk1icEVrN3h1endveG1lclN5X2lsb1dVRzgyYkczX2lhWVlqcFN6UkR3Z1FhUEFhQ3lWS1hsbW1V0gFkQVVfeXFMTzJUQm5pd0htU2x0YzBBa0tNcGpuWV93VmZRSTIzZDlqRFByWlkxN0g1Mm5GQUdzYjAwWXphRE9RWTVXTnBiVHFuT2JWMzFpS0tTWV9UUXF4N0ZlaTBFZktsbHctTA?oc=5)
+
+---
+
 ### [結腸癌在年輕人中呈上升趨勢。醫生也不知道確切的原因。](https://news.google.com/rss/articles/CBMihgNBVV95cUxPOVhXVHRoRTV4SkpUWnc4UEFibVhIajMwYlR0X19XMGo1Q0JPTjhHbXE0TUprNEFEUUY1YWc5MjRCUjFNZWhuMFhhNEk0TDBtSVJ2Q2s2VzB6WlhuekRuT3U0ZnlRU19FRE9GRDR1aFNtZVFobzJXdTFsaF9mZFRZZmw5elE3eW1EYi1zUXBCOUw2WkVnZlVyWGZfbGxZYzVHeXFka1ByOG5RZXUwSWxsQTg4cm96V0o2WnQ2bm9neXFwVWR1bnE5YUJCQmgwVG0ycWpyMUxlZEw3RW5RemFNSVJXWUpDWm5XY05UajVhMnNnMnZWSTJra1M0VnhxcDNYME1ZakpWcl9ZRGs1c0JfYnF3RmhCRkNrczg1VmhCaTdyTVhkZ0hmYXRvTE1mRnZxYVp4ZmpyaVlXZDVSWnVMeGdhVWF6cFNKakRmYkxGQ0E1aFpqR2tmLWhrVS15Xzd3Y0p4WThQbFRHOFd3QnZUZDVqOTdaTFIzSm9qWW5WUEY4NVFJM2c?oc=5)
 
 2026-05-15 <span class="news-indication-tag">結腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihgNBVV95cUxPOVhXVHRoRTV4SkpUWnc4UEFibVhIajMwYlR0X19XMGo1Q0JPTjhHbXE0TUprNEFEUUY1YWc5MjRCUjFNZWhuMFhhNEk0TDBtSVJ2Q2s2VzB6WlhuekRuT3U0ZnlRU19FRE9GRDR1aFNtZVFobzJXdTFsaF9mZFRZZmw5elE3eW1EYi1zUXBCOUw2WkVnZlVyWGZfbGxZYzVHeXFka1ByOG5RZXUwSWxsQTg4cm96V0o2WnQ2bm9neXFwVWR1bnE5YUJCQmgwVG0ycWpyMUxlZEw3RW5RemFNSVJXWUpDWm5XY05UajVhMnNnMnZWSTJra1M0VnhxcDNYME1ZakpWcl9ZRGs1c0JfYnF3RmhCRkNrczg1VmhCaTdyTVhkZ0hmYXRvTE1mRnZxYVp4ZmpyaVlXZDVSWnVMeGdhVWF6cFNKakRmYkxGQ0E1aFpqR2tmLWhrVS15Xzd3Y0p4WThQbFRHOFd3QnZUZDVqOTdaTFIzSm9qWW5WUEY4NVFJM2c?oc=5)
-
----
-
-### [GLP-1藥物研究新發現 肥胖糖尿病乳癌患存活率增](https://news.google.com/rss/articles/CBMiOkFVX3lxTE5QN3J3YU9JcW4zU1Nic2poZXFpd1ZHYnVBdEw3Tk9xT3RGQXRFSzJVbmQtSjJxZC1xNnc?oc=5)
-
-2026-05-14 <span class="news-indication-tag">乳癌</span>
-
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE5QN3J3YU9JcW4zU1Nic2poZXFpd1ZHYnVBdEw3Tk9xT3RGQXRFSzJVbmQtSjJxZC1xNnc?oc=5)
 
 ---
 
