@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-16T21:40:15.748768+00:00",
-  "count": 24,
+  "fetched_at": "2026-05-16T22:36:55.261005+00:00",
+  "count": 25,
   "news": [
+    {
+      "id": "c700de3fcd53",
+      "title": "肛門口冒小肉球 及時篩檢出愛滋 - 自由健康網",
+      "published": "2026-05-16T21:30:00+00:00",
+      "summary": "肛門口冒小肉球 及時篩檢出愛滋&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jWjB0YUlTejloYl9YVHhXalZSMGszUXJUa2wySVhLWHdNTC1ZdDdSUks4a1hyei0tN3lJMmI5RGVUZXhOeFVPdWduRWFKd3FrWFJXQTJnTlQ3OTjSAWBBVV95cUxQM2E0MlhIaG1COHlEZjI5aEd1MGR4dy05Ny1tLURNcGtQYV9Zd3FWNElwZWp3TnRvb3Z1OU00QW8wZnpDSjdLU1V2bXY1Mk00UXJKdHZaVHd4d1F2bjBSWHQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "4222ca6a5e48",
       "title": "AI 分析游離 DNA，提早揪出無症狀肝病 - TechNews 科技新報",
@@ -40,6 +52,18 @@
       ]
     },
     {
+      "id": "c65b99326cde",
+      "title": "45歲女發燒竟「敗血性休克」　醫揭9警訊：燒退了不代表變好 - ETtoday健康雲",
+      "published": "2026-05-16T08:09:00+00:00",
+      "summary": "45歲女發燒竟「敗血性休克」 醫揭9警訊：燒退了不代表變好&nbsp;&nbsp;ETtoday健康雲",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83Sjh1a2RSblpzTXVkXzZhOHEwNTBqaEVIVk1IVEp3eVNVS0JQem9UZ0MybnA1cHl6M0U3QVhpdFhldnY2UWpiT1I0MzczejJh0gFsQVVfeXFMUDFGRW1PZ083SUxzZXlQWTJZUXpodkhMQmVFdEZYUWNtZmpvSlNFNmkzb3JNSjI2TVpHUkNqZENHcWV5MUw3T3djNGhyZThjV3lONjVhQkItZS1lUUxXSGRfdG10Q3lSdzNZZzdG?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8a3d6fe09919",
       "title": "比流感更兇！「1病毒」重症住院率高16倍 拖一週恐進ICU - Yahoo新聞",
       "published": "2026-05-16T06:41:56+00:00",
@@ -60,18 +84,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41aEcwR2ZYMHFtd2EyZEdaLWxZM05Cckk4aWNHa3c5WmdPWmNfTF80dlJpMDktSkdSRFlSOVBhYkpPRngybjlValhaREF2RnpxLVVjSHk3d0o2MnRXbk4zcDd3Q2bSAWpBVV95cUxNR3ZFNG9IQ2cyY1RTN3ladkxUbi0xNVk4aVR0SUxab3kyZlU0cUhVVHJwR1g1QjhWc3JaLWdfOUpHY0VOVHlPS3VLQmxGUFh4T3NTcTZ2LWV5bE5ud0pQajZLd0dWUzk0QmdR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c65b99326cde",
-      "title": "45歲女發燒竟「敗血性休克」　醫揭9警訊：燒退了不代表變好 - ETtoday健康雲",
-      "published": "2026-05-16T08:09:00+00:00",
-      "summary": "45歲女發燒竟「敗血性休克」 醫揭9警訊：燒退了不代表變好&nbsp;&nbsp;ETtoday健康雲",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83Sjh1a2RSblpzTXVkXzZhOHEwNTBqaEVIVk1IVEp3eVNVS0JQem9UZ0MybnA1cHl6M0U3QVhpdFhldnY2UWpiT1I0MzczejJh0gFsQVVfeXFMUDFGRW1PZ083SUxzZXlQWTJZUXpodkhMQmVFdEZYUWNtZmpvSlNFNmkzb3JNSjI2TVpHUkNqZENHcWV5MUw3T3djNGhyZThjV3lONjVhQkItZS1lUUxXSGRfdG10Q3lSdzNZZzdG?oc=5"
         }
       ]
     },

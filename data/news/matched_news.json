@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-05-16T21:40:19.121717+00:00",
-  "total_count": 25,
+  "last_updated": "2026-05-16T22:36:59.273185+00:00",
+  "total_count": 26,
   "matched_count": 3,
   "news": [
+    {
+      "id": "c700de3fcd53",
+      "title": "肛門口冒小肉球 及時篩檢出愛滋",
+      "published": "2026-05-16T21:30:00+00:00",
+      "summary": "肛門口冒小肉球 及時篩檢出愛滋&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jWjB0YUlTejloYl9YVHhXalZSMGszUXJUa2wySVhLWHdNTC1ZdDdSUks4a1hyei0tN3lJMmI5RGVUZXhOeFVPdWduRWFKd3FrWFJXQTJnTlQ3OTjSAWBBVV95cUxQM2E0MlhIaG1COHlEZjI5aEd1MGR4dy05Ny1tLURNcGtQYV9Zd3FWNElwZWp3TnRvb3Z1OU00QW8wZnpDSjdLU1V2bXY1Mk00UXJKdHZaVHd4d1F2bjBSWHQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "4222ca6a5e48",
       "title": "AI 分析游離 DNA，提早揪出無症狀肝病 - TechNews 科技新報",
