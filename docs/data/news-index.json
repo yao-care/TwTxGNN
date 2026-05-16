@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T11:44:07.304421+00:00",
-  "count": 5,
+  "generated": "2026-05-16T13:00:54.959230+00:00",
+  "count": 4,
   "news": [
     {
       "id": "d7b16b904e0c",
@@ -152,30 +152,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "752671455428",
-      "title": "萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發",
-      "published": "2026-05-14T12:50:53+00:00",
-      "sources": [
-        {
-          "name": "記者爆料網",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XTmtPNlBZb3dQZ09uWGFFTlRNdWlmeW94b3prbHRhRmdJOURzbGJWN29zY0d3LTE4aDFJbTNpdEtObUJGVkYzNk1JN3JXZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }

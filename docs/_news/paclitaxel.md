@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [胰島素阻抗易引發代謝異常 增12癌風險](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tTHh2RWtXNnRKZGN3T096ZE05MWdqV2E3RldybGZ2Uk1icEVrN3h1endveG1lclN5X2lsb1dVRzgyYkczX2lhWVlqcFN6UkR3Z1FhUEFhQ3lWS1hsbW1V0gFkQVVfeXFMTzJUQm5pd0htU2x0YzBBa0tNcGpuWV93VmZRSTIzZDlqRFByWlkxN0g1Mm5GQUdzYjAwWXphRE9RWTVXTnBiVHFuT2JWMzFpS0tTWV9UUXF4N0ZlaTBFZktsbHctTA?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/paclitaxel/
 2026-05-15 <span class="news-indication-tag">子宮頸癌</span>
 
 來源：[U Lifestyle](https://news.google.com/rss/articles/CBMiowRBVV95cUxNTWtHM21VelZ4aXFPWkhmWGs2bmtpdTc5RVJaanE3OWJCaW9LLUxkNmN5MUQ3Y0cxQnN2TkNnRWZRTzFzRW9mSm5KdllBb1VNR1hJOV9VOXhkaFFnNmNGNkp6Z3ozZVN3Z1NEY1pwclNVd1JjNU9vX1J2ekdSTW9aaGpmTzJlR2FtUG1BQ1Fsb2hVVkRFcTkyQnJzcGItREJwbTlmUjJYQlFaaG1TbVVsczVpV2g5amVtVTJMMTJqUE5OaWhPd3ZGQTA5ako4NGpXcUYyeGdzTGJrdHhzZ3lfSnNwalEtYlFVMFdSdlVlb3hiT0sxcnhMUFlmUjRJZmNKbW5lZmNuNkV4S19VMmRhOTY4eG1PbUhfTXpRajhmOUo2R1M4Ym10bzNDMmlVR2FUaUU4NzM5aGk5WkV1eGRTOFlveC1nZHV3YTRMNWlfNGlPb19kUFkzRVhFemthemhTVEk2NFJOSEYzTVp5cXpNOGFBUWQ0MmRNT3pvTmdzclZqdGhSZG95bFBsclBCdVp4ckhVTHFxd2tvYTN2b3ctNFZka0ZUaEt3OHdqdXpIRW1QeFRlcjBQbkV6WU1BcnJ1RzVyaUwwWGE5YkhYT3h3Zm9PZVZDR3RFRE53YWZlRU9FM0tKdWs1eWZURlVEVW51UGZQN2RNLWNEdGNmUEN5SkQ4REhBeXBxeFNRajlDcTJ4UkpweU9uVWZJMmFMRFNHVUZR?oc=5)
-
----
-
-### [萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XTmtPNlBZb3dQZ09uWGFFTlRNdWlmeW94b3prbHRhRmdJOURzbGJWN29zY0d3LTE4aDFJbTNpdEtObUJGVkYzNk1JN3JXZw?oc=5)
-
-2026-05-14 <span class="news-indication-tag">子宮頸癌</span>
-
-來源：[記者爆料網](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XTmtPNlBZb3dQZ09uWGFFTlRNdWlmeW94b3prbHRhRmdJOURzbGJWN29zY0d3LTE4aDFJbTNpdEtObUJGVkYzNk1JN3JXZw?oc=5)
 
 ---
 

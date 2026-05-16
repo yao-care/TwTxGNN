@@ -1,21 +1,8 @@
 {
-  "last_updated": "2026-05-16T11:44:07.276998+00:00",
-  "total_count": 26,
-  "matched_count": 5,
+  "last_updated": "2026-05-16T13:00:54.929496+00:00",
+  "total_count": 24,
+  "matched_count": 4,
   "news": [
-    {
-      "id": "9e9e644d58cc",
-      "title": "每周花10秒自救！專家示警：腳底「3色2狀態」藏病兆",
-      "published": "2026-05-16T09:18:32+00:00",
-      "summary": "每周花10秒自救！專家示警：腳底「3色2狀態」藏病兆&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tN0JaTHlfQVFwTGVxR2x6VmdzbVFOUjhTSHR0dEJwOEt2d0dHdjFUalhXM01ILWpmUGdSZXVXVENwY1hrMUItMDlxUmxERDBnLVZ6UV9xbk9NVHZLSlMyeEJKY3loeUZoUHFiOEpn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
     {
       "id": "c65b99326cde",
       "title": "45歲女發燒竟「敗血性休克」　醫揭9警訊：燒退了不代表變好",
@@ -33,7 +20,7 @@
       "id": "8a3d6fe09919",
       "title": "比流感更兇！「1病毒」重症住院率高16倍 拖一週恐進ICU",
       "published": "2026-05-16T06:41:56+00:00",
-      "summary": "比流感更兇！「1病毒」重症住院率高16倍 拖一週恐進ICU&nbsp;&nbsp;Yahoo新聞嬰幼兒健康｜家長必睇！1歲以下RSV感染易變肺炎 一針長效抗體 即時產生保護&nbsp;&nbsp;荷花Eugenebaby長者嚴防呼吸道合胞病毒死亡率逾兩成 未有治療藥物&nbsp;&nbsp;信報網站1病毒比流感更兇！營養師示警「重症率高出16倍」 4類人要小心&nbsp;&nbsp;祝你健康臺南市RSV疫苗補助上路 弱勢孕婦可免費接種&nbsp;&nbsp;新住民全球新聞網",
+      "summary": "比流感更兇！「1病毒」重症住院率高16倍 拖一週恐進ICU&nbsp;&nbsp;Yahoo新聞1病毒比流感更兇！營養師示警「重症率高出16倍」 4類人要小心&nbsp;&nbsp;祝你健康嬰幼兒健康｜家長必睇！1歲以下RSV感染易變肺炎 一針長效抗體 即時產生保護&nbsp;&nbsp;荷花Eugenebaby長者嚴防呼吸道合胞病毒死亡率逾兩成 未有治療藥物&nbsp;&nbsp;信報網站臺南市RSV疫苗補助上路 弱勢孕婦可免費接種&nbsp;&nbsp;新住民全球新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -408,31 +395,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "752671455428",
-      "title": "萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發",
-      "published": "2026-05-14T12:50:53+00:00",
-      "summary": "萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發&nbsp;&nbsp;記者爆料網",
-      "sources": [
-        {
-          "name": "記者爆料網",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XTmtPNlBZb3dQZ09uWGFFTlRNdWlmeW94b3prbHRhRmdJOURzbGJWN29zY0d3LTE4aDFJbTNpdEtObUJGVkYzNk1JN3JXZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "14b359e2b9f2",
