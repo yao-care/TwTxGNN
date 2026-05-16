@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-05-16T13:00:54.929496+00:00",
-  "total_count": 24,
-  "matched_count": 4,
+  "last_updated": "2026-05-16T14:47:57.208955+00:00",
+  "total_count": 27,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "6747b926b0af",
+      "title": "科學家發現隱藏的大腦營養缺乏可能引發焦慮",
+      "published": "2026-05-16T13:49:39+00:00",
+      "summary": "科學家發現隱藏的大腦營養缺乏可能引發焦慮&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPdVhkOUxrLWJnRHdveUlLR1Y2V1VzVjAzbUluVHZ2cmhMclN1NWJaOVRHVjViVVFTUWVvQlpWMEVnVHBIcGVFckdSLUtqN203NXQ2NkV0NDVIeVlINXFkTFlOb0d4ZUVveUpsQU4wTDNORmY4ZFYtcnNqWjkwaVZ3RGE0UXVJbjJZOTg2RTZ5N1VUYVh6RUZROHdOeHhCWlBCc3psSTRHOFZIcE0tSENXT2pVRzFRdW1BbkhDSmQ0dGRpR3pnRndrWmVySTJ0MEozcnhYdm9lQnhiQUtmZVVHU0xrYUp0WDh2dGdTdEl0dUNZRjJ1eXE3aVM2d25hMlNiRmNwSzlpdUJLZ0d4SmRCQmhNRGpORHBXc2x1ZUUxV2MtVVN6SG5Jbmo1ODR5bjY0QTY2VHBVTUFzSjZyNHBDTkNUV2ozREZjVFJsdHF2NE4wVDJyVnp2YUdSZS1qbFd4NGVpRUlJWnVfOTJhSnc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "c65b99326cde",
       "title": "45歲女發燒竟「敗血性休克」　醫揭9警訊：燒退了不代表變好",
@@ -20,14 +33,26 @@
       "id": "8a3d6fe09919",
       "title": "比流感更兇！「1病毒」重症住院率高16倍 拖一週恐進ICU",
       "published": "2026-05-16T06:41:56+00:00",
-      "summary": "比流感更兇！「1病毒」重症住院率高16倍 拖一週恐進ICU&nbsp;&nbsp;Yahoo新聞1病毒比流感更兇！營養師示警「重症率高出16倍」 4類人要小心&nbsp;&nbsp;祝你健康嬰幼兒健康｜家長必睇！1歲以下RSV感染易變肺炎 一針長效抗體 即時產生保護&nbsp;&nbsp;荷花Eugenebaby長者嚴防呼吸道合胞病毒死亡率逾兩成 未有治療藥物&nbsp;&nbsp;信報網站臺南市RSV疫苗補助上路 弱勢孕婦可免費接種&nbsp;&nbsp;新住民全球新聞網",
+      "summary": "比流感更兇！「1病毒」重症住院率高16倍 拖一週恐進ICU&nbsp;&nbsp;Yahoo新聞這不是普通感冒！1病毒住院率比流感高出16倍 | 民視新聞網&nbsp;&nbsp;LINE TODAY嬰幼兒健康｜家長必睇！1歲以下RSV感染易變肺炎 一針長效抗體 即時產生保護&nbsp;&nbsp;荷花Eugenebaby長者嚴防呼吸道合胞病毒死亡率逾兩成 未有治療藥物&nbsp;&nbsp;信報網站1病毒比流感更兇！營養師示警「重症率高出16倍」 4類人要小心&nbsp;&nbsp;祝你健康",
       "sources": [
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOaEdPYl9qa3B3eTFYNUlBV2RNNWFrLTFJS2R0VE1ab0lOTDF3WDBrTS00cjRFa2VULWZGSXlhdXZFdFNMVmxYN1hxcHRrSGl0VTBtelFQYjdIMWhyZUZhX3NtMVlKNktuRGZJcm5WVHZHcGJQU1RVUndVbE1YbW1Odm82cFJfZ19aTW9ONmVnZkNaYmhONVp4eHFqdEN4OUVHUGpJX0w5eWV4S2FTTW5IdTFIZVZOWjE2S0xSTjY0MnMydElzMTRqeVJQYlBBd0tzdnRTcC1iVEEwUlZndENIQ3ZjMW54ZnBWWVMxVU1oem9ydzg1TG1ZM2xvV21iQVlzb0YydGI2WjB5ekNPenc4VkxNU3Zhd1Y4YjJ1SjAzUkhEQnl5aTdfQWRMRGkxM3Fwd0U5TEl0M24?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "d7b16b904e0c",
@@ -100,6 +125,19 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VeGw4S0FlMG5HOW9MR1ZuUDN4MGF1d3d2bE10VGVXd054ZkFuWmo4ZkJQTUxGYTNVTHMzUHVDcmcwWDQ5WlBHMTJvcGl5QTBjRU5oMFJNU2hDY25j0gFiQVVfeXFMTXN3bk1qUFBJLW55dUtGaEpwMkQxWnVzd3UyRlhYSE55OUJGTEFrOWJ3MU5Fa2lmNXZCWl8xY08zZlZnU0tFUmRCcHZvTkUtYmtMSmgzR0JuQXRrSDJrWXdCQ1E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "de1b9e77c786",
+      "title": "紐約一名高中生疑似感染漢他病毒 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
+      "published": "2026-05-16T00:55:56+00:00",
+      "summary": "紐約一名高中生疑似感染漢他病毒 作者 Investing.com&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
+      "sources": [
+        {
+          "name": "Investing.com 香港 - 股市報價& 財經新聞",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jSWVFUktuYW5ZYTQxd0o1Rml5OXZ3eFlVUWRFZnlKandFVlhOdHJTLUxYbFdRczRNQ1ptcERBNC1aMjdDZVJRakc4U3VJejZ3UjdJbklNVnVTNEd1X3h1V1lXazFiNlVBeG5XMXV3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -379,6 +417,19 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IYmxkMGJqVEJCaHNHN0VaU0t1Rm4xY3NxaDBjMG1aeWVna1loSFIteGkzc0ZkRnUzUGlndmtOMlZySEtBdjdMT3N5N1V4bXlhTTB3ODZ3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9cc73f205c92",
+      "title": "聚餐完怕血糖飆？醫曝餐前吃「這食物」 血糖變化驚人",
+      "published": "2026-05-14T19:00:00+00:00",
+      "summary": "聚餐完怕血糖飆？醫曝餐前吃「這食物」 血糖變化驚人&nbsp;&nbsp;TVBS新聞網控血糖黃金時段曝光！研究揭「這時起身走路」：10分鐘降22%&nbsp;&nbsp;祝你健康飯前吃「這堅果」有奇效！餐後血糖大降28％，穩糖防發胖&nbsp;&nbsp;早安健康走路控血糖 研究揭黃金時段：10分鐘降22％&nbsp;&nbsp;中時新聞網吃糙米、青菜血糖仍飆高？醫揭1動作有驚人奇效：餐後降血糖效果高達22%&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qd0VRVTZsWXJnVlJoVUpvQ0Fta2NSaEdTZXFPb1VOaTNwWFJ5blZKUWlibGRWUUlsZldIWmd3dHZFbmNfUUVINlFwYlV5Q0Ri?oc=5"
         }
       ],
       "matched_keywords": []
