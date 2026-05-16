@@ -1,29 +1,29 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-16T07:51:01.661327+00:00",
-  "count": 24,
+  "fetched_at": "2026-05-16T09:22:43.131029+00:00",
+  "count": 25,
   "news": [
     {
-      "id": "c57648f44e6d",
-      "title": "發燒拖一天險送命！45歲女流感變「敗血性休克」 醫示警：不是退燒就沒事 - 壹蘋新聞網",
-      "published": "2026-05-16T05:32:00+00:00",
-      "summary": "發燒拖一天險送命！45歲女流感變「敗血性休克」 醫示警：不是退燒就沒事&nbsp;&nbsp;壹蘋新聞網",
+      "id": "848be2dddce9",
+      "title": "45歲女子發燒送急診「敗血性休克」　病況惡化快拖一下險進鬼門關 - ETtoday健康雲",
+      "published": "2026-05-16T08:09:00+00:00",
+      "summary": "45歲女子發燒送急診「敗血性休克」 病況惡化快拖一下險進鬼門關&nbsp;&nbsp;ETtoday健康雲",
       "sources": [
         {
-          "name": "壹蘋新聞網",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIbU52LU55TDZGMHIzRlpRMXI3NU4xSDdiVGJrODMxUzBIWmp0dC1mWDUwZTl2aENVTjN6NFBfZUV3MFBTOExSR0JhVWx6bmhRZnpQV21Eb1VSSnBxS2QtSUZZOTlDY2NpVm5tcUhXV0VlX19yV2R5cjNHVkFWUQ?oc=5"
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83Sjh1a2RSblpzTXVkXzZhOHEwNTBqaEVIVk1IVEp3eVNVS0JQem9UZ0MybnA1cHl6M0U3QVhpdFhldnY2UWpiT1I0MzczejJh0gFsQVVfeXFMUDFGRW1PZ083SUxzZXlQWTJZUXpodkhMQmVFdEZYUWNtZmpvSlNFNmkzb3JNSjI2TVpHUkNqZENHcWV5MUw3T3djNGhyZThjV3lONjVhQkItZS1lUUxXSGRfdG10Q3lSdzNZZzdG?oc=5"
         }
       ]
     },
     {
-      "id": "fcb57514be0a",
+      "id": "565fa2869f61",
       "title": "健康網》睪固酮低恐性慾降、骨疏鬆 網紅醫6招提升睪固酮 - 自由健康網",
       "published": "2026-05-15T13:03:00+00:00",
       "summary": "健康網》睪固酮低恐性慾降、骨疏鬆 網紅醫6招提升睪固酮&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXS3NhblI5SXVfc2JFSnViNDJuRDNQM1NzN19lYncwcHcxQldERnBWMXRmMWJXUzdTNXRBOWFZY0NkdEZYYUNMcEhDWnJoT09rdHhQRmZ0N0owQThBMnJDbmpOYnLSAWpBVV95cUxPcnV3MHppZ1JtU3NVYlhFVWF0X1hSM0hqSU9KeUlUQ0h1M0hjRXhWVXN5djh2SE9VSGdNM2NBM0dTWnF1Z0RadWdBWjU4a0pXdEFiZTNTUmowVmdwMHBQWXV0TWJKSHZpSWN3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXS3NhblI5SXVfc2JFSnViNDJuRDNQM1NzN19lYncwcHcxQldERnBWMXRmMWJXUzdTNXRBOWFZY0NkdEZYYUNMcEhDWnJoT09rdHhQRmZ0N0owQThBMnJDbmpOYnI?oc=5"
         }
       ]
     },
@@ -52,14 +52,26 @@
       ]
     },
     {
-      "id": "420f1d4ce242",
-      "title": "「最後的禮物」研究揭愛滋病毒藏匿腦部 捐贈助尋治癒曙光 - yesmedia.com.tw",
-      "published": "2026-05-15T15:14:43+00:00",
-      "summary": "「最後的禮物」研究揭愛滋病毒藏匿腦部 捐贈助尋治癒曙光&nbsp;&nbsp;yesmedia.com.tw",
+      "id": "d7b16b904e0c",
+      "title": "胰島素阻抗易引發代謝異常 增12癌風險 - 大纪元",
+      "published": "2026-05-16T05:00:00+00:00",
+      "summary": "胰島素阻抗易引發代謝異常 增12癌風險&nbsp;&nbsp;大纪元肥胖、有糖尿病更容易罹癌？醫揭：高胰島素可能成癌細胞生長訊號&nbsp;&nbsp;康健雜誌GLP-1藥物研究新發現 肥胖糖尿病乳癌患存活率增&nbsp;&nbsp;蕃新聞細胞增生&nbsp;&nbsp;東周刊GLP-1減重針，能幫助乳癌患者降低復發風險嗎？&nbsp;&nbsp;careonline.com.tw",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tTHh2RWtXNnRKZGN3T096ZE05MWdqV2E3RldybGZ2Uk1icEVrN3h1endveG1lclN5X2lsb1dVRzgyYkczX2lhWVlqcFN6UkR3Z1FhUEFhQ3lWS1hsbW1V0gFkQVVfeXFMTzJUQm5pd0htU2x0YzBBa0tNcGpuWV93VmZRSTIzZDlqRFByWlkxN0g1Mm5GQUdzYjAwWXphRE9RWTVXTnBiVHFuT2JWMzFpS0tTWV9UUXF4N0ZlaTBFZktsbHctTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fc5df3271059",
+      "title": "新研究揭停經與心理健康、腦灰質減少關聯 荷爾蒙療法非萬靈丹 - yesmedia.com.tw",
+      "published": "2026-05-15T16:21:29+00:00",
+      "summary": "新研究揭停經與心理健康、腦灰質減少關聯 荷爾蒙療法非萬靈丹&nbsp;&nbsp;yesmedia.com.tw",
       "sources": [
         {
           "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPLVF5cl9GV2l6LUFxVFNuN2NibERCclZEeWZGa09KUEJzdUNyYjhhb05NWXNYOWN3SE5sUVlob2V3M3RBU0dVMl82U3RjLW15ejE1OS1NTFV0aWUtSzhMT3JQeFRQSVk0ajE4UVVEeDUxMkl2YWtScEpPQWtrekpmVXlxWHZZSWhmQUdabjU2c2ZvcEEzR29KYVh5MTRqck50TTlZckVRRlgtaTdyUWZoVzdLTmVaYkZvdVdZdEt4VVR5Q1diOWx0c3FuUEI1SGpDbUwxX016MGUtRUpfM2pRX3piVkR4SGZIOG9sd2lUd3hnd0ZNRGw1QTZFbl9ycW9wa1kwZ1dSb3RRVlFtbEdpOFk1a05IQ3dMNlZLaUNtNWdzVkJ6MTF4NDRfWUJkZnZkQmgtaG1mZHluZjFRRFBOUDVSRV8zdy1aNmVZVQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQZVhSRmp1UWZsZ1RhVzBScENscWphaWdjSTVqRmZLTm1DeDJ2RFRscmU2WGdNTFJSa01qOFFfdVFIZUZ4NTRicE5xdWdITmRYWUY2V0tiOThhQVdIeWRCOHpQdHJKUUp6Ql90dHVKdHk5b2M2cENlMmp2eDlpRmxvUDR5Q21RYUtxODNrM3pMOXMwYzJiaEY2SzgtbzR3bVA0N1ZwckViUlktajh3dWpwM3d6MnFvM2ljRmpSRjNxcnpWRkY5Yk14aHRFWkItQ2JiSkpMeENadHJSNmdrQ3djSzFHMU9PdFpYTkZEdFZvWFBrSXFvbThQSmdra2hGTW9scTdsTUYyOXJ0bWI3S25mbXJTMTVuYm5RTF9YRUlzU01DR0tXYTN1Z3h6MTNVdHlLQTRHVktDbEl0T1NYOGlZaWJTYjhPS21SbzJwTg?oc=5"
         }
       ]
     },
@@ -76,14 +88,14 @@
       ]
     },
     {
-      "id": "d7b16b904e0c",
-      "title": "胰島素阻抗易引發代謝異常 增12癌風險 - 大纪元",
-      "published": "2026-05-16T05:00:00+00:00",
-      "summary": "胰島素阻抗易引發代謝異常 增12癌風險&nbsp;&nbsp;大纪元肥胖、有糖尿病更容易罹癌？醫揭：高胰島素可能成癌細胞生長訊號&nbsp;&nbsp;康健雜誌GLP-1藥物研究新發現 肥胖糖尿病乳癌患存活率增&nbsp;&nbsp;蕃新聞無不良嗜好竟確診雙重癌症 醫生揭1個常被忽略的致命傷 隨時增患13種癌症風險&nbsp;&nbsp;U Food細胞增生&nbsp;&nbsp;東周刊",
+      "id": "a789edfebabd",
+      "title": "「最後的禮物」研究揭愛滋病毒藏匿腦部 捐贈助尋治癒曙光 - ENN台灣電報",
+      "published": "2026-05-15T17:13:54+00:00",
+      "summary": "「最後的禮物」研究揭愛滋病毒藏匿腦部 捐贈助尋治癒曙光&nbsp;&nbsp;ENN台灣電報",
       "sources": [
         {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tTHh2RWtXNnRKZGN3T096ZE05MWdqV2E3RldybGZ2Uk1icEVrN3h1endveG1lclN5X2lsb1dVRzgyYkczX2lhWVlqcFN6UkR3Z1FhUEFhQ3lWS1hsbW1V0gFkQVVfeXFMTzJUQm5pd0htU2x0YzBBa0tNcGpuWV93VmZRSTIzZDlqRFByWlkxN0g1Mm5GQUdzYjAwWXphRE9RWTVXTnBiVHFuT2JWMzFpS0tTWV9UUXF4N0ZlaTBFZktsbHctTA?oc=5"
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE05cEwxOTNUYU9NMkFJT2NXZWJaV0lqYkRzVk11UXA1UmItQW8zc1BIM2duY3NEakVsQXc?oc=5"
         }
       ]
     },
@@ -148,18 +160,6 @@
       ]
     },
     {
-      "id": "a3e6f311026d",
-      "title": "紐時賞析／漢他雖非新冠人們餘悸猶存| 放學微素養| 文教 - UDN",
-      "published": "2026-05-15T16:36:29+00:00",
-      "summary": "紐時賞析／漢他雖非新冠人們餘悸猶存| 放學微素養| 文教&nbsp;&nbsp;UDN美國CDC應對漢坦病毒如「走鋼絲」&nbsp;&nbsp;华尔街日报中文网",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KWE1DQ1pLVUJuUEtlUy1sNUtVajY5T0YxTGVfa0FvS0xWbGlJZ3F6NW1HaHJvV2J1U3YtVF9YLVQ2NTJScVFsWTZ3eVAtNHdl?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1835d5697d53",
       "title": "大型研究揭示：人類細胞蛋白如何影響 HIV 感染與複製 | 科技新報 - LINE TODAY",
       "published": "2026-05-15T08:35:58+00:00",
@@ -168,6 +168,18 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAweklQM1I3SU9oV2pINlc2cEZ3eFZ0TmFhMDVRWDFGTENsdnJsOWJUZG9DUVd1TmNwMUhOTHVnQXJ5M213VVRpQ3ZYeEJpNHZDTjdiMlR3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a3e6f311026d",
+      "title": "紐時賞析／漢他雖非新冠人們餘悸猶存| 放學微素養| 文教 - UDN",
+      "published": "2026-05-15T16:36:29+00:00",
+      "summary": "紐時賞析／漢他雖非新冠人們餘悸猶存| 放學微素養| 文教&nbsp;&nbsp;UDN美國CDC應對漢坦病毒如「走鋼絲」&nbsp;&nbsp;华尔街日报中文网",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KWE1DQ1pLVUJuUEtlUy1sNUtVajY5T0YxTGVfa0FvS0xWbGlJZ3F6NW1HaHJvV2J1U3YtVF9YLVQ2NTJScVFsWTZ3eVAtNHdl?oc=5"
         }
       ]
     },
@@ -186,7 +198,7 @@
     {
       "id": "fcf28bc24b62",
       "title": "改造益生菌在腸道發揮作用，重塑肝與腦的代謝連動 | 科技新報 - LINE TODAY",
-      "published": "2026-05-14T08:34:34+00:00",
+      "published": "2026-05-15T02:38:19+00:00",
       "summary": "改造益生菌在腸道發揮作用，重塑肝與腦的代謝連動 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -196,14 +208,14 @@
       ]
     },
     {
-      "id": "335fb9319cb9",
-      "title": "萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發 - ENN台灣電報",
-      "published": "2026-05-14T12:12:21+00:00",
-      "summary": "萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發&nbsp;&nbsp;ENN台灣電報",
+      "id": "752671455428",
+      "title": "萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發 - 記者爆料網",
+      "published": "2026-05-14T12:50:53+00:00",
+      "summary": "萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發&nbsp;&nbsp;記者爆料網",
       "sources": [
         {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5TejR6QkMtSXVyekVwMjlJeTAwVk9kc05jZDdfcm9tOGZmX0tlVE4zc1ZlNC1OWGd1Q0E?oc=5"
+          "name": "記者爆料網",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XTmtPNlBZb3dQZ09uWGFFTlRNdWlmeW94b3prbHRhRmdJOURzbGJWN29zY0d3LTE4aDFJbTNpdEtObUJGVkYzNk1JN3JXZw?oc=5"
         }
       ]
     },

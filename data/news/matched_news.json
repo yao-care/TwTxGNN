@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-05-16T07:51:05.589488+00:00",
-  "total_count": 25,
-  "matched_count": 4,
+  "last_updated": "2026-05-16T09:22:46.482410+00:00",
+  "total_count": 26,
+  "matched_count": 5,
   "news": [
     {
-      "id": "c57648f44e6d",
-      "title": "發燒拖一天險送命！45歲女流感變「敗血性休克」 醫示警：不是退燒就沒事",
-      "published": "2026-05-16T05:32:00+00:00",
-      "summary": "發燒拖一天險送命！45歲女流感變「敗血性休克」 醫示警：不是退燒就沒事&nbsp;&nbsp;壹蘋新聞網",
+      "id": "848be2dddce9",
+      "title": "45歲女子發燒送急診「敗血性休克」　病況惡化快拖一下險進鬼門關",
+      "published": "2026-05-16T08:09:00+00:00",
+      "summary": "45歲女子發燒送急診「敗血性休克」 病況惡化快拖一下險進鬼門關&nbsp;&nbsp;ETtoday健康雲",
       "sources": [
         {
-          "name": "壹蘋新聞網",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIbU52LU55TDZGMHIzRlpRMXI3NU4xSDdiVGJrODMxUzBIWmp0dC1mWDUwZTl2aENVTjN6NFBfZUV3MFBTOExSR0JhVWx6bmhRZnpQV21Eb1VSSnBxS2QtSUZZOTlDY2NpVm5tcUhXV0VlX19yV2R5cjNHVkFWUQ?oc=5"
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83Sjh1a2RSblpzTXVkXzZhOHEwNTBqaEVIVk1IVEp3eVNVS0JQem9UZ0MybnA1cHl6M0U3QVhpdFhldnY2UWpiT1I0MzczejJh0gFsQVVfeXFMUDFGRW1PZ083SUxzZXlQWTJZUXpodkhMQmVFdEZYUWNtZmpvSlNFNmkzb3JNSjI2TVpHUkNqZENHcWV5MUw3T3djNGhyZThjV3lONjVhQkItZS1lUUxXSGRfdG10Q3lSdzNZZzdG?oc=5"
         }
       ],
       "matched_keywords": []
@@ -20,7 +20,7 @@
       "id": "d7b16b904e0c",
       "title": "胰島素阻抗易引發代謝異常 增12癌風險",
       "published": "2026-05-16T05:00:00+00:00",
-      "summary": "胰島素阻抗易引發代謝異常 增12癌風險&nbsp;&nbsp;大纪元肥胖、有糖尿病更容易罹癌？醫揭：高胰島素可能成癌細胞生長訊號&nbsp;&nbsp;康健雜誌GLP-1藥物研究新發現 肥胖糖尿病乳癌患存活率增&nbsp;&nbsp;蕃新聞無不良嗜好竟確診雙重癌症 醫生揭1個常被忽略的致命傷 隨時增患13種癌症風險&nbsp;&nbsp;U Food細胞增生&nbsp;&nbsp;東周刊",
+      "summary": "胰島素阻抗易引發代謝異常 增12癌風險&nbsp;&nbsp;大纪元肥胖、有糖尿病更容易罹癌？醫揭：高胰島素可能成癌細胞生長訊號&nbsp;&nbsp;康健雜誌GLP-1藥物研究新發現 肥胖糖尿病乳癌患存活率增&nbsp;&nbsp;蕃新聞細胞增生&nbsp;&nbsp;東周刊GLP-1減重針，能幫助乳癌患者降低復發風險嗎？&nbsp;&nbsp;careonline.com.tw",
       "sources": [
         {
           "name": "大纪元",
@@ -28,201 +28,6 @@
         }
       ],
       "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "female breast carcinoma",
@@ -300,6 +105,19 @@
       "matched_keywords": []
     },
     {
+      "id": "a789edfebabd",
+      "title": "「最後的禮物」研究揭愛滋病毒藏匿腦部 捐贈助尋治癒曙光",
+      "published": "2026-05-15T17:13:54+00:00",
+      "summary": "「最後的禮物」研究揭愛滋病毒藏匿腦部 捐贈助尋治癒曙光&nbsp;&nbsp;ENN台灣電報",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE05cEwxOTNUYU9NMkFJT2NXZWJaV0lqYkRzVk11UXA1UmItQW8zc1BIM2duY3NEakVsQXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "a3e6f311026d",
       "title": "紐時賞析／漢他雖非新冠人們餘悸猶存| 放學微素養| 文教",
       "published": "2026-05-15T16:36:29+00:00",
@@ -313,17 +131,41 @@
       "matched_keywords": []
     },
     {
-      "id": "420f1d4ce242",
-      "title": "「最後的禮物」研究揭愛滋病毒藏匿腦部 捐贈助尋治癒曙光",
-      "published": "2026-05-15T15:14:43+00:00",
-      "summary": "「最後的禮物」研究揭愛滋病毒藏匿腦部 捐贈助尋治癒曙光&nbsp;&nbsp;yesmedia.com.tw",
+      "id": "fc5df3271059",
+      "title": "新研究揭停經與心理健康、腦灰質減少關聯 荷爾蒙療法非萬靈丹",
+      "published": "2026-05-15T16:21:29+00:00",
+      "summary": "新研究揭停經與心理健康、腦灰質減少關聯 荷爾蒙療法非萬靈丹&nbsp;&nbsp;yesmedia.com.tw",
       "sources": [
         {
           "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPLVF5cl9GV2l6LUFxVFNuN2NibERCclZEeWZGa09KUEJzdUNyYjhhb05NWXNYOWN3SE5sUVlob2V3M3RBU0dVMl82U3RjLW15ejE1OS1NTFV0aWUtSzhMT3JQeFRQSVk0ajE4UVVEeDUxMkl2YWtScEpPQWtrekpmVXlxWHZZSWhmQUdabjU2c2ZvcEEzR29KYVh5MTRqck50TTlZckVRRlgtaTdyUWZoVzdLTmVaYkZvdVdZdEt4VVR5Q1diOWx0c3FuUEI1SGpDbUwxX016MGUtRUpfM2pRX3piVkR4SGZIOG9sd2lUd3hnd0ZNRGw1QTZFbl9ycW9wa1kwZ1dSb3RRVlFtbEdpOFk1a05IQ3dMNlZLaUNtNWdzVkJ6MTF4NDRfWUJkZnZkQmgtaG1mZHluZjFRRFBOUDVSRV8zdy1aNmVZVQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQZVhSRmp1UWZsZ1RhVzBScENscWphaWdjSTVqRmZLTm1DeDJ2RFRscmU2WGdNTFJSa01qOFFfdVFIZUZ4NTRicE5xdWdITmRYWUY2V0tiOThhQVdIeWRCOHpQdHJKUUp6Ql90dHVKdHk5b2M2cENlMmp2eDlpRmxvUDR5Q21RYUtxODNrM3pMOXMwYzJiaEY2SzgtbzR3bVA0N1ZwckViUlktajh3dWpwM3d6MnFvM2ljRmpSRjNxcnpWRkY5Yk14aHRFWkItQ2JiSkpMeENadHJSNmdrQ3djSzFHMU9PdFpYTkZEdFZvWFBrSXFvbThQSmdra2hGTW9scTdsTUYyOXJ0bWI3S25mbXJTMTVuYm5RTF9YRUlzU01DR0tXYTN1Z3h6MTNVdHlLQTRHVktDbEl0T1NYOGlZaWJTYjhPS21SbzJwTg?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "f3b88b06fc79",
@@ -339,14 +181,14 @@
       "matched_keywords": []
     },
     {
-      "id": "fcb57514be0a",
+      "id": "565fa2869f61",
       "title": "健康網》睪固酮低恐性慾降、骨疏鬆 網紅醫6招提升睪固酮",
       "published": "2026-05-15T13:03:00+00:00",
       "summary": "健康網》睪固酮低恐性慾降、骨疏鬆 網紅醫6招提升睪固酮&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXS3NhblI5SXVfc2JFSnViNDJuRDNQM1NzN19lYncwcHcxQldERnBWMXRmMWJXUzdTNXRBOWFZY0NkdEZYYUNMcEhDWnJoT09rdHhQRmZ0N0owQThBMnJDbmpOYnLSAWpBVV95cUxPcnV3MHppZ1JtU3NVYlhFVWF0X1hSM0hqSU9KeUlUQ0h1M0hjRXhWVXN5djh2SE9VSGdNM2NBM0dTWnF1Z0RadWdBWjU4a0pXdEFiZTNTUmowVmdwMHBQWXV0TWJKSHZpSWN3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXS3NhblI5SXVfc2JFSnViNDJuRDNQM1NzN19lYncwcHcxQldERnBWMXRmMWJXUzdTNXRBOWFZY0NkdEZYYUNMcEhDWnJoT09rdHhQRmZ0N0owQThBMnJDbmpOYnI?oc=5"
         }
       ],
       "matched_keywords": []
@@ -516,6 +358,19 @@
       "matched_keywords": []
     },
     {
+      "id": "fcf28bc24b62",
+      "title": "改造益生菌在腸道發揮作用，重塑肝與腦的代謝連動 | 科技新報 - LINE TODAY",
+      "published": "2026-05-15T02:38:19+00:00",
+      "summary": "改造益生菌在腸道發揮作用，重塑肝與腦的代謝連動 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IYmxkMGJqVEJCaHNHN0VaU0t1Rm4xY3NxaDBjMG1aeWVna1loSFIteGkzc0ZkRnUzUGlndmtOMlZySEtBdjdMT3N5N1V4bXlhTTB3ODZ3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "0fd0bded29d6",
       "title": "滿地可停車場疑遭縱火　重型貨車燃起熊熊大火 另10車受波及",
       "published": "2026-05-14T17:15:00+00:00",
@@ -529,14 +384,14 @@
       "matched_keywords": []
     },
     {
-      "id": "335fb9319cb9",
+      "id": "752671455428",
       "title": "萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發",
-      "published": "2026-05-14T12:12:21+00:00",
-      "summary": "萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發&nbsp;&nbsp;ENN台灣電報",
+      "published": "2026-05-14T12:50:53+00:00",
+      "summary": "萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發&nbsp;&nbsp;記者爆料網",
       "sources": [
         {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5TejR6QkMtSXVyekVwMjlJeTAwVk9kc05jZDdfcm9tOGZmX0tlVE4zc1ZlNC1OWGd1Q0E?oc=5"
+          "name": "記者爆料網",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XTmtPNlBZb3dQZ09uWGFFTlRNdWlmeW94b3prbHRhRmdJOURzbGJWN29zY0d3LTE4aDFJbTNpdEtObUJGVkYzNk1JN3JXZw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -575,19 +430,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPemVEdmdtNW5YeU42Xy1FdUlKS1d4eUwzR0x4MV81NndnSEozYUs0RXEydHRHMkRwb2JzSTBjMnJVbW41OXpHWXQzREx5Q3VpNGJyellzV3NpRG5ydnZFTTBvc1kwaXRTbkZsSUZEQ2xTajhZQjhab2RKS3d2VzRQTllaR3F5RExWZ0lHR3FnQUVTSEZ1NlR6MVM0TlpROFBNNklvZUJSdi02VjNDd21MMlVRdmptRk9VU3NmdUd0b3RFNF9CMG5Ya3dDdzB5eW9ZMElNWk01MXdUMTJiSFUta2MyUGdibmNRR1BSZVhZb2dFZ2k1TVFNS251eDNkQmVB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fcf28bc24b62",
-      "title": "改造益生菌在腸道發揮作用，重塑肝與腦的代謝連動 | 科技新報 - LINE TODAY",
-      "published": "2026-05-14T08:34:34+00:00",
-      "summary": "改造益生菌在腸道發揮作用，重塑肝與腦的代謝連動 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IYmxkMGJqVEJCaHNHN0VaU0t1Rm4xY3NxaDBjMG1aeWVna1loSFIteGkzc0ZkRnUzUGlndmtOMlZySEtBdjdMT3N5N1V4bXlhTTB3ODZ3?oc=5"
         }
       ],
       "matched_keywords": []

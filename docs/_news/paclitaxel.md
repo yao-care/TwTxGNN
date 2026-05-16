@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [胰島素阻抗易引發代謝異常 增12癌風險](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tTHh2RWtXNnRKZGN3T096ZE05MWdqV2E3RldybGZ2Uk1icEVrN3h1endveG1lclN5X2lsb1dVRzgyYkczX2lhWVlqcFN6UkR3Z1FhUEFhQ3lWS1hsbW1V0gFkQVVfeXFMTzJUQm5pd0htU2x0YzBBa0tNcGpuWV93VmZRSTIzZDlqRFByWlkxN0g1Mm5GQUdzYjAwWXphRE9RWTVXTnBiVHFuT2JWMzFpS0tTWV9UUXF4N0ZlaTBFZktsbHctTA?oc=5)
 
-2026-05-16 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
+2026-05-16 <span class="news-indication-tag">乳癌</span>
 
 來源：[大纪元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tTHh2RWtXNnRKZGN3T096ZE05MWdqV2E3RldybGZ2Uk1icEVrN3h1endveG1lclN5X2lsb1dVRzgyYkczX2lhWVlqcFN6UkR3Z1FhUEFhQ3lWS1hsbW1V0gFkQVVfeXFMTzJUQm5pd0htU2x0YzBBa0tNcGpuWV93VmZRSTIzZDlqRFByWlkxN0g1Mm5GQUdzYjAwWXphRE9RWTVXTnBiVHFuT2JWMzFpS0tTWV9UUXF4N0ZlaTBFZktsbHctTA?oc=5)
+
+---
+
+### [新研究揭停經與心理健康、腦灰質減少關聯 荷爾蒙療法非萬靈丹](https://news.google.com/rss/articles/CBMizAJBVV95cUxQZVhSRmp1UWZsZ1RhVzBScENscWphaWdjSTVqRmZLTm1DeDJ2RFRscmU2WGdNTFJSa01qOFFfdVFIZUZ4NTRicE5xdWdITmRYWUY2V0tiOThhQVdIeWRCOHpQdHJKUUp6Ql90dHVKdHk5b2M2cENlMmp2eDlpRmxvUDR5Q21RYUtxODNrM3pMOXMwYzJiaEY2SzgtbzR3bVA0N1ZwckViUlktajh3dWpwM3d6MnFvM2ljRmpSRjNxcnpWRkY5Yk14aHRFWkItQ2JiSkpMeENadHJSNmdrQ3djSzFHMU9PdFpYTkZEdFZvWFBrSXFvbThQSmdra2hGTW9scTdsTUYyOXJ0bWI3S25mbXJTMTVuYm5RTF9YRUlzU01DR0tXYTN1Z3h6MTNVdHlLQTRHVktDbEl0T1NYOGlZaWJTYjhPS21SbzJwTg?oc=5)
+
+2026-05-15 <span class="news-indication-tag">停經</span>
+
+來源：[yesmedia.com.tw](https://news.google.com/rss/articles/CBMizAJBVV95cUxQZVhSRmp1UWZsZ1RhVzBScENscWphaWdjSTVqRmZLTm1DeDJ2RFRscmU2WGdNTFJSa01qOFFfdVFIZUZ4NTRicE5xdWdITmRYWUY2V0tiOThhQVdIeWRCOHpQdHJKUUp6Ql90dHVKdHk5b2M2cENlMmp2eDlpRmxvUDR5Q21RYUtxODNrM3pMOXMwYzJiaEY2SzgtbzR3bVA0N1ZwckViUlktajh3dWpwM3d6MnFvM2ljRmpSRjNxcnpWRkY5Yk14aHRFWkItQ2JiSkpMeENadHJSNmdrQ3djSzFHMU9PdFpYTkZEdFZvWFBrSXFvbThQSmdra2hGTW9scTdsTUYyOXJ0bWI3S25mbXJTMTVuYm5RTF9YRUlzU01DR0tXYTN1Z3h6MTNVdHlLQTRHVktDbEl0T1NYOGlZaWJTYjhPS21SbzJwTg?oc=5)
 
 ---
 
@@ -60,11 +68,11 @@ permalink: /news/paclitaxel/
 
 ---
 
-### [萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發](https://news.google.com/rss/articles/CBMiOkFVX3lxTE5TejR6QkMtSXVyekVwMjlJeTAwVk9kc05jZDdfcm9tOGZmX0tlVE4zc1ZlNC1OWGd1Q0E?oc=5)
+### [萊斯大學研發高擬真樣本 加速子宮頸癌篩檢技術開發](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XTmtPNlBZb3dQZ09uWGFFTlRNdWlmeW94b3prbHRhRmdJOURzbGJWN29zY0d3LTE4aDFJbTNpdEtObUJGVkYzNk1JN3JXZw?oc=5)
 
 2026-05-14 <span class="news-indication-tag">子宮頸癌</span>
 
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE5TejR6QkMtSXVyekVwMjlJeTAwVk9kc05jZDdfcm9tOGZmX0tlVE4zc1ZlNC1OWGd1Q0E?oc=5)
+來源：[記者爆料網](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XTmtPNlBZb3dQZ09uWGFFTlRNdWlmeW94b3prbHRhRmdJOURzbGJWN29zY0d3LTE4aDFJbTNpdEtObUJGVkYzNk1JN3JXZw?oc=5)
 
 ---
 

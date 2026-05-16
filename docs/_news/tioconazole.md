@@ -14,7 +14,7 @@ permalink: /news/tioconazole/
 ---
 
 <p class="key-answer" data-question="Tioconazole 有什麼相關新聞？">
-<strong>Tioconazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Tioconazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,9 +35,15 @@ permalink: /news/tioconazole/
 <p><a href="{{ '/drugs/tioconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [新研究揭停經與心理健康、腦灰質減少關聯 荷爾蒙療法非萬靈丹](https://news.google.com/rss/articles/CBMizAJBVV95cUxQZVhSRmp1UWZsZ1RhVzBScENscWphaWdjSTVqRmZLTm1DeDJ2RFRscmU2WGdNTFJSa01qOFFfdVFIZUZ4NTRicE5xdWdITmRYWUY2V0tiOThhQVdIeWRCOHpQdHJKUUp6Ql90dHVKdHk5b2M2cENlMmp2eDlpRmxvUDR5Q21RYUtxODNrM3pMOXMwYzJiaEY2SzgtbzR3bVA0N1ZwckViUlktajh3dWpwM3d6MnFvM2ljRmpSRjNxcnpWRkY5Yk14aHRFWkItQ2JiSkpMeENadHJSNmdrQ3djSzFHMU9PdFpYTkZEdFZvWFBrSXFvbThQSmdra2hGTW9scTdsTUYyOXJ0bWI3S25mbXJTMTVuYm5RTF9YRUlzU01DR0tXYTN1Z3h6MTNVdHlLQTRHVktDbEl0T1NYOGlZaWJTYjhPS21SbzJwTg?oc=5)
+
+2026-05-15 <span class="news-indication-tag">停經</span>
+
+來源：[yesmedia.com.tw](https://news.google.com/rss/articles/CBMizAJBVV95cUxQZVhSRmp1UWZsZ1RhVzBScENscWphaWdjSTVqRmZLTm1DeDJ2RFRscmU2WGdNTFJSa01qOFFfdVFIZUZ4NTRicE5xdWdITmRYWUY2V0tiOThhQVdIeWRCOHpQdHJKUUp6Ql90dHVKdHk5b2M2cENlMmp2eDlpRmxvUDR5Q21RYUtxODNrM3pMOXMwYzJiaEY2SzgtbzR3bVA0N1ZwckViUlktajh3dWpwM3d6MnFvM2ljRmpSRjNxcnpWRkY5Yk14aHRFWkItQ2JiSkpMeENadHJSNmdrQ3djSzFHMU9PdFpYTkZEdFZvWFBrSXFvbThQSmdra2hGTW9scTdsTUYyOXJ0bWI3S25mbXJTMTVuYm5RTF9YRUlzU01DR0tXYTN1Z3h6MTNVdHlLQTRHVktDbEl0T1NYOGlZaWJTYjhPS21SbzJwTg?oc=5)
+
+---
 
 
 <div class="disclaimer">
