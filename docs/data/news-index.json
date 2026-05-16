@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T23:46:17.943544+00:00",
-  "count": 5,
+  "generated": "2026-05-16T02:06:49.248985+00:00",
+  "count": 4,
   "news": [
     {
       "id": "5d7bab463d82",
@@ -140,34 +140,6 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "916084f04baa",
-      "title": "醫晴醫情｜結外邊沿區細胞淋巴癌",
-      "published": "2026-05-13T23:00:00+00:00",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQa1BWU2JIby1UQmRMR0ZaU3RIc3JKRUFqNHdwZ2toM2UyUVJmOWdVcF9vVlAzdDlGRThNUU9BUFNoMDBpSWJWWDRqVWtYenM4SVdfUmJyV3Y3UEJxTGg3Rm5EcFdkUTBod1NaREU3Z0p2NzhVMzk4aTl4dHpLVEIxODVyaTFDQ040bFQwXzJLc0g4dEIwLU5iZWc0empZekpwZDlFZkYySVZaU081VWxNZDlwc1BkRzZMb1RFWGNUTkZ3SHRKU1BOU1RQaWhhZFh4MGFvSEtrRDRXS3FLM085Y2JaODlFZWFkSGNYc0p6QktBcEp5VkR4V0lBSXBrR2t4eUdFV1N3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "primary cutaneous B-cell lymphoma",
-          "keyword": "淋巴癌",
-          "related_drugs": [
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
             }
           ]
         }
