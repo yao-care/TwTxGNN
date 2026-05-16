@@ -1,31 +1,7 @@
 {
-  "generated": "2026-05-16T14:47:57.238090+00:00",
-  "count": 5,
+  "generated": "2026-05-16T15:49:53.775120+00:00",
+  "count": 4,
   "news": [
-    {
-      "id": "8a3d6fe09919",
-      "title": "比流感更兇！「1病毒」重症住院率高16倍 拖一週恐進ICU",
-      "published": "2026-05-16T06:41:56+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOaEdPYl9qa3B3eTFYNUlBV2RNNWFrLTFJS2R0VE1ab0lOTDF3WDBrTS00cjRFa2VULWZGSXlhdXZFdFNMVmxYN1hxcHRrSGl0VTBtelFQYjdIMWhyZUZhX3NtMVlKNktuRGZJcm5WVHZHcGJQU1RVUndVbE1YbW1Odm82cFJfZ19aTW9ONmVnZkNaYmhONVp4eHFqdEN4OUVHUGpJX0w5eWV4S2FTTW5IdTFIZVZOWjE2S0xSTjY0MnMydElzMTRqeVJQYlBBd0tzdnRTcC1iVEEwUlZndENIQ3ZjMW54ZnBWWVMxVU1oem9ydzg1TG1ZM2xvV21iQVlzb0YydGI2WjB5ekNPenc4VkxNU3Zhd1Y4YjJ1SjAzUkhEQnl5aTdfQWRMRGkxM3Fwd0U5TEl0M24?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "d7b16b904e0c",
       "title": "胰島素阻抗易引發代謝異常 增12癌風險",
