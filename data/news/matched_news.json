@@ -1,8 +1,230 @@
 {
-  "last_updated": "2026-05-17T06:14:22.711628+00:00",
-  "total_count": 24,
-  "matched_count": 4,
+  "last_updated": "2026-05-17T08:58:29.605549+00:00",
+  "total_count": 22,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "10d43fcd556b",
+      "title": "打疫苗也沒效20歲女菜花「滿坑滿谷」 她回一句醫鼻酸- 健康",
+      "published": "2026-05-17T08:06:00+00:00",
+      "summary": "打疫苗也沒效20歲女菜花「滿坑滿谷」 她回一句醫鼻酸- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yS2hJamctQXhxRzFVYXZad2lidDY2bkF2ektZNHRtNXVRaEFQUmNsaGlPNTdOekpYQnN2bC1mVWtJSHQzeG90TkMzRFh6N2dENWZwUTRQaGNVSER1UXJUaE5pQ0x4akZLUVltTmtR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4b1f65f1efe7",
+      "title": "科學家發現了為什麼有些癌症能在化療後存活。",
+      "published": "2026-05-17T07:44:41+00:00",
+      "summary": "科學家發現了為什麼有些癌症能在化療後存活。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNQ00wVklQbTNzdnpJSjBSN0k0SVhKallncFNPTGI0MWNqT2N4Q2hna3hVMHl3cjRvaEUzWWVKeHU5V1V3blRwa3JNVXl4YXhnSUgyQzRlSG5CemtDSnUxNjdTclVGOE9OTm9CeVdCS0JwN0tTYXlsOWIyMlpsQVA5QjNEczdVZ1lwWDRJZUk4WTlFT3JIR09IUWNnVDNSNUY2U3c1VlJubVpnUjRIR2hjTm1Ec2x3eTZjekNtc2ZmSE9QLU1UeUJhcUt4ekR0QmNZQXJ3UGt3dHhFUWgtQ0pueHh2MHpDQWUwdGxMLXdMRENtZ0FBVGpVRExEaFBoa2R3QU13M2NBWTBSNG1aSjZMSWZXTXY4WldVbjhDSzdRV0hHVE50OGRsOVZ4S0Njc2M3SEVmQlZRUDRuekhwTVdjX185OWpzTzlwVlRYdmhqdlpBUXFWVk0ybzZma1B3eVpxdW13OVRzTjM2RDBkYXF2X1FBc19VYmpHYmc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "cc031653b768",
       "title": "她長甲狀腺囊腫靠這樣做消失了！名醫也大推 2營養素超關鍵",
@@ -126,14 +348,26 @@
       "id": "8a3d6fe09919",
       "title": "比流感更兇！「1病毒」重症住院率高16倍 拖一週恐進ICU",
       "published": "2026-05-16T05:54:00+00:00",
-      "summary": "比流感更兇！「1病毒」重症住院率高16倍 拖一週恐進ICU&nbsp;&nbsp;Yahoo新聞1病毒比流感更兇！營養師示警「重症率高出16倍」 4類人要小心&nbsp;&nbsp;祝你健康嬰幼兒健康｜家長必睇！1歲以下RSV感染易變肺炎 一針長效抗體 即時產生保護&nbsp;&nbsp;荷花Eugenebaby長者嚴防呼吸道合胞病毒死亡率逾兩成 未有治療藥物&nbsp;&nbsp;信報網站臺南市RSV疫苗補助上路 弱勢孕婦可免費接種&nbsp;&nbsp;新住民全球新聞網",
+      "summary": "比流感更兇！「1病毒」重症住院率高16倍 拖一週恐進ICU&nbsp;&nbsp;Yahoo新聞這不是普通感冒！1病毒住院率比流感高出16倍 | 民視新聞網&nbsp;&nbsp;LINE TODAY長者嚴防呼吸道合胞病毒死亡率逾兩成 未有治療藥物&nbsp;&nbsp;信報網站嬰幼兒健康｜家長必睇！1歲以下RSV感染易變肺炎 一針長效抗體 即時產生保護&nbsp;&nbsp;荷花Eugenebaby臺南市RSV疫苗補助上路 弱勢孕婦可免費接種&nbsp;&nbsp;新住民全球新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOaEdPYl9qa3B3eTFYNUlBV2RNNWFrLTFJS2R0VE1ab0lOTDF3WDBrTS00cjRFa2VULWZGSXlhdXZFdFNMVmxYN1hxcHRrSGl0VTBtelFQYjdIMWhyZUZhX3NtMVlKNktuRGZJcm5WVHZHcGJQU1RVUndVbE1YbW1Odm82cFJfZ19aTW9ONmVnZkNaYmhONVp4eHFqdEN4OUVHUGpJX0w5eWV4S2FTTW5IdTFIZVZOWjE2S0xSTjY0MnMydElzMTRqeVJQYlBBd0tzdnRTcC1iVEEwUlZndENIQ3ZjMW54ZnBWWVMxVU1oem9ydzg1TG1ZM2xvV21iQVlzb0YydGI2WjB5ekNPenc4VkxNU3Zhd1Y4YjJ1SjAzUkhEQnl5aTdfQWRMRGkxM3Fwd0U5TEl0M24?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "d7b16b904e0c",
@@ -240,7 +474,7 @@
       "id": "a3e6f311026d",
       "title": "紐時賞析／漢他雖非新冠人們餘悸猶存| 放學微素養| 文教",
       "published": "2026-05-15T16:36:29+00:00",
-      "summary": "紐時賞析／漢他雖非新冠人們餘悸猶存| 放學微素養| 文教&nbsp;&nbsp;UDN美國CDC應對漢坦病毒如「走鋼絲」&nbsp;&nbsp;华尔街日报中文网",
+      "summary": "紐時賞析／漢他雖非新冠人們餘悸猶存| 放學微素養| 文教&nbsp;&nbsp;UDN",
       "sources": [
         {
           "name": "UDN",
@@ -334,58 +568,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQbVg5Z2doZVpxNlZCRUFkM0ctcHljVUlhSDJCcFp0TGpVclBmYTlnTFNFU1RNcTF4Q2xwV0tKa0dIZWVvd2dGbGxDVjN1Q1hGZ3RCbEYxd3VVRWRYQ1VqNi1YOVpTWVlBazVXZjBaUndkSHZaQlNfVnI3R3lhTVA0UC10NGQtRVM1NGlxRkpabjZrSHZYOXRFZEpnZmhmaU45VzE4RVp1cGtHVExyQWhNQ25hSlBJd3JEdnc0Q2owNk5OZkVhcDBmaHhRS01zTlhBOHlFSkwxb21tNEw4OUkwb0UtblU4NUxhMUFxa0k1TnhCNGRiQUdudnJvbkJEdXNpNEJyNjFCOE5DMFV0X0k3X2pVbWFwSXozUFJSZGlQNF90NUZiNmlGa2wtS3M4bEdjX1NRYl9saEdPektlWjBGamY1T2Z6WnhlUXZjZFNYWWtXOEV5MW1lQVA2TmNnVVBLTUotallzMm5DZThkaV9ra2V0M0pwM1k3d2poWTlIZWI3eDJUZlhLTEpmUlhUSGZtWXFRb0VsYXNVcFZHaU5yR1ZXbWlHei0tTVFlQ0tEaU96QWVaNmxyTF9aS0M2RE1oMFdMOTB4VG9NNVJqVjFLZVU0SQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1835d5697d53",
-      "title": "大型研究揭示：人類細胞蛋白如何影響 HIV 感染與複製 | 科技新報 - LINE TODAY",
-      "published": "2026-05-15T07:35:43+00:00",
-      "summary": "大型研究揭示：人類細胞蛋白如何影響 HIV 感染與複製 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAweklQM1I3SU9oV2pINlc2cEZ3eFZ0TmFhMDVRWDFGTENsdnJsOWJUZG9DUVd1TmNwMUhOTHVnQXJ5M213VVRpQ3ZYeEJpNHZDTjdiMlR3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2d4ff42fcda6",
-      "title": "一項歷時 47 年的研究揭示了力量和健康何時開始下降。",
-      "published": "2026-05-15T05:27:31+00:00",
-      "summary": "一項歷時 47 年的研究揭示了力量和健康何時開始下降。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQUW14dFFwazV0VXloYzkzTDFIbFBGaE1KMzRNSTliX1V0aUVCTVVvRnUxSThHWUpTZDVqanotT3R5cXZNR3hjR0NCZTAwYUFWeGVxb09TdG1LaXRuOXRhSHVaVmJMN0RERERoNlg4UkRyUGpTME12NThndHJya2tzQzE1OGY3LTZPa3BObW5OcFA5dWV4bHBoRDY0TERqU0IwN1Zjd2ZWWGIwc0Nmc2RzYlppV185NEZVNmlQNE5OMGY1WkVHTDJ2aHNveDZib1h6YkFDcjJQLWVnYWpMbWZ1X2pGLTBMbDFkcnVKeFRjN29zckxkQV82ODNuVmJXM2s2MG1LM3ppWTZ4aDBOakc0aUR3S0FDUEVDVEt5cTdiMHp2djZKVXBZdi1fc0RZNTBUQzdIYkFHcV9vQjZjUzVyaE40U1pSZVVIemRyUTIzc2stakRLNEZDb3B4LVZwMjBVOHZkNGQ1ZUE5b1VsUEE2MjNlRTZlbmllTTNxRDZWdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e10c5a9abe4a",
-      "title": "畢業生的激進想法引發了偉大時代的到來。",
-      "published": "2026-05-15T05:11:15+00:00",
-      "summary": "畢業生的激進想法引發了偉大時代的到來。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOYmZIV1UyWXpNQlFXaUJQU1NBbU9OSGYxbFg3d3RMM3QzVnEyeUZnVDd2TW1JSWNSSTVZZkF1Z3N4eU9aMnh1RUNEYXZ5ZFp0Z3VTUzRGSFlGZDNQU1RlbDFUWW1jN1IwUG1EMkdOWHd3b2d1dktfTW1JQzRrM2xPQ0JZclhTOHByWml3MXZxaTJ2bXVBU1RyUFJqNHhMOVRWRFZhbHJGaU5ncmZkOWI0TklJVktSMmd1Y2N2SDZySWtXNnFiUFBqTEFBak53QjkzMm50bkFKeEdIdm1hNkt4ajJPVXVvWC13UmRMdEt5NHZncDZnMVRpTTVQS3I1NDFrVzU2VHlYaG1ZR3puTkN6Y2hvSENGb2g1alRXODdnNVNWcEF4MWkyWmNhUFIwaUE2NTIwdmlwNDFJems4MzlDY2t2bG1CWlRrVlpaUDJUZUdlV0Z4YVdDUnFmUEpWV2VZU2c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "14b359e2b9f2",
-      "title": "運動比目魚肌可能有助穩定血糖、血脂，但無法大量降血糖，也不能靠單一運動治療疾病",
-      "published": "2026-05-14T07:52:22+00:00",
-      "summary": "運動比目魚肌可能有助穩定血糖、血脂，但無法大量降血糖，也不能靠單一運動治療疾病&nbsp;&nbsp;台灣事實查核中心",
-      "sources": [
-        {
-          "name": "台灣事實查核中心",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRTRyMElZMnJGRmg4OEJOVmJMRjBzSGJYbjNGZ0VXWmNkdWhtQllXcHg2eGxjRWRWVk1xVUFoTzlMZ25Rdl9yaWtMbi1TNTNoT3hhRGo2eE1meE5OdFNSb2pfS0dhaWxnQ2hZSlEtX1N4di1fODVMNUZoZUNvRjFYeVhSQ2dNZEloeUhycjdOQzdKWDRjOExCQVRUd1o1YkR0NGY3UlBQRkhrUDk5aVk3ZHRfSEpqa2hZWndlbVV0WXE3akdaNWdV?oc=5"
         }
       ],
       "matched_keywords": []
