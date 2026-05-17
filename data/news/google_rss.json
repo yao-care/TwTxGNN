@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-17T17:50:30.524007+00:00",
-  "count": 17,
+  "fetched_at": "2026-05-17T18:54:57.629171+00:00",
+  "count": 12,
   "news": [
-    {
-      "id": "2fdf415a7c43",
-      "title": "20歲女打疫苗仍炸出「滿滿菜花田」！醫師一聽鼻酸：人生比病難治 - ETtoday新聞雲",
-      "published": "2026-05-17T13:59:00+00:00",
-      "summary": "20歲女打疫苗仍炸出「滿滿菜花田」！醫師一聽鼻酸：人生比病難治&nbsp;&nbsp;ETtoday新聞雲",
-      "sources": [
-        {
-          "name": "ETtoday新聞雲",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ybGtidTNyMVAtMnc3dFAtOVI5ckJEVkJhRWxRSms4VDNnaWFMUEtYTGtRV2FvWmt2QkdQa1lpQmN4MlJZdnR0YmNjY05DaFA4UHNBNmVqNkp1TTVHaXfSAWhBVV95cUxQeTd1NF9mZDRINGcwcHBCQUlTX1BlM1BKY1BNOTlORkFnUHhoQzdaTnk4ZEJSeDJEOWt4NTFtYUxhNXJWN0NIb1ZkbThRSjIxTldLWk9MNlNfRXNETERfWlF2WWw2LXFRVg?oc=5"
-        }
-      ]
-    },
     {
       "id": "7e5f2f1736da",
       "title": "比流感更兇！RSV重症住院率高16倍 營養師點名3類人要特別留意 - 民報",
@@ -112,42 +100,6 @@
       ]
     },
     {
-      "id": "fc5df3271059",
-      "title": "新研究揭停經與心理健康、腦灰質減少關聯 荷爾蒙療法非萬靈丹 - yesmedia.com.tw",
-      "published": "2026-05-15T16:21:29+00:00",
-      "summary": "新研究揭停經與心理健康、腦灰質減少關聯 荷爾蒙療法非萬靈丹&nbsp;&nbsp;yesmedia.com.tw",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQZVhSRmp1UWZsZ1RhVzBScENscWphaWdjSTVqRmZLTm1DeDJ2RFRscmU2WGdNTFJSa01qOFFfdVFIZUZ4NTRicE5xdWdITmRYWUY2V0tiOThhQVdIeWRCOHpQdHJKUUp6Ql90dHVKdHk5b2M2cENlMmp2eDlpRmxvUDR5Q21RYUtxODNrM3pMOXMwYzJiaEY2SzgtbzR3bVA0N1ZwckViUlktajh3dWpwM3d6MnFvM2ljRmpSRjNxcnpWRkY5Yk14aHRFWkItQ2JiSkpMeENadHJSNmdrQ3djSzFHMU9PdFpYTkZEdFZvWFBrSXFvbThQSmdra2hGTW9scTdsTUYyOXJ0bWI3S25mbXJTMTVuYm5RTF9YRUlzU01DR0tXYTN1Z3h6MTNVdHlLQTRHVktDbEl0T1NYOGlZaWJTYjhPS21SbzJwTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a789edfebabd",
-      "title": "「最後的禮物」研究揭愛滋病毒藏匿腦部 捐贈助尋治癒曙光 - ENN台灣電報",
-      "published": "2026-05-15T17:13:54+00:00",
-      "summary": "「最後的禮物」研究揭愛滋病毒藏匿腦部 捐贈助尋治癒曙光&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE05cEwxOTNUYU9NMkFJT2NXZWJaV0lqYkRzVk11UXA1UmItQW8zc1BIM2duY3NEakVsQXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a3e6f311026d",
-      "title": "紐時賞析／漢他雖非新冠人們餘悸猶存| 放學微素養| 文教 - UDN",
-      "published": "2026-05-15T16:36:29+00:00",
-      "summary": "紐時賞析／漢他雖非新冠人們餘悸猶存| 放學微素養| 文教&nbsp;&nbsp;UDN美國CDC應對漢坦病毒如「走鋼絲」&nbsp;&nbsp;华尔街日报中文网",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KWE1DQ1pLVUJuUEtlUy1sNUtVajY5T0YxTGVfa0FvS0xWbGlJZ3F6NW1HaHJvV2J1U3YtVF9YLVQ2NTJScVFsWTZ3eVAtNHdl?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cc031653b768",
       "title": "她長甲狀腺囊腫靠這樣做消失了！名醫也大推 2營養素超關鍵 - Yahoo新聞",
       "published": "2026-05-17T02:57:03+00:00",
@@ -192,18 +144,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQRERYb2NQQV9PaER1YlZVUS03MWY2clNUcGFERkE4SUg3RDVSZFF6U2pqejc0Z2tUQ0JQbTZyNHlBTXo3dkdZcGMyTkpuQWhsZUtGQk13QlQtYldmb3ZtNzdnS252Y19DdjB0d1ZPYUlLRGpUNTVQeHRYbnQ1QnRXcVNQWW4zaVRSLUVkWFY0b2RUcXViYnItdWhGVlR2UU1ORTVoc0pjNnV3c2pXWVJpMmhlOEcwa0o1dTJtLXhGUlNzZmdQZmlxcnJPSWRNcW9ad0hNUTV5OEF6NFJVMF9OVjJoV0MwUjYtekVRMmNZWjBTcGV0MzZpTk5YaHpDMklsOVJROTdaRjJHWjVIM0x5VG1xXzB5S210MnpMUFN2SHVMdE51a1djUnNoRkRVNUNqOXh5N1RWVFFDUHhJbDBmeVBnanVoSVhWVmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1651912e0bd0",
-      "title": "衞生局警告世界盃舉行期間出現麻疹傳播的風險偏高 - am1320.com",
-      "published": "2026-05-15T17:09:50+00:00",
-      "summary": "衞生局警告世界盃舉行期間出現麻疹傳播的風險偏高&nbsp;&nbsp;am1320.com【2026世界盃】公衛署稱賽事期間加拿大傳播麻疹風險高&nbsp;&nbsp;singtao.ca",
-      "sources": [
-        {
-          "name": "am1320.com",
-          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQaV9RbFZxNjRUdDRsMG0tUkVLZER2cW9DUG9SNVRfSlhhUXFySHJhZFlMTTdhdENfNmdCWkFiV3FLeXhfSEFibzlpSnhtdlRPdWRIaUlfVVpwX09TaXE2N2dienJrYTFra1h1REtPTi13QzZSQWgtM09CS0ZvRnIyUVVyNEV2UXRmZlBLYW52N2ZVWVB0OHdYS2FvYmNFN2MwNk13WE1Ydy1zakQyNEo1Y0RLQ0p5MXcxazg0UHlWZ0pLYjQtaTBtUmFQSUZ3RVA0TmhSRTRKNVo0bk82R2V5V2o1bzNaZkJ0NG1WeWlrNGhweFlHWUI4ZkV5LTZWS3g5UFJrMkw0WnRXZjd4UERXX3dLLVhPek92QUhfYWp3WHIzM0V2Rk1BNTIzd2RrbGhyQmMzRXZMWDkzMEVJcWpVamJCZk5oSzdmWUZGbVNwTXpBdmxERE9xWV92aGd2ZnhRNWNBUjQxWEFmemxxbm9zMA?oc=5"
         }
       ]
     }
