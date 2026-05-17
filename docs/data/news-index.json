@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-17T08:58:29.636228+00:00",
+  "generated": "2026-05-17T10:22:29.550276+00:00",
   "count": 6,
   "news": [
     {
@@ -211,6 +211,30 @@
       ]
     },
     {
+      "id": "7e5f2f1736da",
+      "title": "比流感更兇！RSV重症住院率高16倍 營養師點名3類人要特別留意",
+      "published": "2026-05-17T07:00:00+00:00",
+      "sources": [
+        {
+          "name": "民報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NRVBrdUdZTjlaaGZETXhGY1hpV2hNNlNZd1lBVmowVlkwQzA5QV9uNk9QVmRHV2lyVUNZY05zS1FHV3hTZDVzOUdCTDhJQ3k5MWZMZmo2VTJONGxoLUZwdg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "8d586ad747d3",
       "title": "「1水果」甜爆卻能降血糖！研究：還能防心梗、糖尿病、增強記憶力",
       "published": "2026-05-17T00:33:08+00:00",
@@ -257,30 +281,6 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8a3d6fe09919",
-      "title": "比流感更兇！「1病毒」重症住院率高16倍 拖一週恐進ICU",
-      "published": "2026-05-16T05:54:00+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOaEdPYl9qa3B3eTFYNUlBV2RNNWFrLTFJS2R0VE1ab0lOTDF3WDBrTS00cjRFa2VULWZGSXlhdXZFdFNMVmxYN1hxcHRrSGl0VTBtelFQYjdIMWhyZUZhX3NtMVlKNktuRGZJcm5WVHZHcGJQU1RVUndVbE1YbW1Odm82cFJfZ19aTW9ONmVnZkNaYmhONVp4eHFqdEN4OUVHUGpJX0w5eWV4S2FTTW5IdTFIZVZOWjE2S0xSTjY0MnMydElzMTRqeVJQYlBBd0tzdnRTcC1iVEEwUlZndENIQ3ZjMW54ZnBWWVMxVU1oem9ydzg1TG1ZM2xvV21iQVlzb0YydGI2WjB5ekNPenc4VkxNU3Zhd1Y4YjJ1SjAzUkhEQnl5aTdfQWRMRGkxM3Fwd0U5TEl0M24?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }

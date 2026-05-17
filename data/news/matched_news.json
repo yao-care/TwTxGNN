@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-17T08:58:29.605549+00:00",
-  "total_count": 22,
+  "last_updated": "2026-05-17T10:22:29.528331+00:00",
+  "total_count": 19,
   "matched_count": 6,
   "news": [
     {
@@ -226,6 +226,31 @@
       ]
     },
     {
+      "id": "7e5f2f1736da",
+      "title": "比流感更兇！RSV重症住院率高16倍 營養師點名3類人要特別留意",
+      "published": "2026-05-17T07:00:00+00:00",
+      "summary": "比流感更兇！RSV重症住院率高16倍 營養師點名3類人要特別留意&nbsp;&nbsp;民報這不是普通感冒！1病毒住院率比流感高出16倍 | 民視新聞網&nbsp;&nbsp;LINE TODAY長者嚴防呼吸道合胞病毒死亡率逾兩成 未有治療藥物&nbsp;&nbsp;信報網站嬰幼兒健康｜家長必睇！1歲以下RSV感染易變肺炎 一針長效抗體 即時產生保護&nbsp;&nbsp;荷花Eugenebaby臺南市RSV疫苗補助上路 弱勢孕婦可免費接種&nbsp;&nbsp;新住民全球新聞網",
+      "sources": [
+        {
+          "name": "民報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NRVBrdUdZTjlaaGZETXhGY1hpV2hNNlNZd1lBVmowVlkwQzA5QV9uNk9QVmRHV2lyVUNZY05zS1FHV3hTZDVzOUdCTDhJQ3k5MWZMZmo2VTJONGxoLUZwdg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "cc031653b768",
       "title": "她長甲狀腺囊腫靠這樣做消失了！名醫也大推 2營養素超關鍵",
       "published": "2026-05-17T02:57:03+00:00",
@@ -306,19 +331,6 @@
       ]
     },
     {
-      "id": "4222ca6a5e48",
-      "title": "AI 分析游離 DNA，提早揪出無症狀肝病 - TechNews 科技新報",
-      "published": "2026-05-16T16:06:32+00:00",
-      "summary": "AI 分析游離 DNA，提早揪出無症狀肝病&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZTNGRDRKQnpubWhCWHppb2pYbkRxaWY1VVNQQmVldDBxSnJpMmRDYTU3U25mQkFLRnFma04yaHliR3Jya25MZzY2SEpKYVFOMXFSR2JxYnZsSmhjUTZmNWJ5NWptdWF1aE9SUmFnV0pWeEowZkdzUmNhdzEyWHEwd0ttdmtUejRDZFR4MWxXR2ZkblVRcklVY1phOWNMaVpBVWNr?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "6747b926b0af",
       "title": "科學家發現隱藏的大腦營養缺乏可能引發焦慮",
       "published": "2026-05-16T13:49:39+00:00",
@@ -343,31 +355,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "8a3d6fe09919",
-      "title": "比流感更兇！「1病毒」重症住院率高16倍 拖一週恐進ICU",
-      "published": "2026-05-16T05:54:00+00:00",
-      "summary": "比流感更兇！「1病毒」重症住院率高16倍 拖一週恐進ICU&nbsp;&nbsp;Yahoo新聞這不是普通感冒！1病毒住院率比流感高出16倍 | 民視新聞網&nbsp;&nbsp;LINE TODAY長者嚴防呼吸道合胞病毒死亡率逾兩成 未有治療藥物&nbsp;&nbsp;信報網站嬰幼兒健康｜家長必睇！1歲以下RSV感染易變肺炎 一針長效抗體 即時產生保護&nbsp;&nbsp;荷花Eugenebaby臺南市RSV疫苗補助上路 弱勢孕婦可免費接種&nbsp;&nbsp;新住民全球新聞網",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOaEdPYl9qa3B3eTFYNUlBV2RNNWFrLTFJS2R0VE1ab0lOTDF3WDBrTS00cjRFa2VULWZGSXlhdXZFdFNMVmxYN1hxcHRrSGl0VTBtelFQYjdIMWhyZUZhX3NtMVlKNktuRGZJcm5WVHZHcGJQU1RVUndVbE1YbW1Odm82cFJfZ19aTW9ONmVnZkNaYmhONVp4eHFqdEN4OUVHUGpJX0w5eWV4S2FTTW5IdTFIZVZOWjE2S0xSTjY0MnMydElzMTRqeVJQYlBBd0tzdnRTcC1iVEEwUlZndENIQ3ZjMW54ZnBWWVMxVU1oem9ydzg1TG1ZM2xvV21iQVlzb0YydGI2WjB5ekNPenc4VkxNU3Zhd1Y4YjJ1SjAzUkhEQnl5aTdfQWRMRGkxM3Fwd0U5TEl0M24?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "d7b16b904e0c",
@@ -474,7 +461,7 @@
       "id": "a3e6f311026d",
       "title": "紐時賞析／漢他雖非新冠人們餘悸猶存| 放學微素養| 文教",
       "published": "2026-05-15T16:36:29+00:00",
-      "summary": "紐時賞析／漢他雖非新冠人們餘悸猶存| 放學微素養| 文教&nbsp;&nbsp;UDN",
+      "summary": "紐時賞析／漢他雖非新冠人們餘悸猶存| 放學微素養| 文教&nbsp;&nbsp;UDN美國CDC應對漢坦病毒如「走鋼絲」&nbsp;&nbsp;华尔街日报中文网",
       "sources": [
         {
           "name": "UDN",
@@ -542,32 +529,6 @@
         {
           "name": "行銷人",
           "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxObG03dTZlUm15SmFjdWpLdjdMZHg2Qm0yYmhqdkU0N2F0V0FzeVRxRmp1QlU5ZVhLOGhQY3k2UHpqUE4wMndhd1dZbmZ3SHdZdUdxc0JKQThUQ05yVy1TWG9laU4zY0dJS09ZREl0UkhuV2JVNlJrN3Z3cmQwZG5QYUdXZjlyTXFCWkVPOHNLUk42LUs4aTV5ZUlULWVBbTByc2pEWHRVTGNnU3JjWjA4M2p3bEhmcU1yN2FQaXpYRk0wcFJLc3J3Z3g0WG12RV91THdjYjJUbl9GSy1TUXpfQlU3dXRoWmFyT0ptQ19talcxNVprSWFkN2lQdGxfRFBBZFN5ZjdvRjdzXy1ZbFV0ZF9XVTBnVnJkblN3ZGxOamlpQ091OXNKVnFsdWs1SWd5ZlJJUzJnNlVsU0xZd1hFYUs2T0U4MjR5Nk9YQzJqeWZQbllJUHNDak1fVUxyNHUwMXZ6VmNrT1c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "859b491fcc98",
-      "title": "營養師：吃義大利麵根本不會發胖，它是地中海健康飲食之一，越吃越健康！ - Vogue Taiwan",
-      "published": "2026-05-15T09:00:14+00:00",
-      "summary": "營養師：吃義大利麵根本不會發胖，它是地中海健康飲食之一，越吃越健康！&nbsp;&nbsp;Vogue Taiwan",
-      "sources": [
-        {
-          "name": "Vogue Taiwan",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNaGdaOTlkb1lKZ1VDbTBVQ1NxQWR4UmhkMjlQcWszOFBrU21McXJMWkpSZlFJX056WUo5M1NseVBmTlp6aUFMUzhQSlFBTFpNbTZCc0VxOTg0b0M3VW85NjkwdnpFXzhsdEdGaGZHTlJUNzNqSGotR2hGSDhmYjVnZ1E1YmhTWUN4TkI4UmlzS0JCaUhLYkVTQ2llZ1puZ0IxWU8wWnpDVV9UWU5tR2ZVUXM3Yi1xQmI2OWlVcVBzR09qdzdJOWFLdWFYWXc4VjZINDNqMWZpb3JGbEY2cmhmRERYdGg3WmxZTElyVjhMZlZtYkFxN0NJX1VlV3Z1OHR3ekVjOTJRX014UVAtTFN5X2lwTWhfZ3phSlBBaDQyQ3h3Ync?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "81e3004dfe2d",
-      "title": "網民集體受喉嚨痛折磨 擔心確診「蟬病毒」？醫生拆解患病風險 附3大注意事項",
-      "published": "2026-05-15T08:30:07+00:00",
-      "summary": "網民集體受喉嚨痛折磨 擔心確診「蟬病毒」？醫生拆解患病風險 附3大注意事項&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQbVg5Z2doZVpxNlZCRUFkM0ctcHljVUlhSDJCcFp0TGpVclBmYTlnTFNFU1RNcTF4Q2xwV0tKa0dIZWVvd2dGbGxDVjN1Q1hGZ3RCbEYxd3VVRWRYQ1VqNi1YOVpTWVlBazVXZjBaUndkSHZaQlNfVnI3R3lhTVA0UC10NGQtRVM1NGlxRkpabjZrSHZYOXRFZEpnZmhmaU45VzE4RVp1cGtHVExyQWhNQ25hSlBJd3JEdnc0Q2owNk5OZkVhcDBmaHhRS01zTlhBOHlFSkwxb21tNEw4OUkwb0UtblU4NUxhMUFxa0k1TnhCNGRiQUdudnJvbkJEdXNpNEJyNjFCOE5DMFV0X0k3X2pVbWFwSXozUFJSZGlQNF90NUZiNmlGa2wtS3M4bEdjX1NRYl9saEdPektlWjBGamY1T2Z6WnhlUXZjZFNYWWtXOEV5MW1lQVA2TmNnVVBLTUotallzMm5DZThkaV9ra2V0M0pwM1k3d2poWTlIZWI3eDJUZlhLTEpmUlhUSGZtWXFRb0VsYXNVcFZHaU5yR1ZXbWlHei0tTVFlQ0tEaU96QWVaNmxyTF9aS0M2RE1oMFdMOTB4VG9NNVJqVjFLZVU0SQ?oc=5"
         }
       ],
       "matched_keywords": []
