@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-17T12:59:08.383559+00:00",
-  "total_count": 17,
-  "matched_count": 6,
+  "last_updated": "2026-05-17T14:25:40.513140+00:00",
+  "total_count": 14,
+  "matched_count": 5,
   "news": [
     {
       "id": "10d43fcd556b",
@@ -15,215 +15,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "4b1f65f1efe7",
-      "title": "科學家發現了為什麼有些癌症能在化療後存活。",
-      "published": "2026-05-17T07:44:41+00:00",
-      "summary": "科學家發現了為什麼有些癌症能在化療後存活。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNQ00wVklQbTNzdnpJSjBSN0k0SVhKallncFNPTGI0MWNqT2N4Q2hna3hVMHl3cjRvaEUzWWVKeHU5V1V3blRwa3JNVXl4YXhnSUgyQzRlSG5CemtDSnUxNjdTclVGOE9OTm9CeVdCS0JwN0tTYXlsOWIyMlpsQVA5QjNEczdVZ1lwWDRJZUk4WTlFT3JIR09IUWNnVDNSNUY2U3c1VlJubVpnUjRIR2hjTm1Ec2x3eTZjekNtc2ZmSE9QLU1UeUJhcUt4ekR0QmNZQXJ3UGt3dHhFUWgtQ0pueHh2MHpDQWUwdGxMLXdMRENtZ0FBVGpVRExEaFBoa2R3QU13M2NBWTBSNG1aSjZMSWZXTXY4WldVbjhDSzdRV0hHVE50OGRsOVZ4S0Njc2M3SEVmQlZRUDRuekhwTVdjX185OWpzTzlwVlRYdmhqdlpBUXFWVk0ybzZma1B3eVpxdW13OVRzTjM2RDBkYXF2X1FBc19VYmpHYmc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "7e5f2f1736da",
@@ -316,19 +107,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "6747b926b0af",
-      "title": "科學家發現隱藏的大腦營養缺乏可能引發焦慮",
-      "published": "2026-05-16T13:49:39+00:00",
-      "summary": "科學家發現隱藏的大腦營養缺乏可能引發焦慮&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPdVhkOUxrLWJnRHdveUlLR1Y2V1VzVjAzbUluVHZ2cmhMclN1NWJaOVRHVjViVVFTUWVvQlpWMEVnVHBIcGVFckdSLUtqN203NXQ2NkV0NDVIeVlINXFkTFlOb0d4ZUVveUpsQU4wTDNORmY4ZFYtcnNqWjkwaVZ3RGE0UXVJbjJZOTg2RTZ5N1VUYVh6RUZROHdOeHhCWlBCc3psSTRHOFZIcE0tSENXT2pVRzFRdW1BbkhDSmQ0dGRpR3pnRndrWmVySTJ0MEozcnhYdm9lQnhiQUtmZVVHU0xrYUp0WDh2dGdTdEl0dUNZRjJ1eXE3aVM2d25hMlNiRmNwSzlpdUJLZ0d4SmRCQmhNRGpORHBXc2x1ZUUxV2MtVVN6SG5Jbmo1ODR5bjY0QTY2VHBVTUFzSjZyNHBDTkNUV2ozREZjVFJsdHF2NE4wVDJyVnp2YUdSZS1qbFd4NGVpRUlJWnVfOTJhSnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "f866f5c253be",
@@ -456,6 +234,19 @@
       ]
     },
     {
+      "id": "a789edfebabd",
+      "title": "「最後的禮物」研究揭愛滋病毒藏匿腦部 捐贈助尋治癒曙光",
+      "published": "2026-05-15T17:13:54+00:00",
+      "summary": "「最後的禮物」研究揭愛滋病毒藏匿腦部 捐贈助尋治癒曙光&nbsp;&nbsp;ENN台灣電報",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE05cEwxOTNUYU9NMkFJT2NXZWJaV0lqYkRzVk11UXA1UmItQW8zc1BIM2duY3NEakVsQXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "1651912e0bd0",
       "title": "衞生局警告世界盃舉行期間出現麻疹傳播的風險偏高",
       "published": "2026-05-15T17:09:50+00:00",
@@ -477,32 +268,6 @@
         {
           "name": "UDN",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KWE1DQ1pLVUJuUEtlUy1sNUtVajY5T0YxTGVfa0FvS0xWbGlJZ3F6NW1HaHJvV2J1U3YtVF9YLVQ2NTJScVFsWTZ3eVAtNHdl?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "420f1d4ce242",
-      "title": "「最後的禮物」研究揭愛滋病毒藏匿腦部 捐贈助尋治癒曙光",
-      "published": "2026-05-15T15:14:43+00:00",
-      "summary": "「最後的禮物」研究揭愛滋病毒藏匿腦部 捐贈助尋治癒曙光&nbsp;&nbsp;yesmedia.com.tw",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPLVF5cl9GV2l6LUFxVFNuN2NibERCclZEeWZGa09KUEJzdUNyYjhhb05NWXNYOWN3SE5sUVlob2V3M3RBU0dVMl82U3RjLW15ejE1OS1NTFV0aWUtSzhMT3JQeFRQSVk0ajE4UVVEeDUxMkl2YWtScEpPQWtrekpmVXlxWHZZSWhmQUdabjU2c2ZvcEEzR29KYVh5MTRqck50TTlZckVRRlgtaTdyUWZoVzdLTmVaYkZvdVdZdEt4VVR5Q1diOWx0c3FuUEI1SGpDbUwxX016MGUtRUpfM2pRX3piVkR4SGZIOG9sd2lUd3hnd0ZNRGw1QTZFbl9ycW9wa1kwZ1dSb3RRVlFtbEdpOFk1a05IQ3dMNlZLaUNtNWdzVkJ6MTF4NDRfWUJkZnZkQmgtaG1mZHluZjFRRFBOUDVSRV8zdy1aNmVZVQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "aaa4a981e270",
-      "title": "全球鼠患猖獗 義大利專家：以公衛為治理核心|未分類",
-      "published": "2026-05-15T13:00:00+00:00",
-      "summary": "全球鼠患猖獗 義大利專家：以公衛為治理核心|未分類&nbsp;&nbsp;僑務電子報",
-      "sources": [
-        {
-          "name": "僑務電子報",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55TENYYWhWLUoyVjExOFk2dVdSdkxYbjNnOGxUZXR4YkhZbUlYdEVfNEVXeGFLYUtkU0M5MHRLOHdWallmZENqRlJNVQ?oc=5"
         }
       ],
       "matched_keywords": []
