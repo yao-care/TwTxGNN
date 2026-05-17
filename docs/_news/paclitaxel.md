@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [胰島素阻抗易引發代謝異常 增12癌風險](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tTHh2RWtXNnRKZGN3T096ZE05MWdqV2E3RldybGZ2Uk1icEVrN3h1endveG1lclN5X2lsb1dVRzgyYkczX2lhWVlqcFN6UkR3Z1FhUEFhQ3lWS1hsbW1V0gFkQVVfeXFMTzJUQm5pd0htU2x0YzBBa0tNcGpuWV93VmZRSTIzZDlqRFByWlkxN0g1Mm5GQUdzYjAwWXphRE9RWTVXTnBiVHFuT2JWMzFpS0tTWV9UUXF4N0ZlaTBFZktsbHctTA?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/paclitaxel/
 2026-05-15 <span class="news-indication-tag">停經</span>
 
 來源：[yesmedia.com.tw](https://news.google.com/rss/articles/CBMizAJBVV95cUxQZVhSRmp1UWZsZ1RhVzBScENscWphaWdjSTVqRmZLTm1DeDJ2RFRscmU2WGdNTFJSa01qOFFfdVFIZUZ4NTRicE5xdWdITmRYWUY2V0tiOThhQVdIeWRCOHpQdHJKUUp6Ql90dHVKdHk5b2M2cENlMmp2eDlpRmxvUDR5Q21RYUtxODNrM3pMOXMwYzJiaEY2SzgtbzR3bVA0N1ZwckViUlktajh3dWpwM3d6MnFvM2ljRmpSRjNxcnpWRkY5Yk14aHRFWkItQ2JiSkpMeENadHJSNmdrQ3djSzFHMU9PdFpYTkZEdFZvWFBrSXFvbThQSmdra2hGTW9scTdsTUYyOXJ0bWI3S25mbXJTMTVuYm5RTF9YRUlzU01DR0tXYTN1Z3h6MTNVdHlLQTRHVktDbEl0T1NYOGlZaWJTYjhPS21SbzJwTg?oc=5)
-
----
-
-### [子宮頸癌｜20歲女經期大出血竟患子宮頸癌 疑因常用1類廁紙出事！醫生揭2大成分損生殖器官 - U Lifestyle](https://news.google.com/rss/articles/CBMiowRBVV95cUxNTWtHM21VelZ4aXFPWkhmWGs2bmtpdTc5RVJaanE3OWJCaW9LLUxkNmN5MUQ3Y0cxQnN2TkNnRWZRTzFzRW9mSm5KdllBb1VNR1hJOV9VOXhkaFFnNmNGNkp6Z3ozZVN3Z1NEY1pwclNVd1JjNU9vX1J2ekdSTW9aaGpmTzJlR2FtUG1BQ1Fsb2hVVkRFcTkyQnJzcGItREJwbTlmUjJYQlFaaG1TbVVsczVpV2g5amVtVTJMMTJqUE5OaWhPd3ZGQTA5ako4NGpXcUYyeGdzTGJrdHhzZ3lfSnNwalEtYlFVMFdSdlVlb3hiT0sxcnhMUFlmUjRJZmNKbW5lZmNuNkV4S19VMmRhOTY4eG1PbUhfTXpRajhmOUo2R1M4Ym10bzNDMmlVR2FUaUU4NzM5aGk5WkV1eGRTOFlveC1nZHV3YTRMNWlfNGlPb19kUFkzRVhFemthemhTVEk2NFJOSEYzTVp5cXpNOGFBUWQ0MmRNT3pvTmdzclZqdGhSZG95bFBsclBCdVp4ckhVTHFxd2tvYTN2b3ctNFZka0ZUaEt3OHdqdXpIRW1QeFRlcjBQbkV6WU1BcnJ1RzVyaUwwWGE5YkhYT3h3Zm9PZVZDR3RFRE53YWZlRU9FM0tKdWs1eWZURlVEVW51UGZQN2RNLWNEdGNmUEN5SkQ4REhBeXBxeFNRajlDcTJ4UkpweU9uVWZJMmFMRFNHVUZR?oc=5)
-
-2026-05-15 <span class="news-indication-tag">子宮頸癌</span>
-
-來源：[U Lifestyle](https://news.google.com/rss/articles/CBMiowRBVV95cUxNTWtHM21VelZ4aXFPWkhmWGs2bmtpdTc5RVJaanE3OWJCaW9LLUxkNmN5MUQ3Y0cxQnN2TkNnRWZRTzFzRW9mSm5KdllBb1VNR1hJOV9VOXhkaFFnNmNGNkp6Z3ozZVN3Z1NEY1pwclNVd1JjNU9vX1J2ekdSTW9aaGpmTzJlR2FtUG1BQ1Fsb2hVVkRFcTkyQnJzcGItREJwbTlmUjJYQlFaaG1TbVVsczVpV2g5amVtVTJMMTJqUE5OaWhPd3ZGQTA5ako4NGpXcUYyeGdzTGJrdHhzZ3lfSnNwalEtYlFVMFdSdlVlb3hiT0sxcnhMUFlmUjRJZmNKbW5lZmNuNkV4S19VMmRhOTY4eG1PbUhfTXpRajhmOUo2R1M4Ym10bzNDMmlVR2FUaUU4NzM5aGk5WkV1eGRTOFlveC1nZHV3YTRMNWlfNGlPb19kUFkzRVhFemthemhTVEk2NFJOSEYzTVp5cXpNOGFBUWQ0MmRNT3pvTmdzclZqdGhSZG95bFBsclBCdVp4ckhVTHFxd2tvYTN2b3ctNFZka0ZUaEt3OHdqdXpIRW1QeFRlcjBQbkV6WU1BcnJ1RzVyaUwwWGE5YkhYT3h3Zm9PZVZDR3RFRE53YWZlRU9FM0tKdWs1eWZURlVEVW51UGZQN2RNLWNEdGNmUEN5SkQ4REhBeXBxeFNRajlDcTJ4UkpweU9uVWZJMmFMRFNHVUZR?oc=5)
 
 ---
 
