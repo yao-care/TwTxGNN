@@ -14,7 +14,7 @@ permalink: /news/inositol/
 ---
 
 <p class="key-answer" data-question="Inositol 有什麼相關新聞？">
-<strong>Inositol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Inositol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/inositol/
 <p><a href="{{ '/drugs/inositol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [想預防失智？研究：植物性飲食有幫助 但要避開加工食品](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HSkQ0NFhEemJjQ2haaUJLbEx4RTV1LThrbnBDbWZlUVRXT1JETE5YcFN3NERWVWRIVWROUWJWTkxKTWdGb0tPZlVONFVHS1pWMElCVndCQQ?oc=5)
+
+2026-05-17 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">失智</span>
+
+來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HSkQ0NFhEemJjQ2haaUJLbEx4RTV1LThrbnBDbWZlUVRXT1JETE5YcFN3NERWVWRIVWROUWJWTkxKTWdGb0tPZlVONFVHS1pWMElCVndCQQ?oc=5)
+
+---
 
 
 <div class="disclaimer">
