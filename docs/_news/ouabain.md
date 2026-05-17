@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [想預防失智？研究：植物性飲食有幫助 但要避開加工食品](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HSkQ0NFhEemJjQ2haaUJLbEx4RTV1LThrbnBDbWZlUVRXT1JETE5YcFN3NERWVWRIVWROUWJWTkxKTWdGb0tPZlVONFVHS1pWMElCVndCQQ?oc=5)
-
-2026-05-17 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">失智</span>
-
-來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HSkQ0NFhEemJjQ2haaUJLbEx4RTV1LThrbnBDbWZlUVRXT1JETE5YcFN3NERWVWRIVWROUWJWTkxKTWdGb0tPZlVONFVHS1pWMElCVndCQQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [「1水果」甜爆卻能降血糖！研究：還能防心梗、糖尿病、增強記憶力](https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzNEdvQjVWbHRxRmJBRnJxNmo5bTRpektqRERDLXVSbGhhb2NleXRpOUwtbExiTXdUSTB3eDduT01WeVV0ZkRaX2F3?oc=5)
 

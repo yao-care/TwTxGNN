@@ -53,7 +53,7 @@ permalink: /news/gefitinib/
 
 ### [想預防失智？研究：植物性飲食有幫助 但要避開加工食品](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HSkQ0NFhEemJjQ2haaUJLbEx4RTV1LThrbnBDbWZlUVRXT1JETE5YcFN3NERWVWRIVWROUWJWTkxKTWdGb0tPZlVONFVHS1pWMElCVndCQQ?oc=5)
 
-2026-05-17 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">失智</span>
+2026-05-17 <span class="news-indication-tag">失智</span>
 
 來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HSkQ0NFhEemJjQ2haaUJLbEx4RTV1LThrbnBDbWZlUVRXT1JETE5YcFN3NERWVWRIVWROUWJWTkxKTWdGb0tPZlVONFVHS1pWMElCVndCQQ?oc=5)
 

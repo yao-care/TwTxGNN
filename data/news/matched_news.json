@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-17T21:45:02.575318+00:00",
-  "total_count": 15,
+  "last_updated": "2026-05-17T22:44:36.441487+00:00",
+  "total_count": 16,
   "matched_count": 6,
   "news": [
     {
@@ -17,10 +17,23 @@
       "matched_keywords": []
     },
     {
+      "id": "afd49338fcc9",
+      "title": "張家銘《精準防癌》：為什麼「鼻咽癌」在東亞地區特別常見？ - TNL The News Lens 關鍵評論網",
+      "published": "2026-05-17T12:00:00+00:00",
+      "summary": "張家銘《精準防癌》：為什麼「鼻咽癌」在東亞地區特別常見？&nbsp;&nbsp;TNL The News Lens 關鍵評論網",
+      "sources": [
+        {
+          "name": "TNL The News Lens 關鍵評論網",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkQ2dpRmFRckhvUHk3aHkwWVBtYk43S3Y5SE4yS3Z3bzdacGRTNDJkQ2tCd1ZjNWV2X0lkakI5eWFCOUpSYmFzUnVodVNUWFhlZXhEeA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "10d43fcd556b",
       "title": "打疫苗也沒效20歲女菜花「滿坑滿谷」 她回一句醫鼻酸- 健康",
       "published": "2026-05-17T08:06:00+00:00",
-      "summary": "打疫苗也沒效20歲女菜花「滿坑滿谷」 她回一句醫鼻酸- 健康&nbsp;&nbsp;中時新聞網20歲女打疫苗仍炸出「滿滿菜花田」! 醫師一聽鼻酸： 人生比病難治&nbsp;&nbsp;MSN菜花、皰疹、梅毒為何反覆感染？醫：病毒終身潛伏體內&nbsp;&nbsp;Yahoo新聞",
+      "summary": "打疫苗也沒效20歲女菜花「滿坑滿谷」 她回一句醫鼻酸- 健康&nbsp;&nbsp;中時新聞網20歲女打疫苗仍炸出「滿滿菜花田」! 醫師一聽鼻酸： 人生比病難治&nbsp;&nbsp;MSN20歲女打疫苗 仍炸出「滿滿菜花田」！ 醫師聽原因鼻酸&nbsp;&nbsp;Facebook菜花、皰疹、梅毒為何反覆感染？醫：病毒終身潛伏體內&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "中時新聞網",
@@ -242,7 +255,7 @@
       "id": "6fc3fbadd4c5",
       "title": "想預防失智？研究：植物性飲食有幫助 但要避開加工食品",
       "published": "2026-05-17T07:00:05+00:00",
-      "summary": "想預防失智？研究：植物性飲食有幫助 但要避開加工食品&nbsp;&nbsp;台視新聞網想預防大腦退化，一定要少吃的五種食物 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報超加工食品會增加心臟病和過早死亡的風險。&nbsp;&nbsp;arch-web.com.tw「MIND飲食法」五大護腦食材你吃對了嗎？&nbsp;&nbsp;中天新聞網7種日常飲食 可能正在慢慢影響你的大腦&nbsp;&nbsp;大纪元",
+      "summary": "想預防失智？研究：植物性飲食有幫助 但要避開加工食品&nbsp;&nbsp;台視新聞網想預防大腦退化，一定要少吃的五種食物 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報器官老化「5大徵兆」你中幾個？醫曝3招延緩老化： 這類東西別吃太多&nbsp;&nbsp;MSN「MIND飲食法」五大護腦食材你吃對了嗎？&nbsp;&nbsp;中天新聞網7種日常飲食 可能正在慢慢影響你的大腦&nbsp;&nbsp;大纪元",
       "sources": [
         {
           "name": "台視新聞網",
@@ -250,65 +263,6 @@
         }
       ],
       "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "dementia",
@@ -364,7 +318,7 @@
       "id": "8d586ad747d3",
       "title": "「1水果」甜爆卻能降血糖！研究：還能防心梗、糖尿病、增強記憶力",
       "published": "2026-05-17T00:33:08+00:00",
-      "summary": "「1水果」甜爆卻能降血糖！研究：還能防心梗、糖尿病、增強記憶力&nbsp;&nbsp;娛樂星聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "「1水果」甜爆卻能降血糖！研究：還能防心梗、糖尿病、增強記憶力&nbsp;&nbsp;娛樂星聞7款芒果營養榜單出爐！最甜愛文芒果熱量竟最低它是熱量陷阱小心血糖飆- 營養好食&nbsp;&nbsp;TVBS 健康2.0錯怪芒果了！醫師揭黃金食用量：降血糖還甩血脂- 健康&nbsp;&nbsp;中時新聞網芒果超甜卻不一定害血糖？醫揭「關鍵吃法」：別打成果汁&nbsp;&nbsp;壹蘋新聞網芒果一次能吃多少？營養師曝最適食用量，搭1物吃穩血糖&nbsp;&nbsp;元氣網",
       "sources": [
         {
           "name": "娛樂星聞",

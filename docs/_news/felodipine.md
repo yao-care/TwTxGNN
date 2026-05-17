@@ -14,7 +14,7 @@ permalink: /news/felodipine/
 ---
 
 <p class="key-answer" data-question="Felodipine 有什麼相關新聞？">
-<strong>Felodipine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Felodipine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,21 +38,13 @@ permalink: /news/felodipine/
 <p><a href="{{ '/drugs/felodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [科學家發現了為什麼有些癌症能在化療後存活。](https://news.google.com/rss/articles/CBMi-gJBVV95cUxNQ00wVklQbTNzdnpJSjBSN0k0SVhKallncFNPTGI0MWNqT2N4Q2hna3hVMHl3cjRvaEUzWWVKeHU5V1V3blRwa3JNVXl4YXhnSUgyQzRlSG5CemtDSnUxNjdTclVGOE9OTm9CeVdCS0JwN0tTYXlsOWIyMlpsQVA5QjNEczdVZ1lwWDRJZUk4WTlFT3JIR09IUWNnVDNSNUY2U3c1VlJubVpnUjRIR2hjTm1Ec2x3eTZjekNtc2ZmSE9QLU1UeUJhcUt4ekR0QmNZQXJ3UGt3dHhFUWgtQ0pueHh2MHpDQWUwdGxMLXdMRENtZ0FBVGpVRExEaFBoa2R3QU13M2NBWTBSNG1aSjZMSWZXTXY4WldVbjhDSzdRV0hHVE50OGRsOVZ4S0Njc2M3SEVmQlZRUDRuekhwTVdjX185OWpzTzlwVlRYdmhqdlpBUXFWVk0ybzZma1B3eVpxdW13OVRzTjM2RDBkYXF2X1FBc19VYmpHYmc?oc=5)
 
 2026-05-17 <span class="news-indication-tag">癌症</span>
 
 來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi-gJBVV95cUxNQ00wVklQbTNzdnpJSjBSN0k0SVhKallncFNPTGI0MWNqT2N4Q2hna3hVMHl3cjRvaEUzWWVKeHU5V1V3blRwa3JNVXl4YXhnSUgyQzRlSG5CemtDSnUxNjdTclVGOE9OTm9CeVdCS0JwN0tTYXlsOWIyMlpsQVA5QjNEczdVZ1lwWDRJZUk4WTlFT3JIR09IUWNnVDNSNUY2U3c1VlJubVpnUjRIR2hjTm1Ec2x3eTZjekNtc2ZmSE9QLU1UeUJhcUt4ekR0QmNZQXJ3UGt3dHhFUWgtQ0pueHh2MHpDQWUwdGxMLXdMRENtZ0FBVGpVRExEaFBoa2R3QU13M2NBWTBSNG1aSjZMSWZXTXY4WldVbjhDSzdRV0hHVE50OGRsOVZ4S0Njc2M3SEVmQlZRUDRuekhwTVdjX185OWpzTzlwVlRYdmhqdlpBUXFWVk0ybzZma1B3eVpxdW13OVRzTjM2RDBkYXF2X1FBc19VYmpHYmc?oc=5)
-
----
-
-### [想預防失智？研究：植物性飲食有幫助 但要避開加工食品](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HSkQ0NFhEemJjQ2haaUJLbEx4RTV1LThrbnBDbWZlUVRXT1JETE5YcFN3NERWVWRIVWROUWJWTkxKTWdGb0tPZlVONFVHS1pWMElCVndCQQ?oc=5)
-
-2026-05-17 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">失智</span>
-
-來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HSkQ0NFhEemJjQ2haaUJLbEx4RTV1LThrbnBDbWZlUVRXT1JETE5YcFN3NERWVWRIVWROUWJWTkxKTWdGb0tPZlVONFVHS1pWMElCVndCQQ?oc=5)
 
 ---
 
