@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T16:47:13.284731+00:00",
+  "last_updated": "2026-05-17T17:50:34.622442+00:00",
   "total_count": 18,
   "matched_count": 7,
   "news": [
@@ -17,14 +17,14 @@
       "matched_keywords": []
     },
     {
-      "id": "10d43fcd556b",
-      "title": "打疫苗也沒效20歲女菜花「滿坑滿谷」 她回一句醫鼻酸- 健康",
-      "published": "2026-05-17T08:06:00+00:00",
-      "summary": "打疫苗也沒效20歲女菜花「滿坑滿谷」 她回一句醫鼻酸- 健康&nbsp;&nbsp;中時新聞網20歲女打疫苗仍炸出「滿滿菜花田」！醫師一聽鼻酸：人生比病難治&nbsp;&nbsp;ETtoday新聞雲20歲女打疫苗仍炸出「滿滿菜花田」! 醫師一聽鼻酸： 人生比病難治&nbsp;&nbsp;MSN",
+      "id": "2fdf415a7c43",
+      "title": "20歲女打疫苗仍炸出「滿滿菜花田」！醫師一聽鼻酸：人生比病難治",
+      "published": "2026-05-17T13:59:00+00:00",
+      "summary": "20歲女打疫苗仍炸出「滿滿菜花田」！醫師一聽鼻酸：人生比病難治&nbsp;&nbsp;ETtoday新聞雲",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yS2hJamctQXhxRzFVYXZad2lidDY2bkF2ektZNHRtNXVRaEFQUmNsaGlPNTdOekpYQnN2bC1mVWtJSHQzeG90TkMzRFh6N2dENWZwUTRQaGNVSER1UXJUaE5pQ0x4akZLUVltTmtR?oc=5"
+          "name": "ETtoday新聞雲",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ybGtidTNyMVAtMnc3dFAtOVI5ckJEVkJhRWxRSms4VDNnaWFMUEtYTGtRV2FvWmt2QkdQa1lpQmN4MlJZdnR0YmNjY05DaFA4UHNBNmVqNkp1TTVHaXfSAWhBVV95cUxQeTd1NF9mZDRINGcwcHBCQUlTX1BlM1BKY1BNOTlORkFnUHhoQzdaTnk4ZEJSeDJEOWt4NTFtYUxhNXJWN0NIb1ZkbThRSjIxTldLWk9MNlNfRXNETERfWlF2WWw2LXFRVg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -516,43 +516,6 @@
       "matched_keywords": []
     },
     {
-      "id": "7f05a6761693",
-      "title": "新研究揭停經與心理健康、腦灰質減少關聯 荷爾蒙療法非萬靈丹",
-      "published": "2026-05-15T17:13:54+00:00",
-      "summary": "新研究揭停經與心理健康、腦灰質減少關聯 荷爾蒙療法非萬靈丹&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBpNDdlb3dWX1NHZGt3bGlGN3lLOXZPajFpWnBVRGUxWTNLd1FHZGkzc1g0OUN2elFlVGc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "a789edfebabd",
       "title": "「最後的禮物」研究揭愛滋病毒藏匿腦部 捐贈助尋治癒曙光",
       "published": "2026-05-15T17:13:54+00:00",
@@ -582,7 +545,7 @@
       "id": "a3e6f311026d",
       "title": "紐時賞析／漢他雖非新冠人們餘悸猶存| 放學微素養| 文教",
       "published": "2026-05-15T16:36:29+00:00",
-      "summary": "紐時賞析／漢他雖非新冠人們餘悸猶存| 放學微素養| 文教&nbsp;&nbsp;UDN",
+      "summary": "紐時賞析／漢他雖非新冠人們餘悸猶存| 放學微素養| 文教&nbsp;&nbsp;UDN美國CDC應對漢坦病毒如「走鋼絲」&nbsp;&nbsp;华尔街日报中文网",
       "sources": [
         {
           "name": "UDN",
@@ -590,6 +553,43 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "fc5df3271059",
+      "title": "新研究揭停經與心理健康、腦灰質減少關聯 荷爾蒙療法非萬靈丹",
+      "published": "2026-05-15T16:21:29+00:00",
+      "summary": "新研究揭停經與心理健康、腦灰質減少關聯 荷爾蒙療法非萬靈丹&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQZVhSRmp1UWZsZ1RhVzBScENscWphaWdjSTVqRmZLTm1DeDJ2RFRscmU2WGdNTFJSa01qOFFfdVFIZUZ4NTRicE5xdWdITmRYWUY2V0tiOThhQVdIeWRCOHpQdHJKUUp6Ql90dHVKdHk5b2M2cENlMmp2eDlpRmxvUDR5Q21RYUtxODNrM3pMOXMwYzJiaEY2SzgtbzR3bVA0N1ZwckViUlktajh3dWpwM3d6MnFvM2ljRmpSRjNxcnpWRkY5Yk14aHRFWkItQ2JiSkpMeENadHJSNmdrQ3djSzFHMU9PdFpYTkZEdFZvWFBrSXFvbThQSmdra2hGTW9scTdsTUYyOXJ0bWI3S25mbXJTMTVuYm5RTF9YRUlzU01DR0tXYTN1Z3h6MTNVdHlLQTRHVktDbEl0T1NYOGlZaWJTYjhPS21SbzJwTg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "554d4b56a4a9",
