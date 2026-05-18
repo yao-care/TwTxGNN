@@ -1,210 +1,26 @@
 {
-  "generated": "2026-05-18T06:46:48.639572+00:00",
+  "generated": "2026-05-18T10:59:05.743883+00:00",
   "count": 3,
   "news": [
     {
-      "id": "5acd7f9f8cc8",
-      "title": "研究：睪固酮或抑制腫瘤生長 降低致命腦癌風險",
-      "published": "2026-05-18T05:49:00+00:00",
+      "id": "3bcbe6cfcd0c",
+      "title": "子宮頸癌︱20歲女經期大出血驚患子宮頸癌疑常用1類廁紙致癌醫生：2種成分損生殖器【附消委會推薦8款廁紙】",
+      "published": "2026-05-18T09:21:44+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKLXFnQjR4eS1oOF9YVk1JeWpBY0JIU2ZBdDFENmNWSU1WNVVhblY5X1EwQjBaNkYtTllSYmRJWjRfc2dBbElsVWl1UWNHMnFSMVNLcll3VENfbWVKZmtOWjlJdWLSAWpBVV95cUxPMzQxSDVYclFUMDE4UnFpMFR5YVlWZWM3QU54WUtEdUE3VXNLcXZzMlFBakFpOE02bFlQcE1Hc2o5X0M1Z0R5QS1iWlNKelhnY09tRTdBUDhBUXEyaDViamFjODBWYVRLNENB?oc=5"
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMisgVBVV95cUxPaTV4Vjc4WGNWTmVmNW55R0ZqdG1tdzgxSlcyRkJfTW9HbFF5Q3VGSHpZRkhld2VOaHEzOWtyRDFZNU1oNktBYW55eDgtUTlJQlhfRzZfRWhiVl8wRjlvVk8zdE5Pcm9iLUh1WmV4RUo2eUYtTTBvclJtRTJoYW1pR200cjVidy1MamVURllVV3NHNmZOMFg2ajg1dUlKcXBQUDJlMGoxQktXTi1xZ0lyR19iV2dYd0k2dDItVWdzOWFKbzkzczBTX2RfWWJzN3pFbWF6NUJGdFljbFRzRGNSTWlFUk9Cb2lzSFRua0xCZFRzcFdpTjc0SEN4cVNpWVBUTnNFOWhNVGE3c1ppYm4zQ3phVVBLc3F5ZzBET0hwV2ZjVS0taXRLd2pGT2p0eU1aUWF2c0JSTVNWenh0OVVJNkhvcWFmeE5yRVV1bEczUTNGN2JfWWVrSGlENnBTUEJjYkFJNWNWRUVwaU5JYmo2TXhSOENZa3l6NHQ5MUVKRS1va2FJTFBRcWVyZkZydmQyUi1HY25xcTUzeGhURzh4WFhWSjRuLUppSEZScE9mb0dMZXItaU5mSzZCdFg2cFA0bzRyVzV1VGx2VmJ1eVJ6LUhsNVhIeFZONk0tUnNaQXE2WURWbUlFZTJLUk1FelVWaWxmbVBrREJGcGtOcnBXVHhRNlNveUJ4eGNMaU9EWnBxRElFU3d3ZzhmckF2RTNITVBPY3ZjZ0JWVlQ5NmcyRzNSVHJsdzhKUXJxRG9QeGxsR0tGY05Mc3FrVEZQazl3bHNRaUE5WHdCSHJWN3pPZzQ1d25Cc2F0ZTlUcTd4anpsTmZ5UV9KVU5hWmFZWUlnRk9TS1NiN2k4NlFjcnpHOE9DSmdTMm1BQWdCMC1wUF82WXZEY2ktQUhUM28xY2lOSHc?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "腫瘤",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
           "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
             }
           ]
         }

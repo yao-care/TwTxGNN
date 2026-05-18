@@ -1,29 +1,17 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-18T06:46:44.220978+00:00",
-  "count": 17,
+  "fetched_at": "2026-05-18T10:59:01.567967+00:00",
+  "count": 20,
   "news": [
     {
-      "id": "a01fe0b513b8",
-      "title": "電燒、打疫苗仍「滿坑滿谷」！20歲女菜花反覆發作 醫感嘆：人生比病毒難治 - Yahoo新聞",
-      "published": "2026-05-18T02:47:48+00:00",
-      "summary": "電燒、打疫苗仍「滿坑滿谷」！20歲女菜花反覆發作 醫感嘆：人生比病毒難治&nbsp;&nbsp;Yahoo新聞醫起看／20歲女打疫苗仍長滿「菜花田」 醫：人生比病毒難&nbsp;&nbsp;Yahoo新聞打疫苗嘸效！20歲女私密處反覆長出「滿滿菜花田」…醫嘆：人生比病難治&nbsp;&nbsp;祝你健康20歲女打疫苗仍炸出「滿滿菜花田」! 醫師一聽鼻酸： 人生比病難治&nbsp;&nbsp;MSN打疫苗也沒效20歲女菜花「滿坑滿谷」 她回一句醫鼻酸- 健康&nbsp;&nbsp;中時新聞網",
+      "id": "e997fa4f6e48",
+      "title": "20歲女打疫苗仍菜花反覆發作 醫嘆：人生比病難治 - Yahoo新聞",
+      "published": "2026-05-17T23:11:00+00:00",
+      "summary": "20歲女打疫苗仍菜花反覆發作 醫嘆：人生比病難治&nbsp;&nbsp;Yahoo新聞醫起看／20歲女打疫苗仍長滿「菜花田」 醫：人生比病毒難&nbsp;&nbsp;Yahoo新聞打疫苗嘸效！20歲女私密處反覆長出「滿滿菜花田」…醫嘆：人生比病難治&nbsp;&nbsp;祝你健康20歲女菜花狂復發！醫揭她「1苦衷」嘆：人生難治 | 民視新聞網&nbsp;&nbsp;LINE TODAY【20歲女打疫苗仍炸出「滿滿菜花田」！醫師一聽鼻酸：人生比病難治】 （示意圖／免費圖庫123RF） 人生真的好難...(#起啵)&nbsp;&nbsp;Facebook",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPZ3NuS2VBRXNXTWZqU1V0NDNRSlVxQXI0MXFRczNTenVrLWxxQllhcHdXS2FIblJLQ3luOFVNTTdyU3hFeWZ2T09GWEFwUzhsVm9hUmNxbGlkOUxKcC1IRThlMXE1S2VXSEw0Z1VrZDFDbl9WRnMzWkRyU013Ry1ucW1PV0xDdENvSXJoT2s2dDd0dFFLQkY3NzYtVGxBZEhPZXBvQUNmX1cxeE1aV0FSc3c1MmxOSTNXNVdUNWl2MWhQMnRtVnlucVlvTHNDOVY2NV9YRy1UZVJqakdjRXl6SDRiYzA0YVhBOU9hTXM2ZDhqaEszYWRRbHZiaTVFbnRDOHloRFk2UWFlTWl5aFIyelE3clZoQTJTa0VjWnpPVE9BWmI0NFFwVlRMLWItaWF6WU5oYTRhVDY0QW5kZ1BKRnN0SHpaSlYyQW1xQUctUmVLNktDYktJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5acd7f9f8cc8",
-      "title": "研究：睪固酮或抑制腫瘤生長 降低致命腦癌風險 - 自由健康網",
-      "published": "2026-05-18T05:49:00+00:00",
-      "summary": "研究：睪固酮或抑制腫瘤生長 降低致命腦癌風險&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKLXFnQjR4eS1oOF9YVk1JeWpBY0JIU2ZBdDFENmNWSU1WNVVhblY5X1EwQjBaNkYtTllSYmRJWjRfc2dBbElsVWl1UWNHMnFSMVNLcll3VENfbWVKZmtOWjlJdWLSAWpBVV95cUxPMzQxSDVYclFUMDE4UnFpMFR5YVlWZWM3QU54WUtEdUE3VXNLcXZzMlFBakFpOE02bFlQcE1Hc2o5X0M1Z0R5QS1iWlNKelhnY09tRTdBUDhBUXEyaDViamFjODBWYVRLNENB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOd2NfbmxUcDVvLUkyMTlGWFk0M1ZCbDl6YnVEXzB5Y1dKR3hZbHNqYXNLeVZRbTIwdFZMOUIyTm9CUnZqNl90djRsVGlwb1N5VS1SSkh2QktVTWxuVWJNMlpmcDJIeXNRLTVHTmpnR0xadUw0eHRzWGduX1B5Q01meF9vRmk3MzFqZ1V4LUk2ZFplRFBUSl9adDBkX2phcFEzYnlLcWpqenRxQXYzM3ZtdVBfRmppVVk1M0pST2NHT1FSZmw4Skd1SWE0QjF2bW9hSGZCRjBfU084RzE0VjVyajc0YzN0WkpZNFhxM09vUGVBMnBRdExxUmtPVHBpUVA0d1BvV1ZlVUgwU1lpQ2ZPaGZiMFUyb0xwQXJySEVETDQ2OW05TnNkWW1oVmlMSjRybDdxaHJaOU9qOWl0MFd4U0dXenN0LV9U?oc=5"
         }
       ]
     },
@@ -52,6 +40,18 @@
       ]
     },
     {
+      "id": "d02134ba31e1",
+      "title": "接吻對健康和情緒健康的好處 - arch-web.com.tw",
+      "published": "2026-05-18T10:37:12+00:00",
+      "summary": "接吻對健康和情緒健康的好處&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNeE50Nk1RbDFDUnBRY3EyYlJTcjFWcGNyVVhUOU54S3BPT2VsQnMzcVN3SXJZTUdLcFZWUEM0M05TXzlYTmlLSWRQMDh6QXJpcGg2SUxJMXp0dFFSeTJPekU0TS1HcnBkWGJuVVV6TTU5MkhrZVgweV9EYXVad1R6Qk1HVWVQanMzXzhMaThTSC0xaEs2WjRKd1ZFTnlGQXo4b1hBZ2NGYkFCOUt2d2RSZkZHR21Gd0hMUDUyZjV5LW1fTmxsSmU5alpXbnVLSnRjUGI3TkxyS1ZpR3hpdkFteTUweDU1cUpYUXBtcmxONGUxcnpvTHllUnFGOGlkLXl0aFBmRFZOTTA2UWlrU2lHdU1QZENLSXBEU3c?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f9b1cb94b309",
       "title": "科學家揭示了七天禁食如何改變人體。 - arch-web.com.tw",
       "published": "2026-05-18T03:51:32+00:00",
@@ -72,18 +72,6 @@
         {
           "name": "民視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3SGhsQmIzc2ttNlQ2Ny12M0JLMDlxMmZ2U1NVcXhHUk1sbUVnVG9KQlZYOFhkaTFTWTBLc0o1ZkpCZ25hc0VZVllPemFsMUJoQVpyaHVJN2Q2TExGR3Y1Wg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f866f5c253be",
-      "title": "健康網》吃對抗老不用等！ 研究揭1飲食法 4週生理年齡降4歲 - 自由健康網",
-      "published": "2026-05-16T07:00:00+00:00",
-      "summary": "健康網》吃對抗老不用等！ 研究揭1飲食法 4週生理年齡降4歲&nbsp;&nbsp;自由健康網吃對能快速逆齡？最新研究揭「1飲食」吃4週 生理年齡降4歲&nbsp;&nbsp;祝你健康抗老有捷徑 研究曝1飲食法抗發炎 4周逆齡4歲&nbsp;&nbsp;中時新聞網4週低脂高碳、增加植物蛋白 65歲長者生理年齡下降最明顯&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41aEcwR2ZYMHFtd2EyZEdaLWxZM05Cckk4aWNHa3c5WmdPWmNfTF80dlJpMDktSkdSRFlSOVBhYkpPRngybjlValhaREF2RnpxLVVjSHk3d0o2MnRXbk4zcDd3Q2bSAWpBVV95cUxNR3ZFNG9IQ2cyY1RTN3ladkxUbi0xNVk4aVR0SUxab3kyZlU0cUhVVHJwR1g1QjhWc3JaLWdfOUpHY0VOVHlPS3VLQmxGUFh4T3NTcTZ2LWV5bE5ud0pQajZLd0dWUzk0QmdR?oc=5"
         }
       ]
     },
@@ -124,6 +112,18 @@
       ]
     },
     {
+      "id": "baa24a2e384b",
+      "title": "健忘、易累、腿沒力？中高齡族不能缺這7種營養素 - 世界新聞網",
+      "published": "2026-05-16T22:43:04+00:00",
+      "summary": "健忘、易累、腿沒力？中高齡族不能缺這7種營養素&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81Q3NBTVNGb2RhajREcmljQlp0SUh4WWQ2WVI4R1ZsX3ZIVklEZXpmaElZdldyYUE1d1Bob1pWWFUyU1hVNUkxZm5CNWR2SWpyb3N0MmJXU3VVcjZzUzlQczBn0gFnQVVfeXFMTUVCYjVkX1FrUDZwLVNDUVpqX1M1ZTZiR0huTGxBYjZtbXNNR01WeVc3SDNFa0QwMkRTQnBsbEJsdXpMcU1JTm81OVZHUF9PRzRUMGdPSkxXdFZlYWtPNUE4QWNTempvRQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1835d5697d53",
       "title": "大型研究揭示：人類細胞蛋白如何影響 HIV 感染與複製 | 科技新報 - LINE TODAY",
       "published": "2026-05-16T19:11:07+00:00",
@@ -160,6 +160,18 @@
       ]
     },
     {
+      "id": "56c88319a08e",
+      "title": "麻疹丨機場麻疹疫苗接種站運作至5月底 - 信報網站",
+      "published": "2026-05-18T10:26:53+00:00",
+      "summary": "麻疹丨機場麻疹疫苗接種站運作至5月底&nbsp;&nbsp;信報網站",
+      "sources": [
+        {
+          "name": "信報網站",
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNQXpLVGM4QzdtOC1IQ1BfLVN0NHhydXFWdzhQdFlIbEc4NEZQOE5HX2x6dENlcVpVLUVZdlc5ZU04ZHc0ZTdxTlc3aGJZdHBtZ29wSk1OalhpT1RWYWJzWGM3bXFQeGNpN01VbzRLd3dxdkl3Vnk5bzBtZzNLcHF0b0xIb0FIRlpKQWFTT3A5OXpzNEFfc25MOF9LYklKRG9xalozd3hNZnR2UUhXdHNUZ0szYWM5MWptalB5Q2hZUG5vWS0zaWxKbkVkRG4weFFHaDM4RkRxRnY2TXFBdE5pVmlwMXBxbUtRaFNMdHJlaVIySHBTRHhrU0dPcFZ0NmdyS1ZtT3B1WlJOaTBlRjZtUkZGZ3lrcUw4eUxGanNHVXhPS1ZuVHkwUHdlV1FFZmtKaVVHRy13?oc=5"
+        }
+      ]
+    },
+    {
       "id": "445e39ebc069",
       "title": "食安新焦點︱非典型瘋牛症起源和傳播途徑 我們需要擔心嗎？ - 香港經濟日報HKET",
       "published": "2026-05-18T01:00:00+00:00",
@@ -180,6 +192,30 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPQ3ZKMmpZdWRSTmlveDJIbkRIYzMxQjFPZzdUa2JLQUdkSjNfS05DejhyOTMtOXN0UXdJNWxSX0YyYXc4REc3WGVBREFMTjVvRmhJbldQenVBOWRTUWMwNUVKNXlxaHdCWl9aQlRWekRYVjFQNkdaMzJWeGU5eV9ucllQWmEtbG9PU25LTWQzaWRsRDVBb3Jza3U3bFN3U0YxN05RYjEtYnlWU3NnVndBWW5LcXFkc1FKSWxWOTlZWXVPRW5JNkFYNXF1OEl1RlJxR3oxOUFoWFBPWHRYbmpYdFZMTGtJUjY3aTFwako5aUpDTUIyZHVQVEJDYUhDS1Rpb0FwZXVqcEVISG40bzZxYjVWOEZ6YVNZekVVdl9LTGhmemVOd2lCamR1OFd6WlBnUmJmSUs0blR1QmZDYnJuRWNqTU1pQkNXZ1pZOS04cVpUa0hrNkZNYUJ2QldaVkllWndZOFJFQXFNbTVHak0wWWpwUUJQdGpWN2tZZF9IT2g0SVk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "638517a47c75",
+      "title": "大風吹$10元膠鈔落燒烤爐 加熱後變化巨大撞樣壓縮毛巾 物主：手感似炸魚皮｜Juicy叮 - 星島頭條",
+      "published": "2026-05-18T07:45:00+00:00",
+      "summary": "大風吹$10元膠鈔落燒烤爐 加熱後變化巨大撞樣壓縮毛巾 物主：手感似炸魚皮｜Juicy叮&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxPbzNXQlAybWcya2NRSXpENGkzdkYwQ3dlVHlCaV8yQXRIS1U2LWRKOFZiTHhmeTk0SGRsUmVSMVY0QmR4Y2lqNmw3Y2ppbEFMM3dmZzFsSHlYd3FsS0JLQU5fdzNXYk5XQjZpWkdwMVlfQy14TE9SbW9rd0VjR3M1R3d0X3gxc3ZBUlFGWW50cTNoWi0tZS14QVZYX0lSVmF3dFJza3E2aUh1alNxMi12VXVrZ2VTNDNmVl96ckVCcy10bGdhWkFNRzFDNmhGSjNJSjcwUHE2d2RSd0l0eUhXMXlCMDQ2OTRPTkh0Ymh6Ykx6Nk82VGRXbGFPd0FfQXBmWFJua1U3VXA4Ylp6elEzcERjNDJpMGtoVWlpaUQzYkEzVkY4eG9BVWxNQzZfZVMyOTAxdFlfNTJzTWZEd3VmZ2JuZWJUdXZZYmVjZ0hPMklHbXJiR3pHREhrbTAxNEY5aEFtOEI5TGprZGRQczR2NVpnV05WdjFXd0g0Q3VtR2ZyamJiTnpoN2NxUXEzZkl1bVVUZWFoOUVuWDdIV3dkWUFqSWE4TVlybnJnTFU1RkR6VFVLRW02NkhuMFFiQk1ScE1UYko4X0Ffa0lFYmUtS185cnd6T2ZkUnByNVdLdXhsVWM4c3lueg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3bcbe6cfcd0c",
+      "title": "子宮頸癌︱20歲女經期大出血驚患子宮頸癌疑常用1類廁紙致癌醫生：2種成分損生殖器【附消委會推薦8款廁紙】 - 香港經濟日報HKET",
+      "published": "2026-05-18T09:21:44+00:00",
+      "summary": "子宮頸癌︱20歲女經期大出血驚患子宮頸癌疑常用1類廁紙致癌醫生：2種成分損生殖器【附消委會推薦8款廁紙】&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMisgVBVV95cUxPaTV4Vjc4WGNWTmVmNW55R0ZqdG1tdzgxSlcyRkJfTW9HbFF5Q3VGSHpZRkhld2VOaHEzOWtyRDFZNU1oNktBYW55eDgtUTlJQlhfRzZfRWhiVl8wRjlvVk8zdE5Pcm9iLUh1WmV4RUo2eUYtTTBvclJtRTJoYW1pR200cjVidy1MamVURllVV3NHNmZOMFg2ajg1dUlKcXBQUDJlMGoxQktXTi1xZ0lyR19iV2dYd0k2dDItVWdzOWFKbzkzczBTX2RfWWJzN3pFbWF6NUJGdFljbFRzRGNSTWlFUk9Cb2lzSFRua0xCZFRzcFdpTjc0SEN4cVNpWVBUTnNFOWhNVGE3c1ppYm4zQ3phVVBLc3F5ZzBET0hwV2ZjVS0taXRLd2pGT2p0eU1aUWF2c0JSTVNWenh0OVVJNkhvcWFmeE5yRVV1bEczUTNGN2JfWWVrSGlENnBTUEJjYkFJNWNWRUVwaU5JYmo2TXhSOENZa3l6NHQ5MUVKRS1va2FJTFBRcWVyZkZydmQyUi1HY25xcTUzeGhURzh4WFhWSjRuLUppSEZScE9mb0dMZXItaU5mSzZCdFg2cFA0bzRyVzV1VGx2VmJ1eVJ6LUhsNVhIeFZONk0tUnNaQXE2WURWbUlFZTJLUk1FelVWaWxmbVBrREJGcGtOcnBXVHhRNlNveUJ4eGNMaU9EWnBxRElFU3d3ZzhmckF2RTNITVBPY3ZjZ0JWVlQ5NmcyRzNSVHJsdzhKUXJxRG9QeGxsR0tGY05Mc3FrVEZQazl3bHNRaUE5WHdCSHJWN3pPZzQ1d25Cc2F0ZTlUcTd4anpsTmZ5UV9KVU5hWmFZWUlnRk9TS1NiN2k4NlFjcnpHOE9DSmdTMm1BQWdCMC1wUF82WXZEY2ktQUhUM28xY2lOSHc?oc=5"
         }
       ]
     },
