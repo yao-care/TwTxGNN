@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [研究：睪固酮或抑制腫瘤生長 降低致命腦癌風險](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKLXFnQjR4eS1oOF9YVk1JeWpBY0JIU2ZBdDFENmNWSU1WNVVhblY5X1EwQjBaNkYtTllSYmRJWjRfc2dBbElsVWl1UWNHMnFSMVNLcll3VENfbWVKZmtOWjlJdWLSAWpBVV95cUxPMzQxSDVYclFUMDE4UnFpMFR5YVlWZWM3QU54WUtEdUE3VXNLcXZzMlFBakFpOE02bFlQcE1Hc2o5X0M1Z0R5QS1iWlNKelhnY09tRTdBUDhBUXEyaDViamFjODBWYVRLNENB?oc=5)
+
+2026-05-18 <span class="news-indication-tag">腫瘤</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKLXFnQjR4eS1oOF9YVk1JeWpBY0JIU2ZBdDFENmNWSU1WNVVhblY5X1EwQjBaNkYtTllSYmRJWjRfc2dBbElsVWl1UWNHMnFSMVNLcll3VENfbWVKZmtOWjlJdWLSAWpBVV95cUxPMzQxSDVYclFUMDE4UnFpMFR5YVlWZWM3QU54WUtEdUE3VXNLcXZzMlFBakFpOE02bFlQcE1Hc2o5X0M1Z0R5QS1iWlNKelhnY09tRTdBUDhBUXEyaDViamFjODBWYVRLNENB?oc=5)
+
+---
 
 ### [科學家發現了為什麼有些癌症能在化療後存活。](https://news.google.com/rss/articles/CBMi-gJBVV95cUxNQ00wVklQbTNzdnpJSjBSN0k0SVhKallncFNPTGI0MWNqT2N4Q2hna3hVMHl3cjRvaEUzWWVKeHU5V1V3blRwa3JNVXl4YXhnSUgyQzRlSG5CemtDSnUxNjdTclVGOE9OTm9CeVdCS0JwN0tTYXlsOWIyMlpsQVA5QjNEczdVZ1lwWDRJZUk4WTlFT3JIR09IUWNnVDNSNUY2U3c1VlJubVpnUjRIR2hjTm1Ec2x3eTZjekNtc2ZmSE9QLU1UeUJhcUt4ekR0QmNZQXJ3UGt3dHhFUWgtQ0pueHh2MHpDQWUwdGxMLXdMRENtZ0FBVGpVRExEaFBoa2R3QU13M2NBWTBSNG1aSjZMSWZXTXY4WldVbjhDSzdRV0hHVE50OGRsOVZ4S0Njc2M3SEVmQlZRUDRuekhwTVdjX185OWpzTzlwVlRYdmhqdlpBUXFWVk0ybzZma1B3eVpxdW13OVRzTjM2RDBkYXF2X1FBc19VYmpHYmc?oc=5)
 
