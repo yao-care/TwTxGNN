@@ -14,7 +14,7 @@ permalink: /news/berberine/
 ---
 
 <p class="key-answer" data-question="Berberine 有什麼相關新聞？">
-<strong>Berberine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Berberine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/berberine/
 <p><a href="{{ '/drugs/berberine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [癌王盯上年輕人！醫警「1族群暴增」風險飆48%](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaM2NNOV85SFhPUGRKZGdnaEptYUdXX1lIaGNVMDRPQ2lvVU44eTJWVnhpMjdfeWtpdzJpeGZCSXZIYVU3ZEJXSzEyUHB6bEMyYzJFQQ?oc=5)
+### [腸胃炎忌食稀飯！醫生指或刺激胃酸加重腹瀉 推介3 食物代替](https://news.google.com/rss/articles/CBMi8AJBVV95cUxNN3RUeFNBSHF0dTlGd2FGR0VGVWd4SDlmLWVvVlpZUmNtMHZEbV93NWp5LTBVVkRCUTNOXzJKT0tMUmtqNHU4OVRMdFlnUExJajNlTGV4YzRjUkE0MFU5UmVMWGhsRGlYV0ZodFJaSGItRklkd0s2ejFXWVp4M2psWlM3S05iNndQMURieHVmSGItODBjNkJVSGgtMTlkSGNyWEZySnNlMy1MRlR3cHR4ODR6RUloTWNzYy01RFdUZGUzY3o4Wm84c19xeTExTm5feHN4YjVLVlJRdXdrTjVwT0cxa1gxVzF2UTFTUDBvU2lzZjE3bG42SW9iSW1pZWQ1bVZWZ3p4T2Q3QURoU1JUVk9OMlQxUkVkN0dLc2ZTTVQxNjRGVFFuQjJTVnp3UldtdDJ0VnNRel9SMXlnLXJuZGJvaWVJUV9OcGRUbFc4MkVENnZTazZ2Vlo4NGhwbXRocDJEVVRzQWc2Nm1ZWHJadA?oc=5)
+
+2026-05-19 <span class="news-indication-tag">胃炎</span> <span class="news-indication-tag">腹瀉</span>
+
+來源：[bastillepost.com](https://news.google.com/rss/articles/CBMi8AJBVV95cUxNN3RUeFNBSHF0dTlGd2FGR0VGVWd4SDlmLWVvVlpZUmNtMHZEbV93NWp5LTBVVkRCUTNOXzJKT0tMUmtqNHU4OVRMdFlnUExJajNlTGV4YzRjUkE0MFU5UmVMWGhsRGlYV0ZodFJaSGItRklkd0s2ejFXWVp4M2psWlM3S05iNndQMURieHVmSGItODBjNkJVSGgtMTlkSGNyWEZySnNlMy1MRlR3cHR4ODR6RUloTWNzYy01RFdUZGUzY3o4Wm84c19xeTExTm5feHN4YjVLVlJRdXdrTjVwT0cxa1gxVzF2UTFTUDBvU2lzZjE3bG42SW9iSW1pZWQ1bVZWZ3p4T2Q3QURoU1JUVk9OMlQxUkVkN0dLc2ZTTVQxNjRGVFFuQjJTVnp3UldtdDJ0VnNRel9SMXlnLXJuZGJvaWVJUV9OcGRUbFc4MkVENnZTazZ2Vlo4NGhwbXRocDJEVVRzQWc2Nm1ZWHJadA?oc=5)
+
+---
+
+### [癌王盯上年輕人！醫警「1族群暴增」風險飆48%](https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yZEJkSVRBUkQ1MkJZTGhaSzVvX0F3Umpma2EtcU5NQW1IZlQ0X2hNQ3M0a3FqRHN5Nl9SRnNxb2VNdG53SXhRQmVINE5jZw?oc=5)
 
 2026-05-19 <span class="news-indication-tag">癌症</span>
 
-來源：[品觀點](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaM2NNOV85SFhPUGRKZGdnaEptYUdXX1lIaGNVMDRPQ2lvVU44eTJWVnhpMjdfeWtpdzJpeGZCSXZIYVU3ZEJXSzEyUHB6bEMyYzJFQQ?oc=5)
+來源：[天天上新聞](https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yZEJkSVRBUkQ1MkJZTGhaSzVvX0F3Umpma2EtcU5NQW1IZlQ0X2hNQ3M0a3FqRHN5Nl9SRnNxb2VNdG53SXhRQmVINE5jZw?oc=5)
 
 ---
 

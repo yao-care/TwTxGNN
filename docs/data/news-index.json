@@ -1,7 +1,50 @@
 {
-  "generated": "2026-05-19T22:07:44.694178+00:00",
-  "count": 5,
+  "generated": "2026-05-19T23:55:31.406037+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "5878841b163f",
+      "title": "腸胃炎忌食稀飯！醫生指或刺激胃酸加重腹瀉 推介3 食物代替",
+      "published": "2026-05-19T23:00:21+00:00",
+      "sources": [
+        {
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNN3RUeFNBSHF0dTlGd2FGR0VGVWd4SDlmLWVvVlpZUmNtMHZEbV93NWp5LTBVVkRCUTNOXzJKT0tMUmtqNHU4OVRMdFlnUExJajNlTGV4YzRjUkE0MFU5UmVMWGhsRGlYV0ZodFJaSGItRklkd0s2ejFXWVp4M2psWlM3S05iNndQMURieHVmSGItODBjNkJVSGgtMTlkSGNyWEZySnNlMy1MRlR3cHR4ODR6RUloTWNzYy01RFdUZGUzY3o4Wm84c19xeTExTm5feHN4YjVLVlJRdXdrTjVwT0cxa1gxVzF2UTFTUDBvU2lzZjE3bG42SW9iSW1pZWQ1bVZWZ3p4T2Q3QURoU1JUVk9OMlQxUkVkN0dLc2ZTTVQxNjRGVFFuQjJTVnp3UldtdDJ0VnNRel9SMXlnLXJuZGJvaWVJUV9OcGRUbFc4MkVENnZTazZ2Vlo4NGhwbXRocDJEVVRzQWc2Nm1ZWHJadA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "胃炎",
+          "keyword": "胃炎",
+          "related_drugs": [
+            {
+              "slug": "aluminum_hydroxide",
+              "name": "Aluminum hydroxide"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "propantheline",
+              "name": "Propantheline"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "6cf6c4000bbb",
       "title": "小腹大消不掉？刺胳針最新更名代謝病 醫曝3招免吃藥逆轉失調 - TVBS 健康2.0",
@@ -27,48 +70,13 @@
       ]
     },
     {
-      "id": "28903acb08ef",
-      "title": "長壽基因或保護腦細胞 降低老化與失智症風險",
-      "published": "2026-05-19T06:06:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hQVJzaEtwemtRelRBLTMwN2IxUDE4THBNMUZuWTZoOG15b2VXLVF2MVh1NlVMVnNBa3dISXJzYTRJQ3Fkb29NaXh5SHkzNVVnWGxFdVN2cEhrY3g0T21Ccl9pTGLSAWpBVV95cUxOM0FLWDNWdkVHWXFsSXBRVUU3ekVXUzJkRnQ0TkY5THZhS2tQSmlyNUltVTM1ejRqRlg4RW5Jc0UxM3VHeXhHWnNaTW9rTldrekdaVzhiakNLUUlXWW9HNDZRT0FmZmVlU1NB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "194fe9849537",
+      "id": "abd076981949",
       "title": "癌王盯上年輕人！醫警「1族群暴增」風險飆48%",
-      "published": "2026-05-19T05:33:09+00:00",
+      "published": "2026-05-19T06:59:51+00:00",
       "sources": [
         {
-          "name": "品觀點",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaM2NNOV85SFhPUGRKZGdnaEptYUdXX1lIaGNVMDRPQ2lvVU44eTJWVnhpMjdfeWtpdzJpeGZCSXZIYVU3ZEJXSzEyUHB6bEMyYzJFQQ?oc=5"
+          "name": "天天上新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yZEJkSVRBUkQ1MkJZTGhaSzVvX0F3Umpma2EtcU5NQW1IZlQ0X2hNQ3M0a3FqRHN5Nl9SRnNxb2VNdG53SXhRQmVINE5jZw?oc=5"
         }
       ],
       "keywords": [
@@ -264,6 +272,65 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "28903acb08ef",
+      "title": "長壽基因或保護腦細胞 降低老化與失智症風險",
+      "published": "2026-05-19T06:06:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hQVJzaEtwemtRelRBLTMwN2IxUDE4THBNMUZuWTZoOG15b2VXLVF2MVh1NlVMVnNBa3dISXJzYTRJQ3Fkb29NaXh5SHkzNVVnWGxFdVN2cEhrY3g0T21Ccl9pTGLSAWpBVV95cUxOM0FLWDNWdkVHWXFsSXBRVUU3ekVXUzJkRnQ0TkY5THZhS2tQSmlyNUltVTM1ejRqRlg4RW5Jc0UxM3VHeXhHWnNaTW9rTldrekdaVzhiakNLUUlXWW9HNDZRT0FmZmVlU1NB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ac7a811e1981",
+      "title": "子宮頸癌︱20歲女經期大出血驚患子宮頸癌疑常用1類廁紙致癌醫生：2種成分損生殖器【附消委會推薦8款廁紙】",
+      "published": "2026-05-19T04:06:37+00:00",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMipAVBVV95cUxOSE8wd3ZCUm05N1h1V0x5VmhqUUp0UHZkTE8tdWljaWpnM3pqSTFYZTlZdjhnLU5VaUd2ZTlCeGpaNHk4V2dMZHl0ZVIyZnZJX00yUElJVFBQc3BEQ0dfTGVkTEk0T2g2d0l3SUlQT1d2c1Jjbkw0b3VRZ0xPY0tHZXRhenM2eVRMYUJiak4tWmFhbkZDcTkzTHhldU5mdVdEUEZKbHZfUzhjSnhoSlllN1dVZUVlQmYxNU1SeGdpWXRGUnlpODlxc2xyM3FXek9nNjY1TnZpUkNTXzItTEZVeHFGTTN0WjJIRFk5Y0cyNFlWVXVDVVFSQzF2WjhUOFVUYndEakpXSlpZV2RzTm8wbHU1Ym9QcEdwTWVEYmNwWFRqek5iem9HWnl6S2JhRFJGbDZwX3p2RHNnaW5ULVhZNWcwYXFuQjhqVXhYSmtrSWFCUC1lWmpfbWVDZEtKZ3gycWRlNlIzbTJsR1QyVmo4YTdRX1lLb3BvaUNNd19yOGdJeUtGSXFvNGw3c2kxNXE5R2xmRDJ6R0dmWkJOS2g4WlFUQnh6N0JRXzFTWWhhVG04REZ2cGg0Y2p4aHM3bk9fbldUVm5ZMVQzVHNCcmVrTlJJSUJ5MkZsNFZQcWVGNndFRzVFNHNVTURpbkVTWE1WUWN4cHkzQkI1NHhmamxpaldhVHhaY0RuYXVIbHJ3VGhqaS1oVEpySmRNX3VHYlBwM1VSdkQ5MnRJcl8xMDBLY0Y4cHhQZW9iWEx0SXp0R1RpMXpiblZSTEk3Q2ZTaEFqVmpZTmNGZVZWeU53ZFJvUDZ1R0RjZlNMN3R6eWl6QlZiTldfRWlMWldNZ3l2TENiUzdjQ0lJR2FVVll6NFVOUzBhWjJzNGpyWEdFbTdwYUxtbm5k?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
             }
           ]
         }
@@ -483,30 +550,6 @@
             {
               "slug": "avelumab",
               "name": "Avelumab"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3bcbe6cfcd0c",
-      "title": "子宮頸癌︱20歲女經期大出血驚患子宮頸癌疑常用1類廁紙致癌醫生：2種成分損生殖器【附消委會推薦8款廁紙】",
-      "published": "2026-05-18T09:21:44+00:00",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMisgVBVV95cUxPaTV4Vjc4WGNWTmVmNW55R0ZqdG1tdzgxSlcyRkJfTW9HbFF5Q3VGSHpZRkhld2VOaHEzOWtyRDFZNU1oNktBYW55eDgtUTlJQlhfRzZfRWhiVl8wRjlvVk8zdE5Pcm9iLUh1WmV4RUo2eUYtTTBvclJtRTJoYW1pR200cjVidy1MamVURllVV3NHNmZOMFg2ajg1dUlKcXBQUDJlMGoxQktXTi1xZ0lyR19iV2dYd0k2dDItVWdzOWFKbzkzczBTX2RfWWJzN3pFbWF6NUJGdFljbFRzRGNSTWlFUk9Cb2lzSFRua0xCZFRzcFdpTjc0SEN4cVNpWVBUTnNFOWhNVGE3c1ppYm4zQ3phVVBLc3F5ZzBET0hwV2ZjVS0taXRLd2pGT2p0eU1aUWF2c0JSTVNWenh0OVVJNkhvcWFmeE5yRVV1bEczUTNGN2JfWWVrSGlENnBTUEJjYkFJNWNWRUVwaU5JYmo2TXhSOENZa3l6NHQ5MUVKRS1va2FJTFBRcWVyZkZydmQyUi1HY25xcTUzeGhURzh4WFhWSjRuLUppSEZScE9mb0dMZXItaU5mSzZCdFg2cFA0bzRyVzV1VGx2VmJ1eVJ6LUhsNVhIeFZONk0tUnNaQXE2WURWbUlFZTJLUk1FelVWaWxmbVBrREJGcGtOcnBXVHhRNlNveUJ4eGNMaU9EWnBxRElFU3d3ZzhmckF2RTNITVBPY3ZjZ0JWVlQ5NmcyRzNSVHJsdzhKUXJxRG9QeGxsR0tGY05Mc3FrVEZQazl3bHNRaUE5WHdCSHJWN3pPZzQ1d25Cc2F0ZTlUcTd4anpsTmZ5UV9KVU5hWmFZWUlnRk9TS1NiN2k4NlFjcnpHOE9DSmdTMm1BQWdCMC1wUF82WXZEY2ktQUhUM28xY2lOSHc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }

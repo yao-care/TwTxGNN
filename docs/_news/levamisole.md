@@ -37,11 +37,11 @@ permalink: /news/levamisole/
 
 ## 相關新聞（2 則）
 
-### [癌王盯上年輕人！醫警「1族群暴增」風險飆48%](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaM2NNOV85SFhPUGRKZGdnaEptYUdXX1lIaGNVMDRPQ2lvVU44eTJWVnhpMjdfeWtpdzJpeGZCSXZIYVU3ZEJXSzEyUHB6bEMyYzJFQQ?oc=5)
+### [癌王盯上年輕人！醫警「1族群暴增」風險飆48%](https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yZEJkSVRBUkQ1MkJZTGhaSzVvX0F3Umpma2EtcU5NQW1IZlQ0X2hNQ3M0a3FqRHN5Nl9SRnNxb2VNdG53SXhRQmVINE5jZw?oc=5)
 
 2026-05-19 <span class="news-indication-tag">癌症</span>
 
-來源：[品觀點](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaM2NNOV85SFhPUGRKZGdnaEptYUdXX1lIaGNVMDRPQ2lvVU44eTJWVnhpMjdfeWtpdzJpeGZCSXZIYVU3ZEJXSzEyUHB6bEMyYzJFQQ?oc=5)
+來源：[天天上新聞](https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yZEJkSVRBUkQ1MkJZTGhaSzVvX0F3Umpma2EtcU5NQW1IZlQ0X2hNQ3M0a3FqRHN5Nl9SRnNxb2VNdG53SXhRQmVINE5jZw?oc=5)
 
 ---
 
