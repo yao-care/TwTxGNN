@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [癌王盯上年輕人！醫警「1族群暴增」風險飆48%](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaM2NNOV85SFhPUGRKZGdnaEptYUdXX1lIaGNVMDRPQ2lvVU44eTJWVnhpMjdfeWtpdzJpeGZCSXZIYVU3ZEJXSzEyUHB6bEMyYzJFQQ?oc=5)
+### [健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
 
 2026-05-19 <span class="news-indication-tag">癌症</span>
 
-來源：[品觀點](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaM2NNOV85SFhPUGRKZGdnaEptYUdXX1lIaGNVMDRPQ2lvVU44eTJWVnhpMjdfeWtpdzJpeGZCSXZIYVU3ZEJXSzEyUHB6bEMyYzJFQQ?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
 
 ---
 
@@ -65,14 +65,6 @@ permalink: /news/gemcitabine/
 2026-05-18 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">肝癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMimwNBVV95cUxQM2cwaENNcmRuR2hqMlRoUmxIVU5yNk9telRwNWFFSjdVODVhTWc2R0dmMUpNZ0pRUmx4WF9TX1F3UGlCSThmM0ZFaHZLUzhIek9RWVItdllrcy0waDFFNFdUTW1PVjFwWTQtN21IRGFTOE1Dd1ZleVFMcVhPbXpTZDNxakROdzQ0bmNNYnpZeGI5TnJyVnlXbGdCaU5HT21vLXlFMVBzUENKQXRLY0dsQWYzQ0hzMXVHZzBtYTRlaWRmdHdCT1FrRUFSQkZ2UThoQ2ZBaVdQM29sWFlLeVRlOUgxX2xxWk13VkNwdVppY1BWZzVxRGxfVHVjSk1ZcHk3U2FaNkw5NkRIeWY1TlFHbEZLTG45WmRQcWdCR29BSkVZVWZiQ05oVG1pUkl4SXFUQkJKc29CTkl3MllOcUhKeVBvbEhjeG5WemNEOGxhTDVHX1luWEJTQ0s3RGdBODY4ZnF2Vy03bTFqek9jZmg5RDVXUVFYZ3ZGNlplSExLTjZmLTNtVEFycnNhWTJZT0tHTjVlbkRMRFNTUms?oc=5)
-
----
-
-### [科學家發現了為什麼有些癌症能在化療後存活。](https://news.google.com/rss/articles/CBMi-gJBVV95cUxNQ00wVklQbTNzdnpJSjBSN0k0SVhKallncFNPTGI0MWNqT2N4Q2hna3hVMHl3cjRvaEUzWWVKeHU5V1V3blRwa3JNVXl4YXhnSUgyQzRlSG5CemtDSnUxNjdTclVGOE9OTm9CeVdCS0JwN0tTYXlsOWIyMlpsQVA5QjNEczdVZ1lwWDRJZUk4WTlFT3JIR09IUWNnVDNSNUY2U3c1VlJubVpnUjRIR2hjTm1Ec2x3eTZjekNtc2ZmSE9QLU1UeUJhcUt4ekR0QmNZQXJ3UGt3dHhFUWgtQ0pueHh2MHpDQWUwdGxMLXdMRENtZ0FBVGpVRExEaFBoa2R3QU13M2NBWTBSNG1aSjZMSWZXTXY4WldVbjhDSzdRV0hHVE50OGRsOVZ4S0Njc2M3SEVmQlZRUDRuekhwTVdjX185OWpzTzlwVlRYdmhqdlpBUXFWVk0ybzZma1B3eVpxdW13OVRzTjM2RDBkYXF2X1FBc19VYmpHYmc?oc=5)
-
-2026-05-17 <span class="news-indication-tag">癌症</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi-gJBVV95cUxNQ00wVklQbTNzdnpJSjBSN0k0SVhKallncFNPTGI0MWNqT2N4Q2hna3hVMHl3cjRvaEUzWWVKeHU5V1V3blRwa3JNVXl4YXhnSUgyQzRlSG5CemtDSnUxNjdTclVGOE9OTm9CeVdCS0JwN0tTYXlsOWIyMlpsQVA5QjNEczdVZ1lwWDRJZUk4WTlFT3JIR09IUWNnVDNSNUY2U3c1VlJubVpnUjRIR2hjTm1Ec2x3eTZjekNtc2ZmSE9QLU1UeUJhcUt4ekR0QmNZQXJ3UGt3dHhFUWgtQ0pueHh2MHpDQWUwdGxMLXdMRENtZ0FBVGpVRExEaFBoa2R3QU13M2NBWTBSNG1aSjZMSWZXTXY4WldVbjhDSzdRV0hHVE50OGRsOVZ4S0Njc2M3SEVmQlZRUDRuekhwTVdjX185OWpzTzlwVlRYdmhqdlpBUXFWVk0ybzZma1B3eVpxdW13OVRzTjM2RDBkYXF2X1FBc19VYmpHYmc?oc=5)
 
 ---
 

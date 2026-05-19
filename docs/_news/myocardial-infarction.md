@@ -31,11 +31,11 @@ permalink: /news/myocardial-infarction/
 
 ## 相關新聞（1 則）
 
-### [每天喝手搖飲…竟然是月經亂掉的原因？醫揭胰島素阻抗惡性循環](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zVjBJZTFNUUlReEdHTDZXbTF2TjhaRUdBWFExSjFXTHBxN2VZMnlHQUhaeUJxVVN3NHAxRU5EZWZLMmd0a2ZpTVNaeTdDNHAteGE0?oc=5)
+### [小腹大消不掉？刺胳針最新更名代謝病 醫曝3招免吃藥逆轉失調 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tM0xfa1VxWXpxLXB4Q2dVQ3gtcy1TaHRtNXd5dHlpc09pMHZvUVc1SDluZkNkdGY1dEJNYVlBb05sSkg3UjI1NjYzRDJrcXRwTnZR?oc=5)
 
 2026-05-19
 
-來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zVjBJZTFNUUlReEdHTDZXbTF2TjhaRUdBWFExSjFXTHBxN2VZMnlHQUhaeUJxVVN3NHAxRU5EZWZLMmd0a2ZpTVNaeTdDNHAteGE0?oc=5)
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tM0xfa1VxWXpxLXB4Q2dVQ3gtcy1TaHRtNXd5dHlpc09pMHZvUVc1SDluZkNkdGY1dEJNYVlBb05sSkg3UjI1NjYzRDJrcXRwTnZR?oc=5)
 
 ---
 
