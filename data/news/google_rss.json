@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-19T10:33:09.563088+00:00",
+  "fetched_at": "2026-05-19T13:51:24.586578+00:00",
   "count": 21,
   "news": [
     {
@@ -24,18 +24,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hQVJzaEtwemtRelRBLTMwN2IxUDE4THBNMUZuWTZoOG15b2VXLVF2MVh1NlVMVnNBa3dISXJzYTRJQ3Fkb29NaXh5SHkzNVVnWGxFdVN2cEhrY3g0T21Ccl9pTGLSAWpBVV95cUxOM0FLWDNWdkVHWXFsSXBRVUU3ekVXUzJkRnQ0TkY5THZhS2tQSmlyNUltVTM1ejRqRlg4RW5Jc0UxM3VHeXhHWnNaTW9rTldrekdaVzhiakNLUUlXWW9HNDZRT0FmZmVlU1NB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3b3e18f751e3",
-      "title": "癲癇發作「塞湯匙」防咬舌？急診醫示警「這些動作超危險」：送醫前必做的5件救命小事 - 幸福熟齡",
-      "published": "2026-05-19T06:52:00+00:00",
-      "summary": "癲癇發作「塞湯匙」防咬舌？急診醫示警「這些動作超危險」：送醫前必做的5件救命小事&nbsp;&nbsp;幸福熟齡",
-      "sources": [
-        {
-          "name": "幸福熟齡",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyQk5ZZUwwSnp2X2c4R0R4di1nTGwxdkxrR0YwZnM5LVp0TW1ab3F0QjBkWmRTV3BnQXo3aXRaa2NkZkNlV0FsUzE5bzdsMnB5MnNneHNNNlJfUGVGcVRLcW94OWV1Zm4xVTdQcEx6Vkp4eHNEQ05ENVdXaw?oc=5"
         }
       ]
     },
@@ -76,38 +64,14 @@
       ]
     },
     {
-      "id": "8ebad7156791",
-      "title": "加強型流感疫苗 長者保護力不腰斬 - Yahoo新聞",
-      "published": "2026-05-18T20:10:00+00:00",
-      "summary": "加強型流感疫苗 長者保護力不腰斬&nbsp;&nbsp;Yahoo新聞",
+      "id": "2bfdd1fa36b5",
+      "title": "比流感更兇的病毒！呼吸道融合病毒RSV - 天天上新聞",
+      "published": "2026-05-19T09:59:42+00:00",
+      "summary": "比流感更兇的病毒！呼吸道融合病毒RSV&nbsp;&nbsp;天天上新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUkxxQW04X2x6M193Z09wc0F3ek5TN2NZbkRaR3hoZzZDcEI4NUlvdXVBVDJhc2hqM0V3dndyaEt1eW5ndE5YOVhmd2lJZk1Wa0NkV3JNREFZa1Rad0tPSkE3c1d4bWdkQzcyeDFFSnJrWUR2Mm1oV0M1LTkyUWs1TkIwVW9wdnZrSkNXYkZaLUdNV2ZyYm8wMGlpbERHakZkTGtHR18wMTBDSFpJYTdZejhRVUVmVGxTWkpBbGVYNWtxanVfN3VzcTY1Sjd5T0RjWlFpekpIbWtHOUJLd3VzRHBubmxxT05tNzhhb2pucm55bmV2TnExUzRBbmhZZjhxcERaOVlKS0w?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e15c988ca3f4",
-      "title": "比流感更兇的病毒！呼吸道融合病毒RSV - 威傳媒新聞",
-      "published": "2026-05-19T08:04:00+00:00",
-      "summary": "比流感更兇的病毒！呼吸道融合病毒RSV&nbsp;&nbsp;威傳媒新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "威傳媒新聞",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96V0hnU0VfN0pWSElFUFpZZk90M0s4WXlVUjhwQ09JdXJzdGlMeDhHYzZQd2UtcnBNSFdPVlg4dk03bUE5d2RxOXhB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5c5eb79029ae",
-      "title": "新研究揭壓力延緩消化關鍵機制 為腸躁症帶來新療法契機 - 行銷人",
-      "published": "2026-05-19T10:21:56+00:00",
-      "summary": "新研究揭壓力延緩消化關鍵機制 為腸躁症帶來新療法契機&nbsp;&nbsp;行銷人",
-      "sources": [
-        {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPNjN4R21pQmRUQmw2aDFYSWRBZ0ZTdHJwRjEtcGxoRThLcTZvcXJtWXZteWN1OEQ5Ujc1SGVfSjExd1FIS1RncklfMGZETDhXcGtkS015SVpYZE90bUJlN1dHajRCS3ZhX1dPZWdfNzNlYVVpTjJRdEE0cWdVVnFxYnBiblNLS0ZVbGVybUg0ZkN6cVJFc0M4dmlLS1BKZC1YRkpBSV9MaGU1UTdqLVVsWTFsLUFoTVZzbTdIbXEwMDFMdTRFM3dfZGdlNzh6eUpoYmc4UDNncHdvM2dMLTFGRE94T3d6MnJ5SFpheDlXNnlQTFJlVk1mMmFVUVJyUVRRWl9WbERaMEx1a3IwWVBEN1RNRDRCVGdBN05hWTlBcjJ5RWRpNmhfeUJ0ZWNYeFZHRl9WQUV0OTdpeFBlLWJyZkhyWmpSMzVYRkJQTXJIeHVUcUdBRWVKQW5veDR3NHd1eHU2ZFhwU1piaHFZdnFUYVBQT3g4Nm9JVmZGag?oc=5"
+          "name": "天天上新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92WF9tY1h5aHpqRm41aTA4NGIyTTMzRXBrR1ZkOVRyYkZDXzhFb3RaUGplUGxuUV9jNTFEUk13NWRmWlIxcDM2b25qRGNCZw?oc=5"
         }
       ]
     },
@@ -124,6 +88,30 @@
       ]
     },
     {
+      "id": "8ebad7156791",
+      "title": "加強型流感疫苗 長者保護力不腰斬 - Yahoo新聞",
+      "published": "2026-05-18T20:10:00+00:00",
+      "summary": "加強型流感疫苗 長者保護力不腰斬&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUkxxQW04X2x6M193Z09wc0F3ek5TN2NZbkRaR3hoZzZDcEI4NUlvdXVBVDJhc2hqM0V3dndyaEt1eW5ndE5YOVhmd2lJZk1Wa0NkV3JNREFZa1Rad0tPSkE3c1d4bWdkQzcyeDFFSnJrWUR2Mm1oV0M1LTkyUWs1TkIwVW9wdnZrSkNXYkZaLUdNV2ZyYm8wMGlpbERHakZkTGtHR18wMTBDSFpJYTdZejhRVUVmVGxTWkpBbGVYNWtxanVfN3VzcTY1Sjd5T0RjWlFpekpIbWtHOUJLd3VzRHBubmxxT05tNzhhb2pucm55bmV2TnExUzRBbmhZZjhxcERaOVlKS0w?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a51316b1eec7",
+      "title": "打疫苗電燒都沒用！女子菜花反覆爆發 醫聽她職業後沉默 - 民視新聞網",
+      "published": "2026-05-19T00:22:49+00:00",
+      "summary": "打疫苗電燒都沒用！女子菜花反覆爆發 醫聽她職業後沉默&nbsp;&nbsp;民視新聞網打疫苗嘸效！20歲女私密處反覆長出「滿滿菜花田」…醫嘆：人生比病難治&nbsp;&nbsp;祝你健康打疫苗電燒都沒用！女子菜花反覆爆發 醫聽她職業後沉默 | 生活 | CTWANT&nbsp;&nbsp;CTWANT20歲女打疫苗仍炸出「滿滿菜花田」! 醫師一聽鼻酸： 人生比病難治&nbsp;&nbsp;MSN【20歲女打疫苗仍炸出「滿滿菜花田」！醫師一聽鼻酸：人生比病難治】 （示意圖／免費圖庫123RF） 人生真的好難...(#起啵)&nbsp;&nbsp;facebook.com",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5paF96bTNoWkZtUUNnTnVrUTFlaHU2ZGx3U2xrX2NuS3BRYjBmNy1CbDVhRkI4Q3ZpZkVQeE1rOWRLMVE3REpQbFRVVzFOS2FzbHRGZDc2eThJNVphOHJNOA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e25dc4bd8a22",
       "title": "女性免疫力強竟藏殘酷代價！實測百萬細胞曝防線過激 反遭「這系統」吞噬 - 自由健康網",
       "published": "2026-05-18T04:11:00+00:00",
@@ -132,6 +120,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2a0NIQm1PLUFHUm5mcHh4dm80WHR0NzBTd1ozMXpEQldZTVlxY0NnWmpWOFlzRldORFBhQUtFcmpXZnZnc0ZkMW42UUtlOExHOHhTV2R4ZmpKWXVpdzlNWHFndmzSAWpBVV95cUxQcnRyd0dpd05DWnhkU1J3MkxPaWNzVVlQQ19oRmV2ZEFEc1ByelJiN2ZCQm9LTHY1dWVPZHNKRldEbU1OUTlXNUlob2FXZU1oSGdOY2stREUyN1FqWUFnVGZoR3RGcHlqS29B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9a65a5e35589",
+      "title": "抗癌蔬菜︱紅肉吃太多恐致癌！ 營養師大推神級解毒菜 抗炎兼防癌食4星期見效 - 香港經濟日報HKET",
+      "published": "2026-05-19T10:47:39+00:00",
+      "summary": "抗癌蔬菜︱紅肉吃太多恐致癌！ 營養師大推神級解毒菜 抗炎兼防癌食4星期見效&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMikARBVV95cUxNeTBOVkNGNXdXRkQzYk0xLW9mWHFleGdVdVZqdEFvb0prUTRvaG5fNjQwM2dJNmV5dGczVFVJMUE3emVCRlR0Z3VYcWw1YUc0WTlwcldJWWFSZ3kwal8tSmtKWi1oRkk0d3Y5N0h2MnhMWnV3TGZTU1U3R05kcU5rTWczWnd3LWxJUHB4ckJTWnpYSEVNa2RlZWl5b1ZQWWhHdFJBbTJSYV9KQ3phVDdyODFVa2tHdlRXY0lpbWZwTWprTzdlVU9zWFdSTTEwZFJRN1hsTnZlbmxyb0Zza0YzRjltWWVjYzhpQTBnU0hKUlQ4X2tvT1hfTF84M0RQdUFZa1djX3RaSkRZd3RzOU02aEUya0NFem1VTlJxSGJvUFY0V1E4d3BuLVA4YnV3VURyZTAtY3k4M2YxSDRnUkRfd0Nra1pSY2VoTVFBbTlvSG0zdXlkaTA0NDZGUGpHSUZPaGE0SEFVdW5Ody1TS3NzcUhldTk1RFFCTV9jUGhiU3ByY3lfd250enFVQ3liU1B6UUppQ0tuRnFDbVA2Ujd4TkFHSlFDckwwM256X0RVNTdpLUNDeDVVODNtSFZrRTNpMkJQTXFWcHp4dGhqTlNhRHdYbWNNcVFDQmFFeGtBaGZKN1JBbWVUYjRuRFJEVU9YWm5LSnVfeHRfdGdjWlA4WEpaNHNyMVAyOXpfX3ZDNmI?oc=5"
         }
       ]
     },
@@ -175,7 +175,7 @@
       "id": "38589c80fb7d",
       "title": "男生遊日本試泡泡浴惹椰菜花 呼冤「沒做過」醫生列5大感染地雷 - 香港01",
       "published": "2026-05-18T09:01:01+00:00",
-      "summary": "男生遊日本試泡泡浴惹椰菜花 呼冤「沒做過」醫生列5大感染地雷&nbsp;&nbsp;香港01赴日體驗極樂殘廢澡染性病！台男崩潰哀號「又沒放進去」 醫揭5大隱藏風險：保險套不是萬靈丹&nbsp;&nbsp;鏡週刊Mirror Media健康網》老司機體驗暗黑旅遊 「沒放進去」仍染菜花&nbsp;&nbsp;自由健康網男赴日洗泡泡浴！回台驚「沒壞壞」中鏢菜花 醫揭5關鍵：手也會傳播&nbsp;&nbsp;祝你健康赴日洗泡泡浴…男「沒壞壞」衰染菜花！ 醫揭5大暗黑地雷 （示意圖，非本新聞當事人／李綜合醫院提供）&nbsp;&nbsp;Facebook",
+      "summary": "男生遊日本試泡泡浴惹椰菜花 呼冤「沒做過」醫生列5大感染地雷&nbsp;&nbsp;香港01赴日體驗極樂殘廢澡染性病！台男崩潰哀號「又沒放進去」 醫揭5大隱藏風險：保險套不是萬靈丹&nbsp;&nbsp;鏡週刊Mirror Media健康網》老司機體驗暗黑旅遊 「沒放進去」仍染菜花&nbsp;&nbsp;自由健康網男赴日洗泡泡浴！回台驚「沒壞壞」中鏢菜花 醫揭5關鍵：手也會傳播&nbsp;&nbsp;祝你健康赴日洗泡泡浴…男「沒壞壞」衰染菜花！ 醫揭5大暗黑地雷 （示意圖，非本新聞當事人／李綜合醫院提供）&nbsp;&nbsp;facebook.com",
       "sources": [
         {
           "name": "香港01",
@@ -210,7 +210,7 @@
     {
       "id": "d270151fc7d2",
       "title": "不只是老了！總是累、皮膚差、不知不覺變胖？專家警告：這 6 個徵兆代表你荷爾蒙失調了 - Women's Health",
-      "published": "2026-05-19T07:41:22+00:00",
+      "published": "2026-05-19T07:44:07+00:00",
       "summary": "不只是老了！總是累、皮膚差、不知不覺變胖？專家警告：這 6 個徵兆代表你荷爾蒙失調了&nbsp;&nbsp;Women's Health",
       "sources": [
         {
@@ -232,14 +232,14 @@
       ]
     },
     {
-      "id": "ac7a811e1981",
+      "id": "3bcbe6cfcd0c",
       "title": "子宮頸癌︱20歲女經期大出血驚患子宮頸癌疑常用1類廁紙致癌醫生：2種成分損生殖器【附消委會推薦8款廁紙】 - 香港經濟日報HKET",
       "published": "2026-05-18T09:21:44+00:00",
       "summary": "子宮頸癌︱20歲女經期大出血驚患子宮頸癌疑常用1類廁紙致癌醫生：2種成分損生殖器【附消委會推薦8款廁紙】&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMipAVBVV95cUxOSE8wd3ZCUm05N1h1V0x5VmhqUUp0UHZkTE8tdWljaWpnM3pqSTFYZTlZdjhnLU5VaUd2ZTlCeGpaNHk4V2dMZHl0ZVIyZnZJX00yUElJVFBQc3BEQ0dfTGVkTEk0T2g2d0l3SUlQT1d2c1Jjbkw0b3VRZ0xPY0tHZXRhenM2eVRMYUJiak4tWmFhbkZDcTkzTHhldU5mdVdEUEZKbHZfUzhjSnhoSlllN1dVZUVlQmYxNU1SeGdpWXRGUnlpODlxc2xyM3FXek9nNjY1TnZpUkNTXzItTEZVeHFGTTN0WjJIRFk5Y0cyNFlWVXVDVVFSQzF2WjhUOFVUYndEakpXSlpZV2RzTm8wbHU1Ym9QcEdwTWVEYmNwWFRqek5iem9HWnl6S2JhRFJGbDZwX3p2RHNnaW5ULVhZNWcwYXFuQjhqVXhYSmtrSWFCUC1lWmpfbWVDZEtKZ3gycWRlNlIzbTJsR1QyVmo4YTdRX1lLb3BvaUNNd19yOGdJeUtGSXFvNGw3c2kxNXE5R2xmRDJ6R0dmWkJOS2g4WlFUQnh6N0JRXzFTWWhhVG04REZ2cGg0Y2p4aHM3bk9fbldUVm5ZMVQzVHNCcmVrTlJJSUJ5MkZsNFZQcWVGNndFRzVFNHNVTURpbkVTWE1WUWN4cHkzQkI1NHhmamxpaldhVHhaY0RuYXVIbHJ3VGhqaS1oVEpySmRNX3VHYlBwM1VSdkQ5MnRJcl8xMDBLY0Y4cHhQZW9iWEx0SXp0R1RpMXpiblZSTEk3Q2ZTaEFqVmpZTmNGZVZWeU53ZFJvUDZ1R0RjZlNMN3R6eWl6QlZiTldfRWlMWldNZ3l2TENiUzdjQ0lJR2FVVll6NFVOUzBhWjJzNGpyWEdFbTdwYUxtbm5k?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMisgVBVV95cUxPaTV4Vjc4WGNWTmVmNW55R0ZqdG1tdzgxSlcyRkJfTW9HbFF5Q3VGSHpZRkhld2VOaHEzOWtyRDFZNU1oNktBYW55eDgtUTlJQlhfRzZfRWhiVl8wRjlvVk8zdE5Pcm9iLUh1WmV4RUo2eUYtTTBvclJtRTJoYW1pR200cjVidy1MamVURllVV3NHNmZOMFg2ajg1dUlKcXBQUDJlMGoxQktXTi1xZ0lyR19iV2dYd0k2dDItVWdzOWFKbzkzczBTX2RfWWJzN3pFbWF6NUJGdFljbFRzRGNSTWlFUk9Cb2lzSFRua0xCZFRzcFdpTjc0SEN4cVNpWVBUTnNFOWhNVGE3c1ppYm4zQ3phVVBLc3F5ZzBET0hwV2ZjVS0taXRLd2pGT2p0eU1aUWF2c0JSTVNWenh0OVVJNkhvcWFmeE5yRVV1bEczUTNGN2JfWWVrSGlENnBTUEJjYkFJNWNWRUVwaU5JYmo2TXhSOENZa3l6NHQ5MUVKRS1va2FJTFBRcWVyZkZydmQyUi1HY25xcTUzeGhURzh4WFhWSjRuLUppSEZScE9mb0dMZXItaU5mSzZCdFg2cFA0bzRyVzV1VGx2VmJ1eVJ6LUhsNVhIeFZONk0tUnNaQXE2WURWbUlFZTJLUk1FelVWaWxmbVBrREJGcGtOcnBXVHhRNlNveUJ4eGNMaU9EWnBxRElFU3d3ZzhmckF2RTNITVBPY3ZjZ0JWVlQ5NmcyRzNSVHJsdzhKUXJxRG9QeGxsR0tGY05Mc3FrVEZQazl3bHNRaUE5WHdCSHJWN3pPZzQ1d25Cc2F0ZTlUcTd4anpsTmZ5UV9KVU5hWmFZWUlnRk9TS1NiN2k4NlFjcnpHOE9DSmdTMm1BQWdCMC1wUF82WXZEY2ktQUhUM28xY2lOSHc?oc=5"
         }
       ]
     },

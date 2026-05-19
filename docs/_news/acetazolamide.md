@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
 
 2026-05-19 <span class="news-indication-tag">癌症</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
-
----
-
-### [癲癇發作「塞湯匙」防咬舌？急診醫示警「這些動作超危險」：送醫前必做的5件救命小事](https://news.google.com/rss/articles/CBMie0FVX3lxTFAyQk5ZZUwwSnp2X2c4R0R4di1nTGwxdkxrR0YwZnM5LVp0TW1ab3F0QjBkWmRTV3BnQXo3aXRaa2NkZkNlV0FsUzE5bzdsMnB5MnNneHNNNlJfUGVGcVRLcW94OWV1Zm4xVTdQcEx6Vkp4eHNEQ05ENVdXaw?oc=5)
-
-2026-05-19 <span class="news-indication-tag">癲癇</span>
-
-來源：[幸福熟齡](https://news.google.com/rss/articles/CBMie0FVX3lxTFAyQk5ZZUwwSnp2X2c4R0R4di1nTGwxdkxrR0YwZnM5LVp0TW1ab3F0QjBkWmRTV3BnQXo3aXRaa2NkZkNlV0FsUzE5bzdsMnB5MnNneHNNNlJfUGVGcVRLcW94OWV1Zm4xVTdQcEx6Vkp4eHNEQ05ENVdXaw?oc=5)
 
 ---
 
