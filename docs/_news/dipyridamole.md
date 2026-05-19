@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Sick問識答︱11歲女操場突頭痛昏迷 送院證患出血性中風 醫生：頭痛3大徵狀勿輕視](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpREVJOUxPaXFQQ3RaNHEtQ3pMR3JkZUQ0bkJ6dWJCMkROSllSSzB3MTJWOTd4ZGlUZjlLODdKY25HMk8ycVdrZFlOQzQyc0NnM2c?oc=5)
-
-2026-05-17 <span class="news-indication-tag">中風</span>
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpREVJOUxPaXFQQ3RaNHEtQ3pMR3JkZUQ0bkJ6dWJCMkROSllSSzB3MTJWOTd4ZGlUZjlLODdKY25HMk8ycVdrZFlOQzQyc0NnM2c?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

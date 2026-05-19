@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="Ramucirumab 有什麼相關新聞？">
-<strong>Ramucirumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ramucirumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/ramucirumab/
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [癌症患者屬生蛇高危一族 注射預防疫苗減低風險](https://news.google.com/rss/articles/CBMi5wJBVV95cUxOSEVLbXppUENmX0tJT2J3c0VQM25qS1lBZzh0djhxdDIwZE5ITHVLb3k5ZUVwZ2JTeXktdS1CM20yUUFHTXF1QzFtUUFmN1NWSGhrMjEzODdHMzNTZWNJX1hLcnFLVGYzQUQxbHhRYVloNlc5aXJJY2lobHdHOXg1Qk01ZWtDQVBoR3hLQ1lwLUtubm93MkZER1BTdVJRTzhHZG1uc2lWQmNvcGRTMi1wVEV4bFNRX2pvOFQ3eFRYcDlRYUxiMTBNLU5IR3YxRTQ0eWI1dVRDN2VRU2hPeTBDTjNVVFFnR2l5WGhlVFIzLVhXUE4wTk1naG9KNGJfUlREaTU3aVlUNFRUZjJaOUNDRkMzQUQ0azBGcTdkRktXQUtaYjc4VzRQVGZtZEc0YkdJT1VxRFl3ZVMtb0R2b0FMMzhtbC1kM3NmRDItRE1rR0lUbFRqdVFSVXZWVURCR2tFd0RaeHU3UQ?oc=5)
+
+2026-05-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">生蛇</span>
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMi5wJBVV95cUxOSEVLbXppUENmX0tJT2J3c0VQM25qS1lBZzh0djhxdDIwZE5ITHVLb3k5ZUVwZ2JTeXktdS1CM20yUUFHTXF1QzFtUUFmN1NWSGhrMjEzODdHMzNTZWNJX1hLcnFLVGYzQUQxbHhRYVloNlc5aXJJY2lobHdHOXg1Qk01ZWtDQVBoR3hLQ1lwLUtubm93MkZER1BTdVJRTzhHZG1uc2lWQmNvcGRTMi1wVEV4bFNRX2pvOFQ3eFRYcDlRYUxiMTBNLU5IR3YxRTQ0eWI1dVRDN2VRU2hPeTBDTjNVVFFnR2l5WGhlVFIzLVhXUE4wTk1naG9KNGJfUlREaTU3aVlUNFRUZjJaOUNDRkMzQUQ0azBGcTdkRktXQUtaYjc4VzRQVGZtZEc0YkdJT1VxRFl3ZVMtb0R2b0FMMzhtbC1kM3NmRDItRE1rR0lUbFRqdVFSVXZWVURCR2tFd0RaeHU3UQ?oc=5)
+
+---
+
+### [肥胖、有糖尿病更容易罹癌？醫揭：高胰島素可能成癌細胞生長訊號](https://news.google.com/rss/articles/CBMimwNBVV95cUxQM2cwaENNcmRuR2hqMlRoUmxIVU5yNk9telRwNWFFSjdVODVhTWc2R0dmMUpNZ0pRUmx4WF9TX1F3UGlCSThmM0ZFaHZLUzhIek9RWVItdllrcy0waDFFNFdUTW1PVjFwWTQtN21IRGFTOE1Dd1ZleVFMcVhPbXpTZDNxakROdzQ0bmNNYnpZeGI5TnJyVnlXbGdCaU5HT21vLXlFMVBzUENKQXRLY0dsQWYzQ0hzMXVHZzBtYTRlaWRmdHdCT1FrRUFSQkZ2UThoQ2ZBaVdQM29sWFlLeVRlOUgxX2xxWk13VkNwdVppY1BWZzVxRGxfVHVjSk1ZcHk3U2FaNkw5NkRIeWY1TlFHbEZLTG45WmRQcWdCR29BSkVZVWZiQ05oVG1pUkl4SXFUQkJKc29CTkl3MllOcUhKeVBvbEhjeG5WemNEOGxhTDVHX1luWEJTQ0s3RGdBODY4ZnF2Vy03bTFqek9jZmg5RDVXUVFYZ3ZGNlplSExLTjZmLTNtVEFycnNhWTJZT0tHTjVlbkRMRFNTUms?oc=5)
+
+2026-05-18 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">肝癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMimwNBVV95cUxQM2cwaENNcmRuR2hqMlRoUmxIVU5yNk9telRwNWFFSjdVODVhTWc2R0dmMUpNZ0pRUmx4WF9TX1F3UGlCSThmM0ZFaHZLUzhIek9RWVItdllrcy0waDFFNFdUTW1PVjFwWTQtN21IRGFTOE1Dd1ZleVFMcVhPbXpTZDNxakROdzQ0bmNNYnpZeGI5TnJyVnlXbGdCaU5HT21vLXlFMVBzUENKQXRLY0dsQWYzQ0hzMXVHZzBtYTRlaWRmdHdCT1FrRUFSQkZ2UThoQ2ZBaVdQM29sWFlLeVRlOUgxX2xxWk13VkNwdVppY1BWZzVxRGxfVHVjSk1ZcHk3U2FaNkw5NkRIeWY1TlFHbEZLTG45WmRQcWdCR29BSkVZVWZiQ05oVG1pUkl4SXFUQkJKc29CTkl3MllOcUhKeVBvbEhjeG5WemNEOGxhTDVHX1luWEJTQ0s3RGdBODY4ZnF2Vy03bTFqek9jZmg5RDVXUVFYZ3ZGNlplSExLTjZmLTNtVEFycnNhWTJZT0tHTjVlbkRMRFNTUms?oc=5)
+
+---
 
 ### [科學家發現了為什麼有些癌症能在化療後存活。](https://news.google.com/rss/articles/CBMi-gJBVV95cUxNQ00wVklQbTNzdnpJSjBSN0k0SVhKallncFNPTGI0MWNqT2N4Q2hna3hVMHl3cjRvaEUzWWVKeHU5V1V3blRwa3JNVXl4YXhnSUgyQzRlSG5CemtDSnUxNjdTclVGOE9OTm9CeVdCS0JwN0tTYXlsOWIyMlpsQVA5QjNEczdVZ1lwWDRJZUk4WTlFT3JIR09IUWNnVDNSNUY2U3c1VlJubVpnUjRIR2hjTm1Ec2x3eTZjekNtc2ZmSE9QLU1UeUJhcUt4ekR0QmNZQXJ3UGt3dHhFUWgtQ0pueHh2MHpDQWUwdGxMLXdMRENtZ0FBVGpVRExEaFBoa2R3QU13M2NBWTBSNG1aSjZMSWZXTXY4WldVbjhDSzdRV0hHVE50OGRsOVZ4S0Njc2M3SEVmQlZRUDRuekhwTVdjX185OWpzTzlwVlRYdmhqdlpBUXFWVk0ybzZma1B3eVpxdW13OVRzTjM2RDBkYXF2X1FBc19VYmpHYmc?oc=5)
 
