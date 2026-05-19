@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [長壽基因或保護腦細胞 降低老化與失智症風險](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hQVJzaEtwemtRelRBLTMwN2IxUDE4THBNMUZuWTZoOG15b2VXLVF2MVh1NlVMVnNBa3dISXJzYTRJQ3Fkb29NaXh5SHkzNVVnWGxFdVN2cEhrY3g0T21Ccl9pTGLSAWpBVV95cUxOM0FLWDNWdkVHWXFsSXBRVUU3ekVXUzJkRnQ0TkY5THZhS2tQSmlyNUltVTM1ejRqRlg4RW5Jc0UxM3VHeXhHWnNaTW9rTldrekdaVzhiakNLUUlXWW9HNDZRT0FmZmVlU1NB?oc=5)
+
+2026-05-19 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hQVJzaEtwemtRelRBLTMwN2IxUDE4THBNMUZuWTZoOG15b2VXLVF2MVh1NlVMVnNBa3dISXJzYTRJQ3Fkb29NaXh5SHkzNVVnWGxFdVN2cEhrY3g0T21Ccl9pTGLSAWpBVV95cUxOM0FLWDNWdkVHWXFsSXBRVUU3ekVXUzJkRnQ0TkY5THZhS2tQSmlyNUltVTM1ejRqRlg4RW5Jc0UxM3VHeXhHWnNaTW9rTldrekdaVzhiakNLUUlXWW9HNDZRT0FmZmVlU1NB?oc=5)
+
+---
+
+### [癌王盯上年輕人！醫警「1族群暴增」風險飆48%](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaM2NNOV85SFhPUGRKZGdnaEptYUdXX1lIaGNVMDRPQ2lvVU44eTJWVnhpMjdfeWtpdzJpeGZCSXZIYVU3ZEJXSzEyUHB6bEMyYzJFQQ?oc=5)
+
+2026-05-19 <span class="news-indication-tag">癌症</span>
+
+來源：[品觀點](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaM2NNOV85SFhPUGRKZGdnaEptYUdXX1lIaGNVMDRPQ2lvVU44eTJWVnhpMjdfeWtpdzJpeGZCSXZIYVU3ZEJXSzEyUHB6bEMyYzJFQQ?oc=5)
+
+---
 
 ### [癌症患者屬生蛇高危一族 注射預防疫苗減低風險](https://news.google.com/rss/articles/CBMi5wJBVV95cUxOSEVLbXppUENmX0tJT2J3c0VQM25qS1lBZzh0djhxdDIwZE5ITHVLb3k5ZUVwZ2JTeXktdS1CM20yUUFHTXF1QzFtUUFmN1NWSGhrMjEzODdHMzNTZWNJX1hLcnFLVGYzQUQxbHhRYVloNlc5aXJJY2lobHdHOXg1Qk01ZWtDQVBoR3hLQ1lwLUtubm93MkZER1BTdVJRTzhHZG1uc2lWQmNvcGRTMi1wVEV4bFNRX2pvOFQ3eFRYcDlRYUxiMTBNLU5IR3YxRTQ0eWI1dVRDN2VRU2hPeTBDTjNVVFFnR2l5WGhlVFIzLVhXUE4wTk1naG9KNGJfUlREaTU3aVlUNFRUZjJaOUNDRkMzQUQ0azBGcTdkRktXQUtaYjc4VzRQVGZtZEc0YkdJT1VxRFl3ZVMtb0R2b0FMMzhtbC1kM3NmRDItRE1rR0lUbFRqdVFSVXZWVURCR2tFd0RaeHU3UQ?oc=5)
 

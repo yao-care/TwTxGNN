@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,15 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [癌王盯上年輕人！醫警「1族群暴增」風險飆48%](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaM2NNOV85SFhPUGRKZGdnaEptYUdXX1lIaGNVMDRPQ2lvVU44eTJWVnhpMjdfeWtpdzJpeGZCSXZIYVU3ZEJXSzEyUHB6bEMyYzJFQQ?oc=5)
+
+2026-05-19
+
+來源：[品觀點](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaM2NNOV85SFhPUGRKZGdnaEptYUdXX1lIaGNVMDRPQ2lvVU44eTJWVnhpMjdfeWtpdzJpeGZCSXZIYVU3ZEJXSzEyUHB6bEMyYzJFQQ?oc=5)
+
+---
 
 ### [癌症患者屬生蛇高危一族 注射預防疫苗減低風險](https://news.google.com/rss/articles/CBMi5wJBVV95cUxOSEVLbXppUENmX0tJT2J3c0VQM25qS1lBZzh0djhxdDIwZE5ITHVLb3k5ZUVwZ2JTeXktdS1CM20yUUFHTXF1QzFtUUFmN1NWSGhrMjEzODdHMzNTZWNJX1hLcnFLVGYzQUQxbHhRYVloNlc5aXJJY2lobHdHOXg1Qk01ZWtDQVBoR3hLQ1lwLUtubm93MkZER1BTdVJRTzhHZG1uc2lWQmNvcGRTMi1wVEV4bFNRX2pvOFQ3eFRYcDlRYUxiMTBNLU5IR3YxRTQ0eWI1dVRDN2VRU2hPeTBDTjNVVFFnR2l5WGhlVFIzLVhXUE4wTk1naG9KNGJfUlREaTU3aVlUNFRUZjJaOUNDRkMzQUQ0azBGcTdkRktXQUtaYjc4VzRQVGZtZEc0YkdJT1VxRFl3ZVMtb0R2b0FMMzhtbC1kM3NmRDItRE1rR0lUbFRqdVFSVXZWVURCR2tFd0RaeHU3UQ?oc=5)
 

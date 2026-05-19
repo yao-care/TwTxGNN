@@ -1,12 +1,295 @@
 {
-  "last_updated": "2026-05-19T02:52:56.574956+00:00",
-  "total_count": 16,
-  "matched_count": 4,
+  "last_updated": "2026-05-19T06:41:28.564130+00:00",
+  "total_count": 19,
+  "matched_count": 8,
   "news": [
+    {
+      "id": "28903acb08ef",
+      "title": "長壽基因或保護腦細胞 降低老化與失智症風險",
+      "published": "2026-05-19T06:06:00+00:00",
+      "summary": "長壽基因或保護腦細胞 降低老化與失智症風險&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hQVJzaEtwemtRelRBLTMwN2IxUDE4THBNMUZuWTZoOG15b2VXLVF2MVh1NlVMVnNBa3dISXJzYTRJQ3Fkb29NaXh5SHkzNVVnWGxFdVN2cEhrY3g0T21Ccl9pTGLSAWpBVV95cUxOM0FLWDNWdkVHWXFsSXBRVUU3ekVXUzJkRnQ0TkY5THZhS2tQSmlyNUltVTM1ejRqRlg4RW5Jc0UxM3VHeXhHWnNaTW9rTldrekdaVzhiakNLUUlXWW9HNDZRT0FmZmVlU1NB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b39c6161036f",
+      "title": "赴美旅遊染「溪谷熱」誤當流感 印度工程師病情惡化插管30 天客死他鄉",
+      "published": "2026-05-19T06:00:29+00:00",
+      "summary": "赴美旅遊染「溪谷熱」誤當流感 印度工程師病情惡化插管30 天客死他鄉&nbsp;&nbsp;bastillepost.com",
+      "sources": [
+        {
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOR2xxd3hzbHZDQS1hWldhMEhZVnJET18zbEdkOGJBeDhKNmpTTVVRTHo2QTFQT3R5ZVYtbGpTZzdxM2VPZ3pJb3RqSzNIWW91d1VNRElHTUJVUDZhUklQbGt5UkRNbzFyb1BaVUt4ZmFMUUNMXzlVWmhqRW9GVlBPajRvRmM5SEFzU1Y4czRwbGdEVkNyaWlSOXRmX203TjYxLWkycmpWWkNuT0pSa2lKWmJBNjRXT0hlQVdzSlN4blJlQUFEUnhGWVI1dzFxbUpqNEdwN2JBQ19qVzBVX19SRzVIVmxnaFRXRXZoSXViQlpTZnlZYmNISE9FWng1OHBTbkdtSzgyTHBfUjhZM29DeUxkMDl0UnJpazRGaXl4TGpqZENyaUpDVktyWjhMaUtwRjVSd2h2enVCX09sUXppTnVzdmFUUnIzdDlvRDdfZm16SFZEakJpVUllN0xlRzZkQzI4dG9hRXlUcEdBVGhJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "194fe9849537",
+      "title": "癌王盯上年輕人！醫警「1族群暴增」風險飆48%",
+      "published": "2026-05-19T05:33:09+00:00",
+      "summary": "癌王盯上年輕人！醫警「1族群暴增」風險飆48%&nbsp;&nbsp;品觀點醫界震驚！「癌王」正在年輕化：重症醫曝7大保命行動&nbsp;&nbsp;Yahoo新聞癌症年輕化成不可逆趨勢？但調整生活習慣仍可降低風險&nbsp;&nbsp;TechNews 科技新報癌王正在年輕化！醫點名「1族群」最危險 風險飆48%&nbsp;&nbsp;祝你健康奪命癌王年輕化！醫揭「15～34歲」增速最快 7招降風險&nbsp;&nbsp;ETtoday健康雲",
+      "sources": [
+        {
+          "name": "品觀點",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaM2NNOV85SFhPUGRKZGdnaEptYUdXX1lIaGNVMDRPQ2lvVU44eTJWVnhpMjdfeWtpdzJpeGZCSXZIYVU3ZEJXSzEyUHB6bEMyYzJFQQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2d1c92e855d8",
+      "title": "每天喝手搖飲…竟然是月經亂掉的原因？醫揭胰島素阻抗惡性循環",
+      "published": "2026-05-19T02:57:58+00:00",
+      "summary": "每天喝手搖飲…竟然是月經亂掉的原因？醫揭胰島素阻抗惡性循環&nbsp;&nbsp;中天新聞網多囊吃不多卻一直胖？醫揭「最有效運動」 做錯反而更難瘦&nbsp;&nbsp;Yahoo新聞「多囊性卵巢」改名了！新醫學證實：別只看婦科，這類女性心梗風險高2.5倍&nbsp;&nbsp;TVBS 健康2.0經期亂、長痘痘、瘦不下來？「多囊性卵巢」正式改名 PMOS！婦產科醫師：它從來不只是卵巢問題，而是全身荷爾蒙在罷工&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網影響全球1.7億女性！ 多囊性卵巢症候群將正名多內分泌代謝卵巢症候群&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zVjBJZTFNUUlReEdHTDZXbTF2TjhaRUdBWFExSjFXTHBxN2VZMnlHQUhaeUJxVVN3NHAxRU5EZWZLMmd0a2ZpTVNaeTdDNHAteGE0?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "7e9e77ae026e",
       "title": "每天出門散步30分鐘 晒太陽看風景防老化",
-      "published": "2026-05-19T00:48:30+00:00",
+      "published": "2026-05-19T02:48:45+00:00",
       "summary": "每天出門散步30分鐘 晒太陽看風景防老化&nbsp;&nbsp;人間福報電子報",
       "sources": [
         {
@@ -237,6 +520,19 @@
       ]
     },
     {
+      "id": "8ebad7156791",
+      "title": "加強型流感疫苗 長者保護力不腰斬",
+      "published": "2026-05-18T20:10:00+00:00",
+      "summary": "加強型流感疫苗 長者保護力不腰斬&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUkxxQW04X2x6M193Z09wc0F3ek5TN2NZbkRaR3hoZzZDcEI4NUlvdXVBVDJhc2hqM0V3dndyaEt1eW5ndE5YOVhmd2lJZk1Wa0NkV3JNREFZa1Rad0tPSkE3c1d4bWdkQzcyeDFFSnJrWUR2Mm1oV0M1LTkyUWs1TkIwVW9wdnZrSkNXYkZaLUdNV2ZyYm8wMGlpbERHakZkTGtHR18wMTBDSFpJYTdZejhRVUVmVGxTWkpBbGVYNWtxanVfN3VzcTY1Sjd5T0RjWlFpekpIbWtHOUJLd3VzRHBubmxxT05tNzhhb2pucm55bmV2TnExUzRBbmhZZjhxcERaOVlKS0w?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "8fe9b0d5edda",
       "title": "越南男「3×4×5公分」乳霜罐塞肛門卡死 滑入深處拔不出下腹劇痛！急送醫取出",
       "published": "2026-05-18T11:11:47+00:00",
@@ -253,7 +549,7 @@
       "id": "ff1b0840176f",
       "title": "肥胖、有糖尿病更容易罹癌？醫揭：高胰島素可能成癌細胞生長訊號",
       "published": "2026-05-18T10:43:23+00:00",
-      "summary": "肥胖、有糖尿病更容易罹癌？醫揭：高胰島素可能成癌細胞生長訊號&nbsp;&nbsp;Yahoo新聞血糖太高會得大腸癌、胰臟癌、肝癌！名醫苦勸：多吃這些食物才能防癌&nbsp;&nbsp;Yahoo新聞血糖正常就沒事？台日最新研究：出現這狀況12種癌症風險飆升&nbsp;&nbsp;早安健康肥胖，真的會增加乳癌風險嗎？深入解析體內悄悄進行的變化| 照護線上-深受信賴的醫療媒體&nbsp;&nbsp;careonline.com.tw胰島素阻抗易引發代謝異常 增12癌風險&nbsp;&nbsp;大纪元",
+      "summary": "肥胖、有糖尿病更容易罹癌？醫揭：高胰島素可能成癌細胞生長訊號&nbsp;&nbsp;Yahoo新聞血糖太高會得大腸癌、胰臟癌、肝癌！名醫苦勸：多吃這些食物才能防癌&nbsp;&nbsp;Yahoo新聞血糖正常就沒事？台日最新研究：出現這狀況12種癌症風險飆升&nbsp;&nbsp;早安健康肥胖，真的會增加乳癌風險嗎？深入解析體內悄悄進行的變化| 照護線上-深受信賴的醫療媒體&nbsp;&nbsp;careonline.com.twAI預測胰島素阻抗與12種癌症風險關聯研究 - 大紀元健康&nbsp;&nbsp;大纪元",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -577,14 +873,14 @@
       ]
     },
     {
-      "id": "27afe20975e8",
-      "title": "女性免疫力強竟藏殘酷代價！實測百萬細胞曝防線過激 反遭「這系統」吞噬 | 自由電子報 - LINE TODAY",
-      "published": "2026-05-18T05:21:46+00:00",
-      "summary": "女性免疫力強竟藏殘酷代價！實測百萬細胞曝防線過激 反遭「這系統」吞噬 | 自由電子報&nbsp;&nbsp;LINE TODAY",
+      "id": "c290b6a35cb8",
+      "title": "女性免疫力強竟藏殘酷代價！實測百萬細胞曝防線過激 反遭「這系統」吞噬",
+      "published": "2026-05-18T04:35:40+00:00",
+      "summary": "女性免疫力強竟藏殘酷代價！實測百萬細胞曝防線過激 反遭「這系統」吞噬&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFOVY0aVRJMmZGS2hPamxsUXptZkZsSDB3NjdmODZRWUZrcjhJLXd5Um5WS0dtcUVYeFlhaVc2WVVlaU93WE5sWU1SU2ZwSVptbDdoSEtR?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxQUzE5cUVFQVJKcVEzazAzTzBCZDZWay1aUUdlMVhBSnUwbmxKQXRXb0wzSTA3a2pEcjhWRWZkQzIxcWZBa0dHYnpyTnRTTVMwSDlQMmhpbFYyRGctUlpZRkkxU3NweUh6MnUyTXFycFNYRFBBOGxYbTNtdzhTREdRSHR0VjRaQnJqS2ZVNUpmc1dvQWpEanQ3T3dweDlSR2lmQ2dUQ3hWVzg1Vkg1b0oydTVQOHNlWXFVOENMTmJxV2FMZS1NUjNtUnRPS09yY2hCb3hYeHFId2xuc3BYc3BRV0U3Q3gtaE13QUY0UFlDUUJhNVhjZmpUdGRZbVF0S28xbHVEZkxZTUNsOXhqVm45VVl3OE5GMjJsblJrX2xhUVJQLVprN1F6SFZ0Tm1qRzE1TjcxdGN3ZzZscWVWQVNnSU9oMzNzajQtMy1jczU3Zm1peHpkdTRjNkRLTXkzN2JUb0RBTXlfQXFkNXBqVzkyYXVKb2VLWXpSR05KcG4wUjF6a3ZSbV92cTF4UW93OWhZQUVjZHlJbWNXcFBxQzFtUnhiTV9GcXpmUE50ZklCemRwS09HbVNaQXhNSjZBOWI2?oc=5"
         }
       ],
       "matched_keywords": []
@@ -593,14 +889,26 @@
       "id": "225700bbc38b",
       "title": "健康網》守護寶寶呼吸 RSV防護有新招：長效型單株抗體",
       "published": "2026-05-18T04:21:00+00:00",
-      "summary": "健康網》守護寶寶呼吸 RSV防護有新招：長效型單株抗體&nbsp;&nbsp;自由健康網比流感更兇！RSV重症住院率高16倍 營養師點名3類人要特別留意&nbsp;&nbsp;民報長者嚴防呼吸道合胞病毒死亡率逾兩成 未有治療藥物&nbsp;&nbsp;信報網站臺南市RSV疫苗補助上路 弱勢孕婦可免費接種&nbsp;&nbsp;新住民全球新聞網防疫缺口 RSV襲長照 醫界籲納公費疫苗&nbsp;&nbsp;UDN",
+      "summary": "健康網》守護寶寶呼吸 RSV防護有新招：長效型單株抗體&nbsp;&nbsp;自由健康網比流感更兇！RSV重症住院率高16倍 營養師點名3類人要特別留意&nbsp;&nbsp;民報這不是普通感冒！1病毒住院率比流感高出16倍 | 民視新聞網&nbsp;&nbsp;LINE TODAY長者嚴防呼吸道合胞病毒死亡率逾兩成 未有治療藥物&nbsp;&nbsp;信報網站比流感更兇的病毒！呼吸道融合病毒RSV&nbsp;&nbsp;品觀點",
       "sources": [
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzN0FNU3Z3TDhUNVlJS1hHWi1jWTR2VUM2aHBWSEFKMVRNS21IbnhISlk2b1JzZ3djbDNTbG01MUJJLWFmUjlFV21YNDNmdl9wbFhmanRqd0k5UmFNTTgtbG1sS0XSAWpBVV95cUxNcGR4dTlLZnBfaVZnNmNwa1I0MkVLazJyd1g3Q2ZTOFI5WkFUX0o1S3JmOUlEc0w5QzVaZVA4bkhLRjl2UDBMLUxGZTB6VGFqcl90NUFuRWI1X2NaUUo4VmdRMDU0dVJLSUhB?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "f9b1cb94b309",
@@ -611,19 +919,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxObldLdDVYZEJjcEtUdW5Sek1RcTRTTFBLdjhrYW4yRlh0M0hsNW1vUTdEMi1rbnRTb21PU3duRmZUSm9lNXdsbnktM0RMaE9UWmtldlpvR1lYUHlzYVpNWEpPVzJhNmhDSElZbXpNRVlnaTdUcUgzOHEyX0owTG95d0ZXaGtLd0VKcWF6RHFWbmlTN3piR2xfS0V0S3p1VDNLUjZhZS03c1RDUThLamdfeDltbGVNbmtYcmtCbjlBejhNS0JZUTBVYzF3cDNmTGhRMllvU1NGOTE5b2FsaENMdlRaaFdrOHZjX2sxV2x2clBJbS02R21rU2J3NFJ1OXo1T29kWlI3a2IxMUZncjZwYUFFbDhQZkVkbTdzVFpoT0pIUlFTQnFuMndiVzZJcllsS2s3Zk5Vd2NZUVl5c3pUdWhLNEhueDN1Wnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a83071f4c691",
-      "title": "經期亂、長痘痘、瘦不下來？「多囊性卵巢」正式改名 PMOS！婦產科醫師：它從來不只是卵巢問題，而是全身荷爾蒙在罷工 - Mombaby 媽媽寶寶懷孕生活網",
-      "published": "2026-05-18T03:00:26+00:00",
-      "summary": "經期亂、長痘痘、瘦不下來？「多囊性卵巢」正式改名 PMOS！婦產科醫師：它從來不只是卵巢問題，而是全身荷爾蒙在罷工&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "Mombaby 媽媽寶寶懷孕生活網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEd2M5d3pmcHBoWlhIMjQyeDJOU2pxdi1rQU5raWZQb1lKMTF1ZkhCNzI0SDFFUDZFSXltb0xqbG5wNldrN1QzZkxoZnhTOFkzajM2VXlR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -875,19 +1170,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "cc031653b768",
-      "title": "她長甲狀腺囊腫靠這樣做消失了！名醫也大推 2營養素超關鍵",
-      "published": "2026-05-17T02:57:03+00:00",
-      "summary": "她長甲狀腺囊腫靠這樣做消失了！名醫也大推 2營養素超關鍵&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPQ3ZKMmpZdWRSTmlveDJIbkRIYzMxQjFPZzdUa2JLQUdkSjNfS05DejhyOTMtOXN0UXdJNWxSX0YyYXc4REc3WGVBREFMTjVvRmhJbldQenVBOWRTUWMwNUVKNXlxaHdCWl9aQlRWekRYVjFQNkdaMzJWeGU5eV9ucllQWmEtbG9PU25LTWQzaWRsRDVBb3Jza3U3bFN3U0YxN05RYjEtYnlWU3NnVndBWW5LcXFkc1FKSWxWOTlZWXVPRW5JNkFYNXF1OEl1RlJxR3oxOUFoWFBPWHRYbmpYdFZMTGtJUjY3aTFwako5aUpDTUIyZHVQVEJDYUhDS1Rpb0FwZXVqcEVISG40bzZxYjVWOEZ6YVNZekVVdl9LTGhmemVOd2lCamR1OFd6WlBnUmJmSUs0blR1QmZDYnJuRWNqTU1pQkNXZ1pZOS04cVpUa0hrNkZNYUJ2QldaVkllWndZOFJFQXFNbTVHak0wWWpwUUJQdGpWN2tZZF9IT2g0SVk?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "554d4b56a4a9",
