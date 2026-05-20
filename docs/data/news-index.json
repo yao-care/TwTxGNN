@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-19T23:55:31.406037+00:00",
-  "count": 6,
+  "generated": "2026-05-20T02:34:13.162415+00:00",
+  "count": 7,
   "news": [
     {
       "id": "5878841b163f",
@@ -46,37 +46,13 @@
       ]
     },
     {
-      "id": "6cf6c4000bbb",
-      "title": "小腹大消不掉？刺胳針最新更名代謝病 醫曝3招免吃藥逆轉失調 - TVBS 健康2.0",
-      "published": "2026-05-19T09:32:37+00:00",
+      "id": "ba76d488a460",
+      "title": "健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵",
+      "published": "2026-05-19T08:27:00+00:00",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tM0xfa1VxWXpxLXB4Q2dVQ3gtcy1TaHRtNXd5dHlpc09pMHZvUVc1SDluZkNkdGY1dEJNYVlBb05sSkg3UjI1NjYzRDJrcXRwTnZR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心梗",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "abd076981949",
-      "title": "癌王盯上年輕人！醫警「1族群暴增」風險飆48%",
-      "published": "2026-05-19T06:59:51+00:00",
-      "sources": [
-        {
-          "name": "天天上新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yZEJkSVRBUkQ1MkJZTGhaSzVvX0F3Umpma2EtcU5NQW1IZlQ0X2hNQ3M0a3FqRHN5Nl9SRnNxb2VNdG53SXhRQmVINE5jZw?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5"
         }
       ],
       "keywords": [
@@ -331,6 +307,318 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "31fae2cff7d5",
+      "title": "AI模型僅靠單次MRI掃描 精準預測阿茲海默症病程",
+      "published": "2026-05-19T03:33:35+00:00",
+      "sources": [
+        {
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPSWhNM3JyWW41Zm9FNkdRenJtUWF3ZjlNUnV2cWJZMWRaNmQ2Rm9nanh4S1JqbnFUcTlabW9DVXJhVU81OTY3RDdWbFViUzM1SmNTT3dWazdwLTRrRndWcTNmYXVVdzBSVHFBQ1NhTXdVQ2hPT1d2NS1oT0lOa3ZYTU1WSzNRcmZXVE9SYnNGdlctRlJ3T215ZDBSYnFCTjJFcTZRbnFwTTh4d2lVd01SekRRS3ZocHJOSExCbUJ0ZHdKdU9hODFVSDJpUUItY0tvU3kyNDNaQ0tYUngxNVZPOVM1QkctNjBRM1NPN0hTTXMtWU1vWFlrQ1MtU2xxT2U2UVpEcncxV1g4X2tHYjZzaDZWelJoaGxfc2RZaWtpZlB5N3h6emI0bWlWZjZKd0ZqZEM0bU9vT2tQa25oOXpCM1lxM1F4OGFwcjdCR0VNZG5aYWJpVkR5ck5fT0Rmb00?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "58ba86f39a60",
+      "title": "血糖太高會得大腸癌、胰臟癌、肝癌！名醫苦勸：多吃這些食物才能防癌",
+      "published": "2026-05-19T00:00:38+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxONUx3dWlNbVZjbHZVVTdhTm95VnNDVVc5SmxZd2dkMDJkYVIyb1pMVmgwQ1R3VUlpbkRfZXpKMnNySm9WQ0E3VDJYZlhHSlpLZnNmQl9wMHI4Tmo1amgyYTlyd3AwbmhlZEY2aHAzaFhyaDZEQmhNZkVHMVNZUlVIRVdBZVZyd2VkdFVMWmdnQXIzeEY4dGJoa3F3aWRDSWxxNHl0REo4b1lSY3RvYVNQY29UYU1wcy1OQVExSUp3WGY1d29mcWhtbm9iYTJsaTZqdnJQV3NUSm5xaWxXS21DdjQ2c1BjZTV3aS1tNHN0YUczTzVURFNDTmtlemxoZGt6N09zdURpcGt0QUxZS3ltV29ETkVuZGQ0bktMZ3BsZzRWMU1kZjJPeFp5UjZ4NmdWUGNSdXVFbGF1LXFYMXY3N2tIUU8tWUI0SWhGYXRWa1l0WGRpWjlTNDA2eEc2eG95bXAtTGdQckMtelBBY2xTVmR0dEtmNnlqWVZ1UnpOQUZJamZYYmZZWnR3Wm5KajZPTDJPRWk5OUVvWElOaFpDYklQa3Y1LXBR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "liver sarcoma",
+          "keyword": "肝癌",
+          "related_drugs": [
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }

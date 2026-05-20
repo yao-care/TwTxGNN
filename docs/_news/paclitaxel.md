@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/paclitaxel/
 <li><strong>原適應症</strong>：卵巢癌、乳癌、非小細胞肺癌、胃癌、食道癌、頭頸癌、膀胱癌、子宮頸癌</li>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>female breast carcinoma（100.0%）</li>
+<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
 <li>estrogen-receptor negative breast cancer（99.9%）</li>
 <li>hormone-resistant breast carcinoma（99.9%）</li>
 <li>estrogen-receptor positive breast cancer（99.9%）</li>
@@ -42,13 +42,13 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [癌王盯上年輕人！醫警「1族群暴增」風險飆48%](https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yZEJkSVRBUkQ1MkJZTGhaSzVvX0F3Umpma2EtcU5NQW1IZlQ0X2hNQ3M0a3FqRHN5Nl9SRnNxb2VNdG53SXhRQmVINE5jZw?oc=5)
+### [健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
 
 2026-05-19 <span class="news-indication-tag">癌症</span>
 
-來源：[天天上新聞](https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yZEJkSVRBUkQ1MkJZTGhaSzVvX0F3Umpma2EtcU5NQW1IZlQ0X2hNQ3M0a3FqRHN5Nl9SRnNxb2VNdG53SXhRQmVINE5jZw?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
 
 ---
 
@@ -57,6 +57,14 @@ permalink: /news/paclitaxel/
 2026-05-19 <span class="news-indication-tag">子宮頸癌</span>
 
 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMipAVBVV95cUxOSE8wd3ZCUm05N1h1V0x5VmhqUUp0UHZkTE8tdWljaWpnM3pqSTFYZTlZdjhnLU5VaUd2ZTlCeGpaNHk4V2dMZHl0ZVIyZnZJX00yUElJVFBQc3BEQ0dfTGVkTEk0T2g2d0l3SUlQT1d2c1Jjbkw0b3VRZ0xPY0tHZXRhenM2eVRMYUJiak4tWmFhbkZDcTkzTHhldU5mdVdEUEZKbHZfUzhjSnhoSlllN1dVZUVlQmYxNU1SeGdpWXRGUnlpODlxc2xyM3FXek9nNjY1TnZpUkNTXzItTEZVeHFGTTN0WjJIRFk5Y0cyNFlWVXVDVVFSQzF2WjhUOFVUYndEakpXSlpZV2RzTm8wbHU1Ym9QcEdwTWVEYmNwWFRqek5iem9HWnl6S2JhRFJGbDZwX3p2RHNnaW5ULVhZNWcwYXFuQjhqVXhYSmtrSWFCUC1lWmpfbWVDZEtKZ3gycWRlNlIzbTJsR1QyVmo4YTdRX1lLb3BvaUNNd19yOGdJeUtGSXFvNGw3c2kxNXE5R2xmRDJ6R0dmWkJOS2g4WlFUQnh6N0JRXzFTWWhhVG04REZ2cGg0Y2p4aHM3bk9fbldUVm5ZMVQzVHNCcmVrTlJJSUJ5MkZsNFZQcWVGNndFRzVFNHNVTURpbkVTWE1WUWN4cHkzQkI1NHhmamxpaldhVHhaY0RuYXVIbHJ3VGhqaS1oVEpySmRNX3VHYlBwM1VSdkQ5MnRJcl8xMDBLY0Y4cHhQZW9iWEx0SXp0R1RpMXpiblZSTEk3Q2ZTaEFqVmpZTmNGZVZWeU53ZFJvUDZ1R0RjZlNMN3R6eWl6QlZiTldfRWlMWldNZ3l2TENiUzdjQ0lJR2FVVll6NFVOUzBhWjJzNGpyWEdFbTdwYUxtbm5k?oc=5)
+
+---
+
+### [血糖太高會得大腸癌、胰臟癌、肝癌！名醫苦勸：多吃這些食物才能防癌](https://news.google.com/rss/articles/CBMiqANBVV95cUxONUx3dWlNbVZjbHZVVTdhTm95VnNDVVc5SmxZd2dkMDJkYVIyb1pMVmgwQ1R3VUlpbkRfZXpKMnNySm9WQ0E3VDJYZlhHSlpLZnNmQl9wMHI4Tmo1amgyYTlyd3AwbmhlZEY2aHAzaFhyaDZEQmhNZkVHMVNZUlVIRVdBZVZyd2VkdFVMWmdnQXIzeEY4dGJoa3F3aWRDSWxxNHl0REo4b1lSY3RvYVNQY29UYU1wcy1OQVExSUp3WGY1d29mcWhtbm9iYTJsaTZqdnJQV3NUSm5xaWxXS21DdjQ2c1BjZTV3aS1tNHN0YUczTzVURFNDTmtlemxoZGt6N09zdURpcGt0QUxZS3ltV29ETkVuZGQ0bktMZ3BsZzRWMU1kZjJPeFp5UjZ4NmdWUGNSdXVFbGF1LXFYMXY3N2tIUU8tWUI0SWhGYXRWa1l0WGRpWjlTNDA2eEc2eG95bXAtTGdQckMtelBBY2xTVmR0dEtmNnlqWVZ1UnpOQUZJamZYYmZZWnR3Wm5KajZPTDJPRWk5OUVvWElOaFpDYklQa3Y1LXBR?oc=5)
+
+2026-05-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">肝癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiqANBVV95cUxONUx3dWlNbVZjbHZVVTdhTm95VnNDVVc5SmxZd2dkMDJkYVIyb1pMVmgwQ1R3VUlpbkRfZXpKMnNySm9WQ0E3VDJYZlhHSlpLZnNmQl9wMHI4Tmo1amgyYTlyd3AwbmhlZEY2aHAzaFhyaDZEQmhNZkVHMVNZUlVIRVdBZVZyd2VkdFVMWmdnQXIzeEY4dGJoa3F3aWRDSWxxNHl0REo4b1lSY3RvYVNQY29UYU1wcy1OQVExSUp3WGY1d29mcWhtbm9iYTJsaTZqdnJQV3NUSm5xaWxXS21DdjQ2c1BjZTV3aS1tNHN0YUczTzVURFNDTmtlemxoZGt6N09zdURpcGt0QUxZS3ltV29ETkVuZGQ0bktMZ3BsZzRWMU1kZjJPeFp5UjZ4NmdWUGNSdXVFbGF1LXFYMXY3N2tIUU8tWUI0SWhGYXRWa1l0WGRpWjlTNDA2eEc2eG95bXAtTGdQckMtelBBY2xTVmR0dEtmNnlqWVZ1UnpOQUZJamZYYmZZWnR3Wm5KajZPTDJPRWk5OUVvWElOaFpDYklQa3Y1LXBR?oc=5)
 
 ---
 
