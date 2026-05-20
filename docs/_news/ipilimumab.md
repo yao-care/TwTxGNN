@@ -14,7 +14,7 @@ permalink: /news/ipilimumab/
 ---
 
 <p class="key-answer" data-question="Ipilimumab 有什麼相關新聞？">
-<strong>Ipilimumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Ipilimumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,15 +33,7 @@ permalink: /news/ipilimumab/
 <p><a href="{{ '/drugs/ipilimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [胰臟癌年輕化！15-39歲「癌王」發生率拉升近5成…胰臟癌如何檢查、症狀？醫揭做「7件事」防禦](https://news.google.com/rss/articles/CBMigAFBVV95cUxOQml6YlcweFdfSDlWUkpoS1U0bGdMYmVqNmRMYnBoYk5FUkZKT184NXY4N0o5YzhYYThYdEl4bmlkLTVCdXVjbUhvTFhIWHdNUVZUUnN4VUMySFN1RmxoXzRCV1VkMV9MSkJEUUNGQnR0bWtkOWRLeUQ3VU4zV2MxcA?oc=5)
-
-2026-05-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[今周刊](https://news.google.com/rss/articles/CBMigAFBVV95cUxOQml6YlcweFdfSDlWUkpoS1U0bGdMYmVqNmRMYnBoYk5FUkZKT184NXY4N0o5YzhYYThYdEl4bmlkLTVCdXVjbUhvTFhIWHdNUVZUUnN4VUMySFN1RmxoXzRCV1VkMV9MSkJEUUNGQnR0bWtkOWRLeUQ3VU4zV2MxcA?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [血糖太高會得大腸癌、胰臟癌、肝癌！名醫苦勸：多吃這些食物才能防癌](https://news.google.com/rss/articles/CBMiqANBVV95cUxONUx3dWlNbVZjbHZVVTdhTm95VnNDVVc5SmxZd2dkMDJkYVIyb1pMVmgwQ1R3VUlpbkRfZXpKMnNySm9WQ0E3VDJYZlhHSlpLZnNmQl9wMHI4Tmo1amgyYTlyd3AwbmhlZEY2aHAzaFhyaDZEQmhNZkVHMVNZUlVIRVdBZVZyd2VkdFVMWmdnQXIzeEY4dGJoa3F3aWRDSWxxNHl0REo4b1lSY3RvYVNQY29UYU1wcy1OQVExSUp3WGY1d29mcWhtbm9iYTJsaTZqdnJQV3NUSm5xaWxXS21DdjQ2c1BjZTV3aS1tNHN0YUczTzVURFNDTmtlemxoZGt6N09zdURpcGt0QUxZS3ltV29ETkVuZGQ0bktMZ3BsZzRWMU1kZjJPeFp5UjZ4NmdWUGNSdXVFbGF1LXFYMXY3N2tIUU8tWUI0SWhGYXRWa1l0WGRpWjlTNDA2eEc2eG95bXAtTGdQckMtelBBY2xTVmR0dEtmNnlqWVZ1UnpOQUZJamZYYmZZWnR3Wm5KajZPTDJPRWk5OUVvWElOaFpDYklQa3Y1LXBR?oc=5)
 

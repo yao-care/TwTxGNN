@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智（dementia） 相關新聞"
+title: "失智症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "失智症（dementia） 的相關健康新聞報導。6 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智（dementia） 相關新聞
+# 失智症（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
+<strong>失智症（dementia）</strong> 目前有 <strong>6 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,13 +29,37 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（6 則）
 
-### [腦退化先兆｜老人家常跌親響健康警號 失智風險暴增74% 研究：最快1年內確診【附腦退化徵兆】](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoYmE3THU4MkpXYXNjWVBSZUN0em9NTzdjOUJtc2UtWTlxTGpsTzg5YzJ6RkNoNmQxaDBNNnl5TWpnS0RBTFFzVlFYOVFrUm1nSWc?oc=5)
+### [失智症新發現：孤獨、失眠為風險因子 血液檢測助早期篩檢](https://news.google.com/rss/articles/CBMi_AJBVV95cUxPb1F6eG0tanlWZkRpY1pCZU4zZ2UxZWdSaGhPYnQ2Tk1DXzhZU0VRRml0ZVgwR2cxM2txV0xYMFV3dHlfYmI4UHYtbUtGOVhHUFR3MUtteURUdlctZ3pBMnd4SExLUmNXeGh4WTZFWHJsWVhScXJFbjNZNnVmWndFTU1vR1d3Y1RhcFZXS0lMZ3lmQjhOLTByYW5kNy1TTGp4eWJLQjVXczdma1NuczNDeUlnM2MxVzVJMTZ4UlpaWHBKZkR0dlZLUlhXQlFBR1BQU2RHdXRkNHBqZnBPR0M3elZ2SVY0VHVJNE8zanE2V3RQYmVWWU95TEdKWHEzRXlETEx2ZzRKLXM3N0tXellyLWlRU0RYV2ZXNHAwTXlVMHM5RGtkTEx1WU9iTzBDZ2F1b1pCMzJDMGgycG02MVgxVGlTVWZLbnl0aHBLSVg1M0JNcjE4YTgxN2plQ3lhVkpQZjVrcjJjRUJ5cWdJOEVJS25LNDdwVjBaWTc2Rw?oc=5)
 
 2026-05-20
 
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoYmE3THU4MkpXYXNjWVBSZUN0em9NTzdjOUJtc2UtWTlxTGpsTzg5YzJ6RkNoNmQxaDBNNnl5TWpnS0RBTFFzVlFYOVFrUm1nSWc?oc=5)
+來源：[行銷人](https://news.google.com/rss/articles/CBMi_AJBVV95cUxPb1F6eG0tanlWZkRpY1pCZU4zZ2UxZWdSaGhPYnQ2Tk1DXzhZU0VRRml0ZVgwR2cxM2txV0xYMFV3dHlfYmI4UHYtbUtGOVhHUFR3MUtteURUdlctZ3pBMnd4SExLUmNXeGh4WTZFWHJsWVhScXJFbjNZNnVmWndFTU1vR1d3Y1RhcFZXS0lMZ3lmQjhOLTByYW5kNy1TTGp4eWJLQjVXczdma1NuczNDeUlnM2MxVzVJMTZ4UlpaWHBKZkR0dlZLUlhXQlFBR1BQU2RHdXRkNHBqZnBPR0M3elZ2SVY0VHVJNE8zanE2V3RQYmVWWU95TEdKWHEzRXlETEx2ZzRKLXM3N0tXellyLWlRU0RYV2ZXNHAwTXlVMHM5RGtkTEx1WU9iTzBDZ2F1b1pCMzJDMGgycG02MVgxVGlTVWZLbnl0aHBLSVg1M0JNcjE4YTgxN2plQ3lhVkpQZjVrcjJjRUJ5cWdJOEVJS25LNDdwVjBaWTc2Rw?oc=5)
+
+---
+
+### [女性更易失智！風險比男性高2倍 醫點名5大傷腦地雷 50歲後必看護腦方式 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HNXFReGVydmNXVUVHMnRHamhiX1ZMQWJ5QXlWVVdlSGtkU1ZwcC1nOWNvcG5FVWtTSTV5a2l6U0Z1VW1vNkdsZERrZ192OXctaUE?oc=5)
+
+2026-05-20
+
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HNXFReGVydmNXVUVHMnRHamhiX1ZMQWJ5QXlWVVdlSGtkU1ZwcC1nOWNvcG5FVWtTSTV5a2l6U0Z1VW1vNkdsZERrZ192OXctaUE?oc=5)
+
+---
+
+### [講話常「嗯」、「啊」別只當口頭禪 說話方式恐暗藏失智風險](https://news.google.com/rss/articles/CBMiX0FVX3lxTE56ODQ4bHAxMWEzTGJQaWRQTUJDdmRnUGw2UVVsYkVLd1BJRkw5bW1GRkFxRi1kQU5ieURZcTlwZjk0OU93V3dWTXpHaDVxOWVNWVJVUUQzQ0QzcWQ3MHBr?oc=5)
+
+2026-05-20
+
+來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE56ODQ4bHAxMWEzTGJQaWRQTUJDdmRnUGw2UVVsYkVLd1BJRkw5bW1GRkFxRi1kQU5ieURZcTlwZjk0OU93V3dWTXpHaDVxOWVNWVJVUUQzQ0QzcWQ3MHBr?oc=5)
+
+---
+
+### [腦退化先兆｜老人家常跌親響健康警號 失智風險暴增74% 研究：最快1年內確診【附腦退化徵兆】](https://news.google.com/rss/articles/CBMizwRBVV95cUxOVzVBOEFoNk1mMnA5Mk1taktjZ2RjRkJBQVlLQ1pGaXUzSVJ6YlF4WHBQTnpxSllSM3QySVRDVlZJNzZHN1lvSVk3aG92S2E3WlJCcVc1eHJzNHI1Z0FrX0U3MERrZmRSVndCdjVPVmJCZlozdVJ0Sk1hWFpZWHFtcHYwTDNTSnNXMmZtZ2l1T3pRNjY1UmlKNHVzVGhvTWF3a1Y0Y1hrLXZBVlU5aUxyRmNBcWs1NHhXZGFwajJpSUktanJrV0xvQTk2c3pjRzZKSG1sWlYzRUZpd0FnaS1rY0ZKVGFaZDNIV054WmpFLS1oNW91ZXRJdXdSem1KOWZnVWV5d3ZWUlhRRDNLbTVham9kRmp6MXpVbTRZanRVbEFoRDZ3dUVkLVBIc3JnajUwRFVzcnRIQmp6bk9Falh5UVhfVVZNb2xXQU1xLUdtam9MLVFXbEVjYjg5YUJyQ1hsNkRhcUZhVXhHYTdMRng4Uzd0YzFFUmVOVWZsM0xaR1ZGZFBmVnpYdVZUVnlRZFBQSG53c3NhWkh0VU51NjlQb3dldHJQcVFXbTlZM28yZlRkOWpVV3BKY2cxWFk4QnZxdXYzTHNRRFFvQWM2dWp0Mk00NnhLT2l2UVFyZ2RsMktlSjltWUlYZjFVRS1FM1BzMWJKNEtLQkNpODFsTnFzYzNUYU1PTjNiRnNUSXhiY1pReFJ5MUlzODJmR0cwZWM2ZmJiMG9QWlUzeEhZNU96MkMwNzFua25EdnNfTDFnNE91bXk4RWhITFVYMDlhMTQ?oc=5)
+
+2026-05-20
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMizwRBVV95cUxOVzVBOEFoNk1mMnA5Mk1taktjZ2RjRkJBQVlLQ1pGaXUzSVJ6YlF4WHBQTnpxSllSM3QySVRDVlZJNzZHN1lvSVk3aG92S2E3WlJCcVc1eHJzNHI1Z0FrX0U3MERrZmRSVndCdjVPVmJCZlozdVJ0Sk1hWFpZWHFtcHYwTDNTSnNXMmZtZ2l1T3pRNjY1UmlKNHVzVGhvTWF3a1Y0Y1hrLXZBVlU5aUxyRmNBcWs1NHhXZGFwajJpSUktanJrV0xvQTk2c3pjRzZKSG1sWlYzRUZpd0FnaS1rY0ZKVGFaZDNIV054WmpFLS1oNW91ZXRJdXdSem1KOWZnVWV5d3ZWUlhRRDNLbTVham9kRmp6MXpVbTRZanRVbEFoRDZ3dUVkLVBIc3JnajUwRFVzcnRIQmp6bk9Falh5UVhfVVZNb2xXQU1xLUdtam9MLVFXbEVjYjg5YUJyQ1hsNkRhcUZhVXhHYTdMRng4Uzd0YzFFUmVOVWZsM0xaR1ZGZFBmVnpYdVZUVnlRZFBQSG53c3NhWkh0VU51NjlQb3dldHJQcVFXbTlZM28yZlRkOWpVV3BKY2cxWFk4QnZxdXYzTHNRRFFvQWM2dWp0Mk00NnhLT2l2UVFyZ2RsMktlSjltWUlYZjFVRS1FM1BzMWJKNEtLQkNpODFsTnFzYzNUYU1PTjNiRnNUSXhiY1pReFJ5MUlzODJmR0cwZWM2ZmJiMG9QWlUzeEhZNU96MkMwNzFua25EdnNfTDFnNE91bXk4RWhITFVYMDlhMTQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [胰臟癌年輕化！15-39歲「癌王」發生率拉升近5成…胰臟癌如何檢查、症狀？醫揭做「7件事」防禦](https://news.google.com/rss/articles/CBMigAFBVV95cUxOQml6YlcweFdfSDlWUkpoS1U0bGdMYmVqNmRMYnBoYk5FUkZKT184NXY4N0o5YzhYYThYdEl4bmlkLTVCdXVjbUhvTFhIWHdNUVZUUnN4VUMySFN1RmxoXzRCV1VkMV9MSkJEUUNGQnR0bWtkOWRLeUQ3VU4zV2MxcA?oc=5)
+### [29歲網紅妹「癌末身亡」！姐慟喊：一路好走...](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QZ3BpaDJHcmxZcXRzODNKdERVVGFnWEpOTkp0T3ZsV3J4LWtPWXhMTjFVQXI4dkdSV0FiQmoxMVF6ZVBSZ2FKVFpOeUYtc0N6dzBibmdpc0YwUQ?oc=5)
 
-2026-05-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-05-20 <span class="news-indication-tag">子宮頸癌</span>
 
-來源：[今周刊](https://news.google.com/rss/articles/CBMigAFBVV95cUxOQml6YlcweFdfSDlWUkpoS1U0bGdMYmVqNmRMYnBoYk5FUkZKT184NXY4N0o5YzhYYThYdEl4bmlkLTVCdXVjbUhvTFhIWHdNUVZUUnN4VUMySFN1RmxoXzRCV1VkMV9MSkJEUUNGQnR0bWtkOWRLeUQ3VU4zV2MxcA?oc=5)
+來源：[news.tvbs.com.tw](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QZ3BpaDJHcmxZcXRzODNKdERVVGFnWEpOTkp0T3ZsV3J4LWtPWXhMTjFVQXI4dkdSV0FiQmoxMVF6ZVBSZ2FKVFpOeUYtc0N6dzBibmdpc0YwUQ?oc=5)
 
 ---
 
@@ -57,14 +57,6 @@ permalink: /news/paclitaxel/
 2026-05-20 <span class="news-indication-tag">子宮頸癌</span>
 
 來源：[華人健康網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JSkRyRHVIcy1FQjVNZWZRbGczN056OU9WMFBEZ0QtN1FVQzlDMUdhWXYtNWlHS1FmUEZqME1yZWFOYWI0bHIzTTE1d0ExbFRFTmN3Z3pPSQ?oc=5)
-
----
-
-### [29歲網紅不敵子宮頸癌離世 曾為自己辦一人婚禮 留悲痛遺言：痛苦都體驗完才能解脫](https://news.google.com/rss/articles/CBMihARBVV95cUxQcVNuR2pJVjNBemZuaDlFNFlVWG5MNlJPclB4LUFJbEE4UEhUQjNJZmRMdnotSGhzU19Lb2ozbExKZ2dIWEg2aWI4Q29FSHIwVDhuNC1yc0xGeENBSDRCRUNCdGpNVElfS2w2dWZTV01HdXdHaS1VQnJvd29RcGtPR0RRZ2p2c3BMNWdDZnNiTWdIOWdkSFozNEpSZzl0Z3hVTEJ5YnU2aFdqQWVNYU5fclo2eGFGaGY5aUpDQkE4TEhFdVluSmw1U296Q0t6dWNGZFZwME1NeUlVeVduYmZwQWowdE1MWWJQZG5UU0tsU1Z6UFppbEl0OGRTQUVIR1l4TTRuV0JHQnJqNGxFVmF1eWdDWTdfTF85Q09YY0p1NV9ENjRFLVd3QVdOUlByZVZ3TGJoY2FPVFBJcTFSRHdTa3FnME1wMWNFeXJNVnRwRkh2aWFvZjk5RjdybWxkMW92MmJOUGZQODVpM2J5ODUwanhhMHFGeUpFQWh4MjlUUVpTV0lxc0tBTV9RN3pRaEJnN3BKaDNuUFlNb2I2QS1Ta0hfU0ZGNFZjRVlXRnJVc3IzTS1VRGpCZi1NSUVEbW01OXltUXh3Zl9YWUZZSGlUODRORlN3TzlOMlhwLXVUOW1xNDd1VzBEVWdGdXRWbWhjdERlak9QV3lfdHhJWXNfdU9RS0s?oc=5)
-
-2026-05-20 <span class="news-indication-tag">子宮頸癌</span>
-
-來源：[星島頭條](https://news.google.com/rss/articles/CBMihARBVV95cUxQcVNuR2pJVjNBemZuaDlFNFlVWG5MNlJPclB4LUFJbEE4UEhUQjNJZmRMdnotSGhzU19Lb2ozbExKZ2dIWEg2aWI4Q29FSHIwVDhuNC1yc0xGeENBSDRCRUNCdGpNVElfS2w2dWZTV01HdXdHaS1VQnJvd29RcGtPR0RRZ2p2c3BMNWdDZnNiTWdIOWdkSFozNEpSZzl0Z3hVTEJ5YnU2aFdqQWVNYU5fclo2eGFGaGY5aUpDQkE4TEhFdVluSmw1U296Q0t6dWNGZFZwME1NeUlVeVduYmZwQWowdE1MWWJQZG5UU0tsU1Z6UFppbEl0OGRTQUVIR1l4TTRuV0JHQnJqNGxFVmF1eWdDWTdfTF85Q09YY0p1NV9ENjRFLVd3QVdOUlByZVZ3TGJoY2FPVFBJcTFSRHdTa3FnME1wMWNFeXJNVnRwRkh2aWFvZjk5RjdybWxkMW92MmJOUGZQODVpM2J5ODUwanhhMHFGeUpFQWh4MjlUUVpTV0lxc0tBTV9RN3pRaEJnN3BKaDNuUFlNb2I2QS1Ta0hfU0ZGNFZjRVlXRnJVc3IzTS1VRGpCZi1NSUVEbW01OXltUXh3Zl9YWUZZSGlUODRORlN3TzlOMlhwLXVUOW1xNDd1VzBEVWdGdXRWbWhjdERlak9QV3lfdHhJWXNfdU9RS0s?oc=5)
 
 ---
 

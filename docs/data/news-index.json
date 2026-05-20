@@ -1,257 +1,122 @@
 {
-  "generated": "2026-05-20T10:19:48.999313+00:00",
-  "count": 12,
+  "generated": "2026-05-20T13:31:52.152313+00:00",
+  "count": 14,
   "news": [
     {
-      "id": "6167b75add7f",
-      "title": "胰臟癌年輕化！15-39歲「癌王」發生率拉升近5成…胰臟癌如何檢查、症狀？醫揭做「7件事」防禦",
-      "published": "2026-05-20T09:55:00+00:00",
+      "id": "c3874e0f7c4c",
+      "title": "失智症新發現：孤獨、失眠為風險因子 血液檢測助早期篩檢",
+      "published": "2026-05-20T13:26:05+00:00",
       "sources": [
         {
-          "name": "今周刊",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQml6YlcweFdfSDlWUkpoS1U0bGdMYmVqNmRMYnBoYk5FUkZKT184NXY4N0o5YzhYYThYdEl4bmlkLTVCdXVjbUhvTFhIWHdNUVZUUnN4VUMySFN1RmxoXzRCV1VkMV9MSkJEUUNGQnR0bWtkOWRLeUQ3VU4zV2MxcA?oc=5"
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPb1F6eG0tanlWZkRpY1pCZU4zZ2UxZWdSaGhPYnQ2Tk1DXzhZU0VRRml0ZVgwR2cxM2txV0xYMFV3dHlfYmI4UHYtbUtGOVhHUFR3MUtteURUdlctZ3pBMnd4SExLUmNXeGh4WTZFWHJsWVhScXJFbjNZNnVmWndFTU1vR1d3Y1RhcFZXS0lMZ3lmQjhOLTByYW5kNy1TTGp4eWJLQjVXczdma1NuczNDeUlnM2MxVzVJMTZ4UlpaWHBKZkR0dlZLUlhXQlFBR1BQU2RHdXRkNHBqZnBPR0M3elZ2SVY0VHVJNE8zanE2V3RQYmVWWU95TEdKWHEzRXlETEx2ZzRKLXM3N0tXellyLWlRU0RYV2ZXNHAwTXlVMHM5RGtkTEx1WU9iTzBDZ2F1b1pCMzJDMGgycG02MVgxVGlTVWZLbnl0aHBLSVg1M0JNcjE4YTgxN2plQ3lhVkpQZjVrcjJjRUJ5cWdJOEVJS25LNDdwVjBaWTc2Rw?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
+          "name": "dementia",
+          "keyword": "失智症",
           "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
             }
           ]
         },
         {
           "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
+          "name": "失智",
+          "keyword": "失智",
           "related_drugs": [
             {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
       ]
     },
     {
-      "id": "417aaced7440",
+      "id": "ff03956b78fe",
+      "title": "29歲網紅妹「癌末身亡」！姐慟喊：一路好走...",
+      "published": "2026-05-20T11:00:00+00:00",
+      "sources": [
+        {
+          "name": "news.tvbs.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QZ3BpaDJHcmxZcXRzODNKdERVVGFnWEpOTkp0T3ZsV3J4LWtPWXhMTjFVQXI4dkdSV0FiQmoxMVF6ZVBSZ2FKVFpOeUYtc0N6dzBibmdpc0YwUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01fed18a1f24",
+      "title": "女性更易失智！風險比男性高2倍 醫點名5大傷腦地雷 50歲後必看護腦方式 - TVBS 健康2.0",
+      "published": "2026-05-20T10:38:00+00:00",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HNXFReGVydmNXVUVHMnRHamhiX1ZMQWJ5QXlWVVdlSGtkU1ZwcC1nOWNvcG5FVWtTSTV5a2l6U0Z1VW1vNkdsZERrZ192OXctaUE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3ebc255b60c7",
+      "title": "講話常「嗯」、「啊」別只當口頭禪 說話方式恐暗藏失智風險",
+      "published": "2026-05-20T09:53:10+00:00",
+      "sources": [
+        {
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56ODQ4bHAxMWEzTGJQaWRQTUJDdmRnUGw2UVVsYkVLd1BJRkw5bW1GRkFxRi1kQU5ieURZcTlwZjk0OU93V3dWTXpHaDVxOWVNWVJVUUQzQ0QzcWQ3MHBr?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "68a77656a358",
       "title": "腦退化先兆｜老人家常跌親響健康警號 失智風險暴增74% 研究：最快1年內確診【附腦退化徵兆】",
       "published": "2026-05-20T09:00:55+00:00",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoYmE3THU4MkpXYXNjWVBSZUN0em9NTzdjOUJtc2UtWTlxTGpsTzg5YzJ6RkNoNmQxaDBNNnl5TWpnS0RBTFFzVlFYOVFrUm1nSWc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizwRBVV95cUxOVzVBOEFoNk1mMnA5Mk1taktjZ2RjRkJBQVlLQ1pGaXUzSVJ6YlF4WHBQTnpxSllSM3QySVRDVlZJNzZHN1lvSVk3aG92S2E3WlJCcVc1eHJzNHI1Z0FrX0U3MERrZmRSVndCdjVPVmJCZlozdVJ0Sk1hWFpZWHFtcHYwTDNTSnNXMmZtZ2l1T3pRNjY1UmlKNHVzVGhvTWF3a1Y0Y1hrLXZBVlU5aUxyRmNBcWs1NHhXZGFwajJpSUktanJrV0xvQTk2c3pjRzZKSG1sWlYzRUZpd0FnaS1rY0ZKVGFaZDNIV054WmpFLS1oNW91ZXRJdXdSem1KOWZnVWV5d3ZWUlhRRDNLbTVham9kRmp6MXpVbTRZanRVbEFoRDZ3dUVkLVBIc3JnajUwRFVzcnRIQmp6bk9Falh5UVhfVVZNb2xXQU1xLUdtam9MLVFXbEVjYjg5YUJyQ1hsNkRhcUZhVXhHYTdMRng4Uzd0YzFFUmVOVWZsM0xaR1ZGZFBmVnpYdVZUVnlRZFBQSG53c3NhWkh0VU51NjlQb3dldHJQcVFXbTlZM28yZlRkOWpVV3BKY2cxWFk4QnZxdXYzTHNRRFFvQWM2dWp0Mk00NnhLT2l2UVFyZ2RsMktlSjltWUlYZjFVRS1FM1BzMWJKNEtLQkNpODFsTnFzYzNUYU1PTjNiRnNUSXhiY1pReFJ5MUlzODJmR0cwZWM2ZmJiMG9QWlUzeEhZNU96MkMwNzFua25EdnNfTDFnNE91bXk4RWhITFVYMDlhMTQ?oc=5"
         }
       ],
       "keywords": [
@@ -334,30 +199,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1e7b25e6e689",
-      "title": "29歲網紅不敵子宮頸癌離世 曾為自己辦一人婚禮 留悲痛遺言：痛苦都體驗完才能解脫",
-      "published": "2026-05-20T05:00:00+00:00",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxQcVNuR2pJVjNBemZuaDlFNFlVWG5MNlJPclB4LUFJbEE4UEhUQjNJZmRMdnotSGhzU19Lb2ozbExKZ2dIWEg2aWI4Q29FSHIwVDhuNC1yc0xGeENBSDRCRUNCdGpNVElfS2w2dWZTV01HdXdHaS1VQnJvd29RcGtPR0RRZ2p2c3BMNWdDZnNiTWdIOWdkSFozNEpSZzl0Z3hVTEJ5YnU2aFdqQWVNYU5fclo2eGFGaGY5aUpDQkE4TEhFdVluSmw1U296Q0t6dWNGZFZwME1NeUlVeVduYmZwQWowdE1MWWJQZG5UU0tsU1Z6UFppbEl0OGRTQUVIR1l4TTRuV0JHQnJqNGxFVmF1eWdDWTdfTF85Q09YY0p1NV9ENjRFLVd3QVdOUlByZVZ3TGJoY2FPVFBJcTFSRHdTa3FnME1wMWNFeXJNVnRwRkh2aWFvZjk5RjdybWxkMW92MmJOUGZQODVpM2J5ODUwanhhMHFGeUpFQWh4MjlUUVpTV0lxc0tBTV9RN3pRaEJnN3BKaDNuUFlNb2I2QS1Ta0hfU0ZGNFZjRVlXRnJVc3IzTS1VRGpCZi1NSUVEbW01OXltUXh3Zl9YWUZZSGlUODRORlN3TzlOMlhwLXVUOW1xNDd1VzBEVWdGdXRWbWhjdERlak9QV3lfdHhJWXNfdU9RS0s?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }
