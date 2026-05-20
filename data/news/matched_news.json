@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-20T21:43:38.416811+00:00",
-  "total_count": 33,
+  "last_updated": "2026-05-20T23:05:53.532592+00:00",
+  "total_count": 32,
   "matched_count": 16,
   "news": [
     {
@@ -103,6 +103,19 @@
       ]
     },
     {
+      "id": "0ce8d8b496f8",
+      "title": "流感｜兩童現嚴重併發症 12歲男童乙流併發腦病變 情況危殆留醫PICU",
+      "published": "2026-05-20T10:54:30+00:00",
+      "summary": "流感｜兩童現嚴重併發症 12歲男童乙流併發腦病變 情況危殆留醫PICU&nbsp;&nbsp;singtao.ca12歲及10歲男童染流感現嚴重併發症一人腦病變情況危殆- 香港 - 香港文匯網&nbsp;&nbsp;香港文匯網12歲男童染乙流併發腦病變情況危殆仍留醫- 港聞&nbsp;&nbsp;dotdotnews染乙流併發腦病變 12歲男童命危留醫PICU&nbsp;&nbsp;on.cc東網兩男童感染流感後出現嚴重併發症 其中一人危殆&nbsp;&nbsp;香港電台新聞網",
+      "sources": [
+        {
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNNmdlSkVnUkpsM0VlWTlrRXU4WUtoMmpiY1JRTktoM3Qwc1pzSFI1Qmdfd0NrdG80T045Vzhha0V3SzB1dXp4RWk2MVhIbE1tR2R3ZFlaVTZLQ3BJa0UzR2JZOE1FYl9MNUR2dTFMNk9ybGlfTmRmc2M2M2NjbjdfbmVyN2F5RGJHVEJMWGw1Y2NUMWtJQzQ3eGtNdVBUeFBFaE5xdkNIV0pJSm1yUDV4X3U1TVhOQ3Y5aEVua0hSOFozaHVTVGJkQnppM1lTRmdqekJYdWZWWEM0Q3NlTFlSR19kOFkwbVJQZnB1bklJVlpUWFUzWG81cFNKZ21pWnNnUGcxcU5sXzh6RHFBM1g2YXNuU2kzRG9seThzZ2RtcUpXNVpSYTVkYXVHUjNpdlBIZUNpUjhHTlNCd2pWWDYxekliT3dnWEtwTXBjWDhYb1NnN2owbV8zT3NDbWw0ZFZBLXU3dzFMQzVRR1FGeF83WENhQXptenA3YTRIZEJKSGVURmJrYkYzM3hRNjVfd2Q3Z21YQnRMRFN6ejlqWUlqanl5NWtibTdBTnhncmhB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "da2970308700",
       "title": "胰臟癌年輕化！研究：15–39歲罹癌率上升，醫師提醒「1原因」風險上升2.2倍 - Harper's BAZAAR",
       "published": "2026-05-20T10:45:36+00:00",
@@ -111,19 +124,6 @@
         {
           "name": "Harper's BAZAAR",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTzBDeGlwaU1jMDlyVGQtTG5uS1RnTkpyVlpiZjY5S1RXZUNDTGk2YzhNUUg0UjQ5Q184NlJDRGJRRmhKbVRhQ19OOFZJaXMzQVNBc0JDZGFlM3JoS2E3NDVtQ2FNZWdXU1FVSExhU0l5MjRlX0NvaWwxOWdRbXhJWWhwY3ZGdU9ZbWh6ZnF3dmhfLXcxTGZZ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0ce8d8b496f8",
-      "title": "流感｜兩童現嚴重併發症 12歲男童乙流併發腦病變 情況危殆留醫PICU",
-      "published": "2026-05-20T10:38:04+00:00",
-      "summary": "流感｜兩童現嚴重併發症 12歲男童乙流併發腦病變 情況危殆留醫PICU&nbsp;&nbsp;singtao.ca12歲及10歲男童染流感現嚴重併發症一人腦病變情況危殆- 香港 - 香港文匯網&nbsp;&nbsp;香港文匯網12歲男童染乙流併發腦病變情況危殆仍留醫- 港聞&nbsp;&nbsp;dotdotnews染乙流併發腦病變 12歲男童命危留醫PICU&nbsp;&nbsp;on.cc東網兩男童感染流感後出現嚴重併發症 其中一人危殆&nbsp;&nbsp;香港電台新聞網",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNNmdlSkVnUkpsM0VlWTlrRXU4WUtoMmpiY1JRTktoM3Qwc1pzSFI1Qmdfd0NrdG80T045Vzhha0V3SzB1dXp4RWk2MVhIbE1tR2R3ZFlaVTZLQ3BJa0UzR2JZOE1FYl9MNUR2dTFMNk9ybGlfTmRmc2M2M2NjbjdfbmVyN2F5RGJHVEJMWGw1Y2NUMWtJQzQ3eGtNdVBUeFBFaE5xdkNIV0pJSm1yUDV4X3U1TVhOQ3Y5aEVua0hSOFozaHVTVGJkQnppM1lTRmdqekJYdWZWWEM0Q3NlTFlSR19kOFkwbVJQZnB1bklJVlpUWFUzWG81cFNKZ21pWnNnUGcxcU5sXzh6RHFBM1g2YXNuU2kzRG9seThzZ2RtcUpXNVpSYTVkYXVHUjNpdlBIZUNpUjhHTlNCd2pWWDYxekliT3dnWEtwTXBjWDhYb1NnN2owbV8zT3NDbWw0ZFZBLXU3dzFMQzVRR1FGeF83WENhQXptenA3YTRIZEJKSGVURmJrYkYzM3hRNjVfd2Q3Z21YQnRMRFN6ejlqWUlqanl5NWtibTdBTnhncmhB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -237,19 +237,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNWE1wRnpmR3NzcmRkZG1ZcW1kMUxlMmFBaXBjMXdOT25MTVdldHFYMUFjalVnWGVuRHRYM0w3S284aVBvamNhZ19nT0c2SGhxRnpnWjMwQUdmMUJacW1DUDYwMW8zdjIxdEtJV3JhTTBIZ0o3QVB5OE9YZjgwZ2ppQ3RNNklESUNLbzBFaTNJbTQxbDJkaGZEUFY5VmU5UENUSzFzTm1Va2wzZWp0SkdSUkxraVloMVoyOEVzanVETGkxRTQ4OGp4M1JTTlpYT0tvMHdEWUs3T1E1TEotd1pvYWlHOHQ3MzNtZUI2RW5sTlF5bVRKTVhwT3lxb1NVVTVGa1pEWHpaNGluQlZnUUVDVVQ0d2tqdEoxa1hxTXVtRWZqYmIwdTIwU3JzczZpNlhJRl92MTdUU0JOdXVSWDZ1WDBOY3RhVl9RQXBVRm5EV2tZQ3ZheV9EQk1seFYtU1ZXR1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "864233e0d168",
-      "title": "科學家發現維生素 D 與疼痛之間的奇怪聯繫",
-      "published": "2026-05-20T07:34:06+00:00",
-      "summary": "科學家發現維生素 D 與疼痛之間的奇怪聯繫&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNNl9uLVBGWXFwR3ZreTdoRkE4alJJTm5LQW42WG04SUZlNWlNemZVX3l1cnFHUllGclVZUXU0a2NuUjZhZmp4U1BITmhNSVl6RVdyYVdtUDQzR0R4WlBFTkxKNnExcFExbEdGWGpveXl2X0dyUWJoX2NPZDhFS2p5UWU0Wl9GRG15NFhlOWNuQ1haSXR2ZFVTTEZlUVVocHBUaWtGeVE2cFo5OG9HZTYtMEFOUldycFBDZ1BrcWZERW5aMWdMQ2dWcU1KUl9uY0VadmdyZnlRal9lZGdXU3JhUE5odkFramJoWndHZmJWdTBpaGhHclJLOUtfSkY1cXhUUlVWVnBSeDVpanRRMjFGbnRSRzRac3RBbzl4cGVlRGFlMVQyOUNxeGpLRWxSck5Kc0NUMUNXSWdDcnEzbGVqUXFqLWFzU3k3R25JS3JxeGgyQ3Jwcmh2cWh3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -639,7 +626,7 @@
       "id": "a51316b1eec7",
       "title": "打疫苗電燒都沒用！女子菜花反覆爆發 醫聽她職業後沉默",
       "published": "2026-05-19T00:22:49+00:00",
-      "summary": "打疫苗電燒都沒用！女子菜花反覆爆發 醫聽她職業後沉默&nbsp;&nbsp;民視新聞網打疫苗嘸效！20歲女私密處反覆長出「滿滿菜花田」…醫嘆：人生比病難治&nbsp;&nbsp;祝你健康20歲女打疫苗仍炸出「滿滿菜花田」! 醫師一聽鼻酸： 人生比病難治&nbsp;&nbsp;MSN醫起看／20歲女打疫苗仍長滿「菜花田」 醫搖頭了&nbsp;&nbsp;東森新聞【20歲女打疫苗仍炸出「滿滿菜花田」！醫師一聽鼻酸：人生比病難治】 （示意圖／免費圖庫123RF） 人生真的好難...(#起啵)&nbsp;&nbsp;Facebook",
+      "summary": "打疫苗電燒都沒用！女子菜花反覆爆發 醫聽她職業後沉默&nbsp;&nbsp;民視新聞網打疫苗嘸效！20歲女私密處反覆長出「滿滿菜花田」…醫嘆：人生比病難治&nbsp;&nbsp;祝你健康20歲女菜花狂復發！醫揭她「1苦衷」嘆：人生難治 | 民視新聞網&nbsp;&nbsp;LINE TODAY電燒、打疫苗仍「滿坑滿谷」! 20歲女菜花反覆發作 醫感嘆： 人生比病毒難治&nbsp;&nbsp;MSN【20歲女打疫苗仍炸出「滿滿菜花田」！醫師一聽鼻酸：人生比病難治】 （示意圖／免費圖庫123RF） 人生真的好難...(#起啵)&nbsp;&nbsp;facebook.com",
       "sources": [
         {
           "name": "民視新聞網",
