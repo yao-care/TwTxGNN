@@ -1,7 +1,31 @@
 {
-  "generated": "2026-05-20T19:14:41.502482+00:00",
-  "count": 15,
+  "generated": "2026-05-20T21:43:38.449892+00:00",
+  "count": 16,
   "news": [
+    {
+      "id": "533e36b162b8",
+      "title": "保健》防子宮頸癌 醫籲打HPV疫苗",
+      "published": "2026-05-20T20:10:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRjNmcE42aXAxNFFXbDNBSDdBTFBzeDhKM2ZzZnJnOWV4aXlpQjA3b25vQjVDcHFGVXdmQk1tc3JJeDhfZWlUY3IwSTduSmxuMDdoZFpIaUpneF84MDB0TGxoc0RDVHcxbmdjUndzdmxKYWQtb3J3c1gwQTRBZHJmb2Y2RWZpQy1NM3lfNmtFYzVRX0tWbFlwdjhHb0tUakZ1bTdCbjVlU215a3puTFcxVk1RejlBRGFPWEdDd3N3OE1ZWHJnYks3YmRtTURhOHZuT2dNMHhiR2hOUjhFMlRnY2NVeXJwUk44dmc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "edad4cd6135c",
       "title": "科學家發現了阿茲海默症的隱藏誘因並將其關閉",
@@ -27,13 +51,13 @@
       ]
     },
     {
-      "id": "c3874e0f7c4c",
+      "id": "bbb9a5f07b9c",
       "title": "失智症新發現：孤獨、失眠為風險因子 血液檢測助早期篩檢",
-      "published": "2026-05-20T13:26:05+00:00",
+      "published": "2026-05-20T12:19:59+00:00",
       "sources": [
         {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPb1F6eG0tanlWZkRpY1pCZU4zZ2UxZWdSaGhPYnQ2Tk1DXzhZU0VRRml0ZVgwR2cxM2txV0xYMFV3dHlfYmI4UHYtbUtGOVhHUFR3MUtteURUdlctZ3pBMnd4SExLUmNXeGh4WTZFWHJsWVhScXJFbjNZNnVmWndFTU1vR1d3Y1RhcFZXS0lMZ3lmQjhOLTByYW5kNy1TTGp4eWJLQjVXczdma1NuczNDeUlnM2MxVzVJMTZ4UlpaWHBKZkR0dlZLUlhXQlFBR1BQU2RHdXRkNHBqZnBPR0M3elZ2SVY0VHVJNE8zanE2V3RQYmVWWU95TEdKWHEzRXlETEx2ZzRKLXM3N0tXellyLWlRU0RYV2ZXNHAwTXlVMHM5RGtkTEx1WU9iTzBDZ2F1b1pCMzJDMGgycG02MVgxVGlTVWZLbnl0aHBLSVg1M0JNcjE4YTgxN2plQ3lhVkpQZjVrcjJjRUJ5cWdJOEVJS25LNDdwVjBaWTc2Rw?oc=5"
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQOFB1aWVIcjJXbE84cjFGZDhxRkJ1R0xFZl9xZFN2UXkwWHo3V2VHVzFaazMxWEhhNzVvd3lNV1ZUTE1wMU1sSEdVVjFSTktHblJiaTZDcHpKQkd3cVVya0tMZDFzb0ZIZ051TG9PeXFJRWxMLWVnUFdEUEtCdVEyR1NibXQxWXA5ZUktM3NSSGNHUVI1S3NsXy12dFRsR1pPbVRBdHJ5YjA3OE8wYW15RnBqaE91ZHR0NzJBTy1kb0k1TTFGMTl1ekM2Nl8yMWxBQm9VR09ySkVxbzVzZVFCejJ4UzV5a2VjaXo2M3p1WVhxUVRLYmx0dU5IbksxWXlDZXV3X3JJQUZoMkJBNDhJVVNBa2FKZmdWWWVTNWZuWXZuWV9xQkRyWmVZdWxJVmdReDBIS2lOZTFvM0FZU1ZpRVZ1eFh4TFh1bnRndw?oc=5"
         }
       ],
       "keywords": [
@@ -354,9 +378,33 @@
       ]
     },
     {
+      "id": "a0f4f604422d",
+      "title": "AI模型僅靠單次MRI掃描 精準預測阿茲海默症病程",
+      "published": "2026-05-19T04:57:40+00:00",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFA5d2I4eTBQd21GS0FlSjJHUk5RMFg2U1BQRHludlNzWHNxNVBsdVJVZUlha0tybkNMX1E?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "ac7a811e1981",
       "title": "子宮頸癌︱20歲女經期大出血驚患子宮頸癌疑常用1類廁紙致癌醫生：2種成分損生殖器【附消委會推薦8款廁紙】",
-      "published": "2026-05-19T04:06:37+00:00",
+      "published": "2026-05-19T04:23:00+00:00",
       "sources": [
         {
           "name": "香港經濟日報HKET",
@@ -372,30 +420,6 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "24f61bfbc449",
-      "title": "AI模型僅靠單次MRI掃描 精準預測阿茲海默症病程",
-      "published": "2026-05-19T03:03:05+00:00",
-      "sources": [
-        {
-          "name": "Yahoo股市",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNU3M0RzU4c1RPNnp1LXk4WUxEYVU1U19ZNlpGV1BmaWlheE9DZG9IRFpnb0tldTAxX3dtVGNlbnVqSVBDbW5ZR3pJWnBjR2NMTXVDR1hLMGVYLUxOMjM0RVdtb1R4d2pydkFFbWtIT3UtX1BCQnBsNjZyeUVqVjVydmZWMXRJYWtiYUZ2MTZrTmJaeF9aSTZ1WHF2YmNNSjBDZzh4alUtT19xVl8xcFlYWk1FZkg5VGh4S1lIVnAtM3dlNVVnRzhwakZHWjhPZDlsVEh4OWZ6LUpQV0JLdWp6elFUWkhnMUp1WUlWeHVRdlhKWVJCajlkTnRQZjRLOXhMV1B0SGNTZnNHaTBvZWZRVXF6bnZtZWJRSGxJN2xMR3VtNk55NEM1TXJDSXdHZzRQR09QZ280dlI1VlVVZXhYZmktZnNhdkk?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
