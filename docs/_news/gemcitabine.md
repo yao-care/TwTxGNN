@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,29 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [胰臟癌年輕化！15-39歲「癌王」發生率拉升近5成…胰臟癌如何檢查、症狀？醫揭做「7件事」防禦](https://news.google.com/rss/articles/CBMigAFBVV95cUxOQml6YlcweFdfSDlWUkpoS1U0bGdMYmVqNmRMYnBoYk5FUkZKT184NXY4N0o5YzhYYThYdEl4bmlkLTVCdXVjbUhvTFhIWHdNUVZUUnN4VUMySFN1RmxoXzRCV1VkMV9MSkJEUUNGQnR0bWtkOWRLeUQ3VU4zV2MxcA?oc=5)
+
+2026-05-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[今周刊](https://news.google.com/rss/articles/CBMigAFBVV95cUxOQml6YlcweFdfSDlWUkpoS1U0bGdMYmVqNmRMYnBoYk5FUkZKT184NXY4N0o5YzhYYThYdEl4bmlkLTVCdXVjbUhvTFhIWHdNUVZUUnN4VUMySFN1RmxoXzRCV1VkMV9MSkJEUUNGQnR0bWtkOWRLeUQ3VU4zV2MxcA?oc=5)
+
+---
+
+### [市民50歲起可參與大腸癌篩查 提防大腸瘜肉變腸癌 - 晴報 Sky Post](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQnZRb3ZhTWVWTnlvRDZTcEhocTZ6eFVDTlRKZnN5ZUVKMVlEV3o4STR6VjF1RVB5OGR5VlgxenotM3gtU1p1Ylk5QQ?oc=5)
+
+2026-05-20 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[晴報 Sky Post](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQnZRb3ZhTWVWTnlvRDZTcEhocTZ6eFVDTlRKZnN5ZUVKMVlEV3o4STR6VjF1RVB5OGR5VlgxenotM3gtU1p1Ylk5QQ?oc=5)
+
+---
 
 ### [抗癌蔬菜︱紅肉吃太多恐致癌！ 營養師大推神級解毒菜 抗炎兼防癌食4星期見效](https://news.google.com/rss/articles/CBMikARBVV95cUxNeTBOVkNGNXdXRkQzYk0xLW9mWHFleGdVdVZqdEFvb0prUTRvaG5fNjQwM2dJNmV5dGczVFVJMUE3emVCRlR0Z3VYcWw1YUc0WTlwcldJWWFSZ3kwal8tSmtKWi1oRkk0d3Y5N0h2MnhMWnV3TGZTU1U3R05kcU5rTWczWnd3LWxJUHB4ckJTWnpYSEVNa2RlZWl5b1ZQWWhHdFJBbTJSYV9KQ3phVDdyODFVa2tHdlRXY0lpbWZwTWprTzdlVU9zWFdSTTEwZFJRN1hsTnZlbmxyb0Zza0YzRjltWWVjYzhpQTBnU0hKUlQ4X2tvT1hfTF84M0RQdUFZa1djX3RaSkRZd3RzOU02aEUya0NFem1VTlJxSGJvUFY0V1E4d3BuLVA4YnV3VURyZTAtY3k4M2YxSDRnUkRfd0Nra1pSY2VoTVFBbTlvSG0zdXlkaTA0NDZGUGpHSUZPaGE0SEFVdW5Ody1TS3NzcUhldTk1RFFCTV9jUGhiU3ByY3lfd250enFVQ3liU1B6UUppQ0tuRnFDbVA2Ujd4TkFHSlFDckwwM256X0RVNTdpLUNDeDVVODNtSFZrRTNpMkJQTXFWcHp4dGhqTlNhRHdYbWNNcVFDQmFFeGtBaGZKN1JBbWVUYjRuRFJEVU9YWm5LSnVfeHRfdGdjWlA4WEpaNHNyMVAyOXpfX3ZDNmI?oc=5)
 
 2026-05-19 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMikARBVV95cUxNeTBOVkNGNXdXRkQzYk0xLW9mWHFleGdVdVZqdEFvb0prUTRvaG5fNjQwM2dJNmV5dGczVFVJMUE3emVCRlR0Z3VYcWw1YUc0WTlwcldJWWFSZ3kwal8tSmtKWi1oRkk0d3Y5N0h2MnhMWnV3TGZTU1U3R05kcU5rTWczWnd3LWxJUHB4ckJTWnpYSEVNa2RlZWl5b1ZQWWhHdFJBbTJSYV9KQ3phVDdyODFVa2tHdlRXY0lpbWZwTWprTzdlVU9zWFdSTTEwZFJRN1hsTnZlbmxyb0Zza0YzRjltWWVjYzhpQTBnU0hKUlQ4X2tvT1hfTF84M0RQdUFZa1djX3RaSkRZd3RzOU02aEUya0NFem1VTlJxSGJvUFY0V1E4d3BuLVA4YnV3VURyZTAtY3k4M2YxSDRnUkRfd0Nra1pSY2VoTVFBbTlvSG0zdXlkaTA0NDZGUGpHSUZPaGE0SEFVdW5Ody1TS3NzcUhldTk1RFFCTV9jUGhiU3ByY3lfd250enFVQ3liU1B6UUppQ0tuRnFDbVA2Ujd4TkFHSlFDckwwM256X0RVNTdpLUNDeDVVODNtSFZrRTNpMkJQTXFWcHp4dGhqTlNhRHdYbWNNcVFDQmFFeGtBaGZKN1JBbWVUYjRuRFJEVU9YWm5LSnVfeHRfdGdjWlA4WEpaNHNyMVAyOXpfX3ZDNmI?oc=5)
-
----
-
-### [健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
-
-2026-05-19 <span class="news-indication-tag">癌症</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
 
 ---
 

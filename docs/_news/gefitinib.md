@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
-### [健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
+### [胰臟癌年輕化！15-39歲「癌王」發生率拉升近5成…胰臟癌如何檢查、症狀？醫揭做「7件事」防禦](https://news.google.com/rss/articles/CBMigAFBVV95cUxOQml6YlcweFdfSDlWUkpoS1U0bGdMYmVqNmRMYnBoYk5FUkZKT184NXY4N0o5YzhYYThYdEl4bmlkLTVCdXVjbUhvTFhIWHdNUVZUUnN4VUMySFN1RmxoXzRCV1VkMV9MSkJEUUNGQnR0bWtkOWRLeUQ3VU4zV2MxcA?oc=5)
 
-2026-05-19 <span class="news-indication-tag">癌症</span>
+2026-05-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
+來源：[今周刊](https://news.google.com/rss/articles/CBMigAFBVV95cUxOQml6YlcweFdfSDlWUkpoS1U0bGdMYmVqNmRMYnBoYk5FUkZKT184NXY4N0o5YzhYYThYdEl4bmlkLTVCdXVjbUhvTFhIWHdNUVZUUnN4VUMySFN1RmxoXzRCV1VkMV9MSkJEUUNGQnR0bWtkOWRLeUQ3VU4zV2MxcA?oc=5)
+
+---
+
+### [腦退化先兆｜老人家常跌親響健康警號 失智風險暴增74% 研究：最快1年內確診【附腦退化徵兆】](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoYmE3THU4MkpXYXNjWVBSZUN0em9NTzdjOUJtc2UtWTlxTGpsTzg5YzJ6RkNoNmQxaDBNNnl5TWpnS0RBTFFzVlFYOVFrUm1nSWc?oc=5)
+
+2026-05-20 <span class="news-indication-tag">失智</span>
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoYmE3THU4MkpXYXNjWVBSZUN0em9NTzdjOUJtc2UtWTlxTGpsTzg5YzJ6RkNoNmQxaDBNNnl5TWpnS0RBTFFzVlFYOVFrUm1nSWc?oc=5)
 
 ---
 

@@ -42,11 +42,11 @@ permalink: /news/cytarabine/
 
 ## 相關新聞（3 則）
 
-### [健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
+### [胰臟癌年輕化！15-39歲「癌王」發生率拉升近5成…胰臟癌如何檢查、症狀？醫揭做「7件事」防禦](https://news.google.com/rss/articles/CBMigAFBVV95cUxOQml6YlcweFdfSDlWUkpoS1U0bGdMYmVqNmRMYnBoYk5FUkZKT184NXY4N0o5YzhYYThYdEl4bmlkLTVCdXVjbUhvTFhIWHdNUVZUUnN4VUMySFN1RmxoXzRCV1VkMV9MSkJEUUNGQnR0bWtkOWRLeUQ3VU4zV2MxcA?oc=5)
 
-2026-05-19 <span class="news-indication-tag">癌症</span>
+2026-05-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
+來源：[今周刊](https://news.google.com/rss/articles/CBMigAFBVV95cUxOQml6YlcweFdfSDlWUkpoS1U0bGdMYmVqNmRMYnBoYk5FUkZKT184NXY4N0o5YzhYYThYdEl4bmlkLTVCdXVjbUhvTFhIWHdNUVZUUnN4VUMySFN1RmxoXzRCV1VkMV9MSkJEUUNGQnR0bWtkOWRLeUQ3VU4zV2MxcA?oc=5)
 
 ---
 

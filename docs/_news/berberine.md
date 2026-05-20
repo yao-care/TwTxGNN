@@ -44,19 +44,19 @@ permalink: /news/berberine/
 
 ## 相關新聞（4 則）
 
+### [胰臟癌年輕化！15-39歲「癌王」發生率拉升近5成…胰臟癌如何檢查、症狀？醫揭做「7件事」防禦](https://news.google.com/rss/articles/CBMigAFBVV95cUxOQml6YlcweFdfSDlWUkpoS1U0bGdMYmVqNmRMYnBoYk5FUkZKT184NXY4N0o5YzhYYThYdEl4bmlkLTVCdXVjbUhvTFhIWHdNUVZUUnN4VUMySFN1RmxoXzRCV1VkMV9MSkJEUUNGQnR0bWtkOWRLeUQ3VU4zV2MxcA?oc=5)
+
+2026-05-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[今周刊](https://news.google.com/rss/articles/CBMigAFBVV95cUxOQml6YlcweFdfSDlWUkpoS1U0bGdMYmVqNmRMYnBoYk5FUkZKT184NXY4N0o5YzhYYThYdEl4bmlkLTVCdXVjbUhvTFhIWHdNUVZUUnN4VUMySFN1RmxoXzRCV1VkMV9MSkJEUUNGQnR0bWtkOWRLeUQ3VU4zV2MxcA?oc=5)
+
+---
+
 ### [腸胃炎忌食稀飯！醫生指或刺激胃酸加重腹瀉 推介3 食物代替](https://news.google.com/rss/articles/CBMi8AJBVV95cUxNN3RUeFNBSHF0dTlGd2FGR0VGVWd4SDlmLWVvVlpZUmNtMHZEbV93NWp5LTBVVkRCUTNOXzJKT0tMUmtqNHU4OVRMdFlnUExJajNlTGV4YzRjUkE0MFU5UmVMWGhsRGlYV0ZodFJaSGItRklkd0s2ejFXWVp4M2psWlM3S05iNndQMURieHVmSGItODBjNkJVSGgtMTlkSGNyWEZySnNlMy1MRlR3cHR4ODR6RUloTWNzYy01RFdUZGUzY3o4Wm84c19xeTExTm5feHN4YjVLVlJRdXdrTjVwT0cxa1gxVzF2UTFTUDBvU2lzZjE3bG42SW9iSW1pZWQ1bVZWZ3p4T2Q3QURoU1JUVk9OMlQxUkVkN0dLc2ZTTVQxNjRGVFFuQjJTVnp3UldtdDJ0VnNRel9SMXlnLXJuZGJvaWVJUV9OcGRUbFc4MkVENnZTazZ2Vlo4NGhwbXRocDJEVVRzQWc2Nm1ZWHJadA?oc=5)
 
 2026-05-19 <span class="news-indication-tag">胃炎</span> <span class="news-indication-tag">腹瀉</span>
 
 來源：[bastillepost.com](https://news.google.com/rss/articles/CBMi8AJBVV95cUxNN3RUeFNBSHF0dTlGd2FGR0VGVWd4SDlmLWVvVlpZUmNtMHZEbV93NWp5LTBVVkRCUTNOXzJKT0tMUmtqNHU4OVRMdFlnUExJajNlTGV4YzRjUkE0MFU5UmVMWGhsRGlYV0ZodFJaSGItRklkd0s2ejFXWVp4M2psWlM3S05iNndQMURieHVmSGItODBjNkJVSGgtMTlkSGNyWEZySnNlMy1MRlR3cHR4ODR6RUloTWNzYy01RFdUZGUzY3o4Wm84c19xeTExTm5feHN4YjVLVlJRdXdrTjVwT0cxa1gxVzF2UTFTUDBvU2lzZjE3bG42SW9iSW1pZWQ1bVZWZ3p4T2Q3QURoU1JUVk9OMlQxUkVkN0dLc2ZTTVQxNjRGVFFuQjJTVnp3UldtdDJ0VnNRel9SMXlnLXJuZGJvaWVJUV9OcGRUbFc4MkVENnZTazZ2Vlo4NGhwbXRocDJEVVRzQWc2Nm1ZWHJadA?oc=5)
-
----
-
-### [健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
-
-2026-05-19 <span class="news-indication-tag">癌症</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
 
 ---
 
