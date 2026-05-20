@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [科學家發現了阿茲海默症的隱藏誘因並將其關閉](https://news.google.com/rss/articles/CBMi-gJBVV95cUxNaU5JY0gzWVl6aUZaRGJMZDA4blFMSXJYcDRJUkdQbzNmZmwxWXpNTTJBRzBXLTl4M254bWVsMzQ3c2ppU1FyeDhWNGVNdXdmdTEtbENMSkk0R0JnemtHaXhJd1g0R1lVSnVSQ2ZkNjliZE00QURleTItbVRJZVlDdGgtV3RkcTRWTlhFWVhVLWdPQ0NTT0MyRkVGRmxDNWRLM0FNYV9LY0p2Yy1RY3VNTXRPbTEyWkhUR3lRYUdyWjlSUGNYT09oOHFpQ1F5a2RIMkgteEV3QmZEckRxUi12bk9fRkNJdWZtUlFBYWNaTVdVRGE2dG5HQWVlOU5CUXVaUm1IVWFELVpTdkE5Q1FnMkt1X0F1MHZOY0NyU3VqWVNGSVR0R1pqYTRWUGM0c21ndjBiQmZMOFYwRzAtcHIwVllzdHdocm9LT0pSNzFGcjBLSF9DTWU4UzVESTZ1MzhaY2h0OVZFalVxMGJmTjk0YU0xTmdOYmI4bkE?oc=5)
+
+2026-05-20 <span class="news-indication-tag">阿茲海默症</span>
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi-gJBVV95cUxNaU5JY0gzWVl6aUZaRGJMZDA4blFMSXJYcDRJUkdQbzNmZmwxWXpNTTJBRzBXLTl4M254bWVsMzQ3c2ppU1FyeDhWNGVNdXdmdTEtbENMSkk0R0JnemtHaXhJd1g0R1lVSnVSQ2ZkNjliZE00QURleTItbVRJZVlDdGgtV3RkcTRWTlhFWVhVLWdPQ0NTT0MyRkVGRmxDNWRLM0FNYV9LY0p2Yy1RY3VNTXRPbTEyWkhUR3lRYUdyWjlSUGNYT09oOHFpQ1F5a2RIMkgteEV3QmZEckRxUi12bk9fRkNJdWZtUlFBYWNaTVdVRGE2dG5HQWVlOU5CUXVaUm1IVWFELVpTdkE5Q1FnMkt1X0F1MHZOY0NyU3VqWVNGSVR0R1pqYTRWUGM0c21ndjBiQmZMOFYwRzAtcHIwVllzdHdocm9LT0pSNzFGcjBLSF9DTWU4UzVESTZ1MzhaY2h0OVZFalVxMGJmTjk0YU0xTmdOYmI4bkE?oc=5)
+
+---
 
 ### [失智症新發現：孤獨、失眠為風險因子 血液檢測助早期篩檢](https://news.google.com/rss/articles/CBMi_AJBVV95cUxPb1F6eG0tanlWZkRpY1pCZU4zZ2UxZWdSaGhPYnQ2Tk1DXzhZU0VRRml0ZVgwR2cxM2txV0xYMFV3dHlfYmI4UHYtbUtGOVhHUFR3MUtteURUdlctZ3pBMnd4SExLUmNXeGh4WTZFWHJsWVhScXJFbjNZNnVmWndFTU1vR1d3Y1RhcFZXS0lMZ3lmQjhOLTByYW5kNy1TTGp4eWJLQjVXczdma1NuczNDeUlnM2MxVzVJMTZ4UlpaWHBKZkR0dlZLUlhXQlFBR1BQU2RHdXRkNHBqZnBPR0M3elZ2SVY0VHVJNE8zanE2V3RQYmVWWU95TEdKWHEzRXlETEx2ZzRKLXM3N0tXellyLWlRU0RYV2ZXNHAwTXlVMHM5RGtkTEx1WU9iTzBDZ2F1b1pCMzJDMGgycG02MVgxVGlTVWZLbnl0aHBLSVg1M0JNcjE4YTgxN2plQ3lhVkpQZjVrcjJjRUJ5cWdJOEVJS25LNDdwVjBaWTc2Rw?oc=5)
 

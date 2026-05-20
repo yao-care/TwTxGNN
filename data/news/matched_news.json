@@ -1,8 +1,46 @@
 {
-  "last_updated": "2026-05-20T13:31:52.118411+00:00",
+  "last_updated": "2026-05-20T16:47:26.549003+00:00",
   "total_count": 33,
-  "matched_count": 14,
+  "matched_count": 15,
   "news": [
+    {
+      "id": "19e6bf3387a7",
+      "title": "【全國新聞】多種傳染病毒相繼登上新聞頭條 美國是否準備好應對重大疫情爆發（視頻）",
+      "published": "2026-05-20T14:24:13+00:00",
+      "summary": "【全國新聞】多種傳染病毒相繼登上新聞頭條 美國是否準備好應對重大疫情爆發（視頻）&nbsp;&nbsp;KTSF.com",
+      "sources": [
+        {
+          "name": "KTSF.com",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UdEozSVh6bEVtbDlYUGc4MDFNVjFsdVE0MXpSVjZrS25hckF2NVU5WFRMYXc4amhUWi1lcG5XRHQ0WWV6TmYtNGlQZWc5RUlXcHEtZlFldGwtVDJ3MDR0ZnMtbDhrcF92WmUzeQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "edad4cd6135c",
+      "title": "科學家發現了阿茲海默症的隱藏誘因並將其關閉",
+      "published": "2026-05-20T13:32:32+00:00",
+      "summary": "科學家發現了阿茲海默症的隱藏誘因並將其關閉&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNaU5JY0gzWVl6aUZaRGJMZDA4blFMSXJYcDRJUkdQbzNmZmwxWXpNTTJBRzBXLTl4M254bWVsMzQ3c2ppU1FyeDhWNGVNdXdmdTEtbENMSkk0R0JnemtHaXhJd1g0R1lVSnVSQ2ZkNjliZE00QURleTItbVRJZVlDdGgtV3RkcTRWTlhFWVhVLWdPQ0NTT0MyRkVGRmxDNWRLM0FNYV9LY0p2Yy1RY3VNTXRPbTEyWkhUR3lRYUdyWjlSUGNYT09oOHFpQ1F5a2RIMkgteEV3QmZEckRxUi12bk9fRkNJdWZtUlFBYWNaTVdVRGE2dG5HQWVlOU5CUXVaUm1IVWFELVpTdkE5Q1FnMkt1X0F1MHZOY0NyU3VqWVNGSVR0R1pqYTRWUGM0c21ndjBiQmZMOFYwRzAtcHIwVllzdHdocm9LT0pSNzFGcjBLSF9DTWU4UzVESTZ1MzhaY2h0OVZFalVxMGJmTjk0YU0xTmdOYmI4bkE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "c3874e0f7c4c",
       "title": "失智症新發現：孤獨、失眠為風險因子 血液檢測助早期篩檢",
@@ -53,52 +91,14 @@
       "matched_keywords": []
     },
     {
-      "id": "d089f35a7806",
-      "title": "既不是慢跑也不是重訓？想長壽，去拿球拍就對了 - Vogue Taiwan",
-      "published": "2026-05-20T11:22:26+00:00",
-      "summary": "既不是慢跑也不是重訓？想長壽，去拿球拍就對了&nbsp;&nbsp;Vogue Taiwan",
+      "id": "0ce8d8b496f8",
+      "title": "流感｜兩童現嚴重併發症 12歲男童乙流併發腦病變 情況危殆留醫PICU",
+      "published": "2026-05-20T10:54:30+00:00",
+      "summary": "流感｜兩童現嚴重併發症 12歲男童乙流併發腦病變 情況危殆留醫PICU&nbsp;&nbsp;singtao.ca前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "Vogue Taiwan",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tQU94b2YweTRfVlFMNElnOWRQbHdTWWRNeXZIdGFvUzdrbHdyeDlJZzhheHpqZWdTZ0Nhb1JzcE1RUWppYXBxdTJlc3FnQlNHWFVrbXZZdG1JSnVWYVlQaTN1UDNtQkU?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ff03956b78fe",
-      "title": "29歲網紅妹「癌末身亡」！姐慟喊：一路好走...",
-      "published": "2026-05-20T11:00:00+00:00",
-      "summary": "29歲網紅妹「癌末身亡」！姐慟喊：一路好走...&nbsp;&nbsp;news.tvbs.com.tw29歲網紅KOL子宮頸癌離世 27歲確診積極抗癌生前辨一人婚禮圓夢／附預防子宮頸癌飲食&nbsp;&nbsp;U Food",
-      "sources": [
-        {
-          "name": "news.tvbs.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QZ3BpaDJHcmxZcXRzODNKdERVVGFnWEpOTkp0T3ZsV3J4LWtPWXhMTjFVQXI4dkdSV0FiQmoxMVF6ZVBSZ2FKVFpOeUYtc0N6dzBibmdpc0YwUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c99dac7ccf58",
-      "title": "兩男童感染流感後現嚴重併發症 其中1人危殆",
-      "published": "2026-05-20T10:48:46+00:00",
-      "summary": "兩男童感染流感後現嚴重併發症 其中1人危殆&nbsp;&nbsp;信報網站兩兒童感染流感併發症其中一人仍危殆 防護中心提醒流感季或來臨&nbsp;&nbsp;橙新聞流感｜12歲男童感染乙型流感 併發腦病變情況危殆 目前仍留醫&nbsp;&nbsp;香港01染乙流併發腦病變 12歲男童命危留醫PICU&nbsp;&nbsp;on.cc東網兩男童感染流感後出現嚴重併發症 其中一人危殆&nbsp;&nbsp;香港電台新聞網",
-      "sources": [
-        {
-          "name": "信報網站",
-          "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNbjc1VlFzaUYxWERjaDUxS3AzWnVlQjFmUHkxSmY2QWtpNFgzSzU2ZkFBNi1kVEVtRW5KREJxYklHdlYtc19vZ09vMEJ0UEU3WWwteC1raGxIbXZRM3hfTnRhYzRHUnFSSmhnS2oxMGhUd2k0UVp6NHpVMmY4YjR5WHNUZEU4LXYzQ2JjVC1CTEMwV1BaaTBTajJ5NWVway1hWnFLNHZDYkhlaC1yV3U0bGtsNEpRaGV3QmFLSE1VREpTYTd3alZGd21SUHJGdEVEbUV5X3d5Zk1UZ0hyb0ZIUWNIMjVERmpneTFZNndzMnFnY3BQT2hLdXhQVUxEc1lzTHdTTUc0MmJpTWlybXVvY0VZUFlUZi03THhqcHE4VnBiVmFEMzFVTnZGUmMtMVBTbnpMblFNaDdEQUFFUU1WZHA3bDZNQUtpZE9iRWp4VQ?oc=5"
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNNmdlSkVnUkpsM0VlWTlrRXU4WUtoMmpiY1JRTktoM3Qwc1pzSFI1Qmdfd0NrdG80T045Vzhha0V3SzB1dXp4RWk2MVhIbE1tR2R3ZFlaVTZLQ3BJa0UzR2JZOE1FYl9MNUR2dTFMNk9ybGlfTmRmc2M2M2NjbjdfbmVyN2F5RGJHVEJMWGw1Y2NUMWtJQzQ3eGtNdVBUeFBFaE5xdkNIV0pJSm1yUDV4X3U1TVhOQ3Y5aEVua0hSOFozaHVTVGJkQnppM1lTRmdqekJYdWZWWEM0Q3NlTFlSR19kOFkwbVJQZnB1bklJVlpUWFUzWG81cFNKZ21pWnNnUGcxcU5sXzh6RHFBM1g2YXNuU2kzRG9seThzZ2RtcUpXNVpSYTVkYXVHUjNpdlBIZUNpUjhHTlNCd2pWWDYxekliT3dnWEtwTXBjWDhYb1NnN2owbV8zT3NDbWw0ZFZBLXU3dzFMQzVRR1FGeF83WENhQXptenA3YTRIZEJKSGVURmJrYkYzM3hRNjVfd2Q3Z21YQnRMRFN6ejlqWUlqanl5NWtibTdBTnhncmhB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -400,10 +400,23 @@
       "matched_keywords": []
     },
     {
+      "id": "27afe20975e8",
+      "title": "女性免疫力強竟藏殘酷代價！實測百萬細胞曝防線過激 反遭「這系統」吞噬 | 自由電子報 - LINE TODAY",
+      "published": "2026-05-19T14:20:58+00:00",
+      "summary": "女性免疫力強竟藏殘酷代價！實測百萬細胞曝防線過激 反遭「這系統」吞噬 | 自由電子報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFOVY0aVRJMmZGS2hPamxsUXptZkZsSDB3NjdmODZRWUZrcjhJLXd5Um5WS0dtcUVYeFlhaVc2WVVlaU93WE5sWU1SU2ZwSVptbDdoSEtR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "9a65a5e35589",
       "title": "抗癌蔬菜︱紅肉吃太多恐致癌！ 營養師大推神級解毒菜 抗炎兼防癌食4星期見效",
       "published": "2026-05-19T10:47:39+00:00",
-      "summary": "抗癌蔬菜︱紅肉吃太多恐致癌！ 營養師大推神級解毒菜 抗炎兼防癌食4星期見效&nbsp;&nbsp;香港經濟日報HKET2親戚得大腸癌！譚敦慈列「3飲食地雷」增罹癌風險 狂吃菜也難補救&nbsp;&nbsp;祝你健康飲食營養｜常食紅肉易致大腸癌 配1款解毒菜有效防癌 解毒抗炎食4星期見效&nbsp;&nbsp;東方新地譚敦慈2個家人有大腸癌！曝「3大地雷飲食」不要碰&nbsp;&nbsp;造咖大腸癌殺手？醫生揭飲食可防癌 多吃含這種營養素蔬果殺癌細胞&nbsp;&nbsp;香港01",
+      "summary": "抗癌蔬菜︱紅肉吃太多恐致癌！ 營養師大推神級解毒菜 抗炎兼防癌食4星期見效&nbsp;&nbsp;香港經濟日報HKET2親戚得大腸癌！譚敦慈列「3飲食地雷」增罹癌風險 狂吃菜也難補救&nbsp;&nbsp;祝你健康每天都吃1早餐得大腸癌！WHO認證「一級致癌物」醫：每天2片就增18％大腸癌風險&nbsp;&nbsp;Yahoo新聞譚敦慈2個家人有大腸癌！曝「3大地雷飲食」不要碰&nbsp;&nbsp;Yahoo新聞吃紅肉配芥藍菜營養師：幫腸道排毒又防癌- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "香港經濟日報HKET",
@@ -451,14 +464,26 @@
       "id": "424378abc697",
       "title": "RSV釀嬰兒重症僅3成家長知道！公衛專家籲「單株抗體」納公費接種 - Mombaby 媽媽寶寶懷孕生活網",
       "published": "2026-05-19T10:18:45+00:00",
-      "summary": "RSV釀嬰兒重症僅3成家長知道！公衛專家籲「單株抗體」納公費接種&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網比流感更兇的病毒！呼吸道融合病毒RSV&nbsp;&nbsp;Yahoo新聞健康網》守護寶寶呼吸 RSV防護有新招：長效型單株抗體&nbsp;&nbsp;自由健康網比流感更兇！RSV重症住院率高16倍 營養師點名3類人要特別留意&nbsp;&nbsp;民報英擴大RSV疫苗施打 300萬銀髮族受惠&nbsp;&nbsp;UDN",
+      "summary": "RSV釀嬰兒重症僅3成家長知道！公衛專家籲「單株抗體」納公費接種&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網比流感更兇的病毒！呼吸道融合病毒RSV&nbsp;&nbsp;Yahoo新聞健康網》守護寶寶呼吸 RSV防護有新招：長效型單株抗體&nbsp;&nbsp;自由健康網英擴大RSV疫苗施打 300萬銀髮族受惠&nbsp;&nbsp;UDN這不是普通感冒！1病毒住院率比流感高出16倍 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "Mombaby 媽媽寶寶懷孕生活網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSa2VOM180MDVyVktjcDFub2RRVVh3ajV2cDR4bHdjOTN6REZtWXptQVdWcTU2OHRtSG93TE9LeUZUX0dLc1ZqQ1AzdHAxMU5SUjZpclNn?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "d270151fc7d2",
@@ -1119,19 +1144,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "27afe20975e8",
-      "title": "女性免疫力強竟藏殘酷代價！實測百萬細胞曝防線過激 反遭「這系統」吞噬 | 自由電子報 - LINE TODAY",
-      "published": "2026-05-18T14:25:26+00:00",
-      "summary": "女性免疫力強竟藏殘酷代價！實測百萬細胞曝防線過激 反遭「這系統」吞噬 | 自由電子報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFOVY0aVRJMmZGS2hPamxsUXptZkZsSDB3NjdmODZRWUZrcjhJLXd5Um5WS0dtcUVYeFlhaVc2WVVlaU93WE5sWU1SU2ZwSVptbDdoSEtR?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "554d4b56a4a9",

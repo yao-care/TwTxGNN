@@ -1,7 +1,31 @@
 {
-  "generated": "2026-05-20T13:31:52.152313+00:00",
-  "count": 14,
+  "generated": "2026-05-20T16:47:26.582260+00:00",
+  "count": 15,
   "news": [
+    {
+      "id": "edad4cd6135c",
+      "title": "科學家發現了阿茲海默症的隱藏誘因並將其關閉",
+      "published": "2026-05-20T13:32:32+00:00",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNaU5JY0gzWVl6aUZaRGJMZDA4blFMSXJYcDRJUkdQbzNmZmwxWXpNTTJBRzBXLTl4M254bWVsMzQ3c2ppU1FyeDhWNGVNdXdmdTEtbENMSkk0R0JnemtHaXhJd1g0R1lVSnVSQ2ZkNjliZE00QURleTItbVRJZVlDdGgtV3RkcTRWTlhFWVhVLWdPQ0NTT0MyRkVGRmxDNWRLM0FNYV9LY0p2Yy1RY3VNTXRPbTEyWkhUR3lRYUdyWjlSUGNYT09oOHFpQ1F5a2RIMkgteEV3QmZEckRxUi12bk9fRkNJdWZtUlFBYWNaTVdVRGE2dG5HQWVlOU5CUXVaUm1IVWFELVpTdkE5Q1FnMkt1X0F1MHZOY0NyU3VqWVNGSVR0R1pqYTRWUGM0c21ndjBiQmZMOFYwRzAtcHIwVllzdHdocm9LT0pSNzFGcjBLSF9DTWU4UzVESTZ1MzhaY2h0OVZFalVxMGJmTjk0YU0xTmdOYmI4bkE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "c3874e0f7c4c",
       "title": "失智症新發現：孤獨、失眠為風險因子 血液檢測助早期篩檢",
@@ -32,30 +56,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ff03956b78fe",
-      "title": "29歲網紅妹「癌末身亡」！姐慟喊：一路好走...",
-      "published": "2026-05-20T11:00:00+00:00",
-      "sources": [
-        {
-          "name": "news.tvbs.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QZ3BpaDJHcmxZcXRzODNKdERVVGFnWEpOTkp0T3ZsV3J4LWtPWXhMTjFVQXI4dkdSV0FiQmoxMVF6ZVBSZ2FKVFpOeUYtc0N6dzBibmdpc0YwUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }
@@ -289,6 +289,30 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "424378abc697",
+      "title": "RSV釀嬰兒重症僅3成家長知道！公衛專家籲「單株抗體」納公費接種 - Mombaby 媽媽寶寶懷孕生活網",
+      "published": "2026-05-19T10:18:45+00:00",
+      "sources": [
+        {
+          "name": "Mombaby 媽媽寶寶懷孕生活網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSa2VOM180MDVyVktjcDFub2RRVVh3ajV2cDR4bHdjOTN6REZtWXptQVdWcTU2OHRtSG93TE9LeUZUX0dLc1ZqQ1AzdHAxMU5SUjZpclNn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }

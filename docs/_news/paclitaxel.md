@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [29歲網紅妹「癌末身亡」！姐慟喊：一路好走...](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QZ3BpaDJHcmxZcXRzODNKdERVVGFnWEpOTkp0T3ZsV3J4LWtPWXhMTjFVQXI4dkdSV0FiQmoxMVF6ZVBSZ2FKVFpOeUYtc0N6dzBibmdpc0YwUQ?oc=5)
-
-2026-05-20 <span class="news-indication-tag">子宮頸癌</span>
-
-來源：[news.tvbs.com.tw](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QZ3BpaDJHcmxZcXRzODNKdERVVGFnWEpOTkp0T3ZsV3J4LWtPWXhMTjFVQXI4dkdSV0FiQmoxMVF6ZVBSZ2FKVFpOeUYtc0N6dzBibmdpc0YwUQ?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [《子宮頸癌小學堂》：從HPV、抹片檢查到癌前病變，陪妳一步步安心了解](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JSkRyRHVIcy1FQjVNZWZRbGczN056OU9WMFBEZ0QtN1FVQzlDMUdhWXYtNWlHS1FmUEZqME1yZWFOYWI0bHIzTTE1d0ExbFRFTmN3Z3pPSQ?oc=5)
 
