@@ -1,7 +1,55 @@
 {
-  "generated": "2026-05-20T02:34:13.162415+00:00",
-  "count": 7,
+  "generated": "2026-05-20T06:41:14.792473+00:00",
+  "count": 10,
   "news": [
+    {
+      "id": "e73964cd8ac3",
+      "title": "子宮頸癌早期幾乎沒症狀！醫示警「3異常」恐已晚期：每年奪700命",
+      "published": "2026-05-20T05:51:28+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQNzdwQ2lyQmdLM3hRZ2Z6NmRVRVVPTzY1QnpXY0VNY0pxbHNvWU1ZcEN3UGxSMFNDVF9CWnN4ZV9yTHVZdHVDNjY5aTl0YXI1VzJIR1RvbzB2eW0yUmI4YzJVamEyWC1pVXZoaG9kbmt5cHRXaFRrVUJtUXpMR184aURMeUxuaHJYTDJZa21JX1RUaWhOaUJaU1RNVVJmejdoYnE0YXhGbkcwRFRFbmlzSlBMMW12c0dWYWFyRlo3SW1ORVREd1lzZ2hpdmw3TkFRSDMwZFNaZmhidDNqbTRWWjFEQk1tM1RNVVQ5ZldsXzQ1ajdUcVFlQk0tY2xNZXpuNVZEaWdGd2dDbTVFNzQwY0J6QjZSQy1mckgzdGVQejkwbHZBN21TQ2RaczFZOV9ueVR2ZlFidEtsOURzZ1Y3a0dXZlFWVGxIWHZ5RDJaNFJDV2hEczk4QkN4OGxLTDl5WmZHeG9ENlRldW4yNDY4RHBTa1lNcVNUeFhhNVhR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1e7b25e6e689",
+      "title": "29歲網紅不敵子宮頸癌離世 曾為自己辦一人婚禮 留悲痛遺言：痛苦都體驗完才能解脫",
+      "published": "2026-05-20T05:00:00+00:00",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxQcVNuR2pJVjNBemZuaDlFNFlVWG5MNlJPclB4LUFJbEE4UEhUQjNJZmRMdnotSGhzU19Lb2ozbExKZ2dIWEg2aWI4Q29FSHIwVDhuNC1yc0xGeENBSDRCRUNCdGpNVElfS2w2dWZTV01HdXdHaS1VQnJvd29RcGtPR0RRZ2p2c3BMNWdDZnNiTWdIOWdkSFozNEpSZzl0Z3hVTEJ5YnU2aFdqQWVNYU5fclo2eGFGaGY5aUpDQkE4TEhFdVluSmw1U296Q0t6dWNGZFZwME1NeUlVeVduYmZwQWowdE1MWWJQZG5UU0tsU1Z6UFppbEl0OGRTQUVIR1l4TTRuV0JHQnJqNGxFVmF1eWdDWTdfTF85Q09YY0p1NV9ENjRFLVd3QVdOUlByZVZ3TGJoY2FPVFBJcTFSRHdTa3FnME1wMWNFeXJNVnRwRkh2aWFvZjk5RjdybWxkMW92MmJOUGZQODVpM2J5ODUwanhhMHFGeUpFQWh4MjlUUVpTV0lxc0tBTV9RN3pRaEJnN3BKaDNuUFlNb2I2QS1Ta0hfU0ZGNFZjRVlXRnJVc3IzTS1VRGpCZi1NSUVEbW01OXltUXh3Zl9YWUZZSGlUODRORlN3TzlOMlhwLXVUOW1xNDd1VzBEVWdGdXRWbWhjdERlak9QV3lfdHhJWXNfdU9RS0s?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "5878841b163f",
       "title": "腸胃炎忌食稀飯！醫生指或刺激胃酸加重腹瀉 推介3 食物代替",
@@ -40,6 +88,53 @@
             {
               "slug": "berberine",
               "name": "Berberine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9a65a5e35589",
+      "title": "抗癌蔬菜︱紅肉吃太多恐致癌！ 營養師大推神級解毒菜 抗炎兼防癌食4星期見效",
+      "published": "2026-05-19T10:47:39+00:00",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMikARBVV95cUxNeTBOVkNGNXdXRkQzYk0xLW9mWHFleGdVdVZqdEFvb0prUTRvaG5fNjQwM2dJNmV5dGczVFVJMUE3emVCRlR0Z3VYcWw1YUc0WTlwcldJWWFSZ3kwal8tSmtKWi1oRkk0d3Y5N0h2MnhMWnV3TGZTU1U3R05kcU5rTWczWnd3LWxJUHB4ckJTWnpYSEVNa2RlZWl5b1ZQWWhHdFJBbTJSYV9KQ3phVDdyODFVa2tHdlRXY0lpbWZwTWprTzdlVU9zWFdSTTEwZFJRN1hsTnZlbmxyb0Zza0YzRjltWWVjYzhpQTBnU0hKUlQ4X2tvT1hfTF84M0RQdUFZa1djX3RaSkRZd3RzOU02aEUya0NFem1VTlJxSGJvUFY0V1E4d3BuLVA4YnV3VURyZTAtY3k4M2YxSDRnUkRfd0Nra1pSY2VoTVFBbTlvSG0zdXlkaTA0NDZGUGpHSUZPaGE0SEFVdW5Ody1TS3NzcUhldTk1RFFCTV9jUGhiU3ByY3lfd250enFVQ3liU1B6UUppQ0tuRnFDbVA2Ujd4TkFHSlFDckwwM256X0RVNTdpLUNDeDVVODNtSFZrRTNpMkJQTXFWcHp4dGhqTlNhRHdYbWNNcVFDQmFFeGtBaGZKN1JBbWVUYjRuRFJEVU9YWm5LSnVfeHRfdGdjWlA4WEpaNHNyMVAyOXpfX3ZDNmI?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
@@ -313,13 +408,13 @@
       ]
     },
     {
-      "id": "31fae2cff7d5",
+      "id": "24f61bfbc449",
       "title": "AI模型僅靠單次MRI掃描 精準預測阿茲海默症病程",
-      "published": "2026-05-19T03:33:35+00:00",
+      "published": "2026-05-19T03:03:05+00:00",
       "sources": [
         {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPSWhNM3JyWW41Zm9FNkdRenJtUWF3ZjlNUnV2cWJZMWRaNmQ2Rm9nanh4S1JqbnFUcTlabW9DVXJhVU81OTY3RDdWbFViUzM1SmNTT3dWazdwLTRrRndWcTNmYXVVdzBSVHFBQ1NhTXdVQ2hPT1d2NS1oT0lOa3ZYTU1WSzNRcmZXVE9SYnNGdlctRlJ3T215ZDBSYnFCTjJFcTZRbnFwTTh4d2lVd01SekRRS3ZocHJOSExCbUJ0ZHdKdU9hODFVSDJpUUItY0tvU3kyNDNaQ0tYUngxNVZPOVM1QkctNjBRM1NPN0hTTXMtWU1vWFlrQ1MtU2xxT2U2UVpEcncxV1g4X2tHYjZzaDZWelJoaGxfc2RZaWtpZlB5N3h6emI0bWlWZjZKd0ZqZEM0bU9vT2tQa25oOXpCM1lxM1F4OGFwcjdCR0VNZG5aYWJpVkR5ck5fT0Rmb00?oc=5"
+          "name": "Yahoo股市",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNU3M0RzU4c1RPNnp1LXk4WUxEYVU1U19ZNlpGV1BmaWlheE9DZG9IRFpnb0tldTAxX3dtVGNlbnVqSVBDbW5ZR3pJWnBjR2NMTXVDR1hLMGVYLUxOMjM0RVdtb1R4d2pydkFFbWtIT3UtX1BCQnBsNjZyeUVqVjVydmZWMXRJYWtiYUZ2MTZrTmJaeF9aSTZ1WHF2YmNNSjBDZzh4alUtT19xVl8xcFlYWk1FZkg5VGh4S1lIVnAtM3dlNVVnRzhwakZHWjhPZDlsVEh4OWZ6LUpQV0JLdWp6elFUWkhnMUp1WUlWeHVRdlhKWVJCajlkTnRQZjRLOXhMV1B0SGNTZnNHaTBvZWZRVXF6bnZtZWJRSGxJN2xMR3VtNk55NEM1TXJDSXdHZzRQR09QZ280dlI1VlVVZXhYZmktZnNhdkk?oc=5"
         }
       ],
       "keywords": [
