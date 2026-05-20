@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-20T16:47:22.921665+00:00",
+  "fetched_at": "2026-05-20T19:14:38.283576+00:00",
   "count": 32,
   "news": [
-    {
-      "id": "1afab82c4ba9",
-      "title": "《子宮頸癌小學堂》：從HPV、抹片檢查到癌前病變，陪妳一步步安心了解 - 華人健康網",
-      "published": "2026-05-20T08:21:22+00:00",
-      "summary": "《子宮頸癌小學堂》：從HPV、抹片檢查到癌前病變，陪妳一步步安心了解&nbsp;&nbsp;華人健康網",
-      "sources": [
-        {
-          "name": "華人健康網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JSkRyRHVIcy1FQjVNZWZRbGczN056OU9WMFBEZ0QtN1FVQzlDMUdhWXYtNWlHS1FmUEZqME1yZWFOYWI0bHIzTTE1d0ExbFRFTmN3Z3pPSQ?oc=5"
-        }
-      ]
-    },
     {
       "id": "ae13a7cbc587",
       "title": "傳染病連環爆免驚！ 林氏璧盤點「4大病毒」：無法造成全球大流行 - Yahoo新聞",
@@ -24,6 +12,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOaC1EVUVOaHZ4WktoWnZnYVo5QUxKdVNrcmwwUjl6MEV4Z2lvSkNDU0Q3SWdqbnZOT2NLMEVwX3BBRTBwaU5DbzF3ZGFDTlJxVk5ZYzMtYW5wWWZ0T3RRdzRicUd3MjNQSGRJMHExYm1ONy01SkViakJLUWxmZVdCaXV3YkMxU3ZueEt4bFUyLXVDLUN5YmF5Z256VXZaYi1tWjJlZ0xQUWNOaXF4M0VNX0NSWUZuWW9XMC00VXN6V0tjenZzY0E1RmJ3TTRZSmhtalVkQjJ2Wl9TYWpEN2xnblg3VUp4VE0wVmlQVjlxdWhFWXVmbFo5UkZjT01lRjBnUmFiZ0RfZDB0NFo0aXRFTlcwTmdSVUNGNlNIbV92LUszelJEOUFzOHJRZTlSWUNTUzltS25qdzROY1dsS0hWT3NNbFJDeWpRYTA0aDhId1ctc3ZFd01MdlRWOVNfS2lyRUU3b1pqNWJycERzYXBQeW53WkRXNFNiaHlaZ2VYLUM5Wmdn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1afab82c4ba9",
+      "title": "《子宮頸癌小學堂》：從HPV、抹片檢查到癌前病變，陪妳一步步安心了解 - 華人健康網",
+      "published": "2026-05-20T08:21:22+00:00",
+      "summary": "《子宮頸癌小學堂》：從HPV、抹片檢查到癌前病變，陪妳一步步安心了解&nbsp;&nbsp;華人健康網",
+      "sources": [
+        {
+          "name": "華人健康網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JSkRyRHVIcy1FQjVNZWZRbGczN056OU9WMFBEZ0QtN1FVQzlDMUdhWXYtNWlHS1FmUEZqME1yZWFOYWI0bHIzTTE1d0ExbFRFTmN3Z3pPSQ?oc=5"
         }
       ]
     },
@@ -64,18 +64,6 @@
       ]
     },
     {
-      "id": "864233e0d168",
-      "title": "科學家發現維生素 D 與疼痛之間的奇怪聯繫 - arch-web.com.tw",
-      "published": "2026-05-20T07:34:06+00:00",
-      "summary": "科學家發現維生素 D 與疼痛之間的奇怪聯繫&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNNl9uLVBGWXFwR3ZreTdoRkE4alJJTm5LQW42WG04SUZlNWlNemZVX3l1cnFHUllGclVZUXU0a2NuUjZhZmp4U1BITmhNSVl6RVdyYVdtUDQzR0R4WlBFTkxKNnExcFExbEdGWGpveXl2X0dyUWJoX2NPZDhFS2p5UWU0Wl9GRG15NFhlOWNuQ1haSXR2ZFVTTEZlUVVocHBUaWtGeVE2cFo5OG9HZTYtMEFOUldycFBDZ1BrcWZERW5aMWdMQ2dWcU1KUl9uY0VadmdyZnlRal9lZGdXU3JhUE5odkFramJoWndHZmJWdTBpaGhHclJLOUtfSkY1cXhUUlVWVnBSeDVpanRRMjFGbnRSRzRac3RBbzl4cGVlRGFlMVQyOUNxeGpLRWxSck5Kc0NUMUNXSWdDcnEzbGVqUXFqLWFzU3k3R25JS3JxeGgyQ3Jwcmh2cWh3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "01fed18a1f24",
       "title": "女性更易失智！風險比男性高2倍 醫點名5大傷腦地雷 50歲後必看護腦方式 - TVBS 健康2.0",
       "published": "2026-05-20T10:38:00+00:00",
@@ -88,14 +76,14 @@
       ]
     },
     {
-      "id": "3ebc255b60c7",
-      "title": "講話常「嗯」、「啊」別只當口頭禪 說話方式恐暗藏失智風險 - 科技島",
-      "published": "2026-05-20T09:53:10+00:00",
-      "summary": "講話常「嗯」、「啊」別只當口頭禪 說話方式恐暗藏失智風險&nbsp;&nbsp;科技島",
+      "id": "864233e0d168",
+      "title": "科學家發現維生素 D 與疼痛之間的奇怪聯繫 - arch-web.com.tw",
+      "published": "2026-05-20T07:34:06+00:00",
+      "summary": "科學家發現維生素 D 與疼痛之間的奇怪聯繫&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56ODQ4bHAxMWEzTGJQaWRQTUJDdmRnUGw2UVVsYkVLd1BJRkw5bW1GRkFxRi1kQU5ieURZcTlwZjk0OU93V3dWTXpHaDVxOWVNWVJVUUQzQ0QzcWQ3MHBr?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNNl9uLVBGWXFwR3ZreTdoRkE4alJJTm5LQW42WG04SUZlNWlNemZVX3l1cnFHUllGclVZUXU0a2NuUjZhZmp4U1BITmhNSVl6RVdyYVdtUDQzR0R4WlBFTkxKNnExcFExbEdGWGpveXl2X0dyUWJoX2NPZDhFS2p5UWU0Wl9GRG15NFhlOWNuQ1haSXR2ZFVTTEZlUVVocHBUaWtGeVE2cFo5OG9HZTYtMEFOUldycFBDZ1BrcWZERW5aMWdMQ2dWcU1KUl9uY0VadmdyZnlRal9lZGdXU3JhUE5odkFramJoWndHZmJWdTBpaGhHclJLOUtfSkY1cXhUUlVWVnBSeDVpanRRMjFGbnRSRzRac3RBbzl4cGVlRGFlMVQyOUNxeGpLRWxSck5Kc0NUMUNXSWdDcnEzbGVqUXFqLWFzU3k3R25JS3JxeGgyQ3Jwcmh2cWh3?oc=5"
         }
       ]
     },
@@ -108,6 +96,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hQVJzaEtwemtRelRBLTMwN2IxUDE4THBNMUZuWTZoOG15b2VXLVF2MVh1NlVMVnNBa3dISXJzYTRJQ3Fkb29NaXh5SHkzNVVnWGxFdVN2cEhrY3g0T21Ccl9pTGLSAWpBVV95cUxOM0FLWDNWdkVHWXFsSXBRVUU3ekVXUzJkRnQ0TkY5THZhS2tQSmlyNUltVTM1ejRqRlg4RW5Jc0UxM3VHeXhHWnNaTW9rTldrekdaVzhiakNLUUlXWW9HNDZRT0FmZmVlU1NB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3ebc255b60c7",
+      "title": "講話常「嗯」、「啊」別只當口頭禪 說話方式恐暗藏失智風險 - 科技島",
+      "published": "2026-05-20T09:53:10+00:00",
+      "summary": "講話常「嗯」、「啊」別只當口頭禪 說話方式恐暗藏失智風險&nbsp;&nbsp;科技島",
+      "sources": [
+        {
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56ODQ4bHAxMWEzTGJQaWRQTUJDdmRnUGw2UVVsYkVLd1BJRkw5bW1GRkFxRi1kQU5ieURZcTlwZjk0OU93V3dWTXpHaDVxOWVNWVJVUUQzQ0QzcWQ3MHBr?oc=5"
         }
       ]
     },
@@ -139,7 +139,7 @@
       "id": "a51316b1eec7",
       "title": "打疫苗電燒都沒用！女子菜花反覆爆發 醫聽她職業後沉默 - 民視新聞網",
       "published": "2026-05-19T00:22:49+00:00",
-      "summary": "打疫苗電燒都沒用！女子菜花反覆爆發 醫聽她職業後沉默&nbsp;&nbsp;民視新聞網打疫苗嘸效！20歲女私密處反覆長出「滿滿菜花田」…醫嘆：人生比病難治&nbsp;&nbsp;祝你健康20歲女打疫苗仍炸出「滿滿菜花田」! 醫師一聽鼻酸： 人生比病難治&nbsp;&nbsp;MSN醫起看／20歲女打疫苗仍長滿「菜花田」 醫搖頭了&nbsp;&nbsp;東森新聞【20歲女打疫苗仍炸出「滿滿菜花田」！醫師一聽鼻酸：人生比病難治】 （示意圖／免費圖庫123RF） 人生真的好難...(#起啵)&nbsp;&nbsp;Facebook",
+      "summary": "打疫苗電燒都沒用！女子菜花反覆爆發 醫聽她職業後沉默&nbsp;&nbsp;民視新聞網打疫苗嘸效！20歲女私密處反覆長出「滿滿菜花田」…醫嘆：人生比病難治&nbsp;&nbsp;祝你健康20歲女打疫苗仍炸出「滿滿菜花田」! 醫師一聽鼻酸： 人生比病難治&nbsp;&nbsp;MSN醫起看／20歲女打疫苗仍長滿「菜花田」 醫搖頭了&nbsp;&nbsp;東森新聞【20歲女打疫苗仍炸出「滿滿菜花田」！醫師一聽鼻酸：人生比病難治】 （示意圖／免費圖庫123RF） 人生真的好難...(#起啵)&nbsp;&nbsp;facebook.com",
       "sources": [
         {
           "name": "民視新聞網",
@@ -270,8 +270,8 @@
     {
       "id": "0ce8d8b496f8",
       "title": "流感｜兩童現嚴重併發症 12歲男童乙流併發腦病變 情況危殆留醫PICU - singtao.ca",
-      "published": "2026-05-20T10:54:30+00:00",
-      "summary": "流感｜兩童現嚴重併發症 12歲男童乙流併發腦病變 情況危殆留醫PICU&nbsp;&nbsp;singtao.ca前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "published": "2026-05-20T10:38:04+00:00",
+      "summary": "流感｜兩童現嚴重併發症 12歲男童乙流併發腦病變 情況危殆留醫PICU&nbsp;&nbsp;singtao.ca兩兒童感染流感併發症其中一人仍危殆 防護中心提醒流感季或來臨&nbsp;&nbsp;橙新聞衞生防護中心調查兩宗兒童感染流感的嚴重個案- 政務號&nbsp;&nbsp;大公文匯網兩男童感染流感後出現嚴重併發症 其中一人危殆&nbsp;&nbsp;香港電台新聞網流感｜12歲男童感染乙型流感 併發腦病變情況危殆 目前仍留醫&nbsp;&nbsp;香港01",
       "sources": [
         {
           "name": "singtao.ca",
@@ -292,18 +292,6 @@
       ]
     },
     {
-      "id": "d270151fc7d2",
-      "title": "不只是老了！總是累、皮膚差、不知不覺變胖？專家警告：這 6 個徵兆代表你荷爾蒙失調了 - Women's Health",
-      "published": "2026-05-19T07:44:07+00:00",
-      "summary": "不只是老了！總是累、皮膚差、不知不覺變胖？專家警告：這 6 個徵兆代表你荷爾蒙失調了&nbsp;&nbsp;Women's Health",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPakN6RVEwUkU1WmpuUWZLSmEyVnh2dDRQYWFxUDlBQ09MOW5GNVlUaEcxckJVTkR2NlVrN0k3SlVwYXdyRndmV2VNc05WUW1UZEVwNUlvajRRbVhPdlNJaFpzdUtvdW55SUxIZUdqVWN5QUpSWkVBSVBMUU12Vm0wTDBwZDlfRVdyVmYwWGdXTjRBdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b76f2166b082",
       "title": "突破性藥物可以減緩皮膚老化並加速癒合。 - arch-web.com.tw",
       "published": "2026-05-20T08:07:30+00:00",
@@ -312,6 +300,18 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNWE1wRnpmR3NzcmRkZG1ZcW1kMUxlMmFBaXBjMXdOT25MTVdldHFYMUFjalVnWGVuRHRYM0w3S284aVBvamNhZ19nT0c2SGhxRnpnWjMwQUdmMUJacW1DUDYwMW8zdjIxdEtJV3JhTTBIZ0o3QVB5OE9YZjgwZ2ppQ3RNNklESUNLbzBFaTNJbTQxbDJkaGZEUFY5VmU5UENUSzFzTm1Va2wzZWp0SkdSUkxraVloMVoyOEVzanVETGkxRTQ4OGp4M1JTTlpYT0tvMHdEWUs3T1E1TEotd1pvYWlHOHQ3MzNtZUI2RW5sTlF5bVRKTVhwT3lxb1NVVTVGa1pEWHpaNGluQlZnUUVDVVQ0d2tqdEoxa1hxTXVtRWZqYmIwdTIwU3JzczZpNlhJRl92MTdUU0JOdXVSWDZ1WDBOY3RhVl9RQXBVRm5EV2tZQ3ZheV9EQk1seFYtU1ZXR1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d270151fc7d2",
+      "title": "不只是老了！總是累、皮膚差、不知不覺變胖？專家警告：這 6 個徵兆代表你荷爾蒙失調了 - Women's Health",
+      "published": "2026-05-19T07:44:07+00:00",
+      "summary": "不只是老了！總是累、皮膚差、不知不覺變胖？專家警告：這 6 個徵兆代表你荷爾蒙失調了&nbsp;&nbsp;Women's Health",
+      "sources": [
+        {
+          "name": "Women's Health",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPakN6RVEwUkU1WmpuUWZLSmEyVnh2dDRQYWFxUDlBQ09MOW5GNVlUaEcxckJVTkR2NlVrN0k3SlVwYXdyRndmV2VNc05WUW1UZEVwNUlvajRRbVhPdlNJaFpzdUtvdW55SUxIZUdqVWN5QUpSWkVBSVBMUU12Vm0wTDBwZDlfRVdyVmYwWGdXTjRBdw?oc=5"
         }
       ]
     },
