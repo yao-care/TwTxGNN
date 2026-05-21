@@ -43,6 +43,14 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（7 則）
 
+### [台中疫苗補助卡關長者「皮蛇」纏身痛如酷刑- 生活](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pQTZaMkRCR2NFM293ZkxJVmNudGZuV29wN2lKQnptLVl1ZmduUjV1UVRsTEFteGFWb3lCaEZvMlVKZEFOeUhoeHJKdHRDSUd3RnllSW5kUllLazBBNmVF?oc=5)
+
+2026-05-21 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">生蛇</span> <span class="news-indication-tag">神經痛</span>
+
+來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pQTZaMkRCR2NFM293ZkxJVmNudGZuV29wN2lKQnptLVl1ZmduUjV1UVRsTEFteGFWb3lCaEZvMlVKZEFOeUhoeHJKdHRDSUd3RnllSW5kUllLazBBNmVF?oc=5)
+
+---
+
 ### [科學家發現了阿茲海默症的隱藏誘因並將其關閉](https://news.google.com/rss/articles/CBMi-gJBVV95cUxNaU5JY0gzWVl6aUZaRGJMZDA4blFMSXJYcDRJUkdQbzNmZmwxWXpNTTJBRzBXLTl4M254bWVsMzQ3c2ppU1FyeDhWNGVNdXdmdTEtbENMSkk0R0JnemtHaXhJd1g0R1lVSnVSQ2ZkNjliZE00QURleTItbVRJZVlDdGgtV3RkcTRWTlhFWVhVLWdPQ0NTT0MyRkVGRmxDNWRLM0FNYV9LY0p2Yy1RY3VNTXRPbTEyWkhUR3lRYUdyWjlSUGNYT09oOHFpQ1F5a2RIMkgteEV3QmZEckRxUi12bk9fRkNJdWZtUlFBYWNaTVdVRGE2dG5HQWVlOU5CUXVaUm1IVWFELVpTdkE5Q1FnMkt1X0F1MHZOY0NyU3VqWVNGSVR0R1pqYTRWUGM0c21ndjBiQmZMOFYwRzAtcHIwVllzdHdocm9LT0pSNzFGcjBLSF9DTWU4UzVESTZ1MzhaY2h0OVZFalVxMGJmTjk0YU0xTmdOYmI4bkE?oc=5)
 
 2026-05-20 <span class="news-indication-tag">阿茲海默症</span>
@@ -88,14 +96,6 @@ permalink: /news/gefitinib/
 2026-05-19 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hQVJzaEtwemtRelRBLTMwN2IxUDE4THBNMUZuWTZoOG15b2VXLVF2MVh1NlVMVnNBa3dISXJzYTRJQ3Fkb29NaXh5SHkzNVVnWGxFdVN2cEhrY3g0T21Ccl9pTGLSAWpBVV95cUxOM0FLWDNWdkVHWXFsSXBRVUU3ekVXUzJkRnQ0TkY5THZhS2tQSmlyNUltVTM1ejRqRlg4RW5Jc0UxM3VHeXhHWnNaTW9rTldrekdaVzhiakNLUUlXWW9HNDZRT0FmZmVlU1NB?oc=5)
-
----
-
-### [AI模型僅靠單次MRI掃描 精準預測阿茲海默症病程](https://news.google.com/rss/articles/CBMiOkFVX3lxTFA5d2I4eTBQd21GS0FlSjJHUk5RMFg2U1BQRHludlNzWHNxNVBsdVJVZUlha0tybkNMX1E?oc=5)
-
-2026-05-19 <span class="news-indication-tag">阿茲海默症</span>
-
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTFA5d2I4eTBQd21GS0FlSjJHUk5RMFg2U1BQRHludlNzWHNxNVBsdVJVZUlha0tybkNMX1E?oc=5)
 
 ---
 

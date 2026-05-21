@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,23 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [台中疫苗補助卡關長者「皮蛇」纏身痛如酷刑- 生活](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pQTZaMkRCR2NFM293ZkxJVmNudGZuV29wN2lKQnptLVl1ZmduUjV1UVRsTEFteGFWb3lCaEZvMlVKZEFOeUhoeHJKdHRDSUd3RnllSW5kUllLazBBNmVF?oc=5)
+
+2026-05-21 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">生蛇</span> <span class="news-indication-tag">神經痛</span>
+
+來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pQTZaMkRCR2NFM293ZkxJVmNudGZuV29wN2lKQnptLVl1ZmduUjV1UVRsTEFteGFWb3lCaEZvMlVKZEFOeUhoeHJKdHRDSUd3RnllSW5kUllLazBBNmVF?oc=5)
+
+---
+
+### [癲癇發作「塞湯匙」防咬舌？急診醫示警「這些動作超危險」：送醫前必做的5件救命小事](https://news.google.com/rss/articles/CBMie0FVX3lxTFAyQk5ZZUwwSnp2X2c4R0R4di1nTGwxdkxrR0YwZnM5LVp0TW1ab3F0QjBkWmRTV3BnQXo3aXRaa2NkZkNlV0FsUzE5bzdsMnB5MnNneHNNNlJfUGVGcVRLcW94OWV1Zm4xVTdQcEx6Vkp4eHNEQ05ENVdXaw?oc=5)
+
+2026-05-19 <span class="news-indication-tag">癲癇</span>
+
+來源：[幸福熟齡](https://news.google.com/rss/articles/CBMie0FVX3lxTFAyQk5ZZUwwSnp2X2c4R0R4di1nTGwxdkxrR0YwZnM5LVp0TW1ab3F0QjBkWmRTV3BnQXo3aXRaa2NkZkNlV0FsUzE5bzdsMnB5MnNneHNNNlJfUGVGcVRLcW94OWV1Zm4xVTdQcEx6Vkp4eHNEQ05ENVdXaw?oc=5)
+
+---
 
 
 <div class="disclaimer">

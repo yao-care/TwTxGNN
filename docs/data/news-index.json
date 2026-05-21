@@ -1,7 +1,252 @@
 {
-  "generated": "2026-05-21T02:31:53.383702+00:00",
-  "count": 14,
+  "generated": "2026-05-21T06:43:39.452673+00:00",
+  "count": 13,
   "news": [
+    {
+      "id": "e1ac859d2a44",
+      "title": "台中疫苗補助卡關長者「皮蛇」纏身痛如酷刑- 生活",
+      "published": "2026-05-21T05:31:00+00:00",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pQTZaMkRCR2NFM293ZkxJVmNudGZuV29wN2lKQnptLVl1ZmduUjV1UVRsTEFteGFWb3lCaEZvMlVKZEFOeUhoeHJKdHRDSUd3RnllSW5kUllLazBBNmVF?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "皮蛇",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "生蛇",
+          "keyword": "生蛇",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "神經痛",
+          "keyword": "神經痛",
+          "related_drugs": [
+            {
+              "slug": "ibuprofen",
+              "name": "Ibuprofen"
+            },
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "38fbf0a2e385",
       "title": "照護線上》給寶寶的第一份見面禮，呼吸道細胞融合病毒（RSV）長效型單株抗體「出生即防護」策略解析，專科醫師圖文懶人包",
@@ -27,13 +272,13 @@
       ]
     },
     {
-      "id": "533e36b162b8",
+      "id": "3573b1d7f763",
       "title": "保健》防子宮頸癌 醫籲打HPV疫苗",
       "published": "2026-05-20T20:10:00+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRjNmcE42aXAxNFFXbDNBSDdBTFBzeDhKM2ZzZnJnOWV4aXlpQjA3b25vQjVDcHFGVXdmQk1tc3JJeDhfZWlUY3IwSTduSmxuMDdoZFpIaUpneF84MDB0TGxoc0RDVHcxbmdjUndzdmxKYWQtb3J3c1gwQTRBZHJmb2Y2RWZpQy1NM3lfNmtFYzVRX0tWbFlwdjhHb0tUakZ1bTdCbjVlU215a3puTFcxVk1RejlBRGFPWEdDd3N3OE1ZWHJnYks3YmRtTURhOHZuT2dNMHhiR2hOUjhFMlRnY2NVeXJwUk44dmc?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94SHEzbU5RRUZWU3I4N2tXcmxiTTFZYnE5SlNaOEJWVnZXNXJuRlRmYnZNNlBVTXBTa3RlRUo3d0lEd1NqU08wUFlRbVZvVTJaYVBfRVllYWpKX2FlVUJRYWNEYVRFX2d0VlFj?oc=5"
         }
       ],
       "keywords": [
@@ -182,30 +427,6 @@
       ]
     },
     {
-      "id": "1afab82c4ba9",
-      "title": "《子宮頸癌小學堂》：從HPV、抹片檢查到癌前病變，陪妳一步步安心了解",
-      "published": "2026-05-20T08:21:22+00:00",
-      "sources": [
-        {
-          "name": "華人健康網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JSkRyRHVIcy1FQjVNZWZRbGczN056OU9WMFBEZ0QtN1FVQzlDMUdhWXYtNWlHS1FmUEZqME1yZWFOYWI0bHIzTTE1d0ExbFRFTmN3Z3pPSQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "704455df3b95",
       "title": "市民50歲起可參與大腸癌篩查 提防大腸瘜肉變腸癌 - 晴報 Sky Post",
       "published": "2026-05-20T07:32:47+00:00",
@@ -343,6 +564,30 @@
       ]
     },
     {
+      "id": "3b3e18f751e3",
+      "title": "癲癇發作「塞湯匙」防咬舌？急診醫示警「這些動作超危險」：送醫前必做的5件救命小事",
+      "published": "2026-05-19T06:52:00+00:00",
+      "sources": [
+        {
+          "name": "幸福熟齡",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyQk5ZZUwwSnp2X2c4R0R4di1nTGwxdkxrR0YwZnM5LVp0TW1ab3F0QjBkWmRTV3BnQXo3aXRaa2NkZkNlV0FsUzE5bzdsMnB5MnNneHNNNlJfUGVGcVRLcW94OWV1Zm4xVTdQcEx6Vkp4eHNEQ05ENVdXaw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "癲癇",
+          "keyword": "癲癇",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "28903acb08ef",
       "title": "長壽基因或保護腦細胞 降低老化與失智症風險",
       "published": "2026-05-19T06:06:00+00:00",
@@ -372,54 +617,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a0f4f604422d",
-      "title": "AI模型僅靠單次MRI掃描 精準預測阿茲海默症病程",
-      "published": "2026-05-19T04:57:40+00:00",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFA5d2I4eTBQd21GS0FlSjJHUk5RMFg2U1BQRHludlNzWHNxNVBsdVJVZUlha0tybkNMX1E?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ac7a811e1981",
-      "title": "子宮頸癌︱20歲女經期大出血驚患子宮頸癌疑常用1類廁紙致癌醫生：2種成分損生殖器【附消委會推薦8款廁紙】",
-      "published": "2026-05-19T04:23:00+00:00",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMipAVBVV95cUxOSE8wd3ZCUm05N1h1V0x5VmhqUUp0UHZkTE8tdWljaWpnM3pqSTFYZTlZdjhnLU5VaUd2ZTlCeGpaNHk4V2dMZHl0ZVIyZnZJX00yUElJVFBQc3BEQ0dfTGVkTEk0T2g2d0l3SUlQT1d2c1Jjbkw0b3VRZ0xPY0tHZXRhenM2eVRMYUJiak4tWmFhbkZDcTkzTHhldU5mdVdEUEZKbHZfUzhjSnhoSlllN1dVZUVlQmYxNU1SeGdpWXRGUnlpODlxc2xyM3FXek9nNjY1TnZpUkNTXzItTEZVeHFGTTN0WjJIRFk5Y0cyNFlWVXVDVVFSQzF2WjhUOFVUYndEakpXSlpZV2RzTm8wbHU1Ym9QcEdwTWVEYmNwWFRqek5iem9HWnl6S2JhRFJGbDZwX3p2RHNnaW5ULVhZNWcwYXFuQjhqVXhYSmtrSWFCUC1lWmpfbWVDZEtKZ3gycWRlNlIzbTJsR1QyVmo4YTdRX1lLb3BvaUNNd19yOGdJeUtGSXFvNGw3c2kxNXE5R2xmRDJ6R0dmWkJOS2g4WlFUQnh6N0JRXzFTWWhhVG04REZ2cGg0Y2p4aHM3bk9fbldUVm5ZMVQzVHNCcmVrTlJJSUJ5MkZsNFZQcWVGNndFRzVFNHNVTURpbkVTWE1WUWN4cHkzQkI1NHhmamxpaldhVHhaY0RuYXVIbHJ3VGhqaS1oVEpySmRNX3VHYlBwM1VSdkQ5MnRJcl8xMDBLY0Y4cHhQZW9iWEx0SXp0R1RpMXpiblZSTEk3Q2ZTaEFqVmpZTmNGZVZWeU53ZFJvUDZ1R0RjZlNMN3R6eWl6QlZiTldfRWlMWldNZ3l2TENiUzdjQ0lJR2FVVll6NFVOUzBhWjJzNGpyWEdFbTdwYUxtbm5k?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }
