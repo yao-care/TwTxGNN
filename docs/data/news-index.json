@@ -1,7 +1,55 @@
 {
-  "generated": "2026-05-21T16:35:25.502756+00:00",
+  "generated": "2026-05-21T18:53:44.203959+00:00",
   "count": 11,
   "news": [
+    {
+      "id": "cf25afc6229c",
+      "title": "研究發現加拿大乳癌發病率偏高地區",
+      "published": "2026-05-21T17:21:00+00:00",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TVzhpRURoX0dPRjVJWGNpWFJIRTlJT29MVm5jNnZlTzB4Y3hlTU1JeXA2YkVzakx0NDR5UVZielZ6N2RYVFBZT05uZ2tWTVNvX0tuaWpxcWU3Zzc5bkZ4TtIBZkFVX3lxTE5xc0FFVVNQREpRMjlaaVdqNnBBUVRMLVJFN0MyVTJTdlZPUk9Sb00zaTFELUxZSlIwTS1RNXdqcnU4eWNONmV5aHNVV1lSSEkycEIyR05VTERHRTJYTHVCOHk3b25zdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "9110297b4f1c",
       "title": "科學家發現數百種癌症突變共有的隱藏弱點",
@@ -390,13 +438,13 @@
       ]
     },
     {
-      "id": "68a77656a358",
+      "id": "b12ca820cb6c",
       "title": "腦退化先兆｜老人家常跌親響健康警號 失智風險暴增74% 研究：最快1年內確診【附腦退化徵兆】",
       "published": "2026-05-20T09:00:55+00:00",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMizwRBVV95cUxOVzVBOEFoNk1mMnA5Mk1taktjZ2RjRkJBQVlLQ1pGaXUzSVJ6YlF4WHBQTnpxSllSM3QySVRDVlZJNzZHN1lvSVk3aG92S2E3WlJCcVc1eHJzNHI1Z0FrX0U3MERrZmRSVndCdjVPVmJCZlozdVJ0Sk1hWFpZWHFtcHYwTDNTSnNXMmZtZ2l1T3pRNjY1UmlKNHVzVGhvTWF3a1Y0Y1hrLXZBVlU5aUxyRmNBcWs1NHhXZGFwajJpSUktanJrV0xvQTk2c3pjRzZKSG1sWlYzRUZpd0FnaS1rY0ZKVGFaZDNIV054WmpFLS1oNW91ZXRJdXdSem1KOWZnVWV5d3ZWUlhRRDNLbTVham9kRmp6MXpVbTRZanRVbEFoRDZ3dUVkLVBIc3JnajUwRFVzcnRIQmp6bk9Falh5UVhfVVZNb2xXQU1xLUdtam9MLVFXbEVjYjg5YUJyQ1hsNkRhcUZhVXhHYTdMRng4Uzd0YzFFUmVOVWZsM0xaR1ZGZFBmVnpYdVZUVnlRZFBQSG53c3NhWkh0VU51NjlQb3dldHJQcVFXbTlZM28yZlRkOWpVV3BKY2cxWFk4QnZxdXYzTHNRRFFvQWM2dWp0Mk00NnhLT2l2UVFyZ2RsMktlSjltWUlYZjFVRS1FM1BzMWJKNEtLQkNpODFsTnFzYzNUYU1PTjNiRnNUSXhiY1pReFJ5MUlzODJmR0cwZWM2ZmJiMG9QWlUzeEhZNU96MkMwNzFua25EdnNfTDFnNE91bXk4RWhITFVYMDlhMTQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxObE43bWVkUWRRekxMemZJSmNhT080d1IyNXRCWXZTbjJLUUczRDJRRHJDcXRWZENWYncwd0duVUl2TVdWYlNETThmODBfU3hvRGN2clNmbl9CYndBWjU0MmgzWGtxNkZ0b0ZVaUlqZUQ5ZVNBVDBkRHg2T2tTbjlZczRLWnhQS0wtb2NPRU5PaGpHelJQaFJrbDdWRDd2MjRIVXhFNmxRV0JkMFRIbnZHVkdxWTVnWWpfR2xOVVM2SnlvVnRlVi11SnI3dWtvbUVDdUp5MXhrekFLci1POWQwMnZzbDFxTmJuRERwOHFRVVBIaFBDV1p6cExTX2syYjY3U00xV3A0Mmk5ak83alpoanRyNVdOT2h5dURWMWNFZFJuRU0xNHZBRGdXdmdpSHhxT2RPRW8yVFA5UDgtTFQ0U3R6bEd0bEtkV0FUZ0oyc2w1TXJRUUt6SmJVNzRGZ21EX3VUejdNMDRCUjR4QlNhNXVMOEVqN2FBQ3l3Ui1DS0syZHJnaEhLX2JraW81MDlPUV9YYUpETUxUN0FFYUVGM3JBVV9CQ2dRMFlUU3JIRzFDVE9VU2ZkVS1YZHB3a2U1WTBRNEN3S0JhTElrcHp3RlR4Zk9Wa3BvdUhPVnpzWGdCTXRBSVRYdHgxMHN4WnNNRmtRSFUtM1o4SWdkMGk4SFV6UGNxdXZkZlpJMTg3T1ZrOTBsczVIWXJCWVpfZjBVQ2NvUXJMLTRGWFE1MnE5eWdMWUo1cXpzcGZEZ09hSlFQVFJoLTJETTBfeTRQNENxdDBVZUVtWXNvNUdm?oc=5"
         }
       ],
       "keywords": [
@@ -455,49 +503,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "511d6ed22a78",
-      "title": "腸胃炎忌食稀飯！醫生指或刺激胃酸加重腹瀉 推介3 食物代替",
-      "published": "2026-05-19T23:00:21+00:00",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNN3RUeFNBSHF0dTlGd2FGR0VGVWd4SDlmLWVvVlpZUmNtMHZEbV93NWp5LTBVVkRCUTNOXzJKT0tMUmtqNHU4OVRMdFlnUExJajNlTGV4YzRjUkE0MFU5UmVMWGhsRGlYV0ZodFJaSGItRklkd0s2ejFXWVp4M2psWlM3S05iNndQMURieHVmSGItODBjNkJVSGgtMTlkSGNyWEZySnNlMy1MRlR3cHR4ODR6RUloTWNzYy01RFdUZGUzY3o4Wm84c19xeTExTm5feHN4YjVLVlJRdXdrTjVwT0cxa1gxVzF2UTFTUDBvU2lzZjE3bG42SW9iSW1pZWQ1bVZWZ3p4T2Q3QURoU1JUVk9OMlQxUkVkN0dLc2ZTTVQxNjRGVFFuQjJTVnp3UldtdDJ0VnNRel9SMXlnLXJuZGJvaWVJUV9OcGRUbFc4MkVENnZTazZ2Vlo4NGhwbXRocDJEVVRzQWc2Nm1ZWHJadA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "胃炎",
-          "keyword": "胃炎",
-          "related_drugs": [
-            {
-              "slug": "aluminum_hydroxide",
-              "name": "Aluminum hydroxide"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "propantheline",
-              "name": "Propantheline"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腹瀉",
-          "keyword": "腹瀉",
-          "related_drugs": [
-            {
-              "slug": "berberine",
-              "name": "Berberine"
             }
           ]
         }

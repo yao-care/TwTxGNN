@@ -14,7 +14,7 @@ permalink: /news/anastrozole/
 ---
 
 <p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
-<strong>Anastrozole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Anastrozole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/anastrozole/
 <li><strong>原適應症</strong>：停經後婦女晚期乳癌、荷爾蒙接受器陽性早期乳癌輔助治療</li>
 <li><strong>證據等級</strong>：L1</li>
 <li><strong>預測適應症</strong>（6 個）：<ul>
-<li>female breast carcinoma（99.7%）</li>
+<li class="indication-matched">female breast carcinoma（99.7%）<span class="indication-tag">📰 乳癌</span></li>
 <li>neuroblastoma（99.5%）</li>
 <li>vertebral anomalies and variable endocrine and T-cell dysfunction（99.4%）</li>
 <li>ganglioneuroblastoma (disease)（99.4%）</li>
@@ -38,7 +38,15 @@ permalink: /news/anastrozole/
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [研究發現加拿大乳癌發病率偏高地區](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TVzhpRURoX0dPRjVJWGNpWFJIRTlJT29MVm5jNnZlTzB4Y3hlTU1JeXA2YkVzakx0NDR5UVZielZ6N2RYVFBZT05uZ2tWTVNvX0tuaWpxcWU3Zzc5bkZ4TtIBZkFVX3lxTE5xc0FFVVNQREpRMjlaaVdqNnBBUVRMLVJFN0MyVTJTdlZPUk9Sb00zaTFELUxZSlIwTS1RNXdqcnU4eWNONmV5aHNVV1lSSEkycEIyR05VTERHRTJYTHVCOHk3b25zdw?oc=5)
+
+2026-05-21 <span class="news-indication-tag">乳癌</span>
+
+來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TVzhpRURoX0dPRjVJWGNpWFJIRTlJT29MVm5jNnZlTzB4Y3hlTU1JeXA2YkVzakx0NDR5UVZielZ6N2RYVFBZT05uZ2tWTVNvX0tuaWpxcWU3Zzc5bkZ4TtIBZkFVX3lxTE5xc0FFVVNQREpRMjlaaVdqNnBBUVRMLVJFN0MyVTJTdlZPUk9Sb00zaTFELUxZSlIwTS1RNXdqcnU4eWNONmV5aHNVV1lSSEkycEIyR05VTERHRTJYTHVCOHk3b25zdw?oc=5)
+
+---
 
 ### [科學家發現數百種癌症突變共有的隱藏弱點](https://news.google.com/rss/articles/CBMi4gJBVV95cUxQSldyb0hEdElMUjRwRkJJMUhaLUJtaFFMdDVNdzhwNzlyWWhzRW1nRnZMZGwxNUJ3THJIeXB0MEs0WVdlN0xRVkpBdUNUaWlNTVVGWmNfcm9sQjRHOU1CMkpzS1hDVEJNa1RRcXdYc0xtWmZNV3V4QTRLVGtCMzVxQ3NqS3UyQkNfYVJ0QWZ4aTdwS3B4aVJzc3NlTUVZU215TmZYUmVGWU9QTFY2V1dQdmRlSHcyZTNjLXFqbmFUWnk1R0xYemZWSlZnY0R5ZWtUM1FrR3ZVdWZZSGFGeEttamFYWWRoel93dkJOaXBac2E4MmhNRUNfZndrMlp3ekdYRWN6UjltMDZlbndjdU5vM0dUMENHVjhLWTRhT1F5dGlnc2EzSmh0WDlQbFdUYXhKOHFfMzRkTk5LSUI0WTBWemRUbjR5WnFsX1NiT2xaeXNWZjFaUkdTWHpxUjBYYXNzUnc?oc=5)
 
