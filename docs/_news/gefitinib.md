@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（7 則）
 
 ### [科學家發現了阿茲海默症的隱藏誘因並將其關閉](https://news.google.com/rss/articles/CBMi-gJBVV95cUxNaU5JY0gzWVl6aUZaRGJMZDA4blFMSXJYcDRJUkdQbzNmZmwxWXpNTTJBRzBXLTl4M254bWVsMzQ3c2ppU1FyeDhWNGVNdXdmdTEtbENMSkk0R0JnemtHaXhJd1g0R1lVSnVSQ2ZkNjliZE00QURleTItbVRJZVlDdGgtV3RkcTRWTlhFWVhVLWdPQ0NTT0MyRkVGRmxDNWRLM0FNYV9LY0p2Yy1RY3VNTXRPbTEyWkhUR3lRYUdyWjlSUGNYT09oOHFpQ1F5a2RIMkgteEV3QmZEckRxUi12bk9fRkNJdWZtUlFBYWNaTVdVRGE2dG5HQWVlOU5CUXVaUm1IVWFELVpTdkE5Q1FnMkt1X0F1MHZOY0NyU3VqWVNGSVR0R1pqYTRWUGM0c21ndjBiQmZMOFYwRzAtcHIwVllzdHdocm9LT0pSNzFGcjBLSF9DTWU4UzVESTZ1MzhaY2h0OVZFalVxMGJmTjk0YU0xTmdOYmI4bkE?oc=5)
 
@@ -96,22 +96,6 @@ permalink: /news/gefitinib/
 2026-05-19 <span class="news-indication-tag">阿茲海默症</span>
 
 來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTFA5d2I4eTBQd21GS0FlSjJHUk5RMFg2U1BQRHludlNzWHNxNVBsdVJVZUlha0tybkNMX1E?oc=5)
-
----
-
-### [血糖太高會得大腸癌、胰臟癌、肝癌！名醫苦勸：多吃這些食物才能防癌](https://news.google.com/rss/articles/CBMiqANBVV95cUxONUx3dWlNbVZjbHZVVTdhTm95VnNDVVc5SmxZd2dkMDJkYVIyb1pMVmgwQ1R3VUlpbkRfZXpKMnNySm9WQ0E3VDJYZlhHSlpLZnNmQl9wMHI4Tmo1amgyYTlyd3AwbmhlZEY2aHAzaFhyaDZEQmhNZkVHMVNZUlVIRVdBZVZyd2VkdFVMWmdnQXIzeEY4dGJoa3F3aWRDSWxxNHl0REo4b1lSY3RvYVNQY29UYU1wcy1OQVExSUp3WGY1d29mcWhtbm9iYTJsaTZqdnJQV3NUSm5xaWxXS21DdjQ2c1BjZTV3aS1tNHN0YUczTzVURFNDTmtlemxoZGt6N09zdURpcGt0QUxZS3ltV29ETkVuZGQ0bktMZ3BsZzRWMU1kZjJPeFp5UjZ4NmdWUGNSdXVFbGF1LXFYMXY3N2tIUU8tWUI0SWhGYXRWa1l0WGRpWjlTNDA2eEc2eG95bXAtTGdQckMtelBBY2xTVmR0dEtmNnlqWVZ1UnpOQUZJamZYYmZZWnR3Wm5KajZPTDJPRWk5OUVvWElOaFpDYklQa3Y1LXBR?oc=5)
-
-2026-05-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">肝癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiqANBVV95cUxONUx3dWlNbVZjbHZVVTdhTm95VnNDVVc5SmxZd2dkMDJkYVIyb1pMVmgwQ1R3VUlpbkRfZXpKMnNySm9WQ0E3VDJYZlhHSlpLZnNmQl9wMHI4Tmo1amgyYTlyd3AwbmhlZEY2aHAzaFhyaDZEQmhNZkVHMVNZUlVIRVdBZVZyd2VkdFVMWmdnQXIzeEY4dGJoa3F3aWRDSWxxNHl0REo4b1lSY3RvYVNQY29UYU1wcy1OQVExSUp3WGY1d29mcWhtbm9iYTJsaTZqdnJQV3NUSm5xaWxXS21DdjQ2c1BjZTV3aS1tNHN0YUczTzVURFNDTmtlemxoZGt6N09zdURpcGt0QUxZS3ltV29ETkVuZGQ0bktMZ3BsZzRWMU1kZjJPeFp5UjZ4NmdWUGNSdXVFbGF1LXFYMXY3N2tIUU8tWUI0SWhGYXRWa1l0WGRpWjlTNDA2eEc2eG95bXAtTGdQckMtelBBY2xTVmR0dEtmNnlqWVZ1UnpOQUZJamZYYmZZWnR3Wm5KajZPTDJPRWk5OUVvWElOaFpDYklQa3Y1LXBR?oc=5)
-
----
-
-### [癌症患者屬生蛇高危一族 注射預防疫苗減低風險](https://news.google.com/rss/articles/CBMi5wJBVV95cUxOSEVLbXppUENmX0tJT2J3c0VQM25qS1lBZzh0djhxdDIwZE5ITHVLb3k5ZUVwZ2JTeXktdS1CM20yUUFHTXF1QzFtUUFmN1NWSGhrMjEzODdHMzNTZWNJX1hLcnFLVGYzQUQxbHhRYVloNlc5aXJJY2lobHdHOXg1Qk01ZWtDQVBoR3hLQ1lwLUtubm93MkZER1BTdVJRTzhHZG1uc2lWQmNvcGRTMi1wVEV4bFNRX2pvOFQ3eFRYcDlRYUxiMTBNLU5IR3YxRTQ0eWI1dVRDN2VRU2hPeTBDTjNVVFFnR2l5WGhlVFIzLVhXUE4wTk1naG9KNGJfUlREaTU3aVlUNFRUZjJaOUNDRkMzQUQ0azBGcTdkRktXQUtaYjc4VzRQVGZtZEc0YkdJT1VxRFl3ZVMtb0R2b0FMMzhtbC1kM3NmRDItRE1rR0lUbFRqdVFSVXZWVURCR2tFd0RaeHU3UQ?oc=5)
-
-2026-05-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">生蛇</span>
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMi5wJBVV95cUxOSEVLbXppUENmX0tJT2J3c0VQM25qS1lBZzh0djhxdDIwZE5ITHVLb3k5ZUVwZ2JTeXktdS1CM20yUUFHTXF1QzFtUUFmN1NWSGhrMjEzODdHMzNTZWNJX1hLcnFLVGYzQUQxbHhRYVloNlc5aXJJY2lobHdHOXg1Qk01ZWtDQVBoR3hLQ1lwLUtubm93MkZER1BTdVJRTzhHZG1uc2lWQmNvcGRTMi1wVEV4bFNRX2pvOFQ3eFRYcDlRYUxiMTBNLU5IR3YxRTQ0eWI1dVRDN2VRU2hPeTBDTjNVVFFnR2l5WGhlVFIzLVhXUE4wTk1naG9KNGJfUlREaTU3aVlUNFRUZjJaOUNDRkMzQUQ0azBGcTdkRktXQUtaYjc4VzRQVGZtZEc0YkdJT1VxRFl3ZVMtb0R2b0FMMzhtbC1kM3NmRDItRE1rR0lUbFRqdVFSVXZWVURCR2tFd0RaeHU3UQ?oc=5)
 
 ---
 

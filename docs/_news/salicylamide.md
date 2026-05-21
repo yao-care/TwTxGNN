@@ -44,11 +44,11 @@ permalink: /news/salicylamide/
 
 ## 相關新聞（1 則）
 
-### [RSV釀嬰兒重症僅3成家長知道！公衛專家籲「單株抗體」納公費接種 - Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSa2VOM180MDVyVktjcDFub2RRVVh3ajV2cDR4bHdjOTN6REZtWXptQVdWcTU2OHRtSG93TE9LeUZUX0dLc1ZqQ1AzdHAxMU5SUjZpclNn?oc=5)
+### [照護線上》給寶寶的第一份見面禮，呼吸道細胞融合病毒（RSV）長效型單株抗體「出生即防護」策略解析，專科醫師圖文懶人包](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iWlJjVS12MUJlQ0Y0ZmlaWENrS3FuYy0tYlN3NUY0UDlkaURoRWNtWDhLVkNSWnowbDNlT3BCcVdDRkNObTBmczdhV0VQd0d5TjJrN3B3Q25QS1VfTFZrZXJR0gFnQVVfeXFMTk5hWndjeUQ1TjY0SXF2V2t1eWJFcWUtYzdreDlEdzZmOG5VZlhsR1FqcWROVjRvU0lCT3hwNVFIRFduNkZieEllaS1PNk0xS0tGS0pQLWtmQk56Qk5mdHVDUFdHZmNaNA?oc=5)
 
-2026-05-19 <span class="news-indication-tag">感冒</span>
+2026-05-21 <span class="news-indication-tag">感冒</span>
 
-來源：[Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSa2VOM180MDVyVktjcDFub2RRVVh3ajV2cDR4bHdjOTN6REZtWXptQVdWcTU2OHRtSG93TE9LeUZUX0dLc1ZqQ1AzdHAxMU5SUjZpclNn?oc=5)
+來源：[自由評論網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iWlJjVS12MUJlQ0Y0ZmlaWENrS3FuYy0tYlN3NUY0UDlkaURoRWNtWDhLVkNSWnowbDNlT3BCcVdDRkNObTBmczdhV0VQd0d5TjJrN3B3Q25QS1VfTFZrZXJR0gFnQVVfeXFMTk5hWndjeUQ1TjY0SXF2V2t1eWJFcWUtYzdreDlEdzZmOG5VZlhsR1FqcWROVjRvU0lCT3hwNVFIRFduNkZieEllaS1PNk0xS0tGS0pQLWtmQk56Qk5mdHVDUFdHZmNaNA?oc=5)
 
 ---
 
