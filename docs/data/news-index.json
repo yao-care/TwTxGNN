@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-21T20:46:28.825052+00:00",
+  "generated": "2026-05-21T22:13:05.908938+00:00",
   "count": 10,
   "news": [
     {
@@ -331,30 +331,6 @@
       ]
     },
     {
-      "id": "edad4cd6135c",
-      "title": "科學家發現了阿茲海默症的隱藏誘因並將其關閉",
-      "published": "2026-05-20T13:32:32+00:00",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNaU5JY0gzWVl6aUZaRGJMZDA4blFMSXJYcDRJUkdQbzNmZmwxWXpNTTJBRzBXLTl4M254bWVsMzQ3c2ppU1FyeDhWNGVNdXdmdTEtbENMSkk0R0JnemtHaXhJd1g0R1lVSnVSQ2ZkNjliZE00QURleTItbVRJZVlDdGgtV3RkcTRWTlhFWVhVLWdPQ0NTT0MyRkVGRmxDNWRLM0FNYV9LY0p2Yy1RY3VNTXRPbTEyWkhUR3lRYUdyWjlSUGNYT09oOHFpQ1F5a2RIMkgteEV3QmZEckRxUi12bk9fRkNJdWZtUlFBYWNaTVdVRGE2dG5HQWVlOU5CUXVaUm1IVWFELVpTdkE5Q1FnMkt1X0F1MHZOY0NyU3VqWVNGSVR0R1pqYTRWUGM0c21ndjBiQmZMOFYwRzAtcHIwVllzdHdocm9LT0pSNzFGcjBLSF9DTWU4UzVESTZ1MzhaY2h0OVZFalVxMGJmTjk0YU0xTmdOYmI4bkE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "bbb9a5f07b9c",
       "title": "失智症新發現：孤獨、失眠為風險因子 血液檢測助早期篩檢",
       "published": "2026-05-20T12:19:59+00:00",
@@ -479,6 +455,49 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "511d6ed22a78",
+      "title": "腸胃炎忌食稀飯！醫生指或刺激胃酸加重腹瀉 推介3 食物代替",
+      "published": "2026-05-19T23:00:21+00:00",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNN3RUeFNBSHF0dTlGd2FGR0VGVWd4SDlmLWVvVlpZUmNtMHZEbV93NWp5LTBVVkRCUTNOXzJKT0tMUmtqNHU4OVRMdFlnUExJajNlTGV4YzRjUkE0MFU5UmVMWGhsRGlYV0ZodFJaSGItRklkd0s2ejFXWVp4M2psWlM3S05iNndQMURieHVmSGItODBjNkJVSGgtMTlkSGNyWEZySnNlMy1MRlR3cHR4ODR6RUloTWNzYy01RFdUZGUzY3o4Wm84c19xeTExTm5feHN4YjVLVlJRdXdrTjVwT0cxa1gxVzF2UTFTUDBvU2lzZjE3bG42SW9iSW1pZWQ1bVZWZ3p4T2Q3QURoU1JUVk9OMlQxUkVkN0dLc2ZTTVQxNjRGVFFuQjJTVnp3UldtdDJ0VnNRel9SMXlnLXJuZGJvaWVJUV9OcGRUbFc4MkVENnZTazZ2Vlo4NGhwbXRocDJEVVRzQWc2Nm1ZWHJadA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "胃炎",
+          "keyword": "胃炎",
+          "related_drugs": [
+            {
+              "slug": "aluminum_hydroxide",
+              "name": "Aluminum hydroxide"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "propantheline",
+              "name": "Propantheline"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
             }
           ]
         }
