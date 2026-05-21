@@ -44,11 +44,11 @@ permalink: /news/avelumab/
 
 ## 相關新聞（1 則）
 
-### [台中疫苗補助卡關長者「皮蛇」纏身痛如酷刑- 生活](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pQTZaMkRCR2NFM293ZkxJVmNudGZuV29wN2lKQnptLVl1ZmduUjV1UVRsTEFteGFWb3lCaEZvMlVKZEFOeUhoeHJKdHRDSUd3RnllSW5kUllLazBBNmVF?oc=5)
+### [台中疫苗補助卡關 長者「皮蛇」纏身痛如酷刑](https://news.google.com/rss/articles/CBMirwJBVV95cUxQQWFxVEZ4WWlUdG00OHVfd1FzbmppTTdQc3NOdFdXby1UVEo5QVBHb1dKeE1QTlNfb1BwVlRIejlienVmU1VOYzBQSjlWZlg2T2xRMG5UcmY0bHpuME4yVHUxM2ZHUmxCNWFJMHJic05QV3RiT1RWendsekhIdXMyY2pCM3l5TWhlNlY2aGI2YUktTkNmUld6NGhJZEZhWVdXNW9VZFJsVVZ0LVYxaEZkNng0V0lZVjBWVEhyQ3MzbzU0SUNOMm5tZm1maFNnaXQ2WmtON2dWUWVEelZsSUtEWVZZejA1U0hwaVRPbF8taDVialhOT1EwQkJSMFQxNmFfMzYteV9fM0RyU0hsVklrTndZNE90MkFfQU0ybU41cGk0cHlEbkVTd01ldk5KUUU?oc=5)
 
-2026-05-21 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">生蛇</span> <span class="news-indication-tag">神經痛</span>
+2026-05-21 <span class="news-indication-tag">皮蛇</span>
 
-來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pQTZaMkRCR2NFM293ZkxJVmNudGZuV29wN2lKQnptLVl1ZmduUjV1UVRsTEFteGFWb3lCaEZvMlVKZEFOeUhoeHJKdHRDSUd3RnllSW5kUllLazBBNmVF?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMirwJBVV95cUxQQWFxVEZ4WWlUdG00OHVfd1FzbmppTTdQc3NOdFdXby1UVEo5QVBHb1dKeE1QTlNfb1BwVlRIejlienVmU1VOYzBQSjlWZlg2T2xRMG5UcmY0bHpuME4yVHUxM2ZHUmxCNWFJMHJic05QV3RiT1RWendsekhIdXMyY2pCM3l5TWhlNlY2aGI2YUktTkNmUld6NGhJZEZhWVdXNW9VZFJsVVZ0LVYxaEZkNng0V0lZVjBWVEhyQ3MzbzU0SUNOMm5tZm1maFNnaXQ2WmtON2dWUWVEelZsSUtEWVZZejA1U0hwaVRPbF8taDVialhOT1EwQkJSMFQxNmFfMzYteV9fM0RyU0hsVklrTndZNE90MkFfQU0ybU41cGk0cHlEbkVTd01ldk5KUUU?oc=5)
 
 ---
 

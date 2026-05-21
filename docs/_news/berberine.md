@@ -14,7 +14,7 @@ permalink: /news/berberine/
 ---
 
 <p class="key-answer" data-question="Berberine 有什麼相關新聞？">
-<strong>Berberine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Berberine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/berberine/
 <p><a href="{{ '/drugs/berberine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [台中疫苗補助卡關長者「皮蛇」纏身痛如酷刑- 生活](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pQTZaMkRCR2NFM293ZkxJVmNudGZuV29wN2lKQnptLVl1ZmduUjV1UVRsTEFteGFWb3lCaEZvMlVKZEFOeUhoeHJKdHRDSUd3RnllSW5kUllLazBBNmVF?oc=5)
-
-2026-05-21 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">生蛇</span> <span class="news-indication-tag">神經痛</span>
-
-來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pQTZaMkRCR2NFM293ZkxJVmNudGZuV29wN2lKQnptLVl1ZmduUjV1UVRsTEFteGFWb3lCaEZvMlVKZEFOeUhoeHJKdHRDSUd3RnllSW5kUllLazBBNmVF?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [腸胃炎忌食稀飯！醫生指或刺激胃酸加重腹瀉 推介3 食物代替](https://news.google.com/rss/articles/CBMi8AJBVV95cUxNN3RUeFNBSHF0dTlGd2FGR0VGVWd4SDlmLWVvVlpZUmNtMHZEbV93NWp5LTBVVkRCUTNOXzJKT0tMUmtqNHU4OVRMdFlnUExJajNlTGV4YzRjUkE0MFU5UmVMWGhsRGlYV0ZodFJaSGItRklkd0s2ejFXWVp4M2psWlM3S05iNndQMURieHVmSGItODBjNkJVSGgtMTlkSGNyWEZySnNlMy1MRlR3cHR4ODR6RUloTWNzYy01RFdUZGUzY3o4Wm84c19xeTExTm5feHN4YjVLVlJRdXdrTjVwT0cxa1gxVzF2UTFTUDBvU2lzZjE3bG42SW9iSW1pZWQ1bVZWZ3p4T2Q3QURoU1JUVk9OMlQxUkVkN0dLc2ZTTVQxNjRGVFFuQjJTVnp3UldtdDJ0VnNRel9SMXlnLXJuZGJvaWVJUV9OcGRUbFc4MkVENnZTazZ2Vlo4NGhwbXRocDJEVVRzQWc2Nm1ZWHJadA?oc=5)
 
 2026-05-19 <span class="news-indication-tag">胃炎</span> <span class="news-indication-tag">腹瀉</span>
 
-來源：[巴士的報](https://news.google.com/rss/articles/CBMi8AJBVV95cUxNN3RUeFNBSHF0dTlGd2FGR0VGVWd4SDlmLWVvVlpZUmNtMHZEbV93NWp5LTBVVkRCUTNOXzJKT0tMUmtqNHU4OVRMdFlnUExJajNlTGV4YzRjUkE0MFU5UmVMWGhsRGlYV0ZodFJaSGItRklkd0s2ejFXWVp4M2psWlM3S05iNndQMURieHVmSGItODBjNkJVSGgtMTlkSGNyWEZySnNlMy1MRlR3cHR4ODR6RUloTWNzYy01RFdUZGUzY3o4Wm84c19xeTExTm5feHN4YjVLVlJRdXdrTjVwT0cxa1gxVzF2UTFTUDBvU2lzZjE3bG42SW9iSW1pZWQ1bVZWZ3p4T2Q3QURoU1JUVk9OMlQxUkVkN0dLc2ZTTVQxNjRGVFFuQjJTVnp3UldtdDJ0VnNRel9SMXlnLXJuZGJvaWVJUV9OcGRUbFc4MkVENnZTazZ2Vlo4NGhwbXRocDJEVVRzQWc2Nm1ZWHJadA?oc=5)
+來源：[bastillepost.com](https://news.google.com/rss/articles/CBMi8AJBVV95cUxNN3RUeFNBSHF0dTlGd2FGR0VGVWd4SDlmLWVvVlpZUmNtMHZEbV93NWp5LTBVVkRCUTNOXzJKT0tMUmtqNHU4OVRMdFlnUExJajNlTGV4YzRjUkE0MFU5UmVMWGhsRGlYV0ZodFJaSGItRklkd0s2ejFXWVp4M2psWlM3S05iNndQMURieHVmSGItODBjNkJVSGgtMTlkSGNyWEZySnNlMy1MRlR3cHR4ODR6RUloTWNzYy01RFdUZGUzY3o4Wm84c19xeTExTm5feHN4YjVLVlJRdXdrTjVwT0cxa1gxVzF2UTFTUDBvU2lzZjE3bG42SW9iSW1pZWQ1bVZWZ3p4T2Q3QURoU1JUVk9OMlQxUkVkN0dLc2ZTTVQxNjRGVFFuQjJTVnp3UldtdDJ0VnNRel9SMXlnLXJuZGJvaWVJUV9OcGRUbFc4MkVENnZTazZ2Vlo4NGhwbXRocDJEVVRzQWc2Nm1ZWHJadA?oc=5)
 
 ---
 

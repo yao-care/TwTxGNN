@@ -1,215 +1,20 @@
 {
-  "last_updated": "2026-05-21T06:43:39.422006+00:00",
-  "total_count": 32,
-  "matched_count": 13,
+  "last_updated": "2026-05-21T10:32:19.811546+00:00",
+  "total_count": 26,
+  "matched_count": 11,
   "news": [
     {
-      "id": "e1ac859d2a44",
-      "title": "台中疫苗補助卡關長者「皮蛇」纏身痛如酷刑- 生活",
-      "published": "2026-05-21T05:31:00+00:00",
-      "summary": "台中疫苗補助卡關長者「皮蛇」纏身痛如酷刑- 生活&nbsp;&nbsp;工商時報皮蛇長一圈會致命？營養師揭「神經痛」才是折磨、點名4危險族群&nbsp;&nbsp;民報癌症患者屬生蛇高危一族 注射預防疫苗減低風險&nbsp;&nbsp;香港經濟日報HKET皮蛇會致命？初期忽略又踩「2飲食地雷」 營養師警告：小心好不了 | TVBS&nbsp;&nbsp;LINE TODAY台中疫苗補助卡關 長者「皮蛇」纏身痛如酷刑&nbsp;&nbsp;中時新聞網",
+      "id": "74c0ad639cd4",
+      "title": "台中疫苗補助卡關 長者「皮蛇」纏身痛如酷刑",
+      "published": "2026-05-21T08:03:45+00:00",
+      "summary": "台中疫苗補助卡關 長者「皮蛇」纏身痛如酷刑&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pQTZaMkRCR2NFM293ZkxJVmNudGZuV29wN2lKQnptLVl1ZmduUjV1UVRsTEFteGFWb3lCaEZvMlVKZEFOeUhoeHJKdHRDSUd3RnllSW5kUllLazBBNmVF?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQQWFxVEZ4WWlUdG00OHVfd1FzbmppTTdQc3NOdFdXby1UVEo5QVBHb1dKeE1QTlNfb1BwVlRIejlienVmU1VOYzBQSjlWZlg2T2xRMG5UcmY0bHpuME4yVHUxM2ZHUmxCNWFJMHJic05QV3RiT1RWendsekhIdXMyY2pCM3l5TWhlNlY2aGI2YUktTkNmUld6NGhJZEZhWVdXNW9VZFJsVVZ0LVYxaEZkNng0V0lZVjBWVEhyQ3MzbzU0SUNOMm5tZm1maFNnaXQ2WmtON2dWUWVEelZsSUtEWVZZejA1U0hwaVRPbF8taDVialhOT1EwQkJSMFQxNmFfMzYteV9fM0RyU0hsVklrTndZNE90MkFfQU0ybU41cGk0cHlEbkVTd01ldk5KUUU?oc=5"
         }
       ],
       "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "herpes zoster",
@@ -220,44 +25,31 @@
               "name": "Avelumab"
             }
           ]
-        },
-        {
-          "type": "indication",
-          "name": "生蛇",
-          "keyword": "生蛇",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "神經痛",
-          "keyword": "神經痛",
-          "related_drugs": [
-            {
-              "slug": "ibuprofen",
-              "name": "Ibuprofen"
-            },
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
         }
       ]
     },
     {
-      "id": "deaf039efcd3",
+      "id": "a409653cac6d",
+      "title": "坐公廁馬桶怕得菜花？醫曝「真正危險3處」 不是馬桶坐墊",
+      "published": "2026-05-21T07:00:02+00:00",
+      "summary": "坐公廁馬桶怕得菜花？醫曝「真正危險3處」 不是馬桶坐墊&nbsp;&nbsp;台視新聞網",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yM2R6Y1BvVGVQeHVyc1pKUUZhOC1Kd2duZUlVaE9VWXNPWXppemxDVWl4dmJiVlRyaVlSUGdjSGlWakZXT3NzRVZlaElpbjRXRjRyVENSZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "eb603b7e5d1a",
       "title": "認知障礙｜42歲金融才俊性情大變 確診「認知障礙症」 醫生警告：非老人專利【附腦退化徵兆】",
       "published": "2026-05-21T04:49:47+00:00",
       "summary": "認知障礙｜42歲金融才俊性情大變 確診「認知障礙症」 醫生警告：非老人專利【附腦退化徵兆】&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mZWp6ZGJfbGRrX0ZzTXppelNQZFZqY1lqZ1dPWWFvSXVBUjc4ZTh0V252OTItRERPYVh4YUpXd01yR25zbWdTRGhNalRZWkdHZ3c?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxQOWVZQzR4WTk5dGNXNlRab25DYUcxR3VzLUNmU2Z6WHhzV2p5V1U3dHdRaUJPc3FJbi1OYzJ5eVNkbmY3RDRULWJITG04ZENNeTRXWFRKVjhqaUljeGpIU3ZrYjVNcWhhU0x2ZDhqLTRTRzltaXc0QnNESjdhc2hMRm50eTJVMTJESV9naGtfTmVPUFVKS2dQY0k5NVNodEw0RWtOU0pSNDg2WER1R2VxRkQ1bVhwaVNEV1U1UzNnRTBzc1R1WnN1WWdvTmNPSmlYaXlHX3RkUHRjNHRqUktBaVM3THMxTExVamZZOTBqY2tuOG13eGh4c2JHTmV2U2xOR0ljNVJURWotOVJCZVJYakd2R29Tc0hPb09aYXVRRXBPcnVRd3pucS1YWmN0VW9EVzQwR0l2V2p1U2pOd3lxQnN6NUtwVkFqMktzSVczSl90U1dNbmpINGlDdkJ0ZmFjVHV4akxLYlp3VjU3d0g2VmVCYjNuYXZFamRISDRxcVdNYWJMSmVkd2RtQnlDeTB2RHFrd2xwT0p3WmZzQnhoc2gwbUpwTW51Sk1PdVBXNVMzUkNDSG9lbzZKeEFZdjZlbXF2S2RjaThWSjY5cVNEU1dVMDFOQk5YT2twVkJ5Wk5mRERrZGFueVFhVTd5bEI4cmRqejhQb0NobnYzUWFGTVZMYzNUbjRMMjJEQzZGM3dGNWtPYkxLY2FzMjZjaFJNTmFMMjUwQV9MenNOMWhKczFZZXRWU3p0dzQ0V1dWcVNYWmszekFzbEhHTGpoNk1LVTJGd2ZwVUE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -276,14 +68,14 @@
       "matched_keywords": []
     },
     {
-      "id": "81d378c76ed3",
-      "title": "法航飛美航班發現伊波拉暴露風險 改飛滿地可",
-      "published": "2026-05-21T03:16:10+00:00",
-      "summary": "法航飛美航班發現伊波拉暴露風險 改飛滿地可&nbsp;&nbsp;singtao.ca",
+      "id": "ded55945848f",
+      "title": "銀屑病發作徵狀可波及生殖器官 新型生物製劑針對性改善病情",
+      "published": "2026-05-21T03:06:31+00:00",
+      "summary": "銀屑病發作徵狀可波及生殖器官 新型生物製劑針對性改善病情&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPc3RPUHlmUFNvbDJVY3lrcUkyWFJBVVBRM0lFWGFIQkQ3cl9HUFBtV2o1MUxMTlRGRk1heU9ySk85WlgxV1VuMXRVeW0yNERVTk56OG1PZ2ZQNjFrWEVFSjlMaVREeHVsUWlvSVFubnRNU2tUQnB0aHVzemJBN1FkU2lzWFhhY2JrRFk0S1pMUnhJNU9PV0FlM0p5aVpxeWhjNjJ2dlplVEh2aGpHTTdhT0hrSE9GdGx6Nk5KMGF4NkwyVW1zU3p2ek9NRTVfaHVSdUxrU2phRjJWRklYUS14OWM2TUtzSC1DaDdrb2ZfUnRTRzRrX2pad1hMbmxtVDRfS0FpY0NkNjBXYVRNSkk1cDU1ZVRkODZXcGJkM251dXlEX241aXRWZS1mcmdZd19va1Z1Y0dXWmY3ZHEteExNN19pTWJVZHM?oc=5"
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyNk9XNTJzaU50OTNGUnVPUkt2NmF1aDQycTNQc19KT3RvSzhRTHBNYmxFR3RHRFhESF84NzdFTlk5WFk0cVpMLW5qOXBjVEg3R2c?oc=5"
         }
       ],
       "matched_keywords": []
@@ -330,7 +122,7 @@
       "id": "3573b1d7f763",
       "title": "保健》防子宮頸癌 醫籲打HPV疫苗",
       "published": "2026-05-20T20:10:00+00:00",
-      "summary": "保健》防子宮頸癌 醫籲打HPV疫苗&nbsp;&nbsp;中時新聞網成年男性每2人就有1人染HPV 3大預防重點一次看&nbsp;&nbsp;UDN親密行為多樣化暗藏風險？醫示警：保險套無法完全阻隔HPV，小心愛被癌打亂！&nbsp;&nbsp;良醫健康網HPV不只是女性的事！泌尿科醫師示警：成年男性每2人就有1人感染 | 風傳媒&nbsp;&nbsp;LINE TODAY《子宮頸癌小學堂》：從HPV、抹片檢查到癌前病變，陪妳一步步安心了解&nbsp;&nbsp;華人健康網",
+      "summary": "保健》防子宮頸癌 醫籲打HPV疫苗&nbsp;&nbsp;中時新聞網成年男性每2人就有1人染HPV 3大預防重點一次看&nbsp;&nbsp;祝你健康親密行為多樣化暗藏風險？醫示警：保險套無法完全阻隔HPV，小心愛被癌打亂！&nbsp;&nbsp;良醫健康網HPV不只是女性的事！泌尿科醫師示警：成年男性每2人就有1人感染 | 風傳媒&nbsp;&nbsp;LINE TODAY《子宮頸癌小學堂》：從HPV、抹片檢查到癌前病變，陪妳一步步安心了解&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "中時新聞網",
@@ -601,26 +393,13 @@
       "matched_keywords": []
     },
     {
-      "id": "0dc4cae5ed24",
-      "title": "指甲變形可能是患上銀屑病警號 患者及早正確用藥 助減少皮膚及關節受損 - 晴報 Sky Post",
-      "published": "2026-05-19T23:01:47+00:00",
-      "summary": "指甲變形可能是患上銀屑病警號 患者及早正確用藥 助減少皮膚及關節受損&nbsp;&nbsp;晴報 Sky Post",
-      "sources": [
-        {
-          "name": "晴報 Sky Post",
-          "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxONV9tU0ZHTlBmNVpBamxYSHVZNzdGLS1qd0FCaXZISzk5RE5XRno1cktLY1AyM08xbHhHcjNPYkpZbldYU1dpaVY4aDFCVzdRZnF1Mi02eWxfN3pBZUh4ZDgtMXhLQ0hWOXR3LVYxM1J4cVUtZ3M2UUxLQ1NFaXVDQ1RxYUpvZTRudDd0NHVRdWhJdmRpUTljZ0tfZHpaZWZjOV9uUi03Qlh0dXFlYzBlak5rZWhuRFVQQTBobTcxZjRiQ3J0cWExN3M1cHA0WHFoRWV2RVJHLUFicTRuZEc0aUhtMUR2Tm5LT1BiVXV4S3dTYm5fQkx3bklKVlVWYkZCbDY5aWVHTFVQV0lVcl9EalNpUGhLYVhTWjRiQVMtQzloUFpCOU5GWEFKYU9TbFROa1RLVVVBTVlEOFlpajhlT0toVHJJNmpMSXVydUV4X0hsVUM3RktzTjFCNXZrczZoQVBqd3hfRlY1Vll4Q0FxYi1Db2xLdEZ3VGEtWWlmZ0cxb3MtMFRnWWhjaS1SY0lFMkQwd2FxRHE0d29SVFd0X3J4NllSVmNYTEc0MktPV3dTc0V3ZlNKa0pnNmlQUnJFRU9hYWYxeG9wNE5takE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "511d6ed22a78",
+      "id": "5878841b163f",
       "title": "腸胃炎忌食稀飯！醫生指或刺激胃酸加重腹瀉 推介3 食物代替",
       "published": "2026-05-19T23:00:21+00:00",
-      "summary": "腸胃炎忌食稀飯！醫生指或刺激胃酸加重腹瀉 推介3 食物代替&nbsp;&nbsp;巴士的報",
+      "summary": "腸胃炎忌食稀飯！醫生指或刺激胃酸加重腹瀉 推介3 食物代替&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNN3RUeFNBSHF0dTlGd2FGR0VGVWd4SDlmLWVvVlpZUmNtMHZEbV93NWp5LTBVVkRCUTNOXzJKT0tMUmtqNHU4OVRMdFlnUExJajNlTGV4YzRjUkE0MFU5UmVMWGhsRGlYV0ZodFJaSGItRklkd0s2ejFXWVp4M2psWlM3S05iNndQMURieHVmSGItODBjNkJVSGgtMTlkSGNyWEZySnNlMy1MRlR3cHR4ODR6RUloTWNzYy01RFdUZGUzY3o4Wm84c19xeTExTm5feHN4YjVLVlJRdXdrTjVwT0cxa1gxVzF2UTFTUDBvU2lzZjE3bG42SW9iSW1pZWQ1bVZWZ3p4T2Q3QURoU1JUVk9OMlQxUkVkN0dLc2ZTTVQxNjRGVFFuQjJTVnp3UldtdDJ0VnNRel9SMXlnLXJuZGJvaWVJUV9OcGRUbFc4MkVENnZTazZ2Vlo4NGhwbXRocDJEVVRzQWc2Nm1ZWHJadA?oc=5"
         }
       ],
@@ -756,119 +535,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "d270151fc7d2",
-      "title": "不只是老了！總是累、皮膚差、不知不覺變胖？專家警告：這 6 個徵兆代表你荷爾蒙失調了 - Women's Health",
-      "published": "2026-05-19T07:44:07+00:00",
-      "summary": "不只是老了！總是累、皮膚差、不知不覺變胖？專家警告：這 6 個徵兆代表你荷爾蒙失調了&nbsp;&nbsp;Women's Health",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPakN6RVEwUkU1WmpuUWZLSmEyVnh2dDRQYWFxUDlBQ09MOW5GNVlUaEcxckJVTkR2NlVrN0k3SlVwYXdyRndmV2VNc05WUW1UZEVwNUlvajRRbVhPdlNJaFpzdUtvdW55SUxIZUdqVWN5QUpSWkVBSVBMUU12Vm0wTDBwZDlfRVdyVmYwWGdXTjRBdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "cf63b2cdb2e5",
-      "title": "科學家發現一種更明智的地中海飲食可以將糖尿病風險降低31%。",
-      "published": "2026-05-19T07:16:47+00:00",
-      "summary": "科學家發現一種更明智的地中海飲食可以將糖尿病風險降低31%。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQQUk1eUVHLU5wQWljWXJSQ3AwQ2dsR3JNQUJfQ3JDengwTXpsY2F6bnlNejJPUUtNYTlYcEdEZ3kzM01CTWtQNW02VDBXVjRnOUV0ZzJQWkh6V250QVljSDVZaXNqRUF2VHdYRVY3cmlwQ3hJVWpPeWZfWGFsalVWY0dIdlJ4SVQyZUlOd1VDMmY1eTNYNE5iMFJaLWV0MlU3U0VWWDN5V3d1XzRoZWF4SjI1dnZDcFpMaEVqaVR6X25oODdLZHdVN2c0NGQ3V0RzaEJwb3ZheDJXc05ZcDRuR1NPdGdXY2JsazJJQTdXTkE5U3plRlJ1TUJ0UnMzUFZJY0M5NkdPNHd6ZjF5UHkxalQ2QmpYQk5FemRwRUg3dklVSXpFMHVBR21IWWJYWWJLcFlFM1RITkhBVk5wd1lYeDNQS2Rqb3FhaEF0MFR1R25Dd21RVDE0QTRiNkZJMGZicVNNV21XNzNpTUdHNWlIRnNYRnd3VWFMbkwzc2VPV2lrcDBJVnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "16e902ee42fd",
-      "title": "打疫苗電燒都沒用！女子菜花反覆爆發 醫聽她職業後沉默 | CTWANT - LINE TODAY",
-      "published": "2026-05-19T06:58:31+00:00",
-      "summary": "打疫苗電燒都沒用！女子菜花反覆爆發 醫聽她職業後沉默 | CTWANT&nbsp;&nbsp;LINE TODAY打疫苗嘸效！20歲女私密處反覆長出「滿滿菜花田」…醫嘆：人生比病難治&nbsp;&nbsp;祝你健康20歲女菜花狂復發！醫揭她「1苦衷」嘆：人生難治 | 民視新聞網&nbsp;&nbsp;LINE TODAY電燒、打疫苗仍「滿坑滿谷」! 20歲女菜花反覆發作 醫感嘆： 人生比病毒難治&nbsp;&nbsp;MSN【20歲女打疫苗仍炸出「滿滿菜花田」！醫師一聽鼻酸：人生比病難治】 （示意圖／免費圖庫123RF） 人生真的好難...(#起啵)&nbsp;&nbsp;facebook.com",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwV1ljQnJLNzl5ZWY3QjlHV2NrQVBDWFlOSFdDUjlUQm52azcycmdEZTZubGd1NjRBb2dEUjNBWFFKZFhJVkd2ZmJpV3JMVWg3Y0RPeHZR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3b3e18f751e3",
-      "title": "癲癇發作「塞湯匙」防咬舌？急診醫示警「這些動作超危險」：送醫前必做的5件救命小事",
-      "published": "2026-05-19T06:52:00+00:00",
-      "summary": "癲癇發作「塞湯匙」防咬舌？急診醫示警「這些動作超危險」：送醫前必做的5件救命小事&nbsp;&nbsp;幸福熟齡",
-      "sources": [
-        {
-          "name": "幸福熟齡",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyQk5ZZUwwSnp2X2c4R0R4di1nTGwxdkxrR0YwZnM5LVp0TW1ab3F0QjBkWmRTV3BnQXo3aXRaa2NkZkNlV0FsUzE5bzdsMnB5MnNneHNNNlJfUGVGcVRLcW94OWV1Zm4xVTdQcEx6Vkp4eHNEQ05ENVdXaw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "癲癇",
-          "keyword": "癲癇",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "28903acb08ef",
-      "title": "長壽基因或保護腦細胞 降低老化與失智症風險",
-      "published": "2026-05-19T06:06:00+00:00",
-      "summary": "長壽基因或保護腦細胞 降低老化與失智症風險&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hQVJzaEtwemtRelRBLTMwN2IxUDE4THBNMUZuWTZoOG15b2VXLVF2MVh1NlVMVnNBa3dISXJzYTRJQ3Fkb29NaXh5SHkzNVVnWGxFdVN2cEhrY3g0T21Ccl9pTGLSAWpBVV95cUxOM0FLWDNWdkVHWXFsSXBRVUU3ekVXUzJkRnQ0TkY5THZhS2tQSmlyNUltVTM1ejRqRlg4RW5Jc0UxM3VHeXhHWnNaTW9rTldrekdaVzhiakNLUUlXWW9HNDZRT0FmZmVlU1NB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6da9cfc5df9e",
-      "title": "赴美旅遊染「溪谷熱」誤當流感 印度工程師病情惡化插管30 天客死他鄉",
-      "published": "2026-05-19T06:00:29+00:00",
-      "summary": "赴美旅遊染「溪谷熱」誤當流感 印度工程師病情惡化插管30 天客死他鄉&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOR2xxd3hzbHZDQS1hWldhMEhZVnJET18zbEdkOGJBeDhKNmpTTVVRTHo2QTFQT3R5ZVYtbGpTZzdxM2VPZ3pJb3RqSzNIWW91d1VNRElHTUJVUDZhUklQbGt5UkRNbzFyb1BaVUt4ZmFMUUNMXzlVWmhqRW9GVlBPajRvRmM5SEFzU1Y4czRwbGdEVkNyaWlSOXRmX203TjYxLWkycmpWWkNuT0pSa2lKWmJBNjRXT0hlQVdzSlN4blJlQUFEUnhGWVI1dzFxbUpqNEdwN2JBQ19qVzBVX19SRzVIVmxnaFRXRXZoSXViQlpTZnlZYmNISE9FWng1OHBTbkdtSzgyTHBfUjhZM29DeUxkMDl0UnJpazRGaXl4TGpqZENyaUpDVktyWjhMaUtwRjVSd2h2enVCX09sUXppTnVzdmFUUnIzdDlvRDdfZm16SFZEakJpVUllN0xlRzZkQzI4dG9hRXlUcEdBVGhJ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "554d4b56a4a9",
