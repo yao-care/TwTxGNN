@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T18:53:44.203959+00:00",
-  "count": 11,
+  "generated": "2026-05-21T20:46:28.825052+00:00",
+  "count": 10,
   "news": [
     {
       "id": "cf25afc6229c",
@@ -397,30 +397,6 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HNXFReGVydmNXVUVHMnRHamhiX1ZMQWJ5QXlWVVdlSGtkU1ZwcC1nOWNvcG5FVWtTSTV5a2l6U0Z1VW1vNkdsZERrZ192OXctaUE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3ebc255b60c7",
-      "title": "講話常「嗯」、「啊」別只當口頭禪 說話方式恐暗藏失智風險",
-      "published": "2026-05-20T09:53:10+00:00",
-      "sources": [
-        {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56ODQ4bHAxMWEzTGJQaWRQTUJDdmRnUGw2UVVsYkVLd1BJRkw5bW1GRkFxRi1kQU5ieURZcTlwZjk0OU93V3dWTXpHaDVxOWVNWVJVUUQzQ0QzcWQ3MHBr?oc=5"
         }
       ],
       "keywords": [

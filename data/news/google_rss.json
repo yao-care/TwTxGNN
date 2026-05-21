@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-21T18:53:39.630659+00:00",
-  "count": 22,
+  "fetched_at": "2026-05-21T20:46:21.618892+00:00",
+  "count": 21,
   "news": [
     {
       "id": "aaf08d952179",
@@ -16,14 +16,14 @@
       ]
     },
     {
-      "id": "a409653cac6d",
-      "title": "坐公廁馬桶怕得菜花？醫曝「真正危險3處」 不是馬桶坐墊 - 台視新聞網",
-      "published": "2026-05-21T07:00:02+00:00",
-      "summary": "坐公廁馬桶怕得菜花？醫曝「真正危險3處」 不是馬桶坐墊&nbsp;&nbsp;台視新聞網",
+      "id": "edad4cd6135c",
+      "title": "科學家發現了阿茲海默症的隱藏誘因並將其關閉 - arch-web.com.tw",
+      "published": "2026-05-20T13:32:32+00:00",
+      "summary": "科學家發現了阿茲海默症的隱藏誘因並將其關閉&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yM2R6Y1BvVGVQeHVyc1pKUUZhOC1Kd2duZUlVaE9VWXNPWXppemxDVWl4dmJiVlRyaVlSUGdjSGlWakZXT3NzRVZlaElpbjRXRjRyVENSZw?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNaU5JY0gzWVl6aUZaRGJMZDA4blFMSXJYcDRJUkdQbzNmZmwxWXpNTTJBRzBXLTl4M254bWVsMzQ3c2ppU1FyeDhWNGVNdXdmdTEtbENMSkk0R0JnemtHaXhJd1g0R1lVSnVSQ2ZkNjliZE00QURleTItbVRJZVlDdGgtV3RkcTRWTlhFWVhVLWdPQ0NTT0MyRkVGRmxDNWRLM0FNYV9LY0p2Yy1RY3VNTXRPbTEyWkhUR3lRYUdyWjlSUGNYT09oOHFpQ1F5a2RIMkgteEV3QmZEckRxUi12bk9fRkNJdWZtUlFBYWNaTVdVRGE2dG5HQWVlOU5CUXVaUm1IVWFELVpTdkE5Q1FnMkt1X0F1MHZOY0NyU3VqWVNGSVR0R1pqYTRWUGM0c21ndjBiQmZMOFYwRzAtcHIwVllzdHdocm9LT0pSNzFGcjBLSF9DTWU4UzVESTZ1MzhaY2h0OVZFalVxMGJmTjk0YU0xTmdOYmI4bkE?oc=5"
         }
       ]
     },
@@ -36,6 +36,18 @@
         {
           "name": "行銷人",
           "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNT01TelZBREJnZFRLRDVvM3Uxc2xodVN6SjdyTjVXR3ZGaFA0OTd2RGJBdUZfZFY2SkF0bURDQWpnbW9nMkpabTZlR1Y1NHJ4ZWtzYlZjTXNYR05UdkNsU1lmQTFkS1RxSjNvdzc0ZlpBRTJrNmM5UTFsbjdPMDVsOXpzUF9SMGpHVnFvQjV2dUJUeFU2Y1NoaDN1N0JlZjRGQ0pYVEJSR2JYQ3M5QTZCNkYwRXNQeXYyWHV0OHZ5VnlHV0R4YmpZei05WFJ5dmhBZXhuNmZFUk1TVHpEVVhJajBfT1Y1NVhQTU5DVUREdExQbHAtLWtVTVJfWTVhSzA5cTJpdGxXbERQSEZyM2NmcmpoamwybEdxdHJtMWphWFdZMlFJcy1yUGRHTVc2OGVoazc3MFBNMExpVS1SNEh3aXpRVURISjF1SmxReU1Ba0I1MUc5N2QzYlNiVUVNQkxwUGZIYVU5bUFJdTZGYk51UmNvdGZlcWZZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a409653cac6d",
+      "title": "坐公廁馬桶怕得菜花？醫曝「真正危險3處」 不是馬桶坐墊 - 台視新聞網",
+      "published": "2026-05-21T07:00:02+00:00",
+      "summary": "坐公廁馬桶怕得菜花？醫曝「真正危險3處」 不是馬桶坐墊&nbsp;&nbsp;台視新聞網",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yM2R6Y1BvVGVQeHVyc1pKUUZhOC1Kd2duZUlVaE9VWXNPWXppemxDVWl4dmJiVlRyaVlSUGdjSGlWakZXT3NzRVZlaElpbjRXRjRyVENSZw?oc=5"
         }
       ]
     },
@@ -55,7 +67,7 @@
       "id": "3573b1d7f763",
       "title": "保健》防子宮頸癌 醫籲打HPV疫苗 - 中時新聞網",
       "published": "2026-05-20T20:10:00+00:00",
-      "summary": "保健》防子宮頸癌 醫籲打HPV疫苗&nbsp;&nbsp;中時新聞網成年男性每2人就有1人染HPV 3大預防重點一次看&nbsp;&nbsp;祝你健康親密行為多樣化暗藏風險？醫示警：保險套無法完全阻隔HPV，小心愛被癌打亂！&nbsp;&nbsp;良醫健康網HPV不只是女性的事！泌尿科醫師示警：成年男性每2人就有1人感染 | 風傳媒&nbsp;&nbsp;LINE TODAY《子宮頸癌小學堂》：從HPV、抹片檢查到癌前病變，陪妳一步步安心了解&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "保健》防子宮頸癌 醫籲打HPV疫苗&nbsp;&nbsp;中時新聞網醫生：男性也要注意HPV病毒&nbsp;&nbsp;工商時報親密行為多樣化暗藏風險？醫示警：保險套無法完全阻隔HPV，小心愛被癌打亂！&nbsp;&nbsp;良醫健康網《子宮頸癌小學堂》：從HPV、抹片檢查到癌前病變，陪妳一步步安心了解&nbsp;&nbsp;PChome Online 新聞HPV不只是女性的事！泌尿科醫師示警：成年男性每2人就有1人感染 | 風傳媒&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "中時新聞網",
@@ -112,18 +124,6 @@
       ]
     },
     {
-      "id": "edad4cd6135c",
-      "title": "科學家發現了阿茲海默症的隱藏誘因並將其關閉 - arch-web.com.tw",
-      "published": "2026-05-20T13:32:32+00:00",
-      "summary": "科學家發現了阿茲海默症的隱藏誘因並將其關閉&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNaU5JY0gzWVl6aUZaRGJMZDA4blFMSXJYcDRJUkdQbzNmZmwxWXpNTTJBRzBXLTl4M254bWVsMzQ3c2ppU1FyeDhWNGVNdXdmdTEtbENMSkk0R0JnemtHaXhJd1g0R1lVSnVSQ2ZkNjliZE00QURleTItbVRJZVlDdGgtV3RkcTRWTlhFWVhVLWdPQ0NTT0MyRkVGRmxDNWRLM0FNYV9LY0p2Yy1RY3VNTXRPbTEyWkhUR3lRYUdyWjlSUGNYT09oOHFpQ1F5a2RIMkgteEV3QmZEckRxUi12bk9fRkNJdWZtUlFBYWNaTVdVRGE2dG5HQWVlOU5CUXVaUm1IVWFELVpTdkE5Q1FnMkt1X0F1MHZOY0NyU3VqWVNGSVR0R1pqYTRWUGM0c21ndjBiQmZMOFYwRzAtcHIwVllzdHdocm9LT0pSNzFGcjBLSF9DTWU4UzVESTZ1MzhaY2h0OVZFalVxMGJmTjk0YU0xTmdOYmI4bkE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bbb9a5f07b9c",
       "title": "失智症新發現：孤獨、失眠為風險因子 血液檢測助早期篩檢 - yesmedia.com.tw",
       "published": "2026-05-20T12:19:59+00:00",
@@ -132,18 +132,6 @@
         {
           "name": "yesmedia.com.tw",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQOFB1aWVIcjJXbE84cjFGZDhxRkJ1R0xFZl9xZFN2UXkwWHo3V2VHVzFaazMxWEhhNzVvd3lNV1ZUTE1wMU1sSEdVVjFSTktHblJiaTZDcHpKQkd3cVVya0tMZDFzb0ZIZ051TG9PeXFJRWxMLWVnUFdEUEtCdVEyR1NibXQxWXA5ZUktM3NSSGNHUVI1S3NsXy12dFRsR1pPbVRBdHJ5YjA3OE8wYW15RnBqaE91ZHR0NzJBTy1kb0k1TTFGMTl1ekM2Nl8yMWxBQm9VR09ySkVxbzVzZVFCejJ4UzV5a2VjaXo2M3p1WVhxUVRLYmx0dU5IbksxWXlDZXV3X3JJQUZoMkJBNDhJVVNBa2FKZmdWWWVTNWZuWXZuWV9xQkRyWmVZdWxJVmdReDBIS2lOZTFvM0FZU1ZpRVZ1eFh4TFh1bnRndw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3ebc255b60c7",
-      "title": "講話常「嗯」、「啊」別只當口頭禪 說話方式恐暗藏失智風險 - 科技島",
-      "published": "2026-05-20T09:53:10+00:00",
-      "summary": "講話常「嗯」、「啊」別只當口頭禪 說話方式恐暗藏失智風險&nbsp;&nbsp;科技島",
-      "sources": [
-        {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56ODQ4bHAxMWEzTGJQaWRQTUJDdmRnUGw2UVVsYkVLd1BJRkw5bW1GRkFxRi1kQU5ieURZcTlwZjk0OU93V3dWTXpHaDVxOWVNWVJVUUQzQ0QzcWQ3MHBr?oc=5"
         }
       ]
     },

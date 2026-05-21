@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [科學家發現數百種癌症突變共有的隱藏弱點](https://news.google.com/rss/articles/CBMi4gJBVV95cUxQSldyb0hEdElMUjRwRkJJMUhaLUJtaFFMdDVNdzhwNzlyWWhzRW1nRnZMZGwxNUJ3THJIeXB0MEs0WVdlN0xRVkpBdUNUaWlNTVVGWmNfcm9sQjRHOU1CMkpzS1hDVEJNa1RRcXdYc0xtWmZNV3V4QTRLVGtCMzVxQ3NqS3UyQkNfYVJ0QWZ4aTdwS3B4aVJzc3NlTUVZU215TmZYUmVGWU9QTFY2V1dQdmRlSHcyZTNjLXFqbmFUWnk1R0xYemZWSlZnY0R5ZWtUM1FrR3ZVdWZZSGFGeEttamFYWWRoel93dkJOaXBac2E4MmhNRUNfZndrMlp3ekdYRWN6UjltMDZlbndjdU5vM0dUMENHVjhLWTRhT1F5dGlnc2EzSmh0WDlQbFdUYXhKOHFfMzRkTk5LSUI0WTBWemRUbjR5WnFsX1NiT2xaeXNWZjFaUkdTWHpxUjBYYXNzUnc?oc=5)
 
@@ -72,14 +72,6 @@ permalink: /news/gefitinib/
 2026-05-20 <span class="news-indication-tag">失智</span>
 
 來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HNXFReGVydmNXVUVHMnRHamhiX1ZMQWJ5QXlWVVdlSGtkU1ZwcC1nOWNvcG5FVWtTSTV5a2l6U0Z1VW1vNkdsZERrZ192OXctaUE?oc=5)
-
----
-
-### [講話常「嗯」、「啊」別只當口頭禪 說話方式恐暗藏失智風險](https://news.google.com/rss/articles/CBMiX0FVX3lxTE56ODQ4bHAxMWEzTGJQaWRQTUJDdmRnUGw2UVVsYkVLd1BJRkw5bW1GRkFxRi1kQU5ieURZcTlwZjk0OU93V3dWTXpHaDVxOWVNWVJVUUQzQ0QzcWQ3MHBr?oc=5)
-
-2026-05-20 <span class="news-indication-tag">失智</span>
-
-來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE56ODQ4bHAxMWEzTGJQaWRQTUJDdmRnUGw2UVVsYkVLd1BJRkw5bW1GRkFxRi1kQU5ieURZcTlwZjk0OU93V3dWTXpHaDVxOWVNWVJVUUQzQ0QzcWQ3MHBr?oc=5)
 
 ---
 
