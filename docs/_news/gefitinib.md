@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [科學家發現數百種癌症突變共有的隱藏弱點](https://news.google.com/rss/articles/CBMi4gJBVV95cUxQSldyb0hEdElMUjRwRkJJMUhaLUJtaFFMdDVNdzhwNzlyWWhzRW1nRnZMZGwxNUJ3THJIeXB0MEs0WVdlN0xRVkpBdUNUaWlNTVVGWmNfcm9sQjRHOU1CMkpzS1hDVEJNa1RRcXdYc0xtWmZNV3V4QTRLVGtCMzVxQ3NqS3UyQkNfYVJ0QWZ4aTdwS3B4aVJzc3NlTUVZU215TmZYUmVGWU9QTFY2V1dQdmRlSHcyZTNjLXFqbmFUWnk1R0xYemZWSlZnY0R5ZWtUM1FrR3ZVdWZZSGFGeEttamFYWWRoel93dkJOaXBac2E4MmhNRUNfZndrMlp3ekdYRWN6UjltMDZlbndjdU5vM0dUMENHVjhLWTRhT1F5dGlnc2EzSmh0WDlQbFdUYXhKOHFfMzRkTk5LSUI0WTBWemRUbjR5WnFsX1NiT2xaeXNWZjFaUkdTWHpxUjBYYXNzUnc?oc=5)
+### [平凡的胺基酸「精胺酸」，真能幫助對抗阿茲海默症嗎？ - TechNews 科技新報](https://news.google.com/rss/articles/CBMioAFBVV95cUxOeU0zSnA1OUltSVhlclpsSDJaVS02MVZDejF1R2lOTVFZZFNhcmtGOWFwU3dzSzgwMDVpVG1RUWRCNnhKR2U4czVaaG52R0ZlMkpZMUJxLU04dFBEVG1fWFJMMTc4MDIxQ2JwNGt2NlZMdUFlY25qMWdrRThud0U2ZW5qSjFNTTNrVkt3YUtkMGdic1lNVmF6OFlLOXhYaWgz?oc=5)
 
-2026-05-21 <span class="news-indication-tag">癌症</span>
+2026-05-21 <span class="news-indication-tag">阿茲海默症</span>
 
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi4gJBVV95cUxQSldyb0hEdElMUjRwRkJJMUhaLUJtaFFMdDVNdzhwNzlyWWhzRW1nRnZMZGwxNUJ3THJIeXB0MEs0WVdlN0xRVkpBdUNUaWlNTVVGWmNfcm9sQjRHOU1CMkpzS1hDVEJNa1RRcXdYc0xtWmZNV3V4QTRLVGtCMzVxQ3NqS3UyQkNfYVJ0QWZ4aTdwS3B4aVJzc3NlTUVZU215TmZYUmVGWU9QTFY2V1dQdmRlSHcyZTNjLXFqbmFUWnk1R0xYemZWSlZnY0R5ZWtUM1FrR3ZVdWZZSGFGeEttamFYWWRoel93dkJOaXBac2E4MmhNRUNfZndrMlp3ekdYRWN6UjltMDZlbndjdU5vM0dUMENHVjhLWTRhT1F5dGlnc2EzSmh0WDlQbFdUYXhKOHFfMzRkTk5LSUI0WTBWemRUbjR5WnFsX1NiT2xaeXNWZjFaUkdTWHpxUjBYYXNzUnc?oc=5)
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMioAFBVV95cUxOeU0zSnA1OUltSVhlclpsSDJaVS02MVZDejF1R2lOTVFZZFNhcmtGOWFwU3dzSzgwMDVpVG1RUWRCNnhKR2U4czVaaG52R0ZlMkpZMUJxLU04dFBEVG1fWFJMMTc4MDIxQ2JwNGt2NlZMdUFlY25qMWdrRThud0U2ZW5qSjFNTTNrVkt3YUtkMGdic1lNVmF6OFlLOXhYaWgz?oc=5)
+
+---
+
+### [《阿茲海默症》阿茲海默症逆轉現曙光？跨國研究開發奈米「超分子藥物」重啟大腦排毒機制，長效逆轉高齡失智小鼠認知功能](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScEtQazE0am9ra1VuVTB5LWNvOVhJOFRQNnBCMjNrcFQ3RjBLVjFVdWdfbmxBNVQydUZ1dE5CaElHeVZiVnRZV2hMdWI4akpHdktjRkw1N2RvSER1TGJyY0JZNVAya3B4S3BBVA?oc=5)
+
+2026-05-21 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源：[genetinfo.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScEtQazE0am9ra1VuVTB5LWNvOVhJOFRQNnBCMjNrcFQ3RjBLVjFVdWdfbmxBNVQydUZ1dE5CaElHeVZiVnRZV2hMdWI4akpHdktjRkw1N2RvSER1TGJyY0JZNVAya3B4S3BBVA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [台中疫苗補助卡關長者「皮蛇」纏身痛如酷刑- 生活](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pQTZaMkRCR2NFM293ZkxJVmNudGZuV29wN2lKQnptLVl1ZmduUjV1UVRsTEFteGFWb3lCaEZvMlVKZEFOeUhoeHJKdHRDSUd3RnllSW5kUllLazBBNmVF?oc=5)
+
+2026-05-21 <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">神經痛</span>
+
+來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pQTZaMkRCR2NFM293ZkxJVmNudGZuV29wN2lKQnptLVl1ZmduUjV1UVRsTEFteGFWb3lCaEZvMlVKZEFOeUhoeHJKdHRDSUd3RnllSW5kUllLazBBNmVF?oc=5)
+
+---
 
 ### [照護線上》給寶寶的第一份見面禮，呼吸道細胞融合病毒（RSV）長效型單株抗體「出生即防護」策略解析，專科醫師圖文懶人包](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iWlJjVS12MUJlQ0Y0ZmlaWENrS3FuYy0tYlN3NUY0UDlkaURoRWNtWDhLVkNSWnowbDNlT3BCcVdDRkNObTBmczdhV0VQd0d5TjJrN3B3Q25QS1VfTFZrZXJR0gFnQVVfeXFMTk5hWndjeUQ1TjY0SXF2V2t1eWJFcWUtYzdreDlEdzZmOG5VZlhsR1FqcWROVjRvU0lCT3hwNVFIRFduNkZieEllaS1PNk0xS0tGS0pQLWtmQk56Qk5mdHVDUFdHZmNaNA?oc=5)
 

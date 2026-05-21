@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [科學家發現數百種癌症突變共有的隱藏弱點](https://news.google.com/rss/articles/CBMi4gJBVV95cUxQSldyb0hEdElMUjRwRkJJMUhaLUJtaFFMdDVNdzhwNzlyWWhzRW1nRnZMZGwxNUJ3THJIeXB0MEs0WVdlN0xRVkpBdUNUaWlNTVVGWmNfcm9sQjRHOU1CMkpzS1hDVEJNa1RRcXdYc0xtWmZNV3V4QTRLVGtCMzVxQ3NqS3UyQkNfYVJ0QWZ4aTdwS3B4aVJzc3NlTUVZU215TmZYUmVGWU9QTFY2V1dQdmRlSHcyZTNjLXFqbmFUWnk1R0xYemZWSlZnY0R5ZWtUM1FrR3ZVdWZZSGFGeEttamFYWWRoel93dkJOaXBac2E4MmhNRUNfZndrMlp3ekdYRWN6UjltMDZlbndjdU5vM0dUMENHVjhLWTRhT1F5dGlnc2EzSmh0WDlQbFdUYXhKOHFfMzRkTk5LSUI0WTBWemRUbjR5WnFsX1NiT2xaeXNWZjFaUkdTWHpxUjBYYXNzUnc?oc=5)
+### [台中疫苗補助卡關長者「皮蛇」纏身痛如酷刑- 生活](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pQTZaMkRCR2NFM293ZkxJVmNudGZuV29wN2lKQnptLVl1ZmduUjV1UVRsTEFteGFWb3lCaEZvMlVKZEFOeUhoeHJKdHRDSUd3RnllSW5kUllLazBBNmVF?oc=5)
 
-2026-05-21 <span class="news-indication-tag">癌症</span>
+2026-05-21 <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">神經痛</span>
 
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi4gJBVV95cUxQSldyb0hEdElMUjRwRkJJMUhaLUJtaFFMdDVNdzhwNzlyWWhzRW1nRnZMZGwxNUJ3THJIeXB0MEs0WVdlN0xRVkpBdUNUaWlNTVVGWmNfcm9sQjRHOU1CMkpzS1hDVEJNa1RRcXdYc0xtWmZNV3V4QTRLVGtCMzVxQ3NqS3UyQkNfYVJ0QWZ4aTdwS3B4aVJzc3NlTUVZU215TmZYUmVGWU9QTFY2V1dQdmRlSHcyZTNjLXFqbmFUWnk1R0xYemZWSlZnY0R5ZWtUM1FrR3ZVdWZZSGFGeEttamFYWWRoel93dkJOaXBac2E4MmhNRUNfZndrMlp3ekdYRWN6UjltMDZlbndjdU5vM0dUMENHVjhLWTRhT1F5dGlnc2EzSmh0WDlQbFdUYXhKOHFfMzRkTk5LSUI0WTBWemRUbjR5WnFsX1NiT2xaeXNWZjFaUkdTWHpxUjBYYXNzUnc?oc=5)
-
----
-
-### [台中疫苗補助卡關 長者「皮蛇」纏身痛如酷刑](https://news.google.com/rss/articles/CBMirwJBVV95cUxQQWFxVEZ4WWlUdG00OHVfd1FzbmppTTdQc3NOdFdXby1UVEo5QVBHb1dKeE1QTlNfb1BwVlRIejlienVmU1VOYzBQSjlWZlg2T2xRMG5UcmY0bHpuME4yVHUxM2ZHUmxCNWFJMHJic05QV3RiT1RWendsekhIdXMyY2pCM3l5TWhlNlY2aGI2YUktTkNmUld6NGhJZEZhWVdXNW9VZFJsVVZ0LVYxaEZkNng0V0lZVjBWVEhyQ3MzbzU0SUNOMm5tZm1maFNnaXQ2WmtON2dWUWVEelZsSUtEWVZZejA1U0hwaVRPbF8taDVialhOT1EwQkJSMFQxNmFfMzYteV9fM0RyU0hsVklrTndZNE90MkFfQU0ybU41cGk0cHlEbkVTd01ldk5KUUU?oc=5)
-
-2026-05-21 <span class="news-indication-tag">皮蛇</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMirwJBVV95cUxQQWFxVEZ4WWlUdG00OHVfd1FzbmppTTdQc3NOdFdXby1UVEo5QVBHb1dKeE1QTlNfb1BwVlRIejlienVmU1VOYzBQSjlWZlg2T2xRMG5UcmY0bHpuME4yVHUxM2ZHUmxCNWFJMHJic05QV3RiT1RWendsekhIdXMyY2pCM3l5TWhlNlY2aGI2YUktTkNmUld6NGhJZEZhWVdXNW9VZFJsVVZ0LVYxaEZkNng0V0lZVjBWVEhyQ3MzbzU0SUNOMm5tZm1maFNnaXQ2WmtON2dWUWVEelZsSUtEWVZZejA1U0hwaVRPbF8taDVialhOT1EwQkJSMFQxNmFfMzYteV9fM0RyU0hsVklrTndZNE90MkFfQU0ybU41cGk0cHlEbkVTd01ldk5KUUU?oc=5)
+來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pQTZaMkRCR2NFM293ZkxJVmNudGZuV29wN2lKQnptLVl1ZmduUjV1UVRsTEFteGFWb3lCaEZvMlVKZEFOeUhoeHJKdHRDSUd3RnllSW5kUllLazBBNmVF?oc=5)
 
 ---
 
