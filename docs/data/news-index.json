@@ -1,11 +1,11 @@
 {
-  "generated": "2026-05-21T10:32:19.839814+00:00",
-  "count": 11,
+  "generated": "2026-05-21T13:55:59.977921+00:00",
+  "count": 10,
   "news": [
     {
       "id": "74c0ad639cd4",
       "title": "台中疫苗補助卡關 長者「皮蛇」纏身痛如酷刑",
-      "published": "2026-05-21T08:03:45+00:00",
+      "published": "2026-05-21T08:10:56+00:00",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -290,53 +290,6 @@
             {
               "slug": "berberine",
               "name": "Berberine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9a65a5e35589",
-      "title": "抗癌蔬菜︱紅肉吃太多恐致癌！ 營養師大推神級解毒菜 抗炎兼防癌食4星期見效",
-      "published": "2026-05-19T10:47:39+00:00",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMikARBVV95cUxNeTBOVkNGNXdXRkQzYk0xLW9mWHFleGdVdVZqdEFvb0prUTRvaG5fNjQwM2dJNmV5dGczVFVJMUE3emVCRlR0Z3VYcWw1YUc0WTlwcldJWWFSZ3kwal8tSmtKWi1oRkk0d3Y5N0h2MnhMWnV3TGZTU1U3R05kcU5rTWczWnd3LWxJUHB4ckJTWnpYSEVNa2RlZWl5b1ZQWWhHdFJBbTJSYV9KQ3phVDdyODFVa2tHdlRXY0lpbWZwTWprTzdlVU9zWFdSTTEwZFJRN1hsTnZlbmxyb0Zza0YzRjltWWVjYzhpQTBnU0hKUlQ4X2tvT1hfTF84M0RQdUFZa1djX3RaSkRZd3RzOU02aEUya0NFem1VTlJxSGJvUFY0V1E4d3BuLVA4YnV3VURyZTAtY3k4M2YxSDRnUkRfd0Nra1pSY2VoTVFBbTlvSG0zdXlkaTA0NDZGUGpHSUZPaGE0SEFVdW5Ody1TS3NzcUhldTk1RFFCTV9jUGhiU3ByY3lfd250enFVQ3liU1B6UUppQ0tuRnFDbVA2Ujd4TkFHSlFDckwwM256X0RVNTdpLUNDeDVVODNtSFZrRTNpMkJQTXFWcHp4dGhqTlNhRHdYbWNNcVFDQmFFeGtBaGZKN1JBbWVUYjRuRFJEVU9YWm5LSnVfeHRfdGdjWlA4WEpaNHNyMVAyOXpfX3ZDNmI?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }

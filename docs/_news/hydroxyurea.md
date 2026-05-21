@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [市民50歲起可參與大腸癌篩查 提防大腸瘜肉變腸癌 - 晴報 Sky Post](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQnZRb3ZhTWVWTnlvRDZTcEhocTZ6eFVDTlRKZnN5ZUVKMVlEV3o4STR6VjF1RVB5OGR5VlgxenotM3gtU1p1Ylk5QQ?oc=5)
 
 2026-05-20 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[晴報 Sky Post](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQnZRb3ZhTWVWTnlvRDZTcEhocTZ6eFVDTlRKZnN5ZUVKMVlEV3o4STR6VjF1RVB5OGR5VlgxenotM3gtU1p1Ylk5QQ?oc=5)
-
----
-
-### [抗癌蔬菜︱紅肉吃太多恐致癌！ 營養師大推神級解毒菜 抗炎兼防癌食4星期見效](https://news.google.com/rss/articles/CBMikARBVV95cUxNeTBOVkNGNXdXRkQzYk0xLW9mWHFleGdVdVZqdEFvb0prUTRvaG5fNjQwM2dJNmV5dGczVFVJMUE3emVCRlR0Z3VYcWw1YUc0WTlwcldJWWFSZ3kwal8tSmtKWi1oRkk0d3Y5N0h2MnhMWnV3TGZTU1U3R05kcU5rTWczWnd3LWxJUHB4ckJTWnpYSEVNa2RlZWl5b1ZQWWhHdFJBbTJSYV9KQ3phVDdyODFVa2tHdlRXY0lpbWZwTWprTzdlVU9zWFdSTTEwZFJRN1hsTnZlbmxyb0Zza0YzRjltWWVjYzhpQTBnU0hKUlQ4X2tvT1hfTF84M0RQdUFZa1djX3RaSkRZd3RzOU02aEUya0NFem1VTlJxSGJvUFY0V1E4d3BuLVA4YnV3VURyZTAtY3k4M2YxSDRnUkRfd0Nra1pSY2VoTVFBbTlvSG0zdXlkaTA0NDZGUGpHSUZPaGE0SEFVdW5Ody1TS3NzcUhldTk1RFFCTV9jUGhiU3ByY3lfd250enFVQ3liU1B6UUppQ0tuRnFDbVA2Ujd4TkFHSlFDckwwM256X0RVNTdpLUNDeDVVODNtSFZrRTNpMkJQTXFWcHp4dGhqTlNhRHdYbWNNcVFDQmFFeGtBaGZKN1JBbWVUYjRuRFJEVU9YWm5LSnVfeHRfdGdjWlA4WEpaNHNyMVAyOXpfX3ZDNmI?oc=5)
-
-2026-05-19 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMikARBVV95cUxNeTBOVkNGNXdXRkQzYk0xLW9mWHFleGdVdVZqdEFvb0prUTRvaG5fNjQwM2dJNmV5dGczVFVJMUE3emVCRlR0Z3VYcWw1YUc0WTlwcldJWWFSZ3kwal8tSmtKWi1oRkk0d3Y5N0h2MnhMWnV3TGZTU1U3R05kcU5rTWczWnd3LWxJUHB4ckJTWnpYSEVNa2RlZWl5b1ZQWWhHdFJBbTJSYV9KQ3phVDdyODFVa2tHdlRXY0lpbWZwTWprTzdlVU9zWFdSTTEwZFJRN1hsTnZlbmxyb0Zza0YzRjltWWVjYzhpQTBnU0hKUlQ4X2tvT1hfTF84M0RQdUFZa1djX3RaSkRZd3RzOU02aEUya0NFem1VTlJxSGJvUFY0V1E4d3BuLVA4YnV3VURyZTAtY3k4M2YxSDRnUkRfd0Nra1pSY2VoTVFBbTlvSG0zdXlkaTA0NDZGUGpHSUZPaGE0SEFVdW5Ody1TS3NzcUhldTk1RFFCTV9jUGhiU3ByY3lfd250enFVQ3liU1B6UUppQ0tuRnFDbVA2Ujd4TkFHSlFDckwwM256X0RVNTdpLUNDeDVVODNtSFZrRTNpMkJQTXFWcHp4dGhqTlNhRHdYbWNNcVFDQmFFeGtBaGZKN1JBbWVUYjRuRFJEVU9YWm5LSnVfeHRfdGdjWlA4WEpaNHNyMVAyOXpfX3ZDNmI?oc=5)
 
 ---
 
