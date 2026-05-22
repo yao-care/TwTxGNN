@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。5 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>5 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（2 則）
 
 ### [不要再說「是你想太多」！醫師：自覺記性變差，失智風險高4.5倍](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5Y29qTlBWNnE3UFRZTEg2VzJxWXZweEtadEJFTWVXU3REaTBYWlpuN1psZ3QwZkF1YXRWWnRiNXhyWjFISnRVS3FndndJYUtXcXFnazhvb2U4eG92aDRn0gFkQVVfeXFMT2FjeGVVVXZoeVRLZ0d4OGZHdm41YkJXUDU3WTRnOHRuQVVIWGowVGdFenZmalZHNUdpRUw4V0VmS1BnMmZqRW1CZko1ZHpWd1lybGpJWDNEVUpXNThYc0c5NjhGVg?oc=5)
 
@@ -39,35 +39,11 @@ permalink: /news/dementia/
 
 ---
 
-### [平凡的胺基酸「精胺酸」，真能幫助對抗阿茲海默症嗎？ - TechNews 科技新報](https://news.google.com/rss/articles/CBMioAFBVV95cUxOeU0zSnA1OUltSVhlclpsSDJaVS02MVZDejF1R2lOTVFZZFNhcmtGOWFwU3dzSzgwMDVpVG1RUWRCNnhKR2U4czVaaG52R0ZlMkpZMUJxLU04dFBEVG1fWFJMMTc4MDIxQ2JwNGt2NlZMdUFlY25qMWdrRThud0U2ZW5qSjFNTTNrVkt3YUtkMGdic1lNVmF6OFlLOXhYaWgz?oc=5)
-
-2026-05-21
-
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMioAFBVV95cUxOeU0zSnA1OUltSVhlclpsSDJaVS02MVZDejF1R2lOTVFZZFNhcmtGOWFwU3dzSzgwMDVpVG1RUWRCNnhKR2U4czVaaG52R0ZlMkpZMUJxLU04dFBEVG1fWFJMMTc4MDIxQ2JwNGt2NlZMdUFlY25qMWdrRThud0U2ZW5qSjFNTTNrVkt3YUtkMGdic1lNVmF6OFlLOXhYaWgz?oc=5)
-
----
-
 ### [《阿茲海默症》阿茲海默症逆轉現曙光？跨國研究開發奈米「超分子藥物」重啟大腦排毒機制，長效逆轉高齡失智小鼠認知功能](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScEtQazE0am9ra1VuVTB5LWNvOVhJOFRQNnBCMjNrcFQ3RjBLVjFVdWdfbmxBNVQydUZ1dE5CaElHeVZiVnRZV2hMdWI4akpHdktjRkw1N2RvSER1TGJyY0JZNVAya3B4S3BBVA?oc=5)
 
 2026-05-21
 
 來源：[genetinfo.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScEtQazE0am9ra1VuVTB5LWNvOVhJOFRQNnBCMjNrcFQ3RjBLVjFVdWdfbmxBNVQydUZ1dE5CaElHeVZiVnRZV2hMdWI4akpHdktjRkw1N2RvSER1TGJyY0JZNVAya3B4S3BBVA?oc=5)
-
----
-
-### [失智症新發現：孤獨、失眠為風險因子 血液檢測助早期篩檢](https://news.google.com/rss/articles/CBMiOkFVX3lxTE4xalJjMUkwWmR1MEtRZ3cyVDUyMk9xeDhKLS0zQWE0SFp6Mm1lSS1NcWxYN2w4SExQSnc?oc=5)
-
-2026-05-20
-
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE4xalJjMUkwWmR1MEtRZ3cyVDUyMk9xeDhKLS0zQWE0SFp6Mm1lSS1NcWxYN2w4SExQSnc?oc=5)
-
----
-
-### [女性更易失智！風險比男性高2倍 醫點名5大傷腦地雷 50歲後必看護腦方式 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HNXFReGVydmNXVUVHMnRHamhiX1ZMQWJ5QXlWVVdlSGtkU1ZwcC1nOWNvcG5FVWtTSTV5a2l6U0Z1VW1vNkdsZERrZ192OXctaUE?oc=5)
-
-2026-05-20
-
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HNXFReGVydmNXVUVHMnRHamhiX1ZMQWJ5QXlWVVdlSGtkU1ZwcC1nOWNvcG5FVWtTSTV5a2l6U0Z1VW1vNkdsZERrZ192OXctaUE?oc=5)
 
 ---
 

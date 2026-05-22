@@ -44,11 +44,11 @@ permalink: /news/oxytetracycline/
 
 ## 相關新聞（2 則）
 
-### [法國新研究：常見食品防腐劑恐增高血壓及心臟病風險](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRRUc0R0NTZ2JlSGNHcG91WVRyYmNxS1h3OXpEbnZiLUpiLUVRSVhVajBCMHBZdFFQNkdDaDJqVmxlV0NycW9oUUoxV04yRTRJUGc?oc=5)
+### [優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險| 世界萬象| 全球](https://news.google.com/rss/articles/CBMie0FVX3lxTE94c1NmRFZoeTg3RV9rbEw1RDJFalVvYTVIWm9QaXNicl9TTkh4SmZwaEI5cEtrQ2NtNzBDMC1ycDJVUmJkTlhwYXFmR2t2MFQ2NVFlWWV2ckZXRXlFZDRhNjBRSUdFODI4UDdiUWlmWnhNLURfcjNRQkxCOA?oc=5)
 
 2026-05-22 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">高血壓</span>
 
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRRUc0R0NTZ2JlSGNHcG91WVRyYmNxS1h3OXpEbnZiLUpiLUVRSVhVajBCMHBZdFFQNkdDaDJqVmxlV0NycW9oUUoxV04yRTRJUGc?oc=5)
+來源：[UDN](https://news.google.com/rss/articles/CBMie0FVX3lxTE94c1NmRFZoeTg3RV9rbEw1RDJFalVvYTVIWm9QaXNicl9TTkh4SmZwaEI5cEtrQ2NtNzBDMC1ycDJVUmJkTlhwYXFmR2t2MFQ2NVFlWWV2ckZXRXlFZDRhNjBRSUdFODI4UDdiUWlmWnhNLURfcjNRQkxCOA?oc=5)
 
 ---
 

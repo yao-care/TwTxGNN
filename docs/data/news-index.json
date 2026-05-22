@@ -1,15 +1,15 @@
 {
-  "generated": "2026-05-22T10:17:50.744382+00:00",
-  "count": 12,
+  "generated": "2026-05-22T13:24:18.115966+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "3e61241db937",
-      "title": "法國新研究：常見食品防腐劑恐增高血壓及心臟病風險",
-      "published": "2026-05-22T08:51:00+00:00",
+      "id": "63306b96b469",
+      "title": "優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險| 世界萬象| 全球",
+      "published": "2026-05-22T12:47:50+00:00",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRRUc0R0NTZ2JlSGNHcG91WVRyYmNxS1h3OXpEbnZiLUpiLUVRSVhVajBCMHBZdFFQNkdDaDJqVmxlV0NycW9oUUoxV04yRTRJUGc?oc=5"
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94c1NmRFZoeTg3RV9rbEw1RDJFalVvYTVIWm9QaXNicl9TTkh4SmZwaEI5cEtrQ2NtNzBDMC1ycDJVUmJkTlhwYXFmR2t2MFQ2NVFlWWV2ckZXRXlFZDRhNjBRSUdFODI4UDdiUWlmWnhNLURfcjNRQkxCOA?oc=5"
         }
       ],
       "keywords": [
@@ -90,13 +90,13 @@
       ]
     },
     {
-      "id": "8aee59c9903d",
-      "title": "遊日注意！福岡出現「謎之感冒」大爆發 症狀像新冠",
-      "published": "2026-05-22T06:46:23+00:00",
+      "id": "22668f9e2731",
+      "title": "日本爆發「神秘感冒」！喉嚨痛如刀割快篩卻陰性 東京也淪陷",
+      "published": "2026-05-22T09:40:49+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNWDUtd3ByYjdlZE1IWTRkYnUzMzVSOWl5a0NvckM3QlpxY05SbUxnbU9LS3V0VTl3SFZGQU1WLVpweksxcEtIbGt5MGp5Qm5MM19MVmE3d3RPbDdCZVF0d00wOTdTOTQ2NzNVYXZBM1FVVzY4MmVSYmFNRHBOU1BMRTI3UnRqeHdoM1JpVWpRTFVzbmlEOHJnR1JNRnR5ZExXU2tZSGx3YWhpUXhrMFRiaEpjYkFYbnZHMllxNmRMNWpIQkRmRDJOZ0lBSzlvSGJDQXZCOGVTYUxKNXdvRHdjT3VTQlRZX0cxel94WWwzM3hHelRNZ1dsY3pWdDQ1NnVzZnoxLWhabk50cWFDLTZ0dDdRZUhqd3JZNk45YVdfM1lYcjVrTkVMcndfRXZWR25wSnl3TlRnZ21ZZlB6WHZyYlFib18yZmVf?oc=5"
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RaVphSHZjd3pPSDhZS2xiWG5Obnp3WFMwTUYxV1Vsa08wekpsenl6OFllajlwUXprNnRTOXQtZTJVb1Y0T25UeVBPaDE?oc=5"
         }
       ],
       "keywords": [
@@ -108,122 +108,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9fb5dae6f4d6",
-      "title": "更年期褲子愈穿愈緊？頂尖期刊曝：更年期BMI「多這數字」小心乳癌 - TVBS 健康2.0",
-      "published": "2026-05-22T04:18:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOOC1jeDI4ZUpqYXBYc3VlX0FFSGx3MExUSnJldXNZUDh5RXRhX0tGd1dZc2hRRFhxb3Y4VHhudVp6alNrRXlBWTVJbXM1VnlLUXc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "liver sarcoma",
-          "keyword": "肝癌",
-          "related_drugs": [
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }
@@ -244,54 +128,6 @@
           "type": "indication",
           "name": "dementia",
           "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b92039e4a083",
-      "title": "脫水恐讓病情惡化，水分不足恐提高併發症風險，感冒、發燒更要注意補水",
-      "published": "2026-05-22T02:54:31+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOby1XLXNhZndzSkxMMHhVa1VQT3hjTFZ6eWFTUnpDTmRvRzhRV2F2aGJfSlF5aWhVOUpJd0VlV0d4T0w3bEk5NUEtdjRVZ3BIa014REZuZDE1bDFZTUZiUTQtaXhvV004Zmw3ckJXX1ozYUt1d3RvaDl2cWk3MjB5emhhQURxYWlKX3piNWlWUTU4SmV1T0lMaG1zMTQwSjV1WkxwRWg2VW5uZ016TUljZ2d2T2Rlb0ZiYk1zSDBXbmZGbk1pa3hHLVFIV0U3bWZvY1Vlc0g1S1ROcF8xbG40TS0zV3Jybnh6eGQzQmd6YWE3NHZjVFhrSXo4Sy1iS2xoWUdxUU5nN0ZyU3dFN05TNk5PbkFzMzBvQVc5U3MxQXN5bmkzVXZrcjlWM0VBTEd4dDBRSTBlQWZOaTdEWEswMC0wc2NiQWJrTGo2TkUtcjBoTWtiVEdqZXc3RTlEWGFZQXBralBtaG5WaWRIaks2TF9hSzEyNlFyX1IzaXdCaWFOVElHRllyX3hxUkFNLTNCb1V0dkkyWTZnNDcwdmpVdGh2OFVYTm5PdURNZjdUbDA3OF9lU3VSVng1WGxITVE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ca5c862b7c62",
-      "title": "平凡的胺基酸「精胺酸」，真能幫助對抗阿茲海默症嗎？ - TechNews 科技新報",
-      "published": "2026-05-21T23:32:50+00:00",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeU0zSnA1OUltSVhlclpsSDJaVS02MVZDejF1R2lOTVFZZFNhcmtGOWFwU3dzSzgwMDVpVG1RUWRCNnhKR2U4czVaaG52R0ZlMkpZMUJxLU04dFBEVG1fWFJMMTc4MDIxQ2JwNGt2NlZMdUFlY25qMWdrRThud0U2ZW5qSjFNTTNrVkt3YUtkMGdic1lNVmF6OFlLOXhYaWgz?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
           "related_drugs": [
             {
               "slug": "gefitinib",
@@ -379,41 +215,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "367cb1e26636",
-      "title": "失智症新發現：孤獨、失眠為風險因子 血液檢測助早期篩檢",
-      "published": "2026-05-20T22:50:05+00:00",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE4xalJjMUkwWmR1MEtRZ3cyVDUyMk9xeDhKLS0zQWE0SFp6Mm1lSS1NcWxYN2w4SExQSnc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
@@ -633,30 +434,6 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "01fed18a1f24",
-      "title": "女性更易失智！風險比男性高2倍 醫點名5大傷腦地雷 50歲後必看護腦方式 - TVBS 健康2.0",
-      "published": "2026-05-20T10:38:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HNXFReGVydmNXVUVHMnRHamhiX1ZMQWJ5QXlWVVdlSGtkU1ZwcC1nOWNvcG5FVWtTSTV5a2l6U0Z1VW1vNkdsZERrZ192OXctaUE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

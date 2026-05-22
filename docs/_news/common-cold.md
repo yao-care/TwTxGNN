@@ -3,7 +3,7 @@ layout: default
 title: "感冒（common cold） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "感冒（common cold） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "感冒（common cold） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒（common cold） 有什麼相關新聞？">
-<strong>感冒（common cold）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒（common cold）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [遊日注意！福岡出現「謎之感冒」大爆發 症狀像新冠](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNWDUtd3ByYjdlZE1IWTRkYnUzMzVSOWl5a0NvckM3QlpxY05SbUxnbU9LS3V0VTl3SFZGQU1WLVpweksxcEtIbGt5MGp5Qm5MM19MVmE3d3RPbDdCZVF0d00wOTdTOTQ2NzNVYXZBM1FVVzY4MmVSYmFNRHBOU1BMRTI3UnRqeHdoM1JpVWpRTFVzbmlEOHJnR1JNRnR5ZExXU2tZSGx3YWhpUXhrMFRiaEpjYkFYbnZHMllxNmRMNWpIQkRmRDJOZ0lBSzlvSGJDQXZCOGVTYUxKNXdvRHdjT3VTQlRZX0cxel94WWwzM3hHelRNZ1dsY3pWdDQ1NnVzZnoxLWhabk50cWFDLTZ0dDdRZUhqd3JZNk45YVdfM1lYcjVrTkVMcndfRXZWR25wSnl3TlRnZ21ZZlB6WHZyYlFib18yZmVf?oc=5)
-
-2026-05-22
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNWDUtd3ByYjdlZE1IWTRkYnUzMzVSOWl5a0NvckM3QlpxY05SbUxnbU9LS3V0VTl3SFZGQU1WLVpweksxcEtIbGt5MGp5Qm5MM19MVmE3d3RPbDdCZVF0d00wOTdTOTQ2NzNVYXZBM1FVVzY4MmVSYmFNRHBOU1BMRTI3UnRqeHdoM1JpVWpRTFVzbmlEOHJnR1JNRnR5ZExXU2tZSGx3YWhpUXhrMFRiaEpjYkFYbnZHMllxNmRMNWpIQkRmRDJOZ0lBSzlvSGJDQXZCOGVTYUxKNXdvRHdjT3VTQlRZX0cxel94WWwzM3hHelRNZ1dsY3pWdDQ1NnVzZnoxLWhabk50cWFDLTZ0dDdRZUhqd3JZNk45YVdfM1lYcjVrTkVMcndfRXZWR25wSnl3TlRnZ21ZZlB6WHZyYlFib18yZmVf?oc=5)
-
----
-
-### [脫水恐讓病情惡化，水分不足恐提高併發症風險，感冒、發燒更要注意補水](https://news.google.com/rss/articles/CBMivwNBVV95cUxOby1XLXNhZndzSkxMMHhVa1VQT3hjTFZ6eWFTUnpDTmRvRzhRV2F2aGJfSlF5aWhVOUpJd0VlV0d4T0w3bEk5NUEtdjRVZ3BIa014REZuZDE1bDFZTUZiUTQtaXhvV004Zmw3ckJXX1ozYUt1d3RvaDl2cWk3MjB5emhhQURxYWlKX3piNWlWUTU4SmV1T0lMaG1zMTQwSjV1WkxwRWg2VW5uZ016TUljZ2d2T2Rlb0ZiYk1zSDBXbmZGbk1pa3hHLVFIV0U3bWZvY1Vlc0g1S1ROcF8xbG40TS0zV3Jybnh6eGQzQmd6YWE3NHZjVFhrSXo4Sy1iS2xoWUdxUU5nN0ZyU3dFN05TNk5PbkFzMzBvQVc5U3MxQXN5bmkzVXZrcjlWM0VBTEd4dDBRSTBlQWZOaTdEWEswMC0wc2NiQWJrTGo2TkUtcjBoTWtiVEdqZXc3RTlEWGFZQXBralBtaG5WaWRIaks2TF9hSzEyNlFyX1IzaXdCaWFOVElHRllyX3hxUkFNLTNCb1V0dkkyWTZnNDcwdmpVdGh2OFVYTm5PdURNZjdUbDA3OF9lU3VSVng1WGxITVE?oc=5)
+### [日本爆發「神秘感冒」！喉嚨痛如刀割快篩卻陰性 東京也淪陷](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RaVphSHZjd3pPSDhZS2xiWG5Obnp3WFMwTUYxV1Vsa08wekpsenl6OFllajlwUXprNnRTOXQtZTJVb1Y0T25UeVBPaDE?oc=5)
 
 2026-05-22
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMivwNBVV95cUxOby1XLXNhZndzSkxMMHhVa1VQT3hjTFZ6eWFTUnpDTmRvRzhRV2F2aGJfSlF5aWhVOUpJd0VlV0d4T0w3bEk5NUEtdjRVZ3BIa014REZuZDE1bDFZTUZiUTQtaXhvV004Zmw3ckJXX1ozYUt1d3RvaDl2cWk3MjB5emhhQURxYWlKX3piNWlWUTU4SmV1T0lMaG1zMTQwSjV1WkxwRWg2VW5uZ016TUljZ2d2T2Rlb0ZiYk1zSDBXbmZGbk1pa3hHLVFIV0U3bWZvY1Vlc0g1S1ROcF8xbG40TS0zV3Jybnh6eGQzQmd6YWE3NHZjVFhrSXo4Sy1iS2xoWUdxUU5nN0ZyU3dFN05TNk5PbkFzMzBvQVc5U3MxQXN5bmkzVXZrcjlWM0VBTEd4dDBRSTBlQWZOaTdEWEswMC0wc2NiQWJrTGo2TkUtcjBoTWtiVEdqZXc3RTlEWGFZQXBralBtaG5WaWRIaks2TF9hSzEyNlFyX1IzaXdCaWFOVElHRllyX3hxUkFNLTNCb1V0dkkyWTZnNDcwdmpVdGh2OFVYTm5PdURNZjdUbDA3OF9lU3VSVng1WGxITVE?oc=5)
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RaVphSHZjd3pPSDhZS2xiWG5Obnp3WFMwTUYxV1Vsa08wekpsenl6OFllajlwUXprNnRTOXQtZTJVb1Y0T25UeVBPaDE?oc=5)
 
 ---
 
