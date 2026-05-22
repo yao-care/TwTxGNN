@@ -37,11 +37,11 @@ permalink: /news/female-breast-carcinoma/
 
 ## 相關新聞（1 則）
 
-### [研究發現加拿大乳癌發病率偏高地區](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TVzhpRURoX0dPRjVJWGNpWFJIRTlJT29MVm5jNnZlTzB4Y3hlTU1JeXA2YkVzakx0NDR5UVZielZ6N2RYVFBZT05uZ2tWTVNvX0tuaWpxcWU3Zzc5bkZ4TtIBZkFVX3lxTE5xc0FFVVNQREpRMjlaaVdqNnBBUVRMLVJFN0MyVTJTdlZPUk9Sb00zaTFELUxZSlIwTS1RNXdqcnU4eWNONmV5aHNVV1lSSEkycEIyR05VTERHRTJYTHVCOHk3b25zdw?oc=5)
+### [更年期褲子愈穿愈緊？頂尖期刊曝：更年期BMI「多這數字」小心乳癌 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOOC1jeDI4ZUpqYXBYc3VlX0FFSGx3MExUSnJldXNZUDh5RXRhX0tGd1dZc2hRRFhxb3Y4VHhudVp6alNrRXlBWTVJbXM1VnlLUXc?oc=5)
 
-2026-05-21
+2026-05-22
 
-來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TVzhpRURoX0dPRjVJWGNpWFJIRTlJT29MVm5jNnZlTzB4Y3hlTU1JeXA2YkVzakx0NDR5UVZielZ6N2RYVFBZT05uZ2tWTVNvX0tuaWpxcWU3Zzc5bkZ4TtIBZkFVX3lxTE5xc0FFVVNQREpRMjlaaVdqNnBBUVRMLVJFN0MyVTJTdlZPUk9Sb00zaTFELUxZSlIwTS1RNXdqcnU4eWNONmV5aHNVV1lSSEkycEIyR05VTERHRTJYTHVCOHk3b25zdw?oc=5)
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOOC1jeDI4ZUpqYXBYc3VlX0FFSGx3MExUSnJldXNZUDh5RXRhX0tGd1dZc2hRRFhxb3Y4VHhudVp6alNrRXlBWTVJbXM1VnlLUXc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [更年期褲子愈穿愈緊？頂尖期刊曝：更年期BMI「多這數字」小心乳癌 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOOC1jeDI4ZUpqYXBYc3VlX0FFSGx3MExUSnJldXNZUDh5RXRhX0tGd1dZc2hRRFhxb3Y4VHhudVp6alNrRXlBWTVJbXM1VnlLUXc?oc=5)
+
+2026-05-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">肝癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">更年期</span>
+
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOOC1jeDI4ZUpqYXBYc3VlX0FFSGx3MExUSnJldXNZUDh5RXRhX0tGd1dZc2hRRFhxb3Y4VHhudVp6alNrRXlBWTVJbXM1VnlLUXc?oc=5)
+
+---
 
 ### [台中疫苗補助卡關長者「皮蛇」纏身痛如酷刑- 生活](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pQTZaMkRCR2NFM293ZkxJVmNudGZuV29wN2lKQnptLVl1ZmduUjV1UVRsTEFteGFWb3lCaEZvMlVKZEFOeUhoeHJKdHRDSUd3RnllSW5kUllLazBBNmVF?oc=5)
 
 2026-05-21 <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">神經痛</span>
 
 來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pQTZaMkRCR2NFM293ZkxJVmNudGZuV29wN2lKQnptLVl1ZmduUjV1UVRsTEFteGFWb3lCaEZvMlVKZEFOeUhoeHJKdHRDSUd3RnllSW5kUllLazBBNmVF?oc=5)
+
+---
+
+### [保健》防子宮頸癌 醫籲打HPV疫苗](https://news.google.com/rss/articles/CBMia0FVX3lxTE94SHEzbU5RRUZWU3I4N2tXcmxiTTFZYnE5SlNaOEJWVnZXNXJuRlRmYnZNNlBVTXBTa3RlRUo3d0lEd1NqU08wUFlRbVZvVTJaYVBfRVllYWpKX2FlVUJRYWNEYVRFX2d0VlFj?oc=5)
+
+2026-05-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMia0FVX3lxTE94SHEzbU5RRUZWU3I4N2tXcmxiTTFZYnE5SlNaOEJWVnZXNXJuRlRmYnZNNlBVTXBTa3RlRUo3d0lEd1NqU08wUFlRbVZvVTJaYVBfRVllYWpKX2FlVUJRYWNEYVRFX2d0VlFj?oc=5)
 
 ---
 

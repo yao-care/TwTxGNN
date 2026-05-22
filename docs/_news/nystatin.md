@@ -14,7 +14,7 @@ permalink: /news/nystatin/
 ---
 
 <p class="key-answer" data-question="Nystatin 有什麼相關新聞？">
-<strong>Nystatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nystatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/nystatin/
 <p><a href="{{ '/drugs/nystatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [更年期褲子愈穿愈緊？頂尖期刊曝：更年期BMI「多這數字」小心乳癌 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOOC1jeDI4ZUpqYXBYc3VlX0FFSGx3MExUSnJldXNZUDh5RXRhX0tGd1dZc2hRRFhxb3Y4VHhudVp6alNrRXlBWTVJbXM1VnlLUXc?oc=5)
+
+2026-05-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">肝癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">更年期</span>
+
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOOC1jeDI4ZUpqYXBYc3VlX0FFSGx3MExUSnJldXNZUDh5RXRhX0tGd1dZc2hRRFhxb3Y4VHhudVp6alNrRXlBWTVJbXM1VnlLUXc?oc=5)
+
+---
 
 
 <div class="disclaimer">
