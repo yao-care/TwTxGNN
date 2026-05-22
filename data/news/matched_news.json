@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-22T18:29:01.552987+00:00",
+  "last_updated": "2026-05-22T20:28:05.590171+00:00",
   "total_count": 20,
-  "matched_count": 8,
+  "matched_count": 7,
   "news": [
     {
       "id": "3c2b7c2e1223",
@@ -143,6 +143,19 @@
       "matched_keywords": []
     },
     {
+      "id": "19ccc0b5126e",
+      "title": "出生就有心雜音竟是心室中膈缺損 微創導管術助女童恢復活力 - PChome Online 新聞",
+      "published": "2026-05-22T08:00:00+00:00",
+      "summary": "出生就有心雜音竟是心室中膈缺損 微創導管術助女童恢復活力&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1hYcWxFc0JQSW1sdEJMZlY3RWZUUGx3QWJwMkVZMXJDc2hTNkNrU1oyaVVldDBnX1Z0Q1dpRW00NWJtY2lRcG9mNG05Ql80Vld3c0Y2TVRzem5CWmhiLWV6T21zSW9ZRUhfT3JtMFd1UnRRTzlQNm13R1IzOWhkWTJlOWx4UHlDX0lVbFh2TlZ2NjA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "3201f4284817",
       "title": "頭痛視力模糊 竟是末期鼻咽癌侵犯腦神經",
       "published": "2026-05-22T05:00:00+00:00",
@@ -269,6 +282,19 @@
       "matched_keywords": []
     },
     {
+      "id": "22268099029c",
+      "title": "流感｜兩童現嚴重併發症 12歲男童乙流併發腦病變 情況危殆留醫PICU",
+      "published": "2026-05-21T07:46:36+00:00",
+      "summary": "流感｜兩童現嚴重併發症 12歲男童乙流併發腦病變 情況危殆留醫PICU&nbsp;&nbsp;Oh!爸媽衞生防護中心調查兩宗兒童感染流感的嚴重個案- 政務號&nbsp;&nbsp;大公文匯網兩男童感染流感後出現嚴重併發症 其中一人危殆&nbsp;&nbsp;香港電台新聞網染乙流併發腦病變 12歲男童危殆留醫PICU&nbsp;&nbsp;on.cc東網流感｜12歲男童感染乙型流感 併發腦病變情況危殆 目前仍留醫&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "Oh!爸媽",
+          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPaVlYTzBrLVU4cDd0dUxicUIyVndHNy1kR3lIbTF0Wm5MMWd0TExPU3JDaEYtenNtSUU1S1hMaUNHVUNQcUtqUWw5cUtQZVkwRlNVWmM5TzBMdFNHV0o4d2lLWmVfaXdZRzJaTXNyVUlsbGQxXzU5eHdyTzdjRy1SUFFTbzdlZlVzQzhRMjgzc1BrMmh4RG9JRnBFeTdWVkdxZURBa0ZqZWFTWDZ1T3RVU0NVWXZ5akplZ0RVMUxMSzVZVjBnSnBSLXpPM3V6T0xOa0VJWExjalF1cTJydXRLc0VFbmhuZ2FlUEZjMWhOdks4SW9GTURrYmU0MEJnMld4WjZlaURxZ1l5ekQ5a2tKR042OGVQWU56b25oenRoZFdxTlE4OEhTQmY2T2daM2Y3czhmWGRBYkYyTkVRUXNvamFqS3VyT1Y4dkxVajJB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "a409653cac6d",
       "title": "坐公廁馬桶怕得菜花？醫曝「真正危險3處」 不是馬桶坐墊",
       "published": "2026-05-21T07:00:02+00:00",
@@ -358,46 +384,10 @@
       ]
     },
     {
-      "id": "367cb1e26636",
-      "title": "失智症新發現：孤獨、失眠為風險因子 血液檢測助早期篩檢",
-      "published": "2026-05-20T22:50:05+00:00",
-      "summary": "失智症新發現：孤獨、失眠為風險因子 血液檢測助早期篩檢&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE4xalJjMUkwWmR1MEtRZ3cyVDUyMk9xeDhKLS0zQWE0SFp6Mm1lSS1NcWxYN2w4SExQSnc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "3573b1d7f763",
       "title": "保健》防子宮頸癌 醫籲打HPV疫苗",
       "published": "2026-05-20T20:10:00+00:00",
-      "summary": "保健》防子宮頸癌 醫籲打HPV疫苗&nbsp;&nbsp;中時新聞網子宮頸癌早期幾乎沒症狀！醫示警「3異常」恐已晚期：每年奪700命&nbsp;&nbsp;Yahoo新聞驚！每2男就有1人染HPV「保險套也擋不住」泌尿醫曝真正原因&nbsp;&nbsp;祝你健康HPV男女都要防 桃園醫院：不能輕忽預防&nbsp;&nbsp;大纪元醫示警：HPV恐成親密關係隱形風險 戴保險套也無法完全避免&nbsp;&nbsp;Taiwan News",
+      "summary": "保健》防子宮頸癌 醫籲打HPV疫苗&nbsp;&nbsp;中時新聞網HPV男女都要防 桃園醫院：不能輕忽預防&nbsp;&nbsp;大纪元子宮頸癌「抹片異常」不等於癌症！醫揭示3大病變 需謹慎處理 - 娛樂新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞驚！每2男就有1人染HPV「保險套也擋不住」泌尿醫曝真正原因&nbsp;&nbsp;祝你健康醫示警：HPV恐成親密關係隱形風險 戴保險套也無法完全避免&nbsp;&nbsp;Taiwan News",
       "sources": [
         {
           "name": "中時新聞網",
@@ -405,6 +395,201 @@
         }
       ],
       "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
         {
           "type": "indication",
           "name": "子宮頸癌",
@@ -417,19 +602,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "c30e2f1743dc",
-      "title": "兩童染流感現嚴重併發症 12歲男童仍危殆",
-      "published": "2026-05-20T20:00:00+00:00",
-      "summary": "兩童染流感現嚴重併發症 12歲男童仍危殆&nbsp;&nbsp;Yahoo衞生防護中心調查兩宗兒童感染流感的嚴重個案- 政務號&nbsp;&nbsp;大公文匯網兩男童感染流感後出現嚴重併發症 其中一人危殆&nbsp;&nbsp;香港電台新聞網染乙流併發腦病變 12歲男童危殆留醫PICU&nbsp;&nbsp;on.cc東網流感｜12歲男童感染乙型流感 併發腦病變情況危殆 目前仍留醫&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQMkcwY1Y2SExnOFh1bTZWX3BYUDlLSlIwRUNwQ01zU0Y0NWUxMDl1T25NRDJvcUtpWi1ETzNGYzNLMkVoRGxpOU1ETzFtWTVfdWRpYnZtZUREZU5LZ0lWanpTSV9IbzE5OVVBZXFNT1VmelBLQ1Nzd0tqZ1ZRTGdKZllxQ25yeXdScFFpMFdhNkpfVkV3Nk9ma1RGZENxM19MckZRWGlOMExRZGg5TzFSb3JuMXowSmRMSU9TV1d2cHJyTWZ4UEVVVzFYM2NKMkc0RWxyaFMzLTNJc2l2ZlJWdjlhZTJlNUNSbXBYRm9Tc1laZFdZNVdpQUhZbHgybHppLURGYWZBcUtZNzZ0R2F3ZkFpakkwV196MzFzR1l3cjlNbEU?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "554d4b56a4a9",

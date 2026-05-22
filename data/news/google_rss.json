@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-22T18:28:57.021283+00:00",
+  "fetched_at": "2026-05-22T20:28:01.319081+00:00",
   "count": 19,
   "news": [
-    {
-      "id": "a431e4bc215f",
-      "title": "怕老人年紀大動手術撐不住？醫：「衰弱程度」也應列風險評估標準 - 健康醫療網",
-      "published": "2026-05-22T12:00:00+00:00",
-      "summary": "怕老人年紀大動手術撐不住？醫：「衰弱程度」也應列風險評估標準&nbsp;&nbsp;健康醫療網",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhMVZlNjB4S1ZWSks2cWFkcEFlZlVlQTJhVHNQZGhQUlE2SXRYVWRaSWVBSVU0bWFXLThlTXpLLXdsMmlpQmxHa25kaktFeWtJSDJ1dUR3?oc=5"
-        }
-      ]
-    },
     {
       "id": "beac24fb62fe",
       "title": "日本福岡爆「神秘感冒」 患者久咳喉痛卻非流感| 國際 - 中央社 CNA",
@@ -40,18 +28,6 @@
       ]
     },
     {
-      "id": "98f685282d06",
-      "title": "《阿茲海默症》阿茲海默症逆轉現曙光？跨國研究開發奈米「超分子藥物」重啟大腦排毒機制，長效逆轉高齡失智小鼠認知功能 - genetinfo.com",
-      "published": "2026-05-21T19:43:00+00:00",
-      "summary": "《阿茲海默症》阿茲海默症逆轉現曙光？跨國研究開發奈米「超分子藥物」重啟大腦排毒機制，長效逆轉高齡失智小鼠認知功能&nbsp;&nbsp;genetinfo.com",
-      "sources": [
-        {
-          "name": "genetinfo.com",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScEtQazE0am9ra1VuVTB5LWNvOVhJOFRQNnBCMjNrcFQ3RjBLVjFVdWdfbmxBNVQydUZ1dE5CaElHeVZiVnRZV2hMdWI4akpHdktjRkw1N2RvSER1TGJyY0JZNVAya3B4S3BBVA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3c2b7c2e1223",
       "title": "澳洲研究首見巨噬細胞噬癌畫面 揭免疫療法新途徑 - yesmedia.com.tw",
       "published": "2026-05-22T14:56:34+00:00",
@@ -64,14 +40,38 @@
       ]
     },
     {
-      "id": "367cb1e26636",
-      "title": "失智症新發現：孤獨、失眠為風險因子 血液檢測助早期篩檢 - ENN台灣電報",
-      "published": "2026-05-20T22:50:05+00:00",
-      "summary": "失智症新發現：孤獨、失眠為風險因子 血液檢測助早期篩檢&nbsp;&nbsp;ENN台灣電報",
+      "id": "98f685282d06",
+      "title": "《阿茲海默症》阿茲海默症逆轉現曙光？跨國研究開發奈米「超分子藥物」重啟大腦排毒機制，長效逆轉高齡失智小鼠認知功能 - genetinfo.com",
+      "published": "2026-05-21T19:43:00+00:00",
+      "summary": "《阿茲海默症》阿茲海默症逆轉現曙光？跨國研究開發奈米「超分子藥物」重啟大腦排毒機制，長效逆轉高齡失智小鼠認知功能&nbsp;&nbsp;genetinfo.com",
       "sources": [
         {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE4xalJjMUkwWmR1MEtRZ3cyVDUyMk9xeDhKLS0zQWE0SFp6Mm1lSS1NcWxYN2w4SExQSnc?oc=5"
+          "name": "genetinfo.com",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScEtQazE0am9ra1VuVTB5LWNvOVhJOFRQNnBCMjNrcFQ3RjBLVjFVdWdfbmxBNVQydUZ1dE5CaElHeVZiVnRZV2hMdWI4akpHdktjRkw1N2RvSER1TGJyY0JZNVAya3B4S3BBVA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a431e4bc215f",
+      "title": "怕老人年紀大動手術撐不住？醫：「衰弱程度」也應列風險評估標準 - 健康醫療網",
+      "published": "2026-05-22T12:00:00+00:00",
+      "summary": "怕老人年紀大動手術撐不住？醫：「衰弱程度」也應列風險評估標準&nbsp;&nbsp;健康醫療網",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhMVZlNjB4S1ZWSks2cWFkcEFlZlVlQTJhVHNQZGhQUlE2SXRYVWRaSWVBSVU0bWFXLThlTXpLLXdsMmlpQmxHa25kaktFeWtJSDJ1dUR3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d07980379f81",
+      "title": "不要再說「是你想太多」！醫師：自覺記性變差，失智風險高4.5倍 - 元氣網",
+      "published": "2026-05-22T03:25:00+00:00",
+      "summary": "不要再說「是你想太多」！醫師：自覺記性變差，失智風險高4.5倍&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5Y29qTlBWNnE3UFRZTEg2VzJxWXZweEtadEJFTWVXU3REaTBYWlpuN1psZ3QwZkF1YXRWWnRiNXhyWjFISnRVS3FndndJYUtXcXFnazhvb2U4eG92aDRn0gFkQVVfeXFMT2FjeGVVVXZoeVRLZ0d4OGZHdm41YkJXUDU3WTRnOHRuQVVIWGowVGdFenZmalZHNUdpRUw4V0VmS1BnMmZqRW1CZko1ZHpWd1lybGpJWDNEVUpXNThYc0c5NjhGVg?oc=5"
         }
       ]
     },
@@ -112,14 +112,14 @@
       ]
     },
     {
-      "id": "d07980379f81",
-      "title": "不要再說「是你想太多」！醫師：自覺記性變差，失智風險高4.5倍 - 元氣網",
-      "published": "2026-05-22T03:25:00+00:00",
-      "summary": "不要再說「是你想太多」！醫師：自覺記性變差，失智風險高4.5倍&nbsp;&nbsp;元氣網",
+      "id": "19ccc0b5126e",
+      "title": "出生就有心雜音竟是心室中膈缺損 微創導管術助女童恢復活力 - PChome Online 新聞",
+      "published": "2026-05-22T08:00:00+00:00",
+      "summary": "出生就有心雜音竟是心室中膈缺損 微創導管術助女童恢復活力&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5Y29qTlBWNnE3UFRZTEg2VzJxWXZweEtadEJFTWVXU3REaTBYWlpuN1psZ3QwZkF1YXRWWnRiNXhyWjFISnRVS3FndndJYUtXcXFnazhvb2U4eG92aDRn0gFkQVVfeXFMT2FjeGVVVXZoeVRLZ0d4OGZHdm41YkJXUDU3WTRnOHRuQVVIWGowVGdFenZmalZHNUdpRUw4V0VmS1BnMmZqRW1CZko1ZHpWd1lybGpJWDNEVUpXNThYc0c5NjhGVg?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1hYcWxFc0JQSW1sdEJMZlY3RWZUUGx3QWJwMkVZMXJDc2hTNkNrU1oyaVVldDBnX1Z0Q1dpRW00NWJtY2lRcG9mNG05Ql80Vld3c0Y2TVRzem5CWmhiLWV6T21zSW9ZRUhfT3JtMFd1UnRRTzlQNm13R1IzOWhkWTJlOWx4UHlDX0lVbFh2TlZ2NjA?oc=5"
         }
       ]
     },
@@ -127,7 +127,7 @@
       "id": "3573b1d7f763",
       "title": "保健》防子宮頸癌 醫籲打HPV疫苗 - 中時新聞網",
       "published": "2026-05-20T20:10:00+00:00",
-      "summary": "保健》防子宮頸癌 醫籲打HPV疫苗&nbsp;&nbsp;中時新聞網子宮頸癌早期幾乎沒症狀！醫示警「3異常」恐已晚期：每年奪700命&nbsp;&nbsp;Yahoo新聞驚！每2男就有1人染HPV「保險套也擋不住」泌尿醫曝真正原因&nbsp;&nbsp;祝你健康HPV男女都要防 桃園醫院：不能輕忽預防&nbsp;&nbsp;大纪元醫示警：HPV恐成親密關係隱形風險 戴保險套也無法完全避免&nbsp;&nbsp;Taiwan News",
+      "summary": "保健》防子宮頸癌 醫籲打HPV疫苗&nbsp;&nbsp;中時新聞網HPV男女都要防 桃園醫院：不能輕忽預防&nbsp;&nbsp;大纪元子宮頸癌「抹片異常」不等於癌症！醫揭示3大病變 需謹慎處理 - 娛樂新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞驚！每2男就有1人染HPV「保險套也擋不住」泌尿醫曝真正原因&nbsp;&nbsp;祝你健康醫示警：HPV恐成親密關係隱形風險 戴保險套也無法完全避免&nbsp;&nbsp;Taiwan News",
       "sources": [
         {
           "name": "中時新聞網",
@@ -196,18 +196,6 @@
       ]
     },
     {
-      "id": "c30e2f1743dc",
-      "title": "兩童染流感現嚴重併發症 12歲男童仍危殆 - Yahoo",
-      "published": "2026-05-20T20:00:00+00:00",
-      "summary": "兩童染流感現嚴重併發症 12歲男童仍危殆&nbsp;&nbsp;Yahoo衞生防護中心調查兩宗兒童感染流感的嚴重個案- 政務號&nbsp;&nbsp;大公文匯網兩男童感染流感後出現嚴重併發症 其中一人危殆&nbsp;&nbsp;香港電台新聞網染乙流併發腦病變 12歲男童危殆留醫PICU&nbsp;&nbsp;on.cc東網流感｜12歲男童感染乙型流感 併發腦病變情況危殆 目前仍留醫&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQMkcwY1Y2SExnOFh1bTZWX3BYUDlLSlIwRUNwQ01zU0Y0NWUxMDl1T25NRDJvcUtpWi1ETzNGYzNLMkVoRGxpOU1ETzFtWTVfdWRpYnZtZUREZU5LZ0lWanpTSV9IbzE5OVVBZXFNT1VmelBLQ1Nzd0tqZ1ZRTGdKZllxQ25yeXdScFFpMFdhNkpfVkV3Nk9ma1RGZENxM19MckZRWGlOMExRZGg5TzFSb3JuMXowSmRMSU9TV1d2cHJyTWZ4UEVVVzFYM2NKMkc0RWxyaFMzLTNJc2l2ZlJWdjlhZTJlNUNSbXBYRm9Tc1laZFdZNVdpQUhZbHgybHppLURGYWZBcUtZNzZ0R2F3ZkFpakkwV196MzFzR1l3cjlNbEU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "eb603b7e5d1a",
       "title": "認知障礙｜42歲金融才俊性情大變 確診「認知障礙症」 醫生警告：非老人專利【附腦退化徵兆】 - 香港經濟日報HKET",
       "published": "2026-05-21T04:49:47+00:00",
@@ -228,6 +216,18 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQdGpxeTB0N0pvd1JJOFV2a1dyVWQtZjBkOWdKQzJydkhNdnRZWVlZZ2VwbzlUVUxJRUJMMm5NVDQ3NGttWmNtUTNZb09NOW16R2pYX3l5UUxJcTJOcE9yT19uYlZodllQanZGbVA0QjZxVGlPYlR4MVpsT0hDVlpvcTlaXzNWcDM2LXUydDJlWkd0WHBDM3BTMkNrZWswenVfLW1JVGhBQ0x4ekpNRnl4eTFLVDBMQmRtQ1VlYjFaUTByZEw0RUh1SFdXajdORlVtaTJiTHhvZlJ1NktpclV0UXFwYUlLNGNycm50REJHbVctUV9WSE92Zjg5QVg4R3hNSE9KbGZKSU44V0Y2TEhhR1lyZ0ZNVHh1Rnl0eTVXQzhDS0VWRkU1emV0SkJXNTZJNENjMzZJS05aOXNJX1RTVXk3NThGbjFhVUNvamtwUXpqU0EwMkdaTVZSZHN4ODI3WkRFbjFBandyNm9wYUlWdEdHVXFtQW4tNTZ6SDdiOVhPRjJoTVBQSnQ4MDViQUNLcmV2dkZfT0hHdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "22268099029c",
+      "title": "流感｜兩童現嚴重併發症 12歲男童乙流併發腦病變 情況危殆留醫PICU - Oh!爸媽",
+      "published": "2026-05-21T07:46:36+00:00",
+      "summary": "流感｜兩童現嚴重併發症 12歲男童乙流併發腦病變 情況危殆留醫PICU&nbsp;&nbsp;Oh!爸媽衞生防護中心調查兩宗兒童感染流感的嚴重個案- 政務號&nbsp;&nbsp;大公文匯網兩男童感染流感後出現嚴重併發症 其中一人危殆&nbsp;&nbsp;香港電台新聞網染乙流併發腦病變 12歲男童危殆留醫PICU&nbsp;&nbsp;on.cc東網流感｜12歲男童感染乙型流感 併發腦病變情況危殆 目前仍留醫&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "Oh!爸媽",
+          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPaVlYTzBrLVU4cDd0dUxicUIyVndHNy1kR3lIbTF0Wm5MMWd0TExPU3JDaEYtenNtSUU1S1hMaUNHVUNQcUtqUWw5cUtQZVkwRlNVWmM5TzBMdFNHV0o4d2lLWmVfaXdZRzJaTXNyVUlsbGQxXzU5eHdyTzdjRy1SUFFTbzdlZlVzQzhRMjgzc1BrMmh4RG9JRnBFeTdWVkdxZURBa0ZqZWFTWDZ1T3RVU0NVWXZ5akplZ0RVMUxMSzVZVjBnSnBSLXpPM3V6T0xOa0VJWExjalF1cTJydXRLc0VFbmhuZ2FlUEZjMWhOdks4SW9GTURrYmU0MEJnMld4WjZlaURxZ1l5ekQ5a2tKR042OGVQWU56b25oenRoZFdxTlE4OEhTQmY2T2daM2Y3czhmWGRBYkYyTkVRUXNvamFqS3VyT1Y4dkxVajJB?oc=5"
         }
       ]
     }

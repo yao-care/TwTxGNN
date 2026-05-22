@@ -59,11 +59,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [失智症新發現：孤獨、失眠為風險因子 血液檢測助早期篩檢](https://news.google.com/rss/articles/CBMiOkFVX3lxTE4xalJjMUkwWmR1MEtRZ3cyVDUyMk9xeDhKLS0zQWE0SFp6Mm1lSS1NcWxYN2w4SExQSnc?oc=5)
+### [保健》防子宮頸癌 醫籲打HPV疫苗](https://news.google.com/rss/articles/CBMia0FVX3lxTE94SHEzbU5RRUZWU3I4N2tXcmxiTTFZYnE5SlNaOEJWVnZXNXJuRlRmYnZNNlBVTXBTa3RlRUo3d0lEd1NqU08wUFlRbVZvVTJaYVBfRVllYWpKX2FlVUJRYWNEYVRFX2d0VlFj?oc=5)
 
-2026-05-20 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+2026-05-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
 
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE4xalJjMUkwWmR1MEtRZ3cyVDUyMk9xeDhKLS0zQWE0SFp6Mm1lSS1NcWxYN2w4SExQSnc?oc=5)
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMia0FVX3lxTE94SHEzbU5RRUZWU3I4N2tXcmxiTTFZYnE5SlNaOEJWVnZXNXJuRlRmYnZNNlBVTXBTa3RlRUo3d0lEd1NqU08wUFlRbVZvVTJaYVBfRVllYWpKX2FlVUJRYWNEYVRFX2d0VlFj?oc=5)
 
 ---
 
