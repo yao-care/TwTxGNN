@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-05-22T13:24:18.082693+00:00",
+  "last_updated": "2026-05-22T16:16:07.677293+00:00",
   "total_count": 19,
-  "matched_count": 7,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "49996afd9beb",
+      "title": "澳洲研究首見巨噬細胞噬癌畫面 揭免疫療法新途徑",
+      "published": "2026-05-22T14:56:00+00:00",
+      "summary": "澳洲研究首見巨噬細胞噬癌畫面 揭免疫療法新途徑&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uOXdTbjlVVS1zN2wxd1RqRENBczJGSVFXcTktZFB4T19Za0FkNWZEejhvMXV1czZnb0oxNm9MWHBxTmFTcm5zZTNERFZKRW93UHc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "63306b96b469",
       "title": "優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險| 世界萬象| 全球",
@@ -92,52 +105,27 @@
       ]
     },
     {
-      "id": "3f6105be3164",
+      "id": "a431e4bc215f",
       "title": "怕老人年紀大動手術撐不住？醫：「衰弱程度」也應列風險評估標準",
       "published": "2026-05-22T12:00:00+00:00",
-      "summary": "怕老人年紀大動手術撐不住？醫：「衰弱程度」也應列風險評估標準&nbsp;&nbsp;Yahoo新聞",
+      "summary": "怕老人年紀大動手術撐不住？醫：「衰弱程度」也應列風險評估標準&nbsp;&nbsp;健康醫療網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNVTFSUFVwSkl0alU1QW9Ic21OOENsNVByXzkyeEkybjRFM0VJQVdXWXExSjNFdER2a1dnSHJMUEpUSmZqbjVWdlNKaGxucnRQYnBmSGVMZFp1ODZ3bnh5Zk9vaG9IcjZuWDhGN1BtZmUwMms0X3hCMndpWkVxU200X055SHhHYXVqSDlodm02bFBWaXFpbXZ3a0pPbF9oVkh6UTRtTE1yQlQwNVl3dmRNdE5NZkpsdTZhbkxWckJHQlVmLWU3S1dBUmFwYXlrTXo5c0k2ZHEzVEhaODBCWFFqSURlZFVoRG5SZWFHQ29xWVJZOFhhSjRKWDZCa0Y0eDlPeTM1TTJ5UFlfUmlQeFpWd0I2MUpwRkNGSDdJRHpSemZLODRNc0xXc2hrVnJaV042RWowbldocVdjTWgtQUVkNkVvWHJZUHM5WTdSbXZZYnU4WGhNaTlnaHNmQm9INGZGNVVXd1diZEx2dmVrS3hpbFFDaVlUT2dlUncyMVR6MEVaZjEyYU11NThjTkx6Y3M?oc=5"
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhMVZlNjB4S1ZWSks2cWFkcEFlZlVlQTJhVHNQZGhQUlE2SXRYVWRaSWVBSVU0bWFXLThlTXpLLXdsMmlpQmxHa25kaktFeWtJSDJ1dUR3?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "22668f9e2731",
-      "title": "日本爆發「神秘感冒」！喉嚨痛如刀割快篩卻陰性 東京也淪陷",
-      "published": "2026-05-22T09:40:49+00:00",
-      "summary": "日本爆發「神秘感冒」！喉嚨痛如刀割快篩卻陰性 東京也淪陷&nbsp;&nbsp;祝你健康前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "42616dbe8f83",
+      "title": "出生就有心雜音竟是心室中膈缺損 微創導管術助女童恢復活力 - FTNN 新聞網",
+      "published": "2026-05-22T08:11:00+00:00",
+      "summary": "出生就有心雜音竟是心室中膈缺損 微創導管術助女童恢復活力&nbsp;&nbsp;FTNN 新聞網",
       "sources": [
         {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RaVphSHZjd3pPSDhZS2xiWG5Obnp3WFMwTUYxV1Vsa08wekpsenl6OFllajlwUXprNnRTOXQtZTJVb1Y0T25UeVBPaDE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ff5d4cb189e1",
-      "title": "出生就有心雜音竟是心室中膈缺損 微創導管術助女童恢復活力",
-      "published": "2026-05-22T08:00:00+00:00",
-      "summary": "出生就有心雜音竟是心室中膈缺損 微創導管術助女童恢復活力&nbsp;&nbsp;健康醫療網",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jeFoyaFVYXy04dXh3TUphUmZzbXA1MDNEbFh3YzJmOXNRWFJhbWFEWGJxQ2xfc293QVZ0VGI0VEtsWnNNV2ROUFZpV0tMajdSMEpwOVJB?oc=5"
+          "name": "FTNN 新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yZnd4Z21NUU11N1J2VW5haTN6YUtydzI2SEVWNkJDRUVxSWVmY0M2TWpCWmFjVkxQd0hueDFOejYxTWhBRTVmclZkOA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -181,13 +169,13 @@
       ]
     },
     {
-      "id": "dc286c35945a",
+      "id": "433d9813b8d1",
       "title": "科幻走入現實？中美英聯手研發「DNA機器人」 穿梭血管精準殲滅癌細胞",
       "published": "2026-05-22T02:20:45+00:00",
-      "summary": "科幻走入現實？中美英聯手研發「DNA機器人」 穿梭血管精準殲滅癌細胞&nbsp;&nbsp;巴士的報",
+      "summary": "科幻走入現實？中美英聯手研發「DNA機器人」 穿梭血管精準殲滅癌細胞&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNVmpJblRIYnNtMTVuX1RJUnl0SWF0Z21VcmNLcnlLQTVNS3djSWNDWVBMdEx0Slh2SWU3ckc3VU9XUzlYZklVbmNFSXVhVm0tZGREeXFhY2hIUGVYaTlnRTZVdGMwNWVOX3Y0V1VwZkJGUjZWX2hTTk1sRjEtRmFLNDg4Q1lHVDBjRG1PRzJoaDRkWndHMFM1RUlYQnFmWjZHaDNtSzltcldnejdRM3hHNVBBeXdCZWJMVXVCTWZXOElRdmhhWjZJdm9yM1RSTHlJajcyeUp4SGFtUzNUOExQamNOTV9sRFh0dXY3NncwOGZ6X0w0YlJjSmI1Rm1PV05xejQxUElFLUFCZXp0N2NYd3VTRm10aEc0UEJURG9YSnQtYkNTWWFfUGlXMHBUS0ZBc3JRVXNRRUx1aGVqcnFPd2NFWjVYcFRRRkFMZlIyc2F6WmlmX2hnT2ZXUWx5RnNTNHBSMVhR?oc=5"
         }
       ],
@@ -256,14 +244,14 @@
       "matched_keywords": []
     },
     {
-      "id": "bfd36f5a57cf",
-      "title": "獨／加強型疫苗不足？立委揪貓膩盼做1事 - 鏡週刊Mirror Media",
-      "published": "2026-05-21T11:50:00+00:00",
-      "summary": "獨／加強型疫苗不足？立委揪貓膩盼做1事&nbsp;&nbsp;鏡週刊Mirror Media前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "532c3436090c",
+      "title": "20萬劑流感加強型疫苗不夠保護長者？立委揪預算「貓膩」盼政府做1事",
+      "published": "2026-05-21T11:55:00+00:00",
+      "summary": "20萬劑流感加強型疫苗不夠保護長者？立委揪預算「貓膩」盼政府做1事&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vZ2Q0dV9YX3BoaDVsTnlZMUpncWtXQU9fY2RSaFJzSWVvUEF4WUJBSWFtMGNPX0NYaERwNGw2QWdwUE9MeV9yd0VmcFNUMHRsenA1bTdFdnhJaFFK0gFiQVVfeXFMT2hscEZSU3QySG9zYmhUQm15THNwTXZCTE9yQzJqdVI3Qm1jODVvdGN2TW9DWng5U1R6SVVFS2cxVXF1NndFV3JTY2dXdHZtbmVLV2NvaXFLSkg4WDFQMGt6RHc?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQdGNHSGEteWJ6c1BxVXVaWjlXYTVYZERqdGs1N2FQakZqMlZGNWlPNGx1YTlqRUo5SFpJaUNzaF93RlBMejlDeEpEcEZTbnZfdWNkSFduaFZ2MTZuNjZ4RlEydHdKbndWOWJWRXYyZ2o2eWZPelNNbTAzb3RLdHVsc3FYYXVVSVhyVGhlcGRmWVI3NTZGbU0tY05hQ1ZKcXhDSk9hWFlWOUJ4dG5yWXdvel81c1lPOTdqX0RPT0pKdVVSUjBXQVZ0bll3aHdPaDJFcXRGYVRDdXp3eU1WMlVpa3loRW5LRlExbU91M2tDUE1QdjlzclhMMDlPWWF5elVzX1RhR285UXhTT2poZEVtMVhUb2FUbF9XRVk5N1lpaERHWUllMlQwU3o0Y3Z2SXI4M2o0NVdqdWxRcXZDcjdnOVhRNlo2bEJkQXZxb3lkSXppbDlDd3ZRTDNHTUxac0pKX252Yndqd0J4QlNaZmM5U01oWUpwcG5FSmVJNktJajV2NG05R1Q4X1Y5NEJjdk1xLUJhYVphZm9MRVJvMUYw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -336,7 +324,7 @@
       "id": "38fbf0a2e385",
       "title": "照護線上》給寶寶的第一份見面禮，呼吸道細胞融合病毒（RSV）長效型單株抗體「出生即防護」策略解析，專科醫師圖文懶人包",
       "published": "2026-05-21T00:00:00+00:00",
-      "summary": "照護線上》給寶寶的第一份見面禮，呼吸道細胞融合病毒（RSV）長效型單株抗體「出生即防護」策略解析，專科醫師圖文懶人包&nbsp;&nbsp;自由評論網比流感更兇的病毒！呼吸道融合病毒RSV&nbsp;&nbsp;Yahoo新聞這不是普通感冒！1病毒住院率比流感高出16倍 | 民視新聞網&nbsp;&nbsp;LINE TODAY1病毒比流感更兇！營養師示警「重症率高出16倍」 4類人要小心&nbsp;&nbsp;祝你健康【醫生專欄】認識 RSV 預防性抗體 | 為嬰兒多一層即時防護&nbsp;&nbsp;UHK 港生活",
+      "summary": "照護線上》給寶寶的第一份見面禮，呼吸道細胞融合病毒（RSV）長效型單株抗體「出生即防護」策略解析，專科醫師圖文懶人包&nbsp;&nbsp;自由評論網【醫生專欄】認識 RSV 預防性抗體 | 為嬰兒多一層即時防護&nbsp;&nbsp;UHK 港生活比流感住院率高16倍！營養師揭「這病」常被當感冒：惡化恐進ICU&nbsp;&nbsp;TVBS新聞網1病毒比流感更兇！營養師示警「重症率高出16倍」 4類人要小心 | 三立新聞網&nbsp;&nbsp;LINE TODAY比流感更兇的病毒！呼吸道融合病毒RSV&nbsp;&nbsp;品觀點",
       "sources": [
         {
           "name": "自由評論網",
@@ -361,7 +349,7 @@
       "id": "3573b1d7f763",
       "title": "保健》防子宮頸癌 醫籲打HPV疫苗",
       "published": "2026-05-20T20:10:00+00:00",
-      "summary": "保健》防子宮頸癌 醫籲打HPV疫苗&nbsp;&nbsp;中時新聞網驚！每2男就有1人染HPV「保險套也擋不住」泌尿醫曝真正原因&nbsp;&nbsp;祝你健康HPV男女都要防 桃園醫院：不能輕忽預防&nbsp;&nbsp;大纪元醫示警：HPV恐成親密關係隱形風險 戴保險套也無法完全避免&nbsp;&nbsp;Taiwan News子宮頸癌「抹片異常」不等於癌症！醫揭示3大病變 需謹慎處理 - 娛樂新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "保健》防子宮頸癌 醫籲打HPV疫苗&nbsp;&nbsp;中時新聞網子宮頸癌早期幾乎沒症狀！醫示警「3異常」恐已晚期：每年奪700命&nbsp;&nbsp;Yahoo新聞驚！每2男就有1人染HPV「保險套也擋不住」泌尿醫曝真正原因&nbsp;&nbsp;祝你健康HPV男女都要防 桃園醫院：不能輕忽預防&nbsp;&nbsp;大纪元醫示警：HPV恐成親密關係隱形風險 戴保險套也無法完全避免&nbsp;&nbsp;Taiwan News",
       "sources": [
         {
           "name": "中時新聞網",
@@ -369,201 +357,6 @@
         }
       ],
       "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "子宮頸癌",
@@ -581,7 +374,7 @@
       "id": "c30e2f1743dc",
       "title": "兩童染流感現嚴重併發症 12歲男童仍危殆",
       "published": "2026-05-20T20:00:00+00:00",
-      "summary": "兩童染流感現嚴重併發症 12歲男童仍危殆&nbsp;&nbsp;Yahoo兩兒童感染流感併發症其中一人仍危殆 防護中心提醒流感季或來臨&nbsp;&nbsp;橙新聞衞生防護中心調查兩宗兒童感染流感的嚴重個案- 政務號&nbsp;&nbsp;大公文匯網兩男童感染流感後出現嚴重併發症 其中一人危殆&nbsp;&nbsp;香港電台新聞網染乙流併發腦病變 12歲男童危殆留醫PICU&nbsp;&nbsp;on.cc東網",
+      "summary": "兩童染流感現嚴重併發症 12歲男童仍危殆&nbsp;&nbsp;Yahoo衞生防護中心調查兩宗兒童感染流感的嚴重個案- 政務號&nbsp;&nbsp;大公文匯網兩男童感染流感後出現嚴重併發症 其中一人危殆&nbsp;&nbsp;香港電台新聞網染乙流併發腦病變 12歲男童危殆留醫PICU&nbsp;&nbsp;on.cc東網流感｜12歲男童感染乙型流感 併發腦病變情況危殆 目前仍留醫&nbsp;&nbsp;香港01",
       "sources": [
         {
           "name": "Yahoo",

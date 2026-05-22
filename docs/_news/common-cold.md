@@ -3,7 +3,7 @@ layout: default
 title: "感冒（common cold） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "感冒（common cold） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "感冒（common cold） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒（common cold） 有什麼相關新聞？">
-<strong>感冒（common cold）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒（common cold）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,15 +29,7 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [日本爆發「神秘感冒」！喉嚨痛如刀割快篩卻陰性 東京也淪陷](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RaVphSHZjd3pPSDhZS2xiWG5Obnp3WFMwTUYxV1Vsa08wekpsenl6OFllajlwUXprNnRTOXQtZTJVb1Y0T25UeVBPaDE?oc=5)
-
-2026-05-22
-
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RaVphSHZjd3pPSDhZS2xiWG5Obnp3WFMwTUYxV1Vsa08wekpsenl6OFllajlwUXprNnRTOXQtZTJVb1Y0T25UeVBPaDE?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [照護線上》給寶寶的第一份見面禮，呼吸道細胞融合病毒（RSV）長效型單株抗體「出生即防護」策略解析，專科醫師圖文懶人包](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iWlJjVS12MUJlQ0Y0ZmlaWENrS3FuYy0tYlN3NUY0UDlkaURoRWNtWDhLVkNSWnowbDNlT3BCcVdDRkNObTBmczdhV0VQd0d5TjJrN3B3Q25QS1VfTFZrZXJR0gFnQVVfeXFMTk5hWndjeUQ1TjY0SXF2V2t1eWJFcWUtYzdreDlEdzZmOG5VZlhsR1FqcWROVjRvU0lCT3hwNVFIRFduNkZieEllaS1PNk0xS0tGS0pQLWtmQk56Qk5mdHVDUFdHZmNaNA?oc=5)
 
