@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險| 世界萬象| 全球](https://news.google.com/rss/articles/CBMie0FVX3lxTE94c1NmRFZoeTg3RV9rbEw1RDJFalVvYTVIWm9QaXNicl9TTkh4SmZwaEI5cEtrQ2NtNzBDMC1ycDJVUmJkTlhwYXFmR2t2MFQ2NVFlWWV2ckZXRXlFZDRhNjBRSUdFODI4UDdiUWlmWnhNLURfcjNRQkxCOA?oc=5)
 
 2026-05-22 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">高血壓</span>
 
-來源：[UDN](https://news.google.com/rss/articles/CBMie0FVX3lxTE94c1NmRFZoeTg3RV9rbEw1RDJFalVvYTVIWm9QaXNicl9TTkh4SmZwaEI5cEtrQ2NtNzBDMC1ycDJVUmJkTlhwYXFmR2t2MFQ2NVFlWWV2ckZXRXlFZDRhNjBRSUdFODI4UDdiUWlmWnhNLURfcjNRQkxCOA?oc=5)
-
----
-
-### [保健》防子宮頸癌 醫籲打HPV疫苗](https://news.google.com/rss/articles/CBMia0FVX3lxTE94SHEzbU5RRUZWU3I4N2tXcmxiTTFZYnE5SlNaOEJWVnZXNXJuRlRmYnZNNlBVTXBTa3RlRUo3d0lEd1NqU08wUFlRbVZvVTJaYVBfRVllYWpKX2FlVUJRYWNEYVRFX2d0VlFj?oc=5)
-
-2026-05-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMia0FVX3lxTE94SHEzbU5RRUZWU3I4N2tXcmxiTTFZYnE5SlNaOEJWVnZXNXJuRlRmYnZNNlBVTXBTa3RlRUo3d0lEd1NqU08wUFlRbVZvVTJaYVBfRVllYWpKX2FlVUJRYWNEYVRFX2d0VlFj?oc=5)
+來源：[udn](https://news.google.com/rss/articles/CBMie0FVX3lxTE94c1NmRFZoeTg3RV9rbEw1RDJFalVvYTVIWm9QaXNicl9TTkh4SmZwaEI5cEtrQ2NtNzBDMC1ycDJVUmJkTlhwYXFmR2t2MFQ2NVFlWWV2ckZXRXlFZDRhNjBRSUdFODI4UDdiUWlmWnhNLURfcjNRQkxCOA?oc=5)
 
 ---
 
