@@ -1,55 +1,17 @@
 {
-  "last_updated": "2026-05-22T21:59:17.367742+00:00",
-  "total_count": 19,
-  "matched_count": 6,
+  "last_updated": "2026-05-22T23:02:27.711886+00:00",
+  "total_count": 18,
+  "matched_count": 5,
   "news": [
     {
-      "id": "3c2b7c2e1223",
-      "title": "澳洲研究首見巨噬細胞噬癌畫面 揭免疫療法新途徑",
-      "published": "2026-05-22T14:56:34+00:00",
-      "summary": "澳洲研究首見巨噬細胞噬癌畫面 揭免疫療法新途徑&nbsp;&nbsp;yesmedia.com.tw",
+      "id": "285265cd10d5",
+      "title": "優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險",
+      "published": "2026-05-22T22:17:53+00:00",
+      "summary": "優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險&nbsp;&nbsp;Yahoo新聞名醫苦勸：這些食物不要碰！小心害得糖尿病、腎臟病 很多人天天吃&nbsp;&nbsp;Yahoo新聞法國新研究：常見食品防腐劑恐增高血壓及心臟病風險&nbsp;&nbsp;蕃新聞優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險| 世界萬象| 全球&nbsp;&nbsp;udn成日食加工食品唔止增患癌風險？研究揭6種防腐劑陷阱 這1種最易被忽略&nbsp;&nbsp;星島頭條",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQcjE1RWU3OFV6M2x3aWlnZk1hX1l4dnVrV2d2WFlqUTFmOGZDRzRpcmNkX1o0eW9zekhOSld4SWsza0tpQkRNcHFfczA4d0xINnY0OFZzMzYwSzB5ZGlMbDNXYW50a1lZUi1QbUFXSnV2V1hyRHdrQWlreHA3U0dLeWZockMteUxQQV83RS1IZm40SG1pcVFMU2Z5QWtNRHIyUzdiT3AyaWFjS0FaajBLOGMydzM1Wm5nNnI2YnpzbGsyNVFBeml4aFVDQ3hRb0RuTjRQOHlvS2o3aEFGUHBVUUlsWW8xYkh2WndGUElUWmlnNDQtTzVWTVREOFFXZHo3S19VVzJ3YzdqSDRYR0ZfcjNaV3JHZ01uaTNERlNfa0RtMG5IY19GeVo5RVpwN3RrZVFEUnZuZGFob2RtUDk2SGtyZWVDT3drWFJrRA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "beac24fb62fe",
-      "title": "日本福岡爆「神秘感冒」 患者久咳喉痛卻非流感| 國際 - 中央社 CNA",
-      "published": "2026-05-22T14:18:00+00:00",
-      "summary": "日本福岡爆「神秘感冒」 患者久咳喉痛卻非流感| 國際&nbsp;&nbsp;中央社 CNA日本爆發「神秘感冒」！喉嚨痛如刀割快篩卻陰性 東京也淪陷&nbsp;&nbsp;Yahoo新聞日本福岡爆「神秘感冒」 患者久咳喉痛卻非流感&nbsp;&nbsp;經濟日報討論牆 | 日本突爆「神秘感冒」！流感新冠皆陰性... 已從九州蔓延至東京&nbsp;&nbsp;LINE TODAY日本出現「神秘感冒」疫情！喉嚨如刀割 福岡蔓延到東京&nbsp;&nbsp;ETtoday新聞雲",
-      "sources": [
-        {
-          "name": "中央社 CNA",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DbUZMTGtTN2hvclNRMXIyYmYxZmpQcTFiMGF2bnRZNV9tQVBiUFR5MkdBUXBGUWsxV3R6cTBfd0diVXY5Ym93bVVVZlRkUkZOa3AwNnpmbURHQUVlZFU0?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c56853a9de97",
-      "title": "優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險| 世界萬象| 全球",
-      "published": "2026-05-22T12:47:50+00:00",
-      "summary": "優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險| 世界萬象| 全球&nbsp;&nbsp;udn名醫苦勸：這些食物不要碰！小心害得糖尿病、腎臟病 很多人天天吃&nbsp;&nbsp;Yahoo新聞法國新研究：常見食品防腐劑恐增高血壓及心臟病風險&nbsp;&nbsp;蕃新聞成日食加工食品唔止增患癌風險？研究揭6種防腐劑陷阱 這1種最易被忽略&nbsp;&nbsp;星島頭條心臟外科醫生提醒！這5類食物最好少吃：追劇標配竟是健康殺手&nbsp;&nbsp;祝你健康",
-      "sources": [
-        {
-          "name": "udn",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94c1NmRFZoeTg3RV9rbEw1RDJFalVvYTVIWm9QaXNicl9TTkh4SmZwaEI5cEtrQ2NtNzBDMC1ycDJVUmJkTlhwYXFmR2t2MFQ2NVFlWWV2ckZXRXlFZDRhNjBRSUdFODI4UDdiUWlmWnhNLURfcjNRQkxCOA?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOaVBrelVWOHFtS2pVOFJUak5PcmduN3VJUm1BR0VBV1pfUGtEZVoza1U3WDBzeDNSVDR6bkkxczZyMjVsSHhOQkRIejlEZ1RZS2R5bTRRT0lpZ0VqdXNZWXhORzNKRTl2czJGd0FSWkwzQnlMU1RUa2xGWkpPQjQ5dDRCRDJjTlNNdERaZExCQVhSVWE0RTV0TkhRcXZtS1dlemxxNmh2c09Qa01zZDl3bWtsVXpzWFRUM1FaVHY2RXdmbmM1b284XzhhTWVRTDRlUlBCWjhMdWhUYm01NWxpVlp2RXlONmpiUjRoVVE3SDVldEdLa3RoX2N0LWo4b21XZmdyMmtaUEttYnE4aU9MZXNJNnF0REN3dkJZU0RjekQtOU5NeEtNT3BVOTFUX3p0eC1LbS1KQnlkYU5nel81M2ozZk5SSEJvd1dWUGpmWk1Rc0U?oc=5"
         }
       ],
       "matched_keywords": [
@@ -124,6 +86,44 @@
             {
               "slug": "metoprolol",
               "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3c2b7c2e1223",
+      "title": "澳洲研究首見巨噬細胞噬癌畫面 揭免疫療法新途徑",
+      "published": "2026-05-22T14:56:34+00:00",
+      "summary": "澳洲研究首見巨噬細胞噬癌畫面 揭免疫療法新途徑&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQcjE1RWU3OFV6M2x3aWlnZk1hX1l4dnVrV2d2WFlqUTFmOGZDRzRpcmNkX1o0eW9zekhOSld4SWsza0tpQkRNcHFfczA4d0xINnY0OFZzMzYwSzB5ZGlMbDNXYW50a1lZUi1QbUFXSnV2V1hyRHdrQWlreHA3U0dLeWZockMteUxQQV83RS1IZm40SG1pcVFMU2Z5QWtNRHIyUzdiT3AyaWFjS0FaajBLOGMydzM1Wm5nNnI2YnpzbGsyNVFBeml4aFVDQ3hRb0RuTjRQOHlvS2o3aEFGUHBVUUlsWW8xYkh2WndGUElUWmlnNDQtTzVWTVREOFFXZHo3S19VVzJ3YzdqSDRYR0ZfcjNaV3JHZ01uaTNERlNfa0RtMG5IY19GeVo5RVpwN3RrZVFEUnZuZGFob2RtUDk2SGtyZWVDT3drWFJrRA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "beac24fb62fe",
+      "title": "日本福岡爆「神秘感冒」 患者久咳喉痛卻非流感| 國際 - 中央社 CNA",
+      "published": "2026-05-22T14:18:00+00:00",
+      "summary": "日本福岡爆「神秘感冒」 患者久咳喉痛卻非流感| 國際&nbsp;&nbsp;中央社 CNA日本爆發「神秘感冒」！喉嚨痛如刀割快篩卻陰性 東京也淪陷&nbsp;&nbsp;Yahoo新聞日本福岡爆「神秘感冒」 患者久咳喉痛卻非流感&nbsp;&nbsp;經濟日報討論牆 | 日本突爆「神秘感冒」！流感新冠皆陰性... 已從九州蔓延至東京&nbsp;&nbsp;LINE TODAY日本出現「神秘感冒」疫情！喉嚨如刀割 福岡蔓延到東京&nbsp;&nbsp;ETtoday新聞雲",
+      "sources": [
+        {
+          "name": "中央社 CNA",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DbUZMTGtTN2hvclNRMXIyYmYxZmpQcTFiMGF2bnRZNV9tQVBiUFR5MkdBUXBGUWsxV3R6cTBfd0diVXY5Ym93bVVVZlRkUkZOa3AwNnpmbURHQUVlZFU0?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }
@@ -269,14 +269,14 @@
       "matched_keywords": []
     },
     {
-      "id": "532c3436090c",
+      "id": "aaf08d952179",
       "title": "20萬劑流感加強型疫苗不夠保護長者？立委揪預算「貓膩」盼政府做1事",
-      "published": "2026-05-21T11:55:00+00:00",
-      "summary": "20萬劑流感加強型疫苗不夠保護長者？立委揪預算「貓膩」盼政府做1事&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "published": "2026-05-21T11:50:11+00:00",
+      "summary": "20萬劑流感加強型疫苗不夠保護長者？立委揪預算「貓膩」盼政府做1事&nbsp;&nbsp;祝你健康前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQdGNHSGEteWJ6c1BxVXVaWjlXYTVYZERqdGs1N2FQakZqMlZGNWlPNGx1YTlqRUo5SFpJaUNzaF93RlBMejlDeEpEcEZTbnZfdWNkSFduaFZ2MTZuNjZ4RlEydHdKbndWOWJWRXYyZ2o2eWZPelNNbTAzb3RLdHVsc3FYYXVVSVhyVGhlcGRmWVI3NTZGbU0tY05hQ1ZKcXhDSk9hWFlWOUJ4dG5yWXdvel81c1lPOTdqX0RPT0pKdVVSUjBXQVZ0bll3aHdPaDJFcXRGYVRDdXp3eU1WMlVpa3loRW5LRlExbU91M2tDUE1QdjlzclhMMDlPWWF5elVzX1RhR285UXhTT2poZEVtMVhUb2FUbF9XRVk5N1lpaERHWUllMlQwU3o0Y3Z2SXI4M2o0NVdqdWxRcXZDcjdnOVhRNlo2bEJkQXZxb3lkSXppbDlDd3ZRTDNHTUxac0pKX252Yndqd0J4QlNaZmM5U01oWUpwcG5FSmVJNktJajV2NG05R1Q4X1Y5NEJjdk1xLUJhYVphZm9MRVJvMUYw?oc=5"
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yM2Fvb3ByQUtqeXViNTFDTnV4TldmNktYQy1xM3V3QUhRbE10OU9kMDdPbFctYTAxcWNYaklJZTJoUEFSbkR5ZWdIWW0?oc=5"
         }
       ],
       "matched_keywords": []
@@ -295,42 +295,17 @@
       "matched_keywords": []
     },
     {
-      "id": "a409653cac6d",
+      "id": "5f2fb651ab34",
       "title": "坐公廁馬桶怕得菜花？醫曝「真正危險3處」 不是馬桶坐墊",
-      "published": "2026-05-21T07:00:02+00:00",
-      "summary": "坐公廁馬桶怕得菜花？醫曝「真正危險3處」 不是馬桶坐墊&nbsp;&nbsp;台視新聞網",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yM2R6Y1BvVGVQeHVyc1pKUUZhOC1Kd2duZUlVaE9VWXNPWXppemxDVWl4dmJiVlRyaVlSUGdjSGlWakZXT3NzRVZlaElpbjRXRjRyVENSZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "74c0ad639cd4",
-      "title": "台中疫苗補助卡關 長者「皮蛇」纏身痛如酷刑",
-      "published": "2026-05-21T06:09:58+00:00",
-      "summary": "台中疫苗補助卡關 長者「皮蛇」纏身痛如酷刑&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "published": "2026-05-21T07:09:37+00:00",
+      "summary": "坐公廁馬桶怕得菜花？醫曝「真正危險3處」 不是馬桶坐墊&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQQWFxVEZ4WWlUdG00OHVfd1FzbmppTTdQc3NOdFdXby1UVEo5QVBHb1dKeE1QTlNfb1BwVlRIejlienVmU1VOYzBQSjlWZlg2T2xRMG5UcmY0bHpuME4yVHUxM2ZHUmxCNWFJMHJic05QV3RiT1RWendsekhIdXMyY2pCM3l5TWhlNlY2aGI2YUktTkNmUld6NGhJZEZhWVdXNW9VZFJsVVZ0LVYxaEZkNng0V0lZVjBWVEhyQ3MzbzU0SUNOMm5tZm1maFNnaXQ2WmtON2dWUWVEelZsSUtEWVZZejA1U0hwaVRPbF8taDVialhOT1EwQkJSMFQxNmFfMzYteV9fM0RyU0hsVklrTndZNE90MkFfQU0ybU41cGk0cHlEbkVTd01ldk5KUUU?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPQzBsMDJNMU1VTm1LaXVMX0N6bWNIUFNKWXl0UmdHRnBmUTF1cHJhS0FQME5GeFp4OU5nZjJ1OWRSUzRGNXNPSlMwQk92OHNRNTJyZ2Q1WlV5aW1QbFhBR3JzOEFET290WUNpZEdvWS1feHJCLXI5N2gzelRETlVvU19kN1puR2JzNlhDNmlxSVlDeGx5NENkSUxzekc3VHhUZEZpWWItV3U5Y2lacUVLUUEzZ29zQ010SzBvd3FNTEIwSU84dll0VEhlRThGaGdaSGhUMUo3cHNGMDAzSGNzMW1ORUVsZGZGVHJiWVZhNm82cjRKMnJwVk01VDF4VTBrV2s2Mk9PemJFb2ZQTzl1V3FfMk5MYldlalV3TlY3akZYYVQ3LXFRWF9vc1hhcmJYaFdodC1oUmc3aENUSlNmanZCbjNpYVJWek5QMWl5a3M4WjgyQ2pUM1VZSi0wblQyRUpZNkhmSmdNRU1vdXFoS3UxSUVaeUlISW1XdG1ReFFVZw?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "皮蛇",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "eb603b7e5d1a",

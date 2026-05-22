@@ -1,39 +1,15 @@
 {
-  "generated": "2026-05-22T21:59:17.396797+00:00",
-  "count": 6,
+  "generated": "2026-05-22T23:02:27.741022+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "beac24fb62fe",
-      "title": "日本福岡爆「神秘感冒」 患者久咳喉痛卻非流感| 國際 - 中央社 CNA",
-      "published": "2026-05-22T14:18:00+00:00",
+      "id": "285265cd10d5",
+      "title": "優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險",
+      "published": "2026-05-22T22:17:53+00:00",
       "sources": [
         {
-          "name": "中央社 CNA",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DbUZMTGtTN2hvclNRMXIyYmYxZmpQcTFiMGF2bnRZNV9tQVBiUFR5MkdBUXBGUWsxV3R6cTBfd0diVXY5Ym93bVVVZlRkUkZOa3AwNnpmbURHQUVlZFU0?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c56853a9de97",
-      "title": "優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險| 世界萬象| 全球",
-      "published": "2026-05-22T12:47:50+00:00",
-      "sources": [
-        {
-          "name": "udn",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94c1NmRFZoeTg3RV9rbEw1RDJFalVvYTVIWm9QaXNicl9TTkh4SmZwaEI5cEtrQ2NtNzBDMC1ycDJVUmJkTlhwYXFmR2t2MFQ2NVFlWWV2ckZXRXlFZDRhNjBRSUdFODI4UDdiUWlmWnhNLURfcjNRQkxCOA?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOaVBrelVWOHFtS2pVOFJUak5PcmduN3VJUm1BR0VBV1pfUGtEZVoza1U3WDBzeDNSVDR6bkkxczZyMjVsSHhOQkRIejlEZ1RZS2R5bTRRT0lpZ0VqdXNZWXhORzNKRTl2czJGd0FSWkwzQnlMU1RUa2xGWkpPQjQ5dDRCRDJjTlNNdERaZExCQVhSVWE0RTV0TkhRcXZtS1dlemxxNmh2c09Qa01zZDl3bWtsVXpzWFRUM1FaVHY2RXdmbmM1b284XzhhTWVRTDRlUlBCWjhMdWhUYm01NWxpVlp2RXlONmpiUjRoVVE3SDVldEdLa3RoX2N0LWo4b21XZmdyMmtaUEttYnE4aU9MZXNJNnF0REN3dkJZU0RjekQtOU5NeEtNT3BVOTFUX3p0eC1LbS1KQnlkYU5nel81M2ozZk5SSEJvd1dWUGpmWk1Rc0U?oc=5"
         }
       ],
       "keywords": [
@@ -114,6 +90,30 @@
       ]
     },
     {
+      "id": "beac24fb62fe",
+      "title": "日本福岡爆「神秘感冒」 患者久咳喉痛卻非流感| 國際 - 中央社 CNA",
+      "published": "2026-05-22T14:18:00+00:00",
+      "sources": [
+        {
+          "name": "中央社 CNA",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DbUZMTGtTN2hvclNRMXIyYmYxZmpQcTFiMGF2bnRZNV9tQVBiUFR5MkdBUXBGUWsxV3R6cTBfd0diVXY5Ym93bVVVZlRkUkZOa3AwNnpmbURHQUVlZFU0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "d07980379f81",
       "title": "不要再說「是你想太多」！醫師：自覺記性變差，失智風險高4.5倍",
       "published": "2026-05-22T03:25:00+00:00",
@@ -167,30 +167,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "74c0ad639cd4",
-      "title": "台中疫苗補助卡關 長者「皮蛇」纏身痛如酷刑",
-      "published": "2026-05-21T06:09:58+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQQWFxVEZ4WWlUdG00OHVfd1FzbmppTTdQc3NOdFdXby1UVEo5QVBHb1dKeE1QTlNfb1BwVlRIejlienVmU1VOYzBQSjlWZlg2T2xRMG5UcmY0bHpuME4yVHUxM2ZHUmxCNWFJMHJic05QV3RiT1RWendsekhIdXMyY2pCM3l5TWhlNlY2aGI2YUktTkNmUld6NGhJZEZhWVdXNW9VZFJsVVZ0LVYxaEZkNng0V0lZVjBWVEhyQ3MzbzU0SUNOMm5tZm1maFNnaXQ2WmtON2dWUWVEelZsSUtEWVZZejA1U0hwaVRPbF8taDVialhOT1EwQkJSMFQxNmFfMzYteV9fM0RyU0hsVklrTndZNE90MkFfQU0ybU41cGk0cHlEbkVTd01ldk5KUUU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "皮蛇",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
             }
           ]
         }
