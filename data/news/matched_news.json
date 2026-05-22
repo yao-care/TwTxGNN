@@ -1,20 +1,45 @@
 {
-  "last_updated": "2026-05-22T16:16:07.677293+00:00",
-  "total_count": 19,
-  "matched_count": 6,
+  "last_updated": "2026-05-22T18:29:01.552987+00:00",
+  "total_count": 20,
+  "matched_count": 8,
   "news": [
     {
-      "id": "49996afd9beb",
+      "id": "3c2b7c2e1223",
       "title": "澳洲研究首見巨噬細胞噬癌畫面 揭免疫療法新途徑",
-      "published": "2026-05-22T14:56:00+00:00",
-      "summary": "澳洲研究首見巨噬細胞噬癌畫面 揭免疫療法新途徑&nbsp;&nbsp;蕃新聞",
+      "published": "2026-05-22T14:56:34+00:00",
+      "summary": "澳洲研究首見巨噬細胞噬癌畫面 揭免疫療法新途徑&nbsp;&nbsp;yesmedia.com.tw",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uOXdTbjlVVS1zN2wxd1RqRENBczJGSVFXcTktZFB4T19Za0FkNWZEejhvMXV1czZnb0oxNm9MWHBxTmFTcm5zZTNERFZKRW93UHc?oc=5"
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQcjE1RWU3OFV6M2x3aWlnZk1hX1l4dnVrV2d2WFlqUTFmOGZDRzRpcmNkX1o0eW9zekhOSld4SWsza0tpQkRNcHFfczA4d0xINnY0OFZzMzYwSzB5ZGlMbDNXYW50a1lZUi1QbUFXSnV2V1hyRHdrQWlreHA3U0dLeWZockMteUxQQV83RS1IZm40SG1pcVFMU2Z5QWtNRHIyUzdiT3AyaWFjS0FaajBLOGMydzM1Wm5nNnI2YnpzbGsyNVFBeml4aFVDQ3hRb0RuTjRQOHlvS2o3aEFGUHBVUUlsWW8xYkh2WndGUElUWmlnNDQtTzVWTVREOFFXZHo3S19VVzJ3YzdqSDRYR0ZfcjNaV3JHZ01uaTNERlNfa0RtMG5IY19GeVo5RVpwN3RrZVFEUnZuZGFob2RtUDk2SGtyZWVDT3drWFJrRA?oc=5"
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "beac24fb62fe",
+      "title": "日本福岡爆「神秘感冒」 患者久咳喉痛卻非流感| 國際 - 中央社 CNA",
+      "published": "2026-05-22T14:18:00+00:00",
+      "summary": "日本福岡爆「神秘感冒」 患者久咳喉痛卻非流感| 國際&nbsp;&nbsp;中央社 CNA日本爆發「神秘感冒」！喉嚨痛如刀割快篩卻陰性 東京也淪陷&nbsp;&nbsp;Yahoo新聞日本福岡爆「神秘感冒」 患者久咳喉痛卻非流感&nbsp;&nbsp;經濟日報討論牆 | 日本突爆「神秘感冒」！流感新冠皆陰性... 已從九州蔓延至東京&nbsp;&nbsp;LINE TODAY日本出現「神秘感冒」疫情！喉嚨如刀割 福岡蔓延到東京&nbsp;&nbsp;ETtoday新聞雲",
+      "sources": [
+        {
+          "name": "中央社 CNA",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DbUZMTGtTN2hvclNRMXIyYmYxZmpQcTFiMGF2bnRZNV9tQVBiUFR5MkdBUXBGUWsxV3R6cTBfd0diVXY5Ym93bVVVZlRkUkZOa3AwNnpmbURHQUVlZFU0?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "63306b96b469",
@@ -113,19 +138,6 @@
         {
           "name": "健康醫療網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhMVZlNjB4S1ZWSks2cWFkcEFlZlVlQTJhVHNQZGhQUlE2SXRYVWRaSWVBSVU0bWFXLThlTXpLLXdsMmlpQmxHa25kaktFeWtJSDJ1dUR3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "42616dbe8f83",
-      "title": "出生就有心雜音竟是心室中膈缺損 微創導管術助女童恢復活力 - FTNN 新聞網",
-      "published": "2026-05-22T08:11:00+00:00",
-      "summary": "出生就有心雜音竟是心室中膈缺損 微創導管術助女童恢復活力&nbsp;&nbsp;FTNN 新聞網",
-      "sources": [
-        {
-          "name": "FTNN 新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yZnd4Z21NUU11N1J2VW5haTN6YUtydzI2SEVWNkJDRUVxSWVmY0M2TWpCWmFjVkxQd0hueDFOejYxTWhBRTVmclZkOA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -340,6 +352,42 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "367cb1e26636",
+      "title": "失智症新發現：孤獨、失眠為風險因子 血液檢測助早期篩檢",
+      "published": "2026-05-20T22:50:05+00:00",
+      "summary": "失智症新發現：孤獨、失眠為風險因子 血液檢測助早期篩檢&nbsp;&nbsp;ENN台灣電報",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE4xalJjMUkwWmR1MEtRZ3cyVDUyMk9xeDhKLS0zQWE0SFp6Mm1lSS1NcWxYN2w4SExQSnc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
