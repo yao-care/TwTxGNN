@@ -40,11 +40,11 @@ permalink: /news/felodipine/
 
 ## 相關新聞（2 則）
 
-### [更年期褲子愈穿愈緊？頂尖期刊曝：更年期BMI「多這數字」小心乳癌 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOOC1jeDI4ZUpqYXBYc3VlX0FFSGx3MExUSnJldXNZUDh5RXRhX0tGd1dZc2hRRFhxb3Y4VHhudVp6alNrRXlBWTVJbXM1VnlLUXc?oc=5)
+### [法國新研究：常見食品防腐劑恐增高血壓及心臟病風險](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRRUc0R0NTZ2JlSGNHcG91WVRyYmNxS1h3OXpEbnZiLUpiLUVRSVhVajBCMHBZdFFQNkdDaDJqVmxlV0NycW9oUUoxV04yRTRJUGc?oc=5)
 
-2026-05-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">肝癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">更年期</span>
+2026-05-22 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">高血壓</span>
 
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOOC1jeDI4ZUpqYXBYc3VlX0FFSGx3MExUSnJldXNZUDh5RXRhX0tGd1dZc2hRRFhxb3Y4VHhudVp6alNrRXlBWTVJbXM1VnlLUXc?oc=5)
+來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRRUc0R0NTZ2JlSGNHcG91WVRyYmNxS1h3OXpEbnZiLUpiLUVRSVhVajBCMHBZdFFQNkdDaDJqVmxlV0NycW9oUUoxV04yRTRJUGc?oc=5)
 
 ---
 

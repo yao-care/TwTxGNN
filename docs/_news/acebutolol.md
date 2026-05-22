@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,13 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [更年期褲子愈穿愈緊？頂尖期刊曝：更年期BMI「多這數字」小心乳癌 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOOC1jeDI4ZUpqYXBYc3VlX0FFSGx3MExUSnJldXNZUDh5RXRhX0tGd1dZc2hRRFhxb3Y4VHhudVp6alNrRXlBWTVJbXM1VnlLUXc?oc=5)
+### [法國新研究：常見食品防腐劑恐增高血壓及心臟病風險](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRRUc0R0NTZ2JlSGNHcG91WVRyYmNxS1h3OXpEbnZiLUpiLUVRSVhVajBCMHBZdFFQNkdDaDJqVmxlV0NycW9oUUoxV04yRTRJUGc?oc=5)
 
-2026-05-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">肝癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">更年期</span>
+2026-05-22 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">高血壓</span>
 
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOOC1jeDI4ZUpqYXBYc3VlX0FFSGx3MExUSnJldXNZUDh5RXRhX0tGd1dZc2hRRFhxb3Y4VHhudVp6alNrRXlBWTVJbXM1VnlLUXc?oc=5)
+來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRRUc0R0NTZ2JlSGNHcG91WVRyYmNxS1h3OXpEbnZiLUpiLUVRSVhVajBCMHBZdFFQNkdDaDJqVmxlV0NycW9oUUoxV04yRTRJUGc?oc=5)
 
 ---
 
@@ -49,14 +49,6 @@ permalink: /news/acebutolol/
 2026-05-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMia0FVX3lxTE94SHEzbU5RRUZWU3I4N2tXcmxiTTFZYnE5SlNaOEJWVnZXNXJuRlRmYnZNNlBVTXBTa3RlRUo3d0lEd1NqU08wUFlRbVZvVTJaYVBfRVllYWpKX2FlVUJRYWNEYVRFX2d0VlFj?oc=5)
-
----
-
-### [「不睡午覺」竟是長壽關鍵？！長達19年研究指出白天午休易增加高血壓、肥胖和糖尿病風險](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRlRwLUdJQTN5T0NPYTg2cy1yUXFvcXZEOUdVTlF0aXV2bWZDeGE2X3hwbmFFMUlCLUVuWW9CRUc0VFl0U0xCZy1seXF1R0hjbUNjY1pEeldxSl9iVF9nOWI0LS1IaE5pbHhyUTBaRVphZE9RdWlvY2p6VjBZR2NhVDhwQWlOMmhhczhHZDZn?oc=5)
-
-2026-05-20 <span class="news-indication-tag">高血壓</span>
-
-來源：[ELLE](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRlRwLUdJQTN5T0NPYTg2cy1yUXFvcXZEOUdVTlF0aXV2bWZDeGE2X3hwbmFFMUlCLUVuWW9CRUc0VFl0U0xCZy1seXF1R0hjbUNjY1pEeldxSl9iVF9nOWI0LS1IaE5pbHhyUTBaRVphZE9RdWlvY2p6VjBZR2NhVDhwQWlOMmhhczhHZDZn?oc=5)
 
 ---
 

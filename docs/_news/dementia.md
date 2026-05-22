@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。6 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。5 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>6 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>5 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [不要再說「是你想太多」！醫師：自覺記性變差，失智風險高4.5倍](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5Y29qTlBWNnE3UFRZTEg2VzJxWXZweEtadEJFTWVXU3REaTBYWlpuN1psZ3QwZkF1YXRWWnRiNXhyWjFISnRVS3FndndJYUtXcXFnazhvb2U4eG92aDRn0gFkQVVfeXFMT2FjeGVVVXZoeVRLZ0d4OGZHdm41YkJXUDU3WTRnOHRuQVVIWGowVGdFenZmalZHNUdpRUw4V0VmS1BnMmZqRW1CZko1ZHpWd1lybGpJWDNEVUpXNThYc0c5NjhGVg?oc=5)
 
@@ -68,14 +68,6 @@ permalink: /news/dementia/
 2026-05-20
 
 來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HNXFReGVydmNXVUVHMnRHamhiX1ZMQWJ5QXlWVVdlSGtkU1ZwcC1nOWNvcG5FVWtTSTV5a2l6U0Z1VW1vNkdsZERrZ192OXctaUE?oc=5)
-
----
-
-### [腦退化先兆｜老人家常跌親響健康警號 失智風險暴增74% 研究：最快1年內確診【附腦退化徵兆】](https://news.google.com/rss/articles/CBMi3ARBVV95cUxObE43bWVkUWRRekxMemZJSmNhT080d1IyNXRCWXZTbjJLUUczRDJRRHJDcXRWZENWYncwd0duVUl2TVdWYlNETThmODBfU3hvRGN2clNmbl9CYndBWjU0MmgzWGtxNkZ0b0ZVaUlqZUQ5ZVNBVDBkRHg2T2tTbjlZczRLWnhQS0wtb2NPRU5PaGpHelJQaFJrbDdWRDd2MjRIVXhFNmxRV0JkMFRIbnZHVkdxWTVnWWpfR2xOVVM2SnlvVnRlVi11SnI3dWtvbUVDdUp5MXhrekFLci1POWQwMnZzbDFxTmJuRERwOHFRVVBIaFBDV1p6cExTX2syYjY3U00xV3A0Mmk5ak83alpoanRyNVdOT2h5dURWMWNFZFJuRU0xNHZBRGdXdmdpSHhxT2RPRW8yVFA5UDgtTFQ0U3R6bEd0bEtkV0FUZ0oyc2w1TXJRUUt6SmJVNzRGZ21EX3VUejdNMDRCUjR4QlNhNXVMOEVqN2FBQ3l3Ui1DS0syZHJnaEhLX2JraW81MDlPUV9YYUpETUxUN0FFYUVGM3JBVV9CQ2dRMFlUU3JIRzFDVE9VU2ZkVS1YZHB3a2U1WTBRNEN3S0JhTElrcHp3RlR4Zk9Wa3BvdUhPVnpzWGdCTXRBSVRYdHgxMHN4WnNNRmtRSFUtM1o4SWdkMGk4SFV6UGNxdXZkZlpJMTg3T1ZrOTBsczVIWXJCWVpfZjBVQ2NvUXJMLTRGWFE1MnE5eWdMWUo1cXpzcGZEZ09hSlFQVFJoLTJETTBfeTRQNENxdDBVZUVtWXNvNUdm?oc=5)
-
-2026-05-20
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMi3ARBVV95cUxObE43bWVkUWRRekxMemZJSmNhT080d1IyNXRCWXZTbjJLUUczRDJRRHJDcXRWZENWYncwd0duVUl2TVdWYlNETThmODBfU3hvRGN2clNmbl9CYndBWjU0MmgzWGtxNkZ0b0ZVaUlqZUQ5ZVNBVDBkRHg2T2tTbjlZczRLWnhQS0wtb2NPRU5PaGpHelJQaFJrbDdWRDd2MjRIVXhFNmxRV0JkMFRIbnZHVkdxWTVnWWpfR2xOVVM2SnlvVnRlVi11SnI3dWtvbUVDdUp5MXhrekFLci1POWQwMnZzbDFxTmJuRERwOHFRVVBIaFBDV1p6cExTX2syYjY3U00xV3A0Mmk5ak83alpoanRyNVdOT2h5dURWMWNFZFJuRU0xNHZBRGdXdmdpSHhxT2RPRW8yVFA5UDgtTFQ0U3R6bEd0bEtkV0FUZ0oyc2w1TXJRUUt6SmJVNzRGZ21EX3VUejdNMDRCUjR4QlNhNXVMOEVqN2FBQ3l3Ui1DS0syZHJnaEhLX2JraW81MDlPUV9YYUpETUxUN0FFYUVGM3JBVV9CQ2dRMFlUU3JIRzFDVE9VU2ZkVS1YZHB3a2U1WTBRNEN3S0JhTElrcHp3RlR4Zk9Wa3BvdUhPVnpzWGdCTXRBSVRYdHgxMHN4WnNNRmtRSFUtM1o4SWdkMGk4SFV6UGNxdXZkZlpJMTg3T1ZrOTBsczVIWXJCWVpfZjBVQ2NvUXJMLTRGWFE1MnE5eWdMWUo1cXpzcGZEZ09hSlFQVFJoLTJETTBfeTRQNENxdDBVZUVtWXNvNUdm?oc=5)
 
 ---
 
