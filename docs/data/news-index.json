@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T23:53:18.714421+00:00",
-  "count": 11,
+  "generated": "2026-05-22T02:33:37.515700+00:00",
+  "count": 9,
   "news": [
     {
       "id": "ca5c862b7c62",
@@ -149,24 +149,35 @@
       ]
     },
     {
-      "id": "38fbf0a2e385",
-      "title": "照護線上》給寶寶的第一份見面禮，呼吸道細胞融合病毒（RSV）長效型單株抗體「出生即防護」策略解析，專科醫師圖文懶人包",
-      "published": "2026-05-21T00:00:00+00:00",
+      "id": "367cb1e26636",
+      "title": "失智症新發現：孤獨、失眠為風險因子 血液檢測助早期篩檢",
+      "published": "2026-05-20T22:50:05+00:00",
       "sources": [
         {
-          "name": "自由評論網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iWlJjVS12MUJlQ0Y0ZmlaWENrS3FuYy0tYlN3NUY0UDlkaURoRWNtWDhLVkNSWnowbDNlT3BCcVdDRkNObTBmczdhV0VQd0d5TjJrN3B3Q25QS1VfTFZrZXJR0gFnQVVfeXFMTk5hWndjeUQ1TjY0SXF2V2t1eWJFcWUtYzdreDlEdzZmOG5VZlhsR1FqcWROVjRvU0lCT3hwNVFIRFduNkZieEllaS1PNk0xS0tGS0pQLWtmQk56Qk5mdHVDUFdHZmNaNA?oc=5"
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE4xalJjMUkwWmR1MEtRZ3cyVDUyMk9xeDhKLS0zQWE0SFp6Mm1lSS1NcWxYN2w4SExQSnc?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
+          "name": "dementia",
+          "keyword": "失智症",
           "related_drugs": [
             {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -191,41 +202,6 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bbb9a5f07b9c",
-      "title": "失智症新發現：孤獨、失眠為風險因子 血液檢測助早期篩檢",
-      "published": "2026-05-20T12:19:59+00:00",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQOFB1aWVIcjJXbE84cjFGZDhxRkJ1R0xFZl9xZFN2UXkwWHo3V2VHVzFaazMxWEhhNzVvd3lNV1ZUTE1wMU1sSEdVVjFSTktHblJiaTZDcHpKQkd3cVVya0tMZDFzb0ZIZ051TG9PeXFJRWxMLWVnUFdEUEtCdVEyR1NibXQxWXA5ZUktM3NSSGNHUVI1S3NsXy12dFRsR1pPbVRBdHJ5YjA3OE8wYW15RnBqaE91ZHR0NzJBTy1kb0k1TTFGMTl1ekM2Nl8yMWxBQm9VR09ySkVxbzVzZVFCejJ4UzV5a2VjaXo2M3p1WVhxUVRLYmx0dU5IbksxWXlDZXV3X3JJQUZoMkJBNDhJVVNBa2FKZmdWWWVTNWZuWXZuWV9xQkRyWmVZdWxJVmdReDBIS2lOZTFvM0FZU1ZpRVZ1eFh4TFh1bnRndw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
@@ -321,49 +297,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5878841b163f",
-      "title": "腸胃炎忌食稀飯！醫生指或刺激胃酸加重腹瀉 推介3 食物代替",
-      "published": "2026-05-19T23:00:21+00:00",
-      "sources": [
-        {
-          "name": "bastillepost.com",
-          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNN3RUeFNBSHF0dTlGd2FGR0VGVWd4SDlmLWVvVlpZUmNtMHZEbV93NWp5LTBVVkRCUTNOXzJKT0tMUmtqNHU4OVRMdFlnUExJajNlTGV4YzRjUkE0MFU5UmVMWGhsRGlYV0ZodFJaSGItRklkd0s2ejFXWVp4M2psWlM3S05iNndQMURieHVmSGItODBjNkJVSGgtMTlkSGNyWEZySnNlMy1MRlR3cHR4ODR6RUloTWNzYy01RFdUZGUzY3o4Wm84c19xeTExTm5feHN4YjVLVlJRdXdrTjVwT0cxa1gxVzF2UTFTUDBvU2lzZjE3bG42SW9iSW1pZWQ1bVZWZ3p4T2Q3QURoU1JUVk9OMlQxUkVkN0dLc2ZTTVQxNjRGVFFuQjJTVnp3UldtdDJ0VnNRel9SMXlnLXJuZGJvaWVJUV9OcGRUbFc4MkVENnZTazZ2Vlo4NGhwbXRocDJEVVRzQWc2Nm1ZWHJadA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "胃炎",
-          "keyword": "胃炎",
-          "related_drugs": [
-            {
-              "slug": "aluminum_hydroxide",
-              "name": "Aluminum hydroxide"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "propantheline",
-              "name": "Propantheline"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腹瀉",
-          "keyword": "腹瀉",
-          "related_drugs": [
-            {
-              "slug": "berberine",
-              "name": "Berberine"
             }
           ]
         }
