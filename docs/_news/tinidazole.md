@@ -60,11 +60,11 @@ permalink: /news/tinidazole/
 
 ---
 
-### [2美食別吃多！胰臟癌晚期存活率剩7％ 醫曝前兆症狀：5類人小心](https://news.google.com/rss/articles/CBMibkFVX3lxTE1qTHJraGFWdzZlWjQ1SG1OTEtwR1NlbXNHQkJVa2V2VEtFRmhnajluaU5WRVBLR3A1Z1FhMmY4dlktcm4xOUM1Ymh6RzhldWlnU0x5ZENQX0s2VzlXa3d6dERmaWxTeTRvVVE5dF9n?oc=5)
+### [女生「1時期」變胖速度翻倍！醫示警：乳癌風險恐增12%](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uR0dYUjdmRHV0LW5ETzNfZGthN3RfdjhpM1hoZnFjZERySm1JQlp4UmE1OVR0V2s4UTgxSnNqY1FyQ2MyTTRLcmRpQl8?oc=5)
 
-2026-05-22 <span class="news-indication-tag">癌症</span>
+2026-05-22 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">更年期</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1qTHJraGFWdzZlWjQ1SG1OTEtwR1NlbXNHQkJVa2V2VEtFRmhnajluaU5WRVBLR3A1Z1FhMmY4dlktcm4xOUM1Ymh6RzhldWlnU0x5ZENQX0s2VzlXa3d6dERmaWxTeTRvVVE5dF9n?oc=5)
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uR0dYUjdmRHV0LW5ETzNfZGthN3RfdjhpM1hoZnFjZERySm1JQlp4UmE1OVR0V2s4UTgxSnNqY1FyQ2MyTTRLcmRpQl8?oc=5)
 
 ---
 

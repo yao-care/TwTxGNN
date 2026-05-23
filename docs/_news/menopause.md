@@ -3,7 +3,7 @@ layout: default
 title: "更年期（menopause） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "更年期（menopause） 的相關健康新聞報導。1 則新聞、4 個相關藥物。"
+description: "更年期（menopause） 的相關健康新聞報導。2 則新聞、4 個相關藥物。"
 permalink: /news/menopause/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/menopause/
 ---
 
 <p class="key-answer" data-question="更年期（menopause） 有什麼相關新聞？">
-<strong>更年期（menopause）</strong> 目前有 <strong>1 則</strong>相關新聞報導，4 個相關藥物。
+<strong>更年期（menopause）</strong> 目前有 <strong>2 則</strong>相關新聞報導，4 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,21 @@ permalink: /news/menopause/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [中年女性減肥好難！新研究揭最佳飲食法掌握2重點就行- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTE5jYU10TXgyRXpmYnVyaEF2bTlCVVl0ckM1ekpXcHBZNzY4VGFqYlp6dGRxMi1oV2llYjdyOEdyX3FPUWZYX2ZWRWRycUtpTHVWRHZnWDhkeTNVRzVuempvekdJbFh0QXNuM0ZuN19R?oc=5)
 
 2026-05-22
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5jYU10TXgyRXpmYnVyaEF2bTlCVVl0ckM1ekpXcHBZNzY4VGFqYlp6dGRxMi1oV2llYjdyOEdyX3FPUWZYX2ZWRWRycUtpTHVWRHZnWDhkeTNVRzVuempvekdJbFh0QXNuM0ZuN19R?oc=5)
+
+---
+
+### [女生「1時期」變胖速度翻倍！醫示警：乳癌風險恐增12%](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uR0dYUjdmRHV0LW5ETzNfZGthN3RfdjhpM1hoZnFjZERySm1JQlp4UmE1OVR0V2s4UTgxSnNqY1FyQ2MyTTRLcmRpQl8?oc=5)
+
+2026-05-22
+
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uR0dYUjdmRHV0LW5ETzNfZGthN3RfdjhpM1hoZnFjZERySm1JQlp4UmE1OVR0V2s4UTgxSnNqY1FyQ2MyTTRLcmRpQl8?oc=5)
 
 ---
 

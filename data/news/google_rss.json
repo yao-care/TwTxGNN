@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-23T11:54:34.928320+00:00",
-  "count": 18,
+  "fetched_at": "2026-05-23T13:03:35.486897+00:00",
+  "count": 17,
   "news": [
-    {
-      "id": "3a1e81633a9f",
-      "title": "健康網》擦防曬怕缺維D害骨鬆 醫破迷思：擦不夠紫外線更傷膚 - 自由健康網",
-      "published": "2026-05-23T02:23:00+00:00",
-      "summary": "健康網》擦防曬怕缺維D害骨鬆 醫破迷思：擦不夠紫外線更傷膚&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XbVF3MWtJNUpPeTlZZkI0S2VjT0hSenRRMFJ1dEh4NlBxbGRfRVQyOFNnSF9FOFVtYXlRNDNYU2dKQ0VrZ3NFeE9PLW1iN09jS1QtMGZ2S0kwU3hZUVZSQWFjRkzSAWpBVV95cUxOaGZjZEJ4YjhuSGVNUHBuY25KYkFVNWtCaTJhX2Jfa1owcm9xQXJYU1kzWFZfZHJiNC1yMWNzUjBpdUl1a1c5OTBKM2JuZldCZGlmUzBGYVlPNXZxLVEyUXAyX0hZMWt5M01R?oc=5"
-        }
-      ]
-    },
     {
       "id": "4d97d105ea6c",
       "title": "大腸癌末期病患「改變心態」 癌細胞神奇消失！9年沒復發 - Yahoo新聞",
@@ -28,14 +16,26 @@
       ]
     },
     {
-      "id": "778ef8ad647c",
-      "title": "福岡爆神祕感冒疑hMPV 疾管署：已向日本詢問相關疫情 - Yahoo新聞",
-      "published": "2026-05-23T04:06:49+00:00",
-      "summary": "福岡爆神祕感冒疑hMPV 疾管署：已向日本詢問相關疫情&nbsp;&nbsp;Yahoo新聞日本爆不明呼吸道感染 疾管署：目前不像新型疫情、無旅遊警示規劃&nbsp;&nbsp;自由健康網日本福岡爆「神秘感冒」 患者久咳喉痛卻非流感| 國際&nbsp;&nbsp;中央社 CNA台大醫解析日本「神秘感冒」症狀 2病毒可能性高：威脅不大&nbsp;&nbsp;ETtoday健康雲日本「神秘感冒」我國不提升旅遊警示 羅一鈞曝向日方了解中&nbsp;&nbsp;UDN",
+      "id": "3a1e81633a9f",
+      "title": "健康網》擦防曬怕缺維D害骨鬆 醫破迷思：擦不夠紫外線更傷膚 - 自由健康網",
+      "published": "2026-05-23T02:23:00+00:00",
+      "summary": "健康網》擦防曬怕缺維D害骨鬆 醫破迷思：擦不夠紫外線更傷膚&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XbVF3MWtJNUpPeTlZZkI0S2VjT0hSenRRMFJ1dEh4NlBxbGRfRVQyOFNnSF9FOFVtYXlRNDNYU2dKQ0VrZ3NFeE9PLW1iN09jS1QtMGZ2S0kwU3hZUVZSQWFjRkzSAWpBVV95cUxOaGZjZEJ4YjhuSGVNUHBuY25KYkFVNWtCaTJhX2Jfa1owcm9xQXJYU1kzWFZfZHJiNC1yMWNzUjBpdUl1a1c5OTBKM2JuZldCZGlmUzBGYVlPNXZxLVEyUXAyX0hZMWt5M01R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7cfab4866a0e",
+      "title": "日本爆謎の風邪疫情？前台大感染醫曝真相 - Yahoo新聞",
+      "published": "2026-05-23T11:42:39+00:00",
+      "summary": "日本爆謎の風邪疫情？前台大感染醫曝真相&nbsp;&nbsp;Yahoo新聞日本福岡爆「神秘感冒」 患者久咳喉痛卻非流感| 國際&nbsp;&nbsp;中央社 CNA日本爆不明呼吸道感染 疾管署：目前不像新型疫情、無旅遊警示規劃&nbsp;&nbsp;自由健康網日本神秘感冒爆流行「從福岡蔓延東京」！不是流感新冠，卻久咳不癒喉嚨爆痛…hMPV是什麼？疾管署回應&nbsp;&nbsp;今周刊福岡爆「神秘感冒」引熱議 疾管署致函日方盼釐清致病原&nbsp;&nbsp;ETtoday健康雲",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxORmxCTDdpR3l3UkxYdWpUTjVQc3hpME55QzRPNmc4b2NJcFFsN2JuOF96d05XbVZla3NqOU92LVg0VG1fbUNoMkJkMFZheE44YUVENWRUeXVHUWhlX1RZUWpzajJzWjFXOFhGX1lrS0hDOE1OUUtRQTYwYjVocDhtbUFEZEJXdmpyNl9oQkhaeGlNeUpPbzZUXzFYbzZDYkVHdmZMU19zTzdTdk5BMFFqQUlWdjhWOHg2a2d1OWtabTFOd05OOTFELVlCbUljYjk2RmNyRG1STjBGXzIzdlNTTzdJeThlNjFaNzFicEtGb3BSRTVyVGtpR041Z0hsMUh1ajVUUHF3clQ4d3lpVDFGTjFNX3k1NDRyQzczMzZfQ0xNQzJHeDkxRlQ2ZmpjNnRHVEFuQmFTa0RpVVdkQ2M2QjM2aWVxRDNVczJadHRSc1VzUjFwcXhielBULW9xWE4yb2c?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPR1BWRmNyU283VHhLNkpGem5ONG5hVlN3VFZJNXo1Z24zQk0wQjlVMTNpcjZnYXl1VHFIUEZvZEktUXdjblZZazZpcEgtVkJXT3plWk1tQjNNTl9RUkh4T0V2cmw1al9xNjNVRnhxMWFKd2pXaDVNNXJPNDlnYVJmTkNiRDdtTkJLLUNHWFVEbERqckVCWFg1aXRHa0JIX2c1eFdBaWRDTWdxd1gxb2JrbXhzajMtMUZGaGJ1Y2p5eFNUeEM4cTV1bDBNbndwaXlyVzZLdENfd2JUYkxqR0xDNkMwa1h6cWRST0ttVnZTOTNkS25XdGk0UVl0TTl0Mld2bnY3eDRUVmxWTWhSbnNqbUU0Q285SUIwaXpEWkxpVXFNUQ?oc=5"
         }
       ]
     },
@@ -55,7 +55,7 @@
       "id": "7b724fff7b26",
       "title": "女生「1時期」變胖速度翻倍！醫示警：乳癌風險恐增12% - 祝你健康",
       "published": "2026-05-22T09:09:25+00:00",
-      "summary": "女生「1時期」變胖速度翻倍！醫示警：乳癌風險恐增12%&nbsp;&nbsp;祝你健康",
+      "summary": "女生「1時期」變胖速度翻倍！醫示警：乳癌風險恐增12%&nbsp;&nbsp;祝你健康更年期褲子愈穿愈緊？頂尖期刊曝：更年期BMI「多這數字」小心乳癌&nbsp;&nbsp;TVBS 健康2.0腰圍比體重更重要！營養師曝防癌7關鍵：多吃這兩樣終結癌火&nbsp;&nbsp;早安健康吳芮醫生看我們與腹腰部脂肪疾病的距離&nbsp;&nbsp;報新聞肥胖，真的會增加乳癌風險嗎？深入解析體內悄悄進行的變化| 照護線上-深受信賴的醫療媒體&nbsp;&nbsp;careonline.com.tw",
       "sources": [
         {
           "name": "祝你健康",
@@ -100,18 +100,6 @@
       ]
     },
     {
-      "id": "532c3436090c",
-      "title": "20萬劑流感加強型疫苗不夠保護長者？立委揪預算「貓膩」盼政府做1事 - Yahoo新聞",
-      "published": "2026-05-21T11:55:00+00:00",
-      "summary": "20萬劑流感加強型疫苗不夠保護長者？立委揪預算「貓膩」盼政府做1事&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQdGNHSGEteWJ6c1BxVXVaWjlXYTVYZERqdGs1N2FQakZqMlZGNWlPNGx1YTlqRUo5SFpJaUNzaF93RlBMejlDeEpEcEZTbnZfdWNkSFduaFZ2MTZuNjZ4RlEydHdKbndWOWJWRXYyZ2o2eWZPelNNbTAzb3RLdHVsc3FYYXVVSVhyVGhlcGRmWVI3NTZGbU0tY05hQ1ZKcXhDSk9hWFlWOUJ4dG5yWXdvel81c1lPOTdqX0RPT0pKdVVSUjBXQVZ0bll3aHdPaDJFcXRGYVRDdXp3eU1WMlVpa3loRW5LRlExbU91M2tDUE1QdjlzclhMMDlPWWF5elVzX1RhR285UXhTT2poZEVtMVhUb2FUbF9XRVk5N1lpaERHWUllMlQwU3o0Y3Z2SXI4M2o0NVdqdWxRcXZDcjdnOVhRNlo2bEJkQXZxb3lkSXppbDlDd3ZRTDNHTUxac0pKX252Yndqd0J4QlNaZmM5U01oWUpwcG5FSmVJNktJajV2NG05R1Q4X1Y5NEJjdk1xLUJhYVphZm9MRVJvMUYw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d07980379f81",
       "title": "不要再說「是你想太多」！醫師：自覺記性變差，失智風險高4.5倍 - 元氣網",
       "published": "2026-05-22T03:25:00+00:00",
@@ -148,26 +136,26 @@
       ]
     },
     {
-      "id": "de16c669311c",
-      "title": "2美食別吃多！胰臟癌晚期存活率剩7％ 醫曝前兆症狀：5類人小心 - 中時新聞網",
-      "published": "2026-05-22T09:19:28+00:00",
-      "summary": "2美食別吃多！胰臟癌晚期存活率剩7％ 醫曝前兆症狀：5類人小心&nbsp;&nbsp;中時新聞網胰臟癌盯上年輕人！研究曝15至39歲增幅驚人 醫揭7招降罹癌風險&nbsp;&nbsp;Yahoo新聞胰臟癌年輕化！15-39歲「癌王」發生率拉升近5成…胰臟癌如何檢查、症狀？醫揭做「7件事」防禦&nbsp;&nbsp;今周刊癌症年輕化成不可逆趨勢？但調整生活習慣仍可降低風險&nbsp;&nbsp;TechNews 科技新報癌王正在年輕化！醫點名「1族群」最危險 風險飆48%&nbsp;&nbsp;祝你健康",
+      "id": "524bc64aee82",
+      "title": "胰臟癌盯上年輕人！研究曝15至39歲增幅驚人 醫揭7招降罹癌風險 - 民報",
+      "published": "2026-05-22T01:00:00+00:00",
+      "summary": "胰臟癌盯上年輕人！研究曝15至39歲增幅驚人 醫揭7招降罹癌風險&nbsp;&nbsp;民報前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qTHJraGFWdzZlWjQ1SG1OTEtwR1NlbXNHQkJVa2V2VEtFRmhnajluaU5WRVBLR3A1Z1FhMmY4dlktcm4xOUM1Ymh6RzhldWlnU0x5ZENQX0s2VzlXa3d6dERmaWxTeTRvVVE5dF9n?oc=5"
+          "name": "民報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaYmNRbzVuWFhHZGlYbnU4eUdMM3I5NFBNYlJ1Njk3X1ZyUlNGTkZCY2NucTFPUzgtODJLTTc1X1U3SXNXWHFYd1lhVm9RcFJRTjBvM1ZFTkRmRVJGTmVQQg?oc=5"
         }
       ]
     },
     {
-      "id": "19ccc0b5126e",
-      "title": "出生就有心雜音竟是心室中膈缺損 微創導管術助女童恢復活力 - PChome Online 新聞",
+      "id": "12fe8eb1e0c4",
+      "title": "出生就有心雜音竟是心室中膈缺損 微創導管術助女童恢復活力 - Yahoo新聞",
       "published": "2026-05-22T08:00:00+00:00",
-      "summary": "出生就有心雜音竟是心室中膈缺損 微創導管術助女童恢復活力&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "出生就有心雜音竟是心室中膈缺損 微創導管術助女童恢復活力&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1hYcWxFc0JQSW1sdEJMZlY3RWZUUGx3QWJwMkVZMXJDc2hTNkNrU1oyaVVldDBnX1Z0Q1dpRW00NWJtY2lRcG9mNG05Ql80Vld3c0Y2TVRzem5CWmhiLWV6T21zSW9ZRUhfT3JtMFd1UnRRTzlQNm13R1IzOWhkWTJlOWx4UHlDX0lVbFh2TlZ2NjA?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxOZFAyWTJ3WHJNelo0bHp6RjROT3g2YTFwbFNMNnE4a3F4ejlpR2hHbXNfYWUwdnRrZklFeW9qSE5nQkFzaHFxNXcwOUlWbmJ0bHRjbVRpZU9TTlBqVHpXaUE0NTh2TFZZNThSYmxEc2JMR2lJTU5BcnN1UTUyX0E0VllmaWZqLWg2S0ozV2p2bGVaajUtbEliUER0N3NZMnJ1Mlh2dklKcUxfcjZyWDlJNFJkRXdZSXliRDgxODFpcVBJVC1UTWd2TVNlNFp6ZGFOcmM5RURGcnhwSWJSanFBYzQyb05aaTk2WkJ0R0h4dW8wRFpfWXdJcUlrTDRPNlpRMkdiSkdnbXQ5d3V5UDZrNWc5UjB4TVFwMU1jX0txV1NqbWhpeDNFWExxU2pNTHdYTmR0YUhrd3IyUlhQU2xHNEpPcHp0b0dLbGRsVHBfR2RnRDRWYmNEbEFMT2RPUTZKYWFUUXlBR01ycDFPRl8tdFFtTWhKbmNyWXFjanN1NlVwRnV3bUp1S1hiWE9iQllkX3h3RGZVTUo?oc=5"
         }
       ]
     },
@@ -208,13 +196,13 @@
       ]
     },
     {
-      "id": "dc286c35945a",
-      "title": "科幻走入現實？中美英聯手研發「DNA機器人」 穿梭血管精準殲滅癌細胞 - 巴士的報",
+      "id": "433d9813b8d1",
+      "title": "科幻走入現實？中美英聯手研發「DNA機器人」 穿梭血管精準殲滅癌細胞 - bastillepost.com",
       "published": "2026-05-22T02:20:45+00:00",
-      "summary": "科幻走入現實？中美英聯手研發「DNA機器人」 穿梭血管精準殲滅癌細胞&nbsp;&nbsp;巴士的報",
+      "summary": "科幻走入現實？中美英聯手研發「DNA機器人」 穿梭血管精準殲滅癌細胞&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNVmpJblRIYnNtMTVuX1RJUnl0SWF0Z21VcmNLcnlLQTVNS3djSWNDWVBMdEx0Slh2SWU3ckc3VU9XUzlYZklVbmNFSXVhVm0tZGREeXFhY2hIUGVYaTlnRTZVdGMwNWVOX3Y0V1VwZkJGUjZWX2hTTk1sRjEtRmFLNDg4Q1lHVDBjRG1PRzJoaDRkWndHMFM1RUlYQnFmWjZHaDNtSzltcldnejdRM3hHNVBBeXdCZWJMVXVCTWZXOElRdmhhWjZJdm9yM1RSTHlJajcyeUp4SGFtUzNUOExQamNOTV9sRFh0dXY3NncwOGZ6X0w0YlJjSmI1Rm1PV05xejQxUElFLUFCZXp0N2NYd3VTRm10aEc0UEJURG9YSnQtYkNTWWFfUGlXMHBUS0ZBc3JRVXNRRUx1aGVqcnFPd2NFWjVYcFRRRkFMZlIyc2F6WmlmX2hnT2ZXUWx5RnNTNHBSMVhR?oc=5"
         }
       ]
