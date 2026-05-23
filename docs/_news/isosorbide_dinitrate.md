@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險| 世界萬象| 全球](https://news.google.com/rss/articles/CBMie0FVX3lxTE94c1NmRFZoeTg3RV9rbEw1RDJFalVvYTVIWm9QaXNicl9TTkh4SmZwaEI5cEtrQ2NtNzBDMC1ycDJVUmJkTlhwYXFmR2t2MFQ2NVFlWWV2ckZXRXlFZDRhNjBRSUdFODI4UDdiUWlmWnhNLURfcjNRQkxCOA?oc=5)
-
-2026-05-22 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">高血壓</span>
-
-來源：[UDN](https://news.google.com/rss/articles/CBMie0FVX3lxTE94c1NmRFZoeTg3RV9rbEw1RDJFalVvYTVIWm9QaXNicl9TTkh4SmZwaEI5cEtrQ2NtNzBDMC1ycDJVUmJkTlhwYXFmR2t2MFQ2NVFlWWV2ckZXRXlFZDRhNjBRSUdFODI4UDdiUWlmWnhNLURfcjNRQkxCOA?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

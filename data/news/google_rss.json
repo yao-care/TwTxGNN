@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-23T08:23:21.792317+00:00",
-  "count": 19,
+  "fetched_at": "2026-05-23T10:22:01.971710+00:00",
+  "count": 23,
   "news": [
     {
       "id": "3a1e81633a9f",
@@ -28,14 +28,14 @@
       ]
     },
     {
-      "id": "987230a61650",
-      "title": "科學人／不只漢他病毒！這類病毒更容易引發大流行研究曝關鍵風險| 放學微素養| 文教 - UDN",
-      "published": "2026-05-23T00:00:57+00:00",
-      "summary": "科學人／不只漢他病毒！這類病毒更容易引發大流行研究曝關鍵風險| 放學微素養| 文教&nbsp;&nbsp;UDN",
+      "id": "e5618f7a5f37",
+      "title": "日本爆發「神祕感冒」疫情 林氏璧揭真相：其實就只是感冒 - Yahoo新聞",
+      "published": "2026-05-23T07:02:31+00:00",
+      "summary": "日本爆發「神祕感冒」疫情 林氏璧揭真相：其實就只是感冒&nbsp;&nbsp;Yahoo新聞久咳喉痛非流感？！ 日本福岡爆「神祕感冒」 疾管署回應了&nbsp;&nbsp;Yahoo新聞日本爆不明呼吸道感染 疾管署：目前不像新型疫情、無旅遊警示規劃&nbsp;&nbsp;自由健康網日本爆神秘感冒 疾管署詢日方、籲民眾落實防疫&nbsp;&nbsp;rti.org.tw福岡爆「神秘感冒」引熱議 疾管署致函日方盼釐清致病原&nbsp;&nbsp;ETtoday健康雲",
       "sources": [
         {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVcnd2OWRPNHFOTHUzaTQxcGhrdTA4enZJam5Vb1VPY1hqZS1oWXB4LVFWdWROYTJURnRaY1JJY2VKdDBIRkpsUU55Y2h4RXNr?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPeTgyOUVHMmVNbnVfX0hJWUJxOThrek9zV3NLM1hHQmpQbDFDSklLUk92X0hKRzB1WnhtNE5wMFJJUGp3UTBFeEJGdHI1N29ndmFYZ2lkTERaYmNYb2oxNWZ2SUV0UnpsLWkzN0hzazZEVk9uZE5VYTZOcFJjbUg3TjdTVkJ1UEgzZkhjTDEyVnNMeE44M2xVOGt2cEtPQ1dyNWxTV3hza0Z6N0RwRnJPMjdNN0xFamNnQVVCVWFkZkptY0ZKNFp6dVAyVG1FQ2xDRHBfWmx0UnZNaFNMSmVCaGxxWWFoUWFBVExCSWtNWTdBaU9TOTUxbVFUZU91VUJSQ0tvNzNaMnQ4V0JHYUhOQTR0RkhIWE1mYkxMZ2FsME04TlNRR0pGaFloYW40QlJhcFhNR2hnT0xOODRFOWNvV3pVN0JXNGFuRjhaclhxY2xsSUFiZVVLOXZaaGpjaGFuM19FNW9HcmpZY1gt?oc=5"
         }
       ]
     },
@@ -52,14 +52,14 @@
       ]
     },
     {
-      "id": "beac24fb62fe",
-      "title": "日本福岡爆「神秘感冒」 患者久咳喉痛卻非流感| 國際 - 中央社 CNA",
-      "published": "2026-05-22T14:18:00+00:00",
-      "summary": "日本福岡爆「神秘感冒」 患者久咳喉痛卻非流感| 國際&nbsp;&nbsp;中央社 CNA久咳喉痛非流感？！ 日本福岡爆「神祕感冒」 疾管署回應了&nbsp;&nbsp;Yahoo新聞日本爆不明呼吸道感染 疾管署：目前不像新型疫情、無旅遊警示規劃&nbsp;&nbsp;自由健康網日本爆神秘感冒 疾管署詢日方、籲民眾落實防疫&nbsp;&nbsp;rti.org.tw福岡爆「神秘感冒」引熱議 疾管署致函日方盼釐清致病原&nbsp;&nbsp;ETtoday健康雲",
+      "id": "987230a61650",
+      "title": "科學人／不只漢他病毒！這類病毒更容易引發大流行研究曝關鍵風險| 放學微素養| 文教 - UDN",
+      "published": "2026-05-23T00:00:57+00:00",
+      "summary": "科學人／不只漢他病毒！這類病毒更容易引發大流行研究曝關鍵風險| 放學微素養| 文教&nbsp;&nbsp;UDN",
       "sources": [
         {
-          "name": "中央社 CNA",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DbUZMTGtTN2hvclNRMXIyYmYxZmpQcTFiMGF2bnRZNV9tQVBiUFR5MkdBUXBGUWsxV3R6cTBfd0diVXY5Ym93bVVVZlRkUkZOa3AwNnpmbURHQUVlZFU0?oc=5"
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVcnd2OWRPNHFOTHUzaTQxcGhrdTA4enZJam5Vb1VPY1hqZS1oWXB4LVFWdWROYTJURnRaY1JJY2VKdDBIRkpsUU55Y2h4RXNr?oc=5"
         }
       ]
     },
@@ -76,18 +76,6 @@
       ]
     },
     {
-      "id": "ee9856ab7932",
-      "title": "兒童糖尿病篩檢不可少！研究揭維他命D與鈣片防骨折效果有限 - 民視新聞網",
-      "published": "2026-05-22T11:26:36+00:00",
-      "summary": "兒童糖尿病篩檢不可少！研究揭維他命D與鈣片防骨折效果有限&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90M3JkMkdxLWxtZzl5R3FKY3pSTmdpZnl0N2czVmhUVnNMdGpkYVMxZnpJbk9fUS1RSU9ER0tZbXNMX2tzalpfWl9sZUh6ajZHdGRVZDlMNlBENjd4RXFpRA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e97b1511c28f",
       "title": "中年女性減肥好難！新研究揭最佳飲食法掌握2重點就行- 國際 - 中時新聞網",
       "published": "2026-05-22T15:20:10+00:00",
@@ -96,6 +84,18 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jYU10TXgyRXpmYnVyaEF2bTlCVVl0ckM1ekpXcHBZNzY4VGFqYlp6dGRxMi1oV2llYjdyOEdyX3FPUWZYX2ZWRWRycUtpTHVWRHZnWDhkeTNVRzVuempvekdJbFh0QXNuM0ZuN19R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ee9856ab7932",
+      "title": "兒童糖尿病篩檢不可少！研究揭維他命D與鈣片防骨折效果有限 - 民視新聞網",
+      "published": "2026-05-22T11:26:36+00:00",
+      "summary": "兒童糖尿病篩檢不可少！研究揭維他命D與鈣片防骨折效果有限&nbsp;&nbsp;民視新聞網",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90M3JkMkdxLWxtZzl5R3FKY3pSTmdpZnl0N2czVmhUVnNMdGpkYVMxZnpJbk9fUS1RSU9ER0tZbXNMX2tzalpfWl9sZUh6ajZHdGRVZDlMNlBENjd4RXFpRA?oc=5"
         }
       ]
     },
@@ -112,18 +112,6 @@
       ]
     },
     {
-      "id": "63306b96b469",
-      "title": "優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險| 世界萬象| 全球 - UDN",
-      "published": "2026-05-22T12:47:50+00:00",
-      "summary": "優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險| 世界萬象| 全球&nbsp;&nbsp;UDN名醫苦勸：這些食物不要碰！小心害得糖尿病、腎臟病 很多人天天吃&nbsp;&nbsp;Yahoo新聞法國新研究：常見食品防腐劑恐增高血壓及心臟病風險&nbsp;&nbsp;蕃新聞成日食加工食品唔止增患癌風險？研究揭6種防腐劑陷阱 這1種最易被忽略&nbsp;&nbsp;星島頭條心臟外科醫生提醒！這5類食物最好少吃：追劇標配竟是健康殺手&nbsp;&nbsp;祝你健康",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94c1NmRFZoeTg3RV9rbEw1RDJFalVvYTVIWm9QaXNicl9TTkh4SmZwaEI5cEtrQ2NtNzBDMC1ycDJVUmJkTlhwYXFmR2t2MFQ2NVFlWWV2ckZXRXlFZDRhNjBRSUdFODI4UDdiUWlmWnhNLURfcjNRQkxCOA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d07980379f81",
       "title": "不要再說「是你想太多」！醫師：自覺記性變差，失智風險高4.5倍 - 元氣網",
       "published": "2026-05-22T03:25:00+00:00",
@@ -132,6 +120,18 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5Y29qTlBWNnE3UFRZTEg2VzJxWXZweEtadEJFTWVXU3REaTBYWlpuN1psZ3QwZkF1YXRWWnRiNXhyWjFISnRVS3FndndJYUtXcXFnazhvb2U4eG92aDRn0gFkQVVfeXFMT2FjeGVVVXZoeVRLZ0d4OGZHdm41YkJXUDU3WTRnOHRuQVVIWGowVGdFenZmalZHNUdpRUw4V0VmS1BnMmZqRW1CZko1ZHpWd1lybGpJWDNEVUpXNThYc0c5NjhGVg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6fb345d141e7",
+      "title": "科學家警告說，目前的維生素 B12 使用指南可能會讓您的大腦面臨風險。 - arch-web.com.tw",
+      "published": "2026-05-22T12:57:00+00:00",
+      "summary": "科學家警告說，目前的維生素 B12 使用指南可能會讓您的大腦面臨風險。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPbENoRlc2cWtPZ0o5ZUNwOC03T19vak8zUUY1Z1djUjFmRDNlYWF6ZkIwRlVzVU1wdkxMMXVPbXYwN0laM3NwS2tQWERVNktpME1zb0d0cGhOUkl6YkxzRDdPT2YyVWFNNmpZNlpoanl5WXBNMksxNENMTVo0X0ZGN0gyV0Q5US1LQUdCd3AwbFJjblB2QUxvSTVNQ3hPNzdlRGNnSmtwSHJMNXl2LTZ4OWU5QWVsb2pEeVgxZUcyb3FvMkNYR1Q2aWh0bE9fQ2dBYnNKRGRKUmpuckdYUFVDT3BOTld2Ukp3S1NIV0Z2V3kwVm9jTDhCQmFEcThMeEkwMjNnZEFPTDJRU1NreVVWQ3RHVzZQa3EyV2dBa3ZmMWpQb2k2cmFsM1ZJb095TXNyOUdNTEhkYVZkZGEycHJJVUxvMjhiVXRPeVN3dHlkb2lkeGFFYmVmSnc4THctOThialcxVWdPcXc2TmdsYUZmVC1aSERzNjJnRUMzb3VoU0Y?oc=5"
         }
       ]
     },
@@ -172,6 +172,30 @@
       ]
     },
     {
+      "id": "aee6d844a8d9",
+      "title": "科學家發現老化過程的兩個階段可能導致癌症和關節炎。 - arch-web.com.tw",
+      "published": "2026-05-22T05:40:06+00:00",
+      "summary": "科學家發現老化過程的兩個階段可能導致癌症和關節炎。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQVWQtejd4OU9hbkFMOXhQRFRPVTF2cmNxdl9Ic3RZd0pNNkhWSWNfa3VmZDNHem5raFNSekZPWVVZX1gyM2pSbXlkTzZBbUZDWTktODJEUlZHUXM5SU5kS21vTzZ6NGoyZUdLS3NjUzdmaW9DWk9Fd19WM2kwWDdnb2NOSDFYcHVQUXdJUXdxQ2lvWG9VQUJPYV8zZ3hfMGd3ZkFIS3hCU0ZJQ0MwMVEzZU5LcUVVVlY3Y21MNkdOTTFPU05sLXhhS2t6eVZYRWh0QnlDdVlLN2d6UnpkclExRFRaUG9Wc0xENjB4WlljT2xtQV9rTTFXUnZxUVU2VmJ3WEs0OVVqZmliYzY3clZvbHZmOVF1Y2RCNjRmS0xPZEUxR3hSQ2VWcDZtaTF5S0NmT3BVazJ1c2dwbWJ0YjJVdHZMWFF6OFNfWUpIRW9rYk52MXcyVWVONzhCOHJaREdKUkdhSVpkMnZaWkMtM0RqakdOZVhmLWtiNHVyX2ZiX08tYnRnMVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c056e13da7f9",
+      "title": "歐洲的淋病和梅毒正在飆升——而這個國家的感染人數增幅最高 - arch-web.com.tw",
+      "published": "2026-05-22T04:26:23+00:00",
+      "summary": "歐洲的淋病和梅毒正在飆升——而這個國家的感染人數增幅最高&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNTUthTWVONlNrYjVtT2Q0VENqa1pDcGt6X2ROeDJaNXpUY2R6V2JubjFBV0M0OUFWRmkyQTdvdDFOQmdWR1Uwc2RoOXpuQWlOa0dXLXFmd2tPNS13MDNkZHR6WVhQek9ZYVR2cldLXzY0WnZvQjZWZHNVbGJYTEFERHdsLTZKdzNmWEpRbEZhVTVmdU51Z0hLNlJTelRMVFBXSkgzUUpOTmpaWG52Tk1abWFGbG5CTXpaQWtUTmdKUUVEV2FtbEVlM3BCQ1Q4ejFxSUd5aGM2dUhIQ1FDMWdkRnJIN1N0Y1dQTUxwaWJDbUJVZmlCMGhSdmJvVDk3Ulk3anZOZnBqWllLUGhMbDJ2cEFKT2RidFAwY3Z1RzJ1RC16dmhOUWVnU3dnTklkeFZYRGxNOUotN2pfUW42azJoTWw5RHNVZW9TQTBTekcyUUhMSEVXX1hZRDRuT0ZPdS1yRzR4RllVT0NhZ3lmcjdN?oc=5"
+        }
+      ]
+    },
+    {
       "id": "12fe8eb1e0c4",
       "title": "出生就有心雜音竟是心室中膈缺損 微創導管術助女童恢復活力 - Yahoo新聞",
       "published": "2026-05-22T08:00:00+00:00",
@@ -192,6 +216,18 @@
         {
           "name": "ENN台灣電報",
           "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE05SFBYRGNLOHVYX1hNRXBFbi03UmEyNXJ0dVRyUjJhdldEU2dHZmozWlg0QlpjUEllSVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9110297b4f1c",
+      "title": "科學家發現數百種癌症突變共有的隱藏弱點 - arch-web.com.tw",
+      "published": "2026-05-21T14:51:22+00:00",
+      "summary": "科學家發現數百種癌症突變共有的隱藏弱點&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQSldyb0hEdElMUjRwRkJJMUhaLUJtaFFMdDVNdzhwNzlyWWhzRW1nRnZMZGwxNUJ3THJIeXB0MEs0WVdlN0xRVkpBdUNUaWlNTVVGWmNfcm9sQjRHOU1CMkpzS1hDVEJNa1RRcXdYc0xtWmZNV3V4QTRLVGtCMzVxQ3NqS3UyQkNfYVJ0QWZ4aTdwS3B4aVJzc3NlTUVZU215TmZYUmVGWU9QTFY2V1dQdmRlSHcyZTNjLXFqbmFUWnk1R0xYemZWSlZnY0R5ZWtUM1FrR3ZVdWZZSGFGeEttamFYWWRoel93dkJOaXBac2E4MmhNRUNfZndrMlp3ekdYRWN6UjltMDZlbndjdU5vM0dUMENHVjhLWTRhT1F5dGlnc2EzSmh0WDlQbFdUYXhKOHFfMzRkTk5LSUI0WTBWemRUbjR5WnFsX1NiT2xaeXNWZjFaUkdTWHpxUjBYYXNzUnc?oc=5"
         }
       ]
     },
@@ -228,6 +264,18 @@
         {
           "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNVmpJblRIYnNtMTVuX1RJUnl0SWF0Z21VcmNLcnlLQTVNS3djSWNDWVBMdEx0Slh2SWU3ckc3VU9XUzlYZklVbmNFSXVhVm0tZGREeXFhY2hIUGVYaTlnRTZVdGMwNWVOX3Y0V1VwZkJGUjZWX2hTTk1sRjEtRmFLNDg4Q1lHVDBjRG1PRzJoaDRkWndHMFM1RUlYQnFmWjZHaDNtSzltcldnejdRM3hHNVBBeXdCZWJMVXVCTWZXOElRdmhhWjZJdm9yM1RSTHlJajcyeUp4SGFtUzNUOExQamNOTV9sRFh0dXY3NncwOGZ6X0w0YlJjSmI1Rm1PV05xejQxUElFLUFCZXp0N2NYd3VTRm10aEc0UEJURG9YSnQtYkNTWWFfUGlXMHBUS0ZBc3JRVXNRRUx1aGVqcnFPd2NFWjVYcFRRRkFMZlIyc2F6WmlmX2hnT2ZXUWx5RnNTNHBSMVhR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8e8929d08d8c",
+      "title": "Wegovy 等流行減肥藥可能針對關節炎炎症 - arch-web.com.tw",
+      "published": "2026-05-22T07:38:29+00:00",
+      "summary": "Wegovy 等流行減肥藥可能針對關節炎炎症&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPSENrOXdpRVZFUnZTNEgtejg5YXdTN3Njdkl0VnVlYkk4ZkVINTYyZlZaTXN6b3FWZXdFbDNfQ29RM0dncndkVDdrTGNvTUduamQxZW9wM1VWQ0tUaFBURUJTMVFtNnA1UzMzRl9FS1ZRM2VFNFRfS0Mtdy1VR0h5NTh5ZXBCdzk5ZjU3a0hMVkU0eldZSG44U0VqS245ZlVTbi1zZGdWTjhTZ3JuMUZLTE9nZVN6LWRsMXVqMGVWTnVCRXhzSmcxcTFDV0dCcEY5azRxMlpHeDlLWnQxd0NKV1NhMXVvUTBHWlZYVFV2cEpodnRGTFpYNjVqWm9BVjlvZUQ1Y21pc0lpMHJ3MmlrVUlPLVlPZFN2N1JVdUw4eTFSOTlJQ29MWlEzQ1BmTTdabFVtdXFWblJaS2c?oc=5"
         }
       ]
     }

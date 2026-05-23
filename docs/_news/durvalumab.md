@@ -14,7 +14,7 @@ permalink: /news/durvalumab/
 ---
 
 <p class="key-answer" data-question="Durvalumab 有什麼相關新聞？">
-<strong>Durvalumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Durvalumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/durvalumab/
 <p><a href="{{ '/drugs/durvalumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
 
 ### [年輕人快速增加的癌症是「它」！跨國權威研究：女性甲狀腺癌發病率僅次於乳癌](https://news.google.com/rss/articles/CBMi1wNBVV95cUxOTzdQNndiSkQ2NElRZ3Vtd0hHVFdUZTVoRkxSRU9oM3dyV1Q3UXFoWnl6bmQ0QmFRMmxONlBZZk4zMHVBd0lheExzQXhLWnVyaURMWjRfNzdaMU11eUVvblA5UlVPalJVWUg1VlpsM1BMVjVMLTV3a0FZRmZQbktBekxHTXBvdWNPeVY3c0FfbmVQUmtUV0pqZWYwVUo0UUgwU29sbGNlYTJBQzlWcE9PeURSSEVhWnlYWThxb3E5OWd2UkZYTjlQY0I5bnBEcl9EcG1ncmo5Z1lJbF95eExHNXRnTUF0NUZSNl96UGhxZU9Fb2J4MzJpMVU1WnB6OTQwWEFTT3Awd1BYc2lDN2RIT2dKYjFJYV95Si1EQm50cEhpcjc2Qk45d0FldjR0bTZRdUxneE9aUjVZZTEwTTRfMHdGZXNDay1DTkdkdjQ1dlNKVGc4amxCbUZfUC1LNmZmWGRvbVFkWFRJQVFSYzdMNFJIVE9jaUVFNDBRc3hjU1RGUEVoOENRLXNsdHo3TURpUTNfcjlob1Ixb2FuaDFiOXVnWV9qN0RBV09iYVBXUjFRWmExak9UelBPVjRTYzNpcEtCSks2OWxqR3F2bTBWMjFoQTIwTVk?oc=5)
 
@@ -57,6 +57,22 @@ permalink: /news/durvalumab/
 2026-05-22 <span class="news-indication-tag">癌症</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1qTHJraGFWdzZlWjQ1SG1OTEtwR1NlbXNHQkJVa2V2VEtFRmhnajluaU5WRVBLR3A1Z1FhMmY4dlktcm4xOUM1Ymh6RzhldWlnU0x5ZENQX0s2VzlXa3d6dERmaWxTeTRvVVE5dF9n?oc=5)
+
+---
+
+### [科學家發現老化過程的兩個階段可能導致癌症和關節炎。](https://news.google.com/rss/articles/CBMihgNBVV95cUxQVWQtejd4OU9hbkFMOXhQRFRPVTF2cmNxdl9Ic3RZd0pNNkhWSWNfa3VmZDNHem5raFNSekZPWVVZX1gyM2pSbXlkTzZBbUZDWTktODJEUlZHUXM5SU5kS21vTzZ6NGoyZUdLS3NjUzdmaW9DWk9Fd19WM2kwWDdnb2NOSDFYcHVQUXdJUXdxQ2lvWG9VQUJPYV8zZ3hfMGd3ZkFIS3hCU0ZJQ0MwMVEzZU5LcUVVVlY3Y21MNkdOTTFPU05sLXhhS2t6eVZYRWh0QnlDdVlLN2d6UnpkclExRFRaUG9Wc0xENjB4WlljT2xtQV9rTTFXUnZxUVU2VmJ3WEs0OVVqZmliYzY3clZvbHZmOVF1Y2RCNjRmS0xPZEUxR3hSQ2VWcDZtaTF5S0NmT3BVazJ1c2dwbWJ0YjJVdHZMWFF6OFNfWUpIRW9rYk52MXcyVWVONzhCOHJaREdKUkdhSVpkMnZaWkMtM0RqakdOZVhmLWtiNHVyX2ZiX08tYnRnMVE?oc=5)
+
+2026-05-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">關節炎</span>
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihgNBVV95cUxQVWQtejd4OU9hbkFMOXhQRFRPVTF2cmNxdl9Ic3RZd0pNNkhWSWNfa3VmZDNHem5raFNSekZPWVVZX1gyM2pSbXlkTzZBbUZDWTktODJEUlZHUXM5SU5kS21vTzZ6NGoyZUdLS3NjUzdmaW9DWk9Fd19WM2kwWDdnb2NOSDFYcHVQUXdJUXdxQ2lvWG9VQUJPYV8zZ3hfMGd3ZkFIS3hCU0ZJQ0MwMVEzZU5LcUVVVlY3Y21MNkdOTTFPU05sLXhhS2t6eVZYRWh0QnlDdVlLN2d6UnpkclExRFRaUG9Wc0xENjB4WlljT2xtQV9rTTFXUnZxUVU2VmJ3WEs0OVVqZmliYzY3clZvbHZmOVF1Y2RCNjRmS0xPZEUxR3hSQ2VWcDZtaTF5S0NmT3BVazJ1c2dwbWJ0YjJVdHZMWFF6OFNfWUpIRW9rYk52MXcyVWVONzhCOHJaREdKUkdhSVpkMnZaWkMtM0RqakdOZVhmLWtiNHVyX2ZiX08tYnRnMVE?oc=5)
+
+---
+
+### [科學家發現數百種癌症突變共有的隱藏弱點](https://news.google.com/rss/articles/CBMi4gJBVV95cUxQSldyb0hEdElMUjRwRkJJMUhaLUJtaFFMdDVNdzhwNzlyWWhzRW1nRnZMZGwxNUJ3THJIeXB0MEs0WVdlN0xRVkpBdUNUaWlNTVVGWmNfcm9sQjRHOU1CMkpzS1hDVEJNa1RRcXdYc0xtWmZNV3V4QTRLVGtCMzVxQ3NqS3UyQkNfYVJ0QWZ4aTdwS3B4aVJzc3NlTUVZU215TmZYUmVGWU9QTFY2V1dQdmRlSHcyZTNjLXFqbmFUWnk1R0xYemZWSlZnY0R5ZWtUM1FrR3ZVdWZZSGFGeEttamFYWWRoel93dkJOaXBac2E4MmhNRUNfZndrMlp3ekdYRWN6UjltMDZlbndjdU5vM0dUMENHVjhLWTRhT1F5dGlnc2EzSmh0WDlQbFdUYXhKOHFfMzRkTk5LSUI0WTBWemRUbjR5WnFsX1NiT2xaeXNWZjFaUkdTWHpxUjBYYXNzUnc?oc=5)
+
+2026-05-21 <span class="news-indication-tag">癌症</span>
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi4gJBVV95cUxQSldyb0hEdElMUjRwRkJJMUhaLUJtaFFMdDVNdzhwNzlyWWhzRW1nRnZMZGwxNUJ3THJIeXB0MEs0WVdlN0xRVkpBdUNUaWlNTVVGWmNfcm9sQjRHOU1CMkpzS1hDVEJNa1RRcXdYc0xtWmZNV3V4QTRLVGtCMzVxQ3NqS3UyQkNfYVJ0QWZ4aTdwS3B4aVJzc3NlTUVZU215TmZYUmVGWU9QTFY2V1dQdmRlSHcyZTNjLXFqbmFUWnk1R0xYemZWSlZnY0R5ZWtUM1FrR3ZVdWZZSGFGeEttamFYWWRoel93dkJOaXBac2E4MmhNRUNfZndrMlp3ekdYRWN6UjltMDZlbndjdU5vM0dUMENHVjhLWTRhT1F5dGlnc2EzSmh0WDlQbFdUYXhKOHFfMzRkTk5LSUI0WTBWemRUbjR5WnFsX1NiT2xaeXNWZjFaUkdTWHpxUjBYYXNzUnc?oc=5)
 
 ---
 
