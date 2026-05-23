@@ -14,7 +14,7 @@ permalink: /news/milrinone/
 ---
 
 <p class="key-answer" data-question="Milrinone 有什麼相關新聞？">
-<strong>Milrinone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Milrinone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,9 +41,15 @@ permalink: /news/milrinone/
 <p><a href="{{ '/drugs/milrinone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險](https://news.google.com/rss/articles/CBMi0wJBVV95cUxOaVBrelVWOHFtS2pVOFJUak5PcmduN3VJUm1BR0VBV1pfUGtEZVoza1U3WDBzeDNSVDR6bkkxczZyMjVsSHhOQkRIejlEZ1RZS2R5bTRRT0lpZ0VqdXNZWXhORzNKRTl2czJGd0FSWkwzQnlMU1RUa2xGWkpPQjQ5dDRCRDJjTlNNdERaZExCQVhSVWE0RTV0TkhRcXZtS1dlemxxNmh2c09Qa01zZDl3bWtsVXpzWFRUM1FaVHY2RXdmbmM1b284XzhhTWVRTDRlUlBCWjhMdWhUYm01NWxpVlp2RXlONmpiUjRoVVE3SDVldEdLa3RoX2N0LWo4b21XZmdyMmtaUEttYnE4aU9MZXNJNnF0REN3dkJZU0RjekQtOU5NeEtNT3BVOTFUX3p0eC1LbS1KQnlkYU5nel81M2ozZk5SSEJvd1dWUGpmWk1Rc0U?oc=5)
+
+2026-05-22 <span class="news-indication-tag">心臟病</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi0wJBVV95cUxOaVBrelVWOHFtS2pVOFJUak5PcmduN3VJUm1BR0VBV1pfUGtEZVoza1U3WDBzeDNSVDR6bkkxczZyMjVsSHhOQkRIejlEZ1RZS2R5bTRRT0lpZ0VqdXNZWXhORzNKRTl2czJGd0FSWkwzQnlMU1RUa2xGWkpPQjQ5dDRCRDJjTlNNdERaZExCQVhSVWE0RTV0TkhRcXZtS1dlemxxNmh2c09Qa01zZDl3bWtsVXpzWFRUM1FaVHY2RXdmbmM1b284XzhhTWVRTDRlUlBCWjhMdWhUYm01NWxpVlp2RXlONmpiUjRoVVE3SDVldEdLa3RoX2N0LWo4b21XZmdyMmtaUEttYnE4aU9MZXNJNnF0REN3dkJZU0RjekQtOU5NeEtNT3BVOTFUX3p0eC1LbS1KQnlkYU5nel81M2ozZk5SSEJvd1dWUGpmWk1Rc0U?oc=5)
+
+---
 
 
 <div class="disclaimer">

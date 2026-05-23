@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-23T14:53:54.345844+00:00",
-  "count": 18,
+  "fetched_at": "2026-05-23T15:55:39.825861+00:00",
+  "count": 19,
   "news": [
     {
       "id": "4d97d105ea6c",
@@ -40,6 +40,30 @@
       ]
     },
     {
+      "id": "ee9856ab7932",
+      "title": "兒童糖尿病篩檢不可少！研究揭維他命D與鈣片防骨折效果有限 - 民視新聞網",
+      "published": "2026-05-22T11:26:36+00:00",
+      "summary": "兒童糖尿病篩檢不可少！研究揭維他命D與鈣片防骨折效果有限&nbsp;&nbsp;民視新聞網",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90M3JkMkdxLWxtZzl5R3FKY3pSTmdpZnl0N2czVmhUVnNMdGpkYVMxZnpJbk9fUS1RSU9ER0tZbXNMX2tzalpfWl9sZUh6ajZHdGRVZDlMNlBENjd4RXFpRA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c94df5375be0",
+      "title": "女生「1時期」變胖速度翻倍！醫示警：乳癌風險恐增12% - Yahoo新聞",
+      "published": "2026-05-22T09:14:00+00:00",
+      "summary": "女生「1時期」變胖速度翻倍！醫示警：乳癌風險恐增12%&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPTzk5RjRlRm5DcDBUcEZyVzN1Y0FmdlgxZDNXZG54NkYzWDlQT3NYbTZaX0xSWlVaZ2NpNFJlS2FoQm9meVUySkhaZm1KQ19uSjdvdlpHSS1IbG9LalplUFV2UllkcmdLa2FzMzlkUEszYkN0bTNXVXF3TzZrN3NtNWs2dF9IVDNkUExRSDdicGVyazkyRDByYjFCX0E4Y29rWFlEWGZJZWNsX2w1V0RqUXBuZ0lpbkpwUWdRcnQzSy1Dd2hQX2xGOUpKTHpDbm1vcHY3dU1YbW56ZnM4aExXYkN1NUhLT01kbHVrOFFmSnJaYW1LMGlWZEdJdk1xNXRLYmZsR3lzaDR1b3dsMVBKcS1rU2M5eW1leXpBZ2R0TTExM0ZsMlZRSjRwS1hqSzNHM0ZDd192SWgycDFTakdYYw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0dd3b4715332",
       "title": "全球麻疹飆破47萬例 科學家首度破解人類抗體迎療法曙光 - 民報",
       "published": "2026-05-23T06:47:48+00:00",
@@ -48,18 +72,6 @@
         {
           "name": "民報",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56NmNpaHFUYmdnaEd3Zl9DUWtCelRYdDktZUVuUHhXUnBaRGhteDdnTVg2YlY0ZjlURVR6dm1SajV1dEVGT1lOeTJ2QWRYYXdpMWpJZm9ZaWxxUDMydjloUg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7b724fff7b26",
-      "title": "女生「1時期」變胖速度翻倍！醫示警：乳癌風險恐增12% - 祝你健康",
-      "published": "2026-05-22T09:09:25+00:00",
-      "summary": "女生「1時期」變胖速度翻倍！醫示警：乳癌風險恐增12%&nbsp;&nbsp;祝你健康更年期褲子愈穿愈緊？頂尖期刊曝：更年期BMI「多這數字」小心乳癌&nbsp;&nbsp;TVBS 健康2.0腰圍比體重更重要！營養師曝防癌7關鍵：多吃這兩樣終結癌火&nbsp;&nbsp;早安健康吳芮醫生看我們與腹腰部脂肪疾病的距離&nbsp;&nbsp;報新聞肥胖，真的會增加乳癌風險嗎？深入解析體內悄悄進行的變化| 照護線上-深受信賴的醫療媒體&nbsp;&nbsp;careonline.com.tw",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uR0dYUjdmRHV0LW5ETzNfZGthN3RfdjhpM1hoZnFjZERySm1JQlp4UmE1OVR0V2s4UTgxSnNqY1FyQ2MyTTRLcmRpQl8?oc=5"
         }
       ]
     },
@@ -88,14 +100,14 @@
       ]
     },
     {
-      "id": "ee9856ab7932",
-      "title": "兒童糖尿病篩檢不可少！研究揭維他命D與鈣片防骨折效果有限 - 民視新聞網",
-      "published": "2026-05-22T11:26:36+00:00",
-      "summary": "兒童糖尿病篩檢不可少！研究揭維他命D與鈣片防骨折效果有限&nbsp;&nbsp;民視新聞網",
+      "id": "285265cd10d5",
+      "title": "優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險 - Yahoo新聞",
+      "published": "2026-05-22T22:17:53+00:00",
+      "summary": "優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90M3JkMkdxLWxtZzl5R3FKY3pSTmdpZnl0N2czVmhUVnNMdGpkYVMxZnpJbk9fUS1RSU9ER0tZbXNMX2tzalpfWl9sZUh6ajZHdGRVZDlMNlBENjd4RXFpRA?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOaVBrelVWOHFtS2pVOFJUak5PcmduN3VJUm1BR0VBV1pfUGtEZVoza1U3WDBzeDNSVDR6bkkxczZyMjVsSHhOQkRIejlEZ1RZS2R5bTRRT0lpZ0VqdXNZWXhORzNKRTl2czJGd0FSWkwzQnlMU1RUa2xGWkpPQjQ5dDRCRDJjTlNNdERaZExCQVhSVWE0RTV0TkhRcXZtS1dlemxxNmh2c09Qa01zZDl3bWtsVXpzWFRUM1FaVHY2RXdmbmM1b284XzhhTWVRTDRlUlBCWjhMdWhUYm01NWxpVlp2RXlONmpiUjRoVVE3SDVldEdLa3RoX2N0LWo4b21XZmdyMmtaUEttYnE4aU9MZXNJNnF0REN3dkJZU0RjekQtOU5NeEtNT3BVOTFUX3p0eC1LbS1KQnlkYU5nel81M2ozZk5SSEJvd1dWUGpmWk1Rc0U?oc=5"
         }
       ]
     },
