@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [不要再說「是你想太多」！醫師：自覺記性變差，失智風險高4.5倍](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5Y29qTlBWNnE3UFRZTEg2VzJxWXZweEtadEJFTWVXU3REaTBYWlpuN1psZ3QwZkF1YXRWWnRiNXhyWjFISnRVS3FndndJYUtXcXFnazhvb2U4eG92aDRn0gFkQVVfeXFMT2FjeGVVVXZoeVRLZ0d4OGZHdm41YkJXUDU3WTRnOHRuQVVIWGowVGdFenZmalZHNUdpRUw4V0VmS1BnMmZqRW1CZko1ZHpWd1lybGpJWDNEVUpXNThYc0c5NjhGVg?oc=5)
 
 2026-05-22
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5Y29qTlBWNnE3UFRZTEg2VzJxWXZweEtadEJFTWVXU3REaTBYWlpuN1psZ3QwZkF1YXRWWnRiNXhyWjFISnRVS3FndndJYUtXcXFnazhvb2U4eG92aDRn0gFkQVVfeXFMT2FjeGVVVXZoeVRLZ0d4OGZHdm41YkJXUDU3WTRnOHRuQVVIWGowVGdFenZmalZHNUdpRUw4V0VmS1BnMmZqRW1CZko1ZHpWd1lybGpJWDNEVUpXNThYc0c5NjhGVg?oc=5)
-
----
-
-### [《阿茲海默症》阿茲海默症逆轉現曙光？跨國研究開發奈米「超分子藥物」重啟大腦排毒機制，長效逆轉高齡失智小鼠認知功能](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScEtQazE0am9ra1VuVTB5LWNvOVhJOFRQNnBCMjNrcFQ3RjBLVjFVdWdfbmxBNVQydUZ1dE5CaElHeVZiVnRZV2hMdWI4akpHdktjRkw1N2RvSER1TGJyY0JZNVAya3B4S3BBVA?oc=5)
-
-2026-05-21
-
-來源：[genetinfo.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScEtQazE0am9ra1VuVTB5LWNvOVhJOFRQNnBCMjNrcFQ3RjBLVjFVdWdfbmxBNVQydUZ1dE5CaElHeVZiVnRZV2hMdWI4akpHdktjRkw1N2RvSER1TGJyY0JZNVAya3B4S3BBVA?oc=5)
 
 ---
 
