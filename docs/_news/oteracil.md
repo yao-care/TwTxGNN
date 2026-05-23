@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [大腸癌末期病患「改變心態」 癌細胞神奇消失！9年沒復發](https://news.google.com/rss/articles/CBMi4AJBVV95cUxORFk4UURYUXQ1Ti1ab09hWGJpTnNpVDNocDFDaVNFLU5NcUlhTWIzMDhhcnJIZ1ZzR3JoZ0JwVjUwQTFjNkZaQUpDNnZURFd2QXhmbm5VS1pIT0FXTG1LdVVZMFNfeEZLcnVaNGhndHdsaTNDeXQtcFdfcHFjTWhSQWI4c1hMbmMxOTlSSUFnZXVLd1Vndm1yZHBxZGd6SmZ0UDk5VG9zVjVvZHRQQnN4dU5FUEVNTEJNcUZQWWR4YnlLV0dadjJzRWhZOEZkd3JHQlhxRkFVTDQ2QlNuNy15aXhlNDNJalZ1N09Ldzk0RjBwTmVzWFlnbHFNdWFwbzhtLWk0R1Bka2hWU2xtMnlPcnpUYmJyLV9HbDhTQmlBclAtX3k4TWQwbW41YUhHbzh4anNXM3VxRzlwOG9FZ1lXWHRvSnVzRmxZanoyRHRZSzVTNWltNk9vZGtCY1ZVUF81?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/oteracil/
 2026-05-22 <span class="news-indication-tag">癌症</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1qTHJraGFWdzZlWjQ1SG1OTEtwR1NlbXNHQkJVa2V2VEtFRmhnajluaU5WRVBLR3A1Z1FhMmY4dlktcm4xOUM1Ymh6RzhldWlnU0x5ZENQX0s2VzlXa3d6dERmaWxTeTRvVVE5dF9n?oc=5)
-
----
-
-### [科學家發現老化過程的兩個階段可能導致癌症和關節炎。](https://news.google.com/rss/articles/CBMihgNBVV95cUxQVWQtejd4OU9hbkFMOXhQRFRPVTF2cmNxdl9Ic3RZd0pNNkhWSWNfa3VmZDNHem5raFNSekZPWVVZX1gyM2pSbXlkTzZBbUZDWTktODJEUlZHUXM5SU5kS21vTzZ6NGoyZUdLS3NjUzdmaW9DWk9Fd19WM2kwWDdnb2NOSDFYcHVQUXdJUXdxQ2lvWG9VQUJPYV8zZ3hfMGd3ZkFIS3hCU0ZJQ0MwMVEzZU5LcUVVVlY3Y21MNkdOTTFPU05sLXhhS2t6eVZYRWh0QnlDdVlLN2d6UnpkclExRFRaUG9Wc0xENjB4WlljT2xtQV9rTTFXUnZxUVU2VmJ3WEs0OVVqZmliYzY3clZvbHZmOVF1Y2RCNjRmS0xPZEUxR3hSQ2VWcDZtaTF5S0NmT3BVazJ1c2dwbWJ0YjJVdHZMWFF6OFNfWUpIRW9rYk52MXcyVWVONzhCOHJaREdKUkdhSVpkMnZaWkMtM0RqakdOZVhmLWtiNHVyX2ZiX08tYnRnMVE?oc=5)
-
-2026-05-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">關節炎</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihgNBVV95cUxQVWQtejd4OU9hbkFMOXhQRFRPVTF2cmNxdl9Ic3RZd0pNNkhWSWNfa3VmZDNHem5raFNSekZPWVVZX1gyM2pSbXlkTzZBbUZDWTktODJEUlZHUXM5SU5kS21vTzZ6NGoyZUdLS3NjUzdmaW9DWk9Fd19WM2kwWDdnb2NOSDFYcHVQUXdJUXdxQ2lvWG9VQUJPYV8zZ3hfMGd3ZkFIS3hCU0ZJQ0MwMVEzZU5LcUVVVlY3Y21MNkdOTTFPU05sLXhhS2t6eVZYRWh0QnlDdVlLN2d6UnpkclExRFRaUG9Wc0xENjB4WlljT2xtQV9rTTFXUnZxUVU2VmJ3WEs0OVVqZmliYzY3clZvbHZmOVF1Y2RCNjRmS0xPZEUxR3hSQ2VWcDZtaTF5S0NmT3BVazJ1c2dwbWJ0YjJVdHZMWFF6OFNfWUpIRW9rYk52MXcyVWVONzhCOHJaREdKUkdhSVpkMnZaWkMtM0RqakdOZVhmLWtiNHVyX2ZiX08tYnRnMVE?oc=5)
 
 ---
 

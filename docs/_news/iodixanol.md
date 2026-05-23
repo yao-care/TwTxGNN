@@ -14,7 +14,7 @@ permalink: /news/iodixanol/
 ---
 
 <p class="key-answer" data-question="Iodixanol 有什麼相關新聞？">
-<strong>Iodixanol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Iodixanol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,29 +29,15 @@ permalink: /news/iodixanol/
 <li><strong>預測適應症</strong>（3 個）：<ul>
 <li>osteoarthritis susceptibility（99.2%）</li>
 <li>osteoarthritis（99.1%）</li>
-<li class="indication-matched">rheumatoid arthritis（99.0%）<span class="indication-tag">📰 關節炎</span></li>
+<li>rheumatoid arthritis（99.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/iodixanol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Wegovy 等流行減肥藥可能針對關節炎炎症](https://news.google.com/rss/articles/CBMiuwJBVV95cUxPSENrOXdpRVZFUnZTNEgtejg5YXdTN3Njdkl0VnVlYkk4ZkVINTYyZlZaTXN6b3FWZXdFbDNfQ29RM0dncndkVDdrTGNvTUduamQxZW9wM1VWQ0tUaFBURUJTMVFtNnA1UzMzRl9FS1ZRM2VFNFRfS0Mtdy1VR0h5NTh5ZXBCdzk5ZjU3a0hMVkU0eldZSG44U0VqS245ZlVTbi1zZGdWTjhTZ3JuMUZLTE9nZVN6LWRsMXVqMGVWTnVCRXhzSmcxcTFDV0dCcEY5azRxMlpHeDlLWnQxd0NKV1NhMXVvUTBHWlZYVFV2cEpodnRGTFpYNjVqWm9BVjlvZUQ1Y21pc0lpMHJ3MmlrVUlPLVlPZFN2N1JVdUw4eTFSOTlJQ29MWlEzQ1BmTTdabFVtdXFWblJaS2c?oc=5)
-
-2026-05-22 <span class="news-indication-tag">關節炎</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMiuwJBVV95cUxPSENrOXdpRVZFUnZTNEgtejg5YXdTN3Njdkl0VnVlYkk4ZkVINTYyZlZaTXN6b3FWZXdFbDNfQ29RM0dncndkVDdrTGNvTUduamQxZW9wM1VWQ0tUaFBURUJTMVFtNnA1UzMzRl9FS1ZRM2VFNFRfS0Mtdy1VR0h5NTh5ZXBCdzk5ZjU3a0hMVkU0eldZSG44U0VqS245ZlVTbi1zZGdWTjhTZ3JuMUZLTE9nZVN6LWRsMXVqMGVWTnVCRXhzSmcxcTFDV0dCcEY5azRxMlpHeDlLWnQxd0NKV1NhMXVvUTBHWlZYVFV2cEpodnRGTFpYNjVqWm9BVjlvZUQ1Y21pc0lpMHJ3MmlrVUlPLVlPZFN2N1JVdUw4eTFSOTlJQ29MWlEzQ1BmTTdabFVtdXFWblJaS2c?oc=5)
-
----
-
-### [科學家發現老化過程的兩個階段可能導致癌症和關節炎。](https://news.google.com/rss/articles/CBMihgNBVV95cUxQVWQtejd4OU9hbkFMOXhQRFRPVTF2cmNxdl9Ic3RZd0pNNkhWSWNfa3VmZDNHem5raFNSekZPWVVZX1gyM2pSbXlkTzZBbUZDWTktODJEUlZHUXM5SU5kS21vTzZ6NGoyZUdLS3NjUzdmaW9DWk9Fd19WM2kwWDdnb2NOSDFYcHVQUXdJUXdxQ2lvWG9VQUJPYV8zZ3hfMGd3ZkFIS3hCU0ZJQ0MwMVEzZU5LcUVVVlY3Y21MNkdOTTFPU05sLXhhS2t6eVZYRWh0QnlDdVlLN2d6UnpkclExRFRaUG9Wc0xENjB4WlljT2xtQV9rTTFXUnZxUVU2VmJ3WEs0OVVqZmliYzY3clZvbHZmOVF1Y2RCNjRmS0xPZEUxR3hSQ2VWcDZtaTF5S0NmT3BVazJ1c2dwbWJ0YjJVdHZMWFF6OFNfWUpIRW9rYk52MXcyVWVONzhCOHJaREdKUkdhSVpkMnZaWkMtM0RqakdOZVhmLWtiNHVyX2ZiX08tYnRnMVE?oc=5)
-
-2026-05-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">關節炎</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihgNBVV95cUxQVWQtejd4OU9hbkFMOXhQRFRPVTF2cmNxdl9Ic3RZd0pNNkhWSWNfa3VmZDNHem5raFNSekZPWVVZX1gyM2pSbXlkTzZBbUZDWTktODJEUlZHUXM5SU5kS21vTzZ6NGoyZUdLS3NjUzdmaW9DWk9Fd19WM2kwWDdnb2NOSDFYcHVQUXdJUXdxQ2lvWG9VQUJPYV8zZ3hfMGd3ZkFIS3hCU0ZJQ0MwMVEzZU5LcUVVVlY3Y21MNkdOTTFPU05sLXhhS2t6eVZYRWh0QnlDdVlLN2d6UnpkclExRFRaUG9Wc0xENjB4WlljT2xtQV9rTTFXUnZxUVU2VmJ3WEs0OVVqZmliYzY3clZvbHZmOVF1Y2RCNjRmS0xPZEUxR3hSQ2VWcDZtaTF5S0NmT3BVazJ1c2dwbWJ0YjJVdHZMWFF6OFNfWUpIRW9rYk52MXcyVWVONzhCOHJaREdKUkdhSVpkMnZaWkMtM0RqakdOZVhmLWtiNHVyX2ZiX08tYnRnMVE?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
