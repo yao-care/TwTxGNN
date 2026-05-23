@@ -1,13 +1,270 @@
 {
-  "last_updated": "2026-05-22T23:02:27.711886+00:00",
-  "total_count": 18,
+  "last_updated": "2026-05-23T02:10:06.609875+00:00",
+  "total_count": 20,
   "matched_count": 5,
   "news": [
+    {
+      "id": "f8a04dee534d",
+      "title": "年輕人快速增加的癌症是「它」！跨國權威研究：女性甲狀腺癌發病率僅次於乳癌",
+      "published": "2026-05-23T00:01:05+00:00",
+      "summary": "年輕人快速增加的癌症是「它」！跨國權威研究：女性甲狀腺癌發病率僅次於乳癌&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOTzdQNndiSkQ2NElRZ3Vtd0hHVFdUZTVoRkxSRU9oM3dyV1Q3UXFoWnl6bmQ0QmFRMmxONlBZZk4zMHVBd0lheExzQXhLWnVyaURMWjRfNzdaMU11eUVvblA5UlVPalJVWUg1VlpsM1BMVjVMLTV3a0FZRmZQbktBekxHTXBvdWNPeVY3c0FfbmVQUmtUV0pqZWYwVUo0UUgwU29sbGNlYTJBQzlWcE9PeURSSEVhWnlYWThxb3E5OWd2UkZYTjlQY0I5bnBEcl9EcG1ncmo5Z1lJbF95eExHNXRnTUF0NUZSNl96UGhxZU9Fb2J4MzJpMVU1WnB6OTQwWEFTT3Awd1BYc2lDN2RIT2dKYjFJYV95Si1EQm50cEhpcjc2Qk45d0FldjR0bTZRdUxneE9aUjVZZTEwTTRfMHdGZXNDay1DTkdkdjQ1dlNKVGc4amxCbUZfUC1LNmZmWGRvbVFkWFRJQVFSYzdMNFJIVE9jaUVFNDBRc3hjU1RGUEVoOENRLXNsdHo3TURpUTNfcjlob1Ixb2FuaDFiOXVnWV9qN0RBV09iYVBXUjFRWmExak9UelBPVjRTYzNpcEtCSks2OWxqR3F2bTBWMjFoQTIwTVk?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "987230a61650",
+      "title": "科學人／不只漢他病毒！這類病毒更容易引發大流行研究曝關鍵風險| 放學微素養| 文教",
+      "published": "2026-05-23T00:00:57+00:00",
+      "summary": "科學人／不只漢他病毒！這類病毒更容易引發大流行研究曝關鍵風險| 放學微素養| 文教&nbsp;&nbsp;UDN",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVcnd2OWRPNHFOTHUzaTQxcGhrdTA4enZJam5Vb1VPY1hqZS1oWXB4LVFWdWROYTJURnRaY1JJY2VKdDBIRkpsUU55Y2h4RXNr?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "285265cd10d5",
       "title": "優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險",
       "published": "2026-05-22T22:17:53+00:00",
-      "summary": "優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險&nbsp;&nbsp;Yahoo新聞名醫苦勸：這些食物不要碰！小心害得糖尿病、腎臟病 很多人天天吃&nbsp;&nbsp;Yahoo新聞法國新研究：常見食品防腐劑恐增高血壓及心臟病風險&nbsp;&nbsp;蕃新聞優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險| 世界萬象| 全球&nbsp;&nbsp;udn成日食加工食品唔止增患癌風險？研究揭6種防腐劑陷阱 這1種最易被忽略&nbsp;&nbsp;星島頭條",
+      "summary": "優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險&nbsp;&nbsp;Yahoo新聞名醫苦勸：這些食物不要碰！小心害得糖尿病、腎臟病 很多人天天吃&nbsp;&nbsp;Yahoo新聞法國新研究：常見食品防腐劑恐增高血壓及心臟病風險&nbsp;&nbsp;蕃新聞優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險| 世界萬象| 全球&nbsp;&nbsp;UDN成日食加工食品唔止增患癌風險？研究揭6種防腐劑陷阱 這1種最易被忽略&nbsp;&nbsp;星島頭條",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -105,14 +362,53 @@
       "matched_keywords": []
     },
     {
-      "id": "beac24fb62fe",
-      "title": "日本福岡爆「神秘感冒」 患者久咳喉痛卻非流感| 國際 - 中央社 CNA",
-      "published": "2026-05-22T14:18:00+00:00",
-      "summary": "日本福岡爆「神秘感冒」 患者久咳喉痛卻非流感| 國際&nbsp;&nbsp;中央社 CNA日本爆發「神秘感冒」！喉嚨痛如刀割快篩卻陰性 東京也淪陷&nbsp;&nbsp;Yahoo新聞日本福岡爆「神秘感冒」 患者久咳喉痛卻非流感&nbsp;&nbsp;經濟日報討論牆 | 日本突爆「神秘感冒」！流感新冠皆陰性... 已從九州蔓延至東京&nbsp;&nbsp;LINE TODAY日本出現「神秘感冒」疫情！喉嚨如刀割 福岡蔓延到東京&nbsp;&nbsp;ETtoday新聞雲",
+      "id": "a431e4bc215f",
+      "title": "怕老人年紀大動手術撐不住？醫：「衰弱程度」也應列風險評估標準",
+      "published": "2026-05-22T12:00:00+00:00",
+      "summary": "怕老人年紀大動手術撐不住？醫：「衰弱程度」也應列風險評估標準&nbsp;&nbsp;健康醫療網",
       "sources": [
         {
-          "name": "中央社 CNA",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DbUZMTGtTN2hvclNRMXIyYmYxZmpQcTFiMGF2bnRZNV9tQVBiUFR5MkdBUXBGUWsxV3R6cTBfd0diVXY5Ym93bVVVZlRkUkZOa3AwNnpmbURHQUVlZFU0?oc=5"
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhMVZlNjB4S1ZWSks2cWFkcEFlZlVlQTJhVHNQZGhQUlE2SXRYVWRaSWVBSVU0bWFXLThlTXpLLXdsMmlpQmxHa25kaktFeWtJSDJ1dUR3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ee9856ab7932",
+      "title": "兒童糖尿病篩檢不可少！研究揭維他命D與鈣片防骨折效果有限",
+      "published": "2026-05-22T11:26:36+00:00",
+      "summary": "兒童糖尿病篩檢不可少！研究揭維他命D與鈣片防骨折效果有限&nbsp;&nbsp;民視新聞網",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90M3JkMkdxLWxtZzl5R3FKY3pSTmdpZnl0N2czVmhUVnNMdGpkYVMxZnpJbk9fUS1RSU9ER0tZbXNMX2tzalpfWl9sZUh6ajZHdGRVZDlMNlBENjd4RXFpRA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "12fe8eb1e0c4",
+      "title": "出生就有心雜音竟是心室中膈缺損 微創導管術助女童恢復活力",
+      "published": "2026-05-22T08:00:00+00:00",
+      "summary": "出生就有心雜音竟是心室中膈缺損 微創導管術助女童恢復活力&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxOZFAyWTJ3WHJNelo0bHp6RjROT3g2YTFwbFNMNnE4a3F4ejlpR2hHbXNfYWUwdnRrZklFeW9qSE5nQkFzaHFxNXcwOUlWbmJ0bHRjbVRpZU9TTlBqVHpXaUE0NTh2TFZZNThSYmxEc2JMR2lJTU5BcnN1UTUyX0E0VllmaWZqLWg2S0ozV2p2bGVaajUtbEliUER0N3NZMnJ1Mlh2dklKcUxfcjZyWDlJNFJkRXdZSXliRDgxODFpcVBJVC1UTWd2TVNlNFp6ZGFOcmM5RURGcnhwSWJSanFBYzQyb05aaTk2WkJ0R0h4dW8wRFpfWXdJcUlrTDRPNlpRMkdiSkdnbXQ5d3V5UDZrNWc5UjB4TVFwMU1jX0txV1NqbWhpeDNFWExxU2pNTHdYTmR0YUhrd3IyUlhQU2xHNEpPcHp0b0dLbGRsVHBfR2RnRDRWYmNEbEFMT2RPUTZKYWFUUXlBR01ycDFPRl8tdFFtTWhKbmNyWXFjanN1NlVwRnV3bUp1S1hiWE9iQllkX3h3RGZVTUo?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "956f6b92d94a",
+      "title": "日本突爆「神秘感冒」！流感新冠皆陰性... 已從九州蔓延至東京",
+      "published": "2026-05-22T05:53:33+00:00",
+      "summary": "日本突爆「神秘感冒」！流感新冠皆陰性... 已從九州蔓延至東京&nbsp;&nbsp;Yahoo新聞日本爆發「神秘感冒」！喉嚨痛如刀割快篩卻陰性 東京也淪陷&nbsp;&nbsp;Yahoo新聞討論牆 | 日本突爆「神秘感冒」！流感新冠皆陰性... 已從九州蔓延至東京&nbsp;&nbsp;LINE TODAY日本福岡爆「神秘感冒」 患者久咳喉痛卻非流感| 國際&nbsp;&nbsp;中央社 CNA日本出現「神秘感冒」疫情！喉嚨如刀割 福岡蔓延到東京&nbsp;&nbsp;ETtoday新聞雲",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNbGhmcUo0RXoyMkE0dTB1dTVueXdJQ3JoZTRucUVNR2M4RHg0dGp3ZVVCNjVmQjIzeU95STFGMDc1ZjR0YlpaX0tLRXozWFEwZThoRXF6ZEdMMjNWS21VSEZjTnRLaVFsa3h6OTB2endwTmNCNXlfSmlxeTYzdklBV240ZC1jSWk3Qlo5bE5HTTNKLXA2SW9SVWtpLW9UMFVkcUdVOVZ1Wk5xTFRkeFNLaDRZWjgxRFR0MnM1WHE0aUQxZXJHNUdWdHpXak1HNngwT1VZeW4ydFBNYnpQeTA5TFIydHljLUxoLUx0ZGFlZGZKMFFpeHloSkY0bUpLdVpiakkwX1padENpcTNjX2FiZTRJT2lGN3lnQzhYS3FsUG0xaU56SUZybFZQOGkxRExBejdsWmFxaXFocDh3S2xhSnZTQWNTRm5sYzRjdkMyVXhQRWVXWUtGakVkOFRPQ0M2Q1JicEVhUWFua1V4UVJnbmxvVzJMOHM?oc=5"
         }
       ],
       "matched_keywords": [
@@ -128,32 +424,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "a431e4bc215f",
-      "title": "怕老人年紀大動手術撐不住？醫：「衰弱程度」也應列風險評估標準",
-      "published": "2026-05-22T12:00:00+00:00",
-      "summary": "怕老人年紀大動手術撐不住？醫：「衰弱程度」也應列風險評估標準&nbsp;&nbsp;健康醫療網",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhMVZlNjB4S1ZWSks2cWFkcEFlZlVlQTJhVHNQZGhQUlE2SXRYVWRaSWVBSVU0bWFXLThlTXpLLXdsMmlpQmxHa25kaktFeWtJSDJ1dUR3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "19ccc0b5126e",
-      "title": "出生就有心雜音竟是心室中膈缺損 微創導管術助女童恢復活力 - PChome Online 新聞",
-      "published": "2026-05-22T08:00:00+00:00",
-      "summary": "出生就有心雜音竟是心室中膈缺損 微創導管術助女童恢復活力&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1hYcWxFc0JQSW1sdEJMZlY3RWZUUGx3QWJwMkVZMXJDc2hTNkNrU1oyaVVldDBnX1Z0Q1dpRW00NWJtY2lRcG9mNG05Ql80Vld3c0Y2TVRzem5CWmhiLWV6T21zSW9ZRUhfT3JtMFd1UnRRTzlQNm13R1IzOWhkWTJlOWx4UHlDX0lVbFh2TlZ2NjA?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "3201f4284817",
@@ -194,13 +464,13 @@
       ]
     },
     {
-      "id": "433d9813b8d1",
+      "id": "dc286c35945a",
       "title": "科幻走入現實？中美英聯手研發「DNA機器人」 穿梭血管精準殲滅癌細胞",
       "published": "2026-05-22T02:20:45+00:00",
-      "summary": "科幻走入現實？中美英聯手研發「DNA機器人」 穿梭血管精準殲滅癌細胞&nbsp;&nbsp;bastillepost.com",
+      "summary": "科幻走入現實？中美英聯手研發「DNA機器人」 穿梭血管精準殲滅癌細胞&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNVmpJblRIYnNtMTVuX1RJUnl0SWF0Z21VcmNLcnlLQTVNS3djSWNDWVBMdEx0Slh2SWU3ckc3VU9XUzlYZklVbmNFSXVhVm0tZGREeXFhY2hIUGVYaTlnRTZVdGMwNWVOX3Y0V1VwZkJGUjZWX2hTTk1sRjEtRmFLNDg4Q1lHVDBjRG1PRzJoaDRkWndHMFM1RUlYQnFmWjZHaDNtSzltcldnejdRM3hHNVBBeXdCZWJMVXVCTWZXOElRdmhhWjZJdm9yM1RSTHlJajcyeUp4SGFtUzNUOExQamNOTV9sRFh0dXY3NncwOGZ6X0w0YlJjSmI1Rm1PV05xejQxUElFLUFCZXp0N2NYd3VTRm10aEc0UEJURG9YSnQtYkNTWWFfUGlXMHBUS0ZBc3JRVXNRRUx1aGVqcnFPd2NFWjVYcFRRRkFMZlIyc2F6WmlmX2hnT2ZXUWx5RnNTNHBSMVhR?oc=5"
         }
       ],
@@ -295,14 +565,14 @@
       "matched_keywords": []
     },
     {
-      "id": "5f2fb651ab34",
+      "id": "a409653cac6d",
       "title": "坐公廁馬桶怕得菜花？醫曝「真正危險3處」 不是馬桶坐墊",
-      "published": "2026-05-21T07:09:37+00:00",
-      "summary": "坐公廁馬桶怕得菜花？醫曝「真正危險3處」 不是馬桶坐墊&nbsp;&nbsp;Yahoo新聞",
+      "published": "2026-05-21T07:00:02+00:00",
+      "summary": "坐公廁馬桶怕得菜花？醫曝「真正危險3處」 不是馬桶坐墊&nbsp;&nbsp;台視新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPQzBsMDJNMU1VTm1LaXVMX0N6bWNIUFNKWXl0UmdHRnBmUTF1cHJhS0FQME5GeFp4OU5nZjJ1OWRSUzRGNXNPSlMwQk92OHNRNTJyZ2Q1WlV5aW1QbFhBR3JzOEFET290WUNpZEdvWS1feHJCLXI5N2gzelRETlVvU19kN1puR2JzNlhDNmlxSVlDeGx5NENkSUxzekc3VHhUZEZpWWItV3U5Y2lacUVLUUEzZ29zQ010SzBvd3FNTEIwSU84dll0VEhlRThGaGdaSGhUMUo3cHNGMDAzSGNzMW1ORUVsZGZGVHJiWVZhNm82cjRKMnJwVk01VDF4VTBrV2s2Mk9PemJFb2ZQTzl1V3FfMk5MYldlalV3TlY3akZYYVQ3LXFRWF9vc1hhcmJYaFdodC1oUmc3aENUSlNmanZCbjNpYVJWek5QMWl5a3M4WjgyQ2pUM1VZSi0wblQyRUpZNkhmSmdNRU1vdXFoS3UxSUVaeUlISW1XdG1ReFFVZw?oc=5"
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yM2R6Y1BvVGVQeHVyc1pKUUZhOC1Kd2duZUlVaE9VWXNPWXppemxDVWl4dmJiVlRyaVlSUGdjSGlWakZXT3NzRVZlaElpbjRXRjRyVENSZw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -332,31 +602,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "38fbf0a2e385",
-      "title": "照護線上》給寶寶的第一份見面禮，呼吸道細胞融合病毒（RSV）長效型單株抗體「出生即防護」策略解析，專科醫師圖文懶人包",
-      "published": "2026-05-21T00:00:00+00:00",
-      "summary": "照護線上》給寶寶的第一份見面禮，呼吸道細胞融合病毒（RSV）長效型單株抗體「出生即防護」策略解析，專科醫師圖文懶人包&nbsp;&nbsp;自由評論網【醫生專欄】認識 RSV 預防性抗體 | 為嬰兒多一層即時防護&nbsp;&nbsp;UHK 港生活比流感住院率高16倍！營養師揭「這病」常被當感冒：惡化恐進ICU&nbsp;&nbsp;TVBS新聞網1病毒比流感更兇！營養師示警「重症率高出16倍」 4類人要小心 | 三立新聞網&nbsp;&nbsp;LINE TODAY比流感更兇的病毒！呼吸道融合病毒RSV&nbsp;&nbsp;品觀點",
-      "sources": [
-        {
-          "name": "自由評論網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iWlJjVS12MUJlQ0Y0ZmlaWENrS3FuYy0tYlN3NUY0UDlkaURoRWNtWDhLVkNSWnowbDNlT3BCcVdDRkNObTBmczdhV0VQd0d5TjJrN3B3Q25QS1VfTFZrZXJR0gFnQVVfeXFMTk5hWndjeUQ1TjY0SXF2V2t1eWJFcWUtYzdreDlEdzZmOG5VZlhsR1FqcWROVjRvU0lCT3hwNVFIRFduNkZieEllaS1PNk0xS0tGS0pQLWtmQk56Qk5mdHVDUFdHZmNaNA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "554d4b56a4a9",

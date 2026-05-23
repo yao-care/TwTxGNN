@@ -3,7 +3,7 @@ layout: default
 title: "感冒（common cold） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "感冒（common cold） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "感冒（common cold） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒（common cold） 有什麼相關新聞？">
-<strong>感冒（common cold）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒（common cold）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [日本福岡爆「神秘感冒」 患者久咳喉痛卻非流感| 國際 - 中央社 CNA](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DbUZMTGtTN2hvclNRMXIyYmYxZmpQcTFiMGF2bnRZNV9tQVBiUFR5MkdBUXBGUWsxV3R6cTBfd0diVXY5Ym93bVVVZlRkUkZOa3AwNnpmbURHQUVlZFU0?oc=5)
+### [日本突爆「神秘感冒」！流感新冠皆陰性... 已從九州蔓延至東京](https://news.google.com/rss/articles/CBMi9wJBVV95cUxNbGhmcUo0RXoyMkE0dTB1dTVueXdJQ3JoZTRucUVNR2M4RHg0dGp3ZVVCNjVmQjIzeU95STFGMDc1ZjR0YlpaX0tLRXozWFEwZThoRXF6ZEdMMjNWS21VSEZjTnRLaVFsa3h6OTB2endwTmNCNXlfSmlxeTYzdklBV240ZC1jSWk3Qlo5bE5HTTNKLXA2SW9SVWtpLW9UMFVkcUdVOVZ1Wk5xTFRkeFNLaDRZWjgxRFR0MnM1WHE0aUQxZXJHNUdWdHpXak1HNngwT1VZeW4ydFBNYnpQeTA5TFIydHljLUxoLUx0ZGFlZGZKMFFpeHloSkY0bUpLdVpiakkwX1padENpcTNjX2FiZTRJT2lGN3lnQzhYS3FsUG0xaU56SUZybFZQOGkxRExBejdsWmFxaXFocDh3S2xhSnZTQWNTRm5sYzRjdkMyVXhQRWVXWUtGakVkOFRPQ0M2Q1JicEVhUWFua1V4UVJnbmxvVzJMOHM?oc=5)
 
 2026-05-22
 
-來源：[中央社 CNA](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DbUZMTGtTN2hvclNRMXIyYmYxZmpQcTFiMGF2bnRZNV9tQVBiUFR5MkdBUXBGUWsxV3R6cTBfd0diVXY5Ym93bVVVZlRkUkZOa3AwNnpmbURHQUVlZFU0?oc=5)
-
----
-
-### [照護線上》給寶寶的第一份見面禮，呼吸道細胞融合病毒（RSV）長效型單株抗體「出生即防護」策略解析，專科醫師圖文懶人包](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iWlJjVS12MUJlQ0Y0ZmlaWENrS3FuYy0tYlN3NUY0UDlkaURoRWNtWDhLVkNSWnowbDNlT3BCcVdDRkNObTBmczdhV0VQd0d5TjJrN3B3Q25QS1VfTFZrZXJR0gFnQVVfeXFMTk5hWndjeUQ1TjY0SXF2V2t1eWJFcWUtYzdreDlEdzZmOG5VZlhsR1FqcWROVjRvU0lCT3hwNVFIRFduNkZieEllaS1PNk0xS0tGS0pQLWtmQk56Qk5mdHVDUFdHZmNaNA?oc=5)
-
-2026-05-21
-
-來源：[自由評論網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iWlJjVS12MUJlQ0Y0ZmlaWENrS3FuYy0tYlN3NUY0UDlkaURoRWNtWDhLVkNSWnowbDNlT3BCcVdDRkNObTBmczdhV0VQd0d5TjJrN3B3Q25QS1VfTFZrZXJR0gFnQVVfeXFMTk5hWndjeUQ1TjY0SXF2V2t1eWJFcWUtYzdreDlEdzZmOG5VZlhsR1FqcWROVjRvU0lCT3hwNVFIRFduNkZieEllaS1PNk0xS0tGS0pQLWtmQk56Qk5mdHVDUFdHZmNaNA?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi9wJBVV95cUxNbGhmcUo0RXoyMkE0dTB1dTVueXdJQ3JoZTRucUVNR2M4RHg0dGp3ZVVCNjVmQjIzeU95STFGMDc1ZjR0YlpaX0tLRXozWFEwZThoRXF6ZEdMMjNWS21VSEZjTnRLaVFsa3h6OTB2endwTmNCNXlfSmlxeTYzdklBV240ZC1jSWk3Qlo5bE5HTTNKLXA2SW9SVWtpLW9UMFVkcUdVOVZ1Wk5xTFRkeFNLaDRZWjgxRFR0MnM1WHE0aUQxZXJHNUdWdHpXak1HNngwT1VZeW4ydFBNYnpQeTA5TFIydHljLUxoLUx0ZGFlZGZKMFFpeHloSkY0bUpLdVpiakkwX1padENpcTNjX2FiZTRJT2lGN3lnQzhYS3FsUG0xaU56SUZybFZQOGkxRExBejdsWmFxaXFocDh3S2xhSnZTQWNTRm5sYzRjdkMyVXhQRWVXWUtGakVkOFRPQ0M2Q1JicEVhUWFua1V4UVJnbmxvVzJMOHM?oc=5)
 
 ---
 
