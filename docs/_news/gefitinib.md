@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [多吃雞蛋可防失智症！美最新研究：每周食用5次以上降低近30%風險](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wN08tMHV1OWU1V3MyZVM0MXJycVFXUGJROGVtdXk2RmdzWFh5OFV2STRGd2RJUDFWVTlfdnRlRzBxZi1kZWwzRi1oek1FYUhsU2V2eVRpWUc3UnlyQkHSAWNBVV95cUxObmxkMzBPQlBERGZkaWZwaFg4dXZXVGlJLTlxVzRWM3d4ZW1WbnhUVmZsX0E0ampDbjBSM3pDRU1jNXBtNWhmUkUycHh4WU9KU2JBQlhZeWxQU2R1VkgwNWNKWk0?oc=5)
 
@@ -64,6 +64,14 @@ permalink: /news/gefitinib/
 2026-05-22 <span class="news-indication-tag">癌症</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1qTHJraGFWdzZlWjQ1SG1OTEtwR1NlbXNHQkJVa2V2VEtFRmhnajluaU5WRVBLR3A1Z1FhMmY4dlktcm4xOUM1Ymh6RzhldWlnU0x5ZENQX0s2VzlXa3d6dERmaWxTeTRvVVE5dF9n?oc=5)
+
+---
+
+### [醫示警：HPV恐成親密關係隱形風險 戴保險套也無法完全避免 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1waGtQdEw0UWtlR0ZsNVd3Zk5NYVBlRFNLcnVoZVloM0VfdlZpajJjVkpHODYyRkNVZEt0cHR1cy1EMmN2UldNc1MtZzB1bm11QWpTS2dLMHU?oc=5)
+
+2026-05-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1waGtQdEw0UWtlR0ZsNVd3Zk5NYVBlRFNLcnVoZVloM0VfdlZpajJjVkpHODYyRkNVZEt0cHR1cy1EMmN2UldNc1MtZzB1bm11QWpTS2dLMHU?oc=5)
 
 ---
 
