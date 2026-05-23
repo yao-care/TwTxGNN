@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智（dementia） 相關新聞"
+title: "失智症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "失智症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智（dementia） 相關新聞
+# 失智症（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
+<strong>失智症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,7 +29,15 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [多吃雞蛋可防失智症！美最新研究：每周食用5次以上降低近30%風險](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wN08tMHV1OWU1V3MyZVM0MXJycVFXUGJROGVtdXk2RmdzWFh5OFV2STRGd2RJUDFWVTlfdnRlRzBxZi1kZWwzRi1oek1FYUhsU2V2eVRpWUc3UnlyQkHSAWNBVV95cUxObmxkMzBPQlBERGZkaWZwaFg4dXZXVGlJLTlxVzRWM3d4ZW1WbnhUVmZsX0E0ampDbjBSM3pDRU1jNXBtNWhmUkUycHh4WU9KU2JBQlhZeWxQU2R1VkgwNWNKWk0?oc=5)
+
+2026-05-23
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wN08tMHV1OWU1V3MyZVM0MXJycVFXUGJROGVtdXk2RmdzWFh5OFV2STRGd2RJUDFWVTlfdnRlRzBxZi1kZWwzRi1oek1FYUhsU2V2eVRpWUc3UnlyQkHSAWNBVV95cUxObmxkMzBPQlBERGZkaWZwaFg4dXZXVGlJLTlxVzRWM3d4ZW1WbnhUVmZsX0E0ampDbjBSM3pDRU1jNXBtNWhmUkUycHh4WU9KU2JBQlhZeWxQU2R1VkgwNWNKWk0?oc=5)
+
+---
 
 ### [不要再說「是你想太多」！醫師：自覺記性變差，失智風險高4.5倍](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5Y29qTlBWNnE3UFRZTEg2VzJxWXZweEtadEJFTWVXU3REaTBYWlpuN1psZ3QwZkF1YXRWWnRiNXhyWjFISnRVS3FndndJYUtXcXFnazhvb2U4eG92aDRn0gFkQVVfeXFMT2FjeGVVVXZoeVRLZ0d4OGZHdm41YkJXUDU3WTRnOHRuQVVIWGowVGdFenZmalZHNUdpRUw4V0VmS1BnMmZqRW1CZko1ZHpWd1lybGpJWDNEVUpXNThYc0c5NjhGVg?oc=5)
 
