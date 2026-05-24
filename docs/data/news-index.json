@@ -1,42 +1,7 @@
 {
-  "generated": "2026-05-24T11:08:00.606692+00:00",
+  "generated": "2026-05-24T13:02:29.994536+00:00",
   "count": 8,
   "news": [
-    {
-      "id": "916dd508e906",
-      "title": "1顆蛋含44%維生素D、鋅10%！專家揭顏色差異：和營養無關",
-      "published": "2026-05-24T10:33:00+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNdzhYaXBuTjR1NjVySHpOaXVWLVlHNFRZdXRWZjd2MHFBVDdCUlotdUtBYnRtS0JhQ0NNbThGRm5kYlZ6b2dJUy1QRDhuZzZtRjNPNlIwMGZwejBHeFpUOEpfdVEyQkhRT3hHeXkteHByLWtDSUZicl9paGVfdGJ5c0hsdU9EWmxJN1pBbzl5WUNqWmQ4QmllSXVhQ0hPLWlERlF5U1pleVNyRmZqVGphNlZSYVJkay1iM2pnRHNWcHJKZjdEMU41VTRZa2Y1UWV4R2ZiV1JPTW5GUFhqWVdHbDk4UWlrbTdCbl95bkZUcVF6bkMzQjhGSUlvTVVBenN3aUN0Wnhua0dHVWUxa1dCLWhUYjRuZ2ptTDFXcTRmUmRoQ2NsNVVnc2ZmakJ6aGtOOVBYcVdSUFBOelFNTE1PanhrMmI?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "ba76d488a460",
       "title": "健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵",
@@ -246,13 +211,48 @@
       ]
     },
     {
-      "id": "534bff54d83c",
-      "title": "不只是腫瘤測量指標！細胞實測揭醫界常用蛋白具防護機制 能阻斷癌變",
-      "published": "2026-05-24T06:03:52+00:00",
+      "id": "33e04cdeb1a8",
+      "title": "1顆蛋含44%維生素D、鋅10%！專家揭顏色差異：和營養無關",
+      "published": "2026-05-24T10:29:32+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOWHdPdWduWDZYelNfSEVZTjlKZGZuQlNBNFhsTExMYTRfeGtmUGVRS3hGVUdGN1QyN1A0eUFFZHhWaG02enM5OWsxOE1TQlFyTUdnMFRMZk51eS1HdTl1WTFjeWtBM2hXUkZDOEkxTnlxVEViajMwQnpPMms5ejl5aUlBRlY1MS1XQXJoODRWZ3ROc1QxRHY0N0JibXMyUlk0aGNENFAyUVFvay1GSnVpbjdDbEItRERpbmZodzd6eTFZMERqZHh5Xy01Ql9aLV9QRDZEUmtIcUVIM01UX1J6SDl0N0RncVNiS21Xak9hUzYwc0t1em40YmdpUWdzbHNBcElabXlfZEdBa215N3RUQlRpY2FUc1VDVTFyXy01RXpoVm5mc3BNdWlUMmg1QVNROFRhckhpMjRzdzEydU1Wc0hLam94VmVpNkN4QVRLZUR0ajJUMGtNUUlpQmtkVW5tX2hQWHZrOTlCbm5OdFQ4LVdWUjFXU0FmTlhDVDRoY1QyaGFwNkRqZTZfdFZRdTNRc0ZqdDdNSHFicWdnNkhkYVFPcktHZ3E5ZVJmTkd6UTJHUmdINU52M1hCdm1xdw?oc=5"
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hR1M5OGRhNnpBTy1oUWxJWHRrX2RhU3ZFWEJmTkpjZ1czNDAxU3NRR1p0ZW44b2wtakZVa3hnYTh3VFVtVjREUVo1VjhLWFlpZ2Y5bEhKZlh3OTgxUVRDMURhM3JkVml2dGtibXZB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "853aff92a97a",
+      "title": "不只是腫瘤測量指標！細胞實測揭醫界常用蛋白具防護機制 能阻斷癌變",
+      "published": "2026-05-24T05:44:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXaHF1djlXMWw5REtMRU5ybEF4MVRIOHd0V3ZtUzJvUmZYUU9vMEJUdENTMHNHeUQ1aDlEN1dEMGZoN1d2c1ZHMW5DREhEdkRPc2drS1M1TXNHTWdyUGo1OTJvZXHSAWpBVV95cUxPcV80by1FZDFjTkhkR1BXcGctVTkyTVlSdFFBNFhqdEdJVzZZZGh2QkIyNXBYVjctdmJ3WkROT3R3VGdDclVkcVZ3RlRxOGppWVFJRGhKU2RLQm9wQkRZamE3b0hZVFlnd3B3?oc=5"
         }
       ],
       "keywords": [
@@ -697,13 +697,13 @@
       ]
     },
     {
-      "id": "d1ac89a54fef",
-      "title": "患大腸癌4期！50歲男「做好2事」癌細胞消失 9年沒復發",
-      "published": "2026-05-23T09:01:48+00:00",
+      "id": "4d97d105ea6c",
+      "title": "大腸癌末期病患「改變心態」 癌細胞神奇消失！9年沒復發",
+      "published": "2026-05-23T06:23:00+00:00",
       "sources": [
         {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBIRjBtSndCZkRwamoxOE9aaDlUbEhnaXJJb2g0NE5QcU1rRGw1dFVBUDBuVGdMYUNpdEZPazJHUkctcUVCNDg1M19OU0E?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxORFk4UURYUXQ1Ti1ab09hWGJpTnNpVDNocDFDaVNFLU5NcUlhTWIzMDhhcnJIZ1ZzR3JoZ0JwVjUwQTFjNkZaQUpDNnZURFd2QXhmbm5VS1pIT0FXTG1LdVVZMFNfeEZLcnVaNGhndHdsaTNDeXQtcFdfcHFjTWhSQWI4c1hMbmMxOTlSSUFnZXVLd1Vndm1yZHBxZGd6SmZ0UDk5VG9zVjVvZHRQQnN4dU5FUEVNTEJNcUZQWWR4YnlLV0dadjJzRWhZOEZkd3JHQlhxRkFVTDQ2QlNuNy15aXhlNDNJalZ1N09Ldzk0RjBwTmVzWFlnbHFNdWFwbzhtLWk0R1Bka2hWU2xtMnlPcnpUYmJyLV9HbDhTQmlBclAtX3k4TWQwbW41YUhHbzh4anNXM3VxRzlwOG9FZ1lXWHRvSnVzRmxZanoyRHRZSzVTNWltNk9vZGtCY1ZVUF81?oc=5"
         }
       ],
       "keywords": [

@@ -1,44 +1,8 @@
 {
-  "last_updated": "2026-05-24T11:08:00.575594+00:00",
-  "total_count": 18,
+  "last_updated": "2026-05-24T13:02:29.960657+00:00",
+  "total_count": 16,
   "matched_count": 8,
   "news": [
-    {
-      "id": "916dd508e906",
-      "title": "1顆蛋含44%維生素D、鋅10%！專家揭顏色差異：和營養無關",
-      "published": "2026-05-24T10:33:00+00:00",
-      "summary": "1顆蛋含44%維生素D、鋅10%！專家揭顏色差異：和營養無關&nbsp;&nbsp;Yahoo新聞馬英九失智成羅生門 美研究吃一廉價食品失智風險大減&nbsp;&nbsp;鏡週刊Mirror Media多吃雞蛋可防失智症！美最新研究：每周食用5次以上降低近30%風險&nbsp;&nbsp;元氣網英美研究天天1顆蛋防失智但「1種蛋」不行？營養師揭：「選對油」炒更護腦- 營養好食&nbsp;&nbsp;TVBS 健康2.0腦退化｜追蹤逾4萬人15年！ 新研究揭每周吃「1食物」 失智風險降27%&nbsp;&nbsp;晴報 Sky Post",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNdzhYaXBuTjR1NjVySHpOaXVWLVlHNFRZdXRWZjd2MHFBVDdCUlotdUtBYnRtS0JhQ0NNbThGRm5kYlZ6b2dJUy1QRDhuZzZtRjNPNlIwMGZwejBHeFpUOEpfdVEyQkhRT3hHeXkteHByLWtDSUZicl9paGVfdGJ5c0hsdU9EWmxJN1pBbzl5WUNqWmQ4QmllSXVhQ0hPLWlERlF5U1pleVNyRmZqVGphNlZSYVJkay1iM2pnRHNWcHJKZjdEMU41VTRZa2Y1UWV4R2ZiV1JPTW5GUFhqWVdHbDk4UWlrbTdCbl95bkZUcVF6bkMzQjhGSUlvTVVBenN3aUN0Wnhua0dHVWUxa1dCLWhUYjRuZ2ptTDFXcTRmUmRoQ2NsNVVnc2ZmakJ6aGtOOVBYcVdSUFBOelFNTE1PanhrMmI?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "ba76d488a460",
       "title": "健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵",
@@ -249,27 +213,50 @@
       ]
     },
     {
-      "id": "a8e79bcaadb0",
-      "title": "綠蘆筍煮過更營養！專家揭精華處：抗發炎又護腸- 健康",
-      "published": "2026-05-24T07:53:43+00:00",
-      "summary": "綠蘆筍煮過更營養！專家揭精華處：抗發炎又護腸- 健康&nbsp;&nbsp;中時新聞網",
+      "id": "33e04cdeb1a8",
+      "title": "1顆蛋含44%維生素D、鋅10%！專家揭顏色差異：和營養無關",
+      "published": "2026-05-24T10:29:32+00:00",
+      "summary": "1顆蛋含44%維生素D、鋅10%！專家揭顏色差異：和營養無關&nbsp;&nbsp;祝你健康馬英九失智成羅生門 美研究吃一廉價食品失智風險大減&nbsp;&nbsp;Yahoo新聞多吃雞蛋可防失智症！美最新研究：每周食用5次以上降低近30%風險&nbsp;&nbsp;元氣網促進大腦健康補充劑 學者建議吃薑黃素 減少阿茲海默發病率&nbsp;&nbsp;世界新聞網英美研究天天1顆蛋防失智但「1種蛋」不行？營養師揭：「選對油」炒更護腦- 營養好食&nbsp;&nbsp;TVBS 健康2.0",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83WGRvREZyVjhzdzBHOVpLMTQ1YnlSNDltUnNkTjdpX3RjZVBlTFFfX0dmQk1OT19hMDBlaUN4RHloYWFYZm4xOVp6cDhXUHZfQnllakdkQnQ1SEY0WWpjUmRwOGkxUzlPOWIzYXR3?oc=5"
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hR1M5OGRhNnpBTy1oUWxJWHRrX2RhU3ZFWEJmTkpjZ1czNDAxU3NRR1p0ZW44b2wtakZVa3hnYTh3VFVtVjREUVo1VjhLWFlpZ2Y5bEhKZlh3OTgxUVRDMURhM3JkVml2dGtibXZB?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": "534bff54d83c",
+      "id": "853aff92a97a",
       "title": "不只是腫瘤測量指標！細胞實測揭醫界常用蛋白具防護機制 能阻斷癌變",
-      "published": "2026-05-24T06:03:52+00:00",
-      "summary": "不只是腫瘤測量指標！細胞實測揭醫界常用蛋白具防護機制 能阻斷癌變&nbsp;&nbsp;Yahoo新聞",
+      "published": "2026-05-24T05:44:00+00:00",
+      "summary": "不只是腫瘤測量指標！細胞實測揭醫界常用蛋白具防護機制 能阻斷癌變&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOWHdPdWduWDZYelNfSEVZTjlKZGZuQlNBNFhsTExMYTRfeGtmUGVRS3hGVUdGN1QyN1A0eUFFZHhWaG02enM5OWsxOE1TQlFyTUdnMFRMZk51eS1HdTl1WTFjeWtBM2hXUkZDOEkxTnlxVEViajMwQnpPMms5ejl5aUlBRlY1MS1XQXJoODRWZ3ROc1QxRHY0N0JibXMyUlk0aGNENFAyUVFvay1GSnVpbjdDbEItRERpbmZodzd6eTFZMERqZHh5Xy01Ql9aLV9QRDZEUmtIcUVIM01UX1J6SDl0N0RncVNiS21Xak9hUzYwc0t1em40YmdpUWdzbHNBcElabXlfZEdBa215N3RUQlRpY2FUc1VDVTFyXy01RXpoVm5mc3BNdWlUMmg1QVNROFRhckhpMjRzdzEydU1Wc0hLam94VmVpNkN4QVRLZUR0ajJUMGtNUUlpQmtkVW5tX2hQWHZrOTlCbm5OdFQ4LVdWUjFXU0FmTlhDVDRoY1QyaGFwNkRqZTZfdFZRdTNRc0ZqdDdNSHFicWdnNkhkYVFPcktHZ3E5ZVJmTkd6UTJHUmdINU52M1hCdm1xdw?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXaHF1djlXMWw5REtMRU5ybEF4MVRIOHd0V3ZtUzJvUmZYUU9vMEJUdENTMHNHeUQ1aDlEN1dEMGZoN1d2c1ZHMW5DREhEdkRPc2drS1M1TXNHTWdyUGo1OTJvZXHSAWpBVV95cUxPcV80by1FZDFjTkhkR1BXcGctVTkyTVlSdFFBNFhqdEdJVzZZZGh2QkIyNXBYVjctdmJ3WkROT3R3VGdDclVkcVZ3RlRxOGppWVFJRGhKU2RLQm9wQkRZamE3b0hZVFlnd3B3?oc=5"
         }
       ],
       "matched_keywords": [
@@ -742,14 +729,40 @@
       "matched_keywords": []
     },
     {
-      "id": "d1ac89a54fef",
-      "title": "患大腸癌4期！50歲男「做好2事」癌細胞消失 9年沒復發",
-      "published": "2026-05-23T09:01:48+00:00",
-      "summary": "患大腸癌4期！50歲男「做好2事」癌細胞消失 9年沒復發&nbsp;&nbsp;祝你健康",
+      "id": "20587b2dd89f",
+      "title": "健康網》電子煙傷害男人甚鉅！醫提5點影響：會變短",
+      "published": "2026-05-23T13:18:00+00:00",
+      "summary": "健康網》電子煙傷害男人甚鉅！醫提5點影響：會變短&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBIRjBtSndCZkRwamoxOE9aaDlUbEhnaXJJb2g0NE5QcU1rRGw1dFVBUDBuVGdMYUNpdEZPazJHUkctcUVCNDg1M19OU0E?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WeFlVS2hWaGFmQVJGRGRQMFoyRUNDZlo1azZmYnNpLU9hTzVyaGxZbnl4eUZoTnRfNkZTMjY2aW5aOFlmQ2xYQkc5MHNlRjVPcmVYclVPT0c1amp0OVVSMlV0VkXSAWpBVV95cUxQaXFBZUdlTmIyUmJkLW95dE5KU01ZVTEyeGtVZmdYYjJ2UWg0ZUVLcmFWWk85N2NDbkZJYnU3TnBLR2pHM0pEbXRQNllCRWZxYnRjQXh2TWZpYjFDVWF1Wl9JYktsSlR6Vktn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8edbe0ca48cd",
+      "title": "全球麻疹飆破47萬例 科學家首度破解人類抗體迎療法曙光",
+      "published": "2026-05-23T06:56:29+00:00",
+      "summary": "全球麻疹飆破47萬例 科學家首度破解人類抗體迎療法曙光&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQVWNzY2F4cWpfUDJfTmp4a3RaSm5fVzhBUVdRR1Exdm9uQVRXb21ieWdna2VtdmhtZ0llSC1ya1Vna3VCZ0pjaGNuRXVEN21EeVFWTWJ5ZF9PS3Rad3V3N1hreTZvUnJLZ1duOWJOeG00SjZ4UmlNWjdDanpmOXJQRm9CZUxGSEwyVF92cGNOVUpmX29WVjdjWEd6RENMX0M4cWdMT0lmdjJsTzBCckg4aUVfX3hFekxvZXloUXI0QlJpdlNkMVFmRDRiNW9TbjdZck1QNzJPNnlxN2szYzVEYzNPZ1JjdkR0X3M5LXNYN2MyYThRTGZyOXVaRGRkMlo2a1dmeTlBbG01T0ZTR1M2RmZPSlFVS2llUTJUMXdpYnFDbHBhR3hOZjFHMm81NHJXOWMzUEZzdmc2dHBJbTlrVVIwQUlKb2NabTM0aVI1UUp6eTI4UTZ1TTVKMm05YXVKR2xXSHRVZmhsSWRhWVBieGNWaVdDSGM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4d97d105ea6c",
+      "title": "大腸癌末期病患「改變心態」 癌細胞神奇消失！9年沒復發",
+      "published": "2026-05-23T06:23:00+00:00",
+      "summary": "大腸癌末期病患「改變心態」 癌細胞神奇消失！9年沒復發&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxORFk4UURYUXQ1Ti1ab09hWGJpTnNpVDNocDFDaVNFLU5NcUlhTWIzMDhhcnJIZ1ZzR3JoZ0JwVjUwQTFjNkZaQUpDNnZURFd2QXhmbm5VS1pIT0FXTG1LdVVZMFNfeEZLcnVaNGhndHdsaTNDeXQtcFdfcHFjTWhSQWI4c1hMbmMxOTlSSUFnZXVLd1Vndm1yZHBxZGd6SmZ0UDk5VG9zVjVvZHRQQnN4dU5FUEVNTEJNcUZQWWR4YnlLV0dadjJzRWhZOEZkd3JHQlhxRkFVTDQ2QlNuNy15aXhlNDNJalZ1N09Ldzk0RjBwTmVzWFlnbHFNdWFwbzhtLWk0R1Bka2hWU2xtMnlPcnpUYmJyLV9HbDhTQmlBclAtX3k4TWQwbW41YUhHbzh4anNXM3VxRzlwOG9FZ1lXWHRvSnVzRmxZanoyRHRZSzVTNWltNk9vZGtCY1ZVUF81?oc=5"
         }
       ],
       "matched_keywords": [
@@ -788,19 +801,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "8edbe0ca48cd",
-      "title": "全球麻疹飆破47萬例 科學家首度破解人類抗體迎療法曙光",
-      "published": "2026-05-23T06:56:29+00:00",
-      "summary": "全球麻疹飆破47萬例 科學家首度破解人類抗體迎療法曙光&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQVWNzY2F4cWpfUDJfTmp4a3RaSm5fVzhBUVdRR1Exdm9uQVRXb21ieWdna2VtdmhtZ0llSC1ya1Vna3VCZ0pjaGNuRXVEN21EeVFWTWJ5ZF9PS3Rad3V3N1hreTZvUnJLZ1duOWJOeG00SjZ4UmlNWjdDanpmOXJQRm9CZUxGSEwyVF92cGNOVUpmX29WVjdjWEd6RENMX0M4cWdMT0lmdjJsTzBCckg4aUVfX3hFekxvZXloUXI0QlJpdlNkMVFmRDRiNW9TbjdZck1QNzJPNnlxN2szYzVEYzNPZ1JjdkR0X3M5LXNYN2MyYThRTGZyOXVaRGRkMlo2a1dmeTlBbG01T0ZTR1M2RmZPSlFVS2llUTJUMXdpYnFDbHBhR3hOZjFHMm81NHJXOWMzUEZzdmc2dHBJbTlrVVIwQUlKb2NabTM0aVI1UUp6eTI4UTZ1TTVKMm05YXVKR2xXSHRVZmhsSWRhWVBieGNWaVdDSGM?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "3a1e81633a9f",
@@ -1179,32 +1179,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "a431e4bc215f",
-      "title": "怕老人年紀大動手術撐不住？醫：「衰弱程度」也應列風險評估標準",
-      "published": "2026-05-22T12:00:00+00:00",
-      "summary": "怕老人年紀大動手術撐不住？醫：「衰弱程度」也應列風險評估標準&nbsp;&nbsp;健康醫療網",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhMVZlNjB4S1ZWSks2cWFkcEFlZlVlQTJhVHNQZGhQUlE2SXRYVWRaSWVBSVU0bWFXLThlTXpLLXdsMmlpQmxHa25kaktFeWtJSDJ1dUR3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ee9856ab7932",
-      "title": "兒童糖尿病篩檢不可少！研究揭維他命D與鈣片防骨折效果有限",
-      "published": "2026-05-22T11:26:36+00:00",
-      "summary": "兒童糖尿病篩檢不可少！研究揭維他命D與鈣片防骨折效果有限&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90M3JkMkdxLWxtZzl5R3FKY3pSTmdpZnl0N2czVmhUVnNMdGpkYVMxZnpJbk9fUS1RSU9ER0tZbXNMX2tzalpfWl9sZUh6ajZHdGRVZDlMNlBENjd4RXFpRA?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "554d4b56a4a9",
