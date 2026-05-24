@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
 
@@ -60,19 +60,11 @@ permalink: /news/gemcitabine/
 
 ---
 
-### [子宮頸癌每年奪700位台灣女性生命 國泰醫：定期篩檢3年97%可被揪出](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0taGRHYm4tcHFCN2NlWW9VWE14bzJ4Yzd5NThyR1dIYzZ5ZmhfVF9qcThOcWxoV0Z2eVJVMHdTUkZFX0cya2lISEZ2b3FxYTJEOHE0RjFMUDZDbDFZRi1QdQ?oc=5)
-
-2026-05-24 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
-
-來源：[民報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0taGRHYm4tcHFCN2NlWW9VWE14bzJ4Yzd5NThyR1dIYzZ5ZmhfVF9qcThOcWxoV0Z2eVJVMHdTUkZFX0cya2lISEZ2b3FxYTJEOHE0RjFMUDZDbDFZRi1QdQ?oc=5)
-
----
-
-### [大腸癌末期病患「改變心態」 癌細胞神奇消失！9年沒復發](https://news.google.com/rss/articles/CBMi4AJBVV95cUxORFk4UURYUXQ1Ti1ab09hWGJpTnNpVDNocDFDaVNFLU5NcUlhTWIzMDhhcnJIZ1ZzR3JoZ0JwVjUwQTFjNkZaQUpDNnZURFd2QXhmbm5VS1pIT0FXTG1LdVVZMFNfeEZLcnVaNGhndHdsaTNDeXQtcFdfcHFjTWhSQWI4c1hMbmMxOTlSSUFnZXVLd1Vndm1yZHBxZGd6SmZ0UDk5VG9zVjVvZHRQQnN4dU5FUEVNTEJNcUZQWWR4YnlLV0dadjJzRWhZOEZkd3JHQlhxRkFVTDQ2QlNuNy15aXhlNDNJalZ1N09Ldzk0RjBwTmVzWFlnbHFNdWFwbzhtLWk0R1Bka2hWU2xtMnlPcnpUYmJyLV9HbDhTQmlBclAtX3k4TWQwbW41YUhHbzh4anNXM3VxRzlwOG9FZ1lXWHRvSnVzRmxZanoyRHRZSzVTNWltNk9vZGtCY1ZVUF81?oc=5)
+### [患大腸癌4期！50歲男「做好2事」癌細胞消失 9年沒復發](https://news.google.com/rss/articles/CBMiwwJBVV95cUxOMEFXZ3kxU0FSbUxLbDNkbVZtcnhSQWVoWlNTOWR1UkRjcnlmdHVvZkM4NW5SNnROSjl6TlVNNXN0YUlOcjNUTVlLeFVWbWNqbFduaXNUM2RFcS1xTjVwLU1nN0hwUGstUGVWYUxHalNrWlk0eDdpcTc4VnNzWkpDZURHOE5sRGduY0dHSU8wa2V1NDY5bHM5c3pFN1EtbWc4SUZpX0JSVXFTajFCbGpsMkFIQ2FJYnFTUzNUcXdEZHVGSER4LUEycDRzOTZodXMyMTUtSFFYN1ZKb1pnekF1aERScVFLZmd6U3JzRWpjR1cwc0lEbEZidGhaVnRwMHhwbDY5TEY5WGpsNzVhak9qS1RyVWJMZW5RYk93Wkl5clBFU0pDdV9LeFFOanBuQnlhTGJWcEFhb1NuSHBLU05yWnA2aw?oc=5)
 
 2026-05-23 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi4AJBVV95cUxORFk4UURYUXQ1Ti1ab09hWGJpTnNpVDNocDFDaVNFLU5NcUlhTWIzMDhhcnJIZ1ZzR3JoZ0JwVjUwQTFjNkZaQUpDNnZURFd2QXhmbm5VS1pIT0FXTG1LdVVZMFNfeEZLcnVaNGhndHdsaTNDeXQtcFdfcHFjTWhSQWI4c1hMbmMxOTlSSUFnZXVLd1Vndm1yZHBxZGd6SmZ0UDk5VG9zVjVvZHRQQnN4dU5FUEVNTEJNcUZQWWR4YnlLV0dadjJzRWhZOEZkd3JHQlhxRkFVTDQ2QlNuNy15aXhlNDNJalZ1N09Ldzk0RjBwTmVzWFlnbHFNdWFwbzhtLWk0R1Bka2hWU2xtMnlPcnpUYmJyLV9HbDhTQmlBclAtX3k4TWQwbW41YUhHbzh4anNXM3VxRzlwOG9FZ1lXWHRvSnVzRmxZanoyRHRZSzVTNWltNk9vZGtCY1ZVUF81?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiwwJBVV95cUxOMEFXZ3kxU0FSbUxLbDNkbVZtcnhSQWVoWlNTOWR1UkRjcnlmdHVvZkM4NW5SNnROSjl6TlVNNXN0YUlOcjNUTVlLeFVWbWNqbFduaXNUM2RFcS1xTjVwLU1nN0hwUGstUGVWYUxHalNrWlk0eDdpcTc4VnNzWkpDZURHOE5sRGduY0dHSU8wa2V1NDY5bHM5c3pFN1EtbWc4SUZpX0JSVXFTajFCbGpsMkFIQ2FJYnFTUzNUcXdEZHVGSER4LUEycDRzOTZodXMyMTUtSFFYN1ZKb1pnekF1aERScVFLZmd6U3JzRWpjR1cwc0lEbEZidGhaVnRwMHhwbDY5TEY5WGpsNzVhak9qS1RyVWJMZW5RYk93Wkl5clBFU0pDdV9LeFFOanBuQnlhTGJWcEFhb1NuSHBLU05yWnA2aw?oc=5)
 
 ---
 

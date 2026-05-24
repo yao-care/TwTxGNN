@@ -1,38 +1,12 @@
 {
-  "last_updated": "2026-05-24T16:56:10.839061+00:00",
-  "total_count": 18,
-  "matched_count": 8,
+  "last_updated": "2026-05-24T17:54:43.044292+00:00",
+  "total_count": 21,
+  "matched_count": 7,
   "news": [
-    {
-      "id": "9d683080341e",
-      "title": "健康名人堂／從浪漫到憂心：青少年性傳播感染的防治挑戰",
-      "published": "2026-05-24T16:00:00+00:00",
-      "summary": "健康名人堂／從浪漫到憂心：青少年性傳播感染的防治挑戰&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ONjlabTFmODR6b21IbHVBeUkwbTVxbFRIY0x1clBseUs1azV1NlowaDhpT2I0Y1RoblVTU2VLN2htb2JhVlNEam92S0VsUGtZ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3e1219486af4",
-      "title": "埃塞俄比亞阿法爾裂谷發現最古老人類火葬遺骸 早於以往紀錄 60,000 年 - Techritual Hong Kong",
-      "published": "2026-05-24T14:03:14+00:00",
-      "summary": "埃塞俄比亞阿法爾裂谷發現最古老人類火葬遺骸 早於以往紀錄 60,000 年&nbsp;&nbsp;Techritual Hong Kong",
-      "sources": [
-        {
-          "name": "Techritual Hong Kong",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rM0JtZmNSZUdxaGZQeFRUMTJmeE1aWVlkTnVKV2hlUWxSREV2akZWLVZMZW9BN0d6M3l2REpFeW1JWFVQblp1ZEYtTGlnWWJFZ1RJYmkwSGU?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
     {
       "id": "ba76d488a460",
       "title": "健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵",
-      "published": "2026-05-24T13:55:46+00:00",
+      "published": "2026-05-24T16:58:17+00:00",
       "summary": "健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵&nbsp;&nbsp;自由健康網胰臟癌盯上年輕人！研究曝15至39歲增幅驚人 醫揭7招降罹癌風險&nbsp;&nbsp;Yahoo新聞胰臟癌年輕化！15-39歲「癌王」發生率拉升近5成…胰臟癌如何檢查、症狀？醫揭做「7件事」防禦&nbsp;&nbsp;今周刊癌症年輕化成不可逆趨勢？但調整生活習慣仍可降低風險&nbsp;&nbsp;TechNews 科技新報2美食別吃多！胰臟癌晚期存活率剩7％ 醫曝前兆症狀：5類人小心&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
@@ -239,6 +213,45 @@
       ]
     },
     {
+      "id": "9d683080341e",
+      "title": "健康名人堂／從浪漫到憂心：青少年性傳播感染的防治挑戰",
+      "published": "2026-05-24T16:00:00+00:00",
+      "summary": "健康名人堂／從浪漫到憂心：青少年性傳播感染的防治挑戰&nbsp;&nbsp;UDN",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ONjlabTFmODR6b21IbHVBeUkwbTVxbFRIY0x1clBseUs1azV1NlowaDhpT2I0Y1RoblVTU2VLN2htb2JhVlNEam92S0VsUGtZ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3e1219486af4",
+      "title": "埃塞俄比亞阿法爾裂谷發現最古老人類火葬遺骸 早於以往紀錄 60,000 年 - Techritual Hong Kong",
+      "published": "2026-05-24T14:03:14+00:00",
+      "summary": "埃塞俄比亞阿法爾裂谷發現最古老人類火葬遺骸 早於以往紀錄 60,000 年&nbsp;&nbsp;Techritual Hong Kong",
+      "sources": [
+        {
+          "name": "Techritual Hong Kong",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rM0JtZmNSZUdxaGZQeFRUMTJmeE1aWVlkTnVKV2hlUWxSREV2akZWLVZMZW9BN0d6M3l2REpFeW1JWFVQblp1ZEYtTGlnWWJFZ1RJYmkwSGU?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f9741803643d",
+      "title": "我女兒得了腦癌，我無法告訴她她快要死了",
+      "published": "2026-05-24T13:36:26+00:00",
+      "summary": "我女兒得了腦癌，我無法告訴她她快要死了&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOUVN6TS1LVG05My1najUtWEhlZTZQc3ZEcS1EOVhhdEV2Yk5DX0diVFhLR2oxQXVQUVpLdVh0dmdnd3o2dlZ5bFRKU184TVY5XzhZRFJWeTdQMXRlb1RvaWxCWTNtU0NXZ2NNb1FDVFBFZm81c04yRmQycm4tNEVReU11THVTVllFTHZaZ19ka0RRVFNEdzVBc1BuUnpGekVFMTJpSHpNN2NBQVFaWlRhcHJmT0lLSmpZVWppZ0tQYkE4bDlva2tLajhPMzROSEdYdnRzdlF1WFh5MVRSbmdSV20wTmtEX0RQS3dKLTNucjkzQkk4dzRYanllanJFZG84Q0ZLbzgzT0MtbWlDYWRBOVBibFF4c0Z2T2JUeXVYVDBEQ3hBV3pHRDNtalJCUmxjazhoN2tDdnBTUFNvSVJNeEFrY0VteldfMmQ2c2p5YVRBRS1QeEo1V0tqRmdQX2FNVnc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "c0a4127c0ac3",
       "title": "呼吸道融合病毒長效抗體健保審查待廠商送件| 生活 - 中央社 CNA",
       "published": "2026-05-24T13:33:00+00:00",
@@ -262,6 +275,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "17ea8496c1ca",
+      "title": "科學家發現老化的隱藏原因—簡單的膳食補充劑有助於減緩大腦退化",
+      "published": "2026-05-24T06:06:09+00:00",
+      "summary": "科學家發現老化的隱藏原因—簡單的膳食補充劑有助於減緩大腦退化&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNNlVpNEwyb1UwNklhMmxwLVJVbDZ6eDBDSTVuMFdBUDd5N05lQlNtczcyVFZiQnl3Z3BSOU9PUmFjVnZkX2RpUk9fdGlncEFQcnVkTkR2YTdrbHFlYTQzQ29vWkZnSTYtUHhxano1VEZFZl9BWC1vY2tHMWR2dDRCOFg1UU9HenNyVnp0R1JKTF9JWXIyNnFwOUxHM0hkS1ZTcFNYRTNhYXNDbjVHOTNmUE5sclBjQ3VUdUtkLWhfMnB2X2FrODRmMG9GNkdtdVpENlVwWW9OYzIyNDRFVVZlUkU5X1oweVZrb0c4a3prblJjX0ZmZlRkQlA1TURqZGV4U1Ftd1RGY19kOUN0NlJ5MXV2Z3ZEUUZPeFZiblJSbWloSTNhU1FySWxJQmFfQTJVcWVlaHlnRXhkZE03QTNlREhfS0ZVMUpoSzdVa3JzMUhOcmp6dm9FUVYwazNPMmRRRV90TlRxbGN1WTNuYnZjRVgyRkJtalJrSUJz?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "853aff92a97a",
@@ -511,226 +537,6 @@
       ]
     },
     {
-      "id": "111594d2f162",
-      "title": "子宮頸癌每年奪700位台灣女性生命 國泰醫：定期篩檢3年97%可被揪出",
-      "published": "2026-05-24T00:00:00+00:00",
-      "summary": "子宮頸癌每年奪700位台灣女性生命 國泰醫：定期篩檢3年97%可被揪出&nbsp;&nbsp;民報驚！每2男就有1人染HPV「保險套也擋不住」泌尿醫曝真正原因&nbsp;&nbsp;祝你健康HPV男女都要防 桃園醫院：不能輕忽預防&nbsp;&nbsp;大纪元抹片篩檢 細胞變性不等於罹癌&nbsp;&nbsp;中時新聞網子宮頸癌「抹片異常」不等於癌症！醫揭示3大病變 需謹慎處理 - 娛樂新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "民報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0taGRHYm4tcHFCN2NlWW9VWE14bzJ4Yzd5NThyR1dIYzZ5ZmhfVF9qcThOcWxoV0Z2eVJVMHdTUkZFX0cya2lISEZ2b3FxYTJEOHE0RjFMUDZDbDFZRi1QdQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "291dce01f920",
       "title": "德州聖大衛醫療中心心律不正研究所將主辦複雜性心律不正國際會議",
       "published": "2026-05-23T16:08:13+00:00",
@@ -739,6 +545,32 @@
         {
           "name": "經商新聞",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01bFotMHRQaHp0NWg0TnFRLWFVTlpjdzh4WDdic0MyNUtwU0plUlN1REl3d3NRb1AyUWxqb2loUTcyMWpLdjRYTEhSdm1nUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0af4fef86911",
+      "title": "新AI人體圖揭示肥胖對面神經的隱藏攻擊",
+      "published": "2026-05-23T16:02:53+00:00",
+      "summary": "新AI人體圖揭示肥胖對面神經的隱藏攻擊&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQUnJnYmpkNDhodVAyU3RrSER2Z0pDMk13Y0lHU0VwWXJrVFRteVVvYmtBMGgtUVJfQm1kRzhhSl9YXzBUTm9YcTNSSTJpUDZDRFhha2ZYdWhkR2VkOWhJRV84dHpTMkYwNEZrS0lBQ2lPcXhxUjVJb2xJV3dfeFpRRmtkeFY3SGV0T2xqV1ZvdElHTzd4aDQtVDhMa2E4YVlKSXBhR01oY1ZoeGhBWUpUaDVPVUwxbnRtelJTUUEtWXUtTTdYYUtuZ09TN1k0a05zcm9QSEZ1aW15RFpwM3M4aGVmOUNBdGF1dlhYcWdud3pDb0xiYnd1cnNPaTVlZ0ZjN0Zhb2VXNFB5QkUtWnlSNkZYNFZpUlIyQjMycExjdFJNelF2a09IYWtXQ0Z1WjlyR2pQTzBVWUtTQU5YWTdfdlp3MktqX0YyeHU0RA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "bab32c6faa45",
+      "title": "科學家警告說，流行的維生素 D 補充劑可能有嚴重的缺點。 “我以前不知道。”",
+      "published": "2026-05-23T14:53:59+00:00",
+      "summary": "科學家警告說，流行的維生素 D 補充劑可能有嚴重的缺點。 “我以前不知道。”&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNZkM5MDY5QThDYW53TkYtem4xbUwzUkVKdnQ1UC1NZkZJblRVYWoxZzRaWVBsVWRtbVNrem1oaHlaQUo0MjNCVkhfaHdVcmRoa0MybUFHTUZuWVRNT2dVZGhTYm9tN196ZU9kVFgxWV9KZ2hVMU9UVjJsRTFkdDFUM25kbnJlS19Ecy1tUlJBQUJja0wxa0tMSUZ2czVIWDZrU1U5S1hlVWFFWnlxNC1hVkhhalJUZW94eERlM0RtVU9VMEU2cy1OMXVzbmpVZzdLeVJ0U3RBbkMwaENhMUZGTWo2eUdaZ0w3Unc1UG5MVnA0RlhMbnlNaXJLbndkMXpKWlZqNkZTT0Vzd1NzRzV5alM2Rmh1Q1JBZlU2cmtudF9VM1IwQng3ZHdTWWJuZUNjLVhJdjQ5eTNEWVhYQzlsT2pBYlNRTXJMTmVFRzVmVl9fYlI3UVNsMl8tUmNOZjQ3RS1oQy1GNm9BcXh6TDIwcDF1bXppNlFfZmNZY1Rn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -757,14 +589,14 @@
       "matched_keywords": []
     },
     {
-      "id": "4d97d105ea6c",
-      "title": "大腸癌末期病患「改變心態」 癌細胞神奇消失！9年沒復發",
-      "published": "2026-05-23T07:06:19+00:00",
-      "summary": "大腸癌末期病患「改變心態」 癌細胞神奇消失！9年沒復發&nbsp;&nbsp;Yahoo新聞",
+      "id": "22eefde4b94c",
+      "title": "患大腸癌4期！50歲男「做好2事」癌細胞消失 9年沒復發",
+      "published": "2026-05-23T09:05:00+00:00",
+      "summary": "患大腸癌4期！50歲男「做好2事」癌細胞消失 9年沒復發&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxORFk4UURYUXQ1Ti1ab09hWGJpTnNpVDNocDFDaVNFLU5NcUlhTWIzMDhhcnJIZ1ZzR3JoZ0JwVjUwQTFjNkZaQUpDNnZURFd2QXhmbm5VS1pIT0FXTG1LdVVZMFNfeEZLcnVaNGhndHdsaTNDeXQtcFdfcHFjTWhSQWI4c1hMbmMxOTlSSUFnZXVLd1Vndm1yZHBxZGd6SmZ0UDk5VG9zVjVvZHRQQnN4dU5FUEVNTEJNcUZQWWR4YnlLV0dadjJzRWhZOEZkd3JHQlhxRkFVTDQ2QlNuNy15aXhlNDNJalZ1N09Ldzk0RjBwTmVzWFlnbHFNdWFwbzhtLWk0R1Bka2hWU2xtMnlPcnpUYmJyLV9HbDhTQmlBclAtX3k4TWQwbW41YUhHbzh4anNXM3VxRzlwOG9FZ1lXWHRvSnVzRmxZanoyRHRZSzVTNWltNk9vZGtCY1ZVUF81?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOMEFXZ3kxU0FSbUxLbDNkbVZtcnhSQWVoWlNTOWR1UkRjcnlmdHVvZkM4NW5SNnROSjl6TlVNNXN0YUlOcjNUTVlLeFVWbWNqbFduaXNUM2RFcS1xTjVwLU1nN0hwUGstUGVWYUxHalNrWlk0eDdpcTc4VnNzWkpDZURHOE5sRGduY0dHSU8wa2V1NDY5bHM5c3pFN1EtbWc4SUZpX0JSVXFTajFCbGpsMkFIQ2FJYnFTUzNUcXdEZHVGSER4LUEycDRzOTZodXMyMTUtSFFYN1ZKb1pnekF1aERScVFLZmd6U3JzRWpjR1cwc0lEbEZidGhaVnRwMHhwbDY5TEY5WGpsNzVhak9qS1RyVWJMZW5RYk93Wkl5clBFU0pDdV9LeFFOanBuQnlhTGJWcEFhb1NuSHBLU05yWnA2aw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -805,14 +637,14 @@
       ]
     },
     {
-      "id": "8edbe0ca48cd",
+      "id": "0dd3b4715332",
       "title": "全球麻疹飆破47萬例 科學家首度破解人類抗體迎療法曙光",
-      "published": "2026-05-23T06:56:29+00:00",
-      "summary": "全球麻疹飆破47萬例 科學家首度破解人類抗體迎療法曙光&nbsp;&nbsp;Yahoo新聞",
+      "published": "2026-05-23T06:47:48+00:00",
+      "summary": "全球麻疹飆破47萬例 科學家首度破解人類抗體迎療法曙光&nbsp;&nbsp;民報",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQVWNzY2F4cWpfUDJfTmp4a3RaSm5fVzhBUVdRR1Exdm9uQVRXb21ieWdna2VtdmhtZ0llSC1ya1Vna3VCZ0pjaGNuRXVEN21EeVFWTWJ5ZF9PS3Rad3V3N1hreTZvUnJLZ1duOWJOeG00SjZ4UmlNWjdDanpmOXJQRm9CZUxGSEwyVF92cGNOVUpmX29WVjdjWEd6RENMX0M4cWdMT0lmdjJsTzBCckg4aUVfX3hFekxvZXloUXI0QlJpdlNkMVFmRDRiNW9TbjdZck1QNzJPNnlxN2szYzVEYzNPZ1JjdkR0X3M5LXNYN2MyYThRTGZyOXVaRGRkMlo2a1dmeTlBbG01T0ZTR1M2RmZPSlFVS2llUTJUMXdpYnFDbHBhR3hOZjFHMm81NHJXOWMzUEZzdmc2dHBJbTlrVVIwQUlKb2NabTM0aVI1UUp6eTI4UTZ1TTVKMm05YXVKR2xXSHRVZmhsSWRhWVBieGNWaVdDSGM?oc=5"
+          "name": "民報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56NmNpaHFUYmdnaEd3Zl9DUWtCelRYdDktZUVuUHhXUnBaRGhteDdnTVg2YlY0ZjlURVR6dm1SajV1dEVGT1lOeTJ2QWRYYXdpMWpJZm9ZaWxxUDMydjloUg?oc=5"
         }
       ],
       "matched_keywords": []

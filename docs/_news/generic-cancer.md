@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,7 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
 
@@ -90,14 +90,6 @@ permalink: /news/generic-cancer/
 2026-05-24
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXaHF1djlXMWw5REtMRU5ybEF4MVRIOHd0V3ZtUzJvUmZYUU9vMEJUdENTMHNHeUQ1aDlEN1dEMGZoN1d2c1ZHMW5DREhEdkRPc2drS1M1TXNHTWdyUGo1OTJvZXHSAWpBVV95cUxPcV80by1FZDFjTkhkR1BXcGctVTkyTVlSdFFBNFhqdEdJVzZZZGh2QkIyNXBYVjctdmJ3WkROT3R3VGdDclVkcVZ3RlRxOGppWVFJRGhKU2RLQm9wQkRZamE3b0hZVFlnd3B3?oc=5)
-
----
-
-### [子宮頸癌每年奪700位台灣女性生命 國泰醫：定期篩檢3年97%可被揪出](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0taGRHYm4tcHFCN2NlWW9VWE14bzJ4Yzd5NThyR1dIYzZ5ZmhfVF9qcThOcWxoV0Z2eVJVMHdTUkZFX0cya2lISEZ2b3FxYTJEOHE0RjFMUDZDbDFZRi1QdQ?oc=5)
-
-2026-05-24
-
-來源：[民報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0taGRHYm4tcHFCN2NlWW9VWE14bzJ4Yzd5NThyR1dIYzZ5ZmhfVF9qcThOcWxoV0Z2eVJVMHdTUkZFX0cya2lISEZ2b3FxYTJEOHE0RjFMUDZDbDFZRi1QdQ?oc=5)
 
 ---
 
