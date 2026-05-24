@@ -44,14 +44,6 @@ permalink: /news/hydroxyurea/
 
 ## 相關新聞（3 則）
 
-### [大腸癌末期病患「改變心態」 癌細胞神奇消失！9年沒復發](https://news.google.com/rss/articles/CBMi4AJBVV95cUxORFk4UURYUXQ1Ti1ab09hWGJpTnNpVDNocDFDaVNFLU5NcUlhTWIzMDhhcnJIZ1ZzR3JoZ0JwVjUwQTFjNkZaQUpDNnZURFd2QXhmbm5VS1pIT0FXTG1LdVVZMFNfeEZLcnVaNGhndHdsaTNDeXQtcFdfcHFjTWhSQWI4c1hMbmMxOTlSSUFnZXVLd1Vndm1yZHBxZGd6SmZ0UDk5VG9zVjVvZHRQQnN4dU5FUEVNTEJNcUZQWWR4YnlLV0dadjJzRWhZOEZkd3JHQlhxRkFVTDQ2QlNuNy15aXhlNDNJalZ1N09Ldzk0RjBwTmVzWFlnbHFNdWFwbzhtLWk0R1Bka2hWU2xtMnlPcnpUYmJyLV9HbDhTQmlBclAtX3k4TWQwbW41YUhHbzh4anNXM3VxRzlwOG9FZ1lXWHRvSnVzRmxZanoyRHRZSzVTNWltNk9vZGtCY1ZVUF81?oc=5)
-
-2026-05-23 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi4AJBVV95cUxORFk4UURYUXQ1Ti1ab09hWGJpTnNpVDNocDFDaVNFLU5NcUlhTWIzMDhhcnJIZ1ZzR3JoZ0JwVjUwQTFjNkZaQUpDNnZURFd2QXhmbm5VS1pIT0FXTG1LdVVZMFNfeEZLcnVaNGhndHdsaTNDeXQtcFdfcHFjTWhSQWI4c1hMbmMxOTlSSUFnZXVLd1Vndm1yZHBxZGd6SmZ0UDk5VG9zVjVvZHRQQnN4dU5FUEVNTEJNcUZQWWR4YnlLV0dadjJzRWhZOEZkd3JHQlhxRkFVTDQ2QlNuNy15aXhlNDNJalZ1N09Ldzk0RjBwTmVzWFlnbHFNdWFwbzhtLWk0R1Bka2hWU2xtMnlPcnpUYmJyLV9HbDhTQmlBclAtX3k4TWQwbW41YUhHbzh4anNXM3VxRzlwOG9FZ1lXWHRvSnVzRmxZanoyRHRZSzVTNWltNk9vZGtCY1ZVUF81?oc=5)
-
----
-
 ### [年輕人快速增加的癌症是「它」！跨國權威研究：女性甲狀腺癌發病率僅次於乳癌](https://news.google.com/rss/articles/CBMi1wNBVV95cUxOTzdQNndiSkQ2NElRZ3Vtd0hHVFdUZTVoRkxSRU9oM3dyV1Q3UXFoWnl6bmQ0QmFRMmxONlBZZk4zMHVBd0lheExzQXhLWnVyaURMWjRfNzdaMU11eUVvblA5UlVPalJVWUg1VlpsM1BMVjVMLTV3a0FZRmZQbktBekxHTXBvdWNPeVY3c0FfbmVQUmtUV0pqZWYwVUo0UUgwU29sbGNlYTJBQzlWcE9PeURSSEVhWnlYWThxb3E5OWd2UkZYTjlQY0I5bnBEcl9EcG1ncmo5Z1lJbF95eExHNXRnTUF0NUZSNl96UGhxZU9Fb2J4MzJpMVU1WnB6OTQwWEFTT3Awd1BYc2lDN2RIT2dKYjFJYV95Si1EQm50cEhpcjc2Qk45d0FldjR0bTZRdUxneE9aUjVZZTEwTTRfMHdGZXNDay1DTkdkdjQ1dlNKVGc4amxCbUZfUC1LNmZmWGRvbVFkWFRJQVFSYzdMNFJIVE9jaUVFNDBRc3hjU1RGUEVoOENRLXNsdHo3TURpUTNfcjlob1Ixb2FuaDFiOXVnWV9qN0RBV09iYVBXUjFRWmExak9UelBPVjRTYzNpcEtCSks2OWxqR3F2bTBWMjFoQTIwTVk?oc=5)
 
 2026-05-23 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
@@ -65,6 +57,14 @@ permalink: /news/hydroxyurea/
 2026-05-22 <span class="news-indication-tag">癌症</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1qTHJraGFWdzZlWjQ1SG1OTEtwR1NlbXNHQkJVa2V2VEtFRmhnajluaU5WRVBLR3A1Z1FhMmY4dlktcm4xOUM1Ymh6RzhldWlnU0x5ZENQX0s2VzlXa3d6dERmaWxTeTRvVVE5dF9n?oc=5)
+
+---
+
+### [女生「1時期」變胖速度翻倍！醫示警：乳癌風險恐增12%](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uR0dYUjdmRHV0LW5ETzNfZGthN3RfdjhpM1hoZnFjZERySm1JQlp4UmE1OVR0V2s4UTgxSnNqY1FyQ2MyTTRLcmRpQl8?oc=5)
+
+2026-05-22 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">更年期</span>
+
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uR0dYUjdmRHV0LW5ETzNfZGthN3RfdjhpM1hoZnFjZERySm1JQlp4UmE1OVR0V2s4UTgxSnNqY1FyQ2MyTTRLcmRpQl8?oc=5)
 
 ---
 

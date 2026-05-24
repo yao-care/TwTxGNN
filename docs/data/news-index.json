@@ -1,62 +1,63 @@
 {
-  "generated": "2026-05-23T23:49:31.282499+00:00",
-  "count": 7,
+  "generated": "2026-05-24T02:28:50.879720+00:00",
+  "count": 8,
   "news": [
     {
-      "id": "4d97d105ea6c",
-      "title": "大腸癌末期病患「改變心態」 癌細胞神奇消失！9年沒復發",
-      "published": "2026-05-23T07:06:19+00:00",
+      "id": "0484610b120b",
+      "title": "沒打沒事，打流感疫苗反而感冒？醫證實：「1種人」反應最大",
+      "published": "2026-05-24T00:02:04+00:00",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxORFk4UURYUXQ1Ti1ab09hWGJpTnNpVDNocDFDaVNFLU5NcUlhTWIzMDhhcnJIZ1ZzR3JoZ0JwVjUwQTFjNkZaQUpDNnZURFd2QXhmbm5VS1pIT0FXTG1LdVVZMFNfeEZLcnVaNGhndHdsaTNDeXQtcFdfcHFjTWhSQWI4c1hMbmMxOTlSSUFnZXVLd1Vndm1yZHBxZGd6SmZ0UDk5VG9zVjVvZHRQQnN4dU5FUEVNTEJNcUZQWWR4YnlLV0dadjJzRWhZOEZkd3JHQlhxRkFVTDQ2QlNuNy15aXhlNDNJalZ1N09Ldzk0RjBwTmVzWFlnbHFNdWFwbzhtLWk0R1Bka2hWU2xtMnlPcnpUYmJyLV9HbDhTQmlBclAtX3k4TWQwbW41YUhHbzh4anNXM3VxRzlwOG9FZ1lXWHRvSnVzRmxZanoyRHRZSzVTNWltNk9vZGtCY1ZVUF81?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPMVZLRDdhOHk5Q2swTk9CM0NFTW1Mbkh5amRjTWxDUzFSOEdER0VUZnJ1bjBoNjg2cnp6QW5QMUswaFpzWC1hV1lndGgydXBpR1Z5MjhfWWpTNloxTWJ2NEZZUnpVSjJsYk95eEp5eU1mYzcyemhia05hQ1RyNVNzYnoyM3JSSU90YzJCMmNWZXJaaFBPeS01RXg4WU1ZdEd4aDF0NHR3bndnaVotdFRaMUFtYkJRQWNGMGN0VkJ3QjViZ1I5Ml91cVVrdWRnY1cxMm1aMEpSa2dIZVEzVkNoTWJWTS1obU04cmR3ZHpLSlFjZGFfdUpWZHFWRXJJaUZfcHJmd2JpaWNrMGJrbVQxc0ticmlGQTYwOFl5Y0hIZ21rQUdTVVVUMGJXUXZjMVIzejF0a0huYjBZdlVKelBrbjVKZGlRdlpvdnprcElrLVlaQTUtLTlyeGU2TUZxYjVMNlE?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
+          "name": "common cold",
+          "keyword": "感冒",
           "related_drugs": [
             {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }
       ]
     },
     {
-      "id": "b779a8fcbc4d",
-      "title": "多吃雞蛋可防失智症！美最新研究：每周食用5次以上降低近30%風險",
-      "published": "2026-05-23T02:15:18+00:00",
+      "id": "111594d2f162",
+      "title": "子宮頸癌每年奪700位台灣女性生命 國泰醫：定期篩檢3年97%可被揪出",
+      "published": "2026-05-24T00:00:00+00:00",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wN08tMHV1OWU1V3MyZVM0MXJycVFXUGJROGVtdXk2RmdzWFh5OFV2STRGd2RJUDFWVTlfdnRlRzBxZi1kZWwzRi1oek1FYUhsU2V2eVRpWUc3UnlyQkHSAWNBVV95cUxObmxkMzBPQlBERGZkaWZwaFg4dXZXVGlJLTlxVzRWM3d4ZW1WbnhUVmZsX0E0ampDbjBSM3pDRU1jNXBtNWhmUkUycHh4WU9KU2JBQlhZeWxQU2R1VkgwNWNKWk0?oc=5"
+          "name": "民報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0taGRHYm4tcHFCN2NlWW9VWE14bzJ4Yzd5NThyR1dIYzZ5ZmhfVF9qcThOcWxoV0Z2eVJVMHdTUkZFX0cya2lISEZ2b3FxYTJEOHE0RjFMUDZDbDFZRi1QdQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3552919246de",
+      "title": "馬英九失智成羅生門 美研究吃一廉價食品失智風險大減",
+      "published": "2026-05-23T22:29:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQY1pmX2ZtVlFzaEpkTGJSS09iRGRibEcxbXVBbUpyV1d3Z01uVlVPemVEX2REblRzZk9JekV2X0RjV0JBRzVXTGhfMFdXNWJUcE13ZW1uNTh0YTBwWGd5OHB0VGpWRVBBdkc1RzBlQ3JZT3lkWXJOLTdRODNrdkFvTXhiYkYwTURoTHUzQVplS292Q2VnWEZZM1FsWG00WndYZmZyOGJNbUlyX20tMmRkT1RQQ3pyN3ppQUNINVU3YTdyN2Z1dy1zRG9MTmQydVlDa3dYQTc5RWhLNUUwUXNZZmhLTENzZDRydzdpUDg5TkVhTHh2WFpBNlc1YnRVSjdsR0JCX2tZb1lfb1J0ZU1ja01pUFFwWEdQZWhYYnl6XzlhTTVLT0lDS21zbE13ZHhWemh2REoxektQUDA3TkNLd0NYNWFnT3VKOEktYWpGT0E5OWFkSmNTb0xGOFY5STEtQmVwbWMwWnFwQQ?oc=5"
         }
       ],
       "keywords": [
@@ -400,42 +401,6 @@
       ]
     },
     {
-      "id": "e97b1511c28f",
-      "title": "中年女性減肥好難！新研究揭最佳飲食法掌握2重點就行- 國際",
-      "published": "2026-05-22T15:20:10+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jYU10TXgyRXpmYnVyaEF2bTlCVVl0ckM1ekpXcHBZNzY4VGFqYlp6dGRxMi1oV2llYjdyOEdyX3FPUWZYX2ZWRWRycUtpTHVWRHZnWDhkeTNVRzVuempvekdJbFh0QXNuM0ZuN19R?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "de16c669311c",
       "title": "2美食別吃多！胰臟癌晚期存活率剩7％ 醫曝前兆症狀：5類人小心",
       "published": "2026-05-22T09:19:28+00:00",
@@ -638,6 +603,77 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7b724fff7b26",
+      "title": "女生「1時期」變胖速度翻倍！醫示警：乳癌風險恐增12%",
+      "published": "2026-05-22T09:09:25+00:00",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uR0dYUjdmRHV0LW5ETzNfZGthN3RfdjhpM1hoZnFjZERySm1JQlp4UmE1OVR0V2s4UTgxSnNqY1FyQ2MyTTRLcmRpQl8?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
             }
           ]
         }
