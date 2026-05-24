@@ -43,6 +43,14 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（4 則）
 
+### [不只是腫瘤測量指標！細胞實測揭醫界常用蛋白具防護機制 能阻斷癌變](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXaHF1djlXMWw5REtMRU5ybEF4MVRIOHd0V3ZtUzJvUmZYUU9vMEJUdENTMHNHeUQ1aDlEN1dEMGZoN1d2c1ZHMW5DREhEdkRPc2drS1M1TXNHTWdyUGo1OTJvZXHSAWpBVV95cUxPcV80by1FZDFjTkhkR1BXcGctVTkyTVlSdFFBNFhqdEdJVzZZZGh2QkIyNXBYVjctdmJ3WkROT3R3VGdDclVkcVZ3RlRxOGppWVFJRGhKU2RLQm9wQkRZamE3b0hZVFlnd3B3?oc=5)
+
+2026-05-24 <span class="news-indication-tag">腫瘤</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXaHF1djlXMWw5REtMRU5ybEF4MVRIOHd0V3ZtUzJvUmZYUU9vMEJUdENTMHNHeUQ1aDlEN1dEMGZoN1d2c1ZHMW5DREhEdkRPc2drS1M1TXNHTWdyUGo1OTJvZXHSAWpBVV95cUxPcV80by1FZDFjTkhkR1BXcGctVTkyTVlSdFFBNFhqdEdJVzZZZGh2QkIyNXBYVjctdmJ3WkROT3R3VGdDclVkcVZ3RlRxOGppWVFJRGhKU2RLQm9wQkRZamE3b0hZVFlnd3B3?oc=5)
+
+---
+
 ### [馬英九失智成羅生門 美研究吃一廉價食品失智風險大減](https://news.google.com/rss/articles/CBMi6gJBVV95cUxQY1pmX2ZtVlFzaEpkTGJSS09iRGRibEcxbXVBbUpyV1d3Z01uVlVPemVEX2REblRzZk9JekV2X0RjV0JBRzVXTGhfMFdXNWJUcE13ZW1uNTh0YTBwWGd5OHB0VGpWRVBBdkc1RzBlQ3JZT3lkWXJOLTdRODNrdkFvTXhiYkYwTURoTHUzQVplS292Q2VnWEZZM1FsWG00WndYZmZyOGJNbUlyX20tMmRkT1RQQ3pyN3ppQUNINVU3YTdyN2Z1dy1zRG9MTmQydVlDa3dYQTc5RWhLNUUwUXNZZmhLTENzZDRydzdpUDg5TkVhTHh2WFpBNlc1YnRVSjdsR0JCX2tZb1lfb1J0ZU1ja01pUFFwWEdQZWhYYnl6XzlhTTVLT0lDS21zbE13ZHhWemh2REoxektQUDA3TkNLd0NYNWFnT3VKOEktYWpGT0E5OWFkSmNTb0xGOFY5STEtQmVwbWMwWnFwQQ?oc=5)
 
 2026-05-23 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
@@ -64,14 +72,6 @@ permalink: /news/gefitinib/
 2026-05-22 <span class="news-indication-tag">癌症</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1qTHJraGFWdzZlWjQ1SG1OTEtwR1NlbXNHQkJVa2V2VEtFRmhnajluaU5WRVBLR3A1Z1FhMmY4dlktcm4xOUM1Ymh6RzhldWlnU0x5ZENQX0s2VzlXa3d6dERmaWxTeTRvVVE5dF9n?oc=5)
-
----
-
-### [不要再說「是你想太多」！醫師：自覺記性變差，失智風險高4.5倍](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5Y29qTlBWNnE3UFRZTEg2VzJxWXZweEtadEJFTWVXU3REaTBYWlpuN1psZ3QwZkF1YXRWWnRiNXhyWjFISnRVS3FndndJYUtXcXFnazhvb2U4eG92aDRn0gFkQVVfeXFMT2FjeGVVVXZoeVRLZ0d4OGZHdm41YkJXUDU3WTRnOHRuQVVIWGowVGdFenZmalZHNUdpRUw4V0VmS1BnMmZqRW1CZko1ZHpWd1lybGpJWDNEVUpXNThYc0c5NjhGVg?oc=5)
-
-2026-05-22 <span class="news-indication-tag">失智</span>
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5Y29qTlBWNnE3UFRZTEg2VzJxWXZweEtadEJFTWVXU3REaTBYWlpuN1psZ3QwZkF1YXRWWnRiNXhyWjFISnRVS3FndndJYUtXcXFnazhvb2U4eG92aDRn0gFkQVVfeXFMT2FjeGVVVXZoeVRLZ0d4OGZHdm41YkJXUDU3WTRnOHRuQVVIWGowVGdFenZmalZHNUdpRUw4V0VmS1BnMmZqRW1CZko1ZHpWd1lybGpJWDNEVUpXNThYc0c5NjhGVg?oc=5)
 
 ---
 
