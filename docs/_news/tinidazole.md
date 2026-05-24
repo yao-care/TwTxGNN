@@ -44,11 +44,11 @@ permalink: /news/tinidazole/
 
 ## 相關新聞（5 則）
 
-### [保險套也防不住　醫揭「HPV高傳染」關鍵：初期無明顯症狀](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yYlRjTTI5TU9PU1c1d1MtZHJibUNQLUwzdFVOd2l1M2JUbHl5d3BGZ3kzNWNmZWVfbkcxdjNDbG9TRXRaZjNaa3NLZmE1S1BY0gFsQVVfeXFMT2ZUWS1qcHhEeXlMcThwR2lvYW1ITXRmZXR0a1phTHZpVXAzelFPaE5fMFNkLVBNM1JpUW8xdUVkeFJWSmoyWDhvNXUzakZ4WDcwdnFnTEwzQmxlT0dmcFdtRWxMS21jMml1OGts?oc=5)
+### [健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
 
-2026-05-24 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+2026-05-24 <span class="news-indication-tag">癌症</span>
 
-來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yYlRjTTI5TU9PU1c1d1MtZHJibUNQLUwzdFVOd2l1M2JUbHl5d3BGZ3kzNWNmZWVfbkcxdjNDbG9TRXRaZjNaa3NLZmE1S1BY0gFsQVVfeXFMT2ZUWS1qcHhEeXlMcThwR2lvYW1ITXRmZXR0a1phTHZpVXAzelFPaE5fMFNkLVBNM1JpUW8xdUVkeFJWSmoyWDhvNXUzakZ4WDcwdnFnTEwzQmxlT0dmcFdtRWxMS21jMml1OGts?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
 
 ---
 
@@ -57,6 +57,14 @@ permalink: /news/tinidazole/
 2026-05-24 <span class="news-indication-tag">腫瘤</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMivgNBVV95cUxOWHdPdWduWDZYelNfSEVZTjlKZGZuQlNBNFhsTExMYTRfeGtmUGVRS3hGVUdGN1QyN1A0eUFFZHhWaG02enM5OWsxOE1TQlFyTUdnMFRMZk51eS1HdTl1WTFjeWtBM2hXUkZDOEkxTnlxVEViajMwQnpPMms5ejl5aUlBRlY1MS1XQXJoODRWZ3ROc1QxRHY0N0JibXMyUlk0aGNENFAyUVFvay1GSnVpbjdDbEItRERpbmZodzd6eTFZMERqZHh5Xy01Ql9aLV9QRDZEUmtIcUVIM01UX1J6SDl0N0RncVNiS21Xak9hUzYwc0t1em40YmdpUWdzbHNBcElabXlfZEdBa215N3RUQlRpY2FUc1VDVTFyXy01RXpoVm5mc3BNdWlUMmg1QVNROFRhckhpMjRzdzEydU1Wc0hLam94VmVpNkN4QVRLZUR0ajJUMGtNUUlpQmtkVW5tX2hQWHZrOTlCbm5OdFQ4LVdWUjFXU0FmTlhDVDRoY1QyaGFwNkRqZTZfdFZRdTNRc0ZqdDdNSHFicWdnNkhkYVFPcktHZ3E5ZVJmTkd6UTJHUmdINU52M1hCdm1xdw?oc=5)
+
+---
+
+### [子宮頸癌每年奪700位台灣女性生命 國泰醫：定期篩檢3年97%可被揪出](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0taGRHYm4tcHFCN2NlWW9VWE14bzJ4Yzd5NThyR1dIYzZ5ZmhfVF9qcThOcWxoV0Z2eVJVMHdTUkZFX0cya2lISEZ2b3FxYTJEOHE0RjFMUDZDbDFZRi1QdQ?oc=5)
+
+2026-05-24 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[民報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0taGRHYm4tcHFCN2NlWW9VWE14bzJ4Yzd5NThyR1dIYzZ5ZmhfVF9qcThOcWxoV0Z2eVJVMHdTUkZFX0cya2lISEZ2b3FxYTJEOHE0RjFMUDZDbDFZRi1QdQ?oc=5)
 
 ---
 
@@ -70,17 +78,9 @@ permalink: /news/tinidazole/
 
 ### [中年女性減肥好難！新研究揭最佳飲食法掌握2重點就行- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTE5jYU10TXgyRXpmYnVyaEF2bTlCVVl0ckM1ekpXcHBZNzY4VGFqYlp6dGRxMi1oV2llYjdyOEdyX3FPUWZYX2ZWRWRycUtpTHVWRHZnWDhkeTNVRzVuempvekdJbFh0QXNuM0ZuN19R?oc=5)
 
-2026-05-22 <span class="news-indication-tag">更年期</span>
+2026-05-22 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5jYU10TXgyRXpmYnVyaEF2bTlCVVl0ckM1ekpXcHBZNzY4VGFqYlp6dGRxMi1oV2llYjdyOEdyX3FPUWZYX2ZWRWRycUtpTHVWRHZnWDhkeTNVRzVuempvekdJbFh0QXNuM0ZuN19R?oc=5)
-
----
-
-### [2美食別吃多！胰臟癌晚期存活率剩7％ 醫曝前兆症狀：5類人小心](https://news.google.com/rss/articles/CBMibkFVX3lxTE1qTHJraGFWdzZlWjQ1SG1OTEtwR1NlbXNHQkJVa2V2VEtFRmhnajluaU5WRVBLR3A1Z1FhMmY4dlktcm4xOUM1Ymh6RzhldWlnU0x5ZENQX0s2VzlXa3d6dERmaWxTeTRvVVE5dF9n?oc=5)
-
-2026-05-22 <span class="news-indication-tag">癌症</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1qTHJraGFWdzZlWjQ1SG1OTEtwR1NlbXNHQkJVa2V2VEtFRmhnajluaU5WRVBLR3A1Z1FhMmY4dlktcm4xOUM1Ymh6RzhldWlnU0x5ZENQX0s2VzlXa3d6dERmaWxTeTRvVVE5dF9n?oc=5)
 
 ---
 

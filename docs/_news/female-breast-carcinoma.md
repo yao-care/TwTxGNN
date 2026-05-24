@@ -3,7 +3,7 @@ layout: default
 title: "乳癌（female breast carcinoma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "乳癌（female breast carcinoma） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "乳癌（female breast carcinoma） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="乳癌（female breast carcinoma） 有什麼相關新聞？">
-<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ permalink: /news/female-breast-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [年輕人快速增加的癌症是「它」！跨國權威研究：女性甲狀腺癌發病率僅次於乳癌](https://news.google.com/rss/articles/CBMi1wNBVV95cUxOTzdQNndiSkQ2NElRZ3Vtd0hHVFdUZTVoRkxSRU9oM3dyV1Q3UXFoWnl6bmQ0QmFRMmxONlBZZk4zMHVBd0lheExzQXhLWnVyaURMWjRfNzdaMU11eUVvblA5UlVPalJVWUg1VlpsM1BMVjVMLTV3a0FZRmZQbktBekxHTXBvdWNPeVY3c0FfbmVQUmtUV0pqZWYwVUo0UUgwU29sbGNlYTJBQzlWcE9PeURSSEVhWnlYWThxb3E5OWd2UkZYTjlQY0I5bnBEcl9EcG1ncmo5Z1lJbF95eExHNXRnTUF0NUZSNl96UGhxZU9Fb2J4MzJpMVU1WnB6OTQwWEFTT3Awd1BYc2lDN2RIT2dKYjFJYV95Si1EQm50cEhpcjc2Qk45d0FldjR0bTZRdUxneE9aUjVZZTEwTTRfMHdGZXNDay1DTkdkdjQ1dlNKVGc4amxCbUZfUC1LNmZmWGRvbVFkWFRJQVFSYzdMNFJIVE9jaUVFNDBRc3hjU1RGUEVoOENRLXNsdHo3TURpUTNfcjlob1Ixb2FuaDFiOXVnWV9qN0RBV09iYVBXUjFRWmExak9UelBPVjRTYzNpcEtCSks2OWxqR3F2bTBWMjFoQTIwTVk?oc=5)
 
 2026-05-23
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi1wNBVV95cUxOTzdQNndiSkQ2NElRZ3Vtd0hHVFdUZTVoRkxSRU9oM3dyV1Q3UXFoWnl6bmQ0QmFRMmxONlBZZk4zMHVBd0lheExzQXhLWnVyaURMWjRfNzdaMU11eUVvblA5UlVPalJVWUg1VlpsM1BMVjVMLTV3a0FZRmZQbktBekxHTXBvdWNPeVY3c0FfbmVQUmtUV0pqZWYwVUo0UUgwU29sbGNlYTJBQzlWcE9PeURSSEVhWnlYWThxb3E5OWd2UkZYTjlQY0I5bnBEcl9EcG1ncmo5Z1lJbF95eExHNXRnTUF0NUZSNl96UGhxZU9Fb2J4MzJpMVU1WnB6OTQwWEFTT3Awd1BYc2lDN2RIT2dKYjFJYV95Si1EQm50cEhpcjc2Qk45d0FldjR0bTZRdUxneE9aUjVZZTEwTTRfMHdGZXNDay1DTkdkdjQ1dlNKVGc4amxCbUZfUC1LNmZmWGRvbVFkWFRJQVFSYzdMNFJIVE9jaUVFNDBRc3hjU1RGUEVoOENRLXNsdHo3TURpUTNfcjlob1Ixb2FuaDFiOXVnWV9qN0RBV09iYVBXUjFRWmExak9UelBPVjRTYzNpcEtCSks2OWxqR3F2bTBWMjFoQTIwTVk?oc=5)
+
+---
+
+### [中年女性減肥好難！新研究揭最佳飲食法掌握2重點就行- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTE5jYU10TXgyRXpmYnVyaEF2bTlCVVl0ckM1ekpXcHBZNzY4VGFqYlp6dGRxMi1oV2llYjdyOEdyX3FPUWZYX2ZWRWRycUtpTHVWRHZnWDhkeTNVRzVuempvekdJbFh0QXNuM0ZuN19R?oc=5)
+
+2026-05-22
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5jYU10TXgyRXpmYnVyaEF2bTlCVVl0ckM1ekpXcHBZNzY4VGFqYlp6dGRxMi1oV2llYjdyOEdyX3FPUWZYX2ZWRWRycUtpTHVWRHZnWDhkeTNVRzVuempvekdJbFh0QXNuM0ZuN19R?oc=5)
 
 ---
 

@@ -46,7 +46,7 @@ permalink: /news/nystatin/
 
 ### [中年女性減肥好難！新研究揭最佳飲食法掌握2重點就行- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTE5jYU10TXgyRXpmYnVyaEF2bTlCVVl0ckM1ekpXcHBZNzY4VGFqYlp6dGRxMi1oV2llYjdyOEdyX3FPUWZYX2ZWRWRycUtpTHVWRHZnWDhkeTNVRzVuempvekdJbFh0QXNuM0ZuN19R?oc=5)
 
-2026-05-22 <span class="news-indication-tag">更年期</span>
+2026-05-22 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5jYU10TXgyRXpmYnVyaEF2bTlCVVl0ckM1ekpXcHBZNzY4VGFqYlp6dGRxMi1oV2llYjdyOEdyX3FPUWZYX2ZWRWRycUtpTHVWRHZnWDhkeTNVRzVuempvekdJbFh0QXNuM0ZuN19R?oc=5)
 

@@ -38,11 +38,11 @@ permalink: /news/benazepril/
 
 ## 相關新聞（4 則）
 
-### [保險套也防不住　醫揭「HPV高傳染」關鍵：初期無明顯症狀](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yYlRjTTI5TU9PU1c1d1MtZHJibUNQLUwzdFVOd2l1M2JUbHl5d3BGZ3kzNWNmZWVfbkcxdjNDbG9TRXRaZjNaa3NLZmE1S1BY0gFsQVVfeXFMT2ZUWS1qcHhEeXlMcThwR2lvYW1ITXRmZXR0a1phTHZpVXAzelFPaE5fMFNkLVBNM1JpUW8xdUVkeFJWSmoyWDhvNXUzakZ4WDcwdnFnTEwzQmxlT0dmcFdtRWxMS21jMml1OGts?oc=5)
+### [健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
 
-2026-05-24 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+2026-05-24 <span class="news-indication-tag">癌症</span>
 
-來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yYlRjTTI5TU9PU1c1d1MtZHJibUNQLUwzdFVOd2l1M2JUbHl5d3BGZ3kzNWNmZWVfbkcxdjNDbG9TRXRaZjNaa3NLZmE1S1BY0gFsQVVfeXFMT2ZUWS1qcHhEeXlMcThwR2lvYW1ITXRmZXR0a1phTHZpVXAzelFPaE5fMFNkLVBNM1JpUW8xdUVkeFJWSmoyWDhvNXUzakZ4WDcwdnFnTEwzQmxlT0dmcFdtRWxMS21jMml1OGts?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
 
 ---
 
@@ -54,19 +54,19 @@ permalink: /news/benazepril/
 
 ---
 
+### [子宮頸癌每年奪700位台灣女性生命 國泰醫：定期篩檢3年97%可被揪出](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0taGRHYm4tcHFCN2NlWW9VWE14bzJ4Yzd5NThyR1dIYzZ5ZmhfVF9qcThOcWxoV0Z2eVJVMHdTUkZFX0cya2lISEZ2b3FxYTJEOHE0RjFMUDZDbDFZRi1QdQ?oc=5)
+
+2026-05-24 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[民報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0taGRHYm4tcHFCN2NlWW9VWE14bzJ4Yzd5NThyR1dIYzZ5ZmhfVF9qcThOcWxoV0Z2eVJVMHdTUkZFX0cya2lISEZ2b3FxYTJEOHE0RjFMUDZDbDFZRi1QdQ?oc=5)
+
+---
+
 ### [年輕人快速增加的癌症是「它」！跨國權威研究：女性甲狀腺癌發病率僅次於乳癌](https://news.google.com/rss/articles/CBMi1wNBVV95cUxOTzdQNndiSkQ2NElRZ3Vtd0hHVFdUZTVoRkxSRU9oM3dyV1Q3UXFoWnl6bmQ0QmFRMmxONlBZZk4zMHVBd0lheExzQXhLWnVyaURMWjRfNzdaMU11eUVvblA5UlVPalJVWUg1VlpsM1BMVjVMLTV3a0FZRmZQbktBekxHTXBvdWNPeVY3c0FfbmVQUmtUV0pqZWYwVUo0UUgwU29sbGNlYTJBQzlWcE9PeURSSEVhWnlYWThxb3E5OWd2UkZYTjlQY0I5bnBEcl9EcG1ncmo5Z1lJbF95eExHNXRnTUF0NUZSNl96UGhxZU9Fb2J4MzJpMVU1WnB6OTQwWEFTT3Awd1BYc2lDN2RIT2dKYjFJYV95Si1EQm50cEhpcjc2Qk45d0FldjR0bTZRdUxneE9aUjVZZTEwTTRfMHdGZXNDay1DTkdkdjQ1dlNKVGc4amxCbUZfUC1LNmZmWGRvbVFkWFRJQVFSYzdMNFJIVE9jaUVFNDBRc3hjU1RGUEVoOENRLXNsdHo3TURpUTNfcjlob1Ixb2FuaDFiOXVnWV9qN0RBV09iYVBXUjFRWmExak9UelBPVjRTYzNpcEtCSks2OWxqR3F2bTBWMjFoQTIwTVk?oc=5)
 
 2026-05-23 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi1wNBVV95cUxOTzdQNndiSkQ2NElRZ3Vtd0hHVFdUZTVoRkxSRU9oM3dyV1Q3UXFoWnl6bmQ0QmFRMmxONlBZZk4zMHVBd0lheExzQXhLWnVyaURMWjRfNzdaMU11eUVvblA5UlVPalJVWUg1VlpsM1BMVjVMLTV3a0FZRmZQbktBekxHTXBvdWNPeVY3c0FfbmVQUmtUV0pqZWYwVUo0UUgwU29sbGNlYTJBQzlWcE9PeURSSEVhWnlYWThxb3E5OWd2UkZYTjlQY0I5bnBEcl9EcG1ncmo5Z1lJbF95eExHNXRnTUF0NUZSNl96UGhxZU9Fb2J4MzJpMVU1WnB6OTQwWEFTT3Awd1BYc2lDN2RIT2dKYjFJYV95Si1EQm50cEhpcjc2Qk45d0FldjR0bTZRdUxneE9aUjVZZTEwTTRfMHdGZXNDay1DTkdkdjQ1dlNKVGc4amxCbUZfUC1LNmZmWGRvbVFkWFRJQVFSYzdMNFJIVE9jaUVFNDBRc3hjU1RGUEVoOENRLXNsdHo3TURpUTNfcjlob1Ixb2FuaDFiOXVnWV9qN0RBV09iYVBXUjFRWmExak9UelBPVjRTYzNpcEtCSks2OWxqR3F2bTBWMjFoQTIwTVk?oc=5)
-
----
-
-### [2美食別吃多！胰臟癌晚期存活率剩7％ 醫曝前兆症狀：5類人小心](https://news.google.com/rss/articles/CBMibkFVX3lxTE1qTHJraGFWdzZlWjQ1SG1OTEtwR1NlbXNHQkJVa2V2VEtFRmhnajluaU5WRVBLR3A1Z1FhMmY4dlktcm4xOUM1Ymh6RzhldWlnU0x5ZENQX0s2VzlXa3d6dERmaWxTeTRvVVE5dF9n?oc=5)
-
-2026-05-22 <span class="news-indication-tag">癌症</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1qTHJraGFWdzZlWjQ1SG1OTEtwR1NlbXNHQkJVa2V2VEtFRmhnajluaU5WRVBLR3A1Z1FhMmY4dlktcm4xOUM1Ymh6RzhldWlnU0x5ZENQX0s2VzlXa3d6dERmaWxTeTRvVVE5dF9n?oc=5)
 
 ---
 
