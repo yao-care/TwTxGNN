@@ -1,12 +1,25 @@
 {
-  "last_updated": "2026-05-24T13:02:29.960657+00:00",
-  "total_count": 16,
+  "last_updated": "2026-05-24T14:55:55.986797+00:00",
+  "total_count": 17,
   "matched_count": 8,
   "news": [
     {
+      "id": "3e1219486af4",
+      "title": "埃塞俄比亞阿法爾裂谷發現最古老人類火葬遺骸 早於以往紀錄 60,000 年 - Techritual Hong Kong",
+      "published": "2026-05-24T14:03:14+00:00",
+      "summary": "埃塞俄比亞阿法爾裂谷發現最古老人類火葬遺骸 早於以往紀錄 60,000 年&nbsp;&nbsp;Techritual Hong Kong",
+      "sources": [
+        {
+          "name": "Techritual Hong Kong",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rM0JtZmNSZUdxaGZQeFRUMTJmeE1aWVlkTnVKV2hlUWxSREV2akZWLVZMZW9BN0d6M3l2REpFeW1JWFVQblp1ZEYtTGlnWWJFZ1RJYmkwSGU?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "ba76d488a460",
       "title": "健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵",
-      "published": "2026-05-24T10:31:08+00:00",
+      "published": "2026-05-24T13:55:46+00:00",
       "summary": "健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵&nbsp;&nbsp;自由健康網胰臟癌盯上年輕人！研究曝15至39歲增幅驚人 醫揭7招降罹癌風險&nbsp;&nbsp;Yahoo新聞胰臟癌年輕化！15-39歲「癌王」發生率拉升近5成…胰臟癌如何檢查、症狀？醫揭做「7件事」防禦&nbsp;&nbsp;今周刊癌症年輕化成不可逆趨勢？但調整生活習慣仍可降低風險&nbsp;&nbsp;TechNews 科技新報2美食別吃多！胰臟癌晚期存活率剩7％ 醫曝前兆症狀：5類人小心&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
@@ -213,36 +226,25 @@
       ]
     },
     {
-      "id": "33e04cdeb1a8",
-      "title": "1顆蛋含44%維生素D、鋅10%！專家揭顏色差異：和營養無關",
-      "published": "2026-05-24T10:29:32+00:00",
-      "summary": "1顆蛋含44%維生素D、鋅10%！專家揭顏色差異：和營養無關&nbsp;&nbsp;祝你健康馬英九失智成羅生門 美研究吃一廉價食品失智風險大減&nbsp;&nbsp;Yahoo新聞多吃雞蛋可防失智症！美最新研究：每周食用5次以上降低近30%風險&nbsp;&nbsp;元氣網促進大腦健康補充劑 學者建議吃薑黃素 減少阿茲海默發病率&nbsp;&nbsp;世界新聞網英美研究天天1顆蛋防失智但「1種蛋」不行？營養師揭：「選對油」炒更護腦- 營養好食&nbsp;&nbsp;TVBS 健康2.0",
+      "id": "c0a4127c0ac3",
+      "title": "呼吸道融合病毒長效抗體健保審查待廠商送件| 生活 - 中央社 CNA",
+      "published": "2026-05-24T13:33:00+00:00",
+      "summary": "呼吸道融合病毒長效抗體健保審查待廠商送件| 生活&nbsp;&nbsp;中央社 CNA呼吸道融合病毒長效抗體 健保審查待廠商送件&nbsp;&nbsp;UDN【醫生專欄】認識 RSV 預防性抗體 | 為嬰兒多一層即時防護&nbsp;&nbsp;UHK 港生活比流感住院率高16倍！營養師揭「這病」常被當感冒：惡化恐進ICU&nbsp;&nbsp;TVBS新聞網這不是普通感冒！1病毒住院率比流感高出16倍&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hR1M5OGRhNnpBTy1oUWxJWHRrX2RhU3ZFWEJmTkpjZ1czNDAxU3NRR1p0ZW44b2wtakZVa3hnYTh3VFVtVjREUVo1VjhLWFlpZ2Y5bEhKZlh3OTgxUVRDMURhM3JkVml2dGtibXZB?oc=5"
+          "name": "中央社 CNA",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xNEpYNnpaQVh1X3c5Wk12RnlKMFg5T05ISWlxV1VuY1MtUkdHc1phNDhsTS1ZenZBTE5EdnhCTVlzSE82WDc3OW5mYXdMdjkzay1oaHBUTzZsUVE1ekJV?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
+          "name": "common cold",
+          "keyword": "感冒",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }
@@ -499,7 +501,7 @@
       "id": "111594d2f162",
       "title": "子宮頸癌每年奪700位台灣女性生命 國泰醫：定期篩檢3年97%可被揪出",
       "published": "2026-05-24T00:00:00+00:00",
-      "summary": "子宮頸癌每年奪700位台灣女性生命 國泰醫：定期篩檢3年97%可被揪出&nbsp;&nbsp;民報驚！每2男就有1人染HPV「保險套也擋不住」泌尿醫曝真正原因&nbsp;&nbsp;祝你健康HPV男女都要防 桃園醫院：不能輕忽預防&nbsp;&nbsp;大纪元保險套也防不住 醫揭「HPV高傳染」關鍵：初期無明顯症狀&nbsp;&nbsp;ETtoday健康雲子宮頸癌「抹片異常」不等於癌症！醫揭示3大病變 需謹慎處理 - 娛樂新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "子宮頸癌每年奪700位台灣女性生命 國泰醫：定期篩檢3年97%可被揪出&nbsp;&nbsp;民報驚！每2男就有1人染HPV「保險套也擋不住」泌尿醫曝真正原因&nbsp;&nbsp;祝你健康HPV男女都要防 桃園醫院：不能輕忽預防&nbsp;&nbsp;大纪元抹片篩檢 細胞變性不等於罹癌&nbsp;&nbsp;中時新聞網子宮頸癌「抹片異常」不等於癌症！醫揭示3大病變 需謹慎處理 - 娛樂新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "民報",
@@ -742,22 +744,9 @@
       "matched_keywords": []
     },
     {
-      "id": "8edbe0ca48cd",
-      "title": "全球麻疹飆破47萬例 科學家首度破解人類抗體迎療法曙光",
-      "published": "2026-05-23T06:56:29+00:00",
-      "summary": "全球麻疹飆破47萬例 科學家首度破解人類抗體迎療法曙光&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQVWNzY2F4cWpfUDJfTmp4a3RaSm5fVzhBUVdRR1Exdm9uQVRXb21ieWdna2VtdmhtZ0llSC1ya1Vna3VCZ0pjaGNuRXVEN21EeVFWTWJ5ZF9PS3Rad3V3N1hreTZvUnJLZ1duOWJOeG00SjZ4UmlNWjdDanpmOXJQRm9CZUxGSEwyVF92cGNOVUpmX29WVjdjWEd6RENMX0M4cWdMT0lmdjJsTzBCckg4aUVfX3hFekxvZXloUXI0QlJpdlNkMVFmRDRiNW9TbjdZck1QNzJPNnlxN2szYzVEYzNPZ1JjdkR0X3M5LXNYN2MyYThRTGZyOXVaRGRkMlo2a1dmeTlBbG01T0ZTR1M2RmZPSlFVS2llUTJUMXdpYnFDbHBhR3hOZjFHMm81NHJXOWMzUEZzdmc2dHBJbTlrVVIwQUlKb2NabTM0aVI1UUp6eTI4UTZ1TTVKMm05YXVKR2xXSHRVZmhsSWRhWVBieGNWaVdDSGM?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "4d97d105ea6c",
       "title": "大腸癌末期病患「改變心態」 癌細胞神奇消失！9年沒復發",
-      "published": "2026-05-23T06:23:00+00:00",
+      "published": "2026-05-23T07:06:19+00:00",
       "summary": "大腸癌末期病患「改變心態」 癌細胞神奇消失！9年沒復發&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
@@ -803,6 +792,19 @@
       ]
     },
     {
+      "id": "8edbe0ca48cd",
+      "title": "全球麻疹飆破47萬例 科學家首度破解人類抗體迎療法曙光",
+      "published": "2026-05-23T06:56:29+00:00",
+      "summary": "全球麻疹飆破47萬例 科學家首度破解人類抗體迎療法曙光&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQVWNzY2F4cWpfUDJfTmp4a3RaSm5fVzhBUVdRR1Exdm9uQVRXb21ieWdna2VtdmhtZ0llSC1ya1Vna3VCZ0pjaGNuRXVEN21EeVFWTWJ5ZF9PS3Rad3V3N1hreTZvUnJLZ1duOWJOeG00SjZ4UmlNWjdDanpmOXJQRm9CZUxGSEwyVF92cGNOVUpmX29WVjdjWEd6RENMX0M4cWdMT0lmdjJsTzBCckg4aUVfX3hFekxvZXloUXI0QlJpdlNkMVFmRDRiNW9TbjdZck1QNzJPNnlxN2szYzVEYzNPZ1JjdkR0X3M5LXNYN2MyYThRTGZyOXVaRGRkMlo2a1dmeTlBbG01T0ZTR1M2RmZPSlFVS2llUTJUMXdpYnFDbHBhR3hOZjFHMm81NHJXOWMzUEZzdmc2dHBJbTlrVVIwQUlKb2NabTM0aVI1UUp6eTI4UTZ1TTVKMm05YXVKR2xXSHRVZmhsSWRhWVBieGNWaVdDSGM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "3a1e81633a9f",
       "title": "健康網》擦防曬怕缺維D害骨鬆 醫破迷思：擦不夠紫外線更傷膚",
       "published": "2026-05-23T02:23:00+00:00",
@@ -814,6 +816,101 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "2604133f5843",
+      "title": "減肥｜35歲後飲水都肥？醫揭穩住體重3大關鍵 2個時間段最易發胖",
+      "published": "2026-05-23T02:05:35+00:00",
+      "summary": "減肥｜35歲後飲水都肥？醫揭穩住體重3大關鍵 2個時間段最易發胖&nbsp;&nbsp;香港01女生「1時期」變胖速度翻倍! 醫示警：乳癌風險恐增12%&nbsp;&nbsp;MSN體重會影響停經前乳癌患者的治療效果嗎？&nbsp;&nbsp;careonline.com.tw更年期褲子愈穿愈緊？頂尖期刊曝：更年期BMI「多這數字」小心乳癌&nbsp;&nbsp;TVBS 健康2.0中年女性減肥好難！新研究揭最佳飲食法掌握2重點就行- 國際&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxPOFBFcjFTeTBYaXpKYWFJTklsbF9KOG0wQmpldXZ3cHl6Y01ZQ21Ydk0tQnM4Y1FDZTlEbHFlU295UEZub0JwWUlycFRoVzQ0d19XRDdoSkF6VGtuZjBzNmtZWXJ0VnJJN1FELU5nemhKd3kyOW9UU3lvODB2VFh3YnRkcXNaR2FWVTZkdFJUeHJnMEpjMVk3dzZaRjBRb1l0dkY4T1k5Q1ZmV1FQaUh2X2Nid0phb21ZR0ZMMXJ1ZDh5MXJ1dl9GX0ltbmhWZGdiWW1aVXlfdUVFZFVER1BlR0xtTVpVWmFUMEFwR3UzVmxyXzhDTmJIX002cHdub0ZZMGxpSXNmNEc2dkdCVUtTTFYyYWJXRDA5ZU5yVmhxT2pBMHFYY25waEw4QkFPc3YzR25qTjh4TmtOU3F0amgtQUc2WkNEOUpmVjNmLWd1VTZRMXdUeVI3Qkg3MmZQcDc4SU1GcGxndlhXQWxCdFotZ01saGRYWDg1bGkxekZRUjgwbjF0ZExGQXlGcEJGS2xwNmhyQjJjOU4?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "停經",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "f8a04dee534d",
@@ -1084,101 +1181,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "e97b1511c28f",
-      "title": "中年女性減肥好難！新研究揭最佳飲食法掌握2重點就行- 國際",
-      "published": "2026-05-22T15:20:10+00:00",
-      "summary": "中年女性減肥好難！新研究揭最佳飲食法掌握2重點就行- 國際&nbsp;&nbsp;中時新聞網女生「1時期」變胖速度翻倍! 醫示警：乳癌風險恐增12%&nbsp;&nbsp;MSN體重會影響停經前乳癌患者的治療效果嗎？&nbsp;&nbsp;careonline.com.tw更年期褲子愈穿愈緊？頂尖期刊曝：更年期BMI「多這數字」小心乳癌&nbsp;&nbsp;TVBS 健康2.0減肥｜35歲後飲水都肥？醫揭穩住體重3大關鍵 2個時間段最易發胖&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jYU10TXgyRXpmYnVyaEF2bTlCVVl0ckM1ekpXcHBZNzY4VGFqYlp6dGRxMi1oV2llYjdyOEdyX3FPUWZYX2ZWRWRycUtpTHVWRHZnWDhkeTNVRzVuempvekdJbFh0QXNuM0ZuN19R?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "停經",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "554d4b56a4a9",

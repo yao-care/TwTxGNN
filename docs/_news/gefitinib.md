@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
 
 2026-05-24 <span class="news-indication-tag">癌症</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
-
----
-
-### [1顆蛋含44%維生素D、鋅10%！專家揭顏色差異：和營養無關](https://news.google.com/rss/articles/CBMibkFVX3lxTE1hR1M5OGRhNnpBTy1oUWxJWHRrX2RhU3ZFWEJmTkpjZ1czNDAxU3NRR1p0ZW44b2wtakZVa3hnYTh3VFVtVjREUVo1VjhLWFlpZ2Y5bEhKZlh3OTgxUVRDMURhM3JkVml2dGtibXZB?oc=5)
-
-2026-05-24 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[祝你健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1hR1M5OGRhNnpBTy1oUWxJWHRrX2RhU3ZFWEJmTkpjZ1czNDAxU3NRR1p0ZW44b2wtakZVa3hnYTh3VFVtVjREUVo1VjhLWFlpZ2Y5bEhKZlh3OTgxUVRDMURhM3JkVml2dGtibXZB?oc=5)
 
 ---
 
