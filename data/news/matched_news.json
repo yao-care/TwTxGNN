@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-24T19:03:45.808360+00:00",
+  "last_updated": "2026-05-24T20:43:22.144686+00:00",
   "total_count": 21,
-  "matched_count": 7,
+  "matched_count": 8,
   "news": [
     {
       "id": "ba76d488a460",
       "title": "健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵",
-      "published": "2026-05-24T16:58:17+00:00",
+      "published": "2026-05-24T19:58:34+00:00",
       "summary": "健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵&nbsp;&nbsp;自由健康網胰臟癌盯上年輕人！研究曝15至39歲增幅驚人 醫揭7招降罹癌風險&nbsp;&nbsp;Yahoo新聞胰臟癌年輕化！15-39歲「癌王」發生率拉升近5成…胰臟癌如何檢查、症狀？醫揭做「7件事」防禦&nbsp;&nbsp;今周刊癌症年輕化成不可逆趨勢？但調整生活習慣仍可降低風險&nbsp;&nbsp;TechNews 科技新報2美食別吃多！胰臟癌晚期存活率剩7％ 醫曝前兆症狀：5類人小心&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
@@ -537,6 +537,31 @@
       ]
     },
     {
+      "id": "111594d2f162",
+      "title": "子宮頸癌每年奪700位台灣女性生命 國泰醫：定期篩檢3年97%可被揪出",
+      "published": "2026-05-24T00:00:00+00:00",
+      "summary": "子宮頸癌每年奪700位台灣女性生命 國泰醫：定期篩檢3年97%可被揪出&nbsp;&nbsp;民報",
+      "sources": [
+        {
+          "name": "民報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0taGRHYm4tcHFCN2NlWW9VWE14bzJ4Yzd5NThyR1dIYzZ5ZmhfVF9qcThOcWxoV0Z2eVJVMHdTUkZFX0cya2lISEZ2b3FxYTJEOHE0RjFMUDZDbDFZRi1QdQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "291dce01f920",
       "title": "德州聖大衛醫療中心心律不正研究所將主辦複雜性心律不正國際會議",
       "published": "2026-05-23T16:08:13+00:00",
@@ -637,14 +662,14 @@
       ]
     },
     {
-      "id": "0dd3b4715332",
+      "id": "8edbe0ca48cd",
       "title": "全球麻疹飆破47萬例 科學家首度破解人類抗體迎療法曙光",
-      "published": "2026-05-23T06:47:48+00:00",
-      "summary": "全球麻疹飆破47萬例 科學家首度破解人類抗體迎療法曙光&nbsp;&nbsp;民報",
+      "published": "2026-05-23T06:56:29+00:00",
+      "summary": "全球麻疹飆破47萬例 科學家首度破解人類抗體迎療法曙光&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "民報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56NmNpaHFUYmdnaEd3Zl9DUWtCelRYdDktZUVuUHhXUnBaRGhteDdnTVg2YlY0ZjlURVR6dm1SajV1dEVGT1lOeTJ2QWRYYXdpMWpJZm9ZaWxxUDMydjloUg?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQVWNzY2F4cWpfUDJfTmp4a3RaSm5fVzhBUVdRR1Exdm9uQVRXb21ieWdna2VtdmhtZ0llSC1ya1Vna3VCZ0pjaGNuRXVEN21EeVFWTWJ5ZF9PS3Rad3V3N1hreTZvUnJLZ1duOWJOeG00SjZ4UmlNWjdDanpmOXJQRm9CZUxGSEwyVF92cGNOVUpmX29WVjdjWEd6RENMX0M4cWdMT0lmdjJsTzBCckg4aUVfX3hFekxvZXloUXI0QlJpdlNkMVFmRDRiNW9TbjdZck1QNzJPNnlxN2szYzVEYzNPZ1JjdkR0X3M5LXNYN2MyYThRTGZyOXVaRGRkMlo2a1dmeTlBbG01T0ZTR1M2RmZPSlFVS2llUTJUMXdpYnFDbHBhR3hOZjFHMm81NHJXOWMzUEZzdmc2dHBJbTlrVVIwQUlKb2NabTM0aVI1UUp6eTI4UTZ1TTVKMm05YXVKR2xXSHRVZmhsSWRhWVBieGNWaVdDSGM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1010,19 +1035,6 @@
         {
           "name": "UDN",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVcnd2OWRPNHFOTHUzaTQxcGhrdTA4enZJam5Vb1VPY1hqZS1oWXB4LVFWdWROYTJURnRaY1JJY2VKdDBIRkpsUU55Y2h4RXNr?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a64d0ca76d7b",
-      "title": "澳洲研究首見巨噬細胞噬癌畫面 揭免疫療法新途徑",
-      "published": "2026-05-22T19:14:50+00:00",
-      "summary": "澳洲研究首見巨噬細胞噬癌畫面 揭免疫療法新途徑&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBXQkZlWjEwSW1BTFJMRm9TSk8yQmR4VjNBVVQ3Tm9GTWdscVZETll2STM0TFpPT0Z3cmc?oc=5"
         }
       ],
       "matched_keywords": []
