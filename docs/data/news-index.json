@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-25T22:02:20.305659+00:00",
+  "generated": "2026-05-25T23:57:24.851129+00:00",
   "count": 12,
   "news": [
     {
@@ -443,17 +443,6 @@
         {
           "type": "indication",
           "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
           "keyword": "失智",
           "related_drugs": [
             {
@@ -854,13 +843,13 @@
       ]
     },
     {
-      "id": "17e5414dfe99",
+      "id": "83ba0a5136a6",
       "title": "歐盟心臟報告示警：超加工食品大增心臟疾病風險",
-      "published": "2026-05-24T08:27:17+00:00",
+      "published": "2026-05-24T11:01:23+00:00",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQSDdtclM4aFhHM3duR201NkJ2NEwzMmwzVlozcUFjQ1JrMzlsTE9TQzhxUFlFU3hTWHYtUkZQRDVhcE4tTGdSdVQ0SnQwRTJsbEN4ZGllR1BXSEx1dlhZdjZhVV9fOFhqX0ZmMFEzMnhBdUM1V0tVeWRtQ2hDcTZOaGhtdDVaemdvelZZWEhjQ2Y2QWRnTEJHLUpULVVFeFVVMzl5U1dpa3BKdEUySmYwMEtLRkxQMmtMTTNrcElNSzdqSkxkNWJlbWlTWkVZWlZpVnlxRll0VmpMQ2htekx2N2c5aU1xYVBtM1dhUUI2QWRSVV9ETzVzd2RCMkpZZnRZN3lJXy1vNms2MFZKeWFvenVfRWZ5TEFZeTRMaWpXdUR4ekZ0NHgzTW41LVdoZ2NCYkpLNlZOMVRKdDh3dDN5SDRHOXRSY1B6b0JZ?oc=5"
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1MN3V0Q2ZtN2dORHJqUUkxcHFBSEwwR3Nyck5QamFCR1gzZVdnZFV2YjhpY0VQcWFVMnc?oc=5"
         }
       ],
       "keywords": [

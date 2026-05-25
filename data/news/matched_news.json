@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-25T22:02:20.275435+00:00",
-  "total_count": 24,
+  "last_updated": "2026-05-25T23:57:24.819952+00:00",
+  "total_count": 21,
   "matched_count": 12,
   "news": [
     {
@@ -12,19 +12,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CWFRSU1VReUtiUktyNWtIN0RwWlE2Z3FMR1lXZEpWTThkaVh2OWFiTm5IVFRsVGZ3RW9IaTVKWUhkOVNLTVV1c211V21lZnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1edf6c7e362b",
-      "title": "數百萬人使用的心臟藥物被發現毫無用處，甚至是危險的。",
-      "published": "2026-05-25T14:38:32+00:00",
-      "summary": "數百萬人使用的心臟藥物被發現毫無用處，甚至是危險的。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNLXZ6MFY0MktLMEpvQ1BxMzZCdTlYQmp6N20xeUFPOGE2LU5hTllIVmF5Q2xhSWl0YkxEV2pudGZSUXQtUlAxTm1lSElvTU1lY2djX0xndjBpdHdheFlLdWZiWklOUF9XTzZKNGx0QkZPalJEWDQ1a2FCQVhFcTBVcXB4X3dBTUppLTlqWUR5OVVwOXZzRndQLWJOa0JnNUlQa3hCb3FsLVFyczU0ckFfcVZ5eFRZbXQzbV92TWlSbkRuS2xILTFMUjF2cG1MNDlCZHJtVTlXWE5RZ3NkWC1KRXgzbURXdmdRMS1xdzBDTFgwdVk0ZktjckFOSDhMcW14QU90dFdLcmJtS0NzOVY5cnJvc194ZERqeXE3UzlZUkRhOHJKenRmZkt5cUx1SlZqQmhRRzNDalZYM3VYV2NIOGNrWUZSRXAtYk96ZUk5aDVNWFU3bVRGeWx3Z2lxTUotOFRuazBVQVU1cVg5VFpFRi1VNFJVc2xtYlY5bExWRzFWeUxmWmc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -462,7 +449,7 @@
       "id": "8235a74ad901",
       "title": "健康網》不只防失智！ 專家揭雞蛋營養亮點 1顆補足半日維生素D",
       "published": "2026-05-25T08:41:00+00:00",
-      "summary": "健康網》不只防失智！ 專家揭雞蛋營養亮點 1顆補足半日維生素D&nbsp;&nbsp;自由健康網馬英九失智成羅生門 美研究吃一廉價食品失智風險大減&nbsp;&nbsp;Yahoo新聞1顆蛋含44%維生素D、鋅10%！專家揭顏色差異：和營養無關&nbsp;&nbsp;祝你健康它＝完全營養食物！能降低 27% 失智風險&nbsp;&nbsp;鏡週刊Mirror Media超常見！4萬人最新研究曝光規律吃1物降27％阿茲海默症風險- 生活&nbsp;&nbsp;中時新聞網",
+      "summary": "健康網》不只防失智！ 專家揭雞蛋營養亮點 1顆補足半日維生素D&nbsp;&nbsp;自由健康網馬英九失智成羅生門 美研究吃一廉價食品失智風險大減&nbsp;&nbsp;Yahoo新聞擊敗一切！「它」是完全營養食物：能降低27% 失智風險&nbsp;&nbsp;祝你健康英美研究天天1顆蛋防失智但「1種蛋」不行？營養師揭：「選對油」炒更護腦- 營養好食&nbsp;&nbsp;TVBS 健康2.01顆蛋含44%維生素D、鋅10%!專家揭顏色差異： 和營養無關&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "自由健康網",
@@ -473,17 +460,6 @@
         {
           "type": "indication",
           "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
           "keyword": "失智",
           "related_drugs": [
             {
@@ -571,7 +547,7 @@
       "id": "7e22bfb12330",
       "title": "健檢發現脂肪胰，放任恐變胰臟癌！張家銘醫師：不只是「油多」，4招幫胰臟減壓逆轉",
       "published": "2026-05-25T07:00:00+00:00",
-      "summary": "健檢發現脂肪胰，放任恐變胰臟癌！張家銘醫師：不只是「油多」，4招幫胰臟減壓逆轉&nbsp;&nbsp;50+全國最大熟齡媒體健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵&nbsp;&nbsp;自由健康網胰臟癌年輕化！15-39歲「癌王」發生率拉升近5成…胰臟癌如何檢查、症狀？醫揭做「7件事」防禦&nbsp;&nbsp;今周刊2美食別吃多！胰臟癌晚期存活率剩7％ 醫曝前兆症狀：5類人小心&nbsp;&nbsp;中時新聞網癌症年輕化成不可逆趨勢？但調整生活習慣仍可降低風險&nbsp;&nbsp;TechNews 科技新報",
+      "summary": "健檢發現脂肪胰，放任恐變胰臟癌！張家銘醫師：不只是「油多」，4招幫胰臟減壓逆轉&nbsp;&nbsp;50+全國最大熟齡媒體胰臟癌年輕化！15-39歲「癌王」發生率拉升近5成…胰臟癌如何檢查、症狀？醫揭做「7件事」防禦&nbsp;&nbsp;今周刊健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵&nbsp;&nbsp;自由健康網被稱最兇癌症！發現已是晚期 5年「存活率僅1成」&nbsp;&nbsp;TVBS新聞網癌症年輕化成不可逆趨勢？但調整生活習慣仍可降低風險&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
           "name": "50+全國最大熟齡媒體",
@@ -803,14 +779,14 @@
       "matched_keywords": []
     },
     {
-      "id": "519597885938",
+      "id": "e7813f4b21eb",
       "title": "美國心臟協會發布新版飲食建議：全食物模式彈性護心",
-      "published": "2026-05-25T04:24:00+00:00",
-      "summary": "美國心臟協會發布新版飲食建議：全食物模式彈性護心&nbsp;&nbsp;蕃新聞",
+      "published": "2026-05-25T04:24:52+00:00",
+      "summary": "美國心臟協會發布新版飲食建議：全食物模式彈性護心&nbsp;&nbsp;yesmedia.com.tw",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FMW5zODdFOG5ZaUg4RlhyZXN2b1BFZzhFNDA0SjktOERVWG5YOTBKVHZYOEJ5RlhPTzBxeGU5Qm9RdTEyZVBBQkJYRzFuZU9ELXc?oc=5"
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPZGZUT0dSV3B5SWxXZXVQU05SRXNfb2hRMXdvRVRDS082bjBRVllrTHdmZDY3b2RKaV95dTJnbkF5YWhhQzJaS0dOTXJwNUpMd0U0ZmJxcFNlc0NtLTgwM3h5eF92QlliSFdTeWEyeVpvZmJPYlFQTTVPSkxVbEppc3Mxa0lFN3FRSVB4ZkotVUhBQ2lSRW5KVW5FMEFLVzI5WDg0ZXRubXEzQUNMb3RvOERUOERHYi0tZ3FRdDVKaWEtTU9vam5LWXBhNWlISFYwcXRKQnlfeEJ6LXMwWjRCdURDdVNUR2VES0JkaFVzb1Z0UGdVRlIyT09IeVphTDlBeVYyYU5jVS02XzRROUFSTjd5cW5aemd5RFVwWThUT25fRXc1MU91MXg4Qk9vanowOFk5UjdiQlQ1ZGlDQ0llY2pXd0lkQXhrMnhN?oc=5"
         }
       ],
       "matched_keywords": []
@@ -968,27 +944,14 @@
       "matched_keywords": []
     },
     {
-      "id": "f9741803643d",
-      "title": "我女兒得了腦癌，我無法告訴她她快要死了",
-      "published": "2026-05-24T13:36:26+00:00",
-      "summary": "我女兒得了腦癌，我無法告訴她她快要死了&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOUVN6TS1LVG05My1najUtWEhlZTZQc3ZEcS1EOVhhdEV2Yk5DX0diVFhLR2oxQXVQUVpLdVh0dmdnd3o2dlZ5bFRKU184TVY5XzhZRFJWeTdQMXRlb1RvaWxCWTNtU0NXZ2NNb1FDVFBFZm81c04yRmQycm4tNEVReU11THVTVllFTHZaZ19ka0RRVFNEdzVBc1BuUnpGekVFMTJpSHpNN2NBQVFaWlRhcHJmT0lLSmpZVWppZ0tQYkE4bDlva2tLajhPMzROSEdYdnRzdlF1WFh5MVRSbmdSV20wTmtEX0RQS3dKLTNucjkzQkk4dzRYanllanJFZG84Q0ZLbzgzT0MtbWlDYWRBOVBibFF4c0Z2T2JUeXVYVDBEQ3hBV3pHRDNtalJCUmxjazhoN2tDdnBTUFNvSVJNeEFrY0VteldfMmQ2c2p5YVRBRS1QeEo1V0tqRmdQX2FNVnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "17e5414dfe99",
+      "id": "83ba0a5136a6",
       "title": "歐盟心臟報告示警：超加工食品大增心臟疾病風險",
-      "published": "2026-05-24T08:27:17+00:00",
-      "summary": "歐盟心臟報告示警：超加工食品大增心臟疾病風險&nbsp;&nbsp;yesmedia.com.tw前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "published": "2026-05-24T11:01:23+00:00",
+      "summary": "歐盟心臟報告示警：超加工食品大增心臟疾病風險&nbsp;&nbsp;ENN台灣電報前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQSDdtclM4aFhHM3duR201NkJ2NEwzMmwzVlozcUFjQ1JrMzlsTE9TQzhxUFlFU3hTWHYtUkZQRDVhcE4tTGdSdVQ0SnQwRTJsbEN4ZGllR1BXSEx1dlhZdjZhVV9fOFhqX0ZmMFEzMnhBdUM1V0tVeWRtQ2hDcTZOaGhtdDVaemdvelZZWEhjQ2Y2QWRnTEJHLUpULVVFeFVVMzl5U1dpa3BKdEUySmYwMEtLRkxQMmtMTTNrcElNSzdqSkxkNWJlbWlTWkVZWlZpVnlxRll0VmpMQ2htekx2N2c5aU1xYVBtM1dhUUI2QWRSVV9ETzVzd2RCMkpZZnRZN3lJXy1vNms2MFZKeWFvenVfRWZ5TEFZeTRMaWpXdUR4ekZ0NHgzTW41LVdoZ2NCYkpLNlZOMVRKdDh3dDN5SDRHOXRSY1B6b0JZ?oc=5"
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1MN3V0Q2ZtN2dORHJqUUkxcHFBSEwwR3Nyck5QamFCR1gzZVdnZFV2YjhpY0VQcWFVMnc?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1052,19 +1015,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "17ea8496c1ca",
-      "title": "科學家發現老化的隱藏原因—簡單的膳食補充劑有助於減緩大腦退化",
-      "published": "2026-05-24T06:06:09+00:00",
-      "summary": "科學家發現老化的隱藏原因—簡單的膳食補充劑有助於減緩大腦退化&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNNlVpNEwyb1UwNklhMmxwLVJVbDZ6eDBDSTVuMFdBUDd5N05lQlNtczcyVFZiQnl3Z3BSOU9PUmFjVnZkX2RpUk9fdGlncEFQcnVkTkR2YTdrbHFlYTQzQ29vWkZnSTYtUHhxano1VEZFZl9BWC1vY2tHMWR2dDRCOFg1UU9HenNyVnp0R1JKTF9JWXIyNnFwOUxHM0hkS1ZTcFNYRTNhYXNDbjVHOTNmUE5sclBjQ3VUdUtkLWhfMnB2X2FrODRmMG9GNkdtdVpENlVwWW9OYzIyNDRFVVZlUkU5X1oweVZrb0c4a3prblJjX0ZmZlRkQlA1TURqZGV4U1Ftd1RGY19kOUN0NlJ5MXV2Z3ZEUUZPeFZiblJSbWloSTNhU1FySWxJQmFfQTJVcWVlaHlnRXhkZE03QTNlREhfS0ZVMUpoSzdVa3JzMUhOcmp6dm9FUVYwazNPMmRRRV90TlRxbGN1WTNuYnZjRVgyRkJtalJrSUJz?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "534bff54d83c",
