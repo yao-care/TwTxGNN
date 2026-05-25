@@ -1,15 +1,86 @@
 {
-  "generated": "2026-05-25T07:04:18.102855+00:00",
-  "count": 9,
+  "generated": "2026-05-25T11:44:22.418827+00:00",
+  "count": 10,
   "news": [
     {
-      "id": "ba76d488a460",
-      "title": "健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵",
-      "published": "2026-05-25T05:00:15+00:00",
+      "id": "00ff8d40174d",
+      "title": "大腸癌年輕化不是沒原因 專家點名6種護腸食物與4大關鍵習慣",
+      "published": "2026-05-25T08:39:38+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9odndka0hpNm8tYnpPYjJ4UTJMUGo0clZVSmd0V0VuaXhpRkVpZEs5TjNUcjFiMmpLY2RjeU1HM2VhRkYyNEhrMVh0dlRnY0lheS1keFlQUDBjSm1l0gFiQVVfeXFMTllsMXloa1RJS3M4VzlCM0Myb2tfODZTNnU3Y3JwUXc4eHZGX2xicmo1STQ1QnE0am54OGs5M1FfWU5zeU1VOENsZDNocEx5LUNadF8zQ1dDSGQyWVV3X1RmWnc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eeacd8e934c0",
+      "title": "子宮頸抹片多久做一次？抹片異常代表罹癌？帶你初步看懂抹片報告 - PChome Online 新聞",
+      "published": "2026-05-25T07:30:00+00:00",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNazhzblVMdDFZUWQzMXFKUEhrRXNERkt3TnJBYjhDdzJyLVZJeGtXTEZQeXp4QWVpMnFjRzRtMzgzdTNnbnhwY1F4VjdxaWlKZGdSNU15UVhrZW02WlFKU2I5ZlY5UnZRZS1kN0Z1NzktTE5rS2pwWWx5ejZGYjhieTNZOHJ0TzJjdUE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7e22bfb12330",
+      "title": "健檢發現脂肪胰，放任恐變胰臟癌！張家銘醫師：不只是「油多」，4招幫胰臟減壓逆轉",
+      "published": "2026-05-25T07:00:00+00:00",
+      "sources": [
+        {
+          "name": "50+全國最大熟齡媒體",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzdUpRaU43Y2h4N1A2Qzk4YnhJRFItWlVTb2V0Qk93d0VHck5jeEFmbFU5QllWWGxfTlBJY0VLaFpaSW1KajVRd1pieWlEajhnTmIyMFh3?oc=5"
         }
       ],
       "keywords": [
@@ -292,41 +363,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "308115394d7a",
-      "title": "1顆蛋含44%維生素D、鋅10%！專家揭顏色差異：和營養無關",
-      "published": "2026-05-24T10:29:32+00:00",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EZ0lLUE1UVHdTTWtOTFRNcTJSdjlNSWtkc1JKV1pTV1lvU0NlR0dlSi1vNHYtUXJRYlZBTDJTdjFFM1lyUDdEX2ctajY?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
@@ -637,24 +673,47 @@
       ]
     },
     {
-      "id": "111594d2f162",
-      "title": "子宮頸癌每年奪700位台灣女性生命 國泰醫：定期篩檢3年97%可被揪出",
-      "published": "2026-05-24T00:00:00+00:00",
+      "id": "6d82619a3e0e",
+      "title": "大腸癌末期病患「改變心態」 癌細胞神奇消失！9年沒復發",
+      "published": "2026-05-23T18:46:11+00:00",
       "sources": [
         {
-          "name": "民報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0taGRHYm4tcHFCN2NlWW9VWE14bzJ4Yzd5NThyR1dIYzZ5ZmhfVF9qcThOcWxoV0Z2eVJVMHdTUkZFX0cya2lISEZ2b3FxYTJEOHE0RjFMUDZDbDFZRi1QdQ?oc=5"
+          "name": "鏡新聞",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IMjc2Y3JRUlRVTGFqczJLdktoTzVycUNnWjdPX21PeS1UNHBtOHBjRkFiMUNZRWZocEVKc0JIUUROMXpZY3dpTVo2OHpHQXNFY1g5ZDd1YWtKUQ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
           "related_drugs": [
             {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }

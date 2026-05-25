@@ -3,7 +3,7 @@ layout: default
 title: "失智症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智症（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
-<strong>失智症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智症（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [吃起司降失智症風險！瑞典研究：每日只要吃2片，失智風險降低13%](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9walc5YUh6Rl9rR0RwcDdRY0k5WXlZbzNCdzBNZzJkc1hnNU9KU082RE5BZnB3UUk1dlFKMEZ2Yk00Njhackl0d0RKTTR3VWd3Sjdz?oc=5)
 
 2026-05-25
 
 來源：[優活健康網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9walc5YUh6Rl9rR0RwcDdRY0k5WXlZbzNCdzBNZzJkc1hnNU9KU082RE5BZnB3UUk1dlFKMEZ2Yk00Njhackl0d0RKTTR3VWd3Sjdz?oc=5)
-
----
-
-### [1顆蛋含44%維生素D、鋅10%！專家揭顏色差異：和營養無關](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EZ0lLUE1UVHdTTWtOTFRNcTJSdjlNSWtkc1JKV1pTV1lvU0NlR0dlSi1vNHYtUXJRYlZBTDJTdjFFM1lyUDdEX2ctajY?oc=5)
-
-2026-05-24
-
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EZ0lLUE1UVHdTTWtOTFRNcTJSdjlNSWtkc1JKV1pTV1lvU0NlR0dlSi1vNHYtUXJRYlZBTDJTdjFFM1lyUDdEX2ctajY?oc=5)
 
 ---
 
