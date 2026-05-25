@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [打破貓咪腫瘤神秘面紗！《科學》新研究揭開人、貓癌症基因驚人關聯](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zN0ZQSEJwUVZSR3E3bjB1d2NVN3E3Snd5TGdQYjlwSjJMX2g4MjVLUG44Wl9UZEM5NEw5bXd6ZlhxWDktaFVMbGNtRXM4Vm9UUi1tX3J0LWNYNUMwY3Iw?oc=5)
+
+2026-05-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+
+來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zN0ZQSEJwUVZSR3E3bjB1d2NVN3E3Snd5TGdQYjlwSjJMX2g4MjVLUG44Wl9UZEM5NEw5bXd6ZlhxWDktaFVMbGNtRXM4Vm9UUi1tX3J0LWNYNUMwY3Iw?oc=5)
+
+---
 
 ### [大腸癌年輕化不是沒原因 專家點名6種護腸食物與4大關鍵習慣](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9odndka0hpNm8tYnpPYjJ4UTJMUGo0clZVSmd0V0VuaXhpRkVpZEs5TjNUcjFiMmpLY2RjeU1HM2VhRkYyNEhrMVh0dlRnY0lheS1keFlQUDBjSm1l0gFiQVVfeXFMTllsMXloa1RJS3M4VzlCM0Myb2tfODZTNnU3Y3JwUXc4eHZGX2xicmo1STQ1QnE0am54OGs5M1FfWU5zeU1VOENsZDNocEx5LUNadF8zQ1dDSGQyWVV3X1RmWnc?oc=5)
 

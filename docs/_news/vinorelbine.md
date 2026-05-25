@@ -14,7 +14,7 @@ permalink: /news/vinorelbine/
 ---
 
 <p class="key-answer" data-question="Vinorelbine 有什麼相關新聞？">
-<strong>Vinorelbine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vinorelbine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/vinorelbine/
 <p><a href="{{ '/drugs/vinorelbine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [打破貓咪腫瘤神秘面紗！《科學》新研究揭開人、貓癌症基因驚人關聯](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zN0ZQSEJwUVZSR3E3bjB1d2NVN3E3Snd5TGdQYjlwSjJMX2g4MjVLUG44Wl9UZEM5NEw5bXd6ZlhxWDktaFVMbGNtRXM4Vm9UUi1tX3J0LWNYNUMwY3Iw?oc=5)
+
+2026-05-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+
+來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zN0ZQSEJwUVZSR3E3bjB1d2NVN3E3Snd5TGdQYjlwSjJMX2g4MjVLUG44Wl9UZEM5NEw5bXd6ZlhxWDktaFVMbGNtRXM4Vm9UUi1tX3J0LWNYNUMwY3Iw?oc=5)
+
+---
 
 ### [健檢發現脂肪胰，放任恐變胰臟癌！張家銘醫師：不只是「油多」，4招幫胰臟減壓逆轉](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzdUpRaU43Y2h4N1A2Qzk4YnhJRFItWlVTb2V0Qk93d0VHck5jeEFmbFU5QllWWGxfTlBJY0VLaFpaSW1KajVRd1pieWlEajhnTmIyMFh3?oc=5)
 
