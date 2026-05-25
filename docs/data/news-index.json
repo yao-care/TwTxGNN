@@ -1,11 +1,11 @@
 {
-  "generated": "2026-05-25T02:37:04.580697+00:00",
-  "count": 6,
+  "generated": "2026-05-25T07:04:18.102855+00:00",
+  "count": 9,
   "news": [
     {
       "id": "ba76d488a460",
       "title": "健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵",
-      "published": "2026-05-25T02:00:30+00:00",
+      "published": "2026-05-25T05:00:15+00:00",
       "sources": [
         {
           "name": "自由健康網",
@@ -211,6 +211,69 @@
       ]
     },
     {
+      "id": "bed8d65404d1",
+      "title": "吃起司降失智症風險！瑞典研究：每日只要吃2片，失智風險降低13%",
+      "published": "2026-05-25T03:00:00+00:00",
+      "sources": [
+        {
+          "name": "優活健康網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9walc5YUh6Rl9rR0RwcDdRY0k5WXlZbzNCdzBNZzJkc1hnNU9KU082RE5BZnB3UUk1dlFKMEZ2Yk00Njhackl0d0RKTTR3VWd3Sjdz?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "daa2368f0af5",
+      "title": "24歲確診淋巴癌，他熬過復發又陪母親抗癌！心理師4次與癌同行：家屬不必時刻堅強，你也有脆弱權利",
+      "published": "2026-05-25T02:53:00+00:00",
+      "sources": [
+        {
+          "name": "幸福熟齡",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpVXJ2UnBfeDYwd1ozd0w0MENqUF9DZ0RnNWFWcDd3UGxIdlp6UXdmQTdpb3RiZGxpbFhFSWpiZHA1N25hMWhvcEdmSUVxMUZnNkhoU2NfLWFnRWNPR2V2WmNlMW9YWHFZLVpKSmlKQkxRcUVFMVBma0pGNA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "primary cutaneous B-cell lymphoma",
+          "keyword": "淋巴癌",
+          "related_drugs": [
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "c0a4127c0ac3",
       "title": "呼吸道融合病毒長效抗體健保審查待廠商送件| 生活 - 中央社 CNA",
       "published": "2026-05-24T13:33:00+00:00",
@@ -235,13 +298,120 @@
       ]
     },
     {
-      "id": "853aff92a97a",
-      "title": "不只是腫瘤測量指標！細胞實測揭醫界常用蛋白具防護機制 能阻斷癌變",
-      "published": "2026-05-24T05:44:00+00:00",
+      "id": "308115394d7a",
+      "title": "1顆蛋含44%維生素D、鋅10%！專家揭顏色差異：和營養無關",
+      "published": "2026-05-24T10:29:32+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXaHF1djlXMWw5REtMRU5ybEF4MVRIOHd0V3ZtUzJvUmZYUU9vMEJUdENTMHNHeUQ1aDlEN1dEMGZoN1d2c1ZHMW5DREhEdkRPc2drS1M1TXNHTWdyUGo1OTJvZXHSAWpBVV95cUxPcV80by1FZDFjTkhkR1BXcGctVTkyTVlSdFFBNFhqdEdJVzZZZGh2QkIyNXBYVjctdmJ3WkROT3R3VGdDclVkcVZ3RlRxOGppWVFJRGhKU2RLQm9wQkRZamE3b0hZVFlnd3B3?oc=5"
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EZ0lLUE1UVHdTTWtOTFRNcTJSdjlNSWtkc1JKV1pTV1lvU0NlR0dlSi1vNHYtUXJRYlZBTDJTdjFFM1lyUDdEX2ctajY?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17e5414dfe99",
+      "title": "歐盟心臟報告示警：超加工食品大增心臟疾病風險",
+      "published": "2026-05-24T08:27:17+00:00",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQSDdtclM4aFhHM3duR201NkJ2NEwzMmwzVlozcUFjQ1JrMzlsTE9TQzhxUFlFU3hTWHYtUkZQRDVhcE4tTGdSdVQ0SnQwRTJsbEN4ZGllR1BXSEx1dlhZdjZhVV9fOFhqX0ZmMFEzMnhBdUM1V0tVeWRtQ2hDcTZOaGhtdDVaemdvelZZWEhjQ2Y2QWRnTEJHLUpULVVFeFVVMzl5U1dpa3BKdEUySmYwMEtLRkxQMmtMTTNrcElNSzdqSkxkNWJlbWlTWkVZWlZpVnlxRll0VmpMQ2htekx2N2c5aU1xYVBtM1dhUUI2QWRSVV9ETzVzd2RCMkpZZnRZN3lJXy1vNms2MFZKeWFvenVfRWZ5TEFZeTRMaWpXdUR4ekZ0NHgzTW41LVdoZ2NCYkpLNlZOMVRKdDh3dDN5SDRHOXRSY1B6b0JZ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "534bff54d83c",
+      "title": "不只是腫瘤測量指標！細胞實測揭醫界常用蛋白具防護機制 能阻斷癌變",
+      "published": "2026-05-24T06:03:52+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOWHdPdWduWDZYelNfSEVZTjlKZGZuQlNBNFhsTExMYTRfeGtmUGVRS3hGVUdGN1QyN1A0eUFFZHhWaG02enM5OWsxOE1TQlFyTUdnMFRMZk51eS1HdTl1WTFjeWtBM2hXUkZDOEkxTnlxVEViajMwQnpPMms5ejl5aUlBRlY1MS1XQXJoODRWZ3ROc1QxRHY0N0JibXMyUlk0aGNENFAyUVFvay1GSnVpbjdDbEItRERpbmZodzd6eTFZMERqZHh5Xy01Ql9aLV9QRDZEUmtIcUVIM01UX1J6SDl0N0RncVNiS21Xak9hUzYwc0t1em40YmdpUWdzbHNBcElabXlfZEdBa215N3RUQlRpY2FUc1VDVTFyXy01RXpoVm5mc3BNdWlUMmg1QVNROFRhckhpMjRzdzEydU1Wc0hLam94VmVpNkN4QVRLZUR0ajJUMGtNUUlpQmtkVW5tX2hQWHZrOTlCbm5OdFQ4LVdWUjFXU0FmTlhDVDRoY1QyaGFwNkRqZTZfdFZRdTNRc0ZqdDdNSHFicWdnNkhkYVFPcktHZ3E5ZVJmTkd6UTJHUmdINU52M1hCdm1xdw?oc=5"
         }
       ],
       "keywords": [
@@ -485,100 +655,6 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2604133f5843",
-      "title": "減肥｜35歲後飲水都肥？醫揭穩住體重3大關鍵 2個時間段最易發胖",
-      "published": "2026-05-23T02:05:35+00:00",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxPOFBFcjFTeTBYaXpKYWFJTklsbF9KOG0wQmpldXZ3cHl6Y01ZQ21Ydk0tQnM4Y1FDZTlEbHFlU295UEZub0JwWUlycFRoVzQ0d19XRDdoSkF6VGtuZjBzNmtZWXJ0VnJJN1FELU5nemhKd3kyOW9UU3lvODB2VFh3YnRkcXNaR2FWVTZkdFJUeHJnMEpjMVk3dzZaRjBRb1l0dkY4T1k5Q1ZmV1FQaUh2X2Nid0phb21ZR0ZMMXJ1ZDh5MXJ1dl9GX0ltbmhWZGdiWW1aVXlfdUVFZFVER1BlR0xtTVpVWmFUMEFwR3UzVmxyXzhDTmJIX002cHdub0ZZMGxpSXNmNEc2dkdCVUtTTFYyYWJXRDA5ZU5yVmhxT2pBMHFYY25waEw4QkFPc3YzR25qTjh4TmtOU3F0amgtQUc2WkNEOUpmVjNmLWd1VTZRMXdUeVI3Qkg3MmZQcDc4SU1GcGxndlhXQWxCdFotZ01saGRYWDg1bGkxekZRUjgwbjF0ZExGQXlGcEJGS2xwNmhyQjJjOU4?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "停經",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }

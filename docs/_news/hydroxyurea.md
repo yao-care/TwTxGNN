@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/hydroxyurea/
 <li><strong>原適應症</strong>：慢性骨髓性白血病、骨髓纖維化、真性紅血球增多症、卵巢癌、頭頸癌</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（100.0%）</li>
 <li>sickle cell-hemoglobin E disease syndrome（99.7%）</li>
 <li>sickle cell-hemoglobin c disease syndrome（99.7%）</li>
 <li>hereditary persistence of fetal hemoglobin-sickle cell disease syndrome（99.7%）</li>
@@ -42,7 +42,7 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
 
@@ -52,19 +52,11 @@ permalink: /news/hydroxyurea/
 
 ---
 
-### [不只是腫瘤測量指標！細胞實測揭醫界常用蛋白具防護機制 能阻斷癌變](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXaHF1djlXMWw5REtMRU5ybEF4MVRIOHd0V3ZtUzJvUmZYUU9vMEJUdENTMHNHeUQ1aDlEN1dEMGZoN1d2c1ZHMW5DREhEdkRPc2drS1M1TXNHTWdyUGo1OTJvZXHSAWpBVV95cUxPcV80by1FZDFjTkhkR1BXcGctVTkyTVlSdFFBNFhqdEdJVzZZZGh2QkIyNXBYVjctdmJ3WkROT3R3VGdDclVkcVZ3RlRxOGppWVFJRGhKU2RLQm9wQkRZamE3b0hZVFlnd3B3?oc=5)
+### [不只是腫瘤測量指標！細胞實測揭醫界常用蛋白具防護機制 能阻斷癌變](https://news.google.com/rss/articles/CBMivgNBVV95cUxOWHdPdWduWDZYelNfSEVZTjlKZGZuQlNBNFhsTExMYTRfeGtmUGVRS3hGVUdGN1QyN1A0eUFFZHhWaG02enM5OWsxOE1TQlFyTUdnMFRMZk51eS1HdTl1WTFjeWtBM2hXUkZDOEkxTnlxVEViajMwQnpPMms5ejl5aUlBRlY1MS1XQXJoODRWZ3ROc1QxRHY0N0JibXMyUlk0aGNENFAyUVFvay1GSnVpbjdDbEItRERpbmZodzd6eTFZMERqZHh5Xy01Ql9aLV9QRDZEUmtIcUVIM01UX1J6SDl0N0RncVNiS21Xak9hUzYwc0t1em40YmdpUWdzbHNBcElabXlfZEdBa215N3RUQlRpY2FUc1VDVTFyXy01RXpoVm5mc3BNdWlUMmg1QVNROFRhckhpMjRzdzEydU1Wc0hLam94VmVpNkN4QVRLZUR0ajJUMGtNUUlpQmtkVW5tX2hQWHZrOTlCbm5OdFQ4LVdWUjFXU0FmTlhDVDRoY1QyaGFwNkRqZTZfdFZRdTNRc0ZqdDdNSHFicWdnNkhkYVFPcktHZ3E5ZVJmTkd6UTJHUmdINU52M1hCdm1xdw?oc=5)
 
 2026-05-24 <span class="news-indication-tag">腫瘤</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXaHF1djlXMWw5REtMRU5ybEF4MVRIOHd0V3ZtUzJvUmZYUU9vMEJUdENTMHNHeUQ1aDlEN1dEMGZoN1d2c1ZHMW5DREhEdkRPc2drS1M1TXNHTWdyUGo1OTJvZXHSAWpBVV95cUxPcV80by1FZDFjTkhkR1BXcGctVTkyTVlSdFFBNFhqdEdJVzZZZGh2QkIyNXBYVjctdmJ3WkROT3R3VGdDclVkcVZ3RlRxOGppWVFJRGhKU2RLQm9wQkRZamE3b0hZVFlnd3B3?oc=5)
-
----
-
-### [減肥｜35歲後飲水都肥？醫揭穩住體重3大關鍵 2個時間段最易發胖](https://news.google.com/rss/articles/CBMimANBVV95cUxPOFBFcjFTeTBYaXpKYWFJTklsbF9KOG0wQmpldXZ3cHl6Y01ZQ21Ydk0tQnM4Y1FDZTlEbHFlU295UEZub0JwWUlycFRoVzQ0d19XRDdoSkF6VGtuZjBzNmtZWXJ0VnJJN1FELU5nemhKd3kyOW9UU3lvODB2VFh3YnRkcXNaR2FWVTZkdFJUeHJnMEpjMVk3dzZaRjBRb1l0dkY4T1k5Q1ZmV1FQaUh2X2Nid0phb21ZR0ZMMXJ1ZDh5MXJ1dl9GX0ltbmhWZGdiWW1aVXlfdUVFZFVER1BlR0xtTVpVWmFUMEFwR3UzVmxyXzhDTmJIX002cHdub0ZZMGxpSXNmNEc2dkdCVUtTTFYyYWJXRDA5ZU5yVmhxT2pBMHFYY25waEw4QkFPc3YzR25qTjh4TmtOU3F0amgtQUc2WkNEOUpmVjNmLWd1VTZRMXdUeVI3Qkg3MmZQcDc4SU1GcGxndlhXQWxCdFotZ01saGRYWDg1bGkxekZRUjgwbjF0ZExGQXlGcEJGS2xwNmhyQjJjOU4?oc=5)
-
-2026-05-23 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
-
-來源：[香港01](https://news.google.com/rss/articles/CBMimANBVV95cUxPOFBFcjFTeTBYaXpKYWFJTklsbF9KOG0wQmpldXZ3cHl6Y01ZQ21Ydk0tQnM4Y1FDZTlEbHFlU295UEZub0JwWUlycFRoVzQ0d19XRDdoSkF6VGtuZjBzNmtZWXJ0VnJJN1FELU5nemhKd3kyOW9UU3lvODB2VFh3YnRkcXNaR2FWVTZkdFJUeHJnMEpjMVk3dzZaRjBRb1l0dkY4T1k5Q1ZmV1FQaUh2X2Nid0phb21ZR0ZMMXJ1ZDh5MXJ1dl9GX0ltbmhWZGdiWW1aVXlfdUVFZFVER1BlR0xtTVpVWmFUMEFwR3UzVmxyXzhDTmJIX002cHdub0ZZMGxpSXNmNEc2dkdCVUtTTFYyYWJXRDA5ZU5yVmhxT2pBMHFYY25waEw4QkFPc3YzR25qTjh4TmtOU3F0amgtQUc2WkNEOUpmVjNmLWd1VTZRMXdUeVI3Qkg3MmZQcDc4SU1GcGxndlhXQWxCdFotZ01saGRYWDg1bGkxekZRUjgwbjF0ZExGQXlGcEJGS2xwNmhyQjJjOU4?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMivgNBVV95cUxOWHdPdWduWDZYelNfSEVZTjlKZGZuQlNBNFhsTExMYTRfeGtmUGVRS3hGVUdGN1QyN1A0eUFFZHhWaG02enM5OWsxOE1TQlFyTUdnMFRMZk51eS1HdTl1WTFjeWtBM2hXUkZDOEkxTnlxVEViajMwQnpPMms5ejl5aUlBRlY1MS1XQXJoODRWZ3ROc1QxRHY0N0JibXMyUlk0aGNENFAyUVFvay1GSnVpbjdDbEItRERpbmZodzd6eTFZMERqZHh5Xy01Ql9aLV9QRDZEUmtIcUVIM01UX1J6SDl0N0RncVNiS21Xak9hUzYwc0t1em40YmdpUWdzbHNBcElabXlfZEdBa215N3RUQlRpY2FUc1VDVTFyXy01RXpoVm5mc3BNdWlUMmg1QVNROFRhckhpMjRzdzEydU1Wc0hLam94VmVpNkN4QVRLZUR0ajJUMGtNUUlpQmtkVW5tX2hQWHZrOTlCbm5OdFQ4LVdWUjFXU0FmTlhDVDRoY1QyaGFwNkRqZTZfdFZRdTNRc0ZqdDdNSHFicWdnNkhkYVFPcktHZ3E5ZVJmTkd6UTJHUmdINU52M1hCdm1xdw?oc=5)
 
 ---
 

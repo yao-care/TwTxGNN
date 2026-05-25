@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-05-25T02:37:04.549664+00:00",
-  "total_count": 16,
-  "matched_count": 6,
+  "last_updated": "2026-05-25T07:04:18.072434+00:00",
+  "total_count": 21,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "d04e212bb68a",
+      "title": "新型口服抗病毒藥物GHP88310有望治療麻疹哮吼症候群 - GeneOnline News",
+      "published": "2026-05-25T06:03:14+00:00",
+      "summary": "新型口服抗病毒藥物GHP88310有望治療麻疹哮吼症候群&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPYV9sVTVfOW8takVVRXFCdnBoV0QzRDNfQ2tueWEwR1ZkdFNjb2JVR19oMG5jWU9rTENpMk10MFJ2VWx4VHkzNzlreDFmSjNVdkZZaUZrclZ1Ym5qZUxYUnZzRF9MNGhtM2R1MjNYYU5QT2k0ZTFSZlA3ZXRtcklXMW9fbUp5V0poQllFNW1Fc3dVYlozTjI4TUp4M3lhcWZfVi1zcGpreEVPSEVBMEpsSnRnSzJUVHRZMGM3R2ZwWUY1bTIydndPaTliU3A0RC1YZnFRa1hIMnZHWDNIZTdUZ1pSci13NGd2QXd2d0I4OUd5aWo3LUJ5M1FfUWM3OFptakNzYUJlOWhzODREb0FnTkdwTVUtUUlRWGhCV1NRSWt0cGxvUmQ4UGFhTE9hSG5QQzRkcTVZWHg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "21b1e828d9fe",
+      "title": "為何很多病老了才出現？ 研究：年輕時的傷害可能潛伏數十年",
+      "published": "2026-05-25T06:00:00+00:00",
+      "summary": "為何很多病老了才出現？ 研究：年輕時的傷害可能潛伏數十年&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByRXQ1TW5oTWZMeHdhU3B4REpTWUl2cVpVb25taVRMbVNtVXZKZ1BHVFFScWhlR3lMdTFfRXZtRUVzclZKUk8wTWZ6MEFVejJkZkFIMHRkOE9TMmlIZGxYNG9EXy3SAWpBVV95cUxQVmo5V09TUUNHUVZtSUZJTmZ0Q2NyUkllMFU4aDgxbk1xQm8yTTVxME9BUFRfLUw5TC1OYUh5RWF0MHJfSEZSbFJpSUNDWTRrd3JZaDdBMGlJbUhXS2tFSGsteFNyNWxVUmtB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "ba76d488a460",
       "title": "健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵",
-      "published": "2026-05-25T02:00:30+00:00",
+      "published": "2026-05-25T05:00:15+00:00",
       "summary": "健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵&nbsp;&nbsp;自由健康網胰臟癌盯上年輕人！研究曝15至39歲增幅驚人 醫揭7招降罹癌風險&nbsp;&nbsp;Yahoo新聞胰臟癌年輕化！15-39歲「癌王」發生率拉升近5成…胰臟癌如何檢查、症狀？醫揭做「7件事」防禦&nbsp;&nbsp;今周刊癌症年輕化成不可逆趨勢？但調整生活習慣仍可降低風險&nbsp;&nbsp;TechNews 科技新報2美食別吃多！胰臟癌晚期存活率剩7％ 醫曝前兆症狀：5類人小心&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
@@ -213,14 +239,105 @@
       ]
     },
     {
-      "id": "1bd610b51f93",
+      "id": "7d967172aac4",
+      "title": "美國心臟協會發布新版飲食建議：全食物模式彈性護心",
+      "published": "2026-05-25T04:24:52+00:00",
+      "summary": "美國心臟協會發布新版飲食建議：全食物模式彈性護心&nbsp;&nbsp;商傳媒",
+      "sources": [
+        {
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNM3NnTk1PNU9pYU9tZmduLUp6VVBNYzlCM0xPWkQzYTlaNi1HU0t0MTNPUWJVMEFsS0c1TlVzMGgxeVBYVUZJMS1vb1N1ekhSS3NBaXNPZVdoNjZFQVNfVkJwWWM5MnR1Q0RQMUR6ZndraEJhTDgybkpkM3lqTzduS3pGV1duUGdGMzh0RFlwNjdVYkI0X0Nzb3ZIdzBPd05mXzh5d2Y4aWdzTHYyZDBBM1RfUk13RFFMSkVOM0FBU2pBa1h2Uzl4NUtlODJrYXg3NTVCZTlUdGJhMHpyU3FMbC1uXzhIRWVQcG90eFdnVFJTUFF3R0F0aVVILVI0eEZjSi1rYTMzNS1wXzdtODdhZ3lYeWp2NGJCbjNSUTViQXp2YVZoRU9NeDJCNG15eS12SEFIRXR1Uk1oR1lCMXgzUWo0VzNkcTRzMFJOeHpteUF5TVlhSF9wTHI3bWdhWWg4MzFZY2Iya0lpbWNEWFRVZGM3R2J6UQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "01cc09aeccf6",
+      "title": "不只是防貧血 研究揭維生素B12缺乏即牽動肌肉老化與體力",
+      "published": "2026-05-25T03:27:00+00:00",
+      "summary": "不只是防貧血 研究揭維生素B12缺乏即牽動肌肉老化與體力&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6bFNTUURVb2ZjdmZTeXh6ZFcxY25GeEpMQXFSQms1N0YtTmhiekktSWZkRl84V0RXeE1jUG84V0R1RnBJTFU5SmZpN1cyM2Y3M09EOEZvbC1LN0FyOUdpNzZoYXLSAWpBVV95cUxNaGJQckVfQWtRUlN1VGZXZU9nM0htLWFMdkhGOE90ZmhoMDYtNW1JcEVBaWpkQXZtOWZUVm9TeUx1VHVtYlo3WHduMEMtNDV2T2g0aUJldEROSVVYVjIxSE5TZnNQZ0xmTzV3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "bed8d65404d1",
+      "title": "吃起司降失智症風險！瑞典研究：每日只要吃2片，失智風險降低13%",
+      "published": "2026-05-25T03:00:00+00:00",
+      "summary": "吃起司降失智症風險！瑞典研究：每日只要吃2片，失智風險降低13%&nbsp;&nbsp;優活健康網",
+      "sources": [
+        {
+          "name": "優活健康網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9walc5YUh6Rl9rR0RwcDdRY0k5WXlZbzNCdzBNZzJkc1hnNU9KU082RE5BZnB3UUk1dlFKMEZ2Yk00Njhackl0d0RKTTR3VWd3Sjdz?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "daa2368f0af5",
+      "title": "24歲確診淋巴癌，他熬過復發又陪母親抗癌！心理師4次與癌同行：家屬不必時刻堅強，你也有脆弱權利",
+      "published": "2026-05-25T02:53:00+00:00",
+      "summary": "24歲確診淋巴癌，他熬過復發又陪母親抗癌！心理師4次與癌同行：家屬不必時刻堅強，你也有脆弱權利&nbsp;&nbsp;幸福熟齡",
+      "sources": [
+        {
+          "name": "幸福熟齡",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpVXJ2UnBfeDYwd1ozd0w0MENqUF9DZ0RnNWFWcDd3UGxIdlp6UXdmQTdpb3RiZGxpbFhFSWpiZHA1N25hMWhvcEdmSUVxMUZnNkhoU2NfLWFnRWNPR2V2WmNlMW9YWHFZLVpKSmlKQkxRcUVFMVBma0pGNA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "primary cutaneous B-cell lymphoma",
+          "keyword": "淋巴癌",
+          "related_drugs": [
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "28d52a45cc18",
       "title": "自閉症ADHD｜中大最新研究剖腹產BB有過度活躍、自閉風險 專家揭後天原來有得救！",
       "published": "2026-05-25T01:00:00+00:00",
       "summary": "自閉症ADHD｜中大最新研究剖腹產BB有過度活躍、自閉風險 專家揭後天原來有得救！&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfUG5MYUNlc3JLeGNPbVVZbkV0T1JGZWtlU0FyUTFvNXBwTVBLWmo1MlhRQWkxNWczTGxSRUxvTjU0OFJPVGUtQzBaRzdHZXV6ZHc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxOMmJRV2I2V2NEYlVfbDRxSHl0MlN1RkdzaUJPUk8teEUxcjh6bEZDTlZmZUdXTTJZbU4ybzRrRS1QV0lENEZzZjFFS3pXZzZJVUt4OWhmWjhCc0lxM3BNTXpYQ19HRS10UTZEQUZiMk9rV0JvZG5WZEtKancxNHNRYlo4NGhQbmxCeWtjMmtHTHFkUkNmdFYxMEtYcjJvelg0d1d3ZF9sZE1pTjgtalZ1MVlHRHB0OHdpblI5emVjNjFuZlhKQWg2cjk4N0d4MVd0QkNLZ0tFekpxLVdyWDRpamxvR1RsaVdGd0NMODRLRnhXSFdIaU9RVENyczlTWlFSR19iMUdRTzltaWlMenZaUW01VTRNMS1fb2taN3FqTkxjd2RZWWRVYmJuMmFHSkZFbEtRRUhiTHpjTW4ya3Z6UjR0bWNZVDBKV2V6ZlJPNXV1SFU0NG5rZDY0MXlzSmNvY0R5NEdSSlViSl9OWDdjbFZDRkdOVFc4TjdPcGRWRXZwSXZnaGpVRmQ0Sm1qdEpuNmtJQWtCaURteFg4VjVudVpyVGZiQTVMbkk1TTNheTlqaUxKSTRiZGI2WVc1MEtxMW1wS2Rjak9yZFRmLXI1TTRqYnEtSjF0a2lobTdFSVRFX3FYenQ2WW1GX2MyX2ZFUWctSF9OT0ctbkpMMnc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -277,27 +394,123 @@
       ]
     },
     {
-      "id": "916dd508e906",
+      "id": "308115394d7a",
       "title": "1顆蛋含44%維生素D、鋅10%！專家揭顏色差異：和營養無關",
-      "published": "2026-05-24T10:33:00+00:00",
-      "summary": "1顆蛋含44%維生素D、鋅10%！專家揭顏色差異：和營養無關&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "published": "2026-05-24T10:29:32+00:00",
+      "summary": "1顆蛋含44%維生素D、鋅10%！專家揭顏色差異：和營養無關&nbsp;&nbsp;祝你健康馬英九失智成羅生門 美研究吃一廉價食品失智風險大減&nbsp;&nbsp;Yahoo新聞英美研究天天1顆蛋防失智但「1種蛋」不行？營養師揭：「選對油」炒更護腦- 營養好食&nbsp;&nbsp;TVBS 健康2.0多吃雞蛋可防失智症！美最新研究：每周食用5次以上降低近30%風險&nbsp;&nbsp;元氣網腦退化｜追蹤逾4萬人15年！ 新研究揭每周吃「1食物」 失智風險降27%【附腦退化徵兆】&nbsp;&nbsp;etnet 經濟通",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EZ0lLUE1UVHdTTWtOTFRNcTJSdjlNSWtkc1JKV1pTV1lvU0NlR0dlSi1vNHYtUXJRYlZBTDJTdjFFM1lyUDdEX2ctajY?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17e5414dfe99",
+      "title": "歐盟心臟報告示警：超加工食品大增心臟疾病風險",
+      "published": "2026-05-24T08:27:17+00:00",
+      "summary": "歐盟心臟報告示警：超加工食品大增心臟疾病風險&nbsp;&nbsp;yesmedia.com.tw前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQSDdtclM4aFhHM3duR201NkJ2NEwzMmwzVlozcUFjQ1JrMzlsTE9TQzhxUFlFU3hTWHYtUkZQRDVhcE4tTGdSdVQ0SnQwRTJsbEN4ZGllR1BXSEx1dlhZdjZhVV9fOFhqX0ZmMFEzMnhBdUM1V0tVeWRtQ2hDcTZOaGhtdDVaemdvelZZWEhjQ2Y2QWRnTEJHLUpULVVFeFVVMzl5U1dpa3BKdEUySmYwMEtLRkxQMmtMTTNrcElNSzdqSkxkNWJlbWlTWkVZWlZpVnlxRll0VmpMQ2htekx2N2c5aU1xYVBtM1dhUUI2QWRSVV9ETzVzd2RCMkpZZnRZN3lJXy1vNms2MFZKeWFvenVfRWZ5TEFZeTRMaWpXdUR4ekZ0NHgzTW41LVdoZ2NCYkpLNlZOMVRKdDh3dDN5SDRHOXRSY1B6b0JZ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "534bff54d83c",
+      "title": "不只是腫瘤測量指標！細胞實測揭醫界常用蛋白具防護機制 能阻斷癌變",
+      "published": "2026-05-24T06:03:52+00:00",
+      "summary": "不只是腫瘤測量指標！細胞實測揭醫界常用蛋白具防護機制 能阻斷癌變&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNdzhYaXBuTjR1NjVySHpOaXVWLVlHNFRZdXRWZjd2MHFBVDdCUlotdUtBYnRtS0JhQ0NNbThGRm5kYlZ6b2dJUy1QRDhuZzZtRjNPNlIwMGZwejBHeFpUOEpfdVEyQkhRT3hHeXkteHByLWtDSUZicl9paGVfdGJ5c0hsdU9EWmxJN1pBbzl5WUNqWmQ4QmllSXVhQ0hPLWlERlF5U1pleVNyRmZqVGphNlZSYVJkay1iM2pnRHNWcHJKZjdEMU41VTRZa2Y1UWV4R2ZiV1JPTW5GUFhqWVdHbDk4UWlrbTdCbl95bkZUcVF6bkMzQjhGSUlvTVVBenN3aUN0Wnhua0dHVWUxa1dCLWhUYjRuZ2ptTDFXcTRmUmRoQ2NsNVVnc2ZmakJ6aGtOOVBYcVdSUFBOelFNTE1PanhrMmI?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "853aff92a97a",
-      "title": "不只是腫瘤測量指標！細胞實測揭醫界常用蛋白具防護機制 能阻斷癌變",
-      "published": "2026-05-24T05:44:00+00:00",
-      "summary": "不只是腫瘤測量指標！細胞實測揭醫界常用蛋白具防護機制 能阻斷癌變&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXaHF1djlXMWw5REtMRU5ybEF4MVRIOHd0V3ZtUzJvUmZYUU9vMEJUdENTMHNHeUQ1aDlEN1dEMGZoN1d2c1ZHMW5DREhEdkRPc2drS1M1TXNHTWdyUGo1OTJvZXHSAWpBVV95cUxPcV80by1FZDFjTkhkR1BXcGctVTkyTVlSdFFBNFhqdEdJVzZZZGh2QkIyNXBYVjctdmJ3WkROT3R3VGdDclVkcVZ3RlRxOGppWVFJRGhKU2RLQm9wQkRZamE3b0hZVFlnd3B3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOWHdPdWduWDZYelNfSEVZTjlKZGZuQlNBNFhsTExMYTRfeGtmUGVRS3hGVUdGN1QyN1A0eUFFZHhWaG02enM5OWsxOE1TQlFyTUdnMFRMZk51eS1HdTl1WTFjeWtBM2hXUkZDOEkxTnlxVEViajMwQnpPMms5ejl5aUlBRlY1MS1XQXJoODRWZ3ROc1QxRHY0N0JibXMyUlk0aGNENFAyUVFvay1GSnVpbjdDbEItRERpbmZodzd6eTFZMERqZHh5Xy01Ql9aLV9QRDZEUmtIcUVIM01UX1J6SDl0N0RncVNiS21Xak9hUzYwc0t1em40YmdpUWdzbHNBcElabXlfZEdBa215N3RUQlRpY2FUc1VDVTFyXy01RXpoVm5mc3BNdWlUMmg1QVNROFRhckhpMjRzdzEydU1Wc0hLam94VmVpNkN4QVRLZUR0ajJUMGtNUUlpQmtkVW5tX2hQWHZrOTlCbm5OdFQ4LVdWUjFXU0FmTlhDVDRoY1QyaGFwNkRqZTZfdFZRdTNRc0ZqdDdNSHFicWdnNkhkYVFPcktHZ3E5ZVJmTkd6UTJHUmdINU52M1hCdm1xdw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -502,7 +715,7 @@
       "id": "498fa17c4603",
       "title": "健康網》小時候胖要注意 專家：12歲腰圍看到警訊",
       "published": "2026-05-24T05:22:00+00:00",
-      "summary": "健康網》小時候胖要注意 專家：12歲腰圍看到警訊&nbsp;&nbsp;自由健康網",
+      "summary": "健康網》小時候胖要注意 專家：12歲腰圍看到警訊&nbsp;&nbsp;自由健康網兒童及青少年肥胖問題，我們該如何一起面對？&nbsp;&nbsp;careonline.com.tw兒童肥胖｜平日小朋友一兩杯珍奶無問題？ 瑞典研究﹕童年肥胖30歲前患糖尿病風險升18倍即睇醫生健康建議| 健康百科&nbsp;&nbsp;Oh!爸媽",
       "sources": [
         {
           "name": "自由健康網",
@@ -562,14 +775,14 @@
       ]
     },
     {
-      "id": "a6546bef8aec",
+      "id": "291dce01f920",
       "title": "德州聖大衛醫療中心心律不正研究所將主辦複雜性心律不正國際會議",
-      "published": "2026-05-23T17:00:40+00:00",
-      "summary": "德州聖大衛醫療中心心律不正研究所將主辦複雜性心律不正國際會議&nbsp;&nbsp;經濟日報",
+      "published": "2026-05-23T16:08:13+00:00",
+      "summary": "德州聖大衛醫療中心心律不正研究所將主辦複雜性心律不正國際會議&nbsp;&nbsp;經商新聞",
       "sources": [
         {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJdU15cGtnZnhtU2cyenYyMGFMSEdYVWVoQm82N09XSldOdkpQUDFtSW1oUDFTRXc3UzA2cU5MeFJ3eUN1ajJLRjhVWGNyMGxYSEdtcHIxdEFsMmND0gFiQVVfeXFMTlp1VWNwZnpqVTJ2TXlLb0Rib2oxMmlUZXZTZl9sT0ZUb2pqV2R6TENUUTRoTnpleXhKQm40TW1qcWF0cGs5amd1Y2N4Q1UzdzVMcktEeDJSemNFN05lTFhBMnc?oc=5"
+          "name": "經商新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01bFotMHRQaHp0NWg0TnFRLWFVTlpjdzh4WDdic0MyNUtwU0plUlN1REl3d3NRb1AyUWxqb2loUTcyMWpLdjRYTEhSdm1nUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -599,114 +812,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "3a1e81633a9f",
-      "title": "健康網》擦防曬怕缺維D害骨鬆 醫破迷思：擦不夠紫外線更傷膚",
-      "published": "2026-05-23T02:23:00+00:00",
-      "summary": "健康網》擦防曬怕缺維D害骨鬆 醫破迷思：擦不夠紫外線更傷膚&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XbVF3MWtJNUpPeTlZZkI0S2VjT0hSenRRMFJ1dEh4NlBxbGRfRVQyOFNnSF9FOFVtYXlRNDNYU2dKQ0VrZ3NFeE9PLW1iN09jS1QtMGZ2S0kwU3hZUVZSQWFjRkzSAWpBVV95cUxOaGZjZEJ4YjhuSGVNUHBuY25KYkFVNWtCaTJhX2Jfa1owcm9xQXJYU1kzWFZfZHJiNC1yMWNzUjBpdUl1a1c5OTBKM2JuZldCZGlmUzBGYVlPNXZxLVEyUXAyX0hZMWt5M01R?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2604133f5843",
-      "title": "減肥｜35歲後飲水都肥？醫揭穩住體重3大關鍵 2個時間段最易發胖",
-      "published": "2026-05-23T02:05:35+00:00",
-      "summary": "減肥｜35歲後飲水都肥？醫揭穩住體重3大關鍵 2個時間段最易發胖&nbsp;&nbsp;香港01女生「1時期」變胖速度翻倍! 醫示警：乳癌風險恐增12%&nbsp;&nbsp;MSN體重會影響停經前乳癌患者的治療效果嗎？&nbsp;&nbsp;careonline.com.tw更年期褲子愈穿愈緊？頂尖期刊曝：更年期BMI「多這數字」小心乳癌&nbsp;&nbsp;TVBS 健康2.0中年女性減肥好難！新研究揭最佳飲食法掌握2重點就行- 國際&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxPOFBFcjFTeTBYaXpKYWFJTklsbF9KOG0wQmpldXZ3cHl6Y01ZQ21Ydk0tQnM4Y1FDZTlEbHFlU295UEZub0JwWUlycFRoVzQ0d19XRDdoSkF6VGtuZjBzNmtZWXJ0VnJJN1FELU5nemhKd3kyOW9UU3lvODB2VFh3YnRkcXNaR2FWVTZkdFJUeHJnMEpjMVk3dzZaRjBRb1l0dkY4T1k5Q1ZmV1FQaUh2X2Nid0phb21ZR0ZMMXJ1ZDh5MXJ1dl9GX0ltbmhWZGdiWW1aVXlfdUVFZFVER1BlR0xtTVpVWmFUMEFwR3UzVmxyXzhDTmJIX002cHdub0ZZMGxpSXNmNEc2dkdCVUtTTFYyYWJXRDA5ZU5yVmhxT2pBMHFYY25waEw4QkFPc3YzR25qTjh4TmtOU3F0amgtQUc2WkNEOUpmVjNmLWd1VTZRMXdUeVI3Qkg3MmZQcDc4SU1GcGxndlhXQWxCdFotZ01saGRYWDg1bGkxekZRUjgwbjF0ZExGQXlGcEJGS2xwNmhyQjJjOU4?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "停經",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "554d4b56a4a9",

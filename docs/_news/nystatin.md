@@ -14,7 +14,7 @@ permalink: /news/nystatin/
 ---
 
 <p class="key-answer" data-question="Nystatin 有什麼相關新聞？">
-<strong>Nystatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nystatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/nystatin/
 <p><a href="{{ '/drugs/nystatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [減肥｜35歲後飲水都肥？醫揭穩住體重3大關鍵 2個時間段最易發胖](https://news.google.com/rss/articles/CBMimANBVV95cUxPOFBFcjFTeTBYaXpKYWFJTklsbF9KOG0wQmpldXZ3cHl6Y01ZQ21Ydk0tQnM4Y1FDZTlEbHFlU295UEZub0JwWUlycFRoVzQ0d19XRDdoSkF6VGtuZjBzNmtZWXJ0VnJJN1FELU5nemhKd3kyOW9UU3lvODB2VFh3YnRkcXNaR2FWVTZkdFJUeHJnMEpjMVk3dzZaRjBRb1l0dkY4T1k5Q1ZmV1FQaUh2X2Nid0phb21ZR0ZMMXJ1ZDh5MXJ1dl9GX0ltbmhWZGdiWW1aVXlfdUVFZFVER1BlR0xtTVpVWmFUMEFwR3UzVmxyXzhDTmJIX002cHdub0ZZMGxpSXNmNEc2dkdCVUtTTFYyYWJXRDA5ZU5yVmhxT2pBMHFYY25waEw4QkFPc3YzR25qTjh4TmtOU3F0amgtQUc2WkNEOUpmVjNmLWd1VTZRMXdUeVI3Qkg3MmZQcDc4SU1GcGxndlhXQWxCdFotZ01saGRYWDg1bGkxekZRUjgwbjF0ZExGQXlGcEJGS2xwNmhyQjJjOU4?oc=5)
-
-2026-05-23 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
-
-來源：[香港01](https://news.google.com/rss/articles/CBMimANBVV95cUxPOFBFcjFTeTBYaXpKYWFJTklsbF9KOG0wQmpldXZ3cHl6Y01ZQ21Ydk0tQnM4Y1FDZTlEbHFlU295UEZub0JwWUlycFRoVzQ0d19XRDdoSkF6VGtuZjBzNmtZWXJ0VnJJN1FELU5nemhKd3kyOW9UU3lvODB2VFh3YnRkcXNaR2FWVTZkdFJUeHJnMEpjMVk3dzZaRjBRb1l0dkY4T1k5Q1ZmV1FQaUh2X2Nid0phb21ZR0ZMMXJ1ZDh5MXJ1dl9GX0ltbmhWZGdiWW1aVXlfdUVFZFVER1BlR0xtTVpVWmFUMEFwR3UzVmxyXzhDTmJIX002cHdub0ZZMGxpSXNmNEc2dkdCVUtTTFYyYWJXRDA5ZU5yVmhxT2pBMHFYY25waEw4QkFPc3YzR25qTjh4TmtOU3F0amgtQUc2WkNEOUpmVjNmLWd1VTZRMXdUeVI3Qkg3MmZQcDc4SU1GcGxndlhXQWxCdFotZ01saGRYWDg1bGkxekZRUjgwbjF0ZExGQXlGcEJGS2xwNmhyQjJjOU4?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
