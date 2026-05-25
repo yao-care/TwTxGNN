@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [呼吸道融合病毒長效抗體健保審查待廠商送件| 生活 - 中央社 CNA](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xNEpYNnpaQVh1X3c5Wk12RnlKMFg5T05ISWlxV1VuY1MtUkdHc1phNDhsTS1ZenZBTE5EdnhCTVlzSE82WDc3OW5mYXdMdjkzay1oaHBUTzZsUVE1ekJV?oc=5)
-
-2026-05-24 <span class="news-indication-tag">感冒</span>
-
-來源：[中央社 CNA](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xNEpYNnpaQVh1X3c5Wk12RnlKMFg5T05ISWlxV1VuY1MtUkdHc1phNDhsTS1ZenZBTE5EdnhCTVlzSE82WDc3OW5mYXdMdjkzay1oaHBUTzZsUVE1ekJV?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [沒打沒事，打流感疫苗反而感冒？醫證實：「1種人」反應最大](https://news.google.com/rss/articles/CBMi4gJBVV95cUxPMVZLRDdhOHk5Q2swTk9CM0NFTW1Mbkh5amRjTWxDUzFSOEdER0VUZnJ1bjBoNjg2cnp6QW5QMUswaFpzWC1hV1lndGgydXBpR1Z5MjhfWWpTNloxTWJ2NEZZUnpVSjJsYk95eEp5eU1mYzcyemhia05hQ1RyNVNzYnoyM3JSSU90YzJCMmNWZXJaaFBPeS01RXg4WU1ZdEd4aDF0NHR3bndnaVotdFRaMUFtYkJRQWNGMGN0VkJ3QjViZ1I5Ml91cVVrdWRnY1cxMm1aMEpSa2dIZVEzVkNoTWJWTS1obU04cmR3ZHpLSlFjZGFfdUpWZHFWRXJJaUZfcHJmd2JpaWNrMGJrbVQxc0ticmlGQTYwOFl5Y0hIZ21rQUdTVVVUMGJXUXZjMVIzejF0a0huYjBZdlVKelBrbjVKZGlRdlpvdnprcElrLVlaQTUtLTlyeGU2TUZxYjVMNlE?oc=5)
 

@@ -1,7 +1,31 @@
 {
-  "generated": "2026-05-25T11:44:22.418827+00:00",
+  "generated": "2026-05-25T14:36:30.459778+00:00",
   "count": 10,
   "news": [
+    {
+      "id": "f8f8389bd92f",
+      "title": "原來45歲就開始了！「2徵狀」 恐是阿茲海默症前兆",
+      "published": "2026-05-25T09:54:46+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPcEVRdldSUDlBdzZtRlVvblJUUDBpcGYzQ3ZlcTZVM3p2WTZ5azAyUW1STkQxNEllYUg2engwOUNFbTkzbjFpeW54dW1jWGlGMlpwNHg1YmFlNWFJRnBjanhQYktUNk9KMkJ6cklYVl9UZC1Remx0TTdRZ3J6X1Vhc0NPRUJ3azlOcnhZRGltX09iY0lZeU91NTl0ZXgxWG1wRGpFcy1ZOTlSZkVxRWQ4TGtqbzFmZWZVLTN5bzZLeGNtZTRkZTRFNWJrUXItWHU3TGVjSVZjN1NLNWNPSEZ5cU4tbkIxUFdRX2VTV19XQ2NlRUQ1TjI0Ynh5SFdwNmViRW1LYkxVVGNWRVJhLTcxS25EcVZjSXhWLVo5bVJ6amh1M2JzX2o3R0VEQTd5VTRib1E?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "00ff8d40174d",
       "title": "大腸癌年輕化不是沒原因 專家點名6種護腸食物與4大關鍵習慣",
@@ -345,43 +369,78 @@
       ]
     },
     {
-      "id": "c0a4127c0ac3",
-      "title": "呼吸道融合病毒長效抗體健保審查待廠商送件| 生活 - 中央社 CNA",
-      "published": "2026-05-24T13:33:00+00:00",
-      "sources": [
-        {
-          "name": "中央社 CNA",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xNEpYNnpaQVh1X3c5Wk12RnlKMFg5T05ISWlxV1VuY1MtUkdHc1phNDhsTS1ZenZBTE5EdnhCTVlzSE82WDc3OW5mYXdMdjkzay1oaHBUTzZsUVE1ekJV?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "17e5414dfe99",
+      "id": "daaf05957183",
       "title": "歐盟心臟報告示警：超加工食品大增心臟疾病風險",
-      "published": "2026-05-24T08:27:17+00:00",
+      "published": "2026-05-24T08:27:00+00:00",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQSDdtclM4aFhHM3duR201NkJ2NEwzMmwzVlozcUFjQ1JrMzlsTE9TQzhxUFlFU3hTWHYtUkZQRDVhcE4tTGdSdVQ0SnQwRTJsbEN4ZGllR1BXSEx1dlhZdjZhVV9fOFhqX0ZmMFEzMnhBdUM1V0tVeWRtQ2hDcTZOaGhtdDVaemdvelZZWEhjQ2Y2QWRnTEJHLUpULVVFeFVVMzl5U1dpa3BKdEUySmYwMEtLRkxQMmtMTTNrcElNSzdqSkxkNWJlbWlTWkVZWlZpVnlxRll0VmpMQ2htekx2N2c5aU1xYVBtM1dhUUI2QWRSVV9ETzVzd2RCMkpZZnRZN3lJXy1vNms2MFZKeWFvenVfRWZ5TEFZeTRMaWpXdUR4ekZ0NHgzTW41LVdoZ2NCYkpLNlZOMVRKdDh3dDN5SDRHOXRSY1B6b0JZ?oc=5"
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qVjgtT3pCXzNYTV9RRXBrQ3haTzhZbTJnQjhrc25BaTFEVHc2U2xJbk5Nekt0OVVTaXZxWl93S1Y4eUpKT3o3NWw0b3JqMkNmU0E?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
           "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心臟疾病",
           "keyword": "心臟疾病",
           "related_drugs": [
             {
@@ -441,13 +500,13 @@
       ]
     },
     {
-      "id": "534bff54d83c",
+      "id": "853aff92a97a",
       "title": "不只是腫瘤測量指標！細胞實測揭醫界常用蛋白具防護機制 能阻斷癌變",
-      "published": "2026-05-24T06:03:52+00:00",
+      "published": "2026-05-24T05:44:00+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOWHdPdWduWDZYelNfSEVZTjlKZGZuQlNBNFhsTExMYTRfeGtmUGVRS3hGVUdGN1QyN1A0eUFFZHhWaG02enM5OWsxOE1TQlFyTUdnMFRMZk51eS1HdTl1WTFjeWtBM2hXUkZDOEkxTnlxVEViajMwQnpPMms5ejl5aUlBRlY1MS1XQXJoODRWZ3ROc1QxRHY0N0JibXMyUlk0aGNENFAyUVFvay1GSnVpbjdDbEItRERpbmZodzd6eTFZMERqZHh5Xy01Ql9aLV9QRDZEUmtIcUVIM01UX1J6SDl0N0RncVNiS21Xak9hUzYwc0t1em40YmdpUWdzbHNBcElabXlfZEdBa215N3RUQlRpY2FUc1VDVTFyXy01RXpoVm5mc3BNdWlUMmg1QVNROFRhckhpMjRzdzEydU1Wc0hLam94VmVpNkN4QVRLZUR0ajJUMGtNUUlpQmtkVW5tX2hQWHZrOTlCbm5OdFQ4LVdWUjFXU0FmTlhDVDRoY1QyaGFwNkRqZTZfdFZRdTNRc0ZqdDdNSHFicWdnNkhkYVFPcktHZ3E5ZVJmTkd6UTJHUmdINU52M1hCdm1xdw?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXaHF1djlXMWw5REtMRU5ybEF4MVRIOHd0V3ZtUzJvUmZYUU9vMEJUdENTMHNHeUQ1aDlEN1dEMGZoN1d2c1ZHMW5DREhEdkRPc2drS1M1TXNHTWdyUGo1OTJvZXHSAWpBVV95cUxPcV80by1FZDFjTkhkR1BXcGctVTkyTVlSdFFBNFhqdEdJVzZZZGh2QkIyNXBYVjctdmJ3WkROT3R3VGdDclVkcVZ3RlRxOGppWVFJRGhKU2RLQm9wQkRZamE3b0hZVFlnd3B3?oc=5"
         }
       ],
       "keywords": [

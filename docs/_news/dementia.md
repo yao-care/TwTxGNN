@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智症（dementia） 相關新聞"
+title: "阿茲海默症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智症（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "阿茲海默症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智症（dementia） 相關新聞
+# 阿茲海默症（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
-<strong>失智症（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="阿茲海默症（dementia） 有什麼相關新聞？">
+<strong>阿茲海默症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,7 +29,15 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [原來45歲就開始了！「2徵狀」 恐是阿茲海默症前兆](https://news.google.com/rss/articles/CBMisgJBVV95cUxPcEVRdldSUDlBdzZtRlVvblJUUDBpcGYzQ3ZlcTZVM3p2WTZ5azAyUW1STkQxNEllYUg2engwOUNFbTkzbjFpeW54dW1jWGlGMlpwNHg1YmFlNWFJRnBjanhQYktUNk9KMkJ6cklYVl9UZC1Remx0TTdRZ3J6X1Vhc0NPRUJ3azlOcnhZRGltX09iY0lZeU91NTl0ZXgxWG1wRGpFcy1ZOTlSZkVxRWQ4TGtqbzFmZWZVLTN5bzZLeGNtZTRkZTRFNWJrUXItWHU3TGVjSVZjN1NLNWNPSEZ5cU4tbkIxUFdRX2VTV19XQ2NlRUQ1TjI0Ynh5SFdwNmViRW1LYkxVVGNWRVJhLTcxS25EcVZjSXhWLVo5bVJ6amh1M2JzX2o3R0VEQTd5VTRib1E?oc=5)
+
+2026-05-25
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMisgJBVV95cUxPcEVRdldSUDlBdzZtRlVvblJUUDBpcGYzQ3ZlcTZVM3p2WTZ5azAyUW1STkQxNEllYUg2engwOUNFbTkzbjFpeW54dW1jWGlGMlpwNHg1YmFlNWFJRnBjanhQYktUNk9KMkJ6cklYVl9UZC1Remx0TTdRZ3J6X1Vhc0NPRUJ3azlOcnhZRGltX09iY0lZeU91NTl0ZXgxWG1wRGpFcy1ZOTlSZkVxRWQ4TGtqbzFmZWZVLTN5bzZLeGNtZTRkZTRFNWJrUXItWHU3TGVjSVZjN1NLNWNPSEZ5cU4tbkIxUFdRX2VTV19XQ2NlRUQ1TjI0Ynh5SFdwNmViRW1LYkxVVGNWRVJhLTcxS25EcVZjSXhWLVo5bVJ6amh1M2JzX2o3R0VEQTd5VTRib1E?oc=5)
+
+---
 
 ### [吃起司降失智症風險！瑞典研究：每日只要吃2片，失智風險降低13%](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9walc5YUh6Rl9rR0RwcDdRY0k5WXlZbzNCdzBNZzJkc1hnNU9KU082RE5BZnB3UUk1dlFKMEZ2Yk00Njhackl0d0RKTTR3VWd3Sjdz?oc=5)
 

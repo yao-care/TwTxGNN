@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [原來45歲就開始了！「2徵狀」 恐是阿茲海默症前兆](https://news.google.com/rss/articles/CBMisgJBVV95cUxPcEVRdldSUDlBdzZtRlVvblJUUDBpcGYzQ3ZlcTZVM3p2WTZ5azAyUW1STkQxNEllYUg2engwOUNFbTkzbjFpeW54dW1jWGlGMlpwNHg1YmFlNWFJRnBjanhQYktUNk9KMkJ6cklYVl9UZC1Remx0TTdRZ3J6X1Vhc0NPRUJ3azlOcnhZRGltX09iY0lZeU91NTl0ZXgxWG1wRGpFcy1ZOTlSZkVxRWQ4TGtqbzFmZWZVLTN5bzZLeGNtZTRkZTRFNWJrUXItWHU3TGVjSVZjN1NLNWNPSEZ5cU4tbkIxUFdRX2VTV19XQ2NlRUQ1TjI0Ynh5SFdwNmViRW1LYkxVVGNWRVJhLTcxS25EcVZjSXhWLVo5bVJ6amh1M2JzX2o3R0VEQTd5VTRib1E?oc=5)
+
+2026-05-25 <span class="news-indication-tag">阿茲海默症</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMisgJBVV95cUxPcEVRdldSUDlBdzZtRlVvblJUUDBpcGYzQ3ZlcTZVM3p2WTZ5azAyUW1STkQxNEllYUg2engwOUNFbTkzbjFpeW54dW1jWGlGMlpwNHg1YmFlNWFJRnBjanhQYktUNk9KMkJ6cklYVl9UZC1Remx0TTdRZ3J6X1Vhc0NPRUJ3azlOcnhZRGltX09iY0lZeU91NTl0ZXgxWG1wRGpFcy1ZOTlSZkVxRWQ4TGtqbzFmZWZVLTN5bzZLeGNtZTRkZTRFNWJrUXItWHU3TGVjSVZjN1NLNWNPSEZ5cU4tbkIxUFdRX2VTV19XQ2NlRUQ1TjI0Ynh5SFdwNmViRW1LYkxVVGNWRVJhLTcxS25EcVZjSXhWLVo5bVJ6amh1M2JzX2o3R0VEQTd5VTRib1E?oc=5)
+
+---
 
 ### [健檢發現脂肪胰，放任恐變胰臟癌！張家銘醫師：不只是「油多」，4招幫胰臟減壓逆轉](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzdUpRaU43Y2h4N1A2Qzk4YnhJRFItWlVTb2V0Qk93d0VHck5jeEFmbFU5QllWWGxfTlBJY0VLaFpaSW1KajVRd1pieWlEajhnTmIyMFh3?oc=5)
 
@@ -59,11 +67,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [不只是腫瘤測量指標！細胞實測揭醫界常用蛋白具防護機制 能阻斷癌變](https://news.google.com/rss/articles/CBMivgNBVV95cUxOWHdPdWduWDZYelNfSEVZTjlKZGZuQlNBNFhsTExMYTRfeGtmUGVRS3hGVUdGN1QyN1A0eUFFZHhWaG02enM5OWsxOE1TQlFyTUdnMFRMZk51eS1HdTl1WTFjeWtBM2hXUkZDOEkxTnlxVEViajMwQnpPMms5ejl5aUlBRlY1MS1XQXJoODRWZ3ROc1QxRHY0N0JibXMyUlk0aGNENFAyUVFvay1GSnVpbjdDbEItRERpbmZodzd6eTFZMERqZHh5Xy01Ql9aLV9QRDZEUmtIcUVIM01UX1J6SDl0N0RncVNiS21Xak9hUzYwc0t1em40YmdpUWdzbHNBcElabXlfZEdBa215N3RUQlRpY2FUc1VDVTFyXy01RXpoVm5mc3BNdWlUMmg1QVNROFRhckhpMjRzdzEydU1Wc0hLam94VmVpNkN4QVRLZUR0ajJUMGtNUUlpQmtkVW5tX2hQWHZrOTlCbm5OdFQ4LVdWUjFXU0FmTlhDVDRoY1QyaGFwNkRqZTZfdFZRdTNRc0ZqdDdNSHFicWdnNkhkYVFPcktHZ3E5ZVJmTkd6UTJHUmdINU52M1hCdm1xdw?oc=5)
+### [不只是腫瘤測量指標！細胞實測揭醫界常用蛋白具防護機制 能阻斷癌變](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXaHF1djlXMWw5REtMRU5ybEF4MVRIOHd0V3ZtUzJvUmZYUU9vMEJUdENTMHNHeUQ1aDlEN1dEMGZoN1d2c1ZHMW5DREhEdkRPc2drS1M1TXNHTWdyUGo1OTJvZXHSAWpBVV95cUxPcV80by1FZDFjTkhkR1BXcGctVTkyTVlSdFFBNFhqdEdJVzZZZGh2QkIyNXBYVjctdmJ3WkROT3R3VGdDclVkcVZ3RlRxOGppWVFJRGhKU2RLQm9wQkRZamE3b0hZVFlnd3B3?oc=5)
 
 2026-05-24 <span class="news-indication-tag">腫瘤</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMivgNBVV95cUxOWHdPdWduWDZYelNfSEVZTjlKZGZuQlNBNFhsTExMYTRfeGtmUGVRS3hGVUdGN1QyN1A0eUFFZHhWaG02enM5OWsxOE1TQlFyTUdnMFRMZk51eS1HdTl1WTFjeWtBM2hXUkZDOEkxTnlxVEViajMwQnpPMms5ejl5aUlBRlY1MS1XQXJoODRWZ3ROc1QxRHY0N0JibXMyUlk0aGNENFAyUVFvay1GSnVpbjdDbEItRERpbmZodzd6eTFZMERqZHh5Xy01Ql9aLV9QRDZEUmtIcUVIM01UX1J6SDl0N0RncVNiS21Xak9hUzYwc0t1em40YmdpUWdzbHNBcElabXlfZEdBa215N3RUQlRpY2FUc1VDVTFyXy01RXpoVm5mc3BNdWlUMmg1QVNROFRhckhpMjRzdzEydU1Wc0hLam94VmVpNkN4QVRLZUR0ajJUMGtNUUlpQmtkVW5tX2hQWHZrOTlCbm5OdFQ4LVdWUjFXU0FmTlhDVDRoY1QyaGFwNkRqZTZfdFZRdTNRc0ZqdDdNSHFicWdnNkhkYVFPcktHZ3E5ZVJmTkd6UTJHUmdINU52M1hCdm1xdw?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXaHF1djlXMWw5REtMRU5ybEF4MVRIOHd0V3ZtUzJvUmZYUU9vMEJUdENTMHNHeUQ1aDlEN1dEMGZoN1d2c1ZHMW5DREhEdkRPc2drS1M1TXNHTWdyUGo1OTJvZXHSAWpBVV95cUxPcV80by1FZDFjTkhkR1BXcGctVTkyTVlSdFFBNFhqdEdJVzZZZGh2QkIyNXBYVjctdmJ3WkROT3R3VGdDclVkcVZ3RlRxOGppWVFJRGhKU2RLQm9wQkRZamE3b0hZVFlnd3B3?oc=5)
 
 ---
 
