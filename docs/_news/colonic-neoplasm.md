@@ -39,11 +39,11 @@ permalink: /news/colonic-neoplasm/
 
 ---
 
-### [大腸癌末期病患「改變心態」 癌細胞神奇消失！9年沒復發](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IMjc2Y3JRUlRVTGFqczJLdktoTzVycUNnWjdPX21PeS1UNHBtOHBjRkFiMUNZRWZocEVKc0JIUUROMXpZY3dpTVo2OHpHQXNFY1g5ZDd1YWtKUQ?oc=5)
+### [大腸癌末期「改變心態」！癌細胞奇蹟消失 9年沒復發 | TVBS - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QanhSUnM1MmFUUWlsR2E3M1FGQnZtcUx1VTdGNFFaak50NmM3UXVVaTBINHgwM0JsSGY0R2NPa0s1VDk2anoyWVFjRDF5MG9SaUY4RUl3?oc=5)
 
-2026-05-23
+2026-05-24
 
-來源：[鏡新聞](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IMjc2Y3JRUlRVTGFqczJLdktoTzVycUNnWjdPX21PeS1UNHBtOHBjRkFiMUNZRWZocEVKc0JIUUROMXpZY3dpTVo2OHpHQXNFY1g5ZDd1YWtKUQ?oc=5)
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QanhSUnM1MmFUUWlsR2E3M1FGQnZtcUx1VTdGNFFaak50NmM3UXVVaTBINHgwM0JsSGY0R2NPa0s1VDk2anoyWVFjRDF5MG9SaUY4RUl3?oc=5)
 
 ---
 

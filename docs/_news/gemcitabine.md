@@ -68,19 +68,19 @@ permalink: /news/gemcitabine/
 
 ---
 
+### [大腸癌末期「改變心態」！癌細胞奇蹟消失 9年沒復發 | TVBS - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QanhSUnM1MmFUUWlsR2E3M1FGQnZtcUx1VTdGNFFaak50NmM3UXVVaTBINHgwM0JsSGY0R2NPa0s1VDk2anoyWVFjRDF5MG9SaUY4RUl3?oc=5)
+
+2026-05-24 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QanhSUnM1MmFUUWlsR2E3M1FGQnZtcUx1VTdGNFFaak50NmM3UXVVaTBINHgwM0JsSGY0R2NPa0s1VDk2anoyWVFjRDF5MG9SaUY4RUl3?oc=5)
+
+---
+
 ### [不只是腫瘤測量指標！細胞實測揭醫界常用蛋白具防護機制 能阻斷癌變](https://news.google.com/rss/articles/CBMivgNBVV95cUxOWHdPdWduWDZYelNfSEVZTjlKZGZuQlNBNFhsTExMYTRfeGtmUGVRS3hGVUdGN1QyN1A0eUFFZHhWaG02enM5OWsxOE1TQlFyTUdnMFRMZk51eS1HdTl1WTFjeWtBM2hXUkZDOEkxTnlxVEViajMwQnpPMms5ejl5aUlBRlY1MS1XQXJoODRWZ3ROc1QxRHY0N0JibXMyUlk0aGNENFAyUVFvay1GSnVpbjdDbEItRERpbmZodzd6eTFZMERqZHh5Xy01Ql9aLV9QRDZEUmtIcUVIM01UX1J6SDl0N0RncVNiS21Xak9hUzYwc0t1em40YmdpUWdzbHNBcElabXlfZEdBa215N3RUQlRpY2FUc1VDVTFyXy01RXpoVm5mc3BNdWlUMmg1QVNROFRhckhpMjRzdzEydU1Wc0hLam94VmVpNkN4QVRLZUR0ajJUMGtNUUlpQmtkVW5tX2hQWHZrOTlCbm5OdFQ4LVdWUjFXU0FmTlhDVDRoY1QyaGFwNkRqZTZfdFZRdTNRc0ZqdDdNSHFicWdnNkhkYVFPcktHZ3E5ZVJmTkd6UTJHUmdINU52M1hCdm1xdw?oc=5)
 
 2026-05-24 <span class="news-indication-tag">腫瘤</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMivgNBVV95cUxOWHdPdWduWDZYelNfSEVZTjlKZGZuQlNBNFhsTExMYTRfeGtmUGVRS3hGVUdGN1QyN1A0eUFFZHhWaG02enM5OWsxOE1TQlFyTUdnMFRMZk51eS1HdTl1WTFjeWtBM2hXUkZDOEkxTnlxVEViajMwQnpPMms5ejl5aUlBRlY1MS1XQXJoODRWZ3ROc1QxRHY0N0JibXMyUlk0aGNENFAyUVFvay1GSnVpbjdDbEItRERpbmZodzd6eTFZMERqZHh5Xy01Ql9aLV9QRDZEUmtIcUVIM01UX1J6SDl0N0RncVNiS21Xak9hUzYwc0t1em40YmdpUWdzbHNBcElabXlfZEdBa215N3RUQlRpY2FUc1VDVTFyXy01RXpoVm5mc3BNdWlUMmg1QVNROFRhckhpMjRzdzEydU1Wc0hLam94VmVpNkN4QVRLZUR0ajJUMGtNUUlpQmtkVW5tX2hQWHZrOTlCbm5OdFQ4LVdWUjFXU0FmTlhDVDRoY1QyaGFwNkRqZTZfdFZRdTNRc0ZqdDdNSHFicWdnNkhkYVFPcktHZ3E5ZVJmTkd6UTJHUmdINU52M1hCdm1xdw?oc=5)
-
----
-
-### [大腸癌末期病患「改變心態」 癌細胞神奇消失！9年沒復發](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IMjc2Y3JRUlRVTGFqczJLdktoTzVycUNnWjdPX21PeS1UNHBtOHBjRkFiMUNZRWZocEVKc0JIUUROMXpZY3dpTVo2OHpHQXNFY1g5ZDd1YWtKUQ?oc=5)
-
-2026-05-23 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[鏡新聞](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IMjc2Y3JRUlRVTGFqczJLdktoTzVycUNnWjdPX21PeS1UNHBtOHBjRkFiMUNZRWZocEVKc0JIUUROMXpZY3dpTVo2OHpHQXNFY1g5ZDd1YWtKUQ?oc=5)
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-25T18:26:22.494772+00:00",
+  "generated": "2026-05-25T20:19:52.676543+00:00",
   "count": 12,
   "news": [
     {
@@ -807,78 +807,66 @@
       ]
     },
     {
-      "id": "daaf05957183",
-      "title": "歐盟心臟報告示警：超加工食品大增心臟疾病風險",
-      "published": "2026-05-24T08:27:00+00:00",
+      "id": "88625eaead82",
+      "title": "大腸癌末期「改變心態」！癌細胞奇蹟消失 9年沒復發 | TVBS - LINE TODAY",
+      "published": "2026-05-24T15:34:47+00:00",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qVjgtT3pCXzNYTV9RRXBrQ3haTzhZbTJnQjhrc25BaTFEVHc2U2xJbk5Nekt0OVVTaXZxWl93S1Y4eUpKT3o3NWw0b3JqMkNmU0E?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QanhSUnM1MmFUUWlsR2E3M1FGQnZtcUx1VTdGNFFaak50NmM3UXVVaTBINHgwM0JsSGY0R2NPa0s1VDk2anoyWVFjRDF5MG9SaUY4RUl3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17e5414dfe99",
+      "title": "歐盟心臟報告示警：超加工食品大增心臟疾病風險",
+      "published": "2026-05-24T08:27:17+00:00",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQSDdtclM4aFhHM3duR201NkJ2NEwzMmwzVlozcUFjQ1JrMzlsTE9TQzhxUFlFU3hTWHYtUkZQRDVhcE4tTGdSdVQ0SnQwRTJsbEN4ZGllR1BXSEx1dlhZdjZhVV9fOFhqX0ZmMFEzMnhBdUM1V0tVeWRtQ2hDcTZOaGhtdDVaemdvelZZWEhjQ2Y2QWRnTEJHLUpULVVFeFVVMzl5U1dpa3BKdEUySmYwMEtLRkxQMmtMTTNrcElNSzdqSkxkNWJlbWlTWkVZWlZpVnlxRll0VmpMQ2htekx2N2c5aU1xYVBtM1dhUUI2QWRSVV9ETzVzd2RCMkpZZnRZN3lJXy1vNms2MFZKeWFvenVfRWZ5TEFZeTRMaWpXdUR4ekZ0NHgzTW41LVdoZ2NCYkpLNlZOMVRKdDh3dDN5SDRHOXRSY1B6b0JZ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
           "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心臟疾病",
           "keyword": "心臟疾病",
           "related_drugs": [
             {
@@ -1164,53 +1152,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6d82619a3e0e",
-      "title": "大腸癌末期病患「改變心態」 癌細胞神奇消失！9年沒復發",
-      "published": "2026-05-23T18:46:11+00:00",
-      "sources": [
-        {
-          "name": "鏡新聞",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IMjc2Y3JRUlRVTGFqczJLdktoTzVycUNnWjdPX21PeS1UNHBtOHBjRkFiMUNZRWZocEVKc0JIUUROMXpZY3dpTVo2OHpHQXNFY1g5ZDd1YWtKUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }

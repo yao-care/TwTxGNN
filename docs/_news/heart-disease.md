@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "心臟病（heart_disease） 相關新聞"
+title: "心臟疾病（heart_disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "心臟病（heart_disease） 的相關健康新聞報導。1 則新聞、13 個相關藥物。"
+description: "心臟疾病（heart_disease） 的相關健康新聞報導。1 則新聞、13 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# 心臟病（heart_disease） 相關新聞
+# 心臟疾病（heart_disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="心臟病（heart_disease） 有什麼相關新聞？">
-<strong>心臟病（heart_disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，13 個相關藥物。
+<p class="key-answer" data-question="心臟疾病（heart_disease） 有什麼相關新聞？">
+<strong>心臟疾病（heart_disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，13 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「心臟病」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「心臟疾病」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -43,11 +43,11 @@ permalink: /news/heart-disease/
 
 ## 相關新聞（1 則）
 
-### [歐盟心臟報告示警：超加工食品大增心臟疾病風險](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qVjgtT3pCXzNYTV9RRXBrQ3haTzhZbTJnQjhrc25BaTFEVHc2U2xJbk5Nekt0OVVTaXZxWl93S1Y4eUpKT3o3NWw0b3JqMkNmU0E?oc=5)
+### [歐盟心臟報告示警：超加工食品大增心臟疾病風險](https://news.google.com/rss/articles/CBMiywJBVV95cUxQSDdtclM4aFhHM3duR201NkJ2NEwzMmwzVlozcUFjQ1JrMzlsTE9TQzhxUFlFU3hTWHYtUkZQRDVhcE4tTGdSdVQ0SnQwRTJsbEN4ZGllR1BXSEx1dlhZdjZhVV9fOFhqX0ZmMFEzMnhBdUM1V0tVeWRtQ2hDcTZOaGhtdDVaemdvelZZWEhjQ2Y2QWRnTEJHLUpULVVFeFVVMzl5U1dpa3BKdEUySmYwMEtLRkxQMmtMTTNrcElNSzdqSkxkNWJlbWlTWkVZWlZpVnlxRll0VmpMQ2htekx2N2c5aU1xYVBtM1dhUUI2QWRSVV9ETzVzd2RCMkpZZnRZN3lJXy1vNms2MFZKeWFvenVfRWZ5TEFZeTRMaWpXdUR4ekZ0NHgzTW41LVdoZ2NCYkpLNlZOMVRKdDh3dDN5SDRHOXRSY1B6b0JZ?oc=5)
 
 2026-05-24
 
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qVjgtT3pCXzNYTV9RRXBrQ3haTzhZbTJnQjhrc25BaTFEVHc2U2xJbk5Nekt0OVVTaXZxWl93S1Y4eUpKT3o3NWw0b3JqMkNmU0E?oc=5)
+來源：[yesmedia.com.tw](https://news.google.com/rss/articles/CBMiywJBVV95cUxQSDdtclM4aFhHM3duR201NkJ2NEwzMmwzVlozcUFjQ1JrMzlsTE9TQzhxUFlFU3hTWHYtUkZQRDVhcE4tTGdSdVQ0SnQwRTJsbEN4ZGllR1BXSEx1dlhZdjZhVV9fOFhqX0ZmMFEzMnhBdUM1V0tVeWRtQ2hDcTZOaGhtdDVaemdvelZZWEhjQ2Y2QWRnTEJHLUpULVVFeFVVMzl5U1dpa3BKdEUySmYwMEtLRkxQMmtMTTNrcElNSzdqSkxkNWJlbWlTWkVZWlZpVnlxRll0VmpMQ2htekx2N2c5aU1xYVBtM1dhUUI2QWRSVV9ETzVzd2RCMkpZZnRZN3lJXy1vNms2MFZKeWFvenVfRWZ5TEFZeTRMaWpXdUR4ekZ0NHgzTW41LVdoZ2NCYkpLNlZOMVRKdDh3dDN5SDRHOXRSY1B6b0JZ?oc=5)
 
 ---
 
