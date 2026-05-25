@@ -14,7 +14,7 @@ permalink: /news/irbesartan/
 ---
 
 <p class="key-answer" data-question="Irbesartan 有什麼相關新聞？">
-<strong>Irbesartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 4 個。
+<strong>Irbesartan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 4 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,11 +36,11 @@ permalink: /news/irbesartan/
 <p><a href="{{ '/drugs/irbesartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
 
-2026-05-24 <span class="news-indication-tag">癌症</span>
+2026-05-25 <span class="news-indication-tag">癌症</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRnRWYTBTNWN6a1A4YVVCLUt0VmpzeGNuby1COUV1RGVEZHNqLVY2RkN3M1BQd1Zlcnc1RkszbFl1LUZVSUNsOUdHSnRoTlNyX0F1cC10UGlLTURkek1OTTQ3eGfSAWpBVV95cUxNQnRiOFpERWZQdUREUm54YTVlVzRCeVdOaXpLWFFWWndDdVJvZk1rb0ZIaE41QThRYzAyak9pRFpQcGJIMjBFZFpZeVVxcG42Q3BTck9MbDZDU0xORHVIcTBnTkFRQ1JqSVdR?oc=5)
 
@@ -51,14 +51,6 @@ permalink: /news/irbesartan/
 2026-05-24 <span class="news-indication-tag">腫瘤</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXaHF1djlXMWw5REtMRU5ybEF4MVRIOHd0V3ZtUzJvUmZYUU9vMEJUdENTMHNHeUQ1aDlEN1dEMGZoN1d2c1ZHMW5DREhEdkRPc2drS1M1TXNHTWdyUGo1OTJvZXHSAWpBVV95cUxPcV80by1FZDFjTkhkR1BXcGctVTkyTVlSdFFBNFhqdEdJVzZZZGh2QkIyNXBYVjctdmJ3WkROT3R3VGdDclVkcVZ3RlRxOGppWVFJRGhKU2RLQm9wQkRZamE3b0hZVFlnd3B3?oc=5)
-
----
-
-### [年輕人快速增加的癌症是「它」！跨國權威研究：女性甲狀腺癌發病率僅次於乳癌](https://news.google.com/rss/articles/CBMi1wNBVV95cUxOTzdQNndiSkQ2NElRZ3Vtd0hHVFdUZTVoRkxSRU9oM3dyV1Q3UXFoWnl6bmQ0QmFRMmxONlBZZk4zMHVBd0lheExzQXhLWnVyaURMWjRfNzdaMU11eUVvblA5UlVPalJVWUg1VlpsM1BMVjVMLTV3a0FZRmZQbktBekxHTXBvdWNPeVY3c0FfbmVQUmtUV0pqZWYwVUo0UUgwU29sbGNlYTJBQzlWcE9PeURSSEVhWnlYWThxb3E5OWd2UkZYTjlQY0I5bnBEcl9EcG1ncmo5Z1lJbF95eExHNXRnTUF0NUZSNl96UGhxZU9Fb2J4MzJpMVU1WnB6OTQwWEFTT3Awd1BYc2lDN2RIT2dKYjFJYV95Si1EQm50cEhpcjc2Qk45d0FldjR0bTZRdUxneE9aUjVZZTEwTTRfMHdGZXNDay1DTkdkdjQ1dlNKVGc4amxCbUZfUC1LNmZmWGRvbVFkWFRJQVFSYzdMNFJIVE9jaUVFNDBRc3hjU1RGUEVoOENRLXNsdHo3TURpUTNfcjlob1Ixb2FuaDFiOXVnWV9qN0RBV09iYVBXUjFRWmExak9UelBPVjRTYzNpcEtCSks2OWxqR3F2bTBWMjFoQTIwTVk?oc=5)
-
-2026-05-23 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi1wNBVV95cUxOTzdQNndiSkQ2NElRZ3Vtd0hHVFdUZTVoRkxSRU9oM3dyV1Q3UXFoWnl6bmQ0QmFRMmxONlBZZk4zMHVBd0lheExzQXhLWnVyaURMWjRfNzdaMU11eUVvblA5UlVPalJVWUg1VlpsM1BMVjVMLTV3a0FZRmZQbktBekxHTXBvdWNPeVY3c0FfbmVQUmtUV0pqZWYwVUo0UUgwU29sbGNlYTJBQzlWcE9PeURSSEVhWnlYWThxb3E5OWd2UkZYTjlQY0I5bnBEcl9EcG1ncmo5Z1lJbF95eExHNXRnTUF0NUZSNl96UGhxZU9Fb2J4MzJpMVU1WnB6OTQwWEFTT3Awd1BYc2lDN2RIT2dKYjFJYV95Si1EQm50cEhpcjc2Qk45d0FldjR0bTZRdUxneE9aUjVZZTEwTTRfMHdGZXNDay1DTkdkdjQ1dlNKVGc4amxCbUZfUC1LNmZmWGRvbVFkWFRJQVFSYzdMNFJIVE9jaUVFNDBRc3hjU1RGUEVoOENRLXNsdHo3TURpUTNfcjlob1Ixb2FuaDFiOXVnWV9qN0RBV09iYVBXUjFRWmExak9UelBPVjRTYzNpcEtCSks2OWxqR3F2bTBWMjFoQTIwTVk?oc=5)
 
 ---
 

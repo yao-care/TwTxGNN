@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-24T23:52:27.083663+00:00",
-  "total_count": 17,
-  "matched_count": 8,
+  "last_updated": "2026-05-25T02:37:04.549664+00:00",
+  "total_count": 16,
+  "matched_count": 6,
   "news": [
     {
       "id": "ba76d488a460",
       "title": "健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵",
-      "published": "2026-05-24T23:00:02+00:00",
+      "published": "2026-05-25T02:00:30+00:00",
       "summary": "健康網》胰臟癌不只找老人！研究：15至39歲增速快 醫揭防癌7關鍵&nbsp;&nbsp;自由健康網胰臟癌盯上年輕人！研究曝15至39歲增幅驚人 醫揭7招降罹癌風險&nbsp;&nbsp;Yahoo新聞胰臟癌年輕化！15-39歲「癌王」發生率拉升近5成…胰臟癌如何檢查、症狀？醫揭做「7件事」防禦&nbsp;&nbsp;今周刊癌症年輕化成不可逆趨勢？但調整生活習慣仍可降低風險&nbsp;&nbsp;TechNews 科技新報2美食別吃多！胰臟癌晚期存活率剩7％ 醫曝前兆症狀：5類人小心&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
@@ -213,6 +213,19 @@
       ]
     },
     {
+      "id": "1bd610b51f93",
+      "title": "自閉症ADHD｜中大最新研究剖腹產BB有過度活躍、自閉風險 專家揭後天原來有得救！",
+      "published": "2026-05-25T01:00:00+00:00",
+      "summary": "自閉症ADHD｜中大最新研究剖腹產BB有過度活躍、自閉風險 專家揭後天原來有得救！&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfUG5MYUNlc3JLeGNPbVVZbkV0T1JGZWtlU0FyUTFvNXBwTVBLWmo1MlhRQWkxNWczTGxSRUxvTjU0OFJPVGUtQzBaRzdHZXV6ZHc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "9d683080341e",
       "title": "健康名人堂／從浪漫到憂心：青少年性傳播感染的防治挑戰",
       "published": "2026-05-24T16:00:00+00:00",
@@ -242,7 +255,7 @@
       "id": "c0a4127c0ac3",
       "title": "呼吸道融合病毒長效抗體健保審查待廠商送件| 生活 - 中央社 CNA",
       "published": "2026-05-24T13:33:00+00:00",
-      "summary": "呼吸道融合病毒長效抗體健保審查待廠商送件| 生活&nbsp;&nbsp;中央社 CNA呼吸道融合病毒長效抗體 健保審查待廠商送件&nbsp;&nbsp;UDN【醫生專欄】認識 RSV 預防性抗體 | 為嬰兒多一層即時防護&nbsp;&nbsp;UHK 港生活比流感住院率高16倍！營養師揭「這病」常被當感冒：惡化恐進ICU&nbsp;&nbsp;news.tvbs.com.tw這不是普通感冒！1病毒住院率比流感高出16倍&nbsp;&nbsp;Yahoo新聞",
+      "summary": "呼吸道融合病毒長效抗體健保審查待廠商送件| 生活&nbsp;&nbsp;中央社 CNA呼吸道融合病毒長效抗體 健保審查待廠商送件&nbsp;&nbsp;UDN【醫生專欄】認識 RSV 預防性抗體 | 為嬰兒多一層即時防護&nbsp;&nbsp;UHK 港生活比流感住院率高16倍！營養師揭「這病」常被當感冒：惡化恐進ICU&nbsp;&nbsp;TVBS新聞網這不是普通感冒！1病毒住院率比流感高出16倍&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "中央社 CNA",
@@ -262,6 +275,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "916dd508e906",
+      "title": "1顆蛋含44%維生素D、鋅10%！專家揭顏色差異：和營養無關",
+      "published": "2026-05-24T10:33:00+00:00",
+      "summary": "1顆蛋含44%維生素D、鋅10%！專家揭顏色差異：和營養無關&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNdzhYaXBuTjR1NjVySHpOaXVWLVlHNFRZdXRWZjd2MHFBVDdCUlotdUtBYnRtS0JhQ0NNbThGRm5kYlZ6b2dJUy1QRDhuZzZtRjNPNlIwMGZwejBHeFpUOEpfdVEyQkhRT3hHeXkteHByLWtDSUZicl9paGVfdGJ5c0hsdU9EWmxJN1pBbzl5WUNqWmQ4QmllSXVhQ0hPLWlERlF5U1pleVNyRmZqVGphNlZSYVJkay1iM2pnRHNWcHJKZjdEMU41VTRZa2Y1UWV4R2ZiV1JPTW5GUFhqWVdHbDk4UWlrbTdCbl95bkZUcVF6bkMzQjhGSUlvTVVBenN3aUN0Wnhua0dHVWUxa1dCLWhUYjRuZ2ptTDFXcTRmUmRoQ2NsNVVnc2ZmakJ6aGtOOVBYcVdSUFBOelFNTE1PanhrMmI?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "853aff92a97a",
@@ -514,7 +540,7 @@
       "id": "111594d2f162",
       "title": "子宮頸癌每年奪700位台灣女性生命 國泰醫：定期篩檢3年97%可被揪出",
       "published": "2026-05-24T00:00:00+00:00",
-      "summary": "子宮頸癌每年奪700位台灣女性生命 國泰醫：定期篩檢3年97%可被揪出&nbsp;&nbsp;民報",
+      "summary": "子宮頸癌每年奪700位台灣女性生命 國泰醫：定期篩檢3年97%可被揪出&nbsp;&nbsp;民報前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "民報",
@@ -536,14 +562,14 @@
       ]
     },
     {
-      "id": "291dce01f920",
+      "id": "a6546bef8aec",
       "title": "德州聖大衛醫療中心心律不正研究所將主辦複雜性心律不正國際會議",
-      "published": "2026-05-23T16:08:13+00:00",
-      "summary": "德州聖大衛醫療中心心律不正研究所將主辦複雜性心律不正國際會議&nbsp;&nbsp;經商新聞",
+      "published": "2026-05-23T17:00:40+00:00",
+      "summary": "德州聖大衛醫療中心心律不正研究所將主辦複雜性心律不正國際會議&nbsp;&nbsp;經濟日報",
       "sources": [
         {
-          "name": "經商新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01bFotMHRQaHp0NWg0TnFRLWFVTlpjdzh4WDdic0MyNUtwU0plUlN1REl3d3NRb1AyUWxqb2loUTcyMWpLdjRYTEhSdm1nUQ?oc=5"
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJdU15cGtnZnhtU2cyenYyMGFMSEdYVWVoQm82N09XSldOdkpQUDFtSW1oUDFTRXc3UzA2cU5MeFJ3eUN1ajJLRjhVWGNyMGxYSEdtcHIxdEFsMmND0gFiQVVfeXFMTlp1VWNwZnpqVTJ2TXlLb0Rib2oxMmlUZXZTZl9sT0ZUb2pqV2R6TENUUTRoTnpleXhKQm40TW1qcWF0cGs5amd1Y2N4Q1UzdzVMcktEeDJSemNFN05lTFhBMnc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -560,54 +586,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "22eefde4b94c",
-      "title": "患大腸癌4期！50歲男「做好2事」癌細胞消失 9年沒復發",
-      "published": "2026-05-23T09:05:00+00:00",
-      "summary": "患大腸癌4期！50歲男「做好2事」癌細胞消失 9年沒復發&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOMEFXZ3kxU0FSbUxLbDNkbVZtcnhSQWVoWlNTOWR1UkRjcnlmdHVvZkM4NW5SNnROSjl6TlVNNXN0YUlOcjNUTVlLeFVWbWNqbFduaXNUM2RFcS1xTjVwLU1nN0hwUGstUGVWYUxHalNrWlk0eDdpcTc4VnNzWkpDZURHOE5sRGduY0dHSU8wa2V1NDY5bHM5c3pFN1EtbWc4SUZpX0JSVXFTajFCbGpsMkFIQ2FJYnFTUzNUcXdEZHVGSER4LUEycDRzOTZodXMyMTUtSFFYN1ZKb1pnekF1aERScVFLZmd6U3JzRWpjR1cwc0lEbEZidGhaVnRwMHhwbDY5TEY5WGpsNzVhak9qS1RyVWJMZW5RYk93Wkl5clBFU0pDdV9LeFFOanBuQnlhTGJWcEFhb1NuSHBLU05yWnA2aw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "8edbe0ca48cd",
@@ -729,263 +707,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "f8a04dee534d",
-      "title": "年輕人快速增加的癌症是「它」！跨國權威研究：女性甲狀腺癌發病率僅次於乳癌",
-      "published": "2026-05-23T00:01:05+00:00",
-      "summary": "年輕人快速增加的癌症是「它」！跨國權威研究：女性甲狀腺癌發病率僅次於乳癌&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOTzdQNndiSkQ2NElRZ3Vtd0hHVFdUZTVoRkxSRU9oM3dyV1Q3UXFoWnl6bmQ0QmFRMmxONlBZZk4zMHVBd0lheExzQXhLWnVyaURMWjRfNzdaMU11eUVvblA5UlVPalJVWUg1VlpsM1BMVjVMLTV3a0FZRmZQbktBekxHTXBvdWNPeVY3c0FfbmVQUmtUV0pqZWYwVUo0UUgwU29sbGNlYTJBQzlWcE9PeURSSEVhWnlYWThxb3E5OWd2UkZYTjlQY0I5bnBEcl9EcG1ncmo5Z1lJbF95eExHNXRnTUF0NUZSNl96UGhxZU9Fb2J4MzJpMVU1WnB6OTQwWEFTT3Awd1BYc2lDN2RIT2dKYjFJYV95Si1EQm50cEhpcjc2Qk45d0FldjR0bTZRdUxneE9aUjVZZTEwTTRfMHdGZXNDay1DTkdkdjQ1dlNKVGc4amxCbUZfUC1LNmZmWGRvbVFkWFRJQVFSYzdMNFJIVE9jaUVFNDBRc3hjU1RGUEVoOENRLXNsdHo3TURpUTNfcjlob1Ixb2FuaDFiOXVnWV9qN0RBV09iYVBXUjFRWmExak9UelBPVjRTYzNpcEtCSks2OWxqR3F2bTBWMjFoQTIwTVk?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "987230a61650",
-      "title": "科學人／不只漢他病毒！這類病毒更容易引發大流行研究曝關鍵風險| 放學微素養| 文教",
-      "published": "2026-05-23T00:00:57+00:00",
-      "summary": "科學人／不只漢他病毒！這類病毒更容易引發大流行研究曝關鍵風險| 放學微素養| 文教&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVcnd2OWRPNHFOTHUzaTQxcGhrdTA4enZJam5Vb1VPY1hqZS1oWXB4LVFWdWROYTJURnRaY1JJY2VKdDBIRkpsUU55Y2h4RXNr?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "554d4b56a4a9",
