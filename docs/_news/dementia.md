@@ -3,7 +3,7 @@ layout: default
 title: "阿茲海默症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "阿茲海默症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "阿茲海默症（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="阿茲海默症（dementia） 有什麼相關新聞？">
-<strong>阿茲海默症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>阿茲海默症（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [原來45歲就開始了！「2徵狀」 恐是阿茲海默症前兆](https://news.google.com/rss/articles/CBMisgJBVV95cUxPcEVRdldSUDlBdzZtRlVvblJUUDBpcGYzQ3ZlcTZVM3p2WTZ5azAyUW1STkQxNEllYUg2engwOUNFbTkzbjFpeW54dW1jWGlGMlpwNHg1YmFlNWFJRnBjanhQYktUNk9KMkJ6cklYVl9UZC1Remx0TTdRZ3J6X1Vhc0NPRUJ3azlOcnhZRGltX09iY0lZeU91NTl0ZXgxWG1wRGpFcy1ZOTlSZkVxRWQ4TGtqbzFmZWZVLTN5bzZLeGNtZTRkZTRFNWJrUXItWHU3TGVjSVZjN1NLNWNPSEZ5cU4tbkIxUFdRX2VTV19XQ2NlRUQ1TjI0Ynh5SFdwNmViRW1LYkxVVGNWRVJhLTcxS25EcVZjSXhWLVo5bVJ6amh1M2JzX2o3R0VEQTd5VTRib1E?oc=5)
 
 2026-05-25
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMisgJBVV95cUxPcEVRdldSUDlBdzZtRlVvblJUUDBpcGYzQ3ZlcTZVM3p2WTZ5azAyUW1STkQxNEllYUg2engwOUNFbTkzbjFpeW54dW1jWGlGMlpwNHg1YmFlNWFJRnBjanhQYktUNk9KMkJ6cklYVl9UZC1Remx0TTdRZ3J6X1Vhc0NPRUJ3azlOcnhZRGltX09iY0lZeU91NTl0ZXgxWG1wRGpFcy1ZOTlSZkVxRWQ4TGtqbzFmZWZVLTN5bzZLeGNtZTRkZTRFNWJrUXItWHU3TGVjSVZjN1NLNWNPSEZ5cU4tbkIxUFdRX2VTV19XQ2NlRUQ1TjI0Ynh5SFdwNmViRW1LYkxVVGNWRVJhLTcxS25EcVZjSXhWLVo5bVJ6amh1M2JzX2o3R0VEQTd5VTRib1E?oc=5)
+
+---
+
+### [健康網》不只防失智！ 專家揭雞蛋營養亮點 1顆補足半日維生素D](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hZFphM1pOMVcxOXhrckhCQU9TdkxMb1hRSlZNQUh2Yk5SOVNraWJGOWZfRU1TSjJIVmN2Y2ZMVnNyWFI0UTRNa21PYjIwM0ZWdW11d0hwdy1NdWdDenVyWXhSeHbSAWpBVV95cUxNN3dKMUwtZk04eE0yRzhZQk1OY0dFWkFuM2h6NVotelg1SjZWRUZ1MG9DNWNyc3V5dUJPUHFqblBUTUZtR1dyZkF5azZsamJTSk90V3pONGdINUFkWW5OU2tjSWRsRUNTVFd3?oc=5)
+
+2026-05-25
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hZFphM1pOMVcxOXhrckhCQU9TdkxMb1hRSlZNQUh2Yk5SOVNraWJGOWZfRU1TSjJIVmN2Y2ZMVnNyWFI0UTRNa21PYjIwM0ZWdW11d0hwdy1NdWdDenVyWXhSeHbSAWpBVV95cUxNN3dKMUwtZk04eE0yRzhZQk1OY0dFWkFuM2h6NVotelg1SjZWRUZ1MG9DNWNyc3V5dUJPUHFqblBUTUZtR1dyZkF5azZsamJTSk90V3pONGdINUFkWW5OU2tjSWRsRUNTVFd3?oc=5)
 
 ---
 

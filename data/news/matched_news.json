@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-25T17:00:00.474101+00:00",
+  "last_updated": "2026-05-25T18:26:22.460557+00:00",
   "total_count": 21,
-  "matched_count": 11,
+  "matched_count": 12,
   "news": [
     {
       "id": "129cc4b2050f",
@@ -446,6 +446,42 @@
       ]
     },
     {
+      "id": "8235a74ad901",
+      "title": "健康網》不只防失智！ 專家揭雞蛋營養亮點 1顆補足半日維生素D",
+      "published": "2026-05-25T08:41:00+00:00",
+      "summary": "健康網》不只防失智！ 專家揭雞蛋營養亮點 1顆補足半日維生素D&nbsp;&nbsp;自由健康網馬英九失智成羅生門 美研究吃一廉價食品失智風險大減&nbsp;&nbsp;Yahoo新聞1顆蛋含44%維生素D、鋅10%！專家揭顏色差異：和營養無關&nbsp;&nbsp;祝你健康它＝完全營養食物！能降低 27% 失智風險&nbsp;&nbsp;鏡週刊Mirror Media超常見！4萬人最新研究曝光規律吃1物降27％阿茲海默症風險- 生活&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hZFphM1pOMVcxOXhrckhCQU9TdkxMb1hRSlZNQUh2Yk5SOVNraWJGOWZfRU1TSjJIVmN2Y2ZMVnNyWFI0UTRNa21PYjIwM0ZWdW11d0hwdy1NdWdDenVyWXhSeHbSAWpBVV95cUxNN3dKMUwtZk04eE0yRzhZQk1OY0dFWkFuM2h6NVotelg1SjZWRUZ1MG9DNWNyc3V5dUJPUHFqblBUTUZtR1dyZkF5azZsamJTSk90V3pONGdINUFkWW5OU2tjSWRsRUNTVFd3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "00ff8d40174d",
       "title": "大腸癌年輕化不是沒原因 專家點名6種護腸食物與4大關鍵習慣",
       "published": "2026-05-25T08:39:38+00:00",
@@ -874,7 +910,7 @@
       "id": "daaf05957183",
       "title": "歐盟心臟報告示警：超加工食品大增心臟疾病風險",
       "published": "2026-05-24T08:27:00+00:00",
-      "summary": "歐盟心臟報告示警：超加工食品大增心臟疾病風險&nbsp;&nbsp;蕃新聞健康網》專家談NOVA分類 超加工食品這樣吃比較好&nbsp;&nbsp;自由健康網名醫苦勸：這些食物不要碰！小心害得糖尿病、腎臟病 很多人天天吃&nbsp;&nbsp;Yahoo新聞優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險&nbsp;&nbsp;UDN成日食加工食品唔止增患癌風險？研究揭6種防腐劑陷阱 這1種最易被忽略&nbsp;&nbsp;星島頭條",
+      "summary": "歐盟心臟報告示警：超加工食品大增心臟疾病風險&nbsp;&nbsp;蕃新聞健康網》專家談NOVA分類 超加工食品這樣吃比較好&nbsp;&nbsp;自由健康網名醫苦勸：這些食物不要碰！小心害得糖尿病、腎臟病 很多人天天吃&nbsp;&nbsp;Yahoo新聞優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險&nbsp;&nbsp;udn成日食加工食品唔止增患癌風險？研究揭6種防腐劑陷阱 這1種最易被忽略&nbsp;&nbsp;星島頭條",
       "sources": [
         {
           "name": "蕃新聞",
@@ -1003,14 +1039,14 @@
       ]
     },
     {
-      "id": "853aff92a97a",
+      "id": "534bff54d83c",
       "title": "不只是腫瘤測量指標！細胞實測揭醫界常用蛋白具防護機制 能阻斷癌變",
-      "published": "2026-05-24T05:44:00+00:00",
-      "summary": "不只是腫瘤測量指標！細胞實測揭醫界常用蛋白具防護機制 能阻斷癌變&nbsp;&nbsp;自由健康網",
+      "published": "2026-05-24T06:03:52+00:00",
+      "summary": "不只是腫瘤測量指標！細胞實測揭醫界常用蛋白具防護機制 能阻斷癌變&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXaHF1djlXMWw5REtMRU5ybEF4MVRIOHd0V3ZtUzJvUmZYUU9vMEJUdENTMHNHeUQ1aDlEN1dEMGZoN1d2c1ZHMW5DREhEdkRPc2drS1M1TXNHTWdyUGo1OTJvZXHSAWpBVV95cUxPcV80by1FZDFjTkhkR1BXcGctVTkyTVlSdFFBNFhqdEdJVzZZZGh2QkIyNXBYVjctdmJ3WkROT3R3VGdDclVkcVZ3RlRxOGppWVFJRGhKU2RLQm9wQkRZamE3b0hZVFlnd3B3?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOWHdPdWduWDZYelNfSEVZTjlKZGZuQlNBNFhsTExMYTRfeGtmUGVRS3hGVUdGN1QyN1A0eUFFZHhWaG02enM5OWsxOE1TQlFyTUdnMFRMZk51eS1HdTl1WTFjeWtBM2hXUkZDOEkxTnlxVEViajMwQnpPMms5ejl5aUlBRlY1MS1XQXJoODRWZ3ROc1QxRHY0N0JibXMyUlk0aGNENFAyUVFvay1GSnVpbjdDbEItRERpbmZodzd6eTFZMERqZHh5Xy01Ql9aLV9QRDZEUmtIcUVIM01UX1J6SDl0N0RncVNiS21Xak9hUzYwc0t1em40YmdpUWdzbHNBcElabXlfZEdBa215N3RUQlRpY2FUc1VDVTFyXy01RXpoVm5mc3BNdWlUMmg1QVNROFRhckhpMjRzdzEydU1Wc0hLam94VmVpNkN4QVRLZUR0ajJUMGtNUUlpQmtkVW5tX2hQWHZrOTlCbm5OdFQ4LVdWUjFXU0FmTlhDVDRoY1QyaGFwNkRqZTZfdFZRdTNRc0ZqdDdNSHFicWdnNkhkYVFPcktHZ3E5ZVJmTkd6UTJHUmdINU52M1hCdm1xdw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1296,19 +1332,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "a6546bef8aec",
-      "title": "德州聖大衛醫療中心心律不正研究所將主辦複雜性心律不正國際會議",
-      "published": "2026-05-23T17:00:40+00:00",
-      "summary": "德州聖大衛醫療中心心律不正研究所將主辦複雜性心律不正國際會議&nbsp;&nbsp;經濟日報",
-      "sources": [
-        {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJdU15cGtnZnhtU2cyenYyMGFMSEdYVWVoQm82N09XSldOdkpQUDFtSW1oUDFTRXc3UzA2cU5MeFJ3eUN1ajJLRjhVWGNyMGxYSEdtcHIxdEFsMmND0gFiQVVfeXFMTlp1VWNwZnpqVTJ2TXlLb0Rib2oxMmlUZXZTZl9sT0ZUb2pqV2R6TENUUTRoTnpleXhKQm40TW1qcWF0cGs5amd1Y2N4Q1UzdzVMcktEeDJSemNFN05lTFhBMnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "554d4b56a4a9",

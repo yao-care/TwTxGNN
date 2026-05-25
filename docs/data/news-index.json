@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-25T17:00:00.506971+00:00",
-  "count": 11,
+  "generated": "2026-05-25T18:26:22.494772+00:00",
+  "count": 12,
   "news": [
     {
       "id": "3e64082a2a99",
@@ -420,6 +420,41 @@
           "type": "indication",
           "name": "dementia",
           "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8235a74ad901",
+      "title": "健康網》不只防失智！ 專家揭雞蛋營養亮點 1顆補足半日維生素D",
+      "published": "2026-05-25T08:41:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hZFphM1pOMVcxOXhrckhCQU9TdkxMb1hRSlZNQUh2Yk5SOVNraWJGOWZfRU1TSjJIVmN2Y2ZMVnNyWFI0UTRNa21PYjIwM0ZWdW11d0hwdy1NdWdDenVyWXhSeHbSAWpBVV95cUxNN3dKMUwtZk04eE0yRzhZQk1OY0dFWkFuM2h6NVotelg1SjZWRUZ1MG9DNWNyc3V5dUJPUHFqblBUTUZtR1dyZkF5azZsamJTSk90V3pONGdINUFkWW5OU2tjSWRsRUNTVFd3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
           "related_drugs": [
             {
               "slug": "gefitinib",
@@ -903,13 +938,13 @@
       ]
     },
     {
-      "id": "853aff92a97a",
+      "id": "534bff54d83c",
       "title": "不只是腫瘤測量指標！細胞實測揭醫界常用蛋白具防護機制 能阻斷癌變",
-      "published": "2026-05-24T05:44:00+00:00",
+      "published": "2026-05-24T06:03:52+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXaHF1djlXMWw5REtMRU5ybEF4MVRIOHd0V3ZtUzJvUmZYUU9vMEJUdENTMHNHeUQ1aDlEN1dEMGZoN1d2c1ZHMW5DREhEdkRPc2drS1M1TXNHTWdyUGo1OTJvZXHSAWpBVV95cUxPcV80by1FZDFjTkhkR1BXcGctVTkyTVlSdFFBNFhqdEdJVzZZZGh2QkIyNXBYVjctdmJ3WkROT3R3VGdDclVkcVZ3RlRxOGppWVFJRGhKU2RLQm9wQkRZamE3b0hZVFlnd3B3?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOWHdPdWduWDZYelNfSEVZTjlKZGZuQlNBNFhsTExMYTRfeGtmUGVRS3hGVUdGN1QyN1A0eUFFZHhWaG02enM5OWsxOE1TQlFyTUdnMFRMZk51eS1HdTl1WTFjeWtBM2hXUkZDOEkxTnlxVEViajMwQnpPMms5ejl5aUlBRlY1MS1XQXJoODRWZ3ROc1QxRHY0N0JibXMyUlk0aGNENFAyUVFvay1GSnVpbjdDbEItRERpbmZodzd6eTFZMERqZHh5Xy01Ql9aLV9QRDZEUmtIcUVIM01UX1J6SDl0N0RncVNiS21Xak9hUzYwc0t1em40YmdpUWdzbHNBcElabXlfZEdBa215N3RUQlRpY2FUc1VDVTFyXy01RXpoVm5mc3BNdWlUMmg1QVNROFRhckhpMjRzdzEydU1Wc0hLam94VmVpNkN4QVRLZUR0ajJUMGtNUUlpQmtkVW5tX2hQWHZrOTlCbm5OdFQ4LVdWUjFXU0FmTlhDVDRoY1QyaGFwNkRqZTZfdFZRdTNRc0ZqdDdNSHFicWdnNkhkYVFPcktHZ3E5ZVJmTkd6UTJHUmdINU52M1hCdm1xdw?oc=5"
         }
       ],
       "keywords": [
