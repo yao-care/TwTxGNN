@@ -43,27 +43,27 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（6 則）
 
+### [失智症最早警訊恐非健忘 研究：很多人先開始聞不到味道](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzY2NXMTVaVFEyX2tjOV9ORUFEUlBoQi11TDJRN0hLYlFJeGVtdk56cy0wdTRYckRsQzBNeDh3dkxSU3l3b2txbVZiR1NtNVZETWZZV2tadFlCQnppdHk2Qmx5TG7SAWpBVV95cUxOdjl0dEpFc3FmUG9oUXdPWUZxbDUtcFJsMVlmR3FaUzB3Z1AwVDNhaFByTXc4VVo1WmdsTm43LW1GWkhCYXVmUV9MUzJpdWtSNEFCQkJpUEFvUmdua1FQeUk4LUVIa0JqMnhn?oc=5)
+
+2026-05-26 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzY2NXMTVaVFEyX2tjOV9ORUFEUlBoQi11TDJRN0hLYlFJeGVtdk56cy0wdTRYckRsQzBNeDh3dkxSU3l3b2txbVZiR1NtNVZETWZZV2tadFlCQnppdHk2Qmx5TG7SAWpBVV95cUxOdjl0dEpFc3FmUG9oUXdPWUZxbDUtcFJsMVlmR3FaUzB3Z1AwVDNhaFByTXc4VVo1WmdsTm43LW1GWkhCYXVmUV9MUzJpdWtSNEFCQkJpUEFvUmdua1FQeUk4LUVIa0JqMnhn?oc=5)
+
+---
+
+### [45%失智可預防或延緩！專家曝「3超級食物」能保護大腦](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JQ09xU3BWZ3BpUHptb0pIbUp5cjhKZGdIc3lvYlpKU0lleW0zRnpQcUtyYW1xUnktZ09ocFBnX2tGbW8tbG8yRlgyMlM?oc=5)
+
+2026-05-26 <span class="news-indication-tag">失智</span>
+
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JQ09xU3BWZ3BpUHptb0pIbUp5cjhKZGdIc3lvYlpKU0lleW0zRnpQcUtyYW1xUnktZ09ocFBnX2tGbW8tbG8yRlgyMlM?oc=5)
+
+---
+
 ### [打破貓咪腫瘤神秘面紗！《科學》新研究揭開人、貓癌症基因驚人關聯](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zN0ZQSEJwUVZSR3E3bjB1d2NVN3E3Snd5TGdQYjlwSjJMX2g4MjVLUG44Wl9UZEM5NEw5bXd6ZlhxWDktaFVMbGNtRXM4Vm9UUi1tX3J0LWNYNUMwY3Iw?oc=5)
 
 2026-05-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
 來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zN0ZQSEJwUVZSR3E3bjB1d2NVN3E3Snd5TGdQYjlwSjJMX2g4MjVLUG44Wl9UZEM5NEw5bXd6ZlhxWDktaFVMbGNtRXM4Vm9UUi1tX3J0LWNYNUMwY3Iw?oc=5)
-
----
-
-### [原來45歲就開始了！「2徵狀」 恐是阿茲海默症前兆](https://news.google.com/rss/articles/CBMisgJBVV95cUxPcEVRdldSUDlBdzZtRlVvblJUUDBpcGYzQ3ZlcTZVM3p2WTZ5azAyUW1STkQxNEllYUg2engwOUNFbTkzbjFpeW54dW1jWGlGMlpwNHg1YmFlNWFJRnBjanhQYktUNk9KMkJ6cklYVl9UZC1Remx0TTdRZ3J6X1Vhc0NPRUJ3azlOcnhZRGltX09iY0lZeU91NTl0ZXgxWG1wRGpFcy1ZOTlSZkVxRWQ4TGtqbzFmZWZVLTN5bzZLeGNtZTRkZTRFNWJrUXItWHU3TGVjSVZjN1NLNWNPSEZ5cU4tbkIxUFdRX2VTV19XQ2NlRUQ1TjI0Ynh5SFdwNmViRW1LYkxVVGNWRVJhLTcxS25EcVZjSXhWLVo5bVJ6amh1M2JzX2o3R0VEQTd5VTRib1E?oc=5)
-
-2026-05-25 <span class="news-indication-tag">阿茲海默症</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMisgJBVV95cUxPcEVRdldSUDlBdzZtRlVvblJUUDBpcGYzQ3ZlcTZVM3p2WTZ5azAyUW1STkQxNEllYUg2engwOUNFbTkzbjFpeW54dW1jWGlGMlpwNHg1YmFlNWFJRnBjanhQYktUNk9KMkJ6cklYVl9UZC1Remx0TTdRZ3J6X1Vhc0NPRUJ3azlOcnhZRGltX09iY0lZeU91NTl0ZXgxWG1wRGpFcy1ZOTlSZkVxRWQ4TGtqbzFmZWZVLTN5bzZLeGNtZTRkZTRFNWJrUXItWHU3TGVjSVZjN1NLNWNPSEZ5cU4tbkIxUFdRX2VTV19XQ2NlRUQ1TjI0Ynh5SFdwNmViRW1LYkxVVGNWRVJhLTcxS25EcVZjSXhWLVo5bVJ6amh1M2JzX2o3R0VEQTd5VTRib1E?oc=5)
-
----
-
-### [健康網》不只防失智！ 專家揭雞蛋營養亮點 1顆補足半日維生素D](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hZFphM1pOMVcxOXhrckhCQU9TdkxMb1hRSlZNQUh2Yk5SOVNraWJGOWZfRU1TSjJIVmN2Y2ZMVnNyWFI0UTRNa21PYjIwM0ZWdW11d0hwdy1NdWdDenVyWXhSeHbSAWpBVV95cUxNN3dKMUwtZk04eE0yRzhZQk1OY0dFWkFuM2h6NVotelg1SjZWRUZ1MG9DNWNyc3V5dUJPUHFqblBUTUZtR1dyZkF5azZsamJTSk90V3pONGdINUFkWW5OU2tjSWRsRUNTVFd3?oc=5)
-
-2026-05-25 <span class="news-indication-tag">失智</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hZFphM1pOMVcxOXhrckhCQU9TdkxMb1hRSlZNQUh2Yk5SOVNraWJGOWZfRU1TSjJIVmN2Y2ZMVnNyWFI0UTRNa21PYjIwM0ZWdW11d0hwdy1NdWdDenVyWXhSeHbSAWpBVV95cUxNN3dKMUwtZk04eE0yRzhZQk1OY0dFWkFuM2h6NVotelg1SjZWRUZ1MG9DNWNyc3V5dUJPUHFqblBUTUZtR1dyZkF5azZsamJTSk90V3pONGdINUFkWW5OU2tjSWRsRUNTVFd3?oc=5)
 
 ---
 

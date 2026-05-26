@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "阿茲海默症（dementia） 相關新聞"
+title: "失智症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "阿茲海默症（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "失智症（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 阿茲海默症（dementia） 相關新聞
+# 失智症（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="阿茲海默症（dementia） 有什麼相關新聞？">
-<strong>阿茲海默症（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
+<strong>失智症（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -31,19 +31,19 @@ permalink: /news/dementia/
 
 ## 相關新聞（3 則）
 
-### [原來45歲就開始了！「2徵狀」 恐是阿茲海默症前兆](https://news.google.com/rss/articles/CBMisgJBVV95cUxPcEVRdldSUDlBdzZtRlVvblJUUDBpcGYzQ3ZlcTZVM3p2WTZ5azAyUW1STkQxNEllYUg2engwOUNFbTkzbjFpeW54dW1jWGlGMlpwNHg1YmFlNWFJRnBjanhQYktUNk9KMkJ6cklYVl9UZC1Remx0TTdRZ3J6X1Vhc0NPRUJ3azlOcnhZRGltX09iY0lZeU91NTl0ZXgxWG1wRGpFcy1ZOTlSZkVxRWQ4TGtqbzFmZWZVLTN5bzZLeGNtZTRkZTRFNWJrUXItWHU3TGVjSVZjN1NLNWNPSEZ5cU4tbkIxUFdRX2VTV19XQ2NlRUQ1TjI0Ynh5SFdwNmViRW1LYkxVVGNWRVJhLTcxS25EcVZjSXhWLVo5bVJ6amh1M2JzX2o3R0VEQTd5VTRib1E?oc=5)
+### [失智症最早警訊恐非健忘 研究：很多人先開始聞不到味道](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzY2NXMTVaVFEyX2tjOV9ORUFEUlBoQi11TDJRN0hLYlFJeGVtdk56cy0wdTRYckRsQzBNeDh3dkxSU3l3b2txbVZiR1NtNVZETWZZV2tadFlCQnppdHk2Qmx5TG7SAWpBVV95cUxOdjl0dEpFc3FmUG9oUXdPWUZxbDUtcFJsMVlmR3FaUzB3Z1AwVDNhaFByTXc4VVo1WmdsTm43LW1GWkhCYXVmUV9MUzJpdWtSNEFCQkJpUEFvUmdua1FQeUk4LUVIa0JqMnhn?oc=5)
 
-2026-05-25
+2026-05-26
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMisgJBVV95cUxPcEVRdldSUDlBdzZtRlVvblJUUDBpcGYzQ3ZlcTZVM3p2WTZ5azAyUW1STkQxNEllYUg2engwOUNFbTkzbjFpeW54dW1jWGlGMlpwNHg1YmFlNWFJRnBjanhQYktUNk9KMkJ6cklYVl9UZC1Remx0TTdRZ3J6X1Vhc0NPRUJ3azlOcnhZRGltX09iY0lZeU91NTl0ZXgxWG1wRGpFcy1ZOTlSZkVxRWQ4TGtqbzFmZWZVLTN5bzZLeGNtZTRkZTRFNWJrUXItWHU3TGVjSVZjN1NLNWNPSEZ5cU4tbkIxUFdRX2VTV19XQ2NlRUQ1TjI0Ynh5SFdwNmViRW1LYkxVVGNWRVJhLTcxS25EcVZjSXhWLVo5bVJ6amh1M2JzX2o3R0VEQTd5VTRib1E?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzY2NXMTVaVFEyX2tjOV9ORUFEUlBoQi11TDJRN0hLYlFJeGVtdk56cy0wdTRYckRsQzBNeDh3dkxSU3l3b2txbVZiR1NtNVZETWZZV2tadFlCQnppdHk2Qmx5TG7SAWpBVV95cUxOdjl0dEpFc3FmUG9oUXdPWUZxbDUtcFJsMVlmR3FaUzB3Z1AwVDNhaFByTXc4VVo1WmdsTm43LW1GWkhCYXVmUV9MUzJpdWtSNEFCQkJpUEFvUmdua1FQeUk4LUVIa0JqMnhn?oc=5)
 
 ---
 
-### [健康網》不只防失智！ 專家揭雞蛋營養亮點 1顆補足半日維生素D](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hZFphM1pOMVcxOXhrckhCQU9TdkxMb1hRSlZNQUh2Yk5SOVNraWJGOWZfRU1TSjJIVmN2Y2ZMVnNyWFI0UTRNa21PYjIwM0ZWdW11d0hwdy1NdWdDenVyWXhSeHbSAWpBVV95cUxNN3dKMUwtZk04eE0yRzhZQk1OY0dFWkFuM2h6NVotelg1SjZWRUZ1MG9DNWNyc3V5dUJPUHFqblBUTUZtR1dyZkF5azZsamJTSk90V3pONGdINUFkWW5OU2tjSWRsRUNTVFd3?oc=5)
+### [45%失智可預防或延緩！專家曝「3超級食物」能保護大腦](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JQ09xU3BWZ3BpUHptb0pIbUp5cjhKZGdIc3lvYlpKU0lleW0zRnpQcUtyYW1xUnktZ09ocFBnX2tGbW8tbG8yRlgyMlM?oc=5)
 
-2026-05-25
+2026-05-26
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hZFphM1pOMVcxOXhrckhCQU9TdkxMb1hRSlZNQUh2Yk5SOVNraWJGOWZfRU1TSjJIVmN2Y2ZMVnNyWFI0UTRNa21PYjIwM0ZWdW11d0hwdy1NdWdDenVyWXhSeHbSAWpBVV95cUxNN3dKMUwtZk04eE0yRzhZQk1OY0dFWkFuM2h6NVotelg1SjZWRUZ1MG9DNWNyc3V5dUJPUHFqblBUTUZtR1dyZkF5azZsamJTSk90V3pONGdINUFkWW5OU2tjSWRsRUNTVFd3?oc=5)
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JQ09xU3BWZ3BpUHptb0pIbUp5cjhKZGdIc3lvYlpKU0lleW0zRnpQcUtyYW1xUnktZ09ocFBnX2tGbW8tbG8yRlgyMlM?oc=5)
 
 ---
 
