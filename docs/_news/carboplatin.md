@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [這種肉別多吃！恐增肺癌、腸癌風險 吃對部位更健康](https://news.google.com/rss/articles/CBMi0wJBVV95cUxQTmthbjV0a0F6cnZBSU90dTBZT25KOXM1UjloakY5Wkt1RlNtN3BMcEd5c2NkbEU3eDM3QS0wNzdGUTVXck5BbXFHcmpDY0FnNE1wMHZYNGY4a2ZZRUpQWEhQVVBZR3BPWHJrd0FWSVNnNU9LSUFueTlJdHMtazRMTTJ1UVlBXzkzd0dPUV9zMEI0S3pHMF9GQ3hHRURfekhYamlGdllOTlh2ajFlV000cHlxTkYta0hjTlFjTVR5Y0tFTk1GdWRJaXhnMjlfQ3hBXzhXUEkzLUtSWlZvbThfM0tsRGQ1VlRzTFkzUHI5VGV6THoyTThVeGs4Z1NsNzJLX3pQdGpIMllBSXJmVzVodmVnb2U2X2JHR3puaFpSOHZCdEtZb19lTzBVMENlb2RPVl9WcjEzdE8yMkJMdnFhR3hRY1FDUlkwVlBneWNfS2trTVU?oc=5)
-
-2026-05-26 <span class="news-indication-tag">肺癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi0wJBVV95cUxQTmthbjV0a0F6cnZBSU90dTBZT25KOXM1UjloakY5Wkt1RlNtN3BMcEd5c2NkbEU3eDM3QS0wNzdGUTVXck5BbXFHcmpDY0FnNE1wMHZYNGY4a2ZZRUpQWEhQVVBZR3BPWHJrd0FWSVNnNU9LSUFueTlJdHMtazRMTTJ1UVlBXzkzd0dPUV9zMEI0S3pHMF9GQ3hHRURfekhYamlGdllOTlh2ajFlV000cHlxTkYta0hjTlFjTVR5Y0tFTk1GdWRJaXhnMjlfQ3hBXzhXUEkzLUtSWlZvbThfM0tsRGQ1VlRzTFkzUHI5VGV6THoyTThVeGs4Z1NsNzJLX3pQdGpIMllBSXJmVzVodmVnb2U2X2JHR3puaFpSOHZCdEtZb19lTzBVMENlb2RPVl9WcjEzdE8yMkJMdnFhR3hRY1FDUlkwVlBneWNfS2trTVU?oc=5)
-
----
-
-### [HPV感染不等於癌症 醫籲「規律抹片+疫苗」有效降子宮頸癌風險](https://news.google.com/rss/articles/CBMi_AJBVV95cUxNS0Z3dlNKd0VfNDM4aWdfYUNGQzNrcWJtTy1OWHV3bTlZaUo5QmRFbWd2MlJEWDlhZVh4M1dwYk9iMFJwcU9aMlZ6dS01Z05EeFpEbWZSSnkzWk1ZbDA2UnJDNG9VNl82aGo5bU9vR3NBMGN2Tk15NUc1OXQ5aVZwWFJWOEd0eGU1cmtuX3p2a25YSmZqbnFVVzhQMFZ5Z0YyTnhMcUN1Z21fcWxNSnZ5TTAyZFpsdW5kTnJvRlRhMFRNXzdYMmZuSVdHcWRwVk42OFRESEFOamN5NU02eXRGMHNQU1lZNWpoNzNMMjZ0MzJkQW1QN0VxcHhfQTEwZ2lMT0dnWUFWQTM4N3ZTTEF5eUxFUUxpbDV6LUlHWERWaHRJR0RpVFRhZWtQbmszdUdoazRrOWFwVjJnbzk5dWpMb291Mi1BMTNOZTRHQkVZbVZpRmU2LWdMVEF1Sjlxa1V2YmttdXh5MktrMnR4QXlQb1VnVkQxQ1RRdnF6ZA?oc=5)
+### [HPV感染不等於癌症 醫籲「規律抹片+疫苗」有效降子宮頸癌風險](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BV3FYcWF1MFh2YW4xaFFUTHoweVZ6dnBWaXgtMHNQN1ZkNkhVaTlmVTRiNzFYWjVzN3h0MkNyUzI1WWZOeG5rWTFRakVSd19JZ21BTkhn?oc=5)
 
 2026-05-26 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi_AJBVV95cUxNS0Z3dlNKd0VfNDM4aWdfYUNGQzNrcWJtTy1OWHV3bTlZaUo5QmRFbWd2MlJEWDlhZVh4M1dwYk9iMFJwcU9aMlZ6dS01Z05EeFpEbWZSSnkzWk1ZbDA2UnJDNG9VNl82aGo5bU9vR3NBMGN2Tk15NUc1OXQ5aVZwWFJWOEd0eGU1cmtuX3p2a25YSmZqbnFVVzhQMFZ5Z0YyTnhMcUN1Z21fcWxNSnZ5TTAyZFpsdW5kTnJvRlRhMFRNXzdYMmZuSVdHcWRwVk42OFRESEFOamN5NU02eXRGMHNQU1lZNWpoNzNMMjZ0MzJkQW1QN0VxcHhfQTEwZ2lMT0dnWUFWQTM4N3ZTTEF5eUxFUUxpbDV6LUlHWERWaHRJR0RpVFRhZWtQbmszdUdoazRrOWFwVjJnbzk5dWpMb291Mi1BMTNOZTRHQkVZbVZpRmU2LWdMVEF1Sjlxa1V2YmttdXh5MktrMnR4QXlQb1VnVkQxQ1RRdnF6ZA?oc=5)
+來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BV3FYcWF1MFh2YW4xaFFUTHoweVZ6dnBWaXgtMHNQN1ZkNkhVaTlmVTRiNzFYWjVzN3h0MkNyUzI1WWZOeG5rWTFRakVSd19JZ21BTkhn?oc=5)
 
 ---
 
@@ -68,11 +60,11 @@ permalink: /news/carboplatin/
 
 ---
 
-### [打破貓咪腫瘤神秘面紗！《科學》新研究揭開人、貓癌症基因驚人關聯](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zN0ZQSEJwUVZSR3E3bjB1d2NVN3E3Snd5TGdQYjlwSjJMX2g4MjVLUG44Wl9UZEM5NEw5bXd6ZlhxWDktaFVMbGNtRXM4Vm9UUi1tX3J0LWNYNUMwY3Iw?oc=5)
+### [貓咪癌症基因密碼解鎖 揭示人類治療新希望](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNYVBDS2xKX19iSTJZTWZxUkpXU2ZxM1h4eGJibV8yb0ZFOHBKSnBaYU9GYXhRV2NlVmsxMWZSUXp4LWtEV2tOQ0pQaDd2VThJQS1FcUdnRHFlV0tBUmFLekZzX0RqMEtjellvMW9ZNEVzcTJyU0huUURJUzV2Y2RQSDdHdnEyMU9nUHdwNzNxYlh3NnhMRV9UX0EzbzdpWWw5Tmg4ZUhwUGYzX1M4Q1lZekh4dXJxYXhLZ0dOQUJPNDRBUl9GcUhFeTBPaWsxRXM0a1REUnlNdkwzNDVRMlQ0S0hTV1Ywd18wMkdOcDRDVmZuVmtPbDlOT2tBcTlhZUctZ0dVYUF4Vl91UkpQOC1aNlFwaFl0bVA1MUwxaWRBYjJ0THctSDQ1Rg?oc=5)
 
-2026-05-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+2026-05-25 <span class="news-indication-tag">癌症</span>
 
-來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zN0ZQSEJwUVZSR3E3bjB1d2NVN3E3Snd5TGdQYjlwSjJMX2g4MjVLUG44Wl9UZEM5NEw5bXd6ZlhxWDktaFVMbGNtRXM4Vm9UUi1tX3J0LWNYNUMwY3Iw?oc=5)
+來源：[yesmedia.com.tw](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNYVBDS2xKX19iSTJZTWZxUkpXU2ZxM1h4eGJibV8yb0ZFOHBKSnBaYU9GYXhRV2NlVmsxMWZSUXp4LWtEV2tOQ0pQaDd2VThJQS1FcUdnRHFlV0tBUmFLekZzX0RqMEtjellvMW9ZNEVzcTJyU0huUURJUzV2Y2RQSDdHdnEyMU9nUHdwNzNxYlh3NnhMRV9UX0EzbzdpWWw5Tmg4ZUhwUGYzX1M4Q1lZekh4dXJxYXhLZ0dOQUJPNDRBUl9GcUhFeTBPaWsxRXM0a1REUnlNdkwzNDVRMlQ0S0hTV1Ywd18wMkdOcDRDVmZuVmtPbDlOT2tBcTlhZUctZ0dVYUF4Vl91UkpQOC1aNlFwaFl0bVA1MUwxaWRBYjJ0THctSDQ1Rg?oc=5)
 
 ---
 
