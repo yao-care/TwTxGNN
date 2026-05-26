@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [心肌梗塞不只傷心還傷腦 研究揭示引發情緒認知障礙 - GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxPbS1OcEFPbGtxbDctNVNhSloxMWgwVUFsdXE0SXoxZjg1ZjNtT2t5QVdVWEFOM1hySG8yeFhsbmFidkNYUkxrb08xWktMUlV3cjZqSXdjVEtSajNQamR0NHZwNDFyMU10anVTd0lYYzY5aHNwWGZIbDBqcXRkYTJsQ1hTUzRoaHNNMEdCbDdBM0NvTlc3NXo1MWJKdENBWGlRdG1KY2ZmWFhxVDV2dDQwcFVlQjFFcHB6LTZNaWZLcVJ1OUNvV2F4MzdKWVJuOTNVVC1hVjdtal8yMmw1R2I5NE56VS12UDd6ak12YXJsTzZqNm8xdlpXRVBySWRVMTFyQmc4Nk1XTHdYMnBZZ0MtTjZIVmRpRnJtNnBOU1NsdTQyYjA2NmxhNmExTl9uMjJLdkZzTDZlN1pWRksyeDdQdllJWTI4NnM?oc=5)
 
 2026-05-26 <span class="news-indication-tag">心肌梗塞</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxPbS1OcEFPbGtxbDctNVNhSloxMWgwVUFsdXE0SXoxZjg1ZjNtT2t5QVdVWEFOM1hySG8yeFhsbmFidkNYUkxrb08xWktMUlV3cjZqSXdjVEtSajNQamR0NHZwNDFyMU10anVTd0lYYzY5aHNwWGZIbDBqcXRkYTJsQ1hTUzRoaHNNMEdCbDdBM0NvTlc3NXo1MWJKdENBWGlRdG1KY2ZmWFhxVDV2dDQwcFVlQjFFcHB6LTZNaWZLcVJ1OUNvV2F4MzdKWVJuOTNVVC1hVjdtal8yMmw1R2I5NE56VS12UDd6ak12YXJsTzZqNm8xdlpXRVBySWRVMTFyQmc4Nk1XTHdYMnBZZ0MtTjZIVmRpRnJtNnBOU1NsdTQyYjA2NmxhNmExTl9uMjJLdkZzTDZlN1pWRksyeDdQdllJWTI4NnM?oc=5)
-
----
-
-### [歐盟心臟報告示警：超加工食品大增心臟疾病風險](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1MN3V0Q2ZtN2dORHJqUUkxcHFBSEwwR3Nyck5QamFCR1gzZVdnZFV2YjhpY0VQcWFVMnc?oc=5)
-
-2026-05-24 <span class="news-indication-tag">心臟疾病</span>
-
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1MN3V0Q2ZtN2dORHJqUUkxcHFBSEwwR3Nyck5QamFCR1gzZVdnZFV2YjhpY0VQcWFVMnc?oc=5)
 
 ---
 

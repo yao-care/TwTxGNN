@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,37 +42,29 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
+
+### [HPV感染不等於癌症 醫籲「規律抹片+疫苗」有效降子宮頸癌風險](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BV3FYcWF1MFh2YW4xaFFUTHoweVZ6dnBWaXgtMHNQN1ZkNkhVaTlmVTRiNzFYWjVzN3h0MkNyUzI1WWZOeG5rWTFRakVSd19JZ21BTkhn?oc=5)
+
+2026-05-26 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BV3FYcWF1MFh2YW4xaFFUTHoweVZ6dnBWaXgtMHNQN1ZkNkhVaTlmVTRiNzFYWjVzN3h0MkNyUzI1WWZOeG5rWTFRakVSd19JZ21BTkhn?oc=5)
+
+---
+
+### [【智慧生物製藥研究支援事業】⑫：確立糖鏈·凝集素圖形辨識的癌症精密細胞識別平台，結合α射線內用療法提供全新治療方案](https://news.google.com/rss/articles/CBMid0FVX3lxTFBpM1NlcnBXWHo4RENCN1JHc182QlhhN0M1S291OC11NmU3MkVBWEVuRXptaDdVNmd3blQ1SmVaZkZZR2N3NXZ5cXFPMW9UcTA5VGhHUUpuVl9ONmRZeEhxaElKa0toVnVfRzZMNk82UVdULWk0SnFR?oc=5)
+
+2026-05-26 <span class="news-indication-tag">癌症</span>
+
+來源：[客观日本](https://news.google.com/rss/articles/CBMid0FVX3lxTFBpM1NlcnBXWHo4RENCN1JHc182QlhhN0M1S291OC11NmU3MkVBWEVuRXptaDdVNmd3blQ1SmVaZkZZR2N3NXZ5cXFPMW9UcTA5VGhHUUpuVl9ONmRZeEhxaElKa0toVnVfRzZMNk82UVdULWk0SnFR?oc=5)
+
+---
 
 ### [打破貓咪腫瘤神秘面紗！《科學》新研究揭開人、貓癌症基因驚人關聯](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zN0ZQSEJwUVZSR3E3bjB1d2NVN3E3Snd5TGdQYjlwSjJMX2g4MjVLUG44Wl9UZEM5NEw5bXd6ZlhxWDktaFVMbGNtRXM4Vm9UUi1tX3J0LWNYNUMwY3Iw?oc=5)
 
 2026-05-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
 來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zN0ZQSEJwUVZSR3E3bjB1d2NVN3E3Snd5TGdQYjlwSjJMX2g4MjVLUG44Wl9UZEM5NEw5bXd6ZlhxWDktaFVMbGNtRXM4Vm9UUi1tX3J0LWNYNUMwY3Iw?oc=5)
-
----
-
-### [健檢發現脂肪胰，放任恐變胰臟癌！張家銘醫師：不只是「油多」，4招幫胰臟減壓逆轉](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzdUpRaU43Y2h4N1A2Qzk4YnhJRFItWlVTb2V0Qk93d0VHck5jeEFmbFU5QllWWGxfTlBJY0VLaFpaSW1KajVRd1pieWlEajhnTmIyMFh3?oc=5)
-
-2026-05-25 <span class="news-indication-tag">癌症</span>
-
-來源：[50+全國最大熟齡媒體](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzdUpRaU43Y2h4N1A2Qzk4YnhJRFItWlVTb2V0Qk93d0VHck5jeEFmbFU5QllWWGxfTlBJY0VLaFpaSW1KajVRd1pieWlEajhnTmIyMFh3?oc=5)
-
----
-
-### [歐盟心臟報告示警：超加工食品大增心臟疾病風險](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1MN3V0Q2ZtN2dORHJqUUkxcHFBSEwwR3Nyck5QamFCR1gzZVdnZFV2YjhpY0VQcWFVMnc?oc=5)
-
-2026-05-24 <span class="news-indication-tag">心臟疾病</span>
-
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1MN3V0Q2ZtN2dORHJqUUkxcHFBSEwwR3Nyck5QamFCR1gzZVdnZFV2YjhpY0VQcWFVMnc?oc=5)
-
----
-
-### [不只是腫瘤測量指標！細胞實測揭醫界常用蛋白具防護機制 能阻斷癌變](https://news.google.com/rss/articles/CBMivgNBVV95cUxOWHdPdWduWDZYelNfSEVZTjlKZGZuQlNBNFhsTExMYTRfeGtmUGVRS3hGVUdGN1QyN1A0eUFFZHhWaG02enM5OWsxOE1TQlFyTUdnMFRMZk51eS1HdTl1WTFjeWtBM2hXUkZDOEkxTnlxVEViajMwQnpPMms5ejl5aUlBRlY1MS1XQXJoODRWZ3ROc1QxRHY0N0JibXMyUlk0aGNENFAyUVFvay1GSnVpbjdDbEItRERpbmZodzd6eTFZMERqZHh5Xy01Ql9aLV9QRDZEUmtIcUVIM01UX1J6SDl0N0RncVNiS21Xak9hUzYwc0t1em40YmdpUWdzbHNBcElabXlfZEdBa215N3RUQlRpY2FUc1VDVTFyXy01RXpoVm5mc3BNdWlUMmg1QVNROFRhckhpMjRzdzEydU1Wc0hLam94VmVpNkN4QVRLZUR0ajJUMGtNUUlpQmtkVW5tX2hQWHZrOTlCbm5OdFQ4LVdWUjFXU0FmTlhDVDRoY1QyaGFwNkRqZTZfdFZRdTNRc0ZqdDdNSHFicWdnNkhkYVFPcktHZ3E5ZVJmTkd6UTJHUmdINU52M1hCdm1xdw?oc=5)
-
-2026-05-24 <span class="news-indication-tag">腫瘤</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMivgNBVV95cUxOWHdPdWduWDZYelNfSEVZTjlKZGZuQlNBNFhsTExMYTRfeGtmUGVRS3hGVUdGN1QyN1A0eUFFZHhWaG02enM5OWsxOE1TQlFyTUdnMFRMZk51eS1HdTl1WTFjeWtBM2hXUkZDOEkxTnlxVEViajMwQnpPMms5ejl5aUlBRlY1MS1XQXJoODRWZ3ROc1QxRHY0N0JibXMyUlk0aGNENFAyUVFvay1GSnVpbjdDbEItRERpbmZodzd6eTFZMERqZHh5Xy01Ql9aLV9QRDZEUmtIcUVIM01UX1J6SDl0N0RncVNiS21Xak9hUzYwc0t1em40YmdpUWdzbHNBcElabXlfZEdBa215N3RUQlRpY2FUc1VDVTFyXy01RXpoVm5mc3BNdWlUMmg1QVNROFRhckhpMjRzdzEydU1Wc0hLam94VmVpNkN4QVRLZUR0ajJUMGtNUUlpQmtkVW5tX2hQWHZrOTlCbm5OdFQ4LVdWUjFXU0FmTlhDVDRoY1QyaGFwNkRqZTZfdFZRdTNRc0ZqdDdNSHFicWdnNkhkYVFPcktHZ3E5ZVJmTkd6UTJHUmdINU52M1hCdm1xdw?oc=5)
 
 ---
 
