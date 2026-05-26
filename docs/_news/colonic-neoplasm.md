@@ -3,7 +3,7 @@ layout: default
 title: "大腸癌（colonic neoplasm） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/colonic-neoplasm/
 ---
 
 <p class="key-answer" data-question="大腸癌（colonic neoplasm） 有什麼相關新聞？">
-<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,15 +29,7 @@ permalink: /news/colonic-neoplasm/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [大腸癌年輕化不是沒原因 專家點名6種護腸食物與4大關鍵習慣](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9odndka0hpNm8tYnpPYjJ4UTJMUGo0clZVSmd0V0VuaXhpRkVpZEs5TjNUcjFiMmpLY2RjeU1HM2VhRkYyNEhrMVh0dlRnY0lheS1keFlQUDBjSm1l0gFiQVVfeXFMTllsMXloa1RJS3M4VzlCM0Myb2tfODZTNnU3Y3JwUXc4eHZGX2xicmo1STQ1QnE0am54OGs5M1FfWU5zeU1VOENsZDNocEx5LUNadF8zQ1dDSGQyWVV3X1RmWnc?oc=5)
-
-2026-05-25
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9odndka0hpNm8tYnpPYjJ4UTJMUGo0clZVSmd0V0VuaXhpRkVpZEs5TjNUcjFiMmpLY2RjeU1HM2VhRkYyNEhrMVh0dlRnY0lheS1keFlQUDBjSm1l0gFiQVVfeXFMTllsMXloa1RJS3M4VzlCM0Myb2tfODZTNnU3Y3JwUXc4eHZGX2xicmo1STQ1QnE0am54OGs5M1FfWU5zeU1VOENsZDNocEx5LUNadF8zQ1dDSGQyWVV3X1RmWnc?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [大腸癌末期「改變心態」！癌細胞奇蹟消失 9年沒復發 | TVBS - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QanhSUnM1MmFUUWlsR2E3M1FGQnZtcUx1VTdGNFFaak50NmM3UXVVaTBINHgwM0JsSGY0R2NPa0s1VDk2anoyWVFjRDF5MG9SaUY4RUl3?oc=5)
 

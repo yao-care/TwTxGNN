@@ -1,7 +1,31 @@
 {
-  "generated": "2026-05-25T23:57:24.851129+00:00",
-  "count": 12,
+  "generated": "2026-05-26T02:54:04.139052+00:00",
+  "count": 11,
   "news": [
+    {
+      "id": "e8456cfa2bf4",
+      "title": "心肌梗塞不只傷心還傷腦 研究揭示引發情緒認知障礙 - GeneOnline News",
+      "published": "2026-05-26T02:06:02+00:00",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPbS1OcEFPbGtxbDctNVNhSloxMWgwVUFsdXE0SXoxZjg1ZjNtT2t5QVdVWEFOM1hySG8yeFhsbmFidkNYUkxrb08xWktMUlV3cjZqSXdjVEtSajNQamR0NHZwNDFyMU10anVTd0lYYzY5aHNwWGZIbDBqcXRkYTJsQ1hTUzRoaHNNMEdCbDdBM0NvTlc3NXo1MWJKdENBWGlRdG1KY2ZmWFhxVDV2dDQwcFVlQjFFcHB6LTZNaWZLcVJ1OUNvV2F4MzdKWVJuOTNVVC1hVjdtal8yMmw1R2I5NE56VS12UDd6ak12YXJsTzZqNm8xdlpXRVBySWRVMTFyQmc4Nk1XTHdYMnBZZ0MtTjZIVmRpRnJtNnBOU1NsdTQyYjA2NmxhNmExTl9uMjJLdkZzTDZlN1pWRksyeDdQdllJWTI4NnM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心肌梗塞",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "3e64082a2a99",
       "title": "打破貓咪腫瘤神秘面紗！《科學》新研究揭開人、貓癌症基因驚人關聯",
@@ -448,53 +472,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "00ff8d40174d",
-      "title": "大腸癌年輕化不是沒原因 專家點名6種護腸食物與4大關鍵習慣",
-      "published": "2026-05-25T08:39:38+00:00",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9odndka0hpNm8tYnpPYjJ4UTJMUGo0clZVSmd0V0VuaXhpRkVpZEs5TjNUcjFiMmpLY2RjeU1HM2VhRkYyNEhrMVh0dlRnY0lheS1keFlQUDBjSm1l0gFiQVVfeXFMTllsMXloa1RJS3M4VzlCM0Myb2tfODZTNnU3Y3JwUXc4eHZGX2xicmo1STQ1QnE0am54OGs5M1FfWU5zeU1VOENsZDNocEx5LUNadF8zQ1dDSGQyWVV3X1RmWnc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
@@ -1117,30 +1094,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0484610b120b",
-      "title": "沒打沒事，打流感疫苗反而感冒？醫證實：「1種人」反應最大",
-      "published": "2026-05-24T00:02:04+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPMVZLRDdhOHk5Q2swTk9CM0NFTW1Mbkh5amRjTWxDUzFSOEdER0VUZnJ1bjBoNjg2cnp6QW5QMUswaFpzWC1hV1lndGgydXBpR1Z5MjhfWWpTNloxTWJ2NEZZUnpVSjJsYk95eEp5eU1mYzcyemhia05hQ1RyNVNzYnoyM3JSSU90YzJCMmNWZXJaaFBPeS01RXg4WU1ZdEd4aDF0NHR3bndnaVotdFRaMUFtYkJRQWNGMGN0VkJ3QjViZ1I5Ml91cVVrdWRnY1cxMm1aMEpSa2dIZVEzVkNoTWJWTS1obU04cmR3ZHpLSlFjZGFfdUpWZHFWRXJJaUZfcHJmd2JpaWNrMGJrbVQxc0ticmlGQTYwOFl5Y0hIZ21rQUdTVVVUMGJXUXZjMVIzejF0a0huYjBZdlVKelBrbjVKZGlRdlpvdnprcElrLVlaQTUtLTlyeGU2TUZxYjVMNlE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
