@@ -29,7 +29,7 @@ permalink: /news/clobetasone/
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>primary cutaneous T-cell lymphoma（100.0%）</li>
 <li>Sezary syndrome（99.8%）</li>
-<li class="indication-matched">primary cutaneous B-cell lymphoma（99.8%）<span class="indication-tag">📰 淋巴癌</span></li>
+<li>primary cutaneous B-cell lymphoma（99.8%）</li>
 <li>granulomatous slack skin disease（99.7%）</li>
 <li>Crohn's colitis（99.7%）</li>
 <li>adrenocortical insufficiency（99.7%）</li>
@@ -60,19 +60,19 @@ permalink: /news/clobetasone/
 
 ---
 
-### [貓咪癌症基因密碼解鎖 揭示人類治療新希望](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNYVBDS2xKX19iSTJZTWZxUkpXU2ZxM1h4eGJibV8yb0ZFOHBKSnBaYU9GYXhRV2NlVmsxMWZSUXp4LWtEV2tOQ0pQaDd2VThJQS1FcUdnRHFlV0tBUmFLekZzX0RqMEtjellvMW9ZNEVzcTJyU0huUURJUzV2Y2RQSDdHdnEyMU9nUHdwNzNxYlh3NnhMRV9UX0EzbzdpWWw5Tmg4ZUhwUGYzX1M4Q1lZekh4dXJxYXhLZ0dOQUJPNDRBUl9GcUhFeTBPaWsxRXM0a1REUnlNdkwzNDVRMlQ0S0hTV1Ywd18wMkdOcDRDVmZuVmtPbDlOT2tBcTlhZUctZ0dVYUF4Vl91UkpQOC1aNlFwaFl0bVA1MUwxaWRBYjJ0THctSDQ1Rg?oc=5)
+### [貓咪癌症基因密碼解鎖 揭示人類治療新希望](https://news.google.com/rss/articles/CBMiOkFVX3lxTE5UeUVHV2hNM3NIRV9yamx3RGlST3drUXZHSVlwQTBCdmxlUXoxWnZmNnpzckRkel96cEE?oc=5)
 
 2026-05-25 <span class="news-indication-tag">癌症</span>
 
-來源：[yesmedia.com.tw](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNYVBDS2xKX19iSTJZTWZxUkpXU2ZxM1h4eGJibV8yb0ZFOHBKSnBaYU9GYXhRV2NlVmsxMWZSUXp4LWtEV2tOQ0pQaDd2VThJQS1FcUdnRHFlV0tBUmFLekZzX0RqMEtjellvMW9ZNEVzcTJyU0huUURJUzV2Y2RQSDdHdnEyMU9nUHdwNzNxYlh3NnhMRV9UX0EzbzdpWWw5Tmg4ZUhwUGYzX1M4Q1lZekh4dXJxYXhLZ0dOQUJPNDRBUl9GcUhFeTBPaWsxRXM0a1REUnlNdkwzNDVRMlQ0S0hTV1Ywd18wMkdOcDRDVmZuVmtPbDlOT2tBcTlhZUctZ0dVYUF4Vl91UkpQOC1aNlFwaFl0bVA1MUwxaWRBYjJ0THctSDQ1Rg?oc=5)
+來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE5UeUVHV2hNM3NIRV9yamx3RGlST3drUXZHSVlwQTBCdmxlUXoxWnZmNnpzckRkel96cEE?oc=5)
 
 ---
 
-### [24歲確診淋巴癌，他熬過復發又陪母親抗癌！心理師4次與癌同行：家屬不必時刻堅強，你也有脆弱權利](https://news.google.com/rss/articles/CBMie0FVX3lxTFBpVXJ2UnBfeDYwd1ozd0w0MENqUF9DZ0RnNWFWcDd3UGxIdlp6UXdmQTdpb3RiZGxpbFhFSWpiZHA1N25hMWhvcEdmSUVxMUZnNkhoU2NfLWFnRWNPR2V2WmNlMW9YWHFZLVpKSmlKQkxRcUVFMVBma0pGNA?oc=5)
+### [研究：維生素B12化合物或有助抑制腦癌 開發針對癌症新策略](https://news.google.com/rss/articles/CBMiZEFVX3lxTE80ZG1sOFZvUHRER2llLURUMDhyeGRPc1FGN28xUkZKdDNGRWJMTldDRk9yVmhQU1d4WWljM2w0X3ZzSlUxU25Ndl9XbG0yY1dtRy1tU2hnVWh4Mkx1WVAwb2tOYULSAWpBVV95cUxOSS1Yc29VWlFUZ0FNMV85Mlh4NUhCRlUyWWZmdlREbUJ4My1HRUx5WXVsNXhsaWo5UGlfZHlnVldTTWlWUU1BOGM0NG9Ba2c5UEdSelZMUTlRWnMyQnNGNjdRUTlJOU4tR09n?oc=5)
 
-2026-05-25 <span class="news-indication-tag">淋巴癌</span>
+2026-05-25 <span class="news-indication-tag">癌症</span>
 
-來源：[幸福熟齡](https://news.google.com/rss/articles/CBMie0FVX3lxTFBpVXJ2UnBfeDYwd1ozd0w0MENqUF9DZ0RnNWFWcDd3UGxIdlp6UXdmQTdpb3RiZGxpbFhFSWpiZHA1N25hMWhvcEdmSUVxMUZnNkhoU2NfLWFnRWNPR2V2WmNlMW9YWHFZLVpKSmlKQkxRcUVFMVBma0pGNA?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE80ZG1sOFZvUHRER2llLURUMDhyeGRPc1FGN28xUkZKdDNGRWJMTldDRk9yVmhQU1d4WWljM2w0X3ZzSlUxU25Ndl9XbG0yY1dtRy1tU2hnVWh4Mkx1WVAwb2tOYULSAWpBVV95cUxOSS1Yc29VWlFUZ0FNMV85Mlh4NUhCRlUyWWZmdlREbUJ4My1HRUx5WXVsNXhsaWo5UGlfZHlnVldTTWlWUU1BOGM0NG9Ba2c5UEdSelZMUTlRWnMyQnNGNjdRUTlJOU4tR09n?oc=5)
 
 ---
 

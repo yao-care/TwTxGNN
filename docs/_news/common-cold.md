@@ -31,11 +31,11 @@ permalink: /news/common-cold/
 
 ## 相關新聞（1 則）
 
-### [感冒光吃藥可不夠！營養師揭：還要補充這些「營養素」、做到「4件事」](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MbFNGdmhoOGNQMXpPSi11TWE3THRVamJubUNwNklBTmJIRTNRMXoyNldUZFhjajRqQXBSUFpWN2ZYLUNtQjhNNTBpa1hPUGNXNi1wZXFleWI?oc=5)
+### [夏天猛補水「少做1事」仍中暑 醫揭5大正確喝水法：別等到口渴才喝](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tOFBhSUczUXltYlEyeFlRU1Y2c1hQc1FqY3lVUktYdFNXRjQyWWpja3ZFdXpxRHNKSG1NZE11N1VvMEtvajJzZkFQSHRpZDZEOUg5bHRRc3BQd0lYd3ZyX2VhMU1WenpnSjNxNHN3?oc=5)
 
-2026-05-26
+2026-05-27
 
-來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MbFNGdmhoOGNQMXpPSi11TWE3THRVamJubUNwNklBTmJIRTNRMXoyNldUZFhjajRqQXBSUFpWN2ZYLUNtQjhNNTBpa1hPUGNXNi1wZXFleWI?oc=5)
+來源：[祝你健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tOFBhSUczUXltYlEyeFlRU1Y2c1hQc1FqY3lVUktYdFNXRjQyWWpja3ZFdXpxRHNKSG1NZE11N1VvMEtvajJzZkFQSHRpZDZEOUg5bHRRc3BQd0lYd3ZyX2VhMU1WenpnSjNxNHN3?oc=5)
 
 ---
 

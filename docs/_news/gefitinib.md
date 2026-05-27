@@ -51,14 +51,6 @@ permalink: /news/gefitinib/
 
 ---
 
-### [不是忘東忘西！研究揭阿茲海默早期症狀 先從「聞不到」開始 | TVBS - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Tcm8tMlpZQlRnRTVMOFFrUUxwUl9DenVkZEVCX3NjSWRyRGlaOGlwV19vdmYzRDVueDRINjQxeXZqZXZkc2JiVW9VTHhxVFZETmlycFdB?oc=5)
-
-2026-05-26 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Tcm8tMlpZQlRnRTVMOFFrUUxwUl9DenVkZEVCX3NjSWRyRGlaOGlwV19vdmYzRDVueDRINjQxeXZqZXZkc2JiVW9VTHhxVFZETmlycFdB?oc=5)
-
----
-
 ### [失智風險「女比男高近2倍」！醫：更年期後風險大增](https://news.google.com/rss/articles/CBMivAJBVV95cUxOZC1kZVN1V3lLTnJVdnh0NU5kbVVRU2duZ1pJUWRtQUxpYkk4NGtTUzBCOHhXRjA1WV9teC02RUx6aHE2NTA1MDhPdUtValFIelRSZmt4V3BQWkRRTThld19IU0lXaDNFcFlmZjdsc0tnTzRldWNXb1VPcGxpQnIwbl9MVHNObDg5UUtMZkFxdGFHNXlvSDA4THZWU0RBanBSeHpqMFVYWk04XzZnTmJCZXhiYXpZT0hHZnVRb2VaaWZwbGI2cFZuMjN5RU9OdURYdDhLLTdlRGo5T3lQNzlvRGZVSFdrdFpOT0xXb0lpOGlIeEcxUlBfdlFZU0ozT1BRYlNnUUY2dUhfdlRfbVY4NjRKZGZsZ1p1ODdLVV9xZjlIODRKUWlWejlLNVpMSmhhaV9VN0Ixc3hDLTNU?oc=5)
 
 2026-05-26 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
@@ -67,11 +59,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [45%失智可預防或延緩！專家曝「3超級食物」能保護大腦](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JQ09xU3BWZ3BpUHptb0pIbUp5cjhKZGdIc3lvYlpKU0lleW0zRnpQcUtyYW1xUnktZ09ocFBnX2tGbW8tbG8yRlgyMlM?oc=5)
+### [台灣每日48人確診失智！「麥得飲食」可降53％風險](https://news.google.com/rss/articles/CBMiqAJBVV95cUxOWVllVnFORnpwUUdlZVFZemI1X0hxUnR5YnE5d1Vtc0lrRDNsa0FjNWlFQmJDT0wxNmltUmtyYWoySEN4cnVDV0N2UVZ3VnRXVGlMYk9EaERNTk5PVWJMSko5eHF3bE1LamNEZGI1RkZqaGU5czBBWGtJVTlUVjlUSnJ3dEM5eHVNY2xHOElOX1FQUkJXdnV1dTYxSnZfdkVsaGFBTGVmbEpEclhXd1RHM0xqejEtZmdMajhtb3h2d0ltX2xObTExM25GcTZpX2NiamhyZDRpMExSMVJMX1VhcFh1NGM5bEpFcjRQc2hlX1kzOTVZQkhaWWlBa0VIckRXeEs5UG55d214WEt4X2hpZzlyQmdHOFFjZEZlQk0waGtzMEdwNGZKVg?oc=5)
 
 2026-05-26 <span class="news-indication-tag">失智</span>
 
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JQ09xU3BWZ3BpUHptb0pIbUp5cjhKZGdIc3lvYlpKU0lleW0zRnpQcUtyYW1xUnktZ09ocFBnX2tGbW8tbG8yRlgyMlM?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiqAJBVV95cUxOWVllVnFORnpwUUdlZVFZemI1X0hxUnR5YnE5d1Vtc0lrRDNsa0FjNWlFQmJDT0wxNmltUmtyYWoySEN4cnVDV0N2UVZ3VnRXVGlMYk9EaERNTk5PVWJMSko5eHF3bE1LamNEZGI1RkZqaGU5czBBWGtJVTlUVjlUSnJ3dEM5eHVNY2xHOElOX1FQUkJXdnV1dTYxSnZfdkVsaGFBTGVmbEpEclhXd1RHM0xqejEtZmdMajhtb3h2d0ltX2xObTExM25GcTZpX2NiamhyZDRpMExSMVJMX1VhcFh1NGM5bEpFcjRQc2hlX1kzOTVZQkhaWWlBa0VIckRXeEs5UG55d214WEt4X2hpZzlyQmdHOFFjZEZlQk0waGtzMEdwNGZKVg?oc=5)
 
 ---
 
@@ -83,19 +75,27 @@ permalink: /news/gefitinib/
 
 ---
 
-### [貓咪癌症基因密碼解鎖 揭示人類治療新希望](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNYVBDS2xKX19iSTJZTWZxUkpXU2ZxM1h4eGJibV8yb0ZFOHBKSnBaYU9GYXhRV2NlVmsxMWZSUXp4LWtEV2tOQ0pQaDd2VThJQS1FcUdnRHFlV0tBUmFLekZzX0RqMEtjellvMW9ZNEVzcTJyU0huUURJUzV2Y2RQSDdHdnEyMU9nUHdwNzNxYlh3NnhMRV9UX0EzbzdpWWw5Tmg4ZUhwUGYzX1M4Q1lZekh4dXJxYXhLZ0dOQUJPNDRBUl9GcUhFeTBPaWsxRXM0a1REUnlNdkwzNDVRMlQ0S0hTV1Ywd18wMkdOcDRDVmZuVmtPbDlOT2tBcTlhZUctZ0dVYUF4Vl91UkpQOC1aNlFwaFl0bVA1MUwxaWRBYjJ0THctSDQ1Rg?oc=5)
+### [久坐能防失智？最新研究揭密：長者「動腦型久坐」預防失智症上身](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PU0l4NEYzZFVRdFViUi1WWDV4YUR0eVhlMXVzX2NEVExNSUxsSWdoY0lYamxSSzFkQk1BREhwaURoYzJWQ2VYNkJWNlRFZmhSR3VF?oc=5)
 
-2026-05-25 <span class="news-indication-tag">癌症</span>
+2026-05-26 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[yesmedia.com.tw](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNYVBDS2xKX19iSTJZTWZxUkpXU2ZxM1h4eGJibV8yb0ZFOHBKSnBaYU9GYXhRV2NlVmsxMWZSUXp4LWtEV2tOQ0pQaDd2VThJQS1FcUdnRHFlV0tBUmFLekZzX0RqMEtjellvMW9ZNEVzcTJyU0huUURJUzV2Y2RQSDdHdnEyMU9nUHdwNzNxYlh3NnhMRV9UX0EzbzdpWWw5Tmg4ZUhwUGYzX1M4Q1lZekh4dXJxYXhLZ0dOQUJPNDRBUl9GcUhFeTBPaWsxRXM0a1REUnlNdkwzNDVRMlQ0S0hTV1Ywd18wMkdOcDRDVmZuVmtPbDlOT2tBcTlhZUctZ0dVYUF4Vl91UkpQOC1aNlFwaFl0bVA1MUwxaWRBYjJ0THctSDQ1Rg?oc=5)
+來源：[優活健康網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PU0l4NEYzZFVRdFViUi1WWDV4YUR0eVhlMXVzX2NEVExNSUxsSWdoY0lYamxSSzFkQk1BREhwaURoYzJWQ2VYNkJWNlRFZmhSR3VF?oc=5)
 
 ---
 
-### [吃起司降失智症風險！瑞典研究：每日只要吃2片，失智風險降低13%](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9walc5YUh6Rl9rR0RwcDdRY0k5WXlZbzNCdzBNZzJkc1hnNU9KU082RE5BZnB3UUk1dlFKMEZ2Yk00Njhackl0d0RKTTR3VWd3Sjdz?oc=5)
+### [貓咪癌症基因密碼解鎖 揭示人類治療新希望](https://news.google.com/rss/articles/CBMiOkFVX3lxTE5UeUVHV2hNM3NIRV9yamx3RGlST3drUXZHSVlwQTBCdmxlUXoxWnZmNnpzckRkel96cEE?oc=5)
 
-2026-05-25 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+2026-05-25 <span class="news-indication-tag">癌症</span>
 
-來源：[優活健康網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9walc5YUh6Rl9rR0RwcDdRY0k5WXlZbzNCdzBNZzJkc1hnNU9KU082RE5BZnB3UUk1dlFKMEZ2Yk00Njhackl0d0RKTTR3VWd3Sjdz?oc=5)
+來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE5UeUVHV2hNM3NIRV9yamx3RGlST3drUXZHSVlwQTBCdmxlUXoxWnZmNnpzckRkel96cEE?oc=5)
+
+---
+
+### [研究：維生素B12化合物或有助抑制腦癌 開發針對癌症新策略](https://news.google.com/rss/articles/CBMiZEFVX3lxTE80ZG1sOFZvUHRER2llLURUMDhyeGRPc1FGN28xUkZKdDNGRWJMTldDRk9yVmhQU1d4WWljM2w0X3ZzSlUxU25Ndl9XbG0yY1dtRy1tU2hnVWh4Mkx1WVAwb2tOYULSAWpBVV95cUxOSS1Yc29VWlFUZ0FNMV85Mlh4NUhCRlUyWWZmdlREbUJ4My1HRUx5WXVsNXhsaWo5UGlfZHlnVldTTWlWUU1BOGM0NG9Ba2c5UEdSelZMUTlRWnMyQnNGNjdRUTlJOU4tR09n?oc=5)
+
+2026-05-25 <span class="news-indication-tag">癌症</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE80ZG1sOFZvUHRER2llLURUMDhyeGRPc1FGN28xUkZKdDNGRWJMTldDRk9yVmhQU1d4WWljM2w0X3ZzSlUxU25Ndl9XbG0yY1dtRy1tU2hnVWh4Mkx1WVAwb2tOYULSAWpBVV95cUxOSS1Yc29VWlFUZ0FNMV85Mlh4NUhCRlUyWWZmdlREbUJ4My1HRUx5WXVsNXhsaWo5UGlfZHlnVldTTWlWUU1BOGM0NG9Ba2c5UEdSelZMUTlRWnMyQnNGNjdRUTlJOU4tR09n?oc=5)
 
 ---
 
