@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [子宮頸癌防治懶人包：HPV病毒、抹片檢查、疫苗保護力一次懂](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNbmVhRHlvVkNnRFRSX01INWhHYWVpeURJc0wwT083ZHpJZmF5MUVyaG9oZTg2UHlhRGlXVDdDdjdwUHhjWUN0YThHVEFUZUFJbl9MX280U0Z0VnNpY3RqR3lEb1k0YzA2UndvRy15OFJWejMxX3NtY2VOYzY0cnhaRDlMQ0NDZ19jVktVQTFPc0g0R2hiZ3V2N0lxOXBuWWhMNWN4OVRqeU1aN0k2TG80a0hyeVFJcG1lWGZDdGdxZDF0UEJvaHFyN3ItZmtlLURIN1pkNkFqQm5FZUlvSTRFRHFvanZwRzFjM0hjellpeFNOOXJUU0xmUzBzNWlmUWpOTS1rYjN6T0h3MC1yc3dEelMta3Q1YVBzUEFhUXZ6ZnNlaXJQTTVFOFlGZVlWUm5PenFhNkgtc1RQN3NaZHVYdC1sZmdzTlp6SWdpVEFXeDA3TUMyNGVOMnZkREJ2YTc4U1hiUg?oc=5)
+### [研究：某種「久坐方式」恐比其他坐法更易增失智風險- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTE9PNkYzVFJnSUZ2WllXT3JfcnZvRmllblptYklobTd3VWZ3VGtBVGRrS1I1VWZySDRYall1MXRBOFB2UnRreVloRmF6LXpnRlpxb05hSDhSejVDbGR5Nm1BQk15Z3dJNDROZzJFOVFB?oc=5)
 
-2026-05-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+2026-05-27 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNbmVhRHlvVkNnRFRSX01INWhHYWVpeURJc0wwT083ZHpJZmF5MUVyaG9oZTg2UHlhRGlXVDdDdjdwUHhjWUN0YThHVEFUZUFJbl9MX280U0Z0VnNpY3RqR3lEb1k0YzA2UndvRy15OFJWejMxX3NtY2VOYzY0cnhaRDlMQ0NDZ19jVktVQTFPc0g0R2hiZ3V2N0lxOXBuWWhMNWN4OVRqeU1aN0k2TG80a0hyeVFJcG1lWGZDdGdxZDF0UEJvaHFyN3ItZmtlLURIN1pkNkFqQm5FZUlvSTRFRHFvanZwRzFjM0hjellpeFNOOXJUU0xmUzBzNWlmUWpOTS1rYjN6T0h3MC1yc3dEelMta3Q1YVBzUEFhUXZ6ZnNlaXJQTTVFOFlGZVlWUm5PenFhNkgtc1RQN3NaZHVYdC1sZmdzTlp6SWdpVEFXeDA3TUMyNGVOMnZkREJ2YTc4U1hiUg?oc=5)
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE9PNkYzVFJnSUZ2WllXT3JfcnZvRmllblptYklobTd3VWZ3VGtBVGRrS1I1VWZySDRYall1MXRBOFB2UnRreVloRmF6LXpnRlpxb05hSDhSejVDbGR5Nm1BQk15Z3dJNDROZzJFOVFB?oc=5)
 
 ---
 
@@ -67,6 +67,14 @@ permalink: /news/gefitinib/
 
 ---
 
+### [失智症最早警訊恐非健忘 研究：很多人先開始聞不到味道](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzY2NXMTVaVFEyX2tjOV9ORUFEUlBoQi11TDJRN0hLYlFJeGVtdk56cy0wdTRYckRsQzBNeDh3dkxSU3l3b2txbVZiR1NtNVZETWZZV2tadFlCQnppdHk2Qmx5TG7SAWpBVV95cUxOdjl0dEpFc3FmUG9oUXdPWUZxbDUtcFJsMVlmR3FaUzB3Z1AwVDNhaFByTXc4VVo1WmdsTm43LW1GWkhCYXVmUV9MUzJpdWtSNEFCQkJpUEFvUmdua1FQeUk4LUVIa0JqMnhn?oc=5)
+
+2026-05-26 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzY2NXMTVaVFEyX2tjOV9ORUFEUlBoQi11TDJRN0hLYlFJeGVtdk56cy0wdTRYckRsQzBNeDh3dkxSU3l3b2txbVZiR1NtNVZETWZZV2tadFlCQnppdHk2Qmx5TG7SAWpBVV95cUxOdjl0dEpFc3FmUG9oUXdPWUZxbDUtcFJsMVlmR3FaUzB3Z1AwVDNhaFByTXc4VVo1WmdsTm43LW1GWkhCYXVmUV9MUzJpdWtSNEFCQkJpUEFvUmdua1FQeUk4LUVIa0JqMnhn?oc=5)
+
+---
+
 ### [【智慧生物製藥研究支援事業】⑫：確立糖鏈·凝集素圖形辨識的癌症精密細胞識別平台，結合α射線內用療法提供全新治療方案](https://news.google.com/rss/articles/CBMid0FVX3lxTFBpM1NlcnBXWHo4RENCN1JHc182QlhhN0M1S291OC11NmU3MkVBWEVuRXptaDdVNmd3blQ1SmVaZkZZR2N3NXZ5cXFPMW9UcTA5VGhHUUpuVl9ONmRZeEhxaElKa0toVnVfRzZMNk82UVdULWk0SnFR?oc=5)
 
 2026-05-26 <span class="news-indication-tag">癌症</span>
@@ -75,27 +83,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [久坐能防失智？最新研究揭密：長者「動腦型久坐」預防失智症上身](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PU0l4NEYzZFVRdFViUi1WWDV4YUR0eVhlMXVzX2NEVExNSUxsSWdoY0lYamxSSzFkQk1BREhwaURoYzJWQ2VYNkJWNlRFZmhSR3VF?oc=5)
-
-2026-05-26 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[優活健康網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PU0l4NEYzZFVRdFViUi1WWDV4YUR0eVhlMXVzX2NEVExNSUxsSWdoY0lYamxSSzFkQk1BREhwaURoYzJWQ2VYNkJWNlRFZmhSR3VF?oc=5)
-
----
-
 ### [貓咪癌症基因密碼解鎖 揭示人類治療新希望](https://news.google.com/rss/articles/CBMiOkFVX3lxTE5UeUVHV2hNM3NIRV9yamx3RGlST3drUXZHSVlwQTBCdmxlUXoxWnZmNnpzckRkel96cEE?oc=5)
 
 2026-05-25 <span class="news-indication-tag">癌症</span>
 
 來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE5UeUVHV2hNM3NIRV9yamx3RGlST3drUXZHSVlwQTBCdmxlUXoxWnZmNnpzckRkel96cEE?oc=5)
-
----
-
-### [研究：維生素B12化合物或有助抑制腦癌 開發針對癌症新策略](https://news.google.com/rss/articles/CBMiZEFVX3lxTE80ZG1sOFZvUHRER2llLURUMDhyeGRPc1FGN28xUkZKdDNGRWJMTldDRk9yVmhQU1d4WWljM2w0X3ZzSlUxU25Ndl9XbG0yY1dtRy1tU2hnVWh4Mkx1WVAwb2tOYULSAWpBVV95cUxOSS1Yc29VWlFUZ0FNMV85Mlh4NUhCRlUyWWZmdlREbUJ4My1HRUx5WXVsNXhsaWo5UGlfZHlnVldTTWlWUU1BOGM0NG9Ba2c5UEdSelZMUTlRWnMyQnNGNjdRUTlJOU4tR09n?oc=5)
-
-2026-05-25 <span class="news-indication-tag">癌症</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE80ZG1sOFZvUHRER2llLURUMDhyeGRPc1FGN28xUkZKdDNGRWJMTldDRk9yVmhQU1d4WWljM2w0X3ZzSlUxU25Ndl9XbG0yY1dtRy1tU2hnVWh4Mkx1WVAwb2tOYULSAWpBVV95cUxOSS1Yc29VWlFUZ0FNMV85Mlh4NUhCRlUyWWZmdlREbUJ4My1HRUx5WXVsNXhsaWo5UGlfZHlnVldTTWlWUU1BOGM0NG9Ba2c5UEdSelZMUTlRWnMyQnNGNjdRUTlJOU4tR09n?oc=5)
 
 ---
 

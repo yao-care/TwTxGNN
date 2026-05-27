@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [心臟健康｜蛋白質怎吃最好？美國心臟協會：首選植物蛋白護心血管](https://news.google.com/rss/articles/CBMipgNBVV95cUxNZ1d1UjdzY3k0dEQ4UnlFbU5yY2E3V0R1M2FpQ2g5VHBhOEhhSTNaZFU3WFJ2VGN6akZKX3pjWEtVN3l1QUdDYk5YV0dUSENnQkRGQldHSE0yYjhwanNYTlMtWkt5N1Zhdm1mMzhaalA1ZXZaZndrc2Z3SkNTVHFHY3JyN0xOM0JsQ29FZXdaRDZSLW9iUmFGekZVWjZfQlN4WFZaZlRmTVZrZlBHMVJld1pZeGtUTVNlVmpyWXFLZkVWSWdGRHl6OXBwSzZZNlREVFJvVDdtMGtNRVgtbGxwa2g4UXk1Y09falhmTUpmSjhUWnBYX25WM01uRkIwcThCa3U2ZHRoS3piakd4OFp2M2RZWVMzcUVTaUFDSURNN19aaW5HYmNrbDdoWWFMc2paUGwwaFdTNk85YTdmUnBsYnpmMGYtOG5RTG1MUUhOeW81NDBZNHdjV0p5YmdrTTFWc0pmeTBWZ0FJaE1tRDhHTkE0NUgxbFFGbEFJQzUwNkVrSGkxLWsyN19mQjAtYVRKNWt2eWs5YUZ2dTh3WG9NRzdzOU9MQQ?oc=5)
-
-2026-05-25 <span class="news-indication-tag">心血管</span>
-
-來源：[香港01](https://news.google.com/rss/articles/CBMipgNBVV95cUxNZ1d1UjdzY3k0dEQ4UnlFbU5yY2E3V0R1M2FpQ2g5VHBhOEhhSTNaZFU3WFJ2VGN6akZKX3pjWEtVN3l1QUdDYk5YV0dUSENnQkRGQldHSE0yYjhwanNYTlMtWkt5N1Zhdm1mMzhaalA1ZXZaZndrc2Z3SkNTVHFHY3JyN0xOM0JsQ29FZXdaRDZSLW9iUmFGekZVWjZfQlN4WFZaZlRmTVZrZlBHMVJld1pZeGtUTVNlVmpyWXFLZkVWSWdGRHl6OXBwSzZZNlREVFJvVDdtMGtNRVgtbGxwa2g4UXk1Y09falhmTUpmSjhUWnBYX25WM01uRkIwcThCa3U2ZHRoS3piakd4OFp2M2RZWVMzcUVTaUFDSURNN19aaW5HYmNrbDdoWWFMc2paUGwwaFdTNk85YTdmUnBsYnpmMGYtOG5RTG1MUUhOeW81NDBZNHdjV0p5YmdrTTFWc0pmeTBWZ0FJaE1tRDhHTkE0NUgxbFFGbEFJQzUwNkVrSGkxLWsyN19mQjAtYVRKNWt2eWs5YUZ2dTh3WG9NRzdzOU9MQQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

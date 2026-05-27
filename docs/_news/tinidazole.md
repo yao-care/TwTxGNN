@@ -14,7 +14,7 @@ permalink: /news/tinidazole/
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/tinidazole/
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [子宮頸癌防治懶人包：HPV病毒、抹片檢查、疫苗保護力一次懂](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNbmVhRHlvVkNnRFRSX01INWhHYWVpeURJc0wwT083ZHpJZmF5MUVyaG9oZTg2UHlhRGlXVDdDdjdwUHhjWUN0YThHVEFUZUFJbl9MX280U0Z0VnNpY3RqR3lEb1k0YzA2UndvRy15OFJWejMxX3NtY2VOYzY0cnhaRDlMQ0NDZ19jVktVQTFPc0g0R2hiZ3V2N0lxOXBuWWhMNWN4OVRqeU1aN0k2TG80a0hyeVFJcG1lWGZDdGdxZDF0UEJvaHFyN3ItZmtlLURIN1pkNkFqQm5FZUlvSTRFRHFvanZwRzFjM0hjellpeFNOOXJUU0xmUzBzNWlmUWpOTS1rYjN6T0h3MC1yc3dEelMta3Q1YVBzUEFhUXZ6ZnNlaXJQTTVFOFlGZVlWUm5PenFhNkgtc1RQN3NaZHVYdC1sZmdzTlp6SWdpVEFXeDA3TUMyNGVOMnZkREJ2YTc4U1hiUg?oc=5)
+### [45歲後身材失控不是妳的錯！營養師揭4關鍵：吃越少內臟脂肪囤越多！ | 漂亮 | CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTE85QnlEaHhFOVFPMTVRTHVGTmxPUDNtb3BvbTQ1ZjZNZ1IxYXlwaE9QbVg2elNuQ3FqMU04S1lWWnV2ZGd1MXVDM0R5U213aU3SAVRBVV95cUxOMExmMW5TMmt3em0yT2U1aE9JYlpQTDBzckhCaWhtNTI0XzhneW1vc25vVjVTcGNGVjhvOVVJU0dURnBnaGxqZjZBWU92M045MkctUGo?oc=5)
 
-2026-05-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+2026-05-27 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">更年期</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNbmVhRHlvVkNnRFRSX01INWhHYWVpeURJc0wwT083ZHpJZmF5MUVyaG9oZTg2UHlhRGlXVDdDdjdwUHhjWUN0YThHVEFUZUFJbl9MX280U0Z0VnNpY3RqR3lEb1k0YzA2UndvRy15OFJWejMxX3NtY2VOYzY0cnhaRDlMQ0NDZ19jVktVQTFPc0g0R2hiZ3V2N0lxOXBuWWhMNWN4OVRqeU1aN0k2TG80a0hyeVFJcG1lWGZDdGdxZDF0UEJvaHFyN3ItZmtlLURIN1pkNkFqQm5FZUlvSTRFRHFvanZwRzFjM0hjellpeFNOOXJUU0xmUzBzNWlmUWpOTS1rYjN6T0h3MC1yc3dEelMta3Q1YVBzUEFhUXZ6ZnNlaXJQTTVFOFlGZVlWUm5PenFhNkgtc1RQN3NaZHVYdC1sZmdzTlp6SWdpVEFXeDA3TUMyNGVOMnZkREJ2YTc4U1hiUg?oc=5)
+來源：[CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTE85QnlEaHhFOVFPMTVRTHVGTmxPUDNtb3BvbTQ1ZjZNZ1IxYXlwaE9QbVg2elNuQ3FqMU04S1lWWnV2ZGd1MXVDM0R5U213aU3SAVRBVV95cUxOMExmMW5TMmt3em0yT2U1aE9JYlpQTDBzckhCaWhtNTI0XzhneW1vc25vVjVTcGNGVjhvOVVJU0dURnBnaGxqZjZBWU92M045MkctUGo?oc=5)
 
 ---
 
@@ -73,14 +73,6 @@ permalink: /news/tinidazole/
 2026-05-25 <span class="news-indication-tag">癌症</span>
 
 來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE5UeUVHV2hNM3NIRV9yamx3RGlST3drUXZHSVlwQTBCdmxlUXoxWnZmNnpzckRkel96cEE?oc=5)
-
----
-
-### [研究：維生素B12化合物或有助抑制腦癌 開發針對癌症新策略](https://news.google.com/rss/articles/CBMiZEFVX3lxTE80ZG1sOFZvUHRER2llLURUMDhyeGRPc1FGN28xUkZKdDNGRWJMTldDRk9yVmhQU1d4WWljM2w0X3ZzSlUxU25Ndl9XbG0yY1dtRy1tU2hnVWh4Mkx1WVAwb2tOYULSAWpBVV95cUxOSS1Yc29VWlFUZ0FNMV85Mlh4NUhCRlUyWWZmdlREbUJ4My1HRUx5WXVsNXhsaWo5UGlfZHlnVldTTWlWUU1BOGM0NG9Ba2c5UEdSelZMUTlRWnMyQnNGNjdRUTlJOU4tR09n?oc=5)
-
-2026-05-25 <span class="news-indication-tag">癌症</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE80ZG1sOFZvUHRER2llLURUMDhyeGRPc1FGN28xUkZKdDNGRWJMTldDRk9yVmhQU1d4WWljM2w0X3ZzSlUxU25Ndl9XbG0yY1dtRy1tU2hnVWh4Mkx1WVAwb2tOYULSAWpBVV95cUxOSS1Yc29VWlFUZ0FNMV85Mlh4NUhCRlUyWWZmdlREbUJ4My1HRUx5WXVsNXhsaWo5UGlfZHlnVldTTWlWUU1BOGM0NG9Ba2c5UEdSelZMUTlRWnMyQnNGNjdRUTlJOU4tR09n?oc=5)
 
 ---
 

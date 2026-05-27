@@ -44,19 +44,27 @@ permalink: /news/paclitaxel/
 
 ## 相關新聞（6 則）
 
+### [45歲後身材失控不是妳的錯！營養師揭4關鍵：吃越少內臟脂肪囤越多！ | 漂亮 | CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTE85QnlEaHhFOVFPMTVRTHVGTmxPUDNtb3BvbTQ1ZjZNZ1IxYXlwaE9QbVg2elNuQ3FqMU04S1lWWnV2ZGd1MXVDM0R5U213aU3SAVRBVV95cUxOMExmMW5TMmt3em0yT2U1aE9JYlpQTDBzckhCaWhtNTI0XzhneW1vc25vVjVTcGNGVjhvOVVJU0dURnBnaGxqZjZBWU92M045MkctUGo?oc=5)
+
+2026-05-27 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">更年期</span>
+
+來源：[CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTE85QnlEaHhFOVFPMTVRTHVGTmxPUDNtb3BvbTQ1ZjZNZ1IxYXlwaE9QbVg2elNuQ3FqMU04S1lWWnV2ZGd1MXVDM0R5U213aU3SAVRBVV95cUxOMExmMW5TMmt3em0yT2U1aE9JYlpQTDBzckhCaWhtNTI0XzhneW1vc25vVjVTcGNGVjhvOVVJU0dURnBnaGxqZjZBWU92M045MkctUGo?oc=5)
+
+---
+
+### [子宮頸癌防治懶人包：HPV病毒、抹片檢查、疫苗保護力一次懂](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5acklFbTFoVloxRWM2dDZFSmx2MzF5amliaEU2dGhSOWczN0JuS3FvTkNwbEgtNUE4Ri1kZWNwTjM0VU1RdUI1cXVDMlVFek80cGdyemJsUQ?oc=5)
+
+2026-05-27 <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5acklFbTFoVloxRWM2dDZFSmx2MzF5amliaEU2dGhSOWczN0JuS3FvTkNwbEgtNUE4Ri1kZWNwTjM0VU1RdUI1cXVDMlVFek80cGdyemJsUQ?oc=5)
+
+---
+
 ### [研究：充足維生素D水平 或減輕乳癌患者術後不適](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nZ1RfZU9OazFwTVZPS2VrdjJLT3dXTWQ5dWlVaGlTNFFOZGowYXkxUHNweldOVC03S3A3bWlBNHN6Q2hZZkVqcDFUNEg0WUcyVklvMHRZa3EwYUhUX1N2UW1Dc2bSAWpBVV95cUxQQlZIQ1huQkU2aURUTjA2a2tEa2RPMmZBM2FPTmdBd3JtRzRVVE9DRl9zanUtd3FjX21WTWpENHk2Sm9ZU1VvbVJZZUdwa1R4blZ5cE9zUGxKNV9hNU9GMXJNVVFzeDUzMXBn?oc=5)
 
 2026-05-27 <span class="news-indication-tag">乳癌</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nZ1RfZU9OazFwTVZPS2VrdjJLT3dXTWQ5dWlVaGlTNFFOZGowYXkxUHNweldOVC03S3A3bWlBNHN6Q2hZZkVqcDFUNEg0WUcyVklvMHRZa3EwYUhUX1N2UW1Dc2bSAWpBVV95cUxQQlZIQ1huQkU2aURUTjA2a2tEa2RPMmZBM2FPTmdBd3JtRzRVVE9DRl9zanUtd3FjX21WTWpENHk2Sm9ZU1VvbVJZZUdwa1R4blZ5cE9zUGxKNV9hNU9GMXJNVVFzeDUzMXBn?oc=5)
-
----
-
-### [子宮頸癌防治懶人包：HPV病毒、抹片檢查、疫苗保護力一次懂](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNbmVhRHlvVkNnRFRSX01INWhHYWVpeURJc0wwT083ZHpJZmF5MUVyaG9oZTg2UHlhRGlXVDdDdjdwUHhjWUN0YThHVEFUZUFJbl9MX280U0Z0VnNpY3RqR3lEb1k0YzA2UndvRy15OFJWejMxX3NtY2VOYzY0cnhaRDlMQ0NDZ19jVktVQTFPc0g0R2hiZ3V2N0lxOXBuWWhMNWN4OVRqeU1aN0k2TG80a0hyeVFJcG1lWGZDdGdxZDF0UEJvaHFyN3ItZmtlLURIN1pkNkFqQm5FZUlvSTRFRHFvanZwRzFjM0hjellpeFNOOXJUU0xmUzBzNWlmUWpOTS1rYjN6T0h3MC1yc3dEelMta3Q1YVBzUEFhUXZ6ZnNlaXJQTTVFOFlGZVlWUm5PenFhNkgtc1RQN3NaZHVYdC1sZmdzTlp6SWdpVEFXeDA3TUMyNGVOMnZkREJ2YTc4U1hiUg?oc=5)
-
-2026-05-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNbmVhRHlvVkNnRFRSX01INWhHYWVpeURJc0wwT083ZHpJZmF5MUVyaG9oZTg2UHlhRGlXVDdDdjdwUHhjWUN0YThHVEFUZUFJbl9MX280U0Z0VnNpY3RqR3lEb1k0YzA2UndvRy15OFJWejMxX3NtY2VOYzY0cnhaRDlMQ0NDZ19jVktVQTFPc0g0R2hiZ3V2N0lxOXBuWWhMNWN4OVRqeU1aN0k2TG80a0hyeVFJcG1lWGZDdGdxZDF0UEJvaHFyN3ItZmtlLURIN1pkNkFqQm5FZUlvSTRFRHFvanZwRzFjM0hjellpeFNOOXJUU0xmUzBzNWlmUWpOTS1rYjN6T0h3MC1yc3dEelMta3Q1YVBzUEFhUXZ6ZnNlaXJQTTVFOFlGZVlWUm5PenFhNkgtc1RQN3NaZHVYdC1sZmdzTlp6SWdpVEFXeDA3TUMyNGVOMnZkREJ2YTc4U1hiUg?oc=5)
 
 ---
 
@@ -81,14 +89,6 @@ permalink: /news/paclitaxel/
 2026-05-25 <span class="news-indication-tag">癌症</span>
 
 來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE5UeUVHV2hNM3NIRV9yamx3RGlST3drUXZHSVlwQTBCdmxlUXoxWnZmNnpzckRkel96cEE?oc=5)
-
----
-
-### [研究：維生素B12化合物或有助抑制腦癌 開發針對癌症新策略](https://news.google.com/rss/articles/CBMiZEFVX3lxTE80ZG1sOFZvUHRER2llLURUMDhyeGRPc1FGN28xUkZKdDNGRWJMTldDRk9yVmhQU1d4WWljM2w0X3ZzSlUxU25Ndl9XbG0yY1dtRy1tU2hnVWh4Mkx1WVAwb2tOYULSAWpBVV95cUxOSS1Yc29VWlFUZ0FNMV85Mlh4NUhCRlUyWWZmdlREbUJ4My1HRUx5WXVsNXhsaWo5UGlfZHlnVldTTWlWUU1BOGM0NG9Ba2c5UEdSelZMUTlRWnMyQnNGNjdRUTlJOU4tR09n?oc=5)
-
-2026-05-25 <span class="news-indication-tag">癌症</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE80ZG1sOFZvUHRER2llLURUMDhyeGRPc1FGN28xUkZKdDNGRWJMTldDRk9yVmhQU1d4WWljM2w0X3ZzSlUxU25Ndl9XbG0yY1dtRy1tU2hnVWh4Mkx1WVAwb2tOYULSAWpBVV95cUxOSS1Yc29VWlFUZ0FNMV85Mlh4NUhCRlUyWWZmdlREbUJ4My1HRUx5WXVsNXhsaWo5UGlfZHlnVldTTWlWUU1BOGM0NG9Ba2c5UEdSelZMUTlRWnMyQnNGNjdRUTlJOU4tR09n?oc=5)
 
 ---
 
