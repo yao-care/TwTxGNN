@@ -43,6 +43,22 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（7 則）
 
+### [子宮頸癌防治懶人包：HPV病毒、抹片檢查、疫苗保護力一次懂](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNbmVhRHlvVkNnRFRSX01INWhHYWVpeURJc0wwT083ZHpJZmF5MUVyaG9oZTg2UHlhRGlXVDdDdjdwUHhjWUN0YThHVEFUZUFJbl9MX280U0Z0VnNpY3RqR3lEb1k0YzA2UndvRy15OFJWejMxX3NtY2VOYzY0cnhaRDlMQ0NDZ19jVktVQTFPc0g0R2hiZ3V2N0lxOXBuWWhMNWN4OVRqeU1aN0k2TG80a0hyeVFJcG1lWGZDdGdxZDF0UEJvaHFyN3ItZmtlLURIN1pkNkFqQm5FZUlvSTRFRHFvanZwRzFjM0hjellpeFNOOXJUU0xmUzBzNWlmUWpOTS1rYjN6T0h3MC1yc3dEelMta3Q1YVBzUEFhUXZ6ZnNlaXJQTTVFOFlGZVlWUm5PenFhNkgtc1RQN3NaZHVYdC1sZmdzTlp6SWdpVEFXeDA3TUMyNGVOMnZkREJ2YTc4U1hiUg?oc=5)
+
+2026-05-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNbmVhRHlvVkNnRFRSX01INWhHYWVpeURJc0wwT083ZHpJZmF5MUVyaG9oZTg2UHlhRGlXVDdDdjdwUHhjWUN0YThHVEFUZUFJbl9MX280U0Z0VnNpY3RqR3lEb1k0YzA2UndvRy15OFJWejMxX3NtY2VOYzY0cnhaRDlMQ0NDZ19jVktVQTFPc0g0R2hiZ3V2N0lxOXBuWWhMNWN4OVRqeU1aN0k2TG80a0hyeVFJcG1lWGZDdGdxZDF0UEJvaHFyN3ItZmtlLURIN1pkNkFqQm5FZUlvSTRFRHFvanZwRzFjM0hjellpeFNOOXJUU0xmUzBzNWlmUWpOTS1rYjN6T0h3MC1yc3dEelMta3Q1YVBzUEFhUXZ6ZnNlaXJQTTVFOFlGZVlWUm5PenFhNkgtc1RQN3NaZHVYdC1sZmdzTlp6SWdpVEFXeDA3TUMyNGVOMnZkREJ2YTc4U1hiUg?oc=5)
+
+---
+
+### [不是忘東忘西！研究揭阿茲海默早期症狀 先從「聞不到」開始 | TVBS - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Tcm8tMlpZQlRnRTVMOFFrUUxwUl9DenVkZEVCX3NjSWRyRGlaOGlwV19vdmYzRDVueDRINjQxeXZqZXZkc2JiVW9VTHhxVFZETmlycFdB?oc=5)
+
+2026-05-26 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Tcm8tMlpZQlRnRTVMOFFrUUxwUl9DenVkZEVCX3NjSWRyRGlaOGlwV19vdmYzRDVueDRINjQxeXZqZXZkc2JiVW9VTHhxVFZETmlycFdB?oc=5)
+
+---
+
 ### [失智風險「女比男高近2倍」！醫：更年期後風險大增](https://news.google.com/rss/articles/CBMivAJBVV95cUxOZC1kZVN1V3lLTnJVdnh0NU5kbVVRU2duZ1pJUWRtQUxpYkk4NGtTUzBCOHhXRjA1WV9teC02RUx6aHE2NTA1MDhPdUtValFIelRSZmt4V3BQWkRRTThld19IU0lXaDNFcFlmZjdsc0tnTzRldWNXb1VPcGxpQnIwbl9MVHNObDg5UUtMZkFxdGFHNXlvSDA4THZWU0RBanBSeHpqMFVYWk04XzZnTmJCZXhiYXpZT0hHZnVRb2VaaWZwbGI2cFZuMjN5RU9OdURYdDhLLTdlRGo5T3lQNzlvRGZVSFdrdFpOT0xXb0lpOGlIeEcxUlBfdlFZU0ozT1BRYlNnUUY2dUhfdlRfbVY4NjRKZGZsZ1p1ODdLVV9xZjlIODRKUWlWejlLNVpMSmhhaV9VN0Ixc3hDLTNU?oc=5)
 
 2026-05-26 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
@@ -51,25 +67,9 @@ permalink: /news/gefitinib/
 
 ---
 
-### [HPV感染不等於癌症 醫籲「規律抹片+疫苗」有效降子宮頸癌風險](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BV3FYcWF1MFh2YW4xaFFUTHoweVZ6dnBWaXgtMHNQN1ZkNkhVaTlmVTRiNzFYWjVzN3h0MkNyUzI1WWZOeG5rWTFRakVSd19JZ21BTkhn?oc=5)
-
-2026-05-26 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
-
-來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BV3FYcWF1MFh2YW4xaFFUTHoweVZ6dnBWaXgtMHNQN1ZkNkhVaTlmVTRiNzFYWjVzN3h0MkNyUzI1WWZOeG5rWTFRakVSd19JZ21BTkhn?oc=5)
-
----
-
-### [失智症最早警訊恐非健忘 研究：很多人先開始聞不到味道](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzY2NXMTVaVFEyX2tjOV9ORUFEUlBoQi11TDJRN0hLYlFJeGVtdk56cy0wdTRYckRsQzBNeDh3dkxSU3l3b2txbVZiR1NtNVZETWZZV2tadFlCQnppdHk2Qmx5TG7SAWpBVV95cUxOdjl0dEpFc3FmUG9oUXdPWUZxbDUtcFJsMVlmR3FaUzB3Z1AwVDNhaFByTXc4VVo1WmdsTm43LW1GWkhCYXVmUV9MUzJpdWtSNEFCQkJpUEFvUmdua1FQeUk4LUVIa0JqMnhn?oc=5)
-
-2026-05-26 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzY2NXMTVaVFEyX2tjOV9ORUFEUlBoQi11TDJRN0hLYlFJeGVtdk56cy0wdTRYckRsQzBNeDh3dkxSU3l3b2txbVZiR1NtNVZETWZZV2tadFlCQnppdHk2Qmx5TG7SAWpBVV95cUxOdjl0dEpFc3FmUG9oUXdPWUZxbDUtcFJsMVlmR3FaUzB3Z1AwVDNhaFByTXc4VVo1WmdsTm43LW1GWkhCYXVmUV9MUzJpdWtSNEFCQkJpUEFvUmdua1FQeUk4LUVIa0JqMnhn?oc=5)
-
----
-
 ### [45%失智可預防或延緩！專家曝「3超級食物」能保護大腦](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JQ09xU3BWZ3BpUHptb0pIbUp5cjhKZGdIc3lvYlpKU0lleW0zRnpQcUtyYW1xUnktZ09ocFBnX2tGbW8tbG8yRlgyMlM?oc=5)
 
-2026-05-26 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+2026-05-26 <span class="news-indication-tag">失智</span>
 
 來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JQ09xU3BWZ3BpUHptb0pIbUp5cjhKZGdIc3lvYlpKU0lleW0zRnpQcUtyYW1xUnktZ09ocFBnX2tGbW8tbG8yRlgyMlM?oc=5)
 
