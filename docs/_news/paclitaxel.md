@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [乳過天晴｜吸煙增乳癌風險](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZNXJRa2syczU2c0VIN1NRbmg2dG1zYTdKZmRWdkxPcjdUU3lGY005dEg2cFpWNm1wTUMxOUREeEh2dXNjRTdmeDkyVEFuU1pXUVE?oc=5)
+
+2026-05-27 <span class="news-indication-tag">乳癌</span>
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZNXJRa2syczU2c0VIN1NRbmg2dG1zYTdKZmRWdkxPcjdUU3lGY005dEg2cFpWNm1wTUMxOUREeEh2dXNjRTdmeDkyVEFuU1pXUVE?oc=5)
+
+---
 
 ### [健康網》維他命D不只護骨本 研究：乳癌化療效果提升近8成](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9veTJuaEg0RWcxVGRheV9iRENCVnhmcWIxQjBCbjE2YlpnMW9qa3hKVkpldkVOZktDR1ZsVHFxamdKV3Y3ZGdfdkFZNEFaYTNOU2xHbEthV2p5STZEaVFvbklnZkfSAWpBVV95cUxPNlBQTWwwd0ZqTHFXQV9Nc3B4UzViYzV5T21NejQwb2dZS1JxSy1QQjNxTEhfX3VwOUdUTEF2cWJUaG5BTXZqNlduT2tCV3VHdlprV0xUZjJiTzdyaFBaa1otWFhXOGtMNUNn?oc=5)
 

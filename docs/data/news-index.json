@@ -1,7 +1,55 @@
 {
-  "generated": "2026-05-27T22:25:33.380351+00:00",
-  "count": 8,
+  "generated": "2026-05-27T23:54:46.866445+00:00",
+  "count": 9,
   "news": [
+    {
+      "id": "864b53260a86",
+      "title": "乳過天晴｜吸煙增乳癌風險",
+      "published": "2026-05-27T23:00:00+00:00",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZNXJRa2syczU2c0VIN1NRbmg2dG1zYTdKZmRWdkxPcjdUU3lGY005dEg2cFpWNm1wTUMxOUREeEh2dXNjRTdmeDkyVEFuU1pXUVE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "a30503c59c03",
       "title": "健康網》維他命D不只護骨本 研究：乳癌化療效果提升近8成",
