@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [健康網》維他命D不只護骨本 研究：乳癌化療效果提升近8成](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9veTJuaEg0RWcxVGRheV9iRENCVnhmcWIxQjBCbjE2YlpnMW9qa3hKVkpldkVOZktDR1ZsVHFxamdKV3Y3ZGdfdkFZNEFaYTNOU2xHbEthV2p5STZEaVFvbklnZkfSAWpBVV95cUxPNlBQTWwwd0ZqTHFXQV9Nc3B4UzViYzV5T21NejQwb2dZS1JxSy1QQjNxTEhfX3VwOUdUTEF2cWJUaG5BTXZqNlduT2tCV3VHdlprV0xUZjJiTzdyaFBaa1otWFhXOGtMNUNn?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/hydroxyurea/
 2026-05-26 <span class="news-indication-tag">癌症</span>
 
 來源：[客观日本](https://news.google.com/rss/articles/CBMid0FVX3lxTFBpM1NlcnBXWHo4RENCN1JHc182QlhhN0M1S291OC11NmU3MkVBWEVuRXptaDdVNmd3blQ1SmVaZkZZR2N3NXZ5cXFPMW9UcTA5VGhHUUpuVl9ONmRZeEhxaElKa0toVnVfRzZMNk82UVdULWk0SnFR?oc=5)
-
----
-
-### [貓咪癌症基因密碼解鎖 揭示人類治療新希望](https://news.google.com/rss/articles/CBMiOkFVX3lxTE5UeUVHV2hNM3NIRV9yamx3RGlST3drUXZHSVlwQTBCdmxlUXoxWnZmNnpzckRkel96cEE?oc=5)
-
-2026-05-25 <span class="news-indication-tag">癌症</span>
-
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE5UeUVHV2hNM3NIRV9yamx3RGlST3drUXZHSVlwQTBCdmxlUXoxWnZmNnpzckRkel96cEE?oc=5)
 
 ---
 

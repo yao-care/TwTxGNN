@@ -1,13 +1,13 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-27T20:01:27.032086+00:00",
-  "count": 28,
+  "fetched_at": "2026-05-27T22:25:28.522179+00:00",
+  "count": 26,
   "news": [
     {
       "id": "f8f8389bd92f",
       "title": "原來45歲就開始了！「2徵狀」 恐是阿茲海默症前兆 - Yahoo新聞",
       "published": "2026-05-25T09:54:46+00:00",
-      "summary": "原來45歲就開始了！「2徵狀」 恐是阿茲海默症前兆&nbsp;&nbsp;Yahoo新聞失智症最早警訊恐非健忘 研究：很多人先開始聞不到味道&nbsp;&nbsp;自由健康網科學研究- 日本東北大學等發現：多巴胺不足引發阿茲海默症記憶障礙，有望利用多巴胺開發新療法&nbsp;&nbsp;客观日本不是忘東忘西！研究揭阿茲海默早期症狀 先從「聞不到」開始 | TVBS&nbsp;&nbsp;LINE TODAY比健忘還早一步！研究曝失智症早期警訊：從鼻子開始&nbsp;&nbsp;中時新聞網",
+      "summary": "原來45歲就開始了！「2徵狀」 恐是阿茲海默症前兆&nbsp;&nbsp;Yahoo新聞失智症最早警訊恐非健忘 研究：很多人先開始聞不到味道&nbsp;&nbsp;自由健康網不是忘東忘西！研究揭阿茲海默早期症狀 先從「聞不到」開始 | TVBS&nbsp;&nbsp;LINE TODAY科學研究- 日本東北大學等發現：多巴胺不足引發阿茲海默症記憶障礙，有望利用多巴胺開發新療法&nbsp;&nbsp;客观日本",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -28,26 +28,14 @@
       ]
     },
     {
-      "id": "09682a90d2c9",
-      "title": "淋雨10分鐘進ICU 醫：出現3症狀千萬別扛 - 鏡週刊Mirror Media",
-      "published": "2026-05-27T15:30:00+00:00",
-      "summary": "淋雨10分鐘進ICU 醫：出現3症狀千萬別扛&nbsp;&nbsp;鏡週刊Mirror Media",
+      "id": "d28fa8111f21",
+      "title": "肥胖不只傷內臟！新 AI 身體描圖發現意外受損的神經部位 - TechNews 科技新報",
+      "published": "2026-05-26T23:45:13+00:00",
+      "summary": "肥胖不只傷內臟！新 AI 身體描圖發現意外受損的神經部位&nbsp;&nbsp;TechNews 科技新報新AI人體圖揭示肥胖對面神經的隱藏攻擊&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZUzVPS1dtWHdOSkZmVGVlLTN1NmF0OExaMlhVcUJLRFpuZEdCTl91SWc3Wi1jWmZ0VmRrc254R1oydy0tV24yMkNPUWNqWERBMEIzTFdGY01pcC1S?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a30503c59c03",
-      "title": "健康網》維他命D不只護骨本 研究：乳癌化療效果提升近8成 - 自由健康網",
-      "published": "2026-05-27T11:23:00+00:00",
-      "summary": "健康網》維他命D不只護骨本 研究：乳癌化療效果提升近8成&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9veTJuaEg0RWcxVGRheV9iRENCVnhmcWIxQjBCbjE2YlpnMW9qa3hKVkpldkVOZktDR1ZsVHFxamdKV3Y3ZGdfdkFZNEFaYTNOU2xHbEthV2p5STZEaVFvbklnZkfSAWpBVV95cUxPNlBQTWwwd0ZqTHFXQV9Nc3B4UzViYzV5T21NejQwb2dZS1JxSy1QQjNxTEhfX3VwOUdUTEF2cWJUaG5BTXZqNlduT2tCV3VHdlprV0xUZjJiTzdyaFBaa1otWFhXOGtMNUNn?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNF9SUml3RUFrdG91cmR6Yi1BVjZ2UkVDUy11a3FRZ3hjcUZKTkhMampXcndjTEtnRjBzTnd1eElpVWJ3RnlrMjhiRm80alY5SDYyRlRIeS05alhkTXgycnRFY0pRTkpjNEZFZGZkaUlVTW5PS1NhRUtCX2hJbXVLX2tldGJHTUxHdm8ydzIyQmFOa3FTY2lUcHVoUQ?oc=5"
         }
       ]
     },
@@ -76,6 +64,18 @@
       ]
     },
     {
+      "id": "a30503c59c03",
+      "title": "健康網》維他命D不只護骨本 研究：乳癌化療效果提升近8成 - 自由健康網",
+      "published": "2026-05-27T11:23:00+00:00",
+      "summary": "健康網》維他命D不只護骨本 研究：乳癌化療效果提升近8成&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9veTJuaEg0RWcxVGRheV9iRENCVnhmcWIxQjBCbjE2YlpnMW9qa3hKVkpldkVOZktDR1ZsVHFxamdKV3Y3ZGdfdkFZNEFaYTNOU2xHbEthV2p5STZEaVFvbklnZkfSAWpBVV95cUxPNlBQTWwwd0ZqTHFXQV9Nc3B4UzViYzV5T21NejQwb2dZS1JxSy1QQjNxTEhfX3VwOUdUTEF2cWJUaG5BTXZqNlduT2tCV3VHdlprV0xUZjJiTzdyaFBaa1otWFhXOGtMNUNn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0a2321bee5f6",
       "title": "抹片異常代表罹癌？醫解析幾種情況 揪子宮頸癌前病變 - 新唐人亞太電視台",
       "published": "2026-05-27T10:53:44+00:00",
@@ -84,18 +84,6 @@
         {
           "name": "新唐人亞太電視台",
           "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPUUlsTmZ0R0Q2QVlDZG1IWVNrTTBFMEIxY2doWERtUkdyaE1Xc0IwT1pzOVRVU016SURGSlhsOGEzWldiUkJQdGVScktaREJEQTY4M1hIVE9yYTVKdDRzQ3pQS0M3Z0pDeXJjR3Iwb3FLanJkd3RlZ09kV1ZBS3RwUjRKMFBIalBwQkFEX2FXcGdhRVVRenNLc0JSOTdRTHlrUjhTVkVwZXRhMlIySTVqenctS1l2b3EzczdaWW4yUms0empPU3E3ZUxlT2ZLTkRKMmFLaS1LTmZhaUJXRkZwYVFYT3dvN1U3bGR2RXpFTkgyU2xkc21zYWtPNFVSRnEwbU9pOFU5QmstTHR5bV9zSHVMMW1STTFGME45MGI1VlUtV3Y0SjdzaTJ6WXVzT0tSbkZ4YWdsOUVkUmhaZDhHaVhQbDNsTjlJTnF6MVZCTWhXakdlbmdOa2lxdk5tM2pjTldINmRYYjczb1laYzVaWTBoMElNRHhZOVhnZlhmakJVSk03OGhMc1J3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ad5ab7e5de25",
-      "title": "橫跨醫療、生技、AI與半導體 威力先進引領全球健康科技新勢 - 台灣好新聞",
-      "published": "2026-05-27T07:46:38+00:00",
-      "summary": "橫跨醫療、生技、AI與半導體 威力先進引領全球健康科技新勢&nbsp;&nbsp;台灣好新聞",
-      "sources": [
-        {
-          "name": "台灣好新聞",
-          "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPZTZSNXl6TTBjWk5qTVAwZUdXUjI3bWRxRzBHcmdaY1NVbDdzSkN5X2ZIejd0SmFuNVlKd0lCY1ZCTGNsdFBidzc3dlBsV2FuQnRabk9Da3FiRF9ERVZQenZkRGhralFHTVgyTjdaa3kySjlObm1sRjI1Q1lLY2pWZ0lIa1JSZEpLZHhNczVzbXlQSzFtdS16a0hoeWdpbzJEWDRNbHNSdFJBaWFGSVdzYllWUlpKeXk1elNYVWZlY0xEc3BIeWpob2hXZWl4T0RkSFJfNVhnZEdsTG5YdHMxdHJzbTlvNTVpQlNDcmQwVGUtREZMV1FVdk02QllYTV9NaXFveUd1RTJLVllHUE0tM1V0eXA1NU4xLUVzQmF0ZklPWmNlVmRBQUFVV0RqcW9GMmktbDJPZE43UWdObWtqVkxuaFE2Uml4aVpZa3lSYlpDbVdZSjdhZ01rWDdzMU1hM0ZzQkliVEJxZmc0SEVkdk5nUTJ4RWRyZExxVU1iODNWOHdNRHlVdVZROUpoQQ?oc=5"
         }
       ]
     },
@@ -112,14 +100,14 @@
       ]
     },
     {
-      "id": "a97c49f49fe6",
-      "title": "7天內確診翻倍！星國登革熱創今年單週新高 - Yahoo新聞",
-      "published": "2026-05-27T05:18:13+00:00",
-      "summary": "7天內確診翻倍！星國登革熱創今年單週新高&nbsp;&nbsp;Yahoo新聞",
+      "id": "ad5ab7e5de25",
+      "title": "橫跨醫療、生技、AI與半導體 威力先進引領全球健康科技新勢 - 台灣好新聞",
+      "published": "2026-05-27T07:46:38+00:00",
+      "summary": "橫跨醫療、生技、AI與半導體 威力先進引領全球健康科技新勢&nbsp;&nbsp;台灣好新聞",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOQ0ZmVHRORXIxWmhRM2Y0RkFWWUliLUVkbU5BdGlxT1VOaXdKRm56dTloWVV3OWtFWUVPN21fekF6TmY5N3ppbWpzSWdPdWp2WmdkaXdoWVY2ZEhISDlEaHAtUzlDdW8wY216VTdpQnozRVg2QjJ1aUZZZXJQVUZwYVBVZzFQdHRpZ2J3Mm9aTjVnQ09UMC1KTktmVWdyUEdoNnplcG5TOTNXd2lTQnZRcV9jVFZrOWpHV0xURndjcWVhanJjWUVvNFZLQnJ2azZVSWJxc3dRMUFwUXZrd1BZYlpVR3BseUhpdllUQmdWbUt6TVQxSERyUGU3N3dnZDVCM3JCQmptdEYxTVp6Wmh0cHBYaVJXcFNVRmdscXRNVGJHcFN2TWdmQmhCc0lXQQ?oc=5"
+          "name": "台灣好新聞",
+          "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPZTZSNXl6TTBjWk5qTVAwZUdXUjI3bWRxRzBHcmdaY1NVbDdzSkN5X2ZIejd0SmFuNVlKd0lCY1ZCTGNsdFBidzc3dlBsV2FuQnRabk9Da3FiRF9ERVZQenZkRGhralFHTVgyTjdaa3kySjlObm1sRjI1Q1lLY2pWZ0lIa1JSZEpLZHhNczVzbXlQSzFtdS16a0hoeWdpbzJEWDRNbHNSdFJBaWFGSVdzYllWUlpKeXk1elNYVWZlY0xEc3BIeWpob2hXZWl4T0RkSFJfNVhnZEdsTG5YdHMxdHJzbTlvNTVpQlNDcmQwVGUtREZMV1FVdk02QllYTV9NaXFveUd1RTJLVllHUE0tM1V0eXA1NU4xLUVzQmF0ZklPWmNlVmRBQUFVV0RqcW9GMmktbDJPZE43UWdObWtqVkxuaFE2Uml4aVpZa3lSYlpDbVdZSjdhZ01rWDdzMU1hM0ZzQkliVEJxZmc0SEVkdk5nUTJ4RWRyZExxVU1iODNWOHdNRHlVdVZROUpoQQ?oc=5"
         }
       ]
     },
@@ -144,6 +132,18 @@
         {
           "name": "客观日本",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpM1NlcnBXWHo4RENCN1JHc182QlhhN0M1S291OC11NmU3MkVBWEVuRXptaDdVNmd3blQ1SmVaZkZZR2N3NXZ5cXFPMW9UcTA5VGhHUUpuVl9ONmRZeEhxaElKa0toVnVfRzZMNk82UVdULWk0SnFR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a97c49f49fe6",
+      "title": "7天內確診翻倍！星國登革熱創今年單週新高 - Yahoo新聞",
+      "published": "2026-05-27T05:18:13+00:00",
+      "summary": "7天內確診翻倍！星國登革熱創今年單週新高&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOQ0ZmVHRORXIxWmhRM2Y0RkFWWUliLUVkbU5BdGlxT1VOaXdKRm56dTloWVV3OWtFWUVPN21fekF6TmY5N3ppbWpzSWdPdWp2WmdkaXdoWVY2ZEhISDlEaHAtUzlDdW8wY216VTdpQnozRVg2QjJ1aUZZZXJQVUZwYVBVZzFQdHRpZ2J3Mm9aTjVnQ09UMC1KTktmVWdyUEdoNnplcG5TOTNXd2lTQnZRcV9jVFZrOWpHV0xURndjcWVhanJjWUVvNFZLQnJ2azZVSWJxc3dRMUFwUXZrd1BZYlpVR3BseUhpdllUQmdWbUt6TVQxSERyUGU3N3dnZDVCM3JCQmptdEYxTVp6Wmh0cHBYaVJXcFNVRmdscXRNVGJHcFN2TWdmQmhCc0lXQQ?oc=5"
         }
       ]
     },
@@ -196,18 +196,6 @@
       ]
     },
     {
-      "id": "490b35dd87db",
-      "title": "肥胖不只傷內臟！新 AI 身體描圖發現意外受損的神經部位 | 科技新報 - LINE TODAY",
-      "published": "2026-05-27T08:08:42+00:00",
-      "summary": "肥胖不只傷內臟！新 AI 身體描圖發現意外受損的神經部位 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTRktWMFpEZGlVR1FCTjlVNzhLY0QtQ19UVzEtcXlTNXAzSXdxVWlaT3pJRnJhSktzM3RfaWRqTENJSkpNc3cxcW5lQWlPMXFvNDNkbTdR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9ed0d72e0bc8",
       "title": "AI成功協助治療超罕見疾病　女童用藥後狀況「像突然打開開關」 - ETtoday新聞雲",
       "published": "2026-05-26T04:47:00+00:00",
@@ -240,18 +228,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45cnVBREp3NG4zUDJkNzhYb0ViRjBTLXRlZ3BtSzI2clpvQ3BuSUtVbjlkSmEwaXp2NEtsTy1uTFZrLVBfalN5QlMzSUFwd09EN1VZMGg4SFd3OWtFZU1FV3FEWmLSAWpBVV95cUxOU0lfbGs2MmF0aGE0VkFsSlZNNnQzN2NmM05zV2pwNnhlZ19BeURVRHdXNnZkNVZjS2dPWUlrUVRRM3NhVFh3dWVtUTJjNDhCSERnTWt4M1l4djVxd3J2Sk1vWnBHY1pTODhR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "58d7882788ee",
-      "title": "貓咪癌症基因密碼解鎖 揭示人類治療新希望 - ENN台灣電報",
-      "published": "2026-05-25T20:13:57+00:00",
-      "summary": "貓咪癌症基因密碼解鎖 揭示人類治療新希望&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5UeUVHV2hNM3NIRV9yamx3RGlST3drUXZHSVlwQTBCdmxlUXoxWnZmNnpzckRkel96cEE?oc=5"
         }
       ]
     },
