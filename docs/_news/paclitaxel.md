@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [45歲後身材失控不是妳的錯！營養師揭4關鍵：吃越少內臟脂肪囤越多！ | 漂亮 | CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTE85QnlEaHhFOVFPMTVRTHVGTmxPUDNtb3BvbTQ1ZjZNZ1IxYXlwaE9QbVg2elNuQ3FqMU04S1lWWnV2ZGd1MXVDM0R5U213aU3SAVRBVV95cUxOMExmMW5TMmt3em0yT2U1aE9JYlpQTDBzckhCaWhtNTI0XzhneW1vc25vVjVTcGNGVjhvOVVJU0dURnBnaGxqZjZBWU92M045MkctUGo?oc=5)
+### [抹片異常代表罹癌？醫解析幾種情況 揪子宮頸癌前病變](https://news.google.com/rss/articles/CBMiigNBVV95cUxPUUlsTmZ0R0Q2QVlDZG1IWVNrTTBFMEIxY2doWERtUkdyaE1Xc0IwT1pzOVRVU016SURGSlhsOGEzWldiUkJQdGVScktaREJEQTY4M1hIVE9yYTVKdDRzQ3pQS0M3Z0pDeXJjR3Iwb3FLanJkd3RlZ09kV1ZBS3RwUjRKMFBIalBwQkFEX2FXcGdhRVVRenNLc0JSOTdRTHlrUjhTVkVwZXRhMlIySTVqenctS1l2b3EzczdaWW4yUms0empPU3E3ZUxlT2ZLTkRKMmFLaS1LTmZhaUJXRkZwYVFYT3dvN1U3bGR2RXpFTkgyU2xkc21zYWtPNFVSRnEwbU9pOFU5QmstTHR5bV9zSHVMMW1STTFGME45MGI1VlUtV3Y0SjdzaTJ6WXVzT0tSbkZ4YWdsOUVkUmhaZDhHaVhQbDNsTjlJTnF6MVZCTWhXakdlbmdOa2lxdk5tM2pjTldINmRYYjczb1laYzVaWTBoMElNRHhZOVhnZlhmakJVSk03OGhMc1J3?oc=5)
 
-2026-05-27 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">更年期</span>
+2026-05-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
 
-來源：[CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTE85QnlEaHhFOVFPMTVRTHVGTmxPUDNtb3BvbTQ1ZjZNZ1IxYXlwaE9QbVg2elNuQ3FqMU04S1lWWnV2ZGd1MXVDM0R5U213aU3SAVRBVV95cUxOMExmMW5TMmt3em0yT2U1aE9JYlpQTDBzckhCaWhtNTI0XzhneW1vc25vVjVTcGNGVjhvOVVJU0dURnBnaGxqZjZBWU92M045MkctUGo?oc=5)
-
----
-
-### [子宮頸癌防治懶人包：HPV病毒、抹片檢查、疫苗保護力一次懂](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5acklFbTFoVloxRWM2dDZFSmx2MzF5amliaEU2dGhSOWczN0JuS3FvTkNwbEgtNUE4Ri1kZWNwTjM0VU1RdUI1cXVDMlVFek80cGdyemJsUQ?oc=5)
-
-2026-05-27 <span class="news-indication-tag">子宮頸癌</span>
-
-來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5acklFbTFoVloxRWM2dDZFSmx2MzF5amliaEU2dGhSOWczN0JuS3FvTkNwbEgtNUE4Ri1kZWNwTjM0VU1RdUI1cXVDMlVFek80cGdyemJsUQ?oc=5)
+來源：[新唐人亞太電視台](https://news.google.com/rss/articles/CBMiigNBVV95cUxPUUlsTmZ0R0Q2QVlDZG1IWVNrTTBFMEIxY2doWERtUkdyaE1Xc0IwT1pzOVRVU016SURGSlhsOGEzWldiUkJQdGVScktaREJEQTY4M1hIVE9yYTVKdDRzQ3pQS0M3Z0pDeXJjR3Iwb3FLanJkd3RlZ09kV1ZBS3RwUjRKMFBIalBwQkFEX2FXcGdhRVVRenNLc0JSOTdRTHlrUjhTVkVwZXRhMlIySTVqenctS1l2b3EzczdaWW4yUms0empPU3E3ZUxlT2ZLTkRKMmFLaS1LTmZhaUJXRkZwYVFYT3dvN1U3bGR2RXpFTkgyU2xkc21zYWtPNFVSRnEwbU9pOFU5QmstTHR5bV9zSHVMMW1STTFGME45MGI1VlUtV3Y0SjdzaTJ6WXVzT0tSbkZ4YWdsOUVkUmhaZDhHaVhQbDNsTjlJTnF6MVZCTWhXakdlbmdOa2lxdk5tM2pjTldINmRYYjczb1laYzVaWTBoMElNRHhZOVhnZlhmakJVSk03OGhMc1J3?oc=5)
 
 ---
 

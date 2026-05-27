@@ -3,7 +3,7 @@ layout: default
 title: "乳癌（female breast carcinoma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "乳癌（female breast carcinoma） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "乳癌（female breast carcinoma） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="乳癌（female breast carcinoma） 有什麼相關新聞？">
-<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,7 @@ permalink: /news/female-breast-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [45歲後身材失控不是妳的錯！營養師揭4關鍵：吃越少內臟脂肪囤越多！ | 漂亮 | CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTE85QnlEaHhFOVFPMTVRTHVGTmxPUDNtb3BvbTQ1ZjZNZ1IxYXlwaE9QbVg2elNuQ3FqMU04S1lWWnV2ZGd1MXVDM0R5U213aU3SAVRBVV95cUxOMExmMW5TMmt3em0yT2U1aE9JYlpQTDBzckhCaWhtNTI0XzhneW1vc25vVjVTcGNGVjhvOVVJU0dURnBnaGxqZjZBWU92M045MkctUGo?oc=5)
-
-2026-05-27
-
-來源：[CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTE85QnlEaHhFOVFPMTVRTHVGTmxPUDNtb3BvbTQ1ZjZNZ1IxYXlwaE9QbVg2elNuQ3FqMU04S1lWWnV2ZGd1MXVDM0R5U213aU3SAVRBVV95cUxOMExmMW5TMmt3em0yT2U1aE9JYlpQTDBzckhCaWhtNTI0XzhneW1vc25vVjVTcGNGVjhvOVVJU0dURnBnaGxqZjZBWU92M045MkctUGo?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [研究：充足維生素D水平 或減輕乳癌患者術後不適](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nZ1RfZU9OazFwTVZPS2VrdjJLT3dXTWQ5dWlVaGlTNFFOZGowYXkxUHNweldOVC03S3A3bWlBNHN6Q2hZZkVqcDFUNEg0WUcyVklvMHRZa3EwYUhUX1N2UW1Dc2bSAWpBVV95cUxQQlZIQ1huQkU2aURUTjA2a2tEa2RPMmZBM2FPTmdBd3JtRzRVVE9DRl9zanUtd3FjX21WTWpENHk2Sm9ZU1VvbVJZZUdwa1R4blZ5cE9zUGxKNV9hNU9GMXJNVVFzeDUzMXBn?oc=5)
 

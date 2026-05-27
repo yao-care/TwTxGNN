@@ -14,7 +14,7 @@ permalink: /news/clobetasone/
 ---
 
 <p class="key-answer" data-question="Clobetasone 有什麼相關新聞？">
-<strong>Clobetasone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Clobetasone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/clobetasone/
 <p><a href="{{ '/drugs/clobetasone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [抹片異常代表罹癌？醫解析幾種情況 揪子宮頸癌前病變](https://news.google.com/rss/articles/CBMiigNBVV95cUxPUUlsTmZ0R0Q2QVlDZG1IWVNrTTBFMEIxY2doWERtUkdyaE1Xc0IwT1pzOVRVU016SURGSlhsOGEzWldiUkJQdGVScktaREJEQTY4M1hIVE9yYTVKdDRzQ3pQS0M3Z0pDeXJjR3Iwb3FLanJkd3RlZ09kV1ZBS3RwUjRKMFBIalBwQkFEX2FXcGdhRVVRenNLc0JSOTdRTHlrUjhTVkVwZXRhMlIySTVqenctS1l2b3EzczdaWW4yUms0empPU3E3ZUxlT2ZLTkRKMmFLaS1LTmZhaUJXRkZwYVFYT3dvN1U3bGR2RXpFTkgyU2xkc21zYWtPNFVSRnEwbU9pOFU5QmstTHR5bV9zSHVMMW1STTFGME45MGI1VlUtV3Y0SjdzaTJ6WXVzT0tSbkZ4YWdsOUVkUmhaZDhHaVhQbDNsTjlJTnF6MVZCTWhXakdlbmdOa2lxdk5tM2pjTldINmRYYjczb1laYzVaWTBoMElNRHhZOVhnZlhmakJVSk03OGhMc1J3?oc=5)
+
+2026-05-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[新唐人亞太電視台](https://news.google.com/rss/articles/CBMiigNBVV95cUxPUUlsTmZ0R0Q2QVlDZG1IWVNrTTBFMEIxY2doWERtUkdyaE1Xc0IwT1pzOVRVU016SURGSlhsOGEzWldiUkJQdGVScktaREJEQTY4M1hIVE9yYTVKdDRzQ3pQS0M3Z0pDeXJjR3Iwb3FLanJkd3RlZ09kV1ZBS3RwUjRKMFBIalBwQkFEX2FXcGdhRVVRenNLc0JSOTdRTHlrUjhTVkVwZXRhMlIySTVqenctS1l2b3EzczdaWW4yUms0empPU3E3ZUxlT2ZLTkRKMmFLaS1LTmZhaUJXRkZwYVFYT3dvN1U3bGR2RXpFTkgyU2xkc21zYWtPNFVSRnEwbU9pOFU5QmstTHR5bV9zSHVMMW1STTFGME45MGI1VlUtV3Y0SjdzaTJ6WXVzT0tSbkZ4YWdsOUVkUmhaZDhHaVhQbDNsTjlJTnF6MVZCTWhXakdlbmdOa2lxdk5tM2pjTldINmRYYjczb1laYzVaWTBoMElNRHhZOVhnZlhmakJVSk03OGhMc1J3?oc=5)
+
+---
 
 ### [【智慧生物製藥研究支援事業】⑫：確立糖鏈·凝集素圖形辨識的癌症精密細胞識別平台，結合α射線內用療法提供全新治療方案](https://news.google.com/rss/articles/CBMid0FVX3lxTFBpM1NlcnBXWHo4RENCN1JHc182QlhhN0M1S291OC11NmU3MkVBWEVuRXptaDdVNmd3blQ1SmVaZkZZR2N3NXZ5cXFPMW9UcTA5VGhHUUpuVl9ONmRZeEhxaElKa0toVnVfRzZMNk82UVdULWk0SnFR?oc=5)
 

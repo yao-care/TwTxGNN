@@ -1,34 +1,146 @@
 {
-  "generated": "2026-05-27T10:51:58.699422+00:00",
-  "count": 10,
+  "generated": "2026-05-27T14:20:38.879573+00:00",
+  "count": 9,
   "news": [
     {
-      "id": "8ceb33de42d0",
-      "title": "45歲後身材失控不是妳的錯！營養師揭4關鍵：吃越少內臟脂肪囤越多！ | 漂亮 | CTWANT",
-      "published": "2026-05-27T09:30:01+00:00",
+      "id": "0a2321bee5f6",
+      "title": "抹片異常代表罹癌？醫解析幾種情況 揪子宮頸癌前病變",
+      "published": "2026-05-27T10:53:44+00:00",
       "sources": [
         {
-          "name": "CTWANT",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85QnlEaHhFOVFPMTVRTHVGTmxPUDNtb3BvbTQ1ZjZNZ1IxYXlwaE9QbVg2elNuQ3FqMU04S1lWWnV2ZGd1MXVDM0R5U213aU3SAVRBVV95cUxOMExmMW5TMmt3em0yT2U1aE9JYlpQTDBzckhCaWhtNTI0XzhneW1vc25vVjVTcGNGVjhvOVVJU0dURnBnaGxqZjZBWU92M045MkctUGo?oc=5"
+          "name": "新唐人亞太電視台",
+          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPUUlsTmZ0R0Q2QVlDZG1IWVNrTTBFMEIxY2doWERtUkdyaE1Xc0IwT1pzOVRVU016SURGSlhsOGEzWldiUkJQdGVScktaREJEQTY4M1hIVE9yYTVKdDRzQ3pQS0M3Z0pDeXJjR3Iwb3FLanJkd3RlZ09kV1ZBS3RwUjRKMFBIalBwQkFEX2FXcGdhRVVRenNLc0JSOTdRTHlrUjhTVkVwZXRhMlIySTVqenctS1l2b3EzczdaWW4yUms0empPU3E3ZUxlT2ZLTkRKMmFLaS1LTmZhaUJXRkZwYVFYT3dvN1U3bGR2RXpFTkgyU2xkc21zYWtPNFVSRnEwbU9pOFU5QmstTHR5bV9zSHVMMW1STTFGME45MGI1VlUtV3Y0SjdzaTJ6WXVzT0tSbkZ4YWdsOUVkUmhaZDhHaVhQbDNsTjlJTnF6MVZCTWhXakdlbmdOa2lxdk5tM2pjTldINmRYYjczb1laYzVaWTBoMElNRHhZOVhnZlhmakJVSk03OGhMc1J3?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
+          "name": "generic_cancer",
+          "keyword": "癌症",
           "related_drugs": [
             {
               "slug": "trabectedin",
               "name": "Trabectedin"
             },
             {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
               "slug": "docetaxel",
               "name": "Docetaxel"
             },
             {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
             },
             {
               "slug": "carboplatin",
@@ -39,51 +151,63 @@
               "name": "Gemcitabine"
             },
             {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
               "slug": "anastrozole",
               "name": "Anastrozole"
             },
             {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
             }
           ]
         },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6e073884e568",
-      "title": "子宮頸癌防治懶人包：HPV病毒、抹片檢查、疫苗保護力一次懂",
-      "published": "2026-05-27T07:00:03+00:00",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5acklFbTFoVloxRWM2dDZFSmx2MzF5amliaEU2dGhSOWczN0JuS3FvTkNwbEgtNUE4Ri1kZWNwTjM0VU1RdUI1cXVDMlVFek80cGdyemJsUQ?oc=5"
-        }
-      ],
-      "keywords": [
         {
           "type": "indication",
           "name": "子宮頸癌",
@@ -228,30 +352,6 @@
       ]
     },
     {
-      "id": "ce2c2a77f5e5",
-      "title": "台灣每日48人確診失智！「麥得飲食」可降53％風險",
-      "published": "2026-05-26T04:57:46+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOWVllVnFORnpwUUdlZVFZemI1X0hxUnR5YnE5d1Vtc0lrRDNsa0FjNWlFQmJDT0wxNmltUmtyYWoySEN4cnVDV0N2UVZ3VnRXVGlMYk9EaERNTk5PVWJMSko5eHF3bE1LamNEZGI1RkZqaGU5czBBWGtJVTlUVjlUSnJ3dEM5eHVNY2xHOElOX1FQUkJXdnV1dTYxSnZfdkVsaGFBTGVmbEpEclhXd1RHM0xqejEtZmdMajhtb3h2d0ltX2xObTExM25GcTZpX2NiamhyZDRpMExSMVJMX1VhcFh1NGM5bEpFcjRQc2hlX1kzOTVZQkhaWWlBa0VIckRXeEs5UG55d214WEt4X2hpZzlyQmdHOFFjZEZlQk0waGtzMEdwNGZKVg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "1d22a8885447",
       "title": "失智症最早警訊恐非健忘 研究：很多人先開始聞不到味道",
       "published": "2026-05-26T04:46:00+00:00",
@@ -287,6 +387,30 @@
         {
           "type": "indication",
           "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9c1f309c17e0",
+      "title": "45%失智可預防或延緩！專家曝「3超級食物」能保護大腦",
+      "published": "2026-05-26T04:06:51+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPN0V6NElJdHlTQzJLT2dhU3k5cVRBZ0xld1d1b3NsY3UwMGlsaWZxWnItY0xBZ0lSYzJfTE5GbXFTb3BhZ3FPQ3JnN203NzFrOHZHLWFRc3IzdWNsd3dSZElmX3VuUmJDX3pVYkhjZVB4SmpSSldQc3Fkd3hPdWFBOThzalhkYmRmVGxtWGxmdkExbi1GZjNONXMzM1lDTGdrc19GeUtWNTNYYUU4YkpKWWpnQzdTcTRuQVFLY2RVXzVzbTc1aEotTzlOMFZuU3V2Y2RoSDZBSFYyTElqcFlscXcybTBHY0owOG1mU0tncTVFSlVBUlBxWjhnWVRyTjd5Qm4yaGJtdG11TkQwRVJtS2prb1M3TVV0TmY3a1NsdWhUeGNoZWc5ZWRxNFJ0aVhuTnpOMjVkT3dBOS1vVTJKdmUxbnZZQldnRTJWUw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
           "keyword": "失智",
           "related_drugs": [
             {

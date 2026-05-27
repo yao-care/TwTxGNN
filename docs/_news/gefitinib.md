@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [抹片異常代表罹癌？醫解析幾種情況 揪子宮頸癌前病變](https://news.google.com/rss/articles/CBMiigNBVV95cUxPUUlsTmZ0R0Q2QVlDZG1IWVNrTTBFMEIxY2doWERtUkdyaE1Xc0IwT1pzOVRVU016SURGSlhsOGEzWldiUkJQdGVScktaREJEQTY4M1hIVE9yYTVKdDRzQ3pQS0M3Z0pDeXJjR3Iwb3FLanJkd3RlZ09kV1ZBS3RwUjRKMFBIalBwQkFEX2FXcGdhRVVRenNLc0JSOTdRTHlrUjhTVkVwZXRhMlIySTVqenctS1l2b3EzczdaWW4yUms0empPU3E3ZUxlT2ZLTkRKMmFLaS1LTmZhaUJXRkZwYVFYT3dvN1U3bGR2RXpFTkgyU2xkc21zYWtPNFVSRnEwbU9pOFU5QmstTHR5bV9zSHVMMW1STTFGME45MGI1VlUtV3Y0SjdzaTJ6WXVzT0tSbkZ4YWdsOUVkUmhaZDhHaVhQbDNsTjlJTnF6MVZCTWhXakdlbmdOa2lxdk5tM2pjTldINmRYYjczb1laYzVaWTBoMElNRHhZOVhnZlhmakJVSk03OGhMc1J3?oc=5)
+
+2026-05-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[新唐人亞太電視台](https://news.google.com/rss/articles/CBMiigNBVV95cUxPUUlsTmZ0R0Q2QVlDZG1IWVNrTTBFMEIxY2doWERtUkdyaE1Xc0IwT1pzOVRVU016SURGSlhsOGEzWldiUkJQdGVScktaREJEQTY4M1hIVE9yYTVKdDRzQ3pQS0M3Z0pDeXJjR3Iwb3FLanJkd3RlZ09kV1ZBS3RwUjRKMFBIalBwQkFEX2FXcGdhRVVRenNLc0JSOTdRTHlrUjhTVkVwZXRhMlIySTVqenctS1l2b3EzczdaWW4yUms0empPU3E3ZUxlT2ZLTkRKMmFLaS1LTmZhaUJXRkZwYVFYT3dvN1U3bGR2RXpFTkgyU2xkc21zYWtPNFVSRnEwbU9pOFU5QmstTHR5bV9zSHVMMW1STTFGME45MGI1VlUtV3Y0SjdzaTJ6WXVzT0tSbkZ4YWdsOUVkUmhaZDhHaVhQbDNsTjlJTnF6MVZCTWhXakdlbmdOa2lxdk5tM2pjTldINmRYYjczb1laYzVaWTBoMElNRHhZOVhnZlhmakJVSk03OGhMc1J3?oc=5)
+
+---
 
 ### [研究：某種「久坐方式」恐比其他坐法更易增失智風險- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTE9PNkYzVFJnSUZ2WllXT3JfcnZvRmllblptYklobTd3VWZ3VGtBVGRrS1I1VWZySDRYall1MXRBOFB2UnRreVloRmF6LXpnRlpxb05hSDhSejVDbGR5Nm1BQk15Z3dJNDROZzJFOVFB?oc=5)
 
@@ -59,19 +67,19 @@ permalink: /news/gefitinib/
 
 ---
 
-### [台灣每日48人確診失智！「麥得飲食」可降53％風險](https://news.google.com/rss/articles/CBMiqAJBVV95cUxOWVllVnFORnpwUUdlZVFZemI1X0hxUnR5YnE5d1Vtc0lrRDNsa0FjNWlFQmJDT0wxNmltUmtyYWoySEN4cnVDV0N2UVZ3VnRXVGlMYk9EaERNTk5PVWJMSko5eHF3bE1LamNEZGI1RkZqaGU5czBBWGtJVTlUVjlUSnJ3dEM5eHVNY2xHOElOX1FQUkJXdnV1dTYxSnZfdkVsaGFBTGVmbEpEclhXd1RHM0xqejEtZmdMajhtb3h2d0ltX2xObTExM25GcTZpX2NiamhyZDRpMExSMVJMX1VhcFh1NGM5bEpFcjRQc2hlX1kzOTVZQkhaWWlBa0VIckRXeEs5UG55d214WEt4X2hpZzlyQmdHOFFjZEZlQk0waGtzMEdwNGZKVg?oc=5)
-
-2026-05-26 <span class="news-indication-tag">失智</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiqAJBVV95cUxOWVllVnFORnpwUUdlZVFZemI1X0hxUnR5YnE5d1Vtc0lrRDNsa0FjNWlFQmJDT0wxNmltUmtyYWoySEN4cnVDV0N2UVZ3VnRXVGlMYk9EaERNTk5PVWJMSko5eHF3bE1LamNEZGI1RkZqaGU5czBBWGtJVTlUVjlUSnJ3dEM5eHVNY2xHOElOX1FQUkJXdnV1dTYxSnZfdkVsaGFBTGVmbEpEclhXd1RHM0xqejEtZmdMajhtb3h2d0ltX2xObTExM25GcTZpX2NiamhyZDRpMExSMVJMX1VhcFh1NGM5bEpFcjRQc2hlX1kzOTVZQkhaWWlBa0VIckRXeEs5UG55d214WEt4X2hpZzlyQmdHOFFjZEZlQk0waGtzMEdwNGZKVg?oc=5)
-
----
-
 ### [失智症最早警訊恐非健忘 研究：很多人先開始聞不到味道](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzY2NXMTVaVFEyX2tjOV9ORUFEUlBoQi11TDJRN0hLYlFJeGVtdk56cy0wdTRYckRsQzBNeDh3dkxSU3l3b2txbVZiR1NtNVZETWZZV2tadFlCQnppdHk2Qmx5TG7SAWpBVV95cUxOdjl0dEpFc3FmUG9oUXdPWUZxbDUtcFJsMVlmR3FaUzB3Z1AwVDNhaFByTXc4VVo1WmdsTm43LW1GWkhCYXVmUV9MUzJpdWtSNEFCQkJpUEFvUmdua1FQeUk4LUVIa0JqMnhn?oc=5)
 
 2026-05-26 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzY2NXMTVaVFEyX2tjOV9ORUFEUlBoQi11TDJRN0hLYlFJeGVtdk56cy0wdTRYckRsQzBNeDh3dkxSU3l3b2txbVZiR1NtNVZETWZZV2tadFlCQnppdHk2Qmx5TG7SAWpBVV95cUxOdjl0dEpFc3FmUG9oUXdPWUZxbDUtcFJsMVlmR3FaUzB3Z1AwVDNhaFByTXc4VVo1WmdsTm43LW1GWkhCYXVmUV9MUzJpdWtSNEFCQkJpUEFvUmdua1FQeUk4LUVIa0JqMnhn?oc=5)
+
+---
+
+### [45%失智可預防或延緩！專家曝「3超級食物」能保護大腦](https://news.google.com/rss/articles/CBMizAJBVV95cUxPN0V6NElJdHlTQzJLT2dhU3k5cVRBZ0xld1d1b3NsY3UwMGlsaWZxWnItY0xBZ0lSYzJfTE5GbXFTb3BhZ3FPQ3JnN203NzFrOHZHLWFRc3IzdWNsd3dSZElmX3VuUmJDX3pVYkhjZVB4SmpSSldQc3Fkd3hPdWFBOThzalhkYmRmVGxtWGxmdkExbi1GZjNONXMzM1lDTGdrc19GeUtWNTNYYUU4YkpKWWpnQzdTcTRuQVFLY2RVXzVzbTc1aEotTzlOMFZuU3V2Y2RoSDZBSFYyTElqcFlscXcybTBHY0owOG1mU0tncTVFSlVBUlBxWjhnWVRyTjd5Qm4yaGJtdG11TkQwRVJtS2prb1M3TVV0TmY3a1NsdWhUeGNoZWc5ZWRxNFJ0aVhuTnpOMjVkT3dBOS1vVTJKdmUxbnZZQldnRTJWUw?oc=5)
+
+2026-05-26 <span class="news-indication-tag">失智</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMizAJBVV95cUxPN0V6NElJdHlTQzJLT2dhU3k5cVRBZ0xld1d1b3NsY3UwMGlsaWZxWnItY0xBZ0lSYzJfTE5GbXFTb3BhZ3FPQ3JnN203NzFrOHZHLWFRc3IzdWNsd3dSZElmX3VuUmJDX3pVYkhjZVB4SmpSSldQc3Fkd3hPdWFBOThzalhkYmRmVGxtWGxmdkExbi1GZjNONXMzM1lDTGdrc19GeUtWNTNYYUU4YkpKWWpnQzdTcTRuQVFLY2RVXzVzbTc1aEotTzlOMFZuU3V2Y2RoSDZBSFYyTElqcFlscXcybTBHY0owOG1mU0tncTVFSlVBUlBxWjhnWVRyTjd5Qm4yaGJtdG11TkQwRVJtS2prb1M3TVV0TmY3a1NsdWhUeGNoZWc5ZWRxNFJ0aVhuTnpOMjVkT3dBOS1vVTJKdmUxbnZZQldnRTJWUw?oc=5)
 
 ---
 
