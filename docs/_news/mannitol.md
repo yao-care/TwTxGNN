@@ -43,11 +43,11 @@ permalink: /news/mannitol/
 
 ## 相關新聞（3 則）
 
-### [11 萬人追蹤數據揭露，8 種常見食品防腐劑恐推升高血壓、心血管疾病風險 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc3c4SmhOZE5PWXBKTF9WcXRUWVVhdlkxZVJYaTVhSmJVUmdwZWlQNEhzRXJLQlJwNzV4ODFnOEJSWVVsMkVMRVE5UXlzZTU1S0JqOWV1Q01fVnpiOV9MX1phb29iYVJoUlBoOFg1Q3Y3UzhZRklCbnprTnhoVEs5aGJYOU5sYkp3TVpz?oc=5)
+### [研究：加工食品防腐劑 可能增加心血管疾病風險](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DVEdXOEtWUlVGZ2JVUFM4elNaYm0xMGh5UGVvWjJIemVBYmJ5MTZBNTR6cVByVnpoQkJDdm02MjhvN0hQNk96dGNxelV6S3oyRUh0SHV0TXg0bF93aldRWHpXOHLSAWpBVV95cUxNNWhaNFRZQ09vRms3cktUSmZFUVpnODNTeVRqakNrVFBJTXNnRDBmd0w5eUtLY1Y1RUU2OHdlSzNuQ24wTlozYnY3MjBJb1hnMjJESTNWZ1Q2bVJ0Q0dKNkYxZzh2N2JzVmZ3?oc=5)
 
 2026-05-28 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">高血壓</span>
 
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc3c4SmhOZE5PWXBKTF9WcXRUWVVhdlkxZVJYaTVhSmJVUmdwZWlQNEhzRXJLQlJwNzV4ODFnOEJSWVVsMkVMRVE5UXlzZTU1S0JqOWV1Q01fVnpiOV9MX1phb29iYVJoUlBoOFg1Q3Y3UzhZRklCbnprTnhoVEs5aGJYOU5sYkp3TVpz?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DVEdXOEtWUlVGZ2JVUFM4elNaYm0xMGh5UGVvWjJIemVBYmJ5MTZBNTR6cVByVnpoQkJDdm02MjhvN0hQNk96dGNxelV6S3oyRUh0SHV0TXg0bF93aldRWHpXOHLSAWpBVV95cUxNNWhaNFRZQ09vRms3cktUSmZFUVpnODNTeVRqakNrVFBJTXNnRDBmd0w5eUtLY1Y1RUU2OHdlSzNuQ24wTlozYnY3MjBJb1hnMjJESTNWZ1Q2bVJ0Q0dKNkYxZzh2N2JzVmZ3?oc=5)
 
 ---
 

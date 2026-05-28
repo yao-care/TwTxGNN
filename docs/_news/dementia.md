@@ -3,7 +3,7 @@ layout: default
 title: "失智症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智症（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
-<strong>失智症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智症（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [研究：某種「久坐方式」恐比其他坐法更易增失智風險- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTE9PNkYzVFJnSUZ2WllXT3JfcnZvRmllblptYklobTd3VWZ3VGtBVGRrS1I1VWZySDRYall1MXRBOFB2UnRreVloRmF6LXpnRlpxb05hSDhSejVDbGR5Nm1BQk15Z3dJNDROZzJFOVFB?oc=5)
+### [上班族福音！新研究曝「這種久坐」可防失智症](https://news.google.com/rss/articles/CBMirwJBVV95cUxPZ1BESFd5RDdDRXJjSDQ3ek14elZfUEhBQXctTzk3X2tpUnBDVXJRMmpvY1pUcXFZR0dSbDlCMy1QamlwLTBMTTdoTUhYLUFPZ1pIak1rbURoYXF4R28xdU5XaG54dG45Q01leVFtQTFiR0k2azVLN2ZfS0MtZWFlQ2x2Y1RsdW5PZ3pEVmVlZC1nSTVaZnp0SlZNWGdCaldVaGFGNEliQzRFeUd4T3dMMTljZE5vOUpFcnhoTlA5c3hlSXVaUXVoM1hqbTU0djBrQjYzNFdTMzEwSGEyR014bGFZc3NmNVpWeDFnbkFHMnY2emJncUtDSlQzT2ctR1QxSlRXQVVhejZraXhjdGFZMDBzSnRTbTI5VmVkSEdPRmNmZWZwMk4zZG4zRldMRms?oc=5)
 
-2026-05-27
+2026-05-28
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE9PNkYzVFJnSUZ2WllXT3JfcnZvRmllblptYklobTd3VWZ3VGtBVGRrS1I1VWZySDRYall1MXRBOFB2UnRreVloRmF6LXpnRlpxb05hSDhSejVDbGR5Nm1BQk15Z3dJNDROZzJFOVFB?oc=5)
-
----
-
-### [失智風險「女比男高近2倍」！醫：更年期後風險大增](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wVlR5WHVkQWE0ZjcybmV3a3AwU3pIYkJ0VlVEVng4S1V4NkJoU21aMmcwenktU05oaVJxc3Ryc21lTmc2Rk5DNXJyVU9iVFozUTNZ?oc=5)
-
-2026-05-26
-
-來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wVlR5WHVkQWE0ZjcybmV3a3AwU3pIYkJ0VlVEVng4S1V4NkJoU21aMmcwenktU05oaVJxc3Ryc21lTmc2Rk5DNXJyVU9iVFozUTNZ?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMirwJBVV95cUxPZ1BESFd5RDdDRXJjSDQ3ek14elZfUEhBQXctTzk3X2tpUnBDVXJRMmpvY1pUcXFZR0dSbDlCMy1QamlwLTBMTTdoTUhYLUFPZ1pIak1rbURoYXF4R28xdU5XaG54dG45Q01leVFtQTFiR0k2azVLN2ZfS0MtZWFlQ2x2Y1RsdW5PZ3pEVmVlZC1nSTVaZnp0SlZNWGdCaldVaGFGNEliQzRFeUd4T3dMMTljZE5vOUpFcnhoTlA5c3hlSXVaUXVoM1hqbTU0djBrQjYzNFdTMzEwSGEyR014bGFZc3NmNVpWeDFnbkFHMnY2emJncUtDSlQzT2ctR1QxSlRXQVVhejZraXhjdGFZMDBzSnRTbTI5VmVkSEdPRmNmZWZwMk4zZG4zRldMRms?oc=5)
 
 ---
 

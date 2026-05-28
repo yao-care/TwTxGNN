@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
+
+### [上班族福音！新研究曝「這種久坐」可防失智症](https://news.google.com/rss/articles/CBMirwJBVV95cUxPZ1BESFd5RDdDRXJjSDQ3ek14elZfUEhBQXctTzk3X2tpUnBDVXJRMmpvY1pUcXFZR0dSbDlCMy1QamlwLTBMTTdoTUhYLUFPZ1pIak1rbURoYXF4R28xdU5XaG54dG45Q01leVFtQTFiR0k2azVLN2ZfS0MtZWFlQ2x2Y1RsdW5PZ3pEVmVlZC1nSTVaZnp0SlZNWGdCaldVaGFGNEliQzRFeUd4T3dMMTljZE5vOUpFcnhoTlA5c3hlSXVaUXVoM1hqbTU0djBrQjYzNFdTMzEwSGEyR014bGFZc3NmNVpWeDFnbkFHMnY2emJncUtDSlQzT2ctR1QxSlRXQVVhejZraXhjdGFZMDBzSnRTbTI5VmVkSEdPRmNmZWZwMk4zZG4zRldMRms?oc=5)
+
+2026-05-28 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMirwJBVV95cUxPZ1BESFd5RDdDRXJjSDQ3ek14elZfUEhBQXctTzk3X2tpUnBDVXJRMmpvY1pUcXFZR0dSbDlCMy1QamlwLTBMTTdoTUhYLUFPZ1pIak1rbURoYXF4R28xdU5XaG54dG45Q01leVFtQTFiR0k2azVLN2ZfS0MtZWFlQ2x2Y1RsdW5PZ3pEVmVlZC1nSTVaZnp0SlZNWGdCaldVaGFGNEliQzRFeUd4T3dMMTljZE5vOUpFcnhoTlA5c3hlSXVaUXVoM1hqbTU0djBrQjYzNFdTMzEwSGEyR014bGFZc3NmNVpWeDFnbkFHMnY2emJncUtDSlQzT2ctR1QxSlRXQVVhejZraXhjdGFZMDBzSnRTbTI5VmVkSEdPRmNmZWZwMk4zZG4zRldMRms?oc=5)
+
+---
 
 ### [通霄男性癌症死亡率高於女性2.7倍！ 衛生局5/31推免費大篩檢](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ud3JsbnVudGRHcndKZFYtRXJOYkVJMWxtcG8xUDZKMHVYcFMtRV9KZ2NFNTRfZGFmcm1wU2hyQjFSaVpvZlZIMkpoRi05M0haZ1dPc1l2V0VDYXFvQVhZajQ5OGTSAWpBVV95cUxNVUptY05ZRUNtdEZtS1M4QzctYWppN1hHZm1HRldjblBDeElxX2NDZVdlUkQ1N25VbkVxcERtZjFfcEFiT01SY2RLYlhxOThiM0NkUHcyZDNOQUhuOF9UNWJzd1RLZWZWOVdn?oc=5)
 
@@ -56,22 +64,6 @@ permalink: /news/gefitinib/
 2026-05-27 <span class="news-indication-tag">癌症</span>
 
 來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9abThaS3NPUG92M1ZGajZ5X1hydTEyMlV2VnE3U0lJNVk2NGZqeTJhYlJqeFFYQWRiaGV2VTU1dkpSWGdkR2dJcWl6czJJYVUwOFE?oc=5)
-
----
-
-### [研究：某種「久坐方式」恐比其他坐法更易增失智風險- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTE9PNkYzVFJnSUZ2WllXT3JfcnZvRmllblptYklobTd3VWZ3VGtBVGRrS1I1VWZySDRYall1MXRBOFB2UnRreVloRmF6LXpnRlpxb05hSDhSejVDbGR5Nm1BQk15Z3dJNDROZzJFOVFB?oc=5)
-
-2026-05-27 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE9PNkYzVFJnSUZ2WllXT3JfcnZvRmllblptYklobTd3VWZ3VGtBVGRrS1I1VWZySDRYall1MXRBOFB2UnRreVloRmF6LXpnRlpxb05hSDhSejVDbGR5Nm1BQk15Z3dJNDROZzJFOVFB?oc=5)
-
----
-
-### [失智風險「女比男高近2倍」！醫：更年期後風險大增](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wVlR5WHVkQWE0ZjcybmV3a3AwU3pIYkJ0VlVEVng4S1V4NkJoU21aMmcwenktU05oaVJxc3Ryc21lTmc2Rk5DNXJyVU9iVFozUTNZ?oc=5)
-
-2026-05-26 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
-
-來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wVlR5WHVkQWE0ZjcybmV3a3AwU3pIYkJ0VlVEVng4S1V4NkJoU21aMmcwenktU05oaVJxc3Ryc21lTmc2Rk5DNXJyVU9iVFozUTNZ?oc=5)
 
 ---
 
