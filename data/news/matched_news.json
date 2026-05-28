@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-05-28T10:45:40.597043+00:00",
-  "total_count": 30,
+  "last_updated": "2026-05-28T14:29:48.528812+00:00",
+  "total_count": 29,
   "matched_count": 11,
   "news": [
+    {
+      "id": "4054507c38d8",
+      "title": "菜花與梅毒會同時感染？ 醫：確診其中一種應同步篩檢",
+      "published": "2026-05-28T09:33:41+00:00",
+      "summary": "菜花與梅毒會同時感染？ 醫：確診其中一種應同步篩檢&nbsp;&nbsp;品觀點",
+      "sources": [
+        {
+          "name": "品觀點",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCUjVZTzVOYWNyckQ4VlJGZzA0cXg4UEpRZU5VNFlZRlhGc1hoQm94dVRKY1lOeVotZnN1NFg3MVk4VnZpdXVGVm5PVmhGN0ljQUVIOA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "ed24fb5fa200",
       "title": "上班族福音！新研究曝「這種久坐」可防失智症",
@@ -69,7 +82,7 @@
       "id": "e3f44b1603f7",
       "title": "鼻塞、喉嚨痛不一定只是感冒！醫示警：「這種病毒」感染後恐潛伏數十年，與鼻咽癌有關",
       "published": "2026-05-28T07:30:21+00:00",
-      "summary": "鼻塞、喉嚨痛不一定只是感冒！醫示警：「這種病毒」感染後恐潛伏數十年，與鼻咽癌有關&nbsp;&nbsp;良醫健康網輔仁大學跨國研究發現新型EB病毒抗體檢測標記 可提升鼻咽癌早期篩檢準確性&nbsp;&nbsp;Yahoo新聞前副總統陳建仁帶領輔大參與跨國研究 靠「抽血」揪出早期鼻咽癌&nbsp;&nbsp;自由健康網鼻咽癌篩查｜部分鼻咽癌患者完全沒有病徵，但早期發現存活率可達9成！「鼻咽癌次世代基因檢查」如何增加測試靈敏度？&nbsp;&nbsp;etnet 經濟通",
+      "summary": "鼻塞、喉嚨痛不一定只是感冒！醫示警：「這種病毒」感染後恐潛伏數十年，與鼻咽癌有關&nbsp;&nbsp;良醫健康網輔仁大學跨國研究發現新型EB病毒抗體檢測標記 可提升鼻咽癌早期篩檢準確性&nbsp;&nbsp;Yahoo新聞鼻咽癌篩查｜部分鼻咽癌患者完全沒有病徵，但早期發現存活率可達9成！「鼻咽癌次世代基因檢查」如何增加測試靈敏度？&nbsp;&nbsp;etnet 經濟通前副總統陳建仁帶領輔大參與跨國研究 靠「抽血」揪出早期鼻咽癌&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "良醫健康網",
@@ -102,14 +115,27 @@
       ]
     },
     {
-      "id": "985d77ae46d7",
-      "title": "研究：加工食品防腐劑 可能增加心血管疾病風險",
-      "published": "2026-05-28T07:02:00+00:00",
-      "summary": "研究：加工食品防腐劑 可能增加心血管疾病風險&nbsp;&nbsp;自由健康網名醫苦勸：這些食物不要碰！小心害得糖尿病、腎臟病 很多人天天吃&nbsp;&nbsp;Yahoo新聞11 萬人追蹤數據揭露，8 種常見食品防腐劑恐推升高血壓、心血管疾病風險&nbsp;&nbsp;TechNews 科技新報優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險&nbsp;&nbsp;UDN心臟外科醫生提醒！這5類食物最好少吃：追劇標配竟是健康殺手&nbsp;&nbsp;祝你健康",
+      "id": "983d94f91b7e",
+      "title": "伊波拉和漢坦疫情為何令科學家困惑- 紐約時報中文網",
+      "published": "2026-05-28T05:56:37+00:00",
+      "summary": "伊波拉和漢坦疫情為何令科學家困惑- 紐約時報中文網&nbsp;&nbsp;纽约时报中文网前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DVEdXOEtWUlVGZ2JVUFM4elNaYm0xMGh5UGVvWjJIemVBYmJ5MTZBNTR6cVByVnpoQkJDdm02MjhvN0hQNk96dGNxelV6S3oyRUh0SHV0TXg0bF93aldRWHpXOHLSAWpBVV95cUxNNWhaNFRZQ09vRms3cktUSmZFUVpnODNTeVRqakNrVFBJTXNnRDBmd0w5eUtLY1Y1RUU2OHdlSzNuQ24wTlozYnY3MjBJb1hnMjJESTNWZ1Q2bVJ0Q0dKNkYxZzh2N2JzVmZ3?oc=5"
+          "name": "纽约时报中文网",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU1lTEhxeG02Q1BYaGFvY01JSjl4dl9NS2ZaYWdSNzFybTZUMm1lb3Z0S3M3TVBDYXJyOFpPQzJ3MGI4Zzlkei1KYWtHU1E2dmRVbmY3djZXUnVZdEktTElmNE81VXgxazJSTDVTOFVFa3JscFJKQkQ4R3puekp0UGcxM25XdDA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c7dec02d65c0",
+      "title": "11 萬人追蹤數據揭露，8 種常見食品防腐劑恐推升高血壓、心血管疾病風險 - TechNews 科技新報",
+      "published": "2026-05-28T05:29:24+00:00",
+      "summary": "11 萬人追蹤數據揭露，8 種常見食品防腐劑恐推升高血壓、心血管疾病風險&nbsp;&nbsp;TechNews 科技新報研究：加工食品防腐劑 可能增加心血管疾病風險&nbsp;&nbsp;自由健康網名醫苦勸：這些食物不要碰！小心害得糖尿病、腎臟病 很多人天天吃&nbsp;&nbsp;Yahoo新聞優格、果汁也中標！ 研究：常見防腐劑恐增心臟病風險&nbsp;&nbsp;UDN心臟外科醫生提醒！這5類食物最好少吃：追劇標配竟是健康殺手&nbsp;&nbsp;祝你健康",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc3c4SmhOZE5PWXBKTF9WcXRUWVVhdlkxZVJYaTVhSmJVUmdwZWlQNEhzRXJLQlJwNzV4ODFnOEJSWVVsMkVMRVE5UXlzZTU1S0JqOWV1Q01fVnpiOV9MX1phb29iYVJoUlBoOFg1Q3Y3UzhZRklCbnprTnhoVEs5aGJYOU5sYkp3TVpz?oc=5"
         }
       ],
       "matched_keywords": [
@@ -212,36 +238,10 @@
       ]
     },
     {
-      "id": "983d94f91b7e",
-      "title": "伊波拉和漢坦疫情為何令科學家困惑- 紐約時報中文網",
-      "published": "2026-05-28T05:56:37+00:00",
-      "summary": "伊波拉和漢坦疫情為何令科學家困惑- 紐約時報中文網&nbsp;&nbsp;纽约时报中文网前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "纽约时报中文网",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU1lTEhxeG02Q1BYaGFvY01JSjl4dl9NS2ZaYWdSNzFybTZUMm1lb3Z0S3M3TVBDYXJyOFpPQzJ3MGI4Zzlkei1KYWtHU1E2dmRVbmY3djZXUnVZdEktTElmNE81VXgxazJSTDVTOFVFa3JscFJKQkQ4R3puekp0UGcxM25XdDA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b498e5a24384",
-      "title": "癌細胞還沒消滅免疫細胞先累了 研究找到CAR-T「疲乏開關」 | 自由電子報 - LINE TODAY",
-      "published": "2026-05-28T05:02:39+00:00",
-      "summary": "癌細胞還沒消滅免疫細胞先累了 研究找到CAR-T「疲乏開關」 | 自由電子報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SUWtUVkNvenI2MXlmd053d1FzM3gwdTFPTlRaQjY1VHkxbEEyX0dHU05Ca1JLS2FlcHR4UkRpU2tWMjNJalhacHVCYnBGQllqUTQ1aHp3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "b36f8d48b8b1",
       "title": "更年期骨質流失加速醫示警：5至7年恐剩七成骨量(註1) 停經後死亡風險增15倍(註2) 籲逆轉骨齡三關鍵：精準吸收、定期檢測、規律運動缺一不可",
       "published": "2026-05-28T03:51:50+00:00",
-      "summary": "更年期骨質流失加速醫示警：5至7年恐剩七成骨量(註1) 停經後死亡風險增15倍(註2) 籲逆轉骨齡三關鍵：精準吸收、定期檢測、規律運動缺一不可&nbsp;&nbsp;良醫健康網腰痠背痛別只當老化 醫示警：停經後5年骨量恐大減3成&nbsp;&nbsp;自由健康網別再狂吃菠菜防骨鬆！醫推「補鈣神隊友」：這3種蔬菜更實用- 營養好食&nbsp;&nbsp;TVBS 健康2.0變矮超過3公分要小心！醫揭骨質疏鬆3警訊：「駝、矮、痛」別忽略- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞醫揭「保骨」黃金「這」運動！讓骨頭「吃到力」才是對抗骨鬆的關鍵&nbsp;&nbsp;四季線上4gTV",
+      "summary": "更年期骨質流失加速醫示警：5至7年恐剩七成骨量(註1) 停經後死亡風險增15倍(註2) 籲逆轉骨齡三關鍵：精準吸收、定期檢測、規律運動缺一不可&nbsp;&nbsp;良醫健康網腰痠背痛別只當老化 醫示警：停經後5年骨量恐大減3成&nbsp;&nbsp;自由健康網別再狂吃菠菜防骨鬆！醫推「補鈣神隊友」：這3種蔬菜更強大- 營養好食&nbsp;&nbsp;TVBS 健康2.0變矮超過3公分要小心！醫揭骨質疏鬆3警訊：「駝、矮、痛」別忽略- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞醫揭「保骨」黃金「這」運動！讓骨頭「吃到力」才是對抗骨鬆的關鍵&nbsp;&nbsp;四季線上4gTV",
       "sources": [
         {
           "name": "良醫健康網",
@@ -939,6 +939,19 @@
       ]
     },
     {
+      "id": "490b35dd87db",
+      "title": "肥胖不只傷內臟！新 AI 身體描圖發現意外受損的神經部位 | 科技新報 - LINE TODAY",
+      "published": "2026-05-27T08:08:42+00:00",
+      "summary": "肥胖不只傷內臟！新 AI 身體描圖發現意外受損的神經部位 | 科技新報&nbsp;&nbsp;LINE TODAY肥胖不只傷內臟！新 AI 身體描圖發現意外受損的神經部位&nbsp;&nbsp;TechNews 科技新報新AI人體圖揭示肥胖對面神經的隱藏攻擊&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTRktWMFpEZGlVR1FCTjlVNzhLY0QtQ19UVzEtcXlTNXAzSXdxVWlaT3pJRnJhSktzM3RfaWRqTENJSkpNc3cxcW5lQWlPMXFvNDNkbTdR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "447ee5a73a1e",
       "title": "美甲風險｜女子頻做Gel甲 指甲邊生疣揭染HPV 醫生警告：用酒精消毒都無用【附5大護甲貼士】",
       "published": "2026-05-27T08:06:30+00:00",
@@ -955,7 +968,7 @@
       "id": "a3afc10c1aa1",
       "title": "狂補水還是中暑醫曝喝水5法則：少一樣還是出狀況- 健康",
       "published": "2026-05-27T07:43:59+00:00",
-      "summary": "狂補水還是中暑醫曝喝水5法則：少一樣還是出狀況- 健康&nbsp;&nbsp;中時新聞網天熱光喝水沒用，醫提醒別低估電解質失衡危險！留意6個脫水隱藏跡象&nbsp;&nbsp;元氣網夏天只喝水恐出事！醫揭：電解質失衡嚴重可能昏迷&nbsp;&nbsp;Yahoo新聞體感溫度持續飆高，從補水到睡眠溫度，十招幫你有效降溫疏導暑氣！&nbsp;&nbsp;GQ Taiwan夏天猛補水「少做1事」仍中暑 醫揭5大正確喝水法：別等到口渴才喝&nbsp;&nbsp;祝你健康",
+      "summary": "狂補水還是中暑醫曝喝水5法則：少一樣還是出狀況- 健康&nbsp;&nbsp;中時新聞網天熱光喝水沒用，醫提醒別低估電解質失衡危險！留意6個脫水隱藏跡象&nbsp;&nbsp;元氣網體感溫度持續飆高，從補水到睡眠溫度，十招幫你有效降溫疏導暑氣！&nbsp;&nbsp;GQ Taiwan夏天猛補水「少做1事」仍中暑 醫揭5大正確喝水法：別等到口渴才喝&nbsp;&nbsp;祝你健康熱到快中暑！ 狂喝水不是唯一解答？「喝對時間」才能遠離熱昏頭風險&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "中時新聞網",
@@ -1065,19 +1078,6 @@
       "matched_keywords": []
     },
     {
-      "id": "d28fa8111f21",
-      "title": "肥胖不只傷內臟！新 AI 身體描圖發現意外受損的神經部位 - TechNews 科技新報",
-      "published": "2026-05-26T23:45:13+00:00",
-      "summary": "肥胖不只傷內臟！新 AI 身體描圖發現意外受損的神經部位&nbsp;&nbsp;TechNews 科技新報新AI人體圖揭示肥胖對面神經的隱藏攻擊&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNF9SUml3RUFrdG91cmR6Yi1BVjZ2UkVDUy11a3FRZ3hjcUZKTkhMampXcndjTEtnRjBzTnd1eElpVWJ3RnlrMjhiRm80alY5SDYyRlRIeS05alhkTXgycnRFY0pRTkpjNEZFZGZkaUlVTW5PS1NhRUtCX2hJbXVLX2tldGJHTUxHdm8ydzIyQmFOa3FTY2lUcHVoUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "02829acf1a6b",
       "title": "大蒜不只驅蚊，耶魯研究：關鍵化合物可讓害蟲絕育 - TechNews 科技新報",
       "published": "2026-05-26T23:25:13+00:00",
@@ -1099,19 +1099,6 @@
         {
           "name": "明報新聞網",
           "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQVUgtai1LZldfQlVEb0lEUkN1S3FGYkxEM2V2UFMzczRTWmpvNFRWbnY4cVdqNkF2Z1BaQzdNd0NEeWczWGticDhVT0pVZklTbVlMeUxTRERndUtPcm04OWdsSE5OTkVKblVlQTAyOS1kZDMxaTQ1Tk5acXdrdU83S01RM01vcmVtV1l1dWhRZy0tZldwNFh5VnVKU25lVHhwZy1uNWlhbU9aLUc5UXBHMEJhd2xYNTBKT29UNXB3VXhwajFROEtGZFAtejFweGJzTjBBVXZFMmlSTDhFOGYtaUs4bFI0THdud0lQQzBiX182ZUlMMS1RMGxGVkNHc2s2dGFjU2RZTDRDaml0ZTU2V1k1LUh3M0dpMjhwNkt2ZXZqN3l5Rm5yeW1aNTM?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "02c773a310bf",
-      "title": "手足口病又爆發？原因、症狀全攻略！家長必收藏4個預防tips",
-      "published": "2026-05-26T10:53:57+00:00",
-      "summary": "手足口病又爆發？原因、症狀全攻略！家長必收藏4個預防tips&nbsp;&nbsp;shemom.com",
-      "sources": [
-        {
-          "name": "shemom.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTS1QQlQyNFVpZkxpa3Q5N3dWem96ejlkTklkdXI0SU9OTXIxS05hMFZMQndhbEJlS1ZsNGVpVzJSR0NyeE1ndE82RnQtcnI4a3BiaEpQa1ZwQ1gwd0Q4aEtjRFVLUEZ2dk5oSDZ0a1VZOG93U3dza1k5SUlOVW1lTjlKYTdfWEhscGJTMVBxUGw1V2E3X0NOOU1sMC1qSFhURGdZbkgtRGlOcUg5T3Q1dUx6bFQ?oc=5"
         }
       ],
       "matched_keywords": []
