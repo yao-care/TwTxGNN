@@ -37,11 +37,11 @@ permalink: /news/female-breast-carcinoma/
 
 ## 相關新聞（2 則）
 
-### [乳過天晴｜吸煙增乳癌風險](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZNXJRa2syczU2c0VIN1NRbmg2dG1zYTdKZmRWdkxPcjdUU3lGY005dEg2cFpWNm1wTUMxOUREeEh2dXNjRTdmeDkyVEFuU1pXUVE?oc=5)
+### [乳過天晴｜吸煙增乳癌風險](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa3A2NzRtMFFtQjUyY01DT1FLV0NURUhTX2hjMjNmblF0MEdKeVZwVXN1dkFxbThIVVZfaW1Ec1VDOXVxT0FCeFR3WXVSN3VMZDB4b1ZlWV9lWXdvNjZOaXQtT3R6aG45ZzdkWTFNMzVrb194SmlWdE5JT3Jqcmc0QWliNFJXSGhvS1pxa0hzR0ZPZ215czZXY0VtTG1ncXhwSVdWd1dBRFQtdGYtM0xOOE9HT1pYMU1sbklWNHRyNXpkenQyaUsxbWlzaDdUSTNWc1AtV1VJbGZIdERTcTNhaHRn?oc=5)
 
 2026-05-27
 
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZNXJRa2syczU2c0VIN1NRbmg2dG1zYTdKZmRWdkxPcjdUU3lGY005dEg2cFpWNm1wTUMxOUREeEh2dXNjRTdmeDkyVEFuU1pXUVE?oc=5)
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa3A2NzRtMFFtQjUyY01DT1FLV0NURUhTX2hjMjNmblF0MEdKeVZwVXN1dkFxbThIVVZfaW1Ec1VDOXVxT0FCeFR3WXVSN3VMZDB4b1ZlWV9lWXdvNjZOaXQtT3R6aG45ZzdkWTFNMzVrb194SmlWdE5JT3Jqcmc0QWliNFJXSGhvS1pxa0hzR0ZPZ215czZXY0VtTG1ncXhwSVdWd1dBRFQtdGYtM0xOOE9HT1pYMU1sbklWNHRyNXpkenQyaUsxbWlzaDdUSTNWc1AtV1VJbGZIdERTcTNhaHRn?oc=5)
 
 ---
 
