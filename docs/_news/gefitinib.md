@@ -59,11 +59,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [失智風險「女比男高近2倍」！醫：更年期後風險大增](https://news.google.com/rss/articles/CBMivAJBVV95cUxOZC1kZVN1V3lLTnJVdnh0NU5kbVVRU2duZ1pJUWRtQUxpYkk4NGtTUzBCOHhXRjA1WV9teC02RUx6aHE2NTA1MDhPdUtValFIelRSZmt4V3BQWkRRTThld19IU0lXaDNFcFlmZjdsc0tnTzRldWNXb1VPcGxpQnIwbl9MVHNObDg5UUtMZkFxdGFHNXlvSDA4THZWU0RBanBSeHpqMFVYWk04XzZnTmJCZXhiYXpZT0hHZnVRb2VaaWZwbGI2cFZuMjN5RU9OdURYdDhLLTdlRGo5T3lQNzlvRGZVSFdrdFpOT0xXb0lpOGlIeEcxUlBfdlFZU0ozT1BRYlNnUUY2dUhfdlRfbVY4NjRKZGZsZ1p1ODdLVV9xZjlIODRKUWlWejlLNVpMSmhhaV9VN0Ixc3hDLTNU?oc=5)
+### [失智風險「女比男高近2倍」！醫：更年期後風險大增](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wVlR5WHVkQWE0ZjcybmV3a3AwU3pIYkJ0VlVEVng4S1V4NkJoU21aMmcwenktU05oaVJxc3Ryc21lTmc2Rk5DNXJyVU9iVFozUTNZ?oc=5)
 
-2026-05-26 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
+2026-05-26 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">腦血管</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMivAJBVV95cUxOZC1kZVN1V3lLTnJVdnh0NU5kbVVRU2duZ1pJUWRtQUxpYkk4NGtTUzBCOHhXRjA1WV9teC02RUx6aHE2NTA1MDhPdUtValFIelRSZmt4V3BQWkRRTThld19IU0lXaDNFcFlmZjdsc0tnTzRldWNXb1VPcGxpQnIwbl9MVHNObDg5UUtMZkFxdGFHNXlvSDA4THZWU0RBanBSeHpqMFVYWk04XzZnTmJCZXhiYXpZT0hHZnVRb2VaaWZwbGI2cFZuMjN5RU9OdURYdDhLLTdlRGo5T3lQNzlvRGZVSFdrdFpOT0xXb0lpOGlIeEcxUlBfdlFZU0ozT1BRYlNnUUY2dUhfdlRfbVY4NjRKZGZsZ1p1ODdLVV9xZjlIODRKUWlWejlLNVpMSmhhaV9VN0Ixc3hDLTNU?oc=5)
+來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wVlR5WHVkQWE0ZjcybmV3a3AwU3pIYkJ0VlVEVng4S1V4NkJoU21aMmcwenktU05oaVJxc3Ryc21lTmc2Rk5DNXJyVU9iVFozUTNZ?oc=5)
 
 ---
 

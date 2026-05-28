@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [更年期骨質流失加速醫示警：5至7年恐剩七成骨量停經後死亡風險增15倍籲逆轉骨齡三關鍵：精準吸收、定期檢測、規律運動缺一不可](https://news.google.com/rss/articles/CBMiiAZBVV95cUxOMXM3VlZyZkpKT1N2dHZPYUhWZ0I2NUE2eUxnSXZWblRPcW54RWhNbi1LR0RmZjZCUEg4MnZGdC1IQURPVW1zeEFPUWw0RTN5MEdWQmgzZlhJX2wzb2VtRldYMlNvTmYtOWxrS3R1Q2Z0Qm1oRXltVjN3NmpVNVY5Z19NSkNuR2pJZVJtN2RWQzg4OWczM0dCNFpZLTl2VU83SWo0emo0ZE90QUVMNVlYTko2S3djbEQ2T2ZmZjNXX0V6SEdJWFUwc1FFcnR5SHpRM2NBWjlHdlJycDRtLS1pcHRuQjN2bkFoYVNQbzdyQm5Cc2RCME4zYndmNFp4S0F2czdaWGNsbDhSNFR1UG9iYlU1aTdmZVoyWDJmcWptOVh2SnFCQ0RUYVpEWGJQVWl2aHhTYWQyNy1PZml1bzVqaUhPTE94b2tqaTdHbFBFbnZTLWVRWDZZS2dpNVU3QjlZTEFkWkFmbUx5aVd3bVRJMU50ZmNMWFBNWF82RlhmX2Y4N3ViX044MVFvdGNDZU01dlhjLWs3TzlFLWpqVTFYeWxjai03ald4clhYdExybUF4d2JGUC1sQWZvVHlabHItUTFnX2I4UW5ZY09HWHNKbVNxaEsyMklQcHpNYkZrVjAzVUtOVS1jdTRmQ0kzRnRsOVZSaG1uXzJnLU9nVURrWjEwZlpJZ1h6c3R0MUJOWWNSS2NKc2VETEJIVHBIeXVtT0EyQnU3Z2tnTnhRUkdndXA2cWszQlFNajJSUXA4eTV2ZzlYQmNFSVNTazFueXg0bG85N2tCY29McXZ3b0UtdW11VmI1c2p0RW4xN2l0ZWxtRWI4d2tOSGFPS2ZVN2JYSWNpcm45M01EdUtXalc0LTd4dlB2RFBXa1lmejBMSW9EdTFTeTNNM0lOMHFDZkRYTlNhYVZqSHpUenVYcFVzS0dPUk9IZVFiV0xkb3lVN2psa2pwcUU0c25Ba0ZsYVg2emtReXpLUXFuNVJJN2tWZmcwM2ZfUVFTLTNycC1tYXpmemJmWlpGdg?oc=5)
+
+2026-05-28 <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiiAZBVV95cUxOMXM3VlZyZkpKT1N2dHZPYUhWZ0I2NUE2eUxnSXZWblRPcW54RWhNbi1LR0RmZjZCUEg4MnZGdC1IQURPVW1zeEFPUWw0RTN5MEdWQmgzZlhJX2wzb2VtRldYMlNvTmYtOWxrS3R1Q2Z0Qm1oRXltVjN3NmpVNVY5Z19NSkNuR2pJZVJtN2RWQzg4OWczM0dCNFpZLTl2VU83SWo0emo0ZE90QUVMNVlYTko2S3djbEQ2T2ZmZjNXX0V6SEdJWFUwc1FFcnR5SHpRM2NBWjlHdlJycDRtLS1pcHRuQjN2bkFoYVNQbzdyQm5Cc2RCME4zYndmNFp4S0F2czdaWGNsbDhSNFR1UG9iYlU1aTdmZVoyWDJmcWptOVh2SnFCQ0RUYVpEWGJQVWl2aHhTYWQyNy1PZml1bzVqaUhPTE94b2tqaTdHbFBFbnZTLWVRWDZZS2dpNVU3QjlZTEFkWkFmbUx5aVd3bVRJMU50ZmNMWFBNWF82RlhmX2Y4N3ViX044MVFvdGNDZU01dlhjLWs3TzlFLWpqVTFYeWxjai03ald4clhYdExybUF4d2JGUC1sQWZvVHlabHItUTFnX2I4UW5ZY09HWHNKbVNxaEsyMklQcHpNYkZrVjAzVUtOVS1jdTRmQ0kzRnRsOVZSaG1uXzJnLU9nVURrWjEwZlpJZ1h6c3R0MUJOWWNSS2NKc2VETEJIVHBIeXVtT0EyQnU3Z2tnTnhRUkdndXA2cWszQlFNajJSUXA4eTV2ZzlYQmNFSVNTazFueXg0bG85N2tCY29McXZ3b0UtdW11VmI1c2p0RW4xN2l0ZWxtRWI4d2tOSGFPS2ZVN2JYSWNpcm45M01EdUtXalc0LTd4dlB2RFBXa1lmejBMSW9EdTFTeTNNM0lOMHFDZkRYTlNhYVZqSHpUenVYcFVzS0dPUk9IZVFiV0xkb3lVN2psa2pwcUU0c25Ba0ZsYVg2emtReXpLUXFuNVJJN2tWZmcwM2ZfUVFTLTNycC1tYXpmemJmWlpGdg?oc=5)
+
+---
 
 ### [乳過天晴｜吸煙增乳癌風險](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZNXJRa2syczU2c0VIN1NRbmg2dG1zYTdKZmRWdkxPcjdUU3lGY005dEg2cFpWNm1wTUMxOUREeEh2dXNjRTdmeDkyVEFuU1pXUVE?oc=5)
 
@@ -68,11 +76,11 @@ permalink: /news/paclitaxel/
 
 ---
 
-### [失智風險「女比男高近2倍」！醫：更年期後風險大增](https://news.google.com/rss/articles/CBMivAJBVV95cUxOZC1kZVN1V3lLTnJVdnh0NU5kbVVRU2duZ1pJUWRtQUxpYkk4NGtTUzBCOHhXRjA1WV9teC02RUx6aHE2NTA1MDhPdUtValFIelRSZmt4V3BQWkRRTThld19IU0lXaDNFcFlmZjdsc0tnTzRldWNXb1VPcGxpQnIwbl9MVHNObDg5UUtMZkFxdGFHNXlvSDA4THZWU0RBanBSeHpqMFVYWk04XzZnTmJCZXhiYXpZT0hHZnVRb2VaaWZwbGI2cFZuMjN5RU9OdURYdDhLLTdlRGo5T3lQNzlvRGZVSFdrdFpOT0xXb0lpOGlIeEcxUlBfdlFZU0ozT1BRYlNnUUY2dUhfdlRfbVY4NjRKZGZsZ1p1ODdLVV9xZjlIODRKUWlWejlLNVpMSmhhaV9VN0Ixc3hDLTNU?oc=5)
+### [失智風險「女比男高近2倍」！醫：更年期後風險大增](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wVlR5WHVkQWE0ZjcybmV3a3AwU3pIYkJ0VlVEVng4S1V4NkJoU21aMmcwenktU05oaVJxc3Ryc21lTmc2Rk5DNXJyVU9iVFozUTNZ?oc=5)
 
-2026-05-26 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
+2026-05-26 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">腦血管</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMivAJBVV95cUxOZC1kZVN1V3lLTnJVdnh0NU5kbVVRU2duZ1pJUWRtQUxpYkk4NGtTUzBCOHhXRjA1WV9teC02RUx6aHE2NTA1MDhPdUtValFIelRSZmt4V3BQWkRRTThld19IU0lXaDNFcFlmZjdsc0tnTzRldWNXb1VPcGxpQnIwbl9MVHNObDg5UUtMZkFxdGFHNXlvSDA4THZWU0RBanBSeHpqMFVYWk04XzZnTmJCZXhiYXpZT0hHZnVRb2VaaWZwbGI2cFZuMjN5RU9OdURYdDhLLTdlRGo5T3lQNzlvRGZVSFdrdFpOT0xXb0lpOGlIeEcxUlBfdlFZU0ozT1BRYlNnUUY2dUhfdlRfbVY4NjRKZGZsZ1p1ODdLVV9xZjlIODRKUWlWejlLNVpMSmhhaV9VN0Ixc3hDLTNU?oc=5)
+來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wVlR5WHVkQWE0ZjcybmV3a3AwU3pIYkJ0VlVEVng4S1V4NkJoU21aMmcwenktU05oaVJxc3Ryc21lTmc2Rk5DNXJyVU9iVFozUTNZ?oc=5)
 
 ---
 

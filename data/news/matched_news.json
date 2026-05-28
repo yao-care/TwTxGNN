@@ -1,8 +1,68 @@
 {
-  "last_updated": "2026-05-27T23:54:46.842830+00:00",
-  "total_count": 28,
-  "matched_count": 9,
+  "last_updated": "2026-05-28T02:13:23.641267+00:00",
+  "total_count": 27,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "602e59548850",
+      "title": "更年期骨質流失加速醫示警：5至7年恐剩七成骨量停經後死亡風險增15倍籲逆轉骨齡三關鍵：精準吸收、定期檢測、規律運動缺一不可",
+      "published": "2026-05-28T01:52:30+00:00",
+      "summary": "更年期骨質流失加速醫示警：5至7年恐剩七成骨量停經後死亡風險增15倍籲逆轉骨齡三關鍵：精準吸收、定期檢測、規律運動缺一不可&nbsp;&nbsp;Yahoo新聞骨質「無聲流失」卻致命 醫示警：停經後死亡風險飆15倍&nbsp;&nbsp;祝你健康更年期骨質雪崩有多快？醫曝骨本5年流失率…增15倍死亡風險&nbsp;&nbsp;UDN變矮超過3公分要小心！醫揭骨質疏鬆3警訊：「駝、矮、痛」別忽略- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞醫揭「保骨」黃金「這」運動！讓骨頭「吃到力」才是對抗骨鬆的關鍵&nbsp;&nbsp;四季線上4gTV",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiiAZBVV95cUxOMXM3VlZyZkpKT1N2dHZPYUhWZ0I2NUE2eUxnSXZWblRPcW54RWhNbi1LR0RmZjZCUEg4MnZGdC1IQURPVW1zeEFPUWw0RTN5MEdWQmgzZlhJX2wzb2VtRldYMlNvTmYtOWxrS3R1Q2Z0Qm1oRXltVjN3NmpVNVY5Z19NSkNuR2pJZVJtN2RWQzg4OWczM0dCNFpZLTl2VU83SWo0emo0ZE90QUVMNVlYTko2S3djbEQ2T2ZmZjNXX0V6SEdJWFUwc1FFcnR5SHpRM2NBWjlHdlJycDRtLS1pcHRuQjN2bkFoYVNQbzdyQm5Cc2RCME4zYndmNFp4S0F2czdaWGNsbDhSNFR1UG9iYlU1aTdmZVoyWDJmcWptOVh2SnFCQ0RUYVpEWGJQVWl2aHhTYWQyNy1PZml1bzVqaUhPTE94b2tqaTdHbFBFbnZTLWVRWDZZS2dpNVU3QjlZTEFkWkFmbUx5aVd3bVRJMU50ZmNMWFBNWF82RlhmX2Y4N3ViX044MVFvdGNDZU01dlhjLWs3TzlFLWpqVTFYeWxjai03ald4clhYdExybUF4d2JGUC1sQWZvVHlabHItUTFnX2I4UW5ZY09HWHNKbVNxaEsyMklQcHpNYkZrVjAzVUtOVS1jdTRmQ0kzRnRsOVZSaG1uXzJnLU9nVURrWjEwZlpJZ1h6c3R0MUJOWWNSS2NKc2VETEJIVHBIeXVtT0EyQnU3Z2tnTnhRUkdndXA2cWszQlFNajJSUXA4eTV2ZzlYQmNFSVNTazFueXg0bG85N2tCY29McXZ3b0UtdW11VmI1c2p0RW4xN2l0ZWxtRWI4d2tOSGFPS2ZVN2JYSWNpcm45M01EdUtXalc0LTd4dlB2RFBXa1lmejBMSW9EdTFTeTNNM0lOMHFDZkRYTlNhYVZqSHpUenVYcFVzS0dPUk9IZVFiV0xkb3lVN2psa2pwcUU0c25Ba0ZsYVg2emtReXpLUXFuNVJJN2tWZmcwM2ZfUVFTLTNycC1tYXpmemJmWlpGdg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "停經",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "864b53260a86",
       "title": "乳過天晴｜吸煙增乳癌風險",
@@ -397,14 +457,14 @@
       ]
     },
     {
-      "id": "a97c49f49fe6",
-      "title": "7天內確診翻倍！星國登革熱創今年單週新高",
-      "published": "2026-05-27T05:18:13+00:00",
-      "summary": "7天內確診翻倍！星國登革熱創今年單週新高&nbsp;&nbsp;Yahoo新聞",
+      "id": "da83b62b3993",
+      "title": "新加坡登革熱病例單週翻倍！官方急籲：清除積水、使用防蚊液",
+      "published": "2026-05-27T05:00:23+00:00",
+      "summary": "新加坡登革熱病例單週翻倍！官方急籲：清除積水、使用防蚊液&nbsp;&nbsp;NOWnews今日新聞",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOQ0ZmVHRORXIxWmhRM2Y0RkFWWUliLUVkbU5BdGlxT1VOaXdKRm56dTloWVV3OWtFWUVPN21fekF6TmY5N3ppbWpzSWdPdWp2WmdkaXdoWVY2ZEhISDlEaHAtUzlDdW8wY216VTdpQnozRVg2QjJ1aUZZZXJQVUZwYVBVZzFQdHRpZ2J3Mm9aTjVnQ09UMC1KTktmVWdyUEdoNnplcG5TOTNXd2lTQnZRcV9jVFZrOWpHV0xURndjcWVhanJjWUVvNFZLQnJ2azZVSWJxc3dRMUFwUXZrd1BZYlpVR3BseUhpdllUQmdWbUt6TVQxSERyUGU3N3dnZDVCM3JCQmptdEYxTVp6Wmh0cHBYaVJXcFNVRmdscXRNVGJHcFN2TWdmQmhCc0lXQQ?oc=5"
+          "name": "NOWnews今日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0NDdIRU5SeWFQWkFTUVVFVGxnLVd6cERsYzJVel9fNVNaWFhtVmVueUZwX0phNjI5OUoweFY5ck9wUFM1UGxNdnhVekbSAVJBVV95cUxOTi1fdXhYTzVGczMxU2tPOWcyZG1JdFBYdkl5RUtjSmpOQW04SklxUkFYTFBTNUt5cl9zdE5wLVhOMUQ0M2pJcEstaXJvRUg5cUNn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -527,20 +587,31 @@
       "matched_keywords": []
     },
     {
-      "id": "00da44f790f6",
+      "id": "bff3d79d35dc",
       "title": "失智風險「女比男高近2倍」！醫：更年期後風險大增",
       "published": "2026-05-26T08:20:25+00:00",
-      "summary": "失智風險「女比男高近2倍」！醫：更年期後風險大增&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "失智風險「女比男高近2倍」！醫：更年期後風險大增&nbsp;&nbsp;中天新聞網「4大疾病」最易誘發失智！腦血管無聲被毀 醫：糖尿病也上榜&nbsp;&nbsp;ETtoday新聞雲科學家發現了為什麼女性罹患阿茲海默症的風險更大。&nbsp;&nbsp;arch-web.com.tw女性更易失智！風險比男性高2倍 醫點名5大傷腦地雷 50歲後必看護腦方式&nbsp;&nbsp;TVBS 健康2.0",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOZC1kZVN1V3lLTnJVdnh0NU5kbVVRU2duZ1pJUWRtQUxpYkk4NGtTUzBCOHhXRjA1WV9teC02RUx6aHE2NTA1MDhPdUtValFIelRSZmt4V3BQWkRRTThld19IU0lXaDNFcFlmZjdsc0tnTzRldWNXb1VPcGxpQnIwbl9MVHNObDg5UUtMZkFxdGFHNXlvSDA4THZWU0RBanBSeHpqMFVYWk04XzZnTmJCZXhiYXpZT0hHZnVRb2VaaWZwbGI2cFZuMjN5RU9OdURYdDhLLTdlRGo5T3lQNzlvRGZVSFdrdFpOT0xXb0lpOGlIeEcxUlBfdlFZU0ozT1BRYlNnUUY2dUhfdlRfbVY4NjRKZGZsZ1p1ODdLVV9xZjlIODRKUWlWejlLNVpMSmhhaV9VN0Ixc3hDLTNU?oc=5"
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wVlR5WHVkQWE0ZjcybmV3a3AwU3pIYkJ0VlVEVng4S1V4NkJoU21aMmcwenktU05oaVJxc3Ryc21lTmc2Rk5DNXJyVU9iVFozUTNZ?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
           "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
           "keyword": "失智",
           "related_drugs": [
             {
@@ -571,21 +642,19 @@
               "name": "Nystatin"
             }
           ]
+        },
+        {
+          "type": "indication",
+          "name": "腦血管",
+          "keyword": "腦血管",
+          "related_drugs": [
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            }
+          ]
         }
       ]
-    },
-    {
-      "id": "26ad8fad6c14",
-      "title": "變矮超過3公分要小心！醫揭骨質疏鬆3警訊：「駝、矮、痛」別忽略",
-      "published": "2026-05-26T07:00:06+00:00",
-      "summary": "變矮超過3公分要小心！醫揭骨質疏鬆3警訊：「駝、矮、痛」別忽略&nbsp;&nbsp;台視新聞網",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBubHVaa1o0LWUwX01MTG9Oa0RNNThGMFpCdFVNakJOZHhJN0x6TkhVelBjU0p2SDhGSF9wbjUzTUhJdTczV1VVUWFhS1NFWm1uQVdzSlR4QQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "9ed0d72e0bc8",
@@ -596,6 +665,19 @@
         {
           "name": "ETtoday新聞雲",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zMWdVY3BfRTMxLVRMRkxFWWxIem9ySmEwSEtaT0cxcWZGY0JmVUVyR2laWk4tWFozU1RLdkhKbHM2LThUY3R0alowTdIBZ0FVX3lxTE45U0hjSXBzRUd5WnJ4ZFpjLVN0MTcxNXhwQlBpTUtDZ0tSbEt3TjFuTkd4WWlLZ2xZWlpKaXdpUHZVNTZ2ek9STlhPcWJQQ0xxQnFJa3pQWm1rR214ZWstUWkzcjY5VjQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0fd203cb3407",
+      "title": "為何運動久了比較不容易累？研究：真正改變的可能是大腦",
+      "published": "2026-05-26T04:07:46+00:00",
+      "summary": "為何運動久了比較不容易累？研究：真正改變的可能是大腦&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPdi1mOW5ZYXpiV2luU2FmY1JaUlFELTJ4cWJlUU1jMmE3U1BXWmhEREl4MmZvZXJqc3Z1OVFBcXUxM2N2VUlkTF9JaEpkOGdUV1psSHNTTkZvT0QtRnV4c3VWOXJENHlDbGFSbzRVdWJ5UU9FOGNpcmFKaVgtd1B1aF8yd09kS3dGdHI2TDF4ZVJBX1EtR0NRT2lqRTNvdnRlLUU4Yy1HazgtclItanhqNnJ5SkxNcVMxeU9id1FTYXFhTkI0MTVYbmR6TWRxQkcwRVdDV3ZTQVI1VjBHUy1KbnNrY3k0RFJ4YjB6MjIwT2FQVFp2bTZ4X3hJYzl1d1RhNGpyaTQwUTJiUGJUazdzaXFZVmdEZmhBRzlHMFhQdzdDU0ZhM284RURYNGNuVk9ZUFRLUTZrZFZjalhDVXdSVWg5d095Q244dXdyZER1S3pTSjZad2tFVVdwOW9HbjBUOF9VM25tYkdxZUVpbl9JMEJaeXpzUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -637,19 +719,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "99b9f1a2d396",
-      "title": "為何運動久了比較不容易累？研究：真正改變的可能是大腦",
-      "published": "2026-05-26T03:44:00+00:00",
-      "summary": "為何運動久了比較不容易累？研究：真正改變的可能是大腦&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45cnVBREp3NG4zUDJkNzhYb0ViRjBTLXRlZ3BtSzI2clpvQ3BuSUtVbjlkSmEwaXp2NEtsTy1uTFZrLVBfalN5QlMzSUFwd09EN1VZMGg4SFd3OWtFZU1FV3FEWmLSAWpBVV95cUxOU0lfbGs2MmF0aGE0VkFsSlZNNnQzN2NmM05zV2pwNnhlZ19BeURVRHdXNnZkNVZjS2dPWUlrUVRRM3NhVFh3dWVtUTJjNDhCSERnTWt4M1l4djVxd3J2Sk1vWnBHY1pTODhR?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "5c446b69d318",
@@ -884,19 +953,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "61b04ce0b831",
-      "title": "長讀取定序揭示HIV急性感染多譜系傳播高速率 - GeneOnline News",
-      "published": "2026-05-26T00:06:01+00:00",
-      "summary": "長讀取定序揭示HIV急性感染多譜系傳播高速率&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQTlBDZmhDZjB3WVZmQ1RDU1Y0UlR5Zk1jZW1zc1FLUUJnN0J1a3VRQWktdnRsZkhpQUg3UzF6M3dJYzdaOHYwdlBHLVN0eDk4bHIwNktYX0dYR1pxZUxTZ05oT0Q4c2p3OUw4VE50NUNPQXhJV0RMS1JFT0lNVlBoRlg4OVRlWElXQjR2UkdIb1lmQXJwZHhmZ1BvQXBtbUVBUkRmRmJaOU56U2EzcEJ0el9NbUZPODRCNk1KWlFnQkZEWDNlVGctZUw2RldBVC1TVUl6TEhfZkpITHFibGpfZjk3OVp6eUVpZ3dlNUZOSlNleUFFVkl1MDEwOWR1d2laX25ZbjN0R1dPMjdMb3AxdUpDcnBlYm9LYmg1U0pUUWItOVVaZnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "f8f8389bd92f",
