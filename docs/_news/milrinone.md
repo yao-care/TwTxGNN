@@ -14,7 +14,7 @@ permalink: /news/milrinone/
 ---
 
 <p class="key-answer" data-question="Milrinone 有什麼相關新聞？">
-<strong>Milrinone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Milrinone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,9 @@ permalink: /news/milrinone/
 <p><a href="{{ '/drugs/milrinone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [11 萬人追蹤數據揭露，8 種常見食品防腐劑恐推升高血壓、心血管疾病風險 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc3c4SmhOZE5PWXBKTF9WcXRUWVVhdlkxZVJYaTVhSmJVUmdwZWlQNEhzRXJLQlJwNzV4ODFnOEJSWVVsMkVMRVE5UXlzZTU1S0JqOWV1Q01fVnpiOV9MX1phb29iYVJoUlBoOFg1Q3Y3UzhZRklCbnprTnhoVEs5aGJYOU5sYkp3TVpz?oc=5)
-
-2026-05-28 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">高血壓</span>
-
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc3c4SmhOZE5PWXBKTF9WcXRUWVVhdlkxZVJYaTVhSmJVUmdwZWlQNEhzRXJLQlJwNzV4ODFnOEJSWVVsMkVMRVE5UXlzZTU1S0JqOWV1Q01fVnpiOV9MX1phb29iYVJoUlBoOFg1Q3Y3UzhZRklCbnprTnhoVEs5aGJYOU5sYkp3TVpz?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

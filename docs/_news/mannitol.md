@@ -14,7 +14,7 @@ permalink: /news/mannitol/
 ---
 
 <p class="key-answer" data-question="Mannitol 有什麼相關新聞？">
-<strong>Mannitol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mannitol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ permalink: /news/mannitol/
 <p><a href="{{ '/drugs/mannitol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [11 萬人追蹤數據揭露，8 種常見食品防腐劑恐推升高血壓、心血管疾病風險 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc3c4SmhOZE5PWXBKTF9WcXRUWVVhdlkxZVJYaTVhSmJVUmdwZWlQNEhzRXJLQlJwNzV4ODFnOEJSWVVsMkVMRVE5UXlzZTU1S0JqOWV1Q01fVnpiOV9MX1phb29iYVJoUlBoOFg1Q3Y3UzhZRklCbnprTnhoVEs5aGJYOU5sYkp3TVpz?oc=5)
-
-2026-05-28 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">高血壓</span>
-
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc3c4SmhOZE5PWXBKTF9WcXRUWVVhdlkxZVJYaTVhSmJVUmdwZWlQNEhzRXJLQlJwNzV4ODFnOEJSWVVsMkVMRVE5UXlzZTU1S0JqOWV1Q01fVnpiOV9MX1phb29iYVJoUlBoOFg1Q3Y3UzhZRklCbnprTnhoVEs5aGJYOU5sYkp3TVpz?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [通霄男性癌症死亡率高於女性2.7倍！ 衛生局5/31推免費大篩檢](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ud3JsbnVudGRHcndKZFYtRXJOYkVJMWxtcG8xUDZKMHVYcFMtRV9KZ2NFNTRfZGFmcm1wU2hyQjFSaVpvZlZIMkpoRi05M0haZ1dPc1l2V0VDYXFvQVhZajQ5OGTSAWpBVV95cUxNVUptY05ZRUNtdEZtS1M4QzctYWppN1hHZm1HRldjblBDeElxX2NDZVdlUkQ1N25VbkVxcERtZjFfcEFiT01SY2RLYlhxOThiM0NkUHcyZDNOQUhuOF9UNWJzd1RLZWZWOVdn?oc=5)
 
