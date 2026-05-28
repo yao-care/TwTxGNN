@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
-### [抹片異常代表罹癌？醫解析幾種情況 揪子宮頸癌前病變](https://news.google.com/rss/articles/CBMiigNBVV95cUxPUUlsTmZ0R0Q2QVlDZG1IWVNrTTBFMEIxY2doWERtUkdyaE1Xc0IwT1pzOVRVU016SURGSlhsOGEzWldiUkJQdGVScktaREJEQTY4M1hIVE9yYTVKdDRzQ3pQS0M3Z0pDeXJjR3Iwb3FLanJkd3RlZ09kV1ZBS3RwUjRKMFBIalBwQkFEX2FXcGdhRVVRenNLc0JSOTdRTHlrUjhTVkVwZXRhMlIySTVqenctS1l2b3EzczdaWW4yUms0empPU3E3ZUxlT2ZLTkRKMmFLaS1LTmZhaUJXRkZwYVFYT3dvN1U3bGR2RXpFTkgyU2xkc21zYWtPNFVSRnEwbU9pOFU5QmstTHR5bV9zSHVMMW1STTFGME45MGI1VlUtV3Y0SjdzaTJ6WXVzT0tSbkZ4YWdsOUVkUmhaZDhHaVhQbDNsTjlJTnF6MVZCTWhXakdlbmdOa2lxdk5tM2pjTldINmRYYjczb1laYzVaWTBoMElNRHhZOVhnZlhmakJVSk03OGhMc1J3?oc=5)
+### [通霄男性癌症死亡率高於女性2.7倍！ 衛生局5/31推免費大篩檢](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ud3JsbnVudGRHcndKZFYtRXJOYkVJMWxtcG8xUDZKMHVYcFMtRV9KZ2NFNTRfZGFmcm1wU2hyQjFSaVpvZlZIMkpoRi05M0haZ1dPc1l2V0VDYXFvQVhZajQ5OGTSAWpBVV95cUxNVUptY05ZRUNtdEZtS1M4QzctYWppN1hHZm1HRldjblBDeElxX2NDZVdlUkQ1N25VbkVxcERtZjFfcEFiT01SY2RLYlhxOThiM0NkUHcyZDNOQUhuOF9UNWJzd1RLZWZWOVdn?oc=5)
 
-2026-05-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+2026-05-28 <span class="news-indication-tag">癌症</span>
 
-來源：[新唐人亞太電視台](https://news.google.com/rss/articles/CBMiigNBVV95cUxPUUlsTmZ0R0Q2QVlDZG1IWVNrTTBFMEIxY2doWERtUkdyaE1Xc0IwT1pzOVRVU016SURGSlhsOGEzWldiUkJQdGVScktaREJEQTY4M1hIVE9yYTVKdDRzQ3pQS0M3Z0pDeXJjR3Iwb3FLanJkd3RlZ09kV1ZBS3RwUjRKMFBIalBwQkFEX2FXcGdhRVVRenNLc0JSOTdRTHlrUjhTVkVwZXRhMlIySTVqenctS1l2b3EzczdaWW4yUms0empPU3E3ZUxlT2ZLTkRKMmFLaS1LTmZhaUJXRkZwYVFYT3dvN1U3bGR2RXpFTkgyU2xkc21zYWtPNFVSRnEwbU9pOFU5QmstTHR5bV9zSHVMMW1STTFGME45MGI1VlUtV3Y0SjdzaTJ6WXVzT0tSbkZ4YWdsOUVkUmhaZDhHaVhQbDNsTjlJTnF6MVZCTWhXakdlbmdOa2lxdk5tM2pjTldINmRYYjczb1laYzVaWTBoMElNRHhZOVhnZlhmakJVSk03OGhMc1J3?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ud3JsbnVudGRHcndKZFYtRXJOYkVJMWxtcG8xUDZKMHVYcFMtRV9KZ2NFNTRfZGFmcm1wU2hyQjFSaVpvZlZIMkpoRi05M0haZ1dPc1l2V0VDYXFvQVhZajQ5OGTSAWpBVV95cUxNVUptY05ZRUNtdEZtS1M4QzctYWppN1hHZm1HRldjblBDeElxX2NDZVdlUkQ1N25VbkVxcERtZjFfcEFiT01SY2RLYlhxOThiM0NkUHcyZDNOQUhuOF9UNWJzd1RLZWZWOVdn?oc=5)
+
+---
+
+### [貓咪癌症基因密碼解鎖 揭示人類治療新希望](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9abThaS3NPUG92M1ZGajZ5X1hydTEyMlV2VnE3U0lJNVk2NGZqeTJhYlJqeFFYQWRiaGV2VTU1dkpSWGdkR2dJcWl6czJJYVUwOFE?oc=5)
+
+2026-05-27 <span class="news-indication-tag">癌症</span>
+
+來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9abThaS3NPUG92M1ZGajZ5X1hydTEyMlV2VnE3U0lJNVk2NGZqeTJhYlJqeFFYQWRiaGV2VTU1dkpSWGdkR2dJcWl6czJJYVUwOFE?oc=5)
 
 ---
 
@@ -61,33 +69,9 @@ permalink: /news/gefitinib/
 
 ### [失智風險「女比男高近2倍」！醫：更年期後風險大增](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wVlR5WHVkQWE0ZjcybmV3a3AwU3pIYkJ0VlVEVng4S1V4NkJoU21aMmcwenktU05oaVJxc3Ryc21lTmc2Rk5DNXJyVU9iVFozUTNZ?oc=5)
 
-2026-05-26 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">腦血管</span>
+2026-05-26 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
 
 來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wVlR5WHVkQWE0ZjcybmV3a3AwU3pIYkJ0VlVEVng4S1V4NkJoU21aMmcwenktU05oaVJxc3Ryc21lTmc2Rk5DNXJyVU9iVFozUTNZ?oc=5)
-
----
-
-### [45%失智可預防或延緩！專家曝「3超級食物」能保護大腦| 祝你健康| 三立新聞網HEALTH.SETN.COM](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBYZlFuMTF3R2xlX0ltTkFPSzJMMkk0NjJWUE83TEtWNXJwdjhvNEN5dEtsc1BPU2Qyd0JWQ2hadXBudnN6VFFzV0lR?oc=5)
-
-2026-05-26 <span class="news-indication-tag">失智</span>
-
-來源：[娛樂星聞](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBYZlFuMTF3R2xlX0ltTkFPSzJMMkk0NjJWUE83TEtWNXJwdjhvNEN5dEtsc1BPU2Qyd0JWQ2hadXBudnN6VFFzV0lR?oc=5)
-
----
-
-### [【智慧生物製藥研究支援事業】⑫：確立糖鏈·凝集素圖形辨識的癌症精密細胞識別平台，結合α射線內用療法提供全新治療方案](https://news.google.com/rss/articles/CBMid0FVX3lxTFBpM1NlcnBXWHo4RENCN1JHc182QlhhN0M1S291OC11NmU3MkVBWEVuRXptaDdVNmd3blQ1SmVaZkZZR2N3NXZ5cXFPMW9UcTA5VGhHUUpuVl9ONmRZeEhxaElKa0toVnVfRzZMNk82UVdULWk0SnFR?oc=5)
-
-2026-05-26 <span class="news-indication-tag">癌症</span>
-
-來源：[客观日本](https://news.google.com/rss/articles/CBMid0FVX3lxTFBpM1NlcnBXWHo4RENCN1JHc182QlhhN0M1S291OC11NmU3MkVBWEVuRXptaDdVNmd3blQ1SmVaZkZZR2N3NXZ5cXFPMW9UcTA5VGhHUUpuVl9ONmRZeEhxaElKa0toVnVfRzZMNk82UVdULWk0SnFR?oc=5)
-
----
-
-### [原來45歲就開始了！「2徵狀」 恐是阿茲海默症前兆](https://news.google.com/rss/articles/CBMisgJBVV95cUxPcEVRdldSUDlBdzZtRlVvblJUUDBpcGYzQ3ZlcTZVM3p2WTZ5azAyUW1STkQxNEllYUg2engwOUNFbTkzbjFpeW54dW1jWGlGMlpwNHg1YmFlNWFJRnBjanhQYktUNk9KMkJ6cklYVl9UZC1Remx0TTdRZ3J6X1Vhc0NPRUJ3azlOcnhZRGltX09iY0lZeU91NTl0ZXgxWG1wRGpFcy1ZOTlSZkVxRWQ4TGtqbzFmZWZVLTN5bzZLeGNtZTRkZTRFNWJrUXItWHU3TGVjSVZjN1NLNWNPSEZ5cU4tbkIxUFdRX2VTV19XQ2NlRUQ1TjI0Ynh5SFdwNmViRW1LYkxVVGNWRVJhLTcxS25EcVZjSXhWLVo5bVJ6amh1M2JzX2o3R0VEQTd5VTRib1E?oc=5)
-
-2026-05-25 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMisgJBVV95cUxPcEVRdldSUDlBdzZtRlVvblJUUDBpcGYzQ3ZlcTZVM3p2WTZ5azAyUW1STkQxNEllYUg2engwOUNFbTkzbjFpeW54dW1jWGlGMlpwNHg1YmFlNWFJRnBjanhQYktUNk9KMkJ6cklYVl9UZC1Remx0TTdRZ3J6X1Vhc0NPRUJ3azlOcnhZRGltX09iY0lZeU91NTl0ZXgxWG1wRGpFcy1ZOTlSZkVxRWQ4TGtqbzFmZWZVLTN5bzZLeGNtZTRkZTRFNWJrUXItWHU3TGVjSVZjN1NLNWNPSEZ5cU4tbkIxUFdRX2VTV19XQ2NlRUQ1TjI0Ynh5SFdwNmViRW1LYkxVVGNWRVJhLTcxS25EcVZjSXhWLVo5bVJ6amh1M2JzX2o3R0VEQTd5VTRib1E?oc=5)
 
 ---
 

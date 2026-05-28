@@ -29,7 +29,7 @@ permalink: /news/ouabain/
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>Prinzmetal angina（99.7%）</li>
 <li>hemoglobinopathy（99.5%）</li>
-<li class="indication-matched">myocardial infarction（99.4%）<span class="indication-tag">📰 心肌梗塞</span></li>
+<li>myocardial infarction（99.4%）</li>
 <li>thrombotic disease（99.3%）</li>
 <li>hyperthyroidism（99.3%）</li>
 <li>homozygous familial hypercholesterolemia（99.2%）</li>
@@ -44,11 +44,11 @@ permalink: /news/ouabain/
 
 ## 相關新聞（1 則）
 
-### [心肌梗塞不只傷心還傷腦 研究揭示引發情緒認知障礙 - GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxPbS1OcEFPbGtxbDctNVNhSloxMWgwVUFsdXE0SXoxZjg1ZjNtT2t5QVdVWEFOM1hySG8yeFhsbmFidkNYUkxrb08xWktMUlV3cjZqSXdjVEtSajNQamR0NHZwNDFyMU10anVTd0lYYzY5aHNwWGZIbDBqcXRkYTJsQ1hTUzRoaHNNMEdCbDdBM0NvTlc3NXo1MWJKdENBWGlRdG1KY2ZmWFhxVDV2dDQwcFVlQjFFcHB6LTZNaWZLcVJ1OUNvV2F4MzdKWVJuOTNVVC1hVjdtal8yMmw1R2I5NE56VS12UDd6ak12YXJsTzZqNm8xdlpXRVBySWRVMTFyQmc4Nk1XTHdYMnBZZ0MtTjZIVmRpRnJtNnBOU1NsdTQyYjA2NmxhNmExTl9uMjJLdkZzTDZlN1pWRksyeDdQdllJWTI4NnM?oc=5)
+### [11 萬人追蹤數據揭露，8 種常見食品防腐劑恐推升高血壓、心血管疾病風險 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc3c4SmhOZE5PWXBKTF9WcXRUWVVhdlkxZVJYaTVhSmJVUmdwZWlQNEhzRXJLQlJwNzV4ODFnOEJSWVVsMkVMRVE5UXlzZTU1S0JqOWV1Q01fVnpiOV9MX1phb29iYVJoUlBoOFg1Q3Y3UzhZRklCbnprTnhoVEs5aGJYOU5sYkp3TVpz?oc=5)
 
-2026-05-26 <span class="news-indication-tag">心肌梗塞</span>
+2026-05-28 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">高血壓</span>
 
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxPbS1OcEFPbGtxbDctNVNhSloxMWgwVUFsdXE0SXoxZjg1ZjNtT2t5QVdVWEFOM1hySG8yeFhsbmFidkNYUkxrb08xWktMUlV3cjZqSXdjVEtSajNQamR0NHZwNDFyMU10anVTd0lYYzY5aHNwWGZIbDBqcXRkYTJsQ1hTUzRoaHNNMEdCbDdBM0NvTlc3NXo1MWJKdENBWGlRdG1KY2ZmWFhxVDV2dDQwcFVlQjFFcHB6LTZNaWZLcVJ1OUNvV2F4MzdKWVJuOTNVVC1hVjdtal8yMmw1R2I5NE56VS12UDd6ak12YXJsTzZqNm8xdlpXRVBySWRVMTFyQmc4Nk1XTHdYMnBZZ0MtTjZIVmRpRnJtNnBOU1NsdTQyYjA2NmxhNmExTl9uMjJLdkZzTDZlN1pWRksyeDdQdllJWTI4NnM?oc=5)
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc3c4SmhOZE5PWXBKTF9WcXRUWVVhdlkxZVJYaTVhSmJVUmdwZWlQNEhzRXJLQlJwNzV4ODFnOEJSWVVsMkVMRVE5UXlzZTU1S0JqOWV1Q01fVnpiOV9MX1phb29iYVJoUlBoOFg1Q3Y3UzhZRklCbnprTnhoVEs5aGJYOU5sYkp3TVpz?oc=5)
 
 ---
 
