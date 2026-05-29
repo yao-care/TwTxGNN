@@ -14,7 +14,7 @@ permalink: /news/mannitol/
 ---
 
 <p class="key-answer" data-question="Mannitol 有什麼相關新聞？">
-<strong>Mannitol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mannitol</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/mannitol/
 <p><a href="{{ '/drugs/mannitol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [冠心病｜年輕發病更危險？支架愈貴愈好？醫生拆解「通波仔」迷思](https://news.google.com/rss/articles/CBMilgNBVV95cUxPQ1hDRDY2aDJsRGl2Z0RZRHo1blRKSC0xRy1oU0xxZnE2a1dFWmZyeElqRkx2OGFvWkoxZDhGTFEtTWtqS1FuSHNtQmlwRmJhajdlRjZyVGJNQ05FYlkwd2lkV0ZaS3hzNEx5M3hqTU5YM0w2dWp2aFdtNW5CeHVGYjd1c2RTLXpJVUNuQzRtLXJfVTJyenpTMjZFVE51WW9YMXNJSWVKdjY3eEcyYVpoWnFsa2JUUkN1LW5GMHIxbnMtV0NRcWhaWlgwS0c0U0lPWDBRZVExa0I0NE9tY2VoSDFUYnBhaVkzUEo5NFNDWTRTMl9ZSXY0Vl90T3NzNzlhbGtZcjY2NEo3WExkOFlfdmt3WEE4N2Z1UngzdjdUNUdjZUs1aks2a2VUZmItOGpaMnR1Ri1KR3h0NG50WEpDeEpOVGc3TmhSNjlFaTE4QTRXcXhMMnVTcnY3S1JDUGhJTnotUTNHUXhFdnpGZVhmbTZmZWZyOVNTanZZWUMwbG9DbFBKVzBueFRGUWxrbXY5WGtZQll3?oc=5)
 
@@ -64,6 +64,14 @@ permalink: /news/mannitol/
 2026-05-27 <span class="news-indication-tag">癌症</span>
 
 來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9abThaS3NPUG92M1ZGajZ5X1hydTEyMlV2VnE3U0lJNVk2NGZqeTJhYlJqeFFYQWRiaGV2VTU1dkpSWGdkR2dJcWl6czJJYVUwOFE?oc=5)
+
+---
+
+### [科學家正在提出有關維生素 B12 和癌症的新問題。](https://news.google.com/rss/articles/CBMi9AJBVV95cUxQaVFOdU82dUd0NWNaSjUyVzUxZ0hHX0hOZ1BmT19uLXNVZlhUTGZmWDRDR2pvdFlveEcxR3otTm5tUmtFWUJsdW9RaEh0dEVUVUE0UmQ3YWYtMUxQMzVUNXFYblgwbFpEOFpMYl96OWExXzlJU3h4NXRYdjQzZUhDOXMyWUdYX1VuTXNUZGNpZjVsdzNuZjdfT0ZTOFBJWmVKMzk1aFBmN3Y4a0dqamthRllUNHhZMm9yYUEtZW1XbzRBMGZQZVpBSWw2SjNzWTZ0ZXk4eXR4cnlGSGRfYVdSZUFrM1dqT3RyTDgzRW1CanhRcGJvS1FoX0h4WFRYVjNIRWhYY1hzMEZ6V2cxR3RMNGRraDVWemFjVFJMRmRtNE5HMENKMWZ4VmVxSkhObFIyMmVjQ0FUTXNWS0ZnTGl2a2UxZktObTlwOVNnU2MzbWxDMzJfM1Jvcm02bTllaWRTb0VFQ2EzOEpMbGx3S25TQnNPamU?oc=5)
+
+2026-05-27 <span class="news-indication-tag">癌症</span>
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi9AJBVV95cUxQaVFOdU82dUd0NWNaSjUyVzUxZ0hHX0hOZ1BmT19uLXNVZlhUTGZmWDRDR2pvdFlveEcxR3otTm5tUmtFWUJsdW9RaEh0dEVUVUE0UmQ3YWYtMUxQMzVUNXFYblgwbFpEOFpMYl96OWExXzlJU3h4NXRYdjQzZUhDOXMyWUdYX1VuTXNUZGNpZjVsdzNuZjdfT0ZTOFBJWmVKMzk1aFBmN3Y4a0dqamthRllUNHhZMm9yYUEtZW1XbzRBMGZQZVpBSWw2SjNzWTZ0ZXk4eXR4cnlGSGRfYVdSZUFrM1dqT3RyTDgzRW1CanhRcGJvS1FoX0h4WFRYVjNIRWhYY1hzMEZ6V2cxR3RMNGRraDVWemFjVFJMRmRtNE5HMENKMWZ4VmVxSkhObFIyMmVjQ0FUTXNWS0ZnTGl2a2UxZktObTlwOVNnU2MzbWxDMzJfM1Jvcm02bTllaWRTb0VFQ2EzOEpMbGx3S25TQnNPamU?oc=5)
 
 ---
 

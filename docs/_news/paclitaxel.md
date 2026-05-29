@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
 ### [更年期女性注意 停經後5年 骨量恐大減3成](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Cb1IzbmtNWlpGcTA0b1hILWRlU05kN291UTV2MlNhYlY4dDM3TE5NX3NTSXo2SEI4dHBHRE12aUg4VHhRdkNaYWt5V1pPaFVLVjE1RWhrTmZzVDDSAWBBVV95cUxNSjBEbklXRkJYRjhTN2w3bGZPejlPaDc5YUI1OWdLS2FzUlU5T3NZdVdjNjEtMkZiZFg4bFgyOXJxaWtMRVNtbFN0UlR0VWVFUGo1MUMtV0ZXOGFrbzFzbWQ?oc=5)
 
@@ -89,6 +89,14 @@ permalink: /news/paclitaxel/
 2026-05-27 <span class="news-indication-tag">癌症</span>
 
 來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9abThaS3NPUG92M1ZGajZ5X1hydTEyMlV2VnE3U0lJNVk2NGZqeTJhYlJqeFFYQWRiaGV2VTU1dkpSWGdkR2dJcWl6czJJYVUwOFE?oc=5)
+
+---
+
+### [科學家正在提出有關維生素 B12 和癌症的新問題。](https://news.google.com/rss/articles/CBMi9AJBVV95cUxQaVFOdU82dUd0NWNaSjUyVzUxZ0hHX0hOZ1BmT19uLXNVZlhUTGZmWDRDR2pvdFlveEcxR3otTm5tUmtFWUJsdW9RaEh0dEVUVUE0UmQ3YWYtMUxQMzVUNXFYblgwbFpEOFpMYl96OWExXzlJU3h4NXRYdjQzZUhDOXMyWUdYX1VuTXNUZGNpZjVsdzNuZjdfT0ZTOFBJWmVKMzk1aFBmN3Y4a0dqamthRllUNHhZMm9yYUEtZW1XbzRBMGZQZVpBSWw2SjNzWTZ0ZXk4eXR4cnlGSGRfYVdSZUFrM1dqT3RyTDgzRW1CanhRcGJvS1FoX0h4WFRYVjNIRWhYY1hzMEZ6V2cxR3RMNGRraDVWemFjVFJMRmRtNE5HMENKMWZ4VmVxSkhObFIyMmVjQ0FUTXNWS0ZnTGl2a2UxZktObTlwOVNnU2MzbWxDMzJfM1Jvcm02bTllaWRTb0VFQ2EzOEpMbGx3S25TQnNPamU?oc=5)
+
+2026-05-27 <span class="news-indication-tag">癌症</span>
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi9AJBVV95cUxQaVFOdU82dUd0NWNaSjUyVzUxZ0hHX0hOZ1BmT19uLXNVZlhUTGZmWDRDR2pvdFlveEcxR3otTm5tUmtFWUJsdW9RaEh0dEVUVUE0UmQ3YWYtMUxQMzVUNXFYblgwbFpEOFpMYl96OWExXzlJU3h4NXRYdjQzZUhDOXMyWUdYX1VuTXNUZGNpZjVsdzNuZjdfT0ZTOFBJWmVKMzk1aFBmN3Y4a0dqamthRllUNHhZMm9yYUEtZW1XbzRBMGZQZVpBSWw2SjNzWTZ0ZXk4eXR4cnlGSGRfYVdSZUFrM1dqT3RyTDgzRW1CanhRcGJvS1FoX0h4WFRYVjNIRWhYY1hzMEZ6V2cxR3RMNGRraDVWemFjVFJMRmRtNE5HMENKMWZ4VmVxSkhObFIyMmVjQ0FUTXNWS0ZnTGl2a2UxZktObTlwOVNnU2MzbWxDMzJfM1Jvcm02bTllaWRTb0VFQ2EzOEpMbGx3S25TQnNPamU?oc=5)
 
 ---
 
