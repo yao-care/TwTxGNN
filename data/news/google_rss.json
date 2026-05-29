@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-29T21:45:24.327603+00:00",
+  "fetched_at": "2026-05-29T23:04:21.126610+00:00",
   "count": 18,
   "news": [
-    {
-      "id": "6899ab1be8ed",
-      "title": "不只記憶衰退！「嗅覺異常」恐是失智症警訊，研究曝原因 - Yahoo新聞",
-      "published": "2026-05-29T09:20:00+00:00",
-      "summary": "不只記憶衰退！「嗅覺異常」恐是失智症警訊，研究曝原因&nbsp;&nbsp;Yahoo新聞失智症最早警訊恐非健忘 研究：很多人先開始聞不到味道&nbsp;&nbsp;自由健康網科學研究- 日本東北大學等發現：多巴胺不足引發阿茲海默症記憶障礙，有望利用多巴胺開發新療法&nbsp;&nbsp;客观日本原來45歲就開始了！「2徵狀」 恐是阿茲海默症前兆 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQMERzd2J6c2FqVHA2T0VscHhkX1RCLXRPdmpvLXUzWDVtVTFGVXJBeEJYZjhENGN4ZzRTZ1Q3TzRoU0FTMENQRnhGOFFYamdFajNOX1FQcENEYnlfM2FvRmYydW8zMkVoLVdXWFU3N3F1SFluQ0tUV1AtdUpzRS00T3oxenplRUd2aXY5Z1I4bFkzQUNvYW9HaUZzTkI3cDdoS3ljcTU4TDRpVjZ1TkdzZ2M2ZHRMdGtja2V6YlplOUFaU0RsZ20wZnNKeklRaUVhVkNYcjRpdXk2RVpoNUVtS2ZrMlRpYmsyeWExUndmVHNmQWRBb0dZTE80SDlLQ0Z3bzdmQzc2TXhob2Z5d2cwVmdVOVdRY0NDXzZiWEVqSnA0eFg2Y215NV9NeFBRaklhcW1FdDlJYjFZbUhLVV9FNVRlakpXRTVQSVo1LWVybTh1cEMyTXhxOHdSWmN1VmM?oc=5"
-        }
-      ]
-    },
     {
       "id": "bb56827e6a69",
       "title": "坐著也能減輕失智風險 研究：關鍵在是否動腦 - 世界新聞網",
@@ -24,6 +12,18 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cc3B4VXZyYlcxODZwOWpFOW9JaWQ4cXNKTDJfb3IzMnoyX0g4SmgyVDBaNmVFRnRpUk1ZNndXNFRRRkhJZy1nZUprYnlPbE1wcnR1eVRjOHJuOWtScEdrM2hR0gFnQVVfeXFMT29yRW1KbkRZX2MzSndjUHktSnZsemlKVktFWjhSUWZmVG9vdXpUdzJLX1l1RDhfaE1WMWtzWDY2Ul9mbFpqZ2ZjYkF4ejB3RW80dEN5Sjg3ampxaXlBLXNibjNJcWpDRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6899ab1be8ed",
+      "title": "不只記憶衰退！「嗅覺異常」恐是失智症警訊，研究曝原因 - Yahoo新聞",
+      "published": "2026-05-29T09:20:00+00:00",
+      "summary": "不只記憶衰退！「嗅覺異常」恐是失智症警訊，研究曝原因&nbsp;&nbsp;Yahoo新聞失智症最早警訊恐非健忘 研究：很多人先開始聞不到味道&nbsp;&nbsp;自由健康網科學研究- 日本東北大學等發現：多巴胺不足引發阿茲海默症記憶障礙，有望利用多巴胺開發新療法&nbsp;&nbsp;客观日本原來45歲就開始了！「2徵狀」 恐是阿茲海默症前兆 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQMERzd2J6c2FqVHA2T0VscHhkX1RCLXRPdmpvLXUzWDVtVTFGVXJBeEJYZjhENGN4ZzRTZ1Q3TzRoU0FTMENQRnhGOFFYamdFajNOX1FQcENEYnlfM2FvRmYydW8zMkVoLVdXWFU3N3F1SFluQ0tUV1AtdUpzRS00T3oxenplRUd2aXY5Z1I4bFkzQUNvYW9HaUZzTkI3cDdoS3ljcTU4TDRpVjZ1TkdzZ2M2ZHRMdGtja2V6YlplOUFaU0RsZ20wZnNKeklRaUVhVkNYcjRpdXk2RVpoNUVtS2ZrMlRpYmsyeWExUndmVHNmQWRBb0dZTE80SDlLQ0Z3bzdmQzc2TXhob2Z5d2cwVmdVOVdRY0NDXzZiWEVqSnA0eFg2Y215NV9NeFBRaklhcW1FdDlJYjFZbUhLVV9FNVRlakpXRTVQSVo1LWVybTh1cEMyTXhxOHdSWmN1VmM?oc=5"
         }
       ]
     },
