@@ -14,7 +14,7 @@ permalink: /news/tinidazole/
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/tinidazole/
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [無性行為也可能染上HPV！婦科醫：多數人感染無症狀 持續感染下場曝 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDazlXM2tuVzdxQ1hRTncyUG1rWk51NTJQZFFib2NlZTd5dlZOWkxJUFRRbzJWRkRjMEc0RWVnaEJYckt3elMwMnl6TUNXbXdiek84?oc=5)
 
@@ -52,19 +52,11 @@ permalink: /news/tinidazole/
 
 ---
 
-### [更年期骨質流失加速醫示警：5至7年恐剩七成骨量(註1) 停經後死亡風險增15倍(註2) 籲逆轉骨齡三關鍵：精準吸收、定期檢測、規律運動缺一不可](https://news.google.com/rss/articles/CBMiakFVX3lxTE5VZV9NcVRDQ3RRbVBnU2VtTi1Wc2tjRk1Wa1IzR3RIZEpvNm42emEyZGc4RXZQUWRwSzd0LVctS25MRGVfOGdVblkwVk1BbDEzdEI4QkdTdzQ4SXRCeWZSc2Fnb0hpYVhJM3c?oc=5)
-
-2026-05-28 <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
-
-來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTE5VZV9NcVRDQ3RRbVBnU2VtTi1Wc2tjRk1Wa1IzR3RIZEpvNm42emEyZGc4RXZQUWRwSzd0LVctS25MRGVfOGdVblkwVk1BbDEzdEI4QkdTdzQ4SXRCeWZSc2Fnb0hpYVhJM3c?oc=5)
-
----
-
-### [通霄男性癌症死亡率高於女性2.7倍！ 衛生局5/31推免費大篩檢](https://news.google.com/rss/articles/CBMi8gJBVV95cUxPTGxGWVRFcHExNzM2WnlQYzhXaHdiVmVaSXRsZXdTMkF3R0h3by13RWI5VmpOb1l0TEF5S3JhT2tnN2VWSkFnajJ5cktzZFctdnlnZFZfRkxhaC0xa3lIN3p1VE5QOWxZTDZDdUxLTE9udUpoZjNhWDdLdjR1WUdtekJLdTc0NUtNV3JHUVhTajhlY1BRd2lpUU9xdUlpUGYxNVpyV2g4YTFPcjRVV20xRTVfdl9YYXprMmE0LXdKRWhJOGtsUU0yMm13dTU4Wm01R3FPN29ra1hDNEtTVnFZc3Q2TGtFYjVyY2Q5NFpNelI3NEJhSkNFMEl2U2FORXBHaTlHWU9xNTVIdFpiaWFhUUxiNXplYnlVU2ZvVGRTY1V1bmsxQ0h4M2hma3ZuNmNzazV3QTRDeEoyN2ktMjU4Z3FuSHplRkVzdEswbmZEMzJSaWZ4NVRBU1JXNkp3czUzcHA5aHRvSlcyZVJJT0ZSNXRR?oc=5)
+### [通霄男性癌症死亡率高於女性2.7倍！ 衛生局5/31推免費大篩檢](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ud3JsbnVudGRHcndKZFYtRXJOYkVJMWxtcG8xUDZKMHVYcFMtRV9KZ2NFNTRfZGFmcm1wU2hyQjFSaVpvZlZIMkpoRi05M0haZ1dPc1l2V0VDYXFvQVhZajQ5OGTSAWpBVV95cUxNVUptY05ZRUNtdEZtS1M4QzctYWppN1hHZm1HRldjblBDeElxX2NDZVdlUkQ1N25VbkVxcERtZjFfcEFiT01SY2RLYlhxOThiM0NkUHcyZDNOQUhuOF9UNWJzd1RLZWZWOVdn?oc=5)
 
 2026-05-28 <span class="news-indication-tag">癌症</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi8gJBVV95cUxPTGxGWVRFcHExNzM2WnlQYzhXaHdiVmVaSXRsZXdTMkF3R0h3by13RWI5VmpOb1l0TEF5S3JhT2tnN2VWSkFnajJ5cktzZFctdnlnZFZfRkxhaC0xa3lIN3p1VE5QOWxZTDZDdUxLTE9udUpoZjNhWDdLdjR1WUdtekJLdTc0NUtNV3JHUVhTajhlY1BRd2lpUU9xdUlpUGYxNVpyV2g4YTFPcjRVV20xRTVfdl9YYXprMmE0LXdKRWhJOGtsUU0yMm13dTU4Wm01R3FPN29ra1hDNEtTVnFZc3Q2TGtFYjVyY2Q5NFpNelI3NEJhSkNFMEl2U2FORXBHaTlHWU9xNTVIdFpiaWFhUUxiNXplYnlVU2ZvVGRTY1V1bmsxQ0h4M2hma3ZuNmNzazV3QTRDeEoyN2ktMjU4Z3FuSHplRkVzdEswbmZEMzJSaWZ4NVRBU1JXNkp3czUzcHA5aHRvSlcyZVJJT0ZSNXRR?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ud3JsbnVudGRHcndKZFYtRXJOYkVJMWxtcG8xUDZKMHVYcFMtRV9KZ2NFNTRfZGFmcm1wU2hyQjFSaVpvZlZIMkpoRi05M0haZ1dPc1l2V0VDYXFvQVhZajQ5OGTSAWpBVV95cUxNVUptY05ZRUNtdEZtS1M4QzctYWppN1hHZm1HRldjblBDeElxX2NDZVdlUkQ1N25VbkVxcERtZjFfcEFiT01SY2RLYlhxOThiM0NkUHcyZDNOQUhuOF9UNWJzd1RLZWZWOVdn?oc=5)
 
 ---
 

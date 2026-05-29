@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-29T16:36:32.823137+00:00",
-  "count": 10,
+  "generated": "2026-05-29T19:27:44.397875+00:00",
+  "count": 9,
   "news": [
     {
       "id": "bb56827e6a69",
@@ -38,13 +38,13 @@
       ]
     },
     {
-      "id": "b87033fe9718",
+      "id": "6872b2019826",
       "title": "記憶力退化有救了！美研究：吃這款「常見食材」可降低失智風險",
-      "published": "2026-05-29T10:44:00+00:00",
+      "published": "2026-05-29T10:42:48+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxNUjdxOW9TX1RDblVMcGlIN2o3S2xTTjM0RUVuVF9WQ1VlMG9JR2lSTEg0SXBmVDYxdFVqSWplTld0TTFrSVFEYXJGQzB4VmEwWGtyZGlMX1p4cnp6TTc1TzV3VzlaM0h3UnQ0VHIweUJVTzl3S2YwaWVULUhXU1FwclNoZ0hpQXRpdzNWeEZjTURNdS1BSTNyVUw1YnN0RFl6QmYwLXl5QV9nODZWLTBxbFNDd29SelZzUzY0LVR3MGktcGpBcE40UVhiRUpGbUhmRlZ1b0NGbDl2MWdMS0NpYWVQeW5la1pqYlJkU29BWkZ6akljLTFhQ0M1WHlDVk1NMnhMbDV2NVpCN25KN2Q4RXo1dVJBVzktWFR3MTNOTnhycHJ2NzRQRzNKOFRZZmlTOHp0UVJhQ1pDUlJDZHlhZldLdW44RktMcmRuU3gwanhBb09QTHgtUDU5LWVRd3RZcjMtVUFMVHo4TC0taFpKdkdieExSUjBTd1lXNUo2QzdSaGoy?oc=5"
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jQnlhbFN4aG9DV2lwbmVRYnBlUGxLQ3h4amlqQzFkY3dHYWNVdENuTHB4SnJGbTFzZDRxblFaUV9lV1lCZ250dkhEZmE?oc=5"
         }
       ],
       "keywords": [
@@ -327,6 +327,64 @@
       ]
     },
     {
+      "id": "764e2788dd8d",
+      "title": "研究：50歲以下大腸癌發生率上升 30多歲也可能中鏢",
+      "published": "2026-05-29T05:55:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1YjdkbWVIaHBXOXRFN201c01hS2pZYjczRHVWbXM4aFhsU3VuTE9TWkFiWDhwWW53R0ZXS1NJdGpMb2o5UkN2LWtxQm5iMFhtMEZOTTJyUUM2TVdPWE5WR3NhT2XSAWpBVV95cUxNTXQ4N0t6RU9zRjhnZWh0aXY4aE9zTkRmZUEyVGF6TGdyZEJwRHBmdDZ0Y2RTZU1SY0FGbWdwa1NvSEMxSU5mLXZ0aG14dWk0eHpxNUJSaE9vc3Zva21RT1EwdUpTWUJYRFR3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "食道癌",
+          "keyword": "食道癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "9597f293bf8b",
       "title": "冠心病｜年輕發病更危險？支架愈貴愈好？醫生拆解「通波仔」迷思",
       "published": "2026-05-28T11:55:54+00:00",
@@ -434,130 +492,13 @@
       ]
     },
     {
-      "id": "39118141c9c0",
-      "title": "英研究指純素食者患食道癌風險比肉食者高近1倍 腸癌風險亦高40%",
-      "published": "2026-05-28T06:00:54+00:00",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxObDBNX0poWmszRzFfUE5OZ3BkRFQzaDlRUkgzTGZxS0QwUlFCMGhkSE5yckVPSUNhb2wwSFJlU0tITlVOaU10azhwdWt4OTA2Vkk3TzFjQWZvMmRIa0doSFhKZGF3cWpoaUlGY3RzNHlORE5iZFZ4SER4Tms4dEYyMG84THdSa3Q1Mm0tNXV6eDVsWkZZckx1QTdPSmxwOHRtdG5iT0JRYzNuelhKOGZWcmNQd0ZfZ1g5Rmg0RFByd0oydHBTSWJ3ZzVHZ25adzR6RDFLY2ZkNnBBYV9pd2RRR1BFMkd0b2lTSE5KQ1Etb3RKS2tJRTNlOHFEbldRQlIxYUdoMTNBMUlURFExaUtjajJhOEYtODZBX0luMk1YaHVMSmd0SlZCeGJrMC1jZHNRM3g1b194ZUt5bWhGMW5HT2ZKTXY2bmltVmpZU3ZnOWlkYmx1NGJscm9Ld3VWblNiMW85SXZHdk5BbTZCaENsX1NmU2luMWx6NHA1V2htRHhCSU1kY0NtZEVXbk9TLXd5UzE2Rk1uenlQSGFHeTZ3dlhqNE1BYlhKblFtWDl1dHZqRmVpVUpLeVNJcjd2RU0?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "食道癌",
-          "keyword": "食道癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b36f8d48b8b1",
-      "title": "更年期骨質流失加速醫示警：5至7年恐剩七成骨量(註1) 停經後死亡風險增15倍(註2) 籲逆轉骨齡三關鍵：精準吸收、定期檢測、規律運動缺一不可",
-      "published": "2026-05-28T03:51:50+00:00",
-      "sources": [
-        {
-          "name": "良醫健康網",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VZV9NcVRDQ3RRbVBnU2VtTi1Wc2tjRk1Wa1IzR3RIZEpvNm42emEyZGc4RXZQUWRwSzd0LVctS25MRGVfOGdVblkwVk1BbDEzdEI4QkdTdzQ4SXRCeWZSc2Fnb0hpYVhJM3c?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "停經",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9cf5f504a51d",
+      "id": "be020aa35d9b",
       "title": "通霄男性癌症死亡率高於女性2.7倍！ 衛生局5/31推免費大篩檢",
-      "published": "2026-05-28T03:08:32+00:00",
+      "published": "2026-05-28T02:56:00+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxPTGxGWVRFcHExNzM2WnlQYzhXaHdiVmVaSXRsZXdTMkF3R0h3by13RWI5VmpOb1l0TEF5S3JhT2tnN2VWSkFnajJ5cktzZFctdnlnZFZfRkxhaC0xa3lIN3p1VE5QOWxZTDZDdUxLTE9udUpoZjNhWDdLdjR1WUdtekJLdTc0NUtNV3JHUVhTajhlY1BRd2lpUU9xdUlpUGYxNVpyV2g4YTFPcjRVV20xRTVfdl9YYXprMmE0LXdKRWhJOGtsUU0yMm13dTU4Wm01R3FPN29ra1hDNEtTVnFZc3Q2TGtFYjVyY2Q5NFpNelI3NEJhSkNFMEl2U2FORXBHaTlHWU9xNTVIdFpiaWFhUUxiNXplYnlVU2ZvVGRTY1V1bmsxQ0h4M2hma3ZuNmNzazV3QTRDeEoyN2ktMjU4Z3FuSHplRkVzdEswbmZEMzJSaWZ4NVRBU1JXNkp3czUzcHA5aHRvSlcyZVJJT0ZSNXRR?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ud3JsbnVudGRHcndKZFYtRXJOYkVJMWxtcG8xUDZKMHVYcFMtRV9KZ2NFNTRfZGFmcm1wU2hyQjFSaVpvZlZIMkpoRi05M0haZ1dPc1l2V0VDYXFvQVhZajQ5OGTSAWpBVV95cUxNVUptY05ZRUNtdEZtS1M4QzctYWppN1hHZm1HRldjblBDeElxX2NDZVdlUkQ1N25VbkVxcERtZjFfcEFiT01SY2RLYlhxOThiM0NkUHcyZDNOQUhuOF9UNWJzd1RLZWZWOVdn?oc=5"
         }
       ],
       "keywords": [

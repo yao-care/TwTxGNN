@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [無性行為也可能染上HPV！婦科醫：多數人感染無症狀 持續感染下場曝 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDazlXM2tuVzdxQ1hRTncyUG1rWk51NTJQZFFib2NlZTd5dlZOWkxJUFRRbzJWRkRjMEc0RWVnaEJYckt3elMwMnl6TUNXbXdiek84?oc=5)
 
@@ -52,27 +52,19 @@ permalink: /news/paclitaxel/
 
 ---
 
-### [英研究指純素食者患食道癌風險比肉食者高近1倍 腸癌風險亦高40%](https://news.google.com/rss/articles/CBMivwNBVV95cUxObDBNX0poWmszRzFfUE5OZ3BkRFQzaDlRUkgzTGZxS0QwUlFCMGhkSE5yckVPSUNhb2wwSFJlU0tITlVOaU10azhwdWt4OTA2Vkk3TzFjQWZvMmRIa0doSFhKZGF3cWpoaUlGY3RzNHlORE5iZFZ4SER4Tms4dEYyMG84THdSa3Q1Mm0tNXV6eDVsWkZZckx1QTdPSmxwOHRtdG5iT0JRYzNuelhKOGZWcmNQd0ZfZ1g5Rmg0RFByd0oydHBTSWJ3ZzVHZ25adzR6RDFLY2ZkNnBBYV9pd2RRR1BFMkd0b2lTSE5KQ1Etb3RKS2tJRTNlOHFEbldRQlIxYUdoMTNBMUlURFExaUtjajJhOEYtODZBX0luMk1YaHVMSmd0SlZCeGJrMC1jZHNRM3g1b194ZUt5bWhGMW5HT2ZKTXY2bmltVmpZU3ZnOWlkYmx1NGJscm9Ld3VWblNiMW85SXZHdk5BbTZCaENsX1NmU2luMWx6NHA1V2htRHhCSU1kY0NtZEVXbk9TLXd5UzE2Rk1uenlQSGFHeTZ3dlhqNE1BYlhKblFtWDl1dHZqRmVpVUpLeVNJcjd2RU0?oc=5)
+### [研究：50歲以下大腸癌發生率上升 30多歲也可能中鏢](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1YjdkbWVIaHBXOXRFN201c01hS2pZYjczRHVWbXM4aFhsU3VuTE9TWkFiWDhwWW53R0ZXS1NJdGpMb2o5UkN2LWtxQm5iMFhtMEZOTTJyUUM2TVdPWE5WR3NhT2XSAWpBVV95cUxNTXQ4N0t6RU9zRjhnZWh0aXY4aE9zTkRmZUEyVGF6TGdyZEJwRHBmdDZ0Y2RTZU1SY0FGbWdwa1NvSEMxSU5mLXZ0aG14dWk0eHpxNUJSaE9vc3Zva21RT1EwdUpTWUJYRFR3?oc=5)
 
-2026-05-28 <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-05-29 <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[香港01](https://news.google.com/rss/articles/CBMivwNBVV95cUxObDBNX0poWmszRzFfUE5OZ3BkRFQzaDlRUkgzTGZxS0QwUlFCMGhkSE5yckVPSUNhb2wwSFJlU0tITlVOaU10azhwdWt4OTA2Vkk3TzFjQWZvMmRIa0doSFhKZGF3cWpoaUlGY3RzNHlORE5iZFZ4SER4Tms4dEYyMG84THdSa3Q1Mm0tNXV6eDVsWkZZckx1QTdPSmxwOHRtdG5iT0JRYzNuelhKOGZWcmNQd0ZfZ1g5Rmg0RFByd0oydHBTSWJ3ZzVHZ25adzR6RDFLY2ZkNnBBYV9pd2RRR1BFMkd0b2lTSE5KQ1Etb3RKS2tJRTNlOHFEbldRQlIxYUdoMTNBMUlURFExaUtjajJhOEYtODZBX0luMk1YaHVMSmd0SlZCeGJrMC1jZHNRM3g1b194ZUt5bWhGMW5HT2ZKTXY2bmltVmpZU3ZnOWlkYmx1NGJscm9Ld3VWblNiMW85SXZHdk5BbTZCaENsX1NmU2luMWx6NHA1V2htRHhCSU1kY0NtZEVXbk9TLXd5UzE2Rk1uenlQSGFHeTZ3dlhqNE1BYlhKblFtWDl1dHZqRmVpVUpLeVNJcjd2RU0?oc=5)
-
----
-
-### [更年期骨質流失加速醫示警：5至7年恐剩七成骨量(註1) 停經後死亡風險增15倍(註2) 籲逆轉骨齡三關鍵：精準吸收、定期檢測、規律運動缺一不可](https://news.google.com/rss/articles/CBMiakFVX3lxTE5VZV9NcVRDQ3RRbVBnU2VtTi1Wc2tjRk1Wa1IzR3RIZEpvNm42emEyZGc4RXZQUWRwSzd0LVctS25MRGVfOGdVblkwVk1BbDEzdEI4QkdTdzQ4SXRCeWZSc2Fnb0hpYVhJM3c?oc=5)
-
-2026-05-28 <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
-
-來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTE5VZV9NcVRDQ3RRbVBnU2VtTi1Wc2tjRk1Wa1IzR3RIZEpvNm42emEyZGc4RXZQUWRwSzd0LVctS25MRGVfOGdVblkwVk1BbDEzdEI4QkdTdzQ4SXRCeWZSc2Fnb0hpYVhJM3c?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1YjdkbWVIaHBXOXRFN201c01hS2pZYjczRHVWbXM4aFhsU3VuTE9TWkFiWDhwWW53R0ZXS1NJdGpMb2o5UkN2LWtxQm5iMFhtMEZOTTJyUUM2TVdPWE5WR3NhT2XSAWpBVV95cUxNTXQ4N0t6RU9zRjhnZWh0aXY4aE9zTkRmZUEyVGF6TGdyZEJwRHBmdDZ0Y2RTZU1SY0FGbWdwa1NvSEMxSU5mLXZ0aG14dWk0eHpxNUJSaE9vc3Zva21RT1EwdUpTWUJYRFR3?oc=5)
 
 ---
 
-### [通霄男性癌症死亡率高於女性2.7倍！ 衛生局5/31推免費大篩檢](https://news.google.com/rss/articles/CBMi8gJBVV95cUxPTGxGWVRFcHExNzM2WnlQYzhXaHdiVmVaSXRsZXdTMkF3R0h3by13RWI5VmpOb1l0TEF5S3JhT2tnN2VWSkFnajJ5cktzZFctdnlnZFZfRkxhaC0xa3lIN3p1VE5QOWxZTDZDdUxLTE9udUpoZjNhWDdLdjR1WUdtekJLdTc0NUtNV3JHUVhTajhlY1BRd2lpUU9xdUlpUGYxNVpyV2g4YTFPcjRVV20xRTVfdl9YYXprMmE0LXdKRWhJOGtsUU0yMm13dTU4Wm01R3FPN29ra1hDNEtTVnFZc3Q2TGtFYjVyY2Q5NFpNelI3NEJhSkNFMEl2U2FORXBHaTlHWU9xNTVIdFpiaWFhUUxiNXplYnlVU2ZvVGRTY1V1bmsxQ0h4M2hma3ZuNmNzazV3QTRDeEoyN2ktMjU4Z3FuSHplRkVzdEswbmZEMzJSaWZ4NVRBU1JXNkp3czUzcHA5aHRvSlcyZVJJT0ZSNXRR?oc=5)
+### [通霄男性癌症死亡率高於女性2.7倍！ 衛生局5/31推免費大篩檢](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ud3JsbnVudGRHcndKZFYtRXJOYkVJMWxtcG8xUDZKMHVYcFMtRV9KZ2NFNTRfZGFmcm1wU2hyQjFSaVpvZlZIMkpoRi05M0haZ1dPc1l2V0VDYXFvQVhZajQ5OGTSAWpBVV95cUxNVUptY05ZRUNtdEZtS1M4QzctYWppN1hHZm1HRldjblBDeElxX2NDZVdlUkQ1N25VbkVxcERtZjFfcEFiT01SY2RLYlhxOThiM0NkUHcyZDNOQUhuOF9UNWJzd1RLZWZWOVdn?oc=5)
 
 2026-05-28 <span class="news-indication-tag">癌症</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi8gJBVV95cUxPTGxGWVRFcHExNzM2WnlQYzhXaHdiVmVaSXRsZXdTMkF3R0h3by13RWI5VmpOb1l0TEF5S3JhT2tnN2VWSkFnajJ5cktzZFctdnlnZFZfRkxhaC0xa3lIN3p1VE5QOWxZTDZDdUxLTE9udUpoZjNhWDdLdjR1WUdtekJLdTc0NUtNV3JHUVhTajhlY1BRd2lpUU9xdUlpUGYxNVpyV2g4YTFPcjRVV20xRTVfdl9YYXprMmE0LXdKRWhJOGtsUU0yMm13dTU4Wm01R3FPN29ra1hDNEtTVnFZc3Q2TGtFYjVyY2Q5NFpNelI3NEJhSkNFMEl2U2FORXBHaTlHWU9xNTVIdFpiaWFhUUxiNXplYnlVU2ZvVGRTY1V1bmsxQ0h4M2hma3ZuNmNzazV3QTRDeEoyN2ktMjU4Z3FuSHplRkVzdEswbmZEMzJSaWZ4NVRBU1JXNkp3czUzcHA5aHRvSlcyZVJJT0ZSNXRR?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ud3JsbnVudGRHcndKZFYtRXJOYkVJMWxtcG8xUDZKMHVYcFMtRV9KZ2NFNTRfZGFmcm1wU2hyQjFSaVpvZlZIMkpoRi05M0haZ1dPc1l2V0VDYXFvQVhZajQ5OGTSAWpBVV95cUxNVUptY05ZRUNtdEZtS1M4QzctYWppN1hHZm1HRldjblBDeElxX2NDZVdlUkQ1N25VbkVxcERtZjFfcEFiT01SY2RLYlhxOThiM0NkUHcyZDNOQUhuOF9UNWJzd1RLZWZWOVdn?oc=5)
 
 ---
 
