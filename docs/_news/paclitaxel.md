@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
 
-### [更年期女性注意 停經後5年 骨量恐大減3成](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Cb1IzbmtNWlpGcTA0b1hILWRlU05kN291UTV2MlNhYlY4dDM3TE5NX3NTSXo2SEI4dHBHRE12aUg4VHhRdkNaYWt5V1pPaFVLVjE1RWhrTmZzVDDSAWBBVV95cUxNSjBEbklXRkJYRjhTN2w3bGZPejlPaDc5YUI1OWdLS2FzUlU5T3NZdVdjNjEtMkZiZFg4bFgyOXJxaWtMRVNtbFN0UlR0VWVFUGo1MUMtV0ZXOGFrbzFzbWQ?oc=5)
+### [更年期骨質流失加速 醫師呼籲逆轉骨齡三關鍵缺一不可](https://news.google.com/rss/articles/CBMiVEFVX3lxTE0taG1aR0FSSXZQREVNMENOM3BTYVRRbUt4bllnOUNOTlVGRVgxS3kweDJqSjFUZllHcU4xUUZCcUIxVF91eFdCYTktX2VYOWxuczhPSQ?oc=5)
 
-2026-05-28 <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
+2026-05-29 <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Cb1IzbmtNWlpGcTA0b1hILWRlU05kN291UTV2MlNhYlY4dDM3TE5NX3NTSXo2SEI4dHBHRE12aUg4VHhRdkNaYWt5V1pPaFVLVjE1RWhrTmZzVDDSAWBBVV95cUxNSjBEbklXRkJYRjhTN2w3bGZPejlPaDc5YUI1OWdLS2FzUlU5T3NZdVdjNjEtMkZiZFg4bFgyOXJxaWtMRVNtbFN0UlR0VWVFUGo1MUMtV0ZXOGFrbzFzbWQ?oc=5)
+來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE0taG1aR0FSSXZQREVNMENOM3BTYVRRbUt4bllnOUNOTlVGRVgxS3kweDJqSjFUZllHcU4xUUZCcUIxVF91eFdCYTktX2VYOWxuczhPSQ?oc=5)
+
+---
+
+### [英研究指純素食者患食道癌風險比肉食者高近1倍 腸癌風險亦高40%](https://news.google.com/rss/articles/CBMivwNBVV95cUxObDBNX0poWmszRzFfUE5OZ3BkRFQzaDlRUkgzTGZxS0QwUlFCMGhkSE5yckVPSUNhb2wwSFJlU0tITlVOaU10azhwdWt4OTA2Vkk3TzFjQWZvMmRIa0doSFhKZGF3cWpoaUlGY3RzNHlORE5iZFZ4SER4Tms4dEYyMG84THdSa3Q1Mm0tNXV6eDVsWkZZckx1QTdPSmxwOHRtdG5iT0JRYzNuelhKOGZWcmNQd0ZfZ1g5Rmg0RFByd0oydHBTSWJ3ZzVHZ25adzR6RDFLY2ZkNnBBYV9pd2RRR1BFMkd0b2lTSE5KQ1Etb3RKS2tJRTNlOHFEbldRQlIxYUdoMTNBMUlURFExaUtjajJhOEYtODZBX0luMk1YaHVMSmd0SlZCeGJrMC1jZHNRM3g1b194ZUt5bWhGMW5HT2ZKTXY2bmltVmpZU3ZnOWlkYmx1NGJscm9Ld3VWblNiMW85SXZHdk5BbTZCaENsX1NmU2luMWx6NHA1V2htRHhCSU1kY0NtZEVXbk9TLXd5UzE2Rk1uenlQSGFHeTZ3dlhqNE1BYlhKblFtWDl1dHZqRmVpVUpLeVNJcjd2RU0?oc=5)
+
+2026-05-28 <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[香港01](https://news.google.com/rss/articles/CBMivwNBVV95cUxObDBNX0poWmszRzFfUE5OZ3BkRFQzaDlRUkgzTGZxS0QwUlFCMGhkSE5yckVPSUNhb2wwSFJlU0tITlVOaU10azhwdWt4OTA2Vkk3TzFjQWZvMmRIa0doSFhKZGF3cWpoaUlGY3RzNHlORE5iZFZ4SER4Tms4dEYyMG84THdSa3Q1Mm0tNXV6eDVsWkZZckx1QTdPSmxwOHRtdG5iT0JRYzNuelhKOGZWcmNQd0ZfZ1g5Rmg0RFByd0oydHBTSWJ3ZzVHZ25adzR6RDFLY2ZkNnBBYV9pd2RRR1BFMkd0b2lTSE5KQ1Etb3RKS2tJRTNlOHFEbldRQlIxYUdoMTNBMUlURFExaUtjajJhOEYtODZBX0luMk1YaHVMSmd0SlZCeGJrMC1jZHNRM3g1b194ZUt5bWhGMW5HT2ZKTXY2bmltVmpZU3ZnOWlkYmx1NGJscm9Ld3VWblNiMW85SXZHdk5BbTZCaENsX1NmU2luMWx6NHA1V2htRHhCSU1kY0NtZEVXbk9TLXd5UzE2Rk1uenlQSGFHeTZ3dlhqNE1BYlhKblFtWDl1dHZqRmVpVUpLeVNJcjd2RU0?oc=5)
 
 ---
 
@@ -84,19 +92,19 @@ permalink: /news/paclitaxel/
 
 ---
 
+### [45歲後身材失控不是妳的錯！營養師揭4關鍵：吃越少內臟脂肪囤越多！ - PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0xYbHQxbEg0Nnp2cHd0dnpvS2NGUEJZSG5pcjZjWXZNRXFVX0pQWHJmQ1ZVZ0pDUGVNaFdBbXIwX3ZCUDRWaEFnLUVvZTA5aXNvalU3bXBMOVpaWWtRTEFfdXFuZmszMVJoa2xXRHN0M3ZLY2k2dUlHRDd5aXpGbTRueTJ3dTQyeHc?oc=5)
+
+2026-05-27 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">更年期</span>
+
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0xYbHQxbEg0Nnp2cHd0dnpvS2NGUEJZSG5pcjZjWXZNRXFVX0pQWHJmQ1ZVZ0pDUGVNaFdBbXIwX3ZCUDRWaEFnLUVvZTA5aXNvalU3bXBMOVpaWWtRTEFfdXFuZmszMVJoa2xXRHN0M3ZLY2k2dUlHRDd5aXpGbTRueTJ3dTQyeHc?oc=5)
+
+---
+
 ### [貓咪癌症基因密碼解鎖 揭示人類治療新希望](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9abThaS3NPUG92M1ZGajZ5X1hydTEyMlV2VnE3U0lJNVk2NGZqeTJhYlJqeFFYQWRiaGV2VTU1dkpSWGdkR2dJcWl6czJJYVUwOFE?oc=5)
 
 2026-05-27 <span class="news-indication-tag">癌症</span>
 
 來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9abThaS3NPUG92M1ZGajZ5X1hydTEyMlV2VnE3U0lJNVk2NGZqeTJhYlJqeFFYQWRiaGV2VTU1dkpSWGdkR2dJcWl6czJJYVUwOFE?oc=5)
-
----
-
-### [科學家正在提出有關維生素 B12 和癌症的新問題。](https://news.google.com/rss/articles/CBMi9AJBVV95cUxQaVFOdU82dUd0NWNaSjUyVzUxZ0hHX0hOZ1BmT19uLXNVZlhUTGZmWDRDR2pvdFlveEcxR3otTm5tUmtFWUJsdW9RaEh0dEVUVUE0UmQ3YWYtMUxQMzVUNXFYblgwbFpEOFpMYl96OWExXzlJU3h4NXRYdjQzZUhDOXMyWUdYX1VuTXNUZGNpZjVsdzNuZjdfT0ZTOFBJWmVKMzk1aFBmN3Y4a0dqamthRllUNHhZMm9yYUEtZW1XbzRBMGZQZVpBSWw2SjNzWTZ0ZXk4eXR4cnlGSGRfYVdSZUFrM1dqT3RyTDgzRW1CanhRcGJvS1FoX0h4WFRYVjNIRWhYY1hzMEZ6V2cxR3RMNGRraDVWemFjVFJMRmRtNE5HMENKMWZ4VmVxSkhObFIyMmVjQ0FUTXNWS0ZnTGl2a2UxZktObTlwOVNnU2MzbWxDMzJfM1Jvcm02bTllaWRTb0VFQ2EzOEpMbGx3S25TQnNPamU?oc=5)
-
-2026-05-27 <span class="news-indication-tag">癌症</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi9AJBVV95cUxQaVFOdU82dUd0NWNaSjUyVzUxZ0hHX0hOZ1BmT19uLXNVZlhUTGZmWDRDR2pvdFlveEcxR3otTm5tUmtFWUJsdW9RaEh0dEVUVUE0UmQ3YWYtMUxQMzVUNXFYblgwbFpEOFpMYl96OWExXzlJU3h4NXRYdjQzZUhDOXMyWUdYX1VuTXNUZGNpZjVsdzNuZjdfT0ZTOFBJWmVKMzk1aFBmN3Y4a0dqamthRllUNHhZMm9yYUEtZW1XbzRBMGZQZVpBSWw2SjNzWTZ0ZXk4eXR4cnlGSGRfYVdSZUFrM1dqT3RyTDgzRW1CanhRcGJvS1FoX0h4WFRYVjNIRWhYY1hzMEZ6V2cxR3RMNGRraDVWemFjVFJMRmRtNE5HMENKMWZ4VmVxSkhObFIyMmVjQ0FUTXNWS0ZnTGl2a2UxZktObTlwOVNnU2MzbWxDMzJfM1Jvcm02bTllaWRTb0VFQ2EzOEpMbGx3S25TQnNPamU?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "更年期（menopause） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "更年期（menopause） 的相關健康新聞報導。1 則新聞、4 個相關藥物。"
+description: "更年期（menopause） 的相關健康新聞報導。2 則新聞、4 個相關藥物。"
 permalink: /news/menopause/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/menopause/
 ---
 
 <p class="key-answer" data-question="更年期（menopause） 有什麼相關新聞？">
-<strong>更年期（menopause）</strong> 目前有 <strong>1 則</strong>相關新聞報導，4 個相關藥物。
+<strong>更年期（menopause）</strong> 目前有 <strong>2 則</strong>相關新聞報導，4 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,21 @@ permalink: /news/menopause/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [更年期女性注意 停經後5年 骨量恐大減3成](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Cb1IzbmtNWlpGcTA0b1hILWRlU05kN291UTV2MlNhYlY4dDM3TE5NX3NTSXo2SEI4dHBHRE12aUg4VHhRdkNaYWt5V1pPaFVLVjE1RWhrTmZzVDDSAWBBVV95cUxNSjBEbklXRkJYRjhTN2w3bGZPejlPaDc5YUI1OWdLS2FzUlU5T3NZdVdjNjEtMkZiZFg4bFgyOXJxaWtMRVNtbFN0UlR0VWVFUGo1MUMtV0ZXOGFrbzFzbWQ?oc=5)
+### [更年期骨質流失加速 醫師呼籲逆轉骨齡三關鍵缺一不可](https://news.google.com/rss/articles/CBMiVEFVX3lxTE0taG1aR0FSSXZQREVNMENOM3BTYVRRbUt4bllnOUNOTlVGRVgxS3kweDJqSjFUZllHcU4xUUZCcUIxVF91eFdCYTktX2VYOWxuczhPSQ?oc=5)
 
-2026-05-28
+2026-05-29
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Cb1IzbmtNWlpGcTA0b1hILWRlU05kN291UTV2MlNhYlY4dDM3TE5NX3NTSXo2SEI4dHBHRE12aUg4VHhRdkNaYWt5V1pPaFVLVjE1RWhrTmZzVDDSAWBBVV95cUxNSjBEbklXRkJYRjhTN2w3bGZPejlPaDc5YUI1OWdLS2FzUlU5T3NZdVdjNjEtMkZiZFg4bFgyOXJxaWtMRVNtbFN0UlR0VWVFUGo1MUMtV0ZXOGFrbzFzbWQ?oc=5)
+來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE0taG1aR0FSSXZQREVNMENOM3BTYVRRbUt4bllnOUNOTlVGRVgxS3kweDJqSjFUZllHcU4xUUZCcUIxVF91eFdCYTktX2VYOWxuczhPSQ?oc=5)
+
+---
+
+### [45歲後身材失控不是妳的錯！營養師揭4關鍵：吃越少內臟脂肪囤越多！ - PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0xYbHQxbEg0Nnp2cHd0dnpvS2NGUEJZSG5pcjZjWXZNRXFVX0pQWHJmQ1ZVZ0pDUGVNaFdBbXIwX3ZCUDRWaEFnLUVvZTA5aXNvalU3bXBMOVpaWWtRTEFfdXFuZmszMVJoa2xXRHN0M3ZLY2k2dUlHRDd5aXpGbTRueTJ3dTQyeHc?oc=5)
+
+2026-05-27
+
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0xYbHQxbEg0Nnp2cHd0dnpvS2NGUEJZSG5pcjZjWXZNRXFVX0pQWHJmQ1ZVZ0pDUGVNaFdBbXIwX3ZCUDRWaEFnLUVvZTA5aXNvalU3bXBMOVpaWWtRTEFfdXFuZmszMVJoa2xXRHN0M3ZLY2k2dUlHRDd5aXpGbTRueTJ3dTQyeHc?oc=5)
 
 ---
 

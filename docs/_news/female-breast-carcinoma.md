@@ -3,7 +3,7 @@ layout: default
 title: "乳癌（female breast carcinoma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "乳癌（female breast carcinoma） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "乳癌（female breast carcinoma） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="乳癌（female breast carcinoma） 有什麼相關新聞？">
-<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/female-breast-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [乳過天晴｜吸煙增乳癌風險](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa3A2NzRtMFFtQjUyY01DT1FLV0NURUhTX2hjMjNmblF0MEdKeVZwVXN1dkFxbThIVVZfaW1Ec1VDOXVxT0FCeFR3WXVSN3VMZDB4b1ZlWV9lWXdvNjZOaXQtT3R6aG45ZzdkWTFNMzVrb194SmlWdE5JT3Jqcmc0QWliNFJXSGhvS1pxa0hzR0ZPZ215czZXY0VtTG1ncXhwSVdWd1dBRFQtdGYtM0xOOE9HT1pYMU1sbklWNHRyNXpkenQyaUsxbWlzaDdUSTNWc1AtV1VJbGZIdERTcTNhaHRn?oc=5)
 
@@ -50,6 +50,14 @@ permalink: /news/female-breast-carcinoma/
 2026-05-27
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9veTJuaEg0RWcxVGRheV9iRENCVnhmcWIxQjBCbjE2YlpnMW9qa3hKVkpldkVOZktDR1ZsVHFxamdKV3Y3ZGdfdkFZNEFaYTNOU2xHbEthV2p5STZEaVFvbklnZkfSAWpBVV95cUxPNlBQTWwwd0ZqTHFXQV9Nc3B4UzViYzV5T21NejQwb2dZS1JxSy1QQjNxTEhfX3VwOUdUTEF2cWJUaG5BTXZqNlduT2tCV3VHdlprV0xUZjJiTzdyaFBaa1otWFhXOGtMNUNn?oc=5)
+
+---
+
+### [45歲後身材失控不是妳的錯！營養師揭4關鍵：吃越少內臟脂肪囤越多！ - PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0xYbHQxbEg0Nnp2cHd0dnpvS2NGUEJZSG5pcjZjWXZNRXFVX0pQWHJmQ1ZVZ0pDUGVNaFdBbXIwX3ZCUDRWaEFnLUVvZTA5aXNvalU3bXBMOVpaWWtRTEFfdXFuZmszMVJoa2xXRHN0M3ZLY2k2dUlHRDd5aXpGbTRueTJ3dTQyeHc?oc=5)
+
+2026-05-27
+
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0xYbHQxbEg0Nnp2cHd0dnpvS2NGUEJZSG5pcjZjWXZNRXFVX0pQWHJmQ1ZVZ0pDUGVNaFdBbXIwX3ZCUDRWaEFnLUVvZTA5aXNvalU3bXBMOVpaWWtRTEFfdXFuZmszMVJoa2xXRHN0M3ZLY2k2dUlHRDd5aXpGbTRueTJ3dTQyeHc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tioconazole/
 ---
 
 <p class="key-answer" data-question="Tioconazole 有什麼相關新聞？">
-<strong>Tioconazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Tioconazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ permalink: /news/tioconazole/
 <p><a href="{{ '/drugs/tioconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [更年期女性注意 停經後5年 骨量恐大減3成](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Cb1IzbmtNWlpGcTA0b1hILWRlU05kN291UTV2MlNhYlY4dDM3TE5NX3NTSXo2SEI4dHBHRE12aUg4VHhRdkNaYWt5V1pPaFVLVjE1RWhrTmZzVDDSAWBBVV95cUxNSjBEbklXRkJYRjhTN2w3bGZPejlPaDc5YUI1OWdLS2FzUlU5T3NZdVdjNjEtMkZiZFg4bFgyOXJxaWtMRVNtbFN0UlR0VWVFUGo1MUMtV0ZXOGFrbzFzbWQ?oc=5)
+### [更年期骨質流失加速 醫師呼籲逆轉骨齡三關鍵缺一不可](https://news.google.com/rss/articles/CBMiVEFVX3lxTE0taG1aR0FSSXZQREVNMENOM3BTYVRRbUt4bllnOUNOTlVGRVgxS3kweDJqSjFUZllHcU4xUUZCcUIxVF91eFdCYTktX2VYOWxuczhPSQ?oc=5)
 
-2026-05-28 <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
+2026-05-29 <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Cb1IzbmtNWlpGcTA0b1hILWRlU05kN291UTV2MlNhYlY4dDM3TE5NX3NTSXo2SEI4dHBHRE12aUg4VHhRdkNaYWt5V1pPaFVLVjE1RWhrTmZzVDDSAWBBVV95cUxNSjBEbklXRkJYRjhTN2w3bGZPejlPaDc5YUI1OWdLS2FzUlU5T3NZdVdjNjEtMkZiZFg4bFgyOXJxaWtMRVNtbFN0UlR0VWVFUGo1MUMtV0ZXOGFrbzFzbWQ?oc=5)
+來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE0taG1aR0FSSXZQREVNMENOM3BTYVRRbUt4bllnOUNOTlVGRVgxS3kweDJqSjFUZllHcU4xUUZCcUIxVF91eFdCYTktX2VYOWxuczhPSQ?oc=5)
+
+---
+
+### [45歲後身材失控不是妳的錯！營養師揭4關鍵：吃越少內臟脂肪囤越多！ - PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0xYbHQxbEg0Nnp2cHd0dnpvS2NGUEJZSG5pcjZjWXZNRXFVX0pQWHJmQ1ZVZ0pDUGVNaFdBbXIwX3ZCUDRWaEFnLUVvZTA5aXNvalU3bXBMOVpaWWtRTEFfdXFuZmszMVJoa2xXRHN0M3ZLY2k2dUlHRDd5aXpGbTRueTJ3dTQyeHc?oc=5)
+
+2026-05-27 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">更年期</span>
+
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0xYbHQxbEg0Nnp2cHd0dnpvS2NGUEJZSG5pcjZjWXZNRXFVX0pQWHJmQ1ZVZ0pDUGVNaFdBbXIwX3ZCUDRWaEFnLUVvZTA5aXNvalU3bXBMOVpaWWtRTEFfdXFuZmszMVJoa2xXRHN0M3ZLY2k2dUlHRDd5aXpGbTRueTJ3dTQyeHc?oc=5)
 
 ---
 
