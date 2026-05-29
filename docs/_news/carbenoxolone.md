@@ -40,19 +40,19 @@ permalink: /news/carbenoxolone/
 
 ## 相關新聞（2 則）
 
-### [通霄男性癌症死亡率高於女性2.7倍！ 衛生局5/31推免費大篩檢](https://news.google.com/rss/articles/CBMi8gJBVV95cUxPTGxGWVRFcHExNzM2WnlQYzhXaHdiVmVaSXRsZXdTMkF3R0h3by13RWI5VmpOb1l0TEF5S3JhT2tnN2VWSkFnajJ5cktzZFctdnlnZFZfRkxhaC0xa3lIN3p1VE5QOWxZTDZDdUxLTE9udUpoZjNhWDdLdjR1WUdtekJLdTc0NUtNV3JHUVhTajhlY1BRd2lpUU9xdUlpUGYxNVpyV2g4YTFPcjRVV20xRTVfdl9YYXprMmE0LXdKRWhJOGtsUU0yMm13dTU4Wm01R3FPN29ra1hDNEtTVnFZc3Q2TGtFYjVyY2Q5NFpNelI3NEJhSkNFMEl2U2FORXBHaTlHWU9xNTVIdFpiaWFhUUxiNXplYnlVU2ZvVGRTY1V1bmsxQ0h4M2hma3ZuNmNzazV3QTRDeEoyN2ktMjU4Z3FuSHplRkVzdEswbmZEMzJSaWZ4NVRBU1JXNkp3czUzcHA5aHRvSlcyZVJJT0ZSNXRR?oc=5)
+### [無性行為也可能染上HPV！婦科醫：多數人感染無症狀 持續感染下場曝 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDazlXM2tuVzdxQ1hRTncyUG1rWk51NTJQZFFib2NlZTd5dlZOWkxJUFRRbzJWRkRjMEc0RWVnaEJYckt3elMwMnl6TUNXbXdiek84?oc=5)
 
-2026-05-28 <span class="news-indication-tag">癌症</span>
+2026-05-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi8gJBVV95cUxPTGxGWVRFcHExNzM2WnlQYzhXaHdiVmVaSXRsZXdTMkF3R0h3by13RWI5VmpOb1l0TEF5S3JhT2tnN2VWSkFnajJ5cktzZFctdnlnZFZfRkxhaC0xa3lIN3p1VE5QOWxZTDZDdUxLTE9udUpoZjNhWDdLdjR1WUdtekJLdTc0NUtNV3JHUVhTajhlY1BRd2lpUU9xdUlpUGYxNVpyV2g4YTFPcjRVV20xRTVfdl9YYXprMmE0LXdKRWhJOGtsUU0yMm13dTU4Wm01R3FPN29ra1hDNEtTVnFZc3Q2TGtFYjVyY2Q5NFpNelI3NEJhSkNFMEl2U2FORXBHaTlHWU9xNTVIdFpiaWFhUUxiNXplYnlVU2ZvVGRTY1V1bmsxQ0h4M2hma3ZuNmNzazV3QTRDeEoyN2ktMjU4Z3FuSHplRkVzdEswbmZEMzJSaWZ4NVRBU1JXNkp3czUzcHA5aHRvSlcyZVJJT0ZSNXRR?oc=5)
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDazlXM2tuVzdxQ1hRTncyUG1rWk51NTJQZFFib2NlZTd5dlZOWkxJUFRRbzJWRkRjMEc0RWVnaEJYckt3elMwMnl6TUNXbXdiek84?oc=5)
 
 ---
 
-### [貓咪癌症基因密碼解鎖 揭示人類治療新希望](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9abThaS3NPUG92M1ZGajZ5X1hydTEyMlV2VnE3U0lJNVk2NGZqeTJhYlJqeFFYQWRiaGV2VTU1dkpSWGdkR2dJcWl6czJJYVUwOFE?oc=5)
+### [通霄男性癌症死亡率高於女性2.7倍！ 衛生局5/31推免費大篩檢](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ud3JsbnVudGRHcndKZFYtRXJOYkVJMWxtcG8xUDZKMHVYcFMtRV9KZ2NFNTRfZGFmcm1wU2hyQjFSaVpvZlZIMkpoRi05M0haZ1dPc1l2V0VDYXFvQVhZajQ5OGTSAWpBVV95cUxNVUptY05ZRUNtdEZtS1M4QzctYWppN1hHZm1HRldjblBDeElxX2NDZVdlUkQ1N25VbkVxcERtZjFfcEFiT01SY2RLYlhxOThiM0NkUHcyZDNOQUhuOF9UNWJzd1RLZWZWOVdn?oc=5)
 
-2026-05-27 <span class="news-indication-tag">癌症</span>
+2026-05-28 <span class="news-indication-tag">癌症</span>
 
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9abThaS3NPUG92M1ZGajZ5X1hydTEyMlV2VnE3U0lJNVk2NGZqeTJhYlJqeFFYQWRiaGV2VTU1dkpSWGdkR2dJcWl6czJJYVUwOFE?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ud3JsbnVudGRHcndKZFYtRXJOYkVJMWxtcG8xUDZKMHVYcFMtRV9KZ2NFNTRfZGFmcm1wU2hyQjFSaVpvZlZIMkpoRi05M0haZ1dPc1l2V0VDYXFvQVhZajQ5OGTSAWpBVV95cUxNVUptY05ZRUNtdEZtS1M4QzctYWppN1hHZm1HRldjblBDeElxX2NDZVdlUkQ1N25VbkVxcERtZjFfcEFiT01SY2RLYlhxOThiM0NkUHcyZDNOQUhuOF9UNWJzd1RLZWZWOVdn?oc=5)
 
 ---
 
