@@ -1,7 +1,53 @@
 {
-  "generated": "2026-05-29T09:37:15.126544+00:00",
-  "count": 11,
+  "generated": "2026-05-29T12:41:53.558477+00:00",
+  "count": 10,
   "news": [
+    {
+      "id": "6899ab1be8ed",
+      "title": "不只記憶衰退！「嗅覺異常」恐是失智症警訊，研究曝原因",
+      "published": "2026-05-29T09:20:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQMERzd2J6c2FqVHA2T0VscHhkX1RCLXRPdmpvLXUzWDVtVTFGVXJBeEJYZjhENGN4ZzRTZ1Q3TzRoU0FTMENQRnhGOFFYamdFajNOX1FQcENEYnlfM2FvRmYydW8zMkVoLVdXWFU3N3F1SFluQ0tUV1AtdUpzRS00T3oxenplRUd2aXY5Z1I4bFkzQUNvYW9HaUZzTkI3cDdoS3ljcTU4TDRpVjZ1TkdzZ2M2ZHRMdGtja2V6YlplOUFaU0RsZ20wZnNKeklRaUVhVkNYcjRpdXk2RVpoNUVtS2ZrMlRpYmsyeWExUndmVHNmQWRBb0dZTE80SDlLQ0Z3bzdmQzc2TXhob2Z5d2cwVmdVOVdRY0NDXzZiWEVqSnA0eFg2Y215NV9NeFBRaklhcW1FdDlJYjFZbUhLVV9FNVRlakpXRTVQSVo1LWVybTh1cEMyTXhxOHdSWmN1VmM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "11f23f44326b",
       "title": "無性行為也可能染上HPV！婦科醫：多數人感染無症狀 持續感染下場曝 - TVBS 健康2.0",
@@ -222,6 +268,30 @@
       ]
     },
     {
+      "id": "4f22167ac338",
+      "title": "老人預防失智新線索！ 研究追蹤3年證實：每週至少吃一次起司，患病比例更低 | 姊妹淘 - LINE TODAY",
+      "published": "2026-05-28T15:37:47+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WYzJtd2pINzBPSzd4R3Y3Y19hR1NDN1o4T1JkazhaZnVHYXgwblE4ZkN5VXVFb185a0JXTkw5QTB6eFRpRm5zY08zalpWOG9UaTRQc1F3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "9597f293bf8b",
       "title": "冠心病｜年輕發病更危險？支架愈貴愈好？醫生拆解「通波仔」迷思",
       "published": "2026-05-28T11:55:54+00:00",
@@ -294,13 +364,13 @@
       ]
     },
     {
-      "id": "ed24fb5fa200",
+      "id": "07fec0cb6a76",
       "title": "上班族福音！新研究曝「這種久坐」可防失智症",
-      "published": "2026-05-28T08:47:00+00:00",
+      "published": "2026-05-28T08:45:12+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPZ1BESFd5RDdDRXJjSDQ3ek14elZfUEhBQXctTzk3X2tpUnBDVXJRMmpvY1pUcXFZR0dSbDlCMy1QamlwLTBMTTdoTUhYLUFPZ1pIak1rbURoYXF4R28xdU5XaG54dG45Q01leVFtQTFiR0k2azVLN2ZfS0MtZWFlQ2x2Y1RsdW5PZ3pEVmVlZC1nSTVaZnp0SlZNWGdCaldVaGFGNEliQzRFeUd4T3dMMTljZE5vOUpFcnhoTlA5c3hlSXVaUXVoM1hqbTU0djBrQjYzNFdTMzEwSGEyR014bGFZc3NmNVpWeDFnbkFHMnY2emJncUtDSlQzT2ctR1QxSlRXQVVhejZraXhjdGFZMDBzSnRTbTI5VmVkSEdPRmNmZWZwMk4zZG4zRldMRms?oc=5"
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzbTBsN1h5b1Q3VW1rLXA2dlc0X0tGZmlZcU5xR3NaR0JnckI0Vm95TU5LQ2FzelVQWWpXMFV1ejJ1cGpiV2M2SVNnSWw?oc=5"
         }
       ],
       "keywords": [
@@ -323,65 +393,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4027ce75d012",
-      "title": "【健康警訊】台灣髖部骨折率亞洲第一！35歲後補鈣成「存骨本」關鍵",
-      "published": "2026-05-28T08:12:31+00:00",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fQjFJZlZIRUI1YkpHc25MRVNYSmR1aXhCaUd6N2hSWGkydUc4SEE4T3dwZnRMQ2F5T2g0UXFQWHRJVG5Sd20xTG1tNUlBREtEaHgzRFRXSDBrQWN5ZWxIcA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "停經",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }
@@ -475,6 +486,65 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b36f8d48b8b1",
+      "title": "更年期骨質流失加速醫示警：5至7年恐剩七成骨量(註1) 停經後死亡風險增15倍(註2) 籲逆轉骨齡三關鍵：精準吸收、定期檢測、規律運動缺一不可",
+      "published": "2026-05-28T03:51:50+00:00",
+      "sources": [
+        {
+          "name": "良醫健康網",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VZV9NcVRDQ3RRbVBnU2VtTi1Wc2tjRk1Wa1IzR3RIZEpvNm42emEyZGc4RXZQUWRwSzd0LVctS25MRGVfOGdVblkwVk1BbDEzdEI4QkdTdzQ4SXRCeWZSc2Fnb0hpYVhJM3c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "停經",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
             }
           ]
         }
@@ -730,173 +800,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c30b20b7e3e1",
-      "title": "乳過天晴｜吸煙增乳癌風險",
-      "published": "2026-05-27T23:00:00+00:00",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa3A2NzRtMFFtQjUyY01DT1FLV0NURUhTX2hjMjNmblF0MEdKeVZwVXN1dkFxbThIVVZfaW1Ec1VDOXVxT0FCeFR3WXVSN3VMZDB4b1ZlWV9lWXdvNjZOaXQtT3R6aG45ZzdkWTFNMzVrb194SmlWdE5JT3Jqcmc0QWliNFJXSGhvS1pxa0hzR0ZPZ215czZXY0VtTG1ncXhwSVdWd1dBRFQtdGYtM0xOOE9HT1pYMU1sbklWNHRyNXpkenQyaUsxbWlzaDdUSTNWc1AtV1VJbGZIdERTcTNhaHRn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a30503c59c03",
-      "title": "健康網》維他命D不只護骨本 研究：乳癌化療效果提升近8成",
-      "published": "2026-05-27T11:23:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9veTJuaEg0RWcxVGRheV9iRENCVnhmcWIxQjBCbjE2YlpnMW9qa3hKVkpldkVOZktDR1ZsVHFxamdKV3Y3ZGdfdkFZNEFaYTNOU2xHbEthV2p5STZEaVFvbklnZkfSAWpBVV95cUxPNlBQTWwwd0ZqTHFXQV9Nc3B4UzViYzV5T21NejQwb2dZS1JxSy1QQjNxTEhfX3VwOUdUTEF2cWJUaG5BTXZqNlduT2tCV3VHdlprV0xUZjJiTzdyaFBaa1otWFhXOGtMNUNn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "283c1552459c",
-      "title": "45歲後身材失控不是妳的錯！營養師揭4關鍵：吃越少內臟脂肪囤越多！ - PChome Online 新聞",
-      "published": "2026-05-27T09:30:38+00:00",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0xYbHQxbEg0Nnp2cHd0dnpvS2NGUEJZSG5pcjZjWXZNRXFVX0pQWHJmQ1ZVZ0pDUGVNaFdBbXIwX3ZCUDRWaEFnLUVvZTA5aXNvalU3bXBMOVpaWWtRTEFfdXFuZmszMVJoa2xXRHN0M3ZLY2k2dUlHRDd5aXpGbTRueTJ3dTQyeHc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }

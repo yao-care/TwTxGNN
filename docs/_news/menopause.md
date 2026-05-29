@@ -3,7 +3,7 @@ layout: default
 title: "更年期（menopause） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "更年期（menopause） 的相關健康新聞報導。2 則新聞、4 個相關藥物。"
+description: "更年期（menopause） 的相關健康新聞報導。1 則新聞、4 個相關藥物。"
 permalink: /news/menopause/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/menopause/
 ---
 
 <p class="key-answer" data-question="更年期（menopause） 有什麼相關新聞？">
-<strong>更年期（menopause）</strong> 目前有 <strong>2 則</strong>相關新聞報導，4 個相關藥物。
+<strong>更年期（menopause）</strong> 目前有 <strong>1 則</strong>相關新聞報導，4 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,13 @@ permalink: /news/menopause/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [【健康警訊】台灣髖部骨折率亞洲第一！35歲後補鈣成「存骨本」關鍵](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fQjFJZlZIRUI1YkpHc25MRVNYSmR1aXhCaUd6N2hSWGkydUc4SEE4T3dwZnRMQ2F5T2g0UXFQWHRJVG5Sd20xTG1tNUlBREtEaHgzRFRXSDBrQWN5ZWxIcA?oc=5)
+### [更年期骨質流失加速醫示警：5至7年恐剩七成骨量(註1) 停經後死亡風險增15倍(註2) 籲逆轉骨齡三關鍵：精準吸收、定期檢測、規律運動缺一不可](https://news.google.com/rss/articles/CBMiakFVX3lxTE5VZV9NcVRDQ3RRbVBnU2VtTi1Wc2tjRk1Wa1IzR3RIZEpvNm42emEyZGc4RXZQUWRwSzd0LVctS25MRGVfOGdVblkwVk1BbDEzdEI4QkdTdzQ4SXRCeWZSc2Fnb0hpYVhJM3c?oc=5)
 
 2026-05-28
 
-來源：[民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fQjFJZlZIRUI1YkpHc25MRVNYSmR1aXhCaUd6N2hSWGkydUc4SEE4T3dwZnRMQ2F5T2g0UXFQWHRJVG5Sd20xTG1tNUlBREtEaHgzRFRXSDBrQWN5ZWxIcA?oc=5)
-
----
-
-### [45歲後身材失控不是妳的錯！營養師揭4關鍵：吃越少內臟脂肪囤越多！ - PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0xYbHQxbEg0Nnp2cHd0dnpvS2NGUEJZSG5pcjZjWXZNRXFVX0pQWHJmQ1ZVZ0pDUGVNaFdBbXIwX3ZCUDRWaEFnLUVvZTA5aXNvalU3bXBMOVpaWWtRTEFfdXFuZmszMVJoa2xXRHN0M3ZLY2k2dUlHRDd5aXpGbTRueTJ3dTQyeHc?oc=5)
-
-2026-05-27
-
-來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0xYbHQxbEg0Nnp2cHd0dnpvS2NGUEJZSG5pcjZjWXZNRXFVX0pQWHJmQ1ZVZ0pDUGVNaFdBbXIwX3ZCUDRWaEFnLUVvZTA5aXNvalU3bXBMOVpaWWtRTEFfdXFuZmszMVJoa2xXRHN0M3ZLY2k2dUlHRDd5aXpGbTRueTJ3dTQyeHc?oc=5)
+來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTE5VZV9NcVRDQ3RRbVBnU2VtTi1Wc2tjRk1Wa1IzR3RIZEpvNm42emEyZGc4RXZQUWRwSzd0LVctS25MRGVfOGdVblkwVk1BbDEzdEI4QkdTdzQ4SXRCeWZSc2Fnb0hpYVhJM3c?oc=5)
 
 ---
 

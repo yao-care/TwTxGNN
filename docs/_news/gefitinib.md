@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [不只記憶衰退！「嗅覺異常」恐是失智症警訊，研究曝原因](https://news.google.com/rss/articles/CBMi3wJBVV95cUxQMERzd2J6c2FqVHA2T0VscHhkX1RCLXRPdmpvLXUzWDVtVTFGVXJBeEJYZjhENGN4ZzRTZ1Q3TzRoU0FTMENQRnhGOFFYamdFajNOX1FQcENEYnlfM2FvRmYydW8zMkVoLVdXWFU3N3F1SFluQ0tUV1AtdUpzRS00T3oxenplRUd2aXY5Z1I4bFkzQUNvYW9HaUZzTkI3cDdoS3ljcTU4TDRpVjZ1TkdzZ2M2ZHRMdGtja2V6YlplOUFaU0RsZ20wZnNKeklRaUVhVkNYcjRpdXk2RVpoNUVtS2ZrMlRpYmsyeWExUndmVHNmQWRBb0dZTE80SDlLQ0Z3bzdmQzc2TXhob2Z5d2cwVmdVOVdRY0NDXzZiWEVqSnA0eFg2Y215NV9NeFBRaklhcW1FdDlJYjFZbUhLVV9FNVRlakpXRTVQSVo1LWVybTh1cEMyTXhxOHdSWmN1VmM?oc=5)
+
+2026-05-29 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi3wJBVV95cUxQMERzd2J6c2FqVHA2T0VscHhkX1RCLXRPdmpvLXUzWDVtVTFGVXJBeEJYZjhENGN4ZzRTZ1Q3TzRoU0FTMENQRnhGOFFYamdFajNOX1FQcENEYnlfM2FvRmYydW8zMkVoLVdXWFU3N3F1SFluQ0tUV1AtdUpzRS00T3oxenplRUd2aXY5Z1I4bFkzQUNvYW9HaUZzTkI3cDdoS3ljcTU4TDRpVjZ1TkdzZ2M2ZHRMdGtja2V6YlplOUFaU0RsZ20wZnNKeklRaUVhVkNYcjRpdXk2RVpoNUVtS2ZrMlRpYmsyeWExUndmVHNmQWRBb0dZTE80SDlLQ0Z3bzdmQzc2TXhob2Z5d2cwVmdVOVdRY0NDXzZiWEVqSnA0eFg2Y215NV9NeFBRaklhcW1FdDlJYjFZbUhLVV9FNVRlakpXRTVQSVo1LWVybTh1cEMyTXhxOHdSWmN1VmM?oc=5)
+
+---
 
 ### [無性行為也可能染上HPV！婦科醫：多數人感染無症狀 持續感染下場曝 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDazlXM2tuVzdxQ1hRTncyUG1rWk51NTJQZFFib2NlZTd5dlZOWkxJUFRRbzJWRkRjMEc0RWVnaEJYckt3elMwMnl6TUNXbXdiek84?oc=5)
 
@@ -51,11 +59,19 @@ permalink: /news/gefitinib/
 
 ---
 
-### [上班族福音！新研究曝「這種久坐」可防失智症](https://news.google.com/rss/articles/CBMirwJBVV95cUxPZ1BESFd5RDdDRXJjSDQ3ek14elZfUEhBQXctTzk3X2tpUnBDVXJRMmpvY1pUcXFZR0dSbDlCMy1QamlwLTBMTTdoTUhYLUFPZ1pIak1rbURoYXF4R28xdU5XaG54dG45Q01leVFtQTFiR0k2azVLN2ZfS0MtZWFlQ2x2Y1RsdW5PZ3pEVmVlZC1nSTVaZnp0SlZNWGdCaldVaGFGNEliQzRFeUd4T3dMMTljZE5vOUpFcnhoTlA5c3hlSXVaUXVoM1hqbTU0djBrQjYzNFdTMzEwSGEyR014bGFZc3NmNVpWeDFnbkFHMnY2emJncUtDSlQzT2ctR1QxSlRXQVVhejZraXhjdGFZMDBzSnRTbTI5VmVkSEdPRmNmZWZwMk4zZG4zRldMRms?oc=5)
+### [老人預防失智新線索！ 研究追蹤3年證實：每週至少吃一次起司，患病比例更低 | 姊妹淘 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WYzJtd2pINzBPSzd4R3Y3Y19hR1NDN1o4T1JkazhaZnVHYXgwblE4ZkN5VXVFb185a0JXTkw5QTB6eFRpRm5zY08zalpWOG9UaTRQc1F3?oc=5)
+
+2026-05-28 <span class="news-indication-tag">失智</span>
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WYzJtd2pINzBPSzd4R3Y3Y19hR1NDN1o4T1JkazhaZnVHYXgwblE4ZkN5VXVFb185a0JXTkw5QTB6eFRpRm5zY08zalpWOG9UaTRQc1F3?oc=5)
+
+---
+
+### [上班族福音！新研究曝「這種久坐」可防失智症](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzbTBsN1h5b1Q3VW1rLXA2dlc0X0tGZmlZcU5xR3NaR0JnckI0Vm95TU5LQ2FzelVQWWpXMFV1ejJ1cGpiV2M2SVNnSWw?oc=5)
 
 2026-05-28 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMirwJBVV95cUxPZ1BESFd5RDdDRXJjSDQ3ek14elZfUEhBQXctTzk3X2tpUnBDVXJRMmpvY1pUcXFZR0dSbDlCMy1QamlwLTBMTTdoTUhYLUFPZ1pIak1rbURoYXF4R28xdU5XaG54dG45Q01leVFtQTFiR0k2azVLN2ZfS0MtZWFlQ2x2Y1RsdW5PZ3pEVmVlZC1nSTVaZnp0SlZNWGdCaldVaGFGNEliQzRFeUd4T3dMMTljZE5vOUpFcnhoTlA5c3hlSXVaUXVoM1hqbTU0djBrQjYzNFdTMzEwSGEyR014bGFZc3NmNVpWeDFnbkFHMnY2emJncUtDSlQzT2ctR1QxSlRXQVVhejZraXhjdGFZMDBzSnRTbTI5VmVkSEdPRmNmZWZwMk4zZG4zRldMRms?oc=5)
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzbTBsN1h5b1Q3VW1rLXA2dlc0X0tGZmlZcU5xR3NaR0JnckI0Vm95TU5LQ2FzelVQWWpXMFV1ejJ1cGpiV2M2SVNnSWw?oc=5)
 
 ---
 
