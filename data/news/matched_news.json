@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-29T19:27:44.374857+00:00",
+  "last_updated": "2026-05-29T21:45:27.408255+00:00",
   "total_count": 19,
-  "matched_count": 9,
+  "matched_count": 7,
   "news": [
     {
       "id": "bb56827e6a69",
@@ -63,6 +63,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "f25752968726",
+      "title": "新店耕莘醫院核子醫學中心啟用 全新數位AI正子設備助攻精準醫療",
+      "published": "2026-05-29T09:29:00+00:00",
+      "summary": "新店耕莘醫院核子醫學中心啟用 全新數位AI正子設備助攻精準醫療&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KZC0xb2VxY3dJVmpHZ3VDSWtoTUR4YURlY0swTWhLb0FReGxybkFtcHYxdmNuMHlYYUVjT2hRM3RZQ2wxS1VNRG9jVE82YmRkNU1PemRSd2JCY1RTQmRTeU45NkTSAWpBVV95cUxPSEdlZWUwYzk3blNHZXF1aGlleFEyNS1DTUV6NU1rRjRhbFZwTEhPLU1pLVZqV1FBdmZoeWxXRE0wbUd0RDdVQTZCdW8yc3JFM2JUU0hSVEF1SFc4NEtsYTd0SGNTRUIzLUtB?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "6899ab1be8ed",
@@ -141,221 +154,14 @@
       "id": "11f23f44326b",
       "title": "無性行為也可能染上HPV！婦科醫：多數人感染無症狀 持續感染下場曝 - TVBS 健康2.0",
       "published": "2026-05-29T07:03:00+00:00",
-      "summary": "無性行為也可能染上HPV！婦科醫：多數人感染無症狀 持續感染下場曝&nbsp;&nbsp;TVBS 健康2.0名醫會客室／每年新增五十萬患者 不正常出血大都已晚期&nbsp;&nbsp;PChome Online 新聞成年男性每2人就有1人染HPV 3大預防重點一次看&nbsp;&nbsp;新住民全球新聞網HPV感染不等於癌症 醫籲「規律抹片+疫苗」有效降子宮頸癌風險&nbsp;&nbsp;四季線上4gTV520甜蜜背後藏風險？HPV不只和女性有關 伴侶共同預防更重要&nbsp;&nbsp;健康醫療網",
+      "summary": "無性行為也可能染上HPV！婦科醫：多數人感染無症狀 持續感染下場曝&nbsp;&nbsp;TVBS 健康2.0名醫會客室／每年新增五十萬患者 不正常出血大都已晚期&nbsp;&nbsp;PChome Online新聞HPV男女都要防 桃園醫院：不能輕忽預防&nbsp;&nbsp;大纪元520甜蜜背後藏風險？HPV不只和女性有關 伴侶共同預防更重要&nbsp;&nbsp;健康醫療網HPV不只是女性的事！泌尿科醫師示警：成年男性每2人就有1人感染 | 風傳媒&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDazlXM2tuVzdxQ1hRTncyUG1rWk51NTJQZFFib2NlZTd5dlZOWkxJUFRRbzJWRkRjMEc0RWVnaEJYckt3elMwMnl6TUNXbXdiek84?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "764e2788dd8d",
@@ -430,77 +236,17 @@
       "matched_keywords": []
     },
     {
-      "id": "9597f293bf8b",
-      "title": "冠心病｜年輕發病更危險？支架愈貴愈好？醫生拆解「通波仔」迷思",
-      "published": "2026-05-28T11:55:54+00:00",
-      "summary": "冠心病｜年輕發病更危險？支架愈貴愈好？醫生拆解「通波仔」迷思&nbsp;&nbsp;香港01",
+      "id": "b1dc0d997cdd",
+      "title": "漢他病毒、登革熱疫情雙警戒 中衛推清消專用活性碳口罩",
+      "published": "2026-05-28T13:14:00+00:00",
+      "summary": "漢他病毒、登革熱疫情雙警戒 中衛推清消專用活性碳口罩&nbsp;&nbsp;壹蘋新聞網漢他登革熱雙警戒 清消防疫別讓口罩成漏洞&nbsp;&nbsp;Yahoo新聞疫情雙警戒 中衛：清消現場是最需要口罩的時刻 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報防堵鼠疫新商機 口罩業者改良「久戴不適」痛點、增活性碳過濾層&nbsp;&nbsp;自由財經傳染病威脅你我日常生活別忽略口罩防護- 生活&nbsp;&nbsp;工商時報",
       "sources": [
         {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPQ1hDRDY2aDJsRGl2Z0RZRHo1blRKSC0xRy1oU0xxZnE2a1dFWmZyeElqRkx2OGFvWkoxZDhGTFEtTWtqS1FuSHNtQmlwRmJhajdlRjZyVGJNQ05FYlkwd2lkV0ZaS3hzNEx5M3hqTU5YM0w2dWp2aFdtNW5CeHVGYjd1c2RTLXpJVUNuQzRtLXJfVTJyenpTMjZFVE51WW9YMXNJSWVKdjY3eEcyYVpoWnFsa2JUUkN1LW5GMHIxbnMtV0NRcWhaWlgwS0c0U0lPWDBRZVExa0I0NE9tY2VoSDFUYnBhaVkzUEo5NFNDWTRTMl9ZSXY0Vl90T3NzNzlhbGtZcjY2NEo3WExkOFlfdmt3WEE4N2Z1UngzdjdUNUdjZUs1aks2a2VUZmItOGpaMnR1Ri1KR3h0NG50WEpDeEpOVGc3TmhSNjlFaTE4QTRXcXhMMnVTcnY3S1JDUGhJTnotUTNHUXhFdnpGZVhmbTZmZWZyOVNTanZZWUMwbG9DbFBKVzBueFRGUWxrbXY5WGtZQll3?oc=5"
+          "name": "壹蘋新聞網",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fdEpfOTFnTGcxOGxEWmwxX2xwTFROU2NJUUtQSDQtVUJKc2JBdmwzSnFzblZkeDFXNHBKb0dXaEZ3b1hlV1hZT1REX3g5TWdRS3hfemQ1TmRDZ0tJWG9TXzVEM2hicmx4WlRoYkFjMWxlWktKcjhMN0lScVpCd0k?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "冠心病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "e9e01bb06651",
@@ -532,7 +278,7 @@
       "id": "e3f44b1603f7",
       "title": "鼻塞、喉嚨痛不一定只是感冒！醫示警：「這種病毒」感染後恐潛伏數十年，與鼻咽癌有關",
       "published": "2026-05-28T07:30:21+00:00",
-      "summary": "鼻塞、喉嚨痛不一定只是感冒！醫示警：「這種病毒」感染後恐潛伏數十年，與鼻咽癌有關&nbsp;&nbsp;良醫健康網醫療室｜鼻咽癌最常見病徵非流鼻血 可驗血檢測EB病毒抗體做篩查&nbsp;&nbsp;news.tvb.com#EBV P85-Ab檢測&nbsp;&nbsp;優活健康網前副總統陳建仁帶領輔大參與跨國研究 靠「抽血」揪出早期鼻咽癌&nbsp;&nbsp;自由健康網鼻塞、喉嚨痛不一定只是感冒！醫示警：「這種病毒」感染後恐潛伏數十年，與鼻咽癌有關-股市爆料同學會&nbsp;&nbsp;CMoney",
+      "summary": "鼻塞、喉嚨痛不一定只是感冒！醫示警：「這種病毒」感染後恐潛伏數十年，與鼻咽癌有關&nbsp;&nbsp;良醫健康網醫療室｜鼻咽癌最常見病徵非流鼻血 可驗血檢測EB病毒抗體做篩查&nbsp;&nbsp;TVB#EBV P85-Ab檢測&nbsp;&nbsp;優活健康網前副總統陳建仁帶領輔大參與跨國研究 靠「抽血」揪出早期鼻咽癌&nbsp;&nbsp;自由健康網鼻塞、喉嚨痛不一定只是感冒！醫示警：「這種病毒」感染後恐潛伏數十年，與鼻咽癌有關-股市爆料同學會&nbsp;&nbsp;CMoney",
       "sources": [
         {
           "name": "良醫健康網",
@@ -573,19 +319,6 @@
         {
           "name": "纽约时报中文网",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU1lTEhxeG02Q1BYaGFvY01JSjl4dl9NS2ZaYWdSNzFybTZUMm1lb3Z0S3M3TVBDYXJyOFpPQzJ3MGI4Zzlkei1KYWtHU1E2dmRVbmY3djZXUnVZdEktTElmNE81VXgxazJSTDVTOFVFa3JscFJKQkQ4R3puekp0UGcxM25XdDA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "14201622366e",
-      "title": "漢他登革熱雙警戒 清消防疫別讓口罩成漏洞",
-      "published": "2026-05-28T02:57:20+00:00",
-      "summary": "漢他登革熱雙警戒 清消防疫別讓口罩成漏洞&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOS1VDbFAza1pYNVFXUlNtV2ZweHVMZTRRS1llSWtvb3R3VzNRRk9nTVRvR09zWTFycUxfRUNtelRvY05jck9mTXJwa1V2SlZLd3NUcHo4YUcyaFpCb2lJbFJIUzRPbTdUS000SFpUeHQ5X2IzODlKazJUYnRIeDZqOUxOZThSejZud0FyNng0VXVaNHhuaGtaRmNuM1JqSlF5dmwyQmVEWW5UNVI2UzlmUGxlb1ZpNEFVM2traXpraGNMZW45RkRYX19vWkY5NGNDYU5TNTBZanVpcThOeW55di1Dc0RNZHc3bzVERzVfeTQtZ0JMWnNnSWhYOGhVZjVsLThnTEJqVFVkaG1xM20xcFN1R2xTelNJR0J5X0FQekp5dUlMeVdfSUV1X1hnMUQtdHJhTHNoMmc?oc=5"
         }
       ],
       "matched_keywords": []

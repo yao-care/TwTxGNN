@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [無性行為也可能染上HPV！婦科醫：多數人感染無症狀 持續感染下場曝 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDazlXM2tuVzdxQ1hRTncyUG1rWk51NTJQZFFib2NlZTd5dlZOWkxJUFRRbzJWRkRjMEc0RWVnaEJYckt3elMwMnl6TUNXbXdiek84?oc=5)
-
-2026-05-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
-
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDazlXM2tuVzdxQ1hRTncyUG1rWk51NTJQZFFib2NlZTd5dlZOWkxJUFRRbzJWRkRjMEc0RWVnaEJYckt3elMwMnl6TUNXbXdiek84?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [研究：50歲以下大腸癌發生率上升 30多歲也可能中鏢](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1YjdkbWVIaHBXOXRFN201c01hS2pZYjczRHVWbXM4aFhsU3VuTE9TWkFiWDhwWW53R0ZXS1NJdGpMb2o5UkN2LWtxQm5iMFhtMEZOTTJyUUM2TVdPWE5WR3NhT2XSAWpBVV95cUxNTXQ4N0t6RU9zRjhnZWh0aXY4aE9zTkRmZUEyVGF6TGdyZEJwRHBmdDZ0Y2RTZU1SY0FGbWdwa1NvSEMxSU5mLXZ0aG14dWk0eHpxNUJSaE9vc3Zva21RT1EwdUpTWUJYRFR3?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [坐著也能減輕失智風險 研究：關鍵在是否動腦](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cc3B4VXZyYlcxODZwOWpFOW9JaWQ4cXNKTDJfb3IzMnoyX0g4SmgyVDBaNmVFRnRpUk1ZNndXNFRRRkhJZy1nZUprYnlPbE1wcnR1eVRjOHJuOWtScEdrM2hR0gFnQVVfeXFMT29yRW1KbkRZX2MzSndjUHktSnZsemlKVktFWjhSUWZmVG9vdXpUdzJLX1l1RDhfaE1WMWtzWDY2Ul9mbFpqZ2ZjYkF4ejB3RW80dEN5Sjg3ampxaXlBLXNibjNJcWpDRQ?oc=5)
 
@@ -64,14 +64,6 @@ permalink: /news/gefitinib/
 2026-05-29 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi3wJBVV95cUxQMERzd2J6c2FqVHA2T0VscHhkX1RCLXRPdmpvLXUzWDVtVTFGVXJBeEJYZjhENGN4ZzRTZ1Q3TzRoU0FTMENQRnhGOFFYamdFajNOX1FQcENEYnlfM2FvRmYydW8zMkVoLVdXWFU3N3F1SFluQ0tUV1AtdUpzRS00T3oxenplRUd2aXY5Z1I4bFkzQUNvYW9HaUZzTkI3cDdoS3ljcTU4TDRpVjZ1TkdzZ2M2ZHRMdGtja2V6YlplOUFaU0RsZ20wZnNKeklRaUVhVkNYcjRpdXk2RVpoNUVtS2ZrMlRpYmsyeWExUndmVHNmQWRBb0dZTE80SDlLQ0Z3bzdmQzc2TXhob2Z5d2cwVmdVOVdRY0NDXzZiWEVqSnA0eFg2Y215NV9NeFBRaklhcW1FdDlJYjFZbUhLVV9FNVRlakpXRTVQSVo1LWVybTh1cEMyTXhxOHdSWmN1VmM?oc=5)
-
----
-
-### [無性行為也可能染上HPV！婦科醫：多數人感染無症狀 持續感染下場曝 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDazlXM2tuVzdxQ1hRTncyUG1rWk51NTJQZFFib2NlZTd5dlZOWkxJUFRRbzJWRkRjMEc0RWVnaEJYckt3elMwMnl6TUNXbXdiek84?oc=5)
-
-2026-05-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
-
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDazlXM2tuVzdxQ1hRTncyUG1rWk51NTJQZFFib2NlZTd5dlZOWkxJUFRRbzJWRkRjMEc0RWVnaEJYckt3elMwMnl6TUNXbXdiek84?oc=5)
 
 ---
 

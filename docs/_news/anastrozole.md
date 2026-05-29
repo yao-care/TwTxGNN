@@ -14,7 +14,7 @@ permalink: /news/anastrozole/
 ---
 
 <p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
-<strong>Anastrozole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Anastrozole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,15 +38,7 @@ permalink: /news/anastrozole/
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [無性行為也可能染上HPV！婦科醫：多數人感染無症狀 持續感染下場曝 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDazlXM2tuVzdxQ1hRTncyUG1rWk51NTJQZFFib2NlZTd5dlZOWkxJUFRRbzJWRkRjMEc0RWVnaEJYckt3elMwMnl6TUNXbXdiek84?oc=5)
-
-2026-05-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
-
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDazlXM2tuVzdxQ1hRTncyUG1rWk51NTJQZFFib2NlZTd5dlZOWkxJUFRRbzJWRkRjMEc0RWVnaEJYckt3elMwMnl6TUNXbXdiek84?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [通霄男性癌症死亡率高於女性2.7倍！ 衛生局5/31推免費大篩檢](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ud3JsbnVudGRHcndKZFYtRXJOYkVJMWxtcG8xUDZKMHVYcFMtRV9KZ2NFNTRfZGFmcm1wU2hyQjFSaVpvZlZIMkpoRi05M0haZ1dPc1l2V0VDYXFvQVhZajQ5OGTSAWpBVV95cUxNVUptY05ZRUNtdEZtS1M4QzctYWppN1hHZm1HRldjblBDeElxX2NDZVdlUkQ1N25VbkVxcERtZjFfcEFiT01SY2RLYlhxOThiM0NkUHcyZDNOQUhuOF9UNWJzd1RLZWZWOVdn?oc=5)
 
