@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-30T13:05:39.490094+00:00",
-  "total_count": 13,
-  "matched_count": 5,
+  "last_updated": "2026-05-30T14:59:05.310200+00:00",
+  "total_count": 12,
+  "matched_count": 4,
   "news": [
     {
       "id": "0e22ddad6b37",
@@ -20,7 +20,7 @@
       "id": "7f1202da1926",
       "title": "Google要放「3200萬隻蚊子」超狂目的曝光 居民怕爆：別在我家後院實驗",
       "published": "2026-05-30T07:49:00+00:00",
-      "summary": "Google要放「3200萬隻蚊子」超狂目的曝光 居民怕爆：別在我家後院實驗&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "Google要放「3200萬隻蚊子」超狂目的曝光 居民怕爆：別在我家後院實驗&nbsp;&nbsp;Yahoo新聞在美釋放3200萬隻蚊子！Google超狂計劃曝光&nbsp;&nbsp;Yahoo新聞為消滅病媒蚊！ Google擬向加州、佛州釋放3200萬隻「基改蚊子」 - 國際新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞谷歌神秘計畫！擬在美國釋放3200萬隻蚊子 背後用意曝光&nbsp;&nbsp;TVBS新聞網Google秘密計畫曝光！準備在美國放出3200萬隻蚊子&nbsp;&nbsp;自由時報",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -317,7 +317,7 @@
       "id": "6899ab1be8ed",
       "title": "不只記憶衰退！「嗅覺異常」恐是失智症警訊，研究曝原因",
       "published": "2026-05-29T09:20:00+00:00",
-      "summary": "不只記憶衰退！「嗅覺異常」恐是失智症警訊，研究曝原因&nbsp;&nbsp;Yahoo新聞失智症最早警訊恐非健忘 研究：很多人先開始聞不到味道&nbsp;&nbsp;自由健康網科學研究- 日本東北大學等發現：多巴胺不足引發阿茲海默症記憶障礙，有望利用多巴胺開發新療法&nbsp;&nbsp;客观日本原來45歲就開始了！「2徵狀」 恐是阿茲海默症前兆 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
+      "summary": "不只記憶衰退！「嗅覺異常」恐是失智症警訊，研究曝原因&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -329,17 +329,6 @@
           "type": "indication",
           "name": "dementia",
           "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "阿茲海默症",
-          "keyword": "阿茲海默症",
           "related_drugs": [
             {
               "slug": "gefitinib",
@@ -369,19 +358,6 @@
         {
           "name": "良醫健康網",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Qd0l5SWo0VGpfc3JMWGxDQW85U2E4MExLUVFGaFZwTFZBc0ZISUxvMFJvTEJZbHVHemstTlpZeGwybGZMRlpScHF5TmQ2T0tOdHdXQzRES0Zjc016RF9RQ1FzRGVEVWM3dVE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1a6f426b5b3b",
-      "title": "大蒜不只驅蚊，耶魯研究：關鍵化合物可讓害蟲絕育 | 科技新報 - LINE TODAY",
-      "published": "2026-05-29T08:35:06+00:00",
-      "summary": "大蒜不只驅蚊，耶魯研究：關鍵化合物可讓害蟲絕育 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Pbno4akRJXzRjSUs0V3JRcmdFR0taMjZQRkdTY0FFOXlHc0xoZWpocFhvQnpUb0xqR0VRMnlaRkNZQlo4bW1FTGRybmdfUHBiYXQ4dGd3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -446,40 +422,17 @@
       ]
     },
     {
-      "id": "b9d95f87f5c4",
-      "title": "「抽血」也能揪出鼻咽癌！輔大攜手陳建仁院士跨國研究登國際期刊",
-      "published": "2026-05-28T13:58:01+00:00",
-      "summary": "「抽血」也能揪出鼻咽癌！輔大攜手陳建仁院士跨國研究登國際期刊&nbsp;&nbsp;蕃新聞鼻塞、喉嚨痛不一定只是感冒！醫示警：「這種病毒」感染後恐潛伏數十年，與鼻咽癌有關&nbsp;&nbsp;良醫健康網醫療室｜鼻咽癌最常見病徵非流鼻血 可驗血檢測EB病毒抗體做篩查&nbsp;&nbsp;TVB#EBV P85-Ab檢測&nbsp;&nbsp;優活健康網前副總統陳建仁帶領輔大參與跨國研究 靠「抽血」揪出早期鼻咽癌&nbsp;&nbsp;自由健康網",
+      "id": "1a6f426b5b3b",
+      "title": "大蒜不只驅蚊，耶魯研究：關鍵化合物可讓害蟲絕育 | 科技新報 - LINE TODAY",
+      "published": "2026-05-28T21:12:10+00:00",
+      "summary": "大蒜不只驅蚊，耶魯研究：關鍵化合物可讓害蟲絕育 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RRFRTTG1JLXB6YmJRQXY3SmU5WEpNbDNUMktWVVpadHdMZWloMk5oZmJKaDdkM3YxZEVHdWlpbkN3eGFFOGdIUWZlSzRrZktRTGc?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Pbno4akRJXzRjSUs0V3JRcmdFR0taMjZQRkdTY0FFOXlHc0xoZWpocFhvQnpUb0xqR0VRMnlaRkNZQlo4bW1FTGRybmdfUHBiYXQ4dGd3?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "鼻塞",
-          "keyword": "鼻塞",
-          "related_drugs": [
-            {
-              "slug": "xylometazoline",
-              "name": "Xylometazoline"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "554d4b56a4a9",

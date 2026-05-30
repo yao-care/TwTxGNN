@@ -14,7 +14,7 @@ permalink: /news/xylometazoline/
 ---
 
 <p class="key-answer" data-question="Xylometazoline 有什麼相關新聞？">
-<strong>Xylometazoline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Xylometazoline</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,9 @@ permalink: /news/xylometazoline/
 <p><a href="{{ '/drugs/xylometazoline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [「抽血」也能揪出鼻咽癌！輔大攜手陳建仁院士跨國研究登國際期刊](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RRFRTTG1JLXB6YmJRQXY3SmU5WEpNbDNUMktWVVpadHdMZWloMk5oZmJKaDdkM3YxZEVHdWlpbkN3eGFFOGdIUWZlSzRrZktRTGc?oc=5)
-
-2026-05-28 <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">鼻塞</span>
-
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RRFRTTG1JLXB6YmJRQXY3SmU5WEpNbDNUMktWVVpadHdMZWloMk5oZmJKaDdkM3YxZEVHdWlpbkN3eGFFOGdIUWZlSzRrZktRTGc?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

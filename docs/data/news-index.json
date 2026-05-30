@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-30T13:05:39.514282+00:00",
-  "count": 5,
+  "generated": "2026-05-30T14:59:05.327435+00:00",
+  "count": 4,
   "news": [
     {
       "id": "5872f0f74d90",
@@ -269,17 +269,6 @@
         },
         {
           "type": "indication",
-          "name": "阿茲海默症",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
           "name": "失智",
           "keyword": "失智",
           "related_drugs": [
@@ -344,41 +333,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b9d95f87f5c4",
-      "title": "「抽血」也能揪出鼻咽癌！輔大攜手陳建仁院士跨國研究登國際期刊",
-      "published": "2026-05-28T13:58:01+00:00",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RRFRTTG1JLXB6YmJRQXY3SmU5WEpNbDNUMktWVVpadHdMZWloMk5oZmJKaDdkM3YxZEVHdWlpbkN3eGFFOGdIUWZlSzRrZktRTGc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "鼻塞",
-          "keyword": "鼻塞",
-          "related_drugs": [
-            {
-              "slug": "xylometazoline",
-              "name": "Xylometazoline"
             }
           ]
         }
