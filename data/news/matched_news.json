@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-05-29T23:04:25.331088+00:00",
-  "total_count": 19,
-  "matched_count": 7,
+  "last_updated": "2026-05-30T02:12:14.914709+00:00",
+  "total_count": 18,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "13d0904712b5",
+      "title": "江飛宇Science》新加坡如何利用細菌戰法與AI 在熱帶地區壓制登革熱疫情？",
+      "published": "2026-05-29T23:40:30+00:00",
+      "summary": "江飛宇Science》新加坡如何利用細菌戰法與AI 在熱帶地區壓制登革熱疫情？&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByVnZFejR2OWpnTmVOUndCS1BRcjZ4RDZfdHBrbENCSnJmTzFDcGhUUWVzMHRBRV9LTVRod1hSUWltMTBJZDhKUlNPeUl1MDdvWnNoMWlqbGtQR0pIU2ZXNVhvQ0tDYmV3VHBLVk5n?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5011a27fbf2a",
+      "title": "移植器官最危險的一小時，找到阻止「鐵死亡」的新方法 - TechNews 科技新報",
+      "published": "2026-05-29T16:01:24+00:00",
+      "summary": "移植器官最危險的一小時，找到阻止「鐵死亡」的新方法&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdk5FX3JVeHVLamI2cUVycVFVbEIzbU5rMkp4V3RJYmJ0VWZvdW5xOVZqMGhtRUpsbjVNdk41b09SWDl0Ym9abVZKVWc2bWZDVHNXRXNqRjViY1drdko5NHVYeV9GWnpZNTJlajEzSE94V2tGSE1FM05UcWNPR0FwRjdNSnR2MUpvZG1KVVFGbnBKa2JOVTJvZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "bb56827e6a69",
       "title": "坐著也能減輕失智風險 研究：關鍵在是否動腦",
@@ -223,32 +249,6 @@
       ]
     },
     {
-      "id": "5e2613b9e2f2",
-      "title": "7天內確診翻倍！星國登革熱創今年單週新高 | NOWNEWS今日新聞 - LINE TODAY",
-      "published": "2026-05-28T16:58:51+00:00",
-      "summary": "7天內確診翻倍！星國登革熱創今年單週新高 | NOWNEWS今日新聞&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zTWdBM0NQSlZ5eU1pdVFYbEYzTDFiSTZJamdZVWJOMXJTZnNfc01QeGszaGdNb2lNczFFRnBHcFJrRGt0SG41dUdNQl9XV01kUW5KNVNR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b1dc0d997cdd",
-      "title": "漢他病毒、登革熱疫情雙警戒 中衛推清消專用活性碳口罩",
-      "published": "2026-05-28T13:14:00+00:00",
-      "summary": "漢他病毒、登革熱疫情雙警戒 中衛推清消專用活性碳口罩&nbsp;&nbsp;壹蘋新聞網漢他登革熱雙警戒 清消防疫別讓口罩成漏洞&nbsp;&nbsp;Yahoo新聞疫情雙警戒 中衛：清消現場是最需要口罩的時刻 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報防堵鼠疫新商機 口罩業者改良「久戴不適」痛點、增活性碳過濾層&nbsp;&nbsp;自由財經傳染病威脅你我日常生活別忽略口罩防護- 生活&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "壹蘋新聞網",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fdEpfOTFnTGcxOGxEWmwxX2xwTFROU2NJUUtQSDQtVUJKc2JBdmwzSnFzblZkeDFXNHBKb0dXaEZ3b1hlV1hZT1REX3g5TWdRS3hfemQ1TmRDZ0tJWG9TXzVEM2hicmx4WlRoYkFjMWxlWktKcjhMN0lScVpCd0k?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "e9e01bb06651",
       "title": "德州聖大衛醫療中心心律不正研究所將主辦複雜性心律不正國際會議",
       "published": "2026-05-28T08:26:42+00:00",
@@ -319,6 +319,19 @@
         {
           "name": "纽约时报中文网",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU1lTEhxeG02Q1BYaGFvY01JSjl4dl9NS2ZaYWdSNzFybTZUMm1lb3Z0S3M3TVBDYXJyOFpPQzJ3MGI4Zzlkei1KYWtHU1E2dmRVbmY3djZXUnVZdEktTElmNE81VXgxazJSTDVTOFVFa3JscFJKQkQ4R3puekp0UGcxM25XdDA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a630f0118873",
+      "title": "天熱病毒蠢動！彰化防蚊滅鼠動起來 專家曝「1動作」很重要",
+      "published": "2026-05-28T03:45:12+00:00",
+      "summary": "天熱病毒蠢動！彰化防蚊滅鼠動起來 專家曝「1動作」很重要&nbsp;&nbsp;自由時報漢他登革熱雙警戒 清消防疫別讓口罩成漏洞&nbsp;&nbsp;Yahoo新聞疫情雙警戒 中衛：清消現場是最需要口罩的時刻 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報天熱病毒蠢動！彰化防蚊滅鼠動起來專家曝「1動作」很重要- 生活&nbsp;&nbsp;自由時報傳染病威脅你我日常生活別忽略口罩防護- 生活&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "自由時報",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RUENUTVdkTDY2aWx3dTMxYXhCcm1uZHc0R1VVa1RDZmlTbmtjWlVORHd5c21pajJIU193RU8xSG5SUjdUcVB1aVNLbTRvTjNtdjVXZTFfd0w0OV92enJ1cjlJVmNPM0twcGfSAW9BVV95cUxOQndCNW00YnJhcEtwMXVaa2R1MGZiZVVEakJkWFgtYk5ZX3l5TEJDcHVWUmcwRjRVa3V6Y1dIMnZCSURIZGpIeGZTdi1DT1YwS3RNaWxhTDJDNmN2VVdsZUZGT25ibW9zd2cyT1JJd2M?oc=5"
         }
       ],
       "matched_keywords": []
@@ -541,67 +554,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNQXM2SkRGcnozMmZQblFsUTRwWHhLeXVyMlB0dEFvOHpYNkhlZERsSXRxRkJXdUJJeHBSM2Rral9PbWlaTHNzZ2NtYWVsZFpsV1ZnRDQzYWM0bDBqUm8tbkxsNHIyOExScnRXWWZpaHNpbEMyOWl4aDFET3JvdVI2WDJxbWF0NlhRVVYyTHNOZ2NoQW56LVZBcWxBNlduYkYyS2JpbHh5ZDJBNEVsUnBEa1ZDUF9tYWp1bkhyRDZKSTZBclBWVXJRejY3eFBKc2poT0NySnZtbWg5eDM4RTZzYkVmMHRJd3JFdm80YmNHMHA4MXItSHFOY1UxUXpoMURWNkFQOXBJOG5yQUxzU2o3clhPcHBXdzRl?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c7e0dafdf068",
-      "title": "肉吃得比美國少一半日本大腸癌發生率仍超高醫揪3隱形殺手- 健康",
-      "published": "2026-05-28T01:36:20+00:00",
-      "summary": "肉吃得比美國少一半日本大腸癌發生率仍超高醫揪3隱形殺手- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd0ZPblNiQ2c1T3RoLV9FT1BkNW54WHBkMGhPc2M0U2VNOGxxOTBoTzc0Uk1DRDg2T3liRFd3UWNobUtnNlZ0cUc1Y0djTnc3dnRBZkxaLUFCcnNuM2tkMVJGZGlibmUyRGtiQ3BNZHotY2pKNTBueENwdlltZmdzalZyY1RqOHBnOTh3RDJoWQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5b96edd413ea",
-      "title": "健康，是給孩子們最好的禮物（服務窗·“六一”國際兒童節特別策劃） --新聞報道-中國共產黨新聞網",
-      "published": "2026-05-28T00:51:00+00:00",
-      "summary": "健康，是給孩子們最好的禮物（服務窗·“六一”國際兒童節特別策劃） --新聞報道-中國共產黨新聞網&nbsp;&nbsp;中国共产党新闻网健康網》小時候胖要注意 專家：12歲腰圍看到警訊&nbsp;&nbsp;自由健康網兒童及青少年肥胖問題，我們該如何一起面對？&nbsp;&nbsp;careonline.com.tw兒童肥胖｜平日小朋友一兩杯珍奶無問題？ 瑞典研究﹕童年肥胖30歲前患糖尿病風險升18倍即睇醫生健康建議| 健康百科&nbsp;&nbsp;Oh!爸媽",
-      "sources": [
-        {
-          "name": "中国共产党新闻网",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yTHRPRW5KNzhVVHJ6WERuWkowM3NuczJqWTRxdHJnY1U0bmdvdjlQNU0zUVcwVXA0TjRneVAzWW12NmNMaTBEVGpPM21ZN2xOam90WXZ2czFrb3phb0RDYm1jZ2JKMG5zTFhhalY1M2s?oc=5"
         }
       ],
       "matched_keywords": []

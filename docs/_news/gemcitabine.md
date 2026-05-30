@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [研究：50歲以下大腸癌發生率上升 30多歲也可能中鏢](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1YjdkbWVIaHBXOXRFN201c01hS2pZYjczRHVWbXM4aFhsU3VuTE9TWkFiWDhwWW53R0ZXS1NJdGpMb2o5UkN2LWtxQm5iMFhtMEZOTTJyUUM2TVdPWE5WR3NhT2XSAWpBVV95cUxNTXQ4N0t6RU9zRjhnZWh0aXY4aE9zTkRmZUEyVGF6TGdyZEJwRHBmdDZ0Y2RTZU1SY0FGbWdwa1NvSEMxSU5mLXZ0aG14dWk0eHpxNUJSaE9vc3Zva21RT1EwdUpTWUJYRFR3?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/gemcitabine/
 2026-05-28 <span class="news-indication-tag">癌症</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ud3JsbnVudGRHcndKZFYtRXJOYkVJMWxtcG8xUDZKMHVYcFMtRV9KZ2NFNTRfZGFmcm1wU2hyQjFSaVpvZlZIMkpoRi05M0haZ1dPc1l2V0VDYXFvQVhZajQ5OGTSAWpBVV95cUxNVUptY05ZRUNtdEZtS1M4QzctYWppN1hHZm1HRldjblBDeElxX2NDZVdlUkQ1N25VbkVxcERtZjFfcEFiT01SY2RLYlhxOThiM0NkUHcyZDNOQUhuOF9UNWJzd1RLZWZWOVdn?oc=5)
-
----
-
-### [肉吃得比美國少一半日本大腸癌發生率仍超高醫揪3隱形殺手- 健康](https://news.google.com/rss/articles/CBMijwFBVV95cUxPd0ZPblNiQ2c1T3RoLV9FT1BkNW54WHBkMGhPc2M0U2VNOGxxOTBoTzc0Uk1DRDg2T3liRFd3UWNobUtnNlZ0cUc1Y0djTnc3dnRBZkxaLUFCcnNuM2tkMVJGZGlibmUyRGtiQ3BNZHotY2pKNTBueENwdlltZmdzalZyY1RqOHBnOTh3RDJoWQ?oc=5)
-
-2026-05-28 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxPd0ZPblNiQ2c1T3RoLV9FT1BkNW54WHBkMGhPc2M0U2VNOGxxOTBoTzc0Uk1DRDg2T3liRFd3UWNobUtnNlZ0cUc1Y0djTnc3dnRBZkxaLUFCcnNuM2tkMVJGZGlibmUyRGtiQ3BNZHotY2pKNTBueENwdlltZmdzalZyY1RqOHBnOTh3RDJoWQ?oc=5)
 
 ---
 
