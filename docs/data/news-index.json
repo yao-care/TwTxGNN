@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-30T14:59:05.327435+00:00",
-  "count": 4,
+  "generated": "2026-05-30T16:05:31.454517+00:00",
+  "count": 3,
   "news": [
     {
       "id": "5872f0f74d90",
@@ -218,41 +218,6 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cc3B4VXZyYlcxODZwOWpFOW9JaWQ4cXNKTDJfb3IzMnoyX0g4SmgyVDBaNmVFRnRpUk1ZNndXNFRRRkhJZy1nZUprYnlPbE1wcnR1eVRjOHJuOWtScEdrM2hR0gFnQVVfeXFMT29yRW1KbkRZX2MzSndjUHktSnZsemlKVktFWjhSUWZmVG9vdXpUdzJLX1l1RDhfaE1WMWtzWDY2Ul9mbFpqZ2ZjYkF4ejB3RW80dEN5Sjg3ampxaXlBLXNibjNJcWpDRQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6899ab1be8ed",
-      "title": "不只記憶衰退！「嗅覺異常」恐是失智症警訊，研究曝原因",
-      "published": "2026-05-29T09:20:00+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQMERzd2J6c2FqVHA2T0VscHhkX1RCLXRPdmpvLXUzWDVtVTFGVXJBeEJYZjhENGN4ZzRTZ1Q3TzRoU0FTMENQRnhGOFFYamdFajNOX1FQcENEYnlfM2FvRmYydW8zMkVoLVdXWFU3N3F1SFluQ0tUV1AtdUpzRS00T3oxenplRUd2aXY5Z1I4bFkzQUNvYW9HaUZzTkI3cDdoS3ljcTU4TDRpVjZ1TkdzZ2M2ZHRMdGtja2V6YlplOUFaU0RsZ20wZnNKeklRaUVhVkNYcjRpdXk2RVpoNUVtS2ZrMlRpYmsyeWExUndmVHNmQWRBb0dZTE80SDlLQ0Z3bzdmQzc2TXhob2Z5d2cwVmdVOVdRY0NDXzZiWEVqSnA0eFg2Y215NV9NeFBRaklhcW1FdDlJYjFZbUhLVV9FNVRlakpXRTVQSVo1LWVybTh1cEMyTXhxOHdSWmN1VmM?oc=5"
         }
       ],
       "keywords": [
