@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-05-30T21:52:43.164919+00:00",
-  "count": 11,
+  "fetched_at": "2026-05-30T22:49:37.736690+00:00",
+  "count": 10,
   "news": [
     {
       "id": "0e22ddad6b37",
@@ -84,18 +84,6 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93bWNjT2J0Wk1CdkFlZTBGUEdWT3BISDB6bFhwQUJmZEprZ0NHSDd0TWxkVmcxeS0tRFlQSUMyUXJBMzYwQkJWWlUtaFJhd0MxYlg2QjUzb0Zfb0V3U2tv0gFkQVVfeXFMT3BMTThhRjRLMGVWVXE4dnhqYmdWUTk4UjRnV1BBNFlYUVNXOG1kSUp6R3VUMTJyRk9JYWY3WnJEM3pfV1JlT0VvbmR4ZGVZakdrZ2QwWG5nbDRNMnN0OElUdjNrMQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1a6f426b5b3b",
-      "title": "大蒜不只驅蚊，耶魯研究：關鍵化合物可讓害蟲絕育 | 科技新報 - LINE TODAY",
-      "published": "2026-05-28T21:12:10+00:00",
-      "summary": "大蒜不只驅蚊，耶魯研究：關鍵化合物可讓害蟲絕育 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Pbno4akRJXzRjSUs0V3JRcmdFR0taMjZQRkdTY0FFOXlHc0xoZWpocFhvQnpUb0xqR0VRMnlaRkNZQlo4bW1FTGRybmdfUHBiYXQ4dGd3?oc=5"
         }
       ]
     },
