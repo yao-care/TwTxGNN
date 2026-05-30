@@ -1,33 +1,32 @@
 {
-  "last_updated": "2026-05-30T09:09:55.636219+00:00",
-  "total_count": 16,
-  "matched_count": 6,
+  "last_updated": "2026-05-30T11:13:15.502613+00:00",
+  "total_count": 13,
+  "matched_count": 7,
   "news": [
     {
-      "id": "2ecac306cc2f",
+      "id": "0e22ddad6b37",
       "title": "HPV疫苗問世20周年了 李秉穎：青少年男女都該接種",
-      "published": "2026-05-30T08:14:26+00:00",
-      "summary": "HPV疫苗問世20周年了 李秉穎：青少年男女都該接種&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNYV9lWUlfUllEdVd4RFByZGpkWXU1ZmJfLVhZeXZmdC0yZGxYZktvUVlZZzV6cDlrZWh4eU51RWhMZFN1ekotWXpVbDBUVG1ZaFJ6QVpQTzdoWkUycHl2VW05ZDVVdUhEX1JpTVhwd3FRc1I1OS16NHgtUUE0VTVqX21za1ZveG9CcXpSMEN0VTFZMGFLRjRSWE1UdEx2ekF3N1BZSzIyRFRmU1ZONDJ1dXF1VDBOekhsRmtWRnFJWkZYbExtWVFBYjRyVUtmN1hjRk1BRjV0bjl3d0xxWUZwZzJPb3QxMHBQdnBUcEFMaGlLbDlPN1ZfMUdpeE9JMEJjbmVxYkdyQzdVT1EyQUNmZC1yemF5d2hWTHd4U0RWRGdpUFBGQ3llaGhpMU1uNEx5N0NMZnM2SzM0U3hzd0U0Vw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9f1683707302",
-      "title": "人體首見！男子同時移植豬肝與兩顆豬腎 成功運作近5天",
-      "published": "2026-05-30T05:04:00+00:00",
-      "summary": "人體首見！男子同時移植豬肝與兩顆豬腎 成功運作近5天&nbsp;&nbsp;自由健康網",
+      "published": "2026-05-30T08:14:00+00:00",
+      "summary": "HPV疫苗問世20周年了 李秉穎：青少年男女都該接種&nbsp;&nbsp;自由健康網未接種HPV疫苗 台大感染醫自曝「潔身自愛仍長疣」已自行剝除&nbsp;&nbsp;Yahoo新聞子宮頸抹片多久做一次？抹片異常代表罹癌？帶你初步看懂抹片報告&nbsp;&nbsp;PChome Online 新聞子宮頸癌每年奪700位台灣女性生命 國泰醫：定期篩檢3年97%可被揪出&nbsp;&nbsp;民報HPV病毒潛伏體內難根除！菜花復發高峰竟在術後3個月&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPU2ZQaHB1OGpsSWFocklWRV8ydkFGRjlWSTJSelRHQXlqWGV1d2QwZTVnc3VyWEdQejF3NVZZZ0NKREJ1NTc2WGNsOXMzOEtFbE9VV2VBdkNfSlA4T0dRY2JFVmbSAWpBVV95cUxNUlhlV0pVYnl2YmVSZ1EzMzRubXBOdlc2dWlaZ2ozdUVrU3h5RWREMVhMcVBDTmJFajJJSndDVDlsRTVaOXJzaFV3SjUwNTJ0cUhDcER3ZThtUERrTHoxTExqNkRmaFhYakhB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55WmRVVDVEYnpUclJ4R3RLbS1JTXpGN2VhY3V3bzAzWFB3UlZBRjRwMU5zMFVLNWN1T251OVFIdmpLNkU5UV8wY1UtSnpabXg5TklVNmUyci1BTExzYzE2U2tBWXLSAWpBVV95cUxPOTE1cmIxUGVGZEpPUlh2dGQzTDFDc0daTWlfczN4UmNXTFl0eXRyUE5MeEE2M2dBQi1rT1ZXWlVMX2szWXFZUDMyTGgybzRKY3JsYV81VTJiUG9pQ1hkaUhyYWpDa0dDak9n?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "5872f0f74d90",
@@ -553,32 +552,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "e9e01bb06651",
-      "title": "德州聖大衛醫療中心心律不正研究所將主辦複雜性心律不正國際會議",
-      "published": "2026-05-28T08:26:42+00:00",
-      "summary": "德州聖大衛醫療中心心律不正研究所將主辦複雜性心律不正國際會議&nbsp;&nbsp;台灣新聞雲報",
-      "sources": [
-        {
-          "name": "台灣新聞雲報",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5BLUJWSDlLVnhWZlA4WXlIUjVmQjllT0NKVHVQSkNYcUt2VkJEZDVxT0l1Vk4zZkg0bkM2SzZTeEgwZmxCbGc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "60f731a5e362",
-      "title": "星島申訴王 | 背心女睇戲 皮膚勁痕衝出劇院 網民估蚊叮蝨咬 醫生：疑屬風癩",
-      "published": "2026-05-28T08:11:12+00:00",
-      "summary": "星島申訴王 | 背心女睇戲 皮膚勁痕衝出劇院 網民估蚊叮蝨咬 醫生：疑屬風癩&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxQM3hSZ2paRXkxekh3aUFKeUFTZjM1cnVCN0Rkdm9rUGNqbzVWUTYtaXpzWTVRVjYyV293UlNmSlBqeGhSRjRWVC03QTRGMkhqTlFmem9KNTQ3bHgwZVN4Y3J0cjlGek5kRzJDWFQ1Y3loX1E0dzMxSjBNZTk5LWlTTWJINF92ejRrTm9nLU1OS3BhOGFzY2x3bnRzbVNJcmhpenNGenhNWERTbl9iYXh1eERiclRnaHJaUkJORGpPMy1YMGgwYjJaTHh5SjFNODB1V1Q4ZmpqRXhBejBnTWdSNm41N3BfVkJMbmplV0VCRTdQRjdMMGV2eGloZmx3MDVLOEljZlF6Wkx5WVBTYno1N3BZN3VyclFNNTNqc3N4cnYwcWd1bkQ1Sk56YXZ3ZlRJejJ5OHh4NGhIMTQ5c0lMMXRUV2FLVGtFYTF1UWJhMDFwOHladFY4c3lReGJ2TFN4S0FQT0Q0azhaLTRNclJrdmNtdEFyNkQxMDJyWW1PY3VMendNNGFDemZyb09zNEpybUFHWFNNVUtSRjBQaTZsVzhXOF94UmlwQTRhS3BuN2JPLVVKUlEwb1FNUlA5SmFQdmc4aF9McTVUbU5pTHh2dVlBNTF2Zw?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "554d4b56a4a9",

@@ -1,7 +1,31 @@
 {
-  "generated": "2026-05-30T09:09:55.664831+00:00",
-  "count": 6,
+  "generated": "2026-05-30T11:13:15.533602+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "0e22ddad6b37",
+      "title": "HPV疫苗問世20周年了 李秉穎：青少年男女都該接種",
+      "published": "2026-05-30T08:14:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55WmRVVDVEYnpUclJ4R3RLbS1JTXpGN2VhY3V3bzAzWFB3UlZBRjRwMU5zMFVLNWN1T251OVFIdmpLNkU5UV8wY1UtSnpabXg5TklVNmUyci1BTExzYzE2U2tBWXLSAWpBVV95cUxPOTE1cmIxUGVGZEpPUlh2dGQzTDFDc0daTWlfczN4UmNXTFl0eXRyUE5MeEE2M2dBQi1rT1ZXWlVMX2szWXFZUDMyTGgybzRKY3JsYV81VTJiUG9pQ1hkaUhyYWpDa0dDak9n?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "5872f0f74d90",
       "title": "香港癌症基金會專欄：「港兄弟•講檢查」關注男性癌症講座 – 應對策略-專欄- 明周文化 - Ming Pao Weekly",
