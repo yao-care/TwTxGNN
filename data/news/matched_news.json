@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-30T16:05:31.432794+00:00",
-  "total_count": 11,
-  "matched_count": 3,
+  "last_updated": "2026-05-30T17:57:33.975193+00:00",
+  "total_count": 12,
+  "matched_count": 4,
   "news": [
     {
       "id": "0e22ddad6b37",
@@ -239,6 +239,19 @@
       ]
     },
     {
+      "id": "4c9cbf89bcab",
+      "title": "移植器官最危險的一小時，找到阻止「鐵死亡」的新方法 | 科技新報 - LINE TODAY",
+      "published": "2026-05-30T00:24:41+00:00",
+      "summary": "移植器官最危險的一小時，找到阻止「鐵死亡」的新方法 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BWExtMTFtX3ZHMjltbm9peFRhNTR6S01rb1JKOURMSW1sbGdKWkFCSURGVW5tYXFtUUdqVFctY1RfTzZDMk9GQmo0ZFBCUkllRHpWdXVB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "13d0904712b5",
       "title": "江飛宇Science》新加坡如何利用細菌戰法與AI 在熱帶地區壓制登革熱疫情？",
       "published": "2026-05-29T23:40:30+00:00",
@@ -252,23 +265,10 @@
       "matched_keywords": []
     },
     {
-      "id": "5011a27fbf2a",
-      "title": "移植器官最危險的一小時，找到阻止「鐵死亡」的新方法 - TechNews 科技新報",
-      "published": "2026-05-29T16:01:24+00:00",
-      "summary": "移植器官最危險的一小時，找到阻止「鐵死亡」的新方法&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdk5FX3JVeHVLamI2cUVycVFVbEIzbU5rMkp4V3RJYmJ0VWZvdW5xOVZqMGhtRUpsbjVNdk41b09SWDl0Ym9abVZKVWc2bWZDVHNXRXNqRjViY1drdko5NHVYeV9GWnpZNTJlajEzSE94V2tGSE1FM05UcWNPR0FwRjdNSnR2MUpvZG1KVVFGbnBKa2JOVTJvZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "bb56827e6a69",
       "title": "坐著也能減輕失智風險 研究：關鍵在是否動腦",
       "published": "2026-05-29T13:08:08+00:00",
-      "summary": "坐著也能減輕失智風險 研究：關鍵在是否動腦&nbsp;&nbsp;世界新聞網上班族福音！新研究曝「這種久坐」可防失智症&nbsp;&nbsp;祝你健康研究：某種「久坐方式」 恐比其他坐法更易增失智風險&nbsp;&nbsp;MSN研究：同是久坐 看電視和讀書的失智風險大不同&nbsp;&nbsp;新唐人電視台研究：久坐期間保持大腦活躍 或降低失智症風險&nbsp;&nbsp;自由健康網",
+      "summary": "坐著也能減輕失智風險 研究：關鍵在是否動腦&nbsp;&nbsp;世界新聞網上班族福音！新研究曝「這種久坐」可防失智症&nbsp;&nbsp;祝你健康研究：同是久坐 看電視和讀書的失智風險大不同&nbsp;&nbsp;新唐人電視台研究：久坐期間保持大腦活躍 或降低失智症風險&nbsp;&nbsp;自由健康網久坐能防失智？最新研究揭密：長者「動腦型久坐」預防失智症上身&nbsp;&nbsp;優活健康網",
       "sources": [
         {
           "name": "世界新聞網",
@@ -325,6 +325,230 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "81844d54cce4",
+      "title": "🎧｜2026癌症論壇／血尿竟不痛？「這狀況」反覆發生小心膀胱癌　前兆、治療一次看",
+      "published": "2026-05-29T07:51:15+00:00",
+      "summary": "🎧｜2026癌症論壇／血尿竟不痛？「這狀況」反覆發生小心膀胱癌 前兆、治療一次看&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93bWNjT2J0Wk1CdkFlZTBGUEdWT3BISDB6bFhwQUJmZEprZ0NHSDd0TWxkVmcxeS0tRFlQSUMyUXJBMzYwQkJWWlUtaFJhd0MxYlg2QjUzb0Zfb0V3U2tv0gFkQVVfeXFMT3BMTThhRjRLMGVWVXE4dnhqYmdWUTk4UjRnV1BBNFlYUVNXOG1kSUp6R3VUMTJyRk9JYWY3WnJEM3pfV1JlT0VvbmR4ZGVZakdrZ2QwWG5nbDRNMnN0OElUdjNrMQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "膀胱癌",
+          "keyword": "膀胱癌",
+          "related_drugs": [
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "764e2788dd8d",

@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [香港癌症基金會專欄：「港兄弟•講檢查」關注男性癌症講座 – 應對策略-專欄- 明周文化 - Ming Pao Weekly](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRjRuM3FaaGRhUjFyNlZkR3d1TnMyazZ2YUZJVWIyRDJNXzBON0JWbGlEVHZNRnZRZk1OTkQxOTBCN3NzQ09TTWFsaHU1b0pKODhrTnk5QjhyVFdDd0h3RnpSUG00cEprS1puSUZ4N1Zoa1VVQUtnMG93YjJjcHdCbGNmOGgxeGNkbFZPXzNkZE1jcS1rNXdQOEliSW93Z2gzQmM1d2ZDOGxHVFNXcWNOdk55TEhUZVdqd01KdWt4ZzczNUl0UWdxRUFyMXhaRmpwcVZOdnBrbUQ?oc=5)
 
@@ -56,6 +56,14 @@ permalink: /news/gefitinib/
 2026-05-29 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cc3B4VXZyYlcxODZwOWpFOW9JaWQ4cXNKTDJfb3IzMnoyX0g4SmgyVDBaNmVFRnRpUk1ZNndXNFRRRkhJZy1nZUprYnlPbE1wcnR1eVRjOHJuOWtScEdrM2hR0gFnQVVfeXFMT29yRW1KbkRZX2MzSndjUHktSnZsemlKVktFWjhSUWZmVG9vdXpUdzJLX1l1RDhfaE1WMWtzWDY2Ul9mbFpqZ2ZjYkF4ejB3RW80dEN5Sjg3ampxaXlBLXNibjNJcWpDRQ?oc=5)
+
+---
+
+### [🎧｜2026癌症論壇／血尿竟不痛？「這狀況」反覆發生小心膀胱癌　前兆、治療一次看](https://news.google.com/rss/articles/CBMiX0FVX3lxTE93bWNjT2J0Wk1CdkFlZTBGUEdWT3BISDB6bFhwQUJmZEprZ0NHSDd0TWxkVmcxeS0tRFlQSUMyUXJBMzYwQkJWWlUtaFJhd0MxYlg2QjUzb0Zfb0V3U2tv0gFkQVVfeXFMT3BMTThhRjRLMGVWVXE4dnhqYmdWUTk4UjRnV1BBNFlYUVNXOG1kSUp6R3VUMTJyRk9JYWY3WnJEM3pfV1JlT0VvbmR4ZGVZakdrZ2QwWG5nbDRNMnN0OElUdjNrMQ?oc=5)
+
+2026-05-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">膀胱癌</span>
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiX0FVX3lxTE93bWNjT2J0Wk1CdkFlZTBGUEdWT3BISDB6bFhwQUJmZEprZ0NHSDd0TWxkVmcxeS0tRFlQSUMyUXJBMzYwQkJWWlUtaFJhd0MxYlg2QjUzb0Zfb0V3U2tv0gFkQVVfeXFMT3BMTThhRjRLMGVWVXE4dnhqYmdWUTk4UjRnV1BBNFlYUVNXOG1kSUp6R3VUMTJyRk9JYWY3WnJEM3pfV1JlT0VvbmR4ZGVZakdrZ2QwWG5nbDRNMnN0OElUdjNrMQ?oc=5)
 
 ---
 
