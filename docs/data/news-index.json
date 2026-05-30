@@ -1,213 +1,15 @@
 {
-  "generated": "2026-05-30T02:12:14.946151+00:00",
+  "generated": "2026-05-30T06:16:18.315461+00:00",
   "count": 6,
   "news": [
     {
-      "id": "bb56827e6a69",
-      "title": "坐著也能減輕失智風險 研究：關鍵在是否動腦",
-      "published": "2026-05-29T13:08:08+00:00",
+      "id": "5872f0f74d90",
+      "title": "香港癌症基金會專欄：「港兄弟•講檢查」關注男性癌症講座 – 應對策略-專欄- 明周文化 - Ming Pao Weekly",
+      "published": "2026-05-30T02:06:47+00:00",
       "sources": [
         {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cc3B4VXZyYlcxODZwOWpFOW9JaWQ4cXNKTDJfb3IzMnoyX0g4SmgyVDBaNmVFRnRpUk1ZNndXNFRRRkhJZy1nZUprYnlPbE1wcnR1eVRjOHJuOWtScEdrM2hR0gFnQVVfeXFMT29yRW1KbkRZX2MzSndjUHktSnZsemlKVktFWjhSUWZmVG9vdXpUdzJLX1l1RDhfaE1WMWtzWDY2Ul9mbFpqZ2ZjYkF4ejB3RW80dEN5Sjg3ampxaXlBLXNibjNJcWpDRQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6872b2019826",
-      "title": "記憶力退化有救了！美研究：吃這款「常見食材」可降低失智風險",
-      "published": "2026-05-29T10:42:48+00:00",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jQnlhbFN4aG9DV2lwbmVRYnBlUGxLQ3h4amlqQzFkY3dHYWNVdENuTHB4SnJGbTFzZDRxblFaUV9lV1lCZ250dkhEZmE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6899ab1be8ed",
-      "title": "不只記憶衰退！「嗅覺異常」恐是失智症警訊，研究曝原因",
-      "published": "2026-05-29T09:20:00+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQMERzd2J6c2FqVHA2T0VscHhkX1RCLXRPdmpvLXUzWDVtVTFGVXJBeEJYZjhENGN4ZzRTZ1Q3TzRoU0FTMENQRnhGOFFYamdFajNOX1FQcENEYnlfM2FvRmYydW8zMkVoLVdXWFU3N3F1SFluQ0tUV1AtdUpzRS00T3oxenplRUd2aXY5Z1I4bFkzQUNvYW9HaUZzTkI3cDdoS3ljcTU4TDRpVjZ1TkdzZ2M2ZHRMdGtja2V6YlplOUFaU0RsZ20wZnNKeklRaUVhVkNYcjRpdXk2RVpoNUVtS2ZrMlRpYmsyeWExUndmVHNmQWRBb0dZTE80SDlLQ0Z3bzdmQzc2TXhob2Z5d2cwVmdVOVdRY0NDXzZiWEVqSnA0eFg2Y215NV9NeFBRaklhcW1FdDlJYjFZbUhLVV9FNVRlakpXRTVQSVo1LWVybTh1cEMyTXhxOHdSWmN1VmM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "阿茲海默症",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "764e2788dd8d",
-      "title": "研究：50歲以下大腸癌發生率上升 30多歲也可能中鏢",
-      "published": "2026-05-29T05:55:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1YjdkbWVIaHBXOXRFN201c01hS2pZYjczRHVWbXM4aFhsU3VuTE9TWkFiWDhwWW53R0ZXS1NJdGpMb2o5UkN2LWtxQm5iMFhtMEZOTTJyUUM2TVdPWE5WR3NhT2XSAWpBVV95cUxNTXQ4N0t6RU9zRjhnZWh0aXY4aE9zTkRmZUEyVGF6TGdyZEJwRHBmdDZ0Y2RTZU1SY0FGbWdwa1NvSEMxSU5mLXZ0aG14dWk0eHpxNUJSaE9vc3Zva21RT1EwdUpTWUJYRFR3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "食道癌",
-          "keyword": "食道癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e3f44b1603f7",
-      "title": "鼻塞、喉嚨痛不一定只是感冒！醫示警：「這種病毒」感染後恐潛伏數十年，與鼻咽癌有關",
-      "published": "2026-05-28T07:30:21+00:00",
-      "sources": [
-        {
-          "name": "良醫健康網",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KWTRkTGQzQkxRbVFXWl9xdm9Bdkd2U1lpU3AtQkpvZ1ZJRm8yU19jOE5VbjR3UmYzcDhSVWo5ZjBvZzd2ZXVwb0hnQjVwb2N3ckM3LW51bUYyaXVJTC14b2lsMVZpX1QyS3c?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "鼻塞",
-          "keyword": "鼻塞",
-          "related_drugs": [
-            {
-              "slug": "xylometazoline",
-              "name": "Xylometazoline"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "be020aa35d9b",
-      "title": "通霄男性癌症死亡率高於女性2.7倍！ 衛生局5/31推免費大篩檢",
-      "published": "2026-05-28T02:56:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ud3JsbnVudGRHcndKZFYtRXJOYkVJMWxtcG8xUDZKMHVYcFMtRV9KZ2NFNTRfZGFmcm1wU2hyQjFSaVpvZlZIMkpoRi05M0haZ1dPc1l2V0VDYXFvQVhZajQ5OGTSAWpBVV95cUxNVUptY05ZRUNtdEZtS1M4QzctYWppN1hHZm1HRldjblBDeElxX2NDZVdlUkQ1N25VbkVxcERtZjFfcEFiT01SY2RLYlhxOThiM0NkUHcyZDNOQUhuOF9UNWJzd1RLZWZWOVdn?oc=5"
+          "name": "Ming Pao Weekly",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRjRuM3FaaGRhUjFyNlZkR3d1TnMyazZ2YUZJVWIyRDJNXzBON0JWbGlEVHZNRnZRZk1OTkQxOTBCN3NzQ09TTWFsaHU1b0pKODhrTnk5QjhyVFdDd0h3RnpSUG00cEprS1puSUZ4N1Zoa1VVQUtnMG93YjJjcHdCbGNmOGgxeGNkbFZPXzNkZE1jcS1rNXdQOEliSW93Z2gzQmM1d2ZDOGxHVFNXcWNOdk55TEhUZVdqd01KdWt4ZzczNUl0UWdxRUFyMXhaRmpwcVZOdnBrbUQ?oc=5"
         }
       ],
       "keywords": [
@@ -403,6 +205,252 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bb56827e6a69",
+      "title": "坐著也能減輕失智風險 研究：關鍵在是否動腦",
+      "published": "2026-05-29T13:08:08+00:00",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cc3B4VXZyYlcxODZwOWpFOW9JaWQ4cXNKTDJfb3IzMnoyX0g4SmgyVDBaNmVFRnRpUk1ZNndXNFRRRkhJZy1nZUprYnlPbE1wcnR1eVRjOHJuOWtScEdrM2hR0gFnQVVfeXFMT29yRW1KbkRZX2MzSndjUHktSnZsemlKVktFWjhSUWZmVG9vdXpUdzJLX1l1RDhfaE1WMWtzWDY2Ul9mbFpqZ2ZjYkF4ejB3RW80dEN5Sjg3ampxaXlBLXNibjNJcWpDRQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6899ab1be8ed",
+      "title": "不只記憶衰退！「嗅覺異常」恐是失智症警訊，研究曝原因",
+      "published": "2026-05-29T09:20:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQMERzd2J6c2FqVHA2T0VscHhkX1RCLXRPdmpvLXUzWDVtVTFGVXJBeEJYZjhENGN4ZzRTZ1Q3TzRoU0FTMENQRnhGOFFYamdFajNOX1FQcENEYnlfM2FvRmYydW8zMkVoLVdXWFU3N3F1SFluQ0tUV1AtdUpzRS00T3oxenplRUd2aXY5Z1I4bFkzQUNvYW9HaUZzTkI3cDdoS3ljcTU4TDRpVjZ1TkdzZ2M2ZHRMdGtja2V6YlplOUFaU0RsZ20wZnNKeklRaUVhVkNYcjRpdXk2RVpoNUVtS2ZrMlRpYmsyeWExUndmVHNmQWRBb0dZTE80SDlLQ0Z3bzdmQzc2TXhob2Z5d2cwVmdVOVdRY0NDXzZiWEVqSnA0eFg2Y215NV9NeFBRaklhcW1FdDlJYjFZbUhLVV9FNVRlakpXRTVQSVo1LWVybTh1cEMyTXhxOHdSWmN1VmM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "764e2788dd8d",
+      "title": "研究：50歲以下大腸癌發生率上升 30多歲也可能中鏢",
+      "published": "2026-05-29T05:55:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1YjdkbWVIaHBXOXRFN201c01hS2pZYjczRHVWbXM4aFhsU3VuTE9TWkFiWDhwWW53R0ZXS1NJdGpMb2o5UkN2LWtxQm5iMFhtMEZOTTJyUUM2TVdPWE5WR3NhT2XSAWpBVV95cUxNTXQ4N0t6RU9zRjhnZWh0aXY4aE9zTkRmZUEyVGF6TGdyZEJwRHBmdDZ0Y2RTZU1SY0FGbWdwa1NvSEMxSU5mLXZ0aG14dWk0eHpxNUJSaE9vc3Zva21RT1EwdUpTWUJYRFR3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "食道癌",
+          "keyword": "食道癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b9d95f87f5c4",
+      "title": "「抽血」也能揪出鼻咽癌！輔大攜手陳建仁院士跨國研究登國際期刊",
+      "published": "2026-05-28T13:58:01+00:00",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RRFRTTG1JLXB6YmJRQXY3SmU5WEpNbDNUMktWVVpadHdMZWloMk5oZmJKaDdkM3YxZEVHdWlpbkN3eGFFOGdIUWZlSzRrZktRTGc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "鼻塞",
+          "keyword": "鼻塞",
+          "related_drugs": [
+            {
+              "slug": "xylometazoline",
+              "name": "Xylometazoline"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9597f293bf8b",
+      "title": "冠心病｜年輕發病更危險？支架愈貴愈好？醫生拆解「通波仔」迷思",
+      "published": "2026-05-28T11:55:54+00:00",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPQ1hDRDY2aDJsRGl2Z0RZRHo1blRKSC0xRy1oU0xxZnE2a1dFWmZyeElqRkx2OGFvWkoxZDhGTFEtTWtqS1FuSHNtQmlwRmJhajdlRjZyVGJNQ05FYlkwd2lkV0ZaS3hzNEx5M3hqTU5YM0w2dWp2aFdtNW5CeHVGYjd1c2RTLXpJVUNuQzRtLXJfVTJyenpTMjZFVE51WW9YMXNJSWVKdjY3eEcyYVpoWnFsa2JUUkN1LW5GMHIxbnMtV0NRcWhaWlgwS0c0U0lPWDBRZVExa0I0NE9tY2VoSDFUYnBhaVkzUEo5NFNDWTRTMl9ZSXY0Vl90T3NzNzlhbGtZcjY2NEo3WExkOFlfdmt3WEE4N2Z1UngzdjdUNUdjZUs1aks2a2VUZmItOGpaMnR1Ri1KR3h0NG50WEpDeEpOVGc3TmhSNjlFaTE4QTRXcXhMMnVTcnY3S1JDUGhJTnotUTNHUXhFdnpGZVhmbTZmZWZyOVNTanZZWUMwbG9DbFBKVzBueFRGUWxrbXY5WGtZQll3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "冠心病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
             }
           ]
         }

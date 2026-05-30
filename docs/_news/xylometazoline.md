@@ -36,11 +36,11 @@ permalink: /news/xylometazoline/
 
 ## 相關新聞（1 則）
 
-### [鼻塞、喉嚨痛不一定只是感冒！醫示警：「這種病毒」感染後恐潛伏數十年，與鼻咽癌有關](https://news.google.com/rss/articles/CBMiakFVX3lxTE5KWTRkTGQzQkxRbVFXWl9xdm9Bdkd2U1lpU3AtQkpvZ1ZJRm8yU19jOE5VbjR3UmYzcDhSVWo5ZjBvZzd2ZXVwb0hnQjVwb2N3ckM3LW51bUYyaXVJTC14b2lsMVZpX1QyS3c?oc=5)
+### [「抽血」也能揪出鼻咽癌！輔大攜手陳建仁院士跨國研究登國際期刊](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RRFRTTG1JLXB6YmJRQXY3SmU5WEpNbDNUMktWVVpadHdMZWloMk5oZmJKaDdkM3YxZEVHdWlpbkN3eGFFOGdIUWZlSzRrZktRTGc?oc=5)
 
 2026-05-28 <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">鼻塞</span>
 
-來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTE5KWTRkTGQzQkxRbVFXWl9xdm9Bdkd2U1lpU3AtQkpvZ1ZJRm8yU19jOE5VbjR3UmYzcDhSVWo5ZjBvZzd2ZXVwb0hnQjVwb2N3ckM3LW51bUYyaXVJTC14b2lsMVZpX1QyS3c?oc=5)
+來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RRFRTTG1JLXB6YmJRQXY3SmU5WEpNbDNUMktWVVpadHdMZWloMk5oZmJKaDdkM3YxZEVHdWlpbkN3eGFFOGdIUWZlSzRrZktRTGc?oc=5)
 
 ---
 

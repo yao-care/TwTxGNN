@@ -3,7 +3,7 @@ layout: default
 title: "失智症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智症（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "失智症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
-<strong>失智症（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [坐著也能減輕失智風險 研究：關鍵在是否動腦](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cc3B4VXZyYlcxODZwOWpFOW9JaWQ4cXNKTDJfb3IzMnoyX0g4SmgyVDBaNmVFRnRpUk1ZNndXNFRRRkhJZy1nZUprYnlPbE1wcnR1eVRjOHJuOWtScEdrM2hR0gFnQVVfeXFMT29yRW1KbkRZX2MzSndjUHktSnZsemlKVktFWjhSUWZmVG9vdXpUdzJLX1l1RDhfaE1WMWtzWDY2Ul9mbFpqZ2ZjYkF4ejB3RW80dEN5Sjg3ampxaXlBLXNibjNJcWpDRQ?oc=5)
 
 2026-05-29
 
 來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cc3B4VXZyYlcxODZwOWpFOW9JaWQ4cXNKTDJfb3IzMnoyX0g4SmgyVDBaNmVFRnRpUk1ZNndXNFRRRkhJZy1nZUprYnlPbE1wcnR1eVRjOHJuOWtScEdrM2hR0gFnQVVfeXFMT29yRW1KbkRZX2MzSndjUHktSnZsemlKVktFWjhSUWZmVG9vdXpUdzJLX1l1RDhfaE1WMWtzWDY2Ul9mbFpqZ2ZjYkF4ejB3RW80dEN5Sjg3ampxaXlBLXNibjNJcWpDRQ?oc=5)
-
----
-
-### [記憶力退化有救了！美研究：吃這款「常見食材」可降低失智風險](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jQnlhbFN4aG9DV2lwbmVRYnBlUGxLQ3h4amlqQzFkY3dHYWNVdENuTHB4SnJGbTFzZDRxblFaUV9lV1lCZ250dkhEZmE?oc=5)
-
-2026-05-29
-
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jQnlhbFN4aG9DV2lwbmVRYnBlUGxLQ3h4amlqQzFkY3dHYWNVdENuTHB4SnJGbTFzZDRxblFaUV9lV1lCZ250dkhEZmE?oc=5)
 
 ---
 

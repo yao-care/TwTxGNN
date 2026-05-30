@@ -44,19 +44,19 @@ permalink: /news/carboplatin/
 
 ## 相關新聞（2 則）
 
+### [香港癌症基金會專欄：「港兄弟•講檢查」關注男性癌症講座 – 應對策略-專欄- 明周文化 - Ming Pao Weekly](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRjRuM3FaaGRhUjFyNlZkR3d1TnMyazZ2YUZJVWIyRDJNXzBON0JWbGlEVHZNRnZRZk1OTkQxOTBCN3NzQ09TTWFsaHU1b0pKODhrTnk5QjhyVFdDd0h3RnpSUG00cEprS1puSUZ4N1Zoa1VVQUtnMG93YjJjcHdCbGNmOGgxeGNkbFZPXzNkZE1jcS1rNXdQOEliSW93Z2gzQmM1d2ZDOGxHVFNXcWNOdk55TEhUZVdqd01KdWt4ZzczNUl0UWdxRUFyMXhaRmpwcVZOdnBrbUQ?oc=5)
+
+2026-05-30 <span class="news-indication-tag">癌症</span>
+
+來源：[Ming Pao Weekly](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRjRuM3FaaGRhUjFyNlZkR3d1TnMyazZ2YUZJVWIyRDJNXzBON0JWbGlEVHZNRnZRZk1OTkQxOTBCN3NzQ09TTWFsaHU1b0pKODhrTnk5QjhyVFdDd0h3RnpSUG00cEprS1puSUZ4N1Zoa1VVQUtnMG93YjJjcHdCbGNmOGgxeGNkbFZPXzNkZE1jcS1rNXdQOEliSW93Z2gzQmM1d2ZDOGxHVFNXcWNOdk55TEhUZVdqd01KdWt4ZzczNUl0UWdxRUFyMXhaRmpwcVZOdnBrbUQ?oc=5)
+
+---
+
 ### [研究：50歲以下大腸癌發生率上升 30多歲也可能中鏢](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1YjdkbWVIaHBXOXRFN201c01hS2pZYjczRHVWbXM4aFhsU3VuTE9TWkFiWDhwWW53R0ZXS1NJdGpMb2o5UkN2LWtxQm5iMFhtMEZOTTJyUUM2TVdPWE5WR3NhT2XSAWpBVV95cUxNTXQ4N0t6RU9zRjhnZWh0aXY4aE9zTkRmZUEyVGF6TGdyZEJwRHBmdDZ0Y2RTZU1SY0FGbWdwa1NvSEMxSU5mLXZ0aG14dWk0eHpxNUJSaE9vc3Zva21RT1EwdUpTWUJYRFR3?oc=5)
 
 2026-05-29 <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1YjdkbWVIaHBXOXRFN201c01hS2pZYjczRHVWbXM4aFhsU3VuTE9TWkFiWDhwWW53R0ZXS1NJdGpMb2o5UkN2LWtxQm5iMFhtMEZOTTJyUUM2TVdPWE5WR3NhT2XSAWpBVV95cUxNTXQ4N0t6RU9zRjhnZWh0aXY4aE9zTkRmZUEyVGF6TGdyZEJwRHBmdDZ0Y2RTZU1SY0FGbWdwa1NvSEMxSU5mLXZ0aG14dWk0eHpxNUJSaE9vc3Zva21RT1EwdUpTWUJYRFR3?oc=5)
-
----
-
-### [通霄男性癌症死亡率高於女性2.7倍！ 衛生局5/31推免費大篩檢](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ud3JsbnVudGRHcndKZFYtRXJOYkVJMWxtcG8xUDZKMHVYcFMtRV9KZ2NFNTRfZGFmcm1wU2hyQjFSaVpvZlZIMkpoRi05M0haZ1dPc1l2V0VDYXFvQVhZajQ5OGTSAWpBVV95cUxNVUptY05ZRUNtdEZtS1M4QzctYWppN1hHZm1HRldjblBDeElxX2NDZVdlUkQ1N25VbkVxcERtZjFfcEFiT01SY2RLYlhxOThiM0NkUHcyZDNOQUhuOF9UNWJzd1RLZWZWOVdn?oc=5)
-
-2026-05-28 <span class="news-indication-tag">癌症</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ud3JsbnVudGRHcndKZFYtRXJOYkVJMWxtcG8xUDZKMHVYcFMtRV9KZ2NFNTRfZGFmcm1wU2hyQjFSaVpvZlZIMkpoRi05M0haZ1dPc1l2V0VDYXFvQVhZajQ5OGTSAWpBVV95cUxNVUptY05ZRUNtdEZtS1M4QzctYWppN1hHZm1HRldjblBDeElxX2NDZVdlUkQ1N25VbkVxcERtZjFfcEFiT01SY2RLYlhxOThiM0NkUHcyZDNOQUhuOF9UNWJzd1RLZWZWOVdn?oc=5)
 
 ---
 

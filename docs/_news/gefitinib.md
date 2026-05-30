@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
+
+### [香港癌症基金會專欄：「港兄弟•講檢查」關注男性癌症講座 – 應對策略-專欄- 明周文化 - Ming Pao Weekly](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRjRuM3FaaGRhUjFyNlZkR3d1TnMyazZ2YUZJVWIyRDJNXzBON0JWbGlEVHZNRnZRZk1OTkQxOTBCN3NzQ09TTWFsaHU1b0pKODhrTnk5QjhyVFdDd0h3RnpSUG00cEprS1puSUZ4N1Zoa1VVQUtnMG93YjJjcHdCbGNmOGgxeGNkbFZPXzNkZE1jcS1rNXdQOEliSW93Z2gzQmM1d2ZDOGxHVFNXcWNOdk55TEhUZVdqd01KdWt4ZzczNUl0UWdxRUFyMXhaRmpwcVZOdnBrbUQ?oc=5)
+
+2026-05-30 <span class="news-indication-tag">癌症</span>
+
+來源：[Ming Pao Weekly](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRjRuM3FaaGRhUjFyNlZkR3d1TnMyazZ2YUZJVWIyRDJNXzBON0JWbGlEVHZNRnZRZk1OTkQxOTBCN3NzQ09TTWFsaHU1b0pKODhrTnk5QjhyVFdDd0h3RnpSUG00cEprS1puSUZ4N1Zoa1VVQUtnMG93YjJjcHdCbGNmOGgxeGNkbFZPXzNkZE1jcS1rNXdQOEliSW93Z2gzQmM1d2ZDOGxHVFNXcWNOdk55TEhUZVdqd01KdWt4ZzczNUl0UWdxRUFyMXhaRmpwcVZOdnBrbUQ?oc=5)
+
+---
 
 ### [坐著也能減輕失智風險 研究：關鍵在是否動腦](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cc3B4VXZyYlcxODZwOWpFOW9JaWQ4cXNKTDJfb3IzMnoyX0g4SmgyVDBaNmVFRnRpUk1ZNndXNFRRRkhJZy1nZUprYnlPbE1wcnR1eVRjOHJuOWtScEdrM2hR0gFnQVVfeXFMT29yRW1KbkRZX2MzSndjUHktSnZsemlKVktFWjhSUWZmVG9vdXpUdzJLX1l1RDhfaE1WMWtzWDY2Ul9mbFpqZ2ZjYkF4ejB3RW80dEN5Sjg3ampxaXlBLXNibjNJcWpDRQ?oc=5)
 
@@ -51,27 +59,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [記憶力退化有救了！美研究：吃這款「常見食材」可降低失智風險](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jQnlhbFN4aG9DV2lwbmVRYnBlUGxLQ3h4amlqQzFkY3dHYWNVdENuTHB4SnJGbTFzZDRxblFaUV9lV1lCZ250dkhEZmE?oc=5)
-
-2026-05-29 <span class="news-indication-tag">失智</span>
-
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jQnlhbFN4aG9DV2lwbmVRYnBlUGxLQ3h4amlqQzFkY3dHYWNVdENuTHB4SnJGbTFzZDRxblFaUV9lV1lCZ250dkhEZmE?oc=5)
-
----
-
 ### [不只記憶衰退！「嗅覺異常」恐是失智症警訊，研究曝原因](https://news.google.com/rss/articles/CBMi3wJBVV95cUxQMERzd2J6c2FqVHA2T0VscHhkX1RCLXRPdmpvLXUzWDVtVTFGVXJBeEJYZjhENGN4ZzRTZ1Q3TzRoU0FTMENQRnhGOFFYamdFajNOX1FQcENEYnlfM2FvRmYydW8zMkVoLVdXWFU3N3F1SFluQ0tUV1AtdUpzRS00T3oxenplRUd2aXY5Z1I4bFkzQUNvYW9HaUZzTkI3cDdoS3ljcTU4TDRpVjZ1TkdzZ2M2ZHRMdGtja2V6YlplOUFaU0RsZ20wZnNKeklRaUVhVkNYcjRpdXk2RVpoNUVtS2ZrMlRpYmsyeWExUndmVHNmQWRBb0dZTE80SDlLQ0Z3bzdmQzc2TXhob2Z5d2cwVmdVOVdRY0NDXzZiWEVqSnA0eFg2Y215NV9NeFBRaklhcW1FdDlJYjFZbUhLVV9FNVRlakpXRTVQSVo1LWVybTh1cEMyTXhxOHdSWmN1VmM?oc=5)
 
 2026-05-29 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi3wJBVV95cUxQMERzd2J6c2FqVHA2T0VscHhkX1RCLXRPdmpvLXUzWDVtVTFGVXJBeEJYZjhENGN4ZzRTZ1Q3TzRoU0FTMENQRnhGOFFYamdFajNOX1FQcENEYnlfM2FvRmYydW8zMkVoLVdXWFU3N3F1SFluQ0tUV1AtdUpzRS00T3oxenplRUd2aXY5Z1I4bFkzQUNvYW9HaUZzTkI3cDdoS3ljcTU4TDRpVjZ1TkdzZ2M2ZHRMdGtja2V6YlplOUFaU0RsZ20wZnNKeklRaUVhVkNYcjRpdXk2RVpoNUVtS2ZrMlRpYmsyeWExUndmVHNmQWRBb0dZTE80SDlLQ0Z3bzdmQzc2TXhob2Z5d2cwVmdVOVdRY0NDXzZiWEVqSnA0eFg2Y215NV9NeFBRaklhcW1FdDlJYjFZbUhLVV9FNVRlakpXRTVQSVo1LWVybTh1cEMyTXhxOHdSWmN1VmM?oc=5)
-
----
-
-### [通霄男性癌症死亡率高於女性2.7倍！ 衛生局5/31推免費大篩檢](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ud3JsbnVudGRHcndKZFYtRXJOYkVJMWxtcG8xUDZKMHVYcFMtRV9KZ2NFNTRfZGFmcm1wU2hyQjFSaVpvZlZIMkpoRi05M0haZ1dPc1l2V0VDYXFvQVhZajQ5OGTSAWpBVV95cUxNVUptY05ZRUNtdEZtS1M4QzctYWppN1hHZm1HRldjblBDeElxX2NDZVdlUkQ1N25VbkVxcERtZjFfcEFiT01SY2RLYlhxOThiM0NkUHcyZDNOQUhuOF9UNWJzd1RLZWZWOVdn?oc=5)
-
-2026-05-28 <span class="news-indication-tag">癌症</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ud3JsbnVudGRHcndKZFYtRXJOYkVJMWxtcG8xUDZKMHVYcFMtRV9KZ2NFNTRfZGFmcm1wU2hyQjFSaVpvZlZIMkpoRi05M0haZ1dPc1l2V0VDYXFvQVhZajQ5OGTSAWpBVV95cUxNVUptY05ZRUNtdEZtS1M4QzctYWppN1hHZm1HRldjblBDeElxX2NDZVdlUkQ1N25VbkVxcERtZjFfcEFiT01SY2RLYlhxOThiM0NkUHcyZDNOQUhuOF9UNWJzd1RLZWZWOVdn?oc=5)
 
 ---
 
