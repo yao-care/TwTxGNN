@@ -14,7 +14,7 @@ permalink: /news/oxytetracycline/
 ---
 
 <p class="key-answer" data-question="Oxytetracycline 有什麼相關新聞？">
-<strong>Oxytetracycline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oxytetracycline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/oxytetracycline/
 <p><a href="{{ '/drugs/oxytetracycline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [香港癌症基金會專欄：「港兄弟•講檢查」關注男性癌症講座 – 應對策略-專欄- 明周文化 - Ming Pao Weekly](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRjRuM3FaaGRhUjFyNlZkR3d1TnMyazZ2YUZJVWIyRDJNXzBON0JWbGlEVHZNRnZRZk1OTkQxOTBCN3NzQ09TTWFsaHU1b0pKODhrTnk5QjhyVFdDd0h3RnpSUG00cEprS1puSUZ4N1Zoa1VVQUtnMG93YjJjcHdCbGNmOGgxeGNkbFZPXzNkZE1jcS1rNXdQOEliSW93Z2gzQmM1d2ZDOGxHVFNXcWNOdk55TEhUZVdqd01KdWt4ZzczNUl0UWdxRUFyMXhaRmpwcVZOdnBrbUQ?oc=5)
 
 2026-05-30 <span class="news-indication-tag">癌症</span>
 
 來源：[Ming Pao Weekly](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRjRuM3FaaGRhUjFyNlZkR3d1TnMyazZ2YUZJVWIyRDJNXzBON0JWbGlEVHZNRnZRZk1OTkQxOTBCN3NzQ09TTWFsaHU1b0pKODhrTnk5QjhyVFdDd0h3RnpSUG00cEprS1puSUZ4N1Zoa1VVQUtnMG93YjJjcHdCbGNmOGgxeGNkbFZPXzNkZE1jcS1rNXdQOEliSW93Z2gzQmM1d2ZDOGxHVFNXcWNOdk55TEhUZVdqd01KdWt4ZzczNUl0UWdxRUFyMXhaRmpwcVZOdnBrbUQ?oc=5)
-
----
-
-### [冠心病｜年輕發病更危險？支架愈貴愈好？醫生拆解「通波仔」迷思](https://news.google.com/rss/articles/CBMilgNBVV95cUxPQ1hDRDY2aDJsRGl2Z0RZRHo1blRKSC0xRy1oU0xxZnE2a1dFWmZyeElqRkx2OGFvWkoxZDhGTFEtTWtqS1FuSHNtQmlwRmJhajdlRjZyVGJNQ05FYlkwd2lkV0ZaS3hzNEx5M3hqTU5YM0w2dWp2aFdtNW5CeHVGYjd1c2RTLXpJVUNuQzRtLXJfVTJyenpTMjZFVE51WW9YMXNJSWVKdjY3eEcyYVpoWnFsa2JUUkN1LW5GMHIxbnMtV0NRcWhaWlgwS0c0U0lPWDBRZVExa0I0NE9tY2VoSDFUYnBhaVkzUEo5NFNDWTRTMl9ZSXY0Vl90T3NzNzlhbGtZcjY2NEo3WExkOFlfdmt3WEE4N2Z1UngzdjdUNUdjZUs1aks2a2VUZmItOGpaMnR1Ri1KR3h0NG50WEpDeEpOVGc3TmhSNjlFaTE4QTRXcXhMMnVTcnY3S1JDUGhJTnotUTNHUXhFdnpGZVhmbTZmZWZyOVNTanZZWUMwbG9DbFBKVzBueFRGUWxrbXY5WGtZQll3?oc=5)
-
-2026-05-28 <span class="news-indication-tag">冠心病</span>
-
-來源：[香港01](https://news.google.com/rss/articles/CBMilgNBVV95cUxPQ1hDRDY2aDJsRGl2Z0RZRHo1blRKSC0xRy1oU0xxZnE2a1dFWmZyeElqRkx2OGFvWkoxZDhGTFEtTWtqS1FuSHNtQmlwRmJhajdlRjZyVGJNQ05FYlkwd2lkV0ZaS3hzNEx5M3hqTU5YM0w2dWp2aFdtNW5CeHVGYjd1c2RTLXpJVUNuQzRtLXJfVTJyenpTMjZFVE51WW9YMXNJSWVKdjY3eEcyYVpoWnFsa2JUUkN1LW5GMHIxbnMtV0NRcWhaWlgwS0c0U0lPWDBRZVExa0I0NE9tY2VoSDFUYnBhaVkzUEo5NFNDWTRTMl9ZSXY0Vl90T3NzNzlhbGtZcjY2NEo3WExkOFlfdmt3WEE4N2Z1UngzdjdUNUdjZUs1aks2a2VUZmItOGpaMnR1Ri1KR3h0NG50WEpDeEpOVGc3TmhSNjlFaTE4QTRXcXhMMnVTcnY3S1JDUGhJTnotUTNHUXhFdnpGZVhmbTZmZWZyOVNTanZZWUMwbG9DbFBKVzBueFRGUWxrbXY5WGtZQll3?oc=5)
 
 ---
 
