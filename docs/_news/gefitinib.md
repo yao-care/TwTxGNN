@@ -43,19 +43,19 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（3 則）
 
+### [不是所有久坐都傷腦？研究發現：坐著做這些事可明顯降低風險](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ERmFYRnF1Z1p3SzE5a0xMbFF5SW9LcVlmbUQ0VGlUcjlHQ0FRWW1PRmJlR3hIaHQzM25HazlXUmRBTFBuYWt3amp6S2I2ZThjTGRVX1VJY0didXRXRlHSAWNBVV95cUxNcUJoYWhoX3FRVWRmYU5XazcteXdzckRoeVVXc0VUaWpvRC02Y29tdjhjNURsVFhqUG1NUHR5MmJ4Q0VjTGIzbGo2Z2VNMWpQM3BHdEctMERSRnpxSkZxX3YtZG8?oc=5)
+
+2026-05-31 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ERmFYRnF1Z1p3SzE5a0xMbFF5SW9LcVlmbUQ0VGlUcjlHQ0FRWW1PRmJlR3hIaHQzM25HazlXUmRBTFBuYWt3amp6S2I2ZThjTGRVX1VJY0didXRXRlHSAWNBVV95cUxNcUJoYWhoX3FRVWRmYU5XazcteXdzckRoeVVXc0VUaWpvRC02Y29tdjhjNURsVFhqUG1NUHR5MmJ4Q0VjTGIzbGo2Z2VNMWpQM3BHdEctMERSRnpxSkZxX3YtZG8?oc=5)
+
+---
+
 ### [香港癌症基金會專欄：「港兄弟•講檢查」關注男性癌症講座 – 應對策略-專欄- 明周文化 - Ming Pao Weekly](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRjRuM3FaaGRhUjFyNlZkR3d1TnMyazZ2YUZJVWIyRDJNXzBON0JWbGlEVHZNRnZRZk1OTkQxOTBCN3NzQ09TTWFsaHU1b0pKODhrTnk5QjhyVFdDd0h3RnpSUG00cEprS1puSUZ4N1Zoa1VVQUtnMG93YjJjcHdCbGNmOGgxeGNkbFZPXzNkZE1jcS1rNXdQOEliSW93Z2gzQmM1d2ZDOGxHVFNXcWNOdk55TEhUZVdqd01KdWt4ZzczNUl0UWdxRUFyMXhaRmpwcVZOdnBrbUQ?oc=5)
 
 2026-05-30 <span class="news-indication-tag">癌症</span>
 
 來源：[Ming Pao Weekly](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRjRuM3FaaGRhUjFyNlZkR3d1TnMyazZ2YUZJVWIyRDJNXzBON0JWbGlEVHZNRnZRZk1OTkQxOTBCN3NzQ09TTWFsaHU1b0pKODhrTnk5QjhyVFdDd0h3RnpSUG00cEprS1puSUZ4N1Zoa1VVQUtnMG93YjJjcHdCbGNmOGgxeGNkbFZPXzNkZE1jcS1rNXdQOEliSW93Z2gzQmM1d2ZDOGxHVFNXcWNOdk55TEhUZVdqd01KdWt4ZzczNUl0UWdxRUFyMXhaRmpwcVZOdnBrbUQ?oc=5)
-
----
-
-### [坐著也能減輕失智風險 研究：關鍵在是否動腦](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cc3B4VXZyYlcxODZwOWpFOW9JaWQ4cXNKTDJfb3IzMnoyX0g4SmgyVDBaNmVFRnRpUk1ZNndXNFRRRkhJZy1nZUprYnlPbE1wcnR1eVRjOHJuOWtScEdrM2hR0gFnQVVfeXFMT29yRW1KbkRZX2MzSndjUHktSnZsemlKVktFWjhSUWZmVG9vdXpUdzJLX1l1RDhfaE1WMWtzWDY2Ul9mbFpqZ2ZjYkF4ejB3RW80dEN5Sjg3ampxaXlBLXNibjNJcWpDRQ?oc=5)
-
-2026-05-29 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cc3B4VXZyYlcxODZwOWpFOW9JaWQ4cXNKTDJfb3IzMnoyX0g4SmgyVDBaNmVFRnRpUk1ZNndXNFRRRkhJZy1nZUprYnlPbE1wcnR1eVRjOHJuOWtScEdrM2hR0gFnQVVfeXFMT29yRW1KbkRZX2MzSndjUHktSnZsemlKVktFWjhSUWZmVG9vdXpUdzJLX1l1RDhfaE1WMWtzWDY2Ul9mbFpqZ2ZjYkF4ejB3RW80dEN5Sjg3ampxaXlBLXNibjNJcWpDRQ?oc=5)
 
 ---
 

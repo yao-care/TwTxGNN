@@ -1,7 +1,90 @@
 {
-  "generated": "2026-05-31T02:37:50.763466+00:00",
-  "count": 4,
+  "generated": "2026-05-31T06:51:35.861728+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "aefc9536ba09",
+      "title": "擦防曬乳會骨質疏鬆？ 醫師打破迷思：短時間就足夠製造維生素D",
+      "published": "2026-05-31T05:44:49+00:00",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90SnFJZ1p6Qm9qOFhEUzBjR3FVTTNJZS1rNjJUN2xVWlU0ZGFzbzFXakdzYXRQeGJNd0NCZTNkSlpheUNQanlhM2xsQjhLNHhH0gFWQVVfeXFMUDFQWjZCUlY0QXQtSENWTjFJa3NXVVpnQlhkQy1FUFhndEZfNXpOR3gwWGlfYTRPcThZV1Z5RnlRVm1PTy1EM0NCdmVFanIzcEUzcHFjZlE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "skin cancer",
+          "keyword": "皮膚癌",
+          "related_drugs": [
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4aa0a85a2894",
+      "title": "不是所有久坐都傷腦？研究發現：坐著做這些事可明顯降低風險",
+      "published": "2026-05-31T01:48:08+00:00",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ERmFYRnF1Z1p3SzE5a0xMbFF5SW9LcVlmbUQ0VGlUcjlHQ0FRWW1PRmJlR3hIaHQzM25HazlXUmRBTFBuYWt3amp6S2I2ZThjTGRVX1VJY0didXRXRlHSAWNBVV95cUxNcUJoYWhoX3FRVWRmYU5XazcteXdzckRoeVVXc0VUaWpvRC02Y29tdjhjNURsVFhqUG1NUHR5MmJ4Q0VjTGIzbGo2Z2VNMWpQM3BHdEctMERSRnpxSkZxX3YtZG8?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0e22ddad6b37",
+      "title": "HPV疫苗問世20周年了 李秉穎：青少年男女都該接種",
+      "published": "2026-05-30T08:14:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55WmRVVDVEYnpUclJ4R3RLbS1JTXpGN2VhY3V3bzAzWFB3UlZBRjRwMU5zMFVLNWN1T251OVFIdmpLNkU5UV8wY1UtSnpabXg5TklVNmUyci1BTExzYzE2U2tBWXLSAWpBVV95cUxPOTE1cmIxUGVGZEpPUlh2dGQzTDFDc0daTWlfczN4UmNXTFl0eXRyUE5MeEE2M2dBQi1rT1ZXWlVMX2szWXFZUDMyTGgybzRKY3JsYV81VTJiUG9pQ1hkaUhyYWpDa0dDak9n?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "5872f0f74d90",
       "title": "香港癌症基金會專欄：「港兄弟•講檢查」關注男性癌症講座 – 應對策略-專欄- 明周文化 - Ming Pao Weekly",
@@ -205,41 +288,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bb56827e6a69",
-      "title": "坐著也能減輕失智風險 研究：關鍵在是否動腦",
-      "published": "2026-05-29T13:08:08+00:00",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cc3B4VXZyYlcxODZwOWpFOW9JaWQ4cXNKTDJfb3IzMnoyX0g4SmgyVDBaNmVFRnRpUk1ZNndXNFRRRkhJZy1nZUprYnlPbE1wcnR1eVRjOHJuOWtScEdrM2hR0gFnQVVfeXFMT29yRW1KbkRZX2MzSndjUHktSnZsemlKVktFWjhSUWZmVG9vdXpUdzJLX1l1RDhfaE1WMWtzWDY2Ul9mbFpqZ2ZjYkF4ejB3RW80dEN5Sjg3ampxaXlBLXNibjNJcWpDRQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
@@ -463,64 +511,6 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "764e2788dd8d",
-      "title": "研究：50歲以下大腸癌發生率上升 30多歲也可能中鏢",
-      "published": "2026-05-29T05:55:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1YjdkbWVIaHBXOXRFN201c01hS2pZYjczRHVWbXM4aFhsU3VuTE9TWkFiWDhwWW53R0ZXS1NJdGpMb2o5UkN2LWtxQm5iMFhtMEZOTTJyUUM2TVdPWE5WR3NhT2XSAWpBVV95cUxNTXQ4N0t6RU9zRjhnZWh0aXY4aE9zTkRmZUEyVGF6TGdyZEJwRHBmdDZ0Y2RTZU1SY0FGbWdwa1NvSEMxSU5mLXZ0aG14dWk0eHpxNUJSaE9vc3Zva21RT1EwdUpTWUJYRFR3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "食道癌",
-          "keyword": "食道癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
