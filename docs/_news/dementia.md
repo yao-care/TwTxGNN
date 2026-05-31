@@ -3,7 +3,7 @@ layout: default
 title: "失智症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智症（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "失智症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
-<strong>失智症（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [不是所有久坐都傷腦？研究發現：坐著做這些事可明顯降低風險](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ERmFYRnF1Z1p3SzE5a0xMbFF5SW9LcVlmbUQ0VGlUcjlHQ0FRWW1PRmJlR3hIaHQzM25HazlXUmRBTFBuYWt3amp6S2I2ZThjTGRVX1VJY0didXRXRlHSAWNBVV95cUxNcUJoYWhoX3FRVWRmYU5XazcteXdzckRoeVVXc0VUaWpvRC02Y29tdjhjNURsVFhqUG1NUHR5MmJ4Q0VjTGIzbGo2Z2VNMWpQM3BHdEctMERSRnpxSkZxX3YtZG8?oc=5)
 
 2026-05-31
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ERmFYRnF1Z1p3SzE5a0xMbFF5SW9LcVlmbUQ0VGlUcjlHQ0FRWW1PRmJlR3hIaHQzM25HazlXUmRBTFBuYWt3amp6S2I2ZThjTGRVX1VJY0didXRXRlHSAWNBVV95cUxNcUJoYWhoX3FRVWRmYU5XazcteXdzckRoeVVXc0VUaWpvRC02Y29tdjhjNURsVFhqUG1NUHR5MmJ4Q0VjTGIzbGo2Z2VNMWpQM3BHdEctMERSRnpxSkZxX3YtZG8?oc=5)
+
+---
+
+### [認知退化延緩7年！走路防失智哈佛研究曝最佳步數- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE5SMVIxQWpTaWFuRUMyRlQ2Zm5OQ01EQ2ZKdHBldFZNX1piUkRWZjItd2FKRElIMWZBV09uSVJwS04wc3VnLXd3XzJvNHdaT2t6eWdSN2pQQVd1bC1za1FwaGFIZFBqeWJVNEE5MWdR?oc=5)
+
+2026-05-30
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5SMVIxQWpTaWFuRUMyRlQ2Zm5OQ01EQ2ZKdHBldFZNX1piUkRWZjItd2FKRElIMWZBV09uSVJwS04wc3VnLXd3XzJvNHdaT2t6eWdSN2pQQVd1bC1za1FwaGFIZFBqeWJVNEE5MWdR?oc=5)
 
 ---
 

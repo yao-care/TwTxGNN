@@ -1,32 +1,33 @@
 {
-  "last_updated": "2026-05-31T06:51:35.830305+00:00",
-  "total_count": 11,
+  "last_updated": "2026-05-31T09:43:05.490271+00:00",
+  "total_count": 13,
   "matched_count": 5,
   "news": [
     {
-      "id": "aefc9536ba09",
-      "title": "擦防曬乳會骨質疏鬆？ 醫師打破迷思：短時間就足夠製造維生素D",
-      "published": "2026-05-31T05:44:49+00:00",
-      "summary": "擦防曬乳會骨質疏鬆？ 醫師打破迷思：短時間就足夠製造維生素D&nbsp;&nbsp;UDN擦防曬害缺維生素D、骨質疏鬆？ 醫揭真相：不擦恐增加皮膚癌風險&nbsp;&nbsp;Yahoo新聞健康網》怕曬黑別只擦防曬 5習慣做錯恐讓皮膚黑嚕嚕&nbsp;&nbsp;自由健康網用擦的還不夠！營養師大推9種防曬食物 從體內吃出防護力&nbsp;&nbsp;UDN",
+      "id": "cdc2877b2b00",
+      "title": "​國家自主研發航空科幻IP「南天門計劃」 多款戰機及前沿技術細節曝光",
+      "published": "2026-05-31T07:14:03+00:00",
+      "summary": "​國家自主研發航空科幻IP「南天門計劃」 多款戰機及前沿技術細節曝光&nbsp;&nbsp;橙新聞",
       "sources": [
         {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90SnFJZ1p6Qm9qOFhEUzBjR3FVTTNJZS1rNjJUN2xVWlU0ZGFzbzFXakdzYXRQeGJNd0NCZTNkSlpheUNQanlhM2xsQjhLNHhH0gFWQVVfeXFMUDFQWjZCUlY0QXQtSENWTjFJa3NXVVpnQlhkQy1FUFhndEZfNXpOR3gwWGlfYTRPcThZV1Z5RnlRVm1PTy1EM0NCdmVFanIzcEUzcHFjZlE?oc=5"
+          "name": "橙新聞",
+          "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxOTEg5OWFiUV9iTVduT0VOZDRPM2JONUJNZ1drMWxKUGxoWUNyMThZdGZJcGZHM3RmakVzeGhBeHdyMGZZTGUtS1ZOclYweno0eWVEVkZvQ09yU0JBQ1NuWkt6Nk5pUUM0aWF0a19yQTVrOXloNlNCN2E1ZzZpM3VaNXBUSmtJLVZGa0V3ZFJnUTBJM05MMjgyaktyM2hJb0x5eC1yRmJjbmw3Vm1fMEJPM1ZqOU0yVWg5R2xVb0toREp4NnNSaEkzLVFsejMzMEpGOWZ2T2ZCZkExamtVSk4wS01zcHA0aEgxMGNtbzhnLWlHdE9iTTRGZEtremE4bUVaUG9WeFJFa1E5UjQzbWh5NjVrVUhwVnVOSVBNYUMtdzRKenp3d2R0a01ObUZPMDNib1p2T2YwSnpVTU1TS0R4aVl2ZXluanpGaXVWZXUxWHFQR0FIbDFSck5ueGFLTE1zRTBsenNtb2lCRFRMcTBEUjh6eVAtUmNtaEZBQ1d0YW1neV9JR1BGLWZiMHF2YTJNaHN2ekxFSFBMYXJ5OVFQMFNHTV9TdDhqU0lHM21qa3M?oc=5"
         }
       ],
-      "matched_keywords": [
+      "matched_keywords": []
+    },
+    {
+      "id": "fc77cc1d9a02",
+      "title": "四點健身，九點上班，韓國人真的把睡眠進化掉了嗎？",
+      "published": "2026-05-31T04:00:51+00:00",
+      "summary": "四點健身，九點上班，韓國人真的把睡眠進化掉了嗎？&nbsp;&nbsp;鉅亨號",
+      "sources": [
         {
-          "type": "indication",
-          "name": "skin cancer",
-          "keyword": "皮膚癌",
-          "related_drugs": [
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            }
-          ]
+          "name": "鉅亨號",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4ZlZCMUd3RkZwcHNLV3lCYjFKS3RPY0NqQmxVN0FmNG52dVBlbHpINjV2ZmhOdUhVdFFlTEtZOFpDZVFpSFQxMw?oc=5"
         }
-      ]
+      ],
+      "matched_keywords": []
     },
     {
       "id": "4aa0a85a2894",
@@ -65,6 +66,31 @@
       ]
     },
     {
+      "id": "a930298dd6cf",
+      "title": "擦防曬害缺維生素D、骨質疏鬆？ 醫揭真相：不擦恐增加皮膚癌風險",
+      "published": "2026-05-31T01:09:15+00:00",
+      "summary": "擦防曬害缺維生素D、骨質疏鬆？ 醫揭真相：不擦恐增加皮膚癌風險&nbsp;&nbsp;Yahoo新聞用擦的還不夠！營養師大推9種防曬食物 從體內吃出防護力&nbsp;&nbsp;UDN健康網》怕曬黑別只擦防曬 5習慣做錯恐讓皮膚黑嚕嚕&nbsp;&nbsp;自由健康網擦防曬乳會骨質疏鬆？ 醫師打破迷思：短時間就足夠製造維生素D&nbsp;&nbsp;UDN",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxNMjBOYzloTXNueTZLS2o5TzhsaXV0Sk5DUnhLUm42dTFVSGoxY0c5R2VhQTdCMWt5ai1LcnhIUy0tQ3NoOVN5bnZBdTE1Tk5jMkdOQnVFMlhIeS1WdXRzc3JLOG0tYTd4LV9Xa2FfdG5Va2tiRDJxdEhlRWdUWnR2VHRvZk1qcXN3VDM5dUF1QVF3VFdDOFNPNUppQUtvNWlIa19ubGYyakZRWlN4YXRQQlYySDVIeHk3QzRmYU1zbDZjX0JvZjhvajBBRUhtdkExdUkya3pFaUpQS20yRU5rVHdVZzh6eTJyOVJCczBxSnhLQ0oweU9yU0dCYzRFMC14aTg0bmxyWkNyZlJ4TlMyN1RZb3NjSGNMTHBUd295dU9uOERSUmM3OFUtVnVpTVZHNFdqMXloM3Z4WWxTdGx3NEZVUnFEcHBCSlBERXY5cGs2MWR0aDNrN1UyRGRDMnozR2lYMFlpNElxOUZhVDdOOVZnNU1wSWt0NXRCYUV6QUNfOXBySzFPMi0zbVV5eTQ3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "skin cancer",
+          "keyword": "皮膚癌",
+          "related_drugs": [
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "f57ac7496aba",
       "title": "橫跨醫療、生技、AI與半導體威力先進引領全球健康科技新勢力| 雜誌",
       "published": "2026-05-30T23:55:22+00:00",
@@ -97,6 +123,42 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "58137f3c13e0",
+      "title": "認知退化延緩7年！走路防失智哈佛研究曝最佳步數- 健康",
+      "published": "2026-05-30T08:10:44+00:00",
+      "summary": "認知退化延緩7年！走路防失智哈佛研究曝最佳步數- 健康&nbsp;&nbsp;中時新聞網降低失智風險！專家推薦「3個快樂健腦習慣」有效延緩大腦老化&nbsp;&nbsp;harpersbazaar.com每天走幾步才能預防失智症？哈佛揭示「最有效步數」：能延緩7年&nbsp;&nbsp;元氣網失智症延緩7年發生，每天免走1萬步「只要這麼多」！哈佛研究：3000步就能晚3年…防止大腦老化兩招奏效&nbsp;&nbsp;今周刊2類老人「失智風險飆50％」 一天花5分鐘可預防- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SMVIxQWpTaWFuRUMyRlQ2Zm5OQ01EQ2ZKdHBldFZNX1piUkRWZjItd2FKRElIMWZBV09uSVJwS04wc3VnLXd3XzJvNHdaT2t6eWdSN2pQQVd1bC1za1FwaGFIZFBqeWJVNEE5MWdR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -362,230 +424,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "81844d54cce4",
-      "title": "🎧｜2026癌症論壇／血尿竟不痛？「這狀況」反覆發生小心膀胱癌　前兆、治療一次看",
-      "published": "2026-05-29T07:51:15+00:00",
-      "summary": "🎧｜2026癌症論壇／血尿竟不痛？「這狀況」反覆發生小心膀胱癌 前兆、治療一次看&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93bWNjT2J0Wk1CdkFlZTBGUEdWT3BISDB6bFhwQUJmZEprZ0NHSDd0TWxkVmcxeS0tRFlQSUMyUXJBMzYwQkJWWlUtaFJhd0MxYlg2QjUzb0Zfb0V3U2tv0gFkQVVfeXFMT3BMTThhRjRLMGVWVXE4dnhqYmdWUTk4UjRnV1BBNFlYUVNXOG1kSUp6R3VUMTJyRk9JYWY3WnJEM3pfV1JlT0VvbmR4ZGVZakdrZ2QwWG5nbDRNMnN0OElUdjNrMQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "膀胱癌",
-          "keyword": "膀胱癌",
-          "related_drugs": [
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "554d4b56a4a9",

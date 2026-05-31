@@ -14,7 +14,7 @@ permalink: /news/vismodegib/
 ---
 
 <p class="key-answer" data-question="Vismodegib 有什麼相關新聞？">
-<strong>Vismodegib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vismodegib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/vismodegib/
 <p><a href="{{ '/drugs/vismodegib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [擦防曬乳會骨質疏鬆？ 醫師打破迷思：短時間就足夠製造維生素D](https://news.google.com/rss/articles/CBMiUEFVX3lxTE90SnFJZ1p6Qm9qOFhEUzBjR3FVTTNJZS1rNjJUN2xVWlU0ZGFzbzFXakdzYXRQeGJNd0NCZTNkSlpheUNQanlhM2xsQjhLNHhH0gFWQVVfeXFMUDFQWjZCUlY0QXQtSENWTjFJa3NXVVpnQlhkQy1FUFhndEZfNXpOR3gwWGlfYTRPcThZV1Z5RnlRVm1PTy1EM0NCdmVFanIzcEUzcHFjZlE?oc=5)
+### [擦防曬害缺維生素D、骨質疏鬆？ 醫揭真相：不擦恐增加皮膚癌風險](https://news.google.com/rss/articles/CBMikANBVV95cUxNMjBOYzloTXNueTZLS2o5TzhsaXV0Sk5DUnhLUm42dTFVSGoxY0c5R2VhQTdCMWt5ai1LcnhIUy0tQ3NoOVN5bnZBdTE1Tk5jMkdOQnVFMlhIeS1WdXRzc3JLOG0tYTd4LV9Xa2FfdG5Va2tiRDJxdEhlRWdUWnR2VHRvZk1qcXN3VDM5dUF1QVF3VFdDOFNPNUppQUtvNWlIa19ubGYyakZRWlN4YXRQQlYySDVIeHk3QzRmYU1zbDZjX0JvZjhvajBBRUhtdkExdUkya3pFaUpQS20yRU5rVHdVZzh6eTJyOVJCczBxSnhLQ0oweU9yU0dCYzRFMC14aTg0bmxyWkNyZlJ4TlMyN1RZb3NjSGNMTHBUd295dU9uOERSUmM3OFUtVnVpTVZHNFdqMXloM3Z4WWxTdGx3NEZVUnFEcHBCSlBERXY5cGs2MWR0aDNrN1UyRGRDMnozR2lYMFlpNElxOUZhVDdOOVZnNU1wSWt0NXRCYUV6QUNfOXBySzFPMi0zbVV5eTQ3?oc=5)
 
 2026-05-31 <span class="news-indication-tag">皮膚癌</span>
 
-來源：[UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE90SnFJZ1p6Qm9qOFhEUzBjR3FVTTNJZS1rNjJUN2xVWlU0ZGFzbzFXakdzYXRQeGJNd0NCZTNkSlpheUNQanlhM2xsQjhLNHhH0gFWQVVfeXFMUDFQWjZCUlY0QXQtSENWTjFJa3NXVVpnQlhkQy1FUFhndEZfNXpOR3gwWGlfYTRPcThZV1Z5RnlRVm1PTy1EM0NCdmVFanIzcEUzcHFjZlE?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMikANBVV95cUxNMjBOYzloTXNueTZLS2o5TzhsaXV0Sk5DUnhLUm42dTFVSGoxY0c5R2VhQTdCMWt5ai1LcnhIUy0tQ3NoOVN5bnZBdTE1Tk5jMkdOQnVFMlhIeS1WdXRzc3JLOG0tYTd4LV9Xa2FfdG5Va2tiRDJxdEhlRWdUWnR2VHRvZk1qcXN3VDM5dUF1QVF3VFdDOFNPNUppQUtvNWlIa19ubGYyakZRWlN4YXRQQlYySDVIeHk3QzRmYU1zbDZjX0JvZjhvajBBRUhtdkExdUkya3pFaUpQS20yRU5rVHdVZzh6eTJyOVJCczBxSnhLQ0oweU9yU0dCYzRFMC14aTg0bmxyWkNyZlJ4TlMyN1RZb3NjSGNMTHBUd295dU9uOERSUmM3OFUtVnVpTVZHNFdqMXloM3Z4WWxTdGx3NEZVUnFEcHBCSlBERXY5cGs2MWR0aDNrN1UyRGRDMnozR2lYMFlpNElxOUZhVDdOOVZnNU1wSWt0NXRCYUV6QUNfOXBySzFPMi0zbVV5eTQ3?oc=5)
 
 ---
 
@@ -57,14 +57,6 @@ permalink: /news/vismodegib/
 2026-05-30 <span class="news-indication-tag">癌症</span>
 
 來源：[Ming Pao Weekly](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRjRuM3FaaGRhUjFyNlZkR3d1TnMyazZ2YUZJVWIyRDJNXzBON0JWbGlEVHZNRnZRZk1OTkQxOTBCN3NzQ09TTWFsaHU1b0pKODhrTnk5QjhyVFdDd0h3RnpSUG00cEprS1puSUZ4N1Zoa1VVQUtnMG93YjJjcHdCbGNmOGgxeGNkbFZPXzNkZE1jcS1rNXdQOEliSW93Z2gzQmM1d2ZDOGxHVFNXcWNOdk55TEhUZVdqd01KdWt4ZzczNUl0UWdxRUFyMXhaRmpwcVZOdnBrbUQ?oc=5)
-
----
-
-### [🎧｜2026癌症論壇／血尿竟不痛？「這狀況」反覆發生小心膀胱癌　前兆、治療一次看](https://news.google.com/rss/articles/CBMiX0FVX3lxTE93bWNjT2J0Wk1CdkFlZTBGUEdWT3BISDB6bFhwQUJmZEprZ0NHSDd0TWxkVmcxeS0tRFlQSUMyUXJBMzYwQkJWWlUtaFJhd0MxYlg2QjUzb0Zfb0V3U2tv0gFkQVVfeXFMT3BMTThhRjRLMGVWVXE4dnhqYmdWUTk4UjRnV1BBNFlYUVNXOG1kSUp6R3VUMTJyRk9JYWY3WnJEM3pfV1JlT0VvbmR4ZGVZakdrZ2QwWG5nbDRNMnN0OElUdjNrMQ?oc=5)
-
-2026-05-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">膀胱癌</span>
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiX0FVX3lxTE93bWNjT2J0Wk1CdkFlZTBGUEdWT3BISDB6bFhwQUJmZEprZ0NHSDd0TWxkVmcxeS0tRFlQSUMyUXJBMzYwQkJWWlUtaFJhd0MxYlg2QjUzb0Zfb0V3U2tv0gFkQVVfeXFMT3BMTThhRjRLMGVWVXE4dnhqYmdWUTk4UjRnV1BBNFlYUVNXOG1kSUp6R3VUMTJyRk9JYWY3WnJEM3pfV1JlT0VvbmR4ZGVZakdrZ2QwWG5nbDRNMnN0OElUdjNrMQ?oc=5)
 
 ---
 

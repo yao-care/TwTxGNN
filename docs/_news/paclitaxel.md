@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [HPV疫苗問世20周年了 李秉穎：青少年男女都該接種](https://news.google.com/rss/articles/CBMiZEFVX3lxTE55WmRVVDVEYnpUclJ4R3RLbS1JTXpGN2VhY3V3bzAzWFB3UlZBRjRwMU5zMFVLNWN1T251OVFIdmpLNkU5UV8wY1UtSnpabXg5TklVNmUyci1BTExzYzE2U2tBWXLSAWpBVV95cUxPOTE1cmIxUGVGZEpPUlh2dGQzTDFDc0daTWlfczN4UmNXTFl0eXRyUE5MeEE2M2dBQi1rT1ZXWlVMX2szWXFZUDMyTGgybzRKY3JsYV81VTJiUG9pQ1hkaUhyYWpDa0dDak9n?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/paclitaxel/
 2026-05-30 <span class="news-indication-tag">癌症</span>
 
 來源：[Ming Pao Weekly](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRjRuM3FaaGRhUjFyNlZkR3d1TnMyazZ2YUZJVWIyRDJNXzBON0JWbGlEVHZNRnZRZk1OTkQxOTBCN3NzQ09TTWFsaHU1b0pKODhrTnk5QjhyVFdDd0h3RnpSUG00cEprS1puSUZ4N1Zoa1VVQUtnMG93YjJjcHdCbGNmOGgxeGNkbFZPXzNkZE1jcS1rNXdQOEliSW93Z2gzQmM1d2ZDOGxHVFNXcWNOdk55TEhUZVdqd01KdWt4ZzczNUl0UWdxRUFyMXhaRmpwcVZOdnBrbUQ?oc=5)
-
----
-
-### [🎧｜2026癌症論壇／血尿竟不痛？「這狀況」反覆發生小心膀胱癌　前兆、治療一次看](https://news.google.com/rss/articles/CBMiX0FVX3lxTE93bWNjT2J0Wk1CdkFlZTBGUEdWT3BISDB6bFhwQUJmZEprZ0NHSDd0TWxkVmcxeS0tRFlQSUMyUXJBMzYwQkJWWlUtaFJhd0MxYlg2QjUzb0Zfb0V3U2tv0gFkQVVfeXFMT3BMTThhRjRLMGVWVXE4dnhqYmdWUTk4UjRnV1BBNFlYUVNXOG1kSUp6R3VUMTJyRk9JYWY3WnJEM3pfV1JlT0VvbmR4ZGVZakdrZ2QwWG5nbDRNMnN0OElUdjNrMQ?oc=5)
-
-2026-05-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">膀胱癌</span>
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiX0FVX3lxTE93bWNjT2J0Wk1CdkFlZTBGUEdWT3BISDB6bFhwQUJmZEprZ0NHSDd0TWxkVmcxeS0tRFlQSUMyUXJBMzYwQkJWWlUtaFJhd0MxYlg2QjUzb0Zfb0V3U2tv0gFkQVVfeXFMT3BMTThhRjRLMGVWVXE4dnhqYmdWUTk4UjRnV1BBNFlYUVNXOG1kSUp6R3VUMTJyRk9JYWY3WnJEM3pfV1JlT0VvbmR4ZGVZakdrZ2QwWG5nbDRNMnN0OElUdjNrMQ?oc=5)
 
 ---
 
