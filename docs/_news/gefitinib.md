@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [為何注重養生保健仍會認知退化？精神科名醫爆原因- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE5yd0VDMl96aUplSVNBN3U2eGx1ZlpSblZuVDNtdDN1a2hPY2lxREE4Rjg4Tm1rX18wc0U4dDViMW1ldmVrTG5wcDdveUZRbmJTX3RUOVhmUHlaLXB6NGUxRkc1Ry1oMTNUZXBaVjFB?oc=5)
 
 2026-05-31 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5yd0VDMl96aUplSVNBN3U2eGx1ZlpSblZuVDNtdDN1a2hPY2lxREE4Rjg4Tm1rX18wc0U4dDViMW1ldmVrTG5wcDdveUZRbmJTX3RUOVhmUHlaLXB6NGUxRkc1Ry1oMTNUZXBaVjFB?oc=5)
+
+---
+
+### [通霄一站式免費健檢 顧健康](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMGdTcGJLaHF3TFpFWTNFZTN5WThBd3hqcDhlbVpJOWRHQ21zc2ZfSHU2RXRqbXZXS0tmMUpyZVp0dDQ4d0ZHcnk2MnVJenlxME9VUG9lZ3NRRUFHX3lkZ2dPM0dMMEtUTV9lNjJ6WjJ4ejY5TlhkZjlTTndwcHQ0aV9wOHRXNm9PajdTVjF6T0M5R1hYR2JsSERlN1RRNmRKU1ljYi1HZWh2Q3BVeGFnNXpJUmRQcDRtWndkdVA0RXJkWmJicWRWNXgxUjFTSXBxUzhaTHFVblNxUQ?oc=5)
+
+2026-05-31 <span class="news-indication-tag">癌症</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMGdTcGJLaHF3TFpFWTNFZTN5WThBd3hqcDhlbVpJOWRHQ21zc2ZfSHU2RXRqbXZXS0tmMUpyZVp0dDQ4d0ZHcnk2MnVJenlxME9VUG9lZ3NRRUFHX3lkZ2dPM0dMMEtUTV9lNjJ6WjJ4ejY5TlhkZjlTTndwcHQ0aV9wOHRXNm9PajdTVjF6T0M5R1hYR2JsSERlN1RRNmRKU1ljYi1HZWh2Q3BVeGFnNXpJUmRQcDRtWndkdVA0RXJkWmJicWRWNXgxUjFTSXBxUzhaTHFVblNxUQ?oc=5)
 
 ---
 

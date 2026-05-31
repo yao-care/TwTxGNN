@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [通霄一站式免費健檢 顧健康](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMGdTcGJLaHF3TFpFWTNFZTN5WThBd3hqcDhlbVpJOWRHQ21zc2ZfSHU2RXRqbXZXS0tmMUpyZVp0dDQ4d0ZHcnk2MnVJenlxME9VUG9lZ3NRRUFHX3lkZ2dPM0dMMEtUTV9lNjJ6WjJ4ejY5TlhkZjlTTndwcHQ0aV9wOHRXNm9PajdTVjF6T0M5R1hYR2JsSERlN1RRNmRKU1ljYi1HZWh2Q3BVeGFnNXpJUmRQcDRtWndkdVA0RXJkWmJicWRWNXgxUjFTSXBxUzhaTHFVblNxUQ?oc=5)
+
+2026-05-31 <span class="news-indication-tag">癌症</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMGdTcGJLaHF3TFpFWTNFZTN5WThBd3hqcDhlbVpJOWRHQ21zc2ZfSHU2RXRqbXZXS0tmMUpyZVp0dDQ4d0ZHcnk2MnVJenlxME9VUG9lZ3NRRUFHX3lkZ2dPM0dMMEtUTV9lNjJ6WjJ4ejY5TlhkZjlTTndwcHQ0aV9wOHRXNm9PajdTVjF6T0M5R1hYR2JsSERlN1RRNmRKU1ljYi1HZWh2Q3BVeGFnNXpJUmRQcDRtWndkdVA0RXJkWmJicWRWNXgxUjFTSXBxUzhaTHFVblNxUQ?oc=5)
+
+---
 
 ### [HPV疫苗問世20周年了 李秉穎：青少年男女都該接種](https://news.google.com/rss/articles/CBMiZEFVX3lxTE55WmRVVDVEYnpUclJ4R3RLbS1JTXpGN2VhY3V3bzAzWFB3UlZBRjRwMU5zMFVLNWN1T251OVFIdmpLNkU5UV8wY1UtSnpabXg5TklVNmUyci1BTExzYzE2U2tBWXLSAWpBVV95cUxPOTE1cmIxUGVGZEpPUlh2dGQzTDFDc0daTWlfczN4UmNXTFl0eXRyUE5MeEE2M2dBQi1rT1ZXWlVMX2szWXFZUDMyTGgybzRKY3JsYV81VTJiUG9pQ1hkaUhyYWpDa0dDak9n?oc=5)
 

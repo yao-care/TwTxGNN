@@ -35,7 +35,7 @@ permalink: /news/vismodegib/
 <li>Brenner tumor（99.8%）</li>
 <li>cutaneous adenocystic carcinoma（99.8%）</li>
 <li>prostate leiomyoma（99.8%）</li>
-<li class="indication-matched">skin cancer（99.8%）<span class="indication-tag">📰 皮膚癌</span></li>
+<li>skin cancer（99.8%）</li>
 <li>benign neoplasm of sweat gland（99.8%）</li>
 </ul></li>
 </ul>
@@ -44,11 +44,11 @@ permalink: /news/vismodegib/
 
 ## 相關新聞（2 則）
 
-### [擦防曬害缺維生素D、骨質疏鬆？ 醫揭真相：不擦恐增加皮膚癌風險- 健康新聞- PChome Online 新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMijgFBVV95cUxOU001Q0kzUHNfU0hnYzlmTlc4c1RSNjd6R2VZVHVJTGdrQmVpNzVqN3JKb05vQjBhckR3TW9rc1hqR3FHcThEUXBWSUlzU3JrakkwWXp2RDRBdi1zZk5BdllCMHYtZ2FXQkJ5YVVlWjVKYk8yOGJtc25SM1JaZnFlOXZkbXBmbXFlZkhzTWh3?oc=5)
+### [通霄一站式免費健檢 顧健康](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMGdTcGJLaHF3TFpFWTNFZTN5WThBd3hqcDhlbVpJOWRHQ21zc2ZfSHU2RXRqbXZXS0tmMUpyZVp0dDQ4d0ZHcnk2MnVJenlxME9VUG9lZ3NRRUFHX3lkZ2dPM0dMMEtUTV9lNjJ6WjJ4ejY5TlhkZjlTTndwcHQ0aV9wOHRXNm9PajdTVjF6T0M5R1hYR2JsSERlN1RRNmRKU1ljYi1HZWh2Q3BVeGFnNXpJUmRQcDRtWndkdVA0RXJkWmJicWRWNXgxUjFTSXBxUzhaTHFVblNxUQ?oc=5)
 
-2026-05-31 <span class="news-indication-tag">皮膚癌</span>
+2026-05-31 <span class="news-indication-tag">癌症</span>
 
-來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMijgFBVV95cUxOU001Q0kzUHNfU0hnYzlmTlc4c1RSNjd6R2VZVHVJTGdrQmVpNzVqN3JKb05vQjBhckR3TW9rc1hqR3FHcThEUXBWSUlzU3JrakkwWXp2RDRBdi1zZk5BdllCMHYtZ2FXQkJ5YVVlWjVKYk8yOGJtc25SM1JaZnFlOXZkbXBmbXFlZkhzTWh3?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMGdTcGJLaHF3TFpFWTNFZTN5WThBd3hqcDhlbVpJOWRHQ21zc2ZfSHU2RXRqbXZXS0tmMUpyZVp0dDQ4d0ZHcnk2MnVJenlxME9VUG9lZ3NRRUFHX3lkZ2dPM0dMMEtUTV9lNjJ6WjJ4ejY5TlhkZjlTTndwcHQ0aV9wOHRXNm9PajdTVjF6T0M5R1hYR2JsSERlN1RRNmRKU1ljYi1HZWh2Q3BVeGFnNXpJUmRQcDRtWndkdVA0RXJkWmJicWRWNXgxUjFTSXBxUzhaTHFVblNxUQ?oc=5)
 
 ---
 
