@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-31T11:28:23.997601+00:00",
-  "total_count": 17,
-  "matched_count": 7,
+  "last_updated": "2026-05-31T13:17:25.500866+00:00",
+  "total_count": 11,
+  "matched_count": 5,
   "news": [
     {
       "id": "cdc2877b2b00",
@@ -12,19 +12,6 @@
         {
           "name": "橙新聞",
           "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxOTEg5OWFiUV9iTVduT0VOZDRPM2JONUJNZ1drMWxKUGxoWUNyMThZdGZJcGZHM3RmakVzeGhBeHdyMGZZTGUtS1ZOclYweno0eWVEVkZvQ09yU0JBQ1NuWkt6Nk5pUUM0aWF0a19yQTVrOXloNlNCN2E1ZzZpM3VaNXBUSmtJLVZGa0V3ZFJnUTBJM05MMjgyaktyM2hJb0x5eC1yRmJjbmw3Vm1fMEJPM1ZqOU0yVWg5R2xVb0toREp4NnNSaEkzLVFsejMzMEpGOWZ2T2ZCZkExamtVSk4wS01zcHA0aEgxMGNtbzhnLWlHdE9iTTRGZEtremE4bUVaUG9WeFJFa1E5UjQzbWh5NjVrVUhwVnVOSVBNYUMtdzRKenp3d2R0a01ObUZPMDNib1p2T2YwSnpVTU1TS0R4aVl2ZXluanpGaXVWZXUxWHFQR0FIbDFSck5ueGFLTE1zRTBsenNtb2lCRFRMcTBEUjh6eVAtUmNtaEZBQ1d0YW1neV9JR1BGLWZiMHF2YTJNaHN2ekxFSFBMYXJ5OVFQMFNHTV9TdDhqU0lHM21qa3M?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b89fd78e7f01",
-      "title": "Omega-3 魚油有助於預防第 2 型糖尿病。",
-      "published": "2026-05-31T05:26:18+00:00",
-      "summary": "Omega-3 魚油有助於預防第 2 型糖尿病。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNMi1RYkJzZ3hNd2dRVndNRE45TngtVEFFM3FDS0hKR0s3ZDJyN214NGZFZS1WeDNXZktZRVBkLTNPblhKam5KemxzS2VuOVNCbWd6SzBCR25JMkdwMmFpMzJuRnJjR2NZQmktX0pEdTlYOHY4N3d4RHh5czZST1o3SFZEV2hhcjNrQ2htaEJNQy1BNGlwYXNhUmhuYTY5NEFoQUt2YWRkUERLY19mVEtPZkQtQ2lab0pwUk5JazR2UVo3cDNxMzk0LXN1dkV0QUdfOTRXNWpDNkFnVUZ0Q25CYVd1NlNNemw0RHI5dmVpOVRyZGY1UVRBTU8tT2RTZnpMQXctQ2N1bWZJaFBaV1h2X3VHb0g2MEtlR1FSTXo0TTBYdTBYME1HYw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -41,42 +28,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "3a5703e315f3",
-      "title": "2類老人「失智風險飆50％」 一天花5分鐘可預防- 健康",
-      "published": "2026-05-31T02:32:30+00:00",
-      "summary": "2類老人「失智風險飆50％」 一天花5分鐘可預防- 健康&nbsp;&nbsp;中時新聞網降低失智風險！專家推薦「3個快樂健腦習慣」有效延緩大腦老化&nbsp;&nbsp;harpersbazaar.com每天走幾步才能預防失智症？哈佛揭示「最有效步數」：能延緩7年&nbsp;&nbsp;元氣網失智症延緩7年發生，每天免走1萬步「只要這麼多」！哈佛研究：3000步就能晚3年…防止大腦老化兩招奏效&nbsp;&nbsp;今周刊運動後頭腦變清晰？研究揭運動活化「大腦1成分」有效預防失智症&nbsp;&nbsp;優活健康網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04NWVQSUo0cWM2eGlxYzc3ZGE1eWRiV2Q5M2FieEM3U1RRRGl6TmR1MEVLdDdvZ2t6SE9LTy1iUnplSEVlU2lwaFY4OUVMX21tRjN2dHlJVTMwSWNFbFZMNUNhYVJJaG5naGRXMXNB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "4aa0a85a2894",
@@ -115,14 +66,14 @@
       ]
     },
     {
-      "id": "a930298dd6cf",
-      "title": "擦防曬害缺維生素D、骨質疏鬆？ 醫揭真相：不擦恐增加皮膚癌風險",
-      "published": "2026-05-31T01:09:15+00:00",
-      "summary": "擦防曬害缺維生素D、骨質疏鬆？ 醫揭真相：不擦恐增加皮膚癌風險&nbsp;&nbsp;Yahoo新聞用擦的還不夠！營養師大推9種防曬食物 從體內吃出防護力&nbsp;&nbsp;UDN健康網》怕曬黑別只擦防曬 5習慣做錯恐讓皮膚黑嚕嚕&nbsp;&nbsp;自由健康網擦防曬乳會骨質疏鬆？ 醫師打破迷思：短時間就足夠製造維生素D&nbsp;&nbsp;UDN",
+      "id": "17b006e1b3ce",
+      "title": "擦防曬害缺維生素D、骨質疏鬆？ 醫揭真相：不擦恐增加皮膚癌風險- 健康新聞- PChome Online 新聞 - PChome Online 新聞",
+      "published": "2026-05-31T00:50:24+00:00",
+      "summary": "擦防曬害缺維生素D、骨質疏鬆？ 醫揭真相：不擦恐增加皮膚癌風險- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞擦防曬害缺維生素D、骨質疏鬆？ 醫揭真相：不擦恐增加皮膚癌風險&nbsp;&nbsp;Yahoo新聞用擦的還不夠！營養師大推9種防曬食物 從體內吃出防護力&nbsp;&nbsp;UDN健康網》怕曬黑別只擦防曬 5習慣做錯恐讓皮膚黑嚕嚕&nbsp;&nbsp;自由健康網擦防曬乳會骨質疏鬆？ 醫師打破迷思：短時間就足夠製造維生素D&nbsp;&nbsp;UDN",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxNMjBOYzloTXNueTZLS2o5TzhsaXV0Sk5DUnhLUm42dTFVSGoxY0c5R2VhQTdCMWt5ai1LcnhIUy0tQ3NoOVN5bnZBdTE1Tk5jMkdOQnVFMlhIeS1WdXRzc3JLOG0tYTd4LV9Xa2FfdG5Va2tiRDJxdEhlRWdUWnR2VHRvZk1qcXN3VDM5dUF1QVF3VFdDOFNPNUppQUtvNWlIa19ubGYyakZRWlN4YXRQQlYySDVIeHk3QzRmYU1zbDZjX0JvZjhvajBBRUhtdkExdUkya3pFaUpQS20yRU5rVHdVZzh6eTJyOVJCczBxSnhLQ0oweU9yU0dCYzRFMC14aTg0bmxyWkNyZlJ4TlMyN1RZb3NjSGNMTHBUd295dU9uOERSUmM3OFUtVnVpTVZHNFdqMXloM3Z4WWxTdGx3NEZVUnFEcHBCSlBERXY5cGs2MWR0aDNrN1UyRGRDMnozR2lYMFlpNElxOUZhVDdOOVZnNU1wSWt0NXRCYUV6QUNfOXBySzFPMi0zbVV5eTQ3?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU001Q0kzUHNfU0hnYzlmTlc4c1RSNjd6R2VZVHVJTGdrQmVpNzVqN3JKb05vQjBhckR3TW9rc1hqR3FHcThEUXBWSUlzU3JrakkwWXp2RDRBdi1zZk5BdllCMHYtZ2FXQkJ5YVVlWjVKYk8yOGJtc25SM1JaZnFlOXZkbXBmbXFlZkhzTWh3?oc=5"
         }
       ],
       "matched_keywords": [
@@ -153,23 +104,10 @@
       "matched_keywords": []
     },
     {
-      "id": "b3faac55f3ef",
-      "title": "薩爾塔甲型流感死亡擔憂：受害者未接種疫苗",
-      "published": "2026-05-30T12:33:00+00:00",
-      "summary": "薩爾塔甲型流感死亡擔憂：受害者未接種疫苗&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPamZoa1NfVURUcE5ZWkM2TmxxYmMyYlRyR29EdXA4M2k0WXFIVW9rUzl4VXI2QzdKaDl2a05KYmhPRHpMdUFfcWpEdmZJUmFhVERYbF8wNllHVWNQNnRjWVVIblRPYWMxdXM3eURyWnEySlY0RkxCWjdiVThsQlpfV1dwVXVJWHEtbEQxM21GTk1xMVhlQ0dWb25qSG5qWFhpZVhFWjQtZ2VLdFpZNkE1dTVrRk5GRDd4eUE5WXI4MXVBb3dFNWhoQklPNzFKaF9tWWw2Q2MtdGgzN3RzUU1YLUZaVzF3RkJEUGRmdkVKS1hTUFFpNUxUbmIwQVhsX25fTGJMLWFMWEIwbGt5WXBzSVF5ekxpY2xXM0ttMnBxOWNRSHMyVEZxY3Z3aWlNVG5DTVN4MkZlTTZKRVFoUDhOcEY1ZnhKRzVUcmhLeUVfWnVfV2piNkd0bGk4YVQ1MG8xeTdHVFBhcEMtOEVOOGc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "0e22ddad6b37",
       "title": "HPV疫苗問世20周年了 李秉穎：青少年男女都該接種",
       "published": "2026-05-30T08:14:00+00:00",
-      "summary": "HPV疫苗問世20周年了 李秉穎：青少年男女都該接種&nbsp;&nbsp;自由健康網未接種HPV疫苗 台大感染醫自曝「潔身自愛仍長疣」已自行剝除&nbsp;&nbsp;Yahoo新聞子宮頸抹片多久做一次？抹片異常代表罹癌？帶你初步看懂抹片報告&nbsp;&nbsp;PChome Online新聞子宮頸癌每年奪700位台灣女性生命 國泰醫：定期篩檢3年97%可被揪出&nbsp;&nbsp;民報以為治好了？醫師揭菜花術後最危險時間點&nbsp;&nbsp;中天新聞網",
+      "summary": "HPV疫苗問世20周年了 李秉穎：青少年男女都該接種&nbsp;&nbsp;自由健康網未接種HPV疫苗 台大感染醫自曝「潔身自愛仍長疣」已自行剝除&nbsp;&nbsp;Yahoo新聞子宮頸抹片多久做一次？抹片異常代表罹癌？帶你初步看懂抹片報告&nbsp;&nbsp;PChome Online 新聞子宮頸癌每年奪700位台灣女性生命 國泰醫：定期篩檢3年97%可被揪出&nbsp;&nbsp;民報以為治好了？醫師揭菜花術後最危險時間點&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
           "name": "自由健康網",
@@ -191,17 +129,40 @@
       ]
     },
     {
-      "id": "8e7b6427c227",
-      "title": "這種番茄大豆汁可在短短四週內減少炎症",
-      "published": "2026-05-30T06:07:13+00:00",
-      "summary": "這種番茄大豆汁可在短短四週內減少炎症&nbsp;&nbsp;arch-web.com.tw",
+      "id": "58137f3c13e0",
+      "title": "認知退化延緩7年！走路防失智哈佛研究曝最佳步數- 健康",
+      "published": "2026-05-30T08:10:44+00:00",
+      "summary": "認知退化延緩7年！走路防失智哈佛研究曝最佳步數- 健康&nbsp;&nbsp;中時新聞網降低失智風險！專家推薦「3個快樂健腦習慣」有效延緩大腦老化&nbsp;&nbsp;harpersbazaar.com每天走幾步才能預防失智症？哈佛揭示「最有效步數」：能延緩7年&nbsp;&nbsp;元氣網失智症延緩7年發生，每天免走1萬步「只要這麼多」！哈佛研究：3000步就能晚3年…防止大腦老化兩招奏效&nbsp;&nbsp;今周刊不只靠肝！睡覺也能排毒 醫揭「做3事」排除重金屬、降失智風險&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOdHpLYkNNVnprWE5VSnpEQlRTeG5BdFVwUk8teHQxcUlNUy1jMFVXRGVsVmZpa0lrUXlMSUgxOEt4NzdFVGFyRWJsYjlxeXB2Z3lkYmplUmxGY1c1Y185Zkp5VUgwcUJIc09mMGJfb1Bvb29jeHprUmpyaXY0SFFOQTlPODYyOFBJY2pYc01taVFkRzFHUnpUMlQ1NzBmeWMtTk9KaHlOZ0VkQlJ0dGI3aHptcDQ4UjFkZlV5c3hRZzhMWHNWWFRMUE5Fdm9TUkNFVS1JUkVIV3Y3dURuLWtZdVlzU05LNEZ3ZWFTTVlMY2ZILXlycy1DcjZuejNENmVFX0ROdUJqSFNGR0gyT3NWWHBneTYtTjhJamJtZThkUjROMHl4S04tWjhwUjdsMUhTMzhOVHNSbEljRU5raE1RQmlyX3lvbmd5aG82N29iY0Z2WVJhUnc?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SMVIxQWpTaWFuRUMyRlQ2Zm5OQ01EQ2ZKdHBldFZNX1piUkRWZjItd2FKRElIMWZBV09uSVJwS04wc3VnLXd3XzJvNHdaT2t6eWdSN2pQQVd1bC1za1FwaGFIZFBqeWJVNEE5MWdR?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "5872f0f74d90",
@@ -437,253 +398,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "b6b48b49bb9f",
-      "title": "維生素 B12 和葉酸缺乏與慢性疲勞有關。",
-      "published": "2026-05-29T17:23:26+00:00",
-      "summary": "維生素 B12 和葉酸缺乏與慢性疲勞有關。&nbsp;&nbsp;arch-web.com.tw研究：維生素B12化合物或有助抑制腦癌 開發針對癌症新策略&nbsp;&nbsp;自由健康網不只是防貧血 研究揭維生素B12缺乏即牽動肌肉老化與體力&nbsp;&nbsp;自由健康網科學家正在提出有關維生素 B12 和癌症的新問題。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQU0E2Q05ySk14WGo4TFZZQzRDYTJxZzBmLUZpMkwzUGR3S0tSd1REQWlfVmw2Z0R4d0czekFKcmVhYlQxczBtUFVKcGhzQUd6bm5la1IxRTM3N1NXVG9nblpjSUlnWmg2QnZTTE5ZMTNhNUo1b19waUZzLWVLNXhZR3RlRzZWdVpWbjVfYm1TOXlKWUVfTXdxSmszVF9VQWJMcDFBUW1lX215Q19VbFpaeG9kT09JblB5WUhKX0VTbThBZ2tCbF9wcVFUbkVvYjRGTDdUWHFldU5peWtpZHRpanpMQjNWM0RWWHd2Q1kyNWcyU3lvUlN4dzkyZkRUVWtHbF8tZ0Vub2pmdEZCUVoyQVNuVm91cmtzZW9BY0VPMXQzNS1wdkc4OTc5T0dCbXFoY0lsbDZUN2pnNW1TamtRcm0zOXo?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2331d0d8e6a0",
-      "title": "無聲的腎臟危機蔓延速度比專家預期的要快得多。",
-      "published": "2026-05-29T16:15:53+00:00",
-      "summary": "無聲的腎臟危機蔓延速度比專家預期的要快得多。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPc25LWUlQYWZkUHRxTHFVYVF5ZVhaTlVDZ1M4UkR2cjlRbkg1Y01FajFoTVc1SDdGXzdmNTFvd1hMS1hhZGtVVF80TGRsbjhZNTl1YnFGMmtucURnNzZ5TFJBbEF0N1lLX2lvemdTa0xVNkpzSEZQSVdPTXM2ajNYU1AxMm5DVkVOWU4wLU9BbEduTUdJZ1NYcDZLZ2hTS01XRXdhX3Rhcmc5S3Y5ZS16bVp6bHJpb1pCQzZhNzcwaVV3dUUxWE9OUmNrSDJ4MG1Sb2dJVjYwQkJIbGVyVE1XR3RrTTNkT2U4Ny10c0JxeUVBSnJhUTRKV0luZmd4c1Ayc3BGRlcxQkkzUlZ3T0RheXJ2SHdfMC1pUmRmcmtJaVZFRTZwOFVsQlhobUwxWFlaQTZydHlnOExJSlBQNl9pLUpxOUs0YWZLY1FTZTdhSUlQbE8zTktmLXJzTmFkSUlRRkxxVTF4TzQxM3JEaTg0NDBIUjZjaTBCTWszNnJWOGNyQVpmcVE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "77d803f69548",
-      "title": "蛋白質攝取停滯可能解釋老化、記憶喪失和阿茲海默症。",
-      "published": "2026-05-29T14:33:53+00:00",
-      "summary": "蛋白質攝取停滯可能解釋老化、記憶喪失和阿茲海默症。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQak1lR2pqM3RZb2Y3bF83M0J3eG5wWHVTeWMzMEFXRTNvY2xYdURhUnhzbl9wYUYtTkM5YkhKTFpETzl0cXZqVzFlbVd2eW1DbFhWY29YWkZzSEYySnBGZkItUlk2N3FBMGVYX2ctSUNjWVAxcDVvLU0wem1Bdk9pOUp0TXlTT1QyNTFoMmtjNFUtVDlyNkdVREhrOVY4VGFMYThoVFJLWXpmeVhLa0l1bzdXYktxM3Viby1FZ3hwRlNsczBUeGdQRjlWQU4tWVp1Z2NDRi1HYkZ3a1VnMFBCWVhQb0Z6QnRINVc3Vm5Rcm1USV9DVkRoalhteEtoWjN1LV9iQnRVdjRtaU5hVW5KZ3c1UElhWmMtdnBFenpSbzloRXNSb0l1V2dCRlluU2s5VE9tZGlfbkxWazdnUVZhdncxSUY5Wl9DdGZTUnNmd3VHMTlfZlgtSkZhMjFpUHdnQTFBdUIydjA1RUVJLTI2TGs1WWRWbUk5R3NobTF2SXVLblJUVHc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "554d4b56a4a9",

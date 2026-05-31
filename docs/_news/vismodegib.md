@@ -14,7 +14,7 @@ permalink: /news/vismodegib/
 ---
 
 <p class="key-answer" data-question="Vismodegib 有什麼相關新聞？">
-<strong>Vismodegib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vismodegib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/vismodegib/
 <p><a href="{{ '/drugs/vismodegib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [擦防曬害缺維生素D、骨質疏鬆？ 醫揭真相：不擦恐增加皮膚癌風險](https://news.google.com/rss/articles/CBMikANBVV95cUxNMjBOYzloTXNueTZLS2o5TzhsaXV0Sk5DUnhLUm42dTFVSGoxY0c5R2VhQTdCMWt5ai1LcnhIUy0tQ3NoOVN5bnZBdTE1Tk5jMkdOQnVFMlhIeS1WdXRzc3JLOG0tYTd4LV9Xa2FfdG5Va2tiRDJxdEhlRWdUWnR2VHRvZk1qcXN3VDM5dUF1QVF3VFdDOFNPNUppQUtvNWlIa19ubGYyakZRWlN4YXRQQlYySDVIeHk3QzRmYU1zbDZjX0JvZjhvajBBRUhtdkExdUkya3pFaUpQS20yRU5rVHdVZzh6eTJyOVJCczBxSnhLQ0oweU9yU0dCYzRFMC14aTg0bmxyWkNyZlJ4TlMyN1RZb3NjSGNMTHBUd295dU9uOERSUmM3OFUtVnVpTVZHNFdqMXloM3Z4WWxTdGx3NEZVUnFEcHBCSlBERXY5cGs2MWR0aDNrN1UyRGRDMnozR2lYMFlpNElxOUZhVDdOOVZnNU1wSWt0NXRCYUV6QUNfOXBySzFPMi0zbVV5eTQ3?oc=5)
+### [擦防曬害缺維生素D、骨質疏鬆？ 醫揭真相：不擦恐增加皮膚癌風險- 健康新聞- PChome Online 新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMijgFBVV95cUxOU001Q0kzUHNfU0hnYzlmTlc4c1RSNjd6R2VZVHVJTGdrQmVpNzVqN3JKb05vQjBhckR3TW9rc1hqR3FHcThEUXBWSUlzU3JrakkwWXp2RDRBdi1zZk5BdllCMHYtZ2FXQkJ5YVVlWjVKYk8yOGJtc25SM1JaZnFlOXZkbXBmbXFlZkhzTWh3?oc=5)
 
 2026-05-31 <span class="news-indication-tag">皮膚癌</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMikANBVV95cUxNMjBOYzloTXNueTZLS2o5TzhsaXV0Sk5DUnhLUm42dTFVSGoxY0c5R2VhQTdCMWt5ai1LcnhIUy0tQ3NoOVN5bnZBdTE1Tk5jMkdOQnVFMlhIeS1WdXRzc3JLOG0tYTd4LV9Xa2FfdG5Va2tiRDJxdEhlRWdUWnR2VHRvZk1qcXN3VDM5dUF1QVF3VFdDOFNPNUppQUtvNWlIa19ubGYyakZRWlN4YXRQQlYySDVIeHk3QzRmYU1zbDZjX0JvZjhvajBBRUhtdkExdUkya3pFaUpQS20yRU5rVHdVZzh6eTJyOVJCczBxSnhLQ0oweU9yU0dCYzRFMC14aTg0bmxyWkNyZlJ4TlMyN1RZb3NjSGNMTHBUd295dU9uOERSUmM3OFUtVnVpTVZHNFdqMXloM3Z4WWxTdGx3NEZVUnFEcHBCSlBERXY5cGs2MWR0aDNrN1UyRGRDMnozR2lYMFlpNElxOUZhVDdOOVZnNU1wSWt0NXRCYUV6QUNfOXBySzFPMi0zbVV5eTQ3?oc=5)
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMijgFBVV95cUxOU001Q0kzUHNfU0hnYzlmTlc4c1RSNjd6R2VZVHVJTGdrQmVpNzVqN3JKb05vQjBhckR3TW9rc1hqR3FHcThEUXBWSUlzU3JrakkwWXp2RDRBdi1zZk5BdllCMHYtZ2FXQkJ5YVVlWjVKYk8yOGJtc25SM1JaZnFlOXZkbXBmbXFlZkhzTWh3?oc=5)
 
 ---
 
@@ -57,14 +57,6 @@ permalink: /news/vismodegib/
 2026-05-30 <span class="news-indication-tag">癌症</span>
 
 來源：[Ming Pao Weekly](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRjRuM3FaaGRhUjFyNlZkR3d1TnMyazZ2YUZJVWIyRDJNXzBON0JWbGlEVHZNRnZRZk1OTkQxOTBCN3NzQ09TTWFsaHU1b0pKODhrTnk5QjhyVFdDd0h3RnpSUG00cEprS1puSUZ4N1Zoa1VVQUtnMG93YjJjcHdCbGNmOGgxeGNkbFZPXzNkZE1jcS1rNXdQOEliSW93Z2gzQmM1d2ZDOGxHVFNXcWNOdk55TEhUZVdqd01KdWt4ZzczNUl0UWdxRUFyMXhaRmpwcVZOdnBrbUQ?oc=5)
-
----
-
-### [維生素 B12 和葉酸缺乏與慢性疲勞有關。](https://news.google.com/rss/articles/CBMixAJBVV95cUxQU0E2Q05ySk14WGo4TFZZQzRDYTJxZzBmLUZpMkwzUGR3S0tSd1REQWlfVmw2Z0R4d0czekFKcmVhYlQxczBtUFVKcGhzQUd6bm5la1IxRTM3N1NXVG9nblpjSUlnWmg2QnZTTE5ZMTNhNUo1b19waUZzLWVLNXhZR3RlRzZWdVpWbjVfYm1TOXlKWUVfTXdxSmszVF9VQWJMcDFBUW1lX215Q19VbFpaeG9kT09JblB5WUhKX0VTbThBZ2tCbF9wcVFUbkVvYjRGTDdUWHFldU5peWtpZHRpanpMQjNWM0RWWHd2Q1kyNWcyU3lvUlN4dzkyZkRUVWtHbF8tZ0Vub2pmdEZCUVoyQVNuVm91cmtzZW9BY0VPMXQzNS1wdkc4OTc5T0dCbXFoY0lsbDZUN2pnNW1TamtRcm0zOXo?oc=5)
-
-2026-05-29 <span class="news-indication-tag">癌症</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMixAJBVV95cUxQU0E2Q05ySk14WGo4TFZZQzRDYTJxZzBmLUZpMkwzUGR3S0tSd1REQWlfVmw2Z0R4d0czekFKcmVhYlQxczBtUFVKcGhzQUd6bm5la1IxRTM3N1NXVG9nblpjSUlnWmg2QnZTTE5ZMTNhNUo1b19waUZzLWVLNXhZR3RlRzZWdVpWbjVfYm1TOXlKWUVfTXdxSmszVF9VQWJMcDFBUW1lX215Q19VbFpaeG9kT09JblB5WUhKX0VTbThBZ2tCbF9wcVFUbkVvYjRGTDdUWHFldU5peWtpZHRpanpMQjNWM0RWWHd2Q1kyNWcyU3lvUlN4dzkyZkRUVWtHbF8tZ0Vub2pmdEZCUVoyQVNuVm91cmtzZW9BY0VPMXQzNS1wdkc4OTc5T0dCbXFoY0lsbDZUN2pnNW1TamtRcm0zOXo?oc=5)
 
 ---
 
