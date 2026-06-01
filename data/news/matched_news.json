@@ -1,17 +1,30 @@
 {
-  "last_updated": "2026-06-01T04:07:59.436223+00:00",
-  "total_count": 9,
+  "last_updated": "2026-06-01T10:10:55.390287+00:00",
+  "total_count": 10,
   "matched_count": 2,
   "news": [
     {
-      "id": "bd45c1cb9b2b",
-      "title": "睡眠不足易罹癌 規律作息可改善失眠",
-      "published": "2026-06-01T03:52:41+00:00",
-      "summary": "睡眠不足易罹癌 規律作息可改善失眠&nbsp;&nbsp;anntw.com",
+      "id": "abb63c744d0b",
+      "title": "國中男生公費打HPV疫苗週年 接種率突破8成 - 中央社 CNA",
+      "published": "2026-06-01T06:44:00+00:00",
+      "summary": "國中男生公費打HPV疫苗週年 接種率突破8成&nbsp;&nbsp;中央社 CNA男女都要打HPV疫苗！國中男生公費接種首年破8成&nbsp;&nbsp;Yahoo新聞不只女生要打！國中男生HPV疫苗接種首年破8成&nbsp;&nbsp;Yahoo新聞防癌從校園開始 國中男生HPV疫苗接種率首年破八成&nbsp;&nbsp;Taiwan News未接種HPV疫苗 台大感染醫自曝「潔身自愛仍長疣」已自行剝除&nbsp;&nbsp;UDN",
       "sources": [
         {
-          "name": "anntw.com",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rdlZJTVpNVGJUbnRQSTRLTWszZ2M1Z1JhemdFNzVUazFWQlBTd1FZTU95M0R6Qnd1VDlSX1JRTDhIdkRvaWYtaDg0WnM2WDR1a2JXOTAwcw?oc=5"
+          "name": "中央社 CNA",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOUG9xSFotdnpUX0o2MXY3YWNKc2NvWWZuZzQ3YUFmOWEwallLMExCQnc2eld2bjNVeEtFZVFJdTB5WE5RWXhFamhRSENDRzlVcm93Q012aUo3R0Y2bDM0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "bc5faeb3ca0f",
+      "title": "睡眠不足易罹癌規律作息可改善失眠| 生活 | 生活",
+      "published": "2026-06-01T05:15:21+00:00",
+      "summary": "睡眠不足易罹癌規律作息可改善失眠| 生活 | 生活&nbsp;&nbsp;UDN",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ka0F0SjJ6T0hsOVoxVnNTM1ZZVFBtdFV3OTFwMlhMQWNGemY4TnFpeEtlWk9mVVZWcDQxZjUtWk1MdkJVZFRqWW55VXNscDR4?oc=5"
         }
       ],
       "matched_keywords": []
@@ -53,19 +66,6 @@
       ]
     },
     {
-      "id": "4311d1375b56",
-      "title": "國中男生公費HPV疫苗 首年接種率破8成！國健署： 超預期",
-      "published": "2026-06-01T03:34:02+00:00",
-      "summary": "國中男生公費HPV疫苗 首年接種率破8成！國健署： 超預期&nbsp;&nbsp;匯流新聞網國中男生公費HPV疫苗 首年接種率破8成！國健署：超預期&nbsp;&nbsp;Yahoo新聞未接種HPV疫苗 台大感染醫自曝「潔身自愛仍長疣」已自行剝除&nbsp;&nbsp;UDN子宮頸抹片多久做一次？抹片異常代表罹癌？帶你初步看懂抹片報告&nbsp;&nbsp;PChome Online 新聞HPV疫苗問世20周年了 李秉穎：青少年男女都該接種&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "匯流新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CeDRId0VtWjRyUnh0X19CU3I1Q3VpSjk1bFhuWVptUDFGYkZ3bDVaRThPT0RQMUxGZzJDYVlqazBQRk8zN1lmOTN3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "baa78fd4bfd0",
       "title": "橫跨醫療、生技、AI與半導體 威力先進引領全球健康科技新勢",
       "published": "2026-06-01T02:30:33+00:00",
@@ -81,7 +81,7 @@
     {
       "id": "6e9b13914cb9",
       "title": "狂吃蔬果不會罹大腸癌？營養師曝「這國民點心」週吃2次能降風險",
-      "published": "2026-06-01T02:15:00+00:00",
+      "published": "2026-06-01T02:18:09+00:00",
       "summary": "狂吃蔬果不會罹大腸癌？營養師曝「這國民點心」週吃2次能降風險&nbsp;&nbsp;Yahoo新聞研究：50歲以下大腸癌發生率上升 30多歲也可能中鏢&nbsp;&nbsp;自由健康網大腸癌年輕化不是沒原因 專家點名6種護腸食物與4大關鍵習慣&nbsp;&nbsp;元氣網英研究指純素食者患食道癌風險比肉食者高近1倍 腸癌風險亦高40%&nbsp;&nbsp;香港01大腸癌｜吃素增大腸癌風險？醫揭缺2營養最關鍵+正確吃法多吃堅果&nbsp;&nbsp;香港01",
       "sources": [
         {
@@ -172,6 +172,19 @@
         {
           "name": "鉅亨號",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4ZlZCMUd3RkZwcHNLV3lCYjFKS3RPY0NqQmxVN0FmNG52dVBlbHpINjV2ZmhOdUhVdFFlTEtZOFpDZVFpSFQxMw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "38e97a37191d",
+      "title": "周末精選｜全球麻疹疫情拉警報：日本病例暴增300% 美國世界盃恐成超級傳播場",
+      "published": "2026-05-31T02:20:00+00:00",
+      "summary": "周末精選｜全球麻疹疫情拉警報：日本病例暴增300% 美國世界盃恐成超級傳播場&nbsp;&nbsp;知新聞",
+      "sources": [
+        {
+          "name": "知新聞",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hWkFFUEFuX1ZSTENkZTh2dzY2NXlXd2JZR2NZVDc0OUVWNnhVWHE2R3doa3ZCVGFMc0pBbUJwanlUUjNtX0RDS055czVwUlJXekdnd2ZCMTBxVnlEdGEyVmRoS2dONGwwWlBBWlk1cw?oc=5"
         }
       ],
       "matched_keywords": []
