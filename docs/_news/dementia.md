@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智症（dementia） 相關新聞"
+title: "阿茲海默症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智症（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "阿茲海默症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智症（dementia） 相關新聞
+# 阿茲海默症（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
-<strong>失智症（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="阿茲海默症（dementia） 有什麼相關新聞？">
+<strong>阿茲海默症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,7 +29,15 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究](https://news.google.com/rss/articles/CBMiywJBVV95cUxPZjA3UHNCZV9Qc0lUTHF6SzNBMEdObDRoOUpTLUQwekUxMWt3LVh2emo3ajNQN3RpMzZORHBrQmNWU1Z1QXZ5MkFHUUlETmhPQnNNbVpNdkd0QnRHY2Mwak1xQ3A3eHpkUWh1OUR3MzZEVFpINGdMMWItTXZTM2tKZHkwaXNVUmh1d3FMaXgxV1BkVUJ4T1dNeTBSX0hwa19TSVV1TWpQN2dMV0c5ajNGaXFVbnVEWDItby1EX0EySEUxYkY3YWoxRmFTZGFrb3VWTzlDdl92SF9IWkRHVUtDT0l6QnRkTHlmMVVuTGZtZjUxblpxMVh1bkozVndaeFpYQko2akk2NzhHX20yTTJJZFRvbVhUOW5lZ3pHSlV5cWtqNmVTeVpMMEJLV3Q3RFA4dWxzZ3BXOVk1Q0FWMUtLYnRvelRhQm5lZUow?oc=5)
+
+2026-06-01
+
+來源：[行銷人](https://news.google.com/rss/articles/CBMiywJBVV95cUxPZjA3UHNCZV9Qc0lUTHF6SzNBMEdObDRoOUpTLUQwekUxMWt3LVh2emo3ajNQN3RpMzZORHBrQmNWU1Z1QXZ5MkFHUUlETmhPQnNNbVpNdkd0QnRHY2Mwak1xQ3A3eHpkUWh1OUR3MzZEVFpINGdMMWItTXZTM2tKZHkwaXNVUmh1d3FMaXgxV1BkVUJ4T1dNeTBSX0hwa19TSVV1TWpQN2dMV0c5ajNGaXFVbnVEWDItby1EX0EySEUxYkY3YWoxRmFTZGFrb3VWTzlDdl92SF9IWkRHVUtDT0l6QnRkTHlmMVVuTGZtZjUxblpxMVh1bkozVndaeFpYQko2akk2NzhHX20yTTJJZFRvbVhUOW5lZ3pHSlV5cWtqNmVTeVpMMEJLV3Q3RFA4dWxzZ3BXOVk1Q0FWMUtLYnRvelRhQm5lZUow?oc=5)
+
+---
 
 ### [上班族快看！最新研究曝「1種久坐」可預防失智症](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUMndfaWh4M1VXaFN2eEI2bmNFcWgxa0d1RXMtMkRCd1BXb3Z2enlJRUxhMWJQZjJRYUtOQmIyOVVVTU85bXgzTA?oc=5)
 

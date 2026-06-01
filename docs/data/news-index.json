@@ -1,7 +1,31 @@
 {
-  "generated": "2026-06-01T10:10:55.418236+00:00",
-  "count": 2,
+  "generated": "2026-06-01T16:32:26.979056+00:00",
+  "count": 3,
   "news": [
+    {
+      "id": "659b01b1eacb",
+      "title": "AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究",
+      "published": "2026-06-01T11:26:42+00:00",
+      "sources": [
+        {
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPZjA3UHNCZV9Qc0lUTHF6SzNBMEdObDRoOUpTLUQwekUxMWt3LVh2emo3ajNQN3RpMzZORHBrQmNWU1Z1QXZ5MkFHUUlETmhPQnNNbVpNdkd0QnRHY2Mwak1xQ3A3eHpkUWh1OUR3MzZEVFpINGdMMWItTXZTM2tKZHkwaXNVUmh1d3FMaXgxV1BkVUJ4T1dNeTBSX0hwa19TSVV1TWpQN2dMV0c5ajNGaXFVbnVEWDItby1EX0EySEUxYkY3YWoxRmFTZGFrb3VWTzlDdl92SF9IWkRHVUtDT0l6QnRkTHlmMVVuTGZtZjUxblpxMVh1bkozVndaeFpYQko2akk2NzhHX20yTTJJZFRvbVhUOW5lZ3pHSlV5cWtqNmVTeVpMMEJLV3Q3RFA4dWxzZ3BXOVk1Q0FWMUtLYnRvelRhQm5lZUow?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1fc3a5010af8",
       "title": "上班族快看！最新研究曝「1種久坐」可預防失智症",
@@ -38,27 +62,16 @@
       ]
     },
     {
-      "id": "6e9b13914cb9",
+      "id": "9339045d88a1",
       "title": "狂吃蔬果不會罹大腸癌？營養師曝「這國民點心」週吃2次能降風險",
-      "published": "2026-06-01T02:18:09+00:00",
+      "published": "2026-06-01T02:02:39+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxQYW5mcXRzVlNCLVJyVGdlcURtQmFaS2gyNjgzaGEtdWJrNTRRbVRPeWthZ1FXLU1ZVzF0WmR5ZmFDSVlIM1JLX1lPdWV3Y1lrS1NLVk1pcWxueW9xbFdleW1IT3FsTlhkZjJUa1FJQWxSX3A0Ui1wWDZMaEtwYnFlMDd6aFZoQnpCSXJoVXNFamViNmNTQ0ZhdnI2NW5EQUFVaERzMGxQVnQ2anBfenJCYTNvVVh4MlNfbF9aOHdFZ01pY1lPN0NHdTRZV1BmM2dUYl8yNWZHNUJubVE3YngxLUJDTTJ4OGF1aTMwNUdmXzRzWl95RTlPajlhRllwXzl3MTJDNmhpSE5GTkJmcjg4ZnBpbjBoc3czMXJwTUxDRFpUc1ZtVTBubzNkRXlpUUlhTXFJcnF5Wkdmb1NyZjltQWNIdUpUWmplXzBpV0FLQzRtUmp0TjNWc0FTSWI4RUlISVBxTTZqMElzbXdZclJtOU1YbFpXN1VZd05WQzRRdGx5MXV2N0NiZy12SEpDUUdL?oc=5"
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kSmp5VzdQb19UbXFpdUV3R0ZtQWRKbTN4R1BSeWc1bVBIYzAzcTUxczl3djNZZzIxdTJFR1RmbzZidHh4NHhfcFVFN09EMmZNTTcyNHZXRjItR1I0dlhkZ005ZlJvZ1hjVjhNZHJn?oc=5"
         }
       ],
       "keywords": [
-        {
-          "type": "indication",
-          "name": "食道癌",
-          "keyword": "食道癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "colonic neoplasm",

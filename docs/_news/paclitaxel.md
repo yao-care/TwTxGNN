@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [狂吃蔬果不會罹大腸癌？營養師曝「這國民點心」週吃2次能降風險](https://news.google.com/rss/articles/CBMikANBVV95cUxQYW5mcXRzVlNCLVJyVGdlcURtQmFaS2gyNjgzaGEtdWJrNTRRbVRPeWthZ1FXLU1ZVzF0WmR5ZmFDSVlIM1JLX1lPdWV3Y1lrS1NLVk1pcWxueW9xbFdleW1IT3FsTlhkZjJUa1FJQWxSX3A0Ui1wWDZMaEtwYnFlMDd6aFZoQnpCSXJoVXNFamViNmNTQ0ZhdnI2NW5EQUFVaERzMGxQVnQ2anBfenJCYTNvVVh4MlNfbF9aOHdFZ01pY1lPN0NHdTRZV1BmM2dUYl8yNWZHNUJubVE3YngxLUJDTTJ4OGF1aTMwNUdmXzRzWl95RTlPajlhRllwXzl3MTJDNmhpSE5GTkJmcjg4ZnBpbjBoc3czMXJwTUxDRFpUc1ZtVTBubzNkRXlpUUlhTXFJcnF5Wkdmb1NyZjltQWNIdUpUWmplXzBpV0FLQzRtUmp0TjNWc0FTSWI4RUlISVBxTTZqMElzbXdZclJtOU1YbFpXN1VZd05WQzRRdGx5MXV2N0NiZy12SEpDUUdL?oc=5)
-
-2026-06-01 <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMikANBVV95cUxQYW5mcXRzVlNCLVJyVGdlcURtQmFaS2gyNjgzaGEtdWJrNTRRbVRPeWthZ1FXLU1ZVzF0WmR5ZmFDSVlIM1JLX1lPdWV3Y1lrS1NLVk1pcWxueW9xbFdleW1IT3FsTlhkZjJUa1FJQWxSX3A0Ui1wWDZMaEtwYnFlMDd6aFZoQnpCSXJoVXNFamViNmNTQ0ZhdnI2NW5EQUFVaERzMGxQVnQ2anBfenJCYTNvVVh4MlNfbF9aOHdFZ01pY1lPN0NHdTRZV1BmM2dUYl8yNWZHNUJubVE3YngxLUJDTTJ4OGF1aTMwNUdmXzRzWl95RTlPajlhRllwXzl3MTJDNmhpSE5GTkJmcjg4ZnBpbjBoc3czMXJwTUxDRFpUc1ZtVTBubzNkRXlpUUlhTXFJcnF5Wkdmb1NyZjltQWNIdUpUWmplXzBpV0FLQzRtUmp0TjNWc0FTSWI4RUlISVBxTTZqMElzbXdZclJtOU1YbFpXN1VZd05WQzRRdGx5MXV2N0NiZy12SEpDUUdL?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

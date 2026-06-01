@@ -1,53 +1,17 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-01T10:10:51.982020+00:00",
-  "count": 9,
+  "fetched_at": "2026-06-01T16:32:22.133328+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "abb63c744d0b",
-      "title": "國中男生公費打HPV疫苗週年 接種率突破8成 - 中央社 CNA",
-      "published": "2026-06-01T06:44:00+00:00",
-      "summary": "國中男生公費打HPV疫苗週年 接種率突破8成&nbsp;&nbsp;中央社 CNA男女都要打HPV疫苗！國中男生公費接種首年破8成&nbsp;&nbsp;Yahoo新聞不只女生要打！國中男生HPV疫苗接種首年破8成&nbsp;&nbsp;Yahoo新聞防癌從校園開始 國中男生HPV疫苗接種率首年破八成&nbsp;&nbsp;Taiwan News未接種HPV疫苗 台大感染醫自曝「潔身自愛仍長疣」已自行剝除&nbsp;&nbsp;UDN",
+      "id": "659b01b1eacb",
+      "title": "AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究 - 行銷人",
+      "published": "2026-06-01T11:26:42+00:00",
+      "summary": "AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究&nbsp;&nbsp;行銷人",
       "sources": [
         {
-          "name": "中央社 CNA",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOUG9xSFotdnpUX0o2MXY3YWNKc2NvWWZuZzQ3YUFmOWEwallLMExCQnc2eld2bjNVeEtFZVFJdTB5WE5RWXhFamhRSENDRzlVcm93Q012aUo3R0Y2bDM0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bc5faeb3ca0f",
-      "title": "睡眠不足易罹癌規律作息可改善失眠| 生活 | 生活 - UDN",
-      "published": "2026-06-01T05:15:21+00:00",
-      "summary": "睡眠不足易罹癌規律作息可改善失眠| 生活 | 生活&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ka0F0SjJ6T0hsOVoxVnNTM1ZZVFBtdFV3OTFwMlhMQWNGemY4TnFpeEtlWk9mVVZWcDQxZjUtWk1MdkJVZFRqWW55VXNscDR4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6e9b13914cb9",
-      "title": "狂吃蔬果不會罹大腸癌？營養師曝「這國民點心」週吃2次能降風險 - Yahoo新聞",
-      "published": "2026-06-01T02:18:09+00:00",
-      "summary": "狂吃蔬果不會罹大腸癌？營養師曝「這國民點心」週吃2次能降風險&nbsp;&nbsp;Yahoo新聞研究：50歲以下大腸癌發生率上升 30多歲也可能中鏢&nbsp;&nbsp;自由健康網大腸癌年輕化不是沒原因 專家點名6種護腸食物與4大關鍵習慣&nbsp;&nbsp;元氣網英研究指純素食者患食道癌風險比肉食者高近1倍 腸癌風險亦高40%&nbsp;&nbsp;香港01大腸癌｜吃素增大腸癌風險？醫揭缺2營養最關鍵+正確吃法多吃堅果&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxQYW5mcXRzVlNCLVJyVGdlcURtQmFaS2gyNjgzaGEtdWJrNTRRbVRPeWthZ1FXLU1ZVzF0WmR5ZmFDSVlIM1JLX1lPdWV3Y1lrS1NLVk1pcWxueW9xbFdleW1IT3FsTlhkZjJUa1FJQWxSX3A0Ui1wWDZMaEtwYnFlMDd6aFZoQnpCSXJoVXNFamViNmNTQ0ZhdnI2NW5EQUFVaERzMGxQVnQ2anBfenJCYTNvVVh4MlNfbF9aOHdFZ01pY1lPN0NHdTRZV1BmM2dUYl8yNWZHNUJubVE3YngxLUJDTTJ4OGF1aTMwNUdmXzRzWl95RTlPajlhRllwXzl3MTJDNmhpSE5GTkJmcjg4ZnBpbjBoc3czMXJwTUxDRFpUc1ZtVTBubzNkRXlpUUlhTXFJcnF5Wkdmb1NyZjltQWNIdUpUWmplXzBpV0FLQzRtUmp0TjNWc0FTSWI4RUlISVBxTTZqMElzbXdZclJtOU1YbFpXN1VZd05WQzRRdGx5MXV2N0NiZy12SEpDUUdL?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2368eb7f96de",
-      "title": "蓮蓬頭竟是「細菌公寓」？選錯材質風險差一倍！細菌恐直達肺部，這5種人必看：3招清潔自保 - 幸福熟齡",
-      "published": "2026-06-01T01:22:00+00:00",
-      "summary": "蓮蓬頭竟是「細菌公寓」？選錯材質風險差一倍！細菌恐直達肺部，這5種人必看：3招清潔自保&nbsp;&nbsp;幸福熟齡",
-      "sources": [
-        {
-          "name": "幸福熟齡",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGdExTak1Kd1dUeVF6cmZxRUZvQ2VoVHpIeG9IQXJVeUt6UVFqc2lFZTB3U09FWVBBTExsc0I0X3B0UklUQXR6TVgtVWl3MThNeDRYby1kS190V2UzV3ZoNmtsMEMyOUVHOWxIRGRpS2tjRGdMNUNOT0Y5UQ?oc=5"
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPZjA3UHNCZV9Qc0lUTHF6SzNBMEdObDRoOUpTLUQwekUxMWt3LVh2emo3ajNQN3RpMzZORHBrQmNWU1Z1QXZ5MkFHUUlETmhPQnNNbVpNdkd0QnRHY2Mwak1xQ3A3eHpkUWh1OUR3MzZEVFpINGdMMWItTXZTM2tKZHkwaXNVUmh1d3FMaXgxV1BkVUJ4T1dNeTBSX0hwa19TSVV1TWpQN2dMV0c5ajNGaXFVbnVEWDItby1EX0EySEUxYkY3YWoxRmFTZGFrb3VWTzlDdl92SF9IWkRHVUtDT0l6QnRkTHlmMVVuTGZtZjUxblpxMVh1bkozVndaeFpYQko2akk2NzhHX20yTTJJZFRvbVhUOW5lZ3pHSlV5cWtqNmVTeVpMMEJLV3Q3RFA4dWxzZ3BXOVk1Q0FWMUtLYnRvelRhQm5lZUow?oc=5"
         }
       ]
     },
@@ -64,10 +28,22 @@
       ]
     },
     {
+      "id": "2368eb7f96de",
+      "title": "蓮蓬頭竟是「細菌公寓」？選錯材質風險差一倍！細菌恐直達肺部，這5種人必看：3招清潔自保 - 幸福熟齡",
+      "published": "2026-06-01T01:22:00+00:00",
+      "summary": "蓮蓬頭竟是「細菌公寓」？選錯材質風險差一倍！細菌恐直達肺部，這5種人必看：3招清潔自保&nbsp;&nbsp;幸福熟齡",
+      "sources": [
+        {
+          "name": "幸福熟齡",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGdExTak1Kd1dUeVF6cmZxRUZvQ2VoVHpIeG9IQXJVeUt6UVFqc2lFZTB3U09FWVBBTExsc0I0X3B0UklUQXR6TVgtVWl3MThNeDRYby1kS190V2UzV3ZoNmtsMEMyOUVHOWxIRGRpS2tjRGdMNUNOT0Y5UQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8387b9a6b1eb",
       "title": "健康主題館／代謝症候群無聲傷身 有逆轉黃金期 - UDN",
       "published": "2026-05-31T18:43:26+00:00",
-      "summary": "健康主題館／代謝症候群無聲傷身 有逆轉黃金期&nbsp;&nbsp;UDN肥胖別只看數字！醫曝「幾歲開始胖」是關鍵 死亡風險恐升高&nbsp;&nbsp;TVBS新聞網肥胖不只傷內臟！新 AI 身體描圖發現意外受損的神經部位&nbsp;&nbsp;TechNews 科技新報肥胖，不只是體重問題？您的身體正在悄悄改變嗎？&nbsp;&nbsp;careonline.com.tw都是體重過重，疾病風險卻不同：如何重新定義肥胖者的健康風險 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "summary": "健康主題館／代謝症候群無聲傷身 有逆轉黃金期&nbsp;&nbsp;UDN前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "UDN",
@@ -76,14 +52,14 @@
       ]
     },
     {
-      "id": "38e97a37191d",
-      "title": "周末精選｜全球麻疹疫情拉警報：日本病例暴增300% 美國世界盃恐成超級傳播場 - 知新聞",
-      "published": "2026-05-31T02:20:00+00:00",
-      "summary": "周末精選｜全球麻疹疫情拉警報：日本病例暴增300% 美國世界盃恐成超級傳播場&nbsp;&nbsp;知新聞",
+      "id": "9339045d88a1",
+      "title": "狂吃蔬果不會罹大腸癌？營養師曝「這國民點心」週吃2次能降風險 - 祝你健康",
+      "published": "2026-06-01T02:02:39+00:00",
+      "summary": "狂吃蔬果不會罹大腸癌？營養師曝「這國民點心」週吃2次能降風險&nbsp;&nbsp;祝你健康前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "知新聞",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hWkFFUEFuX1ZSTENkZTh2dzY2NXlXd2JZR2NZVDc0OUVWNnhVWHE2R3doa3ZCVGFMc0pBbUJwanlUUjNtX0RDS055czVwUlJXekdnd2ZCMTBxVnlEdGEyVmRoS2dONGwwWlBBWlk1cw?oc=5"
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kSmp5VzdQb19UbXFpdUV3R0ZtQWRKbTN4R1BSeWc1bVBIYzAzcTUxczl3djNZZzIxdTJFR1RmbzZidHh4NHhfcFVFN09EMmZNTTcyNHZXRjItR1I0dlhkZ005ZlJvZ1hjVjhNZHJn?oc=5"
         }
       ]
     },
