@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,37 +41,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（1 則）
 
-### [為何注重養生保健仍會認知退化？精神科名醫爆原因- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE5yd0VDMl96aUplSVNBN3U2eGx1ZlpSblZuVDNtdDN1a2hPY2lxREE4Rjg4Tm1rX18wc0U4dDViMW1ldmVrTG5wcDdveUZRbmJTX3RUOVhmUHlaLXB6NGUxRkc1Ry1oMTNUZXBaVjFB?oc=5)
+### [上班族快看！最新研究曝「1種久坐」可預防失智症](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUMndfaWh4M1VXaFN2eEI2bmNFcWgxa0d1RXMtMkRCd1BXb3Z2enlJRUxhMWJQZjJRYUtOQmIyOVVVTU85bXgzTA?oc=5)
 
-2026-05-31 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+2026-06-01 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5yd0VDMl96aUplSVNBN3U2eGx1ZlpSblZuVDNtdDN1a2hPY2lxREE4Rjg4Tm1rX18wc0U4dDViMW1ldmVrTG5wcDdveUZRbmJTX3RUOVhmUHlaLXB6NGUxRkc1Ry1oMTNUZXBaVjFB?oc=5)
-
----
-
-### [通霄一站式免費健檢 顧健康](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMGdTcGJLaHF3TFpFWTNFZTN5WThBd3hqcDhlbVpJOWRHQ21zc2ZfSHU2RXRqbXZXS0tmMUpyZVp0dDQ4d0ZHcnk2MnVJenlxME9VUG9lZ3NRRUFHX3lkZ2dPM0dMMEtUTV9lNjJ6WjJ4ejY5TlhkZjlTTndwcHQ0aV9wOHRXNm9PajdTVjF6T0M5R1hYR2JsSERlN1RRNmRKU1ljYi1HZWh2Q3BVeGFnNXpJUmRQcDRtWndkdVA0RXJkWmJicWRWNXgxUjFTSXBxUzhaTHFVblNxUQ?oc=5)
-
-2026-05-31 <span class="news-indication-tag">癌症</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMGdTcGJLaHF3TFpFWTNFZTN5WThBd3hqcDhlbVpJOWRHQ21zc2ZfSHU2RXRqbXZXS0tmMUpyZVp0dDQ4d0ZHcnk2MnVJenlxME9VUG9lZ3NRRUFHX3lkZ2dPM0dMMEtUTV9lNjJ6WjJ4ejY5TlhkZjlTTndwcHQ0aV9wOHRXNm9PajdTVjF6T0M5R1hYR2JsSERlN1RRNmRKU1ljYi1HZWh2Q3BVeGFnNXpJUmRQcDRtWndkdVA0RXJkWmJicWRWNXgxUjFTSXBxUzhaTHFVblNxUQ?oc=5)
-
----
-
-### [不是所有久坐都傷腦？研究發現：坐著做這些事可明顯降低風險](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ERmFYRnF1Z1p3SzE5a0xMbFF5SW9LcVlmbUQ0VGlUcjlHQ0FRWW1PRmJlR3hIaHQzM25HazlXUmRBTFBuYWt3amp6S2I2ZThjTGRVX1VJY0didXRXRlHSAWNBVV95cUxNcUJoYWhoX3FRVWRmYU5XazcteXdzckRoeVVXc0VUaWpvRC02Y29tdjhjNURsVFhqUG1NUHR5MmJ4Q0VjTGIzbGo2Z2VNMWpQM3BHdEctMERSRnpxSkZxX3YtZG8?oc=5)
-
-2026-05-31 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ERmFYRnF1Z1p3SzE5a0xMbFF5SW9LcVlmbUQ0VGlUcjlHQ0FRWW1PRmJlR3hIaHQzM25HazlXUmRBTFBuYWt3amp6S2I2ZThjTGRVX1VJY0didXRXRlHSAWNBVV95cUxNcUJoYWhoX3FRVWRmYU5XazcteXdzckRoeVVXc0VUaWpvRC02Y29tdjhjNURsVFhqUG1NUHR5MmJ4Q0VjTGIzbGo2Z2VNMWpQM3BHdEctMERSRnpxSkZxX3YtZG8?oc=5)
-
----
-
-### [香港癌症基金會專欄：「港兄弟•講檢查」關注男性癌症講座 – 應對策略-專欄- 明周文化 - Ming Pao Weekly](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRjRuM3FaaGRhUjFyNlZkR3d1TnMyazZ2YUZJVWIyRDJNXzBON0JWbGlEVHZNRnZRZk1OTkQxOTBCN3NzQ09TTWFsaHU1b0pKODhrTnk5QjhyVFdDd0h3RnpSUG00cEprS1puSUZ4N1Zoa1VVQUtnMG93YjJjcHdCbGNmOGgxeGNkbFZPXzNkZE1jcS1rNXdQOEliSW93Z2gzQmM1d2ZDOGxHVFNXcWNOdk55TEhUZVdqd01KdWt4ZzczNUl0UWdxRUFyMXhaRmpwcVZOdnBrbUQ?oc=5)
-
-2026-05-30 <span class="news-indication-tag">癌症</span>
-
-來源：[Ming Pao Weekly](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRjRuM3FaaGRhUjFyNlZkR3d1TnMyazZ2YUZJVWIyRDJNXzBON0JWbGlEVHZNRnZRZk1OTkQxOTBCN3NzQ09TTWFsaHU1b0pKODhrTnk5QjhyVFdDd0h3RnpSUG00cEprS1puSUZ4N1Zoa1VVQUtnMG93YjJjcHdCbGNmOGgxeGNkbFZPXzNkZE1jcS1rNXdQOEliSW93Z2gzQmM1d2ZDOGxHVFNXcWNOdk55TEhUZVdqd01KdWt4ZzczNUl0UWdxRUFyMXhaRmpwcVZOdnBrbUQ?oc=5)
+來源：[造咖](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUMndfaWh4M1VXaFN2eEI2bmNFcWgxa0d1RXMtMkRCd1BXb3Z2enlJRUxhMWJQZjJRYUtOQmIyOVVVTU85bXgzTA?oc=5)
 
 ---
 

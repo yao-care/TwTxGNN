@@ -1,15 +1,15 @@
 {
-  "generated": "2026-05-31T23:58:32.878343+00:00",
-  "count": 5,
+  "generated": "2026-06-01T04:07:59.466454+00:00",
+  "count": 2,
   "news": [
     {
-      "id": "965c22f5431d",
-      "title": "為何注重養生保健仍會認知退化？精神科名醫爆原因- 健康",
-      "published": "2026-05-31T12:50:07+00:00",
+      "id": "1fc3a5010af8",
+      "title": "上班族快看！最新研究曝「1種久坐」可預防失智症",
+      "published": "2026-06-01T03:38:00+00:00",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yd0VDMl96aUplSVNBN3U2eGx1ZlpSblZuVDNtdDN1a2hPY2lxREE4Rjg4Tm1rX18wc0U4dDViMW1ldmVrTG5wcDdveUZRbmJTX3RUOVhmUHlaLXB6NGUxRkc1Ry1oMTNUZXBaVjFB?oc=5"
+          "name": "造咖",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUMndfaWh4M1VXaFN2eEI2bmNFcWgxa0d1RXMtMkRCd1BXb3Z2enlJRUxhMWJQZjJRYUtOQmIyOVVVTU85bXgzTA?oc=5"
         }
       ],
       "keywords": [
@@ -38,411 +38,46 @@
       ]
     },
     {
-      "id": "bc6a6cb7c1ba",
-      "title": "通霄一站式免費健檢 顧健康",
-      "published": "2026-05-31T12:08:16+00:00",
+      "id": "6e9b13914cb9",
+      "title": "狂吃蔬果不會罹大腸癌？營養師曝「這國民點心」週吃2次能降風險",
+      "published": "2026-06-01T02:15:00+00:00",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMGdTcGJLaHF3TFpFWTNFZTN5WThBd3hqcDhlbVpJOWRHQ21zc2ZfSHU2RXRqbXZXS0tmMUpyZVp0dDQ4d0ZHcnk2MnVJenlxME9VUG9lZ3NRRUFHX3lkZ2dPM0dMMEtUTV9lNjJ6WjJ4ejY5TlhkZjlTTndwcHQ0aV9wOHRXNm9PajdTVjF6T0M5R1hYR2JsSERlN1RRNmRKU1ljYi1HZWh2Q3BVeGFnNXpJUmRQcDRtWndkdVA0RXJkWmJicWRWNXgxUjFTSXBxUzhaTHFVblNxUQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxQYW5mcXRzVlNCLVJyVGdlcURtQmFaS2gyNjgzaGEtdWJrNTRRbVRPeWthZ1FXLU1ZVzF0WmR5ZmFDSVlIM1JLX1lPdWV3Y1lrS1NLVk1pcWxueW9xbFdleW1IT3FsTlhkZjJUa1FJQWxSX3A0Ui1wWDZMaEtwYnFlMDd6aFZoQnpCSXJoVXNFamViNmNTQ0ZhdnI2NW5EQUFVaERzMGxQVnQ2anBfenJCYTNvVVh4MlNfbF9aOHdFZ01pY1lPN0NHdTRZV1BmM2dUYl8yNWZHNUJubVE3YngxLUJDTTJ4OGF1aTMwNUdmXzRzWl95RTlPajlhRllwXzl3MTJDNmhpSE5GTkJmcjg4ZnBpbjBoc3czMXJwTUxDRFpUc1ZtVTBubzNkRXlpUUlhTXFJcnF5Wkdmb1NyZjltQWNIdUpUWmplXzBpV0FLQzRtUmp0TjNWc0FTSWI4RUlISVBxTTZqMElzbXdZclJtOU1YbFpXN1VZd05WQzRRdGx5MXV2N0NiZy12SEpDUUdL?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
+          "name": "食道癌",
+          "keyword": "食道癌",
           "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4aa0a85a2894",
-      "title": "不是所有久坐都傷腦？研究發現：坐著做這些事可明顯降低風險",
-      "published": "2026-05-31T01:48:08+00:00",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ERmFYRnF1Z1p3SzE5a0xMbFF5SW9LcVlmbUQ0VGlUcjlHQ0FRWW1PRmJlR3hIaHQzM25HazlXUmRBTFBuYWt3amp6S2I2ZThjTGRVX1VJY0didXRXRlHSAWNBVV95cUxNcUJoYWhoX3FRVWRmYU5XazcteXdzckRoeVVXc0VUaWpvRC02Y29tdjhjNURsVFhqUG1NUHR5MmJ4Q0VjTGIzbGo2Z2VNMWpQM3BHdEctMERSRnpxSkZxX3YtZG8?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         },
         {
           "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
           "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0e22ddad6b37",
-      "title": "HPV疫苗問世20周年了 李秉穎：青少年男女都該接種",
-      "published": "2026-05-30T08:14:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55WmRVVDVEYnpUclJ4R3RLbS1JTXpGN2VhY3V3bzAzWFB3UlZBRjRwMU5zMFVLNWN1T251OVFIdmpLNkU5UV8wY1UtSnpabXg5TklVNmUyci1BTExzYzE2U2tBWXLSAWpBVV95cUxPOTE1cmIxUGVGZEpPUlh2dGQzTDFDc0daTWlfczN4UmNXTFl0eXRyUE5MeEE2M2dBQi1rT1ZXWlVMX2szWXFZUDMyTGgybzRKY3JsYV81VTJiUG9pQ1hkaUhyYWpDa0dDak9n?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5872f0f74d90",
-      "title": "香港癌症基金會專欄：「港兄弟•講檢查」關注男性癌症講座 – 應對策略-專欄- 明周文化 - Ming Pao Weekly",
-      "published": "2026-05-30T02:06:47+00:00",
-      "sources": [
-        {
-          "name": "Ming Pao Weekly",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRjRuM3FaaGRhUjFyNlZkR3d1TnMyazZ2YUZJVWIyRDJNXzBON0JWbGlEVHZNRnZRZk1OTkQxOTBCN3NzQ09TTWFsaHU1b0pKODhrTnk5QjhyVFdDd0h3RnpSUG00cEprS1puSUZ4N1Zoa1VVQUtnMG93YjJjcHdCbGNmOGgxeGNkbFZPXzNkZE1jcS1rNXdQOEliSW93Z2gzQmM1d2ZDOGxHVFNXcWNOdk55TEhUZVdqd01KdWt4ZzczNUl0UWdxRUFyMXhaRmpwcVZOdnBrbUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
             {
               "slug": "oteracil",
               "name": "Oteracil"
-            },
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
             {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
+              "slug": "oteracil",
+              "name": "Oteracil"
             },
             {
               "slug": "carboplatin",
@@ -453,60 +88,8 @@
               "name": "Gemcitabine"
             },
             {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
             }
           ]
         }
