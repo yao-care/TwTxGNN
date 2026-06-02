@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-01T22:56:31.172138+00:00",
-  "count": 6,
+  "fetched_at": "2026-06-02T00:09:14.127625+00:00",
+  "count": 7,
   "news": [
     {
       "id": "659b01b1eacb",
@@ -52,14 +52,26 @@
       ]
     },
     {
-      "id": "baa78fd4bfd0",
+      "id": "699a7607f625",
       "title": "橫跨醫療、生技、AI與半導體 威力先進引領全球健康科技新勢 - 台灣好新聞",
-      "published": "2026-06-01T02:30:33+00:00",
+      "published": "2026-06-01T02:58:47+00:00",
       "summary": "橫跨醫療、生技、AI與半導體 威力先進引領全球健康科技新勢&nbsp;&nbsp;台灣好新聞",
       "sources": [
         {
           "name": "台灣好新聞",
-          "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPMmFQQVR0WDA0M2E2R1NhNnVLdjkxSllKaFhaMWUydVlFN2Q2MnRfWFBOM2IxUW9xTGNES1B6QjZzdGFrekdzQ2lLTEUyaWhheTQwc0NUelFucUUwREJDdU9sZ2lyTl9YWWpxRDlJSUY3WkprR1c0YzltZ2lvZFJ0Mi1OMnpEa3VJTExsVkJKN2dKeGxrSW9ZY1pyaDBQR0FqX2N5b2Jhd1RZY2dUY3R2a1VTN1hGRHZZTFdsYTNCVXFzRFV2NTl5cGZqYzJPQ2VOUTlyZmZTdk5aZTM2VUN1bVV4dnlzMDFWdUNHaUp1M3Q5dS1SdmYyV3VUSFhBb2twNlJCWFVIYlpINUYxZjRPbVJOVWpkYTQ2R1hsLWxNY1pnTXJLZ3BaNTBHNC1Fd05uWFhmTGN3azFLanlKVFJOeGR5d1NwTGNaRWFoNThCb29Eb3FpeW5RWHRFTlh2cV8zblFLcllYTlZUMVdZc1RpY0pzVUJvcDI0ZXJ4NzBqbkJybkFFNi1j?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxPVlFKdC1XNjYyazF6SS1lcTdtLUw4R0RfelN5cC16RTdLYUJ4X3YtTVFZM2lqamlwaWZENlh6VXhqSTdRWTh5N2Rwd1pqSXU1MGpLaXNfXzdrUWYxM3RWRnRhZEhFNEY2ZTY3dzEyanFhWGRPWWxOMU1vSlVVcTZ6bm9rR2dEYkN6SUpzWWd1MHg1elhkWjhSaXhFeF96MlhMQklKODJxREJBSVlsaDJHRUt2YVAtXzFoZ1FreldUNEszbW9XVTRFNFdDQ2lyMVo2MEdsUFpoVzNBUlJzdXpyd3RMRDhsUDk0My00aDNsV2pqNlhSaTZoZm1DaVFBNm5OcWgyODAtMzBmamdoRWxSNS1qVkh0UTVwYVRRR1JhUTF0dzFaRFlUMGVSUEt2Z1RuaENWWmhlRTU4WElILS16MEcxWm43UEduMnByUzVqSlE5eTg1eHhkRER2bnBmbnRKRWpISWFGTFdmcDlVOURSeTNKRVhyM3VieUlNaEx1c0NrSWJFdVo1SzB6YW9MV0tyTEctMWk3UXByX25DdWFvNWVPSUhseVRCT2NsZGpPRmtfUF81SGlvWXNqa29sWE54V2c3WkVveVhRdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e517e1b98a16",
+      "title": "一有尿意即去廁所？ 醫生：恐訓練大腦發出錯誤訊號 教1 招抑制排尿衝動 - 巴士的報",
+      "published": "2026-06-01T23:00:23+00:00",
+      "summary": "一有尿意即去廁所？ 醫生：恐訓練大腦發出錯誤訊號 教1 招抑制排尿衝動&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOWVVUU2xvQURrSzh4WVNEOTlwQkwtVm1MWV8tUzIwbkM1UWtPMDRDVzQ2blh4YWk2ODA4VkNwMlJtQUE2YWVxeXVONFlxV2NyZXhMajNYdTI1Mk4xTmJCcF9ydXRYN1E4N3BiRjNnSFp3VkxpY3llM3lRNDNHRThxa015MHppQTRvdmdGRGpxRUZCODFsVXF1THhwX1FoN0hzZVlyOEZ4XzdDek02bnc2VXh1SlRadFItQkdEQVRoQTQxX0pKVjlsUEdrOFU3SVVVMm81VmprbldmYzJRdDNDSGh4eXk2bnliRWtvTjRheXJCYVRwSXQwcDJ2QndwVEFZQ012NS1iSU1JNWREcUhUcHlmSEJzRGNZaC1CN3Zxd0R3NDRVSjZBUDQxVHVCLXo5V0IzVUFvYXA1V19CVU9LZGk4N0RiSnIwNzRPNkM5WnNDWC1LOFAtdFVWNlhvNVllRkFtRnpWdVZIQzNuQTE0?oc=5"
         }
       ]
     },
