@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-02T10:05:47.850354+00:00",
-  "count": 6,
+  "generated": "2026-06-02T14:43:47.359023+00:00",
+  "count": 7,
   "news": [
     {
       "id": "2e1b76029030",
@@ -45,6 +45,41 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8c1b8b7045d7",
+      "title": "高膽固醇＋視力退化恐加速失智！最新研究揭「2大可逆風險」",
+      "published": "2026-06-02T01:51:34+00:00",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDTS1POWVUeW00STAzRVdmMkdkUWtBbkhickFFZU9jODh4SGtLSXNKZXdkX1B2TGFVNk9BdC1vWjdvR054cTc3X2dEMEl0c1MzMUJpRV9idkpOUk1LcXfSAWNBVV95cUxOaG5xZTBjd2IzVHMwUXQ3bzBLT0JuMDl3MHd1OWZ6N1QxTmViWmE5eUx3QUFQMWx4el9TNWYtb08wd1RjRFRxdzJzQ19aUEhyMlNuWFg0d2ZYbDNETEFrdktDY2M?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腦血管",
+          "keyword": "腦血管",
+          "related_drugs": [
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
             }
           ]
         }
