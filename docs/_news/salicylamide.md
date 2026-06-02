@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要](https://news.google.com/rss/articles/CBMi9wJBVV95cUxQX0VUVmN2OFRqVHJYWEhWSFBpQ3IyN1lvSTI1MUh1S3pzMmczQmtWVkhCa3VoMnJpZFd3VkJwb1B1MlpGaTJSUndlSFFnUG8yOTB5bHNBTE9Fdkc0MkwyN3Rrbl9OVW5pSkUwQ1AzMXlaUmhyOHVROE5lUUJYWXA3clFQSXExOWc4M2Fsb214bDFrMHhnYTgtQUd6MzZfSHNpNjluSmhNUG1ZR2VCSjA4T0hOYzFGX3VvTVhudHRRV1lFY3B2cUQ3RFVCdDdzRjVEX2JwbXJ2ZkxQaExfdVljYVFBWGlaQ050TmhhRm5oLW5LYnpxWjVRVWhDOUNLZjhjOEY1V3QwdVcwdUZtMERIQ29lM1c2MmpiMkdwOElzb3I1cm5hVWlRZlBFYVdfOVN4bmRQajlTLUVRempWcjg4a210WkZqMUZySWxoZnNEWEdaZnlOQVlSQWF2T3ptVmc1MUpYdFZHc1pBb1g5cVhoa3NoV2VqQmc?oc=5)
+### [感冒季狂補維生素C？醫解析：能減輕症狀、但無法預防](https://news.google.com/rss/articles/CBMi1AJBVV95cUxNMTR6MDJTN1VpdHlMVjRuY1lJNjAyak5YODNQZGs5b2NlS1pEeGNpam8yaC1PWF9rb2dYb0owY0l4ODZoQWxnS01aOGJnRGhEajl3cXdLZm4zcWFfVmphSzZ2bUsxMG80MDVTQ3N4S0dMc0dKbHpOYnNBSXlMc091OHlBeWJtTTZ3SFdacEhNOUx0czN0ejZILXdQSXY4aG1ETG5hWUtxcEpMMXhoRFphY3ZzY0xLRVRJSU9RVDJiaTd1OElPbVNGUUlEa1REel96dUNsa0FVemcyZkZuWENpaTQ1amw2Y3I1bFJ4NHJ3Ql9EN2RhTm91eHY0NUJ0b0lvcnM2QWRqYTRFSnlvYi1IZW1SQzc5aEY0cFMzVW9SRFZEYWRwT2NnSDRScDFlVWdNYVFpZkJPNmNWeHFEdEM1Y0hGRHRtRXR1ZkQ2TVZOWllSaDFl?oc=5)
 
-2026-06-01 <span class="news-indication-tag">感冒</span>
+2026-06-02 <span class="news-indication-tag">感冒</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi9wJBVV95cUxQX0VUVmN2OFRqVHJYWEhWSFBpQ3IyN1lvSTI1MUh1S3pzMmczQmtWVkhCa3VoMnJpZFd3VkJwb1B1MlpGaTJSUndlSFFnUG8yOTB5bHNBTE9Fdkc0MkwyN3Rrbl9OVW5pSkUwQ1AzMXlaUmhyOHVROE5lUUJYWXA3clFQSXExOWc4M2Fsb214bDFrMHhnYTgtQUd6MzZfSHNpNjluSmhNUG1ZR2VCSjA4T0hOYzFGX3VvTVhudHRRV1lFY3B2cUQ3RFVCdDdzRjVEX2JwbXJ2ZkxQaExfdVljYVFBWGlaQ050TmhhRm5oLW5LYnpxWjVRVWhDOUNLZjhjOEY1V3QwdVcwdUZtMERIQ29lM1c2MmpiMkdwOElzb3I1cm5hVWlRZlBFYVdfOVN4bmRQajlTLUVRempWcjg4a210WkZqMUZySWxoZnNEWEdaZnlOQVlSQWF2T3ptVmc1MUpYdFZHc1pBb1g5cVhoa3NoV2VqQmc?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi1AJBVV95cUxNMTR6MDJTN1VpdHlMVjRuY1lJNjAyak5YODNQZGs5b2NlS1pEeGNpam8yaC1PWF9rb2dYb0owY0l4ODZoQWxnS01aOGJnRGhEajl3cXdLZm4zcWFfVmphSzZ2bUsxMG80MDVTQ3N4S0dMc0dKbHpOYnNBSXlMc091OHlBeWJtTTZ3SFdacEhNOUx0czN0ejZILXdQSXY4aG1ETG5hWUtxcEpMMXhoRFphY3ZzY0xLRVRJSU9RVDJiaTd1OElPbVNGUUlEa1REel96dUNsa0FVemcyZkZuWENpaTQ1amw2Y3I1bFJ4NHJ3Ql9EN2RhTm91eHY0NUJ0b0lvcnM2QWRqYTRFSnlvYi1IZW1SQzc5aEY0cFMzVW9SRFZEYWRwT2NnSDRScDFlVWdNYVFpZkJPNmNWeHFEdEM1Y0hGRHRtRXR1ZkQ2TVZOWllSaDFl?oc=5)
+
+---
+
+### [吃維生素C防感冒？醫破迷思 但有1好處](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVm9nVWlTazdlQlhsbk9XNmVjcTlheElzcERITlE0cExFbzJ6YzExWUZRNlp3VnhrcUN2ZVdPTjNycTRabGVwQW0tWU5FeVYyYjh3OGVjRWM4aGtEd2FTWkNXRlBLUmdyZ3FOVDFUZEc0bHpJNEpiTGVmdE1Dc3BCbjI3TUxBTzl1RzRRdDhncw?oc=5)
+
+2026-06-02 <span class="news-indication-tag">感冒</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVm9nVWlTazdlQlhsbk9XNmVjcTlheElzcERITlE0cExFbzJ6YzExWUZRNlp3VnhrcUN2ZVdPTjNycTRabGVwQW0tWU5FeVYyYjh3OGVjRWM4aGtEd2FTWkNXRlBLUmdyZ3FOVDFUZEc0bHpJNEpiTGVmdE1Dc3BCbjI3TUxBTzl1RzRRdDhncw?oc=5)
 
 ---
 

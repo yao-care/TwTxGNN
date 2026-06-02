@@ -1,15 +1,15 @@
 {
-  "generated": "2026-06-02T05:23:39.089757+00:00",
-  "count": 4,
+  "generated": "2026-06-02T10:05:47.850354+00:00",
+  "count": 6,
   "news": [
     {
-      "id": "1f04655d9207",
-      "title": "多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要",
-      "published": "2026-06-01T23:15:08+00:00",
+      "id": "2e1b76029030",
+      "title": "感冒季狂補維生素C？醫解析：能減輕症狀、但無法預防",
+      "published": "2026-06-02T09:01:24+00:00",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQX0VUVmN2OFRqVHJYWEhWSFBpQ3IyN1lvSTI1MUh1S3pzMmczQmtWVkhCa3VoMnJpZFd3VkJwb1B1MlpGaTJSUndlSFFnUG8yOTB5bHNBTE9Fdkc0MkwyN3Rrbl9OVW5pSkUwQ1AzMXlaUmhyOHVROE5lUUJYWXA3clFQSXExOWc4M2Fsb214bDFrMHhnYTgtQUd6MzZfSHNpNjluSmhNUG1ZR2VCSjA4T0hOYzFGX3VvTVhudHRRV1lFY3B2cUQ3RFVCdDdzRjVEX2JwbXJ2ZkxQaExfdVljYVFBWGlaQ050TmhhRm5oLW5LYnpxWjVRVWhDOUNLZjhjOEY1V3QwdVcwdUZtMERIQ29lM1c2MmpiMkdwOElzb3I1cm5hVWlRZlBFYVdfOVN4bmRQajlTLUVRempWcjg4a210WkZqMUZySWxoZnNEWEdaZnlOQVlSQWF2T3ptVmc1MUpYdFZHc1pBb1g5cVhoa3NoV2VqQmc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNMTR6MDJTN1VpdHlMVjRuY1lJNjAyak5YODNQZGs5b2NlS1pEeGNpam8yaC1PWF9rb2dYb0owY0l4ODZoQWxnS01aOGJnRGhEajl3cXdLZm4zcWFfVmphSzZ2bUsxMG80MDVTQ3N4S0dMc0dKbHpOYnNBSXlMc091OHlBeWJtTTZ3SFdacEhNOUx0czN0ejZILXdQSXY4aG1ETG5hWUtxcEpMMXhoRFphY3ZzY0xLRVRJSU9RVDJiaTd1OElPbVNGUUlEa1REel96dUNsa0FVemcyZkZuWENpaTQ1amw2Y3I1bFJ4NHJ3Ql9EN2RhTm91eHY0NUJ0b0lvcnM2QWRqYTRFSnlvYi1IZW1SQzc5aEY0cFMzVW9SRFZEYWRwT2NnSDRScDFlVWdNYVFpZkJPNmNWeHFEdEM1Y0hGRHRtRXR1ZkQ2TVZOWllSaDFl?oc=5"
         }
       ],
       "keywords": [
@@ -27,13 +27,102 @@
       ]
     },
     {
-      "id": "6225040e2bd7",
+      "id": "a53a23bcc7f1",
+      "title": "吃維生素C防感冒？醫破迷思 但有1好處",
+      "published": "2026-06-02T03:14:28+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVm9nVWlTazdlQlhsbk9XNmVjcTlheElzcERITlE0cExFbzJ6YzExWUZRNlp3VnhrcUN2ZVdPTjNycTRabGVwQW0tWU5FeVYyYjh3OGVjRWM4aGtEd2FTWkNXRlBLUmdyZ3FOVDFUZEc0bHpJNEpiTGVmdE1Dc3BCbjI3TUxBTzl1RzRRdDhncw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "27d396ced250",
+      "title": "過量防腐劑恐導致高血壓！研究點名「4大地雷食物」 蔬菜、麵包都上榜",
+      "published": "2026-06-01T12:13:50+00:00",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE51VkZkV1dYeDhoWUhQU0RROTFIWjZPazNJcnJwZW9wcU5RdjJMR3FtTmt0RjBQb25YajR0eFJLT29xSzlwZzJMYjlQZFA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b28fb8042e6d",
       "title": "AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究",
       "published": "2026-06-01T10:47:00+00:00",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPTEVOaWdlMU5YVEdHbm5NWFlCazVzU1NFUW1LR0hQeFBTMWpxRzdOaTRuTm1meFR6eHJTREJIRVd0Mno2cmxDV0hJa2cyRTg4TmZqVmc2bXhQcHJUcXJDUzU3aUxVVWhjNWZNVFdNaGxnNE9nbnE5VTJiZHhzYzk3LXd3T05xWGgyRHA2YnkzbUJzN0UxY1Q5cEQ4SFpWeTN5Mk15S1lsNnN4MW1RWEtFRW1hdUNxRDFiMzlUVUJKT1dLcVpHYmdLaEtDSkFmd21DdUpOenRwR2FCZnNKdURTMTUySHB3MGp3anRtZFJVbjd1b0VPRVdWWkFzei1Md3MwR1g5TmpLSzNTbXNCUFlkR3FhUE5LS0dPUnVabWpNNVJuWmlsVTlxbFVTTTlxQjA?oc=5"
+          "name": "Yahoo股市",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNbXM2am5qRGgzemhROWsxcHNaa3d4WE1hM1NMQ0hFX3VHZFp6QjFxbkZLYWxieEdSTUN4RkJxRTVkMDBMTjJndUJBQ2RjVnZ2RGgyZVlhTGx6RmFxdFVNUGlEc3FoNGpNS2ROeHk1aXpGcWZvRmJOWjBhdzVpMGtmendyel9UV3EtaVF6YUhrQTM1LUdYc3Zxb3U4SjlIVWtIODdQQnFnc2VFbzhSZmgzVWF6Y0tnUDlucDVkM1hQQ3pJUGdtUzd5Y3hsaUFYelFPVW96UFUzZy14UDVVRTl1OVlDVHEwRFJrajQtaVRXVGJsVmtXM3pYX09jdFVBZFM1TU9lRGVhVkFrRlFzZ0lTbmM4d2FnT2xGQmpPRjRKU0NycnRsOFlxM3ZveU1yN0FCUkJfYlBoOTZ6QmxSNjJuR2Fjcm9Pd1U?oc=5"
         }
       ],
       "keywords": [
