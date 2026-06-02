@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-02T14:43:47.359023+00:00",
-  "count": 7,
+  "generated": "2026-06-02T18:32:52.166439+00:00",
+  "count": 8,
   "news": [
     {
       "id": "2e1b76029030",
@@ -53,7 +53,7 @@
     {
       "id": "8c1b8b7045d7",
       "title": "高膽固醇＋視力退化恐加速失智！最新研究揭「2大可逆風險」",
-      "published": "2026-06-02T01:51:34+00:00",
+      "published": "2026-06-01T15:50:52+00:00",
       "sources": [
         {
           "name": "元氣網",
@@ -251,6 +251,42 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8d2f04bf5b0c",
+      "title": "45歲後身材失控不是你的錯 營養師揭4關鍵：吃越少內臟脂肪囤越多",
+      "published": "2026-05-30T07:30:00+00:00",
+      "sources": [
+        {
+          "name": "ETtoday新聞雲",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RR3l2V2JWRlJzR09wSkF0bGdJZWhmN1hjT1JJdmZxOVdOcW9TUXVKNWJWdHdGOWk2YWtqbDA0NjBQNzBldUp5ZXRkcWpleUxiUVE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
             }
           ]
         }

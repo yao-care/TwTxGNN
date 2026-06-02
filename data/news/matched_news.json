@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-06-02T14:43:47.324968+00:00",
-  "total_count": 21,
-  "matched_count": 7,
+  "last_updated": "2026-06-02T18:32:52.138538+00:00",
+  "total_count": 22,
+  "matched_count": 8,
   "news": [
+    {
+      "id": "36df6882b5c5",
+      "title": "婚姻有益健康？專家：關鍵在於關係品質",
+      "published": "2026-06-02T18:10:19+00:00",
+      "summary": "婚姻有益健康？專家：關鍵在於關係品質&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTGxjWGRFTnR4UWxTamZCVWpkcWJwOG01YVFXd25qU2M4YkdCWXVpaEczWFNvdEsyZktwZ3VaVTJBTVdQNmRsN1RjZ2UtM2lBU1FpT0preEdyOGxDOHNpT0h3SnY2ZUtyZTNSWVg1aWRlMVFBRlpyaGhnMHVmb0NXd3dldU5nd1Rpdm1FTTROTm85MnJpYXI2NFk1bjRrQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "71dd43ce46d5",
       "title": "SK生物科學首獲聯合國兒童基金會流感疫苗供應合約 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
@@ -63,19 +76,6 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fX2Y1VGFKZkZNZGN5T1dwSU5LbE14ZjlCMUpHTGlPekJZUnF0QXVEdExmNTVlUUNXNnVyYWJySG5LbEVJTUJfcTBfYWhqUXJRUkM5WHRRQUwxU2VxYm4zYzJsbUJyMFptNVRKQXBB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e1382497de1b",
-      "title": "美國蜱蟲叮咬病例創近十年新高 專家警告：萊姆病與致命腦炎風險同步擴大 - Taiwan News",
-      "published": "2026-06-02T06:14:00+00:00",
-      "summary": "美國蜱蟲叮咬病例創近十年新高 專家警告：萊姆病與致命腦炎風險同步擴大&nbsp;&nbsp;Taiwan News",
-      "sources": [
-        {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8taE5FdXM4eWpmWV84RHdpQmRUNm1tS2xhRTRvencyWnVwcFdDZ3JVOXdrMjZJeUYxMjVudWFaT2ViZTJEV25SeTBiQmREajBYcVNxN2VHZEo?oc=5"
         }
       ],
       "matched_keywords": []
@@ -145,9 +145,35 @@
       "matched_keywords": []
     },
     {
+      "id": "755f2a38dc5f",
+      "title": "焦慮與飲食有關嗎？大腦的「膽鹼」濃度可能是關鍵 - TechNews 科技新報",
+      "published": "2026-06-01T23:47:55+00:00",
+      "summary": "焦慮與飲食有關嗎？大腦的「膽鹼」濃度可能是關鍵&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OQ0piUWdkV2VQZVdpRjBxYjY2TU5wbEtYVHBXaE05TndsSlFiWXlNYmp6ZS1QTDZyRUZFd2RnYzhScXJObjFfNnRlRWYzQTdOdXcyWjdyMnBndzE3aUtsb0JNQS1fWTg5MWN4dFlMZ2swTWVUeWlocQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "76e59d995f79",
+      "title": "一有尿意即去廁所？ 醫生：恐訓練大腦發出錯誤訊號 教1 招抑制排尿衝動",
+      "published": "2026-06-01T23:00:23+00:00",
+      "summary": "一有尿意即去廁所？ 醫生：恐訓練大腦發出錯誤訊號 教1 招抑制排尿衝動&nbsp;&nbsp;bastillepost.com",
+      "sources": [
+        {
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOWVVUU2xvQURrSzh4WVNEOTlwQkwtVm1MWV8tUzIwbkM1UWtPMDRDVzQ2blh4YWk2ODA4VkNwMlJtQUE2YWVxeXVONFlxV2NyZXhMajNYdTI1Mk4xTmJCcF9ydXRYN1E4N3BiRjNnSFp3VkxpY3llM3lRNDNHRThxa015MHppQTRvdmdGRGpxRUZCODFsVXF1THhwX1FoN0hzZVlyOEZ4XzdDek02bnc2VXh1SlRadFItQkdEQVRoQTQxX0pKVjlsUEdrOFU3SVVVMm81VmprbldmYzJRdDNDSGh4eXk2bnliRWtvTjRheXJCYVRwSXQwcDJ2QndwVEFZQ012NS1iSU1JNWREcUhUcHlmSEJzRGNZaC1CN3Zxd0R3NDRVSjZBUDQxVHVCLXo5V0IzVUFvYXA1V19CVU9LZGk4N0RiSnIwNzRPNkM5WnNDWC1LOFAtdFVWNlhvNVllRkFtRnpWdVZIQzNuQTE0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "8c1b8b7045d7",
       "title": "高膽固醇＋視力退化恐加速失智！最新研究揭「2大可逆風險」",
-      "published": "2026-06-02T01:51:34+00:00",
+      "published": "2026-06-01T15:50:52+00:00",
       "summary": "高膽固醇＋視力退化恐加速失智！最新研究揭「2大可逆風險」&nbsp;&nbsp;元氣網「4大疾病」最易誘發失智！腦血管無聲被毀 醫：糖尿病也上榜&nbsp;&nbsp;ETtoday新聞雲",
       "sources": [
         {
@@ -179,32 +205,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "755f2a38dc5f",
-      "title": "焦慮與飲食有關嗎？大腦的「膽鹼」濃度可能是關鍵 - TechNews 科技新報",
-      "published": "2026-06-01T23:47:55+00:00",
-      "summary": "焦慮與飲食有關嗎？大腦的「膽鹼」濃度可能是關鍵&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OQ0piUWdkV2VQZVdpRjBxYjY2TU5wbEtYVHBXaE05TndsSlFiWXlNYmp6ZS1QTDZyRUZFd2RnYzhScXJObjFfNnRlRWYzQTdOdXcyWjdyMnBndzE3aUtsb0JNQS1fWTg5MWN4dFlMZ2swTWVUeWlocQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "76e59d995f79",
-      "title": "一有尿意即去廁所？ 醫生：恐訓練大腦發出錯誤訊號 教1 招抑制排尿衝動",
-      "published": "2026-06-01T23:00:23+00:00",
-      "summary": "一有尿意即去廁所？ 醫生：恐訓練大腦發出錯誤訊號 教1 招抑制排尿衝動&nbsp;&nbsp;bastillepost.com",
-      "sources": [
-        {
-          "name": "bastillepost.com",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOWVVUU2xvQURrSzh4WVNEOTlwQkwtVm1MWV8tUzIwbkM1UWtPMDRDVzQ2blh4YWk2ODA4VkNwMlJtQUE2YWVxeXVONFlxV2NyZXhMajNYdTI1Mk4xTmJCcF9ydXRYN1E4N3BiRjNnSFp3VkxpY3llM3lRNDNHRThxa015MHppQTRvdmdGRGpxRUZCODFsVXF1THhwX1FoN0hzZVlyOEZ4XzdDek02bnc2VXh1SlRadFItQkdEQVRoQTQxX0pKVjlsUEdrOFU3SVVVMm81VmprbldmYzJRdDNDSGh4eXk2bnliRWtvTjRheXJCYVRwSXQwcDJ2QndwVEFZQ012NS1iSU1JNWREcUhUcHlmSEJzRGNZaC1CN3Zxd0R3NDRVSjZBUDQxVHVCLXo5V0IzVUFvYXA1V19CVU9LZGk4N0RiSnIwNzRPNkM5WnNDWC1LOFAtdFVWNlhvNVllRkFtRnpWdVZIQzNuQTE0?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "9bb580a3178d",
@@ -432,6 +432,43 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "8d2f04bf5b0c",
+      "title": "45歲後身材失控不是你的錯 營養師揭4關鍵：吃越少內臟脂肪囤越多",
+      "published": "2026-05-30T07:30:00+00:00",
+      "summary": "45歲後身材失控不是你的錯 營養師揭4關鍵：吃越少內臟脂肪囤越多&nbsp;&nbsp;ETtoday新聞雲25歲就開始「雌激素崩盤」！上班族每天吃的東西竟是元凶&nbsp;&nbsp;中天新聞網更年期「4大魔王」曝！專家示警：1症狀常被忽略 小心咖啡也是雷&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網更年期不只是荷爾蒙變化：日常代謝與生活管理逐漸受到關注&nbsp;&nbsp;蕃新聞熱潮紅要吃什麼？營養師揭更年期燥熱、盜汗飲食調整重點&nbsp;&nbsp;四季線上4gTV",
+      "sources": [
+        {
+          "name": "ETtoday新聞雲",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RR3l2V2JWRlJzR09wSkF0bGdJZWhmN1hjT1JJdmZxOVdOcW9TUXVKNWJWdHdGOWk2YWtqbDA0NjBQNzBldUp5ZXRkcWpleUxiUVE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "554d4b56a4a9",
