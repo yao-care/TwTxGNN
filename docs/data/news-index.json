@@ -1,15 +1,39 @@
 {
-  "generated": "2026-06-02T00:09:18.037627+00:00",
-  "count": 3,
+  "generated": "2026-06-02T05:23:39.089757+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "659b01b1eacb",
-      "title": "AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究",
-      "published": "2026-06-01T11:26:42+00:00",
+      "id": "1f04655d9207",
+      "title": "多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要",
+      "published": "2026-06-01T23:15:08+00:00",
       "sources": [
         {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPZjA3UHNCZV9Qc0lUTHF6SzNBMEdObDRoOUpTLUQwekUxMWt3LVh2emo3ajNQN3RpMzZORHBrQmNWU1Z1QXZ5MkFHUUlETmhPQnNNbVpNdkd0QnRHY2Mwak1xQ3A3eHpkUWh1OUR3MzZEVFpINGdMMWItTXZTM2tKZHkwaXNVUmh1d3FMaXgxV1BkVUJ4T1dNeTBSX0hwa19TSVV1TWpQN2dMV0c5ajNGaXFVbnVEWDItby1EX0EySEUxYkY3YWoxRmFTZGFrb3VWTzlDdl92SF9IWkRHVUtDT0l6QnRkTHlmMVVuTGZtZjUxblpxMVh1bkozVndaeFpYQko2akk2NzhHX20yTTJJZFRvbVhUOW5lZ3pHSlV5cWtqNmVTeVpMMEJLV3Q3RFA4dWxzZ3BXOVk1Q0FWMUtLYnRvelRhQm5lZUow?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQX0VUVmN2OFRqVHJYWEhWSFBpQ3IyN1lvSTI1MUh1S3pzMmczQmtWVkhCa3VoMnJpZFd3VkJwb1B1MlpGaTJSUndlSFFnUG8yOTB5bHNBTE9Fdkc0MkwyN3Rrbl9OVW5pSkUwQ1AzMXlaUmhyOHVROE5lUUJYWXA3clFQSXExOWc4M2Fsb214bDFrMHhnYTgtQUd6MzZfSHNpNjluSmhNUG1ZR2VCSjA4T0hOYzFGX3VvTVhudHRRV1lFY3B2cUQ3RFVCdDdzRjVEX2JwbXJ2ZkxQaExfdVljYVFBWGlaQ050TmhhRm5oLW5LYnpxWjVRVWhDOUNLZjhjOEY1V3QwdVcwdUZtMERIQ29lM1c2MmpiMkdwOElzb3I1cm5hVWlRZlBFYVdfOVN4bmRQajlTLUVRempWcjg4a210WkZqMUZySWxoZnNEWEdaZnlOQVlSQWF2T3ptVmc1MUpYdFZHc1pBb1g5cVhoa3NoV2VqQmc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6225040e2bd7",
+      "title": "AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究",
+      "published": "2026-06-01T10:47:00+00:00",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPTEVOaWdlMU5YVEdHbm5NWFlCazVzU1NFUW1LR0hQeFBTMWpxRzdOaTRuTm1meFR6eHJTREJIRVd0Mno2cmxDV0hJa2cyRTg4TmZqVmc2bXhQcHJUcXJDUzU3aUxVVWhjNWZNVFdNaGxnNE9nbnE5VTJiZHhzYzk3LXd3T05xWGgyRHA2YnkzbUJzN0UxY1Q5cEQ4SFpWeTN5Mk15S1lsNnN4MW1RWEtFRW1hdUNxRDFiMzlUVUJKT1dLcVpHYmdLaEtDSkFmd21DdUpOenRwR2FCZnNKdURTMTUySHB3MGp3anRtZFJVbjd1b0VPRVdWWkFzei1Md3MwR1g5TmpLSzNTbXNCUFlkR3FhUE5LS0dPUnVabWpNNVJuWmlsVTlxbFVTTTlxQjA?oc=5"
         }
       ],
       "keywords": [

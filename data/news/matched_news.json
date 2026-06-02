@@ -1,8 +1,59 @@
 {
-  "last_updated": "2026-06-02T00:09:18.009806+00:00",
-  "total_count": 8,
-  "matched_count": 3,
+  "last_updated": "2026-06-02T05:23:39.068041+00:00",
+  "total_count": 13,
+  "matched_count": 4,
   "news": [
+    {
+      "id": "977efb3c945c",
+      "title": "佩圖思跨足代謝肝病領域，創新免疫療法登 EASL 受關注 - GeneOnline News",
+      "published": "2026-06-02T03:36:50+00:00",
+      "summary": "佩圖思跨足代謝肝病領域，創新免疫療法登 EASL 受關注&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdUQwemRWbWtlWmx4RmVEX21KMVVVenBVMklsMm9WV2FSaG5hY1B6dV9JWENIQnpBSVlLRnZBLWZuMEI4MnB1M1l3TDVua2ZrOUI4T3A2QVkxbDAza25MMG00N0drSnJjLWdGSkdUQzJGdGdVWnBvMm9UdXFkZXlocV9wMXM4X0xnMDRNdXBEX0pSSFFWVHB1MTdJLTNGdk9iZ01kZG5icw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f67a203c4883",
+      "title": "谷歌想放飛3200萬隻蚊子 對抗登革熱",
+      "published": "2026-06-02T03:03:37+00:00",
+      "summary": "谷歌想放飛3200萬隻蚊子 對抗登革熱&nbsp;&nbsp;中國評論新聞Google要放「3200萬隻蚊子」超狂目的曝光 居民怕爆：別在我家後院實驗&nbsp;&nbsp;Yahoo新聞Google擬野放3200萬隻蚊子 「科技debug」對抗登革熱&nbsp;&nbsp;ETtoday新聞雲討論牆 | Google要放「3200萬隻蚊子」超狂目的曝光 居民怕爆：別在我家後院實驗&nbsp;&nbsp;LINE TODAY對抗登革熱與茲卡病毒 Google擬釋放3200萬隻「絕育蚊」&nbsp;&nbsp;Taiwan News",
+      "sources": [
+        {
+          "name": "中國評論新聞",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HWVNZRnpjTmxvZmpWcUtDYkNrdFUzNGRpOV9lbmtxeWotbktUOW5zRlpyU0JlMlRnVkJSU3lTMGxIYzRtOU5JLTdJSFhJSlg4cC15aDNtWXFhNXVfYTd6bFhldHp3Rjg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1f04655d9207",
+      "title": "多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要",
+      "published": "2026-06-01T23:15:08+00:00",
+      "summary": "多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQX0VUVmN2OFRqVHJYWEhWSFBpQ3IyN1lvSTI1MUh1S3pzMmczQmtWVkhCa3VoMnJpZFd3VkJwb1B1MlpGaTJSUndlSFFnUG8yOTB5bHNBTE9Fdkc0MkwyN3Rrbl9OVW5pSkUwQ1AzMXlaUmhyOHVROE5lUUJYWXA3clFQSXExOWc4M2Fsb214bDFrMHhnYTgtQUd6MzZfSHNpNjluSmhNUG1ZR2VCSjA4T0hOYzFGX3VvTVhudHRRV1lFY3B2cUQ3RFVCdDdzRjVEX2JwbXJ2ZkxQaExfdVljYVFBWGlaQ050TmhhRm5oLW5LYnpxWjVRVWhDOUNLZjhjOEY1V3QwdVcwdUZtMERIQ29lM1c2MmpiMkdwOElzb3I1cm5hVWlRZlBFYVdfOVN4bmRQajlTLUVRempWcjg4a210WkZqMUZySWxoZnNEWEdaZnlOQVlSQWF2T3ptVmc1MUpYdFZHc1pBb1g5cVhoa3NoV2VqQmc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "e517e1b98a16",
       "title": "一有尿意即去廁所？ 醫生：恐訓練大腦發出錯誤訊號 教1 招抑制排尿衝動",
@@ -17,14 +68,27 @@
       "matched_keywords": []
     },
     {
-      "id": "659b01b1eacb",
-      "title": "AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究",
-      "published": "2026-06-01T11:26:42+00:00",
-      "summary": "AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究&nbsp;&nbsp;行銷人",
+      "id": "9bb580a3178d",
+      "title": "衛生局與澳門執業西醫公會合辦乙肝及愛滋病快速測試工作坊 致力提升本澳醫生專業技術及社區篩檢能力",
+      "published": "2026-06-01T12:32:19+00:00",
+      "summary": "衛生局與澳門執業西醫公會合辦乙肝及愛滋病快速測試工作坊 致力提升本澳醫生專業技術及社區篩檢能力&nbsp;&nbsp;濠江日報",
       "sources": [
         {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPZjA3UHNCZV9Qc0lUTHF6SzNBMEdObDRoOUpTLUQwekUxMWt3LVh2emo3ajNQN3RpMzZORHBrQmNWU1Z1QXZ5MkFHUUlETmhPQnNNbVpNdkd0QnRHY2Mwak1xQ3A3eHpkUWh1OUR3MzZEVFpINGdMMWItTXZTM2tKZHkwaXNVUmh1d3FMaXgxV1BkVUJ4T1dNeTBSX0hwa19TSVV1TWpQN2dMV0c5ajNGaXFVbnVEWDItby1EX0EySEUxYkY3YWoxRmFTZGFrb3VWTzlDdl92SF9IWkRHVUtDT0l6QnRkTHlmMVVuTGZtZjUxblpxMVh1bkozVndaeFpYQko2akk2NzhHX20yTTJJZFRvbVhUOW5lZ3pHSlV5cWtqNmVTeVpMMEJLV3Q3RFA4dWxzZ3BXOVk1Q0FWMUtLYnRvelRhQm5lZUow?oc=5"
+          "name": "濠江日報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZdTBSSlV2WUFVQmtyTC1kVjlqSGV3WDc2UTJYYVptUUQ0cFR0MjhBSzAtRDE3cGh0c1RxOHEtZTluQXVHRUdpY0J2R2dBUFpabHFFOU5wUFZBTzc2NFliNw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6225040e2bd7",
+      "title": "AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究",
+      "published": "2026-06-01T10:47:00+00:00",
+      "summary": "AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPTEVOaWdlMU5YVEdHbm5NWFlCazVzU1NFUW1LR0hQeFBTMWpxRzdOaTRuTm1meFR6eHJTREJIRVd0Mno2cmxDV0hJa2cyRTg4TmZqVmc2bXhQcHJUcXJDUzU3aUxVVWhjNWZNVFdNaGxnNE9nbnE5VTJiZHhzYzk3LXd3T05xWGgyRHA2YnkzbUJzN0UxY1Q5cEQ4SFpWeTN5Mk15S1lsNnN4MW1RWEtFRW1hdUNxRDFiMzlUVUJKT1dLcVpHYmdLaEtDSkFmd21DdUpOenRwR2FCZnNKdURTMTUySHB3MGp3anRtZFJVbjd1b0VPRVdWWkFzei1Md3MwR1g5TmpLSzNTbXNCUFlkR3FhUE5LS0dPUnVabWpNNVJuWmlsVTlxbFVTTTlxQjA?oc=5"
         }
       ],
       "matched_keywords": [
@@ -147,6 +211,19 @@
         {
           "name": "幸福熟齡",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGdExTak1Kd1dUeVF6cmZxRUZvQ2VoVHpIeG9IQXJVeUt6UVFqc2lFZTB3U09FWVBBTExsc0I0X3B0UklUQXR6TVgtVWl3MThNeDRYby1kS190V2UzV3ZoNmtsMEMyOUVHOWxIRGRpS2tjRGdMNUNOT0Y5UQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1b996f40628d",
+      "title": "通霄地區免費健康篩檢活動 感謝醫療團隊",
+      "published": "2026-06-01T01:01:00+00:00",
+      "summary": "通霄地區免費健康篩檢活動 感謝醫療團隊&nbsp;&nbsp;TCnews慈善新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "TCnews慈善新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJdDBRWmt3anFlVlI5cFhHOVdZNkQ4YU1kMlQxZVZ4bUNtWWM2R09IalpvbHVsbDZOWEFPUGdwWmlxem5ZdEV6X1paOHdUZFRTbkUyYnVzTUR3eGUtT0FB?oc=5"
         }
       ],
       "matched_keywords": []

@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/salicylamide/
 <li>nasal cavity disease（100.0%）</li>
 <li>acute laryngopharyngitis（100.0%）</li>
 <li>trigeminal autonomic cephalalgia（99.9%）</li>
-<li>common cold（99.9%）</li>
+<li class="indication-matched">common cold（99.9%）<span class="indication-tag">📰 感冒</span></li>
 <li>allergic urticaria（99.7%）</li>
 <li>lung disease（99.6%）</li>
 <li>massive neonatal aspiration syndrome（99.6%）</li>
@@ -42,9 +42,15 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要](https://news.google.com/rss/articles/CBMi9wJBVV95cUxQX0VUVmN2OFRqVHJYWEhWSFBpQ3IyN1lvSTI1MUh1S3pzMmczQmtWVkhCa3VoMnJpZFd3VkJwb1B1MlpGaTJSUndlSFFnUG8yOTB5bHNBTE9Fdkc0MkwyN3Rrbl9OVW5pSkUwQ1AzMXlaUmhyOHVROE5lUUJYWXA3clFQSXExOWc4M2Fsb214bDFrMHhnYTgtQUd6MzZfSHNpNjluSmhNUG1ZR2VCSjA4T0hOYzFGX3VvTVhudHRRV1lFY3B2cUQ3RFVCdDdzRjVEX2JwbXJ2ZkxQaExfdVljYVFBWGlaQ050TmhhRm5oLW5LYnpxWjVRVWhDOUNLZjhjOEY1V3QwdVcwdUZtMERIQ29lM1c2MmpiMkdwOElzb3I1cm5hVWlRZlBFYVdfOVN4bmRQajlTLUVRempWcjg4a210WkZqMUZySWxoZnNEWEdaZnlOQVlSQWF2T3ptVmc1MUpYdFZHc1pBb1g5cVhoa3NoV2VqQmc?oc=5)
+
+2026-06-01 <span class="news-indication-tag">感冒</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi9wJBVV95cUxQX0VUVmN2OFRqVHJYWEhWSFBpQ3IyN1lvSTI1MUh1S3pzMmczQmtWVkhCa3VoMnJpZFd3VkJwb1B1MlpGaTJSUndlSFFnUG8yOTB5bHNBTE9Fdkc0MkwyN3Rrbl9OVW5pSkUwQ1AzMXlaUmhyOHVROE5lUUJYWXA3clFQSXExOWc4M2Fsb214bDFrMHhnYTgtQUd6MzZfSHNpNjluSmhNUG1ZR2VCSjA4T0hOYzFGX3VvTVhudHRRV1lFY3B2cUQ3RFVCdDdzRjVEX2JwbXJ2ZkxQaExfdVljYVFBWGlaQ050TmhhRm5oLW5LYnpxWjVRVWhDOUNLZjhjOEY1V3QwdVcwdUZtMERIQ29lM1c2MmpiMkdwOElzb3I1cm5hVWlRZlBFYVdfOVN4bmRQajlTLUVRempWcjg4a210WkZqMUZySWxoZnNEWEdaZnlOQVlSQWF2T3ptVmc1MUpYdFZHc1pBb1g5cVhoa3NoV2VqQmc?oc=5)
+
+---
 
 
 <div class="disclaimer">
