@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-02T23:27:41.975671+00:00",
+  "generated": "2026-06-03T02:53:37.416249+00:00",
   "count": 8,
   "news": [
     {
@@ -69,17 +69,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腦血管",
-          "keyword": "腦血管",
-          "related_drugs": [
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
             }
           ]
         }

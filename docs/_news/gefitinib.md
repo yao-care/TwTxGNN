@@ -45,7 +45,7 @@ permalink: /news/gefitinib/
 
 ### [高膽固醇＋視力退化恐加速失智！最新研究揭「2大可逆風險」](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDTS1POWVUeW00STAzRVdmMkdkUWtBbkhickFFZU9jODh4SGtLSXNKZXdkX1B2TGFVNk9BdC1vWjdvR054cTc3X2dEMEl0c1MzMUJpRV9idkpOUk1LcXfSAWNBVV95cUxOaG5xZTBjd2IzVHMwUXQ3bzBLT0JuMDl3MHd1OWZ6N1QxTmViWmE5eUx3QUFQMWx4el9TNWYtb08wd1RjRFRxdzJzQ19aUEhyMlNuWFg0d2ZYbDNETEFrdktDY2M?oc=5)
 
-2026-06-01 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">腦血管</span>
+2026-06-01 <span class="news-indication-tag">失智</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDTS1POWVUeW00STAzRVdmMkdkUWtBbkhickFFZU9jODh4SGtLSXNKZXdkX1B2TGFVNk9BdC1vWjdvR054cTc3X2dEMEl0c1MzMUJpRV9idkpOUk1LcXfSAWNBVV95cUxOaG5xZTBjd2IzVHMwUXQ3bzBLT0JuMDl3MHd1OWZ6N1QxTmViWmE5eUx3QUFQMWx4el9TNWYtb08wd1RjRFRxdzJzQ19aUEhyMlNuWFg0d2ZYbDNETEFrdktDY2M?oc=5)
 
