@@ -43,19 +43,19 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（2 則）
 
+### [AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mRHFtMXExdmEyX09XNUY0dFNvN3dLRlBzbjNiRGNkbHU4ajIzZFh1cUVDY2c2bW0yR0lMQm9OemVSbVdsbU5uWEl5S0NWblRUX1E?oc=5)
+
+2026-06-03 <span class="news-indication-tag">阿茲海默症</span>
+
+來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mRHFtMXExdmEyX09XNUY0dFNvN3dLRlBzbjNiRGNkbHU4ajIzZFh1cUVDY2c2bW0yR0lMQm9OemVSbVdsbU5uWEl5S0NWblRUX1E?oc=5)
+
+---
+
 ### [好命生醫引進代謝體檢測，單次抽血有望提早 10 年預測阿茲海默症風險 - GeneOnline News](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcTAxWmIyUkFiQkpfZzE1aDRocHlFNV96X2xBRGhUblJsdFFXTzR5RFBneEpkLURpNTE0VFROV29NeERtMHFCcGJqYkNjZmQyTHhRRENvRE1OeTVaTDk2WVNGNjFZNWx0bGpYQkRWWTVXa1ZHdDdyR3Z1c255Y0N2R3B5YlNIbF9wT1o0?oc=5)
 
 2026-06-03 <span class="news-indication-tag">阿茲海默症</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcTAxWmIyUkFiQkpfZzE1aDRocHlFNV96X2xBRGhUblJsdFFXTzR5RFBneEpkLURpNTE0VFROV29NeERtMHFCcGJqYkNjZmQyTHhRRENvRE1OeTVaTDk2WVNGNjFZNWx0bGpYQkRWWTVXa1ZHdDdyR3Z1c255Y0N2R3B5YlNIbF9wT1o0?oc=5)
-
----
-
-### [AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究](https://news.google.com/rss/articles/CBMirwJBVV95cUxPTEVOaWdlMU5YVEdHbm5NWFlCazVzU1NFUW1LR0hQeFBTMWpxRzdOaTRuTm1meFR6eHJTREJIRVd0Mno2cmxDV0hJa2cyRTg4TmZqVmc2bXhQcHJUcXJDUzU3aUxVVWhjNWZNVFdNaGxnNE9nbnE5VTJiZHhzYzk3LXd3T05xWGgyRHA2YnkzbUJzN0UxY1Q5cEQ4SFpWeTN5Mk15S1lsNnN4MW1RWEtFRW1hdUNxRDFiMzlUVUJKT1dLcVpHYmdLaEtDSkFmd21DdUpOenRwR2FCZnNKdURTMTUySHB3MGp3anRtZFJVbjd1b0VPRVdWWkFzei1Md3MwR1g5TmpLSzNTbXNCUFlkR3FhUE5LS0dPUnVabWpNNVJuWmlsVTlxbFVTTTlxQjA?oc=5)
-
-2026-06-01 <span class="news-indication-tag">阿茲海默症</span>
-
-來源：[yesmedia.com.tw](https://news.google.com/rss/articles/CBMirwJBVV95cUxPTEVOaWdlMU5YVEdHbm5NWFlCazVzU1NFUW1LR0hQeFBTMWpxRzdOaTRuTm1meFR6eHJTREJIRVd0Mno2cmxDV0hJa2cyRTg4TmZqVmc2bXhQcHJUcXJDUzU3aUxVVWhjNWZNVFdNaGxnNE9nbnE5VTJiZHhzYzk3LXd3T05xWGgyRHA2YnkzbUJzN0UxY1Q5cEQ4SFpWeTN5Mk15S1lsNnN4MW1RWEtFRW1hdUNxRDFiMzlUVUJKT1dLcVpHYmdLaEtDSkFmd21DdUpOenRwR2FCZnNKdURTMTUySHB3MGp3anRtZFJVbjd1b0VPRVdWWkFzei1Md3MwR1g5TmpLSzNTbXNCUFlkR3FhUE5LS0dPUnVabWpNNVJuWmlsVTlxbFVTTTlxQjA?oc=5)
 
 ---
 

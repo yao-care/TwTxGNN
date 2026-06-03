@@ -1,8 +1,85 @@
 {
-  "last_updated": "2026-06-03T08:08:18.527651+00:00",
-  "total_count": 22,
-  "matched_count": 7,
+  "last_updated": "2026-06-03T13:08:21.124376+00:00",
+  "total_count": 24,
+  "matched_count": 8,
   "news": [
+    {
+      "id": "d8b1c06ce47f",
+      "title": "從細胞、晶片到AI 打造全球精準健康王國",
+      "published": "2026-06-03T11:22:52+00:00",
+      "summary": "從細胞、晶片到AI 打造全球精準健康王國&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Oc0hjZFVILW93TkpCNUQzZXVFZDJRY0x3ZUh6ZDJOV2k4VUhDcmRxdmR1c2pNRDNSbUs5emZ1QjA5aEFaNlEtZHkyajdmVnNHdWc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4d97178d470c",
+      "title": "AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究",
+      "published": "2026-06-03T11:05:08+00:00",
+      "summary": "AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mRHFtMXExdmEyX09XNUY0dFNvN3dLRlBzbjNiRGNkbHU4ajIzZFh1cUVDY2c2bW0yR0lMQm9OemVSbVdsbU5uWEl5S0NWblRUX1E?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aad32f5fa000",
+      "title": "哭泣不是軟弱！每星期給自己幾次哭泣的時間，科學證實流淚是最佳的情緒排毒",
+      "published": "2026-06-03T10:40:46+00:00",
+      "summary": "哭泣不是軟弱！每星期給自己幾次哭泣的時間，科學證實流淚是最佳的情緒排毒&nbsp;&nbsp;Popbee",
+      "sources": [
+        {
+          "name": "Popbee",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RNkt4V1dXTlphMENkQzFpVWVZQ3ZEdUlScVMxWk9sRzhpdExLdGU5MFdtMDZhaXVqWnZVSE9ESzVYX0lXN2ZLbE1Rd2o3UUxEdEJqM0E5OFNGcHdldy1vdU4wZnk3Vy1wZUZiX21kMA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e72b0cff9bfa",
+      "title": "基因改造，細菌控蚊，人類對付蚊子出奇招",
+      "published": "2026-06-03T10:15:30+00:00",
+      "summary": "基因改造，細菌控蚊，人類對付蚊子出奇招&nbsp;&nbsp;紫荊網",
+      "sources": [
+        {
+          "name": "紫荊網",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRnlTYzlaNHBBemdTaHZfbWZ0TlZKOXRPRURGUUM1TVpXcXFCMjJWTHYxRTVmWWtlUEhhaGpEYUpKcWQwVTR2dGVPSThTM0c0ZkQzZ0ltYTh3Y213UFVWV3YyNUtkRWxkd2VQRTYyZFpjTDFwdjdJSWIwMWF6Y1NOZTRyNHpGR1VGclhjak9LbVo?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "84c82ad55173",
+      "title": "Google計畫在美國釋放3200萬隻蚊子！「生物Debug實驗」抗登革熱引熱議",
+      "published": "2026-06-03T09:21:00+00:00",
+      "summary": "Google計畫在美國釋放3200萬隻蚊子！「生物Debug實驗」抗登革熱引熱議&nbsp;&nbsp;加密城市CryptoCityGoogle請求批准投放3200萬隻蚊子入境，讓雄蚊不育「絕子絕孫」&nbsp;&nbsp;鏈新聞 ABMediaGoogle想放飛3200萬隻「蚊子大軍」 靠「蚊制蚊」對抗登革熱- 國際&nbsp;&nbsp;中時新聞網Google擬野放3200萬隻蚊子 「科技debug」 對抗登革熱&nbsp;&nbsp;MSNGoogle要放「3200萬隻蚊子」超狂目的曝光 居民怕爆：別在我家後院實驗&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "加密城市CryptoCity",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOejB2OHFOU1lyNzNmSnRZejRxOWNTekZZWm9rVEt4X1NicUNHVmR6MWdnUTRyaFplQWtMaDBXbEM4NkUxME9LM05RNkk1ZHdEQU1QNm5OM2s1Sl9zbHhLWUZhQ1FaSVFmaGJsbWVuUU1ic29ySnhONVZxQUt6bkJmTQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "444e788373c4",
       "title": "AI假醫師捏造多吃綠香蕉改善腎功能和夜尿假訊息",
@@ -15,6 +92,54 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "52a4bb74dc9e",
+      "title": "大老闆切3顆息肉超慌2瓣生蒜天天吃大腸5年都粉嫩- 健康",
+      "published": "2026-06-03T07:50:30+00:00",
+      "summary": "大老闆切3顆息肉超慌2瓣生蒜天天吃大腸5年都粉嫩- 健康&nbsp;&nbsp;中時新聞網大老闆切3顆息肉怕復發！天天吃「2瓣生大蒜」 5年養出「粉嫩大腸」&nbsp;&nbsp;Yahoo新聞哥死於大腸癌他見息肉怕了！大老闆天天吃生大蒜 健檢醫驚呼&nbsp;&nbsp;TVBS新聞網大腸鏡驗出3息肉！大老闆「每日2瓣生蒜」5年追蹤零復發&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qNEhPal9Cbl9NazlXUDRiM0dmR1lQOXVLTFZLUVNFSUh4SFUwbVRGZDBpUlRkT0YyYlFmVVpfOThSOXhKc00yLXFfaklXWTRRcFJPalg4TXowVTlKXzhxSm1jNERuVzB0SVpwUHdB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "79e218b1dc74",
@@ -69,7 +194,7 @@
     {
       "id": "e2352c12c852",
       "title": "更年期8年平均胖5.4公斤！營養師：增肌才是關鍵非減脂",
-      "published": "2026-06-03T05:37:39+00:00",
+      "published": "2026-06-03T05:28:11+00:00",
       "summary": "更年期8年平均胖5.4公斤！營養師：增肌才是關鍵非減脂&nbsp;&nbsp;Yahoo新聞不用補雌激素 中醫針灸茶飲改善更年期潮熱失眠&nbsp;&nbsp;大纪元45歲後身材失控不是你的錯 營養師揭4關鍵：吃越少內臟脂肪囤越多&nbsp;&nbsp;ETtoday新聞雲更年期不只是荷爾蒙變化：日常代謝與生活管理逐漸受到關注&nbsp;&nbsp;蕃新聞熱潮紅要吃什麼？營養師揭更年期燥熱、盜汗飲食調整重點&nbsp;&nbsp;四季線上4gTV",
       "sources": [
         {
@@ -129,6 +254,19 @@
       ]
     },
     {
+      "id": "5d2b9e5bf8d9",
+      "title": "「播毒渣男」最終回！H先生撐拐杖赴約被3苦主圍剿 終改口親認感染HPV",
+      "published": "2026-06-03T04:26:20+00:00",
+      "summary": "「播毒渣男」最終回！H先生撐拐杖赴約被3苦主圍剿 終改口親認感染HPV&nbsp;&nbsp;TVB熱話｜21歲「播毒渣男」令多名少女慘染性病 「東張女神」大逼供 網民：「根本係害人」&nbsp;&nbsp;橙新聞東張西望｜渣男在迫問之下終承認有性病 拒絕道歉訪問中還笑得出&nbsp;&nbsp;香港01東張西望｜「HPV男女」避入健身中心 涉事分店突然做深層清潔？ 「播毒」事件引全城討論&nbsp;&nbsp;星島頭條東張西望｜21歲籃球教練H先生被起底 「東張女神」甘詠寧大逼供問是否有HPV四處播毒&nbsp;&nbsp;AM730",
+      "sources": [
+        {
+          "name": "TVB",
+          "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxONGhQZS1najBvaWFhMVNGVEg3aUc2a3o2S2dDUGRiVGl3Uk44UGxfSThsRTM1U1dnbGs2RjhYdldndzVkZjlMaV9LdDhUWFlhYzdfZUVBWW1NMzM1enVxb2pybmt4Nmd0eFh6YXdlSDVweXFmc3VQYzU4U0NxVjBHX0JUaUV0Z1doRlg4ZEN0ZFFmbzcyTVVtZHhUOGNpWHBWNDJWNGVDdW8wVFAzTHMwVlE4dXgyM0tqcGpQY25MVGZjNGpkZXZlNktaNFdqd0FTNTd5b2syVWF1blFvQVdnWGRTRW9DVG9MREI0Nm9CTWNHUGdfSGFYekIzSXJkcUJzeU90X05Ga3UzOUV0OWxTdGxjeEludUpQMUMwTHZmQTdNOVROSHh6LVowMzBia1d3cjUzZ2FPWlBtQVBPcUFTTk9hRjZpSVM2QmlKM0JkU3Q3T1dTSll3R2dQYlRIZVRTRXFSMkpoSThteUx3M1B2cnJ0cV9vZmJlY3FYdWxSdTBHTERHLVA0Rm1UTTIwR2J0RWtKag?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "556d02395eac",
       "title": "胃酸倒流折磨身心新技術提供精準診斷 助患者盡快治療改善生活質素",
       "published": "2026-06-03T04:08:19+00:00",
@@ -168,19 +306,6 @@
       "matched_keywords": []
     },
     {
-      "id": "f37850eaa549",
-      "title": "Google請求批准投放3200萬隻蚊子入境，讓雄蚊不育「絕子絕孫」 - 鏈新聞 ABMedia",
-      "published": "2026-06-03T00:54:47+00:00",
-      "summary": "Google請求批准投放3200萬隻蚊子入境，讓雄蚊不育「絕子絕孫」&nbsp;&nbsp;鏈新聞 ABMedia谷歌想放飛3200萬隻蚊子 對抗登革熱&nbsp;&nbsp;中國評論新聞對抗登革熱與茲卡病毒 Google擬釋放3200萬隻「絕育蚊」&nbsp;&nbsp;Taiwan NewsGoogle要放「3200萬隻蚊子」超狂目的曝光 居民怕爆：別在我家後院實驗&nbsp;&nbsp;Yahoo新聞討論牆 | Google要放「3200萬隻蚊子」超狂目的曝光 居民怕爆：別在我家後院實驗&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "鏈新聞 ABMedia",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DZFN6TDFHenVLcHpkcTFPMHZ5OWhiQWIyTTR3YkR5ekdaV2FqYXQ1X0tVZ3N4SlRYVXVzUkpDSEktWVpsdnB5LWNwOA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "36df6882b5c5",
       "title": "婚姻有益健康？專家：關鍵在於關係品質",
       "published": "2026-06-02T18:10:19+00:00",
@@ -189,19 +314,6 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTGxjWGRFTnR4UWxTamZCVWpkcWJwOG01YVFXd25qU2M4YkdCWXVpaEczWFNvdEsyZktwZ3VaVTJBTVdQNmRsN1RjZ2UtM2lBU1FpT0preEdyOGxDOHNpT0h3SnY2ZUtyZTNSWVg1aWRlMVFBRlpyaGhnMHVmb0NXd3dldU5nd1Rpdm1FTTROTm85MnJpYXI2NFk1bjRrQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "cf527f97724f",
-      "title": "21歲播毒男疑有反轉內幕？醫生拆解HPV型號不同兩大關鍵 不排除透過其他性伴侶感染 - UHK 港生活",
-      "published": "2026-06-02T18:07:17+00:00",
-      "summary": "21歲播毒男疑有反轉內幕？醫生拆解HPV型號不同兩大關鍵 不排除透過其他性伴侶感染&nbsp;&nbsp;UHK 港生活熱話｜21歲「播毒渣男」令多名少女慘染性病 「東張女神」大逼供 網民：「根本係害人」&nbsp;&nbsp;橙新聞東張西望｜渣男在迫問之下終承認有性病 拒絕道歉訪問中還笑得出&nbsp;&nbsp;香港01東張西望｜H先生被東張女神追問下親認感染HPV 去過gym room暫停營業深層清潔&nbsp;&nbsp;am730東張西望｜受害人放蛇引播毒渣男上釣 H先生8字回應甘詠寧大逼供&nbsp;&nbsp;nmplus.hk",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxPU2oxb256NUhKeE9IeTBPcFllTW5zY1ozZDRVUS14Z3hJOGtWXzdRejNyWDJLaXJ3REY3MTVlYml5QktpZHVzckJnSE10OXR6am10NTBOVzFVdF9rVW5kdlZlU1lEcjA5Zkw3WHpha0lYdm1iTGhmNjdUay00dUt3NDdKOENUSEVYYjFsNDdJTGNwMDJlSk9Ka2JLVGVneDlzUHZvUlZSZUJZV1l1UXhqSTE2S05XaW9rUDhsbXJDY3MzYlhhNFAxTWd0b0FmczJQNVROX3JITG9MbVVfSENpd3YxcllXTDhKaGZyUHgtVjBheDlPWW5EZjF6V3pQR05FMWt4NlVESGJqYmd1UndpM0ZEMk1QSXQtNXR2WExndHo5VEk5U050YktrMzMwOGREbHJRSkJzN1hBcnp4Zjk0Vld2R1c1MmtDbE1JRlQwNHB1X0x3QjZBcnRucXhSczhqdF9TU3ZVN09jakFvSHVvNHlIcHdPMFpDYWI3OGIyZnBUNTl4QmdtM1dqTmw3dVp6SWJkUl9GVHRDdlVnWjB4SGMwRGM4Zmo2TmtrWlhwZVpvQjRlTk00NjlmQzZxaFdjNnRPcHZhUmpVY1lENzZpSzRqa0ZfVHY3RHRPWmQtRWNFQXBkZlpiYmxXU0I0ZDE5bzh4RVhDZTFISDZvNENB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -309,23 +421,10 @@
       "matched_keywords": []
     },
     {
-      "id": "9bb580a3178d",
-      "title": "衛生局與澳門執業西醫公會合辦乙肝及愛滋病快速測試工作坊 致力提升本澳醫生專業技術及社區篩檢能力",
-      "published": "2026-06-01T12:32:19+00:00",
-      "summary": "衛生局與澳門執業西醫公會合辦乙肝及愛滋病快速測試工作坊 致力提升本澳醫生專業技術及社區篩檢能力&nbsp;&nbsp;濠江日報",
-      "sources": [
-        {
-          "name": "濠江日報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZdTBSSlV2WUFVQmtyTC1kVjlqSGV3WDc2UTJYYVptUUQ0cFR0MjhBSzAtRDE3cGh0c1RxOHEtZTluQXVHRUdpY0J2R2dBUFpabHFFOU5wUFZBTzc2NFliNw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "27d396ced250",
       "title": "過量防腐劑恐導致高血壓！研究點名「4大地雷食物」 蔬菜、麵包都上榜",
       "published": "2026-06-01T12:13:50+00:00",
-      "summary": "過量防腐劑恐導致高血壓！研究點名「4大地雷食物」 蔬菜、麵包都上榜&nbsp;&nbsp;祝你健康常吃便利店食品增中風機會！微波爐便當都不宜 醫教3招減風險&nbsp;&nbsp;香港0111 萬人追蹤數據揭露，8 種常見食品防腐劑恐推升高血壓、心血管疾病風險&nbsp;&nbsp;TechNews 科技新報研究：加工食品防腐劑 可能增加心血管疾病風險&nbsp;&nbsp;自由健康網",
+      "summary": "過量防腐劑恐導致高血壓！研究點名「4大地雷食物」 蔬菜、麵包都上榜&nbsp;&nbsp;祝你健康",
       "sources": [
         {
           "name": "祝你健康",
@@ -333,28 +432,6 @@
         }
       ],
       "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "高血壓",
@@ -369,61 +446,8 @@
               "name": "Metoprolol"
             }
           ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
         }
       ]
-    },
-    {
-      "id": "6225040e2bd7",
-      "title": "AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究",
-      "published": "2026-06-01T10:47:00+00:00",
-      "summary": "AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究&nbsp;&nbsp;yesmedia.com.tw",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPTEVOaWdlMU5YVEdHbm5NWFlCazVzU1NFUW1LR0hQeFBTMWpxRzdOaTRuTm1meFR6eHJTREJIRVd0Mno2cmxDV0hJa2cyRTg4TmZqVmc2bXhQcHJUcXJDUzU3aUxVVWhjNWZNVFdNaGxnNE9nbnE5VTJiZHhzYzk3LXd3T05xWGgyRHA2YnkzbUJzN0UxY1Q5cEQ4SFpWeTN5Mk15S1lsNnN4MW1RWEtFRW1hdUNxRDFiMzlUVUJKT1dLcVpHYmdLaEtDSkFmd21DdUpOenRwR2FCZnNKdURTMTUySHB3MGp3anRtZFJVbjd1b0VPRVdWWkFzei1Md3MwR1g5TmpLSzNTbXNCUFlkR3FhUE5LS0dPUnVabWpNNVJuWmlsVTlxbFVTTTlxQjA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e97a51ea48f1",
-      "title": "橫跨醫療、生技、AI與半導體 威力先進引領全球健康科技新勢",
-      "published": "2026-06-01T10:29:00+00:00",
-      "summary": "橫跨醫療、生技、AI與半導體 威力先進引領全球健康科技新勢&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51NE0xT0NLWGVxZ2p4RU5nRDJLWVUwblN3TW5HNkhSMGUxQmpXOFVBMTJIdXljMS1sV3ZpSUpqM0dtM3pHRnBCZndrSHJEbkxUWXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "554d4b56a4a9",

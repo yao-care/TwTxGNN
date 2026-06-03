@@ -1,7 +1,78 @@
 {
-  "generated": "2026-06-03T08:08:18.558432+00:00",
-  "count": 7,
+  "generated": "2026-06-03T13:08:21.154253+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "4d97178d470c",
+      "title": "AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究",
+      "published": "2026-06-03T11:05:08+00:00",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mRHFtMXExdmEyX09XNUY0dFNvN3dLRlBzbjNiRGNkbHU4ajIzZFh1cUVDY2c2bW0yR0lMQm9OemVSbVdsbU5uWEl5S0NWblRUX1E?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "52a4bb74dc9e",
+      "title": "大老闆切3顆息肉超慌2瓣生蒜天天吃大腸5年都粉嫩- 健康",
+      "published": "2026-06-03T07:50:30+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qNEhPal9Cbl9NazlXUDRiM0dmR1lQOXVLTFZLUVNFSUh4SFUwbVRGZDBpUlRkT0YyYlFmVVpfOThSOXhKc00yLXFfaklXWTRRcFJPalg4TXowVTlKXzhxSm1jNERuVzB0SVpwUHdB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "3335f6f0170a",
       "title": "最新研究顯示不孕症與女性提早停經存在顯著關聯 - GeneOnline News",
@@ -41,7 +112,7 @@
     {
       "id": "e2352c12c852",
       "title": "更年期8年平均胖5.4公斤！營養師：增肌才是關鍵非減脂",
-      "published": "2026-06-03T05:37:39+00:00",
+      "published": "2026-06-03T05:28:11+00:00",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -159,28 +230,6 @@
       "keywords": [
         {
           "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
           "name": "高血壓",
           "keyword": "高血壓",
           "related_drugs": [
@@ -191,45 +240,6 @@
             {
               "slug": "metoprolol",
               "name": "Metoprolol"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6225040e2bd7",
-      "title": "AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究",
-      "published": "2026-06-01T10:47:00+00:00",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPTEVOaWdlMU5YVEdHbm5NWFlCazVzU1NFUW1LR0hQeFBTMWpxRzdOaTRuTm1meFR6eHJTREJIRVd0Mno2cmxDV0hJa2cyRTg4TmZqVmc2bXhQcHJUcXJDUzU3aUxVVWhjNWZNVFdNaGxnNE9nbnE5VTJiZHhzYzk3LXd3T05xWGgyRHA2YnkzbUJzN0UxY1Q5cEQ4SFpWeTN5Mk15S1lsNnN4MW1RWEtFRW1hdUNxRDFiMzlUVUJKT1dLcVpHYmdLaEtDSkFmd21DdUpOenRwR2FCZnNKdURTMTUySHB3MGp3anRtZFJVbjd1b0VPRVdWWkFzei1Md3MwR1g5TmpLSzNTbXNCUFlkR3FhUE5LS0dPUnVabWpNNVJuWmlsVTlxbFVTTTlxQjA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
