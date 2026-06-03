@@ -14,7 +14,7 @@ permalink: /news/carbenoxolone/
 ---
 
 <p class="key-answer" data-question="Carbenoxolone 有什麼相關新聞？">
-<strong>Carbenoxolone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Carbenoxolone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,9 +38,15 @@ permalink: /news/carbenoxolone/
 <p><a href="{{ '/drugs/carbenoxolone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [新型微創腎癌切除術 減心臟病人割腫瘤風險](https://news.google.com/rss/articles/CBMiywJBVV95cUxPRHNldVdnZUZrczM2Ymh6MmIzN2lRalJNSm9yaUZRUldMaDlvWHRxTk1PUEQ1SURWYTdpRjA2OFVxM3pMaXVGN2Z1ZHhYeDQzN3RubWVrOUFlSVE2eTRSQ1hRUUpFaGZmOUw0cXpnaXZobWNMMkRDSE9ZV21zdFhETVJnOUJLd0ZHcmhKTzdMbGJFd3JnUzQzeG96dHU0ZHpCSTA5UU4wenRQR3VBcDdNRXZXRDh3eXd6OV9sQWZyZmVBbHBJX0FaZDJxZEphU2FSemxhZ0hpaGlyU2p4a3VmdXNTVzhnNE5vUVdwb3NrV3VkcWZVZVNUQnBGajNrSHNNNVF1anlqOEVyc0hDV1JocDVZZDBQTkFNbUVIdk9FSThkX2FqNlNORXJBZk1OUzVXczdEUVBaNVNZMzZhWU43Y0gyZ2xPV1Bmb3A4?oc=5)
+
+2026-06-03 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">腎癌</span>
+
+來源：[信報網站](https://news.google.com/rss/articles/CBMiywJBVV95cUxPRHNldVdnZUZrczM2Ymh6MmIzN2lRalJNSm9yaUZRUldMaDlvWHRxTk1PUEQ1SURWYTdpRjA2OFVxM3pMaXVGN2Z1ZHhYeDQzN3RubWVrOUFlSVE2eTRSQ1hRUUpFaGZmOUw0cXpnaXZobWNMMkRDSE9ZV21zdFhETVJnOUJLd0ZHcmhKTzdMbGJFd3JnUzQzeG96dHU0ZHpCSTA5UU4wenRQR3VBcDdNRXZXRDh3eXd6OV9sQWZyZmVBbHBJX0FaZDJxZEphU2FSemxhZ0hpaGlyU2p4a3VmdXNTVzhnNE5vUVdwb3NrV3VkcWZVZVNUQnBGajNrSHNNNVF1anlqOEVyc0hDV1JocDVZZDBQTkFNbUVIdk9FSThkX2FqNlNORXJBZk1OUzVXczdEUVBaNVNZMzZhWU43Y0gyZ2xPV1Bmb3A4?oc=5)
+
+---
 
 
 <div class="disclaimer">
