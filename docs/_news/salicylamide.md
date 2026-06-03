@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [吃維生素C防感冒？醫破迷思 但有1好處](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVm9nVWlTazdlQlhsbk9XNmVjcTlheElzcERITlE0cExFbzJ6YzExWUZRNlp3VnhrcUN2ZVdPTjNycTRabGVwQW0tWU5FeVYyYjh3OGVjRWM4aGtEd2FTWkNXRlBLUmdyZ3FOVDFUZEc0bHpJNEpiTGVmdE1Dc3BCbjI3TUxBTzl1RzRRdDhncw?oc=5)
+### [吃維生素C防感冒？醫破迷思 但有1好處](https://news.google.com/rss/articles/CBMibkFVX3lxTE83aDFpR2p3eldjZ1BDV2IxOG5YNC1VZkhjSEpuWnVzMmYxT3NUeW4tM1dMX2NXSlJHeDkwSGZKbTd6TGFUODZsWWNndGdEQmNoeVhpNWdTQ2t3N3EzdVU0R0hDaDBIamJ3ZkpvOVd3?oc=5)
 
 2026-06-02 <span class="news-indication-tag">感冒</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVm9nVWlTazdlQlhsbk9XNmVjcTlheElzcERITlE0cExFbzJ6YzExWUZRNlp3VnhrcUN2ZVdPTjNycTRabGVwQW0tWU5FeVYyYjh3OGVjRWM4aGtEd2FTWkNXRlBLUmdyZ3FOVDFUZEc0bHpJNEpiTGVmdE1Dc3BCbjI3TUxBTzl1RzRRdDhncw?oc=5)
-
----
-
-### [多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要 - 健康新聞 - PChome Online 新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMijgFBVV95cUxQMkQ1Qm11OHVZRldxdjhueFdmVWNGVm1YcFNmaUtrdThpblFUeGpxcTFtd0YyVXBxbUFJd0hpeVk3MTVHUXhnU0VxU3dFTC1vN2ZOb1I1b3RpU2JyX0oyaTJJSXF2MDFHdGE0Zm45a1hUME4yYU5BT00zam9RaXdGTmI5QlU5eUZOXy10SE9R?oc=5)
-
-2026-06-01 <span class="news-indication-tag">感冒</span>
-
-來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMijgFBVV95cUxQMkQ1Qm11OHVZRldxdjhueFdmVWNGVm1YcFNmaUtrdThpblFUeGpxcTFtd0YyVXBxbUFJd0hpeVk3MTVHUXhnU0VxU3dFTC1vN2ZOb1I1b3RpU2JyX0oyaTJJSXF2MDFHdGE0Zm45a1hUME4yYU5BT00zam9RaXdGTmI5QlU5eUZOXy10SE9R?oc=5)
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE83aDFpR2p3eldjZ1BDV2IxOG5YNC1VZkhjSEpuWnVzMmYxT3NUeW4tM1dMX2NXSlJHeDkwSGZKbTd6TGFUODZsWWNndGdEQmNoeVhpNWdTQ2t3N3EzdVU0R0hDaDBIamJ3ZkpvOVd3?oc=5)
 
 ---
 

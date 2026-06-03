@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-03T13:08:21.154253+00:00",
-  "count": 8,
+  "generated": "2026-06-03T18:17:29.551605+00:00",
+  "count": 5,
   "news": [
     {
       "id": "4d97178d470c",
@@ -21,53 +21,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "52a4bb74dc9e",
-      "title": "大老闆切3顆息肉超慌2瓣生蒜天天吃大腸5年都粉嫩- 健康",
-      "published": "2026-06-03T07:50:30+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qNEhPal9Cbl9NazlXUDRiM0dmR1lQOXVLTFZLUVNFSUh4SFUwbVRGZDBpUlRkT0YyYlFmVVpfOThSOXhKc00yLXFfaklXWTRRcFJPalg4TXowVTlKXzhxSm1jNERuVzB0SVpwUHdB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
@@ -170,13 +123,13 @@
       ]
     },
     {
-      "id": "a53a23bcc7f1",
+      "id": "59d3f7acbc2a",
       "title": "吃維生素C防感冒？醫破迷思 但有1好處",
       "published": "2026-06-02T03:14:28+00:00",
       "sources": [
         {
           "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVm9nVWlTazdlQlhsbk9XNmVjcTlheElzcERITlE0cExFbzJ6YzExWUZRNlp3VnhrcUN2ZVdPTjNycTRabGVwQW0tWU5FeVYyYjh3OGVjRWM4aGtEd2FTWkNXRlBLUmdyZ3FOVDFUZEc0bHpJNEpiTGVmdE1Dc3BCbjI3TUxBTzl1RzRRdDhncw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83aDFpR2p3eldjZ1BDV2IxOG5YNC1VZkhjSEpuWnVzMmYxT3NUeW4tM1dMX2NXSlJHeDkwSGZKbTd6TGFUODZsWWNndGdEQmNoeVhpNWdTQ2t3N3EzdVU0R0hDaDBIamJ3ZkpvOVd3?oc=5"
         }
       ],
       "keywords": [
@@ -188,58 +141,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "fbac38f4afbb",
-      "title": "多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要 - 健康新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "published": "2026-06-01T23:21:04+00:00",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMkQ1Qm11OHVZRldxdjhueFdmVWNGVm1YcFNmaUtrdThpblFUeGpxcTFtd0YyVXBxbUFJd0hpeVk3MTVHUXhnU0VxU3dFTC1vN2ZOb1I1b3RpU2JyX0oyaTJJSXF2MDFHdGE0Zm45a1hUME4yYU5BT00zam9RaXdGTmI5QlU5eUZOXy10SE9R?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "27d396ced250",
-      "title": "過量防腐劑恐導致高血壓！研究點名「4大地雷食物」 蔬菜、麵包都上榜",
-      "published": "2026-06-01T12:13:50+00:00",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE51VkZkV1dYeDhoWUhQU0RROTFIWjZPazNJcnJwZW9wcU5RdjJMR3FtTmt0RjBQb25YajR0eFJLT29xSzlwZzJMYjlQZFA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
             }
           ]
         }

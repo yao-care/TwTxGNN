@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-06-03T13:08:21.124376+00:00",
-  "total_count": 24,
-  "matched_count": 8,
+  "last_updated": "2026-06-03T18:17:29.529714+00:00",
+  "total_count": 21,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "e72b0cff9bfa",
+      "title": "基因改造，細菌控蚊，人類對付蚊子出奇招",
+      "published": "2026-06-03T16:07:30+00:00",
+      "summary": "基因改造，細菌控蚊，人類對付蚊子出奇招&nbsp;&nbsp;紫荊網",
+      "sources": [
+        {
+          "name": "紫荊網",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRnlTYzlaNHBBemdTaHZfbWZ0TlZKOXRPRURGUUM1TVpXcXFCMjJWTHYxRTVmWWtlUEhhaGpEYUpKcWQwVTR2dGVPSThTM0c0ZkQzZ0ltYTh3Y213UFVWV3YyNUtkRWxkd2VQRTYyZFpjTDFwdjdJSWIwMWF6Y1NOZTRyNHpGR1VGclhjak9LbVo?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4a2fa43e3dea",
+      "title": "東張西望｜播毒渣男引爆全城熱話 健身室疑似因其足跡而深層清潔",
+      "published": "2026-06-03T14:10:20+00:00",
+      "summary": "東張西望｜播毒渣男引爆全城熱話 健身室疑似因其足跡而深層清潔&nbsp;&nbsp;香港01熱話｜21歲「播毒渣男」令多名少女慘染性病 「東張女神」大逼供 網民：「根本係害人」&nbsp;&nbsp;橙新聞HPV懶人包｜健身室都會感染？即睇HPV傳播途徑+病毒類別+預防方法&nbsp;&nbsp;香港01東張西望｜受害人放蛇引播毒渣男上釣 H先生8字回應甘詠寧大逼供&nbsp;&nbsp;nmplus.hk東張西望｜「HPV男女」避入健身中心 涉事分店突然做深層清潔？ 「播毒」事件引全城討論&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNa1J6ZXNfTUY3TllRZ2F2bE93UURHdEZJTGkyZExKdzF1dTk0LXZiM2hPOGlhLTZjM3Z3eXhFYXpORWo0TzdSMy1tczRvbDJiaVlGNzYzUl8ybUd4R3BvMmMxSnRiS1lHMGQ3NC1VT09mcGd0TzhuV3NtajVkZUtvd09PSnJPeXY0blJhQ1BDbmtRenBoUGVxWE1FaVVqQnNjV2JtOGJ1U0g2eUl1bUZsT3dGd2lTZmlHRmUzbXF1V2ZMd2RkSk9Rdks4MDQ5VXlFYXluZDc4SWZiY21vcGJBVzV3cWkxbDBLbU5OVlJpOHNFTXlIZlBaSDhseTdHc0h4dWpnWkRpcm1DX3lseVFVbE9ubkRVNlZHaFR1cE1VWEp4TEE1elBNcVhLWDVnaWM3RFJKQ0ZlM1hmSjFVRjFDdmZLcjJBUWRsUmE1Uk1ZOVdGZUpiY3czZm1URDhVd2lYMHByY1ZkVGVOMnV6dEpKQmV3U0FWaUdwZmtRbGZWVmFyZnYzbHZMODAyTW56T3NiSlBhNWV1WGt3Z054TmxhX2ZQTjJySXVQa1UxUUc4YTRuU0d5WGY3aGktNFc2b0JIcGxha09jTGE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "d8b1c06ce47f",
       "title": "從細胞、晶片到AI 打造全球精準健康王國",
@@ -55,19 +81,6 @@
       "matched_keywords": []
     },
     {
-      "id": "e72b0cff9bfa",
-      "title": "基因改造，細菌控蚊，人類對付蚊子出奇招",
-      "published": "2026-06-03T10:15:30+00:00",
-      "summary": "基因改造，細菌控蚊，人類對付蚊子出奇招&nbsp;&nbsp;紫荊網",
-      "sources": [
-        {
-          "name": "紫荊網",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRnlTYzlaNHBBemdTaHZfbWZ0TlZKOXRPRURGUUM1TVpXcXFCMjJWTHYxRTVmWWtlUEhhaGpEYUpKcWQwVTR2dGVPSThTM0c0ZkQzZ0ltYTh3Y213UFVWV3YyNUtkRWxkd2VQRTYyZFpjTDFwdjdJSWIwMWF6Y1NOZTRyNHpGR1VGclhjak9LbVo?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "84c82ad55173",
       "title": "Google計畫在美國釋放3200萬隻蚊子！「生物Debug實驗」抗登革熱引熱議",
       "published": "2026-06-03T09:21:00+00:00",
@@ -92,54 +105,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "52a4bb74dc9e",
-      "title": "大老闆切3顆息肉超慌2瓣生蒜天天吃大腸5年都粉嫩- 健康",
-      "published": "2026-06-03T07:50:30+00:00",
-      "summary": "大老闆切3顆息肉超慌2瓣生蒜天天吃大腸5年都粉嫩- 健康&nbsp;&nbsp;中時新聞網大老闆切3顆息肉怕復發！天天吃「2瓣生大蒜」 5年養出「粉嫩大腸」&nbsp;&nbsp;Yahoo新聞哥死於大腸癌他見息肉怕了！大老闆天天吃生大蒜 健檢醫驚呼&nbsp;&nbsp;TVBS新聞網大腸鏡驗出3息肉！大老闆「每日2瓣生蒜」5年追蹤零復發&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qNEhPal9Cbl9NazlXUDRiM0dmR1lQOXVLTFZLUVNFSUh4SFUwbVRGZDBpUlRkT0YyYlFmVVpfOThSOXhKc00yLXFfaklXWTRRcFJPalg4TXowVTlKXzhxSm1jNERuVzB0SVpwUHdB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "79e218b1dc74",
@@ -254,19 +219,6 @@
       ]
     },
     {
-      "id": "5d2b9e5bf8d9",
-      "title": "「播毒渣男」最終回！H先生撐拐杖赴約被3苦主圍剿 終改口親認感染HPV",
-      "published": "2026-06-03T04:26:20+00:00",
-      "summary": "「播毒渣男」最終回！H先生撐拐杖赴約被3苦主圍剿 終改口親認感染HPV&nbsp;&nbsp;TVB熱話｜21歲「播毒渣男」令多名少女慘染性病 「東張女神」大逼供 網民：「根本係害人」&nbsp;&nbsp;橙新聞東張西望｜渣男在迫問之下終承認有性病 拒絕道歉訪問中還笑得出&nbsp;&nbsp;香港01東張西望｜「HPV男女」避入健身中心 涉事分店突然做深層清潔？ 「播毒」事件引全城討論&nbsp;&nbsp;星島頭條東張西望｜21歲籃球教練H先生被起底 「東張女神」甘詠寧大逼供問是否有HPV四處播毒&nbsp;&nbsp;AM730",
-      "sources": [
-        {
-          "name": "TVB",
-          "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxONGhQZS1najBvaWFhMVNGVEg3aUc2a3o2S2dDUGRiVGl3Uk44UGxfSThsRTM1U1dnbGs2RjhYdldndzVkZjlMaV9LdDhUWFlhYzdfZUVBWW1NMzM1enVxb2pybmt4Nmd0eFh6YXdlSDVweXFmc3VQYzU4U0NxVjBHX0JUaUV0Z1doRlg4ZEN0ZFFmbzcyTVVtZHhUOGNpWHBWNDJWNGVDdW8wVFAzTHMwVlE4dXgyM0tqcGpQY25MVGZjNGpkZXZlNktaNFdqd0FTNTd5b2syVWF1blFvQVdnWGRTRW9DVG9MREI0Nm9CTWNHUGdfSGFYekIzSXJkcUJzeU90X05Ga3UzOUV0OWxTdGxjeEludUpQMUMwTHZmQTdNOVROSHh6LVowMzBia1d3cjUzZ2FPWlBtQVBPcUFTTk9hRjZpSVM2QmlKM0JkU3Q3T1dTSll3R2dQYlRIZVRTRXFSMkpoSThteUx3M1B2cnJ0cV9vZmJlY3FYdWxSdTBHTERHLVA0Rm1UTTIwR2J0RWtKag?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "556d02395eac",
       "title": "胃酸倒流折磨身心新技術提供精準診斷 助患者盡快治療改善生活質素",
       "published": "2026-06-03T04:08:19+00:00",
@@ -345,14 +297,14 @@
       "matched_keywords": []
     },
     {
-      "id": "a53a23bcc7f1",
+      "id": "59d3f7acbc2a",
       "title": "吃維生素C防感冒？醫破迷思 但有1好處",
       "published": "2026-06-02T03:14:28+00:00",
-      "summary": "吃維生素C防感冒？醫破迷思 但有1好處&nbsp;&nbsp;中時新聞網",
+      "summary": "吃維生素C防感冒？醫破迷思 但有1好處&nbsp;&nbsp;中時新聞網感冒季狂補維生素C？醫解析：能減輕症狀、但無法預防&nbsp;&nbsp;Yahoo新聞健康網》天天補維生素C還感冒 醫揭關鍵原因&nbsp;&nbsp;自由健康網多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要 | CTWANT&nbsp;&nbsp;LINE TODAY多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
           "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVm9nVWlTazdlQlhsbk9XNmVjcTlheElzcERITlE0cExFbzJ6YzExWUZRNlp3VnhrcUN2ZVdPTjNycTRabGVwQW0tWU5FeVYyYjh3OGVjRWM4aGtEd2FTWkNXRlBLUmdyZ3FOVDFUZEc0bHpJNEpiTGVmdE1Dc3BCbjI3TUxBTzl1RzRRdDhncw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83aDFpR2p3eldjZ1BDV2IxOG5YNC1VZkhjSEpuWnVzMmYxT3NUeW4tM1dMX2NXSlJHeDkwSGZKbTd6TGFUODZsWWNndGdEQmNoeVhpNWdTQ2t3N3EzdVU0R0hDaDBIamJ3ZkpvOVd3?oc=5"
         }
       ],
       "matched_keywords": [
@@ -383,31 +335,6 @@
       "matched_keywords": []
     },
     {
-      "id": "fbac38f4afbb",
-      "title": "多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要 - 健康新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "published": "2026-06-01T23:21:04+00:00",
-      "summary": "多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞感冒季狂補維生素C？醫解析：能減輕症狀、但無法預防&nbsp;&nbsp;Yahoo新聞健康網》天天補維生素C還感冒 醫揭關鍵原因&nbsp;&nbsp;自由健康網多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要 | CTWANT&nbsp;&nbsp;LINE TODAY多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMkQ1Qm11OHVZRldxdjhueFdmVWNGVm1YcFNmaUtrdThpblFUeGpxcTFtd0YyVXBxbUFJd0hpeVk3MTVHUXhnU0VxU3dFTC1vN2ZOb1I1b3RpU2JyX0oyaTJJSXF2MDFHdGE0Zm45a1hUME4yYU5BT00zam9RaXdGTmI5QlU5eUZOXy10SE9R?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "76e59d995f79",
       "title": "一有尿意即去廁所？ 醫生：恐訓練大腦發出錯誤訊號 教1 招抑制排尿衝動",
       "published": "2026-06-01T23:00:23+00:00",
@@ -419,35 +346,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "27d396ced250",
-      "title": "過量防腐劑恐導致高血壓！研究點名「4大地雷食物」 蔬菜、麵包都上榜",
-      "published": "2026-06-01T12:13:50+00:00",
-      "summary": "過量防腐劑恐導致高血壓！研究點名「4大地雷食物」 蔬菜、麵包都上榜&nbsp;&nbsp;祝你健康",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE51VkZkV1dYeDhoWUhQU0RROTFIWjZPazNJcnJwZW9wcU5RdjJMR3FtTmt0RjBQb25YajR0eFJLT29xSzlwZzJMYjlQZFA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "554d4b56a4a9",
