@@ -44,19 +44,19 @@ permalink: /news/salicylamide/
 
 ## 相關新聞（2 則）
 
-### [感冒季狂補維生素C？醫解析：能減輕症狀、但無法預防](https://news.google.com/rss/articles/CBMi1AJBVV95cUxNMTR6MDJTN1VpdHlMVjRuY1lJNjAyak5YODNQZGs5b2NlS1pEeGNpam8yaC1PWF9rb2dYb0owY0l4ODZoQWxnS01aOGJnRGhEajl3cXdLZm4zcWFfVmphSzZ2bUsxMG80MDVTQ3N4S0dMc0dKbHpOYnNBSXlMc091OHlBeWJtTTZ3SFdacEhNOUx0czN0ejZILXdQSXY4aG1ETG5hWUtxcEpMMXhoRFphY3ZzY0xLRVRJSU9RVDJiaTd1OElPbVNGUUlEa1REel96dUNsa0FVemcyZkZuWENpaTQ1amw2Y3I1bFJ4NHJ3Ql9EN2RhTm91eHY0NUJ0b0lvcnM2QWRqYTRFSnlvYi1IZW1SQzc5aEY0cFMzVW9SRFZEYWRwT2NnSDRScDFlVWdNYVFpZkJPNmNWeHFEdEM1Y0hGRHRtRXR1ZkQ2TVZOWllSaDFl?oc=5)
-
-2026-06-02 <span class="news-indication-tag">感冒</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi1AJBVV95cUxNMTR6MDJTN1VpdHlMVjRuY1lJNjAyak5YODNQZGs5b2NlS1pEeGNpam8yaC1PWF9rb2dYb0owY0l4ODZoQWxnS01aOGJnRGhEajl3cXdLZm4zcWFfVmphSzZ2bUsxMG80MDVTQ3N4S0dMc0dKbHpOYnNBSXlMc091OHlBeWJtTTZ3SFdacEhNOUx0czN0ejZILXdQSXY4aG1ETG5hWUtxcEpMMXhoRFphY3ZzY0xLRVRJSU9RVDJiaTd1OElPbVNGUUlEa1REel96dUNsa0FVemcyZkZuWENpaTQ1amw2Y3I1bFJ4NHJ3Ql9EN2RhTm91eHY0NUJ0b0lvcnM2QWRqYTRFSnlvYi1IZW1SQzc5aEY0cFMzVW9SRFZEYWRwT2NnSDRScDFlVWdNYVFpZkJPNmNWeHFEdEM1Y0hGRHRtRXR1ZkQ2TVZOWllSaDFl?oc=5)
-
----
-
 ### [吃維生素C防感冒？醫破迷思 但有1好處](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVm9nVWlTazdlQlhsbk9XNmVjcTlheElzcERITlE0cExFbzJ6YzExWUZRNlp3VnhrcUN2ZVdPTjNycTRabGVwQW0tWU5FeVYyYjh3OGVjRWM4aGtEd2FTWkNXRlBLUmdyZ3FOVDFUZEc0bHpJNEpiTGVmdE1Dc3BCbjI3TUxBTzl1RzRRdDhncw?oc=5)
 
 2026-06-02 <span class="news-indication-tag">感冒</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVm9nVWlTazdlQlhsbk9XNmVjcTlheElzcERITlE0cExFbzJ6YzExWUZRNlp3VnhrcUN2ZVdPTjNycTRabGVwQW0tWU5FeVYyYjh3OGVjRWM4aGtEd2FTWkNXRlBLUmdyZ3FOVDFUZEc0bHpJNEpiTGVmdE1Dc3BCbjI3TUxBTzl1RzRRdDhncw?oc=5)
+
+---
+
+### [多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要 - 健康新聞 - PChome Online 新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMijgFBVV95cUxQMkQ1Qm11OHVZRldxdjhueFdmVWNGVm1YcFNmaUtrdThpblFUeGpxcTFtd0YyVXBxbUFJd0hpeVk3MTVHUXhnU0VxU3dFTC1vN2ZOb1I1b3RpU2JyX0oyaTJJSXF2MDFHdGE0Zm45a1hUME4yYU5BT00zam9RaXdGTmI5QlU5eUZOXy10SE9R?oc=5)
+
+2026-06-01 <span class="news-indication-tag">感冒</span>
+
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMijgFBVV95cUxQMkQ1Qm11OHVZRldxdjhueFdmVWNGVm1YcFNmaUtrdThpblFUeGpxcTFtd0YyVXBxbUFJd0hpeVk3MTVHUXhnU0VxU3dFTC1vN2ZOb1I1b3RpU2JyX0oyaTJJSXF2MDFHdGE0Zm45a1hUME4yYU5BT00zam9RaXdGTmI5QlU5eUZOXy10SE9R?oc=5)
 
 ---
 

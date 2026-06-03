@@ -1,26 +1,98 @@
 {
-  "generated": "2026-06-03T02:53:37.416249+00:00",
-  "count": 8,
+  "generated": "2026-06-03T08:08:18.558432+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "2e1b76029030",
-      "title": "感冒季狂補維生素C？醫解析：能減輕症狀、但無法預防",
-      "published": "2026-06-02T09:01:24+00:00",
+      "id": "3335f6f0170a",
+      "title": "最新研究顯示不孕症與女性提早停經存在顯著關聯 - GeneOnline News",
+      "published": "2026-06-03T06:11:29+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNMTR6MDJTN1VpdHlMVjRuY1lJNjAyak5YODNQZGs5b2NlS1pEeGNpam8yaC1PWF9rb2dYb0owY0l4ODZoQWxnS01aOGJnRGhEajl3cXdLZm4zcWFfVmphSzZ2bUsxMG80MDVTQ3N4S0dMc0dKbHpOYnNBSXlMc091OHlBeWJtTTZ3SFdacEhNOUx0czN0ejZILXdQSXY4aG1ETG5hWUtxcEpMMXhoRFphY3ZzY0xLRVRJSU9RVDJiaTd1OElPbVNGUUlEa1REel96dUNsa0FVemcyZkZuWENpaTQ1amw2Y3I1bFJ4NHJ3Ql9EN2RhTm91eHY0NUJ0b0lvcnM2QWRqYTRFSnlvYi1IZW1SQzc5aEY0cFMzVW9SRFZEYWRwT2NnSDRScDFlVWdNYVFpZkJPNmNWeHFEdEM1Y0hGRHRtRXR1ZkQ2TVZOWllSaDFl?oc=5"
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQNnhTdUQtVV96SThxUlA3M3p5ZDBLamtKX3duMWU5YnJuZmNKTnVvOHBWTy1OX29rTktVX0VtbG9DenJ5YWVWTnMyVmJEdFBwTV9XQk9wWm5qMFhRMU8xbXRLNS1za2E1dzZHWWktMnZ1TTV5OU1ySlA3RGlQV2JnRTJ2LWVnZzRjbHFIOWc3SDgxSjdmdTZNT2UzR2ZQVk54dmxvb1U0NlVaVFJRYXJsVl92QzFyQmQ3Z2NiOVRZa2tUdEk5TWJvVkpVTkpYbnVYbTBCSEdieWQ1X1YtVjctNTV6ZTBFaUdvWVBxS0NmMzVRMTRKa2RCR21pYUtQbEkyQm83ZXoxd2hmcXBoaUZjMXBUaGd6UWZGUFluazd1cjBaOE13bXJEYThWTVUxOU5zbllmQlRCUTdadkFvUHo3ZktUVTQyQQ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
+          "name": "menopause",
+          "keyword": "停經",
           "related_drugs": [
             {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e2352c12c852",
+      "title": "更年期8年平均胖5.4公斤！營養師：增肌才是關鍵非減脂",
+      "published": "2026-06-03T05:37:39+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQSDhPQ2J3eVlJYW9GVlFJbmgtZmNQQjdhYWZRbDh0YlhxMHA0ajZEdjRkVm1ma3N2VjhKUTc3VEVvZjltRF9HSEx3Yk1ESFRObFM3XzRxMFRVVzBRQ3p2TnpaLThiaXROcEs1azE2ejNPT191dmc4NjYwNDlySzdVak5WQnJsUjI2ekJaYnVyclF0WVktcDUxMVUzZTVyZkp2ZmNXOUFaWjFGYkwwS1h0YllNaG95amRaYmYyZU1RSVdnbmZPLVRZdWZnS0s3aVdxdTdOcGVKdDFZcUktTUVOX19Tc1YyT0NiNXNidlV1Qjdrc01QWFVsUzdDZ0hOdVlUTzNwOXRzRFFuVjdLR29wNERJTjktRG9obGlmMHlKT3lhMlE3TkNvTVVBdFFVOFdpdkFhYTlHOENqZ0FIY090LXFQZVlLSUh3a1VHOVdCZ2lBMnNHUXJB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5f1adea528cc",
+      "title": "好命生醫引進代謝體檢測，單次抽血有望提早 10 年預測阿茲海默症風險 - GeneOnline News",
+      "published": "2026-06-03T04:51:38+00:00",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcTAxWmIyUkFiQkpfZzE1aDRocHlFNV96X2xBRGhUblJsdFFXTzR5RFBneEpkLURpNTE0VFROV29NeERtMHFCcGJqYkNjZmQyTHhRRENvRE1OeTVaTDk2WVNGNjFZNWx0bGpYQkRWWTVXa1ZHdDdyR3Z1c255Y0N2R3B5YlNIbF9wT1o0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -51,24 +123,24 @@
       ]
     },
     {
-      "id": "8c1b8b7045d7",
-      "title": "高膽固醇＋視力退化恐加速失智！最新研究揭「2大可逆風險」",
-      "published": "2026-06-01T15:50:52+00:00",
+      "id": "fbac38f4afbb",
+      "title": "多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要 - 健康新聞 - PChome Online 新聞 - PChome Online 新聞",
+      "published": "2026-06-01T23:21:04+00:00",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDTS1POWVUeW00STAzRVdmMkdkUWtBbkhickFFZU9jODh4SGtLSXNKZXdkX1B2TGFVNk9BdC1vWjdvR054cTc3X2dEMEl0c1MzMUJpRV9idkpOUk1LcXfSAWNBVV95cUxOaG5xZTBjd2IzVHMwUXQ3bzBLT0JuMDl3MHd1OWZ6N1QxTmViWmE5eUx3QUFQMWx4el9TNWYtb08wd1RjRFRxdzJzQ19aUEhyMlNuWFg0d2ZYbDNETEFrdktDY2M?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMkQ1Qm11OHVZRldxdjhueFdmVWNGVm1YcFNmaUtrdThpblFUeGpxcTFtd0YyVXBxbUFJd0hpeVk3MTVHUXhnU0VxU3dFTC1vN2ZOb1I1b3RpU2JyX0oyaTJJSXF2MDFHdGE0Zm45a1hUME4yYU5BT00zam9RaXdGTmI5QlU5eUZOXy10SE9R?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
+          "name": "common cold",
+          "keyword": "感冒",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }
@@ -140,13 +212,13 @@
       ]
     },
     {
-      "id": "b28fb8042e6d",
+      "id": "6225040e2bd7",
       "title": "AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究",
       "published": "2026-06-01T10:47:00+00:00",
       "sources": [
         {
-          "name": "Yahoo股市",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNbXM2am5qRGgzemhROWsxcHNaa3d4WE1hM1NMQ0hFX3VHZFp6QjFxbkZLYWxieEdSTUN4RkJxRTVkMDBMTjJndUJBQ2RjVnZ2RGgyZVlhTGx6RmFxdFVNUGlEc3FoNGpNS2ROeHk1aXpGcWZvRmJOWjBhdzVpMGtmendyel9UV3EtaVF6YUhrQTM1LUdYc3Zxb3U4SjlIVWtIODdQQnFnc2VFbzhSZmgzVWF6Y0tnUDlucDVkM1hQQ3pJUGdtUzd5Y3hsaUFYelFPVW96UFUzZy14UDVVRTl1OVlDVHEwRFJrajQtaVRXVGJsVmtXM3pYX09jdFVBZFM1TU9lRGVhVkFrRlFzZ0lTbmM4d2FnT2xGQmpPRjRKU0NycnRsOFlxM3ZveU1yN0FCUkJfYlBoOTZ6QmxSNjJuR2Fjcm9Pd1U?oc=5"
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPTEVOaWdlMU5YVEdHbm5NWFlCazVzU1NFUW1LR0hQeFBTMWpxRzdOaTRuTm1meFR6eHJTREJIRVd0Mno2cmxDV0hJa2cyRTg4TmZqVmc2bXhQcHJUcXJDUzU3aUxVVWhjNWZNVFdNaGxnNE9nbnE5VTJiZHhzYzk3LXd3T05xWGgyRHA2YnkzbUJzN0UxY1Q5cEQ4SFpWeTN5Mk15S1lsNnN4MW1RWEtFRW1hdUNxRDFiMzlUVUJKT1dLcVpHYmdLaEtDSkFmd21DdUpOenRwR2FCZnNKdURTMTUySHB3MGp3anRtZFJVbjd1b0VPRVdWWkFzei1Md3MwR1g5TmpLSzNTbXNCUFlkR3FhUE5LS0dPUnVabWpNNVJuWmlsVTlxbFVTTTlxQjA?oc=5"
         }
       ],
       "keywords": [
@@ -158,124 +230,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1fc3a5010af8",
-      "title": "上班族快看！最新研究曝「1種久坐」可預防失智症",
-      "published": "2026-06-01T03:38:00+00:00",
-      "sources": [
-        {
-          "name": "造咖",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUMndfaWh4M1VXaFN2eEI2bmNFcWgxa0d1RXMtMkRCd1BXb3Z2enlJRUxhMWJQZjJRYUtOQmIyOVVVTU85bXgzTA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9339045d88a1",
-      "title": "狂吃蔬果不會罹大腸癌？營養師曝「這國民點心」週吃2次能降風險",
-      "published": "2026-06-01T02:02:39+00:00",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kSmp5VzdQb19UbXFpdUV3R0ZtQWRKbTN4R1BSeWc1bVBIYzAzcTUxczl3djNZZzIxdTJFR1RmbzZidHh4NHhfcFVFN09EMmZNTTcyNHZXRjItR1I0dlhkZ005ZlJvZ1hjVjhNZHJn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8d2f04bf5b0c",
-      "title": "45歲後身材失控不是你的錯 營養師揭4關鍵：吃越少內臟脂肪囤越多",
-      "published": "2026-05-30T07:30:00+00:00",
-      "sources": [
-        {
-          "name": "ETtoday新聞雲",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RR3l2V2JWRlJzR09wSkF0bGdJZWhmN1hjT1JJdmZxOVdOcW9TUXVKNWJWdHdGOWk2YWtqbDA0NjBQNzBldUp5ZXRkcWpleUxiUVE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }

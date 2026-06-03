@@ -1,8 +1,185 @@
 {
-  "last_updated": "2026-06-03T02:53:37.384887+00:00",
-  "total_count": 19,
-  "matched_count": 8,
+  "last_updated": "2026-06-03T08:08:18.527651+00:00",
+  "total_count": 22,
+  "matched_count": 7,
   "news": [
+    {
+      "id": "444e788373c4",
+      "title": "AI假醫師捏造多吃綠香蕉改善腎功能和夜尿假訊息",
+      "published": "2026-06-03T07:55:43+00:00",
+      "summary": "AI假醫師捏造多吃綠香蕉改善腎功能和夜尿假訊息&nbsp;&nbsp;台灣事實查核中心",
+      "sources": [
+        {
+          "name": "台灣事實查核中心",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON200VmxIamRLaGRCbHF2WEFiSk4yLTI1MVlJcmFWQm82YmtJR3dVcGtMRUdfaUtzRDBfTm5ZbnZmcERhTjhCblN5NGdmUEtCT3VsTUZnaEhFNWJETU96WTNyMmJITEFudDEyNnlfVnY0X3RYU2xQc19uRXoxMEoxS25CWGNyZmwtVVdiRHA3M1Q2NElJMnhyZHBEcWlMWC01VjJwUGw0Q21XcVlpWHF0LUJTUzdUZU5xTmlEVVdCY1F3Sjdk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "79e218b1dc74",
+      "title": "研究：胸腺健康決定長壽與否 3習慣恐短命",
+      "published": "2026-06-03T07:37:11+00:00",
+      "summary": "研究：胸腺健康決定長壽與否 3習慣恐短命&nbsp;&nbsp;Yahoo新聞研究：一個「被遺忘器官」或許能預測你的壽命- 國際&nbsp;&nbsp;中時新聞網「被遺忘的器官」竟能預測壽命？科學家揭密人體健康新指標&nbsp;&nbsp;蕃新聞被遺忘的器官可以預測你的壽命&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQblBxMGFkZTkyNmxNMG1aMVRsakZiei16dVZ6MXR1MXZoTW5QR1JHSGRUWjMxT3hTUG9nNE84RTY1cHBnWFYtaURjanZRaGpSUHIzMXF0R05rV0NxZTBPRHAxNDZJN3hfdlpNaTRDSlRTUmZhc1pQaUZaWXRNQnVhd255QXNOcVN1Vm55ZFJVN1IwMkFkQ29aRE1NUVk3X0pMNjBaS0pGNVpsWXdfdDFFSmVzbjRhUjllX2RYQ2dEOV9NaHNhX19mUGR0eDFHeUVEQXIwNjJzOHdyemZNanBJS2M3a3NxVGxzZ2stZTM2Y0hJb3BQbUhVUjdCTFFEd0JRaXRUU0dFVUJ1OEJMU0JoY3RiTXphZzZhSkVNX1AxOHdWNnM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3335f6f0170a",
+      "title": "最新研究顯示不孕症與女性提早停經存在顯著關聯 - GeneOnline News",
+      "published": "2026-06-03T06:11:29+00:00",
+      "summary": "最新研究顯示不孕症與女性提早停經存在顯著關聯&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQNnhTdUQtVV96SThxUlA3M3p5ZDBLamtKX3duMWU5YnJuZmNKTnVvOHBWTy1OX29rTktVX0VtbG9DenJ5YWVWTnMyVmJEdFBwTV9XQk9wWm5qMFhRMU8xbXRLNS1za2E1dzZHWWktMnZ1TTV5OU1ySlA3RGlQV2JnRTJ2LWVnZzRjbHFIOWc3SDgxSjdmdTZNT2UzR2ZQVk54dmxvb1U0NlVaVFJRYXJsVl92QzFyQmQ3Z2NiOVRZa2tUdEk5TWJvVkpVTkpYbnVYbTBCSEdieWQ1X1YtVjctNTV6ZTBFaUdvWVBxS0NmMzVRMTRKa2RCR21pYUtQbEkyQm83ZXoxd2hmcXBoaUZjMXBUaGd6UWZGUFluazd1cjBaOE13bXJEYThWTVUxOU5zbllmQlRCUTdadkFvUHo3ZktUVTQyQQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e2352c12c852",
+      "title": "更年期8年平均胖5.4公斤！營養師：增肌才是關鍵非減脂",
+      "published": "2026-06-03T05:37:39+00:00",
+      "summary": "更年期8年平均胖5.4公斤！營養師：增肌才是關鍵非減脂&nbsp;&nbsp;Yahoo新聞不用補雌激素 中醫針灸茶飲改善更年期潮熱失眠&nbsp;&nbsp;大纪元45歲後身材失控不是你的錯 營養師揭4關鍵：吃越少內臟脂肪囤越多&nbsp;&nbsp;ETtoday新聞雲更年期不只是荷爾蒙變化：日常代謝與生活管理逐漸受到關注&nbsp;&nbsp;蕃新聞熱潮紅要吃什麼？營養師揭更年期燥熱、盜汗飲食調整重點&nbsp;&nbsp;四季線上4gTV",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQSDhPQ2J3eVlJYW9GVlFJbmgtZmNQQjdhYWZRbDh0YlhxMHA0ajZEdjRkVm1ma3N2VjhKUTc3VEVvZjltRF9HSEx3Yk1ESFRObFM3XzRxMFRVVzBRQ3p2TnpaLThiaXROcEs1azE2ejNPT191dmc4NjYwNDlySzdVak5WQnJsUjI2ekJaYnVyclF0WVktcDUxMVUzZTVyZkp2ZmNXOUFaWjFGYkwwS1h0YllNaG95amRaYmYyZU1RSVdnbmZPLVRZdWZnS0s3aVdxdTdOcGVKdDFZcUktTUVOX19Tc1YyT0NiNXNidlV1Qjdrc01QWFVsUzdDZ0hOdVlUTzNwOXRzRFFuVjdLR29wNERJTjktRG9obGlmMHlKT3lhMlE3TkNvTVVBdFFVOFdpdkFhYTlHOENqZ0FIY090LXFQZVlLSUh3a1VHOVdCZ2lBMnNHUXJB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5f1adea528cc",
+      "title": "好命生醫引進代謝體檢測，單次抽血有望提早 10 年預測阿茲海默症風險 - GeneOnline News",
+      "published": "2026-06-03T04:51:38+00:00",
+      "summary": "好命生醫引進代謝體檢測，單次抽血有望提早 10 年預測阿茲海默症風險&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcTAxWmIyUkFiQkpfZzE1aDRocHlFNV96X2xBRGhUblJsdFFXTzR5RFBneEpkLURpNTE0VFROV29NeERtMHFCcGJqYkNjZmQyTHhRRENvRE1OeTVaTDk2WVNGNjFZNWx0bGpYQkRWWTVXa1ZHdDdyR3Z1c255Y0N2R3B5YlNIbF9wT1o0?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "556d02395eac",
+      "title": "胃酸倒流折磨身心新技術提供精準診斷 助患者盡快治療改善生活質素",
+      "published": "2026-06-03T04:08:19+00:00",
+      "summary": "胃酸倒流折磨身心新技術提供精準診斷 助患者盡快治療改善生活質素&nbsp;&nbsp;香港經濟日報HKET胃食道逆流盛行率達10%！中醫：肝脾胃氣機失調是主因&nbsp;&nbsp;Yahoo新聞胃酸倒流屬常見都市病 用藥後未見改善或需手術治療&nbsp;&nbsp;星島頭條胃鏡正常不等於無胃酸倒流 延長監測助精準診斷 手術改善生活質素&nbsp;&nbsp;on.cc東網胃酸倒流可致「火燒心」 損害睡眠及生活質素&nbsp;&nbsp;晴報 Sky Post",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxOYnktUHdlWEtnaC1UYm5VbnpFWEZCSzkyN3FEbGJZQmh0SldYM2t6OXVGci1vS1ZNeTFtMXdzRW9pSlE3T1FweE5ZcXdwVHQ1ME1RNXZNenR0UkRFMGNNR1dhZHNUY3hucXI3M3gwVmJBUlVQcDAxWXR5b0MwME5lX3dQSzN5aFI3S3lHWnRCWDlLVWhCbENqWi1DRXNaRDRmYjd3d1RPMnVpeE5kZjBVT0JxblhUOHBxUGxvdXhPVDlJaHU2d1M2eFlxNE42bFBvSHVoWF9jQzF2MmJrN3lOV0plcldxVjNpSmtnY0M5QWtjRnNGS3g1Z3FYWlB1alJCazJkSkNfQk1xeElrUGNtSElySlR0RFJXMFV2SDVtTnpJMG1pQWJidkJRMDhKLUFYbHVZTGhjMkFZS1YtU1pYRXhkLTNvM0JUbzZqUVZ3c3c0dERYS3dvTTZUXzlSX3lMLWh4RTZhY1cwZ1pUZzZ4VnhTcnpWMVVXaURoUXFaZkVNdWp3TXBoS0FuUVZ0UXo1alRuc0owZjhvQ0hnZHRIZC1rM2Z6ellpMUY4OWQ5b1hyTTBzYVJvN1ZkRTJFYkhDc1A1Ul9ZQ3M5T2NXUnk3UENtOA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "802d867ed96e",
+      "title": "健康指南｜“看相識健康”不靠譜",
+      "published": "2026-06-03T03:35:29+00:00",
+      "summary": "健康指南｜“看相識健康”不靠譜&nbsp;&nbsp;紫荊網",
+      "sources": [
+        {
+          "name": "紫荊網",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMDNvaUJiR1dOZXhQeGlpWERVRDk2NXVITWJzSTI0MmF0ampyOGxPeTVuSFRHRXZkVEpHM2doR3d3VWxIQ2tQeVJGZGdJdHBPX0pLYk1uRGhpNlowUEtaME93SGk0UnRTdEhxUVhqd0p6X3BCZHNMZ3l4OThFZUZSbzN0YXdOTzA2N2t1RjNZcXM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0df3b4ba19a1",
+      "title": "保健品別一起吞營養師揭6NG組合：鈣＋魚油害便祕- 健康",
+      "published": "2026-06-03T03:09:22+00:00",
+      "summary": "保健品別一起吞營養師揭6NG組合：鈣＋魚油害便祕- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NbnoyUGRwRTBnQ3ZYSG1TdTVHMHJneUk4cTl4Y1NYOXRTYlZjLTFGSnZSWGJCOWdtQktab3E5b2pNclR3NHN6VElXZlZONF9SNzAzTm8zNG1UMFk2dWdaNXptZzVqMUFkUzE5LVln?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f37850eaa549",
+      "title": "Google請求批准投放3200萬隻蚊子入境，讓雄蚊不育「絕子絕孫」 - 鏈新聞 ABMedia",
+      "published": "2026-06-03T00:54:47+00:00",
+      "summary": "Google請求批准投放3200萬隻蚊子入境，讓雄蚊不育「絕子絕孫」&nbsp;&nbsp;鏈新聞 ABMedia谷歌想放飛3200萬隻蚊子 對抗登革熱&nbsp;&nbsp;中國評論新聞對抗登革熱與茲卡病毒 Google擬釋放3200萬隻「絕育蚊」&nbsp;&nbsp;Taiwan NewsGoogle要放「3200萬隻蚊子」超狂目的曝光 居民怕爆：別在我家後院實驗&nbsp;&nbsp;Yahoo新聞討論牆 | Google要放「3200萬隻蚊子」超狂目的曝光 居民怕爆：別在我家後院實驗&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "鏈新聞 ABMedia",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DZFN6TDFHenVLcHpkcTFPMHZ5OWhiQWIyTTR3YkR5ekdaV2FqYXQ1X0tVZ3N4SlRYVXVzUkpDSEktWVpsdnB5LWNwOA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "36df6882b5c5",
       "title": "婚姻有益健康？專家：關鍵在於關係品質",
@@ -17,14 +194,14 @@
       "matched_keywords": []
     },
     {
-      "id": "e8b62eb7aee4",
-      "title": "東張西望丨「播毒渣男」現身認有性病 三女圍繞對質：我抽組織下面流幾多血呀 拒道歉冷笑受訪",
-      "published": "2026-06-02T14:00:00+00:00",
-      "summary": "東張西望丨「播毒渣男」現身認有性病 三女圍繞對質：我抽組織下面流幾多血呀 拒道歉冷笑受訪&nbsp;&nbsp;stheadline.com熱話｜21歲「播毒渣男」令多名少女慘染性病 「東張女神」大逼供 網民：「根本係害人」&nbsp;&nbsp;橙新聞東張西望｜渣男在迫問之下終承認有性病 拒絕道歉訪問中還笑得出&nbsp;&nbsp;香港01東張西望｜交友App驚現「播毒渣男」 多名少女慘染性病 揭21歲嫩男「倒模式恐怖套路」&nbsp;&nbsp;GOtrip.hk東張西望｜受害人放蛇引播毒渣男上釣 H先生8字回應甘詠寧大逼供&nbsp;&nbsp;nmplus.hk",
+      "id": "cf527f97724f",
+      "title": "21歲播毒男疑有反轉內幕？醫生拆解HPV型號不同兩大關鍵 不排除透過其他性伴侶感染 - UHK 港生活",
+      "published": "2026-06-02T18:07:17+00:00",
+      "summary": "21歲播毒男疑有反轉內幕？醫生拆解HPV型號不同兩大關鍵 不排除透過其他性伴侶感染&nbsp;&nbsp;UHK 港生活熱話｜21歲「播毒渣男」令多名少女慘染性病 「東張女神」大逼供 網民：「根本係害人」&nbsp;&nbsp;橙新聞東張西望｜渣男在迫問之下終承認有性病 拒絕道歉訪問中還笑得出&nbsp;&nbsp;香港01東張西望｜H先生被東張女神追問下親認感染HPV 去過gym room暫停營業深層清潔&nbsp;&nbsp;am730東張西望｜受害人放蛇引播毒渣男上釣 H先生8字回應甘詠寧大逼供&nbsp;&nbsp;nmplus.hk",
       "sources": [
         {
-          "name": "stheadline.com",
-          "link": "https://news.google.com/rss/articles/CBMisARBVV95cUxNR0dZbVpUZXFIUTRlZ1JYRjlPTk93UGZuX0pBRDZpemEyRjhlWGFQdWJqRmx0SmZiY1N2eGZ0cW03NFE1S3hoZm1IN210bUtRdVh5UV9TSUk1ZkpZWWF5ZmtWYnpIeDV3eEhrM2dJRWpid0ktb1FrMFh5NWNfcW5MTGRldEY1Vmk1NVZ3YXBPZkZOQ2F4LWUteDZQWjFFTVlwSVNEQmpBb2pzamtSSFNmR3RfRG1aYTFfaFU4OTRrRGZ3QW5HUERNbE5YQ1ZBYXZXbEJyT0ZkU2E2eS14eldKUUhxdThqdzNaX3lhN01YeWlSbndKMm5VYm9FbU9vbmxwVEJPWFE5NXE2R3lIMHdULUlSRnA1amhvMnFiNVV6c1JBTzA3NUppTlJVS0xjTS1VX0xPQXpFNk03d1RPQUJTWkZQMnl2aGhkeGwxTmRoMGcxTUlJSF9hNkVGakd5OXp4T0ItdjVldzBqaGlOWlJ4TDFpY2VjZmZBZmJxQUtKcGxWRnNoZVBxR1VVbGV1bERWNnE1M3kyVm5tcWQyOGZMd25kOUdFNHlod2VHZGVqMkk1MDNWR3UyemlsSERKdzNRMWhvV2dsTFBXMHZDUWpyd25PTE5DZlNQbzNvaU9TdDE0LVJ3emVLclIzczl6YmJkb04weGh3V2xpdjJIQjh0MjFLSkVaSjNsT29GZlExclhrWXgtam9ZRE5CdlNhaWRsaWF2SkNxWUp3ZEZ5TXRzSg?oc=5"
+          "name": "UHK 港生活",
+          "link": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxPU2oxb256NUhKeE9IeTBPcFllTW5zY1ozZDRVUS14Z3hJOGtWXzdRejNyWDJLaXJ3REY3MTVlYml5QktpZHVzckJnSE10OXR6am10NTBOVzFVdF9rVW5kdlZlU1lEcjA5Zkw3WHpha0lYdm1iTGhmNjdUay00dUt3NDdKOENUSEVYYjFsNDdJTGNwMDJlSk9Ka2JLVGVneDlzUHZvUlZSZUJZV1l1UXhqSTE2S05XaW9rUDhsbXJDY3MzYlhhNFAxTWd0b0FmczJQNVROX3JITG9MbVVfSENpd3YxcllXTDhKaGZyUHgtVjBheDlPWW5EZjF6V3pQR05FMWt4NlVESGJqYmd1UndpM0ZEMk1QSXQtNXR2WExndHo5VEk5U050YktrMzMwOGREbHJRSkJzN1hBcnp4Zjk0Vld2R1c1MmtDbE1JRlQwNHB1X0x3QjZBcnRucXhSczhqdF9TU3ZVN09jakFvSHVvNHlIcHdPMFpDYWI3OGIyZnBUNTl4QmdtM1dqTmw3dVp6SWJkUl9GVHRDdlVnWjB4SGMwRGM4Zmo2TmtrWlhwZVpvQjRlTk00NjlmQzZxaFdjNnRPcHZhUmpVY1lENzZpSzRqa0ZfVHY3RHRPWmQtRWNFQXBkZlpiYmxXU0I0ZDE5bzh4RVhDZTFISDZvNENB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -41,31 +218,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "2e1b76029030",
-      "title": "感冒季狂補維生素C？醫解析：能減輕症狀、但無法預防",
-      "published": "2026-06-02T09:01:24+00:00",
-      "summary": "感冒季狂補維生素C？醫解析：能減輕症狀、但無法預防&nbsp;&nbsp;Yahoo新聞健康網》天天補維生素C還感冒 醫揭關鍵原因&nbsp;&nbsp;自由健康網多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要 | CTWANT&nbsp;&nbsp;LINE TODAY多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNMTR6MDJTN1VpdHlMVjRuY1lJNjAyak5YODNQZGs5b2NlS1pEeGNpam8yaC1PWF9rb2dYb0owY0l4ODZoQWxnS01aOGJnRGhEajl3cXdLZm4zcWFfVmphSzZ2bUsxMG80MDVTQ3N4S0dMc0dKbHpOYnNBSXlMc091OHlBeWJtTTZ3SFdacEhNOUx0czN0ejZILXdQSXY4aG1ETG5hWUtxcEpMMXhoRFphY3ZzY0xLRVRJSU9RVDJiaTd1OElPbVNGUUlEa1REel96dUNsa0FVemcyZkZuWENpaTQ1amw2Y3I1bFJ4NHJ3Ql9EN2RhTm91eHY0NUJ0b0lvcnM2QWRqYTRFSnlvYi1IZW1SQzc5aEY0cFMzVW9SRFZEYWRwT2NnSDRScDFlVWdNYVFpZkJPNmNWeHFEdEM1Y0hGRHRtRXR1ZkQ2TVZOWllSaDFl?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "977efb3c945c",
@@ -106,32 +258,6 @@
       ]
     },
     {
-      "id": "bc1bb28543be",
-      "title": "「被遺忘的器官」竟能預測壽命？科學家揭密人體健康新指標",
-      "published": "2026-06-02T03:08:00+00:00",
-      "summary": "「被遺忘的器官」竟能預測壽命？科學家揭密人體健康新指標&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZODAxVV9LRFV6RlUxSHRPVXBmaXJhcnZNdEN6STFyZ21leGI1S2RVV1FmaV81SXZnc1JqdEtpZU1NUDlQY0t2b21fYlJvMS1wZ0E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f67a203c4883",
-      "title": "谷歌想放飛3200萬隻蚊子 對抗登革熱",
-      "published": "2026-06-02T03:03:37+00:00",
-      "summary": "谷歌想放飛3200萬隻蚊子 對抗登革熱&nbsp;&nbsp;中國評論新聞對抗登革熱與茲卡病毒 Google擬釋放3200萬隻「絕育蚊」&nbsp;&nbsp;Taiwan NewsGoogle要放「3200萬隻蚊子」超狂目的曝光 居民怕爆：別在我家後院實驗&nbsp;&nbsp;Yahoo新聞討論牆 | Google要放「3200萬隻蚊子」超狂目的曝光 居民怕爆：別在我家後院實驗&nbsp;&nbsp;LINE TODAYGoogle擬放出千萬隻「臥底蚊」！料與雌蚊交配即絕子絕孫？黑科技對抗登革熱+寨卡病毒&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "中國評論新聞",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HWVNZRnpjTmxvZmpWcUtDYkNrdFUzNGRpOV9lbmtxeWotbktUOW5zRlpyU0JlMlRnVkJSU3lTMGxIYzRtOU5JLTdJSFhJSlg4cC15aDNtWXFhNXVfYTd6bFhldHp3Rjg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "755f2a38dc5f",
       "title": "焦慮與飲食有關嗎？大腦的「膽鹼」濃度可能是關鍵 - TechNews 科技新報",
       "published": "2026-06-01T23:47:55+00:00",
@@ -145,42 +271,42 @@
       "matched_keywords": []
     },
     {
-      "id": "e517e1b98a16",
-      "title": "一有尿意即去廁所？ 醫生：恐訓練大腦發出錯誤訊號 教1 招抑制排尿衝動",
-      "published": "2026-06-01T23:00:23+00:00",
-      "summary": "一有尿意即去廁所？ 醫生：恐訓練大腦發出錯誤訊號 教1 招抑制排尿衝動&nbsp;&nbsp;巴士的報",
+      "id": "fbac38f4afbb",
+      "title": "多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要 - 健康新聞 - PChome Online 新聞 - PChome Online 新聞",
+      "published": "2026-06-01T23:21:04+00:00",
+      "summary": "多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞感冒季狂補維生素C？醫解析：能減輕症狀、但無法預防&nbsp;&nbsp;Yahoo新聞健康網》天天補維生素C還感冒 醫揭關鍵原因&nbsp;&nbsp;自由健康網多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要 | CTWANT&nbsp;&nbsp;LINE TODAY多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOWVVUU2xvQURrSzh4WVNEOTlwQkwtVm1MWV8tUzIwbkM1UWtPMDRDVzQ2blh4YWk2ODA4VkNwMlJtQUE2YWVxeXVONFlxV2NyZXhMajNYdTI1Mk4xTmJCcF9ydXRYN1E4N3BiRjNnSFp3VkxpY3llM3lRNDNHRThxa015MHppQTRvdmdGRGpxRUZCODFsVXF1THhwX1FoN0hzZVlyOEZ4XzdDek02bnc2VXh1SlRadFItQkdEQVRoQTQxX0pKVjlsUEdrOFU3SVVVMm81VmprbldmYzJRdDNDSGh4eXk2bnliRWtvTjRheXJCYVRwSXQwcDJ2QndwVEFZQ012NS1iSU1JNWREcUhUcHlmSEJzRGNZaC1CN3Zxd0R3NDRVSjZBUDQxVHVCLXo5V0IzVUFvYXA1V19CVU9LZGk4N0RiSnIwNzRPNkM5WnNDWC1LOFAtdFVWNlhvNVllRkFtRnpWdVZIQzNuQTE0?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8c1b8b7045d7",
-      "title": "高膽固醇＋視力退化恐加速失智！最新研究揭「2大可逆風險」",
-      "published": "2026-06-01T15:50:52+00:00",
-      "summary": "高膽固醇＋視力退化恐加速失智！最新研究揭「2大可逆風險」&nbsp;&nbsp;元氣網不是耳聾！「1功能退化」大增失智風險：害神經網絡混亂&nbsp;&nbsp;祝你健康",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDTS1POWVUeW00STAzRVdmMkdkUWtBbkhickFFZU9jODh4SGtLSXNKZXdkX1B2TGFVNk9BdC1vWjdvR054cTc3X2dEMEl0c1MzMUJpRV9idkpOUk1LcXfSAWNBVV95cUxOaG5xZTBjd2IzVHMwUXQ3bzBLT0JuMDl3MHd1OWZ6N1QxTmViWmE5eUx3QUFQMWx4el9TNWYtb08wd1RjRFRxdzJzQ19aUEhyMlNuWFg0d2ZYbDNETEFrdktDY2M?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMkQ1Qm11OHVZRldxdjhueFdmVWNGVm1YcFNmaUtrdThpblFUeGpxcTFtd0YyVXBxbUFJd0hpeVk3MTVHUXhnU0VxU3dFTC1vN2ZOb1I1b3RpU2JyX0oyaTJJSXF2MDFHdGE0Zm45a1hUME4yYU5BT00zam9RaXdGTmI5QlU5eUZOXy10SE9R?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
+          "name": "common cold",
+          "keyword": "感冒",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }
       ]
+    },
+    {
+      "id": "76e59d995f79",
+      "title": "一有尿意即去廁所？ 醫生：恐訓練大腦發出錯誤訊號 教1 招抑制排尿衝動",
+      "published": "2026-06-01T23:00:23+00:00",
+      "summary": "一有尿意即去廁所？ 醫生：恐訓練大腦發出錯誤訊號 教1 招抑制排尿衝動&nbsp;&nbsp;bastillepost.com",
+      "sources": [
+        {
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOWVVUU2xvQURrSzh4WVNEOTlwQkwtVm1MWV8tUzIwbkM1UWtPMDRDVzQ2blh4YWk2ODA4VkNwMlJtQUE2YWVxeXVONFlxV2NyZXhMajNYdTI1Mk4xTmJCcF9ydXRYN1E4N3BiRjNnSFp3VkxpY3llM3lRNDNHRThxa015MHppQTRvdmdGRGpxRUZCODFsVXF1THhwX1FoN0hzZVlyOEZ4XzdDek02bnc2VXh1SlRadFItQkdEQVRoQTQxX0pKVjlsUEdrOFU3SVVVMm81VmprbldmYzJRdDNDSGh4eXk2bnliRWtvTjRheXJCYVRwSXQwcDJ2QndwVEFZQ012NS1iSU1JNWREcUhUcHlmSEJzRGNZaC1CN3Zxd0R3NDRVSjZBUDQxVHVCLXo5V0IzVUFvYXA1V19CVU9LZGk4N0RiSnIwNzRPNkM5WnNDWC1LOFAtdFVWNlhvNVllRkFtRnpWdVZIQzNuQTE0?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "9bb580a3178d",
@@ -262,14 +388,14 @@
       ]
     },
     {
-      "id": "b28fb8042e6d",
+      "id": "6225040e2bd7",
       "title": "AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究",
       "published": "2026-06-01T10:47:00+00:00",
-      "summary": "AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究&nbsp;&nbsp;Yahoo股市",
+      "summary": "AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究&nbsp;&nbsp;yesmedia.com.tw",
       "sources": [
         {
-          "name": "Yahoo股市",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNbXM2am5qRGgzemhROWsxcHNaa3d4WE1hM1NMQ0hFX3VHZFp6QjFxbkZLYWxieEdSTUN4RkJxRTVkMDBMTjJndUJBQ2RjVnZ2RGgyZVlhTGx6RmFxdFVNUGlEc3FoNGpNS2ROeHk1aXpGcWZvRmJOWjBhdzVpMGtmendyel9UV3EtaVF6YUhrQTM1LUdYc3Zxb3U4SjlIVWtIODdQQnFnc2VFbzhSZmgzVWF6Y0tnUDlucDVkM1hQQ3pJUGdtUzd5Y3hsaUFYelFPVW96UFUzZy14UDVVRTl1OVlDVHEwRFJrajQtaVRXVGJsVmtXM3pYX09jdFVBZFM1TU9lRGVhVkFrRlFzZ0lTbmM4d2FnT2xGQmpPRjRKU0NycnRsOFlxM3ZveU1yN0FCUkJfYlBoOTZ6QmxSNjJuR2Fjcm9Pd1U?oc=5"
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPTEVOaWdlMU5YVEdHbm5NWFlCazVzU1NFUW1LR0hQeFBTMWpxRzdOaTRuTm1meFR6eHJTREJIRVd0Mno2cmxDV0hJa2cyRTg4TmZqVmc2bXhQcHJUcXJDUzU3aUxVVWhjNWZNVFdNaGxnNE9nbnE5VTJiZHhzYzk3LXd3T05xWGgyRHA2YnkzbUJzN0UxY1Q5cEQ4SFpWeTN5Mk15S1lsNnN4MW1RWEtFRW1hdUNxRDFiMzlUVUJKT1dLcVpHYmdLaEtDSkFmd21DdUpOenRwR2FCZnNKdURTMTUySHB3MGp3anRtZFJVbjd1b0VPRVdWWkFzei1Md3MwR1g5TmpLSzNTbXNCUFlkR3FhUE5LS0dPUnVabWpNNVJuWmlsVTlxbFVTTTlxQjA?oc=5"
         }
       ],
       "matched_keywords": [
@@ -298,127 +424,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "1fc3a5010af8",
-      "title": "上班族快看！最新研究曝「1種久坐」可預防失智症",
-      "published": "2026-06-01T03:38:00+00:00",
-      "summary": "上班族快看！最新研究曝「1種久坐」可預防失智症&nbsp;&nbsp;造咖不是所有久坐都傷腦？研究發現：坐著做這些事可明顯降低風險&nbsp;&nbsp;元氣網研究：同是久坐 看電視和讀書的失智風險大不同&nbsp;&nbsp;新唐人電視台久坐能防失智？最新研究揭密：長者「動腦型久坐」預防失智症上身&nbsp;&nbsp;優活健康網研究：久坐期間保持大腦活躍 或降低失智症風險&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "造咖",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUMndfaWh4M1VXaFN2eEI2bmNFcWgxa0d1RXMtMkRCd1BXb3Z2enlJRUxhMWJQZjJRYUtOQmIyOVVVTU85bXgzTA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9339045d88a1",
-      "title": "狂吃蔬果不會罹大腸癌？營養師曝「這國民點心」週吃2次能降風險",
-      "published": "2026-06-01T02:02:39+00:00",
-      "summary": "狂吃蔬果不會罹大腸癌？營養師曝「這國民點心」週吃2次能降風險&nbsp;&nbsp;祝你健康前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kSmp5VzdQb19UbXFpdUV3R0ZtQWRKbTN4R1BSeWc1bVBIYzAzcTUxczl3djNZZzIxdTJFR1RmbzZidHh4NHhfcFVFN09EMmZNTTcyNHZXRjItR1I0dlhkZ005ZlJvZ1hjVjhNZHJn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8d2f04bf5b0c",
-      "title": "45歲後身材失控不是你的錯 營養師揭4關鍵：吃越少內臟脂肪囤越多",
-      "published": "2026-05-30T07:30:00+00:00",
-      "summary": "45歲後身材失控不是你的錯 營養師揭4關鍵：吃越少內臟脂肪囤越多&nbsp;&nbsp;ETtoday新聞雲25歲就開始「雌激素崩盤」！上班族每天吃的東西竟是元凶&nbsp;&nbsp;中天新聞網更年期「4大魔王」曝！專家示警：1症狀常被忽略 小心咖啡也是雷&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網更年期不只是荷爾蒙變化：日常代謝與生活管理逐漸受到關注&nbsp;&nbsp;蕃新聞熱潮紅要吃什麼？營養師揭更年期燥熱、盜汗飲食調整重點&nbsp;&nbsp;四季線上4gTV",
-      "sources": [
-        {
-          "name": "ETtoday新聞雲",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RR3l2V2JWRlJzR09wSkF0bGdJZWhmN1hjT1JJdmZxOVdOcW9TUXVKNWJWdHdGOWk2YWtqbDA0NjBQNzBldUp5ZXRkcWpleUxiUVE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "554d4b56a4a9",

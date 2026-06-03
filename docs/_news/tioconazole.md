@@ -14,7 +14,7 @@ permalink: /news/tioconazole/
 ---
 
 <p class="key-answer" data-question="Tioconazole 有什麼相關新聞？">
-<strong>Tioconazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Tioconazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ permalink: /news/tioconazole/
 <p><a href="{{ '/drugs/tioconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [45歲後身材失控不是你的錯 營養師揭4關鍵：吃越少內臟脂肪囤越多](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RR3l2V2JWRlJzR09wSkF0bGdJZWhmN1hjT1JJdmZxOVdOcW9TUXVKNWJWdHdGOWk2YWtqbDA0NjBQNzBldUp5ZXRkcWpleUxiUVE?oc=5)
+### [最新研究顯示不孕症與女性提早停經存在顯著關聯 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQNnhTdUQtVV96SThxUlA3M3p5ZDBLamtKX3duMWU5YnJuZmNKTnVvOHBWTy1OX29rTktVX0VtbG9DenJ5YWVWTnMyVmJEdFBwTV9XQk9wWm5qMFhRMU8xbXRLNS1za2E1dzZHWWktMnZ1TTV5OU1ySlA3RGlQV2JnRTJ2LWVnZzRjbHFIOWc3SDgxSjdmdTZNT2UzR2ZQVk54dmxvb1U0NlVaVFJRYXJsVl92QzFyQmQ3Z2NiOVRZa2tUdEk5TWJvVkpVTkpYbnVYbTBCSEdieWQ1X1YtVjctNTV6ZTBFaUdvWVBxS0NmMzVRMTRKa2RCR21pYUtQbEkyQm83ZXoxd2hmcXBoaUZjMXBUaGd6UWZGUFluazd1cjBaOE13bXJEYThWTVUxOU5zbllmQlRCUTdadkFvUHo3ZktUVTQyQQ?oc=5)
 
-2026-05-30 <span class="news-indication-tag">更年期</span>
+2026-06-03 <span class="news-indication-tag">停經</span>
 
-來源：[ETtoday新聞雲](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RR3l2V2JWRlJzR09wSkF0bGdJZWhmN1hjT1JJdmZxOVdOcW9TUXVKNWJWdHdGOWk2YWtqbDA0NjBQNzBldUp5ZXRkcWpleUxiUVE?oc=5)
+來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQNnhTdUQtVV96SThxUlA3M3p5ZDBLamtKX3duMWU5YnJuZmNKTnVvOHBWTy1OX29rTktVX0VtbG9DenJ5YWVWTnMyVmJEdFBwTV9XQk9wWm5qMFhRMU8xbXRLNS1za2E1dzZHWWktMnZ1TTV5OU1ySlA3RGlQV2JnRTJ2LWVnZzRjbHFIOWc3SDgxSjdmdTZNT2UzR2ZQVk54dmxvb1U0NlVaVFJRYXJsVl92QzFyQmQ3Z2NiOVRZa2tUdEk5TWJvVkpVTkpYbnVYbTBCSEdieWQ1X1YtVjctNTV6ZTBFaUdvWVBxS0NmMzVRMTRKa2RCR21pYUtQbEkyQm83ZXoxd2hmcXBoaUZjMXBUaGd6UWZGUFluazd1cjBaOE13bXJEYThWTVUxOU5zbllmQlRCUTdadkFvUHo3ZktUVTQyQQ?oc=5)
+
+---
+
+### [更年期8年平均胖5.4公斤！營養師：增肌才是關鍵非減脂](https://news.google.com/rss/articles/CBMi1wJBVV95cUxQSDhPQ2J3eVlJYW9GVlFJbmgtZmNQQjdhYWZRbDh0YlhxMHA0ajZEdjRkVm1ma3N2VjhKUTc3VEVvZjltRF9HSEx3Yk1ESFRObFM3XzRxMFRVVzBRQ3p2TnpaLThiaXROcEs1azE2ejNPT191dmc4NjYwNDlySzdVak5WQnJsUjI2ekJaYnVyclF0WVktcDUxMVUzZTVyZkp2ZmNXOUFaWjFGYkwwS1h0YllNaG95amRaYmYyZU1RSVdnbmZPLVRZdWZnS0s3aVdxdTdOcGVKdDFZcUktTUVOX19Tc1YyT0NiNXNidlV1Qjdrc01QWFVsUzdDZ0hOdVlUTzNwOXRzRFFuVjdLR29wNERJTjktRG9obGlmMHlKT3lhMlE3TkNvTVVBdFFVOFdpdkFhYTlHOENqZ0FIY090LXFQZVlLSUh3a1VHOVdCZ2lBMnNHUXJB?oc=5)
+
+2026-06-03 <span class="news-indication-tag">更年期</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi1wJBVV95cUxQSDhPQ2J3eVlJYW9GVlFJbmgtZmNQQjdhYWZRbDh0YlhxMHA0ajZEdjRkVm1ma3N2VjhKUTc3VEVvZjltRF9HSEx3Yk1ESFRObFM3XzRxMFRVVzBRQ3p2TnpaLThiaXROcEs1azE2ejNPT191dmc4NjYwNDlySzdVak5WQnJsUjI2ekJaYnVyclF0WVktcDUxMVUzZTVyZkp2ZmNXOUFaWjFGYkwwS1h0YllNaG95amRaYmYyZU1RSVdnbmZPLVRZdWZnS0s3aVdxdTdOcGVKdDFZcUktTUVOX19Tc1YyT0NiNXNidlV1Qjdrc01QWFVsUzdDZ0hOdVlUTzNwOXRzRFFuVjdLR29wNERJTjktRG9obGlmMHlKT3lhMlE3TkNvTVVBdFFVOFdpdkFhYTlHOENqZ0FIY090LXFQZVlLSUh3a1VHOVdCZ2lBMnNHUXJB?oc=5)
 
 ---
 
