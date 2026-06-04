@@ -3,7 +3,7 @@ layout: default
 title: "阿茲海默症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "阿茲海默症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "阿茲海默症（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="阿茲海默症（dementia） 有什麼相關新聞？">
-<strong>阿茲海默症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>阿茲海默症（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mRHFtMXExdmEyX09XNUY0dFNvN3dLRlBzbjNiRGNkbHU4ajIzZFh1cUVDY2c2bW0yR0lMQm9OemVSbVdsbU5uWEl5S0NWblRUX1E?oc=5)
 
 2026-06-03
 
 來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mRHFtMXExdmEyX09XNUY0dFNvN3dLRlBzbjNiRGNkbHU4ajIzZFh1cUVDY2c2bW0yR0lMQm9OemVSbVdsbU5uWEl5S0NWblRUX1E?oc=5)
+
+---
+
+### [常常忘東忘西？最新研究：每天來點「布里」或「高達」全脂起司，竟然能降低 13% 的失智風險！🧠✨ - Women's Health](https://news.google.com/rss/articles/CBMirgFBVV95cUxOR1JGN244aW5Sc2ZESk5VYlVPZkpRN0liZEtZN2oxZnFMRzlDUFBJVlliSTJVenYxcFVYR2NRQmlJdVg3RXBDQmcxYzh6WEszcDZVTzhhUWR6U1F6OEJFT2pkVDZtel9EQmVhaTcyXzVTZkpjVXdXQWtIMXJiMjIxLS1WNFZnMWRMT0VCRXFsLTFpaWtyRXoxVGJaMEw4UzhMV2JNVkNfWE1kZlVQMGc?oc=5)
+
+2026-06-03
+
+來源：[Women's Health](https://news.google.com/rss/articles/CBMirgFBVV95cUxOR1JGN244aW5Sc2ZESk5VYlVPZkpRN0liZEtZN2oxZnFMRzlDUFBJVlliSTJVenYxcFVYR2NRQmlJdVg3RXBDQmcxYzh6WEszcDZVTzhhUWR6U1F6OEJFT2pkVDZtel9EQmVhaTcyXzVTZkpjVXdXQWtIMXJiMjIxLS1WNFZnMWRMT0VCRXFsLTFpaWtyRXoxVGJaMEw4UzhMV2JNVkNfWE1kZlVQMGc?oc=5)
 
 ---
 

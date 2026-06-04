@@ -1,8 +1,230 @@
 {
-  "last_updated": "2026-06-03T23:26:51.738205+00:00",
-  "total_count": 23,
-  "matched_count": 6,
+  "last_updated": "2026-06-04T02:48:44.525894+00:00",
+  "total_count": 28,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "d7cd28845ad5",
+      "title": "東張西望｜播毒男遭3女追罵隱瞞HPV病史 避入連鎖健身中心 分店停業深層清潔",
+      "published": "2026-06-04T02:17:56+00:00",
+      "summary": "東張西望｜播毒男遭3女追罵隱瞞HPV病史 避入連鎖健身中心 分店停業深層清潔&nbsp;&nbsp;橙新聞21歲「播毒渣男」背景震撼！隱瞞性病兼連環出軌多名少女中招染HPV性病附性傳播感染3大預防方法&nbsp;&nbsp;星島頭條HPV懶人包｜健身室都會感染？即睇HPV傳播途徑+病毒類別+預防方法&nbsp;&nbsp;香港0121歲播毒男疑有反轉內幕？醫生拆解HPV型號不同兩大關鍵 不排除透過其他性伴侶感染&nbsp;&nbsp;UHK 港生活「播毒渣男」最終回！H先生撐拐杖赴約被3苦主圍剿 終改口親認感染HPV&nbsp;&nbsp;TVB",
+      "sources": [
+        {
+          "name": "橙新聞",
+          "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNY1JTYUdmSm1zY0pHOGRoVWNOYTVZeEp6dmJ3TGdSWE9EZVY5cmhWTWxPcjBMMlBWU01KYXp6YnpRNXlrSFE1NllfSmlXYy0wVjlSLXQ1ZEZ3WmFHaFMybWcxYnY1VkM4NEZ2LU14Vm5SYmsyVHlGZmpJaFhMUjMwNFNQaWJjSzJLVEZOZU4tdERYLWVFMkhqY3VVUEE3aVcyOGM4aHJFb25BVm1lTXNFZFZYWXV2azlIalM5b1IzeDFPVk9NcldiUmFFOXFGZWxWZU9oZDVna3Mwc2ZtUV9ZbG9HU2FYOFJianZwMmJGWFIwN2Q3TmRlaTZWTkhXdGZmdDhlOEtmVVVyZHRZVXg1aE1idklLNV83T0NMYVdvWjgxc1k3Y3M4NWZMNGo5ZWljSWtRT3NJN3l6VDhEV3NHV0k0cUMyQjJqSzExYzhYV1pXMmZuSEVsc0JxVlFqbDZfbUdOS2N5ODFGSm1wWnFWT0h2LW4tREZyaG95SmdIVmp2TU5MSEhKZTc3RHFCeEdna3VTR2w2TWxlUU1EaXh4d3hsRTR1M1BhUmt5UWVmSldLVWhScVJQWm5LQk9mTm91a1c5ZUNnbW14OXRjUHl6bTdSWHhyc0xkMnc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8011eedef5ab",
+      "title": "【抗癌】甜食不一定有害！有些「甜」反而可能幫助降低癌症風險- 書房",
+      "published": "2026-06-03T23:20:00+00:00",
+      "summary": "【抗癌】甜食不一定有害！有些「甜」反而可能幫助降低癌症風險- 書房&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XMWlTeHNIVmdZUUlyZTI0NXJxTU92cm5HQXRUaFk1WU9VODNsSG95b1FUS1FzTTRBd1VXb19GWWZMdmt1Nm1qbmZ4SkhWYVg4N2hCTi1aVDFMRTd2SkpN?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "c104363ed4b3",
       "title": "補維生素D不補鎂等於白吃了",
@@ -12,6 +234,19 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMHBObUN3Tk5TQ1U4cS1BZXNMNnhEMHQ4UHVXaVBoVXpfbkRhMEJYWkVvU0dkYmFvU0JiSzUtVkVIZG16T0pVa0ZFYV9yQnBOemFGZW1XTWhHZW9GYXNQNXY4UTBkdThJeWtrSXhVazZTbk1Qb0NEeW83Sll0UmdERUJPZ0FKc0RtbzVCYkVJTkJEbEVFeXJxZVV6Y1MtT2dlaGlBdG1DUUg5UzVJeHFiVElmZnNIQWVva3l1QXBudTFaUFgyTnNIcHBWUGVLdmdRMUp0cmpnMXNmWlJPaTJjNVBsaWk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3c705f475225",
+      "title": "越焦慮越缺鎂！專家點名「手搖飲、咖啡」族群：失眠又狂跑廁所",
+      "published": "2026-06-03T19:00:00+00:00",
+      "summary": "越焦慮越缺鎂！專家點名「手搖飲、咖啡」族群：失眠又狂跑廁所&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JY3J2Z2FPTTNqbHNuSHFpamdtZDA1ZFVlN1Y5NExPM2NLdE1xX241REM0eFNkT21UeG11SVdpS0Vvcm9lV0JfSU1jbU5uUUsz?oc=5"
         }
       ],
       "matched_keywords": []
@@ -309,19 +544,6 @@
       "matched_keywords": []
     },
     {
-      "id": "4a2fa43e3dea",
-      "title": "東張西望｜播毒渣男引爆全城熱話 健身室疑似因其足跡而深層清潔",
-      "published": "2026-06-03T14:10:20+00:00",
-      "summary": "東張西望｜播毒渣男引爆全城熱話 健身室疑似因其足跡而深層清潔&nbsp;&nbsp;香港01熱話｜21歲「播毒渣男」令多名少女慘染性病 「東張女神」大逼供 網民：「根本係害人」&nbsp;&nbsp;橙新聞HPV懶人包｜健身室都會感染？即睇HPV傳播途徑+病毒類別+預防方法&nbsp;&nbsp;香港01東張西望｜21歲籃球教練H先生被起底 「東張女神」甘詠寧大逼供問是否有HPV四處播毒&nbsp;&nbsp;AM730東張西望｜受害人放蛇引播毒渣男上釣 H先生8字回應甘詠寧大逼供&nbsp;&nbsp;nmplus.hk",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNa1J6ZXNfTUY3TllRZ2F2bE93UURHdEZJTGkyZExKdzF1dTk0LXZiM2hPOGlhLTZjM3Z3eXhFYXpORWo0TzdSMy1tczRvbDJiaVlGNzYzUl8ybUd4R3BvMmMxSnRiS1lHMGQ3NC1VT09mcGd0TzhuV3NtajVkZUtvd09PSnJPeXY0blJhQ1BDbmtRenBoUGVxWE1FaVVqQnNjV2JtOGJ1U0g2eUl1bUZsT3dGd2lTZmlHRmUzbXF1V2ZMd2RkSk9Rdks4MDQ5VXlFYXluZDc4SWZiY21vcGJBVzV3cWkxbDBLbU5OVlJpOHNFTXlIZlBaSDhseTdHc0h4dWpnWkRpcm1DX3lseVFVbE9ubkRVNlZHaFR1cE1VWEp4TEE1elBNcVhLWDVnaWM3RFJKQ0ZlM1hmSjFVRjFDdmZLcjJBUWRsUmE1Uk1ZOVdGZUpiY3czZm1URDhVd2lYMHByY1ZkVGVOMnV6dEpKQmV3U0FWaUdwZmtRbGZWVmFyZnYzbHZMODAyTW56T3NiSlBhNWV1WGt3Z054TmxhX2ZQTjJySXVQa1UxUUc4YTRuU0d5WGY3aGktNFc2b0JIcGxha09jTGE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "d8b1c06ce47f",
       "title": "從細胞、晶片到AI 打造全球精準健康王國",
       "published": "2026-06-03T11:22:52+00:00",
@@ -449,6 +671,31 @@
       ]
     },
     {
+      "id": "d6aedb401533",
+      "title": "常常忘東忘西？最新研究：每天來點「布里」或「高達」全脂起司，竟然能降低 13% 的失智風險！🧠✨ - Women's Health",
+      "published": "2026-06-03T05:30:26+00:00",
+      "summary": "常常忘東忘西？最新研究：每天來點「布里」或「高達」全脂起司，竟然能降低 13% 的失智風險！🧠✨&nbsp;&nbsp;Women's Health",
+      "sources": [
+        {
+          "name": "Women's Health",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR1JGN244aW5Sc2ZESk5VYlVPZkpRN0liZEtZN2oxZnFMRzlDUFBJVlliSTJVenYxcFVYR2NRQmlJdVg3RXBDQmcxYzh6WEszcDZVTzhhUWR6U1F6OEJFT2pkVDZtel9EQmVhaTcyXzVTZkpjVXdXQWtIMXJiMjIxLS1WNFZnMWRMT0VCRXFsLTFpaWtyRXoxVGJaMEw4UzhMV2JNVkNfWE1kZlVQMGc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "c18757a5c3c0",
       "title": "不用補雌激素 中醫針灸茶飲改善更年期潮熱失眠",
       "published": "2026-06-03T05:00:00+00:00",
@@ -511,14 +758,27 @@
       ]
     },
     {
-      "id": "0620b3a8aced",
+      "id": "556d02395eac",
       "title": "胃酸倒流折磨身心新技術提供精準診斷 助患者盡快治療改善生活質素",
       "published": "2026-06-03T04:08:19+00:00",
-      "summary": "胃酸倒流折磨身心新技術提供精準診斷 助患者盡快治療改善生活質素&nbsp;&nbsp;topick.hket.com胃食道逆流盛行率達10%！中醫：肝脾胃氣機失調是主因&nbsp;&nbsp;Yahoo新聞胃酸倒流屬常見都市病 用藥後未見改善或需手術治療&nbsp;&nbsp;星島頭條胃鏡正常不等於無胃酸倒流 延長監測助精準診斷 手術改善生活質素&nbsp;&nbsp;on.cc東網胃酸倒流可致「火燒心」 損害睡眠及生活質素&nbsp;&nbsp;晴報 Sky Post",
+      "summary": "胃酸倒流折磨身心新技術提供精準診斷 助患者盡快治療改善生活質素&nbsp;&nbsp;香港經濟日報HKET胃食道逆流盛行率達10%！中醫：肝脾胃氣機失調是主因&nbsp;&nbsp;Yahoo新聞胃酸倒流屬常見都市病 用藥後未見改善或需手術治療&nbsp;&nbsp;星島頭條胃酸倒流｜新型無導管檢查 延長監測助精準診斷 配合藥物及手術 改善生活質素&nbsp;&nbsp;healthyD胃酸倒流可致「火燒心」 損害睡眠及生活質素&nbsp;&nbsp;晴報 Sky Post",
       "sources": [
         {
-          "name": "topick.hket.com",
+          "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxOYnktUHdlWEtnaC1UYm5VbnpFWEZCSzkyN3FEbGJZQmh0SldYM2t6OXVGci1vS1ZNeTFtMXdzRW9pSlE3T1FweE5ZcXdwVHQ1ME1RNXZNenR0UkRFMGNNR1dhZHNUY3hucXI3M3gwVmJBUlVQcDAxWXR5b0MwME5lX3dQSzN5aFI3S3lHWnRCWDlLVWhCbENqWi1DRXNaRDRmYjd3d1RPMnVpeE5kZjBVT0JxblhUOHBxUGxvdXhPVDlJaHU2d1M2eFlxNE42bFBvSHVoWF9jQzF2MmJrN3lOV0plcldxVjNpSmtnY0M5QWtjRnNGS3g1Z3FYWlB1alJCazJkSkNfQk1xeElrUGNtSElySlR0RFJXMFV2SDVtTnpJMG1pQWJidkJRMDhKLUFYbHVZTGhjMkFZS1YtU1pYRXhkLTNvM0JUbzZqUVZ3c3c0dERYS3dvTTZUXzlSX3lMLWh4RTZhY1cwZ1pUZzZ4VnhTcnpWMVVXaURoUXFaZkVNdWp3TXBoS0FuUVZ0UXo1alRuc0owZjhvQ0hnZHRIZC1rM2Z6ellpMUY4OWQ5b1hyTTBzYVJvN1ZkRTJFYkhDc1A1Ul9ZQ3M5T2NXUnk3UENtOA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8eb50b87ec1b",
+      "title": "客製化沙發不只換顏色 骨架結構成選購新關鍵",
+      "published": "2026-06-03T03:37:00+00:00",
+      "summary": "客製化沙發不只換顏色 骨架結構成選購新關鍵&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmeThKN0pDdHczam5PTm5xRnBTbjhvcXBlaE92RUpHQkRLLVpNSHZ3RFAxRm03V2owOXZLVTVoSkJkTU1aQTAxSWN0TmNHZVJydVE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -537,14 +797,14 @@
       "matched_keywords": []
     },
     {
-      "id": "0df3b4ba19a1",
+      "id": "711835e8f5d4",
       "title": "保健品別一起吞營養師揭6NG組合：鈣＋魚油害便祕- 健康",
       "published": "2026-06-03T03:09:22+00:00",
       "summary": "保健品別一起吞營養師揭6NG組合：鈣＋魚油害便祕- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NbnoyUGRwRTBnQ3ZYSG1TdTVHMHJneUk4cTl4Y1NYOXRTYlZjLTFGSnZSWGJCOWdtQktab3E5b2pNclR3NHN6VElXZlZONF9SNzAzTm8zNG1UMFk2dWdaNXptZzVqMUFkUzE5LVln?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTDJaZGFzaWxHRzF4UWZITTBpN1NsRWVOX2ZlSmNqWDdPTmg4QTB6RTFNenZGWGpJVWpxYWNvRVBaZV9YUHJGRGhzSWxvRVlFeHFsLV9DQ3FKRjhIUWhGbldiVWxTdnBjLWRLUlBFeGstZ3RqdGpiSUo2c0RKVGZ4TFNGNm9pVS1CX0ptenAwNA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -576,6 +836,31 @@
       "matched_keywords": []
     },
     {
+      "id": "2e1b76029030",
+      "title": "感冒季狂補維生素C？醫解析：能減輕症狀、但無法預防",
+      "published": "2026-06-02T09:01:24+00:00",
+      "summary": "感冒季狂補維生素C？醫解析：能減輕症狀、但無法預防&nbsp;&nbsp;Yahoo新聞健康網》天天補維生素C還感冒 醫揭關鍵原因&nbsp;&nbsp;自由健康網多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要 | CTWANT&nbsp;&nbsp;LINE TODAY多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要&nbsp;&nbsp;民視新聞網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNMTR6MDJTN1VpdHlMVjRuY1lJNjAyak5YODNQZGs5b2NlS1pEeGNpam8yaC1PWF9rb2dYb0owY0l4ODZoQWxnS01aOGJnRGhEajl3cXdLZm4zcWFfVmphSzZ2bUsxMG80MDVTQ3N4S0dMc0dKbHpOYnNBSXlMc091OHlBeWJtTTZ3SFdacEhNOUx0czN0ejZILXdQSXY4aG1ETG5hWUtxcEpMMXhoRFphY3ZzY0xLRVRJSU9RVDJiaTd1OElPbVNGUUlEa1REel96dUNsa0FVemcyZkZuWENpaTQ1amw2Y3I1bFJ4NHJ3Ql9EN2RhTm91eHY0NUJ0b0lvcnM2QWRqYTRFSnlvYi1IZW1SQzc5aEY0cFMzVW9SRFZEYWRwT2NnSDRScDFlVWdNYVFpZkJPNmNWeHFEdEM1Y0hGRHRtRXR1ZkQ2TVZOWllSaDFl?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "e3fa5102f4aa",
       "title": "焦慮與飲食有關嗎？大腦的「膽鹼」濃度可能是關鍵 | 科技新報 - LINE TODAY",
       "published": "2026-06-02T08:50:32+00:00",
@@ -584,6 +869,19 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zWHc4M1lXUExLLW45UFNDVVdFZkRQV0hBVW9HNXFlOC1sVU5ENlFYc2xzb1BNWDBFcmpEWENtWjRZWENHTkdralpsdlRwY2Z4YS1SMkN3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "89a1a5a5771d",
+      "title": "身體缺蛋白質會發訊號 研究揭腸道如何左右食物選擇",
+      "published": "2026-06-02T04:59:00+00:00",
+      "summary": "身體缺蛋白質會發訊號 研究揭腸道如何左右食物選擇&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQT21XaWZ4d2RybW4wZDI1eEREcUVkV0lzTGNlWURCcVhDNTVXa1lsMkF2OGhNLXZRdnhyT2xFbFltYzRBUGR4MDBNQWNFcm5ZakNtOWdtRkY1dy1PVWlSQ1F6alPSAWpBVV95cUxOY1U5U05fNmVMSHhvOFYwRGdyVTkwMGhSYmZxaDMyRXlzRnhfRm9FcnQ2ejVTOUhUOGZKZWttckprRGphekxpMzFUNVBjem1mSnREb0xScEFXNzNjb2FDYmdHZVBNWk96dkFR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -602,14 +900,14 @@
       "matched_keywords": []
     },
     {
-      "id": "59d3f7acbc2a",
+      "id": "a53a23bcc7f1",
       "title": "吃維生素C防感冒？醫破迷思 但有1好處",
       "published": "2026-06-02T03:14:28+00:00",
-      "summary": "吃維生素C防感冒？醫破迷思 但有1好處&nbsp;&nbsp;中時新聞網感冒季狂補維生素C？醫解析：能減輕症狀、但無法預防&nbsp;&nbsp;Yahoo新聞健康網》天天補維生素C還感冒 醫揭關鍵原因&nbsp;&nbsp;自由健康網多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要 | CTWANT&nbsp;&nbsp;LINE TODAY多吃維生素C能預防感冒？ 醫破解常見迷思：生活習慣更重要&nbsp;&nbsp;民視新聞網",
+      "summary": "吃維生素C防感冒？醫破迷思 但有1好處&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83aDFpR2p3eldjZ1BDV2IxOG5YNC1VZkhjSEpuWnVzMmYxT3NUeW4tM1dMX2NXSlJHeDkwSGZKbTd6TGFUODZsWWNndGdEQmNoeVhpNWdTQ2t3N3EzdVU0R0hDaDBIamJ3ZkpvOVd3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVm9nVWlTazdlQlhsbk9XNmVjcTlheElzcERITlE0cExFbzJ6YzExWUZRNlp3VnhrcUN2ZVdPTjNycTRabGVwQW0tWU5FeVYyYjh3OGVjRWM4aGtEd2FTWkNXRlBLUmdyZ3FOVDFUZEc0bHpJNEpiTGVmdE1Dc3BCbjI3TUxBTzl1RzRRdDhncw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -625,19 +923,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "e517e1b98a16",
-      "title": "一有尿意即去廁所？ 醫生：恐訓練大腦發出錯誤訊號 教1 招抑制排尿衝動",
-      "published": "2026-06-01T23:00:23+00:00",
-      "summary": "一有尿意即去廁所？ 醫生：恐訓練大腦發出錯誤訊號 教1 招抑制排尿衝動&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOWVVUU2xvQURrSzh4WVNEOTlwQkwtVm1MWV8tUzIwbkM1UWtPMDRDVzQ2blh4YWk2ODA4VkNwMlJtQUE2YWVxeXVONFlxV2NyZXhMajNYdTI1Mk4xTmJCcF9ydXRYN1E4N3BiRjNnSFp3VkxpY3llM3lRNDNHRThxa015MHppQTRvdmdGRGpxRUZCODFsVXF1THhwX1FoN0hzZVlyOEZ4XzdDek02bnc2VXh1SlRadFItQkdEQVRoQTQxX0pKVjlsUEdrOFU3SVVVMm81VmprbldmYzJRdDNDSGh4eXk2bnliRWtvTjRheXJCYVRwSXQwcDJ2QndwVEFZQ012NS1iSU1JNWREcUhUcHlmSEJzRGNZaC1CN3Zxd0R3NDRVSjZBUDQxVHVCLXo5V0IzVUFvYXA1V19CVU9LZGk4N0RiSnIwNzRPNkM5WnNDWC1LOFAtdFVWNlhvNVllRkFtRnpWdVZIQzNuQTE0?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "554d4b56a4a9",

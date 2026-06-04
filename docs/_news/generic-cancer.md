@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "腫瘤（generic_cancer） 相關新聞"
+title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "腫瘤（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
-# 腫瘤（generic_cancer） 相關新聞
+# 癌症（generic_cancer） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="腫瘤（generic_cancer） 有什麼相關新聞？">
-<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「腫瘤」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「癌症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,7 +75,15 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [【抗癌】甜食不一定有害！有些「甜」反而可能幫助降低癌症風險- 書房](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XMWlTeHNIVmdZUUlyZTI0NXJxTU92cm5HQXRUaFk1WU9VODNsSG95b1FUS1FzTTRBd1VXb19GWWZMdmt1Nm1qbmZ4SkhWYVg4N2hCTi1aVDFMRTd2SkpN?oc=5)
+
+2026-06-03
+
+來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XMWlTeHNIVmdZUUlyZTI0NXJxTU92cm5HQXRUaFk1WU9VODNsSG95b1FUS1FzTTRBd1VXb19GWWZMdmt1Nm1qbmZ4SkhWYVg4N2hCTi1aVDFMRTd2SkpN?oc=5)
+
+---
 
 ### [新型微創腎癌切除術 減心臟病人割腫瘤風險](https://news.google.com/rss/articles/CBMiywJBVV95cUxPRHNldVdnZUZrczM2Ymh6MmIzN2lRalJNSm9yaUZRUldMaDlvWHRxTk1PUEQ1SURWYTdpRjA2OFVxM3pMaXVGN2Z1ZHhYeDQzN3RubWVrOUFlSVE2eTRSQ1hRUUpFaGZmOUw0cXpnaXZobWNMMkRDSE9ZV21zdFhETVJnOUJLd0ZHcmhKTzdMbGJFd3JnUzQzeG96dHU0ZHpCSTA5UU4wenRQR3VBcDdNRXZXRDh3eXd6OV9sQWZyZmVBbHBJX0FaZDJxZEphU2FSemxhZ0hpaGlyU2p4a3VmdXNTVzhnNE5vUVdwb3NrV3VkcWZVZVNUQnBGajNrSHNNNVF1anlqOEVyc0hDV1JocDVZZDBQTkFNbUVIdk9FSThkX2FqNlNORXJBZk1OUzVXczdEUVBaNVNZMzZhWU43Y0gyZ2xPV1Bmb3A4?oc=5)
 
