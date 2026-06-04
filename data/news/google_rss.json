@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-04T21:24:36.754882+00:00",
+  "fetched_at": "2026-06-04T23:01:25.415262+00:00",
   "count": 28,
   "news": [
     {
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "57cd60751f6d",
-      "title": "手術化療都做了，為何癌症還復發？小心「身體缺氧、發炎」變癌細胞舒適圈：3關鍵防復發 - 幸福熟齡",
-      "published": "2026-06-04T07:40:00+00:00",
-      "summary": "手術化療都做了，為何癌症還復發？小心「身體缺氧、發炎」變癌細胞舒適圈：3關鍵防復發&nbsp;&nbsp;幸福熟齡",
-      "sources": [
-        {
-          "name": "幸福熟齡",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aTXRTN3I2RVlGNS11dmdLQzZRd3A2cDl1WFoyV3RKWk9lRVhDTE4tUFY3elAyN0hrWW9udjhTMHZ0TG9ZSVlvUXREcmVCTFgyc2ktakJhb3p3NUpyTVpFVXJ2X25QcnFoZ3czZGpqZ2RDNWlYRHY2dmJROA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "444e788373c4",
       "title": "AI假醫師捏造多吃綠香蕉改善腎功能和夜尿假訊息 - 台灣事實查核中心",
       "published": "2026-06-03T07:55:43+00:00",
@@ -48,6 +36,18 @@
         {
           "name": "台灣事實查核中心",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON200VmxIamRLaGRCbHF2WEFiSk4yLTI1MVlJcmFWQm82YmtJR3dVcGtMRUdfaUtzRDBfTm5ZbnZmcERhTjhCblN5NGdmUEtCT3VsTUZnaEhFNWJETU96WTNyMmJITEFudDEyNnlfVnY0X3RYU2xQc19uRXoxMEoxS25CWGNyZmwtVVdiRHA3M1Q2NElJMnhyZHBEcWlMWC01VjJwUGw0Q21XcVlpWHF0LUJTUzdUZU5xTmlEVVdCY1F3Sjdk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "57cd60751f6d",
+      "title": "手術化療都做了，為何癌症還復發？小心「身體缺氧、發炎」變癌細胞舒適圈：3關鍵防復發 - 幸福熟齡",
+      "published": "2026-06-04T07:40:00+00:00",
+      "summary": "手術化療都做了，為何癌症還復發？小心「身體缺氧、發炎」變癌細胞舒適圈：3關鍵防復發&nbsp;&nbsp;幸福熟齡",
+      "sources": [
+        {
+          "name": "幸福熟齡",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aTXRTN3I2RVlGNS11dmdLQzZRd3A2cDl1WFoyV3RKWk9lRVhDTE4tUFY3elAyN0hrWW9udjhTMHZ0TG9ZSVlvUXREcmVCTFgyc2ktakJhb3p3NUpyTVpFVXJ2X25QcnFoZ3czZGpqZ2RDNWlYRHY2dmJROA?oc=5"
         }
       ]
     },
@@ -64,18 +64,6 @@
       ]
     },
     {
-      "id": "8fcd7a5703df",
-      "title": "空腹運動更容易瘦？運動營養權威：女性進食後訓練，燃脂效果更好- 健康新聞- PChome Online 新聞 - PChome Online 新聞",
-      "published": "2026-06-04T02:00:00+00:00",
-      "summary": "空腹運動更容易瘦？運動營養權威：女性進食後訓練，燃脂效果更好- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTjVYYkNfcUs1SGIwNXdHWVVWRWFFOG1zX0pWS2RPb1lzalh3dzN1NF8tRnZycklhRVQ3LTlEX0JjQ0lDS3B3NVBsYjBjWDNyR2ZzRkVSZ0hoV282NVVBSjJTOWdHZXVvZWhDRnp0UjZxZ2pLMkRrZ1ZnYXVNaHBVenE5Z291TzlqQ1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "84c82ad55173",
       "title": "Google計畫在美國釋放3200萬隻蚊子！「生物Debug實驗」抗登革熱引熱議 - 加密城市CryptoCity",
       "published": "2026-06-03T09:21:00+00:00",
@@ -84,6 +72,18 @@
         {
           "name": "加密城市CryptoCity",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOejB2OHFOU1lyNzNmSnRZejRxOWNTekZZWm9rVEt4X1NicUNHVmR6MWdnUTRyaFplQWtMaDBXbEM4NkUxME9LM05RNkk1ZHdEQU1QNm5OM2s1Sl9zbHhLWUZhQ1FaSVFmaGJsbWVuUU1ic29ySnhONVZxQUt6bkJmTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8fcd7a5703df",
+      "title": "空腹運動更容易瘦？運動營養權威：女性進食後訓練，燃脂效果更好- 健康新聞- PChome Online 新聞 - PChome Online 新聞",
+      "published": "2026-06-04T02:00:00+00:00",
+      "summary": "空腹運動更容易瘦？運動營養權威：女性進食後訓練，燃脂效果更好- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTjVYYkNfcUs1SGIwNXdHWVVWRWFFOG1zX0pWS2RPb1lzalh3dzN1NF8tRnZycklhRVQ3LTlEX0JjQ0lDS3B3NVBsYjBjWDNyR2ZzRkVSZ0hoV282NVVBSjJTOWdHZXVvZWhDRnp0UjZxZ2pLMkRrZ1ZnYXVNaHBVenE5Z291TzlqQ1E?oc=5"
         }
       ]
     },
