@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-06-04T10:55:20.373937+00:00",
+  "last_updated": "2026-06-04T13:53:47.118937+00:00",
   "total_count": 28,
-  "matched_count": 10,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "2744a7f07855",
+      "title": "健康網》馬拉松後便血別輕忽！ 研究揭馬拉松族大腸健康隱憂",
+      "published": "2026-06-04T12:56:00+00:00",
+      "summary": "健康網》馬拉松後便血別輕忽！ 研究揭馬拉松族大腸健康隱憂&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HZ1JmSndQQ3JfVnF2S3U1dUFqRFJWMUY0ZmJiODJ6SXVnUkxORzJiLWY3LUc3eWRaRjZ0Y1dzLUxpMHRyT3dmdVRwQ2Y4RzRland3MUNuanhVMk5UaDNfbllhNnfSAWpBVV95cUxPR0ZUcUdxYi1VZkhaZ21xV2ZZX3hRbHdEeU1KUWpOOVVpZXZjRjJiSENnamIyVVFXVzlBcC1RSTZsM2c1RE1wUkgyMnQ4aFVKcE0tT0RjT2ZVVXBHWEVySVM4dlJETVZpRlJR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6e0ae8a0b5bf",
+      "title": "蟬病毒喉嚨痛如刀割極疲倦兒童更易感染？了解蟬病毒與鼻病毒分別",
+      "published": "2026-06-04T12:00:58+00:00",
+      "summary": "蟬病毒喉嚨痛如刀割極疲倦兒童更易感染？了解蟬病毒與鼻病毒分別&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNNXZpbC1NazdGaEVZdms3Z01DTHlibVdyeEU4XzI4WDNLbV8wU3JBNHpYa21vOHZrTEQ0ZXBUVlAyNjBBcFRYZVNkOEJYLWpLWnRYMVRwTUxqS2E4Q1hiZjNQMDRqcUEwUkZsLTVHX21ZVEV2ek5OY2pvWkVHSkhpaDhJV0w2Njl6ZjNhUkduNENrYTdxMHdVUkdsZThJaEpJYVpTZGEwWFNuWXJnakRYd0lIX0ttc29Lb1lMdnVVWHJEYTlqWmFLdmx0ZW9xem5kQnpMMTZabVVjZWloY0VlQnlReEZrWU5EWVZXRkRmU281SjFRNWh0RVJJaHNuRDNXTGtnSXdwbkpHcnZzYzRNOUZnN29LdFQwN2l4SGpEQk9jTTNsT1VXUTQ0Z1dJMWVpeWFOME5DYUVxU1JFR2FpaWY0UXktMWduZVJQMmpWMlRwaXhlenpFOWRSVmY1bVh0eWRWSDd3UHhLSmVNcElUNndxdFF6OU9EWmdFYUw2QnRkMlJNTHB5bGtiNEZKZ0tDUW9lR2h0V1JZeVd0ak41QmZGc1N0aF80d2s4aXFrY3ZqV2U3ekNiLWlMTQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "57cd60751f6d",
       "title": "手術化療都做了，為何癌症還復發？小心「身體缺氧、發炎」變癌細胞舒適圈：3關鍵防復發",
@@ -226,215 +252,6 @@
       "matched_keywords": []
     },
     {
-      "id": "00a6e785c04c",
-      "title": "癌王「胰臟癌」治療新曙光！ 基改病毒變抗癌武器 人體試驗傳突破",
-      "published": "2026-06-04T05:58:00+00:00",
-      "summary": "癌王「胰臟癌」治療新曙光！ 基改病毒變抗癌武器 人體試驗傳突破&nbsp;&nbsp;自由健康網台灣發現新靶點 提供胰臟癌免疫治療新方向&nbsp;&nbsp;大纪元癌王「胰臟癌」治療新曙光！ 基改病毒變抗癌武器&nbsp;&nbsp;鏡新聞科學家找到胰臟癌「防護牆」開關 化療與免疫細胞更容易攻進腫瘤&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92MWM0UWp0ck9wYXB3Ukd2MzFLVjRodTd5cmU1WkZSTlFuV3E0NmM0bEl4eXJnY2FWa1hxWkg5OGlJaUthU3hzNTBVdHQ1aGZhLTdMMDVOLTFDVi1yeXF5ODhxaWw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "腫瘤",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "ce309a6d07ce",
       "title": "40歲後真的會「斷崖式衰老」？博士解析身體出現的關鍵變化",
       "published": "2026-06-04T03:30:00+00:00",
@@ -480,7 +297,7 @@
       "id": "d7cd28845ad5",
       "title": "東張西望｜播毒男遭3女追罵隱瞞HPV病史 避入連鎖健身中心 分店停業深層清潔",
       "published": "2026-06-04T02:17:56+00:00",
-      "summary": "東張西望｜播毒男遭3女追罵隱瞞HPV病史 避入連鎖健身中心 分店停業深層清潔&nbsp;&nbsp;橙新聞21歲「播毒渣男」背景震撼！隱瞞性病兼連環出軌多名少女中招染HPV性病附性傳播感染3大預防方法&nbsp;&nbsp;星島頭條HPV懶人包｜健身室都會感染？即睇HPV傳播途徑+病毒類別+預防方法&nbsp;&nbsp;香港01東張西望｜21歲籃球教練H先生被起底 「東張女神」甘詠寧大逼供問是否有HPV四處播毒&nbsp;&nbsp;AM730「播毒渣男」H先生事件持續發酵網民將HPV病毒型號買六合彩中3字健身室變「死場」人心惶惶- 東張+&nbsp;&nbsp;myTV SUPER",
+      "summary": "東張西望｜播毒男遭3女追罵隱瞞HPV病史 避入連鎖健身中心 分店停業深層清潔&nbsp;&nbsp;橙新聞21歲「播毒渣男」背景震撼！隱瞞性病兼連環出軌多名少女中招染HPV性病附性傳播感染3大預防方法&nbsp;&nbsp;星島頭條HPV懶人包｜健身室都會感染？即睇HPV傳播途徑+病毒類別+預防方法&nbsp;&nbsp;香港01性病危機｜21歲渣男疑隱瞞生性病致多名女生受感染，醫生：HPV病毒增患癌風險| 健康解「迷」 - 醫學通識- 健康好人生&nbsp;&nbsp;etnet 經濟通「播毒渣男」H先生事件持續發酵網民將HPV病毒型號買六合彩中3字健身室變「死場」人心惶惶- 東張+&nbsp;&nbsp;myTV SUPER",
       "sources": [
         {
           "name": "橙新聞",
@@ -1279,19 +1096,6 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTGxjWGRFTnR4UWxTamZCVWpkcWJwOG01YVFXd25qU2M4YkdCWXVpaEczWFNvdEsyZktwZ3VaVTJBTVdQNmRsN1RjZ2UtM2lBU1FpT0preEdyOGxDOHNpT0h3SnY2ZUtyZTNSWVg1aWRlMVFBRlpyaGhnMHVmb0NXd3dldU5nd1Rpdm1FTTROTm85MnJpYXI2NFk1bjRrQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0f1540e7e2f8",
-      "title": "巴西兩名疑似患者確認未感染",
-      "published": "2026-06-02T12:00:00+00:00",
-      "summary": "巴西兩名疑似患者確認未感染&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLXFEamhyQWc3a2VWek4zXzhEcjVLTXJfMWk1Z25ZLVZGY2ROeHNjVHcweHBNRVlFbjlHTGdtRDMtTkJWakJjUDBGek9UbFNlVjE4OGoxYkttSHhXaEZwQ3czTlBldjhBdDRIU1pzWVV3cEdzeXlCNlpBTXREYTFwMXVXdlFoMXM5aGg1bDVRMFJ2aHczajd3UGZn?oc=5"
         }
       ],
       "matched_keywords": []

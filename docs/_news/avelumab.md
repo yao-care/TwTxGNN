@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [手術化療都做了，為何癌症還復發？小心「身體缺氧、發炎」變癌細胞舒適圈：3關鍵防復發](https://news.google.com/rss/articles/CBMie0FVX3lxTE5aTXRTN3I2RVlGNS11dmdLQzZRd3A2cDl1WFoyV3RKWk9lRVhDTE4tUFY3elAyN0hrWW9udjhTMHZ0TG9ZSVlvUXREcmVCTFgyc2ktakJhb3p3NUpyTVpFVXJ2X25QcnFoZ3czZGpqZ2RDNWlYRHY2dmJROA?oc=5)
 
 2026-06-04 <span class="news-indication-tag">癌症</span>
 
 來源：[幸福熟齡](https://news.google.com/rss/articles/CBMie0FVX3lxTE5aTXRTN3I2RVlGNS11dmdLQzZRd3A2cDl1WFoyV3RKWk9lRVhDTE4tUFY3elAyN0hrWW9udjhTMHZ0TG9ZSVlvUXREcmVCTFgyc2ktakJhb3p3NUpyTVpFVXJ2X25QcnFoZ3czZGpqZ2RDNWlYRHY2dmJROA?oc=5)
-
----
-
-### [癌王「胰臟癌」治療新曙光！ 基改病毒變抗癌武器 人體試驗傳突破](https://news.google.com/rss/articles/CBMiZEFVX3lxTE92MWM0UWp0ck9wYXB3Ukd2MzFLVjRodTd5cmU1WkZSTlFuV3E0NmM0bEl4eXJnY2FWa1hxWkg5OGlJaUthU3hzNTBVdHQ1aGZhLTdMMDVOLTFDVi1yeXF5ODhxaWw?oc=5)
-
-2026-06-04 <span class="news-indication-tag">腫瘤</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE92MWM0UWp0ck9wYXB3Ukd2MzFLVjRodTd5cmU1WkZSTlFuV3E0NmM0bEl4eXJnY2FWa1hxWkg5OGlJaUthU3hzNTBVdHQ1aGZhLTdMMDVOLTFDVi1yeXF5ODhxaWw?oc=5)
 
 ---
 
