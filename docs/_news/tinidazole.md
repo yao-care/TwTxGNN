@@ -14,7 +14,7 @@ permalink: /news/tinidazole/
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/tinidazole/
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [手術化療都做了，為何癌症還復發？小心「身體缺氧、發炎」變癌細胞舒適圈：3關鍵防復發](https://news.google.com/rss/articles/CBMie0FVX3lxTE5aTXRTN3I2RVlGNS11dmdLQzZRd3A2cDl1WFoyV3RKWk9lRVhDTE4tUFY3elAyN0hrWW9udjhTMHZ0TG9ZSVlvUXREcmVCTFgyc2ktakJhb3p3NUpyTVpFVXJ2X25QcnFoZ3czZGpqZ2RDNWlYRHY2dmJROA?oc=5)
+
+2026-06-04 <span class="news-indication-tag">癌症</span>
+
+來源：[幸福熟齡](https://news.google.com/rss/articles/CBMie0FVX3lxTE5aTXRTN3I2RVlGNS11dmdLQzZRd3A2cDl1WFoyV3RKWk9lRVhDTE4tUFY3elAyN0hrWW9udjhTMHZ0TG9ZSVlvUXREcmVCTFgyc2ktakJhb3p3NUpyTVpFVXJ2X25QcnFoZ3czZGpqZ2RDNWlYRHY2dmJROA?oc=5)
+
+---
+
+### [癌王「胰臟癌」治療新曙光！ 基改病毒變抗癌武器 人體試驗傳突破](https://news.google.com/rss/articles/CBMiZEFVX3lxTE92MWM0UWp0ck9wYXB3Ukd2MzFLVjRodTd5cmU1WkZSTlFuV3E0NmM0bEl4eXJnY2FWa1hxWkg5OGlJaUthU3hzNTBVdHQ1aGZhLTdMMDVOLTFDVi1yeXF5ODhxaWw?oc=5)
+
+2026-06-04 <span class="news-indication-tag">腫瘤</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE92MWM0UWp0ck9wYXB3Ukd2MzFLVjRodTd5cmU1WkZSTlFuV3E0NmM0bEl4eXJnY2FWa1hxWkg5OGlJaUthU3hzNTBVdHQ1aGZhLTdMMDVOLTFDVi1yeXF5ODhxaWw?oc=5)
+
+---
 
 ### [【抗癌】甜食不一定有害！有些「甜」反而可能幫助降低癌症風險- 書房](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XMWlTeHNIVmdZUUlyZTI0NXJxTU92cm5HQXRUaFk1WU9VODNsSG95b1FUS1FzTTRBd1VXb19GWWZMdmt1Nm1qbmZ4SkhWYVg4N2hCTi1aVDFMRTd2SkpN?oc=5)
 
@@ -65,14 +81,6 @@ permalink: /news/tinidazole/
 2026-06-03 <span class="news-indication-tag">停經</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQNnhTdUQtVV96SThxUlA3M3p5ZDBLamtKX3duMWU5YnJuZmNKTnVvOHBWTy1OX29rTktVX0VtbG9DenJ5YWVWTnMyVmJEdFBwTV9XQk9wWm5qMFhRMU8xbXRLNS1za2E1dzZHWWktMnZ1TTV5OU1ySlA3RGlQV2JnRTJ2LWVnZzRjbHFIOWc3SDgxSjdmdTZNT2UzR2ZQVk54dmxvb1U0NlVaVFJRYXJsVl92QzFyQmQ3Z2NiOVRZa2tUdEk5TWJvVkpVTkpYbnVYbTBCSEdieWQ1X1YtVjctNTV6ZTBFaUdvWVBxS0NmMzVRMTRKa2RCR21pYUtQbEkyQm83ZXoxd2hmcXBoaUZjMXBUaGd6UWZGUFluazd1cjBaOE13bXJEYThWTVUxOU5zbllmQlRCUTdadkFvUHo3ZktUVTQyQQ?oc=5)
-
----
-
-### [不用補雌激素 中醫針灸茶飲改善更年期潮熱失眠](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CN1BhcnRZa0R1eXM3VXhBMWh0RDNwbzRGNm9CR1ExbDIzSy1sYWFvbzFTX3lIRXV2cV83LVF6MUVFc0oxWHNkekgwekdYVkRaVFc5M2l2UklCcS1JbnQzZNIBZkFVX3lxTE1ETXRzZ2I2SXQ4dGl0em43Qi1qTFFpSG03T09qVE5rR2hCWlpUeUJXc253R0hodWtiQ1JHdGxGNDVOV1VkS2hyVWJ4TEkyRmR6aHBaYU1jZ21SM3EzLTJDWFZwcERNUQ?oc=5)
-
-2026-06-03 <span class="news-indication-tag">更年期</span>
-
-來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CN1BhcnRZa0R1eXM3VXhBMWh0RDNwbzRGNm9CR1ExbDIzSy1sYWFvbzFTX3lIRXV2cV83LVF6MUVFc0oxWHNkekgwekdYVkRaVFc5M2l2UklCcS1JbnQzZNIBZkFVX3lxTE1ETXRzZ2I2SXQ4dGl0em43Qi1qTFFpSG03T09qVE5rR2hCWlpUeUJXc253R0hodWtiQ1JHdGxGNDVOV1VkS2hyVWJ4TEkyRmR6aHBaYU1jZ21SM3EzLTJDWFZwcERNUQ?oc=5)
 
 ---
 

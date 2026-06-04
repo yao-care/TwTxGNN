@@ -3,7 +3,7 @@ layout: default
 title: "停經（menopause） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "停經（menopause） 的相關健康新聞報導。2 則新聞、4 個相關藥物。"
+description: "停經（menopause） 的相關健康新聞報導。1 則新聞、4 個相關藥物。"
 permalink: /news/menopause/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/menopause/
 ---
 
 <p class="key-answer" data-question="停經（menopause） 有什麼相關新聞？">
-<strong>停經（menopause）</strong> 目前有 <strong>2 則</strong>相關新聞報導，4 個相關藥物。
+<strong>停經（menopause）</strong> 目前有 <strong>1 則</strong>相關新聞報導，4 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,13 @@ permalink: /news/menopause/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [最新研究顯示不孕症與女性提早停經存在顯著關聯 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQNnhTdUQtVV96SThxUlA3M3p5ZDBLamtKX3duMWU5YnJuZmNKTnVvOHBWTy1OX29rTktVX0VtbG9DenJ5YWVWTnMyVmJEdFBwTV9XQk9wWm5qMFhRMU8xbXRLNS1za2E1dzZHWWktMnZ1TTV5OU1ySlA3RGlQV2JnRTJ2LWVnZzRjbHFIOWc3SDgxSjdmdTZNT2UzR2ZQVk54dmxvb1U0NlVaVFJRYXJsVl92QzFyQmQ3Z2NiOVRZa2tUdEk5TWJvVkpVTkpYbnVYbTBCSEdieWQ1X1YtVjctNTV6ZTBFaUdvWVBxS0NmMzVRMTRKa2RCR21pYUtQbEkyQm83ZXoxd2hmcXBoaUZjMXBUaGd6UWZGUFluazd1cjBaOE13bXJEYThWTVUxOU5zbllmQlRCUTdadkFvUHo3ZktUVTQyQQ?oc=5)
 
 2026-06-03
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQNnhTdUQtVV96SThxUlA3M3p5ZDBLamtKX3duMWU5YnJuZmNKTnVvOHBWTy1OX29rTktVX0VtbG9DenJ5YWVWTnMyVmJEdFBwTV9XQk9wWm5qMFhRMU8xbXRLNS1za2E1dzZHWWktMnZ1TTV5OU1ySlA3RGlQV2JnRTJ2LWVnZzRjbHFIOWc3SDgxSjdmdTZNT2UzR2ZQVk54dmxvb1U0NlVaVFJRYXJsVl92QzFyQmQ3Z2NiOVRZa2tUdEk5TWJvVkpVTkpYbnVYbTBCSEdieWQ1X1YtVjctNTV6ZTBFaUdvWVBxS0NmMzVRMTRKa2RCR21pYUtQbEkyQm83ZXoxd2hmcXBoaUZjMXBUaGd6UWZGUFluazd1cjBaOE13bXJEYThWTVUxOU5zbllmQlRCUTdadkFvUHo3ZktUVTQyQQ?oc=5)
-
----
-
-### [不用補雌激素 中醫針灸茶飲改善更年期潮熱失眠](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CN1BhcnRZa0R1eXM3VXhBMWh0RDNwbzRGNm9CR1ExbDIzSy1sYWFvbzFTX3lIRXV2cV83LVF6MUVFc0oxWHNkekgwekdYVkRaVFc5M2l2UklCcS1JbnQzZNIBZkFVX3lxTE1ETXRzZ2I2SXQ4dGl0em43Qi1qTFFpSG03T09qVE5rR2hCWlpUeUJXc253R0hodWtiQ1JHdGxGNDVOV1VkS2hyVWJ4TEkyRmR6aHBaYU1jZ21SM3EzLTJDWFZwcERNUQ?oc=5)
-
-2026-06-03
-
-來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CN1BhcnRZa0R1eXM3VXhBMWh0RDNwbzRGNm9CR1ExbDIzSy1sYWFvbzFTX3lIRXV2cV83LVF6MUVFc0oxWHNkekgwekdYVkRaVFc5M2l2UklCcS1JbnQzZNIBZkFVX3lxTE1ETXRzZ2I2SXQ4dGl0em43Qi1qTFFpSG03T09qVE5rR2hCWlpUeUJXc253R0hodWtiQ1JHdGxGNDVOV1VkS2hyVWJ4TEkyRmR6aHBaYU1jZ21SM3EzLTJDWFZwcERNUQ?oc=5)
 
 ---
 

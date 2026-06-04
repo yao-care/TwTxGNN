@@ -1,12 +1,456 @@
 {
-  "last_updated": "2026-06-04T07:16:43.009322+00:00",
-  "total_count": 26,
-  "matched_count": 8,
+  "last_updated": "2026-06-04T10:55:20.373937+00:00",
+  "total_count": 28,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "57cd60751f6d",
+      "title": "手術化療都做了，為何癌症還復發？小心「身體缺氧、發炎」變癌細胞舒適圈：3關鍵防復發",
+      "published": "2026-06-04T07:40:00+00:00",
+      "summary": "手術化療都做了，為何癌症還復發？小心「身體缺氧、發炎」變癌細胞舒適圈：3關鍵防復發&nbsp;&nbsp;幸福熟齡",
+      "sources": [
+        {
+          "name": "幸福熟齡",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aTXRTN3I2RVlGNS11dmdLQzZRd3A2cDl1WFoyV3RKWk9lRVhDTE4tUFY3elAyN0hrWW9udjhTMHZ0TG9ZSVlvUXREcmVCTFgyc2ktakJhb3p3NUpyTVpFVXJ2X25QcnFoZ3czZGpqZ2RDNWlYRHY2dmJROA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e3fa5102f4aa",
+      "title": "焦慮與飲食有關嗎？大腦的「膽鹼」濃度可能是關鍵 | 科技新報 - LINE TODAY",
+      "published": "2026-06-04T07:33:32+00:00",
+      "summary": "焦慮與飲食有關嗎？大腦的「膽鹼」濃度可能是關鍵 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zWHc4M1lXUExLLW45UFNDVVdFZkRQV0hBVW9HNXFlOC1sVU5ENlFYc2xzb1BNWDBFcmpEWENtWjRZWENHTkdralpsdlRwY2Z4YS1SMkN3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "00a6e785c04c",
+      "title": "癌王「胰臟癌」治療新曙光！ 基改病毒變抗癌武器 人體試驗傳突破",
+      "published": "2026-06-04T05:58:00+00:00",
+      "summary": "癌王「胰臟癌」治療新曙光！ 基改病毒變抗癌武器 人體試驗傳突破&nbsp;&nbsp;自由健康網台灣發現新靶點 提供胰臟癌免疫治療新方向&nbsp;&nbsp;大纪元癌王「胰臟癌」治療新曙光！ 基改病毒變抗癌武器&nbsp;&nbsp;鏡新聞科學家找到胰臟癌「防護牆」開關 化療與免疫細胞更容易攻進腫瘤&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92MWM0UWp0ck9wYXB3Ukd2MzFLVjRodTd5cmU1WkZSTlFuV3E0NmM0bEl4eXJnY2FWa1hxWkg5OGlJaUthU3hzNTBVdHQ1aGZhLTdMMDVOLTFDVi1yeXF5ODhxaWw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "腫瘤",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce309a6d07ce",
+      "title": "40歲後真的會「斷崖式衰老」？博士解析身體出現的關鍵變化",
+      "published": "2026-06-04T03:30:00+00:00",
+      "summary": "40歲後真的會「斷崖式衰老」？博士解析身體出現的關鍵變化&nbsp;&nbsp;東森新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41dnBsWEd0S3VBSjJ6bjE5ZU9MTGlTakplSWtaUHIzbGdsMWlLMHJ1NGhHNDQwc1F3aDJDdEd3VVFZZ2UyeHFkb2VGYm9wd3BqX2FPUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "0e4a3e0b8fac",
       "title": "英國NHS引進卵巢癌新藥mirvetuximab，延長患者壽命並提升生活品質",
-      "published": "2026-06-04T03:54:58+00:00",
+      "published": "2026-06-04T02:38:39+00:00",
       "summary": "英國NHS引進卵巢癌新藥mirvetuximab，延長患者壽命並提升生活品質&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
@@ -33,23 +477,10 @@
       ]
     },
     {
-      "id": "ce309a6d07ce",
-      "title": "40歲後真的會「斷崖式衰老」？博士解析身體出現的關鍵變化",
-      "published": "2026-06-04T03:30:00+00:00",
-      "summary": "40歲後真的會「斷崖式衰老」？博士解析身體出現的關鍵變化&nbsp;&nbsp;東森新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41dnBsWEd0S3VBSjJ6bjE5ZU9MTGlTakplSWtaUHIzbGdsMWlLMHJ1NGhHNDQwc1F3aDJDdEd3VVFZZ2UyeHFkb2VGYm9wd3BqX2FPUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "d7cd28845ad5",
       "title": "東張西望｜播毒男遭3女追罵隱瞞HPV病史 避入連鎖健身中心 分店停業深層清潔",
       "published": "2026-06-04T02:17:56+00:00",
-      "summary": "東張西望｜播毒男遭3女追罵隱瞞HPV病史 避入連鎖健身中心 分店停業深層清潔&nbsp;&nbsp;橙新聞21歲「播毒渣男」背景震撼！隱瞞性病兼連環出軌多名少女中招染HPV性病附性傳播感染3大預防方法&nbsp;&nbsp;星島頭條HPV懶人包｜健身室都會感染？即睇HPV傳播途徑+病毒類別+預防方法&nbsp;&nbsp;香港01東張西望｜21歲籃球教練H先生被起底 「東張女神」甘詠寧大逼供問是否有HPV四處播毒&nbsp;&nbsp;AM730「播毒渣男」最終回！H先生撐拐杖赴約被3苦主圍剿 終改口親認感染HPV&nbsp;&nbsp;TVB",
+      "summary": "東張西望｜播毒男遭3女追罵隱瞞HPV病史 避入連鎖健身中心 分店停業深層清潔&nbsp;&nbsp;橙新聞21歲「播毒渣男」背景震撼！隱瞞性病兼連環出軌多名少女中招染HPV性病附性傳播感染3大預防方法&nbsp;&nbsp;星島頭條HPV懶人包｜健身室都會感染？即睇HPV傳播途徑+病毒類別+預防方法&nbsp;&nbsp;香港01東張西望｜21歲籃球教練H先生被起底 「東張女神」甘詠寧大逼供問是否有HPV四處播毒&nbsp;&nbsp;AM730「播毒渣男」H先生事件持續發酵網民將HPV病毒型號買六合彩中3字健身室變「死場」人心惶惶- 東張+&nbsp;&nbsp;myTV SUPER",
       "sources": [
         {
           "name": "橙新聞",
@@ -57,6 +488,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "e37344e62a9d",
+      "title": "最新研究揭示老年泌尿道感染診斷挑戰與尿液試紙局限性 - GeneOnline News",
+      "published": "2026-06-04T02:09:03+00:00",
+      "summary": "最新研究揭示老年泌尿道感染診斷挑戰與尿液試紙局限性&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOTUJyMGF1c25ZODlUb2U5YzJyeHFzNzZ4ZXowY2FHWUhrZDhySERSOXFoRlhtLTJIc1MtUFBuUGpRUmYzbzR3VXM2OHBlX0hZWnZYeWxPSVRjOUFKTF9WVUx1V2lKN1VBOHhDdXN4cWQwc0JBLV9NT0E1Q2FERjE5OTY0UXZMdEtpajdWeW1uZW9fcXltV0M0dTlMdjcybUJNMGlmUkV4a2cyNm94WjJtUjZPQWV6YjRKOXZVMFNUNlpMT2xfS1pUYVE2Y2ZkV1ZoempTY0hfLXh1czVVMV95Q2FKSU5zWndXRENSOFR6YVpydFpmZlkxdEdIQ1R1X3F1YnBpT09FNE1hcVk3ZkVobUl2RTdtZU5kdjBKaWNNam9SLUtvbUxaYWpvbl9LWF8tOUZhR2hxbzFObW5jTXBDMDdxLTdhZw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "泌尿道",
+          "keyword": "泌尿道",
+          "related_drugs": [
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "8011eedef5ab",
@@ -738,43 +1194,6 @@
       ]
     },
     {
-      "id": "c18757a5c3c0",
-      "title": "不用補雌激素 中醫針灸茶飲改善更年期潮熱失眠",
-      "published": "2026-06-03T05:00:00+00:00",
-      "summary": "不用補雌激素 中醫針灸茶飲改善更年期潮熱失眠&nbsp;&nbsp;大纪元更年期8年平均胖5.4公斤！營養師：增肌才是關鍵非減脂&nbsp;&nbsp;Yahoo新聞45歲後身材失控不是你的錯 營養師揭4關鍵：吃越少內臟脂肪囤越多&nbsp;&nbsp;ETtoday新聞雲更年期不只是荷爾蒙變化：日常代謝與生活管理逐漸受到關注&nbsp;&nbsp;蕃新聞熱潮紅要吃什麼？營養師揭更年期燥熱、盜汗飲食調整重點&nbsp;&nbsp;四季線上4gTV",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CN1BhcnRZa0R1eXM3VXhBMWh0RDNwbzRGNm9CR1ExbDIzSy1sYWFvbzFTX3lIRXV2cV83LVF6MUVFc0oxWHNkekgwekdYVkRaVFc5M2l2UklCcS1JbnQzZNIBZkFVX3lxTE1ETXRzZ2I2SXQ4dGl0em43Qi1qTFFpSG03T09qVE5rR2hCWlpUeUJXc253R0hodWtiQ1JHdGxGNDVOV1VkS2hyVWJ4TEkyRmR6aHBaYU1jZ21SM3EzLTJDWFZwcERNUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "5f1adea528cc",
       "title": "好命生醫引進代謝體檢測，單次抽血有望提早 10 年預測阿茲海默症風險 - GeneOnline News",
       "published": "2026-06-03T04:51:38+00:00",
@@ -847,19 +1266,6 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTDJaZGFzaWxHRzF4UWZITTBpN1NsRWVOX2ZlSmNqWDdPTmg4QTB6RTFNenZGWGpJVWpxYWNvRVBaZV9YUHJGRGhzSWxvRVlFeHFsLV9DQ3FKRjhIUWhGbldiVWxTdnBjLWRLUlBFeGstZ3RqdGpiSUo2c0RKVGZ4TFNGNm9pVS1CX0ptenAwNA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e3fa5102f4aa",
-      "title": "焦慮與飲食有關嗎？大腦的「膽鹼」濃度可能是關鍵 | 科技新報 - LINE TODAY",
-      "published": "2026-06-02T23:06:58+00:00",
-      "summary": "焦慮與飲食有關嗎？大腦的「膽鹼」濃度可能是關鍵 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zWHc4M1lXUExLLW45UFNDVVdFZkRQV0hBVW9HNXFlOC1sVU5ENlFYc2xzb1BNWDBFcmpEWENtWjRZWENHTkdralpsdlRwY2Z4YS1SMkN3?oc=5"
         }
       ],
       "matched_keywords": []
