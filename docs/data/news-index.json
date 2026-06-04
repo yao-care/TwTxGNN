@@ -1,7 +1,35 @@
 {
-  "generated": "2026-06-04T02:48:44.555460+00:00",
-  "count": 9,
+  "generated": "2026-06-04T07:16:43.039432+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "0e4a3e0b8fac",
+      "title": "英國NHS引進卵巢癌新藥mirvetuximab，延長患者壽命並提升生活品質",
+      "published": "2026-06-04T03:54:58+00:00",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUWRDMzVGMWI3aWlhdjVQc2UwS2JLazhJLVdPazJkWkZwZDk4cmxXdTY5TFItMDM2WmN6Y2tsVFdzMnBFRTRVZlBkMlMyVW1fek9PNzhtMUVXS1pNOUlTcmxfeldtXzJ4MDROYjJvZUVKR1I5cHFaQlJhaVRzZFNOUGgyR2RGU01DcFJDWTdJczVmUXo0bEZnbUNaMWwzQ3UzMW9XNmlnLUNiZ1duOFN5bUhzcUZRVlRIcS1HWUhDQWZRQi1teFln?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "卵巢癌",
+          "keyword": "卵巢癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "8011eedef5ab",
       "title": "【抗癌】甜食不一定有害！有些「甜」反而可能幫助降低癌症風險- 書房",
@@ -627,54 +655,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2e1b76029030",
-      "title": "感冒季狂補維生素C？醫解析：能減輕症狀、但無法預防",
-      "published": "2026-06-02T09:01:24+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNMTR6MDJTN1VpdHlMVjRuY1lJNjAyak5YODNQZGs5b2NlS1pEeGNpam8yaC1PWF9rb2dYb0owY0l4ODZoQWxnS01aOGJnRGhEajl3cXdLZm4zcWFfVmphSzZ2bUsxMG80MDVTQ3N4S0dMc0dKbHpOYnNBSXlMc091OHlBeWJtTTZ3SFdacEhNOUx0czN0ejZILXdQSXY4aG1ETG5hWUtxcEpMMXhoRFphY3ZzY0xLRVRJSU9RVDJiaTd1OElPbVNGUUlEa1REel96dUNsa0FVemcyZkZuWENpaTQ1amw2Y3I1bFJ4NHJ3Ql9EN2RhTm91eHY0NUJ0b0lvcnM2QWRqYTRFSnlvYi1IZW1SQzc5aEY0cFMzVW9SRFZEYWRwT2NnSDRScDFlVWdNYVFpZkJPNmNWeHFEdEM1Y0hGRHRtRXR1ZkQ2TVZOWllSaDFl?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a53a23bcc7f1",
-      "title": "吃維生素C防感冒？醫破迷思 但有1好處",
-      "published": "2026-06-02T03:14:28+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVm9nVWlTazdlQlhsbk9XNmVjcTlheElzcERITlE0cExFbzJ6YzExWUZRNlp3VnhrcUN2ZVdPTjNycTRabGVwQW0tWU5FeVYyYjh3OGVjRWM4aGtEd2FTWkNXRlBLUmdyZ3FOVDFUZEc0bHpJNEpiTGVmdE1Dc3BCbjI3TUxBTzl1RzRRdDhncw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }

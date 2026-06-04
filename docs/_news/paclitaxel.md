@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [英國NHS引進卵巢癌新藥mirvetuximab，延長患者壽命並提升生活品質](https://news.google.com/rss/articles/CBMixwFBVV95cUxNUWRDMzVGMWI3aWlhdjVQc2UwS2JLazhJLVdPazJkWkZwZDk4cmxXdTY5TFItMDM2WmN6Y2tsVFdzMnBFRTRVZlBkMlMyVW1fek9PNzhtMUVXS1pNOUlTcmxfeldtXzJ4MDROYjJvZUVKR1I5cHFaQlJhaVRzZFNOUGgyR2RGU01DcFJDWTdJczVmUXo0bEZnbUNaMWwzQ3UzMW9XNmlnLUNiZ1duOFN5bUhzcUZRVlRIcS1HWUhDQWZRQi1teFln?oc=5)
+
+2026-06-04 <span class="news-indication-tag">卵巢癌</span>
+
+來源：[Singtaousa](https://news.google.com/rss/articles/CBMixwFBVV95cUxNUWRDMzVGMWI3aWlhdjVQc2UwS2JLazhJLVdPazJkWkZwZDk4cmxXdTY5TFItMDM2WmN6Y2tsVFdzMnBFRTRVZlBkMlMyVW1fek9PNzhtMUVXS1pNOUlTcmxfeldtXzJ4MDROYjJvZUVKR1I5cHFaQlJhaVRzZFNOUGgyR2RGU01DcFJDWTdJczVmUXo0bEZnbUNaMWwzQ3UzMW9XNmlnLUNiZ1duOFN5bUhzcUZRVlRIcS1HWUhDQWZRQi1teFln?oc=5)
+
+---
 
 ### [【抗癌】甜食不一定有害！有些「甜」反而可能幫助降低癌症風險- 書房](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XMWlTeHNIVmdZUUlyZTI0NXJxTU92cm5HQXRUaFk1WU9VODNsSG95b1FUS1FzTTRBd1VXb19GWWZMdmt1Nm1qbmZ4SkhWYVg4N2hCTi1aVDFMRTd2SkpN?oc=5)
 
