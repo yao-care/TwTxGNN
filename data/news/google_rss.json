@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-05T18:54:33.460645+00:00",
-  "count": 22,
+  "fetched_at": "2026-06-05T20:45:47.828962+00:00",
+  "count": 20,
   "news": [
     {
       "id": "711e92b20f59",
@@ -112,14 +112,14 @@
       ]
     },
     {
-      "id": "c104363ed4b3",
-      "title": "補維生素D不補鎂等於白吃了 - Yahoo新聞",
-      "published": "2026-06-03T22:00:35+00:00",
-      "summary": "補維生素D不補鎂等於白吃了&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "144b63a61dc3",
+      "title": "維生素D怎麼補都不夠？醫揭缺這個礦物質，關鍵藏在兩種綠色蔬菜 - Yahoo新聞",
+      "published": "2026-06-04T04:32:25+00:00",
+      "summary": "維生素D怎麼補都不夠？醫揭缺這個礦物質，關鍵藏在兩種綠色蔬菜&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMHBObUN3Tk5TQ1U4cS1BZXNMNnhEMHQ4UHVXaVBoVXpfbkRhMEJYWkVvU0dkYmFvU0JiSzUtVkVIZG16T0pVa0ZFYV9yQnBOemFGZW1XTWhHZW9GYXNQNXY4UTBkdThJeWtrSXhVazZTbk1Qb0NEeW83Sll0UmdERUJPZ0FKc0RtbzVCYkVJTkJEbEVFeXJxZVV6Y1MtT2dlaGlBdG1DUUg5UzVJeHFiVElmZnNIQWVva3l1QXBudTFaUFgyTnNIcHBWUGVLdmdRMUp0cmpnMXNmWlJPaTJjNVBsaWk?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOak5JSlF2VVZsRUFxYm9IMEhuUVZMV1VRckw1bmVwSkZ5LUJQcFIxNzdXbURXM2NXNXpYZkJKZS1GNTd5SUpmbE9hNWpoUVE1MXc1aXNuN293cVFSb1NtWmpyMHUyX0V5R3RqWUFpUkRTZkZLU2ZfUURZVHlMT1loS1E1WmFWWHpZUGdPcUJEN2Jndld2VjhwRkRfUUQ4UFRzX1FhbVpnRGIwYTlQeF9pSUV3Y2gtLUplQjAyX3JGejcxQ0gwUlhRTDdIMVdXMXdHakdSSWNya2liWUJXQ3NjRkN1R2FrYlhRZUFxZFljMnB5S2twTWxUbElXTURUdUZpQnRPeDh0VnRVaFk4RVZVc2tQczV6elZUNzV1dUlYd0hEUW1ibDJxMkZPWnE0LUE0RmxBUGRFallmcU1PUHF6eVo2WTFiRVZZVjlXbVB2YzZjSHRCaGdzT0t3c0w3OWZiLTNGRmpVQTZ5S2dDM0ZYLXpmb3FyOWhGOWZGS1JiTlFXSWIxY0gyY2ZmZ2hXaWlFb2g3SHE5NWRialk?oc=5"
         }
       ]
     },
@@ -148,25 +148,13 @@
       ]
     },
     {
-      "id": "3c705f475225",
-      "title": "越焦慮越缺鎂！專家點名「手搖飲、咖啡」族群：失眠又狂跑廁所 - TVBS新聞網",
-      "published": "2026-06-03T19:00:00+00:00",
-      "summary": "越焦慮越缺鎂！專家點名「手搖飲、咖啡」族群：失眠又狂跑廁所&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JY3J2Z2FPTTNqbHNuSHFpamdtZDA1ZFVlN1Y5NExPM2NLdE1xX241REM0eFNkT21UeG11SVdpS0Vvcm9lV0JfSU1jbU5uUUsz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8eb50b87ec1b",
-      "title": "客製化沙發不只換顏色 骨架結構成選購新關鍵 - 蕃新聞",
+      "id": "27a1114cd682",
+      "title": "客製化沙發不只換顏色 骨架結構成選購新關鍵 - n.yam.com",
       "published": "2026-06-05T16:02:52+00:00",
-      "summary": "客製化沙發不只換顏色 骨架結構成選購新關鍵&nbsp;&nbsp;蕃新聞",
+      "summary": "客製化沙發不只換顏色 骨架結構成選購新關鍵&nbsp;&nbsp;n.yam.com",
       "sources": [
         {
-          "name": "蕃新聞",
+          "name": "n.yam.com",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmeThKN0pDdHczam5PTm5xRnBTbjhvcXBlaE92RUpHQkRLLVpNSHZ3RFAxRm03V2owOXZLVTVoSkJkTU1aQTAxSWN0TmNHZVJydVE?oc=5"
         }
       ]
@@ -208,14 +196,14 @@
       ]
     },
     {
-      "id": "263197a7fefa",
-      "title": "乙流︱17歲男童併發嚴重肺炎及休克 發燒及血含氧度下降 情況危殆留醫PICU - Oh!爸媽",
-      "published": "2026-06-05T16:42:26+00:00",
-      "summary": "乙流︱17歲男童併發嚴重肺炎及休克 發燒及血含氧度下降 情況危殆留醫PICU&nbsp;&nbsp;Oh!爸媽防護中心：17歲少年染乙型流感情況危殆 併發嚴重肺炎及休克&nbsp;&nbsp;橙新聞感染乙流併發嚴重肺炎及休克 17歲男童危殆留醫PICU&nbsp;&nbsp;on.cc東網17歲少年感染流感情況危殆 有家庭醫生指社區對乙型流感免疫力不足&nbsp;&nbsp;TVB染乙流併發肺炎及休克長期病患17歲少年留醫危殆- 香港 - 香港文匯網&nbsp;&nbsp;香港文匯網",
+      "id": "93ed000a2043",
+      "title": "衞生防護中心：一名17歲少年染乙型流感情況危殆 併發嚴重肺炎及休克 - 香港商报",
+      "published": "2026-06-05T16:28:00+00:00",
+      "summary": "衞生防護中心：一名17歲少年染乙型流感情況危殆 併發嚴重肺炎及休克&nbsp;&nbsp;香港商报防護中心：17歲少年染乙型流感情況危殆 併發嚴重肺炎及休克&nbsp;&nbsp;橙新聞17歲男童染乙流併發嚴重肺炎及休克 情況危殆&nbsp;&nbsp;信報網站感染乙流併發嚴重肺炎及休克 17歲男童危殆留醫PICU&nbsp;&nbsp;on.cc東網長期病患17歲少年染乙型流感併發嚴重肺炎及休克 情況危殆&nbsp;&nbsp;香港電台新聞網",
       "sources": [
         {
-          "name": "Oh!爸媽",
-          "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxONUxqYnl6VUFCSEdZUV9NdUx1YkQtTEdPQkRiRktUUGQ0U3dEYmh3YVA3anNnSHpJU1ZkUUNnSVkyVTIySjM0VmhGTWtvcnEtSW5LZk1UTVZvZW0zU05EZXVVVTdwRFdwYkdYNnNENUZUVlc4SkdZYzdJcWdhVkZCSWYtRk9HUzd3TlB5OHBOVmExaEZZUmRDZ1lqQTFfR1JRa1ZvMGVvU2NuLVJOdWZKZ3NuUEZXWWpReGxqWHJYZGZCS1FkdDk5RkJ5Wms0aEdtRElwVDZwSU90NDdLTng3ZXhmVjE3Yk9QODNuS21QcG45dmI2Wk5rUUlXRUZWWEZZZGNxa2h3UVV4SEs3Y1ZNY2k5c1hvTHEzZmxmTUNjNE0wOVlNRDhBMDRlWWdycmRvRGJHN2xzZWhIVHVJY1Y3Sy1nQXpJeFRCNjRsRDE3S2hqcS15cGg5VWdRT2N3WFJ3SVFxNWZXQlJsNVdSWll4MV9FZ21RY0dSOThIUDhIU0dLWEZYMUo2bGt2cmFKNU04WW1EZ1pxdWdDUHRJemxXRFR1OUhrREU3dEhBLXNB?oc=5"
+          "name": "香港商报",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55ZVU3T1Y5ZG1fY3lrOGpCVWVQYjdsdXVYT04yMWtxaUcwcjM2a2ZfWkxmM1FLSVR5ZTJuNG82VUFhZGIzR0FIb2drNkR2anRydENyUDhzMzBERDljWkZZYjBhX09LTVNjTVZKOWJCZk56SlJhWUtwVU9RSQ?oc=5"
         }
       ]
     },
@@ -252,18 +240,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNNXZpbC1NazdGaEVZdms3Z01DTHlibVdyeEU4XzI4WDNLbV8wU3JBNHpYa21vOHZrTEQ0ZXBUVlAyNjBBcFRYZVNkOEJYLWpLWnRYMVRwTUxqS2E4Q1hiZjNQMDRqcUEwUkZsLTVHX21ZVEV2ek5OY2pvWkVHSkhpaDhJV0w2Njl6ZjNhUkduNENrYTdxMHdVUkdsZThJaEpJYVpTZGEwWFNuWXJnakRYd0lIX0ttc29Lb1lMdnVVWHJEYTlqWmFLdmx0ZW9xem5kQnpMMTZabVVjZWloY0VlQnlReEZrWU5EWVZXRkRmU281SjFRNWh0RVJJaHNuRDNXTGtnSXdwbkpHcnZzYzRNOUZnN29LdFQwN2l4SGpEQk9jTTNsT1VXUTQ0Z1dJMWVpeWFOME5DYUVxU1JFR2FpaWY0UXktMWduZVJQMmpWMlRwaXhlenpFOWRSVmY1bVh0eWRWSDd3UHhLSmVNcElUNndxdFF6OU9EWmdFYUw2QnRkMlJNTHB5bGtiNEZKZ0tDUW9lR2h0V1JZeVd0ak41QmZGc1N0aF80d2s4aXFrY3ZqV2U3ekNiLWlMTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b3596bb61d9f",
-      "title": "新型微創腎癌切除術 減心臟病人割腫瘤風險 - 信報網站",
-      "published": "2026-06-03T18:27:16+00:00",
-      "summary": "新型微創腎癌切除術 減心臟病人割腫瘤風險&nbsp;&nbsp;信報網站",
-      "sources": [
-        {
-          "name": "信報網站",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPRHNldVdnZUZrczM2Ymh6MmIzN2lRalJNSm9yaUZRUldMaDlvWHRxTk1PUEQ1SURWYTdpRjA2OFVxM3pMaXVGN2Z1ZHhYeDQzN3RubWVrOUFlSVE2eTRSQ1hRUUpFaGZmOUw0cXpnaXZobWNMMkRDSE9ZV21zdFhETVJnOUJLd0ZHcmhKTzdMbGJFd3JnUzQzeG96dHU0ZHpCSTA5UU4wenRQR3VBcDdNRXZXRDh3eXd6OV9sQWZyZmVBbHBJX0FaZDJxZEphU2FSemxhZ0hpaGlyU2p4a3VmdXNTVzhnNE5vUVdwb3NrV3VkcWZVZVNUQnBGajNrSHNNNVF1anlqOEVyc0hDV1JocDVZZDBQTkFNbUVIdk9FSThkX2FqNlNORXJBZk1OUzVXczdEUVBaNVNZMzZhWU43Y0gyZ2xPV1Bmb3A4?oc=5"
         }
       ]
     }
