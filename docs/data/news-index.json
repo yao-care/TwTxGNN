@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T10:49:48.978467+00:00",
-  "count": 9,
+  "generated": "2026-06-05T13:48:37.984943+00:00",
+  "count": 7,
   "news": [
     {
       "id": "6f9d2efab1cb",
@@ -21,54 +21,6 @@
             {
               "slug": "isosorbide_dinitrate",
               "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a36e4a7cab38",
-      "title": "1運動做45分鐘 「 最凶險乳癌」細胞少長29％ 醫也喊神奇",
-      "published": "2026-06-05T07:04:58+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03MEsxOTF1ZjVyUFhRU3poblRwZXpoNVZxa1FnRXFqNHpkc1lKYmlIOU50TnNjbU9PYXIwYTkyUkRuaERrbzE0WVpiMGJFRHpHRVIyRl9LbzBKLWR2c1FNamN2eFQ0cHZwSWFHWFJ3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
@@ -861,30 +813,6 @@
             {
               "slug": "regorafenib",
               "name": "Regorafenib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4d97178d470c",
-      "title": "AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究",
-      "published": "2026-06-03T11:05:08+00:00",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mRHFtMXExdmEyX09XNUY0dFNvN3dLRlBzbjNiRGNkbHU4ajIzZFh1cUVDY2c2bW0yR0lMQm9OemVSbVdsbU5uWEl5S0NWblRUX1E?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

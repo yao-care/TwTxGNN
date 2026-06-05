@@ -1,17 +1,43 @@
 {
-  "last_updated": "2026-06-05T10:49:48.953631+00:00",
-  "total_count": 26,
-  "matched_count": 9,
+  "last_updated": "2026-06-05T13:48:37.953797+00:00",
+  "total_count": 23,
+  "matched_count": 7,
   "news": [
     {
-      "id": "baf6139a2157",
-      "title": "17歲男童染乙流併發嚴重肺炎及休克 情況危殆",
-      "published": "2026-06-05T10:43:36+00:00",
-      "summary": "17歲男童染乙流併發嚴重肺炎及休克 情況危殆&nbsp;&nbsp;信報網站",
+      "id": "0a843eacdb0d",
+      "title": "研究發現靜脈注射氯胺酮的緩解率高於艾氯胺酮 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
+      "published": "2026-06-05T13:09:35+00:00",
+      "summary": "研究發現靜脈注射氯胺酮的緩解率高於艾氯胺酮 作者 Investing.com&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
       "sources": [
         {
-          "name": "信報網站",
-          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOMWx2YlZkbWRqb1hqUXhjdVZIbGU2bWwtYlZnZkxOMjlNNmZKd0ZOM0NJT0FiRS1Rc0tRTG42MEhLeWJBSTBWS1BLRWNJNGdFYUdORmFJZlJGdmtTbVN1QzRDUmJlNHJXY1FuTUJoVE9QX3dZOUp6ZnFheVZJcmNWcllEY1NubDZQMmdPZWkwU1hUTldYbWlGTEV6Y05ZbF9JUG5ZSDVZNGl0ZHNneHl3dkJGNzBOVmRsWGFzS0FMYVZmRS1oZXJLZG9Bc29Kems1eERSNTNncDVfN3RUMU0zM3dDNnFOaFZic18zMW5KNVkySXdlbzRSdWdxNldCN2hRTTJCU3FndXVLaWI5RzJzQ0JDUHFlRGRiZG51MkVTdHlQaDBoYVhId3N1aFpYTmladDJGT2hJSUFKMmoyLVo3RGVzZXVReFhHalotWlo2Qks?oc=5"
+          "name": "Investing.com 香港 - 股市報價& 財經新聞",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xbWx2Y0JIdkRpRWNFWlVjSDd4emJxYlJEcXVSc2hBaWxtZFpNcWhSY3JUeFBLVXI2WjNmSnFxQkJvUFZybjZTUno3UGJuRFB4R21aUUhQSUJyWTBRbUpKdDN6VG1pUjJsdGhhM2xYY1k?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "07bdb1cb236e",
+      "title": "防護中心：17歲少年染乙型流感情況危殆 併發嚴重肺炎及休克",
+      "published": "2026-06-05T11:37:53+00:00",
+      "summary": "防護中心：17歲少年染乙型流感情況危殆 併發嚴重肺炎及休克&nbsp;&nbsp;橙新聞17歲男童染乙流併發嚴重肺炎及休克 情況危殆&nbsp;&nbsp;信報網站乙流︱17歲男童併發嚴重肺炎及休克 發燒及血含氧度下降 情況危殆留醫PICU&nbsp;&nbsp;stheadline.com感染乙流併發嚴重肺炎及休克 17歲男童危殆留醫PICU&nbsp;&nbsp;on.cc東網長期病患17歲少年染乙型流感併發嚴重肺炎及休克 情況危殆&nbsp;&nbsp;香港電台新聞網",
+      "sources": [
+        {
+          "name": "橙新聞",
+          "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNWkpNMG9jNW9WdTl3MnE0QmVtRjI3S2tRSE9jQmFrOGJCeGR5eXRsVnZ1S3QzOTlIckhtYXhyM2hRd2UzdmZkbXU2YXZLVDJXX3ZfN2QxUm5uYXJFV29WNm9oRGwxMUpFSGtjd1dqMUFjQkRBR0IxNHMtd3FuNGtpTFRnS1hLQmxJbENSaGxxRDMwZmFnUW92Q1dmNDNrYk9oLUtKN2pUU21HNDRhM1pETnRGeWd2eG1XZVNUclpUT2pJaDdfNjNza1NLR2VIQURRbWxaY0tyU1dkcWV3REdRUmNxdVg4TERtc0tlWEN2SGNGYzRFSkV4eVBwYmgxM2UyQ0ZqTUM2WjlOZHRMUVdVT29UdjQweDJ4RDJqV3hmNGlIczRGTHpHLWt0VkhwOE1tYURBUnkyelFGSjQwQTAwS2FBWmZTX3ZUcktpSnJUNUZXejdRdDdQUG9fZm40a3F1T3V5X2s5eXB5NUhxN0tCODBydlVPdkRqRDE1NDBqY2M0MDhteXhpQnBBSVp4b00?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "726da3fd8357",
+      "title": "東張西望播毒渣男｜醫生指HPV難判斷傳播鏈 無針對治療方法",
+      "published": "2026-06-05T09:31:15+00:00",
+      "summary": "東張西望播毒渣男｜醫生指HPV難判斷傳播鏈 無針對治療方法&nbsp;&nbsp;香港經濟日報HKET21歲「播毒渣男」背景震撼！隱瞞性病兼連環出軌多名少女中招染HPV性病附性傳播感染3大預防方法&nbsp;&nbsp;stheadline.com東張西望｜播毒男遭3女追罵隱瞞HPV病史 避入連鎖健身中心 分店停業深層清潔&nbsp;&nbsp;橙新聞HPV懶人包｜健身室都會感染？即睇HPV傳播途徑+病毒類別+預防方法&nbsp;&nbsp;香港01東張西望｜播毒渣男染HPV匿健身室 分店即時深層清潔被揶揄洗錯店&nbsp;&nbsp;nmplus.hk",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13M3c2OEZfbGk5d0lXZ3VtSC1jLXZhVmgyZzlUNWZfU1c1TGYzbnJtcUNHbGVaLUJkVXR0MFl4WG51X1VacnRHS2Q4WHRFLV9mdmc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -46,7 +72,7 @@
       "id": "6f9d2efab1cb",
       "title": "健康老化祕訣很簡單，研究：少吃一點",
       "published": "2026-06-05T07:29:01+00:00",
-      "summary": "健康老化祕訣很簡單，研究：少吃一點&nbsp;&nbsp;財訊不靠醫美！55歲女奪全球「回春奧運」第二名，一年老化速度僅0.46歲！低成本慢老秘訣公開！&nbsp;&nbsp;TVBS 女人我最大人在臨終前10年就已失能或病痛纏身醫教6招縮短衰老折磨時間- 健康&nbsp;&nbsp;中時新聞網不吃保健品也能逆齡！55歲女奪全球抗老奧林匹克亞軍 一年只老0.46歲 公開6大黃金秘訣&nbsp;&nbsp;星島頭條台灣人臨終前平均臥床8年！醫揭「抗老6祕訣」：護心血管、降發炎&nbsp;&nbsp;祝你健康",
+      "summary": "健康老化祕訣很簡單，研究：少吃一點&nbsp;&nbsp;財訊不靠醫美！55歲女奪全球「回春奧運」第二名，一年老化速度僅0.46歲！低成本慢老秘訣公開！&nbsp;&nbsp;TVBS 女人我最大人在臨終前10年就已失能或病痛纏身醫教6招縮短衰老折磨時間- 健康&nbsp;&nbsp;中時新聞網不吃保健品也能逆齡！55歲女奪全球抗老奧林匹克亞軍 一年只老0.46歲 公開6大黃金秘訣&nbsp;&nbsp;stheadline.com台灣人臨終前平均臥床8年！醫揭「抗老6祕訣」：護心血管、降發炎&nbsp;&nbsp;祝你健康",
       "sources": [
         {
           "name": "財訊",
@@ -81,59 +107,10 @@
       "matched_keywords": []
     },
     {
-      "id": "a36e4a7cab38",
-      "title": "1運動做45分鐘 「 最凶險乳癌」細胞少長29％ 醫也喊神奇",
-      "published": "2026-06-05T07:04:58+00:00",
-      "summary": "1運動做45分鐘 「 最凶險乳癌」細胞少長29％ 醫也喊神奇&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03MEsxOTF1ZjVyUFhRU3poblRwZXpoNVZxa1FnRXFqNHpkc1lKYmlIOU50TnNjbU9PYXIwYTkyUkRuaERrbzE0WVpiMGJFRHpHRVIyRl9LbzBKLWR2c1FNamN2eFQ0cHZwSWFHWFJ3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "c105ec7161ff",
       "title": "以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖",
       "published": "2026-06-05T03:31:15+00:00",
-      "summary": "以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖&nbsp;&nbsp;拾方視角Google請求批准投放3200萬隻蚊子入境，讓雄蚊不育「絕子絕孫」&nbsp;&nbsp;鏈新聞 ABMediaGoogle 母公司 Alphabet 最新 Debug 計劃：滅蚊！是的，你沒有看錯標題&nbsp;&nbsp;Popbee為消滅病媒蚊！ Google擬向加州、佛州釋放3200萬隻「基改蚊子」 - 國際新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞在美釋放3200萬隻蚊子！Google超狂計劃曝光 | NOWNEWS今日新聞&nbsp;&nbsp;LINE TODAY",
+      "summary": "以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖&nbsp;&nbsp;拾方視角Google 母公司 Alphabet 最新 Debug 計劃：滅蚊！是的，你沒有看錯標題&nbsp;&nbsp;PopbeeGoogle請求批准投放3200萬隻蚊子入境，讓雄蚊不育「絕子絕孫」&nbsp;&nbsp;鏈新聞 ABMedia在美釋放3200萬隻蚊子！Google超狂計劃曝光 | NOWNEWS今日新聞&nbsp;&nbsp;LINE TODAY動機從來都是好的 關鍵是結果&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "拾方視角",
@@ -211,19 +188,6 @@
         {
           "name": "CMoney",
           "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxOc0s0RWZiZ09SN0hQZWhud0t1ZW4zSnJidmJfOTRza01GRnR0MHFFa2NGODFZb0RQajlyVU93V2tSN2FId0JyZS1qYW4tblByWV92a3RMMm9pbDc4UmFTSUpDUVFQd0M2ektLT2M5cEo0dVdjWmcxUEZsMUVQaHpGb0p5S3hsZzhFU1lMV0gtci1ZLWVSYWxSMW5GNHQ1WVBMalJjR1VCM21WOFlWM3NmVENkTjBPLVBSNnV4ZmxURnY3RUVxNDRMSUJybExDOVBZUmFiNkFCUmhGYk1xQjM1X0Z3aHFiRllVMTJiN21ta3l2clF2M090QlBveUd1NHJ2SGxiSG1JSm9NU3dYWklJVHdjdW1uQ0IxcEw1ZndzMVNqaW8wdUd5b0lUQXJSLWFCb0tRSWtiTGUwcW5wQlhwbkdXVnZKeHBGQUR6T3JxMmV1SmQyS1hxYW1Gc2dsa2pORDlFZWJDb2dBUm9ZUXVYQzQ4R2FyUFg0WmlzUDJlX3NJUzQ1cWlfeXhwRkZjMzhEUE5tS0lLZ3hjel95TFlTTmYxZFNaV284OUZYNlRqYmpQRVlNSWYtMnpXbDNpeHZnWFBfOUdIQnNCU1I0ZmhwbEhaUmFEaDdpOUdLZWVn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a99e914fe90e",
-      "title": "東張西望｜染HPV渣男播毒 醫生：感染十年內仍可傳播 目前無藥可醫",
-      "published": "2026-06-04T13:57:22+00:00",
-      "summary": "東張西望｜染HPV渣男播毒 醫生：感染十年內仍可傳播 目前無藥可醫&nbsp;&nbsp;healthyD21歲「播毒渣男」背景震撼！隱瞞性病兼連環出軌多名少女中招染HPV性病附性傳播感染3大預防方法&nbsp;&nbsp;星島頭條東張西望｜播毒男遭3女追罵隱瞞HPV病史 避入連鎖健身中心 分店停業深層清潔&nbsp;&nbsp;橙新聞HPV懶人包｜健身室都會感染？即睇HPV傳播途徑+病毒類別+預防方法&nbsp;&nbsp;香港01東張西望播毒男｜HPV播毒渣男引全城恐慌共用健身器材恐染HPV？醫生拆解傳播迷思：1情況可透過皮膚感染&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "healthyD",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSW5jZno5bW4wQUNEcVZHZ3k3YWhHRmF4VnJfbm9mYy1IbE5sMV9Db0hrYy1jZDcwT25GSERZblhGLWt0RmU1ZWYzY2xVaXl4bFVTVVJadV9QVXlOWUhGNzQ4bUNScHlkTDF5RUNxWTM4QVd6MGhsajR1VUhveXZ5SnFDOFNsYjhMNmVMdkVsTGcyVHU3c3BNMXAxbW5VckR1em9lSDFBcGVoZkI5X1JWb2xxelRGVlZNeGRoRmFCUXNhdWRMMUNjTElVN1A0OENodnVXbmhiUl84Q0JWRVUzOVFrSGRoVTJXbmRJcGdDcmVNeWM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1069,57 +1033,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "d8b1c06ce47f",
-      "title": "從細胞、晶片到AI 打造全球精準健康王國",
-      "published": "2026-06-03T11:22:52+00:00",
-      "summary": "從細胞、晶片到AI 打造全球精準健康王國&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Oc0hjZFVILW93TkpCNUQzZXVFZDJRY0x3ZUh6ZDJOV2k4VUhDcmRxdmR1c2pNRDNSbUs5emZ1QjA5aEFaNlEtZHkyajdmVnNHdWc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4d97178d470c",
-      "title": "AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究",
-      "published": "2026-06-03T11:05:08+00:00",
-      "summary": "AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mRHFtMXExdmEyX09XNUY0dFNvN3dLRlBzbjNiRGNkbHU4ajIzZFh1cUVDY2c2bW0yR0lMQm9OemVSbVdsbU5uWEl5S0NWblRUX1E?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "aad32f5fa000",
-      "title": "哭泣不是軟弱！每星期給自己幾次哭泣的時間，科學證實流淚是最佳的情緒排毒",
-      "published": "2026-06-03T10:40:46+00:00",
-      "summary": "哭泣不是軟弱！每星期給自己幾次哭泣的時間，科學證實流淚是最佳的情緒排毒&nbsp;&nbsp;Popbee",
-      "sources": [
-        {
-          "name": "Popbee",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RNkt4V1dXTlphMENkQzFpVWVZQ3ZEdUlScVMxWk9sRzhpdExLdGU5MFdtMDZhaXVqWnZVSE9ESzVYX0lXN2ZLbE1Rd2o3UUxEdEJqM0E5OFNGcHdldy1vdU4wZnk3Vy1wZUZiX21kMA?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

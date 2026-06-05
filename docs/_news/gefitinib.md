@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [【新新聞】早期失智症治療用藥終於出現 適用範圍、療程費用一次看 | 黃天如 | VIP](https://news.google.com/rss/articles/CBMiTEFVX3lxTE92QjhSOFJReXZGYkpkWG5uTmZRQVpwSjRwYzUwVVNUVnRGVl9pTU0yMXlzV2hMQzlabDh0M2huX3RYanVVTWVHRG5tUW8?oc=5)
 
@@ -72,14 +72,6 @@ permalink: /news/gefitinib/
 2026-06-03 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">腎癌</span>
 
 來源：[信報網站](https://news.google.com/rss/articles/CBMiywJBVV95cUxPRHNldVdnZUZrczM2Ymh6MmIzN2lRalJNSm9yaUZRUldMaDlvWHRxTk1PUEQ1SURWYTdpRjA2OFVxM3pMaXVGN2Z1ZHhYeDQzN3RubWVrOUFlSVE2eTRSQ1hRUUpFaGZmOUw0cXpnaXZobWNMMkRDSE9ZV21zdFhETVJnOUJLd0ZHcmhKTzdMbGJFd3JnUzQzeG96dHU0ZHpCSTA5UU4wenRQR3VBcDdNRXZXRDh3eXd6OV9sQWZyZmVBbHBJX0FaZDJxZEphU2FSemxhZ0hpaGlyU2p4a3VmdXNTVzhnNE5vUVdwb3NrV3VkcWZVZVNUQnBGajNrSHNNNVF1anlqOEVyc0hDV1JocDVZZDBQTkFNbUVIdk9FSThkX2FqNlNORXJBZk1OUzVXczdEUVBaNVNZMzZhWU43Y0gyZ2xPV1Bmb3A4?oc=5)
-
----
-
-### [AI結合MRI揭示大腦清潔機制 助攻阿茲海默症研究](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mRHFtMXExdmEyX09XNUY0dFNvN3dLRlBzbjNiRGNkbHU4ajIzZFh1cUVDY2c2bW0yR0lMQm9OemVSbVdsbU5uWEl5S0NWblRUX1E?oc=5)
-
-2026-06-03 <span class="news-indication-tag">阿茲海默症</span>
-
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mRHFtMXExdmEyX09XNUY0dFNvN3dLRlBzbjNiRGNkbHU4ajIzZFh1cUVDY2c2bW0yR0lMQm9OemVSbVdsbU5uWEl5S0NWblRUX1E?oc=5)
 
 ---
 
