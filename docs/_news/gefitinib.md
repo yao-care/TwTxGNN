@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [【新新聞】早期失智症治療用藥終於出現 適用範圍、療程費用一次看 | 黃天如 | VIP](https://news.google.com/rss/articles/CBMiTEFVX3lxTE92QjhSOFJReXZGYkpkWG5uTmZRQVpwSjRwYzUwVVNUVnRGVl9pTU0yMXlzV2hMQzlabDh0M2huX3RYanVVTWVHRG5tUW8?oc=5)
 
@@ -80,14 +80,6 @@ permalink: /news/gefitinib/
 2026-06-03 <span class="news-indication-tag">阿茲海默症</span>
 
 來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mRHFtMXExdmEyX09XNUY0dFNvN3dLRlBzbjNiRGNkbHU4ajIzZFh1cUVDY2c2bW0yR0lMQm9OemVSbVdsbU5uWEl5S0NWblRUX1E?oc=5)
-
----
-
-### [常常忘東忘西？最新研究：每天來點「布里」或「高達」全脂起司，竟然能降低 13% 的失智風險！🧠✨ - Women's Health](https://news.google.com/rss/articles/CBMirgFBVV95cUxOR1JGN244aW5Sc2ZESk5VYlVPZkpRN0liZEtZN2oxZnFMRzlDUFBJVlliSTJVenYxcFVYR2NRQmlJdVg3RXBDQmcxYzh6WEszcDZVTzhhUWR6U1F6OEJFT2pkVDZtel9EQmVhaTcyXzVTZkpjVXdXQWtIMXJiMjIxLS1WNFZnMWRMT0VCRXFsLTFpaWtyRXoxVGJaMEw4UzhMV2JNVkNfWE1kZlVQMGc?oc=5)
-
-2026-06-03 <span class="news-indication-tag">失智</span>
-
-來源：[Women's Health](https://news.google.com/rss/articles/CBMirgFBVV95cUxOR1JGN244aW5Sc2ZESk5VYlVPZkpRN0liZEtZN2oxZnFMRzlDUFBJVlliSTJVenYxcFVYR2NRQmlJdVg3RXBDQmcxYzh6WEszcDZVTzhhUWR6U1F6OEJFT2pkVDZtel9EQmVhaTcyXzVTZkpjVXdXQWtIMXJiMjIxLS1WNFZnMWRMT0VCRXFsLTFpaWtyRXoxVGJaMEw4UzhMV2JNVkNfWE1kZlVQMGc?oc=5)
 
 ---
 

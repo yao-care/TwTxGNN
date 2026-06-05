@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T02:35:38.906799+00:00",
-  "count": 9,
+  "generated": "2026-06-05T06:59:31.508596+00:00",
+  "count": 8,
   "news": [
     {
       "id": "1b77b5fb03cd",
@@ -849,30 +849,6 @@
             {
               "slug": "nystatin",
               "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d6aedb401533",
-      "title": "常常忘東忘西？最新研究：每天來點「布里」或「高達」全脂起司，竟然能降低 13% 的失智風險！🧠✨ - Women's Health",
-      "published": "2026-06-03T05:30:26+00:00",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR1JGN244aW5Sc2ZESk5VYlVPZkpRN0liZEtZN2oxZnFMRzlDUFBJVlliSTJVenYxcFVYR2NRQmlJdVg3RXBDQmcxYzh6WEszcDZVTzhhUWR6U1F6OEJFT2pkVDZtel9EQmVhaTcyXzVTZkpjVXdXQWtIMXJiMjIxLS1WNFZnMWRMT0VCRXFsLTFpaWtyRXoxVGJaMEw4UzhMV2JNVkNfWE1kZlVQMGc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
