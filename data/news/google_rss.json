@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-05T13:48:34.033956+00:00",
-  "count": 23,
+  "fetched_at": "2026-06-05T16:26:19.071424+00:00",
+  "count": 22,
   "news": [
     {
       "id": "711e92b20f59",
@@ -24,6 +24,18 @@
         {
           "name": "Investing.com 香港 - 股市報價& 財經新聞",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xbWx2Y0JIdkRpRWNFWlVjSDd4emJxYlJEcXVSc2hBaWxtZFpNcWhSY3JUeFBLVXI2WjNmSnFxQkJvUFZybjZTUno3UGJuRFB4R21aUUhQSUJyWTBRbUpKdDN6VG1pUjJsdGhhM2xYY1k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c105ec7161ff",
+      "title": "以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖 - 拾方視角",
+      "published": "2026-06-05T03:31:15+00:00",
+      "summary": "以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖&nbsp;&nbsp;拾方視角Google 母公司 Alphabet 最新 Debug 計劃：滅蚊！是的，你沒有看錯標題&nbsp;&nbsp;PopbeeGoogle請求批准投放3200萬隻蚊子入境，讓雄蚊不育「絕子絕孫」&nbsp;&nbsp;鏈新聞 ABMedia動機從來都是好的 關鍵是結果&nbsp;&nbsp;Singtaousa谷歌希望在加州和佛羅裡達州釋放多達 3,200 萬隻「好」蚊子&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "拾方視角",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQa3EyT1Ezdm9TVWNvcFc1TGY2Q2phMHBVTzYya1E4TzNMY0VHS1hIS0l1ZDJaZ2YxaWpGNzJ6QkZFeE9rdmM0bVhhZGpDWTcwZTZKcFJxMzRZdzNwdk05azRRS3lqNWdCN3ZPQmpkREwtdTRaZDJNM21EZF9ybEVHeXAxNmtoYmJwc1NPOVpNTFk4MUs2QjBGM09rNjB6TngyU0FnSHR0anByMU9jNGVtWDhSb2stcEMyay1Hc2Y4azhDVzJla2R2SERkQ3IycklJclNaa3dlRUNVNFFOWUxFNVEwNEl2QTBiNF9GSnQzOTVpcmdZSlRMYXIxRzhqbzg1c3czT0hpR0hkTG9kRGxPcUdDcE91MTBnMl9GSWdsblp2cUNWbVVveUNPODNYNzJYY0NJ?oc=5"
         }
       ]
     },
@@ -60,18 +72,6 @@
         {
           "name": "CMoney",
           "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxOc0s0RWZiZ09SN0hQZWhud0t1ZW4zSnJidmJfOTRza01GRnR0MHFFa2NGODFZb0RQajlyVU93V2tSN2FId0JyZS1qYW4tblByWV92a3RMMm9pbDc4UmFTSUpDUVFQd0M2ektLT2M5cEo0dVdjWmcxUEZsMUVQaHpGb0p5S3hsZzhFU1lMV0gtci1ZLWVSYWxSMW5GNHQ1WVBMalJjR1VCM21WOFlWM3NmVENkTjBPLVBSNnV4ZmxURnY3RUVxNDRMSUJybExDOVBZUmFiNkFCUmhGYk1xQjM1X0Z3aHFiRllVMTJiN21ta3l2clF2M090QlBveUd1NHJ2SGxiSG1JSm9NU3dYWklJVHdjdW1uQ0IxcEw1ZndzMVNqaW8wdUd5b0lUQXJSLWFCb0tRSWtiTGUwcW5wQlhwbkdXVnZKeHBGQUR6T3JxMmV1SmQyS1hxYW1Gc2dsa2pORDlFZWJDb2dBUm9ZUXVYQzQ4R2FyUFg0WmlzUDJlX3NJUzQ1cWlfeXhwRkZjMzhEUE5tS0lLZ3hjel95TFlTTmYxZFNaV284OUZYNlRqYmpQRVlNSWYtMnpXbDNpeHZnWFBfOUdIQnNCU1I0ZmhwbEhaUmFEaDdpOUdLZWVn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c105ec7161ff",
-      "title": "以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖 - 拾方視角",
-      "published": "2026-06-05T03:31:15+00:00",
-      "summary": "以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖&nbsp;&nbsp;拾方視角Google 母公司 Alphabet 最新 Debug 計劃：滅蚊！是的，你沒有看錯標題&nbsp;&nbsp;PopbeeGoogle請求批准投放3200萬隻蚊子入境，讓雄蚊不育「絕子絕孫」&nbsp;&nbsp;鏈新聞 ABMedia在美釋放3200萬隻蚊子！Google超狂計劃曝光 | NOWNEWS今日新聞&nbsp;&nbsp;LINE TODAY動機從來都是好的 關鍵是結果&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "拾方視角",
-          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQa3EyT1Ezdm9TVWNvcFc1TGY2Q2phMHBVTzYya1E4TzNMY0VHS1hIS0l1ZDJaZ2YxaWpGNzJ6QkZFeE9rdmM0bVhhZGpDWTcwZTZKcFJxMzRZdzNwdk05azRRS3lqNWdCN3ZPQmpkREwtdTRaZDJNM21EZF9ybEVHeXAxNmtoYmJwc1NPOVpNTFk4MUs2QjBGM09rNjB6TngyU0FnSHR0anByMU9jNGVtWDhSb2stcEMyay1Hc2Y4azhDVzJla2R2SERkQ3IycklJclNaa3dlRUNVNFFOWUxFNVEwNEl2QTBiNF9GSnQzOTVpcmdZSlRMYXIxRzhqbzg1c3czT0hpR0hkTG9kRGxPcUdDcE91MTBnMl9GSWdsblp2cUNWbVVveUNPODNYNzJYY0NJ?oc=5"
         }
       ]
     },
@@ -160,21 +160,9 @@
       ]
     },
     {
-      "id": "bc1bb28543be",
-      "title": "「被遺忘的器官」竟能預測壽命？科學家揭密人體健康新指標 - 蕃新聞",
-      "published": "2026-06-04T02:11:12+00:00",
-      "summary": "「被遺忘的器官」竟能預測壽命？科學家揭密人體健康新指標&nbsp;&nbsp;蕃新聞研究：胸腺健康決定長壽與否 3習慣恐短命&nbsp;&nbsp;Yahoo新聞研究：一個「被遺忘器官」或許能預測你的壽命- 國際&nbsp;&nbsp;中時新聞網被遺忘的器官可以預測你的壽命&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZODAxVV9LRFV6RlUxSHRPVXBmaXJhcnZNdEN6STFyZ21leGI1S2RVV1FmaV81SXZnc1JqdEtpZU1NUDlQY0t2b21fYlJvMS1wZ0E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8eb50b87ec1b",
       "title": "客製化沙發不只換顏色 骨架結構成選購新關鍵 - 蕃新聞",
-      "published": "2026-06-04T22:47:13+00:00",
+      "published": "2026-06-05T16:02:52+00:00",
       "summary": "客製化沙發不只換顏色 骨架結構成選購新關鍵&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
@@ -235,7 +223,7 @@
       "id": "07bdb1cb236e",
       "title": "防護中心：17歲少年染乙型流感情況危殆 併發嚴重肺炎及休克 - 橙新聞",
       "published": "2026-06-05T11:37:53+00:00",
-      "summary": "防護中心：17歲少年染乙型流感情況危殆 併發嚴重肺炎及休克&nbsp;&nbsp;橙新聞17歲男童染乙流併發嚴重肺炎及休克 情況危殆&nbsp;&nbsp;信報網站乙流︱17歲男童併發嚴重肺炎及休克 發燒及血含氧度下降 情況危殆留醫PICU&nbsp;&nbsp;stheadline.com感染乙流併發嚴重肺炎及休克 17歲男童危殆留醫PICU&nbsp;&nbsp;on.cc東網長期病患17歲少年染乙型流感併發嚴重肺炎及休克 情況危殆&nbsp;&nbsp;香港電台新聞網",
+      "summary": "防護中心：17歲少年染乙型流感情況危殆 併發嚴重肺炎及休克&nbsp;&nbsp;橙新聞17歲男童染乙流併發嚴重肺炎及休克 情況危殆&nbsp;&nbsp;信報網站感染乙流併發嚴重肺炎及休克 17歲男童危殆留醫PICU&nbsp;&nbsp;on.cc東網流感︱17歲少年中乙流咳嗽痰中帶血 入院後轉危殆 併發嚴重肺炎休克&nbsp;&nbsp;香港經濟日報HKET17歲少年感染流感情況危殆 有家庭醫生指社區對乙型流感免疫力不足&nbsp;&nbsp;TVB",
       "sources": [
         {
           "name": "橙新聞",

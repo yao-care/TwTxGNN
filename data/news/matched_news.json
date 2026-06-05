@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-06-05T13:48:37.953797+00:00",
-  "total_count": 23,
+  "last_updated": "2026-06-05T16:26:24.793527+00:00",
+  "total_count": 22,
   "matched_count": 7,
   "news": [
+    {
+      "id": "8eb50b87ec1b",
+      "title": "客製化沙發不只換顏色 骨架結構成選購新關鍵",
+      "published": "2026-06-05T16:02:52+00:00",
+      "summary": "客製化沙發不只換顏色 骨架結構成選購新關鍵&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmeThKN0pDdHczam5PTm5xRnBTbjhvcXBlaE92RUpHQkRLLVpNSHZ3RFAxRm03V2owOXZLVTVoSkJkTU1aQTAxSWN0TmNHZVJydVE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "0a843eacdb0d",
       "title": "研究發現靜脈注射氯胺酮的緩解率高於艾氯胺酮 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
@@ -20,7 +33,7 @@
       "id": "07bdb1cb236e",
       "title": "防護中心：17歲少年染乙型流感情況危殆 併發嚴重肺炎及休克",
       "published": "2026-06-05T11:37:53+00:00",
-      "summary": "防護中心：17歲少年染乙型流感情況危殆 併發嚴重肺炎及休克&nbsp;&nbsp;橙新聞17歲男童染乙流併發嚴重肺炎及休克 情況危殆&nbsp;&nbsp;信報網站乙流︱17歲男童併發嚴重肺炎及休克 發燒及血含氧度下降 情況危殆留醫PICU&nbsp;&nbsp;stheadline.com感染乙流併發嚴重肺炎及休克 17歲男童危殆留醫PICU&nbsp;&nbsp;on.cc東網長期病患17歲少年染乙型流感併發嚴重肺炎及休克 情況危殆&nbsp;&nbsp;香港電台新聞網",
+      "summary": "防護中心：17歲少年染乙型流感情況危殆 併發嚴重肺炎及休克&nbsp;&nbsp;橙新聞17歲男童染乙流併發嚴重肺炎及休克 情況危殆&nbsp;&nbsp;信報網站感染乙流併發嚴重肺炎及休克 17歲男童危殆留醫PICU&nbsp;&nbsp;on.cc東網流感︱17歲少年中乙流咳嗽痰中帶血 入院後轉危殆 併發嚴重肺炎休克&nbsp;&nbsp;香港經濟日報HKET17歲少年感染流感情況危殆 有家庭醫生指社區對乙型流感免疫力不足&nbsp;&nbsp;TVB",
       "sources": [
         {
           "name": "橙新聞",
@@ -110,7 +123,7 @@
       "id": "c105ec7161ff",
       "title": "以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖",
       "published": "2026-06-05T03:31:15+00:00",
-      "summary": "以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖&nbsp;&nbsp;拾方視角Google 母公司 Alphabet 最新 Debug 計劃：滅蚊！是的，你沒有看錯標題&nbsp;&nbsp;PopbeeGoogle請求批准投放3200萬隻蚊子入境，讓雄蚊不育「絕子絕孫」&nbsp;&nbsp;鏈新聞 ABMedia在美釋放3200萬隻蚊子！Google超狂計劃曝光 | NOWNEWS今日新聞&nbsp;&nbsp;LINE TODAY動機從來都是好的 關鍵是結果&nbsp;&nbsp;Singtaousa",
+      "summary": "以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖&nbsp;&nbsp;拾方視角Google 母公司 Alphabet 最新 Debug 計劃：滅蚊！是的，你沒有看錯標題&nbsp;&nbsp;PopbeeGoogle請求批准投放3200萬隻蚊子入境，讓雄蚊不育「絕子絕孫」&nbsp;&nbsp;鏈新聞 ABMedia動機從來都是好的 關鍵是結果&nbsp;&nbsp;Singtaousa谷歌希望在加州和佛羅裡達州釋放多達 3,200 萬隻「好」蚊子&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
           "name": "拾方視角",
@@ -165,19 +178,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "8eb50b87ec1b",
-      "title": "客製化沙發不只換顏色 骨架結構成選購新關鍵",
-      "published": "2026-06-04T22:47:13+00:00",
-      "summary": "客製化沙發不只換顏色 骨架結構成選購新關鍵&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmeThKN0pDdHczam5PTm5xRnBTbjhvcXBlaE92RUpHQkRLLVpNSHZ3RFAxRm03V2owOXZLVTVoSkJkTU1aQTAxSWN0TmNHZVJydVE?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "b96a1ce86731",
@@ -468,19 +468,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "bc1bb28543be",
-      "title": "「被遺忘的器官」竟能預測壽命？科學家揭密人體健康新指標",
-      "published": "2026-06-04T02:11:12+00:00",
-      "summary": "「被遺忘的器官」竟能預測壽命？科學家揭密人體健康新指標&nbsp;&nbsp;蕃新聞研究：胸腺健康決定長壽與否 3習慣恐短命&nbsp;&nbsp;Yahoo新聞研究：一個「被遺忘器官」或許能預測你的壽命- 國際&nbsp;&nbsp;中時新聞網被遺忘的器官可以預測你的壽命&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZODAxVV9LRFV6RlUxSHRPVXBmaXJhcnZNdEN6STFyZ21leGI1S2RVV1FmaV81SXZnc1JqdEtpZU1NUDlQY0t2b21fYlJvMS1wZ0E?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "e37344e62a9d",
