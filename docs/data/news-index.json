@@ -1,7 +1,53 @@
 {
-  "generated": "2026-06-04T23:01:30.381680+00:00",
+  "generated": "2026-06-05T02:35:38.906799+00:00",
   "count": 9,
   "news": [
+    {
+      "id": "1b77b5fb03cd",
+      "title": "【新新聞】早期失智症治療用藥終於出現 適用範圍、療程費用一次看 | 黃天如 | VIP",
+      "published": "2026-06-05T00:30:01+00:00",
+      "sources": [
+        {
+          "name": "風傳媒",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE92QjhSOFJReXZGYkpkWG5uTmZRQVpwSjRwYzUwVVNUVnRGVl9pTU0yMXlzV2hMQzlabDh0M2huX3RYanVVTWVHRG5tUW8?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "57cd60751f6d",
       "title": "手術化療都做了，為何癌症還復發？小心「身體缺氧、發炎」變癌細胞舒適圈：3關鍵防復發",
@@ -823,30 +869,6 @@
           "type": "indication",
           "name": "dementia",
           "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5f1adea528cc",
-      "title": "好命生醫引進代謝體檢測，單次抽血有望提早 10 年預測阿茲海默症風險 - GeneOnline News",
-      "published": "2026-06-03T04:51:38+00:00",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcTAxWmIyUkFiQkpfZzE1aDRocHlFNV96X2xBRGhUblJsdFFXTzR5RFBneEpkLURpNTE0VFROV29NeERtMHFCcGJqYkNjZmQyTHhRRENvRE1OeTVaTDk2WVNGNjFZNWx0bGpYQkRWWTVXa1ZHdDdyR3Z1c255Y0N2R3B5YlNIbF9wT1o0?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
           "related_drugs": [
             {
               "slug": "gefitinib",

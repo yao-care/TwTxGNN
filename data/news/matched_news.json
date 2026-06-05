@@ -1,8 +1,81 @@
 {
-  "last_updated": "2026-06-04T23:01:30.339798+00:00",
-  "total_count": 29,
+  "last_updated": "2026-06-05T02:35:38.874188+00:00",
+  "total_count": 26,
   "matched_count": 9,
   "news": [
+    {
+      "id": "064c5b464efc",
+      "title": "Google 母公司 Alphabet 最新 Debug 計劃：滅蚊！是的，你沒有看錯標題",
+      "published": "2026-06-05T01:34:06+00:00",
+      "summary": "Google 母公司 Alphabet 最新 Debug 計劃：滅蚊！是的，你沒有看錯標題&nbsp;&nbsp;PopbeeGoogle請求批准投放3200萬隻蚊子入境，讓雄蚊不育「絕子絕孫」&nbsp;&nbsp;鏈新聞 ABMedia為消滅病媒蚊！ Google擬向加州、佛州釋放3200萬隻「基改蚊子」 - 國際新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞在美釋放3200萬隻蚊子！Google超狂計劃曝光 | NOWNEWS今日新聞&nbsp;&nbsp;LINE TODAYGoogle擬放出千萬隻「臥底蚊」！料與雌蚊交配即絕子絕孫？黑科技對抗登革熱+寨卡病毒&nbsp;&nbsp;UHK 港生活",
+      "sources": [
+        {
+          "name": "Popbee",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sVUFSV3g0QnJaeWxFUjNwVFQ5Y2QtSXR5cXBUTVQxb2xQT0l3N3dwckZMSnFVc2dRRHVWVmtiY3NvdGsyN0EzUUJObWRkbndvUldiM1VHSDk5LUxCZmRwdzN0RmFBamMtM1E0eDlyNm4?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1b77b5fb03cd",
+      "title": "【新新聞】早期失智症治療用藥終於出現 適用範圍、療程費用一次看 | 黃天如 | VIP",
+      "published": "2026-06-05T00:30:01+00:00",
+      "summary": "【新新聞】早期失智症治療用藥終於出現 適用範圍、療程費用一次看 | 黃天如 | VIP&nbsp;&nbsp;風傳媒好命生醫引進代謝體檢測，單次抽血有望提早 10 年預測阿茲海默症風險&nbsp;&nbsp;GeneOnline News失智治療元年開跑！藥物卻只救早期？台灣新旭生技用「影像＋AI」生態系 讓百健、BMS大廠搶合作&nbsp;&nbsp;Business Insider TaiwanAI血檢分類器準确區分四種癡呆相關腦病&nbsp;&nbsp;華僑時報",
+      "sources": [
+        {
+          "name": "風傳媒",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE92QjhSOFJReXZGYkpkWG5uTmZRQVpwSjRwYzUwVVNUVnRGVl9pTU0yMXlzV2hMQzlabDh0M2huX3RYanVVTWVHRG5tUW8?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8eb50b87ec1b",
+      "title": "客製化沙發不只換顏色 骨架結構成選購新關鍵",
+      "published": "2026-06-04T22:47:13+00:00",
+      "summary": "客製化沙發不只換顏色 骨架結構成選購新關鍵&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmeThKN0pDdHczam5PTm5xRnBTbjhvcXBlaE92RUpHQkRLLVpNSHZ3RFAxRm03V2owOXZLVTVoSkJkTU1aQTAxSWN0TmNHZVJydVE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "b96a1ce86731",
       "title": "扭傷意外險理賠為什麼不能誇大事故敘述？理賠審核重點一次看懂",
@@ -263,19 +336,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "e3fa5102f4aa",
-      "title": "焦慮與飲食有關嗎？大腦的「膽鹼」濃度可能是關鍵 | 科技新報 - LINE TODAY",
-      "published": "2026-06-04T07:33:32+00:00",
-      "summary": "焦慮與飲食有關嗎？大腦的「膽鹼」濃度可能是關鍵 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zWHc4M1lXUExLLW45UFNDVVdFZkRQV0hBVW9HNXFlOC1sVU5ENlFYc2xzb1BNWDBFcmpEWENtWjRZWENHTkdralpsdlRwY2Z4YS1SMkN3?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "ce309a6d07ce",
@@ -936,32 +996,6 @@
       "matched_keywords": []
     },
     {
-      "id": "84c82ad55173",
-      "title": "Google計畫在美國釋放3200萬隻蚊子！「生物Debug實驗」抗登革熱引熱議",
-      "published": "2026-06-03T09:21:00+00:00",
-      "summary": "Google計畫在美國釋放3200萬隻蚊子！「生物Debug實驗」抗登革熱引熱議&nbsp;&nbsp;加密城市CryptoCityGoogle請求批准投放3200萬隻蚊子入境，讓雄蚊不育「絕子絕孫」&nbsp;&nbsp;鏈新聞 ABMediaGoogle想放飛3200萬隻「蚊子大軍」 靠「蚊制蚊」對抗登革熱- 國際&nbsp;&nbsp;中時新聞網Google擬野放3200萬隻蚊子 「科技debug」 對抗登革熱&nbsp;&nbsp;MSNGoogle要放「3200萬隻蚊子」超狂目的曝光 居民怕爆：別在我家後院實驗&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "加密城市CryptoCity",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOejB2OHFOU1lyNzNmSnRZejRxOWNTekZZWm9rVEt4X1NicUNHVmR6MWdnUTRyaFplQWtMaDBXbEM4NkUxME9LM05RNkk1ZHdEQU1QNm5OM2s1Sl9zbHhLWUZhQ1FaSVFmaGJsbWVuUU1ic29ySnhONVZxQUt6bkJmTQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "444e788373c4",
-      "title": "AI假醫師捏造多吃綠香蕉改善腎功能和夜尿假訊息",
-      "published": "2026-06-03T07:55:43+00:00",
-      "summary": "AI假醫師捏造多吃綠香蕉改善腎功能和夜尿假訊息&nbsp;&nbsp;台灣事實查核中心",
-      "sources": [
-        {
-          "name": "台灣事實查核中心",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON200VmxIamRLaGRCbHF2WEFiSk4yLTI1MVlJcmFWQm82YmtJR3dVcGtMRUdfaUtzRDBfTm5ZbnZmcERhTjhCblN5NGdmUEtCT3VsTUZnaEhFNWJETU96WTNyMmJITEFudDEyNnlfVnY0X3RYU2xQc19uRXoxMEoxS25CWGNyZmwtVVdiRHA3M1Q2NElJMnhyZHBEcWlMWC01VjJwUGw0Q21XcVlpWHF0LUJTUzdUZU5xTmlEVVdCY1F3Sjdk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "cd6ac611a650",
       "title": "研究：胸腺健康決定長壽與否 3習慣恐短命",
       "published": "2026-06-03T07:36:24+00:00",
@@ -1037,31 +1071,6 @@
       ]
     },
     {
-      "id": "5f1adea528cc",
-      "title": "好命生醫引進代謝體檢測，單次抽血有望提早 10 年預測阿茲海默症風險 - GeneOnline News",
-      "published": "2026-06-03T04:51:38+00:00",
-      "summary": "好命生醫引進代謝體檢測，單次抽血有望提早 10 年預測阿茲海默症風險&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcTAxWmIyUkFiQkpfZzE1aDRocHlFNV96X2xBRGhUblJsdFFXTzR5RFBneEpkLURpNTE0VFROV29NeERtMHFCcGJqYkNjZmQyTHhRRENvRE1OeTVaTDk2WVNGNjFZNWx0bGpYQkRWWTVXa1ZHdDdyR3Z1c255Y0N2R3B5YlNIbF9wT1o0?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "556d02395eac",
       "title": "胃酸倒流折磨身心新技術提供精準診斷 助患者盡快治療改善生活質素",
       "published": "2026-06-03T04:08:19+00:00",
@@ -1070,19 +1079,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxOYnktUHdlWEtnaC1UYm5VbnpFWEZCSzkyN3FEbGJZQmh0SldYM2t6OXVGci1vS1ZNeTFtMXdzRW9pSlE3T1FweE5ZcXdwVHQ1ME1RNXZNenR0UkRFMGNNR1dhZHNUY3hucXI3M3gwVmJBUlVQcDAxWXR5b0MwME5lX3dQSzN5aFI3S3lHWnRCWDlLVWhCbENqWi1DRXNaRDRmYjd3d1RPMnVpeE5kZjBVT0JxblhUOHBxUGxvdXhPVDlJaHU2d1M2eFlxNE42bFBvSHVoWF9jQzF2MmJrN3lOV0plcldxVjNpSmtnY0M5QWtjRnNGS3g1Z3FYWlB1alJCazJkSkNfQk1xeElrUGNtSElySlR0RFJXMFV2SDVtTnpJMG1pQWJidkJRMDhKLUFYbHVZTGhjMkFZS1YtU1pYRXhkLTNvM0JUbzZqUVZ3c3c0dERYS3dvTTZUXzlSX3lMLWh4RTZhY1cwZ1pUZzZ4VnhTcnpWMVVXaURoUXFaZkVNdWp3TXBoS0FuUVZ0UXo1alRuc0owZjhvQ0hnZHRIZC1rM2Z6ellpMUY4OWQ5b1hyTTBzYVJvN1ZkRTJFYkhDc1A1Ul9ZQ3M5T2NXUnk3UENtOA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8eb50b87ec1b",
-      "title": "客製化沙發不只換顏色 骨架結構成選購新關鍵",
-      "published": "2026-06-03T03:37:00+00:00",
-      "summary": "客製化沙發不只換顏色 骨架結構成選購新關鍵&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmeThKN0pDdHczam5PTm5xRnBTbjhvcXBlaE92RUpHQkRLLVpNSHZ3RFAxRm03V2owOXZLVTVoSkJkTU1aQTAxSWN0TmNHZVJydVE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1109,19 +1105,6 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTDJaZGFzaWxHRzF4UWZITTBpN1NsRWVOX2ZlSmNqWDdPTmg4QTB6RTFNenZGWGpJVWpxYWNvRVBaZV9YUHJGRGhzSWxvRVlFeHFsLV9DQ3FKRjhIUWhGbldiVWxTdnBjLWRLUlBFeGstZ3RqdGpiSUo2c0RKVGZ4TFNGNm9pVS1CX0ptenAwNA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "554d4b56a4a9",
-      "title": "膿皰遍佈全⾝疼痛難眠  ⼤林慈濟醫院精準治療助患者重拾⽣活品質",
-      "published": "2026-05-06T00:00:00+00:00",
-      "summary": "",
-      "sources": [
-        {
-          "name": "嘉義慈濟醫院",
-          "link": "https://chiayi.tzuchi-healthcare.org.tw/index.php/zui-xin-xiao-xi/jian-kang-wei-jiao-4/nong-pao-bian-bu-quan-shen-teng-tong-nan-mian-da-lin-ci-ji-yi-yuan-jing-zhun-zhi-liao-zhu-huan-zhe-zhong-shi-sheng-huo-pin-zhi"
         }
       ],
       "matched_keywords": []

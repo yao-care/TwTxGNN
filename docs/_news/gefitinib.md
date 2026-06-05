@@ -43,6 +43,14 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（6 則）
 
+### [【新新聞】早期失智症治療用藥終於出現 適用範圍、療程費用一次看 | 黃天如 | VIP](https://news.google.com/rss/articles/CBMiTEFVX3lxTE92QjhSOFJReXZGYkpkWG5uTmZRQVpwSjRwYzUwVVNUVnRGVl9pTU0yMXlzV2hMQzlabDh0M2huX3RYanVVTWVHRG5tUW8?oc=5)
+
+2026-06-05 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源：[風傳媒](https://news.google.com/rss/articles/CBMiTEFVX3lxTE92QjhSOFJReXZGYkpkWG5uTmZRQVpwSjRwYzUwVVNUVnRGVl9pTU0yMXlzV2hMQzlabDh0M2huX3RYanVVTWVHRG5tUW8?oc=5)
+
+---
+
 ### [手術化療都做了，為何癌症還復發？小心「身體缺氧、發炎」變癌細胞舒適圈：3關鍵防復發](https://news.google.com/rss/articles/CBMie0FVX3lxTE5aTXRTN3I2RVlGNS11dmdLQzZRd3A2cDl1WFoyV3RKWk9lRVhDTE4tUFY3elAyN0hrWW9udjhTMHZ0TG9ZSVlvUXREcmVCTFgyc2ktakJhb3p3NUpyTVpFVXJ2X25QcnFoZ3czZGpqZ2RDNWlYRHY2dmJROA?oc=5)
 
 2026-06-04 <span class="news-indication-tag">癌症</span>
@@ -80,14 +88,6 @@ permalink: /news/gefitinib/
 2026-06-03 <span class="news-indication-tag">失智</span>
 
 來源：[Women's Health](https://news.google.com/rss/articles/CBMirgFBVV95cUxOR1JGN244aW5Sc2ZESk5VYlVPZkpRN0liZEtZN2oxZnFMRzlDUFBJVlliSTJVenYxcFVYR2NRQmlJdVg3RXBDQmcxYzh6WEszcDZVTzhhUWR6U1F6OEJFT2pkVDZtel9EQmVhaTcyXzVTZkpjVXdXQWtIMXJiMjIxLS1WNFZnMWRMT0VCRXFsLTFpaWtyRXoxVGJaMEw4UzhMV2JNVkNfWE1kZlVQMGc?oc=5)
-
----
-
-### [好命生醫引進代謝體檢測，單次抽血有望提早 10 年預測阿茲海默症風險 - GeneOnline News](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcTAxWmIyUkFiQkpfZzE1aDRocHlFNV96X2xBRGhUblJsdFFXTzR5RFBneEpkLURpNTE0VFROV29NeERtMHFCcGJqYkNjZmQyTHhRRENvRE1OeTVaTDk2WVNGNjFZNWx0bGpYQkRWWTVXa1ZHdDdyR3Z1c255Y0N2R3B5YlNIbF9wT1o0?oc=5)
-
-2026-06-03 <span class="news-indication-tag">阿茲海默症</span>
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcTAxWmIyUkFiQkpfZzE1aDRocHlFNV96X2xBRGhUblJsdFFXTzR5RFBneEpkLURpNTE0VFROV29NeERtMHFCcGJqYkNjZmQyTHhRRENvRE1OeTVaTDk2WVNGNjFZNWx0bGpYQkRWWTVXa1ZHdDdyR3Z1c255Y0N2R3B5YlNIbF9wT1o0?oc=5)
 
 ---
 
