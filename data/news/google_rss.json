@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-05T22:09:43.049217+00:00",
+  "fetched_at": "2026-06-05T23:59:44.911995+00:00",
   "count": 20,
   "news": [
     {
@@ -31,7 +31,7 @@
       "id": "c105ec7161ff",
       "title": "以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖 - 拾方視角",
       "published": "2026-06-05T03:31:15+00:00",
-      "summary": "以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖&nbsp;&nbsp;拾方視角Google申請要放6400萬隻蚊子！地點曝光&nbsp;&nbsp;ETtoday新聞雲Google 母公司 Alphabet 最新 Debug 計劃：滅蚊！是的，你沒有看錯標題&nbsp;&nbsp;PopbeeGoogle請求批准投放3200萬隻蚊子入境，讓雄蚊不育「絕子絕孫」&nbsp;&nbsp;鏈新聞 ABMedia動機從來都是好的 關鍵是結果&nbsp;&nbsp;Singtaousa",
+      "summary": "以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖&nbsp;&nbsp;拾方視角Google 母公司 Alphabet 最新 Debug 計劃：滅蚊！是的，你沒有看錯標題&nbsp;&nbsp;PopbeeGoogle請求批准投放3200萬隻蚊子入境，讓雄蚊不育「絕子絕孫」&nbsp;&nbsp;鏈新聞 ABMediaGoogle申請要放6400萬隻蚊子！地點曝光&nbsp;&nbsp;ETtoday新聞雲動機從來都是好的 關鍵是結果&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "拾方視角",
@@ -196,18 +196,6 @@
       ]
     },
     {
-      "id": "e37344e62a9d",
-      "title": "最新研究揭示老年泌尿道感染診斷挑戰與尿液試紙局限性 - GeneOnline News",
-      "published": "2026-06-04T02:09:03+00:00",
-      "summary": "最新研究揭示老年泌尿道感染診斷挑戰與尿液試紙局限性&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOTUJyMGF1c25ZODlUb2U5YzJyeHFzNzZ4ZXowY2FHWUhrZDhySERSOXFoRlhtLTJIc1MtUFBuUGpRUmYzbzR3VXM2OHBlX0hZWnZYeWxPSVRjOUFKTF9WVUx1V2lKN1VBOHhDdXN4cWQwc0JBLV9NT0E1Q2FERjE5OTY0UXZMdEtpajdWeW1uZW9fcXltV0M0dTlMdjcybUJNMGlmUkV4a2cyNm94WjJtUjZPQWV6YjRKOXZVMFNUNlpMT2xfS1pUYVE2Y2ZkV1ZoempTY0hfLXh1czVVMV95Q2FKSU5zWndXRENSOFR6YVpydFpmZlkxdEdIQ1R1X3F1YnBpT09FNE1hcVk3ZkVobUl2RTdtZU5kdjBKaWNNam9SLUtvbUxaYWpvbl9LWF8tOUZhR2hxbzFObW5jTXBDMDdxLTdhZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0e4a3e0b8fac",
       "title": "英國NHS引進卵巢癌新藥mirvetuximab，延長患者壽命並提升生活品質 - Singtaousa",
       "published": "2026-06-04T02:38:39+00:00",
@@ -216,6 +204,18 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUWRDMzVGMWI3aWlhdjVQc2UwS2JLazhJLVdPazJkWkZwZDk4cmxXdTY5TFItMDM2WmN6Y2tsVFdzMnBFRTRVZlBkMlMyVW1fek9PNzhtMUVXS1pNOUlTcmxfeldtXzJ4MDROYjJvZUVKR1I5cHFaQlJhaVRzZFNOUGgyR2RGU01DcFJDWTdJczVmUXo0bEZnbUNaMWwzQ3UzMW9XNmlnLUNiZ1duOFN5bUhzcUZRVlRIcS1HWUhDQWZRQi1teFln?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e37344e62a9d",
+      "title": "最新研究揭示老年泌尿道感染診斷挑戰與尿液試紙局限性 - GeneOnline News",
+      "published": "2026-06-04T02:09:03+00:00",
+      "summary": "最新研究揭示老年泌尿道感染診斷挑戰與尿液試紙局限性&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOTUJyMGF1c25ZODlUb2U5YzJyeHFzNzZ4ZXowY2FHWUhrZDhySERSOXFoRlhtLTJIc1MtUFBuUGpRUmYzbzR3VXM2OHBlX0hZWnZYeWxPSVRjOUFKTF9WVUx1V2lKN1VBOHhDdXN4cWQwc0JBLV9NT0E1Q2FERjE5OTY0UXZMdEtpajdWeW1uZW9fcXltV0M0dTlMdjcybUJNMGlmUkV4a2cyNm94WjJtUjZPQWV6YjRKOXZVMFNUNlpMT2xfS1pUYVE2Y2ZkV1ZoempTY0hfLXh1czVVMV95Q2FKSU5zWndXRENSOFR6YVpydFpmZlkxdEdIQ1R1X3F1YnBpT09FNE1hcVk3ZkVobUl2RTdtZU5kdjBKaWNNam9SLUtvbUxaYWpvbl9LWF8tOUZhR2hxbzFObW5jTXBDMDdxLTdhZw?oc=5"
         }
       ]
     },
