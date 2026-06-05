@@ -1,13 +1,13 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-05T20:45:47.828962+00:00",
+  "fetched_at": "2026-06-05T22:09:43.049217+00:00",
   "count": 20,
   "news": [
     {
       "id": "711e92b20f59",
       "title": "劍橋大學團隊AI設計疫苗有望顛覆性突破拯救生命| 國際 - 中央社 CNA",
       "published": "2026-06-05T08:50:00+00:00",
-      "summary": "劍橋大學團隊AI設計疫苗有望顛覆性突破拯救生命| 國際&nbsp;&nbsp;中央社 CNA",
+      "summary": "劍橋大學團隊AI設計疫苗有望顛覆性突破拯救生命| 國際&nbsp;&nbsp;中央社 CNA「全球首創」由人工智慧設計的疫苗是怎樣誕生的？&nbsp;&nbsp;BBC「顛覆性突破」劍橋大學團隊AI設計疫苗有望顛覆性突破拯救生命| 世界萬象| 全球&nbsp;&nbsp;UDN",
       "sources": [
         {
           "name": "中央社 CNA",
@@ -28,22 +28,10 @@
       ]
     },
     {
-      "id": "0a843eacdb0d",
-      "title": "研究發現靜脈注射氯胺酮的緩解率高於艾氯胺酮 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
-      "published": "2026-06-05T13:09:35+00:00",
-      "summary": "研究發現靜脈注射氯胺酮的緩解率高於艾氯胺酮 作者 Investing.com&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
-      "sources": [
-        {
-          "name": "Investing.com 香港 - 股市報價& 財經新聞",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xbWx2Y0JIdkRpRWNFWlVjSDd4emJxYlJEcXVSc2hBaWxtZFpNcWhSY3JUeFBLVXI2WjNmSnFxQkJvUFZybjZTUno3UGJuRFB4R21aUUhQSUJyWTBRbUpKdDN6VG1pUjJsdGhhM2xYY1k?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c105ec7161ff",
       "title": "以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖 - 拾方視角",
       "published": "2026-06-05T03:31:15+00:00",
-      "summary": "以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖&nbsp;&nbsp;拾方視角Google 母公司 Alphabet 最新 Debug 計劃：滅蚊！是的，你沒有看錯標題&nbsp;&nbsp;PopbeeGoogle請求批准投放3200萬隻蚊子入境，讓雄蚊不育「絕子絕孫」&nbsp;&nbsp;鏈新聞 ABMedia動機從來都是好的 關鍵是結果&nbsp;&nbsp;Singtaousa谷歌希望在加州和佛羅裡達州釋放多達 3,200 萬隻「好」蚊子&nbsp;&nbsp;arch-web.com.tw",
+      "summary": "以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖&nbsp;&nbsp;拾方視角Google申請要放6400萬隻蚊子！地點曝光&nbsp;&nbsp;ETtoday新聞雲Google 母公司 Alphabet 最新 Debug 計劃：滅蚊！是的，你沒有看錯標題&nbsp;&nbsp;PopbeeGoogle請求批准投放3200萬隻蚊子入境，讓雄蚊不育「絕子絕孫」&nbsp;&nbsp;鏈新聞 ABMedia動機從來都是好的 關鍵是結果&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "拾方視角",
@@ -60,6 +48,18 @@
         {
           "name": "風傳媒",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE92QjhSOFJReXZGYkpkWG5uTmZRQVpwSjRwYzUwVVNUVnRGVl9pTU0yMXlzV2hMQzlabDh0M2huX3RYanVVTWVHRG5tUW8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0a843eacdb0d",
+      "title": "研究發現靜脈注射氯胺酮的緩解率高於艾氯胺酮 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
+      "published": "2026-06-05T13:09:35+00:00",
+      "summary": "研究發現靜脈注射氯胺酮的緩解率高於艾氯胺酮 作者 Investing.com&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
+      "sources": [
+        {
+          "name": "Investing.com 香港 - 股市報價& 財經新聞",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xbWx2Y0JIdkRpRWNFWlVjSDd4emJxYlJEcXVSc2hBaWxtZFpNcWhSY3JUeFBLVXI2WjNmSnFxQkJvUFZybjZTUno3UGJuRFB4R21aUUhQSUJyWTBRbUpKdDN6VG1pUjJsdGhhM2xYY1k?oc=5"
         }
       ]
     },
@@ -184,18 +184,6 @@
       ]
     },
     {
-      "id": "e37344e62a9d",
-      "title": "最新研究揭示老年泌尿道感染診斷挑戰與尿液試紙局限性 - GeneOnline News",
-      "published": "2026-06-04T02:09:03+00:00",
-      "summary": "最新研究揭示老年泌尿道感染診斷挑戰與尿液試紙局限性&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOTUJyMGF1c25ZODlUb2U5YzJyeHFzNzZ4ZXowY2FHWUhrZDhySERSOXFoRlhtLTJIc1MtUFBuUGpRUmYzbzR3VXM2OHBlX0hZWnZYeWxPSVRjOUFKTF9WVUx1V2lKN1VBOHhDdXN4cWQwc0JBLV9NT0E1Q2FERjE5OTY0UXZMdEtpajdWeW1uZW9fcXltV0M0dTlMdjcybUJNMGlmUkV4a2cyNm94WjJtUjZPQWV6YjRKOXZVMFNUNlpMT2xfS1pUYVE2Y2ZkV1ZoempTY0hfLXh1czVVMV95Q2FKSU5zWndXRENSOFR6YVpydFpmZlkxdEdIQ1R1X3F1YnBpT09FNE1hcVk3ZkVobUl2RTdtZU5kdjBKaWNNam9SLUtvbUxaYWpvbl9LWF8tOUZhR2hxbzFObW5jTXBDMDdxLTdhZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "93ed000a2043",
       "title": "衞生防護中心：一名17歲少年染乙型流感情況危殆 併發嚴重肺炎及休克 - 香港商报",
       "published": "2026-06-05T16:28:00+00:00",
@@ -204,6 +192,18 @@
         {
           "name": "香港商报",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55ZVU3T1Y5ZG1fY3lrOGpCVWVQYjdsdXVYT04yMWtxaUcwcjM2a2ZfWkxmM1FLSVR5ZTJuNG82VUFhZGIzR0FIb2drNkR2anRydENyUDhzMzBERDljWkZZYjBhX09LTVNjTVZKOWJCZk56SlJhWUtwVU9RSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e37344e62a9d",
+      "title": "最新研究揭示老年泌尿道感染診斷挑戰與尿液試紙局限性 - GeneOnline News",
+      "published": "2026-06-04T02:09:03+00:00",
+      "summary": "最新研究揭示老年泌尿道感染診斷挑戰與尿液試紙局限性&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOTUJyMGF1c25ZODlUb2U5YzJyeHFzNzZ4ZXowY2FHWUhrZDhySERSOXFoRlhtLTJIc1MtUFBuUGpRUmYzbzR3VXM2OHBlX0hZWnZYeWxPSVRjOUFKTF9WVUx1V2lKN1VBOHhDdXN4cWQwc0JBLV9NT0E1Q2FERjE5OTY0UXZMdEtpajdWeW1uZW9fcXltV0M0dTlMdjcybUJNMGlmUkV4a2cyNm94WjJtUjZPQWV6YjRKOXZVMFNUNlpMT2xfS1pUYVE2Y2ZkV1ZoempTY0hfLXh1czVVMV95Q2FKSU5zWndXRENSOFR6YVpydFpmZlkxdEdIQ1R1X3F1YnBpT09FNE1hcVk3ZkVobUl2RTdtZU5kdjBKaWNNam9SLUtvbUxaYWpvbl9LWF8tOUZhR2hxbzFObW5jTXBDMDdxLTdhZw?oc=5"
         }
       ]
     },
