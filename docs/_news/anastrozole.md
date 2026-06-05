@@ -14,7 +14,7 @@ permalink: /news/anastrozole/
 ---
 
 <p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
-<strong>Anastrozole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Anastrozole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/anastrozole/
 <li><strong>原適應症</strong>：停經後婦女晚期乳癌、荷爾蒙接受器陽性早期乳癌輔助治療</li>
 <li><strong>證據等級</strong>：L1</li>
 <li><strong>預測適應症</strong>（6 個）：<ul>
-<li>female breast carcinoma（99.7%）</li>
+<li class="indication-matched">female breast carcinoma（99.7%）<span class="indication-tag">📰 乳癌</span></li>
 <li>neuroblastoma（99.5%）</li>
 <li>vertebral anomalies and variable endocrine and T-cell dysfunction（99.4%）</li>
 <li>ganglioneuroblastoma (disease)（99.4%）</li>
@@ -38,7 +38,15 @@ permalink: /news/anastrozole/
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [1運動做45分鐘 「 最凶險乳癌」細胞少長29％ 醫也喊神奇](https://news.google.com/rss/articles/CBMibkFVX3lxTE03MEsxOTF1ZjVyUFhRU3poblRwZXpoNVZxa1FnRXFqNHpkc1lKYmlIOU50TnNjbU9PYXIwYTkyUkRuaERrbzE0WVpiMGJFRHpHRVIyRl9LbzBKLWR2c1FNamN2eFQ0cHZwSWFHWFJ3?oc=5)
+
+2026-06-05 <span class="news-indication-tag">乳癌</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE03MEsxOTF1ZjVyUFhRU3poblRwZXpoNVZxa1FnRXFqNHpkc1lKYmlIOU50TnNjbU9PYXIwYTkyUkRuaERrbzE0WVpiMGJFRHpHRVIyRl9LbzBKLWR2c1FNamN2eFQ0cHZwSWFHWFJ3?oc=5)
+
+---
 
 ### [手術化療都做了，為何癌症還復發？小心「身體缺氧、發炎」變癌細胞舒適圈：3關鍵防復發](https://news.google.com/rss/articles/CBMie0FVX3lxTE5aTXRTN3I2RVlGNS11dmdLQzZRd3A2cDl1WFoyV3RKWk9lRVhDTE4tUFY3elAyN0hrWW9udjhTMHZ0TG9ZSVlvUXREcmVCTFgyc2ktakJhb3p3NUpyTVpFVXJ2X25QcnFoZ3czZGpqZ2RDNWlYRHY2dmJROA?oc=5)
 

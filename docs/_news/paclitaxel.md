@@ -27,7 +27,7 @@ permalink: /news/paclitaxel/
 <li><strong>原適應症</strong>：卵巢癌、乳癌、非小細胞肺癌、胃癌、食道癌、頭頸癌、膀胱癌、子宮頸癌</li>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>female breast carcinoma（100.0%）</li>
+<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
 <li>estrogen-receptor negative breast cancer（99.9%）</li>
 <li>hormone-resistant breast carcinoma（99.9%）</li>
 <li>estrogen-receptor positive breast cancer（99.9%）</li>
@@ -43,6 +43,14 @@ permalink: /news/paclitaxel/
 </div>
 
 ## 相關新聞（5 則）
+
+### [1運動做45分鐘 「 最凶險乳癌」細胞少長29％ 醫也喊神奇](https://news.google.com/rss/articles/CBMibkFVX3lxTE03MEsxOTF1ZjVyUFhRU3poblRwZXpoNVZxa1FnRXFqNHpkc1lKYmlIOU50TnNjbU9PYXIwYTkyUkRuaERrbzE0WVpiMGJFRHpHRVIyRl9LbzBKLWR2c1FNamN2eFQ0cHZwSWFHWFJ3?oc=5)
+
+2026-06-05 <span class="news-indication-tag">乳癌</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE03MEsxOTF1ZjVyUFhRU3poblRwZXpoNVZxa1FnRXFqNHpkc1lKYmlIOU50TnNjbU9PYXIwYTkyUkRuaERrbzE0WVpiMGJFRHpHRVIyRl9LbzBKLWR2c1FNamN2eFQ0cHZwSWFHWFJ3?oc=5)
+
+---
 
 ### [手術化療都做了，為何癌症還復發？小心「身體缺氧、發炎」變癌細胞舒適圈：3關鍵防復發](https://news.google.com/rss/articles/CBMie0FVX3lxTE5aTXRTN3I2RVlGNS11dmdLQzZRd3A2cDl1WFoyV3RKWk9lRVhDTE4tUFY3elAyN0hrWW9udjhTMHZ0TG9ZSVlvUXREcmVCTFgyc2ktakJhb3p3NUpyTVpFVXJ2X25QcnFoZ3czZGpqZ2RDNWlYRHY2dmJROA?oc=5)
 
@@ -73,14 +81,6 @@ permalink: /news/paclitaxel/
 2026-06-03 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">腎癌</span>
 
 來源：[信報網站](https://news.google.com/rss/articles/CBMiywJBVV95cUxPRHNldVdnZUZrczM2Ymh6MmIzN2lRalJNSm9yaUZRUldMaDlvWHRxTk1PUEQ1SURWYTdpRjA2OFVxM3pMaXVGN2Z1ZHhYeDQzN3RubWVrOUFlSVE2eTRSQ1hRUUpFaGZmOUw0cXpnaXZobWNMMkRDSE9ZV21zdFhETVJnOUJLd0ZHcmhKTzdMbGJFd3JnUzQzeG96dHU0ZHpCSTA5UU4wenRQR3VBcDdNRXZXRDh3eXd6OV9sQWZyZmVBbHBJX0FaZDJxZEphU2FSemxhZ0hpaGlyU2p4a3VmdXNTVzhnNE5vUVdwb3NrV3VkcWZVZVNUQnBGajNrSHNNNVF1anlqOEVyc0hDV1JocDVZZDBQTkFNbUVIdk9FSThkX2FqNlNORXJBZk1OUzVXczdEUVBaNVNZMzZhWU43Y0gyZ2xPV1Bmb3A4?oc=5)
-
----
-
-### [最新研究顯示不孕症與女性提早停經存在顯著關聯 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQNnhTdUQtVV96SThxUlA3M3p5ZDBLamtKX3duMWU5YnJuZmNKTnVvOHBWTy1OX29rTktVX0VtbG9DenJ5YWVWTnMyVmJEdFBwTV9XQk9wWm5qMFhRMU8xbXRLNS1za2E1dzZHWWktMnZ1TTV5OU1ySlA3RGlQV2JnRTJ2LWVnZzRjbHFIOWc3SDgxSjdmdTZNT2UzR2ZQVk54dmxvb1U0NlVaVFJRYXJsVl92QzFyQmQ3Z2NiOVRZa2tUdEk5TWJvVkpVTkpYbnVYbTBCSEdieWQ1X1YtVjctNTV6ZTBFaUdvWVBxS0NmMzVRMTRKa2RCR21pYUtQbEkyQm83ZXoxd2hmcXBoaUZjMXBUaGd6UWZGUFluazd1cjBaOE13bXJEYThWTVUxOU5zbllmQlRCUTdadkFvUHo3ZktUVTQyQQ?oc=5)
-
-2026-06-03 <span class="news-indication-tag">停經</span>
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQNnhTdUQtVV96SThxUlA3M3p5ZDBLamtKX3duMWU5YnJuZmNKTnVvOHBWTy1OX29rTktVX0VtbG9DenJ5YWVWTnMyVmJEdFBwTV9XQk9wWm5qMFhRMU8xbXRLNS1za2E1dzZHWWktMnZ1TTV5OU1ySlA3RGlQV2JnRTJ2LWVnZzRjbHFIOWc3SDgxSjdmdTZNT2UzR2ZQVk54dmxvb1U0NlVaVFJRYXJsVl92QzFyQmQ3Z2NiOVRZa2tUdEk5TWJvVkpVTkpYbnVYbTBCSEdieWQ1X1YtVjctNTV6ZTBFaUdvWVBxS0NmMzVRMTRKa2RCR21pYUtQbEkyQm83ZXoxd2hmcXBoaUZjMXBUaGd6UWZGUFluazd1cjBaOE13bXJEYThWTVUxOU5zbllmQlRCUTdadkFvUHo3ZktUVTQyQQ?oc=5)
 
 ---
 

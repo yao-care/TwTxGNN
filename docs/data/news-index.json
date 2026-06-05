@@ -1,7 +1,79 @@
 {
-  "generated": "2026-06-05T06:59:31.508596+00:00",
-  "count": 8,
+  "generated": "2026-06-05T10:49:48.978467+00:00",
+  "count": 9,
   "news": [
+    {
+      "id": "6f9d2efab1cb",
+      "title": "健康老化祕訣很簡單，研究：少吃一點",
+      "published": "2026-06-05T07:29:01+00:00",
+      "sources": [
+        {
+          "name": "財訊",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9OOVJpSVVJTW15UGVSQnVhTXZsZ1dhQlIzcWxVMmU0Y2tDTTB4MndTbHdjbG83TEstMGM0anBOczNtaTk0bHNRQmloWE5hdnNFWXlDWVRWRG55ZlFqWEpKOHhrWkNzN0tZT1doa3dOVjFHdG1GOGx4SE9KMA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a36e4a7cab38",
+      "title": "1運動做45分鐘 「 最凶險乳癌」細胞少長29％ 醫也喊神奇",
+      "published": "2026-06-05T07:04:58+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03MEsxOTF1ZjVyUFhRU3poblRwZXpoNVZxa1FnRXFqNHpkc1lKYmlIOU50TnNjbU9PYXIwYTkyUkRuaERrbzE0WVpiMGJFRHpHRVIyRl9LbzBKLWR2c1FNamN2eFQ0cHZwSWFHWFJ3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1b77b5fb03cd",
       "title": "【新新聞】早期失智症治療用藥終於出現 適用範圍、療程費用一次看 | 黃天如 | VIP",
@@ -813,42 +885,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3335f6f0170a",
-      "title": "最新研究顯示不孕症與女性提早停經存在顯著關聯 - GeneOnline News",
-      "published": "2026-06-03T06:11:29+00:00",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQNnhTdUQtVV96SThxUlA3M3p5ZDBLamtKX3duMWU5YnJuZmNKTnVvOHBWTy1OX29rTktVX0VtbG9DenJ5YWVWTnMyVmJEdFBwTV9XQk9wWm5qMFhRMU8xbXRLNS1za2E1dzZHWWktMnZ1TTV5OU1ySlA3RGlQV2JnRTJ2LWVnZzRjbHFIOWc3SDgxSjdmdTZNT2UzR2ZQVk54dmxvb1U0NlVaVFJRYXJsVl92QzFyQmQ3Z2NiOVRZa2tUdEk5TWJvVkpVTkpYbnVYbTBCSEdieWQ1X1YtVjctNTV6ZTBFaUdvWVBxS0NmMzVRMTRKa2RCR21pYUtQbEkyQm83ZXoxd2hmcXBoaUZjMXBUaGd6UWZGUFluazd1cjBaOE13bXJEYThWTVUxOU5zbllmQlRCUTdadkFvUHo3ZktUVTQyQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }
