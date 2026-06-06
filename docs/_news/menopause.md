@@ -1,45 +1,42 @@
 ---
 layout: default
-title: "Tioconazole 相關新聞"
+title: "更年期（menopause） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Tioconazole 的相關健康新聞報導。原適應症：感受性黴菌引起之局部感染症。預測適應症 3 個。"
-permalink: /news/tioconazole/
+description: "更年期（menopause） 的相關健康新聞報導。1 則新聞、4 個相關藥物。"
+permalink: /news/menopause/
 ---
 
-# Tioconazole 相關新聞
+# 更年期（menopause） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Tioconazole 有什麼相關新聞？">
-<strong>Tioconazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 3 個。
+<p class="key-answer" data-question="更年期（menopause） 有什麼相關新聞？">
+<strong>更年期（menopause）</strong> 目前有 <strong>1 則</strong>相關新聞報導，4 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合 Tioconazole 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+本頁整合「更年期」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
-<div class="drug-info-card">
-<strong>藥物資訊</strong>
+<div class="related-drugs-card">
+<strong>相關藥物報告</strong>
+<p>以下藥物的預測適應症可能與此疾病相關：</p>
 <ul>
-<li><strong>原適應症</strong>：感受性黴菌引起之局部感染症</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（3 個）：<ul>
-<li>vulvovaginitis（99.2%）</li>
-<li>vulvitis（99.2%）</li>
-<li>postmenopausal atrophic vaginitis（99.2%）</li>
-</ul></li>
+<li><a href="{{ '/drugs/nystatin/' | relative_url }}">Nystatin</a></li>
+<li><a href="{{ '/drugs/paclitaxel/' | relative_url }}">Paclitaxel</a></li>
+<li><a href="{{ '/drugs/tinidazole/' | relative_url }}">Tinidazole</a></li>
+<li><a href="{{ '/drugs/tioconazole/' | relative_url }}">Tioconazole</a></li>
 </ul>
-<p><a href="{{ '/drugs/tioconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（1 則）
 
 ### [女性更年期後骨質加速流失！醫示警：停經後5-7年恐剩七成骨量，停經後死亡風險增15倍](https://news.google.com/rss/articles/CBMi9gNBVV95cUxOUzFQYXkzWU52UGFuczdTWTZ3bjJQQ1dpYkxqc2d1N2ZaTDFzbEtwNUJES0RHeHVUMnNNb3lCUDJ3REtBTHNaTWhTeWxVV2poSFNqYUFyY2hwUXJIQ3dVSVpVY2pjZUttVzc0bTBLSzBJZS1hVXM4Q1F4ZFJGVzhCVEZmbFFubThCaFZMNVVPX191SkVYbnJla0xmaEhQb1hXVGxLNHMxUzVqZTlUdmFzam9rZnQ4aDB6SUNKMDRMdlNhU2ItajNIYzdIdWZ0QTdLMV9TOURxZ3R1dTEwYUd0ai1USjFKTjdldFpSMmNUSk9jdkdfTnFGWFlnZ1UwM2VOWTR0NEIxSkVUVDJCU0ZsV3M2MkZfMTg5SmpraGlvOUlpVGpTcUpheXJuWmNZZmpMeTNXTk9uVU1zMnZnaEdmMzdkSjB3Nk5rRmlrMWFIRmhnLWxLMEg0THYyeE1Nc3ZZSUpCd0IxWVNoNFZKMkotWTdkdFJMZVhmTFZKR1dxX1N3eWRSV1NoaUxSYTJZTlI4T3pFcVh5T2Q1NFA1dktuUm1jMkIxNXBFc05ZZTZWeHNvZzNnZW1XZ254LWxSbF9La2N5bTBTU2FPUDZOdGI2aV9CWGIwRElaZ3Vubk55OUxFMzFfMkltZEZzajJJMTg5Q2x0aW5n?oc=5)
 
-2026-06-05 <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
+2026-06-05
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi9gNBVV95cUxOUzFQYXkzWU52UGFuczdTWTZ3bjJQQ1dpYkxqc2d1N2ZaTDFzbEtwNUJES0RHeHVUMnNNb3lCUDJ3REtBTHNaTWhTeWxVV2poSFNqYUFyY2hwUXJIQ3dVSVpVY2pjZUttVzc0bTBLSzBJZS1hVXM4Q1F4ZFJGVzhCVEZmbFFubThCaFZMNVVPX191SkVYbnJla0xmaEhQb1hXVGxLNHMxUzVqZTlUdmFzam9rZnQ4aDB6SUNKMDRMdlNhU2ItajNIYzdIdWZ0QTdLMV9TOURxZ3R1dTEwYUd0ai1USjFKTjdldFpSMmNUSk9jdkdfTnFGWFlnZ1UwM2VOWTR0NEIxSkVUVDJCU0ZsV3M2MkZfMTg5SmpraGlvOUlpVGpTcUpheXJuWmNZZmpMeTNXTk9uVU1zMnZnaEdmMzdkSjB3Nk5rRmlrMWFIRmhnLWxLMEg0THYyeE1Nc3ZZSUpCd0IxWVNoNFZKMkotWTdkdFJMZVhmTFZKR1dxX1N3eWRSV1NoaUxSYTJZTlI4T3pFcVh5T2Q1NFA1dktuUm1jMkIxNXBFc05ZZTZWeHNvZzNnZW1XZ254LWxSbF9La2N5bTBTU2FPUDZOdGI2aV9CWGIwRElaZ3Vubk55OUxFMzFfMkltZEZzajJJMTg5Q2x0aW5n?oc=5)
 
@@ -49,39 +46,3 @@ permalink: /news/tioconazole/
 <div class="disclaimer">
 <strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
-
-<style>
-.indication-matched {
-  background: #fff3e0;
-  padding: 4px 8px;
-  border-radius: 4px;
-  border-left: 3px solid #ff9800;
-}
-.indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 8px;
-  border-radius: 12px;
-  font-size: 0.8em;
-  margin-left: 8px;
-}
-.news-indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-.news-drug-tag {
-  display: inline-block;
-  background: #1565c0;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-</style>
