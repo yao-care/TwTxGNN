@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-06T17:00:26.192819+00:00",
-  "count": 14,
+  "fetched_at": "2026-06-06T19:05:57.167153+00:00",
+  "count": 13,
   "news": [
     {
       "id": "4e6f9d3c6d80",
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "50cd64fdbb02",
-      "title": "防止骨折｜研究：鈣質及維他命D對於預防骨折及跌倒的成效不大 - AM730",
-      "published": "2026-06-06T05:30:00+00:00",
-      "summary": "防止骨折｜研究：鈣質及維他命D對於預防骨折及跌倒的成效不大&nbsp;&nbsp;AM730",
-      "sources": [
-        {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oeDR6Qi1HZURPWXhidEMwa1lINmV6NjBvUVdZN0oxN3oxdm5tUnBFeEsxOUtrZ29xRmNESlpQSHlFRy1nMGVzaWR0VmtFdTBLRWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1b77b5fb03cd",
       "title": "【新新聞】早期失智症治療用藥終於出現 適用範圍、療程費用一次看 | 黃天如 | VIP - 風傳媒",
       "published": "2026-06-05T00:30:01+00:00",
@@ -64,6 +52,18 @@
       ]
     },
     {
+      "id": "50cd64fdbb02",
+      "title": "防止骨折｜研究：鈣質及維他命D對於預防骨折及跌倒的成效不大 - AM730",
+      "published": "2026-06-06T05:30:00+00:00",
+      "summary": "防止骨折｜研究：鈣質及維他命D對於預防骨折及跌倒的成效不大&nbsp;&nbsp;AM730",
+      "sources": [
+        {
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oeDR6Qi1HZURPWXhidEMwa1lINmV6NjBvUVdZN0oxN3oxdm5tUnBFeEsxOUtrZ29xRmNESlpQSHlFRy1nMGVzaWR0VmtFdTBLRWc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "48fcb38ce567",
       "title": "【厝內大小事】蔡宜君／女兒開的處方箋| 家庭兩性| 生活 - UDN",
       "published": "2026-06-05T16:00:00+00:00",
@@ -72,18 +72,6 @@
         {
           "name": "UDN",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WVE4wMTBndWVmWmJMbEE2QkpCcThCUWNQUDlVbFEzcUsxOWZKRGxyTGVTRXFUWlRSN1lyajdQQmtLQkxkMVZRcnd1U29xYThTZzN4R0hwNTE4M09WclRaQ1NTMXRXZnpZS2dNb2NFVnJhMFU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b96a1ce86731",
-      "title": "扭傷意外險理賠為什麼不能誇大事故敘述？理賠審核重點一次看懂 - CMoney",
-      "published": "2026-06-04T18:45:41+00:00",
-      "summary": "扭傷意外險理賠為什麼不能誇大事故敘述？理賠審核重點一次看懂&nbsp;&nbsp;CMoney",
-      "sources": [
-        {
-          "name": "CMoney",
-          "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxOc0s0RWZiZ09SN0hQZWhud0t1ZW4zSnJidmJfOTRza01GRnR0MHFFa2NGODFZb0RQajlyVU93V2tSN2FId0JyZS1qYW4tblByWV92a3RMMm9pbDc4UmFTSUpDUVFQd0M2ektLT2M5cEo0dVdjWmcxUEZsMUVQaHpGb0p5S3hsZzhFU1lMV0gtci1ZLWVSYWxSMW5GNHQ1WVBMalJjR1VCM21WOFlWM3NmVENkTjBPLVBSNnV4ZmxURnY3RUVxNDRMSUJybExDOVBZUmFiNkFCUmhGYk1xQjM1X0Z3aHFiRllVMTJiN21ta3l2clF2M090QlBveUd1NHJ2SGxiSG1JSm9NU3dYWklJVHdjdW1uQ0IxcEw1ZndzMVNqaW8wdUd5b0lUQXJSLWFCb0tRSWtiTGUwcW5wQlhwbkdXVnZKeHBGQUR6T3JxMmV1SmQyS1hxYW1Gc2dsa2pORDlFZWJDb2dBUm9ZUXVYQzQ4R2FyUFg0WmlzUDJlX3NJUzQ1cWlfeXhwRkZjMzhEUE5tS0lLZ3hjel95TFlTTmYxZFNaV284OUZYNlRqYmpQRVlNSWYtMnpXbDNpeHZnWFBfOUdIQnNCU1I0ZmhwbEhaUmFEaDdpOUdLZWVn?oc=5"
         }
       ]
     },
