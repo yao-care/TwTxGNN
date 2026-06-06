@@ -1,17 +1,41 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-05T23:59:44.911995+00:00",
-  "count": 20,
+  "fetched_at": "2026-06-06T03:52:04.190522+00:00",
+  "count": 19,
   "news": [
+    {
+      "id": "2384b61ed6b2",
+      "title": "蓮蓬頭竟是「細菌公寓」？選錯材質風險差一倍！細菌恐直達肺部，這5種人必看：3招清潔自保| 幸福熟齡X 今周刊 - LINE TODAY",
+      "published": "2026-06-06T01:30:00+00:00",
+      "summary": "蓮蓬頭竟是「細菌公寓」？選錯材質風險差一倍！細菌恐直達肺部，這5種人必看：3招清潔自保| 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54c3RIeHNXVUd2dVRTZUtOWC1OcjNvS3Axem9RUlVKdTd0VlQtM2NpNnhaREE4VFl1NHY2aVZKZDNnb2pzUnBIcFJOeEp4eHBwNG5hcTRn?oc=5"
+        }
+      ]
+    },
     {
       "id": "711e92b20f59",
       "title": "劍橋大學團隊AI設計疫苗有望顛覆性突破拯救生命| 國際 - 中央社 CNA",
       "published": "2026-06-05T08:50:00+00:00",
-      "summary": "劍橋大學團隊AI設計疫苗有望顛覆性突破拯救生命| 國際&nbsp;&nbsp;中央社 CNA「全球首創」由人工智慧設計的疫苗是怎樣誕生的？&nbsp;&nbsp;BBC「顛覆性突破」劍橋大學團隊AI設計疫苗有望顛覆性突破拯救生命| 世界萬象| 全球&nbsp;&nbsp;UDN",
+      "summary": "劍橋大學團隊AI設計疫苗有望顛覆性突破拯救生命| 國際&nbsp;&nbsp;中央社 CNA「全球首創」由人工智慧設計的疫苗是怎樣誕生的？&nbsp;&nbsp;BBC「顛覆性突破」劍橋大學團隊AI設計疫苗有望顛覆性突破拯救生命| 世界萬象| 全球&nbsp;&nbsp;UDNAI設計疫苗 可對抗所有冠狀病毒&nbsp;&nbsp;星島頭條",
       "sources": [
         {
           "name": "中央社 CNA",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qWkl2ekYwNHZSN3dSdVlVakRtcUwzTzFaek01U1pSSnVGaHRmZVhOOEpSU0RubnlsN0lTTC00TDZMMUFRMmg1ckUxUFdZUjhBZUVwNUxCM1ZMWWVaM3hn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1dbb078ef313",
+      "title": "Google向美政府申請放6000萬隻蚊子 科技抗病毒關鍵曝光 - Yahoo新聞",
+      "published": "2026-06-06T02:57:27+00:00",
+      "summary": "Google向美政府申請放6000萬隻蚊子 科技抗病毒關鍵曝光&nbsp;&nbsp;Yahoo新聞Google 母公司 Alphabet 最新 Debug 計劃：滅蚊！是的，你沒有看錯標題&nbsp;&nbsp;PopbeeGoogle申請要放6400萬隻蚊子！地點曝光&nbsp;&nbsp;ETtoday新聞雲以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖&nbsp;&nbsp;拾方視角基因改造，細菌控蚊，人類對付蚊子出奇招&nbsp;&nbsp;紫荊網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNb042VzdNQzlEOHQ5R19HYlMxY0FVVTBSQmtYb2dPc1dQNENMTXlpRHlGUzVOdDdRWkR2TS1lRTRnb3BmSXViemJqVU5aTy1CaE9QbUltaGxPNDhyWFl0d3AwV0ptWkRVTzZ2ZDE1RFNVRU0tbWRuRGNMVnpJRVB2eHZNSXBrYTVncDBGT2hmcklocDlxOGdWWWpSNkc4dVZqNVFmWVVnTFA2SG5XZkx5SWZLWEtGdndha1c3MWxrdm4xV2M0cTUwWnZyZ3d2a2VrbDVwWk9fSm12YjJOaW1tUEQ3dHRBdm8yOG5XVWQ0YkRuZGFjcDl2Mi1ZbzFlblZnZm1VVTFyV2VBR2dtWm0xWDIwNmozYTE3MkRpM2gzMElUYWxwa25jVC1Zanp5THNKdVJQUVExbkdkMGs5QUpYcldNT3RFckRpcVNEV3pPWmU3UQ?oc=5"
         }
       ]
     },
@@ -28,18 +52,6 @@
       ]
     },
     {
-      "id": "c105ec7161ff",
-      "title": "以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖 - 拾方視角",
-      "published": "2026-06-05T03:31:15+00:00",
-      "summary": "以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖&nbsp;&nbsp;拾方視角Google 母公司 Alphabet 最新 Debug 計劃：滅蚊！是的，你沒有看錯標題&nbsp;&nbsp;PopbeeGoogle請求批准投放3200萬隻蚊子入境，讓雄蚊不育「絕子絕孫」&nbsp;&nbsp;鏈新聞 ABMediaGoogle申請要放6400萬隻蚊子！地點曝光&nbsp;&nbsp;ETtoday新聞雲動機從來都是好的 關鍵是結果&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "拾方視角",
-          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQa3EyT1Ezdm9TVWNvcFc1TGY2Q2phMHBVTzYya1E4TzNMY0VHS1hIS0l1ZDJaZ2YxaWpGNzJ6QkZFeE9rdmM0bVhhZGpDWTcwZTZKcFJxMzRZdzNwdk05azRRS3lqNWdCN3ZPQmpkREwtdTRaZDJNM21EZF9ybEVHeXAxNmtoYmJwc1NPOVpNTFk4MUs2QjBGM09rNjB6TngyU0FnSHR0anByMU9jNGVtWDhSb2stcEMyay1Hc2Y4azhDVzJla2R2SERkQ3IycklJclNaa3dlRUNVNFFOWUxFNVEwNEl2QTBiNF9GSnQzOTVpcmdZSlRMYXIxRzhqbzg1c3czT0hpR0hkTG9kRGxPcUdDcE91MTBnMl9GSWdsblp2cUNWbVVveUNPODNYNzJYY0NJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1b77b5fb03cd",
       "title": "【新新聞】早期失智症治療用藥終於出現 適用範圍、療程費用一次看 | 黃天如 | VIP - 風傳媒",
       "published": "2026-06-05T00:30:01+00:00",
@@ -48,18 +60,6 @@
         {
           "name": "風傳媒",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE92QjhSOFJReXZGYkpkWG5uTmZRQVpwSjRwYzUwVVNUVnRGVl9pTU0yMXlzV2hMQzlabDh0M2huX3RYanVVTWVHRG5tUW8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0a843eacdb0d",
-      "title": "研究發現靜脈注射氯胺酮的緩解率高於艾氯胺酮 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
-      "published": "2026-06-05T13:09:35+00:00",
-      "summary": "研究發現靜脈注射氯胺酮的緩解率高於艾氯胺酮 作者 Investing.com&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
-      "sources": [
-        {
-          "name": "Investing.com 香港 - 股市報價& 財經新聞",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xbWx2Y0JIdkRpRWNFWlVjSDd4emJxYlJEcXVSc2hBaWxtZFpNcWhSY3JUeFBLVXI2WjNmSnFxQkJvUFZybjZTUno3UGJuRFB4R21aUUhQSUJyWTBRbUpKdDN6VG1pUjJsdGhhM2xYY1k?oc=5"
         }
       ]
     },
@@ -76,10 +76,22 @@
       ]
     },
     {
+      "id": "0a843eacdb0d",
+      "title": "研究發現靜脈注射氯胺酮的緩解率高於艾氯胺酮 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
+      "published": "2026-06-05T13:09:35+00:00",
+      "summary": "研究發現靜脈注射氯胺酮的緩解率高於艾氯胺酮 作者 Investing.com&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
+      "sources": [
+        {
+          "name": "Investing.com 香港 - 股市報價& 財經新聞",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xbWx2Y0JIdkRpRWNFWlVjSDd4emJxYlJEcXVSc2hBaWxtZFpNcWhSY3JUeFBLVXI2WjNmSnFxQkJvUFZybjZTUno3UGJuRFB4R21aUUhQSUJyWTBRbUpKdDN6VG1pUjJsdGhhM2xYY1k?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6f9d2efab1cb",
       "title": "健康老化祕訣很簡單，研究：少吃一點 - 財訊",
       "published": "2026-06-05T07:29:01+00:00",
-      "summary": "健康老化祕訣很簡單，研究：少吃一點&nbsp;&nbsp;財訊不靠醫美！55歲女奪全球「回春奧運」第二名，一年老化速度僅0.46歲！低成本慢老秘訣公開！&nbsp;&nbsp;TVBS 女人我最大人在臨終前10年就已失能或病痛纏身醫教6招縮短衰老折磨時間- 健康&nbsp;&nbsp;中時新聞網不吃保健品也能逆齡！55歲女奪全球抗老奧林匹克亞軍 一年只老0.46歲 公開6大黃金秘訣&nbsp;&nbsp;stheadline.com台灣人臨終前平均臥床8年！醫揭「抗老6祕訣」：護心血管、降發炎&nbsp;&nbsp;祝你健康",
+      "summary": "健康老化祕訣很簡單，研究：少吃一點&nbsp;&nbsp;財訊不靠醫美！55歲女奪全球「回春奧運」第二名，一年老化速度僅0.46歲！低成本慢老秘訣公開！&nbsp;&nbsp;TVBS 女人我最大人在臨終前10年就已失能或病痛纏身醫教6招縮短衰老折磨時間- 健康&nbsp;&nbsp;中時新聞網不吃保健品也能逆齡！55歲女奪全球抗老奧林匹克亞軍 一年只老0.46歲 公開6大黃金秘訣&nbsp;&nbsp;星島頭條台灣人臨終前平均臥床8年！醫揭「抗老6祕訣」：護心血管、降發炎&nbsp;&nbsp;祝你健康",
       "sources": [
         {
           "name": "財訊",
@@ -124,30 +136,6 @@
       ]
     },
     {
-      "id": "8fcd7a5703df",
-      "title": "空腹運動更容易瘦？運動營養權威：女性進食後訓練，燃脂效果更好- 健康新聞- PChome Online 新聞 - PChome Online 新聞",
-      "published": "2026-06-04T02:00:00+00:00",
-      "summary": "空腹運動更容易瘦？運動營養權威：女性進食後訓練，燃脂效果更好- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTjVYYkNfcUs1SGIwNXdHWVVWRWFFOG1zX0pWS2RPb1lzalh3dzN1NF8tRnZycklhRVQ3LTlEX0JjQ0lDS3B3NVBsYjBjWDNyR2ZzRkVSZ0hoV282NVVBSjJTOWdHZXVvZWhDRnp0UjZxZ2pLMkRrZ1ZnYXVNaHBVenE5Z291TzlqQ1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8011eedef5ab",
-      "title": "【抗癌】甜食不一定有害！有些「甜」反而可能幫助降低癌症風險- 書房 - 工商時報",
-      "published": "2026-06-03T23:20:00+00:00",
-      "summary": "【抗癌】甜食不一定有害！有些「甜」反而可能幫助降低癌症風險- 書房&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XMWlTeHNIVmdZUUlyZTI0NXJxTU92cm5HQXRUaFk1WU9VODNsSG95b1FUS1FzTTRBd1VXb19GWWZMdmt1Nm1qbmZ4SkhWYVg4N2hCTi1aVDFMRTd2SkpN?oc=5"
-        }
-      ]
-    },
-    {
       "id": "27a1114cd682",
       "title": "客製化沙發不只換顏色 骨架結構成選購新關鍵 - n.yam.com",
       "published": "2026-06-05T16:02:52+00:00",
@@ -172,6 +160,18 @@
       ]
     },
     {
+      "id": "7feb5788a4f8",
+      "title": "孔繁毅稱流感個案呈上升趨勢 籲高危人士盡快接種疫苗 - Yahoo",
+      "published": "2026-06-06T01:45:17+00:00",
+      "summary": "孔繁毅稱流感個案呈上升趨勢 籲高危人士盡快接種疫苗&nbsp;&nbsp;Yahoo17歲長期病患少年染乙型流感 情況危殆&nbsp;&nbsp;Yahoo本港新增一宗青年感染流感嚴重個案 孔繁毅指仍待觀察會否現爆發&nbsp;&nbsp;TVB本港流感呈上升孔繁毅：整體抗體開始下降是否高峰尚待觀察- 香港 - 香港文匯網&nbsp;&nbsp;香港文匯網專家指近日流感宗數呈上升趨勢 是否達高峰程度仍尚待觀察&nbsp;&nbsp;on.cc東網",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOQ0w0aVVjNjN0ZHVRaDcteUI1VGtFdm1GeDJfTjY3clUzbjQ0RFRwS3NzdWNOVlZvTk9hcENJLU1UUllhSUxSaXZwdUFZVXRieXhHMTBrVXZqR0RIQ1g5ckNGaEFXWm5iYkxydjNlTmZEMXk1aFhNc0JJOUVDMW9ONkdDX0dNbkttUndRbEJ4LW95Mm1TRlhtbnRlOUVJT2lkQUs1enNQZWlORVhvcmRNTW9YNTNoX1E1WU1VcFJoWWhfN2Jnc0ZtZUF3ZVNxamo0Ti1yalcyWUo4Z3R3OXEwbGtIbDJ5T0ZZc2xPenQzR28xQ0x3UGhOYlkxcEFoYkNtcXZDWV9BUkx6N1pPVGVnZFRYY0c3UjVULXk0dHBnb3J4Qnl3ZjEwZzZZX0dCajUzb0lJMmtfTmd6QWdxYmF5MG5VWExMTUJ4SXdBY01aT1FqMHBRdy1VRGhZRDFPQ2RUWlhFMjRLV2FPanBSb1VMNUJzSGc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "53bb9ed3e82f",
       "title": "臨床實證頑固斑淡化-65.9%！理膚寶水「MELA B3淡斑精華」締造最強淡斑紀錄：國際期刊認證「媲美醫用藥膏」且更耐受，強勢登頂《時代雜誌》年度最佳發明獎！ - ELLE",
       "published": "2026-06-05T07:10:17+00:00",
@@ -184,38 +184,26 @@
       ]
     },
     {
-      "id": "93ed000a2043",
-      "title": "衞生防護中心：一名17歲少年染乙型流感情況危殆 併發嚴重肺炎及休克 - 香港商报",
-      "published": "2026-06-05T16:28:00+00:00",
-      "summary": "衞生防護中心：一名17歲少年染乙型流感情況危殆 併發嚴重肺炎及休克&nbsp;&nbsp;香港商报防護中心：17歲少年染乙型流感情況危殆 併發嚴重肺炎及休克&nbsp;&nbsp;橙新聞17歲男童染乙流併發嚴重肺炎及休克 情況危殆&nbsp;&nbsp;信報網站感染乙流併發嚴重肺炎及休克 17歲男童危殆留醫PICU&nbsp;&nbsp;on.cc東網長期病患17歲少年染乙型流感併發嚴重肺炎及休克 情況危殆&nbsp;&nbsp;香港電台新聞網",
+      "id": "37464b3c8f22",
+      "title": "紐約市府「滅蚊大作戰」 8日至10日出動直升機噴藥 - 世界新聞網",
+      "published": "2026-06-05T23:56:32+00:00",
+      "summary": "紐約市府「滅蚊大作戰」 8日至10日出動直升機噴藥&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55ZVU3T1Y5ZG1fY3lrOGpCVWVQYjdsdXVYT04yMWtxaUcwcjM2a2ZfWkxmM1FLSVR5ZTJuNG82VUFhZGIzR0FIb2drNkR2anRydENyUDhzMzBERDljWkZZYjBhX09LTVNjTVZKOWJCZk56SlJhWUtwVU9RSQ?oc=5"
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lZHVGWk5rc2JHVm00VUZWSXQxcWRtU3k3U2ZIbEE4ZmNvZzZsSWtxQ05lR3I4ZFBsQWs3dU1sTllOX3p3VUJHRHdQSWQ0bVkxUnk3dDUwQnI1aHpBcEkwZnhR0gFnQVVfeXFMTjRhdVRRN05leUwySnJ6Vm5JM2JnVXB4bHE1Qy1GMl9VczBSUjl5MThWTU5yWHdwQkxCR2dFekJwNjlhT3R0N2pGcVVwdEdSWEVmZEdKSnhBc0hQdmZJSllveEFSLWRiaw?oc=5"
         }
       ]
     },
     {
-      "id": "0e4a3e0b8fac",
-      "title": "英國NHS引進卵巢癌新藥mirvetuximab，延長患者壽命並提升生活品質 - Singtaousa",
-      "published": "2026-06-04T02:38:39+00:00",
-      "summary": "英國NHS引進卵巢癌新藥mirvetuximab，延長患者壽命並提升生活品質&nbsp;&nbsp;Singtaousa",
+      "id": "4cc32147b1a9",
+      "title": "孔繁毅：近日流感宗數呈上升趨勢 - 881903.com",
+      "published": "2026-06-06T00:29:00+00:00",
+      "summary": "孔繁毅：近日流感宗數呈上升趨勢&nbsp;&nbsp;881903.com前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUWRDMzVGMWI3aWlhdjVQc2UwS2JLazhJLVdPazJkWkZwZDk4cmxXdTY5TFItMDM2WmN6Y2tsVFdzMnBFRTRVZlBkMlMyVW1fek9PNzhtMUVXS1pNOUlTcmxfeldtXzJ4MDROYjJvZUVKR1I5cHFaQlJhaVRzZFNOUGgyR2RGU01DcFJDWTdJczVmUXo0bEZnbUNaMWwzQ3UzMW9XNmlnLUNiZ1duOFN5bUhzcUZRVlRIcS1HWUhDQWZRQi1teFln?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e37344e62a9d",
-      "title": "最新研究揭示老年泌尿道感染診斷挑戰與尿液試紙局限性 - GeneOnline News",
-      "published": "2026-06-04T02:09:03+00:00",
-      "summary": "最新研究揭示老年泌尿道感染診斷挑戰與尿液試紙局限性&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOTUJyMGF1c25ZODlUb2U5YzJyeHFzNzZ4ZXowY2FHWUhrZDhySERSOXFoRlhtLTJIc1MtUFBuUGpRUmYzbzR3VXM2OHBlX0hZWnZYeWxPSVRjOUFKTF9WVUx1V2lKN1VBOHhDdXN4cWQwc0JBLV9NT0E1Q2FERjE5OTY0UXZMdEtpajdWeW1uZW9fcXltV0M0dTlMdjcybUJNMGlmUkV4a2cyNm94WjJtUjZPQWV6YjRKOXZVMFNUNlpMT2xfS1pUYVE2Y2ZkV1ZoempTY0hfLXh1czVVMV95Q2FKSU5zWndXRENSOFR6YVpydFpmZlkxdEdIQ1R1X3F1YnBpT09FNE1hcVk3ZkVobUl2RTdtZU5kdjBKaWNNam9SLUtvbUxaYWpvbl9LWF8tOUZhR2hxbzFObW5jTXBDMDdxLTdhZw?oc=5"
+          "name": "881903.com",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IMkRHRndGUThZcDdFTE55dFowdG1ncjFiLV9pTThpVExQajlST1EtWF9qTG5WTVQ2TXV1ZVN4bGxLdWJSbUxieHhwLVA2QXAwS1lZ0gFYQVVfeXFMTk1oeXBIWkJFNlV5TldKWkhldVNqdkZGRWxBQkg4UGFPZkQzY0xmZEYwVl9sN3k1WklYc0NvUzV3cUdBQ1k4cEZnaTl5R1h0SkNXY1NIbFNDVg?oc=5"
         }
       ]
     },
@@ -223,7 +211,7 @@
       "id": "726da3fd8357",
       "title": "東張西望播毒渣男｜醫生指HPV難判斷傳播鏈 無針對治療方法 - 香港經濟日報HKET",
       "published": "2026-06-05T09:31:15+00:00",
-      "summary": "東張西望播毒渣男｜醫生指HPV難判斷傳播鏈 無針對治療方法&nbsp;&nbsp;香港經濟日報HKET21歲「播毒渣男」背景震撼！隱瞞性病兼連環出軌多名少女中招染HPV性病附性傳播感染3大預防方法&nbsp;&nbsp;stheadline.com東張西望｜播毒男遭3女追罵隱瞞HPV病史 避入連鎖健身中心 分店停業深層清潔&nbsp;&nbsp;橙新聞HPV懶人包｜健身室都會感染？即睇HPV傳播途徑+病毒類別+預防方法&nbsp;&nbsp;香港01東張西望｜播毒渣男染HPV匿健身室 分店即時深層清潔被揶揄洗錯店&nbsp;&nbsp;nmplus.hk",
+      "summary": "東張西望播毒渣男｜醫生指HPV難判斷傳播鏈 無針對治療方法&nbsp;&nbsp;香港經濟日報HKET21歲「播毒渣男」背景震撼！隱瞞性病兼連環出軌多名少女中招染HPV性病附性傳播感染3大預防方法&nbsp;&nbsp;星島頭條東張西望｜播毒男遭3女追罵隱瞞HPV病史 避入連鎖健身中心 分店停業深層清潔&nbsp;&nbsp;橙新聞HPV懶人包｜健身室都會感染？即睇HPV傳播途徑+病毒類別+預防方法&nbsp;&nbsp;香港01東張西望｜播毒渣男染HPV匿健身室 分店即時深層清潔被揶揄洗錯店&nbsp;&nbsp;nmplus.hk",
       "sources": [
         {
           "name": "香港經濟日報HKET",

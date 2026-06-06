@@ -14,7 +14,7 @@ permalink: /news/irbesartan/
 ---
 
 <p class="key-answer" data-question="Irbesartan 有什麼相關新聞？">
-<strong>Irbesartan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 4 個。
+<strong>Irbesartan</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 4 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ permalink: /news/irbesartan/
 <p><a href="{{ '/drugs/irbesartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [手術化療都做了，為何癌症還復發？小心「身體缺氧、發炎」變癌細胞舒適圈：3關鍵防復發](https://news.google.com/rss/articles/CBMie0FVX3lxTE5aTXRTN3I2RVlGNS11dmdLQzZRd3A2cDl1WFoyV3RKWk9lRVhDTE4tUFY3elAyN0hrWW9udjhTMHZ0TG9ZSVlvUXREcmVCTFgyc2ktakJhb3p3NUpyTVpFVXJ2X25QcnFoZ3czZGpqZ2RDNWlYRHY2dmJROA?oc=5)
 
 2026-06-04 <span class="news-indication-tag">癌症</span>
 
 來源：[幸福熟齡](https://news.google.com/rss/articles/CBMie0FVX3lxTE5aTXRTN3I2RVlGNS11dmdLQzZRd3A2cDl1WFoyV3RKWk9lRVhDTE4tUFY3elAyN0hrWW9udjhTMHZ0TG9ZSVlvUXREcmVCTFgyc2ktakJhb3p3NUpyTVpFVXJ2X25QcnFoZ3czZGpqZ2RDNWlYRHY2dmJROA?oc=5)
-
----
-
-### [【抗癌】甜食不一定有害！有些「甜」反而可能幫助降低癌症風險- 書房](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XMWlTeHNIVmdZUUlyZTI0NXJxTU92cm5HQXRUaFk1WU9VODNsSG95b1FUS1FzTTRBd1VXb19GWWZMdmt1Nm1qbmZ4SkhWYVg4N2hCTi1aVDFMRTd2SkpN?oc=5)
-
-2026-06-03 <span class="news-indication-tag">癌症</span>
-
-來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XMWlTeHNIVmdZUUlyZTI0NXJxTU92cm5HQXRUaFk1WU9VODNsSG95b1FUS1FzTTRBd1VXb19GWWZMdmt1Nm1qbmZ4SkhWYVg4N2hCTi1aVDFMRTd2SkpN?oc=5)
 
 ---
 

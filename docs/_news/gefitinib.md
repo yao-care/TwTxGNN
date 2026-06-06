@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [【新新聞】早期失智症治療用藥終於出現 適用範圍、療程費用一次看 | 黃天如 | VIP](https://news.google.com/rss/articles/CBMiTEFVX3lxTE92QjhSOFJReXZGYkpkWG5uTmZRQVpwSjRwYzUwVVNUVnRGVl9pTU0yMXlzV2hMQzlabDh0M2huX3RYanVVTWVHRG5tUW8?oc=5)
 
@@ -56,14 +56,6 @@ permalink: /news/gefitinib/
 2026-06-04 <span class="news-indication-tag">癌症</span>
 
 來源：[幸福熟齡](https://news.google.com/rss/articles/CBMie0FVX3lxTE5aTXRTN3I2RVlGNS11dmdLQzZRd3A2cDl1WFoyV3RKWk9lRVhDTE4tUFY3elAyN0hrWW9udjhTMHZ0TG9ZSVlvUXREcmVCTFgyc2ktakJhb3p3NUpyTVpFVXJ2X25QcnFoZ3czZGpqZ2RDNWlYRHY2dmJROA?oc=5)
-
----
-
-### [【抗癌】甜食不一定有害！有些「甜」反而可能幫助降低癌症風險- 書房](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XMWlTeHNIVmdZUUlyZTI0NXJxTU92cm5HQXRUaFk1WU9VODNsSG95b1FUS1FzTTRBd1VXb19GWWZMdmt1Nm1qbmZ4SkhWYVg4N2hCTi1aVDFMRTd2SkpN?oc=5)
-
-2026-06-03 <span class="news-indication-tag">癌症</span>
-
-來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XMWlTeHNIVmdZUUlyZTI0NXJxTU92cm5HQXRUaFk1WU9VODNsSG95b1FUS1FzTTRBd1VXb19GWWZMdmt1Nm1qbmZ4SkhWYVg4N2hCTi1aVDFMRTd2SkpN?oc=5)
 
 ---
 

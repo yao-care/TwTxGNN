@@ -14,7 +14,7 @@ permalink: /news/cephalexin/
 ---
 
 <p class="key-answer" data-question="Cephalexin 有什麼相關新聞？">
-<strong>Cephalexin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 0 個。
+<strong>Cephalexin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 0 個。
 </p>
 
 <div class="key-takeaway">
@@ -30,15 +30,9 @@ permalink: /news/cephalexin/
 <p><a href="{{ '/drugs/cephalexin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [最新研究揭示老年泌尿道感染診斷挑戰與尿液試紙局限性 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxOTUJyMGF1c25ZODlUb2U5YzJyeHFzNzZ4ZXowY2FHWUhrZDhySERSOXFoRlhtLTJIc1MtUFBuUGpRUmYzbzR3VXM2OHBlX0hZWnZYeWxPSVRjOUFKTF9WVUx1V2lKN1VBOHhDdXN4cWQwc0JBLV9NT0E1Q2FERjE5OTY0UXZMdEtpajdWeW1uZW9fcXltV0M0dTlMdjcybUJNMGlmUkV4a2cyNm94WjJtUjZPQWV6YjRKOXZVMFNUNlpMT2xfS1pUYVE2Y2ZkV1ZoempTY0hfLXh1czVVMV95Q2FKSU5zWndXRENSOFR6YVpydFpmZlkxdEdIQ1R1X3F1YnBpT09FNE1hcVk3ZkVobUl2RTdtZU5kdjBKaWNNam9SLUtvbUxaYWpvbl9LWF8tOUZhR2hxbzFObW5jTXBDMDdxLTdhZw?oc=5)
-
-2026-06-04 <span class="news-indication-tag">泌尿道</span>
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxOTUJyMGF1c25ZODlUb2U5YzJyeHFzNzZ4ZXowY2FHWUhrZDhySERSOXFoRlhtLTJIc1MtUFBuUGpRUmYzbzR3VXM2OHBlX0hZWnZYeWxPSVRjOUFKTF9WVUx1V2lKN1VBOHhDdXN4cWQwc0JBLV9NT0E1Q2FERjE5OTY0UXZMdEtpajdWeW1uZW9fcXltV0M0dTlMdjcybUJNMGlmUkV4a2cyNm94WjJtUjZPQWV6YjRKOXZVMFNUNlpMT2xfS1pUYVE2Y2ZkV1ZoempTY0hfLXh1czVVMV95Q2FKSU5zWndXRENSOFR6YVpydFpmZlkxdEdIQ1R1X3F1YnBpT09FNE1hcVk3ZkVobUl2RTdtZU5kdjBKaWNNam9SLUtvbUxaYWpvbl9LWF8tOUZhR2hxbzFObW5jTXBDMDdxLTdhZw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
