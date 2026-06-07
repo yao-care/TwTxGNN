@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-07T19:21:24.586318+00:00",
+  "fetched_at": "2026-06-07T21:01:20.000557+00:00",
   "count": 9,
   "news": [
     {
@@ -12,30 +12,6 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGdFJMY0p3RUVwT1cwNDh1NFNfbWNaTk1xVWFtMHdYY25oRU5tb3BwdjVDMkcxMWVVcUFfRVhVd1h2MmdFNTRCVDlMLVRZT3R4MEZVOFhB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f1905d595af3",
-      "title": "沒性行為卻感染HPV？醫示警「3大真相」 病毒比你想像更普遍 - 台視新聞網",
-      "published": "2026-06-07T07:00:04+00:00",
-      "summary": "沒性行為卻感染HPV？醫示警「3大真相」 病毒比你想像更普遍&nbsp;&nbsp;台視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vMzMxdHZnbGVYNzBqeEtqSE54ZlY4T2NSUko1aVFpYmpOdGxLbTYzWVVZakZfei1QSFVSY3MyWWxHZmtOVWxITnd3dm9sV1pabTRvNnNIZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8fabdb6808cc",
-      "title": "一支疫苗打遍所有冠狀病毒不再是夢想？劍橋以 AI 研發廣效疫苗取得初步成效 - TechNews 科技新報",
-      "published": "2026-06-07T01:47:41+00:00",
-      "summary": "一支疫苗打遍所有冠狀病毒不再是夢想？劍橋以 AI 研發廣效疫苗取得初步成效&nbsp;&nbsp;TechNews 科技新報「全球首創」由人工智慧設計的疫苗是怎樣誕生的？&nbsp;&nbsp;BBC「顛覆性突破」劍橋大學團隊AI設計疫苗有望顛覆性突破拯救生命| 世界萬象| 全球&nbsp;&nbsp;UDN劍橋推AI開發冠狀病毒疫苗&nbsp;&nbsp;信報網站AI設計疫苗 可對抗所有冠狀病毒&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZDdiRDRlS2ZadElSbzlsZnR6WmtVbDJNQ0N3YXhYUDNZWHExV0tBZ2s2QXVhNWxKOXdPcTUtM09VUXh3dndJMmdwbVQwdFZqQmlUanFsMHRnSnpYWHd6d215MlZPX3BIWmdteVY4VWZFb1JoX1Uwa3hXaDVmVFBaODN4WHN0bkl5LWhyeHgzdEo?oc=5"
         }
       ]
     },
@@ -52,9 +28,33 @@
       ]
     },
     {
+      "id": "8fabdb6808cc",
+      "title": "一支疫苗打遍所有冠狀病毒不再是夢想？劍橋以 AI 研發廣效疫苗取得初步成效 - TechNews 科技新報",
+      "published": "2026-06-07T01:47:41+00:00",
+      "summary": "一支疫苗打遍所有冠狀病毒不再是夢想？劍橋以 AI 研發廣效疫苗取得初步成效&nbsp;&nbsp;TechNews 科技新報「全球首創」由人工智慧設計的疫苗是怎樣誕生的？&nbsp;&nbsp;BBC「顛覆性突破」劍橋大學團隊AI設計疫苗有望顛覆性突破拯救生命| 世界萬象| 全球&nbsp;&nbsp;UDN劍橋推AI開發冠狀病毒疫苗&nbsp;&nbsp;信報網站AI設計疫苗 可對抗所有冠狀病毒&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZDdiRDRlS2ZadElSbzlsZnR6WmtVbDJNQ0N3YXhYUDNZWHExV0tBZ2s2QXVhNWxKOXdPcTUtM09VUXh3dndJMmdwbVQwdFZqQmlUanFsMHRnSnpYWHd6d215MlZPX3BIWmdteVY4VWZFb1JoX1Uwa3hXaDVmVFBaODN4WHN0bkl5LWhyeHgzdEo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0228e008b134",
+      "title": "沒性行為卻感染HPV？醫示警「3大真相」 病毒比你想像更普遍 - 健康新聞 - PChome Online 新聞 - PChome Online 新聞",
+      "published": "2026-06-07T01:30:00+00:00",
+      "summary": "沒性行為卻感染HPV？醫示警「3大真相」 病毒比你想像更普遍 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞沒性行為卻感染HPV？醫示警「3大真相」 病毒比你想像更普遍&nbsp;&nbsp;Yahoo新聞#男女共同施打&nbsp;&nbsp;優活健康網防癌從校園開始 國中男生HPV疫苗接種率首年破八成&nbsp;&nbsp;Taiwan News沒性生活也會中標！HPV「初期零症狀」 醫教2招阻斷致癌&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRldQN1RYUmp3c3J4YVFxeHp5Nm9pNTBnZjJ1bUVZMkFCZU9xV0R2aWx2WU81YmFkaHVhWmFWVVRhYmFELU5Jay1EVll5N3MyRjVBWFBtQ3VLbUU5ai1XUmpGQU9zMmc5bHEtdGdWMF9oTlJRVHd2dU9NLWRVUVlGcS1GdlFuaGlJWUdjV09zZUZYdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2384b61ed6b2",
       "title": "蓮蓬頭竟是「細菌公寓」？選錯材質風險差一倍！細菌恐直達肺部，這5種人必看：3招清潔自保| 幸福熟齡X 今周刊 - LINE TODAY",
-      "published": "2026-06-06T02:40:07+00:00",
+      "published": "2026-06-06T05:46:00+00:00",
       "summary": "蓮蓬頭竟是「細菌公寓」？選錯材質風險差一倍！細菌恐直達肺部，這5種人必看：3招清潔自保| 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
