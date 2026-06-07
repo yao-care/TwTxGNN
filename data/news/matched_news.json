@@ -1,26 +1,76 @@
 {
-  "last_updated": "2026-06-07T06:59:16.962162+00:00",
-  "total_count": 15,
+  "last_updated": "2026-06-07T10:06:09.168808+00:00",
+  "total_count": 13,
   "matched_count": 1,
   "news": [
     {
-      "id": "da938f957d9f",
-      "title": "花蓮慈院與長庚科大共研發 聚焦脂質代謝、外泌體與中草藥",
-      "published": "2026-06-07T05:42:00+00:00",
-      "summary": "花蓮慈院與長庚科大共研發 聚焦脂質代謝、外泌體與中草藥&nbsp;&nbsp;TCnews慈善新聞網",
+      "id": "73fe47d59d2f",
+      "title": "花蓮慈濟醫院與長庚科大簽署MOU共推生醫研究",
+      "published": "2026-06-07T07:17:00+00:00",
+      "summary": "花蓮慈濟醫院與長庚科大簽署MOU共推生醫研究&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "TCnews慈善新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJV1dab2QxazAzZTlvVnBqZzJsaTVWb2hXVXBQMjlsdGFMODRJR3p2Ymdsd3FKcU9oYlYzVExkbjFXR0JEV1pfd1V1OTlGcUx1ZjBXa25lem83Q295Y25v?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQWDByZHhrV0N4eUNYMmRvU3VDOENHUzNrRnl4aUplNmw0cDJMZWFUSWJyak4xcEtrczREZ3dBQUZEb1ZSdzRURnVfNWRQRVcyY2JOeGhwMW80NVVhSFB2OW9xNUliRVdHZ2gtNm1KZXI1TF9wWEw5MGN4T094NjBvVUtiUVZhaGE4MF9tODNUTW9pX1IzT2tyZGRfTzN3X25Wa0laMFVSX21Eb0tnUV9VMC0zSV9vYmxXY3NvNm4xSGxseHVRTXhUYVI5bkVDZXQ4LTVOQnRaby1SWnVQR3hiN2lxRk5WR01NRkpQMEpyZWJwMXB5Z2xuRGZfby01bzRudF94YXN6SHB5T0Zhc1AwWnZfWDVjeURkMUMtQ1hsYndKYU5vT3JQck1kVzA2OUFTOTdjVnpvcl9YOVk?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
+      "id": "f1905d595af3",
+      "title": "沒性行為卻感染HPV？醫示警「3大真相」 病毒比你想像更普遍",
+      "published": "2026-06-07T07:00:04+00:00",
+      "summary": "沒性行為卻感染HPV？醫示警「3大真相」 病毒比你想像更普遍&nbsp;&nbsp;台視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vMzMxdHZnbGVYNzBqeEtqSE54ZlY4T2NSUko1aVFpYmpOdGxLbTYzWVVZakZfei1QSFVSY3MyWWxHZmtOVWxITnd3dm9sV1pabTRvNnNIZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "71f3f3cfee49",
+      "title": "研究曝「1常見食物」能防骨折！效果堪比藥物 還沒副作用 | 三立新聞網 - LINE TODAY",
+      "published": "2026-06-07T05:48:07+00:00",
+      "summary": "研究曝「1常見食物」能防骨折！效果堪比藥物 還沒副作用 | 三立新聞網&nbsp;&nbsp;LINE TODAY健康網》更年期骨質怕流失 研究曝「1食物」每天5顆存骨本&nbsp;&nbsp;自由健康網研究曝「1常見食物」能防骨折！效果堪比藥物 還沒副作用&nbsp;&nbsp;祝你健康腸道顧好，骨頭也會跟著好？探究腸道菌相與骨質疏鬆的秘密| 照護線上-深受信賴的醫療媒體&nbsp;&nbsp;careonline.com.tw「1常見食物」能防骨折！每天幾顆就有效&nbsp;&nbsp;鏡週刊Mirror Media",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGdFJMY0p3RUVwT1cwNDh1NFNfbWNaTk1xVWFtMHdYY25oRU5tb3BwdjVDMkcxMWVVcUFfRVhVd1h2MmdFNTRCVDlMLVRZT3R4MEZVOFhB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "8fabdb6808cc",
       "title": "一支疫苗打遍所有冠狀病毒不再是夢想？劍橋以 AI 研發廣效疫苗取得初步成效 - TechNews 科技新報",
       "published": "2026-06-07T01:47:41+00:00",
-      "summary": "一支疫苗打遍所有冠狀病毒不再是夢想？劍橋以 AI 研發廣效疫苗取得初步成效&nbsp;&nbsp;TechNews 科技新報「全球首創」由人工智慧設計的疫苗是怎樣誕生的？&nbsp;&nbsp;BBC「顛覆性突破」劍橋大學團隊AI設計疫苗有望顛覆性突破拯救生命| 世界萬象| 全球&nbsp;&nbsp;UDNAI設計疫苗 可對抗所有冠狀病毒&nbsp;&nbsp;星島頭條AI設計疫苗︱可對抗所有冠狀病毒 劍橋：正開發流感及伊波拉疫苗&nbsp;&nbsp;星島頭條",
+      "summary": "一支疫苗打遍所有冠狀病毒不再是夢想？劍橋以 AI 研發廣效疫苗取得初步成效&nbsp;&nbsp;TechNews 科技新報「全球首創」由人工智慧設計的疫苗是怎樣誕生的？&nbsp;&nbsp;BBC「顛覆性突破」劍橋大學團隊AI設計疫苗有望顛覆性突破拯救生命| 世界萬象| 全球&nbsp;&nbsp;UDNAI設計疫苗 可對抗所有冠狀病毒&nbsp;&nbsp;星島頭條一支疫苗打遍所有冠狀病毒不再是夢想？劍橋以AI 研發廣效疫苗取得初步成效- 股市爆料同學會&nbsp;&nbsp;CMoney",
       "sources": [
         {
           "name": "TechNews 科技新報",
@@ -43,14 +93,14 @@
       "matched_keywords": []
     },
     {
-      "id": "709a59f0cfd2",
-      "title": "Google申請野放六千萬隻基改雄蚊 科技巨擘跨界抗擊西尼羅病毒",
-      "published": "2026-06-06T14:46:00+00:00",
-      "summary": "Google申請野放六千萬隻基改雄蚊 科技巨擘跨界抗擊西尼羅病毒&nbsp;&nbsp;Yahoo新聞Google申請要放6400萬隻蚊子！地點曝光&nbsp;&nbsp;ETtoday新聞雲Google 母公司 Alphabet 最新 Debug 計劃：滅蚊！是的，你沒有看錯標題&nbsp;&nbsp;Popbee動機從來都是好的 關鍵是結果&nbsp;&nbsp;Singtaousa谷歌申請在美釋放3200萬隻不育蚊子 以阻斷相關傳染病傳播&nbsp;&nbsp;AASTOCKS.com",
+      "id": "4e6f9d3c6d80",
+      "title": "Google申請野放六千萬隻基改雄蚊對抗病毒 - 鏡週刊Mirror Media",
+      "published": "2026-06-06T14:41:00+00:00",
+      "summary": "Google申請野放六千萬隻基改雄蚊對抗病毒&nbsp;&nbsp;鏡週刊Mirror MediaGoogle申請野放六千萬隻基改雄蚊 科技巨擘跨界抗擊西尼羅病毒&nbsp;&nbsp;Yahoo新聞Google向美政府申請放6000萬隻蚊子 科技抗病毒關鍵曝光&nbsp;&nbsp;鏡週刊Mirror MediaGoogle 母公司 Alphabet 最新 Debug 計劃：滅蚊！是的，你沒有看錯標題&nbsp;&nbsp;Popbee動機從來都是好的 關鍵是結果&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNUzZhNlFVWFFYRUo3dnZBVXFPTGtLV09zNFl4SEtjSXNjT0phZFMxWnQ2bWppRWNiWkROOHVHOEJZZlNvbG5Lb2xvTklBSlhQWXhvdGtYaTRxeE5rVlI0X096aHRhNlk4Z1I5Qm1BdEstblZWT3laUFctYlJFSk1CaWg3TzRFZ1dDZlBmNTBBQ3h1OVhmR0hiRE1aZ2VvVWFlM0w3eDhZTTJmX1R6RmZtd1I0TUd1dlp1TDZubnN6bkJIODNOS0pZZl95U2pXaEswVWx3Smw5cFVIY1NRVm5leFdRdFhqTGdsQ3NOYXdFMV9JZTFES3hJRExyTlhCcEpSRUxpT3RPWUdGR3hZdno3VS1nRVYtMC1seWZfdXY4QkRjdnJMMkZ1eGUyR0FMOHc2VjVTcjV1WEw4Z20tZ01kOG5mMVVGZ3BxVm44czUtUHNFYkc2d1hmdzVwMkF3c2VpN1MydzNIRmtNNlpTRmw1d1FPVV9zekNkNzREMDF1eTZOSFBzeFliRA?oc=5"
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HczFYVlFnVHBxM2F5b19UMGpvZU5rMGhuT3FGbXZmOHM5OHpMNjBZdjhkNWg3VjNqU3RCbU44TkZZeDZJeVdYa0V4R2c0YXhVOXFNVXYta01wMWtj0gFiQVVfeXFMUGU5eFNybVVLMmNZMDRlVkZOajhPVDNfX2hqckY3ZGVJbG8wbUZ6bzFkYnk2ZW9WMExoN1NFLTByQWxfT3VDbU4wV21QMmdNdzg0LWt1elF0azJYeERpU25JZ3c?oc=5"
         }
       ],
       "matched_keywords": []
@@ -69,13 +119,13 @@
       "matched_keywords": []
     },
     {
-      "id": "50cd64fdbb02",
+      "id": "5d92017d206d",
       "title": "防止骨折｜研究：鈣質及維他命D對於預防骨折及跌倒的成效不大",
       "published": "2026-06-06T05:30:00+00:00",
-      "summary": "防止骨折｜研究：鈣質及維他命D對於預防骨折及跌倒的成效不大&nbsp;&nbsp;AM730",
+      "summary": "防止骨折｜研究：鈣質及維他命D對於預防骨折及跌倒的成效不大&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oeDR6Qi1HZURPWXhidEMwa1lINmV6NjBvUVdZN0oxN3oxdm5tUnBFeEsxOUtrZ29xRmNESlpQSHlFRy1nMGVzaWR0VmtFdTBLRWc?oc=5"
         }
       ],
@@ -142,70 +192,6 @@
         {
           "name": "Investing.com 香港 - 股市報價& 財經新聞",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xbWx2Y0JIdkRpRWNFWlVjSDd4emJxYlJEcXVSc2hBaWxtZFpNcWhSY3JUeFBLVXI2WjNmSnFxQkJvUFZybjZTUno3UGJuRFB4R21aUUhQSUJyWTBRbUpKdDN6VG1pUjJsdGhhM2xYY1k?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "726da3fd8357",
-      "title": "東張西望播毒渣男｜醫生指HPV難判斷傳播鏈 無針對治療方法",
-      "published": "2026-06-05T09:31:15+00:00",
-      "summary": "東張西望播毒渣男｜醫生指HPV難判斷傳播鏈 無針對治療方法&nbsp;&nbsp;香港經濟日報HKET東張西望｜染HPV渣男播毒 醫生：感染十年內仍可傳播 目前無藥可醫&nbsp;&nbsp;healthyD東張西望丨「播毒渣男」現身認有性病 三女圍繞對質：我抽組織下面流幾多血呀 拒道歉冷笑受訪&nbsp;&nbsp;星島頭條東張西望｜交友App驚現「播毒渣男」 多名少女慘染性病 揭21歲嫩男「倒模式恐怖套路」&nbsp;&nbsp;nmplus.hk播毒渣男第二集｜H先生「中計」蒲頭被爆繼續約女 受害人不幸染致命病毒：呢個真係會死&nbsp;&nbsp;TVB",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13M3c2OEZfbGk5d0lXZ3VtSC1jLXZhVmgyZzlUNWZfU1c1TGYzbnJtcUNHbGVaLUJkVXR0MFl4WG51X1VacnRHS2Q4WHRFLV9mdmc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e89fdba716ac",
-      "title": "免疫細胞為何「戰鬥到一半就累了」？科學家找到元兇蛋白質 | 科技新報 - LINE TODAY",
-      "published": "2026-06-05T09:01:06+00:00",
-      "summary": "免疫細胞為何「戰鬥到一半就累了」？科學家找到元兇蛋白質 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCM0Z6azBLUHg0RTZnVnlIVG0wdWdHdmdrZ2FHT3V2RjItanRPeVVRdnduMTBaazhULVZ1VVBRdHNsd1oxVHQzX2tJTEpucUFnT1pjaXFR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6f9d2efab1cb",
-      "title": "健康老化祕訣很簡單，研究：少吃一點",
-      "published": "2026-06-05T07:29:01+00:00",
-      "summary": "健康老化祕訣很簡單，研究：少吃一點&nbsp;&nbsp;財訊不靠醫美！55歲女奪全球「回春奧運」第二名，一年老化速度僅0.46歲！低成本慢老秘訣公開！&nbsp;&nbsp;TVBS 女人我最大人在臨終前10年就已失能或病痛纏身醫教6招縮短衰老折磨時間- 健康&nbsp;&nbsp;中時新聞網不吃保健品也能逆齡！55歲女奪全球抗老奧林匹克亞軍 一年只老0.46歲 公開6大黃金秘訣&nbsp;&nbsp;星島頭條台灣人臨終前平均臥床8年！醫揭「抗老6祕訣」：護心血管、降發炎&nbsp;&nbsp;祝你健康",
-      "sources": [
-        {
-          "name": "財訊",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9OOVJpSVVJTW15UGVSQnVhTXZsZ1dhQlIzcWxVMmU0Y2tDTTB4MndTbHdjbG83TEstMGM0anBOczNtaTk0bHNRQmloWE5hdnNFWXlDWVRWRG55ZlFqWEpKOHhrWkNzN0tZT1doa3dOVjFHdG1GOGx4SE9KMA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "53bb9ed3e82f",
-      "title": "臨床實證頑固斑淡化-65.9%！理膚寶水「MELA B3淡斑精華」締造最強淡斑紀錄：國際期刊認證「媲美醫用藥膏」且更耐受，強勢登頂《時代雜誌》年度最佳發明獎！",
-      "published": "2026-06-05T07:10:17+00:00",
-      "summary": "臨床實證頑固斑淡化-65.9%！理膚寶水「MELA B3淡斑精華」締造最強淡斑紀錄：國際期刊認證「媲美醫用藥膏」且更耐受，強勢登頂《時代雜誌》年度最佳發明獎！&nbsp;&nbsp;ELLE",
-      "sources": [
-        {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85elNZZHZIanBwcUx1NnlIYThMUlkwcVFHcXFjY05DdEE4V1lGT3VsOVJZekxKVmlyMzIwdW5DMzQ1dk5hOHpnaDhXUUFoVGd3Y3p5czVDb3MwT1daWGR3cHN4cnpSa1JqaUVv?oc=5"
         }
       ],
       "matched_keywords": []

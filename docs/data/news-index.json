@@ -1,26 +1,38 @@
 {
-  "generated": "2026-06-07T06:59:16.988618+00:00",
+  "generated": "2026-06-07T10:06:09.197269+00:00",
   "count": 1,
   "news": [
     {
-      "id": "6f9d2efab1cb",
-      "title": "健康老化祕訣很簡單，研究：少吃一點",
-      "published": "2026-06-05T07:29:01+00:00",
+      "id": "71f3f3cfee49",
+      "title": "研究曝「1常見食物」能防骨折！效果堪比藥物 還沒副作用 | 三立新聞網 - LINE TODAY",
+      "published": "2026-06-07T05:48:07+00:00",
       "sources": [
         {
-          "name": "財訊",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9OOVJpSVVJTW15UGVSQnVhTXZsZ1dhQlIzcWxVMmU0Y2tDTTB4MndTbHdjbG83TEstMGM0anBOczNtaTk0bHNRQmloWE5hdnNFWXlDWVRWRG55ZlFqWEpKOHhrWkNzN0tZT1doa3dOVjFHdG1GOGx4SE9KMA?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGdFJMY0p3RUVwT1cwNDh1NFNfbWNaTk1xVWFtMHdYY25oRU5tb3BwdjVDMkcxMWVVcUFfRVhVd1h2MmdFNTRCVDlMLVRZT3R4MEZVOFhB?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
+          "name": "menopause",
+          "keyword": "更年期",
           "related_drugs": [
             {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
             }
           ]
         }

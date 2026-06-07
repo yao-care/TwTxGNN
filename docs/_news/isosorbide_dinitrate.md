@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [健康老化祕訣很簡單，研究：少吃一點](https://news.google.com/rss/articles/CBMie0FVX3lxTE9OOVJpSVVJTW15UGVSQnVhTXZsZ1dhQlIzcWxVMmU0Y2tDTTB4MndTbHdjbG83TEstMGM0anBOczNtaTk0bHNRQmloWE5hdnNFWXlDWVRWRG55ZlFqWEpKOHhrWkNzN0tZT1doa3dOVjFHdG1GOGx4SE9KMA?oc=5)
-
-2026-06-05 <span class="news-indication-tag">心血管</span>
-
-來源：[財訊](https://news.google.com/rss/articles/CBMie0FVX3lxTE9OOVJpSVVJTW15UGVSQnVhTXZsZ1dhQlIzcWxVMmU0Y2tDTTB4MndTbHdjbG83TEstMGM0anBOczNtaTk0bHNRQmloWE5hdnNFWXlDWVRWRG55ZlFqWEpKOHhrWkNzN0tZT1doa3dOVjFHdG1GOGx4SE9KMA?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
