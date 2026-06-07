@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [健康網》更年期骨質怕流失 研究曝「1食物」每天5顆存骨本](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4M0Vxb1oxRUlUWk41OXZpQWRuZFNEaWIxTHZ1cWZmRnkxdFhIR2xWUm11MlQ4akNMZU9KVU5CeUlFMUFlMk93ZHJMeDVtd3lUa0poMDhqemlxdS01TmxmcGZ3Z3fSAWpBVV95cUxQWmktQjFsYWJDZWdUWUVyOUlLRVVVcnBleFdiMjJfSWplM1hoM3UtZkRKcnRZeFlOSFY2OXJCdTJWYkdTZVZaVW1OT0tjSDZTTngtTE0zdi1nV0Ftc05vQTJOQlhoNFU1ZkJ3?oc=5)
-
-2026-06-06 <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4M0Vxb1oxRUlUWk41OXZpQWRuZFNEaWIxTHZ1cWZmRnkxdFhIR2xWUm11MlQ4akNMZU9KVU5CeUlFMUFlMk93ZHJMeDVtd3lUa0poMDhqemlxdS01TmxmcGZ3Z3fSAWpBVV95cUxQWmktQjFsYWJDZWdUWUVyOUlLRVVVcnBleFdiMjJfSWplM1hoM3UtZkRKcnRZeFlOSFY2OXJCdTJWYkdTZVZaVW1OT0tjSDZTTngtTE0zdi1nV0Ftc05vQTJOQlhoNFU1ZkJ3?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

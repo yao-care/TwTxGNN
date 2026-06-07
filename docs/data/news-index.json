@@ -1,66 +1,7 @@
 {
-  "generated": "2026-06-07T02:41:27.618569+00:00",
-  "count": 2,
+  "generated": "2026-06-07T06:59:16.988618+00:00",
+  "count": 1,
   "news": [
-    {
-      "id": "1d3f6b4464d0",
-      "title": "健康網》更年期骨質怕流失 研究曝「1食物」每天5顆存骨本",
-      "published": "2026-06-06T22:32:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4M0Vxb1oxRUlUWk41OXZpQWRuZFNEaWIxTHZ1cWZmRnkxdFhIR2xWUm11MlQ4akNMZU9KVU5CeUlFMUFlMk93ZHJMeDVtd3lUa0poMDhqemlxdS01TmxmcGZ3Z3fSAWpBVV95cUxQWmktQjFsYWJDZWdUWUVyOUlLRVVVcnBleFdiMjJfSWplM1hoM3UtZkRKcnRZeFlOSFY2OXJCdTJWYkdTZVZaVW1OT0tjSDZTTngtTE0zdi1nV0Ftc05vQTJOQlhoNFU1ZkJ3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "停經",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "6f9d2efab1cb",
       "title": "健康老化祕訣很簡單，研究：少吃一點",
