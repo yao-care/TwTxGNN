@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-07T10:06:04.905160+00:00",
-  "count": 13,
+  "fetched_at": "2026-06-07T12:15:59.938085+00:00",
+  "count": 12,
   "news": [
     {
       "id": "73fe47d59d2f",
@@ -28,6 +28,18 @@
       ]
     },
     {
+      "id": "4e6f9d3c6d80",
+      "title": "Google申請野放六千萬隻基改雄蚊對抗病毒 - 鏡週刊Mirror Media",
+      "published": "2026-06-06T14:41:00+00:00",
+      "summary": "Google申請野放六千萬隻基改雄蚊對抗病毒&nbsp;&nbsp;鏡週刊Mirror MediaGoogle申請野放六千萬隻基改雄蚊 科技巨擘跨界抗擊西尼羅病毒&nbsp;&nbsp;Yahoo新聞Google向美政府申請放6000萬隻蚊子 科技抗病毒關鍵曝光 | 鏡週刊&nbsp;&nbsp;LINE TODAYGoogle 母公司 Alphabet 最新 Debug 計劃：滅蚊！是的，你沒有看錯標題&nbsp;&nbsp;Popbee動機從來都是好的 關鍵是結果&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HczFYVlFnVHBxM2F5b19UMGpvZU5rMGhuT3FGbXZmOHM5OHpMNjBZdjhkNWg3VjNqU3RCbU44TkZZeDZJeVdYa0V4R2c0YXhVOXFNVXYta01wMWtj0gFiQVVfeXFMUGU5eFNybVVLMmNZMDRlVkZOajhPVDNfX2hqckY3ZGVJbG8wbUZ6bzFkYnk2ZW9WMExoN1NFLTByQWxfT3VDbU4wV21QMmdNdzg0LWt1elF0azJYeERpU25JZ3c?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8fabdb6808cc",
       "title": "一支疫苗打遍所有冠狀病毒不再是夢想？劍橋以 AI 研發廣效疫苗取得初步成效 - TechNews 科技新報",
       "published": "2026-06-07T01:47:41+00:00",
@@ -40,30 +52,6 @@
       ]
     },
     {
-      "id": "647ac44037b7",
-      "title": "餅乾、蛋糕不只熱量高 專家提醒這時間吃太甜恐影響大腦健康 - 元氣網",
-      "published": "2026-06-07T01:34:10+00:00",
-      "summary": "餅乾、蛋糕不只熱量高 專家提醒這時間吃太甜恐影響大腦健康&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ob2dGcnNRcWk3eWZpdXk4RTB0SEtEaElqekx6Q19Pb3J3bDc1QUtOYm9maUZnSDBZcE0xSDhBWFFwc1BMTVh1bEQ0a3EwVnZzd3ZBajBLcGw0OUw0dlHSAWNBVV95cUxNc1FmVTBwR2VtdW9BSWViX1RtME1rX1NjMTFvSUFMYVJjYndtWVpPUFU1OHJISS1WdktoeW9rQWdXcldFRjdXb1A2Q3V6eERab3c4NklZS2dzdDZfd2Q4RFc3SUU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4e6f9d3c6d80",
-      "title": "Google申請野放六千萬隻基改雄蚊對抗病毒 - 鏡週刊Mirror Media",
-      "published": "2026-06-06T14:41:00+00:00",
-      "summary": "Google申請野放六千萬隻基改雄蚊對抗病毒&nbsp;&nbsp;鏡週刊Mirror MediaGoogle申請野放六千萬隻基改雄蚊 科技巨擘跨界抗擊西尼羅病毒&nbsp;&nbsp;Yahoo新聞Google向美政府申請放6000萬隻蚊子 科技抗病毒關鍵曝光&nbsp;&nbsp;鏡週刊Mirror MediaGoogle 母公司 Alphabet 最新 Debug 計劃：滅蚊！是的，你沒有看錯標題&nbsp;&nbsp;Popbee動機從來都是好的 關鍵是結果&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HczFYVlFnVHBxM2F5b19UMGpvZU5rMGhuT3FGbXZmOHM5OHpMNjBZdjhkNWg3VjNqU3RCbU44TkZZeDZJeVdYa0V4R2c0YXhVOXFNVXYta01wMWtj0gFiQVVfeXFMUGU5eFNybVVLMmNZMDRlVkZOajhPVDNfX2hqckY3ZGVJbG8wbUZ6bzFkYnk2ZW9WMExoN1NFLTByQWxfT3VDbU4wV21QMmdNdzg0LWt1elF0azJYeERpU25JZ3c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f1905d595af3",
       "title": "沒性行為卻感染HPV？醫示警「3大真相」 病毒比你想像更普遍 - 台視新聞網",
       "published": "2026-06-07T07:00:04+00:00",
@@ -72,6 +60,18 @@
         {
           "name": "台視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vMzMxdHZnbGVYNzBqeEtqSE54ZlY4T2NSUko1aVFpYmpOdGxLbTYzWVVZakZfei1QSFVSY3MyWWxHZmtOVWxITnd3dm9sV1pabTRvNnNIZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "37464b3c8f22",
+      "title": "紐約市府「滅蚊大作戰」 8日至10日出動直升機噴藥 - 世界新聞網",
+      "published": "2026-06-05T23:56:32+00:00",
+      "summary": "紐約市府「滅蚊大作戰」 8日至10日出動直升機噴藥&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lZHVGWk5rc2JHVm00VUZWSXQxcWRtU3k3U2ZIbEE4ZmNvZzZsSWtxQ05lR3I4ZFBsQWs3dU1sTllOX3p3VUJHRHdQSWQ0bVkxUnk3dDUwQnI1aHpBcEkwZnhR0gFnQVVfeXFMTjRhdVRRN05leUwySnJ6Vm5JM2JnVXB4bHE1Qy1GMl9VczBSUjl5MThWTU5yWHdwQkxCR2dFekJwNjlhT3R0N2pGcVVwdEdSWEVmZEdKSnhBc0hQdmZJSllveEFSLWRiaw?oc=5"
         }
       ]
     },
@@ -100,13 +100,13 @@
       ]
     },
     {
-      "id": "5d92017d206d",
-      "title": "防止骨折｜研究：鈣質及維他命D對於預防骨折及跌倒的成效不大 - am730",
+      "id": "50cd64fdbb02",
+      "title": "防止骨折｜研究：鈣質及維他命D對於預防骨折及跌倒的成效不大 - AM730",
       "published": "2026-06-06T05:30:00+00:00",
-      "summary": "防止骨折｜研究：鈣質及維他命D對於預防骨折及跌倒的成效不大&nbsp;&nbsp;am730",
+      "summary": "防止骨折｜研究：鈣質及維他命D對於預防骨折及跌倒的成效不大&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oeDR6Qi1HZURPWXhidEMwa1lINmV6NjBvUVdZN0oxN3oxdm5tUnBFeEsxOUtrZ29xRmNESlpQSHlFRy1nMGVzaWR0VmtFdTBLRWc?oc=5"
         }
       ]
@@ -132,18 +132,6 @@
         {
           "name": "蕃新聞",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmeThKN0pDdHczam5PTm5xRnBTbjhvcXBlaE92RUpHQkRLLVpNSHZ3RFAxRm03V2owOXZLVTVoSkJkTU1aQTAxSWN0TmNHZVJydVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "37464b3c8f22",
-      "title": "紐約市府「滅蚊大作戰」 8日至10日出動直升機噴藥 - 世界新聞網",
-      "published": "2026-06-05T23:56:32+00:00",
-      "summary": "紐約市府「滅蚊大作戰」 8日至10日出動直升機噴藥&nbsp;&nbsp;世界新聞網「八腳怪」壁蝨活躍季節到來專家5招居家防治- 國際&nbsp;&nbsp;中時新聞網紐約市府「滅蚊大作戰」 下周起出動直升機噴藥&nbsp;&nbsp;世界新聞網美國蜱蟲叮咬病例創近十年新高 專家警告：萊姆病與致命腦炎風險同步擴大&nbsp;&nbsp;Taiwan News夏季來臨蜱蟲活躍 衛生局提醒防萊姆病&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lZHVGWk5rc2JHVm00VUZWSXQxcWRtU3k3U2ZIbEE4ZmNvZzZsSWtxQ05lR3I4ZFBsQWs3dU1sTllOX3p3VUJHRHdQSWQ0bVkxUnk3dDUwQnI1aHpBcEkwZnhR0gFnQVVfeXFMTjRhdVRRN05leUwySnJ6Vm5JM2JnVXB4bHE1Qy1GMl9VczBSUjl5MThWTU5yWHdwQkxCR2dFekJwNjlhT3R0N2pGcVVwdEdSWEVmZEdKSnhBc0hQdmZJSllveEFSLWRiaw?oc=5"
         }
       ]
     },
