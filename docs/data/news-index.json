@@ -1,7 +1,66 @@
 {
-  "generated": "2026-06-06T23:01:18.068537+00:00",
+  "generated": "2026-06-07T02:41:27.618569+00:00",
   "count": 2,
   "news": [
+    {
+      "id": "1d3f6b4464d0",
+      "title": "健康網》更年期骨質怕流失 研究曝「1食物」每天5顆存骨本",
+      "published": "2026-06-06T22:32:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4M0Vxb1oxRUlUWk41OXZpQWRuZFNEaWIxTHZ1cWZmRnkxdFhIR2xWUm11MlQ4akNMZU9KVU5CeUlFMUFlMk93ZHJMeDVtd3lUa0poMDhqemlxdS01TmxmcGZ3Z3fSAWpBVV95cUxQWmktQjFsYWJDZWdUWUVyOUlLRVVVcnBleFdiMjJfSWplM1hoM3UtZkRKcnRZeFlOSFY2OXJCdTJWYkdTZVZaVW1OT0tjSDZTTngtTE0zdi1nV0Ftc05vQTJOQlhoNFU1ZkJ3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "停經",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "6f9d2efab1cb",
       "title": "健康老化祕訣很簡單，研究：少吃一點",
@@ -21,52 +80,6 @@
             {
               "slug": "isosorbide_dinitrate",
               "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1b77b5fb03cd",
-      "title": "【新新聞】早期失智症治療用藥終於出現 適用範圍、療程費用一次看 | 黃天如 | VIP",
-      "published": "2026-06-05T00:30:01+00:00",
-      "sources": [
-        {
-          "name": "風傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE92QjhSOFJReXZGYkpkWG5uTmZRQVpwSjRwYzUwVVNUVnRGVl9pTU0yMXlzV2hMQzlabDh0M2huX3RYanVVTWVHRG5tUW8?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "阿茲海默症",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

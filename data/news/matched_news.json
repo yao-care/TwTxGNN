@@ -1,13 +1,99 @@
 {
-  "last_updated": "2026-06-06T23:01:18.038600+00:00",
-  "total_count": 13,
+  "last_updated": "2026-06-07T02:41:27.591684+00:00",
+  "total_count": 14,
   "matched_count": 2,
   "news": [
+    {
+      "id": "8fabdb6808cc",
+      "title": "一支疫苗打遍所有冠狀病毒不再是夢想？劍橋以 AI 研發廣效疫苗取得初步成效 - TechNews 科技新報",
+      "published": "2026-06-07T01:41:15+00:00",
+      "summary": "一支疫苗打遍所有冠狀病毒不再是夢想？劍橋以 AI 研發廣效疫苗取得初步成效&nbsp;&nbsp;TechNews 科技新報「全球首創」由人工智慧設計的疫苗是怎樣誕生的？&nbsp;&nbsp;BBC「顛覆性突破」劍橋大學團隊AI設計疫苗有望顛覆性突破拯救生命| 世界萬象| 全球&nbsp;&nbsp;UDNAI設計疫苗 可對抗所有冠狀病毒&nbsp;&nbsp;星島頭條AI設計疫苗︱可對抗所有冠狀病毒 劍橋：正開發流感及伊波拉疫苗&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZDdiRDRlS2ZadElSbzlsZnR6WmtVbDJNQ0N3YXhYUDNZWHExV0tBZ2s2QXVhNWxKOXdPcTUtM09VUXh3dndJMmdwbVQwdFZqQmlUanFsMHRnSnpYWHd6d215MlZPX3BIWmdteVY4VWZFb1JoX1Uwa3hXaDVmVFBaODN4WHN0bkl5LWhyeHgzdEo?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "cad1b4211108",
+      "title": "餅乾、蛋糕不只熱量高 專家提醒這時間吃太甜恐影響大腦健康",
+      "published": "2026-06-07T01:34:10+00:00",
+      "summary": "餅乾、蛋糕不只熱量高 專家提醒這時間吃太甜恐影響大腦健康&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ob2dGcnNRcWk3eWZpdXk4RTB0SEtEaElqekx6Q19Pb3J3bDc1QUtOYm9maUZnSDBZcE0xSDhBWFFwc1BMTVh1bEQ0a3EwVnZzd3ZBajBLcGw0OUw0dlE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1d3f6b4464d0",
+      "title": "健康網》更年期骨質怕流失 研究曝「1食物」每天5顆存骨本",
+      "published": "2026-06-06T22:32:00+00:00",
+      "summary": "健康網》更年期骨質怕流失 研究曝「1食物」每天5顆存骨本&nbsp;&nbsp;自由健康網腸道顧好，骨頭也會跟著好？探究腸道菌相與骨質疏鬆的秘密| 照護線上-深受信賴的醫療媒體&nbsp;&nbsp;careonline.com.tw更年期女性注意 停經後5年 骨量恐大減3成&nbsp;&nbsp;華人今日網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4M0Vxb1oxRUlUWk41OXZpQWRuZFNEaWIxTHZ1cWZmRnkxdFhIR2xWUm11MlQ4akNMZU9KVU5CeUlFMUFlMk93ZHJMeDVtd3lUa0poMDhqemlxdS01TmxmcGZ3Z3fSAWpBVV95cUxQWmktQjFsYWJDZWdUWUVyOUlLRVVVcnBleFdiMjJfSWplM1hoM3UtZkRKcnRZeFlOSFY2OXJCdTJWYkdTZVZaVW1OT0tjSDZTTngtTE0zdi1nV0Ftc05vQTJOQlhoNFU1ZkJ3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "停經",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "709a59f0cfd2",
       "title": "Google申請野放六千萬隻基改雄蚊 科技巨擘跨界抗擊西尼羅病毒",
       "published": "2026-06-06T14:46:00+00:00",
-      "summary": "Google申請野放六千萬隻基改雄蚊 科技巨擘跨界抗擊西尼羅病毒&nbsp;&nbsp;Yahoo新聞Google向美政府申請放6000萬隻蚊子 科技抗病毒關鍵曝光&nbsp;&nbsp;Yahoo新聞Google 母公司 Alphabet 最新 Debug 計劃：滅蚊！是的，你沒有看錯標題&nbsp;&nbsp;PopbeeGoogle申請要放6400萬隻蚊子！地點曝光&nbsp;&nbsp;ETtoday新聞雲以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖&nbsp;&nbsp;拾方視角",
+      "summary": "Google申請野放六千萬隻基改雄蚊 科技巨擘跨界抗擊西尼羅病毒&nbsp;&nbsp;Yahoo新聞Google申請要放6400萬隻蚊子！地點曝光&nbsp;&nbsp;ETtoday新聞雲Google 母公司 Alphabet 最新 Debug 計劃：滅蚊！是的，你沒有看錯標題&nbsp;&nbsp;Popbee動機從來都是好的 關鍵是結果&nbsp;&nbsp;Singtaousa谷歌申請在美釋放3200萬隻不育蚊子 以阻斷相關傳染病傳播&nbsp;&nbsp;AASTOCKS.com",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -108,19 +194,6 @@
       "matched_keywords": []
     },
     {
-      "id": "a2f7db6f7b72",
-      "title": "「顛覆性突破」劍橋大學團隊AI設計疫苗有望顛覆性突破拯救生命| 世界萬象| 全球",
-      "published": "2026-06-05T09:32:36+00:00",
-      "summary": "「顛覆性突破」劍橋大學團隊AI設計疫苗有望顛覆性突破拯救生命| 世界萬象| 全球&nbsp;&nbsp;UDN「全球首創」由人工智慧設計的疫苗是怎樣誕生的？&nbsp;&nbsp;BBCAI設計疫苗 可對抗所有冠狀病毒&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yc1JRS2FqTm1fU3dUY0lBMS1yQ3g5dnRGUm96cTlhaE5DRVhQekxTVmlsZ3llYjlFQ1NFREFyVl9VZS1fV3FNaWMyMXJpT3J0?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "726da3fd8357",
       "title": "東張西望播毒渣男｜醫生指HPV難判斷傳播鏈 無針對治療方法",
       "published": "2026-06-05T09:31:15+00:00",
@@ -170,53 +243,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "1b77b5fb03cd",
-      "title": "【新新聞】早期失智症治療用藥終於出現 適用範圍、療程費用一次看 | 黃天如 | VIP",
-      "published": "2026-06-05T00:30:01+00:00",
-      "summary": "【新新聞】早期失智症治療用藥終於出現 適用範圍、療程費用一次看 | 黃天如 | VIP&nbsp;&nbsp;風傳媒好命生醫引進代謝體檢測，單次抽血有望提早 10 年預測阿茲海默症風險&nbsp;&nbsp;GeneOnline News失智治療元年開跑！藥物卻只救早期？台灣新旭生技用「影像＋AI」生態系 讓百健、BMS大廠搶合作&nbsp;&nbsp;Business Insider TaiwanAI血檢分類器準确區分四種癡呆相關腦病&nbsp;&nbsp;華僑時報",
-      "sources": [
-        {
-          "name": "風傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE92QjhSOFJReXZGYkpkWG5uTmZRQVpwSjRwYzUwVVNUVnRGVl9pTU0yMXlzV2hMQzlabDh0M2huX3RYanVVTWVHRG5tUW8?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "阿茲海默症",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
