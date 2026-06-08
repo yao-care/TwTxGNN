@@ -1,15 +1,62 @@
 {
-  "generated": "2026-06-08T04:27:27.055068+00:00",
-  "count": 2,
+  "generated": "2026-06-08T09:18:11.791852+00:00",
+  "count": 3,
   "news": [
     {
-      "id": "67a7aa2ed615",
-      "title": "四語司儀施可瑩淚撰抗癌日記！驚揭卵巢癌擴散盲腸！提防「寂靜殺手」三大先兆！",
-      "published": "2026-06-07T10:37:59+00:00",
+      "id": "6bb711b156ba",
+      "title": "預防大腸癌｜牛津研究：每日一杯「日常飲品」風險即減17%",
+      "published": "2026-06-08T08:00:01+00:00",
       "sources": [
         {
-          "name": "東周刊",
-          "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxPSk5HMXlOS2RTdHhUY0JkOEhCS3lxR2VvQl9TaXF4UHRrSUVlUU1TS1MtellMS19ScHQ2Ry1vTHFDZFYwRUs1SG5KVGpnTVdLZmJhQTB1X1d5aWp2d3E4cWlPekMtTVo1U0ttdng3NFhqcmdPQXBoeEc5YXVfNV9Tbi1VRkhtbmEzbzFxdHhFR21lZWtGakdzam5fM05DLUhXSzdEMl9qUXBJQ0RuRHJ6Vm8ya0tNeVJiWVh0aGNWXzZMel9IOG5ZbmtMc2dUcnQ3SjdxVWdtSHFGRlBGUXNLNzJsOGgxN2VETGtodTBiLXlqNkNVMHd6eHkzdEoxOHJyVnhiclZ6ZEFQZXhGTElBUnF2enJCc0FOcHEzeXVxV2tvSmJrNGtKX2tSQXVUc2xETm1vSk5KdXRvSFFsSTJtWnl2VnN6aFQ2SnoyS2o2UzA3c2lZZ2pZbl91TllERHcwLWhndDJfMkxfTmFqUW10QzktRFZyNEY1UjhsWUFzcFR3U3I4R1FTaWF1R1luLWEwSGRUUFBUd3ZMTVJ4NzRYQnRUaThPMldRTmlDbGtBR3l5YlBTQ0R4bGxRdkRUQ1gwR3BHeDZ6d3FRUXEySE5tM21XQUF5Y0cx?oc=5"
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNaEFIT3EtOU1IbjlyOUFCZHJEQklpYXp1YmQ1b3FHd2I4OG91QlFJTEp0UEo2NVVaSXZvelEzRldPM003OHpBX0x3MERoVThXTjdxQlRrNDlvQ0VXWjkzZTFMaWVwSnVTNTJsYk5xUmFnY2hmTG5lTGtYSFpLbThyQkEyMTAycGRCdGZZcURzekI5ZWZZOGFJc0w1alh0M0tPanhpY0l2TFFaUDdQMndNUDZ1MjFFSm5OcjZscmFJNEVLd19aeHlHZXFwUUlEdnBPRVRiV2FleUItRGRKTzBMcnJyUGM0dVRGWHFOY0d4cTF6dVpXWjM5LVU3a1F6Q19GT21vQk1ibFNBNU1FQzkydXdwWWg3Ymg4dXptQ25wRzMzNFl2eVRGZWFaTHQ2TEVFN2l0bzlqNjFfN2xXeGt1QTkyUVdfNjAxTmozTmdIajdsb1V0QkgwVGhmZFJaeU9KZWc4Rk0ycw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "57ee5d40d437",
+      "title": "抗癌戰士︱四語司儀施可瑩患卵巢癌化療後指數轉差 心跳飆至140連飲水都無力：我未放棄㗎！",
+      "published": "2026-06-08T07:42:53+00:00",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxPUkhYTW9EaTlIM0EzWnNUT0tzTVVQR1A2MmJRdm9TclBIeW1rY0c5NzZremVQTWtzS2VaVzlDYS0zekdoNmNlTGpTR2Vwc3ZnU3c1R1p4YnpVTDJ3MDd2anlTR3pFa2lsTG5WV0JiYzhuUWlsTUY2QXRaODRDMlJaZ0d6Q1RKTVlpMkJoLTJ0MDNzYUcyakJ4YWJnNHd3MnVlT3JqSnFfd3ZLM3lTZTM1cDVuaDU4Q01adUNGZDZCWmV1Y2N2cnM3RlJ6NUJWMHVZZ1AxTEpHbEZqb1ptTkVuMmhuMU14bGUwMDVMd2VsRkdpN0R1QkZBUXBleUVXc3EyNTVvYkJFaEZ6aEI3bVB4LS1NVFUxQTNQQkpheHJHaVJselIyOEdFblY1RmVsMDlvT1lMbUNrTmVsVjB4d29aZXNkSFg0dDRCWldjT05aMjVrM18xNFhDX1owVnJ6SWtWVkZTOXB2LXdJRXlvWlZaSGxLMWdJclJDazBxUUpNRzZqeTRHdVRGNnVmN19zcUNBTXkwYlJFblEwMjU0QXN1WXN6dkIwa3lXRGFIZlFjUnZiblhQYWRXQjhpd2hhWE5LLVd5dklLU2xKd1RfVG85dkxwbFQtSnA4UzNWQ1h0WF9vSHRzZHMtTld6d1FTZXpFTDljX2gwMmgxUUtWQ1B1cThXc0lVQktTNHlUOEYzNnhoWjNrSXc0RVlxckZTbDFNVXJ4bHVORVZ2U3hQUnNqV3FocTNhODFmTHBmcGZnY0Z6UQ?oc=5"
         }
       ],
       "keywords": [
@@ -33,7 +80,7 @@
     {
       "id": "71f3f3cfee49",
       "title": "研究曝「1常見食物」能防骨折！效果堪比藥物 還沒副作用 | 三立新聞網 - LINE TODAY",
-      "published": "2026-06-07T07:15:49+00:00",
+      "published": "2026-06-07T05:48:07+00:00",
       "sources": [
         {
           "name": "LINE TODAY",

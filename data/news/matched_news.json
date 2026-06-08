@@ -1,13 +1,103 @@
 {
-  "last_updated": "2026-06-08T04:27:27.026142+00:00",
-  "total_count": 13,
-  "matched_count": 2,
+  "last_updated": "2026-06-08T09:18:11.765132+00:00",
+  "total_count": 11,
+  "matched_count": 3,
   "news": [
+    {
+      "id": "fae1306033a2",
+      "title": "沒性生活也中鏢！HPV「初期0症狀」 醫曝傳染真相",
+      "published": "2026-06-08T08:03:00+00:00",
+      "summary": "沒性生活也中鏢！HPV「初期0症狀」 醫曝傳染真相&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQZDJqM191WDc5WHhDNnFxeFpHVWxXSUYzTTRqODI3TGs3MGlJd0phX1hPOHR2dzU0NVVhbjJ2b2YwbmR5bFdUbGxkcUtaSER3MmFkaUNQaXREWU5BVkJmSnd5b2JqWVd6cWhSTTRHcWJoRXlUV1hhQnZFVkJkbDhxd1J2WnZPSEZtOVM4VjFsaF85MWlkdDNpZG1FRE1hSVpTZ19NVGNiOXBlN194VTR1RURTSEloaXFRT0pWTUZUMHBhXzB3bDlyaV9uVTJVbC1aTzBGVGJIRHdRT2Jzc2gtd1pqbG8xTDZyeE0zZHpUUkJsYm1IQmZBQTlyUWRsU1dvQmpIWDlrbVRVZVA4dEQ2RWVKRW5RSVdjbkhLREpUcTVCZFBpRGdYTQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6bb711b156ba",
+      "title": "預防大腸癌｜牛津研究：每日一杯「日常飲品」風險即減17%",
+      "published": "2026-06-08T08:00:01+00:00",
+      "summary": "預防大腸癌｜牛津研究：每日一杯「日常飲品」風險即減17%&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNaEFIT3EtOU1IbjlyOUFCZHJEQklpYXp1YmQ1b3FHd2I4OG91QlFJTEp0UEo2NVVaSXZvelEzRldPM003OHpBX0x3MERoVThXTjdxQlRrNDlvQ0VXWjkzZTFMaWVwSnVTNTJsYk5xUmFnY2hmTG5lTGtYSFpLbThyQkEyMTAycGRCdGZZcURzekI5ZWZZOGFJc0w1alh0M0tPanhpY0l2TFFaUDdQMndNUDZ1MjFFSm5OcjZscmFJNEVLd19aeHlHZXFwUUlEdnBPRVRiV2FleUItRGRKTzBMcnJyUGM0dVRGWHFOY0d4cTF6dVpXWjM5LVU3a1F6Q19GT21vQk1ibFNBNU1FQzkydXdwWWg3Ymg4dXptQ25wRzMzNFl2eVRGZWFaTHQ2TEVFN2l0bzlqNjFfN2xXeGt1QTkyUVdfNjAxTmozTmdIajdsb1V0QkgwVGhmZFJaeU9KZWc4Rk0ycw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "57ee5d40d437",
+      "title": "抗癌戰士︱四語司儀施可瑩患卵巢癌化療後指數轉差 心跳飆至140連飲水都無力：我未放棄㗎！",
+      "published": "2026-06-08T07:42:53+00:00",
+      "summary": "抗癌戰士︱四語司儀施可瑩患卵巢癌化療後指數轉差 心跳飆至140連飲水都無力：我未放棄㗎！&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxPUkhYTW9EaTlIM0EzWnNUT0tzTVVQR1A2MmJRdm9TclBIeW1rY0c5NzZremVQTWtzS2VaVzlDYS0zekdoNmNlTGpTR2Vwc3ZnU3c1R1p4YnpVTDJ3MDd2anlTR3pFa2lsTG5WV0JiYzhuUWlsTUY2QXRaODRDMlJaZ0d6Q1RKTVlpMkJoLTJ0MDNzYUcyakJ4YWJnNHd3MnVlT3JqSnFfd3ZLM3lTZTM1cDVuaDU4Q01adUNGZDZCWmV1Y2N2cnM3RlJ6NUJWMHVZZ1AxTEpHbEZqb1ptTkVuMmhuMU14bGUwMDVMd2VsRkdpN0R1QkZBUXBleUVXc3EyNTVvYkJFaEZ6aEI3bVB4LS1NVFUxQTNQQkpheHJHaVJselIyOEdFblY1RmVsMDlvT1lMbUNrTmVsVjB4d29aZXNkSFg0dDRCWldjT05aMjVrM18xNFhDX1owVnJ6SWtWVkZTOXB2LXdJRXlvWlZaSGxLMWdJclJDazBxUUpNRzZqeTRHdVRGNnVmN19zcUNBTXkwYlJFblEwMjU0QXN1WXN6dkIwa3lXRGFIZlFjUnZiblhQYWRXQjhpd2hhWE5LLVd5dklLU2xKd1RfVG85dkxwbFQtSnA4UzNWQ1h0WF9vSHRzZHMtTld6d1FTZXpFTDljX2gwMmgxUUtWQ1B1cThXc0lVQktTNHlUOEYzNnhoWjNrSXc0RVlxckZTbDFNVXJ4bHVORVZ2U3hQUnNqV3FocTNhODFmTHBmcGZnY0Z6UQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "卵巢癌",
+          "keyword": "卵巢癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "4b00e2553ee9",
       "title": "播毒渣男引發HPV關注！專家拆解5大迷思 港男每年300宗口咽癌相關 染病易反覆復發",
       "published": "2026-06-08T03:00:27+00:00",
-      "summary": "播毒渣男引發HPV關注！專家拆解5大迷思 港男每年300宗口咽癌相關 染病易反覆復發&nbsp;&nbsp;星島頭條《東張西望》「播毒渣男」遭追訪急逃健身室 翌日中心即暫停深層清潔 但被網民發現洗錯店&nbsp;&nbsp;FanPiece東張西望｜交友App驚現「播毒渣男」 多名少女慘染性病 揭21歲嫩男「倒模式恐怖套路」&nbsp;&nbsp;nmplus.hk播毒渣男第二集｜H先生「中計」蒲頭被爆繼續約女 受害人不幸染致命病毒：呢個真係會死&nbsp;&nbsp;TVB東張西望｜染HPV渣男播毒 醫生：感染十年內仍可傳播 目前無藥可醫&nbsp;&nbsp;healthyD",
+      "summary": "播毒渣男引發HPV關注！專家拆解5大迷思 港男每年300宗口咽癌相關 染病易反覆復發&nbsp;&nbsp;星島頭條《東張》H男播毒引熱討 「資深玩家」翟威廉12字分享長久之道&nbsp;&nbsp;香港01《東張西望》「播毒渣男」遭追訪急逃健身室 翌日中心即暫停深層清潔 但被網民發現洗錯店&nbsp;&nbsp;FanPiece東張西望｜交友App驚現「播毒渣男」 多名少女慘染性病 揭21歲嫩男「倒模式恐怖套路」&nbsp;&nbsp;nmplus.hk播毒渣男第二集｜H先生「中計」蒲頭被爆繼續約女 受害人不幸染致命病毒：呢個真係會死&nbsp;&nbsp;TVB",
       "sources": [
         {
           "name": "星島頭條",
@@ -46,24 +136,11 @@
       "id": "6ce3eb7e5449",
       "title": "別因忙碌遺忘篩檢，25歲起公費抹片檢查守護健康",
       "published": "2026-06-08T00:19:34+00:00",
-      "summary": "別因忙碌遺忘篩檢，25歲起公費抹片檢查守護健康&nbsp;&nbsp;焦點時報前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "別因忙碌遺忘篩檢，25歲起公費抹片檢查守護健康&nbsp;&nbsp;焦點時報沒性行為卻感染HPV？醫示警「3大真相」 病毒比你想像更普遍&nbsp;&nbsp;Yahoo新聞別因忙碌遺忘篩檢，25歲起公費抹片檢查守護健康 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞國中男公費HPV疫苗 接種率破8成&nbsp;&nbsp;中國時報- 翻爆健身室感染HPV風險高？ 醫生拆解傳播風險及預防關鍵&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "焦點時報",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nZ2pKdVZOTThSZ29YU0VQbVE5bEFKSmRORG5fUFJZUTdxVVZtdmx1elBES0dJTG5LT0VxN0lxVE40V01aLUlNaFl1NkJuZGVMcl93RFQzTQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "39669f9ac139",
-      "title": "沒性生活也會中標！HPV「初期零症狀」 醫教2招阻斷致癌",
-      "published": "2026-06-07T18:00:00+00:00",
-      "summary": "沒性生活也會中標！HPV「初期零症狀」 醫教2招阻斷致癌&nbsp;&nbsp;TVBS新聞網感染HPV病毒或無症狀 醫生籲及早接種疫苗增保護&nbsp;&nbsp;晴報 Sky Post",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qcDViSHpBMDRQT0JRNzdza2FkRWJkdlZfYjg4cldOek5nWTYzUHVpWVpHNGNVdDBOSmlRSlZvd1RQaVlFZEE0QjBQaE1wT0JK?oc=5"
         }
       ],
       "matched_keywords": []
@@ -82,35 +159,6 @@
       "matched_keywords": []
     },
     {
-      "id": "67a7aa2ed615",
-      "title": "四語司儀施可瑩淚撰抗癌日記！驚揭卵巢癌擴散盲腸！提防「寂靜殺手」三大先兆！",
-      "published": "2026-06-07T10:37:59+00:00",
-      "summary": "四語司儀施可瑩淚撰抗癌日記！驚揭卵巢癌擴散盲腸！提防「寂靜殺手」三大先兆！&nbsp;&nbsp;東周刊",
-      "sources": [
-        {
-          "name": "東周刊",
-          "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxPSk5HMXlOS2RTdHhUY0JkOEhCS3lxR2VvQl9TaXF4UHRrSUVlUU1TS1MtellMS19ScHQ2Ry1vTHFDZFYwRUs1SG5KVGpnTVdLZmJhQTB1X1d5aWp2d3E4cWlPekMtTVo1U0ttdng3NFhqcmdPQXBoeEc5YXVfNV9Tbi1VRkhtbmEzbzFxdHhFR21lZWtGakdzam5fM05DLUhXSzdEMl9qUXBJQ0RuRHJ6Vm8ya0tNeVJiWVh0aGNWXzZMel9IOG5ZbmtMc2dUcnQ3SjdxVWdtSHFGRlBGUXNLNzJsOGgxN2VETGtodTBiLXlqNkNVMHd6eHkzdEoxOHJyVnhiclZ6ZEFQZXhGTElBUnF2enJCc0FOcHEzeXVxV2tvSmJrNGtKX2tSQXVUc2xETm1vSk5KdXRvSFFsSTJtWnl2VnN6aFQ2SnoyS2o2UzA3c2lZZ2pZbl91TllERHcwLWhndDJfMkxfTmFqUW10QzktRFZyNEY1UjhsWUFzcFR3U3I4R1FTaWF1R1luLWEwSGRUUFBUd3ZMTVJ4NzRYQnRUaThPMldRTmlDbGtBR3l5YlBTQ0R4bGxRdkRUQ1gwR3BHeDZ6d3FRUXEySE5tM21XQUF5Y0cx?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "卵巢癌",
-          "keyword": "卵巢癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "df1a108a7e21",
       "title": "市府防範西尼羅河病毒 四區噴灑滅蚊幼蟲劑",
       "published": "2026-06-07T10:00:00+00:00",
@@ -126,7 +174,7 @@
     {
       "id": "71f3f3cfee49",
       "title": "研究曝「1常見食物」能防骨折！效果堪比藥物 還沒副作用 | 三立新聞網 - LINE TODAY",
-      "published": "2026-06-07T07:15:49+00:00",
+      "published": "2026-06-07T05:48:07+00:00",
       "summary": "研究曝「1常見食物」能防骨折！效果堪比藥物 還沒副作用 | 三立新聞網&nbsp;&nbsp;LINE TODAY健康網》更年期骨質怕流失 研究曝「1食物」每天5顆存骨本&nbsp;&nbsp;自由健康網研究曝「1常見食物」能防骨折！效果堪比藥物 還沒副作用&nbsp;&nbsp;祝你健康腸道顧好，骨頭也會跟著好？探究腸道菌相與骨質疏鬆的秘密| 照護線上-深受信賴的醫療媒體&nbsp;&nbsp;careonline.com.tw「1常見食物」能防骨折！每天幾顆就有效&nbsp;&nbsp;鏡週刊Mirror Media",
       "sources": [
         {
@@ -169,45 +217,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNUzZhNlFVWFFYRUo3dnZBVXFPTGtLV09zNFl4SEtjSXNjT0phZFMxWnQ2bWppRWNiWkROOHVHOEJZZlNvbG5Lb2xvTklBSlhQWXhvdGtYaTRxeE5rVlI0X096aHRhNlk4Z1I5Qm1BdEstblZWT3laUFctYlJFSk1CaWg3TzRFZ1dDZlBmNTBBQ3h1OVhmR0hiRE1aZ2VvVWFlM0w3eDhZTTJmX1R6RmZtd1I0TUd1dlp1TDZubnN6bkJIODNOS0pZZl95U2pXaEswVWx3Smw5cFVIY1NRVm5leFdRdFhqTGdsQ3NOYXdFMV9JZTFES3hJRExyTlhCcEpSRUxpT3RPWUdGR3hZdno3VS1nRVYtMC1seWZfdXY4QkRjdnJMMkZ1eGUyR0FMOHc2VjVTcjV1WEw4Z20tZ01kOG5mMVVGZ3BxVm44czUtUHNFYkc2d1hmdzVwMkF3c2VpN1MydzNIRmtNNlpTRmw1d1FPVV9zekNkNzREMDF1eTZOSFBzeFliRA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "be8f3ab95aa9",
-      "title": "漢坦病毒 | 阿根廷擴大調查範圍 設陷阱捕捉與病毒傳播有關動物",
-      "published": "2026-06-06T07:46:47+00:00",
-      "summary": "漢坦病毒 | 阿根廷擴大調查範圍 設陷阱捕捉與病毒傳播有關動物&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPZklwenZTdUNXbm1ZQUs4UGNVNlFnMzA1NVpxOWg2SE5DNXNZMlFveVVTM29aMzdhTzZlNmxqNEIxWjNua3dfbWp5LU9xaGNSbWY0WG5WeWlCWGlFbHFzdUhPM0lGd0RlYmtmcU9pSlJVVzlZem42ZEJvSEg2UzJnMTVNNUdmb2NzZV9mUUNmckVXOHpJQjJwREt0cTg0YUxINkc2LTBlNEdxQmdMbnBSN1ZCVGJVZ1N6VllwY3lwWW5DclE3UUZ2RXhneGRaclBteFYxUWRWUjM2R3lEbkR0V3BzTFdZSFZ6eVd2b3lSdUFDaDZRSE5STkRQdUJuUHBEdjZGcl9uLTJXUi0wNWJuQXM3UGphdXJQeTQ5UlRhdWIzV19lMXVWdFVpRHR1QnNScU53al9PMURBR1lZN1dkSUc2MXNaRUo2QWw2dTJ1YUV1c21pREpQckRwaW9iVVdjbHFv?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2384b61ed6b2",
-      "title": "蓮蓬頭竟是「細菌公寓」？選錯材質風險差一倍！細菌恐直達肺部，這5種人必看：3招清潔自保| 幸福熟齡X 今周刊 - LINE TODAY",
-      "published": "2026-06-06T05:46:00+00:00",
-      "summary": "蓮蓬頭竟是「細菌公寓」？選錯材質風險差一倍！細菌恐直達肺部，這5種人必看：3招清潔自保| 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54c3RIeHNXVUd2dVRTZUtOWC1OcjNvS3Axem9RUlVKdTd0VlQtM2NpNnhaREE4VFl1NHY2aVZKZDNnb2pzUnBIcFJOeEp4eHBwNG5hcTRn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "50cd64fdbb02",
-      "title": "防止骨折｜研究：鈣質及維他命D對於預防骨折及跌倒的成效不大",
-      "published": "2026-06-06T05:30:00+00:00",
-      "summary": "防止骨折｜研究：鈣質及維他命D對於預防骨折及跌倒的成效不大&nbsp;&nbsp;AM730",
-      "sources": [
-        {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oeDR6Qi1HZURPWXhidEMwa1lINmV6NjBvUVdZN0oxN3oxdm5tUnBFeEsxOUtrZ29xRmNESlpQSHlFRy1nMGVzaWR0VmtFdTBLRWc?oc=5"
         }
       ],
       "matched_keywords": []

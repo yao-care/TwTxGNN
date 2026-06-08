@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/oteracil/
 <li><strong>原適應症</strong>：胃癌用藥。</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>colonic neoplasm（100.0%）</li>
+<li class="indication-matched">colonic neoplasm（100.0%）<span class="indication-tag">📰 大腸癌</span></li>
 <li>cecum villous adenoma（100.0%）</li>
 <li>cecum neuroendocrine tumor G1（100.0%）</li>
 <li>lipoma of colon（100.0%）</li>
@@ -42,9 +42,15 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [預防大腸癌｜牛津研究：每日一杯「日常飲品」風險即減17%](https://news.google.com/rss/articles/CBMi5wJBVV95cUxNaEFIT3EtOU1IbjlyOUFCZHJEQklpYXp1YmQ1b3FHd2I4OG91QlFJTEp0UEo2NVVaSXZvelEzRldPM003OHpBX0x3MERoVThXTjdxQlRrNDlvQ0VXWjkzZTFMaWVwSnVTNTJsYk5xUmFnY2hmTG5lTGtYSFpLbThyQkEyMTAycGRCdGZZcURzekI5ZWZZOGFJc0w1alh0M0tPanhpY0l2TFFaUDdQMndNUDZ1MjFFSm5OcjZscmFJNEVLd19aeHlHZXFwUUlEdnBPRVRiV2FleUItRGRKTzBMcnJyUGM0dVRGWHFOY0d4cTF6dVpXWjM5LVU3a1F6Q19GT21vQk1ibFNBNU1FQzkydXdwWWg3Ymg4dXptQ25wRzMzNFl2eVRGZWFaTHQ2TEVFN2l0bzlqNjFfN2xXeGt1QTkyUVdfNjAxTmozTmdIajdsb1V0QkgwVGhmZFJaeU9KZWc4Rk0ycw?oc=5)
+
+2026-06-08 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[香港01](https://news.google.com/rss/articles/CBMi5wJBVV95cUxNaEFIT3EtOU1IbjlyOUFCZHJEQklpYXp1YmQ1b3FHd2I4OG91QlFJTEp0UEo2NVVaSXZvelEzRldPM003OHpBX0x3MERoVThXTjdxQlRrNDlvQ0VXWjkzZTFMaWVwSnVTNTJsYk5xUmFnY2hmTG5lTGtYSFpLbThyQkEyMTAycGRCdGZZcURzekI5ZWZZOGFJc0w1alh0M0tPanhpY0l2TFFaUDdQMndNUDZ1MjFFSm5OcjZscmFJNEVLd19aeHlHZXFwUUlEdnBPRVRiV2FleUItRGRKTzBMcnJyUGM0dVRGWHFOY0d4cTF6dVpXWjM5LVU3a1F6Q19GT21vQk1ibFNBNU1FQzkydXdwWWg3Ymg4dXptQ25wRzMzNFl2eVRGZWFaTHQ2TEVFN2l0bzlqNjFfN2xXeGt1QTkyUVdfNjAxTmozTmdIajdsb1V0QkgwVGhmZFJaeU9KZWc4Rk0ycw?oc=5)
+
+---
 
 
 <div class="disclaimer">
