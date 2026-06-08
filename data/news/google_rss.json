@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-08T09:18:08.393643+00:00",
+  "fetched_at": "2026-06-08T13:59:49.063895+00:00",
   "count": 11,
   "news": [
     {
@@ -16,26 +16,38 @@
       ]
     },
     {
-      "id": "6ce3eb7e5449",
-      "title": "別因忙碌遺忘篩檢，25歲起公費抹片檢查守護健康 - 焦點時報",
-      "published": "2026-06-08T00:19:34+00:00",
-      "summary": "別因忙碌遺忘篩檢，25歲起公費抹片檢查守護健康&nbsp;&nbsp;焦點時報沒性行為卻感染HPV？醫示警「3大真相」 病毒比你想像更普遍&nbsp;&nbsp;Yahoo新聞別因忙碌遺忘篩檢，25歲起公費抹片檢查守護健康 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞國中男公費HPV疫苗 接種率破8成&nbsp;&nbsp;中國時報- 翻爆健身室感染HPV風險高？ 醫生拆解傳播風險及預防關鍵&nbsp;&nbsp;香港經濟日報HKET",
+      "id": "f5e06f2ee1e9",
+      "title": "Google 申請釋放 6,400 萬隻不育蚊 Wolbachia 技術令登革熱病例減七成 - unwire",
+      "published": "2026-06-08T01:01:28+00:00",
+      "summary": "Google 申請釋放 6,400 萬隻不育蚊 Wolbachia 技術令登革熱病例減七成&nbsp;&nbsp;unwireGoogle申請野放六千萬隻基改雄蚊 科技巨擘跨界抗擊西尼羅病毒&nbsp;&nbsp;Yahoo新聞谷歌申請在美釋放3200萬隻不育蚊子以阻斷相關傳染病傳播美股US Stocks Quote - 外圍新聞內容Golbal News Content&nbsp;&nbsp;AASTOCKS.com動機從來都是好的 關鍵是結果&nbsp;&nbsp;Singtaousa以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖&nbsp;&nbsp;拾方視角",
       "sources": [
         {
-          "name": "焦點時報",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nZ2pKdVZOTThSZ29YU0VQbVE5bEFKSmRORG5fUFJZUTdxVVZtdmx1elBES0dJTG5LT0VxN0lxVE40V01aLUlNaFl1NkJuZGVMcl93RFQzTQ?oc=5"
+          "name": "unwire",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVVBxdVdqT2hKUjlzOW1ZemlCYldYMjYxT3JnVzYwRjFqTnpwRkFCQVlRS0N3OGI2T0RuRlB1bjlfZ2kwZGx2ekxFZnlXY0xBM2NvZThESnY0Nk1xTnRRc09fcnltM3RoSXRUY3ZycFlERVY5RWU5ZzNEa0pNcUxKNHl3?oc=5"
         }
       ]
     },
     {
-      "id": "709a59f0cfd2",
-      "title": "Google申請野放六千萬隻基改雄蚊 科技巨擘跨界抗擊西尼羅病毒 - Yahoo新聞",
-      "published": "2026-06-06T14:46:00+00:00",
-      "summary": "Google申請野放六千萬隻基改雄蚊 科技巨擘跨界抗擊西尼羅病毒&nbsp;&nbsp;Yahoo新聞谷歌申請在美釋放3200萬隻不育蚊子以阻斷相關傳染病傳播美股US Stocks Quote - 外圍新聞內容Golbal News Content&nbsp;&nbsp;AASTOCKS.com動機從來都是好的 關鍵是結果&nbsp;&nbsp;Singtaousa以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖&nbsp;&nbsp;拾方視角【Google申請要放6400萬隻蚊子！地點曝光】 #國際 （圖／CFP） 感覺會有超多在飛來飛去。(#起啵)&nbsp;&nbsp;facebook.com",
+      "id": "fae1306033a2",
+      "title": "沒性生活也中鏢！HPV「初期0症狀」 醫曝傳染真相 - Yahoo新聞",
+      "published": "2026-06-08T08:03:00+00:00",
+      "summary": "沒性生活也中鏢！HPV「初期0症狀」 醫曝傳染真相&nbsp;&nbsp;Yahoo新聞社交平台流行「曬針卡」、「曬報告」 惟男士HPV疫苗意識仍低&nbsp;&nbsp;香港01沒性行為卻感染HPV？醫示警「3大真相」 病毒比你想像更普遍 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞感染HPV病毒或無症狀 醫生籲及早接種疫苗增保護&nbsp;&nbsp;晴報 Sky Post沒性生活也會中標！HPV「初期零症狀」 醫教2招阻斷致癌&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNUzZhNlFVWFFYRUo3dnZBVXFPTGtLV09zNFl4SEtjSXNjT0phZFMxWnQ2bWppRWNiWkROOHVHOEJZZlNvbG5Lb2xvTklBSlhQWXhvdGtYaTRxeE5rVlI0X096aHRhNlk4Z1I5Qm1BdEstblZWT3laUFctYlJFSk1CaWg3TzRFZ1dDZlBmNTBBQ3h1OVhmR0hiRE1aZ2VvVWFlM0w3eDhZTTJmX1R6RmZtd1I0TUd1dlp1TDZubnN6bkJIODNOS0pZZl95U2pXaEswVWx3Smw5cFVIY1NRVm5leFdRdFhqTGdsQ3NOYXdFMV9JZTFES3hJRExyTlhCcEpSRUxpT3RPWUdGR3hZdno3VS1nRVYtMC1seWZfdXY4QkRjdnJMMkZ1eGUyR0FMOHc2VjVTcjV1WEw4Z20tZ01kOG5mMVVGZ3BxVm44czUtUHNFYkc2d1hmdzVwMkF3c2VpN1MydzNIRmtNNlpTRmw1d1FPVV9zekNkNzREMDF1eTZOSFBzeFliRA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQZDJqM191WDc5WHhDNnFxeFpHVWxXSUYzTTRqODI3TGs3MGlJd0phX1hPOHR2dzU0NVVhbjJ2b2YwbmR5bFdUbGxkcUtaSER3MmFkaUNQaXREWU5BVkJmSnd5b2JqWVd6cWhSTTRHcWJoRXlUV1hhQnZFVkJkbDhxd1J2WnZPSEZtOVM4VjFsaF85MWlkdDNpZG1FRE1hSVpTZ19NVGNiOXBlN194VTR1RURTSEloaXFRT0pWTUZUMHBhXzB3bDlyaV9uVTJVbC1aTzBGVGJIRHdRT2Jzc2gtd1pqbG8xTDZyeE0zZHpUUkJsYm1IQmZBQTlyUWRsU1dvQmpIWDlrbVRVZVA4dEQ2RWVKRW5RSVdjbkhLREpUcTVCZFBpRGdYTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6ce3eb7e5449",
+      "title": "別因忙碌遺忘篩檢，25歲起公費抹片檢查守護健康 - 焦點時報",
+      "published": "2026-06-08T00:19:34+00:00",
+      "summary": "別因忙碌遺忘篩檢，25歲起公費抹片檢查守護健康&nbsp;&nbsp;焦點時報前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "焦點時報",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nZ2pKdVZOTThSZ29YU0VQbVE5bEFKSmRORG5fUFJZUTdxVVZtdmx1elBES0dJTG5LT0VxN0lxVE40V01aLUlNaFl1NkJuZGVMcl93RFQzTQ?oc=5"
         }
       ]
     },
@@ -48,18 +60,6 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGdFJMY0p3RUVwT1cwNDh1NFNfbWNaTk1xVWFtMHdYY25oRU5tb3BwdjVDMkcxMWVVcUFfRVhVd1h2MmdFNTRCVDlMLVRZT3R4MEZVOFhB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fae1306033a2",
-      "title": "沒性生活也中鏢！HPV「初期0症狀」 醫曝傳染真相 - Yahoo新聞",
-      "published": "2026-06-08T08:03:00+00:00",
-      "summary": "沒性生活也中鏢！HPV「初期0症狀」 醫曝傳染真相&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQZDJqM191WDc5WHhDNnFxeFpHVWxXSUYzTTRqODI3TGs3MGlJd0phX1hPOHR2dzU0NVVhbjJ2b2YwbmR5bFdUbGxkcUtaSER3MmFkaUNQaXREWU5BVkJmSnd5b2JqWVd6cWhSTTRHcWJoRXlUV1hhQnZFVkJkbDhxd1J2WnZPSEZtOVM4VjFsaF85MWlkdDNpZG1FRE1hSVpTZ19NVGNiOXBlN194VTR1RURTSEloaXFRT0pWTUZUMHBhXzB3bDlyaV9uVTJVbC1aTzBGVGJIRHdRT2Jzc2gtd1pqbG8xTDZyeE0zZHpUUkJsYm1IQmZBQTlyUWRsU1dvQmpIWDlrbVRVZVA4dEQ2RWVKRW5RSVdjbkhLREpUcTVCZFBpRGdYTQ?oc=5"
         }
       ]
     },
