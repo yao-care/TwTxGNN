@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-08T20:02:26.562676+00:00",
-  "count": 15,
+  "fetched_at": "2026-06-08T22:18:45.217046+00:00",
+  "count": 14,
   "news": [
     {
       "id": "55fd77632ddd",
@@ -24,18 +24,6 @@
         {
           "name": "iThome",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MenUxbUk3ejA2enpmOHRFc3ZmdlZJX3RYcXpFUEJTdlIxQklmYTNkVl9ldWZSNGQ4UndHb3pCcDBsZ3B3eVFVZi15N0pZUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d18f58e976e9",
-      "title": "男久咳當感冒！醫X光驚見「肺被啃出空洞」急下令：立刻隔離 - ETtoday健康雲",
-      "published": "2026-06-08T12:34:00+00:00",
-      "summary": "男久咳當感冒！醫X光驚見「肺被啃出空洞」急下令：立刻隔離&nbsp;&nbsp;ETtoday健康雲",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ccm4zTmFwaWxHdldCTjRsaE4tN3FyVEFFeVRDb0p4T0lLUWg5ZlV1cEpMRU9MbWE4T28xQ3lUMGVzQ01FZDFsdElJOHVhUnRY0gFsQVVfeXFMT1FGU2hzRVdOb3VBNEVpQWU5ZFlvX1l5UC1LcFczZ3FUUndxTFQ3U2hfeXREa1IwWjZiakxzRGFmaDFvM0czNks1S19tMGNwaGI5aHNoY3dsY0V0TzdSUDdGcVVHOUczMThweGdu?oc=5"
         }
       ]
     },
@@ -64,18 +52,6 @@
       ]
     },
     {
-      "id": "fae1306033a2",
-      "title": "沒性生活也中鏢！HPV「初期0症狀」 醫曝傳染真相 - Yahoo新聞",
-      "published": "2026-06-08T08:03:00+00:00",
-      "summary": "沒性生活也中鏢！HPV「初期0症狀」 醫曝傳染真相&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQZDJqM191WDc5WHhDNnFxeFpHVWxXSUYzTTRqODI3TGs3MGlJd0phX1hPOHR2dzU0NVVhbjJ2b2YwbmR5bFdUbGxkcUtaSER3MmFkaUNQaXREWU5BVkJmSnd5b2JqWVd6cWhSTTRHcWJoRXlUV1hhQnZFVkJkbDhxd1J2WnZPSEZtOVM4VjFsaF85MWlkdDNpZG1FRE1hSVpTZ19NVGNiOXBlN194VTR1RURTSEloaXFRT0pWTUZUMHBhXzB3bDlyaV9uVTJVbC1aTzBGVGJIRHdRT2Jzc2gtd1pqbG8xTDZyeE0zZHpUUkJsYm1IQmZBQTlyUWRsU1dvQmpIWDlrbVRVZVA4dEQ2RWVKRW5RSVdjbkhLREpUcTVCZFBpRGdYTQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "71f3f3cfee49",
       "title": "研究曝「1常見食物」能防骨折！效果堪比藥物 還沒副作用 | 三立新聞網 - LINE TODAY",
       "published": "2026-06-07T05:48:07+00:00",
@@ -84,6 +60,18 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGdFJMY0p3RUVwT1cwNDh1NFNfbWNaTk1xVWFtMHdYY25oRU5tb3BwdjVDMkcxMWVVcUFfRVhVd1h2MmdFNTRCVDlMLVRZT3R4MEZVOFhB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fae1306033a2",
+      "title": "沒性生活也中鏢！HPV「初期0症狀」 醫曝傳染真相 - Yahoo新聞",
+      "published": "2026-06-08T08:03:00+00:00",
+      "summary": "沒性生活也中鏢！HPV「初期0症狀」 醫曝傳染真相&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQZDJqM191WDc5WHhDNnFxeFpHVWxXSUYzTTRqODI3TGs3MGlJd0phX1hPOHR2dzU0NVVhbjJ2b2YwbmR5bFdUbGxkcUtaSER3MmFkaUNQaXREWU5BVkJmSnd5b2JqWVd6cWhSTTRHcWJoRXlUV1hhQnZFVkJkbDhxd1J2WnZPSEZtOVM4VjFsaF85MWlkdDNpZG1FRE1hSVpTZ19NVGNiOXBlN194VTR1RURTSEloaXFRT0pWTUZUMHBhXzB3bDlyaV9uVTJVbC1aTzBGVGJIRHdRT2Jzc2gtd1pqbG8xTDZyeE0zZHpUUkJsYm1IQmZBQTlyUWRsU1dvQmpIWDlrbVRVZVA4dEQ2RWVKRW5RSVdjbkhLREpUcTVCZFBpRGdYTQ?oc=5"
         }
       ]
     },
