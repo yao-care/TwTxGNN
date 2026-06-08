@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-08T22:18:45.217046+00:00",
-  "count": 14,
+  "fetched_at": "2026-06-08T23:57:52.819383+00:00",
+  "count": 15,
   "news": [
     {
       "id": "55fd77632ddd",
@@ -19,7 +19,7 @@
       "id": "e0e307e76211",
       "title": "AI設計通用冠狀病毒疫苗首度完成人體試驗 - iThome",
       "published": "2026-06-08T01:59:01+00:00",
-      "summary": "AI設計通用冠狀病毒疫苗首度完成人體試驗&nbsp;&nbsp;iThome一支疫苗打遍所有冠狀病毒不再是夢想？劍橋以 AI 研發廣效疫苗取得初步成效&nbsp;&nbsp;TechNews 科技新報「全球首創」由人工智慧設計的疫苗是怎樣誕生的？&nbsp;&nbsp;BBC劍橋推AI開發冠狀病毒疫苗&nbsp;&nbsp;信報網站「顛覆性突破」劍橋大學團隊AI設計疫苗有望顛覆性突破拯救生命| 世界萬象| 全球&nbsp;&nbsp;UDN",
+      "summary": "AI設計通用冠狀病毒疫苗首度完成人體試驗&nbsp;&nbsp;iThome一支疫苗打遍所有冠狀病毒不再是夢想？劍橋以 AI 研發廣效疫苗取得初步成效&nbsp;&nbsp;TechNews 科技新報「全球首創」由人工智慧設計的疫苗是怎樣誕生的？&nbsp;&nbsp;BBC劍橋推AI開發冠狀病毒疫苗&nbsp;&nbsp;信報網站劍橋大學團隊AI設計疫苗 有望顛覆性突破拯救生命&nbsp;&nbsp;經濟日報",
       "sources": [
         {
           "name": "iThome",
@@ -43,7 +43,7 @@
       "id": "6ce3eb7e5449",
       "title": "別因忙碌遺忘篩檢，25歲起公費抹片檢查守護健康 - 焦點時報",
       "published": "2026-06-08T00:19:34+00:00",
-      "summary": "別因忙碌遺忘篩檢，25歲起公費抹片檢查守護健康&nbsp;&nbsp;焦點時報沒性行為卻感染HPV？醫示警「3大真相」 病毒比你想像更普遍&nbsp;&nbsp;Yahoo新聞別因忙碌遺忘篩檢，25歲起公費抹片檢查守護健康 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞國中男公費HPV疫苗 接種率破8成&nbsp;&nbsp;中國時報- 翻爆健身室感染HPV風險高？ 醫生拆解傳播風險及預防關鍵&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "別因忙碌遺忘篩檢，25歲起公費抹片檢查守護健康&nbsp;&nbsp;焦點時報沒性行為卻感染HPV？醫示警「3大真相」 病毒比你想像更普遍&nbsp;&nbsp;Yahoo新聞別因忙碌遺忘篩檢，25歲起公費抹片檢查守護健康 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞健身室感染HPV風險高？ 醫生拆解傳播風險及預防關鍵&nbsp;&nbsp;香港經濟日報HKET沒性生活也會中標！HPV「初期零症狀」 醫教2招阻斷致癌&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
           "name": "焦點時報",
@@ -96,6 +96,18 @@
         {
           "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHSElkWHdHQzljaWcxNXRnb2lTUndoUy11UUFRT0huVjdWVlVmV0lWZGlCS3dZd0xtX2NNQUVNbFBsclh4aTRyRHZRaVFUdl96?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "19babf5dc5b4",
+      "title": "長期刷短視頻恐傷腦 研究： 碎片化觀看或削弱記憶與專注力 - bastillepost.com",
+      "published": "2026-06-08T23:00:01+00:00",
+      "summary": "長期刷短視頻恐傷腦 研究： 碎片化觀看或削弱記憶與專注力&nbsp;&nbsp;bastillepost.com",
+      "sources": [
+        {
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQMFFXMlJRM3A4MHdHX3U4Y2x4N3cxN3BuaWxYTDRnWDRYa2k5QnhTQWRqM2FjNy1SbmRyX0E0WGZLV3E1TlZrU0dod3ZKWnNZZW5WSndhVVlzWDd3SGh3cGdPb2Z4bnhFUmkxSlN1MmtOYTRVZEVMRTdsOUl0S0pEMFVmVXVQTFFNeVE4a1hJZVZvWm1lSG1vcWxCcjFRQ0MtX1pZNzh5SFZMTEJ1VVlCdmVNR3lWWUVRQldvSXBJMnlFWmt5NTdwZkptUUhuUS1rcTZjWXBYVzNqc0pfbnBsQWlYa1hrTm12REVEWWJtSHVEdXQxeEZRTE9CaW9Wc3lBUUpScTFBTDR2U2ZocWxkelc5dlJUYzlxNGRiUUh4MTlQN1RvM3lJOC03NVpmN041NFpvMlJYTWg2U0JfLWVRQ3VKZ0llX28ta3Y1R2prT2Y3T2FUS1B2aEdSME9YaUZZRzUxa25saUtudWw4RU5N?oc=5"
         }
       ]
     },
