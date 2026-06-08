@@ -1,11 +1,39 @@
 {
-  "generated": "2026-06-08T00:00:15.789136+00:00",
-  "count": 1,
+  "generated": "2026-06-08T04:27:27.055068+00:00",
+  "count": 2,
   "news": [
+    {
+      "id": "67a7aa2ed615",
+      "title": "四語司儀施可瑩淚撰抗癌日記！驚揭卵巢癌擴散盲腸！提防「寂靜殺手」三大先兆！",
+      "published": "2026-06-07T10:37:59+00:00",
+      "sources": [
+        {
+          "name": "東周刊",
+          "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxPSk5HMXlOS2RTdHhUY0JkOEhCS3lxR2VvQl9TaXF4UHRrSUVlUU1TS1MtellMS19ScHQ2Ry1vTHFDZFYwRUs1SG5KVGpnTVdLZmJhQTB1X1d5aWp2d3E4cWlPekMtTVo1U0ttdng3NFhqcmdPQXBoeEc5YXVfNV9Tbi1VRkhtbmEzbzFxdHhFR21lZWtGakdzam5fM05DLUhXSzdEMl9qUXBJQ0RuRHJ6Vm8ya0tNeVJiWVh0aGNWXzZMel9IOG5ZbmtMc2dUcnQ3SjdxVWdtSHFGRlBGUXNLNzJsOGgxN2VETGtodTBiLXlqNkNVMHd6eHkzdEoxOHJyVnhiclZ6ZEFQZXhGTElBUnF2enJCc0FOcHEzeXVxV2tvSmJrNGtKX2tSQXVUc2xETm1vSk5KdXRvSFFsSTJtWnl2VnN6aFQ2SnoyS2o2UzA3c2lZZ2pZbl91TllERHcwLWhndDJfMkxfTmFqUW10QzktRFZyNEY1UjhsWUFzcFR3U3I4R1FTaWF1R1luLWEwSGRUUFBUd3ZMTVJ4NzRYQnRUaThPMldRTmlDbGtBR3l5YlBTQ0R4bGxRdkRUQ1gwR3BHeDZ6d3FRUXEySE5tM21XQUF5Y0cx?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "卵巢癌",
+          "keyword": "卵巢癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "71f3f3cfee49",
       "title": "研究曝「1常見食物」能防骨折！效果堪比藥物 還沒副作用 | 三立新聞網 - LINE TODAY",
-      "published": "2026-06-07T05:48:16+00:00",
+      "published": "2026-06-07T07:15:49+00:00",
       "sources": [
         {
           "name": "LINE TODAY",

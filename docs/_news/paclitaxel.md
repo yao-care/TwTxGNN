@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [四語司儀施可瑩淚撰抗癌日記！驚揭卵巢癌擴散盲腸！提防「寂靜殺手」三大先兆！](https://news.google.com/rss/articles/CBMi2ANBVV95cUxPSk5HMXlOS2RTdHhUY0JkOEhCS3lxR2VvQl9TaXF4UHRrSUVlUU1TS1MtellMS19ScHQ2Ry1vTHFDZFYwRUs1SG5KVGpnTVdLZmJhQTB1X1d5aWp2d3E4cWlPekMtTVo1U0ttdng3NFhqcmdPQXBoeEc5YXVfNV9Tbi1VRkhtbmEzbzFxdHhFR21lZWtGakdzam5fM05DLUhXSzdEMl9qUXBJQ0RuRHJ6Vm8ya0tNeVJiWVh0aGNWXzZMel9IOG5ZbmtMc2dUcnQ3SjdxVWdtSHFGRlBGUXNLNzJsOGgxN2VETGtodTBiLXlqNkNVMHd6eHkzdEoxOHJyVnhiclZ6ZEFQZXhGTElBUnF2enJCc0FOcHEzeXVxV2tvSmJrNGtKX2tSQXVUc2xETm1vSk5KdXRvSFFsSTJtWnl2VnN6aFQ2SnoyS2o2UzA3c2lZZ2pZbl91TllERHcwLWhndDJfMkxfTmFqUW10QzktRFZyNEY1UjhsWUFzcFR3U3I4R1FTaWF1R1luLWEwSGRUUFBUd3ZMTVJ4NzRYQnRUaThPMldRTmlDbGtBR3l5YlBTQ0R4bGxRdkRUQ1gwR3BHeDZ6d3FRUXEySE5tM21XQUF5Y0cx?oc=5)
+
+2026-06-07 <span class="news-indication-tag">卵巢癌</span>
+
+來源：[東周刊](https://news.google.com/rss/articles/CBMi2ANBVV95cUxPSk5HMXlOS2RTdHhUY0JkOEhCS3lxR2VvQl9TaXF4UHRrSUVlUU1TS1MtellMS19ScHQ2Ry1vTHFDZFYwRUs1SG5KVGpnTVdLZmJhQTB1X1d5aWp2d3E4cWlPekMtTVo1U0ttdng3NFhqcmdPQXBoeEc5YXVfNV9Tbi1VRkhtbmEzbzFxdHhFR21lZWtGakdzam5fM05DLUhXSzdEMl9qUXBJQ0RuRHJ6Vm8ya0tNeVJiWVh0aGNWXzZMel9IOG5ZbmtMc2dUcnQ3SjdxVWdtSHFGRlBGUXNLNzJsOGgxN2VETGtodTBiLXlqNkNVMHd6eHkzdEoxOHJyVnhiclZ6ZEFQZXhGTElBUnF2enJCc0FOcHEzeXVxV2tvSmJrNGtKX2tSQXVUc2xETm1vSk5KdXRvSFFsSTJtWnl2VnN6aFQ2SnoyS2o2UzA3c2lZZ2pZbl91TllERHcwLWhndDJfMkxfTmFqUW10QzktRFZyNEY1UjhsWUFzcFR3U3I4R1FTaWF1R1luLWEwSGRUUFBUd3ZMTVJ4NzRYQnRUaThPMldRTmlDbGtBR3l5YlBTQ0R4bGxRdkRUQ1gwR3BHeDZ6d3FRUXEySE5tM21XQUF5Y0cx?oc=5)
+
+---
 
 ### [研究曝「1常見食物」能防骨折！效果堪比藥物 還沒副作用 | 三立新聞網 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGdFJMY0p3RUVwT1cwNDh1NFNfbWNaTk1xVWFtMHdYY25oRU5tb3BwdjVDMkcxMWVVcUFfRVhVd1h2MmdFNTRCVDlMLVRZT3R4MEZVOFhB?oc=5)
 
