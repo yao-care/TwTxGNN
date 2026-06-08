@@ -1,8 +1,46 @@
 {
-  "last_updated": "2026-06-08T13:59:52.289241+00:00",
-  "total_count": 11,
-  "matched_count": 3,
+  "last_updated": "2026-06-08T17:24:15.216460+00:00",
+  "total_count": 14,
+  "matched_count": 4,
   "news": [
+    {
+      "id": "67ad5d1c647a",
+      "title": "陰天也要戴墨鏡！醫曝「7成紫外線」照樣穿透 左臉老化更明顯",
+      "published": "2026-06-08T17:00:00+00:00",
+      "summary": "陰天也要戴墨鏡！醫曝「7成紫外線」照樣穿透 左臉老化更明顯&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHSElkWHdHQzljaWcxNXRnb2lTUndoUy11UUFRT0huVjdWVlVmV0lWZGlCS3dZd0xtX2NNQUVNbFBsclh4aTRyRHZRaVFUdl96?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d18f58e976e9",
+      "title": "男久咳當感冒！醫X光驚見「肺被啃出空洞」急下令：立刻隔離",
+      "published": "2026-06-08T12:34:00+00:00",
+      "summary": "男久咳當感冒！醫X光驚見「肺被啃出空洞」急下令：立刻隔離&nbsp;&nbsp;ETtoday健康雲",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ccm4zTmFwaWxHdldCTjRsaE4tN3FyVEFFeVRDb0p4T0lLUWg5ZlV1cEpMRU9MbWE4T28xQ3lUMGVzQ01FZDFsdElJOHVhUnRY0gFsQVVfeXFMT1FGU2hzRVdOb3VBNEVpQWU5ZFlvX1l5UC1LcFczZ3FUUndxTFQ3U2hfeXREa1IwWjZiakxzRGFmaDFvM0czNks1S19tMGNwaGI5aHNoY3dsY0V0TzdSUDdGcVVHOUczMThweGdu?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "fae1306033a2",
       "title": "沒性生活也中鏢！HPV「初期0症狀」 醫曝傳染真相",
@@ -136,7 +174,7 @@
       "id": "f5e06f2ee1e9",
       "title": "Google 申請釋放 6,400 萬隻不育蚊 Wolbachia 技術令登革熱病例減七成",
       "published": "2026-06-08T01:01:28+00:00",
-      "summary": "Google 申請釋放 6,400 萬隻不育蚊 Wolbachia 技術令登革熱病例減七成&nbsp;&nbsp;unwireGoogle申請野放六千萬隻基改雄蚊 科技巨擘跨界抗擊西尼羅病毒&nbsp;&nbsp;Yahoo新聞谷歌申請在美釋放3200萬隻不育蚊子以阻斷相關傳染病傳播美股US Stocks Quote - 外圍新聞內容Golbal News Content&nbsp;&nbsp;AASTOCKS.com動機從來都是好的 關鍵是結果&nbsp;&nbsp;Singtaousa以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖&nbsp;&nbsp;拾方視角",
+      "summary": "Google 申請釋放 6,400 萬隻不育蚊 Wolbachia 技術令登革熱病例減七成&nbsp;&nbsp;unwireGoogle申請野放六千萬隻基改雄蚊 科技巨擘跨界抗擊西尼羅病毒&nbsp;&nbsp;Yahoo新聞Google申請野放6400萬隻蚊子！「這2地」中選了&nbsp;&nbsp;TEEPR 亮新聞動機從來都是好的 關鍵是結果&nbsp;&nbsp;Singtaousa以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖&nbsp;&nbsp;拾方視角",
       "sources": [
         {
           "name": "unwire",
@@ -167,6 +205,19 @@
         {
           "name": "香港文匯網",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1uSWRYdWt0ZkkyeXhQc0s2SXFhU1NXcXVzZmY2M0R6UzZKSTRoeklBV05kNkVqbXNOVHB0VnpBYWNicmxUWENkWlI1bEd0YlZXSUtSMkhYV2tZbGhyRERaT1F6eGYySmZZamMyRFVRRU5ZTFhNd3Fv?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2384b61ed6b2",
+      "title": "蓮蓬頭竟是「細菌公寓」？選錯材質風險差一倍！細菌恐直達肺部，這5種人必看：3招清潔自保| 幸福熟齡X 今周刊 - LINE TODAY",
+      "published": "2026-06-07T12:22:47+00:00",
+      "summary": "蓮蓬頭竟是「細菌公寓」？選錯材質風險差一倍！細菌恐直達肺部，這5種人必看：3招清潔自保| 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54c3RIeHNXVUd2dVRTZUtOWC1OcjNvS3Axem9RUlVKdTd0VlQtM2NpNnhaREE4VFl1NHY2aVZKZDNnb2pzUnBIcFJOeEp4eHBwNG5hcTRn?oc=5"
         }
       ],
       "matched_keywords": []

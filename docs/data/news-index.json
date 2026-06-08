@@ -1,7 +1,31 @@
 {
-  "generated": "2026-06-08T13:59:52.318468+00:00",
-  "count": 3,
+  "generated": "2026-06-08T17:24:15.245788+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "d18f58e976e9",
+      "title": "男久咳當感冒！醫X光驚見「肺被啃出空洞」急下令：立刻隔離",
+      "published": "2026-06-08T12:34:00+00:00",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ccm4zTmFwaWxHdldCTjRsaE4tN3FyVEFFeVRDb0p4T0lLUWg5ZlV1cEpMRU9MbWE4T28xQ3lUMGVzQ01FZDFsdElJOHVhUnRY0gFsQVVfeXFMT1FGU2hzRVdOb3VBNEVpQWU5ZFlvX1l5UC1LcFczZ3FUUndxTFQ3U2hfeXREa1IwWjZiakxzRGFmaDFvM0czNks1S19tMGNwaGI5aHNoY3dsY0V0TzdSUDdGcVVHOUczMThweGdu?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "6bb711b156ba",
       "title": "預防大腸癌｜牛津研究：每日一杯「日常飲品」風險即減17%",
