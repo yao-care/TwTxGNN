@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-08T23:57:52.819383+00:00",
+  "fetched_at": "2026-06-09T02:58:13.332846+00:00",
   "count": 15,
   "news": [
+    {
+      "id": "e7eea9328219",
+      "title": "AI研發新冠疫苗首度人體試驗 英國科學家證實安全耐受 - Yahoo股市",
+      "published": "2026-06-09T01:54:32+00:00",
+      "summary": "AI研發新冠疫苗首度人體試驗 英國科學家證實安全耐受&nbsp;&nbsp;Yahoo股市AI設計通用冠狀病毒疫苗首度完成人體試驗&nbsp;&nbsp;iThome一支疫苗打遍所有冠狀病毒不再是夢想？劍橋以 AI 研發廣效疫苗取得初步成效&nbsp;&nbsp;TechNews 科技新報「全球首創」由人工智慧設計的疫苗是怎樣誕生的？&nbsp;&nbsp;BBC劍橋推AI開發冠狀病毒疫苗&nbsp;&nbsp;信報網站",
+      "sources": [
+        {
+          "name": "Yahoo股市",
+          "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOVGx2S05KNDZGNVBUcDhoZ29McXBVdTJtRjZpM3NFVTZCYVp1cU56RWJ2cnZfYTBTTlZOUzN0TThwMng5UHJ5WXBwYXozLURab3hYQlBEQkV3LWdHYkJqREN6VDZhbTFCRjEyQ3ZxbG1EbWhNY3RsNGtvNEIwZ2NCRUlubnNfN1VlSU9Ra1MxUmhwVWw2WVF6TkNidXJZb1FINjlDeXo1Vzd3TlBoTnJTVWs3Vl9SM2N3VmItejd3N21pcWNZOFlnT3pOUVdIVUYxU29OVmtlcGFkRWJ3MFlSeHg3bkl2MDcyM2d4Z0VER0hxTEIwS3h4bDNHQjQycE9NZFZ5aGtGNEs3eGkySFVRN1ZOUEpVUjJmS0Q3d1dubzZQU1p0a3VhVFZUSGhmc2R4cVlWQ0Q2Sm1iRmt5UjVhdkZZNVlic1JrV1ZreEpfYlh6SDFnV05aMGJWX0s0c2pIQzhTTVZCanUxd1hoMmxLNDZLRQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "55fd77632ddd",
       "title": "早期控糖可產生「遺產效應」 降低17%死亡率 - 大纪元",
@@ -16,22 +28,10 @@
       ]
     },
     {
-      "id": "e0e307e76211",
-      "title": "AI設計通用冠狀病毒疫苗首度完成人體試驗 - iThome",
-      "published": "2026-06-08T01:59:01+00:00",
-      "summary": "AI設計通用冠狀病毒疫苗首度完成人體試驗&nbsp;&nbsp;iThome一支疫苗打遍所有冠狀病毒不再是夢想？劍橋以 AI 研發廣效疫苗取得初步成效&nbsp;&nbsp;TechNews 科技新報「全球首創」由人工智慧設計的疫苗是怎樣誕生的？&nbsp;&nbsp;BBC劍橋推AI開發冠狀病毒疫苗&nbsp;&nbsp;信報網站劍橋大學團隊AI設計疫苗 有望顛覆性突破拯救生命&nbsp;&nbsp;經濟日報",
-      "sources": [
-        {
-          "name": "iThome",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MenUxbUk3ejA2enpmOHRFc3ZmdlZJX3RYcXpFUEJTdlIxQklmYTNkVl9ldWZSNGQ4UndHb3pCcDBsZ3B3eVFVZi15N0pZUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "dc5b46ce9a67",
       "title": "Google申請野放6400萬隻蚊子！「這2地」中選了 - TEEPR 亮新聞",
       "published": "2026-06-08T05:17:40+00:00",
-      "summary": "Google申請野放6400萬隻蚊子！「這2地」中選了&nbsp;&nbsp;TEEPR 亮新聞Google申請野放六千萬隻基改雄蚊 科技巨擘跨界抗擊西尼羅病毒&nbsp;&nbsp;Yahoo新聞動機從來都是好的 關鍵是結果&nbsp;&nbsp;Singtaousa以蚊滅蚊 美國兩州擬用不育雄蚊減少蚊子繁殖&nbsp;&nbsp;拾方視角谷歌申請在美釋放3200萬隻不育蚊子以阻斷相關傳染病傳播美股US Stocks Quote - 外圍新聞內容Golbal News Content&nbsp;&nbsp;AASTOCKS.com",
+      "summary": "Google申請野放6400萬隻蚊子！「這2地」中選了&nbsp;&nbsp;TEEPR 亮新聞Google申請野放六千萬隻基改雄蚊 科技巨擘跨界抗擊西尼羅病毒&nbsp;&nbsp;Yahoo新聞Google 申請釋放 6,400 萬隻不育蚊 Wolbachia 技術令登革熱病例減七成&nbsp;&nbsp;unwire谷歌申請在美釋放3200萬隻不育蚊子以阻斷相關傳染病傳播美股US Stocks Quote - 外圍新聞內容Golbal News Content&nbsp;&nbsp;AASTOCKS.com動機從來都是好的 關鍵是結果&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "TEEPR 亮新聞",
@@ -64,14 +64,14 @@
       ]
     },
     {
-      "id": "fae1306033a2",
-      "title": "沒性生活也中鏢！HPV「初期0症狀」 醫曝傳染真相 - Yahoo新聞",
-      "published": "2026-06-08T08:03:00+00:00",
-      "summary": "沒性生活也中鏢！HPV「初期0症狀」 醫曝傳染真相&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "41525dcf708b",
+      "title": "沒性生活也中鏢！HPV「初期0症狀」 醫曝傳染真相 - 祝你健康",
+      "published": "2026-06-08T14:29:44+00:00",
+      "summary": "沒性生活也中鏢！HPV「初期0症狀」 醫曝傳染真相&nbsp;&nbsp;祝你健康前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQZDJqM191WDc5WHhDNnFxeFpHVWxXSUYzTTRqODI3TGs3MGlJd0phX1hPOHR2dzU0NVVhbjJ2b2YwbmR5bFdUbGxkcUtaSER3MmFkaUNQaXREWU5BVkJmSnd5b2JqWVd6cWhSTTRHcWJoRXlUV1hhQnZFVkJkbDhxd1J2WnZPSEZtOVM4VjFsaF85MWlkdDNpZG1FRE1hSVpTZ19NVGNiOXBlN194VTR1RURTSEloaXFRT0pWTUZUMHBhXzB3bDlyaV9uVTJVbC1aTzBGVGJIRHdRT2Jzc2gtd1pqbG8xTDZyeE0zZHpUUkJsYm1IQmZBQTlyUWRsU1dvQmpIWDlrbVRVZVA4dEQ2RWVKRW5RSVdjbkhLREpUcTVCZFBpRGdYTQ?oc=5"
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zUTlyNDE4SVgzNGNPa1VreTh5ZGlMLUhvdHJZdnR1aVJMZHlJLXVyYlJacGtMV2VkdWZOLVlzWnlicnc5MzI2NnoxQ2U?oc=5"
         }
       ]
     },
@@ -88,6 +88,18 @@
       ]
     },
     {
+      "id": "4b4dbea662e5",
+      "title": "長期刷短視頻恐傷腦 研究： 碎片化觀看或削弱記憶與專注力 - 巴士的報",
+      "published": "2026-06-08T23:00:01+00:00",
+      "summary": "長期刷短視頻恐傷腦 研究： 碎片化觀看或削弱記憶與專注力&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQMFFXMlJRM3A4MHdHX3U4Y2x4N3cxN3BuaWxYTDRnWDRYa2k5QnhTQWRqM2FjNy1SbmRyX0E0WGZLV3E1TlZrU0dod3ZKWnNZZW5WSndhVVlzWDd3SGh3cGdPb2Z4bnhFUmkxSlN1MmtOYTRVZEVMRTdsOUl0S0pEMFVmVXVQTFFNeVE4a1hJZVZvWm1lSG1vcWxCcjFRQ0MtX1pZNzh5SFZMTEJ1VVlCdmVNR3lWWUVRQldvSXBJMnlFWmt5NTdwZkptUUhuUS1rcTZjWXBYVzNqc0pfbnBsQWlYa1hrTm12REVEWWJtSHVEdXQxeEZRTE9CaW9Wc3lBUUpScTFBTDR2U2ZocWxkelc5dlJUYzlxNGRiUUh4MTlQN1RvM3lJOC03NVpmN041NFpvMlJYTWg2U0JfLWVRQ3VKZ0llX28ta3Y1R2prT2Y3T2FUS1B2aEdSME9YaUZZRzUxa25saUtudWw4RU5N?oc=5"
+        }
+      ]
+    },
+    {
       "id": "67ad5d1c647a",
       "title": "陰天也要戴墨鏡！醫曝「7成紫外線」照樣穿透 左臉老化更明顯 - TVBS新聞網",
       "published": "2026-06-08T17:00:00+00:00",
@@ -96,18 +108,6 @@
         {
           "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHSElkWHdHQzljaWcxNXRnb2lTUndoUy11UUFRT0huVjdWVlVmV0lWZGlCS3dZd0xtX2NNQUVNbFBsclh4aTRyRHZRaVFUdl96?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "19babf5dc5b4",
-      "title": "長期刷短視頻恐傷腦 研究： 碎片化觀看或削弱記憶與專注力 - bastillepost.com",
-      "published": "2026-06-08T23:00:01+00:00",
-      "summary": "長期刷短視頻恐傷腦 研究： 碎片化觀看或削弱記憶與專注力&nbsp;&nbsp;bastillepost.com",
-      "sources": [
-        {
-          "name": "bastillepost.com",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQMFFXMlJRM3A4MHdHX3U4Y2x4N3cxN3BuaWxYTDRnWDRYa2k5QnhTQWRqM2FjNy1SbmRyX0E0WGZLV3E1TlZrU0dod3ZKWnNZZW5WSndhVVlzWDd3SGh3cGdPb2Z4bnhFUmkxSlN1MmtOYTRVZEVMRTdsOUl0S0pEMFVmVXVQTFFNeVE4a1hJZVZvWm1lSG1vcWxCcjFRQ0MtX1pZNzh5SFZMTEJ1VVlCdmVNR3lWWUVRQldvSXBJMnlFWmt5NTdwZkptUUhuUS1rcTZjWXBYVzNqc0pfbnBsQWlYa1hrTm12REVEWWJtSHVEdXQxeEZRTE9CaW9Wc3lBUUpScTFBTDR2U2ZocWxkelc5dlJUYzlxNGRiUUh4MTlQN1RvM3lJOC03NVpmN041NFpvMlJYTWg2U0JfLWVRQ3VKZ0llX28ta3Y1R2prT2Y3T2FUS1B2aEdSME9YaUZZRzUxa25saUtudWw4RU5N?oc=5"
         }
       ]
     },
