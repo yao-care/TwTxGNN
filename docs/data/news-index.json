@@ -1,7 +1,90 @@
 {
-  "generated": "2026-06-09T10:29:06.676251+00:00",
+  "generated": "2026-06-09T13:38:23.158457+00:00",
   "count": 3,
   "news": [
+    {
+      "id": "612fd0347879",
+      "title": "童年蛀牙嚴重 恐增心血管病風險",
+      "published": "2026-06-09T07:27:51+00:00",
+      "sources": [
+        {
+          "name": "人間福報電子報",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBld2FLLThtei1iWmI2LUdvMFMwQzZfZlNKa0F5am50bmN0dEEweTlCMGtqcThoRWFMaEJsZEpqdzZHcjM1QWtNZllHM2FuclUxcUl2NWttb2xGNmJiaXdRY0ZUM2tkRTQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "6bb711b156ba",
       "title": "預防大腸癌｜牛津研究：每日一杯「日常飲品」風險即減17%",
@@ -50,13 +133,13 @@
       ]
     },
     {
-      "id": "57ee5d40d437",
+      "id": "e06065c4968c",
       "title": "抗癌戰士︱四語司儀施可瑩患卵巢癌化療後指數轉差 心跳飆至140連飲水都無力：我未放棄㗎！",
       "published": "2026-06-08T07:42:53+00:00",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxPUkhYTW9EaTlIM0EzWnNUT0tzTVVQR1A2MmJRdm9TclBIeW1rY0c5NzZremVQTWtzS2VaVzlDYS0zekdoNmNlTGpTR2Vwc3ZnU3c1R1p4YnpVTDJ3MDd2anlTR3pFa2lsTG5WV0JiYzhuUWlsTUY2QXRaODRDMlJaZ0d6Q1RKTVlpMkJoLTJ0MDNzYUcyakJ4YWJnNHd3MnVlT3JqSnFfd3ZLM3lTZTM1cDVuaDU4Q01adUNGZDZCWmV1Y2N2cnM3RlJ6NUJWMHVZZ1AxTEpHbEZqb1ptTkVuMmhuMU14bGUwMDVMd2VsRkdpN0R1QkZBUXBleUVXc3EyNTVvYkJFaEZ6aEI3bVB4LS1NVFUxQTNQQkpheHJHaVJselIyOEdFblY1RmVsMDlvT1lMbUNrTmVsVjB4d29aZXNkSFg0dDRCWldjT05aMjVrM18xNFhDX1owVnJ6SWtWVkZTOXB2LXdJRXlvWlZaSGxLMWdJclJDazBxUUpNRzZqeTRHdVRGNnVmN19zcUNBTXkwYlJFblEwMjU0QXN1WXN6dkIwa3lXRGFIZlFjUnZiblhQYWRXQjhpd2hhWE5LLVd5dklLU2xKd1RfVG85dkxwbFQtSnA4UzNWQ1h0WF9vSHRzZHMtTld6d1FTZXpFTDljX2gwMmgxUUtWQ1B1cThXc0lVQktTNHlUOEYzNnhoWjNrSXc0RVlxckZTbDFNVXJ4bHVORVZ2U3hQUnNqV3FocTNhODFmTHBmcGZnY0Z6UQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZcjBReTF2UzBBSGFfMG1iTHVOYVMzUEVTR2NnelVWbnlUNG5wQVFUQjlSOXJnQjhCZFg2YkphSURpWmtqOWpRa3p2dnFXQzc4OEE?oc=5"
         }
       ],
       "keywords": [
@@ -72,42 +155,6 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "71f3f3cfee49",
-      "title": "研究曝「1常見食物」能防骨折！效果堪比藥物 還沒副作用 | 三立新聞網 - LINE TODAY",
-      "published": "2026-06-07T10:18:12+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGdFJMY0p3RUVwT1cwNDh1NFNfbWNaTk1xVWFtMHdYY25oRU5tb3BwdjVDMkcxMWVVcUFfRVhVd1h2MmdFNTRCVDlMLVRZT3R4MEZVOFhB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }

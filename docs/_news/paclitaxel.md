@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [抗癌戰士︱四語司儀施可瑩患卵巢癌化療後指數轉差 心跳飆至140連飲水都無力：我未放棄㗎！](https://news.google.com/rss/articles/CBMiwgRBVV95cUxPUkhYTW9EaTlIM0EzWnNUT0tzTVVQR1A2MmJRdm9TclBIeW1rY0c5NzZremVQTWtzS2VaVzlDYS0zekdoNmNlTGpTR2Vwc3ZnU3c1R1p4YnpVTDJ3MDd2anlTR3pFa2lsTG5WV0JiYzhuUWlsTUY2QXRaODRDMlJaZ0d6Q1RKTVlpMkJoLTJ0MDNzYUcyakJ4YWJnNHd3MnVlT3JqSnFfd3ZLM3lTZTM1cDVuaDU4Q01adUNGZDZCWmV1Y2N2cnM3RlJ6NUJWMHVZZ1AxTEpHbEZqb1ptTkVuMmhuMU14bGUwMDVMd2VsRkdpN0R1QkZBUXBleUVXc3EyNTVvYkJFaEZ6aEI3bVB4LS1NVFUxQTNQQkpheHJHaVJselIyOEdFblY1RmVsMDlvT1lMbUNrTmVsVjB4d29aZXNkSFg0dDRCWldjT05aMjVrM18xNFhDX1owVnJ6SWtWVkZTOXB2LXdJRXlvWlZaSGxLMWdJclJDazBxUUpNRzZqeTRHdVRGNnVmN19zcUNBTXkwYlJFblEwMjU0QXN1WXN6dkIwa3lXRGFIZlFjUnZiblhQYWRXQjhpd2hhWE5LLVd5dklLU2xKd1RfVG85dkxwbFQtSnA4UzNWQ1h0WF9vSHRzZHMtTld6d1FTZXpFTDljX2gwMmgxUUtWQ1B1cThXc0lVQktTNHlUOEYzNnhoWjNrSXc0RVlxckZTbDFNVXJ4bHVORVZ2U3hQUnNqV3FocTNhODFmTHBmcGZnY0Z6UQ?oc=5)
+### [抗癌戰士︱四語司儀施可瑩患卵巢癌化療後指數轉差 心跳飆至140連飲水都無力：我未放棄㗎！](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZcjBReTF2UzBBSGFfMG1iTHVOYVMzUEVTR2NnelVWbnlUNG5wQVFUQjlSOXJnQjhCZFg2YkphSURpWmtqOWpRa3p2dnFXQzc4OEE?oc=5)
 
 2026-06-08 <span class="news-indication-tag">卵巢癌</span>
 
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiwgRBVV95cUxPUkhYTW9EaTlIM0EzWnNUT0tzTVVQR1A2MmJRdm9TclBIeW1rY0c5NzZremVQTWtzS2VaVzlDYS0zekdoNmNlTGpTR2Vwc3ZnU3c1R1p4YnpVTDJ3MDd2anlTR3pFa2lsTG5WV0JiYzhuUWlsTUY2QXRaODRDMlJaZ0d6Q1RKTVlpMkJoLTJ0MDNzYUcyakJ4YWJnNHd3MnVlT3JqSnFfd3ZLM3lTZTM1cDVuaDU4Q01adUNGZDZCWmV1Y2N2cnM3RlJ6NUJWMHVZZ1AxTEpHbEZqb1ptTkVuMmhuMU14bGUwMDVMd2VsRkdpN0R1QkZBUXBleUVXc3EyNTVvYkJFaEZ6aEI3bVB4LS1NVFUxQTNQQkpheHJHaVJselIyOEdFblY1RmVsMDlvT1lMbUNrTmVsVjB4d29aZXNkSFg0dDRCWldjT05aMjVrM18xNFhDX1owVnJ6SWtWVkZTOXB2LXdJRXlvWlZaSGxLMWdJclJDazBxUUpNRzZqeTRHdVRGNnVmN19zcUNBTXkwYlJFblEwMjU0QXN1WXN6dkIwa3lXRGFIZlFjUnZiblhQYWRXQjhpd2hhWE5LLVd5dklLU2xKd1RfVG85dkxwbFQtSnA4UzNWQ1h0WF9vSHRzZHMtTld6d1FTZXpFTDljX2gwMmgxUUtWQ1B1cThXc0lVQktTNHlUOEYzNnhoWjNrSXc0RVlxckZTbDFNVXJ4bHVORVZ2U3hQUnNqV3FocTNhODFmTHBmcGZnY0Z6UQ?oc=5)
-
----
-
-### [研究曝「1常見食物」能防骨折！效果堪比藥物 還沒副作用 | 三立新聞網 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGdFJMY0p3RUVwT1cwNDh1NFNfbWNaTk1xVWFtMHdYY25oRU5tb3BwdjVDMkcxMWVVcUFfRVhVd1h2MmdFNTRCVDlMLVRZT3R4MEZVOFhB?oc=5)
-
-2026-06-07 <span class="news-indication-tag">更年期</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGdFJMY0p3RUVwT1cwNDh1NFNfbWNaTk1xVWFtMHdYY25oRU5tb3BwdjVDMkcxMWVVcUFfRVhVd1h2MmdFNTRCVDlMLVRZT3R4MEZVOFhB?oc=5)
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZcjBReTF2UzBBSGFfMG1iTHVOYVMzUEVTR2NnelVWbnlUNG5wQVFUQjlSOXJnQjhCZFg2YkphSURpWmtqOWpRa3p2dnFXQzc4OEE?oc=5)
 
 ---
 

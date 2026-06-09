@@ -14,7 +14,7 @@ permalink: /news/nystatin/
 ---
 
 <p class="key-answer" data-question="Nystatin 有什麼相關新聞？">
-<strong>Nystatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nystatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/nystatin/
 <p><a href="{{ '/drugs/nystatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [研究曝「1常見食物」能防骨折！效果堪比藥物 還沒副作用 | 三立新聞網 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGdFJMY0p3RUVwT1cwNDh1NFNfbWNaTk1xVWFtMHdYY25oRU5tb3BwdjVDMkcxMWVVcUFfRVhVd1h2MmdFNTRCVDlMLVRZT3R4MEZVOFhB?oc=5)
-
-2026-06-07 <span class="news-indication-tag">更年期</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGdFJMY0p3RUVwT1cwNDh1NFNfbWNaTk1xVWFtMHdYY25oRU5tb3BwdjVDMkcxMWVVcUFfRVhVd1h2MmdFNTRCVDlMLVRZT3R4MEZVOFhB?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
