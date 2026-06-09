@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-09T21:41:33.341392+00:00",
+  "fetched_at": "2026-06-09T23:12:32.593871+00:00",
   "count": 16,
   "news": [
+    {
+      "id": "04ec05c5449a",
+      "title": "史上首次AI設計抗原 劍橋大學「萬用疫苗」進入人體試驗 - 自由健康網",
+      "published": "2026-06-09T22:33:00+00:00",
+      "summary": "史上首次AI設計抗原 劍橋大學「萬用疫苗」進入人體試驗&nbsp;&nbsp;自由健康網AI研發新冠疫苗首度人體試驗 英國科學家證實安全耐受&nbsp;&nbsp;Yahoo股市AI設計通用冠狀病毒疫苗首度完成人體試驗&nbsp;&nbsp;iThome人工智慧正被用來開發一種「根本性新」的疫苗，以防範大流行病&nbsp;&nbsp;gamereactor.cnAI打造終極疫苗？劍橋新技術有望「以一擋千」&nbsp;&nbsp;壹蘋新聞網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tcVczR1ZRek81eDhZWmFNSVptSTZQT3AwS2djR0UyeVZXY1F0aVpXb0h3MUVFSWZ0Q2VmYnVqbEhwYS13Yk5YbEdMb0d4cHhkdld1YWhYU0tNdVpUMUo3Nlo4MkHSAWpBVV95cUxPTGsxcTRuNTBhN1MtYlNkV0xDT0VQODlEaXBOcDdkb08zQ1pxaG9ZbFViUjNJenZNeVBGVXY0N3pDVXMwMWRuZFVMazQyUW1PclFtMXdZc3I0bFVNc2dFZ2hLS1JHM3VBZG93?oc=5"
+        }
+      ]
+    },
     {
       "id": "bd6916508ff1",
       "title": "為何有些人容易出現致命敗血症？科學家：腸道藏玄機- 健康 - 中時新聞網",
@@ -28,30 +40,6 @@
       ]
     },
     {
-      "id": "216631bdf4f0",
-      "title": "HPV疫苗問世20週年！更早接種、更廣防護、更完整策略，朝消除HPV相關癌症目標邁進！ - 良醫健康網",
-      "published": "2026-06-09T08:14:16+00:00",
-      "summary": "HPV疫苗問世20週年！更早接種、更廣防護、更完整策略，朝消除HPV相關癌症目標邁進！&nbsp;&nbsp;良醫健康網沒性生活也中鏢！HPV「初期0症狀」 醫曝傳染真相&nbsp;&nbsp;祝你健康感染HPV病毒或無症狀 醫生籲及早接種疫苗增保護&nbsp;&nbsp;晴報 Sky Post正視HPV風險強化男性防護意識- 評論 - 香港文匯網&nbsp;&nbsp;香港文匯網社交平台流行「曬針卡」、「曬報告」 惟男士HPV疫苗意識仍低&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "良醫健康網",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOdm1wYjJGeW1oenVIeWlITy12ekMyaFdKWnkzUDhVaEk4UjBpS2hDWHMxNlM5aVY1RDNHUnlfNVluOWotQ2NIalliUGEwX0hMWG14Qnp3YkMyTXdQRE9jT0dWTXgza01nb3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c16470f1c4b5",
-      "title": "AI研發新冠疫苗首度人體試驗 英國科學家證實安全耐受 - yesmedia.com.tw",
-      "published": "2026-06-09T01:49:35+00:00",
-      "summary": "AI研發新冠疫苗首度人體試驗 英國科學家證實安全耐受&nbsp;&nbsp;yesmedia.com.tw前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPc2pueldlUGJsQmJxbkk2WVNlNXh4UzhlOGpqWjFHcXA4bHJ2YS1BbjNCQ0dmZFBDckFuc1htRWxTUTlfcFJmcWFqT1JRUzJUMHNrRGNENWFTU1ZlOFJrRW05clhNQVVJbXl2N2EzSHVVTllZQzh5anZGeENHdHZ2UlkwU29LZmJDYW5MbTQ0ajEyc2Y1T1hybTFhU1ktc1ZwUERqRENaMXZxWjhBbnBUT2FWVTN2dDJfNUtxeElKV0ZfcFBVUldYWDc5YTAydlp0bUI5RzBFdmU1TnhOcUpIZ1RJMkNCcXhkNlhubW1qX2pWY2tDNElJT0NkLWpsclN0R25aYWdQTUwwM2lMNndvckdsZEo2c0tpVWpJLXVNYTQ1RElJLXptaW5mS2NiQ3pwNDRCSHFuLWNHcHJEMHBDY3dtUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7d7f989133f2",
       "title": "潘懷宗／不用再狂噴酒精消毒！奈米柱抗病毒技術 未來環境可望自動防疫 - 元氣網",
       "published": "2026-06-09T03:16:49+00:00",
@@ -60,6 +48,18 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kZk00aWlIMS1fOVVwS2ZudlFUWG5KVjBnVjcwYmJrUmpvZkoyNXJyeXVDRGl3RUl2bmxLU2ZJRFkyZmpmYTdDcFF6bnhrTjlYY1dleHFvNmFQR2VV0gFiQVVfeXFMUEVlZlVnRmVxd2FxSHVhY0RpTDdIdGI2STFSNVlwLTY2WE1tS0c0TFVzS1NMUnNHNHdVVkhIMnFBT0FIZUNFV3Q5UWVQZEtXaXB1eVk5RGI1dXZ1ZUFrVlE1ZlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "216631bdf4f0",
+      "title": "HPV疫苗問世20週年！更早接種、更廣防護、更完整策略，朝消除HPV相關癌症目標邁進！ - 良醫健康網",
+      "published": "2026-06-09T08:14:16+00:00",
+      "summary": "HPV疫苗問世20週年！更早接種、更廣防護、更完整策略，朝消除HPV相關癌症目標邁進！&nbsp;&nbsp;良醫健康網沒性生活也中鏢！HPV「初期0症狀」 醫曝傳染真相&nbsp;&nbsp;祝你健康感染HPV病毒或無症狀 醫生籲及早接種疫苗增保護&nbsp;&nbsp;晴報 Sky Post正視HPV風險強化男性防護意識- 評論 - 香港文匯網&nbsp;&nbsp;香港文匯網社交平台流行「曬針卡」、「曬報告」 惟男士HPV疫苗意識仍低&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "良醫健康網",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOdm1wYjJGeW1oenVIeWlITy12ekMyaFdKWnkzUDhVaEk4UjBpS2hDWHMxNlM5aVY1RDNHUnlfNVluOWotQ2NIalliUGEwX0hMWG14Qnp3YkMyTXdQRE9jT0dWTXgza01nb3c?oc=5"
         }
       ]
     },
@@ -112,13 +112,13 @@
       ]
     },
     {
-      "id": "4b4dbea662e5",
-      "title": "長期刷短視頻恐傷腦 研究： 碎片化觀看或削弱記憶與專注力 - 巴士的報",
+      "id": "19babf5dc5b4",
+      "title": "長期刷短視頻恐傷腦 研究： 碎片化觀看或削弱記憶與專注力 - bastillepost.com",
       "published": "2026-06-08T23:00:01+00:00",
-      "summary": "長期刷短視頻恐傷腦 研究： 碎片化觀看或削弱記憶與專注力&nbsp;&nbsp;巴士的報",
+      "summary": "長期刷短視頻恐傷腦 研究： 碎片化觀看或削弱記憶與專注力&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQMFFXMlJRM3A4MHdHX3U4Y2x4N3cxN3BuaWxYTDRnWDRYa2k5QnhTQWRqM2FjNy1SbmRyX0E0WGZLV3E1TlZrU0dod3ZKWnNZZW5WSndhVVlzWDd3SGh3cGdPb2Z4bnhFUmkxSlN1MmtOYTRVZEVMRTdsOUl0S0pEMFVmVXVQTFFNeVE4a1hJZVZvWm1lSG1vcWxCcjFRQ0MtX1pZNzh5SFZMTEJ1VVlCdmVNR3lWWUVRQldvSXBJMnlFWmt5NTdwZkptUUhuUS1rcTZjWXBYVzNqc0pfbnBsQWlYa1hrTm12REVEWWJtSHVEdXQxeEZRTE9CaW9Wc3lBUUpScTFBTDR2U2ZocWxkelc5dlJUYzlxNGRiUUh4MTlQN1RvM3lJOC03NVpmN041NFpvMlJYTWg2U0JfLWVRQ3VKZ0llX28ta3Y1R2prT2Y3T2FUS1B2aEdSME9YaUZZRzUxa25saUtudWw4RU5N?oc=5"
         }
       ]
@@ -151,7 +151,7 @@
       "id": "055ab4eb1cf9",
       "title": "性病傳播｜HPV播毒渣男惹恐慌，共用健身器材會否感染？醫生拆解迷思 - etnet 經濟通",
       "published": "2026-06-09T10:23:14+00:00",
-      "summary": "性病傳播｜HPV播毒渣男惹恐慌，共用健身器材會否感染？醫生拆解迷思&nbsp;&nbsp;etnet 經濟通21歲「播毒渣男」背景震撼！隱瞞性病兼連環出軌多名少女中招染HPV性病附性傳播感染3大預防方法&nbsp;&nbsp;星島頭條《東張》H男播毒引熱討 「資深玩家」翟威廉12字分享長久之道&nbsp;&nbsp;香港01東張「播毒男」事件掀全城HPV恐慌 阿Sa 姜濤曾合作宣揚預防訊息&nbsp;&nbsp;巴士的報播毒渣男第二集｜H先生「中計」蒲頭被爆繼續約女 受害人不幸染致命病毒：呢個真係會死&nbsp;&nbsp;TVB",
+      "summary": "性病傳播｜HPV播毒渣男惹恐慌，共用健身器材會否感染？醫生拆解迷思&nbsp;&nbsp;etnet 經濟通21歲「播毒渣男」背景震撼！隱瞞性病兼連環出軌多名少女中招染HPV性病附性傳播感染3大預防方法&nbsp;&nbsp;星島頭條《東張》H男播毒引熱討 「資深玩家」翟威廉12字分享長久之道&nbsp;&nbsp;香港01東張「播毒男」事件掀全城HPV恐慌 阿Sa 姜濤曾合作宣揚預防訊息&nbsp;&nbsp;bastillepost.com播毒渣男第二集｜H先生「中計」蒲頭被爆繼續約女 受害人不幸染致命病毒：呢個真係會死&nbsp;&nbsp;TVB",
       "sources": [
         {
           "name": "etnet 經濟通",
