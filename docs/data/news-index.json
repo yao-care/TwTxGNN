@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-09T19:08:09.649016+00:00",
-  "count": 4,
+  "generated": "2026-06-09T21:41:36.930262+00:00",
+  "count": 5,
   "news": [
     {
       "id": "216631bdf4f0",
@@ -288,6 +288,42 @@
             {
               "slug": "treprostinil",
               "name": "Treprostinil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "71f3f3cfee49",
+      "title": "研究曝「1常見食物」能防骨折！效果堪比藥物 還沒副作用 | 三立新聞網 - LINE TODAY",
+      "published": "2026-06-08T18:47:53+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGdFJMY0p3RUVwT1cwNDh1NFNfbWNaTk1xVWFtMHdYY25oRU5tb3BwdjVDMkcxMWVVcUFfRVhVd1h2MmdFNTRCVDlMLVRZT3R4MEZVOFhB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
             }
           ]
         }
