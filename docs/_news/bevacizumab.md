@@ -14,7 +14,7 @@ permalink: /news/bevacizumab/
 ---
 
 <p class="key-answer" data-question="Bevacizumab 有什麼相關新聞？">
-<strong>Bevacizumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bevacizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,9 +41,15 @@ permalink: /news/bevacizumab/
 <p><a href="{{ '/drugs/bevacizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [HPV疫苗問世20週年！更早接種、更廣防護、更完整策略，朝消除HPV相關癌症目標邁進！](https://news.google.com/rss/articles/CBMiakFVX3lxTFBOdm1wYjJGeW1oenVIeWlITy12ekMyaFdKWnkzUDhVaEk4UjBpS2hDWHMxNlM5aVY1RDNHUnlfNVluOWotQ2NIalliUGEwX0hMWG14Qnp3YkMyTXdQRE9jT0dWTXgza01nb3c?oc=5)
+
+2026-06-09 <span class="news-indication-tag">癌症</span>
+
+來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTFBOdm1wYjJGeW1oenVIeWlITy12ekMyaFdKWnkzUDhVaEk4UjBpS2hDWHMxNlM5aVY1RDNHUnlfNVluOWotQ2NIalliUGEwX0hMWG14Qnp3YkMyTXdQRE9jT0dWTXgza01nb3c?oc=5)
+
+---
 
 
 <div class="disclaimer">
