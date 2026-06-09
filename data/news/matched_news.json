@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-09T16:25:56.056154+00:00",
-  "total_count": 17,
+  "last_updated": "2026-06-09T19:08:09.620312+00:00",
+  "total_count": 14,
   "matched_count": 4,
   "news": [
     {
@@ -375,27 +375,14 @@
       "matched_keywords": []
     },
     {
-      "id": "e7eea9328219",
+      "id": "c16470f1c4b5",
       "title": "AI研發新冠疫苗首度人體試驗 英國科學家證實安全耐受",
-      "published": "2026-06-09T01:54:32+00:00",
-      "summary": "AI研發新冠疫苗首度人體試驗 英國科學家證實安全耐受&nbsp;&nbsp;Yahoo股市AI設計通用冠狀病毒疫苗首度完成人體試驗&nbsp;&nbsp;iThome劍橋推AI開發冠狀病毒疫苗&nbsp;&nbsp;信報網站首次人體臨床試驗表明： AI設計冠狀病毒疫苗表現良好&nbsp;&nbsp;華僑時報一支疫苗打遍所有冠狀病毒不再是夢想？劍橋以 AI 研發廣效疫苗取得初步成效&nbsp;&nbsp;TechNews 科技新報",
+      "published": "2026-06-09T01:49:35+00:00",
+      "summary": "AI研發新冠疫苗首度人體試驗 英國科學家證實安全耐受&nbsp;&nbsp;yesmedia.com.tw前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "Yahoo股市",
-          "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOVGx2S05KNDZGNVBUcDhoZ29McXBVdTJtRjZpM3NFVTZCYVp1cU56RWJ2cnZfYTBTTlZOUzN0TThwMng5UHJ5WXBwYXozLURab3hYQlBEQkV3LWdHYkJqREN6VDZhbTFCRjEyQ3ZxbG1EbWhNY3RsNGtvNEIwZ2NCRUlubnNfN1VlSU9Ra1MxUmhwVWw2WVF6TkNidXJZb1FINjlDeXo1Vzd3TlBoTnJTVWs3Vl9SM2N3VmItejd3N21pcWNZOFlnT3pOUVdIVUYxU29OVmtlcGFkRWJ3MFlSeHg3bkl2MDcyM2d4Z0VER0hxTEIwS3h4bDNHQjQycE9NZFZ5aGtGNEs3eGkySFVRN1ZOUEpVUjJmS0Q3d1dubzZQU1p0a3VhVFZUSGhmc2R4cVlWQ0Q2Sm1iRmt5UjVhdkZZNVlic1JrV1ZreEpfYlh6SDFnV05aMGJWX0s0c2pIQzhTTVZCanUxd1hoMmxLNDZLRQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5df400adea55",
-      "title": "皮膚老化後鬆弛小心「木偶紋」報到 醫師解析拉皮手術與其評估重點",
-      "published": "2026-06-09T01:00:00+00:00",
-      "summary": "皮膚老化後鬆弛小心「木偶紋」報到 醫師解析拉皮手術與其評估重點&nbsp;&nbsp;健康醫療網",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xRmxTTGRkaEl6OFlHeEcweU8yem9ub3dGMnpJVWJqaXVvT2h2ajEwSllBSHZyZG1Tcm1QaFotT0JRaEdJaHR4ZjRBNWJUbEhhaHg2aTN3?oc=5"
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPc2pueldlUGJsQmJxbkk2WVNlNXh4UzhlOGpqWjFHcXA4bHJ2YS1BbjNCQ0dmZFBDckFuc1htRWxTUTlfcFJmcWFqT1JRUzJUMHNrRGNENWFTU1ZlOFJrRW05clhNQVVJbXl2N2EzSHVVTllZQzh5anZGeENHdHZ2UlkwU29LZmJDYW5MbTQ0ajEyc2Y1T1hybTFhU1ktc1ZwUERqRENaMXZxWjhBbnBUT2FWVTN2dDJfNUtxeElKV0ZfcFBVUldYWDc5YTAydlp0bUI5RzBFdmU1TnhOcUpIZ1RJMkNCcXhkNlhubW1qX2pWY2tDNElJT0NkLWpsclN0R25aYWdQTUwwM2lMNndvckdsZEo2c0tpVWpJLXVNYTQ1RElJLXptaW5mS2NiQ3pwNDRCSHFuLWNHcHJEMHBDY3dtUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -409,19 +396,6 @@
         {
           "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQMFFXMlJRM3A4MHdHX3U4Y2x4N3cxN3BuaWxYTDRnWDRYa2k5QnhTQWRqM2FjNy1SbmRyX0E0WGZLV3E1TlZrU0dod3ZKWnNZZW5WSndhVVlzWDd3SGh3cGdPb2Z4bnhFUmkxSlN1MmtOYTRVZEVMRTdsOUl0S0pEMFVmVXVQTFFNeVE4a1hJZVZvWm1lSG1vcWxCcjFRQ0MtX1pZNzh5SFZMTEJ1VVlCdmVNR3lWWUVRQldvSXBJMnlFWmt5NTdwZkptUUhuUS1rcTZjWXBYVzNqc0pfbnBsQWlYa1hrTm12REVEWWJtSHVEdXQxeEZRTE9CaW9Wc3lBUUpScTFBTDR2U2ZocWxkelc5dlJUYzlxNGRiUUh4MTlQN1RvM3lJOC03NVpmN041NFpvMlJYTWg2U0JfLWVRQ3VKZ0llX28ta3Y1R2prT2Y3T2FUS1B2aEdSME9YaUZZRzUxa25saUtudWw4RU5N?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "55fd77632ddd",
-      "title": "早期控糖可產生「遺產效應」 降低17%死亡率",
-      "published": "2026-06-08T17:00:00+00:00",
-      "summary": "早期控糖可產生「遺產效應」 降低17%死亡率&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aY3JZQXAzRTFLaEZ5VE8yY3VoQW1xZjBVQ250RTFIanBSSGgyTUd0czRPOGdyNnhWRU1XLTFXOHdiQ0lqQ3hKRHdONlZLeEdXWURqNVNmYXNnZTQ3U3JwN9IBZkFVX3lxTE5Sekp2dlFva0toU2JqZnltS2Q0dWFvWnowSUVUWkZDeTh5ZXZaRVNvd1ZQWmF0dWZyYUNJRXFtSkQtWF96LU5qTU14alkzOXMzLVI0LV9OQ3YwUFFSeTRPbnFUSV9BQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -491,7 +465,7 @@
       "id": "e06065c4968c",
       "title": "抗癌戰士︱四語司儀施可瑩患卵巢癌化療後指數轉差 心跳飆至140連飲水都無力：我未放棄㗎！",
       "published": "2026-06-08T07:42:53+00:00",
-      "summary": "抗癌戰士︱四語司儀施可瑩患卵巢癌化療後指數轉差 心跳飆至140連飲水都無力：我未放棄㗎！&nbsp;&nbsp;香港經濟日報HKET施可瑩卵巢癌已擴散 心跳異常達每分鐘140次兼脫髮：我未放棄㗎&nbsp;&nbsp;香港01四語司儀施可瑩淚撰抗癌日記！驚揭卵巢癌擴散盲腸！提防「寂靜殺手」三大先兆！&nbsp;&nbsp;eastweek.stheadline.com施可瑩抗癌︱四語司儀化療後指數轉差心跳飆升不向癌魔投降寄語大家活在當下：有啲事過過咗就冇&nbsp;&nbsp;香港經濟日報HKETViuTV節目主持施可瑩患卵巢癌已擴散揭近況：指數好差 心跳達140兼脫髮 裝人工造口維生&nbsp;&nbsp;星島頭條",
+      "summary": "抗癌戰士︱四語司儀施可瑩患卵巢癌化療後指數轉差 心跳飆至140連飲水都無力：我未放棄㗎！&nbsp;&nbsp;香港經濟日報HKET施可瑩卵巢癌已擴散 心跳異常達每分鐘140次兼脫髮：我未放棄㗎&nbsp;&nbsp;香港01四語司儀施可瑩淚撰抗癌日記！驚揭卵巢癌擴散盲腸！提防「寂靜殺手」三大先兆！&nbsp;&nbsp;東周刊施可瑩抗癌︱四語司儀化療後指數轉差心跳飆升不向癌魔投降寄語大家活在當下：有啲事過過咗就冇&nbsp;&nbsp;香港經濟日報HKETViuTV節目主持施可瑩患卵巢癌已擴散揭近況：指數好差 心跳達140兼脫髮 裝人工造口維生&nbsp;&nbsp;星島頭條",
       "sources": [
         {
           "name": "香港經濟日報HKET",
@@ -525,19 +499,6 @@
         {
           "name": "紫荊雜誌",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYzI4ZVZ4OTRqNHZxN0pXV3R3ZnVXcndKS1JuWVh5bjhtaWdYeUVfOF9sMmRtRnZJZVJ2cUxURURqa29FZDdMenotVklZbzRxR1dkcHZ1SkFtUWRBY2RlYkJVb1VraTYtVmJQSmc1eU9XZTl1VWhkYUNPTmdFdVJpUm83UmZ2MzJzR2xJZTVhTzI?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c3ceda3068c1",
-      "title": "泰國升級埃博拉疫情防控- 國際 - 香港文匯網",
-      "published": "2026-06-07T16:12:49+00:00",
-      "summary": "泰國升級埃博拉疫情防控- 國際 - 香港文匯網&nbsp;&nbsp;香港文匯網",
-      "sources": [
-        {
-          "name": "香港文匯網",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1uSWRYdWt0ZkkyeXhQc0s2SXFhU1NXcXVzZmY2M0R6UzZKSTRoeklBV05kNkVqbXNOVHB0VnpBYWNicmxUWENkWlI1bEd0YlZXSUtSMkhYV2tZbGhyRERaT1F6eGYySmZZamMyRFVRRU5ZTFhNd3Fv?oc=5"
         }
       ],
       "matched_keywords": []
