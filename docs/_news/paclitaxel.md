@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [HPV威脅不分男女！口咽癌佔近3成 醫籲共同接種疫苗](https://news.google.com/rss/articles/CBMibkFVX3lxTE01WGhxLVBOSVlFUzlhdmNLMjBMMlNzZ0JzWENLOFdDdHN2OXRvSzJVU2NXcUNicWdtT1FQVzBOcmRwVHpxSTd2WE1ubE5ISlhBeGZNTnFEWjkxZ2ZIbkdWMjlJNGk5YmktdVA2ZnZ3?oc=5)
+
+2026-06-09 <span class="news-indication-tag">癌症</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE01WGhxLVBOSVlFUzlhdmNLMjBMMlNzZ0JzWENLOFdDdHN2OXRvSzJVU2NXcUNicWdtT1FQVzBOcmRwVHpxSTd2WE1ubE5ISlhBeGZNTnFEWjkxZ2ZIbkdWMjlJNGk5YmktdVA2ZnZ3?oc=5)
+
+---
 
 ### [抗癌戰士︱四語司儀施可瑩患卵巢癌化療後指數轉差 心跳飆至140連飲水都無力：我未放棄㗎！](https://news.google.com/rss/articles/CBMiwgRBVV95cUxPUkhYTW9EaTlIM0EzWnNUT0tzTVVQR1A2MmJRdm9TclBIeW1rY0c5NzZremVQTWtzS2VaVzlDYS0zekdoNmNlTGpTR2Vwc3ZnU3c1R1p4YnpVTDJ3MDd2anlTR3pFa2lsTG5WV0JiYzhuUWlsTUY2QXRaODRDMlJaZ0d6Q1RKTVlpMkJoLTJ0MDNzYUcyakJ4YWJnNHd3MnVlT3JqSnFfd3ZLM3lTZTM1cDVuaDU4Q01adUNGZDZCWmV1Y2N2cnM3RlJ6NUJWMHVZZ1AxTEpHbEZqb1ptTkVuMmhuMU14bGUwMDVMd2VsRkdpN0R1QkZBUXBleUVXc3EyNTVvYkJFaEZ6aEI3bVB4LS1NVFUxQTNQQkpheHJHaVJselIyOEdFblY1RmVsMDlvT1lMbUNrTmVsVjB4d29aZXNkSFg0dDRCWldjT05aMjVrM18xNFhDX1owVnJ6SWtWVkZTOXB2LXdJRXlvWlZaSGxLMWdJclJDazBxUUpNRzZqeTRHdVRGNnVmN19zcUNBTXkwYlJFblEwMjU0QXN1WXN6dkIwa3lXRGFIZlFjUnZiblhQYWRXQjhpd2hhWE5LLVd5dklLU2xKd1RfVG85dkxwbFQtSnA4UzNWQ1h0WF9vSHRzZHMtTld6d1FTZXpFTDljX2gwMmgxUUtWQ1B1cThXc0lVQktTNHlUOEYzNnhoWjNrSXc0RVlxckZTbDFNVXJ4bHVORVZ2U3hQUnNqV3FocTNhODFmTHBmcGZnY0Z6UQ?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [HPV威脅不分男女！口咽癌佔近3成 醫籲共同接種疫苗](https://news.google.com/rss/articles/CBMibkFVX3lxTE01WGhxLVBOSVlFUzlhdmNLMjBMMlNzZ0JzWENLOFdDdHN2OXRvSzJVU2NXcUNicWdtT1FQVzBOcmRwVHpxSTd2WE1ubE5ISlhBeGZNTnFEWjkxZ2ZIbkdWMjlJNGk5YmktdVA2ZnZ3?oc=5)
+
+2026-06-09 <span class="news-indication-tag">癌症</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE01WGhxLVBOSVlFUzlhdmNLMjBMMlNzZ0JzWENLOFdDdHN2OXRvSzJVU2NXcUNicWdtT1FQVzBOcmRwVHpxSTd2WE1ubE5ISlhBeGZNTnFEWjkxZ2ZIbkdWMjlJNGk5YmktdVA2ZnZ3?oc=5)
+
+---
 
 ### [預防大腸癌｜牛津研究：每日一杯「日常飲品」風險即減17%](https://news.google.com/rss/articles/CBMi5wJBVV95cUxNaEFIT3EtOU1IbjlyOUFCZHJEQklpYXp1YmQ1b3FHd2I4OG91QlFJTEp0UEo2NVVaSXZvelEzRldPM003OHpBX0x3MERoVThXTjdxQlRrNDlvQ0VXWjkzZTFMaWVwSnVTNTJsYk5xUmFnY2hmTG5lTGtYSFpLbThyQkEyMTAycGRCdGZZcURzekI5ZWZZOGFJc0w1alh0M0tPanhpY0l2TFFaUDdQMndNUDZ1MjFFSm5OcjZscmFJNEVLd19aeHlHZXFwUUlEdnBPRVRiV2FleUItRGRKTzBMcnJyUGM0dVRGWHFOY0d4cTF6dVpXWjM5LVU3a1F6Q19GT21vQk1ibFNBNU1FQzkydXdwWWg3Ymg4dXptQ25wRzMzNFl2eVRGZWFaTHQ2TEVFN2l0bzlqNjFfN2xXeGt1QTkyUVdfNjAxTmozTmdIajdsb1V0QkgwVGhmZFJaeU9KZWc4Rk0ycw?oc=5)
 
