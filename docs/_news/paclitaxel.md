@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [抗癌戰士︱四語司儀施可瑩患卵巢癌化療後指數轉差 心跳飆至140連飲水都無力：我未放棄㗎！](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZcjBReTF2UzBBSGFfMG1iTHVOYVMzUEVTR2NnelVWbnlUNG5wQVFUQjlSOXJnQjhCZFg2YkphSURpWmtqOWpRa3p2dnFXQzc4OEE?oc=5)
+### [卵巢癌腹脹飽滯易跟腸胃不適混淆？ 30歲以下患者多屬生殖細胞癌切除單側卵巢保生育能力](https://news.google.com/rss/articles/CBMiwgJBVV95cUxOaE9wOHdLcjBPdkpNcFR5WXpVUXNXVm9rT29FRUZ4ZW1GT2s4RzBaWWVseTNnRzRfZ3Y0QU0zZi0wRTd4eHRXTjk0cWpiY2U4aHVDX0dQVkZGS1JHaDBsMnExck4tQ3NQSEJFRHRhS0c4alliV2syZ1RHamhQbzdqQ2hPbFhzdzFYWTNUa05DYnhYTkJsTGhYb21iMlk0cElOVE94ZlQwQTFfMUJLclVZQzVLVGRQd1R0VTRiV05PQU8tX1pMSmNPalFnb05QVlYwMEZ4V3JOY0xmU2lLdmFmWEdHcEx5ZEdqVS1pZnUwSXRmZS1VMmRZZHVBeWRXSzNOUjFDRjUyWnp3dTZ4VkJzNzhtQWZUMXNsNG9MX1lOYTJ0MHRjdXBTcWIzZjQ2QjJTb2RNcU5rNlNGdXdSVTVyT3N3?oc=5)
 
-2026-06-08 <span class="news-indication-tag">卵巢癌</span>
+2026-06-10 <span class="news-indication-tag">卵巢癌</span>
 
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZcjBReTF2UzBBSGFfMG1iTHVOYVMzUEVTR2NnelVWbnlUNG5wQVFUQjlSOXJnQjhCZFg2YkphSURpWmtqOWpRa3p2dnFXQzc4OEE?oc=5)
+來源：[明報健康網](https://news.google.com/rss/articles/CBMiwgJBVV95cUxOaE9wOHdLcjBPdkpNcFR5WXpVUXNXVm9rT29FRUZ4ZW1GT2s4RzBaWWVseTNnRzRfZ3Y0QU0zZi0wRTd4eHRXTjk0cWpiY2U4aHVDX0dQVkZGS1JHaDBsMnExck4tQ3NQSEJFRHRhS0c4alliV2syZ1RHamhQbzdqQ2hPbFhzdzFYWTNUa05DYnhYTkJsTGhYb21iMlk0cElOVE94ZlQwQTFfMUJLclVZQzVLVGRQd1R0VTRiV05PQU8tX1pMSmNPalFnb05QVlYwMEZ4V3JOY0xmU2lLdmFmWEdHcEx5ZEdqVS1pZnUwSXRmZS1VMmRZZHVBeWRXSzNOUjFDRjUyWnp3dTZ4VkJzNzhtQWZUMXNsNG9MX1lOYTJ0MHRjdXBTcWIzZjQ2QjJTb2RNcU5rNlNGdXdSVTVyT3N3?oc=5)
+
+---
+
+### [HPV防治：向消除HPV相關癌症邁進！九價疫苗為何重要？專家揭臺灣流行型別差異 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxPbFFlZVdaN25TeXhVdE9GRHc3R09mRWRhcGw5VTJLQXJBdmpCRGpxdDRURDNPemNncnlaZW1QeXhCYURCM0lQa3VZVTlGRmJEZFFvQ09VRlZQSUgzYUw3Ukc2RWozV3VZRzFpSi1NRFRXdHFOU0ItSm4tWUVZTU8xNDVOaWllUVFIVk9MLUdVUFFKX1U?oc=5)
+
+2026-06-10 <span class="news-indication-tag">癌症</span>
+
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxPbFFlZVdaN25TeXhVdE9GRHc3R09mRWRhcGw5VTJLQXJBdmpCRGpxdDRURDNPemNncnlaZW1QeXhCYURCM0lQa3VZVTlGRmJEZFFvQ09VRlZQSUgzYUw3Ukc2RWozV3VZRzFpSi1NRFRXdHFOU0ItSm4tWUVZTU8xNDVOaWllUVFIVk9MLUdVUFFKX1U?oc=5)
 
 ---
 

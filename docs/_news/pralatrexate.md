@@ -14,7 +14,7 @@ permalink: /news/pralatrexate/
 ---
 
 <p class="key-answer" data-question="Pralatrexate 有什麼相關新聞？">
-<strong>Pralatrexate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pralatrexate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/pralatrexate/
 <p><a href="{{ '/drugs/pralatrexate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [HPV防治：向消除HPV相關癌症邁進！九價疫苗為何重要？專家揭臺灣流行型別差異 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxPbFFlZVdaN25TeXhVdE9GRHc3R09mRWRhcGw5VTJLQXJBdmpCRGpxdDRURDNPemNncnlaZW1QeXhCYURCM0lQa3VZVTlGRmJEZFFvQ09VRlZQSUgzYUw3Ukc2RWozV3VZRzFpSi1NRFRXdHFOU0ItSm4tWUVZTU8xNDVOaWllUVFIVk9MLUdVUFFKX1U?oc=5)
+
+2026-06-10 <span class="news-indication-tag">癌症</span>
+
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxPbFFlZVdaN25TeXhVdE9GRHc3R09mRWRhcGw5VTJLQXJBdmpCRGpxdDRURDNPemNncnlaZW1QeXhCYURCM0lQa3VZVTlGRmJEZFFvQ09VRlZQSUgzYUw3Ukc2RWozV3VZRzFpSi1NRFRXdHFOU0ItSm4tWUVZTU8xNDVOaWllUVFIVk9MLUdVUFFKX1U?oc=5)
+
+---
 
 
 <div class="disclaimer">

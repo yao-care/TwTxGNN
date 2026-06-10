@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [別搭電梯了！醫揭「黃金護心階數」：每天爬降23%心血管風險](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fTXFHWG1ha2F3NUFDYXlfSTU0UjNMQnNyLUNpREI4anBKeVhMQW9aY2VrTTdiSnNiTHFsaEhsaFZPS1AtUnpYbjByTnoyM1FN0gFsQVVfeXFMT2lVODRNZTBSU3V6c2RiRkhFeGRkYktRb2s1aVNpc0NWT3d0UGY1M2ZJbjRpd3ZsMW1WN25UX3VFYW9DX1RiV1BsMFVieVNURFN4VklwX09rVnA1SWlwaWdTay12NjF3bkFPc2tP?oc=5)
-
-2026-06-10 <span class="news-indication-tag">心血管</span>
-
-來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fTXFHWG1ha2F3NUFDYXlfSTU0UjNMQnNyLUNpREI4anBKeVhMQW9aY2VrTTdiSnNiTHFsaEhsaFZPS1AtUnpYbjByTnoyM1FN0gFsQVVfeXFMT2lVODRNZTBSU3V6c2RiRkhFeGRkYktRb2s1aVNpc0NWT3d0UGY1M2ZJbjRpd3ZsMW1WN25UX3VFYW9DX1RiV1BsMFVieVNURFN4VklwX09rVnA1SWlwaWdTay12NjF3bkFPc2tP?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
