@@ -1,7 +1,42 @@
 {
-  "generated": "2026-06-09T23:12:36.289589+00:00",
+  "generated": "2026-06-10T02:35:52.998855+00:00",
   "count": 5,
   "news": [
+    {
+      "id": "8e7c621ee508",
+      "title": "搭電梯可能「傷心血管」 46萬人研究爬樓梯2層樓大減心梗風險- 健康",
+      "published": "2026-06-10T00:31:10+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJTFYzYUl3dXJRT2tEdTZ4bno0d3Z4eV9qQzNmMTU5QXJfWllHNUhzM3R4cWR2UG1jZnZZOFZ2Z1FTZndEaDVWeTk0clhYQmRyN2ZhbkcwQTlpTlRGYnZ3STdXdFBVMkFWS1FpUWN3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "216631bdf4f0",
       "title": "HPV疫苗問世20週年！更早接種、更廣防護、更完整策略，朝消除HPV相關癌症目標邁進！",
@@ -234,6 +269,17 @@
         },
         {
           "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
           "name": "heart_disease",
           "keyword": "心臟病",
           "related_drugs": [
@@ -290,40 +336,19 @@
               "name": "Treprostinil"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "71f3f3cfee49",
-      "title": "研究曝「1常見食物」能防骨折！效果堪比藥物 還沒副作用 | 三立新聞網 - LINE TODAY",
-      "published": "2026-06-08T18:47:53+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGdFJMY0p3RUVwT1cwNDh1NFNfbWNaTk1xVWFtMHdYY25oRU5tb3BwdjVDMkcxMWVVcUFfRVhVd1h2MmdFNTRCVDlMLVRZT3R4MEZVOFhB?oc=5"
-        }
-      ],
-      "keywords": [
+        },
         {
           "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
+          "name": "stroke",
+          "keyword": "中風",
           "related_drugs": [
             {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
+              "slug": "dronedarone",
+              "name": "Dronedarone"
             },
             {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
             }
           ]
         }

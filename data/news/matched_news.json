@@ -1,8 +1,57 @@
 {
-  "last_updated": "2026-06-09T23:12:36.261446+00:00",
-  "total_count": 16,
+  "last_updated": "2026-06-10T02:35:52.967865+00:00",
+  "total_count": 18,
   "matched_count": 5,
   "news": [
+    {
+      "id": "8e7c621ee508",
+      "title": "搭電梯可能「傷心血管」 46萬人研究爬樓梯2層樓大減心梗風險- 健康",
+      "published": "2026-06-10T00:31:10+00:00",
+      "summary": "搭電梯可能「傷心血管」 46萬人研究爬樓梯2層樓大減心梗風險- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJTFYzYUl3dXJRT2tEdTZ4bno0d3Z4eV9qQzNmMTU5QXJfWllHNUhzM3R4cWR2UG1jZnZZOFZ2Z1FTZndEaDVWeTk0clhYQmRyN2ZhbkcwQTlpTlRGYnZ3STdXdFBVMkFWS1FpUWN3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6bf042a5582c",
+      "title": "巨大脂肪瘤影響日常生活，醫生提醒：皮下腫塊持續增大應及早求診",
+      "published": "2026-06-09T23:13:05+00:00",
+      "summary": "巨大脂肪瘤影響日常生活，醫生提醒：皮下腫塊持續增大應及早求診&nbsp;&nbsp;澳門力報",
+      "sources": [
+        {
+          "name": "澳門力報",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BY3hzcTlsazZYZDdVRmluckxmM1AxS2Z4Y2V4VVNWdVJrVGd6bndnSnFleWE3QlVhTDNxUlNZT1EybjdLUEt0dk93bVZoWDE0Um1R?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "04ec05c5449a",
       "title": "史上首次AI設計抗原 劍橋大學「萬用疫苗」進入人體試驗",
@@ -30,10 +79,10 @@
       "matched_keywords": []
     },
     {
-      "id": "bd6916508ff1",
-      "title": "為何有些人容易出現致命敗血症？科學家：腸道藏玄機- 健康",
+      "id": "2b0e28dfefd7",
+      "title": "為何有些人容易出現致命敗血症？科學家：腸道藏玄機- 國際",
       "published": "2026-06-09T14:59:31+00:00",
-      "summary": "為何有些人容易出現致命敗血症？科學家：腸道藏玄機- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "為何有些人容易出現致命敗血症？科學家：腸道藏玄機- 國際&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
@@ -281,7 +330,7 @@
       "id": "612fd0347879",
       "title": "童年蛀牙嚴重 恐增心血管病風險",
       "published": "2026-06-09T07:27:51+00:00",
-      "summary": "童年蛀牙嚴重 恐增心血管病風險&nbsp;&nbsp;人間福報電子報幼年蛀牙小問題？新研究：患心臟病風險升高&nbsp;&nbsp;新唐人電視台",
+      "summary": "童年蛀牙嚴重 恐增心血管病風險&nbsp;&nbsp;人間福報電子報健康網》研究：牙齦流血、便秘影響心血管健康 專家推7法降風險&nbsp;&nbsp;自由健康網蛀牙不只是牙齒問題 研究發現可能增加未來心血管疾病風險&nbsp;&nbsp;元氣網2026-06-10 《放眼世界》： 有研究指小朋友有蛀牙長大後患心臟病及中風機率上升&nbsp;&nbsp;香港電台新聞網口腔健康就是長壽密碼？研究指出牙齦狀況影響全身健康 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "人間福報電子報",
@@ -293,6 +342,17 @@
           "type": "indication",
           "name": "cardiovascular",
           "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
           "related_drugs": [
             {
               "slug": "isosorbide_dinitrate",
@@ -358,6 +418,21 @@
               "name": "Treprostinil"
             }
           ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
         }
       ]
     },
@@ -370,6 +445,19 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDa2hCYW5HaDN3VU04a19HLTREcHBPZUxMbmUtV1YxODVQMGF2RFJJTV9mYjRTbDYtTmJEU2FkRllrZmR1YTBSWjdJSWpub1pRLTItX01rRFV5by1qemd3MkVUbFZtN25uMXBmamhR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "225c2166d501",
+      "title": "「促進」身體新陳代謝，是真的嗎？專家：攝取足量蛋白質和睡滿7-9個小時 - Vogue Taiwan",
+      "published": "2026-06-09T04:11:19+00:00",
+      "summary": "「促進」身體新陳代謝，是真的嗎？專家：攝取足量蛋白質和睡滿7-9個小時&nbsp;&nbsp;Vogue Taiwan",
+      "sources": [
+        {
+          "name": "Vogue Taiwan",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZHVPMDdjRGNpZWQ0VXhtUklRU0VsZTZ0VmFMd0llRDhVMjdNeURubVE2dFpGYlQ4X0Q3ZGE5ZGtmNG9obzY2YnBidzFhQmxjcFdIQUhCdTRESVBIbTlPNjRpMG5vbVJVOXJtT2x3QzZEdFBTVVhjdy1DMVhvelBib0w3OG9KZWowUkRqU09XNVFtZmFqTFRRejNBSm9QaTAzUWVhYzdpaFNWUXp4OWJkWkNPRDhQdmZ6bU9jUVFIbHNLNVdNWG11M3NEXzVKbGZTTGY0TXZtYnFiZlJZX29wSU1IZExzZzY3YjViYi1wb3Z6Skk?oc=5"
         }
       ],
       "matched_keywords": []
@@ -412,43 +500,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "71f3f3cfee49",
-      "title": "研究曝「1常見食物」能防骨折！效果堪比藥物 還沒副作用 | 三立新聞網 - LINE TODAY",
-      "published": "2026-06-08T18:47:53+00:00",
-      "summary": "研究曝「1常見食物」能防骨折！效果堪比藥物 還沒副作用 | 三立新聞網&nbsp;&nbsp;LINE TODAY健康網》更年期骨質怕流失 研究曝「1食物」每天5顆存骨本&nbsp;&nbsp;自由健康網腸道顧好，骨頭也會跟著好？探究腸道菌相與骨質疏鬆的秘密| 照護線上-深受信賴的醫療媒體&nbsp;&nbsp;careonline.com.tw「1常見食物」能防骨折！每天幾顆就有效&nbsp;&nbsp;鏡週刊Mirror Media",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGdFJMY0p3RUVwT1cwNDh1NFNfbWNaTk1xVWFtMHdYY25oRU5tb3BwdjVDMkcxMWVVcUFfRVhVd1h2MmdFNTRCVDlMLVRZT3R4MEZVOFhB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "67ad5d1c647a",

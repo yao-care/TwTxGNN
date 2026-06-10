@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,11 +42,19 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [搭電梯可能「傷心血管」 46萬人研究爬樓梯2層樓大減心梗風險- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTFBJTFYzYUl3dXJRT2tEdTZ4bno0d3Z4eV9qQzNmMTU5QXJfWllHNUhzM3R4cWR2UG1jZnZZOFZ2Z1FTZndEaDVWeTk0clhYQmRyN2ZhbkcwQTlpTlRGYnZ3STdXdFBVMkFWS1FpUWN3?oc=5)
+
+2026-06-10 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心梗</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFBJTFYzYUl3dXJRT2tEdTZ4bno0d3Z4eV9qQzNmMTU5QXJfWllHNUhzM3R4cWR2UG1jZnZZOFZ2Z1FTZndEaDVWeTk0clhYQmRyN2ZhbkcwQTlpTlRGYnZ3STdXdFBVMkFWS1FpUWN3?oc=5)
+
+---
 
 ### [童年蛀牙嚴重 恐增心血管病風險](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBld2FLLThtei1iWmI2LUdvMFMwQzZfZlNKa0F5am50bmN0dEEweTlCMGtqcThoRWFMaEJsZEpqdzZHcjM1QWtNZllHM2FuclUxcUl2NWttb2xGNmJiaXdRY0ZUM2tkRTQ?oc=5)
 
-2026-06-09 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臟病</span>
+2026-06-09 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
 
 來源：[人間福報電子報](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBld2FLLThtei1iWmI2LUdvMFMwQzZfZlNKa0F5am50bmN0dEEweTlCMGtqcThoRWFMaEJsZEpqdzZHcjM1QWtNZllHM2FuclUxcUl2NWttb2xGNmJiaXdRY0ZUM2tkRTQ?oc=5)
 

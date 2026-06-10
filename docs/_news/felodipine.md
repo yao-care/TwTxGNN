@@ -50,7 +50,7 @@ permalink: /news/felodipine/
 
 ### [童年蛀牙嚴重 恐增心血管病風險](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBld2FLLThtei1iWmI2LUdvMFMwQzZfZlNKa0F5am50bmN0dEEweTlCMGtqcThoRWFMaEJsZEpqdzZHcjM1QWtNZllHM2FuclUxcUl2NWttb2xGNmJiaXdRY0ZUM2tkRTQ?oc=5)
 
-2026-06-09 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臟病</span>
+2026-06-09 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
 
 來源：[人間福報電子報](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBld2FLLThtei1iWmI2LUdvMFMwQzZfZlNKa0F5am50bmN0dEEweTlCMGtqcThoRWFMaEJsZEpqdzZHcjM1QWtNZllHM2FuclUxcUl2NWttb2xGNmJiaXdRY0ZUM2tkRTQ?oc=5)
 

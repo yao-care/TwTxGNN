@@ -3,7 +3,7 @@ layout: default
 title: "心血管（cardiovascular） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "心血管（cardiovascular） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "心血管（cardiovascular） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/cardiovascular/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cardiovascular/
 ---
 
 <p class="key-answer" data-question="心血管（cardiovascular） 有什麼相關新聞？">
-<strong>心血管（cardiovascular）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心血管（cardiovascular）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ permalink: /news/cardiovascular/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [搭電梯可能「傷心血管」 46萬人研究爬樓梯2層樓大減心梗風險- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTFBJTFYzYUl3dXJRT2tEdTZ4bno0d3Z4eV9qQzNmMTU5QXJfWllHNUhzM3R4cWR2UG1jZnZZOFZ2Z1FTZndEaDVWeTk0clhYQmRyN2ZhbkcwQTlpTlRGYnZ3STdXdFBVMkFWS1FpUWN3?oc=5)
+
+2026-06-10
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFBJTFYzYUl3dXJRT2tEdTZ4bno0d3Z4eV9qQzNmMTU5QXJfWllHNUhzM3R4cWR2UG1jZnZZOFZ2Z1FTZndEaDVWeTk0clhYQmRyN2ZhbkcwQTlpTlRGYnZ3STdXdFBVMkFWS1FpUWN3?oc=5)
+
+---
 
 ### [童年蛀牙嚴重 恐增心血管病風險](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBld2FLLThtei1iWmI2LUdvMFMwQzZfZlNKa0F5am50bmN0dEEweTlCMGtqcThoRWFMaEJsZEpqdzZHcjM1QWtNZllHM2FuclUxcUl2NWttb2xGNmJiaXdRY0ZUM2tkRTQ?oc=5)
 
