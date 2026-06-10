@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-06-10T10:58:34.966617+00:00",
-  "total_count": 16,
+  "last_updated": "2026-06-10T14:22:16.730088+00:00",
+  "total_count": 14,
   "matched_count": 2,
   "news": [
+    {
+      "id": "e2882cc93dee",
+      "title": "被AI進入身體！史上首次劍橋大學「AI疫苗」人體試驗 有望終結病毒突變",
+      "published": "2026-06-10T11:44:00+00:00",
+      "summary": "被AI進入身體！史上首次劍橋大學「AI疫苗」人體試驗 有望終結病毒突變&nbsp;&nbsp;Yahoo新聞史上首次AI設計抗原 劍橋大學「萬用疫苗」進入人體試驗&nbsp;&nbsp;自由健康網AI設計通用冠狀病毒疫苗首度完成人體試驗&nbsp;&nbsp;iThomeAI研發新冠疫苗首度人體試驗 英國科學家證實安全耐受 - 科技新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞AI打造終極疫苗？劍橋新技術有望「以一擋千」&nbsp;&nbsp;壹蘋新聞網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPNE41aF9SR3lBSTJSMEY0TUt6NWRTMjA3UF93Q05SdTFEOFNQVldzX1BLZkhwdjI3aFp4U3NWVU1OREdhOU53U2E2by1xNHNzazltUFAybFJJR2JyQWJvcjVPdXBDUlpjV3h6WWVzaTZBMWtlZldTLWxTRGdLYUlSWlgydUdJLWJ0VlZPY0tRRUlwbTNUa2pMNDNLbnV2TGNzR21XbEQxaXN1MDRBb0JjU0t4ZlBVZ3RCQ19iN1N5VUt3M1pwLTdqM0FMYjRIeDNjZldhRUVNQUlpVUVzNW90bDd4bUlJZGtuc2pTaWFoODY3Y3FadGszSUV3akFRZzdqczRDcUc3NHY1R2M0YUxlcWV0aVNRZGhSUmZsSE96bVNpQjNHclR1RlB2cDBWbkcwYmdPY2xja1h5ZThETFhwQ1hjTHdhTE5BX3VnUmRKMWRNejBCanZSZFhfa3BPUlQwVE9RSVV0eGVHWHh5UmZLcWlvbFJ1bm1nUTR2SU00RFhjb2pJYzc0b1FBZ3NkTVo1UUhMbDU2cFZVaDdDN1lidy1R?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "b219c847d5d7",
       "title": "聽醫生的話 年過40的人最好養成這個習慣",
@@ -30,23 +43,10 @@
       "matched_keywords": []
     },
     {
-      "id": "66d03eef5216",
-      "title": "7成寶寶1歲前感染過！RSV對寶寶影響有多大？醫完整解析",
-      "published": "2026-06-10T07:00:00+00:00",
-      "summary": "7成寶寶1歲前感染過！RSV對寶寶影響有多大？醫完整解析&nbsp;&nbsp;健康醫療網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvYmk2SkRZNlNyNERSalVhYWxsaFF6T2VOQlhnRkhKaDlzVmxqLXExSWZEQ0xQTnFzenpWczhtVDJ5dXZNTC1jRWs1NjlHSGxBSXAxZlB3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "64f3b68b9524",
-      "title": "卵巢癌腹脹飽滯易跟腸胃不適混淆？ 30歲以下患者多屬生殖細胞癌切除單側卵巢保生育能力",
+      "id": "26fd83e9180b",
+      "title": "卵巢癌腹脹飽滯易跟腸胃不適混淆？ 30歲以下患者多屬生殖細胞癌 切除單側卵巢保生育能力",
       "published": "2026-06-10T06:53:07+00:00",
-      "summary": "卵巢癌腹脹飽滯易跟腸胃不適混淆？ 30歲以下患者多屬生殖細胞癌切除單側卵巢保生育能力&nbsp;&nbsp;明報健康網",
+      "summary": "卵巢癌腹脹飽滯易跟腸胃不適混淆？ 30歲以下患者多屬生殖細胞癌 切除單側卵巢保生育能力&nbsp;&nbsp;明報健康網",
       "sources": [
         {
           "name": "明報健康網",
@@ -294,19 +294,6 @@
       "matched_keywords": []
     },
     {
-      "id": "04ec05c5449a",
-      "title": "史上首次AI設計抗原 劍橋大學「萬用疫苗」進入人體試驗",
-      "published": "2026-06-09T22:33:00+00:00",
-      "summary": "史上首次AI設計抗原 劍橋大學「萬用疫苗」進入人體試驗&nbsp;&nbsp;自由健康網AI研發新冠疫苗首度人體試驗 英國科學家證實安全耐受&nbsp;&nbsp;Yahoo股市AI設計通用冠狀病毒疫苗首度完成人體試驗&nbsp;&nbsp;iThome人工智慧正被用來開發一種「根本性新」的疫苗，以防範大流行病&nbsp;&nbsp;gamereactor.cnAI打造終極疫苗？劍橋新技術有望「以一擋千」&nbsp;&nbsp;壹蘋新聞網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tcVczR1ZRek81eDhZWmFNSVptSTZQT3AwS2djR0UyeVZXY1F0aVpXb0h3MUVFSWZ0Q2VmYnVqbEhwYS13Yk5YbEdMb0d4cHhkdld1YWhYU0tNdVpUMUo3Nlo4MkHSAWpBVV95cUxPTGsxcTRuNTBhN1MtYlNkV0xDT0VQODlEaXBOcDdkb08zQ1pxaG9ZbFViUjNJenZNeVBGVXY0N3pDVXMwMWRuZFVMazQyUW1PclFtMXdZc3I0bFVNc2dFZ2hLS1JHM3VBZG93?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "09f5ebf58602",
       "title": "戴Con可以醫抑鬱？每天戴30分鐘血清素暴升47%！效力比得上抗抑鬱藥",
       "published": "2026-06-09T15:00:00+00:00",
@@ -333,14 +320,14 @@
       "matched_keywords": []
     },
     {
-      "id": "e4a98fc2c4f4",
-      "title": "健身室成細菌溫床？ 1種器材含菌量竟比坐廁高362倍！ 即學11招保持衛生 可自備3物品",
-      "published": "2026-06-09T05:00:16+00:00",
-      "summary": "健身室成細菌溫床？ 1種器材含菌量竟比坐廁高362倍！ 即學11招保持衛生 可自備3物品&nbsp;&nbsp;星島頭條21歲「播毒渣男」背景震撼！隱瞞性病兼連環出軌多名少女中招染HPV性病附性傳播感染3大預防方法&nbsp;&nbsp;星島頭條《東張》H男播毒引熱討 「資深玩家」翟威廉12字分享長久之道&nbsp;&nbsp;香港01東張「播毒男」事件掀全城HPV恐慌 阿Sa 姜濤曾合作宣揚預防訊息&nbsp;&nbsp;巴士的報播毒渣男第二集｜H先生「中計」蒲頭被爆繼續約女 受害人不幸染致命病毒：呢個真係會死&nbsp;&nbsp;TVB",
+      "id": "055ab4eb1cf9",
+      "title": "性病傳播｜HPV播毒渣男惹恐慌，共用健身器材會否感染？醫生拆解迷思 - etnet 經濟通",
+      "published": "2026-06-09T10:23:14+00:00",
+      "summary": "性病傳播｜HPV播毒渣男惹恐慌，共用健身器材會否感染？醫生拆解迷思&nbsp;&nbsp;etnet 經濟通",
       "sources": [
         {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPa2FtNk1Ud1ZHWExUTW1ETnd2Z0VHZ1Nna2FwT21pcFViVG9uR2ZKNlRaeHJfT2MzOEFVTm0yYlBGYWpaSm9NM1BHTjV3VzByMmNpUU1WYmI5NS02bl9GeURaX2RaZWk2MTk4ZDZYSnpuRGVZQUhyeTRjaklPZVJuSXplM09Ha21TeEx0MTQ1UGQ0QTUwSGdESjZJS0JMRlFTY2FmR2xqUmZtZWx6eDFJTW9SazN3aUU1WERMTUFMNHVzSDdrMXlmTlU2Q2lMUkZaRE5HbHNjbUk2ckJpR1ViNHNNQ1hYRXlMQWxWTjE4U2E3U0wxQWRlLV9mdWFNbEc1SUo3eFFtZlg5cWRzSzhCWHJaU2p5a1RTSkpvaG5NN3o4VVRFRHIwLUJiSk9SMTZrWXZUZFhJX01jUnBVWWZtTHVfVHZBQ1VieVUxYlJkZXJZT0lIVDMzaU96QUxGNFhheGdISjhvSmtvenhqcUNNNk0wY185NEp6aVpfMDV4b0lEbkhrQlVnUlJ6b3BkMWN6NmZUaUZXeV9GYkxfYllLM3JRazRSNnZjdlNDYVQ2YUVHM1VlVzA3Um9WbnpHTnA5TEo1dTQ3Ym1DaE9fcFBzT1NzaGVydlBtc0tseXZJSDF6cDNo?oc=5"
+          "name": "etnet 經濟通",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PdHE2Z1R4dU5Vcmd5blhmNC1sWFU2WVlqOEZzY1FOYmRzNXNvWjZCOUZFdHB4TWhzMG1uWUZZWFJvX1d4eFNscDhYTTUxZWlxQkhkS3FsY0o?oc=5"
         }
       ],
       "matched_keywords": []
@@ -385,27 +372,14 @@
       "matched_keywords": []
     },
     {
-      "id": "4b4dbea662e5",
+      "id": "19babf5dc5b4",
       "title": "長期刷短視頻恐傷腦 研究： 碎片化觀看或削弱記憶與專注力",
       "published": "2026-06-08T23:00:01+00:00",
-      "summary": "長期刷短視頻恐傷腦 研究： 碎片化觀看或削弱記憶與專注力&nbsp;&nbsp;巴士的報",
+      "summary": "長期刷短視頻恐傷腦 研究： 碎片化觀看或削弱記憶與專注力&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQMFFXMlJRM3A4MHdHX3U4Y2x4N3cxN3BuaWxYTDRnWDRYa2k5QnhTQWRqM2FjNy1SbmRyX0E0WGZLV3E1TlZrU0dod3ZKWnNZZW5WSndhVVlzWDd3SGh3cGdPb2Z4bnhFUmkxSlN1MmtOYTRVZEVMRTdsOUl0S0pEMFVmVXVQTFFNeVE4a1hJZVZvWm1lSG1vcWxCcjFRQ0MtX1pZNzh5SFZMTEJ1VVlCdmVNR3lWWUVRQldvSXBJMnlFWmt5NTdwZkptUUhuUS1rcTZjWXBYVzNqc0pfbnBsQWlYa1hrTm12REVEWWJtSHVEdXQxeEZRTE9CaW9Wc3lBUUpScTFBTDR2U2ZocWxkelc5dlJUYzlxNGRiUUh4MTlQN1RvM3lJOC03NVpmN041NFpvMlJYTWg2U0JfLWVRQ3VKZ0llX28ta3Y1R2prT2Y3T2FUS1B2aEdSME9YaUZZRzUxa25saUtudWw4RU5N?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "67ad5d1c647a",
-      "title": "陰天也要戴墨鏡！醫曝「7成紫外線」照樣穿透 左臉老化更明顯",
-      "published": "2026-06-08T17:00:00+00:00",
-      "summary": "陰天也要戴墨鏡！醫曝「7成紫外線」照樣穿透 左臉老化更明顯&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHSElkWHdHQzljaWcxNXRnb2lTUndoUy11UUFRT0huVjdWVlVmV0lWZGlCS3dZd0xtX2NNQUVNbFBsclh4aTRyRHZRaVFUdl96?oc=5"
         }
       ],
       "matched_keywords": []
