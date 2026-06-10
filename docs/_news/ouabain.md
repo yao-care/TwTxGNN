@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/ouabain/
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>Prinzmetal angina（99.7%）</li>
 <li>hemoglobinopathy（99.5%）</li>
-<li class="indication-matched">myocardial infarction（99.4%）<span class="indication-tag">📰 心梗</span></li>
+<li>myocardial infarction（99.4%）</li>
 <li>thrombotic disease（99.3%）</li>
 <li>hyperthyroidism（99.3%）</li>
 <li>homozygous familial hypercholesterolemia（99.2%）</li>
@@ -42,23 +42,9 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [搭電梯可能「傷心血管」 46萬人研究爬樓梯2層樓大減心梗風險- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTFBJTFYzYUl3dXJRT2tEdTZ4bno0d3Z4eV9qQzNmMTU5QXJfWllHNUhzM3R4cWR2UG1jZnZZOFZ2Z1FTZndEaDVWeTk0clhYQmRyN2ZhbkcwQTlpTlRGYnZ3STdXdFBVMkFWS1FpUWN3?oc=5)
-
-2026-06-10 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心梗</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFBJTFYzYUl3dXJRT2tEdTZ4bno0d3Z4eV9qQzNmMTU5QXJfWllHNUhzM3R4cWR2UG1jZnZZOFZ2Z1FTZndEaDVWeTk0clhYQmRyN2ZhbkcwQTlpTlRGYnZ3STdXdFBVMkFWS1FpUWN3?oc=5)
-
----
-
-### [童年蛀牙嚴重 恐增心血管病風險](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBld2FLLThtei1iWmI2LUdvMFMwQzZfZlNKa0F5am50bmN0dEEweTlCMGtqcThoRWFMaEJsZEpqdzZHcjM1QWtNZllHM2FuclUxcUl2NWttb2xGNmJiaXdRY0ZUM2tkRTQ?oc=5)
-
-2026-06-09 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
-
-來源：[人間福報電子報](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBld2FLLThtei1iWmI2LUdvMFMwQzZfZlNKa0F5am50bmN0dEEweTlCMGtqcThoRWFMaEJsZEpqdzZHcjM1QWtNZllHM2FuclUxcUl2NWttb2xGNmJiaXdRY0ZUM2tkRTQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

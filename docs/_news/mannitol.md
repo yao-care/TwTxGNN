@@ -14,7 +14,7 @@ permalink: /news/mannitol/
 ---
 
 <p class="key-answer" data-question="Mannitol 有什麼相關新聞？">
-<strong>Mannitol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mannitol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,23 +41,9 @@ permalink: /news/mannitol/
 <p><a href="{{ '/drugs/mannitol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [HPV疫苗問世20週年！更早接種、更廣防護、更完整策略，朝消除HPV相關癌症目標邁進！](https://news.google.com/rss/articles/CBMiakFVX3lxTFBOdm1wYjJGeW1oenVIeWlITy12ekMyaFdKWnkzUDhVaEk4UjBpS2hDWHMxNlM5aVY1RDNHUnlfNVluOWotQ2NIalliUGEwX0hMWG14Qnp3YkMyTXdQRE9jT0dWTXgza01nb3c?oc=5)
-
-2026-06-09 <span class="news-indication-tag">癌症</span>
-
-來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTFBOdm1wYjJGeW1oenVIeWlITy12ekMyaFdKWnkzUDhVaEk4UjBpS2hDWHMxNlM5aVY1RDNHUnlfNVluOWotQ2NIalliUGEwX0hMWG14Qnp3YkMyTXdQRE9jT0dWTXgza01nb3c?oc=5)
-
----
-
-### [童年蛀牙嚴重 恐增心血管病風險](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBld2FLLThtei1iWmI2LUdvMFMwQzZfZlNKa0F5am50bmN0dEEweTlCMGtqcThoRWFMaEJsZEpqdzZHcjM1QWtNZllHM2FuclUxcUl2NWttb2xGNmJiaXdRY0ZUM2tkRTQ?oc=5)
-
-2026-06-09 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
-
-來源：[人間福報電子報](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBld2FLLThtei1iWmI2LUdvMFMwQzZfZlNKa0F5am50bmN0dEEweTlCMGtqcThoRWFMaEJsZEpqdzZHcjM1QWtNZllHM2FuclUxcUl2NWttb2xGNmJiaXdRY0ZUM2tkRTQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

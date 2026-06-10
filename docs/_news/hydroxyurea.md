@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [HPV疫苗問世20週年！更早接種、更廣防護、更完整策略，朝消除HPV相關癌症目標邁進！](https://news.google.com/rss/articles/CBMiakFVX3lxTFBOdm1wYjJGeW1oenVIeWlITy12ekMyaFdKWnkzUDhVaEk4UjBpS2hDWHMxNlM5aVY1RDNHUnlfNVluOWotQ2NIalliUGEwX0hMWG14Qnp3YkMyTXdQRE9jT0dWTXgza01nb3c?oc=5)
-
-2026-06-09 <span class="news-indication-tag">癌症</span>
-
-來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTFBOdm1wYjJGeW1oenVIeWlITy12ekMyaFdKWnkzUDhVaEk4UjBpS2hDWHMxNlM5aVY1RDNHUnlfNVluOWotQ2NIalliUGEwX0hMWG14Qnp3YkMyTXdQRE9jT0dWTXgza01nb3c?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [預防大腸癌｜牛津研究：每日一杯「日常飲品」風險即減17%](https://news.google.com/rss/articles/CBMi5wJBVV95cUxNaEFIT3EtOU1IbjlyOUFCZHJEQklpYXp1YmQ1b3FHd2I4OG91QlFJTEp0UEo2NVVaSXZvelEzRldPM003OHpBX0x3MERoVThXTjdxQlRrNDlvQ0VXWjkzZTFMaWVwSnVTNTJsYk5xUmFnY2hmTG5lTGtYSFpLbThyQkEyMTAycGRCdGZZcURzekI5ZWZZOGFJc0w1alh0M0tPanhpY0l2TFFaUDdQMndNUDZ1MjFFSm5OcjZscmFJNEVLd19aeHlHZXFwUUlEdnBPRVRiV2FleUItRGRKTzBMcnJyUGM0dVRGWHFOY0d4cTF6dVpXWjM5LVU3a1F6Q19GT21vQk1ibFNBNU1FQzkydXdwWWg3Ymg4dXptQ25wRzMzNFl2eVRGZWFaTHQ2TEVFN2l0bzlqNjFfN2xXeGt1QTkyUVdfNjAxTmozTmdIajdsb1V0QkgwVGhmZFJaeU9KZWc4Rk0ycw?oc=5)
 
