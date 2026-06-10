@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-10T14:22:11.885584+00:00",
-  "count": 14,
+  "fetched_at": "2026-06-10T17:52:09.277631+00:00",
+  "count": 15,
   "news": [
     {
       "id": "e2882cc93dee",
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "4b225ba4a719",
-      "title": "HPV防治：向消除HPV相關癌症邁進！九價疫苗為何重要？專家揭臺灣流行型別差異 - PChome Online 新聞",
-      "published": "2026-06-10T05:44:51+00:00",
-      "summary": "HPV防治：向消除HPV相關癌症邁進！九價疫苗為何重要？專家揭臺灣流行型別差異&nbsp;&nbsp;PChome Online 新聞HPV防治進入新階段：台灣擴大男女公費接種 專家：疫苗＋篩檢應雙軌並進&nbsp;&nbsp;Taiwan News沒性生活也中鏢！HPV「初期0症狀」 醫曝傳染真相&nbsp;&nbsp;祝你健康正視HPV風險 強化男性防護意識&nbsp;&nbsp;香港文匯網社交平台流行「曬針卡」、「曬報告」 惟男士HPV疫苗意識仍低&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbFFlZVdaN25TeXhVdE9GRHc3R09mRWRhcGw5VTJLQXJBdmpCRGpxdDRURDNPemNncnlaZW1QeXhCYURCM0lQa3VZVTlGRmJEZFFvQ09VRlZQSUgzYUw3Ukc2RWozV3VZRzFpSi1NRFRXdHFOU0ItSm4tWUVZTU8xNDVOaWllUVFIVk9MLUdVUFFKX1U?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7d7f989133f2",
       "title": "潘懷宗／不用再狂噴酒精消毒！奈米柱抗病毒技術 未來環境可望自動防疫 - 元氣網",
       "published": "2026-06-09T03:16:49+00:00",
@@ -60,6 +48,18 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kZk00aWlIMS1fOVVwS2ZudlFUWG5KVjBnVjcwYmJrUmpvZkoyNXJyeXVDRGl3RUl2bmxLU2ZJRFkyZmpmYTdDcFF6bnhrTjlYY1dleHFvNmFQR2VV0gFiQVVfeXFMUEVlZlVnRmVxd2FxSHVhY0RpTDdIdGI2STFSNVlwLTY2WE1tS0c0TFVzS1NMUnNHNHdVVkhIMnFBT0FIZUNFV3Q5UWVQZEtXaXB1eVk5RGI1dXZ1ZUFrVlE1ZlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4b225ba4a719",
+      "title": "HPV防治：向消除HPV相關癌症邁進！九價疫苗為何重要？專家揭臺灣流行型別差異 - PChome Online 新聞",
+      "published": "2026-06-10T05:44:51+00:00",
+      "summary": "HPV防治：向消除HPV相關癌症邁進！九價疫苗為何重要？專家揭臺灣流行型別差異&nbsp;&nbsp;PChome Online 新聞HPV防治進入新階段：台灣擴大男女公費接種 專家：疫苗＋篩檢應雙軌並進&nbsp;&nbsp;Taiwan News沒性生活也中鏢！HPV「初期0症狀」 醫曝傳染真相&nbsp;&nbsp;祝你健康正視HPV風險 強化男性防護意識&nbsp;&nbsp;香港文匯網社交平台流行「曬針卡」、「曬報告」 惟男士HPV疫苗意識仍低&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbFFlZVdaN25TeXhVdE9GRHc3R09mRWRhcGw5VTJLQXJBdmpCRGpxdDRURDNPemNncnlaZW1QeXhCYURCM0lQa3VZVTlGRmJEZFFvQ09VRlZQSUgzYUw3Ukc2RWozV3VZRzFpSi1NRFRXdHFOU0ItSm4tWUVZTU8xNDVOaWllUVFIVk9MLUdVUFFKX1U?oc=5"
         }
       ]
     },
@@ -88,13 +88,13 @@
       ]
     },
     {
-      "id": "19babf5dc5b4",
-      "title": "長期刷短視頻恐傷腦 研究： 碎片化觀看或削弱記憶與專注力 - bastillepost.com",
+      "id": "4b4dbea662e5",
+      "title": "長期刷短視頻恐傷腦 研究： 碎片化觀看或削弱記憶與專注力 - 巴士的報",
       "published": "2026-06-08T23:00:01+00:00",
-      "summary": "長期刷短視頻恐傷腦 研究： 碎片化觀看或削弱記憶與專注力&nbsp;&nbsp;bastillepost.com",
+      "summary": "長期刷短視頻恐傷腦 研究： 碎片化觀看或削弱記憶與專注力&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQMFFXMlJRM3A4MHdHX3U4Y2x4N3cxN3BuaWxYTDRnWDRYa2k5QnhTQWRqM2FjNy1SbmRyX0E0WGZLV3E1TlZrU0dod3ZKWnNZZW5WSndhVVlzWDd3SGh3cGdPb2Z4bnhFUmkxSlN1MmtOYTRVZEVMRTdsOUl0S0pEMFVmVXVQTFFNeVE4a1hJZVZvWm1lSG1vcWxCcjFRQ0MtX1pZNzh5SFZMTEJ1VVlCdmVNR3lWWUVRQldvSXBJMnlFWmt5NTdwZkptUUhuUS1rcTZjWXBYVzNqc0pfbnBsQWlYa1hrTm12REVEWWJtSHVEdXQxeEZRTE9CaW9Wc3lBUUpScTFBTDR2U2ZocWxkelc5dlJUYzlxNGRiUUh4MTlQN1RvM3lJOC03NVpmN041NFpvMlJYTWg2U0JfLWVRQ3VKZ0llX28ta3Y1R2prT2Y3T2FUS1B2aEdSME9YaUZZRzUxa25saUtudWw4RU5N?oc=5"
         }
       ]
@@ -168,6 +168,18 @@
         {
           "name": "etnet 經濟通",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PdHE2Z1R4dU5Vcmd5blhmNC1sWFU2WVlqOEZzY1FOYmRzNXNvWjZCOUZFdHB4TWhzMG1uWUZZWFJvX1d4eFNscDhYTTUxZWlxQkhkS3FsY0o?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6c3d34779d02",
+      "title": "美亞舉辦 乳腺健康教育講座 - Singtaousa",
+      "published": "2026-06-09T10:00:00+00:00",
+      "summary": "美亞舉辦 乳腺健康教育講座&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96QXlBdXU5d0wtZkRhWFdEWUxOUThKWW9PdUpkMkNpamFlQm5IVm9vSVpmOWJRTDZ5Nzd6WFh2ZlJ4V2NiRDlWSmZwYjVHRE5oTUVHX04wYTVpVzNfWVUtbk9FbkdpS2hhMzQ1X3ROcmU2YU03UEtvTU9BUHlvQ0U?oc=5"
         }
       ]
     }
