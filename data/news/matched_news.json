@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-06-11T18:07:07.332972+00:00",
-  "total_count": 11,
+  "last_updated": "2026-06-11T21:13:01.759918+00:00",
+  "total_count": 12,
   "matched_count": 1,
   "news": [
+    {
+      "id": "2e12725b4605",
+      "title": "7成寶寶1歲前感染過！RSV對寶寶影響有多大？醫完整解析",
+      "published": "2026-06-11T18:00:00+00:00",
+      "summary": "7成寶寶1歲前感染過！RSV對寶寶影響有多大？醫完整解析&nbsp;&nbsp;民視新聞網預防嬰幼兒感染RSV釀重症！ 醫揭重點族群與預防策略&nbsp;&nbsp;Yahoo新聞7成寶寶1歲前感染過！RSV對寶寶影響有多大？醫完整解析 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞【醫生專欄】聽見 BB 呼吸「殊殊聲」？拆解 RSV 威脅與「預防性抗體」新突破&nbsp;&nbsp;Sundaykiss",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lWXlCVTRidUhxQlRtOHpwdUdPaTZ0WVJGWUNmT1l4MHpmQ01ROWpWbzVRUWY3ZmExbGR1emRRU3Q5cnJYbkFzRDJxZ3g1NC1mbUJQa3A0MkU4VW9ESk1iLQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "1d8e847e143c",
       "title": "健康新視界》科學家成功讓老化造血幹細胞重現年輕特徵（潘懷宗）",
@@ -12,19 +25,6 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YSkY3UTZRYUJYRFFLazFQbEF6NE9PNk10UEFpUTBiRGpzT2J0dEUxU2wtYlA4bG5VRDZRN3E1ZmNRSU9LRld2eXFRelkyX1Y4UF9RX1Q4a0J0bXJDSlVFZzFibEhUYnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5fdaafc19c6f",
-      "title": "預防嬰幼兒感染RSV釀重症！ 醫揭重點族群與預防策略",
-      "published": "2026-06-11T16:00:00+00:00",
-      "summary": "預防嬰幼兒感染RSV釀重症！ 醫揭重點族群與預防策略&nbsp;&nbsp;民視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xNVJzdDMwMHVXMk5SY3Q3TERUOUdodU9JTThLcTd0b0lwMkVhQWJfdzNKVy1jTDRHb3VHZXZ1SWxLS0NnWGtWa3RIMjFxQmJqQzNhOVIxbV9XLWQ1WEN4aw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -43,27 +43,27 @@
       "matched_keywords": []
     },
     {
-      "id": "4a2d513176e2",
+      "id": "5da432ea8e4a",
       "title": "研究揭老化關鍵｜ 每天一顆維生素真能變年輕？ | 老化 | 研究 | 年輕",
-      "published": "2026-06-11T12:16:01+00:00",
+      "published": "2026-06-11T13:05:32+00:00",
       "summary": "研究揭老化關鍵｜ 每天一顆維生素真能變年輕？ | 老化 | 研究 | 年輕&nbsp;&nbsp;台灣大紀元",
       "sources": [
         {
           "name": "台灣大紀元",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPbUVDajJKVEZacm94RGwyQWVHOHJJNGJuX2xZRGpNSW5lQlprYUU0YlBzbU9qM1V0ZHRmY3RJOWNGdjJyaEdkRVlLNnNrWVdSZ25NbWtlLVJFdXY2Z3FxZ2xfWUhwY0IzOEoySjREYlI2WHBIR2o2OWtaZWpiWE9kOEdZOGxERVpLSVhHSV8tSjBmbG85WFJFb25BaTI2dEMzN05xeExhYW1RdzJSRVNwU0R3NHUySUZsNmdTSmN6NXFvOGJTYlZiTXpPblFJU0U2eTZ1U1NmSjZ2OUpjNGZZN1FJQUxXcUVna1hJS0dSSXFTdFhjRkljTGNwTXVVNTRIWkVKaF9zM29ZVE1DTnFFVFVWUGh4V19FdG1uTjJxWm04YmxmOGZUY3hTbzFrTmswaUwycEtDTmpWc1RLbGtsTXdtTS1mczh5YzBXa0hocktIdEt3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPVDBScDJaWmIzM0F0Si1QendSci1BSXBYN3J1TjJFYzVCMmxfUV9JbEx1VnktYktmaHowZVI4UURaSDVuYktyeXVSNnlpbXFQZGRNSlBIM1h0ZllEU216S2pNT1BCX1g4YTd0bzljaXZ5REJYUm5wcTA4NTRVeC0tb1FPb01vdjI4Q3JtNTU2ZWRFMVJUR3VuY0RvMlBpQi1pM0RBek1BZnZCX2dBTjFaUUt1MFpDU2dHd2JSQ2h1Q3d4QmpIbnBaazYyQmh0SXBaaFF0MW9RNFB3cTB1M3F2Y3U2V3NXbnNLSnlzZ3p6d2Z0OGZPd1F1cXdOMVV5TlFsVHc3WTJqc2dDc000UHlQZGFGb1kwMThONDIybEZtWHRRN295bDMxUkw5UEhteThpMzR5TUNSZWs2OE9MTldNdDUwUF9XbjVfZlk3clNKOFhSZy1iUEE?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "db654b226c04",
-      "title": "HPV潛伏期長達20年！9成感染者「零病徵」｜專家拆解HPV迷思 倡兩性定期篩查共擔健康",
-      "published": "2026-06-11T07:59:52+00:00",
-      "summary": "HPV潛伏期長達20年！9成感染者「零病徵」｜專家拆解HPV迷思 倡兩性定期篩查共擔健康&nbsp;&nbsp;healthyDHPV防治進入新階段：台灣擴大男女公費接種 專家：疫苗＋篩檢應雙軌並進&nbsp;&nbsp;Taiwan NewsHPV防治：向消除HPV相關癌症邁進！九價疫苗為何重要？專家揭臺灣流行型別差異&nbsp;&nbsp;PChome Online 新聞「子宮頸抹片」多久要做一次？有助於防治子宮頸癌嗎？&nbsp;&nbsp;104職場力研究指有性生活感染HPV高達8成 呼籲市民定期接受篩查&nbsp;&nbsp;on.cc東網",
+      "id": "37aa9e7b3943",
+      "title": "HPV疫苗問世20年醫籲接種篩檢建立家庭防護網| 生活 - 中央社 CNA",
+      "published": "2026-06-11T10:09:00+00:00",
+      "summary": "HPV疫苗問世20年醫籲接種篩檢建立家庭防護網| 生活&nbsp;&nbsp;中央社 CNAHPV防治進入新階段：台灣擴大男女公費接種 專家：疫苗＋篩檢應雙軌並進&nbsp;&nbsp;Taiwan NewsHPV防治：向消除HPV相關癌症邁進！九價疫苗為何重要？專家揭臺灣流行型別差異&nbsp;&nbsp;PChome Online 新聞「子宮頸抹片」多久要做一次？有助於防治子宮頸癌嗎？&nbsp;&nbsp;104職場力HPV威脅不分男女！口咽癌佔近3成 醫籲共同接種疫苗&nbsp;&nbsp;翻爆",
       "sources": [
         {
-          "name": "healthyD",
-          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQUEFiVy1iRkozaXhaS0VqcGQ0ZnUzTTY0aFVYbVIyYUIwbXUyTk4tTklZTFVFZng0NUtVc1ZXLUxsVWFHVDllUEIzRkxqc3h0WElQUWE5ZzZIaXVRall1YnhOZ2VYSU55MnZwRlBoandhUXhHd3gyZkY3YWNMRDYwVnhySTNUXzhHTFhZU3ZDY2NJdW5oTUpSbFRzTFhiR2NYSEstaWhxbWZfZ3YwOEZjWUNNRXJZZE90UHI0VGh5Z1Z3QnlqbWNtUFZjckx6ZFRSdGttdjVqT1hwQWdLTkgxRjdTQ21KRVBSbTBUdTlQRTRZaVN1MEpRR01NaGRlZkZBV2k4WUhGNm5kUFo0dUFaWXdsUmdJNHktMTJRUmRQRzdKTTdRcnZ5dEMtcVZKdjk5RlNjM25nTG1uYXFuZXl1eU9B?oc=5"
+          "name": "中央社 CNA",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LSlo2clpFS2xxS1YxTjZwa3J3MDRQaG45Mi01TXRIN3RtdndFdF9oS1BDYlM5RnBlNHFNdUE0UGhZZXNiOVRWY1FBQXFYRWxGTExkNEgwQnhUQm9lb0tJ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -349,6 +349,19 @@
         {
           "name": "力報",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BY3hzcTlsazZYZDdVRmluckxmM1AxS2Z4Y2V4VVNWdVJrVGd6bndnSnFleWE3QlVhTDNxUlNZT1EybjdLUEt0dk93bVZoWDE0Um1R?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "973a45186195",
+      "title": "【名家專欄】過度醫療 危害美國公共健康",
+      "published": "2026-06-09T21:17:00+00:00",
+      "summary": "【名家專欄】過度醫療 危害美國公共健康&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tQzNIQUJxakV2WWF1N1RUdHR0WnpiLWQzbV85VGdSaXlGOUNuUEhhdnlfTHM2ZkR0cHhyM2xiZHpKeXB4Vlh0cDBkY1dMMzAtd3hoclA2XzVvUW50Wk1Z0gFkQVVfeXFMT1R6UGpmN0xvRnQxUll4X21XRTZTMkFITGhuT1pOQnZ5dVpvOWRaZDkweDJZc01jYURrZGQ0aFR4azMtS1JVM19OOWZjS2cxcGVKZW5HTWR6VDdMcDZTbFFHbktTcA?oc=5"
         }
       ],
       "matched_keywords": []
