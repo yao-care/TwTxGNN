@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,13 +75,21 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [HPV防治：向消除HPV相關癌症邁進！九價疫苗為何重要？專家揭臺灣流行型別差異 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxPbFFlZVdaN25TeXhVdE9GRHc3R09mRWRhcGw5VTJLQXJBdmpCRGpxdDRURDNPemNncnlaZW1QeXhCYURCM0lQa3VZVTlGRmJEZFFvQ09VRlZQSUgzYUw3Ukc2RWozV3VZRzFpSi1NRFRXdHFOU0ItSm4tWUVZTU8xNDVOaWllUVFIVk9MLUdVUFFKX1U?oc=5)
+### [為何有些癌症特別凶猛？研究揪出關鍵：這類癌細胞竟然更小](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NRHdsRXFMT2NFaFpwdXBhRnROWG81MS1MV3B6VF9ERm5fWkVGUjVvWXJIeGVpVVZuSURHOE9KR3JoVHl4b21adEJVeHVrQUc3Q1ZxdnlILVVhLVQwUEd2NUlrdE_SAWpBVV95cUxQZU1qMTlUX09NZkpNY3Q3eVljR1VJbjZoR2NncEs5ZWczeGRyZWw0N3hGczRONW5nVHpmdHZ5VlpmN0RNV1Z6OW9tVFktRkFoRnNHS1dSNmdzd1VZbTFFd21fSENjNmRFczdn?oc=5)
+
+2026-06-11
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NRHdsRXFMT2NFaFpwdXBhRnROWG81MS1MV3B6VF9ERm5fWkVGUjVvWXJIeGVpVVZuSURHOE9KR3JoVHl4b21adEJVeHVrQUc3Q1ZxdnlILVVhLVQwUEd2NUlrdE_SAWpBVV95cUxQZU1qMTlUX09NZkpNY3Q3eVljR1VJbjZoR2NncEs5ZWczeGRyZWw0N3hGczRONW5nVHpmdHZ5VlpmN0RNV1Z6OW9tVFktRkFoRnNHS1dSNmdzd1VZbTFFd21fSENjNmRFczdn?oc=5)
+
+---
+
+### [HPV防治進入新階段：台灣擴大男女公費接種 專家：疫苗＋篩檢應雙軌並進 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LT0VtVlNpcHlneXY1a3F2MjVHTXd5VTVOcXFMTUxOeGR4c2o1REFVR3RKdWlBdF9ZUVV1eUJZNVRZdnhobUxNYjg1bUpQbDF5T1UtWWlCUWQ?oc=5)
 
 2026-06-10
 
-來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxPbFFlZVdaN25TeXhVdE9GRHc3R09mRWRhcGw5VTJLQXJBdmpCRGpxdDRURDNPemNncnlaZW1QeXhCYURCM0lQa3VZVTlGRmJEZFFvQ09VRlZQSUgzYUw3Ukc2RWozV3VZRzFpSi1NRFRXdHFOU0ItSm4tWUVZTU8xNDVOaWllUVFIVk9MLUdVUFFKX1U?oc=5)
+來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LT0VtVlNpcHlneXY1a3F2MjVHTXd5VTVOcXFMTUxOeGR4c2o1REFVR3RKdWlBdF9ZUVV1eUJZNVRZdnhobUxNYjg1bUpQbDF5T1UtWWlCUWQ?oc=5)
 
 ---
 

@@ -1,43 +1,15 @@
 {
-  "generated": "2026-06-11T00:09:32.006312+00:00",
+  "generated": "2026-06-11T05:22:02.553059+00:00",
   "count": 2,
   "news": [
     {
-      "id": "26fd83e9180b",
-      "title": "卵巢癌腹脹飽滯易跟腸胃不適混淆？ 30歲以下患者多屬生殖細胞癌 切除單側卵巢保生育能力",
-      "published": "2026-06-10T06:53:07+00:00",
+      "id": "63cdda417e53",
+      "title": "為何有些癌症特別凶猛？研究揪出關鍵：這類癌細胞竟然更小",
+      "published": "2026-06-11T04:07:00+00:00",
       "sources": [
         {
-          "name": "明報健康網",
-          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOaE9wOHdLcjBPdkpNcFR5WXpVUXNXVm9rT29FRUZ4ZW1GT2s4RzBaWWVseTNnRzRfZ3Y0QU0zZi0wRTd4eHRXTjk0cWpiY2U4aHVDX0dQVkZGS1JHaDBsMnExck4tQ3NQSEJFRHRhS0c4alliV2syZ1RHamhQbzdqQ2hPbFhzdzFYWTNUa05DYnhYTkJsTGhYb21iMlk0cElOVE94ZlQwQTFfMUJLclVZQzVLVGRQd1R0VTRiV05PQU8tX1pMSmNPalFnb05QVlYwMEZ4V3JOY0xmU2lLdmFmWEdHcEx5ZEdqVS1pZnUwSXRmZS1VMmRZZHVBeWRXSzNOUjFDRjUyWnp3dTZ4VkJzNzhtQWZUMXNsNG9MX1lOYTJ0MHRjdXBTcWIzZjQ2QjJTb2RNcU5rNlNGdXdSVTVyT3N3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "卵巢癌",
-          "keyword": "卵巢癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4b225ba4a719",
-      "title": "HPV防治：向消除HPV相關癌症邁進！九價疫苗為何重要？專家揭臺灣流行型別差異 - PChome Online 新聞",
-      "published": "2026-06-10T05:44:51+00:00",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbFFlZVdaN25TeXhVdE9GRHc3R09mRWRhcGw5VTJLQXJBdmpCRGpxdDRURDNPemNncnlaZW1QeXhCYURCM0lQa3VZVTlGRmJEZFFvQ09VRlZQSUgzYUw3Ukc2RWozV3VZRzFpSi1NRFRXdHFOU0ItSm4tWUVZTU8xNDVOaWllUVFIVk9MLUdVUFFKX1U?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NRHdsRXFMT2NFaFpwdXBhRnROWG81MS1MV3B6VF9ERm5fWkVGUjVvWXJIeGVpVVZuSURHOE9KR3JoVHl4b21adEJVeHVrQUc3Q1ZxdnlILVVhLVQwUEd2NUlrdE_SAWpBVV95cUxQZU1qMTlUX09NZkpNY3Q3eVljR1VJbjZoR2NncEs5ZWczeGRyZWw0N3hGczRONW5nVHpmdHZ5VlpmN0RNV1Z6OW9tVFktRkFoRnNHS1dSNmdzd1VZbTFFd21fSENjNmRFczdn?oc=5"
         }
       ],
       "keywords": [
@@ -233,6 +205,225 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d435ec57434a",
+      "title": "HPV防治進入新階段：台灣擴大男女公費接種 專家：疫苗＋篩檢應雙軌並進 - Taiwan News",
+      "published": "2026-06-10T02:39:00+00:00",
+      "sources": [
+        {
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LT0VtVlNpcHlneXY1a3F2MjVHTXd5VTVOcXFMTUxOeGR4c2o1REFVR3RKdWlBdF9ZUVV1eUJZNVRZdnhobUxNYjg1bUpQbDF5T1UtWWlCUWQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
             }
           ]
         }
