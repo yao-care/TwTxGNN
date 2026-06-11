@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-10T22:47:43.669980+00:00",
-  "count": 15,
+  "fetched_at": "2026-06-11T00:09:27.160069+00:00",
+  "count": 13,
   "news": [
     {
       "id": "e2882cc93dee",
@@ -55,7 +55,7 @@
       "id": "4b225ba4a719",
       "title": "HPV防治：向消除HPV相關癌症邁進！九價疫苗為何重要？專家揭臺灣流行型別差異 - PChome Online 新聞",
       "published": "2026-06-10T05:44:51+00:00",
-      "summary": "HPV防治：向消除HPV相關癌症邁進！九價疫苗為何重要？專家揭臺灣流行型別差異&nbsp;&nbsp;PChome Online 新聞HPV防治進入新階段：台灣擴大男女公費接種 專家：疫苗＋篩檢應雙軌並進&nbsp;&nbsp;Taiwan News沒性生活也中鏢！HPV「初期0症狀」 醫曝傳染真相&nbsp;&nbsp;祝你健康正視HPV風險 強化男性防護意識&nbsp;&nbsp;香港文匯網社交平台流行「曬針卡」、「曬報告」 惟男士HPV疫苗意識仍低&nbsp;&nbsp;香港01",
+      "summary": "HPV防治：向消除HPV相關癌症邁進！九價疫苗為何重要？專家揭臺灣流行型別差異&nbsp;&nbsp;PChome Online 新聞HPV防治進入新階段：台灣擴大男女公費接種 專家：疫苗＋篩檢應雙軌並進&nbsp;&nbsp;Taiwan NewsHPV威脅不分男女！口咽癌佔近3成醫籲共同接種疫苗- 生活&nbsp;&nbsp;工商時報沒性生活也中鏢！HPV「初期0症狀」 醫曝傳染真相&nbsp;&nbsp;祝你健康正視HPV風險 強化男性防護意識&nbsp;&nbsp;香港文匯網",
       "sources": [
         {
           "name": "PChome Online 新聞",
@@ -148,18 +148,6 @@
       ]
     },
     {
-      "id": "055ab4eb1cf9",
-      "title": "性病傳播｜HPV播毒渣男惹恐慌，共用健身器材會否感染？醫生拆解迷思 - etnet 經濟通",
-      "published": "2026-06-09T10:23:14+00:00",
-      "summary": "性病傳播｜HPV播毒渣男惹恐慌，共用健身器材會否感染？醫生拆解迷思&nbsp;&nbsp;etnet 經濟通",
-      "sources": [
-        {
-          "name": "etnet 經濟通",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PdHE2Z1R4dU5Vcmd5blhmNC1sWFU2WVlqOEZzY1FOYmRzNXNvWjZCOUZFdHB4TWhzMG1uWUZZWFJvX1d4eFNscDhYTTUxZWlxQkhkS3FsY0o?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6c3d34779d02",
       "title": "美亞舉辦 乳腺健康教育講座 - Singtaousa",
       "published": "2026-06-09T10:00:00+00:00",
@@ -168,18 +156,6 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96QXlBdXU5d0wtZkRhWFdEWUxOUThKWW9PdUpkMkNpamFlQm5IVm9vSVpmOWJRTDZ5Nzd6WFh2ZlJ4V2NiRDlWSmZwYjVHRE5oTUVHX04wYTVpVzNfWVUtbk9FbkdpS2hhMzQ1X3ROcmU2YU03UEtvTU9BUHlvQ0U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4b4dbea662e5",
-      "title": "長期刷短視頻恐傷腦 研究： 碎片化觀看或削弱記憶與專注力 - 巴士的報",
-      "published": "2026-06-08T23:00:01+00:00",
-      "summary": "長期刷短視頻恐傷腦 研究： 碎片化觀看或削弱記憶與專注力&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQMFFXMlJRM3A4MHdHX3U4Y2x4N3cxN3BuaWxYTDRnWDRYa2k5QnhTQWRqM2FjNy1SbmRyX0E0WGZLV3E1TlZrU0dod3ZKWnNZZW5WSndhVVlzWDd3SGh3cGdPb2Z4bnhFUmkxSlN1MmtOYTRVZEVMRTdsOUl0S0pEMFVmVXVQTFFNeVE4a1hJZVZvWm1lSG1vcWxCcjFRQ0MtX1pZNzh5SFZMTEJ1VVlCdmVNR3lWWUVRQldvSXBJMnlFWmt5NTdwZkptUUhuUS1rcTZjWXBYVzNqc0pfbnBsQWlYa1hrTm12REVEWWJtSHVEdXQxeEZRTE9CaW9Wc3lBUUpScTFBTDR2U2ZocWxkelc5dlJUYzlxNGRiUUh4MTlQN1RvM3lJOC03NVpmN041NFpvMlJYTWg2U0JfLWVRQ3VKZ0llX28ta3Y1R2prT2Y3T2FUS1B2aEdSME9YaUZZRzUxa25saUtudWw4RU5N?oc=5"
         }
       ]
     }
