@@ -1,21 +1,8 @@
 {
-  "last_updated": "2026-06-11T21:13:01.759918+00:00",
-  "total_count": 12,
+  "last_updated": "2026-06-11T23:15:18.375189+00:00",
+  "total_count": 11,
   "matched_count": 1,
   "news": [
-    {
-      "id": "2e12725b4605",
-      "title": "7成寶寶1歲前感染過！RSV對寶寶影響有多大？醫完整解析",
-      "published": "2026-06-11T18:00:00+00:00",
-      "summary": "7成寶寶1歲前感染過！RSV對寶寶影響有多大？醫完整解析&nbsp;&nbsp;民視新聞網預防嬰幼兒感染RSV釀重症！ 醫揭重點族群與預防策略&nbsp;&nbsp;Yahoo新聞7成寶寶1歲前感染過！RSV對寶寶影響有多大？醫完整解析 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞【醫生專欄】聽見 BB 呼吸「殊殊聲」？拆解 RSV 威脅與「預防性抗體」新突破&nbsp;&nbsp;Sundaykiss",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lWXlCVTRidUhxQlRtOHpwdUdPaTZ0WVJGWUNmT1l4MHpmQ01ROWpWbzVRUWY3ZmExbGR1emRRU3Q5cnJYbkFzRDJxZ3g1NC1mbUJQa3A0MkU4VW9ESk1iLQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
     {
       "id": "1d8e847e143c",
       "title": "健康新視界》科學家成功讓老化造血幹細胞重現年輕特徵（潘懷宗）",
@@ -25,6 +12,19 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YSkY3UTZRYUJYRFFLazFQbEF6NE9PNk10UEFpUTBiRGpzT2J0dEUxU2wtYlA4bG5VRDZRN3E1ZmNRSU9LRld2eXFRelkyX1Y4UF9RX1Q4a0J0bXJDSlVFZzFibEhUYnc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5fdaafc19c6f",
+      "title": "預防嬰幼兒感染RSV釀重症！ 醫揭重點族群與預防策略",
+      "published": "2026-06-11T16:00:00+00:00",
+      "summary": "預防嬰幼兒感染RSV釀重症！ 醫揭重點族群與預防策略&nbsp;&nbsp;民視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xNVJzdDMwMHVXMk5SY3Q3TERUOUdodU9JTThLcTd0b0lwMkVhQWJfdzNKVy1jTDRHb3VHZXZ1SWxLS0NnWGtWa3RIMjFxQmJqQzNhOVIxbV9XLWQ1WEN4aw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -349,19 +349,6 @@
         {
           "name": "力報",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BY3hzcTlsazZYZDdVRmluckxmM1AxS2Z4Y2V4VVNWdVJrVGd6bndnSnFleWE3QlVhTDNxUlNZT1EybjdLUEt0dk93bVZoWDE0Um1R?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "973a45186195",
-      "title": "【名家專欄】過度醫療 危害美國公共健康",
-      "published": "2026-06-09T21:17:00+00:00",
-      "summary": "【名家專欄】過度醫療 危害美國公共健康&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tQzNIQUJxakV2WWF1N1RUdHR0WnpiLWQzbV85VGdSaXlGOUNuUEhhdnlfTHM2ZkR0cHhyM2xiZHpKeXB4Vlh0cDBkY1dMMzAtd3hoclA2XzVvUW50Wk1Z0gFkQVVfeXFMT1R6UGpmN0xvRnQxUll4X21XRTZTMkFITGhuT1pOQnZ5dVpvOWRaZDkweDJZc01jYURrZGQ0aFR4azMtS1JVM19OOWZjS2cxcGVKZW5HTWR6VDdMcDZTbFFHbktTcA?oc=5"
         }
       ],
       "matched_keywords": []
