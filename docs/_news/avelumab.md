@@ -44,11 +44,11 @@ permalink: /news/avelumab/
 
 ## 相關新聞（1 則）
 
-### [HPV防治進入新階段：台灣擴大男女公費接種 專家：疫苗＋篩檢應雙軌並進 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LT0VtVlNpcHlneXY1a3F2MjVHTXd5VTVOcXFMTUxOeGR4c2o1REFVR3RKdWlBdF9ZUVV1eUJZNVRZdnhobUxNYjg1bUpQbDF5T1UtWWlCUWQ?oc=5)
+### [HPV疫苗問世20年 醫籲接種篩檢建立家庭防護網](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSTVB5U0k0clRDdDN1Ylo2TVl1MjNFZXBaTl8yU01PWjFjMXMxb3dJeDJ3UWxXLUFQZUQyTXFlZFFnczdkRGJlalVQcDhkNHNQ?oc=5)
 
-2026-06-10 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+2026-06-11 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
 
-來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LT0VtVlNpcHlneXY1a3F2MjVHTXd5VTVOcXFMTUxOeGR4c2o1REFVR3RKdWlBdF9ZUVV1eUJZNVRZdnhobUxNYjg1bUpQbDF5T1UtWWlCUWQ?oc=5)
+來源：[UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSTVB5U0k0clRDdDN1Ylo2TVl1MjNFZXBaTl8yU01PWjFjMXMxb3dJeDJ3UWxXLUFQZUQyTXFlZFFnczdkRGJlalVQcDhkNHNQ?oc=5)
 
 ---
 
