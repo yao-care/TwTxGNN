@@ -43,11 +43,11 @@ permalink: /news/atezolizumab/
 
 ## 相關新聞（1 則）
 
-### [HPV疫苗問世20年醫籲接種篩檢建立家庭防護網| 生活 - 中央社 CNA](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LSlo2clpFS2xxS1YxTjZwa3J3MDRQaG45Mi01TXRIN3RtdndFdF9oS1BDYlM5RnBlNHFNdUE0UGhZZXNiOVRWY1FBQXFYRWxGTExkNEgwQnhUQm9lb0tJ?oc=5)
+### [HPV疫苗問世20年 醫籲接種篩檢建立家庭防護網](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSTVB5U0k0clRDdDN1Ylo2TVl1MjNFZXBaTl8yU01PWjFjMXMxb3dJeDJ3UWxXLUFQZUQyTXFlZFFnczdkRGJlalVQcDhkNHNQ?oc=5)
 
 2026-06-11 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
 
-來源：[中央社 CNA](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LSlo2clpFS2xxS1YxTjZwa3J3MDRQaG45Mi01TXRIN3RtdndFdF9oS1BDYlM5RnBlNHFNdUE0UGhZZXNiOVRWY1FBQXFYRWxGTExkNEgwQnhUQm9lb0tJ?oc=5)
+來源：[UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSTVB5U0k0clRDdDN1Ylo2TVl1MjNFZXBaTl8yU01PWjFjMXMxb3dJeDJ3UWxXLUFQZUQyTXFlZFFnczdkRGJlalVQcDhkNHNQ?oc=5)
 
 ---
 

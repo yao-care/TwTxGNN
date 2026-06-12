@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-11T23:15:13.487357+00:00",
-  "count": 11,
+  "fetched_at": "2026-06-12T02:42:02.599072+00:00",
+  "count": 10,
   "news": [
-    {
-      "id": "1d8e847e143c",
-      "title": "健康新視界》科學家成功讓老化造血幹細胞重現年輕特徵（潘懷宗） - 中時新聞網",
-      "published": "2026-06-11T16:59:53+00:00",
-      "summary": "健康新視界》科學家成功讓老化造血幹細胞重現年輕特徵（潘懷宗）&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YSkY3UTZRYUJYRFFLazFQbEF6NE9PNk10UEFpUTBiRGpzT2J0dEUxU2wtYlA4bG5VRDZRN3E1ZmNRSU9LRld2eXFRelkyX1Y4UF9RX1Q4a0J0bXJDSlVFZzFibEhUYnc?oc=5"
-        }
-      ]
-    },
     {
       "id": "e2882cc93dee",
       "title": "被AI進入身體！史上首次劍橋大學「AI疫苗」人體試驗 有望終結病毒突變 - Yahoo新聞",
@@ -28,26 +16,38 @@
       ]
     },
     {
-      "id": "5fdaafc19c6f",
-      "title": "預防嬰幼兒感染RSV釀重症！ 醫揭重點族群與預防策略 - 民視新聞網",
-      "published": "2026-06-11T16:00:00+00:00",
-      "summary": "預防嬰幼兒感染RSV釀重症！ 醫揭重點族群與預防策略&nbsp;&nbsp;民視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "1d8e847e143c",
+      "title": "健康新視界》科學家成功讓老化造血幹細胞重現年輕特徵（潘懷宗） - 中時新聞網",
+      "published": "2026-06-11T16:59:53+00:00",
+      "summary": "健康新視界》科學家成功讓老化造血幹細胞重現年輕特徵（潘懷宗）&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xNVJzdDMwMHVXMk5SY3Q3TERUOUdodU9JTThLcTd0b0lwMkVhQWJfdzNKVy1jTDRHb3VHZXZ1SWxLS0NnWGtWa3RIMjFxQmJqQzNhOVIxbV9XLWQ1WEN4aw?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YSkY3UTZRYUJYRFFLazFQbEF6NE9PNk10UEFpUTBiRGpzT2J0dEUxU2wtYlA4bG5VRDZRN3E1ZmNRSU9LRld2eXFRelkyX1Y4UF9RX1Q4a0J0bXJDSlVFZzFibEhUYnc?oc=5"
         }
       ]
     },
     {
-      "id": "37aa9e7b3943",
-      "title": "HPV疫苗問世20年醫籲接種篩檢建立家庭防護網| 生活 - 中央社 CNA",
-      "published": "2026-06-11T10:09:00+00:00",
-      "summary": "HPV疫苗問世20年醫籲接種篩檢建立家庭防護網| 生活&nbsp;&nbsp;中央社 CNAHPV防治進入新階段：台灣擴大男女公費接種 專家：疫苗＋篩檢應雙軌並進&nbsp;&nbsp;Taiwan NewsHPV防治：向消除HPV相關癌症邁進！九價疫苗為何重要？專家揭臺灣流行型別差異&nbsp;&nbsp;PChome Online 新聞「子宮頸抹片」多久要做一次？有助於防治子宮頸癌嗎？&nbsp;&nbsp;104職場力HPV威脅不分男女！口咽癌佔近3成 醫籲共同接種疫苗&nbsp;&nbsp;翻爆",
+      "id": "ebcb3a4f5119",
+      "title": "HPV疫苗問世20年 醫籲接種篩檢建立家庭防護網 - UDN",
+      "published": "2026-06-11T11:02:31+00:00",
+      "summary": "HPV疫苗問世20年 醫籲接種篩檢建立家庭防護網&nbsp;&nbsp;UDNHPV防治進入新階段：台灣擴大男女公費接種 專家：疫苗＋篩檢應雙軌並進&nbsp;&nbsp;Taiwan NewsHPV防治：向消除HPV相關癌症邁進！九價疫苗為何重要？專家揭臺灣流行型別差異&nbsp;&nbsp;PChome Online 新聞「子宮頸抹片」多久要做一次？有助於防治子宮頸癌嗎？&nbsp;&nbsp;104職場力HPV不只女生要打！男性「1癌」發生率已超車子宮頸癌&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
-          "name": "中央社 CNA",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LSlo2clpFS2xxS1YxTjZwa3J3MDRQaG45Mi01TXRIN3RtdndFdF9oS1BDYlM5RnBlNHFNdUE0UGhZZXNiOVRWY1FBQXFYRWxGTExkNEgwQnhUQm9lb0tJ?oc=5"
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSTVB5U0k0clRDdDN1Ylo2TVl1MjNFZXBaTl8yU01PWjFjMXMxb3dJeDJ3UWxXLUFQZUQyTXFlZFFnczdkRGJlalVQcDhkNHNQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1329bef54a36",
+      "title": "7成寶寶1歲前感染過！RSV對寶寶影響有多大？醫完整解析 - 蕃新聞",
+      "published": "2026-06-10T07:00:00+00:00",
+      "summary": "7成寶寶1歲前感染過！RSV對寶寶影響有多大？醫完整解析&nbsp;&nbsp;蕃新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwT2JZU0FfQ0ZibkZwWFNjQi1VYldldTBwdGFMUXRuZHp5cDhYc2dpY0RNMTUtelptMWFQSW1GTFYyUEIwQlJOT2pSX2lPbkg3M2c?oc=5"
         }
       ]
     },
@@ -100,18 +100,6 @@
       ]
     },
     {
-      "id": "b219c847d5d7",
-      "title": "聽醫生的話 年過40的人最好養成這個習慣 - 大纪元",
-      "published": "2026-06-10T08:16:00+00:00",
-      "summary": "聽醫生的話 年過40的人最好養成這個習慣&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4ZGFJNDlGSEh5cFYyR2ZZcXU5RGd3T2Y1R1huc0NvZWprdTRjOE55LWItVng4bzVzTVRTT2JoSnVEdXM1VHcyMkw1aXBPa3N2ZVFEdUtOUDN4R1VlZVVITdIBZkFVX3lxTE1oeGdEUUZreFB4X3h2OTljd1BuTUl5OE1FZWpVcmZEb3c1OWp2cWUxWm1NN09YeTNyNmllRlFhUk1RSmpwY24wbVdubTlnLWJ2TFlmdXBMSG5lSUNYQ2VBQWhzQnBwUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "eb221b317ac8",
       "title": "6ACOG首次發布孕產婦疫苗接種指引 - Singtaousa",
       "published": "2026-06-11T14:00:00+00:00",
@@ -124,14 +112,14 @@
       ]
     },
     {
-      "id": "2f93862764bf",
-      "title": "巨大脂肪瘤影響日常生活，醫生提醒：皮下腫塊持續增大應及早求診 - 力報",
-      "published": "2026-06-09T23:13:05+00:00",
-      "summary": "巨大脂肪瘤影響日常生活，醫生提醒：皮下腫塊持續增大應及早求診&nbsp;&nbsp;力報",
+      "id": "b219c847d5d7",
+      "title": "聽醫生的話 年過40的人最好養成這個習慣 - 大纪元",
+      "published": "2026-06-10T08:16:00+00:00",
+      "summary": "聽醫生的話 年過40的人最好養成這個習慣&nbsp;&nbsp;大纪元",
       "sources": [
         {
-          "name": "力報",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BY3hzcTlsazZYZDdVRmluckxmM1AxS2Z4Y2V4VVNWdVJrVGd6bndnSnFleWE3QlVhTDNxUlNZT1EybjdLUEt0dk93bVZoWDE0Um1R?oc=5"
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4ZGFJNDlGSEh5cFYyR2ZZcXU5RGd3T2Y1R1huc0NvZWprdTRjOE55LWItVng4bzVzTVRTT2JoSnVEdXM1VHcyMkw1aXBPa3N2ZVFEdUtOUDN4R1VlZVVITdIBZkFVX3lxTE1oeGdEUUZreFB4X3h2OTljd1BuTUl5OE1FZWpVcmZEb3c1OWp2cWUxWm1NN09YeTNyNmllRlFhUk1RSmpwY24wbVdubTlnLWJ2TFlmdXBMSG5lSUNYQ2VBQWhzQnBwUQ?oc=5"
         }
       ]
     }
