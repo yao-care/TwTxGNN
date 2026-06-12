@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-12T17:31:52.026931+00:00",
-  "count": 10,
+  "fetched_at": "2026-06-12T19:55:03.135288+00:00",
+  "count": 9,
   "news": [
     {
       "id": "b5a64a47ff98",
@@ -12,18 +12,6 @@
         {
           "name": "祝你健康",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJWjZYS1NTLWkxVDhWWUs4QTZjd0Q0ZkJZc1JvWnZZVlpWcWV4TlR1V09Rb1loTXVZQXRMMmtDSWl5NUhLV1YyREh2aGs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7a0bc4da7bf7",
-      "title": "研究：關節保健品葡萄糖胺 恐加速失智症惡化 - 民視新聞網",
-      "published": "2026-06-12T11:48:05+00:00",
-      "summary": "研究：關節保健品葡萄糖胺 恐加速失智症惡化&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5ZFhBTzNlbFBFNVdySzVZVmZRM2xNNllsT3oxVU1wb19YOXZjal9VWkRINmRnVURGUkVHeDRGVkFMMXVSSEQ4TEZTTkxnOGt1b1pDOEFoTW1BbjJ4OGZkTQ?oc=5"
         }
       ]
     },

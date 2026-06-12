@@ -1,42 +1,7 @@
 {
-  "generated": "2026-06-12T17:31:56.381485+00:00",
-  "count": 3,
+  "generated": "2026-06-12T19:55:07.019997+00:00",
+  "count": 2,
   "news": [
-    {
-      "id": "7a0bc4da7bf7",
-      "title": "研究：關節保健品葡萄糖胺 恐加速失智症惡化",
-      "published": "2026-06-12T11:48:05+00:00",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5ZFhBTzNlbFBFNVdySzVZVmZRM2xNNllsT3oxVU1wb19YOXZjal9VWkRINmRnVURGUkVHeDRGVkFMMXVSSEQ4TEZTTkxnOGt1b1pDOEFoTW1BbjJ4OGZkTQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "2390fca9ae50",
       "title": "PrEP讓親密關係更安心，但HPV更需要一起管理！從友善健康照護角度，重新理解「安全性行為」",
