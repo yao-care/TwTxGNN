@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-12T19:55:06.993486+00:00",
-  "total_count": 9,
-  "matched_count": 2,
+  "last_updated": "2026-06-12T21:25:05.886907+00:00",
+  "total_count": 10,
+  "matched_count": 3,
   "news": [
     {
       "id": "cf14f0600091",
@@ -15,6 +15,42 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "7a0bc4da7bf7",
+      "title": "研究：關節保健品葡萄糖胺 恐加速失智症惡化",
+      "published": "2026-06-12T11:48:05+00:00",
+      "summary": "研究：關節保健品葡萄糖胺 恐加速失智症惡化&nbsp;&nbsp;民視新聞網",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5ZFhBTzNlbFBFNVdySzVZVmZRM2xNNllsT3oxVU1wb19YOXZjal9VWkRINmRnVURGUkVHeDRGVkFMMXVSSEQ4TEZTTkxnOGt1b1pDOEFoTW1BbjJ4OGZkTQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "2390fca9ae50",
