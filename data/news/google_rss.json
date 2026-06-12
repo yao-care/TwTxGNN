@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-12T14:36:39.613210+00:00",
+  "fetched_at": "2026-06-12T17:31:52.026931+00:00",
   "count": 10,
   "news": [
     {
@@ -31,7 +31,7 @@
       "id": "2390fca9ae50",
       "title": "PrEP讓親密關係更安心，但HPV更需要一起管理！從友善健康照護角度，重新理解「安全性行為」 - 良醫健康網",
       "published": "2026-06-12T11:20:54+00:00",
-      "summary": "PrEP讓親密關係更安心，但HPV更需要一起管理！從友善健康照護角度，重新理解「安全性行為」&nbsp;&nbsp;良醫健康網有性生活感染HPV機會達八成 非濫交亦會中招&nbsp;&nbsp;YahooHPV防治進入新階段：台灣擴大男女公費接種 專家：疫苗＋篩檢應雙軌並進&nbsp;&nbsp;Taiwan News「子宮頸抹片」多久要做一次？有助於防治子宮頸癌嗎？&nbsp;&nbsp;104職場力HPV潛伏期長達20年！9成感染者「零病徵」｜專家拆解HPV迷思 倡兩性定期篩查共擔健康&nbsp;&nbsp;healthyD",
+      "summary": "PrEP讓親密關係更安心，但HPV更需要一起管理！從友善健康照護角度，重新理解「安全性行為」&nbsp;&nbsp;良醫健康網有性生活感染HPV機會達八成 非濫交亦會中招&nbsp;&nbsp;YahooHPV防治進入新階段：台灣擴大男女公費接種 專家：疫苗＋篩檢應雙軌並進&nbsp;&nbsp;Taiwan News「子宮頸抹片」多久要做一次？有助於防治子宮頸癌嗎？&nbsp;&nbsp;104職場力HPV疫苗問世20年 醫籲接種篩檢建立家庭防護網&nbsp;&nbsp;信吉衛視+",
       "sources": [
         {
           "name": "良醫健康網",
@@ -100,18 +100,6 @@
       ]
     },
     {
-      "id": "844f7a017a8b",
-      "title": "新無創療法給宮頸癌前病變女性留住“生”機 - 紫荊網",
-      "published": "2026-06-11T07:53:25+00:00",
-      "summary": "新無創療法給宮頸癌前病變女性留住“生”機&nbsp;&nbsp;紫荊網",
-      "sources": [
-        {
-          "name": "紫荊網",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNDZobW84VG0wa3lNNFZ6SUVxcE93a2FNQzJud2FpV29FZWUtSFBvWjVmT0g2RWlFNGFkSTQzOGN6d0dJODB0YlVlX0VyQzRfbEpGUWZweWttcWFQYzRMWHoweHJiYWJmc1JnSDR3V1c2UVFwUEpSTXVsS2tOVVd5UWtpbHZmQlM4VmFkcWtmbkg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "eb221b317ac8",
       "title": "6ACOG首次發布孕產婦疫苗接種指引 - Singtaousa",
       "published": "2026-06-11T14:00:00+00:00",
@@ -120,6 +108,18 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1kxZExRMVQzck00UDJzZW5pd1JzamtNSXpmcmtaZ3VHalpjaVBDcE9sYXYzUXpJeEFrdmxPRFluLVJKNDBfY1BzSEctN0REa3R3bWYxcXRCSG9aemlDSmJsY0JOQmVxTFpmWVhxbDlPYXVyRDMwR1VSX0hZQnBuMk5QdVlMcUFzWFRoQVNUOUdMS082UWRfM1loN2w?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "490a197e6e4f",
+      "title": "新無創療法給宮頸癌前病變女性留住“生”機 - 紫荊雜誌",
+      "published": "2026-06-11T07:53:25+00:00",
+      "summary": "新無創療法給宮頸癌前病變女性留住“生”機&nbsp;&nbsp;紫荊雜誌",
+      "sources": [
+        {
+          "name": "紫荊雜誌",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNDZobW84VG0wa3lNNFZ6SUVxcE93a2FNQzJud2FpV29FZWUtSFBvWjVmT0g2RWlFNGFkSTQzOGN6d0dJODB0YlVlX0VyQzRfbEpGUWZweWttcWFQYzRMWHoweHJiYWJmc1JnSDR3V1c2UVFwUEpSTXVsS2tOVVd5UWtpbHZmQlM4VmFkcWtmbkg?oc=5"
         }
       ]
     }
