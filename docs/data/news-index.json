@@ -1,7 +1,66 @@
 {
-  "generated": "2026-06-12T11:36:23.362564+00:00",
-  "count": 2,
+  "generated": "2026-06-12T14:36:43.733836+00:00",
+  "count": 3,
   "news": [
+    {
+      "id": "7a0bc4da7bf7",
+      "title": "研究：關節保健品葡萄糖胺 恐加速失智症惡化",
+      "published": "2026-06-12T11:48:05+00:00",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5ZFhBTzNlbFBFNVdySzVZVmZRM2xNNllsT3oxVU1wb19YOXZjal9VWkRINmRnVURGUkVHeDRGVkFMMXVSSEQ4TEZTTkxnOGt1b1pDOEFoTW1BbjJ4OGZkTQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2390fca9ae50",
+      "title": "PrEP讓親密關係更安心，但HPV更需要一起管理！從友善健康照護角度，重新理解「安全性行為」",
+      "published": "2026-06-12T11:20:54+00:00",
+      "sources": [
+        {
+          "name": "良醫健康網",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sdmdCaXBlYmhWdDFKQ2RpVU9pYU02TmpXUG54UGNVLXdxZGlrNWJDTXhRU2Q0WTNlV2kxNnhteGZkTDBXbXFCVS1sUF81LUlqVjlrTUhxa21Ca1ljT0FHUW9UNGhLTVYzZHc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "b5a64a47ff98",
       "title": "感冒出現「喘鳴聲」得當心！RSV病毒威脅長者健康 嚴重恐演變肺炎重症",
@@ -21,30 +80,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "eab20eb2640d",
-      "title": "有性生活感染HPV機會達八成 非濫交亦會中招",
-      "published": "2026-06-11T20:00:00+00:00",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOdHlybmJrMmlzU3kzdXdhUnJJbVBMNkI2MTdGbm53TVFOdGxqeXRJSjZqOXhGSmFNT1FMNFE4QmJOcDhfLW5odlUtRnJadnpLb09DV0hBOWp3cWlxNWNHRzBva3pzYk5kNktaODFCRVVVRVA4bXg2dk5SSWgyLTVaX3VMOS1MQ1hBMVRuZmpWOHQ3cUdQcUVUaHdEcUVFVEpNcjJubnpYZFl6SlBEQmJyYjNCMEZBRmlibGg1ajhPT0NBdjZzQlZWeFZwU0Q1LWZ5alMyT2ZhdG1mR2hMSzRsNWV3VTJUYjhHMXlVaVhqNUZpYUVUNkYyZDhVVlNfU1hyM0hxa2JmZ20zcmd5MXMtRjNMdHFncjNER1ZPYTRWZ05MR1pRSUs4c0JvanN0WTZ4?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }

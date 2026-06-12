@@ -1,13 +1,87 @@
 {
-  "last_updated": "2026-06-12T11:36:23.334552+00:00",
-  "total_count": 8,
-  "matched_count": 2,
+  "last_updated": "2026-06-12T14:36:43.704077+00:00",
+  "total_count": 10,
+  "matched_count": 3,
   "news": [
+    {
+      "id": "cf14f0600091",
+      "title": "這些不安全性行為，容易傳播猴痘病毒",
+      "published": "2026-06-12T13:40:00+00:00",
+      "summary": "這些不安全性行為，容易傳播猴痘病毒&nbsp;&nbsp;香港商报",
+      "sources": [
+        {
+          "name": "香港商报",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wbUZXRUR0SVRkbzRUazBhM3hYRW5pU1h0aF9xdjJlLTZ1bUkwNzNOUks2cTFpWHp3V255Tkt0c1RyRnFuc1RnN1JxMWRsaFctOGtHQjhTaXZ1WS1SNGhqWFVseDc2RHBHRU5WaU5SOEZDZ2Q0Z2J6YjM2QQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7a0bc4da7bf7",
+      "title": "研究：關節保健品葡萄糖胺 恐加速失智症惡化",
+      "published": "2026-06-12T11:48:05+00:00",
+      "summary": "研究：關節保健品葡萄糖胺 恐加速失智症惡化&nbsp;&nbsp;民視新聞網",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5ZFhBTzNlbFBFNVdySzVZVmZRM2xNNllsT3oxVU1wb19YOXZjal9VWkRINmRnVURGUkVHeDRGVkFMMXVSSEQ4TEZTTkxnOGt1b1pDOEFoTW1BbjJ4OGZkTQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2390fca9ae50",
+      "title": "PrEP讓親密關係更安心，但HPV更需要一起管理！從友善健康照護角度，重新理解「安全性行為」",
+      "published": "2026-06-12T11:20:54+00:00",
+      "summary": "PrEP讓親密關係更安心，但HPV更需要一起管理！從友善健康照護角度，重新理解「安全性行為」&nbsp;&nbsp;良醫健康網有性生活感染HPV機會達八成 非濫交亦會中招&nbsp;&nbsp;YahooHPV防治進入新階段：台灣擴大男女公費接種 專家：疫苗＋篩檢應雙軌並進&nbsp;&nbsp;Taiwan News「子宮頸抹片」多久要做一次？有助於防治子宮頸癌嗎？&nbsp;&nbsp;104職場力HPV潛伏期長達20年！9成感染者「零病徵」｜專家拆解HPV迷思 倡兩性定期篩查共擔健康&nbsp;&nbsp;healthyD",
+      "sources": [
+        {
+          "name": "良醫健康網",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sdmdCaXBlYmhWdDFKQ2RpVU9pYU02TmpXUG54UGNVLXdxZGlrNWJDTXhRU2Q0WTNlV2kxNnhteGZkTDBXbXFCVS1sUF81LUlqVjlrTUhxa21Ca1ljT0FHUW9UNGhLTVYzZHc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "b5a64a47ff98",
       "title": "感冒出現「喘鳴聲」得當心！RSV病毒威脅長者健康 嚴重恐演變肺炎重症",
       "published": "2026-06-12T06:39:16+00:00",
-      "summary": "感冒出現「喘鳴聲」得當心！RSV病毒威脅長者健康 嚴重恐演變肺炎重症&nbsp;&nbsp;祝你健康不是普通感冒！「這種病毒」年長者感染到可能2天就惡化&nbsp;&nbsp;Yahoo新聞預防嬰幼兒感染RSV釀重症！ 醫揭重點族群與預防策略&nbsp;&nbsp;四季線上4gTV7成寶寶1歲前感染過！RSV對寶寶影響有多大？醫完整解析 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞【醫生專欄】聽見 BB 呼吸「殊殊聲」？拆解 RSV 威脅與「預防性抗體」新突破&nbsp;&nbsp;Sundaykiss",
+      "summary": "感冒出現「喘鳴聲」得當心！RSV病毒威脅長者健康 嚴重恐演變肺炎重症&nbsp;&nbsp;祝你健康不是普通感冒！「這種病毒」年長者感染到可能2天就惡化&nbsp;&nbsp;Yahoo新聞預防嬰幼兒感染RSV釀重症！ 醫揭重點族群與預防策略&nbsp;&nbsp;民視新聞網7成寶寶1歲前感染過！RSV對寶寶影響有多大？醫完整解析&nbsp;&nbsp;四季線上4gTV0-6個月嬰幼兒大敵！愛寶寶， 從孕期保護做起&nbsp;&nbsp;嬰兒與母親",
       "sources": [
         {
           "name": "祝你健康",
@@ -40,31 +114,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "eab20eb2640d",
-      "title": "有性生活感染HPV機會達八成 非濫交亦會中招",
-      "published": "2026-06-11T20:00:00+00:00",
-      "summary": "有性生活感染HPV機會達八成 非濫交亦會中招&nbsp;&nbsp;YahooHPV防治進入新階段：台灣擴大男女公費接種 專家：疫苗＋篩檢應雙軌並進&nbsp;&nbsp;Taiwan News「子宮頸抹片」多久要做一次？有助於防治子宮頸癌嗎？&nbsp;&nbsp;104職場力全城關注HPV！醫生揭單一性伴侶也可感染女教練11個月由陰轉陽坦言「HPV與私生活是否混亂無關」&nbsp;&nbsp;星島頭條HPV潛伏期長達20年！9成感染者「零病徵」｜專家拆解HPV迷思 倡兩性定期篩查共擔健康&nbsp;&nbsp;healthyD",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOdHlybmJrMmlzU3kzdXdhUnJJbVBMNkI2MTdGbm53TVFOdGxqeXRJSjZqOXhGSmFNT1FMNFE4QmJOcDhfLW5odlUtRnJadnpLb09DV0hBOWp3cWlxNWNHRzBva3pzYk5kNktaODFCRVVVRVA4bXg2dk5SSWgyLTVaX3VMOS1MQ1hBMVRuZmpWOHQ3cUdQcUVUaHdEcUVFVEpNcjJubnpYZFl6SlBEQmJyYjNCMEZBRmlibGg1ajhPT0NBdjZzQlZWeFZwU0Q1LWZ5alMyT2ZhdG1mR2hMSzRsNWV3VTJUYjhHMXlVaVhqNUZpYUVUNkYyZDhVVlNfU1hyM0hxa2JmZ20zcmd5MXMtRjNMdHFncjNER1ZPYTRWZ05MR1pRSUs4c0JvanN0WTZ4?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "1d8e847e143c",
@@ -119,14 +168,14 @@
       "matched_keywords": []
     },
     {
-      "id": "a4293bec43f1",
-      "title": "影／體重減輕不見得是好事！ 40歲後慎防「隱性肥胖」 | 中廣新聞網 - LINE TODAY",
-      "published": "2026-06-11T07:01:03+00:00",
-      "summary": "影／體重減輕不見得是好事！ 40歲後慎防「隱性肥胖」 | 中廣新聞網&nbsp;&nbsp;LINE TODAY減重之路卡關？您與醫師的「體重觀念」或許大不同！&nbsp;&nbsp;careonline.com.tw腹部脂肪過多 體重正常已屬「臨床肥胖」&nbsp;&nbsp;世界新聞網體重正常也可能胖？ 這類人已屬「臨床肥胖」別誤治療&nbsp;&nbsp;世界新聞網",
+      "id": "24f743dad715",
+      "title": "影／體重減輕不見得是好事！ 40歲後慎防「隱性肥胖」",
+      "published": "2026-06-11T07:06:58+00:00",
+      "summary": "影／體重減輕不見得是好事！ 40歲後慎防「隱性肥胖」&nbsp;&nbsp;Yahoo新聞減重之路卡關？您與醫師的「體重觀念」或許大不同！&nbsp;&nbsp;careonline.com.tw腹部脂肪過多 體重正常已屬「臨床肥胖」&nbsp;&nbsp;世界新聞網影／體重減輕不見得是好事！ 40歲後慎防「隱性肥胖」 | 中廣新聞網&nbsp;&nbsp;LINE TODAY體重正常也可能胖？ 這類人已屬「臨床肥胖」別誤治療&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XbWFoY2ZZZkktTThrWW96NjRmMkI3U3ROYVZfRTlpUkNWTU9zQVl4T0VxMGlyM2xPTS04dnZ5UnRSWXFHdndTdy1iX2pXbGY0aVBSUHBn?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQMDhkUFhXQW9yTnp0Q3N4cWU4cUxZWmVTaEMxVkFIM05fZi1kZE80clJTeWJzT0hkNm1fc2hJOTZ3MEs3R19XT1owQ3hTa0FZV0VYVjVRUURBc21IY2l6WVZmZVU5NXRzTjVTNnpZZDRnWW9hd3EzSEhPbmFLdGVqM3ZieWNDbWRvc2ctMlRJTlpoVUplVUJGQjJRZ1ZsUWlmMC03TW90LWlpUzk0RG1vdE83cUlGZnJIclNpaEw0dmpZR1FJaFZtXzNwc2xXTkY3ZXFzSVlveWZVU3J2aVZyN2xrNklGTktGYjVzZE5mbXpMeTZVcS1VWUh3WmE1ckluc044M0xZNDc3QXFOdjBfNW1McVloaWRmSmVXM1hPYS1IZkhqQ0xGVjVqVWw0WUJkWERMOER4WGRRelhXeGc?oc=5"
         }
       ],
       "matched_keywords": []
