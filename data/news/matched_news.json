@@ -1,8 +1,46 @@
 {
-  "last_updated": "2026-06-12T02:42:05.980033+00:00",
-  "total_count": 10,
-  "matched_count": 1,
+  "last_updated": "2026-06-12T07:14:37.965608+00:00",
+  "total_count": 11,
+  "matched_count": 2,
   "news": [
+    {
+      "id": "b5a64a47ff98",
+      "title": "感冒出現「喘鳴聲」得當心！RSV病毒威脅長者健康 嚴重恐演變肺炎重症",
+      "published": "2026-06-12T06:39:16+00:00",
+      "summary": "感冒出現「喘鳴聲」得當心！RSV病毒威脅長者健康 嚴重恐演變肺炎重症&nbsp;&nbsp;祝你健康不是普通感冒！「這種病毒」年長者感染到可能2天就惡化&nbsp;&nbsp;Yahoo新聞預防嬰幼兒感染RSV釀重症！ 醫揭重點族群與預防策略 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞7成寶寶1歲前感染過！RSV對寶寶影響有多大？醫完整解析&nbsp;&nbsp;四季線上4gTV【醫生專欄】聽見 BB 呼吸「殊殊聲」？拆解 RSV 威脅與「預防性抗體」新突破&nbsp;&nbsp;Sundaykiss",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJWjZYS1NTLWkxVDhWWUs4QTZjd0Q0ZkJZc1JvWnZZVlpWcWV4TlR1V09Rb1loTXVZQXRMMmtDSWl5NUhLV1YyREh2aGs?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5740e7cdd3da",
+      "title": "夏天喉嚨痛發燒不只是中暑？醫生揭6大夏季流行病毒！1類場所最易爆發手足口病",
+      "published": "2026-06-12T03:09:04+00:00",
+      "summary": "夏天喉嚨痛發燒不只是中暑？醫生揭6大夏季流行病毒！1類場所最易爆發手足口病&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxNclg2a3UzSHk1bWszQ0dSVG1vbjJXRFh4eE9XeWxpbVEwV0xTVEw1c0Q2bXgwOGNnaHY3YkVUX3gwQ0M4aEtTVVlSNDRGV2t3dzdxZ25aZldLVTdhQy1JWm1lRlNQTkFsTFlxZHZTUGhXbGVyLUFsWEZEbmlkTjFkbm5zT01wX25MS09ScXpzeTBiV01XZkNRWTNQOGJpNjBPUy1wRXZ0cE5JeTlhWXVHcmRWcnZjREVRUWpXOEhoYi1YNGhUdmh1ek5qRUVBMDg4VWVfQWRmYjBBY2xoWkNlelROc1lZVnFhejRiS1hGUnlaX2hBMHdUZGRDZUdoU3FPQ1NoVlBnNXZPRGc1SmtUV05lSDN2d2d4bHl1SXRwcnpSVm1ZQXZidndRd0RQZzgxekFzTFdvdTB0cm1RR2wwZ2NXQWVDZ19MZlZXS1luTTJJQ2NvamRtOFhZNl9tbHNwaUZ6VDVvTURTbG1vQ3ZhUHlRbGdnc2l0Yy1iXzZVV05jN3NGSENsOHgxOFFUYmFZaEpaSHBFMDJLSXJtRkxTTHlzWlJmcTFUc29MbUpTcVRNNnM2YjlBdFVjSkVJSUp5aEZ1Y0R0cloza1hHVjZBZW9pekM1Nm1OTXBvRXdiaFZDd0ppazhaWA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "1d8e847e143c",
       "title": "健康新視界》科學家成功讓老化造血幹細胞重現年輕特徵（潘懷宗）",
@@ -46,7 +84,7 @@
       "id": "ebcb3a4f5119",
       "title": "HPV疫苗問世20年 醫籲接種篩檢建立家庭防護網",
       "published": "2026-06-11T11:02:31+00:00",
-      "summary": "HPV疫苗問世20年 醫籲接種篩檢建立家庭防護網&nbsp;&nbsp;UDNHPV防治進入新階段：台灣擴大男女公費接種 專家：疫苗＋篩檢應雙軌並進&nbsp;&nbsp;Taiwan NewsHPV防治：向消除HPV相關癌症邁進！九價疫苗為何重要？專家揭臺灣流行型別差異&nbsp;&nbsp;PChome Online 新聞「子宮頸抹片」多久要做一次？有助於防治子宮頸癌嗎？&nbsp;&nbsp;104職場力HPV不只女生要打！男性「1癌」發生率已超車子宮頸癌&nbsp;&nbsp;中天新聞網",
+      "summary": "HPV疫苗問世20年 醫籲接種篩檢建立家庭防護網&nbsp;&nbsp;UDN有性生活感染HPV機會達八成 非濫交亦會中招&nbsp;&nbsp;YahooHPV防治進入新階段：台灣擴大男女公費接種 專家：疫苗＋篩檢應雙軌並進&nbsp;&nbsp;Taiwan News「子宮頸抹片」多久要做一次？有助於防治子宮頸癌嗎？&nbsp;&nbsp;104職場力全城關注HPV！醫生揭單一性伴侶也可感染女教練11個月由陰轉陽坦言「HPV與私生活是否混亂無關」&nbsp;&nbsp;星島頭條",
       "sources": [
         {
           "name": "UDN",
@@ -54,201 +92,6 @@
         }
       ],
       "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "子宮頸癌",
@@ -292,7 +135,7 @@
       "id": "e2882cc93dee",
       "title": "被AI進入身體！史上首次劍橋大學「AI疫苗」人體試驗 有望終結病毒突變",
       "published": "2026-06-10T11:44:00+00:00",
-      "summary": "被AI進入身體！史上首次劍橋大學「AI疫苗」人體試驗 有望終結病毒突變&nbsp;&nbsp;Yahoo新聞史上首次AI設計抗原 劍橋大學「萬用疫苗」進入人體試驗&nbsp;&nbsp;自由健康網AI研發新冠疫苗首度人體試驗 英國科學家證實安全耐受 - 科技新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞人工智慧正被用來開發一種「根本性新」的疫苗，以防範大流行病&nbsp;&nbsp;gamereactor.cn劍橋團隊研發首個計算機設計疫苗 早期人類試驗顯示免疫反應&nbsp;&nbsp;Techritual Hong Kong",
+      "summary": "被AI進入身體！史上首次劍橋大學「AI疫苗」人體試驗 有望終結病毒突變&nbsp;&nbsp;Yahoo新聞史上首次AI設計抗原 劍橋大學「萬用疫苗」進入人體試驗&nbsp;&nbsp;自由健康網首次人體臨床試驗表明： AI設計冠狀病毒疫苗表現良好&nbsp;&nbsp;華僑時報AI研發新冠疫苗首度人體試驗 英國科學家證實安全耐受&nbsp;&nbsp;商傳媒「全球首創」由人工智慧設計的疫苗是怎樣誕生的？&nbsp;&nbsp;BBC",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -323,19 +166,6 @@
         {
           "name": "Taiwan News",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92a2RVcUpEU0Nyd0lOUEswZDAzWldUdmxtZTlGOWxPQ1dEaDdvV3I4V1N4NFNPV0plZGI1dnlSM1hYMGdReTVKQVRMVExlUjRJNWlUbHlQSEk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1329bef54a36",
-      "title": "7成寶寶1歲前感染過！RSV對寶寶影響有多大？醫完整解析",
-      "published": "2026-06-10T07:00:00+00:00",
-      "summary": "7成寶寶1歲前感染過！RSV對寶寶影響有多大？醫完整解析&nbsp;&nbsp;蕃新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwT2JZU0FfQ0ZibkZwWFNjQi1VYldldTBwdGFMUXRuZHp5cDhYc2dpY0RNMTUtelptMWFQSW1GTFYyUEIwQlJOT2pSX2lPbkg3M2c?oc=5"
         }
       ],
       "matched_keywords": []

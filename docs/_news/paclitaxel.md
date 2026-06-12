@@ -46,7 +46,7 @@ permalink: /news/paclitaxel/
 
 ### [HPV疫苗問世20年 醫籲接種篩檢建立家庭防護網](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSTVB5U0k0clRDdDN1Ylo2TVl1MjNFZXBaTl8yU01PWjFjMXMxb3dJeDJ3UWxXLUFQZUQyTXFlZFFnczdkRGJlalVQcDhkNHNQ?oc=5)
 
-2026-06-11 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+2026-06-11 <span class="news-indication-tag">子宮頸癌</span>
 
 來源：[UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSTVB5U0k0clRDdDN1Ylo2TVl1MjNFZXBaTl8yU01PWjFjMXMxb3dJeDJ3UWxXLUFQZUQyTXFlZFFnczdkRGJlalVQcDhkNHNQ?oc=5)
 
