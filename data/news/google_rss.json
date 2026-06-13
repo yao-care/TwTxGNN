@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-13T15:26:18.935911+00:00",
+  "fetched_at": "2026-06-13T17:13:01.636350+00:00",
   "count": 8,
   "news": [
     {
@@ -12,6 +12,18 @@
         {
           "name": "倡議家",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PMHZNSU5kS2dTZXBna081MVhqZTRKREF1QTZUa1lVUGg5cVlxbnhFb3pteTNBOWIzN1JUVzFNc2NPd0RiN2Fod2F1T3ZhcHJ3cmZ4UVFveHlpZl9ud2h30gFkQVVfeXFMUGdDNk5lNHo0ZUdfa3pqWHBaN2E0TVZJdzdsakM4OFAwR05NLXBPel8tT0tBRUJZTE9vc2MtaDlPRUFmbGkzVEMwaUpUV2RpbEVHMU5uTlBuSktkOXlma21Yd0M0dQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4682ef588662",
+      "title": "最新科學研究發現：散步除了放鬆，還能減輕憂鬱感，但到底該走幾步才有效？ - gq.com.tw",
+      "published": "2026-06-13T08:56:13+00:00",
+      "summary": "最新科學研究發現：散步除了放鬆，還能減輕憂鬱感，但到底該走幾步才有效？&nbsp;&nbsp;gq.com.tw",
+      "sources": [
+        {
+          "name": "gq.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Pc2RTRWd0bGRXZjJyeUF4b3lFb2VmUXR4UVZWeE5BV3plNTlBbjRkUGo4cURUUGNPc3ZCQTJTVENhalBMZlM2bmZHSnFVVHB2ODk5S25mM0NBTVItZHNoMVZn?oc=5"
         }
       ]
     },
@@ -60,18 +72,6 @@
         {
           "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13YnRleEd2aXJmSkNObW1qejJSLWZzNHk4LUFHTmFuR21qM181QUdaaWVrS3E3ejQ0Ync1UVl0aXNiQWJ6ZFIyWlZjT0tsMFZ6UnJ5ajN1VEo4dHM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1d8e847e143c",
-      "title": "健康新視界》科學家成功讓老化造血幹細胞重現年輕特徵（潘懷宗） - 中時新聞網",
-      "published": "2026-06-11T16:59:53+00:00",
-      "summary": "健康新視界》科學家成功讓老化造血幹細胞重現年輕特徵（潘懷宗）&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YSkY3UTZRYUJYRFFLazFQbEF6NE9PNk10UEFpUTBiRGpzT2J0dEUxU2wtYlA4bG5VRDZRN3E1ZmNRSU9LRld2eXFRelkyX1Y4UF9RX1Q4a0J0bXJDSlVFZzFibEhUYnc?oc=5"
         }
       ]
     },
