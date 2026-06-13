@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-13T11:48:01.367766+00:00",
-  "count": 11,
+  "fetched_at": "2026-06-13T13:27:51.743655+00:00",
+  "count": 10,
   "news": [
     {
       "id": "337822192d9a",
@@ -76,18 +76,6 @@
       ]
     },
     {
-      "id": "a4293bec43f1",
-      "title": "影／體重減輕不見得是好事！ 40歲後慎防「隱性肥胖」 | 中廣新聞網 - LINE TODAY",
-      "published": "2026-06-13T08:37:04+00:00",
-      "summary": "影／體重減輕不見得是好事！ 40歲後慎防「隱性肥胖」 | 中廣新聞網&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XbWFoY2ZZZkktTThrWW96NjRmMkI3U3ROYVZfRTlpUkNWTU9zQVl4T0VxMGlyM2xPTS04dnZ5UnRSWXFHdndTdy1iX2pXbGY0aVBSUHBn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5740e7cdd3da",
       "title": "夏天喉嚨痛發燒不只是中暑？醫生揭6大夏季流行病毒！1類場所最易爆發手足口病 - 星島頭條",
       "published": "2026-06-12T03:09:04+00:00",
@@ -96,18 +84,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxNclg2a3UzSHk1bWszQ0dSVG1vbjJXRFh4eE9XeWxpbVEwV0xTVEw1c0Q2bXgwOGNnaHY3YkVUX3gwQ0M4aEtTVVlSNDRGV2t3dzdxZ25aZldLVTdhQy1JWm1lRlNQTkFsTFlxZHZTUGhXbGVyLUFsWEZEbmlkTjFkbm5zT01wX25MS09ScXpzeTBiV01XZkNRWTNQOGJpNjBPUy1wRXZ0cE5JeTlhWXVHcmRWcnZjREVRUWpXOEhoYi1YNGhUdmh1ek5qRUVBMDg4VWVfQWRmYjBBY2xoWkNlelROc1lZVnFhejRiS1hGUnlaX2hBMHdUZGRDZUdoU3FPQ1NoVlBnNXZPRGc1SmtUV05lSDN2d2d4bHl1SXRwcnpSVm1ZQXZidndRd0RQZzgxekFzTFdvdTB0cm1RR2wwZ2NXQWVDZ19MZlZXS1luTTJJQ2NvamRtOFhZNl9tbHNwaUZ6VDVvTURTbG1vQ3ZhUHlRbGdnc2l0Yy1iXzZVV05jN3NGSENsOHgxOFFUYmFZaEpaSHBFMDJLSXJtRkxTTHlzWlJmcTFUc29MbUpTcVRNNnM2YjlBdFVjSkVJSUp5aEZ1Y0R0cloza1hHVjZBZW9pekM1Nm1OTXBvRXdiaFZDd0ppazhaWA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5da432ea8e4a",
-      "title": "研究揭老化關鍵｜ 每天一顆維生素真能變年輕？ | 老化 | 研究 | 年輕 - 台灣大紀元",
-      "published": "2026-06-11T13:05:32+00:00",
-      "summary": "研究揭老化關鍵｜ 每天一顆維生素真能變年輕？ | 老化 | 研究 | 年輕&nbsp;&nbsp;台灣大紀元",
-      "sources": [
-        {
-          "name": "台灣大紀元",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPVDBScDJaWmIzM0F0Si1QendSci1BSXBYN3J1TjJFYzVCMmxfUV9JbEx1VnktYktmaHowZVI4UURaSDVuYktyeXVSNnlpbXFQZGRNSlBIM1h0ZllEU216S2pNT1BCX1g4YTd0bzljaXZ5REJYUm5wcTA4NTRVeC0tb1FPb01vdjI4Q3JtNTU2ZWRFMVJUR3VuY0RvMlBpQi1pM0RBek1BZnZCX2dBTjFaUUt1MFpDU2dHd2JSQ2h1Q3d4QmpIbnBaazYyQmh0SXBaaFF0MW9RNFB3cTB1M3F2Y3U2V3NXbnNLSnlzZ3p6d2Z0OGZPd1F1cXdOMVV5TlFsVHc3WTJqc2dDc000UHlQZGFGb1kwMThONDIybEZtWHRRN295bDMxUkw5UEhteThpMzR5TUNSZWs2OE9MTldNdDUwUF9XbjVfZlk3clNKOFhSZy1iUEE?oc=5"
         }
       ]
     },
@@ -132,6 +108,18 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1kxZExRMVQzck00UDJzZW5pd1JzamtNSXpmcmtaZ3VHalpjaVBDcE9sYXYzUXpJeEFrdmxPRFluLVJKNDBfY1BzSEctN0REa3R3bWYxcXRCSG9aemlDSmJsY0JOQmVxTFpmWVhxbDlPYXVyRDMwR1VSX0hZQnBuMk5QdVlMcUFzWFRoQVNUOUdMS082UWRfM1loN2w?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5da432ea8e4a",
+      "title": "研究揭老化關鍵｜ 每天一顆維生素真能變年輕？ | 老化 | 研究 | 年輕 - 台灣大紀元",
+      "published": "2026-06-11T13:05:32+00:00",
+      "summary": "研究揭老化關鍵｜ 每天一顆維生素真能變年輕？ | 老化 | 研究 | 年輕&nbsp;&nbsp;台灣大紀元",
+      "sources": [
+        {
+          "name": "台灣大紀元",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPVDBScDJaWmIzM0F0Si1QendSci1BSXBYN3J1TjJFYzVCMmxfUV9JbEx1VnktYktmaHowZVI4UURaSDVuYktyeXVSNnlpbXFQZGRNSlBIM1h0ZllEU216S2pNT1BCX1g4YTd0bzljaXZ5REJYUm5wcTA4NTRVeC0tb1FPb01vdjI4Q3JtNTU2ZWRFMVJUR3VuY0RvMlBpQi1pM0RBek1BZnZCX2dBTjFaUUt1MFpDU2dHd2JSQ2h1Q3d4QmpIbnBaazYyQmh0SXBaaFF0MW9RNFB3cTB1M3F2Y3U2V3NXbnNLSnlzZ3p6d2Z0OGZPd1F1cXdOMVV5TlFsVHc3WTJqc2dDc000UHlQZGFGb1kwMThONDIybEZtWHRRN295bDMxUkw5UEhteThpMzR5TUNSZWs2OE9MTldNdDUwUF9XbjVfZlk3clNKOFhSZy1iUEE?oc=5"
         }
       ]
     }
