@@ -14,7 +14,7 @@ permalink: /news/dehydrocholic_acid/
 ---
 
 <p class="key-answer" data-question="Dehydrocholic acid 有什麼相關新聞？">
-<strong>Dehydrocholic acid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dehydrocholic acid</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/dehydrocholic_acid/
 <p><a href="{{ '/drugs/dehydrocholic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [肝炎肝硬化有徵兆 手掌臉色藏警訊](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wdmhVeFFuQTFWQkpKbGNMS3g3RTB6OVBfelNYeGx6dXJISmc5cldMdWhWMEFKenhBQnRnLTl3OWtOZnZTME53eDZFZTAyeDZiQlgycTRMQjlHLWxISkhz0gFkQVVfeXFMTngybEdFTTF3Wk80c0k3SWdIMzRZTk5xSnZiYmdJbFUtbWNRcWRQX1Q0LTYzZEczaUUzeWQ0LVpFRWc1UlRDS1BobjhsR1dCZ1FIUHZsTXhFckxUdXQwWF9OVkxqSA?oc=5)
+
+2026-06-13 <span class="news-indication-tag">肝硬化</span>
+
+來源：[大纪元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wdmhVeFFuQTFWQkpKbGNMS3g3RTB6OVBfelNYeGx6dXJISmc5cldMdWhWMEFKenhBQnRnLTl3OWtOZnZTME53eDZFZTAyeDZiQlgycTRMQjlHLWxISkhz0gFkQVVfeXFMTngybEdFTTF3Wk80c0k3SWdIMzRZTk5xSnZiYmdJbFUtbWNRcWRQX1Q0LTYzZEczaUUzeWQ0LVpFRWc1UlRDS1BobjhsR1dCZ1FIUHZsTXhFckxUdXQwWF9OVkxqSA?oc=5)
+
+---
 
 
 <div class="disclaimer">

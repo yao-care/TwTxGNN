@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-13T17:13:01.636350+00:00",
-  "count": 8,
+  "fetched_at": "2026-06-13T19:09:38.353136+00:00",
+  "count": 9,
   "news": [
     {
       "id": "337822192d9a",
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "21e562516ca0",
-      "title": "江飛宇Science》郵輪疫情後好消息：漢他-安地斯病毒疫苗初步實驗效果佳- 國際 - 中時新聞網",
-      "published": "2026-06-12T23:40:30+00:00",
-      "summary": "江飛宇Science》郵輪疫情後好消息：漢他-安地斯病毒疫苗初步實驗效果佳- 國際&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04MUpzLUU1ZVJObm8yYWRzM2dlZnpDenhCaV9pWVA1cFBwcFdUZnExS3ZndHhpTmV6eUJoV3NqQVpSVm5SMllPWkFZV1Y5aEFEdXY0c0lLZzl3NEdKUmx1UzBHVFBGZk50WkRkYWh3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2390fca9ae50",
       "title": "PrEP讓親密關係更安心，但HPV更需要一起管理！從友善健康照護角度，重新理解「安全性行為」 - 良醫健康網",
       "published": "2026-06-12T11:20:54+00:00",
@@ -64,6 +52,18 @@
       ]
     },
     {
+      "id": "21e562516ca0",
+      "title": "江飛宇Science》郵輪疫情後好消息：漢他-安地斯病毒疫苗初步實驗效果佳- 國際 - 中時新聞網",
+      "published": "2026-06-12T23:40:30+00:00",
+      "summary": "江飛宇Science》郵輪疫情後好消息：漢他-安地斯病毒疫苗初步實驗效果佳- 國際&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04MUpzLUU1ZVJObm8yYWRzM2dlZnpDenhCaV9pWVA1cFBwcFdUZnExS3ZndHhpTmV6eUJoV3NqQVpSVm5SMllPWkFZV1Y5aEFEdXY0c0lLZzl3NEdKUmx1UzBHVFBGZk50WkRkYWh3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cafc9776962f",
       "title": "感冒出現「喘鳴聲」得當心！RSV病毒威脅長者健康 嚴重恐演變肺炎重症 - 三立新聞網SETN.com",
       "published": "2026-06-12T04:20:00+00:00",
@@ -72,6 +72,18 @@
         {
           "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13YnRleEd2aXJmSkNObW1qejJSLWZzNHk4LUFHTmFuR21qM181QUdaaWVrS3E3ejQ0Ync1UVl0aXNiQWJ6ZFIyWlZjT0tsMFZ6UnJ5ajN1VEo4dHM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "10b602821d3d",
+      "title": "肝炎肝硬化有徵兆 手掌臉色藏警訊 - 大纪元",
+      "published": "2026-06-13T17:00:00+00:00",
+      "summary": "肝炎肝硬化有徵兆 手掌臉色藏警訊&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wdmhVeFFuQTFWQkpKbGNMS3g3RTB6OVBfelNYeGx6dXJISmc5cldMdWhWMEFKenhBQnRnLTl3OWtOZnZTME53eDZFZTAyeDZiQlgycTRMQjlHLWxISkhz0gFkQVVfeXFMTngybEdFTTF3Wk80c0k3SWdIMzRZTk5xSnZiYmdJbFUtbWNRcWRQX1Q0LTYzZEczaUUzeWQ0LVpFRWc1UlRDS1BobjhsR1dCZ1FIUHZsTXhFckxUdXQwWF9OVkxqSA?oc=5"
         }
       ]
     },
