@@ -31,11 +31,11 @@ permalink: /news/common-cold/
 
 ## 相關新聞（1 則）
 
-### [感冒出現「喘鳴聲」得當心！RSV病毒威脅長者健康 嚴重恐演變肺炎重症](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJWjZYS1NTLWkxVDhWWUs4QTZjd0Q0ZkJZc1JvWnZZVlpWcWV4TlR1V09Rb1loTXVZQXRMMmtDSWl5NUhLV1YyREh2aGs?oc=5)
+### [感冒出現「喘鳴聲」得當心！RSV病毒威脅長者健康 嚴重恐演變肺炎重症](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KdjRxUVM2WlpkalhJVm0xVXA0el9xenJRUEVrRDRIaFhsZkVGRHpjdThmRnQ3aklVUzFxNnlLSGlzNU5qcTBjSlBEYjJ6TGZNTmVvUlhiT0xuTXJHRFpCcQ?oc=5)
 
 2026-06-12
 
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJWjZYS1NTLWkxVDhWWUs4QTZjd0Q0ZkJZc1JvWnZZVlpWcWV4TlR1V09Rb1loTXVZQXRMMmtDSWl5NUhLV1YyREh2aGs?oc=5)
+來源：[民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KdjRxUVM2WlpkalhJVm0xVXA0el9xenJRUEVrRDRIaFhsZkVGRHpjdThmRnQ3aklVUzFxNnlLSGlzNU5qcTBjSlBEYjJ6TGZNTmVvUlhiT0xuTXJHRFpCcQ?oc=5)
 
 ---
 

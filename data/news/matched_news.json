@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-13T06:51:05.287262+00:00",
-  "total_count": 12,
+  "last_updated": "2026-06-13T09:51:28.676151+00:00",
+  "total_count": 11,
   "matched_count": 2,
   "news": [
     {
       "id": "337822192d9a",
       "title": "垃圾山、賞鳥與漢他病毒 一段意外的南極郵輪之旅",
       "published": "2026-06-13T00:52:21+00:00",
-      "summary": "垃圾山、賞鳥與漢他病毒 一段意外的南極郵輪之旅&nbsp;&nbsp;倡議家阿根廷擴調查漢坦病毒範圍至門多薩省&nbsp;&nbsp;澳門廣播電視股份有限公司阿根廷擴大漢坦病毒調查範圍 設陷阱捕捉與病毒傳播有關動物&nbsp;&nbsp;香港電台新聞網阿根廷郵輪爆漢他病毒奪3命 擴大搜索西部省分追蹤帶原齧齒類 | 民視新聞網&nbsp;&nbsp;LINE TODAY阿根廷郵輪爆漢他病毒奪3命 擴大搜索西部省分追蹤帶原齧齒類&nbsp;&nbsp;民視新聞網",
+      "summary": "垃圾山、賞鳥與漢他病毒 一段意外的南極郵輪之旅&nbsp;&nbsp;倡議家前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "倡議家",
@@ -81,14 +81,14 @@
       ]
     },
     {
-      "id": "b5a64a47ff98",
+      "id": "3fb1bd679077",
       "title": "感冒出現「喘鳴聲」得當心！RSV病毒威脅長者健康 嚴重恐演變肺炎重症",
-      "published": "2026-06-12T06:39:16+00:00",
-      "summary": "感冒出現「喘鳴聲」得當心！RSV病毒威脅長者健康 嚴重恐演變肺炎重症&nbsp;&nbsp;祝你健康不是普通感冒！醫揭「這病毒」2天恐變重症：長輩心肺衰竭隱形殺手&nbsp;&nbsp;Yahoo新聞預防嬰幼兒感染RSV釀重症！ 醫揭重點族群與預防策略&nbsp;&nbsp;民視新聞網7成寶寶1歲前感染過！RSV對寶寶影響有多大？醫完整解析&nbsp;&nbsp;四季線上4gTV0-6個月嬰幼兒大敵！愛寶寶， 從孕期保護做起&nbsp;&nbsp;嬰兒與母親",
+      "published": "2026-06-12T06:49:00+00:00",
+      "summary": "感冒出現「喘鳴聲」得當心！RSV病毒威脅長者健康 嚴重恐演變肺炎重症&nbsp;&nbsp;民視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJWjZYS1NTLWkxVDhWWUs4QTZjd0Q0ZkJZc1JvWnZZVlpWcWV4TlR1V09Rb1loTXVZQXRMMmtDSWl5NUhLV1YyREh2aGs?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KdjRxUVM2WlpkalhJVm0xVXA0el9xenJRUEVrRDRIaFhsZkVGRHpjdThmRnQ3aklVUzFxNnlLSGlzNU5qcTBjSlBEYjJ6TGZNTmVvUlhiT0xuTXJHRFpCcQ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -145,6 +145,19 @@
       "matched_keywords": []
     },
     {
+      "id": "a4293bec43f1",
+      "title": "影／體重減輕不見得是好事！ 40歲後慎防「隱性肥胖」 | 中廣新聞網 - LINE TODAY",
+      "published": "2026-06-11T13:21:17+00:00",
+      "summary": "影／體重減輕不見得是好事！ 40歲後慎防「隱性肥胖」 | 中廣新聞網&nbsp;&nbsp;LINE TODAY減重之路卡關？您與醫師的「體重觀念」或許大不同！&nbsp;&nbsp;careonline.com.tw腹部脂肪過多 體重正常已屬「臨床肥胖」&nbsp;&nbsp;世界新聞網體重正常也可能胖？ 這類人已屬「臨床肥胖」別誤治療&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XbWFoY2ZZZkktTThrWW96NjRmMkI3U3ROYVZfRTlpUkNWTU9zQVl4T0VxMGlyM2xPTS04dnZ5UnRSWXFHdndTdy1iX2pXbGY0aVBSUHBn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "5da432ea8e4a",
       "title": "研究揭老化關鍵｜ 每天一顆維生素真能變年輕？ | 老化 | 研究 | 年輕",
       "published": "2026-06-11T13:05:32+00:00",
@@ -153,32 +166,6 @@
         {
           "name": "台灣大紀元",
           "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPVDBScDJaWmIzM0F0Si1QendSci1BSXBYN3J1TjJFYzVCMmxfUV9JbEx1VnktYktmaHowZVI4UURaSDVuYktyeXVSNnlpbXFQZGRNSlBIM1h0ZllEU216S2pNT1BCX1g4YTd0bzljaXZ5REJYUm5wcTA4NTRVeC0tb1FPb01vdjI4Q3JtNTU2ZWRFMVJUR3VuY0RvMlBpQi1pM0RBek1BZnZCX2dBTjFaUUt1MFpDU2dHd2JSQ2h1Q3d4QmpIbnBaazYyQmh0SXBaaFF0MW9RNFB3cTB1M3F2Y3U2V3NXbnNLSnlzZ3p6d2Z0OGZPd1F1cXdOMVV5TlFsVHc3WTJqc2dDc000UHlQZGFGb1kwMThONDIybEZtWHRRN295bDMxUkw5UEhteThpMzR5TUNSZWs2OE9MTldNdDUwUF9XbjVfZlk3clNKOFhSZy1iUEE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "490a197e6e4f",
-      "title": "新無創療法給宮頸癌前病變女性留住“生”機",
-      "published": "2026-06-11T07:53:25+00:00",
-      "summary": "新無創療法給宮頸癌前病變女性留住“生”機&nbsp;&nbsp;紫荊雜誌",
-      "sources": [
-        {
-          "name": "紫荊雜誌",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNDZobW84VG0wa3lNNFZ6SUVxcE93a2FNQzJud2FpV29FZWUtSFBvWjVmT0g2RWlFNGFkSTQzOGN6d0dJODB0YlVlX0VyQzRfbEpGUWZweWttcWFQYzRMWHoweHJiYWJmc1JnSDR3V1c2UVFwUEpSTXVsS2tOVVd5UWtpbHZmQlM4VmFkcWtmbkg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "24f743dad715",
-      "title": "影／體重減輕不見得是好事！ 40歲後慎防「隱性肥胖」",
-      "published": "2026-06-11T07:06:58+00:00",
-      "summary": "影／體重減輕不見得是好事！ 40歲後慎防「隱性肥胖」&nbsp;&nbsp;Yahoo新聞減重之路卡關？您與醫師的「體重觀念」或許大不同！&nbsp;&nbsp;careonline.com.tw腹部脂肪過多 體重正常已屬「臨床肥胖」&nbsp;&nbsp;世界新聞網影／體重減輕不見得是好事！ 40歲後慎防「隱性肥胖」 | 中廣新聞網&nbsp;&nbsp;LINE TODAY體重正常也可能胖？ 這類人已屬「臨床肥胖」別誤治療&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQMDhkUFhXQW9yTnp0Q3N4cWU4cUxZWmVTaEMxVkFIM05fZi1kZE80clJTeWJzT0hkNm1fc2hJOTZ3MEs3R19XT1owQ3hTa0FZV0VYVjVRUURBc21IY2l6WVZmZVU5NXRzTjVTNnpZZDRnWW9hd3EzSEhPbmFLdGVqM3ZieWNDbWRvc2ctMlRJTlpoVUplVUJGQjJRZ1ZsUWlmMC03TW90LWlpUzk0RG1vdE83cUlGZnJIclNpaEw0dmpZR1FJaFZtXzNwc2xXTkY3ZXFzSVlveWZVU3J2aVZyN2xrNklGTktGYjVzZE5mbXpMeTZVcS1VWUh3WmE1ckluc044M0xZNDc3QXFOdjBfNW1McVloaWRmSmVXM1hPYS1IZkhqQ0xGVjVqVWw0WUJkWERMOER4WGRRelhXeGc?oc=5"
         }
       ],
       "matched_keywords": []
