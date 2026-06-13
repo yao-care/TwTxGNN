@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-13T22:55:08.392027+00:00",
-  "count": 8,
+  "fetched_at": "2026-06-13T23:59:32.659072+00:00",
+  "count": 9,
   "news": [
     {
       "id": "337822192d9a",
@@ -76,14 +76,14 @@
       ]
     },
     {
-      "id": "5740e7cdd3da",
-      "title": "夏天喉嚨痛發燒不只是中暑？醫生揭6大夏季流行病毒！1類場所最易爆發手足口病 - 星島頭條",
-      "published": "2026-06-12T03:09:04+00:00",
-      "summary": "夏天喉嚨痛發燒不只是中暑？醫生揭6大夏季流行病毒！1類場所最易爆發手足口病&nbsp;&nbsp;星島頭條",
+      "id": "cbd279f575fb",
+      "title": "Sick問識答｜本港慢性腸炎患者30年急增30倍醫生拆解「炎症性腸病」成因建議定期做1事降患癌風險 - 晴報 Sky Post",
+      "published": "2026-06-13T23:07:29+00:00",
+      "summary": "Sick問識答｜本港慢性腸炎患者30年急增30倍醫生拆解「炎症性腸病」成因建議定期做1事降患癌風險&nbsp;&nbsp;晴報 Sky Post",
       "sources": [
         {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxNclg2a3UzSHk1bWszQ0dSVG1vbjJXRFh4eE9XeWxpbVEwV0xTVEw1c0Q2bXgwOGNnaHY3YkVUX3gwQ0M4aEtTVVlSNDRGV2t3dzdxZ25aZldLVTdhQy1JWm1lRlNQTkFsTFlxZHZTUGhXbGVyLUFsWEZEbmlkTjFkbm5zT01wX25MS09ScXpzeTBiV01XZkNRWTNQOGJpNjBPUy1wRXZ0cE5JeTlhWXVHcmRWcnZjREVRUWpXOEhoYi1YNGhUdmh1ek5qRUVBMDg4VWVfQWRmYjBBY2xoWkNlelROc1lZVnFhejRiS1hGUnlaX2hBMHdUZGRDZUdoU3FPQ1NoVlBnNXZPRGc1SmtUV05lSDN2d2d4bHl1SXRwcnpSVm1ZQXZidndRd0RQZzgxekFzTFdvdTB0cm1RR2wwZ2NXQWVDZ19MZlZXS1luTTJJQ2NvamRtOFhZNl9tbHNwaUZ6VDVvTURTbG1vQ3ZhUHlRbGdnc2l0Yy1iXzZVV05jN3NGSENsOHgxOFFUYmFZaEpaSHBFMDJLSXJtRkxTTHlzWlJmcTFUc29MbUpTcVRNNnM2YjlBdFVjSkVJSUp5aEZ1Y0R0cloza1hHVjZBZW9pekM1Nm1OTXBvRXdiaFZDd0ppazhaWA?oc=5"
+          "name": "晴報 Sky Post",
+          "link": "https://news.google.com/rss/articles/CBMimgRBVV95cUxOZGh4bFk1YnMtS0hwSDdmVUhNMjJzV2VtaUdKMzI5Wmp6VVJNLXRqanNYb2RPMlVQekN4SUhLMG1OUlkyMzktc1oxLUpnR0JHN1NzdzMxZm9oMDNNSThqR1psR2otZkdsSUt0T2N4bHJOcm5xTlhhYWk0RFdIbkVhWHI5V3dzTm53NWZ4X2ZwQUZQdEI3YUlnUTl3bkpSZTlpSGs5VUlFZVprN0JpQUF4M04xUTVKQWZjRE1jUHJJUVQxclVGZklkUjd0UkhTOVB5SHVjWnN4THVQRFhSNW5NR3R4TXAwSlZHd0V2R2VTU2NZSldoZXltR0dmeFoxZzdIcHVWa2ZZU3NOaXVsd1ZoQ2lDTlBDQjR1SW1BQXVaNmlTV3A4NDhBdmczbGRZd283T1cwUGxXdlF5a2dzdUd0Xzh4N1hpUWRhS0JFU3Z6RC1GY25OSjFEOFAwMnFwS0JCV01fRmZ0bVlYTEhIT004TU9IY05IelZFTnhKZHBSX0kxRDdDUDlwUEFBVnRpSUUzVWFiSTA2N0drYUtRNHNHX3A1VlBMRzk2REhLdDVMVHJNVVFlQjJjVDIzdk0tN0hrR21xd0RWTDA0QWo2aUVtcjB3Sy1HRlU5ZmZzWUJ4MThvQUpFNVdkb1FTbWJXMkVSTHRQYU1CVm1jY1JaVmZISXNVSDZmUDVFMElPS3RRbkthZk9YOVNfNTVR?oc=5"
         }
       ]
     },
@@ -96,6 +96,18 @@
         {
           "name": "香港商报",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wbUZXRUR0SVRkbzRUazBhM3hYRW5pU1h0aF9xdjJlLTZ1bUkwNzNOUks2cTFpWHp3V255Tkt0c1RyRnFuc1RnN1JxMWRsaFctOGtHQjhTaXZ1WS1SNGhqWFVseDc2RHBHRU5WaU5SOEZDZ2Q0Z2J6YjM2QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5740e7cdd3da",
+      "title": "夏天喉嚨痛發燒不只是中暑？醫生揭6大夏季流行病毒！1類場所最易爆發手足口病 - 星島頭條",
+      "published": "2026-06-12T03:09:04+00:00",
+      "summary": "夏天喉嚨痛發燒不只是中暑？醫生揭6大夏季流行病毒！1類場所最易爆發手足口病&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxNclg2a3UzSHk1bWszQ0dSVG1vbjJXRFh4eE9XeWxpbVEwV0xTVEw1c0Q2bXgwOGNnaHY3YkVUX3gwQ0M4aEtTVVlSNDRGV2t3dzdxZ25aZldLVTdhQy1JWm1lRlNQTkFsTFlxZHZTUGhXbGVyLUFsWEZEbmlkTjFkbm5zT01wX25MS09ScXpzeTBiV01XZkNRWTNQOGJpNjBPUy1wRXZ0cE5JeTlhWXVHcmRWcnZjREVRUWpXOEhoYi1YNGhUdmh1ek5qRUVBMDg4VWVfQWRmYjBBY2xoWkNlelROc1lZVnFhejRiS1hGUnlaX2hBMHdUZGRDZUdoU3FPQ1NoVlBnNXZPRGc1SmtUV05lSDN2d2d4bHl1SXRwcnpSVm1ZQXZidndRd0RQZzgxekFzTFdvdTB0cm1RR2wwZ2NXQWVDZ19MZlZXS1luTTJJQ2NvamRtOFhZNl9tbHNwaUZ6VDVvTURTbG1vQ3ZhUHlRbGdnc2l0Yy1iXzZVV05jN3NGSENsOHgxOFFUYmFZaEpaSHBFMDJLSXJtRkxTTHlzWlJmcTFUc29MbUpTcVRNNnM2YjlBdFVjSkVJSUp5aEZ1Y0R0cloza1hHVjZBZW9pekM1Nm1OTXBvRXdiaFZDd0ppazhaWA?oc=5"
         }
       ]
     }
