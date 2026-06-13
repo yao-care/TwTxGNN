@@ -44,11 +44,11 @@ permalink: /news/salicylamide/
 
 ## 相關新聞（1 則）
 
-### [感冒出現「喘鳴聲」得當心！RSV病毒威脅長者健康 嚴重恐演變肺炎重症](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KdjRxUVM2WlpkalhJVm0xVXA0el9xenJRUEVrRDRIaFhsZkVGRHpjdThmRnQ3aklVUzFxNnlLSGlzNU5qcTBjSlBEYjJ6TGZNTmVvUlhiT0xuTXJHRFpCcQ?oc=5)
+### [感冒出現「喘鳴聲」得當心！RSV病毒威脅長者健康 嚴重恐演變肺炎重症](https://news.google.com/rss/articles/CBMiW0FVX3lxTE13YnRleEd2aXJmSkNObW1qejJSLWZzNHk4LUFHTmFuR21qM181QUdaaWVrS3E3ejQ0Ync1UVl0aXNiQWJ6ZFIyWlZjT0tsMFZ6UnJ5ajN1VEo4dHM?oc=5)
 
 2026-06-12 <span class="news-indication-tag">感冒</span>
 
-來源：[民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KdjRxUVM2WlpkalhJVm0xVXA0el9xenJRUEVrRDRIaFhsZkVGRHpjdThmRnQ3aklVUzFxNnlLSGlzNU5qcTBjSlBEYjJ6TGZNTmVvUlhiT0xuTXJHRFpCcQ?oc=5)
+來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiW0FVX3lxTE13YnRleEd2aXJmSkNObW1qejJSLWZzNHk4LUFHTmFuR21qM181QUdaaWVrS3E3ejQ0Ync1UVl0aXNiQWJ6ZFIyWlZjT0tsMFZ6UnJ5ajN1VEo4dHM?oc=5)
 
 ---
 
