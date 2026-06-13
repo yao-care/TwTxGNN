@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-13T19:09:38.353136+00:00",
-  "count": 9,
+  "fetched_at": "2026-06-13T21:03:27.545581+00:00",
+  "count": 8,
   "news": [
     {
       "id": "337822192d9a",
@@ -16,14 +16,14 @@
       ]
     },
     {
-      "id": "4682ef588662",
-      "title": "最新科學研究發現：散步除了放鬆，還能減輕憂鬱感，但到底該走幾步才有效？ - gq.com.tw",
-      "published": "2026-06-13T08:56:13+00:00",
-      "summary": "最新科學研究發現：散步除了放鬆，還能減輕憂鬱感，但到底該走幾步才有效？&nbsp;&nbsp;gq.com.tw",
+      "id": "2390fca9ae50",
+      "title": "PrEP讓親密關係更安心，但HPV更需要一起管理！從友善健康照護角度，重新理解「安全性行為」 - 良醫健康網",
+      "published": "2026-06-12T11:20:54+00:00",
+      "summary": "PrEP讓親密關係更安心，但HPV更需要一起管理！從友善健康照護角度，重新理解「安全性行為」&nbsp;&nbsp;良醫健康網有性生活感染HPV機會達八成 非濫交亦會中招&nbsp;&nbsp;Yahoo「子宮頸抹片」多久要做一次？有助於防治子宮頸癌嗎？&nbsp;&nbsp;104職場力全城關注HPV！醫生揭單一性伴侶也可感染女教練11個月由陰轉陽坦言「HPV與私生活是否混亂無關」&nbsp;&nbsp;星島頭條HPV疫苗問世20年 醫籲接種篩檢建立家庭防護網&nbsp;&nbsp;信吉衛視+",
       "sources": [
         {
-          "name": "gq.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Pc2RTRWd0bGRXZjJyeUF4b3lFb2VmUXR4UVZWeE5BV3plNTlBbjRkUGo4cURUUGNPc3ZCQTJTVENhalBMZlM2bmZHSnFVVHB2ODk5S25mM0NBTVItZHNoMVZn?oc=5"
+          "name": "良醫健康網",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sdmdCaXBlYmhWdDFKQ2RpVU9pYU02TmpXUG54UGNVLXdxZGlrNWJDTXhRU2Q0WTNlV2kxNnhteGZkTDBXbXFCVS1sUF81LUlqVjlrTUhxa21Ca1ljT0FHUW9UNGhLTVYzZHc?oc=5"
         }
       ]
     },
@@ -36,18 +36,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQaUE2WGYxWll4UUxZa3E0YzQzdDdhR1JIcjJtbVBBNjJWYkp4U0xTUW02NHFvOTRMWHdhUWVMcmxFN1hKZ1Q2YkV5NTM3RkM2Z3lzdXF5YUdLRERIbW5hWkxmZVVSaTBVRm15M0FwMXA0VzY5X0ktcGU0bU5FUmJtV2pDaV9BSXRUTkEwTGtnbTlMRXlMVmZCWnVxVHlMZENpRGROSmpjNGFKY2JacXpmWnYtTW0wVnhLWjlQaDdGZV9WcGE3OF9RREVETW53U09Nbk1lblROYVpBSUgwbWFtRm1UbTc2NkxnZXFGYV9BNGlBZjFoTTIwOUgtVDduXzljcVpCV0Z6eGY2YWU4TjUtS000eG10c0tiRkN4NDBlQi1fVTY2UDZvajhtNzVzVmlRVzM5bHJSRFFGT2tRZU1MVnk2SnpOdU1yUUdKcC1qRUZGQzVmWUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2390fca9ae50",
-      "title": "PrEP讓親密關係更安心，但HPV更需要一起管理！從友善健康照護角度，重新理解「安全性行為」 - 良醫健康網",
-      "published": "2026-06-12T11:20:54+00:00",
-      "summary": "PrEP讓親密關係更安心，但HPV更需要一起管理！從友善健康照護角度，重新理解「安全性行為」&nbsp;&nbsp;良醫健康網有性生活感染HPV機會達八成 非濫交亦會中招&nbsp;&nbsp;Yahoo「子宮頸抹片」多久要做一次？有助於防治子宮頸癌嗎？&nbsp;&nbsp;104職場力全城關注HPV！醫生揭單一性伴侶也可感染女教練11個月由陰轉陽坦言「HPV與私生活是否混亂無關」&nbsp;&nbsp;星島頭條HPV疫苗問世20年 醫籲接種篩檢建立家庭防護網&nbsp;&nbsp;信吉衛視+",
-      "sources": [
-        {
-          "name": "良醫健康網",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sdmdCaXBlYmhWdDFKQ2RpVU9pYU02TmpXUG54UGNVLXdxZGlrNWJDTXhRU2Q0WTNlV2kxNnhteGZkTDBXbXFCVS1sUF81LUlqVjlrTUhxa21Ca1ljT0FHUW9UNGhLTVYzZHc?oc=5"
         }
       ]
     },
