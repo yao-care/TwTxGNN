@@ -1,13 +1,25 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-13T23:59:32.659072+00:00",
-  "count": 9,
+  "fetched_at": "2026-06-14T04:22:55.694113+00:00",
+  "count": 12,
   "news": [
+    {
+      "id": "4fc7e312dbee",
+      "title": "吃葡萄糖胺「這群人」罹失智症機率恐增25%！保養關節為何害到大腦、惡化阿茲海默症？揪出禍首是它 - 今周刊",
+      "published": "2026-06-14T03:49:00+00:00",
+      "summary": "吃葡萄糖胺「這群人」罹失智症機率恐增25%！保養關節為何害到大腦、惡化阿茲海默症？揪出禍首是它&nbsp;&nbsp;今周刊",
+      "sources": [
+        {
+          "name": "今周刊",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaUVTX1BuMkdLQzU0M0ZESTlzQXp0cEVUUDRSQ0lZdjZwU2dSYXBHNjEzOVlzXzBZMXRxRHYxZmlJemFiZUw2U1JzcTFWWEJZc294SzhTZjBNMldxczcyR3VwX2Y5dmFtbTFycl81bjhUYUk4U1Y5Z05qRlhtUENqcA?oc=5"
+        }
+      ]
+    },
     {
       "id": "337822192d9a",
       "title": "垃圾山、賞鳥與漢他病毒 一段意外的南極郵輪之旅 - 倡議家",
       "published": "2026-06-13T00:52:21+00:00",
-      "summary": "垃圾山、賞鳥與漢他病毒 一段意外的南極郵輪之旅&nbsp;&nbsp;倡議家前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "垃圾山、賞鳥與漢他病毒 一段意外的南極郵輪之旅&nbsp;&nbsp;倡議家極地探險變奪命驚魂！「世界盡頭」爆人傳人病毒郵輪群聚釀3死&nbsp;&nbsp;祝你健康阿根廷門多薩省未發現帶漢坦病毒嚙齒類動物&nbsp;&nbsp;澳門廣播電視股份有限公司阿根廷擴大漢坦病毒調查範圍 設陷阱捕捉與病毒傳播有關動物&nbsp;&nbsp;香港電台新聞網專家赴門多薩省 無發現帶漢坦病毒嚙齒類動物&nbsp;&nbsp;on.cc東網",
       "sources": [
         {
           "name": "倡議家",
@@ -16,14 +28,26 @@
       ]
     },
     {
-      "id": "2390fca9ae50",
-      "title": "PrEP讓親密關係更安心，但HPV更需要一起管理！從友善健康照護角度，重新理解「安全性行為」 - 良醫健康網",
-      "published": "2026-06-12T11:20:54+00:00",
-      "summary": "PrEP讓親密關係更安心，但HPV更需要一起管理！從友善健康照護角度，重新理解「安全性行為」&nbsp;&nbsp;良醫健康網有性生活感染HPV機會達八成 非濫交亦會中招&nbsp;&nbsp;Yahoo「子宮頸抹片」多久要做一次？有助於防治子宮頸癌嗎？&nbsp;&nbsp;104職場力全城關注HPV！醫生揭單一性伴侶也可感染女教練11個月由陰轉陽坦言「HPV與私生活是否混亂無關」&nbsp;&nbsp;星島頭條HPV疫苗問世20年 醫籲接種篩檢建立家庭防護網&nbsp;&nbsp;信吉衛視+",
+      "id": "ffff482408e3",
+      "title": "健康網》控糖不用忙著算熱量 研究曝吃對順序血糖反應差40％ - 自由健康網",
+      "published": "2026-06-14T01:36:00+00:00",
+      "summary": "健康網》控糖不用忙著算熱量 研究曝吃對順序血糖反應差40％&nbsp;&nbsp;自由健康網糖尿病元凶悄悄醞釀 醫教6招逆轉：胰島素敏感度增30％&nbsp;&nbsp;中時新聞網胰島素阻抗能逆轉！她每天吃「這蔬菜」不到一個月肝指數驟降-第2頁&nbsp;&nbsp;早安健康糖尿病飲食｜改變吃飯次序血糖高峰值減40% 醫生解迷思+正確順序&nbsp;&nbsp;香港01醫揭「6招」逆轉胰島素阻抗！「這款」躺著就見效&nbsp;&nbsp;祝你健康",
       "sources": [
         {
-          "name": "良醫健康網",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sdmdCaXBlYmhWdDFKQ2RpVU9pYU02TmpXUG54UGNVLXdxZGlrNWJDTXhRU2Q0WTNlV2kxNnhteGZkTDBXbXFCVS1sUF81LUlqVjlrTUhxa21Ca1ljT0FHUW9UNGhLTVYzZHc?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEbUU0Q1ZVUW9hYU9PbThFVmNOREZoTjMyRDlDbGJpa2VyV2xjcFpVZ1VUc29ueXZhN3Q4akxFUDF0WExrTmVyNGNFdlN2TzJOTzlJaE84TGJJdndIOXJWZUw0eUXSAWpBVV95cUxPWExjelRjbEk3SWR1aEs4RlVRMEtkUXAzdXFqWUQ2YU5LQjRLanV5LXFSOVlzcVd5UGxNNHAxd0lkb01PeXZMbnkwMUlpMFZ4V3N6NFhKQXJKTFBfcE15SGd6TzhEOWE4cml3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c80b402e4cfc",
+      "title": "HPV和「6大癌症」有關　醫示警：感染可能早在數十年前 - ETtoday健康雲",
+      "published": "2026-06-14T03:30:00+00:00",
+      "summary": "HPV和「6大癌症」有關 醫示警：感染可能早在數十年前&nbsp;&nbsp;ETtoday健康雲PrEP讓親密關係更安心，但HPV更需要一起管理！從友善健康照護角度，重新理解「安全性行為」&nbsp;&nbsp;良醫健康網「子宮頸抹片」多久要做一次？有助於防治子宮頸癌嗎？&nbsp;&nbsp;104職場力全城關注HPV！醫生揭單一性伴侶也可感染女教練11個月由陰轉陽坦言「HPV與私生活是否混亂無關」&nbsp;&nbsp;星島頭條HPV疫苗問世20年 醫籲接種篩檢建立家庭防護網&nbsp;&nbsp;信吉衛視+",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CTWNqRFR5RjZieEQyd005NWdWVnZ0Q2ZjaXJsN214RTJtdkRQZnhkNTFIdHlhSTZ0ek0tYS1DczNlejUzTnF6VTRYdk1qRWpp0gFsQVVfeXFMTi1zbFNjWTlCWU5jQXVhYWZ1d0ltVlRxaTVaX2ZKOGVBRmZsWGUwX0J6Vy1NTE00Q2ZMZ1VSMnNaQkxpVUtvWERUMzdHcXEyZ1plRno3RlhVSmNrbFQ4eWFWcWlzQmluX2hCemN0?oc=5"
         }
       ]
     },
@@ -52,14 +76,14 @@
       ]
     },
     {
-      "id": "cafc9776962f",
-      "title": "感冒出現「喘鳴聲」得當心！RSV病毒威脅長者健康 嚴重恐演變肺炎重症 - 三立新聞網SETN.com",
-      "published": "2026-06-12T04:20:00+00:00",
-      "summary": "感冒出現「喘鳴聲」得當心！RSV病毒威脅長者健康 嚴重恐演變肺炎重症&nbsp;&nbsp;三立新聞網SETN.com前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "5c3213c657c0",
+      "title": "預防嬰幼兒感染RSV釀重症！ 醫揭重點族群與預防策略 - 蕃新聞",
+      "published": "2026-06-12T07:31:07+00:00",
+      "summary": "預防嬰幼兒感染RSV釀重症！ 醫揭重點族群與預防策略&nbsp;&nbsp;蕃新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13YnRleEd2aXJmSkNObW1qejJSLWZzNHk4LUFHTmFuR21qM181QUdaaWVrS3E3ejQ0Ync1UVl0aXNiQWJ6ZFIyWlZjT0tsMFZ6UnJ5ajN1VEo4dHM?oc=5"
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JOUMyRG9HcHhaTTMxSEE0OUwwRlBVdklDTDk5ZkVPZ3BkOUJZZndnWnNkQ2wxd1IwQkNSVVhBVnVJN1R2ejUxZERXZlZMcVpzVGc?oc=5"
         }
       ]
     },
@@ -76,6 +100,18 @@
       ]
     },
     {
+      "id": "c5c88849c4f8",
+      "title": "世界盃2026︱關日華籲慎防高危群聚感染 警告新冠疫苗將迎「空窗期」 - 星島頭條",
+      "published": "2026-06-14T02:28:11+00:00",
+      "summary": "世界盃2026︱關日華籲慎防高危群聚感染 警告新冠疫苗將迎「空窗期」&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNQ2ZwZkZKNTZVZnJHMlM0clJza1BReTBGV1ZqeGEzc042TzFwLWZIRHlQZ2ROOEJkcmJXbElIQTN6R1RyT2VRUHhkR3JuNnA4QTV1SXg0VjkwWWozMV85VUlObzZrMzROUVNZSllReDI4SFFMVGdNR2xHRVZDQTMtbFh3RDhjQWtBVTFyR3lYano2LWN4bkFESFZRU3dDTlRyazN0NzJoTzBHWVZjc29RQnN1YVZUX0xKc044UVJPRkNOWUItNTBUZHFPekRmNXZ5Q0RoQWl2WlhVdVp4Z0ZzbmJZZ3VNVmNMakVKVU1aVjY2MnpTamFkcVUwNEZDRkVGREFzZ3lud3RMMzljSWRXaE0xaEtiUlNyWkt1S0ZBRGVXSjN5Y01XMHVneV8wXzdIVGItOHVHQVVVejNRMGNGUHc0VEtjV2UzQ1N1dUd4UXlvUF9WM1B2TDRhSTFsb2FXTkJYZUZQQnd0cWU2WDFsNVlyN1NOY0FKa0dfeDFNTUV3QmM0b0txdWlrcUJldjNjR3hhNA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cbd279f575fb",
       "title": "Sick問識答｜本港慢性腸炎患者30年急增30倍醫生拆解「炎症性腸病」成因建議定期做1事降患癌風險 - 晴報 Sky Post",
       "published": "2026-06-13T23:07:29+00:00",
@@ -88,6 +124,18 @@
       ]
     },
     {
+      "id": "62f1bd07a435",
+      "title": "沙巴骨痛熱症飆升50% , 衛生部引入「行為洞察」策略抗疫 - Overseas Chinese Daily News",
+      "published": "2026-06-14T03:14:26+00:00",
+      "summary": "沙巴骨痛熱症飆升50% , 衛生部引入「行為洞察」策略抗疫&nbsp;&nbsp;Overseas Chinese Daily News",
+      "sources": [
+        {
+          "name": "Overseas Chinese Daily News",
+          "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQS1FzcjI5Wm5BZmhDaHBSZU5zNUh5c1Z2U2ZHWkxTMHhseTRoZWg2TXU1YzhMNlViZVlhdHBnRG5GQjhXcUpxT2lEVmV5RHFQR0VFSmV5MXJhRl9YSHAyMG5aVjB5MDdISXhyNUVKazQ0STh1WnZyVVpQbllMOEFScVdVdWtsUUpxMXN1TjJLOURySU5DS0pQTE1tUmJVVGNtRUlCV3N3bGVaRzViWlRMcG10UHpQNXN1MHUtWHZPUFpHUnRLWW0wbFhqLWRIc3N3eHZOWi1EQTF5QXNMV0lINXFFMFg1MVBsUFlwbHRDZW5xbG5LaXVBVFhuYTVOSGhZQkRURGttNzFVTjZuX1dQRUtRSjdsMG9QX0lxVG44R1ptYVJXNVhnTVI2Nmk0Y0d0UURYU1VRbDlCamJkNW9hQWZXS2Jkd2RTeTQ5TjVzYUtaSWo0M05YekZVdjFwWTNJTUlMTVpyVmljOGs?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cf14f0600091",
       "title": "這些不安全性行為，容易傳播猴痘病毒 - 香港商报",
       "published": "2026-06-12T13:40:00+00:00",
@@ -96,18 +144,6 @@
         {
           "name": "香港商报",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wbUZXRUR0SVRkbzRUazBhM3hYRW5pU1h0aF9xdjJlLTZ1bUkwNzNOUks2cTFpWHp3V255Tkt0c1RyRnFuc1RnN1JxMWRsaFctOGtHQjhTaXZ1WS1SNGhqWFVseDc2RHBHRU5WaU5SOEZDZ2Q0Z2J6YjM2QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5740e7cdd3da",
-      "title": "夏天喉嚨痛發燒不只是中暑？醫生揭6大夏季流行病毒！1類場所最易爆發手足口病 - 星島頭條",
-      "published": "2026-06-12T03:09:04+00:00",
-      "summary": "夏天喉嚨痛發燒不只是中暑？醫生揭6大夏季流行病毒！1類場所最易爆發手足口病&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxNclg2a3UzSHk1bWszQ0dSVG1vbjJXRFh4eE9XeWxpbVEwV0xTVEw1c0Q2bXgwOGNnaHY3YkVUX3gwQ0M4aEtTVVlSNDRGV2t3dzdxZ25aZldLVTdhQy1JWm1lRlNQTkFsTFlxZHZTUGhXbGVyLUFsWEZEbmlkTjFkbm5zT01wX25MS09ScXpzeTBiV01XZkNRWTNQOGJpNjBPUy1wRXZ0cE5JeTlhWXVHcmRWcnZjREVRUWpXOEhoYi1YNGhUdmh1ek5qRUVBMDg4VWVfQWRmYjBBY2xoWkNlelROc1lZVnFhejRiS1hGUnlaX2hBMHdUZGRDZUdoU3FPQ1NoVlBnNXZPRGc1SmtUV05lSDN2d2d4bHl1SXRwcnpSVm1ZQXZidndRd0RQZzgxekFzTFdvdTB0cm1RR2wwZ2NXQWVDZ19MZlZXS1luTTJJQ2NvamRtOFhZNl9tbHNwaUZ6VDVvTURTbG1vQ3ZhUHlRbGdnc2l0Yy1iXzZVV05jN3NGSENsOHgxOFFUYmFZaEpaSHBFMDJLSXJtRkxTTHlzWlJmcTFUc29MbUpTcVRNNnM2YjlBdFVjSkVJSUp5aEZ1Y0R0cloza1hHVjZBZW9pekM1Nm1OTXBvRXdiaFZDd0ppazhaWA?oc=5"
         }
       ]
     }

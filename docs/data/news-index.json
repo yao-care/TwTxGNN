@@ -1,7 +1,272 @@
 {
-  "generated": "2026-06-13T23:59:37.115688+00:00",
+  "generated": "2026-06-14T04:23:00.391319+00:00",
   "count": 4,
   "news": [
+    {
+      "id": "4fc7e312dbee",
+      "title": "吃葡萄糖胺「這群人」罹失智症機率恐增25%！保養關節為何害到大腦、惡化阿茲海默症？揪出禍首是它",
+      "published": "2026-06-14T03:49:00+00:00",
+      "sources": [
+        {
+          "name": "今周刊",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaUVTX1BuMkdLQzU0M0ZESTlzQXp0cEVUUDRSQ0lZdjZwU2dSYXBHNjEzOVlzXzBZMXRxRHYxZmlJemFiZUw2U1JzcTFWWEJZc294SzhTZjBNMldxczcyR3VwX2Y5dmFtbTFycl81bjhUYUk4U1Y5Z05qRlhtUENqcA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c80b402e4cfc",
+      "title": "HPV和「6大癌症」有關　醫示警：感染可能早在數十年前",
+      "published": "2026-06-14T03:30:00+00:00",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CTWNqRFR5RjZieEQyd005NWdWVnZ0Q2ZjaXJsN214RTJtdkRQZnhkNTFIdHlhSTZ0ek0tYS1DczNlejUzTnF6VTRYdk1qRWpp0gFsQVVfeXFMTi1zbFNjWTlCWU5jQXVhYWZ1d0ltVlRxaTVaX2ZKOGVBRmZsWGUwX0J6Vy1NTE00Q2ZMZ1VSMnNaQkxpVUtvWERUMzdHcXEyZ1plRno3RlhVSmNrbFQ4eWFWcWlzQmluX2hCemN0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "cbd279f575fb",
       "title": "Sick問識答｜本港慢性腸炎患者30年急增30倍醫生拆解「炎症性腸病」成因建議定期做1事降患癌風險 - 晴報 Sky Post",
@@ -45,54 +310,6 @@
             {
               "slug": "dehydrocholic_acid",
               "name": "Dehydrocholic acid"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2390fca9ae50",
-      "title": "PrEP讓親密關係更安心，但HPV更需要一起管理！從友善健康照護角度，重新理解「安全性行為」",
-      "published": "2026-06-12T11:20:54+00:00",
-      "sources": [
-        {
-          "name": "良醫健康網",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sdmdCaXBlYmhWdDFKQ2RpVU9pYU02TmpXUG54UGNVLXdxZGlrNWJDTXhRU2Q0WTNlV2kxNnhteGZkTDBXbXFCVS1sUF81LUlqVjlrTUhxa21Ca1ljT0FHUW9UNGhLTVYzZHc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cafc9776962f",
-      "title": "感冒出現「喘鳴聲」得當心！RSV病毒威脅長者健康 嚴重恐演變肺炎重症",
-      "published": "2026-06-12T04:20:00+00:00",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13YnRleEd2aXJmSkNObW1qejJSLWZzNHk4LUFHTmFuR21qM181QUdaaWVrS3E3ejQ0Ync1UVl0aXNiQWJ6ZFIyWlZjT0tsMFZ6UnJ5ajN1VEo4dHM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
