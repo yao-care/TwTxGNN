@@ -39,11 +39,11 @@ permalink: /news/common-cold/
 
 ---
 
-### [RSV恐致嬰幼兒重症！醫揭「這類人」住院率高 新型疫苗助防護 - PChome Online](https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEJmZmdraWRtaTVfQkQzM09HaWo3YTlldnBmSlVUQzNyVFJMLUNHTFh5XzJCTjdNQmd0QUNUT21GNVBzYzdEcEVzTnNCcHdDNnZtMXdzX21sSEF0MUxoYTh6VTZfTEd3STY3V09XcXUtSnpGYVR0MEU3ZTFVNllsSnlGVk5lSk5lZlJBeEdRTV8?oc=5)
+### [RSV恐致嬰幼兒重症！醫揭「這類人」住院率高 新型疫苗助防護 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEJmZmdraWRtaTVfQkQzM09HaWo3YTlldnBmSlVUQzNyVFJMLUNHTFh5XzJCTjdNQmd0QUNUT21GNVBzYzdEcEVzTnNCcHdDNnZtMXdzX21sSEF0MUxoYTh6VTZfTEd3STY3V09XcXUtSnpGYVR0MEU3ZTFVNllsSnlGVk5lSk5lZlJBeEdRTV8?oc=5)
 
 2026-06-14
 
-來源：[PChome Online](https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEJmZmdraWRtaTVfQkQzM09HaWo3YTlldnBmSlVUQzNyVFJMLUNHTFh5XzJCTjdNQmd0QUNUT21GNVBzYzdEcEVzTnNCcHdDNnZtMXdzX21sSEF0MUxoYTh6VTZfTEd3STY3V09XcXUtSnpGYVR0MEU3ZTFVNllsSnlGVk5lSk5lZlJBeEdRTV8?oc=5)
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEJmZmdraWRtaTVfQkQzM09HaWo3YTlldnBmSlVUQzNyVFJMLUNHTFh5XzJCTjdNQmd0QUNUT21GNVBzYzdEcEVzTnNCcHdDNnZtMXdzX21sSEF0MUxoYTh6VTZfTEd3STY3V09XcXUtSnpGYVR0MEU3ZTFVNllsSnlGVk5lSk5lZlJBeEdRTV8?oc=5)
 
 ---
 

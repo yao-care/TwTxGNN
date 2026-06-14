@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [HPV和「6大癌症」有關　醫示警：感染可能早在數十年前](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CTWNqRFR5RjZieEQyd005NWdWVnZ0Q2ZjaXJsN214RTJtdkRQZnhkNTFIdHlhSTZ0ek0tYS1DczNlejUzTnF6VTRYdk1qRWpp0gFsQVVfeXFMTi1zbFNjWTlCWU5jQXVhYWZ1d0ltVlRxaTVaX2ZKOGVBRmZsWGUwX0J6Vy1NTE00Q2ZMZ1VSMnNaQkxpVUtvWERUMzdHcXEyZ1plRno3RlhVSmNrbFQ4eWFWcWlzQmluX2hCemN0?oc=5)
 
 2026-06-14 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
 
 來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CTWNqRFR5RjZieEQyd005NWdWVnZ0Q2ZjaXJsN214RTJtdkRQZnhkNTFIdHlhSTZ0ek0tYS1DczNlejUzTnF6VTRYdk1qRWpp0gFsQVVfeXFMTi1zbFNjWTlCWU5jQXVhYWZ1d0ltVlRxaTVaX2ZKOGVBRmZsWGUwX0J6Vy1NTE00Q2ZMZ1VSMnNaQkxpVUtvWERUMzdHcXEyZ1plRno3RlhVSmNrbFQ4eWFWcWlzQmluX2hCemN0?oc=5)
-
----
-
-### [很多人都在吃！研究發現葡萄糖胺與失智症進展有關](https://news.google.com/rss/articles/CBMi3AJBVV95cUxQaEp1aFNXbVUwak9FRHlQQ1M5cnpZWEt3SmIzdWRialdGSklHN2NDNVJLZnVhZTdNanRwaWNjeXBxWDRGZm1QamUyVEx6aE9JOHhNRG1xZHRvZXU5bVIxZlFPS1ltUVB1RDVtU2R6ZUZaYzVkMkxhYUhWbll1dGY5QnV2eEctRVBNMFN2eGlSRVpOM3hBMGR0cGYyWGhrNWNNMWZRSXFicUZ3YXU2SWs2M1BESWlYNVFUOTFnOGNBVUJFakZnSWZuRnJxajI1UmdsTVpKVWZ5MFFJVU10RWV5VVJPM2NKNFlsNlhhemtsM0NCRUVXV21TUW8wNmRxMjhac3J4SHR5U0pXQkljNC1ONGNCYzZiOWp6R1NuaTlEOEltQ0ctVjdDaHljZWZpXzQ5RUNiQTBtR05hamNwYnlpcUVIUV9aSzhqLVl3cldGMnFZZEc2VHhYTVhiT1Q?oc=5)
-
-2026-06-13 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi3AJBVV95cUxQaEp1aFNXbVUwak9FRHlQQ1M5cnpZWEt3SmIzdWRialdGSklHN2NDNVJLZnVhZTdNanRwaWNjeXBxWDRGZm1QamUyVEx6aE9JOHhNRG1xZHRvZXU5bVIxZlFPS1ltUVB1RDVtU2R6ZUZaYzVkMkxhYUhWbll1dGY5QnV2eEctRVBNMFN2eGlSRVpOM3hBMGR0cGYyWGhrNWNNMWZRSXFicUZ3YXU2SWs2M1BESWlYNVFUOTFnOGNBVUJFakZnSWZuRnJxajI1UmdsTVpKVWZ5MFFJVU10RWV5VVJPM2NKNFlsNlhhemtsM0NCRUVXV21TUW8wNmRxMjhac3J4SHR5U0pXQkljNC1ONGNCYzZiOWp6R1NuaTlEOEltQ0ctVjdDaHljZWZpXzQ5RUNiQTBtR05hamNwYnlpcUVIUV9aSzhqLVl3cldGMnFZZEc2VHhYTVhiT1Q?oc=5)
 
 ---
 

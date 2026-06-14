@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T17:09:43.865108+00:00",
-  "count": 7,
+  "generated": "2026-06-14T19:10:31.125655+00:00",
+  "count": 6,
   "news": [
     {
       "id": "dc642a9db50b",
@@ -27,12 +27,12 @@
       ]
     },
     {
-      "id": "43302d3446ac",
-      "title": "RSV恐致嬰幼兒重症！醫揭「這類人」住院率高 新型疫苗助防護 - PChome Online",
+      "id": "bbe3bf93a6cd",
+      "title": "RSV恐致嬰幼兒重症！醫揭「這類人」住院率高 新型疫苗助防護 - PChome Online 新聞",
       "published": "2026-06-14T09:10:04+00:00",
       "sources": [
         {
-          "name": "PChome Online",
+          "name": "PChome Online 新聞",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEJmZmdraWRtaTVfQkQzM09HaWo3YTlldnBmSlVUQzNyVFJMLUNHTFh5XzJCTjdNQmd0QUNUT21GNVBzYzdEcEVzTnNCcHdDNnZtMXdzX21sSEF0MUxoYTh6VTZfTEd3STY3V09XcXUtSnpGYVR0MEU3ZTFVNllsSnlGVk5lSk5lZlJBeEdRTV8?oc=5"
         }
       ],
@@ -336,41 +336,6 @@
             {
               "slug": "dehydrocholic_acid",
               "name": "Dehydrocholic acid"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "183fe49ac71a",
-      "title": "很多人都在吃！研究發現葡萄糖胺與失智症進展有關",
-      "published": "2026-06-13T03:46:30+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQaEp1aFNXbVUwak9FRHlQQ1M5cnpZWEt3SmIzdWRialdGSklHN2NDNVJLZnVhZTdNanRwaWNjeXBxWDRGZm1QamUyVEx6aE9JOHhNRG1xZHRvZXU5bVIxZlFPS1ltUVB1RDVtU2R6ZUZaYzVkMkxhYUhWbll1dGY5QnV2eEctRVBNMFN2eGlSRVpOM3hBMGR0cGYyWGhrNWNNMWZRSXFicUZ3YXU2SWs2M1BESWlYNVFUOTFnOGNBVUJFakZnSWZuRnJxajI1UmdsTVpKVWZ5MFFJVU10RWV5VVJPM2NKNFlsNlhhemtsM0NCRUVXV21TUW8wNmRxMjhac3J4SHR5U0pXQkljNC1ONGNCYzZiOWp6R1NuaTlEOEltQ0ctVjdDaHljZWZpXzQ5RUNiQTBtR05hamNwYnlpcUVIUV9aSzhqLVl3cldGMnFZZEc2VHhYTVhiT1Q?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
