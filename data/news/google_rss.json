@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-14T11:24:13.326807+00:00",
+  "fetched_at": "2026-06-14T13:40:51.109031+00:00",
   "count": 11,
   "news": [
     {
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "9e85d78c37fb",
-      "title": "不是普通感冒！醫揭「這病毒」2天恐變重症：長輩心肺衰竭隱形殺手 - 祝你健康",
-      "published": "2026-06-13T05:12:56+00:00",
-      "summary": "不是普通感冒！醫揭「這病毒」2天恐變重症：長輩心肺衰竭隱形殺手&nbsp;&nbsp;祝你健康前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MWnRxMkJBdXY5cEVRTDlRZ1Z2aDZERm1ydjZTc0Z3blZ3UEkyU3kwWUdWYnhsRDluTF9hTEtMd2RHeGJwREtxb29xN2s?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c80b402e4cfc",
       "title": "HPV和「6大癌症」有關　醫示警：感染可能早在數十年前 - ETtoday健康雲",
       "published": "2026-06-14T03:30:00+00:00",
@@ -48,6 +36,18 @@
         {
           "name": "ETtoday健康雲",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CTWNqRFR5RjZieEQyd005NWdWVnZ0Q2ZjaXJsN214RTJtdkRQZnhkNTFIdHlhSTZ0ek0tYS1DczNlejUzTnF6VTRYdk1qRWpp0gFsQVVfeXFMTi1zbFNjWTlCWU5jQXVhYWZ1d0ltVlRxaTVaX2ZKOGVBRmZsWGUwX0J6Vy1NTE00Q2ZMZ1VSMnNaQkxpVUtvWERUMzdHcXEyZ1plRno3RlhVSmNrbFQ4eWFWcWlzQmluX2hCemN0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9e85d78c37fb",
+      "title": "不是普通感冒！醫揭「這病毒」2天恐變重症：長輩心肺衰竭隱形殺手 - 祝你健康",
+      "published": "2026-06-13T05:12:56+00:00",
+      "summary": "不是普通感冒！醫揭「這病毒」2天恐變重症：長輩心肺衰竭隱形殺手&nbsp;&nbsp;祝你健康前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MWnRxMkJBdXY5cEVRTDlRZ1Z2aDZERm1ydjZTc0Z3blZ3UEkyU3kwWUdWYnhsRDluTF9hTEtMd2RHeGJwREtxb29xN2s?oc=5"
         }
       ]
     },
