@@ -60,7 +60,7 @@ permalink: /news/salicylamide/
 
 ---
 
-### [醫起看／久咳以為感冒 肺X光驚見「詭異空洞」醫嚇壞了](https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2Rkp0a2lzUHhwME5OZEFETjExdi1MNXFfNzNqWWIwWUhHbDRrcm8yMzM5dUNFQS1mNXE3dVdjWWhWVXIyV2prUEVtQ3JTNW1oaDVGYQ?oc=5)
+### [醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光](https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2Rkp0a2lzUHhwME5OZEFETjExdi1MNXFfNzNqWWIwWUhHbDRrcm8yMzM5dUNFQS1mNXE3dVdjWWhWVXIyV2prUEVtQ3JTNW1oaDVGYQ?oc=5)
 
 2026-06-14 <span class="news-indication-tag">感冒</span>
 
