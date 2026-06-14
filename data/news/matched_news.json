@@ -1,13 +1,63 @@
 {
-  "last_updated": "2026-06-14T15:43:03.344834+00:00",
-  "total_count": 11,
-  "matched_count": 6,
+  "last_updated": "2026-06-14T17:09:43.835407+00:00",
+  "total_count": 12,
+  "matched_count": 7,
   "news": [
+    {
+      "id": "dc642a9db50b",
+      "title": "破傷風在美國捲土重來，對抗它其實不難",
+      "published": "2026-06-14T15:46:41+00:00",
+      "summary": "破傷風在美國捲土重來，對抗它其實不難&nbsp;&nbsp;國家地理雜誌",
+      "sources": [
+        {
+          "name": "國家地理雜誌",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEaEpfX3JTX0pXOVJyZy1KUnZxVThyYWRiLW80dWlHbG5OQVVWTkpMOVpNTVdvUUk2UnlraEVPMXR0eGpTLXN0bHhtQjB0Z0h3NVZMMUh4TWVOdGwyQzhjTWpZazlYbGhwYkduZ0NBSQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "傷風",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "43302d3446ac",
+      "title": "RSV恐致嬰幼兒重症！醫揭「這類人」住院率高 新型疫苗助防護 - PChome Online",
+      "published": "2026-06-14T09:10:04+00:00",
+      "summary": "RSV恐致嬰幼兒重症！醫揭「這類人」住院率高 新型疫苗助防護&nbsp;&nbsp;PChome Online不是普通感冒！醫揭「這病毒」2天恐變重症：長輩心肺衰竭隱形殺手&nbsp;&nbsp;Yahoo新聞感冒出現「喘鳴聲」得當心！RSV病毒威脅長者健康 嚴重恐演變肺炎重症&nbsp;&nbsp;祝你健康0-6個月嬰幼兒大敵！愛寶寶， 從孕期保護做起&nbsp;&nbsp;嬰兒與母親【醫生專欄】聽見 BB 呼吸「殊殊聲」？拆解 RSV 威脅與「預防性抗體」新突破&nbsp;&nbsp;Sundaykiss",
+      "sources": [
+        {
+          "name": "PChome Online",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEJmZmdraWRtaTVfQkQzM09HaWo3YTlldnBmSlVUQzNyVFJMLUNHTFh5XzJCTjdNQmd0QUNUT21GNVBzYzdEcEVzTnNCcHdDNnZtMXdzX21sSEF0MUxoYTh6VTZfTEd3STY3V09XcXUtSnpGYVR0MEU3ZTFVNllsSnlGVk5lSk5lZlJBeEdRTV8?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1c2fb6a7d51f",
       "title": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光",
       "published": "2026-06-14T08:51:00+00:00",
-      "summary": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光&nbsp;&nbsp;Yahoo新聞咳不停驚見「肺被啃出空洞」！他喉嚨傳出1聲音 醫見X光嚇傻&nbsp;&nbsp;TVBS新聞網他久咳當感冒！一照X光「肺被啃出空洞」&nbsp;&nbsp;四季線上4gTV以為小感冒！長者狂咳「肺被啃詭異空洞」醫看X光發麻急喊隔離&nbsp;&nbsp;祝你健康久咳當感冒！X光一照驚見「肺有詭異空洞」 醫急喊：立刻隔離&nbsp;&nbsp;中天新聞網",
+      "summary": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光&nbsp;&nbsp;Yahoo新聞咳不停驚見「肺被啃出空洞」！他喉嚨傳出1聲音 醫見X光嚇傻&nbsp;&nbsp;TVBS新聞網以為小感冒！長者狂咳「肺被啃詭異空洞」醫看X光發麻急喊隔離&nbsp;&nbsp;祝你健康久咳當感冒！X光一照驚見「肺有詭異空洞」 醫急喊：立刻隔離&nbsp;&nbsp;中天新聞網男久咳、吃不下以為感冒！X光驚見「肺部空洞」 醫急下令隔離- 生活&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -325,29 +375,17 @@
       "matched_keywords": []
     },
     {
-      "id": "9e85d78c37fb",
-      "title": "不是普通感冒！醫揭「這病毒」2天恐變重症：長輩心肺衰竭隱形殺手",
-      "published": "2026-06-13T05:12:56+00:00",
-      "summary": "不是普通感冒！醫揭「這病毒」2天恐變重症：長輩心肺衰竭隱形殺手&nbsp;&nbsp;祝你健康前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "d388cbafe193",
+      "title": "極地探險變奪命驚魂！「世界盡頭」爆人傳人病毒郵輪群聚釀3死",
+      "published": "2026-06-13T07:23:00+00:00",
+      "summary": "極地探險變奪命驚魂！「世界盡頭」爆人傳人病毒郵輪群聚釀3死&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MWnRxMkJBdXY5cEVRTDlRZ1Z2aDZERm1ydjZTc0Z3blZ3UEkyU3kwWUdWYnhsRDluTF9hTEtMd2RHeGJwREtxb29xN2s?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQU1d6dVdmand0YkFpbGxfNEI1LW5QOWtZUUlhVnVESFl6cVltUWlxeDg1eDB0bG16SnI5OW9xUVBBSl9tLVdELVh3QWQ3ZkZTc1ZRZWFSQTJ2OFhsNmgyYmZ5dHJKR3F1S2lzeHZlLW1wejczcW0yMVVuQzBJRGRVYXpJWVB4ZlY5angwTGt4RnJ5X01IZWpTd3hoU0o0dzVWZHVYUlVjZ1puUmNJT1ZfeHVXb2E1dVIzZ05ueUhFS09PUXJLeTVHeFhhZ21PRExhWnJyak8ycnJlN043VTgwYXBUVlBlSVBJeDNkVTM5XzFCT0xGNFpRVTFSZ29Ed2FjTDZrR3FPcTVPbF9OaXg2VlBQTXhuQWxDU0ExR0ZfdkdpZ3djOXRVUkJxNlk4dzZzbWZfc1pRWTRYMUhtOWxHTnJuM2dIMTFaRHJ2Z2FTTkxQY2tCcy00QkFPSUVOZ2Nmek1Jek9mMmR2SFVIeHpYX3NJUF9qUXBFdm1fX3NDZkJuWEU?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "183fe49ac71a",
@@ -386,27 +424,14 @@
       ]
     },
     {
-      "id": "337822192d9a",
-      "title": "垃圾山、賞鳥與漢他病毒 一段意外的南極郵輪之旅",
-      "published": "2026-06-13T00:52:21+00:00",
-      "summary": "垃圾山、賞鳥與漢他病毒 一段意外的南極郵輪之旅&nbsp;&nbsp;倡議家極地探險變奪命驚魂！「世界盡頭」爆人傳人病毒郵輪群聚釀3死&nbsp;&nbsp;祝你健康阿根廷門多薩省未發現帶漢坦病毒嚙齒類動物&nbsp;&nbsp;澳門廣播電視股份有限公司阿根廷擴大漢坦病毒調查範圍 設陷阱捕捉與病毒傳播有關動物&nbsp;&nbsp;香港電台新聞網專家赴門多薩省 無發現帶漢坦病毒嚙齒類動物&nbsp;&nbsp;on.cc東網",
+      "id": "512af51bcfd2",
+      "title": "別瞎吃！嘴破分3種 營養師曝神級飲食指南：補「這營養」防反覆發作",
+      "published": "2026-06-13T00:32:56+00:00",
+      "summary": "別瞎吃！嘴破分3種 營養師曝神級飲食指南：補「這營養」防反覆發作&nbsp;&nbsp;祝你健康",
       "sources": [
         {
-          "name": "倡議家",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PMHZNSU5kS2dTZXBna081MVhqZTRKREF1QTZUa1lVUGg5cVlxbnhFb3pteTNBOWIzN1JUVzFNc2NPd0RiN2Fod2F1T3ZhcHJ3cmZ4UVFveHlpZl9ud2h30gFkQVVfeXFMUGdDNk5lNHo0ZUdfa3pqWHBaN2E0TVZJdzdsakM4OFAwR05NLXBPel8tT0tBRUJZTE9vc2MtaDlPRUFmbGkzVEMwaUpUV2RpbEVHMU5uTlBuSktkOXlma21Yd0M0dQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7d47e1e742ed",
-      "title": "嘴破分3種　營養師：補「這營養」防復發 - 鏡週刊Mirror Media",
-      "published": "2026-06-13T00:30:00+00:00",
-      "summary": "嘴破分3種 營養師：補「這營養」防復發&nbsp;&nbsp;鏡週刊Mirror Media",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TcTZZajhNV19fdW0xLTdmc0pwd2JJZ3lITGVfQzB4WVNkNm1KQ2JTU25xOURYTzdzbllYX3JVOUF4aDlXeGtfdmJYOGJMT0tDYmFzSlJKNzc5VUZP0gFiQVVfeXFMUGwzOWM5ZTlxVmhuT2ZlRWlSU3YtNUZuekFNLTlRNnV1SlJUNFYxMURLdDZBV0ZhYUloSEI4TUxqUXFDaTRzY3JHNUk3M3lxNTFtajktNWFZaGRmc0xiRW9XUGc?oc=5"
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11MEU4NlBSeUVsd3AtLXJ4RVJfVk4yUVFvYm45SmZhUkk5MkFLVE9wSlpRS1M4NWE2a29SSS1jWDFtRmJHeERYNE96Znk?oc=5"
         }
       ],
       "matched_keywords": []

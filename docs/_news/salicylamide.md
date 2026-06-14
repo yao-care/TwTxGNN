@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,29 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [破傷風在美國捲土重來，對抗它其實不難](https://news.google.com/rss/articles/CBMib0FVX3lxTFBEaEpfX3JTX0pXOVJyZy1KUnZxVThyYWRiLW80dWlHbG5OQVVWTkpMOVpNTVdvUUk2UnlraEVPMXR0eGpTLXN0bHhtQjB0Z0h3NVZMMUh4TWVOdGwyQzhjTWpZazlYbGhwYkduZ0NBSQ?oc=5)
+
+2026-06-14 <span class="news-indication-tag">傷風</span>
+
+來源：[國家地理雜誌](https://news.google.com/rss/articles/CBMib0FVX3lxTFBEaEpfX3JTX0pXOVJyZy1KUnZxVThyYWRiLW80dWlHbG5OQVVWTkpMOVpNTVdvUUk2UnlraEVPMXR0eGpTLXN0bHhtQjB0Z0h3NVZMMUh4TWVOdGwyQzhjTWpZazlYbGhwYkduZ0NBSQ?oc=5)
+
+---
+
+### [RSV恐致嬰幼兒重症！醫揭「這類人」住院率高 新型疫苗助防護 - PChome Online](https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEJmZmdraWRtaTVfQkQzM09HaWo3YTlldnBmSlVUQzNyVFJMLUNHTFh5XzJCTjdNQmd0QUNUT21GNVBzYzdEcEVzTnNCcHdDNnZtMXdzX21sSEF0MUxoYTh6VTZfTEd3STY3V09XcXUtSnpGYVR0MEU3ZTFVNllsSnlGVk5lSk5lZlJBeEdRTV8?oc=5)
+
+2026-06-14 <span class="news-indication-tag">感冒</span>
+
+來源：[PChome Online](https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEJmZmdraWRtaTVfQkQzM09HaWo3YTlldnBmSlVUQzNyVFJMLUNHTFh5XzJCTjdNQmd0QUNUT21GNVBzYzdEcEVzTnNCcHdDNnZtMXdzX21sSEF0MUxoYTh6VTZfTEd3STY3V09XcXUtSnpGYVR0MEU3ZTFVNllsSnlGVk5lSk5lZlJBeEdRTV8?oc=5)
+
+---
 
 ### [醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光](https://news.google.com/rss/articles/CBMi1AJBVV95cUxNV1pzclpfOWRwZlZlZmpFU0p4NzQySGg1ZDlmSWc5ajBJUlpSaGtJM09WQ28zcTVQeEdlaWtTb0MzNkFIT3kzZTRmd1kxSjZaTTNVTU55WmhwUENMNEhHWENURGVJdTNfSXVKeGZCc1pLZmdIWXRBR0xlVlVfczE4R1plSDFYX3NxTVJPa3Fsc2pRY0F2Tkk5LTQ3MGlzZHFOY0hrMnRmUmdJa3JZak9wc2NJb2V4TkowRXlWYTR3SC1DV0IyR21kT2JiY1djZTQ1M3VuaERKUFlCMzF0bUlxbzNLbUVEelc2VVdOMDROb2w2dDBRZUoycTJKeWM4SkNSS05hNzR3MVJkUUxVcndqUUxhVVJXMnlfajRTTW8tSzMxQzFwbUEtOWtHVDdnTV8yR0thRFg1QlNMczBHSk05ck1OR3VXN0xZcTNSa1ZqYlR4ck9K?oc=5)
 
 2026-06-14 <span class="news-indication-tag">感冒</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi1AJBVV95cUxNV1pzclpfOWRwZlZlZmpFU0p4NzQySGg1ZDlmSWc5ajBJUlpSaGtJM09WQ28zcTVQeEdlaWtTb0MzNkFIT3kzZTRmd1kxSjZaTTNVTU55WmhwUENMNEhHWENURGVJdTNfSXVKeGZCc1pLZmdIWXRBR0xlVlVfczE4R1plSDFYX3NxTVJPa3Fsc2pRY0F2Tkk5LTQ3MGlzZHFOY0hrMnRmUmdJa3JZak9wc2NJb2V4TkowRXlWYTR3SC1DV0IyR21kT2JiY1djZTQ1M3VuaERKUFlCMzF0bUlxbzNLbUVEelc2VVdOMDROb2w2dDBRZUoycTJKeWM4SkNSS05hNzR3MVJkUUxVcndqUUxhVVJXMnlfajRTTW8tSzMxQzFwbUEtOWtHVDdnTV8yR0thRFg1QlNMczBHSk05ck1OR3VXN0xZcTNSa1ZqYlR4ck9K?oc=5)
-
----
-
-### [不是普通感冒！醫揭「這病毒」2天恐變重症：長輩心肺衰竭隱形殺手](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MWnRxMkJBdXY5cEVRTDlRZ1Z2aDZERm1ydjZTc0Z3blZ3UEkyU3kwWUdWYnhsRDluTF9hTEtMd2RHeGJwREtxb29xN2s?oc=5)
-
-2026-06-13 <span class="news-indication-tag">感冒</span>
-
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MWnRxMkJBdXY5cEVRTDlRZ1Z2aDZERm1ydjZTc0Z3blZ3UEkyU3kwWUdWYnhsRDluTF9hTEtMd2RHeGJwREtxb29xN2s?oc=5)
 
 ---
 

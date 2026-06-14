@@ -1,7 +1,55 @@
 {
-  "generated": "2026-06-14T15:43:03.365618+00:00",
-  "count": 6,
+  "generated": "2026-06-14T17:09:43.865108+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "dc642a9db50b",
+      "title": "破傷風在美國捲土重來，對抗它其實不難",
+      "published": "2026-06-14T15:46:41+00:00",
+      "sources": [
+        {
+          "name": "國家地理雜誌",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEaEpfX3JTX0pXOVJyZy1KUnZxVThyYWRiLW80dWlHbG5OQVVWTkpMOVpNTVdvUUk2UnlraEVPMXR0eGpTLXN0bHhtQjB0Z0h3NVZMMUh4TWVOdGwyQzhjTWpZazlYbGhwYkduZ0NBSQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "傷風",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "43302d3446ac",
+      "title": "RSV恐致嬰幼兒重症！醫揭「這類人」住院率高 新型疫苗助防護 - PChome Online",
+      "published": "2026-06-14T09:10:04+00:00",
+      "sources": [
+        {
+          "name": "PChome Online",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEJmZmdraWRtaTVfQkQzM09HaWo3YTlldnBmSlVUQzNyVFJMLUNHTFh5XzJCTjdNQmd0QUNUT21GNVBzYzdEcEVzTnNCcHdDNnZtMXdzX21sSEF0MUxoYTh6VTZfTEd3STY3V09XcXUtSnpGYVR0MEU3ZTFVNllsSnlGVk5lSk5lZlJBeEdRTV8?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1c2fb6a7d51f",
       "title": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光",
@@ -288,30 +336,6 @@
             {
               "slug": "dehydrocholic_acid",
               "name": "Dehydrocholic acid"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9e85d78c37fb",
-      "title": "不是普通感冒！醫揭「這病毒」2天恐變重症：長輩心肺衰竭隱形殺手",
-      "published": "2026-06-13T05:12:56+00:00",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MWnRxMkJBdXY5cEVRTDlRZ1Z2aDZERm1ydjZTc0Z3blZ3UEkyU3kwWUdWYnhsRDluTF9hTEtMd2RHeGJwREtxb29xN2s?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
