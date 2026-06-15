@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-15T20:46:27.948563+00:00",
-  "count": 16,
+  "fetched_at": "2026-06-15T22:57:03.859379+00:00",
+  "count": 13,
   "news": [
     {
       "id": "c0c219599ba5",
@@ -28,14 +28,14 @@
       ]
     },
     {
-      "id": "8ac016c0b145",
-      "title": "亞東醫院全球首證實 TEE導引精準CPR提升急救效能 - 蕃新聞",
-      "published": "2026-06-15T16:15:00+00:00",
-      "summary": "亞東醫院全球首證實 TEE導引精準CPR提升急救效能&nbsp;&nbsp;蕃新聞",
+      "id": "b55a6e2fd1db",
+      "title": "健康名人堂／重複吃同樣食物 原來也能幫助減肥 - UDN",
+      "published": "2026-06-15T16:00:00+00:00",
+      "summary": "健康名人堂／重複吃同樣食物 原來也能幫助減肥&nbsp;&nbsp;UDN",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MeUJObUpycXMzSlV5UzhlLWJiS2NlcVlzZFZndERzLU42cmtubEhQN0daaXdJcWdFOGhhaXhTbmRsY1VFQXRRb1otZUNsVmlDNkE?oc=5"
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83Vk1DR3ZSQXVGVzNXSGs0WURVQ2o4aklGZjU1TDBBRHluUDRwaUViSDVOZmEtamJoY3NGdnp5UVVhRi1GSHFHT3ItNU8wWlRR?oc=5"
         }
       ]
     },
@@ -48,18 +48,6 @@
         {
           "name": "報新聞",
           "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOUFZQUGxKY3lSVjlHaERVWm5NZ2l0TEdvWFVlVVEzaXhpd0tacklUYXd2Q2hyOU9DZENFUmJWUEZBRzA5dFBjNmhsX3lwcGhxQ0hyZ1UxdWY3dTB6cnZDdmJuVEx5RzNEb2lxdmpXcHJEX1dMdGNtUUt1ek82MlJEZUhDZHU0VUg2dGhva1dWUzFYY0FGQTdCYzZ0YVo0OTdDUzJkZ3BpVk1hdDF0V0sya1hlLS05MGNucU1UWHZPUDlwNzQ5VW84VVZ4YlJzSVJtWkZfR3hoWENuVHQ3Qlh4TGVpa1Q1ZzUzckN3QjJxUnRRc3ZMSEVnbVZJVEEzYWV5ZFc0ME9sTWJTZFhnS1E4Y1BfZExzeHFDQkdOVmNEdWlYbDJSOHJMOGdhNkJXbXFpTVhYRzlEQmd0Snlsa05UWFBQdXdZbmZKbWhsa3lOXzN6SHk1ZjRHa0x1YlFvS1ZuM1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b55a6e2fd1db",
-      "title": "健康名人堂／重複吃同樣食物 原來也能幫助減肥 - UDN",
-      "published": "2026-06-15T16:00:00+00:00",
-      "summary": "健康名人堂／重複吃同樣食物 原來也能幫助減肥&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83Vk1DR3ZSQXVGVzNXSGs0WURVQ2o4aklGZjU1TDBBRHluUDRwaUViSDVOZmEtamJoY3NGdnp5UVVhRi1GSHFHT3ItNU8wWlRR?oc=5"
         }
       ]
     },
@@ -100,30 +88,6 @@
       ]
     },
     {
-      "id": "36825e85a3ae",
-      "title": "阿根廷門多薩省未發現帶漢坦病毒嚙齒類動物 - 澳門廣播電視股份有限公司",
-      "published": "2026-06-13T08:24:44+00:00",
-      "summary": "阿根廷門多薩省未發現帶漢坦病毒嚙齒類動物&nbsp;&nbsp;澳門廣播電視股份有限公司垃圾山、賞鳥與漢他病毒 一段意外的南極郵輪之旅&nbsp;&nbsp;倡議家阿根廷门多萨省未发现带汉坦病毒啮齿类动物&nbsp;&nbsp;澳門廣播電視股份有限公司阿根廷擴大漢坦病毒調查範圍 設陷阱捕捉與病毒傳播有關動物&nbsp;&nbsp;香港電台新聞網極地探險變奪命驚魂！「世界盡頭」爆人傳人病毒郵輪群聚釀3死&nbsp;&nbsp;祝你健康",
-      "sources": [
-        {
-          "name": "澳門廣播電視股份有限公司",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdnNmZHhpYjBvVUV5TUJXMjdfVjE4Q0ZsNEFLWkpia3RHaWZQM1gtUUxFT3RYVnRGQmVZRTdKMTFIXzR3aWo3eDhqYlNUMWpwTGI4Qkx2REpyZ0xlWFAxQ3F0WnBUeWdxNXRPb3NNMVhGdGJVdG8zelZHcjMtUUJCd0NsSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "706dfddff2d3",
-      "title": "車禍撞出「頸椎狹窄」！醫曝3頸椎警訊：嚴重恐癱瘓 - 中時新聞網",
-      "published": "2026-06-15T02:56:26+00:00",
-      "summary": "車禍撞出「頸椎狹窄」！醫曝3頸椎警訊：嚴重恐癱瘓&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLVNRT1poX2FRM2RXTktVOVRuQ3lKbUpsc1lfQUF6UUV0aHlDY0oxWnNYenFwc0RxZlMwY0dGdWI2LVRSaTJNZVpMamIxV2RhWHhGc0dqU21zM2hoeklaMkxJYmRCV2NQb0RkYkdheElJMVJCUzd3VFRibFdtVlZpb1AzSkRhWm1UTEhiVzhZRQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "58673c025b9a",
       "title": "MRI 不只能拍結構，MIT 新型感測器讓大腦化學訊號「發亮」 - TechNews 科技新報",
       "published": "2026-06-15T00:15:51+00:00",
@@ -160,14 +124,14 @@
       ]
     },
     {
-      "id": "1c2fb6a7d51f",
-      "title": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光 - Yahoo新聞",
-      "published": "2026-06-14T08:51:00+00:00",
-      "summary": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光&nbsp;&nbsp;Yahoo新聞咳不停驚見「肺被啃出空洞」！他喉嚨傳出1聲音 醫見X光嚇傻&nbsp;&nbsp;TVBS新聞網以為小感冒！長者狂咳「肺被啃詭異空洞」醫看X光發麻急喊隔離&nbsp;&nbsp;祝你健康男久咳、吃不下以為感冒！X光驚見「肺部空洞」 醫急下令隔離- 生活&nbsp;&nbsp;中時新聞網男「狂咳」當一般感冒！肺部X光片嚇壞醫：快隔離&nbsp;&nbsp;民視新聞網",
+      "id": "c0db933c39c7",
+      "title": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光 | EBC 東森新聞 - LINE TODAY",
+      "published": "2026-06-14T23:25:13+00:00",
+      "summary": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光 | EBC 東森新聞&nbsp;&nbsp;LINE TODAY醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光&nbsp;&nbsp;Yahoo新聞咳不停驚見「肺被啃出空洞」！他喉嚨傳出1聲音 醫見X光嚇傻&nbsp;&nbsp;TVBS新聞網以為小感冒！長者狂咳「肺被啃詭異空洞」醫看X光發麻急喊隔離&nbsp;&nbsp;祝你健康男久咳、吃不下以為感冒！X光驚見「肺部空洞」 醫急下令隔離- 生活&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNV1pzclpfOWRwZlZlZmpFU0p4NzQySGg1ZDlmSWc5ajBJUlpSaGtJM09WQ28zcTVQeEdlaWtTb0MzNkFIT3kzZTRmd1kxSjZaTTNVTU55WmhwUENMNEhHWENURGVJdTNfSXVKeGZCc1pLZmdIWXRBR0xlVlVfczE4R1plSDFYX3NxTVJPa3Fsc2pRY0F2Tkk5LTQ3MGlzZHFOY0hrMnRmUmdJa3JZak9wc2NJb2V4TkowRXlWYTR3SC1DV0IyR21kT2JiY1djZTQ1M3VuaERKUFlCMzF0bUlxbzNLbUVEelc2VVdOMDROb2w2dDBRZUoycTJKeWM4SkNSS05hNzR3MVJkUUxVcndqUUxhVVJXMnlfajRTTW8tSzMxQzFwbUEtOWtHVDdnTV8yR0thRFg1QlNMczBHSk05ck1OR3VXN0xZcTNSa1ZqYlR4ck9K?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HanVPaGtiNmxjcklmVXFwTHZpRmFnQ0JSMjlyeHdSUTJKWVZsNDRsTzhBb1NmX3A3WEhVR2lKek5lXzFhZ2RnY3RIRzJjTnVRSmR6bFBn?oc=5"
         }
       ]
     },

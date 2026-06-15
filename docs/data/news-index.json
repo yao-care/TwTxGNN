@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-15T20:46:32.327725+00:00",
+  "generated": "2026-06-15T22:57:07.437167+00:00",
   "count": 6,
   "news": [
     {
@@ -51,6 +51,30 @@
       ]
     },
     {
+      "id": "c0db933c39c7",
+      "title": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光 | EBC 東森新聞 - LINE TODAY",
+      "published": "2026-06-14T23:25:13+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HanVPaGtiNmxjcklmVXFwTHZpRmFnQ0JSMjlyeHdSUTJKWVZsNDRsTzhBb1NmX3A3WEhVR2lKek5lXzFhZ2RnY3RIRzJjTnVRSmR6bFBn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "dc642a9db50b",
       "title": "破傷風在美國捲土重來，對抗它其實不難",
       "published": "2026-06-14T15:46:41+00:00",
@@ -65,30 +89,6 @@
           "type": "indication",
           "name": "common cold",
           "keyword": "傷風",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1c2fb6a7d51f",
-      "title": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光",
-      "published": "2026-06-14T08:51:00+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNV1pzclpfOWRwZlZlZmpFU0p4NzQySGg1ZDlmSWc5ajBJUlpSaGtJM09WQ28zcTVQeEdlaWtTb0MzNkFIT3kzZTRmd1kxSjZaTTNVTU55WmhwUENMNEhHWENURGVJdTNfSXVKeGZCc1pLZmdIWXRBR0xlVlVfczE4R1plSDFYX3NxTVJPa3Fsc2pRY0F2Tkk5LTQ3MGlzZHFOY0hrMnRmUmdJa3JZak9wc2NJb2V4TkowRXlWYTR3SC1DV0IyR21kT2JiY1djZTQ1M3VuaERKUFlCMzF0bUlxbzNLbUVEelc2VVdOMDROb2w2dDBRZUoycTJKeWM4SkNSS05hNzR3MVJkUUxVcndqUUxhVVJXMnlfajRTTW8tSzMxQzFwbUEtOWtHVDdnTV8yR0thRFg1QlNMczBHSk05ck1OR3VXN0xZcTNSa1ZqYlR4ck9K?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
           "related_drugs": [
             {
               "slug": "salicylamide",
