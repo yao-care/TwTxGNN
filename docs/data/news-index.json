@@ -1,7 +1,77 @@
 {
-  "generated": "2026-06-15T06:15:39.239437+00:00",
-  "count": 6,
+  "generated": "2026-06-15T12:58:45.758012+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "c0c219599ba5",
+      "title": "名醫會客室／每年3千萬嬰幼兒感染 RSV傳染源都是家人",
+      "published": "2026-06-15T09:58:06+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNeHI5SFJ3VkpURXdFbExsTnhUMThDbC0wUXFxOGxfQmE5THp0eUlMZTYwaU4tWjNMNzJTUldhNHhjaE9qc19ESDRHX0RPbXF0WUhSMmlCYmswT2p1U1pZM25INXZLZ3llVElGRWJRTHVMWUxIVW1yc3lVbU9wRFJRY1NuUTRBSFpPRWt5WHVGT0ZrV2ZXZnNkUDBrWjR2YUcwbjZPNTlmU01qQ1Y2Y3FrcG5adlBaMHotLUtuY1NINWdZTjdkWE81UE9XUFVONmdDNTFXWmE2ZGtDUV9NUm5seVNqY2hrdlZIN2RZR241b2RYelFOM2NTRVpvTEs0QnlRSmtkbDA3bkhlQy16bDcyblNsTURYWEpYTEwyMEhCb1JpaERDWWlTVG13NFdxdXgwblhIdDJTWS14d2Q3WjlCRXc3UWJfRjgtck1mR1diUDUyc3ZQaTFv?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2290558f8156",
+      "title": "吃葡萄糖胺恐影響失智病程？研究發現輕度認知障礙患者風險增加25％ - 食力 foodNEXT",
+      "published": "2026-06-14T16:02:34+00:00",
+      "sources": [
+        {
+          "name": "食力 foodNEXT",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aSDdpXzhiVTNpLWYyZ2RYZE5JbHhOU2oxT0tSVXZuUHBCVDRQV08xUm05WHEyQW1uZnZaVzJxWFd4bWpubDR0VHk3b1VHeHZfelY1ZnNuUW51ODVjNkVwd3d5RW4?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "dc642a9db50b",
       "title": "破傷風在美國捲土重來，對抗它其實不難",
@@ -27,37 +97,13 @@
       ]
     },
     {
-      "id": "bbe3bf93a6cd",
-      "title": "RSV恐致嬰幼兒重症！醫揭「這類人」住院率高 新型疫苗助防護 - PChome Online 新聞",
-      "published": "2026-06-14T09:10:04+00:00",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEJmZmdraWRtaTVfQkQzM09HaWo3YTlldnBmSlVUQzNyVFJMLUNHTFh5XzJCTjdNQmd0QUNUT21GNVBzYzdEcEVzTnNCcHdDNnZtMXdzX21sSEF0MUxoYTh6VTZfTEd3STY3V09XcXUtSnpGYVR0MEU3ZTFVNllsSnlGVk5lSk5lZlJBeEdRTV8?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1435ebba3de1",
+      "id": "1c2fb6a7d51f",
       "title": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光",
       "published": "2026-06-14T08:51:00+00:00",
       "sources": [
         {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2Rkp0a2lzUHhwME5OZEFETjExdi1MNXFfNzNqWWIwWUhHbDRrcm8yMzM5dUNFQS1mNXE3dVdjWWhWVXIyV2prUEVtQ3JTNW1oaDVGYQ?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNV1pzclpfOWRwZlZlZmpFU0p4NzQySGg1ZDlmSWc5ajBJUlpSaGtJM09WQ28zcTVQeEdlaWtTb0MzNkFIT3kzZTRmd1kxSjZaTTNVTU55WmhwUENMNEhHWENURGVJdTNfSXVKeGZCc1pLZmdIWXRBR0xlVlVfczE4R1plSDFYX3NxTVJPa3Fsc2pRY0F2Tkk5LTQ3MGlzZHFOY0hrMnRmUmdJa3JZak9wc2NJb2V4TkowRXlWYTR3SC1DV0IyR21kT2JiY1djZTQ1M3VuaERKUFlCMzF0bUlxbzNLbUVEelc2VVdOMDROb2w2dDBRZUoycTJKeWM4SkNSS05hNzR3MVJkUUxVcndqUUxhVVJXMnlfajRTTW8tSzMxQzFwbUEtOWtHVDdnTV8yR0thRFg1QlNMczBHSk05ck1OR3VXN0xZcTNSa1ZqYlR4ck9K?oc=5"
         }
       ],
       "keywords": [

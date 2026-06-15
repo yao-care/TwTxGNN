@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [吃葡萄糖胺恐影響失智病程？研究發現輕度認知障礙患者風險增加25％ - 食力 foodNEXT](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aSDdpXzhiVTNpLWYyZ2RYZE5JbHhOU2oxT0tSVXZuUHBCVDRQV08xUm05WHEyQW1uZnZaVzJxWFd4bWpubDR0VHk3b1VHeHZfelY1ZnNuUW51ODVjNkVwd3d5RW4?oc=5)
+
+2026-06-14 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源：[食力 foodNEXT](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aSDdpXzhiVTNpLWYyZ2RYZE5JbHhOU2oxT0tSVXZuUHBCVDRQV08xUm05WHEyQW1uZnZaVzJxWFd4bWpubDR0VHk3b1VHeHZfelY1ZnNuUW51ODVjNkVwd3d5RW4?oc=5)
+
+---
 
 ### [HPV和「6大癌症」有關　醫示警：感染可能早在數十年前](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CTWNqRFR5RjZieEQyd005NWdWVnZ0Q2ZjaXJsN214RTJtdkRQZnhkNTFIdHlhSTZ0ek0tYS1DczNlejUzTnF6VTRYdk1qRWpp0gFsQVVfeXFMTi1zbFNjWTlCWU5jQXVhYWZ1d0ltVlRxaTVaX2ZKOGVBRmZsWGUwX0J6Vy1NTE00Q2ZMZ1VSMnNaQkxpVUtvWERUMzdHcXEyZ1plRno3RlhVSmNrbFQ4eWFWcWlzQmluX2hCemN0?oc=5)
 

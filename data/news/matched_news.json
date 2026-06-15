@@ -1,8 +1,46 @@
 {
-  "last_updated": "2026-06-15T06:15:39.209481+00:00",
-  "total_count": 11,
-  "matched_count": 6,
+  "last_updated": "2026-06-15T12:58:45.724988+00:00",
+  "total_count": 13,
+  "matched_count": 7,
   "news": [
+    {
+      "id": "c0c219599ba5",
+      "title": "名醫會客室／每年3千萬嬰幼兒感染 RSV傳染源都是家人",
+      "published": "2026-06-15T09:58:06+00:00",
+      "summary": "名醫會客室／每年3千萬嬰幼兒感染 RSV傳染源都是家人&nbsp;&nbsp;Yahoo新聞RSV恐致嬰幼兒重症！醫揭「這類人」住院率高 新型疫苗助防護&nbsp;&nbsp;PChome Online 新聞不是普通感冒！醫揭「這病毒」2天恐變重症：長輩心肺衰竭隱形殺手&nbsp;&nbsp;祝你健康默沙東呼吸道合胞病毒(RSV)預防單抗安福暢®(克萊羅韋單抗)在華獲批&nbsp;&nbsp;AASTOCKS.com0-6個月嬰幼兒大敵！愛寶寶， 從孕期保護做起&nbsp;&nbsp;嬰兒與母親",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNeHI5SFJ3VkpURXdFbExsTnhUMThDbC0wUXFxOGxfQmE5THp0eUlMZTYwaU4tWjNMNzJTUldhNHhjaE9qc19ESDRHX0RPbXF0WUhSMmlCYmswT2p1U1pZM25INXZLZ3llVElGRWJRTHVMWUxIVW1yc3lVbU9wRFJRY1NuUTRBSFpPRWt5WHVGT0ZrV2ZXZnNkUDBrWjR2YUcwbjZPNTlmU01qQ1Y2Y3FrcG5adlBaMHotLUtuY1NINWdZTjdkWE81UE9XUFVONmdDNTFXWmE2ZGtDUV9NUm5seVNqY2hrdlZIN2RZR241b2RYelFOM2NTRVpvTEs0QnlRSmtkbDA3bkhlQy16bDcyblNsTURYWEpYTEwyMEhCb1JpaERDWWlTVG13NFdxdXgwblhIdDJTWS14d2Q3WjlCRXc3UWJfRjgtck1mR1diUDUyc3ZQaTFv?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "45bebfb9f382",
+      "title": "愛心醫生教您2026年如何預防糖尿病 從篩查前移到主動預警",
+      "published": "2026-06-15T08:14:34+00:00",
+      "summary": "愛心醫生教您2026年如何預防糖尿病 從篩查前移到主動預警&nbsp;&nbsp;報新聞",
+      "sources": [
+        {
+          "name": "報新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOUFZQUGxKY3lSVjlHaERVWm5NZ2l0TEdvWFVlVVEzaXhpd0tacklUYXd2Q2hyOU9DZENFUmJWUEZBRzA5dFBjNmhsX3lwcGhxQ0hyZ1UxdWY3dTB6cnZDdmJuVEx5RzNEb2lxdmpXcHJEX1dMdGNtUUt1ek82MlJEZUhDZHU0VUg2dGhva1dWUzFYY0FGQTdCYzZ0YVo0OTdDUzJkZ3BpVk1hdDF0V0sya1hlLS05MGNucU1UWHZPUDlwNzQ5VW84VVZ4YlJzSVJtWkZfR3hoWENuVHQ3Qlh4TGVpa1Q1ZzUzckN3QjJxUnRRc3ZMSEVnbVZJVEEzYWV5ZFc0ME9sTWJTZFhnS1E4Y1BfZExzeHFDQkdOVmNEdWlYbDJSOHJMOGdhNkJXbXFpTVhYRzlEQmd0Snlsa05UWFBQdXdZbmZKbWhsa3lOXzN6SHk1ZjRHa0x1YlFvS1ZuM1E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "706dfddff2d3",
       "title": "車禍撞出「頸椎狹窄」！醫曝3頸椎警訊：嚴重恐癱瘓",
@@ -43,6 +81,53 @@
       "matched_keywords": []
     },
     {
+      "id": "2290558f8156",
+      "title": "吃葡萄糖胺恐影響失智病程？研究發現輕度認知障礙患者風險增加25％ - 食力 foodNEXT",
+      "published": "2026-06-14T16:02:34+00:00",
+      "summary": "吃葡萄糖胺恐影響失智病程？研究發現輕度認知障礙患者風險增加25％&nbsp;&nbsp;食力 foodNEXT吃「1護膝保健品」恐傷腦！最新研究曝：失智風險飆25%&nbsp;&nbsp;Yahoo新聞吃葡萄糖胺「這群人」罹失智症機率恐增25%！保養關節為何害到大腦、惡化阿茲海默症？揪出禍首是它&nbsp;&nbsp;今周刊很多人都在吃！研究發現葡萄糖胺與失智症進展有關&nbsp;&nbsp;自由健康網保健品一定健康？美研究曝1類人服用葡萄糖胺 失智風險高25%&nbsp;&nbsp;UDN",
+      "sources": [
+        {
+          "name": "食力 foodNEXT",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aSDdpXzhiVTNpLWYyZ2RYZE5JbHhOU2oxT0tSVXZuUHBCVDRQV08xUm05WHEyQW1uZnZaVzJxWFd4bWpubDR0VHk3b1VHeHZfelY1ZnNuUW51ODVjNkVwd3d5RW4?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "dc642a9db50b",
       "title": "破傷風在美國捲土重來，對抗它其實不難",
       "published": "2026-06-14T15:46:41+00:00",
@@ -68,39 +153,14 @@
       ]
     },
     {
-      "id": "bbe3bf93a6cd",
-      "title": "RSV恐致嬰幼兒重症！醫揭「這類人」住院率高 新型疫苗助防護 - PChome Online 新聞",
-      "published": "2026-06-14T09:10:04+00:00",
-      "summary": "RSV恐致嬰幼兒重症！醫揭「這類人」住院率高 新型疫苗助防護&nbsp;&nbsp;PChome Online 新聞不是普通感冒！醫揭「這病毒」2天恐變重症：長輩心肺衰竭隱形殺手&nbsp;&nbsp;祝你健康感冒出現「喘鳴聲」得當心！RSV病毒威脅長者健康 嚴重恐演變肺炎重症&nbsp;&nbsp;四季線上4gTV0-6個月嬰幼兒大敵！愛寶寶， 從孕期保護做起&nbsp;&nbsp;嬰兒與母親【醫生專欄】聽見 BB 呼吸「殊殊聲」？拆解 RSV 威脅與「預防性抗體」新突破&nbsp;&nbsp;Sundaykiss",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEJmZmdraWRtaTVfQkQzM09HaWo3YTlldnBmSlVUQzNyVFJMLUNHTFh5XzJCTjdNQmd0QUNUT21GNVBzYzdEcEVzTnNCcHdDNnZtMXdzX21sSEF0MUxoYTh6VTZfTEd3STY3V09XcXUtSnpGYVR0MEU3ZTFVNllsSnlGVk5lSk5lZlJBeEdRTV8?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1435ebba3de1",
+      "id": "1c2fb6a7d51f",
       "title": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光",
       "published": "2026-06-14T08:51:00+00:00",
-      "summary": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光&nbsp;&nbsp;東森新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光&nbsp;&nbsp;Yahoo新聞咳不停驚見「肺被啃出空洞」！他喉嚨傳出1聲音 醫見X光嚇傻&nbsp;&nbsp;TVBS新聞網以為小感冒！長者狂咳「肺被啃詭異空洞」醫看X光發麻急喊隔離&nbsp;&nbsp;祝你健康久咳當感冒！X光一照驚見「肺有詭異空洞」 醫急喊：立刻隔離&nbsp;&nbsp;中天新聞網男久咳、吃不下以為感冒！X光驚見「肺部空洞」 醫急下令隔離- 生活&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2Rkp0a2lzUHhwME5OZEFETjExdi1MNXFfNzNqWWIwWUhHbDRrcm8yMzM5dUNFQS1mNXE3dVdjWWhWVXIyV2prUEVtQ3JTNW1oaDVGYQ?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNV1pzclpfOWRwZlZlZmpFU0p4NzQySGg1ZDlmSWc5ajBJUlpSaGtJM09WQ28zcTVQeEdlaWtTb0MzNkFIT3kzZTRmd1kxSjZaTTNVTU55WmhwUENMNEhHWENURGVJdTNfSXVKeGZCc1pLZmdIWXRBR0xlVlVfczE4R1plSDFYX3NxTVJPa3Fsc2pRY0F2Tkk5LTQ3MGlzZHFOY0hrMnRmUmdJa3JZak9wc2NJb2V4TkowRXlWYTR3SC1DV0IyR21kT2JiY1djZTQ1M3VuaERKUFlCMzF0bUlxbzNLbUVEelc2VVdOMDROb2w2dDBRZUoycTJKeWM4SkNSS05hNzR3MVJkUUxVcndqUUxhVVJXMnlfajRTTW8tSzMxQzFwbUEtOWtHVDdnTV8yR0thRFg1QlNMczBHSk05ck1OR3VXN0xZcTNSa1ZqYlR4ck9K?oc=5"
         }
       ],
       "matched_keywords": [
@@ -401,14 +461,14 @@
       ]
     },
     {
-      "id": "d388cbafe193",
-      "title": "極地探險變奪命驚魂！「世界盡頭」爆人傳人病毒郵輪群聚釀3死",
-      "published": "2026-06-13T07:23:00+00:00",
-      "summary": "極地探險變奪命驚魂！「世界盡頭」爆人傳人病毒郵輪群聚釀3死&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "8515c5609351",
+      "title": "專家赴門多薩省 無發現帶漢坦病毒嚙齒類動物",
+      "published": "2026-06-13T16:23:43+00:00",
+      "summary": "專家赴門多薩省 無發現帶漢坦病毒嚙齒類動物&nbsp;&nbsp;on.cc東網垃圾山、賞鳥與漢他病毒 一段意外的南極郵輪之旅&nbsp;&nbsp;倡議家極地探險變奪命驚魂！「世界盡頭」爆人傳人病毒郵輪群聚釀3死&nbsp;&nbsp;祝你健康阿根廷門多薩省未發現帶漢坦病毒嚙齒類動物&nbsp;&nbsp;澳門廣播電視股份有限公司阿根廷擴大漢坦病毒調查範圍 設陷阱捕捉與病毒傳播有關動物&nbsp;&nbsp;香港電台新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQU1d6dVdmand0YkFpbGxfNEI1LW5QOWtZUUlhVnVESFl6cVltUWlxeDg1eDB0bG16SnI5OW9xUVBBSl9tLVdELVh3QWQ3ZkZTc1ZRZWFSQTJ2OFhsNmgyYmZ5dHJKR3F1S2lzeHZlLW1wejczcW0yMVVuQzBJRGRVYXpJWVB4ZlY5angwTGt4RnJ5X01IZWpTd3hoU0o0dzVWZHVYUlVjZ1puUmNJT1ZfeHVXb2E1dVIzZ05ueUhFS09PUXJLeTVHeFhhZ21PRExhWnJyak8ycnJlN043VTgwYXBUVlBlSVBJeDNkVTM5XzFCT0xGNFpRVTFSZ29Ed2FjTDZrR3FPcTVPbF9OaXg2VlBQTXhuQWxDU0ExR0ZfdkdpZ3djOXRVUkJxNlk4dzZzbWZfc1pRWTRYMUhtOWxHTnJuM2dIMTFaRHJ2Z2FTTkxQY2tCcy00QkFPSUVOZ2Nmek1Jek9mMmR2SFVIeHpYX3NJUF9qUXBFdm1fX3NDZkJuWEU?oc=5"
+          "name": "on.cc東網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVm51U1RhNm11S2I3ZVZXQ1VfUjM5WW9oaC1ZSEljSzJwNzJkYXE1TDBjQjlJaTlnZ1c2SVNRU3NtZm53RGRuU01OVXU5blBpRGVkdS1vTEJROU5VSTlGcWEyUlppbUxMd19IUkxyZ0FhamhVcVpqdlZzNzhveE1TbWV0Mk5rNGJ6ejhRODZTNA?oc=5"
         }
       ],
       "matched_keywords": []
