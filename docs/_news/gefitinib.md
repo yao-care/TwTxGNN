@@ -43,11 +43,11 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（2 則）
 
-### [吃葡萄糖胺恐影響失智病程？研究發現輕度認知障礙患者風險增加25％ - 食力 foodNEXT](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aSDdpXzhiVTNpLWYyZ2RYZE5JbHhOU2oxT0tSVXZuUHBCVDRQV08xUm05WHEyQW1uZnZaVzJxWFd4bWpubDR0VHk3b1VHeHZfelY1ZnNuUW51ODVjNkVwd3d5RW4?oc=5)
+### [吃「1護膝保健品」恐傷腦！最新研究曝：失智風險飆25%](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNaGxIcEl1bDliYnMyLWUwTWpXN2YwTXZkcE5IRE9zM3ZQTnFmT0hWalhidnpEbGNvam1rZTJURnJ6eEZfWHRlVmhOekhsRGFoQzZjQmNTSTJuVmNYZTRnaHZWalpSTHpMeVdzN0d1b3d2Q3NyMWttaEw4THVnZlJ1TlNvMUU4RTJxX3U5WmZGY1k4elRfY1BUTlRfeWpsQzFyckNmRDFnYTN3NkkxNzdLMXpSdmNDZWFyTUlITGFVbTNmTkdNVHg0U0oyUWNXSHJkOHgwRzljTlNrZDBqNlBXRFNKTkhuT00tY2E3R2Q2QjU3bVVWYnRaVWE0cGZRUjdIOUNNUk5nODhhS3gyNXdjY0pIdTFnNFBpSlF2MHZvNDJodC1BMWxTY01SQjZtUjZ3b0RsYkNmVmxKVnRpclRtbzBWTl9MWWsyNFJ4Z3oyZ1U3V2UzVEZCd3lTbXV5Sm03TGNN?oc=5)
 
-2026-06-14 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+2026-06-15 <span class="news-indication-tag">失智</span>
 
-來源：[食力 foodNEXT](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aSDdpXzhiVTNpLWYyZ2RYZE5JbHhOU2oxT0tSVXZuUHBCVDRQV08xUm05WHEyQW1uZnZaVzJxWFd4bWpubDR0VHk3b1VHeHZfelY1ZnNuUW51ODVjNkVwd3d5RW4?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNaGxIcEl1bDliYnMyLWUwTWpXN2YwTXZkcE5IRE9zM3ZQTnFmT0hWalhidnpEbGNvam1rZTJURnJ6eEZfWHRlVmhOekhsRGFoQzZjQmNTSTJuVmNYZTRnaHZWalpSTHpMeVdzN0d1b3d2Q3NyMWttaEw4THVnZlJ1TlNvMUU4RTJxX3U5WmZGY1k4elRfY1BUTlRfeWpsQzFyckNmRDFnYTN3NkkxNzdLMXpSdmNDZWFyTUlITGFVbTNmTkdNVHg0U0oyUWNXSHJkOHgwRzljTlNrZDBqNlBXRFNKTkhuT00tY2E3R2Q2QjU3bVVWYnRaVWE0cGZRUjdIOUNNUk5nODhhS3gyNXdjY0pIdTFnNFBpSlF2MHZvNDJodC1BMWxTY01SQjZtUjZ3b0RsYkNmVmxKVnRpclRtbzBWTl9MWWsyNFJ4Z3oyZ1U3V2UzVEZCd3lTbXV5Sm03TGNN?oc=5)
 
 ---
 

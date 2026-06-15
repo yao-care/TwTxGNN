@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-15T17:59:30.873301+00:00",
-  "count": 7,
+  "generated": "2026-06-15T20:46:32.327725+00:00",
+  "count": 6,
   "news": [
     {
       "id": "c0c219599ba5",
@@ -27,41 +27,19 @@
       ]
     },
     {
-      "id": "2290558f8156",
-      "title": "吃葡萄糖胺恐影響失智病程？研究發現輕度認知障礙患者風險增加25％ - 食力 foodNEXT",
-      "published": "2026-06-14T16:02:34+00:00",
+      "id": "e5cf917bf13d",
+      "title": "吃「1護膝保健品」恐傷腦！最新研究曝：失智風險飆25%",
+      "published": "2026-06-15T07:32:00+00:00",
       "sources": [
         {
-          "name": "食力 foodNEXT",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aSDdpXzhiVTNpLWYyZ2RYZE5JbHhOU2oxT0tSVXZuUHBCVDRQV08xUm05WHEyQW1uZnZaVzJxWFd4bWpubDR0VHk3b1VHeHZfelY1ZnNuUW51ODVjNkVwd3d5RW4?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNaGxIcEl1bDliYnMyLWUwTWpXN2YwTXZkcE5IRE9zM3ZQTnFmT0hWalhidnpEbGNvam1rZTJURnJ6eEZfWHRlVmhOekhsRGFoQzZjQmNTSTJuVmNYZTRnaHZWalpSTHpMeVdzN0d1b3d2Q3NyMWttaEw4THVnZlJ1TlNvMUU4RTJxX3U5WmZGY1k4elRfY1BUTlRfeWpsQzFyckNmRDFnYTN3NkkxNzdLMXpSdmNDZWFyTUlITGFVbTNmTkdNVHg0U0oyUWNXSHJkOHgwRzljTlNrZDBqNlBXRFNKTkhuT00tY2E3R2Q2QjU3bVVWYnRaVWE0cGZRUjdIOUNNUk5nODhhS3gyNXdjY0pIdTFnNFBpSlF2MHZvNDJodC1BMWxTY01SQjZtUjZ3b0RsYkNmVmxKVnRpclRtbzBWTl9MWWsyNFJ4Z3oyZ1U3V2UzVEZCd3lTbXV5Sm03TGNN?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
           "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "阿茲海默症",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
           "keyword": "失智",
           "related_drugs": [
             {
@@ -358,30 +336,6 @@
             {
               "slug": "timepidium",
               "name": "Timepidium"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "10b602821d3d",
-      "title": "肝炎肝硬化有徵兆 手掌臉色藏警訊",
-      "published": "2026-06-13T17:00:00+00:00",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wdmhVeFFuQTFWQkpKbGNMS3g3RTB6OVBfelNYeGx6dXJISmc5cldMdWhWMEFKenhBQnRnLTl3OWtOZnZTME53eDZFZTAyeDZiQlgycTRMQjlHLWxISkhz0gFkQVVfeXFMTngybEdFTTF3Wk80c0k3SWdIMzRZTk5xSnZiYmdJbFUtbWNRcWRQX1Q0LTYzZEczaUUzeWQ0LVpFRWc1UlRDS1BobjhsR1dCZ1FIUHZsTXhFckxUdXQwWF9OVkxqSA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "肝硬化",
-          "keyword": "肝硬化",
-          "related_drugs": [
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
             }
           ]
         }

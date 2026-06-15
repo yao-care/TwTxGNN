@@ -14,7 +14,7 @@ permalink: /news/dehydrocholic_acid/
 ---
 
 <p class="key-answer" data-question="Dehydrocholic acid 有什麼相關新聞？">
-<strong>Dehydrocholic acid</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dehydrocholic acid</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/dehydrocholic_acid/
 <p><a href="{{ '/drugs/dehydrocholic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [HPV和「6大癌症」有關　醫示警：感染可能早在數十年前](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CTWNqRFR5RjZieEQyd005NWdWVnZ0Q2ZjaXJsN214RTJtdkRQZnhkNTFIdHlhSTZ0ek0tYS1DczNlejUzTnF6VTRYdk1qRWpp0gFsQVVfeXFMTi1zbFNjWTlCWU5jQXVhYWZ1d0ltVlRxaTVaX2ZKOGVBRmZsWGUwX0J6Vy1NTE00Q2ZMZ1VSMnNaQkxpVUtvWERUMzdHcXEyZ1plRno3RlhVSmNrbFQ4eWFWcWlzQmluX2hCemN0?oc=5)
 
 2026-06-14 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
 
 來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CTWNqRFR5RjZieEQyd005NWdWVnZ0Q2ZjaXJsN214RTJtdkRQZnhkNTFIdHlhSTZ0ek0tYS1DczNlejUzTnF6VTRYdk1qRWpp0gFsQVVfeXFMTi1zbFNjWTlCWU5jQXVhYWZ1d0ltVlRxaTVaX2ZKOGVBRmZsWGUwX0J6Vy1NTE00Q2ZMZ1VSMnNaQkxpVUtvWERUMzdHcXEyZ1plRno3RlhVSmNrbFQ4eWFWcWlzQmluX2hCemN0?oc=5)
-
----
-
-### [肝炎肝硬化有徵兆 手掌臉色藏警訊](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wdmhVeFFuQTFWQkpKbGNMS3g3RTB6OVBfelNYeGx6dXJISmc5cldMdWhWMEFKenhBQnRnLTl3OWtOZnZTME53eDZFZTAyeDZiQlgycTRMQjlHLWxISkhz0gFkQVVfeXFMTngybEdFTTF3Wk80c0k3SWdIMzRZTk5xSnZiYmdJbFUtbWNRcWRQX1Q0LTYzZEczaUUzeWQ0LVpFRWc1UlRDS1BobjhsR1dCZ1FIUHZsTXhFckxUdXQwWF9OVkxqSA?oc=5)
-
-2026-06-13 <span class="news-indication-tag">肝硬化</span>
-
-來源：[大纪元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wdmhVeFFuQTFWQkpKbGNMS3g3RTB6OVBfelNYeGx6dXJISmc5cldMdWhWMEFKenhBQnRnLTl3OWtOZnZTME53eDZFZTAyeDZiQlgycTRMQjlHLWxISkhz0gFkQVVfeXFMTngybEdFTTF3Wk80c0k3SWdIMzRZTk5xSnZiYmdJbFUtbWNRcWRQX1Q0LTYzZEczaUUzeWQ0LVpFRWc1UlRDS1BobjhsR1dCZ1FIUHZsTXhFckxUdXQwWF9OVkxqSA?oc=5)
 
 ---
 
