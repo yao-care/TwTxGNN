@@ -1,15 +1,66 @@
 {
-  "generated": "2026-06-16T06:25:31.970162+00:00",
-  "count": 4,
+  "generated": "2026-06-16T12:04:24.639703+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "c9cdd2d32f69",
-      "title": "新北推公費「HPV疫苗」接種！八年級生2劑免費防癌",
-      "published": "2026-06-16T03:49:19+00:00",
+      "id": "40376696cedc",
+      "title": "年輕人高血壓勿忽視 醫生拆解3大類腎上腺瘤 女性患病恐致停經/月亮臉",
+      "published": "2026-06-16T10:39:00+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNRy04bFFlY29TcmJrcVFDR0JOMTBKeXA5ZTFGMUt0SVB0WVlYUlNZcWFNUkxHeGgwWnhxLXJtWFJObVNlM2RNX2NOVVBaV3NVNTZIeVg0X2liOTZSTWlQSVBCSXVaMnlRVE01R2FGMHUzMTdlTWFHVnhwTkZpQ01DSHdaRTBzVVdxQVhYbGRGQnp0THZERVNXd3hUMU1xdzUxeUphaXNPSVFuZ3JHc3lWZzJKUE5uSWJObUR2SzIxbFUzbXRCU2FULXdFRk1QUlhnY21MdXoxeFdsVGdZTktJZmpmamp3R2p3QjFvUFNjU2J5NG9wby04bTB4WHFSejd2TlRhSWNySHBINTBXZURHbzVXTWVGTHZRSDBUTkUzMUZzSWExeHRldnR3REo2NTJjbXlBTA?oc=5"
+          "name": "TVB",
+          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQRE9lVWFsSFFaYVE2eWpvTU9XTGxwTmVibzZ4N2ZHUjhHQXN3T3VQM01wTzJCX1hhdEZXWnk2RkhBcHN5MFRIREtGb0tuUE1wUVBwWmh5ZVAzekIwZzFCRG04SC1OSE4xcU1BYWtUMjliamMwVHVnMWtzNWpWdkg0ODE3Q2xPYXd6ZkREcll0VHVmVnJzbks2S0FNc0Fxc0pHcTdnazloZ1pBc2pmb2c1dVBwZXk4ckphdHVUal9PNjJzZHNRQmc0UmdrNGJybkNyNlVMYkpPUXI1VlVrMEZZU2pFREJxSDJZd1NVN19kb2xtcDFwRXJTMVF5NjBzTTJrVzc1TEJUdTVHcUxnVWo2OFJ6U1dlVGhPZk5aSFcxN2s0QndicVlpZWNuZl9hUE5fRl9oX1dEMVF4MmZteV9hVmM1UjNDZU4yMWNNUENlY3dGTHNheEg4bDV5N2paZVlhQmloNmhHdTZaN25VcnBtX25TVnh2c1pPeHJVaVpROHg1VHM2RnQ2dWd3Ukhnbl9LZ0x1ZERaWlFyRGE0NjFObnRPZy10ZGdBem9RYjczZHV6bnNyUUwtUTZQZF85Qkk?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "62d5a8b5ccba",
+      "title": "新北推國中生公費接種HPV疫苗 男女皆受惠最高省1萬4",
+      "published": "2026-06-16T06:23:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyQjVhN3FyTThFVFlfZU9ET3hRa2prQjhHMld4VXRmNnlibUtVS2ZteERCazRweG1NTHk2VGZGTXJjUmpNQmJGQTdGc2NnbUZyQkpWOXh0UzBXRTdaMjNmWGN0UTk?oc=5"
         }
       ],
       "keywords": [
@@ -235,6 +286,30 @@
       ]
     },
     {
+      "id": "c0db933c39c7",
+      "title": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光 | EBC 東森新聞 - LINE TODAY",
+      "published": "2026-06-14T23:25:13+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HanVPaGtiNmxjcklmVXFwTHZpRmFnQ0JSMjlyeHdSUTJKWVZsNDRsTzhBb1NmX3A3WEhVR2lKek5lXzFhZ2RnY3RIRzJjTnVRSmR6bFBn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "dc642a9db50b",
       "title": "破傷風在美國捲土重來，對抗它其實不難",
       "published": "2026-06-14T15:46:41+00:00",
@@ -249,30 +324,6 @@
           "type": "indication",
           "name": "common cold",
           "keyword": "傷風",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1435ebba3de1",
-      "title": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光",
-      "published": "2026-06-14T08:51:00+00:00",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2Rkp0a2lzUHhwME5OZEFETjExdi1MNXFfNzNqWWIwWUhHbDRrcm8yMzM5dUNFQS1mNXE3dVdjWWhWVXIyV2prUEVtQ3JTNW1oaDVGYQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
           "related_drugs": [
             {
               "slug": "salicylamide",

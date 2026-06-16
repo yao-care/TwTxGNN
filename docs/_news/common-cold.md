@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "傷風（common cold） 相關新聞"
+title: "感冒（common cold） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "傷風（common cold） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "感冒（common cold） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
-# 傷風（common cold） 相關新聞
+# 感冒（common cold） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="傷風（common cold） 有什麼相關新聞？">
-<strong>傷風（common cold）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="感冒（common cold） 有什麼相關新聞？">
+<strong>感冒（common cold）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「傷風」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「感冒」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -31,19 +31,19 @@ permalink: /news/common-cold/
 
 ## 相關新聞（2 則）
 
+### [醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光 | EBC 東森新聞 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HanVPaGtiNmxjcklmVXFwTHZpRmFnQ0JSMjlyeHdSUTJKWVZsNDRsTzhBb1NmX3A3WEhVR2lKek5lXzFhZ2RnY3RIRzJjTnVRSmR6bFBn?oc=5)
+
+2026-06-14
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HanVPaGtiNmxjcklmVXFwTHZpRmFnQ0JSMjlyeHdSUTJKWVZsNDRsTzhBb1NmX3A3WEhVR2lKek5lXzFhZ2RnY3RIRzJjTnVRSmR6bFBn?oc=5)
+
+---
+
 ### [破傷風在美國捲土重來，對抗它其實不難](https://news.google.com/rss/articles/CBMib0FVX3lxTFBEaEpfX3JTX0pXOVJyZy1KUnZxVThyYWRiLW80dWlHbG5OQVVWTkpMOVpNTVdvUUk2UnlraEVPMXR0eGpTLXN0bHhtQjB0Z0h3NVZMMUh4TWVOdGwyQzhjTWpZazlYbGhwYkduZ0NBSQ?oc=5)
 
 2026-06-14
 
 來源：[國家地理雜誌](https://news.google.com/rss/articles/CBMib0FVX3lxTFBEaEpfX3JTX0pXOVJyZy1KUnZxVThyYWRiLW80dWlHbG5OQVVWTkpMOVpNTVdvUUk2UnlraEVPMXR0eGpTLXN0bHhtQjB0Z0h3NVZMMUh4TWVOdGwyQzhjTWpZazlYbGhwYkduZ0NBSQ?oc=5)
-
----
-
-### [醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光](https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2Rkp0a2lzUHhwME5OZEFETjExdi1MNXFfNzNqWWIwWUhHbDRrcm8yMzM5dUNFQS1mNXE3dVdjWWhWVXIyV2prUEVtQ3JTNW1oaDVGYQ?oc=5)
-
-2026-06-14
-
-來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2Rkp0a2lzUHhwME5OZEFETjExdi1MNXFfNzNqWWIwWUhHbDRrcm8yMzM5dUNFQS1mNXE3dVdjWWhWVXIyV2prUEVtQ3JTNW1oaDVGYQ?oc=5)
 
 ---
 

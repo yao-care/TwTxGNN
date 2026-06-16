@@ -1,17 +1,95 @@
 {
-  "last_updated": "2026-06-16T06:25:31.939850+00:00",
-  "total_count": 10,
-  "matched_count": 4,
+  "last_updated": "2026-06-16T12:04:24.612147+00:00",
+  "total_count": 13,
+  "matched_count": 5,
   "news": [
     {
-      "id": "c9cdd2d32f69",
-      "title": "新北推公費「HPV疫苗」接種！八年級生2劑免費防癌",
-      "published": "2026-06-16T03:49:19+00:00",
-      "summary": "新北推公費「HPV疫苗」接種！八年級生2劑免費防癌&nbsp;&nbsp;Yahoo新聞公費接種HPV疫苗省1萬4千元！ 國中男女學生及早建立防癌屏障&nbsp;&nbsp;中央社 CNAHPV和「6大癌症」有關 醫示警：感染可能早在數十年前&nbsp;&nbsp;ETtoday健康雲拆解HPV疑雲 健身室傳性病？風險低 - 20260615 - BEAUTY&nbsp;&nbsp;明報 Our Lifestyle新北續推國中八年級公費HPV疫苗 男女學生皆受惠省1萬4千元&nbsp;&nbsp;UDN",
+      "id": "40376696cedc",
+      "title": "年輕人高血壓勿忽視 醫生拆解3大類腎上腺瘤 女性患病恐致停經/月亮臉",
+      "published": "2026-06-16T10:39:00+00:00",
+      "summary": "年輕人高血壓勿忽視 醫生拆解3大類腎上腺瘤 女性患病恐致停經/月亮臉&nbsp;&nbsp;TVB",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNRy04bFFlY29TcmJrcVFDR0JOMTBKeXA5ZTFGMUt0SVB0WVlYUlNZcWFNUkxHeGgwWnhxLXJtWFJObVNlM2RNX2NOVVBaV3NVNTZIeVg0X2liOTZSTWlQSVBCSXVaMnlRVE01R2FGMHUzMTdlTWFHVnhwTkZpQ01DSHdaRTBzVVdxQVhYbGRGQnp0THZERVNXd3hUMU1xdzUxeUphaXNPSVFuZ3JHc3lWZzJKUE5uSWJObUR2SzIxbFUzbXRCU2FULXdFRk1QUlhnY21MdXoxeFdsVGdZTktJZmpmamp3R2p3QjFvUFNjU2J5NG9wby04bTB4WHFSejd2TlRhSWNySHBINTBXZURHbzVXTWVGTHZRSDBUTkUzMUZzSWExeHRldnR3REo2NTJjbXlBTA?oc=5"
+          "name": "TVB",
+          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQRE9lVWFsSFFaYVE2eWpvTU9XTGxwTmVibzZ4N2ZHUjhHQXN3T3VQM01wTzJCX1hhdEZXWnk2RkhBcHN5MFRIREtGb0tuUE1wUVBwWmh5ZVAzekIwZzFCRG04SC1OSE4xcU1BYWtUMjliamMwVHVnMWtzNWpWdkg0ODE3Q2xPYXd6ZkREcll0VHVmVnJzbks2S0FNc0Fxc0pHcTdnazloZ1pBc2pmb2c1dVBwZXk4ckphdHVUal9PNjJzZHNRQmc0UmdrNGJybkNyNlVMYkpPUXI1VlVrMEZZU2pFREJxSDJZd1NVN19kb2xtcDFwRXJTMVF5NjBzTTJrVzc1TEJUdTVHcUxnVWo2OFJ6U1dlVGhPZk5aSFcxN2s0QndicVlpZWNuZl9hUE5fRl9oX1dEMVF4MmZteV9hVmM1UjNDZU4yMWNNUENlY3dGTHNheEg4bDV5N2paZVlhQmloNmhHdTZaN25VcnBtX25TVnh2c1pPeHJVaVpROHg1VHM2RnQ2dWd3Ukhnbl9LZ0x1ZERaWlFyRGE0NjFObnRPZy10ZGdBem9RYjczZHV6bnNyUUwtUTZQZF85Qkk?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "905336e81069",
+      "title": "補足人體隱形發電機 告別疲勞",
+      "published": "2026-06-16T10:18:45+00:00",
+      "summary": "補足人體隱形發電機 告別疲勞&nbsp;&nbsp;翻爆",
+      "sources": [
+        {
+          "name": "翻爆",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUQl9fNE5jWXBXWThpQ2U1MjAzRVdZdXp4SW05NHYxQnNaeXoxTGtyN0xOa1ZkekE2RzNjOVNaRWtWbGdBYmFmNXdPLTFTSXM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c872f8bce79b",
+      "title": "長者吃鈣片、維生素D防骨折？大型研究打臉：效果有限",
+      "published": "2026-06-16T08:49:37+00:00",
+      "summary": "長者吃鈣片、維生素D防骨折？大型研究打臉：效果有限&nbsp;&nbsp;科技島",
+      "sources": [
+        {
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KWUtlZmxGanh5cXNsVkpMcXVud09SRW9ldlBCN09jaWl2TmJONVltZjY2QTU1NkF1MHBSa1dLVXUxaDFjRXBybWxyR1FxUm1LWkdua3FTVXRtWU5WeVNZ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "62d5a8b5ccba",
+      "title": "新北推國中生公費接種HPV疫苗 男女皆受惠最高省1萬4",
+      "published": "2026-06-16T06:23:00+00:00",
+      "summary": "新北推國中生公費接種HPV疫苗 男女皆受惠最高省1萬4&nbsp;&nbsp;自由健康網9成男性恐中鏢！感染沒症狀、沒篩檢 醫警告：癌變才發現&nbsp;&nbsp;Yahoo新聞HPV和「6大癌症」有關 醫示警：感染可能早在數十年前&nbsp;&nbsp;ETtoday健康雲新北催打國中生HPV疫苗 公費接種省1萬4千元 | 中華日報&nbsp;&nbsp;LINE TODAY把握防癌黃金期 衛生局籲國八生速接種HPV疫苗 - 生活新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyQjVhN3FyTThFVFlfZU9ET3hRa2prQjhHMld4VXRmNnlibUtVS2ZteERCazRweG1NTHk2VGZGTXJjUmpNQmJGQTdGc2NnbUZyQkpWOXh0UzBXRTdaMjNmWGN0UTk?oc=5"
         }
       ],
       "matched_keywords": [
@@ -213,14 +291,14 @@
       ]
     },
     {
-      "id": "84daf2727baf",
-      "title": "補足人體隱形發電機告別疲勞- 國際",
-      "published": "2026-06-15T20:25:11+00:00",
-      "summary": "補足人體隱形發電機告別疲勞- 國際&nbsp;&nbsp;旺得富理財網",
+      "id": "98d9b6c57c8a",
+      "title": "不想太快多病共存 2事效果不輸藥物 重病組合風險砍43％",
+      "published": "2026-06-16T05:44:57+00:00",
+      "summary": "不想太快多病共存 2事效果不輸藥物 重病組合風險砍43％&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "旺得富理財網",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55WHJpLXIyc0xhcjRpeUpfNXY0ZldVVWV1ankwMWxnZkpLYklDYjhSbjY0N0xndVBvVVhDaDloR2Q2emE5YzRLRW1HT3lpa3lnRjc5MjV2UFhBYVZISFhMbVJ3RzM1UUFBckE?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BRjhMamh3SElieVdmZWVDR1V3dlV0OV9lRWQzUFlzM1ZUbDgxalQtQ1p2TDdkdDhjNjdvRXV4WW1rOW1QOXlUQ251UVctdVVYelRDN05aTjZtNElDekZzMThfUm40ZHJTc2htandR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -234,19 +312,6 @@
         {
           "name": "UDN",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83Vk1DR3ZSQXVGVzNXSGs0WURVQ2o4aklGZjU1TDBBRHluUDRwaUViSDVOZmEtamJoY3NGdnp5UVVhRi1GSHFHT3ItNU8wWlRR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ac46928cad0d",
-      "title": "MRI 不只能拍結構，MIT 新型感測器讓大腦化學訊號「發亮」 | 科技新報 - LINE TODAY",
-      "published": "2026-06-15T08:42:29+00:00",
-      "summary": "MRI 不只能拍結構，MIT 新型感測器讓大腦化學訊號「發亮」 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10Ql9JRzA5c2dFSHRrdUZRdHZSTlAwZ1o5cVg2UkNwWDlWSzN5RFlrS1AxRFhaRkVMUWxKZVZ3c1Qxb1Y3YW5NQzc5YldHRnFDMWo5Z1FR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -303,6 +368,19 @@
       "matched_keywords": []
     },
     {
+      "id": "58673c025b9a",
+      "title": "MRI 不只能拍結構，MIT 新型感測器讓大腦化學訊號「發亮」 - TechNews 科技新報",
+      "published": "2026-06-15T00:15:51+00:00",
+      "summary": "MRI 不只能拍結構，MIT 新型感測器讓大腦化學訊號「發亮」&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrREJQUTE3MzNpa0ZiZFYtaW9jc3NkZUd1cEFNU3hBMVdmV2hVeDhHUkQ2U1FvUC16UllKQlVqdmd4MFBZaXJwZzFNaE1ha2FqcWliNjY0d3ozemxFUDFld2h3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "09649e996830",
       "title": "蚊帳防疫效能面臨挑戰 專家籲調整策略以應對抗藥性與氣候變遷 - GeneOnline News",
       "published": "2026-06-15T00:09:23+00:00",
@@ -314,6 +392,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "c0db933c39c7",
+      "title": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光 | EBC 東森新聞 - LINE TODAY",
+      "published": "2026-06-14T23:25:13+00:00",
+      "summary": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光 | EBC 東森新聞&nbsp;&nbsp;LINE TODAY醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光&nbsp;&nbsp;Yahoo新聞咳不停驚見「肺被啃出空洞」！他喉嚨傳出1聲音 醫見X光嚇傻&nbsp;&nbsp;TVBS新聞網老翁咳嗽以為是感冒 X光片驚見「肺被啃出一個洞」…醫緊急下令：立刻隔離！&nbsp;&nbsp;鏡報以為小感冒！長者狂咳「肺被啃詭異空洞」醫看X光發麻急喊隔離&nbsp;&nbsp;祝你健康",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HanVPaGtiNmxjcklmVXFwTHZpRmFnQ0JSMjlyeHdSUTJKWVZsNDRsTzhBb1NmX3A3WEhVR2lKek5lXzFhZ2RnY3RIRzJjTnVRSmR6bFBn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "dc642a9db50b",
@@ -331,31 +434,6 @@
           "type": "indication",
           "name": "common cold",
           "keyword": "傷風",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1435ebba3de1",
-      "title": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光",
-      "published": "2026-06-14T08:51:00+00:00",
-      "summary": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光&nbsp;&nbsp;東森新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2Rkp0a2lzUHhwME5OZEFETjExdi1MNXFfNzNqWWIwWUhHbDRrcm8yMzM5dUNFQS1mNXE3dVdjWWhWVXIyV2prUEVtQ3JTNW1oaDVGYQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
           "related_drugs": [
             {
               "slug": "salicylamide",

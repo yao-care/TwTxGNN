@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [新北推公費「HPV疫苗」接種！八年級生2劑免費防癌](https://news.google.com/rss/articles/CBMitAJBVV95cUxNRy04bFFlY29TcmJrcVFDR0JOMTBKeXA5ZTFGMUt0SVB0WVlYUlNZcWFNUkxHeGgwWnhxLXJtWFJObVNlM2RNX2NOVVBaV3NVNTZIeVg0X2liOTZSTWlQSVBCSXVaMnlRVE01R2FGMHUzMTdlTWFHVnhwTkZpQ01DSHdaRTBzVVdxQVhYbGRGQnp0THZERVNXd3hUMU1xdzUxeUphaXNPSVFuZ3JHc3lWZzJKUE5uSWJObUR2SzIxbFUzbXRCU2FULXdFRk1QUlhnY21MdXoxeFdsVGdZTktJZmpmamp3R2p3QjFvUFNjU2J5NG9wby04bTB4WHFSejd2TlRhSWNySHBINTBXZURHbzVXTWVGTHZRSDBUTkUzMUZzSWExeHRldnR3REo2NTJjbXlBTA?oc=5)
+### [年輕人高血壓勿忽視 醫生拆解3大類腎上腺瘤 女性患病恐致停經/月亮臉](https://news.google.com/rss/articles/CBMivwNBVV95cUxQRE9lVWFsSFFaYVE2eWpvTU9XTGxwTmVibzZ4N2ZHUjhHQXN3T3VQM01wTzJCX1hhdEZXWnk2RkhBcHN5MFRIREtGb0tuUE1wUVBwWmh5ZVAzekIwZzFCRG04SC1OSE4xcU1BYWtUMjliamMwVHVnMWtzNWpWdkg0ODE3Q2xPYXd6ZkREcll0VHVmVnJzbks2S0FNc0Fxc0pHcTdnazloZ1pBc2pmb2c1dVBwZXk4ckphdHVUal9PNjJzZHNRQmc0UmdrNGJybkNyNlVMYkpPUXI1VlVrMEZZU2pFREJxSDJZd1NVN19kb2xtcDFwRXJTMVF5NjBzTTJrVzc1TEJUdTVHcUxnVWo2OFJ6U1dlVGhPZk5aSFcxN2s0QndicVlpZWNuZl9hUE5fRl9oX1dEMVF4MmZteV9hVmM1UjNDZU4yMWNNUENlY3dGTHNheEg4bDV5N2paZVlhQmloNmhHdTZaN25VcnBtX25TVnh2c1pPeHJVaVpROHg1VHM2RnQ2dWd3Ukhnbl9LZ0x1ZERaWlFyRGE0NjFObnRPZy10ZGdBem9RYjczZHV6bnNyUUwtUTZQZF85Qkk?oc=5)
+
+2026-06-16 <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">停經</span>
+
+來源：[TVB](https://news.google.com/rss/articles/CBMivwNBVV95cUxQRE9lVWFsSFFaYVE2eWpvTU9XTGxwTmVibzZ4N2ZHUjhHQXN3T3VQM01wTzJCX1hhdEZXWnk2RkhBcHN5MFRIREtGb0tuUE1wUVBwWmh5ZVAzekIwZzFCRG04SC1OSE4xcU1BYWtUMjliamMwVHVnMWtzNWpWdkg0ODE3Q2xPYXd6ZkREcll0VHVmVnJzbks2S0FNc0Fxc0pHcTdnazloZ1pBc2pmb2c1dVBwZXk4ckphdHVUal9PNjJzZHNRQmc0UmdrNGJybkNyNlVMYkpPUXI1VlVrMEZZU2pFREJxSDJZd1NVN19kb2xtcDFwRXJTMVF5NjBzTTJrVzc1TEJUdTVHcUxnVWo2OFJ6U1dlVGhPZk5aSFcxN2s0QndicVlpZWNuZl9hUE5fRl9oX1dEMVF4MmZteV9hVmM1UjNDZU4yMWNNUENlY3dGTHNheEg4bDV5N2paZVlhQmloNmhHdTZaN25VcnBtX25TVnh2c1pPeHJVaVpROHg1VHM2RnQ2dWd3Ukhnbl9LZ0x1ZERaWlFyRGE0NjFObnRPZy10ZGdBem9RYjczZHV6bnNyUUwtUTZQZF85Qkk?oc=5)
+
+---
+
+### [新北推國中生公費接種HPV疫苗 男女皆受惠最高省1萬4](https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyQjVhN3FyTThFVFlfZU9ET3hRa2prQjhHMld4VXRmNnlibUtVS2ZteERCazRweG1NTHk2VGZGTXJjUmpNQmJGQTdGc2NnbUZyQkpWOXh0UzBXRTdaMjNmWGN0UTk?oc=5)
 
 2026-06-16 <span class="news-indication-tag">癌症</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMitAJBVV95cUxNRy04bFFlY29TcmJrcVFDR0JOMTBKeXA5ZTFGMUt0SVB0WVlYUlNZcWFNUkxHeGgwWnhxLXJtWFJObVNlM2RNX2NOVVBaV3NVNTZIeVg0X2liOTZSTWlQSVBCSXVaMnlRVE01R2FGMHUzMTdlTWFHVnhwTkZpQ01DSHdaRTBzVVdxQVhYbGRGQnp0THZERVNXd3hUMU1xdzUxeUphaXNPSVFuZ3JHc3lWZzJKUE5uSWJObUR2SzIxbFUzbXRCU2FULXdFRk1QUlhnY21MdXoxeFdsVGdZTktJZmpmamp3R2p3QjFvUFNjU2J5NG9wby04bTB4WHFSejd2TlRhSWNySHBINTBXZURHbzVXTWVGTHZRSDBUTkUzMUZzSWExeHRldnR3REo2NTJjbXlBTA?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyQjVhN3FyTThFVFlfZU9ET3hRa2prQjhHMld4VXRmNnlibUtVS2ZteERCazRweG1NTHk2VGZGTXJjUmpNQmJGQTdGc2NnbUZyQkpWOXh0UzBXRTdaMjNmWGN0UTk?oc=5)
 
 ---
 
