@@ -14,7 +14,7 @@ permalink: /news/interferon_beta-1b/
 ---
 
 <p class="key-answer" data-question="Interferon beta-1b 有什麼相關新聞？">
-<strong>Interferon beta-1b</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Interferon beta-1b</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,7 @@ permalink: /news/interferon_beta-1b/
 <p><a href="{{ '/drugs/interferon_beta-1b/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [公費HPV疫苗男女皆受惠 公費接種省1萬4千元](https://news.google.com/rss/articles/CBMipwJBVV95cUxNSWRkTWl2bWp1U2o5ZXpLYm1jZXhOdWFqYVRmVXdUM0U5Vkh2N3VMa2ZSRmtvM2xZZ0hMY3NOUzVWODAzaEt5bkhiZmRYTl9OME5pQXdhZjFZTWZiekNWMWgxc2Q5MHBHVlhtLXdqdzlaVjkybEF3ZlFsUjBYYTRGbnpXRHZheS00REg0cXlKZGxJWldsSWN4WUJHcUV2dGg0V0NvaWlFNGtzQVBvbWxYTVllTXRxUm5RbVVpeE1ZUzJ2UHFubUI0MnhaaXd4T1phYXhYYVZ0ZElDaE5sLTR5UjZpN2ljYWEwT2RwYkYwZGx6dWxyemJseGNjMmFveEpZN2VtNF9UelFrSmVxNmVsZjd4UlYtYm5NaFZNNjVSUjRZNGhOazI4?oc=5)
-
-2026-06-16 <span class="news-indication-tag">癌症</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMipwJBVV95cUxNSWRkTWl2bWp1U2o5ZXpLYm1jZXhOdWFqYVRmVXdUM0U5Vkh2N3VMa2ZSRmtvM2xZZ0hMY3NOUzVWODAzaEt5bkhiZmRYTl9OME5pQXdhZjFZTWZiekNWMWgxc2Q5MHBHVlhtLXdqdzlaVjkybEF3ZlFsUjBYYTRGbnpXRHZheS00REg0cXlKZGxJWldsSWN4WUJHcUV2dGg0V0NvaWlFNGtzQVBvbWxYTVllTXRxUm5RbVVpeE1ZUzJ2UHFubUI0MnhaaXd4T1phYXhYYVZ0ZElDaE5sLTR5UjZpN2ljYWEwT2RwYkYwZGx6dWxyemJseGNjMmFveEpZN2VtNF9UelFrSmVxNmVsZjd4UlYtYm5NaFZNNjVSUjRZNGhOazI4?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [胃癌︱13歲女患末期胃癌腹腔佈滿腫瘤無治癒機會 致癌禍根竟是從小被爸爸強迫食1物](https://news.google.com/rss/articles/CBMikgRBVV95cUxOek9rS0hOWjJVNUlsM3BqTE03X2F0d0Q2VURmbEZGU2dPSlFMVHFmdUxCendfYW8tUjNkY3NsaGpXeEgwdUhlX2p1Vmo5clBMMGxGdThOODNoMFIwRDNqNktnckNQWXVmV1h4LTU5bUtzT1ZGU2U0Q0tDNFBJdEQxaXB5U1FNNlFVR3VWMUo2c3hYd0JrMFEyNVFlSlhaWUlhV21EN2dqR0R6R2JYYXB0Y2g1enliVHNYMno2MHlXemtiaHhmQmVjVzNUdFdmSU9rWlhvSDQ3UzdHSjg1Z3EyRHFqZGlDVElWTEJ3NXF6Q2FjUEJLV3NQajI4bFVsMmlyUXJPNVAyRDlKeXBRNlhVd2UxYzhGaVl4eW5VaDdxTmM2UFlSbDRDREhaekw2RkZQV19OTTVlbW5sWXJVd0FpQVRoUm90aWdQWUlESVZ0OUtlYUFJTmxPaEZoVTNIQVlEUTU0T1pwMnc2WWt1WFR6aGlISUVia1QzNU5iVXJIYl93aHp3WTJQU0pUaTlzTzVLZWF3eHlaOFFreTNxMHJCckJVYk1VUDBHNll5WTcwM25GVnV4aFJDU2k3VGpiSFpEZURkSUdybWx5bUJyQWtXeWQ3NDhxWExKQ01Qb2V2RHZZVDBrMklTYUFsQ1JkWWNUd0pCcmtGU3hpRXkyTEpZVVRoQkFEemRoRFdJQnMwSUpuUQ?oc=5)
 

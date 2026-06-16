@@ -14,7 +14,7 @@ permalink: /news/tinidazole/
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/tinidazole/
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [公費HPV疫苗男女皆受惠 公費接種省1萬4千元](https://news.google.com/rss/articles/CBMipwJBVV95cUxNSWRkTWl2bWp1U2o5ZXpLYm1jZXhOdWFqYVRmVXdUM0U5Vkh2N3VMa2ZSRmtvM2xZZ0hMY3NOUzVWODAzaEt5bkhiZmRYTl9OME5pQXdhZjFZTWZiekNWMWgxc2Q5MHBHVlhtLXdqdzlaVjkybEF3ZlFsUjBYYTRGbnpXRHZheS00REg0cXlKZGxJWldsSWN4WUJHcUV2dGg0V0NvaWlFNGtzQVBvbWxYTVllTXRxUm5RbVVpeE1ZUzJ2UHFubUI0MnhaaXd4T1phYXhYYVZ0ZElDaE5sLTR5UjZpN2ljYWEwT2RwYkYwZGx6dWxyemJseGNjMmFveEpZN2VtNF9UelFrSmVxNmVsZjd4UlYtYm5NaFZNNjVSUjRZNGhOazI4?oc=5)
-
-2026-06-16 <span class="news-indication-tag">癌症</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMipwJBVV95cUxNSWRkTWl2bWp1U2o5ZXpLYm1jZXhOdWFqYVRmVXdUM0U5Vkh2N3VMa2ZSRmtvM2xZZ0hMY3NOUzVWODAzaEt5bkhiZmRYTl9OME5pQXdhZjFZTWZiekNWMWgxc2Q5MHBHVlhtLXdqdzlaVjkybEF3ZlFsUjBYYTRGbnpXRHZheS00REg0cXlKZGxJWldsSWN4WUJHcUV2dGg0V0NvaWlFNGtzQVBvbWxYTVllTXRxUm5RbVVpeE1ZUzJ2UHFubUI0MnhaaXd4T1phYXhYYVZ0ZElDaE5sLTR5UjZpN2ljYWEwT2RwYkYwZGx6dWxyemJseGNjMmFveEpZN2VtNF9UelFrSmVxNmVsZjd4UlYtYm5NaFZNNjVSUjRZNGhOazI4?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [年輕人高血壓勿忽視 醫生拆解3大類腎上腺瘤 女性患病恐致停經/月亮臉](https://news.google.com/rss/articles/CBMivwNBVV95cUxQRE9lVWFsSFFaYVE2eWpvTU9XTGxwTmVibzZ4N2ZHUjhHQXN3T3VQM01wTzJCX1hhdEZXWnk2RkhBcHN5MFRIREtGb0tuUE1wUVBwWmh5ZVAzekIwZzFCRG04SC1OSE4xcU1BYWtUMjliamMwVHVnMWtzNWpWdkg0ODE3Q2xPYXd6ZkREcll0VHVmVnJzbks2S0FNc0Fxc0pHcTdnazloZ1pBc2pmb2c1dVBwZXk4ckphdHVUal9PNjJzZHNRQmc0UmdrNGJybkNyNlVMYkpPUXI1VlVrMEZZU2pFREJxSDJZd1NVN19kb2xtcDFwRXJTMVF5NjBzTTJrVzc1TEJUdTVHcUxnVWo2OFJ6U1dlVGhPZk5aSFcxN2s0QndicVlpZWNuZl9hUE5fRl9oX1dEMVF4MmZteV9hVmM1UjNDZU4yMWNNUENlY3dGTHNheEg4bDV5N2paZVlhQmloNmhHdTZaN25VcnBtX25TVnh2c1pPeHJVaVpROHg1VHM2RnQ2dWd3Ukhnbl9LZ0x1ZERaWlFyRGE0NjFObnRPZy10ZGdBem9RYjczZHV6bnNyUUwtUTZQZF85Qkk?oc=5)
 
