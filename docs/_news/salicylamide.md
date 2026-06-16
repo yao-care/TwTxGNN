@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/salicylamide/
 <li>nasal cavity disease（100.0%）</li>
 <li>acute laryngopharyngitis（100.0%）</li>
 <li>trigeminal autonomic cephalalgia（99.9%）</li>
-<li class="indication-matched">common cold（99.9%）<span class="indication-tag">📰 傷風</span></li>
+<li class="indication-matched">common cold（99.9%）<span class="indication-tag">📰 感冒</span></li>
 <li>allergic urticaria（99.7%）</li>
 <li>lung disease（99.6%）</li>
 <li>massive neonatal aspiration syndrome（99.6%）</li>
@@ -42,21 +42,13 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光 | EBC 東森新聞 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HanVPaGtiNmxjcklmVXFwTHZpRmFnQ0JSMjlyeHdSUTJKWVZsNDRsTzhBb1NmX3A3WEhVR2lKek5lXzFhZ2RnY3RIRzJjTnVRSmR6bFBn?oc=5)
 
-2026-06-14 <span class="news-indication-tag">感冒</span>
+2026-06-15 <span class="news-indication-tag">感冒</span>
 
 來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HanVPaGtiNmxjcklmVXFwTHZpRmFnQ0JSMjlyeHdSUTJKWVZsNDRsTzhBb1NmX3A3WEhVR2lKek5lXzFhZ2RnY3RIRzJjTnVRSmR6bFBn?oc=5)
-
----
-
-### [破傷風在美國捲土重來，對抗它其實不難](https://news.google.com/rss/articles/CBMib0FVX3lxTFBEaEpfX3JTX0pXOVJyZy1KUnZxVThyYWRiLW80dWlHbG5OQVVWTkpMOVpNTVdvUUk2UnlraEVPMXR0eGpTLXN0bHhtQjB0Z0h3NVZMMUh4TWVOdGwyQzhjTWpZazlYbGhwYkduZ0NBSQ?oc=5)
-
-2026-06-14 <span class="news-indication-tag">傷風</span>
-
-來源：[國家地理雜誌](https://news.google.com/rss/articles/CBMib0FVX3lxTFBEaEpfX3JTX0pXOVJyZy1KUnZxVThyYWRiLW80dWlHbG5OQVVWTkpMOVpNTVdvUUk2UnlraEVPMXR0eGpTLXN0bHhtQjB0Z0h3NVZMMUh4TWVOdGwyQzhjTWpZazlYbGhwYkduZ0NBSQ?oc=5)
 
 ---
 

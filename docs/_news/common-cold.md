@@ -3,7 +3,7 @@ layout: default
 title: "感冒（common cold） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "感冒（common cold） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "感冒（common cold） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒（common cold） 有什麼相關新聞？">
-<strong>感冒（common cold）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒（common cold）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光 | EBC 東森新聞 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HanVPaGtiNmxjcklmVXFwTHZpRmFnQ0JSMjlyeHdSUTJKWVZsNDRsTzhBb1NmX3A3WEhVR2lKek5lXzFhZ2RnY3RIRzJjTnVRSmR6bFBn?oc=5)
 
-2026-06-14
+2026-06-15
 
 來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HanVPaGtiNmxjcklmVXFwTHZpRmFnQ0JSMjlyeHdSUTJKWVZsNDRsTzhBb1NmX3A3WEhVR2lKek5lXzFhZ2RnY3RIRzJjTnVRSmR6bFBn?oc=5)
-
----
-
-### [破傷風在美國捲土重來，對抗它其實不難](https://news.google.com/rss/articles/CBMib0FVX3lxTFBEaEpfX3JTX0pXOVJyZy1KUnZxVThyYWRiLW80dWlHbG5OQVVWTkpMOVpNTVdvUUk2UnlraEVPMXR0eGpTLXN0bHhtQjB0Z0h3NVZMMUh4TWVOdGwyQzhjTWpZazlYbGhwYkduZ0NBSQ?oc=5)
-
-2026-06-14
-
-來源：[國家地理雜誌](https://news.google.com/rss/articles/CBMib0FVX3lxTFBEaEpfX3JTX0pXOVJyZy1KUnZxVThyYWRiLW80dWlHbG5OQVVWTkpMOVpNTVdvUUk2UnlraEVPMXR0eGpTLXN0bHhtQjB0Z0h3NVZMMUh4TWVOdGwyQzhjTWpZazlYbGhwYkduZ0NBSQ?oc=5)
 
 ---
 

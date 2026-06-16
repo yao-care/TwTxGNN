@@ -1,66 +1,15 @@
 {
-  "generated": "2026-06-16T12:04:24.639703+00:00",
-  "count": 5,
+  "generated": "2026-06-16T17:55:04.342018+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "40376696cedc",
-      "title": "年輕人高血壓勿忽視 醫生拆解3大類腎上腺瘤 女性患病恐致停經/月亮臉",
-      "published": "2026-06-16T10:39:00+00:00",
+      "id": "7cca7ac6bc1a",
+      "title": "新北推國中八年級公費HPV疫苗 男女國中生及早建立防癌屏障",
+      "published": "2026-06-16T14:28:26+00:00",
       "sources": [
         {
-          "name": "TVB",
-          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQRE9lVWFsSFFaYVE2eWpvTU9XTGxwTmVibzZ4N2ZHUjhHQXN3T3VQM01wTzJCX1hhdEZXWnk2RkhBcHN5MFRIREtGb0tuUE1wUVBwWmh5ZVAzekIwZzFCRG04SC1OSE4xcU1BYWtUMjliamMwVHVnMWtzNWpWdkg0ODE3Q2xPYXd6ZkREcll0VHVmVnJzbks2S0FNc0Fxc0pHcTdnazloZ1pBc2pmb2c1dVBwZXk4ckphdHVUal9PNjJzZHNRQmc0UmdrNGJybkNyNlVMYkpPUXI1VlVrMEZZU2pFREJxSDJZd1NVN19kb2xtcDFwRXJTMVF5NjBzTTJrVzc1TEJUdTVHcUxnVWo2OFJ6U1dlVGhPZk5aSFcxN2s0QndicVlpZWNuZl9hUE5fRl9oX1dEMVF4MmZteV9hVmM1UjNDZU4yMWNNUENlY3dGTHNheEg4bDV5N2paZVlhQmloNmhHdTZaN25VcnBtX25TVnh2c1pPeHJVaVpROHg1VHM2RnQ2dWd3Ukhnbl9LZ0x1ZERaWlFyRGE0NjFObnRPZy10ZGdBem9RYjczZHV6bnNyUUwtUTZQZF85Qkk?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "62d5a8b5ccba",
-      "title": "新北推國中生公費接種HPV疫苗 男女皆受惠最高省1萬4",
-      "published": "2026-06-16T06:23:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyQjVhN3FyTThFVFlfZU9ET3hRa2prQjhHMld4VXRmNnlibUtVS2ZteERCazRweG1NTHk2VGZGTXJjUmpNQmJGQTdGc2NnbUZyQkpWOXh0UzBXRTdaMjNmWGN0UTk?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxNY25EdkFKdE5UNmU2ZTJSd2Z2S3pLVGswTVNOamx5RE1SNmxnZnNwTFB2MUYycXdCbGxPVmFXWF9BdDNFc0FXY3ZJYjVNd2hsWHlxNzdjVDlPRWhvT1Q5TDNGMTBBZ2I3ck5DMkNXMExSZVBTOFhEQl9mcGlzRFRYR3dtR2tqMENwOWZoZF9nOWZwMHZ1ZzRNUy1vRV92cU9TbnJWVzhvNW5SZzJKdFZMTlFYaDBnNm95V2tVREl1MzlKZGlrUUs3R0dwQUdMRmRxQWZXNEtMSDY0NTdFa1dTMzIwZnRoc09mYjEzck9SWUlieDJSaVNLUnNEWnVXY0xIOGFCRHhObEhQdHFTcGdPaTZoWThkMU5uXzU4b21UVV9iVDNQMElFM3lpREg4LXNKZktrNDlqZUZjTVg0OE9MZVg1NS1DVDFtYWJHdWd5VlNwR2VfczhSeE5WdU5CdTFCazIxLWo1dkxMS05sYkxnam1QZWhHSW9xbXNpcHlPMDh2MVho?oc=5"
         }
       ],
       "keywords": [
@@ -262,19 +211,92 @@
       ]
     },
     {
-      "id": "e5cf917bf13d",
-      "title": "吃「1護膝保健品」恐傷腦！最新研究曝：失智風險飆25%",
-      "published": "2026-06-15T07:32:00+00:00",
+      "id": "40376696cedc",
+      "title": "年輕人高血壓勿忽視 醫生拆解3大類腎上腺瘤 女性患病恐致停經/月亮臉",
+      "published": "2026-06-16T10:39:00+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNaGxIcEl1bDliYnMyLWUwTWpXN2YwTXZkcE5IRE9zM3ZQTnFmT0hWalhidnpEbGNvam1rZTJURnJ6eEZfWHRlVmhOekhsRGFoQzZjQmNTSTJuVmNYZTRnaHZWalpSTHpMeVdzN0d1b3d2Q3NyMWttaEw4THVnZlJ1TlNvMUU4RTJxX3U5WmZGY1k4elRfY1BUTlRfeWpsQzFyckNmRDFnYTN3NkkxNzdLMXpSdmNDZWFyTUlITGFVbTNmTkdNVHg0U0oyUWNXSHJkOHgwRzljTlNrZDBqNlBXRFNKTkhuT00tY2E3R2Q2QjU3bVVWYnRaVWE0cGZRUjdIOUNNUk5nODhhS3gyNXdjY0pIdTFnNFBpSlF2MHZvNDJodC1BMWxTY01SQjZtUjZ3b0RsYkNmVmxKVnRpclRtbzBWTl9MWWsyNFJ4Z3oyZ1U3V2UzVEZCd3lTbXV5Sm03TGNN?oc=5"
+          "name": "TVB",
+          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQRE9lVWFsSFFaYVE2eWpvTU9XTGxwTmVibzZ4N2ZHUjhHQXN3T3VQM01wTzJCX1hhdEZXWnk2RkhBcHN5MFRIREtGb0tuUE1wUVBwWmh5ZVAzekIwZzFCRG04SC1OSE4xcU1BYWtUMjliamMwVHVnMWtzNWpWdkg0ODE3Q2xPYXd6ZkREcll0VHVmVnJzbks2S0FNc0Fxc0pHcTdnazloZ1pBc2pmb2c1dVBwZXk4ckphdHVUal9PNjJzZHNRQmc0UmdrNGJybkNyNlVMYkpPUXI1VlVrMEZZU2pFREJxSDJZd1NVN19kb2xtcDFwRXJTMVF5NjBzTTJrVzc1TEJUdTVHcUxnVWo2OFJ6U1dlVGhPZk5aSFcxN2s0QndicVlpZWNuZl9hUE5fRl9oX1dEMVF4MmZteV9hVmM1UjNDZU4yMWNNUENlY3dGTHNheEg4bDV5N2paZVlhQmloNmhHdTZaN25VcnBtX25TVnh2c1pPeHJVaVpROHg1VHM2RnQ2dWd3Ukhnbl9LZ0x1ZERaWlFyRGE0NjFObnRPZy10ZGdBem9RYjczZHV6bnNyUUwtUTZQZF85Qkk?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fbe67622916d",
+      "title": "葡萄糖胺影響失智病程？ 專家教你怎麼挑- 健康",
+      "published": "2026-06-16T08:34:45+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oT1ozOXBGanJsT29ZeUtCdnJocFpKZ1ZlUkZiWGNCb2p0NHRsbFE2My1LZzl5STE4S196UFVvTENIakM2RTh6UWtNTExyTExfbTFMTDR4WEVlZWRMM3FiU3Uyb3JDOUx6LWwwenh3?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
           "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
           "keyword": "失智",
           "related_drugs": [
             {
@@ -288,7 +310,7 @@
     {
       "id": "c0db933c39c7",
       "title": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光 | EBC 東森新聞 - LINE TODAY",
-      "published": "2026-06-14T23:25:13+00:00",
+      "published": "2026-06-15T15:52:03+00:00",
       "sources": [
         {
           "name": "LINE TODAY",
@@ -300,30 +322,6 @@
           "type": "indication",
           "name": "common cold",
           "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "dc642a9db50b",
-      "title": "破傷風在美國捲土重來，對抗它其實不難",
-      "published": "2026-06-14T15:46:41+00:00",
-      "sources": [
-        {
-          "name": "國家地理雜誌",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEaEpfX3JTX0pXOVJyZy1KUnZxVThyYWRiLW80dWlHbG5OQVVWTkpMOVpNTVdvUUk2UnlraEVPMXR0eGpTLXN0bHhtQjB0Z0h3NVZMMUh4TWVOdGwyQzhjTWpZazlYbGhwYkduZ0NBSQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "傷風",
           "related_drugs": [
             {
               "slug": "salicylamide",
