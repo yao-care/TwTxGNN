@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-15T22:57:07.437167+00:00",
-  "count": 6,
+  "generated": "2026-06-16T00:27:40.687471+00:00",
+  "count": 5,
   "news": [
     {
       "id": "c0c219599ba5",
@@ -51,30 +51,6 @@
       ]
     },
     {
-      "id": "c0db933c39c7",
-      "title": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光 | EBC 東森新聞 - LINE TODAY",
-      "published": "2026-06-14T23:25:13+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HanVPaGtiNmxjcklmVXFwTHZpRmFnQ0JSMjlyeHdSUTJKWVZsNDRsTzhBb1NmX3A3WEhVR2lKek5lXzFhZ2RnY3RIRzJjTnVRSmR6bFBn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "dc642a9db50b",
       "title": "破傷風在美國捲土重來，對抗它其實不難",
       "published": "2026-06-14T15:46:41+00:00",
@@ -89,6 +65,30 @@
           "type": "indication",
           "name": "common cold",
           "keyword": "傷風",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1435ebba3de1",
+      "title": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光",
+      "published": "2026-06-14T08:51:00+00:00",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2Rkp0a2lzUHhwME5OZEFETjExdi1MNXFfNzNqWWIwWUhHbDRrcm8yMzM5dUNFQS1mNXE3dVdjWWhWVXIyV2prUEVtQ3JTNW1oaDVGYQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
           "related_drugs": [
             {
               "slug": "salicylamide",
@@ -312,30 +312,6 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cbd279f575fb",
-      "title": "Sick問識答｜本港慢性腸炎患者30年急增30倍醫生拆解「炎症性腸病」成因建議定期做1事降患癌風險 - 晴報 Sky Post",
-      "published": "2026-06-13T23:19:11+00:00",
-      "sources": [
-        {
-          "name": "晴報 Sky Post",
-          "link": "https://news.google.com/rss/articles/CBMimgRBVV95cUxOZGh4bFk1YnMtS0hwSDdmVUhNMjJzV2VtaUdKMzI5Wmp6VVJNLXRqanNYb2RPMlVQekN4SUhLMG1OUlkyMzktc1oxLUpnR0JHN1NzdzMxZm9oMDNNSThqR1psR2otZkdsSUt0T2N4bHJOcm5xTlhhYWk0RFdIbkVhWHI5V3dzTm53NWZ4X2ZwQUZQdEI3YUlnUTl3bkpSZTlpSGs5VUlFZVprN0JpQUF4M04xUTVKQWZjRE1jUHJJUVQxclVGZklkUjd0UkhTOVB5SHVjWnN4THVQRFhSNW5NR3R4TXAwSlZHd0V2R2VTU2NZSldoZXltR0dmeFoxZzdIcHVWa2ZZU3NOaXVsd1ZoQ2lDTlBDQjR1SW1BQXVaNmlTV3A4NDhBdmczbGRZd283T1cwUGxXdlF5a2dzdUd0Xzh4N1hpUWRhS0JFU3Z6RC1GY25OSjFEOFAwMnFwS0JCV01fRmZ0bVlYTEhIT004TU9IY05IelZFTnhKZHBSX0kxRDdDUDlwUEFBVnRpSUUzVWFiSTA2N0drYUtRNHNHX3A1VlBMRzk2REhLdDVMVHJNVVFlQjJjVDIzdk0tN0hrR21xd0RWTDA0QWo2aUVtcjB3Sy1HRlU5ZmZzWUJ4MThvQUpFNVdkb1FTbWJXMkVSTHRQYU1CVm1jY1JaVmZISXNVSDZmUDVFMElPS3RRbkthZk9YOVNfNTVR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "腸炎",
-          "keyword": "腸炎",
-          "related_drugs": [
-            {
-              "slug": "timepidium",
-              "name": "Timepidium"
             }
           ]
         }

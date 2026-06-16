@@ -14,7 +14,7 @@ permalink: /news/timepidium/
 ---
 
 <p class="key-answer" data-question="Timepidium 有什麼相關新聞？">
-<strong>Timepidium</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Timepidium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,15 +33,9 @@ permalink: /news/timepidium/
 <p><a href="{{ '/drugs/timepidium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Sick問識答｜本港慢性腸炎患者30年急增30倍醫生拆解「炎症性腸病」成因建議定期做1事降患癌風險 - 晴報 Sky Post](https://news.google.com/rss/articles/CBMimgRBVV95cUxOZGh4bFk1YnMtS0hwSDdmVUhNMjJzV2VtaUdKMzI5Wmp6VVJNLXRqanNYb2RPMlVQekN4SUhLMG1OUlkyMzktc1oxLUpnR0JHN1NzdzMxZm9oMDNNSThqR1psR2otZkdsSUt0T2N4bHJOcm5xTlhhYWk0RFdIbkVhWHI5V3dzTm53NWZ4X2ZwQUZQdEI3YUlnUTl3bkpSZTlpSGs5VUlFZVprN0JpQUF4M04xUTVKQWZjRE1jUHJJUVQxclVGZklkUjd0UkhTOVB5SHVjWnN4THVQRFhSNW5NR3R4TXAwSlZHd0V2R2VTU2NZSldoZXltR0dmeFoxZzdIcHVWa2ZZU3NOaXVsd1ZoQ2lDTlBDQjR1SW1BQXVaNmlTV3A4NDhBdmczbGRZd283T1cwUGxXdlF5a2dzdUd0Xzh4N1hpUWRhS0JFU3Z6RC1GY25OSjFEOFAwMnFwS0JCV01fRmZ0bVlYTEhIT004TU9IY05IelZFTnhKZHBSX0kxRDdDUDlwUEFBVnRpSUUzVWFiSTA2N0drYUtRNHNHX3A1VlBMRzk2REhLdDVMVHJNVVFlQjJjVDIzdk0tN0hrR21xd0RWTDA0QWo2aUVtcjB3Sy1HRlU5ZmZzWUJ4MThvQUpFNVdkb1FTbWJXMkVSTHRQYU1CVm1jY1JaVmZISXNVSDZmUDVFMElPS3RRbkthZk9YOVNfNTVR?oc=5)
-
-2026-06-13 <span class="news-indication-tag">腸炎</span>
-
-來源：[晴報 Sky Post](https://news.google.com/rss/articles/CBMimgRBVV95cUxOZGh4bFk1YnMtS0hwSDdmVUhNMjJzV2VtaUdKMzI5Wmp6VVJNLXRqanNYb2RPMlVQekN4SUhLMG1OUlkyMzktc1oxLUpnR0JHN1NzdzMxZm9oMDNNSThqR1psR2otZkdsSUt0T2N4bHJOcm5xTlhhYWk0RFdIbkVhWHI5V3dzTm53NWZ4X2ZwQUZQdEI3YUlnUTl3bkpSZTlpSGs5VUlFZVprN0JpQUF4M04xUTVKQWZjRE1jUHJJUVQxclVGZklkUjd0UkhTOVB5SHVjWnN4THVQRFhSNW5NR3R4TXAwSlZHd0V2R2VTU2NZSldoZXltR0dmeFoxZzdIcHVWa2ZZU3NOaXVsd1ZoQ2lDTlBDQjR1SW1BQXVaNmlTV3A4NDhBdmczbGRZd283T1cwUGxXdlF5a2dzdUd0Xzh4N1hpUWRhS0JFU3Z6RC1GY25OSjFEOFAwMnFwS0JCV01fRmZ0bVlYTEhIT004TU9IY05IelZFTnhKZHBSX0kxRDdDUDlwUEFBVnRpSUUzVWFiSTA2N0drYUtRNHNHX3A1VlBMRzk2REhLdDVMVHJNVVFlQjJjVDIzdk0tN0hrR21xd0RWTDA0QWo2aUVtcjB3Sy1HRlU5ZmZzWUJ4MThvQUpFNVdkb1FTbWJXMkVSTHRQYU1CVm1jY1JaVmZISXNVSDZmUDVFMElPS3RRbkthZk9YOVNfNTVR?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
