@@ -1,111 +1,15 @@
 {
-  "generated": "2026-06-16T00:27:40.687471+00:00",
-  "count": 5,
+  "generated": "2026-06-16T06:25:31.970162+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "c0c219599ba5",
-      "title": "名醫會客室／每年3千萬嬰幼兒感染 RSV傳染源都是家人",
-      "published": "2026-06-15T09:58:06+00:00",
+      "id": "c9cdd2d32f69",
+      "title": "新北推公費「HPV疫苗」接種！八年級生2劑免費防癌",
+      "published": "2026-06-16T03:49:19+00:00",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNeHI5SFJ3VkpURXdFbExsTnhUMThDbC0wUXFxOGxfQmE5THp0eUlMZTYwaU4tWjNMNzJTUldhNHhjaE9qc19ESDRHX0RPbXF0WUhSMmlCYmswT2p1U1pZM25INXZLZ3llVElGRWJRTHVMWUxIVW1yc3lVbU9wRFJRY1NuUTRBSFpPRWt5WHVGT0ZrV2ZXZnNkUDBrWjR2YUcwbjZPNTlmU01qQ1Y2Y3FrcG5adlBaMHotLUtuY1NINWdZTjdkWE81UE9XUFVONmdDNTFXWmE2ZGtDUV9NUm5seVNqY2hrdlZIN2RZR241b2RYelFOM2NTRVpvTEs0QnlRSmtkbDA3bkhlQy16bDcyblNsTURYWEpYTEwyMEhCb1JpaERDWWlTVG13NFdxdXgwblhIdDJTWS14d2Q3WjlCRXc3UWJfRjgtck1mR1diUDUyc3ZQaTFv?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e5cf917bf13d",
-      "title": "吃「1護膝保健品」恐傷腦！最新研究曝：失智風險飆25%",
-      "published": "2026-06-15T07:32:00+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNaGxIcEl1bDliYnMyLWUwTWpXN2YwTXZkcE5IRE9zM3ZQTnFmT0hWalhidnpEbGNvam1rZTJURnJ6eEZfWHRlVmhOekhsRGFoQzZjQmNTSTJuVmNYZTRnaHZWalpSTHpMeVdzN0d1b3d2Q3NyMWttaEw4THVnZlJ1TlNvMUU4RTJxX3U5WmZGY1k4elRfY1BUTlRfeWpsQzFyckNmRDFnYTN3NkkxNzdLMXpSdmNDZWFyTUlITGFVbTNmTkdNVHg0U0oyUWNXSHJkOHgwRzljTlNrZDBqNlBXRFNKTkhuT00tY2E3R2Q2QjU3bVVWYnRaVWE0cGZRUjdIOUNNUk5nODhhS3gyNXdjY0pIdTFnNFBpSlF2MHZvNDJodC1BMWxTY01SQjZtUjZ3b0RsYkNmVmxKVnRpclRtbzBWTl9MWWsyNFJ4Z3oyZ1U3V2UzVEZCd3lTbXV5Sm03TGNN?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "dc642a9db50b",
-      "title": "破傷風在美國捲土重來，對抗它其實不難",
-      "published": "2026-06-14T15:46:41+00:00",
-      "sources": [
-        {
-          "name": "國家地理雜誌",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEaEpfX3JTX0pXOVJyZy1KUnZxVThyYWRiLW80dWlHbG5OQVVWTkpMOVpNTVdvUUk2UnlraEVPMXR0eGpTLXN0bHhtQjB0Z0h3NVZMMUh4TWVOdGwyQzhjTWpZazlYbGhwYkduZ0NBSQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "傷風",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1435ebba3de1",
-      "title": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光",
-      "published": "2026-06-14T08:51:00+00:00",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2Rkp0a2lzUHhwME5OZEFETjExdi1MNXFfNzNqWWIwWUhHbDRrcm8yMzM5dUNFQS1mNXE3dVdjWWhWVXIyV2prUEVtQ3JTNW1oaDVGYQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c80b402e4cfc",
-      "title": "HPV和「6大癌症」有關　醫示警：感染可能早在數十年前",
-      "published": "2026-06-14T03:30:00+00:00",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CTWNqRFR5RjZieEQyd005NWdWVnZ0Q2ZjaXJsN214RTJtdkRQZnhkNTFIdHlhSTZ0ek0tYS1DczNlejUzTnF6VTRYdk1qRWpp0gFsQVVfeXFMTi1zbFNjWTlCWU5jQXVhYWZ1d0ltVlRxaTVaX2ZKOGVBRmZsWGUwX0J6Vy1NTE00Q2ZMZ1VSMnNaQkxpVUtvWERUMzdHcXEyZ1plRno3RlhVSmNrbFQ4eWFWcWlzQmluX2hCemN0?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNRy04bFFlY29TcmJrcVFDR0JOMTBKeXA5ZTFGMUt0SVB0WVlYUlNZcWFNUkxHeGgwWnhxLXJtWFJObVNlM2RNX2NOVVBaV3NVNTZIeVg0X2liOTZSTWlQSVBCSXVaMnlRVE01R2FGMHUzMTdlTWFHVnhwTkZpQ01DSHdaRTBzVVdxQVhYbGRGQnp0THZERVNXd3hUMU1xdzUxeUphaXNPSVFuZ3JHc3lWZzJKUE5uSWJObUR2SzIxbFUzbXRCU2FULXdFRk1QUlhnY21MdXoxeFdsVGdZTktJZmpmamp3R2p3QjFvUFNjU2J5NG9wby04bTB4WHFSejd2TlRhSWNySHBINTBXZURHbzVXTWVGTHZRSDBUTkUzMUZzSWExeHRldnR3REo2NTJjbXlBTA?oc=5"
         }
       ],
       "keywords": [
@@ -303,15 +207,76 @@
               "name": "Zanubrutinib"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "e5cf917bf13d",
+      "title": "吃「1護膝保健品」恐傷腦！最新研究曝：失智風險飆25%",
+      "published": "2026-06-15T07:32:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNaGxIcEl1bDliYnMyLWUwTWpXN2YwTXZkcE5IRE9zM3ZQTnFmT0hWalhidnpEbGNvam1rZTJURnJ6eEZfWHRlVmhOekhsRGFoQzZjQmNTSTJuVmNYZTRnaHZWalpSTHpMeVdzN0d1b3d2Q3NyMWttaEw4THVnZlJ1TlNvMUU4RTJxX3U5WmZGY1k4elRfY1BUTlRfeWpsQzFyckNmRDFnYTN3NkkxNzdLMXpSdmNDZWFyTUlITGFVbTNmTkdNVHg0U0oyUWNXSHJkOHgwRzljTlNrZDBqNlBXRFNKTkhuT00tY2E3R2Q2QjU3bVVWYnRaVWE0cGZRUjdIOUNNUk5nODhhS3gyNXdjY0pIdTFnNFBpSlF2MHZvNDJodC1BMWxTY01SQjZtUjZ3b0RsYkNmVmxKVnRpclRtbzBWTl9MWWsyNFJ4Z3oyZ1U3V2UzVEZCd3lTbXV5Sm03TGNN?oc=5"
+        }
+      ],
+      "keywords": [
         {
           "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
+          "name": "dementia",
+          "keyword": "失智",
           "related_drugs": [
             {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dc642a9db50b",
+      "title": "破傷風在美國捲土重來，對抗它其實不難",
+      "published": "2026-06-14T15:46:41+00:00",
+      "sources": [
+        {
+          "name": "國家地理雜誌",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEaEpfX3JTX0pXOVJyZy1KUnZxVThyYWRiLW80dWlHbG5OQVVWTkpMOVpNTVdvUUk2UnlraEVPMXR0eGpTLXN0bHhtQjB0Z0h3NVZMMUh4TWVOdGwyQzhjTWpZazlYbGhwYkduZ0NBSQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "傷風",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1435ebba3de1",
+      "title": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光",
+      "published": "2026-06-14T08:51:00+00:00",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2Rkp0a2lzUHhwME5OZEFETjExdi1MNXFfNzNqWWIwWUhHbDRrcm8yMzM5dUNFQS1mNXE3dVdjWWhWVXIyV2prUEVtQ3JTNW1oaDVGYQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }

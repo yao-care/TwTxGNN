@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "感冒（common cold） 相關新聞"
+title: "傷風（common cold） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "感冒（common cold） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "傷風（common cold） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
-# 感冒（common cold） 相關新聞
+# 傷風（common cold） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="感冒（common cold） 有什麼相關新聞？">
-<strong>感冒（common cold）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="傷風（common cold） 有什麼相關新聞？">
+<strong>傷風（common cold）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「感冒」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「傷風」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,15 +29,7 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（3 則）
-
-### [名醫會客室／每年3千萬嬰幼兒感染 RSV傳染源都是家人](https://news.google.com/rss/articles/CBMi1wJBVV95cUxNeHI5SFJ3VkpURXdFbExsTnhUMThDbC0wUXFxOGxfQmE5THp0eUlMZTYwaU4tWjNMNzJTUldhNHhjaE9qc19ESDRHX0RPbXF0WUhSMmlCYmswT2p1U1pZM25INXZLZ3llVElGRWJRTHVMWUxIVW1yc3lVbU9wRFJRY1NuUTRBSFpPRWt5WHVGT0ZrV2ZXZnNkUDBrWjR2YUcwbjZPNTlmU01qQ1Y2Y3FrcG5adlBaMHotLUtuY1NINWdZTjdkWE81UE9XUFVONmdDNTFXWmE2ZGtDUV9NUm5seVNqY2hrdlZIN2RZR241b2RYelFOM2NTRVpvTEs0QnlRSmtkbDA3bkhlQy16bDcyblNsTURYWEpYTEwyMEhCb1JpaERDWWlTVG13NFdxdXgwblhIdDJTWS14d2Q3WjlCRXc3UWJfRjgtck1mR1diUDUyc3ZQaTFv?oc=5)
-
-2026-06-15
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi1wJBVV95cUxNeHI5SFJ3VkpURXdFbExsTnhUMThDbC0wUXFxOGxfQmE5THp0eUlMZTYwaU4tWjNMNzJTUldhNHhjaE9qc19ESDRHX0RPbXF0WUhSMmlCYmswT2p1U1pZM25INXZLZ3llVElGRWJRTHVMWUxIVW1yc3lVbU9wRFJRY1NuUTRBSFpPRWt5WHVGT0ZrV2ZXZnNkUDBrWjR2YUcwbjZPNTlmU01qQ1Y2Y3FrcG5adlBaMHotLUtuY1NINWdZTjdkWE81UE9XUFVONmdDNTFXWmE2ZGtDUV9NUm5seVNqY2hrdlZIN2RZR241b2RYelFOM2NTRVpvTEs0QnlRSmtkbDA3bkhlQy16bDcyblNsTURYWEpYTEwyMEhCb1JpaERDWWlTVG13NFdxdXgwblhIdDJTWS14d2Q3WjlCRXc3UWJfRjgtck1mR1diUDUyc3ZQaTFv?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [破傷風在美國捲土重來，對抗它其實不難](https://news.google.com/rss/articles/CBMib0FVX3lxTFBEaEpfX3JTX0pXOVJyZy1KUnZxVThyYWRiLW80dWlHbG5OQVVWTkpMOVpNTVdvUUk2UnlraEVPMXR0eGpTLXN0bHhtQjB0Z0h3NVZMMUh4TWVOdGwyQzhjTWpZazlYbGhwYkduZ0NBSQ?oc=5)
 

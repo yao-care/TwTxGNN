@@ -1,17 +1,17 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-16T00:27:36.503483+00:00",
-  "count": 12,
+  "fetched_at": "2026-06-16T06:25:26.469098+00:00",
+  "count": 10,
   "news": [
     {
-      "id": "c0c219599ba5",
-      "title": "名醫會客室／每年3千萬嬰幼兒感染 RSV傳染源都是家人 - Yahoo新聞",
-      "published": "2026-06-15T09:58:06+00:00",
-      "summary": "名醫會客室／每年3千萬嬰幼兒感染 RSV傳染源都是家人&nbsp;&nbsp;Yahoo新聞RSV恐致嬰幼兒重症！醫揭「這類人」住院率高 新型疫苗助防護&nbsp;&nbsp;PChome Online 新聞默沙東呼吸道合胞病毒(RSV)預防單抗安福暢®(克萊羅韋單抗)在華獲批&nbsp;&nbsp;AASTOCKS.com0-6個月嬰幼兒大敵！愛寶寶， 從孕期保護做起&nbsp;&nbsp;嬰兒與母親不是普通感冒！醫揭「這病毒」2天恐變重症：長輩心肺衰竭隱形殺手 | 三立新聞網&nbsp;&nbsp;LINE TODAY",
+      "id": "c9cdd2d32f69",
+      "title": "新北推公費「HPV疫苗」接種！八年級生2劑免費防癌 - Yahoo新聞",
+      "published": "2026-06-16T03:49:19+00:00",
+      "summary": "新北推公費「HPV疫苗」接種！八年級生2劑免費防癌&nbsp;&nbsp;Yahoo新聞公費接種HPV疫苗省1萬4千元！ 國中男女學生及早建立防癌屏障&nbsp;&nbsp;中央社 CNAHPV和「6大癌症」有關 醫示警：感染可能早在數十年前&nbsp;&nbsp;ETtoday健康雲拆解HPV疑雲 健身室傳性病？風險低 - 20260615 - BEAUTY&nbsp;&nbsp;明報 Our Lifestyle新北續推國中八年級公費HPV疫苗 男女學生皆受惠省1萬4千元&nbsp;&nbsp;UDN",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNeHI5SFJ3VkpURXdFbExsTnhUMThDbC0wUXFxOGxfQmE5THp0eUlMZTYwaU4tWjNMNzJTUldhNHhjaE9qc19ESDRHX0RPbXF0WUhSMmlCYmswT2p1U1pZM25INXZLZ3llVElGRWJRTHVMWUxIVW1yc3lVbU9wRFJRY1NuUTRBSFpPRWt5WHVGT0ZrV2ZXZnNkUDBrWjR2YUcwbjZPNTlmU01qQ1Y2Y3FrcG5adlBaMHotLUtuY1NINWdZTjdkWE81UE9XUFVONmdDNTFXWmE2ZGtDUV9NUm5seVNqY2hrdlZIN2RZR241b2RYelFOM2NTRVpvTEs0QnlRSmtkbDA3bkhlQy16bDcyblNsTURYWEpYTEwyMEhCb1JpaERDWWlTVG13NFdxdXgwblhIdDJTWS14d2Q3WjlCRXc3UWJfRjgtck1mR1diUDUyc3ZQaTFv?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNRy04bFFlY29TcmJrcVFDR0JOMTBKeXA5ZTFGMUt0SVB0WVlYUlNZcWFNUkxHeGgwWnhxLXJtWFJObVNlM2RNX2NOVVBaV3NVNTZIeVg0X2liOTZSTWlQSVBCSXVaMnlRVE01R2FGMHUzMTdlTWFHVnhwTkZpQ01DSHdaRTBzVVdxQVhYbGRGQnp0THZERVNXd3hUMU1xdzUxeUphaXNPSVFuZ3JHc3lWZzJKUE5uSWJObUR2SzIxbFUzbXRCU2FULXdFRk1QUlhnY21MdXoxeFdsVGdZTktJZmpmamp3R2p3QjFvUFNjU2J5NG9wby04bTB4WHFSejd2TlRhSWNySHBINTBXZURHbzVXTWVGTHZRSDBUTkUzMUZzSWExeHRldnR3REo2NTJjbXlBTA?oc=5"
         }
       ]
     },
@@ -28,6 +28,18 @@
       ]
     },
     {
+      "id": "09649e996830",
+      "title": "蚊帳防疫效能面臨挑戰 專家籲調整策略以應對抗藥性與氣候變遷 - GeneOnline News",
+      "published": "2026-06-15T00:09:23+00:00",
+      "summary": "蚊帳防疫效能面臨挑戰 專家籲調整策略以應對抗藥性與氣候變遷&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOcHJObUhUSzY4QzAzTjN3cWZ3MXZsc0RzNjBzY2hPdEgtWEpKczBBQlVXMFJJeHJ4U0twQ2Y2VERKMzlheVdnVG1HQnA0UHdiYWxaTndmWVNwZU5wb3V4czBJX3RNSkdGd1dhQ1dnVk81TGNyWGxRRC1PbC1MeTM2bWE0SmlwekRNZy1aWnVJSU1HeGhjTHc5RWt0YW5veXctRnowMTA5Vk0tMWg3SFlVaDNWa0FDV1Btdmk2MllVYkIzRFZCVjJUdThHanZabGtPSDBWbnRVMldRemFHUjFKRXBBdUNhQ1ZZMWswVUpGdWc2QTVtUEVucGRFeDZtOHNablNuTTF1VHBoVnN0TGs1Wm9CMkpOU2lVMGxJOVAxYU9QeXVKLVdrUU9BaVlvYW1XaGpqUDRhZjJRVEZ2bHlTQWtoQmZqTms?oc=5"
+        }
+      ]
+    },
+    {
       "id": "45bebfb9f382",
       "title": "愛心醫生教您2026年如何預防糖尿病 從篩查前移到主動預警 - 報新聞",
       "published": "2026-06-15T08:14:34+00:00",
@@ -36,18 +48,6 @@
         {
           "name": "報新聞",
           "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOUFZQUGxKY3lSVjlHaERVWm5NZ2l0TEdvWFVlVVEzaXhpd0tacklUYXd2Q2hyOU9DZENFUmJWUEZBRzA5dFBjNmhsX3lwcGhxQ0hyZ1UxdWY3dTB6cnZDdmJuVEx5RzNEb2lxdmpXcHJEX1dMdGNtUUt1ek82MlJEZUhDZHU0VUg2dGhva1dWUzFYY0FGQTdCYzZ0YVo0OTdDUzJkZ3BpVk1hdDF0V0sya1hlLS05MGNucU1UWHZPUDlwNzQ5VW84VVZ4YlJzSVJtWkZfR3hoWENuVHQ3Qlh4TGVpa1Q1ZzUzckN3QjJxUnRRc3ZMSEVnbVZJVEEzYWV5ZFc0ME9sTWJTZFhnS1E4Y1BfZExzeHFDQkdOVmNEdWlYbDJSOHJMOGdhNkJXbXFpTVhYRzlEQmd0Snlsa05UWFBQdXdZbmZKbWhsa3lOXzN6SHk1ZjRHa0x1YlFvS1ZuM1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b55a6e2fd1db",
-      "title": "健康名人堂／重複吃同樣食物 原來也能幫助減肥 - UDN",
-      "published": "2026-06-15T16:00:00+00:00",
-      "summary": "健康名人堂／重複吃同樣食物 原來也能幫助減肥&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83Vk1DR3ZSQXVGVzNXSGs0WURVQ2o4aklGZjU1TDBBRHluUDRwaUViSDVOZmEtamJoY3NGdnp5UVVhRi1GSHFHT3ItNU8wWlRR?oc=5"
         }
       ]
     },
@@ -64,14 +64,14 @@
       ]
     },
     {
-      "id": "09649e996830",
-      "title": "蚊帳防疫效能面臨挑戰 專家籲調整策略以應對抗藥性與氣候變遷 - GeneOnline News",
-      "published": "2026-06-15T00:09:23+00:00",
-      "summary": "蚊帳防疫效能面臨挑戰 專家籲調整策略以應對抗藥性與氣候變遷&nbsp;&nbsp;GeneOnline News",
+      "id": "b55a6e2fd1db",
+      "title": "健康名人堂／重複吃同樣食物 原來也能幫助減肥 - UDN",
+      "published": "2026-06-15T16:00:00+00:00",
+      "summary": "健康名人堂／重複吃同樣食物 原來也能幫助減肥&nbsp;&nbsp;UDN",
       "sources": [
         {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOcHJObUhUSzY4QzAzTjN3cWZ3MXZsc0RzNjBzY2hPdEgtWEpKczBBQlVXMFJJeHJ4U0twQ2Y2VERKMzlheVdnVG1HQnA0UHdiYWxaTndmWVNwZU5wb3V4czBJX3RNSkdGd1dhQ1dnVk81TGNyWGxRRC1PbC1MeTM2bWE0SmlwekRNZy1aWnVJSU1HeGhjTHc5RWt0YW5veXctRnowMTA5Vk0tMWg3SFlVaDNWa0FDV1Btdmk2MllVYkIzRFZCVjJUdThHanZabGtPSDBWbnRVMldRemFHUjFKRXBBdUNhQ1ZZMWswVUpGdWc2QTVtUEVucGRFeDZtOHNablNuTTF1VHBoVnN0TGs1Wm9CMkpOU2lVMGxJOVAxYU9QeXVKLVdrUU9BaVlvYW1XaGpqUDRhZjJRVEZ2bHlTQWtoQmZqTms?oc=5"
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83Vk1DR3ZSQXVGVzNXSGs0WURVQ2o4aklGZjU1TDBBRHluUDRwaUViSDVOZmEtamJoY3NGdnp5UVVhRi1GSHFHT3ItNU8wWlRR?oc=5"
         }
       ]
     },
@@ -88,14 +88,14 @@
       ]
     },
     {
-      "id": "58673c025b9a",
-      "title": "MRI 不只能拍結構，MIT 新型感測器讓大腦化學訊號「發亮」 - TechNews 科技新報",
-      "published": "2026-06-15T00:15:51+00:00",
-      "summary": "MRI 不只能拍結構，MIT 新型感測器讓大腦化學訊號「發亮」&nbsp;&nbsp;TechNews 科技新報",
+      "id": "ac46928cad0d",
+      "title": "MRI 不只能拍結構，MIT 新型感測器讓大腦化學訊號「發亮」 | 科技新報 - LINE TODAY",
+      "published": "2026-06-15T08:42:29+00:00",
+      "summary": "MRI 不只能拍結構，MIT 新型感測器讓大腦化學訊號「發亮」 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrREJQUTE3MzNpa0ZiZFYtaW9jc3NkZUd1cEFNU3hBMVdmV2hVeDhHUkQ2U1FvUC16UllKQlVqdmd4MFBZaXJwZzFNaE1ha2FqcWliNjY0d3ozemxFUDFld2h3?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10Ql9JRzA5c2dFSHRrdUZRdHZSTlAwZ1o5cVg2UkNwWDlWSzN5RFlrS1AxRFhaRkVMUWxKZVZ3c1Qxb1Y3YW5NQzc5YldHRnFDMWo5Z1FR?oc=5"
         }
       ]
     },
@@ -112,18 +112,6 @@
       ]
     },
     {
-      "id": "c80b402e4cfc",
-      "title": "HPV和「6大癌症」有關　醫示警：感染可能早在數十年前 - ETtoday健康雲",
-      "published": "2026-06-14T03:30:00+00:00",
-      "summary": "HPV和「6大癌症」有關 醫示警：感染可能早在數十年前&nbsp;&nbsp;ETtoday健康雲拆解HPV疑雲 健身室傳性病？風險低 - 20260615 - BEAUTY&nbsp;&nbsp;明報 Our Lifestyle「子宮頸抹片」多久要做一次？有助於防治子宮頸癌嗎？&nbsp;&nbsp;104職場力PrEP讓親密關係更安心，但HPV更需要一起管理！從友善健康照護角度，重新理解「安全性行為」&nbsp;&nbsp;良醫健康網正視HPV風險 強化男性防護意識&nbsp;&nbsp;香港文匯網",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CTWNqRFR5RjZieEQyd005NWdWVnZ0Q2ZjaXJsN214RTJtdkRQZnhkNTFIdHlhSTZ0ek0tYS1DczNlejUzTnF6VTRYdk1qRWpp0gFsQVVfeXFMTi1zbFNjWTlCWU5jQXVhYWZ1d0ltVlRxaTVaX2ZKOGVBRmZsWGUwX0J6Vy1NTE00Q2ZMZ1VSMnNaQkxpVUtvWERUMzdHcXEyZ1plRno3RlhVSmNrbFQ4eWFWcWlzQmluX2hCemN0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1435ebba3de1",
       "title": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光 - 東森新聞",
       "published": "2026-06-14T08:51:00+00:00",
@@ -132,18 +120,6 @@
         {
           "name": "東森新聞",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2Rkp0a2lzUHhwME5OZEFETjExdi1MNXFfNzNqWWIwWUhHbDRrcm8yMzM5dUNFQS1mNXE3dVdjWWhWVXIyV2prUEVtQ3JTNW1oaDVGYQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "62f1bd07a435",
-      "title": "沙巴骨痛熱症飆升50% , 衛生部引入「行為洞察」策略抗疫 - Overseas Chinese Daily News",
-      "published": "2026-06-14T03:14:26+00:00",
-      "summary": "沙巴骨痛熱症飆升50% , 衛生部引入「行為洞察」策略抗疫&nbsp;&nbsp;Overseas Chinese Daily News",
-      "sources": [
-        {
-          "name": "Overseas Chinese Daily News",
-          "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQS1FzcjI5Wm5BZmhDaHBSZU5zNUh5c1Z2U2ZHWkxTMHhseTRoZWg2TXU1YzhMNlViZVlhdHBnRG5GQjhXcUpxT2lEVmV5RHFQR0VFSmV5MXJhRl9YSHAyMG5aVjB5MDdISXhyNUVKazQ0STh1WnZyVVpQbllMOEFScVdVdWtsUUpxMXN1TjJLOURySU5DS0pQTE1tUmJVVGNtRUlCV3N3bGVaRzViWlRMcG10UHpQNXN1MHUtWHZPUFpHUnRLWW0wbFhqLWRIc3N3eHZOWi1EQTF5QXNMV0lINXFFMFg1MVBsUFlwbHRDZW5xbG5LaXVBVFhuYTVOSGhZQkRURGttNzFVTjZuX1dQRUtRSjdsMG9QX0lxVG44R1ptYVJXNVhnTVI2Nmk0Y0d0UURYU1VRbDlCamJkNW9hQWZXS2Jkd2RTeTQ5TjVzYUtaSWo0M05YekZVdjFwWTNJTUlMTVpyVmljOGs?oc=5"
         }
       ]
     }
