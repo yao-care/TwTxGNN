@@ -77,11 +77,11 @@ permalink: /news/generic-cancer/
 
 ## 相關新聞（1 則）
 
-### [癌症與失智症出現共同基因突變 研究揭阿茲海默症新機制](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fc29WcVNqVU1hMVM2Tkh6ak5oNXduVGcxMnRDUXZ5RFZ0Tmkyc013Q2VhRFl0VHpROE9CWUVBQmpzamJOVlZ3WFV0Qk56OFJnRkgxdkd4Z0RHWjNMaHZCcElvNFQ?oc=5)
+### [癌症與失智症出現共同基因突變 研究揭阿茲海默症新機制](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fc29WcVNqVU1hMVM2Tkh6ak5oNXduVGcxMnRDUXZ5RFZ0Tmkyc013Q2VhRFl0VHpROE9CWUVBQmpzamJOVlZ3WFV0Qk56OFJnRkgxdkd4Z0RHWjNMaHZCcElvNFTSAWpBVV95cUxQWUxJLXBJTnRhdXByd0pyb2pvR3d6MVFGSXVMdmwwZW9vQkpNaTNWRTdtaVF6MkVmbkNKaTUxdFdBQVN0MlRsTmVMWm1QdktDaHliWUlXTm1lUm0tVExueWpDc2lGVWdMVWpR?oc=5)
 
 2026-06-17
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fc29WcVNqVU1hMVM2Tkh6ak5oNXduVGcxMnRDUXZ5RFZ0Tmkyc013Q2VhRFl0VHpROE9CWUVBQmpzamJOVlZ3WFV0Qk56OFJnRkgxdkd4Z0RHWjNMaHZCcElvNFQ?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fc29WcVNqVU1hMVM2Tkh6ak5oNXduVGcxMnRDUXZ5RFZ0Tmkyc013Q2VhRFl0VHpROE9CWUVBQmpzamJOVlZ3WFV0Qk56OFJnRkgxdkd4Z0RHWjNMaHZCcElvNFTSAWpBVV95cUxQWUxJLXBJTnRhdXByd0pyb2pvR3d6MVFGSXVMdmwwZW9vQkpNaTNWRTdtaVF6MkVmbkNKaTUxdFdBQVN0MlRsTmVMWm1QdktDaHliWUlXTm1lUm0tVExueWpDc2lGVWdMVWpR?oc=5)
 
 ---
 
