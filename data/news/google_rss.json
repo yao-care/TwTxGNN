@@ -1,29 +1,41 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-17T00:10:17.343307+00:00",
+  "fetched_at": "2026-06-17T06:01:34.917297+00:00",
   "count": 13,
   "news": [
     {
-      "id": "730f6afa8281",
-      "title": "公費HPV疫苗男女皆受惠 公費接種省1萬4千元 - Yahoo新聞",
-      "published": "2026-06-16T18:18:21+00:00",
-      "summary": "公費HPV疫苗男女皆受惠 公費接種省1萬4千元&nbsp;&nbsp;Yahoo新聞新北推國中生公費接種HPV疫苗 男女皆受惠最高省1萬4&nbsp;&nbsp;自由健康網9成男性恐中鏢！感染沒症狀、沒篩檢 醫警告：癌變才發現&nbsp;&nbsp;中天新聞網拆解HPV疑雲 健身室傳性病？風險低 - 20260615 - BEAUTY&nbsp;&nbsp;明報 Our LifestyleHPV 疫苗問世 20 年，臺灣九價防護成關鍵&nbsp;&nbsp;GeneOnline News",
+      "id": "ca14206ae558",
+      "title": "修瓣不換瓣，上海援疆為南疆心臟外科打開一扇新門 - 人民网-上海频道",
+      "published": "2026-06-17T02:50:00+00:00",
+      "summary": "修瓣不換瓣，上海援疆為南疆心臟外科打開一扇新門&nbsp;&nbsp;人民网-上海频道",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNSWRkTWl2bWp1U2o5ZXpLYm1jZXhOdWFqYVRmVXdUM0U5Vkh2N3VMa2ZSRmtvM2xZZ0hMY3NOUzVWODAzaEt5bkhiZmRYTl9OME5pQXdhZjFZTWZiekNWMWgxc2Q5MHBHVlhtLXdqdzlaVjkybEF3ZlFsUjBYYTRGbnpXRHZheS00REg0cXlKZGxJWldsSWN4WUJHcUV2dGg0V0NvaWlFNGtzQVBvbWxYTVllTXRxUm5RbVVpeE1ZUzJ2UHFubUI0MnhaaXd4T1phYXhYYVZ0ZElDaE5sLTR5UjZpN2ljYWEwT2RwYkYwZGx6dWxyemJseGNjMmFveEpZN2VtNF9UelFrSmVxNmVsZjd4UlYtYm5NaFZNNjVSUjRZNGhOazI4?oc=5"
+          "name": "人民网-上海频道",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43VElheExkOGdGMlQ3cU14N0lrcTNzbmR4UFdYSjRMV2RMcld3bEdHUUsxeDZMYS1URDhnZHBIbl9iUkVTZ1pGM2Rmd0ZoaVF1Tk5TcElYNTJ3ZTlZUkpSOEdhd0w2SWlqUzZBSjdlWWY?oc=5"
         }
       ]
     },
     {
-      "id": "09649e996830",
-      "title": "蚊帳防疫效能面臨挑戰 專家籲調整策略以應對抗藥性與氣候變遷 - GeneOnline News",
-      "published": "2026-06-15T00:09:23+00:00",
-      "summary": "蚊帳防疫效能面臨挑戰 專家籲調整策略以應對抗藥性與氣候變遷&nbsp;&nbsp;GeneOnline News",
+      "id": "02ab390b62c7",
+      "title": "瘦瘦針不只幫減重 研究發現肥胖男精蟲品質改善 - 自由健康網",
+      "published": "2026-06-17T04:39:00+00:00",
+      "summary": "瘦瘦針不只幫減重 研究發現肥胖男精蟲品質改善&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOcHJObUhUSzY4QzAzTjN3cWZ3MXZsc0RzNjBzY2hPdEgtWEpKczBBQlVXMFJJeHJ4U0twQ2Y2VERKMzlheVdnVG1HQnA0UHdiYWxaTndmWVNwZU5wb3V4czBJX3RNSkdGd1dhQ1dnVk81TGNyWGxRRC1PbC1MeTM2bWE0SmlwekRNZy1aWnVJSU1HeGhjTHc5RWt0YW5veXctRnowMTA5Vk0tMWg3SFlVaDNWa0FDV1Btdmk2MllVYkIzRFZCVjJUdThHanZabGtPSDBWbnRVMldRemFHUjFKRXBBdUNhQ1ZZMWswVUpGdWc2QTVtUEVucGRFeDZtOHNablNuTTF1VHBoVnN0TGs1Wm9CMkpOU2lVMGxJOVAxYU9QeXVKLVdrUU9BaVlvYW1XaGpqUDRhZjJRVEZ2bHlTQWtoQmZqTms?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nR1ZPZEdpWTVERE8yeV80ZkcwTjJ3N2wwQm8zM0FmcGdaLUNJWFoxdHZjU3JaRFIyWjFVaVJWcGI3amJoRUtwTUxYQ2hCajhJZVQ5aTNMa2FqeHpxaGNzUXNXLWbSAWpBVV95cUxObjhJOHNTS1U1MmQxa3ZLSWlYeEJ2Z2ZOQ2Y1MTBLb3VfYkR1U2ZRemFCXy1WZmdJdnhZNzd1WlItV2wwNUJHRFBCc2l2Y3NQMHFPWktSUjFjZUE4U3lzOWlqMmRXOVBucnlR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8b3d9b314380",
+      "title": "迷幻蘑菇｜腦退化婦食迷幻蘑菇紓緩症狀 - EJ Tech",
+      "published": "2026-06-17T03:15:26+00:00",
+      "summary": "迷幻蘑菇｜腦退化婦食迷幻蘑菇紓緩症狀&nbsp;&nbsp;EJ Tech",
+      "sources": [
+        {
+          "name": "EJ Tech",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU29LYUtlcF92a19LZHo5bzBPV0w0WDJWck1aRXhEYmlJZzRfbEd0azltSXBYVUU1cllNZnNHTjRUdklINHlUNzNscjQteUkydmpmelpPQVVQYXVKQkVxWndrTzZqQ1FPYjVTZEVvaWFiX1o4TzVqN0ptb1I4U1dLNVN0eTdrcUFqMFFra3hkeE0ydkZLdEYwejdFd0JTQ0RMZW9KN1ZwMlZ2OG9jNlQ5d3VMdmRmNWdSOUlQU3c0c3ZHVlpfZ014WGs0RQ?oc=5"
         }
       ]
     },
@@ -52,30 +64,6 @@
       ]
     },
     {
-      "id": "905336e81069",
-      "title": "補足人體隱形發電機 告別疲勞 - 翻爆",
-      "published": "2026-06-16T10:20:27+00:00",
-      "summary": "補足人體隱形發電機 告別疲勞&nbsp;&nbsp;翻爆",
-      "sources": [
-        {
-          "name": "翻爆",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUQl9fNE5jWXBXWThpQ2U1MjAzRVdZdXp4SW05NHYxQnNaeXoxTGtyN0xOa1ZkekE2RzNjOVNaRWtWbGdBYmFmNXdPLTFTSXM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c872f8bce79b",
-      "title": "長者吃鈣片、維生素D防骨折？大型研究打臉：效果有限 - 科技島",
-      "published": "2026-06-16T08:49:37+00:00",
-      "summary": "長者吃鈣片、維生素D防骨折？大型研究打臉：效果有限&nbsp;&nbsp;科技島",
-      "sources": [
-        {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KWUtlZmxGanh5cXNsVkpMcXVud09SRW9ldlBCN09jaWl2TmJONVltZjY2QTU1NkF1MHBSa1dLVXUxaDFjRXBybWxyR1FxUm1LWkdua3FTVXRtWU5WeVNZ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a3b356aa06b4",
       "title": "嘴角破超痛怎麼辦？營養師列出嘴破有3情況這樣吃恢復更快不復發- 營養好食 - TVBS 健康2.0",
       "published": "2026-06-15T06:08:21+00:00",
@@ -84,6 +72,18 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoU1R3S3ZoVmdRbGNuMDR6ZmV6WUdKMVpidVRSVGpxc3I4Ylg3UmhVbW8zTnpKWGNPdThnTXlodEJTZHlMS0ZvRHFBZWRxLUtuc1FSRnZn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "905336e81069",
+      "title": "補足人體隱形發電機 告別疲勞 - 翻爆",
+      "published": "2026-06-16T10:20:27+00:00",
+      "summary": "補足人體隱形發電機 告別疲勞&nbsp;&nbsp;翻爆",
+      "sources": [
+        {
+          "name": "翻爆",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUQl9fNE5jWXBXWThpQ2U1MjAzRVdZdXp4SW05NHYxQnNaeXoxTGtyN0xOa1ZkekE2RzNjOVNaRWtWbGdBYmFmNXdPLTFTSXM?oc=5"
         }
       ]
     },
@@ -100,14 +100,14 @@
       ]
     },
     {
-      "id": "58673c025b9a",
-      "title": "MRI 不只能拍結構，MIT 新型感測器讓大腦化學訊號「發亮」 - TechNews 科技新報",
-      "published": "2026-06-15T00:15:51+00:00",
-      "summary": "MRI 不只能拍結構，MIT 新型感測器讓大腦化學訊號「發亮」&nbsp;&nbsp;TechNews 科技新報",
+      "id": "c872f8bce79b",
+      "title": "長者吃鈣片、維生素D防骨折？大型研究打臉：效果有限 - 科技島",
+      "published": "2026-06-16T08:49:37+00:00",
+      "summary": "長者吃鈣片、維生素D防骨折？大型研究打臉：效果有限&nbsp;&nbsp;科技島",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrREJQUTE3MzNpa0ZiZFYtaW9jc3NkZUd1cEFNU3hBMVdmV2hVeDhHUkQ2U1FvUC16UllKQlVqdmd4MFBZaXJwZzFNaE1ha2FqcWliNjY0d3ozemxFUDFld2h3?oc=5"
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KWUtlZmxGanh5cXNsVkpMcXVud09SRW9ldlBCN09jaWl2TmJONVltZjY2QTU1NkF1MHBSa1dLVXUxaDFjRXBybWxyR1FxUm1LWkdua3FTVXRtWU5WeVNZ?oc=5"
         }
       ]
     },
