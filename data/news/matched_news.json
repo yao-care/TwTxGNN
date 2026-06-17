@@ -1,21 +1,8 @@
 {
-  "last_updated": "2026-06-17T11:28:33.535499+00:00",
-  "total_count": 12,
-  "matched_count": 6,
+  "last_updated": "2026-06-17T14:52:50.593642+00:00",
+  "total_count": 11,
+  "matched_count": 5,
   "news": [
-    {
-      "id": "5a5b31797c2e",
-      "title": "愛心醫生教您2026年如何預防糖尿病 從篩查前移到主動預警",
-      "published": "2026-06-17T08:36:14+00:00",
-      "summary": "愛心醫生教您2026年如何預防糖尿病 從篩查前移到主動預警&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iaXU2Z2R6OWpWNFFELUxfci10MkpuMVp6ckwwNmxRMEdzMTZ5NklaMVR5TU5FXzdtalZsUXhFckNFcm9LS1FBelc1UDRURzZkVHc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
     {
       "id": "5d0ee5e66141",
       "title": "癌症與失智症出現共同基因突變 研究揭阿茲海默症新機制",
@@ -272,31 +259,6 @@
       "matched_keywords": []
     },
     {
-      "id": "28191819b74a",
-      "title": "常覺得腦袋卡卡、記憶變差，以為是老化或失智前兆？醫師揭真相：腸道發炎才是腦霧關鍵",
-      "published": "2026-06-17T03:05:11+00:00",
-      "summary": "常覺得腦袋卡卡、記憶變差，以為是老化或失智前兆？醫師揭真相：腸道發炎才是腦霧關鍵&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQUTN4LTlPbVVOXzdEYkl6VDh6X1JSMDF3ZzU2cW1TOHNOTWxIQ3l1dDlwWTZRMGFLckU0LW9tOG1VOXlUc3k3RTZDaFhWSDJnbGtMdXUyTDdEd0dHazdVQ3dSTVNXS19LTDVNSi1oeEZ6aXUxOFNLX214Xzl6dUVkUFlDdUxDOUlDNUxjbGtPYjg5cVNtZjZFVXYzMnEzN2FkbXJscDc4OGdZSHVHZzQ5OHFkWmNZSmdkWHozb2gya00tYUhGeUhIcVhkSVhQTUJMa2dJcXhaNEFpYnh0cGZKSnJFa1Flbnl4SjRVRmZTVWxULVJvZ0hFeG8tN05yYk1Mb1Uzb2VGX2NfSGFBUEVJMGVOamJtb0ZZMzh5V2RYMGNOUWpXRHNMTTYzSUk2ckVKUHlvN0N6VlcxT0JIYXAzajAyZ2NMQmk5TjVKcC14RUVmd0tTaXVwc191VjV6dHRydS1taGpUMlRSa3lmc3UzTWNMNV9uamJiSEJvZzFjbUsyVnh3RGFIWWVwOHlZT05DeFM2LURyWU9ZNnltczE2NGQwU01KSjZzVjhfcFJPUzd3NXlzeEh3bUNnOThadWJEYUVPeGJNejNLRUJhZEFtQkIwVkNjZ0VvS1hkV0Q0dXYwUTQzUVNsQjloQnZhcWJZWWxXQlh1WGVHS0lVN2ZwUURJYnhYdEsy?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "ca14206ae558",
       "title": "修瓣不換瓣，上海援疆為南疆心臟外科打開一扇新門",
       "published": "2026-06-17T02:50:00+00:00",
@@ -305,6 +267,19 @@
         {
           "name": "人民网-上海频道",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43VElheExkOGdGMlQ3cU14N0lrcTNzbmR4UFdYSjRMV2RMcld3bEdHUUsxeDZMYS1URDhnZHBIbl9iUkVTZ1pGM2Rmd0ZoaVF1Tk5TcElYNTJ3ZTlZUkpSOEdhd0w2SWlqUzZBSjdlWWY?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5a5b31797c2e",
+      "title": "愛心醫生教您2026年如何預防糖尿病 從篩查前移到主動預警",
+      "published": "2026-06-16T11:21:00+00:00",
+      "summary": "愛心醫生教您2026年如何預防糖尿病 從篩查前移到主動預警&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iaXU2Z2R6OWpWNFFELUxfci10MkpuMVp6ckwwNmxRMEdzMTZ5NklaMVR5TU5FXzdtalZsUXhFckNFcm9LS1FBelc1UDRURzZkVHc?oc=5"
         }
       ],
       "matched_keywords": []
