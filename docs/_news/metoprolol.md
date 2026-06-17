@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [癌症與失智症出現共同基因突變 研究揭阿茲海默症新機制](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fc29WcVNqVU1hMVM2Tkh6ak5oNXduVGcxMnRDUXZ5RFZ0Tmkyc013Q2VhRFl0VHpROE9CWUVBQmpzamJOVlZ3WFV0Qk56OFJnRkgxdkd4Z0RHWjNMaHZCcElvNFQ?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/metoprolol/
 2026-06-16 <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">停經</span>
 
 來源：[TVB](https://news.google.com/rss/articles/CBMivwNBVV95cUxQRE9lVWFsSFFaYVE2eWpvTU9XTGxwTmVibzZ4N2ZHUjhHQXN3T3VQM01wTzJCX1hhdEZXWnk2RkhBcHN5MFRIREtGb0tuUE1wUVBwWmh5ZVAzekIwZzFCRG04SC1OSE4xcU1BYWtUMjliamMwVHVnMWtzNWpWdkg0ODE3Q2xPYXd6ZkREcll0VHVmVnJzbks2S0FNc0Fxc0pHcTdnazloZ1pBc2pmb2c1dVBwZXk4ckphdHVUal9PNjJzZHNRQmc0UmdrNGJybkNyNlVMYkpPUXI1VlVrMEZZU2pFREJxSDJZd1NVN19kb2xtcDFwRXJTMVF5NjBzTTJrVzc1TEJUdTVHcUxnVWo2OFJ6U1dlVGhPZk5aSFcxN2s0QndicVlpZWNuZl9hUE5fRl9oX1dEMVF4MmZteV9hVmM1UjNDZU4yMWNNUENlY3dGTHNheEg4bDV5N2paZVlhQmloNmhHdTZaN25VcnBtX25TVnh2c1pPeHJVaVpROHg1VHM2RnQ2dWd3Ukhnbl9LZ0x1ZERaWlFyRGE0NjFObnRPZy10ZGdBem9RYjczZHV6bnNyUUwtUTZQZF85Qkk?oc=5)
-
----
-
-### [胃癌︱13歲女患末期胃癌腹腔佈滿腫瘤無治癒機會 致癌禍根竟是從小被爸爸強迫食1物](https://news.google.com/rss/articles/CBMikgRBVV95cUxOek9rS0hOWjJVNUlsM3BqTE03X2F0d0Q2VURmbEZGU2dPSlFMVHFmdUxCendfYW8tUjNkY3NsaGpXeEgwdUhlX2p1Vmo5clBMMGxGdThOODNoMFIwRDNqNktnckNQWXVmV1h4LTU5bUtzT1ZGU2U0Q0tDNFBJdEQxaXB5U1FNNlFVR3VWMUo2c3hYd0JrMFEyNVFlSlhaWUlhV21EN2dqR0R6R2JYYXB0Y2g1enliVHNYMno2MHlXemtiaHhmQmVjVzNUdFdmSU9rWlhvSDQ3UzdHSjg1Z3EyRHFqZGlDVElWTEJ3NXF6Q2FjUEJLV3NQajI4bFVsMmlyUXJPNVAyRDlKeXBRNlhVd2UxYzhGaVl4eW5VaDdxTmM2UFlSbDRDREhaekw2RkZQV19OTTVlbW5sWXJVd0FpQVRoUm90aWdQWUlESVZ0OUtlYUFJTmxPaEZoVTNIQVlEUTU0T1pwMnc2WWt1WFR6aGlISUVia1QzNU5iVXJIYl93aHp3WTJQU0pUaTlzTzVLZWF3eHlaOFFreTNxMHJCckJVYk1VUDBHNll5WTcwM25GVnV4aFJDU2k3VGpiSFpEZURkSUdybWx5bUJyQWtXeWQ3NDhxWExKQ01Qb2V2RHZZVDBrMklTYUFsQ1JkWWNUd0pCcmtGU3hpRXkyTEpZVVRoQkFEemRoRFdJQnMwSUpuUQ?oc=5)
-
-2026-06-16 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">胃癌</span>
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMikgRBVV95cUxOek9rS0hOWjJVNUlsM3BqTE03X2F0d0Q2VURmbEZGU2dPSlFMVHFmdUxCendfYW8tUjNkY3NsaGpXeEgwdUhlX2p1Vmo5clBMMGxGdThOODNoMFIwRDNqNktnckNQWXVmV1h4LTU5bUtzT1ZGU2U0Q0tDNFBJdEQxaXB5U1FNNlFVR3VWMUo2c3hYd0JrMFEyNVFlSlhaWUlhV21EN2dqR0R6R2JYYXB0Y2g1enliVHNYMno2MHlXemtiaHhmQmVjVzNUdFdmSU9rWlhvSDQ3UzdHSjg1Z3EyRHFqZGlDVElWTEJ3NXF6Q2FjUEJLV3NQajI4bFVsMmlyUXJPNVAyRDlKeXBRNlhVd2UxYzhGaVl4eW5VaDdxTmM2UFlSbDRDREhaekw2RkZQV19OTTVlbW5sWXJVd0FpQVRoUm90aWdQWUlESVZ0OUtlYUFJTmxPaEZoVTNIQVlEUTU0T1pwMnc2WWt1WFR6aGlISUVia1QzNU5iVXJIYl93aHp3WTJQU0pUaTlzTzVLZWF3eHlaOFFreTNxMHJCckJVYk1VUDBHNll5WTcwM25GVnV4aFJDU2k3VGpiSFpEZURkSUdybWx5bUJyQWtXeWQ3NDhxWExKQ01Qb2V2RHZZVDBrMklTYUFsQ1JkWWNUd0pCcmtGU3hpRXkyTEpZVVRoQkFEemRoRFdJQnMwSUpuUQ?oc=5)
 
 ---
 

@@ -1,7 +1,31 @@
 {
-  "generated": "2026-06-17T14:52:50.625168+00:00",
+  "generated": "2026-06-17T17:45:26.440768+00:00",
   "count": 5,
   "news": [
+    {
+      "id": "527075a82c2e",
+      "title": "晚期食道癌新突破 免疫合併化療雙管齊下治療現生機",
+      "published": "2026-06-17T16:40:02+00:00",
+      "sources": [
+        {
+          "name": "良醫健康網",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MTlB2YXBhUFNnWGZueEg5WW13TmtsdnVqMVl3N3Bsb1l1ZXFwbXJGNFIzckRwcXJWd1lxQ1FLbHdpN2FheThfX3c2bGZFb09RMW9VU1ZmRDBtNUpBMHU3cUZDc18zYmVnTkE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "食道癌",
+          "keyword": "食道癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "5d0ee5e66141",
       "title": "癌症與失智症出現共同基因突變 研究揭阿茲海默症新機制",
@@ -244,6 +268,30 @@
       ]
     },
     {
+      "id": "28191819b74a",
+      "title": "常覺得腦袋卡卡、記憶變差，以為是老化或失智前兆？醫師揭真相：腸道發炎才是腦霧關鍵",
+      "published": "2026-06-17T03:05:11+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQUTN4LTlPbVVOXzdEYkl6VDh6X1JSMDF3ZzU2cW1TOHNOTWxIQ3l1dDlwWTZRMGFLckU0LW9tOG1VOXlUc3k3RTZDaFhWSDJnbGtMdXUyTDdEd0dHazdVQ3dSTVNXS19LTDVNSi1oeEZ6aXUxOFNLX214Xzl6dUVkUFlDdUxDOUlDNUxjbGtPYjg5cVNtZjZFVXYzMnEzN2FkbXJscDc4OGdZSHVHZzQ5OHFkWmNZSmdkWHozb2gya00tYUhGeUhIcVhkSVhQTUJMa2dJcXhaNEFpYnh0cGZKSnJFa1Flbnl4SjRVRmZTVWxULVJvZ0hFeG8tN05yYk1Mb1Uzb2VGX2NfSGFBUEVJMGVOamJtb0ZZMzh5V2RYMGNOUWpXRHNMTTYzSUk2ckVKUHlvN0N6VlcxT0JIYXAzajAyZ2NMQmk5TjVKcC14RUVmd0tTaXVwc191VjV6dHRydS1taGpUMlRSa3lmc3UzTWNMNV9uamJiSEJvZzFjbUsyVnh3RGFIWWVwOHlZT05DeFM2LURyWU9ZNnltczE2NGQwU01KSjZzVjhfcFJPUzd3NXlzeEh3bUNnOThadWJEYUVPeGJNejNLRUJhZEFtQkIwVkNjZ0VvS1hkV0Q0dXYwUTQzUVNsQjloQnZhcWJZWWxXQlh1WGVHS0lVN2ZwUURJYnhYdEsy?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "40376696cedc",
       "title": "年輕人高血壓勿忽視 醫生拆解3大類腎上腺瘤 女性患病恐致停經/月亮臉",
       "published": "2026-06-16T10:39:00+00:00",
@@ -295,233 +343,6 @@
       ]
     },
     {
-      "id": "d73478e20cda",
-      "title": "胃癌︱13歲女患末期胃癌腹腔佈滿腫瘤無治癒機會 致癌禍根竟是從小被爸爸強迫食1物",
-      "published": "2026-06-16T09:00:22+00:00",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMikgRBVV95cUxOek9rS0hOWjJVNUlsM3BqTE03X2F0d0Q2VURmbEZGU2dPSlFMVHFmdUxCendfYW8tUjNkY3NsaGpXeEgwdUhlX2p1Vmo5clBMMGxGdThOODNoMFIwRDNqNktnckNQWXVmV1h4LTU5bUtzT1ZGU2U0Q0tDNFBJdEQxaXB5U1FNNlFVR3VWMUo2c3hYd0JrMFEyNVFlSlhaWUlhV21EN2dqR0R6R2JYYXB0Y2g1enliVHNYMno2MHlXemtiaHhmQmVjVzNUdFdmSU9rWlhvSDQ3UzdHSjg1Z3EyRHFqZGlDVElWTEJ3NXF6Q2FjUEJLV3NQajI4bFVsMmlyUXJPNVAyRDlKeXBRNlhVd2UxYzhGaVl4eW5VaDdxTmM2UFlSbDRDREhaekw2RkZQV19OTTVlbW5sWXJVd0FpQVRoUm90aWdQWUlESVZ0OUtlYUFJTmxPaEZoVTNIQVlEUTU0T1pwMnc2WWt1WFR6aGlISUVia1QzNU5iVXJIYl93aHp3WTJQU0pUaTlzTzVLZWF3eHlaOFFreTNxMHJCckJVYk1VUDBHNll5WTcwM25GVnV4aFJDU2k3VGpiSFpEZURkSUdybWx5bUJyQWtXeWQ3NDhxWExKQ01Qb2V2RHZZVDBrMklTYUFsQ1JkWWNUd0pCcmtGU3hpRXkyTEpZVVRoQkFEemRoRFdJQnMwSUpuUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "腫瘤",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "胃癌",
-          "keyword": "胃癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "trastuzumab_deruxtecan",
-              "name": "Trastuzumab deruxtecan"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "fbe67622916d",
       "title": "葡萄糖胺影響失智病程？ 專家教你怎麼挑- 健康",
       "published": "2026-06-16T08:34:45+00:00",
@@ -562,30 +383,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c0db933c39c7",
-      "title": "醫起看／男久咳不是感冒！X光驚見詭異空洞 原因曝光 | EBC 東森新聞 - LINE TODAY",
-      "published": "2026-06-15T15:52:03+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HanVPaGtiNmxjcklmVXFwTHZpRmFnQ0JSMjlyeHdSUTJKWVZsNDRsTzhBb1NmX3A3WEhVR2lKek5lXzFhZ2RnY3RIRzJjTnVRSmR6bFBn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
