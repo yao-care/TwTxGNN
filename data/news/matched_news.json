@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-17T17:45:26.410698+00:00",
-  "total_count": 11,
-  "matched_count": 5,
+  "last_updated": "2026-06-17T20:01:07.964223+00:00",
+  "total_count": 9,
+  "matched_count": 4,
   "news": [
     {
       "id": "527075a82c2e",
@@ -297,31 +297,6 @@
       "matched_keywords": []
     },
     {
-      "id": "28191819b74a",
-      "title": "常覺得腦袋卡卡、記憶變差，以為是老化或失智前兆？醫師揭真相：腸道發炎才是腦霧關鍵",
-      "published": "2026-06-17T03:05:11+00:00",
-      "summary": "常覺得腦袋卡卡、記憶變差，以為是老化或失智前兆？醫師揭真相：腸道發炎才是腦霧關鍵&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQUTN4LTlPbVVOXzdEYkl6VDh6X1JSMDF3ZzU2cW1TOHNOTWxIQ3l1dDlwWTZRMGFLckU0LW9tOG1VOXlUc3k3RTZDaFhWSDJnbGtMdXUyTDdEd0dHazdVQ3dSTVNXS19LTDVNSi1oeEZ6aXUxOFNLX214Xzl6dUVkUFlDdUxDOUlDNUxjbGtPYjg5cVNtZjZFVXYzMnEzN2FkbXJscDc4OGdZSHVHZzQ5OHFkWmNZSmdkWHozb2gya00tYUhGeUhIcVhkSVhQTUJMa2dJcXhaNEFpYnh0cGZKSnJFa1Flbnl4SjRVRmZTVWxULVJvZ0hFeG8tN05yYk1Mb1Uzb2VGX2NfSGFBUEVJMGVOamJtb0ZZMzh5V2RYMGNOUWpXRHNMTTYzSUk2ckVKUHlvN0N6VlcxT0JIYXAzajAyZ2NMQmk5TjVKcC14RUVmd0tTaXVwc191VjV6dHRydS1taGpUMlRSa3lmc3UzTWNMNV9uamJiSEJvZzFjbUsyVnh3RGFIWWVwOHlZT05DeFM2LURyWU9ZNnltczE2NGQwU01KSjZzVjhfcFJPUzd3NXlzeEh3bUNnOThadWJEYUVPeGJNejNLRUJhZEFtQkIwVkNjZ0VvS1hkV0Q0dXYwUTQzUVNsQjloQnZhcWJZWWxXQlh1WGVHS0lVN2ZwUURJYnhYdEsy?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "ca14206ae558",
       "title": "修瓣不換瓣，上海援疆為南疆心臟外科打開一扇新門",
       "published": "2026-06-17T02:50:00+00:00",
@@ -458,19 +433,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "b55a6e2fd1db",
-      "title": "健康名人堂／重複吃同樣食物 原來也能幫助減肥",
-      "published": "2026-06-15T16:00:00+00:00",
-      "summary": "健康名人堂／重複吃同樣食物 原來也能幫助減肥&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83Vk1DR3ZSQXVGVzNXSGs0WURVQ2o4aklGZjU1TDBBRHluUDRwaUViSDVOZmEtamJoY3NGdnp5UVVhRi1GSHFHT3ItNU8wWlRR?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

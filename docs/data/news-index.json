@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T17:45:26.440768+00:00",
-  "count": 5,
+  "generated": "2026-06-17T20:01:07.998818+00:00",
+  "count": 4,
   "news": [
     {
       "id": "527075a82c2e",
@@ -257,30 +257,6 @@
         {
           "type": "indication",
           "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "28191819b74a",
-      "title": "常覺得腦袋卡卡、記憶變差，以為是老化或失智前兆？醫師揭真相：腸道發炎才是腦霧關鍵",
-      "published": "2026-06-17T03:05:11+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQUTN4LTlPbVVOXzdEYkl6VDh6X1JSMDF3ZzU2cW1TOHNOTWxIQ3l1dDlwWTZRMGFLckU0LW9tOG1VOXlUc3k3RTZDaFhWSDJnbGtMdXUyTDdEd0dHazdVQ3dSTVNXS19LTDVNSi1oeEZ6aXUxOFNLX214Xzl6dUVkUFlDdUxDOUlDNUxjbGtPYjg5cVNtZjZFVXYzMnEzN2FkbXJscDc4OGdZSHVHZzQ5OHFkWmNZSmdkWHozb2gya00tYUhGeUhIcVhkSVhQTUJMa2dJcXhaNEFpYnh0cGZKSnJFa1Flbnl4SjRVRmZTVWxULVJvZ0hFeG8tN05yYk1Mb1Uzb2VGX2NfSGFBUEVJMGVOamJtb0ZZMzh5V2RYMGNOUWpXRHNMTTYzSUk2ckVKUHlvN0N6VlcxT0JIYXAzajAyZ2NMQmk5TjVKcC14RUVmd0tTaXVwc191VjV6dHRydS1taGpUMlRSa3lmc3UzTWNMNV9uamJiSEJvZzFjbUsyVnh3RGFIWWVwOHlZT05DeFM2LURyWU9ZNnltczE2NGQwU01KSjZzVjhfcFJPUzd3NXlzeEh3bUNnOThadWJEYUVPeGJNejNLRUJhZEFtQkIwVkNjZ0VvS1hkV0Q0dXYwUTQzUVNsQjloQnZhcWJZWWxXQlh1WGVHS0lVN2ZwUURJYnhYdEsy?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
           "keyword": "失智",
           "related_drugs": [
             {
