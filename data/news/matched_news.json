@@ -1,17 +1,103 @@
 {
-  "last_updated": "2026-06-18T00:07:53.442045+00:00",
-  "total_count": 11,
-  "matched_count": 5,
+  "last_updated": "2026-06-18T05:28:48.966125+00:00",
+  "total_count": 13,
+  "matched_count": 6,
   "news": [
     {
-      "id": "51f9ac130109",
-      "title": "撩耳仔會上癮？專家揭大腦存獎勵機制 棉花棒恐將耳屎越推越深 26萬兒童曾受傷",
-      "published": "2026-06-17T22:17:03+00:00",
-      "summary": "撩耳仔會上癮？專家揭大腦存獎勵機制 棉花棒恐將耳屎越推越深 26萬兒童曾受傷&nbsp;&nbsp;singtao.ca",
+      "id": "4a6b935287af",
+      "title": "保健品｜打開supplement後乾燥劑不丟棄 恐影響品質 營養師教3招開封後正確保存",
+      "published": "2026-06-18T01:00:00+00:00",
+      "summary": "保健品｜打開supplement後乾燥劑不丟棄 恐影響品質 營養師教3招開封後正確保存&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxPMUFGeTVnZ3JlVDFocnlzZXZxTnZKa3pFY3hBMUFpeWxjLXV1RTlJX3VrMV9ZaUlDX1A1cFdscGhrUC1qX1c3aHBFaFpPdXZGdDlGNkRKQWFMUGJDUElBS0NReTNudXNvdW45QnAtbUwzcHFqVXloa0NoVDJXZDdtdmZjOUdvMjE4UHZ2VUtaLVVmckJMZjllQ01CTkswQ0xCbjNrY3U4TmdBYkRqd1VNVzEwYXlpWUo3NGlFQXJmYmtuX1BUSEhGT0RNWm5vSXFZeE1Mb1NKZ3hUOGYyMUJZRUxzTXZzWlBpLU9UNFZRYXZNTE90eExleGJHNWEzNFZOTC0ydUg4REJneFprQUxBUFEwX3A4c3NVNDVrdlJ1YnZGZlUwaXVXMGtqUzJZYUdoZDZpdTFkSm5WVUhJM3VQRVRmZ2ZON01XbW9vVnRJOEdpeHZWSlh4NnBuMUV1R0FUZXZ6Y2hBcFhnZ1NXQ2ktcmhDRjBzZkVOSmtsbmgzV0lDQ09laUphUmFDaXdhRTgwOU9zeWtpNDB6TUVQbVJXOG9rYmZOX044LXRvTTYxd3RCN1VadVlObXFhR2RIaVZ0dW5WVWNxbmRidEcxbGFMNjhRbDBkS213RXlmSmFQdEJTUzUxbDJib0ZVVWNCS3BEVU03WVc1d2Qtdw?oc=5"
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YR21BUkl3WmdISlp6ckwyMXVxbmRPUVU2VnY3VXVCam9OLXRsRWZ6WUpYdWZ2MjA0TzBMSk5TdHFxYzR0ZmZiWEJvUkVaTjg3NXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "eaca5263bd60",
+      "title": "月經不規則不只是婦科問題？最新研究：心臟病與1疾病風險明顯上升",
+      "published": "2026-06-18T00:28:24+00:00",
+      "summary": "月經不規則不只是婦科問題？最新研究：心臟病與1疾病風險明顯上升&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQTmN3R0R2TEloMjVvWk9GWmZkem5LRWJyek5SY3FQSmhET0NlR1AtV21JTjlRMUYtUW5JalBUS1BsbllBRDFVNXd1WTVicnplaU95WnpVTWxCd1VlYzdKcGhMSHAwRktCcTBWRnFYYk1vc0FmcTNGTkxyMHMyRi1neWRXQ1hwcHYwZUR3TDBhWmcxelh2T3hhaVpFLTVkbzlabWEySzRrR09BWUdZRzc0cUVRVUtPV0pFYnFCdEwtT3UzS3B3a213TVpfWkk3QlBEN3BhTnp0SHNsa083RF9KTmlzNEFZengyb2UwSktlSE1kazZXel9tQ1VHaUROMWZUY0FpaUN5YVBaOWNSVDF5akZnYm1RamlvMXQ1T0VyX3pmUFJHS2RtUWxCME9TTVdpUlJZeXctTFNXRHZDbkJhdzVkcXkyOHpzdTAtRFpXVkZQbnpYNHN0d0tya2dzQXh5UmpoRndpS2pQZlVueEsweHpxR2tOQVE5REsxU1RNWk92TnZ2Y3pXMGdtMEhPQTMwUWo2ejVhTFA5cnBoOXk3TmxrWDNBdms?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "89fa0b68e485",
+      "title": "撩耳仔點解會上癮？醫生揭大腦存獎勵機制：過度刺激恐可致癌",
+      "published": "2026-06-18T00:00:47+00:00",
+      "summary": "撩耳仔點解會上癮？醫生揭大腦存獎勵機制：過度刺激恐可致癌&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxOc1RZcTl1U09TRjd4SW9OLU5xd1plN1VZQlIyQlREQXBQYmR3NkxfUlZ6eDFLZ0Q5MjF3YU5qS2pTR2JYRGhfZ2JsSGNiamF1Y0wtT01BQUgtVlZtUUdOY0tMRVlwOGYxZ1BreWVtSjVyVk5mTWF5WUFaakVWMnBhTUFHQnUzc1Y1cDlJaV91eUJxNzBwQmdjWHR3RjdnUzBWX0loekpGNHp0aFRWQzRTbC02RkZjcTZhS3F3MVRDbG9SRDl3NlhCRVo4NDVsTnVDQmNTVGRGeHgxS1pONTdKZTVNYi0tdlYtbHc3VG1lcjg1aVdRV0o5NHpjNlJEcHpNWEM1WTZiTlNiVDBxdVI0Nm9tTlFqWXpoVUZSLVFrejl5N01HaUhaU1dhVEs1TnJjVDJDcUNuOWNXSUw4Zml5RFViVmRWaS1DUnE5YklUcFl1dzhEOUs0VEVLNGFLeWpBZ3VpeFpsblh6OUlZUGRhSGtGeDE1U2VDS2JHYzV4MDlkTnZfUi1pS2R6T2tLUmVPa2Z0RDYzUmE?oc=5"
         }
       ],
       "matched_keywords": []
