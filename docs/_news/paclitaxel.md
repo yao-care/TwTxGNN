@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [HPV疫苗改寫子宮頸癌命運！研究：青春期接種者30歲前死亡風險幾近零 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KVno3Sm1HTURlMWlMd1NIcndNNzJiNW5Cd0dTbkM4Tlc0RkRkMWJGckZCcWo2VXJhdE1oS3VoYnN3Qk9IdHdSUlhTeFRROFlQdC1zNHo4ZEo?oc=5)
+### [接種HPV疫苗的年輕女性子宮頸癌死亡率降至零](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXQ3VaSHpUWkdhUlRoQ1lIQ2IxaWdtR0g0SFBxQ0xZMW03aVFkRGIzcndwWl9zQmJad1NoOEM4eVRJYjZORS13S3d4MFZlOVViX1JIQ1RhdFFuNE5tMlVwci1CTlp6UdIBa0FVX3lxTE94eVdONmdhcXZOaHhKMW9tUTRXSjJaWEt6R0d1d2k2dmdNREZjbEZZSlZ1VHJwVHQ4di1xTFltejBNNWE1eXczVExMNWJSaEVfZGtGNlhhay1yOVpfSVMwNnVHQTVmSDVwaFh3?oc=5)
 
 2026-06-18 <span class="news-indication-tag">子宮頸癌</span>
 
-來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KVno3Sm1HTURlMWlMd1NIcndNNzJiNW5Cd0dTbkM4Tlc0RkRkMWJGckZCcWo2VXJhdE1oS3VoYnN3Qk9IdHdSUlhTeFRROFlQdC1zNHo4ZEo?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXQ3VaSHpUWkdhUlRoQ1lIQ2IxaWdtR0g0SFBxQ0xZMW03aVFkRGIzcndwWl9zQmJad1NoOEM4eVRJYjZORS13S3d4MFZlOVViX1JIQ1RhdFFuNE5tMlVwci1CTlp6UdIBa0FVX3lxTE94eVdONmdhcXZOaHhKMW9tUTRXSjJaWEt6R0d1d2k2dmdNREZjbEZZSlZ1VHJwVHQ4di1xTFltejBNNWE1eXczVExMNWJSaEVfZGtGNlhhay1yOVpfSVMwNnVHQTVmSDVwaFh3?oc=5)
 
 ---
 
@@ -57,14 +57,6 @@ permalink: /news/paclitaxel/
 2026-06-17 <span class="news-indication-tag">食道癌</span>
 
 來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTE1MTlB2YXBhUFNnWGZueEg5WW13TmtsdnVqMVl3N3Bsb1l1ZXFwbXJGNFIzckRwcXJWd1lxQ1FLbHdpN2FheThfX3c2bGZFb09RMW9VU1ZmRDBtNUpBMHU3cUZDc18zYmVnTkE?oc=5)
-
----
-
-### [年輕人高血壓勿忽視 醫生拆解3大類腎上腺瘤 女性患病恐致停經/月亮臉](https://news.google.com/rss/articles/CBMivwNBVV95cUxQRE9lVWFsSFFaYVE2eWpvTU9XTGxwTmVibzZ4N2ZHUjhHQXN3T3VQM01wTzJCX1hhdEZXWnk2RkhBcHN5MFRIREtGb0tuUE1wUVBwWmh5ZVAzekIwZzFCRG04SC1OSE4xcU1BYWtUMjliamMwVHVnMWtzNWpWdkg0ODE3Q2xPYXd6ZkREcll0VHVmVnJzbks2S0FNc0Fxc0pHcTdnazloZ1pBc2pmb2c1dVBwZXk4ckphdHVUal9PNjJzZHNRQmc0UmdrNGJybkNyNlVMYkpPUXI1VlVrMEZZU2pFREJxSDJZd1NVN19kb2xtcDFwRXJTMVF5NjBzTTJrVzc1TEJUdTVHcUxnVWo2OFJ6U1dlVGhPZk5aSFcxN2s0QndicVlpZWNuZl9hUE5fRl9oX1dEMVF4MmZteV9hVmM1UjNDZU4yMWNNUENlY3dGTHNheEg4bDV5N2paZVlhQmloNmhHdTZaN25VcnBtX25TVnh2c1pPeHJVaVpROHg1VHM2RnQ2dWd3Ukhnbl9LZ0x1ZERaWlFyRGE0NjFObnRPZy10ZGdBem9RYjczZHV6bnNyUUwtUTZQZF85Qkk?oc=5)
-
-2026-06-16 <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">停經</span>
-
-來源：[TVB](https://news.google.com/rss/articles/CBMivwNBVV95cUxQRE9lVWFsSFFaYVE2eWpvTU9XTGxwTmVibzZ4N2ZHUjhHQXN3T3VQM01wTzJCX1hhdEZXWnk2RkhBcHN5MFRIREtGb0tuUE1wUVBwWmh5ZVAzekIwZzFCRG04SC1OSE4xcU1BYWtUMjliamMwVHVnMWtzNWpWdkg0ODE3Q2xPYXd6ZkREcll0VHVmVnJzbks2S0FNc0Fxc0pHcTdnazloZ1pBc2pmb2c1dVBwZXk4ckphdHVUal9PNjJzZHNRQmc0UmdrNGJybkNyNlVMYkpPUXI1VlVrMEZZU2pFREJxSDJZd1NVN19kb2xtcDFwRXJTMVF5NjBzTTJrVzc1TEJUdTVHcUxnVWo2OFJ6U1dlVGhPZk5aSFcxN2s0QndicVlpZWNuZl9hUE5fRl9oX1dEMVF4MmZteV9hVmM1UjNDZU4yMWNNUENlY3dGTHNheEg4bDV5N2paZVlhQmloNmhHdTZaN25VcnBtX25TVnh2c1pPeHJVaVpROHg1VHM2RnQ2dWd3Ukhnbl9LZ0x1ZERaWlFyRGE0NjFObnRPZy10ZGdBem9RYjczZHV6bnNyUUwtUTZQZF85Qkk?oc=5)
 
 ---
 

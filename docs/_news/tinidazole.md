@@ -14,7 +14,7 @@ permalink: /news/tinidazole/
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/tinidazole/
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [年輕人高血壓勿忽視 醫生拆解3大類腎上腺瘤 女性患病恐致停經/月亮臉](https://news.google.com/rss/articles/CBMivwNBVV95cUxQRE9lVWFsSFFaYVE2eWpvTU9XTGxwTmVibzZ4N2ZHUjhHQXN3T3VQM01wTzJCX1hhdEZXWnk2RkhBcHN5MFRIREtGb0tuUE1wUVBwWmh5ZVAzekIwZzFCRG04SC1OSE4xcU1BYWtUMjliamMwVHVnMWtzNWpWdkg0ODE3Q2xPYXd6ZkREcll0VHVmVnJzbks2S0FNc0Fxc0pHcTdnazloZ1pBc2pmb2c1dVBwZXk4ckphdHVUal9PNjJzZHNRQmc0UmdrNGJybkNyNlVMYkpPUXI1VlVrMEZZU2pFREJxSDJZd1NVN19kb2xtcDFwRXJTMVF5NjBzTTJrVzc1TEJUdTVHcUxnVWo2OFJ6U1dlVGhPZk5aSFcxN2s0QndicVlpZWNuZl9hUE5fRl9oX1dEMVF4MmZteV9hVmM1UjNDZU4yMWNNUENlY3dGTHNheEg4bDV5N2paZVlhQmloNmhHdTZaN25VcnBtX25TVnh2c1pPeHJVaVpROHg1VHM2RnQ2dWd3Ukhnbl9LZ0x1ZERaWlFyRGE0NjFObnRPZy10ZGdBem9RYjczZHV6bnNyUUwtUTZQZF85Qkk?oc=5)
-
-2026-06-16 <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">停經</span>
-
-來源：[TVB](https://news.google.com/rss/articles/CBMivwNBVV95cUxQRE9lVWFsSFFaYVE2eWpvTU9XTGxwTmVibzZ4N2ZHUjhHQXN3T3VQM01wTzJCX1hhdEZXWnk2RkhBcHN5MFRIREtGb0tuUE1wUVBwWmh5ZVAzekIwZzFCRG04SC1OSE4xcU1BYWtUMjliamMwVHVnMWtzNWpWdkg0ODE3Q2xPYXd6ZkREcll0VHVmVnJzbks2S0FNc0Fxc0pHcTdnazloZ1pBc2pmb2c1dVBwZXk4ckphdHVUal9PNjJzZHNRQmc0UmdrNGJybkNyNlVMYkpPUXI1VlVrMEZZU2pFREJxSDJZd1NVN19kb2xtcDFwRXJTMVF5NjBzTTJrVzc1TEJUdTVHcUxnVWo2OFJ6U1dlVGhPZk5aSFcxN2s0QndicVlpZWNuZl9hUE5fRl9oX1dEMVF4MmZteV9hVmM1UjNDZU4yMWNNUENlY3dGTHNheEg4bDV5N2paZVlhQmloNmhHdTZaN25VcnBtX25TVnh2c1pPeHJVaVpROHg1VHM2RnQ2dWd3Ukhnbl9LZ0x1ZERaWlFyRGE0NjFObnRPZy10ZGdBem9RYjczZHV6bnNyUUwtUTZQZF85Qkk?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
