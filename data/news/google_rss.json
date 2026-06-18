@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-17T22:29:24.980174+00:00",
-  "count": 10,
+  "fetched_at": "2026-06-18T00:07:49.557711+00:00",
+  "count": 11,
   "news": [
     {
       "id": "1fba98f4f00a",
@@ -76,18 +76,6 @@
       ]
     },
     {
-      "id": "905336e81069",
-      "title": "補足人體隱形發電機 告別疲勞 - 翻爆",
-      "published": "2026-06-16T10:20:27+00:00",
-      "summary": "補足人體隱形發電機 告別疲勞&nbsp;&nbsp;翻爆",
-      "sources": [
-        {
-          "name": "翻爆",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUQl9fNE5jWXBXWThpQ2U1MjAzRVdZdXp4SW05NHYxQnNaeXoxTGtyN0xOa1ZkekE2RzNjOVNaRWtWbGdBYmFmNXdPLTFTSXM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c872f8bce79b",
       "title": "長者吃鈣片、維生素D防骨折？大型研究打臉：效果有限 - 科技島",
       "published": "2026-06-16T08:49:37+00:00",
@@ -108,6 +96,30 @@
         {
           "name": "良醫健康網",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MTlB2YXBhUFNnWGZueEg5WW13TmtsdnVqMVl3N3Bsb1l1ZXFwbXJGNFIzckRwcXJWd1lxQ1FLbHdpN2FheThfX3c2bGZFb09RMW9VU1ZmRDBtNUpBMHU3cUZDc18zYmVnTkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8c8183f6092a",
+      "title": "Google「放蚊」計劃以蚊制蚊 疑在加州釋放3200萬隻「好蚊」控制傳播疾病蚊群 - Singtaousa",
+      "published": "2026-06-17T21:29:06+00:00",
+      "summary": "Google「放蚊」計劃以蚊制蚊 疑在加州釋放3200萬隻「好蚊」控制傳播疾病蚊群&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUm5ka2NqMnpiT09naldZLXphbTVRU0VjQ2FVX2pmNmlsc2tXcTZzUkxwZHhHVnNBN2w3U055RDJWaGEtU2ZrUWhWbEdyNUdDY3ZHZF9vTUlfaVZZYlVKT1l1Q1NOSlNSSmU3Z1VLSHBvRG1jNG02SmVraU5oOXpwX1hkNGpZUG5XM0ViTFpGMTVCMXpld0JJQzRIY1ZrYXQwYWVmSmJOYlF1SlYyOXM4OEZBQnlJaDlNckJCa1hDUEtEX3hGUFlhazJ4ZTlCSllpNGFiTko3cS1RakNuaUwtbFhDTmVCejNLRTRfWlZOREpBZGZQZ3JxaEFIY1Nnd3NCWTRyS1NZejY2VVVtbW5BaEI2N2xrUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "51f9ac130109",
+      "title": "撩耳仔會上癮？專家揭大腦存獎勵機制 棉花棒恐將耳屎越推越深 26萬兒童曾受傷 - singtao.ca",
+      "published": "2026-06-17T22:17:03+00:00",
+      "summary": "撩耳仔會上癮？專家揭大腦存獎勵機制 棉花棒恐將耳屎越推越深 26萬兒童曾受傷&nbsp;&nbsp;singtao.ca",
+      "sources": [
+        {
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxPMUFGeTVnZ3JlVDFocnlzZXZxTnZKa3pFY3hBMUFpeWxjLXV1RTlJX3VrMV9ZaUlDX1A1cFdscGhrUC1qX1c3aHBFaFpPdXZGdDlGNkRKQWFMUGJDUElBS0NReTNudXNvdW45QnAtbUwzcHFqVXloa0NoVDJXZDdtdmZjOUdvMjE4UHZ2VUtaLVVmckJMZjllQ01CTkswQ0xCbjNrY3U4TmdBYkRqd1VNVzEwYXlpWUo3NGlFQXJmYmtuX1BUSEhGT0RNWm5vSXFZeE1Mb1NKZ3hUOGYyMUJZRUxzTXZzWlBpLU9UNFZRYXZNTE90eExleGJHNWEzNFZOTC0ydUg4REJneFprQUxBUFEwX3A4c3NVNDVrdlJ1YnZGZlUwaXVXMGtqUzJZYUdoZDZpdTFkSm5WVUhJM3VQRVRmZ2ZON01XbW9vVnRJOEdpeHZWSlh4NnBuMUV1R0FUZXZ6Y2hBcFhnZ1NXQ2ktcmhDRjBzZkVOSmtsbmgzV0lDQ09laUphUmFDaXdhRTgwOU9zeWtpNDB6TUVQbVJXOG9rYmZOX044LXRvTTYxd3RCN1VadVlObXFhR2RIaVZ0dW5WVWNxbmRidEcxbGFMNjhRbDBkS213RXlmSmFQdEJTUzUxbDJib0ZVVWNCS3BEVU03WVc1d2Qtdw?oc=5"
         }
       ]
     },
