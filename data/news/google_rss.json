@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-18T21:57:56.970291+00:00",
+  "fetched_at": "2026-06-18T23:43:54.721242+00:00",
   "count": 13,
   "news": [
-    {
-      "id": "5a5b31797c2e",
-      "title": "愛心醫生教您2026年如何預防糖尿病 從篩查前移到主動預警 - 蕃新聞",
-      "published": "2026-06-17T08:36:14+00:00",
-      "summary": "愛心醫生教您2026年如何預防糖尿病 從篩查前移到主動預警&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iaXU2Z2R6OWpWNFFELUxfci10MkpuMVp6ckwwNmxRMEdzMTZ5NklaMVR5TU5FXzdtalZsUXhFckNFcm9LS1FBelc1UDRURzZkVHc?oc=5"
-        }
-      ]
-    },
     {
       "id": "2788ed88cedc",
       "title": "接種HPV疫苗的年輕女性子宮頸癌死亡率降至零 - BBC",
@@ -24,6 +12,18 @@
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXQ3VaSHpUWkdhUlRoQ1lIQ2IxaWdtR0g0SFBxQ0xZMW03aVFkRGIzcndwWl9zQmJad1NoOEM4eVRJYjZORS13S3d4MFZlOVViX1JIQ1RhdFFuNE5tMlVwci1CTlp6UdIBa0FVX3lxTE94eVdONmdhcXZOaHhKMW9tUTRXSjJaWEt6R0d1d2k2dmdNREZjbEZZSlZ1VHJwVHQ4di1xTFltejBNNWE1eXczVExMNWJSaEVfZGtGNlhhay1yOVpfSVMwNnVHQTVmSDVwaFh3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5a5b31797c2e",
+      "title": "愛心醫生教您2026年如何預防糖尿病 從篩查前移到主動預警 - 蕃新聞",
+      "published": "2026-06-17T08:36:14+00:00",
+      "summary": "愛心醫生教您2026年如何預防糖尿病 從篩查前移到主動預警&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iaXU2Z2R6OWpWNFFELUxfci10MkpuMVp6ckwwNmxRMEdzMTZ5NklaMVR5TU5FXzdtalZsUXhFckNFcm9LS1FBelc1UDRURzZkVHc?oc=5"
         }
       ]
     },
