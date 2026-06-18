@@ -1,17 +1,29 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-18T13:56:54.048021+00:00",
+  "fetched_at": "2026-06-18T16:54:08.207352+00:00",
   "count": 11,
   "news": [
     {
       "id": "2788ed88cedc",
       "title": "接種HPV疫苗的年輕女性子宮頸癌死亡率降至零 - BBC",
-      "published": "2026-06-18T10:07:30+00:00",
+      "published": "2026-06-18T10:14:24+00:00",
       "summary": "接種HPV疫苗的年輕女性子宮頸癌死亡率降至零&nbsp;&nbsp;BBC前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXQ3VaSHpUWkdhUlRoQ1lIQ2IxaWdtR0g0SFBxQ0xZMW03aVFkRGIzcndwWl9zQmJad1NoOEM4eVRJYjZORS13S3d4MFZlOVViX1JIQ1RhdFFuNE5tMlVwci1CTlp6UdIBa0FVX3lxTE94eVdONmdhcXZOaHhKMW9tUTRXSjJaWEt6R0d1d2k2dmdNREZjbEZZSlZ1VHJwVHQ4di1xTFltejBNNWE1eXczVExMNWJSaEVfZGtGNlhhay1yOVpfSVMwNnVHQTVmSDVwaFh3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5a5b31797c2e",
+      "title": "愛心醫生教您2026年如何預防糖尿病 從篩查前移到主動預警 - 蕃新聞",
+      "published": "2026-06-17T08:36:14+00:00",
+      "summary": "愛心醫生教您2026年如何預防糖尿病 從篩查前移到主動預警&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iaXU2Z2R6OWpWNFFELUxfci10MkpuMVp6ckwwNmxRMEdzMTZ5NklaMVR5TU5FXzdtalZsUXhFckNFcm9LS1FBelc1UDRURzZkVHc?oc=5"
         }
       ]
     },
@@ -48,18 +60,6 @@
         {
           "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvZENJeTVmUkpkbWVJdDdiZjNvc01JQ3VPcUNFdGw3WVR0UXdRNGx2TVBUYUt5c3UxakQ1ODlISTczSkNad1R4Y3NrcmI4bmYy?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5a5b31797c2e",
-      "title": "愛心醫生教您2026年如何預防糖尿病 從篩查前移到主動預警 - 蕃新聞",
-      "published": "2026-06-17T08:36:14+00:00",
-      "summary": "愛心醫生教您2026年如何預防糖尿病 從篩查前移到主動預警&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iaXU2Z2R6OWpWNFFELUxfci10MkpuMVp6ckwwNmxRMEdzMTZ5NklaMVR5TU5FXzdtalZsUXhFckNFcm9LS1FBelc1UDRURzZkVHc?oc=5"
         }
       ]
     },
