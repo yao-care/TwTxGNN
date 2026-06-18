@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-18T16:54:08.207352+00:00",
-  "count": 11,
+  "fetched_at": "2026-06-18T19:18:26.433778+00:00",
+  "count": 12,
   "news": [
     {
       "id": "2788ed88cedc",
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "d23696bc8287",
-      "title": "期刊證實「瘦瘦針」不只減重 婦科名醫黃元熙：可揪出女人身上2大魔王 - Yahoo新聞",
-      "published": "2026-06-18T04:25:38+00:00",
-      "summary": "期刊證實「瘦瘦針」不只減重 婦科名醫黃元熙：可揪出女人身上2大魔王&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOLXV4TjVabDY1RE1LUXBhTUthRFFUWUgzNUhpWWVuaEZOUHZrN3VNbUotYUNLVDdzNmxzOGtkRXJYTVBlQWlJUkFIM0xhcWlZVkJ5THMwUnM5QXM2eXRfb1h0SmE1ZWdKb0VrY3hoUGJNb2VFZ0hpOGpJdXZreEdVN21tZlRoYlcwSGtlS2Zra0JEZ2lhajhGSjZfMllQcDlXTlh1NXVDVGZtZVJwMWRweG5paHFhd2V5TF9LeXFfRng4TEJ6bVlldy0td19vWmFKSUdOdUx5cU9QR2FlSVBQRXVsTGNob1UwT2hZQUprbkJkay1ZOVVjbXVsWEFuSU15MkR0NUJYVHZ2QWNYSHpQWWwtZmlrQkRhaW04N0VFS09RVVVsbzNfeUhEcXlIZlQtQXZRdHY3dnJ6ZVFpV1B1UmJWVU5ual9ERnlnaEVoNU93ZnRBN1lXUkQ4T3BEczhkc29GUkx4dkpYSDVTWkZwS2dobjdfb0tiSWV5dU1VZk5kR1hWV2Nkd2hhYmdaRmVkemxrbVNJU2YwMzlOYlQ4dk1ERnk3b0NLU1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ca14206ae558",
       "title": "修瓣不換瓣，上海援疆為南疆心臟外科打開一扇新門 - 人民网-上海频道",
       "published": "2026-06-17T02:50:00+00:00",
@@ -48,6 +36,18 @@
         {
           "name": "人民网-上海频道",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43VElheExkOGdGMlQ3cU14N0lrcTNzbmR4UFdYSjRMV2RMcld3bEdHUUsxeDZMYS1URDhnZHBIbl9iUkVTZ1pGM2Rmd0ZoaVF1Tk5TcElYNTJ3ZTlZUkpSOEdhd0w2SWlqUzZBSjdlWWY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d23696bc8287",
+      "title": "期刊證實「瘦瘦針」不只減重 婦科名醫黃元熙：可揪出女人身上2大魔王 - Yahoo新聞",
+      "published": "2026-06-18T04:25:38+00:00",
+      "summary": "期刊證實「瘦瘦針」不只減重 婦科名醫黃元熙：可揪出女人身上2大魔王&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOLXV4TjVabDY1RE1LUXBhTUthRFFUWUgzNUhpWWVuaEZOUHZrN3VNbUotYUNLVDdzNmxzOGtkRXJYTVBlQWlJUkFIM0xhcWlZVkJ5THMwUnM5QXM2eXRfb1h0SmE1ZWdKb0VrY3hoUGJNb2VFZ0hpOGpJdXZreEdVN21tZlRoYlcwSGtlS2Zra0JEZ2lhajhGSjZfMllQcDlXTlh1NXVDVGZtZVJwMWRweG5paHFhd2V5TF9LeXFfRng4TEJ6bVlldy0td19vWmFKSUdOdUx5cU9QR2FlSVBQRXVsTGNob1UwT2hZQUprbkJkay1ZOVVjbXVsWEFuSU15MkR0NUJYVHZ2QWNYSHpQWWwtZmlrQkRhaW04N0VFS09RVVVsbzNfeUhEcXlIZlQtQXZRdHY3dnJ6ZVFpV1B1UmJWVU5ual9ERnlnaEVoNU93ZnRBN1lXUkQ4T3BEczhkc29GUkx4dkpYSDVTWkZwS2dobjdfb0tiSWV5dU1VZk5kR1hWV2Nkd2hhYmdaRmVkemxrbVNJU2YwMzlOYlQ4dk1ERnk3b0NLU1E?oc=5"
         }
       ]
     },
@@ -76,6 +76,18 @@
       ]
     },
     {
+      "id": "968521fb4fa4",
+      "title": "研究：中年維生素D水平 或影響未來大腦健康 - 大纪元",
+      "published": "2026-06-18T17:00:00+00:00",
+      "summary": "研究：中年維生素D水平 或影響未來大腦健康&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BYzFqRTNRQkdzVHJBUGU4cE1XVmxmcGJuUVpqWGpCU0c2dy1lQ0R2bkNVTDlsN0FOWHJ0UVpVSmlGbDZfNFZIVldRcHlITzFqcm5OdGMtQTVkMHpLNjhr0gFkQVVfeXFMTklOdEdEbkVHa1Flb2FPTEpTbGpnZm1lX1VrOGVXdjFJV0NzTkRHOGJ1NGdVWjZGUUhLdGxZM0pGckVvQXBtLVRGUG15MWw5Z1h0bEZWR01PaTh4XzR6Zk84d25aSg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "527075a82c2e",
       "title": "晚期食道癌新突破 免疫合併化療雙管齊下治療現生機 - 良醫健康網",
       "published": "2026-06-17T16:40:02+00:00",
@@ -100,18 +112,6 @@
       ]
     },
     {
-      "id": "89fa0b68e485",
-      "title": "撩耳仔點解會上癮？醫生揭大腦存獎勵機制：過度刺激恐可致癌 - 香港01",
-      "published": "2026-06-18T00:00:47+00:00",
-      "summary": "撩耳仔點解會上癮？醫生揭大腦存獎勵機制：過度刺激恐可致癌&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxOc1RZcTl1U09TRjd4SW9OLU5xd1plN1VZQlIyQlREQXBQYmR3NkxfUlZ6eDFLZ0Q5MjF3YU5qS2pTR2JYRGhfZ2JsSGNiamF1Y0wtT01BQUgtVlZtUUdOY0tMRVlwOGYxZ1BreWVtSjVyVk5mTWF5WUFaakVWMnBhTUFHQnUzc1Y1cDlJaV91eUJxNzBwQmdjWHR3RjdnUzBWX0loekpGNHp0aFRWQzRTbC02RkZjcTZhS3F3MVRDbG9SRDl3NlhCRVo4NDVsTnVDQmNTVGRGeHgxS1pONTdKZTVNYi0tdlYtbHc3VG1lcjg1aVdRV0o5NHpjNlJEcHpNWEM1WTZiTlNiVDBxdVI0Nm9tTlFqWXpoVUZSLVFrejl5N01HaUhaU1dhVEs1TnJjVDJDcUNuOWNXSUw4Zml5RFViVmRWaS1DUnE5YklUcFl1dzhEOUs0VEVLNGFLeWpBZ3VpeFpsblh6OUlZUGRhSGtGeDE1U2VDS2JHYzV4MDlkTnZfUi1pS2R6T2tLUmVPa2Z0RDYzUmE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4a6b935287af",
       "title": "保健品｜打開supplement後乾燥劑不丟棄 恐影響品質 營養師教3招開封後正確保存 - am730",
       "published": "2026-06-18T01:00:00+00:00",
@@ -120,6 +120,18 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YR21BUkl3WmdISlp6ckwyMXVxbmRPUVU2VnY3VXVCam9OLXRsRWZ6WUpYdWZ2MjA0TzBMSk5TdHFxYzR0ZmZiWEJvUkVaTjg3NXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "89fa0b68e485",
+      "title": "撩耳仔點解會上癮？醫生揭大腦存獎勵機制：過度刺激恐可致癌 - 香港01",
+      "published": "2026-06-18T00:00:47+00:00",
+      "summary": "撩耳仔點解會上癮？醫生揭大腦存獎勵機制：過度刺激恐可致癌&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxOc1RZcTl1U09TRjd4SW9OLU5xd1plN1VZQlIyQlREQXBQYmR3NkxfUlZ6eDFLZ0Q5MjF3YU5qS2pTR2JYRGhfZ2JsSGNiamF1Y0wtT01BQUgtVlZtUUdOY0tMRVlwOGYxZ1BreWVtSjVyVk5mTWF5WUFaakVWMnBhTUFHQnUzc1Y1cDlJaV91eUJxNzBwQmdjWHR3RjdnUzBWX0loekpGNHp0aFRWQzRTbC02RkZjcTZhS3F3MVRDbG9SRDl3NlhCRVo4NDVsTnVDQmNTVGRGeHgxS1pONTdKZTVNYi0tdlYtbHc3VG1lcjg1aVdRV0o5NHpjNlJEcHpNWEM1WTZiTlNiVDBxdVI0Nm9tTlFqWXpoVUZSLVFrejl5N01HaUhaU1dhVEs1TnJjVDJDcUNuOWNXSUw4Zml5RFViVmRWaS1DUnE5YklUcFl1dzhEOUs0VEVLNGFLeWpBZ3VpeFpsblh6OUlZUGRhSGtGeDE1U2VDS2JHYzV4MDlkTnZfUi1pS2R6T2tLUmVPa2Z0RDYzUmE?oc=5"
         }
       ]
     },

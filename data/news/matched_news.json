@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-06-18T16:54:12.442289+00:00",
-  "total_count": 11,
+  "last_updated": "2026-06-18T19:18:30.726792+00:00",
+  "total_count": 12,
   "matched_count": 3,
   "news": [
+    {
+      "id": "968521fb4fa4",
+      "title": "研究：中年維生素D水平 或影響未來大腦健康",
+      "published": "2026-06-18T17:00:00+00:00",
+      "summary": "研究：中年維生素D水平 或影響未來大腦健康&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BYzFqRTNRQkdzVHJBUGU4cE1XVmxmcGJuUVpqWGpCU0c2dy1lQ0R2bkNVTDlsN0FOWHJ0UVpVSmlGbDZfNFZIVldRcHlITzFqcm5OdGMtQTVkMHpLNjhr0gFkQVVfeXFMTklOdEdEbkVHa1Flb2FPTEpTbGpnZm1lX1VrOGVXdjFJV0NzTkRHOGJ1NGdVWjZGUUhLdGxZM0pGckVvQXBtLVRGUG15MWw5Z1h0bEZWR01PaTh4XzR6Zk84d25aSg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "2788ed88cedc",
       "title": "接種HPV疫苗的年輕女性子宮頸癌死亡率降至零",
