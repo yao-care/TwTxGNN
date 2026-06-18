@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-18T19:18:26.433778+00:00",
-  "count": 12,
+  "fetched_at": "2026-06-18T21:57:56.970291+00:00",
+  "count": 13,
   "news": [
-    {
-      "id": "2788ed88cedc",
-      "title": "接種HPV疫苗的年輕女性子宮頸癌死亡率降至零 - BBC",
-      "published": "2026-06-18T10:14:24+00:00",
-      "summary": "接種HPV疫苗的年輕女性子宮頸癌死亡率降至零&nbsp;&nbsp;BBC前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXQ3VaSHpUWkdhUlRoQ1lIQ2IxaWdtR0g0SFBxQ0xZMW03aVFkRGIzcndwWl9zQmJad1NoOEM4eVRJYjZORS13S3d4MFZlOVViX1JIQ1RhdFFuNE5tMlVwci1CTlp6UdIBa0FVX3lxTE94eVdONmdhcXZOaHhKMW9tUTRXSjJaWEt6R0d1d2k2dmdNREZjbEZZSlZ1VHJwVHQ4di1xTFltejBNNWE1eXczVExMNWJSaEVfZGtGNlhhay1yOVpfSVMwNnVHQTVmSDVwaFh3?oc=5"
-        }
-      ]
-    },
     {
       "id": "5a5b31797c2e",
       "title": "愛心醫生教您2026年如何預防糖尿病 從篩查前移到主動預警 - 蕃新聞",
@@ -24,6 +12,18 @@
         {
           "name": "蕃新聞",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iaXU2Z2R6OWpWNFFELUxfci10MkpuMVp6ckwwNmxRMEdzMTZ5NklaMVR5TU5FXzdtalZsUXhFckNFcm9LS1FBelc1UDRURzZkVHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2788ed88cedc",
+      "title": "接種HPV疫苗的年輕女性子宮頸癌死亡率降至零 - BBC",
+      "published": "2026-06-18T10:14:24+00:00",
+      "summary": "接種HPV疫苗的年輕女性子宮頸癌死亡率降至零&nbsp;&nbsp;BBC前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXQ3VaSHpUWkdhUlRoQ1lIQ2IxaWdtR0g0SFBxQ0xZMW03aVFkRGIzcndwWl9zQmJad1NoOEM4eVRJYjZORS13S3d4MFZlOVViX1JIQ1RhdFFuNE5tMlVwci1CTlp6UdIBa0FVX3lxTE94eVdONmdhcXZOaHhKMW9tUTRXSjJaWEt6R0d1d2k2dmdNREZjbEZZSlZ1VHJwVHQ4di1xTFltejBNNWE1eXczVExMNWJSaEVfZGtGNlhhay1yOVpfSVMwNnVHQTVmSDVwaFh3?oc=5"
         }
       ]
     },
@@ -132,6 +132,18 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxOc1RZcTl1U09TRjd4SW9OLU5xd1plN1VZQlIyQlREQXBQYmR3NkxfUlZ6eDFLZ0Q5MjF3YU5qS2pTR2JYRGhfZ2JsSGNiamF1Y0wtT01BQUgtVlZtUUdOY0tMRVlwOGYxZ1BreWVtSjVyVk5mTWF5WUFaakVWMnBhTUFHQnUzc1Y1cDlJaV91eUJxNzBwQmdjWHR3RjdnUzBWX0loekpGNHp0aFRWQzRTbC02RkZjcTZhS3F3MVRDbG9SRDl3NlhCRVo4NDVsTnVDQmNTVGRGeHgxS1pONTdKZTVNYi0tdlYtbHc3VG1lcjg1aVdRV0o5NHpjNlJEcHpNWEM1WTZiTlNiVDBxdVI0Nm9tTlFqWXpoVUZSLVFrejl5N01HaUhaU1dhVEs1TnJjVDJDcUNuOWNXSUw4Zml5RFViVmRWaS1DUnE5YklUcFl1dzhEOUs0VEVLNGFLeWpBZ3VpeFpsblh6OUlZUGRhSGtGeDE1U2VDS2JHYzV4MDlkTnZfUi1pS2R6T2tLUmVPa2Z0RDYzUmE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1dd06d3ff2c7",
+      "title": "南加州發現西尼羅病毒 CDC：每年超過130人因此死亡 - Singtaousa",
+      "published": "2026-06-18T20:03:37+00:00",
+      "summary": "南加州發現西尼羅病毒 CDC：每年超過130人因此死亡&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZko1T3d5dUE2NVlMdWdfdlR4dlEyZUU0ZjhhTGJTVVdMczktX0M2eTdka0hWdW9KdWNZczVfSHZ1WXhZdkVYam5xeHVSUnAxZGR0NHZQTU5XM2RyNjdkcWRoRXVrVGlxNWc5X05wT3A5N1ZyS3J1eWZ3SDllaHFHOWl2Rk9KcjVXZ3V0aVVwU0FRX1k?oc=5"
         }
       ]
     },
