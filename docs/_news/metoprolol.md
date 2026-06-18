@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,23 +42,7 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [月經不規則不只是婦科問題？最新研究：心臟病與1疾病風險明顯上升](https://news.google.com/rss/articles/CBMipwNBVV95cUxQTmN3R0R2TEloMjVvWk9GWmZkem5LRWJyek5SY3FQSmhET0NlR1AtV21JTjlRMUYtUW5JalBUS1BsbllBRDFVNXd1WTVicnplaU95WnpVTWxCd1VlYzdKcGhMSHAwRktCcTBWRnFYYk1vc0FmcTNGTkxyMHMyRi1neWRXQ1hwcHYwZUR3TDBhWmcxelh2T3hhaVpFLTVkbzlabWEySzRrR09BWUdZRzc0cUVRVUtPV0pFYnFCdEwtT3UzS3B3a213TVpfWkk3QlBEN3BhTnp0SHNsa083RF9KTmlzNEFZengyb2UwSktlSE1kazZXel9tQ1VHaUROMWZUY0FpaUN5YVBaOWNSVDF5akZnYm1RamlvMXQ1T0VyX3pmUFJHS2RtUWxCME9TTVdpUlJZeXctTFNXRHZDbkJhdzVkcXkyOHpzdTAtRFpXVkZQbnpYNHN0d0tya2dzQXh5UmpoRndpS2pQZlVueEsweHpxR2tOQVE5REsxU1RNWk92TnZ2Y3pXMGdtMEhPQTMwUWo2ejVhTFA5cnBoOXk3TmxrWDNBdms?oc=5)
-
-2026-06-18 <span class="news-indication-tag">心臟病</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMipwNBVV95cUxQTmN3R0R2TEloMjVvWk9GWmZkem5LRWJyek5SY3FQSmhET0NlR1AtV21JTjlRMUYtUW5JalBUS1BsbllBRDFVNXd1WTVicnplaU95WnpVTWxCd1VlYzdKcGhMSHAwRktCcTBWRnFYYk1vc0FmcTNGTkxyMHMyRi1neWRXQ1hwcHYwZUR3TDBhWmcxelh2T3hhaVpFLTVkbzlabWEySzRrR09BWUdZRzc0cUVRVUtPV0pFYnFCdEwtT3UzS3B3a213TVpfWkk3QlBEN3BhTnp0SHNsa083RF9KTmlzNEFZengyb2UwSktlSE1kazZXel9tQ1VHaUROMWZUY0FpaUN5YVBaOWNSVDF5akZnYm1RamlvMXQ1T0VyX3pmUFJHS2RtUWxCME9TTVdpUlJZeXctTFNXRHZDbkJhdzVkcXkyOHpzdTAtRFpXVkZQbnpYNHN0d0tya2dzQXh5UmpoRndpS2pQZlVueEsweHpxR2tOQVE5REsxU1RNWk92TnZ2Y3pXMGdtMEhPQTMwUWo2ejVhTFA5cnBoOXk3TmxrWDNBdms?oc=5)
-
----
-
-### [癌症與失智症出現共同基因突變 研究揭阿茲海默症新機制](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fc29WcVNqVU1hMVM2Tkh6ak5oNXduVGcxMnRDUXZ5RFZ0Tmkyc013Q2VhRFl0VHpROE9CWUVBQmpzamJOVlZ3WFV0Qk56OFJnRkgxdkd4Z0RHWjNMaHZCcElvNFTSAWpBVV95cUxQWUxJLXBJTnRhdXByd0pyb2pvR3d6MVFGSXVMdmwwZW9vQkpNaTNWRTdtaVF6MkVmbkNKaTUxdFdBQVN0MlRsTmVMWm1QdktDaHliWUlXTm1lUm0tVExueWpDc2lGVWdMVWpR?oc=5)
-
-2026-06-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fc29WcVNqVU1hMVM2Tkh6ak5oNXduVGcxMnRDUXZ5RFZ0Tmkyc013Q2VhRFl0VHpROE9CWUVBQmpzamJOVlZ3WFV0Qk56OFJnRkgxdkd4Z0RHWjNMaHZCcElvNFTSAWpBVV95cUxQWUxJLXBJTnRhdXByd0pyb2pvR3d6MVFGSXVMdmwwZW9vQkpNaTNWRTdtaVF6MkVmbkNKaTUxdFdBQVN0MlRsTmVMWm1QdktDaHliWUlXTm1lUm0tVExueWpDc2lGVWdMVWpR?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [年輕人高血壓勿忽視 醫生拆解3大類腎上腺瘤 女性患病恐致停經/月亮臉](https://news.google.com/rss/articles/CBMivwNBVV95cUxQRE9lVWFsSFFaYVE2eWpvTU9XTGxwTmVibzZ4N2ZHUjhHQXN3T3VQM01wTzJCX1hhdEZXWnk2RkhBcHN5MFRIREtGb0tuUE1wUVBwWmh5ZVAzekIwZzFCRG04SC1OSE4xcU1BYWtUMjliamMwVHVnMWtzNWpWdkg0ODE3Q2xPYXd6ZkREcll0VHVmVnJzbks2S0FNc0Fxc0pHcTdnazloZ1pBc2pmb2c1dVBwZXk4ckphdHVUal9PNjJzZHNRQmc0UmdrNGJybkNyNlVMYkpPUXI1VlVrMEZZU2pFREJxSDJZd1NVN19kb2xtcDFwRXJTMVF5NjBzTTJrVzc1TEJUdTVHcUxnVWo2OFJ6U1dlVGhPZk5aSFcxN2s0QndicVlpZWNuZl9hUE5fRl9oX1dEMVF4MmZteV9hVmM1UjNDZU4yMWNNUENlY3dGTHNheEg4bDV5N2paZVlhQmloNmhHdTZaN25VcnBtX25TVnh2c1pPeHJVaVpROHg1VHM2RnQ2dWd3Ukhnbl9LZ0x1ZERaWlFyRGE0NjFObnRPZy10ZGdBem9RYjczZHV6bnNyUUwtUTZQZF85Qkk?oc=5)
 

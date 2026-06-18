@@ -44,19 +44,19 @@ permalink: /news/paclitaxel/
 
 ## 相關新聞（3 則）
 
+### [HPV疫苗改寫子宮頸癌命運！研究：青春期接種者30歲前死亡風險幾近零 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KVno3Sm1HTURlMWlMd1NIcndNNzJiNW5Cd0dTbkM4Tlc0RkRkMWJGckZCcWo2VXJhdE1oS3VoYnN3Qk9IdHdSUlhTeFRROFlQdC1zNHo4ZEo?oc=5)
+
+2026-06-18 <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KVno3Sm1HTURlMWlMd1NIcndNNzJiNW5Cd0dTbkM4Tlc0RkRkMWJGckZCcWo2VXJhdE1oS3VoYnN3Qk9IdHdSUlhTeFRROFlQdC1zNHo4ZEo?oc=5)
+
+---
+
 ### [晚期食道癌新突破 免疫合併化療雙管齊下治療現生機](https://news.google.com/rss/articles/CBMiakFVX3lxTE1MTlB2YXBhUFNnWGZueEg5WW13TmtsdnVqMVl3N3Bsb1l1ZXFwbXJGNFIzckRwcXJWd1lxQ1FLbHdpN2FheThfX3c2bGZFb09RMW9VU1ZmRDBtNUpBMHU3cUZDc18zYmVnTkE?oc=5)
 
 2026-06-17 <span class="news-indication-tag">食道癌</span>
 
 來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTE1MTlB2YXBhUFNnWGZueEg5WW13TmtsdnVqMVl3N3Bsb1l1ZXFwbXJGNFIzckRwcXJWd1lxQ1FLbHdpN2FheThfX3c2bGZFb09RMW9VU1ZmRDBtNUpBMHU3cUZDc18zYmVnTkE?oc=5)
-
----
-
-### [癌症與失智症出現共同基因突變 研究揭阿茲海默症新機制](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fc29WcVNqVU1hMVM2Tkh6ak5oNXduVGcxMnRDUXZ5RFZ0Tmkyc013Q2VhRFl0VHpROE9CWUVBQmpzamJOVlZ3WFV0Qk56OFJnRkgxdkd4Z0RHWjNMaHZCcElvNFTSAWpBVV95cUxQWUxJLXBJTnRhdXByd0pyb2pvR3d6MVFGSXVMdmwwZW9vQkpNaTNWRTdtaVF6MkVmbkNKaTUxdFdBQVN0MlRsTmVMWm1QdktDaHliWUlXTm1lUm0tVExueWpDc2lGVWdMVWpR?oc=5)
-
-2026-06-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fc29WcVNqVU1hMVM2Tkh6ak5oNXduVGcxMnRDUXZ5RFZ0Tmkyc013Q2VhRFl0VHpROE9CWUVBQmpzamJOVlZ3WFV0Qk56OFJnRkgxdkd4Z0RHWjNMaHZCcElvNFTSAWpBVV95cUxQWUxJLXBJTnRhdXByd0pyb2pvR3d6MVFGSXVMdmwwZW9vQkpNaTNWRTdtaVF6MkVmbkNKaTUxdFdBQVN0MlRsTmVMWm1QdktDaHliWUlXTm1lUm0tVExueWpDc2lGVWdMVWpR?oc=5)
 
 ---
 

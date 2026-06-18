@@ -1,17 +1,29 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-18T05:28:45.028104+00:00",
-  "count": 13,
+  "fetched_at": "2026-06-18T10:06:50.525333+00:00",
+  "count": 12,
   "news": [
     {
-      "id": "1fba98f4f00a",
-      "title": "研究曝血液缺「1元素」增腸癌風險！醫警告：補過量恐中毒 - TVBS新聞網",
-      "published": "2026-06-17T20:00:00+00:00",
-      "summary": "研究曝血液缺「1元素」增腸癌風險！醫警告：補過量恐中毒&nbsp;&nbsp;TVBS新聞網",
+      "id": "600a16ca0aa0",
+      "title": "HPV疫苗改寫子宮頸癌命運！研究：青春期接種者30歲前死亡風險幾近零 - Taiwan News",
+      "published": "2026-06-18T07:30:00+00:00",
+      "summary": "HPV疫苗改寫子宮頸癌命運！研究：青春期接種者30歲前死亡風險幾近零&nbsp;&nbsp;Taiwan News",
       "sources": [
         {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvZENJeTVmUkpkbWVJdDdiZjNvc01JQ3VPcUNFdGw3WVR0UXdRNGx2TVBUYUt5c3UxakQ1ODlISTczSkNad1R4Y3NrcmI4bmYy?oc=5"
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KVno3Sm1HTURlMWlMd1NIcndNNzJiNW5Cd0dTbkM4Tlc0RkRkMWJGckZCcWo2VXJhdE1oS3VoYnN3Qk9IdHdSUlhTeFRROFlQdC1zNHo4ZEo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d23696bc8287",
+      "title": "期刊證實「瘦瘦針」不只減重 婦科名醫黃元熙：可揪出女人身上2大魔王 - Yahoo新聞",
+      "published": "2026-06-18T04:25:38+00:00",
+      "summary": "期刊證實「瘦瘦針」不只減重 婦科名醫黃元熙：可揪出女人身上2大魔王&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOLXV4TjVabDY1RE1LUXBhTUthRFFUWUgzNUhpWWVuaEZOUHZrN3VNbUotYUNLVDdzNmxzOGtkRXJYTVBlQWlJUkFIM0xhcWlZVkJ5THMwUnM5QXM2eXRfb1h0SmE1ZWdKb0VrY3hoUGJNb2VFZ0hpOGpJdXZreEdVN21tZlRoYlcwSGtlS2Zra0JEZ2lhajhGSjZfMllQcDlXTlh1NXVDVGZtZVJwMWRweG5paHFhd2V5TF9LeXFfRng4TEJ6bVlldy0td19vWmFKSUdOdUx5cU9QR2FlSVBQRXVsTGNob1UwT2hZQUprbkJkay1ZOVVjbXVsWEFuSU15MkR0NUJYVHZ2QWNYSHpQWWwtZmlrQkRhaW04N0VFS09RVVVsbzNfeUhEcXlIZlQtQXZRdHY3dnJ6ZVFpV1B1UmJWVU5ual9ERnlnaEVoNU93ZnRBN1lXUkQ4T3BEczhkc29GUkx4dkpYSDVTWkZwS2dobjdfb0tiSWV5dU1VZk5kR1hWV2Nkd2hhYmdaRmVkemxrbVNJU2YwMzlOYlQ4dk1ERnk3b0NLU1E?oc=5"
         }
       ]
     },
@@ -28,14 +40,14 @@
       ]
     },
     {
-      "id": "7b3c57346c69",
-      "title": "癌症與失智症出現共同基因突變 研究揭阿茲海默症新機制 - 自由健康網",
-      "published": "2026-06-17T06:20:00+00:00",
-      "summary": "癌症與失智症出現共同基因突變 研究揭阿茲海默症新機制&nbsp;&nbsp;自由健康網",
+      "id": "1fba98f4f00a",
+      "title": "研究曝血液缺「1元素」增腸癌風險！醫警告：補過量恐中毒 - TVBS新聞網",
+      "published": "2026-06-17T20:00:00+00:00",
+      "summary": "研究曝血液缺「1元素」增腸癌風險！醫警告：補過量恐中毒&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fc29WcVNqVU1hMVM2Tkh6ak5oNXduVGcxMnRDUXZ5RFZ0Tmkyc013Q2VhRFl0VHpROE9CWUVBQmpzamJOVlZ3WFV0Qk56OFJnRkgxdkd4Z0RHWjNMaHZCcElvNFTSAWpBVV95cUxQWUxJLXBJTnRhdXByd0pyb2pvR3d6MVFGSXVMdmwwZW9vQkpNaTNWRTdtaVF6MkVmbkNKaTUxdFdBQVN0MlRsTmVMWm1QdktDaHliWUlXTm1lUm0tVExueWpDc2lGVWdMVWpR?oc=5"
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvZENJeTVmUkpkbWVJdDdiZjNvc01JQ3VPcUNFdGw3WVR0UXdRNGx2TVBUYUt5c3UxakQ1ODlISTczSkNad1R4Y3NrcmI4bmYy?oc=5"
         }
       ]
     },
@@ -64,30 +76,6 @@
       ]
     },
     {
-      "id": "fbe67622916d",
-      "title": "葡萄糖胺影響失智病程？ 專家教你怎麼挑- 健康 - 中時新聞網",
-      "published": "2026-06-16T08:34:45+00:00",
-      "summary": "葡萄糖胺影響失智病程？ 專家教你怎麼挑- 健康&nbsp;&nbsp;中時新聞網吃「1護膝保健品」恐傷腦！最新研究曝：失智風險飆25%&nbsp;&nbsp;祝你健康吃葡萄糖胺「這群人」罹失智症機率恐增25%！保養關節為何害到大腦、惡化阿茲海默症？揪出禍首是它&nbsp;&nbsp;今周刊很多人都在吃！研究發現葡萄糖胺與失智症進展有關&nbsp;&nbsp;自由健康網膝蓋痛就吃葡萄糖胺？研究提醒：顧了關節，卻可能讓大腦退化加速&nbsp;&nbsp;康健雜誌",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oT1ozOXBGanJsT29ZeUtCdnJocFpKZ1ZlUkZiWGNCb2p0NHRsbFE2My1LZzl5STE4S196UFVvTENIakM2RTh6UWtNTExyTExfbTFMTDR4WEVlZWRMM3FiU3Uyb3JDOUx6LWwwenh3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c872f8bce79b",
-      "title": "長者吃鈣片、維生素D防骨折？大型研究打臉：效果有限 - 科技島",
-      "published": "2026-06-16T08:49:37+00:00",
-      "summary": "長者吃鈣片、維生素D防骨折？大型研究打臉：效果有限&nbsp;&nbsp;科技島",
-      "sources": [
-        {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KWUtlZmxGanh5cXNsVkpMcXVud09SRW9ldlBCN09jaWl2TmJONVltZjY2QTU1NkF1MHBSa1dLVXUxaDFjRXBybWxyR1FxUm1LWkdua3FTVXRtWU5WeVNZ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "527075a82c2e",
       "title": "晚期食道癌新突破 免疫合併化療雙管齊下治療現生機 - 良醫健康網",
       "published": "2026-06-17T16:40:02+00:00",
@@ -100,14 +88,14 @@
       ]
     },
     {
-      "id": "eaca5263bd60",
-      "title": "月經不規則不只是婦科問題？最新研究：心臟病與1疾病風險明顯上升 - Yahoo新聞",
-      "published": "2026-06-18T00:28:24+00:00",
-      "summary": "月經不規則不只是婦科問題？最新研究：心臟病與1疾病風險明顯上升&nbsp;&nbsp;Yahoo新聞",
+      "id": "49edc28817ca",
+      "title": "芒果配「1食物」秒變熱量炸彈！營養師公開3大妙法平衡血糖 糖尿病患者都可以食? - singtao.ca",
+      "published": "2026-06-17T22:45:27+00:00",
+      "summary": "芒果配「1食物」秒變熱量炸彈！營養師公開3大妙法平衡血糖 糖尿病患者都可以食?&nbsp;&nbsp;singtao.ca",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQTmN3R0R2TEloMjVvWk9GWmZkem5LRWJyek5SY3FQSmhET0NlR1AtV21JTjlRMUYtUW5JalBUS1BsbllBRDFVNXd1WTVicnplaU95WnpVTWxCd1VlYzdKcGhMSHAwRktCcTBWRnFYYk1vc0FmcTNGTkxyMHMyRi1neWRXQ1hwcHYwZUR3TDBhWmcxelh2T3hhaVpFLTVkbzlabWEySzRrR09BWUdZRzc0cUVRVUtPV0pFYnFCdEwtT3UzS3B3a213TVpfWkk3QlBEN3BhTnp0SHNsa083RF9KTmlzNEFZengyb2UwSktlSE1kazZXel9tQ1VHaUROMWZUY0FpaUN5YVBaOWNSVDF5akZnYm1RamlvMXQ1T0VyX3pmUFJHS2RtUWxCME9TTVdpUlJZeXctTFNXRHZDbkJhdzVkcXkyOHpzdTAtRFpXVkZQbnpYNHN0d0tya2dzQXh5UmpoRndpS2pQZlVueEsweHpxR2tOQVE5REsxU1RNWk92TnZ2Y3pXMGdtMEhPQTMwUWo2ejVhTFA5cnBoOXk3TmxrWDNBdms?oc=5"
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxQOE5UNThnYTRkbmxjRk4wMExreDlHUFJIdUx6UVJxNm5QYUJhNjUwb3BhUjYwNXE3ZFc5OXpuR2w3UEsxc2ZpV1VfQTVPV20zamMzenV6Q2d1bGtiRDVrejBBaGt6bC0zOWpPdGlWa0pxRWk5T2lCOGdVZFNsSjdrU25lU21TMzliWk9tZjExdGFOLVpHRUxfU0p0b3FXTmd6Wm1LcXhvWnJhZXJlN3E5UDhQNEFMemhXVU8yZDlIQkN4Yndwbk84ek5QRG5tMzdwRHNKdVU1bnVzcnRNd25UTDVzek0xVmcwZGM5VFZBdktBMWx6b1FZY1d5YzRVeUw0dGVkaTRZc25RcGdraUZQMXpvbmlhU1VGZGhkcVFfcU5Uc1BHZ2EwM1AzUDNSaWdXWEh3WXFNMU9RblZiLUczSEVCQmZKaGZsWVFFSEV4LUR3U0RkaF9ZSGl1ckltZm1tQ0FsV1pfR3VfTXlfcmdLeXJ1eDJTS3RWU2YtWmY0WXp5Rk1jQmtLVUlCTmU3NzVQR3lQTnZsc3RVYXM1cHBuUWY0WWFBT01OVlFhQkhZTl9qX0g1OTJCNXc3Yi1XRldhTEtlb3J2ZGF6ckJzYnZZMjBQVTdQMmJXcFdPNTY2dEp3clhVM2d1Wi14d3pndzJYNDh5a0xBOC15VDVtYXVxa014Qm9yd0R3cmow0gGSAUFVX3lxTFBXRUpxcjAxdS03YjB1ZUcydmd1RFZGaV90cVQ1TTlnTU14SWZHTHdlZllOTTktUFdRY1JySHRWVGdEYlpiTEVYZS02V3g4R3JsaExmQkFueHROX0dYeEhrRGJrV3pqVWtlajZSMlBuU3A1cDRid3hISmFoUm1lT1dpWS01Z1dDMFc5VXBnVkxVbGpR?oc=5"
         }
       ]
     },

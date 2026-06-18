@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [月經不規則不只是婦科問題？最新研究：心臟病與1疾病風險明顯上升](https://news.google.com/rss/articles/CBMipwNBVV95cUxQTmN3R0R2TEloMjVvWk9GWmZkem5LRWJyek5SY3FQSmhET0NlR1AtV21JTjlRMUYtUW5JalBUS1BsbllBRDFVNXd1WTVicnplaU95WnpVTWxCd1VlYzdKcGhMSHAwRktCcTBWRnFYYk1vc0FmcTNGTkxyMHMyRi1neWRXQ1hwcHYwZUR3TDBhWmcxelh2T3hhaVpFLTVkbzlabWEySzRrR09BWUdZRzc0cUVRVUtPV0pFYnFCdEwtT3UzS3B3a213TVpfWkk3QlBEN3BhTnp0SHNsa083RF9KTmlzNEFZengyb2UwSktlSE1kazZXel9tQ1VHaUROMWZUY0FpaUN5YVBaOWNSVDF5akZnYm1RamlvMXQ1T0VyX3pmUFJHS2RtUWxCME9TTVdpUlJZeXctTFNXRHZDbkJhdzVkcXkyOHpzdTAtRFpXVkZQbnpYNHN0d0tya2dzQXh5UmpoRndpS2pQZlVueEsweHpxR2tOQVE5REsxU1RNWk92TnZ2Y3pXMGdtMEhPQTMwUWo2ejVhTFA5cnBoOXk3TmxrWDNBdms?oc=5)
-
-2026-06-18 <span class="news-indication-tag">心臟病</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMipwNBVV95cUxQTmN3R0R2TEloMjVvWk9GWmZkem5LRWJyek5SY3FQSmhET0NlR1AtV21JTjlRMUYtUW5JalBUS1BsbllBRDFVNXd1WTVicnplaU95WnpVTWxCd1VlYzdKcGhMSHAwRktCcTBWRnFYYk1vc0FmcTNGTkxyMHMyRi1neWRXQ1hwcHYwZUR3TDBhWmcxelh2T3hhaVpFLTVkbzlabWEySzRrR09BWUdZRzc0cUVRVUtPV0pFYnFCdEwtT3UzS3B3a213TVpfWkk3QlBEN3BhTnp0SHNsa083RF9KTmlzNEFZengyb2UwSktlSE1kazZXel9tQ1VHaUROMWZUY0FpaUN5YVBaOWNSVDF5akZnYm1RamlvMXQ1T0VyX3pmUFJHS2RtUWxCME9TTVdpUlJZeXctTFNXRHZDbkJhdzVkcXkyOHpzdTAtRFpXVkZQbnpYNHN0d0tya2dzQXh5UmpoRndpS2pQZlVueEsweHpxR2tOQVE5REsxU1RNWk92TnZ2Y3pXMGdtMEhPQTMwUWo2ejVhTFA5cnBoOXk3TmxrWDNBdms?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
