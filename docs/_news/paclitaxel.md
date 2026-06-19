@@ -46,7 +46,7 @@ permalink: /news/paclitaxel/
 
 ### [肚子變大以為變胖？醫：恐是卵巢癌警訊 7症狀別輕忽](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QVVZKLWJXUDVQaWFsNDlicHNXTERUUTZXQnhTSXpSSTcwaVpRTHk0MElpSmVwZGF6a1hBN3hFVVBpRHhPay1iWHRiZHlMUQ?oc=5)
 
-2026-06-19 <span class="news-indication-tag">卵巢癌</span>
+2026-06-19 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">惡性腫瘤</span> <span class="news-indication-tag">卵巢癌</span> <span class="news-indication-tag">停經</span>
 
 來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QVVZKLWJXUDVQaWFsNDlicHNXTERUUTZXQnhTSXpSSTcwaVpRTHk0MElpSmVwZGF6a1hBN3hFVVBpRHhPay1iWHRiZHlMUQ?oc=5)
 
