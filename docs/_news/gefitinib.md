@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [吃魚油不能徹底防失智《刺胳針》最新研究打臉：不改壞習慣都沒用](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hdWZLUWtpVi1NYUdpUE9OcDFBeG11NlF5MHJQcjNyRUZ4Rm93QlROLUxMWnMzUnM3anlXXzRVbEF3WHo1MXJuZnJiTVNoX3NmelFualk4aENRU2F1SlJTdGVQT1PSAWpBVV95cUxPd29xVkNEVGtfbFliRHNtMFEyU19qZ2Z1Q2ZjM1pra2hZLU0wdl9uZHBfcEJ4T0VhUUhTbnotQXZFa3Q5X09GM0FNOW9NaEtacHd6NGxNRjZKYXFoSzdYWFkzUk9vSkp6eDVR?oc=5)
 
@@ -56,6 +56,14 @@ permalink: /news/gefitinib/
 2026-06-19 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">惡性腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHVlcmZFM2diV1IxMHNQXzFtZ21qYVBhMkJPQmFxY3FPUFBxb3ladUxHZzhwb2ZMX1FzN1oxSW44dnp2eEFDa1JkUUNGWEpHUjlKZzhkV3RFN2FILUFOODhkYTdjbjZfSVZPd1lMdDVDQ05neFJTSzdMRWpJdi1aR1paeHpUYkRicEk2ZExBMA?oc=5)
+
+---
+
+### [英國研究證實HPV疫苗成效顯著三十歲以下女性子宮頸癌死亡率趨近於零 - GeneOnline News](https://news.google.com/rss/articles/CBMivgJBVV95cUxOcTZyS0tKa1BKeXN1QzhBTlFxVVRDdmpndGZiczhaSHVDZzJhY25SaHJZUlJaZ19yWVV5RzZqMTEtNXA4eG9aSU9oaDN1eENWYk9rSXZOWmFSRFhSMm5QYnk4QmlSTDBybV9HNF94ZlJGOTJlZ0hxQmI0Yl9uR3pfYUFRQTZvYnA2Z3NmOVBBUWVUQWU2ekhqWGhxS1VFTTc5SWEwRU1QLUVBLVpXNDBUNEJ0U2RBR0NWRGtXeGs1VGZQMkxSRExEaWswcWxDQnl2QlNNc1VyY3l5MjRQTHp5R2lRdE9OZXJ3eHAxOTI3R2ZkUU80RE54aGxjbGNWX3NUN0FBUVUxdUttaHN6Ukk3OXVuaDJ5Y2xWUUpXS0Y5S3RIX01zRzdfS3R6MVFMbU5PZEFDWnp4bHktZE1IMGc?oc=5)
+
+2026-06-18 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[GeneOnline News](https://news.google.com/rss/articles/CBMivgJBVV95cUxOcTZyS0tKa1BKeXN1QzhBTlFxVVRDdmpndGZiczhaSHVDZzJhY25SaHJZUlJaZ19yWVV5RzZqMTEtNXA4eG9aSU9oaDN1eENWYk9rSXZOWmFSRFhSMm5QYnk4QmlSTDBybV9HNF94ZlJGOTJlZ0hxQmI0Yl9uR3pfYUFRQTZvYnA2Z3NmOVBBUWVUQWU2ekhqWGhxS1VFTTc5SWEwRU1QLUVBLVpXNDBUNEJ0U2RBR0NWRGtXeGs1VGZQMkxSRExEaWswcWxDQnl2QlNNc1VyY3l5MjRQTHp5R2lRdE9OZXJ3eHAxOTI3R2ZkUU80RE54aGxjbGNWX3NUN0FBUVUxdUttaHN6Ukk3OXVuaDJ5Y2xWUUpXS0Y5S3RIX01zRzdfS3R6MVFMbU5PZEFDWnp4bHktZE1IMGc?oc=5)
 
 ---
 

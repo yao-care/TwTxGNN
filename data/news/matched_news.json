@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-06-19T12:49:13.250682+00:00",
-  "total_count": 18,
-  "matched_count": 5,
+  "last_updated": "2026-06-19T15:56:08.566050+00:00",
+  "total_count": 17,
+  "matched_count": 4,
   "news": [
     {
-      "id": "b3875bf18106",
+      "id": "dbcdd1199bea",
       "title": "醫學新突破！美實驗性心臟新藥 驚喜發現能「修復腎臟」",
       "published": "2026-06-19T11:50:48+00:00",
-      "summary": "醫學新突破！美實驗性心臟新藥 驚喜發現能「修復腎臟」&nbsp;&nbsp;ftvnews.com.tw",
+      "summary": "醫學新突破！美實驗性心臟新藥 驚喜發現能「修復腎臟」&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "ftvnews.com.tw",
+          "name": "民視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LdGVyckpsMGxRdG1aMnVzNmVLU2JGTC10QkV0YTk0X2FRSG90aTFpbkdObWpacE5tV2tubzhLNi1uaHVUclk2LTNOWV91ampDN1dQNWd1dy1CU2lKQ3RIbg?oc=5"
         }
       ],
@@ -84,7 +84,7 @@
       "id": "079925caeaa4",
       "title": "惡性腫瘤安靜到致命 50歲女脹氣吃藥沒效 一查卵巢癌了",
       "published": "2026-06-19T03:56:28+00:00",
-      "summary": "惡性腫瘤安靜到致命 50歲女脹氣吃藥沒效 一查卵巢癌了&nbsp;&nbsp;中時新聞網女主管「以為變胖」就診才知卵巢癌晚期！醫嘆：很多人這樣講&nbsp;&nbsp;ETtoday新聞雲女主管肚子凸以為變胖！醫揪「沉默殺手」死亡率高 確診常是晚期&nbsp;&nbsp;祝你健康惡性腫瘤安靜到致命50歲女脹氣吃藥沒效一查卵巢癌了- 健康&nbsp;&nbsp;中時新聞網以為變胖 女主管得沉默殺手 確診常是晚期&nbsp;&nbsp;鏡週刊Mirror Media",
+      "summary": "惡性腫瘤安靜到致命 50歲女脹氣吃藥沒效 一查卵巢癌了&nbsp;&nbsp;中時新聞網女主管肚子凸以為變胖！醫揪「沉默殺手」死亡率高 確診常是晚期&nbsp;&nbsp;祝你健康女主管「以為變胖」就診才知卵巢癌晚期！醫嘆：很多人這樣講&nbsp;&nbsp;ETtoday新聞雲惡性腫瘤安靜到致命50歲女脹氣吃藥沒效一查卵巢癌了- 健康&nbsp;&nbsp;中時新聞網肚子變大以為變胖？醫：恐是卵巢癌警訊 7症狀別輕忽 | TVBS&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "中時新聞網",
@@ -513,6 +513,226 @@
       "matched_keywords": []
     },
     {
+      "id": "a76aebcd3818",
+      "title": "英國研究證實HPV疫苗成效顯著三十歲以下女性子宮頸癌死亡率趨近於零 - GeneOnline News",
+      "published": "2026-06-18T21:41:00+00:00",
+      "summary": "英國研究證實HPV疫苗成效顯著三十歲以下女性子宮頸癌死亡率趨近於零&nbsp;&nbsp;GeneOnline News接種HPV疫苗年輕女性，子宮頸癌死亡率降至「接近零」&nbsp;&nbsp;BBCHPV疫苗改寫子宮頸癌命運！研究：青春期接種者30歲前死亡風險幾近零&nbsp;&nbsp;Taiwan NewsHPV疫苗拯救兩百命 死亡率近乎歸零！ 英國防癌立下驚人里程碑 | Newtalk&nbsp;&nbsp;LINE TODAY一針改變癌症 HPV疫苗讓英國年輕女性子宮頸癌死亡率歸零&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOcTZyS0tKa1BKeXN1QzhBTlFxVVRDdmpndGZiczhaSHVDZzJhY25SaHJZUlJaZ19yWVV5RzZqMTEtNXA4eG9aSU9oaDN1eENWYk9rSXZOWmFSRFhSMm5QYnk4QmlSTDBybV9HNF94ZlJGOTJlZ0hxQmI0Yl9uR3pfYUFRQTZvYnA2Z3NmOVBBUWVUQWU2ekhqWGhxS1VFTTc5SWEwRU1QLUVBLVpXNDBUNEJ0U2RBR0NWRGtXeGs1VGZQMkxSRExEaWswcWxDQnl2QlNNc1VyY3l5MjRQTHp5R2lRdE9OZXJ3eHAxOTI3R2ZkUU80RE54aGxjbGNWX3NUN0FBUVUxdUttaHN6Ukk3OXVuaDJ5Y2xWUUpXS0Y5S3RIX01zRzdfS3R6MVFMbU5PZEFDWnp4bHktZE1IMGc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1dd06d3ff2c7",
       "title": "南加州發現西尼羅病毒 CDC：每年超過130人因此死亡",
       "published": "2026-06-18T20:03:37+00:00",
@@ -537,31 +757,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "2788ed88cedc",
-      "title": "接種HPV疫苗的年輕女性子宮頸癌死亡率降至零",
-      "published": "2026-06-18T10:14:24+00:00",
-      "summary": "接種HPV疫苗的年輕女性子宮頸癌死亡率降至零&nbsp;&nbsp;BBC前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXQ3VaSHpUWkdhUlRoQ1lIQ2IxaWdtR0g0SFBxQ0xZMW03aVFkRGIzcndwWl9zQmJad1NoOEM4eVRJYjZORS13S3d4MFZlOVViX1JIQ1RhdFFuNE5tMlVwci1CTlp6UdIBa0FVX3lxTE94eVdONmdhcXZOaHhKMW9tUTRXSjJaWEt6R0d1d2k2dmdNREZjbEZZSlZ1VHJwVHQ4di1xTFltejBNNWE1eXczVExMNWJSaEVfZGtGNlhhay1yOVpfSVMwNnVHQTVmSDVwaFh3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "d23696bc8287",
@@ -661,31 +856,6 @@
             {
               "slug": "oteracil",
               "name": "Oteracil"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "527075a82c2e",
-      "title": "晚期食道癌新突破 免疫合併化療雙管齊下治療現生機",
-      "published": "2026-06-17T16:40:02+00:00",
-      "summary": "晚期食道癌新突破 免疫合併化療雙管齊下治療現生機&nbsp;&nbsp;良醫健康網",
-      "sources": [
-        {
-          "name": "良醫健康網",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MTlB2YXBhUFNnWGZueEg5WW13TmtsdnVqMVl3N3Bsb1l1ZXFwbXJGNFIzckRwcXJWd1lxQ1FLbHdpN2FheThfX3c2bGZFb09RMW9VU1ZmRDBtNUpBMHU3cUZDc18zYmVnTkE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "食道癌",
-          "keyword": "食道癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }
