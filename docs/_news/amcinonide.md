@@ -42,11 +42,11 @@ permalink: /news/amcinonide/
 
 ## 相關新聞（1 則）
 
-### [肚子變大以為變胖？醫：恐是卵巢癌警訊 7症狀別輕忽](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QVVZKLWJXUDVQaWFsNDlicHNXTERUUTZXQnhTSXpSSTcwaVpRTHk0MElpSmVwZGF6a1hBN3hFVVBpRHhPay1iWHRiZHlMUQ?oc=5)
+### [惡性腫瘤安靜到致命 50歲女脹氣吃藥沒效 一查卵巢癌了](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHVlcmZFM2diV1IxMHNQXzFtZ21qYVBhMkJPQmFxY3FPUFBxb3ladUxHZzhwb2ZMX1FzN1oxSW44dnp2eEFDa1JkUUNGWEpHUjlKZzhkV3RFN2FILUFOODhkYTdjbjZfSVZPd1lMdDVDQ05neFJTSzdMRWpJdi1aR1paeHpUYkRicEk2ZExBMA?oc=5)
 
-2026-06-19 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">惡性腫瘤</span> <span class="news-indication-tag">卵巢癌</span> <span class="news-indication-tag">停經</span>
+2026-06-19 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">惡性腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
 
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QVVZKLWJXUDVQaWFsNDlicHNXTERUUTZXQnhTSXpSSTcwaVpRTHk0MElpSmVwZGF6a1hBN3hFVVBpRHhPay1iWHRiZHlMUQ?oc=5)
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHVlcmZFM2diV1IxMHNQXzFtZ21qYVBhMkJPQmFxY3FPUFBxb3ladUxHZzhwb2ZMX1FzN1oxSW44dnp2eEFDa1JkUUNGWEpHUjlKZzhkV3RFN2FILUFOODhkYTdjbjZfSVZPd1lMdDVDQ05neFJTSzdMRWpJdi1aR1paeHpUYkRicEk2ZExBMA?oc=5)
 
 ---
 

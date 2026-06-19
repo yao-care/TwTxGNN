@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-19T08:59:21.095169+00:00",
+  "generated": "2026-06-19T12:49:13.282687+00:00",
   "count": 5,
   "news": [
     {
@@ -27,13 +27,13 @@
       ]
     },
     {
-      "id": "c1dfa4e7c338",
-      "title": "肚子變大以為變胖？醫：恐是卵巢癌警訊 7症狀別輕忽",
-      "published": "2026-06-19T02:15:00+00:00",
+      "id": "079925caeaa4",
+      "title": "惡性腫瘤安靜到致命 50歲女脹氣吃藥沒效 一查卵巢癌了",
+      "published": "2026-06-19T03:56:28+00:00",
       "sources": [
         {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QVVZKLWJXUDVQaWFsNDlicHNXTERUUTZXQnhTSXpSSTcwaVpRTHk0MElpSmVwZGF6a1hBN3hFVVBpRHhPay1iWHRiZHlMUQ?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHVlcmZFM2diV1IxMHNQXzFtZ21qYVBhMkJPQmFxY3FPUFBxb3ladUxHZzhwb2ZMX1FzN1oxSW44dnp2eEFDa1JkUUNGWEpHUjlKZzhkV3RFN2FILUFOODhkYTdjbjZfSVZPd1lMdDVDQ05neFJTSzdMRWpJdi1aR1paeHpUYkRicEk2ZExBMA?oc=5"
         }
       ],
       "keywords": [
@@ -439,29 +439,6 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }
