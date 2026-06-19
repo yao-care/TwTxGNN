@@ -14,7 +14,7 @@ permalink: /news/tioconazole/
 ---
 
 <p class="key-answer" data-question="Tioconazole 有什麼相關新聞？">
-<strong>Tioconazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Tioconazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,9 +35,15 @@ permalink: /news/tioconazole/
 <p><a href="{{ '/drugs/tioconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [惡性腫瘤安靜到致命 50歲女脹氣吃藥沒效 一查卵巢癌了](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHVlcmZFM2diV1IxMHNQXzFtZ21qYVBhMkJPQmFxY3FPUFBxb3ladUxHZzhwb2ZMX1FzN1oxSW44dnp2eEFDa1JkUUNGWEpHUjlKZzhkV3RFN2FILUFOODhkYTdjbjZfSVZPd1lMdDVDQ05neFJTSzdMRWpJdi1aR1paeHpUYkRicEk2ZExBMA?oc=5)
+
+2026-06-19 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">惡性腫瘤</span> <span class="news-indication-tag">卵巢癌</span> <span class="news-indication-tag">停經</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHVlcmZFM2diV1IxMHNQXzFtZ21qYVBhMkJPQmFxY3FPUFBxb3ladUxHZzhwb2ZMX1FzN1oxSW44dnp2eEFDa1JkUUNGWEpHUjlKZzhkV3RFN2FILUFOODhkYTdjbjZfSVZPd1lMdDVDQ05neFJTSzdMRWpJdi1aR1paeHpUYkRicEk2ZExBMA?oc=5)
+
+---
 
 
 <div class="disclaimer">

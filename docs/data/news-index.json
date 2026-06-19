@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-19T17:50:03.343330+00:00",
+  "generated": "2026-06-19T19:26:47.779724+00:00",
   "count": 4,
   "news": [
     {
@@ -439,6 +439,29 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
             }
           ]
         }
