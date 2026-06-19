@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-19T21:01:38.500243+00:00",
-  "total_count": 18,
-  "matched_count": 4,
+  "last_updated": "2026-06-19T22:44:12.498911+00:00",
+  "total_count": 16,
+  "matched_count": 3,
   "news": [
     {
       "id": "681905a4203c",
@@ -795,6 +795,19 @@
       "matched_keywords": []
     },
     {
+      "id": "89fa0b68e485",
+      "title": "撩耳仔點解會上癮？醫生揭大腦存獎勵機制：過度刺激恐可致癌",
+      "published": "2026-06-18T16:51:12+00:00",
+      "summary": "撩耳仔點解會上癮？醫生揭大腦存獎勵機制：過度刺激恐可致癌&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxOc1RZcTl1U09TRjd4SW9OLU5xd1plN1VZQlIyQlREQXBQYmR3NkxfUlZ6eDFLZ0Q5MjF3YU5qS2pTR2JYRGhfZ2JsSGNiamF1Y0wtT01BQUgtVlZtUUdOY0tMRVlwOGYxZ1BreWVtSjVyVk5mTWF5WUFaakVWMnBhTUFHQnUzc1Y1cDlJaV91eUJxNzBwQmdjWHR3RjdnUzBWX0loekpGNHp0aFRWQzRTbC02RkZjcTZhS3F3MVRDbG9SRDl3NlhCRVo4NDVsTnVDQmNTVGRGeHgxS1pONTdKZTVNYi0tdlYtbHc3VG1lcjg1aVdRV0o5NHpjNlJEcHpNWEM1WTZiTlNiVDBxdVI0Nm9tTlFqWXpoVUZSLVFrejl5N01HaUhaU1dhVEs1TnJjVDJDcUNuOWNXSUw4Zml5RFViVmRWaS1DUnE5YklUcFl1dzhEOUs0VEVLNGFLeWpBZ3VpeFpsblh6OUlZUGRhSGtGeDE1U2VDS2JHYzV4MDlkTnZfUi1pS2R6T2tLUmVPa2Z0RDYzUmE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "d23696bc8287",
       "title": "期刊證實「瘦瘦針」不只減重 婦科名醫黃元熙：可揪出女人身上2大魔王",
       "published": "2026-06-18T04:25:38+00:00",
@@ -808,27 +821,14 @@
       "matched_keywords": []
     },
     {
-      "id": "4a6b935287af",
+      "id": "033eb3bfc597",
       "title": "保健品｜打開supplement後乾燥劑不丟棄 恐影響品質 營養師教3招開封後正確保存",
       "published": "2026-06-18T01:00:00+00:00",
-      "summary": "保健品｜打開supplement後乾燥劑不丟棄 恐影響品質 營養師教3招開封後正確保存&nbsp;&nbsp;am730",
+      "summary": "保健品｜打開supplement後乾燥劑不丟棄 恐影響品質 營養師教3招開封後正確保存&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YR21BUkl3WmdISlp6ckwyMXVxbmRPUVU2VnY3VXVCam9OLXRsRWZ6WUpYdWZ2MjA0TzBMSk5TdHFxYzR0ZmZiWEJvUkVaTjg3NXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "89fa0b68e485",
-      "title": "撩耳仔點解會上癮？醫生揭大腦存獎勵機制：過度刺激恐可致癌",
-      "published": "2026-06-18T00:00:47+00:00",
-      "summary": "撩耳仔點解會上癮？醫生揭大腦存獎勵機制：過度刺激恐可致癌&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxOc1RZcTl1U09TRjd4SW9OLU5xd1plN1VZQlIyQlREQXBQYmR3NkxfUlZ6eDFLZ0Q5MjF3YU5qS2pTR2JYRGhfZ2JsSGNiamF1Y0wtT01BQUgtVlZtUUdOY0tMRVlwOGYxZ1BreWVtSjVyVk5mTWF5WUFaakVWMnBhTUFHQnUzc1Y1cDlJaV91eUJxNzBwQmdjWHR3RjdnUzBWX0loekpGNHp0aFRWQzRTbC02RkZjcTZhS3F3MVRDbG9SRDl3NlhCRVo4NDVsTnVDQmNTVGRGeHgxS1pONTdKZTVNYi0tdlYtbHc3VG1lcjg1aVdRV0o5NHpjNlJEcHpNWEM1WTZiTlNiVDBxdVI0Nm9tTlFqWXpoVUZSLVFrejl5N01HaUhaU1dhVEs1TnJjVDJDcUNuOWNXSUw4Zml5RFViVmRWaS1DUnE5YklUcFl1dzhEOUs0VEVLNGFLeWpBZ3VpeFpsblh6OUlZUGRhSGtGeDE1U2VDS2JHYzV4MDlkTnZfUi1pS2R6T2tLUmVPa2Z0RDYzUmE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -858,44 +858,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "8c8183f6092a",
-      "title": "Google「放蚊」計劃以蚊制蚊 疑在加州釋放3200萬隻「好蚊」控制傳播疾病蚊群",
-      "published": "2026-06-17T21:29:06+00:00",
-      "summary": "Google「放蚊」計劃以蚊制蚊 疑在加州釋放3200萬隻「好蚊」控制傳播疾病蚊群&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUm5ka2NqMnpiT09naldZLXphbTVRU0VjQ2FVX2pmNmlsc2tXcTZzUkxwZHhHVnNBN2w3U055RDJWaGEtU2ZrUWhWbEdyNUdDY3ZHZF9vTUlfaVZZYlVKT1l1Q1NOSlNSSmU3Z1VLSHBvRG1jNG02SmVraU5oOXpwX1hkNGpZUG5XM0ViTFpGMTVCMXpld0JJQzRIY1ZrYXQwYWVmSmJOYlF1SlYyOXM4OEZBQnlJaDlNckJCa1hDUEtEX3hGUFlhazJ4ZTlCSllpNGFiTko3cS1RakNuaUwtbFhDTmVCejNLRTRfWlZOREpBZGZQZ3JxaEFIY1Nnd3NCWTRyS1NZejY2VVVtbW5BaEI2N2xrUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1fba98f4f00a",
-      "title": "研究曝血液缺「1元素」增腸癌風險！醫警告：補過量恐中毒",
-      "published": "2026-06-17T20:00:00+00:00",
-      "summary": "研究曝血液缺「1元素」增腸癌風險！醫警告：補過量恐中毒&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvZENJeTVmUkpkbWVJdDdiZjNvc01JQ3VPcUNFdGw3WVR0UXdRNGx2TVBUYUt5c3UxakQ1ODlISTczSkNad1R4Y3NrcmI4bmYy?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

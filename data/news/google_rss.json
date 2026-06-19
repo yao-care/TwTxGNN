@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-19T21:01:33.847870+00:00",
-  "count": 18,
+  "fetched_at": "2026-06-19T22:44:09.548999+00:00",
+  "count": 16,
   "news": [
-    {
-      "id": "4884fbb4deee",
-      "title": "不是喝水！早上「1動作」穩血糖、減體脂 進食衝動也下降 - 祝你健康",
-      "published": "2026-06-19T09:26:56+00:00",
-      "summary": "不是喝水！早上「1動作」穩血糖、減體脂 進食衝動也下降&nbsp;&nbsp;祝你健康",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11NDYtM2tYbXdHMnZ5bjd4VzJIajYxQkxXellFQjFqS3pVM1RTbkJsQ3ROdVlsT2hXY3JaU3ZUY2ZLT2VkTWlHRDZsUEk?oc=5"
-        }
-      ]
-    },
     {
       "id": "a76aebcd3818",
       "title": "英國研究證實HPV疫苗成效顯著三十歲以下女性子宮頸癌死亡率趨近於零 - GeneOnline News",
@@ -24,6 +12,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOcTZyS0tKa1BKeXN1QzhBTlFxVVRDdmpndGZiczhaSHVDZzJhY25SaHJZUlJaZ19yWVV5RzZqMTEtNXA4eG9aSU9oaDN1eENWYk9rSXZOWmFSRFhSMm5QYnk4QmlSTDBybV9HNF94ZlJGOTJlZ0hxQmI0Yl9uR3pfYUFRQTZvYnA2Z3NmOVBBUWVUQWU2ekhqWGhxS1VFTTc5SWEwRU1QLUVBLVpXNDBUNEJ0U2RBR0NWRGtXeGs1VGZQMkxSRExEaWswcWxDQnl2QlNNc1VyY3l5MjRQTHp5R2lRdE9OZXJ3eHAxOTI3R2ZkUU80RE54aGxjbGNWX3NUN0FBUVUxdUttaHN6Ukk3OXVuaDJ5Y2xWUUpXS0Y5S3RIX01zRzdfS3R6MVFMbU5PZEFDWnp4bHktZE1IMGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4884fbb4deee",
+      "title": "不是喝水！早上「1動作」穩血糖、減體脂 進食衝動也下降 - 祝你健康",
+      "published": "2026-06-19T09:26:56+00:00",
+      "summary": "不是喝水！早上「1動作」穩血糖、減體脂 進食衝動也下降&nbsp;&nbsp;祝你健康",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11NDYtM2tYbXdHMnZ5bjd4VzJIajYxQkxXellFQjFqS3pVM1RTbkJsQ3ROdVlsT2hXY3JaU3ZUY2ZLT2VkTWlHRDZsUEk?oc=5"
         }
       ]
     },
@@ -100,18 +100,6 @@
       ]
     },
     {
-      "id": "1fba98f4f00a",
-      "title": "研究曝血液缺「1元素」增腸癌風險！醫警告：補過量恐中毒 - TVBS新聞網",
-      "published": "2026-06-17T20:00:00+00:00",
-      "summary": "研究曝血液缺「1元素」增腸癌風險！醫警告：補過量恐中毒&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvZENJeTVmUkpkbWVJdDdiZjNvc01JQ3VPcUNFdGw3WVR0UXdRNGx2TVBUYUt5c3UxakQ1ODlISTczSkNad1R4Y3NrcmI4bmYy?oc=5"
-        }
-      ]
-    },
-    {
       "id": "968521fb4fa4",
       "title": "研究：中年維生素D水平 或影響未來大腦健康 - 大纪元",
       "published": "2026-06-18T17:00:00+00:00",
@@ -132,18 +120,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPLWVOczctbFVKZk44cmlOWDV3TWhNS19MYnZDSkVhdGMtV3N3STBsTkhNWUVOZ01PNFBpNmhZdks5Q0w0UzNoNzBiTEpzTWd0TjliV21pcG1PNHI5dmFBeDFXLWxtRGhldHdLT2RGXzBadmlSWTNtT2NveUU0dUpHakZIaTJoLVl3WllBbmVILURMczUxZWpKZXl5cUpnOGUxbGpiZG55Z0pvcmd0UmE4WWVyMzVFMVdtQ0VTdHNPYzNIVWRTcnU2YURGVG40TUtseV9VVU43d05iWkx6b0ZkTHhIV1hYRFB0RDdUMC12Y2wzMi15WGVXUjlma01TQmN0b2Q0dGdnRHhZUWR3WExsZzhLbDBtYkVYWFFtejA3UHFoX3NCMWlpYld0Nm5tM3FUclZmei1yMVZQZ2l2QjNwTnJQOGtmLVZMMHhURkVMOTJ2c09jNVNXUVpURFdsMWNLbk5NVjU3eUVVbXRwTnNaVTN4UmxHWDdmMkxLWkZZYS1nTkdBZUswbFpacW1FbnZWMjUxcklrRl92ckY1RUZmS3ZyWS1VNlU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "49edc28817ca",
-      "title": "芒果配「1食物」秒變熱量炸彈！營養師公開3大妙法平衡血糖 糖尿病患者都可以食? - singtao.ca",
-      "published": "2026-06-17T22:45:27+00:00",
-      "summary": "芒果配「1食物」秒變熱量炸彈！營養師公開3大妙法平衡血糖 糖尿病患者都可以食?&nbsp;&nbsp;singtao.ca",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxQOE5UNThnYTRkbmxjRk4wMExreDlHUFJIdUx6UVJxNm5QYUJhNjUwb3BhUjYwNXE3ZFc5OXpuR2w3UEsxc2ZpV1VfQTVPV20zamMzenV6Q2d1bGtiRDVrejBBaGt6bC0zOWpPdGlWa0pxRWk5T2lCOGdVZFNsSjdrU25lU21TMzliWk9tZjExdGFOLVpHRUxfU0p0b3FXTmd6Wm1LcXhvWnJhZXJlN3E5UDhQNEFMemhXVU8yZDlIQkN4Yndwbk84ek5QRG5tMzdwRHNKdVU1bnVzcnRNd25UTDVzek0xVmcwZGM5VFZBdktBMWx6b1FZY1d5YzRVeUw0dGVkaTRZc25RcGdraUZQMXpvbmlhU1VGZGhkcVFfcU5Uc1BHZ2EwM1AzUDNSaWdXWEh3WXFNMU9RblZiLUczSEVCQmZKaGZsWVFFSEV4LUR3U0RkaF9ZSGl1ckltZm1tQ0FsV1pfR3VfTXlfcmdLeXJ1eDJTS3RWU2YtWmY0WXp5Rk1jQmtLVUlCTmU3NzVQR3lQTnZsc3RVYXM1cHBuUWY0WWFBT01OVlFhQkhZTl9qX0g1OTJCNXc3Yi1XRldhTEtlb3J2ZGF6ckJzYnZZMjBQVTdQMmJXcFdPNTY2dEp3clhVM2d1Wi14d3pndzJYNDh5a0xBOC15VDVtYXVxa014Qm9yd0R3cmow0gGSAUFVX3lxTFBXRUpxcjAxdS03YjB1ZUcydmd1RFZGaV90cVQ1TTlnTU14SWZHTHdlZllOTTktUFdRY1JySHRWVGdEYlpiTEVYZS02V3g4R3JsaExmQkFueHROX0dYeEhrRGJrV3pqVWtlajZSMlBuU3A1cDRid3hISmFoUm1lT1dpWS01Z1dDMFc5VXBnVkxVbGpR?oc=5"
         }
       ]
     },
@@ -172,13 +148,13 @@
       ]
     },
     {
-      "id": "4a6b935287af",
-      "title": "保健品｜打開supplement後乾燥劑不丟棄 恐影響品質 營養師教3招開封後正確保存 - am730",
+      "id": "033eb3bfc597",
+      "title": "保健品｜打開supplement後乾燥劑不丟棄 恐影響品質 營養師教3招開封後正確保存 - AM730",
       "published": "2026-06-18T01:00:00+00:00",
-      "summary": "保健品｜打開supplement後乾燥劑不丟棄 恐影響品質 營養師教3招開封後正確保存&nbsp;&nbsp;am730",
+      "summary": "保健品｜打開supplement後乾燥劑不丟棄 恐影響品質 營養師教3招開封後正確保存&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YR21BUkl3WmdISlp6ckwyMXVxbmRPUVU2VnY3VXVCam9OLXRsRWZ6WUpYdWZ2MjA0TzBMSk5TdHFxYzR0ZmZiWEJvUkVaTjg3NXc?oc=5"
         }
       ]
@@ -186,12 +162,24 @@
     {
       "id": "89fa0b68e485",
       "title": "撩耳仔點解會上癮？醫生揭大腦存獎勵機制：過度刺激恐可致癌 - 香港01",
-      "published": "2026-06-18T00:00:47+00:00",
+      "published": "2026-06-18T16:51:12+00:00",
       "summary": "撩耳仔點解會上癮？醫生揭大腦存獎勵機制：過度刺激恐可致癌&nbsp;&nbsp;香港01",
       "sources": [
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxOc1RZcTl1U09TRjd4SW9OLU5xd1plN1VZQlIyQlREQXBQYmR3NkxfUlZ6eDFLZ0Q5MjF3YU5qS2pTR2JYRGhfZ2JsSGNiamF1Y0wtT01BQUgtVlZtUUdOY0tMRVlwOGYxZ1BreWVtSjVyVk5mTWF5WUFaakVWMnBhTUFHQnUzc1Y1cDlJaV91eUJxNzBwQmdjWHR3RjdnUzBWX0loekpGNHp0aFRWQzRTbC02RkZjcTZhS3F3MVRDbG9SRDl3NlhCRVo4NDVsTnVDQmNTVGRGeHgxS1pONTdKZTVNYi0tdlYtbHc3VG1lcjg1aVdRV0o5NHpjNlJEcHpNWEM1WTZiTlNiVDBxdVI0Nm9tTlFqWXpoVUZSLVFrejl5N01HaUhaU1dhVEs1TnJjVDJDcUNuOWNXSUw4Zml5RFViVmRWaS1DUnE5YklUcFl1dzhEOUs0VEVLNGFLeWpBZ3VpeFpsblh6OUlZUGRhSGtGeDE1U2VDS2JHYzV4MDlkTnZfUi1pS2R6T2tLUmVPa2Z0RDYzUmE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "49edc28817ca",
+      "title": "芒果配「1食物」秒變熱量炸彈！營養師公開3大妙法平衡血糖 糖尿病患者都可以食? - singtao.ca",
+      "published": "2026-06-17T22:45:27+00:00",
+      "summary": "芒果配「1食物」秒變熱量炸彈！營養師公開3大妙法平衡血糖 糖尿病患者都可以食?&nbsp;&nbsp;singtao.ca",
+      "sources": [
+        {
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxQOE5UNThnYTRkbmxjRk4wMExreDlHUFJIdUx6UVJxNm5QYUJhNjUwb3BhUjYwNXE3ZFc5OXpuR2w3UEsxc2ZpV1VfQTVPV20zamMzenV6Q2d1bGtiRDVrejBBaGt6bC0zOWpPdGlWa0pxRWk5T2lCOGdVZFNsSjdrU25lU21TMzliWk9tZjExdGFOLVpHRUxfU0p0b3FXTmd6Wm1LcXhvWnJhZXJlN3E5UDhQNEFMemhXVU8yZDlIQkN4Yndwbk84ek5QRG5tMzdwRHNKdVU1bnVzcnRNd25UTDVzek0xVmcwZGM5VFZBdktBMWx6b1FZY1d5YzRVeUw0dGVkaTRZc25RcGdraUZQMXpvbmlhU1VGZGhkcVFfcU5Uc1BHZ2EwM1AzUDNSaWdXWEh3WXFNMU9RblZiLUczSEVCQmZKaGZsWVFFSEV4LUR3U0RkaF9ZSGl1ckltZm1tQ0FsV1pfR3VfTXlfcmdLeXJ1eDJTS3RWU2YtWmY0WXp5Rk1jQmtLVUlCTmU3NzVQR3lQTnZsc3RVYXM1cHBuUWY0WWFBT01OVlFhQkhZTl9qX0g1OTJCNXc3Yi1XRldhTEtlb3J2ZGF6ckJzYnZZMjBQVTdQMmJXcFdPNTY2dEp3clhVM2d1Wi14d3pndzJYNDh5a0xBOC15VDVtYXVxa014Qm9yd0R3cmow0gGSAUFVX3lxTFBXRUpxcjAxdS03YjB1ZUcydmd1RFZGaV90cVQ1TTlnTU14SWZHTHdlZllOTTktUFdRY1JySHRWVGdEYlpiTEVYZS02V3g4R3JsaExmQkFueHROX0dYeEhrRGJrV3pqVWtlajZSMlBuU3A1cDRid3hISmFoUm1lT1dpWS01Z1dDMFc5VXBnVkxVbGpR?oc=5"
         }
       ]
     },
@@ -204,18 +192,6 @@
         {
           "name": "信報網站",
           "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNeHFHWUVqNjdZbnlEaThwWW5rYmlSbEtYR0lHM3dKdHZGOWw5WXJ4ZjI0cVRHWXhDY0FRT1BPd2R2V2dDSnNQVDJLOElsWElWYUZHOXpZMm4wQVlKdUMxcVoweUUxLTJjdFlJVWprbElNVnpBSDNwbGpmMnB6VmttbTZtRW5qM1VnbGJVbFExS1RuZWJFWHZFR0xRdTdjZldwZTdaRG13dWdtVkxTZkJyWWtyZjJURDcydW90TUpHTjI1T0t0Sm1ZRTR3Y0xUeVM5bnFLZGRPY2dlUHZqUUdWNUhTcjkxaVlWSHhBMmtMYl9mOXpxU2UyUkVweG1IRFVjdlVRZXJGejE3OXpwUFlsS01sZUdYdjlCU2xzMVQ5Wnd1WUdZRktKajB0UUUwRFlLOFh2Q0pDOEVGRFVSTlVVTFVBNDJfTUdsaktNVFlUN09RekF6YmdNT2dvSllUWmpoY1hrdFowWE9iaUh2LWxfQWtMOHJ5bXduT1pvRGZhMkpENElxRk1yREppdk8zLW1IRWU3NmEzbEVJWU54?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8c8183f6092a",
-      "title": "Google「放蚊」計劃以蚊制蚊 疑在加州釋放3200萬隻「好蚊」控制傳播疾病蚊群 - Singtaousa",
-      "published": "2026-06-17T21:29:06+00:00",
-      "summary": "Google「放蚊」計劃以蚊制蚊 疑在加州釋放3200萬隻「好蚊」控制傳播疾病蚊群&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUm5ka2NqMnpiT09naldZLXphbTVRU0VjQ2FVX2pmNmlsc2tXcTZzUkxwZHhHVnNBN2w3U055RDJWaGEtU2ZrUWhWbEdyNUdDY3ZHZF9vTUlfaVZZYlVKT1l1Q1NOSlNSSmU3Z1VLSHBvRG1jNG02SmVraU5oOXpwX1hkNGpZUG5XM0ViTFpGMTVCMXpld0JJQzRIY1ZrYXQwYWVmSmJOYlF1SlYyOXM4OEZBQnlJaDlNckJCa1hDUEtEX3hGUFlhazJ4ZTlCSllpNGFiTko3cS1RakNuaUwtbFhDTmVCejNLRTRfWlZOREpBZGZQZ3JxaEFIY1Nnd3NCWTRyS1NZejY2VVVtbW5BaEI2N2xrUQ?oc=5"
         }
       ]
     }

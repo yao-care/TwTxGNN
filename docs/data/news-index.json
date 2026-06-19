@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T21:01:38.529680+00:00",
-  "count": 4,
+  "generated": "2026-06-19T22:44:12.527778+00:00",
+  "count": 3,
   "news": [
     {
       "id": "8e7716432c97",
@@ -681,30 +681,6 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1fba98f4f00a",
-      "title": "研究曝血液缺「1元素」增腸癌風險！醫警告：補過量恐中毒",
-      "published": "2026-06-17T20:00:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvZENJeTVmUkpkbWVJdDdiZjNvc01JQ3VPcUNFdGw3WVR0UXdRNGx2TVBUYUt5c3UxakQ1ODlISTczSkNad1R4Y3NrcmI4bmYy?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
             }
           ]
         }
