@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-06-19T15:56:08.566050+00:00",
-  "total_count": 17,
+  "last_updated": "2026-06-19T17:50:03.312456+00:00",
+  "total_count": 18,
   "matched_count": 4,
   "news": [
+    {
+      "id": "681905a4203c",
+      "title": "全球首宗 HIV 陽性對 HIV 陽性雙肺及肝臟移植手術在美國成功完成 - Techritual Hong Kong",
+      "published": "2026-06-19T16:01:50+00:00",
+      "summary": "全球首宗 HIV 陽性對 HIV 陽性雙肺及肝臟移植手術在美國成功完成&nbsp;&nbsp;Techritual Hong Kong",
+      "sources": [
+        {
+          "name": "Techritual Hong Kong",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FNkI2aHk0OUl3Slp6dEJfMFZ4S1NGak9lcmtORUtWT19lYkk3WUo2dEZ3UWoyN0dZVHd4elhnQUxwbFhFaEVfQS1Meng3NWVWVkd0bkxHM2o?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "dbcdd1199bea",
       "title": "醫學新突破！美實驗性心臟新藥 驚喜發現能「修復腎臟」",
@@ -17,14 +30,14 @@
       "matched_keywords": []
     },
     {
-      "id": "abd19542df11",
+      "id": "4884fbb4deee",
       "title": "不是喝水！早上「1動作」穩血糖、減體脂 進食衝動也下降",
-      "published": "2026-06-19T09:30:00+00:00",
-      "summary": "不是喝水！早上「1動作」穩血糖、減體脂 進食衝動也下降&nbsp;&nbsp;Yahoo新聞",
+      "published": "2026-06-19T09:26:56+00:00",
+      "summary": "不是喝水！早上「1動作」穩血糖、減體脂 進食衝動也下降&nbsp;&nbsp;祝你健康",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZnpfSkNrNjBBcjRWMmFfSm16eHIzbmxVbHpmaWthdnhJQ0JxTmJ4T0VXWkd3LWdYbmEtbDRnZTN6ZXYtVllneVViZF82NG1mNjFvaUJadDdoRFplZWNsOVBoWGZjQmZyWURtVDJFRl9paXdneE1WSnhEVmVCNXhtbHNGclM0cFhENUVqd2ZCM1UtZU5YQ1plODJTRmpiWGpwVmRyMHEyWFZ5TnNEeDVHQ2w2RENlTVN1a1lNQ0h4cDB3SFN2MkEwX19PN1E2d3FXU295YlpvX3hUOER3aEJPd0p5d2xxYzNMVVg4QkJjYjluSzVUQjlfcUpVZVg2aUJxbVE?oc=5"
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11NDYtM2tYbXdHMnZ5bjd4VzJIajYxQkxXellFQjFqS3pVM1RTbkJsQ3ROdVlsT2hXY3JaU3ZUY2ZLT2VkTWlHRDZsUEk?oc=5"
         }
       ],
       "matched_keywords": []
