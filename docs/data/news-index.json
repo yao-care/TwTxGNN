@@ -1,7 +1,35 @@
 {
-  "generated": "2026-06-18T23:43:58.716462+00:00",
-  "count": 3,
+  "generated": "2026-06-19T03:28:41.279449+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "c1dfa4e7c338",
+      "title": "肚子變大以為變胖？醫：恐是卵巢癌警訊 7症狀別輕忽",
+      "published": "2026-06-19T02:15:00+00:00",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QVVZKLWJXUDVQaWFsNDlicHNXTERUUTZXQnhTSXpSSTcwaVpRTHk0MElpSmVwZGF6a1hBN3hFVVBpRHhPay1iWHRiZHlMUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "卵巢癌",
+          "keyword": "卵巢癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2788ed88cedc",
       "title": "接種HPV疫苗的年輕女性子宮頸癌死亡率降至零",

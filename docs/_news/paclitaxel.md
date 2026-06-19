@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [肚子變大以為變胖？醫：恐是卵巢癌警訊 7症狀別輕忽](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QVVZKLWJXUDVQaWFsNDlicHNXTERUUTZXQnhTSXpSSTcwaVpRTHk0MElpSmVwZGF6a1hBN3hFVVBpRHhPay1iWHRiZHlMUQ?oc=5)
+
+2026-06-19 <span class="news-indication-tag">卵巢癌</span>
+
+來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QVVZKLWJXUDVQaWFsNDlicHNXTERUUTZXQnhTSXpSSTcwaVpRTHk0MElpSmVwZGF6a1hBN3hFVVBpRHhPay1iWHRiZHlMUQ?oc=5)
+
+---
 
 ### [接種HPV疫苗的年輕女性子宮頸癌死亡率降至零](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXQ3VaSHpUWkdhUlRoQ1lIQ2IxaWdtR0g0SFBxQ0xZMW03aVFkRGIzcndwWl9zQmJad1NoOEM4eVRJYjZORS13S3d4MFZlOVViX1JIQ1RhdFFuNE5tMlVwci1CTlp6UdIBa0FVX3lxTE94eVdONmdhcXZOaHhKMW9tUTRXSjJaWEt6R0d1d2k2dmdNREZjbEZZSlZ1VHJwVHQ4di1xTFltejBNNWE1eXczVExMNWJSaEVfZGtGNlhhay1yOVpfSVMwNnVHQTVmSDVwaFh3?oc=5)
 

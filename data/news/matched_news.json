@@ -1,8 +1,37 @@
 {
-  "last_updated": "2026-06-18T23:43:58.687484+00:00",
+  "last_updated": "2026-06-19T03:28:41.250954+00:00",
   "total_count": 13,
-  "matched_count": 3,
+  "matched_count": 4,
   "news": [
+    {
+      "id": "c1dfa4e7c338",
+      "title": "肚子變大以為變胖？醫：恐是卵巢癌警訊 7症狀別輕忽",
+      "published": "2026-06-19T02:15:00+00:00",
+      "summary": "肚子變大以為變胖？醫：恐是卵巢癌警訊 7症狀別輕忽&nbsp;&nbsp;TVBS新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QVVZKLWJXUDVQaWFsNDlicHNXTERUUTZXQnhTSXpSSTcwaVpRTHk0MElpSmVwZGF6a1hBN3hFVVBpRHhPay1iWHRiZHlMUQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "卵巢癌",
+          "keyword": "卵巢癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1dd06d3ff2c7",
       "title": "南加州發現西尼羅病毒 CDC：每年超過130人因此死亡",
@@ -191,19 +220,6 @@
         {
           "name": "EJ Tech",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU29LYUtlcF92a19LZHo5bzBPV0w0WDJWck1aRXhEYmlJZzRfbEd0azltSXBYVUU1cllNZnNHTjRUdklINHlUNzNscjQteUkydmpmelpPQVVQYXVKQkVxWndrTzZqQ1FPYjVTZEVvaWFiX1o4TzVqN0ptb1I4U1dLNVN0eTdrcUFqMFFra3hkeE0ydkZLdEYwejdFd0JTQ0RMZW9KN1ZwMlZ2OG9jNlQ5d3VMdmRmNWdSOUlQU3c0c3ZHVlpfZ014WGs0RQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ca14206ae558",
-      "title": "修瓣不換瓣，上海援疆為南疆心臟外科打開一扇新門",
-      "published": "2026-06-17T02:50:00+00:00",
-      "summary": "修瓣不換瓣，上海援疆為南疆心臟外科打開一扇新門&nbsp;&nbsp;人民网-上海频道",
-      "sources": [
-        {
-          "name": "人民网-上海频道",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43VElheExkOGdGMlQ3cU14N0lrcTNzbmR4UFdYSjRMV2RMcld3bEdHUUsxeDZMYS1URDhnZHBIbl9iUkVTZ1pGM2Rmd0ZoaVF1Tk5TcElYNTJ3ZTlZUkpSOEdhd0w2SWlqUzZBSjdlWWY?oc=5"
         }
       ],
       "matched_keywords": []

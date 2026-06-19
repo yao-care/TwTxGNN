@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-18T23:43:54.721242+00:00",
+  "fetched_at": "2026-06-19T03:28:37.875685+00:00",
   "count": 13,
   "news": [
-    {
-      "id": "2788ed88cedc",
-      "title": "接種HPV疫苗的年輕女性子宮頸癌死亡率降至零 - BBC",
-      "published": "2026-06-18T10:14:24+00:00",
-      "summary": "接種HPV疫苗的年輕女性子宮頸癌死亡率降至零&nbsp;&nbsp;BBC前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXQ3VaSHpUWkdhUlRoQ1lIQ2IxaWdtR0g0SFBxQ0xZMW03aVFkRGIzcndwWl9zQmJad1NoOEM4eVRJYjZORS13S3d4MFZlOVViX1JIQ1RhdFFuNE5tMlVwci1CTlp6UdIBa0FVX3lxTE94eVdONmdhcXZOaHhKMW9tUTRXSjJaWEt6R0d1d2k2dmdNREZjbEZZSlZ1VHJwVHQ4di1xTFltejBNNWE1eXczVExMNWJSaEVfZGtGNlhhay1yOVpfSVMwNnVHQTVmSDVwaFh3?oc=5"
-        }
-      ]
-    },
     {
       "id": "5a5b31797c2e",
       "title": "愛心醫生教您2026年如何預防糖尿病 從篩查前移到主動預警 - 蕃新聞",
@@ -28,14 +16,26 @@
       ]
     },
     {
-      "id": "ca14206ae558",
-      "title": "修瓣不換瓣，上海援疆為南疆心臟外科打開一扇新門 - 人民网-上海频道",
-      "published": "2026-06-17T02:50:00+00:00",
-      "summary": "修瓣不換瓣，上海援疆為南疆心臟外科打開一扇新門&nbsp;&nbsp;人民网-上海频道",
+      "id": "2788ed88cedc",
+      "title": "接種HPV疫苗的年輕女性子宮頸癌死亡率降至零 - BBC",
+      "published": "2026-06-18T10:14:24+00:00",
+      "summary": "接種HPV疫苗的年輕女性子宮頸癌死亡率降至零&nbsp;&nbsp;BBC前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "人民网-上海频道",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43VElheExkOGdGMlQ3cU14N0lrcTNzbmR4UFdYSjRMV2RMcld3bEdHUUsxeDZMYS1URDhnZHBIbl9iUkVTZ1pGM2Rmd0ZoaVF1Tk5TcElYNTJ3ZTlZUkpSOEdhd0w2SWlqUzZBSjdlWWY?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXQ3VaSHpUWkdhUlRoQ1lIQ2IxaWdtR0g0SFBxQ0xZMW03aVFkRGIzcndwWl9zQmJad1NoOEM4eVRJYjZORS13S3d4MFZlOVViX1JIQ1RhdFFuNE5tMlVwci1CTlp6UdIBa0FVX3lxTE94eVdONmdhcXZOaHhKMW9tUTRXSjJaWEt6R0d1d2k2dmdNREZjbEZZSlZ1VHJwVHQ4di1xTFltejBNNWE1eXczVExMNWJSaEVfZGtGNlhhay1yOVpfSVMwNnVHQTVmSDVwaFh3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c1dfa4e7c338",
+      "title": "肚子變大以為變胖？醫：恐是卵巢癌警訊 7症狀別輕忽 - TVBS新聞網",
+      "published": "2026-06-19T02:15:00+00:00",
+      "summary": "肚子變大以為變胖？醫：恐是卵巢癌警訊 7症狀別輕忽&nbsp;&nbsp;TVBS新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QVVZKLWJXUDVQaWFsNDlicHNXTERUUTZXQnhTSXpSSTcwaVpRTHk0MElpSmVwZGF6a1hBN3hFVVBpRHhPay1iWHRiZHlMUQ?oc=5"
         }
       ]
     },
