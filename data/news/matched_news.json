@@ -1,8 +1,86 @@
 {
-  "last_updated": "2026-06-20T13:29:47.505967+00:00",
-  "total_count": 15,
-  "matched_count": 4,
+  "last_updated": "2026-06-20T15:28:57.597534+00:00",
+  "total_count": 17,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "78a16d301f7c",
+      "title": "高齡試管孕婦確診乳癌 孕期手術產後化療保母嬰",
+      "published": "2026-06-20T14:00:00+00:00",
+      "summary": "高齡試管孕婦確診乳癌 孕期手術產後化療保母嬰&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZeWcxbWtsVzBrNXUxNWY1cmpUYTgzQk9NQi1IRXR6SzhaaVFrb1JvRUxCMjdVQlMtVWFLSzM2WjItb3hCWWllSzF0V2J0b3BwdFpDSTVPMG5xajdDWlN2TNIBZkFVX3lxTE9Ba2hIZEluQVBPb0E3OEVSUGcyWm9XTzJJXzdUUHFfWFN6ZXIydVJqdnJscktieURLT1pWakhCcnNmTE9xYVF1eVBwYWhYQXVjQU1Hd1RFbW43a0hqbVdBeWZad1NXdw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "667deefbf257",
+      "title": "免費網上健康講座 介紹骨質疏鬆症防治",
+      "published": "2026-06-20T13:00:00+00:00",
+      "summary": "免費網上健康講座 介紹骨質疏鬆症防治&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG9vUDJWVERJdnctNnh3SGpzWlQ4S3F5RWE4dUxhWVJsQl9QR1dySVVkYkh0MFlJd2xiTEdLa3ZaQjJReWxOeHB0c2NNUzVMbll4SzFWNHh0RU56cEN3U0I5UFptNWJid2VUc3R0VGFvbjIwQXgyRmM2bFdmZTMxVW9JMVR2TXVVSTFwbFNsYk0?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "骨質疏鬆症",
+          "keyword": "骨質疏鬆症",
+          "related_drugs": [
+            {
+              "slug": "alfacalcidol",
+              "name": "Alfacalcidol"
+            },
+            {
+              "slug": "denosumab",
+              "name": "Denosumab"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "34f8bd37ec43",
       "title": "肥胖增罹乳癌風險 「控肉」新寵瘦瘦針神助攻？減重逆轉待驗證",
@@ -300,10 +378,10 @@
       "matched_keywords": []
     },
     {
-      "id": "dd02a71b1209",
-      "title": "不是喝水！早上「1動作」穩血糖、減體脂進食衝動也下降| 祝你健康| 三立新聞網HEALTH.SETN.COM",
+      "id": "f741a0931440",
+      "title": "不是喝水！早上「1動作」穩血糖、減體脂 進食衝動也下降",
       "published": "2026-06-19T09:26:56+00:00",
-      "summary": "不是喝水！早上「1動作」穩血糖、減體脂進食衝動也下降| 祝你健康| 三立新聞網HEALTH.SETN.COM&nbsp;&nbsp;三立娛樂星聞不是喝水！早上「1動作」穩血糖、減體脂 進食衝動也下降&nbsp;&nbsp;祝你健康晨光天然減肥藥 助控食慾穩血糖 | 中華日報&nbsp;&nbsp;LINE TODAY早上1動作減食慾、穩血糖醫：很多人都閃掉了- 健康&nbsp;&nbsp;中時新聞網不是喝水！早上1動作穩血糖、減體脂 加碼坐著踮腳尖血糖降52％&nbsp;&nbsp;NOWnews今日新聞",
+      "summary": "不是喝水！早上「1動作」穩血糖、減體脂 進食衝動也下降&nbsp;&nbsp;三立娛樂星聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "三立娛樂星聞",
