@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T11:08:46.040907+00:00",
-  "count": 5,
+  "generated": "2026-06-20T13:29:47.537233+00:00",
+  "count": 4,
   "news": [
     {
       "id": "34f8bd37ec43",
@@ -240,34 +240,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "02cb86958114",
-      "title": "天天吃卻不知！9萬人研究發現 常吃海藻 中風死亡風險降3成",
-      "published": "2026-06-20T06:55:43+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XSjJLdUV4bzI0bno4eEdVZkFOdS1TVUdBYWM3VURfWlQ5NV9iWlBvZ2hpZ3VLdnVLeUZUajV2c2NHcExhclNDNXdUX1VDVDRkS3U3ZXpBVEhIU1haU3BmbzAydEd1aE1jSzJ3aXpn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }
