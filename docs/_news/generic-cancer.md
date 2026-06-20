@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "腫瘤（generic_cancer） 相關新聞"
+title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "腫瘤（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
-# 腫瘤（generic_cancer） 相關新聞
+# 癌症（generic_cancer） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="腫瘤（generic_cancer） 有什麼相關新聞？">
-<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「腫瘤」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「癌症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,7 +75,15 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [肥胖增罹乳癌風險 「控肉」新寵瘦瘦針神助攻？減重逆轉待驗證](https://news.google.com/rss/articles/CBMie0FVX3lxTE91ZDllQkRrdlJWVXNpem9obDNvMkp2bmhVSkUyT1lYdGx1YmUtbHZia3p3THg3VF84aGFiOU5nN3dTb0JXVGxWc0VPa0ZUMDFEcXgwUE9uaGF2NWNQWnU1Tk1SbmRzSlBaNGl1bGJ2aXNEQlZCbDdJR04ybw?oc=5)
+
+2026-06-20
+
+來源：[UDN](https://news.google.com/rss/articles/CBMie0FVX3lxTE91ZDllQkRrdlJWVXNpem9obDNvMkp2bmhVSkUyT1lYdGx1YmUtbHZia3p3THg3VF84aGFiOU5nN3dTb0JXVGxWc0VPa0ZUMDFEcXgwUE9uaGF2NWNQWnU1Tk1SbmRzSlBaNGl1bGJ2aXNEQlZCbDdJR04ybw?oc=5)
+
+---
 
 ### [惡性腫瘤安靜到致命 50歲女脹氣吃藥沒效 一查卵巢癌了](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHVlcmZFM2diV1IxMHNQXzFtZ21qYVBhMkJPQmFxY3FPUFBxb3ladUxHZzhwb2ZMX1FzN1oxSW44dnp2eEFDa1JkUUNGWEpHUjlKZzhkV3RFN2FILUFOODhkYTdjbjZfSVZPd1lMdDVDQ05neFJTSzdMRWpJdi1aR1paeHpUYkRicEk2ZExBMA?oc=5)
 
