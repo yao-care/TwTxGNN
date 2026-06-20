@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-20T17:16:19.180734+00:00",
-  "count": 17,
+  "fetched_at": "2026-06-20T19:10:33.123953+00:00",
+  "count": 15,
   "news": [
     {
       "id": "34f8bd37ec43",
@@ -136,18 +136,6 @@
       ]
     },
     {
-      "id": "5e09ac86684e",
-      "title": "12款紙包飲品熱量/糖份大比拼 1款檸檬茶含5粒糖 即睇邊款低糖低卡 - 星島頭條",
-      "published": "2026-06-19T08:00:00+00:00",
-      "summary": "12款紙包飲品熱量/糖份大比拼 1款檸檬茶含5粒糖 即睇邊款低糖低卡&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPLWVOczctbFVKZk44cmlOWDV3TWhNS19MYnZDSkVhdGMtV3N3STBsTkhNWUVOZ01PNFBpNmhZdks5Q0w0UzNoNzBiTEpzTWd0TjliV21pcG1PNHI5dmFBeDFXLWxtRGhldHdLT2RGXzBadmlSWTNtT2NveUU0dUpHakZIaTJoLVl3WllBbmVILURMczUxZWpKZXl5cUpnOGUxbGpiZG55Z0pvcmd0UmE4WWVyMzVFMVdtQ0VTdHNPYzNIVWRTcnU2YURGVG40TUtseV9VVU43d05iWkx6b0ZkTHhIV1hYRFB0RDdUMC12Y2wzMi15WGVXUjlma01TQmN0b2Q0dGdnRHhZUWR3WExsZzhLbDBtYkVYWFFtejA3UHFoX3NCMWlpYld0Nm5tM3FUclZmei1yMVZQZ2l2QjNwTnJQOGtmLVZMMHhURkVMOTJ2c09jNVNXUVpURFdsMWNLbk5NVjU3eUVVbXRwTnNaVTN4UmxHWDdmMkxLWkZZYS1nTkdBZUswbFpacW1FbnZWMjUxcklrRl92ckY1RUZmS3ZyWS1VNlU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "667deefbf257",
       "title": "免費網上健康講座 介紹骨質疏鬆症防治 - Singtaousa",
       "published": "2026-06-20T13:00:00+00:00",
@@ -156,6 +144,18 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG9vUDJWVERJdnctNnh3SGpzWlQ4S3F5RWE4dUxhWVJsQl9QR1dySVVkYkh0MFlJd2xiTEdLa3ZaQjJReWxOeHB0c2NNUzVMbll4SzFWNHh0RU56cEN3U0I5UFptNWJid2VUc3R0VGFvbjIwQXgyRmM2bFdmZTMxVW9JMVR2TXVVSTFwbFNsYk0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5e09ac86684e",
+      "title": "12款紙包飲品熱量/糖份大比拼 1款檸檬茶含5粒糖 即睇邊款低糖低卡 - 星島頭條",
+      "published": "2026-06-19T08:00:00+00:00",
+      "summary": "12款紙包飲品熱量/糖份大比拼 1款檸檬茶含5粒糖 即睇邊款低糖低卡&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPLWVOczctbFVKZk44cmlOWDV3TWhNS19MYnZDSkVhdGMtV3N3STBsTkhNWUVOZ01PNFBpNmhZdks5Q0w0UzNoNzBiTEpzTWd0TjliV21pcG1PNHI5dmFBeDFXLWxtRGhldHdLT2RGXzBadmlSWTNtT2NveUU0dUpHakZIaTJoLVl3WllBbmVILURMczUxZWpKZXl5cUpnOGUxbGpiZG55Z0pvcmd0UmE4WWVyMzVFMVdtQ0VTdHNPYzNIVWRTcnU2YURGVG40TUtseV9VVU43d05iWkx6b0ZkTHhIV1hYRFB0RDdUMC12Y2wzMi15WGVXUjlma01TQmN0b2Q0dGdnRHhZUWR3WExsZzhLbDBtYkVYWFFtejA3UHFoX3NCMWlpYld0Nm5tM3FUclZmei1yMVZQZ2l2QjNwTnJQOGtmLVZMMHhURkVMOTJ2c09jNVNXUVpURFdsMWNLbk5NVjU3eUVVbXRwTnNaVTN4UmxHWDdmMkxLWkZZYS1nTkdBZUswbFpacW1FbnZWMjUxcklrRl92ckY1RUZmS3ZyWS1VNlU?oc=5"
         }
       ]
     },
@@ -180,30 +180,6 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZko1T3d5dUE2NVlMdWdfdlR4dlEyZUU0ZjhhTGJTVVdMczktX0M2eTdka0hWdW9KdWNZczVfSHZ1WXhZdkVYam5xeHVSUnAxZGR0NHZQTU5XM2RyNjdkcWRoRXVrVGlxNWc5X05wT3A5N1ZyS3J1eWZ3SDllaHFHOWl2Rk9KcjVXZ3V0aVVwU0FRX1k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "968521fb4fa4",
-      "title": "研究：中年維生素D水平 或影響未來大腦健康 - 大纪元",
-      "published": "2026-06-18T17:00:00+00:00",
-      "summary": "研究：中年維生素D水平 或影響未來大腦健康&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BYzFqRTNRQkdzVHJBUGU4cE1XVmxmcGJuUVpqWGpCU0c2dy1lQ0R2bkNVTDlsN0FOWHJ0UVpVSmlGbDZfNFZIVldRcHlITzFqcm5OdGMtQTVkMHpLNjhr0gFkQVVfeXFMTklOdEdEbkVHa1Flb2FPTEpTbGpnZm1lX1VrOGVXdjFJV0NzTkRHOGJ1NGdVWjZGUUhLdGxZM0pGckVvQXBtLVRGUG15MWw5Z1h0bEZWR01PaTh4XzR6Zk84d25aSg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "89fa0b68e485",
-      "title": "撩耳仔點解會上癮？醫生揭大腦存獎勵機制：過度刺激恐可致癌 - 香港01",
-      "published": "2026-06-18T16:51:12+00:00",
-      "summary": "撩耳仔點解會上癮？醫生揭大腦存獎勵機制：過度刺激恐可致癌&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxOc1RZcTl1U09TRjd4SW9OLU5xd1plN1VZQlIyQlREQXBQYmR3NkxfUlZ6eDFLZ0Q5MjF3YU5qS2pTR2JYRGhfZ2JsSGNiamF1Y0wtT01BQUgtVlZtUUdOY0tMRVlwOGYxZ1BreWVtSjVyVk5mTWF5WUFaakVWMnBhTUFHQnUzc1Y1cDlJaV91eUJxNzBwQmdjWHR3RjdnUzBWX0loekpGNHp0aFRWQzRTbC02RkZjcTZhS3F3MVRDbG9SRDl3NlhCRVo4NDVsTnVDQmNTVGRGeHgxS1pONTdKZTVNYi0tdlYtbHc3VG1lcjg1aVdRV0o5NHpjNlJEcHpNWEM1WTZiTlNiVDBxdVI0Nm9tTlFqWXpoVUZSLVFrejl5N01HaUhaU1dhVEs1TnJjVDJDcUNuOWNXSUw4Zml5RFViVmRWaS1DUnE5YklUcFl1dzhEOUs0VEVLNGFLeWpBZ3VpeFpsblh6OUlZUGRhSGtGeDE1U2VDS2JHYzV4MDlkTnZfUi1pS2R6T2tLUmVPa2Z0RDYzUmE?oc=5"
         }
       ]
     }
