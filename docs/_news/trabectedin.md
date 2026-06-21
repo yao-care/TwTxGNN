@@ -14,7 +14,7 @@ permalink: /news/trabectedin/
 ---
 
 <p class="key-answer" data-question="Trabectedin 有什麼相關新聞？">
-<strong>Trabectedin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Trabectedin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,15 +27,29 @@ permalink: /news/trabectedin/
 <li><strong>原適應症</strong>：無法切除或轉移性脂肪肉瘤/平滑肌肉瘤</li>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（1 個）：<ul>
-<li>female breast carcinoma（99.7%）</li>
+<li class="indication-matched">female breast carcinoma（99.7%）<span class="indication-tag">📰 乳癌</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/trabectedin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [高齡試管孕婦確診乳癌 孕期手術產後化療保母嬰](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZeWcxbWtsVzBrNXUxNWY1cmpUYTgzQk9NQi1IRXR6SzhaaVFrb1JvRUxCMjdVQlMtVWFLSzM2WjItb3hCWWllSzF0V2J0b3BwdFpDSTVPMG5xajdDWlN2TNIBZkFVX3lxTE9Ba2hIZEluQVBPb0E3OEVSUGcyWm9XTzJJXzdUUHFfWFN6ZXIydVJqdnJscktieURLT1pWakhCcnNmTE9xYVF1eVBwYWhYQXVjQU1Hd1RFbW43a0hqbVdBeWZad1NXdw?oc=5)
+
+2026-06-20 <span class="news-indication-tag">乳癌</span>
+
+來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZeWcxbWtsVzBrNXUxNWY1cmpUYTgzQk9NQi1IRXR6SzhaaVFrb1JvRUxCMjdVQlMtVWFLSzM2WjItb3hCWWllSzF0V2J0b3BwdFpDSTVPMG5xajdDWlN2TNIBZkFVX3lxTE9Ba2hIZEluQVBPb0E3OEVSUGcyWm9XTzJJXzdUUHFfWFN6ZXIydVJqdnJscktieURLT1pWakhCcnNmTE9xYVF1eVBwYWhYQXVjQU1Hd1RFbW43a0hqbVdBeWZad1NXdw?oc=5)
+
+---
+
+### [肥胖增罹乳癌風險 「控肉」新寵瘦瘦針神助攻？減重逆轉待驗證](https://news.google.com/rss/articles/CBMidEFVX3lxTE9TMDNQTy1SQmctVDhCTjJjTklUemlTM3ZGSmFSR0l1akg5RTRXZUxLb2p6WW1FUnk2NUhpN1JCcXplYk1YazlXWHZhNVdaOWpqN1lUa1pHaEN0ei1JMjJPa0E0c0FNNDEwVG5ESXZWU2FuTG0x?oc=5)
+
+2026-06-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
+
+來源：[UDN](https://news.google.com/rss/articles/CBMidEFVX3lxTE9TMDNQTy1SQmctVDhCTjJjTklUemlTM3ZGSmFSR0l1akg5RTRXZUxLb2p6WW1FUnk2NUhpN1JCcXplYk1YazlXWHZhNVdaOWpqN1lUa1pHaEN0ei1JMjJPa0E0c0FNNDEwVG5ESXZWU2FuTG0x?oc=5)
+
+---
 
 
 <div class="disclaimer">

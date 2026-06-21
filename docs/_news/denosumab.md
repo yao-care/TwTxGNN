@@ -14,7 +14,7 @@ permalink: /news/denosumab/
 ---
 
 <p class="key-answer" data-question="Denosumab 有什麼相關新聞？">
-<strong>Denosumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Denosumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,9 +34,15 @@ permalink: /news/denosumab/
 <p><a href="{{ '/drugs/denosumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [免費網上健康講座 介紹骨質疏鬆症防治](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG9vUDJWVERJdnctNnh3SGpzWlQ4S3F5RWE4dUxhWVJsQl9QR1dySVVkYkh0MFlJd2xiTEdLa3ZaQjJReWxOeHB0c2NNUzVMbll4SzFWNHh0RU56cEN3U0I5UFptNWJid2VUc3R0VGFvbjIwQXgyRmM2bFdmZTMxVW9JMVR2TXVVSTFwbFNsYk0?oc=5)
+
+2026-06-20 <span class="news-indication-tag">骨質疏鬆症</span>
+
+來源：[Singtaousa](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG9vUDJWVERJdnctNnh3SGpzWlQ4S3F5RWE4dUxhWVJsQl9QR1dySVVkYkh0MFlJd2xiTEdLa3ZaQjJReWxOeHB0c2NNUzVMbll4SzFWNHh0RU56cEN3U0I5UFptNWJid2VUc3R0VGFvbjIwQXgyRmM2bFdmZTMxVW9JMVR2TXVVSTFwbFNsYk0?oc=5)
+
+---
 
 
 <div class="disclaimer">
