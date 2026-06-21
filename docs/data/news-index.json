@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-21T15:06:57.982972+00:00",
+  "generated": "2026-06-21T17:19:35.761305+00:00",
   "count": 5,
   "news": [
     {
@@ -39,89 +39,13 @@
       ]
     },
     {
-      "id": "78a16d301f7c",
-      "title": "高齡試管孕婦確診乳癌 孕期手術產後化療保母嬰",
-      "published": "2026-06-20T14:00:00+00:00",
+      "id": "68728506d141",
+      "title": "胖易罹19種癌 亞洲女乳癌風險更高",
+      "published": "2026-06-20T22:00:38+00:00",
       "sources": [
         {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZeWcxbWtsVzBrNXUxNWY1cmpUYTgzQk9NQi1IRXR6SzhaaVFrb1JvRUxCMjdVQlMtVWFLSzM2WjItb3hCWWllSzF0V2J0b3BwdFpDSTVPMG5xajdDWlN2TNIBZkFVX3lxTE9Ba2hIZEluQVBPb0E3OEVSUGcyWm9XTzJJXzdUUHFfWFN6ZXIydVJqdnJscktieURLT1pWakhCcnNmTE9xYVF1eVBwYWhYQXVjQU1Hd1RFbW43a0hqbVdBeWZad1NXdw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "667deefbf257",
-      "title": "免費網上健康講座 介紹骨質疏鬆症防治",
-      "published": "2026-06-20T13:00:00+00:00",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG9vUDJWVERJdnctNnh3SGpzWlQ4S3F5RWE4dUxhWVJsQl9QR1dySVVkYkh0MFlJd2xiTEdLa3ZaQjJReWxOeHB0c2NNUzVMbll4SzFWNHh0RU56cEN3U0I5UFptNWJid2VUc3R0VGFvbjIwQXgyRmM2bFdmZTMxVW9JMVR2TXVVSTFwbFNsYk0?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "骨質疏鬆症",
-          "keyword": "骨質疏鬆症",
-          "related_drugs": [
-            {
-              "slug": "alfacalcidol",
-              "name": "Alfacalcidol"
-            },
-            {
-              "slug": "denosumab",
-              "name": "Denosumab"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4d9a3f3e119c",
-      "title": "肥胖增罹乳癌風險 「控肉」新寵瘦瘦針神助攻？減重逆轉待驗證",
-      "published": "2026-06-20T08:23:42+00:00",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TMDNQTy1SQmctVDhCTjJjTklUemlTM3ZGSmFSR0l1akg5RTRXZUxLb2p6WW1FUnk2NUhpN1JCcXplYk1YazlXWHZhNVdaOWpqN1lUa1pHaEN0ei1JMjJPa0E0c0FNNDEwVG5ESXZWU2FuTG0x?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNVQ1cV8ydzNpSzl0b3dfRGQ3c3pkTmZiY1RXZzVmUEdOVEM1Q2w2LXJOeUpiNnpGZE80bmtyUmw2X3haU1E2MktXcWZ6Q1VkVzdyT2hVZTNHajNWNFVGUE85ekVPVjVsaE5MNHUzbEFqOVM3cTRqV0NoOFdyODFJT0ctRVQxU0t0TDFmbjBubnczWWFFc3JQdnZyMUM5N3JsaG9mMEswalZuU05HN3J3Y2lUbWdUM3htTVZrejRUdFVHTnRNdHc3TGpvMklmWDcwQXVSV2JjamVzSFVVcjhMUU9NZWNtTTJueWdXb1NaYmxzMnlPUERlbC1HaC1pbTg?oc=5"
         }
       ],
       "keywords": [
@@ -352,6 +276,82 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "78a16d301f7c",
+      "title": "高齡試管孕婦確診乳癌 孕期手術產後化療保母嬰",
+      "published": "2026-06-20T14:00:00+00:00",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZeWcxbWtsVzBrNXUxNWY1cmpUYTgzQk9NQi1IRXR6SzhaaVFrb1JvRUxCMjdVQlMtVWFLSzM2WjItb3hCWWllSzF0V2J0b3BwdFpDSTVPMG5xajdDWlN2TNIBZkFVX3lxTE9Ba2hIZEluQVBPb0E3OEVSUGcyWm9XTzJJXzdUUHFfWFN6ZXIydVJqdnJscktieURLT1pWakhCcnNmTE9xYVF1eVBwYWhYQXVjQU1Hd1RFbW43a0hqbVdBeWZad1NXdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "667deefbf257",
+      "title": "免費網上健康講座 介紹骨質疏鬆症防治",
+      "published": "2026-06-20T13:00:00+00:00",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG9vUDJWVERJdnctNnh3SGpzWlQ4S3F5RWE4dUxhWVJsQl9QR1dySVVkYkh0MFlJd2xiTEdLa3ZaQjJReWxOeHB0c2NNUzVMbll4SzFWNHh0RU56cEN3U0I5UFptNWJid2VUc3R0VGFvbjIwQXgyRmM2bFdmZTMxVW9JMVR2TXVVSTFwbFNsYk0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "骨質疏鬆症",
+          "keyword": "骨質疏鬆症",
+          "related_drugs": [
+            {
+              "slug": "alfacalcidol",
+              "name": "Alfacalcidol"
+            },
+            {
+              "slug": "denosumab",
+              "name": "Denosumab"
             }
           ]
         }

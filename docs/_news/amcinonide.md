@@ -42,11 +42,11 @@ permalink: /news/amcinonide/
 
 ## 相關新聞（1 則）
 
-### [肥胖增罹乳癌風險 「控肉」新寵瘦瘦針神助攻？減重逆轉待驗證](https://news.google.com/rss/articles/CBMidEFVX3lxTE9TMDNQTy1SQmctVDhCTjJjTklUemlTM3ZGSmFSR0l1akg5RTRXZUxLb2p6WW1FUnk2NUhpN1JCcXplYk1YazlXWHZhNVdaOWpqN1lUa1pHaEN0ei1JMjJPa0E0c0FNNDEwVG5ESXZWU2FuTG0x?oc=5)
+### [胖易罹19種癌 亞洲女乳癌風險更高](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNVQ1cV8ydzNpSzl0b3dfRGQ3c3pkTmZiY1RXZzVmUEdOVEM1Q2w2LXJOeUpiNnpGZE80bmtyUmw2X3haU1E2MktXcWZ6Q1VkVzdyT2hVZTNHajNWNFVGUE85ekVPVjVsaE5MNHUzbEFqOVM3cTRqV0NoOFdyODFJT0ctRVQxU0t0TDFmbjBubnczWWFFc3JQdnZyMUM5N3JsaG9mMEswalZuU05HN3J3Y2lUbWdUM3htTVZrejRUdFVHTnRNdHc3TGpvMklmWDcwQXVSV2JjamVzSFVVcjhMUU9NZWNtTTJueWdXb1NaYmxzMnlPUERlbC1HaC1pbTg?oc=5)
 
 2026-06-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
 
-來源：[UDN](https://news.google.com/rss/articles/CBMidEFVX3lxTE9TMDNQTy1SQmctVDhCTjJjTklUemlTM3ZGSmFSR0l1akg5RTRXZUxLb2p6WW1FUnk2NUhpN1JCcXplYk1YazlXWHZhNVdaOWpqN1lUa1pHaEN0ei1JMjJPa0E0c0FNNDEwVG5ESXZWU2FuTG0x?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNVQ1cV8ydzNpSzl0b3dfRGQ3c3pkTmZiY1RXZzVmUEdOVEM1Q2w2LXJOeUpiNnpGZE80bmtyUmw2X3haU1E2MktXcWZ6Q1VkVzdyT2hVZTNHajNWNFVGUE85ekVPVjVsaE5MNHUzbEFqOVM3cTRqV0NoOFdyODFJT0ctRVQxU0t0TDFmbjBubnczWWFFc3JQdnZyMUM5N3JsaG9mMEswalZuU05HN3J3Y2lUbWdUM3htTVZrejRUdFVHTnRNdHc3TGpvMklmWDcwQXVSV2JjamVzSFVVcjhMUU9NZWNtTTJueWdXb1NaYmxzMnlPUERlbC1HaC1pbTg?oc=5)
 
 ---
 
