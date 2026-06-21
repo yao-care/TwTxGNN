@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,13 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
-### [肥胖增罹乳癌風險 「控肉」新寵瘦瘦針神助攻？減重逆轉待驗證](https://news.google.com/rss/articles/CBMie0FVX3lxTE91ZDllQkRrdlJWVXNpem9obDNvMkp2bmhVSkUyT1lYdGx1YmUtbHZia3p3THg3VF84aGFiOU5nN3dTb0JXVGxWc0VPa0ZUMDFEcXgwUE9uaGF2NWNQWnU1Tk1SbmRzSlBaNGl1bGJ2aXNEQlZCbDdJR04ybw?oc=5)
+### [研究：肥胖增患乳癌風險 瘦瘦針減重逆轉待驗證](https://news.google.com/rss/articles/CBMibkFVX3lxTE9wcWl6WmpRWWlRNFR3NVBHc0daSVF4N2Zab1NBUFlCNERKbk1Gc3hBemF4T1RhWUYzcFBiM0hEWFZSa1d3Nmp3bXF3VUUxYlZ0aXkxY1NyYWxaOUVGenFoV3ZrZnVxakswcFJ5QnhB?oc=5)
 
 2026-06-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
 
-來源：[UDN](https://news.google.com/rss/articles/CBMie0FVX3lxTE91ZDllQkRrdlJWVXNpem9obDNvMkp2bmhVSkUyT1lYdGx1YmUtbHZia3p3THg3VF84aGFiOU5nN3dTb0JXVGxWc0VPa0ZUMDFEcXgwUE9uaGF2NWNQWnU1Tk1SbmRzSlBaNGl1bGJ2aXNEQlZCbDdJR04ybw?oc=5)
-
----
-
-### [英HPV疫苗計劃見效 年輕女患者零死亡率](https://news.google.com/rss/articles/CBMiswJBVV95cUxPLWt2ejU3bGFuQ1h5bFRUY1l5dlVOMXh3dUNEb2ticTFMSEhpVmQ5Zk5CN3RYdno0NDFka0tvOWZfOElRRjBkSXVJdzNKVEROVUJlUWNGUlQ4aHRDdG1EZThGZW1hc1lKUUxUYnRRS2trcFpRa2lqeldZT3hDX1hfazE5UUl0Qk9Ec21qS0JQSzdaV2QzcGh3WVVadjc0dzhYWUZMUUtNc2Y5WHgzMkc1eEVxSHpyQUtfQWxWWXRSd2ZFYUQ3NFlYd2hWaVRBTHBkajFEZEZfRGRNN0ZSS1c4a1g4R0hWa0xQUnk1eGJmYldoa19jUnpCY2FuTF9vVjJoZTZkUnV6TndxUlkzYlI4MmJyUWxfZnNZeFJwV3llb1R4LVZGMHFtZkpLaTZwUGpqaFV3?oc=5)
-
-2026-06-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
-
-來源：[信報網站](https://news.google.com/rss/articles/CBMiswJBVV95cUxPLWt2ejU3bGFuQ1h5bFRUY1l5dlVOMXh3dUNEb2ticTFMSEhpVmQ5Zk5CN3RYdno0NDFka0tvOWZfOElRRjBkSXVJdzNKVEROVUJlUWNGUlQ4aHRDdG1EZThGZW1hc1lKUUxUYnRRS2trcFpRa2lqeldZT3hDX1hfazE5UUl0Qk9Ec21qS0JQSzdaV2QzcGh3WVVadjc0dzhYWUZMUUtNc2Y5WHgzMkc1eEVxSHpyQUtfQWxWWXRSd2ZFYUQ3NFlYd2hWaVRBTHBkajFEZEZfRGRNN0ZSS1c4a1g4R0hWa0xQUnk1eGJmYldoa19jUnpCY2FuTF9vVjJoZTZkUnV6TndxUlkzYlI4MmJyUWxfZnNZeFJwV3llb1R4LVZGMHFtZkpLaTZwUGpqaFV3?oc=5)
-
----
-
-### [惡性腫瘤安靜到致命 50歲女脹氣吃藥沒效 一查卵巢癌了](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHVlcmZFM2diV1IxMHNQXzFtZ21qYVBhMkJPQmFxY3FPUFBxb3ladUxHZzhwb2ZMX1FzN1oxSW44dnp2eEFDa1JkUUNGWEpHUjlKZzhkV3RFN2FILUFOODhkYTdjbjZfSVZPd1lMdDVDQ05neFJTSzdMRWpJdi1aR1paeHpUYkRicEk2ZExBMA?oc=5)
-
-2026-06-19 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">惡性腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHVlcmZFM2diV1IxMHNQXzFtZ21qYVBhMkJPQmFxY3FPUFBxb3ladUxHZzhwb2ZMX1FzN1oxSW44dnp2eEFDa1JkUUNGWEpHUjlKZzhkV3RFN2FILUFOODhkYTdjbjZfSVZPd1lMdDVDQ05neFJTSzdMRWpJdi1aR1paeHpUYkRicEk2ZExBMA?oc=5)
+來源：[祝你健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE9wcWl6WmpRWWlRNFR3NVBHc0daSVF4N2Zab1NBUFlCNERKbk1Gc3hBemF4T1RhWUYzcFBiM0hEWFZSa1d3Nmp3bXF3VUUxYlZ0aXkxY1NyYWxaOUVGenFoV3ZrZnVxakswcFJ5QnhB?oc=5)
 
 ---
 

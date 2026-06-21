@@ -45,11 +45,11 @@ permalink: /news/female-breast-carcinoma/
 
 ---
 
-### [肥胖增罹乳癌風險 「控肉」新寵瘦瘦針神助攻？減重逆轉待驗證](https://news.google.com/rss/articles/CBMie0FVX3lxTE91ZDllQkRrdlJWVXNpem9obDNvMkp2bmhVSkUyT1lYdGx1YmUtbHZia3p3THg3VF84aGFiOU5nN3dTb0JXVGxWc0VPa0ZUMDFEcXgwUE9uaGF2NWNQWnU1Tk1SbmRzSlBaNGl1bGJ2aXNEQlZCbDdJR04ybw?oc=5)
+### [研究：肥胖增患乳癌風險 瘦瘦針減重逆轉待驗證](https://news.google.com/rss/articles/CBMibkFVX3lxTE9wcWl6WmpRWWlRNFR3NVBHc0daSVF4N2Zab1NBUFlCNERKbk1Gc3hBemF4T1RhWUYzcFBiM0hEWFZSa1d3Nmp3bXF3VUUxYlZ0aXkxY1NyYWxaOUVGenFoV3ZrZnVxakswcFJ5QnhB?oc=5)
 
 2026-06-20
 
-來源：[UDN](https://news.google.com/rss/articles/CBMie0FVX3lxTE91ZDllQkRrdlJWVXNpem9obDNvMkp2bmhVSkUyT1lYdGx1YmUtbHZia3p3THg3VF84aGFiOU5nN3dTb0JXVGxWc0VPa0ZUMDFEcXgwUE9uaGF2NWNQWnU1Tk1SbmRzSlBaNGl1bGJ2aXNEQlZCbDdJR04ybw?oc=5)
+來源：[祝你健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE9wcWl6WmpRWWlRNFR3NVBHc0daSVF4N2Zab1NBUFlCNERKbk1Gc3hBemF4T1RhWUYzcFBiM0hEWFZSa1d3Nmp3bXF3VUUxYlZ0aXkxY1NyYWxaOUVGenFoV3ZrZnVxakswcFJ5QnhB?oc=5)
 
 ---
 
