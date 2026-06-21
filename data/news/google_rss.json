@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-21T17:19:30.868837+00:00",
+  "fetched_at": "2026-06-21T19:16:39.451541+00:00",
   "count": 6,
   "news": [
     {
@@ -16,18 +16,6 @@
       ]
     },
     {
-      "id": "ab09fd0358f1",
-      "title": "健康網》更勝鮭魚 醫：鱈魚肝罐頭富含Omega-3 - 自由健康網",
-      "published": "2026-06-20T01:28:00+00:00",
-      "summary": "健康網》更勝鮭魚 醫：鱈魚肝罐頭富含Omega-3&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LSnFZTGJpcHI4WGpuTEFUZXJUV0NrcW4tVWNZRmlUek5zc1RaWXktcl9KWDFqTnlaVUNhTldNRFpCTWtXaGZFcnpNMmUyUko2NFNFSl9yNHpaR0VIYXdMdXM2Q2LSAWpBVV95cUxOMjJqSWpWVDlDMU04VmZlZWhoVEZrU0JuckNueUowTFVtc09KbUd6aWN4Z0FMa3FjamZFVHI1LVJ2d2R2VDY0VFM5ZThYb2RrNHAzWjJIMGUycHZnQy1uazhQdEFmX0s4U1Z3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fad07e89ee0a",
       "title": "英HPV疫苗計劃見效 年輕女患者零死亡率 - 信報網站",
       "published": "2026-06-19T18:45:38+00:00",
@@ -36,6 +24,18 @@
         {
           "name": "信報網站",
           "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPLWt2ejU3bGFuQ1h5bFRUY1l5dlVOMXh3dUNEb2ticTFMSEhpVmQ5Zk5CN3RYdno0NDFka0tvOWZfOElRRjBkSXVJdzNKVEROVUJlUWNGUlQ4aHRDdG1EZThGZW1hc1lKUUxUYnRRS2trcFpRa2lqeldZT3hDX1hfazE5UUl0Qk9Ec21qS0JQSzdaV2QzcGh3WVVadjc0dzhYWUZMUUtNc2Y5WHgzMkc1eEVxSHpyQUtfQWxWWXRSd2ZFYUQ3NFlYd2hWaVRBTHBkajFEZEZfRGRNN0ZSS1c4a1g4R0hWa0xQUnk1eGJmYldoa19jUnpCY2FuTF9vVjJoZTZkUnV6TndxUlkzYlI4MmJyUWxfZnNZeFJwV3llb1R4LVZGMHFtZkpLaTZwUGpqaFV3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ab09fd0358f1",
+      "title": "健康網》更勝鮭魚 醫：鱈魚肝罐頭富含Omega-3 - 自由健康網",
+      "published": "2026-06-20T01:28:00+00:00",
+      "summary": "健康網》更勝鮭魚 醫：鱈魚肝罐頭富含Omega-3&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LSnFZTGJpcHI4WGpuTEFUZXJUV0NrcW4tVWNZRmlUek5zc1RaWXktcl9KWDFqTnlaVUNhTldNRFpCTWtXaGZFcnpNMmUyUko2NFNFSl9yNHpaR0VIYXdMdXM2Q2LSAWpBVV95cUxOMjJqSWpWVDlDMU04VmZlZWhoVEZrU0JuckNueUowTFVtc09KbUd6aWN4Z0FMa3FjamZFVHI1LVJ2d2R2VDY0VFM5ZThYb2RrNHAzWjJIMGUycHZnQy1uazhQdEFmX0s4U1Z3?oc=5"
         }
       ]
     },
