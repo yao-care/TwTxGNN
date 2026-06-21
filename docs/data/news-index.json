@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T19:16:43.779857+00:00",
-  "count": 5,
+  "generated": "2026-06-21T21:05:36.352266+00:00",
+  "count": 4,
   "news": [
     {
       "id": "f9e8a36e9edd",
@@ -352,30 +352,6 @@
             {
               "slug": "denosumab",
               "name": "Denosumab"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "fad07e89ee0a",
-      "title": "英HPV疫苗計劃見效 年輕女患者零死亡率",
-      "published": "2026-06-19T18:45:38+00:00",
-      "sources": [
-        {
-          "name": "信報網站",
-          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPLWt2ejU3bGFuQ1h5bFRUY1l5dlVOMXh3dUNEb2ticTFMSEhpVmQ5Zk5CN3RYdno0NDFka0tvOWZfOElRRjBkSXVJdzNKVEROVUJlUWNGUlQ4aHRDdG1EZThGZW1hc1lKUUxUYnRRS2trcFpRa2lqeldZT3hDX1hfazE5UUl0Qk9Ec21qS0JQSzdaV2QzcGh3WVVadjc0dzhYWUZMUUtNc2Y5WHgzMkc1eEVxSHpyQUtfQWxWWXRSd2ZFYUQ3NFlYd2hWaVRBTHBkajFEZEZfRGRNN0ZSS1c4a1g4R0hWa0xQUnk1eGJmYldoa19jUnpCY2FuTF9vVjJoZTZkUnV6TndxUlkzYlI4MmJyUWxfZnNZeFJwV3llb1R4LVZGMHFtZkpLaTZwUGpqaFV3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }
