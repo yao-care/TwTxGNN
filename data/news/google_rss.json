@@ -1,8 +1,32 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-21T05:53:26.835119+00:00",
+  "fetched_at": "2026-06-21T09:36:43.143996+00:00",
   "count": 11,
   "news": [
+    {
+      "id": "dd86d650e77e",
+      "title": "反覆腹痛腹瀉30年謎團解開 人體抗發炎「滅火器」遭抗體摧毀 - 自由健康網",
+      "published": "2026-06-21T06:05:00+00:00",
+      "summary": "反覆腹痛腹瀉30年謎團解開 人體抗發炎「滅火器」遭抗體摧毀&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LVWQ3WWhCVU9Vc0FRa1dVMU1BQzk3M20xSGV2bjNPUVdHZTJFZExlRUg5a3k2YU9Vd25uSE1wR092NmZscnVvLTl3dXI1Q0U4Sk5iYWpkSjE2dWlCZFo2T3pSd3DSAWpBVV95cUxOeUNtTHAxMURmN3hHdG51SGNOdXBHTDl0dU90N1YxUmZUYjRmenlTZ1RQTDlTOEFVOVZBVDkwRDllUE9UYjY4RFhyOTJReDlibzBBX1RlUWRsaUxfdlRzem51Y3V4M0lEbHNn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fedf720185ad",
+      "title": "別輕忽蛋白尿！12萬人研究曝傷腎傷腦 失智風險飆2倍 - 中時新聞網",
+      "published": "2026-06-21T05:51:00+00:00",
+      "summary": "別輕忽蛋白尿！12萬人研究曝傷腎傷腦 失智風險飆2倍&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UZEhiWFNPNWR0TjljcjU5eTN1N2FwTWtKR3VIMXQ2ZzRJQmxCY2NXWW9GUlMwTEJhZnZYQ0cwbFlQbTFDaXB6MWZDNTk3STRPUEUxOHdPODlPd2RmSnJrSWYwai1LbEV2dTNUOF93?oc=5"
+        }
+      ]
+    },
     {
       "id": "a62ef795e065",
       "title": "研究：肥胖增患乳癌風險 瘦瘦針減重逆轉待驗證 - 祝你健康",
@@ -16,18 +40,6 @@
       ]
     },
     {
-      "id": "fad07e89ee0a",
-      "title": "英HPV疫苗計劃見效 年輕女患者零死亡率 - 信報網站",
-      "published": "2026-06-19T18:45:38+00:00",
-      "summary": "英HPV疫苗計劃見效 年輕女患者零死亡率&nbsp;&nbsp;信報網站接種HPV疫苗年輕女性，子宮頸癌死亡率降至「接近零」&nbsp;&nbsp;MSNHPV疫苗改寫子宮頸癌命運！研究：青春期接種者30歲前死亡風險幾近零&nbsp;&nbsp;Taiwan NewsHPV疫苗拯救兩百命 死亡率近乎歸零！ 英國防癌立下驚人里程碑 | Newtalk&nbsp;&nbsp;LINE TODAY研究：青春期接種HPV疫苗降低宮頸癌死亡率- 國際&nbsp;&nbsp;大公文匯網",
-      "sources": [
-        {
-          "name": "信報網站",
-          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPLWt2ejU3bGFuQ1h5bFRUY1l5dlVOMXh3dUNEb2ticTFMSEhpVmQ5Zk5CN3RYdno0NDFka0tvOWZfOElRRjBkSXVJdzNKVEROVUJlUWNGUlQ4aHRDdG1EZThGZW1hc1lKUUxUYnRRS2trcFpRa2lqeldZT3hDX1hfazE5UUl0Qk9Ec21qS0JQSzdaV2QzcGh3WVVadjc0dzhYWUZMUUtNc2Y5WHgzMkc1eEVxSHpyQUtfQWxWWXRSd2ZFYUQ3NFlYd2hWaVRBTHBkajFEZEZfRGRNN0ZSS1c4a1g4R0hWa0xQUnk1eGJmYldoa19jUnpCY2FuTF9vVjJoZTZkUnV6TndxUlkzYlI4MmJyUWxfZnNZeFJwV3llb1R4LVZGMHFtZkpLaTZwUGpqaFV3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ab09fd0358f1",
       "title": "健康網》更勝鮭魚 醫：鱈魚肝罐頭富含Omega-3 - 自由健康網",
       "published": "2026-06-20T01:28:00+00:00",
@@ -36,6 +48,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LSnFZTGJpcHI4WGpuTEFUZXJUV0NrcW4tVWNZRmlUek5zc1RaWXktcl9KWDFqTnlaVUNhTldNRFpCTWtXaGZFcnpNMmUyUko2NFNFSl9yNHpaR0VIYXdMdXM2Q2LSAWpBVV95cUxOMjJqSWpWVDlDMU04VmZlZWhoVEZrU0JuckNueUowTFVtc09KbUd6aWN4Z0FMa3FjamZFVHI1LVJ2d2R2VDY0VFM5ZThYb2RrNHAzWjJIMGUycHZnQy1uazhQdEFmX0s4U1Z3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fad07e89ee0a",
+      "title": "英HPV疫苗計劃見效 年輕女患者零死亡率 - 信報網站",
+      "published": "2026-06-19T18:45:38+00:00",
+      "summary": "英HPV疫苗計劃見效 年輕女患者零死亡率&nbsp;&nbsp;信報網站接種HPV疫苗年輕女性，子宮頸癌死亡率降至「接近零」&nbsp;&nbsp;MSNHPV疫苗改寫子宮頸癌命運！研究：青春期接種者30歲前死亡風險幾近零&nbsp;&nbsp;Taiwan NewsHPV疫苗拯救兩百命 死亡率近乎歸零！ 英國防癌立下驚人里程碑 | Newtalk&nbsp;&nbsp;LINE TODAY研究：青春期接種HPV疫苗降低宮頸癌死亡率- 國際&nbsp;&nbsp;大公文匯網",
+      "sources": [
+        {
+          "name": "信報網站",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPLWt2ejU3bGFuQ1h5bFRUY1l5dlVOMXh3dUNEb2ticTFMSEhpVmQ5Zk5CN3RYdno0NDFka0tvOWZfOElRRjBkSXVJdzNKVEROVUJlUWNGUlQ4aHRDdG1EZThGZW1hc1lKUUxUYnRRS2trcFpRa2lqeldZT3hDX1hfazE5UUl0Qk9Ec21qS0JQSzdaV2QzcGh3WVVadjc0dzhYWUZMUUtNc2Y5WHgzMkc1eEVxSHpyQUtfQWxWWXRSd2ZFYUQ3NFlYd2hWaVRBTHBkajFEZEZfRGRNN0ZSS1c4a1g4R0hWa0xQUnk1eGJmYldoa19jUnpCY2FuTF9vVjJoZTZkUnV6TndxUlkzYlI4MmJyUWxfZnNZeFJwV3llb1R4LVZGMHFtZkpLaTZwUGpqaFV3?oc=5"
         }
       ]
     },
@@ -64,14 +88,14 @@
       ]
     },
     {
-      "id": "8e7716432c97",
-      "title": "吃魚油不能徹底防失智《刺胳針》最新研究打臉：不改壞習慣都沒用 - 自由健康網",
-      "published": "2026-06-19T06:58:00+00:00",
-      "summary": "吃魚油不能徹底防失智《刺胳針》最新研究打臉：不改壞習慣都沒用&nbsp;&nbsp;自由健康網",
+      "id": "f9e8a36e9edd",
+      "title": "【追星回春】追星後月經再現非回春 停經後出血別輕忽 - 大纪元",
+      "published": "2026-06-21T05:00:00+00:00",
+      "summary": "【追星回春】追星後月經再現非回春 停經後出血別輕忽&nbsp;&nbsp;大纪元",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hdWZLUWtpVi1NYUdpUE9OcDFBeG11NlF5MHJQcjNyRUZ4Rm93QlROLUxMWnMzUnM3anlXXzRVbEF3WHo1MXJuZnJiTVNoX3NmelFualk4aENRU2F1SlJTdGVQT1PSAWpBVV95cUxPd29xVkNEVGtfbFliRHNtMFEyU19qZ2Z1Q2ZjM1pra2hZLU0wdl9uZHBfcEJ4T0VhUUhTbnotQXZFa3Q5X09GM0FNOW9NaEtacHd6NGxNRjZKYXFoSzdYWFkzUk9vSkp6eDVR?oc=5"
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1idWF0YXhWd29hSVdrTFYyaFprOGc0ZWRJWlN3RU5vOWNCSE9LcGc1bWVncnhwYXVmTVFBcWNqRjVrc3BPVmV4LW8wRDJNNUtlNVd5SUEzUTNibHdGamVNZNIBZkFVX3lxTE5Td0JnTXFucFJpRV9HaHdhMzhTdFB1cmwyUnNBdHptZ1ZLcUxVRkpueHphLWs3Um9lYzV2U1VjeXFFdVdZNTc0Z2ZYTy1RY1VEX01vTldLaVZrN0o5YTJXTFBjbUZ6UQ?oc=5"
         }
       ]
     },
@@ -84,18 +108,6 @@
         {
           "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZeWcxbWtsVzBrNXUxNWY1cmpUYTgzQk9NQi1IRXR6SzhaaVFrb1JvRUxCMjdVQlMtVWFLSzM2WjItb3hCWWllSzF0V2J0b3BwdFpDSTVPMG5xajdDWlN2TNIBZkFVX3lxTE9Ba2hIZEluQVBPb0E3OEVSUGcyWm9XTzJJXzdUUHFfWFN6ZXIydVJqdnJscktieURLT1pWakhCcnNmTE9xYVF1eVBwYWhYQXVjQU1Hd1RFbW43a0hqbVdBeWZad1NXdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a0e6f8d007f3",
-      "title": "【追星回春】醫師揭開追星族大腦多巴胺與疼痛減緩的隱形密碼 - 大纪元",
-      "published": "2026-06-20T05:00:00+00:00",
-      "summary": "【追星回春】醫師揭開追星族大腦多巴胺與疼痛減緩的隱形密碼&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WNU5idUg4V3BpT1F2Q2NEb0RuSmNjMTF3Z1ZsQzZnZUxRSjBxbmtGcC1hRFVPeUdWX1Z4VkstZUZvaHhtZ21yRVlROExmeWhYM3ZiNzRRSW1ab0ZtZjAzSdIBZkFVX3lxTE9KUkQwYVdRSGN5eVVPOHd2OVZmSjUyRjFKZnB4a05lQkJzX2JYLWRtT3VEQ3ZEcHdGRXA0alQ4TDRDUWd0NEwzZzZwWXdKOWdZR1hxVDZQMWZsNHE1blN1M2lkUzdTdw?oc=5"
         }
       ]
     },
@@ -120,18 +132,6 @@
         {
           "name": "Techritual Hong Kong",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FNkI2aHk0OUl3Slp6dEJfMFZ4S1NGak9lcmtORUtWT19lYkk3WUo2dEZ3UWoyN0dZVHd4elhnQUxwbFhFaEVfQS1Meng3NWVWVkd0bkxHM2o?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5e09ac86684e",
-      "title": "12款紙包飲品熱量/糖份大比拼 1款檸檬茶含5粒糖 即睇邊款低糖低卡 - 星島頭條",
-      "published": "2026-06-19T08:00:00+00:00",
-      "summary": "12款紙包飲品熱量/糖份大比拼 1款檸檬茶含5粒糖 即睇邊款低糖低卡&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPLWVOczctbFVKZk44cmlOWDV3TWhNS19MYnZDSkVhdGMtV3N3STBsTkhNWUVOZ01PNFBpNmhZdks5Q0w0UzNoNzBiTEpzTWd0TjliV21pcG1PNHI5dmFBeDFXLWxtRGhldHdLT2RGXzBadmlSWTNtT2NveUU0dUpHakZIaTJoLVl3WllBbmVILURMczUxZWpKZXl5cUpnOGUxbGpiZG55Z0pvcmd0UmE4WWVyMzVFMVdtQ0VTdHNPYzNIVWRTcnU2YURGVG40TUtseV9VVU43d05iWkx6b0ZkTHhIV1hYRFB0RDdUMC12Y2wzMi15WGVXUjlma01TQmN0b2Q0dGdnRHhZUWR3WExsZzhLbDBtYkVYWFFtejA3UHFoX3NCMWlpYld0Nm5tM3FUclZmei1yMVZQZ2l2QjNwTnJQOGtmLVZMMHhURkVMOTJ2c09jNVNXUVpURFdsMWNLbk5NVjU3eUVVbXRwTnNaVTN4UmxHWDdmMkxLWkZZYS1nTkdBZUswbFpacW1FbnZWMjUxcklrRl92ckY1RUZmS3ZyWS1VNlU?oc=5"
         }
       ]
     }

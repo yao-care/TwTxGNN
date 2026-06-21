@@ -43,19 +43,19 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（2 則）
 
+### [別輕忽蛋白尿！12萬人研究曝傷腎傷腦 失智風險飆2倍](https://news.google.com/rss/articles/CBMibkFVX3lxTE9UZEhiWFNPNWR0TjljcjU5eTN1N2FwTWtKR3VIMXQ2ZzRJQmxCY2NXWW9GUlMwTEJhZnZYQ0cwbFlQbTFDaXB6MWZDNTk3STRPUEUxOHdPODlPd2RmSnJrSWYwai1LbEV2dTNUOF93?oc=5)
+
+2026-06-21 <span class="news-indication-tag">失智</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE9UZEhiWFNPNWR0TjljcjU5eTN1N2FwTWtKR3VIMXQ2ZzRJQmxCY2NXWW9GUlMwTEJhZnZYQ0cwbFlQbTFDaXB6MWZDNTk3STRPUEUxOHdPODlPd2RmSnJrSWYwai1LbEV2dTNUOF93?oc=5)
+
+---
+
 ### [研究：肥胖增患乳癌風險 瘦瘦針減重逆轉待驗證](https://news.google.com/rss/articles/CBMibkFVX3lxTE9wcWl6WmpRWWlRNFR3NVBHc0daSVF4N2Zab1NBUFlCNERKbk1Gc3hBemF4T1RhWUYzcFBiM0hEWFZSa1d3Nmp3bXF3VUUxYlZ0aXkxY1NyYWxaOUVGenFoV3ZrZnVxakswcFJ5QnhB?oc=5)
 
 2026-06-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
 
 來源：[祝你健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE9wcWl6WmpRWWlRNFR3NVBHc0daSVF4N2Zab1NBUFlCNERKbk1Gc3hBemF4T1RhWUYzcFBiM0hEWFZSa1d3Nmp3bXF3VUUxYlZ0aXkxY1NyYWxaOUVGenFoV3ZrZnVxakswcFJ5QnhB?oc=5)
-
----
-
-### [吃魚油不能徹底防失智《刺胳針》最新研究打臉：不改壞習慣都沒用](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hdWZLUWtpVi1NYUdpUE9OcDFBeG11NlF5MHJQcjNyRUZ4Rm93QlROLUxMWnMzUnM3anlXXzRVbEF3WHo1MXJuZnJiTVNoX3NmelFualk4aENRU2F1SlJTdGVQT1PSAWpBVV95cUxPd29xVkNEVGtfbFliRHNtMFEyU19qZ2Z1Q2ZjM1pra2hZLU0wdl9uZHBfcEJ4T0VhUUhTbnotQXZFa3Q5X09GM0FNOW9NaEtacHd6NGxNRjZKYXFoSzdYWFkzUk9vSkp6eDVR?oc=5)
-
-2026-06-19 <span class="news-indication-tag">失智</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hdWZLUWtpVi1NYUdpUE9OcDFBeG11NlF5MHJQcjNyRUZ4Rm93QlROLUxMWnMzUnM3anlXXzRVbEF3WHo1MXJuZnJiTVNoX3NmelFualk4aENRU2F1SlJTdGVQT1PSAWpBVV95cUxPd29xVkNEVGtfbFliRHNtMFEyU19qZ2Z1Q2ZjM1pra2hZLU0wdl9uZHBfcEJ4T0VhUUhTbnotQXZFa3Q5X09GM0FNOW9NaEtacHd6NGxNRjZKYXFoSzdYWFkzUk9vSkp6eDVR?oc=5)
 
 ---
 

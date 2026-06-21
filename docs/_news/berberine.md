@@ -14,7 +14,7 @@ permalink: /news/berberine/
 ---
 
 <p class="key-answer" data-question="Berberine 有什麼相關新聞？">
-<strong>Berberine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Berberine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/berberine/
 <p><a href="{{ '/drugs/berberine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [反覆腹痛腹瀉30年謎團解開 人體抗發炎「滅火器」遭抗體摧毀](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LVWQ3WWhCVU9Vc0FRa1dVMU1BQzk3M20xSGV2bjNPUVdHZTJFZExlRUg5a3k2YU9Vd25uSE1wR092NmZscnVvLTl3dXI1Q0U4Sk5iYWpkSjE2dWlCZFo2T3pSd3DSAWpBVV95cUxOeUNtTHAxMURmN3hHdG51SGNOdXBHTDl0dU90N1YxUmZUYjRmenlTZ1RQTDlTOEFVOVZBVDkwRDllUE9UYjY4RFhyOTJReDlibzBBX1RlUWRsaUxfdlRzem51Y3V4M0lEbHNn?oc=5)
+
+2026-06-21 <span class="news-indication-tag">腹瀉</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LVWQ3WWhCVU9Vc0FRa1dVMU1BQzk3M20xSGV2bjNPUVdHZTJFZExlRUg5a3k2YU9Vd25uSE1wR092NmZscnVvLTl3dXI1Q0U4Sk5iYWpkSjE2dWlCZFo2T3pSd3DSAWpBVV95cUxOeUNtTHAxMURmN3hHdG51SGNOdXBHTDl0dU90N1YxUmZUYjRmenlTZ1RQTDlTOEFVOVZBVDkwRDllUE9UYjY4RFhyOTJReDlibzBBX1RlUWRsaUxfdlRzem51Y3V4M0lEbHNn?oc=5)
+
+---
 
 ### [研究：肥胖增患乳癌風險 瘦瘦針減重逆轉待驗證](https://news.google.com/rss/articles/CBMibkFVX3lxTE9wcWl6WmpRWWlRNFR3NVBHc0daSVF4N2Zab1NBUFlCNERKbk1Gc3hBemF4T1RhWUYzcFBiM0hEWFZSa1d3Nmp3bXF3VUUxYlZ0aXkxY1NyYWxaOUVGenFoV3ZrZnVxakswcFJ5QnhB?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [【追星回春】追星後月經再現非回春 停經後出血別輕忽](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1idWF0YXhWd29hSVdrTFYyaFprOGc0ZWRJWlN3RU5vOWNCSE9LcGc1bWVncnhwYXVmTVFBcWNqRjVrc3BPVmV4LW8wRDJNNUtlNVd5SUEzUTNibHdGamVNZNIBZkFVX3lxTE5Td0JnTXFucFJpRV9HaHdhMzhTdFB1cmwyUnNBdHptZ1ZLcUxVRkpueHphLWs3Um9lYzV2U1VjeXFFdVdZNTc0Z2ZYTy1RY1VEX01vTldLaVZrN0o5YTJXTFBjbUZ6UQ?oc=5)
+
+2026-06-21 <span class="news-indication-tag">停經</span>
+
+來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1idWF0YXhWd29hSVdrTFYyaFprOGc0ZWRJWlN3RU5vOWNCSE9LcGc1bWVncnhwYXVmTVFBcWNqRjVrc3BPVmV4LW8wRDJNNUtlNVd5SUEzUTNibHdGamVNZNIBZkFVX3lxTE5Td0JnTXFucFJpRV9HaHdhMzhTdFB1cmwyUnNBdHptZ1ZLcUxVRkpueHphLWs3Um9lYzV2U1VjeXFFdVdZNTc0Z2ZYTy1RY1VEX01vTldLaVZrN0o5YTJXTFBjbUZ6UQ?oc=5)
+
+---
 
 ### [高齡試管孕婦確診乳癌 孕期手術產後化療保母嬰](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZeWcxbWtsVzBrNXUxNWY1cmpUYTgzQk9NQi1IRXR6SzhaaVFrb1JvRUxCMjdVQlMtVWFLSzM2WjItb3hCWWllSzF0V2J0b3BwdFpDSTVPMG5xajdDWlN2TNIBZkFVX3lxTE9Ba2hIZEluQVBPb0E3OEVSUGcyWm9XTzJJXzdUUHFfWFN6ZXIydVJqdnJscktieURLT1pWakhCcnNmTE9xYVF1eVBwYWhYQXVjQU1Hd1RFbW43a0hqbVdBeWZad1NXdw?oc=5)
 
