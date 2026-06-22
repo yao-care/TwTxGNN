@@ -3,7 +3,7 @@ layout: default
 title: "乳癌（female breast carcinoma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "乳癌（female breast carcinoma） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "乳癌（female breast carcinoma） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="乳癌（female breast carcinoma） 有什麼相關新聞？">
-<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ permalink: /news/female-breast-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [胖易罹19種癌 亞洲女乳癌風險更高](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNVQ1cV8ydzNpSzl0b3dfRGQ3c3pkTmZiY1RXZzVmUEdOVEM1Q2w2LXJOeUpiNnpGZE80bmtyUmw2X3haU1E2MktXcWZ6Q1VkVzdyT2hVZTNHajNWNFVGUE85ekVPVjVsaE5MNHUzbEFqOVM3cTRqV0NoOFdyODFJT0ctRVQxU0t0TDFmbjBubnczWWFFc3JQdnZyMUM5N3JsaG9mMEswalZuU05HN3J3Y2lUbWdUM3htTVZrejRUdFVHTnRNdHc3TGpvMklmWDcwQXVSV2JjamVzSFVVcjhMUU9NZWNtTTJueWdXb1NaYmxzMnlPUERlbC1HaC1pbTg?oc=5)
 
 2026-06-20
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNVQ1cV8ydzNpSzl0b3dfRGQ3c3pkTmZiY1RXZzVmUEdOVEM1Q2w2LXJOeUpiNnpGZE80bmtyUmw2X3haU1E2MktXcWZ6Q1VkVzdyT2hVZTNHajNWNFVGUE85ekVPVjVsaE5MNHUzbEFqOVM3cTRqV0NoOFdyODFJT0ctRVQxU0t0TDFmbjBubnczWWFFc3JQdnZyMUM5N3JsaG9mMEswalZuU05HN3J3Y2lUbWdUM3htTVZrejRUdFVHTnRNdHc3TGpvMklmWDcwQXVSV2JjamVzSFVVcjhMUU9NZWNtTTJueWdXb1NaYmxzMnlPUERlbC1HaC1pbTg?oc=5)
-
----
-
-### [高齡試管孕婦確診乳癌 孕期手術產後化療保母嬰](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZeWcxbWtsVzBrNXUxNWY1cmpUYTgzQk9NQi1IRXR6SzhaaVFrb1JvRUxCMjdVQlMtVWFLSzM2WjItb3hCWWllSzF0V2J0b3BwdFpDSTVPMG5xajdDWlN2TNIBZkFVX3lxTE9Ba2hIZEluQVBPb0E3OEVSUGcyWm9XTzJJXzdUUHFfWFN6ZXIydVJqdnJscktieURLT1pWakhCcnNmTE9xYVF1eVBwYWhYQXVjQU1Hd1RFbW43a0hqbVdBeWZad1NXdw?oc=5)
-
-2026-06-20
-
-來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZeWcxbWtsVzBrNXUxNWY1cmpUYTgzQk9NQi1IRXR6SzhaaVFrb1JvRUxCMjdVQlMtVWFLSzM2WjItb3hCWWllSzF0V2J0b3BwdFpDSTVPMG5xajdDWlN2TNIBZkFVX3lxTE9Ba2hIZEluQVBPb0E3OEVSUGcyWm9XTzJJXzdUUHFfWFN6ZXIydVJqdnJscktieURLT1pWakhCcnNmTE9xYVF1eVBwYWhYQXVjQU1Hd1RFbW43a0hqbVdBeWZad1NXdw?oc=5)
 
 ---
 

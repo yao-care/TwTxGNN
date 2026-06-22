@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [【癌症患者營養流失特別迅速】營養攝取及血糖控制的重要性！](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNejhHX2VGX29VSk1mMXA0SzdrTXF3N3hKazVXR3FGX1B6T0wzS01ZS1NnRnlGUjMxbjIzZ0E1cXdvSzN3ZVlrNnJKUTlrOXd3UVlPLXNvVmthMlkzS0IxckREYmJQM2c5OUxYVUZPcFo4UWVDMW5fdlk5d3E5YnpGU0t5SGR0VFVXU2wzQTNZSms5eXhUQURSejdDOF9tT1BwRGJRMWVCZXF3Yk9uV3pHYzFiVFgybHJhR1BoeDdMMzBIX19CVTh6TXEtTVpZM0cxam1MVy1GTUU1eDYzOGp1dk4yX2k1Y0RVQjM2VmpoNXM3c1FkOUFRcEd3?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/carboplatin/
 2026-06-20 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LRUJQZzNmS19GODc4aTNOUkZ3UG00LWxETHhtc1FDNm1RcVhHQjBRbWZYSFdlNkF5MmtzcmduU2JyTnM5clJfQ3FXNzhjYW9r?oc=5)
-
----
-
-### [高齡試管孕婦確診乳癌 孕期手術產後化療保母嬰](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZeWcxbWtsVzBrNXUxNWY1cmpUYTgzQk9NQi1IRXR6SzhaaVFrb1JvRUxCMjdVQlMtVWFLSzM2WjItb3hCWWllSzF0V2J0b3BwdFpDSTVPMG5xajdDWlN2TNIBZkFVX3lxTE9Ba2hIZEluQVBPb0E3OEVSUGcyWm9XTzJJXzdUUHFfWFN6ZXIydVJqdnJscktieURLT1pWakhCcnNmTE9xYVF1eVBwYWhYQXVjQU1Hd1RFbW43a0hqbVdBeWZad1NXdw?oc=5)
-
-2026-06-20 <span class="news-indication-tag">乳癌</span>
-
-來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZeWcxbWtsVzBrNXUxNWY1cmpUYTgzQk9NQi1IRXR6SzhaaVFrb1JvRUxCMjdVQlMtVWFLSzM2WjItb3hCWWllSzF0V2J0b3BwdFpDSTVPMG5xajdDWlN2TNIBZkFVX3lxTE9Ba2hIZEluQVBPb0E3OEVSUGcyWm9XTzJJXzdUUHFfWFN6ZXIydVJqdnJscktieURLT1pWakhCcnNmTE9xYVF1eVBwYWhYQXVjQU1Hd1RFbW43a0hqbVdBeWZad1NXdw?oc=5)
 
 ---
 

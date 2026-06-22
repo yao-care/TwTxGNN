@@ -1,7 +1,59 @@
 {
-  "generated": "2026-06-22T14:27:14.872808+00:00",
+  "generated": "2026-06-22T18:40:52.892235+00:00",
   "count": 8,
   "news": [
+    {
+      "id": "0f715252d279",
+      "title": "最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨",
+      "published": "2026-06-22T14:26:05+00:00",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iQ3lGendsMDlOMTdqY2tySXM0U19lclUzeWpPWmVIR2tSR0EwdTV3WjR5ZmVraklfc0dyU1B3Zm05STlSV0I4czRVRnU?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e6e7b75d7421",
+      "title": "醫起看／健檢紅字別輕忽！醫揭CKM症候群死亡風險高3成",
+      "published": "2026-06-22T11:15:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQaXpzNHZRZmlvcU1KbnlwM0RuSHpNS1gtaTI4LS1hMEpMWlMyaEVFUmdiMURXT0IwOXM4aUs0Q1FrNUpJWFhFVlM2bVJqcHVqcGZONUxTWW1fakI3VHIwbHNDTkI3eVNrNFVQbkdSZFdleGs1TE5SRVVHejQ5dmt6YjVQdXBXNUQ3TjFlMk1DVjdlWTkyblZzZm5zUlRoZC1nY1hhYU5kZTRibm91ZE1ZNDgteHpYRlMtbVdHSTVvMFloV290azFWVnZIdzd1ZDJCVmFTZnkzNEl6TUdyUGxjV1B6ZXdVRHZFVVZOQTJQb0hmcWxxQkpGWjhULWFZcTlScmZHYTVnQ1liUmZtZFE1elpubmEtVnh6UDUxY256a3ktVDVzTG84TDRRSTZUNkxOeUcyWkhxQU1qQVg1WmxUVEx6TFByMlBIWW9tbTBjNnhTSXZaeDNn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "a517f8552448",
       "title": "胃癌｜34歲3孩媽媽健身網紅 確診胃癌到離世僅3個月 最後身影曝光全網心碎【附年輕患癌因素】",
@@ -303,34 +355,6 @@
       ]
     },
     {
-      "id": "0eed20c7c5d8",
-      "title": "糖尿病患最怕不是中風？國衛院揭心衰竭風險暴增84％，醫籲每年抽血揪出「無症狀心衰」 - PChome Online 新聞",
-      "published": "2026-06-21T01:02:19+00:00",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX1hMbFVrRzBYNTByeEE2ZUVaTXNDODV0YktkVVZYMkxsbjRSaUVFTEo2eGt0UW4tWjlhVWZZeGNRMmJFSWpPV0VxRHhtbmc3enZwMGgxX1NiRUJOR2ZkRVBXUlUwYjhfYUhfZEFzQXhvdGxOczZsNVMzeTAtTXRJXy1fSTloQkhtb0txelVWbHF1QQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "68728506d141",
       "title": "胖易罹19種癌 亞洲女乳癌風險更高",
       "published": "2026-06-20T22:00:38+00:00",
@@ -611,54 +635,6 @@
             {
               "slug": "gemcitabine",
               "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "78a16d301f7c",
-      "title": "高齡試管孕婦確診乳癌 孕期手術產後化療保母嬰",
-      "published": "2026-06-20T14:00:00+00:00",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZeWcxbWtsVzBrNXUxNWY1cmpUYTgzQk9NQi1IRXR6SzhaaVFrb1JvRUxCMjdVQlMtVWFLSzM2WjItb3hCWWllSzF0V2J0b3BwdFpDSTVPMG5xajdDWlN2TNIBZkFVX3lxTE9Ba2hIZEluQVBPb0E3OEVSUGcyWm9XTzJJXzdUUHFfWFN6ZXIydVJqdnJscktieURLT1pWakhCcnNmTE9xYVF1eVBwYWhYQXVjQU1Hd1RFbW43a0hqbVdBeWZad1NXdw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
             },
             {
               "slug": "hydroxyurea",
