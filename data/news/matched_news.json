@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-21T23:01:44.970654+00:00",
-  "total_count": 6,
+  "last_updated": "2026-06-22T02:52:22.684612+00:00",
+  "total_count": 5,
   "matched_count": 4,
   "news": [
     {
       "id": "d5bbf69410e8",
       "title": "高溫潮濕蚊蟲激增 渥公衛局籲防範西尼羅病毒",
       "published": "2026-06-21T19:38:00+00:00",
-      "summary": "高溫潮濕蚊蟲激增 渥公衛局籲防範西尼羅病毒&nbsp;&nbsp;大纪元加拿大蚊蟲肆虐 「末日水桶」掀防蚊爆紅熱潮&nbsp;&nbsp;singtao.ca",
+      "summary": "高溫潮濕蚊蟲激增 渥公衛局籲防範西尼羅病毒&nbsp;&nbsp;大纪元加拿大蚊蟲肆虐 「末日水桶」掀防蚊爆紅熱潮&nbsp;&nbsp;singtao.ca南加州發現西尼羅病毒 CDC：每年超過130人因此死亡&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "大纪元",
@@ -374,19 +374,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "ab09fd0358f1",
-      "title": "健康網》更勝鮭魚 醫：鱈魚肝罐頭富含Omega-3",
-      "published": "2026-06-20T01:28:00+00:00",
-      "summary": "健康網》更勝鮭魚 醫：鱈魚肝罐頭富含Omega-3&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LSnFZTGJpcHI4WGpuTEFUZXJUV0NrcW4tVWNZRmlUek5zc1RaWXktcl9KWDFqTnlaVUNhTldNRFpCTWtXaGZFcnpNMmUyUko2NFNFSl9yNHpaR0VIYXdMdXM2Q2LSAWpBVV95cUxOMjJqSWpWVDlDMU04VmZlZWhoVEZrU0JuckNueUowTFVtc09KbUd6aWN4Z0FMa3FjamZFVHI1LVJ2d2R2VDY0VFM5ZThYb2RrNHAzWjJIMGUycHZnQy1uazhQdEFmX0s4U1Z3?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

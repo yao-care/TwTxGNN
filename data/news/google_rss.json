@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-21T23:01:40.942365+00:00",
-  "count": 6,
+  "fetched_at": "2026-06-22T02:52:18.577865+00:00",
+  "count": 5,
   "news": [
     {
       "id": "68728506d141",
@@ -16,22 +16,10 @@
       ]
     },
     {
-      "id": "ab09fd0358f1",
-      "title": "健康網》更勝鮭魚 醫：鱈魚肝罐頭富含Omega-3 - 自由健康網",
-      "published": "2026-06-20T01:28:00+00:00",
-      "summary": "健康網》更勝鮭魚 醫：鱈魚肝罐頭富含Omega-3&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LSnFZTGJpcHI4WGpuTEFUZXJUV0NrcW4tVWNZRmlUek5zc1RaWXktcl9KWDFqTnlaVUNhTldNRFpCTWtXaGZFcnpNMmUyUko2NFNFSl9yNHpaR0VIYXdMdXM2Q2LSAWpBVV95cUxOMjJqSWpWVDlDMU04VmZlZWhoVEZrU0JuckNueUowTFVtc09KbUd6aWN4Z0FMa3FjamZFVHI1LVJ2d2R2VDY0VFM5ZThYb2RrNHAzWjJIMGUycHZnQy1uazhQdEFmX0s4U1Z3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d5bbf69410e8",
       "title": "高溫潮濕蚊蟲激增 渥公衛局籲防範西尼羅病毒 - 大纪元",
       "published": "2026-06-21T19:38:00+00:00",
-      "summary": "高溫潮濕蚊蟲激增 渥公衛局籲防範西尼羅病毒&nbsp;&nbsp;大纪元加拿大蚊蟲肆虐 「末日水桶」掀防蚊爆紅熱潮&nbsp;&nbsp;singtao.ca",
+      "summary": "高溫潮濕蚊蟲激增 渥公衛局籲防範西尼羅病毒&nbsp;&nbsp;大纪元加拿大蚊蟲肆虐 「末日水桶」掀防蚊爆紅熱潮&nbsp;&nbsp;singtao.ca南加州發現西尼羅病毒 CDC：每年超過130人因此死亡&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "大纪元",
