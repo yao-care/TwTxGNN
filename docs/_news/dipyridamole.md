@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [糖尿病患最怕不是中風？國衛院揭心衰竭風險暴增84％，醫籲每年抽血揪出「無症狀心衰」 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikgFBVV95cUxOX1hMbFVrRzBYNTByeEE2ZUVaTXNDODV0YktkVVZYMkxsbjRSaUVFTEo2eGt0UW4tWjlhVWZZeGNRMmJFSWpPV0VxRHhtbmc3enZwMGgxX1NiRUJOR2ZkRVBXUlUwYjhfYUhfZEFzQXhvdGxOczZsNVMzeTAtTXRJXy1fSTloQkhtb0txelVWbHF1QQ?oc=5)
+
+2026-06-21 <span class="news-indication-tag">中風</span>
+
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMikgFBVV95cUxOX1hMbFVrRzBYNTByeEE2ZUVaTXNDODV0YktkVVZYMkxsbjRSaUVFTEo2eGt0UW4tWjlhVWZZeGNRMmJFSWpPV0VxRHhtbmc3enZwMGgxX1NiRUJOR2ZkRVBXUlUwYjhfYUhfZEFzQXhvdGxOczZsNVMzeTAtTXRJXy1fSTloQkhtb0txelVWbHF1QQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

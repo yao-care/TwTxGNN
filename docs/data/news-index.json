@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22T08:50:19.626674+00:00",
-  "count": 7,
+  "generated": "2026-06-22T14:27:14.872808+00:00",
+  "count": 8,
   "news": [
     {
       "id": "a517f8552448",
@@ -303,6 +303,34 @@
       ]
     },
     {
+      "id": "0eed20c7c5d8",
+      "title": "糖尿病患最怕不是中風？國衛院揭心衰竭風險暴增84％，醫籲每年抽血揪出「無症狀心衰」 - PChome Online 新聞",
+      "published": "2026-06-21T01:02:19+00:00",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX1hMbFVrRzBYNTByeEE2ZUVaTXNDODV0YktkVVZYMkxsbjRSaUVFTEo2eGt0UW4tWjlhVWZZeGNRMmJFSWpPV0VxRHhtbmc3enZwMGgxX1NiRUJOR2ZkRVBXUlUwYjhfYUhfZEFzQXhvdGxOczZsNVMzeTAtTXRJXy1fSTloQkhtb0txelVWbHF1QQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "68728506d141",
       "title": "胖易罹19種癌 亞洲女乳癌風險更高",
       "published": "2026-06-20T22:00:38+00:00",
@@ -546,6 +574,53 @@
       ]
     },
     {
+      "id": "657e7e8fab70",
+      "title": "血液缺「1元素」增大腸癌風險！ 醫曝2警訊：掉髮也上榜",
+      "published": "2026-06-20T18:00:00+00:00",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LRUJQZzNmS19GODc4aTNOUkZ3UG00LWxETHhtc1FDNm1RcVhHQjBRbWZYSFdlNkF5MmtzcmduU2JyTnM5clJfQ3FXNzhjYW9r?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "78a16d301f7c",
       "title": "高齡試管孕婦確診乳癌 孕期手術產後化療保母嬰",
       "published": "2026-06-20T14:00:00+00:00",
@@ -588,34 +663,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "667deefbf257",
-      "title": "免費網上健康講座 介紹骨質疏鬆症防治",
-      "published": "2026-06-20T13:00:00+00:00",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG9vUDJWVERJdnctNnh3SGpzWlQ4S3F5RWE4dUxhWVJsQl9QR1dySVVkYkh0MFlJd2xiTEdLa3ZaQjJReWxOeHB0c2NNUzVMbll4SzFWNHh0RU56cEN3U0I5UFptNWJid2VUc3R0VGFvbjIwQXgyRmM2bFdmZTMxVW9JMVR2TXVVSTFwbFNsYk0?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "骨質疏鬆症",
-          "keyword": "骨質疏鬆症",
-          "related_drugs": [
-            {
-              "slug": "alfacalcidol",
-              "name": "Alfacalcidol"
-            },
-            {
-              "slug": "denosumab",
-              "name": "Denosumab"
             }
           ]
         }
