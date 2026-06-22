@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/salicylamide/
 <li>nasal cavity disease（100.0%）</li>
 <li>acute laryngopharyngitis（100.0%）</li>
 <li>trigeminal autonomic cephalalgia（99.9%）</li>
-<li>common cold（99.9%）</li>
+<li class="indication-matched">common cold（99.9%）<span class="indication-tag">📰 感冒</span></li>
 <li>allergic urticaria（99.7%）</li>
 <li>lung disease（99.6%）</li>
 <li>massive neonatal aspiration syndrome（99.6%）</li>
@@ -42,9 +42,15 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [高溫潮濕蚊蟲激增 渥公衛局籲防範西尼羅病毒](https://news.google.com/rss/articles/CBMiYEFVX3lxTE51OFhmNTEzUTJJUERwd2NvRkJlRXMxMnFxTGZWSldmSDVVNDBvQkc1d19aQWV6czctdmJyelJkb3Vtak9NamNMUVFMblZOYXVhVjFjYXdRa25ydXlFSzZIN9IBZkFVX3lxTE4td25mZ19XeXctekVwUEI2N0ppV2FxSHlRQVR6VklmMDhmYmZ4bUVieUw1cUlrN1dwNzVIVXF1bVo5OHZvU1NtYWFrN1FZb2tWVzgyUHduUHdubFFCa1c3NktZQ2MzZw?oc=5)
+
+2026-06-21 <span class="news-indication-tag">感冒</span>
+
+來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE51OFhmNTEzUTJJUERwd2NvRkJlRXMxMnFxTGZWSldmSDVVNDBvQkc1d19aQWV6czctdmJyelJkb3Vtak9NamNMUVFMblZOYXVhVjFjYXdRa25ydXlFSzZIN9IBZkFVX3lxTE4td25mZ19XeXctekVwUEI2N0ppV2FxSHlRQVR6VklmMDhmYmZ4bUVieUw1cUlrN1dwNzVIVXF1bVo5OHZvU1NtYWFrN1FZb2tWVzgyUHduUHdubFFCa1c3NktZQ2MzZw?oc=5)
+
+---
 
 
 <div class="disclaimer">
