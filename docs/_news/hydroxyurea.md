@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [【癌症患者營養流失特別迅速】營養攝取及血糖控制的重要性！](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNejhHX2VGX29VSk1mMXA0SzdrTXF3N3hKazVXR3FGX1B6T0wzS01ZS1NnRnlGUjMxbjIzZ0E1cXdvSzN3ZVlrNnJKUTlrOXd3UVlPLXNvVmthMlkzS0IxckREYmJQM2c5OUxYVUZPcFo4UWVDMW5fdlk5d3E5YnpGU0t5SGR0VFVXU2wzQTNZSms5eXhUQURSejdDOF9tT1BwRGJRMWVCZXF3Yk9uV3pHYzFiVFgybHJhR1BoeDdMMzBIX19CVTh6TXEtTVpZM0cxam1MVy1GTUU1eDYzOGp1dk4yX2k1Y0RVQjM2VmpoNXM3c1FkOUFRcEd3?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/hydroxyurea/
 2026-06-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNVQ1cV8ydzNpSzl0b3dfRGQ3c3pkTmZiY1RXZzVmUEdOVEM1Q2w2LXJOeUpiNnpGZE80bmtyUmw2X3haU1E2MktXcWZ6Q1VkVzdyT2hVZTNHajNWNFVGUE85ekVPVjVsaE5MNHUzbEFqOVM3cTRqV0NoOFdyODFJT0ctRVQxU0t0TDFmbjBubnczWWFFc3JQdnZyMUM5N3JsaG9mMEswalZuU05HN3J3Y2lUbWdUM3htTVZrejRUdFVHTnRNdHc3TGpvMklmWDcwQXVSV2JjamVzSFVVcjhMUU9NZWNtTTJueWdXb1NaYmxzMnlPUERlbC1HaC1pbTg?oc=5)
-
----
-
-### [血液缺「1元素」增大腸癌風險！ 醫曝2警訊：掉髮也上榜](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LRUJQZzNmS19GODc4aTNOUkZ3UG00LWxETHhtc1FDNm1RcVhHQjBRbWZYSFdlNkF5MmtzcmduU2JyTnM5clJfQ3FXNzhjYW9r?oc=5)
-
-2026-06-20 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LRUJQZzNmS19GODc4aTNOUkZ3UG00LWxETHhtc1FDNm1RcVhHQjBRbWZYSFdlNkF5MmtzcmduU2JyTnM5clJfQ3FXNzhjYW9r?oc=5)
 
 ---
 

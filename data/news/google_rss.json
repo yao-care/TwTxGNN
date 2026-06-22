@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-22T18:40:48.363353+00:00",
+  "fetched_at": "2026-06-22T21:28:15.396834+00:00",
   "count": 9,
   "news": [
     {
@@ -40,14 +40,14 @@
       ]
     },
     {
-      "id": "657e7e8fab70",
-      "title": "血液缺「1元素」增大腸癌風險！ 醫曝2警訊：掉髮也上榜 - TVBS新聞網",
-      "published": "2026-06-20T18:00:00+00:00",
-      "summary": "血液缺「1元素」增大腸癌風險！ 醫曝2警訊：掉髮也上榜&nbsp;&nbsp;TVBS新聞網",
+      "id": "3d44c3701555",
+      "title": "心臟病發不一定會胸悶！3種人「這些部位」會麻快就醫 當心久坐引爆血栓危機 - TVBS 健康2.0",
+      "published": "2026-06-22T15:04:45+00:00",
+      "summary": "心臟病發不一定會胸悶！3種人「這些部位」會麻快就醫 當心久坐引爆血栓危機&nbsp;&nbsp;TVBS 健康2.0",
       "sources": [
         {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LRUJQZzNmS19GODc4aTNOUkZ3UG00LWxETHhtc1FDNm1RcVhHQjBRbWZYSFdlNkF5MmtzcmduU2JyTnM5clJfQ3FXNzhjYW9r?oc=5"
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fT3pIMUlPTzBnS2VadW0yM1BNSnhXZ1RRdDZwWXQ4REYxQ1RFWFRvM3JqazJYWC1nMDl3NlkxVzVEcFY2ZUlzb3ZYUlZiazdPRWc?oc=5"
         }
       ]
     },

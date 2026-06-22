@@ -1,7 +1,90 @@
 {
-  "generated": "2026-06-22T18:40:52.892235+00:00",
+  "generated": "2026-06-22T21:28:20.881198+00:00",
   "count": 8,
   "news": [
+    {
+      "id": "3d44c3701555",
+      "title": "心臟病發不一定會胸悶！3種人「這些部位」會麻快就醫 當心久坐引爆血栓危機 - TVBS 健康2.0",
+      "published": "2026-06-22T15:04:45+00:00",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fT3pIMUlPTzBnS2VadW0yM1BNSnhXZ1RRdDZwWXQ4REYxQ1RFWFRvM3JqazJYWC1nMDl3NlkxVzVEcFY2ZUlzb3ZYUlZiazdPRWc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心臟病發",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "0f715252d279",
       "title": "最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨",
@@ -588,53 +671,6 @@
             {
               "slug": "anastrozole",
               "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "657e7e8fab70",
-      "title": "血液缺「1元素」增大腸癌風險！ 醫曝2警訊：掉髮也上榜",
-      "published": "2026-06-20T18:00:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LRUJQZzNmS19GODc4aTNOUkZ3UG00LWxETHhtc1FDNm1RcVhHQjBRbWZYSFdlNkF5MmtzcmduU2JyTnM5clJfQ3FXNzhjYW9r?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
             },
             {
               "slug": "hydroxyurea",

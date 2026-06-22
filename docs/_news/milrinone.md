@@ -14,7 +14,7 @@ permalink: /news/milrinone/
 ---
 
 <p class="key-answer" data-question="Milrinone 有什麼相關新聞？">
-<strong>Milrinone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Milrinone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,9 +41,15 @@ permalink: /news/milrinone/
 <p><a href="{{ '/drugs/milrinone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [心臟病發不一定會胸悶！3種人「這些部位」會麻快就醫 當心久坐引爆血栓危機 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fT3pIMUlPTzBnS2VadW0yM1BNSnhXZ1RRdDZwWXQ4REYxQ1RFWFRvM3JqazJYWC1nMDl3NlkxVzVEcFY2ZUlzb3ZYUlZiazdPRWc?oc=5)
+
+2026-06-22 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
+
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fT3pIMUlPTzBnS2VadW0yM1BNSnhXZ1RRdDZwWXQ4REYxQ1RFWFRvM3JqazJYWC1nMDl3NlkxVzVEcFY2ZUlzb3ZYUlZiazdPRWc?oc=5)
+
+---
 
 
 <div class="disclaimer">
