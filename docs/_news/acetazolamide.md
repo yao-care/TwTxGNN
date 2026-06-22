@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [心臟病發不一定會胸悶！3種人「這些部位」會麻快就醫 當心久坐引爆血栓危機 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fT3pIMUlPTzBnS2VadW0yM1BNSnhXZ1RRdDZwWXQ4REYxQ1RFWFRvM3JqazJYWC1nMDl3NlkxVzVEcFY2ZUlzb3ZYUlZiazdPRWc?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/acetazolamide/
 2026-06-22 <span class="news-indication-tag">癌症</span>
 
 來源：[東方新地](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNejhHX2VGX29VSk1mMXA0SzdrTXF3N3hKazVXR3FGX1B6T0wzS01ZS1NnRnlGUjMxbjIzZ0E1cXdvSzN3ZVlrNnJKUTlrOXd3UVlPLXNvVmthMlkzS0IxckREYmJQM2c5OUxYVUZPcFo4UWVDMW5fdlk5d3E5YnpGU0t5SGR0VFVXU2wzQTNZSms5eXhUQURSejdDOF9tT1BwRGJRMWVCZXF3Yk9uV3pHYzFiVFgybHJhR1BoeDdMMzBIX19CVTh6TXEtTVpZM0cxam1MVy1GTUU1eDYzOGp1dk4yX2k1Y0RVQjM2VmpoNXM3c1FkOUFRcEd3?oc=5)
-
----
-
-### [胖易罹19種癌 亞洲女乳癌風險更高](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNVQ1cV8ydzNpSzl0b3dfRGQ3c3pkTmZiY1RXZzVmUEdOVEM1Q2w2LXJOeUpiNnpGZE80bmtyUmw2X3haU1E2MktXcWZ6Q1VkVzdyT2hVZTNHajNWNFVGUE85ekVPVjVsaE5MNHUzbEFqOVM3cTRqV0NoOFdyODFJT0ctRVQxU0t0TDFmbjBubnczWWFFc3JQdnZyMUM5N3JsaG9mMEswalZuU05HN3J3Y2lUbWdUM3htTVZrejRUdFVHTnRNdHc3TGpvMklmWDcwQXVSV2JjamVzSFVVcjhMUU9NZWNtTTJueWdXb1NaYmxzMnlPUERlbC1HaC1pbTg?oc=5)
-
-2026-06-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNVQ1cV8ydzNpSzl0b3dfRGQ3c3pkTmZiY1RXZzVmUEdOVEM1Q2w2LXJOeUpiNnpGZE80bmtyUmw2X3haU1E2MktXcWZ6Q1VkVzdyT2hVZTNHajNWNFVGUE85ekVPVjVsaE5MNHUzbEFqOVM3cTRqV0NoOFdyODFJT0ctRVQxU0t0TDFmbjBubnczWWFFc3JQdnZyMUM5N3JsaG9mMEswalZuU05HN3J3Y2lUbWdUM3htTVZrejRUdFVHTnRNdHc3TGpvMklmWDcwQXVSV2JjamVzSFVVcjhMUU9NZWNtTTJueWdXb1NaYmxzMnlPUERlbC1HaC1pbTg?oc=5)
 
 ---
 

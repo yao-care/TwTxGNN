@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="Ramucirumab 有什麼相關新聞？">
-<strong>Ramucirumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ramucirumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/ramucirumab/
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [胃癌｜34歲3孩媽媽健身網紅 確診胃癌到離世僅3個月 最後身影曝光全網心碎【附年輕患癌因素】](https://news.google.com/rss/articles/CBMi3ARBVV95cUxPZFRrNHUwbzRIR21FQm1hZ3FwSGNsNjZwOTEtTGhkY0V3QVpSZk42S3BJYVRlZFFZY0YwV1VNUVpNd2wyY0p1amhLV0lpc1RlNkpVSjZZZTlKc25xMlA3M3NlM3pySFVlaDZiVzJ2WkRUOEZwRUF5ajRpTWFXaVF4NkNNZGhPYUtISGQ4MVQ0eU95aUhFamh0Q1M0NkhBd1RRanpwTVJNZW4taUtVblhYclJ0RktzTFp3eDEwQ0Z6aWVSMEQxTi1peGQyZU05SE1Ea2ctTzY4Q2l4Y0R1eXd0VEZMdEp2WGt3TWVLYm5ZMTZIdFdNOWstVC1DZnYtZFFzNDI1c1JKbVFmU2JGZ0JwMTdsUGVaamtmNF9aemcwMTdLVW9RaHg1Z2F1SDVabmtZSmlzU182cFhld0dEVThRU2c4bWE1eXZYNkNVMllsOXRmMEpnWGc1em9sYVVucjAyaHd6QTZsbTlnR0s0cGU1cUppRTR2Yi04VHA3cUpZNjhvMDhOMTBFbC15NFRLbXJPdENwR25NQmM4VzBER3NuR2lkaEU3S0RudEo1WW5tcXdnMFhEUm1TTTliS2FhcWt2eG5qM21sOUFpS2xQLUl2MHE5NUowMmw5Y0dPWG9laDVOOUtRSGRXNWFsdW5remF4UmNhWldSRHFCR2VjNEdNaU1QR3VBaDFKczNhakpVWlFiRWh1NlZIZkhiNVpmZEpuQTVzb0ZadVdENEJ1RWVjT25YSjEybnN5SW5wR3NzSEZ3MmQ3Yy1KMW1VMzh2QlJsUUpleW93NEZjSHhZ?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/ramucirumab/
 2026-06-22 <span class="news-indication-tag">癌症</span>
 
 來源：[東方新地](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNejhHX2VGX29VSk1mMXA0SzdrTXF3N3hKazVXR3FGX1B6T0wzS01ZS1NnRnlGUjMxbjIzZ0E1cXdvSzN3ZVlrNnJKUTlrOXd3UVlPLXNvVmthMlkzS0IxckREYmJQM2c5OUxYVUZPcFo4UWVDMW5fdlk5d3E5YnpGU0t5SGR0VFVXU2wzQTNZSms5eXhUQURSejdDOF9tT1BwRGJRMWVCZXF3Yk9uV3pHYzFiVFgybHJhR1BoeDdMMzBIX19CVTh6TXEtTVpZM0cxam1MVy1GTUU1eDYzOGp1dk4yX2k1Y0RVQjM2VmpoNXM3c1FkOUFRcEd3?oc=5)
-
----
-
-### [胖易罹19種癌 亞洲女乳癌風險更高](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNVQ1cV8ydzNpSzl0b3dfRGQ3c3pkTmZiY1RXZzVmUEdOVEM1Q2w2LXJOeUpiNnpGZE80bmtyUmw2X3haU1E2MktXcWZ6Q1VkVzdyT2hVZTNHajNWNFVGUE85ekVPVjVsaE5MNHUzbEFqOVM3cTRqV0NoOFdyODFJT0ctRVQxU0t0TDFmbjBubnczWWFFc3JQdnZyMUM5N3JsaG9mMEswalZuU05HN3J3Y2lUbWdUM3htTVZrejRUdFVHTnRNdHc3TGpvMklmWDcwQXVSV2JjamVzSFVVcjhMUU9NZWNtTTJueWdXb1NaYmxzMnlPUERlbC1HaC1pbTg?oc=5)
-
-2026-06-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNVQ1cV8ydzNpSzl0b3dfRGQ3c3pkTmZiY1RXZzVmUEdOVEM1Q2w2LXJOeUpiNnpGZE80bmtyUmw2X3haU1E2MktXcWZ6Q1VkVzdyT2hVZTNHajNWNFVGUE85ekVPVjVsaE5MNHUzbEFqOVM3cTRqV0NoOFdyODFJT0ctRVQxU0t0TDFmbjBubnczWWFFc3JQdnZyMUM5N3JsaG9mMEswalZuU05HN3J3Y2lUbWdUM3htTVZrejRUdFVHTnRNdHc3TGpvMklmWDcwQXVSV2JjamVzSFVVcjhMUU9NZWNtTTJueWdXb1NaYmxzMnlPUERlbC1HaC1pbTg?oc=5)
 
 ---
 
