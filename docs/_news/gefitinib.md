@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iQ3lGendsMDlOMTdqY2tySXM0U19lclUzeWpPWmVIR2tSR0EwdTV3WjR5ZmVraklfc0dyU1B3Zm05STlSV0I4czRVRnU?oc=5)
+### [中年維他命D濃度別太低老了「失智毒素」能變少- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE9CSThYVll2cjQtOG5hYTYwMWRaWVdsYVYtazFGeVVCS1ZSaEtPT2xOaVhvcDUwUmdHN01WalZqamhqbkJ5TTVzc0ozN2ZPbGJ1Z213NFhKNTItMmx0M0E5TWIzRW9BcHRMYTFoMGNR?oc=5)
 
-2026-06-22 <span class="news-indication-tag">失智</span>
+2026-06-23 <span class="news-indication-tag">失智</span>
 
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iQ3lGendsMDlOMTdqY2tySXM0U19lclUzeWpPWmVIR2tSR0EwdTV3WjR5ZmVraklfc0dyU1B3Zm05STlSV0I4czRVRnU?oc=5)
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE9CSThYVll2cjQtOG5hYTYwMWRaWVdsYVYtazFGeVVCS1ZSaEtPT2xOaVhvcDUwUmdHN01WalZqamhqbkJ5TTVzc0ozN2ZPbGJ1Z213NFhKNTItMmx0M0E5TWIzRW9BcHRMYTFoMGNR?oc=5)
 
 ---
 
@@ -56,6 +56,14 @@ permalink: /news/gefitinib/
 2026-06-22 <span class="news-indication-tag">失智</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jcXBLamdwZGoxSE80cy1rOWJfZ3l2NGNkbDRFOF9pMFdmSklvYXgxX01nQ0MtTzNuOVQwZmlRZ3piSjBPTGFjWVdDOXN2cVI2c0VuUGxiSGVseGFz0gFiQVVfeXFMTWdCQXd0VGJUSHNPZ3ZDRWREV19wSnFwcEVzdUFNbVkzZFlrSmhsRmR1NzlTZlpFUHI3dEVZaFBHTjlfMkV1Vl92SkM2dDVmTkl3VjdvdlpNcF9TMDdPekxfTXc?oc=5)
+
+---
+
+### [【追星回春】心態與飲食都能逆齡 從日常打造不失智的健腦生活](https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5cHJZY1c0NE1ZTVNKckZnLWhQVlBKdGg1dnpZZVF3eC1kYm03ak94MHBGYk94MXl0S3ZBdGxnei15ZEdaMi1hdWNsdnZ3STNSZmJoOXVBenpORHh3cm9rMNIBZkFVX3lxTFBQX29SUnE2R2FVT2puZXdtdVhWb2tLaVVFa2dwQ0lmYjZVR2xRVWNDZVA1ZU90X3BwLXpWUjVmTURuTUx3bE93c0VfWnFoOGcxS0d6NnNmZzdEWm4xMGM0TmNxWm5hUQ?oc=5)
+
+2026-06-22 <span class="news-indication-tag">失智</span>
+
+來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5cHJZY1c0NE1ZTVNKckZnLWhQVlBKdGg1dnpZZVF3eC1kYm03ak94MHBGYk94MXl0S3ZBdGxnei15ZEdaMi1hdWNsdnZ3STNSZmJoOXVBenpORHh3cm9rMNIBZkFVX3lxTFBQX29SUnE2R2FVT2puZXdtdVhWb2tLaVVFa2dwQ0lmYjZVR2xRVWNDZVA1ZU90X3BwLXpWUjVmTURuTUx3bE93c0VfWnFoOGcxS0d6NnNmZzdEWm4xMGM0TmNxWm5hUQ?oc=5)
 
 ---
 

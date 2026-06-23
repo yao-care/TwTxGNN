@@ -1,7 +1,31 @@
 {
-  "generated": "2026-06-23T06:40:21.943228+00:00",
-  "count": 6,
+  "generated": "2026-06-23T10:28:43.481857+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "40f45f7c3b6b",
+      "title": "中年維他命D濃度別太低老了「失智毒素」能變少- 健康",
+      "published": "2026-06-23T07:20:41+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CSThYVll2cjQtOG5hYTYwMWRaWVdsYVYtazFGeVVCS1ZSaEtPT2xOaVhvcDUwUmdHN01WalZqamhqbkJ5TTVzc0ozN2ZPbGJ1Z213NFhKNTItMmx0M0E5TWIzRW9BcHRMYTFoMGNR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "d55b60017c84",
       "title": "前幾天還好好的，為什麼突然病倒？醫揭最易忽略的健康警訊、預防最佳方案",
@@ -86,13 +110,13 @@
       ]
     },
     {
-      "id": "0f715252d279",
-      "title": "最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨",
-      "published": "2026-06-22T14:26:05+00:00",
+      "id": "236ca22c0e91",
+      "title": "每天吞魚油能防失智？新研究揭效果有限：關鍵其實不是補充劑",
+      "published": "2026-06-22T06:42:32+00:00",
       "sources": [
         {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iQ3lGendsMDlOMTdqY2tySXM0U19lclUzeWpPWmVIR2tSR0EwdTV3WjR5ZmVraklfc0dyU1B3Zm05STlSV0I4czRVRnU?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jcXBLamdwZGoxSE80cy1rOWJfZ3l2NGNkbDRFOF9pMFdmSklvYXgxX01nQ0MtTzNuOVQwZmlRZ3piSjBPTGFjWVdDOXN2cVI2c0VuUGxiSGVseGFz0gFiQVVfeXFMTWdCQXd0VGJUSHNPZ3ZDRWREV19wSnFwcEVzdUFNbVkzZFlrSmhsRmR1NzlTZlpFUHI3dEVZaFBHTjlfMkV1Vl92SkM2dDVmTkl3VjdvdlpNcF9TMDdPekxfTXc?oc=5"
         }
       ],
       "keywords": [
@@ -110,13 +134,13 @@
       ]
     },
     {
-      "id": "236ca22c0e91",
-      "title": "每天吞魚油能防失智？新研究揭效果有限：關鍵其實不是補充劑",
-      "published": "2026-06-22T06:42:32+00:00",
+      "id": "b352b334f13a",
+      "title": "【追星回春】心態與飲食都能逆齡 從日常打造不失智的健腦生活",
+      "published": "2026-06-22T05:00:00+00:00",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jcXBLamdwZGoxSE80cy1rOWJfZ3l2NGNkbDRFOF9pMFdmSklvYXgxX01nQ0MtTzNuOVQwZmlRZ3piSjBPTGFjWVdDOXN2cVI2c0VuUGxiSGVseGFz0gFiQVVfeXFMTWdCQXd0VGJUSHNPZ3ZDRWREV19wSnFwcEVzdUFNbVkzZFlrSmhsRmR1NzlTZlpFUHI3dEVZaFBHTjlfMkV1Vl92SkM2dDVmTkl3VjdvdlpNcF9TMDdPekxfTXc?oc=5"
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5cHJZY1c0NE1ZTVNKckZnLWhQVlBKdGg1dnpZZVF3eC1kYm03ak94MHBGYk94MXl0S3ZBdGxnei15ZEdaMi1hdWNsdnZ3STNSZmJoOXVBenpORHh3cm9rMNIBZkFVX3lxTFBQX29SUnE2R2FVT2puZXdtdVhWb2tLaVVFa2dwQ0lmYjZVR2xRVWNDZVA1ZU90X3BwLXpWUjVmTURuTUx3bE93c0VfWnFoOGcxS0d6NnNmZzdEWm4xMGM0TmNxWm5hUQ?oc=5"
         }
       ],
       "keywords": [
