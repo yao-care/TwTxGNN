@@ -43,19 +43,19 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（3 則）
 
+### [誤以為老化或壓力大癌症專家點名5常見危險徵兆- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE5PR2JBWFRjN1RqeGE0d3JTVUZSSnprRkQwUTVRdVJQMXNjQlppa1FvVXNXWHMtY3dGbVRGZWRGRU8xQjhEaDBpSjdSem5GMWFFNUF2alp3SWJQT2V5MGhzMHByNG51Vk90VVFvei13?oc=5)
+
+2026-06-23 <span class="news-indication-tag">癌症</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5PR2JBWFRjN1RqeGE0d3JTVUZSSnprRkQwUTVRdVJQMXNjQlppa1FvVXNXWHMtY3dGbVRGZWRGRU8xQjhEaDBpSjdSem5GMWFFNUF2alp3SWJQT2V5MGhzMHByNG51Vk90VVFvei13?oc=5)
+
+---
+
 ### [中年維他命D濃度別太低老了「失智毒素」能變少- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE9CSThYVll2cjQtOG5hYTYwMWRaWVdsYVYtazFGeVVCS1ZSaEtPT2xOaVhvcDUwUmdHN01WalZqamhqbkJ5TTVzc0ozN2ZPbGJ1Z213NFhKNTItMmx0M0E5TWIzRW9BcHRMYTFoMGNR?oc=5)
 
 2026-06-23 <span class="news-indication-tag">失智</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE9CSThYVll2cjQtOG5hYTYwMWRaWVdsYVYtazFGeVVCS1ZSaEtPT2xOaVhvcDUwUmdHN01WalZqamhqbkJ5TTVzc0ozN2ZPbGJ1Z213NFhKNTItMmx0M0E5TWIzRW9BcHRMYTFoMGNR?oc=5)
-
----
-
-### [【追星回春】心態與飲食都能逆齡 從日常打造不失智的健腦生活](https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5cHJZY1c0NE1ZTVNKckZnLWhQVlBKdGg1dnpZZVF3eC1kYm03ak94MHBGYk94MXl0S3ZBdGxnei15ZEdaMi1hdWNsdnZ3STNSZmJoOXVBenpORHh3cm9rMNIBZkFVX3lxTFBQX29SUnE2R2FVT2puZXdtdVhWb2tLaVVFa2dwQ0lmYjZVR2xRVWNDZVA1ZU90X3BwLXpWUjVmTURuTUx3bE93c0VfWnFoOGcxS0d6NnNmZzdEWm4xMGM0TmNxWm5hUQ?oc=5)
-
-2026-06-22 <span class="news-indication-tag">失智</span>
-
-來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5cHJZY1c0NE1ZTVNKckZnLWhQVlBKdGg1dnpZZVF3eC1kYm03ak94MHBGYk94MXl0S3ZBdGxnei15ZEdaMi1hdWNsdnZ3STNSZmJoOXVBenpORHh3cm9rMNIBZkFVX3lxTFBQX29SUnE2R2FVT2puZXdtdVhWb2tLaVVFa2dwQ0lmYjZVR2xRVWNDZVA1ZU90X3BwLXpWUjVmTURuTUx3bE93c0VfWnFoOGcxS0d6NnNmZzdEWm4xMGM0TmNxWm5hUQ?oc=5)
 
 ---
 
