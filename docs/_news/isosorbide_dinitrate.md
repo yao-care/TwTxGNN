@@ -46,7 +46,7 @@ permalink: /news/isosorbide_dinitrate/
 
 ### [心臟病發不一定會胸悶！3種人「這些部位」會麻快就醫 當心久坐引爆血栓危機 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fT3pIMUlPTzBnS2VadW0yM1BNSnhXZ1RRdDZwWXQ4REYxQ1RFWFRvM3JqazJYWC1nMDl3NlkxVzVEcFY2ZUlzb3ZYUlZiazdPRWc?oc=5)
 
-2026-06-22 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
+2026-06-23 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
 
 來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fT3pIMUlPTzBnS2VadW0yM1BNSnhXZ1RRdDZwWXQ4REYxQ1RFWFRvM3JqazJYWC1nMDl3NlkxVzVEcFY2ZUlzb3ZYUlZiazdPRWc?oc=5)
 

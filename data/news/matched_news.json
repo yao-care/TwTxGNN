@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-22T23:12:33.797944+00:00",
-  "total_count": 8,
-  "matched_count": 7,
+  "last_updated": "2026-06-23T02:27:40.166737+00:00",
+  "total_count": 9,
+  "matched_count": 8,
   "news": [
     {
       "id": "3d44c3701555",
       "title": "心臟病發不一定會胸悶！3種人「這些部位」會麻快就醫 當心久坐引爆血栓危機 - TVBS 健康2.0",
-      "published": "2026-06-22T23:08:34+00:00",
+      "published": "2026-06-23T02:09:59+00:00",
       "summary": "心臟病發不一定會胸悶！3種人「這些部位」會麻快就醫 當心久坐引爆血栓危機&nbsp;&nbsp;TVBS 健康2.0",
       "sources": [
         {
@@ -116,7 +116,7 @@
       "id": "e6e7b75d7421",
       "title": "醫起看／健檢紅字別輕忽！醫揭CKM症候群死亡風險高3成",
       "published": "2026-06-22T11:15:00+00:00",
-      "summary": "醫起看／健檢紅字別輕忽！醫揭CKM症候群死亡風險高3成&nbsp;&nbsp;Yahoo新聞糖尿病不只血糖高！輕忽「這件事」 醫示警恐傷心腎血管&nbsp;&nbsp;TVBS新聞網糖尿病患最怕不是中風？國衛院揭心衰竭風險暴增84％，醫籲每年抽血揪出「無症狀心衰」&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "醫起看／健檢紅字別輕忽！醫揭CKM症候群死亡風險高3成&nbsp;&nbsp;Yahoo新聞糖尿病不只血糖高！輕忽「這件事」 醫示警恐傷心腎血管&nbsp;&nbsp;TVBS新聞網糖尿病患最怕不是中風？國衛院揭心衰竭風險暴增84％，醫籲每年抽血揪出「無症狀心衰」&nbsp;&nbsp;PChome Online 新聞愛心醫生教您2026年如何預防糖尿病 從篩查前移到主動預警&nbsp;&nbsp;蕃新聞愛心醫生教您2026年如何預防糖尿病 從篩查前移到主動預警 - 生活新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -142,6 +142,31 @@
       ]
     },
     {
+      "id": "236ca22c0e91",
+      "title": "每天吞魚油能防失智？新研究揭效果有限：關鍵其實不是補充劑",
+      "published": "2026-06-22T06:42:32+00:00",
+      "summary": "每天吞魚油能防失智？新研究揭效果有限：關鍵其實不是補充劑&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jcXBLamdwZGoxSE80cy1rOWJfZ3l2NGNkbDRFOF9pMFdmSklvYXgxX01nQ0MtTzNuOVQwZmlRZ3piSjBPTGFjWVdDOXN2cVI2c0VuUGxiSGVseGFz0gFiQVVfeXFMTWdCQXd0VGJUSHNPZ3ZDRWREV19wSnFwcEVzdUFNbVkzZFlrSmhsRmR1NzlTZlpFUHI3dEVZaFBHTjlfMkV1Vl92SkM2dDVmTkl3VjdvdlpNcF9TMDdPekxfTXc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "af4bd87b0cef",
       "title": "長壽習慣｜E人更長壽？ 最新研究揭天天社交總壽命長248% 助抗癌/增免疫力/降炎症【附23大因素影響壽命長短】",
       "published": "2026-06-22T05:17:29+00:00",
@@ -155,14 +180,14 @@
       "matched_keywords": []
     },
     {
-      "id": "a517f8552448",
+      "id": "c27274b9ffaf",
       "title": "胃癌｜34歲3孩媽媽健身網紅 確診胃癌到離世僅3個月 最後身影曝光全網心碎【附年輕患癌因素】",
       "published": "2026-06-22T04:38:43+00:00",
       "summary": "胃癌｜34歲3孩媽媽健身網紅 確診胃癌到離世僅3個月 最後身影曝光全網心碎【附年輕患癌因素】&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxPZFRrNHUwbzRIR21FQm1hZ3FwSGNsNjZwOTEtTGhkY0V3QVpSZk42S3BJYVRlZFFZY0YwV1VNUVpNd2wyY0p1amhLV0lpc1RlNkpVSjZZZTlKc25xMlA3M3NlM3pySFVlaDZiVzJ2WkRUOEZwRUF5ajRpTWFXaVF4NkNNZGhPYUtISGQ4MVQ0eU95aUhFamh0Q1M0NkhBd1RRanpwTVJNZW4taUtVblhYclJ0RktzTFp3eDEwQ0Z6aWVSMEQxTi1peGQyZU05SE1Ea2ctTzY4Q2l4Y0R1eXd0VEZMdEp2WGt3TWVLYm5ZMTZIdFdNOWstVC1DZnYtZFFzNDI1c1JKbVFmU2JGZ0JwMTdsUGVaamtmNF9aemcwMTdLVW9RaHg1Z2F1SDVabmtZSmlzU182cFhld0dEVThRU2c4bWE1eXZYNkNVMllsOXRmMEpnWGc1em9sYVVucjAyaHd6QTZsbTlnR0s0cGU1cUppRTR2Yi04VHA3cUpZNjhvMDhOMTBFbC15NFRLbXJPdENwR25NQmM4VzBER3NuR2lkaEU3S0RudEo1WW5tcXdnMFhEUm1TTTliS2FhcWt2eG5qM21sOUFpS2xQLUl2MHE5NUowMmw5Y0dPWG9laDVOOUtRSGRXNWFsdW5remF4UmNhWldSRHFCR2VjNEdNaU1QR3VBaDFKczNhakpVWlFiRWh1NlZIZkhiNVpmZEpuQTVzb0ZadVdENEJ1RWVjT25YSjEybnN5SW5wR3NzSEZ3MmQ3Yy1KMW1VMzh2QlJsUUpleW93NEZjSHhZ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizwRBVV95cUxOcjNkTHFrQVRCMjdKRkFiNWQ2MDBIc3FZaEJFdmtaVXpMSEtBZlhQVzJDQ1ZOenFhN0Uza2RrMnRZclJBSDJEdmhlY29kVnN0TDN6cjF4Q3pkZHd0ZFFneE9QaklsRXBzTHZleF85VVFfU2F3VmNuSFF5eWQ5QTJiWXhodldTUy1icXhyZm1sQWVOdjc0WFVnVEtBc3djMWlyRmNaOFNvc0JoaUVWZnkxYkh0V0dacTd2aFpnR0VZdHE0T2VjYlBudm1mRkRjOEszN1dhU1BEOUlTcUZqUDRTT1lFUG1BT3NLWWMteUpVMFk2THZMTG1YTjZNcXhScVVUMnBFM1RQMS1YWGNHUkxodUY4eURWNF9QbldKZHNLLXBrM0hWYzZqLVhENEVBYU1tOG1IX1BBVkdYVU1ub3RBbndRNHBkbjJSM21PZTI3R1M1YmlkdnFFc3B2SkVYelBpYVVuNExCSFBDUzVqTnl1eG93UUFwMVlPeGFESE54Wi1XTWhSRHdQLUVaMUF2R2pEbGh4QnlkeTB1VndHTzRwNjZFM3BFVjRwZHZxcEtDTF9ublB1dUlsZmNFR0I1R0lsNGJiTGYwQm5SSVh0TGVOYnFRQzNuYV9Ea0hRajRfODh2Zl9VSUNNSzN3aXVGMmtzQ1RFXzl3TklvVVVnZHBxUDZCSkNlTjk1T2ZJaktDRUF0ZzBRNndFMEk4bUxicUdqNURTQ0FRSnQ1bXd4WEFldi1tSnVKU2d6S3R2RFQtU3lpRFlTZzV2VXBERkJMd00?oc=5"
         }
       ],
       "matched_keywords": [

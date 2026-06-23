@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iQ3lGendsMDlOMTdqY2tySXM0U19lclUzeWpPWmVIR2tSR0EwdTV3WjR5ZmVraklfc0dyU1B3Zm05STlSV0I4czRVRnU?oc=5)
 
 2026-06-22
 
 來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iQ3lGendsMDlOMTdqY2tySXM0U19lclUzeWpPWmVIR2tSR0EwdTV3WjR5ZmVraklfc0dyU1B3Zm05STlSV0I4czRVRnU?oc=5)
+
+---
+
+### [每天吞魚油能防失智？新研究揭效果有限：關鍵其實不是補充劑](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jcXBLamdwZGoxSE80cy1rOWJfZ3l2NGNkbDRFOF9pMFdmSklvYXgxX01nQ0MtTzNuOVQwZmlRZ3piSjBPTGFjWVdDOXN2cVI2c0VuUGxiSGVseGFz0gFiQVVfeXFMTWdCQXd0VGJUSHNPZ3ZDRWREV19wSnFwcEVzdUFNbVkzZFlrSmhsRmR1NzlTZlpFUHI3dEVZaFBHTjlfMkV1Vl92SkM2dDVmTkl3VjdvdlpNcF9TMDdPekxfTXc?oc=5)
+
+2026-06-22
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jcXBLamdwZGoxSE80cy1rOWJfZ3l2NGNkbDRFOF9pMFdmSklvYXgxX01nQ0MtTzNuOVQwZmlRZ3piSjBPTGFjWVdDOXN2cVI2c0VuUGxiSGVseGFz0gFiQVVfeXFMTWdCQXd0VGJUSHNPZ3ZDRWREV19wSnFwcEVzdUFNbVkzZFlrSmhsRmR1NzlTZlpFUHI3dEVZaFBHTjlfMkV1Vl92SkM2dDVmTkl3VjdvdlpNcF9TMDdPekxfTXc?oc=5)
 
 ---
 
