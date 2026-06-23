@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-23T21:24:15.880429+00:00",
+  "generated": "2026-06-23T23:00:05.129056+00:00",
   "count": 5,
   "news": [
     {
@@ -235,19 +235,30 @@
       ]
     },
     {
-      "id": "40f45f7c3b6b",
-      "title": "中年維他命D濃度別太低老了「失智毒素」能變少- 健康",
-      "published": "2026-06-23T07:20:41+00:00",
+      "id": "f41f13483b3a",
+      "title": "做家事和烹飪能防失智！研究發現：風險降 21%！料理新手也有效",
+      "published": "2026-06-23T12:00:00+00:00",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CSThYVll2cjQtOG5hYTYwMWRaWVdsYVYtazFGeVVCS1ZSaEtPT2xOaVhvcDUwUmdHN01WalZqamhqbkJ5TTVzc0ozN2ZPbGJ1Z213NFhKNTItMmx0M0E5TWIzRW9BcHRMYTFoMGNR?oc=5"
+          "name": "Heho健康",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uU3lGeFcyVFJOOVlsZTdzNFlEWS1EQjJHN0g4T3poTDB0T3NFQmRIdFBIRmVReFFHeXJYMi1tcl91QzlYSllhcjBHdw?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
           "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
           "keyword": "失智",
           "related_drugs": [
             {

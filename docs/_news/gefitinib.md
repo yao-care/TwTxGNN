@@ -51,11 +51,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [中年維他命D濃度別太低老了「失智毒素」能變少- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE9CSThYVll2cjQtOG5hYTYwMWRaWVdsYVYtazFGeVVCS1ZSaEtPT2xOaVhvcDUwUmdHN01WalZqamhqbkJ5TTVzc0ozN2ZPbGJ1Z213NFhKNTItMmx0M0E5TWIzRW9BcHRMYTFoMGNR?oc=5)
+### [做家事和烹飪能防失智！研究發現：風險降 21%！料理新手也有效](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uU3lGeFcyVFJOOVlsZTdzNFlEWS1EQjJHN0g4T3poTDB0T3NFQmRIdFBIRmVReFFHeXJYMi1tcl91QzlYSllhcjBHdw?oc=5)
 
-2026-06-23 <span class="news-indication-tag">失智</span>
+2026-06-23 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE9CSThYVll2cjQtOG5hYTYwMWRaWVdsYVYtazFGeVVCS1ZSaEtPT2xOaVhvcDUwUmdHN01WalZqamhqbkJ5TTVzc0ozN2ZPbGJ1Z213NFhKNTItMmx0M0E5TWIzRW9BcHRMYTFoMGNR?oc=5)
+來源：[Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uU3lGeFcyVFJOOVlsZTdzNFlEWS1EQjJHN0g4T3poTDB0T3NFQmRIdFBIRmVReFFHeXJYMi1tcl91QzlYSllhcjBHdw?oc=5)
 
 ---
 
