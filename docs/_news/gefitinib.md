@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [中年維他命D濃度別太低老了「失智毒素」能變少- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE9CSThYVll2cjQtOG5hYTYwMWRaWVdsYVYtazFGeVVCS1ZSaEtPT2xOaVhvcDUwUmdHN01WalZqamhqbkJ5TTVzc0ozN2ZPbGJ1Z213NFhKNTItMmx0M0E5TWIzRW9BcHRMYTFoMGNR?oc=5)
 
 2026-06-23 <span class="news-indication-tag">失智</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE9CSThYVll2cjQtOG5hYTYwMWRaWVdsYVYtazFGeVVCS1ZSaEtPT2xOaVhvcDUwUmdHN01WalZqamhqbkJ5TTVzc0ozN2ZPbGJ1Z213NFhKNTItMmx0M0E5TWIzRW9BcHRMYTFoMGNR?oc=5)
-
----
-
-### [每天吞魚油能防失智？新研究揭效果有限：關鍵其實不是補充劑](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jcXBLamdwZGoxSE80cy1rOWJfZ3l2NGNkbDRFOF9pMFdmSklvYXgxX01nQ0MtTzNuOVQwZmlRZ3piSjBPTGFjWVdDOXN2cVI2c0VuUGxiSGVseGFz0gFiQVVfeXFMTWdCQXd0VGJUSHNPZ3ZDRWREV19wSnFwcEVzdUFNbVkzZFlrSmhsRmR1NzlTZlpFUHI3dEVZaFBHTjlfMkV1Vl92SkM2dDVmTkl3VjdvdlpNcF9TMDdPekxfTXc?oc=5)
-
-2026-06-22 <span class="news-indication-tag">失智</span>
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jcXBLamdwZGoxSE80cy1rOWJfZ3l2NGNkbDRFOF9pMFdmSklvYXgxX01nQ0MtTzNuOVQwZmlRZ3piSjBPTGFjWVdDOXN2cVI2c0VuUGxiSGVseGFz0gFiQVVfeXFMTWdCQXd0VGJUSHNPZ3ZDRWREV19wSnFwcEVzdUFNbVkzZFlrSmhsRmR1NzlTZlpFUHI3dEVZaFBHTjlfMkV1Vl92SkM2dDVmTkl3VjdvdlpNcF9TMDdPekxfTXc?oc=5)
 
 ---
 

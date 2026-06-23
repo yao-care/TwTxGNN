@@ -1,17 +1,43 @@
 {
-  "last_updated": "2026-06-23T13:36:41.034912+00:00",
+  "last_updated": "2026-06-23T16:21:54.758384+00:00",
   "total_count": 10,
-  "matched_count": 7,
+  "matched_count": 5,
   "news": [
     {
-      "id": "43894dd9092e",
-      "title": "世界衛生組織總幹事表示，漢他病毒疫情「接近結束」，超過80%的接觸者已結束隔離",
-      "published": "2026-06-23T09:54:16+00:00",
-      "summary": "世界衛生組織總幹事表示，漢他病毒疫情「接近結束」，超過80%的接觸者已結束隔離&nbsp;&nbsp;gamereactor.cn結束數週煎熬 爆發漢他病毒郵輪乘客船員隔離期幾乎全結束&nbsp;&nbsp;rti.org.tw譚德塞：近三周未報告新增漢坦病毒感染病例- 國際 - 香港文匯網&nbsp;&nbsp;香港文匯網",
+      "id": "c08d8494b7db",
+      "title": "香港愛滋病顧問局認同並肯定衞生署的一站式性健康服務",
+      "published": "2026-06-23T15:39:00+00:00",
+      "summary": "香港愛滋病顧問局認同並肯定衞生署的一站式性健康服務&nbsp;&nbsp;香港商报",
       "sources": [
         {
-          "name": "gamereactor.cn",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPV3lzcTR3RzZITjNFVm84OG1RTGpHeEtWRjkxWkJLMy1mcTVYR0Y4QzMtM3BYdGRVQmFqNkY2SUFDMjA3YjJtYzduVmNZcjlKQ1B5Qm4yWmg4TGs4c2lGMjFyb09yR1lSZUU3YnNTbEJOamNFOUhUVklEYlJaUm1YNjlmSUEyZ2lZVEROUjdHdTJISkVGVFBVa2RRRTFpRVpYajlBTTByeElRMlhmXzNIcllGQ0lwM0Yzb3JoZXloWkxIWHRQSUlxRU1mVFVJT0N2dmxBblJYWUI1ZThNNnVmWDhLSmhHUQ?oc=5"
+          "name": "香港商报",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15VnljT3ZUbm5kbW1LUm5aRWtUc1U2a2FQMngtMUpLRGhRbGVzSExybU5UOEstSVRLb1B1X0FsLUpUZWM0eTRyd1V6RlBrOEM0bGhEVWJVc1A2UktFakdaVUJpV3NhNXN0c2k5MlI1aGFDekhLc3Y5d183SQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "102c3c763303",
+      "title": "爆疫郵輪乘客 最後一批返家",
+      "published": "2026-06-23T14:00:00+00:00",
+      "summary": "爆疫郵輪乘客 最後一批返家&nbsp;&nbsp;Singtaousa結束數週煎熬 爆發漢他病毒郵輪乘客船員隔離期幾乎全結束&nbsp;&nbsp;rti.org.tw譚德塞：近三周未報告新增漢坦病毒感染病例- 國際 - 香港文匯網&nbsp;&nbsp;香港文匯網",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUDEwSHlBSmhIcy1PdE1rSE9zQ1Z2Q1dmSFQtVVpTclhoU3NFS3VyclZVLTJfckQzUDRHbjl1WXZBRS1RTWdvRzh0ZUFMRnpnVE9ScUlUTjFVWVYtQ0I1Y0hnY0g0SVR0c1BZaVVPSzk5dlJVMkdSSWt1a0tuSmhpcEx1Y0xiSk0zb1pHbktLMEdSUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3e456ce1de13",
+      "title": "從EPA、DHA到活性Omega-3（SPM）魚油市場迎來下一波技術升級",
+      "published": "2026-06-23T08:00:00+00:00",
+      "summary": "從EPA、DHA到活性Omega-3（SPM）魚油市場迎來下一波技術升級&nbsp;&nbsp;三立新聞網SETN.com前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xeF9DSjh1MkI2WDdRN1ltcHhHakUtVUdaSGVHTXMzRHBaR2M0UU9TQk5jM1BhTTBtazZmN25aRWFxRXdTY29XeHQxams3a0xEZmk0cXlObTLSAV9BVV95cUxQVFRSWmIxS0stWGU0aUZSOFNVaFFreXNYcDBUcHhtNVhKWVhOOXdqemZiTDh4NTB4MGFHVUNIZE5iQ2V5WlI4b19FS1NOWTB2cXVveDZnWDl3NElJT29yWQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -20,7 +46,7 @@
       "id": "40f45f7c3b6b",
       "title": "中年維他命D濃度別太低老了「失智毒素」能變少- 健康",
       "published": "2026-06-23T07:20:41+00:00",
-      "summary": "中年維他命D濃度別太低老了「失智毒素」能變少- 健康&nbsp;&nbsp;中時新聞網最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨&nbsp;&nbsp;Yahoo新聞護腦習慣｜醫生推薦「$0養生法」 日花15分鐘做1事防失智 護腦效果堪比食保健品！&nbsp;&nbsp;香港經濟日報HKET研究：中年維生素D水平 或影響未來大腦健康&nbsp;&nbsp;大纪元最俗防失智保養品 研究：常做1事腦變乾淨&nbsp;&nbsp;鏡週刊Mirror Media",
+      "summary": "中年維他命D濃度別太低老了「失智毒素」能變少- 健康&nbsp;&nbsp;中時新聞網最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨&nbsp;&nbsp;Yahoo新聞討論牆 | 最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨&nbsp;&nbsp;LINE TODAY護腦習慣｜醫生推薦「$0養生法」 日花15分鐘做1事防失智 護腦效果堪比食保健品！&nbsp;&nbsp;香港經濟日報HKET研究：中年維生素D水平 或影響未來大腦健康&nbsp;&nbsp;大纪元",
       "sources": [
         {
           "name": "中時新聞網",
@@ -53,115 +79,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "d55b60017c84",
-      "title": "前幾天還好好的，為什麼突然病倒？醫揭最易忽略的健康警訊、預防最佳方案",
-      "published": "2026-06-23T02:47:30+00:00",
-      "summary": "前幾天還好好的，為什麼突然病倒？醫揭最易忽略的健康警訊、預防最佳方案&nbsp;&nbsp;Heho健康健康網》不一定胸痛！ 網紅醫揭心臟求救3警訊 走路腿痛也上榜&nbsp;&nbsp;自由健康網心臟病發未必胸口痛？揭糖尿病/長者/女性最易出現隱形警號｜附6大酸痛麻痺症狀&nbsp;&nbsp;星島頭條心臟病發不一定會胸悶！3種人「這些部位」會麻快就醫當心久坐引爆血栓危機- 營養好食&nbsp;&nbsp;TVBS 健康2.0",
-      "sources": [
-        {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sa244dHFvbEFhQ1hJeGNCMVRuWVh0YXdGODZrYVR0X0U3dWFuOFpiWnlCVTUzd2JVZmRKeEl1YXBqbHBlTWlteTNqZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心臟病發",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "236ca22c0e91",
-      "title": "每天吞魚油能防失智？新研究揭效果有限：關鍵其實不是補充劑",
-      "published": "2026-06-22T06:42:32+00:00",
-      "summary": "每天吞魚油能防失智？新研究揭效果有限：關鍵其實不是補充劑&nbsp;&nbsp;元氣網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jcXBLamdwZGoxSE80cy1rOWJfZ3l2NGNkbDRFOF9pMFdmSklvYXgxX01nQ0MtTzNuOVQwZmlRZ3piSjBPTGFjWVdDOXN2cVI2c0VuUGxiSGVseGFz0gFiQVVfeXFMTWdCQXd0VGJUSHNPZ3ZDRWREV19wSnFwcEVzdUFNbVkzZFlrSmhsRmR1NzlTZlpFUHI3dEVZaFBHTjlfMkV1Vl92SkM2dDVmTkl3VjdvdlpNcF9TMDdPekxfTXc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "af4bd87b0cef",
