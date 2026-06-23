@@ -1,8 +1,33 @@
 {
-  "last_updated": "2026-06-23T19:03:50.880242+00:00",
-  "total_count": 11,
+  "last_updated": "2026-06-23T21:24:15.850160+00:00",
+  "total_count": 12,
   "matched_count": 5,
   "news": [
+    {
+      "id": "ecf42cad3499",
+      "title": "全國多個地區降雨高於正常水平 今年夏季的蚊患或較往年更加嚴重",
+      "published": "2026-06-23T17:36:35+00:00",
+      "summary": "全國多個地區降雨高於正常水平 今年夏季的蚊患或較往年更加嚴重&nbsp;&nbsp;am1320.com高溫潮濕蚊蟲激增 渥公衛局籲防範西尼羅病毒&nbsp;&nbsp;大纪元“滅蚊神器”在加拿大爆火! 大批網友DIY, 竟被搶到斷貨!&nbsp;&nbsp;華僑時報夏季高發! 多倫多公園和湖邊暗藏“隐形殺手”, 15分鍾就可能中招&nbsp;&nbsp;華僑時報以爲隻是感冒! 多倫多男子從發冷到進ICU僅幾天, 病毒侵腦身亡&nbsp;&nbsp;華僑時報",
+      "sources": [
+        {
+          "name": "am1320.com",
+          "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNV2hGaHhtUzlPcUtZMW1IMDRvRHhtTXFMVGNQN1I0cFJ2cTdaZmhRMjJLWUk4STl5M0MwbUFwc196aTdJaHdzb0RIN21mdmhTREQ2d0pFSUtsMXdLSjlqQ2JEa0VuVlhueHdhRFk3Tkh2TTVCU0dxUU1TajBtT09rNjY4T2tPMldzRHpUcXh3bFMxa2hqbktmd3ZLRElLUlR3Nk1nenN1MGpVSkNzMGlVWU5uTFh0UEY4Y2ZtMTVERGhobjRMSFI5bl9nSnNDNTc1TjR4OHFEUXhnbmZSVS1rT0RFdGowMXZoQl8wazg3d3FHT0QwVFZtUmhXVy1MSEZ6MmhVMTZhb01PaHJSc2R5Mm5BbjQ3YkpXLUxZLVdJX0lvZkE4ejJ4amR6eE1jWUQyS3lrUHF3enJBUDBnaWxkNUdIZUFXQno4Wk1na3dubHZ0WWJGeklDWHUzRFJmbjJBSmFXam9sUGRPb2QtQjYxeDBn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "875444cea690",
       "title": "跨國基因研究揭示梅尼爾氏症源於早期內耳發育異常 - GeneOnline News",
@@ -226,14 +251,14 @@
       ]
     },
     {
-      "id": "a9840ab386a6",
+      "id": "c08d8494b7db",
       "title": "香港愛滋病顧問局認同並肯定衞生署的一站式性健康服務",
-      "published": "2026-06-23T15:42:16+00:00",
+      "published": "2026-06-23T15:39:00+00:00",
       "summary": "香港愛滋病顧問局認同並肯定衞生署的一站式性健康服務&nbsp;&nbsp;香港商报",
       "sources": [
         {
           "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FY3FSZ1ZodHFmdjUzUDBfWFNTamNKYTYwbWhlTmVHTHpkTkRYU3lxRm9idzZOa3ozakpBRnFhMVhfVC1FUjFhN2M2bXp5d0U3S2k5MF9BRzc1RmVud3hCU25pa1RGWVNxTTNfYVNhMG5GQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15VnljT3ZUbm5kbW1LUm5aRWtUc1U2a2FQMngtMUpLRGhRbGVzSExybU5UOEstSVRLb1B1X0FsLUpUZWM0eTRyd1V6RlBrOEM0bGhEVWJVc1A2UktFakdaVUJpV3NhNXN0c2k5MlI1aGFDekhLc3Y5d183SQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -288,6 +313,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "bdab4c9a37b5",
+      "title": "變瘦又有力💪 精神到爆燈！ - U Lifestyle",
+      "published": "2026-06-23T04:08:06+00:00",
+      "summary": "變瘦又有力💪 精神到爆燈！&nbsp;&nbsp;U Lifestyle",
+      "sources": [
+        {
+          "name": "U Lifestyle",
+          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOWDJwMTRhbjBSRnhWeU4xbnp3UlF5Z1FTeFQ5Q3pfNFBZbGpZR1M3YmZBVmlJX3VkRERyZERXcUFmT1dSZmhSYjF1N0VEVXZHYmtEYndKSFA5WDR4OVFrSGNCU3NpWFFKRnE3ams4MWNrelliQ0tROFVoRm8wQVUyU2dvRV92cVVwNWZ2OW5wZzFUT1dDOUJfMmdRYjkyZm16T2RCZjdfOVdfMzl5LXBjSXlsS2FkUFJQNUNXeWRiN251Ty1HNDV0MnUxdFhTWi1hTmVlNU41QXRuN0lZdWFyRS1EaXVIUDZaQ2RTc2FyM0hiQUg2aW5tOXBzem81SFF2LXZ5THZYRExFVGY5Z0hIV1paN09MeXBPM3JKYkJobWxxLThsZFlCUlpJSThfWVcyVVE?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "7b9800c586b6",
@@ -552,31 +590,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d5bbf69410e8",
-      "title": "高溫潮濕蚊蟲激增 渥公衛局籲防範西尼羅病毒",
-      "published": "2026-06-21T19:38:00+00:00",
-      "summary": "高溫潮濕蚊蟲激增 渥公衛局籲防範西尼羅病毒&nbsp;&nbsp;大纪元全國多個地區降雨高於正常水平 今年夏季的蚊患或較往年更加嚴重&nbsp;&nbsp;am1320.com“滅蚊神器”在加拿大爆火! 大批網友DIY, 竟被搶到斷貨!&nbsp;&nbsp;華僑時報夏季高發! 多倫多公園和湖邊暗藏“隐形殺手”, 15分鍾就可能中招&nbsp;&nbsp;華僑時報以爲隻是感冒! 多倫多男子從發冷到進ICU僅幾天, 病毒侵腦身亡&nbsp;&nbsp;華僑時報",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51OFhmNTEzUTJJUERwd2NvRkJlRXMxMnFxTGZWSldmSDVVNDBvQkc1d19aQWV6czctdmJyelJkb3Vtak9NamNMUVFMblZOYXVhVjFjYXdRa25ydXlFSzZIN9IBZkFVX3lxTE4td25mZ19XeXctekVwUEI2N0ppV2FxSHlRQVR6VklmMDhmYmZ4bUVieUw1cUlrN1dwNzVIVXF1bVo5OHZvU1NtYWFrN1FZb2tWVzgyUHduUHdubFFCa1c3NktZQ2MzZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }

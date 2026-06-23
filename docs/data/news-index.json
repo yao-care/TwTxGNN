@@ -1,7 +1,31 @@
 {
-  "generated": "2026-06-23T19:03:50.902774+00:00",
+  "generated": "2026-06-23T21:24:15.880429+00:00",
   "count": 5,
   "news": [
+    {
+      "id": "ecf42cad3499",
+      "title": "全國多個地區降雨高於正常水平 今年夏季的蚊患或較往年更加嚴重",
+      "published": "2026-06-23T17:36:35+00:00",
+      "sources": [
+        {
+          "name": "am1320.com",
+          "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNV2hGaHhtUzlPcUtZMW1IMDRvRHhtTXFMVGNQN1I0cFJ2cTdaZmhRMjJLWUk4STl5M0MwbUFwc196aTdJaHdzb0RIN21mdmhTREQ2d0pFSUtsMXdLSjlqQ2JEa0VuVlhueHdhRFk3Tkh2TTVCU0dxUU1TajBtT09rNjY4T2tPMldzRHpUcXh3bFMxa2hqbktmd3ZLRElLUlR3Nk1nenN1MGpVSkNzMGlVWU5uTFh0UEY4Y2ZtMTVERGhobjRMSFI5bl9nSnNDNTc1TjR4OHFEUXhnbmZSVS1rT0RFdGowMXZoQl8wazg3d3FHT0QwVFZtUmhXVy1MSEZ6MmhVMTZhb01PaHJSc2R5Mm5BbjQ3YkpXLUxZLVdJX0lvZkE4ejJ4amR6eE1jWUQyS3lrUHF3enJBUDBnaWxkNUdIZUFXQno4Wk1na3dubHZ0WWJGeklDWHUzRFJmbjJBSmFXam9sUGRPb2QtQjYxeDBn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "9ed292b4cd64",
       "title": "誤以為老化或壓力大癌症專家點名5常見危險徵兆- 健康",
@@ -469,30 +493,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d5bbf69410e8",
-      "title": "高溫潮濕蚊蟲激增 渥公衛局籲防範西尼羅病毒",
-      "published": "2026-06-21T19:38:00+00:00",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51OFhmNTEzUTJJUERwd2NvRkJlRXMxMnFxTGZWSldmSDVVNDBvQkc1d19aQWV6czctdmJyelJkb3Vtak9NamNMUVFMblZOYXVhVjFjYXdRa25ydXlFSzZIN9IBZkFVX3lxTE4td25mZ19XeXctekVwUEI2N0ppV2FxSHlRQVR6VklmMDhmYmZ4bUVieUw1cUlrN1dwNzVIVXF1bVo5OHZvU1NtYWFrN1FZb2tWVzgyUHduUHdubFFCa1c3NktZQ2MzZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
