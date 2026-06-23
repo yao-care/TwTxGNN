@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [心臟病發不一定會胸悶！3種人「這些部位」會麻快就醫 當心久坐引爆血栓危機 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fT3pIMUlPTzBnS2VadW0yM1BNSnhXZ1RRdDZwWXQ4REYxQ1RFWFRvM3JqazJYWC1nMDl3NlkxVzVEcFY2ZUlzb3ZYUlZiazdPRWc?oc=5)
+### [前幾天還好好的，為什麼突然病倒？醫揭最易忽略的健康警訊、預防最佳方案](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sa244dHFvbEFhQ1hJeGNCMVRuWVh0YXdGODZrYVR0X0U3dWFuOFpiWnlCVTUzd2JVZmRKeEl1YXBqbHBlTWlteTNqZw?oc=5)
 
 2026-06-23 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
 
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fT3pIMUlPTzBnS2VadW0yM1BNSnhXZ1RRdDZwWXQ4REYxQ1RFWFRvM3JqazJYWC1nMDl3NlkxVzVEcFY2ZUlzb3ZYUlZiazdPRWc?oc=5)
-
----
-
-### [醫起看／健檢紅字別輕忽！醫揭CKM症候群死亡風險高3成](https://news.google.com/rss/articles/CBMi1wJBVV95cUxQaXpzNHZRZmlvcU1KbnlwM0RuSHpNS1gtaTI4LS1hMEpMWlMyaEVFUmdiMURXT0IwOXM4aUs0Q1FrNUpJWFhFVlM2bVJqcHVqcGZONUxTWW1fakI3VHIwbHNDTkI3eVNrNFVQbkdSZFdleGs1TE5SRVVHejQ5dmt6YjVQdXBXNUQ3TjFlMk1DVjdlWTkyblZzZm5zUlRoZC1nY1hhYU5kZTRibm91ZE1ZNDgteHpYRlMtbVdHSTVvMFloV290azFWVnZIdzd1ZDJCVmFTZnkzNEl6TUdyUGxjV1B6ZXdVRHZFVVZOQTJQb0hmcWxxQkpGWjhULWFZcTlScmZHYTVnQ1liUmZtZFE1elpubmEtVnh6UDUxY256a3ktVDVzTG84TDRRSTZUNkxOeUcyWkhxQU1qQVg1WmxUVEx6TFByMlBIWW9tbTBjNnhTSXZaeDNn?oc=5)
-
-2026-06-22 <span class="news-indication-tag">中風</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi1wJBVV95cUxQaXpzNHZRZmlvcU1KbnlwM0RuSHpNS1gtaTI4LS1hMEpMWlMyaEVFUmdiMURXT0IwOXM4aUs0Q1FrNUpJWFhFVlM2bVJqcHVqcGZONUxTWW1fakI3VHIwbHNDTkI3eVNrNFVQbkdSZFdleGs1TE5SRVVHejQ5dmt6YjVQdXBXNUQ3TjFlMk1DVjdlWTkyblZzZm5zUlRoZC1nY1hhYU5kZTRibm91ZE1ZNDgteHpYRlMtbVdHSTVvMFloV290azFWVnZIdzd1ZDJCVmFTZnkzNEl6TUdyUGxjV1B6ZXdVRHZFVVZOQTJQb0hmcWxxQkpGWjhULWFZcTlScmZHYTVnQ1liUmZtZFE1elpubmEtVnh6UDUxY256a3ktVDVzTG84TDRRSTZUNkxOeUcyWkhxQU1qQVg1WmxUVEx6TFByMlBIWW9tbTBjNnhTSXZaeDNn?oc=5)
+來源：[Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sa244dHFvbEFhQ1hJeGNCMVRuWVh0YXdGODZrYVR0X0U3dWFuOFpiWnlCVTUzd2JVZmRKeEl1YXBqbHBlTWlteTNqZw?oc=5)
 
 ---
 

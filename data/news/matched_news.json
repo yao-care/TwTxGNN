@@ -1,17 +1,30 @@
 {
-  "last_updated": "2026-06-23T02:27:40.166737+00:00",
-  "total_count": 9,
-  "matched_count": 8,
+  "last_updated": "2026-06-23T06:40:21.912900+00:00",
+  "total_count": 8,
+  "matched_count": 6,
   "news": [
     {
-      "id": "3d44c3701555",
-      "title": "心臟病發不一定會胸悶！3種人「這些部位」會麻快就醫 當心久坐引爆血栓危機 - TVBS 健康2.0",
-      "published": "2026-06-23T02:09:59+00:00",
-      "summary": "心臟病發不一定會胸悶！3種人「這些部位」會麻快就醫 當心久坐引爆血栓危機&nbsp;&nbsp;TVBS 健康2.0",
+      "id": "7b9800c586b6",
+      "title": "養生陷阱｜43歲女食紅棗養生 半夜胃酸倒流「濁醒」 中醫師：非人人啱食「1時間」食用反削胃",
+      "published": "2026-06-23T03:38:47+00:00",
+      "summary": "養生陷阱｜43歲女食紅棗養生 半夜胃酸倒流「濁醒」 中醫師：非人人啱食「1時間」食用反削胃&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fT3pIMUlPTzBnS2VadW0yM1BNSnhXZ1RRdDZwWXQ4REYxQ1RFWFRvM3JqazJYWC1nMDl3NlkxVzVEcFY2ZUlzb3ZYUlZiazdPRWc?oc=5"
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMizgRBVV95cUxOVEhXVmV2eVRFUVdRS1JpbE54QVVPbTRWUVVQR2VIai15WlM0WjFEQVJVRTR3bVU5VDZVSl9WTzFkN01EalNaaG84V0xvSlJ4X3ZncnFvX0dCa2xBSEFwSFlISXRXNDg1ZngtNUY3cmNLRWEyNGhqaE5mOTFCYlFndUFVLXllSkl6UHpOTWRmemdabi11SGtQS2xzS0JqNWkyNjVBM1IxTTQyUkpQQ1pyWTBKYlJaamhrQ2Y4b3lkd0JRQmdNS1NLbDZhM1dWaVR3X0g3dTJ0ZGdwbVRqT2NPTjBmeWNVUlhyc3loWWZRSHhXLXV1bG5IX3NGQlowbDBmLVgwOEE5U0p4YUJjUUxycjNLeVc0eThzZ2ZGMHF3elRISkNKaFlUTU84X21jUWZIRmdBR0M1Sm5NX2lFbnJyMzh2bGlGMWxDbFBXbFhrMzhXLVA1WDExY0pCdy1WOUQ5d3RONTJyeV91YjVFaV9SdUtlZW8xWURoXzU4MXhvaWFRc290a29fZ25qdzJZSmZXXzBHNXZJRVpCakpBWEFWZWFJRmthcDJIdHZNYk1Kd1NIV0xBZzg4VktPRkJOMzFoUUJCWjE0VVhma0dKLTdxSW1LOUZ6TEhXbFNMMndOU0p4WFgzbnhmM0ZMS1ZzRTA5OVlrdzdKdW5tYTJPalRCQUVpc1RYcVd4ZVlyWEhNMEEzcWM0Z2RWZXdlaUxZcEtodG5WSEd1YnFPQmJuUXJvd19VUTkwLTYtQWxKYU1fbkE0VUY2c0VTQS1RcWtfdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d55b60017c84",
+      "title": "前幾天還好好的，為什麼突然病倒？醫揭最易忽略的健康警訊、預防最佳方案",
+      "published": "2026-06-23T02:47:30+00:00",
+      "summary": "前幾天還好好的，為什麼突然病倒？醫揭最易忽略的健康警訊、預防最佳方案&nbsp;&nbsp;Heho健康健康網》不一定胸痛！ 網紅醫揭心臟求救3警訊 走路腿痛也上榜&nbsp;&nbsp;自由健康網心臟病發未必胸口痛？揭糖尿病/長者/女性最易出現隱形警號｜附6大酸痛麻痺症狀&nbsp;&nbsp;星島頭條心臟病發不一定會胸悶！3種人「這些部位」會麻快就醫當心久坐引爆血栓危機- 營養好食&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "Heho健康",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sa244dHFvbEFhQ1hJeGNCMVRuWVh0YXdGODZrYVR0X0U3dWFuOFpiWnlCVTUzd2JVZmRKeEl1YXBqbHBlTWlteTNqZw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -107,35 +120,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e6e7b75d7421",
-      "title": "醫起看／健檢紅字別輕忽！醫揭CKM症候群死亡風險高3成",
-      "published": "2026-06-22T11:15:00+00:00",
-      "summary": "醫起看／健檢紅字別輕忽！醫揭CKM症候群死亡風險高3成&nbsp;&nbsp;Yahoo新聞糖尿病不只血糖高！輕忽「這件事」 醫示警恐傷心腎血管&nbsp;&nbsp;TVBS新聞網糖尿病患最怕不是中風？國衛院揭心衰竭風險暴增84％，醫籲每年抽血揪出「無症狀心衰」&nbsp;&nbsp;PChome Online 新聞愛心醫生教您2026年如何預防糖尿病 從篩查前移到主動預警&nbsp;&nbsp;蕃新聞愛心醫生教您2026年如何預防糖尿病 從篩查前移到主動預警 - 生活新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQaXpzNHZRZmlvcU1KbnlwM0RuSHpNS1gtaTI4LS1hMEpMWlMyaEVFUmdiMURXT0IwOXM4aUs0Q1FrNUpJWFhFVlM2bVJqcHVqcGZONUxTWW1fakI3VHIwbHNDTkI3eVNrNFVQbkdSZFdleGs1TE5SRVVHejQ5dmt6YjVQdXBXNUQ3TjFlMk1DVjdlWTkyblZzZm5zUlRoZC1nY1hhYU5kZTRibm91ZE1ZNDgteHpYRlMtbVdHSTVvMFloV290azFWVnZIdzd1ZDJCVmFTZnkzNEl6TUdyUGxjV1B6ZXdVRHZFVVZOQTJQb0hmcWxxQkpGWjhULWFZcTlScmZHYTVnQ1liUmZtZFE1elpubmEtVnh6UDUxY256a3ktVDVzTG84TDRRSTZUNkxOeUcyWkhxQU1qQVg1WmxUVEx6TFByMlBIWW9tbTBjNnhTSXZaeDNn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }
@@ -425,7 +409,7 @@
       "id": "d5bbf69410e8",
       "title": "高溫潮濕蚊蟲激增 渥公衛局籲防範西尼羅病毒",
       "published": "2026-06-21T19:38:00+00:00",
-      "summary": "高溫潮濕蚊蟲激增 渥公衛局籲防範西尼羅病毒&nbsp;&nbsp;大纪元夏季高發! 多倫多公園和湖邊暗藏“隐形殺手”, 15分鍾就可能中招&nbsp;&nbsp;華僑時報加拿大蚊蟲肆虐 「末日水桶」掀防蚊爆紅熱潮&nbsp;&nbsp;singtao.ca南加州發現西尼羅病毒 CDC：每年超過130人因此死亡&nbsp;&nbsp;Singtaousa以爲隻是感冒! 多倫多男子從發冷到進ICU僅幾天, 病毒侵腦身亡&nbsp;&nbsp;華僑時報",
+      "summary": "高溫潮濕蚊蟲激增 渥公衛局籲防範西尼羅病毒&nbsp;&nbsp;大纪元夏季高發! 多倫多公園和湖邊暗藏“隐形殺手”, 15分鍾就可能中招&nbsp;&nbsp;華僑時報南加州發現西尼羅病毒 CDC：每年超過130人因此死亡&nbsp;&nbsp;Singtaousa以爲隻是感冒! 多倫多男子從發冷到進ICU僅幾天, 病毒侵腦身亡&nbsp;&nbsp;華僑時報加拿大蚊蟲肆虐 「末日水桶」掀防蚊爆紅熱潮&nbsp;&nbsp;singtao.ca",
       "sources": [
         {
           "name": "大纪元",
@@ -441,43 +425,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f9e8a36e9edd",
-      "title": "【追星回春】追星後月經再現非回春 停經後出血別輕忽",
-      "published": "2026-06-21T05:00:00+00:00",
-      "summary": "【追星回春】追星後月經再現非回春 停經後出血別輕忽&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1idWF0YXhWd29hSVdrTFYyaFprOGc0ZWRJWlN3RU5vOWNCSE9LcGc1bWVncnhwYXVmTVFBcWNqRjVrc3BPVmV4LW8wRDJNNUtlNVd5SUEzUTNibHdGamVNZNIBZkFVX3lxTE5Td0JnTXFucFJpRV9HaHdhMzhTdFB1cmwyUnNBdHptZ1ZLcUxVRkpueHphLWs3Um9lYzV2U1VjeXFFdVdZNTc0Z2ZYTy1RY1VEX01vTldLaVZrN0o5YTJXTFBjbUZ6UQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }

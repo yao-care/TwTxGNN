@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [醫起看／健檢紅字別輕忽！醫揭CKM症候群死亡風險高3成](https://news.google.com/rss/articles/CBMi1wJBVV95cUxQaXpzNHZRZmlvcU1KbnlwM0RuSHpNS1gtaTI4LS1hMEpMWlMyaEVFUmdiMURXT0IwOXM4aUs0Q1FrNUpJWFhFVlM2bVJqcHVqcGZONUxTWW1fakI3VHIwbHNDTkI3eVNrNFVQbkdSZFdleGs1TE5SRVVHejQ5dmt6YjVQdXBXNUQ3TjFlMk1DVjdlWTkyblZzZm5zUlRoZC1nY1hhYU5kZTRibm91ZE1ZNDgteHpYRlMtbVdHSTVvMFloV290azFWVnZIdzd1ZDJCVmFTZnkzNEl6TUdyUGxjV1B6ZXdVRHZFVVZOQTJQb0hmcWxxQkpGWjhULWFZcTlScmZHYTVnQ1liUmZtZFE1elpubmEtVnh6UDUxY256a3ktVDVzTG84TDRRSTZUNkxOeUcyWkhxQU1qQVg1WmxUVEx6TFByMlBIWW9tbTBjNnhTSXZaeDNn?oc=5)
-
-2026-06-22 <span class="news-indication-tag">中風</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi1wJBVV95cUxQaXpzNHZRZmlvcU1KbnlwM0RuSHpNS1gtaTI4LS1hMEpMWlMyaEVFUmdiMURXT0IwOXM4aUs0Q1FrNUpJWFhFVlM2bVJqcHVqcGZONUxTWW1fakI3VHIwbHNDTkI3eVNrNFVQbkdSZFdleGs1TE5SRVVHejQ5dmt6YjVQdXBXNUQ3TjFlMk1DVjdlWTkyblZzZm5zUlRoZC1nY1hhYU5kZTRibm91ZE1ZNDgteHpYRlMtbVdHSTVvMFloV290azFWVnZIdzd1ZDJCVmFTZnkzNEl6TUdyUGxjV1B6ZXdVRHZFVVZOQTJQb0hmcWxxQkpGWjhULWFZcTlScmZHYTVnQ1liUmZtZFE1elpubmEtVnh6UDUxY256a3ktVDVzTG84TDRRSTZUNkxOeUcyWkhxQU1qQVg1WmxUVEx6TFByMlBIWW9tbTBjNnhTSXZaeDNn?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

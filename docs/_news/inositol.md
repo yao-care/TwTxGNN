@@ -44,11 +44,11 @@ permalink: /news/inositol/
 
 ## 相關新聞（1 則）
 
-### [心臟病發不一定會胸悶！3種人「這些部位」會麻快就醫 當心久坐引爆血栓危機 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fT3pIMUlPTzBnS2VadW0yM1BNSnhXZ1RRdDZwWXQ4REYxQ1RFWFRvM3JqazJYWC1nMDl3NlkxVzVEcFY2ZUlzb3ZYUlZiazdPRWc?oc=5)
+### [前幾天還好好的，為什麼突然病倒？醫揭最易忽略的健康警訊、預防最佳方案](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sa244dHFvbEFhQ1hJeGNCMVRuWVh0YXdGODZrYVR0X0U3dWFuOFpiWnlCVTUzd2JVZmRKeEl1YXBqbHBlTWlteTNqZw?oc=5)
 
 2026-06-23 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
 
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fT3pIMUlPTzBnS2VadW0yM1BNSnhXZ1RRdDZwWXQ4REYxQ1RFWFRvM3JqazJYWC1nMDl3NlkxVzVEcFY2ZUlzb3ZYUlZiazdPRWc?oc=5)
+來源：[Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sa244dHFvbEFhQ1hJeGNCMVRuWVh0YXdGODZrYVR0X0U3dWFuOFpiWnlCVTUzd2JVZmRKeEl1YXBqbHBlTWlteTNqZw?oc=5)
 
 ---
 

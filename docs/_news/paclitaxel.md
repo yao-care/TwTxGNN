@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [胃癌｜34歲3孩媽媽健身網紅 確診胃癌到離世僅3個月 最後身影曝光全網心碎【附年輕患癌因素】](https://news.google.com/rss/articles/CBMizwRBVV95cUxOcjNkTHFrQVRCMjdKRkFiNWQ2MDBIc3FZaEJFdmtaVXpMSEtBZlhQVzJDQ1ZOenFhN0Uza2RrMnRZclJBSDJEdmhlY29kVnN0TDN6cjF4Q3pkZHd0ZFFneE9QaklsRXBzTHZleF85VVFfU2F3VmNuSFF5eWQ5QTJiWXhodldTUy1icXhyZm1sQWVOdjc0WFVnVEtBc3djMWlyRmNaOFNvc0JoaUVWZnkxYkh0V0dacTd2aFpnR0VZdHE0T2VjYlBudm1mRkRjOEszN1dhU1BEOUlTcUZqUDRTT1lFUG1BT3NLWWMteUpVMFk2THZMTG1YTjZNcXhScVVUMnBFM1RQMS1YWGNHUkxodUY4eURWNF9QbldKZHNLLXBrM0hWYzZqLVhENEVBYU1tOG1IX1BBVkdYVU1ub3RBbndRNHBkbjJSM21PZTI3R1M1YmlkdnFFc3B2SkVYelBpYVVuNExCSFBDUzVqTnl1eG93UUFwMVlPeGFESE54Wi1XTWhSRHdQLUVaMUF2R2pEbGh4QnlkeTB1VndHTzRwNjZFM3BFVjRwZHZxcEtDTF9ublB1dUlsZmNFR0I1R0lsNGJiTGYwQm5SSVh0TGVOYnFRQzNuYV9Ea0hRajRfODh2Zl9VSUNNSzN3aXVGMmtzQ1RFXzl3TklvVVVnZHBxUDZCSkNlTjk1T2ZJaktDRUF0ZzBRNndFMEk4bUxicUdqNURTQ0FRSnQ1bXd4WEFldi1tSnVKU2d6S3R2RFQtU3lpRFlTZzV2VXBERkJMd00?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/paclitaxel/
 2026-06-22 <span class="news-indication-tag">癌症</span>
 
 來源：[東方新地](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNejhHX2VGX29VSk1mMXA0SzdrTXF3N3hKazVXR3FGX1B6T0wzS01ZS1NnRnlGUjMxbjIzZ0E1cXdvSzN3ZVlrNnJKUTlrOXd3UVlPLXNvVmthMlkzS0IxckREYmJQM2c5OUxYVUZPcFo4UWVDMW5fdlk5d3E5YnpGU0t5SGR0VFVXU2wzQTNZSms5eXhUQURSejdDOF9tT1BwRGJRMWVCZXF3Yk9uV3pHYzFiVFgybHJhR1BoeDdMMzBIX19CVTh6TXEtTVpZM0cxam1MVy1GTUU1eDYzOGp1dk4yX2k1Y0RVQjM2VmpoNXM3c1FkOUFRcEd3?oc=5)
-
----
-
-### [【追星回春】追星後月經再現非回春 停經後出血別輕忽](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1idWF0YXhWd29hSVdrTFYyaFprOGc0ZWRJWlN3RU5vOWNCSE9LcGc1bWVncnhwYXVmTVFBcWNqRjVrc3BPVmV4LW8wRDJNNUtlNVd5SUEzUTNibHdGamVNZNIBZkFVX3lxTE5Td0JnTXFucFJpRV9HaHdhMzhTdFB1cmwyUnNBdHptZ1ZLcUxVRkpueHphLWs3Um9lYzV2U1VjeXFFdVdZNTc0Z2ZYTy1RY1VEX01vTldLaVZrN0o5YTJXTFBjbUZ6UQ?oc=5)
-
-2026-06-21 <span class="news-indication-tag">停經</span>
-
-來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1idWF0YXhWd29hSVdrTFYyaFprOGc0ZWRJWlN3RU5vOWNCSE9LcGc1bWVncnhwYXVmTVFBcWNqRjVrc3BPVmV4LW8wRDJNNUtlNVd5SUEzUTNibHdGamVNZNIBZkFVX3lxTE5Td0JnTXFucFJpRV9HaHdhMzhTdFB1cmwyUnNBdHptZ1ZLcUxVRkpueHphLWs3Um9lYzV2U1VjeXFFdVdZNTc0Z2ZYTy1RY1VEX01vTldLaVZrN0o5YTJXTFBjbUZ6UQ?oc=5)
 
 ---
 
