@@ -14,7 +14,7 @@ permalink: /news/acitretin/
 ---
 
 <p class="key-answer" data-question="Acitretin 有什麼相關新聞？">
-<strong>Acitretin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 4 個。
+<strong>Acitretin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 4 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,31 +36,9 @@ permalink: /news/acitretin/
 <p><a href="{{ '/drugs/acitretin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（0 則）
 
-### [崩潰！母胎單身男「肛門長肉瘤」一驗竟是菜花 醫：三大破口風險高](https://news.google.com/rss/articles/CBMisAJBVV95cUxOdmdhYXJPSHJ5RXVHd2k3NklRWHNSOGVZNnljVmJYR1N6SU03bnpTRXVnUUJZejZsZmxiVndKLV9sUng4SVZzSldtV2JZb3hyV2d4Z3BzUnI3VkpUOEh5NDR3alNSVVBseU5kQWFtQ3ozeDhsVnRWcUlzTURhSWhaWWdUQUNxUXdoMERTQTNZR0ZiTjJDbVBlRjVJWDhZSFJXMmRlc3hkTjRVNW93SXI2ckczTEpMcFZja2Z3c0RxM3FZaENPSWZfVTVOVEF5amdDUGQwVVVXU0xLOG9INENIOFhuUlgtbVpRcTgtYlRSbkhuZUpuckw2dHdJZGlVTjVKSXBBZE5pU3NValBiYWwyTjFjWnd0LU9rVjVYLS04c1hoWFpZMWU3MzE5LVNVNE56?oc=5)
-
-2026-06-24 <span class="news-indication-tag">癌症</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMisAJBVV95cUxOdmdhYXJPSHJ5RXVHd2k3NklRWHNSOGVZNnljVmJYR1N6SU03bnpTRXVnUUJZejZsZmxiVndKLV9sUng4SVZzSldtV2JZb3hyV2d4Z3BzUnI3VkpUOEh5NDR3alNSVVBseU5kQWFtQ3ozeDhsVnRWcUlzTURhSWhaWWdUQUNxUXdoMERTQTNZR0ZiTjJDbVBlRjVJWDhZSFJXMmRlc3hkTjRVNW93SXI2ckczTEpMcFZja2Z3c0RxM3FZaENPSWZfVTVOVEF5amdDUGQwVVVXU0xLOG9INENIOFhuUlgtbVpRcTgtYlRSbkhuZUpuckw2dHdJZGlVTjVKSXBBZE5pU3NValBiYWwyTjFjWnd0LU9rVjVYLS04c1hoWFpZMWU3MzE5LVNVNE56?oc=5)
-
----
-
-### [誤以為老化或壓力大癌症專家點名5常見危險徵兆- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTE5PR2JBWFRjN1RqeGE0d3JTVUZSSnprRkQwUTVRdVJQMXNjQlppa1FvVXNXWHMtY3dGbVRGZWRGRU8xQjhEaDBpSjdSem5GMWFFNUF2alp3SWJQT2V5MGhzMHByNG51Vk90VVFvei13?oc=5)
-
-2026-06-23 <span class="news-indication-tag">癌症</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5PR2JBWFRjN1RqeGE0d3JTVUZSSnprRkQwUTVRdVJQMXNjQlppa1FvVXNXWHMtY3dGbVRGZWRGRU8xQjhEaDBpSjdSem5GMWFFNUF2alp3SWJQT2V5MGhzMHByNG51Vk90VVFvei13?oc=5)
-
----
-
-### [5腫瘤專家都不敢吃「1食物」！示警：超傷腸道、罹癌風險增](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5idkdRZDg0Ukl2NV92UUQ3SXZBUm5EVE9JdjdMTkZhUWt6NVFjSmVCRkpKbndZMmdQZ1ZMUlNVSnhCQ09UMWt6M1FrQm8?oc=5)
-
-2026-06-23 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5idkdRZDg0Ukl2NV92UUQ3SXZBUm5EVE9JdjdMTkZhUWt6NVFjSmVCRkpKbndZMmdQZ1ZMUlNVSnhCQ09UMWt6M1FrQm8?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
