@@ -27,7 +27,7 @@ permalink: /news/oteracil/
 <li><strong>原適應症</strong>：胃癌用藥。</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">colonic neoplasm（100.0%）<span class="indication-tag">📰 大腸癌</span></li>
+<li>colonic neoplasm（100.0%）</li>
 <li>cecum villous adenoma（100.0%）</li>
 <li>cecum neuroendocrine tumor G1（100.0%）</li>
 <li>lipoma of colon（100.0%）</li>
@@ -44,11 +44,11 @@ permalink: /news/oteracil/
 
 ## 相關新聞（2 則）
 
-### [5腫瘤專家都不敢吃「1食物」！示警：超傷腸道、罹癌風險增](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5idkdRZDg0Ukl2NV92UUQ3SXZBUm5EVE9JdjdMTkZhUWt6NVFjSmVCRkpKbndZMmdQZ1ZMUlNVSnhCQ09UMWt6M1FrQm8?oc=5)
+### [疲勞、壓力大都上榜！醫揭「5大易被忽略」的癌症警訊](https://news.google.com/rss/articles/CBMiygJBVV95cUxOQ1ctRmdVQVY0dmVmWEFmbW9hRW9oQWxmdFhhekRpZWdoWm5WZXRVSWtPeC11UGpSbk8yU0ZLcGxoZHhTREI3cHdOcWFaTnRRMklLbk9FdVNDengzTGFfYU1md2NOZS1RV19kZTF0Q09MNmZUc0h4TmpSRWFLdDQ2ZkJCck13TVI0Nk4wemhqUENPa2FBallPZmtLRW9uc09uMHZaXzloaUxBOEQ1SFVQaTNlNkoxb05fQlNaQWozMTBWVUNqODBGZzVLeHdEd2YzMUpXMU1SUk50LWQ4ZkdNMnhFSU4tNEpNV203N2JFSW1sM3JwZE1wWE1jMjVSWEtqbGFnQXk4N0M3d0NJZWhkOG5OXzgtcTVrem14RXhHU203Tmhha0VyOTdEOUFLTzdWcU5vaDBRLUFUcE85VTAtQVR5MHQ1YnliZ0E?oc=5)
 
-2026-06-23 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-06-24 <span class="news-indication-tag">癌症</span>
 
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5idkdRZDg0Ukl2NV92UUQ3SXZBUm5EVE9JdjdMTkZhUWt6NVFjSmVCRkpKbndZMmdQZ1ZMUlNVSnhCQ09UMWt6M1FrQm8?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiygJBVV95cUxOQ1ctRmdVQVY0dmVmWEFmbW9hRW9oQWxmdFhhekRpZWdoWm5WZXRVSWtPeC11UGpSbk8yU0ZLcGxoZHhTREI3cHdOcWFaTnRRMklLbk9FdVNDengzTGFfYU1md2NOZS1RV19kZTF0Q09MNmZUc0h4TmpSRWFLdDQ2ZkJCck13TVI0Nk4wemhqUENPa2FBallPZmtLRW9uc09uMHZaXzloaUxBOEQ1SFVQaTNlNkoxb05fQlNaQWozMTBWVUNqODBGZzVLeHdEd2YzMUpXMU1SUk50LWQ4ZkdNMnhFSU4tNEpNV203N2JFSW1sM3JwZE1wWE1jMjVSWEtqbGFnQXk4N0M3d0NJZWhkOG5OXzgtcTVrem14RXhHU203Tmhha0VyOTdEOUFLTzdWcU5vaDBRLUFUcE85VTAtQVR5MHQ1YnliZ0E?oc=5)
 
 ---
 

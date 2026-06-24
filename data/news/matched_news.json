@@ -1,197 +1,17 @@
 {
-  "last_updated": "2026-06-24T18:53:05.261874+00:00",
-  "total_count": 15,
+  "last_updated": "2026-06-24T20:28:12.790189+00:00",
+  "total_count": 16,
   "matched_count": 4,
   "news": [
     {
-      "id": "34159d1cb8de",
-      "title": "吃魚油防失智？研究戳破保健品神話 不如多吃這類食物更實際",
-      "published": "2026-06-24T09:06:12+00:00",
-      "summary": "吃魚油防失智？研究戳破保健品神話 不如多吃這類食物更實際&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUMm8wNV9YVU5hWG5EV2xrbG5VM243YTNhNGU2VmlhSzJFY2gtVGdNbEVDLWhkZU1NU2QwMzBNaHExaE1fa05qcjZjMnhCdmpQQVpxZ2lqYmhCOWxmaFlZTDhn0gFiQVVfeXFMUFQybzA1X1hVTmFYbkRXbGtsblUzbjdhM2E0ZTZWaWFLMkVjaC1UZ01sRUMtaGRlTU1TZDAzME1ocTFoTV9rTmpyNmMyeEJ2alBBWnFnaWpiaEI5bGZoWVlMOGc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3dc415314c8c",
-      "title": "糖尿病｜15歲少年患糖尿病睡夢中猝逝父母發現「一睡不醒」送院不治揭長年3大惡習惹禍【附22個糖尿病先兆症狀】",
-      "published": "2026-06-24T09:00:24+00:00",
-      "summary": "糖尿病｜15歲少年患糖尿病睡夢中猝逝父母發現「一睡不醒」送院不治揭長年3大惡習惹禍【附22個糖尿病先兆症狀】&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMivAVBVV95cUxPWWpPS3ZGYTJtekV2U1BmMzRyRVVkWTZ0UnFrcEt5SlZtYlRVa2xqdC1jN2tNMW9lQnFZMjd3S1JWTXltRXdUdmZHSEp4N2NqUUhFdnRQR3h5Q3JsSml5YmF2dTUtNjFKSHRfZ3UwZzY2MTdCZ1k2bUlMNUU3RmFobWpHSDl5cm5NZlY4YlBlZDUzLXVXdE1wY3BYMTdXV05sdUVlNUxab2Z4cW9sWEp3YnQ1NXFxeWg0Q2RhdXJyY0tlck5GM3JNMHBqMndoWmZEN19ESmtVNjBwcWFmV254NmcyTUpZSldPZDZadi1DWGRQZWRDbWwxVmQxbTR1ZzdLSlVURnBwa0FIZ21oUUNfTlQ1a0dwLVM1Y2hGSmZvajJQZU16MFNSTU84UjhZOVBsOGlhWkZQVlVaa2UxcHQ2X1BEVFd5R2s3VWI2UjdZaHBGcDg1TkZmeEhrS3NRMG0tMVZ6Rzkxam5KeGd2YkpQSGJRQVNqUjQ4Sjhkc01uWmszUlI2M0FhVFlkUi10a09qcUpmcGo5aW9MS01sb3pYUGhNeGZNR0VVVEpHcV9CdVh4czV1d2FQb1JRQmJqTjQ2NFNKbENJaWRGRFNTWHRqaDQ5NWpVOWhFMWNtLTZIVHJFY1gyU2w1dFc2V3I2NnpVb3QyS0diUk9uSG5Ma0xvZEZEaEpVeVUtMGpRQTlsU1lNZ1dkeDBUZDIxOHAzeTRrdmctSUlPNkZRQV91VVBPZVprLTU5WjkwSF9xZ1RZU3ZwbUhYbnBlQ1I4Q3lUWlVLQlcxWmp3eG9SblRWX0FYS1FLQTNleUFDbG1jY05EV2laV1FaS0h2cFNzb1dvUlJ0aDhodVYycWV4dGl1Z0hBUXVIT1BKbGo0YTFNNm9DS3VxcnhKSERzLW41NUc4Si1OVVpINlVSZW5XcFRW?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "18f84498dd3a",
-      "title": "破解癌細胞「隱形身分證」 研究揭免疫系統反殺抗藥性關鍵",
-      "published": "2026-06-24T07:41:00+00:00",
-      "summary": "破解癌細胞「隱形身分證」 研究揭免疫系統反殺抗藥性關鍵&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WQm91WXhnaVdjUmUwSnJkdEtrS1pQU3dwbElHLUJSZjBhUE5XMVdNYkF1OFZ3dTNiMnAwVEVqWjc1TTY5OVBXeVJsUDJRcWViWm1seVRKbUlrZUFkeC1RSVE1YTbSAWpBVV95cUxPQXRERHNiWkEtamgxc1VDTldJRE1MOU1CQTFxMC1qa1J2RzV1bXY1NkctTTRiRkNRUnBUSmVYTDBVOVg2SVpMQzQ2Sk5DeW5seGNaRjNvaGJjVzctQ1QzYmlvQ3cyejlBV0dB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "51e9f0ff65eb",
-      "title": "養生陷阱｜女子半夜常胃酸倒流 元兇竟是「安神果實」 中醫揭4類人少吃：1時段忌食",
-      "published": "2026-06-24T05:41:44+00:00",
-      "summary": "養生陷阱｜女子半夜常胃酸倒流 元兇竟是「安神果實」 中醫揭4類人少吃：1時段忌食&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxNUGE2QlRJQWZlMk1nYzFTaURiNTlZNmFmT1BfTHZiVG85cmsyN2N0cHk1d1lYd1lWS2dOUDRqUVlKZ0c0SXFHbWZRMFdUUFFzcTRJZm9PVzhWVVoyZjctNmNjdWJ4QW9ZVWVIQTV3VGJMM2RUalZBWlo1RF9vQjUzTV9pUjByV2JhMldNemtrWVFMUUc5MXN5ckR2MHM3VlNENDV5RDFMb01ENUNVNDdwWnQ1VHNmX0lrVWMyYmtWNS1icDdiSFpYaWlmV3U2MEpCR0lYT21lNFhBQ200cS00R0NMeWRNSFF3YzUyYjl4Z3hTeFRaN25lX0JBR0VwbEh2SjRzQXJKcXJFTjJpMWF4RElOWjQwMkJWd3lfakF0eHkyZjBEYlplbmpXSGxEczZKRjAzZ1d6Q2R2SnB1dUZiNFJ0QklLLUtnOTgtRjJzVzBPaExFeF9DRTM3cENlZlRjcFhlVjNSYk93TFk1N0hZczFjSjItR2NoRkdGUElLaVd0LXZROEdIMjdsMWJmbFE3VDR3UVhubXVTX1pYaEotX05mYWRHNDNiZXN4Z2RKcGVkcU1ZcjNNUFYzaVZNWTdXWW5fZ1RnVWx1NVAxNTd0ZFd4eVZtSTJGN1h1VVN2YVRsTHdpZzlSMGppSmwtVUNhM3Jkb080ME82bW4weVhmcFhQRm40RXQwYUNWaG1iTlVoeVhJSVUtSmJFZF9DbWR1NXRZWEYwNVRWUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "11b7696cea77",
-      "title": "健康網》磨牙不是牙齒問題 醫揭4大原因：壓力、缺氧都入列",
-      "published": "2026-06-24T03:53:00+00:00",
-      "summary": "健康網》磨牙不是牙齒問題 醫揭4大原因：壓力、缺氧都入列&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5b2NDWjRtOV9nMU52OEVlbmxRWE43QXVwR2VrZVdLRVA1NDVyNEExUnA2NkN1czBFYUktNVZIVHJKZ1lZZUhpZTNhRnBvX252UVpUUk15NDJKaGNKdVZIdHJHUEnSAWpBVV95cUxNcE9pRjl0ZVVlRkxwOWxXSDRPcGxVeHR2ZXNQT25QMlFnYjBzQkVDb0hhcVl2aWt3ZUNsUjR4VW9kUmhUM21YTUJQak5tQXVjRVFxSUd5QjBiNldnaVdKZU9STmUtRGZBNE1B?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b851e49fd9da",
-      "title": "痛心往事一輩子都走不出 研究：男女大腦「這激素」是痛苦開關",
-      "published": "2026-06-24T03:43:00+00:00",
-      "summary": "痛心往事一輩子都走不出 研究：男女大腦「這激素」是痛苦開關&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uTWtUdjRoWG5SeFJhdUlscFotc3lVck9TQTF5YzhtT0RJcHRkMDZnZ2FNeDB2a2tNTW8tTmpldl9lUDRDZHFXV0dhdmJwdU5uVVpQcDRVSlhxUE5vQ0Ftb25pbGHSAWpBVV95cUxOc3MyTXJTMTEyajRVNktXQV9RVVBlY1dPRVVOelF2Wll5QkJKOXZhZG9CNV80S3JKNzZMY2Jsdy1fS2RVU25CV3JJVHBpTEdrRzBNWmRWWVU4VTZwSmRPWlQ1SlZsNkVERG1R?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b0d670d12d6a",
-      "title": "香港愛滋病顧問局認同並肯定衞生署的一站式性健康服務可達致「多病共防」 進一步照顧性小眾的多元需要",
-      "published": "2026-06-24T02:30:32+00:00",
-      "summary": "香港愛滋病顧問局認同並肯定衞生署的一站式性健康服務可達致「多病共防」 進一步照顧性小眾的多元需要&nbsp;&nbsp;紫荊雜誌",
-      "sources": [
-        {
-          "name": "紫荊雜誌",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmdoZmpKTnYxNnJQeDR6ZG1GZWl6aDVaOXp1OGFvbmtwaHZVSEJEX2Z4ZGxKZy01WlJYdGthWlRYeTdoZlFGS3ZvQU4wOFRXbGR2aVFHbFBLWmd5MmVxTWQteWtPZXlmYnZ4TTlNbkxmQ2tvLWxnTXR0MWxXNGlYaldWTWdLdmxuZEYxYjVVZXo?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9ab248f7caa5",
-      "title": "延緩失智關鍵不只保健品！研究：細嚼慢嚥＋偶爾下廚有助保護大腦、降低認知退化風險",
-      "published": "2026-06-24T01:11:46+00:00",
-      "summary": "延緩失智關鍵不只保健品！研究：細嚼慢嚥＋偶爾下廚有助保護大腦、降低認知退化風險&nbsp;&nbsp;Yahoo新聞最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨&nbsp;&nbsp;Yahoo新聞討論牆 | 最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨&nbsp;&nbsp;LINE TODAY延緩失智！研究：細嚼慢嚥＋偶爾下廚有助保護大腦.降低認知退化風險&nbsp;&nbsp;台視新聞網每天15分鐘逆轉腦齡? 醫揭2關鍵：70 歲開始也有效&nbsp;&nbsp;MSN",
+      "id": "2dcee9be0a4d",
+      "title": "疲勞、壓力大都上榜！醫揭「5大易被忽略」的癌症警訊",
+      "published": "2026-06-24T11:00:00+00:00",
+      "summary": "疲勞、壓力大都上榜！醫揭「5大易被忽略」的癌症警訊&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPdFZZcWhjR2ZIUmh4VHBJRVFRVURqYW9XOW5PNnViM2tyWmM1cjlKcFhiaXIza2VOSmNiRXpjSTBsQUtYUk1oaWN1Xzg0WGVLSlQ2S292ZjhRbU9PZW1lVGwteWRVakM4NFNyTS1tazNoYUtVMGpWMW9wQTRrUC10MlRtYm1GNlN1OU81OHhidHNPYk9pRGRxd2lpU1FMbklSSW41U0JYY29ZVGlwU1JoZ0RsNXNrc05kb2hodTVyNnZESE9VOURwVU1LMmd5eUc3ZTFZS3NRM2tac2FkSVRwWUVtMzVQUGs1YWtaTDc4alluNVdNa29PaHdlbjZmcFo0aUJPUkZQcmRHVDN5SkZ4WmdKODdwODU3QWItYUNJSWxyNjhRZDFRX2NITVNCQ0dkcFhPUzNnb1BSMVFRYUlsMUJFVnNhR2dOUDU1OEx0MmFMXzN0LUxZWXhLNWljMTc1dG1XOHlFMGtxN2FRUnpUalZaT1dLOFJxZkRZUHVTRVBUOWZZVTFUTTVCY2Z2NVNaZ2pEa09KalVpb0EtX05WZVVsLVltWVpNMEtLSW80dV9lNnVDQ1A1WjdOSy1zRHRxUWptOHpMU19KeDZXRGNMSVhhbjdtS1JtV1EySjd1cXdRMGN5bDFma1p4bUpVcGJubkFqMFpuYW53eEFn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "62a6651eaed7",
-      "title": "新螢光導航技術讓膽囊切除手術更安全精準| 健康",
-      "published": "2026-06-23T23:59:56+00:00",
-      "summary": "新螢光導航技術讓膽囊切除手術更安全精準| 健康&nbsp;&nbsp;東方新地",
-      "sources": [
-        {
-          "name": "東方新地",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOUVZDUVdJV1pUNG1oWEpsWGFOdFQwa3NtdXc4bHg5MUxPd005TlVheTZOS1p1Qy1SRDZmZTJkQ29ZQlFaTFdwLWdCNGJ6NmhxbXZlTklIZ19WM2VXQ1RSQ2hMcVAyeVY5elRNSlRxMnEwWUFwdUxocmxseGp5STBwVHUtaU1QaW5GTmhnRGhHa1Z2NjBVZ3JFc1c1Mm4xRW81enpFeWVnN3JfSzRGLTlWUmo3a292OGM1Z0c4YUd5Z2tJdjZzTXRRNXc0Z09ySzc3ZkZPMi14cDJXcmtHQldRTmhCa3VQenBNZmlZY1ZlSWRfTGNYeUJIUVlrUmY2bTJGbnJ1U1R6R1VHcDZIMGdjZ3k4dk5hRVZPd3FLMmdtSW1OSGYzamRaNGVFc3ItY0dVMDF3ZnJSMEJkWDMzdkNRMDRWbFNFblFSZWVnbw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "abe1aeabdbd5",
-      "title": "房貸、車貸都在繳？醫：別忽略潛伏多年的HPV風險",
-      "published": "2026-06-23T22:30:00+00:00",
-      "summary": "房貸、車貸都在繳？醫：別忽略潛伏多年的HPV風險&nbsp;&nbsp;民視健康長照網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "民視健康長照網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91eEJiZC1xbk9xNkNIUmc3YXhPaFNLWkRZaEZUcEdmNTF4WElUNGRtUXRSejlpNTc1TDc1RF8tNHc4cHpCLVNqeUQ5QkZRaE9ndGJpZC1vMno5aDNMaWh5OGlfVDk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ecf42cad3499",
-      "title": "全國多個地區降雨高於正常水平 今年夏季的蚊患或較往年更加嚴重",
-      "published": "2026-06-23T17:36:35+00:00",
-      "summary": "全國多個地區降雨高於正常水平 今年夏季的蚊患或較往年更加嚴重&nbsp;&nbsp;am1320.com高溫潮濕蚊蟲激增 渥公衛局籲防範西尼羅病毒&nbsp;&nbsp;大纪元加拿大蚊蟲肆虐 「末日水桶」掀防蚊爆紅熱潮&nbsp;&nbsp;singtao.ca",
-      "sources": [
-        {
-          "name": "am1320.com",
-          "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNV2hGaHhtUzlPcUtZMW1IMDRvRHhtTXFMVGNQN1I0cFJ2cTdaZmhRMjJLWUk4STl5M0MwbUFwc196aTdJaHdzb0RIN21mdmhTREQ2d0pFSUtsMXdLSjlqQ2JEa0VuVlhueHdhRFk3Tkh2TTVCU0dxUU1TajBtT09rNjY4T2tPMldzRHpUcXh3bFMxa2hqbktmd3ZLRElLUlR3Nk1nenN1MGpVSkNzMGlVWU5uTFh0UEY4Y2ZtMTVERGhobjRMSFI5bl9nSnNDNTc1TjR4OHFEUXhnbmZSVS1rT0RFdGowMXZoQl8wazg3d3FHT0QwVFZtUmhXVy1MSEZ6MmhVMTZhb01PaHJSc2R5Mm5BbjQ3YkpXLUxZLVdJX0lvZkE4ejJ4amR6eE1jWUQyS3lrUHF3enJBUDBnaWxkNUdIZUFXQno4Wk1na3dubHZ0WWJGeklDWHUzRFJmbjJBSmFXam9sUGRPb2QtQjYxeDBn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "875444cea690",
-      "title": "跨國基因研究揭示梅尼爾氏症源於早期內耳發育異常 - GeneOnline News",
-      "published": "2026-06-23T16:41:41+00:00",
-      "summary": "跨國基因研究揭示梅尼爾氏症源於早期內耳發育異常&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPUjdsMVhjWDZwVjJtcGh1Y0x0WWdzeEktcWVnUEEwTU5RNmtCd2dnNGtETVdadWNxWlZ0QjA2Sl9FYkI0VnhtdWkyRnlTdk9EdC1OOVZkcFZ5TEdjSlNkSy1wQmJUODNsNXZjRFpJNmh5TzJ1Vm91V2lCTDBXRlZMMjUyS1dTS1g1ZkpWeE5yMEVWbVZ4QnJEM3N4WGl5aHktZ1VFbDBfSEVSTGZtRzZVTmtFLUVpOGppU0tLeXEwZVVLRVVDOWlhUUlzRjBmd3lDTzgwSHF4Z29USWlmYnp0cjZ3TldYN0FhdFFod0g1dGhTLWRwbzR6RGV6NkJ0TUhiRHZXX3dUb054Q1I1RlhvYXFuV29qZ2tGWXJsZF8tUVJRVUI1T0VuQjdEV2ozWTR3SVhSU29nM2RUTWZ1NkdXV3RPVkl0Zw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "17f0c1b84719",
-      "title": "5腫瘤專家都不敢吃「1食物」！示警：超傷腸道、罹癌風險增",
-      "published": "2026-06-23T10:32:06+00:00",
-      "summary": "5腫瘤專家都不敢吃「1食物」！示警：超傷腸道、罹癌風險增&nbsp;&nbsp;祝你健康健康網》怕癌症什麼都不敢吃 專家：更重要的是攝取量&nbsp;&nbsp;自由健康網5位腫瘤專家最不敢吃什麼? 答案竟然完全一致&nbsp;&nbsp;MSN5位腫瘤專家最不敢吃什麼？答案竟然完全一致- 國際&nbsp;&nbsp;中時新聞網大腸癌｜日本發生率全球第5，醫生揭主因非吃肉，3大生活習慣增風險| 健康解「迷」 - 醫學通識- 健康好人生&nbsp;&nbsp;etnet 經濟通",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5idkdRZDg0Ukl2NV92UUQ3SXZBUm5EVE9JdjdMTkZhUWt6NVFjSmVCRkpKbndZMmdQZ1ZMUlNVSnhCQ09UMWt6M1FrQm8?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOQ1ctRmdVQVY0dmVmWEFmbW9hRW9oQWxmdFhhekRpZWdoWm5WZXRVSWtPeC11UGpSbk8yU0ZLcGxoZHhTREI3cHdOcWFaTnRRMklLbk9FdVNDengzTGFfYU1md2NOZS1RV19kZTF0Q09MNmZUc0h4TmpSRWFLdDQ2ZkJCck13TVI0Nk4wemhqUENPa2FBallPZmtLRW9uc09uMHZaXzloaUxBOEQ1SFVQaTNlNkoxb05fQlNaQWozMTBWVUNqODBGZzVLeHdEd2YzMUpXMU1SUk50LWQ4ZkdNMnhFSU4tNEpNV203N2JFSW1sM3JwZE1wWE1jMjVSWEtqbGFnQXk4N0M3d0NJZWhkOG5OXzgtcTVrem14RXhHU203Tmhha0VyOTdEOUFLTzdWcU5vaDBRLUFUcE85VTAtQVR5MHQ1YnliZ0E?oc=5"
         }
       ],
       "matched_keywords": [
@@ -389,237 +209,201 @@
               "name": "Zanubrutinib"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "34159d1cb8de",
+      "title": "吃魚油防失智？研究戳破保健品神話 不如多吃這類食物更實際",
+      "published": "2026-06-24T09:06:12+00:00",
+      "summary": "吃魚油防失智？研究戳破保健品神話 不如多吃這類食物更實際&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUMm8wNV9YVU5hWG5EV2xrbG5VM243YTNhNGU2VmlhSzJFY2gtVGdNbEVDLWhkZU1NU2QwMzBNaHExaE1fa05qcjZjMnhCdmpQQVpxZ2lqYmhCOWxmaFlZTDhn0gFiQVVfeXFMUFQybzA1X1hVTmFYbkRXbGtsblUzbjdhM2E0ZTZWaWFLMkVjaC1UZ01sRUMtaGRlTU1TZDAzME1ocTFoTV9rTmpyNmMyeEJ2alBBWnFnaWpiaEI5bGZoWVlMOGc?oc=5"
+        }
+      ],
+      "matched_keywords": [
         {
           "type": "indication",
-          "name": "腫瘤",
-          "keyword": "腫瘤",
+          "name": "dementia",
+          "keyword": "失智",
           "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
       ]
+    },
+    {
+      "id": "3dc415314c8c",
+      "title": "糖尿病｜15歲少年患糖尿病睡夢中猝逝父母發現「一睡不醒」送院不治揭長年3大惡習惹禍【附22個糖尿病先兆症狀】",
+      "published": "2026-06-24T09:00:24+00:00",
+      "summary": "糖尿病｜15歲少年患糖尿病睡夢中猝逝父母發現「一睡不醒」送院不治揭長年3大惡習惹禍【附22個糖尿病先兆症狀】&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMivAVBVV95cUxPWWpPS3ZGYTJtekV2U1BmMzRyRVVkWTZ0UnFrcEt5SlZtYlRVa2xqdC1jN2tNMW9lQnFZMjd3S1JWTXltRXdUdmZHSEp4N2NqUUhFdnRQR3h5Q3JsSml5YmF2dTUtNjFKSHRfZ3UwZzY2MTdCZ1k2bUlMNUU3RmFobWpHSDl5cm5NZlY4YlBlZDUzLXVXdE1wY3BYMTdXV05sdUVlNUxab2Z4cW9sWEp3YnQ1NXFxeWg0Q2RhdXJyY0tlck5GM3JNMHBqMndoWmZEN19ESmtVNjBwcWFmV254NmcyTUpZSldPZDZadi1DWGRQZWRDbWwxVmQxbTR1ZzdLSlVURnBwa0FIZ21oUUNfTlQ1a0dwLVM1Y2hGSmZvajJQZU16MFNSTU84UjhZOVBsOGlhWkZQVlVaa2UxcHQ2X1BEVFd5R2s3VWI2UjdZaHBGcDg1TkZmeEhrS3NRMG0tMVZ6Rzkxam5KeGd2YkpQSGJRQVNqUjQ4Sjhkc01uWmszUlI2M0FhVFlkUi10a09qcUpmcGo5aW9MS01sb3pYUGhNeGZNR0VVVEpHcV9CdVh4czV1d2FQb1JRQmJqTjQ2NFNKbENJaWRGRFNTWHRqaDQ5NWpVOWhFMWNtLTZIVHJFY1gyU2w1dFc2V3I2NnpVb3QyS0diUk9uSG5Ma0xvZEZEaEpVeVUtMGpRQTlsU1lNZ1dkeDBUZDIxOHAzeTRrdmctSUlPNkZRQV91VVBPZVprLTU5WjkwSF9xZ1RZU3ZwbUhYbnBlQ1I4Q3lUWlVLQlcxWmp3eG9SblRWX0FYS1FLQTNleUFDbG1jY05EV2laV1FaS0h2cFNzb1dvUlJ0aDhodVYycWV4dGl1Z0hBUXVIT1BKbGo0YTFNNm9DS3VxcnhKSERzLW41NUc4Si1OVVpINlVSZW5XcFRW?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "18f84498dd3a",
+      "title": "破解癌細胞「隱形身分證」 研究揭免疫系統反殺抗藥性關鍵",
+      "published": "2026-06-24T07:41:00+00:00",
+      "summary": "破解癌細胞「隱形身分證」 研究揭免疫系統反殺抗藥性關鍵&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WQm91WXhnaVdjUmUwSnJkdEtrS1pQU3dwbElHLUJSZjBhUE5XMVdNYkF1OFZ3dTNiMnAwVEVqWjc1TTY5OVBXeVJsUDJRcWViWm1seVRKbUlrZUFkeC1RSVE1YTbSAWpBVV95cUxPQXRERHNiWkEtamgxc1VDTldJRE1MOU1CQTFxMC1qa1J2RzV1bXY1NkctTTRiRkNRUnBUSmVYTDBVOVg2SVpMQzQ2Sk5DeW5seGNaRjNvaGJjVzctQ1QzYmlvQ3cyejlBV0dB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ccf35ca1b9c0",
+      "title": "嬰兒溢吐奶或異常嘔吐怎麼分？醫警告這「3徵兆」立即就醫",
+      "published": "2026-06-24T07:00:00+00:00",
+      "summary": "嬰兒溢吐奶或異常嘔吐怎麼分？醫警告這「3徵兆」立即就醫&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOYXRyNjgtREkyZXhoenQxcFNiQldseF9JblVaeWhlXzR6Vm9qSUlLckhBQkhsR2VXQWNtZkUybjFRTUFpdmJvMHJReXhVdlRzMnRaalBoZHVmQk9aNm5JZFNBZENUVzFoNk91NTV5ak1lamdJdWlrNGRCOFlFcjlaeW1FcDR1QkpFWmV3dkdKY3o5NTZPdEVVWmhCRjNTdEJFMm1hVkZ5M1IyMkQ3NDc2YWNxenJMeG42cjRpcmdKSDRqTndhT1RpQXNCeVVWa1ljRFZpcTBjVHE3RWg3NFlJZHgxMElZeld0Vlg5c3dDNENobFF6NURSSzRrend1SFkzV2dLbEstNklUQ19iZ0l4M0h3N21qM0hkWHlFS010TldqWThGd1NHWGVnQzY0Q0FGbE94SDNRZllILVpfbi1pWF9WS1lXUmxlNFRwaElWRnNhQ0o3cHdfWWZZTkg3bDFYQTNyQWV4VE9yT2l5?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "51e9f0ff65eb",
+      "title": "養生陷阱｜女子半夜常胃酸倒流 元兇竟是「安神果實」 中醫揭4類人少吃：1時段忌食",
+      "published": "2026-06-24T05:41:44+00:00",
+      "summary": "養生陷阱｜女子半夜常胃酸倒流 元兇竟是「安神果實」 中醫揭4類人少吃：1時段忌食&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxNUGE2QlRJQWZlMk1nYzFTaURiNTlZNmFmT1BfTHZiVG85cmsyN2N0cHk1d1lYd1lWS2dOUDRqUVlKZ0c0SXFHbWZRMFdUUFFzcTRJZm9PVzhWVVoyZjctNmNjdWJ4QW9ZVWVIQTV3VGJMM2RUalZBWlo1RF9vQjUzTV9pUjByV2JhMldNemtrWVFMUUc5MXN5ckR2MHM3VlNENDV5RDFMb01ENUNVNDdwWnQ1VHNmX0lrVWMyYmtWNS1icDdiSFpYaWlmV3U2MEpCR0lYT21lNFhBQ200cS00R0NMeWRNSFF3YzUyYjl4Z3hTeFRaN25lX0JBR0VwbEh2SjRzQXJKcXJFTjJpMWF4RElOWjQwMkJWd3lfakF0eHkyZjBEYlplbmpXSGxEczZKRjAzZ1d6Q2R2SnB1dUZiNFJ0QklLLUtnOTgtRjJzVzBPaExFeF9DRTM3cENlZlRjcFhlVjNSYk93TFk1N0hZczFjSjItR2NoRkdGUElLaVd0LXZROEdIMjdsMWJmbFE3VDR3UVhubXVTX1pYaEotX05mYWRHNDNiZXN4Z2RKcGVkcU1ZcjNNUFYzaVZNWTdXWW5fZ1RnVWx1NVAxNTd0ZFd4eVZtSTJGN1h1VVN2YVRsTHdpZzlSMGppSmwtVUNhM3Jkb080ME82bW4weVhmcFhQRm40RXQwYUNWaG1iTlVoeVhJSVUtSmJFZF9DbWR1NXRZWEYwNVRWUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "11b7696cea77",
+      "title": "健康網》磨牙不是牙齒問題 醫揭4大原因：壓力、缺氧都入列",
+      "published": "2026-06-24T03:53:00+00:00",
+      "summary": "健康網》磨牙不是牙齒問題 醫揭4大原因：壓力、缺氧都入列&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5b2NDWjRtOV9nMU52OEVlbmxRWE43QXVwR2VrZVdLRVA1NDVyNEExUnA2NkN1czBFYUktNVZIVHJKZ1lZZUhpZTNhRnBvX252UVpUUk15NDJKaGNKdVZIdHJHUEnSAWpBVV95cUxNcE9pRjl0ZVVlRkxwOWxXSDRPcGxVeHR2ZXNQT25QMlFnYjBzQkVDb0hhcVl2aWt3ZUNsUjR4VW9kUmhUM21YTUJQak5tQXVjRVFxSUd5QjBiNldnaVdKZU9STmUtRGZBNE1B?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b851e49fd9da",
+      "title": "痛心往事一輩子都走不出 研究：男女大腦「這激素」是痛苦開關",
+      "published": "2026-06-24T03:43:00+00:00",
+      "summary": "痛心往事一輩子都走不出 研究：男女大腦「這激素」是痛苦開關&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uTWtUdjRoWG5SeFJhdUlscFotc3lVck9TQTF5YzhtT0RJcHRkMDZnZ2FNeDB2a2tNTW8tTmpldl9lUDRDZHFXV0dhdmJwdU5uVVpQcDRVSlhxUE5vQ0Ftb25pbGHSAWpBVV95cUxOc3MyTXJTMTEyajRVNktXQV9RVVBlY1dPRVVOelF2Wll5QkJKOXZhZG9CNV80S3JKNzZMY2Jsdy1fS2RVU25CV3JJVHBpTEdrRzBNWmRWWVU4VTZwSmRPWlQ1SlZsNkVERG1R?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c506fdbe3ec8",
+      "title": "維他命D濃度恐關失智風險！研究揭16年後大腦差異",
+      "published": "2026-06-24T03:10:00+00:00",
+      "summary": "維他命D濃度恐關失智風險！研究揭16年後大腦差異&nbsp;&nbsp;TVBS新聞網最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨&nbsp;&nbsp;Yahoo新聞討論牆 | 最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨&nbsp;&nbsp;LINE TODAY延緩失智！研究：細嚼慢嚥＋偶爾下廚有助保護大腦.降低認知退化風險&nbsp;&nbsp;台視新聞網每天15分鐘逆轉腦齡? 醫揭2關鍵：70 歲開始也有效&nbsp;&nbsp;MSN",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04a0FySHA4TUd1QjM5ZmlzVjhkVm1qWE9SVld4NjNoNlFuN2VWVTJsalZsX2pfWi01WXVrejFQZFBlanlnd3hQdjZqY0FiZw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b0d670d12d6a",
+      "title": "香港愛滋病顧問局認同並肯定衞生署的一站式性健康服務可達致「多病共防」 進一步照顧性小眾的多元需要",
+      "published": "2026-06-24T02:30:32+00:00",
+      "summary": "香港愛滋病顧問局認同並肯定衞生署的一站式性健康服務可達致「多病共防」 進一步照顧性小眾的多元需要&nbsp;&nbsp;紫荊雜誌",
+      "sources": [
+        {
+          "name": "紫荊雜誌",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmdoZmpKTnYxNnJQeDR6ZG1GZWl6aDVaOXp1OGFvbmtwaHZVSEJEX2Z4ZGxKZy01WlJYdGthWlRYeTdoZlFGS3ZvQU4wOFRXbGR2aVFHbFBLWmd5MmVxTWQteWtPZXlmYnZ4TTlNbkxmQ2tvLWxnTXR0MWxXNGlYaldWTWdLdmxuZEYxYjVVZXo?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "62a6651eaed7",
+      "title": "新螢光導航技術讓膽囊切除手術更安全精準| 健康",
+      "published": "2026-06-23T23:59:56+00:00",
+      "summary": "新螢光導航技術讓膽囊切除手術更安全精準| 健康&nbsp;&nbsp;東方新地",
+      "sources": [
+        {
+          "name": "東方新地",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOUVZDUVdJV1pUNG1oWEpsWGFOdFQwa3NtdXc4bHg5MUxPd005TlVheTZOS1p1Qy1SRDZmZTJkQ29ZQlFaTFdwLWdCNGJ6NmhxbXZlTklIZ19WM2VXQ1RSQ2hMcVAyeVY5elRNSlRxMnEwWUFwdUxocmxseGp5STBwVHUtaU1QaW5GTmhnRGhHa1Z2NjBVZ3JFc1c1Mm4xRW81enpFeWVnN3JfSzRGLTlWUmo3a292OGM1Z0c4YUd5Z2tJdjZzTXRRNXc0Z09ySzc3ZkZPMi14cDJXcmtHQldRTmhCa3VQenBNZmlZY1ZlSWRfTGNYeUJIUVlrUmY2bTJGbnJ1U1R6R1VHcDZIMGdjZ3k4dk5hRVZPd3FLMmdtSW1OSGYzamRaNGVFc3ItY0dVMDF3ZnJSMEJkWDMzdkNRMDRWbFNFblFSZWVnbw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "abe1aeabdbd5",
+      "title": "房貸、車貸都在繳？醫：別忽略潛伏多年的HPV風險",
+      "published": "2026-06-23T22:30:00+00:00",
+      "summary": "房貸、車貸都在繳？醫：別忽略潛伏多年的HPV風險&nbsp;&nbsp;民視健康長照網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "民視健康長照網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91eEJiZC1xbk9xNkNIUmc3YXhPaFNLWkRZaEZUcEdmNTF4WElUNGRtUXRSejlpNTc1TDc1RF8tNHc4cHpCLVNqeUQ5QkZRaE9ndGJpZC1vMno5aDNMaWh5OGlfVDk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ecf42cad3499",
+      "title": "全國多個地區降雨高於正常水平 今年夏季的蚊患或較往年更加嚴重",
+      "published": "2026-06-23T17:36:35+00:00",
+      "summary": "全國多個地區降雨高於正常水平 今年夏季的蚊患或較往年更加嚴重&nbsp;&nbsp;am1320.com高溫潮濕蚊蟲激增 渥公衛局籲防範西尼羅病毒&nbsp;&nbsp;大纪元加拿大蚊蟲肆虐 「末日水桶」掀防蚊爆紅熱潮&nbsp;&nbsp;singtao.ca",
+      "sources": [
+        {
+          "name": "am1320.com",
+          "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNV2hGaHhtUzlPcUtZMW1IMDRvRHhtTXFMVGNQN1I0cFJ2cTdaZmhRMjJLWUk4STl5M0MwbUFwc196aTdJaHdzb0RIN21mdmhTREQ2d0pFSUtsMXdLSjlqQ2JEa0VuVlhueHdhRFk3Tkh2TTVCU0dxUU1TajBtT09rNjY4T2tPMldzRHpUcXh3bFMxa2hqbktmd3ZLRElLUlR3Nk1nenN1MGpVSkNzMGlVWU5uTFh0UEY4Y2ZtMTVERGhobjRMSFI5bl9nSnNDNTc1TjR4OHFEUXhnbmZSVS1rT0RFdGowMXZoQl8wazg3d3FHT0QwVFZtUmhXVy1MSEZ6MmhVMTZhb01PaHJSc2R5Mm5BbjQ3YkpXLUxZLVdJX0lvZkE4ejJ4amR6eE1jWUQyS3lrUHF3enJBUDBnaWxkNUdIZUFXQno4Wk1na3dubHZ0WWJGeklDWHUzRFJmbjJBSmFXam9sUGRPb2QtQjYxeDBn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "875444cea690",
+      "title": "跨國基因研究揭示梅尼爾氏症源於早期內耳發育異常 - GeneOnline News",
+      "published": "2026-06-23T16:41:41+00:00",
+      "summary": "跨國基因研究揭示梅尼爾氏症源於早期內耳發育異常&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPUjdsMVhjWDZwVjJtcGh1Y0x0WWdzeEktcWVnUEEwTU5RNmtCd2dnNGtETVdadWNxWlZ0QjA2Sl9FYkI0VnhtdWkyRnlTdk9EdC1OOVZkcFZ5TEdjSlNkSy1wQmJUODNsNXZjRFpJNmh5TzJ1Vm91V2lCTDBXRlZMMjUyS1dTS1g1ZkpWeE5yMEVWbVZ4QnJEM3N4WGl5aHktZ1VFbDBfSEVSTGZtRzZVTmtFLUVpOGppU0tLeXEwZVVLRVVDOWlhUUlzRjBmd3lDTzgwSHF4Z29USWlmYnp0cjZ3TldYN0FhdFFod0g1dGhTLWRwbzR6RGV6NkJ0TUhiRHZXX3dUb054Q1I1RlhvYXFuV29qZ2tGWXJsZF8tUVJRVUI1T0VuQjdEV2ozWTR3SVhSU29nM2RUTWZ1NkdXV3RPVkl0Zw?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "2c74207a15d1",

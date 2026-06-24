@@ -1,63 +1,15 @@
 {
-  "generated": "2026-06-24T18:53:05.292392+00:00",
+  "generated": "2026-06-24T20:28:12.808456+00:00",
   "count": 4,
   "news": [
     {
-      "id": "34159d1cb8de",
-      "title": "吃魚油防失智？研究戳破保健品神話 不如多吃這類食物更實際",
-      "published": "2026-06-24T09:06:12+00:00",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUMm8wNV9YVU5hWG5EV2xrbG5VM243YTNhNGU2VmlhSzJFY2gtVGdNbEVDLWhkZU1NU2QwMzBNaHExaE1fa05qcjZjMnhCdmpQQVpxZ2lqYmhCOWxmaFlZTDhn0gFiQVVfeXFMUFQybzA1X1hVTmFYbkRXbGtsblUzbjdhM2E0ZTZWaWFLMkVjaC1UZ01sRUMtaGRlTU1TZDAzME1ocTFoTV9rTmpyNmMyeEJ2alBBWnFnaWpiaEI5bGZoWVlMOGc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9ab248f7caa5",
-      "title": "延緩失智關鍵不只保健品！研究：細嚼慢嚥＋偶爾下廚有助保護大腦、降低認知退化風險",
-      "published": "2026-06-24T01:11:46+00:00",
+      "id": "2dcee9be0a4d",
+      "title": "疲勞、壓力大都上榜！醫揭「5大易被忽略」的癌症警訊",
+      "published": "2026-06-24T11:00:00+00:00",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPdFZZcWhjR2ZIUmh4VHBJRVFRVURqYW9XOW5PNnViM2tyWmM1cjlKcFhiaXIza2VOSmNiRXpjSTBsQUtYUk1oaWN1Xzg0WGVLSlQ2S292ZjhRbU9PZW1lVGwteWRVakM4NFNyTS1tazNoYUtVMGpWMW9wQTRrUC10MlRtYm1GNlN1OU81OHhidHNPYk9pRGRxd2lpU1FMbklSSW41U0JYY29ZVGlwU1JoZ0RsNXNrc05kb2hodTVyNnZESE9VOURwVU1LMmd5eUc3ZTFZS3NRM2tac2FkSVRwWUVtMzVQUGs1YWtaTDc4alluNVdNa29PaHdlbjZmcFo0aUJPUkZQcmRHVDN5SkZ4WmdKODdwODU3QWItYUNJSWxyNjhRZDFRX2NITVNCQ0dkcFhPUzNnb1BSMVFRYUlsMUJFVnNhR2dOUDU1OEx0MmFMXzN0LUxZWXhLNWljMTc1dG1XOHlFMGtxN2FRUnpUalZaT1dLOFJxZkRZUHVTRVBUOWZZVTFUTTVCY2Z2NVNaZ2pEa09KalVpb0EtX05WZVVsLVltWVpNMEtLSW80dV9lNnVDQ1A1WjdOSy1zRHRxUWptOHpMU19KeDZXRGNMSVhhbjdtS1JtV1EySjd1cXdRMGN5bDFma1p4bUpVcGJubkFqMFpuYW53eEFn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "17f0c1b84719",
-      "title": "5腫瘤專家都不敢吃「1食物」！示警：超傷腸道、罹癌風險增",
-      "published": "2026-06-23T10:32:06+00:00",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5idkdRZDg0Ukl2NV92UUQ3SXZBUm5EVE9JdjdMTkZhUWt6NVFjSmVCRkpKbndZMmdQZ1ZMUlNVSnhCQ09UMWt6M1FrQm8?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOQ1ctRmdVQVY0dmVmWEFmbW9hRW9oQWxmdFhhekRpZWdoWm5WZXRVSWtPeC11UGpSbk8yU0ZLcGxoZHhTREI3cHdOcWFaTnRRMklLbk9FdVNDengzTGFfYU1md2NOZS1RV19kZTF0Q09MNmZUc0h4TmpSRWFLdDQ2ZkJCck13TVI0Nk4wemhqUENPa2FBallPZmtLRW9uc09uMHZaXzloaUxBOEQ1SFVQaTNlNkoxb05fQlNaQWozMTBWVUNqODBGZzVLeHdEd2YzMUpXMU1SUk50LWQ4ZkdNMnhFSU4tNEpNV203N2JFSW1sM3JwZE1wWE1jMjVSWEtqbGFnQXk4N0M3d0NJZWhkOG5OXzgtcTVrem14RXhHU203Tmhha0VyOTdEOUFLTzdWcU5vaDBRLUFUcE85VTAtQVR5MHQ1YnliZ0E?oc=5"
         }
       ],
       "keywords": [
@@ -255,233 +207,52 @@
               "name": "Zanubrutinib"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "34159d1cb8de",
+      "title": "吃魚油防失智？研究戳破保健品神話 不如多吃這類食物更實際",
+      "published": "2026-06-24T09:06:12+00:00",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUMm8wNV9YVU5hWG5EV2xrbG5VM243YTNhNGU2VmlhSzJFY2gtVGdNbEVDLWhkZU1NU2QwMzBNaHExaE1fa05qcjZjMnhCdmpQQVpxZ2lqYmhCOWxmaFlZTDhn0gFiQVVfeXFMUFQybzA1X1hVTmFYbkRXbGtsblUzbjdhM2E0ZTZWaWFLMkVjaC1UZ01sRUMtaGRlTU1TZDAzME1ocTFoTV9rTmpyNmMyeEJ2alBBWnFnaWpiaEI5bGZoWVlMOGc?oc=5"
+        }
+      ],
+      "keywords": [
         {
           "type": "indication",
-          "name": "腫瘤",
-          "keyword": "腫瘤",
+          "name": "dementia",
+          "keyword": "失智",
           "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "c506fdbe3ec8",
+      "title": "維他命D濃度恐關失智風險！研究揭16年後大腦差異",
+      "published": "2026-06-24T03:10:00+00:00",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04a0FySHA4TUd1QjM5ZmlzVjhkVm1qWE9SVld4NjNoNlFuN2VWVTJsalZsX2pfWi01WXVrejFQZFBlanlnd3hQdjZqY0FiZw?oc=5"
+        }
+      ],
+      "keywords": [
         {
           "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
+          "name": "dementia",
+          "keyword": "失智",
           "related_drugs": [
             {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
