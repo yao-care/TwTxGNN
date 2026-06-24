@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-24T22:08:32.669304+00:00",
+  "fetched_at": "2026-06-24T23:59:23.801473+00:00",
   "count": 16,
   "news": [
     {
@@ -40,13 +40,13 @@
       ]
     },
     {
-      "id": "abe1aeabdbd5",
-      "title": "房貸、車貸都在繳？醫：別忽略潛伏多年的HPV風險 - 民視健康長照網",
+      "id": "1cd25509d7c4",
+      "title": "房貸、車貸都在繳？醫：別忽略潛伏多年的HPV風險 - - 民視健康長照網",
       "published": "2026-06-23T22:30:00+00:00",
-      "summary": "房貸、車貸都在繳？醫：別忽略潛伏多年的HPV風險&nbsp;&nbsp;民視健康長照網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "房貸、車貸都在繳？醫：別忽略潛伏多年的HPV風險&nbsp;&nbsp;- 民視健康長照網前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "民視健康長照網",
+          "name": "- 民視健康長照網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91eEJiZC1xbk9xNkNIUmc3YXhPaFNLWkRZaEZUcEdmNTF4WElUNGRtUXRSejlpNTc1TDc1RF8tNHc4cHpCLVNqeUQ5QkZRaE9ndGJpZC1vMno5aDNMaWh5OGlfVDk?oc=5"
         }
       ]
@@ -76,18 +76,6 @@
       ]
     },
     {
-      "id": "18f84498dd3a",
-      "title": "破解癌細胞「隱形身分證」 研究揭免疫系統反殺抗藥性關鍵 - 自由健康網",
-      "published": "2026-06-24T07:41:00+00:00",
-      "summary": "破解癌細胞「隱形身分證」 研究揭免疫系統反殺抗藥性關鍵&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WQm91WXhnaVdjUmUwSnJkdEtrS1pQU3dwbElHLUJSZjBhUE5XMVdNYkF1OFZ3dTNiMnAwVEVqWjc1TTY5OVBXeVJsUDJRcWViWm1seVRKbUlrZUFkeC1RSVE1YTbSAWpBVV95cUxPQXRERHNiWkEtamgxc1VDTldJRE1MOU1CQTFxMC1qa1J2RzV1bXY1NkctTTRiRkNRUnBUSmVYTDBVOVg2SVpMQzQ2Sk5DeW5seGNaRjNvaGJjVzctQ1QzYmlvQ3cyejlBV0dB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b851e49fd9da",
       "title": "痛心往事一輩子都走不出 研究：男女大腦「這激素」是痛苦開關 - 自由健康網",
       "published": "2026-06-24T03:43:00+00:00",
@@ -108,6 +96,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5b2NDWjRtOV9nMU52OEVlbmxRWE43QXVwR2VrZVdLRVA1NDVyNEExUnA2NkN1czBFYUktNVZIVHJKZ1lZZUhpZTNhRnBvX252UVpUUk15NDJKaGNKdVZIdHJHUEnSAWpBVV95cUxNcE9pRjl0ZVVlRkxwOWxXSDRPcGxVeHR2ZXNQT25QMlFnYjBzQkVDb0hhcVl2aWt3ZUNsUjR4VW9kUmhUM21YTUJQak5tQXVjRVFxSUd5QjBiNldnaVdKZU9STmUtRGZBNE1B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "18f84498dd3a",
+      "title": "破解癌細胞「隱形身分證」 研究揭免疫系統反殺抗藥性關鍵 - 自由健康網",
+      "published": "2026-06-24T07:41:00+00:00",
+      "summary": "破解癌細胞「隱形身分證」 研究揭免疫系統反殺抗藥性關鍵&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WQm91WXhnaVdjUmUwSnJkdEtrS1pQU3dwbElHLUJSZjBhUE5XMVdNYkF1OFZ3dTNiMnAwVEVqWjc1TTY5OVBXeVJsUDJRcWViWm1seVRKbUlrZUFkeC1RSVE1YTbSAWpBVV95cUxPQXRERHNiWkEtamgxc1VDTldJRE1MOU1CQTFxMC1qa1J2RzV1bXY1NkctTTRiRkNRUnBUSmVYTDBVOVg2SVpMQzQ2Sk5DeW5seGNaRjNvaGJjVzctQ1QzYmlvQ3cyejlBV0dB?oc=5"
         }
       ]
     },
