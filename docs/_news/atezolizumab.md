@@ -14,7 +14,7 @@ permalink: /news/atezolizumab/
 ---
 
 <p class="key-answer" data-question="Atezolizumab 有什麼相關新聞？">
-<strong>Atezolizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Atezolizumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,23 +41,9 @@ permalink: /news/atezolizumab/
 <p><a href="{{ '/drugs/atezolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [誤以為老化或壓力大癌症專家點名5常見危險徵兆- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE5PR2JBWFRjN1RqeGE0d3JTVUZSSnprRkQwUTVRdVJQMXNjQlppa1FvVXNXWHMtY3dGbVRGZWRGRU8xQjhEaDBpSjdSem5GMWFFNUF2alp3SWJQT2V5MGhzMHByNG51Vk90VVFvei13?oc=5)
-
-2026-06-23 <span class="news-indication-tag">癌症</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5PR2JBWFRjN1RqeGE0d3JTVUZSSnprRkQwUTVRdVJQMXNjQlppa1FvVXNXWHMtY3dGbVRGZWRGRU8xQjhEaDBpSjdSem5GMWFFNUF2alp3SWJQT2V5MGhzMHByNG51Vk90VVFvei13?oc=5)
-
----
-
-### [【癌症患者營養流失特別迅速】營養攝取及血糖控制的重要性！](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNejhHX2VGX29VSk1mMXA0SzdrTXF3N3hKazVXR3FGX1B6T0wzS01ZS1NnRnlGUjMxbjIzZ0E1cXdvSzN3ZVlrNnJKUTlrOXd3UVlPLXNvVmthMlkzS0IxckREYmJQM2c5OUxYVUZPcFo4UWVDMW5fdlk5d3E5YnpGU0t5SGR0VFVXU2wzQTNZSms5eXhUQURSejdDOF9tT1BwRGJRMWVCZXF3Yk9uV3pHYzFiVFgybHJhR1BoeDdMMzBIX19CVTh6TXEtTVpZM0cxam1MVy1GTUU1eDYzOGp1dk4yX2k1Y0RVQjM2VmpoNXM3c1FkOUFRcEd3?oc=5)
-
-2026-06-22 <span class="news-indication-tag">癌症</span>
-
-來源：[東方新地](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNejhHX2VGX29VSk1mMXA0SzdrTXF3N3hKazVXR3FGX1B6T0wzS01ZS1NnRnlGUjMxbjIzZ0E1cXdvSzN3ZVlrNnJKUTlrOXd3UVlPLXNvVmthMlkzS0IxckREYmJQM2c5OUxYVUZPcFo4UWVDMW5fdlk5d3E5YnpGU0t5SGR0VFVXU2wzQTNZSms5eXhUQURSejdDOF9tT1BwRGJRMWVCZXF3Yk9uV3pHYzFiVFgybHJhR1BoeDdMMzBIX19CVTh6TXEtTVpZM0cxam1MVy1GTUU1eDYzOGp1dk4yX2k1Y0RVQjM2VmpoNXM3c1FkOUFRcEd3?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

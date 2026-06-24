@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/salicylamide/
 <li>nasal cavity disease（100.0%）</li>
 <li>acute laryngopharyngitis（100.0%）</li>
 <li>trigeminal autonomic cephalalgia（99.9%）</li>
-<li class="indication-matched">common cold（99.9%）<span class="indication-tag">📰 感冒</span></li>
+<li>common cold（99.9%）</li>
 <li>allergic urticaria（99.7%）</li>
 <li>lung disease（99.6%）</li>
 <li>massive neonatal aspiration syndrome（99.6%）</li>
@@ -42,15 +42,9 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [全國多個地區降雨高於正常水平 今年夏季的蚊患或較往年更加嚴重](https://news.google.com/rss/articles/CBMi8gJBVV95cUxNV2hGaHhtUzlPcUtZMW1IMDRvRHhtTXFMVGNQN1I0cFJ2cTdaZmhRMjJLWUk4STl5M0MwbUFwc196aTdJaHdzb0RIN21mdmhTREQ2d0pFSUtsMXdLSjlqQ2JEa0VuVlhueHdhRFk3Tkh2TTVCU0dxUU1TajBtT09rNjY4T2tPMldzRHpUcXh3bFMxa2hqbktmd3ZLRElLUlR3Nk1nenN1MGpVSkNzMGlVWU5uTFh0UEY4Y2ZtMTVERGhobjRMSFI5bl9nSnNDNTc1TjR4OHFEUXhnbmZSVS1rT0RFdGowMXZoQl8wazg3d3FHT0QwVFZtUmhXVy1MSEZ6MmhVMTZhb01PaHJSc2R5Mm5BbjQ3YkpXLUxZLVdJX0lvZkE4ejJ4amR6eE1jWUQyS3lrUHF3enJBUDBnaWxkNUdIZUFXQno4Wk1na3dubHZ0WWJGeklDWHUzRFJmbjJBSmFXam9sUGRPb2QtQjYxeDBn?oc=5)
-
-2026-06-23 <span class="news-indication-tag">感冒</span>
-
-來源：[am1320.com](https://news.google.com/rss/articles/CBMi8gJBVV95cUxNV2hGaHhtUzlPcUtZMW1IMDRvRHhtTXFMVGNQN1I0cFJ2cTdaZmhRMjJLWUk4STl5M0MwbUFwc196aTdJaHdzb0RIN21mdmhTREQ2d0pFSUtsMXdLSjlqQ2JEa0VuVlhueHdhRFk3Tkh2TTVCU0dxUU1TajBtT09rNjY4T2tPMldzRHpUcXh3bFMxa2hqbktmd3ZLRElLUlR3Nk1nenN1MGpVSkNzMGlVWU5uTFh0UEY4Y2ZtMTVERGhobjRMSFI5bl9nSnNDNTc1TjR4OHFEUXhnbmZSVS1rT0RFdGowMXZoQl8wazg3d3FHT0QwVFZtUmhXVy1MSEZ6MmhVMTZhb01PaHJSc2R5Mm5BbjQ3YkpXLUxZLVdJX0lvZkE4ejJ4amR6eE1jWUQyS3lrUHF3enJBUDBnaWxkNUdIZUFXQno4Wk1na3dubHZ0WWJGeklDWHUzRFJmbjJBSmFXam9sUGRPb2QtQjYxeDBn?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

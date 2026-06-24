@@ -14,7 +14,7 @@ permalink: /news/trastuzumab_deruxtecan/
 ---
 
 <p class="key-answer" data-question="Trastuzumab deruxtecan 有什麼相關新聞？">
-<strong>Trastuzumab deruxtecan</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Trastuzumab deruxtecan</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,15 +33,9 @@ permalink: /news/trastuzumab_deruxtecan/
 <p><a href="{{ '/drugs/trastuzumab_deruxtecan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [胃癌｜34歲3孩媽媽健身網紅 確診胃癌到離世僅3個月 最後身影曝光全網心碎【附年輕患癌因素】](https://news.google.com/rss/articles/CBMizwRBVV95cUxOcjNkTHFrQVRCMjdKRkFiNWQ2MDBIc3FZaEJFdmtaVXpMSEtBZlhQVzJDQ1ZOenFhN0Uza2RrMnRZclJBSDJEdmhlY29kVnN0TDN6cjF4Q3pkZHd0ZFFneE9QaklsRXBzTHZleF85VVFfU2F3VmNuSFF5eWQ5QTJiWXhodldTUy1icXhyZm1sQWVOdjc0WFVnVEtBc3djMWlyRmNaOFNvc0JoaUVWZnkxYkh0V0dacTd2aFpnR0VZdHE0T2VjYlBudm1mRkRjOEszN1dhU1BEOUlTcUZqUDRTT1lFUG1BT3NLWWMteUpVMFk2THZMTG1YTjZNcXhScVVUMnBFM1RQMS1YWGNHUkxodUY4eURWNF9QbldKZHNLLXBrM0hWYzZqLVhENEVBYU1tOG1IX1BBVkdYVU1ub3RBbndRNHBkbjJSM21PZTI3R1M1YmlkdnFFc3B2SkVYelBpYVVuNExCSFBDUzVqTnl1eG93UUFwMVlPeGFESE54Wi1XTWhSRHdQLUVaMUF2R2pEbGh4QnlkeTB1VndHTzRwNjZFM3BFVjRwZHZxcEtDTF9ublB1dUlsZmNFR0I1R0lsNGJiTGYwQm5SSVh0TGVOYnFRQzNuYV9Ea0hRajRfODh2Zl9VSUNNSzN3aXVGMmtzQ1RFXzl3TklvVVVnZHBxUDZCSkNlTjk1T2ZJaktDRUF0ZzBRNndFMEk4bUxicUdqNURTQ0FRSnQ1bXd4WEFldi1tSnVKU2d6S3R2RFQtU3lpRFlTZzV2VXBERkJMd00?oc=5)
-
-2026-06-22 <span class="news-indication-tag">胃癌</span>
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMizwRBVV95cUxOcjNkTHFrQVRCMjdKRkFiNWQ2MDBIc3FZaEJFdmtaVXpMSEtBZlhQVzJDQ1ZOenFhN0Uza2RrMnRZclJBSDJEdmhlY29kVnN0TDN6cjF4Q3pkZHd0ZFFneE9QaklsRXBzTHZleF85VVFfU2F3VmNuSFF5eWQ5QTJiWXhodldTUy1icXhyZm1sQWVOdjc0WFVnVEtBc3djMWlyRmNaOFNvc0JoaUVWZnkxYkh0V0dacTd2aFpnR0VZdHE0T2VjYlBudm1mRkRjOEszN1dhU1BEOUlTcUZqUDRTT1lFUG1BT3NLWWMteUpVMFk2THZMTG1YTjZNcXhScVVUMnBFM1RQMS1YWGNHUkxodUY4eURWNF9QbldKZHNLLXBrM0hWYzZqLVhENEVBYU1tOG1IX1BBVkdYVU1ub3RBbndRNHBkbjJSM21PZTI3R1M1YmlkdnFFc3B2SkVYelBpYVVuNExCSFBDUzVqTnl1eG93UUFwMVlPeGFESE54Wi1XTWhSRHdQLUVaMUF2R2pEbGh4QnlkeTB1VndHTzRwNjZFM3BFVjRwZHZxcEtDTF9ublB1dUlsZmNFR0I1R0lsNGJiTGYwQm5SSVh0TGVOYnFRQzNuYV9Ea0hRajRfODh2Zl9VSUNNSzN3aXVGMmtzQ1RFXzl3TklvVVVnZHBxUDZCSkNlTjk1T2ZJaktDRUF0ZzBRNndFMEk4bUxicUdqNURTQ0FRSnQ1bXd4WEFldi1tSnVKU2d6S3R2RFQtU3lpRFlTZzV2VXBERkJMd00?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
