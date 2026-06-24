@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T20:28:12.790189+00:00",
+  "last_updated": "2026-06-24T22:08:36.106428+00:00",
   "total_count": 16,
   "matched_count": 4,
   "news": [
@@ -316,31 +316,6 @@
       "matched_keywords": []
     },
     {
-      "id": "c506fdbe3ec8",
-      "title": "維他命D濃度恐關失智風險！研究揭16年後大腦差異",
-      "published": "2026-06-24T03:10:00+00:00",
-      "summary": "維他命D濃度恐關失智風險！研究揭16年後大腦差異&nbsp;&nbsp;TVBS新聞網最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨&nbsp;&nbsp;Yahoo新聞討論牆 | 最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨&nbsp;&nbsp;LINE TODAY延緩失智！研究：細嚼慢嚥＋偶爾下廚有助保護大腦.降低認知退化風險&nbsp;&nbsp;台視新聞網每天15分鐘逆轉腦齡? 醫揭2關鍵：70 歲開始也有效&nbsp;&nbsp;MSN",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04a0FySHA4TUd1QjM5ZmlzVjhkVm1qWE9SVld4NjNoNlFuN2VWVTJsalZsX2pfWi01WXVrejFQZFBlanlnd3hQdjZqY0FiZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "b0d670d12d6a",
       "title": "香港愛滋病顧問局認同並肯定衞生署的一站式性健康服務可達致「多病共防」 進一步照顧性小眾的多元需要",
       "published": "2026-06-24T02:30:32+00:00",
@@ -378,6 +353,42 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "400a634534af",
+      "title": "新科技偵查阿茲海默症 及早發現把握治療黃金期",
+      "published": "2026-06-23T18:14:11+00:00",
+      "summary": "新科技偵查阿茲海默症 及早發現把握治療黃金期&nbsp;&nbsp;信報網站最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨&nbsp;&nbsp;Yahoo新聞討論牆 | 最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨&nbsp;&nbsp;LINE TODAY延緩失智！研究：細嚼慢嚥＋偶爾下廚有助保護大腦.降低認知退化風險&nbsp;&nbsp;台視新聞網每天15分鐘逆轉腦齡? 醫揭2關鍵：70 歲開始也有效&nbsp;&nbsp;MSN",
+      "sources": [
+        {
+          "name": "信報網站",
+          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNR2RLeFdCM1FMdDQ3X3dOQUxiMHJ4TVZ4bHdiakl1TGxDQnp5dE9OYmcxYkpYVDFrQ0xJQ2NHdy1LNXpNWGFNc3BzVFdrcmZsT3VvSEFJejVYdDdXUXEzTXp3MnZGMjU0NFBwdHZHTmJGU05IbWthRENmZGVKemlTUkVheE9rQUpkdTNOQ1JLRDhva2VocUtnUThZcEpGNE8tZ1A2aFpZU0ZRbEZjWHlOLTBRUFRjN1RHc1NsY1ZEamNLNHlmZmFHYzhTSG80d3oybkVNNFRlZ0pkTlBUWE5KYzRiOWJmTGZ2QTBUSjdwenM0REt1Wm5PSDdvMlZIV0lNaFR1LUgyQjlIUFNVakhzRjJ2QzFoS2cyQjNJcEdZeGRyNXZER1NMLUtmU0VUQlR2V3VQRHE4SG4wS0dXQXVCZEo1ak45dEE0ZWZpZXpucnphNVFuRnl5TnJodTU5Y1MtNzk4?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "ecf42cad3499",

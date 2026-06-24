@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-24T20:28:12.808456+00:00",
+  "generated": "2026-06-24T22:08:36.136784+00:00",
   "count": 4,
   "news": [
     {
@@ -235,19 +235,30 @@
       ]
     },
     {
-      "id": "c506fdbe3ec8",
-      "title": "維他命D濃度恐關失智風險！研究揭16年後大腦差異",
-      "published": "2026-06-24T03:10:00+00:00",
+      "id": "400a634534af",
+      "title": "新科技偵查阿茲海默症 及早發現把握治療黃金期",
+      "published": "2026-06-23T18:14:11+00:00",
       "sources": [
         {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04a0FySHA4TUd1QjM5ZmlzVjhkVm1qWE9SVld4NjNoNlFuN2VWVTJsalZsX2pfWi01WXVrejFQZFBlanlnd3hQdjZqY0FiZw?oc=5"
+          "name": "信報網站",
+          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNR2RLeFdCM1FMdDQ3X3dOQUxiMHJ4TVZ4bHdiakl1TGxDQnp5dE9OYmcxYkpYVDFrQ0xJQ2NHdy1LNXpNWGFNc3BzVFdrcmZsT3VvSEFJejVYdDdXUXEzTXp3MnZGMjU0NFBwdHZHTmJGU05IbWthRENmZGVKemlTUkVheE9rQUpkdTNOQ1JLRDhva2VocUtnUThZcEpGNE8tZ1A2aFpZU0ZRbEZjWHlOLTBRUFRjN1RHc1NsY1ZEamNLNHlmZmFHYzhTSG80d3oybkVNNFRlZ0pkTlBUWE5KYzRiOWJmTGZ2QTBUSjdwenM0REt1Wm5PSDdvMlZIV0lNaFR1LUgyQjlIUFNVakhzRjJ2QzFoS2cyQjNJcEdZeGRyNXZER1NMLUtmU0VUQlR2V3VQRHE4SG4wS0dXQXVCZEo1ak45dEE0ZWZpZXpucnphNVFuRnl5TnJodTU5Y1MtNzk4?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
           "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
           "keyword": "失智",
           "related_drugs": [
             {
