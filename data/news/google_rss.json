@@ -1,8 +1,32 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-24T08:20:26.711513+00:00",
-  "count": 12,
+  "fetched_at": "2026-06-24T11:38:50.164501+00:00",
+  "count": 14,
   "news": [
+    {
+      "id": "fb78cd5ebd25",
+      "title": "肛門長肉瘤竟是菜花！母胎單身男崩潰 病後做1事醫讚：可防癌 - UDN",
+      "published": "2026-06-24T06:08:31+00:00",
+      "summary": "肛門長肉瘤竟是菜花！母胎單身男崩潰 病後做1事醫讚：可防癌&nbsp;&nbsp;UDN以為「四貸同堂」最難扛？醫：扛貸族更該關注這筆「HPV健康債」&nbsp;&nbsp;良醫健康網房貸、車貸都在繳？醫：別忽略潛伏多年的HPV風險&nbsp;&nbsp;Yahoo新聞【HPV】病毒逾150種類型 非一定與性病有關 持續感染高危型增患癌症風險&nbsp;&nbsp;明報健康網摸健身器材會染菜花？醫揭HPV傳播真相：酒精不一定能殺掉病毒&nbsp;&nbsp;鏡新聞",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56ZmxXUHhURl9aV2dOaTFVUVpGcVFlZ1N6S0tfR3dDMFFRSjRYVGMweHh3VnR1YW9EWFZ2YW5BRHVXMm5tT1NuX1FCQW9GTU0z0gFWQVVfeXFMT1RTUEU5MWtrWl93UmpEWUs4THRJeXhnUGNYU3c2M0FnV1hrWFV3TmJYU3dReUJLRGhfZDJsd2JyOWd3Z0lKMmpWV0NFcnpsVU5GdVY1Z2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9ab248f7caa5",
+      "title": "延緩失智關鍵不只保健品！研究：細嚼慢嚥＋偶爾下廚有助保護大腦、降低認知退化風險 - Yahoo新聞",
+      "published": "2026-06-24T01:11:46+00:00",
+      "summary": "延緩失智關鍵不只保健品！研究：細嚼慢嚥＋偶爾下廚有助保護大腦、降低認知退化風險&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPdFZZcWhjR2ZIUmh4VHBJRVFRVURqYW9XOW5PNnViM2tyWmM1cjlKcFhiaXIza2VOSmNiRXpjSTBsQUtYUk1oaWN1Xzg0WGVLSlQ2S292ZjhRbU9PZW1lVGwteWRVakM4NFNyTS1tazNoYUtVMGpWMW9wQTRrUC10MlRtYm1GNlN1OU81OHhidHNPYk9pRGRxd2lpU1FMbklSSW41U0JYY29ZVGlwU1JoZ0RsNXNrc05kb2hodTVyNnZESE9VOURwVU1LMmd5eUc3ZTFZS3NRM2tac2FkSVRwWUVtMzVQUGs1YWtaTDc4alluNVdNa29PaHdlbjZmcFo0aUJPUkZQcmRHVDN5SkZ4WmdKODdwODU3QWItYUNJSWxyNjhRZDFRX2NITVNCQ0dkcFhPUzNnb1BSMVFRYUlsMUJFVnNhR2dOUDU1OEx0MmFMXzN0LUxZWXhLNWljMTc1dG1XOHlFMGtxN2FRUnpUalZaT1dLOFJxZkRZUHVTRVBUOWZZVTFUTTVCY2Z2NVNaZ2pEa09KalVpb0EtX05WZVVsLVltWVpNMEtLSW80dV9lNnVDQ1A1WjdOSy1zRHRxUWptOHpMU19KeDZXRGNMSVhhbjdtS1JtV1EySjd1cXdRMGN5bDFma1p4bUpVcGJubkFqMFpuYW53eEFn?oc=5"
+        }
+      ]
+    },
     {
       "id": "11b7696cea77",
       "title": "健康網》磨牙不是牙齒問題 醫揭4大原因：壓力、缺氧都入列 - 自由健康網",
@@ -16,30 +40,6 @@
       ]
     },
     {
-      "id": "9ab248f7caa5",
-      "title": "延緩失智關鍵不只保健品！研究：細嚼慢嚥＋偶爾下廚有助保護大腦、降低認知退化風險 - Yahoo新聞",
-      "published": "2026-06-24T01:11:46+00:00",
-      "summary": "延緩失智關鍵不只保健品！研究：細嚼慢嚥＋偶爾下廚有助保護大腦、降低認知退化風險&nbsp;&nbsp;Yahoo新聞討論牆 | 最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨&nbsp;&nbsp;LINE TODAY最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨&nbsp;&nbsp;祝你健康每天15分鐘逆轉腦齡? 醫揭2關鍵：70 歲開始也有效&nbsp;&nbsp;MSN中年維他命D濃度別太低老了「失智毒素」能變少- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPdFZZcWhjR2ZIUmh4VHBJRVFRVURqYW9XOW5PNnViM2tyWmM1cjlKcFhiaXIza2VOSmNiRXpjSTBsQUtYUk1oaWN1Xzg0WGVLSlQ2S292ZjhRbU9PZW1lVGwteWRVakM4NFNyTS1tazNoYUtVMGpWMW9wQTRrUC10MlRtYm1GNlN1OU81OHhidHNPYk9pRGRxd2lpU1FMbklSSW41U0JYY29ZVGlwU1JoZ0RsNXNrc05kb2hodTVyNnZESE9VOURwVU1LMmd5eUc3ZTFZS3NRM2tac2FkSVRwWUVtMzVQUGs1YWtaTDc4alluNVdNa29PaHdlbjZmcFo0aUJPUkZQcmRHVDN5SkZ4WmdKODdwODU3QWItYUNJSWxyNjhRZDFRX2NITVNCQ0dkcFhPUzNnb1BSMVFRYUlsMUJFVnNhR2dOUDU1OEx0MmFMXzN0LUxZWXhLNWljMTc1dG1XOHlFMGtxN2FRUnpUalZaT1dLOFJxZkRZUHVTRVBUOWZZVTFUTTVCY2Z2NVNaZ2pEa09KalVpb0EtX05WZVVsLVltWVpNMEtLSW80dV9lNnVDQ1A1WjdOSy1zRHRxUWptOHpMU19KeDZXRGNMSVhhbjdtS1JtV1EySjd1cXdRMGN5bDFma1p4bUpVcGJubkFqMFpuYW53eEFn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fb78cd5ebd25",
-      "title": "肛門長肉瘤竟是菜花！母胎單身男崩潰 病後做1事醫讚：可防癌 - UDN",
-      "published": "2026-06-24T06:08:31+00:00",
-      "summary": "肛門長肉瘤竟是菜花！母胎單身男崩潰 病後做1事醫讚：可防癌&nbsp;&nbsp;UDN房貸、車貸都在繳？醫：別忽略潛伏多年的HPV風險&nbsp;&nbsp;Yahoo新聞以為「四貸同堂」最難扛？醫：扛貸族更該關注這筆「HPV健康債」&nbsp;&nbsp;良醫健康網【HPV】病毒逾150種類型 非一定與性病有關 持續感染高危型增患癌症風險&nbsp;&nbsp;明報健康網肛門長菜花處男崩潰喊冤醫曝：自體傳染真相- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56ZmxXUHhURl9aV2dOaTFVUVpGcVFlZ1N6S0tfR3dDMFFRSjRYVGMweHh3VnR1YW9EWFZ2YW5BRHVXMm5tT1NuX1FCQW9GTU0z0gFWQVVfeXFMT1RTUEU5MWtrWl93UmpEWUs4THRJeXhnUGNYU3c2M0FnV1hrWFV3TmJYU3dReUJLRGhfZDJsd2JyOWd3Z0lKMmpWV0NFcnpsVU5GdVY1Z2c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b851e49fd9da",
       "title": "痛心往事一輩子都走不出 研究：男女大腦「這激素」是痛苦開關 - 自由健康網",
       "published": "2026-06-24T03:43:00+00:00",
@@ -48,6 +48,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uTWtUdjRoWG5SeFJhdUlscFotc3lVck9TQTF5YzhtT0RJcHRkMDZnZ2FNeDB2a2tNTW8tTmpldl9lUDRDZHFXV0dhdmJwdU5uVVpQcDRVSlhxUE5vQ0Ftb25pbGHSAWpBVV95cUxOc3MyTXJTMTEyajRVNktXQV9RVVBlY1dPRVVOelF2Wll5QkJKOXZhZG9CNV80S3JKNzZMY2Jsdy1fS2RVU25CV3JJVHBpTEdrRzBNWmRWWVU4VTZwSmRPWlQ1SlZsNkVERG1R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "18f84498dd3a",
+      "title": "破解癌細胞「隱形身分證」 研究揭免疫系統反殺抗藥性關鍵 - 自由健康網",
+      "published": "2026-06-24T07:41:00+00:00",
+      "summary": "破解癌細胞「隱形身分證」 研究揭免疫系統反殺抗藥性關鍵&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WQm91WXhnaVdjUmUwSnJkdEtrS1pQU3dwbElHLUJSZjBhUE5XMVdNYkF1OFZ3dTNiMnAwVEVqWjc1TTY5OVBXeVJsUDJRcWViWm1seVRKbUlrZUFkeC1RSVE1YTbSAWpBVV95cUxPQXRERHNiWkEtamgxc1VDTldJRE1MOU1CQTFxMC1qa1J2RzV1bXY1NkctTTRiRkNRUnBUSmVYTDBVOVg2SVpMQzQ2Sk5DeW5seGNaRjNvaGJjVzctQ1QzYmlvQ3cyejlBV0dB?oc=5"
         }
       ]
     },
@@ -76,10 +88,22 @@
       ]
     },
     {
+      "id": "b0d670d12d6a",
+      "title": "香港愛滋病顧問局認同並肯定衞生署的一站式性健康服務可達致「多病共防」 進一步照顧性小眾的多元需要 - 紫荊雜誌",
+      "published": "2026-06-24T02:30:32+00:00",
+      "summary": "香港愛滋病顧問局認同並肯定衞生署的一站式性健康服務可達致「多病共防」 進一步照顧性小眾的多元需要&nbsp;&nbsp;紫荊雜誌",
+      "sources": [
+        {
+          "name": "紫荊雜誌",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmdoZmpKTnYxNnJQeDR6ZG1GZWl6aDVaOXp1OGFvbmtwaHZVSEJEX2Z4ZGxKZy01WlJYdGthWlRYeTdoZlFGS3ZvQU4wOFRXbGR2aVFHbFBLWmd5MmVxTWQteWtPZXlmYnZ4TTlNbkxmQ2tvLWxnTXR0MWxXNGlYaldWTWdLdmxuZEYxYjVVZXo?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2272699ec5fa",
       "title": "從EPA、DHA到活性Omega-3（SPM）魚油市場迎來下一波技術升級 - 壹電視",
       "published": "2026-06-23T09:10:20+00:00",
-      "summary": "從EPA、DHA到活性Omega-3（SPM）魚油市場迎來下一波技術升級&nbsp;&nbsp;壹電視前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "從EPA、DHA到活性Omega-3（SPM）魚油市場迎來下一波技術升級&nbsp;&nbsp;壹電視",
       "sources": [
         {
           "name": "壹電視",
@@ -88,26 +112,26 @@
       ]
     },
     {
-      "id": "51e9f0ff65eb",
-      "title": "養生陷阱｜女子半夜常胃酸倒流 元兇竟是「安神果實」 中醫揭4類人少吃：1時段忌食 - 香港經濟日報HKET",
+      "id": "16286ff4f0ee",
+      "title": "養生陷阱｜女子半夜常胃酸倒流 元兇竟是「安神果實」 中醫揭4類人少吃：1時段忌食 - topick.hket.com",
       "published": "2026-06-24T05:41:44+00:00",
-      "summary": "養生陷阱｜女子半夜常胃酸倒流 元兇竟是「安神果實」 中醫揭4類人少吃：1時段忌食&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "養生陷阱｜女子半夜常胃酸倒流 元兇竟是「安神果實」 中醫揭4類人少吃：1時段忌食&nbsp;&nbsp;topick.hket.com",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
+          "name": "topick.hket.com",
           "link": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxNUGE2QlRJQWZlMk1nYzFTaURiNTlZNmFmT1BfTHZiVG85cmsyN2N0cHk1d1lYd1lWS2dOUDRqUVlKZ0c0SXFHbWZRMFdUUFFzcTRJZm9PVzhWVVoyZjctNmNjdWJ4QW9ZVWVIQTV3VGJMM2RUalZBWlo1RF9vQjUzTV9pUjByV2JhMldNemtrWVFMUUc5MXN5ckR2MHM3VlNENDV5RDFMb01ENUNVNDdwWnQ1VHNmX0lrVWMyYmtWNS1icDdiSFpYaWlmV3U2MEpCR0lYT21lNFhBQ200cS00R0NMeWRNSFF3YzUyYjl4Z3hTeFRaN25lX0JBR0VwbEh2SjRzQXJKcXJFTjJpMWF4RElOWjQwMkJWd3lfakF0eHkyZjBEYlplbmpXSGxEczZKRjAzZ1d6Q2R2SnB1dUZiNFJ0QklLLUtnOTgtRjJzVzBPaExFeF9DRTM3cENlZlRjcFhlVjNSYk93TFk1N0hZczFjSjItR2NoRkdGUElLaVd0LXZROEdIMjdsMWJmbFE3VDR3UVhubXVTX1pYaEotX05mYWRHNDNiZXN4Z2RKcGVkcU1ZcjNNUFYzaVZNWTdXWW5fZ1RnVWx1NVAxNTd0ZFd4eVZtSTJGN1h1VVN2YVRsTHdpZzlSMGppSmwtVUNhM3Jkb080ME82bW4weVhmcFhQRm40RXQwYUNWaG1iTlVoeVhJSVUtSmJFZF9DbWR1NXRZWEYwNVRWUQ?oc=5"
         }
       ]
     },
     {
-      "id": "a9840ab386a6",
-      "title": "香港愛滋病顧問局認同並肯定衞生署的一站式性健康服務 - 香港商报",
-      "published": "2026-06-23T15:42:16+00:00",
-      "summary": "香港愛滋病顧問局認同並肯定衞生署的一站式性健康服務&nbsp;&nbsp;香港商报",
+      "id": "a7fc4675ab8e",
+      "title": "糖尿病｜15歲少年患糖尿病睡夢中猝逝被父母發現「一睡不醒」送院不治醫揭長年3大惡習誘併發症【附22個糖尿病先兆症狀】 - topick.hket.com",
+      "published": "2026-06-24T09:00:24+00:00",
+      "summary": "糖尿病｜15歲少年患糖尿病睡夢中猝逝被父母發現「一睡不醒」送院不治醫揭長年3大惡習誘併發症【附22個糖尿病先兆症狀】&nbsp;&nbsp;topick.hket.com",
       "sources": [
         {
-          "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FY3FSZ1ZodHFmdjUzUDBfWFNTamNKYTYwbWhlTmVHTHpkTkRYU3lxRm9idzZOa3ozakpBRnFhMVhfVC1FUjFhN2M2bXp5d0U3S2k5MF9BRzc1RmVud3hCU25pa1RGWVNxTTNfYVNhMG5GQQ?oc=5"
+          "name": "topick.hket.com",
+          "link": "https://news.google.com/rss/articles/CBMi-gVBVV95cUxOeHpZajNqZ0xTSnV0djlTYXBnV3ViazlhdnVkOE80UU9CR3hLOEZZcVY0RUxSRmc3UGdIUGNJMUMyYThxWndvdmI4dnpKYUN1WXd1QVE2cUNpUU84RllpeHZWckZrR1VYT2dSYlpMYWgtSFFJY2N4dXNleU5kMGk0SE55TDdqN3lOTmVRd0tzVjFUbDNGM3JjN1loNjNENXNzRVBTenFOdDVka2pUOFhVNTctZ3h6SmJpajdLaEhZTEFxRjF3aXZETDZVQXl4WTYtemhydkN2azFFb3JFQVZDSElaQ0tmV2k1bG12NmpzQTFLQ2ZFeEZybEtoZFlMNlp2R2dmeDV0aEhFMGExQ1VsZldpaFNoZm1UZndrcXJhOGJ5MzdiVjZFaXctRnNQcjRSZVBpR0hwUXI3bWJqeV80aG1zUWhTY1BkZ3VUMkFET1dPWExNanFTV1lXR2tMX09wRnlPeld5bVJsY1R1T2lHY0JyUHR0Wkt2ZGw5eWh1Tkg5OWJSbFRkcnFGSEZUTGhTTzBNX3NrSDlaMVVMTHBTeHhkUE1SZXFxSkFMMTlPN2UyWlFEM1BJNEowRnZRaHpBNnJGb1pCMXdKUUNvb0hrRUlINWJoaUhiVTR4a3hicFpENl8wMWVIU2NHMVozbUpzYmtVNW9MSWtNQVpHMnZXSzJDdEEtYzl2VzBQOVlvMWx5U0RZYlhIdDlWUWVRZW03TFNGcTZFcnBRa293OTFaZEVOdEowWVlfZHBTa3JCdEtoWHV3WWdNVDhubVVQZlMwby1XYjRNX0Y4bUYwU0tTcE41WVFUTnUzRzlzQk9xWU5TaTdFVVhBdEsyYTlNNXVaeDNGNkJodk1mZ0hWS1p1SnlROE5TdWxNRlV3dXVreWdWZ0Y1YVVJMjV4N05scVl4aGNOY0J6dHduOWdSRVFyMGpGTlFKWXpzRWJuNFRCZTNXTWJQU1pkR09mLXd2RTd3SnpSTFNuZFk5eTlidEVzUjU5RVpvLWFZZFE?oc=5"
         }
       ]
     },
@@ -115,7 +139,7 @@
       "id": "ecf42cad3499",
       "title": "全國多個地區降雨高於正常水平 今年夏季的蚊患或較往年更加嚴重 - am1320.com",
       "published": "2026-06-23T17:36:35+00:00",
-      "summary": "全國多個地區降雨高於正常水平 今年夏季的蚊患或較往年更加嚴重&nbsp;&nbsp;am1320.com高溫潮濕蚊蟲激增 渥公衛局籲防範西尼羅病毒&nbsp;&nbsp;大纪元“滅蚊神器”在加拿大爆火! 大批網友DIY, 竟被搶到斷貨!&nbsp;&nbsp;華僑時報夏季高發! 多倫多公園和湖邊暗藏“隐形殺手”, 15分鍾就可能中招&nbsp;&nbsp;華僑時報以爲隻是感冒! 多倫多男子從發冷到進ICU僅幾天, 病毒侵腦身亡&nbsp;&nbsp;華僑時報",
+      "summary": "全國多個地區降雨高於正常水平 今年夏季的蚊患或較往年更加嚴重&nbsp;&nbsp;am1320.com高溫潮濕蚊蟲激增 渥公衛局籲防範西尼羅病毒&nbsp;&nbsp;大纪元“滅蚊神器”在加拿大爆火! 大批網友DIY, 竟被搶到斷貨!&nbsp;&nbsp;華僑時報以爲隻是感冒! 多倫多男子從發冷到進ICU僅幾天, 病毒侵腦身亡&nbsp;&nbsp;華僑時報加拿大蚊蟲肆虐 「末日水桶」掀防蚊爆紅熱潮&nbsp;&nbsp;singtao.ca",
       "sources": [
         {
           "name": "am1320.com",
