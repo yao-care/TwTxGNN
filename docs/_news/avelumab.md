@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [肛門長肉瘤竟是菜花！母胎單身男崩潰 病後做1事醫讚：可防癌](https://news.google.com/rss/articles/CBMiUEFVX3lxTE56ZmxXUHhURl9aV2dOaTFVUVpGcVFlZ1N6S0tfR3dDMFFRSjRYVGMweHh3VnR1YW9EWFZ2YW5BRHVXMm5tT1NuX1FCQW9GTU0z0gFWQVVfeXFMT1RTUEU5MWtrWl93UmpEWUs4THRJeXhnUGNYU3c2M0FnV1hrWFV3TmJYU3dReUJLRGhfZDJsd2JyOWd3Z0lKMmpWV0NFcnpsVU5GdVY1Z2c?oc=5)
+### [崩潰！母胎單身男「肛門長肉瘤」一驗竟是菜花 醫：三大破口風險高](https://news.google.com/rss/articles/CBMisAJBVV95cUxOdmdhYXJPSHJ5RXVHd2k3NklRWHNSOGVZNnljVmJYR1N6SU03bnpTRXVnUUJZejZsZmxiVndKLV9sUng4SVZzSldtV2JZb3hyV2d4Z3BzUnI3VkpUOEh5NDR3alNSVVBseU5kQWFtQ3ozeDhsVnRWcUlzTURhSWhaWWdUQUNxUXdoMERTQTNZR0ZiTjJDbVBlRjVJWDhZSFJXMmRlc3hkTjRVNW93SXI2ckczTEpMcFZja2Z3c0RxM3FZaENPSWZfVTVOVEF5amdDUGQwVVVXU0xLOG9INENIOFhuUlgtbVpRcTgtYlRSbkhuZUpuckw2dHdJZGlVTjVKSXBBZE5pU3NValBiYWwyTjFjWnd0LU9rVjVYLS04c1hoWFpZMWU3MzE5LVNVNE56?oc=5)
 
 2026-06-24 <span class="news-indication-tag">癌症</span>
 
-來源：[UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE56ZmxXUHhURl9aV2dOaTFVUVpGcVFlZ1N6S0tfR3dDMFFRSjRYVGMweHh3VnR1YW9EWFZ2YW5BRHVXMm5tT1NuX1FCQW9GTU0z0gFWQVVfeXFMT1RTUEU5MWtrWl93UmpEWUs4THRJeXhnUGNYU3c2M0FnV1hrWFV3TmJYU3dReUJLRGhfZDJsd2JyOWd3Z0lKMmpWV0NFcnpsVU5GdVY1Z2c?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMisAJBVV95cUxOdmdhYXJPSHJ5RXVHd2k3NklRWHNSOGVZNnljVmJYR1N6SU03bnpTRXVnUUJZejZsZmxiVndKLV9sUng4SVZzSldtV2JZb3hyV2d4Z3BzUnI3VkpUOEh5NDR3alNSVVBseU5kQWFtQ3ozeDhsVnRWcUlzTURhSWhaWWdUQUNxUXdoMERTQTNZR0ZiTjJDbVBlRjVJWDhZSFJXMmRlc3hkTjRVNW93SXI2ckczTEpMcFZja2Z3c0RxM3FZaENPSWZfVTVOVEF5amdDUGQwVVVXU0xLOG9INENIOFhuUlgtbVpRcTgtYlRSbkhuZUpuckw2dHdJZGlVTjVKSXBBZE5pU3NValBiYWwyTjFjWnd0LU9rVjVYLS04c1hoWFpZMWU3MzE5LVNVNE56?oc=5)
 
 ---
 
@@ -57,6 +57,14 @@ permalink: /news/avelumab/
 2026-06-23 <span class="news-indication-tag">癌症</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5PR2JBWFRjN1RqeGE0d3JTVUZSSnprRkQwUTVRdVJQMXNjQlppa1FvVXNXWHMtY3dGbVRGZWRGRU8xQjhEaDBpSjdSem5GMWFFNUF2alp3SWJQT2V5MGhzMHByNG51Vk90VVFvei13?oc=5)
+
+---
+
+### [5腫瘤專家都不敢吃「1食物」！示警：超傷腸道、罹癌風險增](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5idkdRZDg0Ukl2NV92UUQ3SXZBUm5EVE9JdjdMTkZhUWt6NVFjSmVCRkpKbndZMmdQZ1ZMUlNVSnhCQ09UMWt6M1FrQm8?oc=5)
+
+2026-06-23 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5idkdRZDg0Ukl2NV92UUQ3SXZBUm5EVE9JdjdMTkZhUWt6NVFjSmVCRkpKbndZMmdQZ1ZMUlNVSnhCQ09UMWt6M1FrQm8?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [延緩失智關鍵不只保健品！研究：細嚼慢嚥＋偶爾下廚有助保護大腦、降低認知退化風險](https://news.google.com/rss/articles/CBMi_ANBVV95cUxPdFZZcWhjR2ZIUmh4VHBJRVFRVURqYW9XOW5PNnViM2tyWmM1cjlKcFhiaXIza2VOSmNiRXpjSTBsQUtYUk1oaWN1Xzg0WGVLSlQ2S292ZjhRbU9PZW1lVGwteWRVakM4NFNyTS1tazNoYUtVMGpWMW9wQTRrUC10MlRtYm1GNlN1OU81OHhidHNPYk9pRGRxd2lpU1FMbklSSW41U0JYY29ZVGlwU1JoZ0RsNXNrc05kb2hodTVyNnZESE9VOURwVU1LMmd5eUc3ZTFZS3NRM2tac2FkSVRwWUVtMzVQUGs1YWtaTDc4alluNVdNa29PaHdlbjZmcFo0aUJPUkZQcmRHVDN5SkZ4WmdKODdwODU3QWItYUNJSWxyNjhRZDFRX2NITVNCQ0dkcFhPUzNnb1BSMVFRYUlsMUJFVnNhR2dOUDU1OEx0MmFMXzN0LUxZWXhLNWljMTc1dG1XOHlFMGtxN2FRUnpUalZaT1dLOFJxZkRZUHVTRVBUOWZZVTFUTTVCY2Z2NVNaZ2pEa09KalVpb0EtX05WZVVsLVltWVpNMEtLSW80dV9lNnVDQ1A1WjdOSy1zRHRxUWptOHpMU19KeDZXRGNMSVhhbjdtS1JtV1EySjd1cXdRMGN5bDFma1p4bUpVcGJubkFqMFpuYW53eEFn?oc=5)
+### [吃魚油防失智？研究戳破保健品神話 不如多吃這類食物更實際](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUMm8wNV9YVU5hWG5EV2xrbG5VM243YTNhNGU2VmlhSzJFY2gtVGdNbEVDLWhkZU1NU2QwMzBNaHExaE1fa05qcjZjMnhCdmpQQVpxZ2lqYmhCOWxmaFlZTDhn0gFiQVVfeXFMUFQybzA1X1hVTmFYbkRXbGtsblUzbjdhM2E0ZTZWaWFLMkVjaC1UZ01sRUMtaGRlTU1TZDAzME1ocTFoTV9rTmpyNmMyeEJ2alBBWnFnaWpiaEI5bGZoWVlMOGc?oc=5)
 
 2026-06-24
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi_ANBVV95cUxPdFZZcWhjR2ZIUmh4VHBJRVFRVURqYW9XOW5PNnViM2tyWmM1cjlKcFhiaXIza2VOSmNiRXpjSTBsQUtYUk1oaWN1Xzg0WGVLSlQ2S292ZjhRbU9PZW1lVGwteWRVakM4NFNyTS1tazNoYUtVMGpWMW9wQTRrUC10MlRtYm1GNlN1OU81OHhidHNPYk9pRGRxd2lpU1FMbklSSW41U0JYY29ZVGlwU1JoZ0RsNXNrc05kb2hodTVyNnZESE9VOURwVU1LMmd5eUc3ZTFZS3NRM2tac2FkSVRwWUVtMzVQUGs1YWtaTDc4alluNVdNa29PaHdlbjZmcFo0aUJPUkZQcmRHVDN5SkZ4WmdKODdwODU3QWItYUNJSWxyNjhRZDFRX2NITVNCQ0dkcFhPUzNnb1BSMVFRYUlsMUJFVnNhR2dOUDU1OEx0MmFMXzN0LUxZWXhLNWljMTc1dG1XOHlFMGtxN2FRUnpUalZaT1dLOFJxZkRZUHVTRVBUOWZZVTFUTTVCY2Z2NVNaZ2pEa09KalVpb0EtX05WZVVsLVltWVpNMEtLSW80dV9lNnVDQ1A1WjdOSy1zRHRxUWptOHpMU19KeDZXRGNMSVhhbjdtS1JtV1EySjd1cXdRMGN5bDFma1p4bUpVcGJubkFqMFpuYW53eEFn?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUMm8wNV9YVU5hWG5EV2xrbG5VM243YTNhNGU2VmlhSzJFY2gtVGdNbEVDLWhkZU1NU2QwMzBNaHExaE1fa05qcjZjMnhCdmpQQVpxZ2lqYmhCOWxmaFlZTDhn0gFiQVVfeXFMUFQybzA1X1hVTmFYbkRXbGtsblUzbjdhM2E0ZTZWaWFLMkVjaC1UZ01sRUMtaGRlTU1TZDAzME1ocTFoTV9rTmpyNmMyeEJ2alBBWnFnaWpiaEI5bGZoWVlMOGc?oc=5)
+
+---
+
+### [腦健康的第一道防線不是記憶力，而是血管健康](https://news.google.com/rss/articles/CBMiSEFVX3lxTE1NblVpcTZBN1pxX0tQVGtfelpRaGVwbWZQNjlMVWR3QnNtSjRjM0RxSl82RUl6blp2R3JDRTU0TjNRNVdKZ1NUbQ?oc=5)
+
+2026-06-24
+
+來源：[peopo.org](https://news.google.com/rss/articles/CBMiSEFVX3lxTE1NblVpcTZBN1pxX0tQVGtfelpRaGVwbWZQNjlMVWR3QnNtSjRjM0RxSl82RUl6blp2R3JDRTU0TjNRNVdKZ1NUbQ?oc=5)
 
 ---
 
