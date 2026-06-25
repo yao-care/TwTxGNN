@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [大腸癌「隱形斗篷」遭破解 關閉1開關讓腫瘤全消退](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpRWZHQnlTbUR2X1k4OFphd2pCb2d2ZHJlcDNXNndkY2Z3R3RTU3pYcC1zV2NGWnctOU9tdkdic2p0SmRRQnhuRkR5cm9XeDdxZHFNcVZJUWZKQ1NzYVhhLXp2ZUPSAWpBVV95cUxNZXMweFU4amtDS19hYkFORGZfTXJ5TVdiankwNDF5dVJOaFJwRTBuOVRIaHhKemFTTTNyYVRwM2twMXMwUnpFMDhCTlZTZUJ2bHVFdmh2dzRya0MwSTVsX0lfdG5hbnJweVFR?oc=5)
+
+2026-06-25 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpRWZHQnlTbUR2X1k4OFphd2pCb2d2ZHJlcDNXNndkY2Z3R3RTU3pYcC1zV2NGWnctOU9tdkdic2p0SmRRQnhuRkR5cm9XeDdxZHFNcVZJUWZKQ1NzYVhhLXp2ZUPSAWpBVV95cUxNZXMweFU4amtDS19hYkFORGZfTXJ5TVdiankwNDF5dVJOaFJwRTBuOVRIaHhKemFTTTNyYVRwM2twMXMwUnpFMDhCTlZTZUJ2bHVFdmh2dzRya0MwSTVsX0lfdG5hbnJweVFR?oc=5)
+
+---
 
 ### [HPV疫苗20年重大進展！台灣擴大公費接種男女通用，專家：防癌進入「全民防護新時代」](https://news.google.com/rss/articles/CBMi3wNBVV95cUxNcHpKcUhTNjlZVGdsTm5DQ0FFbzhuVmN6WlNjaGw1ZUpBbXlNaElIaWJEZ3VkcGRWRTh0UUpWS0Nyd3g0Y2tmZUtvY0VVeW41TEdtbFEzb1VnOWktTk43a0g5SW5ydHptSGtURFh3WDJaRUlIdU94b0QyVWk0WUpEeGdELUJMRGlMWUFqZy1zNy1JWkxsYUhhcmdHN25LZ1B6T0ZfT19wOW9mVE5RWFN3V0VBR3ZiaW5OSVF0bEJ5U1UxMmJURnZPZ3ZZYnQ4TXNBVkpmYWxlWXZ6VWp2VE5tVlgtLWt4UDhSYUNWSjE5cThvRzF1YVJBZ3NCZVpmanlGdzZjV1U5QlMzclJ1dGhrVXZtOFJPbVF4d3RlUlVzTTRkSkNwUkI1a2RSOTI1Zms0SkF0aUFkbnZpUVM2a1pTSk1oNTZwWDhGb2tHWUVXVFhia3lzY1lPYUFZWHRFbml0UEx2czVyZUN3MXhxS3NsWUlVcDRqbWpGYl96SUhzQkZZOEp0TlJjM2ZNdjBfdHBCc0ZMbWFWdEptLXNBenRXa3I0bzk2c0Z2eTFlNUkwTHRTY21jX3M2NnJpX1o4VVVSZlNnWFFjSl9wZUNRRTF4Q0xXTDk4d2wtbGJwWlR3Zw?oc=5)
 
@@ -52,11 +60,11 @@ permalink: /news/paclitaxel/
 
 ---
 
-### [壓力大要小心！醫揭5易被忽略的癌症警訊 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9neWtENTdPX3FUb2lKTTY2ZVBZWDg1M2pHQTVDTkpLWjZobjF3MzVfTUlpX3NLWW5UVHR3SXY2a3NzMWZBSS02TlJXcHJzZ05NM1ZKdDVuQnB2RGky0gFiQVVfeXFMUEZHbkh4WndNRGRpcXpDamJaZHE3TWFLWWJwUTRXRGRpZ0paRzVhdm8tYXBGUWVESDZtYjA0NS1xMndlRTc0YlhGZ00teUc3bHpoQjBvRV9tZFhwZXpSVU12LWc?oc=5)
+### [疲勞、壓力大都上榜！醫揭「5大易被忽略」的癌症警訊](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9tM0dQNFVjQnJjalZvaXFtR0Q5NjdvYnA5eXFhNE5nTXZLY2R5bGtUVkgtendrUFFOd0tZVEVZVThsLU1OZ2lGWlVR?oc=5)
 
 2026-06-24 <span class="news-indication-tag">癌症</span>
 
-來源：[鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9neWtENTdPX3FUb2lKTTY2ZVBZWDg1M2pHQTVDTkpLWjZobjF3MzVfTUlpX3NLWW5UVHR3SXY2a3NzMWZBSS02TlJXcHJzZ05NM1ZKdDVuQnB2RGky0gFiQVVfeXFMUEZHbkh4WndNRGRpcXpDamJaZHE3TWFLWWJwUTRXRGRpZ0paRzVhdm8tYXBGUWVESDZtYjA0NS1xMndlRTc0YlhGZ00teUc3bHpoQjBvRV9tZFhwZXpSVU12LWc?oc=5)
+來源：[娛樂星聞](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9tM0dQNFVjQnJjalZvaXFtR0Q5NjdvYnA5eXFhNE5nTXZLY2R5bGtUVkgtendrUFFOd0tZVEVZVThsLU1OZ2lGWlVR?oc=5)
 
 ---
 

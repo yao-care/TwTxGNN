@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "癌症（generic_cancer） 相關新聞"
+title: "腫瘤（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "腫瘤（generic_cancer） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
-# 癌症（generic_cancer） 相關新聞
+# 腫瘤（generic_cancer） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="腫瘤（generic_cancer） 有什麼相關新聞？">
+<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「癌症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「腫瘤」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,13 +75,21 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [壓力大要小心！醫揭5易被忽略的癌症警訊 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9neWtENTdPX3FUb2lKTTY2ZVBZWDg1M2pHQTVDTkpLWjZobjF3MzVfTUlpX3NLWW5UVHR3SXY2a3NzMWZBSS02TlJXcHJzZ05NM1ZKdDVuQnB2RGky0gFiQVVfeXFMUEZHbkh4WndNRGRpcXpDamJaZHE3TWFLWWJwUTRXRGRpZ0paRzVhdm8tYXBGUWVESDZtYjA0NS1xMndlRTc0YlhGZ00teUc3bHpoQjBvRV9tZFhwZXpSVU12LWc?oc=5)
+### [大腸癌「隱形斗篷」遭破解 關閉1開關讓腫瘤全消退](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpRWZHQnlTbUR2X1k4OFphd2pCb2d2ZHJlcDNXNndkY2Z3R3RTU3pYcC1zV2NGWnctOU9tdkdic2p0SmRRQnhuRkR5cm9XeDdxZHFNcVZJUWZKQ1NzYVhhLXp2ZUPSAWpBVV95cUxNZXMweFU4amtDS19hYkFORGZfTXJ5TVdiankwNDF5dVJOaFJwRTBuOVRIaHhKemFTTTNyYVRwM2twMXMwUnpFMDhCTlZTZUJ2bHVFdmh2dzRya0MwSTVsX0lfdG5hbnJweVFR?oc=5)
+
+2026-06-25
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpRWZHQnlTbUR2X1k4OFphd2pCb2d2ZHJlcDNXNndkY2Z3R3RTU3pYcC1zV2NGWnctOU9tdkdic2p0SmRRQnhuRkR5cm9XeDdxZHFNcVZJUWZKQ1NzYVhhLXp2ZUPSAWpBVV95cUxNZXMweFU4amtDS19hYkFORGZfTXJ5TVdiankwNDF5dVJOaFJwRTBuOVRIaHhKemFTTTNyYVRwM2twMXMwUnpFMDhCTlZTZUJ2bHVFdmh2dzRya0MwSTVsX0lfdG5hbnJweVFR?oc=5)
+
+---
+
+### [疲勞、壓力大都上榜！醫揭「5大易被忽略」的癌症警訊](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9tM0dQNFVjQnJjalZvaXFtR0Q5NjdvYnA5eXFhNE5nTXZLY2R5bGtUVkgtendrUFFOd0tZVEVZVThsLU1OZ2lGWlVR?oc=5)
 
 2026-06-24
 
-來源：[鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9neWtENTdPX3FUb2lKTTY2ZVBZWDg1M2pHQTVDTkpLWjZobjF3MzVfTUlpX3NLWW5UVHR3SXY2a3NzMWZBSS02TlJXcHJzZ05NM1ZKdDVuQnB2RGky0gFiQVVfeXFMUEZHbkh4WndNRGRpcXpDamJaZHE3TWFLWWJwUTRXRGRpZ0paRzVhdm8tYXBGUWVESDZtYjA0NS1xMndlRTc0YlhGZ00teUc3bHpoQjBvRV9tZFhwZXpSVU12LWc?oc=5)
+來源：[娛樂星聞](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9tM0dQNFVjQnJjalZvaXFtR0Q5NjdvYnA5eXFhNE5nTXZLY2R5bGtUVkgtendrUFFOd0tZVEVZVThsLU1OZ2lGWlVR?oc=5)
 
 ---
 
