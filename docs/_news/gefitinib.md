@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [大腸癌「隱形斗篷」遭破解 關閉1開關讓腫瘤全消退](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpRWZHQnlTbUR2X1k4OFphd2pCb2d2ZHJlcDNXNndkY2Z3R3RTU3pYcC1zV2NGWnctOU9tdkdic2p0SmRRQnhuRkR5cm9XeDdxZHFNcVZJUWZKQ1NzYVhhLXp2ZUPSAWpBVV95cUxNZXMweFU4amtDS19hYkFORGZfTXJ5TVdiankwNDF5dVJOaFJwRTBuOVRIaHhKemFTTTNyYVRwM2twMXMwUnpFMDhCTlZTZUJ2bHVFdmh2dzRya0MwSTVsX0lfdG5hbnJweVFR?oc=5)
 
@@ -51,27 +51,19 @@ permalink: /news/gefitinib/
 
 ---
 
-### [疲勞、壓力大都上榜！醫揭「5大易被忽略」的癌症警訊](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9tM0dQNFVjQnJjalZvaXFtR0Q5NjdvYnA5eXFhNE5nTXZLY2R5bGtUVkgtendrUFFOd0tZVEVZVThsLU1OZ2lGWlVR?oc=5)
+### [吃魚油防失智？研究戳破保健品神話 不如多吃這類食物更實際](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HcGNja3F2VlhmS3hQTkNjUlkyc25UMUI1Q1FJRmFXUklsNTFOdldrWHEyU1ptUkFPcUs2WlFjQ21ERUdGWG9DcUhjSE9XT1hIMTBQYkt4RjBTM2hs0gFiQVVfeXFMUFQybzA1X1hVTmFYbkRXbGtsblUzbjdhM2E0ZTZWaWFLMkVjaC1UZ01sRUMtaGRlTU1TZDAzME1ocTFoTV9rTmpyNmMyeEJ2alBBWnFnaWpiaEI5bGZoWVlMOGc?oc=5)
+
+2026-06-24 <span class="news-indication-tag">失智</span>
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HcGNja3F2VlhmS3hQTkNjUlkyc25UMUI1Q1FJRmFXUklsNTFOdldrWHEyU1ptUkFPcUs2WlFjQ21ERUdGWG9DcUhjSE9XT1hIMTBQYkt4RjBTM2hs0gFiQVVfeXFMUFQybzA1X1hVTmFYbkRXbGtsblUzbjdhM2E0ZTZWaWFLMkVjaC1UZ01sRUMtaGRlTU1TZDAzME1ocTFoTV9rTmpyNmMyeEJ2alBBWnFnaWpiaEI5bGZoWVlMOGc?oc=5)
+
+---
+
+### [沒性行為也中鏢？母胎單身男「肛門長肉瘤」　確診菜花崩潰 | 生活 | CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzWDByeDBibjUwX1I3aTVBT1Y5T1lDNjJWNWlIZnJhVDhKU0dxWFBkQU9HcVdPbEdSTlFZNXFyb29hYlJ1M1cwNnNUQXZ6X2vSAVRBVV95cUxNY1hITEEzNHh5OEdtd1NYOFhUeERWY0FUaW1jLTkxWW9vNE5hRmk2S01tQnZlOUdhaFdaRlRuWkdZc01lLXliRlp2Z2RvMXg1U1FBVkY?oc=5)
 
 2026-06-24 <span class="news-indication-tag">癌症</span>
 
-來源：[娛樂星聞](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9tM0dQNFVjQnJjalZvaXFtR0Q5NjdvYnA5eXFhNE5nTXZLY2R5bGtUVkgtendrUFFOd0tZVEVZVThsLU1OZ2lGWlVR?oc=5)
-
----
-
-### [吃魚油防失智？研究戳破保健品神話 不如多吃這類食物更實際](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUMm8wNV9YVU5hWG5EV2xrbG5VM243YTNhNGU2VmlhSzJFY2gtVGdNbEVDLWhkZU1NU2QwMzBNaHExaE1fa05qcjZjMnhCdmpQQVpxZ2lqYmhCOWxmaFlZTDhn0gFiQVVfeXFMUFQybzA1X1hVTmFYbkRXbGtsblUzbjdhM2E0ZTZWaWFLMkVjaC1UZ01sRUMtaGRlTU1TZDAzME1ocTFoTV9rTmpyNmMyeEJ2alBBWnFnaWpiaEI5bGZoWVlMOGc?oc=5)
-
-2026-06-24 <span class="news-indication-tag">失智</span>
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUMm8wNV9YVU5hWG5EV2xrbG5VM243YTNhNGU2VmlhSzJFY2gtVGdNbEVDLWhkZU1NU2QwMzBNaHExaE1fa05qcjZjMnhCdmpQQVpxZ2lqYmhCOWxmaFlZTDhn0gFiQVVfeXFMUFQybzA1X1hVTmFYbkRXbGtsblUzbjdhM2E0ZTZWaWFLMkVjaC1UZ01sRUMtaGRlTU1TZDAzME1ocTFoTV9rTmpyNmMyeEJ2alBBWnFnaWpiaEI5bGZoWVlMOGc?oc=5)
-
----
-
-### [維他命D濃度恐關失智風險！研究揭16年後大腦差異](https://news.google.com/rss/articles/CBMiTkFVX3lxTE04a0FySHA4TUd1QjM5ZmlzVjhkVm1qWE9SVld4NjNoNlFuN2VWVTJsalZsX2pfWi01WXVrejFQZFBlanlnd3hQdjZqY0FiZw?oc=5)
-
-2026-06-24 <span class="news-indication-tag">失智</span>
-
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiTkFVX3lxTE04a0FySHA4TUd1QjM5ZmlzVjhkVm1qWE9SVld4NjNoNlFuN2VWVTJsalZsX2pfWi01WXVrejFQZFBlanlnd3hQdjZqY0FiZw?oc=5)
+來源：[CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzWDByeDBibjUwX1I3aTVBT1Y5T1lDNjJWNWlIZnJhVDhKU0dxWFBkQU9HcVdPbEdSTlFZNXFyb29hYlJ1M1cwNnNUQXZ6X2vSAVRBVV95cUxNY1hITEEzNHh5OEdtd1NYOFhUeERWY0FUaW1jLTkxWW9vNE5hRmk2S01tQnZlOUdhaFdaRlRuWkdZc01lLXliRlp2Z2RvMXg1U1FBVkY?oc=5)
 
 ---
 

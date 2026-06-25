@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-25T13:11:17.644966+00:00",
-  "count": 6,
+  "generated": "2026-06-25T16:16:24.847945+00:00",
+  "count": 5,
   "news": [
     {
       "id": "e4906892d33b",
@@ -301,13 +301,37 @@
       ]
     },
     {
-      "id": "f85567f25e19",
-      "title": "疲勞、壓力大都上榜！醫揭「5大易被忽略」的癌症警訊",
-      "published": "2026-06-24T10:55:35+00:00",
+      "id": "8623d87164d7",
+      "title": "吃魚油防失智？研究戳破保健品神話 不如多吃這類食物更實際",
+      "published": "2026-06-24T09:06:12+00:00",
       "sources": [
         {
-          "name": "娛樂星聞",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9tM0dQNFVjQnJjalZvaXFtR0Q5NjdvYnA5eXFhNE5nTXZLY2R5bGtUVkgtendrUFFOd0tZVEVZVThsLU1OZ2lGWlVR?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HcGNja3F2VlhmS3hQTkNjUlkyc25UMUI1Q1FJRmFXUklsNTFOdldrWHEyU1ptUkFPcUs2WlFjQ21ERUdGWG9DcUhjSE9XT1hIMTBQYkt4RjBTM2hs0gFiQVVfeXFMUFQybzA1X1hVTmFYbkRXbGtsblUzbjdhM2E0ZTZWaWFLMkVjaC1UZ01sRUMtaGRlTU1TZDAzME1ocTFoTV9rTmpyNmMyeEJ2alBBWnFnaWpiaEI5bGZoWVlMOGc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "376b82089935",
+      "title": "沒性行為也中鏢？母胎單身男「肛門長肉瘤」　確診菜花崩潰 | 生活 | CTWANT",
+      "published": "2026-06-24T05:23:32+00:00",
+      "sources": [
+        {
+          "name": "CTWANT",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzWDByeDBibjUwX1I3aTVBT1Y5T1lDNjJWNWlIZnJhVDhKU0dxWFBkQU9HcVdPbEdSTlFZNXFyb29hYlJ1M1cwNnNUQXZ6X2vSAVRBVV95cUxNY1hITEEzNHh5OEdtd1NYOFhUeERWY0FUaW1jLTkxWW9vNE5hRmk2S01tQnZlOUdhaFdaRlRuWkdZc01lLXliRlp2Z2RvMXg1U1FBVkY?oc=5"
         }
       ],
       "keywords": [
@@ -503,54 +527,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "34159d1cb8de",
-      "title": "吃魚油防失智？研究戳破保健品神話 不如多吃這類食物更實際",
-      "published": "2026-06-24T09:06:12+00:00",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUMm8wNV9YVU5hWG5EV2xrbG5VM243YTNhNGU2VmlhSzJFY2gtVGdNbEVDLWhkZU1NU2QwMzBNaHExaE1fa05qcjZjMnhCdmpQQVpxZ2lqYmhCOWxmaFlZTDhn0gFiQVVfeXFMUFQybzA1X1hVTmFYbkRXbGtsblUzbjdhM2E0ZTZWaWFLMkVjaC1UZ01sRUMtaGRlTU1TZDAzME1ocTFoTV9rTmpyNmMyeEJ2alBBWnFnaWpiaEI5bGZoWVlMOGc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c506fdbe3ec8",
-      "title": "維他命D濃度恐關失智風險！研究揭16年後大腦差異",
-      "published": "2026-06-24T03:10:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04a0FySHA4TUd1QjM5ZmlzVjhkVm1qWE9SVld4NjNoNlFuN2VWVTJsalZsX2pfWi01WXVrejFQZFBlanlnd3hQdjZqY0FiZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

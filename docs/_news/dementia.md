@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [吃魚油防失智？研究戳破保健品神話 不如多吃這類食物更實際](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUMm8wNV9YVU5hWG5EV2xrbG5VM243YTNhNGU2VmlhSzJFY2gtVGdNbEVDLWhkZU1NU2QwMzBNaHExaE1fa05qcjZjMnhCdmpQQVpxZ2lqYmhCOWxmaFlZTDhn0gFiQVVfeXFMUFQybzA1X1hVTmFYbkRXbGtsblUzbjdhM2E0ZTZWaWFLMkVjaC1UZ01sRUMtaGRlTU1TZDAzME1ocTFoTV9rTmpyNmMyeEJ2alBBWnFnaWpiaEI5bGZoWVlMOGc?oc=5)
-
-2026-06-24
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUMm8wNV9YVU5hWG5EV2xrbG5VM243YTNhNGU2VmlhSzJFY2gtVGdNbEVDLWhkZU1NU2QwMzBNaHExaE1fa05qcjZjMnhCdmpQQVpxZ2lqYmhCOWxmaFlZTDhn0gFiQVVfeXFMUFQybzA1X1hVTmFYbkRXbGtsblUzbjdhM2E0ZTZWaWFLMkVjaC1UZ01sRUMtaGRlTU1TZDAzME1ocTFoTV9rTmpyNmMyeEJ2alBBWnFnaWpiaEI5bGZoWVlMOGc?oc=5)
-
----
-
-### [維他命D濃度恐關失智風險！研究揭16年後大腦差異](https://news.google.com/rss/articles/CBMiTkFVX3lxTE04a0FySHA4TUd1QjM5ZmlzVjhkVm1qWE9SVld4NjNoNlFuN2VWVTJsalZsX2pfWi01WXVrejFQZFBlanlnd3hQdjZqY0FiZw?oc=5)
+### [吃魚油防失智？研究戳破保健品神話 不如多吃這類食物更實際](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HcGNja3F2VlhmS3hQTkNjUlkyc25UMUI1Q1FJRmFXUklsNTFOdldrWHEyU1ptUkFPcUs2WlFjQ21ERUdGWG9DcUhjSE9XT1hIMTBQYkt4RjBTM2hs0gFiQVVfeXFMUFQybzA1X1hVTmFYbkRXbGtsblUzbjdhM2E0ZTZWaWFLMkVjaC1UZ01sRUMtaGRlTU1TZDAzME1ocTFoTV9rTmpyNmMyeEJ2alBBWnFnaWpiaEI5bGZoWVlMOGc?oc=5)
 
 2026-06-24
 
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiTkFVX3lxTE04a0FySHA4TUd1QjM5ZmlzVjhkVm1qWE9SVld4NjNoNlFuN2VWVTJsalZsX2pfWi01WXVrejFQZFBlanlnd3hQdjZqY0FiZw?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HcGNja3F2VlhmS3hQTkNjUlkyc25UMUI1Q1FJRmFXUklsNTFOdldrWHEyU1ptUkFPcUs2WlFjQ21ERUdGWG9DcUhjSE9XT1hIMTBQYkt4RjBTM2hs0gFiQVVfeXFMUFQybzA1X1hVTmFYbkRXbGtsblUzbjdhM2E0ZTZWaWFLMkVjaC1UZ01sRUMtaGRlTU1TZDAzME1ocTFoTV9rTmpyNmMyeEJ2alBBWnFnaWpiaEI5bGZoWVlMOGc?oc=5)
 
 ---
 
