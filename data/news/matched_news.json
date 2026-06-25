@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-06-25T10:34:41.318725+00:00",
-  "total_count": 20,
+  "last_updated": "2026-06-25T13:11:17.613959+00:00",
+  "total_count": 21,
   "matched_count": 6,
   "news": [
+    {
+      "id": "cc47b9bd214f",
+      "title": "新研究顯示，肥胖率在年輕成人中上升最快",
+      "published": "2026-06-25T12:53:39+00:00",
+      "summary": "新研究顯示，肥胖率在年輕成人中上升最快&nbsp;&nbsp;gamereactor.cn",
+      "sources": [
+        {
+          "name": "gamereactor.cn",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUhGXzJ2VEFvbkJrTmFmeGRPLWZXX1RKSlVCZjVmUUh2djJ6ME5Zd0dLOVVFaVd0dWdjWllUOFRUY0Z2ZnVkOWVXUkRzeGhpdzV4RFo5NzJETzBzbmJKejVnZVFTUUc1azhSemRDTmZjblg5bkJ1MUJYUzVwb1BaTHl3T3RaeXp0SEpuUWFWRHJscjNmSGVXYQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "e4906892d33b",
       "title": "32歲女拳手不吸煙竟患肺癌末期！新婚兩週無家族病史僅咳嗽已罹癌／初診被誤當哮喘 - U Food",
@@ -40,7 +53,7 @@
       "id": "92e98fbfdb86",
       "title": "高糖、抽菸、曝曬是膠原蛋白殺手！醫提醒「日常地雷」要避開",
       "published": "2026-06-25T08:59:53+00:00",
-      "summary": "高糖、抽菸、曝曬是膠原蛋白殺手！醫提醒「日常地雷」要避開&nbsp;&nbsp;Yahoo新聞孫淑媚天天吃膠原蛋白，網友卻狂冒痘？營養師揪出4大地雷，難怪補了沒感覺！&nbsp;&nbsp;女人我最大吃膠原蛋白＝皮膚Ｑ彈、強筋健骨？名醫科學解密！&nbsp;&nbsp;祝你健康女性健康｜媽媽吃膠原蛋白狂生瘡營養師揭真正成因公開膠原搭配法效果加倍附膠原流失4大元凶| 靚媽頻道&nbsp;&nbsp;Oh!爸媽孫淑媚天天吃膠原蛋白！有人卻狂冒痘 先戒4大壞習慣&nbsp;&nbsp;知新聞",
+      "summary": "高糖、抽菸、曝曬是膠原蛋白殺手！醫提醒「日常地雷」要避開&nbsp;&nbsp;Yahoo新聞孫淑媚天天吃膠原蛋白，網友卻狂冒痘？營養師揪出4大地雷，難怪補了沒感覺！&nbsp;&nbsp;女人我最大女性健康｜媽媽吃膠原蛋白狂生瘡營養師揭真正成因公開膠原搭配法效果加倍附膠原流失4大元凶| 靚媽頻道&nbsp;&nbsp;Oh!爸媽孫淑媚天天吃膠原蛋白！有人卻狂冒痘 先戒4大壞習慣&nbsp;&nbsp;知新聞睡前吃膠原蛋白竟比早上有用？背後原因讓人恍然大悟&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -82,31 +95,6 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "95cb36679cac",
-      "title": "健康網》腦退化40歲就啟動 防失智做對3件事 大腦更乾淨",
-      "published": "2026-06-25T05:02:00+00:00",
-      "summary": "健康網》腦退化40歲就啟動 防失智做對3件事 大腦更乾淨&nbsp;&nbsp;自由健康網最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨&nbsp;&nbsp;Yahoo新聞不用保健品！研究曝「睡前1舉動」就能增記憶力：幾分鐘就夠&nbsp;&nbsp;祝你健康討論牆 | 最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨&nbsp;&nbsp;LINE TODAY延緩失智關鍵不只保健品！研究：細嚼慢嚥＋偶爾下廚有助保護大腦、降低認知退化風險&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrT2szdWNSa3M3a3pQMUs5UGI1ZnN4UjU4MVdlcHlIS0Z3VDZabzVCUUotZDI0ODZDYkUxNHZmUEFPVVA4S1F5Y2N1dTJZTFp5NG94QmphTWdOcm5ROUJTT0pNc2nSAWpBVV95cUxQQlFnNEs5NUZfTkdDWTc0T0s2LVMwN0JBdkJhSGxOY21zTFh1M1dSSFZiTlhaOThFS1BrT1QyU2ZCc3g5RDVXQXUyMXlFeFM5R2h2eVNCTURNa0pRZE1mZXBsdGd1Y0cwY1VR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
@@ -692,6 +680,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "c506fdbe3ec8",
+      "title": "維他命D濃度恐關失智風險！研究揭16年後大腦差異",
+      "published": "2026-06-24T03:10:00+00:00",
+      "summary": "維他命D濃度恐關失智風險！研究揭16年後大腦差異&nbsp;&nbsp;TVBS新聞網最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨&nbsp;&nbsp;Yahoo新聞健康網》腦退化40歲就啟動 防失智做對3件事 大腦更乾淨&nbsp;&nbsp;自由健康網延緩失智！研究：細嚼慢嚥＋偶爾下廚有助保護大腦.降低認知退化風險&nbsp;&nbsp;台視新聞網每天15分鐘逆轉腦齡? 醫揭2關鍵：70 歲開始也有效&nbsp;&nbsp;MSN",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04a0FySHA4TUd1QjM5ZmlzVjhkVm1qWE9SVld4NjNoNlFuN2VWVTJsalZsX2pfWi01WXVrejFQZFBlanlnd3hQdjZqY0FiZw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "b0d670d12d6a",

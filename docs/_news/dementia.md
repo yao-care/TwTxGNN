@@ -31,19 +31,19 @@ permalink: /news/dementia/
 
 ## 相關新聞（2 則）
 
-### [健康網》腦退化40歲就啟動 防失智做對3件事 大腦更乾淨](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrT2szdWNSa3M3a3pQMUs5UGI1ZnN4UjU4MVdlcHlIS0Z3VDZabzVCUUotZDI0ODZDYkUxNHZmUEFPVVA4S1F5Y2N1dTJZTFp5NG94QmphTWdOcm5ROUJTT0pNc2nSAWpBVV95cUxQQlFnNEs5NUZfTkdDWTc0T0s2LVMwN0JBdkJhSGxOY21zTFh1M1dSSFZiTlhaOThFS1BrT1QyU2ZCc3g5RDVXQXUyMXlFeFM5R2h2eVNCTURNa0pRZE1mZXBsdGd1Y0cwY1VR?oc=5)
-
-2026-06-25
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrT2szdWNSa3M3a3pQMUs5UGI1ZnN4UjU4MVdlcHlIS0Z3VDZabzVCUUotZDI0ODZDYkUxNHZmUEFPVVA4S1F5Y2N1dTJZTFp5NG94QmphTWdOcm5ROUJTT0pNc2nSAWpBVV95cUxQQlFnNEs5NUZfTkdDWTc0T0s2LVMwN0JBdkJhSGxOY21zTFh1M1dSSFZiTlhaOThFS1BrT1QyU2ZCc3g5RDVXQXUyMXlFeFM5R2h2eVNCTURNa0pRZE1mZXBsdGd1Y0cwY1VR?oc=5)
-
----
-
 ### [吃魚油防失智？研究戳破保健品神話 不如多吃這類食物更實際](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUMm8wNV9YVU5hWG5EV2xrbG5VM243YTNhNGU2VmlhSzJFY2gtVGdNbEVDLWhkZU1NU2QwMzBNaHExaE1fa05qcjZjMnhCdmpQQVpxZ2lqYmhCOWxmaFlZTDhn0gFiQVVfeXFMUFQybzA1X1hVTmFYbkRXbGtsblUzbjdhM2E0ZTZWaWFLMkVjaC1UZ01sRUMtaGRlTU1TZDAzME1ocTFoTV9rTmpyNmMyeEJ2alBBWnFnaWpiaEI5bGZoWVlMOGc?oc=5)
 
 2026-06-24
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUMm8wNV9YVU5hWG5EV2xrbG5VM243YTNhNGU2VmlhSzJFY2gtVGdNbEVDLWhkZU1NU2QwMzBNaHExaE1fa05qcjZjMnhCdmpQQVpxZ2lqYmhCOWxmaFlZTDhn0gFiQVVfeXFMUFQybzA1X1hVTmFYbkRXbGtsblUzbjdhM2E0ZTZWaWFLMkVjaC1UZ01sRUMtaGRlTU1TZDAzME1ocTFoTV9rTmpyNmMyeEJ2alBBWnFnaWpiaEI5bGZoWVlMOGc?oc=5)
+
+---
+
+### [維他命D濃度恐關失智風險！研究揭16年後大腦差異](https://news.google.com/rss/articles/CBMiTkFVX3lxTE04a0FySHA4TUd1QjM5ZmlzVjhkVm1qWE9SVld4NjNoNlFuN2VWVTJsalZsX2pfWi01WXVrejFQZFBlanlnd3hQdjZqY0FiZw?oc=5)
+
+2026-06-24
+
+來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiTkFVX3lxTE04a0FySHA4TUd1QjM5ZmlzVjhkVm1qWE9SVld4NjNoNlFuN2VWVTJsalZsX2pfWi01WXVrejFQZFBlanlnd3hQdjZqY0FiZw?oc=5)
 
 ---
 
