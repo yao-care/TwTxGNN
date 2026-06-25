@@ -26,7 +26,7 @@ permalink: /news/cytarabine/
 <ul>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（9 個）：<ul>
-<li>small cell lung carcinoma（99.8%）</li>
+<li class="indication-matched">small cell lung carcinoma（99.8%）<span class="indication-tag">📰 肺癌</span></li>
 <li>primary pulmonary lymphoma（99.8%）</li>
 <li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
 <li>pulmonary blastoma（99.8%）</li>
@@ -42,6 +42,14 @@ permalink: /news/cytarabine/
 
 ## 相關新聞（3 則）
 
+### [32歲女拳手不吸煙竟患肺癌末期！新婚兩週無家族病史僅咳嗽已罹癌／初診被誤當哮喘 - U Food](https://news.google.com/rss/articles/CBMiigRBVV95cUxNOTh0ZE11U1hQOGM1S21xb1VjLV9MNEtfdkFOTGJfNUlfMV9iWGh1WHpWMjVFSThZN0sxQVFrWGlRSnhvazg5cElLdDRUVDZSbE9zVVRXczU0VHFpc0J5YzlGUUttWGhOWUtuU1p1dG9Peldjblg5Q3FidGtCYjhPUUsxMVhNUk96MFRvX3lpZkhLRHpiUlN6UERMYXdvZmlIX3lnbEJlSmFKZ3VtbV9ZY0NLRkhmS1F3akp2MnNiNEV0WmVuUk10OVVLZnhISnpEdnZfZVFUQnFpM2VqQkVLaC16YU9KU3RCUHBSZFVkU1EwRndFMDB2NTE3bHA4Q2xXdGlvMFFWZXBCUEJ4SVgtS1hlVmF0MS1lcm51bG5odDlaTkhGSXA1ZXpOQlF4STNwbUVzLXNtU2l2dzRhaDJFd0ttazlOMV9QOUY4MkZDT1VZbUxqeVBBSUN1ZzAwSXQyN1hBME5kMlZ1UHVkV3c1WHEwRzJ6REtTRjFydlRGOVRlNVRWdkJfUFBLVm1RWmF3R2pMTWZudjFLTFRKQ2hZclVLRF95S0k3RlVFNUNkT3huZDVWQmlqa2YyckJVaVVqQmRaUjVUSmlqNVk5TkFkVUlGeUhiUUJzcllMT1YzakgtUVZQS2N1dW0xUlpmRDlrZFZSdDFiemFXSW1qYktCLXJ1RzNTbHM3QkE?oc=5)
+
+2026-06-25 <span class="news-indication-tag">肺癌</span>
+
+來源：[U Food](https://news.google.com/rss/articles/CBMiigRBVV95cUxNOTh0ZE11U1hQOGM1S21xb1VjLV9MNEtfdkFOTGJfNUlfMV9iWGh1WHpWMjVFSThZN0sxQVFrWGlRSnhvazg5cElLdDRUVDZSbE9zVVRXczU0VHFpc0J5YzlGUUttWGhOWUtuU1p1dG9Peldjblg5Q3FidGtCYjhPUUsxMVhNUk96MFRvX3lpZkhLRHpiUlN6UERMYXdvZmlIX3lnbEJlSmFKZ3VtbV9ZY0NLRkhmS1F3akp2MnNiNEV0WmVuUk10OVVLZnhISnpEdnZfZVFUQnFpM2VqQkVLaC16YU9KU3RCUHBSZFVkU1EwRndFMDB2NTE3bHA4Q2xXdGlvMFFWZXBCUEJ4SVgtS1hlVmF0MS1lcm51bG5odDlaTkhGSXA1ZXpOQlF4STNwbUVzLXNtU2l2dzRhaDJFd0ttazlOMV9QOUY4MkZDT1VZbUxqeVBBSUN1ZzAwSXQyN1hBME5kMlZ1UHVkV3c1WHEwRzJ6REtTRjFydlRGOVRlNVRWdkJfUFBLVm1RWmF3R2pMTWZudjFLTFRKQ2hZclVLRF95S0k3RlVFNUNkT3huZDVWQmlqa2YyckJVaVVqQmRaUjVUSmlqNVk5TkFkVUlGeUhiUUJzcllMT1YzakgtUVZQS2N1dW0xUlpmRDlrZFZSdDFiemFXSW1qYktCLXJ1RzNTbHM3QkE?oc=5)
+
+---
+
 ### [大腸癌「隱形斗篷」遭破解 關閉1開關讓腫瘤全消退](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpRWZHQnlTbUR2X1k4OFphd2pCb2d2ZHJlcDNXNndkY2Z3R3RTU3pYcC1zV2NGWnctOU9tdkdic2p0SmRRQnhuRkR5cm9XeDdxZHFNcVZJUWZKQ1NzYVhhLXp2ZUPSAWpBVV95cUxNZXMweFU4amtDS19hYkFORGZfTXJ5TVdiankwNDF5dVJOaFJwRTBuOVRIaHhKemFTTTNyYVRwM2twMXMwUnpFMDhCTlZTZUJ2bHVFdmh2dzRya0MwSTVsX0lfdG5hbnJweVFR?oc=5)
 
 2026-06-25 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
@@ -55,14 +63,6 @@ permalink: /news/cytarabine/
 2026-06-24 <span class="news-indication-tag">癌症</span>
 
 來源：[娛樂星聞](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9tM0dQNFVjQnJjalZvaXFtR0Q5NjdvYnA5eXFhNE5nTXZLY2R5bGtUVkgtendrUFFOd0tZVEVZVThsLU1OZ2lGWlVR?oc=5)
-
----
-
-### [喝再少也有風險！最新研究：沒有安全飲酒量，癌症風險從第一口酒就開始](https://news.google.com/rss/articles/CBMitANBVV95cUxObkRrelhsR2J0ZmV1TGNVcTdkT29UZmZTOHJNaHdFTkIxbW9QV194bkVoRFB4bFVGaDlsUVZtM0JmNFg3V05DbHZnMmFmMmNZSk9Ia1gyd2dtZDVPVGd0WWpnVE5CN24zeU83akFrbVFzcjFzUUNZdzlBVnRySEwxQldEY3JSMzROclpTU2ZWb2pxMHBWc3c1ZHVFaDhuMjVhQnpBZENxWnJxTWliU3RMM0tUZk00Zkd3Q0tkWGVyS1lDWFc0SndDYUFfcGRJSk5LQzZzRHNVMm5UbWtzS05Ea3JHZTVESTlUQkxOVGdQR0ZsMVBVanNsaDFnSzVBNXB2UGd5ZXdqNlNweUxabE8yd0hHYU80TXh5Z2FWZnRjRXJuU29HVkR5aG93MU1Odk1RSHp2T1BkZEVuV3BINFJnaDVrdDdGOFE2YjJkbW5PUWx4WktMNHhuUm50OFhXRTVyMzljaU9Gcm1RQjdaTjBFdV9sYzg1YVc5V1JocE5oNVpsazlMMlJCXzFicGVZdmJqa0RwRXY3YTRWSmZYdzZfLVdkdVp6MzIybHRzalZMMHJTNzRF?oc=5)
-
-2026-06-23 <span class="news-indication-tag">癌症</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMitANBVV95cUxObkRrelhsR2J0ZmV1TGNVcTdkT29UZmZTOHJNaHdFTkIxbW9QV194bkVoRFB4bFVGaDlsUVZtM0JmNFg3V05DbHZnMmFmMmNZSk9Ia1gyd2dtZDVPVGd0WWpnVE5CN24zeU83akFrbVFzcjFzUUNZdzlBVnRySEwxQldEY3JSMzROclpTU2ZWb2pxMHBWc3c1ZHVFaDhuMjVhQnpBZENxWnJxTWliU3RMM0tUZk00Zkd3Q0tkWGVyS1lDWFc0SndDYUFfcGRJSk5LQzZzRHNVMm5UbWtzS05Ea3JHZTVESTlUQkxOVGdQR0ZsMVBVanNsaDFnSzVBNXB2UGd5ZXdqNlNweUxabE8yd0hHYU80TXh5Z2FWZnRjRXJuU29HVkR5aG93MU1Odk1RSHp2T1BkZEVuV3BINFJnaDVrdDdGOFE2YjJkbW5PUWx4WktMNHhuUm50OFhXRTVyMzljaU9Gcm1RQjdaTjBFdV9sYzg1YVc5V1JocE5oNVpsazlMMlJCXzFicGVZdmJqa0RwRXY3YTRWSmZYdzZfLVdkdVp6MzIybHRzalZMMHJTNzRF?oc=5)
 
 ---
 

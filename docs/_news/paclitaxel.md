@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
+
+### [HPV疫苗20年重大進展！ 台灣擴大公費接種男女通用](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oWGNlU3NoUTZGWGZZemRybzE5clMtQ0FLU19uS2tEN0ZadWZBYU5KVHIwb0dORWhCbzNnNWtVcUR3ZVRvV2MwZ3E2SkcxMXVmaEVxWTdPRQ?oc=5)
+
+2026-06-25 <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oWGNlU3NoUTZGWGZZemRybzE5clMtQ0FLU19uS2tEN0ZadWZBYU5KVHIwb0dORWhCbzNnNWtVcUR3ZVRvV2MwZ3E2SkcxMXVmaEVxWTdPRQ?oc=5)
+
+---
 
 ### [大腸癌「隱形斗篷」遭破解 關閉1開關讓腫瘤全消退](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpRWZHQnlTbUR2X1k4OFphd2pCb2d2ZHJlcDNXNndkY2Z3R3RTU3pYcC1zV2NGWnctOU9tdkdic2p0SmRRQnhuRkR5cm9XeDdxZHFNcVZJUWZKQ1NzYVhhLXp2ZUPSAWpBVV95cUxNZXMweFU4amtDS19hYkFORGZfTXJ5TVdiankwNDF5dVJOaFJwRTBuOVRIaHhKemFTTTNyYVRwM2twMXMwUnpFMDhCTlZTZUJ2bHVFdmh2dzRya0MwSTVsX0lfdG5hbnJweVFR?oc=5)
 
@@ -52,27 +60,11 @@ permalink: /news/paclitaxel/
 
 ---
 
-### [HPV疫苗20年重大進展！台灣擴大公費接種男女通用，專家：防癌進入「全民防護新時代」](https://news.google.com/rss/articles/CBMi3wNBVV95cUxNcHpKcUhTNjlZVGdsTm5DQ0FFbzhuVmN6WlNjaGw1ZUpBbXlNaElIaWJEZ3VkcGRWRTh0UUpWS0Nyd3g0Y2tmZUtvY0VVeW41TEdtbFEzb1VnOWktTk43a0g5SW5ydHptSGtURFh3WDJaRUlIdU94b0QyVWk0WUpEeGdELUJMRGlMWUFqZy1zNy1JWkxsYUhhcmdHN25LZ1B6T0ZfT19wOW9mVE5RWFN3V0VBR3ZiaW5OSVF0bEJ5U1UxMmJURnZPZ3ZZYnQ4TXNBVkpmYWxlWXZ6VWp2VE5tVlgtLWt4UDhSYUNWSjE5cThvRzF1YVJBZ3NCZVpmanlGdzZjV1U5QlMzclJ1dGhrVXZtOFJPbVF4d3RlUlVzTTRkSkNwUkI1a2RSOTI1Zms0SkF0aUFkbnZpUVM2a1pTSk1oNTZwWDhGb2tHWUVXVFhia3lzY1lPYUFZWHRFbml0UEx2czVyZUN3MXhxS3NsWUlVcDRqbWpGYl96SUhzQkZZOEp0TlJjM2ZNdjBfdHBCc0ZMbWFWdEptLXNBenRXa3I0bzk2c0Z2eTFlNUkwTHRTY21jX3M2NnJpX1o4VVVSZlNnWFFjSl9wZUNRRTF4Q0xXTDk4d2wtbGJwWlR3Zw?oc=5)
-
-2026-06-25 <span class="news-indication-tag">子宮頸癌</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi3wNBVV95cUxNcHpKcUhTNjlZVGdsTm5DQ0FFbzhuVmN6WlNjaGw1ZUpBbXlNaElIaWJEZ3VkcGRWRTh0UUpWS0Nyd3g0Y2tmZUtvY0VVeW41TEdtbFEzb1VnOWktTk43a0g5SW5ydHptSGtURFh3WDJaRUlIdU94b0QyVWk0WUpEeGdELUJMRGlMWUFqZy1zNy1JWkxsYUhhcmdHN25LZ1B6T0ZfT19wOW9mVE5RWFN3V0VBR3ZiaW5OSVF0bEJ5U1UxMmJURnZPZ3ZZYnQ4TXNBVkpmYWxlWXZ6VWp2VE5tVlgtLWt4UDhSYUNWSjE5cThvRzF1YVJBZ3NCZVpmanlGdzZjV1U5QlMzclJ1dGhrVXZtOFJPbVF4d3RlUlVzTTRkSkNwUkI1a2RSOTI1Zms0SkF0aUFkbnZpUVM2a1pTSk1oNTZwWDhGb2tHWUVXVFhia3lzY1lPYUFZWHRFbml0UEx2czVyZUN3MXhxS3NsWUlVcDRqbWpGYl96SUhzQkZZOEp0TlJjM2ZNdjBfdHBCc0ZMbWFWdEptLXNBenRXa3I0bzk2c0Z2eTFlNUkwTHRTY21jX3M2NnJpX1o4VVVSZlNnWFFjSl9wZUNRRTF4Q0xXTDk4d2wtbGJwWlR3Zw?oc=5)
-
----
-
 ### [疲勞、壓力大都上榜！醫揭「5大易被忽略」的癌症警訊](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9tM0dQNFVjQnJjalZvaXFtR0Q5NjdvYnA5eXFhNE5nTXZLY2R5bGtUVkgtendrUFFOd0tZVEVZVThsLU1OZ2lGWlVR?oc=5)
 
 2026-06-24 <span class="news-indication-tag">癌症</span>
 
 來源：[娛樂星聞](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9tM0dQNFVjQnJjalZvaXFtR0Q5NjdvYnA5eXFhNE5nTXZLY2R5bGtUVkgtendrUFFOd0tZVEVZVThsLU1OZ2lGWlVR?oc=5)
-
----
-
-### [喝再少也有風險！最新研究：沒有安全飲酒量，癌症風險從第一口酒就開始](https://news.google.com/rss/articles/CBMitANBVV95cUxObkRrelhsR2J0ZmV1TGNVcTdkT29UZmZTOHJNaHdFTkIxbW9QV194bkVoRFB4bFVGaDlsUVZtM0JmNFg3V05DbHZnMmFmMmNZSk9Ia1gyd2dtZDVPVGd0WWpnVE5CN24zeU83akFrbVFzcjFzUUNZdzlBVnRySEwxQldEY3JSMzROclpTU2ZWb2pxMHBWc3c1ZHVFaDhuMjVhQnpBZENxWnJxTWliU3RMM0tUZk00Zkd3Q0tkWGVyS1lDWFc0SndDYUFfcGRJSk5LQzZzRHNVMm5UbWtzS05Ea3JHZTVESTlUQkxOVGdQR0ZsMVBVanNsaDFnSzVBNXB2UGd5ZXdqNlNweUxabE8yd0hHYU80TXh5Z2FWZnRjRXJuU29HVkR5aG93MU1Odk1RSHp2T1BkZEVuV3BINFJnaDVrdDdGOFE2YjJkbW5PUWx4WktMNHhuUm50OFhXRTVyMzljaU9Gcm1RQjdaTjBFdV9sYzg1YVc5V1JocE5oNVpsazlMMlJCXzFicGVZdmJqa0RwRXY3YTRWSmZYdzZfLVdkdVp6MzIybHRzalZMMHJTNzRF?oc=5)
-
-2026-06-23 <span class="news-indication-tag">癌症</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMitANBVV95cUxObkRrelhsR2J0ZmV1TGNVcTdkT29UZmZTOHJNaHdFTkIxbW9QV194bkVoRFB4bFVGaDlsUVZtM0JmNFg3V05DbHZnMmFmMmNZSk9Ia1gyd2dtZDVPVGd0WWpnVE5CN24zeU83akFrbVFzcjFzUUNZdzlBVnRySEwxQldEY3JSMzROclpTU2ZWb2pxMHBWc3c1ZHVFaDhuMjVhQnpBZENxWnJxTWliU3RMM0tUZk00Zkd3Q0tkWGVyS1lDWFc0SndDYUFfcGRJSk5LQzZzRHNVMm5UbWtzS05Ea3JHZTVESTlUQkxOVGdQR0ZsMVBVanNsaDFnSzVBNXB2UGd5ZXdqNlNweUxabE8yd0hHYU80TXh5Z2FWZnRjRXJuU29HVkR5aG93MU1Odk1RSHp2T1BkZEVuV3BINFJnaDVrdDdGOFE2YjJkbW5PUWx4WktMNHhuUm50OFhXRTVyMzljaU9Gcm1RQjdaTjBFdV9sYzg1YVc5V1JocE5oNVpsazlMMlJCXzFicGVZdmJqa0RwRXY3YTRWSmZYdzZfLVdkdVp6MzIybHRzalZMMHJTNzRF?oc=5)
 
 ---
 

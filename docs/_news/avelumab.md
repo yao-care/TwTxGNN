@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [大腸癌「隱形斗篷」遭破解 關閉1開關讓腫瘤全消退](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpRWZHQnlTbUR2X1k4OFphd2pCb2d2ZHJlcDNXNndkY2Z3R3RTU3pYcC1zV2NGWnctOU9tdkdic2p0SmRRQnhuRkR5cm9XeDdxZHFNcVZJUWZKQ1NzYVhhLXp2ZUPSAWpBVV95cUxNZXMweFU4amtDS19hYkFORGZfTXJ5TVdiankwNDF5dVJOaFJwRTBuOVRIaHhKemFTTTNyYVRwM2twMXMwUnpFMDhCTlZTZUJ2bHVFdmh2dzRya0MwSTVsX0lfdG5hbnJweVFR?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/avelumab/
 2026-06-24 <span class="news-indication-tag">癌症</span>
 
 來源：[娛樂星聞](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9tM0dQNFVjQnJjalZvaXFtR0Q5NjdvYnA5eXFhNE5nTXZLY2R5bGtUVkgtendrUFFOd0tZVEVZVThsLU1OZ2lGWlVR?oc=5)
-
----
-
-### [喝再少也有風險！最新研究：沒有安全飲酒量，癌症風險從第一口酒就開始](https://news.google.com/rss/articles/CBMitANBVV95cUxObkRrelhsR2J0ZmV1TGNVcTdkT29UZmZTOHJNaHdFTkIxbW9QV194bkVoRFB4bFVGaDlsUVZtM0JmNFg3V05DbHZnMmFmMmNZSk9Ia1gyd2dtZDVPVGd0WWpnVE5CN24zeU83akFrbVFzcjFzUUNZdzlBVnRySEwxQldEY3JSMzROclpTU2ZWb2pxMHBWc3c1ZHVFaDhuMjVhQnpBZENxWnJxTWliU3RMM0tUZk00Zkd3Q0tkWGVyS1lDWFc0SndDYUFfcGRJSk5LQzZzRHNVMm5UbWtzS05Ea3JHZTVESTlUQkxOVGdQR0ZsMVBVanNsaDFnSzVBNXB2UGd5ZXdqNlNweUxabE8yd0hHYU80TXh5Z2FWZnRjRXJuU29HVkR5aG93MU1Odk1RSHp2T1BkZEVuV3BINFJnaDVrdDdGOFE2YjJkbW5PUWx4WktMNHhuUm50OFhXRTVyMzljaU9Gcm1RQjdaTjBFdV9sYzg1YVc5V1JocE5oNVpsazlMMlJCXzFicGVZdmJqa0RwRXY3YTRWSmZYdzZfLVdkdVp6MzIybHRzalZMMHJTNzRF?oc=5)
-
-2026-06-23 <span class="news-indication-tag">癌症</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMitANBVV95cUxObkRrelhsR2J0ZmV1TGNVcTdkT29UZmZTOHJNaHdFTkIxbW9QV194bkVoRFB4bFVGaDlsUVZtM0JmNFg3V05DbHZnMmFmMmNZSk9Ia1gyd2dtZDVPVGd0WWpnVE5CN24zeU83akFrbVFzcjFzUUNZdzlBVnRySEwxQldEY3JSMzROclpTU2ZWb2pxMHBWc3c1ZHVFaDhuMjVhQnpBZENxWnJxTWliU3RMM0tUZk00Zkd3Q0tkWGVyS1lDWFc0SndDYUFfcGRJSk5LQzZzRHNVMm5UbWtzS05Ea3JHZTVESTlUQkxOVGdQR0ZsMVBVanNsaDFnSzVBNXB2UGd5ZXdqNlNweUxabE8yd0hHYU80TXh5Z2FWZnRjRXJuU29HVkR5aG93MU1Odk1RSHp2T1BkZEVuV3BINFJnaDVrdDdGOFE2YjJkbW5PUWx4WktMNHhuUm50OFhXRTVyMzljaU9Gcm1RQjdaTjBFdV9sYzg1YVc5V1JocE5oNVpsazlMMlJCXzFicGVZdmJqa0RwRXY3YTRWSmZYdzZfLVdkdVp6MzIybHRzalZMMHJTNzRF?oc=5)
 
 ---
 

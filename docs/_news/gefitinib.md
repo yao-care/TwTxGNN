@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [健康網》腦退化40歲就啟動 防失智做對3件事 大腦更乾淨](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrT2szdWNSa3M3a3pQMUs5UGI1ZnN4UjU4MVdlcHlIS0Z3VDZabzVCUUotZDI0ODZDYkUxNHZmUEFPVVA4S1F5Y2N1dTJZTFp5NG94QmphTWdOcm5ROUJTT0pNc2nSAWpBVV95cUxQQlFnNEs5NUZfTkdDWTc0T0s2LVMwN0JBdkJhSGxOY21zTFh1M1dSSFZiTlhaOThFS1BrT1QyU2ZCc3g5RDVXQXUyMXlFeFM5R2h2eVNCTURNa0pRZE1mZXBsdGd1Y0cwY1VR?oc=5)
 
@@ -72,14 +72,6 @@ permalink: /news/gefitinib/
 2026-06-24 <span class="news-indication-tag">失智</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUMm8wNV9YVU5hWG5EV2xrbG5VM243YTNhNGU2VmlhSzJFY2gtVGdNbEVDLWhkZU1NU2QwMzBNaHExaE1fa05qcjZjMnhCdmpQQVpxZ2lqYmhCOWxmaFlZTDhn0gFiQVVfeXFMUFQybzA1X1hVTmFYbkRXbGtsblUzbjdhM2E0ZTZWaWFLMkVjaC1UZ01sRUMtaGRlTU1TZDAzME1ocTFoTV9rTmpyNmMyeEJ2alBBWnFnaWpiaEI5bGZoWVlMOGc?oc=5)
-
----
-
-### [喝再少也有風險！最新研究：沒有安全飲酒量，癌症風險從第一口酒就開始](https://news.google.com/rss/articles/CBMitANBVV95cUxObkRrelhsR2J0ZmV1TGNVcTdkT29UZmZTOHJNaHdFTkIxbW9QV194bkVoRFB4bFVGaDlsUVZtM0JmNFg3V05DbHZnMmFmMmNZSk9Ia1gyd2dtZDVPVGd0WWpnVE5CN24zeU83akFrbVFzcjFzUUNZdzlBVnRySEwxQldEY3JSMzROclpTU2ZWb2pxMHBWc3c1ZHVFaDhuMjVhQnpBZENxWnJxTWliU3RMM0tUZk00Zkd3Q0tkWGVyS1lDWFc0SndDYUFfcGRJSk5LQzZzRHNVMm5UbWtzS05Ea3JHZTVESTlUQkxOVGdQR0ZsMVBVanNsaDFnSzVBNXB2UGd5ZXdqNlNweUxabE8yd0hHYU80TXh5Z2FWZnRjRXJuU29HVkR5aG93MU1Odk1RSHp2T1BkZEVuV3BINFJnaDVrdDdGOFE2YjJkbW5PUWx4WktMNHhuUm50OFhXRTVyMzljaU9Gcm1RQjdaTjBFdV9sYzg1YVc5V1JocE5oNVpsazlMMlJCXzFicGVZdmJqa0RwRXY3YTRWSmZYdzZfLVdkdVp6MzIybHRzalZMMHJTNzRF?oc=5)
-
-2026-06-23 <span class="news-indication-tag">癌症</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMitANBVV95cUxObkRrelhsR2J0ZmV1TGNVcTdkT29UZmZTOHJNaHdFTkIxbW9QV194bkVoRFB4bFVGaDlsUVZtM0JmNFg3V05DbHZnMmFmMmNZSk9Ia1gyd2dtZDVPVGd0WWpnVE5CN24zeU83akFrbVFzcjFzUUNZdzlBVnRySEwxQldEY3JSMzROclpTU2ZWb2pxMHBWc3c1ZHVFaDhuMjVhQnpBZENxWnJxTWliU3RMM0tUZk00Zkd3Q0tkWGVyS1lDWFc0SndDYUFfcGRJSk5LQzZzRHNVMm5UbWtzS05Ea3JHZTVESTlUQkxOVGdQR0ZsMVBVanNsaDFnSzVBNXB2UGd5ZXdqNlNweUxabE8yd0hHYU80TXh5Z2FWZnRjRXJuU29HVkR5aG93MU1Odk1RSHp2T1BkZEVuV3BINFJnaDVrdDdGOFE2YjJkbW5PUWx4WktMNHhuUm50OFhXRTVyMzljaU9Gcm1RQjdaTjBFdV9sYzg1YVc5V1JocE5oNVpsazlMMlJCXzFicGVZdmJqa0RwRXY3YTRWSmZYdzZfLVdkdVp6MzIybHRzalZMMHJTNzRF?oc=5)
 
 ---
 
