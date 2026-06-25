@@ -1,17 +1,42 @@
 {
-  "last_updated": "2026-06-24T23:59:28.261911+00:00",
-  "total_count": 16,
-  "matched_count": 4,
+  "last_updated": "2026-06-25T03:52:17.714900+00:00",
+  "total_count": 17,
+  "matched_count": 5,
   "news": [
     {
-      "id": "2dcee9be0a4d",
-      "title": "疲勞、壓力大都上榜！醫揭「5大易被忽略」的癌症警訊",
-      "published": "2026-06-24T11:00:00+00:00",
-      "summary": "疲勞、壓力大都上榜！醫揭「5大易被忽略」的癌症警訊&nbsp;&nbsp;Yahoo新聞",
+      "id": "a8d508165df6",
+      "title": "HPV疫苗20年重大進展！台灣擴大公費接種男女通用，專家：防癌進入「全民防護新時代」",
+      "published": "2026-06-25T00:51:02+00:00",
+      "summary": "HPV疫苗20年重大進展！台灣擴大公費接種男女通用，專家：防癌進入「全民防護新時代」&nbsp;&nbsp;Yahoo新聞接種HPV疫苗年輕女性，子宮頸癌死亡率降至「接近零」&nbsp;&nbsp;BBCHPV疫苗改寫子宮頸癌命運！研究：青春期接種者30歲前死亡風險幾近零&nbsp;&nbsp;Taiwan NewsHPV疫苗拯救兩百命 死亡率近乎歸零！ 英國防癌立下驚人里程碑 | Newtalk&nbsp;&nbsp;LINE TODAY英HPV疫苗計劃見效 年輕女患者零死亡率&nbsp;&nbsp;信報網站",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOQ1ctRmdVQVY0dmVmWEFmbW9hRW9oQWxmdFhhekRpZWdoWm5WZXRVSWtPeC11UGpSbk8yU0ZLcGxoZHhTREI3cHdOcWFaTnRRMklLbk9FdVNDengzTGFfYU1md2NOZS1RV19kZTF0Q09MNmZUc0h4TmpSRWFLdDQ2ZkJCck13TVI0Nk4wemhqUENPa2FBallPZmtLRW9uc09uMHZaXzloaUxBOEQ1SFVQaTNlNkoxb05fQlNaQWozMTBWVUNqODBGZzVLeHdEd2YzMUpXMU1SUk50LWQ4ZkdNMnhFSU4tNEpNV203N2JFSW1sM3JwZE1wWE1jMjVSWEtqbGFnQXk4N0M3d0NJZWhkOG5OXzgtcTVrem14RXhHU203Tmhha0VyOTdEOUFLTzdWcU5vaDBRLUFUcE85VTAtQVR5MHQ1YnliZ0E?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNcHpKcUhTNjlZVGdsTm5DQ0FFbzhuVmN6WlNjaGw1ZUpBbXlNaElIaWJEZ3VkcGRWRTh0UUpWS0Nyd3g0Y2tmZUtvY0VVeW41TEdtbFEzb1VnOWktTk43a0g5SW5ydHptSGtURFh3WDJaRUlIdU94b0QyVWk0WUpEeGdELUJMRGlMWUFqZy1zNy1JWkxsYUhhcmdHN25LZ1B6T0ZfT19wOW9mVE5RWFN3V0VBR3ZiaW5OSVF0bEJ5U1UxMmJURnZPZ3ZZYnQ4TXNBVkpmYWxlWXZ6VWp2VE5tVlgtLWt4UDhSYUNWSjE5cThvRzF1YVJBZ3NCZVpmanlGdzZjV1U5QlMzclJ1dGhrVXZtOFJPbVF4d3RlUlVzTTRkSkNwUkI1a2RSOTI1Zms0SkF0aUFkbnZpUVM2a1pTSk1oNTZwWDhGb2tHWUVXVFhia3lzY1lPYUFZWHRFbml0UEx2czVyZUN3MXhxS3NsWUlVcDRqbWpGYl96SUhzQkZZOEp0TlJjM2ZNdjBfdHBCc0ZMbWFWdEptLXNBenRXa3I0bzk2c0Z2eTFlNUkwTHRTY21jX3M2NnJpX1o4VVVSZlNnWFFjSl9wZUNRRTF4Q0xXTDk4d2wtbGJwWlR3Zw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4cd04d68ba0c",
+      "title": "壓力大要小心！醫揭5易被忽略的癌症警訊 - 鏡週刊Mirror Media",
+      "published": "2026-06-24T10:55:00+00:00",
+      "summary": "壓力大要小心！醫揭5易被忽略的癌症警訊&nbsp;&nbsp;鏡週刊Mirror Media",
+      "sources": [
+        {
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9neWtENTdPX3FUb2lKTTY2ZVBZWDg1M2pHQTVDTkpLWjZobjF3MzVfTUlpX3NLWW5UVHR3SXY2a3NzMWZBSS02TlJXcHJzZ05NM1ZKdDVuQnB2RGky0gFiQVVfeXFMUEZHbkh4WndNRGRpcXpDamJaZHE3TWFLWWJwUTRXRGRpZ0paRzVhdm8tYXBGUWVESDZtYjA0NS1xMndlRTc0YlhGZ00teUc3bHpoQjBvRV9tZFhwZXpSVU12LWc?oc=5"
         }
       ],
       "matched_keywords": [
@@ -264,14 +289,14 @@
       "matched_keywords": []
     },
     {
-      "id": "ccf35ca1b9c0",
+      "id": "a7389dda6e66",
       "title": "嬰兒溢吐奶或異常嘔吐怎麼分？醫警告這「3徵兆」立即就醫",
       "published": "2026-06-24T07:00:00+00:00",
-      "summary": "嬰兒溢吐奶或異常嘔吐怎麼分？醫警告這「3徵兆」立即就醫&nbsp;&nbsp;Yahoo新聞",
+      "summary": "嬰兒溢吐奶或異常嘔吐怎麼分？醫警告這「3徵兆」立即就醫&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOYXRyNjgtREkyZXhoenQxcFNiQldseF9JblVaeWhlXzR6Vm9qSUlLckhBQkhsR2VXQWNtZkUybjFRTUFpdmJvMHJReXhVdlRzMnRaalBoZHVmQk9aNm5JZFNBZENUVzFoNk91NTV5ak1lamdJdWlrNGRCOFlFcjlaeW1FcDR1QkpFWmV3dkdKY3o5NTZPdEVVWmhCRjNTdEJFMm1hVkZ5M1IyMkQ3NDc2YWNxenJMeG42cjRpcmdKSDRqTndhT1RpQXNCeVVWa1ljRFZpcTBjVHE3RWg3NFlJZHgxMElZeld0Vlg5c3dDNENobFF6NURSSzRrend1SFkzV2dLbEstNklUQ19iZ0l4M0h3N21qM0hkWHlFS010TldqWThGd1NHWGVnQzY0Q0FGbE94SDNRZllILVpfbi1pWF9WS1lXUmxlNFRwaElWRnNhQ0o3cHdfWWZZTkg3bDFYQTNyQWV4VE9yT2l5?oc=5"
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92OXJJR0IzRHRtZDRkYmtfSno2X184SVRmcXd5U3JuaW5ndk13QlBpcGRIRkFRemM3bnJ5aTZMVEd0ckZsVHg1dGNWRGhiYlg1MkE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -355,42 +380,6 @@
       "matched_keywords": []
     },
     {
-      "id": "400a634534af",
-      "title": "新科技偵查阿茲海默症 及早發現把握治療黃金期",
-      "published": "2026-06-23T18:14:11+00:00",
-      "summary": "新科技偵查阿茲海默症 及早發現把握治療黃金期&nbsp;&nbsp;信報網站最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨&nbsp;&nbsp;Yahoo新聞討論牆 | 最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨&nbsp;&nbsp;LINE TODAY延緩失智！研究：細嚼慢嚥＋偶爾下廚有助保護大腦.降低認知退化風險&nbsp;&nbsp;台視新聞網每天15分鐘逆轉腦齡? 醫揭2關鍵：70 歲開始也有效&nbsp;&nbsp;MSN",
-      "sources": [
-        {
-          "name": "信報網站",
-          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNR2RLeFdCM1FMdDQ3X3dOQUxiMHJ4TVZ4bHdiakl1TGxDQnp5dE9OYmcxYkpYVDFrQ0xJQ2NHdy1LNXpNWGFNc3BzVFdrcmZsT3VvSEFJejVYdDdXUXEzTXp3MnZGMjU0NFBwdHZHTmJGU05IbWthRENmZGVKemlTUkVheE9rQUpkdTNOQ1JLRDhva2VocUtnUThZcEpGNE8tZ1A2aFpZU0ZRbEZjWHlOLTBRUFRjN1RHc1NsY1ZEamNLNHlmZmFHYzhTSG80d3oybkVNNFRlZ0pkTlBUWE5KYzRiOWJmTGZ2QTBUSjdwenM0REt1Wm5PSDdvMlZIV0lNaFR1LUgyQjlIUFNVakhzRjJ2QzFoS2cyQjNJcEdZeGRyNXZER1NMLUtmU0VUQlR2V3VQRHE4SG4wS0dXQXVCZEo1ak45dEE0ZWZpZXpucnphNVFuRnl5TnJodTU5Y1MtNzk4?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "ecf42cad3499",
       "title": "全國多個地區降雨高於正常水平 今年夏季的蚊患或較往年更加嚴重",
       "published": "2026-06-23T17:36:35+00:00",
@@ -415,6 +404,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "8e492a567fb3",
+      "title": "護腦習慣｜醫生推薦「$0養生法」 日花15分鐘做1事防失智 護腦效果堪比食保健品！",
+      "published": "2026-06-23T09:08:48+00:00",
+      "summary": "護腦習慣｜醫生推薦「$0養生法」 日花15分鐘做1事防失智 護腦效果堪比食保健品！&nbsp;&nbsp;香港經濟日報HKET不用保健品！研究曝「睡前1舉動」就能增記憶力：幾分鐘就夠&nbsp;&nbsp;Yahoo新聞討論牆 | 最便宜防失智保養品！16年研究揭：中年「常做1事」大腦變乾淨&nbsp;&nbsp;LINE TODAY每天15分鐘逆轉腦齡? 醫揭2關鍵：70 歲開始也有效&nbsp;&nbsp;MSN中年維他命D濃度別太低老了「失智毒素」能變少- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMilgRBVV95cUxOWV9nMHMxRmlSVGJVQmlyZWlKQUZfWXhKQktaV1llcEZ4dGZSaHRsOXRtSjRvQjN1OW50U0Q3VXZXX0RiemJMUHZoRVg3NjF2bjVfSUNMdXVrSFM5cjlpY1ZwUGZCblZqUUJVeFhuVVA0cmstQXRFdFJWMV9JbWc1cDBOM1luN0xKemhKYzIwWlZDTDZ2eWhjZkY0dzY1Rm55V2FHSUJjdnFSR2hrMWU3UzB4eUZLaG10QTYwU253ZW5jdk5MbDc1MHN6RzVwVVQ3aXdlMDFDSzM5d2lWZWppdUZUcWpEOVJCRXBaeC1aYnZwNVVYUzQ1TEhUZm1DMmpFY1VEclRfZTR6NW9ZZVpnbnhpa2dKRTJCVG05VHRKdXJGYjFIV3BDOU5fcnp4SUF1ZEhZLVpINXdtdTVYb1B6WHRXVnhMVC05S01yWWhBSldIT0pDZUdVQkc0VmswVC10Q3FRSGh6LVg3MVpOa2hxYjhFVFMyNy1aSGw0U016VW90RF9oTHJSVmIwbUxoLVZSYWUxS3BtT3ZXeHpuQ2o0VnM1QndSc2JnQ25OUDZpN1lYRmx2X29rOTNPRWxzdEY1QkRJUjBhZmFvVU9mYWIzLVNFVndDcjRPVWdEdVR6dENLa2N0ZGM3bjQ0UWVEZmZ1RUxSSklVbm9BeGVMM2J5WGR1Ym1hdExWVDc4YUdsR2s4NjFGd2c?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "2c74207a15d1",
