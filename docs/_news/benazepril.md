@@ -14,7 +14,7 @@ permalink: /news/benazepril/
 ---
 
 <p class="key-answer" data-question="Benazepril 有什麼相關新聞？">
-<strong>Benazepril</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 5 個。
+<strong>Benazepril</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 5 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ permalink: /news/benazepril/
 <p><a href="{{ '/drugs/benazepril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [大腸癌「隱形斗篷」遭破解 關閉1開關讓腫瘤全消退](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpRWZHQnlTbUR2X1k4OFphd2pCb2d2ZHJlcDNXNndkY2Z3R3RTU3pYcC1zV2NGWnctOU9tdkdic2p0SmRRQnhuRkR5cm9XeDdxZHFNcVZJUWZKQ1NzYVhhLXp2ZUPSAWpBVV95cUxNZXMweFU4amtDS19hYkFORGZfTXJ5TVdiankwNDF5dVJOaFJwRTBuOVRIaHhKemFTTTNyYVRwM2twMXMwUnpFMDhCTlZTZUJ2bHVFdmh2dzRya0MwSTVsX0lfdG5hbnJweVFR?oc=5)
 
 2026-06-25 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpRWZHQnlTbUR2X1k4OFphd2pCb2d2ZHJlcDNXNndkY2Z3R3RTU3pYcC1zV2NGWnctOU9tdkdic2p0SmRRQnhuRkR5cm9XeDdxZHFNcVZJUWZKQ1NzYVhhLXp2ZUPSAWpBVV95cUxNZXMweFU4amtDS19hYkFORGZfTXJ5TVdiankwNDF5dVJOaFJwRTBuOVRIaHhKemFTTTNyYVRwM2twMXMwUnpFMDhCTlZTZUJ2bHVFdmh2dzRya0MwSTVsX0lfdG5hbnJweVFR?oc=5)
-
----
-
-### [沒性行為也中鏢？母胎單身男「肛門長肉瘤」　確診菜花崩潰 | 生活 | CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzWDByeDBibjUwX1I3aTVBT1Y5T1lDNjJWNWlIZnJhVDhKU0dxWFBkQU9HcVdPbEdSTlFZNXFyb29hYlJ1M1cwNnNUQXZ6X2vSAVRBVV95cUxNY1hITEEzNHh5OEdtd1NYOFhUeERWY0FUaW1jLTkxWW9vNE5hRmk2S01tQnZlOUdhaFdaRlRuWkdZc01lLXliRlp2Z2RvMXg1U1FBVkY?oc=5)
-
-2026-06-24 <span class="news-indication-tag">癌症</span>
-
-來源：[CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzWDByeDBibjUwX1I3aTVBT1Y5T1lDNjJWNWlIZnJhVDhKU0dxWFBkQU9HcVdPbEdSTlFZNXFyb29hYlJ1M1cwNnNUQXZ6X2vSAVRBVV95cUxNY1hITEEzNHh5OEdtd1NYOFhUeERWY0FUaW1jLTkxWW9vNE5hRmk2S01tQnZlOUdhaFdaRlRuWkdZc01lLXliRlp2Z2RvMXg1U1FBVkY?oc=5)
 
 ---
 

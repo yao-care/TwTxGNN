@@ -3,7 +3,7 @@ layout: default
 title: "腫瘤（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "腫瘤（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "腫瘤（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="腫瘤（generic_cancer） 有什麼相關新聞？">
-<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,21 +75,13 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [大腸癌「隱形斗篷」遭破解 關閉1開關讓腫瘤全消退](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpRWZHQnlTbUR2X1k4OFphd2pCb2d2ZHJlcDNXNndkY2Z3R3RTU3pYcC1zV2NGWnctOU9tdkdic2p0SmRRQnhuRkR5cm9XeDdxZHFNcVZJUWZKQ1NzYVhhLXp2ZUPSAWpBVV95cUxNZXMweFU4amtDS19hYkFORGZfTXJ5TVdiankwNDF5dVJOaFJwRTBuOVRIaHhKemFTTTNyYVRwM2twMXMwUnpFMDhCTlZTZUJ2bHVFdmh2dzRya0MwSTVsX0lfdG5hbnJweVFR?oc=5)
 
 2026-06-25
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpRWZHQnlTbUR2X1k4OFphd2pCb2d2ZHJlcDNXNndkY2Z3R3RTU3pYcC1zV2NGWnctOU9tdkdic2p0SmRRQnhuRkR5cm9XeDdxZHFNcVZJUWZKQ1NzYVhhLXp2ZUPSAWpBVV95cUxNZXMweFU4amtDS19hYkFORGZfTXJ5TVdiankwNDF5dVJOaFJwRTBuOVRIaHhKemFTTTNyYVRwM2twMXMwUnpFMDhCTlZTZUJ2bHVFdmh2dzRya0MwSTVsX0lfdG5hbnJweVFR?oc=5)
-
----
-
-### [沒性行為也中鏢？母胎單身男「肛門長肉瘤」　確診菜花崩潰 | 生活 | CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzWDByeDBibjUwX1I3aTVBT1Y5T1lDNjJWNWlIZnJhVDhKU0dxWFBkQU9HcVdPbEdSTlFZNXFyb29hYlJ1M1cwNnNUQXZ6X2vSAVRBVV95cUxNY1hITEEzNHh5OEdtd1NYOFhUeERWY0FUaW1jLTkxWW9vNE5hRmk2S01tQnZlOUdhaFdaRlRuWkdZc01lLXliRlp2Z2RvMXg1U1FBVkY?oc=5)
-
-2026-06-24
-
-來源：[CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzWDByeDBibjUwX1I3aTVBT1Y5T1lDNjJWNWlIZnJhVDhKU0dxWFBkQU9HcVdPbEdSTlFZNXFyb29hYlJ1M1cwNnNUQXZ6X2vSAVRBVV95cUxNY1hITEEzNHh5OEdtd1NYOFhUeERWY0FUaW1jLTkxWW9vNE5hRmk2S01tQnZlOUdhaFdaRlRuWkdZc01lLXliRlp2Z2RvMXg1U1FBVkY?oc=5)
 
 ---
 

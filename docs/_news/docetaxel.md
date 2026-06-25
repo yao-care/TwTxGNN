@@ -14,7 +14,7 @@ permalink: /news/docetaxel/
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Docetaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/docetaxel/
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [32歲女拳手不吸煙竟患肺癌末期！新婚兩週無家族病史僅咳嗽已罹癌／初診被誤當哮喘 - U Food](https://news.google.com/rss/articles/CBMiigRBVV95cUxNOTh0ZE11U1hQOGM1S21xb1VjLV9MNEtfdkFOTGJfNUlfMV9iWGh1WHpWMjVFSThZN0sxQVFrWGlRSnhvazg5cElLdDRUVDZSbE9zVVRXczU0VHFpc0J5YzlGUUttWGhOWUtuU1p1dG9Peldjblg5Q3FidGtCYjhPUUsxMVhNUk96MFRvX3lpZkhLRHpiUlN6UERMYXdvZmlIX3lnbEJlSmFKZ3VtbV9ZY0NLRkhmS1F3akp2MnNiNEV0WmVuUk10OVVLZnhISnpEdnZfZVFUQnFpM2VqQkVLaC16YU9KU3RCUHBSZFVkU1EwRndFMDB2NTE3bHA4Q2xXdGlvMFFWZXBCUEJ4SVgtS1hlVmF0MS1lcm51bG5odDlaTkhGSXA1ZXpOQlF4STNwbUVzLXNtU2l2dzRhaDJFd0ttazlOMV9QOUY4MkZDT1VZbUxqeVBBSUN1ZzAwSXQyN1hBME5kMlZ1UHVkV3c1WHEwRzJ6REtTRjFydlRGOVRlNVRWdkJfUFBLVm1RWmF3R2pMTWZudjFLTFRKQ2hZclVLRF95S0k3RlVFNUNkT3huZDVWQmlqa2YyckJVaVVqQmRaUjVUSmlqNVk5TkFkVUlGeUhiUUJzcllMT1YzakgtUVZQS2N1dW0xUlpmRDlrZFZSdDFiemFXSW1qYktCLXJ1RzNTbHM3QkE?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/docetaxel/
 2026-06-25 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpRWZHQnlTbUR2X1k4OFphd2pCb2d2ZHJlcDNXNndkY2Z3R3RTU3pYcC1zV2NGWnctOU9tdkdic2p0SmRRQnhuRkR5cm9XeDdxZHFNcVZJUWZKQ1NzYVhhLXp2ZUPSAWpBVV95cUxNZXMweFU4amtDS19hYkFORGZfTXJ5TVdiankwNDF5dVJOaFJwRTBuOVRIaHhKemFTTTNyYVRwM2twMXMwUnpFMDhCTlZTZUJ2bHVFdmh2dzRya0MwSTVsX0lfdG5hbnJweVFR?oc=5)
-
----
-
-### [沒性行為也中鏢？母胎單身男「肛門長肉瘤」　確診菜花崩潰 | 生活 | CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzWDByeDBibjUwX1I3aTVBT1Y5T1lDNjJWNWlIZnJhVDhKU0dxWFBkQU9HcVdPbEdSTlFZNXFyb29hYlJ1M1cwNnNUQXZ6X2vSAVRBVV95cUxNY1hITEEzNHh5OEdtd1NYOFhUeERWY0FUaW1jLTkxWW9vNE5hRmk2S01tQnZlOUdhaFdaRlRuWkdZc01lLXliRlp2Z2RvMXg1U1FBVkY?oc=5)
-
-2026-06-24 <span class="news-indication-tag">癌症</span>
-
-來源：[CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzWDByeDBibjUwX1I3aTVBT1Y5T1lDNjJWNWlIZnJhVDhKU0dxWFBkQU9HcVdPbEdSTlFZNXFyb29hYlJ1M1cwNnNUQXZ6X2vSAVRBVV95cUxNY1hITEEzNHh5OEdtd1NYOFhUeERWY0FUaW1jLTkxWW9vNE5hRmk2S01tQnZlOUdhaFdaRlRuWkdZc01lLXliRlp2Z2RvMXg1U1FBVkY?oc=5)
 
 ---
 
