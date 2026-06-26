@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-26T13:03:40.951256+00:00",
+  "last_updated": "2026-06-26T16:07:31.934340+00:00",
   "total_count": 14,
-  "matched_count": 5,
+  "matched_count": 4,
   "news": [
     {
       "id": "fd2889d7f26f",
@@ -536,26 +536,14 @@
       "id": "69166263905e",
       "title": "HPV疫苗20年重大進展！ 台灣擴大公費接種男女通用",
       "published": "2026-06-25T07:00:06+00:00",
-      "summary": "HPV疫苗20年重大進展！ 台灣擴大公費接種男女通用&nbsp;&nbsp;台視新聞網HPV疫苗20年重大進展！台灣擴大公費接種男女通用，專家：防癌進入「全民防護新時代」&nbsp;&nbsp;Yahoo新聞接種HPV疫苗年輕女性，子宮頸癌死亡率降至「接近零」&nbsp;&nbsp;BBCHPV疫苗改寫子宮頸癌命運！研究：青春期接種者30歲前死亡風險幾近零&nbsp;&nbsp;Taiwan NewsHPV疫苗拯救兩百命 死亡率近乎歸零！ 英國防癌立下驚人里程碑 | Newtalk&nbsp;&nbsp;LINE TODAY",
+      "summary": "HPV疫苗20年重大進展！ 台灣擴大公費接種男女通用&nbsp;&nbsp;台視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "台視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oWGNlU3NoUTZGWGZZemRybzE5clMtQ0FLU19uS2tEN0ZadWZBYU5KVHIwb0dORWhCbzNnNWtVcUR3ZVRvV2MwZ3E2SkcxMXVmaEVxWTdPRQ?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "149412388214",

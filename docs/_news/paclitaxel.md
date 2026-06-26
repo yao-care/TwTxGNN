@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [一項關於癌症治療時機的中國研究被《自然-醫學》撤稿- 紐約時報中文網](https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVFadjBVUl9JNm1ObFV6eFVUVDA3bzlES0lYWjBsOHhsLVdab1BNLU83R3JMMlBKSzRhaW1LZ2dtTkg2eEQ3b1duajRTNjhXak1NaENFb3RyV2xMTDlwdTN1bnF0cGFIZUFRUGJoaFNDX09JU0dGNXRfbkdJN3FFc1BKczAtbERQTi1ZNl9sM3JZRG10b0E?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/paclitaxel/
 2026-06-26 <span class="news-indication-tag">癌症</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IRDl3Sjk1OXp6T19ibXFSYWFzZ3hyd05TdUdYaGhvc3JieG14ZGJncWUyZUlXTjNxTGtPNFUzMWs5aGxDTXVfU2lsZTRkdzJ5djdlQ3ZhaVF4WmJS0gFiQVVfeXFMUHlqRnpVRGRtY3JHR1hGQlhBbnBtSm5nNVR4cC16U0ltVU1GN2lucG9QZDRWbDZSWTVVRTFNRDNCMUNNdEdIbmhLU01PRFg4S3F4UHV6MWtlQXdiVnZIN09TZUE?oc=5)
-
----
-
-### [HPV疫苗20年重大進展！ 台灣擴大公費接種男女通用](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oWGNlU3NoUTZGWGZZemRybzE5clMtQ0FLU19uS2tEN0ZadWZBYU5KVHIwb0dORWhCbzNnNWtVcUR3ZVRvV2MwZ3E2SkcxMXVmaEVxWTdPRQ?oc=5)
-
-2026-06-25 <span class="news-indication-tag">子宮頸癌</span>
-
-來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oWGNlU3NoUTZGWGZZemRybzE5clMtQ0FLU19uS2tEN0ZadWZBYU5KVHIwb0dORWhCbzNnNWtVcUR3ZVRvV2MwZ3E2SkcxMXVmaEVxWTdPRQ?oc=5)
 
 ---
 

@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T13:03:40.979524+00:00",
-  "count": 5,
+  "generated": "2026-06-26T16:07:31.965512+00:00",
+  "count": 4,
   "news": [
     {
       "id": "fb3b21d56fc5",
@@ -445,30 +445,6 @@
             {
               "slug": "vinorelbine",
               "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "69166263905e",
-      "title": "HPV疫苗20年重大進展！ 台灣擴大公費接種男女通用",
-      "published": "2026-06-25T07:00:06+00:00",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oWGNlU3NoUTZGWGZZemRybzE5clMtQ0FLU19uS2tEN0ZadWZBYU5KVHIwb0dORWhCbzNnNWtVcUR3ZVRvV2MwZ3E2SkcxMXVmaEVxWTdPRQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }
