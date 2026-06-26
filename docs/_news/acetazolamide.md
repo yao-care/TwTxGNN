@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [大腸癌「隱形斗篷」遭破解 關閉1開關讓腫瘤全消退](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpRWZHQnlTbUR2X1k4OFphd2pCb2d2ZHJlcDNXNndkY2Z3R3RTU3pYcC1zV2NGWnctOU9tdkdic2p0SmRRQnhuRkR5cm9XeDdxZHFNcVZJUWZKQ1NzYVhhLXp2ZUPSAWpBVV95cUxNZXMweFU4amtDS19hYkFORGZfTXJ5TVdiankwNDF5dVJOaFJwRTBuOVRIaHhKemFTTTNyYVRwM2twMXMwUnpFMDhCTlZTZUJ2bHVFdmh2dzRya0MwSTVsX0lfdG5hbnJweVFR?oc=5)
+### [歐洲神經學學會大會 (EAN Congress) ：同時患有癲癇與聽力受損者使用助聽器，與認知障礙症風險降低 23% 相關](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jemhJNzhTRmduWE1fSmZ2TjhjdnZWRFFYOFlHNmhkQWRDR0ZLek1zVXJBdW9kZUNpWVdSQTZVLU9YNXpkT2JKVVByWUJyVUJBRF9VcHd3X09HeWRU0gFiQVVfeXFMT3VoUDU1blJaUW84RE5uREJXcnlqQ3lDd0ktRjRWMUVDckVwcGRzSXZMODdlLXlYbkhjelRJZExIN0ZOclZuZFpQdW41NFNpZGxaYzYwYkNDemh0aVc5LVhHcmc?oc=5)
+
+2026-06-26 <span class="news-indication-tag">癲癇</span>
+
+來源：[經濟日報](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jemhJNzhTRmduWE1fSmZ2TjhjdnZWRFFYOFlHNmhkQWRDR0ZLek1zVXJBdW9kZUNpWVdSQTZVLU9YNXpkT2JKVVByWUJyVUJBRF9VcHd3X09HeWRU0gFiQVVfeXFMT3VoUDU1blJaUW84RE5uREJXcnlqQ3lDd0ktRjRWMUVDckVwcGRzSXZMODdlLXlYbkhjelRJZExIN0ZOclZuZFpQdW41NFNpZGxaYzYwYkNDemh0aVc5LVhHcmc?oc=5)
+
+---
+
+### [大腸癌「隱形斗篷」遭破解 關閉1開關讓腫瘤全消退](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQNnRHdWtRSk9TU25QcC1tbmxzWVZiNXhlM21VamFUZmtHd3VEOXhicE85a0JCSE44UWFCc05ZZWlCNElOSU40ckxFaU1KaGZBeGljU29wVkhjWHRERG9YaS11eHdja3JTZ0p0ai0zZmNqZ19Oa0xrckw5djQ3NFB4SldGMGlBUFIxVnBqOTk4anpESjJSY01kdGV1OXNRX0lvcnAyb19wMWNmbHRUV0JDZ2k2aEdLX2xUNEQxYXR4c1ZlemJlWW9pUUhXNUNWa1o5b19BZDFwQ3ZtTEljUEJNNXJKc3Nvc2xWQkl2UGp4UW5WMV9JMGwtVUtNSlVrZVdVUml0YVF3OHlUQ3U3UVhuNlZNUEVtSGFrY2g3MTdLNkllc2JVbnBqU0cxUDZOWVotRk9neFNjLWp5Z1FCSzBYUmJ6NDVyMVBl?oc=5)
 
 2026-06-25 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpRWZHQnlTbUR2X1k4OFphd2pCb2d2ZHJlcDNXNndkY2Z3R3RTU3pYcC1zV2NGWnctOU9tdkdic2p0SmRRQnhuRkR5cm9XeDdxZHFNcVZJUWZKQ1NzYVhhLXp2ZUPSAWpBVV95cUxNZXMweFU4amtDS19hYkFORGZfTXJ5TVdiankwNDF5dVJOaFJwRTBuOVRIaHhKemFTTTNyYVRwM2twMXMwUnpFMDhCTlZTZUJ2bHVFdmh2dzRya0MwSTVsX0lfdG5hbnJweVFR?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQNnRHdWtRSk9TU25QcC1tbmxzWVZiNXhlM21VamFUZmtHd3VEOXhicE85a0JCSE44UWFCc05ZZWlCNElOSU40ckxFaU1KaGZBeGljU29wVkhjWHRERG9YaS11eHdja3JTZ0p0ai0zZmNqZ19Oa0xrckw5djQ3NFB4SldGMGlBUFIxVnBqOTk4anpESjJSY01kdGV1OXNRX0lvcnAyb19wMWNmbHRUV0JDZ2k2aEdLX2xUNEQxYXR4c1ZlemJlWW9pUUhXNUNWa1o5b19BZDFwQ3ZtTEljUEJNNXJKc3Nvc2xWQkl2UGp4UW5WMV9JMGwtVUtNSlVrZVdVUml0YVF3OHlUQ3U3UVhuNlZNUEVtSGFrY2g3MTdLNkllc2JVbnBqU0cxUDZOWVotRk9neFNjLWp5Z1FCSzBYUmJ6NDVyMVBl?oc=5)
 
 ---
 

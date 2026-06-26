@@ -1,7 +1,31 @@
 {
-  "generated": "2026-06-26T22:03:36.458758+00:00",
-  "count": 2,
+  "generated": "2026-06-26T23:56:02.823315+00:00",
+  "count": 3,
   "news": [
+    {
+      "id": "c4ed25f68600",
+      "title": "歐洲神經學學會大會 (EAN Congress) ：同時患有癲癇與聽力受損者使用助聽器，與認知障礙症風險降低 23% 相關",
+      "published": "2026-06-26T23:00:47+00:00",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jemhJNzhTRmduWE1fSmZ2TjhjdnZWRFFYOFlHNmhkQWRDR0ZLek1zVXJBdW9kZUNpWVdSQTZVLU9YNXpkT2JKVVByWUJyVUJBRF9VcHd3X09HeWRU0gFiQVVfeXFMT3VoUDU1blJaUW84RE5uREJXcnlqQ3lDd0ktRjRWMUVDckVwcGRzSXZMODdlLXlYbkhjelRJZExIN0ZOclZuZFpQdW41NFNpZGxaYzYwYkNDemh0aVc5LVhHcmc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "癲癇",
+          "keyword": "癲癇",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "e4906892d33b",
       "title": "32歲女拳手不吸煙竟患肺癌末期！新婚兩週無家族病史僅咳嗽已罹癌／初診被誤當哮喘 - U Food",
@@ -35,13 +59,13 @@
       ]
     },
     {
-      "id": "149412388214",
+      "id": "5e161fc36395",
       "title": "大腸癌「隱形斗篷」遭破解 關閉1開關讓腫瘤全消退",
-      "published": "2026-06-25T03:55:00+00:00",
+      "published": "2026-06-25T04:11:16+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpRWZHQnlTbUR2X1k4OFphd2pCb2d2ZHJlcDNXNndkY2Z3R3RTU3pYcC1zV2NGWnctOU9tdkdic2p0SmRRQnhuRkR5cm9XeDdxZHFNcVZJUWZKQ1NzYVhhLXp2ZUPSAWpBVV95cUxNZXMweFU4amtDS19hYkFORGZfTXJ5TVdiankwNDF5dVJOaFJwRTBuOVRIaHhKemFTTTNyYVRwM2twMXMwUnpFMDhCTlZTZUJ2bHVFdmh2dzRya0MwSTVsX0lfdG5hbnJweVFR?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQNnRHdWtRSk9TU25QcC1tbmxzWVZiNXhlM21VamFUZmtHd3VEOXhicE85a0JCSE44UWFCc05ZZWlCNElOSU40ckxFaU1KaGZBeGljU29wVkhjWHRERG9YaS11eHdja3JTZ0p0ai0zZmNqZ19Oa0xrckw5djQ3NFB4SldGMGlBUFIxVnBqOTk4anpESjJSY01kdGV1OXNRX0lvcnAyb19wMWNmbHRUV0JDZ2k2aEdLX2xUNEQxYXR4c1ZlemJlWW9pUUhXNUNWa1o5b19BZDFwQ3ZtTEljUEJNNXJKc3Nvc2xWQkl2UGp4UW5WMV9JMGwtVUtNSlVrZVdVUml0YVF3OHlUQ3U3UVhuNlZNUEVtSGFrY2g3MTdLNkllc2JVbnBqU0cxUDZOWVotRk9neFNjLWp5Z1FCSzBYUmJ6NDVyMVBl?oc=5"
         }
       ],
       "keywords": [
