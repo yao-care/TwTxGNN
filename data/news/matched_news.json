@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-06-26T16:07:31.934340+00:00",
-  "total_count": 14,
-  "matched_count": 4,
+  "last_updated": "2026-06-26T18:23:37.321268+00:00",
+  "total_count": 15,
+  "matched_count": 2,
   "news": [
+    {
+      "id": "d2f1b21f0f3a",
+      "title": "癌細胞代謝彈性成治療挑戰 新療法瞄準能量通路",
+      "published": "2026-06-26T17:00:00+00:00",
+      "summary": "癌細胞代謝彈性成治療挑戰 新療法瞄準能量通路&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PQXNueU5RVmtjNnhyQURKTkpkVEFnLTJCTXlieDZHWlRQN3JyM2xNdnFQRFRQX3JacUR0bmFESVMxWEN2UGh1MEVkSXUzZmpULTBNazJlT3ptNmZVczhrdtIBZkFVX3lxTE1pNlRJVk56bHBJQU9nblR2Z3EzeEpaSmQybTBmb3RRXzdYcS01RnkyZWcyaVlHODlTQUlOQW1uTE5ESFQwZW5vWmhOVWZaNWt0OWV5cHpXNk9jank3eGljUkczdXc5UQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4d7a60b87ac3",
+      "title": "【灣區新聞】Contra Costa縣蚊蟲樣本驗出西尼羅病毒",
+      "published": "2026-06-26T16:42:16+00:00",
+      "summary": "【灣區新聞】Contra Costa縣蚊蟲樣本驗出西尼羅病毒&nbsp;&nbsp;KTSF.com",
+      "sources": [
+        {
+          "name": "KTSF.com",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLRlc3MmtoZi1nUWRQbTNibVREaVRmNTIzUVBlVmduMzl6WFZJODRNUl9zYVNyaXFVS0pndFFVaFBkVjlXQkN5RW95VVNmU25HUlNOREo3X0tjUFB0MjAtYWFUQWE3TnR2ZEVlM242bzJrQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "fd2889d7f26f",
       "title": "【單詞故事】從西班牙流感到超級網紅| 病毒 | 英文 | 網紅",
@@ -17,422 +43,17 @@
       "matched_keywords": []
     },
     {
-      "id": "fb3b21d56fc5",
-      "title": "一項關於癌症治療時機的中國研究被《自然-醫學》撤稿- 紐約時報中文網",
-      "published": "2026-06-26T02:26:11+00:00",
-      "summary": "一項關於癌症治療時機的中國研究被《自然-醫學》撤稿- 紐約時報中文網&nbsp;&nbsp;纽约时报中文网",
+      "id": "8264a57e7908",
+      "title": "不是冬天才會中新冠、流感！醫揭病毒流行新趨勢：夏天發燒、喉嚨痛更要把握「這段時間」",
+      "published": "2026-06-26T07:42:36+00:00",
+      "summary": "不是冬天才會中新冠、流感！醫揭病毒流行新趨勢：夏天發燒、喉嚨痛更要把握「這段時間」&nbsp;&nbsp;良醫健康網夏季流感風險升溫 甲乙型個案齊升 及早接種疫苗增保護&nbsp;&nbsp;東周刊中醫調體質提升免疫力防過敏！醫揭「辨證施養＋4大穴位」日常保健法&nbsp;&nbsp;PChome Online 新聞夏天喉嚨痛發燒不只是中暑？醫生揭6大夏季流行病毒！1類場所最易爆發手足口病| 事事如意生活網站&nbsp;&nbsp;CCUE.ca防流感飲食｜中醫5招增抵抗力 脫髮飲枸杞水／乾咳吃秋葵山藥&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "纽约时报中文网",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVFadjBVUl9JNm1ObFV6eFVUVDA3bzlES0lYWjBsOHhsLVdab1BNLU83R3JMMlBKSzRhaW1LZ2dtTkg2eEQ3b1duajRTNjhXak1NaENFb3RyV2xMTDlwdTN1bnF0cGFIZUFRUGJoaFNDX09JU0dGNXRfbkdJN3FFc1BKczAtbERQTi1ZNl9sM3JZRG10b0E?oc=5"
+          "name": "良醫健康網",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LZFRPNnVmQnNTeGlsYjU0N0RkSXhjZDYwa0Q5Y19HdXhmRGVrbXdjbDZXWVROd1F2eWpWUWFaV2xVTGZqbndITU5Wa3N0UXpjSUxBVVNIaHpoMGx2SFF0SGRNSVY5SHdaZFE?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "97a99d81c2d5",
-      "title": "為什麼癌症一再復發，怎麼樣都清不乾淨？醫曝癌症幹細胞最喜歡這體質",
-      "published": "2026-06-26T01:12:43+00:00",
-      "summary": "為什麼癌症一再復發，怎麼樣都清不乾淨？醫曝癌症幹細胞最喜歡這體質&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IRDl3Sjk1OXp6T19ibXFSYWFzZ3hyd05TdUdYaGhvc3JieG14ZGJncWUyZUlXTjNxTGtPNFUzMWs5aGxDTXVfU2lsZTRkdzJ5djdlQ3ZhaVF4WmJS0gFiQVVfeXFMUHlqRnpVRGRtY3JHR1hGQlhBbnBtSm5nNVR4cC16U0ltVU1GN2lucG9QZDRWbDZSWTVVRTFNRDNCMUNNdEdIbmhLU01PRFg4S3F4UHV6MWtlQXdiVnZIN09TZUE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "02469c680d76",

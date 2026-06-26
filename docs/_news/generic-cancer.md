@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "癌症（generic_cancer） 相關新聞"
+title: "腫瘤（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
+description: "腫瘤（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
-# 癌症（generic_cancer） 相關新聞
+# 腫瘤（generic_cancer） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="腫瘤（generic_cancer） 有什麼相關新聞？">
+<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「癌症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「腫瘤」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,23 +75,7 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（3 則）
-
-### [一項關於癌症治療時機的中國研究被《自然-醫學》撤稿- 紐約時報中文網](https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVFadjBVUl9JNm1ObFV6eFVUVDA3bzlES0lYWjBsOHhsLVdab1BNLU83R3JMMlBKSzRhaW1LZ2dtTkg2eEQ3b1duajRTNjhXak1NaENFb3RyV2xMTDlwdTN1bnF0cGFIZUFRUGJoaFNDX09JU0dGNXRfbkdJN3FFc1BKczAtbERQTi1ZNl9sM3JZRG10b0E?oc=5)
-
-2026-06-26
-
-來源：[纽约时报中文网](https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVFadjBVUl9JNm1ObFV6eFVUVDA3bzlES0lYWjBsOHhsLVdab1BNLU83R3JMMlBKSzRhaW1LZ2dtTkg2eEQ3b1duajRTNjhXak1NaENFb3RyV2xMTDlwdTN1bnF0cGFIZUFRUGJoaFNDX09JU0dGNXRfbkdJN3FFc1BKczAtbERQTi1ZNl9sM3JZRG10b0E?oc=5)
-
----
-
-### [為什麼癌症一再復發，怎麼樣都清不乾淨？醫曝癌症幹細胞最喜歡這體質](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IRDl3Sjk1OXp6T19ibXFSYWFzZ3hyd05TdUdYaGhvc3JieG14ZGJncWUyZUlXTjNxTGtPNFUzMWs5aGxDTXVfU2lsZTRkdzJ5djdlQ3ZhaVF4WmJS0gFiQVVfeXFMUHlqRnpVRGRtY3JHR1hGQlhBbnBtSm5nNVR4cC16U0ltVU1GN2lucG9QZDRWbDZSWTVVRTFNRDNCMUNNdEdIbmhLU01PRFg4S3F4UHV6MWtlQXdiVnZIN09TZUE?oc=5)
-
-2026-06-26
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IRDl3Sjk1OXp6T19ibXFSYWFzZ3hyd05TdUdYaGhvc3JieG14ZGJncWUyZUlXTjNxTGtPNFUzMWs5aGxDTXVfU2lsZTRkdzJ5djdlQ3ZhaVF4WmJS0gFiQVVfeXFMUHlqRnpVRGRtY3JHR1hGQlhBbnBtSm5nNVR4cC16U0ltVU1GN2lucG9QZDRWbDZSWTVVRTFNRDNCMUNNdEdIbmhLU01PRFg4S3F4UHV6MWtlQXdiVnZIN09TZUE?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [大腸癌「隱形斗篷」遭破解 關閉1開關讓腫瘤全消退](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpRWZHQnlTbUR2X1k4OFphd2pCb2d2ZHJlcDNXNndkY2Z3R3RTU3pYcC1zV2NGWnctOU9tdkdic2p0SmRRQnhuRkR5cm9XeDdxZHFNcVZJUWZKQ1NzYVhhLXp2ZUPSAWpBVV95cUxNZXMweFU4amtDS19hYkFORGZfTXJ5TVdiankwNDF5dVJOaFJwRTBuOVRIaHhKemFTTTNyYVRwM2twMXMwUnpFMDhCTlZTZUJ2bHVFdmh2dzRya0MwSTVsX0lfdG5hbnJweVFR?oc=5)
 

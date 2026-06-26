@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-26T16:07:27.378934+00:00",
-  "count": 14,
+  "fetched_at": "2026-06-26T18:23:33.168309+00:00",
+  "count": 15,
   "news": [
     {
       "id": "fd2889d7f26f",
@@ -12,18 +12,6 @@
         {
           "name": "台灣大紀元",
           "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOREFSd0NnNXVycHRCWjRKclRBWkt2RjZ0VlFPb24tOVQ5RUM3WWxXUFV0V3V3a3JWeHF4R0ZFNjlNWWIwUEFSLTZzRF81Uk14Yncwd0lfSHVIbjlBdWlEVk1DRUtJamFLcFE0dUt4Y2ktZnlta3BYM3BHc2s2Sk9Tam1ndTJyNThFWWRqM3ZuNlRtR2xMM0pDZW9FNmxTR1VvUnY2YWxjS3Z6djkxbDNkRkhzRW5mU2JkUlV1NW80Yy1RUUN3YllXUC01SnlPUWR0bHdUMUphYnZIOVJoalAzejZwWGhaR0phUHFDYmZzUDVfVnRoeU9fOGxlMGJpdGJnUE9fcDRDN00?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "97a99d81c2d5",
-      "title": "為什麼癌症一再復發，怎麼樣都清不乾淨？醫曝癌症幹細胞最喜歡這體質 - 元氣網",
-      "published": "2026-06-26T01:12:43+00:00",
-      "summary": "為什麼癌症一再復發，怎麼樣都清不乾淨？醫曝癌症幹細胞最喜歡這體質&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IRDl3Sjk1OXp6T19ibXFSYWFzZ3hyd05TdUdYaGhvc3JieG14ZGJncWUyZUlXTjNxTGtPNFUzMWs5aGxDTXVfU2lsZTRkdzJ5djdlQ3ZhaVF4WmJS0gFiQVVfeXFMUHlqRnpVRGRtY3JHR1hGQlhBbnBtSm5nNVR4cC16U0ltVU1GN2lucG9QZDRWbDZSWTVVRTFNRDNCMUNNdEdIbmhLU01PRFg4S3F4UHV6MWtlQXdiVnZIN09TZUE?oc=5"
         }
       ]
     },
@@ -88,6 +76,30 @@
       ]
     },
     {
+      "id": "8264a57e7908",
+      "title": "不是冬天才會中新冠、流感！醫揭病毒流行新趨勢：夏天發燒、喉嚨痛更要把握「這段時間」 - 良醫健康網",
+      "published": "2026-06-26T07:42:36+00:00",
+      "summary": "不是冬天才會中新冠、流感！醫揭病毒流行新趨勢：夏天發燒、喉嚨痛更要把握「這段時間」&nbsp;&nbsp;良醫健康網夏季流感風險升溫 甲乙型個案齊升 及早接種疫苗增保護&nbsp;&nbsp;東周刊中醫調體質提升免疫力防過敏！醫揭「辨證施養＋4大穴位」日常保健法&nbsp;&nbsp;PChome Online 新聞夏天喉嚨痛發燒不只是中暑？醫生揭6大夏季流行病毒！1類場所最易爆發手足口病| 事事如意生活網站&nbsp;&nbsp;CCUE.ca防流感飲食｜中醫5招增抵抗力 脫髮飲枸杞水／乾咳吃秋葵山藥&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "良醫健康網",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LZFRPNnVmQnNTeGlsYjU0N0RkSXhjZDYwa0Q5Y19HdXhmRGVrbXdjbDZXWVROd1F2eWpWUWFaV2xVTGZqbndITU5Wa3N0UXpjSUxBVVNIaHpoMGx2SFF0SGRNSVY5SHdaZFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4d7a60b87ac3",
+      "title": "【灣區新聞】Contra Costa縣蚊蟲樣本驗出西尼羅病毒 - KTSF.com",
+      "published": "2026-06-26T16:42:16+00:00",
+      "summary": "【灣區新聞】Contra Costa縣蚊蟲樣本驗出西尼羅病毒&nbsp;&nbsp;KTSF.com",
+      "sources": [
+        {
+          "name": "KTSF.com",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLRlc3MmtoZi1nUWRQbTNibVREaVRmNTIzUVBlVmduMzl6WFZJODRNUl9zYVNyaXFVS0pndFFVaFBkVjlXQkN5RW95VVNmU25HUlNOREo3X0tjUFB0MjAtYWFUQWE3TnR2ZEVlM242bzJrQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "098efc10fe75",
       "title": "玉榮醫院辦理「新型A型流感實地演練 - 更生新聞網",
       "published": "2026-06-25T10:36:08+00:00",
@@ -100,14 +112,14 @@
       ]
     },
     {
-      "id": "fb3b21d56fc5",
-      "title": "一項關於癌症治療時機的中國研究被《自然-醫學》撤稿- 紐約時報中文網 - 纽约时报中文网",
-      "published": "2026-06-26T02:26:11+00:00",
-      "summary": "一項關於癌症治療時機的中國研究被《自然-醫學》撤稿- 紐約時報中文網&nbsp;&nbsp;纽约时报中文网",
+      "id": "d2f1b21f0f3a",
+      "title": "癌細胞代謝彈性成治療挑戰 新療法瞄準能量通路 - 大纪元",
+      "published": "2026-06-26T17:00:00+00:00",
+      "summary": "癌細胞代謝彈性成治療挑戰 新療法瞄準能量通路&nbsp;&nbsp;大纪元",
       "sources": [
         {
-          "name": "纽约时报中文网",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVFadjBVUl9JNm1ObFV6eFVUVDA3bzlES0lYWjBsOHhsLVdab1BNLU83R3JMMlBKSzRhaW1LZ2dtTkg2eEQ3b1duajRTNjhXak1NaENFb3RyV2xMTDlwdTN1bnF0cGFIZUFRUGJoaFNDX09JU0dGNXRfbkdJN3FFc1BKczAtbERQTi1ZNl9sM3JZRG10b0E?oc=5"
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PQXNueU5RVmtjNnhyQURKTkpkVEFnLTJCTXlieDZHWlRQN3JyM2xNdnFQRFRQX3JacUR0bmFESVMxWEN2UGh1MEVkSXUzZmpULTBNazJlT3ptNmZVczhrdtIBZkFVX3lxTE1pNlRJVk56bHBJQU9nblR2Z3EzeEpaSmQybTBmb3RRXzdYcS01RnkyZWcyaVlHODlTQUlOQW1uTE5ESFQwZW5vWmhOVWZaNWt0OWV5cHpXNk9jank3eGljUkczdXc5UQ?oc=5"
         }
       ]
     },
