@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-26T06:44:13.765606+00:00",
-  "count": 17,
+  "fetched_at": "2026-06-26T10:14:58.603817+00:00",
+  "count": 13,
   "news": [
     {
       "id": "97a99d81c2d5",
@@ -24,18 +24,6 @@
         {
           "name": "更生新聞網",
           "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mckxqX1lwTFBDRjc1Y19XakRZRHdLLXRzT3hBMms2VnZsY181aGdsWmo0c3pCTDE2RmgxOGNVTFhTNW5Ub0ZRSmhn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f02efbf74b2c",
-      "title": "崩潰！母胎單身男「肛門長肉瘤」一驗竟是菜花　醫：三大破口風險高 - 鏡週刊Mirror Media",
-      "published": "2026-06-24T06:51:00+00:00",
-      "summary": "崩潰！母胎單身男「肛門長肉瘤」一驗竟是菜花 醫：三大破口風險高&nbsp;&nbsp;鏡週刊Mirror Media沒性行為也中鏢？母胎單身男「肛門長肉瘤」 確診菜花崩潰 | 生活 | CTWANT&nbsp;&nbsp;CTWANT菜花不是電燒完就沒事！醫：菜花復發率達4成 靠「這招」預防&nbsp;&nbsp;UDN房貸、車貸都在繳？醫：別忽略潛伏多年的HPV風險&nbsp;&nbsp;Yahoo新聞【HPV】病毒逾150種類型 非一定與性病有關 持續感染高危型增患癌症風險&nbsp;&nbsp;明報健康網",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90V0htYVhKZnFlUFlTOWM4MTVCS05tSDJzRjhlN1Y2TEhfZDBER3ktdEQxbGkxSHBubi1QdzFCS3JTb0JiNlY0ZFNfaWYzcDNpWl9McmtwcmVMQ0VVLUhNd2F5QdIBaEFVX3lxTE53RnNVeHE5TlMyVzl6eWZrSVpGU0o0enBlX1pBTW83RXc3b2hLUWN6Q1B3WEowX2RkOEVQdU1mUlhVUTBZZ3B4Wm5QWFV5bWt3UWFzWVM5SFNJMVd3OGVYSDJqUVB5V0Vs?oc=5"
         }
       ]
     },
@@ -84,30 +72,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpRWZHQnlTbUR2X1k4OFphd2pCb2d2ZHJlcDNXNndkY2Z3R3RTU3pYcC1zV2NGWnctOU9tdkdic2p0SmRRQnhuRkR5cm9XeDdxZHFNcVZJUWZKQ1NzYVhhLXp2ZUPSAWpBVV95cUxNZXMweFU4amtDS19hYkFORGZfTXJ5TVdiankwNDF5dVJOaFJwRTBuOVRIaHhKemFTTTNyYVRwM2twMXMwUnpFMDhCTlZTZUJ2bHVFdmh2dzRya0MwSTVsX0lfdG5hbnJweVFR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f3ad1470ce7d",
-      "title": "嬰兒溢吐奶或異常嘔吐怎麼分？醫警告這「3徵兆」立即就醫 - 民視新聞網",
-      "published": "2026-06-24T07:36:00+00:00",
-      "summary": "嬰兒溢吐奶或異常嘔吐怎麼分？醫警告這「3徵兆」立即就醫&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9peVkwZU1nM3AxbDVxcFpLRzZDSnRudHZocWpnaVJyaTJVWG9wdFp5dTRLWmw2Y05fQ1VQeUxUQVduTHBxZDhxd3o5ajd3bV9vR3JuVC1oeVNsRGdITWw5Qg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "34159d1cb8de",
-      "title": "吃魚油防失智？研究戳破保健品神話 不如多吃這類食物更實際 - 元氣網",
-      "published": "2026-06-24T09:06:12+00:00",
-      "summary": "吃魚油防失智？研究戳破保健品神話 不如多吃這類食物更實際&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUMm8wNV9YVU5hWG5EV2xrbG5VM243YTNhNGU2VmlhSzJFY2gtVGdNbEVDLWhkZU1NU2QwMzBNaHExaE1fa05qcjZjMnhCdmpQQVpxZ2lqYmhCOWxmaFlZTDhn0gFiQVVfeXFMUFQybzA1X1hVTmFYbkRXbGtsblUzbjdhM2E0ZTZWaWFLMkVjaC1UZ01sRUMtaGRlTU1TZDAzME1ocTFoTV9rTmpyNmMyeEJ2alBBWnFnaWpiaEI5bGZoWVlMOGc?oc=5"
         }
       ]
     },
@@ -172,18 +136,6 @@
       ]
     },
     {
-      "id": "d07a96cd7223",
-      "title": "鄭州少年吃外賣捱夜打機 突發糖尿病酮症酸中毒亡 - on.cc東網",
-      "published": "2026-06-25T00:28:13+00:00",
-      "summary": "鄭州少年吃外賣捱夜打機 突發糖尿病酮症酸中毒亡&nbsp;&nbsp;on.cc東網",
-      "sources": [
-        {
-          "name": "on.cc東網",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUjVrUmhUVDZEV21mT2YtVURYa05MSTJDR05xdGkwRkhHS1EtS2hRLTRhRVlxQW9URzBTcXc4a1E4NElVUjBRUmFubjdyWDkwR0ZlSUxNNGhMd0ZoUjAtSnhsQnJqUnVWdldFb1pvZ0o0X2hRYmxQa1g0Yk5rMllmeWVEeG5pN3g1RWJB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "02469c680d76",
       "title": "卑詩社區主導危機應對服務3年接約2萬宗求助有效減輕警方處理個案壓力| 事事如意生活網站 - CCUE.ca",
       "published": "2026-06-25T19:53:53+00:00",
@@ -196,14 +148,14 @@
       ]
     },
     {
-      "id": "1c0105b62dc1",
-      "title": "美國頂尖醫院聯手OpenAI實現醫學突破 成功診斷18宗兒童罕見病 顛覆傳統診斷效率 - UHK 港生活",
-      "published": "2026-06-24T09:00:00+00:00",
-      "summary": "美國頂尖醫院聯手OpenAI實現醫學突破 成功診斷18宗兒童罕見病 顛覆傳統診斷效率&nbsp;&nbsp;UHK 港生活",
+      "id": "d07a96cd7223",
+      "title": "鄭州少年吃外賣捱夜打機 突發糖尿病酮症酸中毒亡 - on.cc東網",
+      "published": "2026-06-25T00:28:13+00:00",
+      "summary": "鄭州少年吃外賣捱夜打機 突發糖尿病酮症酸中毒亡&nbsp;&nbsp;on.cc東網",
       "sources": [
         {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQLUhwbGRlUFlWcDRKRGE1TkIzVWgwRjllUzBEU0lsUmpWVVhNNGM3LVVSMTRzTWYxemExbTdOWmJpaEl6ZzJ2T3JieFJ1V1JvYVB5emVUUEpZQ2N3OVRLTzhoYXRTM01TaWZfQjBlaE51dFV3QThpUXJtd25IT1duSWY1a0RPOVRVU3U2ckFRb3dOR1JsMUJzdnhpQUF1TTRSU2JMSmpJWGhYSE5rSWpDaFdNZm9fZWR6dWh3RjBIdFVfbnYzMGI2VmMtUzN1SFUxa0JNbWE5YnRpeExXb3pUdmVtVk5udS10ZE42NE1scS1jNXVyb1BqTTUxOVY2cWFKa05CZzZoTERXLUFuRWNlM2M3SUsxLUdjY0w0NDBqQWFIaVNWcVktTV9VT2VtaXp0UHpxTF9MQW80bWZiY1AtcUtwNkY3Rl9XZzhkdlNKekZjODJYQlU4WVpNZWJWT0ZJbUVDNjc2bUExUHhuRC1ERUJQUE9IdGF2WEMyV2RGVmhHMGl1dFR4S1ZqWlBja0hQZHZzc2Fhakhia0ZQdDRrRzNJODFybEZoWHMtM2IwNXlGZnV0QndHUUl2S3k3SmtVQ2dIM1VHakhDdVd6cThhU0VheTJmYUNYcVhua2FNSFVOTlAtZ0YyeE9yTmw?oc=5"
+          "name": "on.cc東網",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUjVrUmhUVDZEV21mT2YtVURYa05MSTJDR05xdGkwRkhHS1EtS2hRLTRhRVlxQW9URzBTcXc4a1E4NElVUjBRUmFubjdyWDkwR0ZlSUxNNGhMd0ZoUjAtSnhsQnJqUnVWdldFb1pvZ0o0X2hRYmxQa1g0Yk5rMllmeWVEeG5pN3g1RWJB?oc=5"
         }
       ]
     }
