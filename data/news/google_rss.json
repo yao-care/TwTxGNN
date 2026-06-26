@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-25T23:08:40.115709+00:00",
+  "fetched_at": "2026-06-26T02:32:46.600082+00:00",
   "count": 20,
   "news": [
     {
@@ -16,18 +16,6 @@
       ]
     },
     {
-      "id": "92e98fbfdb86",
-      "title": "高糖、抽菸、曝曬是膠原蛋白殺手！醫提醒「日常地雷」要避開 - Yahoo新聞",
-      "published": "2026-06-25T08:59:53+00:00",
-      "summary": "高糖、抽菸、曝曬是膠原蛋白殺手！醫提醒「日常地雷」要避開&nbsp;&nbsp;Yahoo新聞孫淑媚天天吃膠原蛋白，網友卻狂冒痘？營養師揪出4大地雷，難怪補了沒感覺！&nbsp;&nbsp;woman.tvbs.com.tw吃膠原蛋白＝皮膚Ｑ彈、強筋健骨？名醫科學解密！&nbsp;&nbsp;祝你健康女性健康｜媽媽吃膠原蛋白狂生瘡營養師揭真正成因公開膠原搭配法效果加倍附膠原流失4大元凶| 靚媽頻道&nbsp;&nbsp;Oh!爸媽孫淑媚天天吃膠原蛋白！有人卻狂冒痘 先戒4大壞習慣&nbsp;&nbsp;知新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNZmJsbEdYQzRpUVBaY0tibzV0elBMenV4ODBCZjVxVnFncHA4Q0JJUmJQZTNMNWt5dlZTMU5RZmN1WG1SN2VLLXE5SWpHM2VqS21QQWtDeDNPNm5ubUtkT0l3NzY0YnFCeUI4VFBIeFFpcVJuSDUwRHpQSEZpUWdYUHNHczczRzdZSUFvWEg2ZDNrLUVFUS1YdFpJbWpaSURYMU83V3NrcEY4QV9fdENCa09vNEwwZV9yQU9kamRLVXhGbG1xRnpvZW9rUXd2Rk5EQTJ4SVZuRGVSYTdxa0dTamdVelU0VkY2a0NmXzZVT2tqNVIwWW9wY3Zoa0Q3MnpLNzJ0SzFDdFZVazBjc2tuU19YcDg2NV9FUVZ6azNqc2xFSzg3TjZiUjhGTjVZZ0M4Z2NCUnpJMC1rcFhNbkd0Yi1kLXJyNUFD?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cc47b9bd214f",
       "title": "新研究顯示，肥胖率在年輕成人中上升最快 - gamereactor.cn",
       "published": "2026-06-25T13:40:00+00:00",
@@ -36,6 +24,18 @@
         {
           "name": "gamereactor.cn",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUhGXzJ2VEFvbkJrTmFmeGRPLWZXX1RKSlVCZjVmUUh2djJ6ME5Zd0dLOVVFaVd0dWdjWllUOFRUY0Z2ZnVkOWVXUkRzeGhpdzV4RFo5NzJETzBzbmJKejVnZVFTUUc1azhSemRDTmZjblg5bkJ1MUJYUzVwb1BaTHl3T3RaeXp0SEpuUWFWRHJscjNmSGVXYQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "92e98fbfdb86",
+      "title": "高糖、抽菸、曝曬是膠原蛋白殺手！醫提醒「日常地雷」要避開 - Yahoo新聞",
+      "published": "2026-06-25T08:59:53+00:00",
+      "summary": "高糖、抽菸、曝曬是膠原蛋白殺手！醫提醒「日常地雷」要避開&nbsp;&nbsp;Yahoo新聞孫淑媚天天吃膠原蛋白，網友卻狂冒痘？營養師揪出4大地雷，難怪補了沒感覺！&nbsp;&nbsp;woman.tvbs.com.tw吃膠原蛋白＝皮膚Ｑ彈、強筋健骨？名醫科學解密！&nbsp;&nbsp;祝你健康女性健康｜媽媽吃膠原蛋白狂生瘡營養師揭真正成因公開膠原搭配法效果加倍附膠原流失4大元凶| 靚媽頻道&nbsp;&nbsp;Oh!爸媽孫淑媚天天吃膠原蛋白！有人卻狂冒痘 先戒4大壞習慣&nbsp;&nbsp;知新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNZmJsbEdYQzRpUVBaY0tibzV0elBMenV4ODBCZjVxVnFncHA4Q0JJUmJQZTNMNWt5dlZTMU5RZmN1WG1SN2VLLXE5SWpHM2VqS21QQWtDeDNPNm5ubUtkT0l3NzY0YnFCeUI4VFBIeFFpcVJuSDUwRHpQSEZpUWdYUHNHczczRzdZSUFvWEg2ZDNrLUVFUS1YdFpJbWpaSURYMU83V3NrcEY4QV9fdENCa09vNEwwZV9yQU9kamRLVXhGbG1xRnpvZW9rUXd2Rk5EQTJ4SVZuRGVSYTdxa0dTamdVelU0VkY2a0NmXzZVT2tqNVIwWW9wY3Zoa0Q3MnpLNzJ0SzFDdFZVazBjc2tuU19YcDg2NV9FUVZ6azNqc2xFSzg3TjZiUjhGTjVZZ0M4Z2NCUnpJMC1rcFhNbkd0Yi1kLXJyNUFD?oc=5"
         }
       ]
     },
@@ -54,8 +54,8 @@
     {
       "id": "f02efbf74b2c",
       "title": "崩潰！母胎單身男「肛門長肉瘤」一驗竟是菜花　醫：三大破口風險高 - 鏡週刊Mirror Media",
-      "published": "2026-06-24T08:00:36+00:00",
-      "summary": "崩潰！母胎單身男「肛門長肉瘤」一驗竟是菜花 醫：三大破口風險高&nbsp;&nbsp;鏡週刊Mirror Media沒性行為也中鏢？母胎單身男「肛門長肉瘤」 確診菜花崩潰 | 生活 | CTWANT&nbsp;&nbsp;CTWANT以為「四貸同堂」最難扛？醫：扛貸族更該關注這筆「HPV健康債」&nbsp;&nbsp;良醫健康網菜花不是電燒完就沒事！醫：菜花復發率達4成 靠「這招」預防&nbsp;&nbsp;UDN房貸、車貸都在繳？醫：別忽略潛伏多年的HPV風險&nbsp;&nbsp;Yahoo新聞",
+      "published": "2026-06-24T06:51:00+00:00",
+      "summary": "崩潰！母胎單身男「肛門長肉瘤」一驗竟是菜花 醫：三大破口風險高&nbsp;&nbsp;鏡週刊Mirror Media沒性行為也中鏢？母胎單身男「肛門長肉瘤」 確診菜花崩潰 | 生活 | CTWANT&nbsp;&nbsp;CTWANT菜花不是電燒完就沒事！醫：菜花復發率達4成 靠「這招」預防&nbsp;&nbsp;UDN房貸、車貸都在繳？醫：別忽略潛伏多年的HPV風險&nbsp;&nbsp;Yahoo新聞【HPV】病毒逾150種類型 非一定與性病有關 持續感染高危型增患癌症風險&nbsp;&nbsp;明報健康網",
       "sources": [
         {
           "name": "鏡週刊Mirror Media",
@@ -88,14 +88,14 @@
       ]
     },
     {
-      "id": "ccf35ca1b9c0",
-      "title": "嬰兒溢吐奶或異常嘔吐怎麼分？醫警告這「3徵兆」立即就醫 - Yahoo新聞",
-      "published": "2026-06-24T07:00:00+00:00",
-      "summary": "嬰兒溢吐奶或異常嘔吐怎麼分？醫警告這「3徵兆」立即就醫&nbsp;&nbsp;Yahoo新聞",
+      "id": "f3ad1470ce7d",
+      "title": "嬰兒溢吐奶或異常嘔吐怎麼分？醫警告這「3徵兆」立即就醫 - 民視新聞網",
+      "published": "2026-06-24T07:36:00+00:00",
+      "summary": "嬰兒溢吐奶或異常嘔吐怎麼分？醫警告這「3徵兆」立即就醫&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOYXRyNjgtREkyZXhoenQxcFNiQldseF9JblVaeWhlXzR6Vm9qSUlLckhBQkhsR2VXQWNtZkUybjFRTUFpdmJvMHJReXhVdlRzMnRaalBoZHVmQk9aNm5JZFNBZENUVzFoNk91NTV5ak1lamdJdWlrNGRCOFlFcjlaeW1FcDR1QkpFWmV3dkdKY3o5NTZPdEVVWmhCRjNTdEJFMm1hVkZ5M1IyMkQ3NDc2YWNxenJMeG42cjRpcmdKSDRqTndhT1RpQXNCeVVWa1ljRFZpcTBjVHE3RWg3NFlJZHgxMElZeld0Vlg5c3dDNENobFF6NURSSzRrend1SFkzV2dLbEstNklUQ19iZ0l4M0h3N21qM0hkWHlFS010TldqWThGd1NHWGVnQzY0Q0FGbE94SDNRZllILVpfbi1pWF9WS1lXUmxlNFRwaElWRnNhQ0o3cHdfWWZZTkg3bDFYQTNyQWV4VE9yT2l5?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9peVkwZU1nM3AxbDVxcFpLRzZDSnRudHZocWpnaVJyaTJVWG9wdFp5dTRLWmw2Y05fQ1VQeUxUQVduTHBxZDhxd3o5ajd3bV9vR3JuVC1oeVNsRGdITWw5Qg?oc=5"
         }
       ]
     },
@@ -160,14 +160,14 @@
       ]
     },
     {
-      "id": "02469c680d76",
-      "title": "卑詩社區主導危機應對服務3年接約2萬宗求助有效減輕警方處理個案壓力| 事事如意生活網站 - CCUE.ca",
-      "published": "2026-06-25T19:53:53+00:00",
-      "summary": "卑詩社區主導危機應對服務3年接約2萬宗求助有效減輕警方處理個案壓力| 事事如意生活網站&nbsp;&nbsp;CCUE.ca",
+      "id": "fb3b21d56fc5",
+      "title": "一項關於癌症治療時機的中國研究被《自然-醫學》撤稿- 紐約時報中文網 - 纽约时报中文网",
+      "published": "2026-06-26T02:26:11+00:00",
+      "summary": "一項關於癌症治療時機的中國研究被《自然-醫學》撤稿- 紐約時報中文網&nbsp;&nbsp;纽约时报中文网",
       "sources": [
         {
-          "name": "CCUE.ca",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNWXQ1V01EZkxmTzFDSk1EN05teXdLT1h5UW9zem5WR0FhdzdKdHk2NTVzVGxVekVoSWktMDRiWlFPX3Bwck9EUjY2WWZtX3lteGFWVFBEeVRwNWVlUkFqYkRGWkl6N1VlRjNyWnBaamcySGVyUTdFR29kaVpXdEVCVkJnbGZxQkNHYUhXWGtFR0JON3diLTMydGtySFZZSUtzZ2tCbEZIUUh4TlRpclM2Mmt3Qm1FWFBHTEFTcHhyc3ZRRzdkQVhIOGtnQVNTSzhYZ2plU3dCYXU1MUlFUERIN1Z4clJzeFFtU0JtS0IxdzlON3RvNTc0ZXVJMmdVd0o5bEdvZ0tWZ3dlam44aGpXMEhJcTdzQkZkc2ZZXzJZWUpsMThjS3lTcUFRVTRCU2NOYjNINWpJVGQzUkhXNjJfRUVDMTVlLWxrajhyaTl1TTZJLUZRdXc?oc=5"
+          "name": "纽约时报中文网",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVFadjBVUl9JNm1ObFV6eFVUVDA3bzlES0lYWjBsOHhsLVdab1BNLU83R3JMMlBKSzRhaW1LZ2dtTkg2eEQ3b1duajRTNjhXak1NaENFb3RyV2xMTDlwdTN1bnF0cGFIZUFRUGJoaFNDX09JU0dGNXRfbkdJN3FFc1BKczAtbERQTi1ZNl9sM3JZRG10b0E?oc=5"
         }
       ]
     },
@@ -220,6 +220,18 @@
       ]
     },
     {
+      "id": "02469c680d76",
+      "title": "卑詩社區主導危機應對服務3年接約2萬宗求助有效減輕警方處理個案壓力| 事事如意生活網站 - CCUE.ca",
+      "published": "2026-06-25T19:53:53+00:00",
+      "summary": "卑詩社區主導危機應對服務3年接約2萬宗求助有效減輕警方處理個案壓力| 事事如意生活網站&nbsp;&nbsp;CCUE.ca",
+      "sources": [
+        {
+          "name": "CCUE.ca",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNWXQ1V01EZkxmTzFDSk1EN05teXdLT1h5UW9zem5WR0FhdzdKdHk2NTVzVGxVekVoSWktMDRiWlFPX3Bwck9EUjY2WWZtX3lteGFWVFBEeVRwNWVlUkFqYkRGWkl6N1VlRjNyWnBaamcySGVyUTdFR29kaVpXdEVCVkJnbGZxQkNHYUhXWGtFR0JON3diLTMydGtySFZZSUtzZ2tCbEZIUUh4TlRpclM2Mmt3Qm1FWFBHTEFTcHhyc3ZRRzdkQVhIOGtnQVNTSzhYZ2plU3dCYXU1MUlFUERIN1Z4clJzeFFtU0JtS0IxdzlON3RvNTc0ZXVJMmdVd0o5bEdvZ0tWZ3dlam44aGpXMEhJcTdzQkZkc2ZZXzJZWUpsMThjS3lTcUFRVTRCU2NOYjNINWpJVGQzUkhXNjJfRUVDMTVlLWxrajhyaTl1TTZJLUZRdXc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1c0105b62dc1",
       "title": "美國頂尖醫院聯手OpenAI實現醫學突破 成功診斷18宗兒童罕見病 顛覆傳統診斷效率 - UHK 港生活",
       "published": "2026-06-24T09:00:00+00:00",
@@ -228,18 +240,6 @@
         {
           "name": "UHK 港生活",
           "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQLUhwbGRlUFlWcDRKRGE1TkIzVWgwRjllUzBEU0lsUmpWVVhNNGM3LVVSMTRzTWYxemExbTdOWmJpaEl6ZzJ2T3JieFJ1V1JvYVB5emVUUEpZQ2N3OVRLTzhoYXRTM01TaWZfQjBlaE51dFV3QThpUXJtd25IT1duSWY1a0RPOVRVU3U2ckFRb3dOR1JsMUJzdnhpQUF1TTRSU2JMSmpJWGhYSE5rSWpDaFdNZm9fZWR6dWh3RjBIdFVfbnYzMGI2VmMtUzN1SFUxa0JNbWE5YnRpeExXb3pUdmVtVk5udS10ZE42NE1scS1jNXVyb1BqTTUxOVY2cWFKa05CZzZoTERXLUFuRWNlM2M3SUsxLUdjY0w0NDBqQWFIaVNWcVktTV9VT2VtaXp0UHpxTF9MQW80bWZiY1AtcUtwNkY3Rl9XZzhkdlNKekZjODJYQlU4WVpNZWJWT0ZJbUVDNjc2bUExUHhuRC1ERUJQUE9IdGF2WEMyV2RGVmhHMGl1dFR4S1ZqWlBja0hQZHZzc2Fhakhia0ZQdDRrRzNJODFybEZoWHMtM2IwNXlGZnV0QndHUUl2S3k3SmtVQ2dIM1VHakhDdVd6cThhU0VheTJmYUNYcVhua2FNSFVOTlAtZ0YyeE9yTmw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "62a6651eaed7",
-      "title": "新螢光導航技術讓膽囊切除手術更安全精準| 健康 - 東方新地",
-      "published": "2026-06-23T23:59:56+00:00",
-      "summary": "新螢光導航技術讓膽囊切除手術更安全精準| 健康&nbsp;&nbsp;東方新地",
-      "sources": [
-        {
-          "name": "東方新地",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOUVZDUVdJV1pUNG1oWEpsWGFOdFQwa3NtdXc4bHg5MUxPd005TlVheTZOS1p1Qy1SRDZmZTJkQ29ZQlFaTFdwLWdCNGJ6NmhxbXZlTklIZ19WM2VXQ1RSQ2hMcVAyeVY5elRNSlRxMnEwWUFwdUxocmxseGp5STBwVHUtaU1QaW5GTmhnRGhHa1Z2NjBVZ3JFc1c1Mm4xRW81enpFeWVnN3JfSzRGLTlWUmo3a292OGM1Z0c4YUd5Z2tJdjZzTXRRNXc0Z09ySzc3ZkZPMi14cDJXcmtHQldRTmhCa3VQenBNZmlZY1ZlSWRfTGNYeUJIUVlrUmY2bTJGbnJ1U1R6R1VHcDZIMGdjZ3k4dk5hRVZPd3FLMmdtSW1OSGYzamRaNGVFc3ItY0dVMDF3ZnJSMEJkWDMzdkNRMDRWbFNFblFSZWVnbw?oc=5"
         }
       ]
     }

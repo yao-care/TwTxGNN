@@ -14,7 +14,7 @@ permalink: /news/acitretin/
 ---
 
 <p class="key-answer" data-question="Acitretin 有什麼相關新聞？">
-<strong>Acitretin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 4 個。
+<strong>Acitretin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 4 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,29 @@ permalink: /news/acitretin/
 <p><a href="{{ '/drugs/acitretin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [一項關於癌症治療時機的中國研究被《自然-醫學》撤稿- 紐約時報中文網](https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVFadjBVUl9JNm1ObFV6eFVUVDA3bzlES0lYWjBsOHhsLVdab1BNLU83R3JMMlBKSzRhaW1LZ2dtTkg2eEQ3b1duajRTNjhXak1NaENFb3RyV2xMTDlwdTN1bnF0cGFIZUFRUGJoaFNDX09JU0dGNXRfbkdJN3FFc1BKczAtbERQTi1ZNl9sM3JZRG10b0E?oc=5)
+
+2026-06-26 <span class="news-indication-tag">癌症</span>
+
+來源：[纽约时报中文网](https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVFadjBVUl9JNm1ObFV6eFVUVDA3bzlES0lYWjBsOHhsLVdab1BNLU83R3JMMlBKSzRhaW1LZ2dtTkg2eEQ3b1duajRTNjhXak1NaENFb3RyV2xMTDlwdTN1bnF0cGFIZUFRUGJoaFNDX09JU0dGNXRfbkdJN3FFc1BKczAtbERQTi1ZNl9sM3JZRG10b0E?oc=5)
+
+---
 
 ### [大腸癌「隱形斗篷」遭破解 關閉1開關讓腫瘤全消退](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpRWZHQnlTbUR2X1k4OFphd2pCb2d2ZHJlcDNXNndkY2Z3R3RTU3pYcC1zV2NGWnctOU9tdkdic2p0SmRRQnhuRkR5cm9XeDdxZHFNcVZJUWZKQ1NzYVhhLXp2ZUPSAWpBVV95cUxNZXMweFU4amtDS19hYkFORGZfTXJ5TVdiankwNDF5dVJOaFJwRTBuOVRIaHhKemFTTTNyYVRwM2twMXMwUnpFMDhCTlZTZUJ2bHVFdmh2dzRya0MwSTVsX0lfdG5hbnJweVFR?oc=5)
 
 2026-06-25 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpRWZHQnlTbUR2X1k4OFphd2pCb2d2ZHJlcDNXNndkY2Z3R3RTU3pYcC1zV2NGWnctOU9tdkdic2p0SmRRQnhuRkR5cm9XeDdxZHFNcVZJUWZKQ1NzYVhhLXp2ZUPSAWpBVV95cUxNZXMweFU4amtDS19hYkFORGZfTXJ5TVdiankwNDF5dVJOaFJwRTBuOVRIaHhKemFTTTNyYVRwM2twMXMwUnpFMDhCTlZTZUJ2bHVFdmh2dzRya0MwSTVsX0lfdG5hbnJweVFR?oc=5)
+
+---
+
+### [崩潰！母胎單身男「肛門長肉瘤」一驗竟是菜花　醫：三大破口風險高 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiY0FVX3lxTE90V0htYVhKZnFlUFlTOWM4MTVCS05tSDJzRjhlN1Y2TEhfZDBER3ktdEQxbGkxSHBubi1QdzFCS3JTb0JiNlY0ZFNfaWYzcDNpWl9McmtwcmVMQ0VVLUhNd2F5QdIBaEFVX3lxTE53RnNVeHE5TlMyVzl6eWZrSVpGU0o0enBlX1pBTW83RXc3b2hLUWN6Q1B3WEowX2RkOEVQdU1mUlhVUTBZZ3B4Wm5QWFV5bWt3UWFzWVM5SFNJMVd3OGVYSDJqUVB5V0Vs?oc=5)
+
+2026-06-24 <span class="news-indication-tag">癌症</span>
+
+來源：[鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiY0FVX3lxTE90V0htYVhKZnFlUFlTOWM4MTVCS05tSDJzRjhlN1Y2TEhfZDBER3ktdEQxbGkxSHBubi1QdzFCS3JTb0JiNlY0ZFNfaWYzcDNpWl9McmtwcmVMQ0VVLUhNd2F5QdIBaEFVX3lxTE53RnNVeHE5TlMyVzl6eWZrSVpGU0o0enBlX1pBTW83RXc3b2hLUWN6Q1B3WEowX2RkOEVQdU1mUlhVUTBZZ3B4Wm5QWFV5bWt3UWFzWVM5SFNJMVd3OGVYSDJqUVB5V0Vs?oc=5)
 
 ---
 

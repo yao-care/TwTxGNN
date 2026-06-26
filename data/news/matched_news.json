@@ -1,8 +1,217 @@
 {
-  "last_updated": "2026-06-25T23:08:43.543200+00:00",
+  "last_updated": "2026-06-26T02:32:50.934053+00:00",
   "total_count": 20,
-  "matched_count": 4,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "fb3b21d56fc5",
+      "title": "一項關於癌症治療時機的中國研究被《自然-醫學》撤稿- 紐約時報中文網",
+      "published": "2026-06-26T02:26:11+00:00",
+      "summary": "一項關於癌症治療時機的中國研究被《自然-醫學》撤稿- 紐約時報中文網&nbsp;&nbsp;纽约时报中文网",
+      "sources": [
+        {
+          "name": "纽约时报中文网",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVFadjBVUl9JNm1ObFV6eFVUVDA3bzlES0lYWjBsOHhsLVdab1BNLU83R3JMMlBKSzRhaW1LZ2dtTkg2eEQ3b1duajRTNjhXak1NaENFb3RyV2xMTDlwdTN1bnF0cGFIZUFRUGJoaFNDX09JU0dGNXRfbkdJN3FFc1BKczAtbERQTi1ZNl9sM3JZRG10b0E?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "02469c680d76",
       "title": "卑詩社區主導危機應對服務3年接約2萬宗求助有效減輕警方處理個案壓力| 事事如意生活網站",
@@ -447,30 +656,226 @@
       "matched_keywords": []
     },
     {
+      "id": "f3ad1470ce7d",
+      "title": "嬰兒溢吐奶或異常嘔吐怎麼分？醫警告這「3徵兆」立即就醫",
+      "published": "2026-06-24T07:36:00+00:00",
+      "summary": "嬰兒溢吐奶或異常嘔吐怎麼分？醫警告這「3徵兆」立即就醫&nbsp;&nbsp;民視新聞網",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9peVkwZU1nM3AxbDVxcFpLRzZDSnRudHZocWpnaVJyaTJVWG9wdFp5dTRLWmw2Y05fQ1VQeUxUQVduTHBxZDhxd3o5ajd3bV9vR3JuVC1oeVNsRGdITWw5Qg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "f02efbf74b2c",
       "title": "崩潰！母胎單身男「肛門長肉瘤」一驗竟是菜花　醫：三大破口風險高 - 鏡週刊Mirror Media",
-      "published": "2026-06-24T08:00:36+00:00",
-      "summary": "崩潰！母胎單身男「肛門長肉瘤」一驗竟是菜花 醫：三大破口風險高&nbsp;&nbsp;鏡週刊Mirror Media沒性行為也中鏢？母胎單身男「肛門長肉瘤」 確診菜花崩潰 | 生活 | CTWANT&nbsp;&nbsp;CTWANT以為「四貸同堂」最難扛？醫：扛貸族更該關注這筆「HPV健康債」&nbsp;&nbsp;良醫健康網菜花不是電燒完就沒事！醫：菜花復發率達4成 靠「這招」預防&nbsp;&nbsp;UDN房貸、車貸都在繳？醫：別忽略潛伏多年的HPV風險&nbsp;&nbsp;Yahoo新聞",
+      "published": "2026-06-24T06:51:00+00:00",
+      "summary": "崩潰！母胎單身男「肛門長肉瘤」一驗竟是菜花 醫：三大破口風險高&nbsp;&nbsp;鏡週刊Mirror Media沒性行為也中鏢？母胎單身男「肛門長肉瘤」 確診菜花崩潰 | 生活 | CTWANT&nbsp;&nbsp;CTWANT菜花不是電燒完就沒事！醫：菜花復發率達4成 靠「這招」預防&nbsp;&nbsp;UDN房貸、車貸都在繳？醫：別忽略潛伏多年的HPV風險&nbsp;&nbsp;Yahoo新聞【HPV】病毒逾150種類型 非一定與性病有關 持續感染高危型增患癌症風險&nbsp;&nbsp;明報健康網",
       "sources": [
         {
           "name": "鏡週刊Mirror Media",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90V0htYVhKZnFlUFlTOWM4MTVCS05tSDJzRjhlN1Y2TEhfZDBER3ktdEQxbGkxSHBubi1QdzFCS3JTb0JiNlY0ZFNfaWYzcDNpWl9McmtwcmVMQ0VVLUhNd2F5QdIBaEFVX3lxTE53RnNVeHE5TlMyVzl6eWZrSVpGU0o0enBlX1pBTW83RXc3b2hLUWN6Q1B3WEowX2RkOEVQdU1mUlhVUTBZZ3B4Wm5QWFV5bWt3UWFzWVM5SFNJMVd3OGVYSDJqUVB5V0Vs?oc=5"
         }
       ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ccf35ca1b9c0",
-      "title": "嬰兒溢吐奶或異常嘔吐怎麼分？醫警告這「3徵兆」立即就醫",
-      "published": "2026-06-24T07:00:00+00:00",
-      "summary": "嬰兒溢吐奶或異常嘔吐怎麼分？醫警告這「3徵兆」立即就醫&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
+      "matched_keywords": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOYXRyNjgtREkyZXhoenQxcFNiQldseF9JblVaeWhlXzR6Vm9qSUlLckhBQkhsR2VXQWNtZkUybjFRTUFpdmJvMHJReXhVdlRzMnRaalBoZHVmQk9aNm5JZFNBZENUVzFoNk91NTV5ak1lamdJdWlrNGRCOFlFcjlaeW1FcDR1QkpFWmV3dkdKY3o5NTZPdEVVWmhCRjNTdEJFMm1hVkZ5M1IyMkQ3NDc2YWNxenJMeG42cjRpcmdKSDRqTndhT1RpQXNCeVVWa1ljRFZpcTBjVHE3RWg3NFlJZHgxMElZeld0Vlg5c3dDNENobFF6NURSSzRrend1SFkzV2dLbEstNklUQ19iZ0l4M0h3N21qM0hkWHlFS010TldqWThGd1NHWGVnQzY0Q0FGbE94SDNRZllILVpfbi1pWF9WS1lXUmxlNFRwaElWRnNhQ0o3cHdfWWZZTkg3bDFYQTNyQWV4VE9yT2l5?oc=5"
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
         }
-      ],
-      "matched_keywords": []
+      ]
     },
     {
       "id": "51e9f0ff65eb",
@@ -520,19 +925,6 @@
         {
           "name": "紫荊雜誌",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmdoZmpKTnYxNnJQeDR6ZG1GZWl6aDVaOXp1OGFvbmtwaHZVSEJEX2Z4ZGxKZy01WlJYdGthWlRYeTdoZlFGS3ZvQU4wOFRXbGR2aVFHbFBLWmd5MmVxTWQteWtPZXlmYnZ4TTlNbkxmQ2tvLWxnTXR0MWxXNGlYaldWTWdLdmxuZEYxYjVVZXo?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "62a6651eaed7",
-      "title": "新螢光導航技術讓膽囊切除手術更安全精準| 健康",
-      "published": "2026-06-23T23:59:56+00:00",
-      "summary": "新螢光導航技術讓膽囊切除手術更安全精準| 健康&nbsp;&nbsp;東方新地",
-      "sources": [
-        {
-          "name": "東方新地",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOUVZDUVdJV1pUNG1oWEpsWGFOdFQwa3NtdXc4bHg5MUxPd005TlVheTZOS1p1Qy1SRDZmZTJkQ29ZQlFaTFdwLWdCNGJ6NmhxbXZlTklIZ19WM2VXQ1RSQ2hMcVAyeVY5elRNSlRxMnEwWUFwdUxocmxseGp5STBwVHUtaU1QaW5GTmhnRGhHa1Z2NjBVZ3JFc1c1Mm4xRW81enpFeWVnN3JfSzRGLTlWUmo3a292OGM1Z0c4YUd5Z2tJdjZzTXRRNXc0Z09ySzc3ZkZPMi14cDJXcmtHQldRTmhCa3VQenBNZmlZY1ZlSWRfTGNYeUJIUVlrUmY2bTJGbnJ1U1R6R1VHcDZIMGdjZ3k4dk5hRVZPd3FLMmdtSW1OSGYzamRaNGVFc3ItY0dVMDF3ZnJSMEJkWDMzdkNRMDRWbFNFblFSZWVnbw?oc=5"
         }
       ],
       "matched_keywords": []
