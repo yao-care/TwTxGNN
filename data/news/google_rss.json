@@ -1,8 +1,32 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-27T02:35:01.003905+00:00",
-  "count": 18,
+  "fetched_at": "2026-06-27T06:22:44.958570+00:00",
+  "count": 19,
   "news": [
+    {
+      "id": "e18f16d07250",
+      "title": "5癌症警訊 常誤以為是老化或壓力 - 世界新聞網",
+      "published": "2026-06-27T01:34:30+00:00",
+      "summary": "5癌症警訊 常誤以為是老化或壓力&nbsp;&nbsp;世界新聞網【下班經濟學】癌症不是突然來的！名醫警告：出現3警訊恐已罹癌，健檢做錯反而白花錢！&nbsp;&nbsp;Storm.mg誤以為老化或壓力大癌症專家點名5常見危險徵兆- 國際&nbsp;&nbsp;中時新聞網疲勞、壓力大都上榜！醫揭「5大易被忽略」的癌症警訊&nbsp;&nbsp;祝你健康",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tZWpkMktHQlA1VGg2WnJKVUNiQXVudUxKQy1JTFZMRktyRG83M0t6UzJXTTU4ZjNMODVsRlZVX1JlSnRDMXdYdndOTW5yVHZmSll1ajRoXzM3Tzhoc0tmMjFn0gFnQVVfeXFMTmp3UzRZNVg2NnVmOGtoZ29Rd0VkQm83cHAtSVJrMGhFVTNMOU9pRDRJRDdDbHJVbDJ6YVdXYmJzSGp3ejdDaWFoemVEd3dHRHc2MlFabzVoVUQtMnR1M3VVQ05ZUldybw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1fec8a38cb79",
+      "title": "AI揪出抗藥性淋病新剋星 陰道晶片驗證成功 - 自由健康網",
+      "published": "2026-06-27T03:40:00+00:00",
+      "summary": "AI揪出抗藥性淋病新剋星 陰道晶片驗證成功&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HU2EyVHRIQXJGeHRZYlB2UTJzaXVNXzlaa0dEcnpSYzVBQ2NyeFdUMXJRYnJuOEFGNjlhMXAwTzRzenpZTzZxSDUwQ0g4azRjdG00RzFnODlPenBjNFQ5N0ljLW7SAWpBVV95cUxPdmFwcVBtQVR3Q1RjSFlrZ1FrcFhaWkVockVEaUdxZ21QNXFOVHVmTHJkSlBiaFFwWFl0a3plWGtmNzNkRm5KS2JzLVNhZjdPdGxObGpoZ1Vjel9rbHV5VERoQmdONjh2RkJR?oc=5"
+        }
+      ]
+    },
     {
       "id": "c4ed25f68600",
       "title": "歐洲神經學學會大會 (EAN Congress) ：同時患有癲癇與聽力受損者使用助聽器，與認知障礙症風險降低 23% 相關 - 經濟日報",
@@ -28,26 +52,14 @@
       ]
     },
     {
-      "id": "fd2889d7f26f",
-      "title": "【單詞故事】從西班牙流感到超級網紅| 病毒 | 英文 | 網紅 - 台灣大紀元",
-      "published": "2026-06-26T11:08:15+00:00",
-      "summary": "【單詞故事】從西班牙流感到超級網紅| 病毒 | 英文 | 網紅&nbsp;&nbsp;台灣大紀元",
+      "id": "f978a451ae65",
+      "title": "2026年夏季皮膚保養的10個科學處方 - 報新聞",
+      "published": "2026-06-27T02:29:54+00:00",
+      "summary": "2026年夏季皮膚保養的10個科學處方&nbsp;&nbsp;報新聞",
       "sources": [
         {
-          "name": "台灣大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOREFSd0NnNXVycHRCWjRKclRBWkt2RjZ0VlFPb24tOVQ5RUM3WWxXUFV0V3V3a3JWeHF4R0ZFNjlNWWIwUEFSLTZzRF81Uk14Yncwd0lfSHVIbjlBdWlEVk1DRUtJamFLcFE0dUt4Y2ktZnlta3BYM3BHc2s2Sk9Tam1ndTJyNThFWWRqM3ZuNlRtR2xMM0pDZW9FNmxTR1VvUnY2YWxjS3Z6djkxbDNkRkhzRW5mU2JkUlV1NW80Yy1RUUN3YllXUC01SnlPUWR0bHdUMUphYnZIOVJoalAzejZwWGhaR0phUHFDYmZzUDVfVnRoeU9fOGxlMGJpdGJnUE9fcDRDN00?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9be637442e1d",
-      "title": "深入社區築防疫網 國軍花蓮總醫院舉辦夏日傳染病衛教活動 - 更生新聞網",
-      "published": "2026-06-25T03:16:10+00:00",
-      "summary": "深入社區築防疫網 國軍花蓮總醫院舉辦夏日傳染病衛教活動&nbsp;&nbsp;更生新聞網",
-      "sources": [
-        {
-          "name": "更生新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mckxqX1lwTFBDRjc1Y19XakRZRHdLLXRzT3hBMms2VnZsY181aGdsWmo0c3pCTDE2RmgxOGNVTFhTNW5Ub0ZRSmhn?oc=5"
+          "name": "報新聞",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTkVLUHdoeUFsSnVVUXBrWWVHaGE3Q2RNVDd3bWw5ejV2WExWVGprSGR3b29JQmFockxGWVJvMzA4RmFVUnlBWnJ1VWlNSWYtaGxTZDhTVkRNTWlXcFctbFIyU09KdlFQNGNtMndDSmNVZDB4MnpmMTNXRVAtaXFhVTlaSEhLWmwzcjNYMEtacjRJUmhySjg3dEZnRGlQOUEzRmxXUURHSWdneVNBQnRfU3hoZzRHd05veW54cEVGQ1NGY01uV0JYN2RvYnFsdVFyNzVaX1pxVVpBSlNwRnpOWFo5Rzd1Y25zQWU0c2tlV2RFUE12M3hQMWFKSVVlbmtiSUFZ?oc=5"
         }
       ]
     },
@@ -60,6 +72,18 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2t3d3RWM19aRTFlMmFJVVZYMWZLYUhYM0ZJR0RheGhRem5sODdaUzBmOEdBVWJUOWtyZ2l5aExJTlp4TEUteS1zMS1iclpadDh6T0xlaWYyRFk3MWJBVWE1SHczY2pNeHdDTGtwaFNTQWdVSUFialZoLXN3OThIR1NmcnR3LXA1UDFsSG0yM25WVVJQei1XQ1dCNHM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fd2889d7f26f",
+      "title": "【單詞故事】從西班牙流感到超級網紅| 病毒 | 英文 | 網紅 - 台灣大紀元",
+      "published": "2026-06-26T11:08:15+00:00",
+      "summary": "【單詞故事】從西班牙流感到超級網紅| 病毒 | 英文 | 網紅&nbsp;&nbsp;台灣大紀元",
+      "sources": [
+        {
+          "name": "台灣大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOREFSd0NnNXVycHRCWjRKclRBWkt2RjZ0VlFPb24tOVQ5RUM3WWxXUFV0V3V3a3JWeHF4R0ZFNjlNWWIwUEFSLTZzRF81Uk14Yncwd0lfSHVIbjlBdWlEVk1DRUtJamFLcFE0dUt4Y2ktZnlta3BYM3BHc2s2Sk9Tam1ndTJyNThFWWRqM3ZuNlRtR2xMM0pDZW9FNmxTR1VvUnY2YWxjS3Z6djkxbDNkRkhzRW5mU2JkUlV1NW80Yy1RUUN3YllXUC01SnlPUWR0bHdUMUphYnZIOVJoalAzejZwWGhaR0phUHFDYmZzUDVfVnRoeU9fOGxlMGJpdGJnUE9fcDRDN00?oc=5"
         }
       ]
     },
@@ -84,18 +108,6 @@
         {
           "name": "科技島",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rR0U3SEJhaVVmcTlvZzlpWFlESlBneS1mQTI2OXlMQ0dxdl9teXBTcWhVYjU4aW5fM1N0THo4cU1JXzJ6Q1pvUXEyaDhmSjUweHJMbFlqMFRuODJzTWpJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5e161fc36395",
-      "title": "大腸癌「隱形斗篷」遭破解 關閉1開關讓腫瘤全消退 - Yahoo新聞",
-      "published": "2026-06-25T04:11:16+00:00",
-      "summary": "大腸癌「隱形斗篷」遭破解 關閉1開關讓腫瘤全消退&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQNnRHdWtRSk9TU25QcC1tbmxzWVZiNXhlM21VamFUZmtHd3VEOXhicE85a0JCSE44UWFCc05ZZWlCNElOSU40ckxFaU1KaGZBeGljU29wVkhjWHRERG9YaS11eHdja3JTZ0p0ai0zZmNqZ19Oa0xrckw5djQ3NFB4SldGMGlBUFIxVnBqOTk4anpESjJSY01kdGV1OXNRX0lvcnAyb19wMWNmbHRUV0JDZ2k2aEdLX2xUNEQxYXR4c1ZlemJlWW9pUUhXNUNWa1o5b19BZDFwQ3ZtTEljUEJNNXJKc3Nvc2xWQkl2UGp4UW5WMV9JMGwtVUtNSlVrZVdVUml0YVF3OHlUQ3U3UVhuNlZNUEVtSGFrY2g3MTdLNkllc2JVbnBqU0cxUDZOWVotRk9neFNjLWp5Z1FCSzBYUmJ6NDVyMVBl?oc=5"
         }
       ]
     },
@@ -172,6 +184,18 @@
       ]
     },
     {
+      "id": "8c85377d6e79",
+      "title": "唇瘡︱30歲女嘴角生水泡 當熱氣塗藥膏飲涼茶 竟是疱疹上腦 終致腦死亡 - 香港經濟日報HKET",
+      "published": "2026-06-26T09:05:33+00:00",
+      "summary": "唇瘡︱30歲女嘴角生水泡 當熱氣塗藥膏飲涼茶 竟是疱疹上腦 終致腦死亡&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxOZXQtOUlHZTFtckxWaGc5THlWNFJZX2FtakVsVmc5RFpWVGtfb1RORmQxbHhHRS1wU3hmLUEtTHM4d3NCRW9aMEN6SFl2eXVfdlJ3WXhvdUZ5bi1ROU5HRThodHBaSHBvSWVfMHFBd3BkaHNEcENEb2xwUThIZ0c5X0hxVVREQWoyOUxrV2w1cEFvVDB2UWpNZDZOS09CbzR3QzVFTFJ0VHRTR0ZnWElEOHl0dnhxYzZiamhMb2RVSm9VMElNa2cwR09WcnhkdUtNbUJiUVlkYzFtUmZ1bkQwbTRHelRQYTh3S045QW14RFNHVHIyTDF5eFRGR2ZOdkZnWjlIWW1KbDJadnBJOURaMVpzLU42YVVIQldCSmowTlpTM1pQUWJkQk02Wm5WY1MxWEM3eXJFTm9lU280SHJOa0UtbjZZU0JlSmZhS05kVjNBWFFTSnZBTU5abEI3ZXc0eW0wenRDdUJ0UTl1OFlCNUN3cnNCcmktdTkwMHAxd19hTGc4WjhkdmpRS3VOOHNYcnV0cXVwYzBfbE4waDdZVWJfcmJ4MkdnLXpLLVAwT010OW1ic3JaZDc1LUdYWm11MGNSYzA5Ry14bER3akZJeXRTZU9La3d4NHlsdDhaaUc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "02469c680d76",
       "title": "卑詩社區主導危機應對服務3年接約2萬宗求助有效減輕警方處理個案壓力| 事事如意生活網站 - CCUE.ca",
       "published": "2026-06-25T19:53:53+00:00",
@@ -204,18 +228,6 @@
         {
           "name": "明報健康網",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQcTFseGpYVkVQamRlT1M2cF8tS1ZxRm9neG9JLVJlZ1ZMQTZMeEMxZEV1enVrVm5faXpoY2tWRVROZEZQdFk3T1hPN056V2ttZE1DbHdXYXdqZVRVdzBXcm1UR3lKNGxfWkdFTEdoaVc5dGwxYk5weFVzQU5sa1JhbWxoR21PRVhxUkpoU2VSbXhJSlByYlNaajZMbmRzY0pTRXFoRDVSTVhuTlliRXlILV9hNGdxX1pZNFFTMlN2WWRGOVFaVHRwVi1xYjhPWVN4R0tvS0NhdlZNdDNaMmxGNVZNcGFydlZsdFloQ1BQak5VemloVWVxMHpDdzNTREdUY2Rjelh0UEdrbk8xZjVhanBwcWdaLVVodjRiSW9XTmp2c2xnTmRjWGZVYzNpTmd6WFpsS09yS2VKQ0lMRExzODYtajZlaXRXYmREMw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d7e7dd26f126",
-      "title": "感染風險不容忽視 疫苗學堂倡「預防勝於治療」 - 醫理說",
-      "published": "2026-06-25T03:49:28+00:00",
-      "summary": "感染風險不容忽視 疫苗學堂倡「預防勝於治療」&nbsp;&nbsp;醫理說",
-      "sources": [
-        {
-          "name": "醫理說",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQZWZKa1ZzRG1YU2ZCczNZSnVFeTdYcWtGM1lIY3ByYmRaZHZ4cVZ3UEtnOTMzQVRUa0NGNl80R3VYSFJaY3c5VWpydmJNbFEwY1B3RXVWdXJ1bkt6NEwxT01HTF8wMUptTWxxYlU0QmZ2T2JVcGRyRkVYcG5sTXFFWmFRZWtILTBtYUdQekM2dUNWdTVJSW9Uc0hrcUdsM21zd2VrNDlyeXUtNXZvSFpfcWIxVmt4eFkyanhucjdiUE5JS21BZUotLUJtc2NHWklxZVZydlZWVUJOaXMwYV9Vc25zSnVVaVRfVnJPVHVsM0xHMldHc2M3eU5nLWRmWG90UUFqR1huNXY2YTBGVUpGSENxR2t3UkQyamoyTHkwTTB1LURrLTgyRXhTZmhsanBmRS1sWkJxSkt4dDRnX3JTdlp0UVF1ZGdubW41b2JVekZKZFNHQjAtR3ZJUXVkX0U?oc=5"
         }
       ]
     }

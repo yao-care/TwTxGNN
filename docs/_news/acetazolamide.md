@@ -44,6 +44,14 @@ permalink: /news/acetazolamide/
 
 ## 相關新聞（4 則）
 
+### [5癌症警訊 常誤以為是老化或壓力](https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tZWpkMktHQlA1VGg2WnJKVUNiQXVudUxKQy1JTFZMRktyRG83M0t6UzJXTTU4ZjNMODVsRlZVX1JlSnRDMXdYdndOTW5yVHZmSll1ajRoXzM3Tzhoc0tmMjFn0gFnQVVfeXFMTmp3UzRZNVg2NnVmOGtoZ29Rd0VkQm83cHAtSVJrMGhFVTNMOU9pRDRJRDdDbHJVbDJ6YVdXYmJzSGp3ejdDaWFoemVEd3dHRHc2MlFabzVoVUQtMnR1M3VVQ05ZUldybw?oc=5)
+
+2026-06-27 <span class="news-indication-tag">癌症</span>
+
+來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tZWpkMktHQlA1VGg2WnJKVUNiQXVudUxKQy1JTFZMRktyRG83M0t6UzJXTTU4ZjNMODVsRlZVX1JlSnRDMXdYdndOTW5yVHZmSll1ajRoXzM3Tzhoc0tmMjFn0gFnQVVfeXFMTmp3UzRZNVg2NnVmOGtoZ29Rd0VkQm83cHAtSVJrMGhFVTNMOU9pRDRJRDdDbHJVbDJ6YVdXYmJzSGp3ejdDaWFoemVEd3dHRHc2MlFabzVoVUQtMnR1M3VVQ05ZUldybw?oc=5)
+
+---
+
 ### [HPV 疫苗成效達成新里程碑，英國 20~24 歲女性子宮頸癌連五年 0 死亡 - TechNews 科技新報](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2t3d3RWM19aRTFlMmFJVVZYMWZLYUhYM0ZJR0RheGhRem5sODdaUzBmOEdBVWJUOWtyZ2l5aExJTlp4TEUteS1zMS1iclpadDh6T0xlaWYyRFk3MWJBVWE1SHczY2pNeHdDTGtwaFNTQWdVSUFialZoLXN3OThIR1NmcnR3LXA1UDFsSG0yM25WVVJQei1XQ1dCNHM?oc=5)
 
 2026-06-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
@@ -65,14 +73,6 @@ permalink: /news/acetazolamide/
 2026-06-26 <span class="news-indication-tag">癲癇</span>
 
 來源：[經濟日報](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jemhJNzhTRmduWE1fSmZ2TjhjdnZWRFFYOFlHNmhkQWRDR0ZLek1zVXJBdW9kZUNpWVdSQTZVLU9YNXpkT2JKVVByWUJyVUJBRF9VcHd3X09HeWRU0gFiQVVfeXFMT3VoUDU1blJaUW84RE5uREJXcnlqQ3lDd0ktRjRWMUVDckVwcGRzSXZMODdlLXlYbkhjelRJZExIN0ZOclZuZFpQdW41NFNpZGxaYzYwYkNDemh0aVc5LVhHcmc?oc=5)
-
----
-
-### [大腸癌「隱形斗篷」遭破解 關閉1開關讓腫瘤全消退](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQNnRHdWtRSk9TU25QcC1tbmxzWVZiNXhlM21VamFUZmtHd3VEOXhicE85a0JCSE44UWFCc05ZZWlCNElOSU40ckxFaU1KaGZBeGljU29wVkhjWHRERG9YaS11eHdja3JTZ0p0ai0zZmNqZ19Oa0xrckw5djQ3NFB4SldGMGlBUFIxVnBqOTk4anpESjJSY01kdGV1OXNRX0lvcnAyb19wMWNmbHRUV0JDZ2k2aEdLX2xUNEQxYXR4c1ZlemJlWW9pUUhXNUNWa1o5b19BZDFwQ3ZtTEljUEJNNXJKc3Nvc2xWQkl2UGp4UW5WMV9JMGwtVUtNSlVrZVdVUml0YVF3OHlUQ3U3UVhuNlZNUEVtSGFrY2g3MTdLNkllc2JVbnBqU0cxUDZOWVotRk9neFNjLWp5Z1FCSzBYUmJ6NDVyMVBl?oc=5)
-
-2026-06-25 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQNnRHdWtRSk9TU25QcC1tbmxzWVZiNXhlM21VamFUZmtHd3VEOXhicE85a0JCSE44UWFCc05ZZWlCNElOSU40ckxFaU1KaGZBeGljU29wVkhjWHRERG9YaS11eHdja3JTZ0p0ai0zZmNqZ19Oa0xrckw5djQ3NFB4SldGMGlBUFIxVnBqOTk4anpESjJSY01kdGV1OXNRX0lvcnAyb19wMWNmbHRUV0JDZ2k2aEdLX2xUNEQxYXR4c1ZlemJlWW9pUUhXNUNWa1o5b19BZDFwQ3ZtTEljUEJNNXJKc3Nvc2xWQkl2UGp4UW5WMV9JMGwtVUtNSlVrZVdVUml0YVF3OHlUQ3U3UVhuNlZNUEVtSGFrY2g3MTdLNkllc2JVbnBqU0cxUDZOWVotRk9neFNjLWp5Z1FCSzBYUmJ6NDVyMVBl?oc=5)
 
 ---
 
