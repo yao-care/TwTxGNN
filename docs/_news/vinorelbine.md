@@ -14,7 +14,7 @@ permalink: /news/vinorelbine/
 ---
 
 <p class="key-answer" data-question="Vinorelbine 有什麼相關新聞？">
-<strong>Vinorelbine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vinorelbine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ permalink: /news/vinorelbine/
 <li>lung germ cell tumor（100.0%）</li>
 <li>pulmonary sulcus neoplasm（100.0%）</li>
 <li>hamartoma of lung（100.0%）</li>
-<li class="indication-matched">small cell lung carcinoma（100.0%）<span class="indication-tag">📰 肺癌</span></li>
+<li>small cell lung carcinoma（100.0%）</li>
 <li>lung benign neoplasm（100.0%）</li>
 <li>lung hilum carcinoma（100.0%）</li>
 <li>pulmonary blastoma（100.0%）</li>
@@ -42,7 +42,7 @@ permalink: /news/vinorelbine/
 <p><a href="{{ '/drugs/vinorelbine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [5癌症警訊 常誤以為是老化或壓力](https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tZWpkMktHQlA1VGg2WnJKVUNiQXVudUxKQy1JTFZMRktyRG83M0t6UzJXTTU4ZjNMODVsRlZVX1JlSnRDMXdYdndOTW5yVHZmSll1ajRoXzM3Tzhoc0tmMjFn0gFnQVVfeXFMTmp3UzRZNVg2NnVmOGtoZ29Rd0VkQm83cHAtSVJrMGhFVTNMOU9pRDRJRDdDbHJVbDJ6YVdXYmJzSGp3ejdDaWFoemVEd3dHRHc2MlFabzVoVUQtMnR1M3VVQ05ZUldybw?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/vinorelbine/
 2026-06-27 <span class="news-indication-tag">癌症</span>
 
 來源：[Ming Pao Weekly](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaTJXOUxkdmFJaEhyTFJUOGhFZlY4TW1CenQ1Z2NjMEd5R1VDM0R1SVhvbXo1VnRjdHVLVXh5S1h6eGk5NnlMY0JDZ0J3Y0ZYVW9OUkxOb1ZxZlpUaV94RElRU2pMdDJITFZEVXZsdHk3Q2o5Vjc3enhGejUwVlBkMFpBYXRhdXhUeTdaMVhGZmpoeVlfYjhfdG9XdHZoaXNfRmFhZi1DaVZiVkpleHJNa0J3ajBCOS01MHVuMlRkbGtyNl8wMWI2ekQwV29zQ3pvUE5RSFVER3g?oc=5)
-
----
-
-### [32歲女拳手不吸煙竟患肺癌末期！新婚兩週無家族病史僅咳嗽已罹癌／初診被誤當哮喘 - U Food](https://news.google.com/rss/articles/CBMiigRBVV95cUxNOTh0ZE11U1hQOGM1S21xb1VjLV9MNEtfdkFOTGJfNUlfMV9iWGh1WHpWMjVFSThZN0sxQVFrWGlRSnhvazg5cElLdDRUVDZSbE9zVVRXczU0VHFpc0J5YzlGUUttWGhOWUtuU1p1dG9Peldjblg5Q3FidGtCYjhPUUsxMVhNUk96MFRvX3lpZkhLRHpiUlN6UERMYXdvZmlIX3lnbEJlSmFKZ3VtbV9ZY0NLRkhmS1F3akp2MnNiNEV0WmVuUk10OVVLZnhISnpEdnZfZVFUQnFpM2VqQkVLaC16YU9KU3RCUHBSZFVkU1EwRndFMDB2NTE3bHA4Q2xXdGlvMFFWZXBCUEJ4SVgtS1hlVmF0MS1lcm51bG5odDlaTkhGSXA1ZXpOQlF4STNwbUVzLXNtU2l2dzRhaDJFd0ttazlOMV9QOUY4MkZDT1VZbUxqeVBBSUN1ZzAwSXQyN1hBME5kMlZ1UHVkV3c1WHEwRzJ6REtTRjFydlRGOVRlNVRWdkJfUFBLVm1RWmF3R2pMTWZudjFLTFRKQ2hZclVLRF95S0k3RlVFNUNkT3huZDVWQmlqa2YyckJVaVVqQmRaUjVUSmlqNVk5TkFkVUlGeUhiUUJzcllMT1YzakgtUVZQS2N1dW0xUlpmRDlrZFZSdDFiemFXSW1qYktCLXJ1RzNTbHM3QkE?oc=5)
-
-2026-06-25 <span class="news-indication-tag">肺癌</span>
-
-來源：[U Food](https://news.google.com/rss/articles/CBMiigRBVV95cUxNOTh0ZE11U1hQOGM1S21xb1VjLV9MNEtfdkFOTGJfNUlfMV9iWGh1WHpWMjVFSThZN0sxQVFrWGlRSnhvazg5cElLdDRUVDZSbE9zVVRXczU0VHFpc0J5YzlGUUttWGhOWUtuU1p1dG9Peldjblg5Q3FidGtCYjhPUUsxMVhNUk96MFRvX3lpZkhLRHpiUlN6UERMYXdvZmlIX3lnbEJlSmFKZ3VtbV9ZY0NLRkhmS1F3akp2MnNiNEV0WmVuUk10OVVLZnhISnpEdnZfZVFUQnFpM2VqQkVLaC16YU9KU3RCUHBSZFVkU1EwRndFMDB2NTE3bHA4Q2xXdGlvMFFWZXBCUEJ4SVgtS1hlVmF0MS1lcm51bG5odDlaTkhGSXA1ZXpOQlF4STNwbUVzLXNtU2l2dzRhaDJFd0ttazlOMV9QOUY4MkZDT1VZbUxqeVBBSUN1ZzAwSXQyN1hBME5kMlZ1UHVkV3c1WHEwRzJ6REtTRjFydlRGOVRlNVRWdkJfUFBLVm1RWmF3R2pMTWZudjFLTFRKQ2hZclVLRF95S0k3RlVFNUNkT3huZDVWQmlqa2YyckJVaVVqQmRaUjVUSmlqNVk5TkFkVUlGeUhiUUJzcllMT1YzakgtUVZQS2N1dW0xUlpmRDlrZFZSdDFiemFXSW1qYktCLXJ1RzNTbHM3QkE?oc=5)
 
 ---
 

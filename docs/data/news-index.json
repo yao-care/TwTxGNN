@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-27T09:23:30.567127+00:00",
-  "count": 6,
+  "generated": "2026-06-27T11:21:05.408465+00:00",
+  "count": 5,
   "news": [
     {
       "id": "e18f16d07250",
@@ -702,38 +702,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e4906892d33b",
-      "title": "32歲女拳手不吸煙竟患肺癌末期！新婚兩週無家族病史僅咳嗽已罹癌／初診被誤當哮喘 - U Food",
-      "published": "2026-06-25T09:20:31+00:00",
-      "sources": [
-        {
-          "name": "U Food",
-          "link": "https://news.google.com/rss/articles/CBMiigRBVV95cUxNOTh0ZE11U1hQOGM1S21xb1VjLV9MNEtfdkFOTGJfNUlfMV9iWGh1WHpWMjVFSThZN0sxQVFrWGlRSnhvazg5cElLdDRUVDZSbE9zVVRXczU0VHFpc0J5YzlGUUttWGhOWUtuU1p1dG9Peldjblg5Q3FidGtCYjhPUUsxMVhNUk96MFRvX3lpZkhLRHpiUlN6UERMYXdvZmlIX3lnbEJlSmFKZ3VtbV9ZY0NLRkhmS1F3akp2MnNiNEV0WmVuUk10OVVLZnhISnpEdnZfZVFUQnFpM2VqQkVLaC16YU9KU3RCUHBSZFVkU1EwRndFMDB2NTE3bHA4Q2xXdGlvMFFWZXBCUEJ4SVgtS1hlVmF0MS1lcm51bG5odDlaTkhGSXA1ZXpOQlF4STNwbUVzLXNtU2l2dzRhaDJFd0ttazlOMV9QOUY4MkZDT1VZbUxqeVBBSUN1ZzAwSXQyN1hBME5kMlZ1UHVkV3c1WHEwRzJ6REtTRjFydlRGOVRlNVRWdkJfUFBLVm1RWmF3R2pMTWZudjFLTFRKQ2hZclVLRF95S0k3RlVFNUNkT3huZDVWQmlqa2YyckJVaVVqQmRaUjVUSmlqNVk5TkFkVUlGeUhiUUJzcllMT1YzakgtUVZQS2N1dW0xUlpmRDlrZFZSdDFiemFXSW1qYktCLXJ1RzNTbHM3QkE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
             }
           ]
         }
