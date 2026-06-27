@@ -14,7 +14,7 @@ permalink: /news/vinorelbine/
 ---
 
 <p class="key-answer" data-question="Vinorelbine 有什麼相關新聞？">
-<strong>Vinorelbine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vinorelbine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/vinorelbine/
 <p><a href="{{ '/drugs/vinorelbine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [HPV 疫苗成效達成新里程碑，英國 20~24 歲女性子宮頸癌連五年 0 死亡 - TechNews 科技新報](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2t3d3RWM19aRTFlMmFJVVZYMWZLYUhYM0ZJR0RheGhRem5sODdaUzBmOEdBVWJUOWtyZ2l5aExJTlp4TEUteS1zMS1iclpadDh6T0xlaWYyRFk3MWJBVWE1SHczY2pNeHdDTGtwaFNTQWdVSUFialZoLXN3OThIR1NmcnR3LXA1UDFsSG0yM25WVVJQei1XQ1dCNHM?oc=5)
+
+2026-06-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2t3d3RWM19aRTFlMmFJVVZYMWZLYUhYM0ZJR0RheGhRem5sODdaUzBmOEdBVWJUOWtyZ2l5aExJTlp4TEUteS1zMS1iclpadDh6T0xlaWYyRFk3MWJBVWE1SHczY2pNeHdDTGtwaFNTQWdVSUFialZoLXN3OThIR1NmcnR3LXA1UDFsSG0yM25WVVJQei1XQ1dCNHM?oc=5)
+
+---
+
+### [香港癌症基金會專欄：「港兄弟•講檢查」關注男性癌症講座 – 健康飲食之道-專欄- 明周文化 - Ming Pao Weekly](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaTJXOUxkdmFJaEhyTFJUOGhFZlY4TW1CenQ1Z2NjMEd5R1VDM0R1SVhvbXo1VnRjdHVLVXh5S1h6eGk5NnlMY0JDZ0J3Y0ZYVW9OUkxOb1ZxZlpUaV94RElRU2pMdDJITFZEVXZsdHk3Q2o5Vjc3enhGejUwVlBkMFpBYXRhdXhUeTdaMVhGZmpoeVlfYjhfdG9XdHZoaXNfRmFhZi1DaVZiVkpleHJNa0J3ajBCOS01MHVuMlRkbGtyNl8wMWI2ekQwV29zQ3pvUE5RSFVER3g?oc=5)
+
+2026-06-27 <span class="news-indication-tag">癌症</span>
+
+來源：[Ming Pao Weekly](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaTJXOUxkdmFJaEhyTFJUOGhFZlY4TW1CenQ1Z2NjMEd5R1VDM0R1SVhvbXo1VnRjdHVLVXh5S1h6eGk5NnlMY0JDZ0J3Y0ZYVW9OUkxOb1ZxZlpUaV94RElRU2pMdDJITFZEVXZsdHk3Q2o5Vjc3enhGejUwVlBkMFpBYXRhdXhUeTdaMVhGZmpoeVlfYjhfdG9XdHZoaXNfRmFhZi1DaVZiVkpleHJNa0J3ajBCOS01MHVuMlRkbGtyNl8wMWI2ekQwV29zQ3pvUE5RSFVER3g?oc=5)
+
+---
 
 ### [32歲女拳手不吸煙竟患肺癌末期！新婚兩週無家族病史僅咳嗽已罹癌／初診被誤當哮喘 - U Food](https://news.google.com/rss/articles/CBMiigRBVV95cUxNOTh0ZE11U1hQOGM1S21xb1VjLV9MNEtfdkFOTGJfNUlfMV9iWGh1WHpWMjVFSThZN0sxQVFrWGlRSnhvazg5cElLdDRUVDZSbE9zVVRXczU0VHFpc0J5YzlGUUttWGhOWUtuU1p1dG9Peldjblg5Q3FidGtCYjhPUUsxMVhNUk96MFRvX3lpZkhLRHpiUlN6UERMYXdvZmlIX3lnbEJlSmFKZ3VtbV9ZY0NLRkhmS1F3akp2MnNiNEV0WmVuUk10OVVLZnhISnpEdnZfZVFUQnFpM2VqQkVLaC16YU9KU3RCUHBSZFVkU1EwRndFMDB2NTE3bHA4Q2xXdGlvMFFWZXBCUEJ4SVgtS1hlVmF0MS1lcm51bG5odDlaTkhGSXA1ZXpOQlF4STNwbUVzLXNtU2l2dzRhaDJFd0ttazlOMV9QOUY4MkZDT1VZbUxqeVBBSUN1ZzAwSXQyN1hBME5kMlZ1UHVkV3c1WHEwRzJ6REtTRjFydlRGOVRlNVRWdkJfUFBLVm1RWmF3R2pMTWZudjFLTFRKQ2hZclVLRF95S0k3RlVFNUNkT3huZDVWQmlqa2YyckJVaVVqQmRaUjVUSmlqNVk5TkFkVUlGeUhiUUJzcllMT1YzakgtUVZQS2N1dW0xUlpmRDlrZFZSdDFiemFXSW1qYktCLXJ1RzNTbHM3QkE?oc=5)
 
