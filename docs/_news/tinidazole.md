@@ -14,7 +14,7 @@ permalink: /news/tinidazole/
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/tinidazole/
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [5癌症警訊 常誤以為是老化或壓力](https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tZWpkMktHQlA1VGg2WnJKVUNiQXVudUxKQy1JTFZMRktyRG83M0t6UzJXTTU4ZjNMODVsRlZVX1JlSnRDMXdYdndOTW5yVHZmSll1ajRoXzM3Tzhoc0tmMjFn0gFnQVVfeXFMTmp3UzRZNVg2NnVmOGtoZ29Rd0VkQm83cHAtSVJrMGhFVTNMOU9pRDRJRDdDbHJVbDJ6YVdXYmJzSGp3ejdDaWFoemVEd3dHRHc2MlFabzVoVUQtMnR1M3VVQ05ZUldybw?oc=5)
-
-2026-06-27 <span class="news-indication-tag">癌症</span>
-
-來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tZWpkMktHQlA1VGg2WnJKVUNiQXVudUxKQy1JTFZMRktyRG83M0t6UzJXTTU4ZjNMODVsRlZVX1JlSnRDMXdYdndOTW5yVHZmSll1ajRoXzM3Tzhoc0tmMjFn0gFnQVVfeXFMTmp3UzRZNVg2NnVmOGtoZ29Rd0VkQm83cHAtSVJrMGhFVTNMOU9pRDRJRDdDbHJVbDJ6YVdXYmJzSGp3ejdDaWFoemVEd3dHRHc2MlFabzVoVUQtMnR1M3VVQ05ZUldybw?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [HPV 疫苗成效達成新里程碑，英國 20~24 歲女性子宮頸癌連五年 0 死亡 - TechNews 科技新報](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2t3d3RWM19aRTFlMmFJVVZYMWZLYUhYM0ZJR0RheGhRem5sODdaUzBmOEdBVWJUOWtyZ2l5aExJTlp4TEUteS1zMS1iclpadDh6T0xlaWYyRFk3MWJBVWE1SHczY2pNeHdDTGtwaFNTQWdVSUFialZoLXN3OThIR1NmcnR3LXA1UDFsSG0yM25WVVJQei1XQ1dCNHM?oc=5)
 
