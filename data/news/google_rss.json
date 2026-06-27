@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-27T13:13:20.022131+00:00",
-  "count": 17,
+  "fetched_at": "2026-06-27T15:08:58.765755+00:00",
+  "count": 16,
   "news": [
     {
       "id": "3d2d646d99d0",
@@ -88,22 +88,10 @@
       ]
     },
     {
-      "id": "cc47b9bd214f",
-      "title": "新研究顯示，肥胖率在年輕成人中上升最快 - gamereactor.cn",
-      "published": "2026-06-25T13:40:00+00:00",
-      "summary": "新研究顯示，肥胖率在年輕成人中上升最快&nbsp;&nbsp;gamereactor.cn",
-      "sources": [
-        {
-          "name": "gamereactor.cn",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUhGXzJ2VEFvbkJrTmFmeGRPLWZXX1RKSlVCZjVmUUh2djJ6ME5Zd0dLOVVFaVd0dWdjWllUOFRUY0Z2ZnVkOWVXUkRzeGhpdzV4RFo5NzJETzBzbmJKejVnZVFTUUc1azhSemRDTmZjblg5bkJ1MUJYUzVwb1BaTHl3T3RaeXp0SEpuUWFWRHJscjNmSGVXYQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8264a57e7908",
       "title": "不是冬天才會中新冠、流感！醫揭病毒流行新趨勢：夏天發燒、喉嚨痛更要把握「這段時間」 - 良醫健康網",
       "published": "2026-06-26T07:42:36+00:00",
-      "summary": "不是冬天才會中新冠、流感！醫揭病毒流行新趨勢：夏天發燒、喉嚨痛更要把握「這段時間」&nbsp;&nbsp;良醫健康網新冠病毒｜許樹昌指近期入院個案增多 恐與流感一同「夏季爆發」&nbsp;&nbsp;香港01夏季流感風險升溫 甲乙型個案齊升 及早接種疫苗增保護&nbsp;&nbsp;東周刊許樹昌：半年未見流感爆發 小心提防夏季高峰&nbsp;&nbsp;am730夏天喉嚨痛發燒不只是中暑？醫生揭6大夏季流行病毒！1類場所最易爆發手足口病| 事事如意生活網站&nbsp;&nbsp;CCUE.ca",
+      "summary": "不是冬天才會中新冠、流感！醫揭病毒流行新趨勢：夏天發燒、喉嚨痛更要把握「這段時間」&nbsp;&nbsp;良醫健康網新冠病毒｜許樹昌指近期入院個案增多 恐與流感一同「夏季爆發」&nbsp;&nbsp;香港01夏季流感風險升溫 甲乙型個案齊升 及早接種疫苗增保護&nbsp;&nbsp;東周刊許樹昌：半年未見流感爆發 小心提防夏季高峰&nbsp;&nbsp;AM730夏天喉嚨痛發燒不只是中暑？醫生揭6大夏季流行病毒！1類場所最易爆發手足口病| 事事如意生活網站&nbsp;&nbsp;CCUE.ca",
       "sources": [
         {
           "name": "良醫健康網",
