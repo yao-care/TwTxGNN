@@ -45,7 +45,7 @@ permalink: /news/gefitinib/
 
 ### [明明不是腦部疾病，為何也會增加失智風險？研究點名16種高風險疾病｜大腦健康｜失智](https://news.google.com/rss/articles/CBMigwFBVV95cUxOMGhSTXcxSXhDMUktVEs3aEVKLVNnWlpSeElkd2J3djllejVQZjhNZ2NQYUhUWWxSX1NQYWhveldLaHpjQmVLemdWTF9TQS1Sc1pyMXpBU1ViR0V0VTZyVzR6NGRxajZpNVlIcHJTREdRcG9DcEdHZEE0QWx1UlI3OWdkbw?oc=5)
 
-2026-06-27 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+2026-06-27 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMigwFBVV95cUxOMGhSTXcxSXhDMUktVEs3aEVKLVNnWlpSeElkd2J3djllejVQZjhNZ2NQYUhUWWxSX1NQYWhveldLaHpjQmVLemdWTF9TQS1Sc1pyMXpBU1ViR0V0VTZyVzR6NGRxajZpNVlIcHJTREdRcG9DcEdHZEE0QWx1UlI3OWdkbw?oc=5)
 

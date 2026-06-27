@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-27T21:55:17.157036+00:00",
+  "generated": "2026-06-27T22:55:52.622245+00:00",
   "count": 4,
   "news": [
     {
@@ -16,6 +16,17 @@
         {
           "type": "indication",
           "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
           "keyword": "阿茲海默症",
           "related_drugs": [
             {
