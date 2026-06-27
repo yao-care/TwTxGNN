@@ -43,6 +43,14 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（3 則）
 
+### [明明不是腦部疾病，為何也會增加失智風險？研究點名16種高風險疾病｜大腦健康｜失智](https://news.google.com/rss/articles/CBMigwFBVV95cUxOMGhSTXcxSXhDMUktVEs3aEVKLVNnWlpSeElkd2J3djllejVQZjhNZ2NQYUhUWWxSX1NQYWhveldLaHpjQmVLemdWTF9TQS1Sc1pyMXpBU1ViR0V0VTZyVzR6NGRxajZpNVlIcHJTREdRcG9DcEdHZEE0QWx1UlI3OWdkbw?oc=5)
+
+2026-06-27 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMigwFBVV95cUxOMGhSTXcxSXhDMUktVEs3aEVKLVNnWlpSeElkd2J3djllejVQZjhNZ2NQYUhUWWxSX1NQYWhveldLaHpjQmVLemdWTF9TQS1Sc1pyMXpBU1ViR0V0VTZyVzR6NGRxajZpNVlIcHJTREdRcG9DcEdHZEE0QWx1UlI3OWdkbw?oc=5)
+
+---
+
 ### [HPV 疫苗成效達成新里程碑，英國 20~24 歲女性子宮頸癌連五年 0 死亡 - TechNews 科技新報](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2t3d3RWM19aRTFlMmFJVVZYMWZLYUhYM0ZJR0RheGhRem5sODdaUzBmOEdBVWJUOWtyZ2l5aExJTlp4TEUteS1zMS1iclpadDh6T0xlaWYyRFk3MWJBVWE1SHczY2pNeHdDTGtwaFNTQWdVSUFialZoLXN3OThIR1NmcnR3LXA1UDFsSG0yM25WVVJQei1XQ1dCNHM?oc=5)
 
 2026-06-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
@@ -56,14 +64,6 @@ permalink: /news/gefitinib/
 2026-06-27 <span class="news-indication-tag">癌症</span>
 
 來源：[Ming Pao Weekly](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaTJXOUxkdmFJaEhyTFJUOGhFZlY4TW1CenQ1Z2NjMEd5R1VDM0R1SVhvbXo1VnRjdHVLVXh5S1h6eGk5NnlMY0JDZ0J3Y0ZYVW9OUkxOb1ZxZlpUaV94RElRU2pMdDJITFZEVXZsdHk3Q2o5Vjc3enhGejUwVlBkMFpBYXRhdXhUeTdaMVhGZmpoeVlfYjhfdG9XdHZoaXNfRmFhZi1DaVZiVkpleHJNa0J3ajBCOS01MHVuMlRkbGtyNl8wMWI2ekQwV29zQ3pvUE5RSFVER3g?oc=5)
-
----
-
-### [不只是變老！研究曝「1器官退化」超傷腦 失智風險激增33%](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ERzRKUnoyZlhoMEpDZFFMRFR6SGQ5MjVXRkhpd2NpWElza0ZudmdORXBLZ0Ewbi1uWmFUbW5HT1ZET3hFaEMwcUVzRW8?oc=5)
-
-2026-06-26 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
-
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ERzRKUnoyZlhoMEpDZFFMRFR6SGQ5MjVXRkhpd2NpWElza0ZudmdORXBLZ0Ewbi1uWmFUbW5HT1ZET3hFaEMwcUVzRW8?oc=5)
 
 ---
 
