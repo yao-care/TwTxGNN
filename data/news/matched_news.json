@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-06-27T20:03:13.391036+00:00",
+  "last_updated": "2026-06-27T21:55:17.126319+00:00",
   "total_count": 17,
   "matched_count": 4,
   "news": [
+    {
+      "id": "970f6d01bc01",
+      "title": "蔡嘉軒手術縫補蟹足腫患者人生",
+      "published": "2026-06-27T20:10:00+00:00",
+      "summary": "蔡嘉軒手術縫補蟹足腫患者人生&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPM096Y1ZFcUhZR21nN2pRaWlxOVZQQk5hU2tQWHJMRzczbloyZWZpUkpPdnRVQVByNXcta2dVYl9ydjgwS3RVeXhqa2dDREgwLTJxcTQzaWpfUWJYdlRVSUFUZUlrXzByTWIzdy14VjlXcVdiWTc4U0NsLWgyQWgzN3VNU19LdkRZSThtNUdMWGVkQXBTSTAwdGE5ak4zUWNPU1ZRQm54ZmNrSXZmdnREcmxqcnJJaHQ5cFJ2MUluaUNVUGVRX1U3VmlvYzgwd2NGN3g0ZzFXU05LYkR5VElmSy00OGFaYXNHMElNTnBYRHE1VnVzMG95dzBSWQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "266eb1b331c4",
       "title": "伊波拉疫區返港市民 衞生署籲主動申報",
@@ -43,14 +56,14 @@
       "matched_keywords": []
     },
     {
-      "id": "a6579cf70878",
+      "id": "1fec8a38cb79",
       "title": "AI揪出抗藥性淋病新剋星 陰道晶片驗證成功",
-      "published": "2026-06-27T03:50:22+00:00",
-      "summary": "AI揪出抗藥性淋病新剋星 陰道晶片驗證成功&nbsp;&nbsp;Yahoo新聞",
+      "published": "2026-06-27T03:40:00+00:00",
+      "summary": "AI揪出抗藥性淋病新剋星 陰道晶片驗證成功&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPbHJZUVVWTDBfLXFnMzB2UFRqZDlWazhIWlRETmZCcFJRRGVyMXdoRm1uNEFzVi1mUjhvdTdwX21rNGNqcEtUNHhiU0phb3J4dVVPRTcyc3lyOXRGN1ZibzdydHBHa3d0dGdYcWkwWUpTZDlvdWNwZURVVGVhZDZQNlIzY2NPakVvUlduWVlqZEVJaTNpRW9tcGdNZ2t6aHhoMmQtOTFfa1ZzT0NuSWFoNVdzLTNQUXJWcHVxOU9NQVdOMjZneVI4N0pvNThWNUtSUF84bTVIcGlLSXVfdHZtem9JbHFOdXdYVEJ1UUp4N1VDTEloLUJnSU1QZFh3c19jVk9uSmh0ZUpFcjhyOWRIZFJDMS03S1VGTUZxSDIta29HU3ZEY1F3TVJ3Y2dyX0E?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HU2EyVHRIQXJGeHRZYlB2UTJzaXVNXzlaa0dEcnpSYzVBQ2NyeFdUMXJRYnJuOEFGNjlhMXAwTzRzenpZTzZxSDUwQ0g4azRjdG00RzFnODlPenBjNFQ5N0ljLW7SAWpBVV95cUxPdmFwcVBtQVR3Q1RjSFlrZ1FrcFhaWkVockVEaUdxZ21QNXFOVHVmTHJkSlBiaFFwWFl0a3plWGtmNzNkRm5KS2JzLVNhZjdPdGxObGpoZ1Vjel9rbHV5VERoQmdONjh2RkJR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -108,7 +121,7 @@
       "id": "cb97db25e9e1",
       "title": "HPV 疫苗成效達成新里程碑，英國 20~24 歲女性子宮頸癌連五年 0 死亡 - TechNews 科技新報",
       "published": "2026-06-27T01:34:30+00:00",
-      "summary": "HPV 疫苗成效達成新里程碑，英國 20~24 歲女性子宮頸癌連五年 0 死亡&nbsp;&nbsp;TechNews 科技新報HPV疫苗20年重大進展！ 台灣擴大公費接種男女通用&nbsp;&nbsp;台視新聞網HPV 疫苗如何改變我們對癌症的看法 |健康&nbsp;&nbsp;arch-web.com.tw",
+      "summary": "HPV 疫苗成效達成新里程碑，英國 20~24 歲女性子宮頸癌連五年 0 死亡&nbsp;&nbsp;TechNews 科技新報HPV疫苗20年重大進展！ 台灣擴大公費接種男女通用&nbsp;&nbsp;台視新聞網HPV 疫苗如何改變我們對癌症的看法 |健康&nbsp;&nbsp;arch-web.com.tw接種HPV疫苗年輕女性，子宮頸癌死亡率降至「接近零」&nbsp;&nbsp;BBCHPV疫苗拯救兩百命 死亡率近乎歸零！ 英國防癌立下驚人里程碑 | Newtalk&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "TechNews 科技新報",
@@ -645,19 +658,6 @@
         {
           "name": "良醫健康網",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LZFRPNnVmQnNTeGlsYjU0N0RkSXhjZDYwa0Q5Y19HdXhmRGVrbXdjbDZXWVROd1F2eWpWUWFaV2xVTGZqbndITU5Wa3N0UXpjSUxBVVNIaHpoMGx2SFF0SGRNSVY5SHdaZFE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "02469c680d76",
-      "title": "卑詩社區主導危機應對服務3年接約2萬宗求助有效減輕警方處理個案壓力| 事事如意生活網站",
-      "published": "2026-06-25T19:53:53+00:00",
-      "summary": "卑詩社區主導危機應對服務3年接約2萬宗求助有效減輕警方處理個案壓力| 事事如意生活網站&nbsp;&nbsp;CCUE.ca",
-      "sources": [
-        {
-          "name": "CCUE.ca",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNWXQ1V01EZkxmTzFDSk1EN05teXdLT1h5UW9zem5WR0FhdzdKdHk2NTVzVGxVekVoSWktMDRiWlFPX3Bwck9EUjY2WWZtX3lteGFWVFBEeVRwNWVlUkFqYkRGWkl6N1VlRjNyWnBaamcySGVyUTdFR29kaVpXdEVCVkJnbGZxQkNHYUhXWGtFR0JON3diLTMydGtySFZZSUtzZ2tCbEZIUUh4TlRpclM2Mmt3Qm1FWFBHTEFTcHhyc3ZRRzdkQVhIOGtnQVNTSzhYZ2plU3dCYXU1MUlFUERIN1Z4clJzeFFtU0JtS0IxdzlON3RvNTc0ZXVJMmdVd0o5bEdvZ0tWZ3dlam44aGpXMEhJcTdzQkZkc2ZZXzJZWUpsMThjS3lTcUFRVTRCU2NOYjNINWpJVGQzUkhXNjJfRUVDMTVlLWxrajhyaTl1TTZJLUZRdXc?oc=5"
         }
       ],
       "matched_keywords": []
