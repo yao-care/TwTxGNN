@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-27T15:08:58.765755+00:00",
-  "count": 16,
+  "fetched_at": "2026-06-27T16:58:37.678292+00:00",
+  "count": 17,
   "news": [
+    {
+      "id": "b770a3a20c56",
+      "title": "心電圖早已寫好猝死劇本？醫揭AI驚人突破：提前揪出高風險族群 - 壹蘋新聞網",
+      "published": "2026-06-27T16:00:00+00:00",
+      "summary": "心電圖早已寫好猝死劇本？醫揭AI驚人突破：提前揪出高風險族群&nbsp;&nbsp;壹蘋新聞網",
+      "sources": [
+        {
+          "name": "壹蘋新聞網",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hLTE5M2tvcnZ2Z3R0aXJaLXJQa21Ddk5qbmwtSF9FQ0lfdVRVMEROODR0NDFjOV9pV2daTzNPQk42cUJnSjVlTDlucDFWQkoxUkNnVXphSW0wcDgtVG5RMUFJNmpCaVgxZ0FfYUxRanhLc19jZlp3QVNSc3A1QQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "3d2d646d99d0",
       "title": "吃膠原蛋白拚凍齡卻爆痘 營養師揪4大地雷 - 自由健康網",
@@ -40,18 +52,6 @@
       ]
     },
     {
-      "id": "f978a451ae65",
-      "title": "2026年夏季皮膚保養的10個科學處方 - 報新聞",
-      "published": "2026-06-27T02:29:54+00:00",
-      "summary": "2026年夏季皮膚保養的10個科學處方&nbsp;&nbsp;報新聞",
-      "sources": [
-        {
-          "name": "報新聞",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTkVLUHdoeUFsSnVVUXBrWWVHaGE3Q2RNVDd3bWw5ejV2WExWVGprSGR3b29JQmFockxGWVJvMzA4RmFVUnlBWnJ1VWlNSWYtaGxTZDhTVkRNTWlXcFctbFIyU09KdlFQNGNtMndDSmNVZDB4MnpmMTNXRVAtaXFhVTlaSEhLWmwzcjNYMEtacjRJUmhySjg3dEZnRGlQOUEzRmxXUURHSWdneVNBQnRfU3hoZzRHd05veW54cEVGQ1NGY01uV0JYN2RvYnFsdVFyNzVaX1pxVVpBSlNwRnpOWFo5Rzd1Y25zQWU0c2tlV2RFUE12M3hQMWFKSVVlbmtiSUFZ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d668d642f3bf",
       "title": "不只是變老！研究曝「1器官退化」超傷腦 失智風險激增33% - 祝你健康",
       "published": "2026-06-26T03:47:15+00:00",
@@ -60,6 +60,18 @@
         {
           "name": "祝你健康",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ERzRKUnoyZlhoMEpDZFFMRFR6SGQ5MjVXRkhpd2NpWElza0ZudmdORXBLZ0Ewbi1uWmFUbW5HT1ZET3hFaEMwcUVzRW8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f978a451ae65",
+      "title": "2026年夏季皮膚保養的10個科學處方 - 報新聞",
+      "published": "2026-06-27T02:29:54+00:00",
+      "summary": "2026年夏季皮膚保養的10個科學處方&nbsp;&nbsp;報新聞",
+      "sources": [
+        {
+          "name": "報新聞",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTkVLUHdoeUFsSnVVUXBrWWVHaGE3Q2RNVDd3bWw5ejV2WExWVGprSGR3b29JQmFockxGWVJvMzA4RmFVUnlBWnJ1VWlNSWYtaGxTZDhTVkRNTWlXcFctbFIyU09KdlFQNGNtMndDSmNVZDB4MnpmMTNXRVAtaXFhVTlaSEhLWmwzcjNYMEtacjRJUmhySjg3dEZnRGlQOUEzRmxXUURHSWdneVNBQnRfU3hoZzRHd05veW54cEVGQ1NGY01uV0JYN2RvYnFsdVFyNzVaX1pxVVpBSlNwRnpOWFo5Rzd1Y25zQWU0c2tlV2RFUE12M3hQMWFKSVVlbmtiSUFZ?oc=5"
         }
       ]
     },

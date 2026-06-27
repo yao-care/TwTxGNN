@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-06-27T15:09:02.772883+00:00",
-  "total_count": 16,
+  "last_updated": "2026-06-27T16:58:44.320671+00:00",
+  "total_count": 17,
   "matched_count": 4,
   "news": [
+    {
+      "id": "b770a3a20c56",
+      "title": "心電圖早已寫好猝死劇本？醫揭AI驚人突破：提前揪出高風險族群",
+      "published": "2026-06-27T16:00:00+00:00",
+      "summary": "心電圖早已寫好猝死劇本？醫揭AI驚人突破：提前揪出高風險族群&nbsp;&nbsp;壹蘋新聞網",
+      "sources": [
+        {
+          "name": "壹蘋新聞網",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hLTE5M2tvcnZ2Z3R0aXJaLXJQa21Ddk5qbmwtSF9FQ0lfdVRVMEROODR0NDFjOV9pV2daTzNPQk42cUJnSjVlTDlucDFWQkoxUkNnVXphSW0wcDgtVG5RMUFJNmpCaVgxZ0FfYUxRanhLc19jZlp3QVNSc3A1QQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "0ae9c289dc86",
       "title": "衛生署：暑假外遊，慎防麻疹和伊波拉等傳染病",
