@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-28T02:54:39.141215+00:00",
-  "count": 17,
+  "fetched_at": "2026-06-28T06:55:53.831407+00:00",
+  "count": 19,
   "news": [
+    {
+      "id": "62103c56bbd8",
+      "title": "不是代謝變慢 研究揭中年肚子愈來愈大的真正原因 - 自由健康網",
+      "published": "2026-06-28T06:43:00+00:00",
+      "summary": "不是代謝變慢 研究揭中年肚子愈來愈大的真正原因&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZeUxEZzhqN3FXb29uOWlISlhIVWgya0tHam1mNElKV25xR3ByQ3phdndrdktJNVBELW94ZlVlWllHcUZ0c0M0Z05QOTZXSDl4Uzc1QlI0WUVpc3h0YlF0VUc0VjjSAWpBVV95cUxPeXFIY2E4eG43M1p0TWZSeXNLejFDdnhqR3VsRUh0dDAyUUNKX05teE9DOEdwWFNkVnpFb3gxdEl5RlAyT2V6RjIwcEJKQ0Z1N2VBWWxBallnd3dQNVZHelJja1p5bTduN0xB?oc=5"
+        }
+      ]
+    },
     {
       "id": "970f6d01bc01",
       "title": "蔡嘉軒手術縫補蟹足腫患者人生 - Yahoo新聞",
@@ -28,14 +40,14 @@
       ]
     },
     {
-      "id": "3d2d646d99d0",
-      "title": "吃膠原蛋白拚凍齡卻爆痘 營養師揪4大地雷 - 自由健康網",
-      "published": "2026-06-26T21:30:00+00:00",
-      "summary": "吃膠原蛋白拚凍齡卻爆痘 營養師揪4大地雷&nbsp;&nbsp;自由健康網狂補膠原蛋白狂冒痘痘？吃再多也沒感覺？營養師揭：膠原蛋白流失4大生活地雷&nbsp;&nbsp;PChome Online 新聞吃膠原蛋白＝皮膚Ｑ彈、強筋健骨?名醫科學解密!&nbsp;&nbsp;MSN孫淑媚天天吃膠原蛋白！網崩潰喊「狂冒痘」？營養師揭真相：4大地雷別踩&nbsp;&nbsp;udn 女子漾膠原蛋白是智商稅嗎？研究最快10天有變化 吃了沒感覺先看這3件事｜熱門話題&nbsp;&nbsp;網路溫度計 DailyView",
+      "id": "e0d4c89febb5",
+      "title": "狂補膠原蛋白狂冒痘痘？吃再多也沒感覺？營養師揭：膠原蛋白流失4大生活地雷 - PChome Online 新聞",
+      "published": "2026-06-27T03:52:44+00:00",
+      "summary": "狂補膠原蛋白狂冒痘痘？吃再多也沒感覺？營養師揭：膠原蛋白流失4大生活地雷&nbsp;&nbsp;PChome Online 新聞吃膠原蛋白拚凍齡卻爆痘 營養師揪4大地雷&nbsp;&nbsp;自由健康網吃膠原蛋白＝皮膚Ｑ彈、強筋健骨?名醫科學解密!&nbsp;&nbsp;MSN孫淑媚天天吃膠原蛋白！網崩潰喊「狂冒痘」？營養師揭真相：4大地雷別踩&nbsp;&nbsp;udn 女子漾膠原蛋白是智商稅嗎？研究最快10天有變化 吃了沒感覺先看這3件事｜熱門話題&nbsp;&nbsp;網路溫度計DailyView",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWYWozLXlBMTF0LXdOaERsRWo0UmtqbmlPcVdncTlSTkRWdWdrdHVxUmx5V0ZfTlJnZTJLd1htTzVub29faWpfTUdlSTBRc0UyenlPZktOcHAtN0XSAWBBVV95cUxNcXoxNzFkcW1XWnZnb08zNWliY0Y0Mkg5amRaNUxEOFR6d2h5dW1mT3RaVlVzVlBya3lnQlZDN2IybEY2MkszRG9Mb0o1Z28wX0E1RlZfYUtNVXZJSFF4dVU?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXlnckxoTlA0em1vV0MyREd2LVM1YWdreE9sVFRFazlSaE5qTkU1MUtuT20xMmJuUTRwTk1SVmNlZzhIcVUxRThhTTdpN21DNzBtSUNlR282NHFPUzVlbEMwaGhtMHUtUUxrbDM3eXpKYTc1eGRIYjM1Ykw5eHpwdnFxd21sbi1VLVpXaFBqSTlLcWM?oc=5"
         }
       ]
     },
@@ -156,6 +168,18 @@
         {
           "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PQXNueU5RVmtjNnhyQURKTkpkVEFnLTJCTXlieDZHWlRQN3JyM2xNdnFQRFRQX3JacUR0bmFESVMxWEN2UGh1MEVkSXUzZmpULTBNazJlT3ptNmZVczhrdtIBZkFVX3lxTE1pNlRJVk56bHBJQU9nblR2Z3EzeEpaSmQybTBmb3RRXzdYcS01RnkyZWcyaVlHODlTQUlOQW1uTE5ESFQwZW5vWmhOVWZaNWt0OWV5cHpXNk9jank3eGljUkczdXc5UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6a9dbd6851a1",
+      "title": "抗生素｜連登仔質疑醫生：係唔係都開抗生素 即睇醫生開抗生素條件 - AM730",
+      "published": "2026-06-28T05:30:00+00:00",
+      "summary": "抗生素｜連登仔質疑醫生：係唔係都開抗生素 即睇醫生開抗生素條件&nbsp;&nbsp;AM730",
+      "sources": [
+        {
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNQlNTR1hOLXFNMG0wcHY2TzVic29FOUJSaWphalVLSlMzd3BaWkQta1VjUTNDdmhveG5xeEo1UFc4aVNDU1VySTZCMnNlMkcxUVlPWjB2V1MwRXk0VWt2aTlvN2RIREJQWllMX2luTGNNZllIdTdMMWVobU9xTXRaajIyZlA1N2xxZnJSdUJDY3Bwc0EtVTEzTnI3djA5b0ZGSHdqM3IwM3lqQXl2LUxxSDlKakVjT2p0c01GMVYxeU1TYzUxdElhLUYtOTZHV3BUd2xtS29Dc3B1R0tjRzkySlNXcWI0NVRjQmZOSEx6OFpoM3FxTUhHY0h6VnZsd19jaFMxNkxqOE5maVU5ZXlLNzBiemNOY1g4dWFMWF9pbTFKdkl1MmlwMmJGWjBxOW9FRUx5QVhBZjFuR0V5T2JqOXlGNlJFdXNwS0haWldlUmE1aXMwY1JVQmJDOEVFTjNFOExDcDEwUFRRWjlBRFF1NmFuUlplUFA4NHJVVEhhek05VHZqSkNsYnBWRnctX1BEMHk1cVB1c0ZmekVDR1IzTFlXMXdHYWJ6NXVxY25aUDBsNy1CdEE?oc=5"
         }
       ]
     },
