@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [帶狀皰疹疫苗好處多！多項研究發現可降低失智症風險- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTFBVTmVPRUNTNlNEd0J6QlpiUEpUaWNGVmJuQ0paVFpBT0xvcG02WnZpYUhlS1hlVXh4WFNyUGF4bTNqZ1RuLTRwZ1g5NVE1dm1Gc25zazN0OHpDRHljSGNKZjRkTmwyZmRXWFJENS13?oc=5)
+
+2026-06-28 <span class="news-indication-tag">帶狀皰疹</span> <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFBVTmVPRUNTNlNEd0J6QlpiUEpUaWNGVmJuQ0paVFpBT0xvcG02WnZpYUhlS1hlVXh4WFNyUGF4bTNqZ1RuLTRwZ1g5NVE1dm1Gc25zazN0OHpDRHljSGNKZjRkTmwyZmRXWFJENS13?oc=5)
+
+---
+
+### [有性經驗、超過30歲還能打HPV疫苗？醫：仍有保護力](https://news.google.com/rss/articles/CBMitgJBVV95cUxPSk5GTEpZUnFpdzc5VVNJc0F4OXdUUUZtQXExSE13V3Y1WTZaX1BQV05mQXlIVGl3bUNmQTg4X3VOMkV2MXJISlRvZmRmdm51VTNiQjFvdFVCYVpyVDlMaGpkMXRfR082TGhJZ2E3MGo4OVZSTFF1Q1kxVEtKUlk4VUtaUGJzZ196Ml9PTHJxYWxDaVpjMWRGLVVxanN1Z2dJdldCX1NldjhlVm1HV2xjNEFkT2N1bTRONGVxa0FYaV96NlRkODR2TVNjVVpLMENHdWtqdDJDcVQ5ODV6R21hMlRhOGhrV3JrQ2VQNlR5NFp6UHVlZXFxY1NFXzhBMVZ4ZWdHeENLa0dkZ29vUm5CaDdKQzU5Snd5MXhLVEdBLXZEbUhxY1hmTXROOTJCaTlyU09DdlFn?oc=5)
+
+2026-06-28 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMitgJBVV95cUxPSk5GTEpZUnFpdzc5VVNJc0F4OXdUUUZtQXExSE13V3Y1WTZaX1BQV05mQXlIVGl3bUNmQTg4X3VOMkV2MXJISlRvZmRmdm51VTNiQjFvdFVCYVpyVDlMaGpkMXRfR082TGhJZ2E3MGo4OVZSTFF1Q1kxVEtKUlk4VUtaUGJzZ196Ml9PTHJxYWxDaVpjMWRGLVVxanN1Z2dJdldCX1NldjhlVm1HV2xjNEFkT2N1bTRONGVxa0FYaV96NlRkODR2TVNjVVpLMENHdWtqdDJDcVQ5ODV6R21hMlRhOGhrV3JrQ2VQNlR5NFp6UHVlZXFxY1NFXzhBMVZ4ZWdHeENLa0dkZ29vUm5CaDdKQzU5Snd5MXhLVEdBLXZEbUhxY1hmTXROOTJCaTlyU09DdlFn?oc=5)
+
+---
 
 ### [明明不是腦部疾病，為何也會增加失智風險？研究點名16種高風險疾病｜大腦健康｜失智](https://news.google.com/rss/articles/CBMigwFBVV95cUxOMGhSTXcxSXhDMUktVEs3aEVKLVNnWlpSeElkd2J3djllejVQZjhNZ2NQYUhUWWxSX1NQYWhveldLaHpjQmVLemdWTF9TQS1Sc1pyMXpBU1ViR0V0VTZyVzR6NGRxajZpNVlIcHJTREdRcG9DcEdHZEE0QWx1UlI3OWdkbw?oc=5)
 

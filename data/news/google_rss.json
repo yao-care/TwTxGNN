@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-28T13:18:45.496285+00:00",
-  "count": 17,
+  "fetched_at": "2026-06-28T15:12:28.511620+00:00",
+  "count": 19,
   "news": [
+    {
+      "id": "55f5983e3cfa",
+      "title": "帶狀皰疹疫苗好處多！多項研究發現可降低失智症風險- 健康 - 中時新聞網",
+      "published": "2026-06-28T14:28:55+00:00",
+      "summary": "帶狀皰疹疫苗好處多！多項研究發現可降低失智症風險- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVTmVPRUNTNlNEd0J6QlpiUEpUaWNGVmJuQ0paVFpBT0xvcG02WnZpYUhlS1hlVXh4WFNyUGF4bTNqZ1RuLTRwZ1g5NVE1dm1Gc25zazN0OHpDRHljSGNKZjRkTmwyZmRXWFJENS13?oc=5"
+        }
+      ]
+    },
     {
       "id": "762accac0e95",
       "title": "「1運動」大增心肺功能、粒線體翻倍增：12週就有效 - Yahoo新聞",
@@ -28,14 +40,26 @@
       ]
     },
     {
-      "id": "a2b54eaf1d4f",
-      "title": "蔡嘉軒手術縫補蟹足腫患者人生 - 中時新聞網",
-      "published": "2026-06-27T20:10:00+00:00",
-      "summary": "蔡嘉軒手術縫補蟹足腫患者人生&nbsp;&nbsp;中時新聞網",
+      "id": "c4c66618359e",
+      "title": "有性經驗、超過30歲還能打HPV疫苗？醫：仍有保護力 - Yahoo新聞",
+      "published": "2026-06-28T08:42:38+00:00",
+      "summary": "有性經驗、超過30歲還能打HPV疫苗？醫：仍有保護力&nbsp;&nbsp;Yahoo新聞HPV 疫苗成效達成新里程碑，英國 20~24 歲女性子宮頸癌連五年 0 死亡&nbsp;&nbsp;TechNews 科技新報HPV疫苗20年重大進展！台灣擴大公費接種男女通用，專家：防癌進入「全民防護新時代」&nbsp;&nbsp;PChome Online 新聞HPV 疫苗如何改變我們對癌症的看法 |健康&nbsp;&nbsp;arch-web.com.tw「超過30歲還能打HPV疫苗嗎？」醫一次解答！&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHUmkxQjRRb1VyalNFeExEOUp5cWhQMGtmcFlkZGRxYUwyTXZLUDZzUnpLbHVfb3dVUEp2c0IwX1NmaGptckpyUnlZblFsMTFrclFPYVFvbVVQS1JTQkU4ZGVlN2tPVlNmVGgw?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPSk5GTEpZUnFpdzc5VVNJc0F4OXdUUUZtQXExSE13V3Y1WTZaX1BQV05mQXlIVGl3bUNmQTg4X3VOMkV2MXJISlRvZmRmdm51VTNiQjFvdFVCYVpyVDlMaGpkMXRfR082TGhJZ2E3MGo4OVZSTFF1Q1kxVEtKUlk4VUtaUGJzZ196Ml9PTHJxYWxDaVpjMWRGLVVxanN1Z2dJdldCX1NldjhlVm1HV2xjNEFkT2N1bTRONGVxa0FYaV96NlRkODR2TVNjVVpLMENHdWtqdDJDcVQ5ODV6R21hMlRhOGhrV3JrQ2VQNlR5NFp6UHVlZXFxY1NFXzhBMVZ4ZWdHeENLa0dkZ29vUm5CaDdKQzU5Snd5MXhLVEdBLXZEbUhxY1hmTXROOTJCaTlyU09DdlFn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "970f6d01bc01",
+      "title": "蔡嘉軒手術縫補蟹足腫患者人生 - Yahoo新聞",
+      "published": "2026-06-27T20:10:00+00:00",
+      "summary": "蔡嘉軒手術縫補蟹足腫患者人生&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPM096Y1ZFcUhZR21nN2pRaWlxOVZQQk5hU2tQWHJMRzczbloyZWZpUkpPdnRVQVByNXcta2dVYl9ydjgwS3RVeXhqa2dDREgwLTJxcTQzaWpfUWJYdlRVSUFUZUlrXzByTWIzdy14VjlXcVdiWTc4U0NsLWgyQWgzN3VNU19LdkRZSThtNUdMWGVkQXBTSTAwdGE5ak4zUWNPU1ZRQm54ZmNrSXZmdnREcmxqcnJJaHQ5cFJ2MUluaUNVUGVRX1U3VmlvYzgwd2NGN3g0ZzFXU05LYkR5VElmSy00OGFaYXNHMElNTnBYRHE1VnVzMG95dzBSWQ?oc=5"
         }
       ]
     },
@@ -52,14 +76,14 @@
       ]
     },
     {
-      "id": "bd8395cd85d6",
-      "title": "跟風孫淑媚吃膠原蛋白卻狂冒痘 營養師解析原因 - ETtoday健康雲",
+      "id": "accdf495abf7",
+      "title": "跟風孫淑媚吃膠原蛋白卻狂冒痘　營養師解析原因 - ETtoday健康雲",
       "published": "2026-06-28T11:35:00+00:00",
       "summary": "跟風孫淑媚吃膠原蛋白卻狂冒痘 營養師解析原因&nbsp;&nbsp;ETtoday健康雲天天補膠原蛋白卻沒感覺？營養師揭4大原因 吃錯還可能冒痘&nbsp;&nbsp;自由健康網狂補膠原蛋白狂冒痘痘？吃再多也沒感覺？營養師揭：膠原蛋白流失4大生活地雷&nbsp;&nbsp;PChome Online 新聞膠原蛋白是智商稅嗎？研究最快10天有變化 吃了沒感覺先看這3件事｜熱門話題&nbsp;&nbsp;網路溫度計 DailyView吃膠原蛋白＝皮膚Ｑ彈、強筋健骨?名醫科學解密!&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ydTBlNWxBNjNxTDNuWUIzSjN2aEdQRTlkdnYtZ3ZrWFIxSTZuQnlld3dmc241MUdqc2V6S0k4RlQ3RkFnVDNkZzNaMGJfdFdO?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ydTBlNWxBNjNxTDNuWUIzSjN2aEdQRTlkdnYtZ3ZrWFIxSTZuQnlld3dmc241MUdqc2V6S0k4RlQ3RkFnVDNkZzNaMGJfdFdO0gFsQVVfeXFMUFMzTmQ2NEJxR1VaN0dTSExqc2hTWGZkdlhCckdqVEZDNUVSdFdxWjI4Rzd3NXctNVpLY0JodWZ4SEtlTnphSGttOXJnclZQZkFra3F5UnNPQkhvVjdHaTZCVkxmYWxKSnFzWU9j?oc=5"
         }
       ]
     },
@@ -112,13 +136,13 @@
       ]
     },
     {
-      "id": "84715767156e",
-      "title": "許樹昌：半年未見流感爆發 小心提防夏季高峰 - am730",
+      "id": "d8aa2d85973e",
+      "title": "許樹昌：半年未見流感爆發 小心提防夏季高峰 - AM730",
       "published": "2026-06-27T07:41:41+00:00",
-      "summary": "許樹昌：半年未見流感爆發 小心提防夏季高峰&nbsp;&nbsp;am730不是冬天才會中新冠、流感！醫揭病毒流行新趨勢：夏天發燒、喉嚨痛更要把握「這段時間」&nbsp;&nbsp;良醫健康網新冠病毒｜許樹昌指近期入院個案增多 恐與流感一同「夏季爆發」&nbsp;&nbsp;香港01夏季流感風險升溫 甲乙型個案齊升 及早接種疫苗增保護&nbsp;&nbsp;東周刊夏天喉嚨痛發燒不只是中暑？醫生揭6大夏季流行病毒！1類場所最易爆發手足口病| 事事如意生活網站&nbsp;&nbsp;CCUE.ca",
+      "summary": "許樹昌：半年未見流感爆發 小心提防夏季高峰&nbsp;&nbsp;AM730不是冬天才會中新冠、流感！醫揭病毒流行新趨勢：夏天發燒、喉嚨痛更要把握「這段時間」&nbsp;&nbsp;良醫健康網新冠病毒｜許樹昌指近期入院個案增多 恐與流感一同「夏季爆發」&nbsp;&nbsp;香港01夏季流感風險升溫 甲乙型個案齊升 及早接種疫苗增保護&nbsp;&nbsp;東周刊夏天喉嚨痛發燒不只是中暑？醫生揭6大夏季流行病毒！1類場所最易爆發手足口病| 事事如意生活網站&nbsp;&nbsp;CCUE.ca",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQNVV0OEg4c1pKdGJoOV9UTHlCTlV5YURuNTNRdV9HVnEwQUtOMHpDNUktYll2TjhnY0FsMG40UW9NT2NzYk5RdmpWOUtqeWVaOWZkSkFNa0doUTZQSHEwZE94aXUtR3RvTFdJWU9hanItZXA2RExYTkVJalB6YXdJSXh6dEJ4ckJ3NlRqVDRPbzZQNjd1LVVGd1M2MnlFWDdXQVBsZzNWWkdxX2I4aXk1WjA4UUtfdTlpdHpLQnRqZ3hqNktaOTdhRUdVd3dNb1BGTGJIRFM5TFZock9PREZEZ0tMdFpkeVpselhMdUtldHR0WnB5cjR4bHhubDhHTFhObDZ2bXQ3TTA1ellFaEhBcnBzY2hhVmsxc0cwSUlFbllLU25waGVPTTE1YWpmVERNZk1kWWNKYzdIdmRSRkEzbmpwbUVzTW1Z?oc=5"
         }
       ]
@@ -148,26 +172,14 @@
       ]
     },
     {
-      "id": "ecf065c22bdb",
-      "title": "抗生素｜連登仔質疑醫生：係唔係都開抗生素 即睇醫生開抗生素條件 - am730",
+      "id": "6a9dbd6851a1",
+      "title": "抗生素｜連登仔質疑醫生：係唔係都開抗生素 即睇醫生開抗生素條件 - AM730",
       "published": "2026-06-28T05:30:00+00:00",
-      "summary": "抗生素｜連登仔質疑醫生：係唔係都開抗生素 即睇醫生開抗生素條件&nbsp;&nbsp;am730",
+      "summary": "抗生素｜連登仔質疑醫生：係唔係都開抗生素 即睇醫生開抗生素條件&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNQlNTR1hOLXFNMG0wcHY2TzVic29FOUJSaWphalVLSlMzd3BaWkQta1VjUTNDdmhveG5xeEo1UFc4aVNDU1VySTZCMnNlMkcxUVlPWjB2V1MwRXk0VWt2aTlvN2RIREJQWllMX2luTGNNZllIdTdMMWVobU9xTXRaajIyZlA1N2xxZnJSdUJDY3Bwc0EtVTEzTnI3djA5b0ZGSHdqM3IwM3lqQXl2LUxxSDlKakVjT2p0c01GMVYxeU1TYzUxdElhLUYtOTZHV3BUd2xtS29Dc3B1R0tjRzkySlNXcWI0NVRjQmZOSEx6OFpoM3FxTUhHY0h6VnZsd19jaFMxNkxqOE5maVU5ZXlLNzBiemNOY1g4dWFMWF9pbTFKdkl1MmlwMmJGWjBxOW9FRUx5QVhBZjFuR0V5T2JqOXlGNlJFdXNwS0haWldlUmE1aXMwY1JVQmJDOEVFTjNFOExDcDEwUFRRWjlBRFF1NmFuUlplUFA4NHJVVEhhek05VHZqSkNsYnBWRnctX1BEMHk1cVB1c0ZmekVDR1IzTFlXMXdHYWJ6NXVxY25aUDBsNy1CdEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d2f1b21f0f3a",
-      "title": "癌細胞代謝彈性成治療挑戰 新療法瞄準能量通路 - 大纪元",
-      "published": "2026-06-26T17:00:00+00:00",
-      "summary": "癌細胞代謝彈性成治療挑戰 新療法瞄準能量通路&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PQXNueU5RVmtjNnhyQURKTkpkVEFnLTJCTXlieDZHWlRQN3JyM2xNdnFQRFRQX3JacUR0bmFESVMxWEN2UGh1MEVkSXUzZmpULTBNazJlT3ptNmZVczhrdtIBZkFVX3lxTE1pNlRJVk56bHBJQU9nblR2Z3EzeEpaSmQybTBmb3RRXzdYcS01RnkyZWcyaVlHODlTQUlOQW1uTE5ESFQwZW5vWmhOVWZaNWt0OWV5cHpXNk9jank3eGljUkczdXc5UQ?oc=5"
         }
       ]
     },
@@ -180,6 +192,18 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNRlE1NV9CMlk1cTNUdlNVYzdHWXMtbEpEa2l4OVI0QWtWXzVuWmljVU5SU2xqUmZOWVlVZm4zVFJsX1laaGlFVkRTYmVmcU84dHBteWxScHZMNHNDQ2NSUU5UUmJvV1ZoZ2lJTWNfZ1RtdzQ1UDl1dnRkTUktN3BnY3cxTk9JMmtPNnkxWWxyNGoxajRjTC1tMWNsOVowV3dsWVBsTWRhLXIyczhSQXprOGU3VFQzNEhRNk1LN3doZ1VSVXNYRXRNQkE5dXJueGpKelY5VjRYQXpSeVJtQ0dCeEdUTzgta0k2M3hVMVhUU3FEOTl4MUxnV0xnc3ZyV1VFQkNrSXk0czdxODA1Y1drZ2o1MU1vTTByZ1FoUWNRRS1BTEdCY2lPRG85Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d2f1b21f0f3a",
+      "title": "癌細胞代謝彈性成治療挑戰 新療法瞄準能量通路 - 大纪元",
+      "published": "2026-06-26T17:00:00+00:00",
+      "summary": "癌細胞代謝彈性成治療挑戰 新療法瞄準能量通路&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PQXNueU5RVmtjNnhyQURKTkpkVEFnLTJCTXlieDZHWlRQN3JyM2xNdnFQRFRQX3JacUR0bmFESVMxWEN2UGh1MEVkSXUzZmpULTBNazJlT3ptNmZVczhrdtIBZkFVX3lxTE1pNlRJVk56bHBJQU9nblR2Z3EzeEpaSmQybTBmb3RRXzdYcS01RnkyZWcyaVlHODlTQUlOQW1uTE5ESFQwZW5vWmhOVWZaNWt0OWV5cHpXNk9jank3eGljUkczdXc5UQ?oc=5"
         }
       ]
     },

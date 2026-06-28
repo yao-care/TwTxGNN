@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [有性經驗、超過30歲還能打HPV疫苗？醫：仍有保護力](https://news.google.com/rss/articles/CBMitgJBVV95cUxPSk5GTEpZUnFpdzc5VVNJc0F4OXdUUUZtQXExSE13V3Y1WTZaX1BQV05mQXlIVGl3bUNmQTg4X3VOMkV2MXJISlRvZmRmdm51VTNiQjFvdFVCYVpyVDlMaGpkMXRfR082TGhJZ2E3MGo4OVZSTFF1Q1kxVEtKUlk4VUtaUGJzZ196Ml9PTHJxYWxDaVpjMWRGLVVxanN1Z2dJdldCX1NldjhlVm1HV2xjNEFkT2N1bTRONGVxa0FYaV96NlRkODR2TVNjVVpLMENHdWtqdDJDcVQ5ODV6R21hMlRhOGhrV3JrQ2VQNlR5NFp6UHVlZXFxY1NFXzhBMVZ4ZWdHeENLa0dkZ29vUm5CaDdKQzU5Snd5MXhLVEdBLXZEbUhxY1hmTXROOTJCaTlyU09DdlFn?oc=5)
+
+2026-06-28 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMitgJBVV95cUxPSk5GTEpZUnFpdzc5VVNJc0F4OXdUUUZtQXExSE13V3Y1WTZaX1BQV05mQXlIVGl3bUNmQTg4X3VOMkV2MXJISlRvZmRmdm51VTNiQjFvdFVCYVpyVDlMaGpkMXRfR082TGhJZ2E3MGo4OVZSTFF1Q1kxVEtKUlk4VUtaUGJzZ196Ml9PTHJxYWxDaVpjMWRGLVVxanN1Z2dJdldCX1NldjhlVm1HV2xjNEFkT2N1bTRONGVxa0FYaV96NlRkODR2TVNjVVpLMENHdWtqdDJDcVQ5ODV6R21hMlRhOGhrV3JrQ2VQNlR5NFp6UHVlZXFxY1NFXzhBMVZ4ZWdHeENLa0dkZ29vUm5CaDdKQzU5Snd5MXhLVEdBLXZEbUhxY1hmTXROOTJCaTlyU09DdlFn?oc=5)
+
+---
 
 ### [健康網》「高血壓沒症狀不代表沒事」醫：腦出血發病前無警訊](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ud0tLU1dfVWF0ekZfenh1aUJRbEFPdDhLeEtUM0ZrMm1GYUlGbDl6WnZEcndBWmV3emhVWFZaTlJtbXJ4bkF1MG5faWxKNEFmaFNVMVRJV3lIeDI3TFR3ZjlnQ2XSAWpBVV95cUxQOVVSS190REtRb0pNRllwV1hvMGdocjVpdlJNZ21naWFuXy1fbjdIVzdwRUQwSEgxbWNjbnZ5TW03RWFReTc0V1U1SzdyX3NCa3dKbk5mR0RFYUxuS3lwUjFCT0lLQ1o2WWtR?oc=5)
 
