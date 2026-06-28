@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-28T18:06:08.601938+00:00",
-  "total_count": 18,
+  "last_updated": "2026-06-28T20:07:06.297007+00:00",
+  "total_count": 16,
   "matched_count": 6,
   "news": [
     {
@@ -54,7 +54,7 @@
       "id": "accdf495abf7",
       "title": "跟風孫淑媚吃膠原蛋白卻狂冒痘　營養師解析原因",
       "published": "2026-06-28T11:35:00+00:00",
-      "summary": "跟風孫淑媚吃膠原蛋白卻狂冒痘 營養師解析原因&nbsp;&nbsp;ETtoday健康雲天天補膠原蛋白卻沒感覺？營養師揭4大原因 吃錯還可能冒痘&nbsp;&nbsp;自由健康網狂補膠原蛋白狂冒痘痘？吃再多也沒感覺？營養師揭：膠原蛋白流失4大生活地雷&nbsp;&nbsp;PChome Online 新聞膠原蛋白是智商稅嗎？研究最快10天有變化 吃了沒感覺先看這3件事｜熱門話題&nbsp;&nbsp;網路溫度計 DailyView吃膠原蛋白＝皮膚Ｑ彈、強筋健骨?名醫科學解密!&nbsp;&nbsp;MSN",
+      "summary": "跟風孫淑媚吃膠原蛋白卻狂冒痘 營養師解析原因&nbsp;&nbsp;ETtoday健康雲天天補膠原蛋白卻沒感覺？營養師揭4大原因 吃錯還可能冒痘&nbsp;&nbsp;自由健康網狂補膠原蛋白狂冒痘痘？吃再多也沒感覺？營養師揭：膠原蛋白流失4大生活地雷&nbsp;&nbsp;PChome Online 新聞膠原蛋白是智商稅嗎？研究最快10天有變化 吃了沒感覺先看這3件事｜熱門話題&nbsp;&nbsp;網路溫度計DailyView吃膠原蛋白＝皮膚Ｑ彈、強筋健骨?名醫科學解密!&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "ETtoday健康雲",
@@ -284,19 +284,6 @@
       ]
     },
     {
-      "id": "dc13fa17db85",
-      "title": "猝死可能早有徵兆！AI可望揪出心電圖的危險訊號",
-      "published": "2026-06-28T06:00:00+00:00",
-      "summary": "猝死可能早有徵兆！AI可望揪出心電圖的危險訊號&nbsp;&nbsp;壹蘋新聞網",
-      "sources": [
-        {
-          "name": "壹蘋新聞網",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hLTE5M2tvcnZ2Z3R0aXJaLXJQa21Ddk5qbmwtSF9FQ0lfdVRVMEROODR0NDFjOV9pV2daTzNPQk42cUJnSjVlTDlucDFWQkoxUkNnVXphSW0wcDgtVG5RMUFJNmpCaVgxZ0FfYUxRanhLc19jZlp3QVNSc3A1QQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "92cb8d9fef8c",
       "title": "健康網》「高血壓沒症狀不代表沒事」醫：腦出血發病前無警訊",
       "published": "2026-06-28T05:45:04+00:00",
@@ -404,14 +391,14 @@
       "matched_keywords": []
     },
     {
-      "id": "1fec8a38cb79",
+      "id": "a6579cf70878",
       "title": "AI揪出抗藥性淋病新剋星 陰道晶片驗證成功",
-      "published": "2026-06-27T03:40:00+00:00",
-      "summary": "AI揪出抗藥性淋病新剋星 陰道晶片驗證成功&nbsp;&nbsp;自由健康網",
+      "published": "2026-06-27T03:50:22+00:00",
+      "summary": "AI揪出抗藥性淋病新剋星 陰道晶片驗證成功&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HU2EyVHRIQXJGeHRZYlB2UTJzaXVNXzlaa0dEcnpSYzVBQ2NyeFdUMXJRYnJuOEFGNjlhMXAwTzRzenpZTzZxSDUwQ0g4azRjdG00RzFnODlPenBjNFQ5N0ljLW7SAWpBVV95cUxPdmFwcVBtQVR3Q1RjSFlrZ1FrcFhaWkVockVEaUdxZ21QNXFOVHVmTHJkSlBiaFFwWFl0a3plWGtmNzNkRm5KS2JzLVNhZjdPdGxObGpoZ1Vjel9rbHV5VERoQmdONjh2RkJR?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPbHJZUVVWTDBfLXFnMzB2UFRqZDlWazhIWlRETmZCcFJRRGVyMXdoRm1uNEFzVi1mUjhvdTdwX21rNGNqcEtUNHhiU0phb3J4dVVPRTcyc3lyOXRGN1ZibzdydHBHa3d0dGdYcWkwWUpTZDlvdWNwZURVVGVhZDZQNlIzY2NPakVvUlduWVlqZEVJaTNpRW9tcGdNZ2t6aHhoMmQtOTFfa1ZzT0NuSWFoNVdzLTNQUXJWcHVxOU9NQVdOMjZneVI4N0pvNThWNUtSUF84bTVIcGlLSXVfdHZtem9JbHFOdXdYVEJ1UUp4N1VDTEloLUJnSU1QZFh3c19jVk9uSmh0ZUpFcjhyOWRIZFJDMS03S1VGTUZxSDIta29HU3ZEY1F3TVJ3Y2dyX0E?oc=5"
         }
       ],
       "matched_keywords": []
@@ -433,7 +420,7 @@
       "id": "0172ce9361c5",
       "title": "明明不是腦部疾病，為何也會增加失智風險？研究點名16種高風險疾病｜大腦健康｜失智",
       "published": "2026-06-27T02:00:00+00:00",
-      "summary": "明明不是腦部疾病，為何也會增加失智風險？研究點名16種高風險疾病｜大腦健康｜失智&nbsp;&nbsp;元氣網不只是變老！研究曝「1器官退化」超傷腦 失智風險激增33%&nbsp;&nbsp;祝你健康身體的預警：阿茲海默症十年先兆，你留意到了嗎？｜瑜心呼吸&nbsp;&nbsp;TVB聽力下降影響大腦功能 失智症風險早期警訊&nbsp;&nbsp;世界新聞網不只變老！「1器官退化」失智風險激增33%&nbsp;&nbsp;鏡週刊Mirror Media",
+      "summary": "明明不是腦部疾病，為何也會增加失智風險？研究點名16種高風險疾病｜大腦健康｜失智&nbsp;&nbsp;元氣網不只是變老！研究曝「1器官退化」超傷腦 失智風險激增33%&nbsp;&nbsp;祝你健康講話卡卡是失智前兆嗎？研究發現：說話一特徵，可能更早透露大腦變化&nbsp;&nbsp;元氣網身體的預警：阿茲海默症十年先兆，你留意到了嗎？｜瑜心呼吸&nbsp;&nbsp;TVB聽力下降影響大腦功能 失智症風險早期警訊&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
           "name": "元氣網",
@@ -686,14 +673,14 @@
       ]
     },
     {
-      "id": "c4ed25f68600",
-      "title": "歐洲神經學學會大會 (EAN Congress) ：同時患有癲癇與聽力受損者使用助聽器，與認知障礙症風險降低 23% 相關",
-      "published": "2026-06-26T23:00:47+00:00",
-      "summary": "歐洲神經學學會大會 (EAN Congress) ：同時患有癲癇與聽力受損者使用助聽器，與認知障礙症風險降低 23% 相關&nbsp;&nbsp;經濟日報",
+      "id": "9f572a5f88bb",
+      "title": "歐洲神經學學會大會(EAN Congress) ：同時患有癲癇與聽力受損者使用助聽器，與認知障礙症風險降低23% 相關",
+      "published": "2026-06-26T23:08:10+00:00",
+      "summary": "歐洲神經學學會大會(EAN Congress) ：同時患有癲癇與聽力受損者使用助聽器，與認知障礙症風險降低23% 相關&nbsp;&nbsp;經商新聞",
       "sources": [
         {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jemhJNzhTRmduWE1fSmZ2TjhjdnZWRFFYOFlHNmhkQWRDR0ZLek1zVXJBdW9kZUNpWVdSQTZVLU9YNXpkT2JKVVByWUJyVUJBRF9VcHd3X09HeWRU0gFiQVVfeXFMT3VoUDU1blJaUW84RE5uREJXcnlqQ3lDd0ktRjRWMUVDckVwcGRzSXZMODdlLXlYbkhjelRJZExIN0ZOclZuZFpQdW41NFNpZGxaYzYwYkNDemh0aVc5LVhHcmc?oc=5"
+          "name": "經商新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91d0VFNjFuMUZ5bGZNcGYxcVlKc1lfUHlsTVNPTVhoQUNYRU9QSjFFVndmUU5id3dKNFh1VU00b0FpT2dLYzBxVVpoTWltdw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -719,19 +706,6 @@
         {
           "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ETEVoYzd6cl81MkI5ZzBxUE5kbG5JcVlsaHlxWVJzbWVOcjMtZGt3T1dnU29QSUROLXpZa1NXOVdWc3BsMkJDVVVwaWhwajFWVHVvREt3VEdJcEtrRGpVeNIBZkFVX3lxTE1DSnRuT2xpUl85SmJydnRqVGJnUkFpTlNZTjBYRmdXT0dydTNUdHZsTXEtVFFVYXczYXhLSURWOVJacTJINUJxa2hhUV9rNUh4clAxdi00cEhNUmtYdTh5NDdWRkwxdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d2f1b21f0f3a",
-      "title": "癌細胞代謝彈性成治療挑戰 新療法瞄準能量通路",
-      "published": "2026-06-26T17:00:00+00:00",
-      "summary": "癌細胞代謝彈性成治療挑戰 新療法瞄準能量通路&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PQXNueU5RVmtjNnhyQURKTkpkVEFnLTJCTXlieDZHWlRQN3JyM2xNdnFQRFRQX3JacUR0bmFESVMxWEN2UGh1MEVkSXUzZmpULTBNazJlT3ptNmZVczhrdtIBZkFVX3lxTE1pNlRJVk56bHBJQU9nblR2Z3EzeEpaSmQybTBmb3RRXzdYcS01RnkyZWcyaVlHODlTQUlOQW1uTE5ESFQwZW5vWmhOVWZaNWt0OWV5cHpXNk9jank3eGljUkczdXc5UQ?oc=5"
         }
       ],
       "matched_keywords": []

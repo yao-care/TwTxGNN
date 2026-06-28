@@ -60,11 +60,11 @@ permalink: /news/acetazolamide/
 
 ---
 
-### [歐洲神經學學會大會 (EAN Congress) ：同時患有癲癇與聽力受損者使用助聽器，與認知障礙症風險降低 23% 相關](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jemhJNzhTRmduWE1fSmZ2TjhjdnZWRFFYOFlHNmhkQWRDR0ZLek1zVXJBdW9kZUNpWVdSQTZVLU9YNXpkT2JKVVByWUJyVUJBRF9VcHd3X09HeWRU0gFiQVVfeXFMT3VoUDU1blJaUW84RE5uREJXcnlqQ3lDd0ktRjRWMUVDckVwcGRzSXZMODdlLXlYbkhjelRJZExIN0ZOclZuZFpQdW41NFNpZGxaYzYwYkNDemh0aVc5LVhHcmc?oc=5)
+### [歐洲神經學學會大會(EAN Congress) ：同時患有癲癇與聽力受損者使用助聽器，與認知障礙症風險降低23% 相關](https://news.google.com/rss/articles/CBMiTkFVX3lxTE91d0VFNjFuMUZ5bGZNcGYxcVlKc1lfUHlsTVNPTVhoQUNYRU9QSjFFVndmUU5id3dKNFh1VU00b0FpT2dLYzBxVVpoTWltdw?oc=5)
 
 2026-06-26 <span class="news-indication-tag">癲癇</span>
 
-來源：[經濟日報](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jemhJNzhTRmduWE1fSmZ2TjhjdnZWRFFYOFlHNmhkQWRDR0ZLek1zVXJBdW9kZUNpWVdSQTZVLU9YNXpkT2JKVVByWUJyVUJBRF9VcHd3X09HeWRU0gFiQVVfeXFMT3VoUDU1blJaUW84RE5uREJXcnlqQ3lDd0ktRjRWMUVDckVwcGRzSXZMODdlLXlYbkhjelRJZExIN0ZOclZuZFpQdW41NFNpZGxaYzYwYkNDemh0aVc5LVhHcmc?oc=5)
+來源：[經商新聞](https://news.google.com/rss/articles/CBMiTkFVX3lxTE91d0VFNjFuMUZ5bGZNcGYxcVlKc1lfUHlsTVNPTVhoQUNYRU9QSjFFVndmUU5id3dKNFh1VU00b0FpT2dLYzBxVVpoTWltdw?oc=5)
 
 ---
 
