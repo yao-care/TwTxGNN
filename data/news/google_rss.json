@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-28T11:42:59.160222+00:00",
-  "count": 19,
+  "fetched_at": "2026-06-28T13:18:45.496285+00:00",
+  "count": 17,
   "news": [
     {
       "id": "762accac0e95",
@@ -52,6 +52,18 @@
       ]
     },
     {
+      "id": "bd8395cd85d6",
+      "title": "跟風孫淑媚吃膠原蛋白卻狂冒痘 營養師解析原因 - ETtoday健康雲",
+      "published": "2026-06-28T11:35:00+00:00",
+      "summary": "跟風孫淑媚吃膠原蛋白卻狂冒痘 營養師解析原因&nbsp;&nbsp;ETtoday健康雲天天補膠原蛋白卻沒感覺？營養師揭4大原因 吃錯還可能冒痘&nbsp;&nbsp;自由健康網狂補膠原蛋白狂冒痘痘？吃再多也沒感覺？營養師揭：膠原蛋白流失4大生活地雷&nbsp;&nbsp;PChome Online 新聞膠原蛋白是智商稅嗎？研究最快10天有變化 吃了沒感覺先看這3件事｜熱門話題&nbsp;&nbsp;網路溫度計 DailyView吃膠原蛋白＝皮膚Ｑ彈、強筋健骨?名醫科學解密!&nbsp;&nbsp;MSN",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ydTBlNWxBNjNxTDNuWUIzSjN2aEdQRTlkdnYtZ3ZrWFIxSTZuQnlld3dmc241MUdqc2V6S0k4RlQ3RkFnVDNkZzNaMGJfdFdO?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1fec8a38cb79",
       "title": "AI揪出抗藥性淋病新剋星 陰道晶片驗證成功 - 自由健康網",
       "published": "2026-06-27T03:40:00+00:00",
@@ -72,42 +84,6 @@
         {
           "name": "經濟日報",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jemhJNzhTRmduWE1fSmZ2TjhjdnZWRFFYOFlHNmhkQWRDR0ZLek1zVXJBdW9kZUNpWVdSQTZVLU9YNXpkT2JKVVByWUJyVUJBRF9VcHd3X09HeWRU0gFiQVVfeXFMT3VoUDU1blJaUW84RE5uREJXcnlqQ3lDd0ktRjRWMUVDckVwcGRzSXZMODdlLXlYbkhjelRJZExIN0ZOclZuZFpQdW41NFNpZGxaYzYwYkNDemh0aVc5LVhHcmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "31ab449859ec",
-      "title": "孫淑媚吃膠原蛋白變超美，你卻狂冒痘？ 營養師點名4大生活地雷：天天吃也會沒效 - Yahoo新聞",
-      "published": "2026-06-27T04:15:30+00:00",
-      "summary": "孫淑媚吃膠原蛋白變超美，你卻狂冒痘？ 營養師點名4大生活地雷：天天吃也會沒效&nbsp;&nbsp;Yahoo新聞天天補膠原蛋白卻沒感覺？營養師揭4大原因 吃錯還可能冒痘&nbsp;&nbsp;自由健康網狂補膠原蛋白狂冒痘痘？吃再多也沒感覺？營養師揭：膠原蛋白流失4大生活地雷&nbsp;&nbsp;PChome Online 新聞膠原蛋白是智商稅嗎？研究最快10天有變化 吃了沒感覺先看這3件事｜熱門話題&nbsp;&nbsp;網路溫度計 DailyView吃膠原蛋白＝皮膚Ｑ彈、強筋健骨?名醫科學解密!&nbsp;&nbsp;MSN",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOcXNYUVZIazlNNGxzdHh6Q2xrRkRRYzR1Q1VmWTBaYUxWNWtld1FqOThxTjg5RUtVZDhVT0o0RTB4MFdacWNBemkzNXlqQ0VWMzdESlgzeW5IR3RHbDN6Z3M1dzBLYmhVcjNGODgyYjgtSlprd0R5WWVDYk5fcU1oWTlYdERsSnRHRjNCWDhPenVHU1Y3ZWVKdTRuMEVDbmd0RWxEQUcyR1JwUWlzTmVycjE4QUR1SkhUM0JFRFNwSTEwTE1KZHRjVjFKZEpUbEtiM19oYXd0QU85T1lyUGRfMjBZUDhTc29rNnJVUmI1Uk9pdGJ6SGVBdmpaQ0tCTzFFY2RqSXQzanJxem1nMmlicVluSnN0YUtUNDhDVFRnTjBPdkFGOHhaRUw2RC1KREVhVGM3c2Riemh2ZS1iblBKNzE1a1VhS0hxa2J5MXo5SnlQMlZrenpkN1RvR3ktMXZ2bGdJQWJDQlNTTUI5RmdTbndhZHpxMU90YmJUZmx0QU5VN2dUcHVBM2xiY0hIZXM1WHNsYnNEN0R2UTFWWUgzMlF3b1Vaamtya2RRRGJWRHNqYlV3MHkwZ3NRTUUwckpROXpBclRxZUFHSUdaUUNDNHFSNHM4bEtUQVE0bjNHYzY0OVJX?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cb97db25e9e1",
-      "title": "HPV 疫苗成效達成新里程碑，英國 20~24 歲女性子宮頸癌連五年 0 死亡 - TechNews 科技新報",
-      "published": "2026-06-27T01:34:30+00:00",
-      "summary": "HPV 疫苗成效達成新里程碑，英國 20~24 歲女性子宮頸癌連五年 0 死亡&nbsp;&nbsp;TechNews 科技新報有性經驗、超過30歲還能打HPV疫苗？醫：仍有保護力&nbsp;&nbsp;Yahoo新聞HPV疫苗20年重大進展！台灣擴大公費接種男女通用，專家：防癌進入「全民防護新時代」&nbsp;&nbsp;PChome Online 新聞HPV 疫苗如何改變我們對癌症的看法 |健康&nbsp;&nbsp;arch-web.com.tw「超過30歲還能打HPV疫苗嗎？」醫一次解答！&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2t3d3RWM19aRTFlMmFJVVZYMWZLYUhYM0ZJR0RheGhRem5sODdaUzBmOEdBVWJUOWtyZ2l5aExJTlp4TEUteS1zMS1iclpadDh6T0xlaWYyRFk3MWJBVWE1SHczY2pNeHdDTGtwaFNTQWdVSUFialZoLXN3OThIR1NmcnR3LXA1UDFsSG0yM25WVVJQei1XQ1dCNHM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fd2889d7f26f",
-      "title": "【單詞故事】從西班牙流感到超級網紅| 病毒 | 英文 | 網紅 - 台灣大紀元",
-      "published": "2026-06-26T11:08:15+00:00",
-      "summary": "【單詞故事】從西班牙流感到超級網紅| 病毒 | 英文 | 網紅&nbsp;&nbsp;台灣大紀元",
-      "sources": [
-        {
-          "name": "台灣大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOREFSd0NnNXVycHRCWjRKclRBWkt2RjZ0VlFPb24tOVQ5RUM3WWxXUFV0V3V3a3JWeHF4R0ZFNjlNWWIwUEFSLTZzRF81Uk14Yncwd0lfSHVIbjlBdWlEVk1DRUtJamFLcFE0dUt4Y2ktZnlta3BYM3BHc2s2Sk9Tam1ndTJyNThFWWRqM3ZuNlRtR2xMM0pDZW9FNmxTR1VvUnY2YWxjS3Z6djkxbDNkRkhzRW5mU2JkUlV1NW80Yy1RUUN3YllXUC01SnlPUWR0bHdUMUphYnZIOVJoalAzejZwWGhaR0phUHFDYmZzUDVfVnRoeU9fOGxlMGJpdGJnUE9fcDRDN00?oc=5"
         }
       ]
     },
@@ -172,18 +148,6 @@
       ]
     },
     {
-      "id": "d2f1b21f0f3a",
-      "title": "癌細胞代謝彈性成治療挑戰 新療法瞄準能量通路 - 大纪元",
-      "published": "2026-06-26T17:00:00+00:00",
-      "summary": "癌細胞代謝彈性成治療挑戰 新療法瞄準能量通路&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PQXNueU5RVmtjNnhyQURKTkpkVEFnLTJCTXlieDZHWlRQN3JyM2xNdnFQRFRQX3JacUR0bmFESVMxWEN2UGh1MEVkSXUzZmpULTBNazJlT3ptNmZVczhrdtIBZkFVX3lxTE1pNlRJVk56bHBJQU9nblR2Z3EzeEpaSmQybTBmb3RRXzdYcS01RnkyZWcyaVlHODlTQUlOQW1uTE5ESFQwZW5vWmhOVWZaNWt0OWV5cHpXNk9jank3eGljUkczdXc5UQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ecf065c22bdb",
       "title": "抗生素｜連登仔質疑醫生：係唔係都開抗生素 即睇醫生開抗生素條件 - am730",
       "published": "2026-06-28T05:30:00+00:00",
@@ -196,14 +160,14 @@
       ]
     },
     {
-      "id": "cf48df4c15de",
-      "title": "身體不適該去哪就醫？急診室、緊急醫護中心與家庭醫生怎麼選 - 大纪元",
-      "published": "2026-06-26T23:00:00+00:00",
-      "summary": "身體不適該去哪就醫？急診室、緊急醫護中心與家庭醫生怎麼選&nbsp;&nbsp;大纪元",
+      "id": "d2f1b21f0f3a",
+      "title": "癌細胞代謝彈性成治療挑戰 新療法瞄準能量通路 - 大纪元",
+      "published": "2026-06-26T17:00:00+00:00",
+      "summary": "癌細胞代謝彈性成治療挑戰 新療法瞄準能量通路&nbsp;&nbsp;大纪元",
       "sources": [
         {
           "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ETEVoYzd6cl81MkI5ZzBxUE5kbG5JcVlsaHlxWVJzbWVOcjMtZGt3T1dnU29QSUROLXpZa1NXOVdWc3BsMkJDVVVwaWhwajFWVHVvREt3VEdJcEtrRGpVeNIBZkFVX3lxTE1DSnRuT2xpUl85SmJydnRqVGJnUkFpTlNZTjBYRmdXT0dydTNUdHZsTXEtVFFVYXczYXhLSURWOVJacTJINUJxa2hhUV9rNUh4clAxdi00cEhNUmtYdTh5NDdWRkwxdw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PQXNueU5RVmtjNnhyQURKTkpkVEFnLTJCTXlieDZHWlRQN3JyM2xNdnFQRFRQX3JacUR0bmFESVMxWEN2UGh1MEVkSXUzZmpULTBNazJlT3ptNmZVczhrdtIBZkFVX3lxTE1pNlRJVk56bHBJQU9nblR2Z3EzeEpaSmQybTBmb3RRXzdYcS01RnkyZWcyaVlHODlTQUlOQW1uTE5ESFQwZW5vWmhOVWZaNWt0OWV5cHpXNk9jank3eGljUkczdXc5UQ?oc=5"
         }
       ]
     },
@@ -216,6 +180,18 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNRlE1NV9CMlk1cTNUdlNVYzdHWXMtbEpEa2l4OVI0QWtWXzVuWmljVU5SU2xqUmZOWVlVZm4zVFJsX1laaGlFVkRTYmVmcU84dHBteWxScHZMNHNDQ2NSUU5UUmJvV1ZoZ2lJTWNfZ1RtdzQ1UDl1dnRkTUktN3BnY3cxTk9JMmtPNnkxWWxyNGoxajRjTC1tMWNsOVowV3dsWVBsTWRhLXIyczhSQXprOGU3VFQzNEhRNk1LN3doZ1VSVXNYRXRNQkE5dXJueGpKelY5VjRYQXpSeVJtQ0dCeEdUTzgta0k2M3hVMVhUU3FEOTl4MUxnV0xnc3ZyV1VFQkNrSXk0czdxODA1Y1drZ2o1MU1vTTByZ1FoUWNRRS1BTEdCY2lPRG85Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cf48df4c15de",
+      "title": "身體不適該去哪就醫？急診室、緊急醫護中心與家庭醫生怎麼選 - 大纪元",
+      "published": "2026-06-26T23:00:00+00:00",
+      "summary": "身體不適該去哪就醫？急診室、緊急醫護中心與家庭醫生怎麼選&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ETEVoYzd6cl81MkI5ZzBxUE5kbG5JcVlsaHlxWVJzbWVOcjMtZGt3T1dnU29QSUROLXpZa1NXOVdWc3BsMkJDVVVwaWhwajFWVHVvREt3VEdJcEtrRGpVeNIBZkFVX3lxTE1DSnRuT2xpUl85SmJydnRqVGJnUkFpTlNZTjBYRmdXT0dydTNUdHZsTXEtVFFVYXczYXhLSURWOVJacTJINUJxa2hhUV9rNUh4clAxdi00cEhNUmtYdTh5NDdWRkwxdw?oc=5"
         }
       ]
     },
