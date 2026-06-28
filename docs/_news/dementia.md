@@ -31,7 +31,7 @@ permalink: /news/dementia/
 
 ## 相關新聞（2 則）
 
-### [帶狀皰疹疫苗好處多！多項研究發現可降低失智症風險- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTFBVTmVPRUNTNlNEd0J6QlpiUEpUaWNGVmJuQ0paVFpBT0xvcG02WnZpYUhlS1hlVXh4WFNyUGF4bTNqZ1RuLTRwZ1g5NVE1dm1Gc25zazN0OHpDRHljSGNKZjRkTmwyZmRXWFJENS13?oc=5)
+### [帶狀皰疹疫苗好處多！多項研究發現可降低失智症風險- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTFBVTmVPRUNTNlNEd0J6QlpiUEpUaWNGVmJuQ0paVFpBT0xvcG02WnZpYUhlS1hlVXh4WFNyUGF4bTNqZ1RuLTRwZ1g5NVE1dm1Gc25zazN0OHpDRHljSGNKZjRkTmwyZmRXWFJENS13?oc=5)
 
 2026-06-28
 

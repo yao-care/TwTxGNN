@@ -1,13 +1,13 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-28T15:12:28.511620+00:00",
+  "fetched_at": "2026-06-28T16:59:05.464001+00:00",
   "count": 19,
   "news": [
     {
-      "id": "55f5983e3cfa",
-      "title": "帶狀皰疹疫苗好處多！多項研究發現可降低失智症風險- 健康 - 中時新聞網",
+      "id": "7f1c7b8ad711",
+      "title": "帶狀皰疹疫苗好處多！多項研究發現可降低失智症風險- 國際 - 中時新聞網",
       "published": "2026-06-28T14:28:55+00:00",
-      "summary": "帶狀皰疹疫苗好處多！多項研究發現可降低失智症風險- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "帶狀皰疹疫苗好處多！多項研究發現可降低失智症風險- 國際&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
@@ -64,18 +64,6 @@
       ]
     },
     {
-      "id": "dc13fa17db85",
-      "title": "猝死可能早有徵兆！AI可望揪出心電圖的危險訊號 - 壹蘋新聞網",
-      "published": "2026-06-28T06:00:00+00:00",
-      "summary": "猝死可能早有徵兆！AI可望揪出心電圖的危險訊號&nbsp;&nbsp;壹蘋新聞網",
-      "sources": [
-        {
-          "name": "壹蘋新聞網",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hLTE5M2tvcnZ2Z3R0aXJaLXJQa21Ddk5qbmwtSF9FQ0lfdVRVMEROODR0NDFjOV9pV2daTzNPQk42cUJnSjVlTDlucDFWQkoxUkNnVXphSW0wcDgtVG5RMUFJNmpCaVgxZ0FfYUxRanhLc19jZlp3QVNSc3A1QQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "accdf495abf7",
       "title": "跟風孫淑媚吃膠原蛋白卻狂冒痘　營養師解析原因 - ETtoday健康雲",
       "published": "2026-06-28T11:35:00+00:00",
@@ -84,6 +72,18 @@
         {
           "name": "ETtoday健康雲",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ydTBlNWxBNjNxTDNuWUIzSjN2aEdQRTlkdnYtZ3ZrWFIxSTZuQnlld3dmc241MUdqc2V6S0k4RlQ3RkFnVDNkZzNaMGJfdFdO0gFsQVVfeXFMUFMzTmQ2NEJxR1VaN0dTSExqc2hTWGZkdlhCckdqVEZDNUVSdFdxWjI4Rzd3NXctNVpLY0JodWZ4SEtlTnphSGttOXJnclZQZkFra3F5UnNPQkhvVjdHaTZCVkxmYWxKSnFzWU9j?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dc13fa17db85",
+      "title": "猝死可能早有徵兆！AI可望揪出心電圖的危險訊號 - 壹蘋新聞網",
+      "published": "2026-06-28T06:00:00+00:00",
+      "summary": "猝死可能早有徵兆！AI可望揪出心電圖的危險訊號&nbsp;&nbsp;壹蘋新聞網",
+      "sources": [
+        {
+          "name": "壹蘋新聞網",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hLTE5M2tvcnZ2Z3R0aXJaLXJQa21Ddk5qbmwtSF9FQ0lfdVRVMEROODR0NDFjOV9pV2daTzNPQk42cUJnSjVlTDlucDFWQkoxUkNnVXphSW0wcDgtVG5RMUFJNmpCaVgxZ0FfYUxRanhLc19jZlp3QVNSc3A1QQ?oc=5"
         }
       ]
     },
@@ -100,14 +100,14 @@
       ]
     },
     {
-      "id": "c4ed25f68600",
-      "title": "歐洲神經學學會大會 (EAN Congress) ：同時患有癲癇與聽力受損者使用助聽器，與認知障礙症風險降低 23% 相關 - 經濟日報",
-      "published": "2026-06-26T23:00:47+00:00",
-      "summary": "歐洲神經學學會大會 (EAN Congress) ：同時患有癲癇與聽力受損者使用助聽器，與認知障礙症風險降低 23% 相關&nbsp;&nbsp;經濟日報",
+      "id": "3080190c6692",
+      "title": "歐洲神經學學會大會(EAN Congress) ：同時患有癲癇與聽力受損者使用助聽器，與認知障礙症風險降低23% 相關 - 台灣新聞雲報",
+      "published": "2026-06-26T23:40:40+00:00",
+      "summary": "歐洲神經學學會大會(EAN Congress) ：同時患有癲癇與聽力受損者使用助聽器，與認知障礙症風險降低23% 相關&nbsp;&nbsp;台灣新聞雲報",
       "sources": [
         {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jemhJNzhTRmduWE1fSmZ2TjhjdnZWRFFYOFlHNmhkQWRDR0ZLek1zVXJBdW9kZUNpWVdSQTZVLU9YNXpkT2JKVVByWUJyVUJBRF9VcHd3X09HeWRU0gFiQVVfeXFMT3VoUDU1blJaUW84RE5uREJXcnlqQ3lDd0ktRjRWMUVDckVwcGRzSXZMODdlLXlYbkhjelRJZExIN0ZOclZuZFpQdW41NFNpZGxaYzYwYkNDemh0aVc5LVhHcmc?oc=5"
+          "name": "台灣新聞雲報",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAzWGdoTTlxQVE0VVlvcG1TZ1MwRDlHLUVScGtCdm91cjBSazVsWlkzYWVQZzU4QnNNSWJEQkhnQnVGUFJCYnc?oc=5"
         }
       ]
     },
@@ -139,7 +139,7 @@
       "id": "d8aa2d85973e",
       "title": "許樹昌：半年未見流感爆發 小心提防夏季高峰 - AM730",
       "published": "2026-06-27T07:41:41+00:00",
-      "summary": "許樹昌：半年未見流感爆發 小心提防夏季高峰&nbsp;&nbsp;AM730不是冬天才會中新冠、流感！醫揭病毒流行新趨勢：夏天發燒、喉嚨痛更要把握「這段時間」&nbsp;&nbsp;良醫健康網新冠病毒｜許樹昌指近期入院個案增多 恐與流感一同「夏季爆發」&nbsp;&nbsp;香港01夏季流感風險升溫 甲乙型個案齊升 及早接種疫苗增保護&nbsp;&nbsp;東周刊夏天喉嚨痛發燒不只是中暑？醫生揭6大夏季流行病毒！1類場所最易爆發手足口病| 事事如意生活網站&nbsp;&nbsp;CCUE.ca",
+      "summary": "許樹昌：半年未見流感爆發 小心提防夏季高峰&nbsp;&nbsp;AM730不是冬天才會中新冠、流感！醫揭病毒流行新趨勢：夏天發燒、喉嚨痛更要把握「這段時間」&nbsp;&nbsp;良醫健康網新冠病毒｜許樹昌指近期入院個案增多 恐與流感一同「夏季爆發」&nbsp;&nbsp;香港01夏季流感風險升溫 甲乙型個案齊升 及早接種疫苗增保護&nbsp;&nbsp;東周刊夏天發燒喉嚨痛別硬扛！新冠流感「去季節化」反撲，醫揭3大元凶與治療黃金期&nbsp;&nbsp;PanSci 泛科學",
       "sources": [
         {
           "name": "AM730",
@@ -196,18 +196,6 @@
       ]
     },
     {
-      "id": "d2f1b21f0f3a",
-      "title": "癌細胞代謝彈性成治療挑戰 新療法瞄準能量通路 - 大纪元",
-      "published": "2026-06-26T17:00:00+00:00",
-      "summary": "癌細胞代謝彈性成治療挑戰 新療法瞄準能量通路&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PQXNueU5RVmtjNnhyQURKTkpkVEFnLTJCTXlieDZHWlRQN3JyM2xNdnFQRFRQX3JacUR0bmFESVMxWEN2UGh1MEVkSXUzZmpULTBNazJlT3ptNmZVczhrdtIBZkFVX3lxTE1pNlRJVk56bHBJQU9nblR2Z3EzeEpaSmQybTBmb3RRXzdYcS01RnkyZWcyaVlHODlTQUlOQW1uTE5ESFQwZW5vWmhOVWZaNWt0OWV5cHpXNk9jank3eGljUkczdXc5UQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cf48df4c15de",
       "title": "身體不適該去哪就醫？急診室、緊急醫護中心與家庭醫生怎麼選 - 大纪元",
       "published": "2026-06-26T23:00:00+00:00",
@@ -228,6 +216,18 @@
         {
           "name": "Ming Pao Weekly",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaTJXOUxkdmFJaEhyTFJUOGhFZlY4TW1CenQ1Z2NjMEd5R1VDM0R1SVhvbXo1VnRjdHVLVXh5S1h6eGk5NnlMY0JDZ0J3Y0ZYVW9OUkxOb1ZxZlpUaV94RElRU2pMdDJITFZEVXZsdHk3Q2o5Vjc3enhGejUwVlBkMFpBYXRhdXhUeTdaMVhGZmpoeVlfYjhfdG9XdHZoaXNfRmFhZi1DaVZiVkpleHJNa0J3ajBCOS01MHVuMlRkbGtyNl8wMWI2ekQwV29zQ3pvUE5RSFVER3g?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d2f1b21f0f3a",
+      "title": "癌細胞代謝彈性成治療挑戰 新療法瞄準能量通路 - 大纪元",
+      "published": "2026-06-26T17:00:00+00:00",
+      "summary": "癌細胞代謝彈性成治療挑戰 新療法瞄準能量通路&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PQXNueU5RVmtjNnhyQURKTkpkVEFnLTJCTXlieDZHWlRQN3JyM2xNdnFQRFRQX3JacUR0bmFESVMxWEN2UGh1MEVkSXUzZmpULTBNazJlT3ptNmZVczhrdtIBZkFVX3lxTE1pNlRJVk56bHBJQU9nblR2Z3EzeEpaSmQybTBmb3RRXzdYcS01RnkyZWcyaVlHODlTQUlOQW1uTE5ESFQwZW5vWmhOVWZaNWt0OWV5cHpXNk9jank3eGljUkczdXc5UQ?oc=5"
         }
       ]
     }
