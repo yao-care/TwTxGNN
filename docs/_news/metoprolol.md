@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [健康網》「高血壓沒症狀不代表沒事」醫：腦出血發病前無警訊](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ud0tLU1dfVWF0ekZfenh1aUJRbEFPdDhLeEtUM0ZrMm1GYUlGbDl6WnZEcndBWmV3emhVWFZaTlJtbXJ4bkF1MG5faWxKNEFmaFNVMVRJV3lIeDI3TFR3ZjlnQ2XSAWpBVV95cUxQOVVSS190REtRb0pNRllwV1hvMGdocjVpdlJNZ21naWFuXy1fbjdIVzdwRUQwSEgxbWNjbnZ5TW03RWFReTc0V1U1SzdyX3NCa3dKbk5mR0RFYUxuS3lwUjFCT0lLQ1o2WWtR?oc=5)
+
+2026-06-28 <span class="news-indication-tag">高血壓</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ud0tLU1dfVWF0ekZfenh1aUJRbEFPdDhLeEtUM0ZrMm1GYUlGbDl6WnZEcndBWmV3emhVWFZaTlJtbXJ4bkF1MG5faWxKNEFmaFNVMVRJV3lIeDI3TFR3ZjlnQ2XSAWpBVV95cUxQOVVSS190REtRb0pNRllwV1hvMGdocjVpdlJNZ21naWFuXy1fbjdIVzdwRUQwSEgxbWNjbnZ5TW03RWFReTc0V1U1SzdyX3NCa3dKbk5mR0RFYUxuS3lwUjFCT0lLQ1o2WWtR?oc=5)
+
+---
+
+### [HPV 疫苗成效達成新里程碑，英國 20~24 歲女性子宮頸癌連五年 0 死亡 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZSk9wSy1nel9iTWhpZDVNbkktakJpbnZGanFJd0UwLTBIWkNPUkc0cnN2bHBOMmNKdmJPOXRla3hTell3aVJBdTNQdzNJbEItRG5hd29R?oc=5)
+
+2026-06-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZSk9wSy1nel9iTWhpZDVNbkktakJpbnZGanFJd0UwLTBIWkNPUkc0cnN2bHBOMmNKdmJPOXRla3hTell3aVJBdTNQdzNJbEItRG5hd29R?oc=5)
+
+---
 
 ### [香港癌症基金會專欄：「港兄弟•講檢查」關注男性癌症講座 – 健康飲食之道-專欄- 明周文化 - Ming Pao Weekly](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaTJXOUxkdmFJaEhyTFJUOGhFZlY4TW1CenQ1Z2NjMEd5R1VDM0R1SVhvbXo1VnRjdHVLVXh5S1h6eGk5NnlMY0JDZ0J3Y0ZYVW9OUkxOb1ZxZlpUaV94RElRU2pMdDJITFZEVXZsdHk3Q2o5Vjc3enhGejUwVlBkMFpBYXRhdXhUeTdaMVhGZmpoeVlfYjhfdG9XdHZoaXNfRmFhZi1DaVZiVkpleHJNa0J3ajBCOS01MHVuMlRkbGtyNl8wMWI2ekQwV29zQ3pvUE5RSFVER3g?oc=5)
 

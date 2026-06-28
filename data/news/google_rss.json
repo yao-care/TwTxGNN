@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-28T06:55:53.831407+00:00",
-  "count": 19,
+  "fetched_at": "2026-06-28T09:54:35.552015+00:00",
+  "count": 21,
   "news": [
+    {
+      "id": "762accac0e95",
+      "title": "「1運動」大增心肺功能、粒線體翻倍增：12週就有效 - Yahoo新聞",
+      "published": "2026-06-28T03:56:40+00:00",
+      "summary": "「1運動」大增心肺功能、粒線體翻倍增：12週就有效&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQQjBEWWp5MmVsc3RfcGxIeVdIT1N5SldFVmE0WTZYRkg0dXBaZl9uVDZFSHppTjUtOWRObmh3dW1FNkM3Z2ctM2pMUjJIcjdab0NYeE5PMFdreXFZZ3lfZG5vZk1QSVMxMnVqVGI4M0lxdmk5S3BzbjZtaVZ0ZWR3bXJOUmVxMXlYYlBTTGZLR0pmNXVnUDRMMkJfODlkTVdMN3JOU3MxS3NJQkdhVGJhRWxsYVJCZ2lLaFFyOGhBSFZtRGd5NWtRN3NINThRLVhoTjMxSUV3TElhVldlMlBvcXpfVG8yeXM0RDNJVlhhbnB5cWFIUkFCOGhXNGg5RDU2S3JNYWh1LXEyOURlUXYtbUlUazBaMFdKLVQ1bUMtOUxhOW0wczI1ZHJMaktCQkpWQ1ZN?oc=5"
+        }
+      ]
+    },
     {
       "id": "62103c56bbd8",
       "title": "不是代謝變慢 研究揭中年肚子愈來愈大的真正原因 - 自由健康網",
@@ -16,14 +28,26 @@
       ]
     },
     {
-      "id": "970f6d01bc01",
-      "title": "蔡嘉軒手術縫補蟹足腫患者人生 - Yahoo新聞",
-      "published": "2026-06-27T20:10:00+00:00",
-      "summary": "蔡嘉軒手術縫補蟹足腫患者人生&nbsp;&nbsp;Yahoo新聞",
+      "id": "92cb8d9fef8c",
+      "title": "健康網》「高血壓沒症狀不代表沒事」醫：腦出血發病前無警訊 - 自由健康網",
+      "published": "2026-06-28T05:45:04+00:00",
+      "summary": "健康網》「高血壓沒症狀不代表沒事」醫：腦出血發病前無警訊&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPM096Y1ZFcUhZR21nN2pRaWlxOVZQQk5hU2tQWHJMRzczbloyZWZpUkpPdnRVQVByNXcta2dVYl9ydjgwS3RVeXhqa2dDREgwLTJxcTQzaWpfUWJYdlRVSUFUZUlrXzByTWIzdy14VjlXcVdiWTc4U0NsLWgyQWgzN3VNU19LdkRZSThtNUdMWGVkQXBTSTAwdGE5ak4zUWNPU1ZRQm54ZmNrSXZmdnREcmxqcnJJaHQ5cFJ2MUluaUNVUGVRX1U3VmlvYzgwd2NGN3g0ZzFXU05LYkR5VElmSy00OGFaYXNHMElNTnBYRHE1VnVzMG95dzBSWQ?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ud0tLU1dfVWF0ekZfenh1aUJRbEFPdDhLeEtUM0ZrMm1GYUlGbDl6WnZEcndBWmV3emhVWFZaTlJtbXJ4bkF1MG5faWxKNEFmaFNVMVRJV3lIeDI3TFR3ZjlnQ2XSAWpBVV95cUxQOVVSS190REtRb0pNRllwV1hvMGdocjVpdlJNZ21naWFuXy1fbjdIVzdwRUQwSEgxbWNjbnZ5TW03RWFReTc0V1U1SzdyX3NCa3dKbk5mR0RFYUxuS3lwUjFCT0lLQ1o2WWtR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a2b54eaf1d4f",
+      "title": "蔡嘉軒手術縫補蟹足腫患者人生 - 中時新聞網",
+      "published": "2026-06-27T20:10:00+00:00",
+      "summary": "蔡嘉軒手術縫補蟹足腫患者人生&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHUmkxQjRRb1VyalNFeExEOUp5cWhQMGtmcFlkZGRxYUwyTXZLUDZzUnpLbHVfb3dVUEp2c0IwX1NmaGptckpyUnlZblFsMTFrclFPYVFvbVVQS1JTQkU4ZGVlN2tPVlNmVGgw?oc=5"
         }
       ]
     },
@@ -36,18 +60,6 @@
         {
           "name": "壹蘋新聞網",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hLTE5M2tvcnZ2Z3R0aXJaLXJQa21Ddk5qbmwtSF9FQ0lfdVRVMEROODR0NDFjOV9pV2daTzNPQk42cUJnSjVlTDlucDFWQkoxUkNnVXphSW0wcDgtVG5RMUFJNmpCaVgxZ0FfYUxRanhLc19jZlp3QVNSc3A1QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e0d4c89febb5",
-      "title": "狂補膠原蛋白狂冒痘痘？吃再多也沒感覺？營養師揭：膠原蛋白流失4大生活地雷 - PChome Online 新聞",
-      "published": "2026-06-27T03:52:44+00:00",
-      "summary": "狂補膠原蛋白狂冒痘痘？吃再多也沒感覺？營養師揭：膠原蛋白流失4大生活地雷&nbsp;&nbsp;PChome Online 新聞吃膠原蛋白拚凍齡卻爆痘 營養師揪4大地雷&nbsp;&nbsp;自由健康網吃膠原蛋白＝皮膚Ｑ彈、強筋健骨?名醫科學解密!&nbsp;&nbsp;MSN孫淑媚天天吃膠原蛋白！網崩潰喊「狂冒痘」？營養師揭真相：4大地雷別踩&nbsp;&nbsp;udn 女子漾膠原蛋白是智商稅嗎？研究最快10天有變化 吃了沒感覺先看這3件事｜熱門話題&nbsp;&nbsp;網路溫度計DailyView",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXlnckxoTlA0em1vV0MyREd2LVM1YWdreE9sVFRFazlSaE5qTkU1MUtuT20xMmJuUTRwTk1SVmNlZzhIcVUxRThhTTdpN21DNzBtSUNlR282NHFPUzVlbEMwaGhtMHUtUUxrbDM3eXpKYTc1eGRIYjM1Ykw5eHpwdnFxd21sbi1VLVpXaFBqSTlLcWM?oc=5"
         }
       ]
     },
@@ -76,14 +88,26 @@
       ]
     },
     {
-      "id": "cb97db25e9e1",
-      "title": "HPV 疫苗成效達成新里程碑，英國 20~24 歲女性子宮頸癌連五年 0 死亡 - TechNews 科技新報",
-      "published": "2026-06-27T01:34:30+00:00",
-      "summary": "HPV 疫苗成效達成新里程碑，英國 20~24 歲女性子宮頸癌連五年 0 死亡&nbsp;&nbsp;TechNews 科技新報",
+      "id": "31ab449859ec",
+      "title": "孫淑媚吃膠原蛋白變超美，你卻狂冒痘？ 營養師點名4大生活地雷：天天吃也會沒效 - Yahoo新聞",
+      "published": "2026-06-27T04:15:30+00:00",
+      "summary": "孫淑媚吃膠原蛋白變超美，你卻狂冒痘？ 營養師點名4大生活地雷：天天吃也會沒效&nbsp;&nbsp;Yahoo新聞天天補膠原蛋白卻沒感覺？營養師揭4大原因 吃錯還可能冒痘&nbsp;&nbsp;自由健康網狂補膠原蛋白狂冒痘痘？吃再多也沒感覺？營養師揭：膠原蛋白流失4大生活地雷&nbsp;&nbsp;PChome Online 新聞膠原蛋白是智商稅嗎？研究最快10天有變化 吃了沒感覺先看這3件事｜熱門話題&nbsp;&nbsp;網路溫度計 DailyView吃膠原蛋白＝皮膚Ｑ彈、強筋健骨?名醫科學解密!&nbsp;&nbsp;MSN",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2t3d3RWM19aRTFlMmFJVVZYMWZLYUhYM0ZJR0RheGhRem5sODdaUzBmOEdBVWJUOWtyZ2l5aExJTlp4TEUteS1zMS1iclpadDh6T0xlaWYyRFk3MWJBVWE1SHczY2pNeHdDTGtwaFNTQWdVSUFialZoLXN3OThIR1NmcnR3LXA1UDFsSG0yM25WVVJQei1XQ1dCNHM?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOcXNYUVZIazlNNGxzdHh6Q2xrRkRRYzR1Q1VmWTBaYUxWNWtld1FqOThxTjg5RUtVZDhVT0o0RTB4MFdacWNBemkzNXlqQ0VWMzdESlgzeW5IR3RHbDN6Z3M1dzBLYmhVcjNGODgyYjgtSlprd0R5WWVDYk5fcU1oWTlYdERsSnRHRjNCWDhPenVHU1Y3ZWVKdTRuMEVDbmd0RWxEQUcyR1JwUWlzTmVycjE4QUR1SkhUM0JFRFNwSTEwTE1KZHRjVjFKZEpUbEtiM19oYXd0QU85T1lyUGRfMjBZUDhTc29rNnJVUmI1Uk9pdGJ6SGVBdmpaQ0tCTzFFY2RqSXQzanJxem1nMmlicVluSnN0YUtUNDhDVFRnTjBPdkFGOHhaRUw2RC1KREVhVGM3c2Riemh2ZS1iblBKNzE1a1VhS0hxa2J5MXo5SnlQMlZrenpkN1RvR3ktMXZ2bGdJQWJDQlNTTUI5RmdTbndhZHpxMU90YmJUZmx0QU5VN2dUcHVBM2xiY0hIZXM1WHNsYnNEN0R2UTFWWUgzMlF3b1Vaamtya2RRRGJWRHNqYlV3MHkwZ3NRTUUwckpROXpBclRxZUFHSUdaUUNDNHFSNHM4bEtUQVE0bjNHYzY0OVJX?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bbca72fbcf58",
+      "title": "HPV 疫苗成效達成新里程碑，英國 20~24 歲女性子宮頸癌連五年 0 死亡 | 科技新報 - LINE TODAY",
+      "published": "2026-06-27T09:51:39+00:00",
+      "summary": "HPV 疫苗成效達成新里程碑，英國 20~24 歲女性子宮頸癌連五年 0 死亡 | 科技新報&nbsp;&nbsp;LINE TODAY有性經驗、超過30歲還能打HPV疫苗？醫：仍有保護力&nbsp;&nbsp;Yahoo新聞HPV 疫苗成效達成新里程碑，英國 20~24 歲女性子宮頸癌連五年 0 死亡&nbsp;&nbsp;TechNews 科技新報HPV疫苗20年重大進展！台灣擴大公費接種男女通用，專家：防癌進入「全民防護新時代」&nbsp;&nbsp;PChome Online 新聞HPV 疫苗如何改變我們對癌症的看法 |健康&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZSk9wSy1nel9iTWhpZDVNbkktakJpbnZGanFJd0UwLTBIWkNPUkc0cnN2bHBOMmNKdmJPOXRla3hTell3aVJBdTNQdzNJbEItRG5hd29R?oc=5"
         }
       ]
     },

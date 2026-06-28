@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [HPV 疫苗成效達成新里程碑，英國 20~24 歲女性子宮頸癌連五年 0 死亡 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZSk9wSy1nel9iTWhpZDVNbkktakJpbnZGanFJd0UwLTBIWkNPUkc0cnN2bHBOMmNKdmJPOXRla3hTell3aVJBdTNQdzNJbEItRG5hd29R?oc=5)
+
+2026-06-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZSk9wSy1nel9iTWhpZDVNbkktakJpbnZGanFJd0UwLTBIWkNPUkc0cnN2bHBOMmNKdmJPOXRla3hTell3aVJBdTNQdzNJbEItRG5hd29R?oc=5)
+
+---
 
 ### [明明不是腦部疾病，為何也會增加失智風險？研究點名16種高風險疾病｜大腦健康｜失智](https://news.google.com/rss/articles/CBMigwFBVV95cUxOMGhSTXcxSXhDMUktVEs3aEVKLVNnWlpSeElkd2J3djllejVQZjhNZ2NQYUhUWWxSX1NQYWhveldLaHpjQmVLemdWTF9TQS1Sc1pyMXpBU1ViR0V0VTZyVzR6NGRxajZpNVlIcHJTREdRcG9DcEdHZEE0QWx1UlI3OWdkbw?oc=5)
 
