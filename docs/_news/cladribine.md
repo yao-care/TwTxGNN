@@ -40,11 +40,11 @@ permalink: /news/cladribine/
 
 ## 相關新聞（2 則）
 
-### [HPV 疫苗成效達成新里程碑，英國 20~24 歲女性子宮頸癌連五年 0 死亡 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZSk9wSy1nel9iTWhpZDVNbkktakJpbnZGanFJd0UwLTBIWkNPUkc0cnN2bHBOMmNKdmJPOXRla3hTell3aVJBdTNQdzNJbEItRG5hd29R?oc=5)
+### [HPV 疫苗成效達成新里程碑，英國 20~24 歲女性子宮頸癌連五年 0 死亡 - TechNews 科技新報](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2t3d3RWM19aRTFlMmFJVVZYMWZLYUhYM0ZJR0RheGhRem5sODdaUzBmOEdBVWJUOWtyZ2l5aExJTlp4TEUteS1zMS1iclpadDh6T0xlaWYyRFk3MWJBVWE1SHczY2pNeHdDTGtwaFNTQWdVSUFialZoLXN3OThIR1NmcnR3LXA1UDFsSG0yM25WVVJQei1XQ1dCNHM?oc=5)
 
 2026-06-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZSk9wSy1nel9iTWhpZDVNbkktakJpbnZGanFJd0UwLTBIWkNPUkc0cnN2bHBOMmNKdmJPOXRla3hTell3aVJBdTNQdzNJbEItRG5hd29R?oc=5)
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2t3d3RWM19aRTFlMmFJVVZYMWZLYUhYM0ZJR0RheGhRem5sODdaUzBmOEdBVWJUOWtyZ2l5aExJTlp4TEUteS1zMS1iclpadDh6T0xlaWYyRFk3MWJBVWE1SHczY2pNeHdDTGtwaFNTQWdVSUFialZoLXN3OThIR1NmcnR3LXA1UDFsSG0yM25WVVJQei1XQ1dCNHM?oc=5)
 
 ---
 
