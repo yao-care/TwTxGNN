@@ -1,31 +1,7 @@
 {
-  "generated": "2026-06-29T10:24:05.845555+00:00",
-  "count": 5,
+  "generated": "2026-06-29T14:41:55.832624+00:00",
+  "count": 4,
   "news": [
-    {
-      "id": "2c38806e0d0c",
-      "title": "「吃冰會感冒嗎」夫妻戰翻！名醫戳破迷思：你不是用鼻子吃",
-      "published": "2026-06-29T07:34:00+00:00",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xeEdodXg5aFpHenFNZ2pOUXZiU0RXaFE4bzhuRk1XQmViVDIyRjVaNWhqLWZ5d3Y3OElRNXJENjZJQ21LbmlxSjVFT1BrS2xh0gFsQVVfeXFMUDg5RkxzZE1YaGlZMFdXamYyclVZdHdLd2tESzBCal9ZeGlrOGFRbnRHanRfVXBXb09ISXl4aUlJTk84a3VlSEJHUkJhSHB1alZINFVYY1EwdnRyQmtIMjFLcXlmN3pGeHJTOWxL?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "7b27525a9c3b",
       "title": "正確認知規範治療，一起讀懂癲癇",
