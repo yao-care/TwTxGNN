@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [罹癌要跟年邁父母說嗎？癌症年輕化中年患者陷兩難 醫：先思考2個問題](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1udml5RzV0ZW9yanNUSk9fR1prS3EyOVhLUzdrMVhyeTRGUDRua0ZmbGVHeTlFOGZnaFF5Z2RKNU1MSzBBTG1xSEZYZnQtOWJHZ1hMU21n?oc=5)
+
+2026-06-29 <span class="news-indication-tag">癌症</span>
+
+來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1udml5RzV0ZW9yanNUSk9fR1prS3EyOVhLUzdrMVhyeTRGUDRua0ZmbGVHeTlFOGZnaFF5Z2RKNU1MSzBBTG1xSEZYZnQtOWJHZ1hMU21n?oc=5)
+
+---
 
 ### [帶狀皰疹疫苗好處多！多項研究發現可降低失智症風險- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTFBVTmVPRUNTNlNEd0J6QlpiUEpUaWNGVmJuQ0paVFpBT0xvcG02WnZpYUhlS1hlVXh4WFNyUGF4bTNqZ1RuLTRwZ1g5NVE1dm1Gc25zazN0OHpDRHljSGNKZjRkTmwyZmRXWFJENS13?oc=5)
 

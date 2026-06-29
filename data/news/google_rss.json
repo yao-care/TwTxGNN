@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-29T22:47:12.891525+00:00",
-  "count": 14,
+  "fetched_at": "2026-06-29T23:54:35.537878+00:00",
+  "count": 16,
   "news": [
     {
       "id": "7870eb2d7394",
@@ -12,6 +12,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPRS1pSDdpLU10OG4wYUlhRk1YT1JvTW9lMFRDV2FnYnp5ei16M0NmVEltYmNSRVlzcDQ3STc1bGZJN0ZZUktPaDM5WVBXa21Qd2lCNUtCbVFwSFVDTUFtdU1wZVY4UE9TdzJ4NVFadnNNNnRqSVhneGVxVF8tWm9ta3pYNmNLWFlHcElSNE4xejFxZFhyOGhWbHdobzZjUngyUkl4WDlfdVdCZkh1MWRoVktWamR5b05nSUJFS0lNLU5SZ3pOdHdQYXktdzJWcGlic19Pc3RQS2NMUU9hbEJLOXR6R2JwZko2amNRbkFSLV9zekh0VHNEd1NfQVVfX19weDBzUU9UVWFaZVlfUFM0Mmd5TnRTdE45dTVVYkpsR0JxS3dnUHU0SmhwSGFHYVZqOWJXWEhLZVVuZVlwelo0V2dTOEoydmdTWHNpSlhkczRHTF9ZeW9WZUJwdXNJZ1RMc2JUMEFKVS1PQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e34274d2b28e",
+      "title": "罹癌要跟年邁父母說嗎？癌症年輕化中年患者陷兩難 醫：先思考2個問題 - 健康醫療網",
+      "published": "2026-06-29T09:00:00+00:00",
+      "summary": "罹癌要跟年邁父母說嗎？癌症年輕化中年患者陷兩難 醫：先思考2個問題&nbsp;&nbsp;健康醫療網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1udml5RzV0ZW9yanNUSk9fR1prS3EyOVhLUzdrMVhyeTRGUDRua0ZmbGVHeTlFOGZnaFF5Z2RKNU1MSzBBTG1xSEZYZnQtOWJHZ1hMU21n?oc=5"
         }
       ]
     },
@@ -136,10 +148,22 @@
       ]
     },
     {
+      "id": "447773cd2e7a",
+      "title": "硬核醫學模擬《Symptoms of Infection》登陸Steam 揪出變異病原體展開搶先體驗 - Ludens Media",
+      "published": "2026-06-29T22:40:04+00:00",
+      "summary": "硬核醫學模擬《Symptoms of Infection》登陸Steam 揪出變異病原體展開搶先體驗&nbsp;&nbsp;Ludens Media",
+      "sources": [
+        {
+          "name": "Ludens Media",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5valJzYUs4cGNEV2Y1TDZ6ekpwSEotRzlWWWJOaU9HenNEaWJDN1RwLWtIY1RCNWhrVGZQRjFxSVFZUG15XzYzSy12RDJJRXV3TVJMOWZ5TURFUk9xbU9NZ1NjRWlJV3Bfb1gyWlRB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "515d04a52f1e",
       "title": "衞生署提醒市民暑假外遊慎防傳染病 - 紫荊網",
       "published": "2026-06-29T03:30:48+00:00",
-      "summary": "衞生署提醒市民暑假外遊慎防傳染病&nbsp;&nbsp;紫荊網衛生署：暑假外遊，慎防麻疹和伊波拉等傳染病&nbsp;&nbsp;香港商报伊波拉疫區返港市民 衞生署籲主動申報&nbsp;&nbsp;星島頭條衞生署提醒市民暑假外遊慎防傳染病- 政務號&nbsp;&nbsp;大公文匯網衞生防護中心提醒市民暑假外遊須預防傳染病&nbsp;&nbsp;香港電台新聞網",
+      "summary": "衞生署提醒市民暑假外遊慎防傳染病&nbsp;&nbsp;紫荊網衛生署：暑假外遊，慎防麻疹和伊波拉等傳染病&nbsp;&nbsp;香港商报伊波拉疫區返港市民 衞生署籲主動申報&nbsp;&nbsp;星島頭條衞生防護中心提醒市民暑假外遊須預防傳染病&nbsp;&nbsp;香港電台新聞網衞生署舉行跨部門演習 加強政府應對埃博拉病防控能力&nbsp;&nbsp;紫荊網",
       "sources": [
         {
           "name": "紫荊網",

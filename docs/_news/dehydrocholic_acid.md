@@ -14,7 +14,7 @@ permalink: /news/dehydrocholic_acid/
 ---
 
 <p class="key-answer" data-question="Dehydrocholic acid 有什麼相關新聞？">
-<strong>Dehydrocholic acid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dehydrocholic acid</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/dehydrocholic_acid/
 <p><a href="{{ '/drugs/dehydrocholic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [罹癌要跟年邁父母說嗎？癌症年輕化中年患者陷兩難 醫：先思考2個問題](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1udml5RzV0ZW9yanNUSk9fR1prS3EyOVhLUzdrMVhyeTRGUDRua0ZmbGVHeTlFOGZnaFF5Z2RKNU1MSzBBTG1xSEZYZnQtOWJHZ1hMU21n?oc=5)
+
+2026-06-29 <span class="news-indication-tag">癌症</span>
+
+來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1udml5RzV0ZW9yanNUSk9fR1prS3EyOVhLUzdrMVhyeTRGUDRua0ZmbGVHeTlFOGZnaFF5Z2RKNU1MSzBBTG1xSEZYZnQtOWJHZ1hMU21n?oc=5)
+
+---
 
 
 <div class="disclaimer">
