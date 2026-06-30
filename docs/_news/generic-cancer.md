@@ -3,7 +3,7 @@ layout: default
 title: "腫瘤（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "腫瘤（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "腫瘤（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="腫瘤（generic_cancer） 有什麼相關新聞？">
-<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,21 +75,13 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [癌細胞最愛用的隱身術失效 研究揭免疫系統反殺關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0ZjZyMFN6VEVMYTZiNzJyM2hrVFhQSlp1UnBRby1rNlM0Ym5KLUZTOHVfakNiMWVON1h5NlBmMnZoWDVQYVBxTzViVkR0UHo3eXlBb05zMEZLeVRfVVp2alg0QkjSAWpBVV95cUxQNjNuaEpLR1lRc0dKSmpGV2VnUDM3UHdhZV94aUMwUFNYZXdXaWR4a2VTalhkQmNvMTZ1R1FUNU5JZVRta0Q5Z2xyU0UyQ0didEFqclNzSnRiVHpJaVJ2TkN2UnZQMEV6WUZB?oc=5)
 
 2026-06-30
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0ZjZyMFN6VEVMYTZiNzJyM2hrVFhQSlp1UnBRby1rNlM0Ym5KLUZTOHVfakNiMWVON1h5NlBmMnZoWDVQYVBxTzViVkR0UHo3eXlBb05zMEZLeVRfVVp2alg0QkjSAWpBVV95cUxQNjNuaEpLR1lRc0dKSmpGV2VnUDM3UHdhZV94aUMwUFNYZXdXaWR4a2VTalhkQmNvMTZ1R1FUNU5JZVRta0Q5Z2xyU0UyQ0didEFqclNzSnRiVHpJaVJ2TkN2UnZQMEV6WUZB?oc=5)
-
----
-
-### [罹癌要跟年邁父母說嗎？癌症年輕化中年患者陷兩難 醫：先思考2個問題 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNenhrbUlwaFhpN29VMms1djRuamtuQzZoa3BzcW8wM2tyUGUybW85VzkxMnlvQXFVczN6TmZueUh5Um1LbGpTLU5EWk1felFtSGxYUXhGU2xDWmJlVFJaNkJOUXJoelRtbWsxZlN0bkhjaGc1eEg2bFJlQ2VxNUsyN05BQmtCNjVSQUQzdGZ2aERvRms?oc=5)
-
-2026-06-29
-
-來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNenhrbUlwaFhpN29VMms1djRuamtuQzZoa3BzcW8wM2tyUGUybW85VzkxMnlvQXFVczN6TmZueUh5Um1LbGpTLU5EWk1felFtSGxYUXhGU2xDWmJlVFJaNkJOUXJoelRtbWsxZlN0bkhjaGc1eEg2bFJlQ2VxNUsyN05BQmtCNjVSQUQzdGZ2aERvRms?oc=5)
 
 ---
 

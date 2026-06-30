@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-30T13:04:15.296178+00:00",
-  "count": 10,
+  "generated": "2026-06-30T16:17:03.406283+00:00",
+  "count": 9,
   "news": [
     {
       "id": "067520dee54d",
@@ -51,13 +51,13 @@
       ]
     },
     {
-      "id": "0ed3d1154bb8",
+      "id": "9b47614243e8",
       "title": "反覆肚痛肚瀉非一般腸胃炎？醫生拆解克隆氏症4大徵狀",
       "published": "2026-06-30T06:02:00+00:00",
       "sources": [
         {
           "name": "TVB",
-          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPT1N6bnZvRnNvU1VNd0JJcGlxV2dla3otWXJMMTNTampnV3VyYTBIVDNuazEzQ2R2TzBOZkN2V2o4a0FSR19oS0Utb211MDZIamp5OVlqUDRLRGFmc0xNV0lZREpTa2lNSHYyQm1rUlNrYW53ejdOcXpsSUtiTGdObHFWVEQtclZPS1BBOVFob1dORFRlS1hqOTNKY01iX2w4TVRfMXhKRmxWMl9WclFJby0ySzVTZDR5ak9QQnpHMFVVejNwQ1MxNVZNazR0M0NtYU5RcFVTSHRuRFpTc3VUWVN2ZjdQX29Way1PV29NN1pFUk1Pem1KeHFvcHZ0MGprNjVWeXBIODJ3SEx5ZjVYendURjg1UU5mTk1pU1FlN3FXRDdKT3JIR2swcVkycndZSWlhTWZWTHNoYXlKTmhJQnpjdnM4MXR0R0o3S0JWaFQ2MmdVRUl0SWZkODE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNMHNCV0FxejdiSGhTWkpjdEpFSjFNbkszUHA4eXpGbk5QVmJjbVBSRHJvYlI5WC10SElLUnl3Ty1JeWcwOVlLZ1RPUVRrRUJpVVFGUjNIRklKUnItdHkyQThwNGlKMXV5VnhodFFYSWpnYktPZFVGaVJ4VmVFNlA0OGswbDdKSUdobTVnNWRwZTQwNW05dEJ2Ymg1Q3BHNUdyXy1DRkVfdkt2M1FMZjhMN3VVV3hnbktYclZYQ0pPd2NjdDZ5SUh3ZkU5MkxINkNZSVRVZV9TbnV1LUxLNXE3OWwweWhiRnlsMk5OMFR3Yi1hM2FLeG1ObDZ0SldoOUZZN3pGbUV0NzhvblhncTZUU2hUZ3h1Z3NwRFRTQ3AxM1lHSWZFc2NPZ0o4Rm5JT0JzMUpDcWlYQmxlS2V6amtkU1E2eFAyUGdiQ3JqLVlzYXBWa1VNSFEtVU1ILXU?oc=5"
         }
       ],
       "keywords": [
@@ -101,6 +101,30 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3d584d11e5ab",
+      "title": "台南推動國二男女公費HPV疫苗接種 7月起開打",
+      "published": "2026-06-30T03:54:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yQ3laZXpnbVZXLS04b1Q5MEw0S2hPRDJOSHhFUnFpQV9PMnpuSWFXeDl5QkloeXhOTjIzUHBnSkxsQ1pCdVczcjhRaFdIeTlvbEVoMGVNSFZTU0xKVEs1TklKM03SAWpBVV95cUxPNEVPbFlPblduSWdQY1F2cnlQanBqWG9ISVBoaUx1M1l1Xy1VZGkyUnBJckVRRW5rY2NvVkU1bjFfY0FkY05YSy1GY25CUXlnYTR3amFlaVRHNW9mUlVlLVNLZ2pVc0NrOE53?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
             }
           ]
         }
@@ -395,214 +419,6 @@
       ]
     },
     {
-      "id": "2d5f5de64a79",
-      "title": "罹癌要跟年邁父母說嗎？癌症年輕化中年患者陷兩難 醫：先思考2個問題 - PChome Online 新聞",
-      "published": "2026-06-29T09:00:00+00:00",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNenhrbUlwaFhpN29VMms1djRuamtuQzZoa3BzcW8wM2tyUGUybW85VzkxMnlvQXFVczN6TmZueUh5Um1LbGpTLU5EWk1felFtSGxYUXhGU2xDWmJlVFJaNkJOUXJoelRtbWsxZlN0bkhjaGc1eEg2bFJlQ2VxNUsyN05BQmtCNjVSQUQzdGZ2aERvRms?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "1dc479abbf63",
       "title": "肺癌免疫治療新突破 台大研究：BET抑制劑有望喚醒耗竭T細胞",
       "published": "2026-06-29T02:00:00+00:00",
@@ -653,52 +469,6 @@
             {
               "slug": "acetazolamide",
               "name": "Acetazolamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7f1c7b8ad711",
-      "title": "帶狀皰疹疫苗好處多！多項研究發現可降低失智症風險- 國際",
-      "published": "2026-06-28T14:28:55+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVTmVPRUNTNlNEd0J6QlpiUEpUaWNGVmJuQ0paVFpBT0xvcG02WnZpYUhlS1hlVXh4WFNyUGF4bTNqZ1RuLTRwZ1g5NVE1dm1Gc25zazN0OHpDRHljSGNKZjRkTmwyZmRXWFJENS13?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "帶狀皰疹",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

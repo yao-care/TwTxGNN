@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [吃魚油防失智？打破護腦神話 攝取Omega-3未見效果](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ONlY2UkdXR3h1YUJ1UWVtRXBGNldaZ3pYUktDYWFPQTl5ZldWc0NoRDRJRXNIdDhCdWVGQjlrUzlkRjA2aURWeURPdXM5clpkcC1jVnZQdEwycHV2c2RB?oc=5)
 
@@ -64,22 +64,6 @@ permalink: /news/gefitinib/
 2026-06-30 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiY0FVX3lxTE84RTVKMVF2T0pybzNWVHljdVBlbnZObG9hbEY4S013ZXdLV092OThtc3pJTGo0Si1ETUhjQ1RDOVVudFpFY3VMbEhteXR1N2Q2WG9BcndNYUhSaHB6WWxKR3ktRdIBY0FVX3lxTE84RTVKMVF2T0pybzNWVHljdVBlbnZObG9hbEY4S013ZXdLV092OThtc3pJTGo0Si1ETUhjQ1RDOVVudFpFY3VMbEhteXR1N2Q2WG9BcndNYUhSaHB6WWxKR3ktRQ?oc=5)
-
----
-
-### [罹癌要跟年邁父母說嗎？癌症年輕化中年患者陷兩難 醫：先思考2個問題 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNenhrbUlwaFhpN29VMms1djRuamtuQzZoa3BzcW8wM2tyUGUybW85VzkxMnlvQXFVczN6TmZueUh5Um1LbGpTLU5EWk1felFtSGxYUXhGU2xDWmJlVFJaNkJOUXJoelRtbWsxZlN0bkhjaGc1eEg2bFJlQ2VxNUsyN05BQmtCNjVSQUQzdGZ2aERvRms?oc=5)
-
-2026-06-29 <span class="news-indication-tag">癌症</span>
-
-來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNenhrbUlwaFhpN29VMms1djRuamtuQzZoa3BzcW8wM2tyUGUybW85VzkxMnlvQXFVczN6TmZueUh5Um1LbGpTLU5EWk1felFtSGxYUXhGU2xDWmJlVFJaNkJOUXJoelRtbWsxZlN0bkhjaGc1eEg2bFJlQ2VxNUsyN05BQmtCNjVSQUQzdGZ2aERvRms?oc=5)
-
----
-
-### [帶狀皰疹疫苗好處多！多項研究發現可降低失智症風險- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTFBVTmVPRUNTNlNEd0J6QlpiUEpUaWNGVmJuQ0paVFpBT0xvcG02WnZpYUhlS1hlVXh4WFNyUGF4bTNqZ1RuLTRwZ1g5NVE1dm1Gc25zazN0OHpDRHljSGNKZjRkTmwyZmRXWFJENS13?oc=5)
-
-2026-06-28 <span class="news-indication-tag">帶狀皰疹</span> <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFBVTmVPRUNTNlNEd0J6QlpiUEpUaWNGVmJuQ0paVFpBT0xvcG02WnZpYUhlS1hlVXh4WFNyUGF4bTNqZ1RuLTRwZ1g5NVE1dm1Gc25zazN0OHpDRHljSGNKZjRkTmwyZmRXWFJENS13?oc=5)
 
 ---
 

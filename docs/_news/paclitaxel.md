@@ -44,19 +44,19 @@ permalink: /news/paclitaxel/
 
 ## 相關新聞（2 則）
 
+### [台南推動國二男女公費HPV疫苗接種 7月起開打](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yQ3laZXpnbVZXLS04b1Q5MEw0S2hPRDJOSHhFUnFpQV9PMnpuSWFXeDl5QkloeXhOTjIzUHBnSkxsQ1pCdVczcjhRaFdIeTlvbEVoMGVNSFZTU0xKVEs1TklKM03SAWpBVV95cUxPNEVPbFlPblduSWdQY1F2cnlQanBqWG9ISVBoaUx1M1l1Xy1VZGkyUnBJckVRRW5rY2NvVkU1bjFfY0FkY05YSy1GY25CUXlnYTR3amFlaVRHNW9mUlVlLVNLZ2pVc0NrOE53?oc=5)
+
+2026-06-30 <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yQ3laZXpnbVZXLS04b1Q5MEw0S2hPRDJOSHhFUnFpQV9PMnpuSWFXeDl5QkloeXhOTjIzUHBnSkxsQ1pCdVczcjhRaFdIeTlvbEVoMGVNSFZTU0xKVEs1TklKM03SAWpBVV95cUxPNEVPbFlPblduSWdQY1F2cnlQanBqWG9ISVBoaUx1M1l1Xy1VZGkyUnBJckVRRW5rY2NvVkU1bjFfY0FkY05YSy1GY25CUXlnYTR3amFlaVRHNW9mUlVlLVNLZ2pVc0NrOE53?oc=5)
+
+---
+
 ### [癌細胞最愛用的隱身術失效 研究揭免疫系統反殺關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0ZjZyMFN6VEVMYTZiNzJyM2hrVFhQSlp1UnBRby1rNlM0Ym5KLUZTOHVfakNiMWVON1h5NlBmMnZoWDVQYVBxTzViVkR0UHo3eXlBb05zMEZLeVRfVVp2alg0QkjSAWpBVV95cUxQNjNuaEpLR1lRc0dKSmpGV2VnUDM3UHdhZV94aUMwUFNYZXdXaWR4a2VTalhkQmNvMTZ1R1FUNU5JZVRta0Q5Z2xyU0UyQ0didEFqclNzSnRiVHpJaVJ2TkN2UnZQMEV6WUZB?oc=5)
 
 2026-06-30 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0ZjZyMFN6VEVMYTZiNzJyM2hrVFhQSlp1UnBRby1rNlM0Ym5KLUZTOHVfakNiMWVON1h5NlBmMnZoWDVQYVBxTzViVkR0UHo3eXlBb05zMEZLeVRfVVp2alg0QkjSAWpBVV95cUxQNjNuaEpLR1lRc0dKSmpGV2VnUDM3UHdhZV94aUMwUFNYZXdXaWR4a2VTalhkQmNvMTZ1R1FUNU5JZVRta0Q5Z2xyU0UyQ0didEFqclNzSnRiVHpJaVJ2TkN2UnZQMEV6WUZB?oc=5)
-
----
-
-### [罹癌要跟年邁父母說嗎？癌症年輕化中年患者陷兩難 醫：先思考2個問題 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNenhrbUlwaFhpN29VMms1djRuamtuQzZoa3BzcW8wM2tyUGUybW85VzkxMnlvQXFVczN6TmZueUh5Um1LbGpTLU5EWk1felFtSGxYUXhGU2xDWmJlVFJaNkJOUXJoelRtbWsxZlN0bkhjaGc1eEg2bFJlQ2VxNUsyN05BQmtCNjVSQUQzdGZ2aERvRms?oc=5)
-
-2026-06-29 <span class="news-indication-tag">癌症</span>
-
-來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNenhrbUlwaFhpN29VMms1djRuamtuQzZoa3BzcW8wM2tyUGUybW85VzkxMnlvQXFVczN6TmZueUh5Um1LbGpTLU5EWk1felFtSGxYUXhGU2xDWmJlVFJaNkJOUXJoelRtbWsxZlN0bkhjaGc1eEg2bFJlQ2VxNUsyN05BQmtCNjVSQUQzdGZ2aERvRms?oc=5)
 
 ---
 
