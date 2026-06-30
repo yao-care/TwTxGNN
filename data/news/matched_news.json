@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-06-30T16:17:03.383708+00:00",
-  "total_count": 23,
-  "matched_count": 9,
+  "last_updated": "2026-06-30T18:29:15.399147+00:00",
+  "total_count": 21,
+  "matched_count": 8,
   "news": [
     {
-      "id": "3b1c5ef89969",
+      "id": "01e08756eb67",
       "title": "6歲及12歲男童染甲流現嚴重併發症 衞防中心： 本港短期內進入流感季",
       "published": "2026-06-30T13:19:55+00:00",
-      "summary": "6歲及12歲男童染甲流現嚴重併發症 衞防中心： 本港短期內進入流感季&nbsp;&nbsp;巴士的報本港新增兩宗兒童感染甲型流感嚴重個案 料短期內將進入流感季節&nbsp;&nbsp;橙新聞流感｜6歲男童染甲流和流感嗜血桿菌危殆 併發肺炎和敗血性休克&nbsp;&nbsp;香港016歲男童染甲流命危留PICU 另12歲男童中招留醫情況嚴重&nbsp;&nbsp;on.cc東網兩童染甲流一嚴重一危殆 衞生防護中心料短期內進入流感季節&nbsp;&nbsp;信報網站",
+      "summary": "6歲及12歲男童染甲流現嚴重併發症 衞防中心： 本港短期內進入流感季&nbsp;&nbsp;bastillepost.com本港新增兩宗兒童感染甲型流感嚴重個案 料短期內將進入流感季節&nbsp;&nbsp;橙新聞6歲男童染甲流命危留PICU 另12歲男童中招留醫情況嚴重&nbsp;&nbsp;on.cc東網流感｜6歲男童染甲流和流感嗜血桿菌危殆 併發肺炎和敗血性休克&nbsp;&nbsp;香港01兩名男童染甲流 衞生防護中心：本港短期內進入流感季節&nbsp;&nbsp;香港電台新聞網",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNbmpvVXE2MTNCdUlYTFVuOEsxU1lJWkhJZUVOTHNSMWRZeFl3dVItMldUY0ttdU5UQ3J3cnE0RG1Fd1gyZ2ZhQTJtWHV5RG82dzFUdWlCZGJaV2lNR3VEZ0RjNTlCWDRobGxVZlB0Rk1xT3AxTTJWWmJseW15VWxORGhnem5lZGNvWU05WXVLLVE0VXVrcmdzRU1KeVdQckhuZ21LcmYyOW01VG10QWhoQWtiZzIzR3RtTkU2QUlFbjVKR3hmM21peklQeENwOGdpVW1zRDAtWWQ3QnhXTVNXUEUtWHp3QVMyQVlpMGhheUxUdUdDOWZfMWpESzlmU09HNFpjbFU5Y1JGa2d0RkRwa3l1RGNnVEN5VElBLTBsOFlrRi1aQUEtN25JTTREbllOV3FNS1Q2UjFxeE5lSnk5UzhHX0xFYWVtNVhUdV9QSG45V3o0bTZJQzBJb3JJRnRyMXh0R1NB?oc=5"
         }
       ],
@@ -19,25 +19,12 @@
     {
       "id": "55b9ab694a67",
       "title": "研究：這種血型 罹2型糖尿病風險高約3成",
-      "published": "2026-06-30T13:12:00+00:00",
+      "published": "2026-06-30T13:18:00+00:00",
       "summary": "研究：這種血型 罹2型糖尿病風險高約3成&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IczhwekloX01UMFRRb05OSS1Tblpyc1RjZTB5ZGpybXlIMmpkSlFNWWFZbmN1NS04bGZlS2NxLXlnRl9NUkxSaTFKZGhQUG50T3hHNUE5SjZNbGJ1cHlRYnZn0gFnQVVfeXFMT1ZOY1VhLU5sVkFZcTFBZlZOMlZEN09zQVdJQnRkU2s5VFlZNXhKRHZKZDhGSDBaZWN4WHFMZEFEempiQ1F0NWpnUXRDam44ZnJzSXpQeGFXU2NIWS1ZTURtcFctdVlFWQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8b2f854794f7",
-      "title": "流感會傳染多久？醫示警「退燒不代表安全」：1類人發病10天都有機會 | 三立新聞網 - LINE TODAY",
-      "published": "2026-06-30T13:08:19+00:00",
-      "summary": "流感會傳染多久？醫示警「退燒不代表安全」：1類人發病10天都有機會 | 三立新聞網&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VRUc2a1V0Q2dZakd0NzNLY1IwUnhVSlM2NkpmYUxYNUtOOEJvR0dvQ1dNMzZ2aFNuaE8wbWxwNXEwaGwxamZCdEhydExHSVJ6Znl2aFVB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -623,31 +610,6 @@
             {
               "slug": "vinorelbine",
               "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7b27525a9c3b",
-      "title": "正確認知規範治療，一起讀懂癲癇",
-      "published": "2026-06-29T01:10:40+00:00",
-      "summary": "正確認知規範治療，一起讀懂癲癇&nbsp;&nbsp;紫荊網",
-      "sources": [
-        {
-          "name": "紫荊網",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaldOUGZ0WURTdmxzMkNyekRpa3ZGdjRGdlVHS2s1blVqbDhKTWJIZFh2aHJGLUFQZTV1UTFSQXZmNDRGVHVsSFFWRjdQSjJPaHFaRDZqdHY4cndGMUUxRDlqSzJpV3FtbnBGV3IwTEpkdUx6THQzT1hpV2JSVThlaF82MllISTY5aFN5MzZROUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "癲癇",
-          "keyword": "癲癇",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
             }
           ]
         }
