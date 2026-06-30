@@ -1,212 +1,138 @@
 {
-  "last_updated": "2026-06-30T06:48:34.859446+00:00",
-  "total_count": 18,
-  "matched_count": 8,
+  "last_updated": "2026-06-30T10:26:15.497225+00:00",
+  "total_count": 24,
+  "matched_count": 10,
   "news": [
     {
-      "id": "fef5c56a2e6e",
-      "title": "19歲女大生咳血、胸痛驚見3顆肺部腫瘤 竟是罕見「肉芽腫性多血管炎」",
-      "published": "2026-06-30T05:00:00+00:00",
-      "summary": "19歲女大生咳血、胸痛驚見3顆肺部腫瘤 竟是罕見「肉芽腫性多血管炎」&nbsp;&nbsp;蕃新聞",
+      "id": "c2320fa9a71d",
+      "title": "遺傳失明注射新藥2天重見光 全球首期人體試驗成功",
+      "published": "2026-06-30T10:11:00+00:00",
+      "summary": "遺傳失明注射新藥2天重見光 全球首期人體試驗成功&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtWUJCS0FHeWNQTFZOZU9qSjlCOWVPcHNqVV9BdnlDYjNnXzFCTVZTNmhURjVaajlfZERLLVVZaDFHZkhWY09pZ093NzNPaktqSkE?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWT211bllVUzlRcWtja2JmaWFWZzBuMDNKYldHa3lWeVFBMXlLajFWUi1sVU92OEh0UllLaFlheFdFd3RZbHkwczN2aXRfWThUVTM2OUh3RWgwNHNXNVllRWxiNlrSAWpBVV95cUxOR0d2OEdaTzFaZHhNdU9UT1J0MnVhYzdxVkROd3B6dDBoM1pBdVJ3NEwxNmZhcEw5SFVxekhMVFc3SDZCQmRNNTItSVRBdHByYmhhdmhKZzNzN2d1WEJCUWpvaEpNV0VPeVFB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "067520dee54d",
+      "title": "吃魚油防失智？打破護腦神話 攝取Omega-3未見效果",
+      "published": "2026-06-30T08:33:15+00:00",
+      "summary": "吃魚油防失智？打破護腦神話 攝取Omega-3未見效果&nbsp;&nbsp;科技島健康網》魚油、薑黃都輸了！ 研究揭「這食物」吃越多越護腦&nbsp;&nbsp;自由健康網這樣買保健品＝智商稅！名醫：以為網紅研發品牌優於好市多&nbsp;&nbsp;祝你健康魚油吃多會腦出血？醫師揭密12萬人大數據，每天吃「這量」的安全界線- 營養好食&nbsp;&nbsp;TVBS 健康2.0全脂奶製品護腦？每天2片失智風險降29％&nbsp;&nbsp;鏡週刊Mirror Media",
+      "sources": [
+        {
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ONlY2UkdXR3h1YUJ1UWVtRXBGNldaZ3pYUktDYWFPQTl5ZldWc0NoRDRJRXNIdDhCdWVGQjlrUzlkRjA2aURWeURPdXM5clpkcC1jVnZQdEwycHV2c2RB?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "腫瘤",
+          "name": "dementia",
+          "keyword": "失智",
           "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "463f5a5a85dd",
+      "title": "睡醒蝙蝠蓋住口鼻！11歲男童沒傷口卻染狂犬病 19天後不治",
+      "published": "2026-06-30T08:20:03+00:00",
+      "summary": "睡醒蝙蝠蓋住口鼻！11歲男童沒傷口卻染狂犬病 19天後不治&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOdjFzNkJXeXhWdldzbnJYUFlmc0E5bzcxYmszSGdaZnh4X0N0M1pIcWd5NEZVT0xsbUcza1ZkcE8ySzA3Y05sQlJpSkFNTDExVi15V3BLTmlISzhDeFZ2QzN5S1RzVzc5RVRoeG1XMy03b00yaXBSOV8zZFNCRW9EeUFDRThEaWE0YzVaWFh5SjR3eFpjQXgtVWsxNmFraFkxWnZ4bXExV29sc1BoQnNZX0xvUVBlTkN6LWIxeFZWdDVWWGF1MU5Yd2JXUndHU1dBNldrTGVJY3RhN3o5SXVha0R1R2FuOUFkT0VoYUt0NjJJamR0X0FDSmVBOEdaR1p6c0J6SU8tTi1pa2VKZXo1NmpFSVBzOUpoVTFFdlpRSFBSeW9OVUcxUWFPR1pkRi0wZVVzc0h2R2tsZW9NdGhfYWtiTndaaUl0bkY5cEZ4T212MmxLdGFQbEJqSUZacnVJV19QaDFDcFQweERiNnRR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "37ab1e90896a",
+      "title": "腎臟不是修不好！科學家揪出關鍵蛋白 有望啟動自我修復",
+      "published": "2026-06-30T07:36:00+00:00",
+      "summary": "腎臟不是修不好！科學家揪出關鍵蛋白 有望啟動自我修復&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HZDc1SER0WEtrTm9SblVIcGJCUXBsM1FnVG11cHVVcW1ZNnBWZFhkSkV6MnNka3FvRjNmMlpSQjA5aHNzWFJDdjFONzVZUmozc0ZXc0djdDdzYVRmZnk2UTZwVUPSAWpBVV95cUxPdEJoSXRwZ1ZBSVRZbEdVX2hjZDZleGd3U1Job2hVWlItUWdITElVTnNxdXpQQW1naGhrZEE5eXk0QTl4S2ZNRGRGTGQwZkpqMVR3TXY1NjRBdFlQQU1MSFE3NTRERnFkRll3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8522e078a3c1",
+      "title": "阿根廷：出發地採集漢坦病毒變種與郵輪疫情無關",
+      "published": "2026-06-30T07:03:00+00:00",
+      "summary": "阿根廷：出發地採集漢坦病毒變種與郵輪疫情無關&nbsp;&nbsp;香港電台新聞網",
+      "sources": [
+        {
+          "name": "香港電台新聞網",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UNDVXcC05X1JXUTQwZktPSlYtSUxDZjJBV3NxUUFnckFZVzgtbENqRzh1UjJhbzhaOWx2U0dDTmRKSkxyalhCaGR3ZFJ6eTFJWk82LWJobUJBOWxmU3VLY0NGVThuOTltTjBsMjhnRQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4da9f5def329",
+      "title": "1類營養素長壽功效被低估！研究：每日多吃10克死亡風險降21% 更有效護心血管/控血糖/防癌",
+      "published": "2026-06-30T07:00:00+00:00",
+      "summary": "1類營養素長壽功效被低估！研究：每日多吃10克死亡風險降21% 更有效護心血管/控血糖/防癌&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMihwRBVV95cUxOa01oX244VXc2am1tcU9lSDVEV3Rqb1BKaGM4aVpUUTVoYXVzeUFYUDh0VUYydDY1ZU1hemZDRExnNVNXUWt0d0xwbTM0MUVQenBQMy04OVV3Y2NHLXc1VU55a0R6NlNHZDVTQS12Z2tzbDJib3NjZDY3Ty1ZV2lWamo1LVktc2ZaeERmMHBfNW5GYWlKcDJHY0ZHN1JzQWd3cmE2THFrWk56ODlVX2h0Mlc3UWdLQ2ZfaW5kTDRtVWdzUjhBbmc5c0xjTmw2RzJTRFB0SVlmOHMyWk4wZlNEajhIRW5zeS1CeDFaWHhSVEZCRGpPdUlUY29SMzM4cEdRQmNCbVFEMjhBOHh1RmFzdnYxMnlOU1hKa2h0c0t1SkFMcXp0TXhwdEdqRVcyNG5PYXRxYzIyeUFXc24tRG5fVGxGdDBRcHVDN0xsVTdVTkxZMllobWJMVVR6MzJNb2hkVjJBWG1NY2hZakFMeHFkSXpOeWkzLWpweVREYjcyRU03WTJXeHE4cjd3QWRJSWExOGlfV1VoZzhXYWZjTzRRTzJKNHQ5T3RMMmxPZG9pYjF1RjVhelUzUmluaVg3bUg3ZXRMa3c4Y1QzNDFGWUdWY0ZIQ0NCcDNBTW9vNHNiRmdwYjg5Mm5TQW41b3Qxems4dnZXVGE3VEJRWHZnWFdwd0hQcDBGcEU?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0ed3d1154bb8",
+      "title": "反覆肚痛肚瀉非一般腸胃炎？醫生拆解克隆氏症4大徵狀",
+      "published": "2026-06-30T06:02:00+00:00",
+      "summary": "反覆肚痛肚瀉非一般腸胃炎？醫生拆解克隆氏症4大徵狀&nbsp;&nbsp;TVB",
+      "sources": [
+        {
+          "name": "TVB",
+          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPT1N6bnZvRnNvU1VNd0JJcGlxV2dla3otWXJMMTNTampnV3VyYTBIVDNuazEzQ2R2TzBOZkN2V2o4a0FSR19oS0Utb211MDZIamp5OVlqUDRLRGFmc0xNV0lZREpTa2lNSHYyQm1rUlNrYW53ejdOcXpsSUtiTGdObHFWVEQtclZPS1BBOVFob1dORFRlS1hqOTNKY01iX2w4TVRfMXhKRmxWMl9WclFJby0ySzVTZDR5ak9QQnpHMFVVejNwQ1MxNVZNazR0M0NtYU5RcFVTSHRuRFpTc3VUWVN2ZjdQX29Way1PV29NN1pFUk1Pem1KeHFvcHZ0MGprNjVWeXBIODJ3SEx5ZjVYendURjg1UU5mTk1pU1FlN3FXRDdKT3JIR2swcVkycndZSWlhTWZWTHNoYXlKTmhJQnpjdnM4MXR0R0o3S0JWaFQ2MmdVRUl0SWZkODE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "胃炎",
+          "keyword": "胃炎",
+          "related_drugs": [
+            {
+              "slug": "aluminum_hydroxide",
+              "name": "Aluminum hydroxide"
             },
             {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
             },
             {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
+              "slug": "propantheline",
+              "name": "Propantheline"
             }
           ]
         }
@@ -238,267 +164,23 @@
       ]
     },
     {
-      "id": "848c2d457d05",
-      "title": "台南推動國二男女公費HPV疫苗接種 7月起開打",
-      "published": "2026-06-30T04:12:47+00:00",
-      "summary": "台南推動國二男女公費HPV疫苗接種 7月起開打&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "fec85a207372",
+      "title": "114年入學國二生7月起可接種公費HPV疫苗 建立完整保護力",
+      "published": "2026-06-30T04:05:41+00:00",
+      "summary": "114年入學國二生7月起可接種公費HPV疫苗 建立完整保護力&nbsp;&nbsp;國際獅子會300C-3區前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOeFdqSi1JaXNNNmQxSDNUY3lZYUpuNFY3S2NLSGlwUzBnZWEtd2pQaVI1Vms3cEkxR1ljNXhQRWV0V3dyYWxtOEFLVkkyVmx3Q2hHUDFaWGVXX1kzUGp0dHJ3QWh2bWd0RU40aVI3eG9oNVRESE1KcWFpMnJIWl9VTTZaMllzSWdZTFVmQ25KR05TYzdocDBmTkY1TUVxV0ozMlVhNGduZUdWS0FLZWlfa0YzZHd3M0ZJemRMN1F4c2R2MmREckc0b0NxbHpZSE0yUG96ZURFa2p0aXJDQldpMTVQeVRFLTZaY0VtRnRLRnB2MFQ2dkRuNXctcHJGcW5UaWN3U0RkekhyTjdaTXpNSVdyUjFVN25RajNkVjZia3o1enFOTFhJT25FSDZpX3dvbmc?oc=5"
+          "name": "國際獅子會300C-3區",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tMHdrWklkbVltcXNjSlRLVE1UVzI1Rl9qd0VWS0pxT1lZaHFiQ2tZNFZqNjlDNXdBcF9fbG1GMXlib19yXy1CclhuRkdta291X0Y3a0NOQ3VxYUJyTFI1cFd3OGZLdw?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "71bffecd0df7",
-      "title": "才32歲就罹乳癌！她「每晚1習慣」誤當養生 醫嘆：就算少量也有風險",
-      "published": "2026-06-30T04:03:46+00:00",
-      "summary": "才32歲就罹乳癌！她「每晚1習慣」誤當養生 醫嘆：就算少量也有風險&nbsp;&nbsp;三立新聞網SETN.com喝再少也有風險！最新研究：沒有安全飲酒量，癌症風險從第一口酒就開始&nbsp;&nbsp;PChome Online 新聞養生陷阱｜32歲OL睡前1杯紅酒養生 驚變乳癌元兇 醫揭1特徵已藏癌兆小酌都出事&nbsp;&nbsp;香港經濟日報HKET每天一杯也有事！最新研究：只要喝酒就會增加10種癌症發病風險&nbsp;&nbsp;元氣網健康飲食｜紅酒真能護心？843篇研究揭每日一杯增10種癌症風險，酒精無安全劑量| 健康解「迷」 - 醫學通識- 健康好人生&nbsp;&nbsp;etnet 經濟通",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9udk9NeTZtTUxkTzlpVUxUb0hFOGlwaVFpWUdtSHBvNnhaUzQ1Q1FYVFQwaFlPYjFGUUdxTjd4MjhOMDk0Vjlxcm9MR1k?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "8ceb934dbb00",
       "title": "癌細胞最愛用的隱身術失效 研究揭免疫系統反殺關鍵",
       "published": "2026-06-30T03:50:00+00:00",
-      "summary": "癌細胞最愛用的隱身術失效 研究揭免疫系統反殺關鍵&nbsp;&nbsp;自由健康網癌細胞避追殺或露破綻？研究揭或致另一免疫細胞追擊&nbsp;&nbsp;am730癌細胞非天生難抓 研究揭它把人體蛋白變「保護傘」騙過免疫&nbsp;&nbsp;自由健康網大腸癌「隱形斗篷」遭破解 關閉1開關讓腫瘤全消退&nbsp;&nbsp;自由健康網破解癌細胞「隱形身分證」 研究揭免疫系統反殺抗藥性關鍵&nbsp;&nbsp;自由健康網",
+      "summary": "癌細胞最愛用的隱身術失效 研究揭免疫系統反殺關鍵&nbsp;&nbsp;自由健康網癌細胞非天生難抓 研究揭它把人體蛋白變「保護傘」騙過免疫&nbsp;&nbsp;自由健康網大腸癌「隱形斗篷」遭破解 關閉1開關讓腫瘤全消退&nbsp;&nbsp;自由健康網癌細胞避追殺或露破綻？研究揭或致另一免疫細胞追擊&nbsp;&nbsp;am730破解癌細胞「隱形身分證」 研究揭免疫系統反殺抗藥性關鍵&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "自由健康網",
@@ -732,6 +414,53 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "039115d08fa1",
+      "title": "失智症的前兆可能藏在浴室裡 研究：聞不到沐浴乳香味要小心",
+      "published": "2026-06-30T00:58:54+00:00",
+      "summary": "失智症的前兆可能藏在浴室裡 研究：聞不到沐浴乳香味要小心&nbsp;&nbsp;元氣網科學家可能最終發現了阿茲海默症是如何透過大腦傳播的。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84RTVKMVF2T0pybzNWVHljdVBlbnZObG9hbEY4S013ZXdLV092OThtc3pJTGo0Si1ETUhjQ1RDOVVudFpFY3VMbEhteXR1N2Q2WG9BcndNYUhSaHB6WWxKR3ktRdIBY0FVX3lxTE84RTVKMVF2T0pybzNWVHljdVBlbnZObG9hbEY4S013ZXdLV092OThtc3pJTGo0Si1ETUhjQ1RDOVVudFpFY3VMbEhteXR1N2Q2WG9BcndNYUhSaHB6WWxKR3ktRQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }

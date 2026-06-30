@@ -43,19 +43,11 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（5 則）
 
-### [19歲女大生咳血、胸痛驚見3顆肺部腫瘤 竟是罕見「肉芽腫性多血管炎」](https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtWUJCS0FHeWNQTFZOZU9qSjlCOWVPcHNqVV9BdnlDYjNnXzFCTVZTNmhURjVaajlfZERLLVVZaDFHZkhWY09pZ093NzNPaktqSkE?oc=5)
+### [吃魚油防失智？打破護腦神話 攝取Omega-3未見效果](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ONlY2UkdXR3h1YUJ1UWVtRXBGNldaZ3pYUktDYWFPQTl5ZldWc0NoRDRJRXNIdDhCdWVGQjlrUzlkRjA2aURWeURPdXM5clpkcC1jVnZQdEwycHV2c2RB?oc=5)
 
-2026-06-30 <span class="news-indication-tag">腫瘤</span>
+2026-06-30 <span class="news-indication-tag">失智</span>
 
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtWUJCS0FHeWNQTFZOZU9qSjlCOWVPcHNqVV9BdnlDYjNnXzFCTVZTNmhURjVaajlfZERLLVVZaDFHZkhWY09pZ093NzNPaktqSkE?oc=5)
-
----
-
-### [才32歲就罹乳癌！她「每晚1習慣」誤當養生 醫嘆：就算少量也有風險](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9udk9NeTZtTUxkTzlpVUxUb0hFOGlwaVFpWUdtSHBvNnhaUzQ1Q1FYVFQwaFlPYjFGUUdxTjd4MjhOMDk0Vjlxcm9MR1k?oc=5)
-
-2026-06-30 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9udk9NeTZtTUxkTzlpVUxUb0hFOGlwaVFpWUdtSHBvNnhaUzQ1Q1FYVFQwaFlPYjFGUUdxTjd4MjhOMDk0Vjlxcm9MR1k?oc=5)
+來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ONlY2UkdXR3h1YUJ1UWVtRXBGNldaZ3pYUktDYWFPQTl5ZldWc0NoRDRJRXNIdDhCdWVGQjlrUzlkRjA2aURWeURPdXM5clpkcC1jVnZQdEwycHV2c2RB?oc=5)
 
 ---
 
@@ -64,6 +56,14 @@ permalink: /news/gefitinib/
 2026-06-30 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0ZjZyMFN6VEVMYTZiNzJyM2hrVFhQSlp1UnBRby1rNlM0Ym5KLUZTOHVfakNiMWVON1h5NlBmMnZoWDVQYVBxTzViVkR0UHo3eXlBb05zMEZLeVRfVVp2alg0QkjSAWpBVV95cUxQNjNuaEpLR1lRc0dKSmpGV2VnUDM3UHdhZV94aUMwUFNYZXdXaWR4a2VTalhkQmNvMTZ1R1FUNU5JZVRta0Q5Z2xyU0UyQ0didEFqclNzSnRiVHpJaVJ2TkN2UnZQMEV6WUZB?oc=5)
+
+---
+
+### [失智症的前兆可能藏在浴室裡 研究：聞不到沐浴乳香味要小心](https://news.google.com/rss/articles/CBMiY0FVX3lxTE84RTVKMVF2T0pybzNWVHljdVBlbnZObG9hbEY4S013ZXdLV092OThtc3pJTGo0Si1ETUhjQ1RDOVVudFpFY3VMbEhteXR1N2Q2WG9BcndNYUhSaHB6WWxKR3ktRdIBY0FVX3lxTE84RTVKMVF2T0pybzNWVHljdVBlbnZObG9hbEY4S013ZXdLV092OThtc3pJTGo0Si1ETUhjQ1RDOVVudFpFY3VMbEhteXR1N2Q2WG9BcndNYUhSaHB6WWxKR3ktRQ?oc=5)
+
+2026-06-30 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiY0FVX3lxTE84RTVKMVF2T0pybzNWVHljdVBlbnZObG9hbEY4S013ZXdLV092OThtc3pJTGo0Si1ETUhjQ1RDOVVudFpFY3VMbEhteXR1N2Q2WG9BcndNYUhSaHB6WWxKR3ktRdIBY0FVX3lxTE84RTVKMVF2T0pybzNWVHljdVBlbnZObG9hbEY4S013ZXdLV092OThtc3pJTGo0Si1ETUhjQ1RDOVVudFpFY3VMbEhteXR1N2Q2WG9BcndNYUhSaHB6WWxKR3ktRQ?oc=5)
 
 ---
 

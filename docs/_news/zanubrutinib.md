@@ -14,7 +14,7 @@ permalink: /news/zanubrutinib/
 ---
 
 <p class="key-answer" data-question="Zanubrutinib 有什麼相關新聞？">
-<strong>Zanubrutinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Zanubrutinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,29 +38,13 @@ permalink: /news/zanubrutinib/
 <p><a href="{{ '/drugs/zanubrutinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [19歲女大生咳血、胸痛驚見3顆肺部腫瘤 竟是罕見「肉芽腫性多血管炎」](https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtWUJCS0FHeWNQTFZOZU9qSjlCOWVPcHNqVV9BdnlDYjNnXzFCTVZTNmhURjVaajlfZERLLVVZaDFHZkhWY09pZ093NzNPaktqSkE?oc=5)
-
-2026-06-30 <span class="news-indication-tag">腫瘤</span>
-
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtWUJCS0FHeWNQTFZOZU9qSjlCOWVPcHNqVV9BdnlDYjNnXzFCTVZTNmhURjVaajlfZERLLVVZaDFHZkhWY09pZ093NzNPaktqSkE?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [2歲女童身上突現異常瘀青紅點確診白血病 媽媽拍片記錄抗癌歷程](https://news.google.com/rss/articles/CBMisANBVV95cUxNalE3cXpGVGR2N0VlUjNrUXVJMHQxUGl5SFNERFhRLXNOY01uZEdHcTN3U0ZPMEZlLUF2a0djZHpUclNWT2lNXzRVT05zN184TW9JaHZJQ0x4TnczZmlBMV9FV0p3bmQwa1VLcEl4RGhUVC1wSklnc3I5cEJIdUNqRkVZN0V1YkxKeU9rUFF5TjdLRG04VWJBMEVYWEtYRXkwdkxqd1VwMy1IcWRVdGhROUJxSzJyTHZDZlF3cW9URzJQSXZkZEd3ZEY1MU52eFUxcjBISEJCQl9UQmtTamlDVW8tM0hBZ2pJQktJTVdOU2Z4TnA1SllwU1pnT3Q2ejZCX3p2YUpQZmJFajNpaFJKMUplWEdEb0ZKYXR0WkdOcjNTb1VIU2lNMDhyek5VbzN6RGNRWXNacjFFY1VsOXNkcmpYRDdOTWJVdW1IUEt5clpsWGkyWW9mV3MtZWVrWThXX0ZHenJaM2t4UmpNa0JaUUZfV2tVX2tWSkRYUmw3d1M5YWVpY1BDTUpWREVGa1ZQYU1XWXMxblFsTThSTmswU1RSbWt3WHI1SzBCLUZJMVE?oc=5)
 
 2026-06-30 <span class="news-indication-tag">白血病</span>
 
 來源：[香港01](https://news.google.com/rss/articles/CBMisANBVV95cUxNalE3cXpGVGR2N0VlUjNrUXVJMHQxUGl5SFNERFhRLXNOY01uZEdHcTN3U0ZPMEZlLUF2a0djZHpUclNWT2lNXzRVT05zN184TW9JaHZJQ0x4TnczZmlBMV9FV0p3bmQwa1VLcEl4RGhUVC1wSklnc3I5cEJIdUNqRkVZN0V1YkxKeU9rUFF5TjdLRG04VWJBMEVYWEtYRXkwdkxqd1VwMy1IcWRVdGhROUJxSzJyTHZDZlF3cW9URzJQSXZkZEd3ZEY1MU52eFUxcjBISEJCQl9UQmtTamlDVW8tM0hBZ2pJQktJTVdOU2Z4TnA1SllwU1pnT3Q2ejZCX3p2YUpQZmJFajNpaFJKMUplWEdEb0ZKYXR0WkdOcjNTb1VIU2lNMDhyek5VbzN6RGNRWXNacjFFY1VsOXNkcmpYRDdOTWJVdW1IUEt5clpsWGkyWW9mV3MtZWVrWThXX0ZHenJaM2t4UmpNa0JaUUZfV2tVX2tWSkRYUmw3d1M5YWVpY1BDTUpWREVGa1ZQYU1XWXMxblFsTThSTmswU1RSbWt3WHI1SzBCLUZJMVE?oc=5)
-
----
-
-### [才32歲就罹乳癌！她「每晚1習慣」誤當養生 醫嘆：就算少量也有風險](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9udk9NeTZtTUxkTzlpVUxUb0hFOGlwaVFpWUdtSHBvNnhaUzQ1Q1FYVFQwaFlPYjFGUUdxTjd4MjhOMDk0Vjlxcm9MR1k?oc=5)
-
-2026-06-30 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9udk9NeTZtTUxkTzlpVUxUb0hFOGlwaVFpWUdtSHBvNnhaUzQ1Q1FYVFQwaFlPYjFGUUdxTjd4MjhOMDk0Vjlxcm9MR1k?oc=5)
 
 ---
 

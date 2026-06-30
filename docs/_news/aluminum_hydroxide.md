@@ -14,7 +14,7 @@ permalink: /news/aluminum_hydroxide/
 ---
 
 <p class="key-answer" data-question="Aluminum hydroxide 有什麼相關新聞？">
-<strong>Aluminum hydroxide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 4 個。
+<strong>Aluminum hydroxide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 4 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,9 +36,15 @@ permalink: /news/aluminum_hydroxide/
 <p><a href="{{ '/drugs/aluminum_hydroxide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [反覆肚痛肚瀉非一般腸胃炎？醫生拆解克隆氏症4大徵狀](https://news.google.com/rss/articles/CBMi3AJBVV95cUxPT1N6bnZvRnNvU1VNd0JJcGlxV2dla3otWXJMMTNTampnV3VyYTBIVDNuazEzQ2R2TzBOZkN2V2o4a0FSR19oS0Utb211MDZIamp5OVlqUDRLRGFmc0xNV0lZREpTa2lNSHYyQm1rUlNrYW53ejdOcXpsSUtiTGdObHFWVEQtclZPS1BBOVFob1dORFRlS1hqOTNKY01iX2w4TVRfMXhKRmxWMl9WclFJby0ySzVTZDR5ak9QQnpHMFVVejNwQ1MxNVZNazR0M0NtYU5RcFVTSHRuRFpTc3VUWVN2ZjdQX29Way1PV29NN1pFUk1Pem1KeHFvcHZ0MGprNjVWeXBIODJ3SEx5ZjVYendURjg1UU5mTk1pU1FlN3FXRDdKT3JIR2swcVkycndZSWlhTWZWTHNoYXlKTmhJQnpjdnM4MXR0R0o3S0JWaFQ2MmdVRUl0SWZkODE?oc=5)
+
+2026-06-30 <span class="news-indication-tag">胃炎</span>
+
+來源：[TVB](https://news.google.com/rss/articles/CBMi3AJBVV95cUxPT1N6bnZvRnNvU1VNd0JJcGlxV2dla3otWXJMMTNTampnV3VyYTBIVDNuazEzQ2R2TzBOZkN2V2o4a0FSR19oS0Utb211MDZIamp5OVlqUDRLRGFmc0xNV0lZREpTa2lNSHYyQm1rUlNrYW53ejdOcXpsSUtiTGdObHFWVEQtclZPS1BBOVFob1dORFRlS1hqOTNKY01iX2w4TVRfMXhKRmxWMl9WclFJby0ySzVTZDR5ak9QQnpHMFVVejNwQ1MxNVZNazR0M0NtYU5RcFVTSHRuRFpTc3VUWVN2ZjdQX29Way1PV29NN1pFUk1Pem1KeHFvcHZ0MGprNjVWeXBIODJ3SEx5ZjVYendURjg1UU5mTk1pU1FlN3FXRDdKT3JIR2swcVkycndZSWlhTWZWTHNoYXlKTmhJQnpjdnM4MXR0R0o3S0JWaFQ2MmdVRUl0SWZkODE?oc=5)
+
+---
 
 
 <div class="disclaimer">

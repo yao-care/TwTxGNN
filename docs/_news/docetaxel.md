@@ -14,7 +14,7 @@ permalink: /news/docetaxel/
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Docetaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/docetaxel/
 <li><strong>原適應症</strong>：HER2陽性早期乳癌、轉移性乳癌、轉移性胃癌</li>
 <li><strong>證據等級</strong>：L1</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（99.9%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（99.9%）</li>
 <li>Ewing sarcoma（99.9%）</li>
 <li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
 <li class="indication-matched">small cell lung carcinoma（99.8%）<span class="indication-tag">📰 肺癌</span></li>
@@ -42,23 +42,7 @@ permalink: /news/docetaxel/
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [19歲女大生咳血、胸痛驚見3顆肺部腫瘤 竟是罕見「肉芽腫性多血管炎」](https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtWUJCS0FHeWNQTFZOZU9qSjlCOWVPcHNqVV9BdnlDYjNnXzFCTVZTNmhURjVaajlfZERLLVVZaDFHZkhWY09pZ093NzNPaktqSkE?oc=5)
-
-2026-06-30 <span class="news-indication-tag">腫瘤</span>
-
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtWUJCS0FHeWNQTFZOZU9qSjlCOWVPcHNqVV9BdnlDYjNnXzFCTVZTNmhURjVaajlfZERLLVVZaDFHZkhWY09pZ093NzNPaktqSkE?oc=5)
-
----
-
-### [才32歲就罹乳癌！她「每晚1習慣」誤當養生 醫嘆：就算少量也有風險](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9udk9NeTZtTUxkTzlpVUxUb0hFOGlwaVFpWUdtSHBvNnhaUzQ1Q1FYVFQwaFlPYjFGUUdxTjd4MjhOMDk0Vjlxcm9MR1k?oc=5)
-
-2026-06-30 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9udk9NeTZtTUxkTzlpVUxUb0hFOGlwaVFpWUdtSHBvNnhaUzQ1Q1FYVFQwaFlPYjFGUUdxTjd4MjhOMDk0Vjlxcm9MR1k?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [癌細胞最愛用的隱身術失效 研究揭免疫系統反殺關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0ZjZyMFN6VEVMYTZiNzJyM2hrVFhQSlp1UnBRby1rNlM0Ym5KLUZTOHVfakNiMWVON1h5NlBmMnZoWDVQYVBxTzViVkR0UHo3eXlBb05zMEZLeVRfVVp2alg0QkjSAWpBVV95cUxQNjNuaEpLR1lRc0dKSmpGV2VnUDM3UHdhZV94aUMwUFNYZXdXaWR4a2VTalhkQmNvMTZ1R1FUNU5JZVRta0Q5Z2xyU0UyQ0didEFqclNzSnRiVHpJaVJ2TkN2UnZQMEV6WUZB?oc=5)
 

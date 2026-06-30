@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智症（dementia） 相關新聞"
+title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智症（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智症（dementia） 相關新聞
+# 失智（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
-<strong>失智症（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
+<strong>失智（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,7 +29,23 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [吃魚油防失智？打破護腦神話 攝取Omega-3未見效果](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ONlY2UkdXR3h1YUJ1UWVtRXBGNldaZ3pYUktDYWFPQTl5ZldWc0NoRDRJRXNIdDhCdWVGQjlrUzlkRjA2aURWeURPdXM5clpkcC1jVnZQdEwycHV2c2RB?oc=5)
+
+2026-06-30
+
+來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ONlY2UkdXR3h1YUJ1UWVtRXBGNldaZ3pYUktDYWFPQTl5ZldWc0NoRDRJRXNIdDhCdWVGQjlrUzlkRjA2aURWeURPdXM5clpkcC1jVnZQdEwycHV2c2RB?oc=5)
+
+---
+
+### [失智症的前兆可能藏在浴室裡 研究：聞不到沐浴乳香味要小心](https://news.google.com/rss/articles/CBMiY0FVX3lxTE84RTVKMVF2T0pybzNWVHljdVBlbnZObG9hbEY4S013ZXdLV092OThtc3pJTGo0Si1ETUhjQ1RDOVVudFpFY3VMbEhteXR1N2Q2WG9BcndNYUhSaHB6WWxKR3ktRdIBY0FVX3lxTE84RTVKMVF2T0pybzNWVHljdVBlbnZObG9hbEY4S013ZXdLV092OThtc3pJTGo0Si1ETUhjQ1RDOVVudFpFY3VMbEhteXR1N2Q2WG9BcndNYUhSaHB6WWxKR3ktRQ?oc=5)
+
+2026-06-30
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiY0FVX3lxTE84RTVKMVF2T0pybzNWVHljdVBlbnZObG9hbEY4S013ZXdLV092OThtc3pJTGo0Si1ETUhjQ1RDOVVudFpFY3VMbEhteXR1N2Q2WG9BcndNYUhSaHB6WWxKR3ktRdIBY0FVX3lxTE84RTVKMVF2T0pybzNWVHljdVBlbnZObG9hbEY4S013ZXdLV092OThtc3pJTGo0Si1ETUhjQ1RDOVVudFpFY3VMbEhteXR1N2Q2WG9BcndNYUhSaHB6WWxKR3ktRQ?oc=5)
+
+---
 
 ### [帶狀皰疹疫苗好處多！多項研究發現可降低失智症風險- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTFBVTmVPRUNTNlNEd0J6QlpiUEpUaWNGVmJuQ0paVFpBT0xvcG02WnZpYUhlS1hlVXh4WFNyUGF4bTNqZ1RuLTRwZ1g5NVE1dm1Gc25zazN0OHpDRHljSGNKZjRkTmwyZmRXWFJENS13?oc=5)
 
