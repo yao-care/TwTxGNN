@@ -1,31 +1,7 @@
 {
-  "generated": "2026-06-30T20:51:37.243685+00:00",
-  "count": 8,
+  "generated": "2026-06-30T22:09:45.635863+00:00",
+  "count": 7,
   "news": [
-    {
-      "id": "067520dee54d",
-      "title": "吃魚油防失智？打破護腦神話 攝取Omega-3未見效果",
-      "published": "2026-06-30T08:33:15+00:00",
-      "sources": [
-        {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ONlY2UkdXR3h1YUJ1UWVtRXBGNldaZ3pYUktDYWFPQTl5ZldWc0NoRDRJRXNIdDhCdWVGQjlrUzlkRjA2aURWeURPdXM5clpkcC1jVnZQdEwycHV2c2RB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "4da9f5def329",
       "title": "1類營養素長壽功效被低估！研究：每日多吃10克死亡風險降21% 更有效護心血管/控血糖/防癌",

@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-30T20:51:37.211705+00:00",
-  "total_count": 22,
-  "matched_count": 8,
+  "last_updated": "2026-06-30T22:09:45.604817+00:00",
+  "total_count": 21,
+  "matched_count": 7,
   "news": [
     {
       "id": "73d62f7aed77",
@@ -43,42 +43,17 @@
       "matched_keywords": []
     },
     {
-      "id": "01e08756eb67",
+      "id": "3b1c5ef89969",
       "title": "6歲及12歲男童染甲流現嚴重併發症 衞防中心： 本港短期內進入流感季",
       "published": "2026-06-30T11:56:57+00:00",
-      "summary": "6歲及12歲男童染甲流現嚴重併發症 衞防中心： 本港短期內進入流感季&nbsp;&nbsp;bastillepost.com本港新增兩宗兒童感染甲型流感嚴重個案 料短期內將進入流感季節&nbsp;&nbsp;橙新聞6歲男童染甲流命危留PICU 另12歲男童中招留醫情況嚴重&nbsp;&nbsp;on.cc東網兩童染甲流一嚴重一危殆 衞生防護中心料短期內進入流感季節&nbsp;&nbsp;信報網站流感｜6歲男童染甲流和流感嗜血桿菌危殆 併發肺炎和敗血性休克&nbsp;&nbsp;香港01",
+      "summary": "6歲及12歲男童染甲流現嚴重併發症 衞防中心： 本港短期內進入流感季&nbsp;&nbsp;巴士的報本港新增兩宗兒童感染甲型流感嚴重個案 料短期內將進入流感季節&nbsp;&nbsp;橙新聞6歲男童染甲流命危留PICU 另12歲男童中招留醫情況嚴重&nbsp;&nbsp;on.cc東網兩童染甲流一嚴重一危殆 衞生防護中心料短期內進入流感季節&nbsp;&nbsp;信報網站流感｜6歲男童染甲流和流感嗜血桿菌危殆 併發肺炎和敗血性休克&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNbmpvVXE2MTNCdUlYTFVuOEsxU1lJWkhJZUVOTHNSMWRZeFl3dVItMldUY0ttdU5UQ3J3cnE0RG1Fd1gyZ2ZhQTJtWHV5RG82dzFUdWlCZGJaV2lNR3VEZ0RjNTlCWDRobGxVZlB0Rk1xT3AxTTJWWmJseW15VWxORGhnem5lZGNvWU05WXVLLVE0VXVrcmdzRU1KeVdQckhuZ21LcmYyOW01VG10QWhoQWtiZzIzR3RtTkU2QUlFbjVKR3hmM21peklQeENwOGdpVW1zRDAtWWQ3QnhXTVNXUEUtWHp3QVMyQVlpMGhheUxUdUdDOWZfMWpESzlmU09HNFpjbFU5Y1JGa2d0RkRwa3l1RGNnVEN5VElBLTBsOFlrRi1aQUEtN25JTTREbllOV3FNS1Q2UjFxeE5lSnk5UzhHX0xFYWVtNVhUdV9QSG45V3o0bTZJQzBJb3JJRnRyMXh0R1NB?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "067520dee54d",
-      "title": "吃魚油防失智？打破護腦神話 攝取Omega-3未見效果",
-      "published": "2026-06-30T08:33:15+00:00",
-      "summary": "吃魚油防失智？打破護腦神話 攝取Omega-3未見效果&nbsp;&nbsp;科技島健康網》魚油、薑黃都輸了！ 研究揭「這食物」吃越多越護腦&nbsp;&nbsp;自由健康網這樣買保健品＝智商稅！名醫：以為網紅研發品牌優於好市多&nbsp;&nbsp;祝你健康魚油吃多會腦出血？醫師揭密12萬人大數據，每天吃「這量」的安全界線- 營養好食&nbsp;&nbsp;TVBS 健康2.0全脂奶製品護腦？每天2片失智風險降29％&nbsp;&nbsp;鏡週刊Mirror Media",
-      "sources": [
-        {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ONlY2UkdXR3h1YUJ1UWVtRXBGNldaZ3pYUktDYWFPQTl5ZldWc0NoRDRJRXNIdDhCdWVGQjlrUzlkRjA2aURWeURPdXM5clpkcC1jVnZQdEwycHV2c2RB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "8522e078a3c1",
@@ -205,7 +180,7 @@
       "id": "8ceb934dbb00",
       "title": "癌細胞最愛用的隱身術失效 研究揭免疫系統反殺關鍵",
       "published": "2026-06-30T03:50:00+00:00",
-      "summary": "癌細胞最愛用的隱身術失效 研究揭免疫系統反殺關鍵&nbsp;&nbsp;自由健康網癌細胞非天生難抓 研究揭它把人體蛋白變「保護傘」騙過免疫&nbsp;&nbsp;自由健康網大腸癌「隱形斗篷」遭破解 關閉1開關讓腫瘤全消退&nbsp;&nbsp;自由健康網癌細胞避追殺或露破綻？研究揭或致另一免疫細胞追擊&nbsp;&nbsp;am730破解癌細胞「隱形身分證」 研究揭免疫系統反殺抗藥性關鍵&nbsp;&nbsp;自由健康網",
+      "summary": "癌細胞最愛用的隱身術失效 研究揭免疫系統反殺關鍵&nbsp;&nbsp;自由健康網大腸癌「隱形斗篷」遭破解 關閉1開關讓腫瘤全消退&nbsp;&nbsp;自由健康網破解癌細胞「隱形身分證」 研究揭免疫系統反殺抗藥性關鍵&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "自由健康網",
@@ -586,7 +561,7 @@
       "id": "515d04a52f1e",
       "title": "衞生署提醒市民暑假外遊慎防傳染病",
       "published": "2026-06-29T03:30:48+00:00",
-      "summary": "衞生署提醒市民暑假外遊慎防傳染病&nbsp;&nbsp;紫荊網衛生署：暑假外遊，慎防麻疹和伊波拉等傳染病&nbsp;&nbsp;香港商报伊波拉疫區返港市民 衞生署籲主動申報&nbsp;&nbsp;星島頭條衞生防護中心提醒市民暑假外遊須預防傳染病&nbsp;&nbsp;香港電台新聞網衞生署舉行跨部門演習 加強政府應對埃博拉病防控能力&nbsp;&nbsp;紫荊網",
+      "summary": "衞生署提醒市民暑假外遊慎防傳染病&nbsp;&nbsp;紫荊網衛生署：暑假外遊，慎防麻疹和伊波拉等傳染病&nbsp;&nbsp;香港商报伊波拉疫區返港市民 衞生署籲主動申報&nbsp;&nbsp;星島頭條衞生防護中心提醒市民暑假外遊須預防傳染病&nbsp;&nbsp;香港電台新聞網",
       "sources": [
         {
           "name": "紫荊網",
