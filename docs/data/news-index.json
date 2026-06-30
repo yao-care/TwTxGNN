@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-29T23:54:40.051470+00:00",
-  "count": 5,
+  "generated": "2026-06-30T02:33:19.782172+00:00",
+  "count": 6,
   "news": [
     {
       "id": "e34274d2b28e",
@@ -205,6 +205,38 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1dc479abbf63",
+      "title": "肺癌免疫治療新突破 台大研究：BET抑制劑有望喚醒耗竭T細胞",
+      "published": "2026-06-29T02:00:00+00:00",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vQl9oSzZ1MkZyZ01ycDNlRFdBa293dTJ3SEpURWw2aWpGVG1TaHg2ZVNsMllyYmdfRVBSblZiQ2VzUE5tYlBTM0EtcWZYY181RExobWttcHBfQzY4cHdEctIBZkFVX3lxTE8xb2w2TzhTZ1l3N0pEQk1hclBLd2dXd1BZclFMMlhwbHp3cXNaZEg4a0VoZFB3UGY0NU4wN3pNQkthV3JYb2pINjhQUmJSdmJBYUdrbjgzUkJHSW9lZ0ViQ2RPb0NvZw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
             }
           ]
         }

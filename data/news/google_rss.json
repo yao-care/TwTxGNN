@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-06-29T23:54:35.537878+00:00",
-  "count": 16,
+  "fetched_at": "2026-06-30T02:33:16.082821+00:00",
+  "count": 17,
   "news": [
     {
       "id": "7870eb2d7394",
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "2126cba8064d",
-      "title": "火燒鳥一週尿檢沒事？泌尿醫：常規驗尿根本驗不出性病 - Yahoo新聞",
-      "published": "2026-06-29T08:36:23+00:00",
-      "summary": "火燒鳥一週尿檢沒事？泌尿醫：常規驗尿根本驗不出性病&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPcHE4dG4tWlY1REJVbmlnQ0htZjJTSDIzc3NqYXV5OXR1ZzY2Q3hhNG92ZW1JcExCd2pwMXhGb1JlQ1RTeXBpVjhNUHBoTXRfWTBIdGpBRnZFaG9qaEg1NmZuMGRTLTBNWEJyR0VUUUlMRXk2WWxVN2ZmcUZpc2MzSjNNV0xPUnZBdTRYZTRKLW5MZEd4bGVWRndMZ3BDbFd0UU5XYmtzTDMzWHNlRjFCdXZ0YnhtRXBrc3RlYmFDMHVMckQybllFSjc0NHRJcFNxa3VrWnRQZWdvQkNlSDVfV3Fha2dYRFJ2UzMxTmRxT2FlanZWbExHaDBwVlFJSXFiZGs0QzlEOUxUSkRTNndMdF9GRGZRODFSTDh2bTFOX2podkVDaGFyanE0X0ppcndvay1hQnVJaE9PQzdzellkQlYxR0YwUTBzdXAzUkkwajZ4bUVHZXhfcktpbXdlcVE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2111783f8357",
       "title": "吃膠原蛋白卻狂冒痘？營養師揭真相：問題未必出在膠原蛋白 - 台視新聞網",
       "published": "2026-06-29T07:00:02+00:00",
@@ -60,6 +48,18 @@
         {
           "name": "台視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKRU5zcjVPQl9KTjN4cWNMMXM5U1RtUXRnS1M0NFpndzZuUnVUWWk4OTlVYkQ1ck11ZW1pOEs5US1ZM3NBMW8xX0hPOXM0NWNkdUhha1dHSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2126cba8064d",
+      "title": "火燒鳥一週尿檢沒事？泌尿醫：常規驗尿根本驗不出性病 - Yahoo新聞",
+      "published": "2026-06-29T08:36:23+00:00",
+      "summary": "火燒鳥一週尿檢沒事？泌尿醫：常規驗尿根本驗不出性病&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPcHE4dG4tWlY1REJVbmlnQ0htZjJTSDIzc3NqYXV5OXR1ZzY2Q3hhNG92ZW1JcExCd2pwMXhGb1JlQ1RTeXBpVjhNUHBoTXRfWTBIdGpBRnZFaG9qaEg1NmZuMGRTLTBNWEJyR0VUUUlMRXk2WWxVN2ZmcUZpc2MzSjNNV0xPUnZBdTRYZTRKLW5MZEd4bGVWRndMZ3BDbFd0UU5XYmtzTDMzWHNlRjFCdXZ0YnhtRXBrc3RlYmFDMHVMckQybllFSjc0NHRJcFNxa3VrWnRQZWdvQkNlSDVfV3Fha2dYRFJ2UzMxTmRxT2FlanZWbExHaDBwVlFJSXFiZGs0QzlEOUxUSkRTNndMdF9GRGZRODFSTDh2bTFOX2podkVDaGFyanE0X0ppcndvay1hQnVJaE9PQzdzellkQlYxR0YwUTBzdXAzUkkwajZ4bUVHZXhfcktpbXdlcVE?oc=5"
         }
       ]
     },
@@ -136,6 +136,18 @@
       ]
     },
     {
+      "id": "1dc479abbf63",
+      "title": "肺癌免疫治療新突破 台大研究：BET抑制劑有望喚醒耗竭T細胞 - 大纪元",
+      "published": "2026-06-29T02:00:00+00:00",
+      "summary": "肺癌免疫治療新突破 台大研究：BET抑制劑有望喚醒耗竭T細胞&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vQl9oSzZ1MkZyZ01ycDNlRFdBa293dTJ3SEpURWw2aWpGVG1TaHg2ZVNsMllyYmdfRVBSblZiQ2VzUE5tYlBTM0EtcWZYY181RExobWttcHBfQzY4cHdEctIBZkFVX3lxTE8xb2w2TzhTZ1l3N0pEQk1hclBLd2dXd1BZclFMMlhwbHp3cXNaZEg4a0VoZFB3UGY0NU4wN3pNQkthV3JYb2pINjhQUmJSdmJBYUdrbjgzUkJHSW9lZ0ViQ2RPb0NvZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "696865e5c52b",
       "title": "明道分享「減肥的真相」！飲食1原則、每天必跳「減脂操」 - 造咖",
       "published": "2026-06-29T04:18:00+00:00",
@@ -163,7 +175,7 @@
       "id": "515d04a52f1e",
       "title": "衞生署提醒市民暑假外遊慎防傳染病 - 紫荊網",
       "published": "2026-06-29T03:30:48+00:00",
-      "summary": "衞生署提醒市民暑假外遊慎防傳染病&nbsp;&nbsp;紫荊網衛生署：暑假外遊，慎防麻疹和伊波拉等傳染病&nbsp;&nbsp;香港商报伊波拉疫區返港市民 衞生署籲主動申報&nbsp;&nbsp;星島頭條衞生防護中心提醒市民暑假外遊須預防傳染病&nbsp;&nbsp;香港電台新聞網衞生署舉行跨部門演習 加強政府應對埃博拉病防控能力&nbsp;&nbsp;紫荊網",
+      "summary": "衞生署提醒市民暑假外遊慎防傳染病&nbsp;&nbsp;紫荊網衛生署：暑假外遊，慎防麻疹和伊波拉等傳染病&nbsp;&nbsp;香港商报伊波拉疫區返港市民 衞生署籲主動申報&nbsp;&nbsp;星島頭條衞生防護中心提醒市民暑假外遊須預防傳染病&nbsp;&nbsp;香港電台新聞網",
       "sources": [
         {
           "name": "紫荊網",

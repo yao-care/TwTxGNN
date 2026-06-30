@@ -14,7 +14,7 @@ permalink: /news/cytarabine/
 ---
 
 <p class="key-answer" data-question="Cytarabine 有什麼相關新聞？">
-<strong>Cytarabine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cytarabine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/cytarabine/
 <ul>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（9 個）：<ul>
-<li>small cell lung carcinoma（99.8%）</li>
+<li class="indication-matched">small cell lung carcinoma（99.8%）<span class="indication-tag">📰 肺癌</span></li>
 <li>primary pulmonary lymphoma（99.8%）</li>
 <li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
 <li>pulmonary blastoma（99.8%）</li>
@@ -40,13 +40,21 @@ permalink: /news/cytarabine/
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [罹癌要跟年邁父母說嗎？癌症年輕化中年患者陷兩難 醫：先思考2個問題](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1udml5RzV0ZW9yanNUSk9fR1prS3EyOVhLUzdrMVhyeTRGUDRua0ZmbGVHeTlFOGZnaFF5Z2RKNU1MSzBBTG1xSEZYZnQtOWJHZ1hMU21n?oc=5)
 
 2026-06-29 <span class="news-indication-tag">癌症</span>
 
 來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1udml5RzV0ZW9yanNUSk9fR1prS3EyOVhLUzdrMVhyeTRGUDRua0ZmbGVHeTlFOGZnaFF5Z2RKNU1MSzBBTG1xSEZYZnQtOWJHZ1hMU21n?oc=5)
+
+---
+
+### [肺癌免疫治療新突破 台大研究：BET抑制劑有望喚醒耗竭T細胞](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vQl9oSzZ1MkZyZ01ycDNlRFdBa293dTJ3SEpURWw2aWpGVG1TaHg2ZVNsMllyYmdfRVBSblZiQ2VzUE5tYlBTM0EtcWZYY181RExobWttcHBfQzY4cHdEctIBZkFVX3lxTE8xb2w2TzhTZ1l3N0pEQk1hclBLd2dXd1BZclFMMlhwbHp3cXNaZEg4a0VoZFB3UGY0NU4wN3pNQkthV3JYb2pINjhQUmJSdmJBYUdrbjgzUkJHSW9lZ0ViQ2RPb0NvZw?oc=5)
+
+2026-06-29 <span class="news-indication-tag">肺癌</span>
+
+來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vQl9oSzZ1MkZyZ01ycDNlRFdBa293dTJ3SEpURWw2aWpGVG1TaHg2ZVNsMllyYmdfRVBSblZiQ2VzUE5tYlBTM0EtcWZYY181RExobWttcHBfQzY4cHdEctIBZkFVX3lxTE8xb2w2TzhTZ1l3N0pEQk1hclBLd2dXd1BZclFMMlhwbHp3cXNaZEg4a0VoZFB3UGY0NU4wN3pNQkthV3JYb2pINjhQUmJSdmJBYUdrbjgzUkJHSW9lZ0ViQ2RPb0NvZw?oc=5)
 
 ---
 

@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-29T23:54:40.021528+00:00",
-  "total_count": 16,
-  "matched_count": 5,
+  "last_updated": "2026-06-30T02:33:19.750844+00:00",
+  "total_count": 17,
+  "matched_count": 6,
   "news": [
     {
       "id": "447773cd2e7a",
@@ -307,7 +307,7 @@
       "id": "515d04a52f1e",
       "title": "衞生署提醒市民暑假外遊慎防傳染病",
       "published": "2026-06-29T03:30:48+00:00",
-      "summary": "衞生署提醒市民暑假外遊慎防傳染病&nbsp;&nbsp;紫荊網衛生署：暑假外遊，慎防麻疹和伊波拉等傳染病&nbsp;&nbsp;香港商报伊波拉疫區返港市民 衞生署籲主動申報&nbsp;&nbsp;星島頭條衞生防護中心提醒市民暑假外遊須預防傳染病&nbsp;&nbsp;香港電台新聞網衞生署舉行跨部門演習 加強政府應對埃博拉病防控能力&nbsp;&nbsp;紫荊網",
+      "summary": "衞生署提醒市民暑假外遊慎防傳染病&nbsp;&nbsp;紫荊網衛生署：暑假外遊，慎防麻疹和伊波拉等傳染病&nbsp;&nbsp;香港商报伊波拉疫區返港市民 衞生署籲主動申報&nbsp;&nbsp;星島頭條衞生防護中心提醒市民暑假外遊須預防傳染病&nbsp;&nbsp;香港電台新聞網",
       "sources": [
         {
           "name": "紫荊網",
@@ -315,6 +315,39 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "1dc479abbf63",
+      "title": "肺癌免疫治療新突破 台大研究：BET抑制劑有望喚醒耗竭T細胞",
+      "published": "2026-06-29T02:00:00+00:00",
+      "summary": "肺癌免疫治療新突破 台大研究：BET抑制劑有望喚醒耗竭T細胞&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vQl9oSzZ1MkZyZ01ycDNlRFdBa293dTJ3SEpURWw2aWpGVG1TaHg2ZVNsMllyYmdfRVBSblZiQ2VzUE5tYlBTM0EtcWZYY181RExobWttcHBfQzY4cHdEctIBZkFVX3lxTE8xb2w2TzhTZ1l3N0pEQk1hclBLd2dXd1BZclFMMlhwbHp3cXNaZEg4a0VoZFB3UGY0NU4wN3pNQkthV3JYb2pINjhQUmJSdmJBYUdrbjgzUkJHSW9lZ0ViQ2RPb0NvZw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "7b27525a9c3b",
