@@ -1,17 +1,30 @@
 {
-  "last_updated": "2026-06-30T10:26:15.497225+00:00",
+  "last_updated": "2026-06-30T13:04:15.264846+00:00",
   "total_count": 24,
   "matched_count": 10,
   "news": [
     {
-      "id": "c2320fa9a71d",
-      "title": "遺傳失明注射新藥2天重見光 全球首期人體試驗成功",
-      "published": "2026-06-30T10:11:00+00:00",
-      "summary": "遺傳失明注射新藥2天重見光 全球首期人體試驗成功&nbsp;&nbsp;自由健康網",
+      "id": "0c98e16a4227",
+      "title": "流感會傳染多久？醫示警「退燒不代表安全」：1類人發病10天都有機會",
+      "published": "2026-06-30T12:17:05+00:00",
+      "summary": "流感會傳染多久？醫示警「退燒不代表安全」：1類人發病10天都有機會&nbsp;&nbsp;祝你健康",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWT211bllVUzlRcWtja2JmaWFWZzBuMDNKYldHa3lWeVFBMXlLajFWUi1sVU92OEh0UllLaFlheFdFd3RZbHkwczN2aXRfWThUVTM2OUh3RWgwNHNXNVllRWxiNlrSAWpBVV95cUxOR0d2OEdaTzFaZHhNdU9UT1J0MnVhYzdxVkROd3B6dDBoM1pBdVJ3NEwxNmZhcEw5SFVxekhMVFc3SDZCQmRNNTItSVRBdHByYmhhdmhKZzNzN2d1WEJCUWpvaEpNV0VPeVFB?oc=5"
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxMGpkR2o4N01XT1RYNldGNW43U0Jpc0I4ZjRidUQ0cDJaVU5kSTZXelRwQldOUFI5SnlFRG1BWFN4b1RWUmp4X2QxT3A?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d6c4f6043a2c",
+      "title": "兩名男童染甲流 衞生防護中心：本港短期內進入流感季節",
+      "published": "2026-06-30T11:54:00+00:00",
+      "summary": "兩名男童染甲流 衞生防護中心：本港短期內進入流感季節&nbsp;&nbsp;香港電台新聞網流感｜6歲男童染甲流和流感嗜血桿菌危殆 併發肺炎和敗血性休克&nbsp;&nbsp;香港01本港新增2宗兒童甲流嚴重個案 均出現敗血性休克&nbsp;&nbsp;香港商报6歲男童染甲流命危留PICU 另12歲男童中招留醫情況嚴重&nbsp;&nbsp;on.cc東網不是冬天才會中新冠、流感！醫揭病毒流行新趨勢：夏天發燒、喉嚨痛更要把握「這段時間」&nbsp;&nbsp;良醫健康網",
+      "sources": [
+        {
+          "name": "香港電台新聞網",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40bHFlVmdlYUtzNWFaZUhLeG1UT1o4dnVUeHAxWjZ4eVI3Z1ZzYVZWbFhYMVJhYk9ETm4zMWwtcEtEVXNzQzc1M053VHk5bjhMR3lqbTBXTHV2aXVCaUVtdW50aG1tSzZpLTFLNXVTWQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -45,24 +58,11 @@
       "id": "463f5a5a85dd",
       "title": "睡醒蝙蝠蓋住口鼻！11歲男童沒傷口卻染狂犬病 19天後不治",
       "published": "2026-06-30T08:20:03+00:00",
-      "summary": "睡醒蝙蝠蓋住口鼻！11歲男童沒傷口卻染狂犬病 19天後不治&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "睡醒蝙蝠蓋住口鼻！11歲男童沒傷口卻染狂犬病 19天後不治&nbsp;&nbsp;Yahoo新聞罕見！男童睡覺時「遭蝙蝠貼臉」 3週後竟染狂犬病慘亡&nbsp;&nbsp;Yahoo新聞睡醒蝙蝠蓋住口鼻！11歲男童沒傷口卻染狂犬病 19天後不治 | CTWANT&nbsp;&nbsp;LINE TODAY57年首例！「蝙蝠停一下」11歲男童竟猝逝 醫揭原因&nbsp;&nbsp;中天新聞網57年首例！男童睡醒「驚見蝙蝠停臉上」 19天後惡化…確診狂犬病離世&nbsp;&nbsp;緯來新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOdjFzNkJXeXhWdldzbnJYUFlmc0E5bzcxYmszSGdaZnh4X0N0M1pIcWd5NEZVT0xsbUcza1ZkcE8ySzA3Y05sQlJpSkFNTDExVi15V3BLTmlISzhDeFZ2QzN5S1RzVzc5RVRoeG1XMy03b00yaXBSOV8zZFNCRW9EeUFDRThEaWE0YzVaWFh5SjR3eFpjQXgtVWsxNmFraFkxWnZ4bXExV29sc1BoQnNZX0xvUVBlTkN6LWIxeFZWdDVWWGF1MU5Yd2JXUndHU1dBNldrTGVJY3RhN3o5SXVha0R1R2FuOUFkT0VoYUt0NjJJamR0X0FDSmVBOEdaR1p6c0J6SU8tTi1pa2VKZXo1NmpFSVBzOUpoVTFFdlpRSFBSeW9OVUcxUWFPR1pkRi0wZVVzc0h2R2tsZW9NdGhfYWtiTndaaUl0bkY5cEZ4T212MmxLdGFQbEJqSUZacnVJV19QaDFDcFQweERiNnRR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "37ab1e90896a",
-      "title": "腎臟不是修不好！科學家揪出關鍵蛋白 有望啟動自我修復",
-      "published": "2026-06-30T07:36:00+00:00",
-      "summary": "腎臟不是修不好！科學家揪出關鍵蛋白 有望啟動自我修復&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HZDc1SER0WEtrTm9SblVIcGJCUXBsM1FnVG11cHVVcW1ZNnBWZFhkSkV6MnNka3FvRjNmMlpSQjA5aHNzWFJDdjFONzVZUmozc0ZXc0djdDdzYVRmZnk2UTZwVUPSAWpBVV95cUxPdEJoSXRwZ1ZBSVRZbEdVX2hjZDZleGd3U1Job2hVWlItUWdITElVTnNxdXpQQW1naGhrZEE5eXk0QTl4S2ZNRGRGTGQwZkpqMVR3TXY1NjRBdFlQQU1MSFE3NTRERnFkRll3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -493,14 +493,14 @@
       "matched_keywords": []
     },
     {
-      "id": "e34274d2b28e",
-      "title": "罹癌要跟年邁父母說嗎？癌症年輕化中年患者陷兩難 醫：先思考2個問題",
+      "id": "2d5f5de64a79",
+      "title": "罹癌要跟年邁父母說嗎？癌症年輕化中年患者陷兩難 醫：先思考2個問題 - PChome Online 新聞",
       "published": "2026-06-29T09:00:00+00:00",
-      "summary": "罹癌要跟年邁父母說嗎？癌症年輕化中年患者陷兩難 醫：先思考2個問題&nbsp;&nbsp;健康醫療網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "罹癌要跟年邁父母說嗎？癌症年輕化中年患者陷兩難 醫：先思考2個問題&nbsp;&nbsp;PChome Online 新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1udml5RzV0ZW9yanNUSk9fR1prS3EyOVhLUzdrMVhyeTRGUDRua0ZmbGVHeTlFOGZnaFF5Z2RKNU1MSzBBTG1xSEZYZnQtOWJHZ1hMU21n?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNenhrbUlwaFhpN29VMms1djRuamtuQzZoa3BzcW8wM2tyUGUybW85VzkxMnlvQXFVczN6TmZueUh5Um1LbGpTLU5EWk1felFtSGxYUXhGU2xDWmJlVFJaNkJOUXJoelRtbWsxZlN0bkhjaGc1eEg2bFJlQ2VxNUsyN05BQmtCNjVSQUQzdGZ2aERvRms?oc=5"
         }
       ],
       "matched_keywords": [
