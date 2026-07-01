@@ -1,17 +1,110 @@
 {
-  "last_updated": "2026-07-01T08:44:13.814002+00:00",
-  "total_count": 22,
-  "matched_count": 6,
+  "last_updated": "2026-07-01T11:52:20.219682+00:00",
+  "total_count": 23,
+  "matched_count": 7,
   "news": [
     {
-      "id": "28607439a319",
-      "title": "「醫生妳小心，我有HIV！」急診懷孕醫師感動讚：暖男…真相讓網友大改觀 - 鏡週刊Mirror Media",
-      "published": "2026-07-01T06:09:00+00:00",
-      "summary": "「醫生妳小心，我有HIV！」急診懷孕醫師感動讚：暖男…真相讓網友大改觀&nbsp;&nbsp;鏡週刊Mirror Media",
+      "id": "582c5d5ad63d",
+      "title": "3步驟飲食抗發炎、護腦！研究曝「失智風險降29%」 高風險者也有用",
+      "published": "2026-07-01T11:36:40+00:00",
+      "summary": "3步驟飲食抗發炎、護腦！研究曝「失智風險降29%」 高風險者也有用&nbsp;&nbsp;祝你健康健康網》魚油、薑黃都輸了！ 研究揭「這食物」吃越多越護腦&nbsp;&nbsp;自由健康網吃魚油防失智？打破護腦神話 攝取Omega-3未見效果 - 科技新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞吃魚油防失智？研究戳破保健品神話 不如多吃這類食物更實際&nbsp;&nbsp;元氣網魚油吃多會腦出血？醫師揭密12萬人大數據，每天吃「這量」的安全界線- 營養好食&nbsp;&nbsp;TVBS 健康2.0",
       "sources": [
         {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53Zjg5eEZpeHAwaUJlaDZfOUhrNWxiYkxqc0tsMEMtUmtUQkNSME9lQWYyUUZGcE5wcGFxVEV5c3ZLdlZvZFB6eU9DS2NGRWVsbUR4VE16N3Y0WHRQSWRmYndUb9IBaEFVX3lxTFBqV05KZ2tMNDlwUGlxMW4zQUMxZVViMEZvazI3RVNTUHo0U2x3dmpFdlJrdUxTM3pnVjNucnRKXzdqUkI2b2hNbFdQR3dZcHF5ODdVUVJsZlYycHdBZ0otVVFheVYxT2w1?oc=5"
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6enVoVWpQZ3M0SDRScTZWX0lfdnYwU29mQThhWTVnZThEc2N6ZUpDbDJiX3VXVHlMdHBHS2ZENWZQX3RZLWhtOGJsQ2k?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "026cd6e0b3c8",
+      "title": "11歲男童遭蝙蝠停臉上，沒發現傷口，最終竟感染狂犬病身亡 - Mombaby 媽媽寶寶懷孕生活網",
+      "published": "2026-07-01T10:43:03+00:00",
+      "summary": "11歲男童遭蝙蝠停臉上，沒發現傷口，最終竟感染狂犬病身亡&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網睡醒蝙蝠蓋住口鼻！11歲男童沒傷口卻染狂犬病 19天後不治 | CTWANT&nbsp;&nbsp;LINE TODAY狂犬病｜加國11歲男童遭蝙蝠「貼臉」後發病亡 安省57年來首例&nbsp;&nbsp;singtao.ca57年首例！「蝙蝠停一下」11歲男童竟猝逝 醫：沒傷口導致誤判&nbsp;&nbsp;Yahoo新聞罕見！男童睡覺時「遭蝙蝠貼臉」 3週後竟染狂犬病慘亡&nbsp;&nbsp;三立新聞網SETN.com",
+      "sources": [
+        {
+          "name": "Mombaby 媽媽寶寶懷孕生活網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzdzRySTd6N0loQWREM1QzR3FlRkE3cHh2ampkS0dMUnBNcDBHYmFEWGRfMEhYOWt4R1dhTk1FQXp6ZE1lSnh3aDNQVlBta19YUGR0OW9R?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "87a786bccf92",
+      "title": "中風後手腳灼熱痛是怎麼了？醫師解析常見4大慢性疼痛與治療- 健康新聞- PChome Online 新聞 - PChome Online 新聞",
+      "published": "2026-07-01T09:00:00+00:00",
+      "summary": "中風後手腳灼熱痛是怎麼了？醫師解析常見4大慢性疼痛與治療- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcVY3emFTRVhpbW1RamRTTm5NckhkQTBvcmFjZWQyX0JrbzJoWWpWQm1xSkluR09tcWpmWDhfYzlvNWVEeXhpWkpFWC1IRnRSS3M2TTJGZkg4eUc2NW9hRmNaTGVYQ3VDWm9wVDBDOXdia19RSUpKaHRTRTJqYW1IaEtxUXJCbDlHNXVPUUtDSjd2aGM?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8973a6d01a27",
+      "title": "到了中年呼吸也會胖？《科學》揭密：老化幹細胞害你狂長內臟脂肪 - TechNews 科技新報",
+      "published": "2026-07-01T08:53:55+00:00",
+      "summary": "到了中年呼吸也會胖？《科學》揭密：老化幹細胞害你狂長內臟脂肪&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzVUTEt2TmJwc1M1SWk2Mk9MajF2N3pKb3VFdkl0ZkpfWWFTaXFXckFteGNxRmpJRFpiMVdXM095RHpBdEVEMFA1blNwT2tQQVNmdl9lLVJyTy1HN0xieU56SWdWRGdETnFmVkVIUzZfXzFqdVRHb3FSVFJnSDNtaFdn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "794615fd6dbc",
+      "title": "醫起看／生病不是軟弱！男高材生確診卻用這招逆轉人生",
+      "published": "2026-07-01T08:40:00+00:00",
+      "summary": "醫起看／生病不是軟弱！男高材生確診卻用這招逆轉人生&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4X1ZFRFBSMEdHZGxLQXNQZldUbDlyNnNWbVdXLU9JUmN2RUJQNzBCZTJhZjM2QnBBX0tHb1F2enBwZjdPQWZyY1hQTEY0WmVXQW9xRA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "625078286725",
+      "title": "「醫生妳小心，我有HIV！」急診懷孕醫師感動讚：暖男…真相讓網友大改觀",
+      "published": "2026-07-01T06:54:05+00:00",
+      "summary": "「醫生妳小心，我有HIV！」急診懷孕醫師感動讚：暖男…真相讓網友大改觀&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNYkJJc25aREV5Mk5OQkZ0SEJOd2dQTThjZlAtVXUzUDZpQ21hcGxmbUhCYW5TblRPaHJHSVlScC1DeW5QVVp5V1pidl9TNmVndkNvNTlJUWtlbWdmYU9vdjE3MWVSZnFvR1pWNjhiUGpvaU5FdTJTcHpvelhPY0RTSnpUYm92bDFMcjI4bjZYV2J4a09zTk1LNWhtc20zekFHdEM0Y1BWelVQR3NGWDg5TkVlemlLY1Z0M01qMXQxNEVQVjNZTGl5bDYxVl9NWGdzZDJKWnYyVEpnWkdQMS1xUDRJWWtrVnM4VDd6SWc1aG0xbVY5TkZNWmN3Ump3Y0RwSEdWQ3RXRGtrVUQ4MTd6cmdJb1pPaEJQRlhoblFNS09LcUh4WGVLdnFvOWhnOGpITEV3U0pGSnlDT3o0dHBoUC03eHg2NzlXcXVlSi1Yc3prS0g1MXFGRnRNWTQ4NWVrZVFCNDFXSVh6d1lnWXZ6WFc5NklQMC1nejFCZ3I0QlRaMTBxM3drZ2pMUTI3ZDREdlE1SA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -25,32 +118,6 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZk5CNldvbFMwUThtaklSMVc0Tmptdll1T1JpR0UtdmVwS3VFXzlKRll0LUp2djYtdnZEQ05QUmQwaXdEZkkxbWpETUt4Z1c3NU51ZEc1cGQ4OVQ3SzhCcEZkdl9rNFJULTBTVy1kUGluMWl6YXdhMmRaR0xWNW96OEVHeFdwUGk3SmExc2JqSQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7ba42c0f8b42",
-      "title": "被蚊子叮抓癢一時爽研究：只會害慘自己- 國際",
-      "published": "2026-07-01T05:24:41+00:00",
-      "summary": "被蚊子叮抓癢一時爽研究：只會害慘自己- 國際&nbsp;&nbsp;中時新聞網撓抓蚊子叮咬「紅豆冰」很爽科學家猛搖頭：惡性循環- 國際&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WRlpTNEhVVzRJOHhraGc5My1FOXBoZ0NSY1VnSHJjX0o5M0JDRVZTRS1JVEkzWFhDa1hDcC1XSEJseFV6ZFE1NVd1dWFyblg1VUdYZjF2T1IwUW53bGxGZ2VIeG9jVDBpNlVqRXVR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a102bc92dc3d",
-      "title": "11歲童遭蝙蝠蓋口鼻 無傷仍染狂犬病身亡",
-      "published": "2026-07-01T05:24:38+00:00",
-      "summary": "11歲童遭蝙蝠蓋口鼻 無傷仍染狂犬病身亡&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPZmZzUVlyRWhlVnY0X3pob1BUTHozT1dJbUczQXJNTndVSTAxV3dOSExWWkx4aFZzR01wRF9VMEhWci1Tajc0YTdEMWRrR1NsMzhVZENzeTUxRUFpRkN2NDhGV0JyNXBzNE5LalRBV3lLOEkxaXp4VGpiZ29kU2otNTFVZm5BeENDSnhrUUpZX3A0RFB2aHJGVGFNdkhmTlk4RUNKcXZJWV9QaHNGdzhkR3Z6b1p4UVdXbm1RbkJKeUpsa2VLTWtrNERSNktXWVlNXzItQ24yWUhEODcxV2lwTE1uclg5WTAxNnFHSEdUclYzeW1xM2FySTNjZmtwV0ItUkd4ZGdoaWd5eUNlMl8yUmNQdFFzaTFubFh4YmtjYzN3NGc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -106,215 +173,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "e5ac6a29f60c",
-      "title": "聞癌色變！匯集42國權威研究顯示：6種癌年增率 年輕人已超越中高齡者 - TVBS 健康2.0",
-      "published": "2026-06-30T11:37:00+00:00",
-      "summary": "聞癌色變！匯集42國權威研究顯示：6種癌年增率 年輕人已超越中高齡者&nbsp;&nbsp;TVBS 健康2.0罹癌要跟年邁父母說嗎？癌症年輕化中年患者陷兩難 醫：先思考2個問題&nbsp;&nbsp;Yahoo新聞研究：年輕世代「生物性老化」加速 或與癌症年輕化現象有關&nbsp;&nbsp;UDN癌症治好還不夠？年輕癌友慢性病風險增2.3倍！&nbsp;&nbsp;中時新聞網50歲前不想罹癌！快改掉「這6個習慣」 專家：看似無害卻重傷&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jN2tUbzZCWWM4d0F0ZGxmVUdFV0hRR3U4VWduYThMUTJpZElXeENiTjYwdWxrTVRXdWxJQk5OQXZYXzI4OVlmZ1k2WXdZc0JBdWc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "40deba12f700",
@@ -454,7 +312,7 @@
       "id": "84302b4eb463",
       "title": "長者練肌力 助減脂、增強體力",
       "published": "2026-06-30T01:05:05+00:00",
-      "summary": "長者練肌力 助減脂、增強體力&nbsp;&nbsp;人間福報電子報中年後減肥不想掉肌肉 研究揭只有這種運動辦得到&nbsp;&nbsp;自由健康網年紀大更該練肌力 研究顯示阻力訓練有助減脂、提升生活品質&nbsp;&nbsp;元氣網歷時30年的研究揭示 做這種運動可延長壽命&nbsp;&nbsp;大纪元只需一項運動即可幫助老年人減脂而不減肌肉。&nbsp;&nbsp;arch-web.com.tw",
+      "summary": "長者練肌力 助減脂、增強體力&nbsp;&nbsp;人間福報電子報中年後減肥不想掉肌肉 研究揭只有這種運動辦得到&nbsp;&nbsp;自由健康網忙人救星！美國醫生：每天只花4分鐘的簡單長壽運動 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報歷時30年的研究揭示 做這種運動可延長壽命&nbsp;&nbsp;大纪元想活得更久？大型研究證實：肌力訓練是延年益壽的關鍵&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
           "name": "人間福報電子報",
@@ -539,27 +397,14 @@
       "matched_keywords": []
     },
     {
-      "id": "5a4f6585d374",
-      "title": "狂補膠原蛋白狂冒痘痘？吃再多也沒感覺？營養師揭：膠原蛋白流失4大生活地雷",
-      "published": "2026-06-29T08:52:00+00:00",
-      "summary": "狂補膠原蛋白狂冒痘痘？吃再多也沒感覺？營養師揭：膠原蛋白流失4大生活地雷&nbsp;&nbsp;蕃新聞吃膠原蛋白卻狂冒痘？營養師揭真相：問題未必出在膠原蛋白&nbsp;&nbsp;Yahoo新聞膠原蛋白怎麼吃才有效？營養師解答 | NOWNEWS今日新聞&nbsp;&nbsp;LINE TODAY吃膠原蛋白拚凍齡卻爆痘 營養師揪4大地雷&nbsp;&nbsp;自由健康網膠原蛋白是智商稅嗎？研究最快10天有變化 吃了沒感覺先看這3件事｜人氣話題&nbsp;&nbsp;dailyview.hk",
+      "id": "39384af9e824",
+      "title": "膠原蛋白怎麼吃才有效？營養師解答 | NOWNEWS今日新聞 - LINE TODAY",
+      "published": "2026-06-29T12:59:14+00:00",
+      "summary": "膠原蛋白怎麼吃才有效？營養師解答 | NOWNEWS今日新聞&nbsp;&nbsp;LINE TODAY吃膠原蛋白卻狂冒痘？營養師揭真相：問題未必出在膠原蛋白&nbsp;&nbsp;Yahoo新聞吃膠原蛋白拚凍齡卻爆痘 營養師揪4大地雷&nbsp;&nbsp;自由健康網膠原蛋白是智商稅嗎？研究最快10天有變化 吃了沒感覺先看這3件事｜人氣話題&nbsp;&nbsp;dailyview.hk天天補膠原蛋白卻沒感覺？營養師揭4大原因 吃錯還可能冒痘&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wdm0wQmVtc2NCVzk2Vnd5RjhRNk5ycHR5RHlfbkI3NXhQaldzb2RVbTRlSmU5UXFiTWd4QXFPNlR3aHVhTHhkWVJZZERiU3FwSmc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2126cba8064d",
-      "title": "火燒鳥一週尿檢沒事？泌尿醫：常規驗尿根本驗不出性病",
-      "published": "2026-06-29T08:36:23+00:00",
-      "summary": "火燒鳥一週尿檢沒事？泌尿醫：常規驗尿根本驗不出性病&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPcHE4dG4tWlY1REJVbmlnQ0htZjJTSDIzc3NqYXV5OXR1ZzY2Q3hhNG92ZW1JcExCd2pwMXhGb1JlQ1RTeXBpVjhNUHBoTXRfWTBIdGpBRnZFaG9qaEg1NmZuMGRTLTBNWEJyR0VUUUlMRXk2WWxVN2ZmcUZpc2MzSjNNV0xPUnZBdTRYZTRKLW5MZEd4bGVWRndMZ3BDbFd0UU5XYmtzTDMzWHNlRjFCdXZ0YnhtRXBrc3RlYmFDMHVMckQybllFSjc0NHRJcFNxa3VrWnRQZWdvQkNlSDVfV3Fha2dYRFJ2UzMxTmRxT2FlanZWbExHaDBwVlFJSXFiZGs0QzlEOUxUSkRTNndMdF9GRGZRODFSTDh2bTFOX2podkVDaGFyanE0X0ppcndvay1hQnVJaE9PQzdzellkQlYxR0YwUTBzdXAzUkkwajZ4bUVHZXhfcktpbXdlcVE?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PRk5LMTU3XzZXVURQVTB0LTJPUVZSQU15NmVSbEJya3BwNjlScHlIZUhidWNVdGszVDhZQkRjeFktRnloaXR3N3VmRVN6SDBXaExYOWd3?oc=5"
         }
       ],
       "matched_keywords": []
