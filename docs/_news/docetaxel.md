@@ -30,7 +30,7 @@ permalink: /news/docetaxel/
 <li>female breast carcinoma（99.9%）</li>
 <li>Ewing sarcoma（99.9%）</li>
 <li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
-<li class="indication-matched">small cell lung carcinoma（99.8%）<span class="indication-tag">📰 肺癌</span></li>
+<li>small cell lung carcinoma（99.8%）</li>
 <li>primary pulmonary lymphoma（99.8%）</li>
 <li>botryoid-type embryonal rhabdomyosarcoma of the vagina（99.8%）</li>
 <li>pulmonary blastoma（99.8%）</li>
@@ -44,19 +44,19 @@ permalink: /news/docetaxel/
 
 ## 相關新聞（2 則）
 
+### [聞癌色變！匯集42國權威研究顯示：6種癌年增率 年輕人已超越中高齡者 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jN2tUbzZCWWM4d0F0ZGxmVUdFV0hRR3U4VWduYThMUTJpZElXeENiTjYwdWxrTVRXdWxJQk5OQXZYXzI4OVlmZ1k2WXdZc0JBdWc?oc=5)
+
+2026-06-30 <span class="news-indication-tag">癌症</span>
+
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jN2tUbzZCWWM4d0F0ZGxmVUdFV0hRR3U4VWduYThMUTJpZElXeENiTjYwdWxrTVRXdWxJQk5OQXZYXzI4OVlmZ1k2WXdZc0JBdWc?oc=5)
+
+---
+
 ### [癌細胞最愛用的隱身術失效 研究揭免疫系統反殺關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0ZjZyMFN6VEVMYTZiNzJyM2hrVFhQSlp1UnBRby1rNlM0Ym5KLUZTOHVfakNiMWVON1h5NlBmMnZoWDVQYVBxTzViVkR0UHo3eXlBb05zMEZLeVRfVVp2alg0QkjSAWpBVV95cUxQNjNuaEpLR1lRc0dKSmpGV2VnUDM3UHdhZV94aUMwUFNYZXdXaWR4a2VTalhkQmNvMTZ1R1FUNU5JZVRta0Q5Z2xyU0UyQ0didEFqclNzSnRiVHpJaVJ2TkN2UnZQMEV6WUZB?oc=5)
 
 2026-06-30 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0ZjZyMFN6VEVMYTZiNzJyM2hrVFhQSlp1UnBRby1rNlM0Ym5KLUZTOHVfakNiMWVON1h5NlBmMnZoWDVQYVBxTzViVkR0UHo3eXlBb05zMEZLeVRfVVp2alg0QkjSAWpBVV95cUxQNjNuaEpLR1lRc0dKSmpGV2VnUDM3UHdhZV94aUMwUFNYZXdXaWR4a2VTalhkQmNvMTZ1R1FUNU5JZVRta0Q5Z2xyU0UyQ0didEFqclNzSnRiVHpJaVJ2TkN2UnZQMEV6WUZB?oc=5)
-
----
-
-### [肺癌免疫治療新突破 台大研究：BET抑制劑有望喚醒耗竭T細胞](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vQl9oSzZ1MkZyZ01ycDNlRFdBa293dTJ3SEpURWw2aWpGVG1TaHg2ZVNsMllyYmdfRVBSblZiQ2VzUE5tYlBTM0EtcWZYY181RExobWttcHBfQzY4cHdEctIBZkFVX3lxTE8xb2w2TzhTZ1l3N0pEQk1hclBLd2dXd1BZclFMMlhwbHp3cXNaZEg4a0VoZFB3UGY0NU4wN3pNQkthV3JYb2pINjhQUmJSdmJBYUdrbjgzUkJHSW9lZ0ViQ2RPb0NvZw?oc=5)
-
-2026-06-29 <span class="news-indication-tag">肺癌</span>
-
-來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vQl9oSzZ1MkZyZ01ycDNlRFdBa293dTJ3SEpURWw2aWpGVG1TaHg2ZVNsMllyYmdfRVBSblZiQ2VzUE5tYlBTM0EtcWZYY181RExobWttcHBfQzY4cHdEctIBZkFVX3lxTE8xb2w2TzhTZ1l3N0pEQk1hclBLd2dXd1BZclFMMlhwbHp3cXNaZEg4a0VoZFB3UGY0NU4wN3pNQkthV3JYb2pINjhQUmJSdmJBYUdrbjgzUkJHSW9lZ0ViQ2RPb0NvZw?oc=5)
 
 ---
 

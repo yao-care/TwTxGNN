@@ -1,33 +1,56 @@
 {
-  "last_updated": "2026-06-30T23:59:26.386905+00:00",
-  "total_count": 23,
-  "matched_count": 7,
+  "last_updated": "2026-07-01T04:09:35.853598+00:00",
+  "total_count": 24,
+  "matched_count": 8,
   "news": [
+    {
+      "id": "19582f2b3c6d",
+      "title": "既天然又有效 研究發現3類食物 可成代謝病患者救星",
+      "published": "2026-07-01T03:30:00+00:00",
+      "summary": "既天然又有效 研究發現3類食物 可成代謝病患者救星&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPZ2NOX1NhbkZOLWVwWmJ2ZzdOV0FLU01ya045XzNkZUlCY0JzRUtMdXA0QU9oU0RGODFPRVNDSkZ4OFkwZjJIQ2ZJaHdSX1g3a21Ja1NteUt6bUJXWG1SeEVaTDBiOVcxd2NtODhyaFhHNnNKVEd4bFFwQUtmVXdseDdYMC1hVWZoenJDaEpBVFlOMGFILS1BRlZCVmdVUEVwN0ZPU0o3U2pTZDZjT3IxMzNDeVRKamRfMVhRZHVKdDhUQlkwVHhpVnhYMWVuZ3pEbV9PUmRmSi1tcXZXVFMwN3lnSURmd1dlakl4NUVLc0tyb2Z5Q2JJVXk5Z1RZUEh6clg0MFN0RmgxVzQ1b1Vqb2ZLdWt6LUFiSlduRlpfUHZ5VkpvSmVoVkJXN2dHemJaeFZCU3cxYzM1MUZKMUZWd0dNZUN4Vk12NENqWTVzNzYzcVBrcXFCWkxnNUJDNWprOXpaZm9EV1Y3WUhzZXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "6fb28f605cea",
       "title": "早餐別再省！研究曝不吃早餐憂鬱風險高39% 10招吃出快樂腦",
       "published": "2026-06-30T22:45:00+00:00",
-      "summary": "早餐別再省！研究曝不吃早餐憂鬱風險高39% 10招吃出快樂腦&nbsp;&nbsp;ETtoday新聞雲",
+      "summary": "早餐別再省！研究曝不吃早餐憂鬱風險高39% 10招吃出快樂腦&nbsp;&nbsp;ETtoday新聞雲陽明交大：腸道菌影響大腦健康 失智症研究新方向&nbsp;&nbsp;經濟日報解密失智症退化關鍵！陽明交大重磅研究揪出 59 種「護腦」腸道菌&nbsp;&nbsp;TechNews 科技新報憂鬱症與腸道健康有關？醫：短鏈脂肪酸…大腦快樂關鍵&nbsp;&nbsp;世界新聞網腸道健康＝情緒健康？醫師解析「腸腦軸」關鍵，補充「益生菌」讓心情變好&nbsp;&nbsp;Harper's BAZAAR",
       "sources": [
         {
           "name": "ETtoday新聞雲",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zVlFKcjFmZ1lhVTNrNlZYZWIwcTRsY2xqcVpfVGUzM2V3S0lYcGc1d09OTjZySGZZaTdscTFJTGdZSmwzTUFIbEpUWk41QWYwYXc?oc=5"
         }
       ],
-      "matched_keywords": []
-    },
-    {
-      "id": "73d62f7aed77",
-      "title": "悚！睡覺竟遭蝙蝠吻 11歲童「無咬痕」19天後狂犬病發身亡 | 太報 - LINE TODAY",
-      "published": "2026-06-30T13:32:28+00:00",
-      "summary": "悚！睡覺竟遭蝙蝠吻 11歲童「無咬痕」19天後狂犬病發身亡 | 太報&nbsp;&nbsp;LINE TODAY狂犬病｜加國11歲男童遭蝙蝠「貼臉」後發病亡 安省57年來首例&nbsp;&nbsp;singtao.ca11歲童睡一半驚見蝙蝠停臉上 「無咬痕」19天後狂犬病身亡&nbsp;&nbsp;TVBS新聞網悚！睡覺竟遭蝙蝠吻11歲童「無咬痕」19天後狂犬病發身亡| 醫藥健康&nbsp;&nbsp;太報 TaiSounds罕見！男童睡覺時「遭蝙蝠貼臉」 3週後竟染狂犬病慘亡 | 三立新聞網&nbsp;&nbsp;LINE TODAY",
-      "sources": [
+      "matched_keywords": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoVm05OWFrRTVSVURMTlpPR1VvcmpMc0RTRWx1UXFBZjRyNUpKcjRGdTJLTUtYT250R01hUHk2YmdjclNQaFJlOEJUOFFCRURNZlpKZVR3?oc=5"
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
         }
-      ],
-      "matched_keywords": []
+      ]
     },
     {
       "id": "55b9ab694a67",
@@ -43,27 +66,249 @@
       "matched_keywords": []
     },
     {
-      "id": "7003abc1828a",
+      "id": "0c98e16a4227",
       "title": "流感會傳染多久？醫示警「退燒不代表安全」：1類人發病10天都有機會",
-      "published": "2026-06-30T12:19:00+00:00",
-      "summary": "流感會傳染多久？醫示警「退燒不代表安全」：1類人發病10天都有機會&nbsp;&nbsp;Yahoo新聞",
+      "published": "2026-06-30T12:18:46+00:00",
+      "summary": "流感會傳染多久？醫示警「退燒不代表安全」：1類人發病10天都有機會&nbsp;&nbsp;祝你健康",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQY01faGZMQ2tFdFMxdnk1VVR1NWFucEF5aUlpNVZIM0NRQnJmVXJRUW1RdzFYR2c0QjA0UFJnM2pMbEU1YWwtOUhTME42UW51Ni1fVlpOM0R5elptNFEtamNMVUtWY1BfWGROVzhwLUp0LVVXRWpFUnVsZThLeS1YU3M2Ul96RzFYcFd3T1BXeHRjOWVmN2FKUFpDVGctRHJCVElzc1Z5eG1KcGtxZUxiOHpjWlNyTkg5VG1tb3I0c2w3ekZZVDdieWdMeS0xOXZiY0pyUW54ZTYwX2RFd1c5SF9KOGY0U2lGLS1BTllGUkdJMVBEUGxmWDRGNElUckM4NENfbUtwNTUyQnoxd3ZSUUhXckxIOGx4UkZVMGdmMktEQnI4dGpHQkM3TDN6TDdPUDRaQVhQcUlnN1ZhcFBTWEhoSkdJZVRLME5VaFVMc01vMHlGZXFDZkJSQTU5elRYWENBTF9DS2RYSXVYdnRHcnYyMUMtX0FtbTU0MmpNb2dBeWIwbUdlQnQ5ZXRhY082MUF3?oc=5"
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxMGpkR2o4N01XT1RYNldGNW43U0Jpc0I4ZjRidUQ0cDJaVU5kSTZXelRwQldOUFI5SnlFRG1BWFN4b1RWUmp4X2QxT3A?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "01e08756eb67",
+      "id": "3b1c5ef89969",
       "title": "6歲及12歲男童染甲流現嚴重併發症 衞防中心： 本港短期內進入流感季",
       "published": "2026-06-30T11:56:57+00:00",
-      "summary": "6歲及12歲男童染甲流現嚴重併發症 衞防中心： 本港短期內進入流感季&nbsp;&nbsp;bastillepost.com本港新增兩宗兒童感染甲型流感嚴重個案 料短期內將進入流感季節&nbsp;&nbsp;橙新聞6歲男童染甲流命危留PICU 另12歲男童中招留醫情況嚴重&nbsp;&nbsp;on.cc東網兩童染甲流一嚴重一危殆 衞生防護中心料短期內進入流感季節&nbsp;&nbsp;信報網站流感｜6歲男童染甲流和流感嗜血桿菌危殆 併發肺炎和敗血性休克&nbsp;&nbsp;香港01",
+      "summary": "6歲及12歲男童染甲流現嚴重併發症 衞防中心： 本港短期內進入流感季&nbsp;&nbsp;巴士的報本港新增兩宗兒童感染甲型流感嚴重個案 料短期內將進入流感季節&nbsp;&nbsp;橙新聞6歲男童染甲流命危留PICU 另12歲男童中招留醫情況嚴重&nbsp;&nbsp;on.cc東網兩童染甲流一嚴重一危殆 衞生防護中心料短期內進入流感季節&nbsp;&nbsp;信報網站流感｜6歲男童染甲流和流感嗜血桿菌危殆 併發肺炎和敗血性休克&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNbmpvVXE2MTNCdUlYTFVuOEsxU1lJWkhJZUVOTHNSMWRZeFl3dVItMldUY0ttdU5UQ3J3cnE0RG1Fd1gyZ2ZhQTJtWHV5RG82dzFUdWlCZGJaV2lNR3VEZ0RjNTlCWDRobGxVZlB0Rk1xT3AxTTJWWmJseW15VWxORGhnem5lZGNvWU05WXVLLVE0VXVrcmdzRU1KeVdQckhuZ21LcmYyOW01VG10QWhoQWtiZzIzR3RtTkU2QUlFbjVKR3hmM21peklQeENwOGdpVW1zRDAtWWQ3QnhXTVNXUEUtWHp3QVMyQVlpMGhheUxUdUdDOWZfMWpESzlmU09HNFpjbFU5Y1JGa2d0RkRwa3l1RGNnVEN5VElBLTBsOFlrRi1aQUEtN25JTTREbllOV3FNS1Q2UjFxeE5lSnk5UzhHX0xFYWVtNVhUdV9QSG45V3o0bTZJQzBJb3JJRnRyMXh0R1NB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e5ac6a29f60c",
+      "title": "聞癌色變！匯集42國權威研究顯示：6種癌年增率 年輕人已超越中高齡者 - TVBS 健康2.0",
+      "published": "2026-06-30T11:37:00+00:00",
+      "summary": "聞癌色變！匯集42國權威研究顯示：6種癌年增率 年輕人已超越中高齡者&nbsp;&nbsp;TVBS 健康2.0罹癌要跟年邁父母說嗎？癌症年輕化中年患者陷兩難 醫：先思考2個問題&nbsp;&nbsp;Yahoo新聞研究：年輕世代「生物性老化」加速 或與癌症年輕化現象有關&nbsp;&nbsp;UDN癌症治好還不夠？年輕癌友慢性病風險增2.3倍！&nbsp;&nbsp;中時新聞網50歲前不想罹癌！快改掉「這6個習慣」 專家：看似無害卻重傷&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jN2tUbzZCWWM4d0F0ZGxmVUdFV0hRR3U4VWduYThMUTJpZElXeENiTjYwdWxrTVRXdWxJQk5OQXZYXzI4OVlmZ1k2WXdZc0JBdWc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "463f5a5a85dd",
+      "title": "睡醒蝙蝠蓋住口鼻！11歲男童沒傷口卻染狂犬病 19天後不治",
+      "published": "2026-06-30T08:20:03+00:00",
+      "summary": "睡醒蝙蝠蓋住口鼻！11歲男童沒傷口卻染狂犬病 19天後不治&nbsp;&nbsp;Yahoo新聞狂犬病｜加國11歲男童遭蝙蝠「貼臉」後發病亡 安省57年來首例&nbsp;&nbsp;星島頭條57年首例！11歲男童「遭蝙蝠停臉上」 19天後狂犬病發身亡&nbsp;&nbsp;ETtoday新聞雲悚！睡覺竟遭蝙蝠吻11歲童「無咬痕」19天後狂犬病發身亡| 醫藥健康&nbsp;&nbsp;太報 TaiSounds安省醫生報告男童染狂犬病亡個案 籲接觸蝙蝠後即求醫&nbsp;&nbsp;singtao.ca",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOdjFzNkJXeXhWdldzbnJYUFlmc0E5bzcxYmszSGdaZnh4X0N0M1pIcWd5NEZVT0xsbUcza1ZkcE8ySzA3Y05sQlJpSkFNTDExVi15V3BLTmlISzhDeFZ2QzN5S1RzVzc5RVRoeG1XMy03b00yaXBSOV8zZFNCRW9EeUFDRThEaWE0YzVaWFh5SjR3eFpjQXgtVWsxNmFraFkxWnZ4bXExV29sc1BoQnNZX0xvUVBlTkN6LWIxeFZWdDVWWGF1MU5Yd2JXUndHU1dBNldrTGVJY3RhN3o5SXVha0R1R2FuOUFkT0VoYUt0NjJJamR0X0FDSmVBOEdaR1p6c0J6SU8tTi1pa2VKZXo1NmpFSVBzOUpoVTFFdlpRSFBSeW9OVUcxUWFPR1pkRi0wZVVzc0h2R2tsZW9NdGhfYWtiTndaaUl0bkY5cEZ4T212MmxLdGFQbEJqSUZacnVJV19QaDFDcFQweERiNnRR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -446,14 +691,27 @@
       ]
     },
     {
-      "id": "039115d08fa1",
+      "id": "84302b4eb463",
+      "title": "長者練肌力 助減脂、增強體力",
+      "published": "2026-06-30T01:05:05+00:00",
+      "summary": "長者練肌力 助減脂、增強體力&nbsp;&nbsp;人間福報電子報中年後減肥不想掉肌肉 研究揭只有這種運動辦得到&nbsp;&nbsp;自由健康網年紀大更該練肌力 研究顯示阻力訓練有助減脂、提升生活品質&nbsp;&nbsp;元氣網忙人救星！美國醫生：每天只花4分鐘的簡單長壽運動&nbsp;&nbsp;天下雜誌歷時30年的研究揭示 做這種運動可延長壽命&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "人間福報電子報",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBraDN0ZWpMWjQ4X2NNSkxmTWRUU3NPV2h6QWFwS29SdV82REd5Tk05aEJHclZfSEQyWk04bl90ekxnZ0ZjTGRDV3BGTmt5bi1DSl9VUEtSam5EM3NUcWQ1NHZLWHZwNjA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "bc6b73c50c86",
       "title": "失智症的前兆可能藏在浴室裡 研究：聞不到沐浴乳香味要小心",
       "published": "2026-06-30T00:58:54+00:00",
-      "summary": "失智症的前兆可能藏在浴室裡 研究：聞不到沐浴乳香味要小心&nbsp;&nbsp;元氣網科學家可能最終發現了阿茲海默症是如何透過大腦傳播的。&nbsp;&nbsp;arch-web.com.tw",
+      "summary": "失智症的前兆可能藏在浴室裡 研究：聞不到沐浴乳香味要小心&nbsp;&nbsp;元氣網科學家可能最終發現了阿茲海默症是如何透過大腦傳播的。&nbsp;&nbsp;arch-web.com.tw身體的預警：阿茲海默症十年先兆，你留意到了嗎？｜瑜心呼吸&nbsp;&nbsp;TVB新科技偵查阿茲海默症 及早發現把握治療黃金期&nbsp;&nbsp;信報網站",
       "sources": [
         {
           "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84RTVKMVF2T0pybzNWVHljdVBlbnZObG9hbEY4S013ZXdLV092OThtc3pJTGo0Si1ETUhjQ1RDOVVudFpFY3VMbEhteXR1N2Q2WG9BcndNYUhSaHB6WWxKR3ktRdIBY0FVX3lxTE84RTVKMVF2T0pybzNWVHljdVBlbnZObG9hbEY4S013ZXdLV092OThtc3pJTGo0Si1ETUhjQ1RDOVVudFpFY3VMbEhteXR1N2Q2WG9BcndNYUhSaHB6WWxKR3ktRQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ES1ZYclFobUl2d3BJOGpJNmdFVmNMZjF0cnZkSXBmdUZiS25wMC00emxUTlBkT3lCbzlXMjZfanphWHk0dkEtUXVQRmJZeWxIOG1yaUhfRkx2aVFDSWfSAWNBVV95cUxPOEU1SjFRdk9Kcm8zVlR5Y3VQZW52TmxvYWxGOEtNd2V3S1dPdjk4bXN6SUxqNEotRE1IY0NUQzlVbnRaRWN1TGxIbXl0dTdkNlhvQXJ3TWFIUmhwellsSkd5LUU?oc=5"
         }
       ],
       "matched_keywords": [
@@ -519,6 +777,19 @@
       "matched_keywords": []
     },
     {
+      "id": "e118e49efc9a",
+      "title": "65歲婦止咳藥過量異常亢奮誘發躁症- 國際新聞- 旺報",
+      "published": "2026-06-29T20:10:00+00:00",
+      "summary": "65歲婦止咳藥過量異常亢奮誘發躁症- 國際新聞- 旺報&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vOVdoRmluR3U3UHJFWkMzOS1TamlLd2hMSVp0NWNPNHQtcmk3ejZucWp5M21LRTVPNEoxU0ZUV3FhdGM2cjFZS3ZSblBwR1lMYnFSM2ZqUjdxSlc4R29JM0p1aVFNLXUxTWxj?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "2126cba8064d",
       "title": "火燒鳥一週尿檢沒事？泌尿醫：常規驗尿根本驗不出性病",
       "published": "2026-06-29T08:36:23+00:00",
@@ -579,65 +850,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxQVXVRN19uY2V4UnpQcVFmNXVXYVFaOWYyWTNadUhEV2kzSDJ3amd1aUZHOVJXdEY3SHVyRmF1UTBmd3RpeXFNRFBWMmUzNnFGSG51MWFZdnNHd0dSaGdrSDl1d3p1YllPcXlVbHktM01IYTZNOHRLTTZDU0RkSU9wSVpQTDBCcTdGWS1wTFRBZFdZZUlrVl9ST3N6WHZ0ZE9kQWNNV2RaWE1xMkkwMjc3MmVYS01GdFN0MHdWSDBLZ29CSU52OUx2NmdWcHRWZGNLMngzS3p5OE5pTzFfYWtzVWI4TGFCSFVHME5vdmRVUnotdzBTdHY3aVJVOWVBWUN5WU5GUlVIclY1aFpjUmxjR25WMGZpX252RkVyZDBCOE43ZU84ZlgzZ0REV1NDYzBLN1BCa2FGeEl0VVlyRG85bFBLemdBTl84UUtUV25sdzFEcHhqWkJoYk90NWE3ZGNJQ0FiOWRQWTlQekkybkgyS09ERkRxY0xFTmF2dWhiVEQ1a0Y4OE1JNThVM1Q?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "515d04a52f1e",
-      "title": "衞生署提醒市民暑假外遊慎防傳染病",
-      "published": "2026-06-29T03:30:48+00:00",
-      "summary": "衞生署提醒市民暑假外遊慎防傳染病&nbsp;&nbsp;紫荊網衛生署：暑假外遊，慎防麻疹和伊波拉等傳染病&nbsp;&nbsp;香港商报伊波拉疫區返港市民 衞生署籲主動申報&nbsp;&nbsp;星島頭條衞生防護中心提醒市民暑假外遊須預防傳染病&nbsp;&nbsp;香港電台新聞網",
-      "sources": [
-        {
-          "name": "紫荊網",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVjY5NFpuQURpaEhQYXVNRDJPd2lHQjBLc0VRNnVjd2g0Z3RLbzVfVTBKTGZwMDdyR2ptV3VQMU15bUg5QzBUSFJ4cHkweVk1a0Y0R0JrM29jNU5mbVc3UG1iYkcwNHFDU1NxRU5TSGtLNTZpSktROGhqMS1hXzhGY3l5cWxfYUxWa1l4Qm1Fc3I?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1dc479abbf63",
-      "title": "肺癌免疫治療新突破 台大研究：BET抑制劑有望喚醒耗竭T細胞",
-      "published": "2026-06-29T02:00:00+00:00",
-      "summary": "肺癌免疫治療新突破 台大研究：BET抑制劑有望喚醒耗竭T細胞&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vQl9oSzZ1MkZyZ01ycDNlRFdBa293dTJ3SEpURWw2aWpGVG1TaHg2ZVNsMllyYmdfRVBSblZiQ2VzUE5tYlBTM0EtcWZYY181RExobWttcHBfQzY4cHdEctIBZkFVX3lxTE8xb2w2TzhTZ1l3N0pEQk1hclBLd2dXd1BZclFMMlhwbHp3cXNaZEg4a0VoZFB3UGY0NU4wN3pNQkthV3JYb2pINjhQUmJSdmJBYUdrbjgzUkJHSW9lZ0ViQ2RPb0NvZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8e3018a371c9",
-      "title": "想健康到老最優先吃的不是蔬果！營養師一致推：所有長壽飲食都有它",
-      "published": "2026-06-29T00:09:55+00:00",
-      "summary": "想健康到老最優先吃的不是蔬果！營養師一致推：所有長壽飲食都有它&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Ma2RLNWNiLTVJN1pQLXI4YUdQeEstUzRrUGczeGpNSkpOTnNKOHVNREF0SXlMUUVGbUxCaUkyTW02UHEwT3ZNYzF2ZzNOTUQ3TUp4NDJ6WmRkelpqUXYxSlhB0gFiQVVfeXFMTUxrZEs1Y2ItNUk3WlAtcjhhR1B4Sy1TNGtQZzN4ak1KSk5Oc0o4dU1EQXRJeUxRRUZtTEJpSTJNbTZQcTBPdk1jMXZnM05NRDdNSng0MnpaZGR6WmpRdjFKWEE?oc=5"
         }
       ],
       "matched_keywords": []
