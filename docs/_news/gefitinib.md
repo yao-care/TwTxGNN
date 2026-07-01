@@ -53,7 +53,7 @@ permalink: /news/gefitinib/
 
 ### [失智症的前兆可能藏在浴室裡 研究：聞不到沐浴乳香味要小心](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ES1ZYclFobUl2d3BJOGpJNmdFVmNMZjF0cnZkSXBmdUZiS25wMC00emxUTlBkT3lCbzlXMjZfanphWHk0dkEtUXVQRmJZeWxIOG1yaUhfRkx2aVFDSWfSAWNBVV95cUxPOEU1SjFRdk9Kcm8zVlR5Y3VQZW52TmxvYWxGOEtNd2V3S1dPdjk4bXN6SUxqNEotRE1IY0NUQzlVbnRaRWN1TGxIbXl0dTdkNlhvQXJ3TWFIUmhwellsSkd5LUU?oc=5)
 
-2026-06-30 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+2026-06-30 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ES1ZYclFobUl2d3BJOGpJNmdFVmNMZjF0cnZkSXBmdUZiS25wMC00emxUTlBkT3lCbzlXMjZfanphWHk0dkEtUXVQRmJZeWxIOG1yaUhfRkx2aVFDSWfSAWNBVV95cUxPOEU1SjFRdk9Kcm8zVlR5Y3VQZW52TmxvYWxGOEtNd2V3S1dPdjk4bXN6SUxqNEotRE1IY0NUQzlVbnRaRWN1TGxIbXl0dTdkNlhvQXJ3TWFIUmhwellsSkd5LUU?oc=5)
 
