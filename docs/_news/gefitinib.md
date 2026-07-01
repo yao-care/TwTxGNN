@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [早餐別再省！研究曝不吃早餐憂鬱風險高39% 10招吃出快樂腦](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zVlFKcjFmZ1lhVTNrNlZYZWIwcTRsY2xqcVpfVGUzM2V3S0lYcGc1d09OTjZySGZZaTdscTFJTGdZSmwzTUFIbEpUWk41QWYwYXc?oc=5)
-
-2026-06-30 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[ETtoday新聞雲](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zVlFKcjFmZ1lhVTNrNlZYZWIwcTRsY2xqcVpfVGUzM2V3S0lYcGc1d09OTjZySGZZaTdscTFJTGdZSmwzTUFIbEpUWk41QWYwYXc?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [聞癌色變！匯集42國權威研究顯示：6種癌年增率 年輕人已超越中高齡者 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jN2tUbzZCWWM4d0F0ZGxmVUdFV0hRR3U4VWduYThMUTJpZElXeENiTjYwdWxrTVRXdWxJQk5OQXZYXzI4OVlmZ1k2WXdZc0JBdWc?oc=5)
 
@@ -59,17 +51,9 @@ permalink: /news/gefitinib/
 
 ---
 
-### [癌細胞最愛用的隱身術失效 研究揭免疫系統反殺關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0ZjZyMFN6VEVMYTZiNzJyM2hrVFhQSlp1UnBRby1rNlM0Ym5KLUZTOHVfakNiMWVON1h5NlBmMnZoWDVQYVBxTzViVkR0UHo3eXlBb05zMEZLeVRfVVp2alg0QkjSAWpBVV95cUxQNjNuaEpLR1lRc0dKSmpGV2VnUDM3UHdhZV94aUMwUFNYZXdXaWR4a2VTalhkQmNvMTZ1R1FUNU5JZVRta0Q5Z2xyU0UyQ0didEFqclNzSnRiVHpJaVJ2TkN2UnZQMEV6WUZB?oc=5)
-
-2026-06-30 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0ZjZyMFN6VEVMYTZiNzJyM2hrVFhQSlp1UnBRby1rNlM0Ym5KLUZTOHVfakNiMWVON1h5NlBmMnZoWDVQYVBxTzViVkR0UHo3eXlBb05zMEZLeVRfVVp2alg0QkjSAWpBVV95cUxQNjNuaEpLR1lRc0dKSmpGV2VnUDM3UHdhZV94aUMwUFNYZXdXaWR4a2VTalhkQmNvMTZ1R1FUNU5JZVRta0Q5Z2xyU0UyQ0didEFqclNzSnRiVHpJaVJ2TkN2UnZQMEV6WUZB?oc=5)
-
----
-
 ### [失智症的前兆可能藏在浴室裡 研究：聞不到沐浴乳香味要小心](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ES1ZYclFobUl2d3BJOGpJNmdFVmNMZjF0cnZkSXBmdUZiS25wMC00emxUTlBkT3lCbzlXMjZfanphWHk0dkEtUXVQRmJZeWxIOG1yaUhfRkx2aVFDSWfSAWNBVV95cUxPOEU1SjFRdk9Kcm8zVlR5Y3VQZW52TmxvYWxGOEtNd2V3S1dPdjk4bXN6SUxqNEotRE1IY0NUQzlVbnRaRWN1TGxIbXl0dTdkNlhvQXJ3TWFIUmhwellsSkd5LUU?oc=5)
 
-2026-06-30 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+2026-06-30 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ES1ZYclFobUl2d3BJOGpJNmdFVmNMZjF0cnZkSXBmdUZiS25wMC00emxUTlBkT3lCbzlXMjZfanphWHk0dkEtUXVQRmJZeWxIOG1yaUhfRkx2aVFDSWfSAWNBVV95cUxPOEU1SjFRdk9Kcm8zVlR5Y3VQZW52TmxvYWxGOEtNd2V3S1dPdjk4bXN6SUxqNEotRE1IY0NUQzlVbnRaRWN1TGxIbXl0dTdkNlhvQXJ3TWFIUmhwellsSkd5LUU?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/zanubrutinib/
 ---
 
 <p class="key-answer" data-question="Zanubrutinib 有什麼相關新聞？">
-<strong>Zanubrutinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Zanubrutinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/zanubrutinib/
 <p><a href="{{ '/drugs/zanubrutinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [聞癌色變！匯集42國權威研究顯示：6種癌年增率 年輕人已超越中高齡者 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jN2tUbzZCWWM4d0F0ZGxmVUdFV0hRR3U4VWduYThMUTJpZElXeENiTjYwdWxrTVRXdWxJQk5OQXZYXzI4OVlmZ1k2WXdZc0JBdWc?oc=5)
 
@@ -53,14 +53,6 @@ permalink: /news/zanubrutinib/
 2026-06-30 <span class="news-indication-tag">白血病</span>
 
 來源：[香港01](https://news.google.com/rss/articles/CBMisANBVV95cUxNalE3cXpGVGR2N0VlUjNrUXVJMHQxUGl5SFNERFhRLXNOY01uZEdHcTN3U0ZPMEZlLUF2a0djZHpUclNWT2lNXzRVT05zN184TW9JaHZJQ0x4TnczZmlBMV9FV0p3bmQwa1VLcEl4RGhUVC1wSklnc3I5cEJIdUNqRkVZN0V1YkxKeU9rUFF5TjdLRG04VWJBMEVYWEtYRXkwdkxqd1VwMy1IcWRVdGhROUJxSzJyTHZDZlF3cW9URzJQSXZkZEd3ZEY1MU52eFUxcjBISEJCQl9UQmtTamlDVW8tM0hBZ2pJQktJTVdOU2Z4TnA1SllwU1pnT3Q2ejZCX3p2YUpQZmJFajNpaFJKMUplWEdEb0ZKYXR0WkdOcjNTb1VIU2lNMDhyek5VbzN6RGNRWXNacjFFY1VsOXNkcmpYRDdOTWJVdW1IUEt5clpsWGkyWW9mV3MtZWVrWThXX0ZHenJaM2t4UmpNa0JaUUZfV2tVX2tWSkRYUmw3d1M5YWVpY1BDTUpWREVGa1ZQYU1XWXMxblFsTThSTmswU1RSbWt3WHI1SzBCLUZJMVE?oc=5)
-
----
-
-### [癌細胞最愛用的隱身術失效 研究揭免疫系統反殺關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0ZjZyMFN6VEVMYTZiNzJyM2hrVFhQSlp1UnBRby1rNlM0Ym5KLUZTOHVfakNiMWVON1h5NlBmMnZoWDVQYVBxTzViVkR0UHo3eXlBb05zMEZLeVRfVVp2alg0QkjSAWpBVV95cUxQNjNuaEpLR1lRc0dKSmpGV2VnUDM3UHdhZV94aUMwUFNYZXdXaWR4a2VTalhkQmNvMTZ1R1FUNU5JZVRta0Q5Z2xyU0UyQ0didEFqclNzSnRiVHpJaVJ2TkN2UnZQMEV6WUZB?oc=5)
-
-2026-06-30 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0ZjZyMFN6VEVMYTZiNzJyM2hrVFhQSlp1UnBRby1rNlM0Ym5KLUZTOHVfakNiMWVON1h5NlBmMnZoWDVQYVBxTzViVkR0UHo3eXlBb05zMEZLeVRfVVp2alg0QkjSAWpBVV95cUxQNjNuaEpLR1lRc0dKSmpGV2VnUDM3UHdhZV94aUMwUFNYZXdXaWR4a2VTalhkQmNvMTZ1R1FUNU5JZVRta0Q5Z2xyU0UyQ0didEFqclNzSnRiVHpJaVJ2TkN2UnZQMEV6WUZB?oc=5)
 
 ---
 

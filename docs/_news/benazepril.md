@@ -14,7 +14,7 @@ permalink: /news/benazepril/
 ---
 
 <p class="key-answer" data-question="Benazepril 有什麼相關新聞？">
-<strong>Benazepril</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 5 個。
+<strong>Benazepril</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 5 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ permalink: /news/benazepril/
 <p><a href="{{ '/drugs/benazepril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [聞癌色變！匯集42國權威研究顯示：6種癌年增率 年輕人已超越中高齡者 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jN2tUbzZCWWM4d0F0ZGxmVUdFV0hRR3U4VWduYThMUTJpZElXeENiTjYwdWxrTVRXdWxJQk5OQXZYXzI4OVlmZ1k2WXdZc0JBdWc?oc=5)
 
 2026-06-30 <span class="news-indication-tag">癌症</span>
 
 來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jN2tUbzZCWWM4d0F0ZGxmVUdFV0hRR3U4VWduYThMUTJpZElXeENiTjYwdWxrTVRXdWxJQk5OQXZYXzI4OVlmZ1k2WXdZc0JBdWc?oc=5)
-
----
-
-### [癌細胞最愛用的隱身術失效 研究揭免疫系統反殺關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0ZjZyMFN6VEVMYTZiNzJyM2hrVFhQSlp1UnBRby1rNlM0Ym5KLUZTOHVfakNiMWVON1h5NlBmMnZoWDVQYVBxTzViVkR0UHo3eXlBb05zMEZLeVRfVVp2alg0QkjSAWpBVV95cUxQNjNuaEpLR1lRc0dKSmpGV2VnUDM3UHdhZV94aUMwUFNYZXdXaWR4a2VTalhkQmNvMTZ1R1FUNU5JZVRta0Q5Z2xyU0UyQ0didEFqclNzSnRiVHpJaVJ2TkN2UnZQMEV6WUZB?oc=5)
-
-2026-06-30 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0ZjZyMFN6VEVMYTZiNzJyM2hrVFhQSlp1UnBRby1rNlM0Ym5KLUZTOHVfakNiMWVON1h5NlBmMnZoWDVQYVBxTzViVkR0UHo3eXlBb05zMEZLeVRfVVp2alg0QkjSAWpBVV95cUxQNjNuaEpLR1lRc0dKSmpGV2VnUDM3UHdhZV94aUMwUFNYZXdXaWR4a2VTalhkQmNvMTZ1R1FUNU5JZVRta0Q5Z2xyU0UyQ0didEFqclNzSnRiVHpJaVJ2TkN2UnZQMEV6WUZB?oc=5)
 
 ---
 
