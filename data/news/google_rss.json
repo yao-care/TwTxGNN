@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-01T19:40:00.212182+00:00",
-  "count": 20,
+  "fetched_at": "2026-07-01T21:18:49.367324+00:00",
+  "count": 19,
   "news": [
     {
       "id": "026cd6e0b3c8",
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "625078286725",
-      "title": "「醫生妳小心，我有HIV！」急診懷孕醫師感動讚：暖男…真相讓網友大改觀 - Yahoo新聞",
-      "published": "2026-07-01T06:54:05+00:00",
-      "summary": "「醫生妳小心，我有HIV！」急診懷孕醫師感動讚：暖男…真相讓網友大改觀&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNYkJJc25aREV5Mk5OQkZ0SEJOd2dQTThjZlAtVXUzUDZpQ21hcGxmbUhCYW5TblRPaHJHSVlScC1DeW5QVVp5V1pidl9TNmVndkNvNTlJUWtlbWdmYU9vdjE3MWVSZnFvR1pWNjhiUGpvaU5FdTJTcHpvelhPY0RTSnpUYm92bDFMcjI4bjZYV2J4a09zTk1LNWhtc20zekFHdEM0Y1BWelVQR3NGWDg5TkVlemlLY1Z0M01qMXQxNEVQVjNZTGl5bDYxVl9NWGdzZDJKWnYyVEpnWkdQMS1xUDRJWWtrVnM4VDd6SWc1aG0xbVY5TkZNWmN3Ump3Y0RwSEdWQ3RXRGtrVUQ4MTd6cmdJb1pPaEJQRlhoblFNS09LcUh4WGVLdnFvOWhnOGpITEV3U0pGSnlDT3o0dHBoUC03eHg2NzlXcXVlSi1Yc3prS0g1MXFGRnRNWTQ4NWVrZVFCNDFXSVh6d1lnWXZ6WFc5NklQMC1nejFCZ3I0QlRaMTBxM3drZ2pMUTI3ZDREdlE1SA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f46c2ad2f736",
       "title": "天天吃膠原蛋白卻沒感覺？營養師揭「4大流失地雷」沒改掉吃再多都白費 - Women's Health",
       "published": "2026-07-01T11:53:35+00:00",
@@ -60,6 +48,18 @@
         {
           "name": "Women's Health",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcjN6N0E2c29zWWtEQUp5TTJMdndncEF0cDk0X0N4ZjRRNkdMNkVTZ05DN2VUZ3pqRnBveFpBUHpwcmp4TWcwMWNrTHBMbWxEZjFpYVRXRG9yeFdNTTJXRmVOQURyYTUyUm1xaWJqcWNBcUJPSnNlTE5vdDZCMHQ1NUJ5dEdBNWZhWDNj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "625078286725",
+      "title": "「醫生妳小心，我有HIV！」急診懷孕醫師感動讚：暖男…真相讓網友大改觀 - Yahoo新聞",
+      "published": "2026-07-01T06:54:05+00:00",
+      "summary": "「醫生妳小心，我有HIV！」急診懷孕醫師感動讚：暖男…真相讓網友大改觀&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNYkJJc25aREV5Mk5OQkZ0SEJOd2dQTThjZlAtVXUzUDZpQ21hcGxmbUhCYW5TblRPaHJHSVlScC1DeW5QVVp5V1pidl9TNmVndkNvNTlJUWtlbWdmYU9vdjE3MWVSZnFvR1pWNjhiUGpvaU5FdTJTcHpvelhPY0RTSnpUYm92bDFMcjI4bjZYV2J4a09zTk1LNWhtc20zekFHdEM0Y1BWelVQR3NGWDg5TkVlemlLY1Z0M01qMXQxNEVQVjNZTGl5bDYxVl9NWGdzZDJKWnYyVEpnWkdQMS1xUDRJWWtrVnM4VDd6SWc1aG0xbVY5TkZNWmN3Ump3Y0RwSEdWQ3RXRGtrVUQ4MTd6cmdJb1pPaEJQRlhoblFNS09LcUh4WGVLdnFvOWhnOGpITEV3U0pGSnlDT3o0dHBoUC03eHg2NzlXcXVlSi1Yc3prS0g1MXFGRnRNWTQ4NWVrZVFCNDFXSVh6d1lnWXZ6WFc5NklQMC1nejFCZ3I0QlRaMTBxM3drZ2pMUTI3ZDREdlE1SA?oc=5"
         }
       ]
     },
@@ -79,7 +79,7 @@
       "id": "3d584d11e5ab",
       "title": "台南推動國二男女公費HPV疫苗接種 7月起開打 - 自由健康網",
       "published": "2026-06-30T03:54:00+00:00",
-      "summary": "台南推動國二男女公費HPV疫苗接種 7月起開打&nbsp;&nbsp;自由健康網婚前健檢還不夠！醫：別忽略HPV疫苗，守護自己也守護最愛的人！&nbsp;&nbsp;良醫健康網HPV 疫苗成效達成新里程碑，英國 20~24 歲女性子宮頸癌連五年 0 死亡&nbsp;&nbsp;TechNews 科技新報「超過30歲還能打HPV疫苗嗎？」醫一次解答！&nbsp;&nbsp;中天新聞網HPV疫苗20年重大進展！台灣擴大公費接種男女通用，專家：防癌進入「全民防護新時代」&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "台南推動國二男女公費HPV疫苗接種 7月起開打&nbsp;&nbsp;自由健康網HPV 疫苗成效達成新里程碑，英國 20~24 歲女性子宮頸癌連五年 0 死亡&nbsp;&nbsp;TechNews 科技新報「超過30歲還能打HPV疫苗嗎？」醫一次解答！&nbsp;&nbsp;中天新聞網HPV疫苗20年重大進展！台灣擴大公費接種男女通用，專家：防癌進入「全民防護新時代」&nbsp;&nbsp;PChome Online 新聞有性經驗、超過30歲還能打HPV疫苗？醫：仍有保護力&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "自由健康網",
@@ -124,18 +124,6 @@
       ]
     },
     {
-      "id": "e118e49efc9a",
-      "title": "65歲婦止咳藥過量異常亢奮誘發躁症- 國際新聞- 旺報 - 中時新聞網",
-      "published": "2026-06-29T20:10:00+00:00",
-      "summary": "65歲婦止咳藥過量異常亢奮誘發躁症- 國際新聞- 旺報&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vOVdoRmluR3U3UHJFWkMzOS1TamlLd2hMSVp0NWNPNHQtcmk3ejZucWp5M21LRTVPNEoxU0ZUV3FhdGM2cjFZS3ZSblBwR1lMYnFSM2ZqUjdxSlc4R29JM0p1aVFNLXUxTWxj?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7c1e6a2ebaad",
       "title": "美國KFF民調：頻繁使用AI聊天機器人諮詢健康建議者，更易相信疫苗謬誤 - Singtaousa",
       "published": "2026-07-01T06:00:00+00:00",
@@ -148,10 +136,22 @@
       ]
     },
     {
+      "id": "35ec5f8da910",
+      "title": "食戒煙香口膠唔可以飲果汁？拆解3大戒煙藥物禁忌 - am730",
+      "published": "2026-07-01T20:00:00+00:00",
+      "summary": "食戒煙香口膠唔可以飲果汁？拆解3大戒煙藥物禁忌&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPQ1BUdWtlWHZKUEtsNTU1TGl5dGlYeFRtSG5CaGxmZTdoYmVWU09RMld0OGV4NzJ6S2lJdldQNUoxalE2akJDLVVYYk5sZ3o2NGlaWmJkN3NQX1g3cUlmRk9IX2dMbWMtTjZlR1FXblNqX3NHTVk3ck8tdnlsWkNLYmFiRXRoUXBJajZYMlhXM0w3SkxxUGNvb0F4ZW9VNWVJUGRzdmdvWVRuVHpPRjJucWQtNDVmNXowR1RKWUw3dEQ3WnMzX1dodXpSVjFfaFVrZVgxaDRnVW1PcmhKUFFlMmM5OVVnQldkN3VpQlFZTTFTcFZpczNKNmdKTHRoRjVFczN3bHBsSXlyMlFaT3drOHFodGRrRExXY1pGLWhTeWJWWTJ3SGx5aEc3dzJOdy14Qk02RmFrNjc5RU1pX1NCNFAxMmZfNTlFc3IxVlRNdGh5UGczNzh5TW5nd0JxVENT?oc=5"
+        }
+      ]
+    },
+    {
       "id": "01e08756eb67",
       "title": "6歲及12歲男童染甲流現嚴重併發症 衞防中心： 本港短期內進入流感季 - bastillepost.com",
       "published": "2026-06-30T11:56:57+00:00",
-      "summary": "6歲及12歲男童染甲流現嚴重併發症 衞防中心： 本港短期內進入流感季&nbsp;&nbsp;bastillepost.com流感｜6歲男童染甲流和流感嗜血桿菌危殆 併發肺炎和敗血性休克&nbsp;&nbsp;香港01本港新增2宗兒童甲流嚴重個案 均出現敗血性休克&nbsp;&nbsp;香港商报6歲男童染甲流命危留PICU 另12歲男童中招留醫情況嚴重&nbsp;&nbsp;on.cc東網兩名男童染甲流 衞生防護中心：本港短期內進入流感季節&nbsp;&nbsp;香港電台新聞網",
+      "summary": "6歲及12歲男童染甲流現嚴重併發症 衞防中心： 本港短期內進入流感季&nbsp;&nbsp;bastillepost.com流感｜6歲男童染甲流和流感嗜血桿菌危殆 併發肺炎和敗血性休克&nbsp;&nbsp;香港01本港新增2宗兒童甲流嚴重個案 均出現敗血性休克&nbsp;&nbsp;香港商报兩童染甲流一嚴重一危殆 衞生防護中心料短期內進入流感季節&nbsp;&nbsp;信報網站兩名男童染甲流 衞生防護中心：本港短期內進入流感季節&nbsp;&nbsp;香港電台新聞網",
       "sources": [
         {
           "name": "bastillepost.com",
@@ -192,18 +192,6 @@
         {
           "name": "Ludens Media",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5valJzYUs4cGNEV2Y1TDZ6ekpwSEotRzlWWWJOaU9HenNEaWJDN1RwLWtIY1RCNWhrVGZQRjFxSVFZUG15XzYzSy12RDJJRXV3TVJMOWZ5TURFUk9xbU9NZ1NjRWlJV3Bfb1gyWlRB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8522e078a3c1",
-      "title": "阿根廷：出發地採集漢坦病毒變種與郵輪疫情無關 - 香港電台新聞網",
-      "published": "2026-06-30T07:03:00+00:00",
-      "summary": "阿根廷：出發地採集漢坦病毒變種與郵輪疫情無關&nbsp;&nbsp;香港電台新聞網",
-      "sources": [
-        {
-          "name": "香港電台新聞網",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UNDVXcC05X1JXUTQwZktPSlYtSUxDZjJBV3NxUUFnckFZVzgtbENqRzh1UjJhbzhaOWx2U0dDTmRKSkxyalhCaGR3ZFJ6eTFJWk82LWJobUJBOWxmU3VLY0NGVThuOTltTjBsMjhnRQ?oc=5"
         }
       ]
     },
