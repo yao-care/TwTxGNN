@@ -14,7 +14,7 @@ permalink: /news/treprostinil/
 ---
 
 <p class="key-answer" data-question="Treprostinil 有什麼相關新聞？">
-<strong>Treprostinil</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Treprostinil</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/treprostinil/
 <p><a href="{{ '/drugs/treprostinil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [國民美食竟是健康炸彈營養師：心臟病、癌症、失智都和它有關- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE40VHRKSHB3d2FEQ1IzX3dkZHZjTWR0NW5LekVnRjd3Q0RJLVQxdTQ0bFkwUjFXVnAwTUE2NWZyVW8tTUpRdEIxMk1USllnNEdZMmd3Q0FxMm56bi1abFhCYmM4WTQya0ZTYjlUT2hn?oc=5)
+
+2026-07-02 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">失智</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE40VHRKSHB3d2FEQ1IzX3dkZHZjTWR0NW5LekVnRjd3Q0RJLVQxdTQ0bFkwUjFXVnAwTUE2NWZyVW8tTUpRdEIxMk1USllnNEdZMmd3Q0FxMm56bi1abFhCYmM4WTQya0ZTYjlUT2hn?oc=5)
+
+---
 
 
 <div class="disclaimer">

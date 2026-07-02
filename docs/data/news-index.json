@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-02T15:06:29.992758+00:00",
-  "count": 4,
+  "generated": "2026-07-02T17:27:57.853529+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "310faf1b8338",
+      "id": "824d7b5bf6ea",
       "title": "抗癌戰士︱YouTuber曉欣抗卵巢癌剃光頭髮公開14cm手術疤痕走訪大埔小店答謝曾幫宏福苑災民餐廳",
       "published": "2026-07-02T10:19:37+00:00",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
+          "name": "topick.hket.com",
           "link": "https://news.google.com/rss/articles/CBMitgRBVV95cUxPZ2FCdWRjYndoUlNWZzVDdFdmVzk3aTlYTmFUSFRaTE5mUk9pWEluQ1BwNXd4d3NhVEFsS0V5bjgzN1IzeVlzUUJkZnN6NGlhZ1JQQXRyTFpfX2JtOTliQWhodnRObC1lWVA0LThzdGd2b0tkWEJzejJrZEJFM2swRVRmYTF4LUNvWnl0dWdVNmJINU1pU0UtLWQ4WHN2T2tJcEF3RVZBMjN0dHZPd3JYY0YwMDRLUGstSFktcUp2a1dNWVNIMEhfRVVBb0ZFS21mbFdZdG5aanA1SDVWQzhFSG5QUEk4ZXB1cC1aVmdocThWUlp0OWpnY1cybzJYVC1GclBPTDVYV3VGV0pJdXZ2ZTdza0tkS041RGV2ZmNZUnZiamVYMTF2dlg5VmRPS3Y5VnYzZkFZNzlMeEZmcjZNLTFHOWFqRkxJLXZnUWtpWS1VWVRZSlZORTNiQ3FPWEh6eGJ5ZmJUVTlzc2RNdkxwdDEtSjRkOFRmdnZKaWZqN01BeDRQTGtUOFZ0MktXX1FuRVI5TUVQOXNjeHJvb3o5Z1Azcll1UXpNcjQwS1pBMXotMU1xaWJJTVpGVUh2TW5udWFQSnBTT2wyeU96MkQ5TUxpNzFTbmFzam9hQzBQeUtDME92dWlmRlhqckhfMWNSeUM3QXBWLUxaY1RLNmRiazNrbE03WGQ4SW5IRTdwODZvVENzRkdlZFJmNzRCYzNfTWJqSHJnZEhaRV9kU1BoSGNEWTE5UQ?oc=5"
         }
       ],
@@ -25,6 +25,284 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f9e15cb9a982",
+      "title": "國民美食竟是健康炸彈營養師：心臟病、癌症、失智都和它有關- 健康",
+      "published": "2026-07-02T09:03:13+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40VHRKSHB3d2FEQ1IzX3dkZHZjTWR0NW5LekVnRjd3Q0RJLVQxdTQ0bFkwUjFXVnAwTUE2NWZyVW8tTUpRdEIxMk1USllnNEdZMmd3Q0FxMm56bi1abFhCYmM4WTQya0ZTYjlUT2hn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -239,13 +517,13 @@
       ]
     },
     {
-      "id": "63f547996d51",
+      "id": "fe019be70eb3",
       "title": "打皮蛇疫苗還有這好處 逾50萬人研究：失智風險降24％",
       "published": "2026-07-02T03:54:00+00:00",
       "sources": [
         {
           "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oOVh2akxLTjZseXJudHJKWXBKd3NwUkFNcVo5MWdEekJPczF1MjBIQUJyTV9TTVVPcEoxZXR6eEZvV2lvdzBETEJBd0ROOGhHRU82RFRFWGg0X1lwWWJmelRuTUE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oOVh2akxLTjZseXJudHJKWXBKd3NwUkFNcVo5MWdEekJPczF1MjBIQUJyTV9TTVVPcEoxZXR6eEZvV2lvdzBETEJBd0ROOGhHRU82RFRFWGg0X1lwWWJmelRuTUHSAWpBVV95cUxOUnpkeTVuclpyVUhRVF9sZHZmSV9hc2wxNFl2YmZleDFSbXNnNHpUdVc1NWR0MXhCZkZkb1ZKTThHTmtzM3BNZmhIYjdaRUZOWW1zZG16eDVIZEF4X1c0MEdxVHV2OXEtdzhR?oc=5"
         }
       ],
       "keywords": [

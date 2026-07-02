@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [國民美食竟是健康炸彈營養師：心臟病、癌症、失智都和它有關- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE40VHRKSHB3d2FEQ1IzX3dkZHZjTWR0NW5LekVnRjd3Q0RJLVQxdTQ0bFkwUjFXVnAwTUE2NWZyVW8tTUpRdEIxMk1USllnNEdZMmd3Q0FxMm56bi1abFhCYmM4WTQya0ZTYjlUT2hn?oc=5)
+
+2026-07-02 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">失智</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE40VHRKSHB3d2FEQ1IzX3dkZHZjTWR0NW5LekVnRjd3Q0RJLVQxdTQ0bFkwUjFXVnAwTUE2NWZyVW8tTUpRdEIxMk1USllnNEdZMmd3Q0FxMm56bi1abFhCYmM4WTQya0ZTYjlUT2hn?oc=5)
+
+---
 
 ### [中風後手腳灼熱痛是怎麼了？醫師解析常見4大慢性疼痛與治療- 健康新聞- PChome Online 新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcVY3emFTRVhpbW1RamRTTm5NckhkQTBvcmFjZWQyX0JrbzJoWWpWQm1xSkluR09tcWpmWDhfYzlvNWVEeXhpWkpFWC1IRnRSS3M2TTJGZkg4eUc2NW9hRmNaTGVYQ3VDWm9wVDBDOXdia19RSUpKaHRTRTJqYW1IaEtxUXJCbDlHNXVPUUtDSjd2aGM?oc=5)
 

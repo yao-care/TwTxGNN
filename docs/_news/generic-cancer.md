@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,15 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [國民美食竟是健康炸彈營養師：心臟病、癌症、失智都和它有關- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE40VHRKSHB3d2FEQ1IzX3dkZHZjTWR0NW5LekVnRjd3Q0RJLVQxdTQ0bFkwUjFXVnAwTUE2NWZyVW8tTUpRdEIxMk1USllnNEdZMmd3Q0FxMm56bi1abFhCYmM4WTQya0ZTYjlUT2hn?oc=5)
+
+2026-07-02
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE40VHRKSHB3d2FEQ1IzX3dkZHZjTWR0NW5LekVnRjd3Q0RJLVQxdTQ0bFkwUjFXVnAwTUE2NWZyVW8tTUpRdEIxMk1USllnNEdZMmd3Q0FxMm56bi1abFhCYmM4WTQya0ZTYjlUT2hn?oc=5)
+
+---
 
 ### [研究：血液檢測看出器官年齡 預測10年後疾病風險](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFaC1yenUtdW5ETGU0VTBXSUtJMlNsTGxCazRXVUc2YUZjSUVZbURERUNEelliS2p1aFZMdy11b0E0RzJpUlNrU0FjWW5sYTBqZkNZX2ZXNTAtSlhCTGlXeTdQLV_SAWpBVV95cUxQNktWcWNjYTNBM2R4WU5aM29jSTVYNm83RzFhY2x6VWowdnVHN2NmZHQzS2s5OTVsRHIxeHVXcGZpTU9mUTZqdUdOemRVS2VQbG9MOUprQlBoSGhDSndUTVFyZ1dhUnNaTjJ3?oc=5)
 
