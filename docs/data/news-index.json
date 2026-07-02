@@ -1,7 +1,215 @@
 {
-  "generated": "2026-07-02T06:32:00.863350+00:00",
-  "count": 5,
+  "generated": "2026-07-02T09:52:53.210267+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "1b7388dbad21",
+      "title": "研究：血液檢測看出器官年齡 預測10年後疾病風險",
+      "published": "2026-07-02T05:49:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFaC1yenUtdW5ETGU0VTBXSUtJMlNsTGxCazRXVUc2YUZjSUVZbURERUNEelliS2p1aFZMdy11b0E0RzJpUlNrU0FjWW5sYTBqZkNZX2ZXNTAtSlhCTGlXeTdQLV_SAWpBVV95cUxQNktWcWNjYTNBM2R4WU5aM29jSTVYNm83RzFhY2x6VWowdnVHN2NmZHQzS2s5OTVsRHIxeHVXcGZpTU9mUTZqdUdOemRVS2VQbG9MOUprQlBoSGhDSndUTVFyZ1dhUnNaTjJ3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "fe019be70eb3",
       "title": "打皮蛇疫苗還有這好處 逾50萬人研究：失智風險降24％",
@@ -84,62 +292,6 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4da9f5def329",
-      "title": "1類營養素長壽功效被低估！研究：每日多吃10克死亡風險降21% 更有效護心血管/控血糖/防癌",
-      "published": "2026-06-30T07:00:00+00:00",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMihwRBVV95cUxOa01oX244VXc2am1tcU9lSDVEV3Rqb1BKaGM4aVpUUTVoYXVzeUFYUDh0VUYydDY1ZU1hemZDRExnNVNXUWt0d0xwbTM0MUVQenBQMy04OVV3Y2NHLXc1VU55a0R6NlNHZDVTQS12Z2tzbDJib3NjZDY3Ty1ZV2lWamo1LVktc2ZaeERmMHBfNW5GYWlKcDJHY0ZHN1JzQWd3cmE2THFrWk56ODlVX2h0Mlc3UWdLQ2ZfaW5kTDRtVWdzUjhBbmc5c0xjTmw2RzJTRFB0SVlmOHMyWk4wZlNEajhIRW5zeS1CeDFaWHhSVEZCRGpPdUlUY29SMzM4cEdRQmNCbVFEMjhBOHh1RmFzdnYxMnlOU1hKa2h0c0t1SkFMcXp0TXhwdEdqRVcyNG5PYXRxYzIyeUFXc24tRG5fVGxGdDBRcHVDN0xsVTdVTkxZMllobWJMVVR6MzJNb2hkVjJBWG1NY2hZakFMeHFkSXpOeWkzLWpweVREYjcyRU03WTJXeHE4cjd3QWRJSWExOGlfV1VoZzhXYWZjTzRRTzJKNHQ5T3RMMmxPZG9pYjF1RjVhelUzUmluaVg3bUg3ZXRMa3c4Y1QzNDFGWUdWY0ZIQ0NCcDNBTW9vNHNiRmdwYjg5Mm5TQW41b3Qxems4dnZXVGE3VEJRWHZnWFdwd0hQcDBGcEU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9b47614243e8",
-      "title": "反覆肚痛肚瀉非一般腸胃炎？醫生拆解克隆氏症4大徵狀",
-      "published": "2026-06-30T06:02:00+00:00",
-      "sources": [
-        {
-          "name": "TVB",
-          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNMHNCV0FxejdiSGhTWkpjdEpFSjFNbkszUHA4eXpGbk5QVmJjbVBSRHJvYlI5WC10SElLUnl3Ty1JeWcwOVlLZ1RPUVRrRUJpVVFGUjNIRklKUnItdHkyQThwNGlKMXV5VnhodFFYSWpnYktPZFVGaVJ4VmVFNlA0OGswbDdKSUdobTVnNWRwZTQwNW05dEJ2Ymg1Q3BHNUdyXy1DRkVfdkt2M1FMZjhMN3VVV3hnbktYclZYQ0pPd2NjdDZ5SUh3ZkU5MkxINkNZSVRVZV9TbnV1LUxLNXE3OWwweWhiRnlsMk5OMFR3Yi1hM2FLeG1ObDZ0SldoOUZZN3pGbUV0NzhvblhncTZUU2hUZ3h1Z3NwRFRTQ3AxM1lHSWZFc2NPZ0o4Rm5JT0JzMUpDcWlYQmxlS2V6amtkU1E2eFAyUGdiQ3JqLVlzYXBWa1VNSFEtVU1ILXU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "胃炎",
-          "keyword": "胃炎",
-          "related_drugs": [
-            {
-              "slug": "aluminum_hydroxide",
-              "name": "Aluminum hydroxide"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "propantheline",
-              "name": "Propantheline"
             }
           ]
         }

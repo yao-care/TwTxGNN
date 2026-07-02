@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [1類營養素長壽功效被低估！研究：每日多吃10克死亡風險降21% 更有效護心血管/控血糖/防癌](https://news.google.com/rss/articles/CBMihwRBVV95cUxOa01oX244VXc2am1tcU9lSDVEV3Rqb1BKaGM4aVpUUTVoYXVzeUFYUDh0VUYydDY1ZU1hemZDRExnNVNXUWt0d0xwbTM0MUVQenBQMy04OVV3Y2NHLXc1VU55a0R6NlNHZDVTQS12Z2tzbDJib3NjZDY3Ty1ZV2lWamo1LVktc2ZaeERmMHBfNW5GYWlKcDJHY0ZHN1JzQWd3cmE2THFrWk56ODlVX2h0Mlc3UWdLQ2ZfaW5kTDRtVWdzUjhBbmc5c0xjTmw2RzJTRFB0SVlmOHMyWk4wZlNEajhIRW5zeS1CeDFaWHhSVEZCRGpPdUlUY29SMzM4cEdRQmNCbVFEMjhBOHh1RmFzdnYxMnlOU1hKa2h0c0t1SkFMcXp0TXhwdEdqRVcyNG5PYXRxYzIyeUFXc24tRG5fVGxGdDBRcHVDN0xsVTdVTkxZMllobWJMVVR6MzJNb2hkVjJBWG1NY2hZakFMeHFkSXpOeWkzLWpweVREYjcyRU03WTJXeHE4cjd3QWRJSWExOGlfV1VoZzhXYWZjTzRRTzJKNHQ5T3RMMmxPZG9pYjF1RjVhelUzUmluaVg3bUg3ZXRMa3c4Y1QzNDFGWUdWY0ZIQ0NCcDNBTW9vNHNiRmdwYjg5Mm5TQW41b3Qxems4dnZXVGE3VEJRWHZnWFdwd0hQcDBGcEU?oc=5)
-
-2026-06-30 <span class="news-indication-tag">心血管</span>
-
-來源：[星島頭條](https://news.google.com/rss/articles/CBMihwRBVV95cUxOa01oX244VXc2am1tcU9lSDVEV3Rqb1BKaGM4aVpUUTVoYXVzeUFYUDh0VUYydDY1ZU1hemZDRExnNVNXUWt0d0xwbTM0MUVQenBQMy04OVV3Y2NHLXc1VU55a0R6NlNHZDVTQS12Z2tzbDJib3NjZDY3Ty1ZV2lWamo1LVktc2ZaeERmMHBfNW5GYWlKcDJHY0ZHN1JzQWd3cmE2THFrWk56ODlVX2h0Mlc3UWdLQ2ZfaW5kTDRtVWdzUjhBbmc5c0xjTmw2RzJTRFB0SVlmOHMyWk4wZlNEajhIRW5zeS1CeDFaWHhSVEZCRGpPdUlUY29SMzM4cEdRQmNCbVFEMjhBOHh1RmFzdnYxMnlOU1hKa2h0c0t1SkFMcXp0TXhwdEdqRVcyNG5PYXRxYzIyeUFXc24tRG5fVGxGdDBRcHVDN0xsVTdVTkxZMllobWJMVVR6MzJNb2hkVjJBWG1NY2hZakFMeHFkSXpOeWkzLWpweVREYjcyRU03WTJXeHE4cjd3QWRJSWExOGlfV1VoZzhXYWZjTzRRTzJKNHQ5T3RMMmxPZG9pYjF1RjVhelUzUmluaVg3bUg3ZXRMa3c4Y1QzNDFGWUdWY0ZIQ0NCcDNBTW9vNHNiRmdwYjg5Mm5TQW41b3Qxems4dnZXVGE3VEJRWHZnWFdwd0hQcDBGcEU?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
