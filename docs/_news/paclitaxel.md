@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [台南推動國二男女公費HPV疫苗接種 7月起開打](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yQ3laZXpnbVZXLS04b1Q5MEw0S2hPRDJOSHhFUnFpQV9PMnpuSWFXeDl5QkloeXhOTjIzUHBnSkxsQ1pCdVczcjhRaFdIeTlvbEVoMGVNSFZTU0xKVEs1TklKM03SAWpBVV95cUxPNEVPbFlPblduSWdQY1F2cnlQanBqWG9ISVBoaUx1M1l1Xy1VZGkyUnBJckVRRW5rY2NvVkU1bjFfY0FkY05YSy1GY25CUXlnYTR3amFlaVRHNW9mUlVlLVNLZ2pVc0NrOE53?oc=5)
-
-2026-06-30 <span class="news-indication-tag">子宮頸癌</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yQ3laZXpnbVZXLS04b1Q5MEw0S2hPRDJOSHhFUnFpQV9PMnpuSWFXeDl5QkloeXhOTjIzUHBnSkxsQ1pCdVczcjhRaFdIeTlvbEVoMGVNSFZTU0xKVEs1TklKM03SAWpBVV95cUxPNEVPbFlPblduSWdQY1F2cnlQanBqWG9ISVBoaUx1M1l1Xy1VZGkyUnBJckVRRW5rY2NvVkU1bjFfY0FkY05YSy1GY25CUXlnYTR3amFlaVRHNW9mUlVlLVNLZ2pVc0NrOE53?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

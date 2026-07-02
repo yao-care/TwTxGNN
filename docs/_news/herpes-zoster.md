@@ -1,49 +1,41 @@
 ---
 layout: default
-title: "失智（dementia） 相關新聞"
+title: "皮蛇（herpes zoster） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
-permalink: /news/dementia/
+description: "皮蛇（herpes zoster） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+permalink: /news/herpes-zoster/
 ---
 
-# 失智（dementia） 相關新聞
+# 皮蛇（herpes zoster） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="皮蛇（herpes zoster） 有什麼相關新聞？">
+<strong>皮蛇（herpes zoster）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「皮蛇」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
 <strong>相關藥物報告</strong>
 <p>以下藥物的預測適應症可能與此疾病相關：</p>
 <ul>
-<li><a href="{{ '/drugs/gefitinib/' | relative_url }}">Gefitinib</a></li>
+<li><a href="{{ '/drugs/avelumab/' | relative_url }}">Avelumab</a></li>
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [打皮蛇疫苗還有這好處 逾50萬人研究：失智風險降24％](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oOVh2akxLTjZseXJudHJKWXBKd3NwUkFNcVo5MWdEekJPczF1MjBIQUJyTV9TTVVPcEoxZXR6eEZvV2lvdzBETEJBd0ROOGhHRU82RFRFWGg0X1lwWWJmelRuTUHSAWpBVV95cUxOUnpkeTVuclpyVUhRVF9sZHZmSV9hc2wxNFl2YmZleDFSbXNnNHpUdVc1NWR0MXhCZkZkb1ZKTThHTmtzM3BNZmhIYjdaRUZOWW1zZG16eDVIZEF4X1c0MEdxVHV2OXEtdzhR?oc=5)
 
 2026-07-02
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oOVh2akxLTjZseXJudHJKWXBKd3NwUkFNcVo5MWdEekJPczF1MjBIQUJyTV9TTVVPcEoxZXR6eEZvV2lvdzBETEJBd0ROOGhHRU82RFRFWGg0X1lwWWJmelRuTUHSAWpBVV95cUxOUnpkeTVuclpyVUhRVF9sZHZmSV9hc2wxNFl2YmZleDFSbXNnNHpUdVc1NWR0MXhCZkZkb1ZKTThHTmtzM3BNZmhIYjdaRUZOWW1zZG16eDVIZEF4X1c0MEdxVHV2OXEtdzhR?oc=5)
-
----
-
-### [3步驟飲食抗發炎、護腦！研究曝「失智風險降29%」 高風險者也有用](https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6enVoVWpQZ3M0SDRScTZWX0lfdnYwU29mQThhWTVnZThEc2N6ZUpDbDJiX3VXVHlMdHBHS2ZENWZQX3RZLWhtOGJsQ2k?oc=5)
-
-2026-07-01
-
-來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6enVoVWpQZ3M0SDRScTZWX0lfdnYwU29mQThhWTVnZThEc2N6ZUpDbDJiX3VXVHlMdHBHS2ZENWZQX3RZLWhtOGJsQ2k?oc=5)
 
 ---
 

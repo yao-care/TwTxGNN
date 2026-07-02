@@ -14,7 +14,7 @@ permalink: /news/zanubrutinib/
 ---
 
 <p class="key-answer" data-question="Zanubrutinib 有什麼相關新聞？">
-<strong>Zanubrutinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Zanubrutinib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/zanubrutinib/
 <li><strong>原適應症</strong>：被套細胞淋巴瘤 (MCL)、華氏巨球蛋白血症 (WM)、CLL/SLL、邊緣區淋巴瘤、濾泡性淋巴瘤</li>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（6 個）：<ul>
-<li class="indication-matched">myeloid leukemia（99.7%）<span class="indication-tag">📰 白血病</span></li>
+<li>myeloid leukemia（99.7%）</li>
 <li>vertebral anomalies and variable endocrine and T-cell dysfunction（99.4%）</li>
 <li>ganglioneuroblastoma (disease)（99.4%）</li>
 <li>retroperitoneal neoplasm（99.3%）</li>
@@ -38,15 +38,9 @@ permalink: /news/zanubrutinib/
 <p><a href="{{ '/drugs/zanubrutinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [2歲女童身上突現異常瘀青紅點確診白血病 媽媽拍片記錄抗癌歷程](https://news.google.com/rss/articles/CBMisANBVV95cUxNalE3cXpGVGR2N0VlUjNrUXVJMHQxUGl5SFNERFhRLXNOY01uZEdHcTN3U0ZPMEZlLUF2a0djZHpUclNWT2lNXzRVT05zN184TW9JaHZJQ0x4TnczZmlBMV9FV0p3bmQwa1VLcEl4RGhUVC1wSklnc3I5cEJIdUNqRkVZN0V1YkxKeU9rUFF5TjdLRG04VWJBMEVYWEtYRXkwdkxqd1VwMy1IcWRVdGhROUJxSzJyTHZDZlF3cW9URzJQSXZkZEd3ZEY1MU52eFUxcjBISEJCQl9UQmtTamlDVW8tM0hBZ2pJQktJTVdOU2Z4TnA1SllwU1pnT3Q2ejZCX3p2YUpQZmJFajNpaFJKMUplWEdEb0ZKYXR0WkdOcjNTb1VIU2lNMDhyek5VbzN6RGNRWXNacjFFY1VsOXNkcmpYRDdOTWJVdW1IUEt5clpsWGkyWW9mV3MtZWVrWThXX0ZHenJaM2t4UmpNa0JaUUZfV2tVX2tWSkRYUmw3d1M5YWVpY1BDTUpWREVGa1ZQYU1XWXMxblFsTThSTmswU1RSbWt3WHI1SzBCLUZJMVE?oc=5)
-
-2026-06-30 <span class="news-indication-tag">白血病</span>
-
-來源：[香港01](https://news.google.com/rss/articles/CBMisANBVV95cUxNalE3cXpGVGR2N0VlUjNrUXVJMHQxUGl5SFNERFhRLXNOY01uZEdHcTN3U0ZPMEZlLUF2a0djZHpUclNWT2lNXzRVT05zN184TW9JaHZJQ0x4TnczZmlBMV9FV0p3bmQwa1VLcEl4RGhUVC1wSklnc3I5cEJIdUNqRkVZN0V1YkxKeU9rUFF5TjdLRG04VWJBMEVYWEtYRXkwdkxqd1VwMy1IcWRVdGhROUJxSzJyTHZDZlF3cW9URzJQSXZkZEd3ZEY1MU52eFUxcjBISEJCQl9UQmtTamlDVW8tM0hBZ2pJQktJTVdOU2Z4TnA1SllwU1pnT3Q2ejZCX3p2YUpQZmJFajNpaFJKMUplWEdEb0ZKYXR0WkdOcjNTb1VIU2lNMDhyek5VbzN6RGNRWXNacjFFY1VsOXNkcmpYRDdOTWJVdW1IUEt5clpsWGkyWW9mV3MtZWVrWThXX0ZHenJaM2t4UmpNa0JaUUZfV2tVX2tWSkRYUmw3d1M5YWVpY1BDTUpWREVGa1ZQYU1XWXMxblFsTThSTmswU1RSbWt3WHI1SzBCLUZJMVE?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

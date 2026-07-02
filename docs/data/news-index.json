@@ -1,7 +1,42 @@
 {
-  "generated": "2026-07-02T02:28:47.123728+00:00",
-  "count": 6,
+  "generated": "2026-07-02T06:32:00.863350+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "fe019be70eb3",
+      "title": "打皮蛇疫苗還有這好處 逾50萬人研究：失智風險降24％",
+      "published": "2026-07-02T03:54:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oOVh2akxLTjZseXJudHJKWXBKd3NwUkFNcVo5MWdEekJPczF1MjBIQUJyTV9TTVVPcEoxZXR6eEZvV2lvdzBETEJBd0ROOGhHRU82RFRFWGg0X1lwWWJmelRuTUHSAWpBVV95cUxOUnpkeTVuclpyVUhRVF9sZHZmSV9hc2wxNFl2YmZleDFSbXNnNHpUdVc1NWR0MXhCZkZkb1ZKTThHTmtzM3BNZmhIYjdaRUZOWW1zZG16eDVIZEF4X1c0MEdxVHV2OXEtdzhR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "皮蛇",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "fc4589f5dd13",
       "title": "3步驟飲食抗發炎、護腦！研究曝「失智風險降29%」 高風險者也有用",
@@ -105,54 +140,6 @@
             {
               "slug": "propantheline",
               "name": "Propantheline"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9fd71a94b5e7",
-      "title": "2歲女童身上突現異常瘀青紅點確診白血病 媽媽拍片記錄抗癌歷程",
-      "published": "2026-06-30T04:40:07+00:00",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNalE3cXpGVGR2N0VlUjNrUXVJMHQxUGl5SFNERFhRLXNOY01uZEdHcTN3U0ZPMEZlLUF2a0djZHpUclNWT2lNXzRVT05zN184TW9JaHZJQ0x4TnczZmlBMV9FV0p3bmQwa1VLcEl4RGhUVC1wSklnc3I5cEJIdUNqRkVZN0V1YkxKeU9rUFF5TjdLRG04VWJBMEVYWEtYRXkwdkxqd1VwMy1IcWRVdGhROUJxSzJyTHZDZlF3cW9URzJQSXZkZEd3ZEY1MU52eFUxcjBISEJCQl9UQmtTamlDVW8tM0hBZ2pJQktJTVdOU2Z4TnA1SllwU1pnT3Q2ejZCX3p2YUpQZmJFajNpaFJKMUplWEdEb0ZKYXR0WkdOcjNTb1VIU2lNMDhyek5VbzN6RGNRWXNacjFFY1VsOXNkcmpYRDdOTWJVdW1IUEt5clpsWGkyWW9mV3MtZWVrWThXX0ZHenJaM2t4UmpNa0JaUUZfV2tVX2tWSkRYUmw3d1M5YWVpY1BDTUpWREVGa1ZQYU1XWXMxblFsTThSTmswU1RSbWt3WHI1SzBCLUZJMVE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "myeloid leukemia",
-          "keyword": "白血病",
-          "related_drugs": [
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3d584d11e5ab",
-      "title": "台南推動國二男女公費HPV疫苗接種 7月起開打",
-      "published": "2026-06-30T03:54:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yQ3laZXpnbVZXLS04b1Q5MEw0S2hPRDJOSHhFUnFpQV9PMnpuSWFXeDl5QkloeXhOTjIzUHBnSkxsQ1pCdVczcjhRaFdIeTlvbEVoMGVNSFZTU0xKVEs1TklKM03SAWpBVV95cUxPNEVPbFlPblduSWdQY1F2cnlQanBqWG9ISVBoaUx1M1l1Xy1VZGkyUnBJckVRRW5rY2NvVkU1bjFfY0FkY05YSy1GY25CUXlnYTR3amFlaVRHNW9mUlVlLVNLZ2pVc0NrOE53?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }

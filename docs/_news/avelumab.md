@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [打皮蛇疫苗還有這好處 逾50萬人研究：失智風險降24％](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oOVh2akxLTjZseXJudHJKWXBKd3NwUkFNcVo5MWdEekJPczF1MjBIQUJyTV9TTVVPcEoxZXR6eEZvV2lvdzBETEJBd0ROOGhHRU82RFRFWGg0X1lwWWJmelRuTUHSAWpBVV95cUxOUnpkeTVuclpyVUhRVF9sZHZmSV9hc2wxNFl2YmZleDFSbXNnNHpUdVc1NWR0MXhCZkZkb1ZKTThHTmtzM3BNZmhIYjdaRUZOWW1zZG16eDVIZEF4X1c0MEdxVHV2OXEtdzhR?oc=5)
+
+2026-07-02 <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">失智</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oOVh2akxLTjZseXJudHJKWXBKd3NwUkFNcVo5MWdEekJPczF1MjBIQUJyTV9TTVVPcEoxZXR6eEZvV2lvdzBETEJBd0ROOGhHRU82RFRFWGg0X1lwWWJmelRuTUHSAWpBVV95cUxOUnpkeTVuclpyVUhRVF9sZHZmSV9hc2wxNFl2YmZleDFSbXNnNHpUdVc1NWR0MXhCZkZkb1ZKTThHTmtzM3BNZmhIYjdaRUZOWW1zZG16eDVIZEF4X1c0MEdxVHV2OXEtdzhR?oc=5)
+
+---
 
 
 <div class="disclaimer">
