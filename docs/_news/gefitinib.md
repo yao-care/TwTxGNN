@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [研究：血液檢測看出器官年齡 預測10年後疾病風險](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFaC1yenUtdW5ETGU0VTBXSUtJMlNsTGxCazRXVUc2YUZjSUVZbURERUNEelliS2p1aFZMdy11b0E0RzJpUlNrU0FjWW5sYTBqZkNZX2ZXNTAtSlhCTGlXeTdQLV_SAWpBVV95cUxQNktWcWNjYTNBM2R4WU5aM29jSTVYNm83RzFhY2x6VWowdnVHN2NmZHQzS2s5OTVsRHIxeHVXcGZpTU9mUTZqdUdOemRVS2VQbG9MOUprQlBoSGhDSndUTVFyZ1dhUnNaTjJ3?oc=5)
 
@@ -56,14 +56,6 @@ permalink: /news/gefitinib/
 2026-07-02 <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">失智</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oOVh2akxLTjZseXJudHJKWXBKd3NwUkFNcVo5MWdEekJPczF1MjBIQUJyTV9TTVVPcEoxZXR6eEZvV2lvdzBETEJBd0ROOGhHRU82RFRFWGg0X1lwWWJmelRuTUHSAWpBVV95cUxOUnpkeTVuclpyVUhRVF9sZHZmSV9hc2wxNFl2YmZleDFSbXNnNHpUdVc1NWR0MXhCZkZkb1ZKTThHTmtzM3BNZmhIYjdaRUZOWW1zZG16eDVIZEF4X1c0MEdxVHV2OXEtdzhR?oc=5)
-
----
-
-### [3步驟飲食抗發炎、護腦！研究曝「失智風險降29%」 高風險者也有用](https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6enVoVWpQZ3M0SDRScTZWX0lfdnYwU29mQThhWTVnZThEc2N6ZUpDbDJiX3VXVHlMdHBHS2ZENWZQX3RZLWhtOGJsQ2k?oc=5)
-
-2026-07-01 <span class="news-indication-tag">失智</span>
-
-來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6enVoVWpQZ3M0SDRScTZWX0lfdnYwU29mQThhWTVnZThEc2N6ZUpDbDJiX3VXVHlMdHBHS2ZENWZQX3RZLWhtOGJsQ2k?oc=5)
 
 ---
 

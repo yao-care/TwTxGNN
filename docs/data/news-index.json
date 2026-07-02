@@ -1,7 +1,35 @@
 {
-  "generated": "2026-07-02T09:52:53.210267+00:00",
+  "generated": "2026-07-02T12:02:53.173883+00:00",
   "count": 4,
   "news": [
+    {
+      "id": "a183aaa98736",
+      "title": "抗癌戰士︱YouTuber曉欣抗卵巢癌剃光頭髮公開14cm手術疤痕走訪大埔小店答謝曾幫宏福苑災民餐廳",
+      "published": "2026-07-02T10:19:37+00:00",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MaVlMQlNWTmFSVUlESVRaMndxS091SW1XcUpJcWxVc215N3E4WVdVaVBwUXNiUUJTNXhYbVZ5cDg0MUNXXzhIbHU0eVM0LXkyY3c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "卵巢癌",
+          "keyword": "卵巢癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1b7388dbad21",
       "title": "研究：血液檢測看出器官年齡 預測10年後疾病風險",
@@ -232,30 +260,6 @@
             }
           ]
         },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "fc4589f5dd13",
-      "title": "3步驟飲食抗發炎、護腦！研究曝「失智風險降29%」 高風險者也有用",
-      "published": "2026-07-01T11:36:40+00:00",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6enVoVWpQZ3M0SDRScTZWX0lfdnYwU29mQThhWTVnZThEc2N6ZUpDbDJiX3VXVHlMdHBHS2ZENWZQX3RZLWhtOGJsQ2k?oc=5"
-        }
-      ],
-      "keywords": [
         {
           "type": "indication",
           "name": "dementia",

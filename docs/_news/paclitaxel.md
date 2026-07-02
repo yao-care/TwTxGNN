@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [抗癌戰士︱YouTuber曉欣抗卵巢癌剃光頭髮公開14cm手術疤痕走訪大埔小店答謝曾幫宏福苑災民餐廳](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MaVlMQlNWTmFSVUlESVRaMndxS091SW1XcUpJcWxVc215N3E4WVdVaVBwUXNiUUJTNXhYbVZ5cDg0MUNXXzhIbHU0eVM0LXkyY3c?oc=5)
+
+2026-07-02 <span class="news-indication-tag">卵巢癌</span>
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MaVlMQlNWTmFSVUlESVRaMndxS091SW1XcUpJcWxVc215N3E4WVdVaVBwUXNiUUJTNXhYbVZ5cDg0MUNXXzhIbHU0eVM0LXkyY3c?oc=5)
+
+---
 
 ### [研究：血液檢測看出器官年齡 預測10年後疾病風險](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFaC1yenUtdW5ETGU0VTBXSUtJMlNsTGxCazRXVUc2YUZjSUVZbURERUNEelliS2p1aFZMdy11b0E0RzJpUlNrU0FjWW5sYTBqZkNZX2ZXNTAtSlhCTGlXeTdQLV_SAWpBVV95cUxQNktWcWNjYTNBM2R4WU5aM29jSTVYNm83RzFhY2x6VWowdnVHN2NmZHQzS2s5OTVsRHIxeHVXcGZpTU9mUTZqdUdOemRVS2VQbG9MOUprQlBoSGhDSndUTVFyZ1dhUnNaTjJ3?oc=5)
 

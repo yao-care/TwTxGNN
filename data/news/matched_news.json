@@ -1,8 +1,50 @@
 {
-  "last_updated": "2026-07-02T09:52:53.178821+00:00",
-  "total_count": 19,
+  "last_updated": "2026-07-02T12:02:53.143140+00:00",
+  "total_count": 20,
   "matched_count": 4,
   "news": [
+    {
+      "id": "3929ba8a057b",
+      "title": "小腦細胞研究顛覆長年認知 運動障礙治療方向待審視",
+      "published": "2026-07-02T11:27:48+00:00",
+      "summary": "小腦細胞研究顛覆長年認知 運動障礙治療方向待審視&nbsp;&nbsp;行銷人",
+      "sources": [
+        {
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPTXRmY2tPMjFWWEN6YXhLSEY5WUd6QkJKSHR4NDJqZ2h6cHI5dndlelc1V0FoTDlnSzk1aDFFQ3RNd3ZQOGxQejhlbG1heFFlMVl3RG5BdVFYLTZ1eno1UXoyTXZhRVhQWnFSMTlvVWtVSzN3bDZCMmlCZkhoUm4zRnU4clZfTzJrVFBLUzFjdFpHSDlCX2NVQjc2YWZaSmhaNG1qVFhEZ2UwSl9oTGdyVGRfYTJ1dlFSWTM4b1ZPUFRsZlNaRmNYdjNKdzFlY212aVRzcEhuV3llUFJ6RFV5UWcyQTY1cFY3aERrZ0swdlB0dzVmS3lWOGpHbThmekdNRmx6WnFrYnQ1Z2R6VXJkTDZVV2RhU185U0lUdUxkZjFjZDNvTWs0YVlzc3JMM2NhbFBkdjJpN2lBclRsOWplY2VDeE9SV0dlazJJWnpQUUtVNTZRaGlNRk5pQXFObWIyd2w1RFBOd3FxVmM2U1YyMGVZNl9mdk8yalVTZg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a183aaa98736",
+      "title": "抗癌戰士︱YouTuber曉欣抗卵巢癌剃光頭髮公開14cm手術疤痕走訪大埔小店答謝曾幫宏福苑災民餐廳",
+      "published": "2026-07-02T10:19:37+00:00",
+      "summary": "抗癌戰士︱YouTuber曉欣抗卵巢癌剃光頭髮公開14cm手術疤痕走訪大埔小店答謝曾幫宏福苑災民餐廳&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MaVlMQlNWTmFSVUlESVRaMndxS091SW1XcUpJcWxVc215N3E4WVdVaVBwUXNiUUJTNXhYbVZ5cDg0MUNXXzhIbHU0eVM0LXkyY3c?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "卵巢癌",
+          "keyword": "卵巢癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "f5677035f7f7",
       "title": "青少年腰背痛或4疾病表徵：椎間盤突出、椎弓斷裂 查找痛源及早治療免礙成長",
@@ -20,7 +62,7 @@
       "id": "19686df669d7",
       "title": "防護中心宣布正式進入新流感季節　主要流行甲型H3",
       "published": "2026-07-02T08:18:00+00:00",
-      "summary": "防護中心宣布正式進入新流感季節 主要流行甲型H3&nbsp;&nbsp;881903.com香港踏入新流感季 衞生防護中心稱數據顯示兒童最受影響&nbsp;&nbsp;橙新聞流感｜6歲男童染甲流和流感嗜血桿菌危殆 併發肺炎和敗血性休克&nbsp;&nbsp;香港01衞生防護中心:本港已踏入流感季節 新冠活躍程度呈上升趨勢&nbsp;&nbsp;信報網站兩名男童染甲流 衞生防護中心：本港短期內進入流感季節&nbsp;&nbsp;香港電台新聞網",
+      "summary": "防護中心宣布正式進入新流感季節 主要流行甲型H3&nbsp;&nbsp;881903.com香港今入流感高峰期 伴隨新冠病毒活躍&nbsp;&nbsp;經濟日報流感｜6歲男童染甲流和流感嗜血桿菌危殆 併發肺炎和敗血性休克&nbsp;&nbsp;香港01衞生防護中心:本港已踏入流感季節 新冠活躍程度呈上升趨勢&nbsp;&nbsp;信報網站本港踏入夏季流感季節 料活躍程度未來數周進一步上升&nbsp;&nbsp;TVB",
       "sources": [
         {
           "name": "881903.com",
@@ -46,7 +88,7 @@
       "id": "4b27c889a8dd",
       "title": "醒來發現蝙蝠在臉上! 加拿大11歲男童染狂犬病死亡 症狀初期遭誤判為皰疹",
       "published": "2026-07-02T07:49:27+00:00",
-      "summary": "醒來發現蝙蝠在臉上! 加拿大11歲男童染狂犬病死亡 症狀初期遭誤判為皰疹&nbsp;&nbsp;Yahoo新聞11歲男童遭蝙蝠停臉上，沒發現傷口，最終竟感染狂犬病身亡&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網安省醫生警告：接觸蝙蝠須立即求醫&nbsp;&nbsp;大纪元睡醒驚見蝙蝠趴臉！男童因無傷口未就醫 19天後狂犬病發慘死&nbsp;&nbsp;自由時報半夜驚醒「蝙蝠趴口鼻」！11歲男童19天後狂犬病發 中樞神經系統崩潰慘死 | 鏡週刊&nbsp;&nbsp;LINE TODAY",
+      "summary": "醒來發現蝙蝠在臉上! 加拿大11歲男童染狂犬病死亡 症狀初期遭誤判為皰疹&nbsp;&nbsp;Yahoo新聞11歲童遭蝙蝠蓋口鼻 無傷仍染狂犬病身亡 | NOWNEWS今日新聞&nbsp;&nbsp;LINE TODAY11歲男童遭蝙蝠停臉上，沒發現傷口，最終竟感染狂犬病身亡&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網安省醫生警告：接觸蝙蝠須立即求醫&nbsp;&nbsp;大纪元半夜驚醒「蝙蝠趴口鼻」！11歲男童19天後狂犬病發 中樞神經系統崩潰慘死&nbsp;&nbsp;鏡週刊Mirror Media",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -56,13 +98,13 @@
       "matched_keywords": []
     },
     {
-      "id": "475cbdc70045",
+      "id": "5f388ed82658",
       "title": "暑假旅遊慎防傳染病 衞生署籲出發前瀏覽網站查閱旅遊健康資訊",
       "published": "2026-07-02T07:08:12+00:00",
-      "summary": "暑假旅遊慎防傳染病 衞生署籲出發前瀏覽網站查閱旅遊健康資訊&nbsp;&nbsp;巴士的報衛生署：暑假外遊，慎防麻疹和伊波拉等傳染病&nbsp;&nbsp;香港商报衞生防護中心提醒市民暑假外遊須預防傳染病&nbsp;&nbsp;香港電台新聞網麻疹疫情在全球蔓延 尤其在歐洲地區加劇 - 生活新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞伊波拉疫區返港市民 衞生署籲主動申報&nbsp;&nbsp;星島頭條",
+      "summary": "暑假旅遊慎防傳染病 衞生署籲出發前瀏覽網站查閱旅遊健康資訊&nbsp;&nbsp;bastillepost.com衛生署：暑假外遊，慎防麻疹和伊波拉等傳染病&nbsp;&nbsp;香港商报衞生防護中心提醒市民暑假外遊須預防傳染病&nbsp;&nbsp;香港電台新聞網麻疹疫情在全球蔓延 尤其在歐洲地區加劇 - 生活新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞伊波拉疫區返港市民 衞生署籲主動申報&nbsp;&nbsp;星島頭條",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPWGlxY0RrNWdldW9SMGp2ZXpyb1E5YWhTeEpXdWJtU3BKc0paNThLelpHSDlYV2ZxRXZweXl1bnpXRjZzTkxOVHBZSHZDd2hqdW5xNUMyZVMwR2Y1S2FLLWVWM2RISXNhWHBrUkt1MG96b01RdGU0WXJzT052Q2hOWVo5aWZoNFlMdjNlUkRhcXF2MVpaN1Q4a3hsT3Z0UzVoTDNtN1Q4U0N0MFh6TF8xcHdHWUw5a0lqRi0zejdCOXpOY1VYSW1WU2JOb29IN0wySTl4RGtPaTlHWFRkc2cyYVNoTW5XYlFGZHVEOVVsanRSQ2ttOHh0blNkUHpRZ3JBYUdWdmVNNTcybE01R2UtVVg2QzVITmthcG5IVU5CRE1oX0ZFMjRyY0xrMkJydW5scW1MNzNsYU9aal84ZktFRm4zb2ZuQTEyRFFCT0UyY2s5dzlUYXFXNXNCaEE3aUNUbDF5UkxsNlgwNUY3YVlR?oc=5"
         }
       ],
@@ -111,7 +153,7 @@
       "id": "1b7388dbad21",
       "title": "研究：血液檢測看出器官年齡 預測10年後疾病風險",
       "published": "2026-07-02T05:49:00+00:00",
-      "summary": "研究：血液檢測看出器官年齡 預測10年後疾病風險&nbsp;&nbsp;自由健康網聞癌色變！匯集42國權威研究顯示：6種癌年增率 年輕人已超越中高齡者&nbsp;&nbsp;health.tvbs.com.tw青壯年罹癌增 生活習慣埋病因&nbsp;&nbsp;Yahoo新聞研究：年輕世代「生物性老化」加速 或與癌症年輕化現象有關&nbsp;&nbsp;UDN罹癌要跟年邁父母說嗎？癌症年輕化中年患者陷兩難 醫：先思考2個問題&nbsp;&nbsp;草根影響力新視野",
+      "summary": "研究：血液檢測看出器官年齡 預測10年後疾病風險&nbsp;&nbsp;自由健康網聞癌色變！匯集42國權威研究顯示：6種癌年增率 年輕人已超越中高齡者&nbsp;&nbsp;TVBS 健康2.0青壯年罹癌增 生活習慣埋病因&nbsp;&nbsp;Yahoo新聞研究：年輕世代「生物性老化」加速 或與癌症年輕化現象有關&nbsp;&nbsp;UDN罹癌要跟年邁父母說嗎？癌症年輕化中年患者陷兩難 醫：先思考2個問題&nbsp;&nbsp;草根影響力新視野",
       "sources": [
         {
           "name": "自由健康網",
@@ -366,14 +408,14 @@
       "matched_keywords": []
     },
     {
-      "id": "35ec5f8da910",
+      "id": "520ae43607a8",
       "title": "食戒煙香口膠唔可以飲果汁？拆解3大戒煙藥物禁忌",
       "published": "2026-07-01T20:00:00+00:00",
       "summary": "食戒煙香口膠唔可以飲果汁？拆解3大戒煙藥物禁忌&nbsp;&nbsp;am730",
       "sources": [
         {
           "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPQ1BUdWtlWHZKUEtsNTU1TGl5dGlYeFRtSG5CaGxmZTdoYmVWU09RMld0OGV4NzJ6S2lJdldQNUoxalE2akJDLVVYYk5sZ3o2NGlaWmJkN3NQX1g3cUlmRk9IX2dMbWMtTjZlR1FXblNqX3NHTVk3ck8tdnlsWkNLYmFiRXRoUXBJajZYMlhXM0w3SkxxUGNvb0F4ZW9VNWVJUGRzdmdvWVRuVHpPRjJucWQtNDVmNXowR1RKWUw3dEQ3WnMzX1dodXpSVjFfaFVrZVgxaDRnVW1PcmhKUFFlMmM5OVVnQldkN3VpQlFZTTFTcFZpczNKNmdKTHRoRjVFczN3bHBsSXlyMlFaT3drOHFodGRrRExXY1pGLWhTeWJWWTJ3SGx5aEc3dzJOdy14Qk02RmFrNjc5RU1pX1NCNFAxMmZfNTlFc3IxVlRNdGh5UGczNzh5TW5nd0JxVENT?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yUjh1VmJfRmJ3YjZ4REYwaWZDaHlIV2I3WlJwNWM1dUJsN2hqb3hiT0dvanJaeTRfcGlPOFFNS2FZUEJDZlgtUlc5bWg0eXFPYUE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -382,7 +424,7 @@
       "id": "f46c2ad2f736",
       "title": "天天吃膠原蛋白卻沒感覺？營養師揭「4大流失地雷」沒改掉吃再多都白費 - Women's Health",
       "published": "2026-07-01T11:53:35+00:00",
-      "summary": "天天吃膠原蛋白卻沒感覺？營養師揭「4大流失地雷」沒改掉吃再多都白費&nbsp;&nbsp;Women's Health吃膠原蛋白卻狂冒痘？營養師揭真相：問題未必出在膠原蛋白&nbsp;&nbsp;Yahoo新聞膠原蛋白怎麼吃才有效？營養師解答 | NOWNEWS今日新聞&nbsp;&nbsp;LINE TODAY傳奇大師發出崩盤預警：別持有這類股「恐面臨70%暴跌」&nbsp;&nbsp;三立新聞網SETN.com膠原蛋白是智商稅嗎？研究最快10天有變化 吃了沒感覺先看這3件事｜人氣話題&nbsp;&nbsp;dailyview.hk",
+      "summary": "天天吃膠原蛋白卻沒感覺？營養師揭「4大流失地雷」沒改掉吃再多都白費&nbsp;&nbsp;Women's Health膠原蛋白是智商稅？醫生提醒美肌、強骨、增肌「療效」和「吸收」不相等| 健康解「迷」 - 醫學通識- 健康好人生&nbsp;&nbsp;etnet 經濟通吃膠原蛋白卻狂冒痘？營養師揭真相：問題未必出在膠原蛋白&nbsp;&nbsp;Yahoo新聞吃膠原蛋白＝皮膚Ｑ彈、強筋健骨？名醫科學解密！ | 三立新聞網&nbsp;&nbsp;LINE TODAY睡前吃膠原蛋白竟比早上有用？背後原因讓人恍然大悟&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
           "name": "Women's Health",
@@ -390,31 +432,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "fc4589f5dd13",
-      "title": "3步驟飲食抗發炎、護腦！研究曝「失智風險降29%」 高風險者也有用",
-      "published": "2026-07-01T11:36:40+00:00",
-      "summary": "3步驟飲食抗發炎、護腦！研究曝「失智風險降29%」 高風險者也有用&nbsp;&nbsp;三立新聞網SETN.com抽血就能看出失智風險？最新研究追蹤16年揭「一項數值」藏警訊&nbsp;&nbsp;health.tvbs.com.tw忘東忘西是腦發炎？吃對這5類防失智！&nbsp;&nbsp;東森新聞健康網》最適合新手的運動起手式！醫推2運動 顧好睡眠與大腦健康&nbsp;&nbsp;自由健康網1種運動預防失智最有效！精準醫學名醫揭4大「護腦秘訣」：睡不到6小時風險恐翻倍&nbsp;&nbsp;良醫健康網",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6enVoVWpQZ3M0SDRScTZWX0lfdnYwU29mQThhWTVnZThEc2N6ZUpDbDJiX3VXVHlMdHBHS2ZENWZQX3RZLWhtOGJsQ2k?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "87a786bccf92",
