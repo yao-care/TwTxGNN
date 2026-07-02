@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-01T23:03:28.458003+00:00",
-  "count": 7,
+  "generated": "2026-07-02T02:28:47.123728+00:00",
+  "count": 6,
   "news": [
     {
-      "id": "582c5d5ad63d",
+      "id": "fc4589f5dd13",
       "title": "3步驟飲食抗發炎、護腦！研究曝「失智風險降29%」 高風險者也有用",
       "published": "2026-07-01T11:36:40+00:00",
       "sources": [
         {
-          "name": "祝你健康",
+          "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6enVoVWpQZ3M0SDRScTZWX0lfdnYwU29mQThhWTVnZThEc2N6ZUpDbDJiX3VXVHlMdHBHS2ZENWZQX3RZLWhtOGJsQ2k?oc=5"
         }
       ],
@@ -153,41 +153,6 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bc6b73c50c86",
-      "title": "失智症的前兆可能藏在浴室裡 研究：聞不到沐浴乳香味要小心",
-      "published": "2026-06-30T00:58:54+00:00",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ES1ZYclFobUl2d3BJOGpJNmdFVmNMZjF0cnZkSXBmdUZiS25wMC00emxUTlBkT3lCbzlXMjZfanphWHk0dkEtUXVQRmJZeWxIOG1yaUhfRkx2aVFDSWfSAWNBVV95cUxPOEU1SjFRdk9Kcm8zVlR5Y3VQZW52TmxvYWxGOEtNd2V3S1dPdjk4bXN6SUxqNEotRE1IY0NUQzlVbnRaRWN1TGxIbXl0dTdkNlhvQXJ3TWFIUmhwellsSkd5LUU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

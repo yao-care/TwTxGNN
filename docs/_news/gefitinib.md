@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [3步驟飲食抗發炎、護腦！研究曝「失智風險降29%」 高風險者也有用](https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6enVoVWpQZ3M0SDRScTZWX0lfdnYwU29mQThhWTVnZThEc2N6ZUpDbDJiX3VXVHlMdHBHS2ZENWZQX3RZLWhtOGJsQ2k?oc=5)
 
 2026-07-01 <span class="news-indication-tag">失智</span>
 
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6enVoVWpQZ3M0SDRScTZWX0lfdnYwU29mQThhWTVnZThEc2N6ZUpDbDJiX3VXVHlMdHBHS2ZENWZQX3RZLWhtOGJsQ2k?oc=5)
-
----
-
-### [失智症的前兆可能藏在浴室裡 研究：聞不到沐浴乳香味要小心](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ES1ZYclFobUl2d3BJOGpJNmdFVmNMZjF0cnZkSXBmdUZiS25wMC00emxUTlBkT3lCbzlXMjZfanphWHk0dkEtUXVQRmJZeWxIOG1yaUhfRkx2aVFDSWfSAWNBVV95cUxPOEU1SjFRdk9Kcm8zVlR5Y3VQZW52TmxvYWxGOEtNd2V3S1dPdjk4bXN6SUxqNEotRE1IY0NUQzlVbnRaRWN1TGxIbXl0dTdkNlhvQXJ3TWFIUmhwellsSkd5LUU?oc=5)
-
-2026-06-30 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ES1ZYclFobUl2d3BJOGpJNmdFVmNMZjF0cnZkSXBmdUZiS25wMC00emxUTlBkT3lCbzlXMjZfanphWHk0dkEtUXVQRmJZeWxIOG1yaUhfRkx2aVFDSWfSAWNBVV95cUxPOEU1SjFRdk9Kcm8zVlR5Y3VQZW52TmxvYWxGOEtNd2V3S1dPdjk4bXN6SUxqNEotRE1IY0NUQzlVbnRaRWN1TGxIbXl0dTdkNlhvQXJ3TWFIUmhwellsSkd5LUU?oc=5)
+來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6enVoVWpQZ3M0SDRScTZWX0lfdnYwU29mQThhWTVnZThEc2N6ZUpDbDJiX3VXVHlMdHBHS2ZENWZQX3RZLWhtOGJsQ2k?oc=5)
 
 ---
 
