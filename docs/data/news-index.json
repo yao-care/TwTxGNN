@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T09:50:01.765304+00:00",
-  "count": 7,
+  "generated": "2026-07-03T12:01:07.073227+00:00",
+  "count": 6,
   "news": [
     {
       "id": "8ab8c8c9089d",
@@ -115,13 +115,13 @@
       ]
     },
     {
-      "id": "8925780bed92",
-      "title": "日花6分鐘做1運動死亡風險大降40％ 追公車也算- 健康",
-      "published": "2026-07-02T05:12:31+00:00",
+      "id": "e08e46d1280c",
+      "title": "這運動「每天6分鐘」降低40%死亡率！還減少5成心血管死亡風險",
+      "published": "2026-07-02T14:51:21+00:00",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0RC0zZm5GWnNaSW9WaWp6UkYxczRUVDR6S2Nwb1E1a2ZFTUxjcG9yWWUzMm9ybXpyel8xY0RLM0I2YXFUNHZsZWhKbm1yNUNkUnRGMk5kWFFHNFlSVXZsWHZPanFaWWx0LUpCd3N3?oc=5"
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aNFJ3YXV2TTN6bDVfRm5uZ0R3V285aW93eUM1aUZfeEgtbXJyMmdzVV96MXFUbTBieUVpXzNBOS1GVDNGakt2ODY5U2o?oc=5"
         }
       ],
       "keywords": [
@@ -168,34 +168,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "87a786bccf92",
-      "title": "中風後手腳灼熱痛是怎麼了？醫師解析常見4大慢性疼痛與治療- 健康新聞- PChome Online 新聞 - PChome Online 新聞",
-      "published": "2026-07-01T09:00:00+00:00",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcVY3emFTRVhpbW1RamRTTm5NckhkQTBvcmFjZWQyX0JrbzJoWWpWQm1xSkluR09tcWpmWDhfYzlvNWVEeXhpWkpFWC1IRnRSS3M2TTJGZkg4eUc2NW9hRmNaTGVYQ3VDWm9wVDBDOXdia19RSUpKaHRTRTJqYW1IaEtxUXJCbDlHNXVPUUtDSjd2aGM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }

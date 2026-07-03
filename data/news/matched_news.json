@@ -1,34 +1,8 @@
 {
-  "last_updated": "2026-07-03T09:50:01.734830+00:00",
-  "total_count": 30,
-  "matched_count": 7,
+  "last_updated": "2026-07-03T12:01:07.051299+00:00",
+  "total_count": 28,
+  "matched_count": 6,
   "news": [
-    {
-      "id": "c2d532ebb576",
-      "title": "膠原蛋白不只愛美女性需要！ 營養師：上班族、長輩都該補充",
-      "published": "2026-07-03T08:47:36+00:00",
-      "summary": "膠原蛋白不只愛美女性需要！ 營養師：上班族、長輩都該補充&nbsp;&nbsp;台視新聞網膠原蛋白不是只有愛美女性需要！營養師：上班族、長輩都該補充&nbsp;&nbsp;Yahoo新聞天天吃膠原蛋白卻沒感覺？營養師揭「4大流失地雷」沒改掉吃再多都白費&nbsp;&nbsp;Women's Health吃膠原蛋白拚凍齡卻爆痘營養師揪地雷- 醫療保健- 新聞&nbsp;&nbsp;華人今日網吃膠原蛋白到底有沒有用？營養師列「生活4大地雷」小心吃了也流失&nbsp;&nbsp;優活健康網",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aS3JVeEtRSUtHakFkakhEZFVGNTBoazBPV2p1Q05iRGFDblNTaVAzN0ZBLVZUWDgzNTFNV0U2SGhKYkhDS3dIT3J5REZoMTJ3UUxFTHBrZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c95d77b47464",
-      "title": "禁慾沒用！「3件事」真能提升睪固酮：第一項免流汗、最有效",
-      "published": "2026-07-03T07:58:24+00:00",
-      "summary": "禁慾沒用！「3件事」真能提升睪固酮：第一項免流汗、最有效&nbsp;&nbsp;三立新聞網SETN.com",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1wUWJMVXRiaTFGU1hSOFFkNXBzSlBETWVHbElHWXk5ZWRuTDNwZEowbFNkTHh0SWZTTVVPejkwMFVuM1ZDOVR3UTdPSFM?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
     {
       "id": "8ab8c8c9089d",
       "title": "吸煙招肺癌 致慢阻肺病不可逆轉 傷肺咳嗽呼吸困難 物理治療助紓緩",
@@ -76,6 +50,19 @@
       "matched_keywords": []
     },
     {
+      "id": "c2d532ebb576",
+      "title": "膠原蛋白不只愛美女性需要！ 營養師：上班族、長輩都該補充",
+      "published": "2026-07-03T07:00:05+00:00",
+      "summary": "膠原蛋白不只愛美女性需要！ 營養師：上班族、長輩都該補充&nbsp;&nbsp;台視新聞網膠原蛋白不是只有愛美女性需要！營養師：上班族、長輩都該補充&nbsp;&nbsp;Yahoo新聞天天吃膠原蛋白卻沒感覺？營養師揭「4大流失地雷」沒改掉吃再多都白費&nbsp;&nbsp;Women's Health吃膠原蛋白拚凍齡卻爆痘營養師揪地雷- 醫療保健- 新聞&nbsp;&nbsp;華人今日網吃膠原蛋白到底有沒有用？營養師列「生活4大地雷」小心吃了也流失&nbsp;&nbsp;優活健康網",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aS3JVeEtRSUtHakFkakhEZFVGNTBoazBPV2p1Q05iRGFDblNTaVAzN0ZBLVZUWDgzNTFNV0U2SGhKYkhDS3dIT3J5REZoMTJ3UUxFTHBrZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "b2cf397893f6",
       "title": "吃青花椰菜狂放屁名醫釋疑是真的：2招能改善- 健康",
       "published": "2026-07-03T05:30:00+00:00",
@@ -91,7 +78,7 @@
     {
       "id": "29dd55b20163",
       "title": "陸男對嘴喝罐裝飲料「感染漢他病毒」！醫示警1件事",
-      "published": "2026-07-03T05:20:00+00:00",
+      "published": "2026-07-03T05:29:20+00:00",
       "summary": "陸男對嘴喝罐裝飲料「感染漢他病毒」！醫示警1件事&nbsp;&nbsp;Yahoo新聞網傳易拉罐藏粉蟎影片掀熱議 醫生警告直接對嘴飲用恐染致命「鼠尿病」&nbsp;&nbsp;utravel.com.hk對嘴飲罐裝飲品隨時冇命？拉環爬滿蟲影片瘋傳 深圳男染漢坦病毒&nbsp;&nbsp;香港01罐裝飲料對嘴喝！40歲陸男「感染漢他病毒」 醫：再懶也要擦一下&nbsp;&nbsp;ETtoday新聞雲對嘴喝罐裝飲料！陸男感染漢他病毒 醫示警：喝前1動作很重要&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
@@ -221,13 +208,13 @@
       "matched_keywords": []
     },
     {
-      "id": "5030e82c46dc",
+      "id": "fe460f1281fb",
       "title": "她手賤擠痘「嘴唇腫到鼻梁」！醫揭危險三角：細菌恐竄腦",
       "published": "2026-07-03T01:34:00+00:00",
-      "summary": "她手賤擠痘「嘴唇腫到鼻梁」！醫揭危險三角：細菌恐竄腦&nbsp;&nbsp;health.ettoday.net",
+      "summary": "她手賤擠痘「嘴唇腫到鼻梁」！醫揭危險三角：細菌恐竄腦&nbsp;&nbsp;ETtoday健康雲",
       "sources": [
         {
-          "name": "health.ettoday.net",
+          "name": "ETtoday健康雲",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16UHZVMWV1emNJRkxmYld2MnBJczcxb1ptcHV0dGhMdzJBdzZlamppZEd1LUpLRVZYNnZqMThQOHVYcEpCOG90cXk4MlVKNklj0gFsQVVfeXFMT1FlbGNxMVB1QW40cmhUUXZZd24xZTNuOWFyWlczcnd0UGpaZGRnYTd4ZTVzMDgta2pvVUhzMzR0eTdfMkIzQ1RzSUZnTkx2MF9FazlWQTJUbjhNWHNQRU9hd05Pa0NRTEUtSV90?oc=5"
         }
       ],
@@ -257,6 +244,31 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e08e46d1280c",
+      "title": "這運動「每天6分鐘」降低40%死亡率！還減少5成心血管死亡風險",
+      "published": "2026-07-02T14:51:21+00:00",
+      "summary": "這運動「每天6分鐘」降低40%死亡率！還減少5成心血管死亡風險&nbsp;&nbsp;三立新聞網SETN.com健康網》不上健身房也有效 每天只動6分鐘 死亡風險降4成&nbsp;&nbsp;自由健康網日花6分鐘做1運動死亡風險大降40％ 追公車也算- 健康&nbsp;&nbsp;中時新聞網「1運動」大增心肺功能、粒線體翻倍增：12週就有效&nbsp;&nbsp;Yahoo新聞每天6分鐘「微爆發運動」降死亡風險？醫師推30秒爬樓梯衝刺：先評估身體狀況&nbsp;&nbsp;FTNN 新聞網",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aNFJ3YXV2TTN6bDVfRm5uZ0R3V285aW93eUM1aUZfeEgtbXJyMmdzVV96MXFUbTBieUVpXzNBOS1GVDNGakt2ODY5U2o?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
             }
           ]
         }
@@ -380,31 +392,6 @@
       "matched_keywords": []
     },
     {
-      "id": "8925780bed92",
-      "title": "日花6分鐘做1運動死亡風險大降40％ 追公車也算- 健康",
-      "published": "2026-07-02T05:12:31+00:00",
-      "summary": "日花6分鐘做1運動死亡風險大降40％ 追公車也算- 健康&nbsp;&nbsp;中時新聞網健康網》不上健身房也有效 每天只動6分鐘 死亡風險降4成&nbsp;&nbsp;自由健康網這運動「每天6分鐘」降低40%死亡率！還減少5成心血管死亡風險&nbsp;&nbsp;三立新聞網SETN.com「1運動」大增心肺功能、粒線體翻倍增：12週就有效&nbsp;&nbsp;Yahoo新聞每天6分鐘「微爆發運動」降死亡風險？醫師推30秒爬樓梯衝刺：先評估身體狀況&nbsp;&nbsp;FTNN 新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0RC0zZm5GWnNaSW9WaWp6UkYxczRUVDR6S2Nwb1E1a2ZFTUxjcG9yWWUzMm9ybXpyel8xY0RLM0I2YXFUNHZsZWhKbm1yNUNkUnRGMk5kWFFHNFlSVXZsWHZPanFaWWx0LUpCd3N3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "fe019be70eb3",
       "title": "打皮蛇疫苗還有這好處 逾50萬人研究：失智風險降24％",
       "published": "2026-07-02T03:54:00+00:00",
@@ -441,13 +428,13 @@
       ]
     },
     {
-      "id": "51ae7229ecbb",
+      "id": "6a5060f17e12",
       "title": "醫學新發現 日研究：多發性硬化症 腸道扮演關鍵角色",
       "published": "2026-07-02T03:30:00+00:00",
-      "summary": "醫學新發現 日研究：多發性硬化症 腸道扮演關鍵角色&nbsp;&nbsp;AM730多發性硬化症關鍵是它！研究：腸道扮演特殊角色&nbsp;&nbsp;自由健康網照護線上》從長期用藥到免疫重建療法，多發性硬化症治療模式的轉變與新選擇，專科醫師圖文解說&nbsp;&nbsp;自由評論網",
+      "summary": "醫學新發現 日研究：多發性硬化症 腸道扮演關鍵角色&nbsp;&nbsp;am730多發性硬化症關鍵是它！研究：腸道扮演特殊角色&nbsp;&nbsp;自由健康網照護線上》從長期用藥到免疫重建療法，多發性硬化症治療模式的轉變與新選擇，專科醫師圖文解說&nbsp;&nbsp;自由評論網",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pdjkwQWhrUVUxUnVIRkVheWZYQm45ai1VQmUzUE1sa0NtbjF0alJZM1QxVlM4c0JOd0Y1dlJlR0JvU3BwQXB0QnRhUHhGeFlMTnc?oc=5"
         }
       ],
@@ -467,46 +454,17 @@
       "matched_keywords": []
     },
     {
-      "id": "ea6d628d0815",
+      "id": "520ae43607a8",
       "title": "食戒煙香口膠唔可以飲果汁？拆解3大戒煙藥物禁忌",
       "published": "2026-07-01T20:00:00+00:00",
-      "summary": "食戒煙香口膠唔可以飲果汁？拆解3大戒煙藥物禁忌&nbsp;&nbsp;AM730",
+      "summary": "食戒煙香口膠唔可以飲果汁？拆解3大戒煙藥物禁忌&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yUjh1VmJfRmJ3YjZ4REYwaWZDaHlIV2I3WlJwNWM1dUJsN2hqb3hiT0dvanJaeTRfcGlPOFFNS2FZUEJDZlgtUlc5bWg0eXFPYUE?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "87a786bccf92",
-      "title": "中風後手腳灼熱痛是怎麼了？醫師解析常見4大慢性疼痛與治療- 健康新聞- PChome Online 新聞 - PChome Online 新聞",
-      "published": "2026-07-01T09:00:00+00:00",
-      "summary": "中風後手腳灼熱痛是怎麼了？醫師解析常見4大慢性疼痛與治療- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcVY3emFTRVhpbW1RamRTTm5NckhkQTBvcmFjZWQyX0JrbzJoWWpWQm1xSkluR09tcWpmWDhfYzlvNWVEeXhpWkpFWC1IRnRSS3M2TTJGZkg4eUc2NW9hRmNaTGVYQ3VDWm9wVDBDOXdia19RSUpKaHRTRTJqYW1IaEtxUXJCbDlHNXVPUUtDSjd2aGM?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

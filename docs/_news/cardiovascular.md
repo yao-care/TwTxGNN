@@ -31,11 +31,11 @@ permalink: /news/cardiovascular/
 
 ## 相關新聞（1 則）
 
-### [日花6分鐘做1運動死亡風險大降40％ 追公車也算- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTFA0RC0zZm5GWnNaSW9WaWp6UkYxczRUVDR6S2Nwb1E1a2ZFTUxjcG9yWWUzMm9ybXpyel8xY0RLM0I2YXFUNHZsZWhKbm1yNUNkUnRGMk5kWFFHNFlSVXZsWHZPanFaWWx0LUpCd3N3?oc=5)
+### [這運動「每天6分鐘」降低40%死亡率！還減少5成心血管死亡風險](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aNFJ3YXV2TTN6bDVfRm5uZ0R3V285aW93eUM1aUZfeEgtbXJyMmdzVV96MXFUbTBieUVpXzNBOS1GVDNGakt2ODY5U2o?oc=5)
 
 2026-07-02
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFA0RC0zZm5GWnNaSW9WaWp6UkYxczRUVDR6S2Nwb1E1a2ZFTUxjcG9yWWUzMm9ybXpyel8xY0RLM0I2YXFUNHZsZWhKbm1yNUNkUnRGMk5kWFFHNFlSVXZsWHZPanFaWWx0LUpCd3N3?oc=5)
+來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aNFJ3YXV2TTN6bDVfRm5uZ0R3V285aW93eUM1aUZfeEgtbXJyMmdzVV96MXFUbTBieUVpXzNBOS1GVDNGakt2ODY5U2o?oc=5)
 
 ---
 
