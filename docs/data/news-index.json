@@ -1,7 +1,35 @@
 {
-  "generated": "2026-07-02T23:11:46.804426+00:00",
-  "count": 5,
+  "generated": "2026-07-03T02:03:49.467023+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "d4184f0af541",
+      "title": "血糖高一點沒關係？醫警告：平均6年恐變糖尿病！不想吃藥，現在做4件事還來得及",
+      "published": "2026-07-03T01:16:40+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxObUtEczY2Zmc4YUs5ZGdMT0hOM3lSYVlJekZyTzdUV1lHZExFVFdtUkIxalpId1MteVByUEFvaTlLYmlKcE5Kei1halBSV05WcjhlUGgxVFdaNnZ0QVJQTjIzQnVsVHFBWTBWX01vWlVHSUJRM2hhRElGTEYwMUliWlpBNmRFekRITFh2N0p0ajNqcnVFRktqN3JVSkg4dU1RbF92eXFKeDl2eE8wbmdjNEl6LUQ4ZzRUMFBLRnFhOTN5MS1Ealp5VmlBbUVrNXNMMm45UlpzeFNNcmpoQXdGX2JsOHNmVmtDajJTZ0lFajRxLUZ0UW80U3dRYzlpRFFCTGFWN0t2U09ic1VyT05SZEhzOUxNVlVSTENxclJmanZ6RmJSTEQyQnVkNmhqeFJxclM0cm1pRk1MeEwxWXFqaUNia2ZBU0paNzJCUUJ0QkR4ejNlZENBTGJjSm5SMnZ3aFE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "824d7b5bf6ea",
       "title": "抗癌戰士︱YouTuber曉欣抗卵巢癌剃光頭髮公開14cm手術疤痕走訪大埔小店答謝曾幫宏福苑災民餐廳",
@@ -309,13 +337,76 @@
       ]
     },
     {
-      "id": "1b7388dbad21",
-      "title": "研究：血液檢測看出器官年齡 預測10年後疾病風險",
-      "published": "2026-07-02T05:49:00+00:00",
+      "id": "fe019be70eb3",
+      "title": "打皮蛇疫苗還有這好處 逾50萬人研究：失智風險降24％",
+      "published": "2026-07-02T03:54:00+00:00",
       "sources": [
         {
           "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFaC1yenUtdW5ETGU0VTBXSUtJMlNsTGxCazRXVUc2YUZjSUVZbURERUNEelliS2p1aFZMdy11b0E0RzJpUlNrU0FjWW5sYTBqZkNZX2ZXNTAtSlhCTGlXeTdQLV_SAWpBVV95cUxQNktWcWNjYTNBM2R4WU5aM29jSTVYNm83RzFhY2x6VWowdnVHN2NmZHQzS2s5OTVsRHIxeHVXcGZpTU9mUTZqdUdOemRVS2VQbG9MOUprQlBoSGhDSndUTVFyZ1dhUnNaTjJ3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oOVh2akxLTjZseXJudHJKWXBKd3NwUkFNcVo5MWdEekJPczF1MjBIQUJyTV9TTVVPcEoxZXR6eEZvV2lvdzBETEJBd0ROOGhHRU82RFRFWGg0X1lwWWJmelRuTUHSAWpBVV95cUxOUnpkeTVuclpyVUhRVF9sZHZmSV9hc2wxNFl2YmZleDFSbXNnNHpUdVc1NWR0MXhCZkZkb1ZKTThHTmtzM3BNZmhIYjdaRUZOWW1zZG16eDVIZEF4X1c0MEdxVHV2OXEtdzhR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "皮蛇",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "87a786bccf92",
+      "title": "中風後手腳灼熱痛是怎麼了？醫師解析常見4大慢性疼痛與治療- 健康新聞- PChome Online 新聞 - PChome Online 新聞",
+      "published": "2026-07-01T09:00:00+00:00",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcVY3emFTRVhpbW1RamRTTm5NckhkQTBvcmFjZWQyX0JrbzJoWWpWQm1xSkluR09tcWpmWDhfYzlvNWVEeXhpWkpFWC1IRnRSS3M2TTJGZkg4eUc2NW9hRmNaTGVYQ3VDWm9wVDBDOXdia19RSUpKaHRTRTJqYW1IaEtxUXJCbDlHNXVPUUtDSjd2aGM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0261b7804fc7",
+      "title": "你可能比爸媽同年齡時老得更快 頂尖研究：恐與年輕人罹癌增加有關",
+      "published": "2026-07-01T08:32:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wRnFEbTFIRnBxY3VRalUzZ25YbDkxXzdNYlc3YlJXWmNNM09EYlBzaHlsZmlKMzdvRTlsaDE0TmgzYzBvRGlaTnY2dFFrY0xLdG80dzFkQUZVbmNvSHMxRHEtQjDSAWpBVV95cUxQWDBxNXY0VktVazJNT3F1dU0zMlNHTzdkTUxOVkw5Wlp0RGxsckxhVFFUMnYyUW9HUVBIZHhfQmNvTTJNUmMzOEM1N0NrWHliV1JQdjJJaHM5NTVFbnVUOGF5ZlZDVTEtTnRR?oc=5"
         }
       ],
       "keywords": [
@@ -511,69 +602,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "fe019be70eb3",
-      "title": "打皮蛇疫苗還有這好處 逾50萬人研究：失智風險降24％",
-      "published": "2026-07-02T03:54:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oOVh2akxLTjZseXJudHJKWXBKd3NwUkFNcVo5MWdEekJPczF1MjBIQUJyTV9TTVVPcEoxZXR6eEZvV2lvdzBETEJBd0ROOGhHRU82RFRFWGg0X1lwWWJmelRuTUHSAWpBVV95cUxOUnpkeTVuclpyVUhRVF9sZHZmSV9hc2wxNFl2YmZleDFSbXNnNHpUdVc1NWR0MXhCZkZkb1ZKTThHTmtzM3BNZmhIYjdaRUZOWW1zZG16eDVIZEF4X1c0MEdxVHV2OXEtdzhR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "皮蛇",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "87a786bccf92",
-      "title": "中風後手腳灼熱痛是怎麼了？醫師解析常見4大慢性疼痛與治療- 健康新聞- PChome Online 新聞 - PChome Online 新聞",
-      "published": "2026-07-01T09:00:00+00:00",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcVY3emFTRVhpbW1RamRTTm5NckhkQTBvcmFjZWQyX0JrbzJoWWpWQm1xSkluR09tcWpmWDhfYzlvNWVEeXhpWkpFWC1IRnRSS3M2TTJGZkg4eUc2NW9hRmNaTGVYQ3VDWm9wVDBDOXdia19RSUpKaHRTRTJqYW1IaEtxUXJCbDlHNXVPUUtDSjd2aGM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }

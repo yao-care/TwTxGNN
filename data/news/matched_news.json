@@ -1,8 +1,50 @@
 {
-  "last_updated": "2026-07-02T23:11:46.771912+00:00",
+  "last_updated": "2026-07-03T02:03:49.438500+00:00",
   "total_count": 21,
-  "matched_count": 5,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "d4184f0af541",
+      "title": "血糖高一點沒關係？醫警告：平均6年恐變糖尿病！不想吃藥，現在做4件事還來得及",
+      "published": "2026-07-03T01:16:40+00:00",
+      "summary": "血糖高一點沒關係？醫警告：平均6年恐變糖尿病！不想吃藥，現在做4件事還來得及&nbsp;&nbsp;Yahoo新聞「烘焙王」不戒甜點逆轉紅字調整飲食重拾健康| 生活&nbsp;&nbsp;中央社 CNA「愛吃麵包」引發代謝症候群 58歲男戒掉一習慣逆轉糖尿病前期&nbsp;&nbsp;UDN全球5.89億人患有糖尿病！約4成患者不知確診 等到中風、心衰竭已太遲&nbsp;&nbsp;TVBS 健康2.0九成糖尿病前期患者渾然不覺 專家：血糖管理比減重更重要&nbsp;&nbsp;三立新聞網SETN.com",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxObUtEczY2Zmc4YUs5ZGdMT0hOM3lSYVlJekZyTzdUV1lHZExFVFdtUkIxalpId1MteVByUEFvaTlLYmlKcE5Kei1halBSV05WcjhlUGgxVFdaNnZ0QVJQTjIzQnVsVHFBWTBWX01vWlVHSUJRM2hhRElGTEYwMUliWlpBNmRFekRITFh2N0p0ajNqcnVFRktqN3JVSkg4dU1RbF92eXFKeDl2eE8wbmdjNEl6LUQ4ZzRUMFBLRnFhOTN5MS1Ealp5VmlBbUVrNXNMMm45UlpzeFNNcmpoQXdGX2JsOHNmVmtDajJTZ0lFajRxLUZ0UW80U3dRYzlpRFFCTGFWN0t2U09ic1VyT05SZEhzOUxNVlVSTENxclJmanZ6RmJSTEQyQnVkNmhqeFJxclM0cm1pRk1MeEwxWXFqaUNia2ZBU0paNzJCUUJ0QkR4ejNlZENBTGJjSm5SMnZ3aFE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c49f1af12ac5",
+      "title": "膠原蛋白不是只有愛美女性需要！營養師：上班族、長輩都該補充",
+      "published": "2026-07-03T00:09:02+00:00",
+      "summary": "膠原蛋白不是只有愛美女性需要！營養師：上班族、長輩都該補充&nbsp;&nbsp;Yahoo新聞天天吃膠原蛋白卻沒感覺？營養師揭「4大流失地雷」沒改掉吃再多都白費&nbsp;&nbsp;Women's Health吃膠原蛋白到底有沒有用？營養師列「生活4大地雷」小心吃了也流失&nbsp;&nbsp;優活健康網吃膠原蛋白卻狂冒痘？營養師揭真相：問題未必出在膠原蛋白&nbsp;&nbsp;台視新聞網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPSjdhYi1yWEVQOWZzUlFua1FUV0dkU3F6OVZCVXJQQ3M3QVhfeHNsbGw2cF9QUmFScHc2OFRTYklPQkE1UWl0b1AyMVlyTUR6S0dZRHV5aXZQVVl4NjlneHo1dEdNSng0eGtsZDRDcGZNZ2RPLW0zQWFId0lDbWhWWXlJX2JGcjcxMjlEWmUySzJESldDZWV0YkEyZW5GRVY5a1Y3TDlTU0hKRGFlQ0FFTklDT2oxeVViMnY2a1g1aHRQYkltQjY1N3VrcC02Z3NuQWZFMklVQ0VUQ3gwdTRDeVhUaU1yZnRKODRtNS1wVUJzaDcxcElaZHVOZmhIdzZqMmFvdTVHSTlKTWpNY041TXhFbkZtUW9sTlAzYjVWWGpiVE4yclpLYmRscmxiTHJISFlrZUwzclNZWGlMMk5Yc3d2LVBYWnBGRXljejlNUVBJbFVidTRacEdzWFRNM0VrODUtOERSZVl5YjJfbTRscGxlRU1tWVhHSWlRcG9sdEhmMVd4UTlIam1XZDM3VlE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "05e8b728bbc6",
       "title": "山西首次舉行口岸輸入性傳染病多部門協同應急演練",
@@ -354,7 +396,7 @@
       "id": "19686df669d7",
       "title": "防護中心宣布正式進入新流感季節　主要流行甲型H3",
       "published": "2026-07-02T08:18:00+00:00",
-      "summary": "防護中心宣布正式進入新流感季節 主要流行甲型H3&nbsp;&nbsp;881903.com香港今入流感高峰期 伴隨新冠病毒活躍&nbsp;&nbsp;經濟日報流感｜6歲男童染甲流和流感嗜血桿菌危殆 併發肺炎和敗血性休克&nbsp;&nbsp;香港01衞生防護中心:本港已踏入流感季節 新冠活躍程度呈上升趨勢&nbsp;&nbsp;信報網站香港已踏入流感季節 料8、9月流感活躍度仍維持較高水平&nbsp;&nbsp;香港商报",
+      "summary": "防護中心宣布正式進入新流感季節 主要流行甲型H3&nbsp;&nbsp;881903.com香港今入流感高峰期 伴隨新冠病毒活躍&nbsp;&nbsp;經濟日報流感｜6歲男童染甲流和流感嗜血桿菌危殆 併發肺炎和敗血性休克&nbsp;&nbsp;香港01香港已踏入流感季節 料8、9月流感活躍度仍維持較高水平&nbsp;&nbsp;香港商报歐家榮預料到8至9月流感活躍度仍會維持較高水平&nbsp;&nbsp;香港電台新聞網",
       "sources": [
         {
           "name": "881903.com",
@@ -377,14 +419,14 @@
       "matched_keywords": []
     },
     {
-      "id": "4b27c889a8dd",
-      "title": "醒來發現蝙蝠在臉上! 加拿大11歲男童染狂犬病死亡 症狀初期遭誤判為皰疹",
+      "id": "5def36949a1f",
+      "title": "醒來發現蝙蝠在臉上! 加拿大11歲男童染狂犬病死亡症狀初期遭誤判為皰疹| 國際",
       "published": "2026-07-02T07:49:27+00:00",
-      "summary": "醒來發現蝙蝠在臉上! 加拿大11歲男童染狂犬病死亡 症狀初期遭誤判為皰疹&nbsp;&nbsp;Yahoo新聞加拿大11歲男童「睡到一半發現蝙蝠停臉上」 不久後竟因狂犬病去世&nbsp;&nbsp;Yahoo新聞安省醫生警告：接觸蝙蝠須立即求醫&nbsp;&nbsp;大纪元男童確診狂犬病 19天後不治&nbsp;&nbsp;東森新聞11歲男童遭蝙蝠停臉上，沒發現傷口，最終竟感染狂犬病身亡&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網",
+      "summary": "醒來發現蝙蝠在臉上! 加拿大11歲男童染狂犬病死亡症狀初期遭誤判為皰疹| 國際&nbsp;&nbsp;Newtalk新聞加拿大11歲男童「睡到一半發現蝙蝠停臉上」 不久後竟因狂犬病去世&nbsp;&nbsp;Yahoo新聞安省醫生警告：接觸蝙蝠須立即求醫&nbsp;&nbsp;大纪元半夜驚醒「蝙蝠趴口鼻」！11歲男童19天後狂犬病發 中樞神經系統崩潰慘死 | 鏡週刊&nbsp;&nbsp;LINE TODAY11歲男童遭蝙蝠停臉上，沒發現傷口，最終竟感染狂犬病身亡&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxOWktrcmQ0RGN5MzZjalhBRVdJNG5OdzB2dF90X05jbmV3X3hvb0dMQXNPb0NzRm1mdWlyZUNvSUZhYTRDeDFQR1gwWjB5bVFDYWYtY3JvZTZyTTQzVVlOaFZ0STBLUlpYY29oN3ExX3AybDJNWXdWMmtYbGhOYkFodWRKSExtUkpEeDNYcUR0MWlSRzVfSEYtMFZlUGZCaUNuNUJJZWJPaGJjM2Z1LXFrYm5UMlF0NHY4d1R5Q2c3S0pxY08ySjdHUk0yMEppSHFwRS1BMHRfcTRvTzBsNTFGNGFhbEhvU1Q4UWNTM2xvNjZ3bU9lS3VfVXdSem1WUmdqX1NPQi1RUFhTaEhfVkg3UlgyS1lMSFo2MWhKQklTRmJNVERFaENEZmNndGF4QWZIaFJidEhOb0szREQ4cjJnV3lueFQ5ME55SXJMSVJZeUsyZTFoNzFqSEhMTUpOV0M0QTVZQ3RPQnA5OG5ueDFyT211akotaE5JYXZieWRXeEQycEUtcmY1WjZWbU5tUkV2alFLNXFySWRRa3pYOFBobk0xRFI4cU1VeDBwMC0tS3A2N0VKMDRuZHE4Z3RLdTFxWUlGSUtsV2FUTmNr?oc=5"
+          "name": "Newtalk新聞",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZSldjTnZxSVZlS0xVMVJJZ1RfR3BOMFlCMnpTcFpkQ1BZaFFuNV9SeEVERDV4TUpoaUloVTJpZmlJWG5uYmswNVp3WGZnYzlOdmV5Zkx5Wnpxa2s?oc=5"
         }
       ],
       "matched_keywords": []
@@ -442,14 +484,105 @@
       "matched_keywords": []
     },
     {
-      "id": "1b7388dbad21",
-      "title": "研究：血液檢測看出器官年齡 預測10年後疾病風險",
-      "published": "2026-07-02T05:49:00+00:00",
-      "summary": "研究：血液檢測看出器官年齡 預測10年後疾病風險&nbsp;&nbsp;自由健康網聞癌色變！匯集42國權威研究顯示：6種癌年增率 年輕人已超越中高齡者&nbsp;&nbsp;TVBS 健康2.0研究：年輕世代「生物性老化」加速 或與癌症年輕化現象有關&nbsp;&nbsp;UDN癌症治好還不夠？年輕癌友慢性病風險增2.3倍！&nbsp;&nbsp;中時新聞網罹癌要跟年邁父母說嗎？癌症年輕化中年患者陷兩難 醫：先思考2個問題&nbsp;&nbsp;草根影響力新視野",
+      "id": "fe019be70eb3",
+      "title": "打皮蛇疫苗還有這好處 逾50萬人研究：失智風險降24％",
+      "published": "2026-07-02T03:54:00+00:00",
+      "summary": "打皮蛇疫苗還有這好處 逾50萬人研究：失智風險降24％&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFaC1yenUtdW5ETGU0VTBXSUtJMlNsTGxCazRXVUc2YUZjSUVZbURERUNEelliS2p1aFZMdy11b0E0RzJpUlNrU0FjWW5sYTBqZkNZX2ZXNTAtSlhCTGlXeTdQLV_SAWpBVV95cUxQNktWcWNjYTNBM2R4WU5aM29jSTVYNm83RzFhY2x6VWowdnVHN2NmZHQzS2s5OTVsRHIxeHVXcGZpTU9mUTZqdUdOemRVS2VQbG9MOUprQlBoSGhDSndUTVFyZ1dhUnNaTjJ3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oOVh2akxLTjZseXJudHJKWXBKd3NwUkFNcVo5MWdEekJPczF1MjBIQUJyTV9TTVVPcEoxZXR6eEZvV2lvdzBETEJBd0ROOGhHRU82RFRFWGg0X1lwWWJmelRuTUHSAWpBVV95cUxOUnpkeTVuclpyVUhRVF9sZHZmSV9hc2wxNFl2YmZleDFSbXNnNHpUdVc1NWR0MXhCZkZkb1ZKTThHTmtzM3BNZmhIYjdaRUZOWW1zZG16eDVIZEF4X1c0MEdxVHV2OXEtdzhR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "皮蛇",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "51ae7229ecbb",
+      "title": "醫學新發現 日研究：多發性硬化症 腸道扮演關鍵角色",
+      "published": "2026-07-02T03:30:00+00:00",
+      "summary": "醫學新發現 日研究：多發性硬化症 腸道扮演關鍵角色&nbsp;&nbsp;AM730多發性硬化症關鍵是它！研究：腸道扮演特殊角色&nbsp;&nbsp;自由健康網照護線上》從長期用藥到免疫重建療法，多發性硬化症治療模式的轉變與新選擇，專科醫師圖文解說&nbsp;&nbsp;自由評論網",
+      "sources": [
+        {
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pdjkwQWhrUVUxUnVIRkVheWZYQm45ai1VQmUzUE1sa0NtbjF0alJZM1QxVlM4c0JOd0Y1dlJlR0JvU3BwQXB0QnRhUHhGeFlMTnc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ea6d628d0815",
+      "title": "食戒煙香口膠唔可以飲果汁？拆解3大戒煙藥物禁忌",
+      "published": "2026-07-01T20:00:00+00:00",
+      "summary": "食戒煙香口膠唔可以飲果汁？拆解3大戒煙藥物禁忌&nbsp;&nbsp;AM730",
+      "sources": [
+        {
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yUjh1VmJfRmJ3YjZ4REYwaWZDaHlIV2I3WlJwNWM1dUJsN2hqb3hiT0dvanJaeTRfcGlPOFFNS2FZUEJDZlgtUlc5bWg0eXFPYUE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "87a786bccf92",
+      "title": "中風後手腳灼熱痛是怎麼了？醫師解析常見4大慢性疼痛與治療- 健康新聞- PChome Online 新聞 - PChome Online 新聞",
+      "published": "2026-07-01T09:00:00+00:00",
+      "summary": "中風後手腳灼熱痛是怎麼了？醫師解析常見4大慢性疼痛與治療- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcVY3emFTRVhpbW1RamRTTm5NckhkQTBvcmFjZWQyX0JrbzJoWWpWQm1xSkluR09tcWpmWDhfYzlvNWVEeXhpWkpFWC1IRnRSS3M2TTJGZkg4eUc2NW9hRmNaTGVYQ3VDWm9wVDBDOXdia19RSUpKaHRTRTJqYW1IaEtxUXJCbDlHNXVPUUtDSjd2aGM?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0261b7804fc7",
+      "title": "你可能比爸媽同年齡時老得更快 頂尖研究：恐與年輕人罹癌增加有關",
+      "published": "2026-07-01T08:32:00+00:00",
+      "summary": "你可能比爸媽同年齡時老得更快 頂尖研究：恐與年輕人罹癌增加有關&nbsp;&nbsp;自由健康網研究：血液檢測看出器官年齡 預測10年後疾病風險&nbsp;&nbsp;自由健康網聞癌色變！匯集42國權威研究顯示：6種癌年增率 年輕人已超越中高齡者&nbsp;&nbsp;TVBS 健康2.0研究：年輕世代「生物性老化」加速 或與癌症年輕化現象有關&nbsp;&nbsp;UDN癌症治好還不夠？年輕癌友慢性病風險增2.3倍！&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wRnFEbTFIRnBxY3VRalUzZ25YbDkxXzdNYlc3YlJXWmNNM09EYlBzaHlsZmlKMzdvRTlsaDE0TmgzYzBvRGlaTnY2dFFrY0xLdG80dzFkQUZVbmNvSHMxRHEtQjDSAWpBVV95cUxQWDBxNXY0VktVazJNT3F1dU0zMlNHTzdkTUxOVkw5Wlp0RGxsckxhVFFUMnYyUW9HUVBIZHhfQmNvTTJNUmMzOEM1N0NrWHliV1JQdjJJaHM5NTVFbnVUOGF5ZlZDVTEtTnRR?oc=5"
         }
       ],
       "matched_keywords": [
@@ -651,110 +784,6 @@
       ]
     },
     {
-      "id": "fe019be70eb3",
-      "title": "打皮蛇疫苗還有這好處 逾50萬人研究：失智風險降24％",
-      "published": "2026-07-02T03:54:00+00:00",
-      "summary": "打皮蛇疫苗還有這好處 逾50萬人研究：失智風險降24％&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oOVh2akxLTjZseXJudHJKWXBKd3NwUkFNcVo5MWdEekJPczF1MjBIQUJyTV9TTVVPcEoxZXR6eEZvV2lvdzBETEJBd0ROOGhHRU82RFRFWGg0X1lwWWJmelRuTUHSAWpBVV95cUxOUnpkeTVuclpyVUhRVF9sZHZmSV9hc2wxNFl2YmZleDFSbXNnNHpUdVc1NWR0MXhCZkZkb1ZKTThHTmtzM3BNZmhIYjdaRUZOWW1zZG16eDVIZEF4X1c0MEdxVHV2OXEtdzhR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "皮蛇",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "51ae7229ecbb",
-      "title": "醫學新發現 日研究：多發性硬化症 腸道扮演關鍵角色",
-      "published": "2026-07-02T03:30:00+00:00",
-      "summary": "醫學新發現 日研究：多發性硬化症 腸道扮演關鍵角色&nbsp;&nbsp;AM730多發性硬化症關鍵是它！研究：腸道扮演特殊角色&nbsp;&nbsp;自由健康網照護線上》從長期用藥到免疫重建療法，多發性硬化症治療模式的轉變與新選擇，專科醫師圖文解說&nbsp;&nbsp;自由評論網",
-      "sources": [
-        {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pdjkwQWhrUVUxUnVIRkVheWZYQm45ai1VQmUzUE1sa0NtbjF0alJZM1QxVlM4c0JOd0Y1dlJlR0JvU3BwQXB0QnRhUHhGeFlMTnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ea6d628d0815",
-      "title": "食戒煙香口膠唔可以飲果汁？拆解3大戒煙藥物禁忌",
-      "published": "2026-07-01T20:00:00+00:00",
-      "summary": "食戒煙香口膠唔可以飲果汁？拆解3大戒煙藥物禁忌&nbsp;&nbsp;AM730",
-      "sources": [
-        {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yUjh1VmJfRmJ3YjZ4REYwaWZDaHlIV2I3WlJwNWM1dUJsN2hqb3hiT0dvanJaeTRfcGlPOFFNS2FZUEJDZlgtUlc5bWg0eXFPYUE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f46c2ad2f736",
-      "title": "天天吃膠原蛋白卻沒感覺？營養師揭「4大流失地雷」沒改掉吃再多都白費 - Women's Health",
-      "published": "2026-07-01T11:53:35+00:00",
-      "summary": "天天吃膠原蛋白卻沒感覺？營養師揭「4大流失地雷」沒改掉吃再多都白費&nbsp;&nbsp;Women's Health",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcjN6N0E2c29zWWtEQUp5TTJMdndncEF0cDk0X0N4ZjRRNkdMNkVTZ05DN2VUZ3pqRnBveFpBUHpwcmp4TWcwMWNrTHBMbWxEZjFpYVRXRG9yeFdNTTJXRmVOQURyYTUyUm1xaWJqcWNBcUJPSnNlTE5vdDZCMHQ1NUJ5dEdBNWZhWDNj?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "87a786bccf92",
-      "title": "中風後手腳灼熱痛是怎麼了？醫師解析常見4大慢性疼痛與治療- 健康新聞- PChome Online 新聞 - PChome Online 新聞",
-      "published": "2026-07-01T09:00:00+00:00",
-      "summary": "中風後手腳灼熱痛是怎麼了？醫師解析常見4大慢性疼痛與治療- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcVY3emFTRVhpbW1RamRTTm5NckhkQTBvcmFjZWQyX0JrbzJoWWpWQm1xSkluR09tcWpmWDhfYzlvNWVEeXhpWkpFWC1IRnRSS3M2TTJGZkg4eUc2NW9hRmNaTGVYQ3VDWm9wVDBDOXdia19RSUpKaHRTRTJqYW1IaEtxUXJCbDlHNXVPUUtDSjd2aGM?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "625078286725",
       "title": "「醫生妳小心，我有HIV！」急診懷孕醫師感動讚：暖男…真相讓網友大改觀",
       "published": "2026-07-01T06:54:05+00:00",
@@ -776,19 +805,6 @@
         {
           "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPZ2NOX1NhbkZOLWVwWmJ2ZzdOV0FLU01ya045XzNkZUlCY0JzRUtMdXA0QU9oU0RGODFPRVNDSkZ4OFkwZjJIQ2ZJaHdSX1g3a21Ja1NteUt6bUJXWG1SeEVaTDBiOVcxd2NtODhyaFhHNnNKVEd4bFFwQUtmVXdseDdYMC1hVWZoenJDaEpBVFlOMGFILS1BRlZCVmdVUEVwN0ZPU0o3U2pTZDZjT3IxMzNDeVRKamRfMVhRZHVKdDhUQlkwVHhpVnhYMWVuZ3pEbV9PUmRmSi1tcXZXVFMwN3lnSURmd1dlakl4NUVLc0tyb2Z5Q2JJVXk5Z1RZUEh6clg0MFN0RmgxVzQ1b1Vqb2ZLdWt6LUFiSlduRlpfUHZ5VkpvSmVoVkJXN2dHemJaeFZCU3cxYzM1MUZKMUZWd0dNZUN4Vk12NENqWTVzNzYzcVBrcXFCWkxnNUJDNWprOXpaZm9EV1Y3WUhzZXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "794615fd6dbc",
-      "title": "醫起看／生病不是軟弱！男高材生確診卻用這招逆轉人生",
-      "published": "2026-07-01T00:39:00+00:00",
-      "summary": "醫起看／生病不是軟弱！男高材生確診卻用這招逆轉人生&nbsp;&nbsp;東森新聞",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4X1ZFRFBSMEdHZGxLQXNQZldUbDlyNnNWbVdXLU9JUmN2RUJQNzBCZTJhZjM2QnBBX0tHb1F2enBwZjdPQWZyY1hQTEY0WmVXQW9xRA?oc=5"
         }
       ],
       "matched_keywords": []

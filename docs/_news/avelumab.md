@@ -52,19 +52,19 @@ permalink: /news/avelumab/
 
 ---
 
-### [研究：血液檢測看出器官年齡 預測10年後疾病風險](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFaC1yenUtdW5ETGU0VTBXSUtJMlNsTGxCazRXVUc2YUZjSUVZbURERUNEelliS2p1aFZMdy11b0E0RzJpUlNrU0FjWW5sYTBqZkNZX2ZXNTAtSlhCTGlXeTdQLV_SAWpBVV95cUxQNktWcWNjYTNBM2R4WU5aM29jSTVYNm83RzFhY2x6VWowdnVHN2NmZHQzS2s5OTVsRHIxeHVXcGZpTU9mUTZqdUdOemRVS2VQbG9MOUprQlBoSGhDSndUTVFyZ1dhUnNaTjJ3?oc=5)
-
-2026-07-02 <span class="news-indication-tag">癌症</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFaC1yenUtdW5ETGU0VTBXSUtJMlNsTGxCazRXVUc2YUZjSUVZbURERUNEelliS2p1aFZMdy11b0E0RzJpUlNrU0FjWW5sYTBqZkNZX2ZXNTAtSlhCTGlXeTdQLV_SAWpBVV95cUxQNktWcWNjYTNBM2R4WU5aM29jSTVYNm83RzFhY2x6VWowdnVHN2NmZHQzS2s5OTVsRHIxeHVXcGZpTU9mUTZqdUdOemRVS2VQbG9MOUprQlBoSGhDSndUTVFyZ1dhUnNaTjJ3?oc=5)
-
----
-
 ### [打皮蛇疫苗還有這好處 逾50萬人研究：失智風險降24％](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oOVh2akxLTjZseXJudHJKWXBKd3NwUkFNcVo5MWdEekJPczF1MjBIQUJyTV9TTVVPcEoxZXR6eEZvV2lvdzBETEJBd0ROOGhHRU82RFRFWGg0X1lwWWJmelRuTUHSAWpBVV95cUxOUnpkeTVuclpyVUhRVF9sZHZmSV9hc2wxNFl2YmZleDFSbXNnNHpUdVc1NWR0MXhCZkZkb1ZKTThHTmtzM3BNZmhIYjdaRUZOWW1zZG16eDVIZEF4X1c0MEdxVHV2OXEtdzhR?oc=5)
 
 2026-07-02 <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">失智</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oOVh2akxLTjZseXJudHJKWXBKd3NwUkFNcVo5MWdEekJPczF1MjBIQUJyTV9TTVVPcEoxZXR6eEZvV2lvdzBETEJBd0ROOGhHRU82RFRFWGg0X1lwWWJmelRuTUHSAWpBVV95cUxOUnpkeTVuclpyVUhRVF9sZHZmSV9hc2wxNFl2YmZleDFSbXNnNHpUdVc1NWR0MXhCZkZkb1ZKTThHTmtzM3BNZmhIYjdaRUZOWW1zZG16eDVIZEF4X1c0MEdxVHV2OXEtdzhR?oc=5)
+
+---
+
+### [你可能比爸媽同年齡時老得更快 頂尖研究：恐與年輕人罹癌增加有關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wRnFEbTFIRnBxY3VRalUzZ25YbDkxXzdNYlc3YlJXWmNNM09EYlBzaHlsZmlKMzdvRTlsaDE0TmgzYzBvRGlaTnY2dFFrY0xLdG80dzFkQUZVbmNvSHMxRHEtQjDSAWpBVV95cUxQWDBxNXY0VktVazJNT3F1dU0zMlNHTzdkTUxOVkw5Wlp0RGxsckxhVFFUMnYyUW9HUVBIZHhfQmNvTTJNUmMzOEM1N0NrWHliV1JQdjJJaHM5NTVFbnVUOGF5ZlZDVTEtTnRR?oc=5)
+
+2026-07-01 <span class="news-indication-tag">癌症</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wRnFEbTFIRnBxY3VRalUzZ25YbDkxXzdNYlc3YlJXWmNNM09EYlBzaHlsZmlKMzdvRTlsaDE0TmgzYzBvRGlaTnY2dFFrY0xLdG80dzFkQUZVbmNvSHMxRHEtQjDSAWpBVV95cUxQWDBxNXY0VktVazJNT3F1dU0zMlNHTzdkTUxOVkw5Wlp0RGxsckxhVFFUMnYyUW9HUVBIZHhfQmNvTTJNUmMzOEM1N0NrWHliV1JQdjJJaHM5NTVFbnVUOGF5ZlZDVTEtTnRR?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [血糖高一點沒關係？醫警告：平均6年恐變糖尿病！不想吃藥，現在做4件事還來得及](https://news.google.com/rss/articles/CBMi4gJBVV95cUxObUtEczY2Zmc4YUs5ZGdMT0hOM3lSYVlJekZyTzdUV1lHZExFVFdtUkIxalpId1MteVByUEFvaTlLYmlKcE5Kei1halBSV05WcjhlUGgxVFdaNnZ0QVJQTjIzQnVsVHFBWTBWX01vWlVHSUJRM2hhRElGTEYwMUliWlpBNmRFekRITFh2N0p0ajNqcnVFRktqN3JVSkg4dU1RbF92eXFKeDl2eE8wbmdjNEl6LUQ4ZzRUMFBLRnFhOTN5MS1Ealp5VmlBbUVrNXNMMm45UlpzeFNNcmpoQXdGX2JsOHNmVmtDajJTZ0lFajRxLUZ0UW80U3dRYzlpRFFCTGFWN0t2U09ic1VyT05SZEhzOUxNVlVSTENxclJmanZ6RmJSTEQyQnVkNmhqeFJxclM0cm1pRk1MeEwxWXFqaUNia2ZBU0paNzJCUUJ0QkR4ejNlZENBTGJjSm5SMnZ3aFE?oc=5)
+
+2026-07-03 <span class="news-indication-tag">中風</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi4gJBVV95cUxObUtEczY2Zmc4YUs5ZGdMT0hOM3lSYVlJekZyTzdUV1lHZExFVFdtUkIxalpId1MteVByUEFvaTlLYmlKcE5Kei1halBSV05WcjhlUGgxVFdaNnZ0QVJQTjIzQnVsVHFBWTBWX01vWlVHSUJRM2hhRElGTEYwMUliWlpBNmRFekRITFh2N0p0ajNqcnVFRktqN3JVSkg4dU1RbF92eXFKeDl2eE8wbmdjNEl6LUQ4ZzRUMFBLRnFhOTN5MS1Ealp5VmlBbUVrNXNMMm45UlpzeFNNcmpoQXdGX2JsOHNmVmtDajJTZ0lFajRxLUZ0UW80U3dRYzlpRFFCTGFWN0t2U09ic1VyT05SZEhzOUxNVlVSTENxclJmanZ6RmJSTEQyQnVkNmhqeFJxclM0cm1pRk1MeEwxWXFqaUNia2ZBU0paNzJCUUJ0QkR4ejNlZENBTGJjSm5SMnZ3aFE?oc=5)
+
+---
 
 ### [國民美食竟是健康炸彈營養師：心臟病、癌症、失智都和它有關- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE40VHRKSHB3d2FEQ1IzX3dkZHZjTWR0NW5LekVnRjd3Q0RJLVQxdTQ0bFkwUjFXVnAwTUE2NWZyVW8tTUpRdEIxMk1USllnNEdZMmd3Q0FxMm56bi1abFhCYmM4WTQya0ZTYjlUT2hn?oc=5)
 
