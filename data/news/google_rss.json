@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-03T19:03:20.548814+00:00",
-  "count": 28,
+  "fetched_at": "2026-07-03T20:53:51.785664+00:00",
+  "count": 27,
   "news": [
+    {
+      "id": "8596c446909b",
+      "title": "豆漿加1食材能抗發炎！研究證實：4週「降低3發炎指標」 - 三立新聞網SETN.com",
+      "published": "2026-07-03T12:17:31+00:00",
+      "summary": "豆漿加1食材能抗發炎！研究證實：4週「降低3發炎指標」&nbsp;&nbsp;三立新聞網SETN.com健康網》番茄不只抗氧化 研究：加碼「1 物」還能抗發炎&nbsp;&nbsp;自由健康網世界上最健康水果是它！「番茄」營養價值更勝蘋果、香蕉，抗氧化還能降低罹癌風險&nbsp;&nbsp;ELLE慢性發炎百病上身每天喝番茄豆漿4周有感改善- 健康&nbsp;&nbsp;中時新聞網番茄功效｜加1物茄紅素增3倍抗發炎4周見效！最佳3配搭防前列腺癌&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RLVYxS1pEeEtvWklmTEpFWDR2alh0SUtWN29GT3dyNUQ2V1hWVGVTQTF3MW16S2VwcmtTUl9HcEJpYWlmRFIwaDFMblg?oc=5"
+        }
+      ]
+    },
     {
       "id": "6d161a75b148",
       "title": "40歲男對嘴喝罐裝飲料感染漢他病毒 醫教最簡單預防方式 - Yahoo新聞",
@@ -16,26 +28,14 @@
       ]
     },
     {
-      "id": "8596c446909b",
-      "title": "豆漿加1食材能抗發炎！研究證實：4週「降低3發炎指標」 - 三立新聞網SETN.com",
-      "published": "2026-07-03T12:17:31+00:00",
-      "summary": "豆漿加1食材能抗發炎！研究證實：4週「降低3發炎指標」&nbsp;&nbsp;三立新聞網SETN.com健康網》番茄不只抗氧化 研究：加碼「1 物」還能抗發炎&nbsp;&nbsp;自由健康網慢性發炎百病上身每天喝番茄豆漿4周有感改善- 健康&nbsp;&nbsp;中時新聞網番茄功效｜加1物茄紅素增3倍抗發炎4周見效！最佳3配搭防前列腺癌&nbsp;&nbsp;香港01每天355c.c就有效！醫曝「番茄豆漿」抗發炎 3大指標明顯下降&nbsp;&nbsp;TVBS新聞網",
+      "id": "559e8e81e707",
+      "title": "禁慾沒用！「3件事」真能提升睪固酮 - 鏡週刊Mirror Media",
+      "published": "2026-07-03T07:56:00+00:00",
+      "summary": "禁慾沒用！「3件事」真能提升睪固酮&nbsp;&nbsp;鏡週刊Mirror Media健康網》禁慾沒用！ 醫曝3件無聊小事真正助攻男性雄風&nbsp;&nbsp;自由健康網禁慾不會變強！醫師曝「做好3件無聊小事」最重要&nbsp;&nbsp;ETtoday新聞雲禁慾7天睪固酮暴增145％？ 醫潑冷水：不如做好3件事- 健康&nbsp;&nbsp;中時新聞網禁慾沒用！「3件事」真能提升睪固酮：第一項免流汗、最有效&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RLVYxS1pEeEtvWklmTEpFWDR2alh0SUtWN29GT3dyNUQ2V1hWVGVTQTF3MW16S2VwcmtTUl9HcEJpYWlmRFIwaDFMblg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e0fcd623fb16",
-      "title": "健康網》禁慾沒用！ 醫曝3件無聊小事真正助攻男性雄風 - 自由健康網",
-      "published": "2026-07-03T13:01:00+00:00",
-      "summary": "健康網》禁慾沒用！ 醫曝3件無聊小事真正助攻男性雄風&nbsp;&nbsp;自由健康網禁慾不會變強！醫師曝「做好3件無聊小事」最重要&nbsp;&nbsp;ETtoday新聞雲禁慾7天睪固酮暴增145％？ 醫潑冷水：不如做好3件事- 健康&nbsp;&nbsp;中時新聞網禁慾沒用！「3件事」真能提升睪固酮：第一項免流汗、最有效&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45QUhDdkx1bVRiYzJ0VnBkV2duRGpfcmpodzJENnRlNnMzNXctbEpsSjFBUlVpTUQ5TzdiUXdUNFo4UWxMUF9VNTR1b0hPM0kxT2p1QzVDaDRTYnNmTmRzTkRYZi3SAWpBVV95cUxOcDN2aXJIM21XNUVUZFZDTnFpZEJGSjNRbDkyMjZyRVNBX1ZDc3lHOERCVk1TYmU4SFo3d0dwSzBLRUZ3OUVBNktZNjc4WW1Zb0xleUxxa2w5dlpLcVMwVzNzRjJSb205UWpR?oc=5"
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1YWJNaldRWTVmaGwwMks0SEdGbnpNX1VrbzhjX1lrR2c4Nzc4NUlwR2FhcWQxVmsxeU5sYUJ3Mlk5dDItMkpnSXFrajdpbTZXajBZc1ZhTmtWaDlu0gFiQVVfeXFMT0JtYlQxZXhvMGhneE51MjZtbGhtTnNQTUFOaHhxRUwzMDVmbFBLTjBPa1A1SmZvcDQ0b29pa2NtTnpEeG5GUjlXTDVYbW5GWG9rYy1WcUxZZFNqLXRSX2YwYnc?oc=5"
         }
       ]
     },
@@ -112,18 +112,6 @@
       ]
     },
     {
-      "id": "f84f2bd7f6e7",
-      "title": "她亂擠痘「上唇腫到鼻樑」送急診！醫揭危險三角區：細菌恐侵腦 - Yahoo新聞",
-      "published": "2026-07-03T07:34:00+00:00",
-      "summary": "她亂擠痘「上唇腫到鼻樑」送急診！醫揭危險三角區：細菌恐侵腦&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQekRXRkcyV0d3T21ISkhqZUxaQjkyM1REM1JELURmVUJxRkc4bTRHbmpaYkNPTWpzU3JRQ3V6R0pqN1A4WFFWVlZYRW1FN1hIV0VRbDQ4STAwc2ZsN0NtcFB2eW5KRnN5VzQ2eERyd1NTdXZGYTZjcHNVd05RRnNDMklrejdudWdJeWpTMjVVdnBrclhyeFQzOUNEal82VHNMSTdBNTV2a3E3VDV0U1h0aXRYYWVRdE5OLXc4V2pHbGpMZUxlVGhLOFJPUGNHVzZmaVVVeWM5NXdvbWVpdzVqb29zVXJ3YmJ4RE42S1R2M2tnZWZhdG15TVJwNWhFQVVCY0dtc29fRjlEdkJPUVdXVzYzSHN3djdsdkhaNVpUSVJhM1dGTkdsQkcycXFyb0FNOXhsZXFUTnJSWnZ4U0R5elVlTkVXbWw2T2pZbXhqNkV2Yk1MZEdzOW5IREo3dlVhRGdCc2dNLUVvc3pkZ01uWTJ3UURmT3FCcHNGQkNIdTVIUUt4?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fe019be70eb3",
       "title": "打皮蛇疫苗還有這好處 逾50萬人研究：失智風險降24％ - 自由健康網",
       "published": "2026-07-02T03:54:00+00:00",
@@ -196,13 +184,13 @@
       ]
     },
     {
-      "id": "5f388ed82658",
-      "title": "暑假旅遊慎防傳染病 衞生署籲出發前瀏覽網站查閱旅遊健康資訊 - bastillepost.com",
+      "id": "475cbdc70045",
+      "title": "暑假旅遊慎防傳染病 衞生署籲出發前瀏覽網站查閱旅遊健康資訊 - 巴士的報",
       "published": "2026-07-02T07:08:12+00:00",
-      "summary": "暑假旅遊慎防傳染病 衞生署籲出發前瀏覽網站查閱旅遊健康資訊&nbsp;&nbsp;bastillepost.com衛生署：暑假外遊，慎防麻疹和伊波拉等傳染病&nbsp;&nbsp;香港商报衞生防護中心提醒市民暑假外遊須預防傳染病&nbsp;&nbsp;香港電台新聞網麻疹疫情在全球蔓延 尤其在歐洲地區加劇 - 生活新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞伊波拉疫區返港市民 衞生署籲主動申報&nbsp;&nbsp;星島頭條",
+      "summary": "暑假旅遊慎防傳染病 衞生署籲出發前瀏覽網站查閱旅遊健康資訊&nbsp;&nbsp;巴士的報衛生署：暑假外遊，慎防麻疹和伊波拉等傳染病&nbsp;&nbsp;香港商报衞生防護中心提醒市民暑假外遊須預防傳染病&nbsp;&nbsp;香港電台新聞網麻疹疫情在全球蔓延 尤其在歐洲地區加劇 - 生活新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞伊波拉疫區返港市民 衞生署籲主動申報&nbsp;&nbsp;星島頭條",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPWGlxY0RrNWdldW9SMGp2ZXpyb1E5YWhTeEpXdWJtU3BKc0paNThLelpHSDlYV2ZxRXZweXl1bnpXRjZzTkxOVHBZSHZDd2hqdW5xNUMyZVMwR2Y1S2FLLWVWM2RISXNhWHBrUkt1MG96b01RdGU0WXJzT052Q2hOWVo5aWZoNFlMdjNlUkRhcXF2MVpaN1Q4a3hsT3Z0UzVoTDNtN1Q4U0N0MFh6TF8xcHdHWUw5a0lqRi0zejdCOXpOY1VYSW1WU2JOb29IN0wySTl4RGtPaTlHWFRkc2cyYVNoTW5XYlFGZHVEOVVsanRSQ2ttOHh0blNkUHpRZ3JBYUdWdmVNNTcybE01R2UtVVg2QzVITmthcG5IVU5CRE1oX0ZFMjRyY0xrMkJydW5scW1MNzNsYU9aal84ZktFRm4zb2ZuQTEyRFFCT0UyY2s5dzlUYXFXNXNCaEE3aUNUbDF5UkxsNlgwNUY3YVlR?oc=5"
         }
       ]
@@ -232,18 +220,6 @@
       ]
     },
     {
-      "id": "4705726e983f",
-      "title": "深圳羅湖區人民醫院舉辦艾滋病及重點感染性疾病專項培訓 - 香港商报",
-      "published": "2026-07-03T07:29:00+00:00",
-      "summary": "深圳羅湖區人民醫院舉辦艾滋病及重點感染性疾病專項培訓&nbsp;&nbsp;香港商报",
-      "sources": [
-        {
-          "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95emlTX2tRdmxOREZsdE5sdWF0Mmt5b0VyTVBIdjBpbE1pSk5ubm40a2RvT3YwWFZoU0stZ1hTa09iNGFwd2dZRGhUcHhYT0I2RXRWalpzbE5SSzZ1eExuUWZkMURZN19JZGtZdXd1YzV2ODNZM3IxTXNMYw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8ab8c8c9089d",
       "title": "吸煙招肺癌 致慢阻肺病不可逆轉 傷肺咳嗽呼吸困難 物理治療助紓緩 - 明報健康網",
       "published": "2026-07-03T07:54:47+00:00",
@@ -252,6 +228,18 @@
         {
           "name": "明報健康網",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPMUVDTGVqNnJBTG9Cakozcl9XeFhZZXdpRl9scVdQeFZ5ZlNOM1VrN1d4eTIzY2JOUTJxWXZwVy1kZHdMQ1hlX1h3eFlsdXkzTU5oUEt6eWRmSzktRzk2WmJmU2xCUjFBcnBaaGtqX2EzblZJSWtfR2VnNDFUaHRlZGlIeWRfWmxVUU41V29SY3dPTWJOTUNQZjhGSEN5ZHNEaTN6RGk5LUJwYXV4M2EyODdkVnJ4cFBjM05SLXhaOW8tYTlqZDdfUElBWU1zRktkY1MzTGlJSGhhaVNSeTZBOG5zOHNybk1vWl9HejZOc3RrZVdaLVlUZlZJQ0xHRmVzQW5qVGUxMGtEWWs3aERQTENQeWJENmJfWndiYkFNNkhjVUVQTzFWLVVjejMwakIyNWt4M1BXbnk5cFNnOTV2NUxJNUxDZlBuMTZ4cA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4705726e983f",
+      "title": "深圳羅湖區人民醫院舉辦艾滋病及重點感染性疾病專項培訓 - 香港商报",
+      "published": "2026-07-03T07:29:00+00:00",
+      "summary": "深圳羅湖區人民醫院舉辦艾滋病及重點感染性疾病專項培訓&nbsp;&nbsp;香港商报",
+      "sources": [
+        {
+          "name": "香港商报",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95emlTX2tRdmxOREZsdE5sdWF0Mmt5b0VyTVBIdjBpbE1pSk5ubm40a2RvT3YwWFZoU0stZ1hTa09iNGFwd2dZRGhUcHhYT0I2RXRWalpzbE5SSzZ1eExuUWZkMURZN19JZGtZdXd1YzV2ODNZM3IxTXNMYw?oc=5"
         }
       ]
     },
