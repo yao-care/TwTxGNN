@@ -14,7 +14,7 @@ permalink: /news/durvalumab/
 ---
 
 <p class="key-answer" data-question="Durvalumab 有什麼相關新聞？">
-<strong>Durvalumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Durvalumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,23 +42,9 @@ permalink: /news/durvalumab/
 <p><a href="{{ '/drugs/durvalumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [國民美食竟是健康炸彈營養師：心臟病、癌症、失智都和它有關- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE40VHRKSHB3d2FEQ1IzX3dkZHZjTWR0NW5LekVnRjd3Q0RJLVQxdTQ0bFkwUjFXVnAwTUE2NWZyVW8tTUpRdEIxMk1USllnNEdZMmd3Q0FxMm56bi1abFhCYmM4WTQya0ZTYjlUT2hn?oc=5)
-
-2026-07-02 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">失智</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE40VHRKSHB3d2FEQ1IzX3dkZHZjTWR0NW5LekVnRjd3Q0RJLVQxdTQ0bFkwUjFXVnAwTUE2NWZyVW8tTUpRdEIxMk1USllnNEdZMmd3Q0FxMm56bi1abFhCYmM4WTQya0ZTYjlUT2hn?oc=5)
-
----
-
-### [你可能比爸媽同年齡時老得更快 頂尖研究：恐與年輕人罹癌增加有關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wRnFEbTFIRnBxY3VRalUzZ25YbDkxXzdNYlc3YlJXWmNNM09EYlBzaHlsZmlKMzdvRTlsaDE0TmgzYzBvRGlaTnY2dFFrY0xLdG80dzFkQUZVbmNvSHMxRHEtQjDSAWpBVV95cUxQWDBxNXY0VktVazJNT3F1dU0zMlNHTzdkTUxOVkw5Wlp0RGxsckxhVFFUMnYyUW9HUVBIZHhfQmNvTTJNUmMzOEM1N0NrWHliV1JQdjJJaHM5NTVFbnVUOGF5ZlZDVTEtTnRR?oc=5)
-
-2026-07-01 <span class="news-indication-tag">癌症</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wRnFEbTFIRnBxY3VRalUzZ25YbDkxXzdNYlc3YlJXWmNNM09EYlBzaHlsZmlKMzdvRTlsaDE0TmgzYzBvRGlaTnY2dFFrY0xLdG80dzFkQUZVbmNvSHMxRHEtQjDSAWpBVV95cUxQWDBxNXY0VktVazJNT3F1dU0zMlNHTzdkTUxOVkw5Wlp0RGxsckxhVFFUMnYyUW9HUVBIZHhfQmNvTTJNUmMzOEM1N0NrWHliV1JQdjJJaHM5NTVFbnVUOGF5ZlZDVTEtTnRR?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
