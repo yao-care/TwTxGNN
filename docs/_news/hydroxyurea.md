@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [卵巢癌｜27歲YouTuber曉欣抗癌9個月 「癌細胞清零」歷剃光頭割巨瘤難關 感謝網友力量伴度難關](https://news.google.com/rss/articles/CBMigARBVV95cUxQR2ZXcFBuaUZkMVMyZ1JQVTU4NjZINEtqUGlMVGJjNjdKU2lfZDhldFNaREpSM2xrRWZic1M1UEc3NFZHTkpWcHdIaUdhRzd4dXZfYnBPZWNqZ3NVZTRGZ1RmaFh0eWxLOV9BZl9na3cyUXBCUnlZWnZ4WURJMzlLdjd6TmdfU3F6LWt3cFRCZFdOS2lWRUp5bWxaenVCVnBBd2pnSU02SVRqaV9JdC03TklpSVpWWEdiVXNqNi1pY3JPQU85N2dsUkRQbmRIR3pac2pwUXBGZWh4Rl9za0l1WjRqakdUSS1BQko4cTlCNDhrb2Zrb3pWUzJYRElVVENqRllPTDFwME4tWG1fSFhhMWVQcWFxTFZMenBJMzhMRExfODJhT1Z6WXRMbGF1dmc4a0dpNWxGa0RFZlQ0ZDZmbWx2QlViY1ExY0puOGdQaTREamoyZzU0cGZtYWZPM04xMWIyeHNxaFVSTGxZTXAtUXU3ekg1Y0FrbWhITjNoeG8wSnFIUVlpVVo1bW16cUg4T3JRN1NyVVRkZ01hY2RPaC1PYVlpOVdNN1BQTmUxVUVsTUZVd1RmV1oyVDJhd3N1S1JKbURiX0VsSHZmb2xNUnp6YVpieXdQRjFaUzJ2aWxTdHZkYjh2RDZiRjRVZDFJeXlRVDJ4VHl4VjA0T0gyRg?oc=5)
 
 2026-07-03 <span class="news-indication-tag">卵巢癌</span>
 
 來源：[星島頭條](https://news.google.com/rss/articles/CBMigARBVV95cUxQR2ZXcFBuaUZkMVMyZ1JQVTU4NjZINEtqUGlMVGJjNjdKU2lfZDhldFNaREpSM2xrRWZic1M1UEc3NFZHTkpWcHdIaUdhRzd4dXZfYnBPZWNqZ3NVZTRGZ1RmaFh0eWxLOV9BZl9na3cyUXBCUnlZWnZ4WURJMzlLdjd6TmdfU3F6LWt3cFRCZFdOS2lWRUp5bWxaenVCVnBBd2pnSU02SVRqaV9JdC03TklpSVpWWEdiVXNqNi1pY3JPQU85N2dsUkRQbmRIR3pac2pwUXBGZWh4Rl9za0l1WjRqakdUSS1BQko4cTlCNDhrb2Zrb3pWUzJYRElVVENqRllPTDFwME4tWG1fSFhhMWVQcWFxTFZMenBJMzhMRExfODJhT1Z6WXRMbGF1dmc4a0dpNWxGa0RFZlQ0ZDZmbWx2QlViY1ExY0puOGdQaTREamoyZzU0cGZtYWZPM04xMWIyeHNxaFVSTGxZTXAtUXU3ekg1Y0FrbWhITjNoeG8wSnFIUVlpVVo1bW16cUg4T3JRN1NyVVRkZ01hY2RPaC1PYVlpOVdNN1BQTmUxVUVsTUZVd1RmV1oyVDJhd3N1S1JKbURiX0VsSHZmb2xNUnp6YVpieXdQRjFaUzJ2aWxTdHZkYjh2RDZiRjRVZDFJeXlRVDJ4VHl4VjA0T0gyRg?oc=5)
+
+---
+
+### [31歲女腹痛就醫確診罕見胰臟腫瘤！醫解析保留幽門治療選擇](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GcURaSWpmZ25vQ0MtSnliUVFZa29Rb1I3RGpsMmdYWDZRLXV6TzdXLWhnY0tOd0g4YUZidXlhMlBnWmp3bHJVUGVHMVRmNFZNZUFoWWdR?oc=5)
+
+2026-07-02 <span class="news-indication-tag">腫瘤</span>
+
+來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GcURaSWpmZ25vQ0MtSnliUVFZa29Rb1I3RGpsMmdYWDZRLXV6TzdXLWhnY0tOd0g4YUZidXlhMlBnWmp3bHJVUGVHMVRmNFZNZUFoWWdR?oc=5)
 
 ---
 

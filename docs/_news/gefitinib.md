@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [關節保養竟影響大腦？最新研究發現：「這類人」失智惡化風險恐增加25％！](https://news.google.com/rss/articles/CBMiakFVX3lxTE95ano5UWZWMWU2Z1dOaDA5WWJQS2x0Z1Jwa042bTdETENiNzUyZEJfcFJaWjNfeEdwWWxvQkZEZ3BBNzVMY0JxaHBxdExjQ0F2MmZQa1hLQ2g2Sl9GSlRlYlRIeWxfSEtOZFE?oc=5)
 
 2026-07-03 <span class="news-indication-tag">失智</span>
 
 來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTE95ano5UWZWMWU2Z1dOaDA5WWJQS2x0Z1Jwa042bTdETENiNzUyZEJfcFJaWjNfeEdwWWxvQkZEZ3BBNzVMY0JxaHBxdExjQ0F2MmZQa1hLQ2g2Sl9GSlRlYlRIeWxfSEtOZFE?oc=5)
+
+---
+
+### [31歲女腹痛就醫確診罕見胰臟腫瘤！醫解析保留幽門治療選擇](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GcURaSWpmZ25vQ0MtSnliUVFZa29Rb1I3RGpsMmdYWDZRLXV6TzdXLWhnY0tOd0g4YUZidXlhMlBnWmp3bHJVUGVHMVRmNFZNZUFoWWdR?oc=5)
+
+2026-07-02 <span class="news-indication-tag">腫瘤</span>
+
+來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GcURaSWpmZ25vQ0MtSnliUVFZa29Rb1I3RGpsMmdYWDZRLXV6TzdXLWhnY0tOd0g4YUZidXlhMlBnWmp3bHJVUGVHMVRmNFZNZUFoWWdR?oc=5)
 
 ---
 
