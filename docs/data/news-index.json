@@ -1,7 +1,39 @@
 {
-  "generated": "2026-07-03T06:22:17.114586+00:00",
-  "count": 4,
+  "generated": "2026-07-03T09:50:01.765304+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "8ab8c8c9089d",
+      "title": "吸煙招肺癌 致慢阻肺病不可逆轉 傷肺咳嗽呼吸困難 物理治療助紓緩",
+      "published": "2026-07-03T07:54:47+00:00",
+      "sources": [
+        {
+          "name": "明報健康網",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPMUVDTGVqNnJBTG9Cakozcl9XeFhZZXdpRl9scVdQeFZ5ZlNOM1VrN1d4eTIzY2JOUTJxWXZwVy1kZHdMQ1hlX1h3eFlsdXkzTU5oUEt6eWRmSzktRzk2WmJmU2xCUjFBcnBaaGtqX2EzblZJSWtfR2VnNDFUaHRlZGlIeWRfWmxVUU41V29SY3dPTWJOTUNQZjhGSEN5ZHNEaTN6RGk5LUJwYXV4M2EyODdkVnJ4cFBjM05SLXhaOW8tYTlqZDdfUElBWU1zRktkY1MzTGlJSGhhaVNSeTZBOG5zOHNybk1vWl9HejZOc3RrZVdaLVlUZlZJQ0xHRmVzQW5qVGUxMGtEWWs3aERQTENQeWJENmJfWndiYkFNNkhjVUVQTzFWLVVjejMwakIyNWt4M1BXbnk5cFNnOTV2NUxJNUxDZlBuMTZ4cA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "ef1da3ec0e35",
       "title": "卵巢癌｜27歲YouTuber曉欣抗癌9個月 「癌細胞清零」歷剃光頭割巨瘤難關 感謝網友力量伴度難關",
@@ -31,6 +63,30 @@
       ]
     },
     {
+      "id": "d7c39af6da86",
+      "title": "關節保養竟影響大腦？最新研究發現：「這類人」失智惡化風險恐增加25％！",
+      "published": "2026-07-03T03:53:00+00:00",
+      "sources": [
+        {
+          "name": "良醫健康網",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95ano5UWZWMWU2Z1dOaDA5WWJQS2x0Z1Jwa042bTdETENiNzUyZEJfcFJaWjNfeEdwWWxvQkZEZ3BBNzVMY0JxaHBxdExjQ0F2MmZQa1hLQ2g2Sl9GSlRlYlRIeWxfSEtOZFE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "d4184f0af541",
       "title": "血糖高一點沒關係？醫警告：平均6年恐變糖尿病！不想吃藥，現在做4件事還來得及",
       "published": "2026-07-03T01:16:40+00:00",
@@ -53,6 +109,30 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8925780bed92",
+      "title": "日花6分鐘做1運動死亡風險大降40％ 追公車也算- 健康",
+      "published": "2026-07-02T05:12:31+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0RC0zZm5GWnNaSW9WaWp6UkYxczRUVDR6S2Nwb1E1a2ZFTUxjcG9yWWUzMm9ybXpyel8xY0RLM0I2YXFUNHZsZWhKbm1yNUNkUnRGMk5kWFFHNFlSVXZsWHZPanFaWWx0LUpCd3N3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
             }
           ]
         }

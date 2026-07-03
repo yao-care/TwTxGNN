@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [日花6分鐘做1運動死亡風險大降40％ 追公車也算- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTFA0RC0zZm5GWnNaSW9WaWp6UkYxczRUVDR6S2Nwb1E1a2ZFTUxjcG9yWWUzMm9ybXpyel8xY0RLM0I2YXFUNHZsZWhKbm1yNUNkUnRGMk5kWFFHNFlSVXZsWHZPanFaWWx0LUpCd3N3?oc=5)
+
+2026-07-02 <span class="news-indication-tag">心血管</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFA0RC0zZm5GWnNaSW9WaWp6UkYxczRUVDR6S2Nwb1E1a2ZFTUxjcG9yWWUzMm9ybXpyel8xY0RLM0I2YXFUNHZsZWhKbm1yNUNkUnRGMk5kWFFHNFlSVXZsWHZPanFaWWx0LUpCd3N3?oc=5)
+
+---
 
 
 <div class="disclaimer">

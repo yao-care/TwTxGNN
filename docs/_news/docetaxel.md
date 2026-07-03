@@ -14,7 +14,7 @@ permalink: /news/docetaxel/
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Docetaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ permalink: /news/docetaxel/
 <li>female breast carcinoma（99.9%）</li>
 <li>Ewing sarcoma（99.9%）</li>
 <li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
-<li>small cell lung carcinoma（99.8%）</li>
+<li class="indication-matched">small cell lung carcinoma（99.8%）<span class="indication-tag">📰 肺癌</span></li>
 <li>primary pulmonary lymphoma（99.8%）</li>
 <li>botryoid-type embryonal rhabdomyosarcoma of the vagina（99.8%）</li>
 <li>pulmonary blastoma（99.8%）</li>
@@ -42,9 +42,15 @@ permalink: /news/docetaxel/
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [吸煙招肺癌 致慢阻肺病不可逆轉 傷肺咳嗽呼吸困難 物理治療助紓緩](https://news.google.com/rss/articles/CBMizAJBVV95cUxPMUVDTGVqNnJBTG9Cakozcl9XeFhZZXdpRl9scVdQeFZ5ZlNOM1VrN1d4eTIzY2JOUTJxWXZwVy1kZHdMQ1hlX1h3eFlsdXkzTU5oUEt6eWRmSzktRzk2WmJmU2xCUjFBcnBaaGtqX2EzblZJSWtfR2VnNDFUaHRlZGlIeWRfWmxVUU41V29SY3dPTWJOTUNQZjhGSEN5ZHNEaTN6RGk5LUJwYXV4M2EyODdkVnJ4cFBjM05SLXhaOW8tYTlqZDdfUElBWU1zRktkY1MzTGlJSGhhaVNSeTZBOG5zOHNybk1vWl9HejZOc3RrZVdaLVlUZlZJQ0xHRmVzQW5qVGUxMGtEWWs3aERQTENQeWJENmJfWndiYkFNNkhjVUVQTzFWLVVjejMwakIyNWt4M1BXbnk5cFNnOTV2NUxJNUxDZlBuMTZ4cA?oc=5)
+
+2026-07-03 <span class="news-indication-tag">肺癌</span>
+
+來源：[明報健康網](https://news.google.com/rss/articles/CBMizAJBVV95cUxPMUVDTGVqNnJBTG9Cakozcl9XeFhZZXdpRl9scVdQeFZ5ZlNOM1VrN1d4eTIzY2JOUTJxWXZwVy1kZHdMQ1hlX1h3eFlsdXkzTU5oUEt6eWRmSzktRzk2WmJmU2xCUjFBcnBaaGtqX2EzblZJSWtfR2VnNDFUaHRlZGlIeWRfWmxVUU41V29SY3dPTWJOTUNQZjhGSEN5ZHNEaTN6RGk5LUJwYXV4M2EyODdkVnJ4cFBjM05SLXhaOW8tYTlqZDdfUElBWU1zRktkY1MzTGlJSGhhaVNSeTZBOG5zOHNybk1vWl9HejZOc3RrZVdaLVlUZlZJQ0xHRmVzQW5qVGUxMGtEWWs3aERQTENQeWJENmJfWndiYkFNNkhjVUVQTzFWLVVjejMwakIyNWt4M1BXbnk5cFNnOTV2NUxJNUxDZlBuMTZ4cA?oc=5)
+
+---
 
 
 <div class="disclaimer">
