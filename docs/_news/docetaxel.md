@@ -14,7 +14,7 @@ permalink: /news/docetaxel/
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Docetaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/docetaxel/
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [吸煙招肺癌 致慢阻肺病不可逆轉 傷肺咳嗽呼吸困難 物理治療助紓緩](https://news.google.com/rss/articles/CBMizAJBVV95cUxPMUVDTGVqNnJBTG9Cakozcl9XeFhZZXdpRl9scVdQeFZ5ZlNOM1VrN1d4eTIzY2JOUTJxWXZwVy1kZHdMQ1hlX1h3eFlsdXkzTU5oUEt6eWRmSzktRzk2WmJmU2xCUjFBcnBaaGtqX2EzblZJSWtfR2VnNDFUaHRlZGlIeWRfWmxVUU41V29SY3dPTWJOTUNQZjhGSEN5ZHNEaTN6RGk5LUJwYXV4M2EyODdkVnJ4cFBjM05SLXhaOW8tYTlqZDdfUElBWU1zRktkY1MzTGlJSGhhaVNSeTZBOG5zOHNybk1vWl9HejZOc3RrZVdaLVlUZlZJQ0xHRmVzQW5qVGUxMGtEWWs3aERQTENQeWJENmJfWndiYkFNNkhjVUVQTzFWLVVjejMwakIyNWt4M1BXbnk5cFNnOTV2NUxJNUxDZlBuMTZ4cA?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/docetaxel/
 2026-07-02 <span class="news-indication-tag">腫瘤</span>
 
 來源：[FTNN 新聞網](https://news.google.com/rss/articles/CBMiS0FVX3lxTE94YndXRUVGeDRKRk1raWFjaVQwOXN1dDFUcXBSSTFnakpPWEVRbkVvVzYta0VzQkNKMnRNeEpnRkxubkZIU002eGc3OA?oc=5)
-
----
-
-### [研究：血液檢測看出器官年齡 預測10年後疾病風險](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFaC1yenUtdW5ETGU0VTBXSUtJMlNsTGxCazRXVUc2YUZjSUVZbURERUNEelliS2p1aFZMdy11b0E0RzJpUlNrU0FjWW5sYTBqZkNZX2ZXNTAtSlhCTGlXeTdQLV_SAWpBVV95cUxQNktWcWNjYTNBM2R4WU5aM29jSTVYNm83RzFhY2x6VWowdnVHN2NmZHQzS2s5OTVsRHIxeHVXcGZpTU9mUTZqdUdOemRVS2VQbG9MOUprQlBoSGhDSndUTVFyZ1dhUnNaTjJ3?oc=5)
-
-2026-07-02 <span class="news-indication-tag">癌症</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFaC1yenUtdW5ETGU0VTBXSUtJMlNsTGxCazRXVUc2YUZjSUVZbURERUNEelliS2p1aFZMdy11b0E0RzJpUlNrU0FjWW5sYTBqZkNZX2ZXNTAtSlhCTGlXeTdQLV_SAWpBVV95cUxQNktWcWNjYTNBM2R4WU5aM29jSTVYNm83RzFhY2x6VWowdnVHN2NmZHQzS2s5OTVsRHIxeHVXcGZpTU9mUTZqdUdOemRVS2VQbG9MOUprQlBoSGhDSndUTVFyZ1dhUnNaTjJ3?oc=5)
 
 ---
 
