@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-04T20:43:30.572408+00:00",
+  "fetched_at": "2026-07-04T21:49:34.315631+00:00",
   "count": 15,
   "news": [
     {
@@ -52,18 +52,6 @@
       ]
     },
     {
-      "id": "4b6904fe4c6e",
-      "title": "破解細菌製藥祕密 找到打造新一代抗癌藥方法 - Yahoo新聞",
-      "published": "2026-07-04T04:14:45+00:00",
-      "summary": "破解細菌製藥祕密 找到打造新一代抗癌藥方法&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQMUQ5VHF2SXU4MFN5MFRQSmZXQTczUl9hMi1GdEQ2RWs3djdBeWlVem1ENVZpeW5zcHNOdmszYnVFQnZNU0xlWDQyam5CRlJHM05NVEZNRnFROWJqaXhmV2tBN2k2VzVMT2F6R0dHdlNoSXNpS3lqeWpHT3B4VkFaMGlBWGtUSVBxRkVXVGEzelBfb0c3NDFqOFBDM3FjU2E0ZmRicHRILS1iRnkxREFONUFnS1BxalFJc2dyZEtMb0pWNUZPUklzbGZxZUoycWI1Z2o4MTBWLXV3S19NaWZGaXpPSDRLcGdVRllLQ0I5UWV3RnNHc3ZjazE3ZEd2RjJPYldONTRPcGtmdk42N3ZoX2Q3UHZ3OXNqMjZaMWE0N2d6SlpaSVJlMTRkMUtpelpMQV95dDUtZ0k5QQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c2d532ebb576",
       "title": "膠原蛋白不只愛美女性需要！ 營養師：上班族、長輩都該補充 - 台視新聞網",
       "published": "2026-07-03T07:00:05+00:00",
@@ -72,6 +60,18 @@
         {
           "name": "台視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aS3JVeEtRSUtHakFkakhEZFVGNTBoazBPV2p1Q05iRGFDblNTaVAzN0ZBLVZUWDgzNTFNV0U2SGhKYkhDS3dIT3J5REZoMTJ3UUxFTHBrZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4b6904fe4c6e",
+      "title": "破解細菌製藥祕密 找到打造新一代抗癌藥方法 - Yahoo新聞",
+      "published": "2026-07-04T04:14:45+00:00",
+      "summary": "破解細菌製藥祕密 找到打造新一代抗癌藥方法&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQMUQ5VHF2SXU4MFN5MFRQSmZXQTczUl9hMi1GdEQ2RWs3djdBeWlVem1ENVZpeW5zcHNOdmszYnVFQnZNU0xlWDQyam5CRlJHM05NVEZNRnFROWJqaXhmV2tBN2k2VzVMT2F6R0dHdlNoSXNpS3lqeWpHT3B4VkFaMGlBWGtUSVBxRkVXVGEzelBfb0c3NDFqOFBDM3FjU2E0ZmRicHRILS1iRnkxREFONUFnS1BxalFJc2dyZEtMb0pWNUZPUklzbGZxZUoycWI1Z2o4MTBWLXV3S19NaWZGaXpPSDRLcGdVRllLQ0I5UWV3RnNHc3ZjazE3ZEd2RjJPYldONTRPcGtmdk42N3ZoX2Q3UHZ3OXNqMjZaMWE0N2d6SlpaSVJlMTRkMUtpelpMQV95dDUtZ0k5QQ?oc=5"
         }
       ]
     },
