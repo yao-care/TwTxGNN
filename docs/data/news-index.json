@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T14:23:37.929060+00:00",
-  "count": 3,
+  "generated": "2026-07-04T15:55:24.394484+00:00",
+  "count": 2,
   "news": [
     {
       "id": "fa5bc7ac13b9",
@@ -57,30 +57,6 @@
             {
               "slug": "vinorelbine",
               "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e08e46d1280c",
-      "title": "這運動「每天6分鐘」降低40%死亡率！還減少5成心血管死亡風險",
-      "published": "2026-07-02T14:51:21+00:00",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aNFJ3YXV2TTN6bDVfRm5uZ0R3V285aW93eUM1aUZfeEgtbXJyMmdzVV96MXFUbTBieUVpXzNBOS1GVDNGakt2ODY5U2o?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
             }
           ]
         }

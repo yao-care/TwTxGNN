@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-04T14:23:37.895403+00:00",
-  "total_count": 17,
-  "matched_count": 3,
+  "last_updated": "2026-07-04T15:55:24.363879+00:00",
+  "total_count": 15,
+  "matched_count": 2,
   "news": [
     {
       "id": "fa5bc7ac13b9",
@@ -230,44 +230,6 @@
         {
           "name": "新唐人電視台",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lNEpqeHVKZ0UyWEplbmVVQ3NSdjgwSmtkWVctLXphaFpNWEtZMXd4d1Fjb2g1WEpsWDlxUDVNSlZTZURELXpmNUZ2QXgwN0FLeURNd1p1MXdLMDBadS1QWdIBZkFVX3lxTE91bXV3MmktY2dzSjhuZ3B1Mm9zak1GYTFQdGt0YTdrY0VfOFZvMFlKa1c1ZkloRV9OM1RRSlRTck5kRWt5QWhIREFUYWV0enRzQ01IeGtQaDhMa1ZCRkNNeTF0VG9ydw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e08e46d1280c",
-      "title": "這運動「每天6分鐘」降低40%死亡率！還減少5成心血管死亡風險",
-      "published": "2026-07-02T14:51:21+00:00",
-      "summary": "這運動「每天6分鐘」降低40%死亡率！還減少5成心血管死亡風險&nbsp;&nbsp;三立新聞網SETN.com健康網》不上健身房也有效 每天只動6分鐘 死亡風險降4成&nbsp;&nbsp;自由健康網59歲美國醫生：每天只花4分鐘的簡單長壽運動&nbsp;&nbsp;經濟日報日花6分鐘做1運動死亡風險大降40％ 追公車也算- 健康&nbsp;&nbsp;中時新聞網每天6分鐘「微爆發運動」降死亡風險？醫師推30秒爬樓梯衝刺：先評估身體狀況&nbsp;&nbsp;FTNN 新聞網",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aNFJ3YXV2TTN6bDVfRm5uZ0R3V285aW93eUM1aUZfeEgtbXJyMmdzVV96MXFUbTBieUVpXzNBOS1GVDNGakt2ODY5U2o?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "05e8b728bbc6",
-      "title": "山西首次舉行口岸輸入性傳染病多部門協同應急演練",
-      "published": "2026-07-02T14:11:43+00:00",
-      "summary": "山西首次舉行口岸輸入性傳染病多部門協同應急演練&nbsp;&nbsp;香港商报",
-      "sources": [
-        {
-          "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6OHBxTUY5OG9LSW1xQ01OdVNlejdLbGxObWVWbDRyaHJWNExxLXJ3dktRb1J2emxQcVZJTU85WE9RMmNFUHpveE1YcnRidGNMeUVBUHlEVWhYTTdzb0VvdE5oaGd2c0txVnJtbnozSFZEQQ?oc=5"
         }
       ],
       "matched_keywords": []

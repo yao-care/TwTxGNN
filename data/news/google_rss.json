@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-04T14:23:34.398287+00:00",
-  "count": 17,
+  "fetched_at": "2026-07-04T15:55:20.629554+00:00",
+  "count": 15,
   "news": [
     {
       "id": "fa5bc7ac13b9",
@@ -112,18 +112,6 @@
       ]
     },
     {
-      "id": "13fd0a9db548",
-      "title": "健康資訊愈看愈亂？專家曝3點判斷可信度 - 民視新聞網",
-      "published": "2026-07-03T08:51:01+00:00",
-      "summary": "健康資訊愈看愈亂？專家曝3點判斷可信度&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1seW8tZ3RyQTU2R2pXYTBLdzlBcWotNWdGb2FrNWNybzhuMTBxbWExb253MTY5MEVFMnMwVmk5NnNGQmZ6djhhZzFwRmVkSTh1djdDdmphaHFsVVlGUFUxLQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e7bb8a28a4e9",
       "title": "骨頭 DNA 終結懸案，16 世紀梅迪奇家族成員不是被毒死 | 科技新報 - LINE TODAY",
       "published": "2026-07-03T11:04:10+00:00",
@@ -136,14 +124,14 @@
       ]
     },
     {
-      "id": "e08e46d1280c",
-      "title": "這運動「每天6分鐘」降低40%死亡率！還減少5成心血管死亡風險 - 三立新聞網SETN.com",
-      "published": "2026-07-02T14:51:21+00:00",
-      "summary": "這運動「每天6分鐘」降低40%死亡率！還減少5成心血管死亡風險&nbsp;&nbsp;三立新聞網SETN.com健康網》不上健身房也有效 每天只動6分鐘 死亡風險降4成&nbsp;&nbsp;自由健康網59歲美國醫生：每天只花4分鐘的簡單長壽運動&nbsp;&nbsp;經濟日報日花6分鐘做1運動死亡風險大降40％ 追公車也算- 健康&nbsp;&nbsp;中時新聞網每天6分鐘「微爆發運動」降死亡風險？醫師推30秒爬樓梯衝刺：先評估身體狀況&nbsp;&nbsp;FTNN 新聞網",
+      "id": "13fd0a9db548",
+      "title": "健康資訊愈看愈亂？專家曝3點判斷可信度 - 民視新聞網",
+      "published": "2026-07-03T08:51:01+00:00",
+      "summary": "健康資訊愈看愈亂？專家曝3點判斷可信度&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aNFJ3YXV2TTN6bDVfRm5uZ0R3V285aW93eUM1aUZfeEgtbXJyMmdzVV96MXFUbTBieUVpXzNBOS1GVDNGakt2ODY5U2o?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1seW8tZ3RyQTU2R2pXYTBLdzlBcWotNWdGb2FrNWNybzhuMTBxbWExb253MTY5MEVFMnMwVmk5NnNGQmZ6djhhZzFwRmVkSTh1djdDdmphaHFsVVlGUFUxLQ?oc=5"
         }
       ]
     },
@@ -192,18 +180,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxPMlE3cFpxTWdvNzh0YWs0bzBSaW53dGJsSnI3R1d6NEUtSDZZTlN5UmR4bDNXQ085U0NIOU1PbTQ1MjU3dE1jNldBUWVPMmtEQzFkVHBiUjJ0RUk4N29TdzcwZFZFcHRTaHdRVEI4ZlhzUlJqVmVhMlZ3REctUXJ4Q29DOVI1V0gtWVEtY21PQ0tnSzV1REdLX0dTMkZ4SGM2QnFmemNscFVZQVROTEZRTm13SUNiWWpkUEhlem9tUlJRWk1pYldDUGozVnVsREtTTDc5WFhEcTJha1Jac1FERU9tTi1hNVF6ZThQVWwyaE5PenNhVUF2UEFzZ2dUQi1mQm9fUDVvck03YUpfV3Jxa2ZRZGYzSzVLUFZrM1VnVzV0dWVKZ2dma1hrWUMxMlUyaWk5QVB4dS0tODVLcFZkYXl0cHE4TnR6Q0ZCRHFORUJ2YmNfcm1VR3ZJMWhxMG1aTlZpaHMwMm5DUmp1aF9aNnVuUkhwM2tRM1hKSS0ycGxMTERrdGJCeXQyN2oyd19lZ01hUV9qbVhhZkltZFFpakFRejB2ek9IXy1IaWdESVZ4WUpRZDFHbTFYQm8zUG1XbmFBc1RvMl9kV1o0QzB1WDdnd2xYS0FWSUNVUXVaeFVxdmNReWtQQ0dCRGttTmpEdzBlWjRrTy1XazZhbWotdGZKNThnaHgyRDJkekUtT0FlNGw5ekdlMGJ2eTBRSmZ2LWNmUUZHVGQ3SzdpbGxjN3RTU2xjaVV0R054QnNzdzV3UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "05e8b728bbc6",
-      "title": "山西首次舉行口岸輸入性傳染病多部門協同應急演練 - 香港商报",
-      "published": "2026-07-02T14:11:43+00:00",
-      "summary": "山西首次舉行口岸輸入性傳染病多部門協同應急演練&nbsp;&nbsp;香港商报",
-      "sources": [
-        {
-          "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6OHBxTUY5OG9LSW1xQ01OdVNlejdLbGxObWVWbDRyaHJWNExxLXJ3dktRb1J2emxQcVZJTU85WE9RMmNFUHpveE1YcnRidGNMeUVBUHlEVWhYTTdzb0VvdE5oaGd2c0txVnJtbnozSFZEQQ?oc=5"
         }
       ]
     }

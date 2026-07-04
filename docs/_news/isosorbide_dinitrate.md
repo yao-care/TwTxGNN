@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [這運動「每天6分鐘」降低40%死亡率！還減少5成心血管死亡風險](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aNFJ3YXV2TTN6bDVfRm5uZ0R3V285aW93eUM1aUZfeEgtbXJyMmdzVV96MXFUbTBieUVpXzNBOS1GVDNGakt2ODY5U2o?oc=5)
-
-2026-07-02 <span class="news-indication-tag">心血管</span>
-
-來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aNFJ3YXV2TTN6bDVfRm5uZ0R3V285aW93eUM1aUZfeEgtbXJyMmdzVV96MXFUbTBieUVpXzNBOS1GVDNGakt2ODY5U2o?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
