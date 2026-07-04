@@ -43,11 +43,11 @@ permalink: /news/cefmetazole/
 
 ## 相關新聞（1 則）
 
-### [31歲女腹痛就醫確診罕見胰臟腫瘤！醫解析保留幽門治療選擇 - FTNN 新聞網](https://news.google.com/rss/articles/CBMiS0FVX3lxTE94YndXRUVGeDRKRk1raWFjaVQwOXN1dDFUcXBSSTFnakpPWEVRbkVvVzYta0VzQkNKMnRNeEpnRkxubkZIU002eGc3OA?oc=5)
+### [肺炎鏈球菌重症不分年齡 醫點名吸菸、慢性病、常出差族要當心](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QZGZFU2JjbFU3c2Jxa2g0NXY3VkVna2F3TEVxSFR0ODBFbWROMG11TjhFR0RCbGVneTZFbVluY05DWFRRenNRWUJEb2tncmxoN3QyYnFYXzVTVVZlbzN5OExwZFjSAWpBVV95cUxQTDZTdmxsQVJKVzVuTjRhUFVpR05HVmNiNmNxRmgzRTNOTTNIU0Jyd3FGTW1BTFVEZDlYNzN4cE43LVotLVFKZ2FmTTBLUkhNQ1FoME40YS1PSGgtQUgtVUlERndlREcwVjVn?oc=5)
 
-2026-07-02 <span class="news-indication-tag">腫瘤</span>
+2026-07-04 <span class="news-indication-tag">鏈球菌</span>
 
-來源：[FTNN 新聞網](https://news.google.com/rss/articles/CBMiS0FVX3lxTE94YndXRUVGeDRKRk1raWFjaVQwOXN1dDFUcXBSSTFnakpPWEVRbkVvVzYta0VzQkNKMnRNeEpnRkxubkZIU002eGc3OA?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QZGZFU2JjbFU3c2Jxa2g0NXY3VkVna2F3TEVxSFR0ODBFbWROMG11TjhFR0RCbGVneTZFbVluY05DWFRRenNRWUJEb2tncmxoN3QyYnFYXzVTVVZlbzN5OExwZFjSAWpBVV95cUxQTDZTdmxsQVJKVzVuTjRhUFVpR05HVmNiNmNxRmgzRTNOTTNIU0Jyd3FGTW1BTFVEZDlYNzN4cE43LVotLVFKZ2FmTTBLUkhNQ1FoME40YS1PSGgtQUgtVUlERndlREcwVjVn?oc=5)
 
 ---
 

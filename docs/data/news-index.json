@@ -1,7 +1,35 @@
 {
-  "generated": "2026-07-04T10:00:37.954697+00:00",
-  "count": 4,
+  "generated": "2026-07-04T12:01:21.534518+00:00",
+  "count": 3,
   "news": [
+    {
+      "id": "fa5bc7ac13b9",
+      "title": "肺炎鏈球菌重症不分年齡 醫點名吸菸、慢性病、常出差族要當心",
+      "published": "2026-07-04T07:52:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QZGZFU2JjbFU3c2Jxa2g0NXY3VkVna2F3TEVxSFR0ODBFbWROMG11TjhFR0RCbGVneTZFbVluY05DWFRRenNRWUJEb2tncmxoN3QyYnFYXzVTVVZlbzN5OExwZFjSAWpBVV95cUxQTDZTdmxsQVJKVzVuTjRhUFVpR05HVmNiNmNxRmgzRTNOTTNIU0Jyd3FGTW1BTFVEZDlYNzN4cE43LVotLVFKZ2FmTTBLUkhNQ1FoME40YS1PSGgtQUgtVUlERndlREcwVjVn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "8ab8c8c9089d",
       "title": "吸煙招肺癌 致慢阻肺病不可逆轉 傷肺咳嗽呼吸困難 物理治療助紓緩",
@@ -53,242 +81,6 @@
             {
               "slug": "isosorbide_dinitrate",
               "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d46ac7c7d9df",
-      "title": "抗癌戰士︱YouTuber曉欣抗卵巢癌剃光頭髮公開14cm手術疤痕走訪大埔小店答謝曾幫宏福苑災民餐廳",
-      "published": "2026-07-02T10:19:37+00:00",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiwwRBVV95cUxNOVlhM3luczlzVGZLN2pjR3NYVUNlcm93Q0diaTZPZ2RZZjJzMmdoczZxcWtTQzM3ZllsN2wzQTNqVHo4YzQ3aWFlVS1BOGs0MEdPbnVXREloNGlNZC1pVzBrWTFzdXdnUFkzbVV6eGNQeVlTMnRSV3hiMjZtTk1nd1JucWk1ejdKME9POW1keVJCdUpTcVc3dkYwel9FUjQ5SnZwVFphLXdmMi1YQXNPSjl0Zy1mMEVjdWdVMDA5Q1VBa3BwQkhkYVNTSE5IX2xEYzBKY1EtcWdoVlE4Y2VQWmFwZUQ3eFlSRUwyNEYtZlhINWlaRmRPT3Z0NTVoVlJWNHVUeTk1YWw3NUNyTHUtcmdVVENIZXdqa0xINmY5cTdBaDVOLVhkcTRJU2tkZ2JfU0FZNUg4WU5SVllDdmVhbDVZeDAzZEVJR1ZzdzZYU3hTbW5JSEZxa1d1dXhkQXphbnljZnhxNjRTVFllOGhXbXJrbnJMamJGZnQtZzEyUzNBOEtMX1JNTGo5NEhZZkZDSENaUkl0b3NBNDNEdVRGNmVzTlZOQm9ydjVFRHdGVTZ2YVFLdTJDVTlNRFZNVUJZeHBWdHBuWlBLT0pxSkZCcS1DTUd6X2hnYVVOc19TWmxGdnVFcFJDdmtMelNtZnJhMkRaS2IxUUp4U1hpejFuWm96eGhKQUdfRlN4eTBaaFhEZVJYaHA0VkZYTlhQTE1ucWFqR0xfWkZNV3AxU3M3RmQ0QlRDVGlicjQ0OXlTMVJoeXM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "卵巢癌",
-          "keyword": "卵巢癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ad5072d49baf",
-      "title": "31歲女腹痛就醫確診罕見胰臟腫瘤！醫解析保留幽門治療選擇 - FTNN 新聞網",
-      "published": "2026-07-02T08:48:00+00:00",
-      "sources": [
-        {
-          "name": "FTNN 新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94YndXRUVGeDRKRk1raWFjaVQwOXN1dDFUcXBSSTFnakpPWEVRbkVvVzYta0VzQkNKMnRNeEpnRkxubkZIU002eGc3OA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "腫瘤",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
             }
           ]
         }

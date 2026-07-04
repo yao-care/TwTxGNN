@@ -14,7 +14,7 @@ permalink: /news/zanubrutinib/
 ---
 
 <p class="key-answer" data-question="Zanubrutinib 有什麼相關新聞？">
-<strong>Zanubrutinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Zanubrutinib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,15 +38,9 @@ permalink: /news/zanubrutinib/
 <p><a href="{{ '/drugs/zanubrutinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [31歲女腹痛就醫確診罕見胰臟腫瘤！醫解析保留幽門治療選擇 - FTNN 新聞網](https://news.google.com/rss/articles/CBMiS0FVX3lxTE94YndXRUVGeDRKRk1raWFjaVQwOXN1dDFUcXBSSTFnakpPWEVRbkVvVzYta0VzQkNKMnRNeEpnRkxubkZIU002eGc3OA?oc=5)
-
-2026-07-02 <span class="news-indication-tag">腫瘤</span>
-
-來源：[FTNN 新聞網](https://news.google.com/rss/articles/CBMiS0FVX3lxTE94YndXRUVGeDRKRk1raWFjaVQwOXN1dDFUcXBSSTFnakpPWEVRbkVvVzYta0VzQkNKMnRNeEpnRkxubkZIU002eGc3OA?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

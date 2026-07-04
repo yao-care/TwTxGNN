@@ -1,8 +1,37 @@
 {
-  "last_updated": "2026-07-04T10:00:37.918555+00:00",
-  "total_count": 21,
-  "matched_count": 4,
+  "last_updated": "2026-07-04T12:01:21.503716+00:00",
+  "total_count": 18,
+  "matched_count": 3,
   "news": [
+    {
+      "id": "fa5bc7ac13b9",
+      "title": "肺炎鏈球菌重症不分年齡 醫點名吸菸、慢性病、常出差族要當心",
+      "published": "2026-07-04T07:52:00+00:00",
+      "summary": "肺炎鏈球菌重症不分年齡 醫點名吸菸、慢性病、常出差族要當心&nbsp;&nbsp;自由健康網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QZGZFU2JjbFU3c2Jxa2g0NXY3VkVna2F3TEVxSFR0ODBFbWROMG11TjhFR0RCbGVneTZFbVluY05DWFRRenNRWUJEb2tncmxoN3QyYnFYXzVTVVZlbzN5OExwZFjSAWpBVV95cUxQTDZTdmxsQVJKVzVuTjRhUFVpR05HVmNiNmNxRmgzRTNOTTNIU0Jyd3FGTW1BTFVEZDlYNzN4cE43LVotLVFKZ2FmTTBLUkhNQ1FoME40YS1PSGgtQUgtVUlERndlREcwVjVn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "4b6904fe4c6e",
       "title": "破解細菌製藥祕密 找到打造新一代抗癌藥方法",
@@ -43,6 +72,19 @@
       "matched_keywords": []
     },
     {
+      "id": "e0fcd623fb16",
+      "title": "健康網》禁慾沒用！ 醫曝3件無聊小事真正助攻男性雄風",
+      "published": "2026-07-03T13:01:00+00:00",
+      "summary": "健康網》禁慾沒用！ 醫曝3件無聊小事真正助攻男性雄風&nbsp;&nbsp;自由健康網禁慾換不到雄風！ 醫破都市傳說：其實只要做對3件事&nbsp;&nbsp;Yahoo新聞禁慾7天睪固酮暴增145％？ 醫潑冷水：不如做好3件事- 健康&nbsp;&nbsp;中時新聞網禁慾沒用！「3件事」真能提升睪固酮&nbsp;&nbsp;鏡週刊Mirror Media",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45QUhDdkx1bVRiYzJ0VnBkV2duRGpfcmpodzJENnRlNnMzNXctbEpsSjFBUlVpTUQ5TzdiUXdUNFo4UWxMUF9VNTR1b0hPM0kxT2p1QzVDaDRTYnNmTmRzTkRYZi3SAWpBVV95cUxOcDN2aXJIM21XNUVUZFZDTnFpZEJGSjNRbDkyMjZyRVNBX1ZDc3lHOERCVk1TYmU4SFo3d0dwSzBLRUZ3OUVBNktZNjc4WW1Zb0xleUxxa2w5dlpLcVMwVzNzRjJSb205UWpR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "8596c446909b",
       "title": "豆漿加1食材能抗發炎！研究證實：4週「降低3發炎指標」",
       "published": "2026-07-03T12:17:31+00:00",
@@ -56,6 +98,19 @@
       "matched_keywords": []
     },
     {
+      "id": "e7bb8a28a4e9",
+      "title": "骨頭 DNA 終結懸案，16 世紀梅迪奇家族成員不是被毒死 | 科技新報 - LINE TODAY",
+      "published": "2026-07-03T11:04:10+00:00",
+      "summary": "骨頭 DNA 終結懸案，16 世紀梅迪奇家族成員不是被毒死 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vUFNnV2dEY0tuTzVlYkREblQ5YnZqRVZYa3hOd0dRcUlES3BOaGgwRnMwMmRab2xtYmlSLXpuZDQ2WU5VdEFPQTZGSWdTT25YVHhPdnh3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "13fd0a9db548",
       "title": "健康資訊愈看愈亂？專家曝3點判斷可信度",
       "published": "2026-07-03T08:51:01+00:00",
@@ -64,19 +119,6 @@
         {
           "name": "民視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1seW8tZ3RyQTU2R2pXYTBLdzlBcWotNWdGb2FrNWNybzhuMTBxbWExb253MTY5MEVFMnMwVmk5NnNGQmZ6djhhZzFwRmVkSTh1djdDdmphaHFsVVlGUFUxLQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c95d77b47464",
-      "title": "禁慾沒用！「3件事」真能提升睪固酮：第一項免流汗、最有效",
-      "published": "2026-07-03T08:07:31+00:00",
-      "summary": "禁慾沒用！「3件事」真能提升睪固酮：第一項免流汗、最有效&nbsp;&nbsp;三立新聞網SETN.com健康網》禁慾沒用！ 醫曝3件無聊小事真正助攻男性雄風&nbsp;&nbsp;自由健康網禁慾換不到雄風！ 醫破都市傳說：其實只要做對3件事&nbsp;&nbsp;Yahoo新聞禁慾7天睪固酮暴增145％？ 醫潑冷水：不如做好3件事- 健康&nbsp;&nbsp;中時新聞網禁慾沒用！「3件事」真能提升睪固酮&nbsp;&nbsp;鏡週刊Mirror Media",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1wUWJMVXRiaTFGU1hSOFFkNXBzSlBETWVHbElHWXk5ZWRuTDNwZEowbFNkTHh0SWZTTVVPejkwMFVuM1ZDOVR3UTdPSFM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -193,19 +235,6 @@
       "matched_keywords": []
     },
     {
-      "id": "46c0771bd857",
-      "title": "骨頭 DNA 終結懸案，16 世紀梅迪奇家族成員不是被毒死 - TechNews 科技新報",
-      "published": "2026-07-03T02:42:35+00:00",
-      "summary": "骨頭 DNA 終結懸案，16 世紀梅迪奇家族成員不是被毒死&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIRm5zZE9pVjk4Q3lmcHhBeElmZzJRaWdIOWkyRE5VMkVSZy1kUkJZZHYzMklyQWdwX0hjTVRpbnNzbldGVy1hVVFoOU03OHMtNFo0cFM4QVdZV1c5dzd6MEh0cVdBZzRmcWF1ZzFyUC0wS05U?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "60bde0288ccd",
       "title": "空腹血糖驚見紅字身體卻無症狀 醫教「4招」調整應對糖危機",
       "published": "2026-07-02T17:28:45+00:00",
@@ -252,270 +281,6 @@
         {
           "name": "香港商报",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6OHBxTUY5OG9LSW1xQ01OdVNlejdLbGxObWVWbDRyaHJWNExxLXJ3dktRb1J2emxQcVZJTU85WE9RMmNFUHpveE1YcnRidGNMeUVBUHlEVWhYTTdzb0VvdE5oaGd2c0txVnJtbnozSFZEQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d46ac7c7d9df",
-      "title": "抗癌戰士︱YouTuber曉欣抗卵巢癌剃光頭髮公開14cm手術疤痕走訪大埔小店答謝曾幫宏福苑災民餐廳",
-      "published": "2026-07-02T10:19:37+00:00",
-      "summary": "抗癌戰士︱YouTuber曉欣抗卵巢癌剃光頭髮公開14cm手術疤痕走訪大埔小店答謝曾幫宏福苑災民餐廳&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiwwRBVV95cUxNOVlhM3luczlzVGZLN2pjR3NYVUNlcm93Q0diaTZPZ2RZZjJzMmdoczZxcWtTQzM3ZllsN2wzQTNqVHo4YzQ3aWFlVS1BOGs0MEdPbnVXREloNGlNZC1pVzBrWTFzdXdnUFkzbVV6eGNQeVlTMnRSV3hiMjZtTk1nd1JucWk1ejdKME9POW1keVJCdUpTcVc3dkYwel9FUjQ5SnZwVFphLXdmMi1YQXNPSjl0Zy1mMEVjdWdVMDA5Q1VBa3BwQkhkYVNTSE5IX2xEYzBKY1EtcWdoVlE4Y2VQWmFwZUQ3eFlSRUwyNEYtZlhINWlaRmRPT3Z0NTVoVlJWNHVUeTk1YWw3NUNyTHUtcmdVVENIZXdqa0xINmY5cTdBaDVOLVhkcTRJU2tkZ2JfU0FZNUg4WU5SVllDdmVhbDVZeDAzZEVJR1ZzdzZYU3hTbW5JSEZxa1d1dXhkQXphbnljZnhxNjRTVFllOGhXbXJrbnJMamJGZnQtZzEyUzNBOEtMX1JNTGo5NEhZZkZDSENaUkl0b3NBNDNEdVRGNmVzTlZOQm9ydjVFRHdGVTZ2YVFLdTJDVTlNRFZNVUJZeHBWdHBuWlBLT0pxSkZCcS1DTUd6X2hnYVVOc19TWmxGdnVFcFJDdmtMelNtZnJhMkRaS2IxUUp4U1hpejFuWm96eGhKQUdfRlN4eTBaaFhEZVJYaHA0VkZYTlhQTE1ucWFqR0xfWkZNV3AxU3M3RmQ0QlRDVGlicjQ0OXlTMVJoeXM?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "卵巢癌",
-          "keyword": "卵巢癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ad5072d49baf",
-      "title": "31歲女腹痛就醫確診罕見胰臟腫瘤！醫解析保留幽門治療選擇 - FTNN 新聞網",
-      "published": "2026-07-02T08:48:00+00:00",
-      "summary": "31歲女腹痛就醫確診罕見胰臟腫瘤！醫解析保留幽門治療選擇&nbsp;&nbsp;FTNN 新聞網",
-      "sources": [
-        {
-          "name": "FTNN 新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94YndXRUVGeDRKRk1raWFjaVQwOXN1dDFUcXBSSTFnakpPWEVRbkVvVzYta0VzQkNKMnRNeEpnRkxubkZIU002eGc3OA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "腫瘤",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f5677035f7f7",
-      "title": "青少年腰背痛或4疾病表徵：椎間盤突出、椎弓斷裂 查找痛源及早治療免礙成長",
-      "published": "2026-07-02T08:28:36+00:00",
-      "summary": "青少年腰背痛或4疾病表徵：椎間盤突出、椎弓斷裂 查找痛源及早治療免礙成長&nbsp;&nbsp;明報健康網",
-      "sources": [
-        {
-          "name": "明報健康網",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxObEZZUUo3SkZhQlpyUFIxVzBMYmc3VkpHeENqbjdnUkhSY1MyUXdhQmVtYnVlclM3NHJnd1dtTUV4TGJQaGZNZG8zenlVbFY0a2VQRFkxR3k5MVNJS2FjV204VDJiWTVZcjZYbUprdXZiSGYxQ0U2U29LRGtISVhOYUxCQnBNczdhVlJWWG5OY0pmMkFfeWhodUpaUlpVV1p6SWlJRkF2Q2pscGtwdG1PSEFRcnV1SWd1eEV5TDV2WG96Q212ejNCSE1rNG9QenR6elUxdVBBVkY1V2pPa2FpS1k5LXU2ZE9EblJnV2NlWXNZTkM2aTdTR0IwX3pyYzFHcDdNSklKU3pJRXhtYzdWV1E5ZmcydU9nMzlDS3dJV003a1BqRDR4ZFFDZzZtb3hrZlVIVVpZelRaRms2UWZJcnhHX1dnWVBtMU1DRg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "19686df669d7",
-      "title": "防護中心宣布正式進入新流感季節　主要流行甲型H3",
-      "published": "2026-07-02T08:18:00+00:00",
-      "summary": "防護中心宣布正式進入新流感季節 主要流行甲型H3&nbsp;&nbsp;881903.com香港進入流感高峰期 伴隨新冠病毒活躍&nbsp;&nbsp;UDN新冠升溫｜本港進入季節性流感季節甲乙型流感及合胞病毒齊升長者免費疫苗接種計劃懶人包- 東張+&nbsp;&nbsp;myTV SUPER本港迎流感季 H3病毒專襲老幼 幼童接種率僅27%&nbsp;&nbsp;on.cc東網夏季流感季節開始 歐家榮指或與新冠形成「雙高峰」 老幼高危&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "881903.com",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNRVMxNUQ5RmR4NkJNRUpTa2F0eE04ZkRTUGVlQ0RzQjFKOEdtLXdDdGRUUkVUNW1Za1NuZm9BSEJ1OVRjS3ViWHdNQi1LQ2g5azNCelp3VTkyd3YxZ1hUMEo0eW1XM0lhelpyRkxLczg1UlJka1NRRlM5UUhGZk1nZFpmNTFKVEFWLTRfUUtiUndhQTBHcE40aHU2ZlBONWlIeVdPdVVkNlpVT0RLdUQ5VXdPSjFsWW4tWjBtTk5KekM4S2lORHhraGRzSTJ0ZlgyeGtpQTVka1ZLWlNkU0JzeWdyMlZOUGR3dWNHWFR4akUtT2RkalRQaWs4Y3BnUlkybDJkV0NKNFhvcy12Nng4RHk5QWVxaGNfaTU0bVJHRmNXQTBPU0xNRkNfeGRScEJKX2hWTWNaZG43VXFUOTYyb2lvQ2ZxNExNRDJHY0Q2R19FZG9O0gFYQVVfeXFMTWRYdVZqcC1rdlJ4bVZoTlpVMHBmdDhmTG5aMm1RNE5vbHF4dkwtcEk1SEJDd2RkQUpwSVZlSXRub0hLdlV0ZzNlSGc4dkE3bzM2VjVVcUs2Mg?oc=5"
         }
       ],
       "matched_keywords": []
