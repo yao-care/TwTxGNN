@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T00:09:10.692762+00:00",
-  "count": 8,
+  "generated": "2026-07-04T04:28:40.310594+00:00",
+  "count": 5,
   "news": [
     {
       "id": "8ab8c8c9089d",
@@ -35,86 +35,6 @@
       ]
     },
     {
-      "id": "ef1da3ec0e35",
-      "title": "卵巢癌｜27歲YouTuber曉欣抗癌9個月 「癌細胞清零」歷剃光頭割巨瘤難關 感謝網友力量伴度難關",
-      "published": "2026-07-03T05:00:22+00:00",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxQR2ZXcFBuaUZkMVMyZ1JQVTU4NjZINEtqUGlMVGJjNjdKU2lfZDhldFNaREpSM2xrRWZic1M1UEc3NFZHTkpWcHdIaUdhRzd4dXZfYnBPZWNqZ3NVZTRGZ1RmaFh0eWxLOV9BZl9na3cyUXBCUnlZWnZ4WURJMzlLdjd6TmdfU3F6LWt3cFRCZFdOS2lWRUp5bWxaenVCVnBBd2pnSU02SVRqaV9JdC03TklpSVpWWEdiVXNqNi1pY3JPQU85N2dsUkRQbmRIR3pac2pwUXBGZWh4Rl9za0l1WjRqakdUSS1BQko4cTlCNDhrb2Zrb3pWUzJYRElVVENqRllPTDFwME4tWG1fSFhhMWVQcWFxTFZMenBJMzhMRExfODJhT1Z6WXRMbGF1dmc4a0dpNWxGa0RFZlQ0ZDZmbWx2QlViY1ExY0puOGdQaTREamoyZzU0cGZtYWZPM04xMWIyeHNxaFVSTGxZTXAtUXU3ekg1Y0FrbWhITjNoeG8wSnFIUVlpVVo1bW16cUg4T3JRN1NyVVRkZ01hY2RPaC1PYVlpOVdNN1BQTmUxVUVsTUZVd1RmV1oyVDJhd3N1S1JKbURiX0VsSHZmb2xNUnp6YVpieXdQRjFaUzJ2aWxTdHZkYjh2RDZiRjRVZDFJeXlRVDJ4VHl4VjA0T0gyRg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "卵巢癌",
-          "keyword": "卵巢癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d7c39af6da86",
-      "title": "關節保養竟影響大腦？最新研究發現：「這類人」失智惡化風險恐增加25％！",
-      "published": "2026-07-03T03:53:00+00:00",
-      "sources": [
-        {
-          "name": "良醫健康網",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95ano5UWZWMWU2Z1dOaDA5WWJQS2x0Z1Jwa042bTdETENiNzUyZEJfcFJaWjNfeEdwWWxvQkZEZ3BBNzVMY0JxaHBxdExjQ0F2MmZQa1hLQ2g2Sl9GSlRlYlRIeWxfSEtOZFE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d4184f0af541",
-      "title": "血糖高一點沒關係？醫警告：平均6年恐變糖尿病！不想吃藥，現在做4件事還來得及",
-      "published": "2026-07-03T01:16:40+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxObUtEczY2Zmc4YUs5ZGdMT0hOM3lSYVlJekZyTzdUV1lHZExFVFdtUkIxalpId1MteVByUEFvaTlLYmlKcE5Kei1halBSV05WcjhlUGgxVFdaNnZ0QVJQTjIzQnVsVHFBWTBWX01vWlVHSUJRM2hhRElGTEYwMUliWlpBNmRFekRITFh2N0p0ajNqcnVFRktqN3JVSkg4dU1RbF92eXFKeDl2eE8wbmdjNEl6LUQ4ZzRUMFBLRnFhOTN5MS1Ealp5VmlBbUVrNXNMMm45UlpzeFNNcmpoQXdGX2JsOHNmVmtDajJTZ0lFajRxLUZ0UW80U3dRYzlpRFFCTGFWN0t2U09ic1VyT05SZEhzOUxNVlVSTENxclJmanZ6RmJSTEQyQnVkNmhqeFJxclM0cm1pRk1MeEwxWXFqaUNia2ZBU0paNzJCUUJ0QkR4ejNlZENBTGJjSm5SMnZ3aFE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "e08e46d1280c",
       "title": "這運動「每天6分鐘」降低40%死亡率！還減少5成心血管死亡風險",
       "published": "2026-07-02T14:51:21+00:00",
@@ -139,13 +59,41 @@
       ]
     },
     {
-      "id": "5d074a8eb89f",
-      "title": "31歲女腹痛就醫確診罕見胰臟腫瘤！醫解析保留幽門治療選擇",
-      "published": "2026-07-02T07:00:00+00:00",
+      "id": "d46ac7c7d9df",
+      "title": "抗癌戰士︱YouTuber曉欣抗卵巢癌剃光頭髮公開14cm手術疤痕走訪大埔小店答謝曾幫宏福苑災民餐廳",
+      "published": "2026-07-02T10:19:37+00:00",
       "sources": [
         {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GcURaSWpmZ25vQ0MtSnliUVFZa29Rb1I3RGpsMmdYWDZRLXV6TzdXLWhnY0tOd0g4YUZidXlhMlBnWmp3bHJVUGVHMVRmNFZNZUFoWWdR?oc=5"
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiwwRBVV95cUxNOVlhM3luczlzVGZLN2pjR3NYVUNlcm93Q0diaTZPZ2RZZjJzMmdoczZxcWtTQzM3ZllsN2wzQTNqVHo4YzQ3aWFlVS1BOGs0MEdPbnVXREloNGlNZC1pVzBrWTFzdXdnUFkzbVV6eGNQeVlTMnRSV3hiMjZtTk1nd1JucWk1ejdKME9POW1keVJCdUpTcVc3dkYwel9FUjQ5SnZwVFphLXdmMi1YQXNPSjl0Zy1mMEVjdWdVMDA5Q1VBa3BwQkhkYVNTSE5IX2xEYzBKY1EtcWdoVlE4Y2VQWmFwZUQ3eFlSRUwyNEYtZlhINWlaRmRPT3Z0NTVoVlJWNHVUeTk1YWw3NUNyTHUtcmdVVENIZXdqa0xINmY5cTdBaDVOLVhkcTRJU2tkZ2JfU0FZNUg4WU5SVllDdmVhbDVZeDAzZEVJR1ZzdzZYU3hTbW5JSEZxa1d1dXhkQXphbnljZnhxNjRTVFllOGhXbXJrbnJMamJGZnQtZzEyUzNBOEtMX1JNTGo5NEhZZkZDSENaUkl0b3NBNDNEdVRGNmVzTlZOQm9ydjVFRHdGVTZ2YVFLdTJDVTlNRFZNVUJZeHBWdHBuWlBLT0pxSkZCcS1DTUd6X2hnYVVOc19TWmxGdnVFcFJDdmtMelNtZnJhMkRaS2IxUUp4U1hpejFuWm96eGhKQUdfRlN4eTBaaFhEZVJYaHA0VkZYTlhQTE1ucWFqR0xfWkZNV3AxU3M3RmQ0QlRDVGlicjQ0OXlTMVJoeXM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "卵巢癌",
+          "keyword": "卵巢癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ad5072d49baf",
+      "title": "31歲女腹痛就醫確診罕見胰臟腫瘤！醫解析保留幽門治療選擇 - FTNN 新聞網",
+      "published": "2026-07-02T08:48:00+00:00",
+      "sources": [
+        {
+          "name": "FTNN 新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94YndXRUVGeDRKRk1raWFjaVQwOXN1dDFUcXBSSTFnakpPWEVRbkVvVzYta0VzQkNKMnRNeEpnRkxubkZIU002eGc3OA?oc=5"
         }
       ],
       "keywords": [
@@ -549,41 +497,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "fe019be70eb3",
-      "title": "打皮蛇疫苗還有這好處 逾50萬人研究：失智風險降24％",
-      "published": "2026-07-02T03:54:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oOVh2akxLTjZseXJudHJKWXBKd3NwUkFNcVo5MWdEekJPczF1MjBIQUJyTV9TTVVPcEoxZXR6eEZvV2lvdzBETEJBd0ROOGhHRU82RFRFWGg0X1lwWWJmelRuTUHSAWpBVV95cUxOUnpkeTVuclpyVUhRVF9sZHZmSV9hc2wxNFl2YmZleDFSbXNnNHpUdVc1NWR0MXhCZkZkb1ZKTThHTmtzM3BNZmhIYjdaRUZOWW1zZG16eDVIZEF4X1c0MEdxVHV2OXEtdzhR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "皮蛇",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

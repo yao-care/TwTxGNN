@@ -44,11 +44,11 @@ permalink: /news/acetazolamide/
 
 ## 相關新聞（2 則）
 
-### [31歲女腹痛就醫確診罕見胰臟腫瘤！醫解析保留幽門治療選擇](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GcURaSWpmZ25vQ0MtSnliUVFZa29Rb1I3RGpsMmdYWDZRLXV6TzdXLWhnY0tOd0g4YUZidXlhMlBnWmp3bHJVUGVHMVRmNFZNZUFoWWdR?oc=5)
+### [31歲女腹痛就醫確診罕見胰臟腫瘤！醫解析保留幽門治療選擇 - FTNN 新聞網](https://news.google.com/rss/articles/CBMiS0FVX3lxTE94YndXRUVGeDRKRk1raWFjaVQwOXN1dDFUcXBSSTFnakpPWEVRbkVvVzYta0VzQkNKMnRNeEpnRkxubkZIU002eGc3OA?oc=5)
 
 2026-07-02 <span class="news-indication-tag">腫瘤</span>
 
-來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GcURaSWpmZ25vQ0MtSnliUVFZa29Rb1I3RGpsMmdYWDZRLXV6TzdXLWhnY0tOd0g4YUZidXlhMlBnWmp3bHJVUGVHMVRmNFZNZUFoWWdR?oc=5)
+來源：[FTNN 新聞網](https://news.google.com/rss/articles/CBMiS0FVX3lxTE94YndXRUVGeDRKRk1raWFjaVQwOXN1dDFUcXBSSTFnakpPWEVRbkVvVzYta0VzQkNKMnRNeEpnRkxubkZIU002eGc3OA?oc=5)
 
 ---
 

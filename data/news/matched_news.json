@@ -1,16 +1,55 @@
 {
-  "last_updated": "2026-07-04T00:09:10.660952+00:00",
+  "last_updated": "2026-07-04T04:28:40.279267+00:00",
   "total_count": 28,
-  "matched_count": 8,
+  "matched_count": 5,
   "news": [
     {
-      "id": "3bb1ca23fd9f",
-      "title": "6類食物或增加患癌風險 醫生提醒：高糖、 過燙及加工肉要少吃",
-      "published": "2026-07-03T23:00:06+00:00",
-      "summary": "6類食物或增加患癌風險 醫生提醒：高糖、 過燙及加工肉要少吃&nbsp;&nbsp;bastillepost.com健康網》天天喝現榨果汁反發炎！ 醫警防癌3陷阱 這你可能天天踩&nbsp;&nbsp;自由健康網不菸不酒竟罹癌！醫點名3大養生陷阱：一票人天天都在做&nbsp;&nbsp;TVBS新聞網",
+      "id": "4b6904fe4c6e",
+      "title": "破解細菌製藥祕密 找到打造新一代抗癌藥方法",
+      "published": "2026-07-04T04:14:45+00:00",
+      "summary": "破解細菌製藥祕密 找到打造新一代抗癌藥方法&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQMUQ5VHF2SXU4MFN5MFRQSmZXQTczUl9hMi1GdEQ2RWs3djdBeWlVem1ENVZpeW5zcHNOdmszYnVFQnZNU0xlWDQyam5CRlJHM05NVEZNRnFROWJqaXhmV2tBN2k2VzVMT2F6R0dHdlNoSXNpS3lqeWpHT3B4VkFaMGlBWGtUSVBxRkVXVGEzelBfb0c3NDFqOFBDM3FjU2E0ZmRicHRILS1iRnkxREFONUFnS1BxalFJc2dyZEtMb0pWNUZPUklzbGZxZUoycWI1Z2o4MTBWLXV3S19NaWZGaXpPSDRLcGdVRllLQ0I5UWV3RnNHc3ZjazE3ZEd2RjJPYldONTRPcGtmdk42N3ZoX2Q3UHZ3OXNqMjZaMWE0N2d6SlpaSVJlMTRkMUtpelpMQV95dDUtZ0k5QQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2b7f4448628f",
+      "title": "醫起看／沒被老鼠咬也中！他熬夜吃這零食險洗腎",
+      "published": "2026-07-04T03:01:00+00:00",
+      "summary": "醫起看／沒被老鼠咬也中！他熬夜吃這零食險洗腎&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tZ2Jfa09nR0J1T2x1c0w1RGZBdnlManFsak5xV3dsMWM0TWxLTjBDOUtYSTRFMERTVVdxV0h6RTVTdUYwMlppZVJ1ZlE1NHFncGM5Sg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c99a4d7d5566",
+      "title": "健康網》荔枝吃太多恐釀「荔枝病」 中醫有方",
+      "published": "2026-07-04T00:22:00+00:00",
+      "summary": "健康網》荔枝吃太多恐釀「荔枝病」 中醫有方&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pWEJKak5TcmtBSENGSDVVV0VPNktmcUFVUTBhTXdyT0dWSUVuRk9EeW9wallvTkhBNFJHLWo2OUloZUVfTGlnZ2tUQTZncGIwVExWNWg2TmRubmREckN5TWhUYUrSAWpBVV95cUxObDdJanFaNjUyZVNMT1NCeGNFaDVSZjZxRnVUY3V5dzBYWTdMSHdhT2ZWTFBvTmo0d2xZaUVNa25FZGVieHp3eFVBNjV1ZUxyOVZlXy0yNlM0X0cwZkNCQ2dKMTBMQlBjRC13?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0639e7d47e39",
+      "title": "6類食物或增加患癌風險 醫生提醒：高糖、 過燙及加工肉要少吃",
+      "published": "2026-07-03T23:00:06+00:00",
+      "summary": "6類食物或增加患癌風險 醫生提醒：高糖、 過燙及加工肉要少吃&nbsp;&nbsp;巴士的報健康網》天天喝現榨果汁反發炎！ 醫警防癌3陷阱 這你可能天天踩&nbsp;&nbsp;自由健康網不菸不酒竟罹癌！醫點名3大養生陷阱：一票人天天都在做&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxObFNXRmZFcEk0SUxsMC1GUjhhV1d2QzRjelpOVXlvM0hzVTVDdXVEOVNFcjdyWW1RUDV3TUh0TWRBWjZBaW5zQXZ6a3pyb0dqX3d3UDhaaUN6YWd3d3RrQVF6WXhXZ1NtWnl6NThLbnlyejJUNFlfZUJ0Tkk0aF9uaXBFYl9jYnE2TjZpa1NLdjF4RVRIMjhpNm9kTEFPRnV2ZzNOUEsxanZLSzA2OFdZMUJSZzlfOERsTTlJM18ybzMxVllwS290VWhDR0NmM3lHZWpOUFd1c2wtQ1g2T0QzZ0swaHZMTDNYb24zbEF1bHZmcy0tWm1xWTlPRFNLbHkyeE1iZnhfM3VKSDJDN1hjY2MyZnRFa2h3Smw5SU5LUzZLLWszTkhWbWtlUW9wcjFtWmhEUE1jdnh1YWFuTnh6Q2RjNkUzU25XWDU0VXZTd2k4RU9lTC1NRm93OE5UbHRNU3VXaGI5RUFSc1JMX1pYNw?oc=5"
         }
       ],
@@ -20,7 +59,7 @@
       "id": "8596c446909b",
       "title": "豆漿加1食材能抗發炎！研究證實：4週「降低3發炎指標」",
       "published": "2026-07-03T12:17:31+00:00",
-      "summary": "豆漿加1食材能抗發炎！研究證實：4週「降低3發炎指標」&nbsp;&nbsp;三立新聞網SETN.com健康網》番茄不只抗氧化 研究：加碼「1 物」還能抗發炎&nbsp;&nbsp;自由健康網慢性發炎百病上身每天喝番茄豆漿4周有感改善- 健康&nbsp;&nbsp;中時新聞網番茄功效｜加1物茄紅素增3倍抗發炎4周見效！最佳3配搭防前列腺癌&nbsp;&nbsp;香港01每天355c.c就有效！醫曝「番茄豆漿」抗發炎 3大指標明顯下降&nbsp;&nbsp;TVBS新聞網",
+      "summary": "豆漿加1食材能抗發炎！研究證實：4週「降低3發炎指標」&nbsp;&nbsp;三立新聞網SETN.com健康網》番茄不只抗氧化 研究：加碼「1 物」還能抗發炎&nbsp;&nbsp;自由健康網世界上最健康水果是它！「番茄」營養價值更勝蘋果、香蕉，抗氧化還能降低罹癌風險&nbsp;&nbsp;ELLE慢性發炎百病上身每天喝番茄豆漿4周有感改善- 健康&nbsp;&nbsp;中時新聞網番茄功效｜加1物茄紅素增3倍抗發炎4周見效！最佳3配搭防前列腺癌&nbsp;&nbsp;香港01",
       "sources": [
         {
           "name": "三立新聞網SETN.com",
@@ -30,14 +69,27 @@
       "matched_keywords": []
     },
     {
-      "id": "8b524af7baae",
-      "title": "禁慾沒用！「3件事」真能提升睪固酮：第一項免流汗、最有效",
-      "published": "2026-07-03T08:01:00+00:00",
-      "summary": "禁慾沒用！「3件事」真能提升睪固酮：第一項免流汗、最有效&nbsp;&nbsp;Yahoo新聞健康網》禁慾沒用！ 醫曝3件無聊小事真正助攻男性雄風&nbsp;&nbsp;自由健康網禁慾不會變強！醫師曝「做好3件無聊小事」最重要&nbsp;&nbsp;ETtoday新聞雲禁慾7天睪固酮暴增145％？ 醫潑冷水：不如做好3件事- 健康&nbsp;&nbsp;中時新聞網健康網》肚子越大越「不行」 恐是這脂肪吃掉睪固酮&nbsp;&nbsp;自由健康網",
+      "id": "13fd0a9db548",
+      "title": "健康資訊愈看愈亂？專家曝3點判斷可信度",
+      "published": "2026-07-03T08:51:01+00:00",
+      "summary": "健康資訊愈看愈亂？專家曝3點判斷可信度&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPaDdYOWJoZEJFMnRBeUpOLVVyTkNaZmlISXE2MnR0c3JxZTdwcF93eHJSQ2E4OVVydWVLTG1DSG1MTll0d3hBaG9Wb3pfQjZta0ZYZ3dXXzF6amMwVWkyOVBqV2t5VWxYck10RGttNlZnQURaV3VodXY3OTlMM0FlZ0U5eVBTbFJDS1hxX3FjUHlfYURGUEFhcVU0ZEFIR2RQLVJVX0IzSkxqM3RXSTZ2dmlSSExPQnZVamZUWVZ0U2p4cHlScU5Md2g4dHJLeVVnOE54enhXTDZZRVJZT1cwdUZKNWlfSktUTEFYUUYzaXpWZGFINmpDRFA5ZXhHenJNZzBIajhUTGd5bUwwVUI5Q2tsWE5xQlk3LWloZUM5MFU1d25iWXJqSW9tRENBTEtRNUE?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1seW8tZ3RyQTU2R2pXYTBLdzlBcWotNWdGb2FrNWNybzhuMTBxbWExb253MTY5MEVFMnMwVmk5NnNGQmZ6djhhZzFwRmVkSTh1djdDdmphaHFsVVlGUFUxLQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "559e8e81e707",
+      "title": "禁慾沒用！「3件事」真能提升睪固酮 - 鏡週刊Mirror Media",
+      "published": "2026-07-03T07:56:00+00:00",
+      "summary": "禁慾沒用！「3件事」真能提升睪固酮&nbsp;&nbsp;鏡週刊Mirror Media健康網》禁慾沒用！ 醫曝3件無聊小事真正助攻男性雄風&nbsp;&nbsp;自由健康網禁慾7天睪固酮暴增145％？ 醫潑冷水：不如做好3件事- 健康&nbsp;&nbsp;中時新聞網禁慾沒用！「3件事」真能提升睪固酮：第一項免流汗、最有效&nbsp;&nbsp;Yahoo新聞禁慾不會變強！醫師曝「做好3件無聊小事」最重要&nbsp;&nbsp;ETtoday新聞雲",
+      "sources": [
+        {
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1YWJNaldRWTVmaGwwMks0SEdGbnpNX1VrbzhjX1lrR2c4Nzc4NUlwR2FhcWQxVmsxeU5sYUJ3Mlk5dDItMkpnSXFrajdpbTZXajBZc1ZhTmtWaDlu0gFiQVVfeXFMT0JtYlQxZXhvMGhneE51MjZtbGhtTnNQTUFOaHhxRUwzMDVmbFBLTjBPa1A1SmZvcDQ0b29pa2NtTnpEeG5GUjlXTDVYbW5GWG9rYy1WcUxZZFNqLXRSX2YwYnc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -92,7 +144,7 @@
       "id": "c2d532ebb576",
       "title": "膠原蛋白不只愛美女性需要！ 營養師：上班族、長輩都該補充",
       "published": "2026-07-03T07:00:05+00:00",
-      "summary": "膠原蛋白不只愛美女性需要！ 營養師：上班族、長輩都該補充&nbsp;&nbsp;台視新聞網膠原蛋白不是只有愛美女性需要！營養師：上班族、長輩都該補充&nbsp;&nbsp;Yahoo新聞天天吃膠原蛋白卻沒感覺？營養師揭「4大流失地雷」沒改掉吃再多都白費&nbsp;&nbsp;Women's Health吃膠原蛋白到底有沒有用？營養師列「生活4大地雷」小心吃了也流失&nbsp;&nbsp;優活健康網吃膠原蛋白卻狂冒痘？營養師揭真相：問題未必出在膠原蛋白&nbsp;&nbsp;台視新聞網",
+      "summary": "膠原蛋白不只愛美女性需要！ 營養師：上班族、長輩都該補充&nbsp;&nbsp;台視新聞網膠原蛋白不是只有愛美女性需要！營養師：上班族、長輩都該補充&nbsp;&nbsp;Yahoo新聞天天吃膠原蛋白卻沒感覺？營養師揭「4大流失地雷」沒改掉吃再多都白費&nbsp;&nbsp;Women's Health吃膠原蛋白到底有沒有用？營養師列「生活4大地雷」小心吃了也流失&nbsp;&nbsp;優活健康網",
       "sources": [
         {
           "name": "台視新聞網",
@@ -115,46 +167,17 @@
       "matched_keywords": []
     },
     {
-      "id": "b284c1c0fcb9",
+      "id": "829f9dd9cd46",
       "title": "牙醫一看嘴巴就知道！糖尿病3大口腔警訊曝 出現1症狀快驗血糖",
       "published": "2026-07-03T05:03:00+00:00",
-      "summary": "牙醫一看嘴巴就知道！糖尿病3大口腔警訊曝 出現1症狀快驗血糖&nbsp;&nbsp;Yahoo新聞15歲少年睡夢中猝逝一睡不醒！醫生揭3大日常致命壞習慣：口腔已有早期先兆&nbsp;&nbsp;UHK 港生活",
+      "summary": "牙醫一看嘴巴就知道！糖尿病3大口腔警訊曝 出現1症狀快驗血糖&nbsp;&nbsp;鏡報15歲少年睡夢中猝逝一睡不醒！醫生揭3大日常致命壞習慣：口腔已有早期先兆&nbsp;&nbsp;UHK 港生活",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPbldXVF9UTTdQbDhETEVmeFlWenZlVDBwT2JZeC1RUzJSdGgydzhHQ1gyZXp4ZnJXOEpUU2VNOXFLV1JEcTlHZEdERjZua1hKeFRYZmJOMWMycDVJSjdHWTdZUFg4OXd6UVgxYmhwVHA2Tk5zZzU5cVAwMV9hM3NVNTRiYWNwNTYzS3pEcnlyUWtTQmZ6WWg2VV9uY0kwRjBTR1p3Um5TVjdFMi1WYTctVG1MY3ZMcEx5NHRXcXZuQ0dqbE5SSHRKbmZEcHVsZDVoeENQeldOZ1NZcmk2cWNBRjRiYTJ4bmYtLUpIc2d0TEJCMnp2cEhobjc3Nk93UlNaNXcyTWxrN2tvYTRHMmJwZWdJazJrakZXOXlSdDBEQ25GaVVjbFBMU1h4TlRudTk5S0ZLUnlScE5nMlpLSS02UzRnSzZrd0dTbTZjQUs5dWI5czNMQUdYZUJqZmlsMkl3bkZ3ZEpjRmlSZTlOenF0M2tDZXoxVUVhOEYxX0NKYllScmpqbVE?oc=5"
+          "name": "鏡報",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JanhycXFjWmRNT1JPX0dCTW1OOVV4NkoyMm9WYnRmb0E2ZTczXzlCRlNHNmMxRS1PM1ZmS2xVcTZoYVlDcHZ1UHUxaWJTS0d5d3c?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "ef1da3ec0e35",
-      "title": "卵巢癌｜27歲YouTuber曉欣抗癌9個月 「癌細胞清零」歷剃光頭割巨瘤難關 感謝網友力量伴度難關",
-      "published": "2026-07-03T05:00:22+00:00",
-      "summary": "卵巢癌｜27歲YouTuber曉欣抗癌9個月 「癌細胞清零」歷剃光頭割巨瘤難關 感謝網友力量伴度難關&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxQR2ZXcFBuaUZkMVMyZ1JQVTU4NjZINEtqUGlMVGJjNjdKU2lfZDhldFNaREpSM2xrRWZic1M1UEc3NFZHTkpWcHdIaUdhRzd4dXZfYnBPZWNqZ3NVZTRGZ1RmaFh0eWxLOV9BZl9na3cyUXBCUnlZWnZ4WURJMzlLdjd6TmdfU3F6LWt3cFRCZFdOS2lWRUp5bWxaenVCVnBBd2pnSU02SVRqaV9JdC03TklpSVpWWEdiVXNqNi1pY3JPQU85N2dsUkRQbmRIR3pac2pwUXBGZWh4Rl9za0l1WjRqakdUSS1BQko4cTlCNDhrb2Zrb3pWUzJYRElVVENqRllPTDFwME4tWG1fSFhhMWVQcWFxTFZMenBJMzhMRExfODJhT1Z6WXRMbGF1dmc4a0dpNWxGa0RFZlQ0ZDZmbWx2QlViY1ExY0puOGdQaTREamoyZzU0cGZtYWZPM04xMWIyeHNxaFVSTGxZTXAtUXU3ekg1Y0FrbWhITjNoeG8wSnFIUVlpVVo1bW16cUg4T3JRN1NyVVRkZ01hY2RPaC1PYVlpOVdNN1BQTmUxVUVsTUZVd1RmV1oyVDJhd3N1S1JKbURiX0VsSHZmb2xNUnp6YVpieXdQRjFaUzJ2aWxTdHZkYjh2RDZiRjRVZDFJeXlRVDJ4VHl4VjA0T0gyRg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "卵巢癌",
-          "keyword": "卵巢癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "b362e8db723a",
@@ -183,31 +206,6 @@
       "matched_keywords": []
     },
     {
-      "id": "d7c39af6da86",
-      "title": "關節保養竟影響大腦？最新研究發現：「這類人」失智惡化風險恐增加25％！",
-      "published": "2026-07-03T03:53:00+00:00",
-      "summary": "關節保養竟影響大腦？最新研究發現：「這類人」失智惡化風險恐增加25％！&nbsp;&nbsp;良醫健康網",
-      "sources": [
-        {
-          "name": "良醫健康網",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95ano5UWZWMWU2Z1dOaDA5WWJQS2x0Z1Jwa042bTdETENiNzUyZEJfcFJaWjNfeEdwWWxvQkZEZ3BBNzVMY0JxaHBxdExjQ0F2MmZQa1hLQ2g2Sl9GSlRlYlRIeWxfSEtOZFE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "46c0771bd857",
       "title": "骨頭 DNA 終結懸案，16 世紀梅迪奇家族成員不是被毒死 - TechNews 科技新報",
       "published": "2026-07-03T02:42:35+00:00",
@@ -224,30 +222,14 @@
       "id": "d4184f0af541",
       "title": "血糖高一點沒關係？醫警告：平均6年恐變糖尿病！不想吃藥，現在做4件事還來得及",
       "published": "2026-07-03T01:16:40+00:00",
-      "summary": "血糖高一點沒關係？醫警告：平均6年恐變糖尿病！不想吃藥，現在做4件事還來得及&nbsp;&nbsp;Yahoo新聞「烘焙王」不戒甜點逆轉紅字調整飲食重拾健康| 生活&nbsp;&nbsp;中央社 CNA「愛吃麵包」引發代謝症候群 58歲男戒掉一習慣逆轉糖尿病前期&nbsp;&nbsp;UDN全球5.89億人患有糖尿病！約4成患者不知確診 等到中風、心衰竭已太遲&nbsp;&nbsp;TVBS 健康2.0九成糖尿病前期患者渾然不覺 專家：血糖管理比減重更重要&nbsp;&nbsp;三立新聞網SETN.com",
+      "summary": "血糖高一點沒關係？醫警告：平均6年恐變糖尿病！不想吃藥，現在做4件事還來得及&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxObUtEczY2Zmc4YUs5ZGdMT0hOM3lSYVlJekZyTzdUV1lHZExFVFdtUkIxalpId1MteVByUEFvaTlLYmlKcE5Kei1halBSV05WcjhlUGgxVFdaNnZ0QVJQTjIzQnVsVHFBWTBWX01vWlVHSUJRM2hhRElGTEYwMUliWlpBNmRFekRITFh2N0p0ajNqcnVFRktqN3JVSkg4dU1RbF92eXFKeDl2eE8wbmdjNEl6LUQ4ZzRUMFBLRnFhOTN5MS1Ealp5VmlBbUVrNXNMMm45UlpzeFNNcmpoQXdGX2JsOHNmVmtDajJTZ0lFajRxLUZ0UW80U3dRYzlpRFFCTGFWN0t2U09ic1VyT05SZEhzOUxNVlVSTENxclJmanZ6RmJSTEQyQnVkNmhqeFJxclM0cm1pRk1MeEwxWXFqaUNia2ZBU0paNzJCUUJ0QkR4ejNlZENBTGJjSm5SMnZ3aFE?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "e08e46d1280c",
@@ -288,92 +270,56 @@
       "matched_keywords": []
     },
     {
-      "id": "f5677035f7f7",
-      "title": "青少年腰背痛或4疾病表徵：椎間盤突出、椎弓斷裂 查找痛源及早治療免礙成長",
-      "published": "2026-07-02T08:28:36+00:00",
-      "summary": "青少年腰背痛或4疾病表徵：椎間盤突出、椎弓斷裂 查找痛源及早治療免礙成長&nbsp;&nbsp;明報健康網",
+      "id": "6b1cc0a9c15c",
+      "title": "加拿大11歲男童「睡到一半發現蝙蝠停臉上」 不久後竟因狂犬病去世 | 上報 - LINE TODAY",
+      "published": "2026-07-02T12:44:41+00:00",
+      "summary": "加拿大11歲男童「睡到一半發現蝙蝠停臉上」 不久後竟因狂犬病去世 | 上報&nbsp;&nbsp;LINE TODAY加拿大11歲男童「睡到一半發現蝙蝠停臉上」 不久後竟因狂犬病去世&nbsp;&nbsp;Yahoo新聞安省醫生警告：接觸蝙蝠須立即求醫&nbsp;&nbsp;大纪元11歲男童遭蝙蝠停臉上，沒發現傷口，最終竟感染狂犬病身亡&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網半夜驚醒「蝙蝠趴口鼻」！11歲男童19天後狂犬病發 中樞神經系統崩潰慘死&nbsp;&nbsp;鏡週刊Mirror Media",
       "sources": [
         {
-          "name": "明報健康網",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxObEZZUUo3SkZhQlpyUFIxVzBMYmc3VkpHeENqbjdnUkhSY1MyUXdhQmVtYnVlclM3NHJnd1dtTUV4TGJQaGZNZG8zenlVbFY0a2VQRFkxR3k5MVNJS2FjV204VDJiWTVZcjZYbUprdXZiSGYxQ0U2U29LRGtISVhOYUxCQnBNczdhVlJWWG5OY0pmMkFfeWhodUpaUlpVV1p6SWlJRkF2Q2pscGtwdG1PSEFRcnV1SWd1eEV5TDV2WG96Q212ejNCSE1rNG9QenR6elUxdVBBVkY1V2pPa2FpS1k5LXU2ZE9EblJnV2NlWXNZTkM2aTdTR0IwX3pyYzFHcDdNSklKU3pJRXhtYzdWV1E5ZmcydU9nMzlDS3dJV003a1BqRDR4ZFFDZzZtb3hrZlVIVVpZelRaRms2UWZJcnhHX1dnWVBtMU1DRg?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mc2FMeXpnOWtmczBKOXhFTDNaVURPZGNVSE83bXRkMFd2OFdVV3VEeWpiY2Z5YzNOUjM5TFMzaXUtb2o1OE9LRzdyemlEVmRxLUd3dTdB?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "19686df669d7",
-      "title": "防護中心宣布正式進入新流感季節　主要流行甲型H3",
-      "published": "2026-07-02T08:18:00+00:00",
-      "summary": "防護中心宣布正式進入新流感季節 主要流行甲型H3&nbsp;&nbsp;881903.com香港進入流感高峰期 伴隨新冠病毒活躍&nbsp;&nbsp;UDN新冠升溫｜本港進入季節性流感季節甲乙型流感及合胞病毒齊升長者免費疫苗接種計劃懶人包- 東張+&nbsp;&nbsp;myTV SUPER衞生防護中心：甲型H3流感肆虐 籲家長盡快為幼童接種&nbsp;&nbsp;香港商报夏季流感季節開始 歐家榮指或與新冠形成「雙高峰」 老幼高危&nbsp;&nbsp;香港01",
+      "id": "d46ac7c7d9df",
+      "title": "抗癌戰士︱YouTuber曉欣抗卵巢癌剃光頭髮公開14cm手術疤痕走訪大埔小店答謝曾幫宏福苑災民餐廳",
+      "published": "2026-07-02T10:19:37+00:00",
+      "summary": "抗癌戰士︱YouTuber曉欣抗卵巢癌剃光頭髮公開14cm手術疤痕走訪大埔小店答謝曾幫宏福苑災民餐廳&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
-          "name": "881903.com",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNRVMxNUQ5RmR4NkJNRUpTa2F0eE04ZkRTUGVlQ0RzQjFKOEdtLXdDdGRUUkVUNW1Za1NuZm9BSEJ1OVRjS3ViWHdNQi1LQ2g5azNCelp3VTkyd3YxZ1hUMEo0eW1XM0lhelpyRkxLczg1UlJka1NRRlM5UUhGZk1nZFpmNTFKVEFWLTRfUUtiUndhQTBHcE40aHU2ZlBONWlIeVdPdVVkNlpVT0RLdUQ5VXdPSjFsWW4tWjBtTk5KekM4S2lORHhraGRzSTJ0ZlgyeGtpQTVka1ZLWlNkU0JzeWdyMlZOUGR3dWNHWFR4akUtT2RkalRQaWs4Y3BnUlkybDJkV0NKNFhvcy12Nng4RHk5QWVxaGNfaTU0bVJHRmNXQTBPU0xNRkNfeGRScEJKX2hWTWNaZG43VXFUOTYyb2lvQ2ZxNExNRDJHY0Q2R19FZG9O0gFYQVVfeXFMTWRYdVZqcC1rdlJ4bVZoTlpVMHBmdDhmTG5aMm1RNE5vbHF4dkwtcEk1SEJDd2RkQUpwSVZlSXRub0hLdlV0ZzNlSGc4dkE3bzM2VjVVcUs2Mg?oc=5"
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiwwRBVV95cUxNOVlhM3luczlzVGZLN2pjR3NYVUNlcm93Q0diaTZPZ2RZZjJzMmdoczZxcWtTQzM3ZllsN2wzQTNqVHo4YzQ3aWFlVS1BOGs0MEdPbnVXREloNGlNZC1pVzBrWTFzdXdnUFkzbVV6eGNQeVlTMnRSV3hiMjZtTk1nd1JucWk1ejdKME9POW1keVJCdUpTcVc3dkYwel9FUjQ5SnZwVFphLXdmMi1YQXNPSjl0Zy1mMEVjdWdVMDA5Q1VBa3BwQkhkYVNTSE5IX2xEYzBKY1EtcWdoVlE4Y2VQWmFwZUQ3eFlSRUwyNEYtZlhINWlaRmRPT3Z0NTVoVlJWNHVUeTk1YWw3NUNyTHUtcmdVVENIZXdqa0xINmY5cTdBaDVOLVhkcTRJU2tkZ2JfU0FZNUg4WU5SVllDdmVhbDVZeDAzZEVJR1ZzdzZYU3hTbW5JSEZxa1d1dXhkQXphbnljZnhxNjRTVFllOGhXbXJrbnJMamJGZnQtZzEyUzNBOEtMX1JNTGo5NEhZZkZDSENaUkl0b3NBNDNEdVRGNmVzTlZOQm9ydjVFRHdGVTZ2YVFLdTJDVTlNRFZNVUJZeHBWdHBuWlBLT0pxSkZCcS1DTUd6X2hnYVVOc19TWmxGdnVFcFJDdmtMelNtZnJhMkRaS2IxUUp4U1hpejFuWm96eGhKQUdfRlN4eTBaaFhEZVJYaHA0VkZYTlhQTE1ucWFqR0xfWkZNV3AxU3M3RmQ0QlRDVGlicjQ0OXlTMVJoeXM?oc=5"
         }
       ],
-      "matched_keywords": []
-    },
-    {
-      "id": "06604960cdec",
-      "title": "越常用AI問健康 越容易相信疫苗謠言？美最新民調揭兩者存在關聯 - Taiwan News",
-      "published": "2026-07-02T07:50:00+00:00",
-      "summary": "越常用AI問健康 越容易相信疫苗謠言？美最新民調揭兩者存在關聯&nbsp;&nbsp;Taiwan News",
-      "sources": [
+      "matched_keywords": [
         {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YYklqeUN3c1p6SWhiQVYzUXQxaXFSWXZRUUhNSC1KWGUwQ21VUXQ1d1dYM3FxaHVQNTkyaWZpbVVQTTVSanJvckZKbzBndldubi1QSGRLMWc?oc=5"
+          "type": "indication",
+          "name": "卵巢癌",
+          "keyword": "卵巢癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
         }
-      ],
-      "matched_keywords": []
+      ]
     },
     {
-      "id": "5def36949a1f",
-      "title": "醒來發現蝙蝠在臉上! 加拿大11歲男童染狂犬病死亡症狀初期遭誤判為皰疹| 國際",
-      "published": "2026-07-02T07:49:27+00:00",
-      "summary": "醒來發現蝙蝠在臉上! 加拿大11歲男童染狂犬病死亡症狀初期遭誤判為皰疹| 國際&nbsp;&nbsp;Newtalk新聞加拿大11歲男童「睡到一半發現蝙蝠停臉上」 不久後竟因狂犬病去世&nbsp;&nbsp;Yahoo新聞安省醫生警告：接觸蝙蝠須立即求醫&nbsp;&nbsp;大纪元11歲男童遭蝙蝠停臉上，沒發現傷口，最終竟感染狂犬病身亡&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網半夜驚醒「蝙蝠趴口鼻」！11歲男童19天後狂犬病發 中樞神經系統崩潰慘死&nbsp;&nbsp;鏡週刊Mirror Media",
+      "id": "ad5072d49baf",
+      "title": "31歲女腹痛就醫確診罕見胰臟腫瘤！醫解析保留幽門治療選擇 - FTNN 新聞網",
+      "published": "2026-07-02T08:48:00+00:00",
+      "summary": "31歲女腹痛就醫確診罕見胰臟腫瘤！醫解析保留幽門治療選擇&nbsp;&nbsp;FTNN 新聞網",
       "sources": [
         {
-          "name": "Newtalk新聞",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZSldjTnZxSVZlS0xVMVJJZ1RfR3BOMFlCMnpTcFpkQ1BZaFFuNV9SeEVERDV4TUpoaUloVTJpZmlJWG5uYmswNVp3WGZnYzlOdmV5Zkx5Wnpxa2s?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5f388ed82658",
-      "title": "暑假旅遊慎防傳染病 衞生署籲出發前瀏覽網站查閱旅遊健康資訊",
-      "published": "2026-07-02T07:08:12+00:00",
-      "summary": "暑假旅遊慎防傳染病 衞生署籲出發前瀏覽網站查閱旅遊健康資訊&nbsp;&nbsp;bastillepost.com衛生署：暑假外遊，慎防麻疹和伊波拉等傳染病&nbsp;&nbsp;香港商报衞生防護中心提醒市民暑假外遊須預防傳染病&nbsp;&nbsp;香港電台新聞網麻疹疫情在全球蔓延 尤其在歐洲地區加劇 - 生活新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞伊波拉疫區返港市民 衞生署籲主動申報&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "bastillepost.com",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPWGlxY0RrNWdldW9SMGp2ZXpyb1E5YWhTeEpXdWJtU3BKc0paNThLelpHSDlYV2ZxRXZweXl1bnpXRjZzTkxOVHBZSHZDd2hqdW5xNUMyZVMwR2Y1S2FLLWVWM2RISXNhWHBrUkt1MG96b01RdGU0WXJzT052Q2hOWVo5aWZoNFlMdjNlUkRhcXF2MVpaN1Q4a3hsT3Z0UzVoTDNtN1Q4U0N0MFh6TF8xcHdHWUw5a0lqRi0zejdCOXpOY1VYSW1WU2JOb29IN0wySTl4RGtPaTlHWFRkc2cyYVNoTW5XYlFGZHVEOVVsanRSQ2ttOHh0blNkUHpRZ3JBYUdWdmVNNTcybE01R2UtVVg2QzVITmthcG5IVU5CRE1oX0ZFMjRyY0xrMkJydW5scW1MNzNsYU9aal84ZktFRm4zb2ZuQTEyRFFCT0UyY2s5dzlUYXFXNXNCaEE3aUNUbDF5UkxsNlgwNUY3YVlR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "82ce99125804",
-      "title": "全球流感病毒愈活躍 熱帶地區更勝寒冷地帶",
-      "published": "2026-07-02T07:05:25+00:00",
-      "summary": "全球流感病毒愈活躍 熱帶地區更勝寒冷地帶&nbsp;&nbsp;anntw.com",
-      "sources": [
-        {
-          "name": "anntw.com",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBha1RXWW1EdndSZFYzbGl3RE9TMXp2cUQ5VERUWGlsY3VHNlVRNDZoekwzZFN6dFRVMnFROEpxT1Z6ckhNQi1VWUt6LW1nX21RVGdhVmNDQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5d074a8eb89f",
-      "title": "31歲女腹痛就醫確診罕見胰臟腫瘤！醫解析保留幽門治療選擇",
-      "published": "2026-07-02T07:00:00+00:00",
-      "summary": "31歲女腹痛就醫確診罕見胰臟腫瘤！醫解析保留幽門治療選擇&nbsp;&nbsp;健康醫療網",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GcURaSWpmZ25vQ0MtSnliUVFZa29Rb1I3RGpsMmdYWDZRLXV6TzdXLWhnY0tOd0g4YUZidXlhMlBnWmp3bHJVUGVHMVRmNFZNZUFoWWdR?oc=5"
+          "name": "FTNN 新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94YndXRUVGeDRKRk1raWFjaVQwOXN1dDFUcXBSSTFnakpPWEVRbkVvVzYta0VzQkNKMnRNeEpnRkxubkZIU002eGc3OA?oc=5"
         }
       ],
       "matched_keywords": [
@@ -573,6 +519,58 @@
           ]
         }
       ]
+    },
+    {
+      "id": "f5677035f7f7",
+      "title": "青少年腰背痛或4疾病表徵：椎間盤突出、椎弓斷裂 查找痛源及早治療免礙成長",
+      "published": "2026-07-02T08:28:36+00:00",
+      "summary": "青少年腰背痛或4疾病表徵：椎間盤突出、椎弓斷裂 查找痛源及早治療免礙成長&nbsp;&nbsp;明報健康網",
+      "sources": [
+        {
+          "name": "明報健康網",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxObEZZUUo3SkZhQlpyUFIxVzBMYmc3VkpHeENqbjdnUkhSY1MyUXdhQmVtYnVlclM3NHJnd1dtTUV4TGJQaGZNZG8zenlVbFY0a2VQRFkxR3k5MVNJS2FjV204VDJiWTVZcjZYbUprdXZiSGYxQ0U2U29LRGtISVhOYUxCQnBNczdhVlJWWG5OY0pmMkFfeWhodUpaUlpVV1p6SWlJRkF2Q2pscGtwdG1PSEFRcnV1SWd1eEV5TDV2WG96Q212ejNCSE1rNG9QenR6elUxdVBBVkY1V2pPa2FpS1k5LXU2ZE9EblJnV2NlWXNZTkM2aTdTR0IwX3pyYzFHcDdNSklKU3pJRXhtYzdWV1E5ZmcydU9nMzlDS3dJV003a1BqRDR4ZFFDZzZtb3hrZlVIVVpZelRaRms2UWZJcnhHX1dnWVBtMU1DRg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "19686df669d7",
+      "title": "防護中心宣布正式進入新流感季節　主要流行甲型H3",
+      "published": "2026-07-02T08:18:00+00:00",
+      "summary": "防護中心宣布正式進入新流感季節 主要流行甲型H3&nbsp;&nbsp;881903.com香港進入流感高峰期 伴隨新冠病毒活躍&nbsp;&nbsp;UDN新冠升溫｜本港進入季節性流感季節甲乙型流感及合胞病毒齊升長者免費疫苗接種計劃懶人包- 東張+&nbsp;&nbsp;myTV SUPER本港迎流感季 H3病毒專襲老幼 幼童接種率僅27%&nbsp;&nbsp;on.cc東網數看流感及新冠最新情況- 港聞&nbsp;&nbsp;大公文匯網",
+      "sources": [
+        {
+          "name": "881903.com",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNRVMxNUQ5RmR4NkJNRUpTa2F0eE04ZkRTUGVlQ0RzQjFKOEdtLXdDdGRUUkVUNW1Za1NuZm9BSEJ1OVRjS3ViWHdNQi1LQ2g5azNCelp3VTkyd3YxZ1hUMEo0eW1XM0lhelpyRkxLczg1UlJka1NRRlM5UUhGZk1nZFpmNTFKVEFWLTRfUUtiUndhQTBHcE40aHU2ZlBONWlIeVdPdVVkNlpVT0RLdUQ5VXdPSjFsWW4tWjBtTk5KekM4S2lORHhraGRzSTJ0ZlgyeGtpQTVka1ZLWlNkU0JzeWdyMlZOUGR3dWNHWFR4akUtT2RkalRQaWs4Y3BnUlkybDJkV0NKNFhvcy12Nng4RHk5QWVxaGNfaTU0bVJHRmNXQTBPU0xNRkNfeGRScEJKX2hWTWNaZG43VXFUOTYyb2lvQ2ZxNExNRDJHY0Q2R19FZG9O0gFYQVVfeXFMTWRYdVZqcC1rdlJ4bVZoTlpVMHBmdDhmTG5aMm1RNE5vbHF4dkwtcEk1SEJDd2RkQUpwSVZlSXRub0hLdlV0ZzNlSGc4dkE3bzM2VjVVcUs2Mg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "475cbdc70045",
+      "title": "暑假旅遊慎防傳染病 衞生署籲出發前瀏覽網站查閱旅遊健康資訊",
+      "published": "2026-07-02T07:08:12+00:00",
+      "summary": "暑假旅遊慎防傳染病 衞生署籲出發前瀏覽網站查閱旅遊健康資訊&nbsp;&nbsp;巴士的報衛生署：暑假外遊，慎防麻疹和伊波拉等傳染病&nbsp;&nbsp;香港商报衞生防護中心提醒市民暑假外遊須預防傳染病&nbsp;&nbsp;香港電台新聞網麻疹疫情在全球蔓延 尤其在歐洲地區加劇 - 生活新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞伊波拉疫區返港市民 衞生署籲主動申報&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPWGlxY0RrNWdldW9SMGp2ZXpyb1E5YWhTeEpXdWJtU3BKc0paNThLelpHSDlYV2ZxRXZweXl1bnpXRjZzTkxOVHBZSHZDd2hqdW5xNUMyZVMwR2Y1S2FLLWVWM2RISXNhWHBrUkt1MG96b01RdGU0WXJzT052Q2hOWVo5aWZoNFlMdjNlUkRhcXF2MVpaN1Q4a3hsT3Z0UzVoTDNtN1Q4U0N0MFh6TF8xcHdHWUw5a0lqRi0zejdCOXpOY1VYSW1WU2JOb29IN0wySTl4RGtPaTlHWFRkc2cyYVNoTW5XYlFGZHVEOVVsanRSQ2ttOHh0blNkUHpRZ3JBYUdWdmVNNTcybE01R2UtVVg2QzVITmthcG5IVU5CRE1oX0ZFMjRyY0xrMkJydW5scW1MNzNsYU9aal84ZktFRm4zb2ZuQTEyRFFCT0UyY2s5dzlUYXFXNXNCaEE3aUNUbDF5UkxsNlgwNUY3YVlR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "82ce99125804",
+      "title": "全球流感病毒愈活躍 熱帶地區更勝寒冷地帶",
+      "published": "2026-07-02T07:05:25+00:00",
+      "summary": "全球流感病毒愈活躍 熱帶地區更勝寒冷地帶&nbsp;&nbsp;anntw.com",
+      "sources": [
+        {
+          "name": "anntw.com",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBha1RXWW1EdndSZFYzbGl3RE9TMXp2cUQ5VERUWGlsY3VHNlVRNDZoekwzZFN6dFRVMnFROEpxT1Z6ckhNQi1VWUt6LW1nX21RVGdhVmNDQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "55afd8b31473",
@@ -808,55 +806,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "fe019be70eb3",
-      "title": "打皮蛇疫苗還有這好處 逾50萬人研究：失智風險降24％",
-      "published": "2026-07-02T03:54:00+00:00",
-      "summary": "打皮蛇疫苗還有這好處 逾50萬人研究：失智風險降24％&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oOVh2akxLTjZseXJudHJKWXBKd3NwUkFNcVo5MWdEekJPczF1MjBIQUJyTV9TTVVPcEoxZXR6eEZvV2lvdzBETEJBd0ROOGhHRU82RFRFWGg0X1lwWWJmelRuTUHSAWpBVV95cUxOUnpkeTVuclpyVUhRVF9sZHZmSV9hc2wxNFl2YmZleDFSbXNnNHpUdVc1NWR0MXhCZkZkb1ZKTThHTmtzM3BNZmhIYjdaRUZOWW1zZG16eDVIZEF4X1c0MEdxVHV2OXEtdzhR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "皮蛇",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b11d210393f8",
-      "title": "一直算卡路里卻瘦不下來？真正讓人發胖的不是熱量，而是胰島素- 書房",
-      "published": "2026-07-01T23:31:00+00:00",
-      "summary": "一直算卡路里卻瘦不下來？真正讓人發胖的不是熱量，而是胰島素- 書房&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nTVlIam8zWmpLdzVaNVFaRjFjNFl0TXcyZjNkZnY3UzdCQ3VnMmFhR05lWVpINV9aTEdOXzNjN21Gc19DQ0U1bzJYemlZWHhoZWFCUEpzTmozVkNPNDVF?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
