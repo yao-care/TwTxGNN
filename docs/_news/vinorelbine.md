@@ -14,7 +14,7 @@ permalink: /news/vinorelbine/
 ---
 
 <p class="key-answer" data-question="Vinorelbine 有什麼相關新聞？">
-<strong>Vinorelbine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vinorelbine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/vinorelbine/
 <p><a href="{{ '/drugs/vinorelbine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [RSV病毒傳染力強 1傳3老幼.癌症族群疫苗最關鍵](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEWEFIY0ZmOVF5WGRFZlljQ2h0SUM0OTZmVVdDbUVVQWttYzVXa2NiSkczUm0tUnlCMWVjUnFTQzhHQlhiUWVDTXVGMS10Ym5rTGZzZQ?oc=5)
-
-2026-07-04 <span class="news-indication-tag">癌症</span>
-
-來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEWEFIY0ZmOVF5WGRFZlljQ2h0SUM0OTZmVVdDbUVVQWttYzVXa2NiSkczUm0tUnlCMWVjUnFTQzhHQlhiUWVDTXVGMS10Ym5rTGZzZQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [吸煙招肺癌 致慢阻肺病不可逆轉 傷肺咳嗽呼吸困難 物理治療助紓緩](https://news.google.com/rss/articles/CBMizAJBVV95cUxPMUVDTGVqNnJBTG9Cakozcl9XeFhZZXdpRl9scVdQeFZ5ZlNOM1VrN1d4eTIzY2JOUTJxWXZwVy1kZHdMQ1hlX1h3eFlsdXkzTU5oUEt6eWRmSzktRzk2WmJmU2xCUjFBcnBaaGtqX2EzblZJSWtfR2VnNDFUaHRlZGlIeWRfWmxVUU41V29SY3dPTWJOTUNQZjhGSEN5ZHNEaTN6RGk5LUJwYXV4M2EyODdkVnJ4cFBjM05SLXhaOW8tYTlqZDdfUElBWU1zRktkY1MzTGlJSGhhaVNSeTZBOG5zOHNybk1vWl9HejZOc3RrZVdaLVlUZlZJQ0xHRmVzQW5qVGUxMGtEWWs3aERQTENQeWJENmJfWndiYkFNNkhjVUVQTzFWLVVjejMwakIyNWt4M1BXbnk5cFNnOTV2NUxJNUxDZlBuMTZ4cA?oc=5)
 
