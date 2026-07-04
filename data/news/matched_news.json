@@ -1,36 +1,46 @@
 {
-  "last_updated": "2026-07-04T22:49:08.583566+00:00",
-  "total_count": 15,
-  "matched_count": 2,
+  "last_updated": "2026-07-04T23:54:03.362438+00:00",
+  "total_count": 14,
+  "matched_count": 1,
   "news": [
     {
-      "id": "fa5bc7ac13b9",
-      "title": "肺炎鏈球菌重症不分年齡 醫點名吸菸、慢性病、常出差族要當心",
-      "published": "2026-07-04T07:52:00+00:00",
-      "summary": "肺炎鏈球菌重症不分年齡 醫點名吸菸、慢性病、常出差族要當心&nbsp;&nbsp;自由健康網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "285b59b786e8",
+      "title": "騎單車20分鐘記憶力會變好？ 研究指單次運動已可短暫提升認知表現",
+      "published": "2026-07-04T23:00:22+00:00",
+      "summary": "騎單車20分鐘記憶力會變好？ 研究指單次運動已可短暫提升認知表現&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QZGZFU2JjbFU3c2Jxa2g0NXY3VkVna2F3TEVxSFR0ODBFbWROMG11TjhFR0RCbGVneTZFbVluY05DWFRRenNRWUJEb2tncmxoN3QyYnFYXzVTVVZlbzN5OExwZFjSAWpBVV95cUxQTDZTdmxsQVJKVzVuTjRhUFVpR05HVmNiNmNxRmgzRTNOTTNIU0Jyd3FGTW1BTFVEZDlYNzN4cE43LVotLVFKZ2FmTTBLUkhNQ1FoME40YS1PSGgtQUgtVUlERndlREcwVjVn?oc=5"
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOTVZSeHdvM0RfS0ZneERjamYzVlRFYlBrY1VNRDJsdnhyUDdFQ3ZQV3VFbml0M2hLdVN3UFJxOHdzUElHZTlCNU15bFBfY2t3eXVjcl9WbXRVQXNWQVRoYnJTcGE4bkRBdkJaTjdnQ2pwQlBJOWpfaE9xcC1xMzFKaklsV21TQldPY3MwS3VnRms1TWwtQ3lLNlhtaXhDTGNJZ2t5NVdNUEk0bXl3Zksyai0yc1VIVnZJRE5fNElBVV9fekFOVkxCb2NKVEgyUTFydDZLRzZVMW9lTWtWbHlvWmxTV1liMzN6WGNqeGhDUkwtaDJhOW9yNjlSOTBGcUlDekFjSzd2MG1CcHRNOE9NMzRKME5tVkI2NG9MaW1uUEkzZGhRYkNpOUREWHlNaTFEQW1UaWhvd0JSQ0N3UG8yeWxHYXRkQjVtdTU0UXI0RWZnV2c2a3A1UjVBaFRCZDZIVFdORURIaUxxYjNDcGZIbw?oc=5"
         }
       ],
-      "matched_keywords": [
+      "matched_keywords": []
+    },
+    {
+      "id": "5ff74f5dc613",
+      "title": "花大錢補卻沒感覺？營養師揭膠原蛋白效果關鍵",
+      "published": "2026-07-04T23:00:00+00:00",
+      "summary": "花大錢補卻沒感覺？營養師揭膠原蛋白效果關鍵&nbsp;&nbsp;大纪元膠原蛋白不是只有愛美女性需要！營養師：上班族、長輩都該補充&nbsp;&nbsp;Yahoo新聞女星吃膠原蛋白抗老又凍齡？營養師提醒犯4壞習慣彈性全流失&nbsp;&nbsp;早安健康吃膠原蛋白到底有沒有用？營養師列「生活4大地雷」小心吃了也流失&nbsp;&nbsp;優活健康網天天吃膠原蛋白卻沒感覺？營養師揭「4大流失地雷」沒改掉吃再多都白費&nbsp;&nbsp;Women's Health",
+      "sources": [
         {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
-            }
-          ]
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sbmV5WVNmUTRzQnJkeV9zSGZOc042T3RQc0dJVW9QOVpLNkxkWUM1VnU4aDRjWXFlSG1rOHR1LXhST1dvOGNaV0V1YnNGZDJ6bng5Rm9uN1ZfMUFZdFlhQtIBZkFVX3lxTFBVQVE3Y21Dd1c0NjRRYS1ZV09rejF5enVqYV9zbUdEUG84dEM3RjJkOFZ3REwzMzVrakpLMl9rNndkQThMUjJEUHFMcHFNSWJUZzRMRlZSekpocDFiMHdhdmRxbHFvZw?oc=5"
         }
-      ]
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e7bb8a28a4e9",
+      "title": "骨頭 DNA 終結懸案，16 世紀梅迪奇家族成員不是被毒死 | 科技新報 - LINE TODAY",
+      "published": "2026-07-04T06:23:18+00:00",
+      "summary": "骨頭 DNA 終結懸案，16 世紀梅迪奇家族成員不是被毒死 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vUFNnV2dEY0tuTzVlYkREblQ5YnZqRVZYa3hOd0dRcUlES3BOaGgwRnMwMmRab2xtYmlSLXpuZDQ2WU5VdEFPQTZGSWdTT25YVHhPdnh3?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "4b6904fe4c6e",
@@ -80,32 +90,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45QUhDdkx1bVRiYzJ0VnBkV2duRGpfcmpodzJENnRlNnMzNXctbEpsSjFBUlVpTUQ5TzdiUXdUNFo4UWxMUF9VNTR1b0hPM0kxT2p1QzVDaDRTYnNmTmRzTkRYZi3SAWpBVV95cUxOcDN2aXJIM21XNUVUZFZDTnFpZEJGSjNRbDkyMjZyRVNBX1ZDc3lHOERCVk1TYmU4SFo3d0dwSzBLRUZ3OUVBNktZNjc4WW1Zb0xleUxxa2w5dlpLcVMwVzNzRjJSb205UWpR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5947684d0545",
-      "title": "豆漿加1食材能抗發炎！研究證實：4週「降低3發炎指標」",
-      "published": "2026-07-03T12:15:00+00:00",
-      "summary": "豆漿加1食材能抗發炎！研究證實：4週「降低3發炎指標」&nbsp;&nbsp;三立新聞網SETN.com前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtNkxTYVRQRkdXdHdxUG9KSFRSdTNfWHluMDdWa3JRYktTQlRBbEZEaEZnLTFyalpWMzQ0LUlXWVpaTEx0RmtjbWlSVkpnblZVU2lvUU9YVG3SAV9BVV95cUxPNTFnVDFRWjlrWWwyV1JvLUFCTGVLRFAtV2pUUlc5NF9RSllqWGFtNFdIbVVjd0JpX3lpX3NJczZJbnQyT0tMNXlTZm9XYUhIWV9pSFA1NzhTUXY0cW9MMA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e7bb8a28a4e9",
-      "title": "骨頭 DNA 終結懸案，16 世紀梅迪奇家族成員不是被毒死 | 科技新報 - LINE TODAY",
-      "published": "2026-07-03T11:04:10+00:00",
-      "summary": "骨頭 DNA 終結懸案，16 世紀梅迪奇家族成員不是被毒死 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vUFNnV2dEY0tuTzVlYkREblQ5YnZqRVZYa3hOd0dRcUlES3BOaGgwRnMwMmRab2xtYmlSLXpuZDQ2WU5VdEFPQTZGSWdTT25YVHhPdnh3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -178,19 +162,6 @@
         {
           "name": "香港商报",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95emlTX2tRdmxOREZsdE5sdWF0Mmt5b0VyTVBIdjBpbE1pSk5ubm40a2RvT3YwWFZoU0stZ1hTa09iNGFwd2dZRGhUcHhYT0I2RXRWalpzbE5SSzZ1eExuUWZkMURZN19JZGtZdXd1YzV2ODNZM3IxTXNMYw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c2d532ebb576",
-      "title": "膠原蛋白不只愛美女性需要！ 營養師：上班族、長輩都該補充",
-      "published": "2026-07-03T07:00:05+00:00",
-      "summary": "膠原蛋白不只愛美女性需要！ 營養師：上班族、長輩都該補充&nbsp;&nbsp;台視新聞網膠原蛋白不是只有愛美女性需要！營養師：上班族、長輩都該補充&nbsp;&nbsp;Yahoo新聞女星吃膠原蛋白抗老又凍齡？營養師提醒犯4壞習慣彈性全流失&nbsp;&nbsp;早安健康天天吃膠原蛋白卻沒感覺？營養師揭「4大流失地雷」沒改掉吃再多都白費&nbsp;&nbsp;Women's Health吃膠原蛋白到底有沒有用？營養師列「生活4大地雷」小心吃了也流失&nbsp;&nbsp;優活健康網",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aS3JVeEtRSUtHakFkakhEZFVGNTBoazBPV2p1Q05iRGFDblNTaVAzN0ZBLVZUWDgzNTFNV0U2SGhKYkhDS3dIT3J5REZoMTJ3UUxFTHBrZw?oc=5"
         }
       ],
       "matched_keywords": []
