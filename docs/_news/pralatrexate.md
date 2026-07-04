@@ -14,7 +14,7 @@ permalink: /news/pralatrexate/
 ---
 
 <p class="key-answer" data-question="Pralatrexate 有什麼相關新聞？">
-<strong>Pralatrexate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pralatrexate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/pralatrexate/
 <p><a href="{{ '/drugs/pralatrexate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [31歲女腹痛就醫確診罕見胰臟腫瘤！醫解析保留幽門治療選擇](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GcURaSWpmZ25vQ0MtSnliUVFZa29Rb1I3RGpsMmdYWDZRLXV6TzdXLWhnY0tOd0g4YUZidXlhMlBnWmp3bHJVUGVHMVRmNFZNZUFoWWdR?oc=5)
 
 2026-07-02 <span class="news-indication-tag">腫瘤</span>
 
 來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GcURaSWpmZ25vQ0MtSnliUVFZa29Rb1I3RGpsMmdYWDZRLXV6TzdXLWhnY0tOd0g4YUZidXlhMlBnWmp3bHJVUGVHMVRmNFZNZUFoWWdR?oc=5)
+
+---
+
+### [研究：血液檢測看出器官年齡 預測10年後疾病風險](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFaC1yenUtdW5ETGU0VTBXSUtJMlNsTGxCazRXVUc2YUZjSUVZbURERUNEelliS2p1aFZMdy11b0E0RzJpUlNrU0FjWW5sYTBqZkNZX2ZXNTAtSlhCTGlXeTdQLV_SAWpBVV95cUxQNktWcWNjYTNBM2R4WU5aM29jSTVYNm83RzFhY2x6VWowdnVHN2NmZHQzS2s5OTVsRHIxeHVXcGZpTU9mUTZqdUdOemRVS2VQbG9MOUprQlBoSGhDSndUTVFyZ1dhUnNaTjJ3?oc=5)
+
+2026-07-02 <span class="news-indication-tag">癌症</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFaC1yenUtdW5ETGU0VTBXSUtJMlNsTGxCazRXVUc2YUZjSUVZbURERUNEelliS2p1aFZMdy11b0E0RzJpUlNrU0FjWW5sYTBqZkNZX2ZXNTAtSlhCTGlXeTdQLV_SAWpBVV95cUxQNktWcWNjYTNBM2R4WU5aM29jSTVYNm83RzFhY2x6VWowdnVHN2NmZHQzS2s5OTVsRHIxeHVXcGZpTU9mUTZqdUdOemRVS2VQbG9MOUprQlBoSGhDSndUTVFyZ1dhUnNaTjJ3?oc=5)
 
 ---
 
