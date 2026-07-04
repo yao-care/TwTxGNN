@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [RSV病毒傳染力強 1傳3老幼.癌症族群疫苗最關鍵](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEWEFIY0ZmOVF5WGRFZlljQ2h0SUM0OTZmVVdDbUVVQWttYzVXa2NiSkczUm0tUnlCMWVjUnFTQzhHQlhiUWVDTXVGMS10Ym5rTGZzZQ?oc=5)
+
+2026-07-04 <span class="news-indication-tag">癌症</span>
+
+來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEWEFIY0ZmOVF5WGRFZlljQ2h0SUM0OTZmVVdDbUVVQWttYzVXa2NiSkczUm0tUnlCMWVjUnFTQzhHQlhiUWVDTXVGMS10Ym5rTGZzZQ?oc=5)
+
+---
 
 ### [肺炎鏈球菌重症不分年齡 醫點名吸菸、慢性病、常出差族要當心](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QZGZFU2JjbFU3c2Jxa2g0NXY3VkVna2F3TEVxSFR0ODBFbWROMG11TjhFR0RCbGVneTZFbVluY05DWFRRenNRWUJEb2tncmxoN3QyYnFYXzVTVVZlbzN5OExwZFjSAWpBVV95cUxQTDZTdmxsQVJKVzVuTjRhUFVpR05HVmNiNmNxRmgzRTNOTTNIU0Jyd3FGTW1BTFVEZDlYNzN4cE43LVotLVFKZ2FmTTBLUkhNQ1FoME40YS1PSGgtQUgtVUlERndlREcwVjVn?oc=5)
 

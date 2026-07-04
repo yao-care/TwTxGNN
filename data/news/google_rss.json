@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-04T17:56:31.801418+00:00",
-  "count": 15,
+  "fetched_at": "2026-07-04T19:02:30.838137+00:00",
+  "count": 16,
   "news": [
     {
       "id": "fa5bc7ac13b9",
@@ -12,6 +12,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QZGZFU2JjbFU3c2Jxa2g0NXY3VkVna2F3TEVxSFR0ODBFbWROMG11TjhFR0RCbGVneTZFbVluY05DWFRRenNRWUJEb2tncmxoN3QyYnFYXzVTVVZlbzN5OExwZFjSAWpBVV95cUxQTDZTdmxsQVJKVzVuTjRhUFVpR05HVmNiNmNxRmgzRTNOTTNIU0Jyd3FGTW1BTFVEZDlYNzN4cE43LVotLVFKZ2FmTTBLUkhNQ1FoME40YS1PSGgtQUgtVUlERndlREcwVjVn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f7e762737fd0",
+      "title": "RSV病毒傳染力強 1傳3老幼.癌症族群疫苗最關鍵 - 東森新聞",
+      "published": "2026-07-04T16:15:00+00:00",
+      "summary": "RSV病毒傳染力強 1傳3老幼.癌症族群疫苗最關鍵&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEWEFIY0ZmOVF5WGRFZlljQ2h0SUM0OTZmVVdDbUVVQWttYzVXa2NiSkczUm0tUnlCMWVjUnFTQzhHQlhiUWVDTXVGMS10Ym5rTGZzZQ?oc=5"
         }
       ]
     },
@@ -52,18 +64,6 @@
       ]
     },
     {
-      "id": "f4b6afe34b7a",
-      "title": "醫起看／沒被老鼠咬也中鏢！他吃這零食險洗腎 - 東森新聞",
-      "published": "2026-07-04T01:35:00+00:00",
-      "summary": "醫起看／沒被老鼠咬也中鏢！他吃這零食險洗腎&nbsp;&nbsp;東森新聞",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tZ2Jfa09nR0J1T2x1c0w1RGZBdnlManFsak5xV3dsMWM0TWxLTjBDOUtYSTRFMERTVVdxV0h6RTVTdUYwMlppZVJ1ZlE1NHFncGM5Sg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c2d532ebb576",
       "title": "膠原蛋白不只愛美女性需要！ 營養師：上班族、長輩都該補充 - 台視新聞網",
       "published": "2026-07-03T07:00:05+00:00",
@@ -72,6 +72,18 @@
         {
           "name": "台視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aS3JVeEtRSUtHakFkakhEZFVGNTBoazBPV2p1Q05iRGFDblNTaVAzN0ZBLVZUWDgzNTFNV0U2SGhKYkhDS3dIT3J5REZoMTJ3UUxFTHBrZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f4b6afe34b7a",
+      "title": "醫起看／沒被老鼠咬也中鏢！他吃這零食險洗腎 - 東森新聞",
+      "published": "2026-07-04T01:35:00+00:00",
+      "summary": "醫起看／沒被老鼠咬也中鏢！他吃這零食險洗腎&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tZ2Jfa09nR0J1T2x1c0w1RGZBdnlManFsak5xV3dsMWM0TWxLTjBDOUtYSTRFMERTVVdxV0h6RTVTdUYwMlppZVJ1ZlE1NHFncGM5Sg?oc=5"
         }
       ]
     },
