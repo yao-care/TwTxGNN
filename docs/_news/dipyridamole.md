@@ -44,11 +44,11 @@ permalink: /news/dipyridamole/
 
 ## 相關新聞（1 則）
 
-### [常見中風真正病因曝光 問題不在血管堵塞](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HTzFVUWREaGF5c3ZsckJPbC13dU9XbkpBWEpVMHRoQXlyeEpLZml0VUlJYW5TS3EtSmIyVWxtTWdvYUxUQlVjeklnOHF2RjJaWjBpOWFsNVZBYWhOYWM3MkhIUV_SAWpBVV95cUxNRExhX0xGRVBMZTB6WGdMZGJxbzdYcTZiY1doWGpVLWxsandQbTlkSVYwMmlPSmx3Rk4xVHNkZXY1YUs4aW5UNTkzZ2VINjVMaUpzdjRmc2pOaVoxZld4ZHVhdnNzM01oaFN3?oc=5)
+### [常見中風真正病因曝光 問題不在血管堵塞 | 自由電子報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xSW5vUDUtanNleWFzNW96QXhRclRueWV4ejM5anhMNDE3TmxwTGk4QUVZd3VQMUhFdjVlSDZDRnh3bnRSVGhSVjR3dDZ4RFNRdU5PcTRR?oc=5)
 
 2026-07-05 <span class="news-indication-tag">中風</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HTzFVUWREaGF5c3ZsckJPbC13dU9XbkpBWEpVMHRoQXlyeEpLZml0VUlJYW5TS3EtSmIyVWxtTWdvYUxUQlVjeklnOHF2RjJaWjBpOWFsNVZBYWhOYWM3MkhIUV_SAWpBVV95cUxNRExhX0xGRVBMZTB6WGdMZGJxbzdYcTZiY1doWGpVLWxsandQbTlkSVYwMmlPSmx3Rk4xVHNkZXY1YUs4aW5UNTkzZ2VINjVMaUpzdjRmc2pOaVoxZld4ZHVhdnNzM01oaFN3?oc=5)
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xSW5vUDUtanNleWFzNW96QXhRclRueWV4ejM5anhMNDE3TmxwTGk4QUVZd3VQMUhFdjVlSDZDRnh3bnRSVGhSVjR3dDZ4RFNRdU5PcTRR?oc=5)
 
 ---
 

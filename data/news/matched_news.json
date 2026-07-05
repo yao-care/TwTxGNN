@@ -1,8 +1,37 @@
 {
-  "last_updated": "2026-07-05T16:56:56.405566+00:00",
+  "last_updated": "2026-07-05T17:58:53.970615+00:00",
   "total_count": 13,
   "matched_count": 5,
   "news": [
+    {
+      "id": "0354a9d6f6e3",
+      "title": "常見中風真正病因曝光 問題不在血管堵塞 | 自由電子報 - LINE TODAY",
+      "published": "2026-07-05T09:49:14+00:00",
+      "summary": "常見中風真正病因曝光 問題不在血管堵塞 | 自由電子報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xSW5vUDUtanNleWFzNW96QXhRclRueWV4ejM5anhMNDE3TmxwTGk4QUVZd3VQMUhFdjVlSDZDRnh3bnRSVGhSVjR3dDZ4RFNRdU5PcTRR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "15c47db9186b",
       "title": "醫曝從不得失智症的人起床30分鐘內都先做這件事- 國際",
@@ -51,35 +80,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "b9deca2ad1a9",
-      "title": "常見中風真正病因曝光 問題不在血管堵塞",
-      "published": "2026-07-05T06:58:00+00:00",
-      "summary": "常見中風真正病因曝光 問題不在血管堵塞&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HTzFVUWREaGF5c3ZsckJPbC13dU9XbkpBWEpVMHRoQXlyeEpLZml0VUlJYW5TS3EtSmIyVWxtTWdvYUxUQlVjeklnOHF2RjJaWjBpOWFsNVZBYWhOYWM3MkhIUV_SAWpBVV95cUxNRExhX0xGRVBMZTB6WGdMZGJxbzdYcTZiY1doWGpVLWxsandQbTlkSVYwMmlPSmx3Rk4xVHNkZXY1YUs4aW5UNTkzZ2VINjVMaUpzdjRmc2pOaVoxZld4ZHVhdnNzM01oaFN3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "6b11d2326c35",
