@@ -1,8 +1,94 @@
 {
-  "last_updated": "2026-07-04T23:54:03.362438+00:00",
-  "total_count": 14,
-  "matched_count": 1,
+  "last_updated": "2026-07-05T02:10:28.359321+00:00",
+  "total_count": 17,
+  "matched_count": 3,
   "news": [
+    {
+      "id": "6dd4a5d25143",
+      "title": "惡鄰居可能真會害你得心臟病，且黑人冠狀動脈鈣化風險比白人更高 - TechNews 科技新報",
+      "published": "2026-07-05T01:31:48+00:00",
+      "summary": "惡鄰居可能真會害你得心臟病，且黑人冠狀動脈鈣化風險比白人更高&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU25qZGJSdkwwVGF4d3RJTktNbVo0dVRUY1JONUNEMzVSWUItLVZaT1d4UUpBUjV3SEE5M1ViMkVtSFJVdkI0MTJSRzNRSVYzSGJBTEhUa2NYMjN4c29VbldYdGNLQWxScWNlVDM0R0lYdmZ0QkdHbDRvYTMxQ1Z6eG9FOEx5Q2lxa3pzNUo3VkxYdmY4S2t2ZEZTenZaTG04cUFJVWpXOTZqUQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "22eec5ce597b",
+      "title": "人類未來會變成什麼模樣？",
+      "published": "2026-07-05T01:24:05+00:00",
+      "summary": "人類未來會變成什麼模樣？&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSkVHX1Vfc2NwXzJGTmpKbm9BOS0zeWlDcHdSckxTZm13R3dDODh4UEE5TEJuMFp5bUo4eDV6X0VSWGctWDlkOEpMSzI4UDJrOXpaTlc3VVdSSUx4ZjU1UVJmVVZVR21wUXhkQUh3T1dvc1RRcEp5dlFLckNRMWRVczI0eXJyZ09DU09JeXFTY1hDZ0luVmlnRlpaMUFlMjJwMFNJTDAwanhPQ25GTnlTMUN4ZWVuaGs2VmZjZVp0WkhlNDFfT2k5c29oQVJZdUZSNm1yZzNKWQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "285b59b786e8",
       "title": "騎單車20分鐘記憶力會變好？ 研究指單次運動已可短暫提升認知表現",
@@ -28,6 +114,35 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "9a91ffc6405d",
+      "title": "肺炎鏈球菌重症不分年齡 吸菸、出差者也是高風險族群",
+      "published": "2026-07-04T21:30:00+00:00",
+      "summary": "肺炎鏈球菌重症不分年齡 吸菸、出差者也是高風險族群&nbsp;&nbsp;自由健康網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fMm44d2hSQ1U1YkxsaXdQQUNlcGRhZGN5M3NlTG9tNkRHdDBoQUhaalRVZjFlUld3V0MwVXRvZ2s0cnA2cERlUHRUNFI0WllkUDg1VU4tZFJHYUnSAWBBVV95cUxQRTk2VmNsVnJqRUJOYncyWUxpamdaXzREMV9vS0sxcy1VWmFEbW1SbGE2SXplTmtEeFVfZDZWQkJoUjVBdVkyMFNuUlBXcTJLcDdNbHN1bFlzN1R5VkpFNUM?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "e7bb8a28a4e9",
@@ -85,7 +200,7 @@
       "id": "e0fcd623fb16",
       "title": "健康網》禁慾沒用！ 醫曝3件無聊小事真正助攻男性雄風",
       "published": "2026-07-03T13:01:00+00:00",
-      "summary": "健康網》禁慾沒用！ 醫曝3件無聊小事真正助攻男性雄風&nbsp;&nbsp;自由健康網禁慾換不到雄風！ 醫破都市傳說：其實只要做對3件事&nbsp;&nbsp;Yahoo新聞禁慾7天睪固酮暴增145％？ 醫潑冷水：不如做好3件事- 健康&nbsp;&nbsp;中時新聞網禁慾沒用！「3件事」真能提升睪固酮&nbsp;&nbsp;鏡週刊Mirror Media",
+      "summary": "健康網》禁慾沒用！ 醫曝3件無聊小事真正助攻男性雄風&nbsp;&nbsp;自由健康網禁慾換不到雄風！ 醫破都市傳說：其實只要做對3件事 | 鏡週刊&nbsp;&nbsp;LINE TODAY禁慾7天睪固酮暴增145％？ 醫潑冷水：不如做好3件事- 健康&nbsp;&nbsp;中時新聞網【禁慾不會變強！醫師曝「做好3件無聊小事」最重要】 （#大表哥）&nbsp;&nbsp;facebook.com",
       "sources": [
         {
           "name": "自由健康網",
