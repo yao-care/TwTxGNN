@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [40歲身體可能像50歲 權威期刊揭癌症年輕化新線索](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmR2lsUlotUHdZSkRjZWFOekJjU3p1aDV4SFBpS2pQYW1zdWRxYm42ajFybUJVWXpXWGRCWlQ3U2tKRTVSSlp2d2NCNURYQ2ttcmhhc2t3THNSNVZG0gFiQVVfeXFMTkxMdzJpOV9sRHZqUEJiaDljUkFMamFDbzZacnBYaDRkLV80N05vMmg0UDVqbFhabzFVOTRUTDJGVnI3UnVDVXZmUllZMF9tb2ZIbkswZ1hyUkpKTEdYakxHRkE?oc=5)
 
@@ -56,6 +56,14 @@ permalink: /news/cefmetazole/
 2026-07-05 <span class="news-indication-tag">鏈球菌</span>
 
 來源：[報新聞](https://news.google.com/rss/articles/CBMi5wJBVV95cUxQWEpER0c1R1NGZEdOdUt0dHoyZGwxUlJMT1hYT21oWlJDT0N4c1UySUFNMW5ZdWpCelFadTRSNG1oLTFpMHY3bHF6RzdwN1VPc2lGbWtnUU5GMkdUbWRSenU4RWRNcmNLa3JNVjg3ekUxM3owdWUyb1ZhYzdTQ2ZTZHk2eDJQZUdoVkhwLU1xUFY0LUk0aGxfNHYtSjNNTFozQld6OXl3VVBQWHB5MTJfcXowbEdCWG9sNDR2VVhSZnhSMDQ4YmZNMzdaR1c0enFTcXhRY3lfRGNFdlNJVGFjbWZMVHpGeFBPcUdieGV4UHZ6ZXE5aU4wZ2dIaWp2OFkyQkEybjlnWUdheGpPa1loWFVXRnVwSHVvS0ZxY2tvcTRJb19ZRGZ1OExzQklyQkVySG9jSVpzNFAwaXhVYTdNSVhZZkN2TTFqRGRSTXNqV044RFJPM3JMM3k2Vi05MzBaQVpxNkRUSQ?oc=5)
+
+---
+
+### [RSV病毒傳染力強 1傳3老幼.癌症族群疫苗最關鍵](https://news.google.com/rss/articles/CBMitAJBVV95cUxOamJrc2U3NkhuZDcxZlRyd2VLTE9CS3R1cldJNzBGODZMOXR3NjIxai1STVMwVkJVSHVFNnhTWXNXN0hscnZBb0d0TmpDTHZPUDQ4R3RIRlIxSmJyY0NGZE1kMVNmc3AzMlUxZHgtZXNxQmg2dmVid0R2RmY2V2FocTlmWk1XVmRHNFp2b01uTzg2QjdacHJ1QjRBMjFKcFp5Q1RHN3haZmpDMUZ1ZFp1TVczYWVaOC02cWcwU3hWX1BDcVcxZ19ZYm1lYnRzMUpyeHlWYjdQLUhPRTZER3dKNV85UVEwOVRqUkpwalo3UTl1aDg3UFpmQVhuRlZLUnZsWU0yWWRhSG01SXVIbUV3NXFCZlZuYmRGN0ZBV2oxNVhRVlU2NVFDT2JiR2lwZ3g2Nm1OSg?oc=5)
+
+2026-07-04 <span class="news-indication-tag">癌症</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMitAJBVV95cUxOamJrc2U3NkhuZDcxZlRyd2VLTE9CS3R1cldJNzBGODZMOXR3NjIxai1STVMwVkJVSHVFNnhTWXNXN0hscnZBb0d0TmpDTHZPUDQ4R3RIRlIxSmJyY0NGZE1kMVNmc3AzMlUxZHgtZXNxQmg2dmVid0R2RmY2V2FocTlmWk1XVmRHNFp2b01uTzg2QjdacHJ1QjRBMjFKcFp5Q1RHN3haZmpDMUZ1ZFp1TVczYWVaOC02cWcwU3hWX1BDcVcxZ19ZYm1lYnRzMUpyeHlWYjdQLUhPRTZER3dKNV85UVEwOVRqUkpwalo3UTl1aDg3UFpmQVhuRlZLUnZsWU0yWWRhSG01SXVIbUV3NXFCZlZuYmRGN0ZBV2oxNVhRVlU2NVFDT2JiR2lwZ3g2Nm1OSg?oc=5)
 
 ---
 
