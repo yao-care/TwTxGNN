@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [醫曝從不得失智症的人起床30分鐘內都先做這件事- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTE5XSDJ6QkRqSnpkYk9NVmlpQlBuZ2ZWZTJMTVlGX3lmRVlsQ3dxUWVwaGNSaXRjcFczTEtBTEpDODBNUXEzTDNreGFUbDRLU21heElZNE44WWU0blRoRG1nQ0Y4UnhqQk1vWGozemF3?oc=5)
+
+2026-07-05 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5XSDJ6QkRqSnpkYk9NVmlpQlBuZ2ZWZTJMTVlGX3lmRVlsQ3dxUWVwaGNSaXRjcFczTEtBTEpDODBNUXEzTDNreGFUbDRLU21heElZNE44WWU0blRoRG1nQ0Y4UnhqQk1vWGozemF3?oc=5)
+
+---
 
 ### [40歲身體可能像50歲 權威期刊揭癌症年輕化新線索](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmR2lsUlotUHdZSkRjZWFOekJjU3p1aDV4SFBpS2pQYW1zdWRxYm42ajFybUJVWXpXWGRCWlQ3U2tKRTVSSlp2d2NCNURYQ2ttcmhhc2t3THNSNVZG0gFiQVVfeXFMTkxMdzJpOV9sRHZqUEJiaDljUkFMamFDbzZacnBYaDRkLV80N05vMmg0UDVqbFhabzFVOTRUTDJGVnI3UnVDVXZmUllZMF9tb2ZIbkswZ1hyUkpKTEdYakxHRkE?oc=5)
 

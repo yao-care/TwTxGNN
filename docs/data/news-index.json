@@ -1,7 +1,70 @@
 {
-  "generated": "2026-07-05T06:31:37.891054+00:00",
-  "count": 4,
+  "generated": "2026-07-05T09:35:27.733120+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "15c47db9186b",
+      "title": "醫曝從不得失智症的人起床30分鐘內都先做這件事- 國際",
+      "published": "2026-07-05T07:31:23+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XSDJ6QkRqSnpkYk9NVmlpQlBuZ2ZWZTJMTVlGX3lmRVlsQ3dxUWVwaGNSaXRjcFczTEtBTEpDODBNUXEzTDNreGFUbDRLU21heElZNE44WWU0blRoRG1nQ0Y4UnhqQk1vWGozemF3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b9deca2ad1a9",
+      "title": "常見中風真正病因曝光 問題不在血管堵塞",
+      "published": "2026-07-05T06:58:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HTzFVUWREaGF5c3ZsckJPbC13dU9XbkpBWEpVMHRoQXlyeEpLZml0VUlJYW5TS3EtSmIyVWxtTWdvYUxUQlVjeklnOHF2RjJaWjBpOWFsNVZBYWhOYWM3MkhIUV_SAWpBVV95cUxNRExhX0xGRVBMZTB6WGdMZGJxbzdYcTZiY1doWGpVLWxsandQbTlkSVYwMmlPSmx3Rk4xVHNkZXY1YUs4aW5UNTkzZ2VINjVMaUpzdjRmc2pOaVoxZld4ZHVhdnNzM01oaFN3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "6b11d2326c35",
       "title": "40歲身體可能像50歲 權威期刊揭癌症年輕化新線索",
@@ -283,13 +346,13 @@
       ]
     },
     {
-      "id": "9a91ffc6405d",
-      "title": "肺炎鏈球菌重症不分年齡 吸菸、出差者也是高風險族群",
-      "published": "2026-07-04T21:30:00+00:00",
+      "id": "292f74b6854d",
+      "title": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵",
+      "published": "2026-07-05T00:15:00+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fMm44d2hSQ1U1YkxsaXdQQUNlcGRhZGN5M3NlTG9tNkRHdDBoQUhaalRVZjFlUld3V0MwVXRvZ2s0cnA2cERlUHRUNFI0WllkUDg1VU4tZFJHYUnSAWBBVV95cUxQRTk2VmNsVnJqRUJOYncyWUxpamdaXzREMV9vS0sxcy1VWmFEbW1SbGE2SXplTmtEeFVfZDZWQkJoUjVBdVkyMFNuUlBXcTJLcDdNbHN1bFlzN1R5VkpFNUM?oc=5"
+          "name": "報新聞",
+          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQWEpER0c1R1NGZEdOdUt0dHoyZGwxUlJMT1hYT21oWlJDT0N4c1UySUFNMW5ZdWpCelFadTRSNG1oLTFpMHY3bHF6RzdwN1VPc2lGbWtnUU5GMkdUbWRSenU4RWRNcmNLa3JNVjg3ekUxM3owdWUyb1ZhYzdTQ2ZTZHk2eDJQZUdoVkhwLU1xUFY0LUk0aGxfNHYtSjNNTFozQld6OXl3VVBQWHB5MTJfcXowbEdCWG9sNDR2VVhSZnhSMDQ4YmZNMzdaR1c0enFTcXhRY3lfRGNFdlNJVGFjbWZMVHpGeFBPcUdieGV4UHZ6ZXE5aU4wZ2dIaWp2OFkyQkEybjlnWUdheGpPa1loWFVXRnVwSHVvS0ZxY2tvcTRJb19ZRGZ1OExzQklyQkVySG9jSVpzNFAwaXhVYTdNSVhZZkN2TTFqRGRSTXNqV044RFJPM3JMM3k2Vi05MzBaQVpxNkRUSQ?oc=5"
         }
       ],
       "keywords": [
@@ -305,38 +368,6 @@
             {
               "slug": "cephalexin",
               "name": "Cephalexin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8ab8c8c9089d",
-      "title": "吸煙招肺癌 致慢阻肺病不可逆轉 傷肺咳嗽呼吸困難 物理治療助紓緩",
-      "published": "2026-07-03T07:54:47+00:00",
-      "sources": [
-        {
-          "name": "明報健康網",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPMUVDTGVqNnJBTG9Cakozcl9XeFhZZXdpRl9scVdQeFZ5ZlNOM1VrN1d4eTIzY2JOUTJxWXZwVy1kZHdMQ1hlX1h3eFlsdXkzTU5oUEt6eWRmSzktRzk2WmJmU2xCUjFBcnBaaGtqX2EzblZJSWtfR2VnNDFUaHRlZGlIeWRfWmxVUU41V29SY3dPTWJOTUNQZjhGSEN5ZHNEaTN6RGk5LUJwYXV4M2EyODdkVnJ4cFBjM05SLXhaOW8tYTlqZDdfUElBWU1zRktkY1MzTGlJSGhhaVNSeTZBOG5zOHNybk1vWl9HejZOc3RrZVdaLVlUZlZJQ0xHRmVzQW5qVGUxMGtEWWs3aERQTENQeWJENmJfWndiYkFNNkhjVUVQTzFWLVVjejMwakIyNWt4M1BXbnk5cFNnOTV2NUxJNUxDZlBuMTZ4cA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
             }
           ]
         }

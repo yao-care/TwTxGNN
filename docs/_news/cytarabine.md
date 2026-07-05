@@ -14,7 +14,7 @@ permalink: /news/cytarabine/
 ---
 
 <p class="key-answer" data-question="Cytarabine 有什麼相關新聞？">
-<strong>Cytarabine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cytarabine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/cytarabine/
 <ul>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（9 個）：<ul>
-<li class="indication-matched">small cell lung carcinoma（99.8%）<span class="indication-tag">📰 肺癌</span></li>
+<li>small cell lung carcinoma（99.8%）</li>
 <li>primary pulmonary lymphoma（99.8%）</li>
 <li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
 <li>pulmonary blastoma（99.8%）</li>
@@ -40,21 +40,13 @@ permalink: /news/cytarabine/
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [40歲身體可能像50歲 權威期刊揭癌症年輕化新線索](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmR2lsUlotUHdZSkRjZWFOekJjU3p1aDV4SFBpS2pQYW1zdWRxYm42ajFybUJVWXpXWGRCWlQ3U2tKRTVSSlp2d2NCNURYQ2ttcmhhc2t3THNSNVZG0gFiQVVfeXFMTkxMdzJpOV9sRHZqUEJiaDljUkFMamFDbzZacnBYaDRkLV80N05vMmg0UDVqbFhabzFVOTRUTDJGVnI3UnVDVXZmUllZMF9tb2ZIbkswZ1hyUkpKTEdYakxHRkE?oc=5)
 
 2026-07-05 <span class="news-indication-tag">癌症</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmR2lsUlotUHdZSkRjZWFOekJjU3p1aDV4SFBpS2pQYW1zdWRxYm42ajFybUJVWXpXWGRCWlQ3U2tKRTVSSlp2d2NCNURYQ2ttcmhhc2t3THNSNVZG0gFiQVVfeXFMTkxMdzJpOV9sRHZqUEJiaDljUkFMamFDbzZacnBYaDRkLV80N05vMmg0UDVqbFhabzFVOTRUTDJGVnI3UnVDVXZmUllZMF9tb2ZIbkswZ1hyUkpKTEdYakxHRkE?oc=5)
-
----
-
-### [吸煙招肺癌 致慢阻肺病不可逆轉 傷肺咳嗽呼吸困難 物理治療助紓緩](https://news.google.com/rss/articles/CBMizAJBVV95cUxPMUVDTGVqNnJBTG9Cakozcl9XeFhZZXdpRl9scVdQeFZ5ZlNOM1VrN1d4eTIzY2JOUTJxWXZwVy1kZHdMQ1hlX1h3eFlsdXkzTU5oUEt6eWRmSzktRzk2WmJmU2xCUjFBcnBaaGtqX2EzblZJSWtfR2VnNDFUaHRlZGlIeWRfWmxVUU41V29SY3dPTWJOTUNQZjhGSEN5ZHNEaTN6RGk5LUJwYXV4M2EyODdkVnJ4cFBjM05SLXhaOW8tYTlqZDdfUElBWU1zRktkY1MzTGlJSGhhaVNSeTZBOG5zOHNybk1vWl9HejZOc3RrZVdaLVlUZlZJQ0xHRmVzQW5qVGUxMGtEWWs3aERQTENQeWJENmJfWndiYkFNNkhjVUVQTzFWLVVjejMwakIyNWt4M1BXbnk5cFNnOTV2NUxJNUxDZlBuMTZ4cA?oc=5)
-
-2026-07-03 <span class="news-indication-tag">肺癌</span>
-
-來源：[明報健康網](https://news.google.com/rss/articles/CBMizAJBVV95cUxPMUVDTGVqNnJBTG9Cakozcl9XeFhZZXdpRl9scVdQeFZ5ZlNOM1VrN1d4eTIzY2JOUTJxWXZwVy1kZHdMQ1hlX1h3eFlsdXkzTU5oUEt6eWRmSzktRzk2WmJmU2xCUjFBcnBaaGtqX2EzblZJSWtfR2VnNDFUaHRlZGlIeWRfWmxVUU41V29SY3dPTWJOTUNQZjhGSEN5ZHNEaTN6RGk5LUJwYXV4M2EyODdkVnJ4cFBjM05SLXhaOW8tYTlqZDdfUElBWU1zRktkY1MzTGlJSGhhaVNSeTZBOG5zOHNybk1vWl9HejZOc3RrZVdaLVlUZlZJQ0xHRmVzQW5qVGUxMGtEWWs3aERQTENQeWJENmJfWndiYkFNNkhjVUVQTzFWLVVjejMwakIyNWt4M1BXbnk5cFNnOTV2NUxJNUxDZlBuMTZ4cA?oc=5)
 
 ---
 

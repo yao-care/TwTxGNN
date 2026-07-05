@@ -1,20 +1,98 @@
 {
-  "last_updated": "2026-07-05T06:31:37.870216+00:00",
-  "total_count": 16,
-  "matched_count": 4,
+  "last_updated": "2026-07-05T09:35:27.716506+00:00",
+  "total_count": 17,
+  "matched_count": 5,
   "news": [
     {
-      "id": "ce7f00d25ad4",
-      "title": "睡不飽害不舉！實測20歲男熬夜1星期雄性素慘如老翁- 健康",
-      "published": "2026-07-05T02:49:30+00:00",
-      "summary": "睡不飽害不舉！實測20歲男熬夜1星期雄性素慘如老翁- 健康&nbsp;&nbsp;中時新聞網健康網》禁慾沒用！ 醫曝3件無聊小事真正助攻男性雄風&nbsp;&nbsp;自由健康網禁慾換不到雄風！ 醫破都市傳說：其實只要做對3件事 | 鏡週刊&nbsp;&nbsp;LINE TODAY【禁慾不會變強！醫師曝「做好3件無聊小事」最重要】 （#大表哥）&nbsp;&nbsp;facebook.com",
+      "id": "f1337e36ae99",
+      "title": "香港防癌會與直資學校議會合辦講座 倡適齡男生及早接種疫苗預防HPV患癌",
+      "published": "2026-07-05T08:57:00+00:00",
+      "summary": "香港防癌會與直資學校議會合辦講座 倡適齡男生及早接種疫苗預防HPV患癌&nbsp;&nbsp;香港商报",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xMmV4VnRUbUJEeWFLVjZhTnhZd0xaYk9XYm9Hdlk3MHFzek0xMWV0WURPSFFuamRyMmpscXpiWnVQVElGRWU1S0VDX1h1Q2xMc1B4aFhZMDdhSl8wa3VCODFNc0NRZWhxbHBuNUtB?oc=5"
+          "name": "香港商报",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41NThxWTJpdm1KVjRjYXNvelota2dxSkVSaGw4cDJEQnNtSlZIQmtKc1BkbGt3andlQnNma2wycUdrSlZfYW5uOF80SHozNDQ3YWFPLXZuMDlHN3IwYjJJTVhBR0wzdUdCMmQzMk5OQXgyLVd5SllxX1Rudw?oc=5"
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "15c47db9186b",
+      "title": "醫曝從不得失智症的人起床30分鐘內都先做這件事- 國際",
+      "published": "2026-07-05T07:31:23+00:00",
+      "summary": "醫曝從不得失智症的人起床30分鐘內都先做這件事- 國際&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XSDJ6QkRqSnpkYk9NVmlpQlBuZ2ZWZTJMTVlGX3lmRVlsQ3dxUWVwaGNSaXRjcFczTEtBTEpDODBNUXEzTDNreGFUbDRLU21heElZNE44WWU0blRoRG1nQ0Y4UnhqQk1vWGozemF3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4a7fec09e521",
+      "title": "獨／眼睛族當心！抗藍光鏡片要價千元 實測才阻絕30%",
+      "published": "2026-07-05T07:03:19+00:00",
+      "summary": "獨／眼睛族當心！抗藍光鏡片要價千元 實測才阻絕30%&nbsp;&nbsp;三立新聞網SETN.com",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBtc2RHMlJzVzVpRUgyMzBlWHM0RnBGdjlaZm1uakZPeHQ1THRGSXZhZ0EwUE45U1ZVdjRkVUs4RkM2VnlWN24w?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b9deca2ad1a9",
+      "title": "常見中風真正病因曝光 問題不在血管堵塞",
+      "published": "2026-07-05T06:58:00+00:00",
+      "summary": "常見中風真正病因曝光 問題不在血管堵塞&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HTzFVUWREaGF5c3ZsckJPbC13dU9XbkpBWEpVMHRoQXlyeEpLZml0VUlJYW5TS3EtSmIyVWxtTWdvYUxUQlVjeklnOHF2RjJaWjBpOWFsNVZBYWhOYWM3MkhIUV_SAWpBVV95cUxNRExhX0xGRVBMZTB6WGdMZGJxbzdYcTZiY1doWGpVLWxsandQbTlkSVYwMmlPSmx3Rk4xVHNkZXY1YUs4aW5UNTkzZ2VINjVMaUpzdjRmc2pOaVoxZld4ZHVhdnNzM01oaFN3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "6b11d2326c35",
@@ -312,6 +390,35 @@
       "matched_keywords": []
     },
     {
+      "id": "292f74b6854d",
+      "title": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵",
+      "published": "2026-07-05T00:15:00+00:00",
+      "summary": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵&nbsp;&nbsp;報新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "報新聞",
+          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQWEpER0c1R1NGZEdOdUt0dHoyZGwxUlJMT1hYT21oWlJDT0N4c1UySUFNMW5ZdWpCelFadTRSNG1oLTFpMHY3bHF6RzdwN1VPc2lGbWtnUU5GMkdUbWRSenU4RWRNcmNLa3JNVjg3ekUxM3owdWUyb1ZhYzdTQ2ZTZHk2eDJQZUdoVkhwLU1xUFY0LUk0aGxfNHYtSjNNTFozQld6OXl3VVBQWHB5MTJfcXowbEdCWG9sNDR2VVhSZnhSMDQ4YmZNMzdaR1c0enFTcXhRY3lfRGNFdlNJVGFjbWZMVHpGeFBPcUdieGV4UHZ6ZXE5aU4wZ2dIaWp2OFkyQkEybjlnWUdheGpPa1loWFVXRnVwSHVvS0ZxY2tvcTRJb19ZRGZ1OExzQklyQkVySG9jSVpzNFAwaXhVYTdNSVhZZkN2TTFqRGRSTXNqV044RFJPM3JMM3k2Vi05MzBaQVpxNkRUSQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "efd76d0cbaa0",
       "title": "騎單車20分鐘記憶力會變好？ 研究指單次運動已可短暫提升認知表現",
       "published": "2026-07-04T23:00:22+00:00",
@@ -338,33 +445,17 @@
       "matched_keywords": []
     },
     {
-      "id": "9a91ffc6405d",
-      "title": "肺炎鏈球菌重症不分年齡 吸菸、出差者也是高風險族群",
-      "published": "2026-07-04T21:30:00+00:00",
-      "summary": "肺炎鏈球菌重症不分年齡 吸菸、出差者也是高風險族群&nbsp;&nbsp;自由健康網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "de8942c21f4c",
+      "title": "禁慾換不到雄風！　醫破都市傳說：其實只要做對3件事",
+      "published": "2026-07-04T08:00:00+00:00",
+      "summary": "禁慾換不到雄風！ 醫破都市傳說：其實只要做對3件事&nbsp;&nbsp;鏡新聞禁慾沒用！「3件事」真能提升睪固酮：第一項免流汗、最有效&nbsp;&nbsp;三立新聞網SETN.com健康網》禁慾沒用！ 醫曝3件無聊小事真正助攻男性雄風&nbsp;&nbsp;自由健康網禁慾換不到雄風！ 醫破都市傳說：其實只要做對3件事 | 鏡週刊&nbsp;&nbsp;LINE TODAY睡不飽害不舉！實測20歲男熬夜1星期雄性素慘如老翁- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fMm44d2hSQ1U1YkxsaXdQQUNlcGRhZGN5M3NlTG9tNkRHdDBoQUhaalRVZjFlUld3V0MwVXRvZ2s0cnA2cERlUHRUNFI0WllkUDg1VU4tZFJHYUnSAWBBVV95cUxQRTk2VmNsVnJqRUJOYncyWUxpamdaXzREMV9vS0sxcy1VWmFEbW1SbGE2SXplTmtEeFVfZDZWQkJoUjVBdVkyMFNuUlBXcTJLcDdNbHN1bFlzN1R5VkpFNUM?oc=5"
+          "name": "鏡新聞",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVUnVaZTgxdTNZbFlkSFZwQXJWNkJydXNqZWlrWnJBREViZnB6VjE4QXQ3SlV5U01MNXMwN2k1ZTZ2bjU5eTJtbjhwVHg3T1lySldWUjZQTdIBXEFVX3lxTE1SdFVVbV9qQW1yQWI4NHZPaEpGQ01LYWJZNHlYajJ6S0tDajM2RWFMLU1rdThLNmg0NldZRmlrVUJrTnB1WnVaV3dabnVfa2FoZEpBSkRSWTE5VkRO?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "e7bb8a28a4e9",
@@ -440,65 +531,6 @@
         {
           "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZUF6OHY1TnVScFZOVTRHNE5LQkltalVRSXJxUDJaSkhRU2h5aGJaMGRnVFdvSHZwLU9wbEdwLVVHMGh1Q1FpbTQ4Wkh0UDltaE9GdUs4U1hDUlJKbWgzU1VJS29janBpak9hWEp3cTZBVWp3TzJqVFN0OHlOSkQyNmZYcEJuZzZyeGNBUXJaSWY?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "13fd0a9db548",
-      "title": "健康資訊愈看愈亂？專家曝3點判斷可信度",
-      "published": "2026-07-03T08:51:01+00:00",
-      "summary": "健康資訊愈看愈亂？專家曝3點判斷可信度&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1seW8tZ3RyQTU2R2pXYTBLdzlBcWotNWdGb2FrNWNybzhuMTBxbWExb253MTY5MEVFMnMwVmk5NnNGQmZ6djhhZzFwRmVkSTh1djdDdmphaHFsVVlGUFUxLQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8ab8c8c9089d",
-      "title": "吸煙招肺癌 致慢阻肺病不可逆轉 傷肺咳嗽呼吸困難 物理治療助紓緩",
-      "published": "2026-07-03T07:54:47+00:00",
-      "summary": "吸煙招肺癌 致慢阻肺病不可逆轉 傷肺咳嗽呼吸困難 物理治療助紓緩&nbsp;&nbsp;明報健康網",
-      "sources": [
-        {
-          "name": "明報健康網",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPMUVDTGVqNnJBTG9Cakozcl9XeFhZZXdpRl9scVdQeFZ5ZlNOM1VrN1d4eTIzY2JOUTJxWXZwVy1kZHdMQ1hlX1h3eFlsdXkzTU5oUEt6eWRmSzktRzk2WmJmU2xCUjFBcnBaaGtqX2EzblZJSWtfR2VnNDFUaHRlZGlIeWRfWmxVUU41V29SY3dPTWJOTUNQZjhGSEN5ZHNEaTN6RGk5LUJwYXV4M2EyODdkVnJ4cFBjM05SLXhaOW8tYTlqZDdfUElBWU1zRktkY1MzTGlJSGhhaVNSeTZBOG5zOHNybk1vWl9HejZOc3RrZVdaLVlUZlZJQ0xHRmVzQW5qVGUxMGtEWWs3aERQTENQeWJENmJfWndiYkFNNkhjVUVQTzFWLVVjejMwakIyNWt4M1BXbnk5cFNnOTV2NUxJNUxDZlBuMTZ4cA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4705726e983f",
-      "title": "深圳羅湖區人民醫院舉辦艾滋病及重點感染性疾病專項培訓",
-      "published": "2026-07-03T07:29:00+00:00",
-      "summary": "深圳羅湖區人民醫院舉辦艾滋病及重點感染性疾病專項培訓&nbsp;&nbsp;香港商报",
-      "sources": [
-        {
-          "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95emlTX2tRdmxOREZsdE5sdWF0Mmt5b0VyTVBIdjBpbE1pSk5ubm40a2RvT3YwWFZoU0stZ1hTa09iNGFwd2dZRGhUcHhYT0I2RXRWalpzbE5SSzZ1eExuUWZkMURZN19JZGtZdXd1YzV2ODNZM3IxTXNMYw?oc=5"
         }
       ],
       "matched_keywords": []
