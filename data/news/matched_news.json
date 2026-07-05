@@ -1,12 +1,234 @@
 {
-  "last_updated": "2026-07-05T02:10:28.359321+00:00",
-  "total_count": 17,
-  "matched_count": 3,
+  "last_updated": "2026-07-05T06:31:37.870216+00:00",
+  "total_count": 16,
+  "matched_count": 4,
   "news": [
+    {
+      "id": "ce7f00d25ad4",
+      "title": "睡不飽害不舉！實測20歲男熬夜1星期雄性素慘如老翁- 健康",
+      "published": "2026-07-05T02:49:30+00:00",
+      "summary": "睡不飽害不舉！實測20歲男熬夜1星期雄性素慘如老翁- 健康&nbsp;&nbsp;中時新聞網健康網》禁慾沒用！ 醫曝3件無聊小事真正助攻男性雄風&nbsp;&nbsp;自由健康網禁慾換不到雄風！ 醫破都市傳說：其實只要做對3件事 | 鏡週刊&nbsp;&nbsp;LINE TODAY【禁慾不會變強！醫師曝「做好3件無聊小事」最重要】 （#大表哥）&nbsp;&nbsp;facebook.com",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xMmV4VnRUbUJEeWFLVjZhTnhZd0xaYk9XYm9Hdlk3MHFzek0xMWV0WURPSFFuamRyMmpscXpiWnVQVElGRWU1S0VDX1h1Q2xMc1B4aFhZMDdhSl8wa3VCODFNc0NRZWhxbHBuNUtB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6b11d2326c35",
+      "title": "40歲身體可能像50歲 權威期刊揭癌症年輕化新線索",
+      "published": "2026-07-05T01:42:30+00:00",
+      "summary": "40歲身體可能像50歲 權威期刊揭癌症年輕化新線索&nbsp;&nbsp;元氣網研究：血液檢測看出器官年齡 預測10年後疾病風險&nbsp;&nbsp;自由健康網癌症治好還不夠？年輕癌友慢性病風險增2.3倍！&nbsp;&nbsp;中時新聞網青壯年罹癌增 生活習慣埋病因&nbsp;&nbsp;Yahoo新聞聞癌色變！匯集42國權威研究顯示：6種癌年增率 年輕人已超越中高齡者&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmR2lsUlotUHdZSkRjZWFOekJjU3p1aDV4SFBpS2pQYW1zdWRxYm42ajFybUJVWXpXWGRCWlQ3U2tKRTVSSlp2d2NCNURYQ2ttcmhhc2t3THNSNVZG0gFiQVVfeXFMTkxMdzJpOV9sRHZqUEJiaDljUkFMamFDbzZacnBYaDRkLV80N05vMmg0UDVqbFhabzFVOTRUTDJGVnI3UnVDVXZmUllZMF9tb2ZIbkswZ1hyUkpKTEdYakxHRkE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "6dd4a5d25143",
       "title": "惡鄰居可能真會害你得心臟病，且黑人冠狀動脈鈣化風險比白人更高 - TechNews 科技新報",
-      "published": "2026-07-05T01:31:48+00:00",
+      "published": "2026-07-05T01:35:51+00:00",
       "summary": "惡鄰居可能真會害你得心臟病，且黑人冠狀動脈鈣化風險比白人更高&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
@@ -90,13 +312,13 @@
       "matched_keywords": []
     },
     {
-      "id": "285b59b786e8",
+      "id": "efd76d0cbaa0",
       "title": "騎單車20分鐘記憶力會變好？ 研究指單次運動已可短暫提升認知表現",
       "published": "2026-07-04T23:00:22+00:00",
-      "summary": "騎單車20分鐘記憶力會變好？ 研究指單次運動已可短暫提升認知表現&nbsp;&nbsp;bastillepost.com",
+      "summary": "騎單車20分鐘記憶力會變好？ 研究指單次運動已可短暫提升認知表現&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOTVZSeHdvM0RfS0ZneERjamYzVlRFYlBrY1VNRDJsdnhyUDdFQ3ZQV3VFbml0M2hLdVN3UFJxOHdzUElHZTlCNU15bFBfY2t3eXVjcl9WbXRVQXNWQVRoYnJTcGE4bkRBdkJaTjdnQ2pwQlBJOWpfaE9xcC1xMzFKaklsV21TQldPY3MwS3VnRms1TWwtQ3lLNlhtaXhDTGNJZ2t5NVdNUEk0bXl3Zksyai0yc1VIVnZJRE5fNElBVV9fekFOVkxCb2NKVEgyUTFydDZLRzZVMW9lTWtWbHlvWmxTV1liMzN6WGNqeGhDUkwtaDJhOW9yNjlSOTBGcUlDekFjSzd2MG1CcHRNOE9NMzRKME5tVkI2NG9MaW1uUEkzZGhRYkNpOUREWHlNaTFEQW1UaWhvd0JSQ0N3UG8yeWxHYXRkQjVtdTU0UXI0RWZnV2c2a3A1UjVBaFRCZDZIVFdORURIaUxxYjNDcGZIbw?oc=5"
         }
       ],
@@ -197,27 +419,27 @@
       "matched_keywords": []
     },
     {
-      "id": "e0fcd623fb16",
-      "title": "健康網》禁慾沒用！ 醫曝3件無聊小事真正助攻男性雄風",
-      "published": "2026-07-03T13:01:00+00:00",
-      "summary": "健康網》禁慾沒用！ 醫曝3件無聊小事真正助攻男性雄風&nbsp;&nbsp;自由健康網禁慾換不到雄風！ 醫破都市傳說：其實只要做對3件事 | 鏡週刊&nbsp;&nbsp;LINE TODAY禁慾7天睪固酮暴增145％？ 醫潑冷水：不如做好3件事- 健康&nbsp;&nbsp;中時新聞網【禁慾不會變強！醫師曝「做好3件無聊小事」最重要】 （#大表哥）&nbsp;&nbsp;facebook.com",
+      "id": "c624e8ca0305",
+      "title": "11歲男童接觸蝙蝠染狂犬病死亡　醫生促提高警覺",
+      "published": "2026-07-03T21:53:00+00:00",
+      "summary": "11歲男童接觸蝙蝠染狂犬病死亡 醫生促提高警覺&nbsp;&nbsp;singtao.ca加拿大11歲男童「睡到一半發現蝙蝠停臉上」 不久後竟因狂犬病去世&nbsp;&nbsp;Yahoo新聞半夜驚醒「蝙蝠趴口鼻」！11歲男童19天後狂犬病發 中樞神經系統崩潰慘死&nbsp;&nbsp;鏡週刊Mirror Media醒來發現蝙蝠在臉上! 加拿大11歲男童染狂犬病死亡症狀初期遭誤判為皰疹| 國際&nbsp;&nbsp;Newtalk新聞安省醫生警告：接觸蝙蝠須立即求醫&nbsp;&nbsp;大纪元",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45QUhDdkx1bVRiYzJ0VnBkV2duRGpfcmpodzJENnRlNnMzNXctbEpsSjFBUlVpTUQ5TzdiUXdUNFo4UWxMUF9VNTR1b0hPM0kxT2p1QzVDaDRTYnNmTmRzTkRYZi3SAWpBVV95cUxOcDN2aXJIM21XNUVUZFZDTnFpZEJGSjNRbDkyMjZyRVNBX1ZDc3lHOERCVk1TYmU4SFo3d0dwSzBLRUZ3OUVBNktZNjc4WW1Zb0xleUxxa2w5dlpLcVMwVzNzRjJSb205UWpR?oc=5"
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOUWFXMVpUZFVHa0sxcGUzeW43MUlSbVhsYld3WjROS0U1a2MtWmJ0OHYzZWxmUEt6dU15S285TU00U0pmZXQ3aWRwODVCRnpEVWJ5QVhWbjBnX3hTb0VsV1FDeHRqdVM1bUtvR2JKWU9Xb3RtUHdrdE9xdTZiWUwtbjNZZ2JKbUJEc05ldHhrQXg2OE4yTGZRRHJIdUFFWFFENDBXbUFBQlZDMUE0RzBuR2I2c0RhUnJRa2lxWmhkZk51OGpmMkdabWNkaUFHWXVLTzhWTEpmM2pCeC1BZjJWaGk3QVFKUnc2aWI5OUdTbl9DakNIOUxNYzV6QVdEbnM2VjVJWDJiWDN3NkpONGNGeGk1Xzk1WVY5TXE2cG43X3lOTVo2ZmxqeUZ5M3h6bURuRV94MDQzQ0VkMjdGenZTel9PbXBlbmluSnF4dENBVzdyejVrS2d5cThJWdIBjAFBVV95cUxNNW1lOUdyM3NSNXQ0Z0xhejM0NEp6OWdySDliNURTcWRUcXB0MlB4MkU2XzYtemVmcWxteUREa29LWG9wMmZPQmloREVWMW9zV0ZBSHNoSi12a0dtTW1oQW15MG45Rm52OXYtWE1nZW81MnduYXV0MnJJUlBFOWNGdjgtSGQ1OEExTlB6VA?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "38719320d953",
-      "title": "加國11歲童遭蝙蝠撲面19日後死於狂犬病醫囑：無傷口≠零風險- 國際",
-      "published": "2026-07-03T09:14:46+00:00",
-      "summary": "加國11歲童遭蝙蝠撲面19日後死於狂犬病醫囑：無傷口≠零風險- 國際&nbsp;&nbsp;點新聞加拿大11歲男童「睡到一半發現蝙蝠停臉上」 不久後竟因狂犬病去世&nbsp;&nbsp;Yahoo新聞11歲男童接觸蝙蝠染狂犬病死亡 醫生促提高警覺&nbsp;&nbsp;singtao.ca半夜驚醒「蝙蝠趴口鼻」！11歲男童19天後狂犬病發 中樞神經系統崩潰慘死&nbsp;&nbsp;鏡週刊Mirror Media醒來發現蝙蝠在臉上! 加拿大11歲男童染狂犬病死亡症狀初期遭誤判為皰疹| 國際&nbsp;&nbsp;Newtalk新聞",
+      "id": "6cf1c5b1c281",
+      "title": "健康驛站｜BMI標準下調，你“被肥胖”了嗎",
+      "published": "2026-07-03T09:22:59+00:00",
+      "summary": "健康驛站｜BMI標準下調，你“被肥胖”了嗎&nbsp;&nbsp;紫荊網",
       "sources": [
         {
-          "name": "點新聞",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51clRfYjU1RWVseGVaZW9UeXF4Z1J6MUNrcmZpWkt0SFEtYktnak1HYm9ZeENvdEFZZk5XSTV0TFdpcW9jcnRJY1JSTjBjUFEyZ3NPN0ZJclRFTnlDNzRDY2VLdTZiWjhvcDJ3NndSeDFjZUY1RGZJWmx3?oc=5"
+          "name": "紫荊網",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZUF6OHY1TnVScFZOVTRHNE5LQkltalVRSXJxUDJaSkhRU2h5aGJaMGRnVFdvSHZwLU9wbEdwLVVHMGh1Q1FpbTQ4Wkh0UDltaE9GdUs4U1hDUlJKbWgzU1VJS29janBpak9hWEp3cTZBVWp3TzJqVFN0OHlOSkQyNmZYcEJuZzZyeGNBUXJaSWY?oc=5"
         }
       ],
       "matched_keywords": []
@@ -277,45 +499,6 @@
         {
           "name": "香港商报",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95emlTX2tRdmxOREZsdE5sdWF0Mmt5b0VyTVBIdjBpbE1pSk5ubm40a2RvT3YwWFZoU0stZ1hTa09iNGFwd2dZRGhUcHhYT0I2RXRWalpzbE5SSzZ1eExuUWZkMURZN19JZGtZdXd1YzV2ODNZM3IxTXNMYw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b2cf397893f6",
-      "title": "吃青花椰菜狂放屁名醫釋疑是真的：2招能改善- 健康",
-      "published": "2026-07-03T05:30:00+00:00",
-      "summary": "吃青花椰菜狂放屁名醫釋疑是真的：2招能改善- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbEpVSWJXM2dIRmhEQjJuVW9UNE1LT3VCajVQR0NENndrVVNGR0NKWnlTOGo1TDc1R25YNDhRLXVNNXVJZFNFRm1EbjZ6ZFNtX0JVcC1jT1NqY0JPT1NrcmpmT19DOU5TQW5CUzY1ZHktOHZYdUZVcFIzWFNhRUlqdGNYWlVwUVFvSHp5ekdUdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b362e8db723a",
-      "title": "【 一片就能提升精神及集中力､激退疲勞感 - U Lifestyle",
-      "published": "2026-07-03T04:30:09+00:00",
-      "summary": "【 一片就能提升精神及集中力､激退疲勞感&nbsp;&nbsp;U Lifestyle",
-      "sources": [
-        {
-          "name": "U Lifestyle",
-          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOVlBkYVdHS0htYThDdEVyNW9aR0pIOWZ4TTZSUm9UXzNvT1dFWXVUWkRwdGJlbWExcU9YT3RsQ1hvdmx3U3BOV3RqYUQ1SzJCbF9veGU3NEVEckZpYTg3NFFOTlF4eFFKcXl5V19oTkNrNHp0bV82ZmtMVjZxelVwZjg0RC1tYzg2aUVhVHd6ZjB6NW5rc3ROZW1LWERVQ25lS01uOS05RVVFdGc1ZVM0WEtJdFJ4bkdvMkJCQW1iR3BSd1MzMjBrYXlhUkRxajdEeXdCbWd2Si02LWNMWHh0bUQ1VDluSmpHbmtXTHJSX2ZIakpwUW90eTFZWjZYQzNXUFZuanRoaDNmN01fNlQ3ODZic241M0hVQ3hfZnpZUnM5djQwd29LclB0dTMwUDItLW81bnItdXAxZ1lQX3dDUG9ZeUtFZGF3NHA0WmhGSDVlWmdqcHV1NlhMWVlOQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "034099b9fbb5",
-      "title": "吸走蚊毒真係Work？日本「止痕神器」爆紅！醫生揭屬「安慰劑效應」 蚊子唾液已滲入皮膚組織｜附2大止痕方法",
-      "published": "2026-07-03T04:30:00+00:00",
-      "summary": "吸走蚊毒真係Work？日本「止痕神器」爆紅！醫生揭屬「安慰劑效應」 蚊子唾液已滲入皮膚組織｜附2大止痕方法&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxPMlE3cFpxTWdvNzh0YWs0bzBSaW53dGJsSnI3R1d6NEUtSDZZTlN5UmR4bDNXQ085U0NIOU1PbTQ1MjU3dE1jNldBUWVPMmtEQzFkVHBiUjJ0RUk4N29TdzcwZFZFcHRTaHdRVEI4ZlhzUlJqVmVhMlZ3REctUXJ4Q29DOVI1V0gtWVEtY21PQ0tnSzV1REdLX0dTMkZ4SGM2QnFmemNscFVZQVROTEZRTm13SUNiWWpkUEhlem9tUlJRWk1pYldDUGozVnVsREtTTDc5WFhEcTJha1Jac1FERU9tTi1hNVF6ZThQVWwyaE5PenNhVUF2UEFzZ2dUQi1mQm9fUDVvck03YUpfV3Jxa2ZRZGYzSzVLUFZrM1VnVzV0dWVKZ2dma1hrWUMxMlUyaWk5QVB4dS0tODVLcFZkYXl0cHE4TnR6Q0ZCRHFORUJ2YmNfcm1VR3ZJMWhxMG1aTlZpaHMwMm5DUmp1aF9aNnVuUkhwM2tRM1hKSS0ycGxMTERrdGJCeXQyN2oyd19lZ01hUV9qbVhhZkltZFFpakFRejB2ek9IXy1IaWdESVZ4WUpRZDFHbTFYQm8zUG1XbmFBc1RvMl9kV1o0QzB1WDdnd2xYS0FWSUNVUXVaeFVxdmNReWtQQ0dCRGttTmpEdzBlWjRrTy1XazZhbWotdGZKNThnaHgyRDJkekUtT0FlNGw5ekdlMGJ2eTBRSmZ2LWNmUUZHVGQ3SzdpbGxjN3RTU2xjaVV0R054QnNzdzV3UQ?oc=5"
         }
       ],
       "matched_keywords": []
