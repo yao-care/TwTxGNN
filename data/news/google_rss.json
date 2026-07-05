@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-05T22:53:25.071619+00:00",
-  "count": 13,
+  "fetched_at": "2026-07-05T23:57:50.952355+00:00",
+  "count": 12,
   "news": [
     {
       "id": "9a91ffc6405d",
@@ -12,18 +12,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fMm44d2hSQ1U1YkxsaXdQQUNlcGRhZGN5M3NlTG9tNkRHdDBoQUhaalRVZjFlUld3V0MwVXRvZ2s0cnA2cERlUHRUNFI0WllkUDg1VU4tZFJHYUnSAWBBVV95cUxQRTk2VmNsVnJqRUJOYncyWUxpamdaXzREMV9vS0sxcy1VWmFEbW1SbGE2SXplTmtEeFVfZDZWQkJoUjVBdVkyMFNuUlBXcTJLcDdNbHN1bFlzN1R5VkpFNUM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0354a9d6f6e3",
-      "title": "常見中風真正病因曝光 問題不在血管堵塞 | 自由電子報 - LINE TODAY",
-      "published": "2026-07-05T09:49:14+00:00",
-      "summary": "常見中風真正病因曝光 問題不在血管堵塞 | 自由電子報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xSW5vUDUtanNleWFzNW96QXhRclRueWV4ejM5anhMNDE3TmxwTGk4QUVZd3VQMUhFdjVlSDZDRnh3bnRSVGhSVjR3dDZ4RFNRdU5PcTRR?oc=5"
         }
       ]
     },
@@ -64,18 +52,6 @@
       ]
     },
     {
-      "id": "15c47db9186b",
-      "title": "醫曝從不得失智症的人起床30分鐘內都先做這件事- 國際 - 中時新聞網",
-      "published": "2026-07-05T07:31:23+00:00",
-      "summary": "醫曝從不得失智症的人起床30分鐘內都先做這件事- 國際&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XSDJ6QkRqSnpkYk9NVmlpQlBuZ2ZWZTJMTVlGX3lmRVlsQ3dxUWVwaGNSaXRjcFczTEtBTEpDODBNUXEzTDNreGFUbDRLU21heElZNE44WWU0blRoRG1nQ0Y4UnhqQk1vWGozemF3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4b6904fe4c6e",
       "title": "破解細菌製藥祕密 找到打造新一代抗癌藥方法 - Yahoo新聞",
       "published": "2026-07-04T04:14:45+00:00",
@@ -84,6 +60,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQMUQ5VHF2SXU4MFN5MFRQSmZXQTczUl9hMi1GdEQ2RWs3djdBeWlVem1ENVZpeW5zcHNOdmszYnVFQnZNU0xlWDQyam5CRlJHM05NVEZNRnFROWJqaXhmV2tBN2k2VzVMT2F6R0dHdlNoSXNpS3lqeWpHT3B4VkFaMGlBWGtUSVBxRkVXVGEzelBfb0c3NDFqOFBDM3FjU2E0ZmRicHRILS1iRnkxREFONUFnS1BxalFJc2dyZEtMb0pWNUZPUklzbGZxZUoycWI1Z2o4MTBWLXV3S19NaWZGaXpPSDRLcGdVRllLQ0I5UWV3RnNHc3ZjazE3ZEd2RjJPYldONTRPcGtmdk42N3ZoX2Q3UHZ3OXNqMjZaMWE0N2d6SlpaSVJlMTRkMUtpelpMQV95dDUtZ0k5QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "15c47db9186b",
+      "title": "醫曝從不得失智症的人起床30分鐘內都先做這件事- 國際 - 中時新聞網",
+      "published": "2026-07-05T07:31:23+00:00",
+      "summary": "醫曝從不得失智症的人起床30分鐘內都先做這件事- 國際&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XSDJ6QkRqSnpkYk9NVmlpQlBuZ2ZWZTJMTVlGX3lmRVlsQ3dxUWVwaGNSaXRjcFczTEtBTEpDODBNUXEzTDNreGFUbDRLU21heElZNE44WWU0blRoRG1nQ0Y4UnhqQk1vWGozemF3?oc=5"
         }
       ]
     },

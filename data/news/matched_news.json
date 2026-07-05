@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-05T22:53:29.174550+00:00",
-  "total_count": 13,
-  "matched_count": 5,
+  "last_updated": "2026-07-05T23:57:54.214877+00:00",
+  "total_count": 12,
+  "matched_count": 4,
   "news": [
     {
       "id": "40ab6d88924d",
@@ -15,35 +15,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "0354a9d6f6e3",
-      "title": "常見中風真正病因曝光 問題不在血管堵塞 | 自由電子報 - LINE TODAY",
-      "published": "2026-07-05T09:49:14+00:00",
-      "summary": "常見中風真正病因曝光 問題不在血管堵塞 | 自由電子報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xSW5vUDUtanNleWFzNW96QXhRclRueWV4ejM5anhMNDE3TmxwTGk4QUVZd3VQMUhFdjVlSDZDRnh3bnRSVGhSVjR3dDZ4RFNRdU5PcTRR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "15c47db9186b",

@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [常見中風真正病因曝光 問題不在血管堵塞 | 自由電子報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xSW5vUDUtanNleWFzNW96QXhRclRueWV4ejM5anhMNDE3TmxwTGk4QUVZd3VQMUhFdjVlSDZDRnh3bnRSVGhSVjR3dDZ4RFNRdU5PcTRR?oc=5)
-
-2026-07-05 <span class="news-indication-tag">中風</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xSW5vUDUtanNleWFzNW96QXhRclRueWV4ejM5anhMNDE3TmxwTGk4QUVZd3VQMUhFdjVlSDZDRnh3bnRSVGhSVjR3dDZ4RFNRdU5PcTRR?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
