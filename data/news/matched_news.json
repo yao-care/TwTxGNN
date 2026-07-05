@@ -1,21 +1,8 @@
 {
-  "last_updated": "2026-07-05T13:10:34.656753+00:00",
-  "total_count": 15,
+  "last_updated": "2026-07-05T15:06:19.663246+00:00",
+  "total_count": 14,
   "matched_count": 5,
   "news": [
-    {
-      "id": "f1337e36ae99",
-      "title": "香港防癌會與直資學校議會合辦講座 倡適齡男生及早接種疫苗預防HPV患癌",
-      "published": "2026-07-05T08:57:00+00:00",
-      "summary": "香港防癌會與直資學校議會合辦講座 倡適齡男生及早接種疫苗預防HPV患癌&nbsp;&nbsp;香港商报",
-      "sources": [
-        {
-          "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41NThxWTJpdm1KVjRjYXNvelota2dxSkVSaGw4cDJEQnNtSlZIQmtKc1BkbGt3andlQnNma2wycUdrSlZfYW5uOF80SHozNDQ3YWFPLXZuMDlHN3IwYjJJTVhBR0wzdUdCMmQzMk5OQXgyLVd5SllxX1Rudw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
     {
       "id": "15c47db9186b",
       "title": "醫曝從不得失智症的人起床30分鐘內都先做這件事- 國際",
@@ -317,14 +304,40 @@
       "matched_keywords": []
     },
     {
-      "id": "292f74b6854d",
-      "title": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵",
-      "published": "2026-07-05T00:15:00+00:00",
-      "summary": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵&nbsp;&nbsp;報新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "efd76d0cbaa0",
+      "title": "騎單車20分鐘記憶力會變好？ 研究指單次運動已可短暫提升認知表現",
+      "published": "2026-07-04T23:00:22+00:00",
+      "summary": "騎單車20分鐘記憶力會變好？ 研究指單次運動已可短暫提升認知表現&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "報新聞",
-          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQWEpER0c1R1NGZEdOdUt0dHoyZGwxUlJMT1hYT21oWlJDT0N4c1UySUFNMW5ZdWpCelFadTRSNG1oLTFpMHY3bHF6RzdwN1VPc2lGbWtnUU5GMkdUbWRSenU4RWRNcmNLa3JNVjg3ekUxM3owdWUyb1ZhYzdTQ2ZTZHk2eDJQZUdoVkhwLU1xUFY0LUk0aGxfNHYtSjNNTFozQld6OXl3VVBQWHB5MTJfcXowbEdCWG9sNDR2VVhSZnhSMDQ4YmZNMzdaR1c0enFTcXhRY3lfRGNFdlNJVGFjbWZMVHpGeFBPcUdieGV4UHZ6ZXE5aU4wZ2dIaWp2OFkyQkEybjlnWUdheGpPa1loWFVXRnVwSHVvS0ZxY2tvcTRJb19ZRGZ1OExzQklyQkVySG9jSVpzNFAwaXhVYTdNSVhZZkN2TTFqRGRSTXNqV044RFJPM3JMM3k2Vi05MzBaQVpxNkRUSQ?oc=5"
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOTVZSeHdvM0RfS0ZneERjamYzVlRFYlBrY1VNRDJsdnhyUDdFQ3ZQV3VFbml0M2hLdVN3UFJxOHdzUElHZTlCNU15bFBfY2t3eXVjcl9WbXRVQXNWQVRoYnJTcGE4bkRBdkJaTjdnQ2pwQlBJOWpfaE9xcC1xMzFKaklsV21TQldPY3MwS3VnRms1TWwtQ3lLNlhtaXhDTGNJZ2t5NVdNUEk0bXl3Zksyai0yc1VIVnZJRE5fNElBVV9fekFOVkxCb2NKVEgyUTFydDZLRzZVMW9lTWtWbHlvWmxTV1liMzN6WGNqeGhDUkwtaDJhOW9yNjlSOTBGcUlDekFjSzd2MG1CcHRNOE9NMzRKME5tVkI2NG9MaW1uUEkzZGhRYkNpOUREWHlNaTFEQW1UaWhvd0JSQ0N3UG8yeWxHYXRkQjVtdTU0UXI0RWZnV2c2a3A1UjVBaFRCZDZIVFdORURIaUxxYjNDcGZIbw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5ff74f5dc613",
+      "title": "花大錢補卻沒感覺？營養師揭膠原蛋白效果關鍵",
+      "published": "2026-07-04T23:00:00+00:00",
+      "summary": "花大錢補卻沒感覺？營養師揭膠原蛋白效果關鍵&nbsp;&nbsp;大纪元膠原蛋白不是只有愛美女性需要！營養師：上班族、長輩都該補充&nbsp;&nbsp;Yahoo新聞女星吃膠原蛋白抗老又凍齡？營養師提醒犯4壞習慣彈性全流失&nbsp;&nbsp;早安健康吃膠原蛋白到底有沒有用？營養師列「生活4大地雷」小心吃了也流失&nbsp;&nbsp;優活健康網天天吃膠原蛋白卻沒感覺？營養師揭「4大流失地雷」沒改掉吃再多都白費&nbsp;&nbsp;Women's Health",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sbmV5WVNmUTRzQnJkeV9zSGZOc042T3RQc0dJVW9QOVpLNkxkWUM1VnU4aDRjWXFlSG1rOHR1LXhST1dvOGNaV0V1YnNGZDJ6bng5Rm9uN1ZfMUFZdFlhQtIBZkFVX3lxTFBVQVE3Y21Dd1c0NjRRYS1ZV09rejF5enVqYV9zbUdEUG84dEM3RjJkOFZ3REwzMzVrakpLMl9rNndkQThMUjJEUHFMcHFNSWJUZzRMRlZSekpocDFiMHdhdmRxbHFvZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9a91ffc6405d",
+      "title": "肺炎鏈球菌重症不分年齡 吸菸、出差者也是高風險族群",
+      "published": "2026-07-04T21:30:00+00:00",
+      "summary": "肺炎鏈球菌重症不分年齡 吸菸、出差者也是高風險族群&nbsp;&nbsp;自由健康網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fMm44d2hSQ1U1YkxsaXdQQUNlcGRhZGN5M3NlTG9tNkRHdDBoQUhaalRVZjFlUld3V0MwVXRvZ2s0cnA2cERlUHRUNFI0WllkUDg1VU4tZFJHYUnSAWBBVV95cUxQRTk2VmNsVnJqRUJOYncyWUxpamdaXzREMV9vS0sxcy1VWmFEbW1SbGE2SXplTmtEeFVfZDZWQkJoUjVBdVkyMFNuUlBXcTJLcDdNbHN1bFlzN1R5VkpFNUM?oc=5"
         }
       ],
       "matched_keywords": [
@@ -344,32 +357,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "285b59b786e8",
-      "title": "騎單車20分鐘記憶力會變好？ 研究指單次運動已可短暫提升認知表現",
-      "published": "2026-07-04T23:00:22+00:00",
-      "summary": "騎單車20分鐘記憶力會變好？ 研究指單次運動已可短暫提升認知表現&nbsp;&nbsp;bastillepost.com",
-      "sources": [
-        {
-          "name": "bastillepost.com",
-          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOTVZSeHdvM0RfS0ZneERjamYzVlRFYlBrY1VNRDJsdnhyUDdFQ3ZQV3VFbml0M2hLdVN3UFJxOHdzUElHZTlCNU15bFBfY2t3eXVjcl9WbXRVQXNWQVRoYnJTcGE4bkRBdkJaTjdnQ2pwQlBJOWpfaE9xcC1xMzFKaklsV21TQldPY3MwS3VnRms1TWwtQ3lLNlhtaXhDTGNJZ2t5NVdNUEk0bXl3Zksyai0yc1VIVnZJRE5fNElBVV9fekFOVkxCb2NKVEgyUTFydDZLRzZVMW9lTWtWbHlvWmxTV1liMzN6WGNqeGhDUkwtaDJhOW9yNjlSOTBGcUlDekFjSzd2MG1CcHRNOE9NMzRKME5tVkI2NG9MaW1uUEkzZGhRYkNpOUREWHlNaTFEQW1UaWhvd0JSQ0N3UG8yeWxHYXRkQjVtdTU0UXI0RWZnV2c2a3A1UjVBaFRCZDZIVFdORURIaUxxYjNDcGZIbw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5ff74f5dc613",
-      "title": "花大錢補卻沒感覺？營養師揭膠原蛋白效果關鍵",
-      "published": "2026-07-04T23:00:00+00:00",
-      "summary": "花大錢補卻沒感覺？營養師揭膠原蛋白效果關鍵&nbsp;&nbsp;大纪元膠原蛋白不是只有愛美女性需要！營養師：上班族、長輩都該補充&nbsp;&nbsp;Yahoo新聞女星吃膠原蛋白抗老又凍齡？營養師提醒犯4壞習慣彈性全流失&nbsp;&nbsp;早安健康吃膠原蛋白到底有沒有用？營養師列「生活4大地雷」小心吃了也流失&nbsp;&nbsp;優活健康網天天吃膠原蛋白卻沒感覺？營養師揭「4大流失地雷」沒改掉吃再多都白費&nbsp;&nbsp;Women's Health",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sbmV5WVNmUTRzQnJkeV9zSGZOc042T3RQc0dJVW9QOVpLNkxkWUM1VnU4aDRjWXFlSG1rOHR1LXhST1dvOGNaV0V1YnNGZDJ6bng5Rm9uN1ZfMUFZdFlhQtIBZkFVX3lxTFBVQVE3Y21Dd1c0NjRRYS1ZV09rejF5enVqYV9zbUdEUG84dEM3RjJkOFZ3REwzMzVrakpLMl9rNndkQThMUjJEUHFMcHFNSWJUZzRMRlZSekpocDFiMHdhdmRxbHFvZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "d4dc518f1842",
