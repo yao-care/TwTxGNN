@@ -14,7 +14,7 @@ permalink: /news/dorzolamide/
 ---
 
 <p class="key-answer" data-question="Dorzolamide 有什麼相關新聞？">
-<strong>Dorzolamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dorzolamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/dorzolamide/
 <p><a href="{{ '/drugs/dorzolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [惡鄰居可能真會害你得心臟病，且黑人冠狀動脈鈣化風險比白人更高 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU25qZGJSdkwwVGF4d3RJTktNbVo0dVRUY1JONUNEMzVSWUItLVZaT1d4UUpBUjV3SEE5M1ViMkVtSFJVdkI0MTJSRzNRSVYzSGJBTEhUa2NYMjN4c29VbldYdGNLQWxScWNlVDM0R0lYdmZ0QkdHbDRvYTMxQ1Z6eG9FOEx5Q2lxa3pzNUo3VkxYdmY4S2t2ZEZTenZaTG04cUFJVWpXOTZqUQ?oc=5)
-
-2026-07-05 <span class="news-indication-tag">心臟病</span>
-
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU25qZGJSdkwwVGF4d3RJTktNbVo0dVRUY1JONUNEMzVSWUItLVZaT1d4UUpBUjV3SEE5M1ViMkVtSFJVdkI0MTJSRzNRSVYzSGJBTEhUa2NYMjN4c29VbldYdGNLQWxScWNlVDM0R0lYdmZ0QkdHbDRvYTMxQ1Z6eG9FOEx5Q2lxa3pzNUo3VkxYdmY4S2t2ZEZTenZaTG04cUFJVWpXOTZqUQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-05T11:23:13.304558+00:00",
-  "count": 17,
+  "fetched_at": "2026-07-05T13:10:30.460009+00:00",
+  "count": 15,
   "news": [
     {
       "id": "b9deca2ad1a9",
@@ -36,18 +36,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOamJrc2U3NkhuZDcxZlRyd2VLTE9CS3R1cldJNzBGODZMOXR3NjIxai1STVMwVkJVSHVFNnhTWXNXN0hscnZBb0d0TmpDTHZPUDQ4R3RIRlIxSmJyY0NGZE1kMVNmc3AzMlUxZHgtZXNxQmg2dmVid0R2RmY2V2FocTlmWk1XVmRHNFp2b01uTzg2QjdacHJ1QjRBMjFKcFp5Q1RHN3haZmpDMUZ1ZFp1TVczYWVaOC02cWcwU3hWX1BDcVcxZ19ZYm1lYnRzMUpyeHlWYjdQLUhPRTZER3dKNV85UVEwOVRqUkpwalo3UTl1aDg3UFpmQVhuRlZLUnZsWU0yWWRhSG01SXVIbUV3NXFCZlZuYmRGN0ZBV2oxNVhRVlU2NVFDT2JiR2lwZ3g2Nm1OSg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6dd4a5d25143",
-      "title": "惡鄰居可能真會害你得心臟病，且黑人冠狀動脈鈣化風險比白人更高 - TechNews 科技新報",
-      "published": "2026-07-05T01:35:51+00:00",
-      "summary": "惡鄰居可能真會害你得心臟病，且黑人冠狀動脈鈣化風險比白人更高&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU25qZGJSdkwwVGF4d3RJTktNbVo0dVRUY1JONUNEMzVSWUItLVZaT1d4UUpBUjV3SEE5M1ViMkVtSFJVdkI0MTJSRzNRSVYzSGJBTEhUa2NYMjN4c29VbldYdGNLQWxScWNlVDM0R0lYdmZ0QkdHbDRvYTMxQ1Z6eG9FOEx5Q2lxa3pzNUo3VkxYdmY4S2t2ZEZTenZaTG04cUFJVWpXOTZqUQ?oc=5"
         }
       ]
     },
@@ -112,14 +100,14 @@
       ]
     },
     {
-      "id": "e0fcd623fb16",
-      "title": "健康網》禁慾沒用！ 醫曝3件無聊小事真正助攻男性雄風 - 自由健康網",
-      "published": "2026-07-03T13:01:00+00:00",
-      "summary": "健康網》禁慾沒用！ 醫曝3件無聊小事真正助攻男性雄風&nbsp;&nbsp;自由健康網禁慾換不到雄風！ 醫破都市傳說：其實只要做對3件事 | 鏡週刊&nbsp;&nbsp;LINE TODAY睡不飽害不舉！實測20歲男熬夜1星期雄性素慘如老翁- 健康&nbsp;&nbsp;中時新聞網",
+      "id": "e7bb8a28a4e9",
+      "title": "骨頭 DNA 終結懸案，16 世紀梅迪奇家族成員不是被毒死 | 科技新報 - LINE TODAY",
+      "published": "2026-07-04T06:23:18+00:00",
+      "summary": "骨頭 DNA 終結懸案，16 世紀梅迪奇家族成員不是被毒死 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45QUhDdkx1bVRiYzJ0VnBkV2duRGpfcmpodzJENnRlNnMzNXctbEpsSjFBUlVpTUQ5TzdiUXdUNFo4UWxMUF9VNTR1b0hPM0kxT2p1QzVDaDRTYnNmTmRzTkRYZi3SAWpBVV95cUxOcDN2aXJIM21XNUVUZFZDTnFpZEJGSjNRbDkyMjZyRVNBX1ZDc3lHOERCVk1TYmU4SFo3d0dwSzBLRUZ3OUVBNktZNjc4WW1Zb0xleUxxa2w5dlpLcVMwVzNzRjJSb205UWpR?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vUFNnV2dEY0tuTzVlYkREblQ5YnZqRVZYa3hOd0dRcUlES3BOaGgwRnMwMmRab2xtYmlSLXpuZDQ2WU5VdEFPQTZGSWdTT25YVHhPdnh3?oc=5"
         }
       ]
     },
@@ -132,18 +120,6 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmR2lsUlotUHdZSkRjZWFOekJjU3p1aDV4SFBpS2pQYW1zdWRxYm42ajFybUJVWXpXWGRCWlQ3U2tKRTVSSlp2d2NCNURYQ2ttcmhhc2t3THNSNVZG0gFiQVVfeXFMTkxMdzJpOV9sRHZqUEJiaDljUkFMamFDbzZacnBYaDRkLV80N05vMmg0UDVqbFhabzFVOTRUTDJGVnI3UnVDVXZmUllZMF9tb2ZIbkswZ1hyUkpKTEdYakxHRkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e7bb8a28a4e9",
-      "title": "骨頭 DNA 終結懸案，16 世紀梅迪奇家族成員不是被毒死 | 科技新報 - LINE TODAY",
-      "published": "2026-07-04T06:23:18+00:00",
-      "summary": "骨頭 DNA 終結懸案，16 世紀梅迪奇家族成員不是被毒死 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vUFNnV2dEY0tuTzVlYkREblQ5YnZqRVZYa3hOd0dRcUlES3BOaGgwRnMwMmRab2xtYmlSLXpuZDQ2WU5VdEFPQTZGSWdTT25YVHhPdnh3?oc=5"
         }
       ]
     },

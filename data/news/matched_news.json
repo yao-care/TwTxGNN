@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-05T11:23:17.231236+00:00",
-  "total_count": 17,
-  "matched_count": 6,
+  "last_updated": "2026-07-05T13:10:34.656753+00:00",
+  "total_count": 15,
+  "matched_count": 5,
   "news": [
     {
       "id": "f1337e36ae99",
@@ -298,79 +298,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6dd4a5d25143",
-      "title": "惡鄰居可能真會害你得心臟病，且黑人冠狀動脈鈣化風險比白人更高 - TechNews 科技新報",
-      "published": "2026-07-05T01:35:51+00:00",
-      "summary": "惡鄰居可能真會害你得心臟病，且黑人冠狀動脈鈣化風險比白人更高&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU25qZGJSdkwwVGF4d3RJTktNbVo0dVRUY1JONUNEMzVSWUItLVZaT1d4UUpBUjV3SEE5M1ViMkVtSFJVdkI0MTJSRzNRSVYzSGJBTEhUa2NYMjN4c29VbldYdGNLQWxScWNlVDM0R0lYdmZ0QkdHbDRvYTMxQ1Z6eG9FOEx5Q2lxa3pzNUo3VkxYdmY4S2t2ZEZTenZaTG04cUFJVWpXOTZqUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
             }
           ]
         }
@@ -714,19 +641,6 @@
         {
           "name": "singtao.ca",
           "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOUWFXMVpUZFVHa0sxcGUzeW43MUlSbVhsYld3WjROS0U1a2MtWmJ0OHYzZWxmUEt6dU15S285TU00U0pmZXQ3aWRwODVCRnpEVWJ5QVhWbjBnX3hTb0VsV1FDeHRqdVM1bUtvR2JKWU9Xb3RtUHdrdE9xdTZiWUwtbjNZZ2JKbUJEc05ldHhrQXg2OE4yTGZRRHJIdUFFWFFENDBXbUFBQlZDMUE0RzBuR2I2c0RhUnJRa2lxWmhkZk51OGpmMkdabWNkaUFHWXVLTzhWTEpmM2pCeC1BZjJWaGk3QVFKUnc2aWI5OUdTbl9DakNIOUxNYzV6QVdEbnM2VjVJWDJiWDN3NkpONGNGeGk1Xzk1WVY5TXE2cG43X3lOTVo2ZmxqeUZ5M3h6bURuRV94MDQzQ0VkMjdGenZTel9PbXBlbmluSnF4dENBVzdyejVrS2d5cThJWdIBjAFBVV95cUxNNW1lOUdyM3NSNXQ0Z0xhejM0NEp6OWdySDliNURTcWRUcXB0MlB4MkU2XzYtemVmcWxteUREa29LWG9wMmZPQmloREVWMW9zV0ZBSHNoSi12a0dtTW1oQW15MG45Rm52OXYtWE1nZW81MnduYXV0MnJJUlBFOWNGdjgtSGQ1OEExTlB6VA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e0fcd623fb16",
-      "title": "健康網》禁慾沒用！ 醫曝3件無聊小事真正助攻男性雄風",
-      "published": "2026-07-03T13:01:00+00:00",
-      "summary": "健康網》禁慾沒用！ 醫曝3件無聊小事真正助攻男性雄風&nbsp;&nbsp;自由健康網禁慾換不到雄風！ 醫破都市傳說：其實只要做對3件事 | 鏡週刊&nbsp;&nbsp;LINE TODAY睡不飽害不舉！實測20歲男熬夜1星期雄性素慘如老翁- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45QUhDdkx1bVRiYzJ0VnBkV2duRGpfcmpodzJENnRlNnMzNXctbEpsSjFBUlVpTUQ5TzdiUXdUNFo4UWxMUF9VNTR1b0hPM0kxT2p1QzVDaDRTYnNmTmRzTkRYZi3SAWpBVV95cUxOcDN2aXJIM21XNUVUZFZDTnFpZEJGSjNRbDkyMjZyRVNBX1ZDc3lHOERCVk1TYmU4SFo3d0dwSzBLRUZ3OUVBNktZNjc4WW1Zb0xleUxxa2w5dlpLcVMwVzNzRjJSb205UWpR?oc=5"
         }
       ],
       "matched_keywords": []
