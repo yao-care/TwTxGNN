@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-07-06T20:47:04.337331+00:00",
+  "last_updated": "2026-07-06T22:06:29.004666+00:00",
   "total_count": 23,
-  "matched_count": 9,
+  "matched_count": 8,
   "news": [
     {
-      "id": "a61f46f3473a",
+      "id": "8a8b96652e73",
       "title": "類固醇：人體的荷爾蒙不可或缺",
       "published": "2026-07-06T20:00:00+00:00",
-      "summary": "類固醇：人體的荷爾蒙不可或缺&nbsp;&nbsp;am730",
+      "summary": "類固醇：人體的荷爾蒙不可或缺&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQX21JNmhYZnE0TWU4WEVPZWlIX3ZTbUNVc3lOdDVrMmtqeTlvb3RFemlEaDFTSndHNHhqSDdTQnlIU2lNOXVLMV9CSWR5RlBjWjE0Z3JXa3dJUC1jeDBzczVfWk5qN1Q0Wk5YZmp2b2FaVHFRSmpQajY3UVd6MVE2OElKMjBlVjNRYTVJb3pwdS1ObFM4N05FM2ZBQXpSazVDZGhENjU4bm1FUXhWa0hiMnFRaV9rcVUzaXRPdFVsR2cwT1NRNDJJLV9QOFFhQ184SDAydDNlWjZCR3R3a1BESE16NVp5LWR3MHJ0VXpPb25DRW1KODdOSmg4S29qT1Z1dm1UV083ZkU?oc=5"
         }
       ],
@@ -59,52 +59,17 @@
       ]
     },
     {
-      "id": "f702524bf0e4",
-      "title": "50+只做重訓不夠！揭密最長壽國家延長壽命關鍵：專家推薦「1有氧運動」，擊破心血管老化更健康",
-      "published": "2026-07-06T09:40:55+00:00",
-      "summary": "50+只做重訓不夠！揭密最長壽國家延長壽命關鍵：專家推薦「1有氧運動」，擊破心血管老化更健康&nbsp;&nbsp;Cosmopolitan甩高血脂不只要規律運動專家：黃金組合效果最佳- 健康&nbsp;&nbsp;中時新聞網更年期不只是老化的開始！最新研究：女性心血管風險悄悄升高&nbsp;&nbsp;台視新聞網降低更年期荷爾蒙治療風險 血管健康與給藥路徑是關鍵&nbsp;&nbsp;大纪元更年期後別只顧有氧運動研究發現加入重訓更有助保護心血管｜婦產科｜醫療&nbsp;&nbsp;元氣網",
+      "id": "9b933e33ad31",
+      "title": "8千人研究「規律運動+1件事」甩高血脂 黃金公式曝",
+      "published": "2026-07-06T13:14:00+00:00",
+      "summary": "8千人研究「規律運動+1件事」甩高血脂 黃金公式曝&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "Cosmopolitan",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHhDNlktYTdoWkJidFd2SS1PT2FFbXBwY21jdFVELXNHZE5KamdFSllCRjNPNW1fOEgyUUNtM01GUG9Xb3hxVjd0WmR4SlNCdXNDV0RoRXdIc2F1ZkRNbHFwbUk2RlZiSFM3RmtoXzBVaU1uMkJZZUkzeFVCLVJXQUNrbjNJdmhzNEJLempYaHd1YTNKNENJUQ?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxObVl6QU5OdlpNMDM2SWt0b2VQdmM3U3lvZkFpYkpjc0ZhUXJVbmRrWnJ3SnY3V0JHYjBfdm1LX3NhcG9zY3pDQnZib2xCdTBSY19xRjlQUk8tNTJyUW9wcGY2N2dRWkJwOEgyeEcwUEhmQ3ZrQTM4QUt3THZaaWtXdk53YTc5b3VvNWMweGh3a1ROUEJNZnVmUzY5YlJUdVFzN1luYTFUS0laREJUS2tLNGphZFBXRE44R3ZLUldHcU96cVVsbjZSUnBhSnIwbjFqbXBPUEVrYktQeHNrVk02X2hoZ1J4STVfVHI2UlRPX3puSzQ2U05MNEx3akRDVlpEYW5HRFBPWGRLZnBwaXBnMjlhZ1hDQkRINXR6QzBGVVV6cWJDUlBGeWdXS3RJcENBdVFtaHVQM1dzckhMcnVz?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "2c11fb98801a",
@@ -258,14 +223,14 @@
       "matched_keywords": []
     },
     {
-      "id": "68edc1f948e1",
+      "id": "6c44bb82666e",
       "title": "阿茲海默症可能找錯病因 研究揭腦細胞真正崩壞關鍵",
-      "published": "2026-07-06T03:44:06+00:00",
-      "summary": "阿茲海默症可能找錯病因 研究揭腦細胞真正崩壞關鍵&nbsp;&nbsp;Yahoo新聞",
+      "published": "2026-07-06T03:26:00+00:00",
+      "summary": "阿茲海默症可能找錯病因 研究揭腦細胞真正崩壞關鍵&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPRzFiam04ckxkdVl6VnpBM2pXbTlTQzJYVDFqVHJDRXVzdE5NYl9ULVRpX3FDOFhJQ05JWGp0QWNyRi0tcGZOdlV1aEdKa1JfQ051Und4UFowNmlJVDJIcENfVUI4S2VKQWtwNF9uSXFIdHJNc1R3b25KRVpjbHZkU213VUU3eW1yN0IxY2RNdVM2VlJibTg3TWpSeHV3RS1YdGlMaF9hSUtFNEhJQTgtWHhaQTJEYTUwUnpLRGJab2c0UkFkUDlER3lZWmdERVVwSlZwQlJ4eVFubkZoazlhLWtyazJWVVE5V2h5OWE2cHFBckphaEpBZGRoMWF1ODNFZl9SRlJyMXNrYklLTjhOYWVSSmc3bExkaHFqUzJUZk9PLUFfdExGQ0FyUnRYTFpiaDJ6cXptR3ZNZ0hiSlAxWTJfOHI4N3dla2VpNEVScy0tMGpWVjYxWDVIREVFSkNUbWFDbTNkV3U?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JUWp2LUozbUxMVHJyUFhQa20zZW1LRU9Uc2MtdERCXzhfQ3BfLUVqSkRla0FNdmE3SnhJSGNnT2N5eWVlX0FoMVpERUo4Q1lLdWdPZjBGT1NXRW15M2gxTE4wdjjSAWpBVV95cUxOcHlDS0hCSExnYVIxOXE2OGU2aFJhTGtSbWxzX3RZX2tkU3RiVHRLeWZSeWhNQ1ExbUFya3A2aVQtR1RkbkJJWkxQcnVpR1h3WVBwdzYxY1J2dnBZMWtKZFRnZFcwNFl6Ym1n?oc=5"
         }
       ],
       "matched_keywords": [
@@ -814,13 +779,13 @@
       "matched_keywords": []
     },
     {
-      "id": "efd76d0cbaa0",
+      "id": "285b59b786e8",
       "title": "騎單車20分鐘記憶力會變好？ 研究指單次運動已可短暫提升認知表現",
       "published": "2026-07-04T23:00:22+00:00",
-      "summary": "騎單車20分鐘記憶力會變好？ 研究指單次運動已可短暫提升認知表現&nbsp;&nbsp;巴士的報",
+      "summary": "騎單車20分鐘記憶力會變好？ 研究指單次運動已可短暫提升認知表現&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOTVZSeHdvM0RfS0ZneERjamYzVlRFYlBrY1VNRDJsdnhyUDdFQ3ZQV3VFbml0M2hLdVN3UFJxOHdzUElHZTlCNU15bFBfY2t3eXVjcl9WbXRVQXNWQVRoYnJTcGE4bkRBdkJaTjdnQ2pwQlBJOWpfaE9xcC1xMzFKaklsV21TQldPY3MwS3VnRms1TWwtQ3lLNlhtaXhDTGNJZ2t5NVdNUEk0bXl3Zksyai0yc1VIVnZJRE5fNElBVV9fekFOVkxCb2NKVEgyUTFydDZLRzZVMW9lTWtWbHlvWmxTV1liMzN6WGNqeGhDUkwtaDJhOW9yNjlSOTBGcUlDekFjSzd2MG1CcHRNOE9NMzRKME5tVkI2NG9MaW1uUEkzZGhRYkNpOUREWHlNaTFEQW1UaWhvd0JSQ0N3UG8yeWxHYXRkQjVtdTU0UXI0RWZnV2c2a3A1UjVBaFRCZDZIVFdORURIaUxxYjNDcGZIbw?oc=5"
         }
       ],

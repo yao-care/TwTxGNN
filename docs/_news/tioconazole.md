@@ -14,7 +14,7 @@ permalink: /news/tioconazole/
 ---
 
 <p class="key-answer" data-question="Tioconazole 有什麼相關新聞？">
-<strong>Tioconazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Tioconazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,9 @@ permalink: /news/tioconazole/
 <p><a href="{{ '/drugs/tioconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [50+只做重訓不夠！揭密最長壽國家延長壽命關鍵：專家推薦「1有氧運動」，擊破心血管老化更健康](https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHhDNlktYTdoWkJidFd2SS1PT2FFbXBwY21jdFVELXNHZE5KamdFSllCRjNPNW1fOEgyUUNtM01GUG9Xb3hxVjd0WmR4SlNCdXNDV0RoRXdIc2F1ZkRNbHFwbUk2RlZiSFM3RmtoXzBVaU1uMkJZZUkzeFVCLVJXQUNrbjNJdmhzNEJLempYaHd1YTNKNENJUQ?oc=5)
-
-2026-07-06 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">更年期</span>
-
-來源：[Cosmopolitan](https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHhDNlktYTdoWkJidFd2SS1PT2FFbXBwY21jdFVELXNHZE5KamdFSllCRjNPNW1fOEgyUUNtM01GUG9Xb3hxVjd0WmR4SlNCdXNDV0RoRXdIc2F1ZkRNbHFwbUk2RlZiSFM3RmtoXzBVaU1uMkJZZUkzeFVCLVJXQUNrbjNJdmhzNEJLempYaHd1YTNKNENJUQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
