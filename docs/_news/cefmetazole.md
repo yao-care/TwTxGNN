@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,29 +41,21 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
+
+### [肺炎鏈球菌疫苗怎麼選？醫揭「血清型置換」新趨勢：成人預防已從兩劑混打走向單劑](https://news.google.com/rss/articles/CBMiakFVX3lxTE1QMnhZWkJlV0YtTTQxSi0xUmVzY3AyZjNGMTVrZHB1TUZpTnhWeHh2U3FOaDdGM3MzTmdEcFBhaDNtWjBWLTI3UFpuUjJjYnZ4aEMxbTlCV1ZwTllHRE9IWlBGTWFVbGlwdXc?oc=5)
+
+2026-07-06 <span class="news-indication-tag">鏈球菌</span>
+
+來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTE1QMnhZWkJlV0YtTTQxSi0xUmVzY3AyZjNGMTVrZHB1TUZpTnhWeHh2U3FOaDdGM3MzTmdEcFBhaDNtWjBWLTI3UFpuUjJjYnZ4aEMxbTlCV1ZwTllHRE9IWlBGTWFVbGlwdXc?oc=5)
+
+---
 
 ### [40歲身體可能像50歲 權威期刊揭癌症年輕化新線索](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmR2lsUlotUHdZSkRjZWFOekJjU3p1aDV4SFBpS2pQYW1zdWRxYm42ajFybUJVWXpXWGRCWlQ3U2tKRTVSSlp2d2NCNURYQ2ttcmhhc2t3THNSNVZG0gFiQVVfeXFMTkxMdzJpOV9sRHZqUEJiaDljUkFMamFDbzZacnBYaDRkLV80N05vMmg0UDVqbFhabzFVOTRUTDJGVnI3UnVDVXZmUllZMF9tb2ZIbkswZ1hyUkpKTEdYakxHRkE?oc=5)
 
 2026-07-05 <span class="news-indication-tag">癌症</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmR2lsUlotUHdZSkRjZWFOekJjU3p1aDV4SFBpS2pQYW1zdWRxYm42ajFybUJVWXpXWGRCWlQ3U2tKRTVSSlp2d2NCNURYQ2ttcmhhc2t3THNSNVZG0gFiQVVfeXFMTkxMdzJpOV9sRHZqUEJiaDljUkFMamFDbzZacnBYaDRkLV80N05vMmg0UDVqbFhabzFVOTRUTDJGVnI3UnVDVXZmUllZMF9tb2ZIbkswZ1hyUkpKTEdYakxHRkE?oc=5)
-
----
-
-### [肺炎鏈球菌重症不分年齡 吸菸、出差者也是高風險族群](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fMm44d2hSQ1U1YkxsaXdQQUNlcGRhZGN5M3NlTG9tNkRHdDBoQUhaalRVZjFlUld3V0MwVXRvZ2s0cnA2cERlUHRUNFI0WllkUDg1VU4tZFJHYUnSAWBBVV95cUxQRTk2VmNsVnJqRUJOYncyWUxpamdaXzREMV9vS0sxcy1VWmFEbW1SbGE2SXplTmtEeFVfZDZWQkJoUjVBdVkyMFNuUlBXcTJLcDdNbHN1bFlzN1R5VkpFNUM?oc=5)
-
-2026-07-04 <span class="news-indication-tag">鏈球菌</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fMm44d2hSQ1U1YkxsaXdQQUNlcGRhZGN5M3NlTG9tNkRHdDBoQUhaalRVZjFlUld3V0MwVXRvZ2s0cnA2cERlUHRUNFI0WllkUDg1VU4tZFJHYUnSAWBBVV95cUxQRTk2VmNsVnJqRUJOYncyWUxpamdaXzREMV9vS0sxcy1VWmFEbW1SbGE2SXplTmtEeFVfZDZWQkJoUjVBdVkyMFNuUlBXcTJLcDdNbHN1bFlzN1R5VkpFNUM?oc=5)
-
----
-
-### [RSV病毒傳染力強 1傳3老幼.癌症族群疫苗最關鍵](https://news.google.com/rss/articles/CBMitAJBVV95cUxOamJrc2U3NkhuZDcxZlRyd2VLTE9CS3R1cldJNzBGODZMOXR3NjIxai1STVMwVkJVSHVFNnhTWXNXN0hscnZBb0d0TmpDTHZPUDQ4R3RIRlIxSmJyY0NGZE1kMVNmc3AzMlUxZHgtZXNxQmg2dmVid0R2RmY2V2FocTlmWk1XVmRHNFp2b01uTzg2QjdacHJ1QjRBMjFKcFp5Q1RHN3haZmpDMUZ1ZFp1TVczYWVaOC02cWcwU3hWX1BDcVcxZ19ZYm1lYnRzMUpyeHlWYjdQLUhPRTZER3dKNV85UVEwOVRqUkpwalo3UTl1aDg3UFpmQVhuRlZLUnZsWU0yWWRhSG01SXVIbUV3NXFCZlZuYmRGN0ZBV2oxNVhRVlU2NVFDT2JiR2lwZ3g2Nm1OSg?oc=5)
-
-2026-07-04 <span class="news-indication-tag">癌症</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMitAJBVV95cUxOamJrc2U3NkhuZDcxZlRyd2VLTE9CS3R1cldJNzBGODZMOXR3NjIxai1STVMwVkJVSHVFNnhTWXNXN0hscnZBb0d0TmpDTHZPUDQ4R3RIRlIxSmJyY0NGZE1kMVNmc3AzMlUxZHgtZXNxQmg2dmVid0R2RmY2V2FocTlmWk1XVmRHNFp2b01uTzg2QjdacHJ1QjRBMjFKcFp5Q1RHN3haZmpDMUZ1ZFp1TVczYWVaOC02cWcwU3hWX1BDcVcxZ19ZYm1lYnRzMUpyeHlWYjdQLUhPRTZER3dKNV85UVEwOVRqUkpwalo3UTl1aDg3UFpmQVhuRlZLUnZsWU0yWWRhSG01SXVIbUV3NXFCZlZuYmRGN0ZBV2oxNVhRVlU2NVFDT2JiR2lwZ3g2Nm1OSg?oc=5)
 
 ---
 

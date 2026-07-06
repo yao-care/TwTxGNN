@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="Ramucirumab 有什麼相關新聞？">
-<strong>Ramucirumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ramucirumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/ramucirumab/
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [40歲身體可能像50歲 權威期刊揭癌症年輕化新線索](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmR2lsUlotUHdZSkRjZWFOekJjU3p1aDV4SFBpS2pQYW1zdWRxYm42ajFybUJVWXpXWGRCWlQ3U2tKRTVSSlp2d2NCNURYQ2ttcmhhc2t3THNSNVZG0gFiQVVfeXFMTkxMdzJpOV9sRHZqUEJiaDljUkFMamFDbzZacnBYaDRkLV80N05vMmg0UDVqbFhabzFVOTRUTDJGVnI3UnVDVXZmUllZMF9tb2ZIbkswZ1hyUkpKTEdYakxHRkE?oc=5)
 
 2026-07-05 <span class="news-indication-tag">癌症</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmR2lsUlotUHdZSkRjZWFOekJjU3p1aDV4SFBpS2pQYW1zdWRxYm42ajFybUJVWXpXWGRCWlQ3U2tKRTVSSlp2d2NCNURYQ2ttcmhhc2t3THNSNVZG0gFiQVVfeXFMTkxMdzJpOV9sRHZqUEJiaDljUkFMamFDbzZacnBYaDRkLV80N05vMmg0UDVqbFhabzFVOTRUTDJGVnI3UnVDVXZmUllZMF9tb2ZIbkswZ1hyUkpKTEdYakxHRkE?oc=5)
-
----
-
-### [RSV病毒傳染力強 1傳3老幼.癌症族群疫苗最關鍵](https://news.google.com/rss/articles/CBMitAJBVV95cUxOamJrc2U3NkhuZDcxZlRyd2VLTE9CS3R1cldJNzBGODZMOXR3NjIxai1STVMwVkJVSHVFNnhTWXNXN0hscnZBb0d0TmpDTHZPUDQ4R3RIRlIxSmJyY0NGZE1kMVNmc3AzMlUxZHgtZXNxQmg2dmVid0R2RmY2V2FocTlmWk1XVmRHNFp2b01uTzg2QjdacHJ1QjRBMjFKcFp5Q1RHN3haZmpDMUZ1ZFp1TVczYWVaOC02cWcwU3hWX1BDcVcxZ19ZYm1lYnRzMUpyeHlWYjdQLUhPRTZER3dKNV85UVEwOVRqUkpwalo3UTl1aDg3UFpmQVhuRlZLUnZsWU0yWWRhSG01SXVIbUV3NXFCZlZuYmRGN0ZBV2oxNVhRVlU2NVFDT2JiR2lwZ3g2Nm1OSg?oc=5)
-
-2026-07-04 <span class="news-indication-tag">癌症</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMitAJBVV95cUxOamJrc2U3NkhuZDcxZlRyd2VLTE9CS3R1cldJNzBGODZMOXR3NjIxai1STVMwVkJVSHVFNnhTWXNXN0hscnZBb0d0TmpDTHZPUDQ4R3RIRlIxSmJyY0NGZE1kMVNmc3AzMlUxZHgtZXNxQmg2dmVid0R2RmY2V2FocTlmWk1XVmRHNFp2b01uTzg2QjdacHJ1QjRBMjFKcFp5Q1RHN3haZmpDMUZ1ZFp1TVczYWVaOC02cWcwU3hWX1BDcVcxZ19ZYm1lYnRzMUpyeHlWYjdQLUhPRTZER3dKNV85UVEwOVRqUkpwalo3UTl1aDg3UFpmQVhuRlZLUnZsWU0yWWRhSG01SXVIbUV3NXFCZlZuYmRGN0ZBV2oxNVhRVlU2NVFDT2JiR2lwZ3g2Nm1OSg?oc=5)
 
 ---
 

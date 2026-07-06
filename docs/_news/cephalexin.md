@@ -32,11 +32,11 @@ permalink: /news/cephalexin/
 
 ## 相關新聞（1 則）
 
-### [肺炎鏈球菌重症不分年齡 吸菸、出差者也是高風險族群](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fMm44d2hSQ1U1YkxsaXdQQUNlcGRhZGN5M3NlTG9tNkRHdDBoQUhaalRVZjFlUld3V0MwVXRvZ2s0cnA2cERlUHRUNFI0WllkUDg1VU4tZFJHYUnSAWBBVV95cUxQRTk2VmNsVnJqRUJOYncyWUxpamdaXzREMV9vS0sxcy1VWmFEbW1SbGE2SXplTmtEeFVfZDZWQkJoUjVBdVkyMFNuUlBXcTJLcDdNbHN1bFlzN1R5VkpFNUM?oc=5)
+### [肺炎鏈球菌疫苗怎麼選？醫揭「血清型置換」新趨勢：成人預防已從兩劑混打走向單劑](https://news.google.com/rss/articles/CBMiakFVX3lxTE1QMnhZWkJlV0YtTTQxSi0xUmVzY3AyZjNGMTVrZHB1TUZpTnhWeHh2U3FOaDdGM3MzTmdEcFBhaDNtWjBWLTI3UFpuUjJjYnZ4aEMxbTlCV1ZwTllHRE9IWlBGTWFVbGlwdXc?oc=5)
 
-2026-07-04 <span class="news-indication-tag">鏈球菌</span>
+2026-07-06 <span class="news-indication-tag">鏈球菌</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fMm44d2hSQ1U1YkxsaXdQQUNlcGRhZGN5M3NlTG9tNkRHdDBoQUhaalRVZjFlUld3V0MwVXRvZ2s0cnA2cERlUHRUNFI0WllkUDg1VU4tZFJHYUnSAWBBVV95cUxQRTk2VmNsVnJqRUJOYncyWUxpamdaXzREMV9vS0sxcy1VWmFEbW1SbGE2SXplTmtEeFVfZDZWQkJoUjVBdVkyMFNuUlBXcTJLcDdNbHN1bFlzN1R5VkpFNUM?oc=5)
+來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTE1QMnhZWkJlV0YtTTQxSi0xUmVzY3AyZjNGMTVrZHB1TUZpTnhWeHh2U3FOaDdGM3MzTmdEcFBhaDNtWjBWLTI3UFpuUjJjYnZ4aEMxbTlCV1ZwTllHRE9IWlBGTWFVbGlwdXc?oc=5)
 
 ---
 
