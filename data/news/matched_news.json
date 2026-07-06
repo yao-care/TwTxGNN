@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-07-06T18:50:05.976418+00:00",
-  "total_count": 19,
-  "matched_count": 8,
+  "last_updated": "2026-07-06T20:47:04.337331+00:00",
+  "total_count": 23,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "a61f46f3473a",
+      "title": "類固醇：人體的荷爾蒙不可或缺",
+      "published": "2026-07-06T20:00:00+00:00",
+      "summary": "類固醇：人體的荷爾蒙不可或缺&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQX21JNmhYZnE0TWU4WEVPZWlIX3ZTbUNVc3lOdDVrMmtqeTlvb3RFemlEaDFTSndHNHhqSDdTQnlIU2lNOXVLMV9CSWR5RlBjWjE0Z3JXa3dJUC1jeDBzczVfWk5qN1Q0Wk5YZmp2b2FaVHFRSmpQajY3UVd6MVE2OElKMjBlVjNRYTVJb3pwdS1ObFM4N05FM2ZBQXpSazVDZGhENjU4bm1FUXhWa0hiMnFRaV9rcVUzaXRPdFVsR2cwT1NRNDJJLV9QOFFhQ184SDAydDNlWjZCR3R3a1BESE16NVp5LWR3MHJ0VXpPb25DRW1KODdOSmg4S29qT1Z1dm1UV083ZkU?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "bdc2c65ab948",
       "title": "【灣區新聞】Contra Costa縣有野生美州烏鴉感染西尼羅病毒",
@@ -227,6 +240,19 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FckQyMThORWM1WThab3Z0Q09MTUdZUmpEVHlPdU9kZm5SWmFlMkZfMGQ2R1ZTazN2R1VWRzR6NnU1MnRzZW5JYVJ2OFJtTHQxUEowQkdKTExPYURoTWZsQktWa3PSAWpBVV95cUxQajJ4dy1FMG92TGN6X05yUXpSaHowS1kzajJ3TFJaSnUxbzE3R0tEM2lRc3MwcmhBWVNBZUVyZWZpcmxFRG91eXhpbDVyX0p4bEhGZXVWT05zVjktZ2tRWjlCTzJ2ajBlNlVB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "65fb830c64ee",
+      "title": "小黑蚊不是「蚊」！無天敵太囂張專家教你這樣毀滅牠的家| 生活",
+      "published": "2026-07-06T03:54:08+00:00",
+      "summary": "小黑蚊不是「蚊」！無天敵太囂張專家教你這樣毀滅牠的家| 生活&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBjMkphZXBlOEFDRnpsbHFMTE5fWHpIT0plMVhsaFpCMTB2QWg0WXZJNmppenNBVFVrWkhjN1BuTmhZWmptMWpJ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -460,6 +486,67 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d76b6649921d",
+      "title": "防範高血糖９風險！不尋常症狀也要留意| 專欄",
+      "published": "2026-07-05T19:10:45+00:00",
+      "summary": "防範高血糖９風險！不尋常症狀也要留意| 專欄&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9hQkE5MlNqa29oZHRBLTdtX3d6RkZLM0xROFF6N1c1NWNLNkFEc3BsYnpNTUZMVHpEOThXX0JLV29GWVR4Yy11Vw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b8152d757b43",
+      "title": "【哇潮】預防大腸癌自己來先觀察便便就對了| 專欄",
+      "published": "2026-07-05T18:37:41+00:00",
+      "summary": "【哇潮】預防大腸癌自己來先觀察便便就對了| 專欄&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuSWRiSjluNWlSMU55enM0RXFPQUszdWpYYno3ZGkwa2pqaGFJTWZ4WXlUblZZeWVGdTFhOVZETTRTdzhFNWtz?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }

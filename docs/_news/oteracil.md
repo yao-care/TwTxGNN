@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/oteracil/
 <li><strong>原適應症</strong>：胃癌用藥。</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>colonic neoplasm（100.0%）</li>
+<li class="indication-matched">colonic neoplasm（100.0%）<span class="indication-tag">📰 大腸癌</span></li>
 <li>cecum villous adenoma（100.0%）</li>
 <li>cecum neuroendocrine tumor G1（100.0%）</li>
 <li>lipoma of colon（100.0%）</li>
@@ -42,13 +42,21 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [醫華生技CytoAurora 攜手泰國國家癌症研究所簽署戰略合作協議！引進 iPSC 與 CTC 尖端技術，全面佈局東協精準醫療藍圖](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPY1AtX0dWLUNjYVpNcFA1T2MxQU55SGRpYWdEWmdwYXFMLXQ5aUFEa3JNYlFSRVRkcGctdk1vZ3VzUkh2R0JpUHVxMW5CV2p5MWs1ZFRfYlVZQU03YUdFNlNrYnpuOS1wSFBFeWJDRjY0Q1VXSHlpclF2NFVBQk5MZ3hqNzRZRk91d1Z4Mlp5cnVKZHh2ZzFwSmtyVU1aRG40MlFwQW1OYUxIUW9hVXlUV0hPbE54Rk1OSkdMT3R6NUY3Mm1KR0h5UVpJZzg4LVVybmhRY0VJempCYkpmTkdsVmlMTXg1LVNPeXhqdEk4dTlPSURDNUw5Q0RFUkpKVlpuM0xTbDhNN0xRbXRTUUpleG0zSWVKQUp3dnRDWFZFZElGdXZIUWhzdkU4Q2x0LWxhSmVZWlhWbDJnd2UxUTdJeEZHZ0N1UkJIU1Z4MFM5OGxYaUhmT0FZQ2NBMHRmelk?oc=5)
 
 2026-07-06 <span class="news-indication-tag">癌症</span>
 
 來源：[報新聞](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPY1AtX0dWLUNjYVpNcFA1T2MxQU55SGRpYWdEWmdwYXFMLXQ5aUFEa3JNYlFSRVRkcGctdk1vZ3VzUkh2R0JpUHVxMW5CV2p5MWs1ZFRfYlVZQU03YUdFNlNrYnpuOS1wSFBFeWJDRjY0Q1VXSHlpclF2NFVBQk5MZ3hqNzRZRk91d1Z4Mlp5cnVKZHh2ZzFwSmtyVU1aRG40MlFwQW1OYUxIUW9hVXlUV0hPbE54Rk1OSkdMT3R6NUY3Mm1KR0h5UVpJZzg4LVVybmhRY0VJempCYkpmTkdsVmlMTXg1LVNPeXhqdEk4dTlPSURDNUw5Q0RFUkpKVlpuM0xTbDhNN0xRbXRTUUpleG0zSWVKQUp3dnRDWFZFZElGdXZIUWhzdkU4Q2x0LWxhSmVZWlhWbDJnd2UxUTdJeEZHZ0N1UkJIU1Z4MFM5OGxYaUhmT0FZQ2NBMHRmelk?oc=5)
+
+---
+
+### [【哇潮】預防大腸癌自己來先觀察便便就對了| 專欄](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuSWRiSjluNWlSMU55enM0RXFPQUszdWpYYno3ZGkwa2pqaGFJTWZ4WXlUblZZeWVGdTFhOVZETTRTdzhFNWtz?oc=5)
+
+2026-07-05 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[三立新聞](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuSWRiSjluNWlSMU55enM0RXFPQUszdWpYYno3ZGkwa2pqaGFJTWZ4WXlUblZZeWVGdTFhOVZETTRTdzhFNWtz?oc=5)
 
 ---
 
