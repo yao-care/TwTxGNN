@@ -43,6 +43,14 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（4 則）
 
+### [90多歲仍未失智 醫師曝關鍵：起床30分鐘內「都先做這事」](https://news.google.com/rss/articles/CBMi2AJBVV95cUxPbkZEQ1JKY3FWSFZZTzFjMmQ5cWpfY3VObUVkejdfQWpPZUNMNnY3MzNSZGx3ZU1heGtqVWtWaUFkTjFuY0VtQW5CZW5kUU9Oa1Q4NVdub1gwTDJhTGctUEZYaDR4UmRmTndTb3ptT1Fib3ZWWklBLUVNVGdIVlpCczFXdDZ2Z0xvYjVta2c5R2xIUEt2eGR1c001Qi05akI5ODZKc3JBVnVmV3ZFRFlRdVNYR2ctckliNzhIalNYSWw5djViZU42aUJtVmt3ZVVxU1lVRTRyNWotZ0JJMTJhUWxzTHJhc05Od25ZejlpVDRmZ05BTUVjdHg5QUNybUZoRS1rV0txd1N1ek14TllsYzhFT3ZfOUs5bXVPaml4aW9taXZQUmNXX19RUmxYdW1UWlI5WUczcGV1ZVlYUkhlZzVDSUY2blVXM0dEZGtvRGpLN3F3cHBlWA?oc=5)
+
+2026-07-06 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi2AJBVV95cUxPbkZEQ1JKY3FWSFZZTzFjMmQ5cWpfY3VObUVkejdfQWpPZUNMNnY3MzNSZGx3ZU1heGtqVWtWaUFkTjFuY0VtQW5CZW5kUU9Oa1Q4NVdub1gwTDJhTGctUEZYaDR4UmRmTndTb3ptT1Fib3ZWWklBLUVNVGdIVlpCczFXdDZ2Z0xvYjVta2c5R2xIUEt2eGR1c001Qi05akI5ODZKc3JBVnVmV3ZFRFlRdVNYR2ctckliNzhIalNYSWw5djViZU42aUJtVmt3ZVVxU1lVRTRyNWotZ0JJMTJhUWxzTHJhc05Od25ZejlpVDRmZ05BTUVjdHg5QUNybUZoRS1rV0txd1N1ek14TllsYzhFT3ZfOUs5bXVPaml4aW9taXZQUmNXX19RUmxYdW1UWlI5WUczcGV1ZVlYUkhlZzVDSUY2blVXM0dEZGtvRGpLN3F3cHBlWA?oc=5)
+
+---
+
 ### [阿茲海默症可能找錯病因 研究揭腦細胞真正崩壞關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JUWp2LUozbUxMVHJyUFhQa20zZW1LRU9Uc2MtdERCXzhfQ3BfLUVqSkRla0FNdmE3SnhJSGNnT2N5eWVlX0FoMVpERUo4Q1lLdWdPZjBGT1NXRW15M2gxTE4wdjjSAWpBVV95cUxOcHlDS0hCSExnYVIxOXE2OGU2aFJhTGtSbWxzX3RZX2tkU3RiVHRLeWZSeWhNQ1ExbUFya3A2aVQtR1RkbkJJWkxQcnVpR1h3WVBwdzYxY1J2dnBZMWtKZFRnZFcwNFl6Ym1n?oc=5)
 
 2026-07-06 <span class="news-indication-tag">阿茲海默症</span>
@@ -56,14 +64,6 @@ permalink: /news/gefitinib/
 2026-07-06 <span class="news-indication-tag">癌症</span>
 
 來源：[報新聞](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPY1AtX0dWLUNjYVpNcFA1T2MxQU55SGRpYWdEWmdwYXFMLXQ5aUFEa3JNYlFSRVRkcGctdk1vZ3VzUkh2R0JpUHVxMW5CV2p5MWs1ZFRfYlVZQU03YUdFNlNrYnpuOS1wSFBFeWJDRjY0Q1VXSHlpclF2NFVBQk5MZ3hqNzRZRk91d1Z4Mlp5cnVKZHh2ZzFwSmtyVU1aRG40MlFwQW1OYUxIUW9hVXlUV0hPbE54Rk1OSkdMT3R6NUY3Mm1KR0h5UVpJZzg4LVVybmhRY0VJempCYkpmTkdsVmlMTXg1LVNPeXhqdEk4dTlPSURDNUw5Q0RFUkpKVlpuM0xTbDhNN0xRbXRTUUpleG0zSWVKQUp3dnRDWFZFZElGdXZIUWhzdkU4Q2x0LWxhSmVZWlhWbDJnd2UxUTdJeEZHZ0N1UkJIU1Z4MFM5OGxYaUhmT0FZQ2NBMHRmelk?oc=5)
-
----
-
-### [醫曝從不得失智症的人起床30分鐘內都先做這件事- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTE5XSDJ6QkRqSnpkYk9NVmlpQlBuZ2ZWZTJMTVlGX3lmRVlsQ3dxUWVwaGNSaXRjcFczTEtBTEpDODBNUXEzTDNreGFUbDRLU21heElZNE44WWU0blRoRG1nQ0Y4UnhqQk1vWGozemF3?oc=5)
-
-2026-07-05 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5XSDJ6QkRqSnpkYk9NVmlpQlBuZ2ZWZTJMTVlGX3lmRVlsQ3dxUWVwaGNSaXRjcFczTEtBTEpDODBNUXEzTDNreGFUbDRLU21heElZNE44WWU0blRoRG1nQ0Y4UnhqQk1vWGozemF3?oc=5)
 
 ---
 

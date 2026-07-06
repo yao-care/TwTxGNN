@@ -44,11 +44,11 @@ permalink: /news/nystatin/
 
 ## 相關新聞（1 則）
 
-### [甩高血脂不只要規律運動專家：黃金組合效果最佳- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTFBuTWoyLXRxUjE0czd5bWRtWFNxTC0tR1hOWmp2NDF5NFJyRE50MFRkZUxtZ19PT2lWMEo0eTc3UnR5cnV4by1tQWtBa2tRYUdQaU83Zm9mclBkQy1sZHZGOUl3ZlVZSnpaaWxLTy1R?oc=5)
+### [50+只做重訓不夠！揭密最長壽國家延長壽命關鍵：專家推薦「1有氧運動」，擊破心血管老化更健康](https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHhDNlktYTdoWkJidFd2SS1PT2FFbXBwY21jdFVELXNHZE5KamdFSllCRjNPNW1fOEgyUUNtM01GUG9Xb3hxVjd0WmR4SlNCdXNDV0RoRXdIc2F1ZkRNbHFwbUk2RlZiSFM3RmtoXzBVaU1uMkJZZUkzeFVCLVJXQUNrbjNJdmhzNEJLempYaHd1YTNKNENJUQ?oc=5)
 
 2026-07-06 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">更年期</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFBuTWoyLXRxUjE0czd5bWRtWFNxTC0tR1hOWmp2NDF5NFJyRE50MFRkZUxtZ19PT2lWMEo0eTc3UnR5cnV4by1tQWtBa2tRYUdQaU83Zm9mclBkQy1sZHZGOUl3ZlVZSnpaaWxLTy1R?oc=5)
+來源：[Cosmopolitan](https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHhDNlktYTdoWkJidFd2SS1PT2FFbXBwY21jdFVELXNHZE5KamdFSllCRjNPNW1fOEgyUUNtM01GUG9Xb3hxVjd0WmR4SlNCdXNDV0RoRXdIc2F1ZkRNbHFwbUk2RlZiSFM3RmtoXzBVaU1uMkJZZUkzeFVCLVJXQUNrbjNJdmhzNEJLempYaHd1YTNKNENJUQ?oc=5)
 
 ---
 

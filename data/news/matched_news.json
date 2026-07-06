@@ -1,30 +1,17 @@
 {
-  "last_updated": "2026-07-06T08:10:56.158607+00:00",
-  "total_count": 16,
+  "last_updated": "2026-07-06T12:37:09.698839+00:00",
+  "total_count": 18,
   "matched_count": 8,
   "news": [
     {
-      "id": "06cf1d8a40fd",
-      "title": "27歲港女搲損「蚊癩」釀蜂窩組織炎 痛到撐拐杖+手術放膿 AI教畫圈監測救一命？｜健康專訪",
-      "published": "2026-07-06T08:00:00+00:00",
-      "summary": "27歲港女搲損「蚊癩」釀蜂窩組織炎 痛到撐拐杖+手術放膿 AI教畫圈監測救一命？｜健康專訪&nbsp;&nbsp;星島頭條",
+      "id": "f702524bf0e4",
+      "title": "50+只做重訓不夠！揭密最長壽國家延長壽命關鍵：專家推薦「1有氧運動」，擊破心血管老化更健康",
+      "published": "2026-07-06T09:40:55+00:00",
+      "summary": "50+只做重訓不夠！揭密最長壽國家延長壽命關鍵：專家推薦「1有氧運動」，擊破心血管老化更健康&nbsp;&nbsp;Cosmopolitan甩高血脂不只要規律運動專家：黃金組合效果最佳- 健康&nbsp;&nbsp;中時新聞網更年期不只是老化的開始！最新研究：女性心血管風險悄悄升高&nbsp;&nbsp;台視新聞網更年期「荷爾蒙治療」致血栓？醫：恐過度誤導偏差 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞更年期後別只顧有氧運動研究發現加入重訓更有助保護心血管｜婦產科｜醫療&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPalNROVNsQlhfb1lxS05yQTQwUkFhTWgteG5xVU0wUGtYek5SOEJHbF9OWWxycnJHMkpidVB5Q0ZQOFJGUkl5ZER0c0RGYnZWVEQyVDZWdGRLNndxRXg4Y0ZuSDhzeW8wbFlqM0FkcWRmcm54OGdIQnYybkFLYmhDTEx1MEM1U2NseVVYUDdTeTV1ZS1GZmFlN2xza0pmaUUxU0lRNV9WTjJMaXpQV0pLUVlDMDlSamd4Q0hPR21rYzVKOUQ1VUJZbEpCZUpaXzluLXdrTlRXOW1ZMEpzR0k2MW92RlA5VWJzZ21JajE4MDItcjFnUDNiLWpvT09wZTI1NGhfODF6OHEzSlRHQnJLZGc1M3F1Nk1HZEEtQUNTYVcxTy1xTjlpMldBa1BrTjdjVG9xRGdybXpoRTU1bVJBTlVUQ3JBS0JUTGotTmRhQUxpWmlhWl9kOUs5dExIeGVYOWZVSTlHMUppVm1tUEo2WFE5RDlxV2ZfMXJJanhHY1o1V1FidUtBMXFjcjVIeEx0Rm1RU1ZoRVFUV0dGazZFaGdVSmJDbF9IT2ZDN3BnVE1EWFN3d1lCaDVqZWYwblMtTDAxMGFOdFJPNER5Y3FFem1fZzJ1dkxwTndRU0ZiNk96RTZ6VU9nSExId0lFWFZSdDRmUk4wOE8?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ed7f8df27499",
-      "title": "甩高血脂不只要規律運動專家：黃金組合效果最佳- 健康",
-      "published": "2026-07-06T07:42:00+00:00",
-      "summary": "甩高血脂不只要規律運動專家：黃金組合效果最佳- 健康&nbsp;&nbsp;中時新聞網更年期不只是老化的開始！最新研究：女性心血管風險悄悄升高&nbsp;&nbsp;台視新聞網更年期「荷爾蒙治療」致血栓？醫：恐過度誤導偏差 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞更年期後別只顧有氧運動研究發現加入重訓更有助保護心血管｜婦產科｜醫療&nbsp;&nbsp;元氣網降低更年期荷爾蒙治療風險 血管健康與給藥路徑是關鍵&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuTWoyLXRxUjE0czd5bWRtWFNxTC0tR1hOWmp2NDF5NFJyRE50MFRkZUxtZ19PT2lWMEo0eTc3UnR5cnV4by1tQWtBa2tRYUdQaU83Zm9mclBkQy1sZHZGOUl3ZlVZSnpaaWxLTy1R?oc=5"
+          "name": "Cosmopolitan",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHhDNlktYTdoWkJidFd2SS1PT2FFbXBwY21jdFVELXNHZE5KamdFSllCRjNPNW1fOEgyUUNtM01GUG9Xb3hxVjd0WmR4SlNCdXNDV0RoRXdIc2F1ZkRNbHFwbUk2RlZiSFM3RmtoXzBVaU1uMkJZZUkzeFVCLVJXQUNrbjNJdmhzNEJLempYaHd1YTNKNENJUQ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -65,6 +52,106 @@
       ]
     },
     {
+      "id": "2c11fb98801a",
+      "title": "一種疫苗可望防多種致命腹瀉 研究找到病菌共同弱點",
+      "published": "2026-07-06T09:33:00+00:00",
+      "summary": "一種疫苗可望防多種致命腹瀉 研究找到病菌共同弱點&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PMXNHc1FGSDFDcnFQa0c0LXhWUlljWDl4aGlhcElXRWJkbEpKank4OFZQSFdFV2Y5MlpOcHR2bXItUkdtOUprLThpSDZoX3A1SGlsSGdodGYycDk2Wm5oVnJ0eHbSAWpBVV95cUxQVGFPX1Q3YURXNE5UUnNrVHdJU3M4VDc3OFhXY1hEU3NFTXpxQ2FDX2JVZ20yN2s2dTlpYkZjNTFJT3FPMWJPSnBSZjhET3VpZzdITG9KTVF1TERrTzRpRXlOck1LWC1OaXh3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6b6b56522efc",
+      "title": "90多歲仍未失智 醫師曝關鍵：起床30分鐘內「都先做這事」",
+      "published": "2026-07-06T09:27:00+00:00",
+      "summary": "90多歲仍未失智 醫師曝關鍵：起床30分鐘內「都先做這事」&nbsp;&nbsp;Yahoo新聞護腦不只靠飲食、運動！研究指白天多做一件事，更能降失智風險&nbsp;&nbsp;元氣網醫曝從不得失智症的人起床30分鐘內都先做這件事- 國際&nbsp;&nbsp;中時新聞網戶外光照不足恐增失智風險 研究證實大腦加速退化&nbsp;&nbsp;三立新聞網SETN.com少曬太陽恐「加速失智」？研究揭「每天42分鐘」是關鍵&nbsp;&nbsp;壹蘋新聞網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPbkZEQ1JKY3FWSFZZTzFjMmQ5cWpfY3VObUVkejdfQWpPZUNMNnY3MzNSZGx3ZU1heGtqVWtWaUFkTjFuY0VtQW5CZW5kUU9Oa1Q4NVdub1gwTDJhTGctUEZYaDR4UmRmTndTb3ptT1Fib3ZWWklBLUVNVGdIVlpCczFXdDZ2Z0xvYjVta2c5R2xIUEt2eGR1c001Qi05akI5ODZKc3JBVnVmV3ZFRFlRdVNYR2ctckliNzhIalNYSWw5djViZU42aUJtVmt3ZVVxU1lVRTRyNWotZ0JJMTJhUWxzTHJhc05Od25ZejlpVDRmZ05BTUVjdHg5QUNybUZoRS1rV0txd1N1ek14TllsYzhFT3ZfOUs5bXVPaml4aW9taXZQUmNXX19RUmxYdW1UWlI5WUczcGV1ZVlYUkhlZzVDSUY2blVXM0dEZGtvRGpLN3F3cHBlWA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "75597cc6fff2",
+      "title": "沖涼驚見小凸點中雙重性病！無痛染椰菜花+梅毒 揭中招原因及預防方法 - UHK 港生活",
+      "published": "2026-07-06T09:05:48+00:00",
+      "summary": "沖涼驚見小凸點中雙重性病！無痛染椰菜花+梅毒 揭中招原因及預防方法&nbsp;&nbsp;UHK 港生活",
+      "sources": [
+        {
+          "name": "UHK 港生活",
+          "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxNR0szUzVEUUxMd0U3QXdCWVJpbFFyemlFaXNQMHRyUjVkZjVhSkE1UnlkVUw1OVljQUVIZTVaS005cnppQkw5U1g5UmJ4TXA1aHhLdXNzenJOeEZycWViaFJYeVBmOFFvNFhsUndnTkliVFQtMklMY3U2Y2dQQmtkNmlTWjZrVGtUdU01NWRPaGRMTFlpa0wzRW5vOVpPVWhuQV9BRWFkb05qMTI1V3JuYjFUV2JOMk1QZHpDaE5sbGlEdFNyaXItMWhLNXBnb1ZVdXk0d1JvZEJiVVlkNURBZEN1a25TaUpUWTlBWWllTzJ3NXJlclEyOU1tYk9HSlMwQnBOY3lxbHh5SG1OZHlDQW04M1BpMWdRdkVhWE15QWJrTnczdlhWQjdRbWpvaVlMVzVYc045Q0N5Q2Q5VXNjakM1SHhJWjh1NDc1a3hMTjBBc1lQRlNTQzlvOHMzaVBzak45UHN0eUg4ZmVvQk5jVC1KRjV4aTEyQWpVRVhiYktiZWhsalNuX0I4bVFvOVBn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "06cf1d8a40fd",
+      "title": "27歲港女搲損「蚊癩」釀蜂窩組織炎 痛到撐拐杖+手術放膿 AI教畫圈監測救一命？｜健康專訪",
+      "published": "2026-07-06T08:00:00+00:00",
+      "summary": "27歲港女搲損「蚊癩」釀蜂窩組織炎 痛到撐拐杖+手術放膿 AI教畫圈監測救一命？｜健康專訪&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPalNROVNsQlhfb1lxS05yQTQwUkFhTWgteG5xVU0wUGtYek5SOEJHbF9OWWxycnJHMkpidVB5Q0ZQOFJGUkl5ZER0c0RGYnZWVEQyVDZWdGRLNndxRXg4Y0ZuSDhzeW8wbFlqM0FkcWRmcm54OGdIQnYybkFLYmhDTEx1MEM1U2NseVVYUDdTeTV1ZS1GZmFlN2xza0pmaUUxU0lRNV9WTjJMaXpQV0pLUVlDMDlSamd4Q0hPR21rYzVKOUQ1VUJZbEpCZUpaXzluLXdrTlRXOW1ZMEpzR0k2MW92RlA5VWJzZ21JajE4MDItcjFnUDNiLWpvT09wZTI1NGhfODF6OHEzSlRHQnJLZGc1M3F1Nk1HZEEtQUNTYVcxTy1xTjlpMldBa1BrTjdjVG9xRGdybXpoRTU1bVJBTlVUQ3JBS0JUTGotTmRhQUxpWmlhWl9kOUs5dExIeGVYOWZVSTlHMUppVm1tUEo2WFE5RDlxV2ZfMXJJanhHY1o1V1FidUtBMXFjcjVIeEx0Rm1RU1ZoRVFUV0dGazZFaGdVSmJDbF9IT2ZDN3BnVE1EWFN3d1lCaDVqZWYwblMtTDAxMGFOdFJPNER5Y3FFem1fZzJ1dkxwTndRU0ZiNk96RTZ6VU9nSExId0lFWFZSdDRmUk4wOE8?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8b5d7b3df19d",
+      "title": "健康斷食怎麼做？10大關鍵必看 長時間斷食未必更好 - 科技新聞 - PChome Online 新聞 - PChome Online 新聞",
+      "published": "2026-07-06T07:47:05+00:00",
+      "summary": "健康斷食怎麼做？10大關鍵必看 長時間斷食未必更好 - 科技新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUFlqQVI5a0lVU084cy10aExvdG5OWGpNb0RSdW9wejJ5NVk0VnlIcUlwdTc0MFZVNmVjeDVxMlI3RkgyRVlEZmh1cGhTWEhucThWYnVaNjQ1d0NUYl9YWUVKcUJyU1ZDS0xZTTVqemZmd0RyLU81UGRKeHZzUjNGYXN0bnBITlYwb2FJOA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "fc573cf78774",
       "title": "每天喝咖啡可護肝？研究：即便大量飲用 肝病與肝癌風險仍較低 - Taiwan News",
       "published": "2026-07-06T07:31:00+00:00",
@@ -90,52 +177,14 @@
       ]
     },
     {
-      "id": "1c72bf5ca1fc",
-      "title": "癌細胞竟會「裝睡」躲治療 研究找到方法叫醒再殺死",
-      "published": "2026-07-06T06:01:00+00:00",
-      "summary": "癌細胞竟會「裝睡」躲治療 研究找到方法叫醒再殺死&nbsp;&nbsp;自由健康網",
+      "id": "ab38ac94c07c",
+      "title": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵",
+      "published": "2026-07-06T07:09:29+00:00",
+      "summary": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵&nbsp;&nbsp;華人健康網成人也得小心肺炎鏈球菌！醫揭：選對「血清型」成精準防重症關鍵&nbsp;&nbsp;三立新聞網SETN.com不只長者要打 醫師示警慢性病青壯年肺炎重症風險飆升&nbsp;&nbsp;Yahoo新聞肺炎鏈球菌疫苗怎麼選？醫揭「血清型置換」新趨勢：成人預防已從兩劑混打走向單劑&nbsp;&nbsp;良醫健康網成人肺炎鏈球菌防護觀念翻新！醫：選對血清型比「涵蓋越多越好」更重要&nbsp;&nbsp;Taiwan News",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FckQyMThORWM1WThab3Z0Q09MTUdZUmpEVHlPdU9kZm5SWmFlMkZfMGQ2R1ZTazN2R1VWRzR6NnU1MnRzZW5JYVJ2OFJtTHQxUEowQkdKTExPYURoTWZsQktWa3PSAWpBVV95cUxQajJ4dy1FMG92TGN6X05yUXpSaHowS1kzajJ3TFJaSnUxbzE3R0tEM2lRc3MwcmhBWVNBZUVyZWZpcmxFRG91eXhpbDVyX0p4bEhGZXVWT05zVjktZ2tRWjlCTzJ2ajBlNlVB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "16f2c7f94742",
-      "title": "感冒藥水「咳就喝一口」他險進ICU！醫列15大NG用法：很多人犯",
-      "published": "2026-07-06T05:33:00+00:00",
-      "summary": "感冒藥水「咳就喝一口」他險進ICU！醫列15大NG用法：很多人犯&nbsp;&nbsp;ETtoday健康雲",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nUk9Yd1U1ZkpfOUNJdzRJU205TFBlbTFxYy0xUEdwczQwbXRRWkd6SDNsdjJmcTRfdWZDLXRMNi03U3ZmYU5ybzdUb0RwUHlr0gFsQVVfeXFMUFBMUGZCVTZtSjQtandyc3BkMkVYNkpvMkZHWjJVcVczSlNwbk9NVTBhWE11bGtiSjZBQzlSeU53RHMxbWNkVmticXVkOXJjWm5oc0hyMXBLN1Mzc0RsbVBRcmdLUFhlSk05SWl6?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6abe5a0ff1b1",
-      "title": "成人肺炎鏈球菌防護觀念翻新！醫：選對血清型比「涵蓋越多越好」更重要 - Taiwan News",
-      "published": "2026-07-06T04:08:00+00:00",
-      "summary": "成人肺炎鏈球菌防護觀念翻新！醫：選對血清型比「涵蓋越多越好」更重要&nbsp;&nbsp;Taiwan News「肺炎鏈球菌」也會攻擊青壯年 醫點名6族群重症風險高&nbsp;&nbsp;ETtoday健康雲肺炎鏈球菌重症不分年齡 吸菸、出差者也是高風險族群&nbsp;&nbsp;自由健康網肺炎鏈球菌疫苗怎麼選？醫揭「血清型置換」新趨勢：成人預防已從兩劑混打走向單劑&nbsp;&nbsp;良醫健康網不只長者要打 醫師示警慢性病青壯年肺炎重症風險飆升&nbsp;&nbsp;壹蘋新聞網",
-      "sources": [
-        {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kMGl2REF5NFBZelRvbVhpdDdoT1FKTFVHQjJfZE9YZTBTZjBSbU5CLXNmSk9ZcU5sZE9GQWpPZXpwcDgyS3ZlWm55Q0t0TFNVR2tPUmY2UHc?oc=5"
+          "name": "華人健康網",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01NmJuZUMwRV80OEZhSjUwRUY4MnI3SU4zRnlwUW5Nand4ZjlfQ2Z4ZFdLaHUzS2tjTUtWZzluRDFXNUNiemN4YkY5X1kzYTZGamc?oc=5"
         }
       ],
       "matched_keywords": [
@@ -155,6 +204,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1c72bf5ca1fc",
+      "title": "癌細胞竟會「裝睡」躲治療 研究找到方法叫醒再殺死",
+      "published": "2026-07-06T06:01:00+00:00",
+      "summary": "癌細胞竟會「裝睡」躲治療 研究找到方法叫醒再殺死&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FckQyMThORWM1WThab3Z0Q09MTUdZUmpEVHlPdU9kZm5SWmFlMkZfMGQ2R1ZTazN2R1VWRzR6NnU1MnRzZW5JYVJ2OFJtTHQxUEowQkdKTExPYURoTWZsQktWa3PSAWpBVV95cUxQajJ4dy1FMG92TGN6X05yUXpSaHowS1kzajJ3TFJaSnUxbzE3R0tEM2lRc3MwcmhBWVNBZUVyZWZpcmxFRG91eXhpbDVyX0p4bEhGZXVWT05zVjktZ2tRWjlCTzJ2ajBlNlVB?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "6c44bb82666e",
@@ -402,42 +464,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "15c47db9186b",
-      "title": "醫曝從不得失智症的人起床30分鐘內都先做這件事- 國際",
-      "published": "2026-07-05T07:31:23+00:00",
-      "summary": "醫曝從不得失智症的人起床30分鐘內都先做這件事- 國際&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XSDJ6QkRqSnpkYk9NVmlpQlBuZ2ZWZTJMTVlGX3lmRVlsQ3dxUWVwaGNSaXRjcFczTEtBTEpDODBNUXEzTDNreGFUbDRLU21heElZNE44WWU0blRoRG1nQ0Y4UnhqQk1vWGozemF3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "4a7fec09e521",
@@ -688,13 +714,13 @@
       "matched_keywords": []
     },
     {
-      "id": "efd76d0cbaa0",
+      "id": "285b59b786e8",
       "title": "騎單車20分鐘記憶力會變好？ 研究指單次運動已可短暫提升認知表現",
       "published": "2026-07-04T23:00:22+00:00",
-      "summary": "騎單車20分鐘記憶力會變好？ 研究指單次運動已可短暫提升認知表現&nbsp;&nbsp;巴士的報",
+      "summary": "騎單車20分鐘記憶力會變好？ 研究指單次運動已可短暫提升認知表現&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOTVZSeHdvM0RfS0ZneERjamYzVlRFYlBrY1VNRDJsdnhyUDdFQ3ZQV3VFbml0M2hLdVN3UFJxOHdzUElHZTlCNU15bFBfY2t3eXVjcl9WbXRVQXNWQVRoYnJTcGE4bkRBdkJaTjdnQ2pwQlBJOWpfaE9xcC1xMzFKaklsV21TQldPY3MwS3VnRms1TWwtQ3lLNlhtaXhDTGNJZ2t5NVdNUEk0bXl3Zksyai0yc1VIVnZJRE5fNElBVV9fekFOVkxCb2NKVEgyUTFydDZLRzZVMW9lTWtWbHlvWmxTV1liMzN6WGNqeGhDUkwtaDJhOW9yNjlSOTBGcUlDekFjSzd2MG1CcHRNOE9NMzRKME5tVkI2NG9MaW1uUEkzZGhRYkNpOUREWHlNaTFEQW1UaWhvd0JSQ0N3UG8yeWxHYXRkQjVtdTU0UXI0RWZnV2c2a3A1UjVBaFRCZDZIVFdORURIaUxxYjNDcGZIbw?oc=5"
         }
       ],

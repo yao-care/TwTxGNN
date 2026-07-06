@@ -1,15 +1,15 @@
 {
-  "generated": "2026-07-06T08:10:56.191694+00:00",
+  "generated": "2026-07-06T12:37:09.730860+00:00",
   "count": 8,
   "news": [
     {
-      "id": "ed7f8df27499",
-      "title": "甩高血脂不只要規律運動專家：黃金組合效果最佳- 健康",
-      "published": "2026-07-06T07:42:00+00:00",
+      "id": "f702524bf0e4",
+      "title": "50+只做重訓不夠！揭密最長壽國家延長壽命關鍵：專家推薦「1有氧運動」，擊破心血管老化更健康",
+      "published": "2026-07-06T09:40:55+00:00",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuTWoyLXRxUjE0czd5bWRtWFNxTC0tR1hOWmp2NDF5NFJyRE50MFRkZUxtZ19PT2lWMEo0eTc3UnR5cnV4by1tQWtBa2tRYUdQaU83Zm9mclBkQy1sZHZGOUl3ZlVZSnpaaWxLTy1R?oc=5"
+          "name": "Cosmopolitan",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHhDNlktYTdoWkJidFd2SS1PT2FFbXBwY21jdFVELXNHZE5KamdFSllCRjNPNW1fOEgyUUNtM01GUG9Xb3hxVjd0WmR4SlNCdXNDV0RoRXdIc2F1ZkRNbHFwbUk2RlZiSFM3RmtoXzBVaU1uMkJZZUkzeFVCLVJXQUNrbjNJdmhzNEJLempYaHd1YTNKNENJUQ?oc=5"
         }
       ],
       "keywords": [
@@ -50,6 +50,65 @@
       ]
     },
     {
+      "id": "2c11fb98801a",
+      "title": "一種疫苗可望防多種致命腹瀉 研究找到病菌共同弱點",
+      "published": "2026-07-06T09:33:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PMXNHc1FGSDFDcnFQa0c0LXhWUlljWDl4aGlhcElXRWJkbEpKank4OFZQSFdFV2Y5MlpOcHR2bXItUkdtOUprLThpSDZoX3A1SGlsSGdodGYycDk2Wm5oVnJ0eHbSAWpBVV95cUxQVGFPX1Q3YURXNE5UUnNrVHdJU3M4VDc3OFhXY1hEU3NFTXpxQ2FDX2JVZ20yN2s2dTlpYkZjNTFJT3FPMWJPSnBSZjhET3VpZzdITG9KTVF1TERrTzRpRXlOck1LWC1OaXh3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6b6b56522efc",
+      "title": "90多歲仍未失智 醫師曝關鍵：起床30分鐘內「都先做這事」",
+      "published": "2026-07-06T09:27:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPbkZEQ1JKY3FWSFZZTzFjMmQ5cWpfY3VObUVkejdfQWpPZUNMNnY3MzNSZGx3ZU1heGtqVWtWaUFkTjFuY0VtQW5CZW5kUU9Oa1Q4NVdub1gwTDJhTGctUEZYaDR4UmRmTndTb3ptT1Fib3ZWWklBLUVNVGdIVlpCczFXdDZ2Z0xvYjVta2c5R2xIUEt2eGR1c001Qi05akI5ODZKc3JBVnVmV3ZFRFlRdVNYR2ctckliNzhIalNYSWw5djViZU42aUJtVmt3ZVVxU1lVRTRyNWotZ0JJMTJhUWxzTHJhc05Od25ZejlpVDRmZ05BTUVjdHg5QUNybUZoRS1rV0txd1N1ek14TllsYzhFT3ZfOUs5bXVPaml4aW9taXZQUmNXX19RUmxYdW1UWlI5WUczcGV1ZVlYUkhlZzVDSUY2blVXM0dEZGtvRGpLN3F3cHBlWA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "fc573cf78774",
       "title": "每天喝咖啡可護肝？研究：即便大量飲用 肝病與肝癌風險仍較低 - Taiwan News",
       "published": "2026-07-06T07:31:00+00:00",
@@ -74,37 +133,13 @@
       ]
     },
     {
-      "id": "16f2c7f94742",
-      "title": "感冒藥水「咳就喝一口」他險進ICU！醫列15大NG用法：很多人犯",
-      "published": "2026-07-06T05:33:00+00:00",
+      "id": "ab38ac94c07c",
+      "title": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵",
+      "published": "2026-07-06T07:09:29+00:00",
       "sources": [
         {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nUk9Yd1U1ZkpfOUNJdzRJU205TFBlbTFxYy0xUEdwczQwbXRRWkd6SDNsdjJmcTRfdWZDLXRMNi03U3ZmYU5ybzdUb0RwUHlr0gFsQVVfeXFMUFBMUGZCVTZtSjQtandyc3BkMkVYNkpvMkZHWjJVcVczSlNwbk9NVTBhWE11bGtiSjZBQzlSeU53RHMxbWNkVmticXVkOXJjWm5oc0hyMXBLN1Mzc0RsbVBRcmdLUFhlSk05SWl6?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6abe5a0ff1b1",
-      "title": "成人肺炎鏈球菌防護觀念翻新！醫：選對血清型比「涵蓋越多越好」更重要 - Taiwan News",
-      "published": "2026-07-06T04:08:00+00:00",
-      "sources": [
-        {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kMGl2REF5NFBZelRvbVhpdDdoT1FKTFVHQjJfZE9YZTBTZjBSbU5CLXNmSk9ZcU5sZE9GQWpPZXpwcDgyS3ZlWm55Q0t0TFNVR2tPUmY2UHc?oc=5"
+          "name": "華人健康網",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01NmJuZUMwRV80OEZhSjUwRUY4MnI3SU4zRnlwUW5Nand4ZjlfQ2Z4ZFdLaHUzS2tjTUtWZzluRDFXNUNiemN4YkY5X1kzYTZGamc?oc=5"
         }
       ],
       "keywords": [
@@ -352,41 +387,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "15c47db9186b",
-      "title": "醫曝從不得失智症的人起床30分鐘內都先做這件事- 國際",
-      "published": "2026-07-05T07:31:23+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XSDJ6QkRqSnpkYk9NVmlpQlBuZ2ZWZTJMTVlGX3lmRVlsQ3dxUWVwaGNSaXRjcFczTEtBTEpDODBNUXEzTDNreGFUbDRLU21heElZNE44WWU0blRoRG1nQ0Y4UnhqQk1vWGozemF3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
