@@ -1,7 +1,35 @@
 {
-  "generated": "2026-07-06T12:37:09.730860+00:00",
+  "generated": "2026-07-06T16:12:37.916944+00:00",
   "count": 8,
   "news": [
+    {
+      "id": "1e07a6e41029",
+      "title": "五成侵襲性肺炎患者為青壯年 專家籲接種肺炎鏈球菌疫苗 降低感染",
+      "published": "2026-07-06T14:08:23+00:00",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04M25EZkFGbV9ORVpDUkxXZThRb0VCUlE1Y1ZZMWM3X3hNRHBrdTRoc0Y4RG92RGo3R3NqUkpOZlkyQ3dEcklISHhVdmd4eVZVMUZsa1Yxc2R2VWJ60gFiQVVfeXFMTXFDNW5vNEp0RnlQVFk5YWV3U05uWm5Gajk5RDlkaDBQdDA3cGU5Wm5pckJnU2NsUHhjd3g2WnVmU08yMWU3RFpTYUxHNXpNWjVFcjFfU3Jwc1VoRW5DZTc3LWc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "f702524bf0e4",
       "title": "50+只做重訓不夠！揭密最長壽國家延長壽命關鍵：專家推薦「1有氧運動」，擊破心血管老化更健康",
@@ -74,13 +102,13 @@
       ]
     },
     {
-      "id": "6b6b56522efc",
-      "title": "90多歲仍未失智 醫師曝關鍵：起床30分鐘內「都先做這事」",
-      "published": "2026-07-06T09:27:00+00:00",
+      "id": "1a136655bccf",
+      "title": "護腦不只靠飲食、運動！研究指白天多做一件事，更能降失智風險| 大腦健康| 失智",
+      "published": "2026-07-06T08:20:56+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPbkZEQ1JKY3FWSFZZTzFjMmQ5cWpfY3VObUVkejdfQWpPZUNMNnY3MzNSZGx3ZU1heGtqVWtWaUFkTjFuY0VtQW5CZW5kUU9Oa1Q4NVdub1gwTDJhTGctUEZYaDR4UmRmTndTb3ptT1Fib3ZWWklBLUVNVGdIVlpCczFXdDZ2Z0xvYjVta2c5R2xIUEt2eGR1c001Qi05akI5ODZKc3JBVnVmV3ZFRFlRdVNYR2ctckliNzhIalNYSWw5djViZU42aUJtVmt3ZVVxU1lVRTRyNWotZ0JJMTJhUWxzTHJhc05Od25ZejlpVDRmZ05BTUVjdHg5QUNybUZoRS1rV0txd1N1ek14TllsYzhFT3ZfOUs5bXVPaml4aW9taXZQUmNXX19RUmxYdW1UWlI5WUczcGV1ZVlYUkhlZzVDSUY2blVXM0dEZGtvRGpLN3F3cHBlWA?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GU2hXSkIybTFBdGJ2SmY3aDZLOEZNVTl0T01LdGZLVzlFbkRmREhjcVBDeldEd2lpaHhieExWYkc0WFlXeS1YMTBId2NiendSMl9FTTU1LTVjaHVUNm41S013TQ?oc=5"
         }
       ],
       "keywords": [
@@ -133,41 +161,13 @@
       ]
     },
     {
-      "id": "ab38ac94c07c",
-      "title": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵",
-      "published": "2026-07-06T07:09:29+00:00",
-      "sources": [
-        {
-          "name": "華人健康網",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01NmJuZUMwRV80OEZhSjUwRUY4MnI3SU4zRnlwUW5Nand4ZjlfQ2Z4ZFdLaHUzS2tjTUtWZzluRDFXNUNiemN4YkY5X1kzYTZGamc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6c44bb82666e",
+      "id": "68edc1f948e1",
       "title": "阿茲海默症可能找錯病因 研究揭腦細胞真正崩壞關鍵",
-      "published": "2026-07-06T03:26:00+00:00",
+      "published": "2026-07-06T03:44:06+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JUWp2LUozbUxMVHJyUFhQa20zZW1LRU9Uc2MtdERCXzhfQ3BfLUVqSkRla0FNdmE3SnhJSGNnT2N5eWVlX0FoMVpERUo4Q1lLdWdPZjBGT1NXRW15M2gxTE4wdjjSAWpBVV95cUxOcHlDS0hCSExnYVIxOXE2OGU2aFJhTGtSbWxzX3RZX2tkU3RiVHRLeWZSeWhNQ1ExbUFya3A2aVQtR1RkbkJJWkxQcnVpR1h3WVBwdzYxY1J2dnBZMWtKZFRnZFcwNFl6Ym1n?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPRzFiam04ckxkdVl6VnpBM2pXbTlTQzJYVDFqVHJDRXVzdE5NYl9ULVRpX3FDOFhJQ05JWGp0QWNyRi0tcGZOdlV1aEdKa1JfQ051Und4UFowNmlJVDJIcENfVUI4S2VKQWtwNF9uSXFIdHJNc1R3b25KRVpjbHZkU213VUU3eW1yN0IxY2RNdVM2VlJibTg3TWpSeHV3RS1YdGlMaF9hSUtFNEhJQTgtWHhaQTJEYTUwUnpLRGJab2c0UkFkUDlER3lZWmdERVVwSlZwQlJ4eVFubkZoazlhLWtyazJWVVE5V2h5OWE2cHFBckphaEpBZGRoMWF1ODNFZl9SRlJyMXNrYklLTjhOYWVSSmc3bExkaHFqUzJUZk9PLUFfdExGQ0FyUnRYTFpiaDJ6cXptR3ZNZ0hiSlAxWTJfOHI4N3dla2VpNEVScy0tMGpWVjYxWDVIREVFSkNUbWFDbTNkV3U?oc=5"
         }
       ],
       "keywords": [
