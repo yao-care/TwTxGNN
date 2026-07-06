@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [肺炎鏈球菌疫苗怎麼選？醫揭「血清型置換」新趨勢：成人預防已從兩劑混打走向單劑](https://news.google.com/rss/articles/CBMiakFVX3lxTE1QMnhZWkJlV0YtTTQxSi0xUmVzY3AyZjNGMTVrZHB1TUZpTnhWeHh2U3FOaDdGM3MzTmdEcFBhaDNtWjBWLTI3UFpuUjJjYnZ4aEMxbTlCV1ZwTllHRE9IWlBGTWFVbGlwdXc?oc=5)
+### [成人肺炎鏈球菌防護觀念翻新！醫：選對血清型比「涵蓋越多越好」更重要 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kMGl2REF5NFBZelRvbVhpdDdoT1FKTFVHQjJfZE9YZTBTZjBSbU5CLXNmSk9ZcU5sZE9GQWpPZXpwcDgyS3ZlWm55Q0t0TFNVR2tPUmY2UHc?oc=5)
 
 2026-07-06 <span class="news-indication-tag">鏈球菌</span>
 
-來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTE1QMnhZWkJlV0YtTTQxSi0xUmVzY3AyZjNGMTVrZHB1TUZpTnhWeHh2U3FOaDdGM3MzTmdEcFBhaDNtWjBWLTI3UFpuUjJjYnZ4aEMxbTlCV1ZwTllHRE9IWlBGTWFVbGlwdXc?oc=5)
+來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kMGl2REF5NFBZelRvbVhpdDdoT1FKTFVHQjJfZE9YZTBTZjBSbU5CLXNmSk9ZcU5sZE9GQWpPZXpwcDgyS3ZlWm55Q0t0TFNVR2tPUmY2UHc?oc=5)
+
+---
+
+### [醫華生技CytoAurora 攜手泰國國家癌症研究所簽署戰略合作協議！引進 iPSC 與 CTC 尖端技術，全面佈局東協精準醫療藍圖](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPY1AtX0dWLUNjYVpNcFA1T2MxQU55SGRpYWdEWmdwYXFMLXQ5aUFEa3JNYlFSRVRkcGctdk1vZ3VzUkh2R0JpUHVxMW5CV2p5MWs1ZFRfYlVZQU03YUdFNlNrYnpuOS1wSFBFeWJDRjY0Q1VXSHlpclF2NFVBQk5MZ3hqNzRZRk91d1Z4Mlp5cnVKZHh2ZzFwSmtyVU1aRG40MlFwQW1OYUxIUW9hVXlUV0hPbE54Rk1OSkdMT3R6NUY3Mm1KR0h5UVpJZzg4LVVybmhRY0VJempCYkpmTkdsVmlMTXg1LVNPeXhqdEk4dTlPSURDNUw5Q0RFUkpKVlpuM0xTbDhNN0xRbXRTUUpleG0zSWVKQUp3dnRDWFZFZElGdXZIUWhzdkU4Q2x0LWxhSmVZWlhWbDJnd2UxUTdJeEZHZ0N1UkJIU1Z4MFM5OGxYaUhmT0FZQ2NBMHRmelk?oc=5)
+
+2026-07-06 <span class="news-indication-tag">癌症</span>
+
+來源：[報新聞](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPY1AtX0dWLUNjYVpNcFA1T2MxQU55SGRpYWdEWmdwYXFMLXQ5aUFEa3JNYlFSRVRkcGctdk1vZ3VzUkh2R0JpUHVxMW5CV2p5MWs1ZFRfYlVZQU03YUdFNlNrYnpuOS1wSFBFeWJDRjY0Q1VXSHlpclF2NFVBQk5MZ3hqNzRZRk91d1Z4Mlp5cnVKZHh2ZzFwSmtyVU1aRG40MlFwQW1OYUxIUW9hVXlUV0hPbE54Rk1OSkdMT3R6NUY3Mm1KR0h5UVpJZzg4LVVybmhRY0VJempCYkpmTkdsVmlMTXg1LVNPeXhqdEk4dTlPSURDNUw5Q0RFUkpKVlpuM0xTbDhNN0xRbXRTUUpleG0zSWVKQUp3dnRDWFZFZElGdXZIUWhzdkU4Q2x0LWxhSmVZWlhWbDJnd2UxUTdJeEZHZ0N1UkJIU1Z4MFM5OGxYaUhmT0FZQ2NBMHRmelk?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/cladribine/
 ---
 
 <p class="key-answer" data-question="Cladribine 有什麼相關新聞？">
-<strong>Cladribine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Cladribine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,29 @@ permalink: /news/cladribine/
 <li>prostate embryonal rhabdomyosarcoma（99.8%）</li>
 <li>extrahepatic bile duct rhabdomyosarcoma（99.8%）</li>
 <li>rhabdomyosarcoma (disease)（99.7%）</li>
-<li>liver sarcoma（99.7%）</li>
+<li class="indication-matched">liver sarcoma（99.7%）<span class="indication-tag">📰 肝癌</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cladribine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [每天喝咖啡可護肝？研究：即便大量飲用 肝病與肝癌風險仍較低 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnb08zSldHR0NPc1htcHh4VzBtX0R1cC0xTDhDWWstbVA5bGtPY0l1OHVjUkIwZHpCYlpNSVN3SWFOVEd0aFpqOXFkQWdtb0pVeG5JYjBEbU8?oc=5)
+
+2026-07-06 <span class="news-indication-tag">肝癌</span>
+
+來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnb08zSldHR0NPc1htcHh4VzBtX0R1cC0xTDhDWWstbVA5bGtPY0l1OHVjUkIwZHpCYlpNSVN3SWFOVEd0aFpqOXFkQWdtb0pVeG5JYjBEbU8?oc=5)
+
+---
+
+### [醫華生技CytoAurora 攜手泰國國家癌症研究所簽署戰略合作協議！引進 iPSC 與 CTC 尖端技術，全面佈局東協精準醫療藍圖](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPY1AtX0dWLUNjYVpNcFA1T2MxQU55SGRpYWdEWmdwYXFMLXQ5aUFEa3JNYlFSRVRkcGctdk1vZ3VzUkh2R0JpUHVxMW5CV2p5MWs1ZFRfYlVZQU03YUdFNlNrYnpuOS1wSFBFeWJDRjY0Q1VXSHlpclF2NFVBQk5MZ3hqNzRZRk91d1Z4Mlp5cnVKZHh2ZzFwSmtyVU1aRG40MlFwQW1OYUxIUW9hVXlUV0hPbE54Rk1OSkdMT3R6NUY3Mm1KR0h5UVpJZzg4LVVybmhRY0VJempCYkpmTkdsVmlMTXg1LVNPeXhqdEk4dTlPSURDNUw5Q0RFUkpKVlpuM0xTbDhNN0xRbXRTUUpleG0zSWVKQUp3dnRDWFZFZElGdXZIUWhzdkU4Q2x0LWxhSmVZWlhWbDJnd2UxUTdJeEZHZ0N1UkJIU1Z4MFM5OGxYaUhmT0FZQ2NBMHRmelk?oc=5)
+
+2026-07-06 <span class="news-indication-tag">癌症</span>
+
+來源：[報新聞](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPY1AtX0dWLUNjYVpNcFA1T2MxQU55SGRpYWdEWmdwYXFMLXQ5aUFEa3JNYlFSRVRkcGctdk1vZ3VzUkh2R0JpUHVxMW5CV2p5MWs1ZFRfYlVZQU03YUdFNlNrYnpuOS1wSFBFeWJDRjY0Q1VXSHlpclF2NFVBQk5MZ3hqNzRZRk91d1Z4Mlp5cnVKZHh2ZzFwSmtyVU1aRG40MlFwQW1OYUxIUW9hVXlUV0hPbE54Rk1OSkdMT3R6NUY3Mm1KR0h5UVpJZzg4LVVybmhRY0VJempCYkpmTkdsVmlMTXg1LVNPeXhqdEk4dTlPSURDNUw5Q0RFUkpKVlpuM0xTbDhNN0xRbXRTUUpleG0zSWVKQUp3dnRDWFZFZElGdXZIUWhzdkU4Q2x0LWxhSmVZWlhWbDJnd2UxUTdJeEZHZ0N1UkJIU1Z4MFM5OGxYaUhmT0FZQ2NBMHRmelk?oc=5)
+
+---
 
 ### [40歲身體可能像50歲 權威期刊揭癌症年輕化新線索](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmR2lsUlotUHdZSkRjZWFOekJjU3p1aDV4SFBpS2pQYW1zdWRxYm42ajFybUJVWXpXWGRCWlQ3U2tKRTVSSlp2d2NCNURYQ2ttcmhhc2t3THNSNVZG0gFiQVVfeXFMTkxMdzJpOV9sRHZqUEJiaDljUkFMamFDbzZacnBYaDRkLV80N05vMmg0UDVqbFhabzFVOTRUTDJGVnI3UnVDVXZmUllZMF9tb2ZIbkswZ1hyUkpKTEdYakxHRkE?oc=5)
 

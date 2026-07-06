@@ -14,7 +14,7 @@ permalink: /news/nystatin/
 ---
 
 <p class="key-answer" data-question="Nystatin 有什麼相關新聞？">
-<strong>Nystatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nystatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/nystatin/
 <p><a href="{{ '/drugs/nystatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [甩高血脂不只要規律運動專家：黃金組合效果最佳- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTFBuTWoyLXRxUjE0czd5bWRtWFNxTC0tR1hOWmp2NDF5NFJyRE50MFRkZUxtZ19PT2lWMEo0eTc3UnR5cnV4by1tQWtBa2tRYUdQaU83Zm9mclBkQy1sZHZGOUl3ZlVZSnpaaWxLTy1R?oc=5)
+
+2026-07-06 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">更年期</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFBuTWoyLXRxUjE0czd5bWRtWFNxTC0tR1hOWmp2NDF5NFJyRE50MFRkZUxtZ19PT2lWMEo0eTc3UnR5cnV4by1tQWtBa2tRYUdQaU83Zm9mclBkQy1sZHZGOUl3ZlVZSnpaaWxLTy1R?oc=5)
+
+---
 
 
 <div class="disclaimer">

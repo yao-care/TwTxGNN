@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [失智人口 5 年將破 47 萬！遠離 14 個失智危險因子改寫大腦退化命運](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sa1BmOHc4dVpNYjRITFBfOG1OcmkxTnYxMDdSYS1JUm1yREVsQzNfR1lKb1luSW42UUJFQkJ6RklKamtidmhnT3Q1VQ?oc=5)
+### [阿茲海默症可能找錯病因 研究揭腦細胞真正崩壞關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JUWp2LUozbUxMVHJyUFhQa20zZW1LRU9Uc2MtdERCXzhfQ3BfLUVqSkRla0FNdmE3SnhJSGNnT2N5eWVlX0FoMVpERUo4Q1lLdWdPZjBGT1NXRW15M2gxTE4wdjjSAWpBVV95cUxOcHlDS0hCSExnYVIxOXE2OGU2aFJhTGtSbWxzX3RZX2tkU3RiVHRLeWZSeWhNQ1ExbUFya3A2aVQtR1RkbkJJWkxQcnVpR1h3WVBwdzYxY1J2dnBZMWtKZFRnZFcwNFl6Ym1n?oc=5)
 
-2026-07-06 <span class="news-indication-tag">失智</span>
+2026-07-06 <span class="news-indication-tag">阿茲海默症</span>
 
-來源：[Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sa1BmOHc4dVpNYjRITFBfOG1OcmkxTnYxMDdSYS1JUm1yREVsQzNfR1lKb1luSW42UUJFQkJ6RklKamtidmhnT3Q1VQ?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JUWp2LUozbUxMVHJyUFhQa20zZW1LRU9Uc2MtdERCXzhfQ3BfLUVqSkRla0FNdmE3SnhJSGNnT2N5eWVlX0FoMVpERUo4Q1lLdWdPZjBGT1NXRW15M2gxTE4wdjjSAWpBVV95cUxOcHlDS0hCSExnYVIxOXE2OGU2aFJhTGtSbWxzX3RZX2tkU3RiVHRLeWZSeWhNQ1ExbUFya3A2aVQtR1RkbkJJWkxQcnVpR1h3WVBwdzYxY1J2dnBZMWtKZFRnZFcwNFl6Ym1n?oc=5)
+
+---
+
+### [醫華生技CytoAurora 攜手泰國國家癌症研究所簽署戰略合作協議！引進 iPSC 與 CTC 尖端技術，全面佈局東協精準醫療藍圖](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPY1AtX0dWLUNjYVpNcFA1T2MxQU55SGRpYWdEWmdwYXFMLXQ5aUFEa3JNYlFSRVRkcGctdk1vZ3VzUkh2R0JpUHVxMW5CV2p5MWs1ZFRfYlVZQU03YUdFNlNrYnpuOS1wSFBFeWJDRjY0Q1VXSHlpclF2NFVBQk5MZ3hqNzRZRk91d1Z4Mlp5cnVKZHh2ZzFwSmtyVU1aRG40MlFwQW1OYUxIUW9hVXlUV0hPbE54Rk1OSkdMT3R6NUY3Mm1KR0h5UVpJZzg4LVVybmhRY0VJempCYkpmTkdsVmlMTXg1LVNPeXhqdEk4dTlPSURDNUw5Q0RFUkpKVlpuM0xTbDhNN0xRbXRTUUpleG0zSWVKQUp3dnRDWFZFZElGdXZIUWhzdkU4Q2x0LWxhSmVZWlhWbDJnd2UxUTdJeEZHZ0N1UkJIU1Z4MFM5OGxYaUhmT0FZQ2NBMHRmelk?oc=5)
+
+2026-07-06 <span class="news-indication-tag">癌症</span>
+
+來源：[報新聞](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPY1AtX0dWLUNjYVpNcFA1T2MxQU55SGRpYWdEWmdwYXFMLXQ5aUFEa3JNYlFSRVRkcGctdk1vZ3VzUkh2R0JpUHVxMW5CV2p5MWs1ZFRfYlVZQU03YUdFNlNrYnpuOS1wSFBFeWJDRjY0Q1VXSHlpclF2NFVBQk5MZ3hqNzRZRk91d1Z4Mlp5cnVKZHh2ZzFwSmtyVU1aRG40MlFwQW1OYUxIUW9hVXlUV0hPbE54Rk1OSkdMT3R6NUY3Mm1KR0h5UVpJZzg4LVVybmhRY0VJempCYkpmTkdsVmlMTXg1LVNPeXhqdEk4dTlPSURDNUw5Q0RFUkpKVlpuM0xTbDhNN0xRbXRTUUpleG0zSWVKQUp3dnRDWFZFZElGdXZIUWhzdkU4Q2x0LWxhSmVZWlhWbDJnd2UxUTdJeEZHZ0N1UkJIU1Z4MFM5OGxYaUhmT0FZQ2NBMHRmelk?oc=5)
 
 ---
 
