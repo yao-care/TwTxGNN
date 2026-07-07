@@ -32,11 +32,11 @@ permalink: /news/cephalexin/
 
 ## 相關新聞（1 則）
 
-### [打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 | 健康元氣 | 商情](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ycC1BTHFmQ243eGRteWZjMjJHdEYycndUMVNzVWFTSmg1MWFDb29udmdHNXcwZVd1RWJqVFRWZmJiWEs0Mi1CUzlzQnc1U1lYQ2JweU9faDRPQXc?oc=5)
+### [打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkhaN3RSWjBzbFRQQVBfb01VZEs2dFFuVnR3UlBkUy1Sc3lXaTduekRtdGpVUmhJUnN1QUFYOWRfbEUwSWdqZDdLSE5iaGtkWkhvanhVZy1JYXVUb0FsQWdSZm1lLTRVcGFobnVUMXVnY05SMTdYSUtpNzVJZ2pBWG01YWdfdndiM0RlNTNqNTVJbnM?oc=5)
 
 2026-07-07 <span class="news-indication-tag">鏈球菌</span>
 
-來源：[經濟日報](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ycC1BTHFmQ243eGRteWZjMjJHdEYycndUMVNzVWFTSmg1MWFDb29udmdHNXcwZVd1RWJqVFRWZmJiWEs0Mi1CUzlzQnc1U1lYQ2JweU9faDRPQXc?oc=5)
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkhaN3RSWjBzbFRQQVBfb01VZEs2dFFuVnR3UlBkUy1Sc3lXaTduekRtdGpVUmhJUnN1QUFYOWRfbEUwSWdqZDdLSE5iaGtkWkhvanhVZy1JYXVUb0FsQWdSZm1lLTRVcGFobnVUMXVnY05SMTdYSUtpNzVJZ2pBWG01YWdfdndiM0RlNTNqNTVJbnM?oc=5)
 
 ---
 
