@@ -3,7 +3,7 @@ layout: default
 title: "失智症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智症（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
-<strong>失智症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智症（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [護腦不只靠飲食、運動！研究指白天多做一件事，更能降失智風險| 大腦健康| 失智](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GU2hXSkIybTFBdGJ2SmY3aDZLOEZNVTl0T01LdGZLVzlFbkRmREhjcVBDeldEd2lpaHhieExWYkc0WFlXeS1YMTBId2NiendSMl9FTTU1LTVjaHVUNm41S013TQ?oc=5)
+### [護腦不只靠飲食、運動！研究指白天多做一件事，更能降失智風險｜大腦健康｜失智](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uZGRsUjYtNFQ2QzdLdWE0STZfVnVCdTVUYXUzVnU2Z1Ezc0xJaTFNYTRVQkY5SlM4bHZzQl94QVVxVXNuNjdyb3RPYVZ3Vk9ZcWRZZ1dUbkRRVkxsQmc?oc=5)
 
 2026-07-06
 
-來源：[元氣網](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GU2hXSkIybTFBdGJ2SmY3aDZLOEZNVTl0T01LdGZLVzlFbkRmREhjcVBDeldEd2lpaHhieExWYkc0WFlXeS1YMTBId2NiendSMl9FTTU1LTVjaHVUNm41S013TQ?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uZGRsUjYtNFQ2QzdLdWE0STZfVnVCdTVUYXUzVnU2Z1Ezc0xJaTFNYTRVQkY5SlM4bHZzQl94QVVxVXNuNjdyb3RPYVZ3Vk9ZcWRZZ1dUbkRRVkxsQmc?oc=5)
+
+---
+
+### [咖啡不只提神醒腦！研究揭護肝關鍵：無咖啡因也可能有幫助｜聰明飲食｜養生](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PMGo4b1I3dlhyVFR1TzlVMkpuQkdfS0s5X3pHRGlyU003anZqSlk0N2t0eTQ0MVBjeWlLNVV1VUd4ajNjMkcyX1lPZjF1SWlZdjJNT0I2UFJDcUxz?oc=5)
+
+2026-07-06
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PMGo4b1I3dlhyVFR1TzlVMkpuQkdfS0s5X3pHRGlyU003anZqSlk0N2t0eTQ0MVBjeWlLNVV1VUd4ajNjMkcyX1lPZjF1SWlZdjJNT0I2UFJDcUxz?oc=5)
 
 ---
 

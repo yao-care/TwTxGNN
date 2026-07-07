@@ -32,11 +32,11 @@ permalink: /news/cephalexin/
 
 ## 相關新聞（1 則）
 
-### [五成侵襲性肺炎患者為青壯年 專家籲接種肺炎鏈球菌疫苗 降低感染](https://news.google.com/rss/articles/CBMiekFVX3lxTE9yRnlBbVlpZDJBbk5Fa3R6X29yYkIxb1BhSTZwclloMW9FWjVhRXNVdkNGQy1JdkVwX0FoTXVtSXVBYTFiV0NVQnVPcUNiUmpsZ0VPU2luX1JDcXM3aTZHYjdzVmFpOTNIYS05MDlPYWx4UkpkV3FZRlln0gFiQVVfeXFMTXFDNW5vNEp0RnlQVFk5YWV3U05uWm5Gajk5RDlkaDBQdDA3cGU5Wm5pckJnU2NsUHhjd3g2WnVmU08yMWU3RFpTYUxHNXpNWjVFcjFfU3Jwc1VoRW5DZTc3LWc?oc=5)
+### [打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵](https://news.google.com/rss/articles/CBMiUkFVX3lxTE01NmJuZUMwRV80OEZhSjUwRUY4MnI3SU4zRnlwUW5Nand4ZjlfQ2Z4ZFdLaHUzS2tjTUtWZzluRDFXNUNiemN4YkY5X1kzYTZGamc?oc=5)
 
 2026-07-06 <span class="news-indication-tag">鏈球菌</span>
 
-來源：[經濟日報](https://news.google.com/rss/articles/CBMiekFVX3lxTE9yRnlBbVlpZDJBbk5Fa3R6X29yYkIxb1BhSTZwclloMW9FWjVhRXNVdkNGQy1JdkVwX0FoTXVtSXVBYTFiV0NVQnVPcUNiUmpsZ0VPU2luX1JDcXM3aTZHYjdzVmFpOTNIYS05MDlPYWx4UkpkV3FZRlln0gFiQVVfeXFMTXFDNW5vNEp0RnlQVFk5YWV3U05uWm5Gajk5RDlkaDBQdDA3cGU5Wm5pckJnU2NsUHhjd3g2WnVmU08yMWU3RFpTYUxHNXpNWjVFcjFfU3Jwc1VoRW5DZTc3LWc?oc=5)
+來源：[華人健康網](https://news.google.com/rss/articles/CBMiUkFVX3lxTE01NmJuZUMwRV80OEZhSjUwRUY4MnI3SU4zRnlwUW5Nand4ZjlfQ2Z4ZFdLaHUzS2tjTUtWZzluRDFXNUNiemN4YkY5X1kzYTZGamc?oc=5)
 
 ---
 

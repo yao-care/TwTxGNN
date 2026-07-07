@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,13 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [五成侵襲性肺炎患者為青壯年 專家籲接種肺炎鏈球菌疫苗 降低感染](https://news.google.com/rss/articles/CBMiekFVX3lxTE9yRnlBbVlpZDJBbk5Fa3R6X29yYkIxb1BhSTZwclloMW9FWjVhRXNVdkNGQy1JdkVwX0FoTXVtSXVBYTFiV0NVQnVPcUNiUmpsZ0VPU2luX1JDcXM3aTZHYjdzVmFpOTNIYS05MDlPYWx4UkpkV3FZRlln0gFiQVVfeXFMTXFDNW5vNEp0RnlQVFk5YWV3U05uWm5Gajk5RDlkaDBQdDA3cGU5Wm5pckJnU2NsUHhjd3g2WnVmU08yMWU3RFpTYUxHNXpNWjVFcjFfU3Jwc1VoRW5DZTc3LWc?oc=5)
+### [打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵](https://news.google.com/rss/articles/CBMiUkFVX3lxTE01NmJuZUMwRV80OEZhSjUwRUY4MnI3SU4zRnlwUW5Nand4ZjlfQ2Z4ZFdLaHUzS2tjTUtWZzluRDFXNUNiemN4YkY5X1kzYTZGamc?oc=5)
 
 2026-07-06 <span class="news-indication-tag">鏈球菌</span>
 
-來源：[經濟日報](https://news.google.com/rss/articles/CBMiekFVX3lxTE9yRnlBbVlpZDJBbk5Fa3R6X29yYkIxb1BhSTZwclloMW9FWjVhRXNVdkNGQy1JdkVwX0FoTXVtSXVBYTFiV0NVQnVPcUNiUmpsZ0VPU2luX1JDcXM3aTZHYjdzVmFpOTNIYS05MDlPYWx4UkpkV3FZRlln0gFiQVVfeXFMTXFDNW5vNEp0RnlQVFk5YWV3U05uWm5Gajk5RDlkaDBQdDA3cGU5Wm5pckJnU2NsUHhjd3g2WnVmU08yMWU3RFpTYUxHNXpNWjVFcjFfU3Jwc1VoRW5DZTc3LWc?oc=5)
+來源：[華人健康網](https://news.google.com/rss/articles/CBMiUkFVX3lxTE01NmJuZUMwRV80OEZhSjUwRUY4MnI3SU4zRnlwUW5Nand4ZjlfQ2Z4ZFdLaHUzS2tjTUtWZzluRDFXNUNiemN4YkY5X1kzYTZGamc?oc=5)
 
 ---
 
@@ -56,14 +56,6 @@ permalink: /news/cefmetazole/
 2026-07-06 <span class="news-indication-tag">癌症</span>
 
 來源：[報新聞](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPY1AtX0dWLUNjYVpNcFA1T2MxQU55SGRpYWdEWmdwYXFMLXQ5aUFEa3JNYlFSRVRkcGctdk1vZ3VzUkh2R0JpUHVxMW5CV2p5MWs1ZFRfYlVZQU03YUdFNlNrYnpuOS1wSFBFeWJDRjY0Q1VXSHlpclF2NFVBQk5MZ3hqNzRZRk91d1Z4Mlp5cnVKZHh2ZzFwSmtyVU1aRG40MlFwQW1OYUxIUW9hVXlUV0hPbE54Rk1OSkdMT3R6NUY3Mm1KR0h5UVpJZzg4LVVybmhRY0VJempCYkpmTkdsVmlMTXg1LVNPeXhqdEk4dTlPSURDNUw5Q0RFUkpKVlpuM0xTbDhNN0xRbXRTUUpleG0zSWVKQUp3dnRDWFZFZElGdXZIUWhzdkU4Q2x0LWxhSmVZWlhWbDJnd2UxUTdJeEZHZ0N1UkJIU1Z4MFM5OGxYaUhmT0FZQ2NBMHRmelk?oc=5)
-
----
-
-### [40歲身體可能像50歲 權威期刊揭癌症年輕化新線索](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmR2lsUlotUHdZSkRjZWFOekJjU3p1aDV4SFBpS2pQYW1zdWRxYm42ajFybUJVWXpXWGRCWlQ3U2tKRTVSSlp2d2NCNURYQ2ttcmhhc2t3THNSNVZG0gFiQVVfeXFMTkxMdzJpOV9sRHZqUEJiaDljUkFMamFDbzZacnBYaDRkLV80N05vMmg0UDVqbFhabzFVOTRUTDJGVnI3UnVDVXZmUllZMF9tb2ZIbkswZ1hyUkpKTEdYakxHRkE?oc=5)
-
-2026-07-05 <span class="news-indication-tag">癌症</span>
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmR2lsUlotUHdZSkRjZWFOekJjU3p1aDV4SFBpS2pQYW1zdWRxYm42ajFybUJVWXpXWGRCWlQ3U2tKRTVSSlp2d2NCNURYQ2ttcmhhc2t3THNSNVZG0gFiQVVfeXFMTkxMdzJpOV9sRHZqUEJiaDljUkFMamFDbzZacnBYaDRkLV80N05vMmg0UDVqbFhabzFVOTRUTDJGVnI3UnVDVXZmUllZMF9tb2ZIbkswZ1hyUkpKTEdYakxHRkE?oc=5)
 
 ---
 

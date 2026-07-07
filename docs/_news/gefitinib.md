@@ -43,11 +43,19 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（4 則）
 
-### [護腦不只靠飲食、運動！研究指白天多做一件事，更能降失智風險| 大腦健康| 失智](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GU2hXSkIybTFBdGJ2SmY3aDZLOEZNVTl0T01LdGZLVzlFbkRmREhjcVBDeldEd2lpaHhieExWYkc0WFlXeS1YMTBId2NiendSMl9FTTU1LTVjaHVUNm41S013TQ?oc=5)
+### [護腦不只靠飲食、運動！研究指白天多做一件事，更能降失智風險｜大腦健康｜失智](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uZGRsUjYtNFQ2QzdLdWE0STZfVnVCdTVUYXUzVnU2Z1Ezc0xJaTFNYTRVQkY5SlM4bHZzQl94QVVxVXNuNjdyb3RPYVZ3Vk9ZcWRZZ1dUbkRRVkxsQmc?oc=5)
 
 2026-07-06 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[元氣網](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GU2hXSkIybTFBdGJ2SmY3aDZLOEZNVTl0T01LdGZLVzlFbkRmREhjcVBDeldEd2lpaHhieExWYkc0WFlXeS1YMTBId2NiendSMl9FTTU1LTVjaHVUNm41S013TQ?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uZGRsUjYtNFQ2QzdLdWE0STZfVnVCdTVUYXUzVnU2Z1Ezc0xJaTFNYTRVQkY5SlM4bHZzQl94QVVxVXNuNjdyb3RPYVZ3Vk9ZcWRZZ1dUbkRRVkxsQmc?oc=5)
+
+---
+
+### [咖啡不只提神醒腦！研究揭護肝關鍵：無咖啡因也可能有幫助｜聰明飲食｜養生](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PMGo4b1I3dlhyVFR1TzlVMkpuQkdfS0s5X3pHRGlyU003anZqSlk0N2t0eTQ0MVBjeWlLNVV1VUd4ajNjMkcyX1lPZjF1SWlZdjJNT0I2UFJDcUxz?oc=5)
+
+2026-07-06 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">肝癌</span>
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PMGo4b1I3dlhyVFR1TzlVMkpuQkdfS0s5X3pHRGlyU003anZqSlk0N2t0eTQ0MVBjeWlLNVV1VUd4ajNjMkcyX1lPZjF1SWlZdjJNT0I2UFJDcUxz?oc=5)
 
 ---
 
@@ -64,14 +72,6 @@ permalink: /news/gefitinib/
 2026-07-06 <span class="news-indication-tag">癌症</span>
 
 來源：[報新聞](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPY1AtX0dWLUNjYVpNcFA1T2MxQU55SGRpYWdEWmdwYXFMLXQ5aUFEa3JNYlFSRVRkcGctdk1vZ3VzUkh2R0JpUHVxMW5CV2p5MWs1ZFRfYlVZQU03YUdFNlNrYnpuOS1wSFBFeWJDRjY0Q1VXSHlpclF2NFVBQk5MZ3hqNzRZRk91d1Z4Mlp5cnVKZHh2ZzFwSmtyVU1aRG40MlFwQW1OYUxIUW9hVXlUV0hPbE54Rk1OSkdMT3R6NUY3Mm1KR0h5UVpJZzg4LVVybmhRY0VJempCYkpmTkdsVmlMTXg1LVNPeXhqdEk4dTlPSURDNUw5Q0RFUkpKVlpuM0xTbDhNN0xRbXRTUUpleG0zSWVKQUp3dnRDWFZFZElGdXZIUWhzdkU4Q2x0LWxhSmVZWlhWbDJnd2UxUTdJeEZHZ0N1UkJIU1Z4MFM5OGxYaUhmT0FZQ2NBMHRmelk?oc=5)
-
----
-
-### [40歲身體可能像50歲 權威期刊揭癌症年輕化新線索](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmR2lsUlotUHdZSkRjZWFOekJjU3p1aDV4SFBpS2pQYW1zdWRxYm42ajFybUJVWXpXWGRCWlQ3U2tKRTVSSlp2d2NCNURYQ2ttcmhhc2t3THNSNVZG0gFiQVVfeXFMTkxMdzJpOV9sRHZqUEJiaDljUkFMamFDbzZacnBYaDRkLV80N05vMmg0UDVqbFhabzFVOTRUTDJGVnI3UnVDVXZmUllZMF9tb2ZIbkswZ1hyUkpKTEdYakxHRkE?oc=5)
-
-2026-07-05 <span class="news-indication-tag">癌症</span>
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmR2lsUlotUHdZSkRjZWFOekJjU3p1aDV4SFBpS2pQYW1zdWRxYm42ajFybUJVWXpXWGRCWlQ3U2tKRTVSSlp2d2NCNURYQ2ttcmhhc2t3THNSNVZG0gFiQVVfeXFMTkxMdzJpOV9sRHZqUEJiaDljUkFMamFDbzZacnBYaDRkLV80N05vMmg0UDVqbFhabzFVOTRUTDJGVnI3UnVDVXZmUllZMF9tb2ZIbkswZ1hyUkpKTEdYakxHRkE?oc=5)
 
 ---
 
