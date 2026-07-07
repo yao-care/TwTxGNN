@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-07-07T18:55:06.528042+00:00",
-  "total_count": 31,
+  "last_updated": "2026-07-07T20:45:39.252237+00:00",
+  "total_count": 32,
   "matched_count": 9,
   "news": [
+    {
+      "id": "b469cf930f7a",
+      "title": "糙米吃錯恐脹氣！醫推「1種米」營養更高 維生素E是白米6倍",
+      "published": "2026-07-07T20:00:00+00:00",
+      "summary": "糙米吃錯恐脹氣！醫推「1種米」營養更高 維生素E是白米6倍&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOMGc1VlNmdzdmMUwwUXZ1dE1pUUMzcEh3NXBwMkN5b3NFbHd6SDJmWmYtT0V3dXdWaFcxM3hrcklJQVJhdDBsZ3I4WlZNeXVK?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dff04ac6db2d",
+      "title": "沙加緬度縣放飛逾200萬隻絕育雄蚊 遏止入侵蚊種傳播寨卡等疾病｜細說燊語",
+      "published": "2026-07-07T19:30:19+00:00",
+      "summary": "沙加緬度縣放飛逾200萬隻絕育雄蚊 遏止入侵蚊種傳播寨卡等疾病｜細說燊語&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNc3FhVVA1bGNTRjNYSld2V3ZuSGo0N0tRY1BqTjE4SGw1QWRqcWtrd2ZkeGNBZlZ1bGNsZ3EzVmFEVzlibmdLbFRaTWo5QURxay04YVNOVENaVzVPblB1MFNxNTMtcjAzc2llQm5wV3NGTWpIWHNkN0RhZmNiQ05XSGFaakJPWWZmLVVnRUlMNHVvWkhMMHQ5R0dZQ0N1WWhaQTNIRHlpV3N5M25vRWkzSkRONzFycGdDOXlrSy1RaW9NMzVRR0Z5alc0Zno2RUQ3cFgybUJQRGFNb0U2ME51eHhONExuNUdPQmVja2x4V1NWaEFwV1BldnJ0UWxsZjhxV3c0OVpPTlV1N0FTQkhzVzZncjJyU3hHOUNLQ05sMnZpMGotaWUtSXhpUXB6SnM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "6c75aa2a98fd",
       "title": "減重不單靠算卡路里 專家教你如何應對",
@@ -172,19 +198,6 @@
       ]
     },
     {
-      "id": "5d764ff0ad63",
-      "title": "年請假323天？女校長千字文回擊：善有善報，惡有惡報| 社會",
-      "published": "2026-07-07T05:48:12+00:00",
-      "summary": "年請假323天？女校長千字文回擊：善有善報，惡有惡報| 社會&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB1dHZkZms4X3pGc2xkRVZVXy1mcWpaWEI1dzh6OGUxQmlyMEdvbWt4alVaX0twQmNoZXNrREUwanQwMUE0N1VN?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "1f7505022198",
       "title": "失智不一定從健忘開始！哈佛900萬人研究：常認路的計程車、救護車司機，阿茲海默症相關死亡率最低",
       "published": "2026-07-07T05:14:44+00:00",
@@ -219,6 +232,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "b18bfa5b4e4f",
+      "title": "從粒線體研究到機能紡織 健康科技應用持續拓展",
+      "published": "2026-07-07T04:00:00+00:00",
+      "summary": "從粒線體研究到機能紡織 健康科技應用持續拓展&nbsp;&nbsp;民視健康長照網",
+      "sources": [
+        {
+          "name": "民視健康長照網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53OEFxM1FjSWx3dUkzblQwelU3bFQ5cUNIb0h6dTRFaGtEckRnOWlJaFphd2ZzRGd4RUswc0hlSjY2RGtodWJHUDNBNGRjOWZiczIwSzRsUGZRWHJtVl9UWlBKajk?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "fb906f639552",
@@ -342,19 +368,6 @@
       ]
     },
     {
-      "id": "676bc52d6e24",
-      "title": "從粒線體研究到機能紡織 健康科技應用持續拓展",
-      "published": "2026-07-07T01:30:00+00:00",
-      "summary": "從粒線體研究到機能紡織 健康科技應用持續拓展&nbsp;&nbsp;健康醫療網",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ROHI4QmhQTG9Zc2E3dFR3TVJZS2NQalQ0VkhXNGN6aW51bFF0ZG1QVlJQR2pDSFRPbGNWenBMNGxCSmpManI4bG5GbERNTHhzdjlfRmV3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "bf4e4cca5add",
       "title": "歐洲多國示警「5種19世紀流行病」捲土重來：氣候＋人為因素",
       "published": "2026-07-06T23:56:46+00:00",
@@ -381,6 +394,19 @@
       "matched_keywords": []
     },
     {
+      "id": "665856c934f6",
+      "title": "千萬別這樣通水管！高腐蝕性強鹼瞬間噴濺恐灼傷| 生活",
+      "published": "2026-07-06T20:13:42+00:00",
+      "summary": "千萬別這樣通水管！高腐蝕性強鹼瞬間噴濺恐灼傷| 生活&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBGNUl5SVdES0prWi0yenIxb2pXNkE3aUJQbktSbEpJSFc4Qm1GUE9VS1l2NjZfUEtmMGZlQlItLTByVmVITGc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "8bac4401853e",
       "title": "類固醇：人體的荷爾蒙不可或缺",
       "published": "2026-07-06T20:00:00+00:00",
@@ -402,6 +428,19 @@
         {
           "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5hS2ZRSnc5dW45WmF3SnNkaXhRZmRqQ1Z1ZFJwWlloTFMwSzVSc3RKVFZPZUZtMFdPMmFiVXJGVkgxTGJ5MXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "97c61c1d2328",
+      "title": "B群不只提神！超厲害「10大功效」曝光　正確補充時間、副作用一次看",
+      "published": "2026-07-06T16:49:09+00:00",
+      "summary": "B群不只提神！超厲害「10大功效」曝光 正確補充時間、副作用一次看&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoVUQ0UEM0WEpPLTlYSTI1QnNRTzhaZ05fTkpoSThmSkFjcmNXX2JheXVIdzc3WUlJajhpSkhNam8xUGxad08yb9IBTEFVX3lxTE5GdEN1MUdsbENZZ2dRX2Zvb0x5SUxmVnBhY2JTelBRSl9fQUl3eXNaeXh0NTd5YzQ2dEtNMDc2RFJ6SE5nZ2RTN0UwVnA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -520,14 +559,14 @@
       "matched_keywords": []
     },
     {
-      "id": "28e6219a445d",
-      "title": "咖啡不只提神醒腦！研究揭護肝關鍵：無咖啡因也可能有幫助｜聰明飲食｜養生",
-      "published": "2026-07-06T06:55:47+00:00",
-      "summary": "咖啡不只提神醒腦！研究揭護肝關鍵：無咖啡因也可能有幫助｜聰明飲食｜養生&nbsp;&nbsp;元氣網每天喝咖啡可護肝？研究：即便大量飲用 肝病與肝癌風險仍較低&nbsp;&nbsp;Taiwan News發炎｜長期熬夜靠咖啡吊命恐致癌 失智 心臟病 醫生教4招身體抗炎降負擔&nbsp;&nbsp;am730",
+      "id": "fc573cf78774",
+      "title": "每天喝咖啡可護肝？研究：即便大量飲用 肝病與肝癌風險仍較低 - Taiwan News",
+      "published": "2026-07-06T07:31:00+00:00",
+      "summary": "每天喝咖啡可護肝？研究：即便大量飲用 肝病與肝癌風險仍較低&nbsp;&nbsp;Taiwan News咖啡不只提神醒腦！研究揭護肝關鍵：無咖啡因也可能有幫助｜聰明飲食｜養生&nbsp;&nbsp;元氣網發炎｜長期熬夜靠咖啡吊命恐致癌 失智 心臟病 醫生教4招身體抗炎降負擔&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PMGo4b1I3dlhyVFR1TzlVMkpuQkdfS0s5X3pHRGlyU003anZqSlk0N2t0eTQ0MVBjeWlLNVV1VUd4ajNjMkcyX1lPZjF1SWlZdjJNT0I2UFJDcUxz?oc=5"
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnb08zSldHR0NPc1htcHh4VzBtX0R1cC0xTDhDWWstbVA5bGtPY0l1OHVjUkIwZHpCYlpNSVN3SWFOVEd0aFpqOXFkQWdtb0pVeG5JYjBEbU8?oc=5"
         }
       ],
       "matched_keywords": [
@@ -623,19 +662,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FckQyMThORWM1WThab3Z0Q09MTUdZUmpEVHlPdU9kZm5SWmFlMkZfMGQ2R1ZTazN2R1VWRzR6NnU1MnRzZW5JYVJ2OFJtTHQxUEowQkdKTExPYURoTWZsQktWa3PSAWpBVV95cUxQajJ4dy1FMG92TGN6X05yUXpSaHowS1kzajJ3TFJaSnUxbzE3R0tEM2lRc3MwcmhBWVNBZUVyZWZpcmxFRG91eXhpbDVyX0p4bEhGZXVWT05zVjktZ2tRWjlCTzJ2ajBlNlVB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9d6d7472c9db",
-      "title": "愛吃甜不辣注意！ 15條熱量=滷雞腿便當| 生活",
-      "published": "2026-07-06T04:11:19+00:00",
-      "summary": "愛吃甜不辣注意！ 15條熱量=滷雞腿便當| 生活&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1GMzBXRlFST1VSWlRxTmRJR096OWZCTHZpLVpxaF8wYVlOTXZXVnJGTkc3ZzJMQVNhZ2wyanctbEJrMmtteVJ3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -883,19 +909,6 @@
         {
           "name": "singtao.ca",
           "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxOLXpFVDRuWVB4Nzkza2pIZWdSUmhpYlZrMVZSQ19BLTI5MUM0azFjdkY0UVBwVWYzbXVOVGZjZ0Rsb3FfV1BoY0tIT1R6R1psQmxWcms1VmNDZjRxcUlxeU81bkc4c1Z5QlZQUk5MamVfTzNFNFJSRTR5SHNEOGwyaGJfaW9wanNUWVNyR1dLd3Z3WTUtaWdIWFUwaXdHb0Vmd3RqbHAxT2lMTVpxRm5fZ2phbTJsU1RHTnJzSHZhQmRpTUl4WWNkVktWS3NRcWxhR1JVdDJrdXp3VHBqLVlKN0FIb015RDQ5UXlZLVU4TnowRWRRQmNjQS1TNDc5aDZ3bVRGb3pyNDZnVXNKdWV4dVRMMmhRaFRkbG5BdlJOM1ViVm9xM21hUlExeFRCN0NtRmR5Y1lnUW1MRnRybFhKNmZQQnY0aUhsb2hHYlpqczZuWXBfYTlacmcwekJDVmN6dFJELXRrcGpvMHBRSlNoYXN6RDZrZklicjhkU1NrS3BKb3BLWmZ5Y0N3dlI4REVYSWNfU1FRZFhnQ2pGcEZnQmlVOVFMaTQwcEhUZmNweUV5NWZMeWxpS3VsTFBmUHRMRnhfRG9UNUdjdS10Y05WUXU4NGZUVkh3Nzc0ZEtTbzVmc0hfM0o5UDI2SHZyMXJ2TGhVTVNB0gGPAUFVX3lxTFB4VVJ1WjhSM2RZVVVpTlVPcFItakdzWElDTjdPSzVibUljVnRpTXNXVjFiU1NMckloOWRTZU1wVUM0SURhMWFXWmQzN09FUTFQRTBzS01pU2ZrNXNPaklCRTZZRGdHVlYzVEpoV2xHcjE4ZE9RRUlrM3pJeWUwRjBrWm90VTRSMWh5cmRvZzZz?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "665856c934f6",
-      "title": "千萬別這樣通水管！高腐蝕性強鹼瞬間噴濺恐灼傷| 生活",
-      "published": "2026-07-06T01:15:56+00:00",
-      "summary": "千萬別這樣通水管！高腐蝕性強鹼瞬間噴濺恐灼傷| 生活&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBGNUl5SVdES0prWi0yenIxb2pXNkE3aUJQbktSbEpJSFc4Qm1GUE9VS1l2NjZfUEtmMGZlQlItLTByVmVITGc?oc=5"
         }
       ],
       "matched_keywords": []
