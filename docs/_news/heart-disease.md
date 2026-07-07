@@ -51,11 +51,11 @@ permalink: /news/heart-disease/
 
 ---
 
-### [每天喝咖啡可護肝？研究：即便大量飲用 肝病與肝癌風險仍較低 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnb08zSldHR0NPc1htcHh4VzBtX0R1cC0xTDhDWWstbVA5bGtPY0l1OHVjUkIwZHpCYlpNSVN3SWFOVEd0aFpqOXFkQWdtb0pVeG5JYjBEbU8?oc=5)
+### [咖啡不只提神醒腦！研究揭護肝關鍵：無咖啡因也可能有幫助｜聰明飲食｜養生](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PMGo4b1I3dlhyVFR1TzlVMkpuQkdfS0s5X3pHRGlyU003anZqSlk0N2t0eTQ0MVBjeWlLNVV1VUd4ajNjMkcyX1lPZjF1SWlZdjJNT0I2UFJDcUxz?oc=5)
 
 2026-07-06
 
-來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnb08zSldHR0NPc1htcHh4VzBtX0R1cC0xTDhDWWstbVA5bGtPY0l1OHVjUkIwZHpCYlpNSVN3SWFOVEd0aFpqOXFkQWdtb0pVeG5JYjBEbU8?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PMGo4b1I3dlhyVFR1TzlVMkpuQkdfS0s5X3pHRGlyU003anZqSlk0N2t0eTQ0MVBjeWlLNVV1VUd4ajNjMkcyX1lPZjF1SWlZdjJNT0I2UFJDcUxz?oc=5)
 
 ---
 

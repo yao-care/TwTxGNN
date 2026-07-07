@@ -48,7 +48,7 @@ permalink: /news/oteracil/
 
 2026-07-07 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuSWRiSjluNWlSMU55enM0RXFPQUszdWpYYno3ZGkwa2pqaGFJTWZ4WXlUblZZeWVGdTFhOVZETTRTdzhFNWtz?oc=5)
+來源：[三立新聞](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuSWRiSjluNWlSMU55enM0RXFPQUszdWpYYno3ZGkwa2pqaGFJTWZ4WXlUblZZeWVGdTFhOVZETTRTdzhFNWtz?oc=5)
 
 ---
 

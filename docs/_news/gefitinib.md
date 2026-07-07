@@ -51,19 +51,19 @@ permalink: /news/gefitinib/
 
 ---
 
-### [護腦不只靠飲食、運動！研究指白天多做一件事，更能降失智風險｜大腦健康｜失智](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uZGRsUjYtNFQ2QzdLdWE0STZfVnVCdTVUYXUzVnU2Z1Ezc0xJaTFNYTRVQkY5SlM4bHZzQl94QVVxVXNuNjdyb3RPYVZ3Vk9ZcWRZZ1dUbkRRVkxsQmc?oc=5)
+### [90多歲仍未失智 醫師曝關鍵：起床30分鐘內「都先做這事」](https://news.google.com/rss/articles/CBMi2AJBVV95cUxPbkZEQ1JKY3FWSFZZTzFjMmQ5cWpfY3VObUVkejdfQWpPZUNMNnY3MzNSZGx3ZU1heGtqVWtWaUFkTjFuY0VtQW5CZW5kUU9Oa1Q4NVdub1gwTDJhTGctUEZYaDR4UmRmTndTb3ptT1Fib3ZWWklBLUVNVGdIVlpCczFXdDZ2Z0xvYjVta2c5R2xIUEt2eGR1c001Qi05akI5ODZKc3JBVnVmV3ZFRFlRdVNYR2ctckliNzhIalNYSWw5djViZU42aUJtVmt3ZVVxU1lVRTRyNWotZ0JJMTJhUWxzTHJhc05Od25ZejlpVDRmZ05BTUVjdHg5QUNybUZoRS1rV0txd1N1ek14TllsYzhFT3ZfOUs5bXVPaml4aW9taXZQUmNXX19RUmxYdW1UWlI5WUczcGV1ZVlYUkhlZzVDSUY2blVXM0dEZGtvRGpLN3F3cHBlWA?oc=5)
 
 2026-07-06 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uZGRsUjYtNFQ2QzdLdWE0STZfVnVCdTVUYXUzVnU2Z1Ezc0xJaTFNYTRVQkY5SlM4bHZzQl94QVVxVXNuNjdyb3RPYVZ3Vk9ZcWRZZ1dUbkRRVkxsQmc?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi2AJBVV95cUxPbkZEQ1JKY3FWSFZZTzFjMmQ5cWpfY3VObUVkejdfQWpPZUNMNnY3MzNSZGx3ZU1heGtqVWtWaUFkTjFuY0VtQW5CZW5kUU9Oa1Q4NVdub1gwTDJhTGctUEZYaDR4UmRmTndTb3ptT1Fib3ZWWklBLUVNVGdIVlpCczFXdDZ2Z0xvYjVta2c5R2xIUEt2eGR1c001Qi05akI5ODZKc3JBVnVmV3ZFRFlRdVNYR2ctckliNzhIalNYSWw5djViZU42aUJtVmt3ZVVxU1lVRTRyNWotZ0JJMTJhUWxzTHJhc05Od25ZejlpVDRmZ05BTUVjdHg5QUNybUZoRS1rV0txd1N1ek14TllsYzhFT3ZfOUs5bXVPaml4aW9taXZQUmNXX19RUmxYdW1UWlI5WUczcGV1ZVlYUkhlZzVDSUY2blVXM0dEZGtvRGpLN3F3cHBlWA?oc=5)
 
 ---
 
-### [每天喝咖啡可護肝？研究：即便大量飲用 肝病與肝癌風險仍較低 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnb08zSldHR0NPc1htcHh4VzBtX0R1cC0xTDhDWWstbVA5bGtPY0l1OHVjUkIwZHpCYlpNSVN3SWFOVEd0aFpqOXFkQWdtb0pVeG5JYjBEbU8?oc=5)
+### [咖啡不只提神醒腦！研究揭護肝關鍵：無咖啡因也可能有幫助｜聰明飲食｜養生](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PMGo4b1I3dlhyVFR1TzlVMkpuQkdfS0s5X3pHRGlyU003anZqSlk0N2t0eTQ0MVBjeWlLNVV1VUd4ajNjMkcyX1lPZjF1SWlZdjJNT0I2UFJDcUxz?oc=5)
 
 2026-07-06 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">肝癌</span>
 
-來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnb08zSldHR0NPc1htcHh4VzBtX0R1cC0xTDhDWWstbVA5bGtPY0l1OHVjUkIwZHpCYlpNSVN3SWFOVEd0aFpqOXFkQWdtb0pVeG5JYjBEbU8?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PMGo4b1I3dlhyVFR1TzlVMkpuQkdfS0s5X3pHRGlyU003anZqSlk0N2t0eTQ0MVBjeWlLNVV1VUd4ajNjMkcyX1lPZjF1SWlZdjJNT0I2UFJDcUxz?oc=5)
 
 ---
 
