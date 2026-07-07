@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-07T20:45:33.515662+00:00",
-  "count": 32,
+  "fetched_at": "2026-07-07T22:05:08.261322+00:00",
+  "count": 31,
   "news": [
     {
       "id": "6c75aa2a98fd",
@@ -136,18 +136,6 @@
       ]
     },
     {
-      "id": "011e54327546",
-      "title": "蜱蟲叮咬｜66歲男放狗遭蜱蟲叮咬 染罕見病毒 專家：15分鐘足以傳播 - 香港經濟日報HKET",
-      "published": "2026-07-07T08:59:16+00:00",
-      "summary": "蜱蟲叮咬｜66歲男放狗遭蜱蟲叮咬 染罕見病毒 專家：15分鐘足以傳播&nbsp;&nbsp;香港經濟日報HKET蜱蟲病｜放狗被蜱蟲叮咬入ICU 6旬男失說話活動能力致命病毒15分鐘可傳播6成患者終身殘疾附症狀- 東張+&nbsp;&nbsp;myTV SUPER",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QYkpHelQ2M1NQMDVWVHlaSEZfNWxGUGpycnNaSzJ6YVVIQWJFSV85TDhtY1VXSG80Q25WRHNLeGk2WTF0X0UyR0xCUTRsTVNBZFE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "27278e58dbb1",
       "title": "醫華生技CytoAurora 攜手泰國國家癌症研究所簽署戰略合作協議！引進 iPSC 與 CTC 尖端技術，全面佈局東協精準醫療藍圖 - 報新聞",
       "published": "2026-07-06T02:02:32+00:00",
@@ -168,6 +156,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PMXNHc1FGSDFDcnFQa0c0LXhWUlljWDl4aGlhcElXRWJkbEpKank4OFZQSFdFV2Y5MlpOcHR2bXItUkdtOUprLThpSDZoX3A1SGlsSGdodGYycDk2Wm5oVnJ0eHbSAWpBVV95cUxQVGFPX1Q3YURXNE5UUnNrVHdJU3M4VDc3OFhXY1hEU3NFTXpxQ2FDX2JVZ20yN2s2dTlpYkZjNTFJT3FPMWJPSnBSZjhET3VpZzdITG9KTVF1TERrTzRpRXlOck1LWC1OaXh3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "011e54327546",
+      "title": "蜱蟲叮咬｜66歲男放狗遭蜱蟲叮咬 染罕見病毒 專家：15分鐘足以傳播 - 香港經濟日報HKET",
+      "published": "2026-07-07T08:59:16+00:00",
+      "summary": "蜱蟲叮咬｜66歲男放狗遭蜱蟲叮咬 染罕見病毒 專家：15分鐘足以傳播&nbsp;&nbsp;香港經濟日報HKET蜱蟲病｜放狗被蜱蟲叮咬入ICU 6旬男失說話活動能力致命病毒15分鐘可傳播6成患者終身殘疾附症狀- 東張+&nbsp;&nbsp;myTV SUPER美國罕見蜱蟲病毒病例激增 恐引發腦炎致死率達15%&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QYkpHelQ2M1NQMDVWVHlaSEZfNWxGUGpycnNaSzJ6YVVIQWJFSV85TDhtY1VXSG80Q25WRHNLeGk2WTF0X0UyR0xCUTRsTVNBZFE?oc=5"
         }
       ]
     },
@@ -211,7 +211,7 @@
       "id": "bdc2c65ab948",
       "title": "【灣區新聞】Contra Costa縣有野生美州烏鴉感染西尼羅病毒 - KTSF.com",
       "published": "2026-07-06T15:40:51+00:00",
-      "summary": "【灣區新聞】Contra Costa縣有野生美州烏鴉感染西尼羅病毒&nbsp;&nbsp;KTSF.com西尼羅病毒蚊擴散 南加更多城市淪陷&nbsp;&nbsp;Singtaousa西尼羅病毒感染 沙縣出現今年首例確診&nbsp;&nbsp;世界新聞網加州首現西尼羅熱 55歲以上重症風險高&nbsp;&nbsp;世界新聞網人類感染西尼羅病毒 沙加緬度縣今年首宗&nbsp;&nbsp;Singtaousa",
+      "summary": "【灣區新聞】Contra Costa縣有野生美州烏鴉感染西尼羅病毒&nbsp;&nbsp;KTSF.com西尼羅病毒蚊擴散 南加更多城市淪陷&nbsp;&nbsp;Singtaousa西尼羅病毒感染 沙縣出現今年首例確診&nbsp;&nbsp;世界新聞網華人區今年首現西尼羅病毒蚊蟲- 南加社區- 新聞&nbsp;&nbsp;華人今日網加州首現西尼羅熱 55歲以上重症風險高&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
           "name": "KTSF.com",
@@ -228,18 +228,6 @@
         {
           "name": "蕃新聞",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KVlF1VFRldTVySURQRjBfQTJrZzRYZ0N5WnY1alBpQXhfRWRvdXVmMFdFcnE3dGlvX0pXS1JzQmlkV1ZWeWJyQjRDQzVxNnM2SGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bf4e4cca5add",
-      "title": "歐洲多國示警「5種19世紀流行病」捲土重來：氣候＋人為因素 - 三立新聞",
-      "published": "2026-07-06T23:56:46+00:00",
-      "summary": "歐洲多國示警「5種19世紀流行病」捲土重來：氣候＋人為因素&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SMVNDekJZNE9JXzk1NUFmRldvemF2ai1fZU5pSVJOZjlYQUFkcE1YZ2JpTGU0TWsyUDFWMjhLMTJXMGpNREJHdtIBTEFVX3lxTE1ydm5IRUlRdm9PdHpLUHJFcmp3NWtON1pVSWl4ZWpscXVJS2U4WXRRMHlUY0M1THZJd1RZeWo3dDlJcEExVXdwemw5TFQ?oc=5"
         }
       ]
     },
@@ -342,7 +330,7 @@
     {
       "id": "dff04ac6db2d",
       "title": "沙加緬度縣放飛逾200萬隻絕育雄蚊 遏止入侵蚊種傳播寨卡等疾病｜細說燊語 - Singtaousa",
-      "published": "2026-07-07T19:30:19+00:00",
+      "published": "2026-07-07T21:07:47+00:00",
       "summary": "沙加緬度縣放飛逾200萬隻絕育雄蚊 遏止入侵蚊種傳播寨卡等疾病｜細說燊語&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
