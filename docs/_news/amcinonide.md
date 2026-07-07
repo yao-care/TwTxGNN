@@ -14,7 +14,7 @@ permalink: /news/amcinonide/
 ---
 
 <p class="key-answer" data-question="Amcinonide 有什麼相關新聞？">
-<strong>Amcinonide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 8 個。
+<strong>Amcinonide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 8 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,7 @@ permalink: /news/amcinonide/
 <p><a href="{{ '/drugs/amcinonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [近半國人受過敏困擾！ 研究揭異位性皮膚炎、鼻炎、氣喘「三部曲」](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HQlEyaGk0cE9YaHNrNl9KbDRGMjJoSTc1dllybmJ0NTBndWJyVjJvOXd3dEV0dW9sdXBsRUU2WTlwbW4zYzd6WVNwZUdBTVA40gFWQVVfeXFMUEpVM1E5bkZiWEhYUEVuQkp0Q00tMkxHZXNPTlFNZ0RzM1daNVVsNWVybzUzb00yN2hjU0xQb3FpbmFNbWdmaDA0SDFzeHk1M1AzcE1JRGc?oc=5)
-
-2026-07-07 <span class="news-indication-tag">氣喘</span> <span class="news-indication-tag">異位性皮膚炎</span>
-
-來源：[UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HQlEyaGk0cE9YaHNrNl9KbDRGMjJoSTc1dllybmJ0NTBndWJyVjJvOXd3dEV0dW9sdXBsRUU2WTlwbW4zYzd6WVNwZUdBTVA40gFWQVVfeXFMUEpVM1E5bkZiWEhYUEVuQkp0Q00tMkxHZXNPTlFNZ0RzM1daNVVsNWVybzUzb00yN2hjU0xQb3FpbmFNbWdmaDA0SDFzeHk1M1AzcE1JRGc?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [醫華生技CytoAurora 攜手泰國國家癌症研究所簽署戰略合作協議！引進 iPSC 與 CTC 尖端技術，全面佈局東協精準醫療藍圖](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPY1AtX0dWLUNjYVpNcFA1T2MxQU55SGRpYWdEWmdwYXFMLXQ5aUFEa3JNYlFSRVRkcGctdk1vZ3VzUkh2R0JpUHVxMW5CV2p5MWs1ZFRfYlVZQU03YUdFNlNrYnpuOS1wSFBFeWJDRjY0Q1VXSHlpclF2NFVBQk5MZ3hqNzRZRk91d1Z4Mlp5cnVKZHh2ZzFwSmtyVU1aRG40MlFwQW1OYUxIUW9hVXlUV0hPbE54Rk1OSkdMT3R6NUY3Mm1KR0h5UVpJZzg4LVVybmhRY0VJempCYkpmTkdsVmlMTXg1LVNPeXhqdEk4dTlPSURDNUw5Q0RFUkpKVlpuM0xTbDhNN0xRbXRTUUpleG0zSWVKQUp3dnRDWFZFZElGdXZIUWhzdkU4Q2x0LWxhSmVZWlhWbDJnd2UxUTdJeEZHZ0N1UkJIU1Z4MFM5OGxYaUhmT0FZQ2NBMHRmelk?oc=5)
 
