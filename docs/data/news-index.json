@@ -1,7 +1,156 @@
 {
-  "generated": "2026-07-07T03:33:35.993129+00:00",
-  "count": 8,
+  "generated": "2026-07-07T07:29:31.958674+00:00",
+  "count": 10,
   "news": [
+    {
+      "id": "57e4948cb0cf",
+      "title": "近半國人受過敏困擾！ 研究揭異位性皮膚炎、鼻炎、氣喘「三部曲」",
+      "published": "2026-07-07T06:51:10+00:00",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HQlEyaGk0cE9YaHNrNl9KbDRGMjJoSTc1dllybmJ0NTBndWJyVjJvOXd3dEV0dW9sdXBsRUU2WTlwbW4zYzd6WVNwZUdBTVA40gFWQVVfeXFMUEpVM1E5bkZiWEhYUEVuQkp0Q00tMkxHZXNPTlFNZ0RzM1daNVVsNWVybzUzb00yN2hjU0xQb3FpbmFNbWdmaDA0SDFzeHk1M1AzcE1JRGc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "氣喘",
+          "keyword": "氣喘",
+          "related_drugs": [
+            {
+              "slug": "dupilumab",
+              "name": "Dupilumab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "異位性皮膚炎",
+          "keyword": "異位性皮膚炎",
+          "related_drugs": [
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "dupilumab",
+              "name": "Dupilumab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cbbe6ee8b51c",
+      "title": "【哇潮】預防大腸癌自己來先觀察便便就對了| 專欄",
+      "published": "2026-07-07T06:43:30+00:00",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuSWRiSjluNWlSMU55enM0RXFPQUszdWpYYno3ZGkwa2pqaGFJTWZ4WXlUblZZeWVGdTFhOVZETTRTdzhFNWtz?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "903ec67f4197",
+      "title": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 - PChome Online 新聞",
+      "published": "2026-07-07T06:43:14+00:00",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkhaN3RSWjBzbFRQQVBfb01VZEs2dFFuVnR3UlBkUy1Sc3lXaTduekRtdGpVUmhJUnN1QUFYOWRfbEUwSWdqZDdLSE5iaGtkWkhvanhVZy1JYXVUb0FsQWdSZm1lLTRVcGFobnVUMXVnY05SMTdYSUtpNzVJZ2pBWG01YWdfdndiM0RlNTNqNTVJbnM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1f7505022198",
+      "title": "失智不一定從健忘開始！哈佛900萬人研究：常認路的計程車、救護車司機，阿茲海默症相關死亡率最低",
+      "published": "2026-07-07T05:14:44+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxQREhockJTSDByM2JZVkZfOFVyeDZ2TnBKU1ZtQ3hqeTBTX01hSVFWa05fZVUtZ3RwbF8teUlYTklZbk5KN1RBQWk2NUdKcFI3Y01CcUpaSG1IODhELUZIQ3gyWTMtVENPSWU0blg0QUc3cGx4QVZLTUpIak5NQlBDcEZKaGJsaEVZLWlZR1BGSmVQTXhtUGQ5R0UxcTQtRjYzQ19WV196QjNsdnQxVWxNbGNRX1huR3BvTmxOdDczMUdwZVhKcnBJRmxTd0hBeWlPLVdTUWZvWmFBa1dVdGd6ZWtDRm1MY3VEcWN3RTBmZzdMUmM4Y3RTYUp1dFZqTldWYXpYSjlqVjU2c0FDTnduV09sMDZzMk50bEVubTJsUDZqWndnWkpKbFRDUmJZN0NZTVBPMVVwMzRXU1ZDbVpseWVyanVsSjhFZmxxbFhVb2stc21tTXNWeExHbFNaSmkyUEcxVnFHU0RTMFk0NmVvWnJlSFJBTk9pdFpHV1U5cXcyR0ZyNUV1dzh1QUtXRjdORVVJLW95ZnZHdVpINHlfVA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "9d5d09f9bde5",
       "title": "《別怕荷爾蒙，妳抗衰防病的關鍵》怕乳癌卻輕忽心臟病？奪走女性性命頭號殺手死亡人數竟是乳癌6倍",
@@ -163,34 +312,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ab38ac94c07c",
-      "title": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵",
-      "published": "2026-07-06T07:09:29+00:00",
-      "sources": [
-        {
-          "name": "華人健康網",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01NmJuZUMwRV80OEZhSjUwRUY4MnI3SU4zRnlwUW5Nand4ZjlfQ2Z4ZFdLaHUzS2tjTUtWZzluRDFXNUNiemN4YkY5X1kzYTZGamc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
             }
           ]
         }
@@ -517,53 +638,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cbbe6ee8b51c",
-      "title": "【哇潮】預防大腸癌自己來先觀察便便就對了| 專欄",
-      "published": "2026-07-05T18:37:41+00:00",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuSWRiSjluNWlSMU55enM0RXFPQUszdWpYYno3ZGkwa2pqaGFJTWZ4WXlUblZZeWVGdTFhOVZETTRTdzhFNWtz?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }

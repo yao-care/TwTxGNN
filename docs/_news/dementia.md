@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智症（dementia） 相關新聞"
+title: "阿茲海默症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智症（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "阿茲海默症（dementia） 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智症（dementia） 相關新聞
+# 阿茲海默症（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
-<strong>失智症（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="阿茲海默症（dementia） 有什麼相關新聞？">
+<strong>阿茲海默症（dementia）</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,7 +29,15 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [失智不一定從健忘開始！哈佛900萬人研究：常認路的計程車、救護車司機，阿茲海默症相關死亡率最低](https://news.google.com/rss/articles/CBMioANBVV95cUxQREhockJTSDByM2JZVkZfOFVyeDZ2TnBKU1ZtQ3hqeTBTX01hSVFWa05fZVUtZ3RwbF8teUlYTklZbk5KN1RBQWk2NUdKcFI3Y01CcUpaSG1IODhELUZIQ3gyWTMtVENPSWU0blg0QUc3cGx4QVZLTUpIak5NQlBDcEZKaGJsaEVZLWlZR1BGSmVQTXhtUGQ5R0UxcTQtRjYzQ19WV196QjNsdnQxVWxNbGNRX1huR3BvTmxOdDczMUdwZVhKcnBJRmxTd0hBeWlPLVdTUWZvWmFBa1dVdGd6ZWtDRm1MY3VEcWN3RTBmZzdMUmM4Y3RTYUp1dFZqTldWYXpYSjlqVjU2c0FDTnduV09sMDZzMk50bEVubTJsUDZqWndnWkpKbFRDUmJZN0NZTVBPMVVwMzRXU1ZDbVpseWVyanVsSjhFZmxxbFhVb2stc21tTXNWeExHbFNaSmkyUEcxVnFHU0RTMFk0NmVvWnJlSFJBTk9pdFpHV1U5cXcyR0ZyNUV1dzh1QUtXRjdORVVJLW95ZnZHdVpINHlfVA?oc=5)
+
+2026-07-07
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMioANBVV95cUxQREhockJTSDByM2JZVkZfOFVyeDZ2TnBKU1ZtQ3hqeTBTX01hSVFWa05fZVUtZ3RwbF8teUlYTklZbk5KN1RBQWk2NUdKcFI3Y01CcUpaSG1IODhELUZIQ3gyWTMtVENPSWU0blg0QUc3cGx4QVZLTUpIak5NQlBDcEZKaGJsaEVZLWlZR1BGSmVQTXhtUGQ5R0UxcTQtRjYzQ19WV196QjNsdnQxVWxNbGNRX1huR3BvTmxOdDczMUdwZVhKcnBJRmxTd0hBeWlPLVdTUWZvWmFBa1dVdGd6ZWtDRm1MY3VEcWN3RTBmZzdMUmM4Y3RTYUp1dFZqTldWYXpYSjlqVjU2c0FDTnduV09sMDZzMk50bEVubTJsUDZqWndnWkpKbFRDUmJZN0NZTVBPMVVwMzRXU1ZDbVpseWVyanVsSjhFZmxxbFhVb2stc21tTXNWeExHbFNaSmkyUEcxVnFHU0RTMFk0NmVvWnJlSFJBTk9pdFpHV1U5cXcyR0ZyNUV1dzh1QUtXRjdORVVJLW95ZnZHdVpINHlfVA?oc=5)
+
+---
 
 ### [護腦不只靠飲食、運動！研究指白天多做一件事，更能降失智風險｜大腦健康｜失智](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uZGRsUjYtNFQ2QzdLdWE0STZfVnVCdTVUYXUzVnU2Z1Ezc0xJaTFNYTRVQkY5SlM4bHZzQl94QVVxVXNuNjdyb3RPYVZ3Vk9ZcWRZZ1dUbkRRVkxsQmc?oc=5)
 

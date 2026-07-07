@@ -44,19 +44,19 @@ permalink: /news/oteracil/
 
 ## 相關新聞（2 則）
 
+### [【哇潮】預防大腸癌自己來先觀察便便就對了| 專欄](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuSWRiSjluNWlSMU55enM0RXFPQUszdWpYYno3ZGkwa2pqaGFJTWZ4WXlUblZZeWVGdTFhOVZETTRTdzhFNWtz?oc=5)
+
+2026-07-07 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuSWRiSjluNWlSMU55enM0RXFPQUszdWpYYno3ZGkwa2pqaGFJTWZ4WXlUblZZeWVGdTFhOVZETTRTdzhFNWtz?oc=5)
+
+---
+
 ### [醫華生技CytoAurora 攜手泰國國家癌症研究所簽署戰略合作協議！引進 iPSC 與 CTC 尖端技術，全面佈局東協精準醫療藍圖](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPY1AtX0dWLUNjYVpNcFA1T2MxQU55SGRpYWdEWmdwYXFMLXQ5aUFEa3JNYlFSRVRkcGctdk1vZ3VzUkh2R0JpUHVxMW5CV2p5MWs1ZFRfYlVZQU03YUdFNlNrYnpuOS1wSFBFeWJDRjY0Q1VXSHlpclF2NFVBQk5MZ3hqNzRZRk91d1Z4Mlp5cnVKZHh2ZzFwSmtyVU1aRG40MlFwQW1OYUxIUW9hVXlUV0hPbE54Rk1OSkdMT3R6NUY3Mm1KR0h5UVpJZzg4LVVybmhRY0VJempCYkpmTkdsVmlMTXg1LVNPeXhqdEk4dTlPSURDNUw5Q0RFUkpKVlpuM0xTbDhNN0xRbXRTUUpleG0zSWVKQUp3dnRDWFZFZElGdXZIUWhzdkU4Q2x0LWxhSmVZWlhWbDJnd2UxUTdJeEZHZ0N1UkJIU1Z4MFM5OGxYaUhmT0FZQ2NBMHRmelk?oc=5)
 
 2026-07-06 <span class="news-indication-tag">癌症</span>
 
 來源：[報新聞](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPY1AtX0dWLUNjYVpNcFA1T2MxQU55SGRpYWdEWmdwYXFMLXQ5aUFEa3JNYlFSRVRkcGctdk1vZ3VzUkh2R0JpUHVxMW5CV2p5MWs1ZFRfYlVZQU03YUdFNlNrYnpuOS1wSFBFeWJDRjY0Q1VXSHlpclF2NFVBQk5MZ3hqNzRZRk91d1Z4Mlp5cnVKZHh2ZzFwSmtyVU1aRG40MlFwQW1OYUxIUW9hVXlUV0hPbE54Rk1OSkdMT3R6NUY3Mm1KR0h5UVpJZzg4LVVybmhRY0VJempCYkpmTkdsVmlMTXg1LVNPeXhqdEk4dTlPSURDNUw5Q0RFUkpKVlpuM0xTbDhNN0xRbXRTUUpleG0zSWVKQUp3dnRDWFZFZElGdXZIUWhzdkU4Q2x0LWxhSmVZWlhWbDJnd2UxUTdJeEZHZ0N1UkJIU1Z4MFM5OGxYaUhmT0FZQ2NBMHRmelk?oc=5)
-
----
-
-### [【哇潮】預防大腸癌自己來先觀察便便就對了| 專欄](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuSWRiSjluNWlSMU55enM0RXFPQUszdWpYYno3ZGkwa2pqaGFJTWZ4WXlUblZZeWVGdTFhOVZETTRTdzhFNWtz?oc=5)
-
-2026-07-05 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuSWRiSjluNWlSMU55enM0RXFPQUszdWpYYno3ZGkwa2pqaGFJTWZ4WXlUblZZeWVGdTFhOVZETTRTdzhFNWtz?oc=5)
 
 ---
 

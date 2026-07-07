@@ -33,7 +33,7 @@ permalink: /news/colonic-neoplasm/
 
 ### [【哇潮】預防大腸癌自己來先觀察便便就對了| 專欄](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuSWRiSjluNWlSMU55enM0RXFPQUszdWpYYno3ZGkwa2pqaGFJTWZ4WXlUblZZeWVGdTFhOVZETTRTdzhFNWtz?oc=5)
 
-2026-07-05
+2026-07-07
 
 來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuSWRiSjluNWlSMU55enM0RXFPQUszdWpYYno3ZGkwa2pqaGFJTWZ4WXlUblZZeWVGdTFhOVZETTRTdzhFNWtz?oc=5)
 

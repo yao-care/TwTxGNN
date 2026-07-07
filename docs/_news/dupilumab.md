@@ -14,7 +14,7 @@ permalink: /news/dupilumab/
 ---
 
 <p class="key-answer" data-question="Dupilumab 有什麼相關新聞？">
-<strong>Dupilumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dupilumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/dupilumab/
 <p><a href="{{ '/drugs/dupilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [近半國人受過敏困擾！ 研究揭異位性皮膚炎、鼻炎、氣喘「三部曲」](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HQlEyaGk0cE9YaHNrNl9KbDRGMjJoSTc1dllybmJ0NTBndWJyVjJvOXd3dEV0dW9sdXBsRUU2WTlwbW4zYzd6WVNwZUdBTVA40gFWQVVfeXFMUEpVM1E5bkZiWEhYUEVuQkp0Q00tMkxHZXNPTlFNZ0RzM1daNVVsNWVybzUzb00yN2hjU0xQb3FpbmFNbWdmaDA0SDFzeHk1M1AzcE1JRGc?oc=5)
+
+2026-07-07 <span class="news-indication-tag">氣喘</span> <span class="news-indication-tag">異位性皮膚炎</span>
+
+來源：[UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HQlEyaGk0cE9YaHNrNl9KbDRGMjJoSTc1dllybmJ0NTBndWJyVjJvOXd3dEV0dW9sdXBsRUU2WTlwbW4zYzd6WVNwZUdBTVA40gFWQVVfeXFMUEpVM1E5bkZiWEhYUEVuQkp0Q00tMkxHZXNPTlFNZ0RzM1daNVVsNWVybzUzb00yN2hjU0xQb3FpbmFNbWdmaDA0SDFzeHk1M1AzcE1JRGc?oc=5)
+
+---
 
 
 <div class="disclaimer">

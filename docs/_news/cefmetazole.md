@@ -43,11 +43,11 @@ permalink: /news/cefmetazole/
 
 ## 相關新聞（2 則）
 
-### [打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵](https://news.google.com/rss/articles/CBMiUkFVX3lxTE01NmJuZUMwRV80OEZhSjUwRUY4MnI3SU4zRnlwUW5Nand4ZjlfQ2Z4ZFdLaHUzS2tjTUtWZzluRDFXNUNiemN4YkY5X1kzYTZGamc?oc=5)
+### [打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkhaN3RSWjBzbFRQQVBfb01VZEs2dFFuVnR3UlBkUy1Sc3lXaTduekRtdGpVUmhJUnN1QUFYOWRfbEUwSWdqZDdLSE5iaGtkWkhvanhVZy1JYXVUb0FsQWdSZm1lLTRVcGFobnVUMXVnY05SMTdYSUtpNzVJZ2pBWG01YWdfdndiM0RlNTNqNTVJbnM?oc=5)
 
-2026-07-06 <span class="news-indication-tag">鏈球菌</span>
+2026-07-07 <span class="news-indication-tag">鏈球菌</span>
 
-來源：[華人健康網](https://news.google.com/rss/articles/CBMiUkFVX3lxTE01NmJuZUMwRV80OEZhSjUwRUY4MnI3SU4zRnlwUW5Nand4ZjlfQ2Z4ZFdLaHUzS2tjTUtWZzluRDFXNUNiemN4YkY5X1kzYTZGamc?oc=5)
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkhaN3RSWjBzbFRQQVBfb01VZEs2dFFuVnR3UlBkUy1Sc3lXaTduekRtdGpVUmhJUnN1QUFYOWRfbEUwSWdqZDdLSE5iaGtkWkhvanhVZy1JYXVUb0FsQWdSZm1lLTRVcGFobnVUMXVnY05SMTdYSUtpNzVJZ2pBWG01YWdfdndiM0RlNTNqNTVJbnM?oc=5)
 
 ---
 
