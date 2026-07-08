@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-08T10:54:43.349756+00:00",
-  "count": 30,
+  "fetched_at": "2026-07-08T12:14:10.302906+00:00",
+  "count": 33,
   "news": [
     {
       "id": "83b90195e61a",
@@ -28,6 +28,18 @@
       ]
     },
     {
+      "id": "011a10e83d61",
+      "title": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 | 健康元氣 | 商情 - 經濟日報",
+      "published": "2026-07-07T08:02:20+00:00",
+      "summary": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報五成侵襲性肺炎患者為青壯年！專家籲接種肺炎鏈球菌疫苗 降低感染&nbsp;&nbsp;聯合新聞網成人也得小心肺炎鏈球菌！醫揭：選對「血清型」成精準防重症關鍵&nbsp;&nbsp;三立新聞不只長者要打 醫師示警慢性病青壯年肺炎重症風險飆升&nbsp;&nbsp;Yahoo新聞肺炎鏈球菌威脅升溫！成人防護邁向精準預防 | TVBS&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ycC1BTHFmQ243eGRteWZjMjJHdEYycndUMVNzVWFTSmg1MWFDb29udmdHNXcwZVd1RWJqVFRWZmJiWEs0Mi1CUzlzQnc1U1lYQ2JweU9faDRPQXc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b469cf930f7a",
       "title": "糙米吃錯恐脹氣！醫推「1種米」營養更高 維生素E是白米6倍 - TVBS新聞網",
       "published": "2026-07-07T20:00:00+00:00",
@@ -36,18 +48,6 @@
         {
           "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOMGc1VlNmdzdmMUwwUXZ1dE1pUUMzcEh3NXBwMkN5b3NFbHd6SDJmWmYtT0V3dXdWaFcxM3hrcklJQVJhdDBsZ3I4WlZNeXVK?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "011a10e83d61",
-      "title": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 | 健康元氣 | 商情 - 經濟日報",
-      "published": "2026-07-07T08:02:20+00:00",
-      "summary": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報五成侵襲性肺炎患者為青壯年！專家籲接種肺炎鏈球菌疫苗 降低感染&nbsp;&nbsp;聯合新聞網成人也得小心肺炎鏈球菌！醫揭：選對「血清型」成精準防重症關鍵&nbsp;&nbsp;三立新聞不只長者要打 醫師示警慢性病青壯年肺炎重症風險飆升&nbsp;&nbsp;Yahoo新聞肺炎鏈球菌疫苗怎麼選？醫揭「血清型置換」新趨勢：成人預防已從兩劑混打走向單劑&nbsp;&nbsp;良醫健康網",
-      "sources": [
-        {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ycC1BTHFmQ243eGRteWZjMjJHdEYycndUMVNzVWFTSmg1MWFDb29udmdHNXcwZVd1RWJqVFRWZmJiWEs0Mi1CUzlzQnc1U1lYQ2JweU9faDRPQXc?oc=5"
         }
       ]
     },
@@ -160,6 +160,18 @@
       ]
     },
     {
+      "id": "eb8d44057517",
+      "title": "金十字酵素胃腸藥中鏢新萬仁：符合日本藥典法規| 生活 - 三立新聞",
+      "published": "2026-07-08T04:06:30+00:00",
+      "summary": "金十字酵素胃腸藥中鏢新萬仁：符合日本藥典法規| 生活&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBiYjB5Z1luYVU4ZEtvS0VOdTRfYzh4X096UEJQbm51X3lVX0VKem5RTnBtbFNSN1o3eV8wdTRIQmZyOVRPNVE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cd3d667b837a",
       "title": "百歲巨星范·戴克揭長壽秘訣：研究證實一習慣可延壽15% - 蕃新聞",
       "published": "2026-07-07T11:43:00+00:00",
@@ -180,18 +192,6 @@
         {
           "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA3dTlCejRWTDRXTVdjWkJ6ZkNjR00tT2tBX3pyTmRIekdERXZMZTlKMG5XMHp4OFQ3ZzI5MmJ2ek9fMkwtXzZr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1624be5f1b31",
-      "title": "八仙塵爆／先搶先贏？燙傷藥缺很大住院14天須13萬罐| 生活 - 三立新聞",
-      "published": "2026-07-07T09:34:06+00:00",
-      "summary": "八仙塵爆／先搶先贏？燙傷藥缺很大住院14天須13萬罐| 生活&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5hS2ZRSnc5dW45WmF3SnNkaXhRZmRqQ1Z1ZFJwWlloTFMwSzVSc3RKVFZPZUZtMFdPMmFiVXJGVkgxTGJ5MXc?oc=5"
         }
       ]
     },
@@ -220,6 +220,18 @@
       ]
     },
     {
+      "id": "1624be5f1b31",
+      "title": "八仙塵爆／先搶先贏？燙傷藥缺很大住院14天須13萬罐| 生活 - 三立新聞",
+      "published": "2026-07-07T12:39:24+00:00",
+      "summary": "八仙塵爆／先搶先贏？燙傷藥缺很大住院14天須13萬罐| 生活&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5hS2ZRSnc5dW45WmF3SnNkaXhRZmRqQ1Z1ZFJwWlloTFMwSzVSc3RKVFZPZUZtMFdPMmFiVXJGVkgxTGJ5MXc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "bf4e4cca5add",
       "title": "歐洲多國示警「5種19世紀流行病」捲土重來：氣候＋人為因素 - 三立新聞",
       "published": "2026-07-06T23:56:46+00:00",
@@ -240,6 +252,42 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQnVxWTZkQ1FzZVprOW9jZUoyeTZyOUZ5VjBTQl82STd2RVBEU2ltZFI1ZUZWRV8tN1NCWjFXbEctV1hwNzRjUWFhNkpxNER4SndWOHBNZjZIVkVHMGxSTnZBMnFLaHNQeWsteWFneWFUaGVzVF9sRmp1bHdGbXNLX0RBMWlmOTRabldMT040WmxUT3NreGxhUzFNN2Q?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e64acdef35c8",
+      "title": "幫兒拍照驚現「瞳孔反白」 一檢查原來是眼癌！ - 三立新聞",
+      "published": "2026-07-07T16:23:36+00:00",
+      "summary": "幫兒拍照驚現「瞳孔反白」 一檢查原來是眼癌！&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9RdXh0Q2RTOV9udFZjM29EQ2wxejBxeERGa040aXNZQ3ljcFRXb201cDlsbTVhTTVrdWxpczZQamJPd3c3UXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b60ad9fffc82",
+      "title": "黑心！為加快米血「塑形」 業者違法添加藥用石膏| 生活 - 三立新聞",
+      "published": "2026-07-07T12:26:44+00:00",
+      "summary": "黑心！為加快米血「塑形」 業者違法添加藥用石膏| 生活&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBkTkZkVGpOSjA3bm1teUQyMlpmcFFUV1VXNFh5bndtMzVNYzBfM2s5SkJKb3JtcElta05zVlpSS3M2RWNjeFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b8152d757b43",
+      "title": "【哇潮】預防大腸癌自己來先觀察便便就對了| 專欄 - 三立新聞",
+      "published": "2026-07-06T17:28:42+00:00",
+      "summary": "【哇潮】預防大腸癌自己來先觀察便便就對了| 專欄&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuSWRiSjluNWlSMU55enM0RXFPQUszdWpYYno3ZGkwa2pqaGFJTWZ4WXlUblZZeWVGdTFhOVZETTRTdzhFNWtz?oc=5"
         }
       ]
     },
@@ -348,18 +396,6 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mcU5xOURBQ1c5WFVIOU5TRUJFNGFtV3RZUExxdmVrdHBXQ0htODVjMW9mbVAzQWhpQ1Mway0wQ0FGQ1JXeWtLZTNIM2M5YVFzdnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a1eb7e48f0f0",
-      "title": "登革熱救星！超特別行業他們竟然靠蚊子維生| 生活 - 三立新聞",
-      "published": "2026-07-07T13:04:10+00:00",
-      "summary": "登革熱救星！超特別行業他們竟然靠蚊子維生| 生活&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5CQkY5YmRNQkdwTlRvUldmYlBxUnRsV0hKSkk4TmRsRm1rVjMxYkt5OXBiamcxUXBHRnVOLUJVazRLcDc3UGZz?oc=5"
         }
       ]
     }

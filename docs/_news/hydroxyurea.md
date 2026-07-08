@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [《別怕荷爾蒙，妳抗衰防病的關鍵》怕乳癌卻輕忽心臟病？奪走女性性命頭號殺手死亡人數竟是乳癌6倍](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ORlZtZ2Z0NFptWF9OTEVOY09VSGZwWktBZUdQVGtzM0M5bmN1Z0MybXVzdmg0cFFUQ1NpWXIybXBLUzhNMDlxcUk0NW5KRWh2R01v?oc=5)
 
 2026-07-07 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">乳癌</span>
 
 來源：[台灣好報](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ORlZtZ2Z0NFptWF9OTEVOY09VSGZwWktBZUdQVGtzM0M5bmN1Z0MybXVzdmg0cFFUQ1NpWXIybXBLUzhNMDlxcUk0NW5KRWh2R01v?oc=5)
+
+---
+
+### [【哇潮】預防大腸癌自己來先觀察便便就對了| 專欄](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuSWRiSjluNWlSMU55enM0RXFPQUszdWpYYno3ZGkwa2pqaGFJTWZ4WXlUblZZeWVGdTFhOVZETTRTdzhFNWtz?oc=5)
+
+2026-07-06 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[三立新聞](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuSWRiSjluNWlSMU55enM0RXFPQUszdWpYYno3ZGkwa2pqaGFJTWZ4WXlUblZZeWVGdTFhOVZETTRTdzhFNWtz?oc=5)
 
 ---
 

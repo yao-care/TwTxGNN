@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-08T10:54:47.041688+00:00",
-  "count": 4,
+  "generated": "2026-07-08T12:14:13.131983+00:00",
+  "count": 5,
   "news": [
     {
       "id": "46f07f86298a",
@@ -187,6 +187,53 @@
             {
               "slug": "anastrozole",
               "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b8152d757b43",
+      "title": "【哇潮】預防大腸癌自己來先觀察便便就對了| 專欄",
+      "published": "2026-07-06T17:28:42+00:00",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuSWRiSjluNWlSMU55enM0RXFPQUszdWpYYno3ZGkwa2pqaGFJTWZ4WXlUblZZeWVGdTFhOVZETTRTdzhFNWtz?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
             },
             {
               "slug": "hydroxyurea",
