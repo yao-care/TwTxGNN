@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-08T12:14:13.131983+00:00",
-  "count": 5,
+  "generated": "2026-07-08T15:10:15.437053+00:00",
+  "count": 4,
   "news": [
     {
       "id": "46f07f86298a",
@@ -57,7 +57,7 @@
     {
       "id": "1f7505022198",
       "title": "失智不一定從健忘開始！哈佛900萬人研究：常認路的計程車、救護車司機，阿茲海默症相關死亡率最低",
-      "published": "2026-07-07T05:21:40+00:00",
+      "published": "2026-07-07T05:14:44+00:00",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -187,53 +187,6 @@
             {
               "slug": "anastrozole",
               "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b8152d757b43",
-      "title": "【哇潮】預防大腸癌自己來先觀察便便就對了| 專欄",
-      "published": "2026-07-06T17:28:42+00:00",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuSWRiSjluNWlSMU55enM0RXFPQUszdWpYYno3ZGkwa2pqaGFJTWZ4WXlUblZZeWVGdTFhOVZETTRTdzhFNWtz?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
             },
             {
               "slug": "hydroxyurea",
