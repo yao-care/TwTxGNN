@@ -14,7 +14,7 @@ permalink: /news/berberine/
 ---
 
 <p class="key-answer" data-question="Berberine 有什麼相關新聞？">
-<strong>Berberine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Berberine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/berberine/
 <p><a href="{{ '/drugs/berberine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [一種疫苗可望防多種致命腹瀉 研究找到病菌共同弱點](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PMXNHc1FGSDFDcnFQa0c0LXhWUlljWDl4aGlhcElXRWJkbEpKank4OFZQSFdFV2Y5MlpOcHR2bXItUkdtOUprLThpSDZoX3A1SGlsSGdodGYycDk2Wm5oVnJ0eHbSAWpBVV95cUxQVGFPX1Q3YURXNE5UUnNrVHdJU3M4VDc3OFhXY1hEU3NFTXpxQ2FDX2JVZ20yN2s2dTlpYkZjNTFJT3FPMWJPSnBSZjhET3VpZzdITG9KTVF1TERrTzRpRXlOck1LWC1OaXh3?oc=5)
-
-2026-07-06 <span class="news-indication-tag">腹瀉</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PMXNHc1FGSDFDcnFQa0c0LXhWUlljWDl4aGlhcElXRWJkbEpKank4OFZQSFdFV2Y5MlpOcHR2bXItUkdtOUprLThpSDZoX3A1SGlsSGdodGYycDk2Wm5oVnJ0eHbSAWpBVV95cUxQVGFPX1Q3YURXNE5UUnNrVHdJU3M4VDc3OFhXY1hEU3NFTXpxQ2FDX2JVZ20yN2s2dTlpYkZjNTFJT3FPMWJPSnBSZjhET3VpZzdITG9KTVF1TERrTzRpRXlOck1LWC1OaXh3?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-08T08:09:25.126968+00:00",
-  "count": 7,
+  "generated": "2026-07-08T10:54:47.041688+00:00",
+  "count": 4,
   "news": [
     {
       "id": "46f07f86298a",
@@ -49,53 +49,6 @@
             {
               "slug": "cephalexin",
               "name": "Cephalexin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b8152d757b43",
-      "title": "【哇潮】預防大腸癌自己來先觀察便便就對了| 專欄",
-      "published": "2026-07-07T06:43:30+00:00",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuSWRiSjluNWlSMU55enM0RXFPQUszdWpYYno3ZGkwa2pqaGFJTWZ4WXlUblZZeWVGdTFhOVZETTRTdzhFNWtz?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
@@ -238,54 +191,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2c11fb98801a",
-      "title": "一種疫苗可望防多種致命腹瀉 研究找到病菌共同弱點",
-      "published": "2026-07-06T09:33:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PMXNHc1FGSDFDcnFQa0c0LXhWUlljWDl4aGlhcElXRWJkbEpKank4OFZQSFdFV2Y5MlpOcHR2bXItUkdtOUprLThpSDZoX3A1SGlsSGdodGYycDk2Wm5oVnJ0eHbSAWpBVV95cUxQVGFPX1Q3YURXNE5UUnNrVHdJU3M4VDc3OFhXY1hEU3NFTXpxQ2FDX2JVZ20yN2s2dTlpYkZjNTFJT3FPMWJPSnBSZjhET3VpZzdITG9KTVF1TERrTzRpRXlOck1LWC1OaXh3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "腹瀉",
-          "keyword": "腹瀉",
-          "related_drugs": [
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b6bac51a9a97",
-      "title": "90多歲仍未失智　醫師曝關鍵：起床30分鐘內「都先做這事」",
-      "published": "2026-07-06T09:22:00+00:00",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yb09GMkktUHlFdktCWkZuUU1xV3JhQXowQ0w3MEN6aVlSam5nWWp1cF9Fem9sNE5wclZ6YmJiVExOYmd2ZlNZRtIBTEFVX3lxTE1WYlgyc182YmhuUnZMSWY5Z3RPd1lHMV8yX0RfOG1kMGhXTlJyZnFZMVp6UE9taDdSVE82d1d6bEZraVhZM1ZSV2VRLWw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

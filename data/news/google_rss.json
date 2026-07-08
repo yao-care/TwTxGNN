@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-08T08:09:17.953539+00:00",
-  "count": 33,
+  "fetched_at": "2026-07-08T10:54:43.349756+00:00",
+  "count": 30,
   "news": [
     {
       "id": "83b90195e61a",
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "6c75aa2a98fd",
-      "title": "減重不單靠算卡路里 專家教你如何應對 - Singtaousa",
-      "published": "2026-07-07T16:19:07+00:00",
-      "summary": "減重不單靠算卡路里 專家教你如何應對&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQnVxWTZkQ1FzZVprOW9jZUoyeTZyOUZ5VjBTQl82STd2RVBEU2ltZFI1ZUZWRV8tN1NCWjFXbEctV1hwNzRjUWFhNkpxNER4SndWOHBNZjZIVkVHMGxSTnZBMnFLaHNQeWsteWFneWFUaGVzVF9sRmp1bHdGbXNLX0RBMWlmOTRabldMT040WmxUT3NreGxhUzFNN2Q?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b469cf930f7a",
       "title": "糙米吃錯恐脹氣！醫推「1種米」營養更高 維生素E是白米6倍 - TVBS新聞網",
       "published": "2026-07-07T20:00:00+00:00",
@@ -48,18 +36,6 @@
         {
           "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOMGc1VlNmdzdmMUwwUXZ1dE1pUUMzcEh3NXBwMkN5b3NFbHd6SDJmWmYtT0V3dXdWaFcxM3hrcklJQVJhdDBsZ3I4WlZNeXVK?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b6bac51a9a97",
-      "title": "90多歲仍未失智　醫師曝關鍵：起床30分鐘內「都先做這事」 - 三立新聞",
-      "published": "2026-07-06T09:22:00+00:00",
-      "summary": "90多歲仍未失智 醫師曝關鍵：起床30分鐘內「都先做這事」&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yb09GMkktUHlFdktCWkZuUU1xV3JhQXowQ0w3MEN6aVlSam5nWWp1cF9Fem9sNE5wclZ6YmJiVExOYmd2ZlNZRtIBTEFVX3lxTE1WYlgyc182YmhuUnZMSWY5Z3RPd1lHMV8yX0RfOG1kMGhXTlJyZnFZMVp6UE9taDdSVE82d1d6bEZraVhZM1ZSV2VRLWw?oc=5"
         }
       ]
     },
@@ -76,14 +52,14 @@
       ]
     },
     {
-      "id": "56afd2662801",
-      "title": "8千人研究「規律運動+1件事」甩高血脂 - 鏡週刊Mirror Media",
-      "published": "2026-07-06T13:09:00+00:00",
-      "summary": "8千人研究「規律運動+1件事」甩高血脂&nbsp;&nbsp;鏡週刊Mirror Media",
+      "id": "4c700ad32b93",
+      "title": "8千人研究「規律運動+1件事」甩高血脂 黃金公式曝 - 三立新聞",
+      "published": "2026-07-06T13:09:43+00:00",
+      "summary": "8千人研究「規律運動+1件事」甩高血脂 黃金公式曝&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxZ3NGa2lDX1I2d19IZFFzU3lhNFRpdWcyTXVVRHVmNmpWdVdWbEUxcTNTdVZLeFl1ZXR6RkJIdTNkWTNwWEVsZnRhbkdXOVR3VU9udDdJSEJYdjd60gFiQVVfeXFMT3JEM1AwQ1JNRk8yZ0Vfbndmc01pcm9SazhTYXdHbGllZWJTbUpJaEt3Wjl3aXQ5cS0wY1ZNMGQtUVBrUGh6dUhoNzh3UVBYUjJyTlZRZVo5MTRSODJ3aW5RTmc?oc=5"
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE43WVBHR1E3RnpuTE1tQlptNmVIRmVuRXZEQzV6RTV4cFJtU19vQnBVVGRPLVdnR0NuMTluRk81MHBxQmpvVjBtV3c0cDM?oc=5"
         }
       ]
     },
@@ -148,22 +124,10 @@
       ]
     },
     {
-      "id": "2c11fb98801a",
-      "title": "一種疫苗可望防多種致命腹瀉 研究找到病菌共同弱點 - 自由健康網",
-      "published": "2026-07-06T09:33:00+00:00",
-      "summary": "一種疫苗可望防多種致命腹瀉 研究找到病菌共同弱點&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PMXNHc1FGSDFDcnFQa0c0LXhWUlljWDl4aGlhcElXRWJkbEpKank4OFZQSFdFV2Y5MlpOcHR2bXItUkdtOUprLThpSDZoX3A1SGlsSGdodGYycDk2Wm5oVnJ0eHbSAWpBVV95cUxQVGFPX1Q3YURXNE5UUnNrVHdJU3M4VDc3OFhXY1hEU3NFTXpxQ2FDX2JVZ20yN2s2dTlpYkZjNTFJT3FPMWJPSnBSZjhET3VpZzdITG9KTVF1TERrTzRpRXlOck1LWC1OaXh3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "011e54327546",
       "title": "蜱蟲叮咬｜66歲男放狗遭蜱蟲叮咬 染罕見病毒 專家：15分鐘足以傳播 - 香港經濟日報HKET",
       "published": "2026-07-07T08:59:16+00:00",
-      "summary": "蜱蟲叮咬｜66歲男放狗遭蜱蟲叮咬 染罕見病毒 專家：15分鐘足以傳播&nbsp;&nbsp;香港經濟日報HKET蜱蟲病｜放狗被蜱蟲叮咬入ICU 6旬男失說話活動能力致命病毒15分鐘可傳播6成患者終身殘疾附症狀- 東張+&nbsp;&nbsp;myTV SUPER",
+      "summary": "蜱蟲叮咬｜66歲男放狗遭蜱蟲叮咬 染罕見病毒 專家：15分鐘足以傳播&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "香港經濟日報HKET",
@@ -172,13 +136,13 @@
       ]
     },
     {
-      "id": "b90583c83e76",
-      "title": "度假屋驚魂！被蝙蝠「吻醒」無傷痕，11歲男童竟染上奪命狂犬病？ - bastillepost.com",
+      "id": "0ea423140811",
+      "title": "度假屋驚魂！被蝙蝠「吻醒」無傷痕，11歲男童竟染上奪命狂犬病？ - 巴士的報",
       "published": "2026-07-07T15:00:00+00:00",
-      "summary": "度假屋驚魂！被蝙蝠「吻醒」無傷痕，11歲男童竟染上奪命狂犬病？&nbsp;&nbsp;bastillepost.com11歲男童接觸蝙蝠染狂犬病死亡 醫生促提高警覺&nbsp;&nbsp;singtao.ca加國11歲童遭蝙蝠撲面19日後死於狂犬病醫囑：無傷口≠零風險- 國際&nbsp;&nbsp;dotdotnews半夜驚醒「蝙蝠趴口鼻」! 11歲男童19 天後狂犬病發中樞神經系統崩潰慘死&nbsp;&nbsp;MSN罕見！男童睡覺時「遭蝙蝠貼臉」 3週後竟染狂犬病慘亡 | 三立新聞網&nbsp;&nbsp;LINE TODAY",
+      "summary": "度假屋驚魂！被蝙蝠「吻醒」無傷痕，11歲男童竟染上奪命狂犬病？&nbsp;&nbsp;巴士的報11歲男童接觸蝙蝠染狂犬病死亡 醫生促提高警覺&nbsp;&nbsp;singtao.ca加國11歲童遭蝙蝠撲面19日後死於狂犬病醫囑：無傷口≠零風險- 國際&nbsp;&nbsp;dotdotnews半夜驚醒「蝙蝠趴口鼻」! 11歲男童19 天後狂犬病發中樞神經系統崩潰慘死&nbsp;&nbsp;MSN罕見！男童睡覺時「遭蝙蝠貼臉」 3週後竟染狂犬病慘亡 | 三立新聞網&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQTlQyLUV2RHhLRkMtZF9UZUNKaHd2Z29uOHgtWEs2dThYRzN1cUdydWRXQjB2MmptNk1FMEtGSFZKd0RzQjVuY3EtTWZzaFVRZk9DMGlkcGVFaENFcHpwc2NXZHQ2TzFlTy03RUJETGNkNWlCbFVGZHZGTGptb2RsMFNweW05SDNJaXZkb3JTRzY0N1lscU9KVXotaXkzaDQzbVhNRmNOQ0tqUklRbEFWRXJmQUU0Q19tRU9PZUJyOUhwV1VPZUw3VzZfRUJWX0hIX0JOV3l5cWpVbFhYNVBucjdSME43Z0xaN25DUFlMaWtCZzdCa0Y2YkV2NkRWYjZBbTA4WThqQVZyU3lhMDB2Qmk0dDlmT1dYR2xaYzFvbnQ0NVMxNWtuLWxTUUg1TGpWekZLTzJwc1VMcHJlVHY1UXdBYUNtbFZIeFRHY3hnb0I0dXQ1RTZ2YTFtdndqaWFmanV5MWk5dWh0VTRfa1UyNg?oc=5"
         }
       ]
@@ -232,18 +196,6 @@
       ]
     },
     {
-      "id": "bf4e4cca5add",
-      "title": "歐洲多國示警「5種19世紀流行病」捲土重來：氣候＋人為因素 - 三立新聞",
-      "published": "2026-07-06T23:56:46+00:00",
-      "summary": "歐洲多國示警「5種19世紀流行病」捲土重來：氣候＋人為因素&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SMVNDekJZNE9JXzk1NUFmRldvemF2ai1fZU5pSVJOZjlYQUFkcE1YZ2JpTGU0TWsyUDFWMjhLMTJXMGpNREJHdtIBTEFVX3lxTE1ydm5IRUlRdm9PdHpLUHJFcmp3NWtON1pVSWl4ZWpscXVJS2U4WXRRMHlUY0M1THZJd1RZeWo3dDlJcEExVXdwemw5TFQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f814273ad6ca",
       "title": "白跑一趟…赴陸換腎卻染C肝男子返台治好肝病| 生活 - 三立新聞",
       "published": "2026-07-07T06:35:02+00:00",
@@ -268,14 +220,26 @@
       ]
     },
     {
-      "id": "b8152d757b43",
-      "title": "【哇潮】預防大腸癌自己來先觀察便便就對了| 專欄 - 三立新聞",
-      "published": "2026-07-07T06:43:30+00:00",
-      "summary": "【哇潮】預防大腸癌自己來先觀察便便就對了| 專欄&nbsp;&nbsp;三立新聞",
+      "id": "bf4e4cca5add",
+      "title": "歐洲多國示警「5種19世紀流行病」捲土重來：氣候＋人為因素 - 三立新聞",
+      "published": "2026-07-06T23:56:46+00:00",
+      "summary": "歐洲多國示警「5種19世紀流行病」捲土重來：氣候＋人為因素&nbsp;&nbsp;三立新聞",
       "sources": [
         {
           "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuSWRiSjluNWlSMU55enM0RXFPQUszdWpYYno3ZGkwa2pqaGFJTWZ4WXlUblZZeWVGdTFhOVZETTRTdzhFNWtz?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SMVNDekJZNE9JXzk1NUFmRldvemF2ai1fZU5pSVJOZjlYQUFkcE1YZ2JpTGU0TWsyUDFWMjhLMTJXMGpNREJHdtIBTEFVX3lxTE1ydm5IRUlRdm9PdHpLUHJFcmp3NWtON1pVSWl4ZWpscXVJS2U4WXRRMHlUY0M1THZJd1RZeWo3dDlJcEExVXdwemw5TFQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6c75aa2a98fd",
+      "title": "減重不單靠算卡路里 專家教你如何應對 - Singtaousa",
+      "published": "2026-07-07T16:19:07+00:00",
+      "summary": "減重不單靠算卡路里 專家教你如何應對&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQnVxWTZkQ1FzZVprOW9jZUoyeTZyOUZ5VjBTQl82STd2RVBEU2ltZFI1ZUZWRV8tN1NCWjFXbEctV1hwNzRjUWFhNkpxNER4SndWOHBNZjZIVkVHMGxSTnZBMnFLaHNQeWsteWFneWFUaGVzVF9sRmp1bHdGbXNLX0RBMWlmOTRabldMT040WmxUT3NreGxhUzFNN2Q?oc=5"
         }
       ]
     },
@@ -316,18 +280,6 @@
       ]
     },
     {
-      "id": "d76b6649921d",
-      "title": "防範高血糖９風險！不尋常症狀也要留意| 專欄 - 三立新聞",
-      "published": "2026-07-06T21:27:38+00:00",
-      "summary": "防範高血糖９風險！不尋常症狀也要留意| 專欄&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9hQkE5MlNqa29oZHRBLTdtX3d6RkZLM0xROFF6N1c1NWNLNkFEc3BsYnpNTUZMVHpEOThXX0JLV29GWVR4Yy11Vw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6bf5e9f5a67f",
       "title": "抓破蚊爛隨時喪命？港女染蜂窩組織炎行唔到 醫生揭2類人極高危促即求醫 - UHK 港生活",
       "published": "2026-07-07T08:46:57+00:00",
@@ -364,6 +316,18 @@
       ]
     },
     {
+      "id": "65fb830c64ee",
+      "title": "小黑蚊不是「蚊」！無天敵太囂張專家教你這樣毀滅牠的家| 生活 - 三立新聞",
+      "published": "2026-07-07T17:06:40+00:00",
+      "summary": "小黑蚊不是「蚊」！無天敵太囂張專家教你這樣毀滅牠的家| 生活&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBjMkphZXBlOEFDRnpsbHFMTE5fWHpIT0plMVhsaFpCMTB2QWg0WXZJNmppenNBVFVrWkhjN1BuTmhZWmptMWpJ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c606f0218309",
       "title": "全球研究：男性睾酮50年減半，科學家憂心環境因素與肥胖影響生育 - Singtaousa",
       "published": "2026-07-08T02:29:59+00:00",
@@ -388,14 +352,14 @@
       ]
     },
     {
-      "id": "75597cc6fff2",
-      "title": "沖涼驚見小凸點中雙重性病！無痛染椰菜花+梅毒 揭中招原因及預防方法 - UHK 港生活",
-      "published": "2026-07-06T09:05:48+00:00",
-      "summary": "沖涼驚見小凸點中雙重性病！無痛染椰菜花+梅毒 揭中招原因及預防方法&nbsp;&nbsp;UHK 港生活",
+      "id": "a1eb7e48f0f0",
+      "title": "登革熱救星！超特別行業他們竟然靠蚊子維生| 生活 - 三立新聞",
+      "published": "2026-07-07T13:04:10+00:00",
+      "summary": "登革熱救星！超特別行業他們竟然靠蚊子維生| 生活&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxNR0szUzVEUUxMd0U3QXdCWVJpbFFyemlFaXNQMHRyUjVkZjVhSkE1UnlkVUw1OVljQUVIZTVaS005cnppQkw5U1g5UmJ4TXA1aHhLdXNzenJOeEZycWViaFJYeVBmOFFvNFhsUndnTkliVFQtMklMY3U2Y2dQQmtkNmlTWjZrVGtUdU01NWRPaGRMTFlpa0wzRW5vOVpPVWhuQV9BRWFkb05qMTI1V3JuYjFUV2JOMk1QZHpDaE5sbGlEdFNyaXItMWhLNXBnb1ZVdXk0d1JvZEJiVVlkNURBZEN1a25TaUpUWTlBWWllTzJ3NXJlclEyOU1tYk9HSlMwQnBOY3lxbHh5SG1OZHlDQW04M1BpMWdRdkVhWE15QWJrTnczdlhWQjdRbWpvaVlMVzVYc045Q0N5Q2Q5VXNjakM1SHhJWjh1NDc1a3hMTjBBc1lQRlNTQzlvOHMzaVBzak45UHN0eUg4ZmVvQk5jVC1KRjV4aTEyQWpVRVhiYktiZWhsalNuX0I4bVFvOVBn?oc=5"
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5CQkY5YmRNQkdwTlRvUldmYlBxUnRsV0hKSkk4TmRsRm1rVjMxYkt5OXBiamcxUXBHRnVOLUJVazRLcDc3UGZz?oc=5"
         }
       ]
     }
