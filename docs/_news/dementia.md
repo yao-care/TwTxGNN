@@ -3,7 +3,7 @@ layout: default
 title: "阿茲海默症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "阿茲海默症（dementia） 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
+description: "阿茲海默症（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="阿茲海默症（dementia） 有什麼相關新聞？">
-<strong>阿茲海默症（dementia）</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
+<strong>阿茲海默症（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [失智不一定從健忘開始！哈佛900萬人研究：常認路的計程車、救護車司機，阿茲海默症相關死亡率最低](https://news.google.com/rss/articles/CBMioANBVV95cUxQREhockJTSDByM2JZVkZfOFVyeDZ2TnBKU1ZtQ3hqeTBTX01hSVFWa05fZVUtZ3RwbF8teUlYTklZbk5KN1RBQWk2NUdKcFI3Y01CcUpaSG1IODhELUZIQ3gyWTMtVENPSWU0blg0QUc3cGx4QVZLTUpIak5NQlBDcEZKaGJsaEVZLWlZR1BGSmVQTXhtUGQ5R0UxcTQtRjYzQ19WV196QjNsdnQxVWxNbGNRX1huR3BvTmxOdDczMUdwZVhKcnBJRmxTd0hBeWlPLVdTUWZvWmFBa1dVdGd6ZWtDRm1MY3VEcWN3RTBmZzdMUmM4Y3RTYUp1dFZqTldWYXpYSjlqVjU2c0FDTnduV09sMDZzMk50bEVubTJsUDZqWndnWkpKbFRDUmJZN0NZTVBPMVVwMzRXU1ZDbVpseWVyanVsSjhFZmxxbFhVb2stc21tTXNWeExHbFNaSmkyUEcxVnFHU0RTMFk0NmVvWnJlSFJBTk9pdFpHV1U5cXcyR0ZyNUV1dzh1QUtXRjdORVVJLW95ZnZHdVpINHlfVA?oc=5)
 
@@ -52,14 +52,6 @@ permalink: /news/dementia/
 2026-07-06
 
 來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnb08zSldHR0NPc1htcHh4VzBtX0R1cC0xTDhDWWstbVA5bGtPY0l1OHVjUkIwZHpCYlpNSVN3SWFOVEd0aFpqOXFkQWdtb0pVeG5JYjBEbU8?oc=5)
-
----
-
-### [阿茲海默症可能找錯病因 研究揭腦細胞真正崩壞關鍵](https://news.google.com/rss/articles/CBMi6AJBVV95cUxPRzFiam04ckxkdVl6VnpBM2pXbTlTQzJYVDFqVHJDRXVzdE5NYl9ULVRpX3FDOFhJQ05JWGp0QWNyRi0tcGZOdlV1aEdKa1JfQ051Und4UFowNmlJVDJIcENfVUI4S2VKQWtwNF9uSXFIdHJNc1R3b25KRVpjbHZkU213VUU3eW1yN0IxY2RNdVM2VlJibTg3TWpSeHV3RS1YdGlMaF9hSUtFNEhJQTgtWHhaQTJEYTUwUnpLRGJab2c0UkFkUDlER3lZWmdERVVwSlZwQlJ4eVFubkZoazlhLWtyazJWVVE5V2h5OWE2cHFBckphaEpBZGRoMWF1ODNFZl9SRlJyMXNrYklLTjhOYWVSSmc3bExkaHFqUzJUZk9PLUFfdExGQ0FyUnRYTFpiaDJ6cXptR3ZNZ0hiSlAxWTJfOHI4N3dla2VpNEVScy0tMGpWVjYxWDVIREVFSkNUbWFDbTNkV3U?oc=5)
-
-2026-07-06
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi6AJBVV95cUxPRzFiam04ckxkdVl6VnpBM2pXbTlTQzJYVDFqVHJDRXVzdE5NYl9ULVRpX3FDOFhJQ05JWGp0QWNyRi0tcGZOdlV1aEdKa1JfQ051Und4UFowNmlJVDJIcENfVUI4S2VKQWtwNF9uSXFIdHJNc1R3b25KRVpjbHZkU213VUU3eW1yN0IxY2RNdVM2VlJibTg3TWpSeHV3RS1YdGlMaF9hSUtFNEhJQTgtWHhaQTJEYTUwUnpLRGJab2c0UkFkUDlER3lZWmdERVVwSlZwQlJ4eVFubkZoazlhLWtyazJWVVE5V2h5OWE2cHFBckphaEpBZGRoMWF1ODNFZl9SRlJyMXNrYklLTjhOYWVSSmc3bExkaHFqUzJUZk9PLUFfdExGQ0FyUnRYTFpiaDJ6cXptR3ZNZ0hiSlAxWTJfOHI4N3dla2VpNEVScy0tMGpWVjYxWDVIREVFSkNUbWFDbTNkV3U?oc=5)
 
 ---
 

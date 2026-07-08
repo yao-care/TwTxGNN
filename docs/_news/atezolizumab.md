@@ -14,7 +14,7 @@ permalink: /news/atezolizumab/
 ---
 
 <p class="key-answer" data-question="Atezolizumab 有什麼相關新聞？">
-<strong>Atezolizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Atezolizumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,9 @@ permalink: /news/atezolizumab/
 <p><a href="{{ '/drugs/atezolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [醫華生技CytoAurora 攜手泰國國家癌症研究所簽署戰略合作協議！引進 iPSC 與 CTC 尖端技術，全面佈局東協精準醫療藍圖](https://news.google.com/rss/articles/CBMi3wJBVV95cUxQZlRmN2tVdm1MMGhqalJwWEFXT1ZDNnBjUnZKRkFOY2d0NW81RERnLUl0QWxEX295bHJDeXBDbThZcWY3T2FvUUdhanZpMEhTZXl5YkM3VHdWVktZeUVoSTRzUzA5OHpwVGVhWjVuWk5iRk5xUUY5LWpxbmE0ZjQyWW8zTEIzUF9Cakc3bHhKWnFpQlpTaFNIV2VTNktyX3RiVy04QUhEM1ppTTdLT25UV25yTGZpM0dGbDNBQjJJS29STzNRNXk5T0VoR0VyQl9BX1VzV2R4U1ZMcFJYRDBwSXZ1WW44WlhlQm4xV19EUVlVTkR6b3c0RHN1TDBFa3RQSEcwZ21oTzFITllqM0lmTVBhSEJlYUVSalpiZ3d4MTBINW9rbEhLeGRTeU5rVUhsc2dlMXl2QjVlMGFXcjlaV0dYMVhiRWdQVWR3M2pjWnNQbEx5alBxa3NibndXbWs?oc=5)
-
-2026-07-06 <span class="news-indication-tag">癌症</span>
-
-來源：[行銷人](https://news.google.com/rss/articles/CBMi3wJBVV95cUxQZlRmN2tVdm1MMGhqalJwWEFXT1ZDNnBjUnZKRkFOY2d0NW81RERnLUl0QWxEX295bHJDeXBDbThZcWY3T2FvUUdhanZpMEhTZXl5YkM3VHdWVktZeUVoSTRzUzA5OHpwVGVhWjVuWk5iRk5xUUY5LWpxbmE0ZjQyWW8zTEIzUF9Cakc3bHhKWnFpQlpTaFNIV2VTNktyX3RiVy04QUhEM1ppTTdLT25UV25yTGZpM0dGbDNBQjJJS29STzNRNXk5T0VoR0VyQl9BX1VzV2R4U1ZMcFJYRDBwSXZ1WW44WlhlQm4xV19EUVlVTkR6b3c0RHN1TDBFa3RQSEcwZ21oTzFITllqM0lmTVBhSEJlYUVSalpiZ3d4MTBINW9rbEhLeGRTeU5rVUhsc2dlMXl2QjVlMGFXcjlaV0dYMVhiRWdQVWR3M2pjWnNQbEx5alBxa3NibndXbWs?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/berberine/
 ---
 
 <p class="key-answer" data-question="Berberine 有什麼相關新聞？">
-<strong>Berberine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Berberine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/berberine/
 <p><a href="{{ '/drugs/berberine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [一種疫苗可望防多種致命腹瀉 研究找到病菌共同弱點](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PMXNHc1FGSDFDcnFQa0c0LXhWUlljWDl4aGlhcElXRWJkbEpKank4OFZQSFdFV2Y5MlpOcHR2bXItUkdtOUprLThpSDZoX3A1SGlsSGdodGYycDk2Wm5oVnJ0eHbSAWpBVV95cUxQVGFPX1Q3YURXNE5UUnNrVHdJU3M4VDc3OFhXY1hEU3NFTXpxQ2FDX2JVZ20yN2s2dTlpYkZjNTFJT3FPMWJPSnBSZjhET3VpZzdITG9KTVF1TERrTzRpRXlOck1LWC1OaXh3?oc=5)
 
 2026-07-06 <span class="news-indication-tag">腹瀉</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PMXNHc1FGSDFDcnFQa0c0LXhWUlljWDl4aGlhcElXRWJkbEpKank4OFZQSFdFV2Y5MlpOcHR2bXItUkdtOUprLThpSDZoX3A1SGlsSGdodGYycDk2Wm5oVnJ0eHbSAWpBVV95cUxQVGFPX1Q3YURXNE5UUnNrVHdJU3M4VDc3OFhXY1hEU3NFTXpxQ2FDX2JVZ20yN2s2dTlpYkZjNTFJT3FPMWJPSnBSZjhET3VpZzdITG9KTVF1TERrTzRpRXlOck1LWC1OaXh3?oc=5)
-
----
-
-### [醫華生技CytoAurora 攜手泰國國家癌症研究所簽署戰略合作協議！引進 iPSC 與 CTC 尖端技術，全面佈局東協精準醫療藍圖](https://news.google.com/rss/articles/CBMi3wJBVV95cUxQZlRmN2tVdm1MMGhqalJwWEFXT1ZDNnBjUnZKRkFOY2d0NW81RERnLUl0QWxEX295bHJDeXBDbThZcWY3T2FvUUdhanZpMEhTZXl5YkM3VHdWVktZeUVoSTRzUzA5OHpwVGVhWjVuWk5iRk5xUUY5LWpxbmE0ZjQyWW8zTEIzUF9Cakc3bHhKWnFpQlpTaFNIV2VTNktyX3RiVy04QUhEM1ppTTdLT25UV25yTGZpM0dGbDNBQjJJS29STzNRNXk5T0VoR0VyQl9BX1VzV2R4U1ZMcFJYRDBwSXZ1WW44WlhlQm4xV19EUVlVTkR6b3c0RHN1TDBFa3RQSEcwZ21oTzFITllqM0lmTVBhSEJlYUVSalpiZ3d4MTBINW9rbEhLeGRTeU5rVUhsc2dlMXl2QjVlMGFXcjlaV0dYMVhiRWdQVWR3M2pjWnNQbEx5alBxa3NibndXbWs?oc=5)
-
-2026-07-06 <span class="news-indication-tag">癌症</span>
-
-來源：[行銷人](https://news.google.com/rss/articles/CBMi3wJBVV95cUxQZlRmN2tVdm1MMGhqalJwWEFXT1ZDNnBjUnZKRkFOY2d0NW81RERnLUl0QWxEX295bHJDeXBDbThZcWY3T2FvUUdhanZpMEhTZXl5YkM3VHdWVktZeUVoSTRzUzA5OHpwVGVhWjVuWk5iRk5xUUY5LWpxbmE0ZjQyWW8zTEIzUF9Cakc3bHhKWnFpQlpTaFNIV2VTNktyX3RiVy04QUhEM1ppTTdLT25UV25yTGZpM0dGbDNBQjJJS29STzNRNXk5T0VoR0VyQl9BX1VzV2R4U1ZMcFJYRDBwSXZ1WW44WlhlQm4xV19EUVlVTkR6b3c0RHN1TDBFa3RQSEcwZ21oTzFITllqM0lmTVBhSEJlYUVSalpiZ3d4MTBINW9rbEhLeGRTeU5rVUhsc2dlMXl2QjVlMGFXcjlaV0dYMVhiRWdQVWR3M2pjWnNQbEx5alBxa3NibndXbWs?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkhaN3RSWjBzbFRQQVBfb01VZEs2dFFuVnR3UlBkUy1Sc3lXaTduekRtdGpVUmhJUnN1QUFYOWRfbEUwSWdqZDdLSE5iaGtkWkhvanhVZy1JYXVUb0FsQWdSZm1lLTRVcGFobnVUMXVnY05SMTdYSUtpNzVJZ2pBWG01YWdfdndiM0RlNTNqNTVJbnM?oc=5)
 
 2026-07-07 <span class="news-indication-tag">鏈球菌</span>
 
 來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkhaN3RSWjBzbFRQQVBfb01VZEs2dFFuVnR3UlBkUy1Sc3lXaTduekRtdGpVUmhJUnN1QUFYOWRfbEUwSWdqZDdLSE5iaGtkWkhvanhVZy1JYXVUb0FsQWdSZm1lLTRVcGFobnVUMXVnY05SMTdYSUtpNzVJZ2pBWG01YWdfdndiM0RlNTNqNTVJbnM?oc=5)
-
----
-
-### [醫華生技CytoAurora 攜手泰國國家癌症研究所簽署戰略合作協議！引進 iPSC 與 CTC 尖端技術，全面佈局東協精準醫療藍圖](https://news.google.com/rss/articles/CBMi3wJBVV95cUxQZlRmN2tVdm1MMGhqalJwWEFXT1ZDNnBjUnZKRkFOY2d0NW81RERnLUl0QWxEX295bHJDeXBDbThZcWY3T2FvUUdhanZpMEhTZXl5YkM3VHdWVktZeUVoSTRzUzA5OHpwVGVhWjVuWk5iRk5xUUY5LWpxbmE0ZjQyWW8zTEIzUF9Cakc3bHhKWnFpQlpTaFNIV2VTNktyX3RiVy04QUhEM1ppTTdLT25UV25yTGZpM0dGbDNBQjJJS29STzNRNXk5T0VoR0VyQl9BX1VzV2R4U1ZMcFJYRDBwSXZ1WW44WlhlQm4xV19EUVlVTkR6b3c0RHN1TDBFa3RQSEcwZ21oTzFITllqM0lmTVBhSEJlYUVSalpiZ3d4MTBINW9rbEhLeGRTeU5rVUhsc2dlMXl2QjVlMGFXcjlaV0dYMVhiRWdQVWR3M2pjWnNQbEx5alBxa3NibndXbWs?oc=5)
-
-2026-07-06 <span class="news-indication-tag">癌症</span>
-
-來源：[行銷人](https://news.google.com/rss/articles/CBMi3wJBVV95cUxQZlRmN2tVdm1MMGhqalJwWEFXT1ZDNnBjUnZKRkFOY2d0NW81RERnLUl0QWxEX295bHJDeXBDbThZcWY3T2FvUUdhanZpMEhTZXl5YkM3VHdWVktZeUVoSTRzUzA5OHpwVGVhWjVuWk5iRk5xUUY5LWpxbmE0ZjQyWW8zTEIzUF9Cakc3bHhKWnFpQlpTaFNIV2VTNktyX3RiVy04QUhEM1ppTTdLT25UV25yTGZpM0dGbDNBQjJJS29STzNRNXk5T0VoR0VyQl9BX1VzV2R4U1ZMcFJYRDBwSXZ1WW44WlhlQm4xV19EUVlVTkR6b3c0RHN1TDBFa3RQSEcwZ21oTzFITllqM0lmTVBhSEJlYUVSalpiZ3d4MTBINW9rbEhLeGRTeU5rVUhsc2dlMXl2QjVlMGFXcjlaV0dYMVhiRWdQVWR3M2pjWnNQbEx5alBxa3NibndXbWs?oc=5)
 
 ---
 
