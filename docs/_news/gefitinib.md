@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [失智不一定從健忘開始！哈佛900萬人研究：常認路的計程車、救護車司機，阿茲海默症相關死亡率最低](https://news.google.com/rss/articles/CBMioANBVV95cUxQREhockJTSDByM2JZVkZfOFVyeDZ2TnBKU1ZtQ3hqeTBTX01hSVFWa05fZVUtZ3RwbF8teUlYTklZbk5KN1RBQWk2NUdKcFI3Y01CcUpaSG1IODhELUZIQ3gyWTMtVENPSWU0blg0QUc3cGx4QVZLTUpIak5NQlBDcEZKaGJsaEVZLWlZR1BGSmVQTXhtUGQ5R0UxcTQtRjYzQ19WV196QjNsdnQxVWxNbGNRX1huR3BvTmxOdDczMUdwZVhKcnBJRmxTd0hBeWlPLVdTUWZvWmFBa1dVdGd6ZWtDRm1MY3VEcWN3RTBmZzdMUmM4Y3RTYUp1dFZqTldWYXpYSjlqVjU2c0FDTnduV09sMDZzMk50bEVubTJsUDZqWndnWkpKbFRDUmJZN0NZTVBPMVVwMzRXU1ZDbVpseWVyanVsSjhFZmxxbFhVb2stc21tTXNWeExHbFNaSmkyUEcxVnFHU0RTMFk0NmVvWnJlSFJBTk9pdFpHV1U5cXcyR0ZyNUV1dzh1QUtXRjdORVVJLW95ZnZHdVpINHlfVA?oc=5)
 
@@ -51,19 +51,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [護腦不只靠飲食、運動！研究指白天多做一件事，更能降失智風險| 大腦健康| 失智](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GU2hXSkIybTFBdGJ2SmY3aDZLOEZNVTl0T01LdGZLVzlFbkRmREhjcVBDeldEd2lpaHhieExWYkc0WFlXeS1YMTBId2NiendSMl9FTTU1LTVjaHVUNm41S013TQ?oc=5)
+### [90多歲仍未失智　醫師曝關鍵：起床30分鐘內「都先做這事」](https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yb09GMkktUHlFdktCWkZuUU1xV3JhQXowQ0w3MEN6aVlSam5nWWp1cF9Fem9sNE5wclZ6YmJiVExOYmd2ZlNZRtIBTEFVX3lxTE1WYlgyc182YmhuUnZMSWY5Z3RPd1lHMV8yX0RfOG1kMGhXTlJyZnFZMVp6UE9taDdSVE82d1d6bEZraVhZM1ZSV2VRLWw?oc=5)
 
 2026-07-06 <span class="news-indication-tag">失智</span>
 
-來源：[元氣網](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GU2hXSkIybTFBdGJ2SmY3aDZLOEZNVTl0T01LdGZLVzlFbkRmREhjcVBDeldEd2lpaHhieExWYkc0WFlXeS1YMTBId2NiendSMl9FTTU1LTVjaHVUNm41S013TQ?oc=5)
-
----
-
-### [每天喝咖啡可護肝？研究：即便大量飲用 肝病與肝癌風險仍較低 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnb08zSldHR0NPc1htcHh4VzBtX0R1cC0xTDhDWWstbVA5bGtPY0l1OHVjUkIwZHpCYlpNSVN3SWFOVEd0aFpqOXFkQWdtb0pVeG5JYjBEbU8?oc=5)
-
-2026-07-06 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">肝癌</span>
-
-來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnb08zSldHR0NPc1htcHh4VzBtX0R1cC0xTDhDWWstbVA5bGtPY0l1OHVjUkIwZHpCYlpNSVN3SWFOVEd0aFpqOXFkQWdtb0pVeG5JYjBEbU8?oc=5)
+來源：[三立新聞](https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yb09GMkktUHlFdktCWkZuUU1xV3JhQXowQ0w3MEN6aVlSam5nWWp1cF9Fem9sNE5wclZ6YmJiVExOYmd2ZlNZRtIBTEFVX3lxTE1WYlgyc182YmhuUnZMSWY5Z3RPd1lHMV8yX0RfOG1kMGhXTlJyZnFZMVp6UE9taDdSVE82d1d6bEZraVhZM1ZSV2VRLWw?oc=5)
 
 ---
 

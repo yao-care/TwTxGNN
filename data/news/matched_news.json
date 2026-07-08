@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-08T05:13:14.697065+00:00",
-  "total_count": 37,
-  "matched_count": 8,
+  "last_updated": "2026-07-08T08:09:25.098867+00:00",
+  "total_count": 33,
+  "matched_count": 7,
   "news": [
     {
       "id": "46f07f86298a",
@@ -55,14 +55,14 @@
       "matched_keywords": []
     },
     {
-      "id": "8fd52be3da47",
-      "title": "杭州男每日平均瞓夠7小時仍3年兩度腦梗 醫生揭「周末補眠」 未必補得返",
-      "published": "2026-07-07T23:00:19+00:00",
-      "summary": "杭州男每日平均瞓夠7小時仍3年兩度腦梗 醫生揭「周末補眠」 未必補得返&nbsp;&nbsp;bastillepost.com",
+      "id": "83b90195e61a",
+      "title": "多種病痛都從身體發炎來 養成六個早晨習慣能有效預防",
+      "published": "2026-07-08T00:25:49+00:00",
+      "summary": "多種病痛都從身體發炎來 養成六個早晨習慣能有效預防&nbsp;&nbsp;世界新聞網防癌從餐桌做起醫教3招抗發炎：實測吃魚1周就有感- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "bastillepost.com",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNcEFEcWkyOGtpeWZVaVJ1c0QzZ1ZOSnZYZFBYaWF5bnJhWGotVTRJN0JqeGZxeTRBOTFfLTFRaHdnbkk5bEdmUjZmQ2k1cUJ2VWxXYWdwRHhOREY5djhfeThOUFJlQkZkTWNaeUJmVnJwWElUazZBUFN3bHJJV3BDRW9OWmtSdWVUdjM5akZPRGN0RUd6VFFnd2NKYkc4cmxvc215WFFmNTNLSTJsdmtLVWZvV1Q2NDNKUWRkcXNjWTFHbXdITWRJNmVIaVoyU0J5MGliUElRTWZsY0dZazJEMGkzeXlvZ2RoeWdyS2hnUDFpMHp2dGxEeVRneVNHTmJILWdYbGNaazdYa0thUEJQcXROeVllZlVIbTJUREQ4WmREZDdKMmJOV1dxSnVGY2hzSGoxRFJXWFYtaGM1a2QwVC1hYkhjczBrWjUya00xdkhvWlZoOTNVS0xHZ0UyOXRfVjJJRlJR?oc=5"
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiUjk2SnZEOEk0X3pKYzB6b1RyQUVoVzB3NWZkM1E4NE5TTGxuQ1NiakZCZ2Q3MzBNZlhmaXNFcnc0alpSUDJ4dGZMSURoaDFDTmZGZjQxOG1ja2xzMjRIYkxR0gFnQVVfeXFMT25KZk9wZkNHenRDRW1zZHg5dnRyWnFHX0pMSDEta3BoMHVSOEo0cWN3LVNRbklzZVB2NmFLa1ZRMUhPNmQ5c21mZEV3Y2w3UzltQUhhSEZVaFRxUlBBZ0pHUWJYb2M1OA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -107,14 +107,14 @@
       "matched_keywords": []
     },
     {
-      "id": "ef5bd4abffb9",
+      "id": "6c75aa2a98fd",
       "title": "減重不單靠算卡路里 專家教你如何應對",
       "published": "2026-07-07T16:19:07+00:00",
-      "summary": "減重不單靠算卡路里 專家教你如何應對&nbsp;&nbsp;Singtaousa減肥總是失敗？控制體重只算熱量夠嗎，專家解析關鍵真相 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞健康驛站｜BMI標準下調，你“被肥胖”了嗎&nbsp;&nbsp;紫荊網一直算卡路里卻瘦不下來？真正讓人發胖的不是熱量，而是胰島素- 書房&nbsp;&nbsp;工商時報",
+      "summary": "減重不單靠算卡路里 專家教你如何應對&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUlowQUJvZlN3V1ZmSWtmWnZSNzc0elI4UlhRTjFSQXJtMVpmbjVwd1ZvbDZrbGVubVhGTGNOTVhrekE0VFRUQUVjRVVzZkFtYWtYZV9ERGlmcTB1RnlGSVhGSENiN05XNjB3dFlBWlFBdVl5RG41czRXbms5NHc0VV9fZTdGYjliTjgzS0JDanZvdmtQbkdFVl81V2RQa3NndlIyQ2Fn?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQnVxWTZkQ1FzZVprOW9jZUoyeTZyOUZ5VjBTQl82STd2RVBEU2ltZFI1ZUZWRV8tN1NCWjFXbEctV1hwNzRjUWFhNkpxNER4SndWOHBNZjZIVkVHMGxSTnZBMnFLaHNQeWsteWFneWFUaGVzVF9sRmp1bHdGbXNLX0RBMWlmOTRabldMT040WmxUT3NreGxhUzFNN2Q?oc=5"
         }
       ],
       "matched_keywords": []
@@ -172,19 +172,6 @@
       "matched_keywords": []
     },
     {
-      "id": "a03bfc790337",
-      "title": "自律過頭反傷身！5個你以為的「健康習慣」加劇慢性發炎 運動、節食都上榜",
-      "published": "2026-07-07T08:50:29+00:00",
-      "summary": "自律過頭反傷身！5個你以為的「健康習慣」加劇慢性發炎 運動、節食都上榜&nbsp;&nbsp;元氣網多種病痛都從身體發炎來 養成六個早晨習慣能有效預防&nbsp;&nbsp;世界新聞網防癌從餐桌做起醫教3招抗發炎：實測吃魚1周就有感- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uU3N3bmQtN2x3eWRiWllZamhXSldGMEdHbEdTQ01QMUg4cG1wamZjbmV4TTNiUXZEd0tfMkk5U0l6STdrcnkxMjFlcTh4MFdzREVBYmpjYlNIeTE4RFZZWDl30gFiQVVfeXFMTW5Tc3duZC03bHd5ZGJaWVlqaFdKV0YwR0dsR1NDTVAxSDhwbXBqZmNuZXhNM2JRdkR3S18ySTlTSXpJN2tyeTEyMWVxOHgwV3NERUFiamNiU0h5MThEVllYOXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "6bf5e9f5a67f",
       "title": "抓破蚊爛隨時喪命？港女染蜂窩組織炎行唔到 醫生揭2類人極高危促即求醫 - UHK 港生活",
       "published": "2026-07-07T08:46:57+00:00",
@@ -196,6 +183,35 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "011a10e83d61",
+      "title": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 | 健康元氣 | 商情",
+      "published": "2026-07-07T08:02:20+00:00",
+      "summary": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報五成侵襲性肺炎患者為青壯年！專家籲接種肺炎鏈球菌疫苗 降低感染&nbsp;&nbsp;聯合新聞網成人也得小心肺炎鏈球菌！醫揭：選對「血清型」成精準防重症關鍵&nbsp;&nbsp;三立新聞不只長者要打 醫師示警慢性病青壯年肺炎重症風險飆升&nbsp;&nbsp;Yahoo新聞肺炎鏈球菌疫苗怎麼選？醫揭「血清型置換」新趨勢：成人預防已從兩劑混打走向單劑&nbsp;&nbsp;良醫健康網",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ycC1BTHFmQ243eGRteWZjMjJHdEYycndUMVNzVWFTSmg1MWFDb29udmdHNXcwZVd1RWJqVFRWZmJiWEs0Mi1CUzlzQnc1U1lYQ2JweU9faDRPQXc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "e1a85d3c75d9",
@@ -253,35 +269,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "903ec67f4197",
-      "title": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 - PChome Online 新聞",
-      "published": "2026-07-07T06:43:14+00:00",
-      "summary": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵&nbsp;&nbsp;PChome Online 新聞五成侵襲性肺炎患者為青壯年！專家籲接種肺炎鏈球菌疫苗 降低感染&nbsp;&nbsp;聯合新聞網成人也得小心肺炎鏈球菌！醫揭：選對「血清型」成精準防重症關鍵&nbsp;&nbsp;三立新聞不只長者要打 醫師示警慢性病青壯年肺炎重症風險飆升&nbsp;&nbsp;Yahoo新聞肺炎鏈球菌疫苗怎麼選？醫揭「血清型置換」新趨勢：成人預防已從兩劑混打走向單劑&nbsp;&nbsp;良醫健康網",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkhaN3RSWjBzbFRQQVBfb01VZEs2dFFuVnR3UlBkUy1Sc3lXaTduekRtdGpVUmhJUnN1QUFYOWRfbEUwSWdqZDdLSE5iaGtkWkhvanhVZy1JYXVUb0FsQWdSZm1lLTRVcGFobnVUMXVnY05SMTdYSUtpNzVJZ2pBWG01YWdfdndiM0RlNTNqNTVJbnM?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
             }
           ]
         }
@@ -565,7 +552,7 @@
       "id": "bdc2c65ab948",
       "title": "【灣區新聞】Contra Costa縣有野生美州烏鴉感染西尼羅病毒",
       "published": "2026-07-06T15:40:51+00:00",
-      "summary": "【灣區新聞】Contra Costa縣有野生美州烏鴉感染西尼羅病毒&nbsp;&nbsp;KTSF.com西尼羅病毒蚊擴散 南加更多城市淪陷&nbsp;&nbsp;Singtaousa西尼羅病毒感染 沙縣出現今年首例確診&nbsp;&nbsp;世界新聞網加州首現西尼羅熱 55歲以上重症風險高&nbsp;&nbsp;世界新聞網人類感染西尼羅病毒 沙加緬度縣今年首宗&nbsp;&nbsp;Singtaousa",
+      "summary": "【灣區新聞】Contra Costa縣有野生美州烏鴉感染西尼羅病毒&nbsp;&nbsp;KTSF.com西尼羅病毒蚊擴散 南加更多城市淪陷&nbsp;&nbsp;Singtaousa西尼羅病毒感染 沙縣出現今年首例確診&nbsp;&nbsp;世界新聞網加州首現西尼羅熱 55歲以上重症風險高&nbsp;&nbsp;世界新聞網加州爆今年首例西尼羅病毒感染 55歲以上重症風險高&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
           "name": "KTSF.com",
@@ -575,14 +562,14 @@
       "matched_keywords": []
     },
     {
-      "id": "4c700ad32b93",
-      "title": "8千人研究「規律運動+1件事」甩高血脂 黃金公式曝",
-      "published": "2026-07-06T13:09:43+00:00",
-      "summary": "8千人研究「規律運動+1件事」甩高血脂 黃金公式曝&nbsp;&nbsp;三立新聞",
+      "id": "56afd2662801",
+      "title": "8千人研究「規律運動+1件事」甩高血脂 - 鏡週刊Mirror Media",
+      "published": "2026-07-06T13:09:00+00:00",
+      "summary": "8千人研究「規律運動+1件事」甩高血脂&nbsp;&nbsp;鏡週刊Mirror Media",
       "sources": [
         {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE43WVBHR1E3RnpuTE1tQlptNmVIRmVuRXZEQzV6RTV4cFJtU19vQnBVVGRPLVdnR0NuMTluRk81MHBxQmpvVjBtV3c0cDM?oc=5"
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxZ3NGa2lDX1I2d19IZFFzU3lhNFRpdWcyTXVVRHVmNmpWdVdWbEUxcTNTdVZLeFl1ZXR6RkJIdTNkWTNwWEVsZnRhbkdXOVR3VU9udDdJSEJYdjd60gFiQVVfeXFMT3JEM1AwQ1JNRk8yZ0Vfbndmc01pcm9SazhTYXdHbGllZWJTbUpJaEt3Wjl3aXQ5cS0wY1ZNMGQtUVBrUGh6dUhoNzh3UVBYUjJyTlZRZVo5MTRSODJ3aW5RTmc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -613,6 +600,31 @@
       ]
     },
     {
+      "id": "b6bac51a9a97",
+      "title": "90多歲仍未失智　醫師曝關鍵：起床30分鐘內「都先做這事」",
+      "published": "2026-07-06T09:22:00+00:00",
+      "summary": "90多歲仍未失智 醫師曝關鍵：起床30分鐘內「都先做這事」&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yb09GMkktUHlFdktCWkZuUU1xV3JhQXowQ0w3MEN6aVlSam5nWWp1cF9Fem9sNE5wclZ6YmJiVExOYmd2ZlNZRtIBTEFVX3lxTE1WYlgyc182YmhuUnZMSWY5Z3RPd1lHMV8yX0RfOG1kMGhXTlJyZnFZMVp6UE9taDdSVE82d1d6bEZraVhZM1ZSV2VRLWw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "75597cc6fff2",
       "title": "沖涼驚見小凸點中雙重性病！無痛染椰菜花+梅毒 揭中招原因及預防方法 - UHK 港生活",
       "published": "2026-07-06T09:05:48+00:00",
@@ -621,152 +633,6 @@
         {
           "name": "UHK 港生活",
           "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxNR0szUzVEUUxMd0U3QXdCWVJpbFFyemlFaXNQMHRyUjVkZjVhSkE1UnlkVUw1OVljQUVIZTVaS005cnppQkw5U1g5UmJ4TXA1aHhLdXNzenJOeEZycWViaFJYeVBmOFFvNFhsUndnTkliVFQtMklMY3U2Y2dQQmtkNmlTWjZrVGtUdU01NWRPaGRMTFlpa0wzRW5vOVpPVWhuQV9BRWFkb05qMTI1V3JuYjFUV2JOMk1QZHpDaE5sbGlEdFNyaXItMWhLNXBnb1ZVdXk0d1JvZEJiVVlkNURBZEN1a25TaUpUWTlBWWllTzJ3NXJlclEyOU1tYk9HSlMwQnBOY3lxbHh5SG1OZHlDQW04M1BpMWdRdkVhWE15QWJrTnczdlhWQjdRbWpvaVlMVzVYc045Q0N5Q2Q5VXNjakM1SHhJWjh1NDc1a3hMTjBBc1lQRlNTQzlvOHMzaVBzak45UHN0eUg4ZmVvQk5jVC1KRjV4aTEyQWpVRVhiYktiZWhsalNuX0I4bVFvOVBn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1a136655bccf",
-      "title": "護腦不只靠飲食、運動！研究指白天多做一件事，更能降失智風險| 大腦健康| 失智",
-      "published": "2026-07-06T08:20:56+00:00",
-      "summary": "護腦不只靠飲食、運動！研究指白天多做一件事，更能降失智風險| 大腦健康| 失智&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GU2hXSkIybTFBdGJ2SmY3aDZLOEZNVTl0T01LdGZLVzlFbkRmREhjcVBDeldEd2lpaHhieExWYkc0WFlXeS1YMTBId2NiendSMl9FTTU1LTVjaHVUNm41S013TQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "fc573cf78774",
-      "title": "每天喝咖啡可護肝？研究：即便大量飲用 肝病與肝癌風險仍較低 - Taiwan News",
-      "published": "2026-07-06T07:31:00+00:00",
-      "summary": "每天喝咖啡可護肝？研究：即便大量飲用 肝病與肝癌風險仍較低&nbsp;&nbsp;Taiwan News咖啡不只提神醒腦！研究揭護肝關鍵：無咖啡因也可能有幫助｜聰明飲食｜養生&nbsp;&nbsp;元氣網發炎｜長期熬夜靠咖啡吊命恐致癌 失智 心臟病 醫生教4招身體抗炎降負擔&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnb08zSldHR0NPc1htcHh4VzBtX0R1cC0xTDhDWWstbVA5bGtPY0l1OHVjUkIwZHpCYlpNSVN3SWFOVEd0aFpqOXFkQWdtb0pVeG5JYjBEbU8?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "liver sarcoma",
-          "keyword": "肝癌",
-          "related_drugs": [
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e1e8f1a819a4",
-      "title": "她每天日行萬步骨密度卻只有-2.5！專家揭真相 1招喚醒骨細胞、防骨鬆 - TVBS 健康2.0",
-      "published": "2026-07-06T06:38:00+00:00",
-      "summary": "她每天日行萬步骨密度卻只有-2.5！專家揭真相 1招喚醒骨細胞、防骨鬆&nbsp;&nbsp;TVBS 健康2.0健康網》不打針、不吃藥！骨科醫靠這6招顧骨本 練肌肉推這動作&nbsp;&nbsp;自由健康網采風智匯AI骨質疏鬆輔助分析軟體獲FDA上市許可- 商情&nbsp;&nbsp;工商時報她每天日行萬步骨密度卻只有-2.5！專家揭真相1招喚醒骨細胞、防骨鬆- 營養好食&nbsp;&nbsp;TVBS 健康2.0咳嗽照X光竟揪出早已「骨鬆」！ AI提前發現骨折危機&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTWXZfaUh3NUNFdlhjNWlRWmFTOGFlR0xJNmJwaFpZdmZvSGdEQTQ3c3d0UjBBRFFIMkNScmpsSjM1WnpGVFNDZXo1NXRJbHRfajlB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1c72bf5ca1fc",
-      "title": "癌細胞竟會「裝睡」躲治療 研究找到方法叫醒再殺死",
-      "published": "2026-07-06T06:01:00+00:00",
-      "summary": "癌細胞竟會「裝睡」躲治療 研究找到方法叫醒再殺死&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FckQyMThORWM1WThab3Z0Q09MTUdZUmpEVHlPdU9kZm5SWmFlMkZfMGQ2R1ZTazN2R1VWRzR6NnU1MnRzZW5JYVJ2OFJtTHQxUEowQkdKTExPYURoTWZsQktWa3PSAWpBVV95cUxQajJ4dy1FMG92TGN6X05yUXpSaHowS1kzajJ3TFJaSnUxbzE3R0tEM2lRc3MwcmhBWVNBZUVyZWZpcmxFRG91eXhpbDVyX0p4bEhGZXVWT05zVjktZ2tRWjlCTzJ2ajBlNlVB?oc=5"
         }
       ],
       "matched_keywords": []
