@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-08T20:57:23.710786+00:00",
-  "count": 32,
+  "fetched_at": "2026-07-08T22:03:03.048562+00:00",
+  "count": 31,
   "news": [
     {
       "id": "12a9f788defc",
@@ -12,6 +12,18 @@
         {
           "name": "東森新聞",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jWE9NbHI1V2xIYlJQemNZSGlLN3lFTkFya2Y5amRIWHdMRFNXZFFpNk9IOHhkYnM0MnZSRUlJV3E5eUNQdXctOHBIMnNPbmlNWHlteA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "83b90195e61a",
+      "title": "多種病痛都從身體發炎來 養成六個早晨習慣能有效預防 - 世界新聞網",
+      "published": "2026-07-08T00:25:49+00:00",
+      "summary": "多種病痛都從身體發炎來 養成六個早晨習慣能有效預防&nbsp;&nbsp;世界新聞網每天喝咖啡可護肝？研究：即便大量飲用 肝病與肝癌風險仍較低&nbsp;&nbsp;Taiwan News咖啡不只提神醒腦！研究揭護肝關鍵：無咖啡因也可能有幫助&nbsp;&nbsp;元氣網發炎｜長期熬夜靠咖啡吊命恐致癌 失智 心臟病 醫生教4招身體抗炎降負擔&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiUjk2SnZEOEk0X3pKYzB6b1RyQUVoVzB3NWZkM1E4NE5TTGxuQ1NiakZCZ2Q3MzBNZlhmaXNFcnc0alpSUDJ4dGZMSURoaDFDTmZGZjQxOG1ja2xzMjRIYkxR0gFnQVVfeXFMT25KZk9wZkNHenRDRW1zZHg5dnRyWnFHX0pMSDEta3BoMHVSOEo0cWN3LVNRbklzZVB2NmFLa1ZRMUhPNmQ5c21mZEV3Y2w3UzltQUhhSEZVaFRxUlBBZ0pHUWJYb2M1OA?oc=5"
         }
       ]
     },
@@ -64,18 +76,6 @@
       ]
     },
     {
-      "id": "2c99a291db24",
-      "title": "男性健康｜「戒色」有助提高性能力？３個習慣才是睾丸素飆升關鍵 - 香港01",
-      "published": "2026-07-08T14:00:32+00:00",
-      "summary": "男性健康｜「戒色」有助提高性能力？３個習慣才是睾丸素飆升關鍵&nbsp;&nbsp;香港01健康網》禁慾沒用！ 醫曝3件無聊小事真正助攻男性雄風&nbsp;&nbsp;自由健康網睡不飽害不舉！實測20歲男熬夜1星期雄性素慘如老翁- 健康&nbsp;&nbsp;中時新聞網禁慾換不到雄風！ 醫破都市傳說：其實只要做對3件事 | 鏡週刊&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOSmRZdkF4U2JhWEpnczVWNFFaN3FUWk1sYlVDQ1V2bDVYbDh4Q1R3TXJrUnNWSUJBamdFZ1JqdGZFWkFnMWc2MWw4UnhBUmx4dHpqWTlNUHdQb3ZBYk9PSnJPaERUajk4bnNtaU9VcjFHaVFpRjBXUnIzMlJVOEhDcndqb0ZPS2RwSmNUNFRQX2s0VlBVWGVDV19HeVFzbU10a0drTnBTRlBZTmtGOXVPUF9iVXpZcXZWTVUxbUh0cjQyS3RicTFYaE94bDhMSjhYRlFBSm56RFNMZkdfUWd6MmhZdmJGNU81cXVMZmNIMkxyTFJGTVFRdEQybEFORUdaU2w5NGV4d2pTR3VLTU9NemJ0N2VVZnRLbDVfTHV4NWJ6LU5wSnFnRzdNWjcweFQ1WjBGclJTX1VDdGNabmtsVjZCbHNtTmR3SnB6MkVxUWxwbWVlV0pILWRDand5bXZRZlVLRUF0b0xDVi1CUkl2MVJlV3BtcnY0bzRnR1hFVzl2Y3lKVGhKX3ByY1NpT0pJM0tlU1M4a0dQUlFvbE5B?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9d5d09f9bde5",
       "title": "《別怕荷爾蒙，妳抗衰防病的關鍵》怕乳癌卻輕忽心臟病？奪走女性性命頭號殺手死亡人數竟是乳癌6倍 - 台灣好報",
       "published": "2026-07-07T02:25:04+00:00",
@@ -84,6 +84,18 @@
         {
           "name": "台灣好報",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ORlZtZ2Z0NFptWF9OTEVOY09VSGZwWktBZUdQVGtzM0M5bmN1Z0MybXVzdmg0cFFUQ1NpWXIybXBLUzhNMDlxcUk0NW5KRWh2R01v?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2c99a291db24",
+      "title": "男性健康｜「戒色」有助提高性能力？３個習慣才是睾丸素飆升關鍵 - 香港01",
+      "published": "2026-07-08T14:00:32+00:00",
+      "summary": "男性健康｜「戒色」有助提高性能力？３個習慣才是睾丸素飆升關鍵&nbsp;&nbsp;香港01健康網》禁慾沒用！ 醫曝3件無聊小事真正助攻男性雄風&nbsp;&nbsp;自由健康網睡不飽害不舉！實測20歲男熬夜1星期雄性素慘如老翁- 健康&nbsp;&nbsp;中時新聞網禁慾換不到雄風！ 醫破都市傳說：其實只要做對3件事 | 鏡週刊&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOSmRZdkF4U2JhWEpnczVWNFFaN3FUWk1sYlVDQ1V2bDVYbDh4Q1R3TXJrUnNWSUJBamdFZ1JqdGZFWkFnMWc2MWw4UnhBUmx4dHpqWTlNUHdQb3ZBYk9PSnJPaERUajk4bnNtaU9VcjFHaVFpRjBXUnIzMlJVOEhDcndqb0ZPS2RwSmNUNFRQX2s0VlBVWGVDV19HeVFzbU10a0drTnBTRlBZTmtGOXVPUF9iVXpZcXZWTVUxbUh0cjQyS3RicTFYaE94bDhMSjhYRlFBSm56RFNMZkdfUWd6MmhZdmJGNU81cXVMZmNIMkxyTFJGTVFRdEQybEFORUdaU2w5NGV4d2pTR3VLTU9NemJ0N2VVZnRLbDVfTHV4NWJ6LU5wSnFnRzdNWjcweFQ1WjBGclJTX1VDdGNabmtsVjZCbHNtTmR3SnB6MkVxUWxwbWVlV0pILWRDand5bXZRZlVLRUF0b0xDVi1CUkl2MVJlV3BtcnY0bzRnR1hFVzl2Y3lKVGhKX3ByY1NpT0pJM0tlU1M4a0dQUlFvbE5B?oc=5"
         }
       ]
     },
@@ -160,14 +172,14 @@
       ]
     },
     {
-      "id": "8720b9f89388",
-      "title": "無良牙醫！文書用複寫紙充當咬合紙恐將重金屬吞下肚| 生活 - 三立新聞",
-      "published": "2026-07-07T19:39:04+00:00",
-      "summary": "無良牙醫！文書用複寫紙充當咬合紙恐將重金屬吞下肚| 生活&nbsp;&nbsp;三立新聞",
+      "id": "cb9836a48516",
+      "title": "釣蝦不瞎等！達人公開撇步掌握兩祕訣提高成功率| 生活 - 三立新聞",
+      "published": "2026-07-07T19:39:40+00:00",
+      "summary": "釣蝦不瞎等！達人公開撇步掌握兩祕訣提高成功率| 生活&nbsp;&nbsp;三立新聞",
       "sources": [
         {
           "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5oeVBweWNTWVZNTkdxWl9FbnZ3ZzdSU3NVSXdXcnNxTF83T3F5VDV5Wmh0Yjh0aHFLeS1JNWVHN240VDhob2c?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kTWQxbTNuNHp1ZnhBR3c3c1lNcm9jX1ZYMi1lX2hsbTYyNzlheURkeHMySGhlVXcwS1Y1cEx5c183dndISE9F?oc=5"
         }
       ]
     },
@@ -196,14 +208,14 @@
       ]
     },
     {
-      "id": "0b3acf3dcc0d",
-      "title": "夏日保存水果有絕竅 原來蘋果不能和「它」放一起！ - 三立新聞",
-      "published": "2026-07-07T11:19:50+00:00",
-      "summary": "夏日保存水果有絕竅 原來蘋果不能和「它」放一起！&nbsp;&nbsp;三立新聞",
+      "id": "6c75aa2a98fd",
+      "title": "減重不單靠算卡路里 專家教你如何應對 - Singtaousa",
+      "published": "2026-07-07T16:19:07+00:00",
+      "summary": "減重不單靠算卡路里 專家教你如何應對&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85cjJOX2pGWHpmYTIwYy13ZjNESnY2SS1fZm4xVGlCQnhVMExmdmJOMkdQRmYzSTRhVk5UeUhMbFp4eDYxSWc?oc=5"
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQnVxWTZkQ1FzZVprOW9jZUoyeTZyOUZ5VjBTQl82STd2RVBEU2ltZFI1ZUZWRV8tN1NCWjFXbEctV1hwNzRjUWFhNkpxNER4SndWOHBNZjZIVkVHMGxSTnZBMnFLaHNQeWsteWFneWFUaGVzVF9sRmp1bHdGbXNLX0RBMWlmOTRabldMT040WmxUT3NreGxhUzFNN2Q?oc=5"
         }
       ]
     },
@@ -232,14 +244,14 @@
       ]
     },
     {
-      "id": "6c75aa2a98fd",
-      "title": "減重不單靠算卡路里 專家教你如何應對 - Singtaousa",
-      "published": "2026-07-07T16:19:07+00:00",
-      "summary": "減重不單靠算卡路里 專家教你如何應對&nbsp;&nbsp;Singtaousa",
+      "id": "e64acdef35c8",
+      "title": "幫兒拍照驚現「瞳孔反白」 一檢查原來是眼癌！ - 三立新聞",
+      "published": "2026-07-07T16:23:36+00:00",
+      "summary": "幫兒拍照驚現「瞳孔反白」 一檢查原來是眼癌！&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQnVxWTZkQ1FzZVprOW9jZUoyeTZyOUZ5VjBTQl82STd2RVBEU2ltZFI1ZUZWRV8tN1NCWjFXbEctV1hwNzRjUWFhNkpxNER4SndWOHBNZjZIVkVHMGxSTnZBMnFLaHNQeWsteWFneWFUaGVzVF9sRmp1bHdGbXNLX0RBMWlmOTRabldMT040WmxUT3NreGxhUzFNN2Q?oc=5"
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9RdXh0Q2RTOV9udFZjM29EQ2wxejBxeERGa040aXNZQ3ljcFRXb201cDlsbTVhTTVrdWxpczZQamJPd3c3UXc?oc=5"
         }
       ]
     },
@@ -256,18 +268,6 @@
       ]
     },
     {
-      "id": "bf4e4cca5add",
-      "title": "歐洲多國示警「5種19世紀流行病」捲土重來：氣候＋人為因素 - 三立新聞",
-      "published": "2026-07-06T23:56:46+00:00",
-      "summary": "歐洲多國示警「5種19世紀流行病」捲土重來：氣候＋人為因素&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SMVNDekJZNE9JXzk1NUFmRldvemF2ai1fZU5pSVJOZjlYQUFkcE1YZ2JpTGU0TWsyUDFWMjhLMTJXMGpNREJHdtIBTEFVX3lxTE1ydm5IRUlRdm9PdHpLUHJFcmp3NWtON1pVSWl4ZWpscXVJS2U4WXRRMHlUY0M1THZJd1RZeWo3dDlJcEExVXdwemw5TFQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "46f07f86298a",
       "title": "獸皮痣｜2歲男童9成皮膚被黑痣覆蓋 癌變成惡性黑色素瘤不治離世 - 香港01",
       "published": "2026-07-08T04:54:18+00:00",
@@ -280,14 +280,14 @@
       ]
     },
     {
-      "id": "b60ad9fffc82",
-      "title": "黑心！為加快米血「塑形」 業者違法添加藥用石膏| 生活 - 三立新聞",
-      "published": "2026-07-07T12:26:44+00:00",
-      "summary": "黑心！為加快米血「塑形」 業者違法添加藥用石膏| 生活&nbsp;&nbsp;三立新聞",
+      "id": "bf4e4cca5add",
+      "title": "歐洲多國示警「5種19世紀流行病」捲土重來：氣候＋人為因素 - 三立新聞",
+      "published": "2026-07-06T23:56:46+00:00",
+      "summary": "歐洲多國示警「5種19世紀流行病」捲土重來：氣候＋人為因素&nbsp;&nbsp;三立新聞",
       "sources": [
         {
           "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBkTkZkVGpOSjA3bm1teUQyMlpmcFFUV1VXNFh5bndtMzVNYzBfM2s5SkJKb3JtcElta05zVlpSS3M2RWNjeFE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SMVNDekJZNE9JXzk1NUFmRldvemF2ai1fZU5pSVJOZjlYQUFkcE1YZ2JpTGU0TWsyUDFWMjhLMTJXMGpNREJHdtIBTEFVX3lxTE1ydm5IRUlRdm9PdHpLUHJFcmp3NWtON1pVSWl4ZWpscXVJS2U4WXRRMHlUY0M1THZJd1RZeWo3dDlJcEExVXdwemw5TFQ?oc=5"
         }
       ]
     },
@@ -340,6 +340,18 @@
       ]
     },
     {
+      "id": "b60ad9fffc82",
+      "title": "黑心！為加快米血「塑形」 業者違法添加藥用石膏| 生活 - 三立新聞",
+      "published": "2026-07-07T12:26:44+00:00",
+      "summary": "黑心！為加快米血「塑形」 業者違法添加藥用石膏| 生活&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBkTkZkVGpOSjA3bm1teUQyMlpmcFFUV1VXNFh5bndtMzVNYzBfM2s5SkJKb3JtcElta05zVlpSS3M2RWNjeFE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a1eb7e48f0f0",
       "title": "登革熱救星！超特別行業他們竟然靠蚊子維生| 生活 - 三立新聞",
       "published": "2026-07-07T13:04:10+00:00",
@@ -352,18 +364,6 @@
       ]
     },
     {
-      "id": "665856c934f6",
-      "title": "千萬別這樣通水管！高腐蝕性強鹼瞬間噴濺恐灼傷| 生活 - 三立新聞",
-      "published": "2026-07-06T20:13:42+00:00",
-      "summary": "千萬別這樣通水管！高腐蝕性強鹼瞬間噴濺恐灼傷| 生活&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBGNUl5SVdES0prWi0yenIxb2pXNkE3aUJQbktSbEpJSFc4Qm1GUE9VS1l2NjZfUEtmMGZlQlItLTByVmVITGc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "65fb830c64ee",
       "title": "小黑蚊不是「蚊」！無天敵太囂張專家教你這樣毀滅牠的家| 生活 - 三立新聞",
       "published": "2026-07-07T17:06:40+00:00",
@@ -372,18 +372,6 @@
         {
           "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBjMkphZXBlOEFDRnpsbHFMTE5fWHpIT0plMVhsaFpCMTB2QWg0WXZJNmppenNBVFVrWkhjN1BuTmhZWmptMWpJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8bac4401853e",
-      "title": "類固醇：人體的荷爾蒙不可或缺 - am730",
-      "published": "2026-07-06T20:00:00+00:00",
-      "summary": "類固醇：人體的荷爾蒙不可或缺&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mcU5xOURBQ1c5WFVIOU5TRUJFNGFtV3RZUExxdmVrdHBXQ0htODVjMW9mbVAzQWhpQ1Mway0wQ0FGQ1JXeWtLZTNIM2M5YVFzdnc?oc=5"
         }
       ]
     }

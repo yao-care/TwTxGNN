@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-08T20:57:27.455291+00:00",
-  "total_count": 32,
-  "matched_count": 4,
+  "last_updated": "2026-07-08T22:03:05.748969+00:00",
+  "total_count": 31,
+  "matched_count": 5,
   "news": [
     {
       "id": "2c99a291db24",
@@ -94,6 +94,101 @@
       "matched_keywords": []
     },
     {
+      "id": "83b90195e61a",
+      "title": "多種病痛都從身體發炎來 養成六個早晨習慣能有效預防",
+      "published": "2026-07-08T00:25:49+00:00",
+      "summary": "多種病痛都從身體發炎來 養成六個早晨習慣能有效預防&nbsp;&nbsp;世界新聞網每天喝咖啡可護肝？研究：即便大量飲用 肝病與肝癌風險仍較低&nbsp;&nbsp;Taiwan News咖啡不只提神醒腦！研究揭護肝關鍵：無咖啡因也可能有幫助&nbsp;&nbsp;元氣網發炎｜長期熬夜靠咖啡吊命恐致癌 失智 心臟病 醫生教4招身體抗炎降負擔&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiUjk2SnZEOEk0X3pKYzB6b1RyQUVoVzB3NWZkM1E4NE5TTGxuQ1NiakZCZ2Q3MzBNZlhmaXNFcnc0alpSUDJ4dGZMSURoaDFDTmZGZjQxOG1ja2xzMjRIYkxR0gFnQVVfeXFMT25KZk9wZkNHenRDRW1zZHg5dnRyWnFHX0pMSDEta3BoMHVSOEo0cWN3LVNRbklzZVB2NmFLa1ZRMUhPNmQ5c21mZEV3Y2w3UzltQUhhSEZVaFRxUlBBZ0pHUWJYb2M1OA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "liver sarcoma",
+          "keyword": "肝癌",
+          "related_drugs": [
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "c7a307000bbf",
       "title": "鬼門關前走一遭4／王月「開顱手術」昏迷5天險丟命 立威廉甲狀腺癌2期淋巴轉移二度動刀",
       "published": "2026-07-07T22:00:00+00:00",
@@ -120,14 +215,14 @@
       "matched_keywords": []
     },
     {
-      "id": "8720b9f89388",
-      "title": "無良牙醫！文書用複寫紙充當咬合紙恐將重金屬吞下肚| 生活",
-      "published": "2026-07-07T19:39:04+00:00",
-      "summary": "無良牙醫！文書用複寫紙充當咬合紙恐將重金屬吞下肚| 生活&nbsp;&nbsp;三立新聞",
+      "id": "cb9836a48516",
+      "title": "釣蝦不瞎等！達人公開撇步掌握兩祕訣提高成功率| 生活",
+      "published": "2026-07-07T19:39:40+00:00",
+      "summary": "釣蝦不瞎等！達人公開撇步掌握兩祕訣提高成功率| 生活&nbsp;&nbsp;三立新聞",
       "sources": [
         {
           "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5oeVBweWNTWVZNTkdxWl9FbnZ3ZzdSU3NVSXdXcnNxTF83T3F5VDV5Wmh0Yjh0aHFLeS1JNWVHN240VDhob2c?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kTWQxbTNuNHp1ZnhBR3c3c1lNcm9jX1ZYMi1lX2hsbTYyNzlheURkeHMySGhlVXcwS1Y1cEx5c183dndISE9F?oc=5"
         }
       ],
       "matched_keywords": []
@@ -154,6 +249,19 @@
         {
           "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBjMkphZXBlOEFDRnpsbHFMTE5fWHpIT0plMVhsaFpCMTB2QWg0WXZJNmppenNBVFVrWkhjN1BuTmhZWmptMWpJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e64acdef35c8",
+      "title": "幫兒拍照驚現「瞳孔反白」 一檢查原來是眼癌！",
+      "published": "2026-07-07T16:23:36+00:00",
+      "summary": "幫兒拍照驚現「瞳孔反白」 一檢查原來是眼癌！&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9RdXh0Q2RTOV9udFZjM29EQ2wxejBxeERGa040aXNZQ3ljcFRXb201cDlsbTVhTTVrdWxpczZQamJPd3c3UXc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -232,19 +340,6 @@
         {
           "name": "蕃新聞",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KVlF1VFRldTVySURQRjBfQTJrZzRYZ0N5WnY1alBpQXhfRWRvdXVmMFdFcnE3dGlvX0pXS1JzQmlkV1ZWeWJyQjRDQzVxNnM2SGc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0b3acf3dcc0d",
-      "title": "夏日保存水果有絕竅 原來蘋果不能和「它」放一起！",
-      "published": "2026-07-07T11:19:50+00:00",
-      "summary": "夏日保存水果有絕竅 原來蘋果不能和「它」放一起！&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85cjJOX2pGWHpmYTIwYy13ZjNESnY2SS1fZm4xVGlCQnhVMExmdmJOMkdQRmYzSTRhVk5UeUhMbFp4eDYxSWc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -535,32 +630,6 @@
         {
           "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SMVNDekJZNE9JXzk1NUFmRldvemF2ai1fZU5pSVJOZjlYQUFkcE1YZ2JpTGU0TWsyUDFWMjhLMTJXMGpNREJHdtIBTEFVX3lxTE1ydm5IRUlRdm9PdHpLUHJFcmp3NWtON1pVSWl4ZWpscXVJS2U4WXRRMHlUY0M1THZJd1RZeWo3dDlJcEExVXdwemw5TFQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "665856c934f6",
-      "title": "千萬別這樣通水管！高腐蝕性強鹼瞬間噴濺恐灼傷| 生活",
-      "published": "2026-07-06T20:13:42+00:00",
-      "summary": "千萬別這樣通水管！高腐蝕性強鹼瞬間噴濺恐灼傷| 生活&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBGNUl5SVdES0prWi0yenIxb2pXNkE3aUJQbktSbEpJSFc4Qm1GUE9VS1l2NjZfUEtmMGZlQlItLTByVmVITGc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8bac4401853e",
-      "title": "類固醇：人體的荷爾蒙不可或缺",
-      "published": "2026-07-06T20:00:00+00:00",
-      "summary": "類固醇：人體的荷爾蒙不可或缺&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mcU5xOURBQ1c5WFVIOU5TRUJFNGFtV3RZUExxdmVrdHBXQ0htODVjMW9mbVAzQWhpQ1Mway0wQ0FGQ1JXeWtLZTNIM2M5YVFzdnc?oc=5"
         }
       ],
       "matched_keywords": []
