@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-09T04:42:05.981830+00:00",
-  "total_count": 31,
-  "matched_count": 4,
+  "last_updated": "2026-07-09T08:19:24.069914+00:00",
+  "total_count": 29,
+  "matched_count": 3,
   "news": [
     {
       "id": "c891bcdf3ac3",
@@ -12,6 +12,32 @@
         {
           "name": "peopo.org",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9CTk1DWkhrYnFEQ2hYR0VUM0dJVGVsbF83bW9oZ3hwUGQ0d2k5c0xDUnJqWHZKM19PSUdUb29MTE9xM1g2cXJyYQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "eab036dee8af",
+      "title": "歐米伽-3補充劑真的對大腦有益嗎？",
+      "published": "2026-07-09T03:45:25+00:00",
+      "summary": "歐米伽-3補充劑真的對大腦有益嗎？&nbsp;&nbsp;纽约时报中文网",
+      "sources": [
+        {
+          "name": "纽约时报中文网",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdlFoTEtBZy1VZENqeHh3UU5YYVFud2s2XzdlbmFmUnZSM0JPcFZEOFIxc3V0SGpXMVc3ZXROeVNZblhGMWYyazJIb242clRXeU14R2RBZlZpQ0ZuQnNwR3d6MVhCdE5jdmxHSkFuMHRlc1JBcjI5MTI4Rkt5cVB6V2gyQ0RaSDI5LW5z?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dcfcc5722235",
+      "title": "澳人慢性病發生率上升 肥胖成最大健康風險",
+      "published": "2026-07-09T02:11:00+00:00",
+      "summary": "澳人慢性病發生率上升 肥胖成最大健康風險&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41MEoxdGx6MlZ4WTM2X1UzSVRjZWR3Z2VEdDNYY05sX3R1X1VxWVhHZ3VsUF91UUxWY0FMMkVMZ2I4UWFvaHdiU01HUDEwWDM2Z25HN1hKeS1mUlpMTzRz0gFkQVVfeXFMTjRfSkF1bFduOEJWNWk5cXlrNVY1NXZCM0VGSW1BQkd6NXFGTkxPbXQ2SEx0TExsQmF6YWpLYWNMY1h4TUtjWG1pV2pkcEROeUowTTdPYzdxRmkxcTZweU9XUHRaVw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -30,14 +56,27 @@
       "matched_keywords": []
     },
     {
-      "id": "be149a5cb6cc",
+      "id": "eec639a3bd10",
       "title": "心情低落或與飲食有關？研究揭： 每日飲純果汁或冰沙有助紓緩情緒",
       "published": "2026-07-08T23:00:26+00:00",
-      "summary": "心情低落或與飲食有關？研究揭： 每日飲純果汁或冰沙有助紓緩情緒&nbsp;&nbsp;巴士的報",
+      "summary": "心情低落或與飲食有關？研究揭： 每日飲純果汁或冰沙有助紓緩情緒&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxONjNnUUp4X19UZDgzZjFRNEZsS3ozV3Z1M2VuZjJOU0h1MmZNclhsM2ZnaWxTdWFUeDVBdlNsUVBVQmJQeUpEUDhmX00ydHJqTERkU0VIWXptVGJTRHRUUXRubkJZME40VThOU21pX3drWXBBaGE2REU1bWNNMC1LYVFBaHRpMWJJa3FtWEJpOHJJdGhjRHVPcnZ0NkJZd01GOGZnZ0xidFdCTElSd1JjTnBLRHlOTWJrZkRFdkctVFZzdzFxQmpqN3dza3BsVEoxaE4zQ2hQUTB6elcxdGpQaEd0SGhOMWdVdHhTMndHOEo3emlxejh0cjNvZTl2VTlHTTVhLUVyQXlUTjhESE1fb1FISjZPLTBBMTBKNVI3TjdRMms0eVlUenFQQnJOVmlGcFlQSVdDRlMtZktFb2dCbTEyS3RQeEt6V2VaUm1ObzJCNEc4bTV2SUpDQjVJZm9FamNYeDNBOEN0TzAwb2c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ca7cdab59b60",
+      "title": "畢業健康檢查馬英九胖了、腰圍也粗了| 政治",
+      "published": "2026-07-08T15:28:12+00:00",
+      "summary": "畢業健康檢查馬英九胖了、腰圍也粗了| 政治&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBRU193bElQdWdoVjlPSzVId3pRWXY3d21fQWhHalNDWUt4TmZ5cW5mNEpiV2xNSTI2RzRWZC1yOTFvcl9xYVNJ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -267,19 +306,6 @@
       "matched_keywords": []
     },
     {
-      "id": "cb9836a48516",
-      "title": "釣蝦不瞎等！達人公開撇步掌握兩祕訣提高成功率| 生活",
-      "published": "2026-07-07T19:39:40+00:00",
-      "summary": "釣蝦不瞎等！達人公開撇步掌握兩祕訣提高成功率| 生活&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kTWQxbTNuNHp1ZnhBR3c3c1lNcm9jX1ZYMi1lX2hsbTYyNzlheURkeHMySGhlVXcwS1Y1cEx5c183dndISE9F?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "dff04ac6db2d",
       "title": "沙加緬度縣放飛逾200萬隻絕育雄蚊 遏止入侵蚊種傳播寨卡等疾病｜細說燊語",
       "published": "2026-07-07T19:30:19+00:00",
@@ -332,13 +358,13 @@
       "matched_keywords": []
     },
     {
-      "id": "0ea423140811",
+      "id": "b90583c83e76",
       "title": "度假屋驚魂！被蝙蝠「吻醒」無傷痕，11歲男童竟染上奪命狂犬病？",
       "published": "2026-07-07T15:00:00+00:00",
-      "summary": "度假屋驚魂！被蝙蝠「吻醒」無傷痕，11歲男童竟染上奪命狂犬病？&nbsp;&nbsp;巴士的報11歲男童接觸蝙蝠染狂犬病死亡 醫生促提高警覺&nbsp;&nbsp;singtao.ca半夜驚醒「蝙蝠趴口鼻」! 11歲男童19 天後狂犬病發中樞神經系統崩潰慘死&nbsp;&nbsp;MSN罕見！男童睡覺時「遭蝙蝠貼臉」 3週後竟染狂犬病慘亡 | 三立新聞網&nbsp;&nbsp;LINE TODAY安省醫生警告：接觸蝙蝠須立即求醫&nbsp;&nbsp;大纪元",
+      "summary": "度假屋驚魂！被蝙蝠「吻醒」無傷痕，11歲男童竟染上奪命狂犬病？&nbsp;&nbsp;bastillepost.com11歲男童接觸蝙蝠染狂犬病死亡 醫生促提高警覺&nbsp;&nbsp;singtao.ca半夜驚醒「蝙蝠趴口鼻」! 11歲男童19 天後狂犬病發中樞神經系統崩潰慘死&nbsp;&nbsp;MSN罕見！男童睡覺時「遭蝙蝠貼臉」 3週後竟染狂犬病慘亡 | 三立新聞網&nbsp;&nbsp;LINE TODAY安省醫生警告：接觸蝙蝠須立即求醫&nbsp;&nbsp;大纪元",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQTlQyLUV2RHhLRkMtZF9UZUNKaHd2Z29uOHgtWEs2dThYRzN1cUdydWRXQjB2MmptNk1FMEtGSFZKd0RzQjVuY3EtTWZzaFVRZk9DMGlkcGVFaENFcHpwc2NXZHQ2TzFlTy03RUJETGNkNWlCbFVGZHZGTGptb2RsMFNweW05SDNJaXZkb3JTRzY0N1lscU9KVXotaXkzaDQzbVhNRmNOQ0tqUklRbEFWRXJmQUU0Q19tRU9PZUJyOUhwV1VPZUw3VzZfRUJWX0hIX0JOV3l5cWpVbFhYNVBucjdSME43Z0xaN25DUFlMaWtCZzdCa0Y2YkV2NkRWYjZBbTA4WThqQVZyU3lhMDB2Qmk0dDlmT1dYR2xaYzFvbnQ0NVMxNWtuLWxTUUg1TGpWekZLTzJwc1VMcHJlVHY1UXdBYUNtbFZIeFRHY3hnb0I0dXQ1RTZ2YTFtdndqaWFmanV5MWk5dWh0VTRfa1UyNg?oc=5"
         }
       ],
@@ -397,6 +423,19 @@
       "matched_keywords": []
     },
     {
+      "id": "0b3acf3dcc0d",
+      "title": "夏日保存水果有絕竅 原來蘋果不能和「它」放一起！",
+      "published": "2026-07-07T11:19:50+00:00",
+      "summary": "夏日保存水果有絕竅 原來蘋果不能和「它」放一起！&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85cjJOX2pGWHpmYTIwYy13ZjNESnY2SS1fZm4xVGlCQnhVMExmdmJOMkdQRmYzSTRhVk5UeUhMbFp4eDYxSWc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "011e54327546",
       "title": "蜱蟲叮咬｜66歲男放狗遭蜱蟲叮咬 染罕見病毒 專家：15分鐘足以傳播",
       "published": "2026-07-07T08:59:16+00:00",
@@ -423,27 +462,14 @@
       "matched_keywords": []
     },
     {
-      "id": "e1a85d3c75d9",
-      "title": "下體腫塊不痛就沒事？少見睪丸癌專找年輕男 4症狀恐中晚期",
-      "published": "2026-07-07T06:56:43+00:00",
-      "summary": "下體腫塊不痛就沒事？少見睪丸癌專找年輕男 4症狀恐中晚期&nbsp;&nbsp;中時新聞網",
+      "id": "011a10e83d61",
+      "title": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 | 健康元氣 | 商情",
+      "published": "2026-07-07T08:02:20+00:00",
+      "summary": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報五成侵襲性肺炎患者為青壯年！專家籲接種肺炎鏈球菌疫苗 降低感染&nbsp;&nbsp;聯合新聞網成人也得小心肺炎鏈球菌！醫揭：選對「血清型」成精準防重症關鍵&nbsp;&nbsp;三立新聞打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵&nbsp;&nbsp;PChome Online 新聞肺炎鏈球菌威脅升溫！成人防護邁向精準預防 | TVBS&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3eU1RcGdNZWdSTGFySDFCSTlJd1ExRktjY25VWFVxdlY1NXl4NENSdUNRQmpZdlZvXzZMc1Jrc1RUX2RCUGNwd0JEMlJXczM4aldmbFF4Q1poZWlKR1IycERMSlplTlhKanJXQ0hB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "903ec67f4197",
-      "title": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 - PChome Online 新聞",
-      "published": "2026-07-07T06:43:14+00:00",
-      "summary": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵&nbsp;&nbsp;PChome Online 新聞五成侵襲性肺炎患者為青壯年！專家籲接種肺炎鏈球菌疫苗 降低感染&nbsp;&nbsp;聯合新聞網成人也得小心肺炎鏈球菌！醫揭：選對「血清型」成精準防重症關鍵&nbsp;&nbsp;三立新聞肺炎鏈球菌威脅升溫！成人防護邁向精準預防 | TVBS&nbsp;&nbsp;LINE TODAY不只長者要打 醫師示警慢性病青壯年肺炎重症風險飆升&nbsp;&nbsp;壹蘋新聞網",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkhaN3RSWjBzbFRQQVBfb01VZEs2dFFuVnR3UlBkUy1Sc3lXaTduekRtdGpVUmhJUnN1QUFYOWRfbEUwSWdqZDdLSE5iaGtkWkhvanhVZy1JYXVUb0FsQWdSZm1lLTRVcGFobnVUMXVnY05SMTdYSUtpNzVJZ2pBWG01YWdfdndiM0RlNTNqNTVJbnM?oc=5"
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ycC1BTHFmQ243eGRteWZjMjJHdEYycndUMVNzVWFTSmg1MWFDb29udmdHNXcwZVd1RWJqVFRWZmJiWEs0Mi1CUzlzQnc1U1lYQ2JweU9faDRPQXc?oc=5"
         }
       ],
       "matched_keywords": [
@@ -463,81 +489,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "f814273ad6ca",
-      "title": "白跑一趟…赴陸換腎卻染C肝男子返台治好肝病| 生活",
-      "published": "2026-07-07T06:35:02+00:00",
-      "summary": "白跑一趟…赴陸換腎卻染C肝男子返台治好肝病| 生活&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9vVTdYWUlURXpITS16YUlnUG5WZWdVLUVhOWVfWnZaX1BuTHdIaEJLMW1EcVhoWnV1RUM0ajdhcVp6c19qY3Fn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5d764ff0ad63",
-      "title": "年請假323天？女校長千字文回擊：善有善報，惡有惡報| 社會",
-      "published": "2026-07-07T05:48:12+00:00",
-      "summary": "年請假323天？女校長千字文回擊：善有善報，惡有惡報| 社會&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB1dHZkZms4X3pGc2xkRVZVXy1mcWpaWEI1dzh6OGUxQmlyMEdvbWt4alVaX0twQmNoZXNrREUwanQwMUE0N1VN?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1f7505022198",
-      "title": "失智不一定從健忘開始！哈佛900萬人研究：常認路的計程車、救護車司機，阿茲海默症相關死亡率最低",
-      "published": "2026-07-07T05:21:40+00:00",
-      "summary": "失智不一定從健忘開始！哈佛900萬人研究：常認路的計程車、救護車司機，阿茲海默症相關死亡率最低&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxQREhockJTSDByM2JZVkZfOFVyeDZ2TnBKU1ZtQ3hqeTBTX01hSVFWa05fZVUtZ3RwbF8teUlYTklZbk5KN1RBQWk2NUdKcFI3Y01CcUpaSG1IODhELUZIQ3gyWTMtVENPSWU0blg0QUc3cGx4QVZLTUpIak5NQlBDcEZKaGJsaEVZLWlZR1BGSmVQTXhtUGQ5R0UxcTQtRjYzQ19WV196QjNsdnQxVWxNbGNRX1huR3BvTmxOdDczMUdwZVhKcnBJRmxTd0hBeWlPLVdTUWZvWmFBa1dVdGd6ZWtDRm1MY3VEcWN3RTBmZzdMUmM4Y3RTYUp1dFZqTldWYXpYSjlqVjU2c0FDTnduV09sMDZzMk50bEVubTJsUDZqWndnWkpKbFRDUmJZN0NZTVBPMVVwMzRXU1ZDbVpseWVyanVsSjhFZmxxbFhVb2stc21tTXNWeExHbFNaSmkyUEcxVnFHU0RTMFk0NmVvWnJlSFJBTk9pdFpHV1U5cXcyR0ZyNUV1dzh1QUtXRjdORVVJLW95ZnZHdVpINHlfVA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b18bfa5b4e4f",
-      "title": "從粒線體研究到機能紡織 健康科技應用持續拓展",
-      "published": "2026-07-07T04:00:00+00:00",
-      "summary": "從粒線體研究到機能紡織 健康科技應用持續拓展&nbsp;&nbsp;民視健康長照網",
-      "sources": [
-        {
-          "name": "民視健康長照網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53OEFxM1FjSWx3dUkzblQwelU3bFQ5cUNIb0h6dTRFaGtEckRnOWlJaFphd2ZzRGd4RUswc0hlSjY2RGtodWJHUDNBNGRjOWZiczIwSzRsUGZRWHJtVl9UWlBKajk?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

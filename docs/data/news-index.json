@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T04:42:06.012067+00:00",
-  "count": 4,
+  "generated": "2026-07-09T08:19:24.097580+00:00",
+  "count": 3,
   "news": [
     {
       "id": "46f07f86298a",
@@ -121,13 +121,13 @@
       ]
     },
     {
-      "id": "903ec67f4197",
-      "title": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 - PChome Online 新聞",
-      "published": "2026-07-07T06:43:14+00:00",
+      "id": "011a10e83d61",
+      "title": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 | 健康元氣 | 商情",
+      "published": "2026-07-07T08:02:20+00:00",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkhaN3RSWjBzbFRQQVBfb01VZEs2dFFuVnR3UlBkUy1Sc3lXaTduekRtdGpVUmhJUnN1QUFYOWRfbEUwSWdqZDdLSE5iaGtkWkhvanhVZy1JYXVUb0FsQWdSZm1lLTRVcGFobnVUMXVnY05SMTdYSUtpNzVJZ2pBWG01YWdfdndiM0RlNTNqNTVJbnM?oc=5"
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ycC1BTHFmQ243eGRteWZjMjJHdEYycndUMVNzVWFTSmg1MWFDb29udmdHNXcwZVd1RWJqVFRWZmJiWEs0Mi1CUzlzQnc1U1lYQ2JweU9faDRPQXc?oc=5"
         }
       ],
       "keywords": [
@@ -143,41 +143,6 @@
             {
               "slug": "cephalexin",
               "name": "Cephalexin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1f7505022198",
-      "title": "失智不一定從健忘開始！哈佛900萬人研究：常認路的計程車、救護車司機，阿茲海默症相關死亡率最低",
-      "published": "2026-07-07T05:21:40+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxQREhockJTSDByM2JZVkZfOFVyeDZ2TnBKU1ZtQ3hqeTBTX01hSVFWa05fZVUtZ3RwbF8teUlYTklZbk5KN1RBQWk2NUdKcFI3Y01CcUpaSG1IODhELUZIQ3gyWTMtVENPSWU0blg0QUc3cGx4QVZLTUpIak5NQlBDcEZKaGJsaEVZLWlZR1BGSmVQTXhtUGQ5R0UxcTQtRjYzQ19WV196QjNsdnQxVWxNbGNRX1huR3BvTmxOdDczMUdwZVhKcnBJRmxTd0hBeWlPLVdTUWZvWmFBa1dVdGd6ZWtDRm1MY3VEcWN3RTBmZzdMUmM4Y3RTYUp1dFZqTldWYXpYSjlqVjU2c0FDTnduV09sMDZzMk50bEVubTJsUDZqWndnWkpKbFRDUmJZN0NZTVBPMVVwMzRXU1ZDbVpseWVyanVsSjhFZmxxbFhVb2stc21tTXNWeExHbFNaSmkyUEcxVnFHU0RTMFk0NmVvWnJlSFJBTk9pdFpHV1U5cXcyR0ZyNUV1dzh1QUtXRjdORVVJLW95ZnZHdVpINHlfVA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
