@@ -1,17 +1,226 @@
 {
-  "last_updated": "2026-07-09T08:19:24.069914+00:00",
-  "total_count": 29,
+  "last_updated": "2026-07-09T11:46:07.887982+00:00",
+  "total_count": 28,
   "matched_count": 3,
   "news": [
     {
-      "id": "c891bcdf3ac3",
-      "title": "一份禮物，最後送給了自己——走進紅商店，我看見公益真正抵達的地方",
-      "published": "2026-07-09T03:54:00+00:00",
-      "summary": "一份禮物，最後送給了自己——走進紅商店，我看見公益真正抵達的地方&nbsp;&nbsp;peopo.org",
+      "id": "6b56b5323967",
+      "title": "癌症免疫療法露曙光 科學家找到現成抗癌細胞新來源",
+      "published": "2026-07-09T09:21:00+00:00",
+      "summary": "癌症免疫療法露曙光 科學家找到現成抗癌細胞新來源&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "peopo.org",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9CTk1DWkhrYnFEQ2hYR0VUM0dJVGVsbF83bW9oZ3hwUGQ0d2k5c0xDUnJqWHZKM19PSUdUb29MTE9xM1g2cXJyYQ?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40U3VwYXBwbmVSOE1mX2o2NTBWdzVMSTh6elNTSkRKTWtKZEdiRnhMTEd2ZWI3bnhDcTZiY3JfR3Vkb280NWlJd3gxTEh6b3dnVEJBeGtJVzA4MV9hbHlQWThqQWzSAWpBVV95cUxOcHowcERaVGhSSFlFeDlLa1NlbWRfVFAxUTJ4V3A1cVdjWVNMRFlOeUd4V19JUVU2SnBZVHRRdld1OXlZWnlkaFk4RG5YNUprU0hnZVNKN0dWblVLUDYtOGJHWWIzMHpLejJR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a24a2ec00193",
+      "title": "外出放狗遭蜱蟲叮咬 美66歲男染罕見病毒入ICU",
+      "published": "2026-07-09T08:31:57+00:00",
+      "summary": "外出放狗遭蜱蟲叮咬 美66歲男染罕見病毒入ICU&nbsp;&nbsp;dotdotnews",
+      "sources": [
+        {
+          "name": "dotdotnews",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92TUtDVVcwVXgzb3QxQWt1dEhVdVVKTXdnaU9YMVdTVmRkU3pYTlExdWJ2dDJ5V2IyQTQtYkdnQi1Za1dfTjA5S3FrU2VqYXVBRmVrOVFVS3o4dklEU2tIbTgtYTNMTGo3X2JMdDJ4Vk9NazFZbGpyLXNB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -69,14 +278,27 @@
       "matched_keywords": []
     },
     {
-      "id": "ca7cdab59b60",
-      "title": "畢業健康檢查馬英九胖了、腰圍也粗了| 政治",
-      "published": "2026-07-08T15:28:12+00:00",
-      "summary": "畢業健康檢查馬英九胖了、腰圍也粗了| 政治&nbsp;&nbsp;三立新聞",
+      "id": "cb9836a48516",
+      "title": "釣蝦不瞎等！達人公開撇步掌握兩祕訣提高成功率| 生活",
+      "published": "2026-07-08T19:23:49+00:00",
+      "summary": "釣蝦不瞎等！達人公開撇步掌握兩祕訣提高成功率| 生活&nbsp;&nbsp;三立新聞",
       "sources": [
         {
           "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBRU193bElQdWdoVjlPSzVId3pRWXY3d21fQWhHalNDWUt4TmZ5cW5mNEpiV2xNSTI2RzRWZC1yOTFvcl9xYVNJ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kTWQxbTNuNHp1ZnhBR3c3c1lNcm9jX1ZYMi1lX2hsbTYyNzlheURkeHMySGhlVXcwS1Y1cEx5c183dndISE9F?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7bdeaebc4a6f",
+      "title": "偷拆男友保險套幫他戴 天兵女竟還傳訊告知「使用心得」",
+      "published": "2026-07-08T15:47:43+00:00",
+      "summary": "偷拆男友保險套幫他戴 天兵女竟還傳訊告知「使用心得」&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1YM2J1cDVIdzRDV1dvbjFaaTVTX0h2UkZ1N2JITkVONGlGZFZTWldDcVNld3M0Mjd2bWROa3JXd2laSUpHcG53?oc=5"
         }
       ],
       "matched_keywords": []
@@ -90,6 +312,19 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOSmRZdkF4U2JhWEpnczVWNFFaN3FUWk1sYlVDQ1V2bDVYbDh4Q1R3TXJrUnNWSUJBamdFZ1JqdGZFWkFnMWc2MWw4UnhBUmx4dHpqWTlNUHdQb3ZBYk9PSnJPaERUajk4bnNtaU9VcjFHaVFpRjBXUnIzMlJVOEhDcndqb0ZPS2RwSmNUNFRQX2s0VlBVWGVDV19HeVFzbU10a0drTnBTRlBZTmtGOXVPUF9iVXpZcXZWTVUxbUh0cjQyS3RicTFYaE94bDhMSjhYRlFBSm56RFNMZkdfUWd6MmhZdmJGNU81cXVMZmNIMkxyTFJGTVFRdEQybEFORUdaU2w5NGV4d2pTR3VLTU9NemJ0N2VVZnRLbDVfTHV4NWJ6LU5wSnFnRzdNWjcweFQ1WjBGclJTX1VDdGNabmtsVjZCbHNtTmR3SnB6MkVxUWxwbWVlV0pILWRDand5bXZRZlVLRUF0b0xDVi1CUkl2MVJlV3BtcnY0bzRnR1hFVzl2Y3lKVGhKX3ByY1NpT0pJM0tlU1M4a0dQUlFvbE5B?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dcd85f733708",
+      "title": "愛美人士注意！婦人注射微晶瓷隆鼻竟失明| 生活",
+      "published": "2026-07-08T12:22:55+00:00",
+      "summary": "愛美人士注意！婦人注射微晶瓷隆鼻竟失明| 生活&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9KeHgyNmg1QmpHdU5Qd2xibWRDamtzRGRMWTRWMnVBY0tIQnBFRl9LZUQwTU1yZUZIcThINDllOVRiLWdOOVE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -306,6 +541,19 @@
       "matched_keywords": []
     },
     {
+      "id": "8720b9f89388",
+      "title": "無良牙醫！文書用複寫紙充當咬合紙恐將重金屬吞下肚| 生活",
+      "published": "2026-07-07T19:39:04+00:00",
+      "summary": "無良牙醫！文書用複寫紙充當咬合紙恐將重金屬吞下肚| 生活&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5oeVBweWNTWVZNTkdxWl9FbnZ3ZzdSU3NVSXdXcnNxTF83T3F5VDV5Wmh0Yjh0aHFLeS1JNWVHN240VDhob2c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "dff04ac6db2d",
       "title": "沙加緬度縣放飛逾200萬隻絕育雄蚊 遏止入侵蚊種傳播寨卡等疾病｜細說燊語",
       "published": "2026-07-07T19:30:19+00:00",
@@ -314,19 +562,6 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNc3FhVVA1bGNTRjNYSld2V3ZuSGo0N0tRY1BqTjE4SGw1QWRqcWtrd2ZkeGNBZlZ1bGNsZ3EzVmFEVzlibmdLbFRaTWo5QURxay04YVNOVENaVzVPblB1MFNxNTMtcjAzc2llQm5wV3NGTWpIWHNkN0RhZmNiQ05XSGFaakJPWWZmLVVnRUlMNHVvWkhMMHQ5R0dZQ0N1WWhaQTNIRHlpV3N5M25vRWkzSkRONzFycGdDOXlrSy1RaW9NMzVRR0Z5alc0Zno2RUQ3cFgybUJQRGFNb0U2ME51eHhONExuNUdPQmVja2x4V1NWaEFwV1BldnJ0UWxsZjhxV3c0OVpPTlV1N0FTQkhzVzZncjJyU3hHOUNLQ05sMnZpMGotaWUtSXhpUXB6SnM?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "65fb830c64ee",
-      "title": "小黑蚊不是「蚊」！無天敵太囂張專家教你這樣毀滅牠的家| 生活",
-      "published": "2026-07-07T17:06:40+00:00",
-      "summary": "小黑蚊不是「蚊」！無天敵太囂張專家教你這樣毀滅牠的家| 生活&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBjMkphZXBlOEFDRnpsbHFMTE5fWHpIT0plMVhsaFpCMTB2QWg0WXZJNmppenNBVFVrWkhjN1BuTmhZWmptMWpJ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -353,19 +588,6 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQnVxWTZkQ1FzZVprOW9jZUoyeTZyOUZ5VjBTQl82STd2RVBEU2ltZFI1ZUZWRV8tN1NCWjFXbEctV1hwNzRjUWFhNkpxNER4SndWOHBNZjZIVkVHMGxSTnZBMnFLaHNQeWsteWFneWFUaGVzVF9sRmp1bHdGbXNLX0RBMWlmOTRabldMT040WmxUT3NreGxhUzFNN2Q?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b90583c83e76",
-      "title": "度假屋驚魂！被蝙蝠「吻醒」無傷痕，11歲男童竟染上奪命狂犬病？",
-      "published": "2026-07-07T15:00:00+00:00",
-      "summary": "度假屋驚魂！被蝙蝠「吻醒」無傷痕，11歲男童竟染上奪命狂犬病？&nbsp;&nbsp;bastillepost.com11歲男童接觸蝙蝠染狂犬病死亡 醫生促提高警覺&nbsp;&nbsp;singtao.ca半夜驚醒「蝙蝠趴口鼻」! 11歲男童19 天後狂犬病發中樞神經系統崩潰慘死&nbsp;&nbsp;MSN罕見！男童睡覺時「遭蝙蝠貼臉」 3週後竟染狂犬病慘亡 | 三立新聞網&nbsp;&nbsp;LINE TODAY安省醫生警告：接觸蝙蝠須立即求醫&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "bastillepost.com",
-          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQTlQyLUV2RHhLRkMtZF9UZUNKaHd2Z29uOHgtWEs2dThYRzN1cUdydWRXQjB2MmptNk1FMEtGSFZKd0RzQjVuY3EtTWZzaFVRZk9DMGlkcGVFaENFcHpwc2NXZHQ2TzFlTy03RUJETGNkNWlCbFVGZHZGTGptb2RsMFNweW05SDNJaXZkb3JTRzY0N1lscU9KVXotaXkzaDQzbVhNRmNOQ0tqUklRbEFWRXJmQUU0Q19tRU9PZUJyOUhwV1VPZUw3VzZfRUJWX0hIX0JOV3l5cWpVbFhYNVBucjdSME43Z0xaN25DUFlMaWtCZzdCa0Y2YkV2NkRWYjZBbTA4WThqQVZyU3lhMDB2Qmk0dDlmT1dYR2xaYzFvbnQ0NVMxNWtuLWxTUUg1TGpWekZLTzJwc1VMcHJlVHY1UXdBYUNtbFZIeFRHY3hnb0I0dXQ1RTZ2YTFtdndqaWFmanV5MWk5dWh0VTRfa1UyNg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -434,61 +656,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "011e54327546",
-      "title": "蜱蟲叮咬｜66歲男放狗遭蜱蟲叮咬 染罕見病毒 專家：15分鐘足以傳播",
-      "published": "2026-07-07T08:59:16+00:00",
-      "summary": "蜱蟲叮咬｜66歲男放狗遭蜱蟲叮咬 染罕見病毒 專家：15分鐘足以傳播&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QYkpHelQ2M1NQMDVWVHlaSEZfNWxGUGpycnNaSzJ6YVVIQWJFSV85TDhtY1VXSG80Q25WRHNLeGk2WTF0X0UyR0xCUTRsTVNBZFE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6bf5e9f5a67f",
-      "title": "抓破蚊爛隨時喪命？港女染蜂窩組織炎行唔到 醫生揭2類人極高危促即求醫 - UHK 港生活",
-      "published": "2026-07-07T08:46:57+00:00",
-      "summary": "抓破蚊爛隨時喪命？港女染蜂窩組織炎行唔到 醫生揭2類人極高危促即求醫&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNcm1oZEV6bmdWWWNydnhZcFFPUDhFSnFUd29FUXVfQmVCNW02cWxXTUxJbGs5ZGs4dXdqcm91bExFNnZTczVjVTVjM2dxMHhFM0x1UGdZVjl4ZjdUT0Jvek9acjJ1S0g0WFpUbGRqcXpCYk16MWxGbjJHRUFTZmVwSWRkbldWZms3SlZXcVZrTnJVSXozZ3d3VW1HeHhzalY4QVowbV9kdjh4bkRyZ25FaXlhczZjeHVKLW9WUXB0ODBPU3piSk9VaGNXQV9NTEd6blN4OWNhM0g5bWlMOWpNS3BXbzZCY1pCcThxemZpRnlMeVZ3TUU0aDgxcWIwSTlzTmowZ3U1aF9PXzg4eW55cmtNTk9zTFEtZjVzdnJHLTVPX2xYQXlRclZ4Q3ZuTGNqdTd6MVl4aGMzRFJfUXVHS2U3ei11M0V6LWFra0cwdGt4TWpvNHFxd3lDM2gzRFU5SFE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "011a10e83d61",
-      "title": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 | 健康元氣 | 商情",
-      "published": "2026-07-07T08:02:20+00:00",
-      "summary": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報五成侵襲性肺炎患者為青壯年！專家籲接種肺炎鏈球菌疫苗 降低感染&nbsp;&nbsp;聯合新聞網成人也得小心肺炎鏈球菌！醫揭：選對「血清型」成精準防重症關鍵&nbsp;&nbsp;三立新聞打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵&nbsp;&nbsp;PChome Online 新聞肺炎鏈球菌威脅升溫！成人防護邁向精準預防 | TVBS&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ycC1BTHFmQ243eGRteWZjMjJHdEYycndUMVNzVWFTSmg1MWFDb29udmdHNXcwZVd1RWJqVFRWZmJiWEs0Mi1CUzlzQnc1U1lYQ2JweU9faDRPQXc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

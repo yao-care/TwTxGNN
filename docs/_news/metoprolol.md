@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [癌症免疫療法露曙光 科學家找到現成抗癌細胞新來源](https://news.google.com/rss/articles/CBMiZEFVX3lxTE40U3VwYXBwbmVSOE1mX2o2NTBWdzVMSTh6elNTSkRKTWtKZEdiRnhMTEd2ZWI3bnhDcTZiY3JfR3Vkb280NWlJd3gxTEh6b3dnVEJBeGtJVzA4MV9hbHlQWThqQWzSAWpBVV95cUxOcHowcERaVGhSSFlFeDlLa1NlbWRfVFAxUTJ4V3A1cVdjWVNMRFlOeUd4V19JUVU2SnBZVHRRdld1OXlZWnlkaFk4RG5YNUprU0hnZVNKN0dWblVLUDYtOGJHWWIzMHpLejJR?oc=5)
+
+2026-07-09 <span class="news-indication-tag">癌症</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE40U3VwYXBwbmVSOE1mX2o2NTBWdzVMSTh6elNTSkRKTWtKZEdiRnhMTEd2ZWI3bnhDcTZiY3JfR3Vkb280NWlJd3gxTEh6b3dnVEJBeGtJVzA4MV9hbHlQWThqQWzSAWpBVV95cUxOcHowcERaVGhSSFlFeDlLa1NlbWRfVFAxUTJ4V3A1cVdjWVNMRFlOeUd4V19JUVU2SnBZVHRRdld1OXlZWnlkaFk4RG5YNUprU0hnZVNKN0dWblVLUDYtOGJHWWIzMHpLejJR?oc=5)
+
+---
 
 ### [多種病痛都從身體發炎來 養成六個早晨習慣能有效預防](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiUjk2SnZEOEk0X3pKYzB6b1RyQUVoVzB3NWZkM1E4NE5TTGxuQ1NiakZCZ2Q3MzBNZlhmaXNFcnc0alpSUDJ4dGZMSURoaDFDTmZGZjQxOG1ja2xzMjRIYkxR0gFnQVVfeXFMT25KZk9wZkNHenRDRW1zZHg5dnRyWnFHX0pMSDEta3BoMHVSOEo0cWN3LVNRbklzZVB2NmFLa1ZRMUhPNmQ5c21mZEV3Y2w3UzltQUhhSEZVaFRxUlBBZ0pHUWJYb2M1OA?oc=5)
 

@@ -43,11 +43,11 @@ permalink: /news/cefmetazole/
 
 ## 相關新聞（1 則）
 
-### [打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 | 健康元氣 | 商情](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ycC1BTHFmQ243eGRteWZjMjJHdEYycndUMVNzVWFTSmg1MWFDb29udmdHNXcwZVd1RWJqVFRWZmJiWEs0Mi1CUzlzQnc1U1lYQ2JweU9faDRPQXc?oc=5)
+### [癌症免疫療法露曙光 科學家找到現成抗癌細胞新來源](https://news.google.com/rss/articles/CBMiZEFVX3lxTE40U3VwYXBwbmVSOE1mX2o2NTBWdzVMSTh6elNTSkRKTWtKZEdiRnhMTEd2ZWI3bnhDcTZiY3JfR3Vkb280NWlJd3gxTEh6b3dnVEJBeGtJVzA4MV9hbHlQWThqQWzSAWpBVV95cUxOcHowcERaVGhSSFlFeDlLa1NlbWRfVFAxUTJ4V3A1cVdjWVNMRFlOeUd4V19JUVU2SnBZVHRRdld1OXlZWnlkaFk4RG5YNUprU0hnZVNKN0dWblVLUDYtOGJHWWIzMHpLejJR?oc=5)
 
-2026-07-07 <span class="news-indication-tag">鏈球菌</span>
+2026-07-09 <span class="news-indication-tag">癌症</span>
 
-來源：[經濟日報](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ycC1BTHFmQ243eGRteWZjMjJHdEYycndUMVNzVWFTSmg1MWFDb29udmdHNXcwZVd1RWJqVFRWZmJiWEs0Mi1CUzlzQnc1U1lYQ2JweU9faDRPQXc?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE40U3VwYXBwbmVSOE1mX2o2NTBWdzVMSTh6elNTSkRKTWtKZEdiRnhMTEd2ZWI3bnhDcTZiY3JfR3Vkb280NWlJd3gxTEh6b3dnVEJBeGtJVzA4MV9hbHlQWThqQWzSAWpBVV95cUxOcHowcERaVGhSSFlFeDlLa1NlbWRfVFAxUTJ4V3A1cVdjWVNMRFlOeUd4V19JUVU2SnBZVHRRdld1OXlZWnlkaFk4RG5YNUprU0hnZVNKN0dWblVLUDYtOGJHWWIzMHpLejJR?oc=5)
 
 ---
 

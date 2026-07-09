@@ -14,7 +14,7 @@ permalink: /news/vismodegib/
 ---
 
 <p class="key-answer" data-question="Vismodegib 有什麼相關新聞？">
-<strong>Vismodegib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vismodegib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/vismodegib/
 <p><a href="{{ '/drugs/vismodegib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [癌症免疫療法露曙光 科學家找到現成抗癌細胞新來源](https://news.google.com/rss/articles/CBMiZEFVX3lxTE40U3VwYXBwbmVSOE1mX2o2NTBWdzVMSTh6elNTSkRKTWtKZEdiRnhMTEd2ZWI3bnhDcTZiY3JfR3Vkb280NWlJd3gxTEh6b3dnVEJBeGtJVzA4MV9hbHlQWThqQWzSAWpBVV95cUxOcHowcERaVGhSSFlFeDlLa1NlbWRfVFAxUTJ4V3A1cVdjWVNMRFlOeUd4V19JUVU2SnBZVHRRdld1OXlZWnlkaFk4RG5YNUprU0hnZVNKN0dWblVLUDYtOGJHWWIzMHpLejJR?oc=5)
+
+2026-07-09 <span class="news-indication-tag">癌症</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE40U3VwYXBwbmVSOE1mX2o2NTBWdzVMSTh6elNTSkRKTWtKZEdiRnhMTEd2ZWI3bnhDcTZiY3JfR3Vkb280NWlJd3gxTEh6b3dnVEJBeGtJVzA4MV9hbHlQWThqQWzSAWpBVV95cUxOcHowcERaVGhSSFlFeDlLa1NlbWRfVFAxUTJ4V3A1cVdjWVNMRFlOeUd4V19JUVU2SnBZVHRRdld1OXlZWnlkaFk4RG5YNUprU0hnZVNKN0dWblVLUDYtOGJHWWIzMHpLejJR?oc=5)
+
+---
 
 ### [獸皮痣｜2歲男童9成皮膚被黑痣覆蓋 癌變成惡性黑色素瘤不治離世](https://news.google.com/rss/articles/CBMipwNBVV95cUxNdTFpUlNDeTBVNFZXb29YSVNDUFowLWpXQzY4a1BGcGZvN0NNOWxLR0x5ZUZPQ1lVV2RZY0FSN2hOU2Q3V0RRV1huaVdpUDNaZGFMVXFxM0g1dXVtU1d5ZmZhZlo4UGZIc2p5blJtNmNKLUtOUW1HMEkyYno5U2V5a3FaU0JkS0x5NWFhdm5Ybnc2eUNwVmVUa3oyeGlTZHN6N2lzTEwtWHdkUUdac0JXbHg3WHFENmJOOFY1b1Byb05QT2JzT0RKc094bEk0b1hDQ1VoMm0wa2RQUFA0dUMzMWt5cjVOemhBbDlFYllwdXFTM2llZUh0Q0RUYWZLRkdJby1FZzcyeE5ldjZhTlk1dndoSVlJVzc3S0lLX1VMU1gybVROWlJaWVBfTWtMdlBKa25xQVozVEhaaU5OcThueER1ZnBDUnlCSndHVTFwWGZaaE4ycWlQcV9jX3pFMlpyMndYUWxXcWdvbGFQRjQ2cDh4SW9mMHRnRXVhUGR4Q21WMFdtS0JxcGY1aHJoY2JXMFQza244YVZuQktZTHhKVzRsODBjTjQ?oc=5)
 
