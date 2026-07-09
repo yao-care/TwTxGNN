@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T00:00:33.929340+00:00",
-  "count": 5,
+  "generated": "2026-07-09T04:42:06.012067+00:00",
+  "count": 4,
   "news": [
     {
       "id": "46f07f86298a",
@@ -121,13 +121,13 @@
       ]
     },
     {
-      "id": "011a10e83d61",
-      "title": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 | 健康元氣 | 商情",
-      "published": "2026-07-07T08:02:20+00:00",
+      "id": "903ec67f4197",
+      "title": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 - PChome Online 新聞",
+      "published": "2026-07-07T06:43:14+00:00",
       "sources": [
         {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ycC1BTHFmQ243eGRteWZjMjJHdEYycndUMVNzVWFTSmg1MWFDb29udmdHNXcwZVd1RWJqVFRWZmJiWEs0Mi1CUzlzQnc1U1lYQ2JweU9faDRPQXc?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkhaN3RSWjBzbFRQQVBfb01VZEs2dFFuVnR3UlBkUy1Sc3lXaTduekRtdGpVUmhJUnN1QUFYOWRfbEUwSWdqZDdLSE5iaGtkWkhvanhVZy1JYXVUb0FsQWdSZm1lLTRVcGFobnVUMXVnY05SMTdYSUtpNzVJZ2pBWG01YWdfdndiM0RlNTNqNTVJbnM?oc=5"
         }
       ],
       "keywords": [
@@ -151,7 +151,7 @@
     {
       "id": "1f7505022198",
       "title": "失智不一定從健忘開始！哈佛900萬人研究：常認路的計程車、救護車司機，阿茲海默症相關死亡率最低",
-      "published": "2026-07-07T05:14:44+00:00",
+      "published": "2026-07-07T05:21:40+00:00",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -178,113 +178,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9d5d09f9bde5",
-      "title": "《別怕荷爾蒙，妳抗衰防病的關鍵》怕乳癌卻輕忽心臟病？奪走女性性命頭號殺手死亡人數竟是乳癌6倍",
-      "published": "2026-07-07T02:25:04+00:00",
-      "sources": [
-        {
-          "name": "台灣好報",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ORlZtZ2Z0NFptWF9OTEVOY09VSGZwWktBZUdQVGtzM0M5bmN1Z0MybXVzdmg0cFFUQ1NpWXIybXBLUzhNMDlxcUk0NW5KRWh2R01v?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }

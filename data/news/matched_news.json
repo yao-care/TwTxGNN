@@ -1,17 +1,30 @@
 {
-  "last_updated": "2026-07-09T00:00:33.900188+00:00",
-  "total_count": 34,
-  "matched_count": 5,
+  "last_updated": "2026-07-09T04:42:05.981830+00:00",
+  "total_count": 31,
+  "matched_count": 4,
   "news": [
     {
-      "id": "d37179aa9f78",
-      "title": "太空恐加速老化 研究揭示地面老化疾病治療新契機",
-      "published": "2026-07-08T23:46:23+00:00",
-      "summary": "太空恐加速老化 研究揭示地面老化疾病治療新契機&nbsp;&nbsp;商傳媒",
+      "id": "c891bcdf3ac3",
+      "title": "一份禮物，最後送給了自己——走進紅商店，我看見公益真正抵達的地方",
+      "published": "2026-07-09T03:54:00+00:00",
+      "summary": "一份禮物，最後送給了自己——走進紅商店，我看見公益真正抵達的地方&nbsp;&nbsp;peopo.org",
       "sources": [
         {
-          "name": "商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNTzRBVHZkcVR4ajJfamVKTkpHNkVIcllmRzg0ZnRwcE9tRUxnUzRQbGFFdmJaZ2tVd3VGakVSdTlYVFNkeC1qSG14TVAzWWhZN1NEUkRZcjRwWGhHMzlpVHFDUkM5dGdGazNERy1BZFFFOTJxRnI2MGV6SUZSamJWb3FfV0JYU25LdGlXYUVZLWFnZDM2dGU0aXpLVzdDVzZKNUszbFR5elhuZ2txMG9tV1pBNGF5SERGRjhkOGtXeTliZ2VZbF9KS3RTWldXM01IXzB4bzBjQ2p6dTFXUUgwUzdGNUZzbHRwd19GZ0xNQkVsaFRnTGxFdERKOUpCNXJzSWppTVJaTUtqVXpuSkZVanhpLTZvS0k1NnUwZ3ZON0JjdFN5TG1IaTJ5VEYzWWpqdW5mM3pMbEtUSVc1X2VLSElQUFRkdkQySW10MzZfZDhSNlFwYzFISTBrRmxtSG42SnFTcTZsYWMxdw?oc=5"
+          "name": "peopo.org",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9CTk1DWkhrYnFEQ2hYR0VUM0dJVGVsbF83bW9oZ3hwUGQ0d2k5c0xDUnJqWHZKM19PSUdUb29MTE9xM1g2cXJyYQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c5bb5087d489",
+      "title": "科學人／住院刷牙能救命？研究：肺炎風險降60%",
+      "published": "2026-07-09T00:30:08+00:00",
+      "summary": "科學人／住院刷牙能救命？研究：肺炎風險降60%&nbsp;&nbsp;聯合新聞網",
+      "sources": [
+        {
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wMDFCenVIZXJncTRMd3RGU2lsU3hINDZxU1VaZUVQcU1qazRnSGNfZ0tXVll3RzlVWkdiLVBrelRBeG1WRkE4Zk5ZaXNCWENR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -123,7 +136,7 @@
       "id": "83b90195e61a",
       "title": "多種病痛都從身體發炎來 養成六個早晨習慣能有效預防",
       "published": "2026-07-08T00:25:49+00:00",
-      "summary": "多種病痛都從身體發炎來 養成六個早晨習慣能有效預防&nbsp;&nbsp;世界新聞網每天喝咖啡可護肝？研究：即便大量飲用 肝病與肝癌風險仍較低&nbsp;&nbsp;Taiwan News咖啡不只提神醒腦！研究揭護肝關鍵：無咖啡因也可能有幫助&nbsp;&nbsp;元氣網發炎｜長期熬夜靠咖啡吊命恐致癌 失智 心臟病 醫生教4招身體抗炎降負擔&nbsp;&nbsp;AM730",
+      "summary": "多種病痛都從身體發炎來 養成六個早晨習慣能有效預防&nbsp;&nbsp;世界新聞網每天喝咖啡可護肝？研究：即便大量飲用 肝病與肝癌風險仍較低&nbsp;&nbsp;Taiwan News咖啡不只提神醒腦！研究揭護肝關鍵：無咖啡因也可能有幫助&nbsp;&nbsp;元氣網發炎｜長期熬夜靠咖啡吊命恐致癌 失智 心臟病 醫生教4招身體抗炎降負擔&nbsp;&nbsp;am730",
       "sources": [
         {
           "name": "世界新聞網",
@@ -254,14 +267,14 @@
       "matched_keywords": []
     },
     {
-      "id": "8720b9f89388",
-      "title": "無良牙醫！文書用複寫紙充當咬合紙恐將重金屬吞下肚| 生活",
-      "published": "2026-07-07T19:39:04+00:00",
-      "summary": "無良牙醫！文書用複寫紙充當咬合紙恐將重金屬吞下肚| 生活&nbsp;&nbsp;三立新聞",
+      "id": "cb9836a48516",
+      "title": "釣蝦不瞎等！達人公開撇步掌握兩祕訣提高成功率| 生活",
+      "published": "2026-07-07T19:39:40+00:00",
+      "summary": "釣蝦不瞎等！達人公開撇步掌握兩祕訣提高成功率| 生活&nbsp;&nbsp;三立新聞",
       "sources": [
         {
           "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5oeVBweWNTWVZNTkdxWl9FbnZ3ZzdSU3NVSXdXcnNxTF83T3F5VDV5Wmh0Yjh0aHFLeS1JNWVHN240VDhob2c?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kTWQxbTNuNHp1ZnhBR3c3c1lNcm9jX1ZYMi1lX2hsbTYyNzlheURkeHMySGhlVXcwS1Y1cEx5c183dndISE9F?oc=5"
         }
       ],
       "matched_keywords": []
@@ -288,6 +301,19 @@
         {
           "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBjMkphZXBlOEFDRnpsbHFMTE5fWHpIT0plMVhsaFpCMTB2QWg0WXZJNmppenNBVFVrWkhjN1BuTmhZWmptMWpJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e64acdef35c8",
+      "title": "幫兒拍照驚現「瞳孔反白」 一檢查原來是眼癌！",
+      "published": "2026-07-07T16:23:36+00:00",
+      "summary": "幫兒拍照驚現「瞳孔反白」 一檢查原來是眼癌！&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9RdXh0Q2RTOV9udFZjM29EQ2wxejBxeERGa040aXNZQ3ljcFRXb201cDlsbTVhTTVrdWxpczZQamJPd3c3UXc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -371,19 +397,6 @@
       "matched_keywords": []
     },
     {
-      "id": "0b3acf3dcc0d",
-      "title": "夏日保存水果有絕竅 原來蘋果不能和「它」放一起！",
-      "published": "2026-07-07T11:19:50+00:00",
-      "summary": "夏日保存水果有絕竅 原來蘋果不能和「它」放一起！&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85cjJOX2pGWHpmYTIwYy13ZjNESnY2SS1fZm4xVGlCQnhVMExmdmJOMkdQRmYzSTRhVk5UeUhMbFp4eDYxSWc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "011e54327546",
       "title": "蜱蟲叮咬｜66歲男放狗遭蜱蟲叮咬 染罕見病毒 專家：15分鐘足以傳播",
       "published": "2026-07-07T08:59:16+00:00",
@@ -410,14 +423,27 @@
       "matched_keywords": []
     },
     {
-      "id": "011a10e83d61",
-      "title": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 | 健康元氣 | 商情",
-      "published": "2026-07-07T08:02:20+00:00",
-      "summary": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報五成侵襲性肺炎患者為青壯年！專家籲接種肺炎鏈球菌疫苗 降低感染&nbsp;&nbsp;聯合新聞網成人也得小心肺炎鏈球菌！醫揭：選對「血清型」成精準防重症關鍵&nbsp;&nbsp;三立新聞打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵&nbsp;&nbsp;PChome Online 新聞肺炎鏈球菌威脅升溫！成人防護邁向精準預防 | TVBS&nbsp;&nbsp;LINE TODAY",
+      "id": "e1a85d3c75d9",
+      "title": "下體腫塊不痛就沒事？少見睪丸癌專找年輕男 4症狀恐中晚期",
+      "published": "2026-07-07T06:56:43+00:00",
+      "summary": "下體腫塊不痛就沒事？少見睪丸癌專找年輕男 4症狀恐中晚期&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ycC1BTHFmQ243eGRteWZjMjJHdEYycndUMVNzVWFTSmg1MWFDb29udmdHNXcwZVd1RWJqVFRWZmJiWEs0Mi1CUzlzQnc1U1lYQ2JweU9faDRPQXc?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3eU1RcGdNZWdSTGFySDFCSTlJd1ExRktjY25VWFVxdlY1NXl4NENSdUNRQmpZdlZvXzZMc1Jrc1RUX2RCUGNwd0JEMlJXczM4aldmbFF4Q1poZWlKR1IycERMSlplTlhKanJXQ0hB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "903ec67f4197",
+      "title": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵 - PChome Online 新聞",
+      "published": "2026-07-07T06:43:14+00:00",
+      "summary": "打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵&nbsp;&nbsp;PChome Online 新聞五成侵襲性肺炎患者為青壯年！專家籲接種肺炎鏈球菌疫苗 降低感染&nbsp;&nbsp;聯合新聞網成人也得小心肺炎鏈球菌！醫揭：選對「血清型」成精準防重症關鍵&nbsp;&nbsp;三立新聞肺炎鏈球菌威脅升溫！成人防護邁向精準預防 | TVBS&nbsp;&nbsp;LINE TODAY不只長者要打 醫師示警慢性病青壯年肺炎重症風險飆升&nbsp;&nbsp;壹蘋新聞網",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkhaN3RSWjBzbFRQQVBfb01VZEs2dFFuVnR3UlBkUy1Sc3lXaTduekRtdGpVUmhJUnN1QUFYOWRfbEUwSWdqZDdLSE5iaGtkWkhvanhVZy1JYXVUb0FsQWdSZm1lLTRVcGFobnVUMXVnY05SMTdYSUtpNzVJZ2pBWG01YWdfdndiM0RlNTNqNTVJbnM?oc=5"
         }
       ],
       "matched_keywords": [
@@ -437,19 +463,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "e1a85d3c75d9",
-      "title": "下體腫塊不痛就沒事？少見睪丸癌專找年輕男 4症狀恐中晚期",
-      "published": "2026-07-07T06:56:43+00:00",
-      "summary": "下體腫塊不痛就沒事？少見睪丸癌專找年輕男 4症狀恐中晚期&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3eU1RcGdNZWdSTGFySDFCSTlJd1ExRktjY25VWFVxdlY1NXl4NENSdUNRQmpZdlZvXzZMc1Jrc1RUX2RCUGNwd0JEMlJXczM4aldmbFF4Q1poZWlKR1IycERMSlplTlhKanJXQ0hB?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "f814273ad6ca",
@@ -480,7 +493,7 @@
     {
       "id": "1f7505022198",
       "title": "失智不一定從健忘開始！哈佛900萬人研究：常認路的計程車、救護車司機，阿茲海默症相關死亡率最低",
-      "published": "2026-07-07T05:14:44+00:00",
+      "published": "2026-07-07T05:21:40+00:00",
       "summary": "失智不一定從健忘開始！哈佛900萬人研究：常認路的計程車、救護車司機，阿茲海默症相關死亡率最低&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
@@ -522,153 +535,6 @@
         {
           "name": "民視健康長照網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53OEFxM1FjSWx3dUkzblQwelU3bFQ5cUNIb0h6dTRFaGtEckRnOWlJaFphd2ZzRGd4RUswc0hlSjY2RGtodWJHUDNBNGRjOWZiczIwSzRsUGZRWHJtVl9UWlBKajk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fb906f639552",
-      "title": "24歲女抗骨癌5年復發4次慘歷經左眼失明徘徊生死邊緣仍戴面紗重返舞台：經歷九死一生我選擇抗爭",
-      "published": "2026-07-07T03:00:00+00:00",
-      "summary": "24歲女抗骨癌5年復發4次慘歷經左眼失明徘徊生死邊緣仍戴面紗重返舞台：經歷九死一生我選擇抗爭&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxQOVc5V1pBS2E0VTV1N0NoQ2c1OEJldXRvUVlNQ0tZVHJLcTZFY1JQbGZ0eGFOWjVVU0hVd2FiZXl3UUxOcC1fWHBGNngyTWIwYW9QdGF3clRRY1ZCdXYtNkhBQXUxUEhzZHVxTl9wZFhOSXMwTlIwdEhzWldLQU5aQ1laYXQ2RDJ6NmJOcnJKX1B3OXU3WlFqbjNCQ2FMbG43MXRDM3ItRFpYczFkNUtOck5TRTRMUTlHLVlCaWtDc21DckpKNF9aY3lXM21jLUtQbjJNelltN3dhd1pvRFF3c1YtN1NvVGV0LUdPaXhjbnZlbUoxZVoxZDNMR21qU2hYQWlPcjJQSjltWWtWMXVVOWhkNlRDSkctV3JxRm1saDNfRE8wcU9ydmVHOTlncmlHWS14S2NiRnM1X0xEeUlyS2VBTm50VERid1E1bWVPMjRzODNMcVpJV1kzQ2gxV19laTBFbnVYVVpjVWxDcE5XaTU0NXZwWUVJTnhTRkJnbWZ4SHltSEQxb1RqU3F2Z3JiNkZla1hhbWpEV0RUYVlLc2J5WHIwV0tYRmNxR0NOeFVYcmtCVGZzLWdxelpVSU5ndXJpcThoMHV6Rk43SkRCQ081VkF0dFVPSXRmNm4zMmxlcUlkd3ZHN05rN2RPY0RVdG9XcVZjY3Q3RFg4Y1BydzJIdEFHWXg3Zm1LekNkRDNWQUthRVNjUGdHUlREZE1jZ2ZYZ05HMFVCMlh6dHdZbkRkM09MM1RtVVRTQVhPaGtjakk2Vzd6Vi1OWXRVb0M1?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9d5d09f9bde5",
-      "title": "《別怕荷爾蒙，妳抗衰防病的關鍵》怕乳癌卻輕忽心臟病？奪走女性性命頭號殺手死亡人數竟是乳癌6倍",
-      "published": "2026-07-07T02:25:04+00:00",
-      "summary": "《別怕荷爾蒙，妳抗衰防病的關鍵》怕乳癌卻輕忽心臟病？奪走女性性命頭號殺手死亡人數竟是乳癌6倍&nbsp;&nbsp;台灣好報",
-      "sources": [
-        {
-          "name": "台灣好報",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ORlZtZ2Z0NFptWF9OTEVOY09VSGZwWktBZUdQVGtzM0M5bmN1Z0MybXVzdmg0cFFUQ1NpWXIybXBLUzhNMDlxcUk0NW5KRWh2R01v?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "fc205355f3f2",
-      "title": "反覆流鼻血別輕忽！恐是鼻咽癌警訊 出現「頭、鼻、耳、頸」症狀要提高警覺",
-      "published": "2026-07-07T02:00:00+00:00",
-      "summary": "反覆流鼻血別輕忽！恐是鼻咽癌警訊 出現「頭、鼻、耳、頸」症狀要提高警覺&nbsp;&nbsp;Heho健康",
-      "sources": [
-        {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9taUFfZDR0M1ZBRlZnWDQxYnQzY1lEUFRxbk9DUjRnVXhSWXozQkwwUkxpc1ZZNlB0NnEtdjhuWnRtUzBiSGZ2QUVMbw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "bf4e4cca5add",
-      "title": "歐洲多國示警「5種19世紀流行病」捲土重來：氣候＋人為因素",
-      "published": "2026-07-06T23:56:46+00:00",
-      "summary": "歐洲多國示警「5種19世紀流行病」捲土重來：氣候＋人為因素&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SMVNDekJZNE9JXzk1NUFmRldvemF2ai1fZU5pSVJOZjlYQUFkcE1YZ2JpTGU0TWsyUDFWMjhLMTJXMGpNREJHdtIBTEFVX3lxTE1ydm5IRUlRdm9PdHpLUHJFcmp3NWtON1pVSWl4ZWpscXVJS2U4WXRRMHlUY0M1THZJd1RZeWo3dDlJcEExVXdwemw5TFQ?oc=5"
         }
       ],
       "matched_keywords": []
