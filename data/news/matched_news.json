@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-07-09T14:33:08.101736+00:00",
-  "total_count": 24,
-  "matched_count": 3,
+  "last_updated": "2026-07-09T17:12:18.033897+00:00",
+  "total_count": 27,
+  "matched_count": 4,
   "news": [
+    {
+      "id": "89437652bf9a",
+      "title": "【全國新聞】加州再多一嬰兒感染肉毒桿菌 疑與某品牌奶粉有關",
+      "published": "2026-07-09T17:03:29+00:00",
+      "summary": "【全國新聞】加州再多一嬰兒感染肉毒桿菌 疑與某品牌奶粉有關&nbsp;&nbsp;KTSF.com",
+      "sources": [
+        {
+          "name": "KTSF.com",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sdUN5NGNPbzcxVW9tZDg2QmVndy02NnZOWnZTZU5rUGpWUkxydFpGc0VQMmNkTmV4bGxSdkJCamNWNF9wQ1JDZFdMRWdQQzB4OTd2TTU2dWdxUUdQT1F4RFh6ZGhWQmJ3blJIU0NPT1JqZFVZS1g5bXM5dEwzTEU?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "1624be5f1b31",
       "title": "八仙塵爆／先搶先贏？燙傷藥缺很大住院14天須13萬罐| 生活",
@@ -330,6 +343,35 @@
       "matched_keywords": []
     },
     {
+      "id": "a913f8545fc5",
+      "title": "肺炎鏈球菌威脅升溫！成人防護邁向精準預防 | TVBS - LINE TODAY",
+      "published": "2026-07-08T13:56:20+00:00",
+      "summary": "肺炎鏈球菌威脅升溫！成人防護邁向精準預防 | TVBS&nbsp;&nbsp;LINE TODAY五成侵襲性肺炎患者為青壯年！專家籲接種肺炎鏈球菌疫苗 降低感染&nbsp;&nbsp;聯合新聞網成人也得小心肺炎鏈球菌！醫揭：選對「血清型」成精準防重症關鍵&nbsp;&nbsp;三立新聞打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵&nbsp;&nbsp;PChome Online 新聞不只長者要打 醫師示警慢性病青壯年肺炎重症風險飆升&nbsp;&nbsp;壹蘋新聞網",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qSmU2N2lZUkxPUHB6R2JieEl3T0laMVhsXy1zU2EyZURkZWhFcm9NQ1ZpNEcyQzV6MEZzWkd5TWI0bFBRY01fcDZVdXZ5VFhzc2xpOXZR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "dcd85f733708",
       "title": "愛美人士注意！婦人注射微晶瓷隆鼻竟失明| 生活",
       "published": "2026-07-08T12:22:55+00:00",
@@ -513,6 +555,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "a1ac06252362",
+      "title": "人工智能AI問診準確嗎？",
+      "published": "2026-07-07T23:59:15+00:00",
+      "summary": "人工智能AI問診準確嗎？&nbsp;&nbsp;東方新地",
+      "sources": [
+        {
+          "name": "東方新地",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNRW50RE5VWjFiVnhuQkR4Z2hNdy1RQnZkNlFFS2oybHREeVU4ZXBzenZFOFJTZnByVEZZNWhnaDBmdlRwR3FIbjVPQ0FHcFIzSzlFYjlGNUhQYjFIdExrU1djUU1CWHhNUXhRcFF0ejZfRm9vbVBVTHE2d3c1XzhLU2wyTkJoLWU1VlB6Ty02dkd2Ykoyb1dXdTVZYlFZTUxNM3Q3VE03V0todXFkT2RCaG9qOGktdUdJcFVzUGJsOGlCRkhmWFJUTVVFQjhERTFNX1VsWDJOSmRFVTBRZllmdUVsQlZjVnNWeTNacDEyNEdyYVEwaERrbDlQSmZodTl0QWdvM3FVdHBMV1R6N3M4dzc5NkdfYUF6TllPTTZPekdIYVFvYmV0TmpuX2lQQW5ERFIxaWFVT3g0Z2VnZTJHSEhJR3ppZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "2132b3ac5e8a",

@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-09T14:33:04.580796+00:00",
-  "count": 24,
+  "fetched_at": "2026-07-09T17:12:14.763272+00:00",
+  "count": 27,
   "news": [
     {
       "id": "6b56b5323967",
@@ -12,18 +12,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40U3VwYXBwbmVSOE1mX2o2NTBWdzVMSTh6elNTSkRKTWtKZEdiRnhMTEd2ZWI3bnhDcTZiY3JfR3Vkb280NWlJd3gxTEh6b3dnVEJBeGtJVzA4MV9hbHlQWThqQWzSAWpBVV95cUxOcHowcERaVGhSSFlFeDlLa1NlbWRfVFAxUTJ4V3A1cVdjWVNMRFlOeUd4V19JUVU2SnBZVHRRdld1OXlZWnlkaFk4RG5YNUprU0hnZVNKN0dWblVLUDYtOGJHWWIzMHpLejJR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c5bb5087d489",
-      "title": "科學人／住院刷牙能救命？研究：肺炎風險降60% - 聯合新聞網",
-      "published": "2026-07-09T00:30:08+00:00",
-      "summary": "科學人／住院刷牙能救命？研究：肺炎風險降60%&nbsp;&nbsp;聯合新聞網",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wMDFCenVIZXJncTRMd3RGU2lsU3hINDZxU1VaZUVQcU1qazRnSGNfZ0tXVll3RzlVWkdiLVBrelRBeG1WRkE4Zk5ZaXNCWENR?oc=5"
         }
       ]
     },
@@ -40,14 +28,14 @@
       ]
     },
     {
-      "id": "eab036dee8af",
-      "title": "歐米伽-3補充劑真的對大腦有益嗎？ - 纽约时报中文网",
-      "published": "2026-07-09T03:45:25+00:00",
-      "summary": "歐米伽-3補充劑真的對大腦有益嗎？&nbsp;&nbsp;纽约时报中文网",
+      "id": "c5bb5087d489",
+      "title": "科學人／住院刷牙能救命？研究：肺炎風險降60% - 聯合新聞網",
+      "published": "2026-07-09T00:30:08+00:00",
+      "summary": "科學人／住院刷牙能救命？研究：肺炎風險降60%&nbsp;&nbsp;聯合新聞網",
       "sources": [
         {
-          "name": "纽约时报中文网",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdlFoTEtBZy1VZENqeHh3UU5YYVFud2s2XzdlbmFmUnZSM0JPcFZEOFIxc3V0SGpXMVc3ZXROeVNZblhGMWYyazJIb242clRXeU14R2RBZlZpQ0ZuQnNwR3d6MVhCdE5jdmxHSkFuMHRlc1JBcjI5MTI4Rkt5cVB6V2gyQ0RaSDI5LW5z?oc=5"
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wMDFCenVIZXJncTRMd3RGU2lsU3hINDZxU1VaZUVQcU1qazRnSGNfZ0tXVll3RzlVWkdiLVBrelRBeG1WRkE4Zk5ZaXNCWENR?oc=5"
         }
       ]
     },
@@ -60,6 +48,30 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQnVxWTZkQ1FzZVprOW9jZUoyeTZyOUZ5VjBTQl82STd2RVBEU2ltZFI1ZUZWRV8tN1NCWjFXbEctV1hwNzRjUWFhNkpxNER4SndWOHBNZjZIVkVHMGxSTnZBMnFLaHNQeWsteWFneWFUaGVzVF9sRmp1bHdGbXNLX0RBMWlmOTRabldMT040WmxUT3NreGxhUzFNN2Q?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eab036dee8af",
+      "title": "歐米伽-3補充劑真的對大腦有益嗎？ - 纽约时报中文网",
+      "published": "2026-07-09T03:45:25+00:00",
+      "summary": "歐米伽-3補充劑真的對大腦有益嗎？&nbsp;&nbsp;纽约时报中文网",
+      "sources": [
+        {
+          "name": "纽约时报中文网",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdlFoTEtBZy1VZENqeHh3UU5YYVFud2s2XzdlbmFmUnZSM0JPcFZEOFIxc3V0SGpXMVc3ZXROeVNZblhGMWYyazJIb242clRXeU14R2RBZlZpQ0ZuQnNwR3d6MVhCdE5jdmxHSkFuMHRlc1JBcjI5MTI4Rkt5cVB6V2gyQ0RaSDI5LW5z?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a913f8545fc5",
+      "title": "肺炎鏈球菌威脅升溫！成人防護邁向精準預防 | TVBS - LINE TODAY",
+      "published": "2026-07-08T13:56:20+00:00",
+      "summary": "肺炎鏈球菌威脅升溫！成人防護邁向精準預防 | TVBS&nbsp;&nbsp;LINE TODAY五成侵襲性肺炎患者為青壯年！專家籲接種肺炎鏈球菌疫苗 降低感染&nbsp;&nbsp;聯合新聞網成人也得小心肺炎鏈球菌！醫揭：選對「血清型」成精準防重症關鍵&nbsp;&nbsp;三立新聞打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵&nbsp;&nbsp;PChome Online 新聞不只長者要打 醫師示警慢性病青壯年肺炎重症風險飆升&nbsp;&nbsp;壹蘋新聞網",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qSmU2N2lZUkxPUHB6R2JieEl3T0laMVhsXy1zU2EyZURkZWhFcm9NQ1ZpNEcyQzV6MEZzWkd5TWI0bFBRY01fcDZVdXZ5VFhzc2xpOXZR?oc=5"
         }
       ]
     },
@@ -108,6 +120,18 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOSmRZdkF4U2JhWEpnczVWNFFaN3FUWk1sYlVDQ1V2bDVYbDh4Q1R3TXJrUnNWSUJBamdFZ1JqdGZFWkFnMWc2MWw4UnhBUmx4dHpqWTlNUHdQb3ZBYk9PSnJPaERUajk4bnNtaU9VcjFHaVFpRjBXUnIzMlJVOEhDcndqb0ZPS2RwSmNUNFRQX2s0VlBVWGVDV19HeVFzbU10a0drTnBTRlBZTmtGOXVPUF9iVXpZcXZWTVUxbUh0cjQyS3RicTFYaE94bDhMSjhYRlFBSm56RFNMZkdfUWd6MmhZdmJGNU81cXVMZmNIMkxyTFJGTVFRdEQybEFORUdaU2w5NGV4d2pTR3VLTU9NemJ0N2VVZnRLbDVfTHV4NWJ6LU5wSnFnRzdNWjcweFQ1WjBGclJTX1VDdGNabmtsVjZCbHNtTmR3SnB6MkVxUWxwbWVlV0pILWRDand5bXZRZlVLRUF0b0xDVi1CUkl2MVJlV3BtcnY0bzRnR1hFVzl2Y3lKVGhKX3ByY1NpT0pJM0tlU1M4a0dQUlFvbE5B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "89437652bf9a",
+      "title": "【全國新聞】加州再多一嬰兒感染肉毒桿菌 疑與某品牌奶粉有關 - KTSF.com",
+      "published": "2026-07-09T17:03:29+00:00",
+      "summary": "【全國新聞】加州再多一嬰兒感染肉毒桿菌 疑與某品牌奶粉有關&nbsp;&nbsp;KTSF.com",
+      "sources": [
+        {
+          "name": "KTSF.com",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sdUN5NGNPbzcxVW9tZDg2QmVndy02NnZOWnZTZU5rUGpWUkxydFpGc0VQMmNkTmV4bGxSdkJCamNWNF9wQ1JDZFdMRWdQQzB4OTd2TTU2dWdxUUdQT1F4RFh6ZGhWQmJ3blJIU0NPT1JqZFVZS1g5bXM5dEwzTEU?oc=5"
         }
       ]
     },
@@ -184,18 +208,6 @@
       ]
     },
     {
-      "id": "2132b3ac5e8a",
-      "title": "空軍甜心罹紅斑性狼瘡　醫：肺出血最凶險、致死率6成 - 三立新聞",
-      "published": "2026-07-07T23:10:50+00:00",
-      "summary": "空軍甜心罹紅斑性狼瘡 醫：肺出血最凶險、致死率6成&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5uMlZpM285SWNBTEp1aFRBQzhYUTl6YkpfUkpvT3NDYjRzUzR6V1lsclUxeEo2cUZJVVZ2U2planJfX0ltd1UyZ9IBTEFVX3lxTFBKcVdoTmdjVDgyal94c2JMX2puclF4bXZDakVFUk5GWWhmQU52TFBPZkpWYlV4UVhVOFBMMG1vak40UGpRZ044SmNKNG8?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a24a2ec00193",
       "title": "外出放狗遭蜱蟲叮咬 美66歲男染罕見病毒入ICU - dotdotnews",
       "published": "2026-07-09T08:31:57+00:00",
@@ -204,6 +216,18 @@
         {
           "name": "dotdotnews",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92TUtDVVcwVXgzb3QxQWt1dEhVdVVKTXdnaU9YMVdTVmRkU3pYTlExdWJ2dDJ5V2IyQTQtYkdnQi1Za1dfTjA5S3FrU2VqYXVBRmVrOVFVS3o4dklEU2tIbTgtYTNMTGo3X2JMdDJ4Vk9NazFZbGpyLXNB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2132b3ac5e8a",
+      "title": "空軍甜心罹紅斑性狼瘡　醫：肺出血最凶險、致死率6成 - 三立新聞",
+      "published": "2026-07-07T23:10:50+00:00",
+      "summary": "空軍甜心罹紅斑性狼瘡 醫：肺出血最凶險、致死率6成&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5uMlZpM285SWNBTEp1aFRBQzhYUTl6YkpfUkpvT3NDYjRzUzR6V1lsclUxeEo2cUZJVVZ2U2planJfX0ltd1UyZ9IBTEFVX3lxTFBKcVdoTmdjVDgyal94c2JMX2puclF4bXZDakVFUk5GWWhmQU52TFBPZkpWYlV4UVhVOFBMMG1vak40UGpRZ044SmNKNG8?oc=5"
         }
       ]
     },
@@ -232,18 +256,6 @@
       ]
     },
     {
-      "id": "e64acdef35c8",
-      "title": "幫兒拍照驚現「瞳孔反白」 一檢查原來是眼癌！ - 三立新聞",
-      "published": "2026-07-07T16:23:36+00:00",
-      "summary": "幫兒拍照驚現「瞳孔反白」 一檢查原來是眼癌！&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9RdXh0Q2RTOV9udFZjM29EQ2wxejBxeERGa040aXNZQ3ljcFRXb201cDlsbTVhTTVrdWxpczZQamJPd3c3UXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c606f0218309",
       "title": "全球研究：男性睾酮50年減半，科學家憂心環境因素與肥胖影響生育 - Singtaousa",
       "published": "2026-07-08T02:29:59+00:00",
@@ -252,6 +264,18 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ1Ftc19LNWctT1BLUWNNdmQ1eEFmVDBqaTNka1gtVUFRVlIyenhLOUFCYzMxdW11LUJ4V2xQNDdybG11dlQ1SU00OUhkcUZjdXdZZmJCMS1mRDhVSktYcHotTTN0Ym1PUWVXaGpHb0tPUFlGeXBEYXpNTXB0ZFhGczEyclR0dTlPZ082c0xfM211NnRUZlFpSllaRnpsRzk1bnhtd3pwOVhkM1JsX3V3dmJad2hTemY1YnVnZ242QjduMmxraGQtemxzc1Y?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a1ac06252362",
+      "title": "人工智能AI問診準確嗎？ - 東方新地",
+      "published": "2026-07-07T23:59:15+00:00",
+      "summary": "人工智能AI問診準確嗎？&nbsp;&nbsp;東方新地",
+      "sources": [
+        {
+          "name": "東方新地",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNRW50RE5VWjFiVnhuQkR4Z2hNdy1RQnZkNlFFS2oybHREeVU4ZXBzenZFOFJTZnByVEZZNWhnaDBmdlRwR3FIbjVPQ0FHcFIzSzlFYjlGNUhQYjFIdExrU1djUU1CWHhNUXhRcFF0ejZfRm9vbVBVTHE2d3c1XzhLU2wyTkJoLWU1VlB6Ty02dkd2Ykoyb1dXdTVZYlFZTUxNM3Q3VE03V0todXFkT2RCaG9qOGktdUdJcFVzUGJsOGlCRkhmWFJUTVVFQjhERTFNX1VsWDJOSmRFVTBRZllmdUVsQlZjVnNWeTNacDEyNEdyYVEwaERrbDlQSmZodTl0QWdvM3FVdHBMV1R6N3M4dzc5NkdfYUF6TllPTTZPekdIYVFvYmV0TmpuX2lQQW5ERFIxaWFVT3g0Z2VnZTJHSEhJR3ppZw?oc=5"
         }
       ]
     },
@@ -288,6 +312,18 @@
         {
           "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5hS2ZRSnc5dW45WmF3SnNkaXhRZmRqQ1Z1ZFJwWlloTFMwSzVSc3RKVFZPZUZtMFdPMmFiVXJGVkgxTGJ5MXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e64acdef35c8",
+      "title": "幫兒拍照驚現「瞳孔反白」 一檢查原來是眼癌！ - 三立新聞",
+      "published": "2026-07-07T16:23:36+00:00",
+      "summary": "幫兒拍照驚現「瞳孔反白」 一檢查原來是眼癌！&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9RdXh0Q2RTOV9udFZjM29EQ2wxejBxeERGa040aXNZQ3ljcFRXb201cDlsbTVhTTVrdWxpczZQamJPd3c3UXc?oc=5"
         }
       ]
     }

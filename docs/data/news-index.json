@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T14:33:08.136478+00:00",
-  "count": 3,
+  "generated": "2026-07-09T17:12:18.064696+00:00",
+  "count": 4,
   "news": [
     {
       "id": "6b56b5323967",
@@ -205,6 +205,34 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a913f8545fc5",
+      "title": "肺炎鏈球菌威脅升溫！成人防護邁向精準預防 | TVBS - LINE TODAY",
+      "published": "2026-07-08T13:56:20+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qSmU2N2lZUkxPUHB6R2JieEl3T0laMVhsXy1zU2EyZURkZWhFcm9NQ1ZpNEcyQzV6MEZzWkd5TWI0bFBRY01fcDZVdXZ5VFhzc2xpOXZR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
             }
           ]
         }
