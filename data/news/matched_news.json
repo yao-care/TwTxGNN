@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-07-10T13:04:22.195262+00:00",
-  "total_count": 22,
-  "matched_count": 7,
+  "last_updated": "2026-07-10T16:15:01.412959+00:00",
+  "total_count": 21,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "8fdee4d64f2a",
+      "title": "陳彥婷2歲兒反覆高燒找不到病因！ 「刷牙發現流血」花一周查症狀 - ETtoday星光雲| ETtoday新聞雲",
+      "published": "2026-07-10T14:39:00+00:00",
+      "summary": "陳彥婷2歲兒反覆高燒找不到病因！ 「刷牙發現流血」花一周查症狀&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲",
+      "sources": [
+        {
+          "name": "ETtoday星光雲| ETtoday新聞雲",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlZWkzbk1BTGo5RWZoVDE4UGRrbXlCbGpZeXpXdVcyLTJBelRPZXNsa2dzeF9rUVFOdkxVRHhQbjhpQVJRMUFIdkszNV9XQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f200abb2c0cd",
+      "title": "手震唔一定係柏金遜 手震10年竟然係「呢個疾病」",
+      "published": "2026-07-10T10:30:00+00:00",
+      "summary": "手震唔一定係柏金遜 手震10年竟然係「呢個疾病」&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPQ3VOMjNuV1VTN0xvaEE3NG1FZVB3LVZXV3l2RXJsSk9fc0ZlVXhRbExnMDI5bHh2cVFLcU93b2ktZ0lrRHZlVmc4aTc0dUVyMElEc05CbEVoT1dpWVdBeV9UaDBTbHBIeDlVLW9TVS1rR0NmZm80XzdQVlZNNVhqeVE0d0RMaFhQckRrVFFfak1nWDhmYmRBSmt5QmlSSndaMndpZ2pYTHVEWnRZTUJsZ25pcVp3Y2s2cS1Qd19EV21leHVNUUdRVldibmNqTUlTVHhkTDR1ZDdPQzdaQm9FTUZOd0l1bjd3b2dzSVdDbWl2YlZWLUZvWm9kWDcxSGNUemJKaEhFd2RsX1JTUkk5czBUY21Mbl8ydWtPUTVjS2FlVUc1SmM0c2dEcmZwNnBwbXZrTG9PdmJ5bk1DS2VpTjE5dWt6MFV3SzRjaQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "e68662e9e721",
       "title": "純柳橙汁不只熱量與糖分，研究：對心血管有累積性益處 - TechNews 科技新報",
@@ -412,54 +438,6 @@
       ]
     },
     {
-      "id": "b8152d757b43",
-      "title": "【哇潮】預防大腸癌自己來先觀察便便就對了| 專欄",
-      "published": "2026-07-09T21:36:46+00:00",
-      "summary": "【哇潮】預防大腸癌自己來先觀察便便就對了| 專欄&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuSWRiSjluNWlSMU55enM0RXFPQUszdWpYYno3ZGkwa2pqaGFJTWZ4WXlUblZZeWVGdTFhOVZETTRTdzhFNWtz?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "1624be5f1b31",
       "title": "八仙塵爆／先搶先贏？燙傷藥缺很大住院14天須13萬罐| 生活",
       "published": "2026-07-09T21:12:35+00:00",
@@ -577,6 +555,19 @@
       "matched_keywords": []
     },
     {
+      "id": "9e765ac13c58",
+      "title": "噗浪「肉骨獸」要做食品登錄？ 網友譏：政府又在秀下限| 生活",
+      "published": "2026-07-08T22:50:07+00:00",
+      "summary": "噗浪「肉骨獸」要做食品登錄？ 網友譏：政府又在秀下限| 生活&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE80NXhUS3ktZFcybWRVZlU3bGdEbi13cGRqSFBBcXRNNm9XWWtEemNoWWRkbXBoMHJpTmtkRkpaMFRNVFFoaHdj?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "cb9836a48516",
       "title": "釣蝦不瞎等！達人公開撇步掌握兩祕訣提高成功率| 生活",
       "published": "2026-07-08T19:23:49+00:00",
@@ -585,45 +576,6 @@
         {
           "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kTWQxbTNuNHp1ZnhBR3c3c1lNcm9jX1ZYMi1lX2hsbTYyNzlheURkeHMySGhlVXcwS1Y1cEx5c183dndISE9F?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ca7cdab59b60",
-      "title": "畢業健康檢查馬英九胖了、腰圍也粗了| 政治",
-      "published": "2026-07-08T15:28:12+00:00",
-      "summary": "畢業健康檢查馬英九胖了、腰圍也粗了| 政治&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBRU193bElQdWdoVjlPSzVId3pRWXY3d21fQWhHalNDWUt4TmZ5cW5mNEpiV2xNSTI2RzRWZC1yOTFvcl9xYVNJ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2c99a291db24",
-      "title": "男性健康｜「戒色」有助提高性能力？３個習慣才是睾丸素飆升關鍵",
-      "published": "2026-07-08T14:00:32+00:00",
-      "summary": "男性健康｜「戒色」有助提高性能力？３個習慣才是睾丸素飆升關鍵&nbsp;&nbsp;香港01健康網》禁慾沒用！ 醫曝3件無聊小事真正助攻男性雄風&nbsp;&nbsp;自由健康網睡不飽害不舉！實測20歲男熬夜1星期雄性素慘如老翁- 健康&nbsp;&nbsp;中時新聞網禁慾換不到雄風！ 醫破都市傳說：其實只要做對3件事 | 鏡週刊&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOSmRZdkF4U2JhWEpnczVWNFFaN3FUWk1sYlVDQ1V2bDVYbDh4Q1R3TXJrUnNWSUJBamdFZ1JqdGZFWkFnMWc2MWw4UnhBUmx4dHpqWTlNUHdQb3ZBYk9PSnJPaERUajk4bnNtaU9VcjFHaVFpRjBXUnIzMlJVOEhDcndqb0ZPS2RwSmNUNFRQX2s0VlBVWGVDV19HeVFzbU10a0drTnBTRlBZTmtGOXVPUF9iVXpZcXZWTVUxbUh0cjQyS3RicTFYaE94bDhMSjhYRlFBSm56RFNMZkdfUWd6MmhZdmJGNU81cXVMZmNIMkxyTFJGTVFRdEQybEFORUdaU2w5NGV4d2pTR3VLTU9NemJ0N2VVZnRLbDVfTHV4NWJ6LU5wSnFnRzdNWjcweFQ1WjBGclJTX1VDdGNabmtsVjZCbHNtTmR3SnB6MkVxUWxwbWVlV0pILWRDand5bXZRZlVLRUF0b0xDVi1CUkl2MVJlV3BtcnY0bzRnR1hFVzl2Y3lKVGhKX3ByY1NpT0pJM0tlU1M4a0dQUlFvbE5B?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "dcd85f733708",
-      "title": "愛美人士注意！婦人注射微晶瓷隆鼻竟失明| 生活",
-      "published": "2026-07-08T12:22:55+00:00",
-      "summary": "愛美人士注意！婦人注射微晶瓷隆鼻竟失明| 生活&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9KeHgyNmg1QmpHdU5Qd2xibWRDamtzRGRMWTRWMnVBY0tIQnBFRl9LZUQwTU1yZUZIcThINDllOVRiLWdOOVE?oc=5"
         }
       ],
       "matched_keywords": []
