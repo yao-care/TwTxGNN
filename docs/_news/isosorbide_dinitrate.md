@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,23 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [純柳橙汁不只熱量與糖分，研究：對心血管有累積性益處 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE43MVJhT09tQ0VzRTR0SkRmZlBJYktZaVFheHRDbFlZd0YwbW9wUnRyVjlPcENWUVB3Wk5NMVlSSnE2bjNlSHlCdS1JUEF4YUFjMENhZjlDQnJyWGRXN0JjNw?oc=5)
+
+2026-07-10 <span class="news-indication-tag">心血管</span>
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE43MVJhT09tQ0VzRTR0SkRmZlBJYktZaVFheHRDbFlZd0YwbW9wUnRyVjlPcENWUVB3Wk5NMVlSSnE2bjNlSHlCdS1JUEF4YUFjMENhZjlDQnJyWGRXN0JjNw?oc=5)
+
+---
+
+### [夜間習慣暗藏心血管危機！醫點名7大行為加速血管老化](https://news.google.com/rss/articles/CBMi9AJBVV95cUxNNkhyMGdCWVdYdHhwMjctTEZpYk9ZSEhpU1A4OTc1Ukx4dzV0QXktMWpScDNxODlBcjBraFRUTkNtRzNaWHpIS2V5eG9JQ1NKaDctT1pPWEtuRG9PaGFISHhnUng1WG1RTWVfQmZaSy00aDhGVmRZN0xQUG9QTy1TQjBKYThqYV9KQ3FDZUFxdU9sS2hOd3B3WnQyeFlPN0FfUlBCQWhaajdFS0E5bnV6UGZKMC1ETFlmU1VXeVNieVVSS2hZaUtUQUdzMlBoRGpPbDFoLVF1ZHRmeE9wajJ5V19xclh4MWdiZThzRFh1ZkV2QW83bFhPbkRzSEFOd1JnTkFha1VoWmVQYWVPblE1REt3NzNXRkZfTEtCMG1LTC02enNlYjVQNHNWU1pjZnBuLW9ZMHgtbkNlVEhCMlZQSmJaNG9FVXhnTEVoaS1wREc4UTI1Ql8yb2xlUFNRVVZiWW1PNlRmMUhjN2tZVXZ6dXpoS0Q?oc=5)
+
+2026-07-10 <span class="news-indication-tag">心血管</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi9AJBVV95cUxNNkhyMGdCWVdYdHhwMjctTEZpYk9ZSEhpU1A4OTc1Ukx4dzV0QXktMWpScDNxODlBcjBraFRUTkNtRzNaWHpIS2V5eG9JQ1NKaDctT1pPWEtuRG9PaGFISHhnUng1WG1RTWVfQmZaSy00aDhGVmRZN0xQUG9QTy1TQjBKYThqYV9KQ3FDZUFxdU9sS2hOd3B3WnQyeFlPN0FfUlBCQWhaajdFS0E5bnV6UGZKMC1ETFlmU1VXeVNieVVSS2hZaUtUQUdzMlBoRGpPbDFoLVF1ZHRmeE9wajJ5V19xclh4MWdiZThzRFh1ZkV2QW83bFhPbkRzSEFOd1JnTkFha1VoWmVQYWVPblE1REt3NzNXRkZfTEtCMG1LTC02enNlYjVQNHNWU1pjZnBuLW9ZMHgtbkNlVEhCMlZQSmJaNG9FVXhnTEVoaS1wREc4UTI1Ql8yb2xlUFNRVVZiWW1PNlRmMUhjN2tZVXZ6dXpoS0Q?oc=5)
+
+---
 
 
 <div class="disclaimer">

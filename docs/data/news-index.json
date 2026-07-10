@@ -1,7 +1,263 @@
 {
-  "generated": "2026-07-10T06:34:04.582457+00:00",
-  "count": 4,
+  "generated": "2026-07-10T10:14:57.935662+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "e68662e9e721",
+      "title": "純柳橙汁不只熱量與糖分，研究：對心血管有累積性益處 - TechNews 科技新報",
+      "published": "2026-07-10T09:28:27+00:00",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43MVJhT09tQ0VzRTR0SkRmZlBJYktZaVFheHRDbFlZd0YwbW9wUnRyVjlPcENWUVB3Wk5NMVlSSnE2bjNlSHlCdS1JUEF4YUFjMENhZjlDQnJyWGRXN0JjNw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3ded454e4fd0",
+      "title": "夜間習慣暗藏心血管危機！醫點名7大行為加速血管老化",
+      "published": "2026-07-10T08:57:12+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNNkhyMGdCWVdYdHhwMjctTEZpYk9ZSEhpU1A4OTc1Ukx4dzV0QXktMWpScDNxODlBcjBraFRUTkNtRzNaWHpIS2V5eG9JQ1NKaDctT1pPWEtuRG9PaGFISHhnUng1WG1RTWVfQmZaSy00aDhGVmRZN0xQUG9QTy1TQjBKYThqYV9KQ3FDZUFxdU9sS2hOd3B3WnQyeFlPN0FfUlBCQWhaajdFS0E5bnV6UGZKMC1ETFlmU1VXeVNieVVSS2hZaUtUQUdzMlBoRGpPbDFoLVF1ZHRmeE9wajJ5V19xclh4MWdiZThzRFh1ZkV2QW83bFhPbkRzSEFOd1JnTkFha1VoWmVQYWVPblE1REt3NzNXRkZfTEtCMG1LTC02enNlYjVQNHNWU1pjZnBuLW9ZMHgtbkNlVEhCMlZQSmJaNG9FVXhnTEVoaS1wREc4UTI1Ql8yb2xlUFNRVVZiWW1PNlRmMUhjN2tZVXZ6dXpoS0Q?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4a0ad9e952e6",
+      "title": "香港常見癌症咽喉癌 警惕常見徵兆",
+      "published": "2026-07-10T08:32:23+00:00",
+      "sources": [
+        {
+          "name": "東周網",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPeVNta09aSTZobGo4dW5WMUNfenFWdl9DcnFhUkJSb3ZReGpLdnAxOFZqWm5aUFBpZFlXYjlJZ0xSeUl6dXQyb2hDWlhJR0k3QmRfN0NSXzU1dE92VkVlSERjQ25PZTVMMkFEZl8xOHB5MlB0V1BDUjNPMWRnODZybGdiREZMN3kxbXV4MEU0RVE5bERxcGk5WFRLVjh6VFdyaHJ3ckNxVXE1dWF3YjRNOUU2WWFyY3JyV3FYbGl3NnBJZWpyVzdsaERMTEJtTElpeDh1QW1qV2V1bjViSGFSU0RlUWRacEE0TmZ1enZEbG5uWWRESGlvSTU2LW9MblNZb2dIOTE2ZnJ6a1QzVVE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "c49941c63225",
       "title": "拉肚子竟引發咳嗽？顧好腸胃也能救呼吸道 避免感冒拖延好不了 - TVBS 健康2.0",
@@ -51,12 +307,12 @@
       ]
     },
     {
-      "id": "567fd4c744cc",
+      "id": "ae446daf6699",
       "title": "嗅覺退化或是阿茲海默症早期警號 研究揭： 大腦免疫細胞誤傷嗅覺神經",
       "published": "2026-07-09T23:00:04+00:00",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQRTZ1WmRKQTR3TUtKQXNQTEQtei03d2RMSjc4TVlzbTdYd0F4cWpUUnFuVC12cGRIR0NPZDBXTDlUTS1KTFBseHJKSlZMczRzZDRVN2VZRk5pcEZBNGhOVVJ2Si1qT2U3MlJTd0w0R1M1bzAtUTRHVFhJRVo5SWpyV253SlpQMi1uMDYxc2lYRlZTYVZ6YkNycmgyU1pOYjlKM3JLTHBoT0xrWHUyUm44SEk4MzR1MjVCTUNuN2dZdkFrZ0tNRm9TNVo1c0pzMjdiMDlVb2xWdHN1WV8wUnk4ZFEyLXFINGthamJQQ2FEOWdnN1ZxZTEwV3RHZ21VemRpUDZyaVBidnZob0xSdlhNcDFYV1VjU1ItcjVDVGtyZmo1Yllyb3dDVGc5Y2V6T19tR2FlSlZuMkEyYjd1RUhuWTVDSGE4dFdZY2x6QlVlN201SFlfQ2w3OXB1VWZzNTMtc195SGxpRDU4c01TeUow?oc=5"
         }
       ],
