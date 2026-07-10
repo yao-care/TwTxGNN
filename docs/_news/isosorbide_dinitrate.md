@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [純柳橙汁不只熱量與糖分，研究：對心血管有累積性益處 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE43MVJhT09tQ0VzRTR0SkRmZlBJYktZaVFheHRDbFlZd0YwbW9wUnRyVjlPcENWUVB3Wk5NMVlSSnE2bjNlSHlCdS1JUEF4YUFjMENhZjlDQnJyWGRXN0JjNw?oc=5)
-
-2026-07-10 <span class="news-indication-tag">心血管</span>
-
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE43MVJhT09tQ0VzRTR0SkRmZlBJYktZaVFheHRDbFlZd0YwbW9wUnRyVjlPcENWUVB3Wk5NMVlSSnE2bjNlSHlCdS1JUEF4YUFjMENhZjlDQnJyWGRXN0JjNw?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [夜間習慣暗藏心血管危機！醫點名7大行為加速血管老化](https://news.google.com/rss/articles/CBMi6gJBVV95cUxPb3JmZEdnYUVSeng5QnVtRmZCT1NPQm9hRkZMUzNMemY0M0h2T3JYTTRVSWRVT1ppbEo2eGtsc1ZSSzUxcEhGWUpHZ2tRNmptWHo4WTdDV2hEQk9PdFJUMEhjOWhFRmpqOUF3cnJ2UmV6RUJ4XzBIZjNQX0JscUlEb1hWQzdReVhrU0lrMVZ4N1FwSGtjS21hWG52RnJ0WmNDNDc4SkViZFlzWnVicmt2WEZyUWt0NWhidlE4ZVU5Tm5HOHNMd205Z3B2X0ZwZ1gxMF9jVjByVnQ0blRkV0p1YWFUYzRDZTBFWHhoYmV2OXhuRGNzN0ZQWmZEYnIwQWpNUWNzcW44MzFleXE1Z3FmdWVBRzh1VmdnSklQeTlLbTExamZoeElNdmJhU09EYUpEZHJvZXFWM0t0ekQyT3BaeEJFdjl3MDFIdy1lU0NIa3dWbXZ5aWpkc3pIdklFdjN4UC1OQ2NjN3FzZw?oc=5)
 
