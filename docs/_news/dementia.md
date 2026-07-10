@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智（dementia） 相關新聞"
+title: "阿茲海默症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "阿茲海默症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智（dementia） 相關新聞
+# 阿茲海默症（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="阿茲海默症（dementia） 有什麼相關新聞？">
+<strong>阿茲海默症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,7 +29,15 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [嗅覺退化或是阿茲海默症早期警號 研究揭： 大腦免疫細胞誤傷嗅覺神經](https://news.google.com/rss/articles/CBMi7wJBVV95cUxQRTZ1WmRKQTR3TUtKQXNQTEQtei03d2RMSjc4TVlzbTdYd0F4cWpUUnFuVC12cGRIR0NPZDBXTDlUTS1KTFBseHJKSlZMczRzZDRVN2VZRk5pcEZBNGhOVVJ2Si1qT2U3MlJTd0w0R1M1bzAtUTRHVFhJRVo5SWpyV253SlpQMi1uMDYxc2lYRlZTYVZ6YkNycmgyU1pOYjlKM3JLTHBoT0xrWHUyUm44SEk4MzR1MjVCTUNuN2dZdkFrZ0tNRm9TNVo1c0pzMjdiMDlVb2xWdHN1WV8wUnk4ZFEyLXFINGthamJQQ2FEOWdnN1ZxZTEwV3RHZ21VemRpUDZyaVBidnZob0xSdlhNcDFYV1VjU1ItcjVDVGtyZmo1Yllyb3dDVGc5Y2V6T19tR2FlSlZuMkEyYjd1RUhuWTVDSGE4dFdZY2x6QlVlN201SFlfQ2w3OXB1VWZzNTMtc195SGxpRDU4c01TeUow?oc=5)
+
+2026-07-09
+
+來源：[bastillepost.com](https://news.google.com/rss/articles/CBMi7wJBVV95cUxQRTZ1WmRKQTR3TUtKQXNQTEQtei03d2RMSjc4TVlzbTdYd0F4cWpUUnFuVC12cGRIR0NPZDBXTDlUTS1KTFBseHJKSlZMczRzZDRVN2VZRk5pcEZBNGhOVVJ2Si1qT2U3MlJTd0w0R1M1bzAtUTRHVFhJRVo5SWpyV253SlpQMi1uMDYxc2lYRlZTYVZ6YkNycmgyU1pOYjlKM3JLTHBoT0xrWHUyUm44SEk4MzR1MjVCTUNuN2dZdkFrZ0tNRm9TNVo1c0pzMjdiMDlVb2xWdHN1WV8wUnk4ZFEyLXFINGthamJQQ2FEOWdnN1ZxZTEwV3RHZ21VemRpUDZyaVBidnZob0xSdlhNcDFYV1VjU1ItcjVDVGtyZmo1Yllyb3dDVGc5Y2V6T19tR2FlSlZuMkEyYjd1RUhuWTVDSGE4dFdZY2x6QlVlN201SFlfQ2w3OXB1VWZzNTMtc195SGxpRDU4c01TeUow?oc=5)
+
+---
 
 ### [多種病痛都從身體發炎來 養成六個早晨習慣能有效預防](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiUjk2SnZEOEk0X3pKYzB6b1RyQUVoVzB3NWZkM1E4NE5TTGxuQ1NiakZCZ2Q3MzBNZlhmaXNFcnc0alpSUDJ4dGZMSURoaDFDTmZGZjQxOG1ja2xzMjRIYkxR0gFnQVVfeXFMT25KZk9wZkNHenRDRW1zZHg5dnRyWnFHX0pMSDEta3BoMHVSOEo0cWN3LVNRbklzZVB2NmFLa1ZRMUhPNmQ5c21mZEV3Y2w3UzltQUhhSEZVaFRxUlBBZ0pHUWJYb2M1OA?oc=5)
 
