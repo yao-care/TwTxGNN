@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-10T10:14:57.935662+00:00",
+  "generated": "2026-07-10T13:04:22.227047+00:00",
   "count": 7,
   "news": [
     {
@@ -27,13 +27,13 @@
       ]
     },
     {
-      "id": "3ded454e4fd0",
+      "id": "ed2010dcd4f8",
       "title": "夜間習慣暗藏心血管危機！醫點名7大行為加速血管老化",
       "published": "2026-07-10T08:57:12+00:00",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNNkhyMGdCWVdYdHhwMjctTEZpYk9ZSEhpU1A4OTc1Ukx4dzV0QXktMWpScDNxODlBcjBraFRUTkNtRzNaWHpIS2V5eG9JQ1NKaDctT1pPWEtuRG9PaGFISHhnUng1WG1RTWVfQmZaSy00aDhGVmRZN0xQUG9QTy1TQjBKYThqYV9KQ3FDZUFxdU9sS2hOd3B3WnQyeFlPN0FfUlBCQWhaajdFS0E5bnV6UGZKMC1ETFlmU1VXeVNieVVSS2hZaUtUQUdzMlBoRGpPbDFoLVF1ZHRmeE9wajJ5V19xclh4MWdiZThzRFh1ZkV2QW83bFhPbkRzSEFOd1JnTkFha1VoWmVQYWVPblE1REt3NzNXRkZfTEtCMG1LTC02enNlYjVQNHNWU1pjZnBuLW9ZMHgtbkNlVEhCMlZQSmJaNG9FVXhnTEVoaS1wREc4UTI1Ql8yb2xlUFNRVVZiWW1PNlRmMUhjN2tZVXZ6dXpoS0Q?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPb3JmZEdnYUVSeng5QnVtRmZCT1NPQm9hRkZMUzNMemY0M0h2T3JYTTRVSWRVT1ppbEo2eGtsc1ZSSzUxcEhGWUpHZ2tRNmptWHo4WTdDV2hEQk9PdFJUMEhjOWhFRmpqOUF3cnJ2UmV6RUJ4XzBIZjNQX0JscUlEb1hWQzdReVhrU0lrMVZ4N1FwSGtjS21hWG52RnJ0WmNDNDc4SkViZFlzWnVicmt2WEZyUWt0NWhidlE4ZVU5Tm5HOHNMd205Z3B2X0ZwZ1gxMF9jVjByVnQ0blRkV0p1YWFUYzRDZTBFWHhoYmV2OXhuRGNzN0ZQWmZEYnIwQWpNUWNzcW44MzFleXE1Z3FmdWVBRzh1VmdnSklQeTlLbTExamZoeElNdmJhU09EYUpEZHJvZXFWM0t0ekQyT3BaeEJFdjl3MDFIdy1lU0NIa3dWbXZ5aWpkc3pIdklFdjN4UC1OQ2NjN3FzZw?oc=5"
         }
       ],
       "keywords": [
@@ -259,9 +259,81 @@
       ]
     },
     {
+      "id": "c8afd7712e38",
+      "title": "心疼！男嬰罕見心臟病柯P請台大全力相助| 社會",
+      "published": "2026-07-10T06:02:58+00:00",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1MTmN1dG9YUTZTZjFValVBRUZMd21HLXlGN2xfSUZRSkF1ODN1a3M5NWZ2V2RFZjJhdl83d1FvaThLcnNwMnc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "c49941c63225",
       "title": "拉肚子竟引發咳嗽？顧好腸胃也能救呼吸道 避免感冒拖延好不了 - TVBS 健康2.0",
-      "published": "2026-07-10T05:20:00+00:00",
+      "published": "2026-07-10T05:20:16+00:00",
       "sources": [
         {
           "name": "TVBS 健康2.0",
@@ -277,30 +349,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "131193eb2092",
-      "title": "每天1簡單習慣失智風險降39％ 醫：能幫大腦存抗老本錢- 健康",
-      "published": "2026-07-10T02:38:48+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WS05QRElOamtrUnRCVlEwbW16TU5Cc1piSXdnQnVpdWVGX25tWGx2QjJNS0d0SnBqZWxKMjE1Q1d6Xzl4R1loc2w2eHhmbXJFZzIzMzd3SFYwU0JLUVcyVU14TU5RZ0pmRWlXbnNn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
