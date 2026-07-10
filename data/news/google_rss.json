@@ -1,53 +1,41 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-10T02:02:44.470859+00:00",
-  "count": 22,
+  "fetched_at": "2026-07-10T06:34:00.591175+00:00",
+  "count": 19,
   "news": [
     {
-      "id": "6b56b5323967",
-      "title": "癌症免疫療法露曙光 科學家找到現成抗癌細胞新來源 - 自由健康網",
-      "published": "2026-07-09T09:21:00+00:00",
-      "summary": "癌症免疫療法露曙光 科學家找到現成抗癌細胞新來源&nbsp;&nbsp;自由健康網",
+      "id": "40d95a488925",
+      "title": "網路謠言謀害新生兒？美國父母拒讓孩子打針引致命風險| 紐時風格 - 聯合報數位版",
+      "published": "2026-07-10T03:00:00+00:00",
+      "summary": "網路謠言謀害新生兒？美國父母拒讓孩子打針引致命風險| 紐時風格&nbsp;&nbsp;聯合報數位版",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40U3VwYXBwbmVSOE1mX2o2NTBWdzVMSTh6elNTSkRKTWtKZEdiRnhMTEd2ZWI3bnhDcTZiY3JfR3Vkb280NWlJd3gxTEh6b3dnVEJBeGtJVzA4MV9hbHlQWThqQWzSAWpBVV95cUxOcHowcERaVGhSSFlFeDlLa1NlbWRfVFAxUTJ4V3A1cVdjWVNMRFlOeUd4V19JUVU2SnBZVHRRdld1OXlZWnlkaFk4RG5YNUprU0hnZVNKN0dWblVLUDYtOGJHWWIzMHpLejJR?oc=5"
+          "name": "聯合報數位版",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwTVpES00wUloxZHJzU2dzZy1aV1Y5R2ZVRnR2eUQtbWlySVI5QUN5M0l2M3FIS3BqdmxFSXBXcTFjOUEzSDlrSE5lMmpyZV9rS3JBcFN5Yw?oc=5"
         }
       ]
     },
     {
-      "id": "83b90195e61a",
-      "title": "多種病痛都從身體發炎來 養成六個早晨習慣能有效預防 - 世界新聞網",
-      "published": "2026-07-08T00:25:49+00:00",
-      "summary": "多種病痛都從身體發炎來 養成六個早晨習慣能有效預防&nbsp;&nbsp;世界新聞網每天喝咖啡可護肝？研究：即便大量飲用 肝病與肝癌風險仍較低&nbsp;&nbsp;Taiwan News咖啡不只提神醒腦！研究揭護肝關鍵：無咖啡因也可能有幫助&nbsp;&nbsp;元氣網發炎｜長期熬夜靠咖啡吊命恐致癌 失智 心臟病 醫生教4招身體抗炎降負擔&nbsp;&nbsp;am730",
+      "id": "c49941c63225",
+      "title": "拉肚子竟引發咳嗽？顧好腸胃也能救呼吸道 避免感冒拖延好不了 - TVBS 健康2.0",
+      "published": "2026-07-10T05:20:00+00:00",
+      "summary": "拉肚子竟引發咳嗽？顧好腸胃也能救呼吸道 避免感冒拖延好不了&nbsp;&nbsp;TVBS 健康2.0",
       "sources": [
         {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiUjk2SnZEOEk0X3pKYzB6b1RyQUVoVzB3NWZkM1E4NE5TTGxuQ1NiakZCZ2Q3MzBNZlhmaXNFcnc0alpSUDJ4dGZMSURoaDFDTmZGZjQxOG1ja2xzMjRIYkxR0gFnQVVfeXFMT25KZk9wZkNHenRDRW1zZHg5dnRyWnFHX0pMSDEta3BoMHVSOEo0cWN3LVNRbklzZVB2NmFLa1ZRMUhPNmQ5c21mZEV3Y2w3UzltQUhhSEZVaFRxUlBBZ0pHUWJYb2M1OA?oc=5"
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBObnFQbGczaWROMGtMLS1TNGVyd2JZYmRVdmg4MUp2YmEwa0U5dERwNFYycjZYU0swQUVRQ0lTY2JsamxjZFZDMDJQNlUxQVJHMVlB?oc=5"
         }
       ]
     },
     {
-      "id": "a913f8545fc5",
-      "title": "肺炎鏈球菌威脅升溫！成人防護邁向精準預防 | TVBS - LINE TODAY",
-      "published": "2026-07-08T13:56:20+00:00",
-      "summary": "肺炎鏈球菌威脅升溫！成人防護邁向精準預防 | TVBS&nbsp;&nbsp;LINE TODAY打破肺炎鏈球菌防治盲點！醫界籲成人精準防護：血清型對準新興變異株是關鍵&nbsp;&nbsp;PChome Online 新聞肺炎鏈球菌重症不分年齡 醫點名吸菸、慢性病、常出差族要當心&nbsp;&nbsp;自由健康網五成侵襲性肺炎患者為青壯年！專家籲接種肺炎鏈球菌疫苗 降低感染&nbsp;&nbsp;聯合新聞網不只長者要打 醫師示警慢性病青壯年肺炎重症風險飆升&nbsp;&nbsp;壹蘋新聞網",
+      "id": "131193eb2092",
+      "title": "每天1簡單習慣失智風險降39％ 醫：能幫大腦存抗老本錢- 健康 - 中時新聞網",
+      "published": "2026-07-10T02:38:48+00:00",
+      "summary": "每天1簡單習慣失智風險降39％ 醫：能幫大腦存抗老本錢- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qSmU2N2lZUkxPUHB6R2JieEl3T0laMVhsXy1zU2EyZURkZWhFcm9NQ1ZpNEcyQzV6MEZzWkd5TWI0bFBRY01fcDZVdXZ5VFhzc2xpOXZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c5bb5087d489",
-      "title": "科學人／住院刷牙能救命？研究：肺炎風險降60% - 聯合新聞網",
-      "published": "2026-07-09T00:30:08+00:00",
-      "summary": "科學人／住院刷牙能救命？研究：肺炎風險降60%&nbsp;&nbsp;聯合新聞網",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wMDFCenVIZXJncTRMd3RGU2lsU3hINDZxU1VaZUVQcU1qazRnSGNfZ0tXVll3RzlVWkdiLVBrelRBeG1WRkE4Zk5ZaXNCWENR?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WS05QRElOamtrUnRCVlEwbW16TU5Cc1piSXdnQnVpdWVGX25tWGx2QjJNS0d0SnBqZWxKMjE1Q1d6Xzl4R1loc2w2eHhmbXJFZzIzMzd3SFYwU0JLUVcyVU14TU5RZ0pmRWlXbnNn?oc=5"
         }
       ]
     },
@@ -64,14 +52,14 @@
       ]
     },
     {
-      "id": "12a9f788defc",
-      "title": "結婚3年不孕！醫驗出夫妻染梅毒 扯出他在大陸遭特殊招待 - 東森新聞",
-      "published": "2026-07-08T05:57:00+00:00",
-      "summary": "結婚3年不孕！醫驗出夫妻染梅毒 扯出他在大陸遭特殊招待&nbsp;&nbsp;東森新聞",
+      "id": "c5bb5087d489",
+      "title": "科學人／住院刷牙能救命？研究：肺炎風險降60% - 聯合新聞網",
+      "published": "2026-07-09T00:30:08+00:00",
+      "summary": "科學人／住院刷牙能救命？研究：肺炎風險降60%&nbsp;&nbsp;聯合新聞網",
       "sources": [
         {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jWE9NbHI1V2xIYlJQemNZSGlLN3lFTkFya2Y5amRIWHdMRFNXZFFpNk9IOHhkYnM0MnZSRUlJV3E5eUNQdXctOHBIMnNPbmlNWHlteA?oc=5"
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wMDFCenVIZXJncTRMd3RGU2lsU3hINDZxU1VaZUVQcU1qazRnSGNfZ0tXVll3RzlVWkdiLVBrelRBeG1WRkE4Zk5ZaXNCWENR?oc=5"
         }
       ]
     },
@@ -160,18 +148,6 @@
       ]
     },
     {
-      "id": "ca7cdab59b60",
-      "title": "畢業健康檢查馬英九胖了、腰圍也粗了| 政治 - 三立新聞",
-      "published": "2026-07-08T15:28:12+00:00",
-      "summary": "畢業健康檢查馬英九胖了、腰圍也粗了| 政治&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBRU193bElQdWdoVjlPSzVId3pRWXY3d21fQWhHalNDWUt4TmZ5cW5mNEpiV2xNSTI2RzRWZC1yOTFvcl9xYVNJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "eec639a3bd10",
       "title": "心情低落或與飲食有關？研究揭： 每日飲純果汁或冰沙有助紓緩情緒 - bastillepost.com",
       "published": "2026-07-08T23:00:26+00:00",
@@ -180,6 +156,18 @@
         {
           "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxONjNnUUp4X19UZDgzZjFRNEZsS3ozV3Z1M2VuZjJOU0h1MmZNclhsM2ZnaWxTdWFUeDVBdlNsUVBVQmJQeUpEUDhmX00ydHJqTERkU0VIWXptVGJTRHRUUXRubkJZME40VThOU21pX3drWXBBaGE2REU1bWNNMC1LYVFBaHRpMWJJa3FtWEJpOHJJdGhjRHVPcnZ0NkJZd01GOGZnZ0xidFdCTElSd1JjTnBLRHlOTWJrZkRFdkctVFZzdzFxQmpqN3dza3BsVEoxaE4zQ2hQUTB6elcxdGpQaEd0SGhOMWdVdHhTMndHOEo3emlxejh0cjNvZTl2VTlHTTVhLUVyQXlUTjhESE1fb1FISjZPLTBBMTBKNVI3TjdRMms0eVlUenFQQnJOVmlGcFlQSVdDRlMtZktFb2dCbTEyS3RQeEt6V2VaUm1ObzJCNEc4bTV2SUpDQjVJZm9FamNYeDNBOEN0TzAwb2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ca7cdab59b60",
+      "title": "畢業健康檢查馬英九胖了、腰圍也粗了| 政治 - 三立新聞",
+      "published": "2026-07-08T15:28:12+00:00",
+      "summary": "畢業健康檢查馬英九胖了、腰圍也粗了| 政治&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBRU193bElQdWdoVjlPSzVId3pRWXY3d21fQWhHalNDWUt4TmZ5cW5mNEpiV2xNSTI2RzRWZC1yOTFvcl9xYVNJ?oc=5"
         }
       ]
     },
@@ -220,50 +208,26 @@
       ]
     },
     {
-      "id": "b50c4845c00b",
-      "title": "外出放狗遭蜱蟲叮咬 美66歲男染罕見病毒入ICU - 點新聞",
-      "published": "2026-07-09T08:31:57+00:00",
-      "summary": "外出放狗遭蜱蟲叮咬 美66歲男染罕見病毒入ICU&nbsp;&nbsp;點新聞",
-      "sources": [
-        {
-          "name": "點新聞",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92TUtDVVcwVXgzb3QxQWt1dEhVdVVKTXdnaU9YMVdTVmRkU3pYTlExdWJ2dDJ5V2IyQTQtYkdnQi1Za1dfTjA5S3FrU2VqYXVBRmVrOVFVS3o4dklEU2tIbTgtYTNMTGo3X2JMdDJ4Vk9NazFZbGpyLXNB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eb8d44057517",
-      "title": "金十字酵素胃腸藥中鏢新萬仁：符合日本藥典法規| 生活 - 三立新聞",
-      "published": "2026-07-08T04:06:30+00:00",
-      "summary": "金十字酵素胃腸藥中鏢新萬仁：符合日本藥典法規| 生活&nbsp;&nbsp;三立新聞",
+      "id": "1624be5f1b31",
+      "title": "八仙塵爆／先搶先贏？燙傷藥缺很大住院14天須13萬罐| 生活 - 三立新聞",
+      "published": "2026-07-09T21:12:35+00:00",
+      "summary": "八仙塵爆／先搶先贏？燙傷藥缺很大住院14天須13萬罐| 生活&nbsp;&nbsp;三立新聞",
       "sources": [
         {
           "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBiYjB5Z1luYVU4ZEtvS0VOdTRfYzh4X096UEJQbm51X3lVX0VKem5RTnBtbFNSN1o3eV8wdTRIQmZyOVRPNVE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5hS2ZRSnc5dW45WmF3SnNkaXhRZmRqQ1Z1ZFJwWlloTFMwSzVSc3RKVFZPZUZtMFdPMmFiVXJGVkgxTGJ5MXc?oc=5"
         }
       ]
     },
     {
-      "id": "46f07f86298a",
-      "title": "獸皮痣｜2歲男童9成皮膚被黑痣覆蓋 癌變成惡性黑色素瘤不治離世 - 香港01",
-      "published": "2026-07-08T04:54:18+00:00",
-      "summary": "獸皮痣｜2歲男童9成皮膚被黑痣覆蓋 癌變成惡性黑色素瘤不治離世&nbsp;&nbsp;香港01",
+      "id": "b8152d757b43",
+      "title": "【哇潮】預防大腸癌自己來先觀察便便就對了| 專欄 - 三立新聞",
+      "published": "2026-07-09T21:36:46+00:00",
+      "summary": "【哇潮】預防大腸癌自己來先觀察便便就對了| 專欄&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNdTFpUlNDeTBVNFZXb29YSVNDUFowLWpXQzY4a1BGcGZvN0NNOWxLR0x5ZUZPQ1lVV2RZY0FSN2hOU2Q3V0RRV1huaVdpUDNaZGFMVXFxM0g1dXVtU1d5ZmZhZlo4UGZIc2p5blJtNmNKLUtOUW1HMEkyYno5U2V5a3FaU0JkS0x5NWFhdm5Ybnc2eUNwVmVUa3oyeGlTZHN6N2lzTEwtWHdkUUdac0JXbHg3WHFENmJOOFY1b1Byb05QT2JzT0RKc094bEk0b1hDQ1VoMm0wa2RQUFA0dUMzMWt5cjVOemhBbDlFYllwdXFTM2llZUh0Q0RUYWZLRkdJby1FZzcyeE5ldjZhTlk1dndoSVlJVzc3S0lLX1VMU1gybVROWlJaWVBfTWtMdlBKa25xQVozVEhaaU5OcThueER1ZnBDUnlCSndHVTFwWGZaaE4ycWlQcV9jX3pFMlpyMndYUWxXcWdvbGFQRjQ2cDh4SW9mMHRnRXVhUGR4Q21WMFdtS0JxcGY1aHJoY2JXMFQza244YVZuQktZTHhKVzRsODBjTjQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c606f0218309",
-      "title": "全球研究：男性睾酮50年減半，科學家憂心環境因素與肥胖影響生育 - Singtaousa",
-      "published": "2026-07-08T02:29:59+00:00",
-      "summary": "全球研究：男性睾酮50年減半，科學家憂心環境因素與肥胖影響生育&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ1Ftc19LNWctT1BLUWNNdmQ1eEFmVDBqaTNka1gtVUFRVlIyenhLOUFCYzMxdW11LUJ4V2xQNDdybG11dlQ1SU00OUhkcUZjdXdZZmJCMS1mRDhVSktYcHotTTN0Ym1PUWVXaGpHb0tPUFlGeXBEYXpNTXB0ZFhGczEyclR0dTlPZ082c0xfM211NnRUZlFpSllaRnpsRzk1bnhtd3pwOVhkM1JsX3V3dmJad2hTemY1YnVnZ242QjduMmxraGQtemxzc1Y?oc=5"
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuSWRiSjluNWlSMU55enM0RXFPQUszdWpYYno3ZGkwa2pqaGFJTWZ4WXlUblZZeWVGdTFhOVZETTRTdzhFNWtz?oc=5"
         }
       ]
     }
