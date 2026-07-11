@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,21 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [身體1狀態成慢性病、癌症源頭醫嘆：一路傷血管和神經- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE5RX0RSU2VGbDQ4djdrcVo1UzZJLWFnTDljQjVFdnotSHQtcWxwWVFTQVNjMTZHcm1QWG1XN19zdVFNQUF4aWs3UmxJX05DMHRNdlprdlpfZ2VKRlJJZzlRb3Zpclo0X2RwTUVyTzN3?oc=5)
 
 2026-07-11 <span class="news-indication-tag">癌症</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5RX0RSU2VGbDQ4djdrcVo1UzZJLWFnTDljQjVFdnotSHQtcWxwWVFTQVNjMTZHcm1QWG1XN19zdVFNQUF4aWs3UmxJX05DMHRNdlprdlpfZ2VKRlJJZzlRb3Zpclo0X2RwTUVyTzN3?oc=5)
+
+---
+
+### [喜歡吃洋蔥的人天生有2大健康優勢！研究：罹糖尿病、高血壓風險較低](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JbzVoMmtaeE15Uk40S01jdDRCSlZhZ0U4LTJVT0lJQXVLRVBfTjdfX1hhRFV1M2xtUE41UTlRY2NkS3A3Rk9iYlNOc0tpOG4xNGJNNnZTYU5UWUZo0gFiQVVfeXFMTkRjbUNCeVZ4MEZDVEdrbzRNcVZUUEttQ1RSTHpBOWYxOFctTzVTck5tYWljTVZxb2ZBZ2RYbTlzY1lBekZSVEV1YVh3ZU1qelhfUHQ3d09La1ZGTHktaHByOWc?oc=5)
+
+2026-07-11 <span class="news-indication-tag">高血壓</span>
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JbzVoMmtaeE15Uk40S01jdDRCSlZhZ0U4LTJVT0lJQXVLRVBfTjdfX1hhRFV1M2xtUE41UTlRY2NkS3A3Rk9iYlNOc0tpOG4xNGJNNnZTYU5UWUZo0gFiQVVfeXFMTkRjbUNCeVZ4MEZDVEdrbzRNcVZUUEttQ1RSTHpBOWYxOFctTzVTck5tYWljTVZxb2ZBZ2RYbTlzY1lBekZSVEV1YVh3ZU1qelhfUHQ3d09La1ZGTHktaHByOWc?oc=5)
 
 ---
 

@@ -1,7 +1,114 @@
 {
-  "generated": "2026-07-11T07:07:09.284371+00:00",
-  "count": 7,
+  "generated": "2026-07-11T09:18:03.278967+00:00",
+  "count": 9,
   "news": [
+    {
+      "id": "1996df386947",
+      "title": "別怕荷爾蒙，妳抗衰防病的關鍵》怕乳癌卻輕忽心臟病？奪走女性性命的頭號殺手，死亡人數竟是乳癌的6倍 - 墨新聞-MORE News",
+      "published": "2026-07-11T07:42:10+00:00",
+      "sources": [
+        {
+          "name": "墨新聞-MORE News",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVeVpOZnFlcWZLZlloQ3doblhEZEtaZGszYTBrRW13NDJmOE9TeWxSLVJQNmdTaXZ1TnUwQU8tcWZxUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "3019b198b0c0",
       "title": "身體1狀態成慢性病、癌症源頭醫嘆：一路傷血管和神經- 健康",
@@ -229,6 +336,34 @@
             {
               "slug": "xylometazoline",
               "name": "Xylometazoline"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "011dc2d30208",
+      "title": "喜歡吃洋蔥的人天生有2大健康優勢！研究：罹糖尿病、高血壓風險較低",
+      "published": "2026-07-11T01:35:25+00:00",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JbzVoMmtaeE15Uk40S01jdDRCSlZhZ0U4LTJVT0lJQXVLRVBfTjdfX1hhRFV1M2xtUE41UTlRY2NkS3A3Rk9iYlNOc0tpOG4xNGJNNnZTYU5UWUZo0gFiQVVfeXFMTkRjbUNCeVZ4MEZDVEdrbzRNcVZUUEttQ1RSTHpBOWYxOFctTzVTck5tYWljTVZxb2ZBZ2RYbTlzY1lBekZSVEV1YVh3ZU1qelhfUHQ3d09La1ZGTHktaHByOWc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
             }
           ]
         }

@@ -1,8 +1,116 @@
 {
-  "last_updated": "2026-07-11T07:07:09.251238+00:00",
-  "total_count": 19,
-  "matched_count": 7,
+  "last_updated": "2026-07-11T09:18:03.246351+00:00",
+  "total_count": 21,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "1996df386947",
+      "title": "別怕荷爾蒙，妳抗衰防病的關鍵》怕乳癌卻輕忽心臟病？奪走女性性命的頭號殺手，死亡人數竟是乳癌的6倍 - 墨新聞-MORE News",
+      "published": "2026-07-11T07:42:10+00:00",
+      "summary": "別怕荷爾蒙，妳抗衰防病的關鍵》怕乳癌卻輕忽心臟病？奪走女性性命的頭號殺手，死亡人數竟是乳癌的6倍&nbsp;&nbsp;墨新聞-MORE News",
+      "sources": [
+        {
+          "name": "墨新聞-MORE News",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVeVpOZnFlcWZLZlloQ3doblhEZEtaZGszYTBrRW13NDJmOE9TeWxSLVJQNmdTaXZ1TnUwQU8tcWZxUQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2bfa03cec67f",
       "title": "陳彥婷2歲兒子燒到昏沉「反覆急診、抽血」！查了一周才知病因　心疼發聲",
@@ -264,6 +372,35 @@
       ]
     },
     {
+      "id": "011dc2d30208",
+      "title": "喜歡吃洋蔥的人天生有2大健康優勢！研究：罹糖尿病、高血壓風險較低",
+      "published": "2026-07-11T01:35:25+00:00",
+      "summary": "喜歡吃洋蔥的人天生有2大健康優勢！研究：罹糖尿病、高血壓風險較低&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JbzVoMmtaeE15Uk40S01jdDRCSlZhZ0U4LTJVT0lJQXVLRVBfTjdfX1hhRFV1M2xtUE41UTlRY2NkS3A3Rk9iYlNOc0tpOG4xNGJNNnZTYU5UWUZo0gFiQVVfeXFMTkRjbUNCeVZ4MEZDVEdrbzRNcVZUUEttQ1RSTHpBOWYxOFctTzVTck5tYWljTVZxb2ZBZ2RYbTlzY1lBekZSVEV1YVh3ZU1qelhfUHQ3d09La1ZGTHktaHByOWc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "d304ded9d832",
       "title": "卑詩將為精神疾病非自願治療設施增設132張床位| 事事如意生活網站",
       "published": "2026-07-11T00:43:27+00:00",
@@ -290,14 +427,14 @@
       "matched_keywords": []
     },
     {
-      "id": "1b1de720fef1",
+      "id": "4dca2aa0ee7d",
       "title": "「編輯嬰兒」不應淪為特權專利",
       "published": "2026-07-10T18:19:38+00:00",
       "summary": "「編輯嬰兒」不應淪為特權專利&nbsp;&nbsp;信報網站",
       "sources": [
         {
           "name": "信報網站",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNeGV5ZHZjWkt4di0xT3NfTldNemc4emE5RU1NcG9Hbkd3Y3NmakxsS0tkWTdBN1pXdVBPRjVBM1VBMjhSUGU3UGxhS0hhY3JZS1FBTGN2SVhSNTQ5T1IxWHNZdUlfeGpRd011cXpYQ3BSTVZzYVFDQXlaVWFNS0paWDF0RFI0NmJsU2pkNFV0UDV1dFctZlhZV1hZbDhEblRBdEhyczRsZXVudjB1ZExJczV0TVA3Nm1oeTRzeHRtSldhTWtTcFlsbGVsY1QxbXpsUnZUdmkwTHFuTE0wSlNueExlMk1JSW5qMDY0NlRSVnowTUhRc1M3X01sTlk0c1JEZV9DdmI3VWc4YUtWd0xlWEVn?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQXzRvS1JGUDlWamhDMXJjR3BzU0NzalVQM3Z6MWhwbU1EZGlQeURVaU9pbUlEOEUxbzMwVm1NQVdLYkR3cW0zT3piSVNVV09ZY0pkbU52T3BWYm5vYXdkMFlFWkZtNFlBcTNpNkR5LWVzeUtiNU55NjRsdEE3alllS2lxWGw0ZmpudjdQRmZkRU5kSUdEWnJsQkQzaHlJa2V6OHkzV2hkbjJxaWtWNEltZkRkUkpYOUhtRXI3amh1dUZDSklKdzRzYzFLdHFJenl0LU93V3d6YWFRMENYOXVBaHpEazNSUV9xZ3YtdzZMZ1lVVV9QOFlhVFFFTk1jQ3p1cC1WclgyQWoyYVA1MUcyQ1M4OGtad0lPMjZZM2xSWmg1UkdOTDBsa09NOE1yQ216WG9kb3lYR3pvQ0tETnVUaUt2YXdIUFRhSTd4NDk2MkFSLTlQQUI3bEdsZ0I?oc=5"
         }
       ],
       "matched_keywords": []
@@ -688,7 +825,7 @@
       "id": "ae446daf6699",
       "title": "嗅覺退化或是阿茲海默症早期警號 研究揭： 大腦免疫細胞誤傷嗅覺神經",
       "published": "2026-07-09T23:00:04+00:00",
-      "summary": "嗅覺退化或是阿茲海默症早期警號 研究揭： 大腦免疫細胞誤傷嗅覺神經&nbsp;&nbsp;巴士的報研究曝失智症更早徵兆 大腦可能先失去「這項能力」&nbsp;&nbsp;中時新聞網不是單純老了才健忘！阿茲海默症新研究：腦細胞內部可能早已開始「交通大亂」&nbsp;&nbsp;udn 女子漾阿茲海默症可能找錯病因 研究揭腦細胞真正崩壞關鍵&nbsp;&nbsp;自由健康網",
+      "summary": "嗅覺退化或是阿茲海默症早期警號 研究揭： 大腦免疫細胞誤傷嗅覺神經&nbsp;&nbsp;巴士的報研究曝失智症更早徵兆 大腦可能先失去「這項能力」&nbsp;&nbsp;中時新聞網阿茲海默失智新藥開發重新啟航&nbsp;&nbsp;環球生技月刊不是單純老了才健忘！阿茲海默症新研究：腦細胞內部可能早已開始「交通大亂」&nbsp;&nbsp;udn 女子漾阿茲海默症可能找錯病因 研究揭腦細胞真正崩壞關鍵&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "巴士的報",

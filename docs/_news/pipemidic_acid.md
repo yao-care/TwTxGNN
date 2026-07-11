@@ -14,7 +14,7 @@ permalink: /news/pipemidic_acid/
 ---
 
 <p class="key-answer" data-question="Pipemidic acid 有什麼相關新聞？">
-<strong>Pipemidic acid</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pipemidic acid</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/pipemidic_acid/
 <p><a href="{{ '/drugs/pipemidic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [別怕荷爾蒙，妳抗衰防病的關鍵》怕乳癌卻輕忽心臟病？奪走女性性命的頭號殺手，死亡人數竟是乳癌的6倍 - 墨新聞-MORE News](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVeVpOZnFlcWZLZlloQ3doblhEZEtaZGszYTBrRW13NDJmOE9TeWxSLVJQNmdTaXZ1TnUwQU8tcWZxUQ?oc=5)
+
+2026-07-11 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">乳癌</span>
+
+來源：[墨新聞-MORE News](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVeVpOZnFlcWZLZlloQ3doblhEZEtaZGszYTBrRW13NDJmOE9TeWxSLVJQNmdTaXZ1TnUwQU8tcWZxUQ?oc=5)
+
+---
 
 ### [心疼！男嬰罕見心臟病柯P請台大全力相助| 社會](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1MTmN1dG9YUTZTZjFValVBRUZMd21HLXlGN2xfSUZRSkF1ODN1a3M5NWZ2V2RFZjJhdl83d1FvaThLcnNwMnc?oc=5)
 

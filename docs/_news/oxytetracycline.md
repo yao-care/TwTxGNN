@@ -14,7 +14,7 @@ permalink: /news/oxytetracycline/
 ---
 
 <p class="key-answer" data-question="Oxytetracycline 有什麼相關新聞？">
-<strong>Oxytetracycline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oxytetracycline</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/oxytetracycline/
 <p><a href="{{ '/drugs/oxytetracycline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [別怕荷爾蒙，妳抗衰防病的關鍵》怕乳癌卻輕忽心臟病？奪走女性性命的頭號殺手，死亡人數竟是乳癌的6倍 - 墨新聞-MORE News](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVeVpOZnFlcWZLZlloQ3doblhEZEtaZGszYTBrRW13NDJmOE9TeWxSLVJQNmdTaXZ1TnUwQU8tcWZxUQ?oc=5)
+
+2026-07-11 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">乳癌</span>
+
+來源：[墨新聞-MORE News](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVeVpOZnFlcWZLZlloQ3doblhEZEtaZGszYTBrRW13NDJmOE9TeWxSLVJQNmdTaXZ1TnUwQU8tcWZxUQ?oc=5)
+
+---
 
 ### [身體1狀態成慢性病、癌症源頭醫嘆：一路傷血管和神經- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE5RX0RSU2VGbDQ4djdrcVo1UzZJLWFnTDljQjVFdnotSHQtcWxwWVFTQVNjMTZHcm1QWG1XN19zdVFNQUF4aWs3UmxJX05DMHRNdlprdlpfZ2VKRlJJZzlRb3Zpclo0X2RwTUVyTzN3?oc=5)
 
