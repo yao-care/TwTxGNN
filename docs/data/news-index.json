@@ -1,31 +1,7 @@
 {
-  "generated": "2026-07-11T21:40:14.271827+00:00",
+  "generated": "2026-07-11T22:38:18.636889+00:00",
   "count": 9,
   "news": [
-    {
-      "id": "3bcf8bf934db",
-      "title": "類固醇鼻噴劑會傷身？破解過敏性鼻炎治療 5 大迷思",
-      "published": "2026-07-11T14:00:00+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNX3Z6ZFJxcGVKRU52eTF0MzVCblFSZ0I1eWtVSm4xQnd5NG5pWWozR05KNm1uVlFxcnNBNlBmSnVCaGNiWk5CMTdRMk0wOWs1M1hEUE5ROVV2SmRHZmNiRU5MS1B4dFAyV3BMUnVOUkx5YzN3UnFyOE8yNktIXzZVTXpoa002ZlIwMk1XaUlfeEh3WWhhbEpTZUdXOEtvZlJMbEdIWGR3TEJxSlJNaGtIVDVvM1VrOGY1TmIyN0dWY1RGRVZWWUhPWkpsOFprLTl0TGIyc1p0RG1ULXplX2lKVWFFV2RtdGxnTXA2dmEtUnVyV09HQ2RGX0xobkEwZWZ3RHJRMXdKTlhGOEg3bk9WOXliMThvYjJSanlzNkt0dDR4NDg1Q2dTaGtmNGJIU0tEanUtbWZSNWpfNFA2NHVHVXZzVUt5aW9lVUFVZ05ua3ROZ2Rf?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "過敏性鼻炎",
-          "keyword": "過敏性鼻炎",
-          "related_drugs": [
-            {
-              "slug": "xylometazoline",
-              "name": "Xylometazoline"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "f6830d1d77f4",
       "title": "淋巴癌是什麼？醫解析4大原因、6大警訊，出現無痛腫塊別輕忽 - Marie Claire 美麗佳人",
@@ -191,6 +167,30 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "863735ee6c64",
+      "title": "類固醇鼻噴劑會傷身？破解過敏性鼻炎治療 5 大迷思",
+      "published": "2026-07-11T02:00:00+00:00",
+      "sources": [
+        {
+          "name": "Heho健康",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80NGhHWmJMdGFrb21pRDk4aVBLeDB4akc3NllwRC1yTmVHa05iM1NmNTVtbkV2Z3dxMFQxT0hkRlZOUURmYlRfanBjQQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "過敏性鼻炎",
+          "keyword": "過敏性鼻炎",
+          "related_drugs": [
+            {
+              "slug": "xylometazoline",
+              "name": "Xylometazoline"
             }
           ]
         }
