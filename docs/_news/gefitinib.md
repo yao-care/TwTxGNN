@@ -45,7 +45,7 @@ permalink: /news/gefitinib/
 
 ### [研究曝失智症更早徵兆 大腦可能先失去「這項能力」](https://news.google.com/rss/articles/CBMibkFVX3lxTFA2cElHdHNkY0Q5YzlIemwzbmx2a1Q3QzJIQ1dFYktjOHhfbXpPQ2hrR0tiZC1CN3ExNEVrdUxxZnpuUWtWdVdURG91NVpKWmdaOTZjdE40dE15MW5lRVZVN3ljd3pNTHJBalBVMUxR?oc=5)
 
-2026-07-11 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+2026-07-11 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFA2cElHdHNkY0Q5YzlIemwzbmx2a1Q3QzJIQ1dFYktjOHhfbXpPQ2hrR0tiZC1CN3ExNEVrdUxxZnpuUWtWdVdURG91NVpKWmdaOTZjdE40dE15MW5lRVZVN3ljd3pNTHJBalBVMUxR?oc=5)
 
