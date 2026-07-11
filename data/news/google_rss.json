@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-11T12:57:38.714755+00:00",
-  "count": 22,
+  "fetched_at": "2026-07-11T14:20:43.101071+00:00",
+  "count": 23,
   "news": [
     {
       "id": "2bfa03cec67f",
@@ -88,18 +88,6 @@
       ]
     },
     {
-      "id": "917c1f78b467",
-      "title": "江飛宇Science》薄荷不只讓貓瘋狂還能成為媲美DEET的新一代驅蚊劑- 國際 - 中時新聞網",
-      "published": "2026-07-10T23:40:30+00:00",
-      "summary": "江飛宇Science》薄荷不只讓貓瘋狂還能成為媲美DEET的新一代驅蚊劑- 國際&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42elM2OVh3VGJsWHFlVG44ajVtUnNkbjZyVkNfSE1ScmxyVTZhcmxQMkxrV1ZJeE10S3ZzRWRDV1g1Y3ptLVQ1a0pmUW9GN2JDSXE4UDFQSnlqbTdaR2xnMWJwcTNMY3htcE51a3Bn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "40d95a488925",
       "title": "網路謠言謀害新生兒？美國父母拒讓孩子打針引致命風險| 紐時風格 - 聯合報數位版",
       "published": "2026-07-10T03:00:00+00:00",
@@ -108,6 +96,18 @@
         {
           "name": "聯合報數位版",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwTVpES00wUloxZHJzU2dzZy1aV1Y5R2ZVRnR2eUQtbWlySVI5QUN5M0l2M3FIS3BqdmxFSXBXcTFjOUEzSDlrSE5lMmpyZV9rS3JBcFN5Yw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "917c1f78b467",
+      "title": "江飛宇Science》薄荷不只讓貓瘋狂還能成為媲美DEET的新一代驅蚊劑- 國際 - 中時新聞網",
+      "published": "2026-07-10T23:40:30+00:00",
+      "summary": "江飛宇Science》薄荷不只讓貓瘋狂還能成為媲美DEET的新一代驅蚊劑- 國際&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42elM2OVh3VGJsWHFlVG44ajVtUnNkbjZyVkNfSE1ScmxyVTZhcmxQMkxrV1ZJeE10S3ZzRWRDV1g1Y3ptLVQ1a0pmUW9GN2JDSXE4UDFQSnlqbTdaR2xnMWJwcTNMY3htcE51a3Bn?oc=5"
         }
       ]
     },
@@ -240,6 +240,18 @@
         {
           "name": "信報網站",
           "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQXzRvS1JGUDlWamhDMXJjR3BzU0NzalVQM3Z6MWhwbU1EZGlQeURVaU9pbUlEOEUxbzMwVm1NQVdLYkR3cW0zT3piSVNVV09ZY0pkbU52T3BWYm5vYXdkMFlFWkZtNFlBcTNpNkR5LWVzeUtiNU55NjRsdEE3alllS2lxWGw0ZmpudjdQRmZkRU5kSUdEWnJsQkQzaHlJa2V6OHkzV2hkbjJxaWtWNEltZkRkUkpYOUhtRXI3amh1dUZDSklKdzRzYzFLdHFJenl0LU93V3d6YWFRMENYOXVBaHpEazNSUV9xZ3YtdzZMZ1lVVV9QOFlhVFFFTk1jQ3p1cC1WclgyQWoyYVA1MUcyQ1M4OGtad0lPMjZZM2xSWmg1UkdOTDBsa09NOE1yQ216WG9kb3lYR3pvQ0tETnVUaUt2YXdIUFRhSTd4NDk2MkFSLTlQQUI3bEdsZ0I?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6b4c5b87da9f",
+      "title": "皮爾遜機場及兩航班現麻疹個案　衛生部門籲乘客留意 - singtao.ca",
+      "published": "2026-07-11T13:53:38+00:00",
+      "summary": "皮爾遜機場及兩航班現麻疹個案 衛生部門籲乘客留意&nbsp;&nbsp;singtao.ca",
+      "sources": [
+        {
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPNkNLb291dGZNdjVIVm9EMEhEWmlRV3pNcEM0cFVURmF2bkk4bXRfXzlUU0lsekFjenBxN19WbXRlTmctZ09QNG9vVmNtdjBWQlhmRmgtY3Aybmp4cUI2SkJpbFQ3N3g2Wnk1RDZhY29oSkxvV3BIZ0NDQXo0XzhMZVlBQ3c0NGNLNUFzY1RvUENwcFoteXhFQnIzTjF5UUlkVE5zdS1aUE9KSXZSeUFJTi1TTmVRMXVqTUxtUm5VekNWQWdlQlVKZldtZHVQVjdqa29yMVBPRzR1WUFQS3hkM2JlUVZTNm9SSV9kZXFaY21pZElCak9DWVRyYW8tSmlDTy1QSjgyczhQUUFKTTZKZHhnakZOOERPc1FpQVp6WXBCMVhYaGVVYmtwNHQ2Tkw5aTd0LV9WZThFc3J6akhBOUs4b0ktN0haYjFvRFBMQkpiOUdTUkFFUjVJNktXVk0wdjV0V1ljRkNvRjNpczhFTGdzcU1CUlhidlhHMNIBjwFBVV95cUxPQzg3UVdrbTRVc2JXQnR4SWFRQmlaTmJBRkdlaDJIZTl6Z05YVGVaa3o1aks1UXJYT2VBUlZBbGIzUFJHT2FBakdoaGg2Z2lkbkZ0aWxwcFlVbUZhaFJ4aVNNOXdBMzlrOWNJVmJUcTh1QVpveDFMaVVoYjZlQTFxZDdsZDRWcVJiNnktMzZyMA?oc=5"
         }
       ]
     },
