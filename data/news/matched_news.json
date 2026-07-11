@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-07-11T04:55:51.254440+00:00",
+  "last_updated": "2026-07-11T07:07:09.251238+00:00",
   "total_count": 19,
   "matched_count": 7,
   "news": [
+    {
+      "id": "2bfa03cec67f",
+      "title": "陳彥婷2歲兒子燒到昏沉「反覆急診、抽血」！查了一周才知病因　心疼發聲",
+      "published": "2026-07-11T03:50:45+00:00",
+      "summary": "陳彥婷2歲兒子燒到昏沉「反覆急診、抽血」！查了一周才知病因 心疼發聲&nbsp;&nbsp;噓！星聞",
+      "sources": [
+        {
+          "name": "噓！星聞",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3Y0w0Um5pTHBIazctTDAtR2FLR2xIM0xJY2ptVlUzVlE2ZjV0SjctcF96blN5TWJZQVppTEJ0VXJfV203RkZNZnoyR2tiWFhuMUFOZHNSUnhLZnpiX1h0SlI2Rjk4Z1R3dzdwR1FmWFAyWDZhdTQwNHBBNNIBYEFVX3lxTE5ZNDZNaHY2LWtUa2kxd1pZNDFYUUh3bjdhcDJSNlBmYmFBWVlhUlR0YmZqNEhVRUQyWFpzN3FKQklEUTVJaUVRSVJ6RFM0OXc3TElxTGVsbDlqQ3c4V1pNcw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "f665b36d5f7f",
       "title": "聞不到味道別放棄 醫授每天3分鐘「嗅覺復健」助恢復",
@@ -290,19 +303,6 @@
       "matched_keywords": []
     },
     {
-      "id": "acecd3a871fa",
-      "title": "陳彥婷2歲兒反覆高燒找不到病因！　「刷牙發現流血」花一周查症狀",
-      "published": "2026-07-10T14:39:00+00:00",
-      "summary": "陳彥婷2歲兒反覆高燒找不到病因！ 「刷牙發現流血」花一周查症狀&nbsp;&nbsp;ETtoday星光雲",
-      "sources": [
-        {
-          "name": "ETtoday星光雲",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlZWkzbk1BTGo5RWZoVDE4UGRrbXlCbGpZeXpXdVcyLTJBelRPZXNsa2dzeF9rUVFOdkxVRHhQbjhpQVJRMUFIdkszNV9XQdIBakFVX3lxTFB4ekx1TEdBWWN5MGZ1Qy1qTzNIVEF0b3RhX3B5ZXE0dmVWamxBY2ktWUVNdl92YWRqYkxyYVhqVnJiZE54N01LaWViMU8xeW1QN3N6Nm5GcTl6Z0RtNG5Ga0NNSnZiZW42Tmc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "f200abb2c0cd",
       "title": "手震唔一定係柏金遜 手震10年竟然係「呢個疾病」",
       "published": "2026-07-10T10:30:00+00:00",
@@ -319,7 +319,7 @@
       "id": "ed2010dcd4f8",
       "title": "夜間習慣暗藏心血管危機！醫點名7大行為加速血管老化",
       "published": "2026-07-10T08:57:12+00:00",
-      "summary": "夜間習慣暗藏心血管危機！醫點名7大行為加速血管老化&nbsp;&nbsp;Yahoo新聞小心傷血管！心臟科醫師示警：晚上7點後「這7件事」最好別做&nbsp;&nbsp;UDN晚上7點後別做這些事！心臟科醫曝「7大NG習慣」：心血管疾病風險狂飆&nbsp;&nbsp;三立新聞醫示警：晚上7點後「不做7件事」！恐傷心血管 運動也上榜&nbsp;&nbsp;Yahoo新聞7件事超傷血管心臟科醫：晚上7時後我絕不做- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "夜間習慣暗藏心血管危機！醫點名7大行為加速血管老化&nbsp;&nbsp;Yahoo新聞醫示警：晚上7點後「不做7件事」！恐傷心血管 運動也上榜&nbsp;&nbsp;Yahoo新聞晚上7點後別做這些事！心臟科醫曝「7大NG習慣」：心血管疾病風險狂飆&nbsp;&nbsp;三立新聞小心傷血管！心臟科醫師示警：晚上7點後「這7件事」最好別做&nbsp;&nbsp;聯合新聞網7件事超傷血管心臟科醫：晚上7時後我絕不做- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
