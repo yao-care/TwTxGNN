@@ -1,8 +1,255 @@
 {
-  "last_updated": "2026-07-11T01:49:52.718966+00:00",
-  "total_count": 18,
-  "matched_count": 5,
+  "last_updated": "2026-07-11T04:55:51.254440+00:00",
+  "total_count": 19,
+  "matched_count": 7,
   "news": [
+    {
+      "id": "f665b36d5f7f",
+      "title": "聞不到味道別放棄 醫授每天3分鐘「嗅覺復健」助恢復",
+      "published": "2026-07-11T03:36:00+00:00",
+      "summary": "聞不到味道別放棄 醫授每天3分鐘「嗅覺復健」助恢復&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96YjdIT1VCU2dJWDBNUno1TDFHZUNLWjdBdFlMdWl4R1diZVNwMzhjSkJzeEVtZTJZMkY0STFsXzhNd3BXX3ZiU054YWxtaEZWb3l4elh1azNVemNUWFFSWWRZU0bSAWpBVV95cUxOaVRvVmdoTHFDZzk2Q0RTQlI4ZDltcDF3aExHR3Q1VXNiRm10Skc3NFdQNC1oUlU0NFM5SzdmSDIyako0V2p4X2w2NVMzVF91Y2IxREVLV2tjOUt6Y3FiamloRnpXY3ZRM2Fn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3019b198b0c0",
+      "title": "身體1狀態成慢性病、癌症源頭醫嘆：一路傷血管和神經- 健康",
+      "published": "2026-07-11T02:41:18+00:00",
+      "summary": "身體1狀態成慢性病、癌症源頭醫嘆：一路傷血管和神經- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RX0RSU2VGbDQ4djdrcVo1UzZJLWFnTDljQjVFdnotSHQtcWxwWVFTQVNjMTZHcm1QWG1XN19zdVFNQUF4aWs3UmxJX05DMHRNdlprdlpfZ2VKRlJJZzlRb3Zpclo0X2RwTUVyTzN3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "863735ee6c64",
+      "title": "類固醇鼻噴劑會傷身？破解過敏性鼻炎治療 5 大迷思",
+      "published": "2026-07-11T02:00:00+00:00",
+      "summary": "類固醇鼻噴劑會傷身？破解過敏性鼻炎治療 5 大迷思&nbsp;&nbsp;Heho健康",
+      "sources": [
+        {
+          "name": "Heho健康",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80NGhHWmJMdGFrb21pRDk4aVBLeDB4akc3NllwRC1yTmVHa05iM1NmNTVtbkV2Z3dxMFQxT0hkRlZOUURmYlRfanBjQQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "過敏性鼻炎",
+          "keyword": "過敏性鼻炎",
+          "related_drugs": [
+            {
+              "slug": "xylometazoline",
+              "name": "Xylometazoline"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "d304ded9d832",
       "title": "卑詩將為精神疾病非自願治療設施增設132張床位| 事事如意生活網站",
@@ -17,6 +264,19 @@
       "matched_keywords": []
     },
     {
+      "id": "917c1f78b467",
+      "title": "江飛宇Science》薄荷不只讓貓瘋狂還能成為媲美DEET的新一代驅蚊劑- 國際",
+      "published": "2026-07-10T23:40:30+00:00",
+      "summary": "江飛宇Science》薄荷不只讓貓瘋狂還能成為媲美DEET的新一代驅蚊劑- 國際&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42elM2OVh3VGJsWHFlVG44ajVtUnNkbjZyVkNfSE1ScmxyVTZhcmxQMkxrV1ZJeE10S3ZzRWRDV1g1Y3ptLVQ1a0pmUW9GN2JDSXE4UDFQSnlqbTdaR2xnMWJwcTNMY3htcE51a3Bn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "1b1de720fef1",
       "title": "「編輯嬰兒」不應淪為特權專利",
       "published": "2026-07-10T18:19:38+00:00",
@@ -25,6 +285,19 @@
         {
           "name": "信報網站",
           "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNeGV5ZHZjWkt4di0xT3NfTldNemc4emE5RU1NcG9Hbkd3Y3NmakxsS0tkWTdBN1pXdVBPRjVBM1VBMjhSUGU3UGxhS0hhY3JZS1FBTGN2SVhSNTQ5T1IxWHNZdUlfeGpRd011cXpYQ3BSTVZzYVFDQXlaVWFNS0paWDF0RFI0NmJsU2pkNFV0UDV1dFctZlhZV1hZbDhEblRBdEhyczRsZXVudjB1ZExJczV0TVA3Nm1oeTRzeHRtSldhTWtTcFlsbGVsY1QxbXpsUnZUdmkwTHFuTE0wSlNueExlMk1JSW5qMDY0NlRSVnowTUhRc1M3X01sTlk0c1JEZV9DdmI3VWc4YUtWd0xlWEVn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "acecd3a871fa",
+      "title": "陳彥婷2歲兒反覆高燒找不到病因！　「刷牙發現流血」花一周查症狀",
+      "published": "2026-07-10T14:39:00+00:00",
+      "summary": "陳彥婷2歲兒反覆高燒找不到病因！ 「刷牙發現流血」花一周查症狀&nbsp;&nbsp;ETtoday星光雲",
+      "sources": [
+        {
+          "name": "ETtoday星光雲",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlZWkzbk1BTGo5RWZoVDE4UGRrbXlCbGpZeXpXdVcyLTJBelRPZXNsa2dzeF9rUVFOdkxVRHhQbjhpQVJRMUFIdkszNV9XQdIBakFVX3lxTFB4ekx1TEdBWWN5MGZ1Qy1qTzNIVEF0b3RhX3B5ZXE0dmVWamxBY2ktWUVNdl92YWRqYkxyYVhqVnJiZE54N01LaWViMU8xeW1QN3N6Nm5GcTl6Z0RtNG5Ga0NNSnZiZW42Tmc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -46,7 +319,7 @@
       "id": "ed2010dcd4f8",
       "title": "夜間習慣暗藏心血管危機！醫點名7大行為加速血管老化",
       "published": "2026-07-10T08:57:12+00:00",
-      "summary": "夜間習慣暗藏心血管危機！醫點名7大行為加速血管老化&nbsp;&nbsp;Yahoo新聞醫示警：晚上7點後「不做7件事」！恐傷心血管 運動也上榜&nbsp;&nbsp;Yahoo新聞7件事超傷血管心臟科醫：晚上7時後我絕不做- 健康&nbsp;&nbsp;中時新聞網心臟科醫師示警 晚上7點過後「這7件事」 絕對不做&nbsp;&nbsp;MSN晚上7點後別做「這7件事」 心臟科醫師：我從不碰&nbsp;&nbsp;中天新聞網",
+      "summary": "夜間習慣暗藏心血管危機！醫點名7大行為加速血管老化&nbsp;&nbsp;Yahoo新聞小心傷血管！心臟科醫師示警：晚上7點後「這7件事」最好別做&nbsp;&nbsp;UDN晚上7點後別做這些事！心臟科醫曝「7大NG習慣」：心血管疾病風險狂飆&nbsp;&nbsp;三立新聞醫示警：晚上7點後「不做7件事」！恐傷心血管 運動也上榜&nbsp;&nbsp;Yahoo新聞7件事超傷血管心臟科醫：晚上7時後我絕不做- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -58,6 +331,17 @@
           "type": "indication",
           "name": "cardiovascular",
           "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
           "related_drugs": [
             {
               "slug": "isosorbide_dinitrate",
@@ -375,19 +659,6 @@
       ]
     },
     {
-      "id": "1624be5f1b31",
-      "title": "八仙塵爆／先搶先贏？燙傷藥缺很大住院14天須13萬罐| 生活",
-      "published": "2026-07-10T04:12:58+00:00",
-      "summary": "八仙塵爆／先搶先贏？燙傷藥缺很大住院14天須13萬罐| 生活&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5hS2ZRSnc5dW45WmF3SnNkaXhRZmRqQ1Z1ZFJwWlloTFMwSzVSc3RKVFZPZUZtMFdPMmFiVXJGVkgxTGJ5MXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "40d95a488925",
       "title": "網路謠言謀害新生兒？美國父母拒讓孩子打針引致命風險| 紐時風格",
       "published": "2026-07-10T03:00:00+00:00",
@@ -414,13 +685,13 @@
       "matched_keywords": []
     },
     {
-      "id": "567fd4c744cc",
+      "id": "ae446daf6699",
       "title": "嗅覺退化或是阿茲海默症早期警號 研究揭： 大腦免疫細胞誤傷嗅覺神經",
       "published": "2026-07-09T23:00:04+00:00",
-      "summary": "嗅覺退化或是阿茲海默症早期警號 研究揭： 大腦免疫細胞誤傷嗅覺神經&nbsp;&nbsp;bastillepost.com",
+      "summary": "嗅覺退化或是阿茲海默症早期警號 研究揭： 大腦免疫細胞誤傷嗅覺神經&nbsp;&nbsp;巴士的報研究曝失智症更早徵兆 大腦可能先失去「這項能力」&nbsp;&nbsp;中時新聞網不是單純老了才健忘！阿茲海默症新研究：腦細胞內部可能早已開始「交通大亂」&nbsp;&nbsp;udn 女子漾阿茲海默症可能找錯病因 研究揭腦細胞真正崩壞關鍵&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQRTZ1WmRKQTR3TUtKQXNQTEQtei03d2RMSjc4TVlzbTdYd0F4cWpUUnFuVC12cGRIR0NPZDBXTDlUTS1KTFBseHJKSlZMczRzZDRVN2VZRk5pcEZBNGhOVVJ2Si1qT2U3MlJTd0w0R1M1bzAtUTRHVFhJRVo5SWpyV253SlpQMi1uMDYxc2lYRlZTYVZ6YkNycmgyU1pOYjlKM3JLTHBoT0xrWHUyUm44SEk4MzR1MjVCTUNuN2dZdkFrZ0tNRm9TNVo1c0pzMjdiMDlVb2xWdHN1WV8wUnk4ZFEyLXFINGthamJQQ2FEOWdnN1ZxZTEwV3RHZ21VemRpUDZyaVBidnZob0xSdlhNcDFYV1VjU1ItcjVDVGtyZmo1Yllyb3dDVGc5Y2V6T19tR2FlSlZuMkEyYjd1RUhuWTVDSGE4dFdZY2x6QlVlN201SFlfQ2w3OXB1VWZzNTMtc195SGxpRDU4c01TeUow?oc=5"
         }
       ],
@@ -428,7 +699,29 @@
         {
           "type": "indication",
           "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
           "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
           "related_drugs": [
             {
               "slug": "gefitinib",
@@ -465,19 +758,6 @@
       "matched_keywords": []
     },
     {
-      "id": "300494fc5f1a",
-      "title": "九成美成年人患「CKM綜合症」 醫師：及早預防可降低心腎疾病",
-      "published": "2026-07-09T18:30:07+00:00",
-      "summary": "九成美成年人患「CKM綜合症」 醫師：及早預防可降低心腎疾病&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXBncGtLX243RXYtU3JBR2J6eHE5RFpQWXhGSktSSnRhaDMtUW9yRUxpM3Y1aklMWU10LXlpUTNhZGc3Qi0yM1g2Ukxwd2dFQjY1ODJZWFlxQVBoZEg2d0RrYzlNVV95X0J2UjJvNGVfdWhGNzBYSWhBMzF5RFJqakJIcWFUTUNOTjM5S0tOb3c0Q0hzSktiUnprM1VwckRFaHhNMnF3Q19NdWtZdG5hM21oSXJuSXJZM3pCbA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "65a16ceeb155",
       "title": "消暑安神袪頭痛！「天然枕」功效多欠缺保養恐長蟲| 生活",
       "published": "2026-07-09T15:06:57+00:00",
@@ -499,32 +779,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMiqARBVV95cUxOc0F4dmpCYXpuYUNmNVA4UXVHOHlUSkJEMnU4SEltcngxVThDZWZIZHJmSGR3T0FKZ19kd1Zta1pKa1NXZ2x0VXB3NHhobEdvVENvZGlMaXU3SWZocERrcDRVTU1WY0I3WnFtRjNBcmNYc0NjM25BZm05NEtYMl9PZ1hMcUpNc2NYbmdfOXRVNmc2T2ViejJ5b1FjbWR6MnJaTUVVUGt6VWZTZTQ2TjVRbGY2cldvd0FaNmltc1NXVEpxdGdQS3AyMEJtUTRaM0dzZndrZ3FpLXI1dnNIdDJZSERrSTRmUGVhVVdyMElVZGFlVlZWZml5VTJEb1F5X1dvYlhvblo1OE94OW5QSUZNdWVrcnZuMzlkZFRFdTFfa0NBU0tWWFFKZTBBREVOcDIxanVPbUtqaFJadnFRTWtVOE8wR0hYV3ZMWnBmWjNoblJJT3dHNXQ4RTEwRjEwMWhVMkFsTFR6ZUhQcXNCQWJPa2JxYlBZZFBGSFF0R1F0T2JoQVJNTUViLVo1MnJuQU5ueWgyREl4d0JRdEtYaFBwVVBqT1ZwUHlUVVJSNFBidFJNd1RTSUxvdkdTckVSbDAyS1pzT2Z0R1BZcTVIN1NpMTlMbFpvdGRmeFF2VXo1cVZrcGhRRTF0TG5WUHAwZFkwbGx4SG5ERWFlc0VyMjJzZVF4RkNkQWNNZEkzRkRadHFpQ3B1ajRZVXpoNUZIZXlUX2JoVnRwYlI?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "dcfcc5722235",
-      "title": "澳人慢性病發生率上升 肥胖成最大健康風險",
-      "published": "2026-07-09T02:11:00+00:00",
-      "summary": "澳人慢性病發生率上升 肥胖成最大健康風險&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41MEoxdGx6MlZ4WTM2X1UzSVRjZWR3Z2VEdDNYY05sX3R1X1VxWVhHZ3VsUF91UUxWY0FMMkVMZ2I4UWFvaHdiU01HUDEwWDM2Z25HN1hKeS1mUlpMTzRz0gFkQVVfeXFMTjRfSkF1bFduOEJWNWk5cXlrNVY1NXZCM0VGSW1BQkd6NXFGTkxPbXQ2SEx0TExsQmF6YWpLYWNMY1h4TUtjWG1pV2pkcEROeUowTTdPYzdxRmkxcTZweU9XUHRaVw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "77263baa19be",
-      "title": "孕婦注意！台人遊斐濟疑染茲卡病毒外交部旅遊警示亮黃燈| 生活",
-      "published": "2026-07-09T01:39:47+00:00",
-      "summary": "孕婦注意！台人遊斐濟疑染茲卡病毒外交部旅遊警示亮黃燈| 生活&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ESGREWi05OWZzMUYzWG5vNk0zNGNfZUFBcTV6YnU3bEZYVEQtdzczRlVKOW5FbElYc2tpSk44SG5iRHhlZkxB?oc=5"
         }
       ],
       "matched_keywords": []
