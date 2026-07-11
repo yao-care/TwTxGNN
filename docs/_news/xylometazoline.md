@@ -14,7 +14,7 @@ permalink: /news/xylometazoline/
 ---
 
 <p class="key-answer" data-question="Xylometazoline 有什麼相關新聞？">
-<strong>Xylometazoline</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Xylometazoline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,9 +34,15 @@ permalink: /news/xylometazoline/
 <p><a href="{{ '/drugs/xylometazoline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [類固醇鼻噴劑會傷身？破解過敏性鼻炎治療 5 大迷思](https://news.google.com/rss/articles/CBMi1AJBVV95cUxNX3Z6ZFJxcGVKRU52eTF0MzVCblFSZ0I1eWtVSm4xQnd5NG5pWWozR05KNm1uVlFxcnNBNlBmSnVCaGNiWk5CMTdRMk0wOWs1M1hEUE5ROVV2SmRHZmNiRU5MS1B4dFAyV3BMUnVOUkx5YzN3UnFyOE8yNktIXzZVTXpoa002ZlIwMk1XaUlfeEh3WWhhbEpTZUdXOEtvZlJMbEdIWGR3TEJxSlJNaGtIVDVvM1VrOGY1TmIyN0dWY1RGRVZWWUhPWkpsOFprLTl0TGIyc1p0RG1ULXplX2lKVWFFV2RtdGxnTXA2dmEtUnVyV09HQ2RGX0xobkEwZWZ3RHJRMXdKTlhGOEg3bk9WOXliMThvYjJSanlzNkt0dDR4NDg1Q2dTaGtmNGJIU0tEanUtbWZSNWpfNFA2NHVHVXZzVUt5aW9lVUFVZ05ua3ROZ2Rf?oc=5)
+
+2026-07-11 <span class="news-indication-tag">過敏性鼻炎</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi1AJBVV95cUxNX3Z6ZFJxcGVKRU52eTF0MzVCblFSZ0I1eWtVSm4xQnd5NG5pWWozR05KNm1uVlFxcnNBNlBmSnVCaGNiWk5CMTdRMk0wOWs1M1hEUE5ROVV2SmRHZmNiRU5MS1B4dFAyV3BMUnVOUkx5YzN3UnFyOE8yNktIXzZVTXpoa002ZlIwMk1XaUlfeEh3WWhhbEpTZUdXOEtvZlJMbEdIWGR3TEJxSlJNaGtIVDVvM1VrOGY1TmIyN0dWY1RGRVZWWUhPWkpsOFprLTl0TGIyc1p0RG1ULXplX2lKVWFFV2RtdGxnTXA2dmEtUnVyV09HQ2RGX0xobkEwZWZ3RHJRMXdKTlhGOEg3bk9WOXliMThvYjJSanlzNkt0dDR4NDg1Q2dTaGtmNGJIU0tEanUtbWZSNWpfNFA2NHVHVXZzVUt5aW9lVUFVZ05ua3ROZ2Rf?oc=5)
+
+---
 
 
 <div class="disclaimer">
