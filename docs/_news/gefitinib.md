@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,31 +41,9 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（0 則）
 
-### [身體1狀態成慢性病、癌症源頭醫嘆：一路傷血管和神經- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE5RX0RSU2VGbDQ4djdrcVo1UzZJLWFnTDljQjVFdnotSHQtcWxwWVFTQVNjMTZHcm1QWG1XN19zdVFNQUF4aWs3UmxJX05DMHRNdlprdlpfZ2VKRlJJZzlRb3Zpclo0X2RwTUVyTzN3?oc=5)
-
-2026-07-11 <span class="news-indication-tag">癌症</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5RX0RSU2VGbDQ4djdrcVo1UzZJLWFnTDljQjVFdnotSHQtcWxwWVFTQVNjMTZHcm1QWG1XN19zdVFNQUF4aWs3UmxJX05DMHRNdlprdlpfZ2VKRlJJZzlRb3Zpclo0X2RwTUVyTzN3?oc=5)
-
----
-
-### [香港常見癌症咽喉癌 警惕常見徵兆](https://news.google.com/rss/articles/CBMijgJBVV95cUxPeVNta09aSTZobGo4dW5WMUNfenFWdl9DcnFhUkJSb3ZReGpLdnAxOFZqWm5aUFBpZFlXYjlJZ0xSeUl6dXQyb2hDWlhJR0k3QmRfN0NSXzU1dE92VkVlSERjQ25PZTVMMkFEZl8xOHB5MlB0V1BDUjNPMWRnODZybGdiREZMN3kxbXV4MEU0RVE5bERxcGk5WFRLVjh6VFdyaHJ3ckNxVXE1dWF3YjRNOUU2WWFyY3JyV3FYbGl3NnBJZWpyVzdsaERMTEJtTElpeDh1QW1qV2V1bjViSGFSU0RlUWRacEE0TmZ1enZEbG5uWWRESGlvSTU2LW9MblNZb2dIOTE2ZnJ6a1QzVVE?oc=5)
-
-2026-07-10 <span class="news-indication-tag">癌症</span>
-
-來源：[東周網](https://news.google.com/rss/articles/CBMijgJBVV95cUxPeVNta09aSTZobGo4dW5WMUNfenFWdl9DcnFhUkJSb3ZReGpLdnAxOFZqWm5aUFBpZFlXYjlJZ0xSeUl6dXQyb2hDWlhJR0k3QmRfN0NSXzU1dE92VkVlSERjQ25PZTVMMkFEZl8xOHB5MlB0V1BDUjNPMWRnODZybGdiREZMN3kxbXV4MEU0RVE5bERxcGk5WFRLVjh6VFdyaHJ3ckNxVXE1dWF3YjRNOUU2WWFyY3JyV3FYbGl3NnBJZWpyVzdsaERMTEJtTElpeDh1QW1qV2V1bjViSGFSU0RlUWRacEE0TmZ1enZEbG5uWWRESGlvSTU2LW9MblNZb2dIOTE2ZnJ6a1QzVVE?oc=5)
-
----
-
-### [嗅覺退化或是阿茲海默症早期警號 研究揭： 大腦免疫細胞誤傷嗅覺神經](https://news.google.com/rss/articles/CBMi7wJBVV95cUxQRTZ1WmRKQTR3TUtKQXNQTEQtei03d2RMSjc4TVlzbTdYd0F4cWpUUnFuVC12cGRIR0NPZDBXTDlUTS1KTFBseHJKSlZMczRzZDRVN2VZRk5pcEZBNGhOVVJ2Si1qT2U3MlJTd0w0R1M1bzAtUTRHVFhJRVo5SWpyV253SlpQMi1uMDYxc2lYRlZTYVZ6YkNycmgyU1pOYjlKM3JLTHBoT0xrWHUyUm44SEk4MzR1MjVCTUNuN2dZdkFrZ0tNRm9TNVo1c0pzMjdiMDlVb2xWdHN1WV8wUnk4ZFEyLXFINGthamJQQ2FEOWdnN1ZxZTEwV3RHZ21VemRpUDZyaVBidnZob0xSdlhNcDFYV1VjU1ItcjVDVGtyZmo1Yllyb3dDVGc5Y2V6T19tR2FlSlZuMkEyYjd1RUhuWTVDSGE4dFdZY2x6QlVlN201SFlfQ2w3OXB1VWZzNTMtc195SGxpRDU4c01TeUow?oc=5)
-
-2026-07-09 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
-
-來源：[巴士的報](https://news.google.com/rss/articles/CBMi7wJBVV95cUxQRTZ1WmRKQTR3TUtKQXNQTEQtei03d2RMSjc4TVlzbTdYd0F4cWpUUnFuVC12cGRIR0NPZDBXTDlUTS1KTFBseHJKSlZMczRzZDRVN2VZRk5pcEZBNGhOVVJ2Si1qT2U3MlJTd0w0R1M1bzAtUTRHVFhJRVo5SWpyV253SlpQMi1uMDYxc2lYRlZTYVZ6YkNycmgyU1pOYjlKM3JLTHBoT0xrWHUyUm44SEk4MzR1MjVCTUNuN2dZdkFrZ0tNRm9TNVo1c0pzMjdiMDlVb2xWdHN1WV8wUnk4ZFEyLXFINGthamJQQ2FEOWdnN1ZxZTEwV3RHZ21VemRpUDZyaVBidnZob0xSdlhNcDFYV1VjU1ItcjVDVGtyZmo1Yllyb3dDVGc5Y2V6T19tR2FlSlZuMkEyYjd1RUhuWTVDSGE4dFdZY2x6QlVlN201SFlfQ2w3OXB1VWZzNTMtc195SGxpRDU4c01TeUow?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
