@@ -1,7 +1,35 @@
 {
-  "generated": "2026-07-11T11:44:57.923917+00:00",
-  "count": 9,
+  "generated": "2026-07-11T12:57:42.031273+00:00",
+  "count": 10,
   "news": [
+    {
+      "id": "f6830d1d77f4",
+      "title": "淋巴癌是什麼？醫解析4大原因、6大警訊，出現無痛腫塊別輕忽 - Marie Claire 美麗佳人",
+      "published": "2026-07-11T12:03:22+00:00",
+      "sources": [
+        {
+          "name": "Marie Claire 美麗佳人",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9taUhJYWNJOVA2ZHJLUXVqTW1UWkJlUHNQLUFWRTQybmszQU85ckhsbl9xYVdUUlFPYnYxT1ozTFV6bVpjbXN0dmE0alVmQzgtMnJWNDZXZElfMGRQWXktX1Y2WHBhbVZ3TkE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "primary cutaneous B-cell lymphoma",
+          "keyword": "淋巴癌",
+          "related_drugs": [
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1996df386947",
       "title": "別怕荷爾蒙，妳抗衰防病的關鍵》怕乳癌卻輕忽心臟病？奪走女性性命的頭號殺手，死亡人數竟是乳癌的6倍 - 墨新聞-MORE News",

@@ -1,8 +1,37 @@
 {
-  "last_updated": "2026-07-11T11:44:57.890206+00:00",
-  "total_count": 21,
-  "matched_count": 9,
+  "last_updated": "2026-07-11T12:57:41.997061+00:00",
+  "total_count": 22,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "f6830d1d77f4",
+      "title": "淋巴癌是什麼？醫解析4大原因、6大警訊，出現無痛腫塊別輕忽 - Marie Claire 美麗佳人",
+      "published": "2026-07-11T12:03:22+00:00",
+      "summary": "淋巴癌是什麼？醫解析4大原因、6大警訊，出現無痛腫塊別輕忽&nbsp;&nbsp;Marie Claire 美麗佳人",
+      "sources": [
+        {
+          "name": "Marie Claire 美麗佳人",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9taUhJYWNJOVA2ZHJLUXVqTW1UWkJlUHNQLUFWRTQybmszQU85ckhsbl9xYVdUUlFPYnYxT1ozTFV6bVpjbXN0dmE0alVmQzgtMnJWNDZXZElfMGRQWXktX1Y2WHBhbVZ3TkE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "primary cutaneous B-cell lymphoma",
+          "keyword": "淋巴癌",
+          "related_drugs": [
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1996df386947",
       "title": "別怕荷爾蒙，妳抗衰防病的關鍵》怕乳癌卻輕忽心臟病？奪走女性性命的頭號殺手，死亡人數竟是乳癌的6倍 - 墨新聞-MORE News",
@@ -453,13 +482,13 @@
       "matched_keywords": []
     },
     {
-      "id": "f200abb2c0cd",
+      "id": "8e5e498d076d",
       "title": "手震唔一定係柏金遜 手震10年竟然係「呢個疾病」",
       "published": "2026-07-10T10:30:00+00:00",
-      "summary": "手震唔一定係柏金遜 手震10年竟然係「呢個疾病」&nbsp;&nbsp;am730",
+      "summary": "手震唔一定係柏金遜 手震10年竟然係「呢個疾病」&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPQ3VOMjNuV1VTN0xvaEE3NG1FZVB3LVZXV3l2RXJsSk9fc0ZlVXhRbExnMDI5bHh2cVFLcU93b2ktZ0lrRHZlVmc4aTc0dUVyMElEc05CbEVoT1dpWVdBeV9UaDBTbHBIeDlVLW9TVS1rR0NmZm80XzdQVlZNNVhqeVE0d0RMaFhQckRrVFFfak1nWDhmYmRBSmt5QmlSSndaMndpZ2pYTHVEWnRZTUJsZ25pcVp3Y2s2cS1Qd19EV21leHVNUUdRVldibmNqTUlTVHhkTDR1ZDdPQzdaQm9FTUZOd0l1bjd3b2dzSVdDbWl2YlZWLUZvWm9kWDcxSGNUemJKaEhFd2RsX1JTUkk5czBUY21Mbl8ydWtPUTVjS2FlVUc1SmM0c2dEcmZwNnBwbXZrTG9PdmJ5bk1DS2VpTjE5dWt6MFV3SzRjaQ?oc=5"
         }
       ],

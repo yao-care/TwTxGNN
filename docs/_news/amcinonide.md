@@ -14,7 +14,7 @@ permalink: /news/amcinonide/
 ---
 
 <p class="key-answer" data-question="Amcinonide 有什麼相關新聞？">
-<strong>Amcinonide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 8 個。
+<strong>Amcinonide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 8 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ permalink: /news/amcinonide/
 <li>lichen planus pigmentosus（99.7%）</li>
 <li>hypertrophic lichen planus（99.7%）</li>
 <li>lichen planus pemphigoides（99.6%）</li>
-<li>primary cutaneous B-cell lymphoma（99.4%）</li>
+<li class="indication-matched">primary cutaneous B-cell lymphoma（99.4%）<span class="indication-tag">📰 淋巴癌</span></li>
 <li>dermatitis（99.3%）</li>
 <li>2-hydroxyethyl methacrylate sensitization（99.0%）</li>
 </ul></li>
@@ -40,7 +40,15 @@ permalink: /news/amcinonide/
 <p><a href="{{ '/drugs/amcinonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [淋巴癌是什麼？醫解析4大原因、6大警訊，出現無痛腫塊別輕忽 - Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiakFVX3lxTE9taUhJYWNJOVA2ZHJLUXVqTW1UWkJlUHNQLUFWRTQybmszQU85ckhsbl9xYVdUUlFPYnYxT1ozTFV6bVpjbXN0dmE0alVmQzgtMnJWNDZXZElfMGRQWXktX1Y2WHBhbVZ3TkE?oc=5)
+
+2026-07-11 <span class="news-indication-tag">淋巴癌</span>
+
+來源：[Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiakFVX3lxTE9taUhJYWNJOVA2ZHJLUXVqTW1UWkJlUHNQLUFWRTQybmszQU85ckhsbl9xYVdUUlFPYnYxT1ozTFV6bVpjbXN0dmE0alVmQzgtMnJWNDZXZElfMGRQWXktX1Y2WHBhbVZ3TkE?oc=5)
+
+---
 
 ### [身體1狀態成慢性病、癌症源頭醫嘆：一路傷血管和神經- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE5RX0RSU2VGbDQ4djdrcVo1UzZJLWFnTDljQjVFdnotSHQtcWxwWVFTQVNjMTZHcm1QWG1XN19zdVFNQUF4aWs3UmxJX05DMHRNdlprdlpfZ2VKRlJJZzlRb3Zpclo0X2RwTUVyTzN3?oc=5)
 
