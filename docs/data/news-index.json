@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-11T18:46:26.296495+00:00",
+  "generated": "2026-07-11T19:59:34.085170+00:00",
   "count": 9,
   "news": [
     {
@@ -204,17 +204,6 @@
           "type": "indication",
           "name": "cardiovascular",
           "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
           "related_drugs": [
             {
               "slug": "isosorbide_dinitrate",

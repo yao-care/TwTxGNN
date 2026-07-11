@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T18:46:26.266766+00:00",
+  "last_updated": "2026-07-11T19:59:34.056212+00:00",
   "total_count": 22,
   "matched_count": 9,
   "news": [
@@ -29,14 +29,14 @@
       ]
     },
     {
-      "id": "6b4c5b87da9f",
-      "title": "皮爾遜機場及兩航班現麻疹個案　衛生部門籲乘客留意",
-      "published": "2026-07-11T13:53:38+00:00",
-      "summary": "皮爾遜機場及兩航班現麻疹個案 衛生部門籲乘客留意&nbsp;&nbsp;singtao.ca",
+      "id": "65a16ceeb155",
+      "title": "消暑安神袪頭痛！「天然枕」功效多欠缺保養恐長蟲| 生活",
+      "published": "2026-07-11T13:31:48+00:00",
+      "summary": "消暑安神袪頭痛！「天然枕」功效多欠缺保養恐長蟲| 生活&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPNkNLb291dGZNdjVIVm9EMEhEWmlRV3pNcEM0cFVURmF2bkk4bXRfXzlUU0lsekFjenBxN19WbXRlTmctZ09QNG9vVmNtdjBWQlhmRmgtY3Aybmp4cUI2SkJpbFQ3N3g2Wnk1RDZhY29oSkxvV3BIZ0NDQXo0XzhMZVlBQ3c0NGNLNUFzY1RvUENwcFoteXhFQnIzTjF5UUlkVE5zdS1aUE9KSXZSeUFJTi1TTmVRMXVqTUxtUm5VekNWQWdlQlVKZldtZHVQVjdqa29yMVBPRzR1WUFQS3hkM2JlUVZTNm9SSV9kZXFaY21pZElCak9DWVRyYW8tSmlDTy1QSjgyczhQUUFKTTZKZHhnakZOOERPc1FpQVp6WXBCMVhYaGVVYmtwNHQ2Tkw5aTd0LV9WZThFc3J6akhBOUs4b0ktN0haYjFvRFBMQkpiOUdTUkFFUjVJNktXVk0wdjV0V1ljRkNvRjNpczhFTGdzcU1CUlhidlhHMNIBjwFBVV95cUxPQzg3UVdrbTRVc2JXQnR4SWFRQmlaTmJBRkdlaDJIZTl6Z05YVGVaa3o1aks1UXJYT2VBUlZBbGIzUFJHT2FBakdoaGg2Z2lkbkZ0aWxwcFlVbUZhaFJ4aVNNOXdBMzlrOWNJVmJUcTh1QVpveDFMaVVoYjZlQTFxZDdsZDRWcVJiNnktMzZyMA?oc=5"
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Za3lVc0Fpb1lIanNqRUJ3ekhNbWNrdHN4VGZnRVM4WTdxdW12SDc5dUVwaElqRUNneE9BNmViZ2FWcUZFZlNn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -315,7 +315,7 @@
       "id": "ed2010dcd4f8",
       "title": "夜間習慣暗藏心血管危機！醫點名7大行為加速血管老化",
       "published": "2026-07-10T08:57:12+00:00",
-      "summary": "夜間習慣暗藏心血管危機！醫點名7大行為加速血管老化&nbsp;&nbsp;Yahoo新聞醫示警：晚上7點後「不做7件事」！恐傷心血管 運動也上榜&nbsp;&nbsp;Yahoo新聞晚上7點後別做這些事！心臟科醫曝「7大NG習慣」：心血管疾病風險狂飆&nbsp;&nbsp;三立新聞小心傷血管！心臟科醫師示警：晚上7點後「這7件事」最好別做&nbsp;&nbsp;聯合新聞網心臟科醫師示警 晚上7點過後「這7件事」 絕對不做&nbsp;&nbsp;MSN",
+      "summary": "夜間習慣暗藏心血管危機！醫點名7大行為加速血管老化&nbsp;&nbsp;Yahoo新聞醫示警：晚上7點後「不做7件事」！恐傷心血管 運動也上榜&nbsp;&nbsp;Yahoo新聞小心傷血管！心臟科醫師示警：晚上7點後「這7件事」最好別做&nbsp;&nbsp;聯合新聞網心臟科醫師示警 晚上7點過後「這7件事」 絕對不做&nbsp;&nbsp;MSN7件事超傷血管心臟科醫：晚上7時後我絕不做- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -327,17 +327,6 @@
           "type": "indication",
           "name": "cardiovascular",
           "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
           "related_drugs": [
             {
               "slug": "isosorbide_dinitrate",
