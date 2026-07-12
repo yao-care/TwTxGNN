@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-12T14:26:49.248869+00:00",
+  "fetched_at": "2026-07-12T15:51:03.160471+00:00",
   "count": 19,
   "news": [
     {
@@ -16,18 +16,6 @@
       ]
     },
     {
-      "id": "d52e61b1dc74",
-      "title": "美研究：同樣40歲、年輕世代身體更老？！ - 壹蘋新聞網",
-      "published": "2026-07-12T12:10:00+00:00",
-      "summary": "美研究：同樣40歲、年輕世代身體更老？！&nbsp;&nbsp;壹蘋新聞網",
-      "sources": [
-        {
-          "name": "壹蘋新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTHhETEM5MFYxd2RxNzQ3bW96YkdXU29oUlhiQTZEVndHOHEyS3hRdkJhczhtRWlrS3hVYm1xVUVKbmZyYkRYRGdiWXRNQlQwMFR2UUk4NmFQZ1A5MGRRWXN2Sm10SWpfVmxtc2VQQXpaZURJWUFMaHYxcDlsOU1sRS13?oc=5"
-        }
-      ]
-    },
-    {
       "id": "dbd60e30a278",
       "title": "男性脖子上的「青春期化石」，生物學家解密喉結真實作用 - TechNews 科技新報",
       "published": "2026-07-12T06:37:08+00:00",
@@ -36,6 +24,18 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pVUtrY2ZLQzk1TlBNdGtCeEh4VWlsZzVoM2NVQnh3NWg4OFNiZFYyaWJvVE53bzJyS19udDhqZm9QMzQ2Ynhub0J0Q0pRX2VoanFfOWhvS2pOcWFiVV9ubHlLSHdxMEYzWWtJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d52e61b1dc74",
+      "title": "美研究：同樣40歲、年輕世代身體更老？！ - 壹蘋新聞網",
+      "published": "2026-07-12T12:10:00+00:00",
+      "summary": "美研究：同樣40歲、年輕世代身體更老？！&nbsp;&nbsp;壹蘋新聞網",
+      "sources": [
+        {
+          "name": "壹蘋新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTHhETEM5MFYxd2RxNzQ3bW96YkdXU29oUlhiQTZEVndHOHEyS3hRdkJhczhtRWlrS3hVYm1xVUVKbmZyYkRYRGdiWXRNQlQwMFR2UUk4NmFQZ1A5MGRRWXN2Sm10SWpfVmxtc2VQQXpaZURJWUFMaHYxcDlsOU1sRS13?oc=5"
         }
       ]
     },
