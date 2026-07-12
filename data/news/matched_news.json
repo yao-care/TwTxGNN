@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-07-12T11:52:59.957010+00:00",
-  "total_count": 18,
+  "last_updated": "2026-07-12T12:58:34.414080+00:00",
+  "total_count": 19,
   "matched_count": 5,
   "news": [
+    {
+      "id": "35195aff9074",
+      "title": "美研究：同樣40歲、年輕世代身體更老？！",
+      "published": "2026-07-12T12:10:00+00:00",
+      "summary": "美研究：同樣40歲、年輕世代身體更老？！&nbsp;&nbsp;壹蘋新聞網",
+      "sources": [
+        {
+          "name": "壹蘋新聞網",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlhKU2owQXhYZkh2VGRuZm40dTZUU1ZqQXhZOW5XcnlQUzBHYkZvc0VJOU1MZXU0LW1iWmgzM0xvbHBVb3V0c1daU2huTWw2TU1LSVJEbVV1QTBxemdVSkRzNnJPRjBiSTVxYjNIQ1hhZ1ctMEg4MU04UTJzRWY2dDNzdEI?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "abd15c03afc8",
       "title": "不是感冒！男出遊發燒竟「確診重大傷病」　醫警告：小心紫外線",
