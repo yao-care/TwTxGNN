@@ -31,11 +31,11 @@ permalink: /news/common-cold/
 
 ## 相關新聞（1 則）
 
-### [不是感冒！男出遊發燒竟「確診重大傷病」　醫警告：小心紫外線](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ac2tUSU9hT1l0WTd3OWw0SnJHenVjM2ZRQlpBQWlOdjlHcURvUzdQNG1CdGxGZUp3a0Q2TkVoQ08tTDhHanBrOHZyT0dIMUR00gFsQVVfeXFMTU1JUHV0YW9fRE9wMENQYUxtRG1ZZnBrRWl6d2ItM0hSS3NjUDVpZFZoYjQ0eHlTTkNmODdLTkhKWTdWcVVuZ0swTkpYVmZzRGl4Tm5VZ0EtMm5FQ0t0UWFmdk5tVHNoN3VMcFRQ?oc=5)
+### [不是感冒！男出遊發燒竟「確診重大傷病」 醫警告：小心紫外線](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ac2tUSU9hT1l0WTd3OWw0SnJHenVjM2ZRQlpBQWlOdjlHcURvUzdQNG1CdGxGZUp3a0Q2TkVoQ08tTDhHanBrOHZyT0dIMUR0?oc=5)
 
 2026-07-12
 
-來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ac2tUSU9hT1l0WTd3OWw0SnJHenVjM2ZRQlpBQWlOdjlHcURvUzdQNG1CdGxGZUp3a0Q2TkVoQ08tTDhHanBrOHZyT0dIMUR00gFsQVVfeXFMTU1JUHV0YW9fRE9wMENQYUxtRG1ZZnBrRWl6d2ItM0hSS3NjUDVpZFZoYjQ0eHlTTkNmODdLTkhKWTdWcVVuZ0swTkpYVmZzRGl4Tm5VZ0EtMm5FQ0t0UWFmdk5tVHNoN3VMcFRQ?oc=5)
+來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ac2tUSU9hT1l0WTd3OWw0SnJHenVjM2ZRQlpBQWlOdjlHcURvUzdQNG1CdGxGZUp3a0Q2TkVoQ08tTDhHanBrOHZyT0dIMUR0?oc=5)
 
 ---
 
