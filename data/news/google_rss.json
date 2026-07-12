@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-12T16:47:54.866269+00:00",
+  "fetched_at": "2026-07-12T17:51:46.696702+00:00",
   "count": 19,
   "news": [
     {
@@ -112,18 +112,6 @@
       ]
     },
     {
-      "id": "56c8fa47eb9b",
-      "title": "不是跑步也不是爬山！研究公認最佳長壽「1運動」是它，規律走路能多活10年 - ELLE",
-      "published": "2026-07-12T07:23:20+00:00",
-      "summary": "不是跑步也不是爬山！研究公認最佳長壽「1運動」是它，規律走路能多活10年&nbsp;&nbsp;ELLE走得快的人真的不一樣！ 研究揭80歲後認知衰退風險砍半- 國際&nbsp;&nbsp;中時新聞網提升心率、促新陳代謝 「快走族」死亡風險降43%&nbsp;&nbsp;世界新聞網步伐快 80歲後腦力更能維持？研究揭關聯&nbsp;&nbsp;Taiwan News",
-      "sources": [
-        {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTb25iRjFCRU5nOTV5VXhDcEs0N3hjcDB2Szl4cFZwdmtJajBKRVBjRGk2U2JmTlBSNkJ3bVZsTnhEN3FCaXNON2xXXzV5aHVLN1hOeEZKS25xaGxVWUVJSnpyOURWa2JvUjliblpqUHk4aVhUMDJfY0F3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "011dc2d30208",
       "title": "喜歡吃洋蔥的人天生有2大健康優勢！研究：罹糖尿病、高血壓風險較低 - 元氣網",
       "published": "2026-07-11T01:35:25+00:00",
@@ -132,6 +120,18 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JbzVoMmtaeE15Uk40S01jdDRCSlZhZ0U4LTJVT0lJQXVLRVBfTjdfX1hhRFV1M2xtUE41UTlRY2NkS3A3Rk9iYlNOc0tpOG4xNGJNNnZTYU5UWUZo0gFiQVVfeXFMTkRjbUNCeVZ4MEZDVEdrbzRNcVZUUEttQ1RSTHpBOWYxOFctTzVTck5tYWljTVZxb2ZBZ2RYbTlzY1lBekZSVEV1YVh3ZU1qelhfUHQ3d09La1ZGTHktaHByOWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "56c8fa47eb9b",
+      "title": "不是跑步也不是爬山！研究公認最佳長壽「1運動」是它，規律走路能多活10年 - ELLE",
+      "published": "2026-07-12T07:23:20+00:00",
+      "summary": "不是跑步也不是爬山！研究公認最佳長壽「1運動」是它，規律走路能多活10年&nbsp;&nbsp;ELLE走得快的人真的不一樣！ 研究揭80歲後認知衰退風險砍半- 國際&nbsp;&nbsp;中時新聞網提升心率、促新陳代謝 「快走族」死亡風險降43%&nbsp;&nbsp;世界新聞網步伐快 80歲後腦力更能維持？研究揭關聯&nbsp;&nbsp;Taiwan News",
+      "sources": [
+        {
+          "name": "ELLE",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTb25iRjFCRU5nOTV5VXhDcEs0N3hjcDB2Szl4cFZwdmtJajBKRVBjRGk2U2JmTlBSNkJ3bVZsTnhEN3FCaXNON2xXXzV5aHVLN1hOeEZKS25xaGxVWUVJSnpyOURWa2JvUjliblpqUHk4aVhUMDJfY0F3?oc=5"
         }
       ]
     },
@@ -196,18 +196,6 @@
       ]
     },
     {
-      "id": "1624be5f1b31",
-      "title": "八仙塵爆／先搶先贏？燙傷藥缺很大住院14天須13萬罐| 生活 - 三立新聞",
-      "published": "2026-07-10T16:27:08+00:00",
-      "summary": "八仙塵爆／先搶先贏？燙傷藥缺很大住院14天須13萬罐| 生活&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5hS2ZRSnc5dW45WmF3SnNkaXhRZmRqQ1Z1ZFJwWlloTFMwSzVSc3RKVFZPZUZtMFdPMmFiVXJGVkgxTGJ5MXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "65a16ceeb155",
       "title": "消暑安神袪頭痛！「天然枕」功效多欠缺保養恐長蟲| 生活 - 三立新聞",
       "published": "2026-07-11T13:31:48+00:00",
@@ -228,6 +216,18 @@
         {
           "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1TYmJvcFh5cktzRnhlWXhuTDc2NHBYeWRkUThBU3RTb3Rla09YbHFtNEo3a3ZiSDhsQWpEaEpsQWlySjdYbWRj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "65fb830c64ee",
+      "title": "小黑蚊不是「蚊」！無天敵太囂張專家教你這樣毀滅牠的家| 生活 - 三立新聞",
+      "published": "2026-07-11T22:17:17+00:00",
+      "summary": "小黑蚊不是「蚊」！無天敵太囂張專家教你這樣毀滅牠的家| 生活&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBjMkphZXBlOEFDRnpsbHFMTE5fWHpIT0plMVhsaFpCMTB2QWg0WXZJNmppenNBVFVrWkhjN1BuTmhZWmptMWpJ?oc=5"
         }
       ]
     }
