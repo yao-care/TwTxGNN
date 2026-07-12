@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T20:01:51.367598+00:00",
+  "last_updated": "2026-07-12T21:40:12.662363+00:00",
   "total_count": 18,
   "matched_count": 5,
   "news": [
@@ -42,6 +42,19 @@
       ]
     },
     {
+      "id": "988ec5695060",
+      "title": "科學家破解海葵「踩煞車」抗病毒機制，有望成人類新藥曙光 | 科技新報 - LINE TODAY",
+      "published": "2026-07-12T10:50:16+00:00",
+      "summary": "科學家破解海葵「踩煞車」抗病毒機制，有望成人類新藥曙光 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OM0NMaXJROHBUa2xyNy1ZOXF1cEZSbXZKSUxPVGgzR0pnUFNoQ0pNSUYxc3VCeXhyYkxsTFlxNzN6X1M3M0FNa2NnRlRTU2N5b1gzdXpn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "56c8fa47eb9b",
       "title": "不是跑步也不是爬山！研究公認最佳長壽「1運動」是它，規律走路能多活10年",
       "published": "2026-07-12T07:23:20+00:00",
@@ -68,19 +81,6 @@
       "matched_keywords": []
     },
     {
-      "id": "5e8597bb8460",
-      "title": "科學家破解海葵「踩煞車」抗病毒機制，有望成人類新藥曙光 - TechNews 科技新報",
-      "published": "2026-07-12T02:34:42+00:00",
-      "summary": "科學家破解海葵「踩煞車」抗病毒機制，有望成人類新藥曙光&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oRGdVMTM5V0JHdU9lOGN0aDBwZUJMcUVyczUtUHF0Umh3Tm5Ka0d4MXVRaHFNTktVY3dkUUhTMS1xYXpsV1Z6bFl3b3dsQTdPLThuYzhmeUNqRE9CWWRaRGpsdHVBcUVaM1hoeVJvTTFjMEVP?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "be94a4731e34",
       "title": "健康人也要天天測血糖？專家解釋為何多數人其實沒必要",
       "published": "2026-07-12T01:51:33+00:00",
@@ -94,19 +94,6 @@
       "matched_keywords": []
     },
     {
-      "id": "e7a93f14ae8f",
-      "title": "AI 是不發脾氣的完美家教！11 歲男童靠 Copilot 克服讀寫障礙自製遊戲 | 科技新報 - LINE TODAY",
-      "published": "2026-07-12T01:00:14+00:00",
-      "summary": "AI 是不發脾氣的完美家教！11 歲男童靠 Copilot 克服讀寫障礙自製遊戲 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wNDc4MDF2RnlZa09ydWVpY05FREl4NUROUmY5cUQtbDE1V0x0U1dPS19aQUlmM1hhTkhFRFg1SlMxUG1rWVU5dVpqdDc0ZFJWZ0FPejdR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "73f3ecf53f1d",
       "title": "染疫「嗅覺喪失」可復健　醫揭4氣味訓練法助神經再生",
       "published": "2026-07-12T00:57:00+00:00",
@@ -115,6 +102,19 @@
         {
           "name": "ETtoday健康雲",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16cmdPRW5Rd2RWTGNaQjJCOVpaUjhLaUYwcHJsU3NMNDFNamVELWZsbXQ0V3U0Z0VwM0VrNFpJbzNZajhWdlNuS0hoYm11cXhN0gFsQVVfeXFMTUpZSzVuN09zeGxjWEZ2SGpmaDk0eWtSeDMzVWRYZHF0d1M4MDAxSDZPWF9qQzdCODdVbmp0cGo3NUlPSk8yNkV3X09QWHZFcFExbXd4U3JrNndhQTVUbWx3SUtZcVd5X3JuVS00?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "700d51f0d0d0",
+      "title": "AI 是不發脾氣的完美家教！11 歲男童靠 Copilot 克服讀寫障礙自製遊戲 - TechNews 科技新報",
+      "published": "2026-07-12T00:31:59+00:00",
+      "summary": "AI 是不發脾氣的完美家教！11 歲男童靠 Copilot 克服讀寫障礙自製遊戲&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN2otVnQwdzZPVFROWGJDWUN4UUY3Q1Q4bjhBV2x1cWMxUWhFZjJvVS1XZDZRZU54YXdReWxaalJnNGEzdzNDU1hTbFRGbHYzU2VlMUlsTzA0ZDJmNFF3ellNSU1BaDNLOHRsd0Z1ZXhQUm5xTHltbW5TY0ltWFBIVUNYN05FWmN0NVl5N3I3MXg?oc=5"
         }
       ],
       "matched_keywords": []
