@@ -14,7 +14,7 @@ permalink: /news/clobetasone/
 ---
 
 <p class="key-answer" data-question="Clobetasone 有什麼相關新聞？">
-<strong>Clobetasone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Clobetasone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/clobetasone/
 <p><a href="{{ '/drugs/clobetasone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [淋巴癌是什麼？醫解析4大原因、6大警訊，出現無痛腫塊別輕忽 - Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiakFVX3lxTE9taUhJYWNJOVA2ZHJLUXVqTW1UWkJlUHNQLUFWRTQybmszQU85ckhsbl9xYVdUUlFPYnYxT1ozTFV6bVpjbXN0dmE0alVmQzgtMnJWNDZXZElfMGRQWXktX1Y2WHBhbVZ3TkE?oc=5)
 
 2026-07-11 <span class="news-indication-tag">淋巴癌</span>
 
 來源：[Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiakFVX3lxTE9taUhJYWNJOVA2ZHJLUXVqTW1UWkJlUHNQLUFWRTQybmszQU85ckhsbl9xYVdUUlFPYnYxT1ozTFV6bVpjbXN0dmE0alVmQzgtMnJWNDZXZElfMGRQWXktX1Y2WHBhbVZ3TkE?oc=5)
-
----
-
-### [香港常見癌症咽喉癌 警惕常見徵兆](https://news.google.com/rss/articles/CBMijgJBVV95cUxPeVNta09aSTZobGo4dW5WMUNfenFWdl9DcnFhUkJSb3ZReGpLdnAxOFZqWm5aUFBpZFlXYjlJZ0xSeUl6dXQyb2hDWlhJR0k3QmRfN0NSXzU1dE92VkVlSERjQ25PZTVMMkFEZl8xOHB5MlB0V1BDUjNPMWRnODZybGdiREZMN3kxbXV4MEU0RVE5bERxcGk5WFRLVjh6VFdyaHJ3ckNxVXE1dWF3YjRNOUU2WWFyY3JyV3FYbGl3NnBJZWpyVzdsaERMTEJtTElpeDh1QW1qV2V1bjViSGFSU0RlUWRacEE0TmZ1enZEbG5uWWRESGlvSTU2LW9MblNZb2dIOTE2ZnJ6a1QzVVE?oc=5)
-
-2026-07-10 <span class="news-indication-tag">癌症</span>
-
-來源：[東周網](https://news.google.com/rss/articles/CBMijgJBVV95cUxPeVNta09aSTZobGo4dW5WMUNfenFWdl9DcnFhUkJSb3ZReGpLdnAxOFZqWm5aUFBpZFlXYjlJZ0xSeUl6dXQyb2hDWlhJR0k3QmRfN0NSXzU1dE92VkVlSERjQ25PZTVMMkFEZl8xOHB5MlB0V1BDUjNPMWRnODZybGdiREZMN3kxbXV4MEU0RVE5bERxcGk5WFRLVjh6VFdyaHJ3ckNxVXE1dWF3YjRNOUU2WWFyY3JyV3FYbGl3NnBJZWpyVzdsaERMTEJtTElpeDh1QW1qV2V1bjViSGFSU0RlUWRacEE0TmZ1enZEbG5uWWRESGlvSTU2LW9MblNZb2dIOTE2ZnJ6a1QzVVE?oc=5)
 
 ---
 

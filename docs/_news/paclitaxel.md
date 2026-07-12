@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [別怕荷爾蒙，妳抗衰防病的關鍵》怕乳癌卻輕忽心臟病？奪走女性性命的頭號殺手，死亡人數竟是乳癌的6倍 - 墨新聞-MORE News](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVeVpOZnFlcWZLZlloQ3doblhEZEtaZGszYTBrRW13NDJmOE9TeWxSLVJQNmdTaXZ1TnUwQU8tcWZxUQ?oc=5)
 
 2026-07-11 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">乳癌</span>
 
 來源：[墨新聞-MORE News](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVeVpOZnFlcWZLZlloQ3doblhEZEtaZGszYTBrRW13NDJmOE9TeWxSLVJQNmdTaXZ1TnUwQU8tcWZxUQ?oc=5)
-
----
-
-### [香港常見癌症咽喉癌 警惕常見徵兆](https://news.google.com/rss/articles/CBMijgJBVV95cUxPeVNta09aSTZobGo4dW5WMUNfenFWdl9DcnFhUkJSb3ZReGpLdnAxOFZqWm5aUFBpZFlXYjlJZ0xSeUl6dXQyb2hDWlhJR0k3QmRfN0NSXzU1dE92VkVlSERjQ25PZTVMMkFEZl8xOHB5MlB0V1BDUjNPMWRnODZybGdiREZMN3kxbXV4MEU0RVE5bERxcGk5WFRLVjh6VFdyaHJ3ckNxVXE1dWF3YjRNOUU2WWFyY3JyV3FYbGl3NnBJZWpyVzdsaERMTEJtTElpeDh1QW1qV2V1bjViSGFSU0RlUWRacEE0TmZ1enZEbG5uWWRESGlvSTU2LW9MblNZb2dIOTE2ZnJ6a1QzVVE?oc=5)
-
-2026-07-10 <span class="news-indication-tag">癌症</span>
-
-來源：[東周網](https://news.google.com/rss/articles/CBMijgJBVV95cUxPeVNta09aSTZobGo4dW5WMUNfenFWdl9DcnFhUkJSb3ZReGpLdnAxOFZqWm5aUFBpZFlXYjlJZ0xSeUl6dXQyb2hDWlhJR0k3QmRfN0NSXzU1dE92VkVlSERjQ25PZTVMMkFEZl8xOHB5MlB0V1BDUjNPMWRnODZybGdiREZMN3kxbXV4MEU0RVE5bERxcGk5WFRLVjh6VFdyaHJ3ckNxVXE1dWF3YjRNOUU2WWFyY3JyV3FYbGl3NnBJZWpyVzdsaERMTEJtTElpeDh1QW1qV2V1bjViSGFSU0RlUWRacEE0TmZ1enZEbG5uWWRESGlvSTU2LW9MblNZb2dIOTE2ZnJ6a1QzVVE?oc=5)
 
 ---
 

@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-12T08:01:38.047255+00:00",
-  "count": 20,
+  "fetched_at": "2026-07-12T10:19:41.809090+00:00",
+  "count": 18,
   "news": [
     {
       "id": "dbd60e30a278",
@@ -12,6 +12,18 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pVUtrY2ZLQzk1TlBNdGtCeEh4VWlsZzVoM2NVQnh3NWg4OFNiZFYyaWJvVE53bzJyS19udDhqZm9QMzQ2Ynhub0J0Q0pRX2VoanFfOWhvS2pOcWFiVV9ubHlLSHdxMEYzWWtJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "be94a4731e34",
+      "title": "健康人也要天天測血糖？專家解釋為何多數人其實沒必要 - 元氣網",
+      "published": "2026-07-12T01:51:33+00:00",
+      "summary": "健康人也要天天測血糖？專家解釋為何多數人其實沒必要&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0waU5zakU4eUFaTG9GakpTaElFQlJ5ZGdEbmRXcVpDQ2Z1UGkwb0g4cThZNzJuXzFnN0c2Sy1iOEpjTWpfQlpoSjhiSXhLWHhMWUw3Q0F6ZUNwTHps0gFiQVVfeXFMTlRjcEpsRkZFLUJFUXBBMGVnTkFiZkVpTjBmSUhuS2RJc2ZTanhyeDNUVGdkWmhGbWpwa2dUOWFxV05TeFdnSHh2dm4wRi1adEhtM3NHbjZ5YzBaV3lZY1pRa3c?oc=5"
         }
       ]
     },
@@ -28,14 +40,14 @@
       ]
     },
     {
-      "id": "700d51f0d0d0",
-      "title": "AI 是不發脾氣的完美家教！11 歲男童靠 Copilot 克服讀寫障礙自製遊戲 - TechNews 科技新報",
-      "published": "2026-07-12T00:31:59+00:00",
-      "summary": "AI 是不發脾氣的完美家教！11 歲男童靠 Copilot 克服讀寫障礙自製遊戲&nbsp;&nbsp;TechNews 科技新報",
+      "id": "e7a93f14ae8f",
+      "title": "AI 是不發脾氣的完美家教！11 歲男童靠 Copilot 克服讀寫障礙自製遊戲 | 科技新報 - LINE TODAY",
+      "published": "2026-07-12T01:00:14+00:00",
+      "summary": "AI 是不發脾氣的完美家教！11 歲男童靠 Copilot 克服讀寫障礙自製遊戲 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN2otVnQwdzZPVFROWGJDWUN4UUY3Q1Q4bjhBV2x1cWMxUWhFZjJvVS1XZDZRZU54YXdReWxaalJnNGEzdzNDU1hTbFRGbHYzU2VlMUlsTzA0ZDJmNFF3ellNSU1BaDNLOHRsd0Z1ZXhQUm5xTHltbW5TY0ltWFBIVUNYN05FWmN0NVl5N3I3MXg?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wNDc4MDF2RnlZa09ydWVpY05FREl4NUROUmY5cUQtbDE1V0x0U1dPS19aQUlmM1hhTkhFRFg1SlMxUG1rWVU5dVpqdDc0ZFJWZ0FPejdR?oc=5"
         }
       ]
     },
@@ -84,18 +96,6 @@
         {
           "name": "ELLE",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTb25iRjFCRU5nOTV5VXhDcEs0N3hjcDB2Szl4cFZwdmtJajBKRVBjRGk2U2JmTlBSNkJ3bVZsTnhEN3FCaXNON2xXXzV5aHVLN1hOeEZKS25xaGxVWUVJSnpyOURWa2JvUjliblpqUHk4aVhUMDJfY0F3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ed2010dcd4f8",
-      "title": "夜間習慣暗藏心血管危機！醫點名7大行為加速血管老化 - Yahoo新聞",
-      "published": "2026-07-10T08:57:12+00:00",
-      "summary": "夜間習慣暗藏心血管危機！醫點名7大行為加速血管老化&nbsp;&nbsp;Yahoo新聞小心傷血管！心臟科醫師示警：晚上7點後「這7件事」最好別做&nbsp;&nbsp;聯合新聞網心臟科醫師示警 晚上7點過後「這7件事」 絕對不做&nbsp;&nbsp;MSN7件事超傷血管心臟科醫：晚上7時後我絕不做- 健康&nbsp;&nbsp;中時新聞網晚上7點後別做「這7件事」 心臟科醫師：我從不碰&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPb3JmZEdnYUVSeng5QnVtRmZCT1NPQm9hRkZMUzNMemY0M0h2T3JYTTRVSWRVT1ppbEo2eGtsc1ZSSzUxcEhGWUpHZ2tRNmptWHo4WTdDV2hEQk9PdFJUMEhjOWhFRmpqOUF3cnJ2UmV6RUJ4XzBIZjNQX0JscUlEb1hWQzdReVhrU0lrMVZ4N1FwSGtjS21hWG52RnJ0WmNDNDc4SkViZFlzWnVicmt2WEZyUWt0NWhidlE4ZVU5Tm5HOHNMd205Z3B2X0ZwZ1gxMF9jVjByVnQ0blRkV0p1YWFUYzRDZTBFWHhoYmV2OXhuRGNzN0ZQWmZEYnIwQWpNUWNzcW44MzFleXE1Z3FmdWVBRzh1VmdnSklQeTlLbTExamZoeElNdmJhU09EYUpEZHJvZXFWM0t0ekQyT3BaeEJFdjl3MDFIdy1lU0NIa3dWbXZ5aWpkc3pIdklFdjN4UC1OQ2NjN3FzZw?oc=5"
         }
       ]
     },
@@ -184,18 +184,6 @@
       ]
     },
     {
-      "id": "4a0ad9e952e6",
-      "title": "香港常見癌症咽喉癌 警惕常見徵兆 - 東周網",
-      "published": "2026-07-10T08:32:23+00:00",
-      "summary": "香港常見癌症咽喉癌 警惕常見徵兆&nbsp;&nbsp;東周網",
-      "sources": [
-        {
-          "name": "東周網",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPeVNta09aSTZobGo4dW5WMUNfenFWdl9DcnFhUkJSb3ZReGpLdnAxOFZqWm5aUFBpZFlXYjlJZ0xSeUl6dXQyb2hDWlhJR0k3QmRfN0NSXzU1dE92VkVlSERjQ25PZTVMMkFEZl8xOHB5MlB0V1BDUjNPMWRnODZybGdiREZMN3kxbXV4MEU0RVE5bERxcGk5WFRLVjh6VFdyaHJ3ckNxVXE1dWF3YjRNOUU2WWFyY3JyV3FYbGl3NnBJZWpyVzdsaERMTEJtTElpeDh1QW1qV2V1bjViSGFSU0RlUWRacEE0TmZ1enZEbG5uWWRESGlvSTU2LW9MblNZb2dIOTE2ZnJ6a1QzVVE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1624be5f1b31",
       "title": "八仙塵爆／先搶先贏？燙傷藥缺很大住院14天須13萬罐| 生活 - 三立新聞",
       "published": "2026-07-10T16:27:08+00:00",
@@ -216,18 +204,6 @@
         {
           "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Za3lVc0Fpb1lIanNqRUJ3ekhNbWNrdHN4VGZnRVM4WTdxdW12SDc5dUVwaElqRUNneE9BNmViZ2FWcUZFZlNn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c8afd7712e38",
-      "title": "心疼！男嬰罕見心臟病柯P請台大全力相助| 社會 - 三立新聞",
-      "published": "2026-07-10T06:02:58+00:00",
-      "summary": "心疼！男嬰罕見心臟病柯P請台大全力相助| 社會&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1MTmN1dG9YUTZTZjFValVBRUZMd21HLXlGN2xfSUZRSkF1ODN1a3M5NWZ2V2RFZjJhdl83d1FvaThLcnNwMnc?oc=5"
         }
       ]
     },
