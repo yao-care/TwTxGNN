@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T05:19:02.761560+00:00",
-  "count": 9,
+  "generated": "2026-07-12T08:01:42.732134+00:00",
+  "count": 7,
   "news": [
     {
       "id": "f6830d1d77f4",
@@ -167,30 +167,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "863735ee6c64",
-      "title": "類固醇鼻噴劑會傷身？破解過敏性鼻炎治療 5 大迷思",
-      "published": "2026-07-11T02:00:00+00:00",
-      "sources": [
-        {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80NGhHWmJMdGFrb21pRDk4aVBLeDB4akc3NllwRC1yTmVHa05iM1NmNTVtbkV2Z3dxMFQxT0hkRlZOUURmYlRfanBjQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "過敏性鼻炎",
-          "keyword": "過敏性鼻炎",
-          "related_drugs": [
-            {
-              "slug": "xylometazoline",
-              "name": "Xylometazoline"
             }
           ]
         }
@@ -523,30 +499,6 @@
             {
               "slug": "treprostinil",
               "name": "Treprostinil"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c49941c63225",
-      "title": "拉肚子竟引發咳嗽？顧好腸胃也能救呼吸道 避免感冒拖延好不了 - TVBS 健康2.0",
-      "published": "2026-07-10T05:20:16+00:00",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBObnFQbGczaWROMGtMLS1TNGVyd2JZYmRVdmg4MUp2YmEwa0U5dERwNFYycjZYU0swQUVRQ0lTY2JsamxjZFZDMDJQNlUxQVJHMVlB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
