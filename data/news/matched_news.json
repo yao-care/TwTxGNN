@@ -1,17 +1,30 @@
 {
-  "last_updated": "2026-07-12T21:40:12.662363+00:00",
+  "last_updated": "2026-07-12T22:38:40.051892+00:00",
   "total_count": 18,
   "matched_count": 5,
   "news": [
     {
-      "id": "98f43ef131d5",
+      "id": "a882390e854e",
+      "title": "男性脖子上的「青春期化石」，生物學家解密喉結真實作用 | 科技新報 - LINE TODAY",
+      "published": "2026-07-12T14:45:16+00:00",
+      "summary": "男性脖子上的「青春期化石」，生物學家解密喉結真實作用 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RTFVLTVk0S3liREVFVTJIQ0FrTEVUMmJTRjhPQ0xpQzdzd2g1MFJvV015VWVLNFRLaU1pSUlhcDJEQThRRW5ieFIyNWROdl9yVGxzMG9n?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "06ab940bf199",
       "title": "美研究：同樣40歲、年輕世代身體更老？！",
       "published": "2026-07-12T12:10:00+00:00",
       "summary": "美研究：同樣40歲、年輕世代身體更老？！&nbsp;&nbsp;壹蘋新聞網",
       "sources": [
         {
           "name": "壹蘋新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMTdWWlRqQmFMRTJCdVdwYm9vdTFGRmo5TVV2Wk9BUGtYaGlsQmJYR2NwcWxXNWZIR3VMbzB2TGcxbTVudl80UHBoNUhlMXI2WkFzTzRLTGZtYVVpVFZVZGg0N2Rtem5QTHQwSTBDT3owQ3RaUk9ObzEwR3E1ZkZXaFhIRW1FWGdpRFE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pcXlBVVhoYzR1U0VwTXQyaU5wNEdzTDdVdFJxS3duTWgyWTVUOUpqZktucUxWdVI1Y3VLamh3alBWQ1MtZHhuNXU1cFZ1SnRZOExjWTRDTGJvLWhvQUFrZXZxWFVrRzFMWjE5M1BhVHZRbVNkZUUyaWdlZE00QQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -42,19 +55,6 @@
       ]
     },
     {
-      "id": "988ec5695060",
-      "title": "科學家破解海葵「踩煞車」抗病毒機制，有望成人類新藥曙光 | 科技新報 - LINE TODAY",
-      "published": "2026-07-12T10:50:16+00:00",
-      "summary": "科學家破解海葵「踩煞車」抗病毒機制，有望成人類新藥曙光 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OM0NMaXJROHBUa2xyNy1ZOXF1cEZSbXZKSUxPVGgzR0pnUFNoQ0pNSUYxc3VCeXhyYkxsTFlxNzN6X1M3M0FNa2NnRlRTU2N5b1gzdXpn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "56c8fa47eb9b",
       "title": "不是跑步也不是爬山！研究公認最佳長壽「1運動」是它，規律走路能多活10年",
       "published": "2026-07-12T07:23:20+00:00",
@@ -68,14 +68,14 @@
       "matched_keywords": []
     },
     {
-      "id": "dbd60e30a278",
-      "title": "男性脖子上的「青春期化石」，生物學家解密喉結真實作用 - TechNews 科技新報",
-      "published": "2026-07-12T06:37:08+00:00",
-      "summary": "男性脖子上的「青春期化石」，生物學家解密喉結真實作用&nbsp;&nbsp;TechNews 科技新報",
+      "id": "5e8597bb8460",
+      "title": "科學家破解海葵「踩煞車」抗病毒機制，有望成人類新藥曙光 - TechNews 科技新報",
+      "published": "2026-07-12T02:34:42+00:00",
+      "summary": "科學家破解海葵「踩煞車」抗病毒機制，有望成人類新藥曙光&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
           "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pVUtrY2ZLQzk1TlBNdGtCeEh4VWlsZzVoM2NVQnh3NWg4OFNiZFYyaWJvVE53bzJyS19udDhqZm9QMzQ2Ynhub0J0Q0pRX2VoanFfOWhvS2pOcWFiVV9ubHlLSHdxMEYzWWtJ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oRGdVMTM5V0JHdU9lOGN0aDBwZUJMcUVyczUtUHF0Umh3Tm5Ka0d4MXVRaHFNTktVY3dkUUhTMS1xYXpsV1Z6bFl3b3dsQTdPLThuYzhmeUNqRE9CWWRaRGpsdHVBcUVaM1hoeVJvTTFjMEVP?oc=5"
         }
       ],
       "matched_keywords": []
