@@ -1,8 +1,33 @@
 {
-  "last_updated": "2026-07-12T10:19:44.881855+00:00",
+  "last_updated": "2026-07-12T11:52:59.957010+00:00",
   "total_count": 18,
-  "matched_count": 4,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "abd15c03afc8",
+      "title": "不是感冒！男出遊發燒竟「確診重大傷病」　醫警告：小心紫外線",
+      "published": "2026-07-12T11:42:00+00:00",
+      "summary": "不是感冒！男出遊發燒竟「確診重大傷病」 醫警告：小心紫外線&nbsp;&nbsp;ETtoday健康雲",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ac2tUSU9hT1l0WTd3OWw0SnJHenVjM2ZRQlpBQWlOdjlHcURvUzdQNG1CdGxGZUp3a0Q2TkVoQ08tTDhHanBrOHZyT0dIMUR00gFsQVVfeXFMTU1JUHV0YW9fRE9wMENQYUxtRG1ZZnBrRWl6d2ItM0hSS3NjUDVpZFZoYjQ0eHlTTkNmODdLTkhKWTdWcVVuZ0swTkpYVmZzRGl4Tm5VZ0EtMm5FQ0t0UWFmdk5tVHNoN3VMcFRQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "56c8fa47eb9b",
       "title": "不是跑步也不是爬山！研究公認最佳長壽「1運動」是它，規律走路能多活10年",
@@ -56,14 +81,14 @@
       "matched_keywords": []
     },
     {
-      "id": "73f3ecf53f1d",
-      "title": "染疫「嗅覺喪失」可復健　醫揭4氣味訓練法助神經再生",
-      "published": "2026-07-12T00:57:00+00:00",
-      "summary": "染疫「嗅覺喪失」可復健 醫揭4氣味訓練法助神經再生&nbsp;&nbsp;ETtoday健康雲聞不到味道別放棄！醫：每天3分鐘鼻子運動 找回嗅覺&nbsp;&nbsp;自由健康網擺脫嗅覺障礙，幫鼻子做復健運動！嗅覺訓練助恢復嗅覺，該怎麼做？ - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞聞不到味道別放棄 醫授每天3分鐘「嗅覺復健」助恢復&nbsp;&nbsp;自由健康網",
+      "id": "2303cdb618c9",
+      "title": "聞不到味道別放棄！醫：每天3分鐘鼻子運動 找回嗅覺",
+      "published": "2026-07-11T21:30:00+00:00",
+      "summary": "聞不到味道別放棄！醫：每天3分鐘鼻子運動 找回嗅覺&nbsp;&nbsp;自由健康網染疫「嗅覺喪失」可復健 醫揭4氣味訓練法助神經再生&nbsp;&nbsp;ETtoday健康雲擺脫嗅覺障礙，幫鼻子做復健運動！嗅覺訓練助恢復嗅覺，該怎麼做？ - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞聞不到味道別放棄 醫授每天3分鐘「嗅覺復健」助恢復&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16cmdPRW5Rd2RWTGNaQjJCOVpaUjhLaUYwcHJsU3NMNDFNamVELWZsbXQ0V3U0Z0VwM0VrNFpJbzNZajhWdlNuS0hoYm11cXhN0gFsQVVfeXFMTUpZSzVuN09zeGxjWEZ2SGpmaDk0eWtSeDMzVWRYZHF0d1M4MDAxSDZPWF9qQzdCODdVbmp0cGo3NUlPSk8yNkV3X09QWHZFcFExbXd4U3JrNndhQTVUbWx3SUtZcVd5X3JuVS00?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5ZEtjRmJpZFpzcHdGSGpSRWItS245TFBabnpNMzF6SHFiUFhHWUd6VXZnSDVTRFh2eTRjZzVlOE1uc3E4RkdaanRsUFB0U2VTRHV4TUtWbzBsWTTSAWBBVV95cUxNclFCRHF2aFlnOV9UNjBnV0J0X2I3NWRQZ0Z4RFNNOTRiYUZza0xjNmkxdE11RjFqWUlzN0RtRjZFRzM1dlBBajVBQ0oxQWd3SG9uUEFEemNHcVVya1NHQ0I?oc=5"
         }
       ],
       "matched_keywords": []
@@ -281,14 +306,14 @@
       "matched_keywords": []
     },
     {
-      "id": "011dc2d30208",
-      "title": "喜歡吃洋蔥的人天生有2大健康優勢！研究：罹糖尿病、高血壓風險較低",
+      "id": "9600055168e7",
+      "title": "喜歡吃洋蔥的人天生有2大健康優勢！研究：罹糖尿病、高血壓風險較低｜聰明飲食｜養生",
       "published": "2026-07-11T01:35:25+00:00",
-      "summary": "喜歡吃洋蔥的人天生有2大健康優勢！研究：罹糖尿病、高血壓風險較低&nbsp;&nbsp;元氣網",
+      "summary": "喜歡吃洋蔥的人天生有2大健康優勢！研究：罹糖尿病、高血壓風險較低｜聰明飲食｜養生&nbsp;&nbsp;元氣網",
       "sources": [
         {
           "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JbzVoMmtaeE15Uk40S01jdDRCSlZhZ0U4LTJVT0lJQXVLRVBfTjdfX1hhRFV1M2xtUE41UTlRY2NkS3A3Rk9iYlNOc0tpOG4xNGJNNnZTYU5UWUZo0gFiQVVfeXFMTkRjbUNCeVZ4MEZDVEdrbzRNcVZUUEttQ1RSTHpBOWYxOFctTzVTck5tYWljTVZxb2ZBZ2RYbTlzY1lBekZSVEV1YVh3ZU1qelhfUHQ3d09La1ZGTHktaHByOWc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JbzVoMmtaeE15Uk40S01jdDRCSlZhZ0U4LTJVT0lJQXVLRVBfTjdfX1hhRFV1M2xtUE41UTlRY2NkS3A3Rk9iYlNOc0tpOG4xNGJNNnZTYU5UWUZo?oc=5"
         }
       ],
       "matched_keywords": [
@@ -370,19 +395,6 @@
         {
           "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5hS2ZRSnc5dW45WmF3SnNkaXhRZmRqQ1Z1ZFJwWlloTFMwSzVSc3RKVFZPZUZtMFdPMmFiVXJGVkgxTGJ5MXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8e5e498d076d",
-      "title": "手震唔一定係柏金遜 手震10年竟然係「呢個疾病」",
-      "published": "2026-07-10T10:30:00+00:00",
-      "summary": "手震唔一定係柏金遜 手震10年竟然係「呢個疾病」&nbsp;&nbsp;AM730",
-      "sources": [
-        {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPQ3VOMjNuV1VTN0xvaEE3NG1FZVB3LVZXV3l2RXJsSk9fc0ZlVXhRbExnMDI5bHh2cVFLcU93b2ktZ0lrRHZlVmc4aTc0dUVyMElEc05CbEVoT1dpWVdBeV9UaDBTbHBIeDlVLW9TVS1rR0NmZm80XzdQVlZNNVhqeVE0d0RMaFhQckRrVFFfak1nWDhmYmRBSmt5QmlSSndaMndpZ2pYTHVEWnRZTUJsZ25pcVp3Y2s2cS1Qd19EV21leHVNUUdRVldibmNqTUlTVHhkTDR1ZDdPQzdaQm9FTUZOd0l1bjd3b2dzSVdDbWl2YlZWLUZvWm9kWDcxSGNUemJKaEhFd2RsX1JTUkk5czBUY21Mbl8ydWtPUTVjS2FlVUc1SmM0c2dEcmZwNnBwbXZrTG9PdmJ5bk1DS2VpTjE5dWt6MFV3SzRjaQ?oc=5"
         }
       ],
       "matched_keywords": []

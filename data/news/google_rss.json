@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-12T10:19:41.809090+00:00",
+  "fetched_at": "2026-07-12T11:52:55.880990+00:00",
   "count": 18,
   "news": [
+    {
+      "id": "abd15c03afc8",
+      "title": "不是感冒！男出遊發燒竟「確診重大傷病」　醫警告：小心紫外線 - ETtoday健康雲",
+      "published": "2026-07-12T11:42:00+00:00",
+      "summary": "不是感冒！男出遊發燒竟「確診重大傷病」 醫警告：小心紫外線&nbsp;&nbsp;ETtoday健康雲",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ac2tUSU9hT1l0WTd3OWw0SnJHenVjM2ZRQlpBQWlOdjlHcURvUzdQNG1CdGxGZUp3a0Q2TkVoQ08tTDhHanBrOHZyT0dIMUR00gFsQVVfeXFMTU1JUHV0YW9fRE9wMENQYUxtRG1ZZnBrRWl6d2ItM0hSS3NjUDVpZFZoYjQ0eHlTTkNmODdLTkhKWTdWcVVuZ0swTkpYVmZzRGl4Tm5VZ0EtMm5FQ0t0UWFmdk5tVHNoN3VMcFRQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "dbd60e30a278",
       "title": "男性脖子上的「青春期化石」，生物學家解密喉結真實作用 - TechNews 科技新報",
@@ -28,14 +40,14 @@
       ]
     },
     {
-      "id": "73f3ecf53f1d",
-      "title": "染疫「嗅覺喪失」可復健　醫揭4氣味訓練法助神經再生 - ETtoday健康雲",
-      "published": "2026-07-12T00:57:00+00:00",
-      "summary": "染疫「嗅覺喪失」可復健 醫揭4氣味訓練法助神經再生&nbsp;&nbsp;ETtoday健康雲聞不到味道別放棄！醫：每天3分鐘鼻子運動 找回嗅覺&nbsp;&nbsp;自由健康網擺脫嗅覺障礙，幫鼻子做復健運動！嗅覺訓練助恢復嗅覺，該怎麼做？ - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞聞不到味道別放棄 醫授每天3分鐘「嗅覺復健」助恢復&nbsp;&nbsp;自由健康網",
+      "id": "2303cdb618c9",
+      "title": "聞不到味道別放棄！醫：每天3分鐘鼻子運動 找回嗅覺 - 自由健康網",
+      "published": "2026-07-11T21:30:00+00:00",
+      "summary": "聞不到味道別放棄！醫：每天3分鐘鼻子運動 找回嗅覺&nbsp;&nbsp;自由健康網染疫「嗅覺喪失」可復健 醫揭4氣味訓練法助神經再生&nbsp;&nbsp;ETtoday健康雲擺脫嗅覺障礙，幫鼻子做復健運動！嗅覺訓練助恢復嗅覺，該怎麼做？ - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞聞不到味道別放棄 醫授每天3分鐘「嗅覺復健」助恢復&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16cmdPRW5Rd2RWTGNaQjJCOVpaUjhLaUYwcHJsU3NMNDFNamVELWZsbXQ0V3U0Z0VwM0VrNFpJbzNZajhWdlNuS0hoYm11cXhN0gFsQVVfeXFMTUpZSzVuN09zeGxjWEZ2SGpmaDk0eWtSeDMzVWRYZHF0d1M4MDAxSDZPWF9qQzdCODdVbmp0cGo3NUlPSk8yNkV3X09QWHZFcFExbXd4U3JrNndhQTVUbWx3SUtZcVd5X3JuVS00?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5ZEtjRmJpZFpzcHdGSGpSRWItS245TFBabnpNMzF6SHFiUFhHWUd6VXZnSDVTRFh2eTRjZzVlOE1uc3E4RkdaanRsUFB0U2VTRHV4TUtWbzBsWTTSAWBBVV95cUxNclFCRHF2aFlnOV9UNjBnV0J0X2I3NWRQZ0Z4RFNNOTRiYUZza0xjNmkxdE11RjFqWUlzN0RtRjZFRzM1dlBBajVBQ0oxQWd3SG9uUEFEemNHcVVya1NHQ0I?oc=5"
         }
       ]
     },
@@ -52,18 +64,6 @@
       ]
     },
     {
-      "id": "3f55e1d990a8",
-      "title": "新版心衰竭定義 增心能恢復型 - Yahoo新聞",
-      "published": "2026-07-11T20:10:00+00:00",
-      "summary": "新版心衰竭定義 增心能恢復型&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeEdYNGJvU093M2lqcTBBMmNnMHNnbUFsOWJBRDFDanVMNHdGSWFEZDVjb2lBSTUtQko2Sl9Da1BJb0owdEpncGlUckluRmg4aXU4VkpXNFZsbFpJWWtUQWU3ZHhNRnBseHp3Y3ctejd0Q3VVLVo3R01oSEVsakZ2V1RkWHpXNmhrc295YXZqdlpnVDR6TmI1czZBZ1FiUnFQM1NzV1ZUeUNhcjNpNlNyUXNKR3c0bzJ4SDhnRHl3SUtRQS1hSWgtQjVEMGN1emJsVmJWSDVuOTZ0Z21naXVtRVpLb1JrOFlEbDZPWi1lcng?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2bfa03cec67f",
       "title": "陳彥婷2歲兒子燒到昏沉「反覆急診、抽血」！查了一周才知病因　心疼發聲 - 噓！星聞",
       "published": "2026-07-11T03:50:45+00:00",
@@ -72,6 +72,18 @@
         {
           "name": "噓！星聞",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3Y0w0Um5pTHBIazctTDAtR2FLR2xIM0xJY2ptVlUzVlE2ZjV0SjctcF96blN5TWJZQVppTEJ0VXJfV203RkZNZnoyR2tiWFhuMUFOZHNSUnhLZnpiX1h0SlI2Rjk4Z1R3dzdwR1FmWFAyWDZhdTQwNHBBNNIBYEFVX3lxTE5ZNDZNaHY2LWtUa2kxd1pZNDFYUUh3bjdhcDJSNlBmYmFBWVlhUlR0YmZqNEhVRUQyWFpzN3FKQklEUTVJaUVRSVJ6RFM0OXc3TElxTGVsbDlqQ3c4V1pNcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3f55e1d990a8",
+      "title": "新版心衰竭定義 增心能恢復型 - Yahoo新聞",
+      "published": "2026-07-11T20:10:00+00:00",
+      "summary": "新版心衰竭定義 增心能恢復型&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeEdYNGJvU093M2lqcTBBMmNnMHNnbUFsOWJBRDFDanVMNHdGSWFEZDVjb2lBSTUtQko2Sl9Da1BJb0owdEpncGlUckluRmg4aXU4VkpXNFZsbFpJWWtUQWU3ZHhNRnBseHp3Y3ctejd0Q3VVLVo3R01oSEVsakZ2V1RkWHpXNmhrc295YXZqdlpnVDR6TmI1czZBZ1FiUnFQM1NzV1ZUeUNhcjNpNlNyUXNKR3c0bzJ4SDhnRHl3SUtRQS1hSWgtQjVEMGN1emJsVmJWSDVuOTZ0Z21naXVtRVpLb1JrOFlEbDZPWi1lcng?oc=5"
         }
       ]
     },
@@ -100,14 +112,14 @@
       ]
     },
     {
-      "id": "011dc2d30208",
-      "title": "喜歡吃洋蔥的人天生有2大健康優勢！研究：罹糖尿病、高血壓風險較低 - 元氣網",
+      "id": "9600055168e7",
+      "title": "喜歡吃洋蔥的人天生有2大健康優勢！研究：罹糖尿病、高血壓風險較低｜聰明飲食｜養生 - 元氣網",
       "published": "2026-07-11T01:35:25+00:00",
-      "summary": "喜歡吃洋蔥的人天生有2大健康優勢！研究：罹糖尿病、高血壓風險較低&nbsp;&nbsp;元氣網",
+      "summary": "喜歡吃洋蔥的人天生有2大健康優勢！研究：罹糖尿病、高血壓風險較低｜聰明飲食｜養生&nbsp;&nbsp;元氣網",
       "sources": [
         {
           "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JbzVoMmtaeE15Uk40S01jdDRCSlZhZ0U4LTJVT0lJQXVLRVBfTjdfX1hhRFV1M2xtUE41UTlRY2NkS3A3Rk9iYlNOc0tpOG4xNGJNNnZTYU5UWUZo0gFiQVVfeXFMTkRjbUNCeVZ4MEZDVEdrbzRNcVZUUEttQ1RSTHpBOWYxOFctTzVTck5tYWljTVZxb2ZBZ2RYbTlzY1lBekZSVEV1YVh3ZU1qelhfUHQ3d09La1ZGTHktaHByOWc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JbzVoMmtaeE15Uk40S01jdDRCSlZhZ0U4LTJVT0lJQXVLRVBfTjdfX1hhRFV1M2xtUE41UTlRY2NkS3A3Rk9iYlNOc0tpOG4xNGJNNnZTYU5UWUZo?oc=5"
         }
       ]
     },
@@ -168,18 +180,6 @@
         {
           "name": "信報網站",
           "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQXzRvS1JGUDlWamhDMXJjR3BzU0NzalVQM3Z6MWhwbU1EZGlQeURVaU9pbUlEOEUxbzMwVm1NQVdLYkR3cW0zT3piSVNVV09ZY0pkbU52T3BWYm5vYXdkMFlFWkZtNFlBcTNpNkR5LWVzeUtiNU55NjRsdEE3alllS2lxWGw0ZmpudjdQRmZkRU5kSUdEWnJsQkQzaHlJa2V6OHkzV2hkbjJxaWtWNEltZkRkUkpYOUhtRXI3amh1dUZDSklKdzRzYzFLdHFJenl0LU93V3d6YWFRMENYOXVBaHpEazNSUV9xZ3YtdzZMZ1lVVV9QOFlhVFFFTk1jQ3p1cC1WclgyQWoyYVA1MUcyQ1M4OGtad0lPMjZZM2xSWmg1UkdOTDBsa09NOE1yQ216WG9kb3lYR3pvQ0tETnVUaUt2YXdIUFRhSTd4NDk2MkFSLTlQQUI3bEdsZ0I?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8e5e498d076d",
-      "title": "手震唔一定係柏金遜 手震10年竟然係「呢個疾病」 - AM730",
-      "published": "2026-07-10T10:30:00+00:00",
-      "summary": "手震唔一定係柏金遜 手震10年竟然係「呢個疾病」&nbsp;&nbsp;AM730",
-      "sources": [
-        {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPQ3VOMjNuV1VTN0xvaEE3NG1FZVB3LVZXV3l2RXJsSk9fc0ZlVXhRbExnMDI5bHh2cVFLcU93b2ktZ0lrRHZlVmc4aTc0dUVyMElEc05CbEVoT1dpWVdBeV9UaDBTbHBIeDlVLW9TVS1rR0NmZm80XzdQVlZNNVhqeVE0d0RMaFhQckRrVFFfak1nWDhmYmRBSmt5QmlSSndaMndpZ2pYTHVEWnRZTUJsZ25pcVp3Y2s2cS1Qd19EV21leHVNUUdRVldibmNqTUlTVHhkTDR1ZDdPQzdaQm9FTUZOd0l1bjd3b2dzSVdDbWl2YlZWLUZvWm9kWDcxSGNUemJKaEhFd2RsX1JTUkk5czBUY21Mbl8ydWtPUTVjS2FlVUc1SmM0c2dEcmZwNnBwbXZrTG9PdmJ5bk1DS2VpTjE5dWt6MFV3SzRjaQ?oc=5"
         }
       ]
     },
