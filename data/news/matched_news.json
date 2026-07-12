@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-07-12T01:52:20.937369+00:00",
+  "last_updated": "2026-07-12T05:19:02.729932+00:00",
   "total_count": 23,
   "matched_count": 9,
   "news": [
+    {
+      "id": "5e8597bb8460",
+      "title": "科學家破解海葵「踩煞車」抗病毒機制，有望成人類新藥曙光 - TechNews 科技新報",
+      "published": "2026-07-12T02:34:42+00:00",
+      "summary": "科學家破解海葵「踩煞車」抗病毒機制，有望成人類新藥曙光&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oRGdVMTM5V0JHdU9lOGN0aDBwZUJMcUVyczUtUHF0Umh3Tm5Ka0d4MXVRaHFNTktVY3dkUUhTMS1xYXpsV1Z6bFl3b3dsQTdPLThuYzhmeUNqRE9CWWRaRGpsdHVBcUVaM1hoeVJvTTFjMEVP?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "73f3ecf53f1d",
       "title": "染疫「嗅覺喪失」可復健　醫揭4氣味訓練法助神經再生",
@@ -25,6 +38,19 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN2otVnQwdzZPVFROWGJDWUN4UUY3Q1Q4bjhBV2x1cWMxUWhFZjJvVS1XZDZRZU54YXdReWxaalJnNGEzdzNDU1hTbFRGbHYzU2VlMUlsTzA0ZDJmNFF3ellNSU1BaDNLOHRsd0Z1ZXhQUm5xTHltbW5TY0ltWFBIVUNYN05FWmN0NVl5N3I3MXg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "132d18c7c8f6",
+      "title": "健康網》多看綠色保護眼睛 研究：就近即可",
+      "published": "2026-07-12T00:30:00+00:00",
+      "summary": "健康網》多看綠色保護眼睛 研究：就近即可&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xUzlPeTRRUnRUQVdVeGV3dW16VGVDc1k5YnlTRmNhOXEzTmV6VzNsM3AyZGhkQjdsRjN0MGZHemJvUlBpRWxkcWhjcER1cUJOVl9YVWZzZ2dLX2VIUzVfWGpiRkXSAWpBVV95cUxNeGFIamJnYm9KdVR6OWx3MThacFZMN2xaYUsxQ05VRWpvZXdqNmloWHVXQ1pST2JrTGg0TWdpRnYxSW12UWNnbWVFcWk2c0wyN2R5cW9WWWRDd1lOUlhqZ0lySXRSVjBBR2Z3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -361,13 +387,13 @@
       "matched_keywords": []
     },
     {
-      "id": "8e5e498d076d",
+      "id": "f200abb2c0cd",
       "title": "手震唔一定係柏金遜 手震10年竟然係「呢個疾病」",
       "published": "2026-07-10T10:30:00+00:00",
-      "summary": "手震唔一定係柏金遜 手震10年竟然係「呢個疾病」&nbsp;&nbsp;AM730",
+      "summary": "手震唔一定係柏金遜 手震10年竟然係「呢個疾病」&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPQ3VOMjNuV1VTN0xvaEE3NG1FZVB3LVZXV3l2RXJsSk9fc0ZlVXhRbExnMDI5bHh2cVFLcU93b2ktZ0lrRHZlVmc4aTc0dUVyMElEc05CbEVoT1dpWVdBeV9UaDBTbHBIeDlVLW9TVS1rR0NmZm80XzdQVlZNNVhqeVE0d0RMaFhQckRrVFFfak1nWDhmYmRBSmt5QmlSSndaMndpZ2pYTHVEWnRZTUJsZ25pcVp3Y2s2cS1Qd19EV21leHVNUUdRVldibmNqTUlTVHhkTDR1ZDdPQzdaQm9FTUZOd0l1bjd3b2dzSVdDbWl2YlZWLUZvWm9kWDcxSGNUemJKaEhFd2RsX1JTUkk5czBUY21Mbl8ydWtPUTVjS2FlVUc1SmM0c2dEcmZwNnBwbXZrTG9PdmJ5bk1DS2VpTjE5dWt6MFV3SzRjaQ?oc=5"
         }
       ],
@@ -377,7 +403,7 @@
       "id": "ed2010dcd4f8",
       "title": "夜間習慣暗藏心血管危機！醫點名7大行為加速血管老化",
       "published": "2026-07-10T08:57:12+00:00",
-      "summary": "夜間習慣暗藏心血管危機！醫點名7大行為加速血管老化&nbsp;&nbsp;Yahoo新聞醫示警：晚上7點後「不做7件事」！恐傷心血管 運動也上榜&nbsp;&nbsp;Yahoo新聞小心傷血管！心臟科醫師示警：晚上7點後「這7件事」最好別做&nbsp;&nbsp;聯合新聞網心臟科醫師示警 晚上7點過後「這7件事」 絕對不做&nbsp;&nbsp;MSN7件事超傷血管心臟科醫：晚上7時後我絕不做- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "夜間習慣暗藏心血管危機！醫點名7大行為加速血管老化&nbsp;&nbsp;Yahoo新聞小心傷血管！心臟科醫師示警：晚上7點後「這7件事」最好別做&nbsp;&nbsp;聯合新聞網心臟科醫師示警 晚上7點過後「這7件事」 絕對不做&nbsp;&nbsp;MSN7件事超傷血管心臟科醫：晚上7時後我絕不做- 健康&nbsp;&nbsp;中時新聞網晚上7點後別做「這7件事」 心臟科醫師：我從不碰&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -714,32 +740,6 @@
         {
           "name": "singtao.ca",
           "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOejRKOTNfSERhcHRTclVFMmU1UXQ1UXVVcDNSNzdPYUFjaGljUzdKOVdzcmlTZmY5RnJFZW04dGhDdUJxNDI0TlhuWEI1MVpMbWdDRlpuU2ZKcUxRRlRhN3JkZmdnWXNkem1Rc1ByWG9reU1LM2MwQS0tSXpTeTFnS1RUX2g1Z2t4ZktSNTd6Q1d4N1MxTklUZnJ5R1haYURtRkNucThsdXVGd2d1Um16UVY1RXRDb2YydDNLM1VlcDM2TVpITGpvU1R6UVVVTGdSZDhvYUlLMDVqcll2dG9MM1gwOEltR2k5RWJrZnY3MF9xZlhROFVzOE5Sc3NHd3pVdi1OcS1weG1ZNGhiTEl6UWRSdTZVSkJoZ1ZYSHRIQlJCQUdlcU9kUm9SdXZTTFJ2U191VWtMSURabUhXN1VrbWF30gGKAUFVX3lxTE1lOFRYM1dlOFdmdjNieDZpbVlGdWxsT1RRZkV5SHh3Sm5ybjVHMzI2a2RMTDlGeDU0WE9jQTkwVlVoVk53RWRJM19jTjhmdGh3ZUhFX2swd3M1R1NKWjlWYy05UWJaajRrc1V6azhHV3VLTFlGdmZzMmsxYmxEcjJtYTY1aEFjSVBNQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "40d95a488925",
-      "title": "網路謠言謀害新生兒？美國父母拒讓孩子打針引致命風險| 紐時風格",
-      "published": "2026-07-10T03:00:00+00:00",
-      "summary": "網路謠言謀害新生兒？美國父母拒讓孩子打針引致命風險| 紐時風格&nbsp;&nbsp;聯合報數位版",
-      "sources": [
-        {
-          "name": "聯合報數位版",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwTVpES00wUloxZHJzU2dzZy1aV1Y5R2ZVRnR2eUQtbWlySVI5QUN5M0l2M3FIS3BqdmxFSXBXcTFjOUEzSDlrSE5lMmpyZV9rS3JBcFN5Yw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "43e0e6edcd1e",
-      "title": "想維持心臟健康 這五種飲品盡量別喝",
-      "published": "2026-07-10T01:25:03+00:00",
-      "summary": "想維持心臟健康 這五種飲品盡量別喝&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHV18tNldpcG1OcGxKOVdaWXFMV1FpN2NGSDJVbmNBekEyRWlNN2NaWVJQTW5jRjZzTWUxblRTejBPRHJkM1I4WW1GUUY2TUhiSGdiUzZUWl9DQUlBVjVCN3ZB0gFnQVVfeXFMTTl0S0s2Sll6NlNXUFdrWngwREF1MEdKMy1RQXlOVHBaZUVqRW5JclJfSS1fZUNxQ2xZV18xZm12X2hGa2FGajQ1bHE5UW0xYVFLSXg4NElYOEYzZW43YW1CQVRkVm9ZMA?oc=5"
         }
       ],
       "matched_keywords": []
