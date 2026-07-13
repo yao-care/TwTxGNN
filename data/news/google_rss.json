@@ -1,12 +1,12 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-13T19:13:03.938581+00:00",
+  "fetched_at": "2026-07-13T20:50:27.674484+00:00",
   "count": 15,
   "news": [
     {
       "id": "47356de750c6",
       "title": "英國即將展開伊波拉疫苗人體試驗 - gamereactor.cn",
-      "published": "2026-07-13T13:28:19+00:00",
+      "published": "2026-07-13T15:12:00+00:00",
       "summary": "英國即將展開伊波拉疫苗人體試驗&nbsp;&nbsp;gamereactor.cn",
       "sources": [
         {
@@ -19,7 +19,7 @@
       "id": "e305a360801e",
       "title": "「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健 - Heho健康",
       "published": "2026-07-13T09:28:23+00:00",
-      "summary": "「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健&nbsp;&nbsp;Heho健康聞不到味道別放棄！醫：每天3分鐘鼻子運動 找回嗅覺&nbsp;&nbsp;自由健康網擺脫嗅覺障礙，幫鼻子做復健運動！嗅覺訓練助恢復嗅覺，該怎麼做？ - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞染疫「嗅覺喪失」可復健 醫揭4氣味訓練法助神經再生&nbsp;&nbsp;health.ettoday.net聞不到味道別放棄 醫授每天3分鐘「嗅覺復健」助恢復&nbsp;&nbsp;自由健康網",
+      "summary": "「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健&nbsp;&nbsp;Heho健康聞不到味道別放棄！醫：每天3分鐘鼻子運動 找回嗅覺&nbsp;&nbsp;自由健康網擺脫嗅覺障礙，幫鼻子做復健運動！嗅覺訓練助恢復嗅覺，該怎麼做？ - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞染疫「嗅覺喪失」可復健 醫揭4氣味訓練法助神經再生&nbsp;&nbsp;ETtoday健康雲聞不到味道別放棄 醫授每天3分鐘「嗅覺復健」助恢復&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "Heho健康",
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "b48759b4240e",
-      "title": "記憶衰退前已有警訊 美研究揭阿茲海默症或先令執行力受損 - 自由健康網",
-      "published": "2026-07-13T05:53:00+00:00",
-      "summary": "記憶衰退前已有警訊 美研究揭阿茲海默症或先令執行力受損&nbsp;&nbsp;自由健康網阿茲海默發病前20年就現蹤?新研究：大腦「這年紀」 開始變化&nbsp;&nbsp;MSN研究曝失智症更早徵兆 大腦可能先失去「這項能力」&nbsp;&nbsp;中時新聞網阿茲海默症可能找錯病因- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網阿茲海默失智新藥開發重新啟航&nbsp;&nbsp;環球生技月刊",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KNFFVYXdxQnBLRjFPRk5WUmdObW95cFMxY09adEVaci1mYTFOX1k0SlFESDFzOXdUdEtYZS10WGs1SURnVnFTUUdVUnBWcGEyaXo5eVEwc2w0YlRsQmJfU3lVdUfSAWpBVV95cUxNYmppYms4LWhMS3VEQXBDNGpGYTdYVWp5eUVueGoycWIxbFkzRWtBTTR1MnVFeDJweVplcGFwazI3OHJfZGJiZHYwMDViQ0tya0ZYbFJ0MkFZaTNfVkl5bEw4MFlVbFY1WXJn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "82b4ad558951",
       "title": "鈣片買錯等於白吃！骨科醫曝：買鈣片前必知5件事 老人也要補鈣 - Yahoo新聞",
       "published": "2026-07-13T00:00:35+00:00",
@@ -60,6 +48,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxQemV2ZnFUTGhteHlDMzJSYks3M1pEQllTbjZQZDZheEhfSklCRkZLZVprVnZpRFFLeXhDeHZMNHVhUHFnWm9kU0JMYVBjNF9fdHBKM1R6am5SLTYxR3hoX0V1NGFiSExzNEw2TGZuR1V3dlpKdC0xc3NLdTMwa3dLbzQxRnJRQ3I3M1BLZXRqY19wNkNnUUlnMEI1TldjZGdyOXlaUklUV2NoNWdadnVwVFdrcUhvM0lDT1NzWmtWMXE2YklfUklvS3gtRmlpN3o4T2pBaV9EU1ozSWxIRlRHR0g2SUNQdklKdWc2eGwtTzZDd3pnQThoYmFqQzBRSmd1cnhQWTkxVnczUXZaVUczWkVpVzNWTEJNOXBnWWRzNGlYQmJFOVdPbGYtbjNYQmtvelYwdmZLNVhodnFqWFh2N3ZGaUxNOXBxNWFvVXRGVEFwaEs5aWRXTlYyUDBmSGZxMXhjUVBfME12UXpkWTREc1Y1LS03eHhuUm4tN0FleDFwQ3RrMTZmSWpwU0xWMGtP?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b48759b4240e",
+      "title": "記憶衰退前已有警訊 美研究揭阿茲海默症或先令執行力受損 - 自由健康網",
+      "published": "2026-07-13T05:53:00+00:00",
+      "summary": "記憶衰退前已有警訊 美研究揭阿茲海默症或先令執行力受損&nbsp;&nbsp;自由健康網阿茲海默發病前20年就現蹤?新研究：大腦「這年紀」 開始變化&nbsp;&nbsp;MSN研究曝失智症更早徵兆 大腦可能先失去「這項能力」&nbsp;&nbsp;中時新聞網阿茲海默症可能找錯病因- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網阿茲海默失智新藥開發重新啟航&nbsp;&nbsp;環球生技月刊",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KNFFVYXdxQnBLRjFPRk5WUmdObW95cFMxY09adEVaci1mYTFOX1k0SlFESDFzOXdUdEtYZS10WGs1SURnVnFTUUdVUnBWcGEyaXo5eVEwc2w0YlRsQmJfU3lVdUfSAWpBVV95cUxNYmppYms4LWhMS3VEQXBDNGpGYTdYVWp5eUVueGoycWIxbFkzRWtBTTR1MnVFeDJweVplcGFwazI3OHJfZGJiZHYwMDViQ0tya0ZYbFJ0MkFZaTNfVkl5bEw4MFlVbFY1WXJn?oc=5"
         }
       ]
     },
@@ -124,14 +124,14 @@
       ]
     },
     {
-      "id": "d2a22aebf2a3",
-      "title": "新版心衰竭定義 增心能恢復型 - 中時新聞網",
-      "published": "2026-07-12T00:15:39+00:00",
-      "summary": "新版心衰竭定義 增心能恢復型&nbsp;&nbsp;中時新聞網",
+      "id": "3f55e1d990a8",
+      "title": "新版心衰竭定義 增心能恢復型 - Yahoo新聞",
+      "published": "2026-07-11T20:10:00+00:00",
+      "summary": "新版心衰竭定義 增心能恢復型&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ydUp2NHg5SndkZU1pSlFmb09XMEpMVloxNGZQVE9IbmdTdmtWVEt4a3RZWDZCZEd5S0Q1eUdlZkZ6VTFNOVlwa2pvcmJ1elhjTGkxU05PWnY1MlFWS1VGTkhOWnlxMjBrdUMw?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeEdYNGJvU093M2lqcTBBMmNnMHNnbUFsOWJBRDFDanVMNHdGSWFEZDVjb2lBSTUtQko2Sl9Da1BJb0owdEpncGlUckluRmg4aXU4VkpXNFZsbFpJWWtUQWU3ZHhNRnBseHp3Y3ctejd0Q3VVLVo3R01oSEVsakZ2V1RkWHpXNmhrc295YXZqdlpnVDR6TmI1czZBZ1FiUnFQM1NzV1ZUeUNhcjNpNlNyUXNKR3c0bzJ4SDhnRHl3SUtRQS1hSWgtQjVEMGN1emJsVmJWSDVuOTZ0Z21naXVtRVpLb1JrOFlEbDZPWi1lcng?oc=5"
         }
       ]
     },
