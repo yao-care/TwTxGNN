@@ -1,14 +1,86 @@
 {
-  "generated": "2026-07-12T23:43:28.529226+00:00",
+  "generated": "2026-07-13T01:54:54.991649+00:00",
   "count": 6,
   "news": [
     {
-      "id": "912baa356e37",
+      "id": "08551f9abfed",
+      "title": "糖尿病、心臟病4大慢性病是共通元凶 醫曝2招有助改善",
+      "published": "2026-07-13T01:32:09+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxORXlDZ3c4Q3d3WWhBWHM3QmI3dzJBbEE0c3B1ME8yQmdaS3ZuSmp0WnpJbGxrTEc5QXdTb2FlRDFSdWMwQVY4N0ZNTEcwREY4bmcxOV9rR0sybXFCQ3pRZ3M1UV9DU293NXdySi1fZlZkV2FxTHBLSE5DaTFKWVU1anREUU1ZbVZpT3JQVHhzVG1PaVR3aG1vRlVteER1cHFBX2dhZGFrV2dkc1Z5TkJjWTJua1VXNDZEa2RnaG1TT1lMODZPaVZFUnU5blBibEZ5VlZYVVNpMGNsUW9sdEtJZXBqdkVQeVVCd2FCZ09sV3Y5QXlRY0l5TUQzSzg0ZnpQVE53Q2p0bzdteGYzeEhXZko1UkNnTWVsOTVJUkhhQ1ZyTTR4bEk3ZDhIdXBhQ2taV0xQVzZzdENUbGpfNGxVVzJ0SHVydDN1RndCd0kzalUtZTBGSEhIbjhqdFRZWGlD?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ed955207e3a7",
       "title": "午休小睡變越睡越攰 營養師揭超過30 分鐘恐增心血管負擔",
       "published": "2026-07-12T23:00:49+00:00",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPVU91dXc2Y1RDYnA5REdtclZMazBoU2ZvWmhTUEFseC1OVmxmaER2WVY2b2RUcnJKNUVDTzQ2bEU4RUwwem41enZmajZnTGdpQUJvTUhsSGxLS0NpOGkyblpMaGlRbExvOTZiaWdKS0xkTHpFUlhTZDdOSXE5NU9wT1V3QmpKOGZHZUc0dDdmcGR1aEZYY1Itd2QyeHhpN0RvTFpUVFdRbnhxdHVkMS1kdjBfNTVNNUIxTjhLSC1lcTFkZVd1NFFLZHoyaHhldExHbUlxWHNDd1lGN3BqbjhsZWQyY2tLVk1UZU9yQlJlbUZRY1BfaXcycHd6bFVvcHNjT1lVS0h2UVFTM3hNUWJUdlhJMGdlZ2w2MGJWZ0hodHpUaDVOUE9oaTUwRjJ6eGpyMGhKWkNWWGlqQV9XRFAyOUJwUllFQVNhVk9taUpDOW4yelJNVy1SU3VzSl9MMzhSV1NVcUhn?oc=5"
         }
       ],
@@ -21,30 +93,6 @@
             {
               "slug": "isosorbide_dinitrate",
               "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "abd15c03afc8",
-      "title": "不是感冒！男出遊發燒竟「確診重大傷病」　醫警告：小心紫外線",
-      "published": "2026-07-12T11:42:00+00:00",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ac2tUSU9hT1l0WTd3OWw0SnJHenVjM2ZRQlpBQWlOdjlHcURvUzdQNG1CdGxGZUp3a0Q2TkVoQ08tTDhHanBrOHZyT0dIMUR00gFsQVVfeXFMTU1JUHV0YW9fRE9wMENQYUxtRG1ZZnBrRWl6d2ItM0hSS3NjUDVpZFZoYjQ0eHlTTkNmODdLTkhKWTdWcVVuZ0swTkpYVmZzRGl4Tm5VZ0EtMm5FQ0t0UWFmdk5tVHNoN3VMcFRQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }

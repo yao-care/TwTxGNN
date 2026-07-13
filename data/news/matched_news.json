@@ -1,16 +1,102 @@
 {
-  "last_updated": "2026-07-12T23:43:28.498516+00:00",
-  "total_count": 19,
+  "last_updated": "2026-07-13T01:54:54.961771+00:00",
+  "total_count": 18,
   "matched_count": 6,
   "news": [
     {
-      "id": "912baa356e37",
-      "title": "午休小睡變越睡越攰 營養師揭超過30 分鐘恐增心血管負擔",
-      "published": "2026-07-12T23:00:49+00:00",
-      "summary": "午休小睡變越睡越攰 營養師揭超過30 分鐘恐增心血管負擔&nbsp;&nbsp;巴士的報",
+      "id": "08551f9abfed",
+      "title": "糖尿病、心臟病4大慢性病是共通元凶 醫曝2招有助改善",
+      "published": "2026-07-13T01:32:09+00:00",
+      "summary": "糖尿病、心臟病4大慢性病是共通元凶 醫曝2招有助改善&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxORXlDZ3c4Q3d3WWhBWHM3QmI3dzJBbEE0c3B1ME8yQmdaS3ZuSmp0WnpJbGxrTEc5QXdTb2FlRDFSdWMwQVY4N0ZNTEcwREY4bmcxOV9rR0sybXFCQ3pRZ3M1UV9DU293NXdySi1fZlZkV2FxTHBLSE5DaTFKWVU1anREUU1ZbVZpT3JQVHhzVG1PaVR3aG1vRlVteER1cHFBX2dhZGFrV2dkc1Z5TkJjWTJua1VXNDZEa2RnaG1TT1lMODZPaVZFUnU5blBibEZ5VlZYVVNpMGNsUW9sdEtJZXBqdkVQeVVCd2FCZ09sV3Y5QXlRY0l5TUQzSzg0ZnpQVE53Q2p0bzdteGYzeEhXZko1UkNnTWVsOTVJUkhhQ1ZyTTR4bEk3ZDhIdXBhQ2taV0xQVzZzdENUbGpfNGxVVzJ0SHVydDN1RndCd0kzalUtZTBGSEhIbjhqdFRZWGlD?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7e1f4e64ab4e",
+      "title": "健康網》筋膜槍按摩眼球 危險！醫：傷害甚鉅",
+      "published": "2026-07-13T01:12:00+00:00",
+      "summary": "健康網》筋膜槍按摩眼球 危險！醫：傷害甚鉅&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvamtGbjJucnNoeXNiWFB4WWFjcmc3X2NWVlpYc2h0aTNRTkdoR0YxRWVHOW1TV1VZTWZrcTR6ajNIczVVekRPaWJ0dE0yaGFqUlNnR1pLR3RSNG5UVDZaazlORDjSAWpBVV95cUxPNWZrN05PbUhvdW8zTnZKVXZfbFVIOHRWaXBLUEdaTE1TdDFnTWFQMGpLM2UwTGFoaFM4a1MyTDVnQ1BhRi1tOW41WmRldXJmVDJJUGV6bE91R3d6VnQxU0N3cXY3VlRfOVV3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ed955207e3a7",
+      "title": "午休小睡變越睡越攰 營養師揭超過30 分鐘恐增心血管負擔",
+      "published": "2026-07-12T23:00:49+00:00",
+      "summary": "午休小睡變越睡越攰 營養師揭超過30 分鐘恐增心血管負擔&nbsp;&nbsp;bastillepost.com",
+      "sources": [
+        {
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPVU91dXc2Y1RDYnA5REdtclZMazBoU2ZvWmhTUEFseC1OVmxmaER2WVY2b2RUcnJKNUVDTzQ2bEU4RUwwem41enZmajZnTGdpQUJvTUhsSGxLS0NpOGkyblpMaGlRbExvOTZiaWdKS0xkTHpFUlhTZDdOSXE5NU9wT1V3QmpKOGZHZUc0dDdmcGR1aEZYY1Itd2QyeHhpN0RvTFpUVFdRbnhxdHVkMS1kdjBfNTVNNUIxTjhLSC1lcTFkZVd1NFFLZHoyaHhldExHbUlxWHNDd1lGN3BqbjhsZWQyY2tLVk1UZU9yQlJlbUZRY1BfaXcycHd6bFVvcHNjT1lVS0h2UVFTM3hNUWJUdlhJMGdlZ2w2MGJWZ0hodHpUaDVOUE9oaTUwRjJ6eGpyMGhKWkNWWGlqQV9XRFAyOUJwUllFQVNhVk9taUpDOW4yelJNVy1SU3VzSl9MMzhSV1NVcUhn?oc=5"
         }
       ],
@@ -42,42 +128,17 @@
       "matched_keywords": []
     },
     {
-      "id": "06ab940bf199",
+      "id": "98f43ef131d5",
       "title": "美研究：同樣40歲、年輕世代身體更老？！",
       "published": "2026-07-12T12:10:00+00:00",
       "summary": "美研究：同樣40歲、年輕世代身體更老？！&nbsp;&nbsp;壹蘋新聞網",
       "sources": [
         {
           "name": "壹蘋新聞網",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pcXlBVVhoYzR1U0VwTXQyaU5wNEdzTDdVdFJxS3duTWgyWTVUOUpqZktucUxWdVI1Y3VLamh3alBWQ1MtZHhuNXU1cFZ1SnRZOExjWTRDTGJvLWhvQUFrZXZxWFVrRzFMWjE5M1BhVHZRbVNkZUUyaWdlZE00QQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMTdWWlRqQmFMRTJCdVdwYm9vdTFGRmo5TVV2Wk9BUGtYaGlsQmJYR2NwcWxXNWZIR3VMbzB2TGcxbTVudl80UHBoNUhlMXI2WkFzTzRLTGZtYVVpVFZVZGg0N2Rtem5QTHQwSTBDT3owQ3RaUk9ObzEwR3E1ZkZXaFhIRW1FWGdpRFE?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "abd15c03afc8",
-      "title": "不是感冒！男出遊發燒竟「確診重大傷病」　醫警告：小心紫外線",
-      "published": "2026-07-12T11:42:00+00:00",
-      "summary": "不是感冒！男出遊發燒竟「確診重大傷病」 醫警告：小心紫外線&nbsp;&nbsp;ETtoday健康雲",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ac2tUSU9hT1l0WTd3OWw0SnJHenVjM2ZRQlpBQWlOdjlHcURvUzdQNG1CdGxGZUp3a0Q2TkVoQ08tTDhHanBrOHZyT0dIMUR00gFsQVVfeXFMTU1JUHV0YW9fRE9wMENQYUxtRG1ZZnBrRWl6d2ItM0hSS3NjUDVpZFZoYjQ0eHlTTkNmODdLTkhKWTdWcVVuZ0swTkpYVmZzRGl4Tm5VZ0EtMm5FQ0t0UWFmdk5tVHNoN3VMcFRQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "56c8fa47eb9b",
@@ -397,32 +458,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "d304ded9d832",
-      "title": "卑詩將為精神疾病非自願治療設施增設132張床位| 事事如意生活網站",
-      "published": "2026-07-11T00:43:27+00:00",
-      "summary": "卑詩將為精神疾病非自願治療設施增設132張床位| 事事如意生活網站&nbsp;&nbsp;CCUE.ca",
-      "sources": [
-        {
-          "name": "CCUE.ca",
-          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPVGh6V19DMk5YY2R1UzRmbk9EUW54MFNBQ1pFZ3lnR0ZsNDczVWVGSW5tWl84LVhrdDRiZlNoU0xqVXpkV3c0VzhBNklIWU9VSmNhQVFqQ2RvX3dkTElNUTR3eDg2WTJ5QmpIR2U4OW9NM3lpSGw5Z0pHeTZOeHV0d1NqOG1lTjVyVUtjSVEzY3BEYXVLcjByeFBHbEsxTm9rRGR4ZUpuSDJqMDEtNGI0UHZVNElTWFh1SkZvSnpWb1NSN0RZcEpmU2xxQzFqVUF5TEpCQjNTMTlEdUxobkdja2hJTWppYTVmbThvWkRKam1sVGJzTDRTd3o3bjNwajU5aXJ5d2kzTnNxbnV4Tzg5Ym5NV3ZmU1BtaHFEcllEZUY5X3FiNDBxZ0xjNTRTT05WV1lfN0g2QTNhYWlYWTktSWFHbnMtZXJQYnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "917c1f78b467",
-      "title": "江飛宇Science》薄荷不只讓貓瘋狂還能成為媲美DEET的新一代驅蚊劑- 國際",
-      "published": "2026-07-10T23:40:30+00:00",
-      "summary": "江飛宇Science》薄荷不只讓貓瘋狂還能成為媲美DEET的新一代驅蚊劑- 國際&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42elM2OVh3VGJsWHFlVG44ajVtUnNkbjZyVkNfSE1ScmxyVTZhcmxQMkxrV1ZJeE10S3ZzRWRDV1g1Y3ptLVQ1a0pmUW9GN2JDSXE4UDFQSnlqbTdaR2xnMWJwcTNMY3htcE51a3Bn?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
