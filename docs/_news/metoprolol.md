@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,13 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [糖尿病、心臟病4大慢性病是共通元凶 醫曝2招有助改善](https://news.google.com/rss/articles/CBMi4AJBVV95cUxORXlDZ3c4Q3d3WWhBWHM3QmI3dzJBbEE0c3B1ME8yQmdaS3ZuSmp0WnpJbGxrTEc5QXdTb2FlRDFSdWMwQVY4N0ZNTEcwREY4bmcxOV9rR0sybXFCQ3pRZ3M1UV9DU293NXdySi1fZlZkV2FxTHBLSE5DaTFKWVU1anREUU1ZbVZpT3JQVHhzVG1PaVR3aG1vRlVteER1cHFBX2dhZGFrV2dkc1Z5TkJjWTJua1VXNDZEa2RnaG1TT1lMODZPaVZFUnU5blBibEZ5VlZYVVNpMGNsUW9sdEtJZXBqdkVQeVVCd2FCZ09sV3Y5QXlRY0l5TUQzSzg0ZnpQVE53Q2p0bzdteGYzeEhXZko1UkNnTWVsOTVJUkhhQ1ZyTTR4bEk3ZDhIdXBhQ2taV0xQVzZzdENUbGpfNGxVVzJ0SHVydDN1RndCd0kzalUtZTBGSEhIbjhqdFRZWGlD?oc=5)
-
-2026-07-13 <span class="news-indication-tag">心臟病</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi4AJBVV95cUxORXlDZ3c4Q3d3WWhBWHM3QmI3dzJBbEE0c3B1ME8yQmdaS3ZuSmp0WnpJbGxrTEc5QXdTb2FlRDFSdWMwQVY4N0ZNTEcwREY4bmcxOV9rR0sybXFCQ3pRZ3M1UV9DU293NXdySi1fZlZkV2FxTHBLSE5DaTFKWVU1anREUU1ZbVZpT3JQVHhzVG1PaVR3aG1vRlVteER1cHFBX2dhZGFrV2dkc1Z5TkJjWTJua1VXNDZEa2RnaG1TT1lMODZPaVZFUnU5blBibEZ5VlZYVVNpMGNsUW9sdEtJZXBqdkVQeVVCd2FCZ09sV3Y5QXlRY0l5TUQzSzg0ZnpQVE53Q2p0bzdteGYzeEhXZko1UkNnTWVsOTVJUkhhQ1ZyTTR4bEk3ZDhIdXBhQ2taV0xQVzZzdENUbGpfNGxVVzJ0SHVydDN1RndCd0kzalUtZTBGSEhIbjhqdFRZWGlD?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [別怕荷爾蒙，妳抗衰防病的關鍵》怕乳癌卻輕忽心臟病？奪走女性性命的頭號殺手，死亡人數竟是乳癌的6倍 - 墨新聞-MORE News](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVeVpOZnFlcWZLZlloQ3doblhEZEtaZGszYTBrRW13NDJmOE9TeWxSLVJQNmdTaXZ1TnUwQU8tcWZxUQ?oc=5)
 
 2026-07-11 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">乳癌</span>
 
 來源：[墨新聞-MORE News](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVeVpOZnFlcWZLZlloQ3doblhEZEtaZGszYTBrRW13NDJmOE9TeWxSLVJQNmdTaXZ1TnUwQU8tcWZxUQ?oc=5)
-
----
-
-### [喜歡吃洋蔥的人天生有2大健康優勢！研究：罹糖尿病、高血壓風險較低](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JbzVoMmtaeE15Uk40S01jdDRCSlZhZ0U4LTJVT0lJQXVLRVBfTjdfX1hhRFV1M2xtUE41UTlRY2NkS3A3Rk9iYlNOc0tpOG4xNGJNNnZTYU5UWUZo0gFiQVVfeXFMTkRjbUNCeVZ4MEZDVEdrbzRNcVZUUEttQ1RSTHpBOWYxOFctTzVTck5tYWljTVZxb2ZBZ2RYbTlzY1lBekZSVEV1YVh3ZU1qelhfUHQ3d09La1ZGTHktaHByOWc?oc=5)
-
-2026-07-11 <span class="news-indication-tag">高血壓</span>
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JbzVoMmtaeE15Uk40S01jdDRCSlZhZ0U4LTJVT0lJQXVLRVBfTjdfX1hhRFV1M2xtUE41UTlRY2NkS3A3Rk9iYlNOc0tpOG4xNGJNNnZTYU5UWUZo0gFiQVVfeXFMTkRjbUNCeVZ4MEZDVEdrbzRNcVZUUEttQ1RSTHpBOWYxOFctTzVTck5tYWljTVZxb2ZBZ2RYbTlzY1lBekZSVEV1YVh3ZU1qelhfUHQ3d09La1ZGTHktaHByOWc?oc=5)
 
 ---
 

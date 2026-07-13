@@ -1,80 +1,20 @@
 {
-  "last_updated": "2026-07-13T01:54:54.961771+00:00",
-  "total_count": 18,
-  "matched_count": 6,
+  "last_updated": "2026-07-13T05:28:43.424082+00:00",
+  "total_count": 14,
+  "matched_count": 3,
   "news": [
     {
-      "id": "08551f9abfed",
-      "title": "糖尿病、心臟病4大慢性病是共通元凶 醫曝2招有助改善",
-      "published": "2026-07-13T01:32:09+00:00",
-      "summary": "糖尿病、心臟病4大慢性病是共通元凶 醫曝2招有助改善&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "8fec8b5847d1",
+      "title": "2歲仔反覆發燒抽血/驗尿查不出病因媽媽發現兒子刷牙流血終確診皰疹性齒齦口腔炎| 生活熱話",
+      "published": "2026-07-13T04:32:36+00:00",
+      "summary": "2歲仔反覆發燒抽血/驗尿查不出病因媽媽發現兒子刷牙流血終確診皰疹性齒齦口腔炎| 生活熱話&nbsp;&nbsp;Oh!爸媽陳彥婷2歲兒子燒到昏沉「反覆急診、抽血」！查了一周才知病因 心疼發聲&nbsp;&nbsp;噓！星聞陳彥婷2歲兒反覆高燒找不到病因！ 「刷牙發現流血」花一周查症狀 | ETtoday星光雲&nbsp;&nbsp;LINE TODAY陳彥婷2歲兒反覆高燒找不到病因！ 「刷牙發現流血」花一周查症狀- 股市爆料同學會&nbsp;&nbsp;CMoney彥婷兒高燒查一週證實罹這病 心疼發聲了&nbsp;&nbsp;鏡週刊Mirror Media",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxORXlDZ3c4Q3d3WWhBWHM3QmI3dzJBbEE0c3B1ME8yQmdaS3ZuSmp0WnpJbGxrTEc5QXdTb2FlRDFSdWMwQVY4N0ZNTEcwREY4bmcxOV9rR0sybXFCQ3pRZ3M1UV9DU293NXdySi1fZlZkV2FxTHBLSE5DaTFKWVU1anREUU1ZbVZpT3JQVHhzVG1PaVR3aG1vRlVteER1cHFBX2dhZGFrV2dkc1Z5TkJjWTJua1VXNDZEa2RnaG1TT1lMODZPaVZFUnU5blBibEZ5VlZYVVNpMGNsUW9sdEtJZXBqdkVQeVVCd2FCZ09sV3Y5QXlRY0l5TUQzSzg0ZnpQVE53Q2p0bzdteGYzeEhXZko1UkNnTWVsOTVJUkhhQ1ZyTTR4bEk3ZDhIdXBhQ2taV0xQVzZzdENUbGpfNGxVVzJ0SHVydDN1RndCd0kzalUtZTBGSEhIbjhqdFRZWGlD?oc=5"
+          "name": "Oh!爸媽",
+          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPSHFqZUJ6dUh4RlFIWlkxeUlDZzQxaHZEdnNndzMtNm5fa3EzMkljODF0bXE1Z2hlc2RfaENUdjFFVHN1MjBTaGdvU2J0MGxhNU5ublBLY3hFb0Y0cFpGYUs5X29zZzRWSUFfSEpSaFExeWxQbWwwQ1g2a1otdlVRc3lLekdubjdSVUFDX3pQTkp5SUJwTjVXWTQwc1RFYmNIU1dwd1hfV0NMWjdLSE9TRFdXV0hFcG9EN29ITzNVRU9QdUVtTmM0NmxEemhlTUJubDRvWE40aTM0WXJqeWlzeFA1YldTSTNtZGFmNmtUUDREZnFNSkFWc0pjM0E0VmFYQlpBaExzTnFPeU45aDFIQksxbnFfZVhIR0VDMlJJVGtfRl9rdnFaUmhfTUNpa01faG1tbnEyRHBXSUd1UTlMdzZxX2hZMnRDT3JOLUtqbGtWMWJid0pPQ3NkVFVDZ0MybzdfWFNjMFdlWWVnNDZnNG1TdEJESXUyTEtWZG1XVUQ3NEhQSEw1dkdLU0tocndfejJ2MWd3M3BfVUI4cmx3Q2NsX1lrSUgxQUpZ?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "7e1f4e64ab4e",
@@ -115,19 +55,6 @@
       ]
     },
     {
-      "id": "a882390e854e",
-      "title": "男性脖子上的「青春期化石」，生物學家解密喉結真實作用 | 科技新報 - LINE TODAY",
-      "published": "2026-07-12T14:45:16+00:00",
-      "summary": "男性脖子上的「青春期化石」，生物學家解密喉結真實作用 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RTFVLTVk0S3liREVFVTJIQ0FrTEVUMmJTRjhPQ0xpQzdzd2g1MFJvV015VWVLNFRLaU1pSUlhcDJEQThRRW5ieFIyNWROdl9yVGxzMG9n?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "98f43ef131d5",
       "title": "美研究：同樣40歲、年輕世代身體更老？！",
       "published": "2026-07-12T12:10:00+00:00",
@@ -154,14 +81,14 @@
       "matched_keywords": []
     },
     {
-      "id": "5e8597bb8460",
-      "title": "科學家破解海葵「踩煞車」抗病毒機制，有望成人類新藥曙光 - TechNews 科技新報",
-      "published": "2026-07-12T02:34:42+00:00",
-      "summary": "科學家破解海葵「踩煞車」抗病毒機制，有望成人類新藥曙光&nbsp;&nbsp;TechNews 科技新報",
+      "id": "dbd60e30a278",
+      "title": "男性脖子上的「青春期化石」，生物學家解密喉結真實作用 - TechNews 科技新報",
+      "published": "2026-07-12T06:37:08+00:00",
+      "summary": "男性脖子上的「青春期化石」，生物學家解密喉結真實作用&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
           "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oRGdVMTM5V0JHdU9lOGN0aDBwZUJMcUVyczUtUHF0Umh3Tm5Ka0d4MXVRaHFNTktVY3dkUUhTMS1xYXpsV1Z6bFl3b3dsQTdPLThuYzhmeUNqRE9CWWRaRGpsdHVBcUVaM1hoeVJvTTFjMEVP?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pVUtrY2ZLQzk1TlBNdGtCeEh4VWlsZzVoM2NVQnh3NWg4OFNiZFYyaWJvVE53bzJyS19udDhqZm9QMzQ2Ynhub0J0Q0pRX2VoanFfOWhvS2pOcWFiVV9ubHlLSHdxMEYzWWtJ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -180,6 +107,19 @@
       "matched_keywords": []
     },
     {
+      "id": "e7a93f14ae8f",
+      "title": "AI 是不發脾氣的完美家教！11 歲男童靠 Copilot 克服讀寫障礙自製遊戲 | 科技新報 - LINE TODAY",
+      "published": "2026-07-12T01:00:14+00:00",
+      "summary": "AI 是不發脾氣的完美家教！11 歲男童靠 Copilot 克服讀寫障礙自製遊戲 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wNDc4MDF2RnlZa09ydWVpY05FREl4NUROUmY5cUQtbDE1V0x0U1dPS19aQUlmM1hhTkhFRFg1SlMxUG1rWVU5dVpqdDc0ZFJWZ0FPejdR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "73f3ecf53f1d",
       "title": "染疫「嗅覺喪失」可復健　醫揭4氣味訓練法助神經再生",
       "published": "2026-07-12T00:57:00+00:00",
@@ -188,19 +128,6 @@
         {
           "name": "ETtoday健康雲",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16cmdPRW5Rd2RWTGNaQjJCOVpaUjhLaUYwcHJsU3NMNDFNamVELWZsbXQ0V3U0Z0VwM0VrNFpJbzNZajhWdlNuS0hoYm11cXhN0gFsQVVfeXFMTUpZSzVuN09zeGxjWEZ2SGpmaDk0eWtSeDMzVWRYZHF0d1M4MDAxSDZPWF9qQzdCODdVbmp0cGo3NUlPSk8yNkV3X09QWHZFcFExbXd4U3JrNndhQTVUbWx3SUtZcVd5X3JuVS00?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "700d51f0d0d0",
-      "title": "AI 是不發脾氣的完美家教！11 歲男童靠 Copilot 克服讀寫障礙自製遊戲 - TechNews 科技新報",
-      "published": "2026-07-12T00:31:59+00:00",
-      "summary": "AI 是不發脾氣的完美家教！11 歲男童靠 Copilot 克服讀寫障礙自製遊戲&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN2otVnQwdzZPVFROWGJDWUN4UUY3Q1Q4bjhBV2x1cWMxUWhFZjJvVS1XZDZRZU54YXdReWxaalJnNGEzdzNDU1hTbFRGbHYzU2VlMUlsTzA0ZDJmNFF3ellNSU1BaDNLOHRsd0Z1ZXhQUm5xTHltbW5TY0ltWFBIVUNYN05FWmN0NVl5N3I3MXg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -376,84 +303,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f17f52f2117a",
-      "title": "研究曝失智症更早徵兆 大腦可能先失去「這項能力」",
-      "published": "2026-07-11T03:55:21+00:00",
-      "summary": "研究曝失智症更早徵兆 大腦可能先失去「這項能力」&nbsp;&nbsp;中時新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2cElHdHNkY0Q5YzlIemwzbmx2a1Q3QzJIQ1dFYktjOHhfbXpPQ2hrR0tiZC1CN3ExNEVrdUxxZnpuUWtWdVdURG91NVpKWmdaOTZjdE40dE15MW5lRVZVN3ljd3pNTHJBalBVMUxR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2bfa03cec67f",
-      "title": "陳彥婷2歲兒子燒到昏沉「反覆急診、抽血」！查了一周才知病因　心疼發聲",
-      "published": "2026-07-11T03:50:45+00:00",
-      "summary": "陳彥婷2歲兒子燒到昏沉「反覆急診、抽血」！查了一周才知病因 心疼發聲&nbsp;&nbsp;噓！星聞",
-      "sources": [
-        {
-          "name": "噓！星聞",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3Y0w0Um5pTHBIazctTDAtR2FLR2xIM0xJY2ptVlUzVlE2ZjV0SjctcF96blN5TWJZQVppTEJ0VXJfV203RkZNZnoyR2tiWFhuMUFOZHNSUnhLZnpiX1h0SlI2Rjk4Z1R3dzdwR1FmWFAyWDZhdTQwNHBBNNIBYEFVX3lxTE5ZNDZNaHY2LWtUa2kxd1pZNDFYUUh3bjdhcDJSNlBmYmFBWVlhUlR0YmZqNEhVRUQyWFpzN3FKQklEUTVJaUVRSVJ6RFM0OXc3TElxTGVsbDlqQ3c4V1pNcw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "011dc2d30208",
-      "title": "喜歡吃洋蔥的人天生有2大健康優勢！研究：罹糖尿病、高血壓風險較低",
-      "published": "2026-07-11T01:35:25+00:00",
-      "summary": "喜歡吃洋蔥的人天生有2大健康優勢！研究：罹糖尿病、高血壓風險較低&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JbzVoMmtaeE15Uk40S01jdDRCSlZhZ0U4LTJVT0lJQXVLRVBfTjdfX1hhRFV1M2xtUE41UTlRY2NkS3A3Rk9iYlNOc0tpOG4xNGJNNnZTYU5UWUZo0gFiQVVfeXFMTkRjbUNCeVZ4MEZDVEdrbzRNcVZUUEttQ1RSTHpBOWYxOFctTzVTck5tYWljTVZxb2ZBZ2RYbTlzY1lBekZSVEV1YVh3ZU1qelhfUHQ3d09La1ZGTHktaHByOWc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
             }
           ]
         }

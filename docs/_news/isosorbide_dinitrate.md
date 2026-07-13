@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [糖尿病、心臟病4大慢性病是共通元凶 醫曝2招有助改善](https://news.google.com/rss/articles/CBMi4AJBVV95cUxORXlDZ3c4Q3d3WWhBWHM3QmI3dzJBbEE0c3B1ME8yQmdaS3ZuSmp0WnpJbGxrTEc5QXdTb2FlRDFSdWMwQVY4N0ZNTEcwREY4bmcxOV9rR0sybXFCQ3pRZ3M1UV9DU293NXdySi1fZlZkV2FxTHBLSE5DaTFKWVU1anREUU1ZbVZpT3JQVHhzVG1PaVR3aG1vRlVteER1cHFBX2dhZGFrV2dkc1Z5TkJjWTJua1VXNDZEa2RnaG1TT1lMODZPaVZFUnU5blBibEZ5VlZYVVNpMGNsUW9sdEtJZXBqdkVQeVVCd2FCZ09sV3Y5QXlRY0l5TUQzSzg0ZnpQVE53Q2p0bzdteGYzeEhXZko1UkNnTWVsOTVJUkhhQ1ZyTTR4bEk3ZDhIdXBhQ2taV0xQVzZzdENUbGpfNGxVVzJ0SHVydDN1RndCd0kzalUtZTBGSEhIbjhqdFRZWGlD?oc=5)
-
-2026-07-13 <span class="news-indication-tag">心臟病</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi4AJBVV95cUxORXlDZ3c4Q3d3WWhBWHM3QmI3dzJBbEE0c3B1ME8yQmdaS3ZuSmp0WnpJbGxrTEc5QXdTb2FlRDFSdWMwQVY4N0ZNTEcwREY4bmcxOV9rR0sybXFCQ3pRZ3M1UV9DU293NXdySi1fZlZkV2FxTHBLSE5DaTFKWVU1anREUU1ZbVZpT3JQVHhzVG1PaVR3aG1vRlVteER1cHFBX2dhZGFrV2dkc1Z5TkJjWTJua1VXNDZEa2RnaG1TT1lMODZPaVZFUnU5blBibEZ5VlZYVVNpMGNsUW9sdEtJZXBqdkVQeVVCd2FCZ09sV3Y5QXlRY0l5TUQzSzg0ZnpQVE53Q2p0bzdteGYzeEhXZko1UkNnTWVsOTVJUkhhQ1ZyTTR4bEk3ZDhIdXBhQ2taV0xQVzZzdENUbGpfNGxVVzJ0SHVydDN1RndCd0kzalUtZTBGSEhIbjhqdFRZWGlD?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [午休小睡變越睡越攰 營養師揭超過30 分鐘恐增心血管負擔](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPVU91dXc2Y1RDYnA5REdtclZMazBoU2ZvWmhTUEFseC1OVmxmaER2WVY2b2RUcnJKNUVDTzQ2bEU4RUwwem41enZmajZnTGdpQUJvTUhsSGxLS0NpOGkyblpMaGlRbExvOTZiaWdKS0xkTHpFUlhTZDdOSXE5NU9wT1V3QmpKOGZHZUc0dDdmcGR1aEZYY1Itd2QyeHhpN0RvTFpUVFdRbnhxdHVkMS1kdjBfNTVNNUIxTjhLSC1lcTFkZVd1NFFLZHoyaHhldExHbUlxWHNDd1lGN3BqbjhsZWQyY2tLVk1UZU9yQlJlbUZRY1BfaXcycHd6bFVvcHNjT1lVS0h2UVFTM3hNUWJUdlhJMGdlZ2w2MGJWZ0hodHpUaDVOUE9oaTUwRjJ6eGpyMGhKWkNWWGlqQV9XRFAyOUJwUllFQVNhVk9taUpDOW4yelJNVy1SU3VzSl9MMzhSV1NVcUhn?oc=5)
 
