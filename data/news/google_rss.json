@@ -1,8 +1,32 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-13T11:52:38.017842+00:00",
-  "count": 17,
+  "fetched_at": "2026-07-13T14:08:26.269967+00:00",
+  "count": 18,
   "news": [
+    {
+      "id": "47356de750c6",
+      "title": "英國即將展開伊波拉疫苗人體試驗 - gamereactor.cn",
+      "published": "2026-07-13T13:28:19+00:00",
+      "summary": "英國即將展開伊波拉疫苗人體試驗&nbsp;&nbsp;gamereactor.cn",
+      "sources": [
+        {
+          "name": "gamereactor.cn",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONy10R0Q4eG1kaE5NUEdUTTZhclpwaHJJY2VnN3JOVG0zb19pR0YwX2JOTGFhR2xwcGRHQkFaUW4wYXVFTklCaDFhNGUtN3NrZnZqU3VicHF5RnJOaXdESHMzNDF3Ym9nd3FPek90dzBGaXlmenA2dGVjT0pDNlE3VkNjWFRnSFhnNVNRWVNUTmg2QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "239348e2ead7",
+      "title": "從RAS標靶時代的抗藥性缺口，看CX-5461的臨床價值 - yesmedia.com.tw",
+      "published": "2026-07-13T10:24:35+00:00",
+      "summary": "從RAS標靶時代的抗藥性缺口，看CX-5461的臨床價值&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQX19qUVE4anNVYW1QN0U3SGtobWk4c1ZjSTJMSTFZOGtHaE80dkZzdEZUdVRRV0dSbzdpeERISW8yM3ExcnRhUkFuY3pyWDdRcVZTNF9HeEpBUU9ZLXNlN3FQYUJSNUFsMHVPQnVnS0JkbUpaLTdzMG1UTGJfbE82N0pSMlBTWm4xb0R3MmVaUXNZMmExamx2WXMzdVlaS0x3eV9iV1QyQ2RrTmpMVTE1bmhzMVoyUTVKRWVyRDJzT0F6eGdQbGVtZzJKakxYMk5vcFRGWFJrNGNGODN6bkJXX21tb2FvcEw3ZlN0TTBXOVoxaTZiZ0RLblU5dTBZUGNEVC1XdDRuV0pDZDRlYzBVZEhFVE9vTVFySmVXcEwyU014bUFNd2U0ag?oc=5"
+        }
+      ]
+    },
     {
       "id": "7e1f4e64ab4e",
       "title": "健康網》筋膜槍按摩眼球 危險！醫：傷害甚鉅 - 自由健康網",
@@ -12,6 +36,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvamtGbjJucnNoeXNiWFB4WWFjcmc3X2NWVlpYc2h0aTNRTkdoR0YxRWVHOW1TV1VZTWZrcTR6ajNIczVVekRPaWJ0dE0yaGFqUlNnR1pLR3RSNG5UVDZaazlORDjSAWpBVV95cUxPNWZrN05PbUhvdW8zTnZKVXZfbFVIOHRWaXBLUEdaTE1TdDFnTWFQMGpLM2UwTGFoaFM4a1MyTDVnQ1BhRi1tOW41WmRldXJmVDJJUGV6bE91R3d6VnQxU0N3cXY3VlRfOVV3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e305a360801e",
+      "title": "「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健 - Heho健康",
+      "published": "2026-07-13T09:28:23+00:00",
+      "summary": "「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健&nbsp;&nbsp;Heho健康聞不到味道別放棄！醫：每天3分鐘鼻子運動 找回嗅覺&nbsp;&nbsp;自由健康網擺脫嗅覺障礙，幫鼻子做復健運動！嗅覺訓練助恢復嗅覺，該怎麼做？ - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞染疫「嗅覺喪失」可復健 醫揭4氣味訓練法助神經再生&nbsp;&nbsp;health.ettoday.net聞不到味道別放棄 醫授每天3分鐘「嗅覺復健」助恢復&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "Heho健康",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hMHlhckVlbEVkVEtmZzNSYVJzMGZsMEJFSEZLQkU5ZlExVFoyc2FZT2ppY0hqanQ0Tkx5d1ZPaVA5TklpcEFONWh6Zw?oc=5"
         }
       ]
     },
@@ -40,26 +76,14 @@
       ]
     },
     {
-      "id": "e305a360801e",
-      "title": "「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健 - Heho健康",
-      "published": "2026-07-13T09:28:23+00:00",
-      "summary": "「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健&nbsp;&nbsp;Heho健康聞不到味道別放棄！醫：每天3分鐘鼻子運動 找回嗅覺&nbsp;&nbsp;自由健康網擺脫嗅覺障礙，幫鼻子做復健運動！嗅覺訓練助恢復嗅覺，該怎麼做？ - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞染疫「嗅覺喪失」可復健 醫揭4氣味訓練法助神經再生&nbsp;&nbsp;ETtoday健康雲聞不到味道別放棄 醫授每天3分鐘「嗅覺復健」助恢復&nbsp;&nbsp;自由健康網",
+      "id": "a882390e854e",
+      "title": "男性脖子上的「青春期化石」，生物學家解密喉結真實作用 | 科技新報 - LINE TODAY",
+      "published": "2026-07-12T14:45:16+00:00",
+      "summary": "男性脖子上的「青春期化石」，生物學家解密喉結真實作用 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hMHlhckVlbEVkVEtmZzNSYVJzMGZsMEJFSEZLQkU5ZlExVFoyc2FZT2ppY0hqanQ0Tkx5d1ZPaVA5TklpcEFONWh6Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dbd60e30a278",
-      "title": "男性脖子上的「青春期化石」，生物學家解密喉結真實作用 - TechNews 科技新報",
-      "published": "2026-07-12T06:37:08+00:00",
-      "summary": "男性脖子上的「青春期化石」，生物學家解密喉結真實作用&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pVUtrY2ZLQzk1TlBNdGtCeEh4VWlsZzVoM2NVQnh3NWg4OFNiZFYyaWJvVE53bzJyS19udDhqZm9QMzQ2Ynhub0J0Q0pRX2VoanFfOWhvS2pOcWFiVV9ubHlLSHdxMEYzWWtJ?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RTFVLTVk0S3liREVFVTJIQ0FrTEVUMmJTRjhPQ0xpQzdzd2g1MFJvV015VWVLNFRLaU1pSUlhcDJEQThRRW5ieFIyNWROdl9yVGxzMG9n?oc=5"
         }
       ]
     },
@@ -76,14 +100,14 @@
       ]
     },
     {
-      "id": "98f43ef131d5",
+      "id": "c993b9182b34",
       "title": "美研究：同樣40歲、年輕世代身體更老？！ - 壹蘋新聞網",
       "published": "2026-07-12T12:10:00+00:00",
       "summary": "美研究：同樣40歲、年輕世代身體更老？！&nbsp;&nbsp;壹蘋新聞網",
       "sources": [
         {
           "name": "壹蘋新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMTdWWlRqQmFMRTJCdVdwYm9vdTFGRmo5TVV2Wk9BUGtYaGlsQmJYR2NwcWxXNWZIR3VMbzB2TGcxbTVudl80UHBoNUhlMXI2WkFzTzRLTGZtYVVpVFZVZGg0N2Rtem5QTHQwSTBDT3owQ3RaUk9ObzEwR3E1ZkZXaFhIRW1FWGdpRFE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZUxzYWNzdFZnOTA4WjVndkdfQ0N4UlVFWE1LdXFLZ3p5a2tsZEZ1ZFNDT29wb25WNmJic1FTNHpHXzBHQXpRbkl5TkpBVEFPbmtFWWxibXM1MjJhUmZIVFlyV0xCWEtCWExOak1jSmxUeG1RdUUzcnBkWkZHLUhTMA?oc=5"
         }
       ]
     },
@@ -100,14 +124,14 @@
       ]
     },
     {
-      "id": "e7a93f14ae8f",
-      "title": "AI 是不發脾氣的完美家教！11 歲男童靠 Copilot 克服讀寫障礙自製遊戲 | 科技新報 - LINE TODAY",
-      "published": "2026-07-12T01:00:14+00:00",
-      "summary": "AI 是不發脾氣的完美家教！11 歲男童靠 Copilot 克服讀寫障礙自製遊戲 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "id": "700d51f0d0d0",
+      "title": "AI 是不發脾氣的完美家教！11 歲男童靠 Copilot 克服讀寫障礙自製遊戲 - TechNews 科技新報",
+      "published": "2026-07-12T00:31:59+00:00",
+      "summary": "AI 是不發脾氣的完美家教！11 歲男童靠 Copilot 克服讀寫障礙自製遊戲&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wNDc4MDF2RnlZa09ydWVpY05FREl4NUROUmY5cUQtbDE1V0x0U1dPS19aQUlmM1hhTkhFRFg1SlMxUG1rWVU5dVpqdDc0ZFJWZ0FPejdR?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN2otVnQwdzZPVFROWGJDWUN4UUY3Q1Q4bjhBV2x1cWMxUWhFZjJvVS1XZDZRZU54YXdReWxaalJnNGEzdzNDU1hTbFRGbHYzU2VlMUlsTzA0ZDJmNFF3ellNSU1BaDNLOHRsd0Z1ZXhQUm5xTHltbW5TY0ltWFBIVUNYN05FWmN0NVl5N3I3MXg?oc=5"
         }
       ]
     },
@@ -124,18 +148,6 @@
       ]
     },
     {
-      "id": "f6830d1d77f4",
-      "title": "淋巴癌是什麼？醫解析4大原因、6大警訊，出現無痛腫塊別輕忽 - Marie Claire 美麗佳人",
-      "published": "2026-07-11T12:03:22+00:00",
-      "summary": "淋巴癌是什麼？醫解析4大原因、6大警訊，出現無痛腫塊別輕忽&nbsp;&nbsp;Marie Claire 美麗佳人",
-      "sources": [
-        {
-          "name": "Marie Claire 美麗佳人",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9taUhJYWNJOVA2ZHJLUXVqTW1UWkJlUHNQLUFWRTQybmszQU85ckhsbl9xYVdUUlFPYnYxT1ozTFV6bVpjbXN0dmE0alVmQzgtMnJWNDZXZElfMGRQWXktX1Y2WHBhbVZ3TkE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "56c8fa47eb9b",
       "title": "不是跑步也不是爬山！研究公認最佳長壽「1運動」是它，規律走路能多活10年 - ELLE",
       "published": "2026-07-12T07:00:00+00:00",
@@ -148,13 +160,13 @@
       ]
     },
     {
-      "id": "ed955207e3a7",
-      "title": "午休小睡變越睡越攰 營養師揭超過30 分鐘恐增心血管負擔 - bastillepost.com",
+      "id": "912baa356e37",
+      "title": "午休小睡變越睡越攰 營養師揭超過30 分鐘恐增心血管負擔 - 巴士的報",
       "published": "2026-07-12T23:00:49+00:00",
-      "summary": "午休小睡變越睡越攰 營養師揭超過30 分鐘恐增心血管負擔&nbsp;&nbsp;bastillepost.com",
+      "summary": "午休小睡變越睡越攰 營養師揭超過30 分鐘恐增心血管負擔&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPVU91dXc2Y1RDYnA5REdtclZMazBoU2ZvWmhTUEFseC1OVmxmaER2WVY2b2RUcnJKNUVDTzQ2bEU4RUwwem41enZmajZnTGdpQUJvTUhsSGxLS0NpOGkyblpMaGlRbExvOTZiaWdKS0xkTHpFUlhTZDdOSXE5NU9wT1V3QmpKOGZHZUc0dDdmcGR1aEZYY1Itd2QyeHhpN0RvTFpUVFdRbnhxdHVkMS1kdjBfNTVNNUIxTjhLSC1lcTFkZVd1NFFLZHoyaHhldExHbUlxWHNDd1lGN3BqbjhsZWQyY2tLVk1UZU9yQlJlbUZRY1BfaXcycHd6bFVvcHNjT1lVS0h2UVFTM3hNUWJUdlhJMGdlZ2w2MGJWZ0hodHpUaDVOUE9oaTUwRjJ6eGpyMGhKWkNWWGlqQV9XRFAyOUJwUllFQVNhVk9taUpDOW4yelJNVy1SU3VzSl9MMzhSV1NVcUhn?oc=5"
         }
       ]
