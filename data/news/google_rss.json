@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-13T14:08:26.269967+00:00",
-  "count": 18,
+  "fetched_at": "2026-07-13T17:07:22.649679+00:00",
+  "count": 17,
   "news": [
     {
       "id": "47356de750c6",
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "7e1f4e64ab4e",
-      "title": "健康網》筋膜槍按摩眼球 危險！醫：傷害甚鉅 - 自由健康網",
-      "published": "2026-07-13T01:12:00+00:00",
-      "summary": "健康網》筋膜槍按摩眼球 危險！醫：傷害甚鉅&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvamtGbjJucnNoeXNiWFB4WWFjcmc3X2NWVlpYc2h0aTNRTkdoR0YxRWVHOW1TV1VZTWZrcTR6ajNIczVVekRPaWJ0dE0yaGFqUlNnR1pLR3RSNG5UVDZaazlORDjSAWpBVV95cUxPNWZrN05PbUhvdW8zTnZKVXZfbFVIOHRWaXBLUEdaTE1TdDFnTWFQMGpLM2UwTGFoaFM4a1MyTDVnQ1BhRi1tOW41WmRldXJmVDJJUGV6bE91R3d6VnQxU0N3cXY3VlRfOVV3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e305a360801e",
       "title": "「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健 - Heho健康",
       "published": "2026-07-13T09:28:23+00:00",
@@ -48,6 +36,18 @@
         {
           "name": "Heho健康",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hMHlhckVlbEVkVEtmZzNSYVJzMGZsMEJFSEZLQkU5ZlExVFoyc2FZT2ppY0hqanQ0Tkx5d1ZPaVA5TklpcEFONWh6Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7e1f4e64ab4e",
+      "title": "健康網》筋膜槍按摩眼球 危險！醫：傷害甚鉅 - 自由健康網",
+      "published": "2026-07-13T01:12:00+00:00",
+      "summary": "健康網》筋膜槍按摩眼球 危險！醫：傷害甚鉅&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvamtGbjJucnNoeXNiWFB4WWFjcmc3X2NWVlpYc2h0aTNRTkdoR0YxRWVHOW1TV1VZTWZrcTR6ajNIczVVekRPaWJ0dE0yaGFqUlNnR1pLR3RSNG5UVDZaazlORDjSAWpBVV95cUxPNWZrN05PbUhvdW8zTnZKVXZfbFVIOHRWaXBLUEdaTE1TdDFnTWFQMGpLM2UwTGFoaFM4a1MyTDVnQ1BhRi1tOW41WmRldXJmVDJJUGV6bE91R3d6VnQxU0N3cXY3VlRfOVV3?oc=5"
         }
       ]
     },
@@ -88,18 +88,6 @@
       ]
     },
     {
-      "id": "8fec8b5847d1",
-      "title": "2歲仔反覆發燒抽血/驗尿查不出病因媽媽發現兒子刷牙流血終確診皰疹性齒齦口腔炎| 生活熱話 - Oh!爸媽",
-      "published": "2026-07-13T04:32:36+00:00",
-      "summary": "2歲仔反覆發燒抽血/驗尿查不出病因媽媽發現兒子刷牙流血終確診皰疹性齒齦口腔炎| 生活熱話&nbsp;&nbsp;Oh!爸媽陳彥婷2歲兒子燒到昏沉「反覆急診、抽血」！查了一周才知病因 心疼發聲&nbsp;&nbsp;噓！星聞陳彥婷2歲兒反覆高燒找不到病因！ 「刷牙發現流血」花一周查症狀 | ETtoday星光雲&nbsp;&nbsp;LINE TODAY陳彥婷2歲兒反覆高燒找不到病因！ 「刷牙發現流血」花一周查症狀- 股市爆料同學會&nbsp;&nbsp;CMoney彥婷兒高燒查一週證實罹這病 心疼發聲了&nbsp;&nbsp;鏡週刊Mirror Media",
-      "sources": [
-        {
-          "name": "Oh!爸媽",
-          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPSHFqZUJ6dUh4RlFIWlkxeUlDZzQxaHZEdnNndzMtNm5fa3EzMkljODF0bXE1Z2hlc2RfaENUdjFFVHN1MjBTaGdvU2J0MGxhNU5ublBLY3hFb0Y0cFpGYUs5X29zZzRWSUFfSEpSaFExeWxQbWwwQ1g2a1otdlVRc3lLekdubjdSVUFDX3pQTkp5SUJwTjVXWTQwc1RFYmNIU1dwd1hfV0NMWjdLSE9TRFdXV0hFcG9EN29ITzNVRU9QdUVtTmM0NmxEemhlTUJubDRvWE40aTM0WXJqeWlzeFA1YldTSTNtZGFmNmtUUDREZnFNSkFWc0pjM0E0VmFYQlpBaExzTnFPeU45aDFIQksxbnFfZVhIR0VDMlJJVGtfRl9rdnFaUmhfTUNpa01faG1tbnEyRHBXSUd1UTlMdzZxX2hZMnRDT3JOLUtqbGtWMWJid0pPQ3NkVFVDZ0MybzdfWFNjMFdlWWVnNDZnNG1TdEJESXUyTEtWZG1XVUQ3NEhQSEw1dkdLU0tocndfejJ2MWd3M3BfVUI4cmx3Q2NsX1lrSUgxQUpZ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c993b9182b34",
       "title": "美研究：同樣40歲、年輕世代身體更老？！ - 壹蘋新聞網",
       "published": "2026-07-12T12:10:00+00:00",
@@ -108,6 +96,18 @@
         {
           "name": "壹蘋新聞網",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZUxzYWNzdFZnOTA4WjVndkdfQ0N4UlVFWE1LdXFLZ3p5a2tsZEZ1ZFNDT29wb25WNmJic1FTNHpHXzBHQXpRbkl5TkpBVEFPbmtFWWxibXM1MjJhUmZIVFlyV0xCWEtCWExOak1jSmxUeG1RdUUzcnBkWkZHLUhTMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8fec8b5847d1",
+      "title": "2歲仔反覆發燒抽血/驗尿查不出病因媽媽發現兒子刷牙流血終確診皰疹性齒齦口腔炎| 生活熱話 - Oh!爸媽",
+      "published": "2026-07-13T04:32:36+00:00",
+      "summary": "2歲仔反覆發燒抽血/驗尿查不出病因媽媽發現兒子刷牙流血終確診皰疹性齒齦口腔炎| 生活熱話&nbsp;&nbsp;Oh!爸媽陳彥婷2歲兒子燒到昏沉「反覆急診、抽血」！查了一周才知病因 心疼發聲&nbsp;&nbsp;噓！星聞陳彥婷2歲兒反覆高燒找不到病因！ 「刷牙發現流血」花一周查症狀 | ETtoday星光雲&nbsp;&nbsp;LINE TODAY陳彥婷2歲兒反覆高燒找不到病因！ 「刷牙發現流血」花一周查症狀- 股市爆料同學會&nbsp;&nbsp;CMoney彥婷兒高燒查一週證實罹這病 心疼發聲了&nbsp;&nbsp;鏡週刊Mirror Media",
+      "sources": [
+        {
+          "name": "Oh!爸媽",
+          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPSHFqZUJ6dUh4RlFIWlkxeUlDZzQxaHZEdnNndzMtNm5fa3EzMkljODF0bXE1Z2hlc2RfaENUdjFFVHN1MjBTaGdvU2J0MGxhNU5ublBLY3hFb0Y0cFpGYUs5X29zZzRWSUFfSEpSaFExeWxQbWwwQ1g2a1otdlVRc3lLekdubjdSVUFDX3pQTkp5SUJwTjVXWTQwc1RFYmNIU1dwd1hfV0NMWjdLSE9TRFdXV0hFcG9EN29ITzNVRU9QdUVtTmM0NmxEemhlTUJubDRvWE40aTM0WXJqeWlzeFA1YldTSTNtZGFmNmtUUDREZnFNSkFWc0pjM0E0VmFYQlpBaExzTnFPeU45aDFIQksxbnFfZVhIR0VDMlJJVGtfRl9rdnFaUmhfTUNpa01faG1tbnEyRHBXSUd1UTlMdzZxX2hZMnRDT3JOLUtqbGtWMWJid0pPQ3NkVFVDZ0MybzdfWFNjMFdlWWVnNDZnNG1TdEJESXUyTEtWZG1XVUQ3NEhQSEw1dkdLU0tocndfejJ2MWd3M3BfVUI4cmx3Q2NsX1lrSUgxQUpZ?oc=5"
         }
       ]
     },
@@ -172,18 +172,6 @@
       ]
     },
     {
-      "id": "32130a264983",
-      "title": "荷蘭研究發現西尼羅病毒與烏蘇圖病毒已跨物種感染野生食肉動物 - GeneOnline News",
-      "published": "2026-07-11T18:05:08+00:00",
-      "summary": "荷蘭研究發現西尼羅病毒與烏蘇圖病毒已跨物種感染野生食肉動物&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOdHFkTWgyTXR5bDh0cVh4SENSWnY5U2RyWE9WZ1NqTmtQb2JJVkkwTHNJc1VWN3BvUk1ReUUxeFpldWZ0U1FvVnYyS2E0aXd5TnVyMU5xSHVWU0dtc2ZFWGhrUklhUmJvaDd0a09pQUdIQmFzb1RRbFd5dGN4VnFvcmZUME5KWjFuWlBnTTVoVlhYOGFfSnk1MWpGaVpBZTJOQTB6RkE5NUw0QnRfZDItQzViZkdocTFUcWQwdEJpQTRMb3NTWVNUQzMwY0V4NzBuQkhYbXlMa0Z3VDNJSzhieTdlaU81QW1SOG5vUUwybmpyblU4VXRUbGtQNjdiNmNMLWFENTNtTUVDVmxydWo2cHJ4YVZNcTU3dVlxMHFtS0pyeEctZDdoWVJKSnRTRFljLU1MSUJNTVJoZ1c3YU5Hd0JDTGNkUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "69587c6f709a",
       "title": "喉糖推薦︱消委會評測41款喉糖7成無藥效！11款獲認證可殺菌藥用喉糖名單拆解必理痛／EVE 8大成藥功效禁忌 - 香港經濟日報HKET",
       "published": "2026-07-13T09:24:28+00:00",
@@ -196,14 +184,14 @@
       ]
     },
     {
-      "id": "65a16ceeb155",
-      "title": "消暑安神袪頭痛！「天然枕」功效多欠缺保養恐長蟲| 生活 - 三立新聞",
-      "published": "2026-07-11T13:31:48+00:00",
-      "summary": "消暑安神袪頭痛！「天然枕」功效多欠缺保養恐長蟲| 生活&nbsp;&nbsp;三立新聞",
+      "id": "32130a264983",
+      "title": "荷蘭研究發現西尼羅病毒與烏蘇圖病毒已跨物種感染野生食肉動物 - GeneOnline News",
+      "published": "2026-07-11T18:05:08+00:00",
+      "summary": "荷蘭研究發現西尼羅病毒與烏蘇圖病毒已跨物種感染野生食肉動物&nbsp;&nbsp;GeneOnline News",
       "sources": [
         {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Za3lVc0Fpb1lIanNqRUJ3ekhNbWNrdHN4VGZnRVM4WTdxdW12SDc5dUVwaElqRUNneE9BNmViZ2FWcUZFZlNn?oc=5"
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOdHFkTWgyTXR5bDh0cVh4SENSWnY5U2RyWE9WZ1NqTmtQb2JJVkkwTHNJc1VWN3BvUk1ReUUxeFpldWZ0U1FvVnYyS2E0aXd5TnVyMU5xSHVWU0dtc2ZFWGhrUklhUmJvaDd0a09pQUdIQmFzb1RRbFd5dGN4VnFvcmZUME5KWjFuWlBnTTVoVlhYOGFfSnk1MWpGaVpBZTJOQTB6RkE5NUw0QnRfZDItQzViZkdocTFUcWQwdEJpQTRMb3NTWVNUQzMwY0V4NzBuQkhYbXlMa0Z3VDNJSzhieTdlaU81QW1SOG5vUUwybmpyblU4VXRUbGtQNjdiNmNMLWFENTNtTUVDVmxydWo2cHJ4YVZNcTU3dVlxMHFtS0pyeEctZDdoWVJKSnRTRFljLU1MSUJNTVJoZ1c3YU5Hd0JDTGNkUQ?oc=5"
         }
       ]
     },
