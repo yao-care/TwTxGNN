@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [研究發現，高脂飲食與腸道細菌可增強癌症免疫療法](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IRVNlQ3ZOV08wc1FxY3hSRDFudU4tclYzTm9CNTZfN25YcDJ1eHotVlJNV19SS2t0eHJ3UmpCeWNWS2ptVkpzVzdGR2VVZFgwOWc?oc=5)
+
+2026-07-14 <span class="news-indication-tag">癌症</span>
+
+來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IRVNlQ3ZOV08wc1FxY3hSRDFudU4tclYzTm9CNTZfN25YcDJ1eHotVlJNV19SS2t0eHJ3UmpCeWNWS2ptVkpzVzdGR2VVZFgwOWc?oc=5)
+
+---
 
 ### [大腸直腸癌患者福音！默克標靶藥Erbitux獲歐盟雙重批准](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Ca1BEc1lkODJSY1JwbFlUUDhQVXF3MHhtajRYTlJ4bVh5MWI5WlZmRWtZS09KWXFOQXh3MWxQeFAwakRnbTFFMFZ3eDFkMlNSMFRuT1FtZkw3ejBsNVI4OQ?oc=5)
 

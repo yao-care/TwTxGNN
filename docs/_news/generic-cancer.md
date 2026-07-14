@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,15 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [研究發現，高脂飲食與腸道細菌可增強癌症免疫療法](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IRVNlQ3ZOV08wc1FxY3hSRDFudU4tclYzTm9CNTZfN25YcDJ1eHotVlJNV19SS2t0eHJ3UmpCeWNWS2ptVkpzVzdGR2VVZFgwOWc?oc=5)
+
+2026-07-14
+
+來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IRVNlQ3ZOV08wc1FxY3hSRDFudU4tclYzTm9CNTZfN25YcDJ1eHotVlJNV19SS2t0eHJ3UmpCeWNWS2ptVkpzVzdGR2VVZFgwOWc?oc=5)
+
+---
 
 ### [蛤蜊補B12超強！這5類人最該補醫曝：數值莫名飆高恐是癌症警訊- 營養好食 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNMmkyay1ZbHZqLUgzRjJ5eGdiZGRHZEd0MUJJc2dTNzNxdl9yV24yNDg4X0VfZkYxNjlyeVhlWmJLSTQ5a0o2MWZUMlY0NzZxVEdvOWtn?oc=5)
 
