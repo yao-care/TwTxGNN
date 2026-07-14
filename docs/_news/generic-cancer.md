@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,15 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [蛤蜊補B12超強！這5類人最該補醫曝：數值莫名飆高恐是癌症警訊- 營養好食 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNMmkyay1ZbHZqLUgzRjJ5eGdiZGRHZEd0MUJJc2dTNzNxdl9yV24yNDg4X0VfZkYxNjlyeVhlWmJLSTQ5a0o2MWZUMlY0NzZxVEdvOWtn?oc=5)
+
+2026-07-14
+
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNMmkyay1ZbHZqLUgzRjJ5eGdiZGRHZEd0MUJJc2dTNzNxdl9yV24yNDg4X0VfZkYxNjlyeVhlWmJLSTQ5a0o2MWZUMlY0NzZxVEdvOWtn?oc=5)
+
+---
 
 ### [澳洲有近百萬癌症患者 40歲以下發病率上升](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mVGVBRW5VbXg5NDh3ZG5FQkNCdUNoRGNoTVJFYTlSeTN2cHlqMDFvdkhIam1GUmt3ak4xRVlwUUZqUzlVY0ZvdGEzN3B4MHltbnVLVkNtZXNpNXN4My04TdIBZkFVX3lxTE9fZURXeXdfYXlQTFZlTHN4NTcyUXl2UjFROTNPQlA0Z0NDMFhxNGlXUUJjRUtlTGFQREVBenh5WXF1YWs4cVRkWVRTTUhqQzVPOG5ES2I4SzlfZU5XMnJRT3h1QkV2Zw?oc=5)
 

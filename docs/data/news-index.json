@@ -1,15 +1,15 @@
 {
-  "generated": "2026-07-14T07:04:05.756415+00:00",
-  "count": 5,
+  "generated": "2026-07-14T09:47:50.069821+00:00",
+  "count": 6,
   "news": [
     {
-      "id": "e290eed7ea6c",
-      "title": "防失智有「黃金步數」 飯後走還穩血糖- 健康",
-      "published": "2026-07-14T06:22:30+00:00",
+      "id": "08c231d85f70",
+      "title": "健康網》睡覺幫大腦清垃圾還不夠！醫曝每天這步數 延緩腦退化逾3年",
+      "published": "2026-07-14T08:33:00+00:00",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wcURPTWw2c3RfdWFVQUpwaUlEWHhpemV6SlVHLXU0MmhWRDlnWlNDRjVKb0l2X1BDdmx1WXRzbk43cXQyZWpVRi03ZXFoWktDMXJiR1RuRDVDOEdxNXVGdU1Ga1RmY1hIT3VvV3VR?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SWGR5X05CNlo0VXFNemlnQWdOMnhiZ2h6N3Z2QlVCN19qb2F1Q3gwVkdRQ1JHc3RtOXY5MkpMdFJwY1YtVDhTc19xVDJiZzJhUVNWQlAycHNSUGRPX1NTb0M1dWvSAWpBVV95cUxPbTJRUElPMkxWSmJGUWlDWjhlc2t1MGxLb2U4c3B0Y3N2ZDlkY1BmWDFxOXRCX01WVFBKeVl3dTU2ejdvLTRPWURUZWxyQTU4ckNSX3o2TTZ6UGJCRE9pOE8wZVp3TnBTNTJn?oc=5"
         }
       ],
       "keywords": [
@@ -21,6 +21,214 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "369ec320a356",
+      "title": "蛤蜊補B12超強！這5類人最該補醫曝：數值莫名飆高恐是癌症警訊- 營養好食 - TVBS 健康2.0",
+      "published": "2026-07-14T07:30:00+00:00",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNMmkyay1ZbHZqLUgzRjJ5eGdiZGRHZEd0MUJJc2dTNzNxdl9yV24yNDg4X0VfZkYxNjlyeVhlWmJLSTQ5a0o2MWZUMlY0NzZxVEdvOWtn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
             }
           ]
         }
@@ -305,12 +513,12 @@
       ]
     },
     {
-      "id": "ed955207e3a7",
+      "id": "912baa356e37",
       "title": "午休小睡變越睡越攰 營養師揭超過30 分鐘恐增心血管負擔",
       "published": "2026-07-12T23:00:49+00:00",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPVU91dXc2Y1RDYnA5REdtclZMazBoU2ZvWmhTUEFseC1OVmxmaER2WVY2b2RUcnJKNUVDTzQ2bEU4RUwwem41enZmajZnTGdpQUJvTUhsSGxLS0NpOGkyblpMaGlRbExvOTZiaWdKS0xkTHpFUlhTZDdOSXE5NU9wT1V3QmpKOGZHZUc0dDdmcGR1aEZYY1Itd2QyeHhpN0RvTFpUVFdRbnhxdHVkMS1kdjBfNTVNNUIxTjhLSC1lcTFkZVd1NFFLZHoyaHhldExHbUlxWHNDd1lGN3BqbjhsZWQyY2tLVk1UZU9yQlJlbUZRY1BfaXcycHd6bFVvcHNjT1lVS0h2UVFTM3hNUWJUdlhJMGdlZ2w2MGJWZ0hodHpUaDVOUE9oaTUwRjJ6eGpyMGhKWkNWWGlqQV9XRFAyOUJwUllFQVNhVk9taUpDOW4yelJNVy1SU3VzSl9MMzhSV1NVcUhn?oc=5"
         }
       ],

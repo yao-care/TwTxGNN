@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [防失智有「黃金步數」 飯後走還穩血糖- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE5wcURPTWw2c3RfdWFVQUpwaUlEWHhpemV6SlVHLXU0MmhWRDlnWlNDRjVKb0l2X1BDdmx1WXRzbk43cXQyZWpVRi03ZXFoWktDMXJiR1RuRDVDOEdxNXVGdU1Ga1RmY1hIT3VvV3VR?oc=5)
+### [健康網》睡覺幫大腦清垃圾還不夠！醫曝每天這步數 延緩腦退化逾3年](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SWGR5X05CNlo0VXFNemlnQWdOMnhiZ2h6N3Z2QlVCN19qb2F1Q3gwVkdRQ1JHc3RtOXY5MkpMdFJwY1YtVDhTc19xVDJiZzJhUVNWQlAycHNSUGRPX1NTb0M1dWvSAWpBVV95cUxPbTJRUElPMkxWSmJGUWlDWjhlc2t1MGxLb2U4c3B0Y3N2ZDlkY1BmWDFxOXRCX01WVFBKeVl3dTU2ejdvLTRPWURUZWxyQTU4ckNSX3o2TTZ6UGJCRE9pOE8wZVp3TnBTNTJn?oc=5)
 
 2026-07-14 <span class="news-indication-tag">失智</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5wcURPTWw2c3RfdWFVQUpwaUlEWHhpemV6SlVHLXU0MmhWRDlnWlNDRjVKb0l2X1BDdmx1WXRzbk43cXQyZWpVRi03ZXFoWktDMXJiR1RuRDVDOEdxNXVGdU1Ga1RmY1hIT3VvV3VR?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SWGR5X05CNlo0VXFNemlnQWdOMnhiZ2h6N3Z2QlVCN19qb2F1Q3gwVkdRQ1JHc3RtOXY5MkpMdFJwY1YtVDhTc19xVDJiZzJhUVNWQlAycHNSUGRPX1NTb0M1dWvSAWpBVV95cUxPbTJRUElPMkxWSmJGUWlDWjhlc2t1MGxLb2U4c3B0Y3N2ZDlkY1BmWDFxOXRCX01WVFBKeVl3dTU2ejdvLTRPWURUZWxyQTU4ckNSX3o2TTZ6UGJCRE9pOE8wZVp3TnBTNTJn?oc=5)
+
+---
+
+### [蛤蜊補B12超強！這5類人最該補醫曝：數值莫名飆高恐是癌症警訊- 營養好食 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNMmkyay1ZbHZqLUgzRjJ5eGdiZGRHZEd0MUJJc2dTNzNxdl9yV24yNDg4X0VfZkYxNjlyeVhlWmJLSTQ5a0o2MWZUMlY0NzZxVEdvOWtn?oc=5)
+
+2026-07-14 <span class="news-indication-tag">癌症</span>
+
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNMmkyay1ZbHZqLUgzRjJ5eGdiZGRHZEd0MUJJc2dTNzNxdl9yV24yNDg4X0VfZkYxNjlyeVhlWmJLSTQ5a0o2MWZUMlY0NzZxVEdvOWtn?oc=5)
 
 ---
 

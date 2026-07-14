@@ -1,30 +1,17 @@
 {
-  "last_updated": "2026-07-14T07:04:05.725982+00:00",
-  "total_count": 14,
-  "matched_count": 5,
+  "last_updated": "2026-07-14T09:47:50.049520+00:00",
+  "total_count": 18,
+  "matched_count": 6,
   "news": [
     {
-      "id": "f7949a1d091a",
-      "title": "記憶力變差、皮膚癢、焦慮？小心是身體缺乏Omega-3的求救信號10大警訊快檢查- 營養好食 - TVBS 健康2.0",
-      "published": "2026-07-14T06:47:00+00:00",
-      "summary": "記憶力變差、皮膚癢、焦慮？小心是身體缺乏Omega-3的求救信號10大警訊快檢查- 營養好食&nbsp;&nbsp;TVBS 健康2.0前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "08c231d85f70",
+      "title": "健康網》睡覺幫大腦清垃圾還不夠！醫曝每天這步數 延緩腦退化逾3年",
+      "published": "2026-07-14T08:33:00+00:00",
+      "summary": "健康網》睡覺幫大腦清垃圾還不夠！醫曝每天這步數 延緩腦退化逾3年&nbsp;&nbsp;自由健康網防失智有「黃金步數」 飯後走還穩血糖- 健康&nbsp;&nbsp;中時新聞網步伐快 80歲後腦力更能維持？研究揭關聯&nbsp;&nbsp;Taiwan News提升心率、促新陳代謝 「快走族」死亡風險降43%&nbsp;&nbsp;世界新聞網走得快的人真的不一樣！ 研究揭80歲後認知衰退風險砍半- 國際&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJMXg2UG4xb1ZZVnVjLUJQRk1aeU80N0VzanQ5TmlLdWJwZE11TVc2ZTJ2SWEyRXcyWVFOQU9TenJTRFYwSzBQOVc3azJRT3FyWldpYWRR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e290eed7ea6c",
-      "title": "防失智有「黃金步數」 飯後走還穩血糖- 健康",
-      "published": "2026-07-14T06:22:30+00:00",
-      "summary": "防失智有「黃金步數」 飯後走還穩血糖- 健康&nbsp;&nbsp;中時新聞網步伐快 80歲後腦力更能維持？研究揭關聯&nbsp;&nbsp;Taiwan News提升心率、促新陳代謝 「快走族」死亡風險降43%&nbsp;&nbsp;世界新聞網走得快的人真的不一樣！ 研究揭80歲後認知衰退風險砍半- 國際&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wcURPTWw2c3RfdWFVQUpwaUlEWHhpemV6SlVHLXU0MmhWRDlnWlNDRjVKb0l2X1BDdmx1WXRzbk43cXQyZWpVRi03ZXFoWktDMXJiR1RuRDVDOEdxNXVGdU1Ga1RmY1hIT3VvV3VR?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SWGR5X05CNlo0VXFNemlnQWdOMnhiZ2h6N3Z2QlVCN19qb2F1Q3gwVkdRQ1JHc3RtOXY5MkpMdFJwY1YtVDhTc19xVDJiZzJhUVNWQlAycHNSUGRPX1NTb0M1dWvSAWpBVV95cUxPbTJRUElPMkxWSmJGUWlDWjhlc2t1MGxLb2U4c3B0Y3N2ZDlkY1BmWDFxOXRCX01WVFBKeVl3dTU2ejdvLTRPWURUZWxyQTU4ckNSX3o2TTZ6UGJCRE9pOE8wZVp3TnBTNTJn?oc=5"
         }
       ],
       "matched_keywords": [
@@ -40,6 +27,254 @@
           ]
         }
       ]
+    },
+    {
+      "id": "369ec320a356",
+      "title": "蛤蜊補B12超強！這5類人最該補醫曝：數值莫名飆高恐是癌症警訊- 營養好食 - TVBS 健康2.0",
+      "published": "2026-07-14T07:30:00+00:00",
+      "summary": "蛤蜊補B12超強！這5類人最該補醫曝：數值莫名飆高恐是癌症警訊- 營養好食&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNMmkyay1ZbHZqLUgzRjJ5eGdiZGRHZEd0MUJJc2dTNzNxdl9yV24yNDg4X0VfZkYxNjlyeVhlWmJLSTQ5a0o2MWZUMlY0NzZxVEdvOWtn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b26bfb409256",
+      "title": "尿道長滿菜花不是最可怕！ 醫示警「1狀況」：免疫系統恐已全面失守",
+      "published": "2026-07-14T07:03:00+00:00",
+      "summary": "尿道長滿菜花不是最可怕！ 醫示警「1狀況」：免疫系統恐已全面失守&nbsp;&nbsp;Yahoo新聞無套代價慘！40歲男下體「整片小菜園」腫到看不見龜頭 醫電燒1小時崩潰&nbsp;&nbsp;自由健康網男子反覆起紅疹 一查竟確診梅毒第２期 醫警：「這2處」長疹要當心&nbsp;&nbsp;三立新聞無性行為尿道卻長滿「菜花」！泌尿科醫示警：恐是免疫防線崩潰警訊 | 生活 | CTWANT&nbsp;&nbsp;CTWANT30歲男無套驚染「菜花＋梅毒」 醫示警：初期症狀不明顯&nbsp;&nbsp;ETtoday探索",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPYmxTSktEU0I5Zy1tU040UUZYbFY4Y0tQc09aUUFDUDM5Q2VZREdiYTFRZHVoVjVXcXl2b0o1Y2xxaGlsWkh1V3FkeGxOSUlCQk5OcGxudGk1TWJ3VkU0NEMxbGo4aDl5RFF3c0wtdHJZanFUNGRpSmYzRGQ2ZFYyV3lzc2g2eVlsRjhZMDZLZHhabzNtaVdQbmNPa0tRR1pJRnBGOHFGYW9mWDdoWXNCQjBkYmdlN3N1cG10MFhRZXBicmlTUkVteXF4Uk1vYThiODlpTk84aGFHUVFPWC1ONGhWMzBCS0I5ZVNOUnhkcXFmWlp1aktZUllMSWsxamxFLUtjakkxb3E2MFZ1allnaGp0X2VaT085NTVydU1PR0ZUWXcwbU9Cd1ktaFZrYTFtMkZqdldQZk1hNmljeDJRLUstV3k1VFNCbGJiMWE1cGl5S29DTFZqMjl4ZWFWWDVHa0VZSlB3d0I0cTRTY2ptMUU1TjJzY1VTY2h5eWZ3UWhreTA5?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dee5a183318c",
+      "title": "科技日新月異 記憶與使命不變（黃岳永） - EJ Tech",
+      "published": "2026-07-14T06:55:18+00:00",
+      "summary": "科技日新月異 記憶與使命不變（黃岳永）&nbsp;&nbsp;EJ Tech",
+      "sources": [
+        {
+          "name": "EJ Tech",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOUHhOTVU4MFNlcDhTdFNpYmRRc0tvc2VvbFY3RWp6OE5Fc2R2c0p5LUxJSmFVcXNzeVBTNHhRX05wQXJSdjJaQWx3OEgxTGF2Z1BOUkplVHNpRGMtLVVCcnFlZzdaUjVkNnlrV2k5dU5zM2RoMC10TjQ3dFpiQUZoTGVZdTJpY0NEZ0QyU3FOSjJabnpJUXR1S3dFWGJFQTNtZ2xFTk10VXJTRDE3QTdZRWtHcWNvaXVESHhPLWNzYUlnZmlJYW9qaVI0TWxtQXA3c2RLLVVJVlNiWFF1LWp6N0JnVVRHbTJOVlVaZU1DZjhPN2ZuNUVadnZJUmZ3MElaeENOcnJleDV1VkdCeTMwSmRRZnJSNkpWRldGRmV5Z1BmbV9vR1VZ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f7949a1d091a",
+      "title": "記憶力變差、皮膚癢、焦慮？小心是身體缺乏Omega-3的求救信號10大警訊快檢查- 營養好食 - TVBS 健康2.0",
+      "published": "2026-07-14T06:50:24+00:00",
+      "summary": "記憶力變差、皮膚癢、焦慮？小心是身體缺乏Omega-3的求救信號10大警訊快檢查- 營養好食&nbsp;&nbsp;TVBS 健康2.0前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJMXg2UG4xb1ZZVnVjLUJQRk1aeU80N0VzanQ5TmlLdWJwZE11TVc2ZTJ2SWEyRXcyWVFOQU9TenJTRFYwSzBQOVc3azJRT3FyWldpYWRR?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "16c04efa1899",
@@ -264,14 +499,14 @@
       "matched_keywords": []
     },
     {
-      "id": "91abc16923a7",
+      "id": "e305a360801e",
       "title": "「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健",
-      "published": "2026-07-13T21:28:23+00:00",
-      "summary": "「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健&nbsp;&nbsp;Yahoo新聞聞不到味道別放棄！醫：每天3分鐘鼻子運動 找回嗅覺&nbsp;&nbsp;自由健康網擺脫嗅覺障礙，幫鼻子做復健運動！嗅覺訓練助恢復嗅覺，該怎麼做？ - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞染疫「嗅覺喪失」可復健 醫揭4氣味訓練法助神經再生&nbsp;&nbsp;ETtoday健康雲聞不到味道別放棄 醫授每天3分鐘「嗅覺復健」助恢復&nbsp;&nbsp;自由健康網",
+      "published": "2026-07-13T09:28:23+00:00",
+      "summary": "「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健&nbsp;&nbsp;Heho健康前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQLXJURXozZzlYRVlVcklVZGdCVExmcDRoQk10bFJHMjNBaHJtdHdiLWY5NXBZWTZ4N19YblppYkZHdHhBRGNTS3hjSmNjRkRVZno2S1dtUksybjhIZkdfYUtOTDdWb21IRDlzN1h0WHpjM2VDSzBUeXRLcTJwVVRuNlJrYnFJa1pzUDdxcVN0Q0lLakFfTThQcTlqT3Q2QVpqeFVjckxQaF9POHBSVHVKTWc2NnE0TVdCSkE4RnRhOXpZeEdkM255cXZmNnA1T0VqY3hYVjZYTWhKMU9qcUVxMjBFSE5RWTdMTTFmenFsYjIzcFRwbGo1OHhwMFR6aGNpeERzcTZRVmhFQWZab2JSQ3JtR3RWTzVUa2MxNGlvdjhBSXNZM0xWSWdpNUU5cmM1cFlSaTJUM3JrVnFFTTJSRXRpbkdoMHFwOXV6WGE0UHJlWnQ1MmJySW9fNDJSRW5Mb1J1UkV2Tjk3RjN4U2pvSFdTby1KRjBJcWsyTEpGT2JDMjE4QjM5SW4yOUtnYk5aUmFjR1RFRFZiTVMzb2h2MzV2eGI2cURz?oc=5"
+          "name": "Heho健康",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hMHlhckVlbEVkVEtmZzNSYVJzMGZsMEJFSEZLQkU5ZlExVFoyc2FZT2ppY0hqanQ0Tkx5d1ZPaVA5TklpcEFONWh6Zw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -362,6 +597,19 @@
       "matched_keywords": []
     },
     {
+      "id": "ebc8633196e5",
+      "title": "高雄人照過來！到哪打公費流感疫苗這個APP能告訴你| 生活",
+      "published": "2026-07-13T02:58:16+00:00",
+      "summary": "高雄人照過來！到哪打公費流感疫苗這個APP能告訴你| 生活&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kSHFDODFRZjNhZWtkQXFvSmRrdFhIRnFzemt6Nk10RlNwcVhDSlA3RExYaWxueGZkRmVVMU91OEVnZmc4Vkhz?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "d8df0e65a401",
       "title": "抱子甘藍多出一倍 4種蔬果維生素C含量贏過柳橙",
       "published": "2026-07-13T02:25:48+00:00",
@@ -401,13 +649,13 @@
       "matched_keywords": []
     },
     {
-      "id": "ed955207e3a7",
+      "id": "912baa356e37",
       "title": "午休小睡變越睡越攰 營養師揭超過30 分鐘恐增心血管負擔",
       "published": "2026-07-12T23:00:49+00:00",
-      "summary": "午休小睡變越睡越攰 營養師揭超過30 分鐘恐增心血管負擔&nbsp;&nbsp;bastillepost.com",
+      "summary": "午休小睡變越睡越攰 營養師揭超過30 分鐘恐增心血管負擔&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPVU91dXc2Y1RDYnA5REdtclZMazBoU2ZvWmhTUEFseC1OVmxmaER2WVY2b2RUcnJKNUVDTzQ2bEU4RUwwem41enZmajZnTGdpQUJvTUhsSGxLS0NpOGkyblpMaGlRbExvOTZiaWdKS0xkTHpFUlhTZDdOSXE5NU9wT1V3QmpKOGZHZUc0dDdmcGR1aEZYY1Itd2QyeHhpN0RvTFpUVFdRbnhxdHVkMS1kdjBfNTVNNUIxTjhLSC1lcTFkZVd1NFFLZHoyaHhldExHbUlxWHNDd1lGN3BqbjhsZWQyY2tLVk1UZU9yQlJlbUZRY1BfaXcycHd6bFVvcHNjT1lVS0h2UVFTM3hNUWJUdlhJMGdlZ2w2MGJWZ0hodHpUaDVOUE9oaTUwRjJ6eGpyMGhKWkNWWGlqQV9XRFAyOUJwUllFQVNhVk9taUpDOW4yelJNVy1SU3VzSl9MMzhSV1NVcUhn?oc=5"
         }
       ],
