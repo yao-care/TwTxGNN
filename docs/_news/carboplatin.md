@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [大腸直腸癌患者福音！默克標靶藥Erbitux獲歐盟雙重批准](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Ca1BEc1lkODJSY1JwbFlUUDhQVXF3MHhtajRYTlJ4bVh5MWI5WlZmRWtZS09KWXFOQXh3MWxQeFAwakRnbTFFMFZ3eDFkMlNSMFRuT1FtZkw3ejBsNVI4OQ?oc=5)
+
+2026-07-14 <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Ca1BEc1lkODJSY1JwbFlUUDhQVXF3MHhtajRYTlJ4bVh5MWI5WlZmRWtZS09KWXFOQXh3MWxQeFAwakRnbTFFMFZ3eDFkMlNSMFRuT1FtZkw3ejBsNVI4OQ?oc=5)
+
+---
 
 ### [蛤蜊補B12超強！這5類人最該補醫曝：數值莫名飆高恐是癌症警訊- 營養好食 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNMmkyay1ZbHZqLUgzRjJ5eGdiZGRHZEd0MUJJc2dTNzNxdl9yV24yNDg4X0VfZkYxNjlyeVhlWmJLSTQ5a0o2MWZUMlY0NzZxVEdvOWtn?oc=5)
 

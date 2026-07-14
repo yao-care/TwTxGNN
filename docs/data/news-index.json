@@ -1,15 +1,15 @@
 {
-  "generated": "2026-07-14T09:47:50.069821+00:00",
-  "count": 6,
+  "generated": "2026-07-14T11:18:22.321127+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "08c231d85f70",
-      "title": "健康網》睡覺幫大腦清垃圾還不夠！醫曝每天這步數 延緩腦退化逾3年",
-      "published": "2026-07-14T08:33:00+00:00",
+      "id": "ea6c2aa5465e",
+      "title": "不是走萬步！研究揭「最佳護腦步數」 延緩大腦退化3年",
+      "published": "2026-07-14T10:43:00+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SWGR5X05CNlo0VXFNemlnQWdOMnhiZ2h6N3Z2QlVCN19qb2F1Q3gwVkdRQ1JHc3RtOXY5MkpMdFJwY1YtVDhTc19xVDJiZzJhUVNWQlAycHNSUGRPX1NTb0M1dWvSAWpBVV95cUxPbTJRUElPMkxWSmJGUWlDWjhlc2t1MGxLb2U4c3B0Y3N2ZDlkY1BmWDFxOXRCX01WVFBKeVl3dTU2ejdvLTRPWURUZWxyQTU4ckNSX3o2TTZ6UGJCRE9pOE8wZVp3TnBTNTJn?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNV3V6T2VtMXQzUTdkRDVUZ1Z6TWZ3Uk1WUUVIR0FuWHlRWE1COElsSVAwQnYtTVg1bEk2OENYNlJCWmFwc3Mxemw1WVJkYmVxZS1GQ2xSeXBXaFFuTFllTFBjN09PMWJnYjUzSTh4UHNCWTNlX1dMQkwtTTJPVzRIUVd6OWlfRUhvclpBZ1BTQkdCc0lmczBlQ3JJNlZxZTE2YlBYY095OEg4QlJ4Q2lILU9fS0RwSTh5MGdSMWdrZjFYWnFXOXVLaHZmclpDSkgwODJvbTNGbm9SeE4tLXZteVNNT3RyblBUOURKbE5sUjZXaUNhMzNmRFVfUnJfclFUREZiMEtsazN2N1RsQTN0LS1IRld4RmdQdnRScmlLcmNwTlNXbU4xUFhGUGtQbW14OHNzNHJnbG9ZTmsycXJZRjJkM1dYSkpUTEdhZU1oelU2c3N5?oc=5"
         }
       ],
       "keywords": [
@@ -21,6 +21,53 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bec30a8c90b1",
+      "title": "大腸直腸癌患者福音！默克標靶藥Erbitux獲歐盟雙重批准",
+      "published": "2026-07-14T09:54:33+00:00",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Ca1BEc1lkODJSY1JwbFlUUDhQVXF3MHhtajRYTlJ4bVh5MWI5WlZmRWtZS09KWXFOQXh3MWxQeFAwakRnbTFFMFZ3eDFkMlNSMFRuT1FtZkw3ejBsNVI4OQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "直腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
