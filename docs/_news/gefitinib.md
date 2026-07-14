@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [不是走萬步！研究揭「最佳護腦步數」 延緩大腦退化3年](https://news.google.com/rss/articles/CBMi1AJBVV95cUxNV3V6T2VtMXQzUTdkRDVUZ1Z6TWZ3Uk1WUUVIR0FuWHlRWE1COElsSVAwQnYtTVg1bEk2OENYNlJCWmFwc3Mxemw1WVJkYmVxZS1GQ2xSeXBXaFFuTFllTFBjN09PMWJnYjUzSTh4UHNCWTNlX1dMQkwtTTJPVzRIUVd6OWlfRUhvclpBZ1BTQkdCc0lmczBlQ3JJNlZxZTE2YlBYY095OEg4QlJ4Q2lILU9fS0RwSTh5MGdSMWdrZjFYWnFXOXVLaHZmclpDSkgwODJvbTNGbm9SeE4tLXZteVNNT3RyblBUOURKbE5sUjZXaUNhMzNmRFVfUnJfclFUREZiMEtsazN2N1RsQTN0LS1IRld4RmdQdnRScmlLcmNwTlNXbU4xUFhGUGtQbW14OHNzNHJnbG9ZTmsycXJZRjJkM1dYSkpUTEdhZU1oelU2c3N5?oc=5)
-
-2026-07-14 <span class="news-indication-tag">失智</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi1AJBVV95cUxNV3V6T2VtMXQzUTdkRDVUZ1Z6TWZ3Uk1WUUVIR0FuWHlRWE1COElsSVAwQnYtTVg1bEk2OENYNlJCWmFwc3Mxemw1WVJkYmVxZS1GQ2xSeXBXaFFuTFllTFBjN09PMWJnYjUzSTh4UHNCWTNlX1dMQkwtTTJPVzRIUVd6OWlfRUhvclpBZ1BTQkdCc0lmczBlQ3JJNlZxZTE2YlBYY095OEg4QlJ4Q2lILU9fS0RwSTh5MGdSMWdrZjFYWnFXOXVLaHZmclpDSkgwODJvbTNGbm9SeE4tLXZteVNNT3RyblBUOURKbE5sUjZXaUNhMzNmRFVfUnJfclFUREZiMEtsazN2N1RsQTN0LS1IRld4RmdQdnRScmlLcmNwTlNXbU4xUFhGUGtQbW14OHNzNHJnbG9ZTmsycXJZRjJkM1dYSkpUTEdhZU1oelU2c3N5?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [蛤蜊補B12超強！這5類人最該補醫曝：數值莫名飆高恐是癌症警訊- 營養好食 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNMmkyay1ZbHZqLUgzRjJ5eGdiZGRHZEd0MUJJc2dTNzNxdl9yV24yNDg4X0VfZkYxNjlyeVhlWmJLSTQ5a0o2MWZUMlY0NzZxVEdvOWtn?oc=5)
 

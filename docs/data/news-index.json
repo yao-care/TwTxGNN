@@ -1,31 +1,7 @@
 {
-  "generated": "2026-07-14T11:18:22.321127+00:00",
-  "count": 7,
+  "generated": "2026-07-14T13:11:10.531306+00:00",
+  "count": 6,
   "news": [
-    {
-      "id": "ea6c2aa5465e",
-      "title": "不是走萬步！研究揭「最佳護腦步數」 延緩大腦退化3年",
-      "published": "2026-07-14T10:43:00+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNV3V6T2VtMXQzUTdkRDVUZ1Z6TWZ3Uk1WUUVIR0FuWHlRWE1COElsSVAwQnYtTVg1bEk2OENYNlJCWmFwc3Mxemw1WVJkYmVxZS1GQ2xSeXBXaFFuTFllTFBjN09PMWJnYjUzSTh4UHNCWTNlX1dMQkwtTTJPVzRIUVd6OWlfRUhvclpBZ1BTQkdCc0lmczBlQ3JJNlZxZTE2YlBYY095OEg4QlJ4Q2lILU9fS0RwSTh5MGdSMWdrZjFYWnFXOXVLaHZmclpDSkgwODJvbTNGbm9SeE4tLXZteVNNT3RyblBUOURKbE5sUjZXaUNhMzNmRFVfUnJfclFUREZiMEtsazN2N1RsQTN0LS1IRld4RmdQdnRScmlLcmNwTlNXbU4xUFhGUGtQbW14OHNzNHJnbG9ZTmsycXJZRjJkM1dYSkpUTEdhZU1oelU2c3N5?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "bec30a8c90b1",
       "title": "大腸直腸癌患者福音！默克標靶藥Erbitux獲歐盟雙重批准",
