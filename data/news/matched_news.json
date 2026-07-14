@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-14T21:48:39.706023+00:00",
-  "total_count": 19,
+  "last_updated": "2026-07-14T22:47:52.543986+00:00",
+  "total_count": 20,
   "matched_count": 8,
   "news": [
     {
@@ -836,7 +836,7 @@
       "id": "b48759b4240e",
       "title": "記憶衰退前已有警訊 美研究揭阿茲海默症或先令執行力受損",
       "published": "2026-07-13T05:53:00+00:00",
-      "summary": "記憶衰退前已有警訊 美研究揭阿茲海默症或先令執行力受損&nbsp;&nbsp;自由健康網阿茲海默發病前20年就現蹤?新研究：大腦「這年紀」 開始變化&nbsp;&nbsp;MSN研究曝失智症更早徵兆 大腦可能先失去「這項能力」&nbsp;&nbsp;中時新聞網阿茲海默症可能找錯病因- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網阿茲海默失智新藥開發重新啟航&nbsp;&nbsp;環球生技月刊",
+      "summary": "記憶衰退前已有警訊 美研究揭阿茲海默症或先令執行力受損&nbsp;&nbsp;自由健康網阿茲海默發病前20年就現蹤?新研究：大腦「這年紀」 開始變化&nbsp;&nbsp;MSN阿茲海默症可能找錯病因- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網阿茲海默失智新藥開發重新啟航&nbsp;&nbsp;環球生技月刊不是單純老了才健忘！阿茲海默症新研究：腦細胞內部可能早已開始「交通大亂」&nbsp;&nbsp;udn 女子漾",
       "sources": [
         {
           "name": "自由健康網",
@@ -847,17 +847,6 @@
         {
           "type": "indication",
           "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "阿茲海默症",
           "keyword": "阿茲海默症",
           "related_drugs": [
             {
@@ -893,6 +882,19 @@
       "matched_keywords": []
     },
     {
+      "id": "ebc8633196e5",
+      "title": "高雄人照過來！到哪打公費流感疫苗這個APP能告訴你| 生活",
+      "published": "2026-07-13T02:58:16+00:00",
+      "summary": "高雄人照過來！到哪打公費流感疫苗這個APP能告訴你| 生活&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kSHFDODFRZjNhZWtkQXFvSmRrdFhIRnFzemt6Nk10RlNwcVhDSlA3RExYaWxueGZkRmVVMU91OEVnZmc4Vkhz?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "7e1f4e64ab4e",
       "title": "健康網》筋膜槍按摩眼球 危險！醫：傷害甚鉅",
       "published": "2026-07-13T01:12:00+00:00",
@@ -919,13 +921,13 @@
       "matched_keywords": []
     },
     {
-      "id": "ed955207e3a7",
+      "id": "912baa356e37",
       "title": "午休小睡變越睡越攰 營養師揭超過30 分鐘恐增心血管負擔",
       "published": "2026-07-12T23:00:49+00:00",
-      "summary": "午休小睡變越睡越攰 營養師揭超過30 分鐘恐增心血管負擔&nbsp;&nbsp;bastillepost.com",
+      "summary": "午休小睡變越睡越攰 營養師揭超過30 分鐘恐增心血管負擔&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPVU91dXc2Y1RDYnA5REdtclZMazBoU2ZvWmhTUEFseC1OVmxmaER2WVY2b2RUcnJKNUVDTzQ2bEU4RUwwem41enZmajZnTGdpQUJvTUhsSGxLS0NpOGkyblpMaGlRbExvOTZiaWdKS0xkTHpFUlhTZDdOSXE5NU9wT1V3QmpKOGZHZUc0dDdmcGR1aEZYY1Itd2QyeHhpN0RvTFpUVFdRbnhxdHVkMS1kdjBfNTVNNUIxTjhLSC1lcTFkZVd1NFFLZHoyaHhldExHbUlxWHNDd1lGN3BqbjhsZWQyY2tLVk1UZU9yQlJlbUZRY1BfaXcycHd6bFVvcHNjT1lVS0h2UVFTM3hNUWJUdlhJMGdlZ2w2MGJWZ0hodHpUaDVOUE9oaTUwRjJ6eGpyMGhKWkNWWGlqQV9XRFAyOUJwUllFQVNhVk9taUpDOW4yelJNVy1SU3VzSl9MMzhSV1NVcUhn?oc=5"
         }
       ],

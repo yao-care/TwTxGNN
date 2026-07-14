@@ -77,7 +77,7 @@ permalink: /news/gefitinib/
 
 ### [記憶衰退前已有警訊 美研究揭阿茲海默症或先令執行力受損](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KNFFVYXdxQnBLRjFPRk5WUmdObW95cFMxY09adEVaci1mYTFOX1k0SlFESDFzOXdUdEtYZS10WGs1SURnVnFTUUdVUnBWcGEyaXo5eVEwc2w0YlRsQmJfU3lVdUfSAWpBVV95cUxNYmppYms4LWhMS3VEQXBDNGpGYTdYVWp5eUVueGoycWIxbFkzRWtBTTR1MnVFeDJweVplcGFwazI3OHJfZGJiZHYwMDViQ0tya0ZYbFJ0MkFZaTNfVkl5bEw4MFlVbFY1WXJn?oc=5)
 
-2026-07-13 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+2026-07-13 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KNFFVYXdxQnBLRjFPRk5WUmdObW95cFMxY09adEVaci1mYTFOX1k0SlFESDFzOXdUdEtYZS10WGs1SURnVnFTUUdVUnBWcGEyaXo5eVEwc2w0YlRsQmJfU3lVdUfSAWpBVV95cUxNYmppYms4LWhMS3VEQXBDNGpGYTdYVWp5eUVueGoycWIxbFkzRWtBTTR1MnVFeDJweVplcGFwazI3OHJfZGJiZHYwMDViQ0tya0ZYbFJ0MkFZaTNfVkl5bEw4MFlVbFY1WXJn?oc=5)
 
