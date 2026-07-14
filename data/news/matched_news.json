@@ -1,8 +1,57 @@
 {
-  "last_updated": "2026-07-14T15:16:53.571466+00:00",
-  "total_count": 20,
-  "matched_count": 7,
+  "last_updated": "2026-07-14T17:04:05.145847+00:00",
+  "total_count": 19,
+  "matched_count": 8,
   "news": [
+    {
+      "id": "93d295a64d12",
+      "title": "摸到乳房腫塊先別慌！醫師揭乳癌警訊、檢查時機一次看懂 | TVBS - LINE TODAY",
+      "published": "2026-07-14T14:20:20+00:00",
+      "summary": "摸到乳房腫塊先別慌！醫師揭乳癌警訊、檢查時機一次看懂 | TVBS&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OY1J5dWtCMGczWGtzeXNFLXdsY0ozQ1RDTlMxYzlVLTlLemthSjliQ0VIOWdXUGVjSjlWWGZsZ3RDamhaOEZTWkt6TjdOdE5uc0hfOEd3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "e0a3e2eac37b",
       "title": "🎙️很多人不知道 老年人肥胖問題比想像的更嚴重",
@@ -522,19 +571,6 @@
       "matched_keywords": []
     },
     {
-      "id": "f678880a184b",
-      "title": "無性行為尿道卻長滿「菜花」！泌尿科醫示警：恐是免疫防線崩潰警訊 | CTWANT - LINE TODAY",
-      "published": "2026-07-14T04:00:15+00:00",
-      "summary": "無性行為尿道卻長滿「菜花」！泌尿科醫示警：恐是免疫防線崩潰警訊 | CTWANT&nbsp;&nbsp;LINE TODAY尿道長滿菜花不是最可怕！ 醫示警「1狀況」：免疫系統恐已全面失守&nbsp;&nbsp;Yahoo新聞無套代價慘！40歲男下體「整片小菜園」腫到看不見龜頭 醫電燒1小時崩潰&nbsp;&nbsp;自由健康網男子反覆起紅疹 一查竟確診梅毒第２期 醫警：「這2處」長疹要當心&nbsp;&nbsp;三立新聞無性行為尿道卻長滿「菜花」！泌尿科醫示警：恐是免疫防線崩潰警訊 | 生活 | CTWANT&nbsp;&nbsp;CTWANT",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GUTF5UUhQS0I4eW1aZm9MRjhsZkJnXzF1MWhtSGZZRVRpaTBXYTg2MmQtblloSnFLOWlnbEhfS1VieWE1Q0NnMFBmYlllbHJ3U0xpTllB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "16c04efa1899",
       "title": "澳洲有近百萬癌症患者 40歲以下發病率上升",
       "published": "2026-07-14T01:20:00+00:00",
@@ -747,7 +783,7 @@
       "id": "9a6a72316c59",
       "title": "她激戰砲友「套套消失」找到了　醫問診一聽起雞皮疙瘩",
       "published": "2026-07-13T22:26:00+00:00",
-      "summary": "她激戰砲友「套套消失」找到了 醫問診一聽起雞皮疙瘩&nbsp;&nbsp;ETtoday健康雲",
+      "summary": "她激戰砲友「套套消失」找到了 醫問診一聽起雞皮疙瘩&nbsp;&nbsp;ETtoday健康雲前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "ETtoday健康雲",
@@ -757,14 +793,14 @@
       "matched_keywords": []
     },
     {
-      "id": "91abc16923a7",
+      "id": "e305a360801e",
       "title": "「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健",
-      "published": "2026-07-13T21:28:23+00:00",
-      "summary": "「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健&nbsp;&nbsp;Yahoo新聞聞不到味道別放棄！醫：每天3分鐘鼻子運動 找回嗅覺&nbsp;&nbsp;自由健康網擺脫嗅覺障礙，幫鼻子做復健運動！嗅覺訓練助恢復嗅覺，該怎麼做？ - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞染疫「嗅覺喪失」可復健 醫揭4氣味訓練法助神經再生&nbsp;&nbsp;ETtoday健康雲聞不到味道別放棄 醫授每天3分鐘「嗅覺復健」助恢復&nbsp;&nbsp;自由健康網",
+      "published": "2026-07-13T09:28:23+00:00",
+      "summary": "「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健&nbsp;&nbsp;Heho健康前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQLXJURXozZzlYRVlVcklVZGdCVExmcDRoQk10bFJHMjNBaHJtdHdiLWY5NXBZWTZ4N19YblppYkZHdHhBRGNTS3hjSmNjRkRVZno2S1dtUksybjhIZkdfYUtOTDdWb21IRDlzN1h0WHpjM2VDSzBUeXRLcTJwVVRuNlJrYnFJa1pzUDdxcVN0Q0lLakFfTThQcTlqT3Q2QVpqeFVjckxQaF9POHBSVHVKTWc2NnE0TVdCSkE4RnRhOXpZeEdkM255cXZmNnA1T0VqY3hYVjZYTWhKMU9qcUVxMjBFSE5RWTdMTTFmenFsYjIzcFRwbGo1OHhwMFR6aGNpeERzcTZRVmhFQWZab2JSQ3JtR3RWTzVUa2MxNGlvdjhBSXNZM0xWSWdpNUU5cmM1cFlSaTJUM3JrVnFFTTJSRXRpbkdoMHFwOXV6WGE0UHJlWnQ1MmJySW9fNDJSRW5Mb1J1UkV2Tjk3RjN4U2pvSFdTby1KRjBJcWsyTEpGT2JDMjE4QjM5SW4yOUtnYk5aUmFjR1RFRFZiTVMzb2h2MzV2eGI2cURz?oc=5"
+          "name": "Heho健康",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hMHlhckVlbEVkVEtmZzNSYVJzMGZsMEJFSEZLQkU5ZlExVFoyc2FZT2ppY0hqanQ0Tkx5d1ZPaVA5TklpcEFONWh6Zw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -907,13 +943,13 @@
       "matched_keywords": []
     },
     {
-      "id": "912baa356e37",
+      "id": "ed955207e3a7",
       "title": "午休小睡變越睡越攰 營養師揭超過30 分鐘恐增心血管負擔",
       "published": "2026-07-12T23:00:49+00:00",
-      "summary": "午休小睡變越睡越攰 營養師揭超過30 分鐘恐增心血管負擔&nbsp;&nbsp;巴士的報",
+      "summary": "午休小睡變越睡越攰 營養師揭超過30 分鐘恐增心血管負擔&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPVU91dXc2Y1RDYnA5REdtclZMazBoU2ZvWmhTUEFseC1OVmxmaER2WVY2b2RUcnJKNUVDTzQ2bEU4RUwwem41enZmajZnTGdpQUJvTUhsSGxLS0NpOGkyblpMaGlRbExvOTZiaWdKS0xkTHpFUlhTZDdOSXE5NU9wT1V3QmpKOGZHZUc0dDdmcGR1aEZYY1Itd2QyeHhpN0RvTFpUVFdRbnhxdHVkMS1kdjBfNTVNNUIxTjhLSC1lcTFkZVd1NFFLZHoyaHhldExHbUlxWHNDd1lGN3BqbjhsZWQyY2tLVk1UZU9yQlJlbUZRY1BfaXcycHd6bFVvcHNjT1lVS0h2UVFTM3hNUWJUdlhJMGdlZ2w2MGJWZ0hodHpUaDVOUE9oaTUwRjJ6eGpyMGhKWkNWWGlqQV9XRFAyOUJwUllFQVNhVk9taUpDOW4yelJNVy1SU3VzSl9MMzhSV1NVcUhn?oc=5"
         }
       ],
@@ -930,19 +966,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "a882390e854e",
-      "title": "男性脖子上的「青春期化石」，生物學家解密喉結真實作用 | 科技新報 - LINE TODAY",
-      "published": "2026-07-12T14:45:16+00:00",
-      "summary": "男性脖子上的「青春期化石」，生物學家解密喉結真實作用 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RTFVLTVk0S3liREVFVTJIQ0FrTEVUMmJTRjhPQ0xpQzdzd2g1MFJvV015VWVLNFRLaU1pSUlhcDJEQThRRW5ieFIyNWROdl9yVGxzMG9n?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

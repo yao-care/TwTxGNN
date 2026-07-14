@@ -1,7 +1,55 @@
 {
-  "generated": "2026-07-14T15:16:53.590890+00:00",
-  "count": 7,
+  "generated": "2026-07-14T17:04:05.178579+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "93d295a64d12",
+      "title": "摸到乳房腫塊先別慌！醫師揭乳癌警訊、檢查時機一次看懂 | TVBS - LINE TODAY",
+      "published": "2026-07-14T14:20:20+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OY1J5dWtCMGczWGtzeXNFLXdsY0ozQ1RDTlMxYzlVLTlLemthSjliQ0VIOWdXUGVjSjlWWGZsZ3RDamhaOEZTWkt6TjdOdE5uc0hfOEd3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "49b5c62b2ff6",
       "title": "研究發現，高脂飲食與腸道細菌可增強癌症免疫療法",
@@ -744,12 +792,12 @@
       ]
     },
     {
-      "id": "912baa356e37",
+      "id": "ed955207e3a7",
       "title": "午休小睡變越睡越攰 營養師揭超過30 分鐘恐增心血管負擔",
       "published": "2026-07-12T23:00:49+00:00",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPVU91dXc2Y1RDYnA5REdtclZMazBoU2ZvWmhTUEFseC1OVmxmaER2WVY2b2RUcnJKNUVDTzQ2bEU4RUwwem41enZmajZnTGdpQUJvTUhsSGxLS0NpOGkyblpMaGlRbExvOTZiaWdKS0xkTHpFUlhTZDdOSXE5NU9wT1V3QmpKOGZHZUc0dDdmcGR1aEZYY1Itd2QyeHhpN0RvTFpUVFdRbnhxdHVkMS1kdjBfNTVNNUIxTjhLSC1lcTFkZVd1NFFLZHoyaHhldExHbUlxWHNDd1lGN3BqbjhsZWQyY2tLVk1UZU9yQlJlbUZRY1BfaXcycHd6bFVvcHNjT1lVS0h2UVFTM3hNUWJUdlhJMGdlZ2w2MGJWZ0hodHpUaDVOUE9oaTUwRjJ6eGpyMGhKWkNWWGlqQV9XRFAyOUJwUllFQVNhVk9taUpDOW4yelJNVy1SU3VzSl9MMzhSV1NVcUhn?oc=5"
         }
       ],
