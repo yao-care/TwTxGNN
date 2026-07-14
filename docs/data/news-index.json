@@ -1,55 +1,7 @@
 {
-  "generated": "2026-07-14T17:04:05.178579+00:00",
+  "generated": "2026-07-14T19:03:51.274620+00:00",
   "count": 8,
   "news": [
-    {
-      "id": "93d295a64d12",
-      "title": "摸到乳房腫塊先別慌！醫師揭乳癌警訊、檢查時機一次看懂 | TVBS - LINE TODAY",
-      "published": "2026-07-14T14:20:20+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OY1J5dWtCMGczWGtzeXNFLXdsY0ozQ1RDTlMxYzlVLTlLemthSjliQ0VIOWdXUGVjSjlWWGZsZ3RDamhaOEZTWkt6TjdOdE5uc0hfOEd3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "49b5c62b2ff6",
       "title": "研究發現，高脂飲食與腸道細菌可增強癌症免疫療法",
@@ -300,6 +252,30 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "08c231d85f70",
+      "title": "健康網》睡覺幫大腦清垃圾還不夠！醫曝每天這步數 延緩腦退化逾3年",
+      "published": "2026-07-14T08:33:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SWGR5X05CNlo0VXFNemlnQWdOMnhiZ2h6N3Z2QlVCN19qb2F1Q3gwVkdRQ1JHc3RtOXY5MkpMdFJwY1YtVDhTc19xVDJiZzJhUVNWQlAycHNSUGRPX1NTb0M1dWvSAWpBVV95cUxPbTJRUElPMkxWSmJGUWlDWjhlc2t1MGxLb2U4c3B0Y3N2ZDlkY1BmWDFxOXRCX01WVFBKeVl3dTU2ejdvLTRPWURUZWxyQTU4ckNSX3o2TTZ6UGJCRE9pOE8wZVp3TnBTNTJn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }

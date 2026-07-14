@@ -14,7 +14,7 @@ permalink: /news/anastrozole/
 ---
 
 <p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
-<strong>Anastrozole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Anastrozole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/anastrozole/
 <li><strong>原適應症</strong>：停經後婦女晚期乳癌、荷爾蒙接受器陽性早期乳癌輔助治療</li>
 <li><strong>證據等級</strong>：L1</li>
 <li><strong>預測適應症</strong>（6 個）：<ul>
-<li class="indication-matched">female breast carcinoma（99.7%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（99.7%）</li>
 <li>neuroblastoma（99.5%）</li>
 <li>vertebral anomalies and variable endocrine and T-cell dysfunction（99.4%）</li>
 <li>ganglioneuroblastoma (disease)（99.4%）</li>
@@ -38,15 +38,7 @@ permalink: /news/anastrozole/
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [摸到乳房腫塊先別慌！醫師揭乳癌警訊、檢查時機一次看懂 | TVBS - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OY1J5dWtCMGczWGtzeXNFLXdsY0ozQ1RDTlMxYzlVLTlLemthSjliQ0VIOWdXUGVjSjlWWGZsZ3RDamhaOEZTWkt6TjdOdE5uc0hfOEd3?oc=5)
-
-2026-07-14 <span class="news-indication-tag">乳癌</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OY1J5dWtCMGczWGtzeXNFLXdsY0ozQ1RDTlMxYzlVLTlLemthSjliQ0VIOWdXUGVjSjlWWGZsZ3RDamhaOEZTWkt6TjdOdE5uc0hfOEd3?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [研究發現，高脂飲食與腸道細菌可增強癌症免疫療法](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IRVNlQ3ZOV08wc1FxY3hSRDFudU4tclYzTm9CNTZfN25YcDJ1eHotVlJNV19SS2t0eHJ3UmpCeWNWS2ptVkpzVzdGR2VVZFgwOWc?oc=5)
 
