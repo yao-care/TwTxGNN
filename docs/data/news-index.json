@@ -1,7 +1,31 @@
 {
-  "generated": "2026-07-14T04:42:17.819899+00:00",
+  "generated": "2026-07-14T07:04:05.756415+00:00",
   "count": 5,
   "news": [
+    {
+      "id": "e290eed7ea6c",
+      "title": "防失智有「黃金步數」 飯後走還穩血糖- 健康",
+      "published": "2026-07-14T06:22:30+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wcURPTWw2c3RfdWFVQUpwaUlEWHhpemV6SlVHLXU0MmhWRDlnWlNDRjVKb0l2X1BDdmx1WXRzbk43cXQyZWpVRi03ZXFoWktDMXJiR1RuRDVDOEdxNXVGdU1Ga1RmY1hIT3VvV3VR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "16c04efa1899",
       "title": "澳洲有近百萬癌症患者 40歲以下發病率上升",
@@ -205,30 +229,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c23e73353534",
-      "title": "名嘴自曝記憶下滑 連醫師爸也認證恐失智！土城醫院推1運動增5倍抗失智因子",
-      "published": "2026-07-14T00:02:18+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxPTjZOQVRHVTAyLU1mZ2hjUV9Dc1haQm5HMF9vWjhYTTJIdVBLdmdtemc0S2hsLXIzeUNYaTNLUEdrcUp4NE5XaGJmQzFydldDT1JBazlhUFd0SXBQZ04xeDNYWU1BZ0dJUW1nM2xXZ1V3Qk9mZThVTVBTZnFzMVRGcEVQMkx2UE9adm9UaXhBVXdsR0RNR1g3ekVvVkhKZVRQV2Q5Wk1XZW9Gb1NNckZBeHcyenlLMDBDWEtOREpPV0d6VjcxLXZmQ0VJaVJYRjFKM25pVmR6RzhXaUxxQ0VadzNSdExaM1dhS3pEdl9FblpDNEE1bDJ3MVpDdzVRN3k4bXI5XzRYZzFxSklEUVpmVExLenFxTE9CWl9Jb3M1RUNSX21TMWlvZU0weDR2bHJHLUVxb1JrY0lsdmtyZ0Rab2hMMHhWZVdGdE43RktBOWVFeXBJSnJjSTY1RmU1WmdLaEZRcEd3Qjlnbk9hazNfQnBEUFowVWlnX2plbmFtTUNMc1dGTS1GWFNGNWphMG5WMXFsbXlJSThVQ0FZbzZvWFRYbnNmZVdBeW5TcnNYTUVJMXJ1dWRVYTJXMFNPd2pma3BGY2Y2S2FNTHBZTXFkb25KRy10dHct?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
