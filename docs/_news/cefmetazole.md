@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,9 +41,15 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [澳洲有近百萬癌症患者 40歲以下發病率上升](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mVGVBRW5VbXg5NDh3ZG5FQkNCdUNoRGNoTVJFYTlSeTN2cHlqMDFvdkhIam1GUmt3ak4xRVlwUUZqUzlVY0ZvdGEzN3B4MHltbnVLVkNtZXNpNXN4My04TdIBZkFVX3lxTE9fZURXeXdfYXlQTFZlTHN4NTcyUXl2UjFROTNPQlA0Z0NDMFhxNGlXUUJjRUtlTGFQREVBenh5WXF1YWs4cVRkWVRTTUhqQzVPOG5ES2I4SzlfZU5XMnJRT3h1QkV2Zw?oc=5)
+
+2026-07-14 <span class="news-indication-tag">癌症</span>
+
+來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mVGVBRW5VbXg5NDh3ZG5FQkNCdUNoRGNoTVJFYTlSeTN2cHlqMDFvdkhIam1GUmt3ak4xRVlwUUZqUzlVY0ZvdGEzN3B4MHltbnVLVkNtZXNpNXN4My04TdIBZkFVX3lxTE9fZURXeXdfYXlQTFZlTHN4NTcyUXl2UjFROTNPQlA0Z0NDMFhxNGlXUUJjRUtlTGFQREVBenh5WXF1YWs4cVRkWVRTTUhqQzVPOG5ES2I4SzlfZU5XMnJRT3h1QkV2Zw?oc=5)
+
+---
 
 
 <div class="disclaimer">
