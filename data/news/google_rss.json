@@ -1,17 +1,65 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-15T01:27:49.948806+00:00",
-  "count": 19,
+  "fetched_at": "2026-07-15T04:41:57.469930+00:00",
+  "count": 22,
   "news": [
     {
-      "id": "ea6c2aa5465e",
-      "title": "不是走萬步！研究揭「最佳護腦步數」 延緩大腦退化3年 - Yahoo新聞",
-      "published": "2026-07-14T10:43:00+00:00",
-      "summary": "不是走萬步！研究揭「最佳護腦步數」 延緩大腦退化3年&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "b26bfb409256",
+      "title": "尿道長滿菜花不是最可怕！ 醫示警「1狀況」：免疫系統恐已全面失守 - Yahoo新聞",
+      "published": "2026-07-14T07:03:00+00:00",
+      "summary": "尿道長滿菜花不是最可怕！ 醫示警「1狀況」：免疫系統恐已全面失守&nbsp;&nbsp;Yahoo新聞無套代價慘！40歲男下體「整片小菜園」腫到看不見龜頭 醫電燒1小時崩潰&nbsp;&nbsp;自由健康網老了才發現梅毒？免疫力下降讓性病全爆發&nbsp;&nbsp;Yahoo新聞無性行為尿道卻長滿「菜花」！泌尿科醫示警：恐是免疫防線崩潰警訊 | 生活 | CTWANT&nbsp;&nbsp;CTWANT手腳掌冒紅疹以為濕疹！男就醫確診梅毒 醫：很多人第一個症狀就忽略&nbsp;&nbsp;台視新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNV3V6T2VtMXQzUTdkRDVUZ1Z6TWZ3Uk1WUUVIR0FuWHlRWE1COElsSVAwQnYtTVg1bEk2OENYNlJCWmFwc3Mxemw1WVJkYmVxZS1GQ2xSeXBXaFFuTFllTFBjN09PMWJnYjUzSTh4UHNCWTNlX1dMQkwtTTJPVzRIUVd6OWlfRUhvclpBZ1BTQkdCc0lmczBlQ3JJNlZxZTE2YlBYY095OEg4QlJ4Q2lILU9fS0RwSTh5MGdSMWdrZjFYWnFXOXVLaHZmclpDSkgwODJvbTNGbm9SeE4tLXZteVNNT3RyblBUOURKbE5sUjZXaUNhMzNmRFVfUnJfclFUREZiMEtsazN2N1RsQTN0LS1IRld4RmdQdnRScmlLcmNwTlNXbU4xUFhGUGtQbW14OHNzNHJnbG9ZTmsycXJZRjJkM1dYSkpUTEdhZU1oelU2c3N5?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPYmxTSktEU0I5Zy1tU040UUZYbFY4Y0tQc09aUUFDUDM5Q2VZREdiYTFRZHVoVjVXcXl2b0o1Y2xxaGlsWkh1V3FkeGxOSUlCQk5OcGxudGk1TWJ3VkU0NEMxbGo4aDl5RFF3c0wtdHJZanFUNGRpSmYzRGQ2ZFYyV3lzc2g2eVlsRjhZMDZLZHhabzNtaVdQbmNPa0tRR1pJRnBGOHFGYW9mWDdoWXNCQjBkYmdlN3N1cG10MFhRZXBicmlTUkVteXF4Uk1vYThiODlpTk84aGFHUVFPWC1ONGhWMzBCS0I5ZVNOUnhkcXFmWlp1aktZUllMSWsxamxFLUtjakkxb3E2MFZ1allnaGp0X2VaT085NTVydU1PR0ZUWXcwbU9Cd1ktaFZrYTFtMkZqdldQZk1hNmljeDJRLUstV3k1VFNCbGJiMWE1cGl5S29DTFZqMjl4ZWFWWDVHa0VZSlB3d0I0cTRTY2ptMUU1TjJzY1VTY2h5eWZ3UWhreTA5?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f967768f6c34",
+      "title": "B12越補越危險？33萬人研究發現癌症風險高6倍，醫揭真相：恐是身體警訊 - Yahoo新聞",
+      "published": "2026-07-15T04:13:04+00:00",
+      "summary": "B12越補越危險？33萬人研究發現癌症風險高6倍，醫揭真相：恐是身體警訊&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQN0drSndmZk40VjBsSkNyMHR5YW9OQlpvTnFWeVRUVWZTVTktVVQtc3RTb2luaTJPcWk2ZXlZVjUzNmpmaWhvNVotNXIxVldxcnprM0J4WDJ4NmQ0a3VZbnN3UWFRd3NxOURKRUN0RG1RSzZOM1M2SzZJdEpEVmxFZU5sQW81YmlHWFlzWjhHcE1mR0phbU5NQmRjbUp3enRYN1c3T1dXTjVHRjJTa0V0cnJaRUhsdzRyenVpem1lMHVhMWd1WmZXM0ZjRG94R2l0WkNXM1A5Q1YtT0pQaGNWajk4V243Tk81ZjNQd3cya2VENHpRTnFSeUNJVkQzUXVJY2tYSGlpcFk2SUxlRkFnWE8wTlhvY1IzcHIxcjhQNWJiVFFwT0JFQkVfV1k5R3IwMEhxR25URm9XMzBJeWQ1bUZsWGtPcS1kaUNRS2ZFcGJkdmIwSGowWERLb3UwV2ZZVmtSYnFxVHpwTktuXzAxd3RIVkVUQW9hMFVZWVZZdnE5cnJ6YkN6LW1uYUE1SXhvRXF0Y08zR2c1UWRkamRzYnVVWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "20cbb8bd302b",
+      "title": "長壽≠無病無災！90歲名醫親揭「帶病長壽」真相：糾結健檢紅字，放不下比疾病更傷身 - 幸福熟齡",
+      "published": "2026-07-15T01:57:00+00:00",
+      "summary": "長壽≠無病無災！90歲名醫親揭「帶病長壽」真相：糾結健檢紅字，放不下比疾病更傷身&nbsp;&nbsp;幸福熟齡",
+      "sources": [
+        {
+          "name": "幸福熟齡",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tUXl0Ml9naThkT0pka0poYVpmbjl6Yzl1c3lXV1BGWVprSjJIcElDUzNZazIxajdqRDdKN01mSXBWT0tJNHVROWRnb3FGWFNqNVpFTGVWVGRsSnlWWlhTcEFiOTVuUlRsY0ZpT1RETk1YZXB3VVducVBTQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a97879828cdf",
+      "title": "10歲孩高燒3天冒紅疹「摸起來像砂紙」　醫：這不是腸病毒 - ETtoday健康雲",
+      "published": "2026-07-15T01:54:00+00:00",
+      "summary": "10歲孩高燒3天冒紅疹「摸起來像砂紙」 醫：這不是腸病毒&nbsp;&nbsp;ETtoday健康雲",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tMHNDTmMxY3BaRWpFUlNWcTRPVkN1dGNmUjZzYm5yajlBOHNHbjVWbGdTSGRyMWtWUkRUQlcwck5pX0F0bzV6S3RPVmc4WnlM0gFsQVVfeXFMT0U5U1UwSlFjM3RsQldsd1h6YWJJbThGcW1ONEc3cExZTVRaSnVZbzI3cDVSdjlFVDJacVRkaEdxOVJLdV9pSUY2SThaR1N2aHFVUFBjUUtyV0t4TmJJb01TR3diQ3JvRzA3dU9p?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7396f1130743",
+      "title": "不是走萬步！研究揭「最佳護腦步數」 延緩大腦退化3年 - 三立新聞",
+      "published": "2026-07-14T10:40:28+00:00",
+      "summary": "不是走萬步！研究揭「最佳護腦步數」 延緩大腦退化3年&nbsp;&nbsp;三立新聞健康網》睡覺幫大腦清垃圾還不夠！醫曝每天這步數 延緩腦退化逾3年&nbsp;&nbsp;自由健康網名嘴自曝記憶下滑 連醫師爸也認證恐失智！土城醫院推1運動增5倍抗失智因子&nbsp;&nbsp;Yahoo新聞防失智有「黃金步數」 飯後走還穩血糖- 健康&nbsp;&nbsp;中時新聞網步伐快 80歲後腦力更能維持？研究揭關聯&nbsp;&nbsp;Taiwan News",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aeFlCYW9abzlWTE8xdTkxOGhvbUhHcTg2TnhTUXNzVVhLUW52VjRlZU9xdldVdTJ2SU9faXZGMUwxVVpNclZ4dl9IS3I?oc=5"
         }
       ]
     },
@@ -40,14 +88,14 @@
       ]
     },
     {
-      "id": "369ec320a356",
-      "title": "蛤蜊補B12超強！這5類人最該補醫曝：數值莫名飆高恐是癌症警訊- 營養好食 - TVBS 健康2.0",
-      "published": "2026-07-14T07:30:00+00:00",
-      "summary": "蛤蜊補B12超強！這5類人最該補醫曝：數值莫名飆高恐是癌症警訊- 營養好食&nbsp;&nbsp;TVBS 健康2.0",
+      "id": "11415667544e",
+      "title": "從治療邁向預防！羅氏(RHHBY.US)啓動阿爾茨海默病Brainshuttle療法臨牀試驗 作者 智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
+      "published": "2026-07-15T04:18:45+00:00",
+      "summary": "從治療邁向預防！羅氏(RHHBY.US)啓動阿爾茨海默病Brainshuttle療法臨牀試驗 作者 智通財經&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞記憶衰退前已有警訊 美研究揭阿茲海默症或先令執行力受損&nbsp;&nbsp;自由健康網阿茲海默發病前20年就現蹤?新研究：大腦「這年紀」 開始變化&nbsp;&nbsp;MSN阿茲海默症可能找錯病因- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網阿茲海默失智新藥開發重新啟航&nbsp;&nbsp;環球生技月刊",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNMmkyay1ZbHZqLUgzRjJ5eGdiZGRHZEd0MUJJc2dTNzNxdl9yV24yNDg4X0VfZkYxNjlyeVhlWmJLSTQ5a0o2MWZUMlY0NzZxVEdvOWtn?oc=5"
+          "name": "Investing.com 香港 - 股市報價& 財經新聞",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93NTJ1Y3pWZV95SUlZQ0FzUnZocEZMbnFXRTd0aWVQNVk5YXFNNEpUMkU0YkkwSkJKTnpUV05Zd1d4eWlBY2NLMFZtZFdIV2lnRTIweGkzTG5MWXZMZUxXc01lNWdjUUZPeTVGMzdja1g?oc=5"
         }
       ]
     },
@@ -64,38 +112,14 @@
       ]
     },
     {
-      "id": "7e1f4e64ab4e",
-      "title": "健康網》筋膜槍按摩眼球 危險！醫：傷害甚鉅 - 自由健康網",
-      "published": "2026-07-13T01:12:00+00:00",
-      "summary": "健康網》筋膜槍按摩眼球 危險！醫：傷害甚鉅&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvamtGbjJucnNoeXNiWFB4WWFjcmc3X2NWVlpYc2h0aTNRTkdoR0YxRWVHOW1TV1VZTWZrcTR6ajNIczVVekRPaWJ0dE0yaGFqUlNnR1pLR3RSNG5UVDZaazlORDjSAWpBVV95cUxPNWZrN05PbUhvdW8zTnZKVXZfbFVIOHRWaXBLUEdaTE1TdDFnTWFQMGpLM2UwTGFoaFM4a1MyTDVnQ1BhRi1tOW41WmRldXJmVDJJUGV6bE91R3d6VnQxU0N3cXY3VlRfOVV3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "91abc16923a7",
       "title": "「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健 - Yahoo新聞",
       "published": "2026-07-13T21:28:23+00:00",
-      "summary": "「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健&nbsp;&nbsp;Yahoo新聞聞不到味道別放棄！醫：每天3分鐘鼻子運動 找回嗅覺&nbsp;&nbsp;自由健康網擺脫嗅覺障礙，幫鼻子做復健運動！嗅覺訓練助恢復嗅覺，該怎麼做？ - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞染疫「嗅覺喪失」可復健 醫揭4氣味訓練法助神經再生&nbsp;&nbsp;health.ettoday.net聞不到味道別放棄 醫授每天3分鐘「嗅覺復健」助恢復&nbsp;&nbsp;自由健康網",
+      "summary": "「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健&nbsp;&nbsp;Yahoo新聞聞不到味道別放棄！醫：每天3分鐘鼻子運動 找回嗅覺&nbsp;&nbsp;自由健康網擺脫嗅覺障礙，幫鼻子做復健運動！嗅覺訓練助恢復嗅覺，該怎麼做？ - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞染疫「嗅覺喪失」可復健 醫揭4氣味訓練法助神經再生&nbsp;&nbsp;ETtoday健康雲聞不到味道別放棄 醫授每天3分鐘「嗅覺復健」助恢復&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQLXJURXozZzlYRVlVcklVZGdCVExmcDRoQk10bFJHMjNBaHJtdHdiLWY5NXBZWTZ4N19YblppYkZHdHhBRGNTS3hjSmNjRkRVZno2S1dtUksybjhIZkdfYUtOTDdWb21IRDlzN1h0WHpjM2VDSzBUeXRLcTJwVVRuNlJrYnFJa1pzUDdxcVN0Q0lLakFfTThQcTlqT3Q2QVpqeFVjckxQaF9POHBSVHVKTWc2NnE0TVdCSkE4RnRhOXpZeEdkM255cXZmNnA1T0VqY3hYVjZYTWhKMU9qcUVxMjBFSE5RWTdMTTFmenFsYjIzcFRwbGo1OHhwMFR6aGNpeERzcTZRVmhFQWZab2JSQ3JtR3RWTzVUa2MxNGlvdjhBSXNZM0xWSWdpNUU5cmM1cFlSaTJUM3JrVnFFTTJSRXRpbkdoMHFwOXV6WGE0UHJlWnQ1MmJySW9fNDJSRW5Mb1J1UkV2Tjk3RjN4U2pvSFdTby1KRjBJcWsyTEpGT2JDMjE4QjM5SW4yOUtnYk5aUmFjR1RFRFZiTVMzb2h2MzV2eGI2cURz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b48759b4240e",
-      "title": "記憶衰退前已有警訊 美研究揭阿茲海默症或先令執行力受損 - 自由健康網",
-      "published": "2026-07-13T05:53:00+00:00",
-      "summary": "記憶衰退前已有警訊 美研究揭阿茲海默症或先令執行力受損&nbsp;&nbsp;自由健康網阿茲海默發病前20年就現蹤?新研究：大腦「這年紀」 開始變化&nbsp;&nbsp;MSN阿茲海默症可能找錯病因- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網阿茲海默失智新藥開發重新啟航&nbsp;&nbsp;環球生技月刊不是單純老了才健忘！阿茲海默症新研究：腦細胞內部可能早已開始「交通大亂」&nbsp;&nbsp;udn 女子漾",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KNFFVYXdxQnBLRjFPRk5WUmdObW95cFMxY09adEVaci1mYTFOX1k0SlFESDFzOXdUdEtYZS10WGs1SURnVnFTUUdVUnBWcGEyaXo5eVEwc2w0YlRsQmJfU3lVdUfSAWpBVV95cUxNYmppYms4LWhMS3VEQXBDNGpGYTdYVWp5eUVueGoycWIxbFkzRWtBTTR1MnVFeDJweVplcGFwazI3OHJfZGJiZHYwMDViQ0tya0ZYbFJ0MkFZaTNfVkl5bEw4MFlVbFY1WXJn?oc=5"
         }
       ]
     },
@@ -160,13 +184,25 @@
       ]
     },
     {
-      "id": "e04b46b78c25",
-      "title": "《我的王室死對頭》林智妍36歲仍維持48kg身形 公開5 大消水腫瘦身習慣 - 巴士的報",
-      "published": "2026-07-14T23:00:06+00:00",
-      "summary": "《我的王室死對頭》林智妍36歲仍維持48kg身形 公開5 大消水腫瘦身習慣&nbsp;&nbsp;巴士的報",
+      "id": "4fe3f0de1bcb",
+      "title": "非洲新瘧疾疫苗見效 惟四劑接種率成考驗 - bastillepost.com",
+      "published": "2026-07-15T01:17:28+00:00",
+      "summary": "非洲新瘧疾疫苗見效 惟四劑接種率成考驗&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNeGZxcnF4dE9LNGNtY3d6aGR3UXplZlkwOHAyUnBvZVlhYWxFRGlaT3BWdXFaMEVXaDVtU09BSFBDX2ZPSGw0SWpDQlFNLVEtZUY0Q1NrV1ROc1pQcXd5T01PSmhqaE1UX0tRREdkaFVhc3c5eFZJaXVDeF91bUttOXBiYkJQWXlRQnlOR0ZOOVB2UmxnRWxDU0s2TGhUVnFtdkgxVzVuMkVMc2JoVVFuUkIwOTR4b2tkY2ZpdVFKWHVJUnJUOUNXR0x1WGQxWmcwb3FMS1haQXl5d1FObEUyZWtPTWtIYTdZWl9fWWdEOWFXblc4WjdDSWUxSUVtblR0eVd6ZUZRaUZ4cXJxdERSWnhNSldyejlTNEtTa3VHVl9idHdpZlJyWHhuVmZjSEZKc3RDTE50SUZYNFRmRU5Z?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "56ac9dcdd6ab",
+      "title": "《我的王室死對頭》林智妍36歲仍維持48kg身形 公開5 大消水腫瘦身習慣 - bastillepost.com",
+      "published": "2026-07-14T23:00:06+00:00",
+      "summary": "《我的王室死對頭》林智妍36歲仍維持48kg身形 公開5 大消水腫瘦身習慣&nbsp;&nbsp;bastillepost.com",
+      "sources": [
+        {
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPV1p6eXBaOGpEVUcwV0xpemF4aHV3Q3l6ZTdVZDNSM1hwaWZWU2JnU3FncWN0TFBnMjJkdDZQR0JHSVRkZHNGMnNsbWkzcmhUQVdGUnRRV2U2NHdMbVNZNjZPeDNwT1dzYnFzUUhHSFZiN3UzbnJJNkxZMUhuclBkbGdwa1NRUERCUWs4WGk3VllPTlF4X254NU82TUs0YzJpalpZQlhyMUtiTGZtTF80RWxod2NBNUdWel9PaFNfT3Bva2l4RnJBb0VqZnM5enhBNHdfN2ZGTGE2dmN3Vnd3aDVZTi1QRDh0cUI0bVlKZ1AxTXlhd0dCX0VLS0tIMWpJdGo3d29tTG9FSXBvZkV5Z3h2STlOekZqNEZsVURvam5qdGRyb1gxMXpjQTNMamN2QnhodGxOMnNuajVNRklIS3JRbHFTMGlJb0otVW96QW9naUFfRGtONk1hd0hBUWdxdVVwUk5tMTZUWjBY?oc=5"
         }
       ]
@@ -180,6 +216,18 @@
         {
           "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mVGVBRW5VbXg5NDh3ZG5FQkNCdUNoRGNoTVJFYTlSeTN2cHlqMDFvdkhIam1GUmt3ak4xRVlwUUZqUzlVY0ZvdGEzN3B4MHltbnVLVkNtZXNpNXN4My04TdIBZkFVX3lxTE9fZURXeXdfYXlQTFZlTHN4NTcyUXl2UjFROTNPQlA0Z0NDMFhxNGlXUUJjRUtlTGFQREVBenh5WXF1YWs4cVRkWVRTTUhqQzVPOG5ES2I4SzlfZU5XMnJRT3h1QkV2Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ddca3d2efb1a",
+      "title": "美國人真的都用洗碗機嗎？ 調查數據出爐 - 大纪元",
+      "published": "2026-07-14T13:15:46+00:00",
+      "summary": "美國人真的都用洗碗機嗎？ 調查數據出爐&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwcC1TTmkzbEIybWJXLVVIbE9hNzZvM1YwZ0tSbE8zZXNBX0l1TlJ3Z0RRMHczNjJZQmJ6UVBpZkdSN2NHWE1OcWozaGtmeEVCZnFCM1hTY0l4RzRtVzNkcdIBZkFVX3lxTE0xbE03Mk1OT1JEUFJoTlBrdHk5LUlwOGNDYVhRMHNYLTdpblpoSGY4VkNuMkVvVXJpY0I5aF94emZxbVNabnlEdU1qQkhPMS1xekQ3ajBNcWFyRWpSVVFqRUY2eTR3UQ?oc=5"
         }
       ]
     },
@@ -216,18 +264,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMi_gRBVV95cUxPTmhnUEVGLUpTRmlULWp0RFlSNnFSalZjZ0l1dHpfVEhJWGp6MkI5RExYMnowXzFHRjlQR055c1FDb2llREc4aklkNXozT0d6bUVOaGcxMDdaWW5jMEY0dDh2MnZfVTJmMnBKaTFUamlyX2M4cTVybFB6REVQdDNUWDFvT1ZsSWNBa1FqTkRMRmhVSjJVM2RYZVdOSVhLaFR1OEJjRTJSRmIwT2paQjQ1M3N6WHVFUFNsd1J6TUZBMXlMQ3dlXzdzTFl5NVotVEkzSkFxSzd2RHVBS3otZHFjdFctSzlhc1RoTXJ3VndSb21LcVoxQTVEZGhQcDVGQ1h3MDhGOFFWb1RNd3dCS0U0QmY1NHFpZ3NEcHVCWVY1LUEwdjRpNlZSWC11LTlRZFFiQXNvcmhtd1J4NWtfQjVrVG12TmhUN0x6Nldia21BMmJRYWwwaUNXUjZWNElJam55RU84UVNib2tBclZncHdNQXdCUzBNVlRQZXU5MnBzbE5iamQxdzhtMjUwQ1JmN0RYQTJuemM0T1BPSE1JU3VYVjdHcnJ5VnBOcHZ5c2liOWhjQXUtQ3hnWnd1cGNvcnJWUVMyeS1ySkQ4WGpwUVBDM29idDBJZEhEaXkzbjdTUlo3RHEyRGdkS0k1M3VEQzRwU0NXcGdyNE11Uy05aHZ6Z0ZubWtDYUFYZWxGTzdVc3hJeFBfUlEtOExaaGl2cUE1aHlHQXJQb25Fd2E0RGxubVBjN3hCY0UteXhZOHNIQ3RFbGhPWElxYTVadk5PMUNqSDNqUDFhWWhtZDg3aGZ3MS0wNmtwSDJLZzlPVXdWWHpQRnNObVB1M0hHVy1CZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ebc8633196e5",
-      "title": "高雄人照過來！到哪打公費流感疫苗這個APP能告訴你| 生活 - 三立新聞",
-      "published": "2026-07-13T02:58:16+00:00",
-      "summary": "高雄人照過來！到哪打公費流感疫苗這個APP能告訴你| 生活&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kSHFDODFRZjNhZWtkQXFvSmRrdFhIRnFzemt6Nk10RlNwcVhDSlA3RExYaWxueGZkRmVVMU91OEVnZmc4Vkhz?oc=5"
         }
       ]
     }

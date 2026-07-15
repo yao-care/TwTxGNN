@@ -3,7 +3,7 @@ layout: default
 title: "阿茲海默症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "阿茲海默症（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "阿茲海默症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="阿茲海默症（dementia） 有什麼相關新聞？">
-<strong>阿茲海默症（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>阿茲海默症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [記憶衰退前已有警訊 美研究揭阿茲海默症或先令執行力受損](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KNFFVYXdxQnBLRjFPRk5WUmdObW95cFMxY09adEVaci1mYTFOX1k0SlFESDFzOXdUdEtYZS10WGs1SURnVnFTUUdVUnBWcGEyaXo5eVEwc2w0YlRsQmJfU3lVdUfSAWpBVV95cUxNYmppYms4LWhMS3VEQXBDNGpGYTdYVWp5eUVueGoycWIxbFkzRWtBTTR1MnVFeDJweVplcGFwazI3OHJfZGJiZHYwMDViQ0tya0ZYbFJ0MkFZaTNfVkl5bEw4MFlVbFY1WXJn?oc=5)
+### [從治療邁向預防！羅氏(RHHBY.US)啓動阿爾茨海默病Brainshuttle療法臨牀試驗 作者 智通財經 - Investing.com 香港 - 股市報價& 財經新聞](https://news.google.com/rss/articles/CBMicEFVX3lxTE93NTJ1Y3pWZV95SUlZQ0FzUnZocEZMbnFXRTd0aWVQNVk5YXFNNEpUMkU0YkkwSkJKTnpUV05Zd1d4eWlBY2NLMFZtZFdIV2lnRTIweGkzTG5MWXZMZUxXc01lNWdjUUZPeTVGMzdja1g?oc=5)
 
-2026-07-13
+2026-07-15
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KNFFVYXdxQnBLRjFPRk5WUmdObW95cFMxY09adEVaci1mYTFOX1k0SlFESDFzOXdUdEtYZS10WGs1SURnVnFTUUdVUnBWcGEyaXo5eVEwc2w0YlRsQmJfU3lVdUfSAWpBVV95cUxNYmppYms4LWhMS3VEQXBDNGpGYTdYVWp5eUVueGoycWIxbFkzRWtBTTR1MnVFeDJweVplcGFwazI3OHJfZGJiZHYwMDViQ0tya0ZYbFJ0MkFZaTNfVkl5bEw4MFlVbFY1WXJn?oc=5)
+來源：[Investing.com 香港 - 股市報價& 財經新聞](https://news.google.com/rss/articles/CBMicEFVX3lxTE93NTJ1Y3pWZV95SUlZQ0FzUnZocEZMbnFXRTd0aWVQNVk5YXFNNEpUMkU0YkkwSkJKTnpUV05Zd1d4eWlBY2NLMFZtZFdIV2lnRTIweGkzTG5MWXZMZUxXc01lNWdjUUZPeTVGMzdja1g?oc=5)
+
+---
+
+### [不是走萬步！研究揭「最佳護腦步數」 延緩大腦退化3年](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aeFlCYW9abzlWTE8xdTkxOGhvbUhHcTg2TnhTUXNzVVhLUW52VjRlZU9xdldVdTJ2SU9faXZGMUwxVVpNclZ4dl9IS3I?oc=5)
+
+2026-07-14
+
+來源：[三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aeFlCYW9abzlWTE8xdTkxOGhvbUhHcTg2TnhTUXNzVVhLUW52VjRlZU9xdldVdTJ2SU9faXZGMUwxVVpNclZ4dl9IS3I?oc=5)
 
 ---
 
