@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-15T07:07:04.517560+00:00",
-  "count": 7,
+  "generated": "2026-07-15T09:51:42.153567+00:00",
+  "count": 6,
   "news": [
     {
       "id": "11415667544e",
@@ -472,30 +472,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f678880a184b",
-      "title": "無性行為尿道卻長滿「菜花」！泌尿科醫示警：恐是免疫防線崩潰警訊 | CTWANT - LINE TODAY",
-      "published": "2026-07-14T04:00:25+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GUTF5UUhQS0I4eW1aZm9MRjhsZkJnXzF1MWhtSGZZRVRpaTBXYTg2MmQtblloSnFLOWlnbEhfS1VieWE1Q0NnMFBmYlllbHJ3U0xpTllB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "濕疹",
-          "keyword": "濕疹",
-          "related_drugs": [
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
             }
           ]
         }
