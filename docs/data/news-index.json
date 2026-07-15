@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-15T04:42:02.709953+00:00",
-  "count": 8,
+  "generated": "2026-07-15T07:07:04.517560+00:00",
+  "count": 7,
   "news": [
     {
       "id": "11415667544e",
@@ -478,60 +478,13 @@
       ]
     },
     {
-      "id": "bec30a8c90b1",
-      "title": "大腸直腸癌患者福音！默克標靶藥Erbitux獲歐盟雙重批准",
-      "published": "2026-07-14T09:54:33+00:00",
+      "id": "f678880a184b",
+      "title": "無性行為尿道卻長滿「菜花」！泌尿科醫示警：恐是免疫防線崩潰警訊 | CTWANT - LINE TODAY",
+      "published": "2026-07-14T04:00:25+00:00",
       "sources": [
         {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Ca1BEc1lkODJSY1JwbFlUUDhQVXF3MHhtajRYTlJ4bVh5MWI5WlZmRWtZS09KWXFOQXh3MWxQeFAwakRnbTFFMFZ3eDFkMlNSMFRuT1FtZkw3ejBsNVI4OQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "直腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b26bfb409256",
-      "title": "尿道長滿菜花不是最可怕！ 醫示警「1狀況」：免疫系統恐已全面失守",
-      "published": "2026-07-14T07:03:00+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPYmxTSktEU0I5Zy1tU040UUZYbFY4Y0tQc09aUUFDUDM5Q2VZREdiYTFRZHVoVjVXcXl2b0o1Y2xxaGlsWkh1V3FkeGxOSUlCQk5OcGxudGk1TWJ3VkU0NEMxbGo4aDl5RFF3c0wtdHJZanFUNGRpSmYzRGQ2ZFYyV3lzc2g2eVlsRjhZMDZLZHhabzNtaVdQbmNPa0tRR1pJRnBGOHFGYW9mWDdoWXNCQjBkYmdlN3N1cG10MFhRZXBicmlTUkVteXF4Uk1vYThiODlpTk84aGFHUVFPWC1ONGhWMzBCS0I5ZVNOUnhkcXFmWlp1aktZUllMSWsxamxFLUtjakkxb3E2MFZ1allnaGp0X2VaT085NTVydU1PR0ZUWXcwbU9Cd1ktaFZrYTFtMkZqdldQZk1hNmljeDJRLUstV3k1VFNCbGJiMWE1cGl5S29DTFZqMjl4ZWFWWDVHa0VZSlB3d0I0cTRTY2ptMUU1TjJzY1VTY2h5eWZ3UWhreTA5?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GUTF5UUhQS0I4eW1aZm9MRjhsZkJnXzF1MWhtSGZZRVRpaTBXYTg2MmQtblloSnFLOWlnbEhfS1VieWE1Q0NnMFBmYlllbHJ3U0xpTllB?oc=5"
         }
       ],
       "keywords": [

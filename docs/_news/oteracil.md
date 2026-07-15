@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/oteracil/
 <li><strong>原適應症</strong>：胃癌用藥。</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">colonic neoplasm（100.0%）<span class="indication-tag">📰 直腸癌</span></li>
+<li>colonic neoplasm（100.0%）</li>
 <li>cecum villous adenoma（100.0%）</li>
 <li>cecum neuroendocrine tumor G1（100.0%）</li>
 <li>lipoma of colon（100.0%）</li>
@@ -42,7 +42,7 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [B12越補越危險？33萬人研究發現癌症風險高6倍，醫揭真相：恐是身體警訊](https://news.google.com/rss/articles/CBMiowNBVV95cUxQN0drSndmZk40VjBsSkNyMHR5YW9OQlpvTnFWeVRUVWZTVTktVVQtc3RTb2luaTJPcWk2ZXlZVjUzNmpmaWhvNVotNXIxVldxcnprM0J4WDJ4NmQ0a3VZbnN3UWFRd3NxOURKRUN0RG1RSzZOM1M2SzZJdEpEVmxFZU5sQW81YmlHWFlzWjhHcE1mR0phbU5NQmRjbUp3enRYN1c3T1dXTjVHRjJTa0V0cnJaRUhsdzRyenVpem1lMHVhMWd1WmZXM0ZjRG94R2l0WkNXM1A5Q1YtT0pQaGNWajk4V243Tk81ZjNQd3cya2VENHpRTnFSeUNJVkQzUXVJY2tYSGlpcFk2SUxlRkFnWE8wTlhvY1IzcHIxcjhQNWJiVFFwT0JFQkVfV1k5R3IwMEhxR25URm9XMzBJeWQ1bUZsWGtPcS1kaUNRS2ZFcGJkdmIwSGowWERLb3UwV2ZZVmtSYnFxVHpwTktuXzAxd3RIVkVUQW9hMFVZWVZZdnE5cnJ6YkN6LW1uYUE1SXhvRXF0Y08zR2c1UWRkamRzYnVVWQ?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/oteracil/
 2026-07-14 <span class="news-indication-tag">癌症</span>
 
 來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IRVNlQ3ZOV08wc1FxY3hSRDFudU4tclYzTm9CNTZfN25YcDJ1eHotVlJNV19SS2t0eHJ3UmpCeWNWS2ptVkpzVzdGR2VVZFgwOWc?oc=5)
-
----
-
-### [大腸直腸癌患者福音！默克標靶藥Erbitux獲歐盟雙重批准](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Ca1BEc1lkODJSY1JwbFlUUDhQVXF3MHhtajRYTlJ4bVh5MWI5WlZmRWtZS09KWXFOQXh3MWxQeFAwakRnbTFFMFZ3eDFkMlNSMFRuT1FtZkw3ejBsNVI4OQ?oc=5)
-
-2026-07-14 <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Ca1BEc1lkODJSY1JwbFlUUDhQVXF3MHhtajRYTlJ4bVh5MWI5WlZmRWtZS09KWXFOQXh3MWxQeFAwakRnbTFFMFZ3eDFkMlNSMFRuT1FtZkw3ejBsNVI4OQ?oc=5)
 
 ---
 
