@@ -14,7 +14,7 @@ permalink: /news/salicylic_acid/
 ---
 
 <p class="key-answer" data-question="Salicylic acid 有什麼相關新聞？">
-<strong>Salicylic acid</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylic acid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/salicylic_acid/
 <p><a href="{{ '/drugs/salicylic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [喉糖推薦︱消委會評測41款喉糖7成無藥效！11款獲認證可殺菌藥用喉糖名單拆解必理痛／EVE 8大成藥功效禁忌](https://news.google.com/rss/articles/CBMi_gRBVV95cUxPTmhnUEVGLUpTRmlULWp0RFlSNnFSalZjZ0l1dHpfVEhJWGp6MkI5RExYMnowXzFHRjlQR055c1FDb2llREc4aklkNXozT0d6bUVOaGcxMDdaWW5jMEY0dDh2MnZfVTJmMnBKaTFUamlyX2M4cTVybFB6REVQdDNUWDFvT1ZsSWNBa1FqTkRMRmhVSjJVM2RYZVdOSVhLaFR1OEJjRTJSRmIwT2paQjQ1M3N6WHVFUFNsd1J6TUZBMXlMQ3dlXzdzTFl5NVotVEkzSkFxSzd2RHVBS3otZHFjdFctSzlhc1RoTXJ3VndSb21LcVoxQTVEZGhQcDVGQ1h3MDhGOFFWb1RNd3dCS0U0QmY1NHFpZ3NEcHVCWVY1LUEwdjRpNlZSWC11LTlRZFFiQXNvcmhtd1J4NWtfQjVrVG12TmhUN0x6Nldia21BMmJRYWwwaUNXUjZWNElJam55RU84UVNib2tBclZncHdNQXdCUzBNVlRQZXU5MnBzbE5iamQxdzhtMjUwQ1JmN0RYQTJuemM0T1BPSE1JU3VYVjdHcnJ5VnBOcHZ5c2liOWhjQXUtQ3hnWnd1cGNvcnJWUVMyeS1ySkQ4WGpwUVBDM29idDBJZEhEaXkzbjdTUlo3RHEyRGdkS0k1M3VEQzRwU0NXcGdyNE11Uy05aHZ6Z0ZubWtDYUFYZWxGTzdVc3hJeFBfUlEtOExaaGl2cUE1aHlHQXJQb25Fd2E0RGxubVBjN3hCY0UteXhZOHNIQ3RFbGhPWElxYTVadk5PMUNqSDNqUDFhWWhtZDg3aGZ3MS0wNmtwSDJLZzlPVXdWWHpQRnNObVB1M0hHVy1CZw?oc=5)
-
-2026-07-13 <span class="news-indication-tag">殺菌</span>
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMi_gRBVV95cUxPTmhnUEVGLUpTRmlULWp0RFlSNnFSalZjZ0l1dHpfVEhJWGp6MkI5RExYMnowXzFHRjlQR055c1FDb2llREc4aklkNXozT0d6bUVOaGcxMDdaWW5jMEY0dDh2MnZfVTJmMnBKaTFUamlyX2M4cTVybFB6REVQdDNUWDFvT1ZsSWNBa1FqTkRMRmhVSjJVM2RYZVdOSVhLaFR1OEJjRTJSRmIwT2paQjQ1M3N6WHVFUFNsd1J6TUZBMXlMQ3dlXzdzTFl5NVotVEkzSkFxSzd2RHVBS3otZHFjdFctSzlhc1RoTXJ3VndSb21LcVoxQTVEZGhQcDVGQ1h3MDhGOFFWb1RNd3dCS0U0QmY1NHFpZ3NEcHVCWVY1LUEwdjRpNlZSWC11LTlRZFFiQXNvcmhtd1J4NWtfQjVrVG12TmhUN0x6Nldia21BMmJRYWwwaUNXUjZWNElJam55RU84UVNib2tBclZncHdNQXdCUzBNVlRQZXU5MnBzbE5iamQxdzhtMjUwQ1JmN0RYQTJuemM0T1BPSE1JU3VYVjdHcnJ5VnBOcHZ5c2liOWhjQXUtQ3hnWnd1cGNvcnJWUVMyeS1ySkQ4WGpwUVBDM29idDBJZEhEaXkzbjdTUlo3RHEyRGdkS0k1M3VEQzRwU0NXcGdyNE11Uy05aHZ6Z0ZubWtDYUFYZWxGTzdVc3hJeFBfUlEtOExaaGl2cUE1aHlHQXJQb25Fd2E0RGxubVBjN3hCY0UteXhZOHNIQ3RFbGhPWElxYTVadk5PMUNqSDNqUDFhWWhtZDg3aGZ3MS0wNmtwSDJLZzlPVXdWWHpQRnNObVB1M0hHVy1CZw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

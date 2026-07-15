@@ -1,8 +1,33 @@
 {
-  "last_updated": "2026-07-15T09:51:42.122234+00:00",
+  "last_updated": "2026-07-15T11:22:25.639171+00:00",
   "total_count": 23,
-  "matched_count": 6,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "1cf104225d60",
+      "title": "規律運動可讓大腦逆齡0.6歲！腦神經科醫師：每周150分鐘中等運動，還能防止失智",
+      "published": "2026-07-15T10:39:27+00:00",
+      "summary": "規律運動可讓大腦逆齡0.6歲！腦神經科醫師：每周150分鐘中等運動，還能防止失智&nbsp;&nbsp;ELLE健康網》睡覺幫大腦清垃圾還不夠！醫曝每天這步數 延緩腦退化逾3年&nbsp;&nbsp;自由健康網名嘴自曝記憶下滑 連醫師爸也認證恐失智！土城醫院推1運動增5倍抗失智因子&nbsp;&nbsp;Yahoo新聞不是走萬步！研究揭「最佳護腦步數」 延緩大腦退化3年&nbsp;&nbsp;三立新聞打瘦瘦筆竟能「預防失智」？ 百萬糖友研究：semaglutide降阿茲海默風險最高7成，醫揭關鍵機制&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "ELLE",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGFCcmN0bTZVMllqU3llLUJkTnhHTGNIaGFDeWZJQ25LaXpJenUtNy1GZnMzUzlnZWI5bVpDRTI0dGNRcWdSWkxLVV9MME81dGNjUjN1ZVAzWGJvbW1RbGRsVUtDdHNGRUV1aExwT2tJQkdxWVZiaGVRUXpoQ2c2YWhwMFBOWWg0S051MQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "157308a9156b",
       "title": "Coffee餵8個月大女兒奇異果共用匙羹引「衛生爭議」 醫生列成人口腔6大病毒嚴重可致腦膜炎| 生活熱話",
@@ -12,6 +37,19 @@
         {
           "name": "Oh!爸媽",
           "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOczhaaXFVY19TMUo1dWtOLXFVN3VSalAyMDFGaEJlZVRONEFtbmpHZXdpaEd5dVc2Q25hYVFzR0VFWUptM1A2TnJKTnhIU3NWeFVOTEI3RW5FN1IwNWVTbWFOT2dySkEycW1yZmxsbFZLVmJ2MEV4UTl1UXhUX2dhWWZwNldZV1R0dnJ5Snl6OVllYldXT3dJRnY2aFdDbTZiT2JobFhtR1Bvc2NjMkktX25VdEo3b1psZ3pybHp5WUZPRWlnaWktbXNzNnM5TFB2c2t5UFRxOENMRG9HLXNVNmkyVGZsSFZIU005MnNEVW1jcko3N3ZhLWt6bUV1R2lJbE5WZmw5d3Zjc0g1RXJyS0x3bHBRVWxlb1BWekJoUzYwRlQ0YUdtWEw1TFVRNlZlQXkwMkpKWVRKUEJMLW5PeDRaSWNTSTBQZzlSLWluREFaTEl6SVAwWmhuajdKX1laZG9Lb3BtUEdWaTFodHB3TzVIQVVxcnRiX2luaWFKVjFLVkJEelBHZ2xFc0JwZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "87bf8b5a1de1",
+      "title": "雄性禿藏意外好處　研究揭30歲前掉髮男「攝護腺癌風險降3成」 | 國際 | CTWANT",
+      "published": "2026-07-15T07:01:06+00:00",
+      "summary": "雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」 | 國際 | CTWANT&nbsp;&nbsp;CTWANT",
+      "sources": [
+        {
+          "name": "CTWANT",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIN2Y5b2R5Q2d2U3BqYkZVSnZDcWZiZzF2c2JHMERiY0hmTWxQWFNGZk1rdmhlX0RSQy1fdmhpaHIzZC1fSFdfM0MxcEVmRjjSAVRBVV95cUxNazFCM0kzNnREYUhMT1V3bEhhb181VlZBZ3ZHWG5IRWpxOWRneGgwX05HVFJCc1F5WTZkTGtoamRzZVotRndaai1mN0Vxa2lQTTYxUEc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -288,14 +326,27 @@
       "matched_keywords": []
     },
     {
-      "id": "ec8a5e380750",
+      "id": "4fe3f0de1bcb",
       "title": "非洲新瘧疾疫苗見效 惟四劑接種率成考驗",
       "published": "2026-07-15T01:17:28+00:00",
-      "summary": "非洲新瘧疾疫苗見效 惟四劑接種率成考驗&nbsp;&nbsp;巴士的報",
+      "summary": "非洲新瘧疾疫苗見效 惟四劑接種率成考驗&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNeGZxcnF4dE9LNGNtY3d6aGR3UXplZlkwOHAyUnBvZVlhYWxFRGlaT3BWdXFaMEVXaDVtU09BSFBDX2ZPSGw0SWpDQlFNLVEtZUY0Q1NrV1ROc1pQcXd5T01PSmhqaE1UX0tRREdkaFVhc3c5eFZJaXVDeF91bUttOXBiYkJQWXlRQnlOR0ZOOVB2UmxnRWxDU0s2TGhUVnFtdkgxVzVuMkVMc2JoVVFuUkIwOTR4b2tkY2ZpdVFKWHVJUnJUOUNXR0x1WGQxWmcwb3FMS1haQXl5d1FObEUyZWtPTWtIYTdZWl9fWWdEOWFXblc4WjdDSWUxSUVtblR0eVd6ZUZRaUZ4cXJxdERSWnhNSldyejlTNEtTa3VHVl9idHdpZlJyWHhuVmZjSEZKc3RDTE50SUZYNFRmRU5Z?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "283ad462e344",
+      "title": "關節不適改善｜藥劑師推介3大關鍵成分全面提升關節健康｜1款強效護骨恩物逾百人認同服用5天有助減少骨痛¹",
+      "published": "2026-07-15T00:48:17+00:00",
+      "summary": "關節不適改善｜藥劑師推介3大關鍵成分全面提升關節健康｜1款強效護骨恩物逾百人認同服用5天有助減少骨痛¹&nbsp;&nbsp;healthyD",
+      "sources": [
+        {
+          "name": "healthyD",
+          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOWVh2STZIZmNRTGZJaHhXOHM2aVc1STk3WC1fYXo1M0FzRDJCcEFEYjRySGVRamEwWWRPUXF0R0Y0TURDdklGbFNTVFJoeEtZMEVPcGNnOGxiTllzS3RwLXFMLVhNRzhaLUw5MG9NbXVqeGlXWk9NMEZoTmlHdFFtUTdxWlB5Qjh2SklpTFAyM0FlM01EUjEtUUZ6X05SbnlRWERXNlF4UTdVVlV1ZVJCQlZFZXVPNm9GeEtCVlVGb3Y4eHJkdUhDRUZFc0JFTmFZQkl3VWY4OE1XclBsb0UxR3doQ2hZN1dDR3QzTXY4bF9DWHRWMC05QjJJLWZDZmx6TVBmX0FkZGRTcmt5XzNjMm1iMVYxV2lLR1JSbHU1NUN6VjBHWXRGdDJuYnlKWm5tUV93dEV0Z2tKaEdZU3hQVXFwdE5fZXhNcW9VZGh0VTViVk0?oc=5"
         }
       ],
       "matched_keywords": []
@@ -314,13 +365,13 @@
       "matched_keywords": []
     },
     {
-      "id": "e04b46b78c25",
+      "id": "56ac9dcdd6ab",
       "title": "《我的王室死對頭》林智妍36歲仍維持48kg身形 公開5 大消水腫瘦身習慣",
       "published": "2026-07-14T23:00:06+00:00",
-      "summary": "《我的王室死對頭》林智妍36歲仍維持48kg身形 公開5 大消水腫瘦身習慣&nbsp;&nbsp;巴士的報",
+      "summary": "《我的王室死對頭》林智妍36歲仍維持48kg身形 公開5 大消水腫瘦身習慣&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPV1p6eXBaOGpEVUcwV0xpemF4aHV3Q3l6ZTdVZDNSM1hwaWZWU2JnU3FncWN0TFBnMjJkdDZQR0JHSVRkZHNGMnNsbWkzcmhUQVdGUnRRV2U2NHdMbVNZNjZPeDNwT1dzYnFzUUhHSFZiN3UzbnJJNkxZMUhuclBkbGdwa1NRUERCUWs4WGk3VllPTlF4X254NU82TUs0YzJpalpZQlhyMUtiTGZtTF80RWxod2NBNUdWel9PaFNfT3Bva2l4RnJBb0VqZnM5enhBNHdfN2ZGTGE2dmN3Vnd3aDVZTi1QRDh0cUI0bVlKZ1AxTXlhd0dCX0VLS0tIMWpJdGo3d29tTG9FSXBvZkV5Z3h2STlOekZqNEZsVURvam5qdGRyb1gxMXpjQTNMamN2QnhodGxOMnNuajVNRklIS3JRbHFTMGlJb0otVW96QW9naUFfRGtONk1hd0hBUWdxdVVwUk5tMTZUWjBY?oc=5"
         }
       ],
@@ -575,31 +626,6 @@
       "matched_keywords": []
     },
     {
-      "id": "7396f1130743",
-      "title": "不是走萬步！研究揭「最佳護腦步數」 延緩大腦退化3年",
-      "published": "2026-07-14T10:40:28+00:00",
-      "summary": "不是走萬步！研究揭「最佳護腦步數」 延緩大腦退化3年&nbsp;&nbsp;三立新聞健康網》睡覺幫大腦清垃圾還不夠！醫曝每天這步數 延緩腦退化逾3年&nbsp;&nbsp;自由健康網名嘴自曝記憶下滑 連醫師爸也認證恐失智！土城醫院推1運動增5倍抗失智因子&nbsp;&nbsp;Yahoo新聞防失智有「黃金步數」 飯後走還穩血糖- 健康&nbsp;&nbsp;中時新聞網步伐快 80歲後腦力更能維持？研究揭關聯&nbsp;&nbsp;Taiwan News",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aeFlCYW9abzlWTE8xdTkxOGhvbUhHcTg2TnhTUXNzVVhLUW52VjRlZU9xdldVdTJ2SU9faXZGMUwxVVpNclZ4dl9IS3I?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "408d8bde9194",
       "title": "痾屎好爽有科學根據？拆解排便愉悅之謎附5招維持腸道健康| 事事如意生活網站",
       "published": "2026-07-14T10:00:27+00:00",
@@ -608,19 +634,6 @@
         {
           "name": "CCUE.ca",
           "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQOVBLdzFkQnUyZUhYOURoUUQyem5nckE5cF9QanNrSm1KUmNJakwzbDhXYWQ4MzI2cUNaVnVWcDE2UkFmTU9BT2R1WWpfNWxJWHFROEZWenZfNkpiM05kdmdvQjc2Skw2ZXluTTNDeWR5Vk1KVlZ5a2djZnJWU0tSUUwzVWdsU0xPcVI2SnVOT0NrUUJnRlNvTjl2TzgzMVUxUjlnYUJYbVdfUXAyQTlwWlBfdEpCRGtpa3I1MmIzWWhCdTZhX3ZUa1dSNkQtQUp0YXBLSW9JN2hzWWNsczRveHY1QnNVU29FcGVEbVFMUF9yNmZQanlvVlZkc1dQanFWWHJsRVdCeDMtNWc3YVFaSFFMbnBGa0pZRVo4TU9feDZmanRtbXk1bXdpNlFUU2FkQVoxRi10b0tGblhZSTJlSlZoX2V3MmZoTEJQcU1oakttbFA5S0ZBVzBmMTA0cEhO?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b4150abc98df",
-      "title": "尿道長滿菜花不是最可怕！　醫示警「1狀況」：免疫系統恐已全面失守 - 鏡週刊Mirror Media",
-      "published": "2026-07-14T07:03:00+00:00",
-      "summary": "尿道長滿菜花不是最可怕！ 醫示警「1狀況」：免疫系統恐已全面失守&nbsp;&nbsp;鏡週刊Mirror Media健康網》年長者陰莖突冒菜花！醫：免疫下降潛伏病毒發作&nbsp;&nbsp;自由健康網老了才發現梅毒？免疫力下降讓性病全爆發&nbsp;&nbsp;Yahoo新聞無性行為尿道卻長滿「菜花」！泌尿科醫示警：恐是免疫防線崩潰警訊 | 生活 | CTWANT&nbsp;&nbsp;CTWANT沒壞壞「尿道長滿菜花」！泌尿醫揭恐怖原因示警：身體防線崩潰了&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UdjNUTlhYbFVoLUY4eUxlcTV6bXIySG00UDhVWXkzZlZsc0VGN012QU45VUV4YXVNN2VzbnhHYjktR0NLbGRNR001ZDg3SmZtSDZIdkxaRm4yeW_SAWBBVV95cUxPY2FIb1Rpc1c3MEJjT1dxUkRWeXgxak45bDl2Ul83Vkc0MW1ZTHRndDdtWjh6SXZxd1AyWnNvcUhrbjhUZjB0b01Nek5ZUEpSblBOQktZVnI5VWE1WXRjWmE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -647,6 +660,19 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJMXg2UG4xb1ZZVnVjLUJQRk1aeU80N0VzanQ5TmlLdWJwZE11TVc2ZTJ2SWEyRXcyWVFOQU9TenJTRFYwSzBQOVc3azJRT3FyWldpYWRR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f678880a184b",
+      "title": "無性行為尿道卻長滿「菜花」！泌尿科醫示警：恐是免疫防線崩潰警訊 | CTWANT - LINE TODAY",
+      "published": "2026-07-14T04:00:15+00:00",
+      "summary": "無性行為尿道卻長滿「菜花」！泌尿科醫示警：恐是免疫防線崩潰警訊 | CTWANT&nbsp;&nbsp;LINE TODAY健康網》年長者陰莖突冒菜花！醫：免疫下降潛伏病毒發作&nbsp;&nbsp;自由健康網老了才發現梅毒？免疫力下降讓性病全爆發&nbsp;&nbsp;Yahoo新聞無性行為尿道卻長滿「菜花」！泌尿科醫示警：恐是免疫防線崩潰警訊 | 生活 | CTWANT&nbsp;&nbsp;CTWANT沒壞壞「尿道長滿菜花」！泌尿醫揭恐怖原因示警：身體防線崩潰了&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GUTF5UUhQS0I4eW1aZm9MRjhsZkJnXzF1MWhtSGZZRVRpaTBXYTg2MmQtblloSnFLOWlnbEhfS1VieWE1Q0NnMFBmYlllbHJ3U0xpTllB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -887,23 +913,10 @@
       "matched_keywords": []
     },
     {
-      "id": "f9618213af95",
-      "title": "每天都在喝卻最傷心臟！專家點名5種飲料少碰：含糖咖啡、能量飲都上榜",
-      "published": "2026-07-14T01:00:06+00:00",
-      "summary": "每天都在喝卻最傷心臟！專家點名5種飲料少碰：含糖咖啡、能量飲都上榜&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wUUJieE44d01QUm1aY0FJNUs5Y2pLMk9Od2FqX0U0Q0VnSnBSM01yYVozVHNEdkpUcHhqNlBPU3FhVWdfQVp3S3FYRy12UUFhblJzb0ZpY2cwRFRF0gFiQVVfeXFMTV9HalVfVlB5em1nVEwzUG0wZGhLdkhUZXRramdULS1vdGpPUG95eFRBc2FOMDhnWnNua3BHQmRpV3RydFpvV1BQZzJOZDM0TkdCcVMxYUxjZG5zcjcyLVRPV3c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "91abc16923a7",
       "title": "「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健",
       "published": "2026-07-13T21:28:23+00:00",
-      "summary": "「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健&nbsp;&nbsp;Yahoo新聞聞不到味道別放棄！醫：每天3分鐘鼻子運動 找回嗅覺&nbsp;&nbsp;自由健康網擺脫嗅覺障礙，幫鼻子做復健運動！嗅覺訓練助恢復嗅覺，該怎麼做？ - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online新聞染疫「嗅覺喪失」可復健 醫揭4氣味訓練法助神經再生&nbsp;&nbsp;ETtoday健康雲聞不到味道別放棄 醫授每天3分鐘「嗅覺復健」助恢復&nbsp;&nbsp;自由健康網",
+      "summary": "「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健&nbsp;&nbsp;Yahoo新聞聞不到味道別放棄！醫：每天3分鐘鼻子運動 找回嗅覺&nbsp;&nbsp;自由健康網擺脫嗅覺障礙，幫鼻子做復健運動！嗅覺訓練助恢復嗅覺，該怎麼做？ - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞染疫「嗅覺喪失」可復健 醫揭4氣味訓練法助神經再生&nbsp;&nbsp;ETtoday健康雲聞不到味道別放棄 醫授每天3分鐘「嗅覺復健」助恢復&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -911,31 +924,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "69587c6f709a",
-      "title": "喉糖推薦︱消委會評測41款喉糖7成無藥效！11款獲認證可殺菌藥用喉糖名單拆解必理痛／EVE 8大成藥功效禁忌",
-      "published": "2026-07-13T09:24:28+00:00",
-      "summary": "喉糖推薦︱消委會評測41款喉糖7成無藥效！11款獲認證可殺菌藥用喉糖名單拆解必理痛／EVE 8大成藥功效禁忌&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMi_gRBVV95cUxPTmhnUEVGLUpTRmlULWp0RFlSNnFSalZjZ0l1dHpfVEhJWGp6MkI5RExYMnowXzFHRjlQR055c1FDb2llREc4aklkNXozT0d6bUVOaGcxMDdaWW5jMEY0dDh2MnZfVTJmMnBKaTFUamlyX2M4cTVybFB6REVQdDNUWDFvT1ZsSWNBa1FqTkRMRmhVSjJVM2RYZVdOSVhLaFR1OEJjRTJSRmIwT2paQjQ1M3N6WHVFUFNsd1J6TUZBMXlMQ3dlXzdzTFl5NVotVEkzSkFxSzd2RHVBS3otZHFjdFctSzlhc1RoTXJ3VndSb21LcVoxQTVEZGhQcDVGQ1h3MDhGOFFWb1RNd3dCS0U0QmY1NHFpZ3NEcHVCWVY1LUEwdjRpNlZSWC11LTlRZFFiQXNvcmhtd1J4NWtfQjVrVG12TmhUN0x6Nldia21BMmJRYWwwaUNXUjZWNElJam55RU84UVNib2tBclZncHdNQXdCUzBNVlRQZXU5MnBzbE5iamQxdzhtMjUwQ1JmN0RYQTJuemM0T1BPSE1JU3VYVjdHcnJ5VnBOcHZ5c2liOWhjQXUtQ3hnWnd1cGNvcnJWUVMyeS1ySkQ4WGpwUVBDM29idDBJZEhEaXkzbjdTUlo3RHEyRGdkS0k1M3VEQzRwU0NXcGdyNE11Uy05aHZ6Z0ZubWtDYUFYZWxGTzdVc3hJeFBfUlEtOExaaGl2cUE1aHlHQXJQb25Fd2E0RGxubVBjN3hCY0UteXhZOHNIQ3RFbGhPWElxYTVadk5PMUNqSDNqUDFhWWhtZDg3aGZ3MS0wNmtwSDJLZzlPVXdWWHpQRnNObVB1M0hHVy1CZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "殺菌",
-          "keyword": "殺菌",
-          "related_drugs": [
-            {
-              "slug": "salicylic_acid",
-              "name": "Salicylic acid"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

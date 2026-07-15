@@ -1,7 +1,31 @@
 {
-  "generated": "2026-07-15T09:51:42.153567+00:00",
-  "count": 6,
+  "generated": "2026-07-15T11:22:25.667934+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "1cf104225d60",
+      "title": "規律運動可讓大腦逆齡0.6歲！腦神經科醫師：每周150分鐘中等運動，還能防止失智",
+      "published": "2026-07-15T10:39:27+00:00",
+      "sources": [
+        {
+          "name": "ELLE",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGFCcmN0bTZVMllqU3llLUJkTnhHTGNIaGFDeWZJQ25LaXpJenUtNy1GZnMzUzlnZWI5bVpDRTI0dGNRcWdSWkxLVV9MME81dGNjUjN1ZVAzWGJvbW1RbGRsVUtDdHNGRUV1aExwT2tJQkdxWVZiaGVRUXpoQ2c2YWhwMFBOWWg0S051MQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "11415667544e",
       "title": "從治療邁向預防！羅氏(RHHBY.US)啓動阿爾茨海默病Brainshuttle療法臨牀試驗 作者 智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
@@ -454,30 +478,6 @@
       ]
     },
     {
-      "id": "7396f1130743",
-      "title": "不是走萬步！研究揭「最佳護腦步數」 延緩大腦退化3年",
-      "published": "2026-07-14T10:40:28+00:00",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aeFlCYW9abzlWTE8xdTkxOGhvbUhHcTg2TnhTUXNzVVhLUW52VjRlZU9xdldVdTJ2SU9faXZGMUwxVVpNclZ4dl9IS3I?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "16c04efa1899",
       "title": "澳洲有近百萬癌症患者 40歲以下發病率上升",
       "published": "2026-07-14T01:20:00+00:00",
@@ -680,30 +680,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "69587c6f709a",
-      "title": "喉糖推薦︱消委會評測41款喉糖7成無藥效！11款獲認證可殺菌藥用喉糖名單拆解必理痛／EVE 8大成藥功效禁忌",
-      "published": "2026-07-13T09:24:28+00:00",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMi_gRBVV95cUxPTmhnUEVGLUpTRmlULWp0RFlSNnFSalZjZ0l1dHpfVEhJWGp6MkI5RExYMnowXzFHRjlQR055c1FDb2llREc4aklkNXozT0d6bUVOaGcxMDdaWW5jMEY0dDh2MnZfVTJmMnBKaTFUamlyX2M4cTVybFB6REVQdDNUWDFvT1ZsSWNBa1FqTkRMRmhVSjJVM2RYZVdOSVhLaFR1OEJjRTJSRmIwT2paQjQ1M3N6WHVFUFNsd1J6TUZBMXlMQ3dlXzdzTFl5NVotVEkzSkFxSzd2RHVBS3otZHFjdFctSzlhc1RoTXJ3VndSb21LcVoxQTVEZGhQcDVGQ1h3MDhGOFFWb1RNd3dCS0U0QmY1NHFpZ3NEcHVCWVY1LUEwdjRpNlZSWC11LTlRZFFiQXNvcmhtd1J4NWtfQjVrVG12TmhUN0x6Nldia21BMmJRYWwwaUNXUjZWNElJam55RU84UVNib2tBclZncHdNQXdCUzBNVlRQZXU5MnBzbE5iamQxdzhtMjUwQ1JmN0RYQTJuemM0T1BPSE1JU3VYVjdHcnJ5VnBOcHZ5c2liOWhjQXUtQ3hnWnd1cGNvcnJWUVMyeS1ySkQ4WGpwUVBDM29idDBJZEhEaXkzbjdTUlo3RHEyRGdkS0k1M3VEQzRwU0NXcGdyNE11Uy05aHZ6Z0ZubWtDYUFYZWxGTzdVc3hJeFBfUlEtOExaaGl2cUE1aHlHQXJQb25Fd2E0RGxubVBjN3hCY0UteXhZOHNIQ3RFbGhPWElxYTVadk5PMUNqSDNqUDFhWWhtZDg3aGZ3MS0wNmtwSDJLZzlPVXdWWHpQRnNObVB1M0hHVy1CZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "殺菌",
-          "keyword": "殺菌",
-          "related_drugs": [
-            {
-              "slug": "salicylic_acid",
-              "name": "Salicylic acid"
             }
           ]
         }
