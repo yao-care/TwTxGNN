@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [健康網》孤獨感恐傷腦！研究：失智風險增 醫教4招找回活力](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wNi1MY0E3bjVnRXpnWmJrdXR2RWNQRnFPMFl5VmVOUUFhSUcxcUdoWGN0aWlOLXp0c0EtWjlDTVBOSWVYemRxZFlCQ09ocGh6TlZsaFVFZUJWMzlsSExlUmhmU3nSAWpBVV95cUxOTFItVl9JNXQ4SkFXcEFMZ1pHam1qUm9kVDJ5TTVoSFhmeDNMRzBBWUJlSW1udkhLNEFoZnk5Qnc0WVpEaTRSNU5ld0ZmVUZQRjZyWUt6WkN5THE0dzlQdFk3am5jUDhiSEJ3?oc=5)
+
+2026-07-15 <span class="news-indication-tag">失智</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wNi1MY0E3bjVnRXpnWmJrdXR2RWNQRnFPMFl5VmVOUUFhSUcxcUdoWGN0aWlOLXp0c0EtWjlDTVBOSWVYemRxZFlCQ09ocGh6TlZsaFVFZUJWMzlsSExlUmhmU3nSAWpBVV95cUxOTFItVl9JNXQ4SkFXcEFMZ1pHam1qUm9kVDJ5TTVoSFhmeDNMRzBBWUJlSW1udkhLNEFoZnk5Qnc0WVpEaTRSNU5ld0ZmVUZQRjZyWUt6WkN5THE0dzlQdFk3am5jUDhiSEJ3?oc=5)
+
+---
 
 ### [規律運動可讓大腦逆齡0.6歲！腦神經科醫師：每周150分鐘中等運動，還能防止失智](https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGFCcmN0bTZVMllqU3llLUJkTnhHTGNIaGFDeWZJQ25LaXpJenUtNy1GZnMzUzlnZWI5bVpDRTI0dGNRcWdSWkxLVV9MME81dGNjUjN1ZVAzWGJvbW1RbGRsVUtDdHNGRUV1aExwT2tJQkdxWVZiaGVRUXpoQ2c2YWhwMFBOWWg0S051MQ?oc=5)
 

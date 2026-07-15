@@ -1,7 +1,31 @@
 {
-  "generated": "2026-07-15T21:49:26.222967+00:00",
-  "count": 5,
+  "generated": "2026-07-15T22:50:36.255327+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "ba4a273ed960",
+      "title": "健康網》孤獨感恐傷腦！研究：失智風險增 醫教4招找回活力",
+      "published": "2026-07-15T12:18:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wNi1MY0E3bjVnRXpnWmJrdXR2RWNQRnFPMFl5VmVOUUFhSUcxcUdoWGN0aWlOLXp0c0EtWjlDTVBOSWVYemRxZFlCQ09ocGh6TlZsaFVFZUJWMzlsSExlUmhmU3nSAWpBVV95cUxOTFItVl9JNXQ4SkFXcEFMZ1pHam1qUm9kVDJ5TTVoSFhmeDNMRzBBWUJlSW1udkhLNEFoZnk5Qnc0WVpEaTRSNU5ld0ZmVUZQRjZyWUt6WkN5THE0dzlQdFk3am5jUDhiSEJ3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1cf104225d60",
       "title": "規律運動可讓大腦逆齡0.6歲！腦神經科醫師：每周150分鐘中等運動，還能防止失智",

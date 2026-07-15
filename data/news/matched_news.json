@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-15T21:49:26.191906+00:00",
+  "last_updated": "2026-07-15T22:50:36.228094+00:00",
   "total_count": 20,
-  "matched_count": 5,
+  "matched_count": 6,
   "news": [
     {
       "id": "a9e6876b8381",
@@ -17,10 +17,35 @@
       "matched_keywords": []
     },
     {
+      "id": "ba4a273ed960",
+      "title": "健康網》孤獨感恐傷腦！研究：失智風險增 醫教4招找回活力",
+      "published": "2026-07-15T12:18:00+00:00",
+      "summary": "健康網》孤獨感恐傷腦！研究：失智風險增 醫教4招找回活力&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wNi1MY0E3bjVnRXpnWmJrdXR2RWNQRnFPMFl5VmVOUUFhSUcxcUdoWGN0aWlOLXp0c0EtWjlDTVBOSWVYemRxZFlCQ09ocGh6TlZsaFVFZUJWMzlsSExlUmhmU3nSAWpBVV95cUxOTFItVl9JNXQ4SkFXcEFMZ1pHam1qUm9kVDJ5TTVoSFhmeDNMRzBBWUJlSW1udkhLNEFoZnk5Qnc0WVpEaTRSNU5ld0ZmVUZQRjZyWUt6WkN5THE0dzlQdFk3am5jUDhiSEJ3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1cf104225d60",
       "title": "規律運動可讓大腦逆齡0.6歲！腦神經科醫師：每周150分鐘中等運動，還能防止失智",
       "published": "2026-07-15T10:39:27+00:00",
-      "summary": "規律運動可讓大腦逆齡0.6歲！腦神經科醫師：每周150分鐘中等運動，還能防止失智&nbsp;&nbsp;ELLE健康網》睡覺幫大腦清垃圾還不夠！醫曝每天這步數 延緩腦退化逾3年&nbsp;&nbsp;自由健康網名嘴自曝記憶下滑 連醫師爸也認證恐失智！土城醫院推1運動增5倍抗失智因子&nbsp;&nbsp;Yahoo新聞不是走萬步！研究揭「最佳護腦步數」 延緩大腦退化3年&nbsp;&nbsp;三立新聞打瘦瘦筆竟能「預防失智」？ 百萬糖友研究：semaglutide降阿茲海默風險最高7成，醫揭關鍵機制&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "規律運動可讓大腦逆齡0.6歲！腦神經科醫師：每周150分鐘中等運動，還能防止失智&nbsp;&nbsp;ELLE健康網》睡覺幫大腦清垃圾還不夠！醫曝每天這步數 延緩腦退化逾3年&nbsp;&nbsp;自由健康網名嘴自曝記憶下滑 連醫師爸也認證恐失智！土城醫院推1運動增5倍抗失智因子&nbsp;&nbsp;Yahoo新聞不是走萬步！研究揭「最佳護腦步數」 延緩大腦退化3年&nbsp;&nbsp;三立新聞打瘦瘦筆竟能「預防失智」？ 百萬糖友研究：semaglutide降阿茲海默風險最高7成，醫揭關鍵機制&nbsp;&nbsp;PChome Online新聞",
       "sources": [
         {
           "name": "ELLE",
@@ -869,19 +894,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNZF9tX3ZBQVpBVXpfZXJkUjNBZzAtOWJUZUotWGt1WHRSbm5VdXRabmtJSEE5V3BPTjdsVHN4Nmk0bFRjdmRNaEY3azFZRlFPVEo1RVVDb0xoeUliejE5MkhsXy1BYkJ3cmdXa1lIaXdZMGNnU0p6YVFzNTFEb1p6cWdsa3E1dEdyQS1wTnZCME5pcjVoTHRtRzRkQ2ZtQlFvNXhacXRMbFlmMGxlMHZzSjBVSFNiOUlQbTZzRDl3c1hlY3RWRnpYaG5aMmFXLW5kNFFoR1czOHVHYm54S3pDbUktT2xaaXdrQzU2dkxTQWRQVzlmLXFxaF9xc091clEwVTA0bnMxcm1XcmxtMllENFY2dG5GMXNPeEc4cnNSeC1SNzBkUTVCMzNnTnJraUI4d0ozU0NiRTRnb1ZFbmJNeU93NVVIaWYzTllSTjNjSElhM01SQUtQZFk1SGxqN2k5S0RWeUo5SWZ5TElEdG1TcDlrZFBScWFOdmFz?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "91abc16923a7",
-      "title": "「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健",
-      "published": "2026-07-13T21:28:23+00:00",
-      "summary": "「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健&nbsp;&nbsp;Yahoo新聞聞不到味道別放棄！醫：每天3分鐘鼻子運動 找回嗅覺&nbsp;&nbsp;自由健康網擺脫嗅覺障礙，幫鼻子做復健運動！嗅覺訓練助恢復嗅覺，該怎麼做？ - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞染疫「嗅覺喪失」可復健 醫揭4氣味訓練法助神經再生&nbsp;&nbsp;ETtoday健康雲聞不到味道別放棄 醫授每天3分鐘「嗅覺復健」助恢復&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQLXJURXozZzlYRVlVcklVZGdCVExmcDRoQk10bFJHMjNBaHJtdHdiLWY5NXBZWTZ4N19YblppYkZHdHhBRGNTS3hjSmNjRkRVZno2S1dtUksybjhIZkdfYUtOTDdWb21IRDlzN1h0WHpjM2VDSzBUeXRLcTJwVVRuNlJrYnFJa1pzUDdxcVN0Q0lLakFfTThQcTlqT3Q2QVpqeFVjckxQaF9POHBSVHVKTWc2NnE0TVdCSkE4RnRhOXpZeEdkM255cXZmNnA1T0VqY3hYVjZYTWhKMU9qcUVxMjBFSE5RWTdMTTFmenFsYjIzcFRwbGo1OHhwMFR6aGNpeERzcTZRVmhFQWZab2JSQ3JtR3RWTzVUa2MxNGlvdjhBSXNZM0xWSWdpNUU5cmM1cFlSaTJUM3JrVnFFTTJSRXRpbkdoMHFwOXV6WGE0UHJlWnQ1MmJySW9fNDJSRW5Mb1J1UkV2Tjk3RjN4U2pvSFdTby1KRjBJcWsyTEpGT2JDMjE4QjM5SW4yOUtnYk5aUmFjR1RFRFZiTVMzb2h2MzV2eGI2cURz?oc=5"
         }
       ],
       "matched_keywords": []
