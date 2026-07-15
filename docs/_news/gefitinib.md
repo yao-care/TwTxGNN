@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [研究發現，高脂飲食與腸道細菌可增強癌症免疫療法](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IRVNlQ3ZOV08wc1FxY3hSRDFudU4tclYzTm9CNTZfN25YcDJ1eHotVlJNV19SS2t0eHJ3UmpCeWNWS2ptVkpzVzdGR2VVZFgwOWc?oc=5)
 
 2026-07-14 <span class="news-indication-tag">癌症</span>
 
 來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IRVNlQ3ZOV08wc1FxY3hSRDFudU4tclYzTm9CNTZfN25YcDJ1eHotVlJNV19SS2t0eHJ3UmpCeWNWS2ptVkpzVzdGR2VVZFgwOWc?oc=5)
-
----
-
-### [不是走萬步！研究揭「最佳護腦步數」 延緩大腦退化3年](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aeFlCYW9abzlWTE8xdTkxOGhvbUhHcTg2TnhTUXNzVVhLUW52VjRlZU9xdldVdTJ2SU9faXZGMUwxVVpNclZ4dl9IS3I?oc=5)
-
-2026-07-14 <span class="news-indication-tag">失智</span>
-
-來源：[三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aeFlCYW9abzlWTE8xdTkxOGhvbUhHcTg2TnhTUXNzVVhLUW52VjRlZU9xdldVdTJ2SU9faXZGMUwxVVpNclZ4dl9IS3I?oc=5)
 
 ---
 

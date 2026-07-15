@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智（dementia） 相關新聞"
+title: "阿茲海默症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "阿茲海默症（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智（dementia） 相關新聞
+# 阿茲海默症（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="阿茲海默症（dementia） 有什麼相關新聞？">
+<strong>阿茲海默症（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,15 +29,7 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [不是走萬步！研究揭「最佳護腦步數」 延緩大腦退化3年](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aeFlCYW9abzlWTE8xdTkxOGhvbUhHcTg2TnhTUXNzVVhLUW52VjRlZU9xdldVdTJ2SU9faXZGMUwxVVpNclZ4dl9IS3I?oc=5)
-
-2026-07-14
-
-來源：[三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aeFlCYW9abzlWTE8xdTkxOGhvbUhHcTg2TnhTUXNzVVhLUW52VjRlZU9xdldVdTJ2SU9faXZGMUwxVVpNclZ4dl9IS3I?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [記憶衰退前已有警訊 美研究揭阿茲海默症或先令執行力受損](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KNFFVYXdxQnBLRjFPRk5WUmdObW95cFMxY09adEVaci1mYTFOX1k0SlFESDFzOXdUdEtYZS10WGs1SURnVnFTUUdVUnBWcGEyaXo5eVEwc2w0YlRsQmJfU3lVdUfSAWpBVV95cUxNYmppYms4LWhMS3VEQXBDNGpGYTdYVWp5eUVueGoycWIxbFkzRWtBTTR1MnVFeDJweVplcGFwazI3OHJfZGJiZHYwMDViQ0tya0ZYbFJ0MkFZaTNfVkl5bEw4MFlVbFY1WXJn?oc=5)
 
