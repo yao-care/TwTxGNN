@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T15:26:36.213856+00:00",
+  "generated": "2026-07-16T17:04:42.866963+00:00",
   "count": 3,
   "news": [
     {
@@ -27,46 +27,69 @@
       ]
     },
     {
-      "id": "11415667544e",
-      "title": "從治療邁向預防！羅氏(RHHBY.US)啓動阿爾茨海默病Brainshuttle療法臨牀試驗 作者 智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
-      "published": "2026-07-15T04:18:45+00:00",
+      "id": "060afd61ee47",
+      "title": "大腸癌︱60歲男腹瀉頻尿以為腸胃病「怕羞」延醫3年 確診大腸癌肝轉移需裝人工肛門",
+      "published": "2026-07-15T06:03:49+00:00",
       "sources": [
         {
-          "name": "Investing.com 香港 - 股市報價& 財經新聞",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93NTJ1Y3pWZV95SUlZQ0FzUnZocEZMbnFXRTd0aWVQNVk5YXFNNEpUMkU0YkkwSkJKTnpUV05Zd1d4eWlBY2NLMFZtZFdIV2lnRTIweGkzTG5MWXZMZUxXc01lNWdjUUZPeTVGMzdja1g?oc=5"
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMikgRBVV95cUxOY3hDOTk4NDJGLS1DSW03aU00Qi1LYW5rZWVBWWdtbHQwRjVZMHhRSE5oLWVEeVhBWmk1aDFCTEhuaFpqejVYUy1Bb0x1eUtaaDhIX2VqR3lqYWM1QU1aU0lHTU9lUGhfOERZM2owVXM3d2U4Y2tOTGhUcEhsdlVrTEo3c1gwZ2c2S2h0Y1E3RlVZdzk0OHc4NDMtT01fR2VnQVlISFgyaHJpemZvcjZldVA0bzRYNG9OTEVZTVoyaDgwTGZHTHNwakVOUWUzS3NrOXRkLXZVMFVtNWJDTUtFM0xyajBaNWxvUEFxNlI0c0lnck1Za3J3QnlnV21GdXNRMU9CTjVPUU85bHh3RzRkOFNDR0lCbmR4dW0yaDBZNUR1dndfbGE1RmdfZWZyaElsZVpjWGtDcU9Qbnl1Q0VBTUI5U3ZDMkxGUVFsNzJURjg3LUNFRnExWFd3ZnpXM29ORWxzSnI2ZjFEN1liVWRMYWFVTm1BQVgxbW5FZ2g3ZkpsbWdLby1vM0RmVE1mU1liUVhiQ3ZaeUFJeG5KMDBqNEszc0lkU1dBelNaYWZsNWR3NUtHbXZmM3FNUzFJd3RIcGJwZkJKTEgzRXFiRGxYWU8yR2NzaVJSY1Y5ZDcwRV95VDZfTUlKOXl4OWI1T1Zmc0Q3NjBOUUtjc1dXMVBXVVFuWE9vUUx1Uk44d3R0cDUwdw?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "oteracil",
+              "name": "Oteracil"
             }
           ]
         },
         {
           "type": "indication",
-          "name": "阿茲海默症",
-          "keyword": "阿茲海默症",
+          "name": "腸癌",
+          "keyword": "腸癌",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         },
         {
           "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "berberine",
+              "name": "Berberine"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "痔瘡",
+          "keyword": "痔瘡",
+          "related_drugs": [
+            {
+              "slug": "diosmin",
+              "name": "Diosmin"
             }
           ]
         }

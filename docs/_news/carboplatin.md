@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [大腸癌︱60歲男腹瀉頻尿以為腸胃病「怕羞」延醫3年 確診大腸癌肝轉移需裝人工肛門](https://news.google.com/rss/articles/CBMikgRBVV95cUxOY3hDOTk4NDJGLS1DSW03aU00Qi1LYW5rZWVBWWdtbHQwRjVZMHhRSE5oLWVEeVhBWmk1aDFCTEhuaFpqejVYUy1Bb0x1eUtaaDhIX2VqR3lqYWM1QU1aU0lHTU9lUGhfOERZM2owVXM3d2U4Y2tOTGhUcEhsdlVrTEo3c1gwZ2c2S2h0Y1E3RlVZdzk0OHc4NDMtT01fR2VnQVlISFgyaHJpemZvcjZldVA0bzRYNG9OTEVZTVoyaDgwTGZHTHNwakVOUWUzS3NrOXRkLXZVMFVtNWJDTUtFM0xyajBaNWxvUEFxNlI0c0lnck1Za3J3QnlnV21GdXNRMU9CTjVPUU85bHh3RzRkOFNDR0lCbmR4dW0yaDBZNUR1dndfbGE1RmdfZWZyaElsZVpjWGtDcU9Qbnl1Q0VBTUI5U3ZDMkxGUVFsNzJURjg3LUNFRnExWFd3ZnpXM29ORWxzSnI2ZjFEN1liVWRMYWFVTm1BQVgxbW5FZ2g3ZkpsbWdLby1vM0RmVE1mU1liUVhiQ3ZaeUFJeG5KMDBqNEszc0lkU1dBelNaYWZsNWR3NUtHbXZmM3FNUzFJd3RIcGJwZkJKTEgzRXFiRGxYWU8yR2NzaVJSY1Y5ZDcwRV95VDZfTUlKOXl4OWI1T1Zmc0Q3NjBOUUtjc1dXMVBXVVFuWE9vUUx1Uk44d3R0cDUwdw?oc=5)
+
+2026-07-15 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">腹瀉</span> <span class="news-indication-tag">痔瘡</span>
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMikgRBVV95cUxOY3hDOTk4NDJGLS1DSW03aU00Qi1LYW5rZWVBWWdtbHQwRjVZMHhRSE5oLWVEeVhBWmk1aDFCTEhuaFpqejVYUy1Bb0x1eUtaaDhIX2VqR3lqYWM1QU1aU0lHTU9lUGhfOERZM2owVXM3d2U4Y2tOTGhUcEhsdlVrTEo3c1gwZ2c2S2h0Y1E3RlVZdzk0OHc4NDMtT01fR2VnQVlISFgyaHJpemZvcjZldVA0bzRYNG9OTEVZTVoyaDgwTGZHTHNwakVOUWUzS3NrOXRkLXZVMFVtNWJDTUtFM0xyajBaNWxvUEFxNlI0c0lnck1Za3J3QnlnV21GdXNRMU9CTjVPUU85bHh3RzRkOFNDR0lCbmR4dW0yaDBZNUR1dndfbGE1RmdfZWZyaElsZVpjWGtDcU9Qbnl1Q0VBTUI5U3ZDMkxGUVFsNzJURjg3LUNFRnExWFd3ZnpXM29ORWxzSnI2ZjFEN1liVWRMYWFVTm1BQVgxbW5FZ2g3ZkpsbWdLby1vM0RmVE1mU1liUVhiQ3ZaeUFJeG5KMDBqNEszc0lkU1dBelNaYWZsNWR3NUtHbXZmM3FNUzFJd3RIcGJwZkJKTEgzRXFiRGxYWU8yR2NzaVJSY1Y5ZDcwRV95VDZfTUlKOXl4OWI1T1Zmc0Q3NjBOUUtjc1dXMVBXVVFuWE9vUUx1Uk44d3R0cDUwdw?oc=5)
+
+---
 
 ### [B12越補越危險？33萬人研究發現癌症風險高6倍，醫揭真相：恐是身體警訊](https://news.google.com/rss/articles/CBMiowNBVV95cUxQN0drSndmZk40VjBsSkNyMHR5YW9OQlpvTnFWeVRUVWZTVTktVVQtc3RTb2luaTJPcWk2ZXlZVjUzNmpmaWhvNVotNXIxVldxcnprM0J4WDJ4NmQ0a3VZbnN3UWFRd3NxOURKRUN0RG1RSzZOM1M2SzZJdEpEVmxFZU5sQW81YmlHWFlzWjhHcE1mR0phbU5NQmRjbUp3enRYN1c3T1dXTjVHRjJTa0V0cnJaRUhsdzRyenVpem1lMHVhMWd1WmZXM0ZjRG94R2l0WkNXM1A5Q1YtT0pQaGNWajk4V243Tk81ZjNQd3cya2VENHpRTnFSeUNJVkQzUXVJY2tYSGlpcFk2SUxlRkFnWE8wTlhvY1IzcHIxcjhQNWJiVFFwT0JFQkVfV1k5R3IwMEhxR25URm9XMzBJeWQ1bUZsWGtPcS1kaUNRS2ZFcGJkdmIwSGowWERLb3UwV2ZZVmtSYnFxVHpwTktuXzAxd3RIVkVUQW9hMFVZWVZZdnE5cnJ6YkN6LW1uYUE1SXhvRXF0Y08zR2c1UWRkamRzYnVVWQ?oc=5)
 
