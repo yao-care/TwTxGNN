@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智（dementia） 相關新聞"
+title: "失智症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "失智症（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智（dementia） 相關新聞
+# 失智症（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
+<strong>失智症（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,23 +29,7 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（3 則）
-
-### [健康網》孤獨感恐傷腦！研究：失智風險增 醫教4招找回活力](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wNi1MY0E3bjVnRXpnWmJrdXR2RWNQRnFPMFl5VmVOUUFhSUcxcUdoWGN0aWlOLXp0c0EtWjlDTVBOSWVYemRxZFlCQ09ocGh6TlZsaFVFZUJWMzlsSExlUmhmU3nSAWpBVV95cUxOTFItVl9JNXQ4SkFXcEFMZ1pHam1qUm9kVDJ5TTVoSFhmeDNMRzBBWUJlSW1udkhLNEFoZnk5Qnc0WVpEaTRSNU5ld0ZmVUZQRjZyWUt6WkN5THE0dzlQdFk3am5jUDhiSEJ3?oc=5)
-
-2026-07-15
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wNi1MY0E3bjVnRXpnWmJrdXR2RWNQRnFPMFl5VmVOUUFhSUcxcUdoWGN0aWlOLXp0c0EtWjlDTVBOSWVYemRxZFlCQ09ocGh6TlZsaFVFZUJWMzlsSExlUmhmU3nSAWpBVV95cUxOTFItVl9JNXQ4SkFXcEFMZ1pHam1qUm9kVDJ5TTVoSFhmeDNMRzBBWUJlSW1udkhLNEFoZnk5Qnc0WVpEaTRSNU5ld0ZmVUZQRjZyWUt6WkN5THE0dzlQdFk3am5jUDhiSEJ3?oc=5)
-
----
-
-### [規律運動可讓大腦逆齡0.6歲！腦神經科醫師：每周150分鐘中等運動，還能防止失智](https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGFCcmN0bTZVMllqU3llLUJkTnhHTGNIaGFDeWZJQ25LaXpJenUtNy1GZnMzUzlnZWI5bVpDRTI0dGNRcWdSWkxLVV9MME81dGNjUjN1ZVAzWGJvbW1RbGRsVUtDdHNGRUV1aExwT2tJQkdxWVZiaGVRUXpoQ2c2YWhwMFBOWWg0S051MQ?oc=5)
-
-2026-07-15
-
-來源：[ELLE](https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGFCcmN0bTZVMllqU3llLUJkTnhHTGNIaGFDeWZJQ25LaXpJenUtNy1GZnMzUzlnZWI5bVpDRTI0dGNRcWdSWkxLVV9MME81dGNjUjN1ZVAzWGJvbW1RbGRsVUtDdHNGRUV1aExwT2tJQkdxWVZiaGVRUXpoQ2c2YWhwMFBOWWg0S051MQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [從治療邁向預防！羅氏(RHHBY.US)啓動阿爾茨海默病Brainshuttle療法臨牀試驗 作者 智通財經 - Investing.com 香港 - 股市報價& 財經新聞](https://news.google.com/rss/articles/CBMicEFVX3lxTE93NTJ1Y3pWZV95SUlZQ0FzUnZocEZMbnFXRTd0aWVQNVk5YXFNNEpUMkU0YkkwSkJKTnpUV05Zd1d4eWlBY2NLMFZtZFdIV2lnRTIweGkzTG5MWXZMZUxXc01lNWdjUUZPeTVGMzdja1g?oc=5)
 

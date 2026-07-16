@@ -1,43 +1,105 @@
 {
-  "last_updated": "2026-07-16T04:52:23.637645+00:00",
-  "total_count": 21,
-  "matched_count": 5,
+  "last_updated": "2026-07-16T07:16:18.537280+00:00",
+  "total_count": 18,
+  "matched_count": 4,
   "news": [
     {
-      "id": "db027e1a8dd1",
-      "title": "國家疾控局：全國新冠疫情總體上處於低流行水平",
-      "published": "2026-07-16T04:36:00+00:00",
-      "summary": "國家疾控局：全國新冠疫情總體上處於低流行水平&nbsp;&nbsp;香港商报",
+      "id": "8e6966a864f5",
+      "title": "國家疾控局：南方部分省份存在登革熱、基孔肯雅熱疫情風險 - Yahoo 財經",
+      "published": "2026-07-16T05:15:58+00:00",
+      "summary": "國家疾控局：南方部分省份存在登革熱、基孔肯雅熱疫情風險&nbsp;&nbsp;Yahoo 財經國家疾控局：內地新冠病毒總體處低流行水平- 港聞&nbsp;&nbsp;點新聞國家疾控局：全國新冠疫情總體上處於低流行水平&nbsp;&nbsp;香港商报國家疾控局：新冠病毒疫情呈低流行水平&nbsp;&nbsp;香港文匯報疾控局: 南方省份有雙熱聚集性疫情風險&nbsp;&nbsp;TDM",
       "sources": [
         {
-          "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FLUFnUEtWR0tOeVd5TEJPblBjaFh0TzdrdU9JeHRyV3BWUkw3TFdwY25tUGZjSll2Y096U0xOdlNHWllhZzVXdVhsb251SklKczU2aDJYOERyUVVjWnlEZTRwTW52U0RKaEtPbVQ1Rm1PX09hblp3eVNibw?oc=5"
+          "name": "Yahoo 財經",
+          "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxQcy1GbFhvNVBFTFJhRWZ1bTFtekgyQThhU21FUkpZVEF2OXNoV0FhY01UZnpNRjduNDNGdll3OV8xRXUzeHlnZnlmdXdfZ1htaWNYY3JUVnpjb0l5WFdYS3VaanVyc1VCYlY2LWZ3alBVUmZCYTNSRTdiTWVSd0NUelBiUXhwTGVKZFE2Q0ZDenY3VU5zeE44Y3Qyajl2MzhUZmtWVENtWlB4VGNYNE4yRnFpam5MaV8waGJmMlBGT2JaN2ltTjNENHZEY3dSMUlaS0hmcU84OUV4ZnphNG5pbTVFRW1nMzhTYm5ISTdtTWdnT0hmanJqMVFQaE1ESXQ5c1M3ZGt2VmZHZjkza3pRWVByeVEtVXBsVW1RZDZMd09LWm9nQ0tWYnROeU9DQ3ZoMDJsN3RXd1RVSGxSTGhISmVEQkE3Wm5iaFZXaEJhbG5Ja1NVQUxuaDkwVmNyVnZ5b25LamVhcUZpVWUyNThqVnhfVURXWDlwN0x3LXI3c25ReGRtTEZIV2UyaXc?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "0d4c4c9d653c",
+      "id": "fb7cbc23c006",
+      "title": "乳癌切除「肩膀一重一輕」？台東馬偕立即性重建解癌友心結",
+      "published": "2026-07-16T03:46:41+00:00",
+      "summary": "乳癌切除「肩膀一重一輕」？台東馬偕立即性重建解癌友心結&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45cmRHMTU0S1ROSFRMcXBRRDFpTjJVcXJfX3ZUWVMyVHhzSGMyRF81M2k3S3pUem94eUttbTlZWlh1UVEzNUFhSzZuWWxVejYzRXE5TVVnMVEwbWFzX194RUh1WFNObXRuYVNicTlR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7604512e2bf0",
       "title": "拿鐵抗炎力竟飆2倍！最新研究揭咖啡加奶奇效 卻因一地雷遭世衛點名",
-      "published": "2026-07-16T03:56:43+00:00",
-      "summary": "拿鐵抗炎力竟飆2倍！最新研究揭咖啡加奶奇效 卻因一地雷遭世衛點名&nbsp;&nbsp;Yahoo新聞",
+      "published": "2026-07-16T03:44:32+00:00",
+      "summary": "拿鐵抗炎力竟飆2倍！最新研究揭咖啡加奶奇效 卻因一地雷遭世衛點名&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxORnBTb1VMS29zd0tpQ3paeUpBUm1VY29ZWWxua0hOa2lnRlNXN3FqTEZyaHBVaXpQejEzZGtuSEZUeDc1WjFrNEp5THNGdlgyWHFoNDdxOFhnU0EyYnV3Uk9hRWpaOVE2Z2ZEVmpOTFlZTy1LZFVrazVlSm9KWHhzWmVydXE0SGttTlg0R0dkUzY0N2p6LVN1NVdWYTduSTRqcm44TVJEQnJSQjhzYXZpdS1KU2NFLXJ5Z21wWmVCNVRoT3B5alpwMGcyYXJfelRyV1BOR2gyRlZzUFE5UXh4aVFoVDBaSEZPWU1NQXBtMl9GVzVCcm96M19IcE5GZ0h1Q2FuQ2ZYNlFMOUJrQkppNzVXTm4za2F3WUNzTVBON09oa09uUkJyaUtEeU9UUkwtcFRFWllYcTI5c3U1cEdzX1pibHBYWmRMelM4UWx2SXVENEk1YlgwQlFYT3BfeDJuRC1hV3J3RHRTYi1ITGJla2hvaDlXVzNyOWVQQjdSUjBCNUtTVkNvejJSWXAtMUNkbEJYTF9hWnoyY3plR1BnR25halFuNURq?oc=5"
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtTGtLeU5uNjJxMk52a1MxTEtNY1dxU0tPQWJJMV9KWXhxVkZoWXFlRnlwSGthcVhJRXJ1NHpFWEJxNGdLUlo4UUNIbVM?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "d1865ecdab9d",
-      "title": "嗅覺訓練助恢復氣味辨識 醫：持續6個月才有機會見效",
-      "published": "2026-07-16T02:06:13+00:00",
-      "summary": "嗅覺訓練助恢復氣味辨識 醫：持續6個月才有機會見效&nbsp;&nbsp;Yahoo新聞「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健&nbsp;&nbsp;PChome Online 新聞聞不到味道別放棄！醫：每天3分鐘鼻子運動 找回嗅覺&nbsp;&nbsp;自由健康網染疫「嗅覺喪失」可復健 醫揭4氣味訓練法助神經再生&nbsp;&nbsp;ETtoday健康雲擺脫嗅覺障礙，幫鼻子做復健運動！嗅覺訓練助恢復嗅覺，該怎麼做？ - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "id": "b0880ce7216c",
+      "title": "不是吃得健康！研究：長壽的人都有這個共同特質",
+      "published": "2026-07-16T03:38:00+00:00",
+      "summary": "不是吃得健康！研究：長壽的人都有這個共同特質&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPOUFwV0VlbjhOWFF4VE1hT3IxQTVubG1yY0c3WUYyRjlwcU5zMnBOVzd6blBfQWl5TXBRYndtQ2pPcmktMHRWLUtXTGxtWVJFSzN5MkNxc2V6bnNNXzZGSHFVby1mc05NNXlDakV6cm1kWXFpaHo1S0ZjdDdIb2tLTXdFR05ZamdOVUh2NTFyV1JvU1I1Zkc3b0dpM3pFVUVqQ3RSV3dqNTk4NXpiTk9QLVZuUDRuS2h3TGRQWnZSWlhkZ2tERVpaR01lR2VxZU1BSWtfT1o2bXhHY3hjbU1mTHZpbGtTeXhjM29hM3JLTks5NXdwN2hWWkxNZGdTSlNTRzY4WDhkNXBIMXI3TTRRQlhLeTNuaEZYSEozeUNaRVVnMzNxVlU5VlNndzVzWEljRlBJUTAwQjBHcTlCS2FnR0tWV2NBTS1XQUw0LVFPbmxzalZKWFhMejFNd19KUzQ?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50RzZjTzZiY3BlMlBJV0hyc2FjTjBwU1B0ZFUxQklqaXF1TUo3UU1WNnRPQ2J0OGtOQ2xQVUpnek1ZeXJMOURBTl94dUJ1bXE0d3J1cFVFVXJUZ0pSbVRmbVZGTV_SAWpBVV95cUxQRGN5ODhUQmN3MXBLdXpjZ2M3dGVOVzBBNm5sSFZUQlE3Y3JNRm5ySlFxNGxtLWlacU1BUFVNMWJyMUdMdUJ2Q2kzNE02VTAyQXdiNVd5UVUySS1kOTB0eGlxOENSX0R0NktR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5bf06b96b749",
+      "title": "嗅覺訓練助恢復氣味辨識 醫：持續6個月才有機會見效",
+      "published": "2026-07-16T01:41:57+00:00",
+      "summary": "嗅覺訓練助恢復氣味辨識 醫：持續6個月才有機會見效&nbsp;&nbsp;品觀點前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "品觀點",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PVDZWZGR6VlFaWVJYQ0Q0czVjb0xlbXp2R1Qtd0VVWFhPZXRjUWFBaGk4SVRDT05vSmdnYVZqRVhjZnN4cm9VdmZwWGJpcEI3d3htdA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -56,77 +118,14 @@
       "matched_keywords": []
     },
     {
-      "id": "a9e6876b8381",
+      "id": "a5954b176e6d",
       "title": "雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」",
-      "published": "2026-07-15T16:33:43+00:00",
-      "summary": "雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」&nbsp;&nbsp;三立新聞",
+      "published": "2026-07-15T07:01:06+00:00",
+      "summary": "雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QQ2g2eWFRaXlPVFJjU0p5UU9jMWViOS1sck55U2NXZ180dXF5Qy0wY1NLeG9YSlJORHlhMDBjTVF4Q3RiVTQ4cUxYbEI?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ba4a273ed960",
-      "title": "健康網》孤獨感恐傷腦！研究：失智風險增 醫教4招找回活力",
-      "published": "2026-07-15T12:18:00+00:00",
-      "summary": "健康網》孤獨感恐傷腦！研究：失智風險增 醫教4招找回活力&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wNi1MY0E3bjVnRXpnWmJrdXR2RWNQRnFPMFl5VmVOUUFhSUcxcUdoWGN0aWlOLXp0c0EtWjlDTVBOSWVYemRxZFlCQ09ocGh6TlZsaFVFZUJWMzlsSExlUmhmU3nSAWpBVV95cUxOTFItVl9JNXQ4SkFXcEFMZ1pHam1qUm9kVDJ5TTVoSFhmeDNMRzBBWUJlSW1udkhLNEFoZnk5Qnc0WVpEaTRSNU5ld0ZmVUZQRjZyWUt6WkN5THE0dzlQdFk3am5jUDhiSEJ3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1cf104225d60",
-      "title": "規律運動可讓大腦逆齡0.6歲！腦神經科醫師：每周150分鐘中等運動，還能防止失智",
-      "published": "2026-07-15T10:39:27+00:00",
-      "summary": "規律運動可讓大腦逆齡0.6歲！腦神經科醫師：每周150分鐘中等運動，還能防止失智&nbsp;&nbsp;ELLE名嘴自曝記憶下滑 連醫師爸也認證恐失智！土城醫院推1運動增5倍抗失智因子&nbsp;&nbsp;Yahoo新聞不是走萬步！研究揭「最佳護腦步數」 延緩大腦退化3年&nbsp;&nbsp;三立新聞健康網》睡覺幫大腦清垃圾還不夠！醫曝每天這步數 延緩腦退化逾3年&nbsp;&nbsp;自由健康網防失智有「黃金步數」 飯後走還穩血糖- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGFCcmN0bTZVMllqU3llLUJkTnhHTGNIaGFDeWZJQ25LaXpJenUtNy1GZnMzUzlnZWI5bVpDRTI0dGNRcWdSWkxLVV9MME81dGNjUjN1ZVAzWGJvbW1RbGRsVUtDdHNGRUV1aExwT2tJQkdxWVZiaGVRUXpoQ2c2YWhwMFBOWWg0S051MQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "157308a9156b",
-      "title": "Coffee餵8個月大女兒奇異果共用匙羹引「衛生爭議」 醫生列成人口腔6大病毒嚴重可致腦膜炎| 生活熱話",
-      "published": "2026-07-15T09:17:15+00:00",
-      "summary": "Coffee餵8個月大女兒奇異果共用匙羹引「衛生爭議」 醫生列成人口腔6大病毒嚴重可致腦膜炎| 生活熱話&nbsp;&nbsp;Oh!爸媽",
-      "sources": [
-        {
-          "name": "Oh!爸媽",
-          "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOczhaaXFVY19TMUo1dWtOLXFVN3VSalAyMDFGaEJlZVRONEFtbmpHZXdpaEd5dVc2Q25hYVFzR0VFWUptM1A2TnJKTnhIU3NWeFVOTEI3RW5FN1IwNWVTbWFOT2dySkEycW1yZmxsbFZLVmJ2MEV4UTl1UXhUX2dhWWZwNldZV1R0dnJ5Snl6OVllYldXT3dJRnY2aFdDbTZiT2JobFhtR1Bvc2NjMkktX25VdEo3b1psZ3pybHp5WUZPRWlnaWktbXNzNnM5TFB2c2t5UFRxOENMRG9HLXNVNmkyVGZsSFZIU005MnNEVW1jcko3N3ZhLWt6bUV1R2lJbE5WZmw5d3Zjc0g1RXJyS0x3bHBRVWxlb1BWekJoUzYwRlQ0YUdtWEw1TFVRNlZlQXkwMkpKWVRKUEJMLW5PeDRaSWNTSTBQZzlSLWluREFaTEl6SVAwWmhuajdKX1laZG9Lb3BtUEdWaTFodHB3TzVIQVVxcnRiX2luaWFKVjFLVkJEelBHZ2xFc0JwZw?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOZDQ5NExRalg1TExLS1VrdHNETXNsYjEyemxpMF9YMlJyd0hWeUFhLVdWUjBxbXdNbmZDRU5ZT1NiNlRtamx1UEtSS1dFc3N5dXU2UUx2WUdhbHNURlBnbzBlTW9xOW1xdUZZN2YySE1vcDNVMkw2V1BZYXRiZXRPbjJsNmxqUUdXX1pVR2FqLWx2S0xCVU9ZMWlFTDJUMlVBWGxlQjFwZFBielN1T2R4RENIeXQ4bXVFb21kTWFBbnY5ZWRDTEp2cFJMUmdiSEdaYWZfbkNWXzM3aGhuekFRVF9jYWdLckFtR2FTZGhhaFJtMGVScmtCbzdhVkdUZUlCa2g0cGQ0Y3lxSnRLV1JGX2MtRGtEOFM2bE5yRXIwN1hvUWFhOU5aLWdxbWhLbHpKeFZLdmVDMndrMFJjQ1BXYVNta2gwSmpOV2JJWWF0d0p4UjJoTXEzQmlCNnVqaGRONUl6dnNmMnJmTDRxM1BLbFVqZng1TWJXdEE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -696,32 +695,6 @@
         {
           "name": "CCUE.ca",
           "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQOVBLdzFkQnUyZUhYOURoUUQyem5nckE5cF9QanNrSm1KUmNJakwzbDhXYWQ4MzI2cUNaVnVWcDE2UkFmTU9BT2R1WWpfNWxJWHFROEZWenZfNkpiM05kdmdvQjc2Skw2ZXluTTNDeWR5Vk1KVlZ5a2djZnJWU0tSUUwzVWdsU0xPcVI2SnVOT0NrUUJnRlNvTjl2TzgzMVUxUjlnYUJYbVdfUXAyQTlwWlBfdEpCRGtpa3I1MmIzWWhCdTZhX3ZUa1dSNkQtQUp0YXBLSW9JN2hzWWNsczRveHY1QnNVU29FcGVEbVFMUF9yNmZQanlvVlZkc1dQanFWWHJsRVdCeDMtNWc3YVFaSFFMbnBGa0pZRVo4TU9feDZmanRtbXk1bXdpNlFUU2FkQVoxRi10b0tGblhZSTJlSlZoX2V3MmZoTEJQcU1oakttbFA5S0ZBVzBmMTA0cEhO?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "dee5a183318c",
-      "title": "科技日新月異 記憶與使命不變（黃岳永） - EJ Tech",
-      "published": "2026-07-14T06:55:18+00:00",
-      "summary": "科技日新月異 記憶與使命不變（黃岳永）&nbsp;&nbsp;EJ Tech",
-      "sources": [
-        {
-          "name": "EJ Tech",
-          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOUHhOTVU4MFNlcDhTdFNpYmRRc0tvc2VvbFY3RWp6OE5Fc2R2c0p5LUxJSmFVcXNzeVBTNHhRX05wQXJSdjJaQWx3OEgxTGF2Z1BOUkplVHNpRGMtLVVCcnFlZzdaUjVkNnlrV2k5dU5zM2RoMC10TjQ3dFpiQUZoTGVZdTJpY0NEZ0QyU3FOSjJabnpJUXR1S3dFWGJFQTNtZ2xFTk10VXJTRDE3QTdZRWtHcWNvaXVESHhPLWNzYUlnZmlJYW9qaVI0TWxtQXA3c2RLLVVJVlNiWFF1LWp6N0JnVVRHbTJOVlVaZU1DZjhPN2ZuNUVadnZJUmZ3MElaeENOcnJleDV1VkdCeTMwSmRRZnJSNkpWRldGRmV5Z1BmbV9vR1VZ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f7949a1d091a",
-      "title": "記憶力變差、皮膚癢、焦慮？小心是身體缺乏Omega-3的求救信號10大警訊快檢查- 營養好食 - TVBS 健康2.0",
-      "published": "2026-07-14T06:50:24+00:00",
-      "summary": "記憶力變差、皮膚癢、焦慮？小心是身體缺乏Omega-3的求救信號10大警訊快檢查- 營養好食&nbsp;&nbsp;TVBS 健康2.0前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJMXg2UG4xb1ZZVnVjLUJQRk1aeU80N0VzanQ5TmlLdWJwZE11TVc2ZTJ2SWEyRXcyWVFOQU9TenJTRFYwSzBQOVc3azJRT3FyWldpYWRR?oc=5"
         }
       ],
       "matched_keywords": []

@@ -1,50 +1,50 @@
 {
-  "generated": "2026-07-16T04:52:23.666428+00:00",
-  "count": 5,
+  "generated": "2026-07-16T07:16:18.568279+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "ba4a273ed960",
-      "title": "健康網》孤獨感恐傷腦！研究：失智風險增 醫教4招找回活力",
-      "published": "2026-07-15T12:18:00+00:00",
+      "id": "fb7cbc23c006",
+      "title": "乳癌切除「肩膀一重一輕」？台東馬偕立即性重建解癌友心結",
+      "published": "2026-07-16T03:46:41+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wNi1MY0E3bjVnRXpnWmJrdXR2RWNQRnFPMFl5VmVOUUFhSUcxcUdoWGN0aWlOLXp0c0EtWjlDTVBOSWVYemRxZFlCQ09ocGh6TlZsaFVFZUJWMzlsSExlUmhmU3nSAWpBVV95cUxOTFItVl9JNXQ4SkFXcEFMZ1pHam1qUm9kVDJ5TTVoSFhmeDNMRzBBWUJlSW1udkhLNEFoZnk5Qnc0WVpEaTRSNU5ld0ZmVUZQRjZyWUt6WkN5THE0dzlQdFk3am5jUDhiSEJ3?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45cmRHMTU0S1ROSFRMcXBRRDFpTjJVcXJfX3ZUWVMyVHhzSGMyRF81M2k3S3pUem94eUttbTlZWlh1UVEzNUFhSzZuWWxVejYzRXE5TVVnMVEwbWFzX194RUh1WFNObXRuYVNicTlR?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1cf104225d60",
-      "title": "規律運動可讓大腦逆齡0.6歲！腦神經科醫師：每周150分鐘中等運動，還能防止失智",
-      "published": "2026-07-15T10:39:27+00:00",
-      "sources": [
-        {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGFCcmN0bTZVMllqU3llLUJkTnhHTGNIaGFDeWZJQ25LaXpJenUtNy1GZnMzUzlnZWI5bVpDRTI0dGNRcWdSWkxLVV9MME81dGNjUjN1ZVAzWGJvbW1RbGRsVUtDdHNGRUV1aExwT2tJQkdxWVZiaGVRUXpoQ2c2YWhwMFBOWWg0S051MQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
