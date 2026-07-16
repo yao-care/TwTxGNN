@@ -14,7 +14,7 @@ permalink: /news/anastrozole/
 ---
 
 <p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
-<strong>Anastrozole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Anastrozole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,21 +38,13 @@ permalink: /news/anastrozole/
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [B12越補越危險？33萬人研究發現癌症風險高6倍，醫揭真相：恐是身體警訊](https://news.google.com/rss/articles/CBMiowNBVV95cUxQN0drSndmZk40VjBsSkNyMHR5YW9OQlpvTnFWeVRUVWZTVTktVVQtc3RTb2luaTJPcWk2ZXlZVjUzNmpmaWhvNVotNXIxVldxcnprM0J4WDJ4NmQ0a3VZbnN3UWFRd3NxOURKRUN0RG1RSzZOM1M2SzZJdEpEVmxFZU5sQW81YmlHWFlzWjhHcE1mR0phbU5NQmRjbUp3enRYN1c3T1dXTjVHRjJTa0V0cnJaRUhsdzRyenVpem1lMHVhMWd1WmZXM0ZjRG94R2l0WkNXM1A5Q1YtT0pQaGNWajk4V243Tk81ZjNQd3cya2VENHpRTnFSeUNJVkQzUXVJY2tYSGlpcFk2SUxlRkFnWE8wTlhvY1IzcHIxcjhQNWJiVFFwT0JFQkVfV1k5R3IwMEhxR25URm9XMzBJeWQ1bUZsWGtPcS1kaUNRS2ZFcGJkdmIwSGowWERLb3UwV2ZZVmtSYnFxVHpwTktuXzAxd3RIVkVUQW9hMFVZWVZZdnE5cnJ6YkN6LW1uYUE1SXhvRXF0Y08zR2c1UWRkamRzYnVVWQ?oc=5)
 
 2026-07-15 <span class="news-indication-tag">癌症</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiowNBVV95cUxQN0drSndmZk40VjBsSkNyMHR5YW9OQlpvTnFWeVRUVWZTVTktVVQtc3RTb2luaTJPcWk2ZXlZVjUzNmpmaWhvNVotNXIxVldxcnprM0J4WDJ4NmQ0a3VZbnN3UWFRd3NxOURKRUN0RG1RSzZOM1M2SzZJdEpEVmxFZU5sQW81YmlHWFlzWjhHcE1mR0phbU5NQmRjbUp3enRYN1c3T1dXTjVHRjJTa0V0cnJaRUhsdzRyenVpem1lMHVhMWd1WmZXM0ZjRG94R2l0WkNXM1A5Q1YtT0pQaGNWajk4V243Tk81ZjNQd3cya2VENHpRTnFSeUNJVkQzUXVJY2tYSGlpcFk2SUxlRkFnWE8wTlhvY1IzcHIxcjhQNWJiVFFwT0JFQkVfV1k5R3IwMEhxR25URm9XMzBJeWQ1bUZsWGtPcS1kaUNRS2ZFcGJkdmIwSGowWERLb3UwV2ZZVmtSYnFxVHpwTktuXzAxd3RIVkVUQW9hMFVZWVZZdnE5cnJ6YkN6LW1uYUE1SXhvRXF0Y08zR2c1UWRkamRzYnVVWQ?oc=5)
-
----
-
-### [研究發現，高脂飲食與腸道細菌可增強癌症免疫療法](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IRVNlQ3ZOV08wc1FxY3hSRDFudU4tclYzTm9CNTZfN25YcDJ1eHotVlJNV19SS2t0eHJ3UmpCeWNWS2ptVkpzVzdGR2VVZFgwOWc?oc=5)
-
-2026-07-14 <span class="news-indication-tag">癌症</span>
-
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IRVNlQ3ZOV08wc1FxY3hSRDFudU4tclYzTm9CNTZfN25YcDJ1eHotVlJNV19SS2t0eHJ3UmpCeWNWS2ptVkpzVzdGR2VVZFgwOWc?oc=5)
 
 ---
 

@@ -1,29 +1,17 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-16T13:22:24.490511+00:00",
-  "count": 17,
+  "fetched_at": "2026-07-16T15:26:32.078566+00:00",
+  "count": 15,
   "news": [
     {
-      "id": "e18097548a1f",
-      "title": "感冒愈來愈難好？醫揭胸口「1器官」悄悄退化 恐影響疫苗保護力 - 台視新聞網",
-      "published": "2026-07-16T07:00:02+00:00",
-      "summary": "感冒愈來愈難好？醫揭胸口「1器官」悄悄退化 恐影響疫苗保護力&nbsp;&nbsp;台視新聞網",
+      "id": "a9e6876b8381",
+      "title": "雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」 - 三立新聞",
+      "published": "2026-07-15T16:33:43+00:00",
+      "summary": "雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」&nbsp;&nbsp;三立新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LeXFtU1dZdzlQb3FsdFhkZldKRmtKTVBmNk10VnFBM2xNajRQeFB0RXhleHRIb0pUMVA5aGhQWEVKaEk1UkJIUGpJTGNRTGN5VV90anRFWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e1559933499d",
-      "title": "台灣學童過敏性疾病隨年齡演變研究揭示精準防治新契機 - GeneOnline News",
-      "published": "2026-07-16T00:05:36+00:00",
-      "summary": "台灣學童過敏性疾病隨年齡演變研究揭示精準防治新契機&nbsp;&nbsp;GeneOnline News健康網》「蕁麻疹」急性、慢性大不同！皮膚醫解析&nbsp;&nbsp;自由健康網家裡超乾淨還是過敏？研究：台過敏兒直逼 5 成！用 1 檢測提前預知&nbsp;&nbsp;PChome Online 新聞孩童蕁麻疹，是小兒科醫師常見的困擾，也是家長的疑問嗎？&nbsp;&nbsp;careonline.com.tw困在孩子過敏裡的年輕父母，如何破局&nbsp;&nbsp;紫荊雜誌",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPQkt5T19qZDBpVzlYVW5ocFFwQWVGVFVXM0wxNUdqYmdfV3Itbzhpem9fUUh3dW8za0RlOXNVc1piYmRuMHVfWUhUUFpSaWNweWNiQ1J5MEY3d21kVF9kOWNCZV8wbDhfS0hEUjA5b2d4NG9uNkhQc1diOW5fZjFMUThmdFBtMDc2S2xRdVBGcjM2UTlNSEhNV2tMcjFpbHZxUGxHZTUtb1RxYnZOV1R5a3RDWVMzM3dmSFJyVlRFTHFIbjUwSUJVOWpGZ2plS3BQY0N3N2s2RzVuVk5hUVhhVi1xNlhlSHVQSmt2MXJDVkFRSnFiWXFWNmxBaXRFMjc1M1hpOVJsekxma0pjMXBRbVc4OXFGLXFiQ1F4ZjI4Z2hmLWpwZ1NiWUN1RmlselIwTzN0cnhjdkllNmVSMi1CTGFNUTdKZw?oc=5"
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QQ2g2eWFRaXlPVFJjU0p5UU9jMWViOS1sck55U2NXZ180dXF5Qy0wY1NLeG9YSlJORHlhMDBjTVF4Q3RiVTQ4cUxYbEI?oc=5"
         }
       ]
     },
@@ -40,6 +28,30 @@
       ]
     },
     {
+      "id": "e1559933499d",
+      "title": "台灣學童過敏性疾病隨年齡演變研究揭示精準防治新契機 - GeneOnline News",
+      "published": "2026-07-16T00:05:36+00:00",
+      "summary": "台灣學童過敏性疾病隨年齡演變研究揭示精準防治新契機&nbsp;&nbsp;GeneOnline News健康網》「蕁麻疹」急性、慢性大不同！皮膚醫解析&nbsp;&nbsp;自由健康網家裡超乾淨還是過敏？研究：台過敏兒直逼 5 成！用 1 檢測提前預知&nbsp;&nbsp;PChome Online 新聞孩童蕁麻疹，是小兒科醫師常見的困擾，也是家長的疑問嗎？&nbsp;&nbsp;careonline.com.tw困在孩子過敏裡的年輕父母，如何破局&nbsp;&nbsp;紫荊雜誌",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPQkt5T19qZDBpVzlYVW5ocFFwQWVGVFVXM0wxNUdqYmdfV3Itbzhpem9fUUh3dW8za0RlOXNVc1piYmRuMHVfWUhUUFpSaWNweWNiQ1J5MEY3d21kVF9kOWNCZV8wbDhfS0hEUjA5b2d4NG9uNkhQc1diOW5fZjFMUThmdFBtMDc2S2xRdVBGcjM2UTlNSEhNV2tMcjFpbHZxUGxHZTUtb1RxYnZOV1R5a3RDWVMzM3dmSFJyVlRFTHFIbjUwSUJVOWpGZ2plS3BQY0N3N2s2RzVuVk5hUVhhVi1xNlhlSHVQSmt2MXJDVkFRSnFiWXFWNmxBaXRFMjc1M1hpOVJsekxma0pjMXBRbVc4OXFGLXFiQ1F4ZjI4Z2hmLWpwZ1NiWUN1RmlselIwTzN0cnhjdkllNmVSMi1CTGFNUTdKZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e18097548a1f",
+      "title": "感冒愈來愈難好？醫揭胸口「1器官」悄悄退化 恐影響疫苗保護力 - 台視新聞網",
+      "published": "2026-07-16T07:00:02+00:00",
+      "summary": "感冒愈來愈難好？醫揭胸口「1器官」悄悄退化 恐影響疫苗保護力&nbsp;&nbsp;台視新聞網",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LeXFtU1dZdzlQb3FsdFhkZldKRmtKTVBmNk10VnFBM2xNajRQeFB0RXhleHRIb0pUMVA5aGhQWEVKaEk1UkJIUGpJTGNRTGN5VV90anRFWQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b0880ce7216c",
       "title": "不是吃得健康！研究：長壽的人都有這個共同特質 - 自由健康網",
       "published": "2026-07-16T03:38:00+00:00",
@@ -48,18 +60,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50RzZjTzZiY3BlMlBJV0hyc2FjTjBwU1B0ZFUxQklqaXF1TUo3UU1WNnRPQ2J0OGtOQ2xQVUpnek1ZeXJMOURBTl94dUJ1bXE0d3J1cFVFVXJUZ0pSbVRmbVZGTV_SAWpBVV95cUxQRGN5ODhUQmN3MXBLdXpjZ2M3dGVOVzBBNm5sSFZUQlE3Y3JNRm5ySlFxNGxtLWlacU1BUFVNMWJyMUdMdUJ2Q2kzNE02VTAyQXdiNVd5UVUySS1kOTB0eGlxOENSX0R0NktR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a9e6876b8381",
-      "title": "雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」 - 三立新聞",
-      "published": "2026-07-15T16:33:43+00:00",
-      "summary": "雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」&nbsp;&nbsp;三立新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QQ2g2eWFRaXlPVFJjU0p5UU9jMWViOS1sck55U2NXZ180dXF5Qy0wY1NLeG9YSlJORHlhMDBjTVF4Q3RiVTQ4cUxYbEI?oc=5"
         }
       ]
     },
@@ -112,18 +112,6 @@
       ]
     },
     {
-      "id": "49b5c62b2ff6",
-      "title": "研究發現，高脂飲食與腸道細菌可增強癌症免疫療法 - 蕃新聞",
-      "published": "2026-07-14T13:25:00+00:00",
-      "summary": "研究發現，高脂飲食與腸道細菌可增強癌症免疫療法&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IRVNlQ3ZOV08wc1FxY3hSRDFudU4tclYzTm9CNTZfN25YcDJ1eHotVlJNV19SS2t0eHJ3UmpCeWNWS2ptVkpzVzdGR2VVZFgwOWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "11415667544e",
       "title": "從治療邁向預防！羅氏(RHHBY.US)啓動阿爾茨海默病Brainshuttle療法臨牀試驗 作者 智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
       "published": "2026-07-15T04:18:45+00:00",
@@ -148,14 +136,14 @@
       ]
     },
     {
-      "id": "68c17838f8b3",
-      "title": "國家疾控局： 內地新冠病毒總體處低流行水平 - bastillepost.com",
-      "published": "2026-07-16T07:27:19+00:00",
-      "summary": "國家疾控局： 內地新冠病毒總體處低流行水平&nbsp;&nbsp;bastillepost.com中國新冠疫情仍處於低流行水平&nbsp;&nbsp;hkcna.hk國家疾控局：全國呼吸道傳染病整體處於低流行水平&nbsp;&nbsp;i-cable.com國家疾控局：內地新冠病毒總體處於低流行水平&nbsp;&nbsp;香港文匯報中疾控：警惕登革熱、基孔肯雅熱境外輸入風險&nbsp;&nbsp;hkcna.hk",
+      "id": "ddca3d2efb1a",
+      "title": "美國人真的都用洗碗機嗎？ 調查數據出爐 - 大纪元",
+      "published": "2026-07-15T03:00:00+00:00",
+      "summary": "美國人真的都用洗碗機嗎？ 調查數據出爐&nbsp;&nbsp;大纪元",
       "sources": [
         {
-          "name": "bastillepost.com",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNdWoxcFUtdWlpQzFleFZGY0MwZnpGc2o1OVFSdVgtalExdllwS2Z1REVubldheHotNV9iNXpiYkx1aFZTUVRMSHZhOGZqb1laUDYwNlFGZnpTU1NHSHQxcEg2aE96YWoza0Z3Tm1SSEZJUG1oZEk0bWEtUlFYV2J3bVhuX2UzYTl5aTE0Q0RjTzEtQnVSODJfNEo4MF8yb0N5SndQUlYzM1NsQkIzV2dtSkRYd3JLYU1CYVpRVmxBRGZtQ3plSzhITnZZa3BIcUU2djBiUGNiY2pGUk9mdXh0VjlaSHNvRkxMSGk1NkprczlXQUd4bzE0OXFGaHplNHlBTVNlbGZxa3NLaE5pNGx5VVBsVTZQNzUyRnNxX3RqOHpBcV8tSi1hclQtc24ta0lHWWZTVG16dE9VSXhHdWwybTVDN0x1SjFVamdMTHFRbi1jdG43Y1E?oc=5"
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwcC1TTmkzbEIybWJXLVVIbE9hNzZvM1YwZ0tSbE8zZXNBX0l1TlJ3Z0RRMHczNjJZQmJ6UVBpZkdSN2NHWE1OcWozaGtmeEVCZnFCM1hTY0l4RzRtVzNkcdIBZkFVX3lxTE0xbE03Mk1OT1JEUFJoTlBrdHk5LUlwOGNDYVhRMHNYLTdpblpoSGY4VkNuMkVvVXJpY0I5aF94emZxbVNabnlEdU1qQkhPMS1xekQ3ajBNcWFyRWpSVVFqRUY2eTR3UQ?oc=5"
         }
       ]
     },
@@ -172,38 +160,26 @@
       ]
     },
     {
-      "id": "ddca3d2efb1a",
-      "title": "美國人真的都用洗碗機嗎？ 調查數據出爐 - 大纪元",
-      "published": "2026-07-15T03:00:00+00:00",
-      "summary": "美國人真的都用洗碗機嗎？ 調查數據出爐&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwcC1TTmkzbEIybWJXLVVIbE9hNzZvM1YwZ0tSbE8zZXNBX0l1TlJ3Z0RRMHczNjJZQmJ6UVBpZkdSN2NHWE1OcWozaGtmeEVCZnFCM1hTY0l4RzRtVzNkcdIBZkFVX3lxTE0xbE03Mk1OT1JEUFJoTlBrdHk5LUlwOGNDYVhRMHNYLTdpblpoSGY4VkNuMkVvVXJpY0I5aF94emZxbVNabnlEdU1qQkhPMS1xekQ3ajBNcWFyRWpSVVFqRUY2eTR3UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "69cfce5e0cec",
-      "title": "蚊叮警號｜港女腳眼被蚊叮後抓出小傷口更惡化成「蜂窩組織炎」 若延誤治療恐截肢| 健康解「迷」 - 醫學通識- 健康好人生 - etnet 經濟通",
+      "id": "a73048f95cd1",
+      "title": "蚊叮警號｜港女腳眼被蚊叮後抓出小傷口 更惡化成「蜂窩組織炎」 若延誤治療恐截肢 - etnet 經濟通",
       "published": "2026-07-16T10:01:39+00:00",
-      "summary": "蚊叮警號｜港女腳眼被蚊叮後抓出小傷口更惡化成「蜂窩組織炎」 若延誤治療恐截肢| 健康解「迷」 - 醫學通識- 健康好人生&nbsp;&nbsp;etnet 經濟通",
+      "summary": "蚊叮警號｜港女腳眼被蚊叮後抓出小傷口 更惡化成「蜂窩組織炎」 若延誤治療恐截肢&nbsp;&nbsp;etnet 經濟通",
       "sources": [
         {
           "name": "etnet 經濟通",
-          "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxPRUdEZGk3WUJ1dDZBQU11ZU1hNlhSd0MzTjZhcExGWXVhazJ0VWthRTdFZ0hSV1ZxblFXRGx6ZEt0ZzRYZnAwLWtsQVlLd2dGeDJaN0hkU0IwNmJyWnkzLXJaSS1rS2w5WHFPUDZCS0ZzTUViWEhJdi1pX0w4cjltQTgwSG1NajROUG5TVENXQ21MSkIwSksxZWt0ZkloMlpPMUNZbUg5LVlsWDA1RWxTY2ItV1JNaDM0YVlveDlRZ3ktQlFkdWNqRGp2M0VMVzF0V2Ezdjhrc2Z3UFBqcVA0cko2Z1ZLd1RXZVRLVEhVSnpaZERDX2hmeTR3QUJLdWtUeVZiSW9UeGZWLVNaanRqS0JPSmd3eThGMGFCWWNnZXlvRXE0dVhRWFdxWldXLWI1X25IMjFDVVpkY0Rza2hMdmdlRTZHVk9xV192M3MyeEVyWVBYZGdmU0l1S3NORGdCVVE5N2tyZVNMUU5zQlBaNl9JcnFPRGtHMWItUFJOTW5tLWpOYVhFNUtxVDJrUkxxQVU0Z0Qzb3dvNGtUWGZPcnUyTGdicjR6SkRNa3I5bG84M0E5djVxOER1c2R6dzFXekNMYllJWWdVOUxhb3o3M0puZUtLbFhneXRpZmY5MzVKZmxmaHNnVUJ1Y2RldFROck5YY0N5aUZYbDM1XzBxTy16TXpXQW5HbHFPcDNibTFMakRCV3VYQ25fYW5KeEx1ZWFHUko0Q1A0WVMyaFBJMzd2VDU3OUhVZllMbXhlX2tQcG1aeWRYbzdibEs?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83VU1kQ05ZX0dqdVNiWGhNNi1jV1lWbDQtUmJlU0hpZDh6bkU0S2E3c0dDdzZlc0NXRjhVRzByRFN1MTh3YmV3cUVnckc3QzY3Mm9EU1A5Mko?oc=5"
         }
       ]
     },
     {
-      "id": "e0a3e2eac37b",
-      "title": "🎙️很多人不知道 老年人肥胖問題比想像的更嚴重 - 世界新聞網",
-      "published": "2026-07-14T13:35:00+00:00",
-      "summary": "🎙️很多人不知道 老年人肥胖問題比想像的更嚴重&nbsp;&nbsp;世界新聞網",
+      "id": "d644e2732b51",
+      "title": "國家疾控局：南方部分省份 存在登革熱等疫情風險 - 香港經濟日報HKET",
+      "published": "2026-07-16T04:01:12+00:00",
+      "summary": "國家疾控局：南方部分省份 存在登革熱等疫情風險&nbsp;&nbsp;香港經濟日報HKET中國新冠疫情仍處於低流行水平&nbsp;&nbsp;hkcna.hk國家疾控局：內地新冠病毒總體處於低流行水平&nbsp;&nbsp;香港文匯報中疾控：警惕登革熱、基孔肯雅熱境外輸入風險&nbsp;&nbsp;hkcna.hk國家疾控局：疫情風險上升 南方有登革熱、基孔肯雅熱疫情風險&nbsp;&nbsp;Now 新聞",
       "sources": [
         {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DM1VtNjVLUnl4VVh5T19JN3h0d2ZwYlhjQkxQZTVVclo0RTR1LXZlN1M3MndWTG15NkRvcnlxRS1RMm9SV2s1VEF4aHZoWGZDYjRIYzhhYjk0TVdBM3ZaWWJ30gFnQVVfeXFMTjNiZVUzcktUZmctWTBBMUMwWFVueUdXczFmZVZWTzRRS3Bfc2NOWm4tMnVkTmxSSFp6VUpSTE1LODQ1clJZNGtxR0E5ZGUxdk9maUcwRlVrWmV4RlpaUnZjb3h1UFd4UQ?oc=5"
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPOWE4enljQVppTmxTZkZFQVBnMDJfXzYtTHFfeVNyMHNNVHRLQzFWZklPbDlWU2FEUWJEcm5ncVEwWEM0cEhtVlJlcE8xNVZXSk9tYUVSWUtsNU9zaDduSGUzUU1wMXljTmQ5NFl2U3E2WHlXU2JBUlhtVm9hN1NnRWZpN0lUNkhDcTdYTDZrSmd1eEJjYnZvOXAyUHoxVU42czFPQTVBSi0ySlJvU0lESTJLNEVMazJicmVDODJMRXNTelBNV1pNOEZsWk02NGpGNlVSX3ZSVFhkRXByQ2U2amNKQ284QUp4YXVERmxHVHlxVkFtVGx0YThVYThuNEFvWmh1NGZCNWp2UW9pc05UcFlscHpLRDdwWUFwcEl1ZXlDWTlvZ2hoTXRCRWtDMGY5STVtclZOUUY3Z25UZUtyY1A0b0IyeDBQYkJrbWRmeDhzX2JTdDROSUV4U3I?oc=5"
         }
       ]
     }
