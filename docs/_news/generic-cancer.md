@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,13 +75,13 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [B12越補越危險？33萬人研究發現癌症風險高6倍，醫揭真相：恐是身體警訊](https://news.google.com/rss/articles/CBMiowNBVV95cUxQN0drSndmZk40VjBsSkNyMHR5YW9OQlpvTnFWeVRUVWZTVTktVVQtc3RTb2luaTJPcWk2ZXlZVjUzNmpmaWhvNVotNXIxVldxcnprM0J4WDJ4NmQ0a3VZbnN3UWFRd3NxOURKRUN0RG1RSzZOM1M2SzZJdEpEVmxFZU5sQW81YmlHWFlzWjhHcE1mR0phbU5NQmRjbUp3enRYN1c3T1dXTjVHRjJTa0V0cnJaRUhsdzRyenVpem1lMHVhMWd1WmZXM0ZjRG94R2l0WkNXM1A5Q1YtT0pQaGNWajk4V243Tk81ZjNQd3cya2VENHpRTnFSeUNJVkQzUXVJY2tYSGlpcFk2SUxlRkFnWE8wTlhvY1IzcHIxcjhQNWJiVFFwT0JFQkVfV1k5R3IwMEhxR25URm9XMzBJeWQ1bUZsWGtPcS1kaUNRS2ZFcGJkdmIwSGowWERLb3UwV2ZZVmtSYnFxVHpwTktuXzAxd3RIVkVUQW9hMFVZWVZZdnE5cnJ6YkN6LW1uYUE1SXhvRXF0Y08zR2c1UWRkamRzYnVVWQ?oc=5)
+### [B12越補越危險？33萬人研究發現癌症風險高6倍，醫揭真相：恐是身體警訊](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oYjlxOGM4ZzJ4Q09ZRlY3aHRaaHNFaGt0TFZjTkdUSUUwOXZiU3ZWeDJXUXVsNldmZkNBZEIydDQ0eFVsM050UnNEZmMxQ1c5ZktnODdGUTdVQQ?oc=5)
 
 2026-07-15
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiowNBVV95cUxQN0drSndmZk40VjBsSkNyMHR5YW9OQlpvTnFWeVRUVWZTVTktVVQtc3RTb2luaTJPcWk2ZXlZVjUzNmpmaWhvNVotNXIxVldxcnprM0J4WDJ4NmQ0a3VZbnN3UWFRd3NxOURKRUN0RG1RSzZOM1M2SzZJdEpEVmxFZU5sQW81YmlHWFlzWjhHcE1mR0phbU5NQmRjbUp3enRYN1c3T1dXTjVHRjJTa0V0cnJaRUhsdzRyenVpem1lMHVhMWd1WmZXM0ZjRG94R2l0WkNXM1A5Q1YtT0pQaGNWajk4V243Tk81ZjNQd3cya2VENHpRTnFSeUNJVkQzUXVJY2tYSGlpcFk2SUxlRkFnWE8wTlhvY1IzcHIxcjhQNWJiVFFwT0JFQkVfV1k5R3IwMEhxR25URm9XMzBJeWQ1bUZsWGtPcS1kaUNRS2ZFcGJkdmIwSGowWERLb3UwV2ZZVmtSYnFxVHpwTktuXzAxd3RIVkVUQW9hMFVZWVZZdnE5cnJ6YkN6LW1uYUE1SXhvRXF0Y08zR2c1UWRkamRzYnVVWQ?oc=5)
+來源：[鏡新聞](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oYjlxOGM4ZzJ4Q09ZRlY3aHRaaHNFaGt0TFZjTkdUSUUwOXZiU3ZWeDJXUXVsNldmZkNBZEIydDQ0eFVsM050UnNEZmMxQ1c5ZktnODdGUTdVQQ?oc=5)
 
 ---
 
@@ -90,14 +90,6 @@ permalink: /news/generic-cancer/
 2026-07-14
 
 來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IRVNlQ3ZOV08wc1FxY3hSRDFudU4tclYzTm9CNTZfN25YcDJ1eHotVlJNV19SS2t0eHJ3UmpCeWNWS2ptVkpzVzdGR2VVZFgwOWc?oc=5)
-
----
-
-### [澳洲有近百萬癌症患者 40歲以下發病率上升](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mVGVBRW5VbXg5NDh3ZG5FQkNCdUNoRGNoTVJFYTlSeTN2cHlqMDFvdkhIam1GUmt3ak4xRVlwUUZqUzlVY0ZvdGEzN3B4MHltbnVLVkNtZXNpNXN4My04TdIBZkFVX3lxTE9fZURXeXdfYXlQTFZlTHN4NTcyUXl2UjFROTNPQlA0Z0NDMFhxNGlXUUJjRUtlTGFQREVBenh5WXF1YWs4cVRkWVRTTUhqQzVPOG5ES2I4SzlfZU5XMnJRT3h1QkV2Zw?oc=5)
-
-2026-07-14
-
-來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mVGVBRW5VbXg5NDh3ZG5FQkNCdUNoRGNoTVJFYTlSeTN2cHlqMDFvdkhIam1GUmt3ak4xRVlwUUZqUzlVY0ZvdGEzN3B4MHltbnVLVkNtZXNpNXN4My04TdIBZkFVX3lxTE9fZURXeXdfYXlQTFZlTHN4NTcyUXl2UjFROTNPQlA0Z0NDMFhxNGlXUUJjRUtlTGFQREVBenh5WXF1YWs4cVRkWVRTTUhqQzVPOG5ES2I4SzlfZU5XMnJRT3h1QkV2Zw?oc=5)
 
 ---
 

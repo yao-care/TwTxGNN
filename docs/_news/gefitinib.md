@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [健康網》孤獨感恐傷腦！研究：失智風險增 醫教4招找回活力](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wNi1MY0E3bjVnRXpnWmJrdXR2RWNQRnFPMFl5VmVOUUFhSUcxcUdoWGN0aWlOLXp0c0EtWjlDTVBOSWVYemRxZFlCQ09ocGh6TlZsaFVFZUJWMzlsSExlUmhmU3nSAWpBVV95cUxOTFItVl9JNXQ4SkFXcEFMZ1pHam1qUm9kVDJ5TTVoSFhmeDNMRzBBWUJlSW1udkhLNEFoZnk5Qnc0WVpEaTRSNU5ld0ZmVUZQRjZyWUt6WkN5THE0dzlQdFk3am5jUDhiSEJ3?oc=5)
 
@@ -61,17 +61,17 @@ permalink: /news/gefitinib/
 
 ### [從治療邁向預防！羅氏(RHHBY.US)啓動阿爾茨海默病Brainshuttle療法臨牀試驗 作者 智通財經 - Investing.com 香港 - 股市報價& 財經新聞](https://news.google.com/rss/articles/CBMicEFVX3lxTE93NTJ1Y3pWZV95SUlZQ0FzUnZocEZMbnFXRTd0aWVQNVk5YXFNNEpUMkU0YkkwSkJKTnpUV05Zd1d4eWlBY2NLMFZtZFdIV2lnRTIweGkzTG5MWXZMZUxXc01lNWdjUUZPeTVGMzdja1g?oc=5)
 
-2026-07-15 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+2026-07-15 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
 
 來源：[Investing.com 香港 - 股市報價& 財經新聞](https://news.google.com/rss/articles/CBMicEFVX3lxTE93NTJ1Y3pWZV95SUlZQ0FzUnZocEZMbnFXRTd0aWVQNVk5YXFNNEpUMkU0YkkwSkJKTnpUV05Zd1d4eWlBY2NLMFZtZFdIV2lnRTIweGkzTG5MWXZMZUxXc01lNWdjUUZPeTVGMzdja1g?oc=5)
 
 ---
 
-### [B12越補越危險？33萬人研究發現癌症風險高6倍，醫揭真相：恐是身體警訊](https://news.google.com/rss/articles/CBMiowNBVV95cUxQN0drSndmZk40VjBsSkNyMHR5YW9OQlpvTnFWeVRUVWZTVTktVVQtc3RTb2luaTJPcWk2ZXlZVjUzNmpmaWhvNVotNXIxVldxcnprM0J4WDJ4NmQ0a3VZbnN3UWFRd3NxOURKRUN0RG1RSzZOM1M2SzZJdEpEVmxFZU5sQW81YmlHWFlzWjhHcE1mR0phbU5NQmRjbUp3enRYN1c3T1dXTjVHRjJTa0V0cnJaRUhsdzRyenVpem1lMHVhMWd1WmZXM0ZjRG94R2l0WkNXM1A5Q1YtT0pQaGNWajk4V243Tk81ZjNQd3cya2VENHpRTnFSeUNJVkQzUXVJY2tYSGlpcFk2SUxlRkFnWE8wTlhvY1IzcHIxcjhQNWJiVFFwT0JFQkVfV1k5R3IwMEhxR25URm9XMzBJeWQ1bUZsWGtPcS1kaUNRS2ZFcGJkdmIwSGowWERLb3UwV2ZZVmtSYnFxVHpwTktuXzAxd3RIVkVUQW9hMFVZWVZZdnE5cnJ6YkN6LW1uYUE1SXhvRXF0Y08zR2c1UWRkamRzYnVVWQ?oc=5)
+### [B12越補越危險？33萬人研究發現癌症風險高6倍，醫揭真相：恐是身體警訊](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oYjlxOGM4ZzJ4Q09ZRlY3aHRaaHNFaGt0TFZjTkdUSUUwOXZiU3ZWeDJXUXVsNldmZkNBZEIydDQ0eFVsM050UnNEZmMxQ1c5ZktnODdGUTdVQQ?oc=5)
 
 2026-07-15 <span class="news-indication-tag">癌症</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiowNBVV95cUxQN0drSndmZk40VjBsSkNyMHR5YW9OQlpvTnFWeVRUVWZTVTktVVQtc3RTb2luaTJPcWk2ZXlZVjUzNmpmaWhvNVotNXIxVldxcnprM0J4WDJ4NmQ0a3VZbnN3UWFRd3NxOURKRUN0RG1RSzZOM1M2SzZJdEpEVmxFZU5sQW81YmlHWFlzWjhHcE1mR0phbU5NQmRjbUp3enRYN1c3T1dXTjVHRjJTa0V0cnJaRUhsdzRyenVpem1lMHVhMWd1WmZXM0ZjRG94R2l0WkNXM1A5Q1YtT0pQaGNWajk4V243Tk81ZjNQd3cya2VENHpRTnFSeUNJVkQzUXVJY2tYSGlpcFk2SUxlRkFnWE8wTlhvY1IzcHIxcjhQNWJiVFFwT0JFQkVfV1k5R3IwMEhxR25URm9XMzBJeWQ1bUZsWGtPcS1kaUNRS2ZFcGJkdmIwSGowWERLb3UwV2ZZVmtSYnFxVHpwTktuXzAxd3RIVkVUQW9hMFVZWVZZdnE5cnJ6YkN6LW1uYUE1SXhvRXF0Y08zR2c1UWRkamRzYnVVWQ?oc=5)
+來源：[鏡新聞](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oYjlxOGM4ZzJ4Q09ZRlY3aHRaaHNFaGt0TFZjTkdUSUUwOXZiU3ZWeDJXUXVsNldmZkNBZEIydDQ0eFVsM050UnNEZmMxQ1c5ZktnODdGUTdVQQ?oc=5)
 
 ---
 
@@ -80,14 +80,6 @@ permalink: /news/gefitinib/
 2026-07-14 <span class="news-indication-tag">癌症</span>
 
 來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IRVNlQ3ZOV08wc1FxY3hSRDFudU4tclYzTm9CNTZfN25YcDJ1eHotVlJNV19SS2t0eHJ3UmpCeWNWS2ptVkpzVzdGR2VVZFgwOWc?oc=5)
-
----
-
-### [澳洲有近百萬癌症患者 40歲以下發病率上升](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mVGVBRW5VbXg5NDh3ZG5FQkNCdUNoRGNoTVJFYTlSeTN2cHlqMDFvdkhIam1GUmt3ak4xRVlwUUZqUzlVY0ZvdGEzN3B4MHltbnVLVkNtZXNpNXN4My04TdIBZkFVX3lxTE9fZURXeXdfYXlQTFZlTHN4NTcyUXl2UjFROTNPQlA0Z0NDMFhxNGlXUUJjRUtlTGFQREVBenh5WXF1YWs4cVRkWVRTTUhqQzVPOG5ES2I4SzlfZU5XMnJRT3h1QkV2Zw?oc=5)
-
-2026-07-14 <span class="news-indication-tag">癌症</span>
-
-來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mVGVBRW5VbXg5NDh3ZG5FQkNCdUNoRGNoTVJFYTlSeTN2cHlqMDFvdkhIam1GUmt3ak4xRVlwUUZqUzlVY0ZvdGEzN3B4MHltbnVLVkNtZXNpNXN4My04TdIBZkFVX3lxTE9fZURXeXdfYXlQTFZlTHN4NTcyUXl2UjFROTNPQlA0Z0NDMFhxNGlXUUJjRUtlTGFQREVBenh5WXF1YWs4cVRkWVRTTUhqQzVPOG5ES2I4SzlfZU5XMnJRT3h1QkV2Zw?oc=5)
 
 ---
 
