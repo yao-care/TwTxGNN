@@ -1,79 +1,42 @@
 {
-  "last_updated": "2026-07-16T07:16:18.537280+00:00",
-  "total_count": 18,
+  "last_updated": "2026-07-16T09:58:07.582608+00:00",
+  "total_count": 17,
   "matched_count": 4,
   "news": [
     {
-      "id": "8e6966a864f5",
-      "title": "國家疾控局：南方部分省份存在登革熱、基孔肯雅熱疫情風險 - Yahoo 財經",
-      "published": "2026-07-16T05:15:58+00:00",
-      "summary": "國家疾控局：南方部分省份存在登革熱、基孔肯雅熱疫情風險&nbsp;&nbsp;Yahoo 財經國家疾控局：內地新冠病毒總體處低流行水平- 港聞&nbsp;&nbsp;點新聞國家疾控局：全國新冠疫情總體上處於低流行水平&nbsp;&nbsp;香港商报國家疾控局：新冠病毒疫情呈低流行水平&nbsp;&nbsp;香港文匯報疾控局: 南方省份有雙熱聚集性疫情風險&nbsp;&nbsp;TDM",
+      "id": "e18097548a1f",
+      "title": "感冒愈來愈難好？醫揭胸口「1器官」悄悄退化 恐影響疫苗保護力",
+      "published": "2026-07-16T09:04:02+00:00",
+      "summary": "感冒愈來愈難好？醫揭胸口「1器官」悄悄退化 恐影響疫苗保護力&nbsp;&nbsp;台視新聞網",
       "sources": [
         {
-          "name": "Yahoo 財經",
-          "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxQcy1GbFhvNVBFTFJhRWZ1bTFtekgyQThhU21FUkpZVEF2OXNoV0FhY01UZnpNRjduNDNGdll3OV8xRXUzeHlnZnlmdXdfZ1htaWNYY3JUVnpjb0l5WFdYS3VaanVyc1VCYlY2LWZ3alBVUmZCYTNSRTdiTWVSd0NUelBiUXhwTGVKZFE2Q0ZDenY3VU5zeE44Y3Qyajl2MzhUZmtWVENtWlB4VGNYNE4yRnFpam5MaV8waGJmMlBGT2JaN2ltTjNENHZEY3dSMUlaS0hmcU84OUV4ZnphNG5pbTVFRW1nMzhTYm5ISTdtTWdnT0hmanJqMVFQaE1ESXQ5c1M3ZGt2VmZHZjkza3pRWVByeVEtVXBsVW1RZDZMd09LWm9nQ0tWYnROeU9DQ3ZoMDJsN3RXd1RVSGxSTGhISmVEQkE3Wm5iaFZXaEJhbG5Ja1NVQUxuaDkwVmNyVnZ5b25LamVhcUZpVWUyNThqVnhfVURXWDlwN0x3LXI3c25ReGRtTEZIV2UyaXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fb7cbc23c006",
-      "title": "乳癌切除「肩膀一重一輕」？台東馬偕立即性重建解癌友心結",
-      "published": "2026-07-16T03:46:41+00:00",
-      "summary": "乳癌切除「肩膀一重一輕」？台東馬偕立即性重建解癌友心結&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45cmRHMTU0S1ROSFRMcXBRRDFpTjJVcXJfX3ZUWVMyVHhzSGMyRF81M2k3S3pUem94eUttbTlZWlh1UVEzNUFhSzZuWWxVejYzRXE5TVVnMVEwbWFzX194RUh1WFNObXRuYVNicTlR?oc=5"
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LeXFtU1dZdzlQb3FsdFhkZldKRmtKTVBmNk10VnFBM2xNajRQeFB0RXhleHRIb0pUMVA5aGhQWEVKaEk1UkJIUGpJTGNRTGN5VV90anRFWQ?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
+          "name": "common cold",
+          "keyword": "感冒",
           "related_drugs": [
             {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }
       ]
     },
     {
-      "id": "7604512e2bf0",
-      "title": "拿鐵抗炎力竟飆2倍！最新研究揭咖啡加奶奇效 卻因一地雷遭世衛點名",
-      "published": "2026-07-16T03:44:32+00:00",
-      "summary": "拿鐵抗炎力竟飆2倍！最新研究揭咖啡加奶奇效 卻因一地雷遭世衛點名&nbsp;&nbsp;三立新聞",
+      "id": "f5edd545e15e",
+      "title": "國家疾控局： 內地新冠病毒總體處低流行水平",
+      "published": "2026-07-16T07:27:19+00:00",
+      "summary": "國家疾控局： 內地新冠病毒總體處低流行水平&nbsp;&nbsp;巴士的報國家疾控局：內地新冠病毒總體處於低流行水平&nbsp;&nbsp;香港文匯報國家疾控局：全國呼吸道傳染病整體處於低流行水平- 有線寬頻i-CABLE&nbsp;&nbsp;i-cable.com國家疾控局：全國新冠疫情總體上處於低流行水平&nbsp;&nbsp;香港商报疾控局：南方部分省份存在登革熱等疫情風險&nbsp;&nbsp;881903.com",
       "sources": [
         {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtTGtLeU5uNjJxMk52a1MxTEtNY1dxU0tPQWJJMV9KWXhxVkZoWXFlRnlwSGthcVhJRXJ1NHpFWEJxNGdLUlo4UUNIbVM?oc=5"
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNdWoxcFUtdWlpQzFleFZGY0MwZnpGc2o1OVFSdVgtalExdllwS2Z1REVubldheHotNV9iNXpiYkx1aFZTUVRMSHZhOGZqb1laUDYwNlFGZnpTU1NHSHQxcEg2aE96YWoza0Z3Tm1SSEZJUG1oZEk0bWEtUlFYV2J3bVhuX2UzYTl5aTE0Q0RjTzEtQnVSODJfNEo4MF8yb0N5SndQUlYzM1NsQkIzV2dtSkRYd3JLYU1CYVpRVmxBRGZtQ3plSzhITnZZa3BIcUU2djBiUGNiY2pGUk9mdXh0VjlaSHNvRkxMSGk1NkprczlXQUd4bzE0OXFGaHplNHlBTVNlbGZxa3NLaE5pNGx5VVBsVTZQNzUyRnNxX3RqOHpBcV8tSi1hclQtc24ta0lHWWZTVG16dE9VSXhHdWwybTVDN0x1SjFVamdMTHFRbi1jdG43Y1E?oc=5"
         }
       ],
       "matched_keywords": []
@@ -118,14 +81,14 @@
       "matched_keywords": []
     },
     {
-      "id": "a5954b176e6d",
+      "id": "a9e6876b8381",
       "title": "雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」",
-      "published": "2026-07-15T07:01:06+00:00",
-      "summary": "雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "published": "2026-07-15T16:33:43+00:00",
+      "summary": "雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」&nbsp;&nbsp;三立新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOZDQ5NExRalg1TExLS1VrdHNETXNsYjEyemxpMF9YMlJyd0hWeUFhLVdWUjBxbXdNbmZDRU5ZT1NiNlRtamx1UEtSS1dFc3N5dXU2UUx2WUdhbHNURlBnbzBlTW9xOW1xdUZZN2YySE1vcDNVMkw2V1BZYXRiZXRPbjJsNmxqUUdXX1pVR2FqLWx2S0xCVU9ZMWlFTDJUMlVBWGxlQjFwZFBielN1T2R4RENIeXQ4bXVFb21kTWFBbnY5ZWRDTEp2cFJMUmdiSEdaYWZfbkNWXzM3aGhuekFRVF9jYWdLckFtR2FTZGhhaFJtMGVScmtCbzdhVkdUZUlCa2g0cGQ0Y3lxSnRLV1JGX2MtRGtEOFM2bE5yRXIwN1hvUWFhOU5aLWdxbWhLbHpKeFZLdmVDMndrMFJjQ1BXYVNta2gwSmpOV2JJWWF0d0p4UjJoTXEzQmlCNnVqaGRONUl6dnNmMnJmTDRxM1BLbFVqZng1TWJXdEE?oc=5"
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QQ2g2eWFRaXlPVFJjU0p5UU9jMWViOS1sck55U2NXZ180dXF5Qy0wY1NLeG9YSlJORHlhMDBjTVF4Q3RiVTQ4cUxYbEI?oc=5"
         }
       ],
       "matched_keywords": []
@@ -191,14 +154,14 @@
       ]
     },
     {
-      "id": "4bdfd9d63e5e",
+      "id": "f967768f6c34",
       "title": "B12越補越危險？33萬人研究發現癌症風險高6倍，醫揭真相：恐是身體警訊",
-      "published": "2026-07-15T03:23:00+00:00",
-      "summary": "B12越補越危險？33萬人研究發現癌症風險高6倍，醫揭真相：恐是身體警訊&nbsp;&nbsp;鏡新聞",
+      "published": "2026-07-15T04:13:04+00:00",
+      "summary": "B12越補越危險？33萬人研究發現癌症風險高6倍，醫揭真相：恐是身體警訊&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "鏡新聞",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oYjlxOGM4ZzJ4Q09ZRlY3aHRaaHNFaGt0TFZjTkdUSUUwOXZiU3ZWeDJXUXVsNldmZkNBZEIydDQ0eFVsM050UnNEZmMxQ1c5ZktnODdGUTdVQQ?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQN0drSndmZk40VjBsSkNyMHR5YW9OQlpvTnFWeVRUVWZTVTktVVQtc3RTb2luaTJPcWk2ZXlZVjUzNmpmaWhvNVotNXIxVldxcnprM0J4WDJ4NmQ0a3VZbnN3UWFRd3NxOURKRUN0RG1RSzZOM1M2SzZJdEpEVmxFZU5sQW81YmlHWFlzWjhHcE1mR0phbU5NQmRjbUp3enRYN1c3T1dXTjVHRjJTa0V0cnJaRUhsdzRyenVpem1lMHVhMWd1WmZXM0ZjRG94R2l0WkNXM1A5Q1YtT0pQaGNWajk4V243Tk81ZjNQd3cya2VENHpRTnFSeUNJVkQzUXVJY2tYSGlpcFk2SUxlRkFnWE8wTlhvY1IzcHIxcjhQNWJiVFFwT0JFQkVfV1k5R3IwMEhxR25URm9XMzBJeWQ1bUZsWGtPcS1kaUNRS2ZFcGJkdmIwSGowWERLb3UwV2ZZVmtSYnFxVHpwTktuXzAxd3RIVkVUQW9hMFVZWVZZdnE5cnJ6YkN6LW1uYUE1SXhvRXF0Y08zR2c1UWRkamRzYnVVWQ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -452,13 +415,13 @@
       "matched_keywords": []
     },
     {
-      "id": "56ac9dcdd6ab",
+      "id": "e04b46b78c25",
       "title": "《我的王室死對頭》林智妍36歲仍維持48kg身形 公開5 大消水腫瘦身習慣",
       "published": "2026-07-14T23:00:06+00:00",
-      "summary": "《我的王室死對頭》林智妍36歲仍維持48kg身形 公開5 大消水腫瘦身習慣&nbsp;&nbsp;bastillepost.com",
+      "summary": "《我的王室死對頭》林智妍36歲仍維持48kg身形 公開5 大消水腫瘦身習慣&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPV1p6eXBaOGpEVUcwV0xpemF4aHV3Q3l6ZTdVZDNSM1hwaWZWU2JnU3FncWN0TFBnMjJkdDZQR0JHSVRkZHNGMnNsbWkzcmhUQVdGUnRRV2U2NHdMbVNZNjZPeDNwT1dzYnFzUUhHSFZiN3UzbnJJNkxZMUhuclBkbGdwa1NRUERCUWs4WGk3VllPTlF4X254NU82TUs0YzJpalpZQlhyMUtiTGZtTF80RWxod2NBNUdWel9PaFNfT3Bva2l4RnJBb0VqZnM5enhBNHdfN2ZGTGE2dmN3Vnd3aDVZTi1QRDh0cUI0bVlKZ1AxTXlhd0dCX0VLS0tIMWpJdGo3d29tTG9FSXBvZkV5Z3h2STlOekZqNEZsVURvam5qdGRyb1gxMXpjQTNMamN2QnhodGxOMnNuajVNRklIS3JRbHFTMGlJb0otVW96QW9naUFfRGtONk1hd0hBUWdxdVVwUk5tMTZUWjBY?oc=5"
         }
       ],

@@ -1,50 +1,26 @@
 {
-  "generated": "2026-07-16T07:16:18.568279+00:00",
+  "generated": "2026-07-16T09:58:07.613408+00:00",
   "count": 4,
   "news": [
     {
-      "id": "fb7cbc23c006",
-      "title": "乳癌切除「肩膀一重一輕」？台東馬偕立即性重建解癌友心結",
-      "published": "2026-07-16T03:46:41+00:00",
+      "id": "e18097548a1f",
+      "title": "感冒愈來愈難好？醫揭胸口「1器官」悄悄退化 恐影響疫苗保護力",
+      "published": "2026-07-16T09:04:02+00:00",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45cmRHMTU0S1ROSFRMcXBRRDFpTjJVcXJfX3ZUWVMyVHhzSGMyRF81M2k3S3pUem94eUttbTlZWlh1UVEzNUFhSzZuWWxVejYzRXE5TVVnMVEwbWFzX194RUh1WFNObXRuYVNicTlR?oc=5"
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LeXFtU1dZdzlQb3FsdFhkZldKRmtKTVBmNk10VnFBM2xNajRQeFB0RXhleHRIb0pUMVA5aGhQWEVKaEk1UkJIUGpJTGNRTGN5VV90anRFWQ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
+          "name": "common cold",
+          "keyword": "感冒",
           "related_drugs": [
             {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }
@@ -97,13 +73,13 @@
       ]
     },
     {
-      "id": "4bdfd9d63e5e",
+      "id": "f967768f6c34",
       "title": "B12越補越危險？33萬人研究發現癌症風險高6倍，醫揭真相：恐是身體警訊",
-      "published": "2026-07-15T03:23:00+00:00",
+      "published": "2026-07-15T04:13:04+00:00",
       "sources": [
         {
-          "name": "鏡新聞",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oYjlxOGM4ZzJ4Q09ZRlY3aHRaaHNFaGt0TFZjTkdUSUUwOXZiU3ZWeDJXUXVsNldmZkNBZEIydDQ0eFVsM050UnNEZmMxQ1c5ZktnODdGUTdVQQ?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQN0drSndmZk40VjBsSkNyMHR5YW9OQlpvTnFWeVRUVWZTVTktVVQtc3RTb2luaTJPcWk2ZXlZVjUzNmpmaWhvNVotNXIxVldxcnprM0J4WDJ4NmQ0a3VZbnN3UWFRd3NxOURKRUN0RG1RSzZOM1M2SzZJdEpEVmxFZU5sQW81YmlHWFlzWjhHcE1mR0phbU5NQmRjbUp3enRYN1c3T1dXTjVHRjJTa0V0cnJaRUhsdzRyenVpem1lMHVhMWd1WmZXM0ZjRG94R2l0WkNXM1A5Q1YtT0pQaGNWajk4V243Tk81ZjNQd3cya2VENHpRTnFSeUNJVkQzUXVJY2tYSGlpcFk2SUxlRkFnWE8wTlhvY1IzcHIxcjhQNWJiVFFwT0JFQkVfV1k5R3IwMEhxR25URm9XMzBJeWQ1bUZsWGtPcS1kaUNRS2ZFcGJkdmIwSGowWERLb3UwV2ZZVmtSYnFxVHpwTktuXzAxd3RIVkVUQW9hMFVZWVZZdnE5cnJ6YkN6LW1uYUE1SXhvRXF0Y08zR2c1UWRkamRzYnVVWQ?oc=5"
         }
       ],
       "keywords": [
