@@ -1,15 +1,39 @@
 {
-  "generated": "2026-07-16T19:59:35.034174+00:00",
+  "generated": "2026-07-16T21:03:09.448312+00:00",
   "count": 3,
   "news": [
     {
-      "id": "4e6a9aef40c5",
-      "title": "大腸癌｜長期腹瀉尿頻勿輕視 六旬男怕尷尬拒求醫 3年後確診末期大腸癌 需裝人工肛門 - etnet 經濟通",
-      "published": "2026-07-16T15:45:00+00:00",
+      "id": "e18097548a1f",
+      "title": "感冒愈來愈難好？醫揭胸口「1器官」悄悄退化 恐影響疫苗保護力",
+      "published": "2026-07-16T07:00:02+00:00",
       "sources": [
         {
-          "name": "etnet 經濟通",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWenJZQ0FrNVNfUlhhNkpJNzJUUnVzTmNrUlpmTmoxQVpZaUxCQUxEVmZISEdESU9HcFZtdUt4Q21TTXg0N3JGMW54Q3pVVENiajdscm9yRHE?oc=5"
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LeXFtU1dZdzlQb3FsdFhkZldKRmtKTVBmNk10VnFBM2xNajRQeFB0RXhleHRIb0pUMVA5aGhQWEVKaEk1UkJIUGpJTGNRTGN5VV90anRFWQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "060afd61ee47",
+      "title": "大腸癌︱60歲男腹瀉頻尿以為腸胃病「怕羞」延醫3年 確診大腸癌肝轉移需裝人工肛門",
+      "published": "2026-07-15T06:03:49+00:00",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMikgRBVV95cUxOY3hDOTk4NDJGLS1DSW03aU00Qi1LYW5rZWVBWWdtbHQwRjVZMHhRSE5oLWVEeVhBWmk1aDFCTEhuaFpqejVYUy1Bb0x1eUtaaDhIX2VqR3lqYWM1QU1aU0lHTU9lUGhfOERZM2owVXM3d2U4Y2tOTGhUcEhsdlVrTEo3c1gwZ2c2S2h0Y1E3RlVZdzk0OHc4NDMtT01fR2VnQVlISFgyaHJpemZvcjZldVA0bzRYNG9OTEVZTVoyaDgwTGZHTHNwakVOUWUzS3NrOXRkLXZVMFVtNWJDTUtFM0xyajBaNWxvUEFxNlI0c0lnck1Za3J3QnlnV21GdXNRMU9CTjVPUU85bHh3RzRkOFNDR0lCbmR4dW0yaDBZNUR1dndfbGE1RmdfZWZyaElsZVpjWGtDcU9Qbnl1Q0VBTUI5U3ZDMkxGUVFsNzJURjg3LUNFRnExWFd3ZnpXM29ORWxzSnI2ZjFEN1liVWRMYWFVTm1BQVgxbW5FZ2g3ZkpsbWdLby1vM0RmVE1mU1liUVhiQ3ZaeUFJeG5KMDBqNEszc0lkU1dBelNaYWZsNWR3NUtHbXZmM3FNUzFJd3RIcGJwZkJKTEgzRXFiRGxYWU8yR2NzaVJSY1Y5ZDcwRV95VDZfTUlKOXl4OWI1T1Zmc0Q3NjBOUUtjc1dXMVBXVVFuWE9vUUx1Uk44d3R0cDUwdw?oc=5"
         }
       ],
       "keywords": [
@@ -66,30 +90,6 @@
             {
               "slug": "diosmin",
               "name": "Diosmin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e18097548a1f",
-      "title": "感冒愈來愈難好？醫揭胸口「1器官」悄悄退化 恐影響疫苗保護力",
-      "published": "2026-07-16T07:00:02+00:00",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LeXFtU1dZdzlQb3FsdFhkZldKRmtKTVBmNk10VnFBM2xNajRQeFB0RXhleHRIb0pUMVA5aGhQWEVKaEk1UkJIUGpJTGNRTGN5VV90anRFWQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
