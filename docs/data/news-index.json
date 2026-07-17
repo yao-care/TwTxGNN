@@ -1,39 +1,15 @@
 {
-  "generated": "2026-07-16T23:51:13.242604+00:00",
-  "count": 3,
+  "generated": "2026-07-17T01:51:45.423979+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "e18097548a1f",
-      "title": "感冒愈來愈難好？醫揭胸口「1器官」悄悄退化 恐影響疫苗保護力",
-      "published": "2026-07-16T07:00:02+00:00",
+      "id": "3d1c072b3aff",
+      "title": "長期宿便好菌降 不良習慣加劇菌相失衡恐致癌 醫籲補好菌是關鍵 早晚喝優酪乳降低腸癌發生率19％",
+      "published": "2026-07-17T01:00:30+00:00",
       "sources": [
         {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LeXFtU1dZdzlQb3FsdFhkZldKRmtKTVBmNk10VnFBM2xNajRQeFB0RXhleHRIb0pUMVA5aGhQWEVKaEk1UkJIUGpJTGNRTGN5VV90anRFWQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "060afd61ee47",
-      "title": "大腸癌︱60歲男腹瀉頻尿以為腸胃病「怕羞」延醫3年 確診大腸癌肝轉移需裝人工肛門",
-      "published": "2026-07-15T06:03:49+00:00",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMikgRBVV95cUxOY3hDOTk4NDJGLS1DSW03aU00Qi1LYW5rZWVBWWdtbHQwRjVZMHhRSE5oLWVEeVhBWmk1aDFCTEhuaFpqejVYUy1Bb0x1eUtaaDhIX2VqR3lqYWM1QU1aU0lHTU9lUGhfOERZM2owVXM3d2U4Y2tOTGhUcEhsdlVrTEo3c1gwZ2c2S2h0Y1E3RlVZdzk0OHc4NDMtT01fR2VnQVlISFgyaHJpemZvcjZldVA0bzRYNG9OTEVZTVoyaDgwTGZHTHNwakVOUWUzS3NrOXRkLXZVMFVtNWJDTUtFM0xyajBaNWxvUEFxNlI0c0lnck1Za3J3QnlnV21GdXNRMU9CTjVPUU85bHh3RzRkOFNDR0lCbmR4dW0yaDBZNUR1dndfbGE1RmdfZWZyaElsZVpjWGtDcU9Qbnl1Q0VBTUI5U3ZDMkxGUVFsNzJURjg3LUNFRnExWFd3ZnpXM29ORWxzSnI2ZjFEN1liVWRMYWFVTm1BQVgxbW5FZ2g3ZkpsbWdLby1vM0RmVE1mU1liUVhiQ3ZaeUFJeG5KMDBqNEszc0lkU1dBelNaYWZsNWR3NUtHbXZmM3FNUzFJd3RIcGJwZkJKTEgzRXFiRGxYWU8yR2NzaVJSY1Y5ZDcwRV95VDZfTUlKOXl4OWI1T1Zmc0Q3NjBOUUtjc1dXMVBXVVFuWE9vUUx1Uk44d3R0cDUwdw?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMWEI3M2lyZElVNHdXd0hadkRyd0dvNjc3VG4xYUl2TDVIc2poTEIybElEQWNaSHZpRXNLSUdycXVnbGdYZm1DNV9xRm4zSGdLcHp1angwSEhUd1JOT3VhY281UmVVMC1mVF9LYVZB?oc=5"
         }
       ],
       "keywords": [
@@ -90,6 +66,66 @@
             {
               "slug": "diosmin",
               "name": "Diosmin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e18097548a1f",
+      "title": "感冒愈來愈難好？醫揭胸口「1器官」悄悄退化 恐影響疫苗保護力",
+      "published": "2026-07-16T07:00:02+00:00",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LeXFtU1dZdzlQb3FsdFhkZldKRmtKTVBmNk10VnFBM2xNajRQeFB0RXhleHRIb0pUMVA5aGhQWEVKaEk1UkJIUGpJTGNRTGN5VV90anRFWQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5d50c82673e1",
+      "title": "1關節炎藥嚴重過敏發生率約0.4% 長庚研究揭「關鍵基因」盼助提前預防",
+      "published": "2026-07-16T03:00:00+00:00",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wV0pMdEdVZDNaVmwwalpxejkwS1A1UFU4QWJYWkZpZnd3NDFZVUpwZ1RhUm50cElqaVhnRG9xbFQ4bXVqWVBTMkFaMm95X2c1bHN2ckpR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
             }
           ]
         }

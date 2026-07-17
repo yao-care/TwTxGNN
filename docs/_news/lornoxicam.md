@@ -14,7 +14,7 @@ permalink: /news/lornoxicam/
 ---
 
 <p class="key-answer" data-question="Lornoxicam 有什麼相關新聞？">
-<strong>Lornoxicam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lornoxicam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/lornoxicam/
 <ul>
 <li><strong>證據等級</strong>：L3</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>rheumatoid arthritis（99.9%）</li>
+<li class="indication-matched">rheumatoid arthritis（99.9%）<span class="indication-tag">📰 關節炎</span></li>
 <li>migraine with or without aura, susceptibility to（99.9%）</li>
 <li>migraine disorder（99.9%）</li>
 <li>migraine with brainstem aura（99.8%）</li>
@@ -41,9 +41,15 @@ permalink: /news/lornoxicam/
 <p><a href="{{ '/drugs/lornoxicam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [1關節炎藥嚴重過敏發生率約0.4% 長庚研究揭「關鍵基因」盼助提前預防](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wV0pMdEdVZDNaVmwwalpxejkwS1A1UFU4QWJYWkZpZnd3NDFZVUpwZ1RhUm50cElqaVhnRG9xbFQ4bXVqWVBTMkFaMm95X2c1bHN2ckpR?oc=5)
+
+2026-07-16 <span class="news-indication-tag">關節炎</span>
+
+來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wV0pMdEdVZDNaVmwwalpxejkwS1A1UFU4QWJYWkZpZnd3NDFZVUpwZ1RhUm50cElqaVhnRG9xbFQ4bXVqWVBTMkFaMm95X2c1bHN2ckpR?oc=5)
+
+---
 
 
 <div class="disclaimer">
