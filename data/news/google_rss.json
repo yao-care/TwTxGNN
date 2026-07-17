@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-17T17:01:04.422765+00:00",
-  "count": 17,
+  "fetched_at": "2026-07-17T18:53:45.840847+00:00",
+  "count": 16,
   "news": [
-    {
-      "id": "9240bebd868c",
-      "title": "每天排便次數竟影響壽命！醫揭「黃金頻率」多活4.5年 - 民視新聞網",
-      "published": "2026-07-17T06:37:22+00:00",
-      "summary": "每天排便次數竟影響壽命！醫揭「黃金頻率」多活4.5年&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfOUFMRng1WHA2Nl9oUldpcEM5N1VQYzV2TDJfbzVkOHhIZ0ZadFFzZWFBSjFwZmU0N3oyUjM3eGhVWmtNRFlDd3dvMWZ2UTlPOE45M0xfSGdDQkY4ZlRVdw?oc=5"
-        }
-      ]
-    },
     {
       "id": "bb75a16924b5",
       "title": "愛雅健康亮燈「疑似腺病毒」　吐心聲：當媽真的會越來越勇敢嗎？ - ETtoday星光雲",
@@ -88,38 +76,14 @@
       ]
     },
     {
-      "id": "29ed65c2d40e",
-      "title": "雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」 - 巴士的報",
+      "id": "372546932eed",
+      "title": "雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」 - bastillepost.com",
       "published": "2026-07-16T08:00:55+00:00",
-      "summary": "雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」&nbsp;&nbsp;巴士的報雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」&nbsp;&nbsp;三立新聞禿頭福音…不是植髮！研究揭男性掉髮「隱藏優勢」 答案驚到掉下巴&nbsp;&nbsp;壹蘋新聞網禿頭都有好處 #禿頭 #脫髮 #前列腺癌 #am730&nbsp;&nbsp;facebook.com雄性禿有哪些前兆？醫師解析5大常見表現與就醫評估重點&nbsp;&nbsp;蕃新聞",
+      "summary": "雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」&nbsp;&nbsp;bastillepost.com雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」&nbsp;&nbsp;三立新聞禿頭福音…不是植髮！研究揭男性掉髮「隱藏優勢」 答案驚到掉下巴&nbsp;&nbsp;壹蘋新聞網禿頭都有好處 #禿頭 #脫髮 #前列腺癌 #am730&nbsp;&nbsp;facebook.com雄性禿有哪些前兆？醫師解析5大常見表現與就醫評估重點&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNam1qRmtVbjh3eHVxRU5wWVJkVnpXUXdJejVpd0JGOW5Bb1QzSExQUWpNS1h1cW9WSksxSGh4M2hPQWRkNXlaUXVTZW9XY1Rwb1JERGx3Qi00X1hTWFdYc2swbXphMlZFc2xyOGU4c3BIT1FHTXR1ZTdJeGpqRVpUeTBUZzFJODItbGZ1b29FVFExVU9nV2wzVUpaTVJpUTZGZFJaSlY0VlZ1Y1ZtYXdDSHpQNm5uN0lCUjhYd0w0MmQtZlp5T01acU5PanJQNUt2X2RFaE1qeHJsQ05WcElWbWVZWGJnQXAwQ016SWN4anZBRFRwR1E5WUg0LWNGUmNaZWY3ZjdVOFVFaGlfREtITy1iYTJ2akNQSVByUnhQMU9KUmJ5U3oxS0VqQ3lHdUJMRFkxMEZ4dzN4cnZhdVlnSm5nYk1wM1haT0MzeGNZNjlVY1JzTF9OaEY0UjRuREpTNDR3UUJn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b2ff60d245f7",
-      "title": "防關節退化服葡萄糖胺者可能增加失智風險？研究顯示1種人小心補充 - PChome Online 新聞",
-      "published": "2026-07-17T00:43:45+00:00",
-      "summary": "防關節退化服葡萄糖胺者可能增加失智風險？研究顯示1種人小心補充&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMXFoVE9LdEdKSzllSTNLMWNlaEFrRGMwQkFEVmxLNTVmUDV4RktQclhfQWsya0VTTW9oOEk4VGFPcEZXNXpEN05USjVBSHZzUWFEQV9YQUZRVEtMcDAwZmhvakZzbThfT3ZrajlQbG1hczI0T1JKRklub3FEY3dXb2JfYVJqX1RrdjR2bDlUSGlPQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e18097548a1f",
-      "title": "感冒愈來愈難好？醫揭胸口「1器官」悄悄退化 恐影響疫苗保護力 - 台視新聞網",
-      "published": "2026-07-16T07:00:02+00:00",
-      "summary": "感冒愈來愈難好？醫揭胸口「1器官」悄悄退化 恐影響疫苗保護力&nbsp;&nbsp;台視新聞網",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LeXFtU1dZdzlQb3FsdFhkZldKRmtKTVBmNk10VnFBM2xNajRQeFB0RXhleHRIb0pUMVA5aGhQWEVKaEk1UkJIUGpJTGNRTGN5VV90anRFWQ?oc=5"
         }
       ]
     },
@@ -136,6 +100,18 @@
       ]
     },
     {
+      "id": "e18097548a1f",
+      "title": "感冒愈來愈難好？醫揭胸口「1器官」悄悄退化 恐影響疫苗保護力 - 台視新聞網",
+      "published": "2026-07-16T07:00:02+00:00",
+      "summary": "感冒愈來愈難好？醫揭胸口「1器官」悄悄退化 恐影響疫苗保護力&nbsp;&nbsp;台視新聞網",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LeXFtU1dZdzlQb3FsdFhkZldKRmtKTVBmNk10VnFBM2xNajRQeFB0RXhleHRIb0pUMVA5aGhQWEVKaEk1UkJIUGpJTGNRTGN5VV90anRFWQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b0880ce7216c",
       "title": "不是吃得健康！研究：長壽的人都有這個共同特質 - 自由健康網",
       "published": "2026-07-16T03:38:00+00:00",
@@ -144,6 +120,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50RzZjTzZiY3BlMlBJV0hyc2FjTjBwU1B0ZFUxQklqaXF1TUo3UU1WNnRPQ2J0OGtOQ2xQVUpnek1ZeXJMOURBTl94dUJ1bXE0d3J1cFVFVXJUZ0pSbVRmbVZGTV_SAWpBVV95cUxQRGN5ODhUQmN3MXBLdXpjZ2M3dGVOVzBBNm5sSFZUQlE3Y3JNRm5ySlFxNGxtLWlacU1BUFVNMWJyMUdMdUJ2Q2kzNE02VTAyQXdiNVd5UVUySS1kOTB0eGlxOENSX0R0NktR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b2ff60d245f7",
+      "title": "防關節退化服葡萄糖胺者可能增加失智風險？研究顯示1種人小心補充 - PChome Online 新聞",
+      "published": "2026-07-17T00:43:45+00:00",
+      "summary": "防關節退化服葡萄糖胺者可能增加失智風險？研究顯示1種人小心補充&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMXFoVE9LdEdKSzllSTNLMWNlaEFrRGMwQkFEVmxLNTVmUDV4RktQclhfQWsya0VTTW9oOEk4VGFPcEZXNXpEN05USjVBSHZzUWFEQV9YQUZRVEtMcDAwZmhvakZzbThfT3ZrajlQbG1hczI0T1JKRklub3FEY3dXb2JfYVJqX1RrdjR2bDlUSGlPQQ?oc=5"
         }
       ]
     },
