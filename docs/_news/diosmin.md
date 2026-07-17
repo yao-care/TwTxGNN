@@ -14,7 +14,7 @@ permalink: /news/diosmin/
 ---
 
 <p class="key-answer" data-question="Diosmin 有什麼相關新聞？">
-<strong>Diosmin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Diosmin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,15 +33,9 @@ permalink: /news/diosmin/
 <p><a href="{{ '/drugs/diosmin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [天天嗑炸物便當！30歲男「冒2症狀」拖半年罹大腸癌　醫揭關鍵](https://news.google.com/rss/articles/CBMiUEFVX3lxTE85cHhPbER6MjNqWHJBbm8zVF9URzBIeWQ3Y01ISFZkVmx5bWFxWVhHOS11ZV9FMUpQRjVvTEhWc0txeWZDcVgwRnpoaWhYSW9t0gFsQVVfeXFMUGI0ZnI1aW1ZX1FhTlNDdkZ4UjJjcHZIWkF6TTJldVBnTVp1anA2UmhJZTVzbkZFbmNoZWxVaV85clBWMlVLaENvYmx4eWJGaVowRkFVbGZKT3NYSnZWSkM5VVJBVjlVYWpqUXE2?oc=5)
-
-2026-07-17 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">腹瀉</span> <span class="news-indication-tag">痔瘡</span>
-
-來源：[health.ettoday.net](https://news.google.com/rss/articles/CBMiUEFVX3lxTE85cHhPbER6MjNqWHJBbm8zVF9URzBIeWQ3Y01ISFZkVmx5bWFxWVhHOS11ZV9FMUpQRjVvTEhWc0txeWZDcVgwRnpoaWhYSW9t0gFsQVVfeXFMUGI0ZnI1aW1ZX1FhTlNDdkZ4UjJjcHZIWkF6TTJldVBnTVp1anA2UmhJZTVzbkZFbmNoZWxVaV85clBWMlVLaENvYmx4eWJGaVowRkFVbGZKT3NYSnZWSkM5VVJBVjlVYWpqUXE2?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

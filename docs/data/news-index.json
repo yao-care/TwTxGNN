@@ -1,76 +1,7 @@
 {
-  "generated": "2026-07-17T07:11:46.514805+00:00",
-  "count": 4,
+  "generated": "2026-07-17T09:48:07.456458+00:00",
+  "count": 3,
   "news": [
-    {
-      "id": "86a143345068",
-      "title": "天天嗑炸物便當！30歲男「冒2症狀」拖半年罹大腸癌　醫揭關鍵",
-      "published": "2026-07-17T03:54:00+00:00",
-      "sources": [
-        {
-          "name": "health.ettoday.net",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85cHhPbER6MjNqWHJBbm8zVF9URzBIeWQ3Y01ISFZkVmx5bWFxWVhHOS11ZV9FMUpQRjVvTEhWc0txeWZDcVgwRnpoaWhYSW9t0gFsQVVfeXFMUGI0ZnI1aW1ZX1FhTlNDdkZ4UjJjcHZIWkF6TTJldVBnTVp1anA2UmhJZTVzbkZFbmNoZWxVaV85clBWMlVLaENvYmx4eWJGaVowRkFVbGZKT3NYSnZWSkM5VVJBVjlVYWpqUXE2?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腹瀉",
-          "keyword": "腹瀉",
-          "related_drugs": [
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "痔瘡",
-          "keyword": "痔瘡",
-          "related_drugs": [
-            {
-              "slug": "diosmin",
-              "name": "Diosmin"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "b2ff60d245f7",
       "title": "防關節退化服葡萄糖胺者可能增加失智風險？研究顯示1種人小心補充 - PChome Online 新聞",
