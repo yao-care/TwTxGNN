@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [長期宿便好菌降 不良習慣加劇菌相失衡恐致癌 醫籲補好菌是關鍵 早晚喝優酪乳降低腸癌發生率19％](https://news.google.com/rss/articles/CBMibkFVX3lxTFBMWEI3M2lyZElVNHdXd0hadkRyd0dvNjc3VG4xYUl2TDVIc2poTEIybElEQWNaSHZpRXNLSUdycXVnbGdYZm1DNV9xRm4zSGdLcHp1angwSEhUd1JOT3VhY281UmVVMC1mVF9LYVZB?oc=5)
+### [天天嗑炸物便當！30歲男「冒2症狀」拖半年罹大腸癌　醫揭關鍵](https://news.google.com/rss/articles/CBMiUEFVX3lxTE85cHhPbER6MjNqWHJBbm8zVF9URzBIeWQ3Y01ISFZkVmx5bWFxWVhHOS11ZV9FMUpQRjVvTEhWc0txeWZDcVgwRnpoaWhYSW9t0gFsQVVfeXFMUGI0ZnI1aW1ZX1FhTlNDdkZ4UjJjcHZIWkF6TTJldVBnTVp1anA2UmhJZTVzbkZFbmNoZWxVaV85clBWMlVLaENvYmx4eWJGaVowRkFVbGZKT3NYSnZWSkM5VVJBVjlVYWpqUXE2?oc=5)
 
 2026-07-17 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">腹瀉</span> <span class="news-indication-tag">痔瘡</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFBMWEI3M2lyZElVNHdXd0hadkRyd0dvNjc3VG4xYUl2TDVIc2poTEIybElEQWNaSHZpRXNLSUdycXVnbGdYZm1DNV9xRm4zSGdLcHp1angwSEhUd1JOT3VhY281UmVVMC1mVF9LYVZB?oc=5)
-
----
-
-### [B12越補越危險？33萬人研究發現癌症風險高6倍，醫揭真相：恐是身體警訊](https://news.google.com/rss/articles/CBMiowNBVV95cUxQN0drSndmZk40VjBsSkNyMHR5YW9OQlpvTnFWeVRUVWZTVTktVVQtc3RTb2luaTJPcWk2ZXlZVjUzNmpmaWhvNVotNXIxVldxcnprM0J4WDJ4NmQ0a3VZbnN3UWFRd3NxOURKRUN0RG1RSzZOM1M2SzZJdEpEVmxFZU5sQW81YmlHWFlzWjhHcE1mR0phbU5NQmRjbUp3enRYN1c3T1dXTjVHRjJTa0V0cnJaRUhsdzRyenVpem1lMHVhMWd1WmZXM0ZjRG94R2l0WkNXM1A5Q1YtT0pQaGNWajk4V243Tk81ZjNQd3cya2VENHpRTnFSeUNJVkQzUXVJY2tYSGlpcFk2SUxlRkFnWE8wTlhvY1IzcHIxcjhQNWJiVFFwT0JFQkVfV1k5R3IwMEhxR25URm9XMzBJeWQ1bUZsWGtPcS1kaUNRS2ZFcGJkdmIwSGowWERLb3UwV2ZZVmtSYnFxVHpwTktuXzAxd3RIVkVUQW9hMFVZWVZZdnE5cnJ6YkN6LW1uYUE1SXhvRXF0Y08zR2c1UWRkamRzYnVVWQ?oc=5)
-
-2026-07-15 <span class="news-indication-tag">癌症</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiowNBVV95cUxQN0drSndmZk40VjBsSkNyMHR5YW9OQlpvTnFWeVRUVWZTVTktVVQtc3RTb2luaTJPcWk2ZXlZVjUzNmpmaWhvNVotNXIxVldxcnprM0J4WDJ4NmQ0a3VZbnN3UWFRd3NxOURKRUN0RG1RSzZOM1M2SzZJdEpEVmxFZU5sQW81YmlHWFlzWjhHcE1mR0phbU5NQmRjbUp3enRYN1c3T1dXTjVHRjJTa0V0cnJaRUhsdzRyenVpem1lMHVhMWd1WmZXM0ZjRG94R2l0WkNXM1A5Q1YtT0pQaGNWajk4V243Tk81ZjNQd3cya2VENHpRTnFSeUNJVkQzUXVJY2tYSGlpcFk2SUxlRkFnWE8wTlhvY1IzcHIxcjhQNWJiVFFwT0JFQkVfV1k5R3IwMEhxR25URm9XMzBJeWQ1bUZsWGtPcS1kaUNRS2ZFcGJkdmIwSGowWERLb3UwV2ZZVmtSYnFxVHpwTktuXzAxd3RIVkVUQW9hMFVZWVZZdnE5cnJ6YkN6LW1uYUE1SXhvRXF0Y08zR2c1UWRkamRzYnVVWQ?oc=5)
+來源：[health.ettoday.net](https://news.google.com/rss/articles/CBMiUEFVX3lxTE85cHhPbER6MjNqWHJBbm8zVF9URzBIeWQ3Y01ISFZkVmx5bWFxWVhHOS11ZV9FMUpQRjVvTEhWc0txeWZDcVgwRnpoaWhYSW9t0gFsQVVfeXFMUGI0ZnI1aW1ZX1FhTlNDdkZ4UjJjcHZIWkF6TTJldVBnTVp1anA2UmhJZTVzbkZFbmNoZWxVaV85clBWMlVLaENvYmx4eWJGaVowRkFVbGZKT3NYSnZWSkM5VVJBVjlVYWpqUXE2?oc=5)
 
 ---
 
