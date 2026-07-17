@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-07-17T15:06:14.153816+00:00",
-  "total_count": 16,
+  "last_updated": "2026-07-17T17:01:09.646164+00:00",
+  "total_count": 17,
   "matched_count": 3,
   "news": [
+    {
+      "id": "bb75a16924b5",
+      "title": "愛雅健康亮燈「疑似腺病毒」　吐心聲：當媽真的會越來越勇敢嗎？",
+      "published": "2026-07-17T15:32:00+00:00",
+      "summary": "愛雅健康亮燈「疑似腺病毒」 吐心聲：當媽真的會越來越勇敢嗎？&nbsp;&nbsp;ETtoday星光雲",
+      "sources": [
+        {
+          "name": "ETtoday星光雲",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fNnoySnlqVXRrMHo0bHktakI4QTBUVGNnSGpzemMzbUNhQzUyQmhVby1veG5oOXEzWlp0S3hpN3V5a2k1V01ZbUoyQjlwQdIBakFVX3lxTE5rWi1INTh1RGgtSmhEdW5Yd2JHZ1VYOHlQNE9ad25wMm5CY2ItV2d2QmNtblFCWkVOWmxybGh3TGt6MmtDQXpEdlpKaXZidkFpUlAyNGd0LTZibDhjNTg2LUZPTW9Lcl9LS2c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "4bd4f89b2c17",
       "title": "尿道生滿「椰菜花」未必關性生活事？揭元兇是免疫力崩潰 糖尿病/化療/捱夜易中伏？",
@@ -17,10 +30,10 @@
       "matched_keywords": []
     },
     {
-      "id": "a78f847adb74",
-      "title": "厭食症復發有跡可循？ 新研究：「LEAP-2」有望成預測關鍵指標",
+      "id": "70ebd8a4d923",
+      "title": "厭食症復發有跡可循？ 新研究：「LEAP-2」有望成預測關鍵指標- 健康",
       "published": "2026-07-17T08:33:44+00:00",
-      "summary": "厭食症復發有跡可循？ 新研究：「LEAP-2」有望成預測關鍵指標&nbsp;&nbsp;中時新聞網",
+      "summary": "厭食症復發有跡可循？ 新研究：「LEAP-2」有望成預測關鍵指標- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
@@ -30,14 +43,14 @@
       "matched_keywords": []
     },
     {
-      "id": "99fd71e248a2",
+      "id": "9240bebd868c",
       "title": "每天排便次數竟影響壽命！醫揭「黃金頻率」多活4.5年",
-      "published": "2026-07-17T08:12:04+00:00",
-      "summary": "每天排便次數竟影響壽命！醫揭「黃金頻率」多活4.5年&nbsp;&nbsp;Yahoo新聞",
+      "published": "2026-07-17T06:37:22+00:00",
+      "summary": "每天排便次數竟影響壽命！醫揭「黃金頻率」多活4.5年&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNa2V6Qms0V1BIa1RXSlFxOFFCSHR3Q21ncTJ4NUdNUXlYWi0xRnV4dkI3b3Y0d3BlczhweGlaNFZwa0syd3ZyeFVfRnpEb2stVEZrS2R0QjlSOG12cnFFVHFmd3l6STFSSmx0SWhaaF9CTnhfQUFBMzNzc244eXMzejF3QS1GY3JwekFuSGR4YURzcnE1TzZJallsY2xZNlYxczdDOGdsLXN1ejVWVUNjN3RaU2ZYbmpMQ2NKU0NHT0x3SC0tckpPejUxRWVVdXVmTGVaYlZqSWw5VWU2WFE1MHJ4UElsNUpZVldsREJxUlhZekExU1g4WlZENW85c3JRaWY2YVJMdVg1bmhIWEdvTHBQeXVyOFcxSm56N3RlcmhBeGlVYUJHeElBb3ItRU1rT0JLNjY1b1Y2aVJUNDhYS0VwNzM0OTFZWUJj?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfOUFMRng1WHA2Nl9oUldpcEM5N1VQYzV2TDJfbzVkOHhIZ0ZadFFzZWFBSjFwZmU0N3oyUjM3eGhVWmtNRFlDd3dvMWZ2UTlPOE45M0xfSGdDQkY4ZlRVdw?oc=5"
         }
       ],
       "matched_keywords": []
