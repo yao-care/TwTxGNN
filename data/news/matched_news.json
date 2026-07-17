@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-17T01:51:45.402634+00:00",
-  "total_count": 16,
-  "matched_count": 4,
+  "last_updated": "2026-07-17T04:55:40.488136+00:00",
+  "total_count": 14,
+  "matched_count": 5,
   "news": [
     {
       "id": "3d1c072b3aff",
       "title": "長期宿便好菌降 不良習慣加劇菌相失衡恐致癌 醫籲補好菌是關鍵 早晚喝優酪乳降低腸癌發生率19％",
       "published": "2026-07-17T01:00:30+00:00",
-      "summary": "長期宿便好菌降 不良習慣加劇菌相失衡恐致癌 醫籲補好菌是關鍵 早晚喝優酪乳降低腸癌發生率19％&nbsp;&nbsp;中時新聞網長期宿便好菌降 不良習慣加劇菌相失衡恐致癌 便祕、解不乾淨可能是大腸癌表徵！&nbsp;&nbsp;UDN以為是痔瘡！30歲男血便竟「確診大腸癌」 醫示警：1 類食物別常吃&nbsp;&nbsp;MSN大腸癌︱60歲男腹瀉頻尿以為腸胃病「怕羞」延醫3年 確診大腸癌肝轉移需裝人工肛門&nbsp;&nbsp;香港經濟日報HKET18歲男生便血拖咗128日 一照腸鏡結果震驚&nbsp;&nbsp;GOtrip.hk",
+      "summary": "長期宿便好菌降 不良習慣加劇菌相失衡恐致癌 醫籲補好菌是關鍵 早晚喝優酪乳降低腸癌發生率19％&nbsp;&nbsp;中時新聞網天天嗑炸物便當！30歲男「冒2症狀」拖半年罹大腸癌 醫揭關鍵&nbsp;&nbsp;health.ettoday.net以為是痔瘡！30歲男血便竟「確診大腸癌」 醫示警：1 類食物別常吃&nbsp;&nbsp;MSN18歲男生便血拖咗128日 一照腸鏡結果震驚&nbsp;&nbsp;GOtrip.hk無視健檢紅字3年…男腹瀉就醫已大腸癌4期 曝裝人工肛門血淚抗癌史&nbsp;&nbsp;UDN",
       "sources": [
         {
           "name": "中時新聞網",
@@ -74,6 +74,31 @@
       ]
     },
     {
+      "id": "b2ff60d245f7",
+      "title": "防關節退化服葡萄糖胺者可能增加失智風險？研究顯示1種人小心補充 - PChome Online 新聞",
+      "published": "2026-07-17T00:43:45+00:00",
+      "summary": "防關節退化服葡萄糖胺者可能增加失智風險？研究顯示1種人小心補充&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMXFoVE9LdEdKSzllSTNLMWNlaEFrRGMwQkFEVmxLNTVmUDV4RktQclhfQWsya0VTTW9oOEk4VGFPcEZXNXpEN05USjVBSHZzUWFEQV9YQUZRVEtMcDAwZmhvakZzbThfT3ZrajlQbG1hczI0T1JKRklub3FEY3dXb2JfYVJqX1RrdjR2bDlUSGlPQQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "80661c29730c",
       "title": "一個 ❤️、一滴 🩸，為什麼能改變一場健康對話？世界 Emoji 日，看見年輕世代如何重新說健康",
       "published": "2026-07-16T16:12:00+00:00",
@@ -125,14 +150,27 @@
       ]
     },
     {
-      "id": "902d3396e5cd",
+      "id": "528a33842e3c",
+      "title": "男性禿頭福音？ 研究：30歲前掉髮前列腺癌風險降三成",
+      "published": "2026-07-16T06:15:00+00:00",
+      "summary": "男性禿頭福音？ 研究：30歲前掉髮前列腺癌風險降三成&nbsp;&nbsp;am730雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」&nbsp;&nbsp;三立新聞雄性禿有哪些前兆？醫師解析5大常見表現與就醫評估重點&nbsp;&nbsp;蕃新聞禿頭福音…不是植髮！研究揭男性掉髮「隱藏優勢」 答案驚到掉下巴&nbsp;&nbsp;壹蘋新聞網男性禿頭有意外好處？ 研究指30歲前脫髮前列腺癌風險降3成&nbsp;&nbsp;singtao.ca",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQOVc5MzFmQnBNdTl3YkhrT2lhNFhvS2lmOFoxVzU5NjJzT1VFMFEwdWp5bmFzQWczNW9JTUxDUjBlOWZDSWdNNnExemQtMlZ4T1MtMU82SXpuLWtZVFRKMUdKNnR0UmxjbUpMOUNhekFGNUlwWmpDRHZselRkdVJJRGlFMDc1dXJFNFZmd2JjeW9HM05ESUk4SlNnZmZrSGNQTHZrMkVCOVl3YWRFeFNmS1pYWkFLaUtyOGEtQ29Tc0ZOaGpzYURNZkUxTFR3UHNqN0stRWNtWDJUNERHYXRJamdoamlZLWZrQTlJU0VmRUxxaFFmd2h4X2ZkZ29BNXYtX1Mycy1qakIycm1RTGROSFVjeTFIN2VhS1o4alBEa3hBMzVUSmlxUzR0VW4zc2pKaGRsUHlqLXNPd01yOGRvZXNXYjVPXzA0ZFBBcHZhZjZNX2tNVnVScjYxWE12YUFCZkVN?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b4568571f550",
       "title": "國家疾控局：南方部分省份 存在登革熱等疫情風險",
       "published": "2026-07-16T04:01:12+00:00",
-      "summary": "國家疾控局：南方部分省份 存在登革熱等疫情風險&nbsp;&nbsp;香港經濟日報HKET中國新冠疫情仍處於低流行水平&nbsp;&nbsp;hkcna.hk國家疾控局：內地新冠病毒總體處於低流行水平&nbsp;&nbsp;香港文匯報國家疾控局：全國新冠疫情總體上處於低流行水平&nbsp;&nbsp;香港商报國家疾控局：疫情風險上升 南方有登革熱、基孔肯雅熱疫情風險&nbsp;&nbsp;Now 新聞",
+      "summary": "國家疾控局：南方部分省份 存在登革熱等疫情風險&nbsp;&nbsp;香港經濟日報HKET中國新冠疫情仍處於低流行水平&nbsp;&nbsp;hkcna.hk登革熱、基孔肯雅熱由境外輸入及跨省傳播引起本地疫情風險上升&nbsp;&nbsp;紫荊雜誌國家疾控局：全國新冠疫情總體上處於低流行水平&nbsp;&nbsp;香港商报國家疾控局：內地新冠病毒總體處於低流行水平&nbsp;&nbsp;香港文匯報",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOYWc0QkhIdHMycm9JR2dDYm9XdG1SR1R6MHNQbWJMYkZ5b2dfRjRXbzlJMzBKMjFMeDFsUGJvRU1jdmxNcmswaUp4MDFhUVF5ZDkzalBBajBWTDlpVlVZZU56NHpGMlFNR2FXRDdUY1Mxcy14RHNaeHJ3Sy1nX0dNMjRoemh1R2lrMTdRNFVEa1NoSW9hMjFCRzByb3QtZ1BOb2VzZFJGRG9nYzJPLUZTZEhSMENXVzN0WjNqVk02VDRrVUJ2ZmlzR1BGN1RpUzVKN1g2eEFnbnQyLWF3ZHV1b05OZzk5ZlQ2bjFIeHlLR0ZBWXh1eW0yRWhTY3N0TTJ5NkgxMkhYT1B2Mjgxd0pHc3g4bUFOV3NJUGY5T1RlYlhhMElwQnUtYmI3RWFKQ2YzME9QNmx5Um1IbTVHZXA5LVExSG5RWG5OOGxLN1RNQlFrZ1VkRVl3QWV4T01hV21aVTNzdVZDSXVWQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQTi1hSDh4YWNDRDlZbC1VNlp1NnpubnVwTzFCbWNmWFdnUDBnZE9EWjJBZkJmdFJ3a3FPZ2c5RmI0LXR1c0E1MUU5ZU9tazJzNEV0aWJWLTNKOXRSUV9ROVo3bVhqdGl2dUdLOFlmUmZEQ2hMckx4ZTVZWFJiY2syaTJxbHQ4eldjU19hdUZFdTlHdXBpbkZvUG9ESGFkWms1RmdmcUw5STF1S2tIWVlyMGJJU2pvZWVlakx1aXdOcW9IX2hIYTVnanBvWmxlUUFoeTRJXzlvTFJ3YThNc1RtNlNXZWdXRHJqako1TDFaQ2Y3WmpyZThFSk0xanBCYm94Y0pHdVU0NGJYaFh2MU1iOEVVNTFpTDNQZFROdkJndV9FR09YZjhWUFpHMC1jeFNUSmx2UUtQaEhGMUp6SGlTVHJGdkJ3aFpjOTV3NXplQWR1bXZ6a1M0M014dUdqakNJMXBKaFhKMTJTZw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -209,19 +247,6 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPQkt5T19qZDBpVzlYVW5ocFFwQWVGVFVXM0wxNUdqYmdfV3Itbzhpem9fUUh3dW8za0RlOXNVc1piYmRuMHVfWUhUUFpSaWNweWNiQ1J5MEY3d21kVF9kOWNCZV8wbDhfS0hEUjA5b2d4NG9uNkhQc1diOW5fZjFMUThmdFBtMDc2S2xRdVBGcjM2UTlNSEhNV2tMcjFpbHZxUGxHZTUtb1RxYnZOV1R5a3RDWVMzM3dmSFJyVlRFTHFIbjUwSUJVOWpGZ2plS3BQY0N3N2s2RzVuVk5hUVhhVi1xNlhlSHVQSmt2MXJDVkFRSnFiWXFWNmxBaXRFMjc1M1hpOVJsekxma0pjMXBRbVc4OXFGLXFiQ1F4ZjI4Z2hmLWpwZ1NiWUN1RmlselIwTzN0cnhjdkllNmVSMi1CTGFNUTdKZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "729b09209d9b",
-      "title": "雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」 | CTWANT - LINE TODAY",
-      "published": "2026-07-15T11:13:15+00:00",
-      "summary": "雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」 | CTWANT&nbsp;&nbsp;LINE TODAY雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」&nbsp;&nbsp;三立新聞雄性禿有哪些前兆？醫師解析5大常見表現與就醫評估重點&nbsp;&nbsp;蕃新聞禿頭福音…不是植髮！研究揭男性掉髮「隱藏優勢」 答案驚到掉下巴&nbsp;&nbsp;壹蘋新聞網男性禿頭福音？ 研究：30歲前掉髮前列腺癌風險降三成&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZbmtWWlRkanZBbG5peVk0bjE0dm5SVGxiSWctODh1TjhkdXN0Nk9sZnY1blIyZGlqa0lFaWZzT05oQ1RsbUlHWXozM3l5RDhYZEZJQzdB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -460,45 +485,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "ddca3d2efb1a",
-      "title": "美國人真的都用洗碗機嗎？ 調查數據出爐",
-      "published": "2026-07-15T03:00:00+00:00",
-      "summary": "美國人真的都用洗碗機嗎？ 調查數據出爐&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwcC1TTmkzbEIybWJXLVVIbE9hNzZvM1YwZ0tSbE8zZXNBX0l1TlJ3Z0RRMHczNjJZQmJ6UVBpZkdSN2NHWE1OcWozaGtmeEVCZnFCM1hTY0l4RzRtVzNkcdIBZkFVX3lxTE0xbE03Mk1OT1JEUFJoTlBrdHk5LUlwOGNDYVhRMHNYLTdpblpoSGY4VkNuMkVvVXJpY0I5aF94emZxbVNabnlEdU1qQkhPMS1xekQ3ajBNcWFyRWpSVVFqRUY2eTR3UQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "20cbb8bd302b",
-      "title": "長壽≠無病無災！90歲名醫親揭「帶病長壽」真相：糾結健檢紅字，放不下比疾病更傷身",
-      "published": "2026-07-15T01:57:00+00:00",
-      "summary": "長壽≠無病無災！90歲名醫親揭「帶病長壽」真相：糾結健檢紅字，放不下比疾病更傷身&nbsp;&nbsp;幸福熟齡",
-      "sources": [
-        {
-          "name": "幸福熟齡",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tUXl0Ml9naThkT0pka0poYVpmbjl6Yzl1c3lXV1BGWVprSjJIcElDUzNZazIxajdqRDdKN01mSXBWT0tJNHVROWRnb3FGWFNqNVpFTGVWVGRsSnlWWlhTcEFiOTVuUlRsY0ZpT1RETk1YZXB3VVducVBTQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0fdf5a1c8c9a",
-      "title": "10歲孩高燒3天冒紅疹「摸起來像砂紙」　醫：這不是腸病毒",
-      "published": "2026-07-15T01:54:00+00:00",
-      "summary": "10歲孩高燒3天冒紅疹「摸起來像砂紙」 醫：這不是腸病毒&nbsp;&nbsp;health.ettoday.net",
-      "sources": [
-        {
-          "name": "health.ettoday.net",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tMHNDTmMxY3BaRWpFUlNWcTRPVkN1dGNmUjZzYm5yajlBOHNHbjVWbGdTSGRyMWtWUkRUQlcwck5pX0F0bzV6S3RPVmc4WnlM0gFsQVVfeXFMT0U5U1UwSlFjM3RsQldsd1h6YWJJbThGcW1ONEc3cExZTVRaSnVZbzI3cDVSdjlFVDJacVRkaEdxOVJLdV9pSUY2SThaR1N2aHFVUFBjUUtyV0t4TmJJb01TR3diQ3JvRzA3dU9p?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
