@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-17T11:15:06.755782+00:00",
-  "count": 16,
+  "fetched_at": "2026-07-17T13:06:50.921123+00:00",
+  "count": 17,
   "news": [
+    {
+      "id": "d186bae59528",
+      "title": "每天大便幾次最健康？醫研究曝「黃金頻率」 長壽排便密碼：多活4.5年 - Yahoo新聞",
+      "published": "2026-07-17T10:07:00+00:00",
+      "summary": "每天大便幾次最健康？醫研究曝「黃金頻率」 長壽排便密碼：多活4.5年&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOMXN4UHBUdnRGRXBXdzdtY21PWHF4Mi1pTVlDZGFwX0RuMVl4S2lnUlF3QmdkeHZvcml1RUxNNlBBVkhqNlB3U2RYLWNKcjU0Q2hlcEw2MVJjLUYyT2FkclN3M0Z2RDRWMWdOOVR0aDZ0Yk5EVlAySXVoLU45LWM4Zi1Kcmp3RFdoa2wxSklPMEM4RVd1cU43dWplSjZxZ19rcmZaTGttNnBRcTF5VTN1eERFYzZRZndGUGtETS1va3NRSGQ3N2Y2bU5iY1VFeEhWZkRZMnFqTVlOdzRKVzhmZjJXOXZLSTRHaWp0MHVFaVozZmZFLUZ5SGJ1VlltaUU2QjQtSjhuajNCMGc0NVQ1ek1lUlg3c1RRUEtBTWFSMHp4dmRuTksxVlFseGdSeE52SzlhMUhhRE5mU0lhbG0wTWNsWDNJX3Nxa2twVWFRNkJNdWpKOUJCenpFU09fSHB2ODRWUW9hbXZGX0xIMmEtc3dDcVBNNHMyN2VEOUxwY3FKNU4tUVE?oc=5"
+        }
+      ]
+    },
     {
       "id": "70ebd8a4d923",
       "title": "厭食症復發有跡可循？ 新研究：「LEAP-2」有望成預測關鍵指標- 健康 - 中時新聞網",
@@ -16,18 +28,6 @@
       ]
     },
     {
-      "id": "8f27a77f561b",
-      "title": "哈佛研究「全球長壽者」抗癌抗老這樣吃！6招健康飲食法必吃高蛋白蔬菜、魚類與橄欖油 - ELLE",
-      "published": "2026-07-17T03:10:29+00:00",
-      "summary": "哈佛研究「全球長壽者」抗癌抗老這樣吃！6招健康飲食法必吃高蛋白蔬菜、魚類與橄欖油&nbsp;&nbsp;ELLE",
-      "sources": [
-        {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5abERVc08wVXBJWTdlbjI4aU8yM1d1RXhlaW1veWJ6LV82cWd1S0lsckR0UUF0dklzbFNNeTVGR3dnanlaRnFLWFQ5eW5DVG5YOWNiS3NIc3c5N2hNZ21jM212NDc5RDRSaThBczRrWFZmOS1sUEtja25RNA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "80661c29730c",
       "title": "一個 ❤️、一滴 🩸，為什麼能改變一場健康對話？世界 Emoji 日，看見年輕世代如何重新說健康 - peopo.org",
       "published": "2026-07-16T16:12:00+00:00",
@@ -36,6 +36,18 @@
         {
           "name": "peopo.org",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBGRGUtOXJfNGQyMmFaZndVRHYzMUFob0pDRXJPcFpqcUhLNFBrVXlZdEF6R1lHNldhY2c4NFNaVFp5ZkhycmdWYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8f27a77f561b",
+      "title": "哈佛研究「全球長壽者」抗癌抗老這樣吃！6招健康飲食法必吃高蛋白蔬菜、魚類與橄欖油 - ELLE",
+      "published": "2026-07-17T03:10:29+00:00",
+      "summary": "哈佛研究「全球長壽者」抗癌抗老這樣吃！6招健康飲食法必吃高蛋白蔬菜、魚類與橄欖油&nbsp;&nbsp;ELLE",
+      "sources": [
+        {
+          "name": "ELLE",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5abERVc08wVXBJWTdlbjI4aU8yM1d1RXhlaW1veWJ6LV82cWd1S0lsckR0UUF0dklzbFNNeTVGR3dnanlaRnFLWFQ5eW5DVG5YOWNiS3NIc3c5N2hNZ21jM212NDc5RDRSaThBczRrWFZmOS1sUEtja25RNA?oc=5"
         }
       ]
     },
@@ -88,14 +100,14 @@
       ]
     },
     {
-      "id": "528a33842e3c",
-      "title": "男性禿頭福音？ 研究：30歲前掉髮前列腺癌風險降三成 - am730",
-      "published": "2026-07-16T06:15:00+00:00",
-      "summary": "男性禿頭福音？ 研究：30歲前掉髮前列腺癌風險降三成&nbsp;&nbsp;am730雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」&nbsp;&nbsp;三立新聞雄性禿有哪些前兆？醫師解析5大常見表現與就醫評估重點&nbsp;&nbsp;蕃新聞禿頭福音…不是植髮！研究揭男性掉髮「隱藏優勢」 答案驚到掉下巴&nbsp;&nbsp;壹蘋新聞網男性禿頭有意外好處？ 研究指30歲前脫髮前列腺癌風險降3成&nbsp;&nbsp;singtao.ca",
+      "id": "372546932eed",
+      "title": "雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」 - bastillepost.com",
+      "published": "2026-07-16T08:00:55+00:00",
+      "summary": "雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」&nbsp;&nbsp;bastillepost.com雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」&nbsp;&nbsp;三立新聞禿頭福音…不是植髮！研究揭男性掉髮「隱藏優勢」 答案驚到掉下巴&nbsp;&nbsp;壹蘋新聞網禿頭都有好處 #禿頭 #脫髮 #前列腺癌 #am730&nbsp;&nbsp;facebook.com雄性禿有哪些前兆？醫師解析5大常見表現與就醫評估重點&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQOVc5MzFmQnBNdTl3YkhrT2lhNFhvS2lmOFoxVzU5NjJzT1VFMFEwdWp5bmFzQWczNW9JTUxDUjBlOWZDSWdNNnExemQtMlZ4T1MtMU82SXpuLWtZVFRKMUdKNnR0UmxjbUpMOUNhekFGNUlwWmpDRHZselRkdVJJRGlFMDc1dXJFNFZmd2JjeW9HM05ESUk4SlNnZmZrSGNQTHZrMkVCOVl3YWRFeFNmS1pYWkFLaUtyOGEtQ29Tc0ZOaGpzYURNZkUxTFR3UHNqN0stRWNtWDJUNERHYXRJamdoamlZLWZrQTlJU0VmRUxxaFFmd2h4X2ZkZ29BNXYtX1Mycy1qakIycm1RTGROSFVjeTFIN2VhS1o4alBEa3hBMzVUSmlxUzR0VW4zc2pKaGRsUHlqLXNPd01yOGRvZXNXYjVPXzA0ZFBBcHZhZjZNX2tNVnVScjYxWE12YUFCZkVN?oc=5"
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNam1qRmtVbjh3eHVxRU5wWVJkVnpXUXdJejVpd0JGOW5Bb1QzSExQUWpNS1h1cW9WSksxSGh4M2hPQWRkNXlaUXVTZW9XY1Rwb1JERGx3Qi00X1hTWFdYc2swbXphMlZFc2xyOGU4c3BIT1FHTXR1ZTdJeGpqRVpUeTBUZzFJODItbGZ1b29FVFExVU9nV2wzVUpaTVJpUTZGZFJaSlY0VlZ1Y1ZtYXdDSHpQNm5uN0lCUjhYd0w0MmQtZlp5T01acU5PanJQNUt2X2RFaE1qeHJsQ05WcElWbWVZWGJnQXAwQ016SWN4anZBRFRwR1E5WUg0LWNGUmNaZWY3ZjdVOFVFaGlfREtITy1iYTJ2akNQSVByUnhQMU9KUmJ5U3oxS0VqQ3lHdUJMRFkxMEZ4dzN4cnZhdVlnSm5nYk1wM1haT0MzeGNZNjlVY1JzTF9OaEY0UjRuREpTNDR3UUJn?oc=5"
         }
       ]
     },
@@ -148,18 +160,6 @@
       ]
     },
     {
-      "id": "fe946b325fc9",
-      "title": "暑假放假模式恐偷走身高！小兒遺傳代謝專科醫師拆解四大長高NG行為，掌握生長激素治療黃金期（圖文懶人包） - PChome Online 新聞",
-      "published": "2026-07-17T08:01:01+00:00",
-      "summary": "暑假放假模式恐偷走身高！小兒遺傳代謝專科醫師拆解四大長高NG行為，掌握生長激素治療黃金期（圖文懶人包）&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT3Z3Qm1KS2Z5Z01kOVZqcy1KTGlxMkJvN0xiSU9Zb1pWQlY2MlptdE9KRjNfUFpoYkwyamM3YXdyZ3lCcHRranltVVBRaGxIRTdYUlNOc0E4MzFwaG5VWXBYY1dQNkFkbXRVTGlPblIwS18xdld4M05MRnJiNkg5MXQtakNCdzJSSTFqTGpnY3NaQnM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "69cfce5e0cec",
       "title": "蚊叮警號｜港女腳眼被蚊叮後抓出小傷口更惡化成「蜂窩組織炎」 若延誤治療恐截肢| 健康解「迷」 - 醫學通識- 健康好人生 - etnet 經濟通",
       "published": "2026-07-16T10:01:39+00:00",
@@ -192,6 +192,18 @@
         {
           "name": "singtao.ca",
           "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxOc2Y4c1B2TnlGRmlrY2FNVklZeVBiM0U3TUNFUVJON1V5ZUxvNHR1TkFiSlg4ZS1VOTF4SHQ0WVZrTU1EWksyX2VLTnpKS0JUVmpLaUhqRTJHajk0V2tTeE5WVEFBTFRHNTZrNGt6WXNlSHcydjA1YlNGLXNYNjhrYTJMaWtiV041Wm5aMHJYY0hqc0xiblpFM2JNay0tYkljeXlfUHpTUUdLZ01EOERVamNqQ1ltMjA4eGNvNHlQc1hRODd0T2w4Q3hOZzVpcEtPRWVWUU53NDVBc2R0TzhGMnd2aWxESThDWmFqY0VVaEZPd3pnMVBMVzd4azJIMWIxcXNNTkJkcEFZeUVSck4zSFNzdk45N2s3RE13TXVOY0pKOEVrNGMtbHAtN3FIbzJ5d3kyV21sbWRjOHBGRTVpYUxSM0MzV1pGU0pYSUl4ekRjR3RrelUtZ3dUc2pUTVZoX2haOFFjM0NNbEVXQlNYX1JpNmZEWHRyTF95Tnpvd1VDMy1iVXZVajVMSUtzNXdjOUFGSzdWRGRwNUQwSVhlcNIBkgFBVV95cUxOYkRCOGhfenVBUno0ZTFqVkczVjFlVW8tcU5RcEJXd0NSeWNGd2owamExdm9HZXE4ZlNaUUxrSEk4Tk41NE9ENXg3WGd0cWprNkJodi1tVmVod2Y0WUw2QlVsazhNZHJ3aF9mbFJSaUpkdUtrb3Q3TnB1QVRoMmF3Z3YzVDBOR3FtYWRlX0Uxd2tNZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ddca3d2efb1a",
+      "title": "美國人真的都用洗碗機嗎？ 調查數據出爐 - 大纪元",
+      "published": "2026-07-16T17:06:24+00:00",
+      "summary": "美國人真的都用洗碗機嗎？ 調查數據出爐&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwcC1TTmkzbEIybWJXLVVIbE9hNzZvM1YwZ0tSbE8zZXNBX0l1TlJ3Z0RRMHczNjJZQmJ6UVBpZkdSN2NHWE1OcWozaGtmeEVCZnFCM1hTY0l4RzRtVzNkcdIBZkFVX3lxTE0xbE03Mk1OT1JEUFJoTlBrdHk5LUlwOGNDYVhRMHNYLTdpblpoSGY4VkNuMkVvVXJpY0I5aF94emZxbVNabnlEdU1qQkhPMS1xekQ3ajBNcWFyRWpSVVFqRUY2eTR3UQ?oc=5"
         }
       ]
     }
