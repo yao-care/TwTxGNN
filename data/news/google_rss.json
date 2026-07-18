@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-18T11:44:51.912580+00:00",
-  "count": 11,
+  "fetched_at": "2026-07-18T12:53:51.941789+00:00",
+  "count": 12,
   "news": [
     {
       "id": "e112224282af",
@@ -36,6 +36,18 @@
         {
           "name": "鏡週刊Mirror Media",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wMmExYm5wbXFVTFZOSzRxYjdsMElnZnFJWGV6eFktRm1EZk4zazN2alhNRlpDVFVGTGY2T3pPdFlRaGVHTkd2b0tFZ2ZzU0o4Q2hoZW5UYkQ5NUdC0gFiQVVfeXFMTU5yaXQtUDB0RENFS2RVLTl3Z1FzblI5QjN3Zkcwbi1oYVdGSjB2a2tJRmtha0tpckI5MzY5T1RxbGJjTHBXNGtSNlluUnE3R3BlamtUMHJrNm52SEFUcjZaaFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "99fd71e248a2",
+      "title": "每天排便次數竟影響壽命！醫揭「黃金頻率」多活4.5年 - Yahoo新聞",
+      "published": "2026-07-17T08:12:04+00:00",
+      "summary": "每天排便次數竟影響壽命！醫揭「黃金頻率」多活4.5年&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNa2V6Qms0V1BIa1RXSlFxOFFCSHR3Q21ncTJ4NUdNUXlYWi0xRnV4dkI3b3Y0d3BlczhweGlaNFZwa0syd3ZyeFVfRnpEb2stVEZrS2R0QjlSOG12cnFFVHFmd3l6STFSSmx0SWhaaF9CTnhfQUFBMzNzc244eXMzejF3QS1GY3JwekFuSGR4YURzcnE1TzZJallsY2xZNlYxczdDOGdsLXN1ejVWVUNjN3RaU2ZYbmpMQ2NKU0NHT0x3SC0tckpPejUxRWVVdXVmTGVaYlZqSWw5VWU2WFE1MHJ4UElsNUpZVldsREJxUlhZekExU1g4WlZENW85c3JRaWY2YVJMdVg1bmhIWEdvTHBQeXVyOFcxSm56N3RlcmhBeGlVYUJHeElBb3ItRU1rT0JLNjY1b1Y2aVJUNDhYS0VwNzM0OTFZWUJj?oc=5"
         }
       ]
     },

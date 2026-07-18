@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-18T11:44:56.378688+00:00",
-  "total_count": 11,
+  "last_updated": "2026-07-18T12:53:56.758865+00:00",
+  "total_count": 12,
   "matched_count": 4,
   "news": [
     {
@@ -162,6 +162,19 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xbXdTWGFpTFhUM2ZUS21FVGJrSTFOSkE5QW1IWFA5aEVhc3lzeHI4cHRoUFpnR2s0YW5xSHFzdGt4a2pMMFY3SGFXa0xmNWhBbU05dEFUY05IV0d2eGhLYzVmMWozYUpiSUVkc19R?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "99fd71e248a2",
+      "title": "每天排便次數竟影響壽命！醫揭「黃金頻率」多活4.5年",
+      "published": "2026-07-17T08:12:04+00:00",
+      "summary": "每天排便次數竟影響壽命！醫揭「黃金頻率」多活4.5年&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNa2V6Qms0V1BIa1RXSlFxOFFCSHR3Q21ncTJ4NUdNUXlYWi0xRnV4dkI3b3Y0d3BlczhweGlaNFZwa0syd3ZyeFVfRnpEb2stVEZrS2R0QjlSOG12cnFFVHFmd3l6STFSSmx0SWhaaF9CTnhfQUFBMzNzc244eXMzejF3QS1GY3JwekFuSGR4YURzcnE1TzZJallsY2xZNlYxczdDOGdsLXN1ejVWVUNjN3RaU2ZYbmpMQ2NKU0NHT0x3SC0tckpPejUxRWVVdXVmTGVaYlZqSWw5VWU2WFE1MHJ4UElsNUpZVldsREJxUlhZekExU1g4WlZENW85c3JRaWY2YVJMdVg1bmhIWEdvTHBQeXVyOFcxSm56N3RlcmhBeGlVYUJHeElBb3ItRU1rT0JLNjY1b1Y2aVJUNDhYS0VwNzM0OTFZWUJj?oc=5"
         }
       ],
       "matched_keywords": []
