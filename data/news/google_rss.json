@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-18T16:44:43.149913+00:00",
-  "count": 13,
+  "fetched_at": "2026-07-18T17:47:22.800664+00:00",
+  "count": 12,
   "news": [
     {
       "id": "f9238f8d2c0b",
@@ -64,14 +64,14 @@
       ]
     },
     {
-      "id": "80661c29730c",
-      "title": "一個 ❤️、一滴 🩸，為什麼能改變一場健康對話？世界 Emoji 日，看見年輕世代如何重新說健康 - peopo.org",
-      "published": "2026-07-16T16:12:00+00:00",
-      "summary": "一個 ❤️、一滴 🩸，為什麼能改變一場健康對話？世界 Emoji 日，看見年輕世代如何重新說健康&nbsp;&nbsp;peopo.org",
+      "id": "70ebd8a4d923",
+      "title": "厭食症復發有跡可循？ 新研究：「LEAP-2」有望成預測關鍵指標- 健康 - 中時新聞網",
+      "published": "2026-07-17T08:33:44+00:00",
+      "summary": "厭食症復發有跡可循？ 新研究：「LEAP-2」有望成預測關鍵指標- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "peopo.org",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBGRGUtOXJfNGQyMmFaZndVRHYzMUFob0pDRXJPcFpqcUhLNFBrVXlZdEF6R1lHNldhY2c4NFNaVFp5ZkhycmdWYw?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xbXdTWGFpTFhUM2ZUS21FVGJrSTFOSkE5QW1IWFA5aEVhc3lzeHI4cHRoUFpnR2s0YW5xSHFzdGt4a2pMMFY3SGFXa0xmNWhBbU05dEFUY05IV0d2eGhLYzVmMWozYUpiSUVkc19R?oc=5"
         }
       ]
     },
@@ -84,18 +84,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvUHFZaHhxcU5lTHJSYzNCQi1Vc3VUN1lQUzUySHl5cGNBMkFsVGJ6eTdhVU50RkxOb3oycTFTTjhDdjFyb2JLVDVpNnQxX3FYTVdhTnNfbGFMaUZPZGp0QWpTTi3SAWpBVV95cUxOV3dHVktQWVVYaXBQMG5KSkY3UFBVcC1XbmVhYjBDVmpsaW5hWlgyWnZQWV9qTHJCM0NWT3Y0R1lvQXdqbWtxWWhFT3ZTX3p4dGdraEdqbUllTUVyVFcwRW41cFNoOV9zQmRn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "70ebd8a4d923",
-      "title": "厭食症復發有跡可循？ 新研究：「LEAP-2」有望成預測關鍵指標- 健康 - 中時新聞網",
-      "published": "2026-07-17T08:33:44+00:00",
-      "summary": "厭食症復發有跡可循？ 新研究：「LEAP-2」有望成預測關鍵指標- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xbXdTWGFpTFhUM2ZUS21FVGJrSTFOSkE5QW1IWFA5aEVhc3lzeHI4cHRoUFpnR2s0YW5xSHFzdGt4a2pMMFY3SGFXa0xmNWhBbU05dEFUY05IV0d2eGhLYzVmMWozYUpiSUVkc19R?oc=5"
         }
       ]
     },
