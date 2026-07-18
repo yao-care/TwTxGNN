@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-07-18T08:43:18.336437+00:00",
+  "last_updated": "2026-07-18T10:10:24.833665+00:00",
   "total_count": 12,
   "matched_count": 4,
   "news": [
+    {
+      "id": "e112224282af",
+      "title": "50歲男換菜單顧腎 早餐大嗑1綠色水果 血鉀狂飆「嚴重恐致命」",
+      "published": "2026-07-18T09:52:24+00:00",
+      "summary": "50歲男換菜單顧腎 早餐大嗑1綠色水果 血鉀狂飆「嚴重恐致命」&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5VFZwVmZYVm5Bem96U1Y5YXMzWUtSWlh6TmRNRHN4N2V5bmNjVWdUTWFWMTFLS1ZTN3QyaGZBck84MnA3U3NCeVBPcmwtM21Wd1lsVXBQOGlpd0dTTjV0VzgzOXhWR3hHQ0pGNVdn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "a4177f73c440",
       "title": "乳癌手術後更痛竟與它有關！維生素D缺乏成關鍵因素",
@@ -214,19 +227,6 @@
         {
           "name": "etnet 經濟通",
           "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxPRUdEZGk3WUJ1dDZBQU11ZU1hNlhSd0MzTjZhcExGWXVhazJ0VWthRTdFZ0hSV1ZxblFXRGx6ZEt0ZzRYZnAwLWtsQVlLd2dGeDJaN0hkU0IwNmJyWnkzLXJaSS1rS2w5WHFPUDZCS0ZzTUViWEhJdi1pX0w4cjltQTgwSG1NajROUG5TVENXQ21MSkIwSksxZWt0ZkloMlpPMUNZbUg5LVlsWDA1RWxTY2ItV1JNaDM0YVlveDlRZ3ktQlFkdWNqRGp2M0VMVzF0V2Ezdjhrc2Z3UFBqcVA0cko2Z1ZLd1RXZVRLVEhVSnpaZERDX2hmeTR3QUJLdWtUeVZiSW9UeGZWLVNaanRqS0JPSmd3eThGMGFCWWNnZXlvRXE0dVhRWFdxWldXLWI1X25IMjFDVVpkY0Rza2hMdmdlRTZHVk9xV192M3MyeEVyWVBYZGdmU0l1S3NORGdCVVE5N2tyZVNMUU5zQlBaNl9JcnFPRGtHMWItUFJOTW5tLWpOYVhFNUtxVDJrUkxxQVU0Z0Qzb3dvNGtUWGZPcnUyTGdicjR6SkRNa3I5bG84M0E5djVxOER1c2R6dzFXekNMYllJWWdVOUxhb3o3M0puZUtLbFhneXRpZmY5MzVKZmxmaHNnVUJ1Y2RldFROck5YY0N5aUZYbDM1XzBxTy16TXpXQW5HbHFPcDNibTFMakRCV3VYQ25fYW5KeEx1ZWFHUko0Q1A0WVMyaFBJMzd2VDU3OUhVZllMbXhlX2tQcG1aeWRYbzdibEs?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "29ed65c2d40e",
-      "title": "雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」",
-      "published": "2026-07-16T08:00:55+00:00",
-      "summary": "雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」&nbsp;&nbsp;巴士的報雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」&nbsp;&nbsp;三立新聞網SETN.com禿頭福音…不是植髮！研究揭男性掉髮「隱藏優勢」 答案驚到掉下巴&nbsp;&nbsp;壹蘋新聞網男性禿頭有意外好處？ 研究指30歲前脫髮前列腺癌風險降3成&nbsp;&nbsp;singtao.ca禿頭都有好處 #禿頭 #脫髮 #前列腺癌 #am730&nbsp;&nbsp;facebook.com",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNam1qRmtVbjh3eHVxRU5wWVJkVnpXUXdJejVpd0JGOW5Bb1QzSExQUWpNS1h1cW9WSksxSGh4M2hPQWRkNXlaUXVTZW9XY1Rwb1JERGx3Qi00X1hTWFdYc2swbXphMlZFc2xyOGU4c3BIT1FHTXR1ZTdJeGpqRVpUeTBUZzFJODItbGZ1b29FVFExVU9nV2wzVUpaTVJpUTZGZFJaSlY0VlZ1Y1ZtYXdDSHpQNm5uN0lCUjhYd0w0MmQtZlp5T01acU5PanJQNUt2X2RFaE1qeHJsQ05WcElWbWVZWGJnQXAwQ016SWN4anZBRFRwR1E5WUg0LWNGUmNaZWY3ZjdVOFVFaGlfREtITy1iYTJ2akNQSVByUnhQMU9KUmJ5U3oxS0VqQ3lHdUJMRFkxMEZ4dzN4cnZhdVlnSm5nYk1wM1haT0MzeGNZNjlVY1JzTF9OaEY0UjRuREpTNDR3UUJn?oc=5"
         }
       ],
       "matched_keywords": []

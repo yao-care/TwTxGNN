@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-18T08:43:14.123628+00:00",
+  "fetched_at": "2026-07-18T10:10:20.164837+00:00",
   "count": 12,
   "news": [
     {
@@ -16,14 +16,14 @@
       ]
     },
     {
-      "id": "11b77083a570",
-      "title": "愛雅健康亮紅燈　深感當媽後變勇敢 - 鏡週刊Mirror Media",
-      "published": "2026-07-18T01:52:00+00:00",
-      "summary": "愛雅健康亮紅燈 深感當媽後變勇敢&nbsp;&nbsp;鏡週刊Mirror Media",
+      "id": "e112224282af",
+      "title": "50歲男換菜單顧腎 早餐大嗑1綠色水果 血鉀狂飆「嚴重恐致命」 - 中時新聞網",
+      "published": "2026-07-18T09:52:24+00:00",
+      "summary": "50歲男換菜單顧腎 早餐大嗑1綠色水果 血鉀狂飆「嚴重恐致命」&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wMmExYm5wbXFVTFZOSzRxYjdsMElnZnFJWGV6eFktRm1EZk4zazN2alhNRlpDVFVGTGY2T3pPdFlRaGVHTkd2b0tFZ2ZzU0o4Q2hoZW5UYkQ5NUdC0gFiQVVfeXFMTU5yaXQtUDB0RENFS2RVLTl3Z1FzblI5QjN3Zkcwbi1oYVdGSjB2a2tJRmtha0tpckI5MzY5T1RxbGJjTHBXNGtSNlluUnE3R3BlamtUMHJrNm52SEFUcjZaaFE?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5VFZwVmZYVm5Bem96U1Y5YXMzWUtSWlh6TmRNRHN4N2V5bmNjVWdUTWFWMTFLS1ZTN3QyaGZBck84MnA3U3NCeVBPcmwtM21Wd1lsVXBQOGlpd0dTTjV0VzgzOXhWR3hHQ0pGNVdn?oc=5"
         }
       ]
     },
@@ -36,6 +36,18 @@
         {
           "name": "台視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkcGViNnJLM282bFlROGtERGlhNDJqcUs5MWpkSXBHRDJqc1cxd3BGckJWaFNYVlVlb1d3ZHhsV3FQLV9WLUdpcnBmVmI5cW1PUmtPNURzVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "11b77083a570",
+      "title": "愛雅健康亮紅燈　深感當媽後變勇敢 - 鏡週刊Mirror Media",
+      "published": "2026-07-18T01:52:00+00:00",
+      "summary": "愛雅健康亮紅燈 深感當媽後變勇敢&nbsp;&nbsp;鏡週刊Mirror Media",
+      "sources": [
+        {
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wMmExYm5wbXFVTFZOSzRxYjdsMElnZnFJWGV6eFktRm1EZk4zazN2alhNRlpDVFVGTGY2T3pPdFlRaGVHTkd2b0tFZ2ZzU0o4Q2hoZW5UYkQ5NUdC0gFiQVVfeXFMTU5yaXQtUDB0RENFS2RVLTl3Z1FzblI5QjN3Zkcwbi1oYVdGSjB2a2tJRmtha0tpckI5MzY5T1RxbGJjTHBXNGtSNlluUnE3R3BlamtUMHJrNm52SEFUcjZaaFE?oc=5"
         }
       ]
     },
@@ -84,18 +96,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNTVZ1Mm5naEhqTk15QjAtcHFIUXMzeGgxMGNuMlNwUmk1OVVNdUEtZFZlT0NkN19HUTF5SGV6RnBTb2RNc2xoUGV4QS14NjRFbEVWbzVpTWpXclV6aGtqY1JwWnBMelBERUtVeGVKNk1OaFRHS1pVOWh1MFJ2eHZ2ZFREUDBQdEQxSDZ4ckVpbGNVUjVITVJWTWZ6NWhwaUZDTDNCY2R3aEExcGc0ay02cERsNF9saVpnQXlSa3RUanMxUGNxMWcxLWh1WmdCbGxPb0RZQ3dBLWRTRlFIZVRWakhqWVlqV3RFX2YwVW1ORHNqRGEwSU1mb0tKdUdObnhTZWZhUFNmM0J6MERseDB0b2lEbG9qdGRDbi1MR0hFd2FNVmRDbnpOc1NHREs2eHBvOXJxYVBvanBUeWhSckEwZmE5Wkc1cmhuMUZDa01zVi1OWVM1TTZaakRUSVloM1FvbG1aSVRiMk5iZjVIWGk1NVFUWTZnQTVUTHNMUzZLVnExY2lQYnhUTmJqNlA5c0lqQkJBWGdzeVZaN1FDRUVLMTY2a3IxSXVxZHpaeHVYUkRnelZzUW4yTTIxUTRZWFNsRWhTTUUwckF4VGlpV05LQjFwOFFDNjdpRW5GcEdpNlJvOVlPT3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "29ed65c2d40e",
-      "title": "雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」 - 巴士的報",
-      "published": "2026-07-16T08:00:55+00:00",
-      "summary": "雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」&nbsp;&nbsp;巴士的報雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」&nbsp;&nbsp;三立新聞網SETN.com禿頭福音…不是植髮！研究揭男性掉髮「隱藏優勢」 答案驚到掉下巴&nbsp;&nbsp;壹蘋新聞網男性禿頭有意外好處？ 研究指30歲前脫髮前列腺癌風險降3成&nbsp;&nbsp;singtao.ca禿頭都有好處 #禿頭 #脫髮 #前列腺癌 #am730&nbsp;&nbsp;facebook.com",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNam1qRmtVbjh3eHVxRU5wWVJkVnpXUXdJejVpd0JGOW5Bb1QzSExQUWpNS1h1cW9WSksxSGh4M2hPQWRkNXlaUXVTZW9XY1Rwb1JERGx3Qi00X1hTWFdYc2swbXphMlZFc2xyOGU4c3BIT1FHTXR1ZTdJeGpqRVpUeTBUZzFJODItbGZ1b29FVFExVU9nV2wzVUpaTVJpUTZGZFJaSlY0VlZ1Y1ZtYXdDSHpQNm5uN0lCUjhYd0w0MmQtZlp5T01acU5PanJQNUt2X2RFaE1qeHJsQ05WcElWbWVZWGJnQXAwQ016SWN4anZBRFRwR1E5WUg0LWNGUmNaZWY3ZjdVOFVFaGlfREtITy1iYTJ2akNQSVByUnhQMU9KUmJ5U3oxS0VqQ3lHdUJMRFkxMEZ4dzN4cnZhdVlnSm5nYk1wM1haT0MzeGNZNjlVY1JzTF9OaEY0UjRuREpTNDR3UUJn?oc=5"
         }
       ]
     },
