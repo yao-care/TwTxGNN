@@ -14,7 +14,7 @@ permalink: /news/amcinonide/
 ---
 
 <p class="key-answer" data-question="Amcinonide 有什麼相關新聞？">
-<strong>Amcinonide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 8 個。
+<strong>Amcinonide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 8 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,9 +40,15 @@ permalink: /news/amcinonide/
 <p><a href="{{ '/drugs/amcinonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [尿道生滿「椰菜花」未必關性生活事？揭元兇是免疫力崩潰 糖尿病/化療/捱夜易中伏？](https://news.google.com/rss/articles/CBMi5gNBVV95cUxNTVZ1Mm5naEhqTk15QjAtcHFIUXMzeGgxMGNuMlNwUmk1OVVNdUEtZFZlT0NkN19HUTF5SGV6RnBTb2RNc2xoUGV4QS14NjRFbEVWbzVpTWpXclV6aGtqY1JwWnBMelBERUtVeGVKNk1OaFRHS1pVOWh1MFJ2eHZ2ZFREUDBQdEQxSDZ4ckVpbGNVUjVITVJWTWZ6NWhwaUZDTDNCY2R3aEExcGc0ay02cERsNF9saVpnQXlSa3RUanMxUGNxMWcxLWh1WmdCbGxPb0RZQ3dBLWRTRlFIZVRWakhqWVlqV3RFX2YwVW1ORHNqRGEwSU1mb0tKdUdObnhTZWZhUFNmM0J6MERseDB0b2lEbG9qdGRDbi1MR0hFd2FNVmRDbnpOc1NHREs2eHBvOXJxYVBvanBUeWhSckEwZmE5Wkc1cmhuMUZDa01zVi1OWVM1TTZaakRUSVloM1FvbG1aSVRiMk5iZjVIWGk1NVFUWTZnQTVUTHNMUzZLVnExY2lQYnhUTmJqNlA5c0lqQkJBWGdzeVZaN1FDRUVLMTY2a3IxSXVxZHpaeHVYUkRnelZzUW4yTTIxUTRZWFNsRWhTTUUwckF4VGlpV05LQjFwOFFDNjdpRW5GcEdpNlJvOVlPT3c?oc=5)
+
+2026-07-17 <span class="news-indication-tag">濕疹</span>
+
+來源：[星島頭條](https://news.google.com/rss/articles/CBMi5gNBVV95cUxNTVZ1Mm5naEhqTk15QjAtcHFIUXMzeGgxMGNuMlNwUmk1OVVNdUEtZFZlT0NkN19HUTF5SGV6RnBTb2RNc2xoUGV4QS14NjRFbEVWbzVpTWpXclV6aGtqY1JwWnBMelBERUtVeGVKNk1OaFRHS1pVOWh1MFJ2eHZ2ZFREUDBQdEQxSDZ4ckVpbGNVUjVITVJWTWZ6NWhwaUZDTDNCY2R3aEExcGc0ay02cERsNF9saVpnQXlSa3RUanMxUGNxMWcxLWh1WmdCbGxPb0RZQ3dBLWRTRlFIZVRWakhqWVlqV3RFX2YwVW1ORHNqRGEwSU1mb0tKdUdObnhTZWZhUFNmM0J6MERseDB0b2lEbG9qdGRDbi1MR0hFd2FNVmRDbnpOc1NHREs2eHBvOXJxYVBvanBUeWhSckEwZmE5Wkc1cmhuMUZDa01zVi1OWVM1TTZaakRUSVloM1FvbG1aSVRiMk5iZjVIWGk1NVFUWTZnQTVUTHNMUzZLVnExY2lQYnhUTmJqNlA5c0lqQkJBWGdzeVZaN1FDRUVLMTY2a3IxSXVxZHpaeHVYUkRnelZzUW4yTTIxUTRZWFNsRWhTTUUwckF4VGlpV05LQjFwOFFDNjdpRW5GcEdpNlJvOVlPT3c?oc=5)
+
+---
 
 
 <div class="disclaimer">

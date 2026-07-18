@@ -43,11 +43,11 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（1 則）
 
-### [防關節退化服葡萄糖胺者可能增加失智風險？研究顯示1種人小心補充 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikgFBVV95cUxNMXFoVE9LdEdKSzllSTNLMWNlaEFrRGMwQkFEVmxLNTVmUDV4RktQclhfQWsya0VTTW9oOEk4VGFPcEZXNXpEN05USjVBSHZzUWFEQV9YQUZRVEtMcDAwZmhvakZzbThfT3ZrajlQbG1hczI0T1JKRklub3FEY3dXb2JfYVJqX1RrdjR2bDlUSGlPQQ?oc=5)
+### [健康網》顧關節可能反傷腦 研究揭這保健品恐讓失智風險增25％](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvUHFZaHhxcU5lTHJSYzNCQi1Vc3VUN1lQUzUySHl5cGNBMkFsVGJ6eTdhVU50RkxOb3oycTFTTjhDdjFyb2JLVDVpNnQxX3FYTVdhTnNfbGFMaUZPZGp0QWpTTi3SAWpBVV95cUxOV3dHVktQWVVYaXBQMG5KSkY3UFBVcC1XbmVhYjBDVmpsaW5hWlgyWnZQWV9qTHJCM0NWT3Y0R1lvQXdqbWtxWWhFT3ZTX3p4dGdraEdqbUllTUVyVFcwRW41cFNoOV9zQmRn?oc=5)
 
-2026-07-17 <span class="news-indication-tag">失智</span>
+2026-07-18 <span class="news-indication-tag">失智</span>
 
-來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMikgFBVV95cUxNMXFoVE9LdEdKSzllSTNLMWNlaEFrRGMwQkFEVmxLNTVmUDV4RktQclhfQWsya0VTTW9oOEk4VGFPcEZXNXpEN05USjVBSHZzUWFEQV9YQUZRVEtMcDAwZmhvakZzbThfT3ZrajlQbG1hczI0T1JKRklub3FEY3dXb2JfYVJqX1RrdjR2bDlUSGlPQQ?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvUHFZaHhxcU5lTHJSYzNCQi1Vc3VUN1lQUzUySHl5cGNBMkFsVGJ6eTdhVU50RkxOb3oycTFTTjhDdjFyb2JLVDVpNnQxX3FYTVdhTnNfbGFMaUZPZGp0QWpTTi3SAWpBVV95cUxOV3dHVktQWVVYaXBQMG5KSkY3UFBVcC1XbmVhYjBDVmpsaW5hWlgyWnZQWV9qTHJCM0NWT3Y0R1lvQXdqbWtxWWhFT3ZTX3p4dGdraEdqbUllTUVyVFcwRW41cFNoOV9zQmRn?oc=5)
 
 ---
 
