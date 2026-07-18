@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-18T17:47:22.800664+00:00",
+  "fetched_at": "2026-07-18T18:48:52.343505+00:00",
   "count": 12,
   "news": [
     {
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "a4177f73c440",
-      "title": "乳癌手術後更痛竟與它有關！維生素D缺乏成關鍵因素 - 台視新聞網",
-      "published": "2026-07-18T07:00:03+00:00",
-      "summary": "乳癌手術後更痛竟與它有關！維生素D缺乏成關鍵因素&nbsp;&nbsp;台視新聞網",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkcGViNnJLM282bFlROGtERGlhNDJqcUs5MWpkSXBHRDJqc1cxd3BGckJWaFNYVlVlb1d3ZHhsV3FQLV9WLUdpcnBmVmI5cW1PUmtPNURzVQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "63d34ebfaac9",
       "title": "每天排便次數竟影響壽命！醫揭「黃金頻率」多活4.5年 - 天天上新聞",
       "published": "2026-07-17T09:59:43+00:00",
@@ -48,6 +36,18 @@
         {
           "name": "天天上新聞",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Vd3M3TEZLY1gyUkxTVzJiSEVXaUcwY0xGQTlQdkJjNlEzekdZNjR1OUVWcTRjZnV3elotNXhDZG44WmltU2VBVy1GVS10Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a4177f73c440",
+      "title": "乳癌手術後更痛竟與它有關！維生素D缺乏成關鍵因素 - 台視新聞網",
+      "published": "2026-07-18T07:00:03+00:00",
+      "summary": "乳癌手術後更痛竟與它有關！維生素D缺乏成關鍵因素&nbsp;&nbsp;台視新聞網",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkcGViNnJLM282bFlROGtERGlhNDJqcUs5MWpkSXBHRDJqc1cxd3BGckJWaFNYVlVlb1d3ZHhsV3FQLV9WLUdpcnBmVmI5cW1PUmtPNURzVQ?oc=5"
         }
       ]
     },
