@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/gemcitabine/
 <li><strong>原適應症</strong>：轉移性大腸直腸癌</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>female breast carcinoma（100.0%）</li>
+<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
 <li>rectum mucinous adenocarcinoma（99.8%）</li>
 <li>colon mucinous adenocarcinoma（99.8%）</li>
 <li>endometrial mixed adenocarcinoma（99.8%）</li>
@@ -42,9 +42,15 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [乳癌手術後更痛竟與它有關！維生素D缺乏成關鍵因素](https://news.google.com/rss/articles/CBMi3gJBVV95cUxPNjZwQkNvT3E5cVhGNXNaUnlBVlNUYmZ5X0hNZTB4bXIxTkp5ZjE5MlpWSjc4ekhmY2RKZUxuSDR3TmJUUVBCZUVudHhxNVBLaWtvRF9HZG5WMEVEb3BkNEprdGJ6TER0a0M1Z1ppN2RIZGdYVmNvR0RJVmZfU010WGVsTXF2Z1M1eWJMSV94emZsaDlaWGd6VVF4amdsT2ZMR2xETEU4QTVEUzJGZkRfQThXZUJBMExZSFdBa1FWdjNCdjhIMnVLSnJCNUI0YUprbkg4b3YzSnZFdmhVRU9URmVTWl9XcDR5VzBtVDFaenRFV1JNV0sxa0xvNzBpaTlBWGdLTV9LWTNsRHN0LVcwcllrRTIyRHFiLVBqenpjemVyd0l4OGEzZHBhM0pJVWZkQmRrSHBNc3lvZG90eThuRkoxdWtfU0hWWUZVWThSSl81bTRDQy1wNU5UWUZkUQ?oc=5)
+
+2026-07-18 <span class="news-indication-tag">乳癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi3gJBVV95cUxPNjZwQkNvT3E5cVhGNXNaUnlBVlNUYmZ5X0hNZTB4bXIxTkp5ZjE5MlpWSjc4ekhmY2RKZUxuSDR3TmJUUVBCZUVudHhxNVBLaWtvRF9HZG5WMEVEb3BkNEprdGJ6TER0a0M1Z1ppN2RIZGdYVmNvR0RJVmZfU010WGVsTXF2Z1M1eWJMSV94emZsaDlaWGd6VVF4amdsT2ZMR2xETEU4QTVEUzJGZkRfQThXZUJBMExZSFdBa1FWdjNCdjhIMnVLSnJCNUI0YUprbkg4b3YzSnZFdmhVRU9URmVTWl9XcDR5VzBtVDFaenRFV1JNV0sxa0xvNzBpaTlBWGdLTV9LWTNsRHN0LVcwcllrRTIyRHFiLVBqenpjemVyd0l4OGEzZHBhM0pJVWZkQmRrSHBNc3lvZG90eThuRkoxdWtfU0hWWUZVWThSSl81bTRDQy1wNU5UWUZkUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">
