@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-18T06:54:01.033346+00:00",
-  "count": 13,
+  "fetched_at": "2026-07-18T08:43:14.123628+00:00",
+  "count": 12,
   "news": [
+    {
+      "id": "5902ee58bf95",
+      "title": "健康網》顧關節可能反傷腦 研究揭這保健品恐讓失智風險增25％ - 自由健康網",
+      "published": "2026-07-18T05:20:00+00:00",
+      "summary": "健康網》顧關節可能反傷腦 研究揭這保健品恐讓失智風險增25％&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvUHFZaHhxcU5lTHJSYzNCQi1Vc3VUN1lQUzUySHl5cGNBMkFsVGJ6eTdhVU50RkxOb3oycTFTTjhDdjFyb2JLVDVpNnQxX3FYTVdhTnNfbGFMaUZPZGp0QWpTTi3SAWpBVV95cUxOV3dHVktQWVVYaXBQMG5KSkY3UFBVcC1XbmVhYjBDVmpsaW5hWlgyWnZQWV9qTHJCM0NWT3Y0R1lvQXdqbWtxWWhFT3ZTX3p4dGdraEdqbUllTUVyVFcwRW41cFNoOV9zQmRn?oc=5"
+        }
+      ]
+    },
     {
       "id": "11b77083a570",
       "title": "愛雅健康亮紅燈　深感當媽後變勇敢 - 鏡週刊Mirror Media",
@@ -16,6 +28,18 @@
       ]
     },
     {
+      "id": "a4177f73c440",
+      "title": "乳癌手術後更痛竟與它有關！維生素D缺乏成關鍵因素 - 台視新聞網",
+      "published": "2026-07-18T07:00:03+00:00",
+      "summary": "乳癌手術後更痛竟與它有關！維生素D缺乏成關鍵因素&nbsp;&nbsp;台視新聞網",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkcGViNnJLM282bFlROGtERGlhNDJqcUs5MWpkSXBHRDJqc1cxd3BGckJWaFNYVlVlb1d3ZHhsV3FQLV9WLUdpcnBmVmI5cW1PUmtPNURzVQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "80661c29730c",
       "title": "一個 ❤️、一滴 🩸，為什麼能改變一場健康對話？世界 Emoji 日，看見年輕世代如何重新說健康 - peopo.org",
       "published": "2026-07-16T16:12:00+00:00",
@@ -24,18 +48,6 @@
         {
           "name": "peopo.org",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBGRGUtOXJfNGQyMmFaZndVRHYzMUFob0pDRXJPcFpqcUhLNFBrVXlZdEF6R1lHNldhY2c4NFNaVFp5ZkhycmdWYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5902ee58bf95",
-      "title": "健康網》顧關節可能反傷腦 研究揭這保健品恐讓失智風險增25％ - 自由健康網",
-      "published": "2026-07-18T05:20:00+00:00",
-      "summary": "健康網》顧關節可能反傷腦 研究揭這保健品恐讓失智風險增25％&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvUHFZaHhxcU5lTHJSYzNCQi1Vc3VUN1lQUzUySHl5cGNBMkFsVGJ6eTdhVU50RkxOb3oycTFTTjhDdjFyb2JLVDVpNnQxX3FYTVdhTnNfbGFMaUZPZGp0QWpTTi3SAWpBVV95cUxOV3dHVktQWVVYaXBQMG5KSkY3UFBVcC1XbmVhYjBDVmpsaW5hWlgyWnZQWV9qTHJCM0NWT3Y0R1lvQXdqbWtxWWhFT3ZTX3p4dGdraEdqbUllTUVyVFcwRW41cFNoOV9zQmRn?oc=5"
         }
       ]
     },
@@ -76,18 +88,6 @@
       ]
     },
     {
-      "id": "e18097548a1f",
-      "title": "感冒愈來愈難好？醫揭胸口「1器官」悄悄退化 恐影響疫苗保護力 - 台視新聞網",
-      "published": "2026-07-16T07:00:02+00:00",
-      "summary": "感冒愈來愈難好？醫揭胸口「1器官」悄悄退化 恐影響疫苗保護力&nbsp;&nbsp;台視新聞網",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LeXFtU1dZdzlQb3FsdFhkZldKRmtKTVBmNk10VnFBM2xNajRQeFB0RXhleHRIb0pUMVA5aGhQWEVKaEk1UkJIUGpJTGNRTGN5VV90anRFWQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "29ed65c2d40e",
       "title": "雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」 - 巴士的報",
       "published": "2026-07-16T08:00:55+00:00",
@@ -108,18 +108,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPODFTM0RvdDIzZlNsaTVtWDY0VktYUDAwZzl5aXNEbjZQa1ZrNDFnaWxIZXhTWXhycFVGbTBfMUJEcC1sdDBVVUEyWnRTa3praUJZMWpTemVSeE5xek9PMGdrQUxDcEMwcm1jVUhESTVEdG5NNFN6aUh3dkQxVkZsbURtRmlSS2M4MHdzUkItSjhOcjlHU0dmTkFIcDFJSGtCVDlhVzFxVnhKOEQtVnROVkVORVpOZWJrclVWekpuRWtWY0t2dzJTaVEwQTk0a0x6WTlucjZmSWhIWXhXNy1rRkJaa19DZ3doQU00MVlhR0xueEhjcDV6MFZkS191UmlfY1ZrZkN1Q2pDNEJDbm9ZNWM3WUdsOExLRG83bTdqc0hfOFhUTnJ1MzYwR1lQNDFHbXg2TnFLX3pfRUNsamJjNEREQ0ZkSUc3UlRGa2h0Nk5vcWJwcU9pWlR2NXFtemRF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "624e7345341f",
-      "title": "乳癌手術後更痛竟與它有關！維生素D缺乏成關鍵因素 - 健康新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "published": "2026-07-18T00:52:54+00:00",
-      "summary": "乳癌手術後更痛竟與它有關！維生素D缺乏成關鍵因素 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRFNIU09kaVlNcGllOUNDLTdZMDgwSDhMVlFUNGlsc3hpMU1BUFlJZ1JyZW12LUtvNHZRNGNuZHFCU2tvbC1rb0dyYzNnc3JiSjRKTXJKSnRGamJ3ZWpXUXZwOWNTYzJERlR2NktTTTAtVHcyWnNoVlBMdUxfMEJlbm9XTEVDRloxQ0pGUFpWTnk3UQ?oc=5"
         }
       ]
     },

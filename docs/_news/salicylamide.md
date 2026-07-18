@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [感冒藥吃出「奪命便祕」！1感冒藥成分恐讓長者、腎友送命](https://news.google.com/rss/articles/CBMi4AJBVV95cUxPODFTM0RvdDIzZlNsaTVtWDY0VktYUDAwZzl5aXNEbjZQa1ZrNDFnaWxIZXhTWXhycFVGbTBfMUJEcC1sdDBVVUEyWnRTa3praUJZMWpTemVSeE5xek9PMGdrQUxDcEMwcm1jVUhESTVEdG5NNFN6aUh3dkQxVkZsbURtRmlSS2M4MHdzUkItSjhOcjlHU0dmTkFIcDFJSGtCVDlhVzFxVnhKOEQtVnROVkVORVpOZWJrclVWekpuRWtWY0t2dzJTaVEwQTk0a0x6WTlucjZmSWhIWXhXNy1rRkJaa19DZ3doQU00MVlhR0xueEhjcDV6MFZkS191UmlfY1ZrZkN1Q2pDNEJDbm9ZNWM3WUdsOExLRG83bTdqc0hfOFhUTnJ1MzYwR1lQNDFHbXg2TnFLX3pfRUNsamJjNEREQ0ZkSUc3UlRGa2h0Nk5vcWJwcU9pWlR2NXFtemRF?oc=5)
 
 2026-07-18 <span class="news-indication-tag">感冒</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi4AJBVV95cUxPODFTM0RvdDIzZlNsaTVtWDY0VktYUDAwZzl5aXNEbjZQa1ZrNDFnaWxIZXhTWXhycFVGbTBfMUJEcC1sdDBVVUEyWnRTa3praUJZMWpTemVSeE5xek9PMGdrQUxDcEMwcm1jVUhESTVEdG5NNFN6aUh3dkQxVkZsbURtRmlSS2M4MHdzUkItSjhOcjlHU0dmTkFIcDFJSGtCVDlhVzFxVnhKOEQtVnROVkVORVpOZWJrclVWekpuRWtWY0t2dzJTaVEwQTk0a0x6WTlucjZmSWhIWXhXNy1rRkJaa19DZ3doQU00MVlhR0xueEhjcDV6MFZkS191UmlfY1ZrZkN1Q2pDNEJDbm9ZNWM3WUdsOExLRG83bTdqc0hfOFhUTnJ1MzYwR1lQNDFHbXg2TnFLX3pfRUNsamJjNEREQ0ZkSUc3UlRGa2h0Nk5vcWJwcU9pWlR2NXFtemRF?oc=5)
-
----
-
-### [感冒愈來愈難好？醫揭胸口「1器官」悄悄退化 恐影響疫苗保護力](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LeXFtU1dZdzlQb3FsdFhkZldKRmtKTVBmNk10VnFBM2xNajRQeFB0RXhleHRIb0pUMVA5aGhQWEVKaEk1UkJIUGpJTGNRTGN5VV90anRFWQ?oc=5)
-
-2026-07-16 <span class="news-indication-tag">感冒</span>
-
-來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LeXFtU1dZdzlQb3FsdFhkZldKRmtKTVBmNk10VnFBM2xNajRQeFB0RXhleHRIb0pUMVA5aGhQWEVKaEk1UkJIUGpJTGNRTGN5VV90anRFWQ?oc=5)
 
 ---
 
