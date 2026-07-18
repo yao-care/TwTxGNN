@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-18T15:45:07.389131+00:00",
+  "fetched_at": "2026-07-18T16:44:43.149913+00:00",
   "count": 13,
   "news": [
     {
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "11b77083a570",
-      "title": "愛雅健康亮紅燈　深感當媽後變勇敢 - 鏡週刊Mirror Media",
-      "published": "2026-07-18T01:52:00+00:00",
-      "summary": "愛雅健康亮紅燈 深感當媽後變勇敢&nbsp;&nbsp;鏡週刊Mirror Media",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wMmExYm5wbXFVTFZOSzRxYjdsMElnZnFJWGV6eFktRm1EZk4zazN2alhNRlpDVFVGTGY2T3pPdFlRaGVHTkd2b0tFZ2ZzU0o4Q2hoZW5UYkQ5NUdC0gFiQVVfeXFMTU5yaXQtUDB0RENFS2RVLTl3Z1FzblI5QjN3Zkcwbi1oYVdGSjB2a2tJRmtha0tpckI5MzY5T1RxbGJjTHBXNGtSNlluUnE3R3BlamtUMHJrNm52SEFUcjZaaFE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "63d34ebfaac9",
       "title": "每天排便次數竟影響壽命！醫揭「黃金頻率」多活4.5年 - 天天上新聞",
       "published": "2026-07-17T09:59:43+00:00",
@@ -60,6 +48,18 @@
         {
           "name": "天天上新聞",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Vd3M3TEZLY1gyUkxTVzJiSEVXaUcwY0xGQTlQdkJjNlEzekdZNjR1OUVWcTRjZnV3elotNXhDZG44WmltU2VBVy1GVS10Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "11b77083a570",
+      "title": "愛雅健康亮紅燈　深感當媽後變勇敢 - 鏡週刊Mirror Media",
+      "published": "2026-07-18T01:52:00+00:00",
+      "summary": "愛雅健康亮紅燈 深感當媽後變勇敢&nbsp;&nbsp;鏡週刊Mirror Media",
+      "sources": [
+        {
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wMmExYm5wbXFVTFZOSzRxYjdsMElnZnFJWGV6eFktRm1EZk4zazN2alhNRlpDVFVGTGY2T3pPdFlRaGVHTkd2b0tFZ2ZzU0o4Q2hoZW5UYkQ5NUdC0gFiQVVfeXFMTU5yaXQtUDB0RENFS2RVLTl3Z1FzblI5QjN3Zkcwbi1oYVdGSjB2a2tJRmtha0tpckI5MzY5T1RxbGJjTHBXNGtSNlluUnE3R3BlamtUMHJrNm52SEFUcjZaaFE?oc=5"
         }
       ]
     },
