@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-18T19:59:07.103115+00:00",
-  "count": 11,
+  "fetched_at": "2026-07-18T20:51:14.575306+00:00",
+  "count": 10,
   "news": [
-    {
-      "id": "f9238f8d2c0b",
-      "title": "一隻蚊子害4人染瘧疾！ 法蘭克福機場4地勤遭帶原蚊叮咬感染 - Yahoo新聞",
-      "published": "2026-07-18T12:45:25+00:00",
-      "summary": "一隻蚊子害4人染瘧疾！ 法蘭克福機場4地勤遭帶原蚊叮咬感染&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNV2o0T0RyLUstTmsyTlY0amdDMVh0VWk5LVRpMFU1MjJ1dklQc3ZHdWZzRVdObHFpOF9hQUJYMkNnbDB0bVBaVW40S1p0WllxNEtnaE5TQlViUUlQSDY4TFVWakdhUmtzLWd4WGhLOWhRYkh6VW1zZlE3dTRSd1ZsYzBQcHZ2VFMxOGN5bkZMaEVzaHZid01sVzE4WFpwYWlUU1FlTXBJakM5b19oMTJ1TE5oMGJzMnlVRi1CSmJIR05iTVI1alhPS0F2NVk3MXp3UHFGN2piblRhM3JaZFJWSWNUY3MwZEN6WU04bGpieXBGSWo2eUFVVTM4SHR5YmNrT05Ib213c0xsZURTVDQzYlFJS3BNOVRLcV9VWXFHVXVubkQ5TVB2b0dVZS1MMTlubjlPT1dhamxNcUdqRTdUZE5LV05JcmdnSk80ZEVoMFR0UmhJVFRBcndPTUJHT3JaN2YzN3JLLXFpZ2RVdXNBa3FZRXpXQXM?oc=5"
-        }
-      ]
-    },
     {
       "id": "e112224282af",
       "title": "50歲男換菜單顧腎 早餐大嗑1綠色水果 血鉀狂飆「嚴重恐致命」 - 中時新聞網",
@@ -28,26 +16,14 @@
       ]
     },
     {
-      "id": "63d34ebfaac9",
-      "title": "每天排便次數竟影響壽命！醫揭「黃金頻率」多活4.5年 - 天天上新聞",
-      "published": "2026-07-17T09:59:43+00:00",
-      "summary": "每天排便次數竟影響壽命！醫揭「黃金頻率」多活4.5年&nbsp;&nbsp;天天上新聞",
+      "id": "99fd71e248a2",
+      "title": "每天排便次數竟影響壽命！醫揭「黃金頻率」多活4.5年 - Yahoo新聞",
+      "published": "2026-07-17T08:12:04+00:00",
+      "summary": "每天排便次數竟影響壽命！醫揭「黃金頻率」多活4.5年&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "天天上新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Vd3M3TEZLY1gyUkxTVzJiSEVXaUcwY0xGQTlQdkJjNlEzekdZNjR1OUVWcTRjZnV3elotNXhDZG44WmltU2VBVy1GVS10Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a4177f73c440",
-      "title": "乳癌手術後更痛竟與它有關！維生素D缺乏成關鍵因素 - 台視新聞網",
-      "published": "2026-07-18T07:00:03+00:00",
-      "summary": "乳癌手術後更痛竟與它有關！維生素D缺乏成關鍵因素&nbsp;&nbsp;台視新聞網",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkcGViNnJLM282bFlROGtERGlhNDJqcUs5MWpkSXBHRDJqc1cxd3BGckJWaFNYVlVlb1d3ZHhsV3FQLV9WLUdpcnBmVmI5cW1PUmtPNURzVQ?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNa2V6Qms0V1BIa1RXSlFxOFFCSHR3Q21ncTJ4NUdNUXlYWi0xRnV4dkI3b3Y0d3BlczhweGlaNFZwa0syd3ZyeFVfRnpEb2stVEZrS2R0QjlSOG12cnFFVHFmd3l6STFSSmx0SWhaaF9CTnhfQUFBMzNzc244eXMzejF3QS1GY3JwekFuSGR4YURzcnE1TzZJallsY2xZNlYxczdDOGdsLXN1ejVWVUNjN3RaU2ZYbmpMQ2NKU0NHT0x3SC0tckpPejUxRWVVdXVmTGVaYlZqSWw5VWU2WFE1MHJ4UElsNUpZVldsREJxUlhZekExU1g4WlZENW85c3JRaWY2YVJMdVg1bmhIWEdvTHBQeXVyOFcxSm56N3RlcmhBeGlVYUJHeElBb3ItRU1rT0JLNjY1b1Y2aVJUNDhYS0VwNzM0OTFZWUJj?oc=5"
         }
       ]
     },
@@ -60,6 +36,18 @@
         {
           "name": "鏡週刊Mirror Media",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wMmExYm5wbXFVTFZOSzRxYjdsMElnZnFJWGV6eFktRm1EZk4zazN2alhNRlpDVFVGTGY2T3pPdFlRaGVHTkd2b0tFZ2ZzU0o4Q2hoZW5UYkQ5NUdC0gFiQVVfeXFMTU5yaXQtUDB0RENFS2RVLTl3Z1FzblI5QjN3Zkcwbi1oYVdGSjB2a2tJRmtha0tpckI5MzY5T1RxbGJjTHBXNGtSNlluUnE3R3BlamtUMHJrNm52SEFUcjZaaFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "624e7345341f",
+      "title": "乳癌手術後更痛竟與它有關！維生素D缺乏成關鍵因素 - 健康新聞 - PChome Online 新聞 - PChome Online 新聞",
+      "published": "2026-07-18T00:52:54+00:00",
+      "summary": "乳癌手術後更痛竟與它有關！維生素D缺乏成關鍵因素 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRFNIU09kaVlNcGllOUNDLTdZMDgwSDhMVlFUNGlsc3hpMU1BUFlJZ1JyZW12LUtvNHZRNGNuZHFCU2tvbC1rb0dyYzNnc3JiSjRKTXJKSnRGamJ3ZWpXUXZwOWNTYzJERlR2NktTTTAtVHcyWnNoVlBMdUxfMEJlbm9XTEVDRloxQ0pGUFpWTnk3UQ?oc=5"
         }
       ]
     },

@@ -35,11 +35,11 @@ permalink: /news/trabectedin/
 
 ## 相關新聞（1 則）
 
-### [乳癌手術後更痛竟與它有關！維生素D缺乏成關鍵因素](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkcGViNnJLM282bFlROGtERGlhNDJqcUs5MWpkSXBHRDJqc1cxd3BGckJWaFNYVlVlb1d3ZHhsV3FQLV9WLUdpcnBmVmI5cW1PUmtPNURzVQ?oc=5)
+### [乳癌手術後更痛竟與它有關！維生素D缺乏成關鍵因素 - 健康新聞 - PChome Online 新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikgFBVV95cUxQRFNIU09kaVlNcGllOUNDLTdZMDgwSDhMVlFUNGlsc3hpMU1BUFlJZ1JyZW12LUtvNHZRNGNuZHFCU2tvbC1rb0dyYzNnc3JiSjRKTXJKSnRGamJ3ZWpXUXZwOWNTYzJERlR2NktTTTAtVHcyWnNoVlBMdUxfMEJlbm9XTEVDRloxQ0pGUFpWTnk3UQ?oc=5)
 
 2026-07-18 <span class="news-indication-tag">乳癌</span>
 
-來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkcGViNnJLM282bFlROGtERGlhNDJqcUs5MWpkSXBHRDJqc1cxd3BGckJWaFNYVlVlb1d3ZHhsV3FQLV9WLUdpcnBmVmI5cW1PUmtPNURzVQ?oc=5)
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMikgFBVV95cUxQRFNIU09kaVlNcGllOUNDLTdZMDgwSDhMVlFUNGlsc3hpMU1BUFlJZ1JyZW12LUtvNHZRNGNuZHFCU2tvbC1rb0dyYzNnc3JiSjRKTXJKSnRGamJ3ZWpXUXZwOWNTYzJERlR2NktTTTAtVHcyWnNoVlBMdUxfMEJlbm9XTEVDRloxQ0pGUFpWTnk3UQ?oc=5)
 
 ---
 
