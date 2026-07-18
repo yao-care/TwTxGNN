@@ -14,7 +14,7 @@ permalink: /news/iodixanol/
 ---
 
 <p class="key-answer" data-question="Iodixanol 有什麼相關新聞？">
-<strong>Iodixanol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Iodixanol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,15 @@ permalink: /news/iodixanol/
 <li><strong>預測適應症</strong>（3 個）：<ul>
 <li>osteoarthritis susceptibility（99.2%）</li>
 <li>osteoarthritis（99.1%）</li>
-<li class="indication-matched">rheumatoid arthritis（99.0%）<span class="indication-tag">📰 關節炎</span></li>
+<li>rheumatoid arthritis（99.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/iodixanol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [1關節炎藥嚴重過敏發生率約0.4% 長庚研究揭「關鍵基因」盼助提前預防](https://news.google.com/rss/articles/CBMioANBVV95cUxNYVhTUlV5OTZFSVZyYWpaTFpUdW9sMnU2OEN5SVhmQkFkQVhXcnJLTXQ1OGR2N0toRTZmRjgzU204YmlwWE9Bd1NGdDBvMlM4bGFQUDlGSnV1Z1FaWEVNdGpISVphNm11WmU1aVo3c3QxY0doNlJDMUptSXE4MHpfdkU1bVh2aldZNWlqazFVNXZWcGwxY2YtUjlXSzU3WWxDSXBGdEtwUDVpTUdRMThLczVOWXE2NFgzZUlzZ1I3UFBaOVRNc2dqbURrNFRoajZzSE5GdFpFd2c0dFF0MXFhYVgzbGJnTU1vOFlGTWNNY1VZRlB2UDVMdUxrZUhyVWpFVFdwN3pqUFJWTldEV1AxZl9ENWdtaVQxUjBtSkV3U3VLRkpzYVVHaHc0TDVVQkZDcmhtMGxDdzQtd09yamNQU3Q3dUx0V195ZkU3UEhGeXRWQTBIdjVRUzlwMXgwd1pUUlE3SUpqcmg0WXIyNUtfVkQ3UVpVZlNIWFhqRnVVVlBIQjh4ZER3NHk1dFlJWGNsbDhsZ0JUX0JZZkZyV2ZGMg?oc=5)
-
-2026-07-16 <span class="news-indication-tag">關節炎</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMioANBVV95cUxNYVhTUlV5OTZFSVZyYWpaTFpUdW9sMnU2OEN5SVhmQkFkQVhXcnJLTXQ1OGR2N0toRTZmRjgzU204YmlwWE9Bd1NGdDBvMlM4bGFQUDlGSnV1Z1FaWEVNdGpISVphNm11WmU1aVo3c3QxY0doNlJDMUptSXE4MHpfdkU1bVh2aldZNWlqazFVNXZWcGwxY2YtUjlXSzU3WWxDSXBGdEtwUDVpTUdRMThLczVOWXE2NFgzZUlzZ1I3UFBaOVRNc2dqbURrNFRoajZzSE5GdFpFd2c0dFF0MXFhYVgzbGJnTU1vOFlGTWNNY1VZRlB2UDVMdUxrZUhyVWpFVFdwN3pqUFJWTldEV1AxZl9ENWdtaVQxUjBtSkV3U3VLRkpzYVVHaHc0TDVVQkZDcmhtMGxDdzQtd09yamNQU3Q3dUx0V195ZkU3UEhGeXRWQTBIdjVRUzlwMXgwd1pUUlE3SUpqcmg0WXIyNUtfVkQ3UVpVZlNIWFhqRnVVVlBIQjh4ZER3NHk1dFlJWGNsbDhsZ0JUX0JZZkZyV2ZGMg?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

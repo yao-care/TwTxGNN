@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-18T01:42:07.848539+00:00",
-  "count": 5,
+  "generated": "2026-07-18T04:40:08.814609+00:00",
+  "count": 4,
   "news": [
     {
       "id": "66c69a9834c1",
@@ -117,42 +117,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a773d2e158d6",
-      "title": "1關節炎藥嚴重過敏發生率約0.4% 長庚研究揭「關鍵基因」盼助提前預防",
-      "published": "2026-07-16T03:05:54+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNYVhTUlV5OTZFSVZyYWpaTFpUdW9sMnU2OEN5SVhmQkFkQVhXcnJLTXQ1OGR2N0toRTZmRjgzU204YmlwWE9Bd1NGdDBvMlM4bGFQUDlGSnV1Z1FaWEVNdGpISVphNm11WmU1aVo3c3QxY0doNlJDMUptSXE4MHpfdkU1bVh2aldZNWlqazFVNXZWcGwxY2YtUjlXSzU3WWxDSXBGdEtwUDVpTUdRMThLczVOWXE2NFgzZUlzZ1I3UFBaOVRNc2dqbURrNFRoajZzSE5GdFpFd2c0dFF0MXFhYVgzbGJnTU1vOFlGTWNNY1VZRlB2UDVMdUxrZUhyVWpFVFdwN3pqUFJWTldEV1AxZl9ENWdtaVQxUjBtSkV3U3VLRkpzYVVHaHc0TDVVQkZDcmhtMGxDdzQtd09yamNQU3Q3dUx0V195ZkU3UEhGeXRWQTBIdjVRUzlwMXgwd1pUUlE3SUpqcmg0WXIyNUtfVkQ3UVpVZlNIWFhqRnVVVlBIQjh4ZER3NHk1dFlJWGNsbDhsZ0JUX0JZZkZyV2ZGMg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "關節炎",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
             }
           ]
         }

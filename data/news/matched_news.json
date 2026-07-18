@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-07-18T01:42:07.834895+00:00",
-  "total_count": 18,
-  "matched_count": 5,
+  "last_updated": "2026-07-18T04:40:08.785379+00:00",
+  "total_count": 15,
+  "matched_count": 4,
   "news": [
+    {
+      "id": "11b77083a570",
+      "title": "愛雅健康亮紅燈　深感當媽後變勇敢 - 鏡週刊Mirror Media",
+      "published": "2026-07-18T01:52:00+00:00",
+      "summary": "愛雅健康亮紅燈 深感當媽後變勇敢&nbsp;&nbsp;鏡週刊Mirror Media",
+      "sources": [
+        {
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wMmExYm5wbXFVTFZOSzRxYjdsMElnZnFJWGV6eFktRm1EZk4zazN2alhNRlpDVFVGTGY2T3pPdFlRaGVHTkd2b0tFZ2ZzU0o4Q2hoZW5UYkQ5NUdC0gFiQVVfeXFMTU5yaXQtUDB0RENFS2RVLTl3Z1FzblI5QjN3Zkcwbi1oYVdGSjB2a2tJRmtha0tpckI5MzY5T1RxbGJjTHBXNGtSNlluUnE3R3BlamtUMHJrNm52SEFUcjZaaFE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "66c69a9834c1",
       "title": "乳癌手術後更痛竟與它有關！維生素D缺乏成關鍵因素",
@@ -76,19 +89,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "bb75a16924b5",
-      "title": "愛雅健康亮燈「疑似腺病毒」　吐心聲：當媽真的會越來越勇敢嗎？",
-      "published": "2026-07-17T15:32:00+00:00",
-      "summary": "愛雅健康亮燈「疑似腺病毒」 吐心聲：當媽真的會越來越勇敢嗎？&nbsp;&nbsp;ETtoday星光雲",
-      "sources": [
-        {
-          "name": "ETtoday星光雲",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fNnoySnlqVXRrMHo0bHktakI4QTBUVGNnSGpzemMzbUNhQzUyQmhVby1veG5oOXEzWlp0S3hpN3V5a2k1V01ZbUoyQjlwQdIBakFVX3lxTE5rWi1INTh1RGgtSmhEdW5Yd2JHZ1VYOHlQNE9ad25wMm5CY2ItV2d2QmNtblFCWkVOWmxybGh3TGt6MmtDQXpEdlpKaXZidkFpUlAyNGd0LTZibDhjNTg2LUZPTW9Lcl9LS2c?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "4bd4f89b2c17",
@@ -220,13 +220,13 @@
       "matched_keywords": []
     },
     {
-      "id": "29ed65c2d40e",
+      "id": "372546932eed",
       "title": "雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」",
       "published": "2026-07-16T08:00:55+00:00",
-      "summary": "雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」&nbsp;&nbsp;巴士的報雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」&nbsp;&nbsp;三立新聞網SETN.com禿頭福音…不是植髮！研究揭男性掉髮「隱藏優勢」 答案驚到掉下巴&nbsp;&nbsp;壹蘋新聞網男性禿頭有意外好處？ 研究指30歲前脫髮前列腺癌風險降3成&nbsp;&nbsp;singtao.ca禿頭都有好處 #禿頭 #脫髮 #前列腺癌 #am730&nbsp;&nbsp;facebook.com",
+      "summary": "雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」&nbsp;&nbsp;bastillepost.com雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」&nbsp;&nbsp;三立新聞網SETN.com禿頭福音…不是植髮！研究揭男性掉髮「隱藏優勢」 答案驚到掉下巴&nbsp;&nbsp;壹蘋新聞網男性禿頭有意外好處？ 研究指30歲前脫髮前列腺癌風險降3成&nbsp;&nbsp;singtao.ca禿頭都有好處 #禿頭 #脫髮 #前列腺癌 #am730&nbsp;&nbsp;facebook.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNam1qRmtVbjh3eHVxRU5wWVJkVnpXUXdJejVpd0JGOW5Bb1QzSExQUWpNS1h1cW9WSksxSGh4M2hPQWRkNXlaUXVTZW9XY1Rwb1JERGx3Qi00X1hTWFdYc2swbXphMlZFc2xyOGU4c3BIT1FHTXR1ZTdJeGpqRVpUeTBUZzFJODItbGZ1b29FVFExVU9nV2wzVUpaTVJpUTZGZFJaSlY0VlZ1Y1ZtYXdDSHpQNm5uN0lCUjhYd0w0MmQtZlp5T01acU5PanJQNUt2X2RFaE1qeHJsQ05WcElWbWVZWGJnQXAwQ016SWN4anZBRFRwR1E5WUg0LWNGUmNaZWY3ZjdVOFVFaGlfREtITy1iYTJ2akNQSVByUnhQMU9KUmJ5U3oxS0VqQ3lHdUJMRFkxMEZ4dzN4cnZhdVlnSm5nYk1wM1haT0MzeGNZNjlVY1JzTF9OaEY0UjRuREpTNDR3UUJn?oc=5"
         }
       ],
@@ -266,69 +266,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQTi1hSDh4YWNDRDlZbC1VNlp1NnpubnVwTzFCbWNmWFdnUDBnZE9EWjJBZkJmdFJ3a3FPZ2c5RmI0LXR1c0E1MUU5ZU9tazJzNEV0aWJWLTNKOXRSUV9ROVo3bVhqdGl2dUdLOFlmUmZEQ2hMckx4ZTVZWFJiY2syaTJxbHQ4eldjU19hdUZFdTlHdXBpbkZvUG9ESGFkWms1RmdmcUw5STF1S2tIWVlyMGJJU2pvZWVlakx1aXdOcW9IX2hIYTVnanBvWmxlUUFoeTRJXzlvTFJ3YThNc1RtNlNXZWdXRHJqako1TDFaQ2Y3WmpyZThFSk0xanBCYm94Y0pHdVU0NGJYaFh2MU1iOEVVNTFpTDNQZFROdkJndV9FR09YZjhWUFpHMC1jeFNUSmx2UUtQaEhGMUp6SGlTVHJGdkJ3aFpjOTV3NXplQWR1bXZ6a1M0M014dUdqakNJMXBKaFhKMTJTZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b0880ce7216c",
-      "title": "不是吃得健康！研究：長壽的人都有這個共同特質",
-      "published": "2026-07-16T03:38:00+00:00",
-      "summary": "不是吃得健康！研究：長壽的人都有這個共同特質&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50RzZjTzZiY3BlMlBJV0hyc2FjTjBwU1B0ZFUxQklqaXF1TUo3UU1WNnRPQ2J0OGtOQ2xQVUpnek1ZeXJMOURBTl94dUJ1bXE0d3J1cFVFVXJUZ0pSbVRmbVZGTV_SAWpBVV95cUxQRGN5ODhUQmN3MXBLdXpjZ2M3dGVOVzBBNm5sSFZUQlE3Y3JNRm5ySlFxNGxtLWlacU1BUFVNMWJyMUdMdUJ2Q2kzNE02VTAyQXdiNVd5UVUySS1kOTB0eGlxOENSX0R0NktR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a773d2e158d6",
-      "title": "1關節炎藥嚴重過敏發生率約0.4% 長庚研究揭「關鍵基因」盼助提前預防",
-      "published": "2026-07-16T03:05:54+00:00",
-      "summary": "1關節炎藥嚴重過敏發生率約0.4% 長庚研究揭「關鍵基因」盼助提前預防&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNYVhTUlV5OTZFSVZyYWpaTFpUdW9sMnU2OEN5SVhmQkFkQVhXcnJLTXQ1OGR2N0toRTZmRjgzU204YmlwWE9Bd1NGdDBvMlM4bGFQUDlGSnV1Z1FaWEVNdGpISVphNm11WmU1aVo3c3QxY0doNlJDMUptSXE4MHpfdkU1bVh2aldZNWlqazFVNXZWcGwxY2YtUjlXSzU3WWxDSXBGdEtwUDVpTUdRMThLczVOWXE2NFgzZUlzZ1I3UFBaOVRNc2dqbURrNFRoajZzSE5GdFpFd2c0dFF0MXFhYVgzbGJnTU1vOFlGTWNNY1VZRlB2UDVMdUxrZUhyVWpFVFdwN3pqUFJWTldEV1AxZl9ENWdtaVQxUjBtSkV3U3VLRkpzYVVHaHc0TDVVQkZDcmhtMGxDdzQtd09yamNQU3Q3dUx0V195ZkU3UEhGeXRWQTBIdjVRUzlwMXgwd1pUUlE3SUpqcmg0WXIyNUtfVkQ3UVpVZlNIWFhqRnVVVlBIQjh4ZER3NHk1dFlJWGNsbDhsZ0JUX0JZZkZyV2ZGMg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "關節炎",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d1865ecdab9d",
-      "title": "嗅覺訓練助恢復氣味辨識 醫：持續6個月才有機會見效",
-      "published": "2026-07-16T02:06:13+00:00",
-      "summary": "嗅覺訓練助恢復氣味辨識 醫：持續6個月才有機會見效&nbsp;&nbsp;Yahoo新聞「嗅覺障礙」怎麼辦？安全免吃藥方法可用「標準四氣味訓練」幫鼻子復健&nbsp;&nbsp;PChome Online 新聞聞不到味道別放棄！醫：每天3分鐘鼻子運動 找回嗅覺&nbsp;&nbsp;自由健康網染疫「嗅覺喪失」可復健 醫揭4氣味訓練法助神經再生&nbsp;&nbsp;ETtoday健康雲擺脫嗅覺障礙，幫鼻子做復健運動！嗅覺訓練助恢復嗅覺，該怎麼做？ - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPOUFwV0VlbjhOWFF4VE1hT3IxQTVubG1yY0c3WUYyRjlwcU5zMnBOVzd6blBfQWl5TXBRYndtQ2pPcmktMHRWLUtXTGxtWVJFSzN5MkNxc2V6bnNNXzZGSHFVby1mc05NNXlDakV6cm1kWXFpaHo1S0ZjdDdIb2tLTXdFR05ZamdOVUh2NTFyV1JvU1I1Zkc3b0dpM3pFVUVqQ3RSV3dqNTk4NXpiTk9QLVZuUDRuS2h3TGRQWnZSWlhkZ2tERVpaR01lR2VxZU1BSWtfT1o2bXhHY3hjbU1mTHZpbGtTeXhjM29hM3JLTks5NXdwN2hWWkxNZGdTSlNTRzY4WDhkNXBIMXI3TTRRQlhLeTNuaEZYSEozeUNaRVVnMzNxVlU5VlNndzVzWEljRlBJUTAwQjBHcTlCS2FnR0tWV2NBTS1XQUw0LVFPbmxzalZKWFhMejFNd19KUzQ?oc=5"
         }
       ],
       "matched_keywords": []
