@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-07-19T20:02:54.663351+00:00",
-  "total_count": 10,
+  "last_updated": "2026-07-19T21:42:15.675189+00:00",
+  "total_count": 11,
   "matched_count": 5,
   "news": [
+    {
+      "id": "feba82265471",
+      "title": "【健康資訊】專家拆解HPV迷思倡正確性健康觀念- 副刊",
+      "published": "2026-07-19T20:16:55+00:00",
+      "summary": "【健康資訊】專家拆解HPV迷思倡正確性健康觀念- 副刊&nbsp;&nbsp;香港文匯報",
+      "sources": [
+        {
+          "name": "香港文匯報",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjSFlRUTREakxYSHUzOEFCNkM0WXhCVEZkclFRdDZrZU9wYXU2M2lra1dJVDA2ZGZ4OE5vSnduWGxyYWxrNVB1cmEybVBlZnlhdzZ5WjdhWWVzOFdoenVpd1gtd2NIbkVFOThtWmFiTnotbFB0Q2g0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "24534cfbb462",
       "title": "加拿大華人牙醫爆「器械未消毒」 近900病患恐染愛滋、肝炎",
