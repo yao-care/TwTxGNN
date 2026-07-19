@@ -43,11 +43,11 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（2 則）
 
-### [吃飯兼做大腦運動多咀嚼幾下增腦部血流防失智- 健康](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlVMMnFaeTdNZ1hOWENqd2xNM3ZQZGJESUhwcWhDa0tkbGs3eTdsaWI2YmR1OWVmY0ZLQW5UYW1hWGRPNEdTYkZncU4zclk3RUtOcm5KMTU5S29ONWRNTWF4cUhMNzVUNkRJVElraGVzVHQ1YlhHd3c3NVZMb2NDcnpBS0pEOTdFaktqY2ljSQ?oc=5)
+### [吃飯兼做大腦運動多咀嚼幾下增腦部血流防失智- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1VMzFlVHREME4zR0lPVnl0LTFKZVNVQXZpN1ZhLWNYaXdxUDM3VV9SSVdGWk5HbDNtd2NfRlBURjRJX3kwNmhNQW8tRUlyMVpaZnBjWkF0NmpZaUVRRlpMeVJmNnZNWWdmcWFTNFJB?oc=5)
 
 2026-07-19 <span class="news-indication-tag">失智</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlVMMnFaeTdNZ1hOWENqd2xNM3ZQZGJESUhwcWhDa0tkbGs3eTdsaWI2YmR1OWVmY0ZLQW5UYW1hWGRPNEdTYkZncU4zclk3RUtOcm5KMTU5S29ONWRNTWF4cUhMNzVUNkRJVElraGVzVHQ1YlhHd3c3NVZMb2NDcnpBS0pEOTdFaktqY2ljSQ?oc=5)
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1VMzFlVHREME4zR0lPVnl0LTFKZVNVQXZpN1ZhLWNYaXdxUDM3VV9SSVdGWk5HbDNtd2NfRlBURjRJX3kwNmhNQW8tRUlyMVpaZnBjWkF0NmpZaUVRRlpMeVJmNnZNWWdmcWFTNFJB?oc=5)
 
 ---
 
