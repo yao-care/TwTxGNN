@@ -1,7 +1,31 @@
 {
-  "generated": "2026-07-18T23:43:22.164910+00:00",
-  "count": 4,
+  "generated": "2026-07-19T01:50:12.304184+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "800bfb48efdf",
+      "title": "吃飯兼做大腦運動多咀嚼幾下增腦部血流防失智- 健康",
+      "published": "2026-07-19T01:31:44+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlVMMnFaeTdNZ1hOWENqd2xNM3ZQZGJESUhwcWhDa0tkbGs3eTdsaWI2YmR1OWVmY0ZLQW5UYW1hWGRPNEdTYkZncU4zclk3RUtOcm5KMTU5S29ONWRNTWF4cUhMNzVUNkRJVElraGVzVHQ1YlhHd3c3NVZMb2NDcnpBS0pEOTdFaktqY2ljSQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "5902ee58bf95",
       "title": "健康網》顧關節可能反傷腦 研究揭這保健品恐讓失智風險增25％",

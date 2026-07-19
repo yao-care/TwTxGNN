@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [吃飯兼做大腦運動多咀嚼幾下增腦部血流防失智- 健康](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlVMMnFaeTdNZ1hOWENqd2xNM3ZQZGJESUhwcWhDa0tkbGs3eTdsaWI2YmR1OWVmY0ZLQW5UYW1hWGRPNEdTYkZncU4zclk3RUtOcm5KMTU5S29ONWRNTWF4cUhMNzVUNkRJVElraGVzVHQ1YlhHd3c3NVZMb2NDcnpBS0pEOTdFaktqY2ljSQ?oc=5)
+
+2026-07-19
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlVMMnFaeTdNZ1hOWENqd2xNM3ZQZGJESUhwcWhDa0tkbGs3eTdsaWI2YmR1OWVmY0ZLQW5UYW1hWGRPNEdTYkZncU4zclk3RUtOcm5KMTU5S29ONWRNTWF4cUhMNzVUNkRJVElraGVzVHQ1YlhHd3c3NVZMb2NDcnpBS0pEOTdFaktqY2ljSQ?oc=5)
+
+---
 
 ### [健康網》顧關節可能反傷腦 研究揭這保健品恐讓失智風險增25％](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvUHFZaHhxcU5lTHJSYzNCQi1Vc3VUN1lQUzUySHl5cGNBMkFsVGJ6eTdhVU50RkxOb3oycTFTTjhDdjFyb2JLVDVpNnQxX3FYTVdhTnNfbGFMaUZPZGp0QWpTTi3SAWpBVV95cUxOV3dHVktQWVVYaXBQMG5KSkY3UFBVcC1XbmVhYjBDVmpsaW5hWlgyWnZQWV9qTHJCM0NWT3Y0R1lvQXdqbWtxWWhFT3ZTX3p4dGdraEdqbUllTUVyVFcwRW41cFNoOV9zQmRn?oc=5)
 

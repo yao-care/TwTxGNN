@@ -1,8 +1,46 @@
 {
-  "last_updated": "2026-07-18T23:43:22.136545+00:00",
-  "total_count": 10,
-  "matched_count": 4,
+  "last_updated": "2026-07-19T01:50:12.275832+00:00",
+  "total_count": 11,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "800bfb48efdf",
+      "title": "吃飯兼做大腦運動多咀嚼幾下增腦部血流防失智- 健康",
+      "published": "2026-07-19T01:31:44+00:00",
+      "summary": "吃飯兼做大腦運動多咀嚼幾下增腦部血流防失智- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlVMMnFaeTdNZ1hOWENqd2xNM3ZQZGJESUhwcWhDa0tkbGs3eTdsaWI2YmR1OWVmY0ZLQW5UYW1hWGRPNEdTYkZncU4zclk3RUtOcm5KMTU5S29ONWRNTWF4cUhMNzVUNkRJVElraGVzVHQ1YlhHd3c3NVZMb2NDcnpBS0pEOTdFaktqY2ljSQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e7f9f1d39e3f",
+      "title": "用公廁紙巾前要睇清楚！出現呢個特徵千萬別用 警惕愛滋/肝炎傳染風險",
+      "published": "2026-07-19T00:04:00+00:00",
+      "summary": "用公廁紙巾前要睇清楚！出現呢個特徵千萬別用 警惕愛滋/肝炎傳染風險&nbsp;&nbsp;ezone.hk",
+      "sources": [
+        {
+          "name": "ezone.hk",
+          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOMUM0OUhkNHl5N0JXME9YWDJ1anJfbEE1ZXRfZzRuZ1lXUjZNQWZIdllvaWtkdzluV2F6WWIwTUVhbVpyTV9OQjRGck5YVno4QzNMNEk1UWQ2clZoNVk4ZVpXd2dMdWJkaDB1YWpWMVRyRTBaeTR4Y1B3NDJ2dVVxVmoxYngwS2pseHJqWFdkRDE0QU41Z1poTi1ORV9QcUlvaU9YNVdmZUoxYzEzTmE2OVc5amNwNHR1bjR5NXJpSFZzUE5pNkpqQ2V1T1lwcVlSX1JBdXRpV1Z1VmtyTTlSRG1aZmZNZzZYRWVGSnVmeXBxTkNhTWt4UUVqZXZYZGlhWFh6YXFqcjNPNEVaNm9UMjhXYnFDR21Tb0I2WFVOdHotZGxSbnpNRWItMEhfNGVIREhPMnZGSGVEcEJwelZtWlhpbjdlZi1NYktVR0JTcjdMbzZpWnl3R3k0OFVuei1LTTVNclEwMi1NV3FDdFlLNnNQUUwycWV1SnF2RFVycnRQdHhPNU9mWE1Kb1JTMl9GTnlUTlhZNjY3OEpiakhBYTlkZlh5cUU2S2FCekktaVhSX1c1VVE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "e112224282af",
       "title": "50歲男換菜單顧腎 早餐大嗑1綠色水果 血鉀狂飆「嚴重恐致命」",
@@ -175,19 +213,6 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xbXdTWGFpTFhUM2ZUS21FVGJrSTFOSkE5QW1IWFA5aEVhc3lzeHI4cHRoUFpnR2s0YW5xSHFzdGt4a2pMMFY3SGFXa0xmNWhBbU05dEFUY05IV0d2eGhLYzVmMWozYUpiSUVkc19R?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fe946b325fc9",
-      "title": "暑假放假模式恐偷走身高！小兒遺傳代謝專科醫師拆解四大長高NG行為，掌握生長激素治療黃金期（圖文懶人包） - PChome Online 新聞",
-      "published": "2026-07-17T08:01:01+00:00",
-      "summary": "暑假放假模式恐偷走身高！小兒遺傳代謝專科醫師拆解四大長高NG行為，掌握生長激素治療黃金期（圖文懶人包）&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT3Z3Qm1KS2Z5Z01kOVZqcy1KTGlxMkJvN0xiSU9Zb1pWQlY2MlptdE9KRjNfUFpoYkwyamM3YXdyZ3lCcHRranltVVBRaGxIRTdYUlNOc0E4MzFwaG5VWXBYY1dQNkFkbXRVTGlPblIwS18xdld4M05MRnJiNkg5MXQtakNCdzJSSTFqTGpnY3NaQnM?oc=5"
         }
       ],
       "matched_keywords": []
