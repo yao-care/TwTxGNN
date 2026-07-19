@@ -43,11 +43,11 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（3 則）
 
-### [熬夜輪班傷腦恐失智專家推「兩階段睡眠」解套| 國際 - 中央社 CNA](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mRy1Wa1VMd0dtMGRkbUQ1MDhZZU1yeEJkdl85Y01vM1FQSklzblBlRkloMHNhOFA5Rlg3UFBfcUIwOGgzbEc4Mk5qVXByS251eEluRUFnY2oxNWo2V3Vj?oc=5)
+### [熬夜輪班傷腦恐失智　專家推「兩階段睡眠」解套](https://news.google.com/rss/articles/CBMifEFVX3lxTE5QN2FaSUdwdlJ3TFBaX18yT2NhbTNmc2JLel9RVWRLRWpjbEpaaE1paVNKSGhJWVFnRHFidmNyVDFXLXROY2JXUk5ZOGMxbGRBMGgwRmlMQTF3VWFhb0pxNEYtZy1XRXBZSTZKNzFHcHA4T1ZIWUZScDRiY03SAV9BVV95cUxQcDNrMXFoVHNTSGNVT2theGN0YVROVUdlUWw1QXJpSVh6Z1BYcXpFVEFkSXVjamdIQXJFSzdLOVI5Zl8wYnZvZFZPdEpoYkcxZ3F0c0ZKTUMzV2FjR1NtMA?oc=5)
 
 2026-07-19 <span class="news-indication-tag">失智</span>
 
-來源：[中央社 CNA](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mRy1Wa1VMd0dtMGRkbUQ1MDhZZU1yeEJkdl85Y01vM1FQSklzblBlRkloMHNhOFA5Rlg3UFBfcUIwOGgzbEc4Mk5qVXByS251eEluRUFnY2oxNWo2V3Vj?oc=5)
+來源：[經濟日報](https://news.google.com/rss/articles/CBMifEFVX3lxTE5QN2FaSUdwdlJ3TFBaX18yT2NhbTNmc2JLel9RVWRLRWpjbEpaaE1paVNKSGhJWVFnRHFidmNyVDFXLXROY2JXUk5ZOGMxbGRBMGgwRmlMQTF3VWFhb0pxNEYtZy1XRXBZSTZKNzFHcHA4T1ZIWUZScDRiY03SAV9BVV95cUxQcDNrMXFoVHNTSGNVT2theGN0YVROVUdlUWw1QXJpSVh6Z1BYcXpFVEFkSXVjamdIQXJFSzdLOVI5Zl8wYnZvZFZPdEpoYkcxZ3F0c0ZKTUMzV2FjR1NtMA?oc=5)
 
 ---
 
