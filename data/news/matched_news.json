@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-07-19T14:21:38.776707+00:00",
+  "last_updated": "2026-07-19T15:48:23.668184+00:00",
   "total_count": 10,
   "matched_count": 5,
   "news": [
+    {
+      "id": "24534cfbb462",
+      "title": "加拿大華人牙醫爆「器械未消毒」 近900病患恐染愛滋、肝炎",
+      "published": "2026-07-19T14:55:00+00:00",
+      "summary": "加拿大華人牙醫爆「器械未消毒」 近900病患恐染愛滋、肝炎&nbsp;&nbsp;Yahoo新聞加拿大牙醫診所爆「器械未消毒」 逾800病患恐染愛滋、肝炎&nbsp;&nbsp;東森新聞看牙驚爆感染風險！診所器械未滅菌 884人收通知急驗愛滋肝炎 | CTWANT&nbsp;&nbsp;LINE TODAY【加拿大牙醫「未依規定消毒」！ 近900人恐染愛滋病、B肝】 怎麼會有發生這麼誇張的事情 ...（#豬頭皮）&nbsp;&nbsp;facebook.com加拿大華人牙醫診所爆嚴重消毒違規 近900人恐染愛滋病、肝炎&nbsp;&nbsp;UDN",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQdVRFeE9iUG8tdGswSUQ2WE9naWM2aElkSkRfTGFSR0JHNVlFUGllWDBpNk5ETVpIZnVBVDZOVHBWeG1xbFV4aDBoUHlMMVdrUk9fNGEwZjY0ZjZYcmVwb2UxS0hKU1FuUDd1ajRrcVlGbll3MWwtWDZMQ3JxRDZHTnpqeHgxQndyN3h5WkxOUjBDcE41UDdBZXFjSXJyaHFtTUxRQktma21lQzgteW5sak5VcEpKMVBnRXRBWDNlbWZnbkk4bV9aZzBLbjZWM2EtVEdVU05LclVydTlFdkYxVHFYWEFNbW9kdjlMNTVuLTU0U3kzZE5fUkhaTjJaM3dBd2g4eS16dDZUbklLNGlxRkZfVWtOeGFZTk5GS2pwWV9tWl94SnNLdldGbUwydlRTLUQ4ZW1tMkdFT3pSRVJ5NENDaGEzSTRIc2dGN0FsSlVRb194NnFENGtHaGItSjFXMGw4?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "206876640225",
       "title": "熬夜輪班傷腦恐失智專家推「兩階段睡眠」解套| 國際 - 中央社 CNA",
@@ -27,19 +40,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "c65108c993d0",
-      "title": "加拿大牙醫診所爆「器械未消毒」 逾800病患恐染愛滋、肝炎",
-      "published": "2026-07-19T05:02:15+00:00",
-      "summary": "加拿大牙醫診所爆「器械未消毒」 逾800病患恐染愛滋、肝炎&nbsp;&nbsp;Yahoo新聞看牙驚爆感染風險！診所器械未滅菌 884人收通知急驗愛滋肝炎&nbsp;&nbsp;Yahoo新聞加拿大牙醫診所爆「器械未消毒」 逾800病患恐染愛滋、肝炎 | EBC 東森新聞&nbsp;&nbsp;LINE TODAY【加拿大牙醫「未依規定消毒」！ 近900人恐染愛滋病、B肝】 怎麼會有發生這麼誇張的事情 ...（#豬頭皮）&nbsp;&nbsp;facebook.com加拿大華人牙醫診所爆嚴重消毒違規 近900人恐染愛滋病、肝炎&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOMDBwRHM3VElURGh0OG5aU3V5OWJiQnp5X1dvMk9aeVdtYWVZY1FkMjRGaEgyQnpyUmFBVUNFMFZLb3VwUGNpRTJTTXVFZkFOazlvQl9ZdjQ2VUpsTURSdkRLRXFEdVJ4VG9HajY0eFV6bFZmWUxvSzNNMUNlRERVWklaTm1UYjNOc2lJT0taXzFCWXhnNXN6N2FkdHNVMGFlSFdKclQ4YndNVHZ6S2NiVEVoNzQtYzRQSUVKbk5hQV9jVEVpQjNaR0VjZEdoaE82cXcyc0ZqLWFIN3lnZzlhMHJ0RmJDUXFMRGpIcUl5cEktMHdtVWJDb28ySkJZWTN2ZjN2SmN3QXhqQ0N3YnRWTUFTQmZfMFBkTzlsSGtxVWd5Rk5FY1U0Uk1yRlVyc0MxMkVBTTNPMjREOVhjRlhPYUFpczhRb2JyemRjamhTTm9WUXd4dl9wVjJxdGlqVWJralRr?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "1ef816b12002",
