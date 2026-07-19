@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [吃飯兼做大腦運動多咀嚼幾下增腦部血流防失智- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1VMzFlVHREME4zR0lPVnl0LTFKZVNVQXZpN1ZhLWNYaXdxUDM3VV9SSVdGWk5HbDNtd2NfRlBURjRJX3kwNmhNQW8tRUlyMVpaZnBjWkF0NmpZaUVRRlpMeVJmNnZNWWdmcWFTNFJB?oc=5)
+### [熬夜輪班傷腦恐失智專家推「兩階段睡眠」解套| 國際 - 中央社 CNA](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mRy1Wa1VMd0dtMGRkbUQ1MDhZZU1yeEJkdl85Y01vM1FQSklzblBlRkloMHNhOFA5Rlg3UFBfcUIwOGgzbEc4Mk5qVXByS251eEluRUFnY2oxNWo2V3Vj?oc=5)
 
 2026-07-19 <span class="news-indication-tag">失智</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1VMzFlVHREME4zR0lPVnl0LTFKZVNVQXZpN1ZhLWNYaXdxUDM3VV9SSVdGWk5HbDNtd2NfRlBURjRJX3kwNmhNQW8tRUlyMVpaZnBjWkF0NmpZaUVRRlpMeVJmNnZNWWdmcWFTNFJB?oc=5)
+來源：[中央社 CNA](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mRy1Wa1VMd0dtMGRkbUQ1MDhZZU1yeEJkdl85Y01vM1FQSklzblBlRkloMHNhOFA5Rlg3UFBfcUIwOGgzbEc4Mk5qVXByS251eEluRUFnY2oxNWo2V3Vj?oc=5)
+
+---
+
+### [吃飯兼做大腦運動多咀嚼幾下增腦部血流防失智- 健康](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlVMMnFaeTdNZ1hOWENqd2xNM3ZQZGJESUhwcWhDa0tkbGs3eTdsaWI2YmR1OWVmY0ZLQW5UYW1hWGRPNEdTYkZncU4zclk3RUtOcm5KMTU5S29ONWRNTWF4cUhMNzVUNkRJVElraGVzVHQ1YlhHd3c3NVZMb2NDcnpBS0pEOTdFaktqY2ljSQ?oc=5)
+
+2026-07-19 <span class="news-indication-tag">失智</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlVMMnFaeTdNZ1hOWENqd2xNM3ZQZGJESUhwcWhDa0tkbGs3eTdsaWI2YmR1OWVmY0ZLQW5UYW1hWGRPNEdTYkZncU4zclk3RUtOcm5KMTU5S29ONWRNTWF4cUhMNzVUNkRJVElraGVzVHQ1YlhHd3c3NVZMb2NDcnpBS0pEOTdFaktqY2ljSQ?oc=5)
 
 ---
 

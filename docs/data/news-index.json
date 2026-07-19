@@ -1,15 +1,39 @@
 {
-  "generated": "2026-07-19T05:13:25.437319+00:00",
+  "generated": "2026-07-19T08:00:48.564095+00:00",
   "count": 6,
   "news": [
     {
-      "id": "5dd2b3f52621",
+      "id": "206876640225",
+      "title": "熬夜輪班傷腦恐失智專家推「兩階段睡眠」解套| 國際 - 中央社 CNA",
+      "published": "2026-07-19T06:58:00+00:00",
+      "sources": [
+        {
+          "name": "中央社 CNA",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mRy1Wa1VMd0dtMGRkbUQ1MDhZZU1yeEJkdl85Y01vM1FQSklzblBlRkloMHNhOFA5Rlg3UFBfcUIwOGgzbEc4Mk5qVXByS251eEluRUFnY2oxNWo2V3Vj?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "800bfb48efdf",
       "title": "吃飯兼做大腦運動多咀嚼幾下增腦部血流防失智- 健康",
       "published": "2026-07-19T01:31:44+00:00",
       "sources": [
         {
           "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VMzFlVHREME4zR0lPVnl0LTFKZVNVQXZpN1ZhLWNYaXdxUDM3VV9SSVdGWk5HbDNtd2NfRlBURjRJX3kwNmhNQW8tRUlyMVpaZnBjWkF0NmpZaUVRRlpMeVJmNnZNWWdmcWFTNFJB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlVMMnFaeTdNZ1hOWENqd2xNM3ZQZGJESUhwcWhDa0tkbGs3eTdsaWI2YmR1OWVmY0ZLQW5UYW1hWGRPNEdTYkZncU4zclk3RUtOcm5KMTU5S29ONWRNTWF4cUhMNzVUNkRJVElraGVzVHQ1YlhHd3c3NVZMb2NDcnpBS0pEOTdFaktqY2ljSQ?oc=5"
         }
       ],
       "keywords": [
@@ -45,30 +69,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ae74bb4e8b28",
-      "title": "hMPV近期檢出率相當高，1歲多孩染「喘到胸凹」！半數的病童出現喘鳴 - Mombaby 媽媽寶寶懷孕生活網",
-      "published": "2026-07-18T04:56:22+00:00",
-      "sources": [
-        {
-          "name": "Mombaby 媽媽寶寶懷孕生活網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qZlEyY0V6RVB1aVlMQ3FpMDFqUUdzY1JMTHh6U25ZUVN0TkFGc3I2SXU4YjB1cWRfdmZkcFNMM1MtNG1TRFJ3SmJrM084dEpWcEFiYXRn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }

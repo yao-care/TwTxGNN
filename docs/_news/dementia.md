@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [吃飯兼做大腦運動多咀嚼幾下增腦部血流防失智- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1VMzFlVHREME4zR0lPVnl0LTFKZVNVQXZpN1ZhLWNYaXdxUDM3VV9SSVdGWk5HbDNtd2NfRlBURjRJX3kwNmhNQW8tRUlyMVpaZnBjWkF0NmpZaUVRRlpMeVJmNnZNWWdmcWFTNFJB?oc=5)
+### [熬夜輪班傷腦恐失智專家推「兩階段睡眠」解套| 國際 - 中央社 CNA](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mRy1Wa1VMd0dtMGRkbUQ1MDhZZU1yeEJkdl85Y01vM1FQSklzblBlRkloMHNhOFA5Rlg3UFBfcUIwOGgzbEc4Mk5qVXByS251eEluRUFnY2oxNWo2V3Vj?oc=5)
 
 2026-07-19
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1VMzFlVHREME4zR0lPVnl0LTFKZVNVQXZpN1ZhLWNYaXdxUDM3VV9SSVdGWk5HbDNtd2NfRlBURjRJX3kwNmhNQW8tRUlyMVpaZnBjWkF0NmpZaUVRRlpMeVJmNnZNWWdmcWFTNFJB?oc=5)
+來源：[中央社 CNA](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mRy1Wa1VMd0dtMGRkbUQ1MDhZZU1yeEJkdl85Y01vM1FQSklzblBlRkloMHNhOFA5Rlg3UFBfcUIwOGgzbEc4Mk5qVXByS251eEluRUFnY2oxNWo2V3Vj?oc=5)
+
+---
+
+### [吃飯兼做大腦運動多咀嚼幾下增腦部血流防失智- 健康](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlVMMnFaeTdNZ1hOWENqd2xNM3ZQZGJESUhwcWhDa0tkbGs3eTdsaWI2YmR1OWVmY0ZLQW5UYW1hWGRPNEdTYkZncU4zclk3RUtOcm5KMTU5S29ONWRNTWF4cUhMNzVUNkRJVElraGVzVHQ1YlhHd3c3NVZMb2NDcnpBS0pEOTdFaktqY2ljSQ?oc=5)
+
+2026-07-19
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlVMMnFaeTdNZ1hOWENqd2xNM3ZQZGJESUhwcWhDa0tkbGs3eTdsaWI2YmR1OWVmY0ZLQW5UYW1hWGRPNEdTYkZncU4zclk3RUtOcm5KMTU5S29ONWRNTWF4cUhMNzVUNkRJVElraGVzVHQ1YlhHd3c3NVZMb2NDcnpBS0pEOTdFaktqY2ljSQ?oc=5)
 
 ---
 
