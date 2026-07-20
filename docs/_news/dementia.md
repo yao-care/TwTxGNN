@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智（dementia） 相關新聞"
+title: "失智症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智症（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智（dementia） 相關新聞
+# 失智症（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
+<strong>失智症（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,7 +29,15 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [失智症不再僅延緩退化！安立璽榮阿茲海默新藥二期期中首證抗發炎 - TechNews 科技新報](https://news.google.com/rss/articles/CBMia0FVX3lxTE80VDdaX1lXdjNlREEtVXVHZUlCclhWR0JLVHR2Z3RQT0h3SnJNdVhGaFkzd2RFSHNHek5MaHdhd01UclNnWkN4SVRuWWxBNUlNUG5mNUVORGxvTk9vNm9sSWIyd1o2OW5uVDJN?oc=5)
+
+2026-07-20
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMia0FVX3lxTE80VDdaX1lXdjNlREEtVXVHZUlCclhWR0JLVHR2Z3RQT0h3SnJNdVhGaFkzd2RFSHNHek5MaHdhd01UclNnWkN4SVRuWWxBNUlNUG5mNUVORGxvTk9vNm9sSWIyd1o2OW5uVDJN?oc=5)
+
+---
 
 ### [熬夜輪班傷腦恐失智　專家推「兩階段睡眠」解套](https://news.google.com/rss/articles/CBMifEFVX3lxTE5QN2FaSUdwdlJ3TFBaX18yT2NhbTNmc2JLel9RVWRLRWpjbEpaaE1paVNKSGhJWVFnRHFidmNyVDFXLXROY2JXUk5ZOGMxbGRBMGgwRmlMQTF3VWFhb0pxNEYtZy1XRXBZSTZKNzFHcHA4T1ZIWUZScDRiY03SAV9BVV95cUxQcDNrMXFoVHNTSGNVT2theGN0YVROVUdlUWw1QXJpSVh6Z1BYcXpFVEFkSXVjamdIQXJFSzdLOVI5Zl8wYnZvZFZPdEpoYkcxZ3F0c0ZKTUMzV2FjR1NtMA?oc=5)
 

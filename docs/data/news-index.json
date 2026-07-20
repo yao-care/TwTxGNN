@@ -1,7 +1,42 @@
 {
-  "generated": "2026-07-20T02:07:33.529295+00:00",
-  "count": 3,
+  "generated": "2026-07-20T06:09:52.125827+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "5023e4b0a22c",
+      "title": "失智症不再僅延緩退化！安立璽榮阿茲海默新藥二期期中首證抗發炎 - TechNews 科技新報",
+      "published": "2026-07-20T02:12:49+00:00",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80VDdaX1lXdjNlREEtVXVHZUlCclhWR0JLVHR2Z3RQT0h3SnJNdVhGaFkzd2RFSHNHek5MaHdhd01UclNnWkN4SVRuWWxBNUlNUG5mNUVORGxvTk9vNm9sSWIyd1o2OW5uVDJN?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "7e7ba3e5bcd3",
       "title": "致死人數僅次於癌症醫：保護心血管落實4件事- 健康",

@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [失智症不再僅延緩退化！安立璽榮阿茲海默新藥二期期中首證抗發炎 - TechNews 科技新報](https://news.google.com/rss/articles/CBMia0FVX3lxTE80VDdaX1lXdjNlREEtVXVHZUlCclhWR0JLVHR2Z3RQT0h3SnJNdVhGaFkzd2RFSHNHek5MaHdhd01UclNnWkN4SVRuWWxBNUlNUG5mNUVORGxvTk9vNm9sSWIyd1o2OW5uVDJN?oc=5)
+
+2026-07-20 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMia0FVX3lxTE80VDdaX1lXdjNlREEtVXVHZUlCclhWR0JLVHR2Z3RQT0h3SnJNdVhGaFkzd2RFSHNHek5MaHdhd01UclNnWkN4SVRuWWxBNUlNUG5mNUVORGxvTk9vNm9sSWIyd1o2OW5uVDJN?oc=5)
+
+---
 
 ### [致死人數僅次於癌症醫：保護心血管落實4件事- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tWUg1RU13UVozNGpqVzZaQkNXa1ZXcGtiLUJST1ZUZFA4aUtFVm1oWGRHczh2czg2ZGloVVlxMmJJR0plMEdDVVBiUy1VeFdXWWJjZWVrZi1EcUJqaUxzaXBEUGpkRnNTQVRGMWF3?oc=5)
 
