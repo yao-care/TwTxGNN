@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-20T21:01:39.631928+00:00",
+  "fetched_at": "2026-07-20T22:48:30.240021+00:00",
   "count": 14,
   "news": [
     {
@@ -12,6 +12,18 @@
         {
           "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPOGNxSjhLd0VhTmdDM2ZkTU5aMzNhSDFQemNuMHV5cjhtaXMybm0tRHk2bGp1VklZMklhOFBWUWxzM1I0MTY0X0RNdUY4UXZ5T185VnBvMnJjaV8zajRYaGZMbENOTVJDWTZVSkVYYU51QVdMNF80VHY3V1dOaUFpai1heFdVMW16bjVvWEs5ajRrMkJLSjFLZHBJTGRxS2NhX0Q1amhPWHU2VnRBLU45Q0RiNktWWmFuX1VuT1kwTWZna1JLYzA2dEdWOUNJc2NtLWlhMkhLR1k4NTA5c0lPNFBZaVI4UTIxNWdnUXdiSGpuQU9EOTBzMXVoemd6dG1tX0dadVMtN1pnU1BsdTRsTzJJajZmeVJlRTZPbklXUVhnZGpoRmkzMjNnQlZ3ZDZEaGNSTVBaM3VjSk1UQU1pYXFTRjJHd1dwWHI5M2hoQWJnODRlWm1NQnpXczJuOFZxM2xaNEJCYjZYREtKa0ltTGtZbHNWVXFnSUptcA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4a5a0fbbc9b3",
+      "title": "維生素B12吃多會致癌？醫揭驚人真相：「6族群」更應補充 - Yahoo新聞",
+      "published": "2026-07-20T08:52:00+00:00",
+      "summary": "維生素B12吃多會致癌？醫揭驚人真相：「6族群」更應補充&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOVHZwMWgxR01tb2tGbDMxbXI2MWpoa3FzVHZzN2NFV05TZlZzQ1dodE1jQ3o2bTRZNlFpM041eGZ0X1pHY05sel8wYlVFMzl4b0ZKU3lxajZaTlZfdzZlUHozT0RzRFNxYkotelVycjNHN3B0Ynh5SVBLdGVoSG4wdXZEcnNZMFQ1azZRSi0ybmtrSUtHSC04ZnFBZExZaVNqb3dSTzBBa05jVjcyRVJlTnBiMG5VWnJ2djVSaHVXSjN4UllWYkFlNXBoWnI0VDNpNEk4SFVUQkxVbFFNeGo1NmtHNTlUVGIzaWk1ZlhPTzBYcG94NTJMUDRJSjdjYW9WSVI5WFByUlVjWUhmR2NMVGxENGZGQWtoWHFsLU5Nb1M3Y2hSNWM4YjF0SDFELTV0ajBaV3I3LXJWZXg3ZkFucmQ4QlJWOTF0X0RaWg?oc=5"
         }
       ]
     },
@@ -36,18 +48,6 @@
         {
           "name": "國家地理雜誌",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BOHd5RHZubW1YYm9CeE8tZmNWelBXZUotelhFUWJRODdWRGw3YTlWVEkzOTNIV2tLWE1JdE9jTHR1cnZOWDhWYUpfNXdzUTdGc2hSakVscUV0UGkxZXU1ZXJHSTFSM0ZpaDMzMTdjaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4a5a0fbbc9b3",
-      "title": "維生素B12吃多會致癌？醫揭驚人真相：「6族群」更應補充 - Yahoo新聞",
-      "published": "2026-07-20T08:52:00+00:00",
-      "summary": "維生素B12吃多會致癌？醫揭驚人真相：「6族群」更應補充&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOVHZwMWgxR01tb2tGbDMxbXI2MWpoa3FzVHZzN2NFV05TZlZzQ1dodE1jQ3o2bTRZNlFpM041eGZ0X1pHY05sel8wYlVFMzl4b0ZKU3lxajZaTlZfdzZlUHozT0RzRFNxYkotelVycjNHN3B0Ynh5SVBLdGVoSG4wdXZEcnNZMFQ1azZRSi0ybmtrSUtHSC04ZnFBZExZaVNqb3dSTzBBa05jVjcyRVJlTnBiMG5VWnJ2djVSaHVXSjN4UllWYkFlNXBoWnI0VDNpNEk4SFVUQkxVbFFNeGo1NmtHNTlUVGIzaWk1ZlhPTzBYcG94NTJMUDRJSjdjYW9WSVI5WFByUlVjWUhmR2NMVGxENGZGQWtoWHFsLU5Nb1M3Y2hSNWM4YjF0SDFELTV0ajBaV3I3LXJWZXg3ZkFucmQ4QlJWOTF0X0RaWg?oc=5"
         }
       ]
     },
@@ -88,14 +88,14 @@
       ]
     },
     {
-      "id": "ccac020a725a",
-      "title": "快新聞／震撼！炎亞綸驚傳生病了 最新近況曝光 - 民視新聞網",
-      "published": "2026-07-19T01:55:01+00:00",
-      "summary": "快新聞／震撼！炎亞綸驚傳生病了 最新近況曝光&nbsp;&nbsp;民視新聞網",
+      "id": "86676e0c2fe8",
+      "title": "震撼！炎亞綸驚傳生病了 最新近況曝光 - Yahoo新聞",
+      "published": "2026-07-19T02:35:48+00:00",
+      "summary": "震撼！炎亞綸驚傳生病了 最新近況曝光&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiTkVuNVpGMl9jN05HQWVKYUhCQ1BOMTJHV0gzNjRDMnVDblE2blhiTFJMc09OcHU0bGIwdlVZMEZIaWY2NkFpYUNFNWVwWWZtTGZDSTVxWklRb0lhZXNSOQ?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPcXFmbnhaZWxTVkl6cFFPZVFidUlfcVNndjIwSkxmeDhSaGVpZk1nS0ZBWG8zVkxFQmhTR3NxLUhUQzBSbUZKVTRwM0dNb3Zzd091aThxRm0wSXR6VFc3R2ZRUEhxeHRtR09BUVE3VGo1bW56OGpGd3BuODQ3VVJfNnoxV1Nxazg0YWxCd0dvOS1PRUdmbGxxZ3ZxLWtnRk5SSF9BQXN1bF9WSUZ1eUdVajMyRjI3TVpVZjhUUkZOVllSdmZtcy03c1ZiVkpKUVlKUi1TcXdQTzNqZG9xWXVmMU5xamJJZjBPMGJTUDlkYUs1MWNQVmdqRVdhcnROakVBOEtTZkxMU0ZTczlzZXlYUFFEMlRlZw?oc=5"
         }
       ]
     },
