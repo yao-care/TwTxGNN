@@ -1,37 +1,49 @@
 {
-  "generated": "2026-07-20T06:09:52.125827+00:00",
+  "generated": "2026-07-20T09:50:09.676840+00:00",
   "count": 4,
   "news": [
     {
-      "id": "5023e4b0a22c",
-      "title": "失智症不再僅延緩退化！安立璽榮阿茲海默新藥二期期中首證抗發炎 - TechNews 科技新報",
-      "published": "2026-07-20T02:12:49+00:00",
+      "id": "ab118be03508",
+      "title": "患癌先兆｜男子輕視「1症狀」驚罹大腸癌醫生列10種癌兆：恐身體早已求救",
+      "published": "2026-07-20T09:25:20+00:00",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80VDdaX1lXdjNlREEtVXVHZUlCclhWR0JLVHR2Z3RQT0h3SnJNdVhGaFkzd2RFSHNHek5MaHdhd01UclNnWkN4SVRuWWxBNUlNUG5mNUVORGxvTk9vNm9sSWIyd1o2OW5uVDJN?oc=5"
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yMXQ0X0tFU2NIeTBnUXRKNE8yblZMV3phSFNrakN2X2hTS09hWG5QR0V4T0oya29KWUdmRGctQmFPRVRTMzdTSHM4ZWNSLTdNZnc?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "oteracil",
+              "name": "Oteracil"
             }
           ]
         },
         {
           "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
+          "name": "腸癌",
+          "keyword": "腸癌",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
@@ -339,24 +351,39 @@
       ]
     },
     {
-      "id": "5902ee58bf95",
-      "title": "健康網》顧關節可能反傷腦 研究揭這保健品恐讓失智風險增25％",
-      "published": "2026-07-18T05:20:00+00:00",
+      "id": "7d0a8a2a4da6",
+      "title": "40歲後護心別只量血壓！醫揭5個中年人最容易忽略的習慣正傷害心臟血管",
+      "published": "2026-07-18T23:28:14+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvUHFZaHhxcU5lTHJSYzNCQi1Vc3VUN1lQUzUySHl5cGNBMkFsVGJ6eTdhVU50RkxOb3oycTFTTjhDdjFyb2JLVDVpNnQxX3FYTVdhTnNfbGFMaUZPZGp0QWpTTi3SAWpBVV95cUxOV3dHVktQWVVYaXBQMG5KSkY3UFBVcC1XbmVhYjBDVmpsaW5hWlgyWnZQWV9qTHJCM0NWT3Y0R1lvQXdqbWtxWWhFT3ZTX3p4dGdraEdqbUllTUVyVFcwRW41cFNoOV9zQmRn?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9td3B4M3h2S3o4LTdqV2E1YjV5eTJpbm52Mm44YWxPa0lBQVhlSGRiWEVnYXVIS2gxaU1jQkU2dHZ6ZnpZV0tkTXRzckp4eWpWemJoRlZVSWJ1WUpI0gFiQVVfeXFMUDFrd2kzejRrX3hkQ2FXQzlOa1hhZU9DTzQwc0MzOG9MM2lZSHdEYTJEM3A3SVZOZjM2bFlOalpBZ3VCUENmSkNxSnNmWWtUaHUyelZGWUFGRWQtbkV6dVgwdFE?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
+          "name": "cardiovascular",
+          "keyword": "心血管",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
             }
           ]
         }

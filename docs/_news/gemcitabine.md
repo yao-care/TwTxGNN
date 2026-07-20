@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [患癌先兆｜男子輕視「1症狀」驚罹大腸癌醫生列10種癌兆：恐身體早已求救](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yMXQ0X0tFU2NIeTBnUXRKNE8yblZMV3phSFNrakN2X2hTS09hWG5QR0V4T0oya29KWUdmRGctQmFPRVRTMzdTSHM4ZWNSLTdNZnc?oc=5)
+
+2026-07-20 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yMXQ0X0tFU2NIeTBnUXRKNE8yblZMV3phSFNrakN2X2hTS09hWG5QR0V4T0oya29KWUdmRGctQmFPRVRTMzdTSHM4ZWNSLTdNZnc?oc=5)
+
+---
 
 ### [致死人數僅次於癌症醫：保護心血管落實4件事- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tWUg1RU13UVozNGpqVzZaQkNXa1ZXcGtiLUJST1ZUZFA4aUtFVm1oWGRHczh2czg2ZGloVVlxMmJJR0plMEdDVVBiUy1VeFdXWWJjZWVrZi1EcUJqaUxzaXBEUGpkRnNTQVRGMWF3?oc=5)
 

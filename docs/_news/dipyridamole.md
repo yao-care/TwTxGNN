@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [40歲後護心別只量血壓！醫揭5個中年人最容易忽略的習慣正傷害心臟血管](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9td3B4M3h2S3o4LTdqV2E1YjV5eTJpbm52Mm44YWxPa0lBQVhlSGRiWEVnYXVIS2gxaU1jQkU2dHZ6ZnpZV0tkTXRzckp4eWpWemJoRlZVSWJ1WUpI0gFiQVVfeXFMUDFrd2kzejRrX3hkQ2FXQzlOa1hhZU9DTzQwc0MzOG9MM2lZSHdEYTJEM3A3SVZOZjM2bFlOalpBZ3VCUENmSkNxSnNmWWtUaHUyelZGWUFGRWQtbkV6dVgwdFE?oc=5)
+
+2026-07-18 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">中風</span>
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9td3B4M3h2S3o4LTdqV2E1YjV5eTJpbm52Mm44YWxPa0lBQVhlSGRiWEVnYXVIS2gxaU1jQkU2dHZ6ZnpZV0tkTXRzckp4eWpWemJoRlZVSWJ1WUpI0gFiQVVfeXFMUDFrd2kzejRrX3hkQ2FXQzlOa1hhZU9DTzQwc0MzOG9MM2lZSHdEYTJEM3A3SVZOZjM2bFlOalpBZ3VCUENmSkNxSnNmWWtUaHUyelZGWUFGRWQtbkV6dVgwdFE?oc=5)
+
+---
 
 
 <div class="disclaimer">

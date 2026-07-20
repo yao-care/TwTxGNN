@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [失智症不再僅延緩退化！安立璽榮阿茲海默新藥二期期中首證抗發炎 - TechNews 科技新報](https://news.google.com/rss/articles/CBMia0FVX3lxTE80VDdaX1lXdjNlREEtVXVHZUlCclhWR0JLVHR2Z3RQT0h3SnJNdVhGaFkzd2RFSHNHek5MaHdhd01UclNnWkN4SVRuWWxBNUlNUG5mNUVORGxvTk9vNm9sSWIyd1o2OW5uVDJN?oc=5)
-
-2026-07-20 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMia0FVX3lxTE80VDdaX1lXdjNlREEtVXVHZUlCclhWR0JLVHR2Z3RQT0h3SnJNdVhGaFkzd2RFSHNHek5MaHdhd01UclNnWkN4SVRuWWxBNUlNUG5mNUVORGxvTk9vNm9sSWIyd1o2OW5uVDJN?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [致死人數僅次於癌症醫：保護心血管落實4件事- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tWUg1RU13UVozNGpqVzZaQkNXa1ZXcGtiLUJST1ZUZFA4aUtFVm1oWGRHczh2czg2ZGloVVlxMmJJR0plMEdDVVBiUy1VeFdXWWJjZWVrZi1EcUJqaUxzaXBEUGpkRnNTQVRGMWF3?oc=5)
 
@@ -64,14 +56,6 @@ permalink: /news/gefitinib/
 2026-07-19 <span class="news-indication-tag">失智</span>
 
 來源：[經濟日報](https://news.google.com/rss/articles/CBMifEFVX3lxTE5QN2FaSUdwdlJ3TFBaX18yT2NhbTNmc2JLel9RVWRLRWpjbEpaaE1paVNKSGhJWVFnRHFidmNyVDFXLXROY2JXUk5ZOGMxbGRBMGgwRmlMQTF3VWFhb0pxNEYtZy1XRXBZSTZKNzFHcHA4T1ZIWUZScDRiY03SAV9BVV95cUxQcDNrMXFoVHNTSGNVT2theGN0YVROVUdlUWw1QXJpSVh6Z1BYcXpFVEFkSXVjamdIQXJFSzdLOVI5Zl8wYnZvZFZPdEpoYkcxZ3F0c0ZKTUMzV2FjR1NtMA?oc=5)
-
----
-
-### [健康網》顧關節可能反傷腦 研究揭這保健品恐讓失智風險增25％](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvUHFZaHhxcU5lTHJSYzNCQi1Vc3VUN1lQUzUySHl5cGNBMkFsVGJ6eTdhVU50RkxOb3oycTFTTjhDdjFyb2JLVDVpNnQxX3FYTVdhTnNfbGFMaUZPZGp0QWpTTi3SAWpBVV95cUxOV3dHVktQWVVYaXBQMG5KSkY3UFBVcC1XbmVhYjBDVmpsaW5hWlgyWnZQWV9qTHJCM0NWT3Y0R1lvQXdqbWtxWWhFT3ZTX3p4dGdraEdqbUllTUVyVFcwRW41cFNoOV9zQmRn?oc=5)
-
-2026-07-18 <span class="news-indication-tag">失智</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvUHFZaHhxcU5lTHJSYzNCQi1Vc3VUN1lQUzUySHl5cGNBMkFsVGJ6eTdhVU50RkxOb3oycTFTTjhDdjFyb2JLVDVpNnQxX3FYTVdhTnNfbGFMaUZPZGp0QWpTTi3SAWpBVV95cUxOV3dHVktQWVVYaXBQMG5KSkY3UFBVcC1XbmVhYjBDVmpsaW5hWlgyWnZQWV9qTHJCM0NWT3Y0R1lvQXdqbWtxWWhFT3ZTX3p4dGdraEdqbUllTUVyVFcwRW41cFNoOV9zQmRn?oc=5)
 
 ---
 
