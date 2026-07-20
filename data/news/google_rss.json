@@ -1,17 +1,41 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-19T23:48:49.311925+00:00",
-  "count": 11,
+  "fetched_at": "2026-07-20T02:07:29.012788+00:00",
+  "count": 10,
   "news": [
     {
       "id": "24534cfbb462",
       "title": "加拿大華人牙醫爆「器械未消毒」 近900病患恐染愛滋、肝炎 - Yahoo新聞",
       "published": "2026-07-19T14:55:00+00:00",
-      "summary": "加拿大華人牙醫爆「器械未消毒」 近900病患恐染愛滋、肝炎&nbsp;&nbsp;Yahoo新聞加拿大牙醫診所爆「器械未消毒」 逾800病患恐染愛滋、肝炎&nbsp;&nbsp;東森新聞看牙驚爆感染風險！診所器械未滅菌 884人收通知急驗愛滋肝炎 | CTWANT&nbsp;&nbsp;LINE TODAY【加拿大牙醫「未依規定消毒」！ 近900人恐染愛滋病、B肝】 怎麼會有發生這麼誇張的事情 ...（#豬頭皮）&nbsp;&nbsp;facebook.com加拿大華人牙醫診所爆嚴重消毒違規 近900人恐染愛滋病、肝炎&nbsp;&nbsp;UDN",
+      "summary": "加拿大華人牙醫爆「器械未消毒」 近900病患恐染愛滋、肝炎&nbsp;&nbsp;Yahoo新聞看牙驚爆感染風險！診所器械未滅菌 884人收通知急驗愛滋肝炎 | CTWANT&nbsp;&nbsp;LINE TODAY加拿大牙醫診所爆「器械未消毒」 逾800病患恐染愛滋、肝炎&nbsp;&nbsp;東森新聞加拿大華人牙醫診所爆嚴重消毒違規 近900人恐染愛滋病、肝炎&nbsp;&nbsp;UDN【加拿大牙醫「未依規定消毒」！ 近900人恐染愛滋病、B肝】 怎麼會有發生這麼誇張的事情 ...（#豬頭皮）&nbsp;&nbsp;facebook.com",
       "sources": [
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQdVRFeE9iUG8tdGswSUQ2WE9naWM2aElkSkRfTGFSR0JHNVlFUGllWDBpNk5ETVpIZnVBVDZOVHBWeG1xbFV4aDBoUHlMMVdrUk9fNGEwZjY0ZjZYcmVwb2UxS0hKU1FuUDd1ajRrcVlGbll3MWwtWDZMQ3JxRDZHTnpqeHgxQndyN3h5WkxOUjBDcE41UDdBZXFjSXJyaHFtTUxRQktma21lQzgteW5sak5VcEpKMVBnRXRBWDNlbWZnbkk4bV9aZzBLbjZWM2EtVEdVU05LclVydTlFdkYxVHFYWEFNbW9kdjlMNTVuLTU0U3kzZE5fUkhaTjJaM3dBd2g4eS16dDZUbklLNGlxRkZfVWtOeGFZTk5GS2pwWV9tWl94SnNLdldGbUwydlRTLUQ4ZW1tMkdFT3pSRVJ5NENDaGEzSTRIc2dGN0FsSlVRb194NnFENGtHaGItSjFXMGw4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d7519bb7f120",
+      "title": "28歲男腹痛誤認闌尾炎 醫警告「這病」拖久恐敗血症 - UDN",
+      "published": "2026-07-20T01:47:18+00:00",
+      "summary": "28歲男腹痛誤認闌尾炎 醫警告「這病」拖久恐敗血症&nbsp;&nbsp;UDN",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xNllSX2h1aE9LUjNoSWpPS1ZNRFpWRjNQZFJuZ01VZDFKYVh4M2NaWkFNVDVVdFdMV0JWbkYxVElYeTI2N2JEVmwwU2I5OWNH0gFWQVVfeXFMTUVxVmdXbWZIV2pZRWVYSGVhWlRvRzJWalljcF9rbF9Kc194aFkxN0VTeEpRSnN2Q3E3ZUJmUlluZTR4aDZkbjZ2UlI4MXZ1Z3NvWjNUU2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7e7ba3e5bcd3",
+      "title": "致死人數僅次於癌症醫：保護心血管落實4件事- 健康 - 中時新聞網",
+      "published": "2026-07-20T01:26:13+00:00",
+      "summary": "致死人數僅次於癌症醫：保護心血管落實4件事- 健康&nbsp;&nbsp;中時新聞網女性的头号杀手是它！死亡人数是乳癌的6倍(图)&nbsp;&nbsp;CMoney女性更年期後保護心血管 有氧+重訓效果更好&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tWUg1RU13UVozNGpqVzZaQkNXa1ZXcGtiLUJST1ZUZFA4aUtFVm1oWGRHczh2czg2ZGloVVlxMmJJR0plMEdDVVBiUy1VeFdXWWJjZWVrZi1EcUJqaUxzaXBEUGpkRnNTQVRGMWF3?oc=5"
         }
       ]
     },
@@ -40,38 +64,14 @@
       ]
     },
     {
-      "id": "800bfb48efdf",
-      "title": "吃飯兼做大腦運動多咀嚼幾下增腦部血流防失智- 健康 - 中時新聞網",
-      "published": "2026-07-19T01:31:44+00:00",
-      "summary": "吃飯兼做大腦運動多咀嚼幾下增腦部血流防失智- 健康&nbsp;&nbsp;中時新聞網",
+      "id": "a7e4d64dd334",
+      "title": "愛雅生病嚇壞了！排除流感與COVID鬆口氣 為兒子一句話感動全網 - Yahoo新聞",
+      "published": "2026-07-18T02:03:55+00:00",
+      "summary": "愛雅生病嚇壞了！排除流感與COVID鬆口氣 為兒子一句話感動全網&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlVMMnFaeTdNZ1hOWENqd2xNM3ZQZGJESUhwcWhDa0tkbGs3eTdsaWI2YmR1OWVmY0ZLQW5UYW1hWGRPNEdTYkZncU4zclk3RUtOcm5KMTU5S29ONWRNTWF4cUhMNzVUNkRJVElraGVzVHQ1YlhHd3c3NVZMb2NDcnpBS0pEOTdFaktqY2ljSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "11b77083a570",
-      "title": "愛雅健康亮紅燈　深感當媽後變勇敢 - 鏡週刊Mirror Media",
-      "published": "2026-07-18T01:52:00+00:00",
-      "summary": "愛雅健康亮紅燈 深感當媽後變勇敢&nbsp;&nbsp;鏡週刊Mirror Media",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wMmExYm5wbXFVTFZOSzRxYjdsMElnZnFJWGV6eFktRm1EZk4zazN2alhNRlpDVFVGTGY2T3pPdFlRaGVHTkd2b0tFZ2ZzU0o4Q2hoZW5UYkQ5NUdC0gFiQVVfeXFMTU5yaXQtUDB0RENFS2RVLTl3Z1FzblI5QjN3Zkcwbi1oYVdGSjB2a2tJRmtha0tpckI5MzY5T1RxbGJjTHBXNGtSNlluUnE3R3BlamtUMHJrNm52SEFUcjZaaFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "624e7345341f",
-      "title": "乳癌手術後更痛竟與它有關！維生素D缺乏成關鍵因素 - 健康新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "published": "2026-07-18T00:52:54+00:00",
-      "summary": "乳癌手術後更痛竟與它有關！維生素D缺乏成關鍵因素 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRFNIU09kaVlNcGllOUNDLTdZMDgwSDhMVlFUNGlsc3hpMU1BUFlJZ1JyZW12LUtvNHZRNGNuZHFCU2tvbC1rb0dyYzNnc3JiSjRKTXJKSnRGamJ3ZWpXUXZwOWNTYzJERlR2NktTTTAtVHcyWnNoVlBMdUxfMEJlbm9XTEVDRloxQ0pGUFpWTnk3UQ?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQWlpLVldmWUZJMGJMcThfUnR1bzJVVHlsYVo2eHpadldUQjJaRTRYZWZ2NmREUVNXcW9neElKRkNWSDgxQ0d2UURmUFZkaUJuS1VlYkxUZUpCTTEtRXN5czhFeml4SmRudlhFMU5DQ0NuVmFxeDI4Q0J0SzFfWTZERHhtX3lXR3JKZ0VBekFUV0VGRlVKYWFUM0hhTHVKek80RHBfNHR1N1JjZGRnZGdDRWRoRlNLaTlFU1doa0VMandCX0NGLWl3dkgtRVQ5TGhueDVrYVpYMWtQanQ4Uk9VQ2hVY2M2ZnpPV3d3eE1yOWdhSnJJYUd3aHBfdklBVGdvMkhxeC1kNzExdkFyanlOYkxTOGp6R1hTOVNLeURBRkJiLWxvSUw4enI3dkF6M3d2SDdmdDdMa21rQnY0SGl0WE03V3VXa2NLNERqeGtIX2k4NjYwcU40ZEpRdmZpS0UtTFpZU3A2SXJlR2JvZHJwQW5ieXc2blRMQURmclhB?oc=5"
         }
       ]
     },
@@ -120,18 +120,6 @@
         {
           "name": "ezone.hk",
           "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOMUM0OUhkNHl5N0JXME9YWDJ1anJfbEE1ZXRfZzRuZ1lXUjZNQWZIdllvaWtkdzluV2F6WWIwTUVhbVpyTV9OQjRGck5YVno4QzNMNEk1UWQ2clZoNVk4ZVpXd2dMdWJkaDB1YWpWMVRyRTBaeTR4Y1B3NDJ2dVVxVmoxYngwS2pseHJqWFdkRDE0QU41Z1poTi1ORV9QcUlvaU9YNVdmZUoxYzEzTmE2OVc5amNwNHR1bjR5NXJpSFZzUE5pNkpqQ2V1T1lwcVlSX1JBdXRpV1Z1VmtyTTlSRG1aZmZNZzZYRWVGSnVmeXBxTkNhTWt4UUVqZXZYZGlhWFh6YXFqcjNPNEVaNm9UMjhXYnFDR21Tb0I2WFVOdHotZGxSbnpNRWItMEhfNGVIREhPMnZGSGVEcEJwelZtWlhpbjdlZi1NYktVR0JTcjdMbzZpWnl3R3k0OFVuei1LTTVNclEwMi1NV3FDdFlLNnNQUUwycWV1SnF2RFVycnRQdHhPNU9mWE1Kb1JTMl9GTnlUTlhZNjY3OEpiakhBYTlkZlh5cUU2S2FCekktaVhSX1c1VVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b78234d5e4db",
-      "title": "感冒藥吃出「奪命便祕」！1感冒藥成分恐讓長者、腎友送命 - Yahoo新聞",
-      "published": "2026-07-18T00:00:27+00:00",
-      "summary": "感冒藥吃出「奪命便祕」！1感冒藥成分恐讓長者、腎友送命&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPODFTM0RvdDIzZlNsaTVtWDY0VktYUDAwZzl5aXNEbjZQa1ZrNDFnaWxIZXhTWXhycFVGbTBfMUJEcC1sdDBVVUEyWnRTa3praUJZMWpTemVSeE5xek9PMGdrQUxDcEMwcm1jVUhESTVEdG5NNFN6aUh3dkQxVkZsbURtRmlSS2M4MHdzUkItSjhOcjlHU0dmTkFIcDFJSGtCVDlhVzFxVnhKOEQtVnROVkVORVpOZWJrclVWekpuRWtWY0t2dzJTaVEwQTk0a0x6WTlucjZmSWhIWXhXNy1rRkJaa19DZ3doQU00MVlhR0xueEhjcDV6MFZkS191UmlfY1ZrZkN1Q2pDNEJDbm9ZNWM3WUdsOExLRG83bTdqc0hfOFhUTnJ1MzYwR1lQNDFHbXg2TnFLX3pfRUNsamJjNEREQ0ZkSUc3UlRGa2h0Nk5vcWJwcU9pWlR2NXFtemRF?oc=5"
         }
       ]
     }
