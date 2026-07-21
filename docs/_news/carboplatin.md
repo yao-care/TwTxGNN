@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [「五十而智識享」：當癌症殺不死我們 神經退化病治療「更值錢」 - 明報 Our Lifestyle](https://news.google.com/rss/articles/CBMi0ANBVV95cUxORm16bGM4ZGwta0xvZU9aNUhfRElKWG5LY1Vfc1g4ejY1MFV3Z19WRlhhVnl2MHZBOVpIZ25QQnFMSzdtZVZYMmhlUnMtMXYwMkR6MkI2dkUyWlExYmd1VUdYS0huU1NRMWNiVnc1QTRLb2NjTy1OcUZOaHFWQmdieEVTMjREdmhfMUhKTWhCVjAwRlgxdVBTU1R4NlAyM3NfNENEdXRCR0NLNDViYkpSYnJleTB5Y0xiVzRiWERqbUZKSXM5RWtMUm1vSWZobXVrSGZmSi1JS1RCLVNtV2t2b3VFUkZnbzNmTzZwUFBiN3MtUHFwWU1QWXVoY1dpdFNBM1E5T3Q4RVZFM0ctZkNYd0ZqbXZnQ29IVVhHWU15M1dmVmZjWFFjbFZzZVE3azJDSExDMFVlWGR2eEFnZ2hxOVdXMEVGdkJQbE52SHkyNkEwVXZseTlCbHVqaVpVS1pPR2lTRTFvbkZWekxqWTZHODlfX2JkdVFtMXlfd3hDaUhUQ2FSTDBNd09WRjBDWUNWeVhfVFZpRTRrUEMwUHVwUGRtcWF2aG84dUsweUk0TkxRbF9kc1o1MjVUYkNMVDN1QXdGTzJZVHlEdm9LQUR0Tw?oc=5)
+
+2026-07-21 <span class="news-indication-tag">癌症</span>
+
+來源：[明報 Our Lifestyle](https://news.google.com/rss/articles/CBMi0ANBVV95cUxORm16bGM4ZGwta0xvZU9aNUhfRElKWG5LY1Vfc1g4ejY1MFV3Z19WRlhhVnl2MHZBOVpIZ25QQnFMSzdtZVZYMmhlUnMtMXYwMkR6MkI2dkUyWlExYmd1VUdYS0huU1NRMWNiVnc1QTRLb2NjTy1OcUZOaHFWQmdieEVTMjREdmhfMUhKTWhCVjAwRlgxdVBTU1R4NlAyM3NfNENEdXRCR0NLNDViYkpSYnJleTB5Y0xiVzRiWERqbUZKSXM5RWtMUm1vSWZobXVrSGZmSi1JS1RCLVNtV2t2b3VFUkZnbzNmTzZwUFBiN3MtUHFwWU1QWXVoY1dpdFNBM1E5T3Q4RVZFM0ctZkNYd0ZqbXZnQ29IVVhHWU15M1dmVmZjWFFjbFZzZVE3azJDSExDMFVlWGR2eEFnZ2hxOVdXMEVGdkJQbE52SHkyNkEwVXZseTlCbHVqaVpVS1pPR2lTRTFvbkZWekxqWTZHODlfX2JkdVFtMXlfd3hDaUhUQ2FSTDBNd09WRjBDWUNWeVhfVFZpRTRrUEMwUHVwUGRtcWF2aG84dUsweUk0TkxRbF9kc1o1MjVUYkNMVDN1QXdGTzJZVHlEdm9LQUR0Tw?oc=5)
+
+---
 
 ### [高劑量質子治療 乳癌存活率達100% 輻射量低減心臟病風險](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhM1JzeXF0N05oOFZ1aktvLXpRYVJFQkFlVTN4cFhpVy1xSUJiRkdOeDNuMHBEUVpFV3ZKOXI0UmwtS0ctTUhGOERyT3ZiZEk?oc=5)
 
