@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,9 +34,15 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [洗腎者小心「鈣」失控 嘉基醫師提醒定期追蹤](https://news.google.com/rss/articles/CBMirwJBVV95cUxPWURWVTBYTFBhSXFFRE80TjFCWXFUU2ZGTGkxUG5jVHduN0xBMUVPc0ZPdnhkOFI0cDlHVkpSSEFZTkRialA4MVpCbUFzRmRIamxGbzZxT3psX19JQzk3LTItOXJsa0MxSHEwTDhpenFWRURBSG5yMFRFRkc4Y0pxSnBBR3RBRnBDWllYSmMwblBQXzRKVzY0TlYxemlQdmF3c21iTmdONnlYRVVUWXhfZFRMd2FiSmZFRmRlbU9ET2l5MDN4RnVWR1BkMnAwZ3RLWGtVb0toOTBMaHA5WTVOaE1FWDdYS0ZPZTU4TkZ0Yk13WHE3SEVvRF82M0I4bWN0Yl9MMHpIUEgzYUpaWHJremNrYVhjbWRMZU43N29uNjNCN3VubzMxV2JrWFFkN1k?oc=5)
+
+2026-07-21 <span class="news-indication-tag">心律不整</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMirwJBVV95cUxPWURWVTBYTFBhSXFFRE80TjFCWXFUU2ZGTGkxUG5jVHduN0xBMUVPc0ZPdnhkOFI0cDlHVkpSSEFZTkRialA4MVpCbUFzRmRIamxGbzZxT3psX19JQzk3LTItOXJsa0MxSHEwTDhpenFWRURBSG5yMFRFRkc4Y0pxSnBBR3RBRnBDWllYSmMwblBQXzRKVzY0TlYxemlQdmF3c21iTmdONnlYRVVUWXhfZFRMd2FiSmZFRmRlbU9ET2l5MDN4RnVWR1BkMnAwZ3RLWGtVb0toOTBMaHA5WTVOaE1FWDdYS0ZPZTU4TkZ0Yk13WHE3SEVvRF82M0I4bWN0Yl9MMHpIUEgzYUpaWHJremNrYVhjbWRMZU43N29uNjNCN3VubzMxV2JrWFFkN1k?oc=5)
+
+---
 
 
 <div class="disclaimer">
