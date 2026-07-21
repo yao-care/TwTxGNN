@@ -14,7 +14,7 @@ permalink: /news/anastrozole/
 ---
 
 <p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
-<strong>Anastrozole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Anastrozole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/anastrozole/
 <li><strong>原適應症</strong>：停經後婦女晚期乳癌、荷爾蒙接受器陽性早期乳癌輔助治療</li>
 <li><strong>證據等級</strong>：L1</li>
 <li><strong>預測適應症</strong>（6 個）：<ul>
-<li>female breast carcinoma（99.7%）</li>
+<li class="indication-matched">female breast carcinoma（99.7%）<span class="indication-tag">📰 乳癌</span></li>
 <li>neuroblastoma（99.5%）</li>
 <li>vertebral anomalies and variable endocrine and T-cell dysfunction（99.4%）</li>
 <li>ganglioneuroblastoma (disease)（99.4%）</li>
@@ -38,9 +38,23 @@ permalink: /news/anastrozole/
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [高劑量質子治療 乳癌存活率達100% 輻射量低減心臟病風險](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhM1JzeXF0N05oOFZ1aktvLXpRYVJFQkFlVTN4cFhpVy1xSUJiRkdOeDNuMHBEUVpFV3ZKOXI0UmwtS0ctTUhGOERyT3ZiZEk?oc=5)
+
+2026-07-21 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">乳癌</span>
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhM1JzeXF0N05oOFZ1aktvLXpRYVJFQkFlVTN4cFhpVy1xSUJiRkdOeDNuMHBEUVpFV3ZKOXI0UmwtS0ctTUhGOERyT3ZiZEk?oc=5)
+
+---
+
+### [醫療險一次領3／乳癌一期只賠20%？ 急診醫揭重傷險關鍵差異：拿卡全額賠](https://news.google.com/rss/articles/CBMi2AJBVV95cUxObVZoVmZEYnBUOVlYMEhtTV9UQUZqbkRvdzYzRnl3VUpydnVxWE94ZTlYaUFqamRRR2hmWUZaRGZZUy03RFY1ZTdQLTN2dUQ3Z2NTYlhLbVR5WWlKS2loX1Brd1JqT1ZQYUFGcGI0YmdDb1BURm5KQXdPOFRXZktTRklOcDNZSmlrbnp6UThMcHRjSXJNc3JjUjU2OGp2TlI5LTRkX09xaWtobXhlNmxhN1d2bi1za3JvRGFaYmpsU0FDUFI5eWZ6cmxLNVpZZHdUT1FwQlB0NG5oY0lSZkhLOXAxUzZLN0xWMThKVHRySDRLN2VKVG9sSlpMTDFaanE0TWtuZkR0Y212WHI0dnZGQnBEcV9ZbUlOallVM3lsLWdHUnAxeWotVkEwTl9MZWp4MFpqSnhQbXEwbkc5VHJ4OHNfSUxWQVF6a1hOdk5YSkFDV0lJcS05Sw?oc=5)
+
+2026-07-19 <span class="news-indication-tag">乳癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi2AJBVV95cUxObVZoVmZEYnBUOVlYMEhtTV9UQUZqbkRvdzYzRnl3VUpydnVxWE94ZTlYaUFqamRRR2hmWUZaRGZZUy03RFY1ZTdQLTN2dUQ3Z2NTYlhLbVR5WWlKS2loX1Brd1JqT1ZQYUFGcGI0YmdDb1BURm5KQXdPOFRXZktTRklOcDNZSmlrbnp6UThMcHRjSXJNc3JjUjU2OGp2TlI5LTRkX09xaWtobXhlNmxhN1d2bi1za3JvRGFaYmpsU0FDUFI5eWZ6cmxLNVpZZHdUT1FwQlB0NG5oY0lSZkhLOXAxUzZLN0xWMThKVHRySDRLN2VKVG9sSlpMTDFaanE0TWtuZkR0Y212WHI0dnZGQnBEcV9ZbUlOallVM3lsLWdHUnAxeWotVkEwTl9MZWp4MFpqSnhQbXEwbkc5VHJ4OHNfSUxWQVF6a1hOdk5YSkFDV0lJcS05Sw?oc=5)
+
+---
 
 
 <div class="disclaimer">

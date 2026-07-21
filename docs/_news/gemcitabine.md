@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/gemcitabine/
 <li><strong>原適應症</strong>：轉移性大腸直腸癌</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>female breast carcinoma（100.0%）</li>
+<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
 <li>rectum mucinous adenocarcinoma（99.8%）</li>
 <li>colon mucinous adenocarcinoma（99.8%）</li>
 <li>endometrial mixed adenocarcinoma（99.8%）</li>
@@ -42,13 +42,29 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [高劑量質子治療 乳癌存活率達100% 輻射量低減心臟病風險](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhM1JzeXF0N05oOFZ1aktvLXpRYVJFQkFlVTN4cFhpVy1xSUJiRkdOeDNuMHBEUVpFV3ZKOXI0UmwtS0ctTUhGOERyT3ZiZEk?oc=5)
+
+2026-07-21 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">乳癌</span>
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhM1JzeXF0N05oOFZ1aktvLXpRYVJFQkFlVTN4cFhpVy1xSUJiRkdOeDNuMHBEUVpFV3ZKOXI0UmwtS0ctTUhGOERyT3ZiZEk?oc=5)
+
+---
 
 ### [患癌先兆｜男子輕視「1症狀」驚罹大腸癌醫生列10種癌兆：恐身體早已求救](https://news.google.com/rss/articles/CBMi7wNBVV95cUxNZDFQRFlJb2pXamtGdy1HRzFDRUpESHk5aXdKbEpiX2hBYzVOUUxobzNLaVFHLWZjWk5tS1dFMlZOb2ZJX3hiZlVLUzFzSFl2TWVicnRpRE9uOXBpUHgtcHdLVUZmZHJGLURQdXJpZ1hHVm1KZzE1WTU3QUJvV3JXV0UtS2o0UG1vLW9VMGdpTjVSbVpKU1RBazFFSmlMMy1sU2ZsNzBXSThkdHRPakRuLXRjNmRRSGRJS1paT085QUpJSHhra3I5WlJIS3dGMUhpNmJQMlM5QkVyaGRnbzJNdTl2TUNVSUswWENUNHFna1E2aklIdkJhNXpnbS1IYi1YRUp5WlMyM2lzUEFxbU9UbUM3V3VKTXFpM2RkR29CaW1xb1dXVjNDU0tWcC0wZDRqSjdNSmVUTDhsUkNXcUxFRGxqUVk1b2JMTEphdlF2WkZqLUJrajBiNExtajZaU1NxSUtwY012alRuMXpKTk5zbzM2TVUxNGpNT29IVkd5TzJiemtDQlN5RXR6Sm9xT0VNaEVKWnVramZnMVlCaC1fVlhlWi1rU3FsUlA3enJIczJwNFU3RXR0bU9neWxyckMxOXltQzJlNXJoOWJqU25Zc0NHZUlFR0t3QjRvQVViQzk4UHhDbUFRd2ZDRElzeGs?oc=5)
 
 2026-07-20 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMi7wNBVV95cUxNZDFQRFlJb2pXamtGdy1HRzFDRUpESHk5aXdKbEpiX2hBYzVOUUxobzNLaVFHLWZjWk5tS1dFMlZOb2ZJX3hiZlVLUzFzSFl2TWVicnRpRE9uOXBpUHgtcHdLVUZmZHJGLURQdXJpZ1hHVm1KZzE1WTU3QUJvV3JXV0UtS2o0UG1vLW9VMGdpTjVSbVpKU1RBazFFSmlMMy1sU2ZsNzBXSThkdHRPakRuLXRjNmRRSGRJS1paT085QUpJSHhra3I5WlJIS3dGMUhpNmJQMlM5QkVyaGRnbzJNdTl2TUNVSUswWENUNHFna1E2aklIdkJhNXpnbS1IYi1YRUp5WlMyM2lzUEFxbU9UbUM3V3VKTXFpM2RkR29CaW1xb1dXVjNDU0tWcC0wZDRqSjdNSmVUTDhsUkNXcUxFRGxqUVk1b2JMTEphdlF2WkZqLUJrajBiNExtajZaU1NxSUtwY012alRuMXpKTk5zbzM2TVUxNGpNT29IVkd5TzJiemtDQlN5RXR6Sm9xT0VNaEVKWnVramZnMVlCaC1fVlhlWi1rU3FsUlA3enJIczJwNFU3RXR0bU9neWxyckMxOXltQzJlNXJoOWJqU25Zc0NHZUlFR0t3QjRvQVViQzk4UHhDbUFRd2ZDRElzeGs?oc=5)
+
+---
+
+### [醫療險一次領3／乳癌一期只賠20%？ 急診醫揭重傷險關鍵差異：拿卡全額賠](https://news.google.com/rss/articles/CBMi2AJBVV95cUxObVZoVmZEYnBUOVlYMEhtTV9UQUZqbkRvdzYzRnl3VUpydnVxWE94ZTlYaUFqamRRR2hmWUZaRGZZUy03RFY1ZTdQLTN2dUQ3Z2NTYlhLbVR5WWlKS2loX1Brd1JqT1ZQYUFGcGI0YmdDb1BURm5KQXdPOFRXZktTRklOcDNZSmlrbnp6UThMcHRjSXJNc3JjUjU2OGp2TlI5LTRkX09xaWtobXhlNmxhN1d2bi1za3JvRGFaYmpsU0FDUFI5eWZ6cmxLNVpZZHdUT1FwQlB0NG5oY0lSZkhLOXAxUzZLN0xWMThKVHRySDRLN2VKVG9sSlpMTDFaanE0TWtuZkR0Y212WHI0dnZGQnBEcV9ZbUlOallVM3lsLWdHUnAxeWotVkEwTl9MZWp4MFpqSnhQbXEwbkc5VHJ4OHNfSUxWQVF6a1hOdk5YSkFDV0lJcS05Sw?oc=5)
+
+2026-07-19 <span class="news-indication-tag">乳癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi2AJBVV95cUxObVZoVmZEYnBUOVlYMEhtTV9UQUZqbkRvdzYzRnl3VUpydnVxWE94ZTlYaUFqamRRR2hmWUZaRGZZUy03RFY1ZTdQLTN2dUQ3Z2NTYlhLbVR5WWlKS2loX1Brd1JqT1ZQYUFGcGI0YmdDb1BURm5KQXdPOFRXZktTRklOcDNZSmlrbnp6UThMcHRjSXJNc3JjUjU2OGp2TlI5LTRkX09xaWtobXhlNmxhN1d2bi1za3JvRGFaYmpsU0FDUFI5eWZ6cmxLNVpZZHdUT1FwQlB0NG5oY0lSZkhLOXAxUzZLN0xWMThKVHRySDRLN2VKVG9sSlpMTDFaanE0TWtuZkR0Y212WHI0dnZGQnBEcV9ZbUlOallVM3lsLWdHUnAxeWotVkEwTl9MZWp4MFpqSnhQbXEwbkc5VHJ4OHNfSUxWQVF6a1hOdk5YSkFDV0lJcS05Sw?oc=5)
 
 ---
 

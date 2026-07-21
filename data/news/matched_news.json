@@ -1,8 +1,116 @@
 {
-  "last_updated": "2026-07-21T16:18:41.886155+00:00",
-  "total_count": 15,
-  "matched_count": 5,
+  "last_updated": "2026-07-21T18:10:24.329188+00:00",
+  "total_count": 16,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "0ccff4d60634",
+      "title": "高劑量質子治療 乳癌存活率達100% 輻射量低減心臟病風險",
+      "published": "2026-07-21T16:09:25+00:00",
+      "summary": "高劑量質子治療 乳癌存活率達100% 輻射量低減心臟病風險&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhM1JzeXF0N05oOFZ1aktvLXpRYVJFQkFlVTN4cFhpVy1xSUJiRkdOeDNuMHBEUVpFV3ZKOXI0UmwtS0ctTUhGOERyT3ZiZEk?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "7dd29fb0629f",
       "title": "全球首例，來自父親的捐贈：六歲男童成為首位透過單一機械人切口接受肝臟移植的患者",
@@ -42,54 +150,14 @@
       ]
     },
     {
-      "id": "1b45f29a6bd0",
+      "id": "668a13e1fa87",
       "title": "兩性健康｜情侶拍拖3年定期檢查仍出事！男友淪無症狀播毒者，累女友染高危HPV恐需切部分子宮 - etnet 經濟通",
       "published": "2026-07-21T06:21:20+00:00",
-      "summary": "兩性健康｜情侶拍拖3年定期檢查仍出事！男友淪無症狀播毒者，累女友染高危HPV恐需切部分子宮&nbsp;&nbsp;etnet 經濟通【健康資訊】專家拆解HPV迷思倡正確性健康觀念- 副刊&nbsp;&nbsp;香港文匯報HPV病毒不僅引發子宮頸癌 醫生解釋其與頭頸癌日益增長的關聯性&nbsp;&nbsp;Singtaousa婚前健檢還不夠！醫：別忽略HPV疫苗，守護自己也守護最愛的人！&nbsp;&nbsp;Yahoo新聞",
+      "summary": "兩性健康｜情侶拍拖3年定期檢查仍出事！男友淪無症狀播毒者，累女友染高危HPV恐需切部分子宮&nbsp;&nbsp;etnet 經濟通前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "etnet 經濟通",
-          "link": "https://news.google.com/rss/articles/CBMi_ARBVV95cUxOOEFjSTZKaUFVMGNWaEhkeU0xM1M1U2FfN0RUa2w2Z1ZWb294bGtPalpnWFdZd0U2M2tMeWhzRGotUDhnWThFcFd6Skk2djBLTVphQm5OZkN4dUE2T2pPS3dmZVNkdW95ZkdPSTVVeFdhU21sQmZCc3JyVGw3Y19DMG5DTDU3SFR5OGotTU1lc0U3YTZlZ1FCWW9FdW9oNGZpY3hISk8zaTBrMTR4enNRQ3ZXcm1OQWk4LWxKVHRFNnBXdG5DWXVyd2VRazZ0YmJvSGFTeDBlNks2SHltWm5QTkM3T1lUeWdnUjRfenpBeUYtYUVXTWRmS25JUXo3MlJKOGhFY0J6bV94VFBOc2tZRHFobHFEVHIyNTJnT0JBTTRZRThKQ3pub3RUWmtKMHllYUZRemVQeVpiMGZmRVBpaHVmbE5KMV9jNlV0OUh5RzZINWJrV2tXUmRTaW5QZm5QMmdzdXFIYWxPbUFXeDVvZ2VUanhWV2JmS2RCSjFqdXlzdVBGX3lieGdFZGh2LVdfZE9XMHBvLW5ZZ2xHS0lmdFNpR3lBdGlkUjFxR19GaHZ5NnZXT2hTZFpuN1JscmFlcEF2eHRsNWphelViY0FYTU5kWHlmOXp3cmtabnh6dUtIcF9oSU5FS2NIaGV2aDBKOTBRd1F0bmhCeG5UNkl4SEhBeVUtYVRLZmhXNWo1aEdPRXJXdmZwZWxTVWl6SDRHVUZhcTlEVnhJT3NiSEN0TEx4MFVUWnNtVzBXNU10YTh2aVY5M2MzZ29FY3pNTzFWa0dIRzdjelFtSHE1Vi01RFpIVWhtTVpVelhsLTdnOXBRTFoxVzdIZTd3cE8?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "頭頸癌",
-          "keyword": "頭頸癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "989449773f17",
-      "title": "洗腎又骨鬆 嘉基籲慎防低血鈣危機",
-      "published": "2026-07-21T05:02:32+00:00",
-      "summary": "洗腎又骨鬆 嘉基籲慎防低血鈣危機&nbsp;&nbsp;行銷人前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPNEpDTzNoMzRIb0VkOUFJZE1adk5yRkJ0WGJGZ0MwMWt1R1FMX05ISFJJN3k3d0lLeTBzUlgzbVlwSkhqRnVQMmlxRWw0WGV3c3RMU2ZUVldJZkxiMlNZeDNxM2JGbWZzQzNfcjhTWHN3RFVYTk1rNlYyY21vaC03Ymx2cW9ndjl5Q3NWZlJwdFhwMVNvSmZfQTExakl4am56X3BsbTdrTXRhVTByMkEwMVpfNVRhb3BRU1VjQVpHQUlSRFdGUHphN3dPQ1J4SVlaZHVEbmt3TlZCZzNzYmd6ZTVyTnd0S012SURrYXBpVmpEZ0N6SkR5Z1oySUpPWDVTZmhPWEdGUkZ4YlZiQTU4N3RuMkxvNzM4X1JOMGRmQWdEX0pjbzhB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiywRBVV95cUxQQXZfdDhURmJTeDRvUVBlcGZaeGxOU2FLVVVqTlBHSzdQYWp4ZGdqdm1fNnlmVzdnOFNVT3NGREt0SU5XNnlfVW1tVnpQdzJlek9ra3RjTFpFaFBuYjhCWHpZOGJVc08ycUxKZ0Z1cXBTeE1jM1RWQUhtQUMwaUVIYVBoT1d1VVI5QW9UQ1RHd2F2MW5BZno4ZTZKektGUEVCUjBxc29kMVVQWTZKSzM0ZC1WLXdkdWs5cXVPSXlEb2pjMTJGRVVtb0p6dlQzTXQxOHdSVDJHWS1MTjV4WWpFRlJpUUY2TEhLVnU3Z1VYZE5qMlRteWhGSjJQZFdsdWg2akRXb2h3STQxVmZYc1A5Ymh5M2dzZS1EamtFQkVkaGZSY0JOT1ZlX0p6R05XcWNZbVZXTEdhcGNRcVU0WlBjTS1FZVpFMHJxTW8zcG02RDBkaVNhSm9Eb19nMWtJZ0Mta2llT2RoZ1YxU1ZLMlJlRHk5LWJuUlBMc1JjWExuREVNOTBjTUpaVGQtbHBMTUR4aHdJdnVWdm1jdWRZc3lIXzEyTTlHU0xQekdYaGFxdmVKbWNZTHJBY3hoRm56Tjl0dS1Rcmp5NlhwSUVDNDkyT2tGVDhpdmhZV2VXQ2tBWFQyVlJKQ3RPM3BvbGdpTTZUaENGelp6dnRrQ2Z5MHNVSEQxczRvb0xDeU9sSXFQN1N0UUNRYjRzU3pMLXo3ZmNUTVdTdG9WWklHbnBuSklwMjdvSHk5a0dZMUhzaVpzM0NqamR6Um1zSDRkbw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -108,14 +176,14 @@
       "matched_keywords": []
     },
     {
-      "id": "27a66c0f1f5b",
+      "id": "55decdf7f774",
       "title": "壞膽固醇超標可增心血管病風險 美國心臟學會新指引︰19歲起定期量度血脂水平",
       "published": "2026-07-21T03:38:56+00:00",
       "summary": "壞膽固醇超標可增心血管病風險 美國心臟學會新指引︰19歲起定期量度血脂水平&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQckhfOVFhOVluRmQwNnJranU0eHpiMUJZQlFQYlUwZERHMThCdkZqM3FHeFkwSG5sbmg4S0g4bnlJU2VENnVyUkh6Zkl2cUdlTnpLV0JULVZUMjcyS3ZyOGl6MHpuVXdSX2xrZmRSN2lCcXA2dk1DY0hFdUhxakZGdVk5RTJQNXBQQ0VPZmY5RGVTbGZJOHlEQXZLN1JRdG02Y3VUQUpJcmdXLXVXWlZwYWtDM0s2WXhIaUY1U0FoekN5cU1JRXc5SXdNNkMtcWpQY1VzTmVnRlMwUUdtLTZIR0JyTEZ0SUFSY1ZXSUhISVMzLVpqX25LQUdoQUZQRnFxQXh3eFhxS0Ita1FoeWxiYXlyU08xNE9BRjFOTHE0LUgxamFLLVZxMFBjaTFGMEp6REJwRjg4XzFDTzI4aVU1b09Zb2cwNlpYXzJYb0hsN3AwRWVTRWpIdTluQ1ctbzNWbW1IbUhHQzI5QVdOSTUxQVQ2T01YaVhrUEJFUnU3SXVUUmp6cnVMR0lFSkEwdlJBemNWaVFrWnVvQ0VDd0NxcWlVNW1wQWtSdnUwWXdWUHZiN1VmX3FmeGJ1ZG5WNmFVMkFoTUdDb0NyRlI0a3NycU9URGZEQzRRYnBTUUt1LVYtTGw3TVFKZFlFOWNMZ3praWxseDhSTnJuUmJvU0ZQSm9KZGJscXhrUWFQVWxB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41XzVsc2pKUGlFWTdVTFpOWS13d1ZSS01MM0JhaHllRjZrZ003YXZWUmIyc1RvUDdHeVBvYmNrbm1UWkZod09FUEF0XzBuTTVxcVE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -288,17 +356,66 @@
       "matched_keywords": []
     },
     {
-      "id": "6cd6c947ba12",
+      "id": "64d8247b8ba5",
       "title": "加拿大華人牙醫爆未依規定消毒 近900人恐染愛滋病、肝炎",
       "published": "2026-07-20T03:18:00+00:00",
-      "summary": "加拿大華人牙醫爆未依規定消毒 近900人恐染愛滋病、肝炎&nbsp;&nbsp;am730前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "加拿大華人牙醫爆未依規定消毒 近900人恐染愛滋病、肝炎&nbsp;&nbsp;AM730前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPOGNxSjhLd0VhTmdDM2ZkTU5aMzNhSDFQemNuMHV5cjhtaXMybm0tRHk2bGp1VklZMklhOFBWUWxzM1I0MTY0X0RNdUY4UXZ5T185VnBvMnJjaV8zajRYaGZMbENOTVJDWTZVSkVYYU51QVdMNF80VHY3V1dOaUFpai1heFdVMW16bjVvWEs5ajRrMkJLSjFLZHBJTGRxS2NhX0Q1amhPWHU2VnRBLU45Q0RiNktWWmFuX1VuT1kwTWZna1JLYzA2dEdWOUNJc2NtLWlhMkhLR1k4NTA5c0lPNFBZaVI4UTIxNWdnUXdiSGpuQU9EOTBzMXVoemd6dG1tX0dadVMtN1pnU1BsdTRsTzJJajZmeVJlRTZPbklXUVhnZGpoRmkzMjNnQlZ3ZDZEaGNSTVBaM3VjSk1UQU1pYXFTRjJHd1dwWHI5M2hoQWJnODRlWm1NQnpXczJuOFZxM2xaNEJCYjZYREtKa0ltTGtZbHNWVXFnSUptcA?oc=5"
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "90f800c2194c",
+      "title": "醫療險一次領3／乳癌一期只賠20%？ 急診醫揭重傷險關鍵差異：拿卡全額賠",
+      "published": "2026-07-19T22:29:00+00:00",
+      "summary": "醫療險一次領3／乳癌一期只賠20%？ 急診醫揭重傷險關鍵差異：拿卡全額賠&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxObVZoVmZEYnBUOVlYMEhtTV9UQUZqbkRvdzYzRnl3VUpydnVxWE94ZTlYaUFqamRRR2hmWUZaRGZZUy03RFY1ZTdQLTN2dUQ3Z2NTYlhLbVR5WWlKS2loX1Brd1JqT1ZQYUFGcGI0YmdDb1BURm5KQXdPOFRXZktTRklOcDNZSmlrbnp6UThMcHRjSXJNc3JjUjU2OGp2TlI5LTRkX09xaWtobXhlNmxhN1d2bi1za3JvRGFaYmpsU0FDUFI5eWZ6cmxLNVpZZHdUT1FwQlB0NG5oY0lSZkhLOXAxUzZLN0xWMThKVHRySDRLN2VKVG9sSlpMTDFaanE0TWtuZkR0Y212WHI0dnZGQnBEcV9ZbUlOallVM3lsLWdHUnAxeWotVkEwTl9MZWp4MFpqSnhQbXEwbkc5VHJ4OHNfSUxWQVF6a1hOdk5YSkFDV0lJcS05Sw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
