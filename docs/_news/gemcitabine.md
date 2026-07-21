@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [患癌先兆｜男子輕視「1症狀」驚罹大腸癌醫生列10種癌兆：恐身體早已求救](https://news.google.com/rss/articles/CBMi7wNBVV95cUxNZDFQRFlJb2pXamtGdy1HRzFDRUpESHk5aXdKbEpiX2hBYzVOUUxobzNLaVFHLWZjWk5tS1dFMlZOb2ZJX3hiZlVLUzFzSFl2TWVicnRpRE9uOXBpUHgtcHdLVUZmZHJGLURQdXJpZ1hHVm1KZzE1WTU3QUJvV3JXV0UtS2o0UG1vLW9VMGdpTjVSbVpKU1RBazFFSmlMMy1sU2ZsNzBXSThkdHRPakRuLXRjNmRRSGRJS1paT085QUpJSHhra3I5WlJIS3dGMUhpNmJQMlM5QkVyaGRnbzJNdTl2TUNVSUswWENUNHFna1E2aklIdkJhNXpnbS1IYi1YRUp5WlMyM2lzUEFxbU9UbUM3V3VKTXFpM2RkR29CaW1xb1dXVjNDU0tWcC0wZDRqSjdNSmVUTDhsUkNXcUxFRGxqUVk1b2JMTEphdlF2WkZqLUJrajBiNExtajZaU1NxSUtwY012alRuMXpKTk5zbzM2TVUxNGpNT29IVkd5TzJiemtDQlN5RXR6Sm9xT0VNaEVKWnVramZnMVlCaC1fVlhlWi1rU3FsUlA3enJIczJwNFU3RXR0bU9neWxyckMxOXltQzJlNXJoOWJqU25Zc0NHZUlFR0t3QjRvQVViQzk4UHhDbUFRd2ZDRElzeGs?oc=5)
 
 2026-07-20 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMi7wNBVV95cUxNZDFQRFlJb2pXamtGdy1HRzFDRUpESHk5aXdKbEpiX2hBYzVOUUxobzNLaVFHLWZjWk5tS1dFMlZOb2ZJX3hiZlVLUzFzSFl2TWVicnRpRE9uOXBpUHgtcHdLVUZmZHJGLURQdXJpZ1hHVm1KZzE1WTU3QUJvV3JXV0UtS2o0UG1vLW9VMGdpTjVSbVpKU1RBazFFSmlMMy1sU2ZsNzBXSThkdHRPakRuLXRjNmRRSGRJS1paT085QUpJSHhra3I5WlJIS3dGMUhpNmJQMlM5QkVyaGRnbzJNdTl2TUNVSUswWENUNHFna1E2aklIdkJhNXpnbS1IYi1YRUp5WlMyM2lzUEFxbU9UbUM3V3VKTXFpM2RkR29CaW1xb1dXVjNDU0tWcC0wZDRqSjdNSmVUTDhsUkNXcUxFRGxqUVk1b2JMTEphdlF2WkZqLUJrajBiNExtajZaU1NxSUtwY012alRuMXpKTk5zbzM2TVUxNGpNT29IVkd5TzJiemtDQlN5RXR6Sm9xT0VNaEVKWnVramZnMVlCaC1fVlhlWi1rU3FsUlA3enJIczJwNFU3RXR0bU9neWxyckMxOXltQzJlNXJoOWJqU25Zc0NHZUlFR0t3QjRvQVViQzk4UHhDbUFRd2ZDRElzeGs?oc=5)
-
----
-
-### [致死人數僅次於癌症醫：保護心血管落實4件事- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tWUg1RU13UVozNGpqVzZaQkNXa1ZXcGtiLUJST1ZUZFA4aUtFVm1oWGRHczh2czg2ZGloVVlxMmJJR0plMEdDVVBiUy1VeFdXWWJjZWVrZi1EcUJqaUxzaXBEUGpkRnNTQVRGMWF3?oc=5)
-
-2026-07-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tWUg1RU13UVozNGpqVzZaQkNXa1ZXcGtiLUJST1ZUZFA4aUtFVm1oWGRHczh2czg2ZGloVVlxMmJJR0plMEdDVVBiUy1VeFdXWWJjZWVrZi1EcUJqaUxzaXBEUGpkRnNTQVRGMWF3?oc=5)
 
 ---
 

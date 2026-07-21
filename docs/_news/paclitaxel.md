@@ -44,11 +44,11 @@ permalink: /news/paclitaxel/
 
 ## 相關新聞（1 則）
 
-### [致死人數僅次於癌症醫：保護心血管落實4件事- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tWUg1RU13UVozNGpqVzZaQkNXa1ZXcGtiLUJST1ZUZFA4aUtFVm1oWGRHczh2czg2ZGloVVlxMmJJR0plMEdDVVBiUy1VeFdXWWJjZWVrZi1EcUJqaUxzaXBEUGpkRnNTQVRGMWF3?oc=5)
+### [【健康資訊】專家拆解HPV迷思倡正確性健康觀念- 副刊](https://news.google.com/rss/articles/CBMid0FVX3lxTFBjSFlRUTREakxYSHUzOEFCNkM0WXhCVEZkclFRdDZrZU9wYXU2M2lra1dJVDA2ZGZ4OE5vSnduWGxyYWxrNVB1cmEybVBlZnlhdzZ5WjdhWWVzOFdoenVpd1gtd2NIbkVFOThtWmFiTnotbFB0Q2g0?oc=5)
 
-2026-07-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span>
+2026-07-19 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">頭頸癌</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tWUg1RU13UVozNGpqVzZaQkNXa1ZXcGtiLUJST1ZUZFA4aUtFVm1oWGRHczh2czg2ZGloVVlxMmJJR0plMEdDVVBiUy1VeFdXWWJjZWVrZi1EcUJqaUxzaXBEUGpkRnNTQVRGMWF3?oc=5)
+來源：[香港文匯報](https://news.google.com/rss/articles/CBMid0FVX3lxTFBjSFlRUTREakxYSHUzOEFCNkM0WXhCVEZkclFRdDZrZU9wYXU2M2lra1dJVDA2ZGZ4OE5vSnduWGxyYWxrNVB1cmEybVBlZnlhdzZ5WjdhWWVzOFdoenVpd1gtd2NIbkVFOThtWmFiTnotbFB0Q2g0?oc=5)
 
 ---
 

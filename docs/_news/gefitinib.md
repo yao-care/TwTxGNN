@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [致死人數僅次於癌症醫：保護心血管落實4件事- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tWUg1RU13UVozNGpqVzZaQkNXa1ZXcGtiLUJST1ZUZFA4aUtFVm1oWGRHczh2czg2ZGloVVlxMmJJR0plMEdDVVBiUy1VeFdXWWJjZWVrZi1EcUJqaUxzaXBEUGpkRnNTQVRGMWF3?oc=5)
-
-2026-07-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tWUg1RU13UVozNGpqVzZaQkNXa1ZXcGtiLUJST1ZUZFA4aUtFVm1oWGRHczh2czg2ZGloVVlxMmJJR0plMEdDVVBiUy1VeFdXWWJjZWVrZi1EcUJqaUxzaXBEUGpkRnNTQVRGMWF3?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [熬夜輪班傷腦恐失智　專家推「兩階段睡眠」解套](https://news.google.com/rss/articles/CBMifEFVX3lxTE5QN2FaSUdwdlJ3TFBaX18yT2NhbTNmc2JLel9RVWRLRWpjbEpaaE1paVNKSGhJWVFnRHFidmNyVDFXLXROY2JXUk5ZOGMxbGRBMGgwRmlMQTF3VWFhb0pxNEYtZy1XRXBZSTZKNzFHcHA4T1ZIWUZScDRiY03SAV9BVV95cUxQcDNrMXFoVHNTSGNVT2theGN0YVROVUdlUWw1QXJpSVh6Z1BYcXpFVEFkSXVjamdIQXJFSzdLOVI5Zl8wYnZvZFZPdEpoYkcxZ3F0c0ZKTUMzV2FjR1NtMA?oc=5)
 
