@@ -44,11 +44,11 @@ permalink: /news/dipyridamole/
 
 ## 相關新聞（1 則）
 
-### [40歲後護心別只量血壓！醫揭5個中年人最容易忽略的習慣正傷害心臟血管](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9td3B4M3h2S3o4LTdqV2E1YjV5eTJpbm52Mm44YWxPa0lBQVhlSGRiWEVnYXVIS2gxaU1jQkU2dHZ6ZnpZV0tkTXRzckp4eWpWemJoRlZVSWJ1WUpI0gFiQVVfeXFMUDFrd2kzejRrX3hkQ2FXQzlOa1hhZU9DTzQwc0MzOG9MM2lZSHdEYTJEM3A3SVZOZjM2bFlOalpBZ3VCUENmSkNxSnNmWWtUaHUyelZGWUFGRWQtbkV6dVgwdFE?oc=5)
+### [虛擬實境結合神經刺激：中風後復健呈功能改善的初步結果 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiywFBVV95cUxNQXJMM2JqdG5TTGVzdTRxRkxsV0JJUzI3YWNrUDRKVDdSUUsxbHZDeFp5ZF9NZ2JDSmw4X2cwVGU2d08xV2dWYmhyMlRuMXVQUWU5QUlTRmhNM2tsbTUxUGs3cGNmR3lxbnRsbTZFemh6Sko4QUlrc3dzYnd0el9oX3k0Nk1ORXRpRU15VEtoc2lQRk81LTYxQUZVS2dKNEJncnZHb0JGZS10Ni1iRDYwT1ktMUpnYlBDb3lwbTF3VUNDLWtOUFcyWUxSMA?oc=5)
 
-2026-07-18 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">中風</span>
+2026-07-21 <span class="news-indication-tag">中風</span>
 
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9td3B4M3h2S3o4LTdqV2E1YjV5eTJpbm52Mm44YWxPa0lBQVhlSGRiWEVnYXVIS2gxaU1jQkU2dHZ6ZnpZV0tkTXRzckp4eWpWemJoRlZVSWJ1WUpI0gFiQVVfeXFMUDFrd2kzejRrX3hkQ2FXQzlOa1hhZU9DTzQwc0MzOG9MM2lZSHdEYTJEM3A3SVZOZjM2bFlOalpBZ3VCUENmSkNxSnNmWWtUaHUyelZGWUFGRWQtbkV6dVgwdFE?oc=5)
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiywFBVV95cUxNQXJMM2JqdG5TTGVzdTRxRkxsV0JJUzI3YWNrUDRKVDdSUUsxbHZDeFp5ZF9NZ2JDSmw4X2cwVGU2d08xV2dWYmhyMlRuMXVQUWU5QUlTRmhNM2tsbTUxUGs3cGNmR3lxbnRsbTZFemh6Sko4QUlrc3dzYnd0el9oX3k0Nk1ORXRpRU15VEtoc2lQRk81LTYxQUZVS2dKNEJncnZHb0JGZS10Ni1iRDYwT1ktMUpnYlBDb3lwbTF3VUNDLWtOUFcyWUxSMA?oc=5)
 
 ---
 

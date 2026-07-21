@@ -1,7 +1,35 @@
 {
-  "generated": "2026-07-20T23:48:41.105048+00:00",
-  "count": 4,
+  "generated": "2026-07-21T01:50:10.192750+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "d2dd37761efa",
+      "title": "虛擬實境結合神經刺激：中風後復健呈功能改善的初步結果 - TechNews 科技新報",
+      "published": "2026-07-21T00:23:20+00:00",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQXJMM2JqdG5TTGVzdTRxRkxsV0JJUzI3YWNrUDRKVDdSUUsxbHZDeFp5ZF9NZ2JDSmw4X2cwVGU2d08xV2dWYmhyMlRuMXVQUWU5QUlTRmhNM2tsbTUxUGs3cGNmR3lxbnRsbTZFemh6Sko4QUlrc3dzYnd0el9oX3k0Nk1ORXRpRU15VEtoc2lQRk81LTYxQUZVS2dKNEJncnZHb0JGZS10Ni1iRDYwT1ktMUpnYlBDb3lwbTF3VUNDLWtOUFcyWUxSMA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "732ec82d22de",
       "title": "患癌先兆｜男子輕視「1症狀」驚罹大腸癌醫生列10種癌兆：恐身體早已求救",
@@ -44,6 +72,30 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "474c5a6e1a17",
+      "title": "性病危機｜30歲男染椰菜花延醫2年 從下體擴散至大腿如「植物園」 醫生電灼103粒才清完 - 晴報 Sky Post",
+      "published": "2026-07-20T05:48:16+00:00",
+      "sources": [
+        {
+          "name": "晴報 Sky Post",
+          "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOVVV2SkJDSGx4SHRkRjUwTGQ3ck5XakJ5cElfSlhVMEdsWTJWd0Q4SzNjNnBPWGdGVFVYNU1RaHVfMm5kOG1ic0tjaHJMX2JyRG9mNjVKdXUxeWNHT0R6ajEtWTJLeW9xb3FUeVJxQm9IYXdUa0kzTHF1ZjlYN0F2ZFcxQy1ESXFlRDlVU3hnWjUydkNPVVNPbGgxVWFpV19rajlaWVk3LUY4bk5sRXNmU3ViNGtxX0hHVnpzZEl4R3FBNGNiMDgzdmRYeDBiSEFwVDlPUlBydjJScTVGTG53VnJhNU1vUGVjSE81R05wRnVEczJsYy1wY0VVNHBPenpVQUNrVkVIWnFPOEVOV0JFZ2ZFT19MZjFZZFBhTk5OSzdoTVlTc0FKc1Y0WE9BTjRuS2hDaHRLRXhnUnBET3dVcGpicFNpVVNSUmZyRkY2VkdpaG1jQzNzYnNHZUE3TTJ1S3ppd1RqdDY3MVRzUmhnRVUxTnp1WUVPR1hpamlOM3ZhcHVkWVZTTzNoRUlNR1pPdkozbU80eWFKdmF4Z3Y1MGdBTVVoOTZ3YWtRcExMUmRIcnhidTZJV21SQXFrVTBFMUd6REJYZm1lb1MtMmNDcndVZWN2Y3JhM3RQMzRGaV9pdkhS?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "濕疹",
+          "keyword": "濕疹",
+          "related_drugs": [
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
             }
           ]
         }
@@ -345,45 +397,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7d0a8a2a4da6",
-      "title": "40歲後護心別只量血壓！醫揭5個中年人最容易忽略的習慣正傷害心臟血管",
-      "published": "2026-07-18T23:28:14+00:00",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9td3B4M3h2S3o4LTdqV2E1YjV5eTJpbm52Mm44YWxPa0lBQVhlSGRiWEVnYXVIS2gxaU1jQkU2dHZ6ZnpZV0tkTXRzckp4eWpWemJoRlZVSWJ1WUpI0gFiQVVfeXFMUDFrd2kzejRrX3hkQ2FXQzlOa1hhZU9DTzQwc0MzOG9MM2lZSHdEYTJEM3A3SVZOZjM2bFlOalpBZ3VCUENmSkNxSnNmWWtUaHUyelZGWUFGRWQtbkV6dVgwdFE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }

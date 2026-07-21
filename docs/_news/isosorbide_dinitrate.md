@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [致死人數僅次於癌症醫：保護心血管落實4件事- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tWUg1RU13UVozNGpqVzZaQkNXa1ZXcGtiLUJST1ZUZFA4aUtFVm1oWGRHczh2czg2ZGloVVlxMmJJR0plMEdDVVBiUy1VeFdXWWJjZWVrZi1EcUJqaUxzaXBEUGpkRnNTQVRGMWF3?oc=5)
 
 2026-07-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">更年期</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tWUg1RU13UVozNGpqVzZaQkNXa1ZXcGtiLUJST1ZUZFA4aUtFVm1oWGRHczh2czg2ZGloVVlxMmJJR0plMEdDVVBiUy1VeFdXWWJjZWVrZi1EcUJqaUxzaXBEUGpkRnNTQVRGMWF3?oc=5)
-
----
-
-### [40歲後護心別只量血壓！醫揭5個中年人最容易忽略的習慣正傷害心臟血管](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9td3B4M3h2S3o4LTdqV2E1YjV5eTJpbm52Mm44YWxPa0lBQVhlSGRiWEVnYXVIS2gxaU1jQkU2dHZ6ZnpZV0tkTXRzckp4eWpWemJoRlZVSWJ1WUpI0gFiQVVfeXFMUDFrd2kzejRrX3hkQ2FXQzlOa1hhZU9DTzQwc0MzOG9MM2lZSHdEYTJEM3A3SVZOZjM2bFlOalpBZ3VCUENmSkNxSnNmWWtUaHUyelZGWUFGRWQtbkV6dVgwdFE?oc=5)
-
-2026-07-18 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">中風</span>
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9td3B4M3h2S3o4LTdqV2E1YjV5eTJpbm52Mm44YWxPa0lBQVhlSGRiWEVnYXVIS2gxaU1jQkU2dHZ6ZnpZV0tkTXRzckp4eWpWemJoRlZVSWJ1WUpI0gFiQVVfeXFMUDFrd2kzejRrX3hkQ2FXQzlOa1hhZU9DTzQwc0MzOG9MM2lZSHdEYTJEM3A3SVZOZjM2bFlOalpBZ3VCUENmSkNxSnNmWWtUaHUyelZGWUFGRWQtbkV6dVgwdFE?oc=5)
 
 ---
 
