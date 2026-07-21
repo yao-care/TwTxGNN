@@ -14,7 +14,7 @@ permalink: /news/amcinonide/
 ---
 
 <p class="key-answer" data-question="Amcinonide 有什麼相關新聞？">
-<strong>Amcinonide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 8 個。
+<strong>Amcinonide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 8 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,19 +40,11 @@ permalink: /news/amcinonide/
 <p><a href="{{ '/drugs/amcinonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [性病危機｜30歲男染椰菜花延醫2年 從下體擴散至大腿如「植物園」 醫生電灼103粒才清完 - 晴報 Sky Post](https://news.google.com/rss/articles/CBMi5ANBVV95cUxOVVV2SkJDSGx4SHRkRjUwTGQ3ck5XakJ5cElfSlhVMEdsWTJWd0Q4SzNjNnBPWGdGVFVYNU1RaHVfMm5kOG1ic0tjaHJMX2JyRG9mNjVKdXUxeWNHT0R6ajEtWTJLeW9xb3FUeVJxQm9IYXdUa0kzTHF1ZjlYN0F2ZFcxQy1ESXFlRDlVU3hnWjUydkNPVVNPbGgxVWFpV19rajlaWVk3LUY4bk5sRXNmU3ViNGtxX0hHVnpzZEl4R3FBNGNiMDgzdmRYeDBiSEFwVDlPUlBydjJScTVGTG53VnJhNU1vUGVjSE81R05wRnVEczJsYy1wY0VVNHBPenpVQUNrVkVIWnFPOEVOV0JFZ2ZFT19MZjFZZFBhTk5OSzdoTVlTc0FKc1Y0WE9BTjRuS2hDaHRLRXhnUnBET3dVcGpicFNpVVNSUmZyRkY2VkdpaG1jQzNzYnNHZUE3TTJ1S3ppd1RqdDY3MVRzUmhnRVUxTnp1WUVPR1hpamlOM3ZhcHVkWVZTTzNoRUlNR1pPdkozbU80eWFKdmF4Z3Y1MGdBTVVoOTZ3YWtRcExMUmRIcnhidTZJV21SQXFrVTBFMUd6REJYZm1lb1MtMmNDcndVZWN2Y3JhM3RQMzRGaV9pdkhS?oc=5)
-
-2026-07-20 <span class="news-indication-tag">濕疹</span>
-
-來源：[晴報 Sky Post](https://news.google.com/rss/articles/CBMi5ANBVV95cUxOVVV2SkJDSGx4SHRkRjUwTGQ3ck5XakJ5cElfSlhVMEdsWTJWd0Q4SzNjNnBPWGdGVFVYNU1RaHVfMm5kOG1ic0tjaHJMX2JyRG9mNjVKdXUxeWNHT0R6ajEtWTJLeW9xb3FUeVJxQm9IYXdUa0kzTHF1ZjlYN0F2ZFcxQy1ESXFlRDlVU3hnWjUydkNPVVNPbGgxVWFpV19rajlaWVk3LUY4bk5sRXNmU3ViNGtxX0hHVnpzZEl4R3FBNGNiMDgzdmRYeDBiSEFwVDlPUlBydjJScTVGTG53VnJhNU1vUGVjSE81R05wRnVEczJsYy1wY0VVNHBPenpVQUNrVkVIWnFPOEVOV0JFZ2ZFT19MZjFZZFBhTk5OSzdoTVlTc0FKc1Y0WE9BTjRuS2hDaHRLRXhnUnBET3dVcGpicFNpVVNSUmZyRkY2VkdpaG1jQzNzYnNHZUE3TTJ1S3ppd1RqdDY3MVRzUmhnRVUxTnp1WUVPR1hpamlOM3ZhcHVkWVZTTzNoRUlNR1pPdkozbU80eWFKdmF4Z3Y1MGdBTVVoOTZ3YWtRcExMUmRIcnhidTZJV21SQXFrVTBFMUd6REJYZm1lb1MtMmNDcndVZWN2Y3JhM3RQMzRGaV9pdkhS?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [致死人數僅次於癌症醫：保護心血管落實4件事- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tWUg1RU13UVozNGpqVzZaQkNXa1ZXcGtiLUJST1ZUZFA4aUtFVm1oWGRHczh2czg2ZGloVVlxMmJJR0plMEdDVVBiUy1VeFdXWWJjZWVrZi1EcUJqaUxzaXBEUGpkRnNTQVRGMWF3?oc=5)
 
-2026-07-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">更年期</span>
+2026-07-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tWUg1RU13UVozNGpqVzZaQkNXa1ZXcGtiLUJST1ZUZFA4aUtFVm1oWGRHczh2czg2ZGloVVlxMmJJR0plMEdDVVBiUy1VeFdXWWJjZWVrZi1EcUJqaUxzaXBEUGpkRnNTQVRGMWF3?oc=5)
 

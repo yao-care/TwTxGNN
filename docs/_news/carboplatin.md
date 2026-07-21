@@ -27,7 +27,7 @@ permalink: /news/carboplatin/
 <li><strong>原適應症</strong>：HER2 陽性早期乳癌、轉移性乳癌、黑色素瘤、非小細胞肺癌、何杰金氏淋巴瘤、頭頸部鱗狀細胞癌、泌尿道上皮癌等</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（99.9%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（99.9%）</li>
 <li>rectum mucinous adenocarcinoma（99.3%）</li>
 <li>colon mucinous adenocarcinoma（99.3%）</li>
 <li>adult germ cell tumor（99.2%）</li>
@@ -54,7 +54,7 @@ permalink: /news/carboplatin/
 
 ### [致死人數僅次於癌症醫：保護心血管落實4件事- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tWUg1RU13UVozNGpqVzZaQkNXa1ZXcGtiLUJST1ZUZFA4aUtFVm1oWGRHczh2czg2ZGloVVlxMmJJR0plMEdDVVBiUy1VeFdXWWJjZWVrZi1EcUJqaUxzaXBEUGpkRnNTQVRGMWF3?oc=5)
 
-2026-07-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">更年期</span>
+2026-07-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tWUg1RU13UVozNGpqVzZaQkNXa1ZXcGtiLUJST1ZUZFA4aUtFVm1oWGRHczh2czg2ZGloVVlxMmJJR0plMEdDVVBiUy1VeFdXWWJjZWVrZi1EcUJqaUxzaXBEUGpkRnNTQVRGMWF3?oc=5)
 

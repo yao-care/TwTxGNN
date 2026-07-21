@@ -27,7 +27,7 @@ permalink: /news/anastrozole/
 <li><strong>原適應症</strong>：停經後婦女晚期乳癌、荷爾蒙接受器陽性早期乳癌輔助治療</li>
 <li><strong>證據等級</strong>：L1</li>
 <li><strong>預測適應症</strong>（6 個）：<ul>
-<li class="indication-matched">female breast carcinoma（99.7%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（99.7%）</li>
 <li>neuroblastoma（99.5%）</li>
 <li>vertebral anomalies and variable endocrine and T-cell dysfunction（99.4%）</li>
 <li>ganglioneuroblastoma (disease)（99.4%）</li>
@@ -42,7 +42,7 @@ permalink: /news/anastrozole/
 
 ### [致死人數僅次於癌症醫：保護心血管落實4件事- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tWUg1RU13UVozNGpqVzZaQkNXa1ZXcGtiLUJST1ZUZFA4aUtFVm1oWGRHczh2czg2ZGloVVlxMmJJR0plMEdDVVBiUy1VeFdXWWJjZWVrZi1EcUJqaUxzaXBEUGpkRnNTQVRGMWF3?oc=5)
 
-2026-07-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">更年期</span>
+2026-07-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tWUg1RU13UVozNGpqVzZaQkNXa1ZXcGtiLUJST1ZUZFA4aUtFVm1oWGRHczh2czg2ZGloVVlxMmJJR0plMEdDVVBiUy1VeFdXWWJjZWVrZi1EcUJqaUxzaXBEUGpkRnNTQVRGMWF3?oc=5)
 

@@ -27,7 +27,7 @@ permalink: /news/hydroxyurea/
 <li><strong>原適應症</strong>：慢性骨髓性白血病、骨髓纖維化、真性紅血球增多症、卵巢癌、頭頸癌</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（100.0%）</li>
 <li>sickle cell-hemoglobin E disease syndrome（99.7%）</li>
 <li>sickle cell-hemoglobin c disease syndrome（99.7%）</li>
 <li>hereditary persistence of fetal hemoglobin-sickle cell disease syndrome（99.7%）</li>
@@ -54,7 +54,7 @@ permalink: /news/hydroxyurea/
 
 ### [致死人數僅次於癌症醫：保護心血管落實4件事- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tWUg1RU13UVozNGpqVzZaQkNXa1ZXcGtiLUJST1ZUZFA4aUtFVm1oWGRHczh2czg2ZGloVVlxMmJJR0plMEdDVVBiUy1VeFdXWWJjZWVrZi1EcUJqaUxzaXBEUGpkRnNTQVRGMWF3?oc=5)
 
-2026-07-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">更年期</span>
+2026-07-20 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tWUg1RU13UVozNGpqVzZaQkNXa1ZXcGtiLUJST1ZUZFA4aUtFVm1oWGRHczh2czg2ZGloVVlxMmJJR0plMEdDVVBiUy1VeFdXWWJjZWVrZi1EcUJqaUxzaXBEUGpkRnNTQVRGMWF3?oc=5)
 
