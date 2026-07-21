@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-21T18:10:19.617254+00:00",
+  "fetched_at": "2026-07-21T20:14:12.876343+00:00",
   "count": 16,
   "news": [
-    {
-      "id": "95e8fa5b6b8b",
-      "title": "防曬做太好，好到缺乏維他命D？如何精準攝取維他命D？ - Vogue Taiwan",
-      "published": "2026-07-21T02:34:23+00:00",
-      "summary": "防曬做太好，好到缺乏維他命D？如何精準攝取維他命D？&nbsp;&nbsp;Vogue Taiwan",
-      "sources": [
-        {
-          "name": "Vogue Taiwan",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUmNNTEpXLXQ3MTJicHZ0Vl95RVY2Z2p1a3BYalBTZ1M1cWdfQWwtNVJ1VU9WU0lBUnphal9Nb21DSUlYNDN1RG4xWWlFc014VjBSamd6dE9GRmtZNFIxdjlWeXBOLUVieDNSRkNWNnJXaVdHTVNPZ2dWMjd0eE83THk3T3RSaFlHbW1YbXR3NmdLLXZUbzc5djVKN0dDWGEwendjaGN2QkdpOGpJYkgxOXlHNG5aOEg1U2VKSVJTZEhOd1FDM3JzcDhBUVhHaE0teU9SS0R1NTRFNzR0aEE?oc=5"
-        }
-      ]
-    },
     {
       "id": "7dd29fb0629f",
       "title": "全球首例，來自父親的捐贈：六歲男童成為首位透過單一機械人切口接受肝臟移植的患者 - 新頭條",
@@ -24,6 +12,18 @@
         {
           "name": "新頭條",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BWEZJRk9hZnpWTGc2QzM1VmRWbHFFRWtHbEZJejFVVUg4d20zQk5zTzk3UWNjTVdQZFpvVXBVTjZzaEROLTIzMnBENmVWNDVyYzV6MA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "95e8fa5b6b8b",
+      "title": "防曬做太好，好到缺乏維他命D？如何精準攝取維他命D？ - Vogue Taiwan",
+      "published": "2026-07-21T02:34:23+00:00",
+      "summary": "防曬做太好，好到缺乏維他命D？如何精準攝取維他命D？&nbsp;&nbsp;Vogue Taiwan",
+      "sources": [
+        {
+          "name": "Vogue Taiwan",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUmNNTEpXLXQ3MTJicHZ0Vl95RVY2Z2p1a3BYalBTZ1M1cWdfQWwtNVJ1VU9WU0lBUnphal9Nb21DSUlYNDN1RG4xWWlFc014VjBSamd6dE9GRmtZNFIxdjlWeXBOLUVieDNSRkNWNnJXaVdHTVNPZ2dWMjd0eE83THk3T3RSaFlHbW1YbXR3NmdLLXZUbzc5djVKN0dDWGEwendjaGN2QkdpOGpJYkgxOXlHNG5aOEg1U2VKSVJTZEhOd1FDM3JzcDhBUVhHaE0teU9SS0R1NTRFNzR0aEE?oc=5"
         }
       ]
     },
@@ -40,13 +40,13 @@
       ]
     },
     {
-      "id": "64d8247b8ba5",
-      "title": "加拿大華人牙醫爆未依規定消毒 近900人恐染愛滋病、肝炎 - AM730",
+      "id": "6cd6c947ba12",
+      "title": "加拿大華人牙醫爆未依規定消毒 近900人恐染愛滋病、肝炎 - am730",
       "published": "2026-07-20T03:18:00+00:00",
-      "summary": "加拿大華人牙醫爆未依規定消毒 近900人恐染愛滋病、肝炎&nbsp;&nbsp;AM730前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "加拿大華人牙醫爆未依規定消毒 近900人恐染愛滋病、肝炎&nbsp;&nbsp;am730前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPOGNxSjhLd0VhTmdDM2ZkTU5aMzNhSDFQemNuMHV5cjhtaXMybm0tRHk2bGp1VklZMklhOFBWUWxzM1I0MTY0X0RNdUY4UXZ5T185VnBvMnJjaV8zajRYaGZMbENOTVJDWTZVSkVYYU51QVdMNF80VHY3V1dOaUFpai1heFdVMW16bjVvWEs5ajRrMkJLSjFLZHBJTGRxS2NhX0Q1amhPWHU2VnRBLU45Q0RiNktWWmFuX1VuT1kwTWZna1JLYzA2dEdWOUNJc2NtLWlhMkhLR1k4NTA5c0lPNFBZaVI4UTIxNWdnUXdiSGpuQU9EOTBzMXVoemd6dG1tX0dadVMtN1pnU1BsdTRsTzJJajZmeVJlRTZPbklXUVhnZGpoRmkzMjNnQlZ3ZDZEaGNSTVBaM3VjSk1UQU1pYXFTRjJHd1dwWHI5M2hoQWJnODRlWm1NQnpXczJuOFZxM2xaNEJCYjZYREtKa0ltTGtZbHNWVXFnSUptcA?oc=5"
         }
       ]
@@ -76,14 +76,14 @@
       ]
     },
     {
-      "id": "55decdf7f774",
+      "id": "27a66c0f1f5b",
       "title": "壞膽固醇超標可增心血管病風險 美國心臟學會新指引︰19歲起定期量度血脂水平 - 香港經濟日報HKET",
       "published": "2026-07-21T03:38:56+00:00",
       "summary": "壞膽固醇超標可增心血管病風險 美國心臟學會新指引︰19歲起定期量度血脂水平&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41XzVsc2pKUGlFWTdVTFpOWS13d1ZSS01MM0JhaHllRjZrZ003YXZWUmIyc1RvUDdHeVBvYmNrbm1UWkZod09FUEF0XzBuTTVxcVE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQckhfOVFhOVluRmQwNnJranU0eHpiMUJZQlFQYlUwZERHMThCdkZqM3FHeFkwSG5sbmg4S0g4bnlJU2VENnVyUkh6Zkl2cUdlTnpLV0JULVZUMjcyS3ZyOGl6MHpuVXdSX2xrZmRSN2lCcXA2dk1DY0hFdUhxakZGdVk5RTJQNXBQQ0VPZmY5RGVTbGZJOHlEQXZLN1JRdG02Y3VUQUpJcmdXLXVXWlZwYWtDM0s2WXhIaUY1U0FoekN5cU1JRXc5SXdNNkMtcWpQY1VzTmVnRlMwUUdtLTZIR0JyTEZ0SUFSY1ZXSUhISVMzLVpqX25LQUdoQUZQRnFxQXh3eFhxS0Ita1FoeWxiYXlyU08xNE9BRjFOTHE0LUgxamFLLVZxMFBjaTFGMEp6REJwRjg4XzFDTzI4aVU1b09Zb2cwNlpYXzJYb0hsN3AwRWVTRWpIdTluQ1ctbzNWbW1IbUhHQzI5QVdOSTUxQVQ2T01YaVhrUEJFUnU3SXVUUmp6cnVMR0lFSkEwdlJBemNWaVFrWnVvQ0VDd0NxcWlVNW1wQWtSdnUwWXdWUHZiN1VmX3FmeGJ1ZG5WNmFVMkFoTUdDb0NyRlI0a3NycU9URGZEQzRRYnBTUUt1LVYtTGw3TVFKZFlFOWNMZ3praWxseDhSTnJuUmJvU0ZQSm9KZGJscXhrUWFQVWxB?oc=5"
         }
       ]
     },
@@ -112,14 +112,14 @@
       ]
     },
     {
-      "id": "90f800c2194c",
-      "title": "醫療險一次領3／乳癌一期只賠20%？ 急診醫揭重傷險關鍵差異：拿卡全額賠 - Yahoo新聞",
-      "published": "2026-07-19T22:29:00+00:00",
-      "summary": "醫療險一次領3／乳癌一期只賠20%？ 急診醫揭重傷險關鍵差異：拿卡全額賠&nbsp;&nbsp;Yahoo新聞",
+      "id": "a579ef6a6272",
+      "title": "醫療險一次領3／乳癌一期只賠20%？ 急診醫揭重傷險關鍵差異：拿卡全額賠 - 鏡報",
+      "published": "2026-07-20T10:40:40+00:00",
+      "summary": "醫療險一次領3／乳癌一期只賠20%？ 急診醫揭重傷險關鍵差異：拿卡全額賠&nbsp;&nbsp;鏡報",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxObVZoVmZEYnBUOVlYMEhtTV9UQUZqbkRvdzYzRnl3VUpydnVxWE94ZTlYaUFqamRRR2hmWUZaRGZZUy03RFY1ZTdQLTN2dUQ3Z2NTYlhLbVR5WWlKS2loX1Brd1JqT1ZQYUFGcGI0YmdDb1BURm5KQXdPOFRXZktTRklOcDNZSmlrbnp6UThMcHRjSXJNc3JjUjU2OGp2TlI5LTRkX09xaWtobXhlNmxhN1d2bi1za3JvRGFaYmpsU0FDUFI5eWZ6cmxLNVpZZHdUT1FwQlB0NG5oY0lSZkhLOXAxUzZLN0xWMThKVHRySDRLN2VKVG9sSlpMTDFaanE0TWtuZkR0Y212WHI0dnZGQnBEcV9ZbUlOallVM3lsLWdHUnAxeWotVkEwTl9MZWp4MFpqSnhQbXEwbkc5VHJ4OHNfSUxWQVF6a1hOdk5YSkFDV0lJcS05Sw?oc=5"
+          "name": "鏡報",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xOVAzSlByTWwyM1dFSTFFR0todTVPa2xreHZaM0pkZVgzZXJvRVRZbE1wd2UxYmFOci1ISGhNSEZ4OGRHM1hBY0FUd0VHeEVHX24xX0htREo?oc=5"
         }
       ]
     },
