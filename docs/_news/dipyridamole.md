@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,23 +42,9 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [高劑量質子治療 乳癌存活率達100% 輻射量低減心臟病風險](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhM1JzeXF0N05oOFZ1aktvLXpRYVJFQkFlVTN4cFhpVy1xSUJiRkdOeDNuMHBEUVpFV3ZKOXI0UmwtS0ctTUhGOERyT3ZiZEk?oc=5)
-
-2026-07-21 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhM1JzeXF0N05oOFZ1aktvLXpRYVJFQkFlVTN4cFhpVy1xSUJiRkdOeDNuMHBEUVpFV3ZKOXI0UmwtS0ctTUhGOERyT3ZiZEk?oc=5)
-
----
-
-### [虛擬實境結合神經刺激：中風後復健呈功能改善的初步結果 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiywFBVV95cUxNQXJMM2JqdG5TTGVzdTRxRkxsV0JJUzI3YWNrUDRKVDdSUUsxbHZDeFp5ZF9NZ2JDSmw4X2cwVGU2d08xV2dWYmhyMlRuMXVQUWU5QUlTRmhNM2tsbTUxUGs3cGNmR3lxbnRsbTZFemh6Sko4QUlrc3dzYnd0el9oX3k0Nk1ORXRpRU15VEtoc2lQRk81LTYxQUZVS2dKNEJncnZHb0JGZS10Ni1iRDYwT1ktMUpnYlBDb3lwbTF3VUNDLWtOUFcyWUxSMA?oc=5)
-
-2026-07-21 <span class="news-indication-tag">中風</span>
-
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiywFBVV95cUxNQXJMM2JqdG5TTGVzdTRxRkxsV0JJUzI3YWNrUDRKVDdSUUsxbHZDeFp5ZF9NZ2JDSmw4X2cwVGU2d08xV2dWYmhyMlRuMXVQUWU5QUlTRmhNM2tsbTUxUGs3cGNmR3lxbnRsbTZFemh6Sko4QUlrc3dzYnd0el9oX3k0Nk1ORXRpRU15VEtoc2lQRk81LTYxQUZVS2dKNEJncnZHb0JGZS10Ni1iRDYwT1ktMUpnYlBDb3lwbTF3VUNDLWtOUFcyWUxSMA?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
