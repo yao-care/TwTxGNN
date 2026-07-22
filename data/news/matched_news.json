@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-22T16:17:28.802319+00:00",
-  "total_count": 24,
+  "last_updated": "2026-07-22T18:02:16.989124+00:00",
+  "total_count": 23,
   "matched_count": 6,
   "news": [
     {
@@ -648,19 +648,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "fe0929fe21e9",
-      "title": "買保健品不只看成分！從原料到食安，專家揭下一波健康品挑選關鍵",
-      "published": "2026-07-20T16:00:00+00:00",
-      "summary": "買保健品不只看成分！從原料到食安，專家揭下一波健康品挑選關鍵&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0dWZhWFhwcWsxcExYN1JDYnVrcF9pZzRValpRNDhnS09lN2ZjdlZlQVBkWlhrUFlodkhYY00wUUhyOU1CVVFRZkEyaEdvTjgy?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
