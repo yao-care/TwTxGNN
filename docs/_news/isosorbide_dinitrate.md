@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,23 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [高劑量質子治療 乳癌存活率達100% 輻射量低減心臟病風險](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhM1JzeXF0N05oOFZ1aktvLXpRYVJFQkFlVTN4cFhpVy1xSUJiRkdOeDNuMHBEUVpFV3ZKOXI0UmwtS0ctTUhGOERyT3ZiZEk?oc=5)
+
+2026-07-21 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">乳癌</span>
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhM1JzeXF0N05oOFZ1aktvLXpRYVJFQkFlVTN4cFhpVy1xSUJiRkdOeDNuMHBEUVpFV3ZKOXI0UmwtS0ctTUhGOERyT3ZiZEk?oc=5)
+
+---
+
+### [壞膽固醇超標可增心血管病風險 美國心臟學會新指引︰19歲起定期量度血脂水平](https://news.google.com/rss/articles/CBMijgRBVV95cUxQckhfOVFhOVluRmQwNnJranU0eHpiMUJZQlFQYlUwZERHMThCdkZqM3FHeFkwSG5sbmg4S0g4bnlJU2VENnVyUkh6Zkl2cUdlTnpLV0JULVZUMjcyS3ZyOGl6MHpuVXdSX2xrZmRSN2lCcXA2dk1DY0hFdUhxakZGdVk5RTJQNXBQQ0VPZmY5RGVTbGZJOHlEQXZLN1JRdG02Y3VUQUpJcmdXLXVXWlZwYWtDM0s2WXhIaUY1U0FoekN5cU1JRXc5SXdNNkMtcWpQY1VzTmVnRlMwUUdtLTZIR0JyTEZ0SUFSY1ZXSUhISVMzLVpqX25LQUdoQUZQRnFxQXh3eFhxS0Ita1FoeWxiYXlyU08xNE9BRjFOTHE0LUgxamFLLVZxMFBjaTFGMEp6REJwRjg4XzFDTzI4aVU1b09Zb2cwNlpYXzJYb0hsN3AwRWVTRWpIdTluQ1ctbzNWbW1IbUhHQzI5QVdOSTUxQVQ2T01YaVhrUEJFUnU3SXVUUmp6cnVMR0lFSkEwdlJBemNWaVFrWnVvQ0VDd0NxcWlVNW1wQWtSdnUwWXdWUHZiN1VmX3FmeGJ1ZG5WNmFVMkFoTUdDb0NyRlI0a3NycU9URGZEQzRRYnBTUUt1LVYtTGw3TVFKZFlFOWNMZ3praWxseDhSTnJuUmJvU0ZQSm9KZGJscXhrUWFQVWxB?oc=5)
+
+2026-07-21 <span class="news-indication-tag">心血管</span>
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMijgRBVV95cUxQckhfOVFhOVluRmQwNnJranU0eHpiMUJZQlFQYlUwZERHMThCdkZqM3FHeFkwSG5sbmg4S0g4bnlJU2VENnVyUkh6Zkl2cUdlTnpLV0JULVZUMjcyS3ZyOGl6MHpuVXdSX2xrZmRSN2lCcXA2dk1DY0hFdUhxakZGdVk5RTJQNXBQQ0VPZmY5RGVTbGZJOHlEQXZLN1JRdG02Y3VUQUpJcmdXLXVXWlZwYWtDM0s2WXhIaUY1U0FoekN5cU1JRXc5SXdNNkMtcWpQY1VzTmVnRlMwUUdtLTZIR0JyTEZ0SUFSY1ZXSUhISVMzLVpqX25LQUdoQUZQRnFxQXh3eFhxS0Ita1FoeWxiYXlyU08xNE9BRjFOTHE0LUgxamFLLVZxMFBjaTFGMEp6REJwRjg4XzFDTzI4aVU1b09Zb2cwNlpYXzJYb0hsN3AwRWVTRWpIdTluQ1ctbzNWbW1IbUhHQzI5QVdOSTUxQVQ2T01YaVhrUEJFUnU3SXVUUmp6cnVMR0lFSkEwdlJBemNWaVFrWnVvQ0VDd0NxcWlVNW1wQWtSdnUwWXdWUHZiN1VmX3FmeGJ1ZG5WNmFVMkFoTUdDb0NyRlI0a3NycU9URGZEQzRRYnBTUUt1LVYtTGw3TVFKZFlFOWNMZ3praWxseDhSTnJuUmJvU0ZQSm9KZGJscXhrUWFQVWxB?oc=5)
+
+---
 
 
 <div class="disclaimer">

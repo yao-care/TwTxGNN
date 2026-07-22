@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/hydroxyurea/
 <li><strong>原適應症</strong>：慢性骨髓性白血病、骨髓纖維化、真性紅血球增多症、卵巢癌、頭頸癌</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>female breast carcinoma（100.0%）</li>
+<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
 <li>sickle cell-hemoglobin E disease syndrome（99.7%）</li>
 <li>sickle cell-hemoglobin c disease syndrome（99.7%）</li>
 <li>hereditary persistence of fetal hemoglobin-sickle cell disease syndrome（99.7%）</li>
@@ -42,9 +42,31 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（3 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [「五十而智識享」：當癌症殺不死我們 神經退化病治療「更值錢」 - 明報 Our Lifestyle](https://news.google.com/rss/articles/CBMi0ANBVV95cUxORm16bGM4ZGwta0xvZU9aNUhfRElKWG5LY1Vfc1g4ejY1MFV3Z19WRlhhVnl2MHZBOVpIZ25QQnFMSzdtZVZYMmhlUnMtMXYwMkR6MkI2dkUyWlExYmd1VUdYS0huU1NRMWNiVnc1QTRLb2NjTy1OcUZOaHFWQmdieEVTMjREdmhfMUhKTWhCVjAwRlgxdVBTU1R4NlAyM3NfNENEdXRCR0NLNDViYkpSYnJleTB5Y0xiVzRiWERqbUZKSXM5RWtMUm1vSWZobXVrSGZmSi1JS1RCLVNtV2t2b3VFUkZnbzNmTzZwUFBiN3MtUHFwWU1QWXVoY1dpdFNBM1E5T3Q4RVZFM0ctZkNYd0ZqbXZnQ29IVVhHWU15M1dmVmZjWFFjbFZzZVE3azJDSExDMFVlWGR2eEFnZ2hxOVdXMEVGdkJQbE52SHkyNkEwVXZseTlCbHVqaVpVS1pPR2lTRTFvbkZWekxqWTZHODlfX2JkdVFtMXlfd3hDaUhUQ2FSTDBNd09WRjBDWUNWeVhfVFZpRTRrUEMwUHVwUGRtcWF2aG84dUsweUk0TkxRbF9kc1o1MjVUYkNMVDN1QXdGTzJZVHlEdm9LQUR0Tw?oc=5)
+
+2026-07-21 <span class="news-indication-tag">癌症</span>
+
+來源：[明報 Our Lifestyle](https://news.google.com/rss/articles/CBMi0ANBVV95cUxORm16bGM4ZGwta0xvZU9aNUhfRElKWG5LY1Vfc1g4ejY1MFV3Z19WRlhhVnl2MHZBOVpIZ25QQnFMSzdtZVZYMmhlUnMtMXYwMkR6MkI2dkUyWlExYmd1VUdYS0huU1NRMWNiVnc1QTRLb2NjTy1OcUZOaHFWQmdieEVTMjREdmhfMUhKTWhCVjAwRlgxdVBTU1R4NlAyM3NfNENEdXRCR0NLNDViYkpSYnJleTB5Y0xiVzRiWERqbUZKSXM5RWtMUm1vSWZobXVrSGZmSi1JS1RCLVNtV2t2b3VFUkZnbzNmTzZwUFBiN3MtUHFwWU1QWXVoY1dpdFNBM1E5T3Q4RVZFM0ctZkNYd0ZqbXZnQ29IVVhHWU15M1dmVmZjWFFjbFZzZVE3azJDSExDMFVlWGR2eEFnZ2hxOVdXMEVGdkJQbE52SHkyNkEwVXZseTlCbHVqaVpVS1pPR2lTRTFvbkZWekxqWTZHODlfX2JkdVFtMXlfd3hDaUhUQ2FSTDBNd09WRjBDWUNWeVhfVFZpRTRrUEMwUHVwUGRtcWF2aG84dUsweUk0TkxRbF9kc1o1MjVUYkNMVDN1QXdGTzJZVHlEdm9LQUR0Tw?oc=5)
+
+---
+
+### [高劑量質子治療 乳癌存活率達100% 輻射量低減心臟病風險](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhM1JzeXF0N05oOFZ1aktvLXpRYVJFQkFlVTN4cFhpVy1xSUJiRkdOeDNuMHBEUVpFV3ZKOXI0UmwtS0ctTUhGOERyT3ZiZEk?oc=5)
+
+2026-07-21 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">乳癌</span>
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhM1JzeXF0N05oOFZ1aktvLXpRYVJFQkFlVTN4cFhpVy1xSUJiRkdOeDNuMHBEUVpFV3ZKOXI0UmwtS0ctTUhGOERyT3ZiZEk?oc=5)
+
+---
+
+### [患癌先兆｜男子輕視「1症狀」驚罹大腸癌醫生列10種癌兆：恐身體早已求救](https://news.google.com/rss/articles/CBMi7wNBVV95cUxNZDFQRFlJb2pXamtGdy1HRzFDRUpESHk5aXdKbEpiX2hBYzVOUUxobzNLaVFHLWZjWk5tS1dFMlZOb2ZJX3hiZlVLUzFzSFl2TWVicnRpRE9uOXBpUHgtcHdLVUZmZHJGLURQdXJpZ1hHVm1KZzE1WTU3QUJvV3JXV0UtS2o0UG1vLW9VMGdpTjVSbVpKU1RBazFFSmlMMy1sU2ZsNzBXSThkdHRPakRuLXRjNmRRSGRJS1paT085QUpJSHhra3I5WlJIS3dGMUhpNmJQMlM5QkVyaGRnbzJNdTl2TUNVSUswWENUNHFna1E2aklIdkJhNXpnbS1IYi1YRUp5WlMyM2lzUEFxbU9UbUM3V3VKTXFpM2RkR29CaW1xb1dXVjNDU0tWcC0wZDRqSjdNSmVUTDhsUkNXcUxFRGxqUVk1b2JMTEphdlF2WkZqLUJrajBiNExtajZaU1NxSUtwY012alRuMXpKTk5zbzM2TVUxNGpNT29IVkd5TzJiemtDQlN5RXR6Sm9xT0VNaEVKWnVramZnMVlCaC1fVlhlWi1rU3FsUlA3enJIczJwNFU3RXR0bU9neWxyckMxOXltQzJlNXJoOWJqU25Zc0NHZUlFR0t3QjRvQVViQzk4UHhDbUFRd2ZDRElzeGs?oc=5)
+
+2026-07-20 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMi7wNBVV95cUxNZDFQRFlJb2pXamtGdy1HRzFDRUpESHk5aXdKbEpiX2hBYzVOUUxobzNLaVFHLWZjWk5tS1dFMlZOb2ZJX3hiZlVLUzFzSFl2TWVicnRpRE9uOXBpUHgtcHdLVUZmZHJGLURQdXJpZ1hHVm1KZzE1WTU3QUJvV3JXV0UtS2o0UG1vLW9VMGdpTjVSbVpKU1RBazFFSmlMMy1sU2ZsNzBXSThkdHRPakRuLXRjNmRRSGRJS1paT085QUpJSHhra3I5WlJIS3dGMUhpNmJQMlM5QkVyaGRnbzJNdTl2TUNVSUswWENUNHFna1E2aklIdkJhNXpnbS1IYi1YRUp5WlMyM2lzUEFxbU9UbUM3V3VKTXFpM2RkR29CaW1xb1dXVjNDU0tWcC0wZDRqSjdNSmVUTDhsUkNXcUxFRGxqUVk1b2JMTEphdlF2WkZqLUJrajBiNExtajZaU1NxSUtwY012alRuMXpKTk5zbzM2TVUxNGpNT29IVkd5TzJiemtDQlN5RXR6Sm9xT0VNaEVKWnVramZnMVlCaC1fVlhlWi1rU3FsUlA3enJIczJwNFU3RXR0bU9neWxyckMxOXltQzJlNXJoOWJqU25Zc0NHZUlFR0t3QjRvQVViQzk4UHhDbUFRd2ZDRElzeGs?oc=5)
+
+---
 
 
 <div class="disclaimer">
