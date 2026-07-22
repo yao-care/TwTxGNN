@@ -1,47 +1,33 @@
 {
-  "last_updated": "2026-07-22T10:58:37.093290+00:00",
-  "total_count": 24,
-  "matched_count": 8,
+  "last_updated": "2026-07-22T12:24:35.751486+00:00",
+  "total_count": 25,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "593e051ee143",
+      "title": "美國麻疹個案2295宗超去年總數 35年來最高 (18:55) - 20260722 - 國際",
+      "published": "2026-07-22T10:55:43+00:00",
+      "summary": "美國麻疹個案2295宗超去年總數 35年來最高 (18:55) - 20260722 - 國際&nbsp;&nbsp;明報新聞網",
+      "sources": [
+        {
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQaEhTMGEzaF9vN2ozcG0xa2N6eUREQUgtT0k5MmRrZmYyRTRSSTVRNjVUTUhDdktkYlpRRDB1UlMtcE9SMENyQURaNzJUZktXWkd0ZkZndDVRaGNMQlViRGVZS3NFN0oxOWRxaHR5UHpWUHNNTDhieHo3Q19rNnNUQ2o4Q3AwQ0RPbkdUakJQWUpzY3dVQ0tPdEFhYUd6WWw3TVhGOHI0VEQ4Q3JVR3JmR3hFRl81N2RiS21SOG5nZWdEc2Z4V25UeDc5TndRNVRZcjJZcjVLcDd2NXM1aWpLaG8tQmNhU3c4Ym1UdkFpTTZlUVowb285RjQ0S2lPdGZscUZ2enRtaHBLSmEzSnNJeGRlSGhKS0doVjlnQ3JneV9pRkV2RTlsUDQySUsyblBNbUtycGFJQnZHZlVIR3p2N3c0amZ4X0VBQ3MxTnIwZGRSMHpXNmJDcw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "19c36ddd3f4a",
       "title": "HPV明明是性接觸傳染為什麼11歲就要打疫苗？婦產科名醫蘇怡寧：此時效果最好保護最完整 - Mombaby 媽媽寶寶懷孕生活網",
       "published": "2026-07-22T10:34:16+00:00",
-      "summary": "HPV明明是性接觸傳染為什麼11歲就要打疫苗？婦產科名醫蘇怡寧：此時效果最好保護最完整&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網【健康資訊】專家拆解HPV迷思倡正確性健康觀念- 副刊&nbsp;&nbsp;香港文匯報HPV病毒不僅引發子宮頸癌 醫生解釋其與頭頸癌日益增長的關聯性&nbsp;&nbsp;Singtaousa婚前健檢還不夠！醫：別忽略HPV疫苗，守護自己也守護最愛的人！&nbsp;&nbsp;Yahoo新聞兩性健康｜情侶拍拖3年定期檢查仍出事！男友淪無症狀播毒者，累女友染高危HPV恐需切部分子宮&nbsp;&nbsp;etnet 經濟通",
+      "summary": "HPV明明是性接觸傳染為什麼11歲就要打疫苗？婦產科名醫蘇怡寧：此時效果最好保護最完整&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網【健康資訊】專家拆解HPV迷思倡正確性健康觀念- 副刊&nbsp;&nbsp;香港文匯報婚前健檢還不夠！醫：別忽略HPV疫苗，守護自己也守護最愛的人！&nbsp;&nbsp;Yahoo新聞兩性健康｜情侶拍拖3年定期檢查仍出事！男友淪無症狀播毒者，累女友染高危HPV恐需切部分子宮&nbsp;&nbsp;etnet 經濟通",
       "sources": [
         {
           "name": "Mombaby 媽媽寶寶懷孕生活網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tU2lrVC1SdmZJSV9teHNLajR2eWFmRkVhZ1A3cTJOY1Rtc003VW81dFBkbVhJM0FKTmVsSzhLcENBTkNHTlpJVVpDNEppYVdmNE9KS25B?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "頭頸癌",
-          "keyword": "頭頸癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "559d4a76e497",
@@ -60,7 +46,7 @@
       "id": "d09dd1b36df2",
       "title": "洗腎又骨鬆，小心「鈣」失控！洗腎患者低血鈣危機 嘉基醫師提醒定期追蹤",
       "published": "2026-07-22T07:44:37+00:00",
-      "summary": "洗腎又骨鬆，小心「鈣」失控！洗腎患者低血鈣危機 嘉基醫師提醒定期追蹤&nbsp;&nbsp;波新聞洗腎患者低血鈣危機 醫師提醒定期追蹤&nbsp;&nbsp;自由健康網洗腎骨鬆如土石流 嚴防低血鈣 | 中華日報&nbsp;&nbsp;LINE TODAY腎不好骨頭鈣質狂流失？醫示警：亂補鈣恐引發心律不整&nbsp;&nbsp;Yahoo新聞治療骨鬆防骨折 醫提警訊：當心低血鈣誘發心律不整 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "洗腎又骨鬆，小心「鈣」失控！洗腎患者低血鈣危機 嘉基醫師提醒定期追蹤&nbsp;&nbsp;波新聞洗腎患者低血鈣危機 醫師提醒定期追蹤&nbsp;&nbsp;自由健康網洗腎骨鬆如土石流 嚴防低血鈣 | 中華日報&nbsp;&nbsp;LINE TODAY腎不好骨頭鈣質狂流失？醫示警：亂補鈣恐引發心律不整&nbsp;&nbsp;Yahoo新聞治療骨鬆防骨折 醫提警訊：當心低血鈣誘發心律不整 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;news.pchome.com.tw",
       "sources": [
         {
           "name": "波新聞",
@@ -89,7 +75,7 @@
       "id": "1d9d9f399791",
       "title": "年輕脫髮竟有助防癌？研究發現：30歲前掉髮降前列腺癌風險近３成",
       "published": "2026-07-22T07:16:11+00:00",
-      "summary": "年輕脫髮竟有助防癌？研究發現：30歲前掉髮降前列腺癌風險近３成&nbsp;&nbsp;香港01禿頭福音…不是植髮！研究揭男性掉髮「隱藏優勢」 答案驚到掉下巴&nbsp;&nbsp;壹蘋新聞網雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」 | CTWANT&nbsp;&nbsp;LINE TODAY男性禿頭有意外好處？ 研究指30歲前脫髮前列腺癌風險降3成&nbsp;&nbsp;singtao.ca雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」&nbsp;&nbsp;bastillepost.com",
+      "summary": "年輕脫髮竟有助防癌？研究發現：30歲前掉髮降前列腺癌風險近３成&nbsp;&nbsp;香港01禿頭福音…不是植髮！研究揭男性掉髮「隱藏優勢」 答案驚到掉下巴&nbsp;&nbsp;壹蘋新聞網雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」 | CTWANT&nbsp;&nbsp;LINE TODAY男性禿頭有意外好處？ 研究指30歲前脫髮前列腺癌風險降3成&nbsp;&nbsp;singtao.ca雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」&nbsp;&nbsp;巴士的報",
       "sources": [
         {
           "name": "香港01",
@@ -151,14 +137,14 @@
       "matched_keywords": []
     },
     {
-      "id": "7f15ca5d9166",
+      "id": "fce6817249c4",
       "title": "甲流病毒重塑人體細胞全景圖譜繪成 為流感藥物研發提供新視角",
       "published": "2026-07-22T03:11:52+00:00",
       "summary": "甲流病毒重塑人體細胞全景圖譜繪成 為流感藥物研發提供新視角&nbsp;&nbsp;觀點網",
       "sources": [
         {
           "name": "觀點網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50aDhUYUNZa2ZoaWM0MmY2TUcyVktrSmlFT0xSNGh3cHMzLWxPYVZIVDJPcW9KRzNGbU94Ym51aG1jQ1pfb0phMXBnZDAyVHRtblhDVHRzSjdWUGoyNk1mN0Vn?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LMDRHR2VLVmRkSWdRRWYxY1lIeVl4ZHdZY0RPcFNjWDJyRDdTYlVwWjZtckdBT3BLS0UxbGhRUDRNZ0g4Z0tNdmdLa0ZlbWJkWkMzSjJZel9ETFBReUJ2Vg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -335,42 +321,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "f0045892bf6d",
-      "title": "這類食品別天天吃！營養師：恐讓腦部血流變差增失智症風險- 健康",
-      "published": "2026-07-21T11:27:25+00:00",
-      "summary": "這類食品別天天吃！營養師：恐讓腦部血流變差增失智症風險- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uTGhYV2xBN3duZHFpR25JdGZZLXNxU3hDTjJMcmM1Smw0RDRjWXk2cVpHUXNaaHFVZk5WQ0IwcDdzbDZQQzBhUGFyMjljd0tJZ2FVTndvdVg5dUEwSV9BRlF0WlFLYlBBaUZkdkFR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "a601917b71cd",
@@ -708,6 +658,19 @@
         {
           "name": "UDN",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0dWZhWFhwcWsxcExYN1JDYnVrcF9pZzRValpRNDhnS09lN2ZjdlZlQVBkWlhrUFlodkhYY00wUUhyOU1CVVFRZkEyaEdvTjgy?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "22ceebff43a3",
+      "title": "他無性卻長滿菜花！醫驚曝「更恐怖原因」：免疫力崩跌的警訊",
+      "published": "2026-07-14T01:53:24+00:00",
+      "summary": "他無性卻長滿菜花！醫驚曝「更恐怖原因」：免疫力崩跌的警訊&nbsp;&nbsp;三立新聞健身器材摸一摸就感染 醫籲HPV疫苗建立保護力&nbsp;&nbsp;三立新聞不痛不癢沒理會 菜花惡化成「花椰菜」&nbsp;&nbsp;UDN包莖男怕敏感不愛洗 一翻開「一坨異物像海葵」已染性病！&nbsp;&nbsp;news.pchome.com.tw30多歲男「生殖器變花椰菜」! 布滿小顆粒&nbsp;&nbsp;MSN",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5URy1lcldOLVoyVFBjVTgtdkpXd3JUY0lfeHhGd1BLOUt1MGdpcjJJVWlMN0NZVy1CUE54MlBaSmlrZzNWeThoWtIBTEFVX3lxTE5GUWNtVWEtcEE4TkpodmFCaDJ1dnJlVXFfN0ZvcHJFMzc5VFdkMHFjcVU3VDVfM0VMMFRqZUc2UllJcmdJbXVSc29HS0Y?oc=5"
         }
       ],
       "matched_keywords": []

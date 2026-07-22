@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [這類食品別天天吃！營養師：恐讓腦部血流變差增失智症風險- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1uTGhYV2xBN3duZHFpR25JdGZZLXNxU3hDTjJMcmM1Smw0RDRjWXk2cVpHUXNaaHFVZk5WQ0IwcDdzbDZQQzBhUGFyMjljd0tJZ2FVTndvdVg5dUEwSV9BRlF0WlFLYlBBaUZkdkFR?oc=5)
-
-2026-07-21 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1uTGhYV2xBN3duZHFpR25JdGZZLXNxU3hDTjJMcmM1Smw0RDRjWXk2cVpHUXNaaHFVZk5WQ0IwcDdzbDZQQzBhUGFyMjljd0tJZ2FVTndvdVg5dUEwSV9BRlF0WlFLYlBBaUZkdkFR?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [丹麥33萬人研究：維他命B12越補越致癌？醫揭1大警號：癌症風險暴增6倍 - UHK 港生活](https://news.google.com/rss/articles/CBMiowNBVV95cUxPUVhPNVBhR3Fya0xvQkdjYUFGSW9YYURtOXFMUXh0SzlvZHdrY0dWZElHZnBkYmRhemVOY2t5QnluR3ktX2l2LTRXdlVsVk1WRk1wWG9yNUxjNDdUWTRiUHllcFRJM1paNE9KMmdyUHJaZk9lRlJOTXpRNEN1N25WbEhJdm5rUjZ5M1pxa184N3BPOEpNVl9qRlA4TUI5Wk5NZGhKQ05fM0ozLWRSYTYydDBpeVZXZ3dIVVZoRUhVSW1KSW1lQ2ZiX3JFSlRHUml5N1paTWh6LWdYQTdjaVhNcEVxUnNhUmlaWlJ1Q3NNbG5LdzdhamVfLXpRMGpYWnZ4NU1QZDJUY2ktR2g2djBWbFFHRTl4VkVmX1Z2LXVxNXpUX3lMa252cl81ek9NeVR4WmZQNjFXdGFfUmExM1MxX1FKem5RNUowSnpHY1pJVnNqVDdlVEVBMjlVNzN5N0VjZ242MHhvUUV4WFVuNUpLVDhXcXdRamdKMVJ2dER2UEliSUlkdzZ1TVRZR3dhT1N1Qk05OFc0bWh4cTI2UXJhRWliTQ?oc=5)
 

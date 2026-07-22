@@ -1,46 +1,7 @@
 {
-  "generated": "2026-07-22T10:58:37.122428+00:00",
-  "count": 8,
+  "generated": "2026-07-22T12:24:35.779609+00:00",
+  "count": 6,
   "news": [
-    {
-      "id": "19c36ddd3f4a",
-      "title": "HPV明明是性接觸傳染為什麼11歲就要打疫苗？婦產科名醫蘇怡寧：此時效果最好保護最完整 - Mombaby 媽媽寶寶懷孕生活網",
-      "published": "2026-07-22T10:34:16+00:00",
-      "sources": [
-        {
-          "name": "Mombaby 媽媽寶寶懷孕生活網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tU2lrVC1SdmZJSV9teHNLajR2eWFmRkVhZ1A3cTJOY1Rtc003VW81dFBkbVhJM0FKTmVsSzhLcENBTkNHTlpJVVpDNEppYVdmNE9KS25B?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "頭頸癌",
-          "keyword": "頭頸癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "d09dd1b36df2",
       "title": "洗腎又骨鬆，小心「鈣」失控！洗腎患者低血鈣危機 嘉基醫師提醒定期追蹤",
@@ -171,41 +132,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f0045892bf6d",
-      "title": "這類食品別天天吃！營養師：恐讓腦部血流變差增失智症風險- 健康",
-      "published": "2026-07-21T11:27:25+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uTGhYV2xBN3duZHFpR25JdGZZLXNxU3hDTjJMcmM1Smw0RDRjWXk2cVpHUXNaaHFVZk5WQ0IwcDdzbDZQQzBhUGFyMjljd0tJZ2FVTndvdVg5dUEwSV9BRlF0WlFLYlBBaUZkdkFR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
