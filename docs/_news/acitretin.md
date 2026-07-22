@@ -14,7 +14,7 @@ permalink: /news/acitretin/
 ---
 
 <p class="key-answer" data-question="Acitretin 有什麼相關新聞？">
-<strong>Acitretin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 4 個。
+<strong>Acitretin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 4 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,9 +36,15 @@ permalink: /news/acitretin/
 <p><a href="{{ '/drugs/acitretin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [丹麥33萬人研究：維他命B12越補越致癌？醫揭1大警號：癌症風險暴增6倍 - UHK 港生活](https://news.google.com/rss/articles/CBMiowNBVV95cUxPUVhPNVBhR3Fya0xvQkdjYUFGSW9YYURtOXFMUXh0SzlvZHdrY0dWZElHZnBkYmRhemVOY2t5QnluR3ktX2l2LTRXdlVsVk1WRk1wWG9yNUxjNDdUWTRiUHllcFRJM1paNE9KMmdyUHJaZk9lRlJOTXpRNEN1N25WbEhJdm5rUjZ5M1pxa184N3BPOEpNVl9qRlA4TUI5Wk5NZGhKQ05fM0ozLWRSYTYydDBpeVZXZ3dIVVZoRUhVSW1KSW1lQ2ZiX3JFSlRHUml5N1paTWh6LWdYQTdjaVhNcEVxUnNhUmlaWlJ1Q3NNbG5LdzdhamVfLXpRMGpYWnZ4NU1QZDJUY2ktR2g2djBWbFFHRTl4VkVmX1Z2LXVxNXpUX3lMa252cl81ek9NeVR4WmZQNjFXdGFfUmExM1MxX1FKem5RNUowSnpHY1pJVnNqVDdlVEVBMjlVNzN5N0VjZ242MHhvUUV4WFVuNUpLVDhXcXdRamdKMVJ2dER2UEliSUlkdzZ1TVRZR3dhT1N1Qk05OFc0bWh4cTI2UXJhRWliTQ?oc=5)
+
+2026-07-20 <span class="news-indication-tag">癌症</span>
+
+來源：[UHK 港生活](https://news.google.com/rss/articles/CBMiowNBVV95cUxPUVhPNVBhR3Fya0xvQkdjYUFGSW9YYURtOXFMUXh0SzlvZHdrY0dWZElHZnBkYmRhemVOY2t5QnluR3ktX2l2LTRXdlVsVk1WRk1wWG9yNUxjNDdUWTRiUHllcFRJM1paNE9KMmdyUHJaZk9lRlJOTXpRNEN1N25WbEhJdm5rUjZ5M1pxa184N3BPOEpNVl9qRlA4TUI5Wk5NZGhKQ05fM0ozLWRSYTYydDBpeVZXZ3dIVVZoRUhVSW1KSW1lQ2ZiX3JFSlRHUml5N1paTWh6LWdYQTdjaVhNcEVxUnNhUmlaWlJ1Q3NNbG5LdzdhamVfLXpRMGpYWnZ4NU1QZDJUY2ktR2g2djBWbFFHRTl4VkVmX1Z2LXVxNXpUX3lMa252cl81ek9NeVR4WmZQNjFXdGFfUmExM1MxX1FKem5RNUowSnpHY1pJVnNqVDdlVEVBMjlVNzN5N0VjZ242MHhvUUV4WFVuNUpLVDhXcXdRamdKMVJ2dER2UEliSUlkdzZ1TVRZR3dhT1N1Qk05OFc0bWh4cTI2UXJhRWliTQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

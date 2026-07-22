@@ -14,7 +14,7 @@ permalink: /news/disopyramide/
 ---
 
 <p class="key-answer" data-question="Disopyramide 有什麼相關新聞？">
-<strong>Disopyramide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Disopyramide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/disopyramide/
 <p><a href="{{ '/drugs/disopyramide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [洗腎骨鬆如土石流 嚴防低血鈣 | 中華日報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iSnliZFZBaXpOb2t3c3hPMVJHbldQTjZXMldjX3FQMThKVGx5WTJiM0F2WXZyQmtsanczNFNxSEQ4RUt4Y3pnU0wyMVhCUEhlbkEtMmRn?oc=5)
 
 2026-07-22 <span class="news-indication-tag">心律不整</span>
 
 來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iSnliZFZBaXpOb2t3c3hPMVJHbldQTjZXMldjX3FQMThKVGx5WTJiM0F2WXZyQmtsanczNFNxSEQ4RUt4Y3pnU0wyMVhCUEhlbkEtMmRn?oc=5)
+
+---
+
+### [丹麥33萬人研究：維他命B12越補越致癌？醫揭1大警號：癌症風險暴增6倍 - UHK 港生活](https://news.google.com/rss/articles/CBMiowNBVV95cUxPUVhPNVBhR3Fya0xvQkdjYUFGSW9YYURtOXFMUXh0SzlvZHdrY0dWZElHZnBkYmRhemVOY2t5QnluR3ktX2l2LTRXdlVsVk1WRk1wWG9yNUxjNDdUWTRiUHllcFRJM1paNE9KMmdyUHJaZk9lRlJOTXpRNEN1N25WbEhJdm5rUjZ5M1pxa184N3BPOEpNVl9qRlA4TUI5Wk5NZGhKQ05fM0ozLWRSYTYydDBpeVZXZ3dIVVZoRUhVSW1KSW1lQ2ZiX3JFSlRHUml5N1paTWh6LWdYQTdjaVhNcEVxUnNhUmlaWlJ1Q3NNbG5LdzdhamVfLXpRMGpYWnZ4NU1QZDJUY2ktR2g2djBWbFFHRTl4VkVmX1Z2LXVxNXpUX3lMa252cl81ek9NeVR4WmZQNjFXdGFfUmExM1MxX1FKem5RNUowSnpHY1pJVnNqVDdlVEVBMjlVNzN5N0VjZ242MHhvUUV4WFVuNUpLVDhXcXdRamdKMVJ2dER2UEliSUlkdzZ1TVRZR3dhT1N1Qk05OFc0bWh4cTI2UXJhRWliTQ?oc=5)
+
+2026-07-20 <span class="news-indication-tag">癌症</span>
+
+來源：[UHK 港生活](https://news.google.com/rss/articles/CBMiowNBVV95cUxPUVhPNVBhR3Fya0xvQkdjYUFGSW9YYURtOXFMUXh0SzlvZHdrY0dWZElHZnBkYmRhemVOY2t5QnluR3ktX2l2LTRXdlVsVk1WRk1wWG9yNUxjNDdUWTRiUHllcFRJM1paNE9KMmdyUHJaZk9lRlJOTXpRNEN1N25WbEhJdm5rUjZ5M1pxa184N3BPOEpNVl9qRlA4TUI5Wk5NZGhKQ05fM0ozLWRSYTYydDBpeVZXZ3dIVVZoRUhVSW1KSW1lQ2ZiX3JFSlRHUml5N1paTWh6LWdYQTdjaVhNcEVxUnNhUmlaWlJ1Q3NNbG5LdzdhamVfLXpRMGpYWnZ4NU1QZDJUY2ktR2g2djBWbFFHRTl4VkVmX1Z2LXVxNXpUX3lMa252cl81ek9NeVR4WmZQNjFXdGFfUmExM1MxX1FKem5RNUowSnpHY1pJVnNqVDdlVEVBMjlVNzN5N0VjZ242MHhvUUV4WFVuNUpLVDhXcXdRamdKMVJ2dER2UEliSUlkdzZ1TVRZR3dhT1N1Qk05OFc0bWh4cTI2UXJhRWliTQ?oc=5)
 
 ---
 

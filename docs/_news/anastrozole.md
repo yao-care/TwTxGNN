@@ -14,7 +14,7 @@ permalink: /news/anastrozole/
 ---
 
 <p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
-<strong>Anastrozole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Anastrozole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,13 +38,21 @@ permalink: /news/anastrozole/
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [高劑量質子治療 乳癌存活率達100% 輻射量低減心臟病風險](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhM1JzeXF0N05oOFZ1aktvLXpRYVJFQkFlVTN4cFhpVy1xSUJiRkdOeDNuMHBEUVpFV3ZKOXI0UmwtS0ctTUhGOERyT3ZiZEk?oc=5)
 
 2026-07-21 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">乳癌</span>
 
 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhM1JzeXF0N05oOFZ1aktvLXpRYVJFQkFlVTN4cFhpVy1xSUJiRkdOeDNuMHBEUVpFV3ZKOXI0UmwtS0ctTUhGOERyT3ZiZEk?oc=5)
+
+---
+
+### [丹麥33萬人研究：維他命B12越補越致癌？醫揭1大警號：癌症風險暴增6倍 - UHK 港生活](https://news.google.com/rss/articles/CBMiowNBVV95cUxPUVhPNVBhR3Fya0xvQkdjYUFGSW9YYURtOXFMUXh0SzlvZHdrY0dWZElHZnBkYmRhemVOY2t5QnluR3ktX2l2LTRXdlVsVk1WRk1wWG9yNUxjNDdUWTRiUHllcFRJM1paNE9KMmdyUHJaZk9lRlJOTXpRNEN1N25WbEhJdm5rUjZ5M1pxa184N3BPOEpNVl9qRlA4TUI5Wk5NZGhKQ05fM0ozLWRSYTYydDBpeVZXZ3dIVVZoRUhVSW1KSW1lQ2ZiX3JFSlRHUml5N1paTWh6LWdYQTdjaVhNcEVxUnNhUmlaWlJ1Q3NNbG5LdzdhamVfLXpRMGpYWnZ4NU1QZDJUY2ktR2g2djBWbFFHRTl4VkVmX1Z2LXVxNXpUX3lMa252cl81ek9NeVR4WmZQNjFXdGFfUmExM1MxX1FKem5RNUowSnpHY1pJVnNqVDdlVEVBMjlVNzN5N0VjZ242MHhvUUV4WFVuNUpLVDhXcXdRamdKMVJ2dER2UEliSUlkdzZ1TVRZR3dhT1N1Qk05OFc0bWh4cTI2UXJhRWliTQ?oc=5)
+
+2026-07-20 <span class="news-indication-tag">癌症</span>
+
+來源：[UHK 港生活](https://news.google.com/rss/articles/CBMiowNBVV95cUxPUVhPNVBhR3Fya0xvQkdjYUFGSW9YYURtOXFMUXh0SzlvZHdrY0dWZElHZnBkYmRhemVOY2t5QnluR3ktX2l2LTRXdlVsVk1WRk1wWG9yNUxjNDdUWTRiUHllcFRJM1paNE9KMmdyUHJaZk9lRlJOTXpRNEN1N25WbEhJdm5rUjZ5M1pxa184N3BPOEpNVl9qRlA4TUI5Wk5NZGhKQ05fM0ozLWRSYTYydDBpeVZXZ3dIVVZoRUhVSW1KSW1lQ2ZiX3JFSlRHUml5N1paTWh6LWdYQTdjaVhNcEVxUnNhUmlaWlJ1Q3NNbG5LdzdhamVfLXpRMGpYWnZ4NU1QZDJUY2ktR2g2djBWbFFHRTl4VkVmX1Z2LXVxNXpUX3lMa252cl81ek9NeVR4WmZQNjFXdGFfUmExM1MxX1FKem5RNUowSnpHY1pJVnNqVDdlVEVBMjlVNzN5N0VjZ242MHhvUUV4WFVuNUpLVDhXcXdRamdKMVJ2dER2UEliSUlkdzZ1TVRZR3dhT1N1Qk05OFc0bWh4cTI2UXJhRWliTQ?oc=5)
 
 ---
 
