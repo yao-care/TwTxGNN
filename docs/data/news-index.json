@@ -1,210 +1,30 @@
 {
-  "generated": "2026-07-22T01:48:59.363181+00:00",
-  "count": 6,
+  "generated": "2026-07-22T05:11:02.168270+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "7b6dca346588",
-      "title": "「五十而智識享」：當癌症殺不死我們 神經退化病治療「更值錢」 - 明報 Our Lifestyle",
-      "published": "2026-07-21T20:30:00+00:00",
+      "id": "8c0a789353d8",
+      "title": "洗腎骨鬆如土石流 嚴防低血鈣 | 中華日報 - LINE TODAY",
+      "published": "2026-07-22T03:28:54+00:00",
       "sources": [
         {
-          "name": "明報 Our Lifestyle",
-          "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxORm16bGM4ZGwta0xvZU9aNUhfRElKWG5LY1Vfc1g4ejY1MFV3Z19WRlhhVnl2MHZBOVpIZ25QQnFMSzdtZVZYMmhlUnMtMXYwMkR6MkI2dkUyWlExYmd1VUdYS0huU1NRMWNiVnc1QTRLb2NjTy1OcUZOaHFWQmdieEVTMjREdmhfMUhKTWhCVjAwRlgxdVBTU1R4NlAyM3NfNENEdXRCR0NLNDViYkpSYnJleTB5Y0xiVzRiWERqbUZKSXM5RWtMUm1vSWZobXVrSGZmSi1JS1RCLVNtV2t2b3VFUkZnbzNmTzZwUFBiN3MtUHFwWU1QWXVoY1dpdFNBM1E5T3Q4RVZFM0ctZkNYd0ZqbXZnQ29IVVhHWU15M1dmVmZjWFFjbFZzZVE3azJDSExDMFVlWGR2eEFnZ2hxOVdXMEVGdkJQbE52SHkyNkEwVXZseTlCbHVqaVpVS1pPR2lTRTFvbkZWekxqWTZHODlfX2JkdVFtMXlfd3hDaUhUQ2FSTDBNd09WRjBDWUNWeVhfVFZpRTRrUEMwUHVwUGRtcWF2aG84dUsweUk0TkxRbF9kc1o1MjVUYkNMVDN1QXdGTzJZVHlEdm9LQUR0Tw?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iSnliZFZBaXpOb2t3c3hPMVJHbldQTjZXMldjX3FQMThKVGx5WTJiM0F2WXZyQmtsanczNFNxSEQ4RUt4Y3pnU0wyMVhCUEhlbkEtMmRn?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
+          "name": "心律不整",
+          "keyword": "心律不整",
           "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
             {
               "slug": "acebutolol",
               "name": "Acebutolol"
             },
             {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
               "slug": "disopyramide",
               "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
             }
           ]
         }
@@ -353,13 +173,37 @@
       ]
     },
     {
-      "id": "27a66c0f1f5b",
+      "id": "a601917b71cd",
+      "title": "預防嬰幼兒呼吸道細胞融合病毒RSV怎麼做？RSV單株抗體、RSV孕婦疫苗差在哪？醫解析重症與氣喘風險 - PanSci 泛科學",
+      "published": "2026-07-21T05:54:33+00:00",
+      "sources": [
+        {
+          "name": "PanSci 泛科學",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BOFdiM05QS3VHTEs0YVpvR2t1NDlqLVU3TUxLZzRsZF9QUW14UV9laHdrVTNNaVlzSHlFTjhnY1c5ZEZTUkNRaXBGYw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "氣喘",
+          "keyword": "氣喘",
+          "related_drugs": [
+            {
+              "slug": "dupilumab",
+              "name": "Dupilumab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "55decdf7f774",
       "title": "壞膽固醇超標可增心血管病風險 美國心臟學會新指引︰19歲起定期量度血脂水平",
       "published": "2026-07-21T03:38:56+00:00",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQckhfOVFhOVluRmQwNnJranU0eHpiMUJZQlFQYlUwZERHMThCdkZqM3FHeFkwSG5sbmg4S0g4bnlJU2VENnVyUkh6Zkl2cUdlTnpLV0JULVZUMjcyS3ZyOGl6MHpuVXdSX2xrZmRSN2lCcXA2dk1DY0hFdUhxakZGdVk5RTJQNXBQQ0VPZmY5RGVTbGZJOHlEQXZLN1JRdG02Y3VUQUpJcmdXLXVXWlZwYWtDM0s2WXhIaUY1U0FoekN5cU1JRXc5SXdNNkMtcWpQY1VzTmVnRlMwUUdtLTZIR0JyTEZ0SUFSY1ZXSUhISVMzLVpqX25LQUdoQUZQRnFxQXh3eFhxS0Ita1FoeWxiYXlyU08xNE9BRjFOTHE0LUgxamFLLVZxMFBjaTFGMEp6REJwRjg4XzFDTzI4aVU1b09Zb2cwNlpYXzJYb0hsN3AwRWVTRWpIdTluQ1ctbzNWbW1IbUhHQzI5QVdOSTUxQVQ2T01YaVhrUEJFUnU3SXVUUmp6cnVMR0lFSkEwdlJBemNWaVFrWnVvQ0VDd0NxcWlVNW1wQWtSdnUwWXdWUHZiN1VmX3FmeGJ1ZG5WNmFVMkFoTUdDb0NyRlI0a3NycU9URGZEQzRRYnBTUUt1LVYtTGw3TVFKZFlFOWNMZ3praWxseDhSTnJuUmJvU0ZQSm9KZGJscXhrUWFQVWxB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41XzVsc2pKUGlFWTdVTFpOWS13d1ZSS01MM0JhaHllRjZrZ003YXZWUmIyc1RvUDdHeVBvYmNrbm1UWkZod09FUEF0XzBuTTVxcVE?oc=5"
         }
       ],
       "keywords": [
