@@ -36,11 +36,11 @@ permalink: /news/acebutolol/
 
 ## 相關新聞（2 則）
 
-### [洗腎骨鬆如土石流 嚴防低血鈣 | 中華日報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iSnliZFZBaXpOb2t3c3hPMVJHbldQTjZXMldjX3FQMThKVGx5WTJiM0F2WXZyQmtsanczNFNxSEQ4RUt4Y3pnU0wyMVhCUEhlbkEtMmRn?oc=5)
+### [洗腎又骨鬆，小心「鈣」失控！洗腎患者低血鈣危機 嘉基醫師提醒定期追蹤](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pcEVrRXVmNlJpMjByWlkxbVJJOWFDX2Fock40b1ZCc2dtR0FKNURWdXVmdS1rQ3Vtc05RbjhEMlJyTUVrRnFlWUFkTXkwd2tLOGhXTWF1VmF2VVRESk9RYU5zSQ?oc=5)
 
 2026-07-22 <span class="news-indication-tag">心律不整</span>
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iSnliZFZBaXpOb2t3c3hPMVJHbldQTjZXMldjX3FQMThKVGx5WTJiM0F2WXZyQmtsanczNFNxSEQ4RUt4Y3pnU0wyMVhCUEhlbkEtMmRn?oc=5)
+來源：[波新聞](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pcEVrRXVmNlJpMjByWlkxbVJJOWFDX2Fock40b1ZCc2dtR0FKNURWdXVmdS1rQ3Vtc05RbjhEMlJyTUVrRnFlWUFkTXkwd2tLOGhXTWF1VmF2VVRESk9RYU5zSQ?oc=5)
 
 ---
 
