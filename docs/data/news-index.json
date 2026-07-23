@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-23T19:00:27.690058+00:00",
-  "count": 5,
+  "generated": "2026-07-23T20:51:27.869993+00:00",
+  "count": 4,
   "news": [
     {
       "id": "653cd32b65cd",
@@ -205,45 +205,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7adefe3b207a",
-      "title": "健康網》11歲為何要打HPV疫苗 醫：提早建免疫城牆",
-      "published": "2026-07-23T08:44:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnbzBwazVqcGY5eHNMREtKSWlnRWhiUzV6dU1RQm5lMWF1SDY4N2JYMzJsbWVhYW93cU11V2xkTnlXX2VFcnlRNEo5NC1CdzZ1MWlJam5hdGkzdHc2YWYzQzFnWEbSAWpBVV95cUxPdXpfX2ZJbkJkN0dpdktLU1lDSzd6bzZBLWc2d3lyUmtESTBBRDJYM01iSkh6Y3FQYXcxeXlPYVJobTRzU2xpeEFXX3pBUVZiZGhhR3lwQWVrUEdQSkpUT2lnNi00cnplN1lB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "頭頸癌",
-          "keyword": "頭頸癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }

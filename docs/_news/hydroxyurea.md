@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTWpzTnNGVmtqaEJhM2cxeWNYRWRDMUpZM3A5ZkFxMmcxenVmMC14NmRqM3kyM0QySENEZkYtbWhxTU05ZGRjbDVuLUpPVktQZEg0WFdB?oc=5)
 
 2026-07-23 <span class="news-indication-tag">癌症</span>
 
 來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTWpzTnNGVmtqaEJhM2cxeWNYRWRDMUpZM3A5ZkFxMmcxenVmMC14NmRqM3kyM0QySENEZkYtbWhxTU05ZGRjbDVuLUpPVktQZEg0WFdB?oc=5)
-
----
-
-### [健康網》11歲為何要打HPV疫苗 醫：提早建免疫城牆](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnbzBwazVqcGY5eHNMREtKSWlnRWhiUzV6dU1RQm5lMWF1SDY4N2JYMzJsbWVhYW93cU11V2xkTnlXX2VFcnlRNEo5NC1CdzZ1MWlJam5hdGkzdHc2YWYzQzFnWEbSAWpBVV95cUxPdXpfX2ZJbkJkN0dpdktLU1lDSzd6bzZBLWc2d3lyUmtESTBBRDJYM01iSkh6Y3FQYXcxeXlPYVJobTRzU2xpeEFXX3pBUVZiZGhhR3lwQWVrUEdQSkpUT2lnNi00cnplN1lB?oc=5)
-
-2026-07-23 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">頭頸癌</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnbzBwazVqcGY5eHNMREtKSWlnRWhiUzV6dU1RQm5lMWF1SDY4N2JYMzJsbWVhYW93cU11V2xkTnlXX2VFcnlRNEo5NC1CdzZ1MWlJam5hdGkzdHc2YWYzQzFnWEbSAWpBVV95cUxPdXpfX2ZJbkJkN0dpdktLU1lDSzd6bzZBLWc2d3lyUmtESTBBRDJYM01iSkh6Y3FQYXcxeXlPYVJobTRzU2xpeEFXX3pBUVZiZGhhR3lwQWVrUEdQSkpUT2lnNi00cnplN1lB?oc=5)
 
 ---
 
