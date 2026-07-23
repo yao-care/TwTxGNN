@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-07-23T05:19:53.134335+00:00",
-  "total_count": 23,
-  "matched_count": 5,
+  "last_updated": "2026-07-23T08:13:05.384266+00:00",
+  "total_count": 25,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "1cc198f1120b",
+      "title": "暑假出遊帶長輩要注意！醫提醒：骨鬆高危族群「下車跨步」也可能骨折",
+      "published": "2026-07-23T07:10:00+00:00",
+      "summary": "暑假出遊帶長輩要注意！醫提醒：骨鬆高危族群「下車跨步」也可能骨折&nbsp;&nbsp;優活健康網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "優活健康網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55OFp5Uzc3MUVwZ2NoYmhFelhlS19TbzhyM2Q2NDRYaVk3X1VMTFRpMVdEckVXQWJZR2ZrR0dWQU9OVFF4alZCbFcxLVkyVktWVDJj?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "108d23643a00",
+      "title": "「吹住風扇瞓」藏4大健康風險？夏天長期開風扇要注意！有機會引發過敏/炎症！",
+      "published": "2026-07-23T07:06:00+00:00",
+      "summary": "「吹住風扇瞓」藏4大健康風險？夏天長期開風扇要注意！有機會引發過敏/炎症！&nbsp;&nbsp;ezone.hk",
+      "sources": [
+        {
+          "name": "ezone.hk",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbXJpc25TaUd1U04tZ1dsTFBGUGIzakpSMnIzcEVWNWx0SUczX1R1c3F1azI2VTF3VlZwZFpKTmJhTUROQUxWRy04cDFXQzlGM3BBRGozZC1DNTR6bVFYb2pydEJBcTh4d2RHZUlOSFVaTk50d2FFUnF6YmhuYUs0M2pjWUZJV21yV3IyUjc2YTZPNGlsVGYtWDl0RWd6T0h6Rjd1Q3hpTThoREZ0WGpnLUZqY1pkTjBGOFNsTXpZaEJSd0g1bUVDcDdueUdaTDZs?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "4964850443d7",
       "title": "美國麻疹病例突破2295例創35年新高 專家憂接種率不足恐危及消除成果 - Taiwan News",
@@ -17,23 +43,10 @@
       "matched_keywords": []
     },
     {
-      "id": "5e96e73b2511",
-      "title": "HPV明明是性接觸傳染，為何11歲就要打疫苗？醫師揭關鍵原因：越早打保護力越強",
-      "published": "2026-07-23T03:10:05+00:00",
-      "summary": "HPV明明是性接觸傳染，為何11歲就要打疫苗？醫師揭關鍵原因：越早打保護力越強&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNeWxNVEtYZHVZeW5fcFFMTkZSN0xaVUNtU2MteUE4dXl5UmhwbDdLN1dZeVltcDJNNmVxcDhFOWZDWERsM05MOFA2cVkzdjRSVGFwMHNlMEw3bG04S3ktRnhfOG1GUkVSRXdxVGhCREs3enBzNktER1F2dkRyekNXRnVVV2VLeXFOcERqMkRaeHNXdGxpUE4zLWp1TUNhWWpJeGFqZHMxa2Z6OUFIelhqSUUzb0QwbzNnLVBndVU5Z3pSbXgwSHpEMTc3TVNvalNLSk5Ka2xmT3BRWWYtNzJrMkVpVFBlRGRnMEJlcklPUVBSSHp0QUttQVBtakNERnFyTS11XzI0U3gwakN0OXFiNlBEX0tWRHp3UGxkQTlmUEhsbFVFczA5WktveUpoZU5nb3RpNXdjU1ZGWnF3T0lMMkVxeVFfZ2N6OGNEUlN1UmV4QVlEYWhrY2I2SzdmcnNiQVhNOVozRUVleWM4MDRTRldJdEgxeVY5OTlwQUtOMlVoWC1UN184aGluZTk2bnk2U1E0bTBUQ2ZpRFVZVHZpX0MxQU0zR2pDQW5uYW5OUXltWGZSNEUxc2ptcl9DdXk2WGwzZzJwd1NnN21FelBqNFZ3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "35a1a6205dc6",
       "title": "50歲男「戒糖仍一堆慢性病」！醫揪奪命習慣：比糖還毒",
       "published": "2026-07-23T02:30:16+00:00",
-      "summary": "50歲男「戒糖仍一堆慢性病」！醫揪奪命習慣：比糖還毒&nbsp;&nbsp;Yahoo新聞",
+      "summary": "50歲男「戒糖仍一堆慢性病」！醫揪奪命習慣：比糖還毒&nbsp;&nbsp;Yahoo新聞疲勞又肌少竟是體內在慢火燒？營養師曝抗發炎關鍵：先改吃這食物- 營養好食&nbsp;&nbsp;TVBS 健康2.0戒糖還是一堆慢性病醫揪奪命習慣：養出根源- 健康&nbsp;&nbsp;中時新聞網5養生習慣過頭反傷身害慢性發炎- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網莫名疲累？醫師推這幾款天然好物，吃對抗發炎！&nbsp;&nbsp;東森新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -291,6 +304,19 @@
       "matched_keywords": []
     },
     {
+      "id": "bc9f23d7e67d",
+      "title": "從守護細胞到支持免疫力，它被稱為抗老化營養素",
+      "published": "2026-07-22T21:18:05+00:00",
+      "summary": "從守護細胞到支持免疫力，它被稱為抗老化營養素&nbsp;&nbsp;美南新聞",
+      "sources": [
+        {
+          "name": "美南新聞",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE85N0pyTW8xVTVfSDNtNks0R05pcWwzMndnbl9wY3Z6LUMzWDloTHFnTUk5LXNyUnVzdExmLXNTRkZaT3h2?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "af26de2bbce0",
       "title": "美國大規模研究揭示多發性硬化症死亡率差異與高血壓風險警訊 - GeneOnline News",
       "published": "2026-07-22T20:05:25+00:00",
@@ -333,14 +359,79 @@
       "matched_keywords": []
     },
     {
-      "id": "559d4a76e497",
-      "title": "看電視比久坐更傷大腦！中年追劇過頭「記憶與思考區域恐縮水」",
-      "published": "2026-07-22T08:58:35+00:00",
-      "summary": "看電視比久坐更傷大腦！中年追劇過頭「記憶與思考區域恐縮水」&nbsp;&nbsp;科技島",
+      "id": "19c36ddd3f4a",
+      "title": "HPV明明是性接觸傳染為什麼11歲就要打疫苗？婦產科名醫蘇怡寧：此時效果最好保護最完整 - Mombaby 媽媽寶寶懷孕生活網",
+      "published": "2026-07-22T10:34:16+00:00",
+      "summary": "HPV明明是性接觸傳染為什麼11歲就要打疫苗？婦產科名醫蘇怡寧：此時效果最好保護最完整&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網HPV疫苗白打了？醫師揭「枕邊人1習慣」恐讓子宮頸免疫力失守，風險激增70%&nbsp;&nbsp;Yahoo新聞兩性健康｜情侶拍拖3年定期檢查仍出事！男友淪無症狀播毒者，累女友染高危HPV恐需切部分子宮&nbsp;&nbsp;etnet 經濟通HPV病毒不僅引發子宮頸癌 醫生解釋其與頭頸癌日益增長的關聯性&nbsp;&nbsp;SingtaousaHPV明明是性接觸傳染，為何11歲就要打疫苗？醫師揭關鍵原因：越早打保護力越強&nbsp;&nbsp;鏡新聞",
       "sources": [
         {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GbWdsSi1VSk1qTlFQMjJ1SGtOWkJVRUtid09heTY0RmUyQ1pmQ0dTZjhKSEl0dWE2R0ZsZzZja2RLazdrSW53YTlqNjQ4Q2hXcFhpVE5ETWl6Q2RXQWVZ?oc=5"
+          "name": "Mombaby 媽媽寶寶懷孕生活網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tU2lrVC1SdmZJSV9teHNLajR2eWFmRkVhZ1A3cTJOY1Rtc003VW81dFBkbVhJM0FKTmVsSzhLcENBTkNHTlpJVVpDNEppYVdmNE9KS25B?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "頭頸癌",
+          "keyword": "頭頸癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34447c49f101",
+      "title": "看電視比久坐更傷大腦！中年追劇過頭「記憶與思考區域恐縮水」 - PChome Online 新聞",
+      "published": "2026-07-22T08:58:35+00:00",
+      "summary": "看電視比久坐更傷大腦！中年追劇過頭「記憶與思考區域恐縮水」&nbsp;&nbsp;PChome Online 新聞久坐會傷身！研究曝「加做1事」害大腦萎縮：不是上網&nbsp;&nbsp;Yahoo新聞不是坐多久的問題！研究追蹤逾20年：坐著「做什麼」才是關鍵&nbsp;&nbsp;中天新聞網養生／坐著也能減輕失智風險？研究：關鍵在是否動腦&nbsp;&nbsp;世界新聞網研究：某種「久坐方式」 恐比其他坐法更易增失智風險&nbsp;&nbsp;MSN",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV2JSNjdEc3R0Y1cyMzlFT2VyODM0ZFdJeHRLaEwxRTVhZ0UzSDFZd0dTRGdCUUlwbk9XbFVnZ3Nmd3hOUE1RWE1yWWZrLWppdXN4ZFBOQVRUdE9YNlFLRVF4ZE9Ub3E2QUQ1YzNUenM5YjJub2ttNElGcDB0dnY5UGRpQzM3VjlTT01BVQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6fc9dd67cd98",
+      "title": "流感︱前港姐冠軍翁嘉穗全家外遊中流感72歲富商老公鄔友正高燒至39.7℃ 病足10日嘆過於放縱身體響警鐘",
+      "published": "2026-07-22T08:17:24+00:00",
+      "summary": "流感︱前港姐冠軍翁嘉穗全家外遊中流感72歲富商老公鄔友正高燒至39.7℃ 病足10日嘆過於放縱身體響警鐘&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxQczlnWjQ4LUstVVNjZkhhLTBxUXVvQ2hwaURTUUFQQ09jY2UxeTQ2R3JON1Z0QlFiNWVmV2xWZkVteUFLVzl5VzM2WlZtdDFBQ21fY0gxcFZRWmV2b1dXWENUVVM2bE13RXJpVzJhMFZxcUVxZnd0bTc1Z2hablV5YVBkcGpPb2o5Z0pPZEtXdWtySzdVVnp3aTREeHJpTkFmWlZQTG5kcjdiOUFZUWQ3ejQ2T3ZHai05dk4wNTlVYUdBdkg3N0hCNFdnMFUwd0FUblFPSEozZUFIUXY0Q3FUUHJ1ZHk0UTNIUGVzZFoyWGRqOW9jMXdUVDQtem5pOFU4SnFQaWcteG9mbER1RUVOTlhhcm9Ga29uaHJIOGlKLXdYUGRqbEJNUV84MXcwcW9sM1BJeHl1dkpBTUI0U3ZqdTlDdmdTdGs5QjZ0ZDNHTUhySWpoZlU4OHZfcmxDc25JeHpwU0NKeFI2eXpHd2pGV0EtTnlsa1RNMGd3VzRyN29jTXQ0ejZiYkhMbFd3Q3JOVlNKRjN4UllRNlM3TWlJa0VNNDFRX2JLcFY1c1VXQnk2cDgwMlRzZUR5X0hLRlVUaVFON2ZVVHRCWm9jNHVwVnp0MVVMakZRSmdYQ3pBWERvTHVjNWYxYWtWeUNnVVVVZzNvRDZXdzdRS2NBRUlmUDNrbGZzSlJ1X0s2MVRzOUd2c1ZGN1VYc3RPeGtzQ1lOOGxjNmtpMWEzM0RtTE9SYVpid1RwSnF5NnhId2pDOHh4TGRVSTdIRFpFMHhtODNzWUJoQmE1dHhqY3VWdmhKR2k4eF9VclI2Mzk4SEJOOWJKbjJmWGRJag?oc=5"
         }
       ],
       "matched_keywords": []
@@ -388,27 +479,14 @@
       "matched_keywords": []
     },
     {
-      "id": "835fa6f747bc",
+      "id": "3666b0400246",
       "title": "老菸槍走50公尺腳就跛血管出事了醫教吃酪梨修復- 健康",
       "published": "2026-07-22T07:16:08+00:00",
       "summary": "老菸槍走50公尺腳就跛血管出事了醫教吃酪梨修復- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81UWZlSHM3SndxNFNKUW1SWVExU3BjeHhsbjhRZVhQcUtOUXlBalBoN2pRRUIxa2M3WUxIeDlZWXBhcTdUWmxVLUtmWlliUE5kdmM4Y1VqWThWZUQxMzhOem8yWnF4dVRCVUdBbm1B?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0ac28cb96e6d",
-      "title": "瘀青、外觀變形都是骨折警訊！長輩跌倒「做錯1件事」恐讓骨折加劇",
-      "published": "2026-07-22T06:40:00+00:00",
-      "summary": "瘀青、外觀變形都是骨折警訊！長輩跌倒「做錯1件事」恐讓骨折加劇&nbsp;&nbsp;優活健康網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "優活健康網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CMzBYNDJkZ2RkWlFWMDhKRmhIRkhTVzlhY3ZDbjhKUzZCZ3B2Z1hiaGpJYnM2YTJZcHNUdG0yWlRkdUJ2YW1BeUlJWW9zREdTRWlN?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVGIzNzB4bWVsUWU4N3pXRUpGV2NzdDhaX2dlb2E1MC1BelVrUF96VkktbURrWU5sdmNTeG43a2NidU5CSV9zeTFDOF9XbUZCYkdHOG1CT2Nlb1ptQ1p4M1lmLUZ1ZUU5N2o2SnVtSVZvNjlQa1RzZ05ydVJFQ01ZcEd6RnZNZy1Kd0lPdmdzWQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -611,31 +689,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "a601917b71cd",
-      "title": "預防嬰幼兒呼吸道細胞融合病毒RSV怎麼做？RSV單株抗體、RSV孕婦疫苗差在哪？醫解析重症與氣喘風險 - PanSci 泛科學",
-      "published": "2026-07-21T05:54:33+00:00",
-      "summary": "預防嬰幼兒呼吸道細胞融合病毒RSV怎麼做？RSV單株抗體、RSV孕婦疫苗差在哪？醫解析重症與氣喘風險&nbsp;&nbsp;PanSci 泛科學",
-      "sources": [
-        {
-          "name": "PanSci 泛科學",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BOFdiM05QS3VHTEs0YVpvR2t1NDlqLVU3TUxLZzRsZF9QUW14UV9laHdrVTNNaVlzSHlFTjhnY1c5ZEZTUkNRaXBGYw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "氣喘",
-          "keyword": "氣喘",
-          "related_drugs": [
-            {
-              "slug": "dupilumab",
-              "name": "Dupilumab"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
