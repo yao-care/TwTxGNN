@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTWpzTnNGVmtqaEJhM2cxeWNYRWRDMUpZM3A5ZkFxMmcxenVmMC14NmRqM3kyM0QySENEZkYtbWhxTU05ZGRjbDVuLUpPVktQZEg0WFdB?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/metoprolol/
 2026-07-22 <span class="news-indication-tag">高血壓</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQenR3NjlhRjhqX0FabVB0Y29udnVtYzZ0VzgtWDNNejlzN1RDVDVBTHJyYlFseXItSlZBTm5oZUstd0tvVWpKekl6ajNxbjMzdF9VZ0YyeEVZdk5YYVJETUwwNjIwQUllQTVGNjB0bW1PNnFBS0Vic0VCdVRwelhzVVZPZVZqR0F4cmxqSjdWYUhSc09TN29mb3Y1UEVMLUJVa0tYN3owWFVtckFONUdNdlFXbVVSa2drQlJDLW9QeUxyazRRcGhraWFyY2lrLXVpMjBXWE5mbE1oZkcwMm5Pa3Y1ZU41azVEekI1aDdPamdTTDZuZEp0Umd3ZFhxSWtQZC04cXBtY1V3Q1lraUJ0V2gyOHk0UW41ZGRWdXJKZDBUNjV6b1hibEphc0dGa2lTY1hGcEY0aVlfTnlXWG5YWF9kaVhZUQ?oc=5)
-
----
-
-### [高劑量質子治療 乳癌存活率達100% 輻射量低減心臟病風險](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhM1JzeXF0N05oOFZ1aktvLXpRYVJFQkFlVTN4cFhpVy1xSUJiRkdOeDNuMHBEUVpFV3ZKOXI0UmwtS0ctTUhGOERyT3ZiZEk?oc=5)
-
-2026-07-21 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhM1JzeXF0N05oOFZ1aktvLXpRYVJFQkFlVTN4cFhpVy1xSUJiRkdOeDNuMHBEUVpFV3ZKOXI0UmwtS0ctTUhGOERyT3ZiZEk?oc=5)
 
 ---
 

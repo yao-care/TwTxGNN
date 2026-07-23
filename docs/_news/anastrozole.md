@@ -14,7 +14,7 @@ permalink: /news/anastrozole/
 ---
 
 <p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
-<strong>Anastrozole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Anastrozole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/anastrozole/
 <li><strong>原適應症</strong>：停經後婦女晚期乳癌、荷爾蒙接受器陽性早期乳癌輔助治療</li>
 <li><strong>證據等級</strong>：L1</li>
 <li><strong>預測適應症</strong>（6 個）：<ul>
-<li class="indication-matched">female breast carcinoma（99.7%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（99.7%）</li>
 <li>neuroblastoma（99.5%）</li>
 <li>vertebral anomalies and variable endocrine and T-cell dysfunction（99.4%）</li>
 <li>ganglioneuroblastoma (disease)（99.4%）</li>
@@ -38,21 +38,13 @@ permalink: /news/anastrozole/
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTWpzTnNGVmtqaEJhM2cxeWNYRWRDMUpZM3A5ZkFxMmcxenVmMC14NmRqM3kyM0QySENEZkYtbWhxTU05ZGRjbDVuLUpPVktQZEg0WFdB?oc=5)
 
 2026-07-23 <span class="news-indication-tag">癌症</span>
 
 來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTWpzTnNGVmtqaEJhM2cxeWNYRWRDMUpZM3A5ZkFxMmcxenVmMC14NmRqM3kyM0QySENEZkYtbWhxTU05ZGRjbDVuLUpPVktQZEg0WFdB?oc=5)
-
----
-
-### [高劑量質子治療 乳癌存活率達100% 輻射量低減心臟病風險](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhM1JzeXF0N05oOFZ1aktvLXpRYVJFQkFlVTN4cFhpVy1xSUJiRkdOeDNuMHBEUVpFV3ZKOXI0UmwtS0ctTUhGOERyT3ZiZEk?oc=5)
-
-2026-07-21 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhM1JzeXF0N05oOFZ1aktvLXpRYVJFQkFlVTN4cFhpVy1xSUJiRkdOeDNuMHBEUVpFV3ZKOXI0UmwtS0ctTUhGOERyT3ZiZEk?oc=5)
 
 ---
 
