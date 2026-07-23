@@ -1,226 +1,15 @@
 {
-  "generated": "2026-07-22T23:00:45.755021+00:00",
-  "count": 6,
+  "generated": "2026-07-23T01:56:28.684378+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "d09dd1b36df2",
-      "title": "洗腎又骨鬆，小心「鈣」失控！洗腎患者低血鈣危機 嘉基醫師提醒定期追蹤",
-      "published": "2026-07-22T07:44:37+00:00",
-      "sources": [
-        {
-          "name": "波新聞",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pcEVrRXVmNlJpMjByWlkxbVJJOWFDX2Fock40b1ZCc2dtR0FKNURWdXVmdS1rQ3Vtc05RbjhEMlJyTUVrRnFlWUFkTXkwd2tLOGhXTWF1VmF2VVRESk9RYU5zSQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "心律不整",
-          "keyword": "心律不整",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0ccff4d60634",
-      "title": "高劑量質子治療 乳癌存活率達100% 輻射量低減心臟病風險",
-      "published": "2026-07-21T16:09:25+00:00",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhM1JzeXF0N05oOFZ1aktvLXpRYVJFQkFlVTN4cFhpVy1xSUJiRkdOeDNuMHBEUVpFV3ZKOXI0UmwtS0ctTUhGOERyT3ZiZEk?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a601917b71cd",
-      "title": "預防嬰幼兒呼吸道細胞融合病毒RSV怎麼做？RSV單株抗體、RSV孕婦疫苗差在哪？醫解析重症與氣喘風險 - PanSci 泛科學",
-      "published": "2026-07-21T05:54:33+00:00",
-      "sources": [
-        {
-          "name": "PanSci 泛科學",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BOFdiM05QS3VHTEs0YVpvR2t1NDlqLVU3TUxLZzRsZF9QUW14UV9laHdrVTNNaVlzSHlFTjhnY1c5ZEZTUkNRaXBGYw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "氣喘",
-          "keyword": "氣喘",
-          "related_drugs": [
-            {
-              "slug": "dupilumab",
-              "name": "Dupilumab"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "55decdf7f774",
-      "title": "壞膽固醇超標可增心血管病風險 美國心臟學會新指引︰19歲起定期量度血脂水平",
-      "published": "2026-07-21T03:38:56+00:00",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41XzVsc2pKUGlFWTdVTFpOWS13d1ZSS01MM0JhaHllRjZrZ003YXZWUmIyc1RvUDdHeVBvYmNrbm1UWkZod09FUEF0XzBuTTVxcVE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d2dd37761efa",
-      "title": "虛擬實境結合神經刺激：中風後復健呈功能改善的初步結果 - TechNews 科技新報",
-      "published": "2026-07-21T00:32:59+00:00",
+      "id": "74017c5c7010",
+      "title": "WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 - TechNews 科技新報",
+      "published": "2026-07-23T00:21:48+00:00",
       "sources": [
         {
           "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQXJMM2JqdG5TTGVzdTRxRkxsV0JJUzI3YWNrUDRKVDdSUUsxbHZDeFp5ZF9NZ2JDSmw4X2cwVGU2d08xV2dWYmhyMlRuMXVQUWU5QUlTRmhNM2tsbTUxUGs3cGNmR3lxbnRsbTZFemh6Sko4QUlrc3dzYnd0el9oX3k0Nk1ORXRpRU15VEtoc2lQRk81LTYxQUZVS2dKNEJncnZHb0JGZS10Ni1iRDYwT1ktMUpnYlBDb3lwbTF3VUNDLWtOUFcyWUxSMA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "113092ef58f1",
-      "title": "丹麥33萬人研究：維他命B12越補越致癌？醫揭1大警號：癌症風險暴增6倍 - UHK 港生活",
-      "published": "2026-07-20T22:33:53+00:00",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPUVhPNVBhR3Fya0xvQkdjYUFGSW9YYURtOXFMUXh0SzlvZHdrY0dWZElHZnBkYmRhemVOY2t5QnluR3ktX2l2LTRXdlVsVk1WRk1wWG9yNUxjNDdUWTRiUHllcFRJM1paNE9KMmdyUHJaZk9lRlJOTXpRNEN1N25WbEhJdm5rUjZ5M1pxa184N3BPOEpNVl9qRlA4TUI5Wk5NZGhKQ05fM0ozLWRSYTYydDBpeVZXZ3dIVVZoRUhVSW1KSW1lQ2ZiX3JFSlRHUml5N1paTWh6LWdYQTdjaVhNcEVxUnNhUmlaWlJ1Q3NNbG5LdzdhamVfLXpRMGpYWnZ4NU1QZDJUY2ktR2g2djBWbFFHRTl4VkVmX1Z2LXVxNXpUX3lMa252cl81ek9NeVR4WmZQNjFXdGFfUmExM1MxX1FKem5RNUowSnpHY1pJVnNqVDdlVEVBMjlVNzN5N0VjZ242MHhvUUV4WFVuNUpLVDhXcXdRamdKMVJ2dER2UEliSUlkdzZ1TVRZR3dhT1N1Qk05OFc0bWh4cTI2UXJhRWliTQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2FXVUM4TTlRdDVUTWdSUUVvVElDbUZTYWs0OEVYdG83MTdsRjFjNFVjNmxmOEFCa2NNcGRYVGMzbjJaU29qcnZrdXo2bXJsYzNxajgwTGVFdndYdFd0cHlBZnVXY2F3amZiRWdudnlhTUstb2JaV19GOWVPLWZaXzRYR1BnY2NMZW9uVzdtVUFEaDdzbDV3?oc=5"
         }
       ],
       "keywords": [
@@ -416,6 +205,189 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d09dd1b36df2",
+      "title": "洗腎又骨鬆，小心「鈣」失控！洗腎患者低血鈣危機 嘉基醫師提醒定期追蹤",
+      "published": "2026-07-22T07:44:37+00:00",
+      "sources": [
+        {
+          "name": "波新聞",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pcEVrRXVmNlJpMjByWlkxbVJJOWFDX2Fock40b1ZCc2dtR0FKNURWdXVmdS1rQ3Vtc05RbjhEMlJyTUVrRnFlWUFkTXkwd2tLOGhXTWF1VmF2VVRESk9RYU5zSQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "心律不整",
+          "keyword": "心律不整",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0ccff4d60634",
+      "title": "高劑量質子治療 乳癌存活率達100% 輻射量低減心臟病風險",
+      "published": "2026-07-21T16:09:25+00:00",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhM1JzeXF0N05oOFZ1aktvLXpRYVJFQkFlVTN4cFhpVy1xSUJiRkdOeDNuMHBEUVpFV3ZKOXI0UmwtS0ctTUhGOERyT3ZiZEk?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a601917b71cd",
+      "title": "預防嬰幼兒呼吸道細胞融合病毒RSV怎麼做？RSV單株抗體、RSV孕婦疫苗差在哪？醫解析重症與氣喘風險 - PanSci 泛科學",
+      "published": "2026-07-21T05:54:33+00:00",
+      "sources": [
+        {
+          "name": "PanSci 泛科學",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BOFdiM05QS3VHTEs0YVpvR2t1NDlqLVU3TUxLZzRsZF9QUW14UV9laHdrVTNNaVlzSHlFTjhnY1c5ZEZTUkNRaXBGYw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "氣喘",
+          "keyword": "氣喘",
+          "related_drugs": [
+            {
+              "slug": "dupilumab",
+              "name": "Dupilumab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "55decdf7f774",
+      "title": "壞膽固醇超標可增心血管病風險 美國心臟學會新指引︰19歲起定期量度血脂水平",
+      "published": "2026-07-21T03:38:56+00:00",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41XzVsc2pKUGlFWTdVTFpOWS13d1ZSS01MM0JhaHllRjZrZ003YXZWUmIyc1RvUDdHeVBvYmNrbm1UWkZod09FUEF0XzBuTTVxcVE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
             }
           ]
         }
