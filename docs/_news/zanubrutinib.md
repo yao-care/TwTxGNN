@@ -40,11 +40,11 @@ permalink: /news/zanubrutinib/
 
 ## 相關新聞（2 則）
 
-### [AIx多體學如何應用在癌症與慢性病？Dean Ho、Hiroshi Ohno、楊志新 新、台、日權威最新解析](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ybGVtX0w5ZzhpR2gxdlhwMDhXMTFqRzVVekwwTDJycGdEUkgyMGRicnl1RVpENWY1elVxb2ZoVC14Y3pDT0JVSUlibWJFc1g0UUJhZ2tvbGVZdTBsTXF1Y19YSC1hU2ZT?oc=5)
+### [AIx多體學如何應用在癌症與慢性病？Dean Ho、Hiroshi Ohno、楊志新 新、台、日權威最新解析](https://news.google.com/rss/articles/CBMibkFVX3lxTFBIYzNteUxXZmI3WWNROFhFdFFRdFhDXy03YTE3U3ZySXp0RGc2bTktY01KWE4zTWhXOEFZaXdOTFBUSXo4RjJyWWs2cjlqdjNFR1p6NXBEemxrSHpKRm45UzJtMHNTNGFSMnFRWVV3?oc=5)
 
 2026-07-23 <span class="news-indication-tag">癌症</span>
 
-來源：[環球生技月刊](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ybGVtX0w5ZzhpR2gxdlhwMDhXMTFqRzVVekwwTDJycGdEUkgyMGRicnl1RVpENWY1elVxb2ZoVC14Y3pDT0JVSUlibWJFc1g0UUJhZ2tvbGVZdTBsTXF1Y19YSC1hU2ZT?oc=5)
+來源：[環球生技月刊](https://news.google.com/rss/articles/CBMibkFVX3lxTFBIYzNteUxXZmI3WWNROFhFdFFRdFhDXy03YTE3U3ZySXp0RGc2bTktY01KWE4zTWhXOEFZaXdOTFBUSXo4RjJyWWs2cjlqdjNFR1p6NXBEemxrSHpKRm45UzJtMHNTNGFSMnFRWVV3?oc=5)
 
 ---
 

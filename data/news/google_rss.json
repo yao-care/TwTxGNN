@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-23T22:52:28.503768+00:00",
+  "fetched_at": "2026-07-23T23:53:00.456625+00:00",
   "count": 27,
   "news": [
-    {
-      "id": "1cc198f1120b",
-      "title": "暑假出遊帶長輩要注意！醫提醒：骨鬆高危族群「下車跨步」也可能骨折 - 優活健康網",
-      "published": "2026-07-23T07:10:00+00:00",
-      "summary": "暑假出遊帶長輩要注意！醫提醒：骨鬆高危族群「下車跨步」也可能骨折&nbsp;&nbsp;優活健康網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "優活健康網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55OFp5Uzc3MUVwZ2NoYmhFelhlS19TbzhyM2Q2NDRYaVk3X1VMTFRpMVdEckVXQWJZR2ZrR0dWQU9OVFF4alZCbFcxLVkyVktWVDJj?oc=5"
-        }
-      ]
-    },
     {
       "id": "931dabad1fe9",
       "title": "50歲男「戒糖仍一堆慢性病」！醫揪奪命習慣：比糖還毒 - 三立新聞",
@@ -40,6 +28,18 @@
       ]
     },
     {
+      "id": "1cc198f1120b",
+      "title": "暑假出遊帶長輩要注意！醫提醒：骨鬆高危族群「下車跨步」也可能骨折 - 優活健康網",
+      "published": "2026-07-23T07:10:00+00:00",
+      "summary": "暑假出遊帶長輩要注意！醫提醒：骨鬆高危族群「下車跨步」也可能骨折&nbsp;&nbsp;優活健康網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "優活健康網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55OFp5Uzc3MUVwZ2NoYmhFelhlS19TbzhyM2Q2NDRYaVk3X1VMTFRpMVdEckVXQWJZR2ZrR0dWQU9OVFF4alZCbFcxLVkyVktWVDJj?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d4aa679d5300",
       "title": "全球最長壽國曝隱憂 平均11年帶病生活 - Yahoo新聞",
       "published": "2026-07-23T09:54:48+00:00",
@@ -52,18 +52,6 @@
       ]
     },
     {
-      "id": "f3c9bf1f58b9",
-      "title": "AIx多體學如何應用在癌症與慢性病？Dean Ho、Hiroshi Ohno、楊志新 新、台、日權威最新解析 - 環球生技月刊",
-      "published": "2026-07-23T15:00:00+00:00",
-      "summary": "AIx多體學如何應用在癌症與慢性病？Dean Ho、Hiroshi Ohno、楊志新 新、台、日權威最新解析&nbsp;&nbsp;環球生技月刊",
-      "sources": [
-        {
-          "name": "環球生技月刊",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ybGVtX0w5ZzhpR2gxdlhwMDhXMTFqRzVVekwwTDJycGdEUkgyMGRicnl1RVpENWY1elVxb2ZoVC14Y3pDT0JVSUlibWJFc1g0UUJhZ2tvbGVZdTBsTXF1Y19YSC1hU2ZT?oc=5"
-        }
-      ]
-    },
-    {
       "id": "efabdfae443f",
       "title": "新 CRISPR 技術強迫 RNA 變長，攝護腺癌免疫療法見曙光 - TechNews 科技新報",
       "published": "2026-07-23T09:47:02+00:00",
@@ -72,6 +60,18 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON00tTmNfeDJHNmRmSUdrSFVMZW54dUFncVVfVGZzY3A2UG5CVnMxUzI5TU8tbHFrZkJDanh1SzFIeVBwUGtLSmtKNklrcWtZTEhvaEw0V0NYbGlrVmpnSmVaem80b3F5Yko2NFpuZ0xHNlJZU2ZUOHJCX2F3bEo0U1EwRm0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9c2525274a79",
+      "title": "AIx多體學如何應用在癌症與慢性病？Dean Ho、Hiroshi Ohno、楊志新 新、台、日權威最新解析 - 環球生技月刊",
+      "published": "2026-07-23T09:07:32+00:00",
+      "summary": "AIx多體學如何應用在癌症與慢性病？Dean Ho、Hiroshi Ohno、楊志新 新、台、日權威最新解析&nbsp;&nbsp;環球生技月刊",
+      "sources": [
+        {
+          "name": "環球生技月刊",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIYzNteUxXZmI3WWNROFhFdFFRdFhDXy03YTE3U3ZySXp0RGc2bTktY01KWE4zTWhXOEFZaXdOTFBUSXo4RjJyWWs2cjlqdjNFR1p6NXBEemxrSHpKRm45UzJtMHNTNGFSMnFRWVV3?oc=5"
         }
       ]
     },
@@ -187,7 +187,7 @@
       "id": "1d9d9f399791",
       "title": "年輕脫髮竟有助防癌？研究發現：30歲前掉髮降前列腺癌風險近３成 - 香港01",
       "published": "2026-07-22T07:16:11+00:00",
-      "summary": "年輕脫髮竟有助防癌？研究發現：30歲前掉髮降前列腺癌風險近３成&nbsp;&nbsp;香港01禿頭福音…不是植髮！研究揭男性掉髮「隱藏優勢」 答案驚到掉下巴&nbsp;&nbsp;壹蘋新聞網雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」 | CTWANT&nbsp;&nbsp;LINE TODAY男性禿頭有意外好處？ 研究指30歲前脫髮前列腺癌風險降3成&nbsp;&nbsp;singtao.ca雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」&nbsp;&nbsp;巴士的報",
+      "summary": "年輕脫髮竟有助防癌？研究發現：30歲前掉髮降前列腺癌風險近３成&nbsp;&nbsp;香港01禿頭福音…不是植髮！研究揭男性掉髮「隱藏優勢」 答案驚到掉下巴&nbsp;&nbsp;壹蘋新聞網雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」 | CTWANT&nbsp;&nbsp;LINE TODAY男性禿頭有意外好處？ 研究指30歲前脫髮前列腺癌風險降3成&nbsp;&nbsp;singtao.ca雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
           "name": "香港01",
@@ -268,18 +268,6 @@
       ]
     },
     {
-      "id": "aecb90793794",
-      "title": "研究揭3大護腦食物！抗氧化、抗發炎、增進記憶一次顧 - Yahoo新聞",
-      "published": "2026-07-22T00:04:31+00:00",
-      "summary": "研究揭3大護腦食物！抗氧化、抗發炎、增進記憶一次顧&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPcHVDLU1mNjc2MlVyanBMWVZHR0pNV2dtTEhxaTh2aTVPZlpJeGJHR0NCVnlobndCWlc0MjctSHNlVWViR2lBTXBNV2o4cUhVNm9rVFdLY1pub3NsS1paalYyS0Z3RTV6QW5LdGtmRkFkQmh4bmc4akN3OF9tVjg5V2FVWWU2eDdiT1ZkYlgtNnFFYk0tRkZpbGJWVUJVbHhJWG1SV1lXM0V1Nk51QmgyYnhaUTVWZjdGQXFMTWRGS19EY21KdUtBdm4yaGRpMFJtUDR6b0k3M1U1Q0FmRGhFUVhIb0w3dlZvVG9NeVpUNHRITDhYZjBoWTBlR2ltM0dhdXBGb1NhR2hyVjJTbE8xczVZQnhtMzEtYmpCZGROWk5wV2RycHRRTGlFZjJNbEQySzc5YVdqVFk0V0lqTWxOdDB6NTl0S0hLT1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3e5dbb26473f",
       "title": "香蕉健康食譜 日本82歲婆婆教配搭醋變通便神器 3招隱藏食法公開 - 星島頭條",
       "published": "2026-07-22T05:00:01+00:00",
@@ -300,6 +288,18 @@
         {
           "name": "觀點網",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LMDRHR2VLVmRkSWdRRWYxY1lIeVl4ZHdZY0RPcFNjWDJyRDdTYlVwWjZtckdBT3BLS0UxbGhRUDRNZ0g4Z0tNdmdLa0ZlbWJkWkMzSjJZel9ETFBReUJ2Vg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aecb90793794",
+      "title": "研究揭3大護腦食物！抗氧化、抗發炎、增進記憶一次顧 - Yahoo新聞",
+      "published": "2026-07-22T00:04:31+00:00",
+      "summary": "研究揭3大護腦食物！抗氧化、抗發炎、增進記憶一次顧&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPcHVDLU1mNjc2MlVyanBMWVZHR0pNV2dtTEhxaTh2aTVPZlpJeGJHR0NCVnlobndCWlc0MjctSHNlVWViR2lBTXBNV2o4cUhVNm9rVFdLY1pub3NsS1paalYyS0Z3RTV6QW5LdGtmRkFkQmh4bmc4akN3OF9tVjg5V2FVWWU2eDdiT1ZkYlgtNnFFYk0tRkZpbGJWVUJVbHhJWG1SV1lXM0V1Nk51QmgyYnhaUTVWZjdGQXFMTWRGS19EY21KdUtBdm4yaGRpMFJtUDR6b0k3M1U1Q0FmRGhFUVhIb0w3dlZvVG9NeVpUNHRITDhYZjBoWTBlR2ltM0dhdXBGb1NhR2hyVjJTbE8xczVZQnhtMzEtYmpCZGROWk5wV2RycHRRTGlFZjJNbEQySzc5YVdqVFk0V0lqTWxOdDB6NTl0S0hLT1E?oc=5"
         }
       ]
     },
