@@ -1,50 +1,11 @@
 {
-  "generated": "2026-07-23T13:26:06.272603+00:00",
+  "generated": "2026-07-23T15:47:41.152865+00:00",
   "count": 5,
   "news": [
     {
-      "id": "7adefe3b207a",
-      "title": "健康網》11歲為何要打HPV疫苗 醫：提早建免疫城牆",
-      "published": "2026-07-23T08:44:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnbzBwazVqcGY5eHNMREtKSWlnRWhiUzV6dU1RQm5lMWF1SDY4N2JYMzJsbWVhYW93cU11V2xkTnlXX2VFcnlRNEo5NC1CdzZ1MWlJam5hdGkzdHc2YWYzQzFnWEbSAWpBVV95cUxPdXpfX2ZJbkJkN0dpdktLU1lDSzd6bzZBLWc2d3lyUmtESTBBRDJYM01iSkh6Y3FQYXcxeXlPYVJobTRzU2xpeEFXX3pBUVZiZGhhR3lwQWVrUEdQSkpUT2lnNi00cnplN1lB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "頭頸癌",
-          "keyword": "頭頸癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "653cd32b65cd",
       "title": "WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 | 科技新報 - LINE TODAY",
-      "published": "2026-07-23T08:37:30+00:00",
+      "published": "2026-07-23T09:46:28+00:00",
       "sources": [
         {
           "name": "LINE TODAY",
@@ -244,6 +205,45 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7adefe3b207a",
+      "title": "健康網》11歲為何要打HPV疫苗 醫：提早建免疫城牆",
+      "published": "2026-07-23T08:44:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnbzBwazVqcGY5eHNMREtKSWlnRWhiUzV6dU1RQm5lMWF1SDY4N2JYMzJsbWVhYW93cU11V2xkTnlXX2VFcnlRNEo5NC1CdzZ1MWlJam5hdGkzdHc2YWYzQzFnWEbSAWpBVV95cUxPdXpfX2ZJbkJkN0dpdktLU1lDSzd6bzZBLWc2d3lyUmtESTBBRDJYM01iSkh6Y3FQYXcxeXlPYVJobTRzU2xpeEFXX3pBUVZiZGhhR3lwQWVrUEdQSkpUT2lnNi00cnplN1lB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "頭頸癌",
+          "keyword": "頭頸癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
             }
           ]
         }

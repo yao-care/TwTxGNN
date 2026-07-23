@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23T13:26:06.241176+00:00",
-  "total_count": 26,
+  "last_updated": "2026-07-23T15:47:41.134203+00:00",
+  "total_count": 25,
   "matched_count": 5,
   "news": [
     {
@@ -43,49 +43,9 @@
       "matched_keywords": []
     },
     {
-      "id": "7adefe3b207a",
-      "title": "健康網》11歲為何要打HPV疫苗 醫：提早建免疫城牆",
-      "published": "2026-07-23T08:44:00+00:00",
-      "summary": "健康網》11歲為何要打HPV疫苗 醫：提早建免疫城牆&nbsp;&nbsp;自由健康網HPV疫苗白打了？醫師揭「枕邊人1習慣」恐讓子宮頸免疫力失守，風險激增70%&nbsp;&nbsp;Yahoo新聞兩性健康｜情侶拍拖3年定期檢查仍出事！男友淪無症狀播毒者，累女友染高危HPV恐需切部分子宮&nbsp;&nbsp;etnet 經濟通HPV病毒不僅引發子宮頸癌 醫生解釋其與頭頸癌日益增長的關聯性&nbsp;&nbsp;SingtaousaHPV明明是性接觸傳染，為何11歲就要打疫苗？醫師揭關鍵原因：越早打保護力越強&nbsp;&nbsp;鏡週刊Mirror Media",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnbzBwazVqcGY5eHNMREtKSWlnRWhiUzV6dU1RQm5lMWF1SDY4N2JYMzJsbWVhYW93cU11V2xkTnlXX2VFcnlRNEo5NC1CdzZ1MWlJam5hdGkzdHc2YWYzQzFnWEbSAWpBVV95cUxPdXpfX2ZJbkJkN0dpdktLU1lDSzd6bzZBLWc2d3lyUmtESTBBRDJYM01iSkh6Y3FQYXcxeXlPYVJobTRzU2xpeEFXX3pBUVZiZGhhR3lwQWVrUEdQSkpUT2lnNi00cnplN1lB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "頭頸癌",
-          "keyword": "頭頸癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "653cd32b65cd",
       "title": "WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 | 科技新報 - LINE TODAY",
-      "published": "2026-07-23T08:37:30+00:00",
+      "published": "2026-07-23T09:46:28+00:00",
       "summary": "WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -292,6 +252,46 @@
       ]
     },
     {
+      "id": "7adefe3b207a",
+      "title": "健康網》11歲為何要打HPV疫苗 醫：提早建免疫城牆",
+      "published": "2026-07-23T08:44:00+00:00",
+      "summary": "健康網》11歲為何要打HPV疫苗 醫：提早建免疫城牆&nbsp;&nbsp;自由健康網HPV疫苗白打了？醫師揭「枕邊人1習慣」恐讓子宮頸免疫力失守，風險激增70%&nbsp;&nbsp;Yahoo新聞兩性健康｜情侶拍拖3年定期檢查仍出事！男友淪無症狀播毒者，累女友染高危HPV恐需切部分子宮&nbsp;&nbsp;etnet 經濟通HPV病毒不僅引發子宮頸癌 醫生解釋其與頭頸癌日益增長的關聯性&nbsp;&nbsp;SingtaousaHPV明明是性接觸傳染，為何11歲就要打疫苗？醫師揭關鍵原因：越早打保護力越強&nbsp;&nbsp;鏡週刊Mirror Media",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnbzBwazVqcGY5eHNMREtKSWlnRWhiUzV6dU1RQm5lMWF1SDY4N2JYMzJsbWVhYW93cU11V2xkTnlXX2VFcnlRNEo5NC1CdzZ1MWlJam5hdGkzdHc2YWYzQzFnWEbSAWpBVV95cUxPdXpfX2ZJbkJkN0dpdktLU1lDSzd6bzZBLWc2d3lyUmtESTBBRDJYM01iSkh6Y3FQYXcxeXlPYVJobTRzU2xpeEFXX3pBUVZiZGhhR3lwQWVrUEdQSkpUT2lnNi00cnplN1lB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "頭頸癌",
+          "keyword": "頭頸癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1cc198f1120b",
       "title": "暑假出遊帶長輩要注意！醫提醒：骨鬆高危族群「下車跨步」也可能骨折",
       "published": "2026-07-23T07:10:00+00:00",
@@ -357,19 +357,6 @@
       "matched_keywords": []
     },
     {
-      "id": "ba8e2fbb9a00",
-      "title": "不只靠曬太陽！維生素D搭配「這類食物」 吸收率竟能狂增50%",
-      "published": "2026-07-22T23:02:51+00:00",
-      "summary": "不只靠曬太陽！維生素D搭配「這類食物」 吸收率竟能狂增50%&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxWTRfWDljOHVUN1lPUGhJXzBFRDlVaUR2YXNnU0xkeGJrVWlZTzQ3SjFRLUd3aHRIWXl5RUJmZjhNc1paR0pCczlfOGE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "a2b6ea68c84e",
       "title": "研究：使用GLP-1減重藥恐致脫髮 發生率低但確實存在",
       "published": "2026-07-22T22:39:17+00:00",
@@ -425,6 +412,19 @@
       ]
     },
     {
+      "id": "86c13cf9fc38",
+      "title": "全球首例，來自父親的捐贈：六歲男童成為首位透過單一機械人切口接受肝臟移植的患者",
+      "published": "2026-07-22T13:46:00+00:00",
+      "summary": "全球首例，來自父親的捐贈：六歲男童成為首位透過單一機械人切口接受肝臟移植的患者&nbsp;&nbsp;香港財經時報HKBT",
+      "sources": [
+        {
+          "name": "香港財經時報HKBT",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNNkY0TThiYmJPa0dIUzJmTEJCWEhvVTBzSkdLLU9lQzZwNGRhbV91elVMazI0Mk1iS2xDRGpvSTJ6WUtKc3BwcUE3T1NFVG5YU1oxQjVvUGVEX2ljREE3SWRjd0RrNVkwNl9uRHBPdGgwaEVvX25yaWlUX3pZNVhFSmM4aUxxeFpNX1V2TE96YU1jaHVLOE1BSFYwVGhzTUd3dk91Q2loSGNZUFJsMlBJMnlUY2NQelhFQlBHbWVfX1lUOUVaSEtYX2tvYzA4TG84VkI5ZUJCX2UyNkNsWkt5aVgydHFxeFlHU2FmNDh5aWpTRXgtSWFWZkwxN3NjVU9ndWZDaWpNQTVjME9EbXlIVWRQbUpoSUU0OHVYcmNLaWluZEdZODl6czdOZ0JQS0VlVWEzTGxWRHlaY0hFUUlWZnBJdzBmUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "b204f0090b74",
       "title": "史丹福兒童醫院擴展機械臂手術",
       "published": "2026-07-22T13:00:00+00:00",
@@ -470,7 +470,7 @@
       "id": "1d9d9f399791",
       "title": "年輕脫髮竟有助防癌？研究發現：30歲前掉髮降前列腺癌風險近３成",
       "published": "2026-07-22T07:16:11+00:00",
-      "summary": "年輕脫髮竟有助防癌？研究發現：30歲前掉髮降前列腺癌風險近３成&nbsp;&nbsp;香港01禿頭福音…不是植髮！研究揭男性掉髮「隱藏優勢」 答案驚到掉下巴&nbsp;&nbsp;壹蘋新聞網雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」 | CTWANT&nbsp;&nbsp;LINE TODAY男性禿頭有意外好處？ 研究指30歲前脫髮前列腺癌風險降3成&nbsp;&nbsp;singtao.ca雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」&nbsp;&nbsp;巴士的報",
+      "summary": "年輕脫髮竟有助防癌？研究發現：30歲前掉髮降前列腺癌風險近３成&nbsp;&nbsp;香港01禿頭福音…不是植髮！研究揭男性掉髮「隱藏優勢」 答案驚到掉下巴&nbsp;&nbsp;壹蘋新聞網雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」 | CTWANT&nbsp;&nbsp;LINE TODAY男性禿頭有意外好處？ 研究指30歲前脫髮前列腺癌風險降3成&nbsp;&nbsp;singtao.ca雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
           "name": "香港01",
@@ -532,6 +532,19 @@
       "matched_keywords": []
     },
     {
+      "id": "fd4a23a353e4",
+      "title": "美國 FDA 核准 Seegene USA 多重 PCR 檢測 同步偵測四種病毒",
+      "published": "2026-07-22T01:03:38+00:00",
+      "summary": "美國 FDA 核准 Seegene USA 多重 PCR 檢測 同步偵測四種病毒&nbsp;&nbsp;行銷人",
+      "sources": [
+        {
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNd0NRSTBhaGxNU2NBMDZ4c09fVS1ZdmE1VHBNQkFVeGZUMEZlc2tkZU9BTUZOOGZ5SVcyR0loaFl1ZUhyU1ljbTdxS3VKaGRSRjE0R3NTWWJQUldZQ0VzbTl5MGdiWlctNmlVSWNvRnM3blpvVmwyUkU1M2ZsSEVFYnBDTHNrN3dheDZPN2tZdUVac1hpbUFuNTBPZnQtdHJWNWtScVA2Z0VqVy1Ea00ybVVFR3RiUnpmeU1VMW5mSm12TnZCTXUtdjVWeFdfM0JYUUdOUnVibTRRWjVtSHF0Vm9RSFhkaUYwOUhmT2UwN21iQndBLWFzUWlkSFIxekFJeTJnZHVxV1l4Q2diTkxtc0RsbHZTZW02MDRDbERFREpMSFVCVWZaWnhyX1pCS0RqN3VfdWxocHJyMk5FNnI0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "7c0af0a7c275",
       "title": "自願醫保先天性疾病保障｜8歲後確診有得賠＋傳統醫保分別一覽",
       "published": "2026-07-22T00:28:05+00:00",
@@ -540,19 +553,6 @@
         {
           "name": "經濟一週",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT2otalpKNDhKbzJ4OFI3R1R5NnNfb1ctRXdva0Z4S1g4bGlDek1NM29kdFBpNElyNFZWaDJUNUdxaTdXdUZ0YWt4Y3lBdl84b0NmNmMtSXlZMmE0Q1k3cHA4VmpybnJfbFo3U0xuQlhxR1VrcGxheFRiVVZXVUIzNGdBaWZ5QVhYa0JNNUtkd0FNaG1JeDF6U1VVRWVIZWhUWGhMTnpzUGpoSVMyWTBqSDBHdlZ5cTlmQl9RZWIyaExWRDNacnBVYUFSTGZCOGFab2ZNSmpDb1EtYzJWQS1wa3VCYTI?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a3b0b99bae66",
-      "title": "美國 FDA 核准 Seegene USA 多重 PCR 檢測 同步偵測四種病毒",
-      "published": "2026-07-22T00:09:24+00:00",
-      "summary": "美國 FDA 核准 Seegene USA 多重 PCR 檢測 同步偵測四種病毒&nbsp;&nbsp;yesmedia.com.tw",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPaERZM185XzIwbHFJSXRMem9iUERtUUFVdlNvbWU1QXl0STBrS1FYWFB4VmdzNmFZZmFxalJMZUlNd1REY0xteGozUGhYZlJ1MloyWlRMM004OXljek1UUHgxVlJaZ19CNkRxQ1ZJQ0QzdVY5WUFwV3FOTEozcXNSN2JSdUM3OWlaX2FNbE5nX2hkUXhjSGJQeElSemFTX21xVDhtZW94ZGlINU9pZHNnLTlaVV9ycFpsUVowTEJpc01YN2Y5WmpxLWF6ZHEyT0E0eHU5UXRlQWxSSTFZdWg0LUNyVVQ5WHZuMkpZdzVCdjZYVVRsbjNBR0xfd2J2dWZJUzVMalh5Wnh4M1lPa1VnTGZaMTllSmdMUXFESklZTFV0QTQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -677,19 +677,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "7dd29fb0629f",
-      "title": "全球首例，來自父親的捐贈：六歲男童成為首位透過單一機械人切口接受肝臟移植的患者",
-      "published": "2026-07-21T15:39:00+00:00",
-      "summary": "全球首例，來自父親的捐贈：六歲男童成為首位透過單一機械人切口接受肝臟移植的患者&nbsp;&nbsp;新頭條",
-      "sources": [
-        {
-          "name": "新頭條",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BWEZJRk9hZnpWTGc2QzM1VmRWbHFFRWtHbEZJejFVVUg4d20zQk5zTzk3UWNjTVdQZFpvVXBVTjZzaEROLTIzMnBENmVWNDVyYzV6MA?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

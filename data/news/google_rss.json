@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-23T13:26:01.563646+00:00",
-  "count": 26,
+  "fetched_at": "2026-07-23T15:47:36.632304+00:00",
+  "count": 25,
   "news": [
     {
       "id": "1cc198f1120b",
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "ba8e2fbb9a00",
-      "title": "不只靠曬太陽！維生素D搭配「這類食物」 吸收率竟能狂增50% - 三立新聞",
-      "published": "2026-07-22T23:02:51+00:00",
-      "summary": "不只靠曬太陽！維生素D搭配「這類食物」 吸收率竟能狂增50%&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxWTRfWDljOHVUN1lPUGhJXzBFRDlVaUR2YXNnU0xkeGJrVWlZTzQ3SjFRLUd3aHRIWXl5RUJmZjhNc1paR0pCczlfOGE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d4aa679d5300",
       "title": "全球最長壽國曝隱憂 平均11年帶病生活 - Yahoo新聞",
       "published": "2026-07-23T09:54:48+00:00",
@@ -78,7 +66,7 @@
     {
       "id": "653cd32b65cd",
       "title": "WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 | 科技新報 - LINE TODAY",
-      "published": "2026-07-23T08:37:30+00:00",
+      "published": "2026-07-23T09:46:28+00:00",
       "summary": "WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -112,18 +100,6 @@
       ]
     },
     {
-      "id": "4964850443d7",
-      "title": "美國麻疹病例突破2295例創35年新高 專家憂接種率不足恐危及消除成果 - Taiwan News",
-      "published": "2026-07-23T04:26:00+00:00",
-      "summary": "美國麻疹病例突破2295例創35年新高 專家憂接種率不足恐危及消除成果&nbsp;&nbsp;Taiwan News传染性强于新冠六倍！美麻疹病例破纪录(图)&nbsp;&nbsp;CMoney美國麻疹個案2295宗超去年總數 35年來最高 (18:55) - 20260722 - 國際&nbsp;&nbsp;明報新聞網",
-      "sources": [
-        {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wc1VKd25tTkxiUHQ0NjE0aU9YZnpfbE9ERmNPWFhIZWNzLWxnYUxzbXM0MU1jaFFLa2Nab0VMTUktOERrdUo5dy1MVlJmVE5uX0JuTmpoY0g?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4d24b71ff326",
       "title": "減肥最難的不是瘦下來！研究：大腦「記住最胖時」讓身體拚命復胖 - 自由健康網",
       "published": "2026-07-22T03:50:00+00:00",
@@ -132,6 +108,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81MzZ2eWwxdWJzSGVHUGQxaDExTjl2ZktzN3BzMXI3YThjd2dKN2Y3cjNIQWVxRGs4VzdSOUhtc1JvQ0I5ak45UEtRUDFvM3RmMEFUdkl0MS1IOVZLQWZSNDBBYlTSAWpBVV95cUxPSk5PNkZKRDBSZ0lwbkd5VWpmS0o3amdIN0NvVkMxb0JOVzM1a3kwYlpYWDJ3UzZsU3czNzFWWjNVOE5GSlJEdXdtU1dhanFwdU1CNXVoTFVIQ2xWeGowS2xfekpDYTZHakRR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4964850443d7",
+      "title": "美國麻疹病例突破2295例創35年新高 專家憂接種率不足恐危及消除成果 - Taiwan News",
+      "published": "2026-07-23T04:26:00+00:00",
+      "summary": "美國麻疹病例突破2295例創35年新高 專家憂接種率不足恐危及消除成果&nbsp;&nbsp;Taiwan News传染性强于新冠六倍！美麻疹病例破纪录(图)&nbsp;&nbsp;CMoney美國麻疹個案2295宗超去年總數 35年來最高 (18:55) - 20260722 - 國際&nbsp;&nbsp;明報新聞網",
+      "sources": [
+        {
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wc1VKd25tTkxiUHQ0NjE0aU9YZnpfbE9ERmNPWFhIZWNzLWxnYUxzbXM0MU1jaFFLa2Nab0VMTUktOERrdUo5dy1MVlJmVE5uX0JuTmpoY0g?oc=5"
         }
       ]
     },
@@ -148,26 +136,26 @@
       ]
     },
     {
-      "id": "a3b0b99bae66",
-      "title": "美國 FDA 核准 Seegene USA 多重 PCR 檢測 同步偵測四種病毒 - yesmedia.com.tw",
-      "published": "2026-07-22T00:09:24+00:00",
-      "summary": "美國 FDA 核准 Seegene USA 多重 PCR 檢測 同步偵測四種病毒&nbsp;&nbsp;yesmedia.com.tw",
+      "id": "fd4a23a353e4",
+      "title": "美國 FDA 核准 Seegene USA 多重 PCR 檢測 同步偵測四種病毒 - 行銷人",
+      "published": "2026-07-22T01:03:38+00:00",
+      "summary": "美國 FDA 核准 Seegene USA 多重 PCR 檢測 同步偵測四種病毒&nbsp;&nbsp;行銷人",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPaERZM185XzIwbHFJSXRMem9iUERtUUFVdlNvbWU1QXl0STBrS1FYWFB4VmdzNmFZZmFxalJMZUlNd1REY0xteGozUGhYZlJ1MloyWlRMM004OXljek1UUHgxVlJaZ19CNkRxQ1ZJQ0QzdVY5WUFwV3FOTEozcXNSN2JSdUM3OWlaX2FNbE5nX2hkUXhjSGJQeElSemFTX21xVDhtZW94ZGlINU9pZHNnLTlaVV9ycFpsUVowTEJpc01YN2Y5WmpxLWF6ZHEyT0E0eHU5UXRlQWxSSTFZdWg0LUNyVVQ5WHZuMkpZdzVCdjZYVVRsbjNBR0xfd2J2dWZJUzVMalh5Wnh4M1lPa1VnTGZaMTllSmdMUXFESklZTFV0QTQ?oc=5"
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNd0NRSTBhaGxNU2NBMDZ4c09fVS1ZdmE1VHBNQkFVeGZUMEZlc2tkZU9BTUZOOGZ5SVcyR0loaFl1ZUhyU1ljbTdxS3VKaGRSRjE0R3NTWWJQUldZQ0VzbTl5MGdiWlctNmlVSWNvRnM3blpvVmwyUkU1M2ZsSEVFYnBDTHNrN3dheDZPN2tZdUVac1hpbUFuNTBPZnQtdHJWNWtScVA2Z0VqVy1Ea00ybVVFR3RiUnpmeU1VMW5mSm12TnZCTXUtdjVWeFdfM0JYUUdOUnVibTRRWjVtSHF0Vm9RSFhkaUYwOUhmT2UwN21iQndBLWFzUWlkSFIxekFJeTJnZHVxV1l4Q2diTkxtc0RsbHZTZW02MDRDbERFREpMSFVCVWZaWnhyX1pCS0RqN3VfdWxocHJyMk5FNnI0?oc=5"
         }
       ]
     },
     {
-      "id": "7dd29fb0629f",
-      "title": "全球首例，來自父親的捐贈：六歲男童成為首位透過單一機械人切口接受肝臟移植的患者 - 新頭條",
-      "published": "2026-07-21T15:39:00+00:00",
-      "summary": "全球首例，來自父親的捐贈：六歲男童成為首位透過單一機械人切口接受肝臟移植的患者&nbsp;&nbsp;新頭條",
+      "id": "86c13cf9fc38",
+      "title": "全球首例，來自父親的捐贈：六歲男童成為首位透過單一機械人切口接受肝臟移植的患者 - 香港財經時報HKBT",
+      "published": "2026-07-22T13:46:00+00:00",
+      "summary": "全球首例，來自父親的捐贈：六歲男童成為首位透過單一機械人切口接受肝臟移植的患者&nbsp;&nbsp;香港財經時報HKBT",
       "sources": [
         {
-          "name": "新頭條",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BWEZJRk9hZnpWTGc2QzM1VmRWbHFFRWtHbEZJejFVVUg4d20zQk5zTzk3UWNjTVdQZFpvVXBVTjZzaEROLTIzMnBENmVWNDVyYzV6MA?oc=5"
+          "name": "香港財經時報HKBT",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNNkY0TThiYmJPa0dIUzJmTEJCWEhvVTBzSkdLLU9lQzZwNGRhbV91elVMazI0Mk1iS2xDRGpvSTJ6WUtKc3BwcUE3T1NFVG5YU1oxQjVvUGVEX2ljREE3SWRjd0RrNVkwNl9uRHBPdGgwaEVvX25yaWlUX3pZNVhFSmM4aUxxeFpNX1V2TE96YU1jaHVLOE1BSFYwVGhzTUd3dk91Q2loSGNZUFJsMlBJMnlUY2NQelhFQlBHbWVfX1lUOUVaSEtYX2tvYzA4TG84VkI5ZUJCX2UyNkNsWkt5aVgydHFxeFlHU2FmNDh5aWpTRXgtSWFWZkwxN3NjVU9ndWZDaWpNQTVjME9EbXlIVWRQbUpoSUU0OHVYcmNLaWluZEdZODl6czdOZ0JQS0VlVWEzTGxWRHlaY0hFUUlWZnBJdzBmUQ?oc=5"
         }
       ]
     },
@@ -187,7 +175,7 @@
       "id": "1d9d9f399791",
       "title": "年輕脫髮竟有助防癌？研究發現：30歲前掉髮降前列腺癌風險近３成 - 香港01",
       "published": "2026-07-22T07:16:11+00:00",
-      "summary": "年輕脫髮竟有助防癌？研究發現：30歲前掉髮降前列腺癌風險近３成&nbsp;&nbsp;香港01禿頭福音…不是植髮！研究揭男性掉髮「隱藏優勢」 答案驚到掉下巴&nbsp;&nbsp;壹蘋新聞網雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」 | CTWANT&nbsp;&nbsp;LINE TODAY男性禿頭有意外好處？ 研究指30歲前脫髮前列腺癌風險降3成&nbsp;&nbsp;singtao.ca雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」&nbsp;&nbsp;巴士的報",
+      "summary": "年輕脫髮竟有助防癌？研究發現：30歲前掉髮降前列腺癌風險近３成&nbsp;&nbsp;香港01禿頭福音…不是植髮！研究揭男性掉髮「隱藏優勢」 答案驚到掉下巴&nbsp;&nbsp;壹蘋新聞網雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」 | CTWANT&nbsp;&nbsp;LINE TODAY男性禿頭有意外好處？ 研究指30歲前脫髮前列腺癌風險降3成&nbsp;&nbsp;singtao.ca雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
           "name": "香港01",
@@ -208,18 +196,6 @@
       ]
     },
     {
-      "id": "bc9f23d7e67d",
-      "title": "從守護細胞到支持免疫力，它被稱為抗老化營養素 - 美南新聞",
-      "published": "2026-07-22T21:18:05+00:00",
-      "summary": "從守護細胞到支持免疫力，它被稱為抗老化營養素&nbsp;&nbsp;美南新聞",
-      "sources": [
-        {
-          "name": "美南新聞",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE85N0pyTW8xVTVfSDNtNks0R05pcWwzMndnbl9wY3Z6LUMzWDloTHFnTUk5LXNyUnVzdExmLXNTRkZaT3h2?oc=5"
-        }
-      ]
-    },
-    {
       "id": "07527d9fb0d0",
       "title": "腰酸背痛別輕忽 醫揭胰臟癌潛在6徵兆 - 世界新聞網",
       "published": "2026-07-23T02:25:53+00:00",
@@ -228,6 +204,18 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jU1BvNFNqQzFxQVhQeWVpRzNMcXliLXVzWXcyZm9ueDhCTWJzRlhlMTNicXZqRkc1aTg0LXJ6bFR3ZkpuS3VKVkJkV1lGeU5YX1BwN0x6S3djWktiaDdFVV9B0gFnQVVfeXFMTVAza3h6eVE1MVppSUt6emt1RktMRW9ud1d3VHMwaEJ4eUpzRFE2NFNibmFFQmQxVHZHcWM3MDV5SWg4c053M2ZnczU4Xzkwc2hOeEZrQWhaWE5teklHRzg0LWVxLXpJaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bc9f23d7e67d",
+      "title": "從守護細胞到支持免疫力，它被稱為抗老化營養素 - 美南新聞",
+      "published": "2026-07-22T21:18:05+00:00",
+      "summary": "從守護細胞到支持免疫力，它被稱為抗老化營養素&nbsp;&nbsp;美南新聞",
+      "sources": [
+        {
+          "name": "美南新聞",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE85N0pyTW8xVTVfSDNtNks0R05pcWwzMndnbl9wY3Z6LUMzWDloTHFnTUk5LXNyUnVzdExmLXNTRkZaT3h2?oc=5"
         }
       ]
     },
@@ -256,18 +244,6 @@
       ]
     },
     {
-      "id": "fce6817249c4",
-      "title": "甲流病毒重塑人體細胞全景圖譜繪成 為流感藥物研發提供新視角 - 觀點網",
-      "published": "2026-07-22T03:11:52+00:00",
-      "summary": "甲流病毒重塑人體細胞全景圖譜繪成 為流感藥物研發提供新視角&nbsp;&nbsp;觀點網",
-      "sources": [
-        {
-          "name": "觀點網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LMDRHR2VLVmRkSWdRRWYxY1lIeVl4ZHdZY0RPcFNjWDJyRDdTYlVwWjZtckdBT3BLS0UxbGhRUDRNZ0g4Z0tNdmdLa0ZlbWJkWkMzSjJZel9ETFBReUJ2Vg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3e5dbb26473f",
       "title": "香蕉健康食譜 日本82歲婆婆教配搭醋變通便神器 3招隱藏食法公開 - 星島頭條",
       "published": "2026-07-22T05:00:01+00:00",
@@ -276,6 +252,18 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQQWFlWF9GU3c5WEhWOFF5eXByTTF0R2VKNDY0NUdnVEtCVFpxU1FSc0RBRmt3S2pIX01vZXB2TlVaQk1EaHExYTlYMmstc2F3a2N2aUFLMVFzX1RVYmxYU2JvME1SYkV4ZldlQTZwejdDckQzYUlVNzFYQ3hiVjlrYzctTDhuNHloakhuQUhPWGVZakM5RE1QSkl5NGxBWDg0TGIwNDI3ZUxZM0JmanM2QU9hdlViVmdTQ2h6azEtS3BUSE94SmcySV9uZnh2N3JyNm9YaVhkMWR4MEdUQ0lIX1hyVjZVWWRQcXMtT2ZLaUYxRUV2ajNwWTBuZFpCOHZTU1dNSXdBX25sZTFuNFREMXNkNWpBUmJvMUsxbjgxeE9La2RIYkd5UjNyNVVvNV9XVi14OHkwaFl6UHdyakkzVGZpVF9LaER5QzM2RGhTYTFwQlJlVEhSNEIzSzN4cjRXWGk0dXJaVl9wQ0lWVUVlQkhYS1BiTU90bTFhd1BxWjNQdG4yR0Y5TUx3ZjNiYWpCdjgxVGdpdEpOSlpHV3NycU9ncWc3UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fce6817249c4",
+      "title": "甲流病毒重塑人體細胞全景圖譜繪成 為流感藥物研發提供新視角 - 觀點網",
+      "published": "2026-07-22T03:11:52+00:00",
+      "summary": "甲流病毒重塑人體細胞全景圖譜繪成 為流感藥物研發提供新視角&nbsp;&nbsp;觀點網",
+      "sources": [
+        {
+          "name": "觀點網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LMDRHR2VLVmRkSWdRRWYxY1lIeVl4ZHdZY0RPcFNjWDJyRDdTYlVwWjZtckdBT3BLS0UxbGhRUDRNZ0g4Z0tNdmdLa0ZlbWJkWkMzSjJZel9ETFBReUJ2Vg?oc=5"
         }
       ]
     },
