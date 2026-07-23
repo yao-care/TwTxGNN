@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-23T20:51:27.839363+00:00",
-  "total_count": 26,
-  "matched_count": 4,
+  "last_updated": "2026-07-23T21:57:22.457416+00:00",
+  "total_count": 28,
+  "matched_count": 5,
   "news": [
     {
       "id": "108d23643a00",
@@ -278,6 +278,215 @@
       ]
     },
     {
+      "id": "9c2525274a79",
+      "title": "AIx多體學如何應用在癌症與慢性病？Dean Ho、Hiroshi Ohno、楊志新 新、台、日權威最新解析",
+      "published": "2026-07-23T09:07:32+00:00",
+      "summary": "AIx多體學如何應用在癌症與慢性病？Dean Ho、Hiroshi Ohno、楊志新 新、台、日權威最新解析&nbsp;&nbsp;環球生技月刊",
+      "sources": [
+        {
+          "name": "環球生技月刊",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIYzNteUxXZmI3WWNROFhFdFFRdFhDXy03YTE3U3ZySXp0RGc2bTktY01KWE4zTWhXOEFZaXdOTFBUSXo4RjJyWWs2cjlqdjNFR1p6NXBEemxrSHpKRm45UzJtMHNTNGFSMnFRWVV3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1cc198f1120b",
       "title": "暑假出遊帶長輩要注意！醫提醒：骨鬆高危族群「下車跨步」也可能骨折",
       "published": "2026-07-23T07:10:00+00:00",
@@ -291,14 +500,14 @@
       "matched_keywords": []
     },
     {
-      "id": "8713af664d7e",
-      "title": "名人健康｜52歲翁嘉穗全家遊首爾、加拿大確診流感！老公病足10日未癒慨嘆放縱惹禍 - etnet 經濟通",
+      "id": "928928e2faf5",
+      "title": "名人健康｜52歲翁嘉穗全家遊首爾、加拿大確診流感！老公病足10日未癒慨嘆放縱惹禍| 健康解「迷」 - 醫學通識- 健康好人生 - etnet 經濟通",
       "published": "2026-07-23T06:15:33+00:00",
-      "summary": "名人健康｜52歲翁嘉穗全家遊首爾、加拿大確診流感！老公病足10日未癒慨嘆放縱惹禍&nbsp;&nbsp;etnet 經濟通",
+      "summary": "名人健康｜52歲翁嘉穗全家遊首爾、加拿大確診流感！老公病足10日未癒慨嘆放縱惹禍| 健康解「迷」 - 醫學通識- 健康好人生&nbsp;&nbsp;etnet 經濟通",
       "sources": [
         {
           "name": "etnet 經濟通",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15LVo4NlgtamlGT1hsQzR0aGNNTFBSMUpEYXF1YVR1VkJ4MVZtZ01rZmpFN1E0bnladFlaelBPNElWOWhtRjZTODhxN19qSExCcUhCWE9pdUg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMijwRBVV95cUxQeHF1dUNHSGZ4RXQyaFRjbmp4SUdXWlJRVVotX2NyeTBhTVZuNzlVRDllWW5IRTRXRTFRSGF0c3NLOVZWaVZ4TE1BWnd5emdXeVVyUzduWVhvUnc2aEdvYVFaRjVlQWo4am1WWE54eG90cUR2QnhvTU0yXzNhRnNfSHlOSEt2WHhDeUktOFlhakd1MWJSVW1Nazlya2hFRDQtejM0cVg4S0p1NW9SdXlSa3hQcEVvTlVMWWZvV2NEay1UelFLd3hDZUZnRUJ6SW5MZHRMUVI2WUhsZ1kwUks5R19Gek5Bak5vdDMtVUZoeGgzbEZoTkJ3WExza2NiYi1XdjhIWVJTLXlhYlB2YTU3WmV1S2JKRll3WlRnY0JsNktXRjBXVG5tdHF3Sm9LVy1EaFExd3Y2LUlsLU14NU5iaWdDcjFZRzQtZFNtQjlVQWV1X0NXWXNYY201OEhFMmlWZ1kzU0YyclFDNFRJVTdoc0pPM0l2akZhc1Z5YUZBRlU2UU4yOENrYXp2UVdxTElvaUg4MWFnaDN5b2ZLY0JuSWUtM3g1UWlTeWxjTlR1ZTVrakszelB4UlRuV0FhYkw5RVpvVms4cFlVUFR2OGpqX09Jb2NIZlBYX1B4aUJweUVsMTBFQ001eTJGaDZpaUdRb1FDNTJRdF9La0pnLWZFb2xrWHVDanQtQW92U3Nqbw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -481,7 +690,7 @@
       "id": "1d9d9f399791",
       "title": "年輕脫髮竟有助防癌？研究發現：30歲前掉髮降前列腺癌風險近３成",
       "published": "2026-07-22T07:16:11+00:00",
-      "summary": "年輕脫髮竟有助防癌？研究發現：30歲前掉髮降前列腺癌風險近３成&nbsp;&nbsp;香港01禿頭福音…不是植髮！研究揭男性掉髮「隱藏優勢」 答案驚到掉下巴&nbsp;&nbsp;壹蘋新聞網雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」 | CTWANT&nbsp;&nbsp;LINE TODAY男性禿頭有意外好處？ 研究指30歲前脫髮前列腺癌風險降3成&nbsp;&nbsp;singtao.ca雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」&nbsp;&nbsp;巴士的報",
+      "summary": "年輕脫髮竟有助防癌？研究發現：30歲前掉髮降前列腺癌風險近３成&nbsp;&nbsp;香港01禿頭福音…不是植髮！研究揭男性掉髮「隱藏優勢」 答案驚到掉下巴&nbsp;&nbsp;壹蘋新聞網雄性禿藏意外好處 研究揭30歲前掉髮男「攝護腺癌風險降3成」 | CTWANT&nbsp;&nbsp;LINE TODAY男性禿頭有意外好處？ 研究指30歲前脫髮前列腺癌風險降3成&nbsp;&nbsp;singtao.ca雄性禿意外藏好處！研究揭：男性30歲前掉髮「1患癌風險降3成」&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
           "name": "香港01",
@@ -564,6 +773,19 @@
         {
           "name": "經濟一週",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT2otalpKNDhKbzJ4OFI3R1R5NnNfb1ctRXdva0Z4S1g4bGlDek1NM29kdFBpNElyNFZWaDJUNUdxaTdXdUZ0YWt4Y3lBdl84b0NmNmMtSXlZMmE0Q1k3cHA4VmpybnJfbFo3U0xuQlhxR1VrcGxheFRiVVZXVUIzNGdBaWZ5QVhYa0JNNUtkd0FNaG1JeDF6U1VVRWVIZWhUWGhMTnpzUGpoSVMyWTBqSDBHdlZ5cTlmQl9RZWIyaExWRDNacnBVYUFSTGZCOGFab2ZNSmpDb1EtYzJWQS1wa3VCYTI?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "aecb90793794",
+      "title": "研究揭3大護腦食物！抗氧化、抗發炎、增進記憶一次顧",
+      "published": "2026-07-22T00:04:31+00:00",
+      "summary": "研究揭3大護腦食物！抗氧化、抗發炎、增進記憶一次顧&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPcHVDLU1mNjc2MlVyanBMWVZHR0pNV2dtTEhxaTh2aTVPZlpJeGJHR0NCVnlobndCWlc0MjctSHNlVWViR2lBTXBNV2o4cUhVNm9rVFdLY1pub3NsS1paalYyS0Z3RTV6QW5LdGtmRkFkQmh4bmc4akN3OF9tVjg5V2FVWWU2eDdiT1ZkYlgtNnFFYk0tRkZpbGJWVUJVbHhJWG1SV1lXM0V1Nk51QmgyYnhaUTVWZjdGQXFMTWRGS19EY21KdUtBdm4yaGRpMFJtUDR6b0k3M1U1Q0FmRGhFUVhIb0w3dlZvVG9NeVpUNHRITDhYZjBoWTBlR2ltM0dhdXBGb1NhR2hyVjJTbE8xczVZQnhtMzEtYmpCZGROWk5wV2RycHRRTGlFZjJNbEQySzc5YVdqVFk0V0lqTWxOdDB6NTl0S0hLT1E?oc=5"
         }
       ],
       "matched_keywords": []

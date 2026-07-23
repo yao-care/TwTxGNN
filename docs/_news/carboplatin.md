@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTWpzTnNGVmtqaEJhM2cxeWNYRWRDMUpZM3A5ZkFxMmcxenVmMC14NmRqM3kyM0QySENEZkYtbWhxTU05ZGRjbDVuLUpPVktQZEg0WFdB?oc=5)
 
 2026-07-23 <span class="news-indication-tag">癌症</span>
 
 來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTWpzTnNGVmtqaEJhM2cxeWNYRWRDMUpZM3A5ZkFxMmcxenVmMC14NmRqM3kyM0QySENEZkYtbWhxTU05ZGRjbDVuLUpPVktQZEg0WFdB?oc=5)
+
+---
+
+### [AIx多體學如何應用在癌症與慢性病？Dean Ho、Hiroshi Ohno、楊志新 新、台、日權威最新解析](https://news.google.com/rss/articles/CBMibkFVX3lxTFBIYzNteUxXZmI3WWNROFhFdFFRdFhDXy03YTE3U3ZySXp0RGc2bTktY01KWE4zTWhXOEFZaXdOTFBUSXo4RjJyWWs2cjlqdjNFR1p6NXBEemxrSHpKRm45UzJtMHNTNGFSMnFRWVV3?oc=5)
+
+2026-07-23 <span class="news-indication-tag">癌症</span>
+
+來源：[環球生技月刊](https://news.google.com/rss/articles/CBMibkFVX3lxTFBIYzNteUxXZmI3WWNROFhFdFFRdFhDXy03YTE3U3ZySXp0RGc2bTktY01KWE4zTWhXOEFZaXdOTFBUSXo4RjJyWWs2cjlqdjNFR1p6NXBEemxrSHpKRm45UzJtMHNTNGFSMnFRWVV3?oc=5)
 
 ---
 
