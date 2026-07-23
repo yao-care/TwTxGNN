@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-23T15:47:41.152865+00:00",
-  "count": 5,
+  "generated": "2026-07-23T17:10:03.388382+00:00",
+  "count": 6,
   "news": [
     {
       "id": "653cd32b65cd",
@@ -272,6 +272,30 @@
             {
               "slug": "metoprolol",
               "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9ca5f3590106",
+      "title": "疱疹病毒為何與失智有關？研究揭免疫細胞恐「幫倒忙」",
+      "published": "2026-07-22T09:08:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53TTdhX3JVQVJITVp5VUNvQTBXR3R5N0J6MkF4R1RtLTI3VVlQQU15WEY0ZjlKWFZjamVIcTBUWjh3VDA0QmNkeml6VUkwdENuNm5DYkRqSUxmZUp5WXM4N1VTWGrSAWpBVV95cUxQV0hCZkx1eHoyaExxTTFaSldwWjFuT3gxVE1CTkFBRjhVczhMeF9SenNBRE1vbEVmNWJFbVBLQ1Jsbnp3QjhDTndmaWhJMjR0cVpmTHRPV3MxbnJtSHRtVldNVzhabXZyczdR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }

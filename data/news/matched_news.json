@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-23T15:47:41.134203+00:00",
-  "total_count": 25,
-  "matched_count": 5,
+  "last_updated": "2026-07-23T17:10:03.358585+00:00",
+  "total_count": 26,
+  "matched_count": 6,
   "news": [
     {
       "id": "108d23643a00",
@@ -305,19 +305,6 @@
       "matched_keywords": []
     },
     {
-      "id": "2c816835d500",
-      "title": "戒糖還是一堆慢性病醫揪奪命習慣：養出根源- 健康",
-      "published": "2026-07-23T07:02:22+00:00",
-      "summary": "戒糖還是一堆慢性病醫揪奪命習慣：養出根源- 健康&nbsp;&nbsp;中時新聞網疲勞又肌少竟是體內在慢火燒？營養師曝抗發炎關鍵：先改吃這食物- 營養好食&nbsp;&nbsp;TVBS 健康2.0戒糖還是不健康？ 醫師點名5大壞習慣更傷身&nbsp;&nbsp;壹蘋新聞網莫名疲累？醫師推這幾款天然好物，吃對抗發炎！&nbsp;&nbsp;東森新聞5養生習慣過頭反傷身害慢性發炎- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tRXZYbmhiZTdjRXBPSlR6MjhwVVVxRmE2Ti10QTFhR3lDU1N3TTBtYjBXNXlVcnNXYkRLcDB5V0RlWW9adXhfS3k0TDFMbE5CNWxZRWFtV0dnTXMzNU02ZDY0TGVpN0pwZlhwX2N3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "8713af664d7e",
       "title": "名人健康｜52歲翁嘉穗全家遊首爾、加拿大確診流感！老公病足10日未癒慨嘆放縱惹禍 - etnet 經濟通",
       "published": "2026-07-23T06:15:33+00:00",
@@ -352,6 +339,19 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jU1BvNFNqQzFxQVhQeWVpRzNMcXliLXVzWXcyZm9ueDhCTWJzRlhlMTNicXZqRkc1aTg0LXJ6bFR3ZkpuS3VKVkJkV1lGeU5YX1BwN0x6S3djWktiaDdFVV9B0gFnQVVfeXFMTVAza3h6eVE1MVppSUt6emt1RktMRW9ud1d3VHMwaEJ4eUpzRFE2NFNibmFFQmQxVHZHcWM3MDV5SWg4c053M2ZnczU4Xzkwc2hOeEZrQWhaWE5teklHRzg0LWVxLXpJaw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "931dabad1fe9",
+      "title": "50歲男「戒糖仍一堆慢性病」！醫揪奪命習慣：比糖還毒",
+      "published": "2026-07-23T02:17:51+00:00",
+      "summary": "50歲男「戒糖仍一堆慢性病」！醫揪奪命習慣：比糖還毒&nbsp;&nbsp;三立新聞戒糖還是不健康？ 醫師點名5大壞習慣更傷身&nbsp;&nbsp;壹蘋新聞網疲勞又肌少竟是體內在慢火燒？營養師曝抗發炎關鍵：先改吃這食物- 營養好食&nbsp;&nbsp;TVBS 健康2.0戒糖還是一堆慢性病醫揪奪命習慣：養出根源- 健康&nbsp;&nbsp;中時新聞網莫名疲累？醫師推這幾款天然好物，吃對抗發炎！&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VdDZjMGZSQUdZMFlqY3lqMzRjTjlVMldTNW1CMWhWNVFpSWVaR0Rmb0NNYjFVZThyVDFYRE9UNVF0YW5jdjVwWENaMXk?oc=5"
         }
       ],
       "matched_keywords": []
@@ -438,6 +438,31 @@
       "matched_keywords": []
     },
     {
+      "id": "9ca5f3590106",
+      "title": "疱疹病毒為何與失智有關？研究揭免疫細胞恐「幫倒忙」",
+      "published": "2026-07-22T09:08:00+00:00",
+      "summary": "疱疹病毒為何與失智有關？研究揭免疫細胞恐「幫倒忙」&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53TTdhX3JVQVJITVp5VUNvQTBXR3R5N0J6MkF4R1RtLTI3VVlQQU15WEY0ZjlKWFZjamVIcTBUWjh3VDA0QmNkeml6VUkwdENuNm5DYkRqSUxmZUp5WXM4N1VTWGrSAWpBVV95cUxQV0hCZkx1eHoyaExxTTFaSldwWjFuT3gxVE1CTkFBRjhVczhMeF9SenNBRE1vbEVmNWJFbVBLQ1Jsbnp3QjhDTndmaWhJMjR0cVpmTHRPV3MxbnJtSHRtVldNVzhabXZyczdR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "d09dd1b36df2",
       "title": "洗腎又骨鬆，小心「鈣」失控！洗腎患者低血鈣危機 嘉基醫師提醒定期追蹤",
       "published": "2026-07-22T07:44:37+00:00",
@@ -506,14 +531,14 @@
       "matched_keywords": []
     },
     {
-      "id": "4d24b71ff326",
+      "id": "41a7f5eb73ab",
       "title": "減肥最難的不是瘦下來！研究：大腦「記住最胖時」讓身體拚命復胖",
-      "published": "2026-07-22T03:50:00+00:00",
-      "summary": "減肥最難的不是瘦下來！研究：大腦「記住最胖時」讓身體拚命復胖&nbsp;&nbsp;自由健康網",
+      "published": "2026-07-22T04:00:04+00:00",
+      "summary": "減肥最難的不是瘦下來！研究：大腦「記住最胖時」讓身體拚命復胖&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81MzZ2eWwxdWJzSGVHUGQxaDExTjl2ZktzN3BzMXI3YThjd2dKN2Y3cjNIQWVxRGs4VzdSOUhtc1JvQ0I5ak45UEtRUDFvM3RmMEFUdkl0MS1IOVZLQWZSNDBBYlTSAWpBVV95cUxPSk5PNkZKRDBSZ0lwbkd5VWpmS0o3amdIN0NvVkMxb0JOVzM1a3kwYlpYWDJ3UzZsU3czNzFWWjNVOE5GSlJEdXdtU1dhanFwdU1CNXVoTFVIQ2xWeGowS2xfekpDYTZHakRR?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxQaUlmVVJMQjhVdk1GRlpPR2R5VU96QWY3UDVBd1lxMFJpZmtndlZmbWtseUZWV3QxV2UtU2hKVFhKOHlTTzRQM2Z0eDJkdFAyMFppSnk0Y1drMHFaZnFTam5nLUI2cnVLLS1TTTdNU3FyLVg4MnJORFJCQ0tBQkQzYTZ3VVZNc01JM1M3cWFDcnpjRFZEaFlWTHBlcHVLa0V3UVUwVGtHbEEweTFlaWx2ZHNaWXZmTmF3dmpBcGRVU244dVdfSTY4eEZmXzYyX0NxQmJsVl9DbmUxdThsUE5xWkRMeEw2QUcwUGgxZmFJN1RyWTRhVWtzTGx1Z0ZyZDIxdkppSzdBU2ZiSlUyMnFoeFNPMkhYRVBJX1h4bUZEa0ZISjlNb0xVX2VWM3JIYmpXbEhNZW03SnNjd3RVY2FqNHJfSU9pTll6ejF6MkF4T2ExemRPZVhqVUd4eU9kRk9BOGZ5MzlKSWxoVVZVSUI1N01abEo2dlVRT0VEM2Jxc1lJTmJsT0RBUW5yQ2lRREYt?oc=5"
         }
       ],
       "matched_keywords": []

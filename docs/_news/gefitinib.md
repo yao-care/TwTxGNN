@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTWpzTnNGVmtqaEJhM2cxeWNYRWRDMUpZM3A5ZkFxMmcxenVmMC14NmRqM3kyM0QySENEZkYtbWhxTU05ZGRjbDVuLUpPVktQZEg0WFdB?oc=5)
 
 2026-07-23 <span class="news-indication-tag">癌症</span>
 
 來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTWpzTnNGVmtqaEJhM2cxeWNYRWRDMUpZM3A5ZkFxMmcxenVmMC14NmRqM3kyM0QySENEZkYtbWhxTU05ZGRjbDVuLUpPVktQZEg0WFdB?oc=5)
+
+---
+
+### [疱疹病毒為何與失智有關？研究揭免疫細胞恐「幫倒忙」](https://news.google.com/rss/articles/CBMiZEFVX3lxTE53TTdhX3JVQVJITVp5VUNvQTBXR3R5N0J6MkF4R1RtLTI3VVlQQU15WEY0ZjlKWFZjamVIcTBUWjh3VDA0QmNkeml6VUkwdENuNm5DYkRqSUxmZUp5WXM4N1VTWGrSAWpBVV95cUxQV0hCZkx1eHoyaExxTTFaSldwWjFuT3gxVE1CTkFBRjhVczhMeF9SenNBRE1vbEVmNWJFbVBLQ1Jsbnp3QjhDTndmaWhJMjR0cVpmTHRPV3MxbnJtSHRtVldNVzhabXZyczdR?oc=5)
+
+2026-07-22 <span class="news-indication-tag">失智</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE53TTdhX3JVQVJITVp5VUNvQTBXR3R5N0J6MkF4R1RtLTI3VVlQQU15WEY0ZjlKWFZjamVIcTBUWjh3VDA0QmNkeml6VUkwdENuNm5DYkRqSUxmZUp5WXM4N1VTWGrSAWpBVV95cUxQV0hCZkx1eHoyaExxTTFaSldwWjFuT3gxVE1CTkFBRjhVczhMeF9SenNBRE1vbEVmNWJFbVBLQ1Jsbnp3QjhDTndmaWhJMjR0cVpmTHRPV3MxbnJtSHRtVldNVzhabXZyczdR?oc=5)
 
 ---
 
