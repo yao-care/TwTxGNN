@@ -44,19 +44,19 @@ permalink: /news/hydroxyurea/
 
 ## 相關新聞（3 則）
 
-### [WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 - TechNews 科技新報](https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2FXVUM4TTlRdDVUTWdSUUVvVElDbUZTYWs0OEVYdG83MTdsRjFjNFVjNmxmOEFCa2NNcGRYVGMzbjJaU29qcnZrdXo2bXJsYzNxajgwTGVFdndYdFd0cHlBZnVXY2F3amZiRWdudnlhTUstb2JaV19GOWVPLWZaXzRYR1BnY2NMZW9uVzdtVUFEaDdzbDV3?oc=5)
+### [健康網》11歲為何要打HPV疫苗 醫：提早建免疫城牆](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnbzBwazVqcGY5eHNMREtKSWlnRWhiUzV6dU1RQm5lMWF1SDY4N2JYMzJsbWVhYW93cU11V2xkTnlXX2VFcnlRNEo5NC1CdzZ1MWlJam5hdGkzdHc2YWYzQzFnWEbSAWpBVV95cUxPdXpfX2ZJbkJkN0dpdktLU1lDSzd6bzZBLWc2d3lyUmtESTBBRDJYM01iSkh6Y3FQYXcxeXlPYVJobTRzU2xpeEFXX3pBUVZiZGhhR3lwQWVrUEdQSkpUT2lnNi00cnplN1lB?oc=5)
 
-2026-07-23 <span class="news-indication-tag">癌症</span>
+2026-07-23 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">頭頸癌</span>
 
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2FXVUM4TTlRdDVUTWdSUUVvVElDbUZTYWs0OEVYdG83MTdsRjFjNFVjNmxmOEFCa2NNcGRYVGMzbjJaU29qcnZrdXo2bXJsYzNxajgwTGVFdndYdFd0cHlBZnVXY2F3amZiRWdudnlhTUstb2JaV19GOWVPLWZaXzRYR1BnY2NMZW9uVzdtVUFEaDdzbDV3?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnbzBwazVqcGY5eHNMREtKSWlnRWhiUzV6dU1RQm5lMWF1SDY4N2JYMzJsbWVhYW93cU11V2xkTnlXX2VFcnlRNEo5NC1CdzZ1MWlJam5hdGkzdHc2YWYzQzFnWEbSAWpBVV95cUxPdXpfX2ZJbkJkN0dpdktLU1lDSzd6bzZBLWc2d3lyUmtESTBBRDJYM01iSkh6Y3FQYXcxeXlPYVJobTRzU2xpeEFXX3pBUVZiZGhhR3lwQWVrUEdQSkpUT2lnNi00cnplN1lB?oc=5)
 
 ---
 
-### [HPV明明是性接觸傳染為什麼11歲就要打疫苗？婦產科名醫蘇怡寧：此時效果最好保護最完整 - Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tU2lrVC1SdmZJSV9teHNLajR2eWFmRkVhZ1A3cTJOY1Rtc003VW81dFBkbVhJM0FKTmVsSzhLcENBTkNHTlpJVVpDNEppYVdmNE9KS25B?oc=5)
+### [WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTWpzTnNGVmtqaEJhM2cxeWNYRWRDMUpZM3A5ZkFxMmcxenVmMC14NmRqM3kyM0QySENEZkYtbWhxTU05ZGRjbDVuLUpPVktQZEg0WFdB?oc=5)
 
-2026-07-22 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">頭頸癌</span>
+2026-07-23 <span class="news-indication-tag">癌症</span>
 
-來源：[Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tU2lrVC1SdmZJSV9teHNLajR2eWFmRkVhZ1A3cTJOY1Rtc003VW81dFBkbVhJM0FKTmVsSzhLcENBTkNHTlpJVVpDNEppYVdmNE9KS25B?oc=5)
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTWpzTnNGVmtqaEJhM2cxeWNYRWRDMUpZM3A5ZkFxMmcxenVmMC14NmRqM3kyM0QySENEZkYtbWhxTU05ZGRjbDVuLUpPVktQZEg0WFdB?oc=5)
 
 ---
 

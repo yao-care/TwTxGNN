@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 - TechNews 科技新報](https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2FXVUM4TTlRdDVUTWdSUUVvVElDbUZTYWs0OEVYdG83MTdsRjFjNFVjNmxmOEFCa2NNcGRYVGMzbjJaU29qcnZrdXo2bXJsYzNxajgwTGVFdndYdFd0cHlBZnVXY2F3amZiRWdudnlhTUstb2JaV19GOWVPLWZaXzRYR1BnY2NMZW9uVzdtVUFEaDdzbDV3?oc=5)
+### [WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTWpzTnNGVmtqaEJhM2cxeWNYRWRDMUpZM3A5ZkFxMmcxenVmMC14NmRqM3kyM0QySENEZkYtbWhxTU05ZGRjbDVuLUpPVktQZEg0WFdB?oc=5)
 
 2026-07-23 <span class="news-indication-tag">癌症</span>
 
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2FXVUM4TTlRdDVUTWdSUUVvVElDbUZTYWs0OEVYdG83MTdsRjFjNFVjNmxmOEFCa2NNcGRYVGMzbjJaU29qcnZrdXo2bXJsYzNxajgwTGVFdndYdFd0cHlBZnVXY2F3amZiRWdudnlhTUstb2JaV19GOWVPLWZaXzRYR1BnY2NMZW9uVzdtVUFEaDdzbDV3?oc=5)
-
----
-
-### [看電視比久坐更傷大腦！中年追劇過頭「記憶與思考區域恐縮水」 - PChome Online 新聞](https://news.google.com/rss/articles/CBMijAFBVV95cUxOV2JSNjdEc3R0Y1cyMzlFT2VyODM0ZFdJeHRLaEwxRTVhZ0UzSDFZd0dTRGdCUUlwbk9XbFVnZ3Nmd3hOUE1RWE1yWWZrLWppdXN4ZFBOQVRUdE9YNlFLRVF4ZE9Ub3E2QUQ1YzNUenM5YjJub2ttNElGcDB0dnY5UGRpQzM3VjlTT01BVQ?oc=5)
-
-2026-07-22 <span class="news-indication-tag">失智</span>
-
-來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMijAFBVV95cUxOV2JSNjdEc3R0Y1cyMzlFT2VyODM0ZFdJeHRLaEwxRTVhZ0UzSDFZd0dTRGdCUUlwbk9XbFVnZ3Nmd3hOUE1RWE1yWWZrLWppdXN4ZFBOQVRUdE9YNlFLRVF4ZE9Ub3E2QUQ1YzNUenM5YjJub2ttNElGcDB0dnY5UGRpQzM3VjlTT01BVQ?oc=5)
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTWpzTnNGVmtqaEJhM2cxeWNYRWRDMUpZM3A5ZkFxMmcxenVmMC14NmRqM3kyM0QySENEZkYtbWhxTU05ZGRjbDVuLUpPVktQZEg0WFdB?oc=5)
 
 ---
 
