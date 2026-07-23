@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-23T01:56:28.684378+00:00",
+  "generated": "2026-07-23T05:19:53.156747+00:00",
   "count": 5,
   "news": [
     {
@@ -211,6 +211,34 @@
       ]
     },
     {
+      "id": "af26de2bbce0",
+      "title": "美國大規模研究揭示多發性硬化症死亡率差異與高血壓風險警訊 - GeneOnline News",
+      "published": "2026-07-22T20:05:25+00:00",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQenR3NjlhRjhqX0FabVB0Y29udnVtYzZ0VzgtWDNNejlzN1RDVDVBTHJyYlFseXItSlZBTm5oZUstd0tvVWpKekl6ajNxbjMzdF9VZ0YyeEVZdk5YYVJETUwwNjIwQUllQTVGNjB0bW1PNnFBS0Vic0VCdVRwelhzVVZPZVZqR0F4cmxqSjdWYUhSc09TN29mb3Y1UEVMLUJVa0tYN3owWFVtckFONUdNdlFXbVVSa2drQlJDLW9QeUxyazRRcGhraWFyY2lrLXVpMjBXWE5mbE1oZkcwMm5Pa3Y1ZU41azVEekI1aDdPamdTTDZuZEp0Umd3ZFhxSWtQZC04cXBtY1V3Q1lraUJ0V2gyOHk0UW41ZGRWdXJKZDBUNjV6b1hibEphc0dGa2lTY1hGcEY0aVlfTnlXWG5YWF9kaVhZUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "d09dd1b36df2",
       "title": "洗腎又骨鬆，小心「鈣」失控！洗腎患者低血鈣危機 嘉基醫師提醒定期追蹤",
       "published": "2026-07-22T07:44:37+00:00",
@@ -364,30 +392,6 @@
             {
               "slug": "dupilumab",
               "name": "Dupilumab"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "55decdf7f774",
-      "title": "壞膽固醇超標可增心血管病風險 美國心臟學會新指引︰19歲起定期量度血脂水平",
-      "published": "2026-07-21T03:38:56+00:00",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41XzVsc2pKUGlFWTdVTFpOWS13d1ZSS01MM0JhaHllRjZrZ003YXZWUmIyc1RvUDdHeVBvYmNrbm1UWkZod09FUEF0XzBuTTVxcVE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
             }
           ]
         }

@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,21 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 - TechNews 科技新報](https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2FXVUM4TTlRdDVUTWdSUUVvVElDbUZTYWs0OEVYdG83MTdsRjFjNFVjNmxmOEFCa2NNcGRYVGMzbjJaU29qcnZrdXo2bXJsYzNxajgwTGVFdndYdFd0cHlBZnVXY2F3amZiRWdudnlhTUstb2JaV19GOWVPLWZaXzRYR1BnY2NMZW9uVzdtVUFEaDdzbDV3?oc=5)
 
 2026-07-23 <span class="news-indication-tag">癌症</span>
 
 來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2FXVUM4TTlRdDVUTWdSUUVvVElDbUZTYWs0OEVYdG83MTdsRjFjNFVjNmxmOEFCa2NNcGRYVGMzbjJaU29qcnZrdXo2bXJsYzNxajgwTGVFdndYdFd0cHlBZnVXY2F3amZiRWdudnlhTUstb2JaV19GOWVPLWZaXzRYR1BnY2NMZW9uVzdtVUFEaDdzbDV3?oc=5)
+
+---
+
+### [美國大規模研究揭示多發性硬化症死亡率差異與高血壓風險警訊 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQenR3NjlhRjhqX0FabVB0Y29udnVtYzZ0VzgtWDNNejlzN1RDVDVBTHJyYlFseXItSlZBTm5oZUstd0tvVWpKekl6ajNxbjMzdF9VZ0YyeEVZdk5YYVJETUwwNjIwQUllQTVGNjB0bW1PNnFBS0Vic0VCdVRwelhzVVZPZVZqR0F4cmxqSjdWYUhSc09TN29mb3Y1UEVMLUJVa0tYN3owWFVtckFONUdNdlFXbVVSa2drQlJDLW9QeUxyazRRcGhraWFyY2lrLXVpMjBXWE5mbE1oZkcwMm5Pa3Y1ZU41azVEekI1aDdPamdTTDZuZEp0Umd3ZFhxSWtQZC04cXBtY1V3Q1lraUJ0V2gyOHk0UW41ZGRWdXJKZDBUNjV6b1hibEphc0dGa2lTY1hGcEY0aVlfTnlXWG5YWF9kaVhZUQ?oc=5)
+
+2026-07-22 <span class="news-indication-tag">高血壓</span>
+
+來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQenR3NjlhRjhqX0FabVB0Y29udnVtYzZ0VzgtWDNNejlzN1RDVDVBTHJyYlFseXItSlZBTm5oZUstd0tvVWpKekl6ajNxbjMzdF9VZ0YyeEVZdk5YYVJETUwwNjIwQUllQTVGNjB0bW1PNnFBS0Vic0VCdVRwelhzVVZPZVZqR0F4cmxqSjdWYUhSc09TN29mb3Y1UEVMLUJVa0tYN3owWFVtckFONUdNdlFXbVVSa2drQlJDLW9QeUxyazRRcGhraWFyY2lrLXVpMjBXWE5mbE1oZkcwMm5Pa3Y1ZU41azVEekI1aDdPamdTTDZuZEp0Umd3ZFhxSWtQZC04cXBtY1V3Q1lraUJ0V2gyOHk0UW41ZGRWdXJKZDBUNjV6b1hibEphc0dGa2lTY1hGcEY0aVlfTnlXWG5YWF9kaVhZUQ?oc=5)
 
 ---
 
