@@ -44,11 +44,11 @@ permalink: /news/disopyramide/
 
 ## 相關新聞（3 則）
 
-### [AIx多體學如何應用在癌症與慢性病？Dean Ho、Hiroshi Ohno、楊志新 新、台、日權威最新解析](https://news.google.com/rss/articles/CBMibkFVX3lxTFBIYzNteUxXZmI3WWNROFhFdFFRdFhDXy03YTE3U3ZySXp0RGc2bTktY01KWE4zTWhXOEFZaXdOTFBUSXo4RjJyWWs2cjlqdjNFR1p6NXBEemxrSHpKRm45UzJtMHNTNGFSMnFRWVV3?oc=5)
+### [AIx多體學如何應用在癌症與慢性病？Dean Ho、Hiroshi Ohno、楊志新 新、台、日權威最新解析](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ybGVtX0w5ZzhpR2gxdlhwMDhXMTFqRzVVekwwTDJycGdEUkgyMGRicnl1RVpENWY1elVxb2ZoVC14Y3pDT0JVSUlibWJFc1g0UUJhZ2tvbGVZdTBsTXF1Y19YSC1hU2ZT?oc=5)
 
 2026-07-23 <span class="news-indication-tag">癌症</span>
 
-來源：[環球生技月刊](https://news.google.com/rss/articles/CBMibkFVX3lxTFBIYzNteUxXZmI3WWNROFhFdFFRdFhDXy03YTE3U3ZySXp0RGc2bTktY01KWE4zTWhXOEFZaXdOTFBUSXo4RjJyWWs2cjlqdjNFR1p6NXBEemxrSHpKRm45UzJtMHNTNGFSMnFRWVV3?oc=5)
+來源：[環球生技月刊](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ybGVtX0w5ZzhpR2gxdlhwMDhXMTFqRzVVekwwTDJycGdEUkgyMGRicnl1RVpENWY1elVxb2ZoVC14Y3pDT0JVSUlibWJFc1g0UUJhZ2tvbGVZdTBsTXF1Y19YSC1hU2ZT?oc=5)
 
 ---
 
@@ -60,11 +60,11 @@ permalink: /news/disopyramide/
 
 ---
 
-### [洗腎又骨鬆，小心「鈣」失控！洗腎患者低血鈣危機 嘉基醫師提醒定期追蹤](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pcEVrRXVmNlJpMjByWlkxbVJJOWFDX2Fock40b1ZCc2dtR0FKNURWdXVmdS1rQ3Vtc05RbjhEMlJyTUVrRnFlWUFkTXkwd2tLOGhXTWF1VmF2VVRESk9RYU5zSQ?oc=5)
+### [洗腎又骨鬆，小心「鈣」失控！洗腎患者低血鈣危機 嘉基醫師提醒定期追蹤](https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xcld6d0ozYm5yQXVQeVFMOS1LOVNJaW5mUm8wRXVqaUFOeExHM1ZocExSM0VXSVdPdUx5b3I5ZUdab243cFdPY3BLQnppSzNJVnc?oc=5)
 
 2026-07-22 <span class="news-indication-tag">心律不整</span>
 
-來源：[波新聞](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pcEVrRXVmNlJpMjByWlkxbVJJOWFDX2Fock40b1ZCc2dtR0FKNURWdXVmdS1rQ3Vtc05RbjhEMlJyTUVrRnFlWUFkTXkwd2tLOGhXTWF1VmF2VVRESk9RYU5zSQ?oc=5)
+來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xcld6d0ozYm5yQXVQeVFMOS1LOVNJaW5mUm8wRXVqaUFOeExHM1ZocExSM0VXSVdPdUx5b3I5ZUdab243cFdPY3BLQnppSzNJVnc?oc=5)
 
 ---
 
