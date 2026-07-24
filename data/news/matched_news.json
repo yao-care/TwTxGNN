@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-24T20:11:21.240761+00:00",
-  "total_count": 21,
-  "matched_count": 5,
+  "last_updated": "2026-07-24T21:56:40.479444+00:00",
+  "total_count": 20,
+  "matched_count": 4,
   "news": [
     {
       "id": "fc706e70e9c8",
@@ -162,13 +162,13 @@
       "matched_keywords": []
     },
     {
-      "id": "eb9a5935417c",
+      "id": "8f539459c3cc",
       "title": "PM2.5恐致敏感性皮膚炎 女星柯佳嬿也受害",
       "published": "2026-07-23T18:06:07+00:00",
-      "summary": "PM2.5恐致敏感性皮膚炎 女星柯佳嬿也受害&nbsp;&nbsp;三立新聞",
+      "summary": "PM2.5恐致敏感性皮膚炎 女星柯佳嬿也受害&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
-          "name": "三立新聞",
+          "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE10bTJKRXFwdFVZZkxOa3pJSkhZQnVQU3dwZ2psZHY3UTFZbnFaempka090TlBKRi1oaWtYeVc1LXVOR2NaeUZV?oc=5"
         }
       ],
@@ -498,35 +498,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "af26de2bbce0",
-      "title": "美國大規模研究揭示多發性硬化症死亡率差異與高血壓風險警訊 - GeneOnline News",
-      "published": "2026-07-22T20:05:25+00:00",
-      "summary": "美國大規模研究揭示多發性硬化症死亡率差異與高血壓風險警訊&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQenR3NjlhRjhqX0FabVB0Y29udnVtYzZ0VzgtWDNNejlzN1RDVDVBTHJyYlFseXItSlZBTm5oZUstd0tvVWpKekl6ajNxbjMzdF9VZ0YyeEVZdk5YYVJETUwwNjIwQUllQTVGNjB0bW1PNnFBS0Vic0VCdVRwelhzVVZPZVZqR0F4cmxqSjdWYUhSc09TN29mb3Y1UEVMLUJVa0tYN3owWFVtckFONUdNdlFXbVVSa2drQlJDLW9QeUxyazRRcGhraWFyY2lrLXVpMjBXWE5mbE1oZkcwMm5Pa3Y1ZU41azVEekI1aDdPamdTTDZuZEp0Umd3ZFhxSWtQZC04cXBtY1V3Q1lraUJ0V2gyOHk0UW41ZGRWdXJKZDBUNjV6b1hibEphc0dGa2lTY1hGcEY0aVlfTnlXWG5YWF9kaVhZUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

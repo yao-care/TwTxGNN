@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-24T20:11:14.842545+00:00",
-  "count": 21,
+  "fetched_at": "2026-07-24T21:56:35.197069+00:00",
+  "count": 20,
   "news": [
     {
       "id": "fc706e70e9c8",
@@ -100,18 +100,6 @@
       ]
     },
     {
-      "id": "60d73cc8bb6c",
-      "title": "心臟科醫生：避開3種食物顯著改善健康 | 熱門話題 | 要聞 - 經濟日報",
-      "published": "2026-07-24T01:00:18+00:00",
-      "summary": "心臟科醫生：避開3種食物顯著改善健康 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報",
-      "sources": [
-        {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Eb09oVTk1dWpVd25oaUVuc0RqYkp1Z2lidUF0V3ltb1kzQzRNZ2s4bHlFSHpSZEs2QVVfQWNHZ01nLXFoUmdnLV94VnZhYW5vNnRCZWZ0dE1LUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "653cd32b65cd",
       "title": "WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 | 科技新報 - LINE TODAY",
       "published": "2026-07-23T08:46:13+00:00",
@@ -120,6 +108,18 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTWpzTnNGVmtqaEJhM2cxeWNYRWRDMUpZM3A5ZkFxMmcxenVmMC14NmRqM3kyM0QySENEZkYtbWhxTU05ZGRjbDVuLUpPVktQZEg0WFdB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "60d73cc8bb6c",
+      "title": "心臟科醫生：避開3種食物顯著改善健康 | 熱門話題 | 要聞 - 經濟日報",
+      "published": "2026-07-24T01:00:18+00:00",
+      "summary": "心臟科醫生：避開3種食物顯著改善健康 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Eb09oVTk1dWpVd25oaUVuc0RqYkp1Z2lidUF0V3ltb1kzQzRNZ2s4bHlFSHpSZEs2QVVfQWNHZ01nLXFoUmdnLV94VnZhYW5vNnRCZWZ0dE1LUQ?oc=5"
         }
       ]
     },
@@ -172,13 +172,13 @@
       ]
     },
     {
-      "id": "eb9a5935417c",
-      "title": "PM2.5恐致敏感性皮膚炎 女星柯佳嬿也受害 - 三立新聞",
+      "id": "8f539459c3cc",
+      "title": "PM2.5恐致敏感性皮膚炎 女星柯佳嬿也受害 - 三立新聞網SETN.com",
       "published": "2026-07-23T18:06:07+00:00",
-      "summary": "PM2.5恐致敏感性皮膚炎 女星柯佳嬿也受害&nbsp;&nbsp;三立新聞",
+      "summary": "PM2.5恐致敏感性皮膚炎 女星柯佳嬿也受害&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
-          "name": "三立新聞",
+          "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE10bTJKRXFwdFVZZkxOa3pJSkhZQnVQU3dwZ2psZHY3UTFZbnFaempka090TlBKRi1oaWtYeVc1LXVOR2NaeUZV?oc=5"
         }
       ]
@@ -228,18 +228,6 @@
         {
           "name": "美南新聞",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE85N0pyTW8xVTVfSDNtNks0R05pcWwzMndnbl9wY3Z6LUMzWDloTHFnTUk5LXNyUnVzdExmLXNTRkZaT3h2?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "af26de2bbce0",
-      "title": "美國大規模研究揭示多發性硬化症死亡率差異與高血壓風險警訊 - GeneOnline News",
-      "published": "2026-07-22T20:05:25+00:00",
-      "summary": "美國大規模研究揭示多發性硬化症死亡率差異與高血壓風險警訊&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQenR3NjlhRjhqX0FabVB0Y29udnVtYzZ0VzgtWDNNejlzN1RDVDVBTHJyYlFseXItSlZBTm5oZUstd0tvVWpKekl6ajNxbjMzdF9VZ0YyeEVZdk5YYVJETUwwNjIwQUllQTVGNjB0bW1PNnFBS0Vic0VCdVRwelhzVVZPZVZqR0F4cmxqSjdWYUhSc09TN29mb3Y1UEVMLUJVa0tYN3owWFVtckFONUdNdlFXbVVSa2drQlJDLW9QeUxyazRRcGhraWFyY2lrLXVpMjBXWE5mbE1oZkcwMm5Pa3Y1ZU41azVEekI1aDdPamdTTDZuZEp0Umd3ZFhxSWtQZC04cXBtY1V3Q1lraUJ0V2gyOHk0UW41ZGRWdXJKZDBUNjV6b1hibEphc0dGa2lTY1hGcEY0aVlfTnlXWG5YWF9kaVhZUQ?oc=5"
         }
       ]
     },
