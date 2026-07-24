@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-24T21:56:35.197069+00:00",
-  "count": 20,
+  "fetched_at": "2026-07-24T22:56:53.903844+00:00",
+  "count": 19,
   "news": [
     {
       "id": "fc706e70e9c8",
@@ -216,18 +216,6 @@
         {
           "name": "TDM",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQal9QZ1d2VC0tMGdxajJuYXpjQVBpTGxtUl9ud3cySHoyOS1kTWc3ZUlnNXZFM1A2OVVKWUdVYkNBWm1VdXVvWWhFWVZQMHpxUG5BdFJZQloycjMxU0xHOFFoUnNFYldaaWVZZFdQNk9uYkx3NTA3NkloeUd0V3huRGdkcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bc9f23d7e67d",
-      "title": "從守護細胞到支持免疫力，它被稱為抗老化營養素 - 美南新聞",
-      "published": "2026-07-22T21:18:05+00:00",
-      "summary": "從守護細胞到支持免疫力，它被稱為抗老化營養素&nbsp;&nbsp;美南新聞",
-      "sources": [
-        {
-          "name": "美南新聞",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE85N0pyTW8xVTVfSDNtNks0R05pcWwzMndnbl9wY3Z6LUMzWDloTHFnTUk5LXNyUnVzdExmLXNTRkZaT3h2?oc=5"
         }
       ]
     },
