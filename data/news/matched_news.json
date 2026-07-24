@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-24T12:13:19.893963+00:00",
-  "total_count": 27,
+  "last_updated": "2026-07-24T14:45:32.845751+00:00",
+  "total_count": 23,
   "matched_count": 6,
   "news": [
     {
@@ -30,25 +30,29 @@
       "matched_keywords": []
     },
     {
-      "id": "3b648b6b00c3",
-      "title": "常下廚，失智風險大降67%！媽媽忘了開烤箱後，專家反而勸：別禁止長輩做飯，一起做更重要| 幸福熟齡X 今周刊 - LINE TODAY",
-      "published": "2026-07-24T08:59:26+00:00",
-      "summary": "常下廚，失智風險大降67%！媽媽忘了開烤箱後，專家反而勸：別禁止長輩做飯，一起做更重要| 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY吃飯1習慣超傷腦！研究曝「恐害認知退化」 記憶力跟著下降&nbsp;&nbsp;三立新聞【台語新聞】認識日常食物長者學養生料理助延緩失智- 地方&nbsp;&nbsp;華視新聞網吃飯太快會加速腦退化？2個餐桌習慣幫助護腦、緩記憶力衰退&nbsp;&nbsp;元氣網常下廚，失智風險大降67%！媽媽忘了開烤箱後，專家反而勸：別禁止長輩做飯，一起做更重要&nbsp;&nbsp;Yahoo新聞",
+      "id": "8c0a789353d8",
+      "title": "洗腎骨鬆如土石流 嚴防低血鈣 | 中華日報 - LINE TODAY",
+      "published": "2026-07-24T08:45:07+00:00",
+      "summary": "洗腎骨鬆如土石流 嚴防低血鈣 | 中華日報&nbsp;&nbsp;LINE TODAY腎不好骨頭鈣質狂流失？醫示警：亂補鈣恐引發心律不整&nbsp;&nbsp;Yahoo新聞洗腎患者低血鈣危機 醫師提醒定期追蹤&nbsp;&nbsp;自由健康網治療骨鬆防骨折 醫提警訊：當心低血鈣誘發心律不整 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞慢性腎病骨鬆治療藏風險 嘉基提醒洗腎患者慎防低血鈣&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
           "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXUVlfM3o2bWlqTWt2MTdFTDNydWREcnlHd29EZjloOFpNM1VlUlBNRVIyeGY5emNUaVI4dlNwel8tY2RKV0Mxb05XS1owZ0dwOVg4OHFR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iSnliZFZBaXpOb2t3c3hPMVJHbldQTjZXMldjX3FQMThKVGx5WTJiM0F2WXZyQmtsanczNFNxSEQ4RUt4Y3pnU0wyMVhCUEhlbkEtMmRn?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
+          "name": "心律不整",
+          "keyword": "心律不整",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
             }
           ]
         }
@@ -104,19 +108,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "2a5e67cf6aea",
-      "title": "小三要求不戴套！元配「寄HIV藥物給她」揭丈夫驚人祕密",
-      "published": "2026-07-24T05:51:39+00:00",
-      "summary": "小三要求不戴套！元配「寄HIV藥物給她」揭丈夫驚人祕密&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVRDlRZjdZZkxvcTVXclZCeXNYWTlSMnpqanJVcVNnSnBfazFtakptTUZiVzhzNzVuTmM2aFdfZVFhcTZUQVhUeEhPRDYxcHVn0gFWQVVfeXFMUHhjbmR5aEFEdXNYMHoyXzRrWG0xNnY4eUZZNnRpUUVJYUpqeV8xUHlhNXRrRmtoT0piV3ExWU1pQWw2YVllRnZJajRjc2RoX1REa3UzVmc?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "c01524b924ac",
@@ -235,19 +226,6 @@
       "matched_keywords": []
     },
     {
-      "id": "f0baf2db16b3",
-      "title": "長達5年未滅菌遭勒令停業「黑心華人牙醫身分曝光」 近900人崩潰急驗愛滋 | 鏡週刊 - LINE TODAY",
-      "published": "2026-07-23T10:25:19+00:00",
-      "summary": "長達5年未滅菌遭勒令停業「黑心華人牙醫身分曝光」 近900人崩潰急驗愛滋 | 鏡週刊&nbsp;&nbsp;LINE TODAY長達5年未滅菌遭勒令停業「黑心華人牙醫身分曝光」 近900人崩潰急驗愛滋&nbsp;&nbsp;Yahoo新聞藥劑過期快20年！黑心華人牙醫遭勒令停業 近900人急驗愛滋&nbsp;&nbsp;壹蘋新聞網醫療事故︱加拿大華人牙醫涉未消毒重用工具 近900病人恐染愛滋病肝炎 涉事牙醫遭釘牌&nbsp;&nbsp;香港經濟日報HKET看牙驚爆感染風險！診所器械未滅菌 884人收通知急驗愛滋肝炎 | 國際 | CTWANT&nbsp;&nbsp;CTWANT",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OcmZ0bGRkWHVjSkt3TFZOS0dFY1o2T0t3aklURG5zem1ZTkFweUZ4MUZfNGU1NldJZm9wTHh6bVFYamwyLXhVY2l1blZRaUllSlQtSzlR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "d4aa679d5300",
       "title": "全球最長壽國曝隱憂 平均11年帶病生活",
       "published": "2026-07-23T09:54:48+00:00",
@@ -272,6 +250,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "3b648b6b00c3",
+      "title": "常下廚，失智風險大降67%！媽媽忘了開烤箱後，專家反而勸：別禁止長輩做飯，一起做更重要| 幸福熟齡X 今周刊 - LINE TODAY",
+      "published": "2026-07-23T08:59:26+00:00",
+      "summary": "常下廚，失智風險大降67%！媽媽忘了開烤箱後，專家反而勸：別禁止長輩做飯，一起做更重要| 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY吃飯1習慣超傷腦！研究曝「恐害認知退化」 記憶力跟著下降&nbsp;&nbsp;三立新聞【台語新聞】認識日常食物長者學養生料理助延緩失智- 地方&nbsp;&nbsp;華視新聞網吃飯太快會加速腦退化？2個餐桌習慣幫助護腦、緩記憶力衰退&nbsp;&nbsp;元氣網常下廚，失智風險大降67%！媽媽忘了開烤箱後，專家反而勸：別禁止長輩做飯，一起做更重要&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXUVlfM3o2bWlqTWt2MTdFTDNydWREcnlHd29EZjloOFpNM1VlUlBNRVIyeGY5emNUaVI4dlNwel8tY2RKV0Mxb05XS1owZ0dwOVg4OHFR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "ba86b16ee329",
@@ -509,14 +512,14 @@
       ]
     },
     {
-      "id": "a2b6ea68c84e",
-      "title": "研究：使用GLP-1減重藥恐致脫髮 發生率低但確實存在",
-      "published": "2026-07-22T22:39:17+00:00",
-      "summary": "研究：使用GLP-1減重藥恐致脫髮 發生率低但確實存在&nbsp;&nbsp;民視新聞網",
+      "id": "04de6a9153be",
+      "title": "研究：使用GLP-1減重藥恐致脫髮 發生率低但確實存在 | 民視新聞網 - LINE TODAY",
+      "published": "2026-07-22T23:15:42+00:00",
+      "summary": "研究：使用GLP-1減重藥恐致脫髮 發生率低但確實存在 | 民視新聞網&nbsp;&nbsp;LINE TODAY甩贅肉卻變禿頭？研究：瘦瘦針GLP-1藥物掉髮風險恐增68%&nbsp;&nbsp;三立新聞銀髮族能打瘦瘦針？逾65歲長者可減重23％，但注意三大副作用&nbsp;&nbsp;遠見雜誌減重神藥恐害掉髮？研究：瘦瘦針GLP-1藥物增68%落髮風險&nbsp;&nbsp;UDN長者服用減肥藥恐增衰弱風險！美研究：應加強追蹤監測&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zYjFzX0p5eWhNdjhaRXpSeGg3YkpwUWllNFNXOUdUUnZJeld1NUVxNHZwbkE1WnM2My16Mm42ZFN5dDlOWXhoaUd1RHRFd3VldWJfbWRubFR2RXdNM0ZKag?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GMEsyQmdzNXdldGkza2dRUEttczUyc0JkRWtTV3RmYVZWc1VPMEExb0FQWFgxUTJhLVFFRmhMTEVQeDB3SVo0OTN3RkNlU1JQQzdlN2V3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -562,61 +565,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "8c0a789353d8",
-      "title": "洗腎骨鬆如土石流 嚴防低血鈣 | 中華日報 - LINE TODAY",
-      "published": "2026-07-22T16:15:01+00:00",
-      "summary": "洗腎骨鬆如土石流 嚴防低血鈣 | 中華日報&nbsp;&nbsp;LINE TODAY腎不好骨頭鈣質狂流失？醫示警：亂補鈣恐引發心律不整&nbsp;&nbsp;Yahoo新聞洗腎患者低血鈣危機 醫師提醒定期追蹤&nbsp;&nbsp;自由健康網治療骨鬆防骨折 醫提警訊：當心低血鈣誘發心律不整 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞慢性腎病骨鬆治療藏風險 嘉基提醒洗腎患者慎防低血鈣&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iSnliZFZBaXpOb2t3c3hPMVJHbldQTjZXMldjX3FQMThKVGx5WTJiM0F2WXZyQmtsanczNFNxSEQ4RUt4Y3pnU0wyMVhCUEhlbkEtMmRn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "心律不整",
-          "keyword": "心律不整",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "86c13cf9fc38",
-      "title": "全球首例，來自父親的捐贈：六歲男童成為首位透過單一機械人切口接受肝臟移植的患者",
-      "published": "2026-07-22T13:46:00+00:00",
-      "summary": "全球首例，來自父親的捐贈：六歲男童成為首位透過單一機械人切口接受肝臟移植的患者&nbsp;&nbsp;香港財經時報HKBT",
-      "sources": [
-        {
-          "name": "香港財經時報HKBT",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNNkY0TThiYmJPa0dIUzJmTEJCWEhvVTBzSkdLLU9lQzZwNGRhbV91elVMazI0Mk1iS2xDRGpvSTJ6WUtKc3BwcUE3T1NFVG5YU1oxQjVvUGVEX2ljREE3SWRjd0RrNVkwNl9uRHBPdGgwaEVvX25yaWlUX3pZNVhFSmM4aUxxeFpNX1V2TE96YU1jaHVLOE1BSFYwVGhzTUd3dk91Q2loSGNZUFJsMlBJMnlUY2NQelhFQlBHbWVfX1lUOUVaSEtYX2tvYzA4TG84VkI5ZUJCX2UyNkNsWkt5aVgydHFxeFlHU2FmNDh5aWpTRXgtSWFWZkwxN3NjVU9ndWZDaWpNQTVjME9EbXlIVWRQbUpoSUU0OHVYcmNLaWluZEdZODl6czdOZ0JQS0VlVWEzTGxWRHlaY0hFUUlWZnBJdzBmUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b204f0090b74",
-      "title": "史丹福兒童醫院擴展機械臂手術",
-      "published": "2026-07-22T13:00:00+00:00",
-      "summary": "史丹福兒童醫院擴展機械臂手術&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNEI0WUR3VnlHU1l5Qzl1Y1QtT2NpZU1HUzNWa2V1bnJlTWFHemJVdjBLMTF3bVRicWNkNlhVbmprN2J4MTV1OWx1NnphTjBsS0NmUU9QcUJkcDJWZmx1RkRZTTFUelpRTkg5d19QOTFJbE1LYlJDemxYTXNleGhkeGRoWjdVZG9WTUFzZGw1SEpUaGw3b2c?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

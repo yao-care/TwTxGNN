@@ -44,19 +44,19 @@ permalink: /news/disopyramide/
 
 ## 相關新聞（2 則）
 
+### [洗腎骨鬆如土石流 嚴防低血鈣 | 中華日報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iSnliZFZBaXpOb2t3c3hPMVJHbldQTjZXMldjX3FQMThKVGx5WTJiM0F2WXZyQmtsanczNFNxSEQ4RUt4Y3pnU0wyMVhCUEhlbkEtMmRn?oc=5)
+
+2026-07-24 <span class="news-indication-tag">心律不整</span>
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iSnliZFZBaXpOb2t3c3hPMVJHbldQTjZXMldjX3FQMThKVGx5WTJiM0F2WXZyQmtsanczNFNxSEQ4RUt4Y3pnU0wyMVhCUEhlbkEtMmRn?oc=5)
+
+---
+
 ### [WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 - TechNews 科技新報](https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2FXVUM4TTlRdDVUTWdSUUVvVElDbUZTYWs0OEVYdG83MTdsRjFjNFVjNmxmOEFCa2NNcGRYVGMzbjJaU29qcnZrdXo2bXJsYzNxajgwTGVFdndYdFd0cHlBZnVXY2F3amZiRWdudnlhTUstb2JaV19GOWVPLWZaXzRYR1BnY2NMZW9uVzdtVUFEaDdzbDV3?oc=5)
 
 2026-07-23 <span class="news-indication-tag">癌症</span>
 
 來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2FXVUM4TTlRdDVUTWdSUUVvVElDbUZTYWs0OEVYdG83MTdsRjFjNFVjNmxmOEFCa2NNcGRYVGMzbjJaU29qcnZrdXo2bXJsYzNxajgwTGVFdndYdFd0cHlBZnVXY2F3amZiRWdudnlhTUstb2JaV19GOWVPLWZaXzRYR1BnY2NMZW9uVzdtVUFEaDdzbDV3?oc=5)
-
----
-
-### [洗腎骨鬆如土石流 嚴防低血鈣 | 中華日報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iSnliZFZBaXpOb2t3c3hPMVJHbldQTjZXMldjX3FQMThKVGx5WTJiM0F2WXZyQmtsanczNFNxSEQ4RUt4Y3pnU0wyMVhCUEhlbkEtMmRn?oc=5)
-
-2026-07-22 <span class="news-indication-tag">心律不整</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iSnliZFZBaXpOb2t3c3hPMVJHbldQTjZXMldjX3FQMThKVGx5WTJiM0F2WXZyQmtsanczNFNxSEQ4RUt4Y3pnU0wyMVhCUEhlbkEtMmRn?oc=5)
 
 ---
 

@@ -33,7 +33,7 @@ permalink: /news/dementia/
 
 ### [常下廚，失智風險大降67%！媽媽忘了開烤箱後，專家反而勸：別禁止長輩做飯，一起做更重要| 幸福熟齡X 今周刊 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXUVlfM3o2bWlqTWt2MTdFTDNydWREcnlHd29EZjloOFpNM1VlUlBNRVIyeGY5emNUaVI4dlNwel8tY2RKV0Mxb05XS1owZ0dwOVg4OHFR?oc=5)
 
-2026-07-24
+2026-07-23
 
 來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXUVlfM3o2bWlqTWt2MTdFTDNydWREcnlHd29EZjloOFpNM1VlUlBNRVIyeGY5emNUaVI4dlNwel8tY2RKV0Mxb05XS1owZ0dwOVg4OHFR?oc=5)
 
