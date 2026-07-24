@@ -31,11 +31,11 @@ permalink: /news/skin-cancer/
 
 ## 相關新聞（1 則）
 
-### [擦防曬導致維生素D不足？皮膚科醫師解析：5大防曬迷思一次看懂 - Harper's BAZAAR](https://news.google.com/rss/articles/CBMigAFBVV95cUxNOXdhVnRLSm10eTB4QWJNSmtXNExDbmstUVM0UllJN01peUg3dWhyN0Q4N0ZIOTZ6dS10NzZfdE15dFFzaDlTOUdjR3pGMU42cWlhZ3M5cnA1NHg2UTY5MUFVaEZGQ2JodjliUlVUVGo4NlR5M00tTDhIeXFSaTlRYg?oc=5)
+### [難怪吃D都沒效！你也是空腹吃？](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lSU9UbGYxSEVXNUE4RzVQend2bDVRYmw2QXM0clpMSUdSUDdkWk1vUU1jem1FOWxnR1FndWN1dnhXOU00Ym1keUkzdklHN0lsOFpCOQ?oc=5)
 
-2026-07-23
+2026-07-24
 
-來源：[Harper's BAZAAR](https://news.google.com/rss/articles/CBMigAFBVV95cUxNOXdhVnRLSm10eTB4QWJNSmtXNExDbmstUVM0UllJN01peUg3dWhyN0Q4N0ZIOTZ6dS10NzZfdE15dFFzaDlTOUdjR3pGMU42cWlhZ3M5cnA1NHg2UTY5MUFVaEZGQ2JodjliUlVUVGo4NlR5M00tTDhIeXFSaTlRYg?oc=5)
+來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lSU9UbGYxSEVXNUE4RzVQend2bDVRYmw2QXM0clpMSUdSUDdkWk1vUU1jem1FOWxnR1FndWN1dnhXOU00Ym1keUkzdklHN0lsOFpCOQ?oc=5)
 
 ---
 

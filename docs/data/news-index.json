@@ -1,7 +1,31 @@
 {
-  "generated": "2026-07-24T08:09:02.780442+00:00",
-  "count": 6,
+  "generated": "2026-07-24T10:54:34.310228+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "4898182710c7",
+      "title": "難怪吃D都沒效！你也是空腹吃？",
+      "published": "2026-07-24T06:27:00+00:00",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lSU9UbGYxSEVXNUE4RzVQend2bDVRYmw2QXM0clpMSUdSUDdkWk1vUU1jem1FOWxnR1FndWN1dnhXOU00Ym1keUkzdklHN0lsOFpCOQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "skin cancer",
+          "keyword": "皮膚癌",
+          "related_drugs": [
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "c01524b924ac",
       "title": "新版膽固醇指引改看長期風險 美研究：56.6%成年人符合他汀用藥建議 - Taiwan News",
@@ -21,30 +45,6 @@
             {
               "slug": "isosorbide_dinitrate",
               "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "662c605633c2",
-      "title": "擦防曬導致維生素D不足？皮膚科醫師解析：5大防曬迷思一次看懂 - Harper's BAZAAR",
-      "published": "2026-07-23T12:33:36+00:00",
-      "sources": [
-        {
-          "name": "Harper's BAZAAR",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOXdhVnRLSm10eTB4QWJNSmtXNExDbmstUVM0UllJN01peUg3dWhyN0Q4N0ZIOTZ6dS10NzZfdE15dFFzaDlTOUdjR3pGMU42cWlhZ3M5cnA1NHg2UTY5MUFVaEZGQ2JodjliUlVUVGo4NlR5M00tTDhIeXFSaTlRYg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "skin cancer",
-          "keyword": "皮膚癌",
-          "related_drugs": [
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
             }
           ]
         }
@@ -309,30 +309,6 @@
             {
               "slug": "disopyramide",
               "name": "Disopyramide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9ca5f3590106",
-      "title": "疱疹病毒為何與失智有關？研究揭免疫細胞恐「幫倒忙」",
-      "published": "2026-07-22T09:08:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53TTdhX3JVQVJITVp5VUNvQTBXR3R5N0J6MkF4R1RtLTI3VVlQQU15WEY0ZjlKWFZjamVIcTBUWjh3VDA0QmNkeml6VUkwdENuNm5DYkRqSUxmZUp5WXM4N1VTWGrSAWpBVV95cUxQV0hCZkx1eHoyaExxTTFaSldwWjFuT3gxVE1CTkFBRjhVczhMeF9SenNBRE1vbEVmNWJFbVBLQ1Jsbnp3QjhDTndmaWhJMjR0cVpmTHRPV3MxbnJtSHRtVldNVzhabXZyczdR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
