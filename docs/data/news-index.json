@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T01:52:03.569192+00:00",
-  "count": 6,
+  "generated": "2026-07-24T05:12:45.257746+00:00",
+  "count": 7,
   "news": [
     {
       "id": "c01524b924ac",
@@ -235,13 +235,37 @@
       ]
     },
     {
-      "id": "653cd32b65cd",
-      "title": "WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 | 科技新報 - LINE TODAY",
-      "published": "2026-07-23T08:46:13+00:00",
+      "id": "72bfb3d3a95f",
+      "title": "沙發追劇傷大腦！USC研究：額葉縮小…失智風險上升",
+      "published": "2026-07-23T06:53:45+00:00",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTWpzTnNGVmtqaEJhM2cxeWNYRWRDMUpZM3A5ZkFxMmcxenVmMC14NmRqM3kyM0QySENEZkYtbWhxTU05ZGRjbDVuLUpPVktQZEg0WFdB?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQVEZpRGlSVUZWamxNZDVleUdiSllSaFZUc29vTmZQbVdpLWh4ZjN4bTgzcUUyWHlhLU5NQURXZk1veFRaQnB6bkRnTE5tMHVRREI2eHhxYUVqTmQ3cExNQ0pPQjhTaWVUaXE1aVhsdGg3TGpVVUNUSW0zLXJIZWRUZHF2UmppREhzQnBZR2daUVJjTUoyV1A0Rk5wc2kwWk1fZ2Zyb0JlcUtjUXZXNG8zcDlPM0drRGJMY2p5RDJDTVJjNUZTXy0zczUzcVFYc2NVVFhuX2VrTldZajJRMmZfYmVYM0V3UmZlS0V2dHBOSDdiUXpfY1dPbnpVa2dGZk9zMlFtalBtOFVzNGV1UngyVUZ3bWhLcGcwdzdLa0JwT2ZYdFhOYzlzT0E0Sm91enctM2duMmk0YWRVTW04UEZj?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "74017c5c7010",
+      "title": "WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 - TechNews 科技新報",
+      "published": "2026-07-23T00:21:48+00:00",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2FXVUM4TTlRdDVUTWdSUUVvVElDbUZTYWs0OEVYdG83MTdsRjFjNFVjNmxmOEFCa2NNcGRYVGMzbjJaU29qcnZrdXo2bXJsYzNxajgwTGVFdndYdFd0cHlBZnVXY2F3amZiRWdudnlhTUstb2JaV19GOWVPLWZaXzRYR1BnY2NMZW9uVzdtVUFEaDdzbDV3?oc=5"
         }
       ],
       "keywords": [

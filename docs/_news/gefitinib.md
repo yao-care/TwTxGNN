@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [AIx多體學如何應用在癌症與慢性病？Dean Ho、Hiroshi Ohno、楊志新 新、台、日權威最新解析](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ybGVtX0w5ZzhpR2gxdlhwMDhXMTFqRzVVekwwTDJycGdEUkgyMGRicnl1RVpENWY1elVxb2ZoVC14Y3pDT0JVSUlibWJFc1g0UUJhZ2tvbGVZdTBsTXF1Y19YSC1hU2ZT?oc=5)
 
@@ -51,11 +51,19 @@ permalink: /news/gefitinib/
 
 ---
 
-### [WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTWpzTnNGVmtqaEJhM2cxeWNYRWRDMUpZM3A5ZkFxMmcxenVmMC14NmRqM3kyM0QySENEZkYtbWhxTU05ZGRjbDVuLUpPVktQZEg0WFdB?oc=5)
+### [沙發追劇傷大腦！USC研究：額葉縮小…失智風險上升](https://news.google.com/rss/articles/CBMivwJBVV95cUxQVEZpRGlSVUZWamxNZDVleUdiSllSaFZUc29vTmZQbVdpLWh4ZjN4bTgzcUUyWHlhLU5NQURXZk1veFRaQnB6bkRnTE5tMHVRREI2eHhxYUVqTmQ3cExNQ0pPQjhTaWVUaXE1aVhsdGg3TGpVVUNUSW0zLXJIZWRUZHF2UmppREhzQnBZR2daUVJjTUoyV1A0Rk5wc2kwWk1fZ2Zyb0JlcUtjUXZXNG8zcDlPM0drRGJMY2p5RDJDTVJjNUZTXy0zczUzcVFYc2NVVFhuX2VrTldZajJRMmZfYmVYM0V3UmZlS0V2dHBOSDdiUXpfY1dPbnpVa2dGZk9zMlFtalBtOFVzNGV1UngyVUZ3bWhLcGcwdzdLa0JwT2ZYdFhOYzlzT0E0Sm91enctM2duMmk0YWRVTW04UEZj?oc=5)
+
+2026-07-23 <span class="news-indication-tag">失智</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMivwJBVV95cUxQVEZpRGlSVUZWamxNZDVleUdiSllSaFZUc29vTmZQbVdpLWh4ZjN4bTgzcUUyWHlhLU5NQURXZk1veFRaQnB6bkRnTE5tMHVRREI2eHhxYUVqTmQ3cExNQ0pPQjhTaWVUaXE1aVhsdGg3TGpVVUNUSW0zLXJIZWRUZHF2UmppREhzQnBZR2daUVJjTUoyV1A0Rk5wc2kwWk1fZ2Zyb0JlcUtjUXZXNG8zcDlPM0drRGJMY2p5RDJDTVJjNUZTXy0zczUzcVFYc2NVVFhuX2VrTldZajJRMmZfYmVYM0V3UmZlS0V2dHBOSDdiUXpfY1dPbnpVa2dGZk9zMlFtalBtOFVzNGV1UngyVUZ3bWhLcGcwdzdLa0JwT2ZYdFhOYzlzT0E0Sm91enctM2duMmk0YWRVTW04UEZj?oc=5)
+
+---
+
+### [WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 - TechNews 科技新報](https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2FXVUM4TTlRdDVUTWdSUUVvVElDbUZTYWs0OEVYdG83MTdsRjFjNFVjNmxmOEFCa2NNcGRYVGMzbjJaU29qcnZrdXo2bXJsYzNxajgwTGVFdndYdFd0cHlBZnVXY2F3amZiRWdudnlhTUstb2JaV19GOWVPLWZaXzRYR1BnY2NMZW9uVzdtVUFEaDdzbDV3?oc=5)
 
 2026-07-23 <span class="news-indication-tag">癌症</span>
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTWpzTnNGVmtqaEJhM2cxeWNYRWRDMUpZM3A5ZkFxMmcxenVmMC14NmRqM3kyM0QySENEZkYtbWhxTU05ZGRjbDVuLUpPVktQZEg0WFdB?oc=5)
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2FXVUM4TTlRdDVUTWdSUUVvVElDbUZTYWs0OEVYdG83MTdsRjFjNFVjNmxmOEFCa2NNcGRYVGMzbjJaU29qcnZrdXo2bXJsYzNxajgwTGVFdndYdFd0cHlBZnVXY2F3amZiRWdudnlhTUstb2JaV19GOWVPLWZaXzRYR1BnY2NMZW9uVzdtVUFEaDdzbDV3?oc=5)
 
 ---
 
