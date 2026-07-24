@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,7 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [AIx多體學如何應用在癌症與慢性病？Dean Ho、Hiroshi Ohno、楊志新 新、台、日權威最新解析](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ybGVtX0w5ZzhpR2gxdlhwMDhXMTFqRzVVekwwTDJycGdEUkgyMGRicnl1RVpENWY1elVxb2ZoVC14Y3pDT0JVSUlibWJFc1g0UUJhZ2tvbGVZdTBsTXF1Y19YSC1hU2ZT?oc=5)
-
-2026-07-23 <span class="news-indication-tag">癌症</span>
-
-來源：[環球生技月刊](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ybGVtX0w5ZzhpR2gxdlhwMDhXMTFqRzVVekwwTDJycGdEUkgyMGRicnl1RVpENWY1elVxb2ZoVC14Y3pDT0JVSUlibWJFc1g0UUJhZ2tvbGVZdTBsTXF1Y19YSC1hU2ZT?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 - TechNews 科技新報](https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2FXVUM4TTlRdDVUTWdSUUVvVElDbUZTYWs0OEVYdG83MTdsRjFjNFVjNmxmOEFCa2NNcGRYVGMzbjJaU29qcnZrdXo2bXJsYzNxajgwTGVFdndYdFd0cHlBZnVXY2F3amZiRWdudnlhTUstb2JaV19GOWVPLWZaXzRYR1BnY2NMZW9uVzdtVUFEaDdzbDV3?oc=5)
 
@@ -60,11 +52,11 @@ permalink: /news/acebutolol/
 
 ---
 
-### [洗腎又骨鬆，小心「鈣」失控！洗腎患者低血鈣危機 嘉基醫師提醒定期追蹤](https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xcld6d0ozYm5yQXVQeVFMOS1LOVNJaW5mUm8wRXVqaUFOeExHM1ZocExSM0VXSVdPdUx5b3I5ZUdab243cFdPY3BLQnppSzNJVnc?oc=5)
+### [洗腎骨鬆如土石流 嚴防低血鈣 | 中華日報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iSnliZFZBaXpOb2t3c3hPMVJHbldQTjZXMldjX3FQMThKVGx5WTJiM0F2WXZyQmtsanczNFNxSEQ4RUt4Y3pnU0wyMVhCUEhlbkEtMmRn?oc=5)
 
 2026-07-22 <span class="news-indication-tag">心律不整</span>
 
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xcld6d0ozYm5yQXVQeVFMOS1LOVNJaW5mUm8wRXVqaUFOeExHM1ZocExSM0VXSVdPdUx5b3I5ZUdab243cFdPY3BLQnppSzNJVnc?oc=5)
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iSnliZFZBaXpOb2t3c3hPMVJHbldQTjZXMldjX3FQMThKVGx5WTJiM0F2WXZyQmtsanczNFNxSEQ4RUt4Y3pnU0wyMVhCUEhlbkEtMmRn?oc=5)
 
 ---
 

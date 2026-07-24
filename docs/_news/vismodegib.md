@@ -35,7 +35,7 @@ permalink: /news/vismodegib/
 <li>Brenner tumor（99.8%）</li>
 <li>cutaneous adenocystic carcinoma（99.8%）</li>
 <li>prostate leiomyoma（99.8%）</li>
-<li>skin cancer（99.8%）</li>
+<li class="indication-matched">skin cancer（99.8%）<span class="indication-tag">📰 皮膚癌</span></li>
 <li>benign neoplasm of sweat gland（99.8%）</li>
 </ul></li>
 </ul>
@@ -44,11 +44,11 @@ permalink: /news/vismodegib/
 
 ## 相關新聞（2 則）
 
-### [AIx多體學如何應用在癌症與慢性病？Dean Ho、Hiroshi Ohno、楊志新 新、台、日權威最新解析](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ybGVtX0w5ZzhpR2gxdlhwMDhXMTFqRzVVekwwTDJycGdEUkgyMGRicnl1RVpENWY1elVxb2ZoVC14Y3pDT0JVSUlibWJFc1g0UUJhZ2tvbGVZdTBsTXF1Y19YSC1hU2ZT?oc=5)
+### [擦防曬導致維生素D不足？皮膚科醫師解析：5大防曬迷思一次看懂 - Harper's BAZAAR](https://news.google.com/rss/articles/CBMigAFBVV95cUxNOXdhVnRLSm10eTB4QWJNSmtXNExDbmstUVM0UllJN01peUg3dWhyN0Q4N0ZIOTZ6dS10NzZfdE15dFFzaDlTOUdjR3pGMU42cWlhZ3M5cnA1NHg2UTY5MUFVaEZGQ2JodjliUlVUVGo4NlR5M00tTDhIeXFSaTlRYg?oc=5)
 
-2026-07-23 <span class="news-indication-tag">癌症</span>
+2026-07-23 <span class="news-indication-tag">皮膚癌</span>
 
-來源：[環球生技月刊](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ybGVtX0w5ZzhpR2gxdlhwMDhXMTFqRzVVekwwTDJycGdEUkgyMGRicnl1RVpENWY1elVxb2ZoVC14Y3pDT0JVSUlibWJFc1g0UUJhZ2tvbGVZdTBsTXF1Y19YSC1hU2ZT?oc=5)
+來源：[Harper's BAZAAR](https://news.google.com/rss/articles/CBMigAFBVV95cUxNOXdhVnRLSm10eTB4QWJNSmtXNExDbmstUVM0UllJN01peUg3dWhyN0Q4N0ZIOTZ6dS10NzZfdE15dFFzaDlTOUdjR3pGMU42cWlhZ3M5cnA1NHg2UTY5MUFVaEZGQ2JodjliUlVUVGo4NlR5M00tTDhIeXFSaTlRYg?oc=5)
 
 ---
 

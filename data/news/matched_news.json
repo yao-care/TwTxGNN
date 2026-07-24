@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-07-24T05:12:45.226760+00:00",
-  "total_count": 29,
-  "matched_count": 7,
+  "last_updated": "2026-07-24T08:09:02.751019+00:00",
+  "total_count": 27,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "2a5e67cf6aea",
+      "title": "小三要求不戴套！元配「寄HIV藥物給她」揭丈夫驚人祕密",
+      "published": "2026-07-24T05:51:39+00:00",
+      "summary": "小三要求不戴套！元配「寄HIV藥物給她」揭丈夫驚人祕密&nbsp;&nbsp;UDN",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVRDlRZjdZZkxvcTVXclZCeXNYWTlSMnpqanJVcVNnSnBfazFtakptTUZiVzhzNzVuTmM2aFdfZVFhcTZUQVhUeEhPRDYxcHVn0gFWQVVfeXFMUHhjbmR5aEFEdXNYMHoyXzRrWG0xNnY4eUZZNnRpUUVJYUpqeV8xUHlhNXRrRmtoT0piV3ExWU1pQWw2YVllRnZJajRjc2RoX1REa3UzVmc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "c01524b924ac",
       "title": "新版膽固醇指引改看長期風險 美研究：56.6%成年人符合他汀用藥建議 - Taiwan News",
@@ -27,6 +40,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "74ae6e1a4598",
+      "title": "常覺得餓卻一吃就飽！就醫驚「已癌王末期」 醫揭恐怖警訊",
+      "published": "2026-07-24T01:12:00+00:00",
+      "summary": "常覺得餓卻一吃就飽！就醫驚「已癌王末期」 醫揭恐怖警訊&nbsp;&nbsp;TVBS新聞網她狂喊餓「卻一吃就飽」 醫檢查驚：胰臟癌第4期&nbsp;&nbsp;ETtoday健康雲狂喊餓卻一吃就飽！婦人檢查竟是「癌王」第4期 醫揭飢餓原因&nbsp;&nbsp;UDN她「狂喊餓卻吃不下」！醫查驚：慘罹胰臟癌末了 很多人要注意&nbsp;&nbsp;三立新聞婦人易餓卻一吃就飽 醫揪出胰臟癌第4期&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tZ25md2FsYnFjZTRvampOQUFUcFNfRDBfbU5uQmk3bE40YkdNRTVxcEhNSGhvRnBXT1NtN21JdWhPSUFxWHFlU1FBTUlMMkJ4?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "60d73cc8bb6c",
@@ -55,19 +81,6 @@
       "matched_keywords": []
     },
     {
-      "id": "c4b113eec956",
-      "title": "她狂喊餓「卻一吃就飽」　醫檢查驚：胰臟癌第4期",
-      "published": "2026-07-24T00:24:00+00:00",
-      "summary": "她狂喊餓「卻一吃就飽」 醫檢查驚：胰臟癌第4期&nbsp;&nbsp;ETtoday健康雲狂喊餓卻一吃就飽！婦人檢查竟是「癌王」第4期 醫揭飢餓原因&nbsp;&nbsp;UDN她「狂喊餓卻吃不下」！醫查驚：慘罹胰臟癌末了 很多人要注意&nbsp;&nbsp;三立新聞婦人易餓卻一吃就飽 醫揪出胰臟癌第4期&nbsp;&nbsp;Yahoo新聞胰臟癌｜患癌未必無胃口7旬婦一個反常症狀確診末期胰臟癌擴散腹腔「癌王」兩大特點- 東張+&nbsp;&nbsp;myTV SUPER",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KVGtIbkdqNWZwMHFDWkwwUGRXU256TXZlejVIYzJpbDBlR1JSd25pR0J3TENhMTNpVUtLbGx0WlFVSGlTckE1c1Y2dkRHNldS0gFPQVVfeXFMTVFHV016cE83dmZhcF9hU2hJSzZ5Qlk1aUs2Rng2c3Q4LUE3V3k4b08tMUdsQ2VtQ01KekFsQnROMXhPVDFVMHNBemVLSnZ6Zw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "108d23643a00",
       "title": "「吹住風扇瞓」藏4大健康風險？夏天長期開風扇要注意！有機會引發過敏/炎症！",
       "published": "2026-07-23T19:12:14+00:00",
@@ -76,6 +89,19 @@
         {
           "name": "ezone.hk",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbXJpc25TaUd1U04tZ1dsTFBGUGIzakpSMnIzcEVWNWx0SUczX1R1c3F1azI2VTF3VlZwZFpKTmJhTUROQUxWRy04cDFXQzlGM3BBRGozZC1DNTR6bVFYb2pydEJBcTh4d2RHZUlOSFVaTk50d2FFUnF6YmhuYUs0M2pjWUZJV21yV3IyUjc2YTZPNGlsVGYtWDl0RWd6T0h6Rjd1Q3hpTThoREZ0WGpnLUZqY1pkTjBGOFNsTXpZaEJSd0g1bUVDcDdueUdaTDZs?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "eb9a5935417c",
+      "title": "PM2.5恐致敏感性皮膚炎 女星柯佳嬿也受害",
+      "published": "2026-07-23T18:06:07+00:00",
+      "summary": "PM2.5恐致敏感性皮膚炎 女星柯佳嬿也受害&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE10bTJKRXFwdFVZZkxOa3pJSkhZQnVQU3dwZ2psZHY3UTFZbnFaempka090TlBKRi1oaWtYeVc1LXVOR2NaeUZV?oc=5"
         }
       ],
       "matched_keywords": []
@@ -94,215 +120,6 @@
       "matched_keywords": []
     },
     {
-      "id": "f3c9bf1f58b9",
-      "title": "AIx多體學如何應用在癌症與慢性病？Dean Ho、Hiroshi Ohno、楊志新 新、台、日權威最新解析",
-      "published": "2026-07-23T15:00:00+00:00",
-      "summary": "AIx多體學如何應用在癌症與慢性病？Dean Ho、Hiroshi Ohno、楊志新 新、台、日權威最新解析&nbsp;&nbsp;環球生技月刊",
-      "sources": [
-        {
-          "name": "環球生技月刊",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ybGVtX0w5ZzhpR2gxdlhwMDhXMTFqRzVVekwwTDJycGdEUkgyMGRicnl1RVpENWY1elVxb2ZoVC14Y3pDT0JVSUlibWJFc1g0UUJhZ2tvbGVZdTBsTXF1Y19YSC1hU2ZT?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "3db9fd5133a8",
       "title": "當季流感疫苗接種下週二結束 逾21.6萬人打針",
       "published": "2026-07-23T13:29:36+00:00",
@@ -316,30 +133,29 @@
       "matched_keywords": []
     },
     {
-      "id": "0b61e859e2ea",
-      "title": "全球最長壽國曝隱憂 平均11年帶病生活 | NOWNEWS今日新聞 - LINE TODAY",
-      "published": "2026-07-23T13:00:40+00:00",
-      "summary": "全球最長壽國曝隱憂 平均11年帶病生活 | NOWNEWS今日新聞&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NWmtTSk5sLVoyVktDQWZ1eEI1VXhaWnpudUJMWFU2T0hucTE5RGNreWo5OVZid2NsSHdaUWZuaGEzTk9nYUVqa1RFeVBsWUlNcjB0VF9B?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "662c605633c2",
       "title": "擦防曬導致維生素D不足？皮膚科醫師解析：5大防曬迷思一次看懂 - Harper's BAZAAR",
       "published": "2026-07-23T12:33:36+00:00",
-      "summary": "擦防曬導致維生素D不足？皮膚科醫師解析：5大防曬迷思一次看懂&nbsp;&nbsp;Harper's BAZAAR",
+      "summary": "擦防曬導致維生素D不足？皮膚科醫師解析：5大防曬迷思一次看懂&nbsp;&nbsp;Harper's BAZAAR不只靠曬太陽！維生素D搭配「這類食物」 吸收率竟能狂增50%&nbsp;&nbsp;Yahoo新聞難怪吃D都沒效！你也是空腹吃？&nbsp;&nbsp;東森新聞維他命D不足恐全身發炎 4方法有效補充 建議每日曬10至15分鐘&nbsp;&nbsp;香港01防曬｜塗防曬乳8大常見錯誤太大力搽功效大降25%增皮膚癌風險4個部位常漏搽使用量+每2小時要補- 東張+&nbsp;&nbsp;myTV SUPER",
       "sources": [
         {
           "name": "Harper's BAZAAR",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOXdhVnRLSm10eTB4QWJNSmtXNExDbmstUVM0UllJN01peUg3dWhyN0Q4N0ZIOTZ6dS10NzZfdE15dFFzaDlTOUdjR3pGMU42cWlhZ3M5cnA1NHg2UTY5MUFVaEZGQ2JodjliUlVUVGo4NlR5M00tTDhIeXFSaTlRYg?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "skin cancer",
+          "keyword": "皮膚癌",
+          "related_drugs": [
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "f0baf2db16b3",
@@ -350,6 +166,19 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OcmZ0bGRkWHVjSkt3TFZOS0dFY1o2T0t3aklURG5zem1ZTkFweUZ4MUZfNGU1NldJZm9wTHh6bVFYamwyLXhVY2l1blZRaUllSlQtSzlR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d4aa679d5300",
+      "title": "全球最長壽國曝隱憂 平均11年帶病生活",
+      "published": "2026-07-23T09:54:48+00:00",
+      "summary": "全球最長壽國曝隱憂 平均11年帶病生活&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNcDVIdHJXa0NORVdteEhCUzl1cnhjLW1HX01JZDdjYWc1N1pqWVRUMFdXSE9pZFM1S3FKcHJUdWxwZzl4eUR4N2VveUdLVVNXa2hyUHFnYjU1bkwyTndhMWVLU0kyb3JMc0lxY3ZpZi1YdXh3S1diZ1JrZnVqZE5PeThYV3BoUjlsNE5fM0NjOWh4d0RkMnpCSF8wZTl4NkpPNk82d3JVM3ZGUk8wS1JSd0swVTdJTGx5RnEwNWhCU25DSlRJQlljWDV2VFZqWW5DdE9pRTZBWjk4allSNHVhVGZaUHdadjB0eldIbFFyN3B4aUN4SFhWc3lkQlVPZmxWSXNuTWtrUWVZRVZ3cVozX2ZlMVd1bDg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -381,31 +210,6 @@
       "matched_keywords": []
     },
     {
-      "id": "72bfb3d3a95f",
-      "title": "沙發追劇傷大腦！USC研究：額葉縮小…失智風險上升",
-      "published": "2026-07-23T06:53:45+00:00",
-      "summary": "沙發追劇傷大腦！USC研究：額葉縮小…失智風險上升&nbsp;&nbsp;Yahoo新聞健康網》比久坐更傷腦！ 研究揭坐著「做這事」大腦恐萎縮&nbsp;&nbsp;自由健康網久坐「做1事」恐害大腦萎縮、失智！專家公開驚人研究&nbsp;&nbsp;Yahoo新聞久坐會傷身！研究曝「加做1事」害大腦萎縮：不是上網&nbsp;&nbsp;三立新聞看電視比久坐更傷大腦！中年追劇過頭「記憶與思考區域恐縮水」&nbsp;&nbsp;PChome Online 股市",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQVEZpRGlSVUZWamxNZDVleUdiSllSaFZUc29vTmZQbVdpLWh4ZjN4bTgzcUUyWHlhLU5NQURXZk1veFRaQnB6bkRnTE5tMHVRREI2eHhxYUVqTmQ3cExNQ0pPQjhTaWVUaXE1aVhsdGg3TGpVVUNUSW0zLXJIZWRUZHF2UmppREhzQnBZR2daUVJjTUoyV1A0Rk5wc2kwWk1fZ2Zyb0JlcUtjUXZXNG8zcDlPM0drRGJMY2p5RDJDTVJjNUZTXy0zczUzcVFYc2NVVFhuX2VrTldZajJRMmZfYmVYM0V3UmZlS0V2dHBOSDdiUXpfY1dPbnpVa2dGZk9zMlFtalBtOFVzNGV1UngyVUZ3bWhLcGcwdzdLa0JwT2ZYdFhOYzlzT0E0Sm91enctM2duMmk0YWRVTW04UEZj?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "928928e2faf5",
       "title": "名人健康｜52歲翁嘉穗全家遊首爾、加拿大確診流感！老公病足10日未癒慨嘆放縱惹禍| 健康解「迷」 - 醫學通識- 健康好人生 - etnet 經濟通",
       "published": "2026-07-23T06:15:33+00:00",
@@ -422,7 +226,7 @@
       "id": "4964850443d7",
       "title": "美國麻疹病例突破2295例創35年新高 專家憂接種率不足恐危及消除成果 - Taiwan News",
       "published": "2026-07-23T04:26:00+00:00",
-      "summary": "美國麻疹病例突破2295例創35年新高 專家憂接種率不足恐危及消除成果&nbsp;&nbsp;Taiwan News传染性强于新冠六倍！美麻疹病例破纪录(图)&nbsp;&nbsp;CMoney美國麻疹個案2295宗超去年總數 35年來最高 (18:55) - 20260722 - 國際&nbsp;&nbsp;明報新聞網",
+      "summary": "美國麻疹病例突破2295例創35年新高 專家憂接種率不足恐危及消除成果&nbsp;&nbsp;Taiwan News美國麻疹病例衝破去年總數創35年新高 清零地位恐將不保&nbsp;&nbsp;客新聞 HakkaNews加州麻疹病例翻倍LAX兩現感染旅客- 美國要聞- 新聞&nbsp;&nbsp;華人今日網传染性强于新冠六倍！美麻疹病例破纪录(图)&nbsp;&nbsp;CMoney美國麻疹個案2295宗超去年總數 35年來最高 (18:55) - 20260722 - 國際&nbsp;&nbsp;明報新聞網",
       "sources": [
         {
           "name": "Taiwan News",
@@ -709,6 +513,35 @@
       "matched_keywords": []
     },
     {
+      "id": "8c0a789353d8",
+      "title": "洗腎骨鬆如土石流 嚴防低血鈣 | 中華日報 - LINE TODAY",
+      "published": "2026-07-22T16:15:01+00:00",
+      "summary": "洗腎骨鬆如土石流 嚴防低血鈣 | 中華日報&nbsp;&nbsp;LINE TODAY腎不好骨頭鈣質狂流失？醫示警：亂補鈣恐引發心律不整&nbsp;&nbsp;Yahoo新聞洗腎患者低血鈣危機 醫師提醒定期追蹤&nbsp;&nbsp;自由健康網治療骨鬆防骨折 醫提警訊：當心低血鈣誘發心律不整 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞慢性腎病骨鬆治療藏風險 嘉基提醒洗腎患者慎防低血鈣&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iSnliZFZBaXpOb2t3c3hPMVJHbldQTjZXMldjX3FQMThKVGx5WTJiM0F2WXZyQmtsanczNFNxSEQ4RUt4Y3pnU0wyMVhCUEhlbkEtMmRn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "心律不整",
+          "keyword": "心律不整",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "86c13cf9fc38",
       "title": "全球首例，來自父親的捐贈：六歲男童成為首位透過單一機械人切口接受肝臟移植的患者",
       "published": "2026-07-22T13:46:00+00:00",
@@ -760,35 +593,6 @@
       ]
     },
     {
-      "id": "919bfaf7c66f",
-      "title": "洗腎又骨鬆，小心「鈣」失控！洗腎患者低血鈣危機 嘉基醫師提醒定期追蹤",
-      "published": "2026-07-22T07:44:00+00:00",
-      "summary": "洗腎又骨鬆，小心「鈣」失控！洗腎患者低血鈣危機 嘉基醫師提醒定期追蹤&nbsp;&nbsp;蕃新聞腎不好骨頭鈣質狂流失？醫示警：亂補鈣恐引發心律不整&nbsp;&nbsp;Yahoo新聞洗腎骨鬆如土石流 嚴防低血鈣 | 中華日報&nbsp;&nbsp;LINE TODAY洗腎患者低血鈣危機 醫師提醒定期追蹤&nbsp;&nbsp;自由健康網治療骨鬆防骨折 醫提警訊：當心低血鈣誘發心律不整 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xcld6d0ozYm5yQXVQeVFMOS1LOVNJaW5mUm8wRXVqaUFOeExHM1ZocExSM0VXSVdPdUx5b3I5ZUdab243cFdPY3BLQnppSzNJVnc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "心律不整",
-          "keyword": "心律不整",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "1d9d9f399791",
       "title": "年輕脫髮竟有助防癌？研究發現：30歲前掉髮降前列腺癌風險近３成",
       "published": "2026-07-22T07:16:11+00:00",
@@ -810,32 +614,6 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVGIzNzB4bWVsUWU4N3pXRUpGV2NzdDhaX2dlb2E1MC1BelVrUF96VkktbURrWU5sdmNTeG43a2NidU5CSV9zeTFDOF9XbUZCYkdHOG1CT2Nlb1ptQ1p4M1lmLUZ1ZUU5N2o2SnVtSVZvNjlQa1RzZ05ydVJFQ01ZcEd6RnZNZy1Kd0lPdmdzWQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3e5dbb26473f",
-      "title": "香蕉健康食譜 日本82歲婆婆教配搭醋變通便神器 3招隱藏食法公開",
-      "published": "2026-07-22T05:00:01+00:00",
-      "summary": "香蕉健康食譜 日本82歲婆婆教配搭醋變通便神器 3招隱藏食法公開&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQQWFlWF9GU3c5WEhWOFF5eXByTTF0R2VKNDY0NUdnVEtCVFpxU1FSc0RBRmt3S2pIX01vZXB2TlVaQk1EaHExYTlYMmstc2F3a2N2aUFLMVFzX1RVYmxYU2JvME1SYkV4ZldlQTZwejdDckQzYUlVNzFYQ3hiVjlrYzctTDhuNHloakhuQUhPWGVZakM5RE1QSkl5NGxBWDg0TGIwNDI3ZUxZM0JmanM2QU9hdlViVmdTQ2h6azEtS3BUSE94SmcySV9uZnh2N3JyNm9YaVhkMWR4MEdUQ0lIX1hyVjZVWWRQcXMtT2ZLaUYxRUV2ajNwWTBuZFpCOHZTU1dNSXdBX25sZTFuNFREMXNkNWpBUmJvMUsxbjgxeE9La2RIYkd5UjNyNVVvNV9XVi14OHkwaFl6UHdyakkzVGZpVF9LaER5QzM2RGhTYTFwQlJlVEhSNEIzSzN4cjRXWGk0dXJaVl9wQ0lWVUVlQkhYS1BiTU90bTFhd1BxWjNQdG4yR0Y5TUx3ZjNiYWpCdjgxVGdpdEpOSlpHV3NycU9ncWc3UQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "41a7f5eb73ab",
-      "title": "減肥最難的不是瘦下來！研究：大腦「記住最胖時」讓身體拚命復胖",
-      "published": "2026-07-22T04:00:04+00:00",
-      "summary": "減肥最難的不是瘦下來！研究：大腦「記住最胖時」讓身體拚命復胖&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxQaUlmVVJMQjhVdk1GRlpPR2R5VU96QWY3UDVBd1lxMFJpZmtndlZmbWtseUZWV3QxV2UtU2hKVFhKOHlTTzRQM2Z0eDJkdFAyMFppSnk0Y1drMHFaZnFTam5nLUI2cnVLLS1TTTdNU3FyLVg4MnJORFJCQ0tBQkQzYTZ3VVZNc01JM1M3cWFDcnpjRFZEaFlWTHBlcHVLa0V3UVUwVGtHbEEweTFlaWx2ZHNaWXZmTmF3dmpBcGRVU244dVdfSTY4eEZmXzYyX0NxQmJsVl9DbmUxdThsUE5xWkRMeEw2QUcwUGgxZmFJN1RyWTRhVWtzTGx1Z0ZyZDIxdkppSzdBU2ZiSlUyMnFoeFNPMkhYRVBJX1h4bUZEa0ZISjlNb0xVX2VWM3JIYmpXbEhNZW03SnNjd3RVY2FqNHJfSU9pTll6ejF6MkF4T2ExemRPZVhqVUd4eU9kRk9BOGZ5MzlKSWxoVVZVSUI1N01abEo2dlVRT0VEM2Jxc1lJTmJsT0RBUW5yQ2lRREYt?oc=5"
         }
       ],
       "matched_keywords": []

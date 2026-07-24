@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,15 +75,7 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [AIx多體學如何應用在癌症與慢性病？Dean Ho、Hiroshi Ohno、楊志新 新、台、日權威最新解析](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ybGVtX0w5ZzhpR2gxdlhwMDhXMTFqRzVVekwwTDJycGdEUkgyMGRicnl1RVpENWY1elVxb2ZoVC14Y3pDT0JVSUlibWJFc1g0UUJhZ2tvbGVZdTBsTXF1Y19YSC1hU2ZT?oc=5)
-
-2026-07-23
-
-來源：[環球生技月刊](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ybGVtX0w5ZzhpR2gxdlhwMDhXMTFqRzVVekwwTDJycGdEUkgyMGRicnl1RVpENWY1elVxb2ZoVC14Y3pDT0JVSUlibWJFc1g0UUJhZ2tvbGVZdTBsTXF1Y19YSC1hU2ZT?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 - TechNews 科技新報](https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2FXVUM4TTlRdDVUTWdSUUVvVElDbUZTYWs0OEVYdG83MTdsRjFjNFVjNmxmOEFCa2NNcGRYVGMzbjJaU29qcnZrdXo2bXJsYzNxajgwTGVFdndYdFd0cHlBZnVXY2F3amZiRWdudnlhTUstb2JaV19GOWVPLWZaXzRYR1BnY2NMZW9uVzdtVUFEaDdzbDV3?oc=5)
 

@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T05:12:45.257746+00:00",
-  "count": 7,
+  "generated": "2026-07-24T08:09:02.780442+00:00",
+  "count": 6,
   "news": [
     {
       "id": "c01524b924ac",
@@ -27,232 +27,24 @@
       ]
     },
     {
-      "id": "f3c9bf1f58b9",
-      "title": "AIx多體學如何應用在癌症與慢性病？Dean Ho、Hiroshi Ohno、楊志新 新、台、日權威最新解析",
-      "published": "2026-07-23T15:00:00+00:00",
+      "id": "662c605633c2",
+      "title": "擦防曬導致維生素D不足？皮膚科醫師解析：5大防曬迷思一次看懂 - Harper's BAZAAR",
+      "published": "2026-07-23T12:33:36+00:00",
       "sources": [
         {
-          "name": "環球生技月刊",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ybGVtX0w5ZzhpR2gxdlhwMDhXMTFqRzVVekwwTDJycGdEUkgyMGRicnl1RVpENWY1elVxb2ZoVC14Y3pDT0JVSUlibWJFc1g0UUJhZ2tvbGVZdTBsTXF1Y19YSC1hU2ZT?oc=5"
+          "name": "Harper's BAZAAR",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOXdhVnRLSm10eTB4QWJNSmtXNExDbmstUVM0UllJN01peUg3dWhyN0Q4N0ZIOTZ6dS10NzZfdE15dFFzaDlTOUdjR3pGMU42cWlhZ3M5cnA1NHg2UTY5MUFVaEZGQ2JodjliUlVUVGo4NlR5M00tTDhIeXFSaTlRYg?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
+          "name": "skin cancer",
+          "keyword": "皮膚癌",
           "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
             {
               "slug": "vismodegib",
               "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "72bfb3d3a95f",
-      "title": "沙發追劇傷大腦！USC研究：額葉縮小…失智風險上升",
-      "published": "2026-07-23T06:53:45+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQVEZpRGlSVUZWamxNZDVleUdiSllSaFZUc29vTmZQbVdpLWh4ZjN4bTgzcUUyWHlhLU5NQURXZk1veFRaQnB6bkRnTE5tMHVRREI2eHhxYUVqTmQ3cExNQ0pPQjhTaWVUaXE1aVhsdGg3TGpVVUNUSW0zLXJIZWRUZHF2UmppREhzQnBZR2daUVJjTUoyV1A0Rk5wc2kwWk1fZ2Zyb0JlcUtjUXZXNG8zcDlPM0drRGJMY2p5RDJDTVJjNUZTXy0zczUzcVFYc2NVVFhuX2VrTldZajJRMmZfYmVYM0V3UmZlS0V2dHBOSDdiUXpfY1dPbnpVa2dGZk9zMlFtalBtOFVzNGV1UngyVUZ3bWhLcGcwdzdLa0JwT2ZYdFhOYzlzT0E0Sm91enctM2duMmk0YWRVTW04UEZj?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
@@ -495,6 +287,34 @@
       ]
     },
     {
+      "id": "8c0a789353d8",
+      "title": "洗腎骨鬆如土石流 嚴防低血鈣 | 中華日報 - LINE TODAY",
+      "published": "2026-07-22T16:15:01+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iSnliZFZBaXpOb2t3c3hPMVJHbldQTjZXMldjX3FQMThKVGx5WTJiM0F2WXZyQmtsanczNFNxSEQ4RUt4Y3pnU0wyMVhCUEhlbkEtMmRn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "心律不整",
+          "keyword": "心律不整",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "9ca5f3590106",
       "title": "疱疹病毒為何與失智有關？研究揭免疫細胞恐「幫倒忙」",
       "published": "2026-07-22T09:08:00+00:00",
@@ -513,34 +333,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "919bfaf7c66f",
-      "title": "洗腎又骨鬆，小心「鈣」失控！洗腎患者低血鈣危機 嘉基醫師提醒定期追蹤",
-      "published": "2026-07-22T07:44:00+00:00",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xcld6d0ozYm5yQXVQeVFMOS1LOVNJaW5mUm8wRXVqaUFOeExHM1ZocExSM0VXSVdPdUx5b3I5ZUdab243cFdPY3BLQnppSzNJVnc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "心律不整",
-          "keyword": "心律不整",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
             }
           ]
         }

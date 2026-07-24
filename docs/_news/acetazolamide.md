@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [AIx多體學如何應用在癌症與慢性病？Dean Ho、Hiroshi Ohno、楊志新 新、台、日權威最新解析](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ybGVtX0w5ZzhpR2gxdlhwMDhXMTFqRzVVekwwTDJycGdEUkgyMGRicnl1RVpENWY1elVxb2ZoVC14Y3pDT0JVSUlibWJFc1g0UUJhZ2tvbGVZdTBsTXF1Y19YSC1hU2ZT?oc=5)
-
-2026-07-23 <span class="news-indication-tag">癌症</span>
-
-來源：[環球生技月刊](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ybGVtX0w5ZzhpR2gxdlhwMDhXMTFqRzVVekwwTDJycGdEUkgyMGRicnl1RVpENWY1elVxb2ZoVC14Y3pDT0JVSUlibWJFc1g0UUJhZ2tvbGVZdTBsTXF1Y19YSC1hU2ZT?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 - TechNews 科技新報](https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2FXVUM4TTlRdDVUTWdSUUVvVElDbUZTYWs0OEVYdG83MTdsRjFjNFVjNmxmOEFCa2NNcGRYVGMzbjJaU29qcnZrdXo2bXJsYzNxajgwTGVFdndYdFd0cHlBZnVXY2F3amZiRWdudnlhTUstb2JaV19GOWVPLWZaXzRYR1BnY2NMZW9uVzdtVUFEaDdzbDV3?oc=5)
 
