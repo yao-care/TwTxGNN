@@ -1,7 +1,31 @@
 {
-  "generated": "2026-07-24T10:54:34.310228+00:00",
-  "count": 5,
+  "generated": "2026-07-24T12:13:19.924382+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "3b648b6b00c3",
+      "title": "常下廚，失智風險大降67%！媽媽忘了開烤箱後，專家反而勸：別禁止長輩做飯，一起做更重要| 幸福熟齡X 今周刊 - LINE TODAY",
+      "published": "2026-07-24T08:59:26+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXUVlfM3o2bWlqTWt2MTdFTDNydWREcnlHd29EZjloOFpNM1VlUlBNRVIyeGY5emNUaVI4dlNwel8tY2RKV0Mxb05XS1owZ0dwOVg4OHFR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "4898182710c7",
       "title": "難怪吃D都沒效！你也是空腹吃？",
