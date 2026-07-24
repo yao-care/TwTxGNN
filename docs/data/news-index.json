@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T22:56:57.856516+00:00",
-  "count": 4,
+  "generated": "2026-07-24T23:59:23.682314+00:00",
+  "count": 3,
   "news": [
     {
       "id": "919bfaf7c66f",
@@ -25,30 +25,6 @@
             {
               "slug": "disopyramide",
               "name": "Disopyramide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c01524b924ac",
-      "title": "新版膽固醇指引改看長期風險 美研究：56.6%成年人符合他汀用藥建議 - Taiwan News",
-      "published": "2026-07-24T01:15:00+00:00",
-      "sources": [
-        {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4RWJPV1g2Nk9BOUk0Tkt1LW92SC10cm9HaUJUQVJOOWhKTU5JTkNadE1FWENKSXpYSHh3YUdwdm4wSE9jRC15cm9makFCeExVaWl6OGN3Xzg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
             }
           ]
         }

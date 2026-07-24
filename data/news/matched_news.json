@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-24T22:56:57.825443+00:00",
+  "last_updated": "2026-07-24T23:59:23.651949+00:00",
   "total_count": 19,
-  "matched_count": 4,
+  "matched_count": 3,
   "news": [
     {
       "id": "fc706e70e9c8",
@@ -75,7 +75,7 @@
       "id": "647ca28f0344",
       "title": "美國麻疹病例衝破去年總數創35年新高 清零地位恐將不保 - 客新聞 HakkaNews",
       "published": "2026-07-24T07:00:17+00:00",
-      "summary": "美國麻疹病例衝破去年總數創35年新高 清零地位恐將不保&nbsp;&nbsp;客新聞 HakkaNews美國麻疹病例突破2295例創35年新高 專家憂接種率不足恐危及消除成果&nbsp;&nbsp;Taiwan News洛縣警告：兒童和青少年麻疹病例劇增&nbsp;&nbsp;Singtaousa传染性强于新冠六倍！美麻疹病例破纪录(图)&nbsp;&nbsp;CMoney加州麻疹病例翻倍LAX兩現感染旅客- 美國要聞- 新聞&nbsp;&nbsp;華人今日網",
+      "summary": "美國麻疹病例衝破去年總數創35年新高 清零地位恐將不保&nbsp;&nbsp;客新聞 HakkaNews美國爆發35年來最嚴重麻疹疫情 確診已破2300例 | 民視新聞網&nbsp;&nbsp;LINE TODAY美國麻疹病例突破2295例創35年新高 專家憂接種率不足恐危及消除成果&nbsp;&nbsp;Taiwan News加州麻疹病例翻倍LAX兩現感染旅客- 美國要聞- 新聞&nbsp;&nbsp;華人今日網传染性强于新冠六倍！美麻疹病例破纪录(图)&nbsp;&nbsp;CMoney",
       "sources": [
         {
           "name": "客新聞 HakkaNews",
@@ -88,26 +88,14 @@
       "id": "c01524b924ac",
       "title": "新版膽固醇指引改看長期風險 美研究：56.6%成年人符合他汀用藥建議 - Taiwan News",
       "published": "2026-07-24T01:15:00+00:00",
-      "summary": "新版膽固醇指引改看長期風險 美研究：56.6%成年人符合他汀用藥建議&nbsp;&nbsp;Taiwan News保健品神話殞落？美國心臟學會示警：魚油有提升「壞膽固醇」風險，4大族群須留心&nbsp;&nbsp;天下雜誌壞膽固醇愈低愈好？2026最新膽固醇治療指南出爐：9歲開始，就要開始驗膽固醇&nbsp;&nbsp;PChome Online 新聞壞膽固醇超標可增心血管病風險 美國心臟學會新指引︰19歲起定期量度血脂水平&nbsp;&nbsp;香港經濟日報HKET2026膽固醇指南更新！壞膽固醇控制目標更嚴格&nbsp;&nbsp;台視新聞網",
+      "summary": "新版膽固醇指引改看長期風險 美研究：56.6%成年人符合他汀用藥建議&nbsp;&nbsp;Taiwan News",
       "sources": [
         {
           "name": "Taiwan News",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4RWJPV1g2Nk9BOUk0Tkt1LW92SC10cm9HaUJUQVJOOWhKTU5JTkNadE1FWENKSXpYSHh3YUdwdm4wSE9jRC15cm9makFCeExVaWl6OGN3Xzg?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "74ae6e1a4598",
