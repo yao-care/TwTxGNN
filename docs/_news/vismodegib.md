@@ -14,7 +14,7 @@ permalink: /news/vismodegib/
 ---
 
 <p class="key-answer" data-question="Vismodegib 有什麼相關新聞？">
-<strong>Vismodegib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vismodegib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,28 +35,20 @@ permalink: /news/vismodegib/
 <li>Brenner tumor（99.8%）</li>
 <li>cutaneous adenocystic carcinoma（99.8%）</li>
 <li>prostate leiomyoma（99.8%）</li>
-<li class="indication-matched">skin cancer（99.8%）<span class="indication-tag">📰 皮膚癌</span></li>
+<li>skin cancer（99.8%）</li>
 <li>benign neoplasm of sweat gland（99.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vismodegib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [難怪吃D都沒效！你也是空腹吃？](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lSU9UbGYxSEVXNUE4RzVQend2bDVRYmw2QXM0clpMSUdSUDdkWk1vUU1jem1FOWxnR1FndWN1dnhXOU00Ym1keUkzdklHN0lsOFpCOQ?oc=5)
-
-2026-07-24 <span class="news-indication-tag">皮膚癌</span>
-
-來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lSU9UbGYxSEVXNUE4RzVQend2bDVRYmw2QXM0clpMSUdSUDdkWk1vUU1jem1FOWxnR1FndWN1dnhXOU00Ym1keUkzdklHN0lsOFpCOQ?oc=5)
-
----
-
-### [WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 - TechNews 科技新報](https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2FXVUM4TTlRdDVUTWdSUUVvVElDbUZTYWs0OEVYdG83MTdsRjFjNFVjNmxmOEFCa2NNcGRYVGMzbjJaU29qcnZrdXo2bXJsYzNxajgwTGVFdndYdFd0cHlBZnVXY2F3amZiRWdudnlhTUstb2JaV19GOWVPLWZaXzRYR1BnY2NMZW9uVzdtVUFEaDdzbDV3?oc=5)
+### [WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTWpzTnNGVmtqaEJhM2cxeWNYRWRDMUpZM3A5ZkFxMmcxenVmMC14NmRqM3kyM0QySENEZkYtbWhxTU05ZGRjbDVuLUpPVktQZEg0WFdB?oc=5)
 
 2026-07-23 <span class="news-indication-tag">癌症</span>
 
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2FXVUM4TTlRdDVUTWdSUUVvVElDbUZTYWs0OEVYdG83MTdsRjFjNFVjNmxmOEFCa2NNcGRYVGMzbjJaU29qcnZrdXo2bXJsYzNxajgwTGVFdndYdFd0cHlBZnVXY2F3amZiRWdudnlhTUstb2JaV19GOWVPLWZaXzRYR1BnY2NMZW9uVzdtVUFEaDdzbDV3?oc=5)
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTWpzTnNGVmtqaEJhM2cxeWNYRWRDMUpZM3A5ZkFxMmcxenVmMC14NmRqM3kyM0QySENEZkYtbWhxTU05ZGRjbDVuLUpPVktQZEg0WFdB?oc=5)
 
 ---
 

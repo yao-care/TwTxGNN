@@ -1,17 +1,29 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-24T14:45:28.608680+00:00",
-  "count": 23,
+  "fetched_at": "2026-07-24T18:11:32.351165+00:00",
+  "count": 21,
   "news": [
     {
-      "id": "257df82050ea",
-      "title": "愛生氣、體重突增加？專家「身體慢性發炎」6警訊 很多人中了還不知道 - Yahoo新聞",
-      "published": "2026-07-24T08:00:00+00:00",
-      "summary": "愛生氣、體重突增加？專家「身體慢性發炎」6警訊 很多人中了還不知道&nbsp;&nbsp;Yahoo新聞50歲男「戒糖仍一堆慢性病」！醫揪奪命習慣：比糖還毒&nbsp;&nbsp;三立新聞戒糖還是病？醫揭真正傷身元凶：熬夜久坐都中| TVBS&nbsp;&nbsp;LINE TODAY戒糖還是不健康？ 醫師點名5大壞習慣更傷身&nbsp;&nbsp;壹蘋新聞網戒糖還是一堆慢性病醫揪奪命習慣：養出根源- 健康&nbsp;&nbsp;中時新聞網",
+      "id": "647ca28f0344",
+      "title": "美國麻疹病例衝破去年總數創35年新高 清零地位恐將不保 - 客新聞 HakkaNews",
+      "published": "2026-07-24T07:00:17+00:00",
+      "summary": "美國麻疹病例衝破去年總數創35年新高 清零地位恐將不保&nbsp;&nbsp;客新聞 HakkaNews美國麻疹病例突破2295例創35年新高 專家憂接種率不足恐危及消除成果&nbsp;&nbsp;Taiwan News洛縣警告：兒童和青少年麻疹病例劇增&nbsp;&nbsp;Singtaousa传染性强于新冠六倍！美麻疹病例破纪录(图)&nbsp;&nbsp;CMoney加州麻疹病例翻倍LAX兩現感染旅客- 美國要聞- 新聞&nbsp;&nbsp;華人今日網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOZFZFRXpNdWk5MVF5WmhSeHkzTldYenBjTEJUWEZBWFlVdktZdW5EVFhPWUcxTDZ0NFhkM093YTU2dVVXeEctbDYzUGYzbWUzcUJNZ3FUQ0dpMXFNLXh6Q3lKSXNRUGctQVQtMnQyR3p3d2RIZ0FIdHlBckxiSDlsb0N6NkRqUlp4MHMtaTJkYU13WlB0N3Vib1p5TGpNcVp1VHhUcXhSeDc2TlRWUEVsZEk0S1RBN2tIbGVnRWg2SkE3dEhOb0ZFMGw1cHBWR3BQbk5McFEtbmZYcTItZUFPMTVLTHBzT2pEZ2RKQ3llZjdYSHFPY0gtSzA3VUtRLXQ1ak52cWxzeEpzWkJEZEV3N1Z6Y195WGk0a0s1TGYxdUVQNVhPa1dDY3MzbF9TS2Ixenc?oc=5"
+          "name": "客新聞 HakkaNews",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oZDhfNWN6MDVZQlI3RENmbnhLV1QwQjY1d1NfTmpLWUllT3FmbWQwTmhJTzd3Um1tRldQaDRJZEtCWWM4SVBXLW5MVTN6LXNq?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fc706e70e9c8",
+      "title": "不是只有冬天會缺維生素D！研究揭高風險族群夏季仍難補足 全年都需注意 - 食力 foodNEXT",
+      "published": "2026-07-24T17:55:24+00:00",
+      "summary": "不是只有冬天會缺維生素D！研究揭高風險族群夏季仍難補足 全年都需注意&nbsp;&nbsp;食力 foodNEXT不只靠曬太陽！維生素D搭配「這類食物」 吸收率竟能狂增50%&nbsp;&nbsp;三立新聞難怪吃D都沒效！你也是空腹吃？&nbsp;&nbsp;東森新聞擦防曬導致維生素D不足？皮膚科醫師解析：5大防曬迷思一次看懂&nbsp;&nbsp;Harper's BAZAAR維他命D不足恐全身發炎 4方法有效補充 建議每日曬10至15分鐘&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "食力 foodNEXT",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xdnlOUnBfeGlXbXBxanZKR3hpbDFOS3MwS09LVFRIbkc5RG9fQmhWbTdneERWTkVrUWtPeUJlYUpMUEFFRjZZVEcybTBpOFFhclFDdE5CY2NVWDNWMWJYQS1YYTY?oc=5"
         }
       ]
     },
@@ -36,30 +48,6 @@
         {
           "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tZ25md2FsYnFjZTRvampOQUFUcFNfRDBfbU5uQmk3bE40YkdNRTVxcEhNSGhvRnBXT1NtN21JdWhPSUFxWHFlU1FBTUlMMkJ4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4898182710c7",
-      "title": "難怪吃D都沒效！你也是空腹吃？ - 東森新聞",
-      "published": "2026-07-24T06:27:00+00:00",
-      "summary": "難怪吃D都沒效！你也是空腹吃？&nbsp;&nbsp;東森新聞不只靠曬太陽！維生素D搭配「這類食物」 吸收率竟能狂增50%&nbsp;&nbsp;Yahoo新聞擦防曬導致維生素D不足？皮膚科醫師解析：5大防曬迷思一次看懂&nbsp;&nbsp;Harper's BAZAAR維他命D不足恐全身發炎 4方法有效補充 建議每日曬10至15分鐘&nbsp;&nbsp;香港01防曬｜塗防曬乳8大常見錯誤太大力搽功效大降25%增皮膚癌風險4個部位常漏搽使用量+每2小時要補- 東張+&nbsp;&nbsp;myTV SUPER",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lSU9UbGYxSEVXNUE4RzVQend2bDVRYmw2QXM0clpMSUdSUDdkWk1vUU1jem1FOWxnR1FndWN1dnhXOU00Ym1keUkzdklHN0lsOFpCOQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "647ca28f0344",
-      "title": "美國麻疹病例衝破去年總數創35年新高 清零地位恐將不保 - 客新聞 HakkaNews",
-      "published": "2026-07-24T07:00:17+00:00",
-      "summary": "美國麻疹病例衝破去年總數創35年新高 清零地位恐將不保&nbsp;&nbsp;客新聞 HakkaNews美國麻疹病例突破2295例創35年新高 專家憂接種率不足恐危及消除成果&nbsp;&nbsp;Taiwan News洛縣警告：兒童和青少年麻疹病例劇增&nbsp;&nbsp;Singtaousa传染性强于新冠六倍！美麻疹病例破纪录(图)&nbsp;&nbsp;CMoney加州麻疹病例翻倍LAX兩現感染旅客- 美國要聞- 新聞&nbsp;&nbsp;華人今日網",
-      "sources": [
-        {
-          "name": "客新聞 HakkaNews",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oZDhfNWN6MDVZQlI3RENmbnhLV1QwQjY1d1NfTmpLWUllT3FmbWQwTmhJTzd3Um1tRldQaDRJZEtCWWM4SVBXLW5MVTN6LXNq?oc=5"
         }
       ]
     },
@@ -124,26 +112,14 @@
       ]
     },
     {
-      "id": "74017c5c7010",
-      "title": "WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 - TechNews 科技新報",
-      "published": "2026-07-23T00:21:48+00:00",
-      "summary": "WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2FXVUM4TTlRdDVUTWdSUUVvVElDbUZTYWs0OEVYdG83MTdsRjFjNFVjNmxmOEFCa2NNcGRYVGMzbjJaU29qcnZrdXo2bXJsYzNxajgwTGVFdndYdFd0cHlBZnVXY2F3amZiRWdudnlhTUstb2JaV19GOWVPLWZaXzRYR1BnY2NMZW9uVzdtVUFEaDdzbDV3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "04de6a9153be",
-      "title": "研究：使用GLP-1減重藥恐致脫髮 發生率低但確實存在 | 民視新聞網 - LINE TODAY",
-      "published": "2026-07-22T23:15:42+00:00",
-      "summary": "研究：使用GLP-1減重藥恐致脫髮 發生率低但確實存在 | 民視新聞網&nbsp;&nbsp;LINE TODAY甩贅肉卻變禿頭？研究：瘦瘦針GLP-1藥物掉髮風險恐增68%&nbsp;&nbsp;三立新聞銀髮族能打瘦瘦針？逾65歲長者可減重23％，但注意三大副作用&nbsp;&nbsp;遠見雜誌減重神藥恐害掉髮？研究：瘦瘦針GLP-1藥物增68%落髮風險&nbsp;&nbsp;UDN長者服用減肥藥恐增衰弱風險！美研究：應加強追蹤監測&nbsp;&nbsp;民視新聞網",
+      "id": "653cd32b65cd",
+      "title": "WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 | 科技新報 - LINE TODAY",
+      "published": "2026-07-23T08:46:13+00:00",
+      "summary": "WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GMEsyQmdzNXdldGkza2dRUEttczUyc0JkRWtTV3RmYVZWc1VPMEExb0FQWFgxUTJhLVFFRmhMTEVQeDB3SVo0OTN3RkNlU1JQQzdlN2V3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTWpzTnNGVmtqaEJhM2cxeWNYRWRDMUpZM3A5ZkFxMmcxenVmMC14NmRqM3kyM0QySENEZkYtbWhxTU05ZGRjbDVuLUpPVktQZEg0WFdB?oc=5"
         }
       ]
     },
@@ -196,26 +172,26 @@
       ]
     },
     {
-      "id": "eb9a5935417c",
-      "title": "PM2.5恐致敏感性皮膚炎 女星柯佳嬿也受害 - 三立新聞",
+      "id": "8f539459c3cc",
+      "title": "PM2.5恐致敏感性皮膚炎 女星柯佳嬿也受害 - 三立新聞網SETN.com",
       "published": "2026-07-23T18:06:07+00:00",
-      "summary": "PM2.5恐致敏感性皮膚炎 女星柯佳嬿也受害&nbsp;&nbsp;三立新聞",
+      "summary": "PM2.5恐致敏感性皮膚炎 女星柯佳嬿也受害&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
-          "name": "三立新聞",
+          "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE10bTJKRXFwdFVZZkxOa3pJSkhZQnVQU3dwZ2psZHY3UTFZbnFaempka090TlBKRi1oaWtYeVc1LXVOR2NaeUZV?oc=5"
         }
       ]
     },
     {
-      "id": "af26de2bbce0",
-      "title": "美國大規模研究揭示多發性硬化症死亡率差異與高血壓風險警訊 - GeneOnline News",
-      "published": "2026-07-22T20:05:25+00:00",
-      "summary": "美國大規模研究揭示多發性硬化症死亡率差異與高血壓風險警訊&nbsp;&nbsp;GeneOnline News",
+      "id": "1e1eb506737b",
+      "title": "流感︱前港姐冠軍翁嘉穗全家外遊中流感72歲富商老公鄔友正高燒至39.7℃ 病足10日嘆過於放縱身體響警鐘 - 晴報 Sky Post",
+      "published": "2026-07-24T12:01:43+00:00",
+      "summary": "流感︱前港姐冠軍翁嘉穗全家外遊中流感72歲富商老公鄔友正高燒至39.7℃ 病足10日嘆過於放縱身體響警鐘&nbsp;&nbsp;晴報 Sky Post",
       "sources": [
         {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQenR3NjlhRjhqX0FabVB0Y29udnVtYzZ0VzgtWDNNejlzN1RDVDVBTHJyYlFseXItSlZBTm5oZUstd0tvVWpKekl6ajNxbjMzdF9VZ0YyeEVZdk5YYVJETUwwNjIwQUllQTVGNjB0bW1PNnFBS0Vic0VCdVRwelhzVVZPZVZqR0F4cmxqSjdWYUhSc09TN29mb3Y1UEVMLUJVa0tYN3owWFVtckFONUdNdlFXbVVSa2drQlJDLW9QeUxyazRRcGhraWFyY2lrLXVpMjBXWE5mbE1oZkcwMm5Pa3Y1ZU41azVEekI1aDdPamdTTDZuZEp0Umd3ZFhxSWtQZC04cXBtY1V3Q1lraUJ0V2gyOHk0UW41ZGRWdXJKZDBUNjV6b1hibEphc0dGa2lTY1hGcEY0aVlfTnlXWG5YWF9kaVhZUQ?oc=5"
+          "name": "晴報 Sky Post",
+          "link": "https://news.google.com/rss/articles/CBMixgRBVV95cUxOd050ZlhQRmRNVXljVkxzak9iQk5TOFZOWTgzUzAtNkNTSEN0c0RhRzlJRm1MUGY5VElJaG1HZXZfcm1mck1XTGNqcmZsMFR3U3VudU15WkxZanFhcW9YUEhlal85VXRYUGljT2lSSm55cndjUmNkVnV2MkNtWVBFaHR1QktBS1ZiUC1qcGp0YkthdlcxQ1o5WnNkV3ZTY2g1NERsc3RLaUFZeUhTVjZoN0dUbVZaWTdmMkY5T1hsc1NJQV9PSU9FQ09tbU5nSkxUb2NZZGstVmhISjZsYlBkYXNkSERueWdlWVlXTUZsa3hiT0ZnZm9BRUlwVTROQnMtaGNRX05aZl91cnJfeDkwck53RTZGTG5JakVWZUw0ZWV4T0F0U0EtZ0UxMDlwT3ZxOVN2SFJSTGtMWEt1a2U4RkJMZWZJQk1EQnlzODVyNWkyLU93YWdNa1YzYWNwbzZBUWxTRGpDdUJkSlQ0eVFqN3FNNXBZeW9sSkJ5X2ptNGNrUXFEdVE2OFBfNTgtOVB1ZFFJTEwwTUtaRDVLVmNZWGFjYzB2dk9KWGN6S1h1amh6WDFkNEZHU2p2ZVFrd0UyUHEwRWFCZ3lYeFR2VHRpdnBySHRtVkZkVkN6OEcxcU85ZVJCbEp2MXJ3Y3p0MnEzdnBMZ2Z3TGtSV0VZX010M041VXY3dE0wSTVMczc5Nk1uaHlucE93dU03aW5sMnlBMmFtN2dhYjVYNE10Y3ZqMm5qd21lVjRXcXdsVkpPOTlicUo0TkE?oc=5"
         }
       ]
     },
@@ -232,14 +208,14 @@
       ]
     },
     {
-      "id": "1e1eb506737b",
-      "title": "流感︱前港姐冠軍翁嘉穗全家外遊中流感72歲富商老公鄔友正高燒至39.7℃ 病足10日嘆過於放縱身體響警鐘 - 晴報 Sky Post",
-      "published": "2026-07-24T12:01:43+00:00",
-      "summary": "流感︱前港姐冠軍翁嘉穗全家外遊中流感72歲富商老公鄔友正高燒至39.7℃ 病足10日嘆過於放縱身體響警鐘&nbsp;&nbsp;晴報 Sky Post",
+      "id": "af26de2bbce0",
+      "title": "美國大規模研究揭示多發性硬化症死亡率差異與高血壓風險警訊 - GeneOnline News",
+      "published": "2026-07-22T20:05:25+00:00",
+      "summary": "美國大規模研究揭示多發性硬化症死亡率差異與高血壓風險警訊&nbsp;&nbsp;GeneOnline News",
       "sources": [
         {
-          "name": "晴報 Sky Post",
-          "link": "https://news.google.com/rss/articles/CBMixgRBVV95cUxOd050ZlhQRmRNVXljVkxzak9iQk5TOFZOWTgzUzAtNkNTSEN0c0RhRzlJRm1MUGY5VElJaG1HZXZfcm1mck1XTGNqcmZsMFR3U3VudU15WkxZanFhcW9YUEhlal85VXRYUGljT2lSSm55cndjUmNkVnV2MkNtWVBFaHR1QktBS1ZiUC1qcGp0YkthdlcxQ1o5WnNkV3ZTY2g1NERsc3RLaUFZeUhTVjZoN0dUbVZaWTdmMkY5T1hsc1NJQV9PSU9FQ09tbU5nSkxUb2NZZGstVmhISjZsYlBkYXNkSERueWdlWVlXTUZsa3hiT0ZnZm9BRUlwVTROQnMtaGNRX05aZl91cnJfeDkwck53RTZGTG5JakVWZUw0ZWV4T0F0U0EtZ0UxMDlwT3ZxOVN2SFJSTGtMWEt1a2U4RkJMZWZJQk1EQnlzODVyNWkyLU93YWdNa1YzYWNwbzZBUWxTRGpDdUJkSlQ0eVFqN3FNNXBZeW9sSkJ5X2ptNGNrUXFEdVE2OFBfNTgtOVB1ZFFJTEwwTUtaRDVLVmNZWGFjYzB2dk9KWGN6S1h1amh6WDFkNEZHU2p2ZVFrd0UyUHEwRWFCZ3lYeFR2VHRpdnBySHRtVkZkVkN6OEcxcU85ZVJCbEp2MXJ3Y3p0MnEzdnBMZ2Z3TGtSV0VZX010M041VXY3dE0wSTVMczc5Nk1uaHlucE93dU03aW5sMnlBMmFtN2dhYjVYNE10Y3ZqMm5qd21lVjRXcXdsVkpPOTlicUo0TkE?oc=5"
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQenR3NjlhRjhqX0FabVB0Y29udnVtYzZ0VzgtWDNNejlzN1RDVDVBTHJyYlFseXItSlZBTm5oZUstd0tvVWpKekl6ajNxbjMzdF9VZ0YyeEVZdk5YYVJETUwwNjIwQUllQTVGNjB0bW1PNnFBS0Vic0VCdVRwelhzVVZPZVZqR0F4cmxqSjdWYUhSc09TN29mb3Y1UEVMLUJVa0tYN3owWFVtckFONUdNdlFXbVVSa2drQlJDLW9QeUxyazRRcGhraWFyY2lrLXVpMjBXWE5mbE1oZkcwMm5Pa3Y1ZU41azVEekI1aDdPamdTTDZuZEp0Umd3ZFhxSWtQZC04cXBtY1V3Q1lraUJ0V2gyOHk0UW41ZGRWdXJKZDBUNjV6b1hibEphc0dGa2lTY1hGcEY0aVlfTnlXWG5YWF9kaVhZUQ?oc=5"
         }
       ]
     },

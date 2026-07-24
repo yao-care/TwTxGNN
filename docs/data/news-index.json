@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T14:45:32.863207+00:00",
-  "count": 6,
+  "generated": "2026-07-24T18:11:36.388533+00:00",
+  "count": 5,
   "news": [
     {
       "id": "8c0a789353d8",
@@ -25,30 +25,6 @@
             {
               "slug": "disopyramide",
               "name": "Disopyramide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4898182710c7",
-      "title": "難怪吃D都沒效！你也是空腹吃？",
-      "published": "2026-07-24T06:27:00+00:00",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lSU9UbGYxSEVXNUE4RzVQend2bDVRYmw2QXM0clpMSUdSUDdkWk1vUU1jem1FOWxnR1FndWN1dnhXOU00Ym1keUkzdklHN0lsOFpCOQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "skin cancer",
-          "keyword": "皮膚癌",
-          "related_drugs": [
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
             }
           ]
         }
@@ -103,13 +79,13 @@
       ]
     },
     {
-      "id": "74017c5c7010",
-      "title": "WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 - TechNews 科技新報",
-      "published": "2026-07-23T00:21:48+00:00",
+      "id": "653cd32b65cd",
+      "title": "WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 | 科技新報 - LINE TODAY",
+      "published": "2026-07-23T08:46:13+00:00",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2FXVUM4TTlRdDVUTWdSUUVvVElDbUZTYWs0OEVYdG83MTdsRjFjNFVjNmxmOEFCa2NNcGRYVGMzbjJaU29qcnZrdXo2bXJsYzNxajgwTGVFdndYdFd0cHlBZnVXY2F3amZiRWdudnlhTUstb2JaV19GOWVPLWZaXzRYR1BnY2NMZW9uVzdtVUFEaDdzbDV3?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTWpzTnNGVmtqaEJhM2cxeWNYRWRDMUpZM3A5ZkFxMmcxenVmMC14NmRqM3kyM0QySENEZkYtbWhxTU05ZGRjbDVuLUpPVktQZEg0WFdB?oc=5"
         }
       ],
       "keywords": [
