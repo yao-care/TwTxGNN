@@ -1,7 +1,31 @@
 {
-  "generated": "2026-07-25T18:54:12.907516+00:00",
-  "count": 2,
+  "generated": "2026-07-25T20:06:18.457977+00:00",
+  "count": 3,
   "news": [
+    {
+      "id": "b92dd6a5f0e9",
+      "title": "膽固醇正常就停藥？「吃吃停停」恐致血栓 醫警告：死亡率飆23%",
+      "published": "2026-07-25T19:00:00+00:00",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vSzBrTFYxenVzcl9vYUduR3U3LVc5cEo3aGgzWHpnLU82WVBHRV81ZVVXNmRKdHgwNlhrbDFiZVRqV0d1WWxXSmxBZzl2Zlpy?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "b48de72d6124",
       "title": "港大 AI 血液檢測，提前 15 年攔截六大心血管疾病 - TechNews 科技新報",
