@@ -1,8 +1,57 @@
 {
-  "last_updated": "2026-07-25T15:57:15.609201+00:00",
-  "total_count": 14,
-  "matched_count": 1,
+  "last_updated": "2026-07-25T16:52:46.762689+00:00",
+  "total_count": 16,
+  "matched_count": 2,
   "news": [
+    {
+      "id": "f5557b011bef",
+      "title": "神經科學家：下午改喝低咖啡因咖啡，記憶力反而更好",
+      "published": "2026-07-25T16:02:37+00:00",
+      "summary": "神經科學家：下午改喝低咖啡因咖啡，記憶力反而更好&nbsp;&nbsp;Bella.tw儂儂",
+      "sources": [
+        {
+          "name": "Bella.tw儂儂",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUl9qVXV2X1lBYi02Q1lpRnYtRWJDeW9XcHhpQXFWVGZUMnRQRVN6TWhub0s2ZWZ3QWZ0aVpvYl9vTWhNWkNHemh3LVVYSVNjUVZURzd4ZVlyQzFmcHV2bnRaQXhiMTVENFRxT04xWDZQUFZkRWl1dV9KSUpUaDN0SG8yaURwTFhRekE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b48de72d6124",
+      "title": "港大 AI 血液檢測，提前 15 年攔截六大心血管疾病 - TechNews 科技新報",
+      "published": "2026-07-25T16:00:22+00:00",
+      "summary": "港大 AI 血液檢測，提前 15 年攔截六大心血管疾病&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTEJsMUVxTE1MZHlxMnRkTExqZGtGVm11Y2J3enFnM1RRei1zZW1SYlpBenpJTkVCcU1tWFRvamtRMUVMbXlYVWg3WDBpd3FvS25zVEpmMnhHb0RVNFZ4UVlWNi16eG02NTBUTGtOOVBtVjlrYTlEOEJabWFHNVQxb21yMWQ1blpoYmFRTmFoSXp4SFIzMFdmWnktQVozVlB0R2UzTQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2b4e0084a3b0",
       "title": "狂補D3還是骨鬆？醫揭正確吃法",
@@ -43,14 +92,14 @@
       "matched_keywords": []
     },
     {
-      "id": "57e15eca0c04",
+      "id": "373e596a96eb",
       "title": "不是豬肉或牛肉！哈佛認證「地球上營養最豐富動物」一個僅10大卡",
       "published": "2026-07-25T02:18:29+00:00",
       "summary": "不是豬肉或牛肉！哈佛認證「地球上營養最豐富動物」一個僅10大卡&nbsp;&nbsp;元氣網",
       "sources": [
         {
           "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84Vl9NZW15Tm9rUmtvUVh0bjFvWW5VOFFxeTlUdGVManZSVzFZeGl4R0xYWGw3WkdNWkxRX3NVNXpMSGhsc0RqYjZoNFNuRnRHQzBNVUdxZ2h4VVpD0gFiQVVfeXFMTmR3MGctNk5OYzQ3bjFqVFEwQmtFbzVMYVE5bUdPRmQ2M1FubHZGd0dhSXZONlB3d1VOYnJlTUNkRG53SlB2S0EwNWJnUTE2YlZLSXVrWWpWQzFkdVk4S1BEU1E?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kdzBnLTZOTmM0N24xalRRMEJrRW81TGFROW1HT0ZkNjNRbmx2RndHYUl2TjZQd3dVTmJyZU1DZERud0pQdktBMDViZ1ExNmJWS0l1a1lqVkMxZHVZOEtQRFNR0gFiQVVfeXFMTmR3MGctNk5OYzQ3bjFqVFEwQmtFbzVMYVE5bUdPRmQ2M1FubHZGd0dhSXZONlB3d1VOYnJlTUNkRG53SlB2S0EwNWJnUTE2YlZLSXVrWWpWQzFkdVk4S1BEU1E?oc=5"
         }
       ],
       "matched_keywords": []

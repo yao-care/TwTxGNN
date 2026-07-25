@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [港大 AI 血液檢測，提前 15 年攔截六大心血管疾病 - TechNews 科技新報](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTEJsMUVxTE1MZHlxMnRkTExqZGtGVm11Y2J3enFnM1RRei1zZW1SYlpBenpJTkVCcU1tWFRvamtRMUVMbXlYVWg3WDBpd3FvS25zVEpmMnhHb0RVNFZ4UVlWNi16eG02NTBUTGtOOVBtVjlrYTlEOEJabWFHNVQxb21yMWQ1blpoYmFRTmFoSXp4SFIzMFdmWnktQVozVlB0R2UzTQ?oc=5)
+
+2026-07-25 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTEJsMUVxTE1MZHlxMnRkTExqZGtGVm11Y2J3enFnM1RRei1zZW1SYlpBenpJTkVCcU1tWFRvamtRMUVMbXlYVWg3WDBpd3FvS25zVEpmMnhHb0RVNFZ4UVlWNi16eG02NTBUTGtOOVBtVjlrYTlEOEJabWFHNVQxb21yMWQ1blpoYmFRTmFoSXp4SFIzMFdmWnktQVozVlB0R2UzTQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

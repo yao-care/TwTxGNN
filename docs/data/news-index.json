@@ -1,7 +1,42 @@
 {
-  "generated": "2026-07-25T15:57:15.637756+00:00",
-  "count": 1,
+  "generated": "2026-07-25T16:52:46.792517+00:00",
+  "count": 2,
   "news": [
+    {
+      "id": "b48de72d6124",
+      "title": "港大 AI 血液檢測，提前 15 年攔截六大心血管疾病 - TechNews 科技新報",
+      "published": "2026-07-25T16:00:22+00:00",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTEJsMUVxTE1MZHlxMnRkTExqZGtGVm11Y2J3enFnM1RRei1zZW1SYlpBenpJTkVCcU1tWFRvamtRMUVMbXlYVWg3WDBpd3FvS25zVEpmMnhHb0RVNFZ4UVlWNi16eG02NTBUTGtOOVBtVjlrYTlEOEJabWFHNVQxb21yMWQ1blpoYmFRTmFoSXp4SFIzMFdmWnktQVozVlB0R2UzTQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "919bfaf7c66f",
       "title": "洗腎又骨鬆，小心「鈣」失控！洗腎患者低血鈣危機 嘉基醫師提醒定期追蹤",
