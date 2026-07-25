@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-25T05:35:14.183333+00:00",
+  "generated": "2026-07-25T07:51:24.017567+00:00",
   "count": 3,
   "news": [
     {
@@ -31,24 +31,24 @@
       ]
     },
     {
-      "id": "3b648b6b00c3",
-      "title": "常下廚，失智風險大降67%！媽媽忘了開烤箱後，專家反而勸：別禁止長輩做飯，一起做更重要| 幸福熟齡X 今周刊 - LINE TODAY",
-      "published": "2026-07-23T08:59:26+00:00",
+      "id": "c01524b924ac",
+      "title": "新版膽固醇指引改看長期風險 美研究：56.6%成年人符合他汀用藥建議 - Taiwan News",
+      "published": "2026-07-24T01:15:00+00:00",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXUVlfM3o2bWlqTWt2MTdFTDNydWREcnlHd29EZjloOFpNM1VlUlBNRVIyeGY5emNUaVI4dlNwel8tY2RKV0Mxb05XS1owZ0dwOVg4OHFR?oc=5"
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4RWJPV1g2Nk9BOUk0Tkt1LW92SC10cm9HaUJUQVJOOWhKTU5JTkNadE1FWENKSXpYSHh3YUdwdm4wSE9jRC15cm9makFCeExVaWl6OGN3Xzg?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
+          "name": "cardiovascular",
+          "keyword": "心血管",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
             }
           ]
         }
