@@ -4,6 +4,9 @@ title: 藥物報告
 nav_order: 4
 has_children: true
 description: "瀏覽 191 份老藥新用驗證報告，依 L1-L5 證據等級分類。"
+permalink: /nav-drugs/
+redirect_from:
+  - /nav-drugs.html
 ---
 
 # 藥物報告
@@ -161,3 +164,4 @@ description: "瀏覽 191 份老藥新用驗證報告，依 L1-L5 證據等級分
 <p style="text-align: center; margin-top: 2rem;">
   <a href="{{ '/drugs/' | relative_url }}" style="display: inline-block; padding: 0.75rem 2rem; background: #2E7D32; color: white; text-decoration: none; border-radius: 8px; font-weight: 600;">查看完整藥物列表</a>
 </p>
+

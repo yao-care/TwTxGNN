@@ -5,6 +5,9 @@ parent: 藥物報告
 nav_order: 3
 has_children: true
 description: "L5 等級的老藥新用候選藥物，目前僅有 AI 模型預測，尚無臨床證據，可作為研究方向參考。"
+permalink: /evidence-low/
+redirect_from:
+  - /evidence-low.html
 ---
 
 # 僅模型預測藥物
@@ -37,3 +40,4 @@ TxGNN 模型預測但尚無臨床證據支持的候選藥物
 |---------|---------|------|
 {% for drug in l5_drugs %}| {{ drug.title }} | {{ drug.indication_count }} | [查看報告]({{ drug.url | relative_url }}) |
 {% endfor %}
+

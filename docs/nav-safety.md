@@ -4,6 +4,9 @@ title: 安全性資料
 nav_order: 5
 has_children: true
 description: "四大交互作用資料庫：DDI、DDSI、DFI、DHI，評估老藥新用安全風險。"
+permalink: /nav-safety/
+redirect_from:
+  - /nav-safety.html
 ---
 
 # 安全性資料
@@ -188,4 +191,5 @@ description: "四大交互作用資料庫：DDI、DDSI、DFI、DHI，評估老�
 | DDSI | DDInter 2.0 | 8,359 | 2026-02-21 |
 | DFI | DDInter 2.0 | 857 | 2026-02-21 |
 | DHI | 精選資料集 | 35 | 2026-02-21 |
+
 

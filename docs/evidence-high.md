@@ -5,6 +5,9 @@ parent: 藥物報告
 nav_order: 1
 has_children: true
 description: "L1-L2 等級的老藥新用候選藥物，具有多項臨床試驗或系統性回顧支持，可優先考慮進入臨床評估。"
+permalink: /evidence-high/
+redirect_from:
+  - /evidence-high.html
 ---
 
 # 高證據等級藥物
@@ -42,3 +45,4 @@ description: "L1-L2 等級的老藥新用候選藥物，具有多項臨床試驗
 |---------|---------|------|
 {% for drug in l2_drugs %}| **{{ drug.title }}** | {{ drug.indication_count }} | [查看報告]({{ drug.url | relative_url }}) |
 {% endfor %}
+

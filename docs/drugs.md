@@ -2,6 +2,9 @@
 layout: default
 title: 藥物總覽
 nav_order: 5
+permalink: /drugs/
+redirect_from:
+  - /drugs.html
 ---
 
 # 藥物總覽
@@ -32,3 +35,4 @@ nav_order: 5
 |---------|---------|---------|
 {% for drug in all_drugs %}| [{{ drug.title }}]({{ drug.url | relative_url }}) | {{ drug.evidence_level }} | {{ drug.indication_count }} |
 {% endfor %}
+

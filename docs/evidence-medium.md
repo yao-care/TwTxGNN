@@ -5,6 +5,9 @@ parent: 藥物報告
 nav_order: 2
 has_children: true
 description: "L3-L4 等級的老藥新用候選藥物，具有觀察性研究或前臨床證據支持，值得進一步研究探索。"
+permalink: /evidence-medium/
+redirect_from:
+  - /evidence-medium.html
 ---
 
 # 中證據等級藥物
@@ -42,3 +45,4 @@ description: "L3-L4 等級的老藥新用候選藥物，具有觀察性研究或
 |---------|---------|------|
 {% for drug in l4_drugs %}| **{{ drug.title }}** | {{ drug.indication_count }} | [查看報告]({{ drug.url | relative_url }}) |
 {% endfor %}
+
