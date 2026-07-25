@@ -27,11 +27,6 @@ twitter:
   card: summary_large_image
   # 移除 twitter:site 和 twitter:creator 因為沒有官方 Twitter 帳號
 
-# 作者資訊 (E-E-A-T)
-author:
-  name: 藥提醒科技有限公司 (yao.care)
-  url: https://www.yao.care/
-
 # 允許發布未來日期的文章
 future: true
 
@@ -112,5 +107,6 @@ defaults:
     values:
       layout: "default"
       nav_exclude: true
+
 
 
