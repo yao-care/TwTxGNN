@@ -1,32 +1,20 @@
 {
-  "last_updated": "2026-07-25T02:49:05.096893+00:00",
+  "last_updated": "2026-07-25T05:35:14.161989+00:00",
   "total_count": 20,
-  "matched_count": 4,
+  "matched_count": 3,
   "news": [
     {
-      "id": "06f0e4c61792",
-      "title": "感冒靈納「藥駕」管制！陸藥監局：服藥後不得開車",
-      "published": "2026-07-25T02:22:33+00:00",
-      "summary": "感冒靈納「藥駕」管制！陸藥監局：服藥後不得開車&nbsp;&nbsp;中時新聞網",
+      "id": "4421c35aa8f7",
+      "title": "HPV疫苗不只防菜花！醫揭更重要用途「降低多種癌風險」",
+      "published": "2026-07-25T03:11:27+00:00",
+      "summary": "HPV疫苗不只防菜花！醫揭更重要用途「降低多種癌風險」&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZQ3ZTNFNaR1EwVk5nc2M1bWkySDdZMExyUUV5dVM5MHNwSFFBbGtSUkhIaXo0eWlyQU14aGQ0ZmE2SnBxWTN0WmlSUGdWWkMxalVNVTBwRUhqaFRrSmplWlVKWW9oZXlJaEJndWtB?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQd3J2VXI2SVRlSE5SR0txMXRQWW9uOWwzMU5kRVBmSnNYTlgtOW1pV2haeTdMYjdsUnZOckhERkVxZV9ldENpRUJlc0dMdWMxMEY1RmswNnZaRHhOaW51WjdDd2FHMUtJYVlyTFVSN1BISkN5WEJQN1JwSTVlMWJNSXVHUkJlbWJMN0tHRVlxcUVHa1k1TER0RmM2QUwzd2hwT3NQUjdNUXkxb0QwRnEwQXI5UFJpcEdkYjVTbEFxWXo4Y2JrdE5aVG5OcU9HSWFTM1JWWWJvZThKNE4tVDNubHQtbW1tN2haaFZxUDhubjI5dFhvbDVrRzhLV05KMXZkMTJVNHZUNlFDeGdFQk1YclpHSUYtLUkzT3V6Sm9mZ0h3MVNwU0E3dXBYYXBIdW5sQklGMm9CbDI1WWVITzVEZzZwdm5yWkpWTU9aenFHX2d2RWVXZEE?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "00fd1f56afad",
@@ -58,7 +46,7 @@
       "id": "844eb01122fb",
       "title": "美國麻疹病例創35年新高 今年已達2318例超越去年全年",
       "published": "2026-07-24T23:23:44+00:00",
-      "summary": "美國麻疹病例創35年新高 今年已達2318例超越去年全年&nbsp;&nbsp;波新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "美國麻疹病例創35年新高 今年已達2318例超越去年全年&nbsp;&nbsp;波新聞美麻疹病例數創35年來新高 連續第二年破紀錄&nbsp;&nbsp;大纪元美麻疹疫情創35年新高！接種率下滑、兒童成最大受害者 | 民視新聞網&nbsp;&nbsp;LINE TODAY美國麻疹病例突破2295例創35年新高 專家憂接種率不足恐危及消除成果&nbsp;&nbsp;Taiwan News洛縣警告：兒童和青少年麻疹病例劇增&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "波新聞",
@@ -108,6 +96,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "754843d583a9",
+      "title": "健康網》「射21次防癌」後 日網紅醫引研究：常射精能長壽",
+      "published": "2026-07-24T13:20:00+00:00",
+      "summary": "健康網》「射21次防癌」後 日網紅醫引研究：常射精能長壽&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NbXFNV3FTdDVteFlnbzFqSGlMamhOUkpTWjF3OXo1cGd5ZEFqNEpVdlJlNU14RWNjNmp6SW5Ydm5kMmhwenNXMGY0ckdZUzNWcl93OVBiMVN1QjlBcGRucW9ZcDDSAWpBVV95cUxQa1ZjMFJlN0ludEpVU0dLYjFJRjlYSDYxdWV4M3ZZOUNUXzlKam1fMTdzcl9ud2l4VnVDVHdBaUtSZTkyRHVLeVVzN0lNYzRUVkRnLWppZ25ZUE5TcTNZaml2dDRxVmEwdmR3?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "1e1eb506737b",
@@ -214,14 +215,14 @@
       "matched_keywords": []
     },
     {
-      "id": "d4aa679d5300",
-      "title": "全球最長壽國曝隱憂 平均11年帶病生活",
+      "id": "c99dbab51d6c",
+      "title": "活得更久卻病更久！全球最長壽國曝隱憂　平均11年帶病生活",
       "published": "2026-07-23T09:54:48+00:00",
-      "summary": "全球最長壽國曝隱憂 平均11年帶病生活&nbsp;&nbsp;Yahoo新聞",
+      "summary": "活得更久卻病更久！全球最長壽國曝隱憂 平均11年帶病生活&nbsp;&nbsp;NOWnews今日新聞",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNcDVIdHJXa0NORVdteEhCUzl1cnhjLW1HX01JZDdjYWc1N1pqWVRUMFdXSE9pZFM1S3FKcHJUdWxwZzl4eUR4N2VveUdLVVNXa2hyUHFnYjU1bkwyTndhMWVLU0kyb3JMc0lxY3ZpZi1YdXh3S1diZ1JrZnVqZE5PeThYV3BoUjlsNE5fM0NjOWh4d0RkMnpCSF8wZTl4NkpPNk82d3JVM3ZGUk8wS1JSd0swVTdJTGx5RnEwNWhCU25DSlRJQlljWDV2VFZqWW5DdE9pRTZBWjk4allSNHVhVGZaUHdadjB0eldIbFFyN3B4aUN4SFhWc3lkQlVPZmxWSXNuTWtrUWVZRVZ3cVozX2ZlMVd1bDg?oc=5"
+          "name": "NOWnews今日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxVlF5bGlMeUV1dXVydm8tS09od0h0eHZ1M3J4N1dId1IxbjF1TERMMVZoVmJoVVgzTkZBNFg0QVNqZzZYVW5RdVlqdV_SAVJBVV95cUxQTGFhVTUyYWZIUHRpUW93RXJlMFEzTWRfV1ozdFRmYzA0WlMtbGhRdTNlRTRFcC1sdGd0THBrZVVaYlV3MUlaZUJsWTZNem5PeHV3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -472,19 +473,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "ba86b16ee329",
-      "title": "出國旅遊別只顧訂機票！醫提醒做好5項健康準備：最常見疾病、必打疫苗一次看",
-      "published": "2026-07-23T07:17:44+00:00",
-      "summary": "出國旅遊別只顧訂機票！醫提醒做好5項健康準備：最常見疾病、必打疫苗一次看&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yNDZtRF9BejlQbmJVY1Nwd3ZxMnByY2pacTVjbmhZZXd4dTV3Z3JscDJtZ0hEaGJPT1BFM291SHlGRml6Y1VCTk5keHQzZ0xhTnJpcHQ4RlhHcnRB0gFiQVVfeXFMUEFjNmZSdXZ3TmRRYzJrVkYzbEhOdG9vX001YXdrOFphQjJPMVA2dWtmb0otTmZwempKeWF2aVdPalhLTGdKdzdLb1dvUXhnTWY2UzliZk5VMWZhOFUzRi1tRFE?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "1cc198f1120b",

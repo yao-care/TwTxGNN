@@ -1,31 +1,7 @@
 {
-  "generated": "2026-07-25T02:49:05.126962+00:00",
-  "count": 4,
+  "generated": "2026-07-25T05:35:14.183333+00:00",
+  "count": 3,
   "news": [
-    {
-      "id": "06f0e4c61792",
-      "title": "感冒靈納「藥駕」管制！陸藥監局：服藥後不得開車",
-      "published": "2026-07-25T02:22:33+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZQ3ZTNFNaR1EwVk5nc2M1bWkySDdZMExyUUV5dVM5MHNwSFFBbGtSUkhIaXo0eWlyQU14aGQ0ZmE2SnBxWTN0WmlSUGdWWkMxalVNVTBwRUhqaFRrSmplWlVKWW9oZXlJaEJndWtB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "919bfaf7c66f",
       "title": "洗腎又骨鬆，小心「鈣」失控！洗腎患者低血鈣危機 嘉基醫師提醒定期追蹤",
