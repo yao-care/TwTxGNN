@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-25T21:44:04.324245+00:00",
-  "count": 17,
+  "fetched_at": "2026-07-25T22:44:03.710270+00:00",
+  "count": 19,
   "news": [
     {
       "id": "844eb01122fb",
@@ -12,6 +12,18 @@
         {
           "name": "波新聞",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vVlFtaElILWRnbW9DYWwtVks5M0FKcXpoQjdRZWFhODgyN2oxNEZRYkxIOTc1OFBlQXJ5czRLZVNUaTJZZnN0YUtEUGlmcUpJZEVyUGpRdDJ0Z2loSERvZGt0MA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8655d576682c",
+      "title": "謠言終結站》流感、肺炎疫苗提高失智症風險? 研究被誤解 - 自由時報",
+      "published": "2026-07-25T21:30:00+00:00",
+      "summary": "謠言終結站》流感、肺炎疫苗提高失智症風險? 研究被誤解&nbsp;&nbsp;自由時報",
+      "sources": [
+        {
+          "name": "自由時報",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zRUY3WUY1aWRaMUtXV3dYdy1waThSbG8tSnF5QTJNMi1xWVpXSzBFWTltaGdCMXNGZWlLU1hleHlMbElHaGlfYmRjU0pvTENwdkthZjZNai1uZEdn0gFiQVVfeXFMTldXcHoxQ1h4Z2VOZHJTT2JqQUxhcWhQMTk2S0ZxUU1HdFVWYXVSUHFTdU5VaGV5Y0JZUmFzaktjcGR5TUhWdEVBT09xOElKUkppMllJVHJNbk5oMnVsZjhPQXc?oc=5"
         }
       ]
     },
@@ -43,7 +55,7 @@
       "id": "cdc2bb9f0dba",
       "title": "愛生氣、體重突增？專家「身體慢性發炎」6警訊 很多人中了還不知道 - 台視新聞網",
       "published": "2026-07-25T07:00:05+00:00",
-      "summary": "愛生氣、體重突增？專家「身體慢性發炎」6警訊 很多人中了還不知道&nbsp;&nbsp;台視新聞網愛生氣、體重突增加？專家「身體慢性發炎」6警訊 很多人中了還不知道&nbsp;&nbsp;Yahoo新聞50歲男「戒糖仍一堆慢性病」！醫揪奪命習慣：比糖還毒&nbsp;&nbsp;三立新聞戒糖還是病？醫揭真正傷身元凶：熬夜久坐都中| TVBS&nbsp;&nbsp;LINE TODAY戒糖還是不健康？ 醫師點名5大壞習慣更傷身&nbsp;&nbsp;壹蘋新聞網",
+      "summary": "愛生氣、體重突增？專家「身體慢性發炎」6警訊 很多人中了還不知道&nbsp;&nbsp;台視新聞網愛生氣、體重突增加？專家「身體慢性發炎」6警訊 很多人中了還不知道&nbsp;&nbsp;Yahoo新聞50歲男「戒糖仍一堆慢性病」！醫揪奪命習慣：比糖還毒&nbsp;&nbsp;三立新聞網SETN.com戒糖還是病？醫揭真正傷身元凶：熬夜久坐都中| TVBS&nbsp;&nbsp;LINE TODAY戒糖還是不健康？ 醫師點名5大壞習慣更傷身&nbsp;&nbsp;壹蘋新聞網",
       "sources": [
         {
           "name": "台視新聞網",
@@ -55,7 +67,7 @@
       "id": "2b4e0084a3b0",
       "title": "狂補D3還是骨鬆？醫揭正確吃法 - 東森新聞",
       "published": "2026-07-25T07:48:00+00:00",
-      "summary": "狂補D3還是骨鬆？醫揭正確吃法&nbsp;&nbsp;東森新聞不只靠曬太陽！維生素D搭配「這類食物」 吸收率竟能狂增50%&nbsp;&nbsp;三立新聞難怪吃D都沒效！你也是空腹吃？&nbsp;&nbsp;東森新聞擦防曬導致維生素D不足？皮膚科醫師解析：5大防曬迷思一次看懂&nbsp;&nbsp;Harper's BAZAAR維他命D不足恐全身發炎 4方法有效補充 建議每日曬10至15分鐘&nbsp;&nbsp;香港01",
+      "summary": "狂補D3還是骨鬆？醫揭正確吃法&nbsp;&nbsp;東森新聞不只靠曬太陽！維生素D搭配「這類食物」 吸收率竟能狂增50%&nbsp;&nbsp;三立新聞網SETN.com難怪吃D都沒效！你也是空腹吃？&nbsp;&nbsp;東森新聞擦防曬導致維生素D不足？皮膚科醫師解析：5大防曬迷思一次看懂&nbsp;&nbsp;Harper's BAZAAR維他命D不足恐全身發炎 4方法有效補充 建議每日曬10至15分鐘&nbsp;&nbsp;香港01",
       "sources": [
         {
           "name": "東森新聞",
@@ -148,6 +160,18 @@
       ]
     },
     {
+      "id": "f280ffe425aa",
+      "title": "健康醫療網／天天紫爆！恐怖PM2.5強勢侵襲引血壓飆升| 專欄 - 三立新聞網SETN.com",
+      "published": "2026-07-24T15:24:32+00:00",
+      "summary": "健康醫療網／天天紫爆！恐怖PM2.5強勢侵襲引血壓飆升| 專欄&nbsp;&nbsp;三立新聞網SETN.com",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBjdGplbC1mQXYwSGJUUFVFdnNWRG1ZdWN0aHNoNTFrR1BlZnlTNGRVNFJQNkZ0cUgwRWtxU0R6QjczMTZGRHAw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7d62f059d2f6",
       "title": "看了被氣死！LINE瘋傳「護眼操」是假的！近視不減反增| 生活 - 三立新聞網SETN.com",
       "published": "2026-07-25T14:37:09+00:00",
@@ -184,13 +208,13 @@
       ]
     },
     {
-      "id": "5f421328193a",
-      "title": "水果病｜幼童半夜離奇昏迷抽搐 求醫揭因食1水果所致 3成人致命 醫生教4招防中招 - am730",
+      "id": "5ac10e180392",
+      "title": "水果病｜幼童半夜離奇昏迷抽搐 求醫揭因食1水果所致 3成人致命 醫生教4招防中招 - AM730",
       "published": "2026-07-25T01:00:00+00:00",
-      "summary": "水果病｜幼童半夜離奇昏迷抽搐 求醫揭因食1水果所致 3成人致命 醫生教4招防中招&nbsp;&nbsp;am730",
+      "summary": "水果病｜幼童半夜離奇昏迷抽搐 求醫揭因食1水果所致 3成人致命 醫生教4招防中招&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TaFVLaTJMOXVnQnFocG1aNXo1MVdkOHZEUEpkckZtYzAzdzJfcWhmSFJfczRsc3dyemZlNk5JZnl4dDdYX3lSaVpZWVJsMTNkcVE?oc=5"
         }
       ]
