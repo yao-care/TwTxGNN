@@ -1,5 +1,8 @@
 # TwTxGNN - 台灣健保藥品老藥新用預測
 
+> 本專案由 **藥提醒科技有限公司**（[yao.care](https://www.yao.care)）開發與維運。
+> TwTxGNN 站台：<https://twtxgnn.yao.care/>｜產品總覽：<https://www.yao.care/medical/txgnn/>
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18723194.svg)](https://doi.org/10.5281/zenodo.18723194)
 [![Website](https://img.shields.io/badge/Website-twtxgnn.yao.care-blue)](https://twtxgnn.yao.care)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -509,3 +512,4 @@ flowchart TD
   doi={10.1038/s41591-023-02233-x}
 }
 ```
+

@@ -188,5 +188,5 @@ permalink: /dhi/
 <strong>免責聲明</strong><br>
 本頁面的 DHI 資料僅供研究參考，<strong>不構成用藥或草藥使用建議</strong>。如正在服用處方藥，請諮詢醫師或藥師後再使用任何草藥或保健品。
 <br><br>
-<small>最後審核：2026-02-21 | 審核者：TwTxGNN Research Team</small>
+<small>最後審核：2026-02-21 | 審核者：藥提醒科技有限公司 (yao.care)</small>
 </div>

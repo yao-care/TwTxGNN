@@ -192,5 +192,5 @@ TwTxGNN 是開源專案，您可以檢視完整的程式碼：
 <strong>免責聲明</strong><br>
 本隱私權政策僅適用於 TwTxGNN SMART App 和 twtxgnn.yao.care 網站。當您使用第三方 EHR 系統時，該系統的隱私政策可能另有規定。
 <br><br>
-<small>最後審核：2026-02-27 | 審核者：TwTxGNN Team</small>
+<small>最後審核：2026-02-27 | 審核者：藥提醒科技有限公司 (yao.care)</small>
 </div>

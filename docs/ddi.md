@@ -109,5 +109,5 @@ permalink: /ddi/
 <strong>免責聲明</strong><br>
 本頁面的 DDI 資料僅供研究參考，<strong>不構成用藥建議</strong>。實際用藥決策請諮詢專業藥師或醫師。藥物交互作用的臨床影響會因個人因素而異。
 <br><br>
-<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
+<small>最後審核：2026-02-20 | 審核者：藥提醒科技有限公司 (yao.care)</small>
 </div>
