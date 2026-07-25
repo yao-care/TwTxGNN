@@ -1,41 +1,17 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-25T07:51:19.237950+00:00",
-  "count": 20,
+  "fetched_at": "2026-07-25T09:28:47.837152+00:00",
+  "count": 18,
   "news": [
     {
       "id": "844eb01122fb",
       "title": "美國麻疹病例創35年新高 今年已達2318例超越去年全年 - 波新聞",
       "published": "2026-07-24T23:23:44+00:00",
-      "summary": "美國麻疹病例創35年新高 今年已達2318例超越去年全年&nbsp;&nbsp;波新聞美麻疹病例數創35年來新高 連續第二年破紀錄&nbsp;&nbsp;大纪元美國爆發35年來最嚴重麻疹疫情 確診已破2300例 | 民視新聞網&nbsp;&nbsp;LINE TODAY传染性强于新冠六倍！美麻疹病例破纪录(图)&nbsp;&nbsp;CMoney美國麻疹病例突破2295例創35年新高 專家憂接種率不足恐危及消除成果&nbsp;&nbsp;Taiwan News",
+      "summary": "美國麻疹病例創35年新高 今年已達2318例超越去年全年&nbsp;&nbsp;波新聞美麻疹病例數創35年來新高 連續第二年破紀錄&nbsp;&nbsp;大纪元美國爆發35年來最嚴重麻疹疫情 確診已破2300例 | 民視新聞網&nbsp;&nbsp;LINE TODAY美國麻疹病例突破2295例創35年新高 專家憂接種率不足恐危及消除成果&nbsp;&nbsp;Taiwan News克拉克縣未接種疫苗的兒童中發現 6 例新麻疹病例&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
           "name": "波新聞",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vVlFtaElILWRnbW9DYWwtVks5M0FKcXpoQjdRZWFhODgyN2oxNEZRYkxIOTc1OFBlQXJ5czRLZVNUaTJZZnN0YUtEUGlmcUpJZEVyUGpRdDJ0Z2loSERvZGt0MA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "754843d583a9",
-      "title": "健康網》「射21次防癌」後 日網紅醫引研究：常射精能長壽 - 自由健康網",
-      "published": "2026-07-24T13:20:00+00:00",
-      "summary": "健康網》「射21次防癌」後 日網紅醫引研究：常射精能長壽&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NbXFNV3FTdDVteFlnbzFqSGlMamhOUkpTWjF3OXo1cGd5ZEFqNEpVdlJlNU14RWNjNmp6SW5Ydm5kMmhwenNXMGY0ckdZUzNWcl93OVBiMVN1QjlBcGRucW9ZcDDSAWpBVV95cUxQa1ZjMFJlN0ludEpVU0dLYjFJRjlYSDYxdWV4M3ZZOUNUXzlKam1fMTdzcl9ud2l4VnVDVHdBaUtSZTkyRHVLeVVzN0lNYzRUVkRnLWppZ25ZUE5TcTNZaml2dDRxVmEwdmR3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1cc198f1120b",
-      "title": "暑假出遊帶長輩要注意！醫提醒：骨鬆高危族群「下車跨步」也可能骨折 - 優活健康網",
-      "published": "2026-07-23T07:10:00+00:00",
-      "summary": "暑假出遊帶長輩要注意！醫提醒：骨鬆高危族群「下車跨步」也可能骨折&nbsp;&nbsp;優活健康網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "優活健康網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55OFp5Uzc3MUVwZ2NoYmhFelhlS19TbzhyM2Q2NDRYaVk3X1VMTFRpMVdEckVXQWJZR2ZrR0dWQU9OVFF4alZCbFcxLVkyVktWVDJj?oc=5"
         }
       ]
     },
@@ -48,6 +24,18 @@
         {
           "name": "食力 foodNEXT",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xdnlOUnBfeGlXbXBxanZKR3hpbDFOS3MwS09LVFRIbkc5RG9fQmhWbTdneERWTkVrUWtPeUJlYUpMUEFFRjZZVEcybTBpOFFhclFDdE5CY2NVWDNWMWJYQS1YYTY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "754843d583a9",
+      "title": "健康網》「射21次防癌」後 日網紅醫引研究：常射精能長壽 - 自由健康網",
+      "published": "2026-07-24T13:20:00+00:00",
+      "summary": "健康網》「射21次防癌」後 日網紅醫引研究：常射精能長壽&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NbXFNV3FTdDVteFlnbzFqSGlMamhOUkpTWjF3OXo1cGd5ZEFqNEpVdlJlNU14RWNjNmp6SW5Ydm5kMmhwenNXMGY0ckdZUzNWcl93OVBiMVN1QjlBcGRucW9ZcDDSAWpBVV95cUxQa1ZjMFJlN0ludEpVU0dLYjFJRjlYSDYxdWV4M3ZZOUNUXzlKam1fMTdzcl9ud2l4VnVDVHdBaUtSZTkyRHVLeVVzN0lNYzRUVkRnLWppZ25ZUE5TcTNZaml2dDRxVmEwdmR3?oc=5"
         }
       ]
     },
@@ -160,6 +148,18 @@
       ]
     },
     {
+      "id": "5ac10e180392",
+      "title": "水果病｜幼童半夜離奇昏迷抽搐 求醫揭因食1水果所致 3成人致命 醫生教4招防中招 - AM730",
+      "published": "2026-07-25T01:00:00+00:00",
+      "summary": "水果病｜幼童半夜離奇昏迷抽搐 求醫揭因食1水果所致 3成人致命 醫生教4招防中招&nbsp;&nbsp;AM730",
+      "sources": [
+        {
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TaFVLaTJMOXVnQnFocG1aNXo1MVdkOHZEUEpkckZtYzAzdzJfcWhmSFJfczRsc3dyemZlNk5JZnl4dDdYX3lSaVpZWVJsMTNkcVE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8f539459c3cc",
       "title": "PM2.5恐致敏感性皮膚炎 女星柯佳嬿也受害 - 三立新聞網SETN.com",
       "published": "2026-07-23T18:06:07+00:00",
@@ -168,30 +168,6 @@
         {
           "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE10bTJKRXFwdFVZZkxOa3pJSkhZQnVQU3dwZ2psZHY3UTFZbnFaempka090TlBKRi1oaWtYeVc1LXVOR2NaeUZV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5f421328193a",
-      "title": "水果病｜幼童半夜離奇昏迷抽搐 求醫揭因食1水果所致 3成人致命 醫生教4招防中招 - am730",
-      "published": "2026-07-25T01:00:00+00:00",
-      "summary": "水果病｜幼童半夜離奇昏迷抽搐 求醫揭因食1水果所致 3成人致命 醫生教4招防中招&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TaFVLaTJMOXVnQnFocG1aNXo1MVdkOHZEUEpkckZtYzAzdzJfcWhmSFJfczRsc3dyemZlNk5JZnl4dDdYX3lSaVpZWVJsMTNkcVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "48a7777eae42",
-      "title": "網路瘋傳斐濟人吃杏抗癌中醫師打臉：生吃會中毒| 生活 - 三立新聞網SETN.com",
-      "published": "2026-07-23T10:18:56+00:00",
-      "summary": "網路瘋傳斐濟人吃杏抗癌中醫師打臉：生吃會中毒| 生活&nbsp;&nbsp;三立新聞網SETN.com",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9jNGpjdDZDM3BPZFJCNGR3eW9tMUxzTUdoVEJvOTNPcFdnVGZTMnBPUnBEeEhlVjhXRDY1Z01XMnIzc3pIZFE?oc=5"
         }
       ]
     },
