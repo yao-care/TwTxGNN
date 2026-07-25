@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-25T09:28:52.317232+00:00",
-  "total_count": 18,
-  "matched_count": 3,
+  "last_updated": "2026-07-25T11:02:14.724638+00:00",
+  "total_count": 15,
+  "matched_count": 1,
   "news": [
     {
       "id": "4421c35aa8f7",
@@ -46,7 +46,7 @@
       "id": "844eb01122fb",
       "title": "美國麻疹病例創35年新高 今年已達2318例超越去年全年",
       "published": "2026-07-24T23:23:44+00:00",
-      "summary": "美國麻疹病例創35年新高 今年已達2318例超越去年全年&nbsp;&nbsp;波新聞美麻疹病例數創35年來新高 連續第二年破紀錄&nbsp;&nbsp;大纪元美國爆發35年來最嚴重麻疹疫情 確診已破2300例 | 民視新聞網&nbsp;&nbsp;LINE TODAY美國麻疹病例突破2295例創35年新高 專家憂接種率不足恐危及消除成果&nbsp;&nbsp;Taiwan News克拉克縣未接種疫苗的兒童中發現 6 例新麻疹病例&nbsp;&nbsp;arch-web.com.tw",
+      "summary": "美國麻疹病例創35年新高 今年已達2318例超越去年全年&nbsp;&nbsp;波新聞美國麻疹疫情創35年最嚴重 疫苗猶豫升溫病例飆高&nbsp;&nbsp;經濟日報美麻疹病例數創35年來新高 連續第二年破紀錄&nbsp;&nbsp;大纪元美麻疹病例創35年新高！疫苗接種率跌破群體免疫防線 | 民視新聞網&nbsp;&nbsp;LINE TODAY美國麻疹病例突破2295例創35年新高 專家憂接種率不足恐危及消除成果&nbsp;&nbsp;Taiwan News",
       "sources": [
         {
           "name": "波新聞",
@@ -150,31 +150,6 @@
       "matched_keywords": []
     },
     {
-      "id": "c01524b924ac",
-      "title": "新版膽固醇指引改看長期風險 美研究：56.6%成年人符合他汀用藥建議 - Taiwan News",
-      "published": "2026-07-24T01:15:00+00:00",
-      "summary": "新版膽固醇指引改看長期風險 美研究：56.6%成年人符合他汀用藥建議&nbsp;&nbsp;Taiwan News保健品神話殞落？美國心臟學會示警：魚油有提升「壞膽固醇」風險，4大族群須留心&nbsp;&nbsp;天下雜誌壞膽固醇愈低愈好？2026最新膽固醇治療指南出爐：9歲開始，就要開始驗膽固醇&nbsp;&nbsp;PChome Online 新聞膽固醇正常就停藥？醫揭「死亡率飆升23%」藥吃吃停停是在血管裡埋炸彈&nbsp;&nbsp;TVBS 健康2.0壞膽固醇超標可增心血管病風險 美國心臟學會新指引︰19歲起定期量度血脂水平&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4RWJPV1g2Nk9BOUk0Tkt1LW92SC10cm9HaUJUQVJOOWhKTU5JTkNadE1FWENKSXpYSHh3YUdwdm4wSE9jRC15cm9makFCeExVaWl6OGN3Xzg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "eb8480fe0bfe",
       "title": "骨癌無法預防 莫名骨痛久不癒快就醫",
       "published": "2026-07-24T00:44:48+00:00",
@@ -214,19 +189,6 @@
       "matched_keywords": []
     },
     {
-      "id": "e88c007270a8",
-      "title": "聯邦衛生部推出一系列新的香煙警示包裝 警告吸煙者吸煙的害處",
-      "published": "2026-07-23T17:30:48+00:00",
-      "summary": "聯邦衛生部推出一系列新的香煙警示包裝 警告吸煙者吸煙的害處&nbsp;&nbsp;am1320.com",
-      "sources": [
-        {
-          "name": "am1320.com",
-          "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQZjJwZTM5SDJKbDFUVF9tZHplczg2cW1DeExZR1Zpc3gwVE1QdGhGUUc4aHpEZ0tSOV9XWEdTeHJIR2J3dnk1MkVLUHdNN2ctMHV5c0ZTVEJTZGhYTzVLaTBOSHhKM1A3V2FxUkJrYVNZTl9BVmR3T3o4VkkxbW91ei15d2pnV2JaRFhNblVfdEx6VnlEc0tBUWdmWDZfbWJTRzhpRlZGNWlvdU10TFNkbWNDNU9JNk40OGg1ZWZKMXlyaDlkVTYwd2NsbGV5dTF5SE1xTzVndlJYQkQyWG5YVUZvQTdoVVZOeWpoTThuQURHTUdrMGRwYVdhX09qdEp3Z2pVY2xFTmxRTGVjejEyY0pxbklPb3Z2S1ZIZGstbU5yd09UZmVXTlk5MldpUXNXN0ktUF9ManFwcnM2QzlubzAzVGdWWHRCclUzM0hBdUhtenhOdVVXb1V5Q0l0ZTJTSVplZTJENnFFLXdJTkFKd2t3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "3db9fd5133a8",
       "title": "當季流感疫苗接種下週二結束 逾21.6萬人打針",
       "published": "2026-07-23T13:29:36+00:00",
@@ -251,215 +213,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "653cd32b65cd",
-      "title": "WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 | 科技新報 - LINE TODAY",
-      "published": "2026-07-23T08:46:13+00:00",
-      "summary": "WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTWpzTnNGVmtqaEJhM2cxeWNYRWRDMUpZM3A5ZkFxMmcxenVmMC14NmRqM3kyM0QySENEZkYtbWhxTU05ZGRjbDVuLUpPVktQZEg0WFdB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

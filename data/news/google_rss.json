@@ -1,29 +1,17 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-25T09:28:47.837152+00:00",
-  "count": 18,
+  "fetched_at": "2026-07-25T11:02:11.009896+00:00",
+  "count": 15,
   "news": [
     {
       "id": "844eb01122fb",
       "title": "美國麻疹病例創35年新高 今年已達2318例超越去年全年 - 波新聞",
       "published": "2026-07-24T23:23:44+00:00",
-      "summary": "美國麻疹病例創35年新高 今年已達2318例超越去年全年&nbsp;&nbsp;波新聞美麻疹病例數創35年來新高 連續第二年破紀錄&nbsp;&nbsp;大纪元美國爆發35年來最嚴重麻疹疫情 確診已破2300例 | 民視新聞網&nbsp;&nbsp;LINE TODAY美國麻疹病例突破2295例創35年新高 專家憂接種率不足恐危及消除成果&nbsp;&nbsp;Taiwan News克拉克縣未接種疫苗的兒童中發現 6 例新麻疹病例&nbsp;&nbsp;arch-web.com.tw",
+      "summary": "美國麻疹病例創35年新高 今年已達2318例超越去年全年&nbsp;&nbsp;波新聞美國麻疹疫情創35年最嚴重 疫苗猶豫升溫病例飆高&nbsp;&nbsp;經濟日報美麻疹病例數創35年來新高 連續第二年破紀錄&nbsp;&nbsp;大纪元美麻疹病例創35年新高！疫苗接種率跌破群體免疫防線 | 民視新聞網&nbsp;&nbsp;LINE TODAY美國麻疹病例突破2295例創35年新高 專家憂接種率不足恐危及消除成果&nbsp;&nbsp;Taiwan News",
       "sources": [
         {
           "name": "波新聞",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vVlFtaElILWRnbW9DYWwtVks5M0FKcXpoQjdRZWFhODgyN2oxNEZRYkxIOTc1OFBlQXJ5czRLZVNUaTJZZnN0YUtEUGlmcUpJZEVyUGpRdDJ0Z2loSERvZGt0MA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fc706e70e9c8",
-      "title": "不是只有冬天會缺維生素D！研究揭高風險族群夏季仍難補足 全年都需注意 - 食力 foodNEXT",
-      "published": "2026-07-24T17:55:24+00:00",
-      "summary": "不是只有冬天會缺維生素D！研究揭高風險族群夏季仍難補足 全年都需注意&nbsp;&nbsp;食力 foodNEXT不只靠曬太陽！維生素D搭配「這類食物」 吸收率竟能狂增50%&nbsp;&nbsp;三立新聞難怪吃D都沒效！你也是空腹吃？&nbsp;&nbsp;東森新聞擦防曬導致維生素D不足？皮膚科醫師解析：5大防曬迷思一次看懂&nbsp;&nbsp;Harper's BAZAAR維他命D不足恐全身發炎 4方法有效補充 建議每日曬10至15分鐘&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "食力 foodNEXT",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xdnlOUnBfeGlXbXBxanZKR3hpbDFOS3MwS09LVFRIbkc5RG9fQmhWbTdneERWTkVrUWtPeUJlYUpMUEFFRjZZVEcybTBpOFFhclFDdE5CY2NVWDNWMWJYQS1YYTY?oc=5"
         }
       ]
     },
@@ -36,6 +24,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NbXFNV3FTdDVteFlnbzFqSGlMamhOUkpTWjF3OXo1cGd5ZEFqNEpVdlJlNU14RWNjNmp6SW5Ydm5kMmhwenNXMGY0ckdZUzNWcl93OVBiMVN1QjlBcGRucW9ZcDDSAWpBVV95cUxQa1ZjMFJlN0ludEpVU0dLYjFJRjlYSDYxdWV4M3ZZOUNUXzlKam1fMTdzcl9ud2l4VnVDVHdBaUtSZTkyRHVLeVVzN0lNYzRUVkRnLWppZ25ZUE5TcTNZaml2dDRxVmEwdmR3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fc706e70e9c8",
+      "title": "不是只有冬天會缺維生素D！研究揭高風險族群夏季仍難補足 全年都需注意 - 食力 foodNEXT",
+      "published": "2026-07-24T17:55:24+00:00",
+      "summary": "不是只有冬天會缺維生素D！研究揭高風險族群夏季仍難補足 全年都需注意&nbsp;&nbsp;食力 foodNEXT不只靠曬太陽！維生素D搭配「這類食物」 吸收率竟能狂增50%&nbsp;&nbsp;三立新聞難怪吃D都沒效！你也是空腹吃？&nbsp;&nbsp;東森新聞擦防曬導致維生素D不足？皮膚科醫師解析：5大防曬迷思一次看懂&nbsp;&nbsp;Harper's BAZAAR維他命D不足恐全身發炎 4方法有效補充 建議每日曬10至15分鐘&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "食力 foodNEXT",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xdnlOUnBfeGlXbXBxanZKR3hpbDFOS3MwS09LVFRIbkc5RG9fQmhWbTdneERWTkVrUWtPeUJlYUpMUEFFRjZZVEcybTBpOFFhclFDdE5CY2NVWDNWMWJYQS1YYTY?oc=5"
         }
       ]
     },
@@ -72,30 +72,6 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zcFpJdkRMZjFSbmdLeEFDM0RBbWlBVGhwTkFIMnJEbU9ZTnl2a0NJMjN1OTJoM2VibDZIUG1sQWd5d0pzSXBFcTA4UjFMaWVPR1J1N1VR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "653cd32b65cd",
-      "title": "WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 | 科技新報 - LINE TODAY",
-      "published": "2026-07-23T08:46:13+00:00",
-      "summary": "WHO 發全球警訊：2050 年每年恐新增 3,500 萬癌症患者 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTWpzTnNGVmtqaEJhM2cxeWNYRWRDMUpZM3A5ZkFxMmcxenVmMC14NmRqM3kyM0QySENEZkYtbWhxTU05ZGRjbDVuLUpPVktQZEg0WFdB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c01524b924ac",
-      "title": "新版膽固醇指引改看長期風險 美研究：56.6%成年人符合他汀用藥建議 - Taiwan News",
-      "published": "2026-07-24T01:15:00+00:00",
-      "summary": "新版膽固醇指引改看長期風險 美研究：56.6%成年人符合他汀用藥建議&nbsp;&nbsp;Taiwan News保健品神話殞落？美國心臟學會示警：魚油有提升「壞膽固醇」風險，4大族群須留心&nbsp;&nbsp;天下雜誌壞膽固醇愈低愈好？2026最新膽固醇治療指南出爐：9歲開始，就要開始驗膽固醇&nbsp;&nbsp;PChome Online 新聞膽固醇正常就停藥？醫揭「死亡率飆升23%」藥吃吃停停是在血管裡埋炸彈&nbsp;&nbsp;TVBS 健康2.0壞膽固醇超標可增心血管病風險 美國心臟學會新指引︰19歲起定期量度血脂水平&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4RWJPV1g2Nk9BOUk0Tkt1LW92SC10cm9HaUJUQVJOOWhKTU5JTkNadE1FWENKSXpYSHh3YUdwdm4wSE9jRC15cm9makFCeExVaWl6OGN3Xzg?oc=5"
         }
       ]
     },
@@ -180,18 +156,6 @@
         {
           "name": "晴報 Sky Post",
           "link": "https://news.google.com/rss/articles/CBMixgRBVV95cUxOd050ZlhQRmRNVXljVkxzak9iQk5TOFZOWTgzUzAtNkNTSEN0c0RhRzlJRm1MUGY5VElJaG1HZXZfcm1mck1XTGNqcmZsMFR3U3VudU15WkxZanFhcW9YUEhlal85VXRYUGljT2lSSm55cndjUmNkVnV2MkNtWVBFaHR1QktBS1ZiUC1qcGp0YkthdlcxQ1o5WnNkV3ZTY2g1NERsc3RLaUFZeUhTVjZoN0dUbVZaWTdmMkY5T1hsc1NJQV9PSU9FQ09tbU5nSkxUb2NZZGstVmhISjZsYlBkYXNkSERueWdlWVlXTUZsa3hiT0ZnZm9BRUlwVTROQnMtaGNRX05aZl91cnJfeDkwck53RTZGTG5JakVWZUw0ZWV4T0F0U0EtZ0UxMDlwT3ZxOVN2SFJSTGtMWEt1a2U4RkJMZWZJQk1EQnlzODVyNWkyLU93YWdNa1YzYWNwbzZBUWxTRGpDdUJkSlQ0eVFqN3FNNXBZeW9sSkJ5X2ptNGNrUXFEdVE2OFBfNTgtOVB1ZFFJTEwwTUtaRDVLVmNZWGFjYzB2dk9KWGN6S1h1amh6WDFkNEZHU2p2ZVFrd0UyUHEwRWFCZ3lYeFR2VHRpdnBySHRtVkZkVkN6OEcxcU85ZVJCbEp2MXJ3Y3p0MnEzdnBMZ2Z3TGtSV0VZX010M041VXY3dE0wSTVMczc5Nk1uaHlucE93dU03aW5sMnlBMmFtN2dhYjVYNE10Y3ZqMm5qd21lVjRXcXdsVkpPOTlicUo0TkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e88c007270a8",
-      "title": "聯邦衛生部推出一系列新的香煙警示包裝 警告吸煙者吸煙的害處 - am1320.com",
-      "published": "2026-07-23T17:30:48+00:00",
-      "summary": "聯邦衛生部推出一系列新的香煙警示包裝 警告吸煙者吸煙的害處&nbsp;&nbsp;am1320.com",
-      "sources": [
-        {
-          "name": "am1320.com",
-          "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQZjJwZTM5SDJKbDFUVF9tZHplczg2cW1DeExZR1Zpc3gwVE1QdGhGUUc4aHpEZ0tSOV9XWEdTeHJIR2J3dnk1MkVLUHdNN2ctMHV5c0ZTVEJTZGhYTzVLaTBOSHhKM1A3V2FxUkJrYVNZTl9BVmR3T3o4VkkxbW91ei15d2pnV2JaRFhNblVfdEx6VnlEc0tBUWdmWDZfbWJTRzhpRlZGNWlvdU10TFNkbWNDNU9JNk40OGg1ZWZKMXlyaDlkVTYwd2NsbGV5dTF5SE1xTzVndlJYQkQyWG5YVUZvQTdoVVZOeWpoTThuQURHTUdrMGRwYVdhX09qdEp3Z2pVY2xFTmxRTGVjejEyY0pxbklPb3Z2S1ZIZGstbU5yd09UZmVXTlk5MldpUXNXN0ktUF9ManFwcnM2QzlubzAzVGdWWHRCclUzM0hBdUhtenhOdVVXb1V5Q0l0ZTJTSVplZTJENnFFLXdJTkFKd2t3?oc=5"
         }
       ]
     },
