@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-25T22:44:08.563884+00:00",
-  "count": 4,
+  "generated": "2026-07-25T23:52:12.158998+00:00",
+  "count": 3,
   "news": [
     {
       "id": "8655d576682c",
@@ -91,34 +91,6 @@
             {
               "slug": "isosorbide_dinitrate",
               "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8c0a789353d8",
-      "title": "洗腎骨鬆如土石流 嚴防低血鈣 | 中華日報 - LINE TODAY",
-      "published": "2026-07-23T22:45:03+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iSnliZFZBaXpOb2t3c3hPMVJHbldQTjZXMldjX3FQMThKVGx5WTJiM0F2WXZyQmtsanczNFNxSEQ4RUt4Y3pnU0wyMVhCUEhlbkEtMmRn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "心律不整",
-          "keyword": "心律不整",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
             }
           ]
         }
