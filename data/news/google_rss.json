@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-25T14:55:02.603241+00:00",
-  "count": 15,
+  "fetched_at": "2026-07-25T15:57:11.589769+00:00",
+  "count": 14,
   "news": [
     {
       "id": "844eb01122fb",
@@ -148,18 +148,6 @@
       ]
     },
     {
-      "id": "8f539459c3cc",
-      "title": "PM2.5恐致敏感性皮膚炎 女星柯佳嬿也受害 - 三立新聞網SETN.com",
-      "published": "2026-07-23T18:06:07+00:00",
-      "summary": "PM2.5恐致敏感性皮膚炎 女星柯佳嬿也受害&nbsp;&nbsp;三立新聞網SETN.com",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE10bTJKRXFwdFVZZkxOa3pJSkhZQnVQU3dwZ2psZHY3UTFZbnFaempka090TlBKRi1oaWtYeVc1LXVOR2NaeUZV?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1e1eb506737b",
       "title": "流感︱前港姐冠軍翁嘉穗全家外遊中流感72歲富商老公鄔友正高燒至39.7℃ 病足10日嘆過於放縱身體響警鐘 - 晴報 Sky Post",
       "published": "2026-07-24T12:01:43+00:00",
@@ -172,14 +160,14 @@
       ]
     },
     {
-      "id": "108d23643a00",
-      "title": "「吹住風扇瞓」藏4大健康風險？夏天長期開風扇要注意！有機會引發過敏/炎症！ - ezone.hk",
-      "published": "2026-07-23T19:12:14+00:00",
-      "summary": "「吹住風扇瞓」藏4大健康風險？夏天長期開風扇要注意！有機會引發過敏/炎症！&nbsp;&nbsp;ezone.hk",
+      "id": "8f539459c3cc",
+      "title": "PM2.5恐致敏感性皮膚炎 女星柯佳嬿也受害 - 三立新聞網SETN.com",
+      "published": "2026-07-23T18:06:07+00:00",
+      "summary": "PM2.5恐致敏感性皮膚炎 女星柯佳嬿也受害&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
-          "name": "ezone.hk",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbXJpc25TaUd1U04tZ1dsTFBGUGIzakpSMnIzcEVWNWx0SUczX1R1c3F1azI2VTF3VlZwZFpKTmJhTUROQUxWRy04cDFXQzlGM3BBRGozZC1DNTR6bVFYb2pydEJBcTh4d2RHZUlOSFVaTk50d2FFUnF6YmhuYUs0M2pjWUZJV21yV3IyUjc2YTZPNGlsVGYtWDl0RWd6T0h6Rjd1Q3hpTThoREZ0WGpnLUZqY1pkTjBGOFNsTXpZaEJSd0g1bUVDcDdueUdaTDZs?oc=5"
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE10bTJKRXFwdFVZZkxOa3pJSkhZQnVQU3dwZ2psZHY3UTFZbnFaempka090TlBKRi1oaWtYeVc1LXVOR2NaeUZV?oc=5"
         }
       ]
     }
