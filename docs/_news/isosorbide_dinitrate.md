@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [膽固醇正常就停藥？「吃吃停停」恐致血栓 醫警告：死亡率飆23%](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vSzBrTFYxenVzcl9vYUduR3U3LVc5cEo3aGgzWHpnLU82WVBHRV81ZVVXNmRKdHgwNlhrbDFiZVRqV0d1WWxXSmxBZzl2Zlpy?oc=5)
+
+2026-07-25 <span class="news-indication-tag">心血管</span>
+
+來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vSzBrTFYxenVzcl9vYUduR3U3LVc5cEo3aGgzWHpnLU82WVBHRV81ZVVXNmRKdHgwNlhrbDFiZVRqV0d1WWxXSmxBZzl2Zlpy?oc=5)
+
+---
 
 
 <div class="disclaimer">

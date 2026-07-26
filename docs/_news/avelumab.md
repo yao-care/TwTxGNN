@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [天天曬太陽也不夠！醫揭卻乏維生素D恐提高糖尿病、罹癌風險](https://news.google.com/rss/articles/CBMigwNBVV95cUxONnJGTUZsOGRvQ0N2MG8weXB2MlFLck5YM2J6bzctdEFndnFmWXR2QkxPdWw1clNEek9GaklwU2VYRnd2QmdNNHFHWldRUzY2UGt3Um8xWUsycjR4V1RJSzNtaHpLb3FjNjU2bUFGY0o5bXhtX0VVTHBuUV9vcFZTc2lVb2UtQkdCTzJ1elFHRjZIbTJGZ2ltenhVdUNPTzJpZE9pYngwQ1doVnVXakpQMHUzTEhXN2hHeFAtbXpKY2tueHFaM29EX3RYV1NkUHhoOWRJRHVEU0NmS2NtU0VGUlRjZjJ2VmNoVXBjVEs4aWU2djdmdjFwdzcxdXhyRlE3bTM0Ujc0QUZ4cUZzay1MSHVKUUY3eW1HNGxYNl81Mng2MVNLR3QtdE1ER1JsS2tVNlMtdXhicFY0a0t6MFM4R0k5SktUOEZlUWJDYUxqaWs4Y1c2dW5VTkpSTHBxWXZvMlFnekV1SnJSb3dodHUtMW14UmUzbEwtRWtkeGZCSFEtOTg?oc=5)
+
+2026-07-26 <span class="news-indication-tag">癌症</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMigwNBVV95cUxONnJGTUZsOGRvQ0N2MG8weXB2MlFLck5YM2J6bzctdEFndnFmWXR2QkxPdWw1clNEek9GaklwU2VYRnd2QmdNNHFHWldRUzY2UGt3Um8xWUsycjR4V1RJSzNtaHpLb3FjNjU2bUFGY0o5bXhtX0VVTHBuUV9vcFZTc2lVb2UtQkdCTzJ1elFHRjZIbTJGZ2ltenhVdUNPTzJpZE9pYngwQ1doVnVXakpQMHUzTEhXN2hHeFAtbXpKY2tueHFaM29EX3RYV1NkUHhoOWRJRHVEU0NmS2NtU0VGUlRjZjJ2VmNoVXBjVEs4aWU2djdmdjFwdzcxdXhyRlE3bTM0Ujc0QUZ4cUZzay1MSHVKUUY3eW1HNGxYNl81Mng2MVNLR3QtdE1ER1JsS2tVNlMtdXhicFY0a0t6MFM4R0k5SktUOEZlUWJDYUxqaWs4Y1c2dW5VTkpSTHBxWXZvMlFnekV1SnJSb3dodHUtMW14UmUzbEwtRWtkeGZCSFEtOTg?oc=5)
+
+---
 
 
 <div class="disclaimer">
