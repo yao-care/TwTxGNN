@@ -3,7 +3,7 @@ layout: default
 title: "心血管（cardiovascular） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "心血管（cardiovascular） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "心血管（cardiovascular） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/cardiovascular/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cardiovascular/
 ---
 
 <p class="key-answer" data-question="心血管（cardiovascular） 有什麼相關新聞？">
-<strong>心血管（cardiovascular）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心血管（cardiovascular）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/cardiovascular/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [膽固醇正常就停藥？「吃吃停停」恐致血栓 醫警告：死亡率飆23%](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vSzBrTFYxenVzcl9vYUduR3U3LVc5cEo3aGgzWHpnLU82WVBHRV81ZVVXNmRKdHgwNlhrbDFiZVRqV0d1WWxXSmxBZzl2Zlpy?oc=5)
 
 2026-07-25
 
 來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vSzBrTFYxenVzcl9vYUduR3U3LVc5cEo3aGgzWHpnLU82WVBHRV81ZVVXNmRKdHgwNlhrbDFiZVRqV0d1WWxXSmxBZzl2Zlpy?oc=5)
-
----
-
-### [港大 AI 血液檢測，提前 15 年攔截六大心血管疾病 - TechNews 科技新報](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTEJsMUVxTE1MZHlxMnRkTExqZGtGVm11Y2J3enFnM1RRei1zZW1SYlpBenpJTkVCcU1tWFRvamtRMUVMbXlYVWg3WDBpd3FvS25zVEpmMnhHb0RVNFZ4UVlWNi16eG02NTBUTGtOOVBtVjlrYTlEOEJabWFHNVQxb21yMWQ1blpoYmFRTmFoSXp4SFIzMFdmWnktQVozVlB0R2UzTQ?oc=5)
-
-2026-07-25
-
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTEJsMUVxTE1MZHlxMnRkTExqZGtGVm11Y2J3enFnM1RRei1zZW1SYlpBenpJTkVCcU1tWFRvamtRMUVMbXlYVWg3WDBpd3FvS25zVEpmMnhHb0RVNFZ4UVlWNi16eG02NTBUTGtOOVBtVjlrYTlEOEJabWFHNVQxb21yMWQ1blpoYmFRTmFoSXp4SFIzMFdmWnktQVozVlB0R2UzTQ?oc=5)
 
 ---
 

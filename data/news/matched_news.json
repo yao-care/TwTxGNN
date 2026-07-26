@@ -1,43 +1,17 @@
 {
-  "last_updated": "2026-07-26T05:23:47.052159+00:00",
-  "total_count": 21,
+  "last_updated": "2026-07-26T08:09:48.054693+00:00",
+  "total_count": 20,
   "matched_count": 4,
   "news": [
     {
-      "id": "44184a41707d",
-      "title": "新冠︱社會混合免疫屏障穩固 許樹昌：確診唔使再發咁多日醫生紙 倡輕症文職戴口罩返工",
-      "published": "2026-07-26T05:09:52+00:00",
-      "summary": "新冠︱社會混合免疫屏障穩固 許樹昌：確診唔使再發咁多日醫生紙 倡輕症文職戴口罩返工&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxNQTBfazd3QS1tTERfLVYyWFJFbGg3ZDFCMV9Rb2dVbmNHZUhjX1B4d3RLdXZWYjFPNWdfclBIWktxUWlZWUJEcWx0SVE5NnBhOHdaZEI1akdsc1FRY1JJRW1sRUs1Njh1X2ZuaTJuNE1lcTJuWUN0eDJGXzJOMEdkOVk0d3FkZ2lGWkFjZHRqM1JSRmNqc1FUUFlpcEJoY1VHbHNKS2FaMjEzbmkxamVucE93WkNJMHVhblJfMFZvVHFpb1ItbWFCRWRmRFlWNlhEUjFJRExhZWpUd2F5OTJscGFNNVFPbFdHcUM3MnVwb0JsS3dIMWpETElyTVJsQ3hMVWhDcGw1UVd1WDVXOXFmSXM0YlFxd0JyOUZlR1FneWd1QVc5cmxBTVJtZ3lVajBITGZXSXMtbUxjQmZYeHdkUm9GdFVKd3VBS1d0ZVgzZ2prTUQ0a09lQm91OWN6WVU2UTZhM1VheTdnaWJ1ZDdhRTU0ZkFrVkhfbGNxOVcyWnRwcmVsRlJPWDRXZ09malgwaHdqX1ptazRCV3NjQ0NZMHY4Tk1RR2lQV1lDZ0FnTEw1SmxrUTBJTGotXzFCQkM0cUplczdVNmVOUklnSWROZEI0d1ZJVjdkbERZTjVxUkpKNHNlLXJ1Z0VINTg5VGJwWDBmU2YyakxlQVhDcEVnWElyR3pFR28zbkEtWFRlOVBjSThk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "614e433adc11",
-      "title": "出國藥品怎麼帶？保留原包裝 勿忘處方箋",
-      "published": "2026-07-26T02:05:29+00:00",
-      "summary": "出國藥品怎麼帶？保留原包裝 勿忘處方箋&nbsp;&nbsp;Yahoo新聞出國旅遊別只顧訂機票！醫提醒做好5項健康準備：最常見疾病、必打疫苗一次看&nbsp;&nbsp;元氣網健康網》11歲為何要打HPV疫苗 醫：提早建免疫城牆&nbsp;&nbsp;自由健康網兩性健康｜情侶拍拖3年定期檢查仍出事！男友淪無症狀播毒者，累女友染高危HPV恐需切部分子宮&nbsp;&nbsp;etnet 經濟通HPV疫苗不只防菜花！醫揭更重要用途「降低多種癌風險」&nbsp;&nbsp;中天新聞網",
+      "id": "310adf2d7d6b",
+      "title": "洗腎5年翁誤認妻子是「壞人」 醫：失智風險比一般人高",
+      "published": "2026-07-26T07:41:16+00:00",
+      "summary": "洗腎5年翁誤認妻子是「壞人」 醫：失智風險比一般人高&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOUklRTUw2emN4aG9IX1RtVnJGLXJJQzd3NHJmdFhvSFJ3ZEhQNkVpdHZuODMxblg2cG0wNG0xTExnVGgwcmR3RkYxUGdzR2R5UUdialdEVXFPRmlKQXhxNHFyV2lCeGd5TTQ4eU1KRnVtT3FDTDY0VVFTdEl2cHlXLTY0bFRnYmw0MTAyNVp3bU82M0NBdjRZOFZyY2FYT3Y4dFE5WTRwLTMyUS1NVjlqSHZOU1VSZ3lXZW11aGNCMlZoWEZfQjdYYTdLWE1qblpoeHltMHhBaFFmN0hUUHFYelQyMURBMVlLX3EwSmVhU2FTSnl0T2dMbzc0aEx0ZVl3aW0wRWQwRHlkZ20wYkk0cGxKUm0zOFlUNWh4cG5vaDRndw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fe038efec4c1",
-      "title": "尪洗腎後把妻子當「壞女人」醫示警失智風險增：吃3物救腦- 健康",
-      "published": "2026-07-26T00:11:48+00:00",
-      "summary": "尪洗腎後把妻子當「壞女人」醫示警失智風險增：吃3物救腦- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0eXJjNzJvZk9QN3lZQ1JYcjlPanJUWGM5akxVRUpHU3NYYzlkSHJCZTNzTU1tUHlpSjNNb0JpSUo2VXRtX1lhd3pWcWduNDF2VFN6UkZvalVQZVNVLW5VMDhqYThpMmVHYWlnY1dR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQVWs4aUV4Z3p0ZmNyb0pTdS1ON01IN2J2MlgwZDY5RFp2OTlXYWk0X2JhaGMxaXV2N1RrQko5Z05CQjNiU3pUT1cxRTRPLWZUcTNlbzhzQnc1MGdMeUZpTnpjZ0lSaUUxX25RN194ZjUzeGZNcDNEcjE4R3hLek5vM0tnTUFuRXE1YUtxMjVGOXlocWtzOFA1QlpMYUNDcC16TnBjTFRxUUw5Zm03QlJRQm1aUnUtVjJ0ZVlDN3U2Z21YZld3Ym96Uk1Ud2F4RU9TQndzbGRPS0R1MWhGRVlTWVVqWkh3cXptWkl4OUpQcktnZEtPZDBwZ3QybHFGM2VQZjE5V1RSRGVEaWwyM0tqaUtPVWxvQ1RBQjA2SWxkaVBJbjZ6YzFtNmdjVWRoamc4amRBUzduMUpzc0dva2U5cFVOQTcwdXBoVlE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -53,6 +27,95 @@
           ]
         }
       ]
+    },
+    {
+      "id": "49bdbf97673c",
+      "title": "維生素D能防3種癌降糖尿病風險醫：光曬太陽不夠- 健康",
+      "published": "2026-07-26T06:45:23+00:00",
+      "summary": "維生素D能防3種癌降糖尿病風險醫：光曬太陽不夠- 健康&nbsp;&nbsp;中時新聞網不只靠曬太陽！維生素D搭配「這類食物」 吸收率竟能狂增50%&nbsp;&nbsp;三立新聞狂補D3還是骨鬆？醫揭正確吃法&nbsp;&nbsp;news.ebc.net.tw擦防曬導致維生素D不足？皮膚科醫師解析：5大防曬迷思一次看懂&nbsp;&nbsp;Harper's BAZAAR不是只有冬天會缺維生素D！研究揭高風險族群夏季仍難補足 全年都需注意&nbsp;&nbsp;食力 foodNEXT",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ1JING1SQ2I0Xzd2VkdxV25fNWtKWlRleEd2SDNwck84NUtiMG5sdG9lLV9PbFlhOVlMOXVWWFZnTUtjYi1faE4wWnBpZWd5SEw0aUZ4VWtDZ3VzQ1FiMEpqSVNPTFk2Q2xFV0JnZml2Y0tCRnVURDV0T09Dd0V1T29MOEdGRDV2akUxSEVWTQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e8821f450474",
+      "title": "不是止痛藥！研究揭膝蓋痛竟和腸道菌有關 補充1種纖維有助減痛",
+      "published": "2026-07-26T06:19:00+00:00",
+      "summary": "不是止痛藥！研究揭膝蓋痛竟和腸道菌有關 補充1種纖維有助減痛&nbsp;&nbsp;自由健康網不用維骨力？ 研究揭「膳食纖維」可減緩膝關節炎疼痛- 國際&nbsp;&nbsp;工商時報養生／10大食物 緩解關節炎疼痛&nbsp;&nbsp;世界新聞網護膝食物｜膝痛是關節發炎！專家推5種抗炎護骨食物 橄欖油西蘭花&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DRkVSWjFoSDJOZEJkX0RRZ3JjemZSVlF1NTNKd1JFZ3JLMldDdVk3NnhIS0l4bm1JUGY4UGVDQjB3OVVoU011Q1pGWkJJWThhNERpaUZON2VlMnFWX1E4YUJsQW3SAWpBVV95cUxQYlNRU2xHUVVOSFd5WW5pbUxhdGs4WHRZd3JobEN4blR1STg5R1EwVkNDd1RGX21VNnlVNHZUSVhDcEhLazhUX0Z4OXZETGs0cGZZTkdtTC1XM0hrZmdtcThmcG5Lalp6dlZB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "614e433adc11",
+      "title": "出國藥品怎麼帶？保留原包裝 勿忘處方箋",
+      "published": "2026-07-26T02:05:29+00:00",
+      "summary": "出國藥品怎麼帶？保留原包裝 勿忘處方箋&nbsp;&nbsp;Yahoo新聞出國旅遊別只顧訂機票！醫提醒做好5項健康準備：最常見疾病、必打疫苗一次看&nbsp;&nbsp;元氣網健康網》11歲為何要打HPV疫苗 醫：提早建免疫城牆&nbsp;&nbsp;自由健康網國外學校體檢藏玄機？暑假旅遊門診「這疫苗」常被漏掉，醫曝：沒打恐增風險&nbsp;&nbsp;良醫健康網HPV疫苗不只防菜花！醫揭更重要用途「降低多種癌風險」&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOUklRTUw2emN4aG9IX1RtVnJGLXJJQzd3NHJmdFhvSFJ3ZEhQNkVpdHZuODMxblg2cG0wNG0xTExnVGgwcmR3RkYxUGdzR2R5UUdialdEVXFPRmlKQXhxNHFyV2lCeGd5TTQ4eU1KRnVtT3FDTDY0VVFTdEl2cHlXLTY0bFRnYmw0MTAyNVp3bU82M0NBdjRZOFZyY2FYT3Y4dFE5WTRwLTMyUS1NVjlqSHZOU1VSZ3lXZW11aGNCMlZoWEZfQjdYYTdLWE1qblpoeHltMHhBaFFmN0hUUHFYelQyMURBMVlLX3EwSmVhU2FTSnl0T2dMbzc0aEx0ZVl3aW0wRWQwRHlkZ20wYkk0cGxKUm0zOFlUNWh4cG5vaDRndw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a51e1dd972ae",
+      "title": "家長注意！上週251班停課 全是腸病毒害的...",
+      "published": "2026-07-25T23:32:41+00:00",
+      "summary": "家長注意！上週251班停課 全是腸病毒害的...&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE83ZGtJQ19HQS1jT3M0cndSejZrYXcybEFXcmdYNUh3OGZNb0tJdVIwY3k3eEhZRzBoUGxfT19ZTEJxNUYzbk9F?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d638b7714daa",
+      "title": "35年最慘麻疹疫情! 美國今年病例\"達2318起\"超越去年",
+      "published": "2026-07-25T23:01:47+00:00",
+      "summary": "35年最慘麻疹疫情! 美國今年病例\"達2318起\"超越去年&nbsp;&nbsp;民視新聞網美國麻疹疫情創35年最嚴重「疫苗猶豫」升溫病例飆高| 國際&nbsp;&nbsp;中央社 CNA美國麻疹疫情創35年最嚴重 疫苗猶豫升溫病例飆高&nbsp;&nbsp;經濟日報洛縣警告：兒童和青少年麻疹病例劇增&nbsp;&nbsp;Singtaousa美麻疹病例創35年新高 減肥藥與胜肽療法成焦點 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KdW9sSFpCQ2xYb0RaTVZvYWhMbkNoX0w1TnhhQXRTM1JVWGJnd2Z3VXBjcGUtWEhtdlpZWks2Qk16dXUtVU9OOU92eGh1TlFYYUdwX2NSMGpidVVXRDM0Sw?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "81c086925c99",
@@ -117,6 +180,19 @@
       ]
     },
     {
+      "id": "c7b1702d8e34",
+      "title": "流感疫苗開打！宋逸民攜女接種揪心不忍看下去| 生活",
+      "published": "2026-07-25T19:15:48+00:00",
+      "summary": "流感疫苗開打！宋逸民攜女接種揪心不忍看下去| 生活&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5MTUUycEhVU3lEVU9SSFNoV3NBd1c0eVVIZlE4LUlCODN0cXY4dXhEMHBkbXJ5RmxJVVZSOVdhNWNkQy1la2c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "b92dd6a5f0e9",
       "title": "膽固醇正常就停藥？「吃吃停停」恐致血栓 醫警告：死亡率飆23%",
       "published": "2026-07-25T19:00:00+00:00",
@@ -155,42 +231,6 @@
       "matched_keywords": []
     },
     {
-      "id": "b48de72d6124",
-      "title": "港大 AI 血液檢測，提前 15 年攔截六大心血管疾病 - TechNews 科技新報",
-      "published": "2026-07-25T16:00:22+00:00",
-      "summary": "港大 AI 血液檢測，提前 15 年攔截六大心血管疾病&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTEJsMUVxTE1MZHlxMnRkTExqZGtGVm11Y2J3enFnM1RRei1zZW1SYlpBenpJTkVCcU1tWFRvamtRMUVMbXlYVWg3WDBpd3FvS25zVEpmMnhHb0RVNFZ4UVlWNi16eG02NTBUTGtOOVBtVjlrYTlEOEJabWFHNVQxb21yMWQ1blpoYmFRTmFoSXp4SFIzMFdmWnktQVozVlB0R2UzTQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "6d8bce81be33",
       "title": "南加餐廳掉落蝙蝠 驗出狂犬病毒",
       "published": "2026-07-25T10:00:00+00:00",
@@ -199,32 +239,6 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcG5BTXhLd0JXRG5zS2hKQmh4a21lTERlQmxqeTQ0REJnb1dpbkVhWGZuVjVpNG1vTG1nd1hMQzJObTdCYTFBRnRpVTZMVTFPNTlsM1Z0YkRlNlhUcFZVYXFOSW5wdVhTRkQ1SlJERlZpZnNYOEswSTFiRnVRLVNRQg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e8c197729810",
-      "title": "不想生病？防癌蛋白質教你這樣吃！",
-      "published": "2026-07-25T07:57:00+00:00",
-      "summary": "不想生病？防癌蛋白質教你這樣吃！&nbsp;&nbsp;東森新聞",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82WjN2S1dJRzdHOFg4Z1o1NUlCay1MNGZfcnpFY3lXeEE2VWNEQ3BrQ2FBVG5iUldaNm95SDUzQzBsRnYwZ053ZmVGbzJsblBVUmcxag?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2b4e0084a3b0",
-      "title": "狂補D3還是骨鬆？醫揭正確吃法",
-      "published": "2026-07-25T07:48:00+00:00",
-      "summary": "狂補D3還是骨鬆？醫揭正確吃法&nbsp;&nbsp;東森新聞不只靠曬太陽！維生素D搭配「這類食物」 吸收率竟能狂增50%&nbsp;&nbsp;三立新聞難怪吃D都沒效！你也是空腹吃？&nbsp;&nbsp;東森新聞擦防曬導致維生素D不足？皮膚科醫師解析：5大防曬迷思一次看懂&nbsp;&nbsp;Harper's BAZAAR維他命D不足恐全身發炎 4方法有效補充 建議每日曬10至15分鐘&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10N3BDQ0NlbDRLc2FJc3JFTW9iRVVwR1pyUUYyZkNJalVLU1ZFME5tUmZxYzlrQ0V5OC1aWldfOTZHa0VNUkt5S2ZUelhzNmNkOTlveA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -282,13 +296,13 @@
       "matched_keywords": []
     },
     {
-      "id": "5f421328193a",
+      "id": "5ac10e180392",
       "title": "水果病｜幼童半夜離奇昏迷抽搐 求醫揭因食1水果所致 3成人致命 醫生教4招防中招",
       "published": "2026-07-25T01:00:00+00:00",
-      "summary": "水果病｜幼童半夜離奇昏迷抽搐 求醫揭因食1水果所致 3成人致命 醫生教4招防中招&nbsp;&nbsp;am730",
+      "summary": "水果病｜幼童半夜離奇昏迷抽搐 求醫揭因食1水果所致 3成人致命 醫生教4招防中招&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TaFVLaTJMOXVnQnFocG1aNXo1MVdkOHZEUEpkckZtYzAzdzJfcWhmSFJfczRsc3dyemZlNk5JZnl4dDdYX3lSaVpZWVJsMTNkcVE?oc=5"
         }
       ],
@@ -303,32 +317,6 @@
         {
           "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5vaHphTWkzd3dDYWNCNHRPLUw0Z0dOa3htNl9xc3VKN0lmeVcwSzdfRkRRXzJsNzRGam01MHdybXF2dWtBTjU0?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "844eb01122fb",
-      "title": "美國麻疹病例創35年新高 今年已達2318例超越去年全年",
-      "published": "2026-07-24T23:23:44+00:00",
-      "summary": "美國麻疹病例創35年新高 今年已達2318例超越去年全年&nbsp;&nbsp;波新聞美國麻疹疫情創35年最嚴重「疫苗猶豫」升溫病例飆高| 國際&nbsp;&nbsp;中央社 CNA美國麻疹疫情創35年最嚴重 疫苗猶豫升溫病例飆高&nbsp;&nbsp;經濟日報洛縣警告：兒童和青少年麻疹病例劇增&nbsp;&nbsp;Singtaousa美麻疹病例創35年新高 減肥藥與胜肽療法成焦點 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "波新聞",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vVlFtaElILWRnbW9DYWwtVks5M0FKcXpoQjdRZWFhODgyN2oxNEZRYkxIOTc1OFBlQXJ5czRLZVNUaTJZZnN0YUtEUGlmcUpJZEVyUGpRdDJ0Z2loSERvZGt0MA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e47f437ba89f",
-      "title": "健康醫療網／天天紫爆！恐怖PM2.5強勢侵襲引血壓飆升| 專欄",
-      "published": "2026-07-24T15:24:32+00:00",
-      "summary": "健康醫療網／天天紫爆！恐怖PM2.5強勢侵襲引血壓飆升| 專欄&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBjdGplbC1mQXYwSGJUUFVFdnNWRG1ZdWN0aHNoNTFrR1BlZnlTNGRVNFJQNkZ0cUgwRWtxU0R6QjczMTZGRHAw?oc=5"
         }
       ],
       "matched_keywords": []
