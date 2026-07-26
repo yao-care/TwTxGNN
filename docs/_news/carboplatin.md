@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/carboplatin/
 <li><strong>原適應症</strong>：HER2 陽性早期乳癌、轉移性乳癌、黑色素瘤、非小細胞肺癌、何杰金氏淋巴瘤、頭頸部鱗狀細胞癌、泌尿道上皮癌等</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>female breast carcinoma（99.9%）</li>
+<li class="indication-matched">female breast carcinoma（99.9%）<span class="indication-tag">📰 乳癌</span></li>
 <li>rectum mucinous adenocarcinoma（99.3%）</li>
 <li>colon mucinous adenocarcinoma（99.3%）</li>
 <li>adult germ cell tumor（99.2%）</li>
@@ -42,9 +42,23 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [不只護骨！維生素D可降大腸癌、乳癌、攝護腺癌發生率](https://news.google.com/rss/articles/CBMi1AJBVV95cUxQOTFLYjJZY0doY2JvUnNZOXR3U1R1anJnY1ZDRDJRcTRxWWNGLVQ3RGROc2dEQVV5MkN0cFp6QU9MLVYwc3ZVa3FOSmgxR3VtSlNyaVR4R290NkJidTI1WEtsVlVGQ0YyVXZubXlDdGV0dTl5VUpqd1ZMRi1keUYwc1djRG5HMTVISzMxZXBGZW1sWG02UXJRckw4NDZyZURNblJoV2ZVa0hhZlowLUJlR2JfUkRHa2xNTHhfUVh6SjM5bTd3TGx1S1dxMjBraGd6S1dqNEZmU0MwN051dlNGQ0sxZXA0azdVcVRheXE3bi1raS1kSXB2bHZZUHh3dWxpb2pCTjRGQnJXRl9nNW15cHM5bWFjZlA3QkcyRndXZHZVaThpOTBLN1hkMXVuR0dBbVNPZmFDRG9zWVI4NmtRV1hJOFFaLWwxclhPWU81MzZOcEh5?oc=5)
+
+2026-07-26 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi1AJBVV95cUxQOTFLYjJZY0doY2JvUnNZOXR3U1R1anJnY1ZDRDJRcTRxWWNGLVQ3RGROc2dEQVV5MkN0cFp6QU9MLVYwc3ZVa3FOSmgxR3VtSlNyaVR4R290NkJidTI1WEtsVlVGQ0YyVXZubXlDdGV0dTl5VUpqd1ZMRi1keUYwc1djRG5HMTVISzMxZXBGZW1sWG02UXJRckw4NDZyZURNblJoV2ZVa0hhZlowLUJlR2JfUkRHa2xNTHhfUVh6SjM5bTd3TGx1S1dxMjBraGd6S1dqNEZmU0MwN051dlNGQ0sxZXA0azdVcVRheXE3bi1raS1kSXB2bHZZUHh3dWxpb2pCTjRGQnJXRl9nNW15cHM5bWFjZlA3QkcyRndXZHZVaThpOTBLN1hkMXVuR0dBbVNPZmFDRG9zWVI4NmtRV1hJOFFaLWwxclhPWU81MzZOcEh5?oc=5)
+
+---
+
+### [健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9obzVKWXRFdkdjY2tobV9SVFpXTnNDNW03NnRXeFdfSTZXNVdMdmdpNUFxb1dRdmtpTDBLZHgyeXllOHZJeW5VS2lOSkM5UzJqWk9ZVTRB?oc=5)
+
+2026-07-26 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9obzVKWXRFdkdjY2tobV9SVFpXTnNDNW03NnRXeFdfSTZXNVdMdmdpNUFxb1dRdmtpTDBLZHgyeXllOHZJeW5VS2lOSkM5UzJqWk9ZVTRB?oc=5)
+
+---
 
 
 <div class="disclaimer">

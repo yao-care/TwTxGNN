@@ -1,7 +1,136 @@
 {
-  "generated": "2026-07-26T08:09:48.085228+00:00",
-  "count": 4,
+  "generated": "2026-07-26T10:29:34.164913+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "46a51408f875",
+      "title": "不只護骨！維生素D可降大腸癌、乳癌、攝護腺癌發生率",
+      "published": "2026-07-26T09:29:29+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQOTFLYjJZY0doY2JvUnNZOXR3U1R1anJnY1ZDRDJRcTRxWWNGLVQ3RGROc2dEQVV5MkN0cFp6QU9MLVYwc3ZVa3FOSmgxR3VtSlNyaVR4R290NkJidTI1WEtsVlVGQ0YyVXZubXlDdGV0dTl5VUpqd1ZMRi1keUYwc1djRG5HMTVISzMxZXBGZW1sWG02UXJRckw4NDZyZURNblJoV2ZVa0hhZlowLUJlR2JfUkRHa2xNTHhfUVh6SjM5bTd3TGx1S1dxMjBraGd6S1dqNEZmU0MwN051dlNGQ0sxZXA0azdVcVRheXE3bi1raS1kSXB2bHZZUHh3dWxpb2pCTjRGQnJXRl9nNW15cHM5bWFjZlA3QkcyRndXZHZVaThpOTBLN1hkMXVuR0dBbVNPZmFDRG9zWVI4NmtRV1hJOFFaLWwxclhPWU81MzZOcEh5?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e1ef3fab4738",
+      "title": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報 - LINE TODAY",
+      "published": "2026-07-26T09:06:07+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9obzVKWXRFdkdjY2tobV9SVFpXTnNDNW03NnRXeFdfSTZXNVdMdmdpNUFxb1dRdmtpTDBLZHgyeXllOHZJeW5VS2lOSkM5UzJqWk9ZVTRB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "310adf2d7d6b",
       "title": "洗腎5年翁誤認妻子是「壞人」 醫：失智風險比一般人高",
