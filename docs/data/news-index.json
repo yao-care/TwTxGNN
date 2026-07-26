@@ -1,7 +1,31 @@
 {
-  "generated": "2026-07-25T23:52:12.158998+00:00",
-  "count": 3,
+  "generated": "2026-07-26T01:55:23.189799+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "fe038efec4c1",
+      "title": "尪洗腎後把妻子當「壞女人」醫示警失智風險增：吃3物救腦- 健康",
+      "published": "2026-07-26T00:11:48+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0eXJjNzJvZk9QN3lZQ1JYcjlPanJUWGM5akxVRUpHU3NYYzlkSHJCZTNzTU1tUHlpSjNNb0JpSUo2VXRtX1lhd3pWcWduNDF2VFN6UkZvalVQZVNVLW5VMDhqYThpMmVHYWlnY1dR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "8655d576682c",
       "title": "謠言終結站》流感、肺炎疫苗提高失智症風險? 研究被誤解",
