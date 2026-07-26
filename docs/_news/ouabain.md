@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/ouabain/
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>Prinzmetal angina（99.7%）</li>
 <li>hemoglobinopathy（99.5%）</li>
-<li>myocardial infarction（99.4%）</li>
+<li class="indication-matched">myocardial infarction（99.4%）<span class="indication-tag">📰 心梗</span></li>
 <li>thrombotic disease（99.3%）</li>
 <li>hyperthyroidism（99.3%）</li>
 <li>homozygous familial hypercholesterolemia（99.2%）</li>
@@ -42,9 +42,15 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [上呼吸道感染誘心臟病 打對疫苗 心梗風險降48% - 20260727 - 副刊](https://news.google.com/rss/articles/CBMi-AJBVV95cUxOd21CMTZkY2lDRzRJNHMwbGNyTWVxTjVhUlU5bl9qeUF1aFp2TDkwNktXQU1raXNoTk43VHpYalF5Yms4eURxUnNYUnpab1NlRF9WNF9xTzRmNzgzQUVBRWx4MUFRV0pyRy1tOHdYdE9mQVdDcGJTcUlOWWxBTUJXU2Nmc0tuQ3k4QXNwcV9XSXBjOEFZZXE5UHVmQzI0WjlqcW1nOXN5SGR6RVhiUDVuVk8xRzdrU0h1NEE3eEhOQWltN2JKSDRhYXBjM0xZQk1kdTlHR0ZJVTdYZHA0Q0N5NkliVzBITjRDZWlUZXNEaTd1SFJrTGRvcXlRd214VnBQeS1abVJOVmdacFpHQ012UjdKU05qRjhxNWJVdFNYemdqbGFRdmFwbFpIUm84VHNUT1k1bGpUZ18yYTFWb3pwR1E5ZDdTTGNRdDBadXgtazNrQjhiQVY2VXltbmpGU213NXU5NVBlZ2ZNaGptUVhrZ1R5RFBLdTk2?oc=5)
+
+2026-07-26 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">氣喘</span>
+
+來源：[明報新聞網](https://news.google.com/rss/articles/CBMi-AJBVV95cUxOd21CMTZkY2lDRzRJNHMwbGNyTWVxTjVhUlU5bl9qeUF1aFp2TDkwNktXQU1raXNoTk43VHpYalF5Yms4eURxUnNYUnpab1NlRF9WNF9xTzRmNzgzQUVBRWx4MUFRV0pyRy1tOHdYdE9mQVdDcGJTcUlOWWxBTUJXU2Nmc0tuQ3k4QXNwcV9XSXBjOEFZZXE5UHVmQzI0WjlqcW1nOXN5SGR6RVhiUDVuVk8xRzdrU0h1NEE3eEhOQWltN2JKSDRhYXBjM0xZQk1kdTlHR0ZJVTdYZHA0Q0N5NkliVzBITjRDZWlUZXNEaTd1SFJrTGRvcXlRd214VnBQeS1abVJOVmdacFpHQ012UjdKU05qRjhxNWJVdFNYemdqbGFRdmFwbFpIUm84VHNUT1k1bGpUZ18yYTFWb3pwR1E5ZDdTTGNRdDBadXgtazNrQjhiQVY2VXltbmpGU213NXU5NVBlZ2ZNaGptUVhrZ1R5RFBLdTk2?oc=5)
+
+---
 
 
 <div class="disclaimer">

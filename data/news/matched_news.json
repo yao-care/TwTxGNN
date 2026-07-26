@@ -1,8 +1,116 @@
 {
-  "last_updated": "2026-07-26T20:07:29.803313+00:00",
-  "total_count": 21,
-  "matched_count": 6,
+  "last_updated": "2026-07-26T21:51:01.321321+00:00",
+  "total_count": 26,
+  "matched_count": 7,
   "news": [
+    {
+      "id": "9b83a8f2a912",
+      "title": "大腦就是這樣工作：破解愛恨情仇、成癮、恐懼等11大謎團 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
+      "published": "2026-07-26T21:15:33+00:00",
+      "summary": "大腦就是這樣工作：破解愛恨情仇、成癮、恐懼等11大謎團 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZUxQMy1nRmM5ZERpOFlmTVZLWnplZ0dvdlBHbUdnZWtVc2dkQTAtaVltUjloY0dzcVVJYVJ6eHZENUxpUS1yLTltYVJ2US1uVmFWazRZUjBLV1hRdXNrRWl3Vk0yUVFId0ZSN1lWQXlXQlFmUllydGw4ZHhoVHpDLXVOOFhsQ3RX?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1277f8b54ebc",
+      "title": "上呼吸道感染誘心臟病 打對疫苗 心梗風險降48% - 20260727 - 副刊",
+      "published": "2026-07-26T20:30:00+00:00",
+      "summary": "上呼吸道感染誘心臟病 打對疫苗 心梗風險降48% - 20260727 - 副刊&nbsp;&nbsp;明報新聞網出生即享保護力！單株抗體助新生兒遠離重症住院威脅&nbsp;&nbsp;台灣民眾電子報預防嬰幼兒呼吸道細胞融合病毒RSV怎麼做？RSV單株抗體、RSV孕婦疫苗差在哪？醫解析重症與氣喘風險&nbsp;&nbsp;PanSci 泛科學",
+      "sources": [
+        {
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOd21CMTZkY2lDRzRJNHMwbGNyTWVxTjVhUlU5bl9qeUF1aFp2TDkwNktXQU1raXNoTk43VHpYalF5Yms4eURxUnNYUnpab1NlRF9WNF9xTzRmNzgzQUVBRWx4MUFRV0pyRy1tOHdYdE9mQVdDcGJTcUlOWWxBTUJXU2Nmc0tuQ3k4QXNwcV9XSXBjOEFZZXE5UHVmQzI0WjlqcW1nOXN5SGR6RVhiUDVuVk8xRzdrU0h1NEE3eEhOQWltN2JKSDRhYXBjM0xZQk1kdTlHR0ZJVTdYZHA0Q0N5NkliVzBITjRDZWlUZXNEaTd1SFJrTGRvcXlRd214VnBQeS1abVJOVmdacFpHQ012UjdKU05qRjhxNWJVdFNYemdqbGFRdmFwbFpIUm84VHNUT1k1bGpUZ18yYTFWb3pwR1E5ZDdTTGNRdDBadXgtazNrQjhiQVY2VXltbmpGU213NXU5NVBlZ2ZNaGptUVhrZ1R5RFBLdTk2?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "氣喘",
+          "keyword": "氣喘",
+          "related_drugs": [
+            {
+              "slug": "dupilumab",
+              "name": "Dupilumab"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "5402f04ad619",
       "title": "美國｜疫苗接種率下滑麻疹病例創35年新高- 國際",
@@ -239,6 +347,19 @@
       ]
     },
     {
+      "id": "e40a95c7ff5e",
+      "title": "遏止黑心！新北市祭出重罰廢止双鵬工廠登記| 社會",
+      "published": "2026-07-26T11:22:21+00:00",
+      "summary": "遏止黑心！新北市祭出重罰廢止双鵬工廠登記| 社會&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1oYXcxT3RDSVk4WUlTdHFsNTdpaFl2ak5XWndlOTNrWmxja0dOYllFRkR3dUVVdU52dUtxZ3VLcHNEWUFaV3c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "e1ef3fab4738",
       "title": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報 - LINE TODAY",
       "published": "2026-07-26T09:58:47+00:00",
@@ -312,19 +433,6 @@
       ]
     },
     {
-      "id": "657d5b3aee74",
-      "title": "飛機餐2.0！新航「美味健康餐食」 舒緩旅途不適| 旅遊",
-      "published": "2026-07-26T07:04:51+00:00",
-      "summary": "飛機餐2.0！新航「美味健康餐食」 舒緩旅途不適| 旅遊&nbsp;&nbsp;三立新聞網SETN.com",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CVzRqS1N2amZqT1o3WjFsLVRoOTI1SFEtSURwTzRpdzNIbGJlNWZRTXhPb2NQQXBackxYVktoakhKbTRNRFJJ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "e8821f450474",
       "title": "不是止痛藥！研究揭膝蓋痛竟和腸道菌有關 補充1種纖維有助減痛",
       "published": "2026-07-26T06:19:00+00:00",
@@ -383,6 +491,19 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iMWZlSjhldGdiOTBwWV9nZHR0ZXRUUlVUNm9wMjFxTzFlYXFoNDJVV05yNF9Cc3FEbzVFb0ZhUlJvLVB2eHNOVDUyQWJ6NE50LXZBdmY4V1BMZEVBOEg3NUNB0gFnQVVfeXFMTjZnSFJPVHF2QTRid1BjQ2tzdlEyeGNoREZEWTFFcnlTSHZVMjNTUjdVRkRKRDNacXhZWmNpbUtIdU1NMXY1Smo5STE4ci1LQXpzaXZzeGd3bDZJU3pWeGszWmIxNWNwTQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a51e1dd972ae",
+      "title": "家長注意！上週251班停課 全是腸病毒害的...",
+      "published": "2026-07-25T23:32:41+00:00",
+      "summary": "家長注意！上週251班停課 全是腸病毒害的...&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE83ZGtJQ19HQS1jT3M0cndSejZrYXcybEFXcmdYNUh3OGZNb0tJdVIwY3k3eEhZRzBoUGxfT19ZTEJxNUYzbk9F?oc=5"
         }
       ],
       "matched_keywords": []
@@ -450,13 +571,13 @@
       ]
     },
     {
-      "id": "82bd9915bba1",
+      "id": "c7b1702d8e34",
       "title": "流感疫苗開打！宋逸民攜女接種揪心不忍看下去| 生活",
       "published": "2026-07-25T19:15:48+00:00",
-      "summary": "流感疫苗開打！宋逸民攜女接種揪心不忍看下去| 生活&nbsp;&nbsp;三立新聞網SETN.com",
+      "summary": "流感疫苗開打！宋逸民攜女接種揪心不忍看下去| 生活&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
+          "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5MTUUycEhVU3lEVU9SSFNoV3NBd1c0eVVIZlE4LUlCODN0cXY4dXhEMHBkbXJ5RmxJVVZSOVdhNWNkQy1la2c?oc=5"
         }
       ],
@@ -540,6 +661,32 @@
       "matched_keywords": []
     },
     {
+      "id": "70091a7e8801",
+      "title": "沒事別狂衝大醫院！小病掛急診8成5民眾支持自費| 生活",
+      "published": "2026-07-25T02:18:23+00:00",
+      "summary": "沒事別狂衝大醫院！小病掛急診8成5民眾支持自費| 生活&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE13NmFKQmdpeTYzRHZBTGF6Mmh1UmxfVzlkMHo0N1Q3QjRwSXJUX3NKZmhiUTVwSVVaNWdLMS1Sb2Y4OXpIdlk4?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "82e053d08abf",
+      "title": "小心！偷車賊最愛的顏色 第一名竟是……",
+      "published": "2026-07-25T01:42:10+00:00",
+      "summary": "小心！偷車賊最愛的顏色 第一名竟是……&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE41MDNvc3EwUFFfTHkxXzY4RFpzcGR0RDZHdXdpOGVNajJqN3FDXzFwUE16OF9VRkN6dUlkc0ZMaWZKc29mYlE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "00fd1f56afad",
       "title": "精神健康｜週末「床上擺爛」舒壓定抑鬱先兆？拆解Z世代躺平迷思",
       "published": "2026-07-25T01:00:29+00:00",
@@ -566,13 +713,13 @@
       "matched_keywords": []
     },
     {
-      "id": "7d62f059d2f6",
+      "id": "10d37537fa96",
       "title": "看了被氣死！LINE瘋傳「護眼操」是假的！近視不減反增| 生活",
       "published": "2026-07-25T00:05:53+00:00",
-      "summary": "看了被氣死！LINE瘋傳「護眼操」是假的！近視不減反增| 生活&nbsp;&nbsp;三立新聞網SETN.com",
+      "summary": "看了被氣死！LINE瘋傳「護眼操」是假的！近視不減反增| 生活&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
+          "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5vaHphTWkzd3dDYWNCNHRPLUw0Z0dOa3htNl9xc3VKN0lmeVcwSzdfRkRRXzJsNzRGam01MHdybXF2dWtBTjU0?oc=5"
         }
       ],

@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [上呼吸道感染誘心臟病 打對疫苗 心梗風險降48% - 20260727 - 副刊](https://news.google.com/rss/articles/CBMi-AJBVV95cUxOd21CMTZkY2lDRzRJNHMwbGNyTWVxTjVhUlU5bl9qeUF1aFp2TDkwNktXQU1raXNoTk43VHpYalF5Yms4eURxUnNYUnpab1NlRF9WNF9xTzRmNzgzQUVBRWx4MUFRV0pyRy1tOHdYdE9mQVdDcGJTcUlOWWxBTUJXU2Nmc0tuQ3k4QXNwcV9XSXBjOEFZZXE5UHVmQzI0WjlqcW1nOXN5SGR6RVhiUDVuVk8xRzdrU0h1NEE3eEhOQWltN2JKSDRhYXBjM0xZQk1kdTlHR0ZJVTdYZHA0Q0N5NkliVzBITjRDZWlUZXNEaTd1SFJrTGRvcXlRd214VnBQeS1abVJOVmdacFpHQ012UjdKU05qRjhxNWJVdFNYemdqbGFRdmFwbFpIUm84VHNUT1k1bGpUZ18yYTFWb3pwR1E5ZDdTTGNRdDBadXgtazNrQjhiQVY2VXltbmpGU213NXU5NVBlZ2ZNaGptUVhrZ1R5RFBLdTk2?oc=5)
+
+2026-07-26 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">氣喘</span>
+
+來源：[明報新聞網](https://news.google.com/rss/articles/CBMi-AJBVV95cUxOd21CMTZkY2lDRzRJNHMwbGNyTWVxTjVhUlU5bl9qeUF1aFp2TDkwNktXQU1raXNoTk43VHpYalF5Yms4eURxUnNYUnpab1NlRF9WNF9xTzRmNzgzQUVBRWx4MUFRV0pyRy1tOHdYdE9mQVdDcGJTcUlOWWxBTUJXU2Nmc0tuQ3k4QXNwcV9XSXBjOEFZZXE5UHVmQzI0WjlqcW1nOXN5SGR6RVhiUDVuVk8xRzdrU0h1NEE3eEhOQWltN2JKSDRhYXBjM0xZQk1kdTlHR0ZJVTdYZHA0Q0N5NkliVzBITjRDZWlUZXNEaTd1SFJrTGRvcXlRd214VnBQeS1abVJOVmdacFpHQ012UjdKU05qRjhxNWJVdFNYemdqbGFRdmFwbFpIUm84VHNUT1k1bGpUZ18yYTFWb3pwR1E5ZDdTTGNRdDBadXgtazNrQjhiQVY2VXltbmpGU213NXU5NVBlZ2ZNaGptUVhrZ1R5RFBLdTk2?oc=5)
+
+---
 
 ### [天天曬太陽也不夠！醫揭卻乏維生素D恐提高糖尿病、罹癌風險](https://news.google.com/rss/articles/CBMigwNBVV95cUxONnJGTUZsOGRvQ0N2MG8weXB2MlFLck5YM2J6bzctdEFndnFmWXR2QkxPdWw1clNEek9GaklwU2VYRnd2QmdNNHFHWldRUzY2UGt3Um8xWUsycjR4V1RJSzNtaHpLb3FjNjU2bUFGY0o5bXhtX0VVTHBuUV9vcFZTc2lVb2UtQkdCTzJ1elFHRjZIbTJGZ2ltenhVdUNPTzJpZE9pYngwQ1doVnVXakpQMHUzTEhXN2hHeFAtbXpKY2tueHFaM29EX3RYV1NkUHhoOWRJRHVEU0NmS2NtU0VGUlRjZjJ2VmNoVXBjVEs4aWU2djdmdjFwdzcxdXhyRlE3bTM0Ujc0QUZ4cUZzay1MSHVKUUY3eW1HNGxYNl81Mng2MVNLR3QtdE1ER1JsS2tVNlMtdXhicFY0a0t6MFM4R0k5SktUOEZlUWJDYUxqaWs4Y1c2dW5VTkpSTHBxWXZvMlFnekV1SnJSb3dodHUtMW14UmUzbEwtRWtkeGZCSFEtOTg?oc=5)
 
