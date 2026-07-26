@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-26T21:51:01.321321+00:00",
-  "total_count": 26,
+  "last_updated": "2026-07-26T22:51:26.332571+00:00",
+  "total_count": 24,
   "matched_count": 7,
   "news": [
     {
@@ -347,19 +347,6 @@
       ]
     },
     {
-      "id": "e40a95c7ff5e",
-      "title": "遏止黑心！新北市祭出重罰廢止双鵬工廠登記| 社會",
-      "published": "2026-07-26T11:22:21+00:00",
-      "summary": "遏止黑心！新北市祭出重罰廢止双鵬工廠登記| 社會&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1oYXcxT3RDSVk4WUlTdHFsNTdpaFl2ak5XWndlOTNrWmxja0dOYllFRkR3dUVVdU52dUtxZ3VLcHNEWUFaV3c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "e1ef3fab4738",
       "title": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報 - LINE TODAY",
       "published": "2026-07-26T09:58:47+00:00",
@@ -408,6 +395,19 @@
       ]
     },
     {
+      "id": "ebb895c2c0d1",
+      "title": "注意！諾羅病毒好發季節避免生食海鮮| 生活",
+      "published": "2026-07-26T09:15:48+00:00",
+      "summary": "注意！諾羅病毒好發季節避免生食海鮮| 生活&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE10TjNDX2RNWU5zUFBaMUVHOUJlVU9paUlRbHFGLXJ5X0x5czYzOUNWVWZnT2dDVklmQm5odzNWT2FIWVdrMlhz?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "310adf2d7d6b",
       "title": "洗腎5年翁誤認妻子是「壞人」 醫：失智風險比一般人高",
       "published": "2026-07-26T07:41:16+00:00",
@@ -431,6 +431,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "a7fdf23c62e4",
+      "title": "飛機餐2.0！新航「美味健康餐食」 舒緩旅途不適| 旅遊",
+      "published": "2026-07-26T07:04:51+00:00",
+      "summary": "飛機餐2.0！新航「美味健康餐食」 舒緩旅途不適| 旅遊&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CVzRqS1N2amZqT1o3WjFsLVRoOTI1SFEtSURwTzRpdzNIbGJlNWZRTXhPb2NQQXBackxYVktoakhKbTRNRFJJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "e8821f450474",
@@ -491,19 +504,6 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iMWZlSjhldGdiOTBwWV9nZHR0ZXRUUlVUNm9wMjFxTzFlYXFoNDJVV05yNF9Cc3FEbzVFb0ZhUlJvLVB2eHNOVDUyQWJ6NE50LXZBdmY4V1BMZEVBOEg3NUNB0gFnQVVfeXFMTjZnSFJPVHF2QTRid1BjQ2tzdlEyeGNoREZEWTFFcnlTSHZVMjNTUjdVRkRKRDNacXhZWmNpbUtIdU1NMXY1Smo5STE4ci1LQXpzaXZzeGd3bDZJU3pWeGszWmIxNWNwTQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a51e1dd972ae",
-      "title": "家長注意！上週251班停課 全是腸病毒害的...",
-      "published": "2026-07-25T23:32:41+00:00",
-      "summary": "家長注意！上週251班停課 全是腸病毒害的...&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE83ZGtJQ19HQS1jT3M0cndSejZrYXcybEFXcmdYNUh3OGZNb0tJdVIwY3k3eEhZRzBoUGxfT19ZTEJxNUYzbk9F?oc=5"
         }
       ],
       "matched_keywords": []
@@ -656,32 +656,6 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kdzBnLTZOTmM0N24xalRRMEJrRW81TGFROW1HT0ZkNjNRbmx2RndHYUl2TjZQd3dVTmJyZU1DZERud0pQdktBMDViZ1ExNmJWS0l1a1lqVkMxZHVZOEtQRFNR0gFiQVVfeXFMTmR3MGctNk5OYzQ3bjFqVFEwQmtFbzVMYVE5bUdPRmQ2M1FubHZGd0dhSXZONlB3d1VOYnJlTUNkRG53SlB2S0EwNWJnUTE2YlZLSXVrWWpWQzFkdVk4S1BEU1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "70091a7e8801",
-      "title": "沒事別狂衝大醫院！小病掛急診8成5民眾支持自費| 生活",
-      "published": "2026-07-25T02:18:23+00:00",
-      "summary": "沒事別狂衝大醫院！小病掛急診8成5民眾支持自費| 生活&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE13NmFKQmdpeTYzRHZBTGF6Mmh1UmxfVzlkMHo0N1Q3QjRwSXJUX3NKZmhiUTVwSVVaNWdLMS1Sb2Y4OXpIdlk4?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "82e053d08abf",
-      "title": "小心！偷車賊最愛的顏色 第一名竟是……",
-      "published": "2026-07-25T01:42:10+00:00",
-      "summary": "小心！偷車賊最愛的顏色 第一名竟是……&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE41MDNvc3EwUFFfTHkxXzY4RFpzcGR0RDZHdXdpOGVNajJqN3FDXzFwUE16OF9VRkN6dUlkc0ZMaWZKc29mYlE?oc=5"
         }
       ],
       "matched_keywords": []
