@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-26T16:53:23.146338+00:00",
-  "count": 23,
+  "fetched_at": "2026-07-26T17:55:02.590961+00:00",
+  "count": 20,
   "news": [
     {
       "id": "e8821f450474",
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "e1ef3fab4738",
-      "title": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報 - LINE TODAY",
-      "published": "2026-07-26T09:58:47+00:00",
-      "summary": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9obzVKWXRFdkdjY2tobV9SVFpXTnNDNW03NnRXeFdfSTZXNVdMdmdpNUFxb1dRdmtpTDBLZHgyeXllOHZJeW5VS2lOSkM5UzJqWk9ZVTRB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "86889fe652a4",
       "title": "天天曬太陽也不夠！醫揭卻乏維生素D恐提高糖尿病、罹癌風險 - Yahoo新聞",
       "published": "2026-07-26T14:31:11+00:00",
@@ -48,6 +36,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxONnJGTUZsOGRvQ0N2MG8weXB2MlFLck5YM2J6bzctdEFndnFmWXR2QkxPdWw1clNEek9GaklwU2VYRnd2QmdNNHFHWldRUzY2UGt3Um8xWUsycjR4V1RJSzNtaHpLb3FjNjU2bUFGY0o5bXhtX0VVTHBuUV9vcFZTc2lVb2UtQkdCTzJ1elFHRjZIbTJGZ2ltenhVdUNPTzJpZE9pYngwQ1doVnVXakpQMHUzTEhXN2hHeFAtbXpKY2tueHFaM29EX3RYV1NkUHhoOWRJRHVEU0NmS2NtU0VGUlRjZjJ2VmNoVXBjVEs4aWU2djdmdjFwdzcxdXhyRlE3bTM0Ujc0QUZ4cUZzay1MSHVKUUY3eW1HNGxYNl81Mng2MVNLR3QtdE1ER1JsS2tVNlMtdXhicFY0a0t6MFM4R0k5SktUOEZlUWJDYUxqaWs4Y1c2dW5VTkpSTHBxWXZvMlFnekV1SnJSb3dodHUtMW14UmUzbEwtRWtkeGZCSFEtOTg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e1ef3fab4738",
+      "title": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報 - LINE TODAY",
+      "published": "2026-07-26T09:58:47+00:00",
+      "summary": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9obzVKWXRFdkdjY2tobV9SVFpXTnNDNW03NnRXeFdfSTZXNVdMdmdpNUFxb1dRdmtpTDBLZHgyeXllOHZJeW5VS2lOSkM5UzJqWk9ZVTRB?oc=5"
         }
       ]
     },
@@ -160,42 +160,6 @@
       ]
     },
     {
-      "id": "ebb895c2c0d1",
-      "title": "注意！諾羅病毒好發季節避免生食海鮮| 生活 - 三立新聞",
-      "published": "2026-07-26T09:15:48+00:00",
-      "summary": "注意！諾羅病毒好發季節避免生食海鮮| 生活&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE10TjNDX2RNWU5zUFBaMUVHOUJlVU9paUlRbHFGLXJ5X0x5czYzOUNWVWZnT2dDVklmQm5odzNWT2FIWVdrMlhz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c7b1702d8e34",
-      "title": "流感疫苗開打！宋逸民攜女接種揪心不忍看下去| 生活 - 三立新聞",
-      "published": "2026-07-25T19:15:48+00:00",
-      "summary": "流感疫苗開打！宋逸民攜女接種揪心不忍看下去| 生活&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5MTUUycEhVU3lEVU9SSFNoV3NBd1c0eVVIZlE4LUlCODN0cXY4dXhEMHBkbXJ5RmxJVVZSOVdhNWNkQy1la2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a51e1dd972ae",
-      "title": "家長注意！上週251班停課 全是腸病毒害的... - 三立新聞",
-      "published": "2026-07-25T23:32:41+00:00",
-      "summary": "家長注意！上週251班停課 全是腸病毒害的...&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE83ZGtJQ19HQS1jT3M0cndSejZrYXcybEFXcmdYNUh3OGZNb0tJdVIwY3k3eEhZRzBoUGxfT19ZTEJxNUYzbk9F?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b4224409176e",
       "title": "橫琴多個公共場所設「共享驅蚊液」 居民可免費使用 - 澳門力報",
       "published": "2026-07-26T05:12:26+00:00",
@@ -232,14 +196,14 @@
       ]
     },
     {
-      "id": "8f764eb683d2",
-      "title": "討論功課LINE過頭國小女近視度數爆增| 專欄 - 三立新聞",
-      "published": "2026-07-24T20:54:38+00:00",
-      "summary": "討論功課LINE過頭國小女近視度數爆增| 專欄&nbsp;&nbsp;三立新聞",
+      "id": "82e053d08abf",
+      "title": "小心！偷車賊最愛的顏色 第一名竟是…… - 三立新聞",
+      "published": "2026-07-25T01:42:10+00:00",
+      "summary": "小心！偷車賊最愛的顏色 第一名竟是……&nbsp;&nbsp;三立新聞",
       "sources": [
         {
           "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4tREduS2I1MXBESDY2OENQZ0QtdDdjNlliWTVyMlBNaXRGRUhsNGtqUjNlalhoelYzX1AyWEd1am5CSVVKeVhN?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE41MDNvc3EwUFFfTHkxXzY4RFpzcGR0RDZHdXdpOGVNajJqN3FDXzFwUE16OF9VRkN6dUlkc0ZMaWZKc29mYlE?oc=5"
         }
       ]
     },
