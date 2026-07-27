@@ -1,21 +1,8 @@
 {
-  "last_updated": "2026-07-27T20:14:07.551668+00:00",
-  "total_count": 33,
+  "last_updated": "2026-07-27T21:56:59.077116+00:00",
+  "total_count": 32,
   "matched_count": 11,
   "news": [
-    {
-      "id": "1a092887e45e",
-      "title": "川普砍外援！聯合國警告：全球愛滋病防治資金驟減近2成",
-      "published": "2026-07-27T17:03:10+00:00",
-      "summary": "川普砍外援！聯合國警告：全球愛滋病防治資金驟減近2成&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4weTFRbTRQeXB6ejVONGdIWVRlczBQNWdxVjJvdTFoUTc3NlBNSVppaGo5SXlVTWJmMXpBZEFOWmU4X2dTOC1BSEREVVVNaHR5QV9QWnEtdnFFb0pmNXRyUg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
     {
       "id": "5019ca8d7409",
       "title": "預防心血管疾病 從健康生活做起",
@@ -266,7 +253,7 @@
       "id": "cf55e6281d6f",
       "title": "健康網》維生素D補骨又防癌 醫揭濃度高大腸癌、乳癌風險降",
       "published": "2026-07-27T11:26:00+00:00",
-      "summary": "健康網》維生素D補骨又防癌 醫揭濃度高大腸癌、乳癌風險降&nbsp;&nbsp;自由健康網維他命D不只存骨本！研究曝「能防3種癌」 還能降糖尿病風險&nbsp;&nbsp;三立新聞不只護骨！維生素D可降大腸癌、乳癌、攝護腺癌發生率&nbsp;&nbsp;Yahoo新聞天天曬太陽也不夠！醫揭卻乏維生素D恐提高糖尿病、罹癌風險 | CTWANT&nbsp;&nbsp;LINE TODAY防曬過頭害骨鬆？醫揭「缺維生素D」危機 補錯時間也沒用&nbsp;&nbsp;東森新聞",
+      "summary": "健康網》維生素D補骨又防癌 醫揭濃度高大腸癌、乳癌風險降&nbsp;&nbsp;自由健康網維他命D不只存骨本！研究曝「能防3種癌」 還能降糖尿病風險&nbsp;&nbsp;三立新聞天天曬太陽也不夠 醫揭缺維生素D恐提高糖尿病、罹癌風險&nbsp;&nbsp;民報不只護骨！維生素D可降大腸癌、乳癌、攝護腺癌發生率&nbsp;&nbsp;Yahoo新聞防曬過頭害骨鬆？醫揭「缺維生素D」危機 補錯時間也沒用&nbsp;&nbsp;東森新聞",
       "sources": [
         {
           "name": "自由健康網",
@@ -446,6 +433,19 @@
         {
           "name": "台視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xdmJVMTlUVTlhbWJwVEE2NkZ5dEJreUtzSzZ2WkQwc3FSejdpYW1DVlRiLW1xUWNURHBaS1hnMmwxazhoc25SWkJTWTZ1bUF3dUw5ZW8yYw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "da069645049d",
+      "title": "美國調整愛滋防治策略 承認須涵蓋所有高風險族群",
+      "published": "2026-07-27T06:21:57+00:00",
+      "summary": "美國調整愛滋防治策略 承認須涵蓋所有高風險族群&nbsp;&nbsp;行銷人",
+      "sources": [
+        {
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPbmpyVWtUaXZ3YTM5WjRHYTBIdWo4Y3YxYmljT3p2VUNNY1FXNE5WNnc3Wm9xVlc1akMyRUVBVXRQTFNmak1KSTdxNlVEYVlFQWcxM0JsNHlvZ0diRDZGMktqakE4cXplWDZfQ0w2STgzM2dPUWRBeWJoX1dsQkN6eVdPRy0ybkE2SVl2eGZjZExyX2RycWh3c0Z5TTdMV1dYRXA1Q0lhbEtESk5mdHZ5ZjBVZnp4MV95TXFsNVA2YTNZSjZZNG1tWlF2X3dETkZBUm1COGtjZ1h3NDE5dlFCaEcwQnNuSkJjOEljV0U2N01WVldBNmJhLUdrbXEtZ1Q0aFdmS1FsUVF5TjdaQ3RTZFpDUUFDN3ZDd3Q4QjQtVmRBZ3NQSDhvd2hwUHRFNDlyajZ3NHlqRUFaLUZBUmNMWjRsamlHZVhtOUJkZVpWSzVZU0RNaEo1a3R1WXpKMFRqWERobUZMdlZYLXBBa1RVNUQ4aw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -805,14 +805,14 @@
       "matched_keywords": []
     },
     {
-      "id": "e1ef3fab4738",
-      "title": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報 - LINE TODAY",
-      "published": "2026-07-26T09:58:47+00:00",
-      "summary": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報&nbsp;&nbsp;LINE TODAY",
+      "id": "8a614264c1d6",
+      "title": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌",
+      "published": "2026-07-26T08:17:00+00:00",
+      "summary": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9obzVKWXRFdkdjY2tobV9SVFpXTnNDNW03NnRXeFdfSTZXNVdMdmdpNUFxb1dRdmtpTDBLZHgyeXllOHZJeW5VS2lOSkM5UzJqWk9ZVTRB?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85Z0wzYzN4RHFmX1VKTEFnTERWVkNHeUtmZkM4WVJnaFltWDZoaHBpT1NacWRqa1gyY25KdWJDQm1id012V2FOc2FGRTVXWURrUFgzYWdDQ1hidWFWVGlCa19qMnDSAWpBVV95cUxPU0FjUjZ4bVdmWGhkMXo0bWJxeFhpVDdtMU80QUtyVDYtVGIzamVlaVF5UXo0TktlVDMxN3NPb0NTNUVSUVRXb2s4Slhrd3JKTldGcXVMZTdmcjZYWTlOY2x4bG4xeGo5bHdB?oc=5"
         }
       ],
       "matched_keywords": [
@@ -874,19 +874,6 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iMWZlSjhldGdiOTBwWV9nZHR0ZXRUUlVUNm9wMjFxTzFlYXFoNDJVV05yNF9Cc3FEbzVFb0ZhUlJvLVB2eHNOVDUyQWJ6NE50LXZBdmY4V1BMZEVBOEg3NUNB0gFnQVVfeXFMTjZnSFJPVHF2QTRid1BjQ2tzdlEyeGNoREZEWTFFcnlTSHZVMjNTUjdVRkRKRDNacXhZWmNpbUtIdU1NMXY1Smo5STE4ci1LQXpzaXZzeGd3bDZJU3pWeGszWmIxNWNwTQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "964dfd059321",
-      "title": "腳底痛快去看醫生！小心你可能得了「足底筋膜炎」",
-      "published": "2026-07-26T00:37:15+00:00",
-      "summary": "腳底痛快去看醫生！小心你可能得了「足底筋膜炎」&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9aYWFsY1pVem9VUV9VN1kxdjFSblNoZUFoMzhsSlY5bVYyREFYYVBaMk1adl9nd0dBU3Rua3I1R21SRURDWnc?oc=5"
         }
       ],
       "matched_keywords": []
