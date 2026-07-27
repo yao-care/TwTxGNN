@@ -1,21 +1,8 @@
 {
-  "last_updated": "2026-07-27T13:32:21.590865+00:00",
-  "total_count": 41,
+  "last_updated": "2026-07-27T16:07:55.657427+00:00",
+  "total_count": 39,
   "matched_count": 11,
   "news": [
-    {
-      "id": "74d0d2455e48",
-      "title": "糖尿病男喝手搖拒吃藥！急送ICU　護師脫襪全安靜：腳如殭屍乾黑",
-      "published": "2026-07-27T12:24:00+00:00",
-      "summary": "糖尿病男喝手搖拒吃藥！急送ICU 護師脫襪全安靜：腳如殭屍乾黑&nbsp;&nbsp;ETtoday健康雲",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14N0c2bGZyR1JoVFM1aVM4M2dISzhSeDFxeFZUOEtGQ1U1dlhUMFVoaVhXTmdaVUQzY0tRaTQteVpYcElFbjkxSDNueTNSZ1ZF0gFPQVVfeXFMTU1UOTFseG9lS1loUEdGeUpvNzJsbWM3aVpKbVk1aThIaUZRNzF0VjU0Wm1xSUxYQWpXcEFmZFp3cFZHMzJicU81YnAzRWl6TQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
     {
       "id": "b9378d16f115",
       "title": "關注人體自然變化 NK細胞與腸道免疫軸研究揭開健康管理新視角 - 墨新聞-MORE News",
@@ -168,7 +155,7 @@
       "id": "9ceecde59c57",
       "title": "口咽癌」超越子宮頸癌！727世界抗頭頸癌日 醫籲：不菸不酒也中鏢 全民必備HPV防禦率",
       "published": "2026-07-27T07:41:08+00:00",
-      "summary": "口咽癌」超越子宮頸癌！727世界抗頭頸癌日 醫籲：不菸不酒也中鏢 全民必備HPV防禦率&nbsp;&nbsp;良醫健康網口咽癌悄竄升、男性患者增加！醫示警：不菸不酒仍躲不過HPV&nbsp;&nbsp;UDN「口咽癌」超越子宮頸癌！727世界抗頭頸癌日 醫籲： 全民必備HPV防禦率&nbsp;&nbsp;PChome Online 新聞HPV疫苗不只防菜花！醫揭更重要用途「降低多種癌風險」&nbsp;&nbsp;Yahoo新聞HPV疫苗補種計劃年底完 4成合資格女生未參與&nbsp;&nbsp;on.cc東網",
+      "summary": "口咽癌」超越子宮頸癌！727世界抗頭頸癌日 醫籲：不菸不酒也中鏢 全民必備HPV防禦率&nbsp;&nbsp;良醫健康網口咽癌悄竄升、男性患者增加！醫示警：不菸不酒仍躲不過HPV&nbsp;&nbsp;UDN「口咽癌」超越子宮頸癌！727世界抗頭頸癌日 醫籲： 全民必備HPV防禦率&nbsp;&nbsp;PChome Online 新聞HPV疫苗不只防菜花！醫揭更重要用途「降低多種癌風險」&nbsp;&nbsp;中天新聞網727世界抗頭頸癌日！口咽癌威脅升高，醫籲：不菸不酒也可能感染HPV，及早預防降低風險| 何長澤| 地方新聞&nbsp;&nbsp;風傳媒",
       "sources": [
         {
           "name": "良醫健康網",
@@ -226,6 +213,19 @@
         {
           "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CVzRqS1N2amZqT1o3WjFsLVRoOTI1SFEtSURwTzRpdzNIbGJlNWZRTXhPb2NQQXBackxYVktoakhKbTRNRFJJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "cbf53e538e37",
+      "title": "美國調整愛滋防治策略 承認須涵蓋所有高風險族群",
+      "published": "2026-07-27T05:42:23+00:00",
+      "summary": "美國調整愛滋防治策略 承認須涵蓋所有高風險族群&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOSVNZQTMxRnRXZmZpaHVzNlZ3ZkVaWlBtaEJQRWZtSm01NjF4TzFJeXBBTEdzN2RPY0Ftb3V2RThWTUNlZWlUejVKT2Q1YUZlYUVaMlRUMEJFSkJtN3BuVTNTWUJfOVdfamxodVlUQUctMzR6RUdVdkNRZ0FoN2pOU3ZMY3poSXNHdlpiMF9GQThjbzRIMjd5RkJhcmptYjJfbUdBV2FGeDZ0REFqby1WLWlEOWZ3R0NQX0h3RklSRXN0YVdwSVc1SDhyRnZQeDJLWTF2QW1NeHRaQS1EeGgzOGM0eXM3VmNEeEdPYnQ5WU0xUHJJbWZMYS1qeTRKQUhtZW5Ja3ZCRE4wWWQ5MnJsc29TSUdHR253SGt4QW9WU0xtYUV6Y0JHUlkyVTdjc00xbC10bGpVcXJxTGZWUnJZQzZ6V2k2eHBHcVZITg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -483,14 +483,14 @@
       ]
     },
     {
-      "id": "ff6b9e36c945",
+      "id": "3a0b7cb2eaab",
       "title": "拆解抗曬誤區 助護膚防癌搽全效產品仍出問題",
       "published": "2026-07-26T20:14:43+00:00",
       "summary": "拆解抗曬誤區 助護膚防癌搽全效產品仍出問題&nbsp;&nbsp;信報網站",
       "sources": [
         {
           "name": "信報網站",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPclRoQmw4MkFHUmd1TU5UNHVKZzZBY2hVUmtWT0dTSHRNclVGZ2hpaFMwc2lrN0JxWkxWMnNDakJTZlY2SjlrekFzWm1mSGdkOFFzd0J1SzhlaXU3ZkxPcjhFbnJIM0YzdFBYZHlFUDZ1bHR1ZDNHQV9YRHl6am5Jc3Z2UVczZGZHQmd1ZkhwelVVeDh1TWRIR2FxMTBpMVJJeWgtSGdfS0NBLVdveEN6NFo3NVVVS3ZZdGI2WmZMU1p0cHJ6Q0Q1ZnprTlpHMm1lT3hjYTJmM2Y2UnhlSmJ1UUFjUXNoZkVISHJj?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQOG5KcTRZWTdRNDY5U3pWLXppaXdNbl9IQmFEWDdhQUp5SEJPQjJCVnlibXVvRU9Jal9oSm9CY2Q2WTlQUi1RZzV5a0pHdzVTZ3VmbXhXeUVrQUMxcHhhYVZfVE91ckZycEIyLUY4aU5PdE0xMkV1Y2hwYUJVWnBScmhneDhwN1d0TzhRMlVZYjNhMTlRYzVNUGp0M1FyQk9jcTJyREItMFdzOHpHNTQtSVBHUDhfeDZSZVJDd29XUFhMa3V1ZWl3MDNid2hGS21xN3otSXNMUnBFcEFHMzBQZzVHUlV4cGh5YkVWY0V5SmFfeF9qRUNsZEZReU1OVmh1bEViU2JpQ0tIN2NyUk9jd1k4UmQwaXo0VWdZS3JTSHJGdWxmVUFBSXRTeW1IWWxha1ljU09xUzM3WFFQaXY5NjFmZjI3TWVjNmtnYzFOVU0tSDg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -517,19 +517,6 @@
         {
           "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1oYXcxT3RDSVk4WUlTdHFsNTdpaFl2ak5XWndlOTNrWmxja0dOYllFRkR3dUVVdU52dUtxZ3VLcHNEWUFaV3c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ebb895c2c0d1",
-      "title": "注意！諾羅病毒好發季節避免生食海鮮| 生活",
-      "published": "2026-07-26T09:15:48+00:00",
-      "summary": "注意！諾羅病毒好發季節避免生食海鮮| 生活&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE10TjNDX2RNWU5zUFBaMUVHOUJlVU9paUlRbHFGLXJ5X0x5czYzOUNWVWZnT2dDVklmQm5odzNWT2FIWVdrMlhz?oc=5"
         }
       ],
       "matched_keywords": []
@@ -658,19 +645,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "81c086925c99",
-      "title": "醫善同行｜耳石症引發天旋地轉 止暈藥只能治標不能治本",
-      "published": "2026-07-25T23:00:01+00:00",
-      "summary": "醫善同行｜耳石症引發天旋地轉 止暈藥只能治標不能治本&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQS25URDdlRXZyeEl4dzFoUmpMV0dMbHJXT1haTFN6cGNkUUV2RVRMNGdzbnpUenc0bzBEVEJjTmVFUWhwbkJjaHJCR2JkbVZSM2c0ZlR5YUoxS3FDRUZ1Q1hzc2twdGlUTGZLSF9KdmZhcWVDQWNuWFBBRkJFTTg2VkRlSHpUVGpieEtIV3ZzNDJsT2JGYUp5UjlILXprcjRfTVY0Z2cxdmFLWThIME9JMkxzZlRJVGg2WmluN1B4SHlyY0NEUHRlZ2RZTVVZdmVmS1FtUVhrcGg1MG4xbDE5SHRuNnhVbE93UnlQM0Q3MUdtZ1lrWkR2U3hxRHB2VU5BMk9DWjJoUE51YXBFMFVVTFo4T0JySTZ3anhMLVR5a3lHaVNIWXVJbzlxcTFlOEFfLV9UbEJKTXBDbXRBYjJlVk9JOXk0YmtPTWlmWmpiRlR3empKaURPZEJqVHN6RnZybjVBX3lsX2pWNTZuOEZNYk5LZGhXT3QyS2ZGelRHUXRibG8?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "13fffac216a4",
