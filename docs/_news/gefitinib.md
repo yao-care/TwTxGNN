@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [腦有阿茲海默病變不一定失智 研究揭大腦關鍵轉折](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUQVZIZnA1M3JzRi01aFc1bUFKNnpjOHBtSUROcVNfUEN3NUpGRUdZdFNVQ3RsNXF5Wi1RWnNGalg2MmhQNDhncm1EbFdxa25nRk1sYmJ1SWdsVXNaVVl1VUpkM0TSAWpBVV95cUxQYzF4VFlZc2d2S2NPa2MyYWZSZENJZUNHay1MX1oxRzhERjdxbHQ3bkVOSm50SGZKUDZwdXpCenFQVVdqR1BVRnh2M2l2NjRoVkxldG40RTNDNDdzczd3UFlQRVpNWVJyblVn?oc=5)
 
@@ -64,6 +64,14 @@ permalink: /news/gefitinib/
 2026-07-25 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源：[自由時報](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zRUY3WUY1aWRaMUtXV3dYdy1waThSbG8tSnF5QTJNMi1xWVpXSzBFWTltaGdCMXNGZWlLU1hleHlMbElHaGlfYmRjU0pvTENwdkthZjZNai1uZEdn0gFiQVVfeXFMTldXcHoxQ1h4Z2VOZHJTT2JqQUxhcWhQMTk2S0ZxUU1HdFVWYXVSUHFTdU5VaGV5Y0JZUmFzaktjcGR5TUhWdEVBT09xOElKUkppMllJVHJNbk5oMnVsZjhPQXc?oc=5)
+
+---
+
+### [為什麼罹癌會體重下降？50%癌症病患是因為這樣造成的…](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHQWpJTmt5Z3lYOEVJd1JrNldxLU54T2g3YkFLZERXam0zYTFiRXYxVU9fRFpMaFVVcEQyWkFvMGVITUJ3R3c?oc=5)
+
+2026-07-25 <span class="news-indication-tag">癌症</span>
+
+來源：[三立新聞](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHQWpJTmt5Z3lYOEVJd1JrNldxLU54T2g3YkFLZERXam0zYTFiRXYxVU9fRFpMaFVVcEQyWkFvMGVITUJ3R3c?oc=5)
 
 ---
 

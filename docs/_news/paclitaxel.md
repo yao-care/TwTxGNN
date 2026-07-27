@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/paclitaxel/
 <li><strong>原適應症</strong>：卵巢癌、乳癌、非小細胞肺癌、胃癌、食道癌、頭頸癌、膀胱癌、子宮頸癌</li>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>female breast carcinoma（100.0%）</li>
+<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
 <li>estrogen-receptor negative breast cancer（99.9%）</li>
 <li>hormone-resistant breast carcinoma（99.9%）</li>
 <li>estrogen-receptor positive breast cancer（99.9%）</li>
@@ -42,13 +42,29 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [健康網》維生素D補骨又防癌 醫揭濃度高大腸癌、乳癌風險降](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GLTdEbTk0ekIteHFpNXF1Tk5tY3ppQ2tsYmFiS1BwNXA2MWFiTUdTNWMyUmJyZlhtV0xVU1JsWW4xZ3k4aXFoY3pjSThmaVdmd1ljVTA3bGR3cHpINmUxT2pybm_SAWpBVV95cUxQbG5aNU5GWFNDRGFwaXdrdVhETlZwaXMxX1RhN0VSUTVkYng4Y3lsdXJrakJaNlVPRER2OEQ3UkcwR0FUMUVlbGRQMnc0RkE1UXpDWjVMZzJYSUhCUFk0Q3pScE0xZGJOM1Nn?oc=5)
+
+2026-07-27 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GLTdEbTk0ekIteHFpNXF1Tk5tY3ppQ2tsYmFiS1BwNXA2MWFiTUdTNWMyUmJyZlhtV0xVU1JsWW4xZ3k4aXFoY3pjSThmaVdmd1ljVTA3bGR3cHpINmUxT2pybm_SAWpBVV95cUxQbG5aNU5GWFNDRGFwaXdrdVhETlZwaXMxX1RhN0VSUTVkYng4Y3lsdXJrakJaNlVPRER2OEQ3UkcwR0FUMUVlbGRQMnc0RkE1UXpDWjVMZzJYSUhCUFk0Q3pScE0xZGJOM1Nn?oc=5)
+
+---
 
 ### [口咽癌」超越子宮頸癌！727世界抗頭頸癌日 醫籲：不菸不酒也中鏢 全民必備HPV防禦率](https://news.google.com/rss/articles/CBMiakFVX3lxTE84b1h4LXRRQUhLYXQxSGdJMFQ3M3VobWNGUTNvNC1uTkVpMkpIR28ybUlBMDVaaWhxZVhGdThYTzFBMnFOSTdjWl8tNGUxeWRDU2lKNmp2X216WEdSdUYwVVZTY1VjUklPcHc?oc=5)
 
 2026-07-27 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">頭頸癌</span>
 
 來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTE84b1h4LXRRQUhLYXQxSGdJMFQ3M3VobWNGUTNvNC1uTkVpMkpIR28ybUlBMDVaaWhxZVhGdThYTzFBMnFOSTdjWl8tNGUxeWRDU2lKNmp2X216WEdSdUYwVVZTY1VjUklPcHc?oc=5)
+
+---
+
+### [為什麼罹癌會體重下降？50%癌症病患是因為這樣造成的…](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHQWpJTmt5Z3lYOEVJd1JrNldxLU54T2g3YkFLZERXam0zYTFiRXYxVU9fRFpMaFVVcEQyWkFvMGVITUJ3R3c?oc=5)
+
+2026-07-25 <span class="news-indication-tag">癌症</span>
+
+來源：[三立新聞](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHQWpJTmt5Z3lYOEVJd1JrNldxLU54T2g3YkFLZERXam0zYTFiRXYxVU9fRFpMaFVVcEQyWkFvMGVITUJ3R3c?oc=5)
 
 ---
 

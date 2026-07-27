@@ -14,7 +14,7 @@ permalink: /news/levamisole/
 ---
 
 <p class="key-answer" data-question="levamisole 有什麼相關新聞？">
-<strong>levamisole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>levamisole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,9 +35,15 @@ permalink: /news/levamisole/
 <p><a href="{{ '/drugs/levamisole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [為什麼罹癌會體重下降？50%癌症病患是因為這樣造成的…](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHQWpJTmt5Z3lYOEVJd1JrNldxLU54T2g3YkFLZERXam0zYTFiRXYxVU9fRFpMaFVVcEQyWkFvMGVITUJ3R3c?oc=5)
+
+2026-07-25 <span class="news-indication-tag">癌症</span>
+
+來源：[三立新聞](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHQWpJTmt5Z3lYOEVJd1JrNldxLU54T2g3YkFLZERXam0zYTFiRXYxVU9fRFpMaFVVcEQyWkFvMGVITUJ3R3c?oc=5)
+
+---
 
 
 <div class="disclaimer">

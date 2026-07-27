@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
 
-### [健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9obzVKWXRFdkdjY2tobV9SVFpXTnNDNW03NnRXeFdfSTZXNVdMdmdpNUFxb1dRdmtpTDBLZHgyeXllOHZJeW5VS2lOSkM5UzJqWk9ZVTRB?oc=5)
+### [健康網》維生素D補骨又防癌 醫揭濃度高大腸癌、乳癌風險降](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GLTdEbTk0ekIteHFpNXF1Tk5tY3ppQ2tsYmFiS1BwNXA2MWFiTUdTNWMyUmJyZlhtV0xVU1JsWW4xZ3k4aXFoY3pjSThmaVdmd1ljVTA3bGR3cHpINmUxT2pybm_SAWpBVV95cUxQbG5aNU5GWFNDRGFwaXdrdVhETlZwaXMxX1RhN0VSUTVkYng4Y3lsdXJrakJaNlVPRER2OEQ3UkcwR0FUMUVlbGRQMnc0RkE1UXpDWjVMZzJYSUhCUFk0Q3pScE0xZGJOM1Nn?oc=5)
+
+2026-07-27 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GLTdEbTk0ekIteHFpNXF1Tk5tY3ppQ2tsYmFiS1BwNXA2MWFiTUdTNWMyUmJyZlhtV0xVU1JsWW4xZ3k4aXFoY3pjSThmaVdmd1ljVTA3bGR3cHpINmUxT2pybm_SAWpBVV95cUxQbG5aNU5GWFNDRGFwaXdrdVhETlZwaXMxX1RhN0VSUTVkYng4Y3lsdXJrakJaNlVPRER2OEQ3UkcwR0FUMUVlbGRQMnc0RkE1UXpDWjVMZzJYSUhCUFk0Q3pScE0xZGJOM1Nn?oc=5)
+
+---
+
+### [健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌](https://news.google.com/rss/articles/CBMiZEFVX3lxTE85Z0wzYzN4RHFmX1VKTEFnTERWVkNHeUtmZkM4WVJnaFltWDZoaHBpT1NacWRqa1gyY25KdWJDQm1id012V2FOc2FGRTVXWURrUFgzYWdDQ1hidWFWVGlCa19qMnDSAWpBVV95cUxPU0FjUjZ4bVdmWGhkMXo0bWJxeFhpVDdtMU80QUtyVDYtVGIzamVlaVF5UXo0TktlVDMxN3NPb0NTNUVSUVRXb2s4Slhrd3JKTldGcXVMZTdmcjZYWTlOY2x4bG4xeGo5bHdB?oc=5)
 
 2026-07-26 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9obzVKWXRFdkdjY2tobV9SVFpXTnNDNW03NnRXeFdfSTZXNVdMdmdpNUFxb1dRdmtpTDBLZHgyeXllOHZJeW5VS2lOSkM5UzJqWk9ZVTRB?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE85Z0wzYzN4RHFmX1VKTEFnTERWVkNHeUtmZkM4WVJnaFltWDZoaHBpT1NacWRqa1gyY25KdWJDQm1id012V2FOc2FGRTVXWURrUFgzYWdDQ1hidWFWVGlCa19qMnDSAWpBVV95cUxPU0FjUjZ4bVdmWGhkMXo0bWJxeFhpVDdtMU80QUtyVDYtVGIzamVlaVF5UXo0TktlVDMxN3NPb0NTNUVSUVRXb2s4Slhrd3JKTldGcXVMZTdmcjZYWTlOY2x4bG4xeGo5bHdB?oc=5)
+
+---
+
+### [為什麼罹癌會體重下降？50%癌症病患是因為這樣造成的…](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHQWpJTmt5Z3lYOEVJd1JrNldxLU54T2g3YkFLZERXam0zYTFiRXYxVU9fRFpMaFVVcEQyWkFvMGVITUJ3R3c?oc=5)
+
+2026-07-25 <span class="news-indication-tag">癌症</span>
+
+來源：[三立新聞](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHQWpJTmt5Z3lYOEVJd1JrNldxLU54T2g3YkFLZERXam0zYTFiRXYxVU9fRFpMaFVVcEQyWkFvMGVITUJ3R3c?oc=5)
 
 ---
 

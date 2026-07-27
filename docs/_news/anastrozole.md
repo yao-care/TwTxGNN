@@ -14,7 +14,7 @@ permalink: /news/anastrozole/
 ---
 
 <p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
-<strong>Anastrozole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Anastrozole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/anastrozole/
 <li><strong>原適應症</strong>：停經後婦女晚期乳癌、荷爾蒙接受器陽性早期乳癌輔助治療</li>
 <li><strong>證據等級</strong>：L1</li>
 <li><strong>預測適應症</strong>（6 個）：<ul>
-<li>female breast carcinoma（99.7%）</li>
+<li class="indication-matched">female breast carcinoma（99.7%）<span class="indication-tag">📰 乳癌</span></li>
 <li>neuroblastoma（99.5%）</li>
 <li>vertebral anomalies and variable endocrine and T-cell dysfunction（99.4%）</li>
 <li>ganglioneuroblastoma (disease)（99.4%）</li>
@@ -38,9 +38,23 @@ permalink: /news/anastrozole/
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [健康網》維生素D補骨又防癌 醫揭濃度高大腸癌、乳癌風險降](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GLTdEbTk0ekIteHFpNXF1Tk5tY3ppQ2tsYmFiS1BwNXA2MWFiTUdTNWMyUmJyZlhtV0xVU1JsWW4xZ3k4aXFoY3pjSThmaVdmd1ljVTA3bGR3cHpINmUxT2pybm_SAWpBVV95cUxQbG5aNU5GWFNDRGFwaXdrdVhETlZwaXMxX1RhN0VSUTVkYng4Y3lsdXJrakJaNlVPRER2OEQ3UkcwR0FUMUVlbGRQMnc0RkE1UXpDWjVMZzJYSUhCUFk0Q3pScE0xZGJOM1Nn?oc=5)
+
+2026-07-27 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GLTdEbTk0ekIteHFpNXF1Tk5tY3ppQ2tsYmFiS1BwNXA2MWFiTUdTNWMyUmJyZlhtV0xVU1JsWW4xZ3k4aXFoY3pjSThmaVdmd1ljVTA3bGR3cHpINmUxT2pybm_SAWpBVV95cUxQbG5aNU5GWFNDRGFwaXdrdVhETlZwaXMxX1RhN0VSUTVkYng4Y3lsdXJrakJaNlVPRER2OEQ3UkcwR0FUMUVlbGRQMnc0RkE1UXpDWjVMZzJYSUhCUFk0Q3pScE0xZGJOM1Nn?oc=5)
+
+---
+
+### [為什麼罹癌會體重下降？50%癌症病患是因為這樣造成的…](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHQWpJTmt5Z3lYOEVJd1JrNldxLU54T2g3YkFLZERXam0zYTFiRXYxVU9fRFpMaFVVcEQyWkFvMGVITUJ3R3c?oc=5)
+
+2026-07-25 <span class="news-indication-tag">癌症</span>
+
+來源：[三立新聞](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHQWpJTmt5Z3lYOEVJd1JrNldxLU54T2g3YkFLZERXam0zYTFiRXYxVU9fRFpMaFVVcEQyWkFvMGVITUJ3R3c?oc=5)
+
+---
 
 
 <div class="disclaimer">

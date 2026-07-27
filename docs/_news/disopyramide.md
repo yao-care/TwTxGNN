@@ -14,7 +14,7 @@ permalink: /news/disopyramide/
 ---
 
 <p class="key-answer" data-question="Disopyramide 有什麼相關新聞？">
-<strong>Disopyramide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Disopyramide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/disopyramide/
 <p><a href="{{ '/drugs/disopyramide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [鈣片白吃了？骨頭要硬先補1營養！缺了它 鈣質無法分配恐釀血管鈣化](https://news.google.com/rss/articles/CBMiqANBVV95cUxNa3VaVWtBZklXV1I4WWpBcVByNTFQekVneFdxY1c5UDhtM21mM29OLS10Uk5lbGc0eFpXTllMQWFibnpyZWRoTnRWLVY5bnNXNnd3NnJQR1VHX2RMNzNQWjJpVXZUeXMtd0NHV25iY2VyWXJTcWtVSGhKQWRoMzY0cVNsMU14Q3JsaG9qTDEwdVBxUnF5UzY0OXJtNmowRUltZk12aXFIZEpWSVl4REszeGE5b2Y2N2tocDVaZU1xdl9HcWwxbTRNVmg3X1BIaUFEOHNVX05zUGt1VkNqaDZDd0x4a2owX0g2aTBnRkZsZzI0M1J4VGgwV0trN1dYVXlRUzQ0MjBYTU1Xc0U3blB4NlBlVXNYV1FrLWtJRXVNWWtUT3drZ3hjeHJGMGhhVS13ZGNGaHZCLVByU296blBXaUxRVGhSV0dVWVMyNGY2bTdJWEdFUDVzUGJ0WHBlNk1jbk1DNmE1WUZUYm4xU2w5VlZVX3FZQjFVSkRQSkdoaEtPYS1tdjVUYW9qMWNMUlVLbHhNYTZWNG54aVREOFNlUjZPZENQeWJk?oc=5)
 
 2026-07-27 <span class="news-indication-tag">心律不整</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiqANBVV95cUxNa3VaVWtBZklXV1I4WWpBcVByNTFQekVneFdxY1c5UDhtM21mM29OLS10Uk5lbGc0eFpXTllMQWFibnpyZWRoTnRWLVY5bnNXNnd3NnJQR1VHX2RMNzNQWjJpVXZUeXMtd0NHV25iY2VyWXJTcWtVSGhKQWRoMzY0cVNsMU14Q3JsaG9qTDEwdVBxUnF5UzY0OXJtNmowRUltZk12aXFIZEpWSVl4REszeGE5b2Y2N2tocDVaZU1xdl9HcWwxbTRNVmg3X1BIaUFEOHNVX05zUGt1VkNqaDZDd0x4a2owX0g2aTBnRkZsZzI0M1J4VGgwV0trN1dYVXlRUzQ0MjBYTU1Xc0U3blB4NlBlVXNYV1FrLWtJRXVNWWtUT3drZ3hjeHJGMGhhVS13ZGNGaHZCLVByU296blBXaUxRVGhSV0dVWVMyNGY2bTdJWEdFUDVzUGJ0WHBlNk1jbk1DNmE1WUZUYm4xU2w5VlZVX3FZQjFVSkRQSkdoaEtPYS1tdjVUYW9qMWNMUlVLbHhNYTZWNG54aVREOFNlUjZPZENQeWJk?oc=5)
+
+---
+
+### [為什麼罹癌會體重下降？50%癌症病患是因為這樣造成的…](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHQWpJTmt5Z3lYOEVJd1JrNldxLU54T2g3YkFLZERXam0zYTFiRXYxVU9fRFpMaFVVcEQyWkFvMGVITUJ3R3c?oc=5)
+
+2026-07-25 <span class="news-indication-tag">癌症</span>
+
+來源：[三立新聞](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHQWpJTmt5Z3lYOEVJd1JrNldxLU54T2g3YkFLZERXam0zYTFiRXYxVU9fRFpMaFVVcEQyWkFvMGVITUJ3R3c?oc=5)
 
 ---
 
