@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-27T21:56:59.109600+00:00",
-  "count": 11,
+  "generated": "2026-07-27T22:56:43.273063+00:00",
+  "count": 10,
   "news": [
     {
       "id": "5019ca8d7409",
@@ -445,6 +445,53 @@
       ]
     },
     {
+      "id": "e1ef3fab4738",
+      "title": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報 - LINE TODAY",
+      "published": "2026-07-26T23:36:41+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9obzVKWXRFdkdjY2tobV9SVFpXTnNDNW03NnRXeFdfSTZXNVdMdmdpNUFxb1dRdmtpTDBLZHgyeXllOHZJeW5VS2lOSkM5UzJqWk9ZVTRB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1277f8b54ebc",
       "title": "上呼吸道感染誘心臟病 打對疫苗 心梗風險降48% - 20260727 - 副刊",
       "published": "2026-07-26T20:30:00+00:00",
@@ -575,53 +622,6 @@
       ]
     },
     {
-      "id": "8a614264c1d6",
-      "title": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌",
-      "published": "2026-07-26T08:17:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85Z0wzYzN4RHFmX1VKTEFnTERWVkNHeUtmZkM4WVJnaFltWDZoaHBpT1NacWRqa1gyY25KdWJDQm1id012V2FOc2FGRTVXWURrUFgzYWdDQ1hidWFWVGlCa19qMnDSAWpBVV95cUxPU0FjUjZ4bVdmWGhkMXo0bWJxeFhpVDdtMU80QUtyVDYtVGIzamVlaVF5UXo0TktlVDMxN3NPb0NTNUVSUVRXb2s4Slhrd3JKTldGcXVMZTdmcjZYWTlOY2x4bG4xeGo5bHdB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "1977f48cba17",
       "title": "尪洗腎後把妻子當「壞女人」醫示警失智風險增：吃3物救腦- 健康",
       "published": "2026-07-26T00:11:48+00:00",
@@ -635,41 +635,6 @@
         {
           "type": "indication",
           "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8655d576682c",
-      "title": "謠言終結站》流感、肺炎疫苗提高失智症風險? 研究被誤解",
-      "published": "2026-07-25T21:30:00+00:00",
-      "sources": [
-        {
-          "name": "自由時報",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zRUY3WUY1aWRaMUtXV3dYdy1waThSbG8tSnF5QTJNMi1xWVpXSzBFWTltaGdCMXNGZWlLU1hleHlMbElHaGlfYmRjU0pvTENwdkthZjZNai1uZEdn0gFiQVVfeXFMTldXcHoxQ1h4Z2VOZHJTT2JqQUxhcWhQMTk2S0ZxUU1HdFVWYXVSUHFTdU5VaGV5Y0JZUmFzaktjcGR5TUhWdEVBT09xOElKUkppMllJVHJNbk5oMnVsZjhPQXc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
           "keyword": "失智",
           "related_drugs": [
             {

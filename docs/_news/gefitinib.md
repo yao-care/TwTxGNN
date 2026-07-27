@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [預防心血管疾病 從健康生活做起](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd3BNYWpqaVVZWjA2RFl5eGh2UWczS0d1WXhQeFZJZUpWX2FSRW5RdldWVDd2d201cjR6MDI0TkYyTzMyOVBuNFlGbk1CNngtTktuMnNDMjdhWG03eG9OZ2ZmbG12WGhoNF81UXpCOVMwRld1dGRyWk1sVHY2WThDUEg0TDlTS2UyQmk5bXMxZE5tX1VOMHpvRldDRGw2T2JjN05lRzJEV3JEWFpGa0V4Y2tteHBUOFFSX1NWYlNUZWFOSmthaE1CRGw1RXFTTW5vWnhsWFlCdXJMWkNfR3NNakdPWQ?oc=5)
 
@@ -64,14 +64,6 @@ permalink: /news/gefitinib/
 2026-07-26 <span class="news-indication-tag">失智</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxNak5lejJkNDhFVjZVV0FfYjk0M3M1V2Y2MU1mMkNOU1BzRGljb3E4Zy0tdU5vaUxIU1ZkZGg2RzVhYTl6LUwtaWZGOUF0dVEtR1kyd0xjaGwyTHNmLUpFTGdVTmh3MEk1ZTJwSk5GQjE0TWZJWXZhOXpvTThOTjVDUXJ3WG9LOXk1UlA0d3BQOA?oc=5)
-
----
-
-### [謠言終結站》流感、肺炎疫苗提高失智症風險? 研究被誤解](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zRUY3WUY1aWRaMUtXV3dYdy1waThSbG8tSnF5QTJNMi1xWVpXSzBFWTltaGdCMXNGZWlLU1hleHlMbElHaGlfYmRjU0pvTENwdkthZjZNai1uZEdn0gFiQVVfeXFMTldXcHoxQ1h4Z2VOZHJTT2JqQUxhcWhQMTk2S0ZxUU1HdFVWYXVSUHFTdU5VaGV5Y0JZUmFzaktjcGR5TUhWdEVBT09xOElKUkppMllJVHJNbk5oMnVsZjhPQXc?oc=5)
-
-2026-07-25 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[自由時報](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zRUY3WUY1aWRaMUtXV3dYdy1waThSbG8tSnF5QTJNMi1xWVpXSzBFWTltaGdCMXNGZWlLU1hleHlMbElHaGlfYmRjU0pvTENwdkthZjZNai1uZEdn0gFiQVVfeXFMTldXcHoxQ1h4Z2VOZHJTT2JqQUxhcWhQMTk2S0ZxUU1HdFVWYXVSUHFTdU5VaGV5Y0JZUmFzaktjcGR5TUhWdEVBT09xOElKUkppMllJVHJNbk5oMnVsZjhPQXc?oc=5)
 
 ---
 

@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-27T21:56:53.661999+00:00",
-  "count": 32,
+  "fetched_at": "2026-07-27T22:56:38.714425+00:00",
+  "count": 31,
   "news": [
     {
       "id": "cf55e6281d6f",
@@ -148,6 +148,18 @@
       ]
     },
     {
+      "id": "e1ef3fab4738",
+      "title": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報 - LINE TODAY",
+      "published": "2026-07-26T23:36:41+00:00",
+      "summary": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9obzVKWXRFdkdjY2tobV9SVFpXTnNDNW03NnRXeFdfSTZXNVdMdmdpNUFxb1dRdmtpTDBLZHgyeXllOHZJeW5VS2lOSkM5UzJqWk9ZVTRB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3e64f7f81667",
       "title": "研究揭膝蓋痛竟和腸道菌有關補充1種纖維有助減痛| 菊糖| 益生元膳食纖維| 減輕膝蓋疼痛| 提升身體功能與握力 - soundofhope.org",
       "published": "2026-07-26T19:11:33+00:00",
@@ -156,18 +168,6 @@
         {
           "name": "soundofhope.org",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yZFA5NEVPVUNWdEd2LW1QTlJSNld0YktwTFhZZmw5N3pJcXZ6MEZNVUhsMWFJS3VOZ1BvRWpxbnVNeGpnd09wZjVfX0txb0I0cW80QTlYMDFFQUk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8a614264c1d6",
-      "title": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 - 自由健康網",
-      "published": "2026-07-26T08:17:00+00:00",
-      "summary": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85Z0wzYzN4RHFmX1VKTEFnTERWVkNHeUtmZkM4WVJnaFltWDZoaHBpT1NacWRqa1gyY25KdWJDQm1id012V2FOc2FGRTVXWURrUFgzYWdDQ1hidWFWVGlCa19qMnDSAWpBVV95cUxPU0FjUjZ4bVdmWGhkMXo0bWJxeFhpVDdtMU80QUtyVDYtVGIzamVlaVF5UXo0TktlVDMxN3NPb0NTNUVSUVRXb2s4Slhrd3JKTldGcXVMZTdmcjZYWTlOY2x4bG4xeGo5bHdB?oc=5"
         }
       ]
     },
@@ -208,18 +208,6 @@
       ]
     },
     {
-      "id": "8655d576682c",
-      "title": "謠言終結站》流感、肺炎疫苗提高失智症風險? 研究被誤解 - 自由時報",
-      "published": "2026-07-25T21:30:00+00:00",
-      "summary": "謠言終結站》流感、肺炎疫苗提高失智症風險? 研究被誤解&nbsp;&nbsp;自由時報",
-      "sources": [
-        {
-          "name": "自由時報",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zRUY3WUY1aWRaMUtXV3dYdy1waThSbG8tSnF5QTJNMi1xWVpXSzBFWTltaGdCMXNGZWlLU1hleHlMbElHaGlfYmRjU0pvTENwdkthZjZNai1uZEdn0gFiQVVfeXFMTldXcHoxQ1h4Z2VOZHJTT2JqQUxhcWhQMTk2S0ZxUU1HdFVWYXVSUHFTdU5VaGV5Y0JZUmFzaktjcGR5TUhWdEVBT09xOElKUkppMllJVHJNbk5oMnVsZjhPQXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1277f8b54ebc",
       "title": "上呼吸道感染誘心臟病 打對疫苗 心梗風險降48% - 20260727 - 副刊 - 明報新聞網",
       "published": "2026-07-26T20:30:00+00:00",
@@ -246,7 +234,7 @@
     {
       "id": "a7fdf23c62e4",
       "title": "飛機餐2.0！新航「美味健康餐食」 舒緩旅途不適| 旅遊 - 三立新聞",
-      "published": "2026-07-27T05:42:36+00:00",
+      "published": "2026-07-26T21:48:07+00:00",
       "summary": "飛機餐2.0！新航「美味健康餐食」 舒緩旅途不適| 旅遊&nbsp;&nbsp;三立新聞",
       "sources": [
         {

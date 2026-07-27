@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-27T21:56:59.077116+00:00",
-  "total_count": 32,
-  "matched_count": 11,
+  "last_updated": "2026-07-27T22:56:43.165880+00:00",
+  "total_count": 31,
+  "matched_count": 10,
   "news": [
     {
       "id": "5019ca8d7409",
@@ -451,19 +451,6 @@
       "matched_keywords": []
     },
     {
-      "id": "a7fdf23c62e4",
-      "title": "飛機餐2.0！新航「美味健康餐食」 舒緩旅途不適| 旅遊",
-      "published": "2026-07-27T05:42:36+00:00",
-      "summary": "飛機餐2.0！新航「美味健康餐食」 舒緩旅途不適| 旅遊&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CVzRqS1N2amZqT1o3WjFsLVRoOTI1SFEtSURwTzRpdzNIbGJlNWZRTXhPb2NQQXBackxYVktoakhKbTRNRFJJ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "26be224d5608",
       "title": "吃對少得3種慢性病！15年研究揭露3大神級吃法78歲護腦最有效- 營養好食 - TVBS 健康2.0",
       "published": "2026-07-27T04:57:00+00:00",
@@ -595,6 +582,54 @@
       ]
     },
     {
+      "id": "e1ef3fab4738",
+      "title": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報 - LINE TODAY",
+      "published": "2026-07-26T23:36:41+00:00",
+      "summary": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9obzVKWXRFdkdjY2tobV9SVFpXTnNDNW03NnRXeFdfSTZXNVdMdmdpNUFxb1dRdmtpTDBLZHgyeXllOHZJeW5VS2lOSkM5UzJqWk9ZVTRB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "469f116a5e9e",
       "title": "橫琴多個公共場所設「共享驅蚊液」 居民可免費使用",
       "published": "2026-07-26T23:00:46+00:00",
@@ -603,6 +638,19 @@
         {
           "name": "澳門力報",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BOENUc2Q1SzdpRTh5SUFZUm1vc2JEYUU0QzRhaUdGOE82ejRGVXppYUttUmo5SmxyeTExdFhRb1FqSzRxdTR1eGV2dmk0UjJObGxR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a7fdf23c62e4",
+      "title": "飛機餐2.0！新航「美味健康餐食」 舒緩旅途不適| 旅遊",
+      "published": "2026-07-26T21:48:07+00:00",
+      "summary": "飛機餐2.0！新航「美味健康餐食」 舒緩旅途不適| 旅遊&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CVzRqS1N2amZqT1o3WjFsLVRoOTI1SFEtSURwTzRpdzNIbGJlNWZRTXhPb2NQQXBackxYVktoakhKbTRNRFJJ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -805,54 +853,6 @@
       "matched_keywords": []
     },
     {
-      "id": "8a614264c1d6",
-      "title": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌",
-      "published": "2026-07-26T08:17:00+00:00",
-      "summary": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85Z0wzYzN4RHFmX1VKTEFnTERWVkNHeUtmZkM4WVJnaFltWDZoaHBpT1NacWRqa1gyY25KdWJDQm1id012V2FOc2FGRTVXWURrUFgzYWdDQ1hidWFWVGlCa19qMnDSAWpBVV95cUxPU0FjUjZ4bVdmWGhkMXo0bWJxeFhpVDdtMU80QUtyVDYtVGIzamVlaVF5UXo0TktlVDMxN3NPb0NTNUVSUVRXb2s4Slhrd3JKTldGcXVMZTdmcjZYWTlOY2x4bG4xeGo5bHdB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "32a99061bdfc",
       "title": "今年首例！農夫染「日本腦炎」個性改變還有這些可怕症狀| 生活",
       "published": "2026-07-26T04:33:50+00:00",
@@ -928,42 +928,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "8655d576682c",
-      "title": "謠言終結站》流感、肺炎疫苗提高失智症風險? 研究被誤解",
-      "published": "2026-07-25T21:30:00+00:00",
-      "summary": "謠言終結站》流感、肺炎疫苗提高失智症風險? 研究被誤解&nbsp;&nbsp;自由時報",
-      "sources": [
-        {
-          "name": "自由時報",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zRUY3WUY1aWRaMUtXV3dYdy1waThSbG8tSnF5QTJNMi1xWVpXSzBFWTltaGdCMXNGZWlLU1hleHlMbElHaGlfYmRjU0pvTENwdkthZjZNai1uZEdn0gFiQVVfeXFMTldXcHoxQ1h4Z2VOZHJTT2JqQUxhcWhQMTk2S0ZxUU1HdFVWYXVSUHFTdU5VaGV5Y0JZUmFzaktjcGR5TUhWdEVBT09xOElKUkppMllJVHJNbk5oMnVsZjhPQXc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
