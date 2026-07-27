@@ -43,6 +43,14 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（4 則）
 
+### [預防心血管疾病 從健康生活做起](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd3BNYWpqaVVZWjA2RFl5eGh2UWczS0d1WXhQeFZJZUpWX2FSRW5RdldWVDd2d201cjR6MDI0TkYyTzMyOVBuNFlGbk1CNngtTktuMnNDMjdhWG03eG9OZ2ZmbG12WGhoNF81UXpCOVMwRld1dGRyWk1sVHY2WThDUEg0TDlTS2UyQmk5bXMxZE5tX1VOMHpvRldDRGw2T2JjN05lRzJEV3JEWFpGa0V4Y2tteHBUOFFSX1NWYlNUZWFOSmthaE1CRGw1RXFTTW5vWnhsWFlCdXJMWkNfR3NNakdPWQ?oc=5)
+
+2026-07-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">中風</span>
+
+來源：[澎湖e傳媒](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd3BNYWpqaVVZWjA2RFl5eGh2UWczS0d1WXhQeFZJZUpWX2FSRW5RdldWVDd2d201cjR6MDI0TkYyTzMyOVBuNFlGbk1CNngtTktuMnNDMjdhWG03eG9OZ2ZmbG12WGhoNF81UXpCOVMwRld1dGRyWk1sVHY2WThDUEg0TDlTS2UyQmk5bXMxZE5tX1VOMHpvRldDRGw2T2JjN05lRzJEV3JEWFpGa0V4Y2tteHBUOFFSX1NWYlNUZWFOSmthaE1CRGw1RXFTTW5vWnhsWFlCdXJMWkNfR3NNakdPWQ?oc=5)
+
+---
+
 ### [腦有阿茲海默病變不一定失智 研究揭大腦關鍵轉折](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUQVZIZnA1M3JzRi01aFc1bUFKNnpjOHBtSUROcVNfUEN3NUpGRUdZdFNVQ3RsNXF5Wi1RWnNGalg2MmhQNDhncm1EbFdxa25nRk1sYmJ1SWdsVXNaVVl1VUpkM0TSAWpBVV95cUxQYzF4VFlZc2d2S2NPa2MyYWZSZENJZUNHay1MX1oxRzhERjdxbHQ3bkVOSm50SGZKUDZwdXpCenFQVVdqR1BVRnh2M2l2NjRoVkxldG40RTNDNDdzczd3UFlQRVpNWVJyblVn?oc=5)
 
 2026-07-27 <span class="news-indication-tag">失智</span>
@@ -64,14 +72,6 @@ permalink: /news/gefitinib/
 2026-07-25 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源：[自由時報](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zRUY3WUY1aWRaMUtXV3dYdy1waThSbG8tSnF5QTJNMi1xWVpXSzBFWTltaGdCMXNGZWlLU1hleHlMbElHaGlfYmRjU0pvTENwdkthZjZNai1uZEdn0gFiQVVfeXFMTldXcHoxQ1h4Z2VOZHJTT2JqQUxhcWhQMTk2S0ZxUU1HdFVWYXVSUHFTdU5VaGV5Y0JZUmFzaktjcGR5TUhWdEVBT09xOElKUkppMllJVHJNbk5oMnVsZjhPQXc?oc=5)
-
----
-
-### [為什麼罹癌會體重下降？50%癌症病患是因為這樣造成的…](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHQWpJTmt5Z3lYOEVJd1JrNldxLU54T2g3YkFLZERXam0zYTFiRXYxVU9fRFpMaFVVcEQyWkFvMGVITUJ3R3c?oc=5)
-
-2026-07-25 <span class="news-indication-tag">癌症</span>
-
-來源：[三立新聞](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHQWpJTmt5Z3lYOEVJd1JrNldxLU54T2g3YkFLZERXam0zYTFiRXYxVU9fRFpMaFVVcEQyWkFvMGVITUJ3R3c?oc=5)
 
 ---
 
