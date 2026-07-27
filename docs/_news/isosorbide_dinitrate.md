@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [預防心血管疾病 從健康生活做起](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd3BNYWpqaVVZWjA2RFl5eGh2UWczS0d1WXhQeFZJZUpWX2FSRW5RdldWVDd2d201cjR6MDI0TkYyTzMyOVBuNFlGbk1CNngtTktuMnNDMjdhWG03eG9OZ2ZmbG12WGhoNF81UXpCOVMwRld1dGRyWk1sVHY2WThDUEg0TDlTS2UyQmk5bXMxZE5tX1VOMHpvRldDRGw2T2JjN05lRzJEV3JEWFpGa0V4Y2tteHBUOFFSX1NWYlNUZWFOSmthaE1CRGw1RXFTTW5vWnhsWFlCdXJMWkNfR3NNakdPWQ?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/isosorbide_dinitrate/
 2026-07-26 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">氣喘</span>
 
 來源：[明報新聞網](https://news.google.com/rss/articles/CBMi-AJBVV95cUxOd21CMTZkY2lDRzRJNHMwbGNyTWVxTjVhUlU5bl9qeUF1aFp2TDkwNktXQU1raXNoTk43VHpYalF5Yms4eURxUnNYUnpab1NlRF9WNF9xTzRmNzgzQUVBRWx4MUFRV0pyRy1tOHdYdE9mQVdDcGJTcUlOWWxBTUJXU2Nmc0tuQ3k4QXNwcV9XSXBjOEFZZXE5UHVmQzI0WjlqcW1nOXN5SGR6RVhiUDVuVk8xRzdrU0h1NEE3eEhOQWltN2JKSDRhYXBjM0xZQk1kdTlHR0ZJVTdYZHA0Q0N5NkliVzBITjRDZWlUZXNEaTd1SFJrTGRvcXlRd214VnBQeS1abVJOVmdacFpHQ012UjdKU05qRjhxNWJVdFNYemdqbGFRdmFwbFpIUm84VHNUT1k1bGpUZ18yYTFWb3pwR1E5ZDdTTGNRdDBadXgtazNrQjhiQVY2VXltbmpGU213NXU5NVBlZ2ZNaGptUVhrZ1R5RFBLdTk2?oc=5)
-
----
-
-### [膽固醇正常就停藥？「吃吃停停」恐致血栓 醫警告：死亡率飆23%](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vSzBrTFYxenVzcl9vYUduR3U3LVc5cEo3aGgzWHpnLU82WVBHRV81ZVVXNmRKdHgwNlhrbDFiZVRqV0d1WWxXSmxBZzl2Zlpy?oc=5)
-
-2026-07-25 <span class="news-indication-tag">心血管</span>
-
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vSzBrTFYxenVzcl9vYUduR3U3LVc5cEo3aGgzWHpnLU82WVBHRV81ZVVXNmRKdHgwNlhrbDFiZVRqV0d1WWxXSmxBZzl2Zlpy?oc=5)
 
 ---
 
