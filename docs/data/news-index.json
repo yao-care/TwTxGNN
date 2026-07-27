@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-27T22:56:43.273063+00:00",
-  "count": 10,
+  "generated": "2026-07-27T23:58:30.052173+00:00",
+  "count": 11,
   "news": [
     {
       "id": "5019ca8d7409",
@@ -330,6 +330,30 @@
       ]
     },
     {
+      "id": "45e17d7d5e7e",
+      "title": "有阿兹海默病变不一定失智 研究揭大脑关键转折",
+      "published": "2026-07-27T11:20:23+00:00",
+      "sources": [
+        {
+          "name": "soundofhope.org",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ed0kxbnhIODhHUGw1T1NnWi1UdG5DVlowaFZCbXUxOFNTQ3JpUjRXTlB5enR5ODZmeDdKQVZILTgzTjYtMTE2dU9Yd21udzJ0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "9ceecde59c57",
       "title": "口咽癌」超越子宮頸癌！727世界抗頭頸癌日 醫籲：不菸不酒也中鏢 全民必備HPV防禦率",
       "published": "2026-07-27T07:41:08+00:00",
@@ -622,19 +646,30 @@
       ]
     },
     {
-      "id": "1977f48cba17",
-      "title": "尪洗腎後把妻子當「壞女人」醫示警失智風險增：吃3物救腦- 健康",
-      "published": "2026-07-26T00:11:48+00:00",
+      "id": "d04f42537c5c",
+      "title": "「這陌生女人要害我！」65歲男洗腎5年突認不得妻 一查竟罹失智症",
+      "published": "2026-07-26T04:21:27+00:00",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNak5lejJkNDhFVjZVV0FfYjk0M3M1V2Y2MU1mMkNOU1BzRGljb3E4Zy0tdU5vaUxIU1ZkZGg2RzVhYTl6LUwtaWZGOUF0dVEtR1kyd0xjaGwyTHNmLUpFTGdVTmh3MEk1ZTJwSk5GQjE0TWZJWXZhOXpvTThOTjVDUXJ3WG9LOXk1UlA0d3BQOA?oc=5"
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WR3R1eUY4Rlh1Vnd2ZkVIckwtbjJuV0hnOXFmWTI5a1c1YXRMV0xxaWNzZGFIZWR5d0JxUllPVTE5UUJ2TG9reUZuSDA1VWZYOGZyVDVn0gFWQVVfeXFMT1ZHdHV5RjhGWHVWd3ZmRUhyTC1uMm5XSGc5cWZZMjlrVzVhdExXTHFpY3NkYUhlZHl3QnFSWU9VMTlRQnZMb2t5Rm5IMDVVZlg4ZnJUNWc?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
           "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
           "keyword": "失智",
           "related_drugs": [
             {
