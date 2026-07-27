@@ -1,7 +1,35 @@
 {
-  "generated": "2026-07-26T23:52:58.301633+00:00",
-  "count": 7,
+  "generated": "2026-07-27T02:03:31.426719+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "9058218a6de2",
+      "title": "鈣片白吃了？骨頭要硬先補1營養！缺了它 鈣質無法分配恐釀血管鈣化",
+      "published": "2026-07-27T00:02:19+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNa3VaVWtBZklXV1I4WWpBcVByNTFQekVneFdxY1c5UDhtM21mM29OLS10Uk5lbGc0eFpXTllMQWFibnpyZWRoTnRWLVY5bnNXNnd3NnJQR1VHX2RMNzNQWjJpVXZUeXMtd0NHV25iY2VyWXJTcWtVSGhKQWRoMzY0cVNsMU14Q3JsaG9qTDEwdVBxUnF5UzY0OXJtNmowRUltZk12aXFIZEpWSVl4REszeGE5b2Y2N2tocDVaZU1xdl9HcWwxbTRNVmg3X1BIaUFEOHNVX05zUGt1VkNqaDZDd0x4a2owX0g2aTBnRkZsZzI0M1J4VGgwV0trN1dYVXlRUzQ0MjBYTU1Xc0U3blB4NlBlVXNYV1FrLWtJRXVNWWtUT3drZ3hjeHJGMGhhVS13ZGNGaHZCLVByU296blBXaUxRVGhSV0dVWVMyNGY2bTdJWEdFUDVzUGJ0WHBlNk1jbk1DNmE1WUZUYm4xU2w5VlZVX3FZQjFVSkRQSkdoaEtPYS1tdjVUYW9qMWNMUlVLbHhNYTZWNG54aVREOFNlUjZPZENQeWJk?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "心律不整",
+          "keyword": "心律不整",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1277f8b54ebc",
       "title": "上呼吸道感染誘心臟病 打對疫苗 心梗風險降48% - 20260727 - 副刊",
@@ -91,6 +119,42 @@
             {
               "slug": "dupilumab",
               "name": "Dupilumab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3e64f7f81667",
+      "title": "研究揭膝蓋痛竟和腸道菌有關補充1種纖維有助減痛| 菊糖| 益生元膳食纖維| 減輕膝蓋疼痛| 提升身體功能與握力",
+      "published": "2026-07-26T19:11:33+00:00",
+      "sources": [
+        {
+          "name": "soundofhope.org",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yZFA5NEVPVUNWdEd2LW1QTlJSNld0YktwTFhZZmw5N3pJcXZ6MEZNVUhsMWFJS3VOZ1BvRWpxbnVNeGpnd09wZjVfX0txb0I0cW80QTlYMDFFQUk?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
             }
           ]
         }
@@ -305,13 +369,13 @@
       ]
     },
     {
-      "id": "e1ef3fab4738",
-      "title": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報 - LINE TODAY",
-      "published": "2026-07-26T09:58:47+00:00",
+      "id": "8a614264c1d6",
+      "title": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌",
+      "published": "2026-07-26T08:17:00+00:00",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9obzVKWXRFdkdjY2tobV9SVFpXTnNDNW03NnRXeFdfSTZXNVdMdmdpNUFxb1dRdmtpTDBLZHgyeXllOHZJeW5VS2lOSkM5UzJqWk9ZVTRB?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85Z0wzYzN4RHFmX1VKTEFnTERWVkNHeUtmZkM4WVJnaFltWDZoaHBpT1NacWRqa1gyY25KdWJDQm1id012V2FOc2FGRTVXWURrUFgzYWdDQ1hidWFWVGlCa19qMnDSAWpBVV95cUxPU0FjUjZ4bVdmWGhkMXo0bWJxeFhpVDdtMU80QUtyVDYtVGIzamVlaVF5UXo0TktlVDMxN3NPb0NTNUVSUVRXb2s4Slhrd3JKTldGcXVMZTdmcjZYWTlOY2x4bG4xeGo5bHdB?oc=5"
         }
       ],
       "keywords": [
@@ -352,13 +416,13 @@
       ]
     },
     {
-      "id": "310adf2d7d6b",
-      "title": "洗腎5年翁誤認妻子是「壞人」 醫：失智風險比一般人高",
-      "published": "2026-07-26T07:41:16+00:00",
+      "id": "1977f48cba17",
+      "title": "尪洗腎後把妻子當「壞女人」醫示警失智風險增：吃3物救腦- 健康",
+      "published": "2026-07-26T00:11:48+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQVWs4aUV4Z3p0ZmNyb0pTdS1ON01IN2J2MlgwZDY5RFp2OTlXYWk0X2JhaGMxaXV2N1RrQko5Z05CQjNiU3pUT1cxRTRPLWZUcTNlbzhzQnc1MGdMeUZpTnpjZ0lSaUUxX25RN194ZjUzeGZNcDNEcjE4R3hLek5vM0tnTUFuRXE1YUtxMjVGOXlocWtzOFA1QlpMYUNDcC16TnBjTFRxUUw5Zm03QlJRQm1aUnUtVjJ0ZVlDN3U2Z21YZld3Ym96Uk1Ud2F4RU9TQndzbGRPS0R1MWhGRVlTWVVqWkh3cXptWkl4OUpQcktnZEtPZDBwZ3QybHFGM2VQZjE5V1RSRGVEaWwyM0tqaUtPVWxvQ1RBQjA2SWxkaVBJbjZ6YzFtNmdjVWRoamc4amRBUzduMUpzc0dva2U5cFVOQTcwdXBoVlE?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNak5lejJkNDhFVjZVV0FfYjk0M3M1V2Y2MU1mMkNOU1BzRGljb3E4Zy0tdU5vaUxIU1ZkZGg2RzVhYTl6LUwtaWZGOUF0dVEtR1kyd0xjaGwyTHNmLUpFTGdVTmh3MEk1ZTJwSk5GQjE0TWZJWXZhOXpvTThOTjVDUXJ3WG9LOXk1UlA0d3BQOA?oc=5"
         }
       ],
       "keywords": [
@@ -370,42 +434,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e8821f450474",
-      "title": "不是止痛藥！研究揭膝蓋痛竟和腸道菌有關 補充1種纖維有助減痛",
-      "published": "2026-07-26T06:19:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DRkVSWjFoSDJOZEJkX0RRZ3JjemZSVlF1NTNKd1JFZ3JLMldDdVk3NnhIS0l4bm1JUGY4UGVDQjB3OVVoU011Q1pGWkJJWThhNERpaUZON2VlMnFWX1E4YUJsQW3SAWpBVV95cUxQYlNRU2xHUVVOSFd5WW5pbUxhdGs4WHRZd3JobEN4blR1STg5R1EwVkNDd1RGX21VNnlVNHZUSVhDcEhLazhUX0Z4OXZETGs0cGZZTkdtTC1XM0hrZmdtcThmcG5Lalp6dlZB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "關節炎",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
             }
           ]
         }

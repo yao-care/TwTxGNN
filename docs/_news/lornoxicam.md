@@ -43,11 +43,11 @@ permalink: /news/lornoxicam/
 
 ## 相關新聞（1 則）
 
-### [不是止痛藥！研究揭膝蓋痛竟和腸道菌有關 補充1種纖維有助減痛](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DRkVSWjFoSDJOZEJkX0RRZ3JjemZSVlF1NTNKd1JFZ3JLMldDdVk3NnhIS0l4bm1JUGY4UGVDQjB3OVVoU011Q1pGWkJJWThhNERpaUZON2VlMnFWX1E4YUJsQW3SAWpBVV95cUxQYlNRU2xHUVVOSFd5WW5pbUxhdGs4WHRZd3JobEN4blR1STg5R1EwVkNDd1RGX21VNnlVNHZUSVhDcEhLazhUX0Z4OXZETGs0cGZZTkdtTC1XM0hrZmdtcThmcG5Lalp6dlZB?oc=5)
+### [研究揭膝蓋痛竟和腸道菌有關補充1種纖維有助減痛| 菊糖| 益生元膳食纖維| 減輕膝蓋疼痛| 提升身體功能與握力](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yZFA5NEVPVUNWdEd2LW1QTlJSNld0YktwTFhZZmw5N3pJcXZ6MEZNVUhsMWFJS3VOZ1BvRWpxbnVNeGpnd09wZjVfX0txb0I0cW80QTlYMDFFQUk?oc=5)
 
 2026-07-26 <span class="news-indication-tag">關節炎</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DRkVSWjFoSDJOZEJkX0RRZ3JjemZSVlF1NTNKd1JFZ3JLMldDdVk3NnhIS0l4bm1JUGY4UGVDQjB3OVVoU011Q1pGWkJJWThhNERpaUZON2VlMnFWX1E4YUJsQW3SAWpBVV95cUxQYlNRU2xHUVVOSFd5WW5pbUxhdGs4WHRZd3JobEN4blR1STg5R1EwVkNDd1RGX21VNnlVNHZUSVhDcEhLazhUX0Z4OXZETGs0cGZZTkdtTC1XM0hrZmdtcThmcG5Lalp6dlZB?oc=5)
+來源：[soundofhope.org](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yZFA5NEVPVUNWdEd2LW1QTlJSNld0YktwTFhZZmw5N3pJcXZ6MEZNVUhsMWFJS3VOZ1BvRWpxbnVNeGpnd09wZjVfX0txb0I0cW80QTlYMDFFQUk?oc=5)
 
 ---
 

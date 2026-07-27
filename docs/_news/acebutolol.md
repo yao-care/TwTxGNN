@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [鈣片白吃了？骨頭要硬先補1營養！缺了它 鈣質無法分配恐釀血管鈣化](https://news.google.com/rss/articles/CBMiqANBVV95cUxNa3VaVWtBZklXV1I4WWpBcVByNTFQekVneFdxY1c5UDhtM21mM29OLS10Uk5lbGc0eFpXTllMQWFibnpyZWRoTnRWLVY5bnNXNnd3NnJQR1VHX2RMNzNQWjJpVXZUeXMtd0NHV25iY2VyWXJTcWtVSGhKQWRoMzY0cVNsMU14Q3JsaG9qTDEwdVBxUnF5UzY0OXJtNmowRUltZk12aXFIZEpWSVl4REszeGE5b2Y2N2tocDVaZU1xdl9HcWwxbTRNVmg3X1BIaUFEOHNVX05zUGt1VkNqaDZDd0x4a2owX0g2aTBnRkZsZzI0M1J4VGgwV0trN1dYVXlRUzQ0MjBYTU1Xc0U3blB4NlBlVXNYV1FrLWtJRXVNWWtUT3drZ3hjeHJGMGhhVS13ZGNGaHZCLVByU296blBXaUxRVGhSV0dVWVMyNGY2bTdJWEdFUDVzUGJ0WHBlNk1jbk1DNmE1WUZUYm4xU2w5VlZVX3FZQjFVSkRQSkdoaEtPYS1tdjVUYW9qMWNMUlVLbHhNYTZWNG54aVREOFNlUjZPZENQeWJk?oc=5)
+
+2026-07-27 <span class="news-indication-tag">心律不整</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiqANBVV95cUxNa3VaVWtBZklXV1I4WWpBcVByNTFQekVneFdxY1c5UDhtM21mM29OLS10Uk5lbGc0eFpXTllMQWFibnpyZWRoTnRWLVY5bnNXNnd3NnJQR1VHX2RMNzNQWjJpVXZUeXMtd0NHV25iY2VyWXJTcWtVSGhKQWRoMzY0cVNsMU14Q3JsaG9qTDEwdVBxUnF5UzY0OXJtNmowRUltZk12aXFIZEpWSVl4REszeGE5b2Y2N2tocDVaZU1xdl9HcWwxbTRNVmg3X1BIaUFEOHNVX05zUGt1VkNqaDZDd0x4a2owX0g2aTBnRkZsZzI0M1J4VGgwV0trN1dYVXlRUzQ0MjBYTU1Xc0U3blB4NlBlVXNYV1FrLWtJRXVNWWtUT3drZ3hjeHJGMGhhVS13ZGNGaHZCLVByU296blBXaUxRVGhSV0dVWVMyNGY2bTdJWEdFUDVzUGJ0WHBlNk1jbk1DNmE1WUZUYm4xU2w5VlZVX3FZQjFVSkRQSkdoaEtPYS1tdjVUYW9qMWNMUlVLbHhNYTZWNG54aVREOFNlUjZPZENQeWJk?oc=5)
+
+---
 
 ### [天天曬太陽也不夠！醫揭卻乏維生素D恐提高糖尿病、罹癌風險](https://news.google.com/rss/articles/CBMigwNBVV95cUxONnJGTUZsOGRvQ0N2MG8weXB2MlFLck5YM2J6bzctdEFndnFmWXR2QkxPdWw1clNEek9GaklwU2VYRnd2QmdNNHFHWldRUzY2UGt3Um8xWUsycjR4V1RJSzNtaHpLb3FjNjU2bUFGY0o5bXhtX0VVTHBuUV9vcFZTc2lVb2UtQkdCTzJ1elFHRjZIbTJGZ2ltenhVdUNPTzJpZE9pYngwQ1doVnVXakpQMHUzTEhXN2hHeFAtbXpKY2tueHFaM29EX3RYV1NkUHhoOWRJRHVEU0NmS2NtU0VGUlRjZjJ2VmNoVXBjVEs4aWU2djdmdjFwdzcxdXhyRlE3bTM0Ujc0QUZ4cUZzay1MSHVKUUY3eW1HNGxYNl81Mng2MVNLR3QtdE1ER1JsS2tVNlMtdXhicFY0a0t6MFM4R0k5SktUOEZlUWJDYUxqaWs4Y1c2dW5VTkpSTHBxWXZvMlFnekV1SnJSb3dodHUtMW14UmUzbEwtRWtkeGZCSFEtOTg?oc=5)
 
