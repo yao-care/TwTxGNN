@@ -1,52 +1,39 @@
 ---
 layout: default
-title: "Salicylamide 相關新聞"
+title: "感冒（common cold） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Salicylamide 的相關健康新聞報導。原適應症：解熱鎮痛、風濕關節痛、神經痛、肌肉痛。預測適應症 10 個。"
-permalink: /news/salicylamide/
+description: "感冒（common cold） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+permalink: /news/common-cold/
 ---
 
-# Salicylamide 相關新聞
+# 感冒（common cold） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<p class="key-answer" data-question="感冒（common cold） 有什麼相關新聞？">
+<strong>感冒（common cold）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合 Salicylamide 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+本頁整合「感冒」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
-<div class="drug-info-card">
-<strong>藥物資訊</strong>
+<div class="related-drugs-card">
+<strong>相關藥物報告</strong>
+<p>以下藥物的預測適應症可能與此疾病相關：</p>
 <ul>
-<li><strong>原適應症</strong>：解熱鎮痛、風濕關節痛、神經痛、肌肉痛</li>
-<li><strong>證據等級</strong>：L4</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
-<li>pharyngitis（100.0%）</li>
-<li>nasal cavity disease（100.0%）</li>
-<li>acute laryngopharyngitis（100.0%）</li>
-<li>trigeminal autonomic cephalalgia（99.9%）</li>
-<li class="indication-matched">common cold（99.9%）<span class="indication-tag">📰 感冒</span></li>
-<li>allergic urticaria（99.7%）</li>
-<li>lung disease（99.6%）</li>
-<li>massive neonatal aspiration syndrome（99.6%）</li>
-<li>respiratory syncytial virus bronchiolitis（99.6%）</li>
-<li>hantavirus infectious disease（99.5%）</li>
-</ul></li>
+<li><a href="{{ '/drugs/salicylamide/' | relative_url }}">Salicylamide</a></li>
 </ul>
-<p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（2 則）
 
 ### [服感冒藥後揸小巴撞斃八旬翁 71歲司機認罪囚14月停牌5年 官：藥後影響反應仍駕駛加重罪責](https://news.google.com/rss/articles/CBMimwRBVV95cUxPM2lTTFZCYVFrQUhjYlhsQ25ZSVJJSGV6WG14T1hnX3RlS2ladjZVTmlaakUzZTB1TmJkLW81U3l5STVKX3F3UU9CR2VXc2VMZHJhaHVlTF9tbC10Z2loUEpLOFk3czYyN0ZMazZ1c2xvSVVoNkNRcE83N0NuVXBiNExXR1pIa1Z5MzVrcXV4WmFOQjdaNzNjNG9EaUJKRWFDX3FEX2g1U3ZWaTEwMjhYTVk3cm8yTkVaemhKSldzTGJDUnozZGZsUTVYT1ppekE1dXhIVTdYS2phLXBTQnZ4aFhiRGxmZGtIaGE5WHlyNWg0blNQU3BnQVAyU2ppcjloQk9YTFc4N2RWM3dOd1F5TnZYSTRHMEpCcmkwUXdfcDRxbTRoemlBYl9Ub1ZIYnZwekx1aVhJYU9pcElCbnNFeFZxaGZxNjNPS0drR3Rkc09aTHFtODdaaHZtdGM2M2g2ekh2bGtaX043MkpqWFczOE5hMTJSQjc2TDZ0UjFoU3k0Wl9pdEhTRTdYbVNOZm5neUJ3TjlvN0tjdVRBbExsdUd6MGprX2JZSUU0UTlWMmNoU1ZpZmxvVkQ3ZUxPNG1JYU5ybmlPUW9PRF9DaWM1WVltbW5EZjNyNVM1MDcyTk1KaXNyeFd3TFlSWmM3WVllSFJuWW8xNVhCOGRnZ2U1M05rLVhhNV9jclhEbmVoVHRRM2xLbks0S3E1cw?oc=5)
 
-2026-07-27 <span class="news-indication-tag">感冒</span>
+2026-07-27
 
 來源：[星島頭條](https://news.google.com/rss/articles/CBMimwRBVV95cUxPM2lTTFZCYVFrQUhjYlhsQ25ZSVJJSGV6WG14T1hnX3RlS2ladjZVTmlaakUzZTB1TmJkLW81U3l5STVKX3F3UU9CR2VXc2VMZHJhaHVlTF9tbC10Z2loUEpLOFk3czYyN0ZMazZ1c2xvSVVoNkNRcE83N0NuVXBiNExXR1pIa1Z5MzVrcXV4WmFOQjdaNzNjNG9EaUJKRWFDX3FEX2g1U3ZWaTEwMjhYTVk3cm8yTkVaemhKSldzTGJDUnozZGZsUTVYT1ppekE1dXhIVTdYS2phLXBTQnZ4aFhiRGxmZGtIaGE5WHlyNWg0blNQU3BnQVAyU2ppcjloQk9YTFc4N2RWM3dOd1F5TnZYSTRHMEpCcmkwUXdfcDRxbTRoemlBYl9Ub1ZIYnZwekx1aVhJYU9pcElCbnNFeFZxaGZxNjNPS0drR3Rkc09aTHFtODdaaHZtdGM2M2g2ekh2bGtaX043MkpqWFczOE5hMTJSQjc2TDZ0UjFoU3k0Wl9pdEhTRTdYbVNOZm5neUJ3TjlvN0tjdVRBbExsdUd6MGprX2JZSUU0UTlWMmNoU1ZpZmxvVkQ3ZUxPNG1JYU5ybmlPUW9PRF9DaWM1WVltbW5EZjNyNVM1MDcyTk1KaXNyeFd3TFlSWmM3WVllSFJuWW8xNVhCOGRnZ2U1M05rLVhhNV9jclhEbmVoVHRRM2xLbks0S3E1cw?oc=5)
 
@@ -54,7 +41,7 @@ permalink: /news/salicylamide/
 
 ### [感冒打針「左眼慘失明」！34歲泰女藥物過敏　動15次手術仍無解](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oX2NFTG9qc2F0YllZTlQzSlFFMFQwcS1XNHRWZ0xzajRQXzRLeEwzZ0wyN3cyR1o4cGc4YV9BOVlyUEpEWTR6XzNNWWx5WU8yZ3BGNjJRcDdubmlGMlHSAUtBVV95cUxOZUdxeTBBSUkyYmpPMmRKcVhJd1hmWWRxYnBUOVl1V0hFZXJhdkZCaVpTRGZCdE9maThYaFl0X2FpZHBkVjFvZ045S00?oc=5)
 
-2026-07-27 <span class="news-indication-tag">感冒</span>
+2026-07-27
 
 來源：[ETtoday新聞雲](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oX2NFTG9qc2F0YllZTlQzSlFFMFQwcS1XNHRWZ0xzajRQXzRLeEwzZ0wyN3cyR1o4cGc4YV9BOVlyUEpEWTR6XzNNWWx5WU8yZ3BGNjJRcDdubmlGMlHSAUtBVV95cUxOZUdxeTBBSUkyYmpPMmRKcVhJd1hmWWRxYnBUOVl1V0hFZXJhdkZCaVpTRGZCdE9maThYaFl0X2FpZHBkVjFvZ045S00?oc=5)
 
@@ -64,39 +51,3 @@ permalink: /news/salicylamide/
 <div class="disclaimer">
 <strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
-
-<style>
-.indication-matched {
-  background: #fff3e0;
-  padding: 4px 8px;
-  border-radius: 4px;
-  border-left: 3px solid #ff9800;
-}
-.indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 8px;
-  border-radius: 12px;
-  font-size: 0.8em;
-  margin-left: 8px;
-}
-.news-indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-.news-drug-tag {
-  display: inline-block;
-  background: #1565c0;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-</style>
