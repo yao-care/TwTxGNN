@@ -44,11 +44,11 @@ permalink: /news/hydroxyurea/
 
 ## 相關新聞（2 則）
 
-### [HPV疫苗｜接種疫苗子宮頸癌死亡率「接近零」 HPV疫苗補種計劃今年底截止4成合資格女生未取「免費防癌門票」](https://news.google.com/rss/articles/CBMiUkFVX3lxTE41ZUpRLUoxWmZfY2hTdldaVkRGa1ZheFAzb0w0amI0YlRWNkVULTJVczhpZVlaX0gxeUFuNmIzQXhMZThSTlVWN1JfaGVBZ3dXaHc?oc=5)
+### [口咽癌」超越子宮頸癌！727世界抗頭頸癌日 醫籲：不菸不酒也中鏢 全民必備HPV防禦率](https://news.google.com/rss/articles/CBMiakFVX3lxTE84b1h4LXRRQUhLYXQxSGdJMFQ3M3VobWNGUTNvNC1uTkVpMkpIR28ybUlBMDVaaWhxZVhGdThYTzFBMnFOSTdjWl8tNGUxeWRDU2lKNmp2X216WEdSdUYwVVZTY1VjUklPcHc?oc=5)
 
 2026-07-27 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">頭頸癌</span>
 
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUkFVX3lxTE41ZUpRLUoxWmZfY2hTdldaVkRGa1ZheFAzb0w0amI0YlRWNkVULTJVczhpZVlaX0gxeUFuNmIzQXhMZThSTlVWN1JfaGVBZ3dXaHc?oc=5)
+來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTE84b1h4LXRRQUhLYXQxSGdJMFQ3M3VobWNGUTNvNC1uTkVpMkpIR28ybUlBMDVaaWhxZVhGdThYTzFBMnFOSTdjWl8tNGUxeWRDU2lKNmp2X216WEdSdUYwVVZTY1VjUklPcHc?oc=5)
 
 ---
 

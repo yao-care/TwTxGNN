@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [服感冒藥後揸小巴撞斃八旬翁 71歲司機認罪囚14月停牌5年 官：藥後影響反應仍駕駛加重罪責](https://news.google.com/rss/articles/CBMimwRBVV95cUxPM2lTTFZCYVFrQUhjYlhsQ25ZSVJJSGV6WG14T1hnX3RlS2ladjZVTmlaakUzZTB1TmJkLW81U3l5STVKX3F3UU9CR2VXc2VMZHJhaHVlTF9tbC10Z2loUEpLOFk3czYyN0ZMazZ1c2xvSVVoNkNRcE83N0NuVXBiNExXR1pIa1Z5MzVrcXV4WmFOQjdaNzNjNG9EaUJKRWFDX3FEX2g1U3ZWaTEwMjhYTVk3cm8yTkVaemhKSldzTGJDUnozZGZsUTVYT1ppekE1dXhIVTdYS2phLXBTQnZ4aFhiRGxmZGtIaGE5WHlyNWg0blNQU3BnQVAyU2ppcjloQk9YTFc4N2RWM3dOd1F5TnZYSTRHMEpCcmkwUXdfcDRxbTRoemlBYl9Ub1ZIYnZwekx1aVhJYU9pcElCbnNFeFZxaGZxNjNPS0drR3Rkc09aTHFtODdaaHZtdGM2M2g2ekh2bGtaX043MkpqWFczOE5hMTJSQjc2TDZ0UjFoU3k0Wl9pdEhTRTdYbVNOZm5neUJ3TjlvN0tjdVRBbExsdUd6MGprX2JZSUU0UTlWMmNoU1ZpZmxvVkQ3ZUxPNG1JYU5ybmlPUW9PRF9DaWM1WVltbW5EZjNyNVM1MDcyTk1KaXNyeFd3TFlSWmM3WVllSFJuWW8xNVhCOGRnZ2U1M05rLVhhNV9jclhEbmVoVHRRM2xLbks0S3E1cw?oc=5)
-
-2026-07-27 <span class="news-indication-tag">感冒</span>
-
-來源：[星島頭條](https://news.google.com/rss/articles/CBMimwRBVV95cUxPM2lTTFZCYVFrQUhjYlhsQ25ZSVJJSGV6WG14T1hnX3RlS2ladjZVTmlaakUzZTB1TmJkLW81U3l5STVKX3F3UU9CR2VXc2VMZHJhaHVlTF9tbC10Z2loUEpLOFk3czYyN0ZMazZ1c2xvSVVoNkNRcE83N0NuVXBiNExXR1pIa1Z5MzVrcXV4WmFOQjdaNzNjNG9EaUJKRWFDX3FEX2g1U3ZWaTEwMjhYTVk3cm8yTkVaemhKSldzTGJDUnozZGZsUTVYT1ppekE1dXhIVTdYS2phLXBTQnZ4aFhiRGxmZGtIaGE5WHlyNWg0blNQU3BnQVAyU2ppcjloQk9YTFc4N2RWM3dOd1F5TnZYSTRHMEpCcmkwUXdfcDRxbTRoemlBYl9Ub1ZIYnZwekx1aVhJYU9pcElCbnNFeFZxaGZxNjNPS0drR3Rkc09aTHFtODdaaHZtdGM2M2g2ekh2bGtaX043MkpqWFczOE5hMTJSQjc2TDZ0UjFoU3k0Wl9pdEhTRTdYbVNOZm5neUJ3TjlvN0tjdVRBbExsdUd6MGprX2JZSUU0UTlWMmNoU1ZpZmxvVkQ3ZUxPNG1JYU5ybmlPUW9PRF9DaWM1WVltbW5EZjNyNVM1MDcyTk1KaXNyeFd3TFlSWmM3WVllSFJuWW8xNVhCOGRnZ2U1M05rLVhhNV9jclhEbmVoVHRRM2xLbks0S3E1cw?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [感冒打針「左眼慘失明」！34歲泰女藥物過敏　動15次手術仍無解](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oX2NFTG9qc2F0YllZTlQzSlFFMFQwcS1XNHRWZ0xzajRQXzRLeEwzZ0wyN3cyR1o4cGc4YV9BOVlyUEpEWTR6XzNNWWx5WU8yZ3BGNjJRcDdubmlGMlHSAUtBVV95cUxOZUdxeTBBSUkyYmpPMmRKcVhJd1hmWWRxYnBUOVl1V0hFZXJhdkZCaVpTRGZCdE9maThYaFl0X2FpZHBkVjFvZ045S00?oc=5)
 

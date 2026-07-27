@@ -1,38 +1,92 @@
 {
-  "last_updated": "2026-07-27T06:18:31.496910+00:00",
-  "total_count": 32,
-  "matched_count": 11,
+  "last_updated": "2026-07-27T10:32:36.884027+00:00",
+  "total_count": 33,
+  "matched_count": 10,
   "news": [
     {
-      "id": "6e3870f4975b",
-      "title": "服感冒藥後揸小巴撞斃八旬翁 71歲司機認罪囚14月停牌5年 官：藥後影響反應仍駕駛加重罪責",
-      "published": "2026-07-27T06:00:31+00:00",
-      "summary": "服感冒藥後揸小巴撞斃八旬翁 71歲司機認罪囚14月停牌5年 官：藥後影響反應仍駕駛加重罪責&nbsp;&nbsp;星島頭條",
+      "id": "06496a903607",
+      "title": "別只知道蛋有蛋白質！研究：這種營養素不足恐影響腦部健康",
+      "published": "2026-07-27T09:02:33+00:00",
+      "summary": "別只知道蛋有蛋白質！研究：這種營養素不足恐影響腦部健康&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMimwRBVV95cUxPM2lTTFZCYVFrQUhjYlhsQ25ZSVJJSGV6WG14T1hnX3RlS2ladjZVTmlaakUzZTB1TmJkLW81U3l5STVKX3F3UU9CR2VXc2VMZHJhaHVlTF9tbC10Z2loUEpLOFk3czYyN0ZMazZ1c2xvSVVoNkNRcE83N0NuVXBiNExXR1pIa1Z5MzVrcXV4WmFOQjdaNzNjNG9EaUJKRWFDX3FEX2g1U3ZWaTEwMjhYTVk3cm8yTkVaemhKSldzTGJDUnozZGZsUTVYT1ppekE1dXhIVTdYS2phLXBTQnZ4aFhiRGxmZGtIaGE5WHlyNWg0blNQU3BnQVAyU2ppcjloQk9YTFc4N2RWM3dOd1F5TnZYSTRHMEpCcmkwUXdfcDRxbTRoemlBYl9Ub1ZIYnZwekx1aVhJYU9pcElCbnNFeFZxaGZxNjNPS0drR3Rkc09aTHFtODdaaHZtdGM2M2g2ekh2bGtaX043MkpqWFczOE5hMTJSQjc2TDZ0UjFoU3k0Wl9pdEhTRTdYbVNOZm5neUJ3TjlvN0tjdVRBbExsdUd6MGprX2JZSUU0UTlWMmNoU1ZpZmxvVkQ3ZUxPNG1JYU5ybmlPUW9PRF9DaWM1WVltbW5EZjNyNVM1MDcyTk1KaXNyeFd3TFlSWmM3WVllSFJuWW8xNVhCOGRnZ2U1M05rLVhhNV9jclhEbmVoVHRRM2xLbks0S3E1cw?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UMWloM25UVnpVcktJVUtEWVNWaWN4UWZmNGVOSk5NQ01XbTBNZ3ZYVGdZVlAwWU9udmd1andVN1d3ZUczakd6YmJqT0cwOEhjcUZ0MmZTcENJYVJqdWs2bUdn0gFiQVVfeXFMTlQxaWgzblRWelVyS0lVS0RZU1ZpY3hRZmY0ZU5KTk1DTVdtME1ndlhUZ1lWUDBZT252Z3Vqd1U3V3dlRzNqR3piYmpPRzA4SGNxRnQyZlNwQ0lhUmp1azZtR2c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1fd992129bfd",
+      "title": "心臟“第二大腦”神經元分工揭示為開發精準神經調控療法提供基礎",
+      "published": "2026-07-27T08:02:28+00:00",
+      "summary": "心臟“第二大腦”神經元分工揭示為開發精準神經調控療法提供基礎&nbsp;&nbsp;紫荊網",
+      "sources": [
+        {
+          "name": "紫荊網",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTHJOWGxBcVZiVDR0Y0lHeEtFbURuaUxlNkhVZDBXZC1KWnFnSG5TNml3UkM3WlgzdWpOVnNMS09wMlRaQTZGVFRUbzZCNEFNZG5QSk9yZWJ5T08yUkoxY1lGWURTUUM0dzFzWVZYTlF1dVVjZ2tCaHBHdG1aaGdGQlFRR0E2aTk1ZGZiUXlkN28?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9ceecde59c57",
+      "title": "口咽癌」超越子宮頸癌！727世界抗頭頸癌日 醫籲：不菸不酒也中鏢 全民必備HPV防禦率",
+      "published": "2026-07-27T07:41:08+00:00",
+      "summary": "口咽癌」超越子宮頸癌！727世界抗頭頸癌日 醫籲：不菸不酒也中鏢 全民必備HPV防禦率&nbsp;&nbsp;良醫健康網口咽癌悄竄升、男性患者增加！醫示警：不菸不酒仍躲不過HPV&nbsp;&nbsp;UDN不菸不酒也可能罹頭頸癌 醫示警：HPV 已成新危險因子&nbsp;&nbsp;Taiwan NewsHPV疫苗不只防菜花！醫揭更重要用途「降低多種癌風險」&nbsp;&nbsp;Yahoo新聞HPV疫苗補種計劃年底完 4成合資格女生未參與&nbsp;&nbsp;on.cc東網",
+      "sources": [
+        {
+          "name": "良醫健康網",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84b1h4LXRRQUhLYXQxSGdJMFQ3M3VobWNGUTNvNC1uTkVpMkpIR28ybUlBMDVaaWhxZVhGdThYTzFBMnFOSTdjWl8tNGUxeWRDU2lKNmp2X216WEdSdUYwVVZTY1VjUklPcHc?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
           "related_drugs": [
             {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "頭頸癌",
+          "keyword": "頭頸癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
             }
           ]
         }
       ]
     },
     {
+      "id": "5f9c46f725de",
+      "title": "脖子、腋下長小肉芽？醫揭「可能原因」 這類人最好檢查血糖",
+      "published": "2026-07-27T07:00:04+00:00",
+      "summary": "脖子、腋下長小肉芽？醫揭「可能原因」 這類人最好檢查血糖&nbsp;&nbsp;台視新聞網",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xdmJVMTlUVTlhbWJwVEE2NkZ5dEJreUtzSzZ2WkQwc3FSejdpYW1DVlRiLW1xUWNURHBaS1hnMmwxazhoc25SWkJTWTZ1bUF3dUw5ZW8yYw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "18fa36febb3c",
       "title": "天天曬太陽也不夠 醫揭卻維生素D恐提高糖尿病、罹癌風險",
       "published": "2026-07-27T05:51:00+00:00",
-      "summary": "天天曬太陽也不夠 醫揭卻維生素D恐提高糖尿病、罹癌風險&nbsp;&nbsp;民報維他命D不只存骨本！研究曝「能防3種癌」 還能降糖尿病風險&nbsp;&nbsp;Yahoo新聞防曬過頭害骨鬆？醫揭「缺維生素D」危機 補錯時間也沒用&nbsp;&nbsp;東森新聞維生素D能防3種癌降糖尿病風險醫：光曬太陽不夠- 健康&nbsp;&nbsp;中時新聞網維生素D不足恐讓健康亮紅燈 醫提醒：只靠曬太陽難補足&nbsp;&nbsp;TVBS新聞網",
+      "summary": "天天曬太陽也不夠 醫揭卻維生素D恐提高糖尿病、罹癌風險&nbsp;&nbsp;民報維他命D不只存骨本！研究曝「能防3種癌」 還能降糖尿病風險&nbsp;&nbsp;Yahoo新聞維生素D不足恐讓健康亮紅燈醫提醒：只靠曬太陽難補足| TVBS&nbsp;&nbsp;LINE TODAY防曬過頭害骨鬆？醫揭「缺維生素D」危機 補錯時間也沒用&nbsp;&nbsp;東森新聞維生素D能防3種癌降糖尿病風險醫：光曬太陽不夠- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "民報",
@@ -80,14 +134,14 @@
       ]
     },
     {
-      "id": "858c9a81c07b",
-      "title": "新冠捲土重來！醫提醒出現「6症狀」就該快篩 沒發燒也可能中鏢",
-      "published": "2026-07-27T03:42:28+00:00",
-      "summary": "新冠捲土重來！醫提醒出現「6症狀」就該快篩 沒發燒也可能中鏢&nbsp;&nbsp;Yahoo新聞新冠流感齊發！「三合一快篩」免戳兩次鼻 3大APP秒查庫存&nbsp;&nbsp;TVBS新聞網才37°C以為沒事？醫說「這些症狀」出現就要快篩&nbsp;&nbsp;中天新聞網新冠快篩不能只看發燒！醫曝6症狀出現就該注意&nbsp;&nbsp;TVBS新聞網才37°C就要快篩？醫：沒高燒不代表沒感染新冠或流感&nbsp;&nbsp;Yahoo新聞",
+      "id": "5021ba64e35d",
+      "title": "住戶心驚驚！黑心維冠「龍門世家」3期震後牆裂、磚瓦落| 生活",
+      "published": "2026-07-27T04:14:55+00:00",
+      "summary": "住戶心驚驚！黑心維冠「龍門世家」3期震後牆裂、磚瓦落| 生活&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPOGZMNDU0ZjkxSHF6aXFyRU1NTzJfcXNQVU5UVzJ6R1FBQXh1ODkxMjFKblVYdUZrcjlsUTM0UE4zcUJHS1NRRDl3OVl5cmJjMWNqRVVzN2ZDOXMyZURqYVZ0dnU3a0hfZG9waHVBSktvWDFnczJPR0FWeDZyZU1hai1zYm1HdDctVy1xRTFLMU1lc2FYMndVZnc4Ym1GTXFrc29JYkZBeDdqbUhadFZOOHRhZmFaR0lkVHhDTnd4eXlRcWc5UmNfMzJmaHRpeE1zcTY0LW5NWDZZN0lhWElpRFpaUWhueS1EMUlhZ3Z5QWpHMElCcDd6OTllQ0otWUNnaEhYeGI5NmZUQ2R5Nmh1dVZuMHdFOURaa09vZ092LXMzWUlLZndkUlAtQ3ZVdWs3UEVYaThNQ2wtckZ0N0swTkNOT0hoSnFmblZUbllNRkF4Q25TdFdBYXQyTVl1SDY0VUIzREYtVXdPc3k1b0F3cF9RYjNUTmNHWlhEcHBiTFc4bXpZRUE?oc=5"
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4yZG9NaVFXdWRiaFR3Mkw4RWg4STR6X1FjbzVscWVoWW9Qc1F5YXk2bC1mcXB5SUJWaTJaYXR5OExabW9yNUkw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -118,19 +172,6 @@
       ]
     },
     {
-      "id": "647717bbb2f0",
-      "title": "常疲倦、嘴破是免疫初老　研究揭益生菌提升NK細胞活性",
-      "published": "2026-07-27T02:52:00+00:00",
-      "summary": "常疲倦、嘴破是免疫初老 研究揭益生菌提升NK細胞活性&nbsp;&nbsp;ETtoday健康雲",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41eEU4S3VYTGNvUlM1T2NpTk1YYlpTVkJuR0VlTmFaYzJwaHZjNS1TYm1hRWE2U2dFbDYtdFVNQmRtdm54MERheXVYVmpkU3V30gFPQVVfeXFMT2ZnN18tY2R5WVlmVFdQN1R0MjVCem54QWM2ZllqeUhMcUVpQlRxRXRRYTRYTWo2S1Q5Ulk2VWhXR2FkN1Q0eFBBWVUwdDBoNA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "11a31af916dc",
       "title": "每天醒來要第一時間檢查枕頭狀況！夜間盜汗+3情況要留意 疑罹癌徵兆",
       "published": "2026-07-27T02:29:11+00:00",
@@ -142,46 +183,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "3d001df5b358",
-      "title": "HPV疫苗｜接種疫苗子宮頸癌死亡率「接近零」 HPV疫苗補種計劃今年底截止4成合資格女生未取「免費防癌門票」",
-      "published": "2026-07-27T02:26:05+00:00",
-      "summary": "HPV疫苗｜接種疫苗子宮頸癌死亡率「接近零」 HPV疫苗補種計劃今年底截止4成合資格女生未取「免費防癌門票」&nbsp;&nbsp;香港經濟日報HKET口咽癌悄竄升、男性患者增加！醫示警：不菸不酒仍躲不過HPV&nbsp;&nbsp;Yahoo新聞8月徵文主題 海外旅遊生病怎麼辦？&nbsp;&nbsp;UDN「口咽癌」超越子宮頸癌！727世界抗頭頸癌日 醫籲： 全民必備HPV防禦率&nbsp;&nbsp;蕃新聞健康網》11歲為何要打HPV疫苗 醫：提早建免疫城牆&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41ZUpRLUoxWmZfY2hTdldaVkRGa1ZheFAzb0w0amI0YlRWNkVULTJVczhpZVlaX0gxeUFuNmIzQXhMZThSTlVWN1JfaGVBZ3dXaHc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "頭頸癌",
-          "keyword": "頭頸癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "9058218a6de2",
@@ -360,26 +361,26 @@
       "matched_keywords": []
     },
     {
-      "id": "a7fdf23c62e4",
+      "id": "657d5b3aee74",
       "title": "飛機餐2.0！新航「美味健康餐食」 舒緩旅途不適| 旅遊",
       "published": "2026-07-26T14:04:52+00:00",
-      "summary": "飛機餐2.0！新航「美味健康餐食」 舒緩旅途不適| 旅遊&nbsp;&nbsp;三立新聞",
+      "summary": "飛機餐2.0！新航「美味健康餐食」 舒緩旅途不適| 旅遊&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
-          "name": "三立新聞",
+          "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CVzRqS1N2amZqT1o3WjFsLVRoOTI1SFEtSURwTzRpdzNIbGJlNWZRTXhPb2NQQXBackxYVktoakhKbTRNRFJJ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "e40a95c7ff5e",
+      "id": "be388f3bf9af",
       "title": "遏止黑心！新北市祭出重罰廢止双鵬工廠登記| 社會",
       "published": "2026-07-26T11:22:21+00:00",
-      "summary": "遏止黑心！新北市祭出重罰廢止双鵬工廠登記| 社會&nbsp;&nbsp;三立新聞",
+      "summary": "遏止黑心！新北市祭出重罰廢止双鵬工廠登記| 社會&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
-          "name": "三立新聞",
+          "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1oYXcxT3RDSVk4WUlTdHFsNTdpaFl2ak5XWndlOTNrWmxja0dOYllFRkR3dUVVdU52dUtxZ3VLcHNEWUFaV3c?oc=5"
         }
       ],
@@ -484,13 +485,13 @@
       "matched_keywords": []
     },
     {
-      "id": "964dfd059321",
+      "id": "5cef7a1f245c",
       "title": "腳底痛快去看醫生！小心你可能得了「足底筋膜炎」",
       "published": "2026-07-26T00:37:15+00:00",
-      "summary": "腳底痛快去看醫生！小心你可能得了「足底筋膜炎」&nbsp;&nbsp;三立新聞",
+      "summary": "腳底痛快去看醫生！小心你可能得了「足底筋膜炎」&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
-          "name": "三立新聞",
+          "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9aYWFsY1pVem9VUV9VN1kxdjFSblNoZUFoMzhsSlY5bVYyREFYYVBaMk1adl9nd0dBU3Rua3I1R21SRURDWnc?oc=5"
         }
       ],
@@ -597,13 +598,13 @@
       ]
     },
     {
-      "id": "c7b1702d8e34",
+      "id": "82bd9915bba1",
       "title": "流感疫苗開打！宋逸民攜女接種揪心不忍看下去| 生活",
       "published": "2026-07-25T19:15:48+00:00",
-      "summary": "流感疫苗開打！宋逸民攜女接種揪心不忍看下去| 生活&nbsp;&nbsp;三立新聞",
+      "summary": "流感疫苗開打！宋逸民攜女接種揪心不忍看下去| 生活&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
-          "name": "三立新聞",
+          "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5MTUUycEhVU3lEVU9SSFNoV3NBd1c0eVVIZlE4LUlCODN0cXY4dXhEMHBkbXJ5RmxJVVZSOVdhNWNkQy1la2c?oc=5"
         }
       ],
@@ -635,26 +636,26 @@
       ]
     },
     {
-      "id": "10d37537fa96",
+      "id": "7d62f059d2f6",
       "title": "看了被氣死！LINE瘋傳「護眼操」是假的！近視不減反增| 生活",
       "published": "2026-07-25T17:56:24+00:00",
-      "summary": "看了被氣死！LINE瘋傳「護眼操」是假的！近視不減反增| 生活&nbsp;&nbsp;三立新聞",
+      "summary": "看了被氣死！LINE瘋傳「護眼操」是假的！近視不減反增| 生活&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
-          "name": "三立新聞",
+          "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5vaHphTWkzd3dDYWNCNHRPLUw0Z0dOa3htNl9xc3VKN0lmeVcwSzdfRkRRXzJsNzRGam01MHdybXF2dWtBTjU0?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "8c87cfac2c0e",
+      "id": "dbc9caecffd2",
       "title": "突然抽搐、昏迷流感幼童醒來後無法走路| 生活",
       "published": "2026-07-25T16:23:05+00:00",
-      "summary": "突然抽搐、昏迷流感幼童醒來後無法走路| 生活&nbsp;&nbsp;三立新聞",
+      "summary": "突然抽搐、昏迷流感幼童醒來後無法走路| 生活&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
-          "name": "三立新聞",
+          "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuY0J1cHRuUGhCN0ZMaFJza01NXzFleG5hNjE3QWVBcmRwM0tzUzljbjV3eFpIa3pGUFpMQzZQM0tOOVpEYzBv?oc=5"
         }
       ],
