@@ -1,7 +1,46 @@
 {
-  "generated": "2026-07-28T22:05:21.361724+00:00",
+  "generated": "2026-07-28T23:51:59.976496+00:00",
   "count": 12,
   "news": [
+    {
+      "id": "b9e369075e3a",
+      "title": "兩性共同防護 全民必備HPV成主流 「口咽癌」超越子宮頸癌 世界一起抗頭頸癌",
+      "published": "2026-07-28T20:57:34+00:00",
+      "sources": [
+        {
+          "name": "住展雜誌",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51c2pkUFF0eGMyYXNjRVNlNFNjNWJqbkFrTGE3eE51Mm5yMVNHazF1VVVUM2dwTkpkWDVIaXFfNlFMTG16SmlHdHFza2NQSjNEQ0Q4Zg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "頭頸癌",
+          "keyword": "頭頸癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "3071d181286a",
       "title": "退休師拒切片！拖3年尿不出來　「攝護腺癌骨轉移」痛到打嗎啡",
@@ -239,6 +278,76 @@
         },
         {
           "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心臟病發",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        },
+        {
+          "type": "indication",
           "name": "stroke",
           "keyword": "中風",
           "related_drugs": [
@@ -299,34 +408,6 @@
             {
               "slug": "isosorbide_dinitrate",
               "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cc728b374c35",
-      "title": "不菸不酒仍罹病 HPV成口咽癌隱憂",
-      "published": "2026-07-28T01:08:41+00:00",
-      "sources": [
-        {
-          "name": "人間福報電子報",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ndGZZUWJNcm9sTXlrOWNSd19lbTBPemtkWUhPLTNIN0xQc1RpazRqS21kWjRWTVdhcU50amFDX09PVkNpaUJnbDJSQjZ0d2EtQ014UmI5bEwxWW56VWdIQ1BrWV9JOUE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "頭頸癌",
-          "keyword": "頭頸癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }

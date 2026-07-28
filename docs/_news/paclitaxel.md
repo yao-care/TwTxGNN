@@ -44,6 +44,14 @@ permalink: /news/paclitaxel/
 
 ## 相關新聞（4 則）
 
+### [兩性共同防護 全民必備HPV成主流 「口咽癌」超越子宮頸癌 世界一起抗頭頸癌](https://news.google.com/rss/articles/CBMiVEFVX3lxTE51c2pkUFF0eGMyYXNjRVNlNFNjNWJqbkFrTGE3eE51Mm5yMVNHazF1VVVUM2dwTkpkWDVIaXFfNlFMTG16SmlHdHFza2NQSjNEQ0Q4Zg?oc=5)
+
+2026-07-28 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">頭頸癌</span>
+
+來源：[住展雜誌](https://news.google.com/rss/articles/CBMiVEFVX3lxTE51c2pkUFF0eGMyYXNjRVNlNFNjNWJqbkFrTGE3eE51Mm5yMVNHazF1VVVUM2dwTkpkWDVIaXFfNlFMTG16SmlHdHFza2NQSjNEQ0Q4Zg?oc=5)
+
+---
+
 ### [不只補鈣！醫揭維生素D強大功能](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UaFMtc3VidHBwLW9JUDV1NkN0eXIzaXl2X29QVERhbUlZcUpGeWpzYjJZdEtiYmJPc0VFbDExU2pGMzFORDIzU2RDRW54cG8?oc=5)
 
 2026-07-28 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
@@ -57,14 +65,6 @@ permalink: /news/paclitaxel/
 2026-07-28 <span class="news-indication-tag">乳癌</span>
 
 來源：[香港01](https://news.google.com/rss/articles/CBMinANBVV95cUxNTmloM2l4d1pvcTFocXZuamtYWGNXX2NnNjdNR0EtWkMzSUFfOVZJekFmVzlQZS1ZNG5TbjFHLWhnRTlrcVhwVTVSNWpBWDRsLUVNcFVRYzZZTm9vcTBtd241MnRWYnBpWTV1NTFaUDg0Tm9hSVA2Rk9Kd2YxWUlJOXNGR29RU2Z5eW9hY2NKby1COUlhc1BoWWN6d0lnTWl2WXhDYkM0WXFDNW5EX0Nwb2lWdmJzajZ3ejg5TWNPUkZHMkJmZ2ZCWmpxR1FhTEN6R1hhVVkyNUpXSTQxVERMVWhiaFNJcG9VTDZVMXNuOVJWZWdrOXFDbFRBZFVQTHRDRHpfSEpIZUt1enpfZHNWbm1XNjRQWS1SdGRNYUdmMXdSZlo1RUpkZE1Mbzh0NkpVRW9FSUIwOG5ycld1bU9zVVFuU1Z1bnpndjhxOWo1ZnNSQjdZVTNmdEdWSENvUG9hTVpzQXpEQmtmRVZGd2lxYW1Sekl1MmFnYzNoVFcwaU5ySWhGOHgzZU5wSGduOEtRX3hqZ19UQVJvYlAz?oc=5)
-
----
-
-### [不菸不酒仍罹病 HPV成口咽癌隱憂](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ndGZZUWJNcm9sTXlrOWNSd19lbTBPemtkWUhPLTNIN0xQc1RpazRqS21kWjRWTVdhcU50amFDX09PVkNpaUJnbDJSQjZ0d2EtQ014UmI5bEwxWW56VWdIQ1BrWV9JOUE?oc=5)
-
-2026-07-28 <span class="news-indication-tag">頭頸癌</span>
-
-來源：[人間福報電子報](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ndGZZUWJNcm9sTXlrOWNSd19lbTBPemtkWUhPLTNIN0xQc1RpazRqS21kWjRWTVdhcU50amFDX09PVkNpaUJnbDJSQjZ0d2EtQ014UmI5bEwxWW56VWdIQ1BrWV9JOUE?oc=5)
 
 ---
 

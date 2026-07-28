@@ -14,7 +14,7 @@ permalink: /news/mannitol/
 ---
 
 <p class="key-answer" data-question="Mannitol 有什麼相關新聞？">
-<strong>Mannitol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mannitol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/mannitol/
 <p><a href="{{ '/drugs/mannitol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [走路會喘、膽固醇飆高恐是血管警訊！腦中風權威教你用「CPR三步導航」守護心腦血管健康](https://news.google.com/rss/articles/CBMigARBVV95cUxPVnBpS1BPa0p2MXN4TngxWERadUd2bnR6NDQ4RDIyMi1SUEV6eDk2a2VkVjRSeXhlVzB5cTdLNGh0aGhhdW1VY25aUzIzOGk5Y2xwWWZQSWQyR08yX204QlFzNU5nWnlPSFFmazJPOEhrUHRma0xVWHNFWHh4U2txb2JFQ3pud1MwSVhQUUI4eUVRcUxRWGtMRlVKQzRJTjlCMVNBRUhWay1hanBtcjcwT05RelVEaEhOcDhnU2Q5N1l0Y2NCb1JpWHF4Qkp4QVV3dm1LNjk2eTg2Q25qcUZPWVUtSGFMMFQxWFY0Z2ljOGlRNGFfY1dPTTRsbmdnVTZmYVZ5NkJiUWpXRUVXTkVDbXA3NlkzOGJWWHVXcGhfX3BpWm9JWjY0c01KQXZUM0hGTEpVOTJBSDd0V09lelp2OTg3TjB4cU00QTM3ZGFMWlFtYUdpbXdOWDItXzNKNXhwRk0ySTFnb0ROcGVvYmh6cm1vNW1xODJ3LWxyMy0tN1NXRkZ5Zmh6ZXdqWHBIXzItTVNtekRROWxYbk5KLW5VVjRwaERtZXVERi16M29aclFZU1luNEJETDAwcFBxWU5QZUNab3JNRHFmWEFqWDFrS0l5cjBvTl9JcVZOV19DVXYyVVNJVG1fQ1VBT1E3cE51NUJ4ZVUxdGxZSTZNMGx6Qw?oc=5)
+
+2026-07-28 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">腦中風</span> <span class="news-indication-tag">腦血管</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMigARBVV95cUxPVnBpS1BPa0p2MXN4TngxWERadUd2bnR6NDQ4RDIyMi1SUEV6eDk2a2VkVjRSeXhlVzB5cTdLNGh0aGhhdW1VY25aUzIzOGk5Y2xwWWZQSWQyR08yX204QlFzNU5nWnlPSFFmazJPOEhrUHRma0xVWHNFWHh4U2txb2JFQ3pud1MwSVhQUUI4eUVRcUxRWGtMRlVKQzRJTjlCMVNBRUhWay1hanBtcjcwT05RelVEaEhOcDhnU2Q5N1l0Y2NCb1JpWHF4Qkp4QVV3dm1LNjk2eTg2Q25qcUZPWVUtSGFMMFQxWFY0Z2ljOGlRNGFfY1dPTTRsbmdnVTZmYVZ5NkJiUWpXRUVXTkVDbXA3NlkzOGJWWHVXcGhfX3BpWm9JWjY0c01KQXZUM0hGTEpVOTJBSDd0V09lelp2OTg3TjB4cU00QTM3ZGFMWlFtYUdpbXdOWDItXzNKNXhwRk0ySTFnb0ROcGVvYmh6cm1vNW1xODJ3LWxyMy0tN1NXRkZ5Zmh6ZXdqWHBIXzItTVNtekRROWxYbk5KLW5VVjRwaERtZXVERi16M29aclFZU1luNEJETDAwcFBxWU5QZUNab3JNRHFmWEFqWDFrS0l5cjBvTl9JcVZOV19DVXYyVVNJVG1fQ1VBT1E3cE51NUJ4ZVUxdGxZSTZNMGx6Qw?oc=5)
+
+---
 
 ### [史上最快！癌症時鐘再加速每5分6秒1人罹癌| 生活](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5vWEVQUnNTUVhSQVRMQ1pvUTNNek5oR2poQXZ1ZUEzVDlpdWIyX01GU0dRUVZ0VTRuWk91RWpRdm5EZDdaVEx3?oc=5)
 

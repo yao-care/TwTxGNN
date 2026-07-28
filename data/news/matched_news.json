@@ -1,8 +1,74 @@
 {
-  "last_updated": "2026-07-28T22:05:21.331314+00:00",
-  "total_count": 30,
+  "last_updated": "2026-07-28T23:51:59.943581+00:00",
+  "total_count": 33,
   "matched_count": 12,
   "news": [
+    {
+      "id": "0359e36d9c2f",
+      "title": "長期高壓或增患癌風險 醫生揭5種「養癌狀態」 教5 招助身體退出高危模式",
+      "published": "2026-07-28T22:40:53+00:00",
+      "summary": "長期高壓或增患癌風險 醫生揭5種「養癌狀態」 教5 招助身體退出高危模式&nbsp;&nbsp;bastillepost.com",
+      "sources": [
+        {
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNdFZ3dnVia3JBZGJQWlhZMWNDcTNzc01NWGs4TlhHSUZ3RzNINHQ4X1NYUHNUOEFRR1VSMFpFcWpOVDBJdXQ5dU9PQUtNLW5IaElkOTJrTEtnWHN4Q2poNHhaS3hRVER4a1hGZ25KWFVCN0pnNjcwME5NWk1iRldUUzJldU5vUndMMWJGdE5ON1FtU2EzOTRSOG5pM2RaeDdJN0lHaUh6SGFhMjUwbE9lNEVBYXNIUXRzVktLbDFkNlVzcXFZMEVuSXFtMnlyOUZhS3NabDJrYTlLcEIwX2g5Uzh2Y2V6R3pxN1dPMTZpdElDNV9IRENWbW9pcHhtTEhlZmVhTDJPcTFQNVlTa3M4YlhCbTlsTktqajl0bFdjMXhoNkhzM2FNYUJISVhEZUpJeWw0VTRqdUxOU09iNktfdS1tQWFSdXh5aUw1WkZuUWxuR2NXek1fcjg4YzZkaXZab0Nya2I1SQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2207c8cf9628",
+      "title": "鐵球砸膝沒骨折 疼痛逾月才知骨挫傷",
+      "published": "2026-07-28T21:30:00+00:00",
+      "summary": "鐵球砸膝沒骨折 疼痛逾月才知骨挫傷&nbsp;&nbsp;自由健康網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5icVVjdzltbnhZT29BUXlCdjhBRU0wblBuX2VjNkU4a2hRdHBxRjVGelBLb2ZDbktHLXl3THRVYWF5TVE1MzlxUlVrN1g2STJYYzhQUk5zdC1iWWs?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b9e369075e3a",
+      "title": "兩性共同防護 全民必備HPV成主流 「口咽癌」超越子宮頸癌 世界一起抗頭頸癌",
+      "published": "2026-07-28T20:57:34+00:00",
+      "summary": "兩性共同防護 全民必備HPV成主流 「口咽癌」超越子宮頸癌 世界一起抗頭頸癌&nbsp;&nbsp;住展雜誌口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險&nbsp;&nbsp;Yahoo新聞嘴巴破很久都好不了？醫師教您「口腔黏膜檢查」三大防癌關鍵- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞不菸不酒也可能罹頭頸癌 醫示警：HPV 已成新危險因子&nbsp;&nbsp;Taiwan News口咽癌悄竄升、男性患者增加！醫示警：不菸不酒仍躲不過HPV&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "住展雜誌",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51c2pkUFF0eGMyYXNjRVNlNFNjNWJqbkFrTGE3eE51Mm5yMVNHazF1VVVUM2dwTkpkWDVIaXFfNlFMTG16SmlHdHFza2NQSjNEQ0Q4Zg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "頭頸癌",
+          "keyword": "頭頸癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "a6a9e9a81b08",
       "title": "總是太體貼、太能忍？研究發現這些「好人特質」可能正傷害你的身體",
@@ -225,6 +291,19 @@
       ]
     },
     {
+      "id": "4046b7020a6c",
+      "title": "泰國清邁HIV病例增加引關注 平均日增2例",
+      "published": "2026-07-28T07:08:45+00:00",
+      "summary": "泰國清邁HIV病例增加引關注 平均日增2例&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPMVFxT2tvT3oyNFpUWFNlblZ2M3U3U01lQzVnM3lRNnZrZmZoUmlnbWpIQTNkOTJZOXdFaFBSS2hfWDFUaHpxQW1HWnF5RUNwUXpxR05Ec1ZjTTdVV09ycnRydGZaYmx1R0NDQ1hWYktNbzc5cVl3N2NndTZHOU9TYTNReXJfdjZvZ3dtMkpxTzdfSzVvSWlNcGg2RWx3bHdHajM3cVlvNmduaHpWdm1aRk8xTWhvNW9vUWFxRUQ4ZlJTbXMxM0pja3prTXNXeEQzamNqWS1uZkhHR043WTc2OEpDUHdQQXpBSklzSEs2NFR0V2JURkxsQjExODY4VlRoSzZzTFQ3ZkhrNjF1TVl3dkliVTlDXzZLQnc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "53bf781c7089",
       "title": "研究：阿茲海默症睡眠障礙 可能有關免疫細胞反應",
       "published": "2026-07-28T05:50:00+00:00",
@@ -259,19 +338,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "e14cc4572aaa",
-      "title": "泰國清邁HIV病例增加引關注 平均日增2例 - 中央社 CNA",
-      "published": "2026-07-28T05:41:00+00:00",
-      "summary": "泰國清邁HIV病例增加引關注 平均日增2例&nbsp;&nbsp;中央社 CNA前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "中央社 CNA",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXUXQ0WHlCbTFHVWZhR3UtbnZFTHlRZkhwR1A0QW83czc4b0xZSTB4aTM3UGQxdFJlcnRIbF9qZ19mTURETWFmeDlPRWQ1R3dCd2JtWDdlNVp5eDlsMENn?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "fc2e4cd09dd7",
@@ -316,7 +382,7 @@
       "id": "e925eab4d4b0",
       "title": "走路會喘、膽固醇飆高恐是血管警訊！腦中風權威教你用「CPR三步導航」守護心腦血管健康",
       "published": "2026-07-28T02:48:24+00:00",
-      "summary": "走路會喘、膽固醇飆高恐是血管警訊！腦中風權威教你用「CPR三步導航」守護心腦血管健康&nbsp;&nbsp;Yahoo新聞新版膽固醇指引改看長期風險 美研究：56.6%成年人符合他汀用藥建議&nbsp;&nbsp;Taiwan News壞膽固醇愈低愈好？2026最新膽固醇治療指南出爐：9歲開始，就要開始驗膽固醇&nbsp;&nbsp;PChome Online 新聞壞膽固醇超標可增心血管病風險 美國心臟學會新指引︰19歲起定期量度血脂水平&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "走路會喘、膽固醇飆高恐是血管警訊！腦中風權威教你用「CPR三步導航」守護心腦血管健康&nbsp;&nbsp;Yahoo新聞走路會喘、膽固醇飆高恐是血管警訊！腦中風權威教你用「CPR三步導航」守護心腦血管健康| 信傳媒&nbsp;&nbsp;LINE TODAY健康解碼｜壞膽固醇過高 男子33歲已心臟病發 專家籲及早控制 遠離心血管病發風險&nbsp;&nbsp;AM730新版膽固醇指引改看長期風險 美研究：56.6%成年人符合他汀用藥建議&nbsp;&nbsp;Taiwan News壞膽固醇愈低愈好？2026最新膽固醇治療指南出爐：9歲開始，就要開始驗膽固醇&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -332,6 +398,76 @@
             {
               "slug": "isosorbide_dinitrate",
               "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心臟病發",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
             }
           ]
         },
@@ -417,35 +553,6 @@
       ]
     },
     {
-      "id": "cc728b374c35",
-      "title": "不菸不酒仍罹病 HPV成口咽癌隱憂",
-      "published": "2026-07-28T01:08:41+00:00",
-      "summary": "不菸不酒仍罹病 HPV成口咽癌隱憂&nbsp;&nbsp;人間福報電子報口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險&nbsp;&nbsp;Yahoo新聞嘴巴破很久都好不了？醫師教您「口腔黏膜檢查」三大防癌關鍵- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞不菸不酒也可能罹頭頸癌 醫示警：HPV 已成新危險因子&nbsp;&nbsp;Taiwan News口咽癌悄竄升、男性患者增加！醫示警：不菸不酒仍躲不過HPV&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "人間福報電子報",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ndGZZUWJNcm9sTXlrOWNSd19lbTBPemtkWUhPLTNIN0xQc1RpazRqS21kWjRWTVdhcU50amFDX09PVkNpaUJnbDJSQjZ0d2EtQ014UmI5bEwxWW56VWdIQ1BrWV9JOUE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "頭頸癌",
-          "keyword": "頭頸癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "a8100757aa25",
       "title": "睡飽睡滿很重要！睡不飽會變胖？是真的！",
       "published": "2026-07-27T23:35:57+00:00",
@@ -505,6 +612,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "73c032366bbb",
+      "title": "網路瘋傳有毒食品是真的嗎？食藥署設「專區」釋疑",
+      "published": "2026-07-27T17:36:14+00:00",
+      "summary": "網路瘋傳有毒食品是真的嗎？食藥署設「專區」釋疑&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB0Q1B6d3dlZjVnOXN4YjhLcEl5R0VtNUJGcGkybzkwcnFzOWFVTTZxRVFuT3ZTbVQtMm9vS0o3OW1RdnRMMEE?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "5019ca8d7409",

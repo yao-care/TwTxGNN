@@ -14,7 +14,7 @@ permalink: /news/inositol/
 ---
 
 <p class="key-answer" data-question="Inositol 有什麼相關新聞？">
-<strong>Inositol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Inositol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/inositol/
 <p><a href="{{ '/drugs/inositol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [走路會喘、膽固醇飆高恐是血管警訊！腦中風權威教你用「CPR三步導航」守護心腦血管健康](https://news.google.com/rss/articles/CBMigARBVV95cUxPVnBpS1BPa0p2MXN4TngxWERadUd2bnR6NDQ4RDIyMi1SUEV6eDk2a2VkVjRSeXhlVzB5cTdLNGh0aGhhdW1VY25aUzIzOGk5Y2xwWWZQSWQyR08yX204QlFzNU5nWnlPSFFmazJPOEhrUHRma0xVWHNFWHh4U2txb2JFQ3pud1MwSVhQUUI4eUVRcUxRWGtMRlVKQzRJTjlCMVNBRUhWay1hanBtcjcwT05RelVEaEhOcDhnU2Q5N1l0Y2NCb1JpWHF4Qkp4QVV3dm1LNjk2eTg2Q25qcUZPWVUtSGFMMFQxWFY0Z2ljOGlRNGFfY1dPTTRsbmdnVTZmYVZ5NkJiUWpXRUVXTkVDbXA3NlkzOGJWWHVXcGhfX3BpWm9JWjY0c01KQXZUM0hGTEpVOTJBSDd0V09lelp2OTg3TjB4cU00QTM3ZGFMWlFtYUdpbXdOWDItXzNKNXhwRk0ySTFnb0ROcGVvYmh6cm1vNW1xODJ3LWxyMy0tN1NXRkZ5Zmh6ZXdqWHBIXzItTVNtekRROWxYbk5KLW5VVjRwaERtZXVERi16M29aclFZU1luNEJETDAwcFBxWU5QZUNab3JNRHFmWEFqWDFrS0l5cjBvTl9JcVZOV19DVXYyVVNJVG1fQ1VBT1E3cE51NUJ4ZVUxdGxZSTZNMGx6Qw?oc=5)
+
+2026-07-28 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">腦中風</span> <span class="news-indication-tag">腦血管</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMigARBVV95cUxPVnBpS1BPa0p2MXN4TngxWERadUd2bnR6NDQ4RDIyMi1SUEV6eDk2a2VkVjRSeXhlVzB5cTdLNGh0aGhhdW1VY25aUzIzOGk5Y2xwWWZQSWQyR08yX204QlFzNU5nWnlPSFFmazJPOEhrUHRma0xVWHNFWHh4U2txb2JFQ3pud1MwSVhQUUI4eUVRcUxRWGtMRlVKQzRJTjlCMVNBRUhWay1hanBtcjcwT05RelVEaEhOcDhnU2Q5N1l0Y2NCb1JpWHF4Qkp4QVV3dm1LNjk2eTg2Q25qcUZPWVUtSGFMMFQxWFY0Z2ljOGlRNGFfY1dPTTRsbmdnVTZmYVZ5NkJiUWpXRUVXTkVDbXA3NlkzOGJWWHVXcGhfX3BpWm9JWjY0c01KQXZUM0hGTEpVOTJBSDd0V09lelp2OTg3TjB4cU00QTM3ZGFMWlFtYUdpbXdOWDItXzNKNXhwRk0ySTFnb0ROcGVvYmh6cm1vNW1xODJ3LWxyMy0tN1NXRkZ5Zmh6ZXdqWHBIXzItTVNtekRROWxYbk5KLW5VVjRwaERtZXVERi16M29aclFZU1luNEJETDAwcFBxWU5QZUNab3JNRHFmWEFqWDFrS0l5cjBvTl9JcVZOV19DVXYyVVNJVG1fQ1VBT1E3cE51NUJ4ZVUxdGxZSTZNMGx6Qw?oc=5)
+
+---
 
 
 <div class="disclaimer">
