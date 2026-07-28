@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [不只補鈣！醫揭維生素D強大功能](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UaFMtc3VidHBwLW9JUDV1NkN0eXIzaXl2X29QVERhbUlZcUpGeWpzYjJZdEtiYmJPc0VFbDExU2pGMzFORDIzU2RDRW54cG8?oc=5)
 
@@ -62,9 +62,17 @@ permalink: /news/gemcitabine/
 
 ### [健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9obzVKWXRFdkdjY2tobV9SVFpXTnNDNW03NnRXeFdfSTZXNVdMdmdpNUFxb1dRdmtpTDBLZHgyeXllOHZJeW5VS2lOSkM5UzJqWk9ZVTRB?oc=5)
 
-2026-07-26 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-07-27 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9obzVKWXRFdkdjY2tobV9SVFpXTnNDNW03NnRXeFdfSTZXNVdMdmdpNUFxb1dRdmtpTDBLZHgyeXllOHZJeW5VS2lOSkM5UzJqWk9ZVTRB?oc=5)
+
+---
+
+### [史上最快！癌症時鐘再加速每5分6秒1人罹癌| 生活](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5vWEVQUnNTUVhSQVRMQ1pvUTNNek5oR2poQXZ1ZUEzVDlpdWIyX01GU0dRUVZ0VTRuWk91RWpRdm5EZDdaVEx3?oc=5)
+
+2026-07-26 <span class="news-indication-tag">癌症</span>
+
+來源：[三立新聞](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5vWEVQUnNTUVhSQVRMQ1pvUTNNek5oR2poQXZ1ZUEzVDlpdWIyX01GU0dRUVZ0VTRuWk91RWpRdm5EZDdaVEx3?oc=5)
 
 ---
 

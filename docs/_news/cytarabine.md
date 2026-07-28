@@ -14,7 +14,7 @@ permalink: /news/cytarabine/
 ---
 
 <p class="key-answer" data-question="Cytarabine 有什麼相關新聞？">
-<strong>Cytarabine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cytarabine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,9 +40,15 @@ permalink: /news/cytarabine/
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [史上最快！癌症時鐘再加速每5分6秒1人罹癌| 生活](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5vWEVQUnNTUVhSQVRMQ1pvUTNNek5oR2poQXZ1ZUEzVDlpdWIyX01GU0dRUVZ0VTRuWk91RWpRdm5EZDdaVEx3?oc=5)
+
+2026-07-26 <span class="news-indication-tag">癌症</span>
+
+來源：[三立新聞](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5vWEVQUnNTUVhSQVRMQ1pvUTNNek5oR2poQXZ1ZUEzVDlpdWIyX01GU0dRUVZ0VTRuWk91RWpRdm5EZDdaVEx3?oc=5)
+
+---
 
 
 <div class="disclaimer">

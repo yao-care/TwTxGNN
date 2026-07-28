@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-28T20:59:18.304717+00:00",
-  "total_count": 35,
+  "last_updated": "2026-07-28T22:05:21.331314+00:00",
+  "total_count": 30,
   "matched_count": 12,
   "news": [
     {
@@ -459,6 +459,54 @@
       "matched_keywords": []
     },
     {
+      "id": "e1ef3fab4738",
+      "title": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報 - LINE TODAY",
+      "published": "2026-07-27T21:08:28+00:00",
+      "summary": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9obzVKWXRFdkdjY2tobV9SVFpXTnNDNW03NnRXeFdfSTZXNVdMdmdpNUFxb1dRdmtpTDBLZHgyeXllOHZJeW5VS2lOSkM5UzJqWk9ZVTRB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "5019ca8d7409",
       "title": "預防心血管疾病 從健康生活做起",
       "published": "2026-07-27T16:02:32+00:00",
@@ -598,32 +646,6 @@
       "matched_keywords": []
     },
     {
-      "id": "1afb26bcc8f2",
-      "title": "現在年輕人為何老得快？華盛頓大學研究：與肥胖、久坐、睡眠品質差都有關，這些生活習慣更是致癌因子| 德國之聲| 新聞",
-      "published": "2026-07-27T04:34:47+00:00",
-      "summary": "現在年輕人為何老得快？華盛頓大學研究：與肥胖、久坐、睡眠品質差都有關，這些生活習慣更是致癌因子| 德國之聲| 新聞&nbsp;&nbsp;風傳媒睡不好、久坐害的？年輕人為何提早罹癌？「生物學年齡超前」成新線索－德國之聲｜商周&nbsp;&nbsp;商業周刊當今年輕人更易患癌，是因為比父輩老得快？&nbsp;&nbsp;DW.com",
-      "sources": [
-        {
-          "name": "風傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EYXhPZVhvdzdSUVlfRm5haU1RZWpmc0k2WW16T3M2YnotMU9lenZaY2VXMzZCM1dERGRVRDdkRi1LX0RabnJPYjMtbDU0QQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "10c26907d300",
-      "title": "住戶心驚驚！黑心維冠「龍門世家」3期震後牆裂、磚瓦落| 生活",
-      "published": "2026-07-27T04:14:55+00:00",
-      "summary": "住戶心驚驚！黑心維冠「龍門世家」3期震後牆裂、磚瓦落| 生活&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4yZG9NaVFXdWRiaFR3Mkw4RWg4STR6X1FjbzVscWVoWW9Qc1F5YXk2bC1mcXB5SUJWaTJaYXR5OExabW9yNUkw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "11a31af916dc",
       "title": "每天醒來要第一時間檢查枕頭狀況！夜間盜汗+3情況要留意 疑罹癌徵兆",
       "published": "2026-07-27T02:29:11+00:00",
@@ -635,83 +657,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "9058218a6de2",
-      "title": "鈣片白吃了？骨頭要硬先補1營養！缺了它 鈣質無法分配恐釀血管鈣化",
-      "published": "2026-07-27T00:02:19+00:00",
-      "summary": "鈣片白吃了？骨頭要硬先補1營養！缺了它 鈣質無法分配恐釀血管鈣化&nbsp;&nbsp;Yahoo新聞護骨從飲食做起：5種天天可吃的補鈣食物&nbsp;&nbsp;世界新聞網倪海廈推薦的天然補鈣法：真正重要的，是讓身體留得住鈣&nbsp;&nbsp;美南新聞洗腎患者低血鈣危機 醫師提醒定期追蹤&nbsp;&nbsp;信吉衛視+治療骨鬆防骨折 醫提警訊：當心低血鈣誘發心律不整 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNa3VaVWtBZklXV1I4WWpBcVByNTFQekVneFdxY1c5UDhtM21mM29OLS10Uk5lbGc0eFpXTllMQWFibnpyZWRoTnRWLVY5bnNXNnd3NnJQR1VHX2RMNzNQWjJpVXZUeXMtd0NHV25iY2VyWXJTcWtVSGhKQWRoMzY0cVNsMU14Q3JsaG9qTDEwdVBxUnF5UzY0OXJtNmowRUltZk12aXFIZEpWSVl4REszeGE5b2Y2N2tocDVaZU1xdl9HcWwxbTRNVmg3X1BIaUFEOHNVX05zUGt1VkNqaDZDd0x4a2owX0g2aTBnRkZsZzI0M1J4VGgwV0trN1dYVXlRUzQ0MjBYTU1Xc0U3blB4NlBlVXNYV1FrLWtJRXVNWWtUT3drZ3hjeHJGMGhhVS13ZGNGaHZCLVByU296blBXaUxRVGhSV0dVWVMyNGY2bTdJWEdFUDVzUGJ0WHBlNk1jbk1DNmE1WUZUYm4xU2w5VlZVX3FZQjFVSkRQSkdoaEtPYS1tdjVUYW9qMWNMUlVLbHhNYTZWNG54aVREOFNlUjZPZENQeWJk?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "心律不整",
-          "keyword": "心律不整",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e1ef3fab4738",
-      "title": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報 - LINE TODAY",
-      "published": "2026-07-26T23:36:41+00:00",
-      "summary": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9obzVKWXRFdkdjY2tobV9SVFpXTnNDNW03NnRXeFdfSTZXNVdMdmdpNUFxb1dRdmtpTDBLZHgyeXllOHZJeW5VS2lOSkM5UzJqWk9ZVTRB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "469f116a5e9e",
@@ -727,53 +672,223 @@
       "matched_keywords": []
     },
     {
-      "id": "a7fdf23c62e4",
-      "title": "飛機餐2.0！新航「美味健康餐食」 舒緩旅途不適| 旅遊",
-      "published": "2026-07-26T21:48:07+00:00",
-      "summary": "飛機餐2.0！新航「美味健康餐食」 舒緩旅途不適| 旅遊&nbsp;&nbsp;三立新聞",
+      "id": "0a23d892f904",
+      "title": "史上最快！癌症時鐘再加速每5分6秒1人罹癌| 生活",
+      "published": "2026-07-26T13:34:32+00:00",
+      "summary": "史上最快！癌症時鐘再加速每5分6秒1人罹癌| 生活&nbsp;&nbsp;三立新聞",
       "sources": [
         {
           "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CVzRqS1N2amZqT1o3WjFsLVRoOTI1SFEtSURwTzRpdzNIbGJlNWZRTXhPb2NQQXBackxYVktoakhKbTRNRFJJ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5vWEVQUnNTUVhSQVRMQ1pvUTNNek5oR2poQXZ1ZUEzVDlpdWIyX01GU0dRUVZ0VTRuWk91RWpRdm5EZDdaVEx3?oc=5"
         }
       ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9b83a8f2a912",
-      "title": "大腦就是這樣工作：破解愛恨情仇、成癮、恐懼等11大謎團 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "published": "2026-07-26T21:15:33+00:00",
-      "summary": "大腦就是這樣工作：破解愛恨情仇、成癮、恐懼等11大謎團 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
+      "matched_keywords": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZUxQMy1nRmM5ZERpOFlmTVZLWnplZ0dvdlBHbUdnZWtVc2dkQTAtaVltUjloY0dzcVVJYVJ6eHZENUxpUS1yLTltYVJ2US1uVmFWazRZUjBLV1hRdXNrRWl3Vk0yUVFId0ZSN1lWQXlXQlFmUllydGw4ZHhoVHpDLXVOOFhsQ3RX?oc=5"
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
         }
-      ],
-      "matched_keywords": []
+      ]
     },
     {
-      "id": "18c6133dfe45",
-      "title": "注意！日食一包小薯條或洋芋片 罹癌風險激增500倍",
-      "published": "2026-07-26T20:54:21+00:00",
-      "summary": "注意！日食一包小薯條或洋芋片 罹癌風險激增500倍&nbsp;&nbsp;三立新聞",
+      "id": "32a99061bdfc",
+      "title": "今年首例！農夫染「日本腦炎」個性改變還有這些可怕症狀| 生活",
+      "published": "2026-07-26T04:33:50+00:00",
+      "summary": "今年首例！農夫染「日本腦炎」個性改變還有這些可怕症狀| 生活&nbsp;&nbsp;三立新聞",
       "sources": [
         {
           "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBiZU9ZYzdVTVNiOWI4dV9OVTVpaXQ1am5YejA2S0k3bm52WjFQb3pueDZsOWxqOUNSVGZGNXdEaVRZa2pCWWc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ff6b9e36c945",
-      "title": "拆解抗曬誤區 助護膚防癌搽全效產品仍出問題",
-      "published": "2026-07-26T20:14:43+00:00",
-      "summary": "拆解抗曬誤區 助護膚防癌搽全效產品仍出問題&nbsp;&nbsp;信報網站",
-      "sources": [
-        {
-          "name": "信報網站",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPclRoQmw4MkFHUmd1TU5UNHVKZzZBY2hVUmtWT0dTSHRNclVGZ2hpaFMwc2lrN0JxWkxWMnNDakJTZlY2SjlrekFzWm1mSGdkOFFzd0J1SzhlaXU3ZkxPcjhFbnJIM0YzdFBYZHlFUDZ1bHR1ZDNHQV9YRHl6am5Jc3Z2UVczZGZHQmd1ZkhwelVVeDh1TWRIR2FxMTBpMVJJeWgtSGdfS0NBLVdveEN6NFo3NVVVS3ZZdGI2WmZMU1p0cHJ6Q0Q1ZnprTlpHMm1lT3hjYTJmM2Y2UnhlSmJ1UUFjUXNoZkVISHJj?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBaRTdKNk9lSW14QU9GMkNlTktmY2cwRjdFZjJrTXd3N0ZPU1NhUGsyemw0WjBLbWt4X0pQNENzeElSTkVwWXFJ?oc=5"
         }
       ],
       "matched_keywords": []
