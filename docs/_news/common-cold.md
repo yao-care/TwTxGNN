@@ -31,11 +31,11 @@ permalink: /news/common-cold/
 
 ## 相關新聞（2 則）
 
-### [新冠肺炎又回來了！醫示警「6症狀」趕緊快篩：沒發燒不代表躲過](https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5S1BuRlhuRU0xSTZSbTd0WWdEeVpMQnhnRjdRTFQwTHczNVhLUXAxTFBDWFdpV1REVkx6YXJaZ3ppQVRiRDVlbjB5ZUnSAVJBVV95cUxNV2lpNDBfS29KdVQ2c1E3NldCVURyVmhuSG5hd1BUeEdlcDFLVFp1Yk03elFMalR5WS0zYnNCS2dXSmFOamZXSElKZ19ldEx4bkxR?oc=5)
+### [新冠快篩不能只看發燒！醫曝6症狀出現就該注意 | TVBS - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BRlRKUzUtOXVCcFBua2JvWXUwUTF6UG5XdWR6TjVtRTE3WGlCY0hUT2wzMmZRZUt1Zi03dU9jNlpIU0J1QXI4U2xYeXlXWGdhM29oS3B3?oc=5)
 
-2026-07-28
+2026-07-27
 
-來源：[NOWnews今日新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5S1BuRlhuRU0xSTZSbTd0WWdEeVpMQnhnRjdRTFQwTHczNVhLUXAxTFBDWFdpV1REVkx6YXJaZ3ppQVRiRDVlbjB5ZUnSAVJBVV95cUxNV2lpNDBfS29KdVQ2c1E3NldCVURyVmhuSG5hd1BUeEdlcDFLVFp1Yk03elFMalR5WS0zYnNCS2dXSmFOamZXSElKZ19ldEx4bkxR?oc=5)
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BRlRKUzUtOXVCcFBua2JvWXUwUTF6UG5XdWR6TjVtRTE3WGlCY0hUT2wzMmZRZUt1Zi03dU9jNlpIU0J1QXI4U2xYeXlXWGdhM29oS3B3?oc=5)
 
 ---
 
