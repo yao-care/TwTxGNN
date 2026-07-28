@@ -53,7 +53,7 @@ permalink: /news/gefitinib/
 
 ### [研究：阿茲海默症睡眠障礙 可能有關免疫細胞反應](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ySFJlN3FpdnZHRXRXWEJydTk3bGVIUVUyYUw1ZHNXcEhtby00cVBfR2lVeUcteVhTME9Ya2MzQlRyQzNpT3QtcmJkZDMxajZwU1pZc2JuQ3p0TFpOYTg5NVhpeXXSAWpBVV95cUxNWmlkYm9MUC0tTjA1Y3I5elE2cW9DejRjeVQ3NDMxb0xCdGVDMmF2aHMxcUZ6dUZncGFUeUFpb2xGQ1ZyMHlkaGZIUlZpNEFkdk9XU1VJY3hkVVFYcTRablI1VzlRQngwLThR?oc=5)
 
-2026-07-28 <span class="news-indication-tag">阿茲海默症</span>
+2026-07-28 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ySFJlN3FpdnZHRXRXWEJydTk3bGVIUVUyYUw1ZHNXcEhtby00cVBfR2lVeUcteVhTME9Ya2MzQlRyQzNpT3QtcmJkZDMxajZwU1pZc2JuQ3p0TFpOYTg5NVhpeXXSAWpBVV95cUxNWmlkYm9MUC0tTjA1Y3I5elE2cW9DejRjeVQ3NDMxb0xCdGVDMmF2aHMxcUZ6dUZncGFUeUFpb2xGQ1ZyMHlkaGZIUlZpNEFkdk9XU1VJY3hkVVFYcTRablI1VzlRQngwLThR?oc=5)
 

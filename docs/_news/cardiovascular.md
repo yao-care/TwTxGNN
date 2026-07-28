@@ -3,7 +3,7 @@ layout: default
 title: "心血管（cardiovascular） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "心血管（cardiovascular） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "心血管（cardiovascular） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/cardiovascular/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cardiovascular/
 ---
 
 <p class="key-answer" data-question="心血管（cardiovascular） 有什麼相關新聞？">
-<strong>心血管（cardiovascular）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心血管（cardiovascular）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,13 @@ permalink: /news/cardiovascular/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [走路會喘、膽固醇飆高恐是血管警訊！腦中風權威教你用「CPR三步導航」守護心腦血管健康| 信傳媒 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9va1pWQkMwdTFVRzlEV1ZlWnAzQXdON3htaE4zUkZTTUgwaTZhZFk1RjI3S0c2SWN1MWs5ek1aODBJR3dHbk0xbjNQaEFVWGpYc1R1b0Nn?oc=5)
+### [走路會喘、膽固醇飆高恐是血管警訊！腦中風權威教你用「CPR三步導航」守護心腦血管健康](https://news.google.com/rss/articles/CBMigARBVV95cUxPVnBpS1BPa0p2MXN4TngxWERadUd2bnR6NDQ4RDIyMi1SUEV6eDk2a2VkVjRSeXhlVzB5cTdLNGh0aGhhdW1VY25aUzIzOGk5Y2xwWWZQSWQyR08yX204QlFzNU5nWnlPSFFmazJPOEhrUHRma0xVWHNFWHh4U2txb2JFQ3pud1MwSVhQUUI4eUVRcUxRWGtMRlVKQzRJTjlCMVNBRUhWay1hanBtcjcwT05RelVEaEhOcDhnU2Q5N1l0Y2NCb1JpWHF4Qkp4QVV3dm1LNjk2eTg2Q25qcUZPWVUtSGFMMFQxWFY0Z2ljOGlRNGFfY1dPTTRsbmdnVTZmYVZ5NkJiUWpXRUVXTkVDbXA3NlkzOGJWWHVXcGhfX3BpWm9JWjY0c01KQXZUM0hGTEpVOTJBSDd0V09lelp2OTg3TjB4cU00QTM3ZGFMWlFtYUdpbXdOWDItXzNKNXhwRk0ySTFnb0ROcGVvYmh6cm1vNW1xODJ3LWxyMy0tN1NXRkZ5Zmh6ZXdqWHBIXzItTVNtekRROWxYbk5KLW5VVjRwaERtZXVERi16M29aclFZU1luNEJETDAwcFBxWU5QZUNab3JNRHFmWEFqWDFrS0l5cjBvTl9JcVZOV19DVXYyVVNJVG1fQ1VBT1E3cE51NUJ4ZVUxdGxZSTZNMGx6Qw?oc=5)
 
 2026-07-28
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9va1pWQkMwdTFVRzlEV1ZlWnAzQXdON3htaE4zUkZTTUgwaTZhZFk1RjI3S0c2SWN1MWs5ek1aODBJR3dHbk0xbjNQaEFVWGpYc1R1b0Nn?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMigARBVV95cUxPVnBpS1BPa0p2MXN4TngxWERadUd2bnR6NDQ4RDIyMi1SUEV6eDk2a2VkVjRSeXhlVzB5cTdLNGh0aGhhdW1VY25aUzIzOGk5Y2xwWWZQSWQyR08yX204QlFzNU5nWnlPSFFmazJPOEhrUHRma0xVWHNFWHh4U2txb2JFQ3pud1MwSVhQUUI4eUVRcUxRWGtMRlVKQzRJTjlCMVNBRUhWay1hanBtcjcwT05RelVEaEhOcDhnU2Q5N1l0Y2NCb1JpWHF4Qkp4QVV3dm1LNjk2eTg2Q25qcUZPWVUtSGFMMFQxWFY0Z2ljOGlRNGFfY1dPTTRsbmdnVTZmYVZ5NkJiUWpXRUVXTkVDbXA3NlkzOGJWWHVXcGhfX3BpWm9JWjY0c01KQXZUM0hGTEpVOTJBSDd0V09lelp2OTg3TjB4cU00QTM3ZGFMWlFtYUdpbXdOWDItXzNKNXhwRk0ySTFnb0ROcGVvYmh6cm1vNW1xODJ3LWxyMy0tN1NXRkZ5Zmh6ZXdqWHBIXzItTVNtekRROWxYbk5KLW5VVjRwaERtZXVERi16M29aclFZU1luNEJETDAwcFBxWU5QZUNab3JNRHFmWEFqWDFrS0l5cjBvTl9JcVZOV19DVXYyVVNJVG1fQ1VBT1E3cE51NUJ4ZVUxdGxZSTZNMGx6Qw?oc=5)
 
 ---
 
@@ -44,6 +44,14 @@ permalink: /news/cardiovascular/
 2026-07-28
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiqANBVV95cUxQYkRCbTAwX2tfZlQ5Z29hUkcwZXoyT2M0Z0tncVdfc1o1UjZmSWk2anUzMFVLa0d4MGxBWWRxNkJXMHo3ZFZYNGhIaFUzTEtXY2lQVVNRVWUtZ1BEaFpoSmtNUS1CbWtzWXRoQmhHNGI5ekFkUEo2RXRqWlBaZjRxSnUtaG4xM2dpdm1ydnJXRm5uOE9GQ0ctMGg5TDFoYVNuZFF1d0NVUXlZM3NSclRGYTRKcnZtY2FWODh5eHBaZXhGRDRTNUtpdnhTbUFDdnVHME5YN2VpOVdiY09iZkdhUHJQWUkxN0pwSGZyZFo3cEpTQnV1dXBZeWlIOFoxTjRudmJSN2FiOGUwSkkyRzlQYW9zakdXOU0yXzc5N0VrUGoxSWhhVEdKb2xsQldPUTFPOHBsRUlVUWJGS09XUXc3ZktrS0lWYzIyTC1iU1l4ZmRsQXE4dVJHeTdJcWs1M1VFWFREa1h3TjVyS3MzZUluTEd3YkJrbDdQVEctRGdjYTRCeV9IXzZkbDBDeGJTMXQ5UDFnRmhnVG5NSWZaYjFDNDctUjBJSEZC?oc=5)
+
+---
+
+### [預防心血管疾病 從健康生活做起](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd3BNYWpqaVVZWjA2RFl5eGh2UWczS0d1WXhQeFZJZUpWX2FSRW5RdldWVDd2d201cjR6MDI0TkYyTzMyOVBuNFlGbk1CNngtTktuMnNDMjdhWG03eG9OZ2ZmbG12WGhoNF81UXpCOVMwRld1dGRyWk1sVHY2WThDUEg0TDlTS2UyQmk5bXMxZE5tX1VOMHpvRldDRGw2T2JjN05lRzJEV3JEWFpGa0V4Y2tteHBUOFFSX1NWYlNUZWFOSmthaE1CRGw1RXFTTW5vWnhsWFlCdXJMWkNfR3NNakdPWQ?oc=5)
+
+2026-07-27
+
+來源：[澎湖e傳媒](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd3BNYWpqaVVZWjA2RFl5eGh2UWczS0d1WXhQeFZJZUpWX2FSRW5RdldWVDd2d201cjR6MDI0TkYyTzMyOVBuNFlGbk1CNngtTktuMnNDMjdhWG03eG9OZ2ZmbG12WGhoNF81UXpCOVMwRld1dGRyWk1sVHY2WThDUEg0TDlTS2UyQmk5bXMxZE5tX1VOMHpvRldDRGw2T2JjN05lRzJEV3JEWFpGa0V4Y2tteHBUOFFSX1NWYlNUZWFOSmthaE1CRGw1RXFTTW5vWnhsWFlCdXJMWkNfR3NNakdPWQ?oc=5)
 
 ---
 
