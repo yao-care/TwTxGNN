@@ -14,7 +14,7 @@ permalink: /news/anastrozole/
 ---
 
 <p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
-<strong>Anastrozole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Anastrozole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,13 +38,21 @@ permalink: /news/anastrozole/
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [不只補鈣！醫揭維生素D強大功能](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UaFMtc3VidHBwLW9JUDV1NkN0eXIzaXl2X29QVERhbUlZcUpGeWpzYjJZdEtiYmJPc0VFbDExU2pGMzFORDIzU2RDRW54cG8?oc=5)
 
 2026-07-28 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[翻爆](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UaFMtc3VidHBwLW9JUDV1NkN0eXIzaXl2X29QVERhbUlZcUpGeWpzYjJZdEtiYmJPc0VFbDExU2pGMzFORDIzU2RDRW54cG8?oc=5)
+
+---
+
+### [飲酒乳癌｜32歲女每晚飲紅酒患乳癌？醫生揭：飲酒易面紅者要注意](https://news.google.com/rss/articles/CBMinANBVV95cUxNTmloM2l4d1pvcTFocXZuamtYWGNXX2NnNjdNR0EtWkMzSUFfOVZJekFmVzlQZS1ZNG5TbjFHLWhnRTlrcVhwVTVSNWpBWDRsLUVNcFVRYzZZTm9vcTBtd241MnRWYnBpWTV1NTFaUDg0Tm9hSVA2Rk9Kd2YxWUlJOXNGR29RU2Z5eW9hY2NKby1COUlhc1BoWWN6d0lnTWl2WXhDYkM0WXFDNW5EX0Nwb2lWdmJzajZ3ejg5TWNPUkZHMkJmZ2ZCWmpxR1FhTEN6R1hhVVkyNUpXSTQxVERMVWhiaFNJcG9VTDZVMXNuOVJWZWdrOXFDbFRBZFVQTHRDRHpfSEpIZUt1enpfZHNWbm1XNjRQWS1SdGRNYUdmMXdSZlo1RUpkZE1Mbzh0NkpVRW9FSUIwOG5ycld1bU9zVVFuU1Z1bnpndjhxOWo1ZnNSQjdZVTNmdEdWSENvUG9hTVpzQXpEQmtmRVZGd2lxYW1Sekl1MmFnYzNoVFcwaU5ySWhGOHgzZU5wSGduOEtRX3hqZ19UQVJvYlAz?oc=5)
+
+2026-07-28 <span class="news-indication-tag">乳癌</span>
+
+來源：[香港01](https://news.google.com/rss/articles/CBMinANBVV95cUxNTmloM2l4d1pvcTFocXZuamtYWGNXX2NnNjdNR0EtWkMzSUFfOVZJekFmVzlQZS1ZNG5TbjFHLWhnRTlrcVhwVTVSNWpBWDRsLUVNcFVRYzZZTm9vcTBtd241MnRWYnBpWTV1NTFaUDg0Tm9hSVA2Rk9Kd2YxWUlJOXNGR29RU2Z5eW9hY2NKby1COUlhc1BoWWN6d0lnTWl2WXhDYkM0WXFDNW5EX0Nwb2lWdmJzajZ3ejg5TWNPUkZHMkJmZ2ZCWmpxR1FhTEN6R1hhVVkyNUpXSTQxVERMVWhiaFNJcG9VTDZVMXNuOVJWZWdrOXFDbFRBZFVQTHRDRHpfSEpIZUt1enpfZHNWbm1XNjRQWS1SdGRNYUdmMXdSZlo1RUpkZE1Mbzh0NkpVRW9FSUIwOG5ycld1bU9zVVFuU1Z1bnpndjhxOWo1ZnNSQjdZVTNmdEdWSENvUG9hTVpzQXpEQmtmRVZGd2lxYW1Sekl1MmFnYzNoVFcwaU5ySWhGOHgzZU5wSGduOEtRX3hqZ19UQVJvYlAz?oc=5)
 
 ---
 
