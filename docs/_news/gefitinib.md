@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [預防心血管疾病 從健康生活做起](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd3BNYWpqaVVZWjA2RFl5eGh2UWczS0d1WXhQeFZJZUpWX2FSRW5RdldWVDd2d201cjR6MDI0TkYyTzMyOVBuNFlGbk1CNngtTktuMnNDMjdhWG03eG9OZ2ZmbG12WGhoNF81UXpCOVMwRld1dGRyWk1sVHY2WThDUEg0TDlTS2UyQmk5bXMxZE5tX1VOMHpvRldDRGw2T2JjN05lRzJEV3JEWFpGa0V4Y2tteHBUOFFSX1NWYlNUZWFOSmthaE1CRGw1RXFTTW5vWnhsWFlCdXJMWkNfR3NNakdPWQ?oc=5)
 
@@ -64,6 +64,14 @@ permalink: /news/gefitinib/
 2026-07-27 <span class="news-indication-tag">失智</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUQVZIZnA1M3JzRi01aFc1bUFKNnpjOHBtSUROcVNfUEN3NUpGRUdZdFNVQ3RsNXF5Wi1RWnNGalg2MmhQNDhncm1EbFdxa25nRk1sYmJ1SWdsVXNaVVl1VUpkM0TSAWpBVV95cUxQYzF4VFlZc2d2S2NPa2MyYWZSZENJZUNHay1MX1oxRzhERjdxbHQ3bkVOSm50SGZKUDZwdXpCenFQVVdqR1BVRnh2M2l2NjRoVkxldG40RTNDNDdzczd3UFlQRVpNWVJyblVn?oc=5)
+
+---
+
+### [前英國女王長壽秘訣？「麥得飲食」護腦、抗發炎兼延緩認知衰退！4大功效及女王飲食菜單一次看](https://news.google.com/rss/articles/CBMitgJBVV95cUxPVFBvSHVoSl85aFRMajh4WEpIUzBIYUtjY05LQXhyUHY3SG05ZjYxTklMampSdkRhalVLVHFIZVNIdEllZWZOYmJKcm8zc29BWjhtY1JVSFJsemQ2T0t1VFhQNnBHWlpOblRPQW9XalY5cExmMG1iZ2dZamhzUVBMWEpyT1lEbzI5cjNRR2ROalJVSnM2eTl3Qk1oZnN6dzIzVHZKYV84Z1Z5b3U0QmlHTTl4VHFhc0dIRTA0VC1GYTVwVU9WUTJNRWI2VWNMdDRhZTV3VS1JNWRSMXRGNE1iRlVEVlZJZ2pvYXBXQlNVX3hNd18wcFFOd1NxbE5iNkNtdDJJRURLQmFIRHA3OEtTQkw4RWdlZm9qc0pKQ1FKOE91TFF3LUpyQy1mVkhXdGVEMXhOWkxn?oc=5)
+
+2026-07-26 <span class="news-indication-tag">失智</span>
+
+來源：[she.com](https://news.google.com/rss/articles/CBMitgJBVV95cUxPVFBvSHVoSl85aFRMajh4WEpIUzBIYUtjY05LQXhyUHY3SG05ZjYxTklMampSdkRhalVLVHFIZVNIdEllZWZOYmJKcm8zc29BWjhtY1JVSFJsemQ2T0t1VFhQNnBHWlpOblRPQW9XalY5cExmMG1iZ2dZamhzUVBMWEpyT1lEbzI5cjNRR2ROalJVSnM2eTl3Qk1oZnN6dzIzVHZKYV84Z1Z5b3U0QmlHTTl4VHFhc0dIRTA0VC1GYTVwVU9WUTJNRWI2VWNMdDRhZTV3VS1JNWRSMXRGNE1iRlVEVlZJZ2pvYXBXQlNVX3hNd18wcFFOd1NxbE5iNkNtdDJJRURLQmFIRHA3OEtTQkw4RWdlZm9qc0pKQ1FKOE91TFF3LUpyQy1mVkhXdGVEMXhOWkxn?oc=5)
 
 ---
 

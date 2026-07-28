@@ -1,8 +1,149 @@
 {
-  "last_updated": "2026-07-27T23:58:30.013236+00:00",
+  "last_updated": "2026-07-28T02:30:12.657197+00:00",
   "total_count": 31,
-  "matched_count": 11,
+  "matched_count": 14,
   "news": [
+    {
+      "id": "702fd2bd9568",
+      "title": "這蔬菜鈣含量竟超越牛奶！不只護眼又顧心血管，營養師：別跟２類食物一起吃",
+      "published": "2026-07-28T02:15:00+00:00",
+      "summary": "這蔬菜鈣含量竟超越牛奶！不只護眼又顧心血管，營養師：別跟２類食物一起吃&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQYkRCbTAwX2tfZlQ5Z29hUkcwZXoyT2M0Z0tncVdfc1o1UjZmSWk2anUzMFVLa0d4MGxBWWRxNkJXMHo3ZFZYNGhIaFUzTEtXY2lQVVNRVWUtZ1BEaFpoSmtNUS1CbWtzWXRoQmhHNGI5ekFkUEo2RXRqWlBaZjRxSnUtaG4xM2dpdm1ydnJXRm5uOE9GQ0ctMGg5TDFoYVNuZFF1d0NVUXlZM3NSclRGYTRKcnZtY2FWODh5eHBaZXhGRDRTNUtpdnhTbUFDdnVHME5YN2VpOVdiY09iZkdhUHJQWUkxN0pwSGZyZFo3cEpTQnV1dXBZeWlIOFoxTjRudmJSN2FiOGUwSkkyRzlQYW9zakdXOU0yXzc5N0VrUGoxSWhhVEdKb2xsQldPUTFPOHBsRUlVUWJGS09XUXc3ZktrS0lWYzIyTC1iU1l4ZmRsQXE4dVJHeTdJcWs1M1VFWFREa1h3TjVyS3MzZUluTEd3YkJrbDdQVEctRGdjYTRCeV9IXzZkbDBDeGJTMXQ5UDFnRmhnVG5NSWZaYjFDNDctUjBJSEZC?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "951007391d01",
+      "title": "活越久病越久新加坡人晚年多花12年與疾病共存長壽代價曝光- 趨勢",
+      "published": "2026-07-28T01:33:02+00:00",
+      "summary": "活越久病越久新加坡人晚年多花12年與疾病共存長壽代價曝光- 趨勢&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43WjdIWmZiMDk1ZTB6allKVDdxUW9PazNpM2JFUTV2Rm9ydFotMHJtRE1aQ1lmcHRwc0dMLXR3Ni1ZLW9wVjZGMDBObmxIQWZIM3ZIZkRvd3B2SE5SZnpJWjRpT0I4ZnRuZGo2RGZn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "cc728b374c35",
+      "title": "不菸不酒仍罹病 HPV成口咽癌隱憂",
+      "published": "2026-07-28T01:08:41+00:00",
+      "summary": "不菸不酒仍罹病 HPV成口咽癌隱憂&nbsp;&nbsp;人間福報電子報口咽癌悄竄升、男性患者增加！醫示警：不菸不酒仍躲不過HPV&nbsp;&nbsp;Yahoo新聞「口咽癌」超越子宮頸癌！727世界抗頭頸癌日 醫籲： 全民必備HPV防禦率&nbsp;&nbsp;PChome Online 新聞健康網》11歲為何要打HPV疫苗 醫：提早建免疫城牆&nbsp;&nbsp;自由健康網727世界抗頭頸癌日！口咽癌威脅升高，醫籲：不菸不酒也可能感染HPV，及早預防降低風險| 何長澤| 地方新聞&nbsp;&nbsp;風傳媒",
+      "sources": [
+        {
+          "name": "人間福報電子報",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ndGZZUWJNcm9sTXlrOWNSd19lbTBPemtkWUhPLTNIN0xQc1RpazRqS21kWjRWTVdhcU50amFDX09PVkNpaUJnbDJSQjZ0d2EtQ014UmI5bEwxWW56VWdIQ1BrWV9JOUE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "頭頸癌",
+          "keyword": "頭頸癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11bb9f830ca9",
+      "title": "新冠肺炎又回來了！醫示警「6症狀」趕緊快篩：沒發燒不代表躲過",
+      "published": "2026-07-28T00:31:32+00:00",
+      "summary": "新冠肺炎又回來了！醫示警「6症狀」趕緊快篩：沒發燒不代表躲過&nbsp;&nbsp;NOWnews今日新聞新冠捲土重來！醫提醒出現「6症狀」就該快篩 沒發燒也可能中鏢&nbsp;&nbsp;Yahoo新聞新冠症狀是什麼？發燒、喉嚨痛是流感還是感冒？三合一快篩一次驗3種，哪裡有賣？3大APP秒查庫存&nbsp;&nbsp;今周刊網傳快篩缺貨！羅一鈞破解「假訊息」：還有63萬劑估可供應至8月底&nbsp;&nbsp;三立新聞新冠流感齊發！「三合一快篩」免戳兩次鼻 3大APP秒查庫存&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "NOWnews今日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5S1BuRlhuRU0xSTZSbTd0WWdEeVpMQnhnRjdRTFQwTHczNVhLUXAxTFBDWFdpV1REVkx6YXJaZ3ppQVRiRDVlbjB5ZUnSAVJBVV95cUxNV2lpNDBfS29KdVQ2c1E3NldCVURyVmhuSG5hd1BUeEdlcDFLVFp1Yk03elFMalR5WS0zYnNCS2dXSmFOamZXSElKZ19ldEx4bkxR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2d2c995366d",
+      "title": "照護線上》預防嬰幼兒呼吸道細胞融合病毒RSV怎麼做？RSV單株抗體、RSV孕婦疫苗差在哪？醫解析重症與氣喘風險",
+      "published": "2026-07-28T00:00:00+00:00",
+      "summary": "照護線上》預防嬰幼兒呼吸道細胞融合病毒RSV怎麼做？RSV單株抗體、RSV孕婦疫苗差在哪？醫解析重症與氣喘風險&nbsp;&nbsp;自由評論網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "自由評論網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uSWxaTHNNWFByLXBYakw0UlNudWVpQ2NKdUxkX01kWjVJUEt1bXZjeXRfY2FCY3hHZGtrUlNEb25STV9qMWEzbHdrSEN5WjR6Z011WGlHTHdUbzVJRk1IMnBn0gFnQVVfeXFMTWpwQkl5QUUxX2dIdmt6RGlOTlA0a2h1c0pRQUxJZVc5QUJIaEtET3RUb0ZrWGJfbW9Ec2pBRDdMZDBEU2Rmci1QWWRJaFhycmlLdHJ6clhzQnJRYkdZZmMyTUp1Z2xJRQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "氣喘",
+          "keyword": "氣喘",
+          "related_drugs": [
+            {
+              "slug": "dupilumab",
+              "name": "Dupilumab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1a092887e45e",
+      "title": "川普砍外援！聯合國警告：全球愛滋病防治資金驟減近2成",
+      "published": "2026-07-27T17:03:10+00:00",
+      "summary": "川普砍外援！聯合國警告：全球愛滋病防治資金驟減近2成&nbsp;&nbsp;民視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4weTFRbTRQeXB6ejVONGdIWVRlczBQNWdxVjJvdTFoUTc3NlBNSVppaGo5SXlVTWJmMXpBZEFOWmU4X2dTOC1BSEREVVVNaHR5QV9QWnEtdnFFb0pmNXRyUg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "5019ca8d7409",
       "title": "預防心血管疾病 從健康生活做起",
@@ -410,46 +551,6 @@
       "matched_keywords": []
     },
     {
-      "id": "9ceecde59c57",
-      "title": "口咽癌」超越子宮頸癌！727世界抗頭頸癌日 醫籲：不菸不酒也中鏢 全民必備HPV防禦率",
-      "published": "2026-07-27T07:41:08+00:00",
-      "summary": "口咽癌」超越子宮頸癌！727世界抗頭頸癌日 醫籲：不菸不酒也中鏢 全民必備HPV防禦率&nbsp;&nbsp;良醫健康網口咽癌悄竄升、男性患者增加！醫示警：不菸不酒仍躲不過HPV&nbsp;&nbsp;UDN「口咽癌」超越子宮頸癌！727世界抗頭頸癌日 醫籲： 全民必備HPV防禦率&nbsp;&nbsp;PChome Online 新聞HPV疫苗不只防菜花！醫揭更重要用途「降低多種癌風險」&nbsp;&nbsp;中天新聞網727世界抗頭頸癌日！口咽癌威脅升高，醫籲：不菸不酒也可能感染HPV，及早預防降低風險| 何長澤| 地方新聞&nbsp;&nbsp;風傳媒",
-      "sources": [
-        {
-          "name": "良醫健康網",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84b1h4LXRRQUhLYXQxSGdJMFQ3M3VobWNGUTNvNC1uTkVpMkpIR28ybUlBMDVaaWhxZVhGdThYTzFBMnFOSTdjWl8tNGUxeWRDU2lKNmp2X216WEdSdUYwVVZTY1VjUklPcHc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "頭頸癌",
-          "keyword": "頭頸癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "5f9c46f725de",
       "title": "脖子、腋下長小肉芽？醫揭「可能原因」 這類人最好檢查血糖",
       "published": "2026-07-27T07:00:04+00:00",
@@ -458,32 +559,6 @@
         {
           "name": "台視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xdmJVMTlUVTlhbWJwVEE2NkZ5dEJreUtzSzZ2WkQwc3FSejdpYW1DVlRiLW1xUWNURHBaS1hnMmwxazhoc25SWkJTWTZ1bUF3dUw5ZW8yYw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "da069645049d",
-      "title": "美國調整愛滋防治策略 承認須涵蓋所有高風險族群",
-      "published": "2026-07-27T06:21:57+00:00",
-      "summary": "美國調整愛滋防治策略 承認須涵蓋所有高風險族群&nbsp;&nbsp;行銷人",
-      "sources": [
-        {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPbmpyVWtUaXZ3YTM5WjRHYTBIdWo4Y3YxYmljT3p2VUNNY1FXNE5WNnc3Wm9xVlc1akMyRUVBVXRQTFNmak1KSTdxNlVEYVlFQWcxM0JsNHlvZ0diRDZGMktqakE4cXplWDZfQ0w2STgzM2dPUWRBeWJoX1dsQkN6eVdPRy0ybkE2SVl2eGZjZExyX2RycWh3c0Z5TTdMV1dYRXA1Q0lhbEtESk5mdHZ5ZjBVZnp4MV95TXFsNVA2YTNZSjZZNG1tWlF2X3dETkZBUm1COGtjZ1h3NDE5dlFCaEcwQnNuSkJjOEljV0U2N01WVldBNmJhLUdrbXEtZ1Q0aFdmS1FsUVF5TjdaQ3RTZFpDUUFDN3ZDd3Q4QjQtVmRBZ3NQSDhvd2hwUHRFNDlyajZ3NHlqRUFaLUZBUmNMWjRsamlHZVhtOUJkZVpWSzVZU0RNaEo1a3R1WXpKMFRqWERobUZMdlZYLXBBa1RVNUQ4aw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "26be224d5608",
-      "title": "吃對少得3種慢性病！15年研究揭露3大神級吃法78歲護腦最有效- 營養好食 - TVBS 健康2.0",
-      "published": "2026-07-27T04:57:00+00:00",
-      "summary": "吃對少得3種慢性病！15年研究揭露3大神級吃法78歲護腦最有效- 營養好食&nbsp;&nbsp;TVBS 健康2.0前英國女王長壽秘訣？「麥得飲食」護腦、抗發炎兼延緩認知衰退！4大功效及女王飲食菜單一次看&nbsp;&nbsp;she.com哈佛研究「全球長壽者」抗癌抗老這樣吃！6招健康飲食法必吃高蛋白蔬菜、魚類與橄欖油&nbsp;&nbsp;ELLE長壽｜研究證4類植物性食物抗老助防癌 進食6原則水果換顏色吃&nbsp;&nbsp;香港01研究揭3大護腦食物！抗氧化、抗發炎、增進記憶一次顧&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15aG1nOUYxXy1tV1hNUTVFZDRHU2doZDgtM2t0eFNpakRJSGpwN1dpX3hJWGNRWlB3WTdjMEtOelBxcjh1WHFLeDlMdmZtbzVYemNLQW9R?oc=5"
         }
       ],
       "matched_keywords": []
@@ -525,19 +600,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "10c26907d300",
-      "title": "住戶心驚驚！黑心維冠「龍門世家」3期震後牆裂、磚瓦落| 生活",
-      "published": "2026-07-27T04:14:55+00:00",
-      "summary": "住戶心驚驚！黑心維冠「龍門世家」3期震後牆裂、磚瓦落| 生活&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4yZG9NaVFXdWRiaFR3Mkw4RWg4STR6X1FjbzVscWVoWW9Qc1F5YXk2bC1mcXB5SUJWaTJaYXR5OExabW9yNUkw?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "89e4c3c88be2",
@@ -707,101 +769,6 @@
       "matched_keywords": []
     },
     {
-      "id": "1277f8b54ebc",
-      "title": "上呼吸道感染誘心臟病 打對疫苗 心梗風險降48% - 20260727 - 副刊",
-      "published": "2026-07-26T20:30:00+00:00",
-      "summary": "上呼吸道感染誘心臟病 打對疫苗 心梗風險降48% - 20260727 - 副刊&nbsp;&nbsp;明報新聞網出生即享保護力！單株抗體助新生兒遠離重症住院威脅&nbsp;&nbsp;台灣民眾電子報預防嬰幼兒呼吸道細胞融合病毒RSV怎麼做？RSV單株抗體、RSV孕婦疫苗差在哪？醫解析重症與氣喘風險&nbsp;&nbsp;PanSci 泛科學",
-      "sources": [
-        {
-          "name": "明報新聞網",
-          "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOd21CMTZkY2lDRzRJNHMwbGNyTWVxTjVhUlU5bl9qeUF1aFp2TDkwNktXQU1raXNoTk43VHpYalF5Yms4eURxUnNYUnpab1NlRF9WNF9xTzRmNzgzQUVBRWx4MUFRV0pyRy1tOHdYdE9mQVdDcGJTcUlOWWxBTUJXU2Nmc0tuQ3k4QXNwcV9XSXBjOEFZZXE5UHVmQzI0WjlqcW1nOXN5SGR6RVhiUDVuVk8xRzdrU0h1NEE3eEhOQWltN2JKSDRhYXBjM0xZQk1kdTlHR0ZJVTdYZHA0Q0N5NkliVzBITjRDZWlUZXNEaTd1SFJrTGRvcXlRd214VnBQeS1abVJOVmdacFpHQ012UjdKU05qRjhxNWJVdFNYemdqbGFRdmFwbFpIUm84VHNUT1k1bGpUZ18yYTFWb3pwR1E5ZDdTTGNRdDBadXgtazNrQjhiQVY2VXltbmpGU213NXU5NVBlZ2ZNaGptUVhrZ1R5RFBLdTk2?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心梗",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "氣喘",
-          "keyword": "氣喘",
-          "related_drugs": [
-            {
-              "slug": "dupilumab",
-              "name": "Dupilumab"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "3a0b7cb2eaab",
       "title": "拆解抗曬誤區 助護膚防癌搽全效產品仍出問題",
       "published": "2026-07-26T20:14:43+00:00",
@@ -878,6 +845,31 @@
       "matched_keywords": []
     },
     {
+      "id": "aafc66c1bb86",
+      "title": "前英國女王長壽秘訣？「麥得飲食」護腦、抗發炎兼延緩認知衰退！4大功效及女王飲食菜單一次看",
+      "published": "2026-07-26T07:00:00+00:00",
+      "summary": "前英國女王長壽秘訣？「麥得飲食」護腦、抗發炎兼延緩認知衰退！4大功效及女王飲食菜單一次看&nbsp;&nbsp;she.com吃對少得3種慢性病！15年研究揭露3大神級吃法78歲護腦最有效- 營養好食&nbsp;&nbsp;TVBS 健康2.0哈佛研究「全球長壽者」抗癌抗老這樣吃！6招健康飲食法必吃高蛋白蔬菜、魚類與橄欖油&nbsp;&nbsp;ELLE長壽｜研究證4類植物性食物抗老助防癌 進食6原則水果換顏色吃&nbsp;&nbsp;香港0110年後28萬港人患認知障礙！醫生教食5種護腦食物預防：「這水果」延緩失智風險47%&nbsp;&nbsp;UHK 港生活",
+      "sources": [
+        {
+          "name": "she.com",
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPVFBvSHVoSl85aFRMajh4WEpIUzBIYUtjY05LQXhyUHY3SG05ZjYxTklMampSdkRhalVLVHFIZVNIdEllZWZOYmJKcm8zc29BWjhtY1JVSFJsemQ2T0t1VFhQNnBHWlpOblRPQW9XalY5cExmMG1iZ2dZamhzUVBMWEpyT1lEbzI5cjNRR2ROalJVSnM2eTl3Qk1oZnN6dzIzVHZKYV84Z1Z5b3U0QmlHTTl4VHFhc0dIRTA0VC1GYTVwVU9WUTJNRWI2VWNMdDRhZTV3VS1JNWRSMXRGNE1iRlVEVlZJZ2pvYXBXQlNVX3hNd18wcFFOd1NxbE5iNkNtdDJJRURLQmFIRHA3OEtTQkw4RWdlZm9qc0pKQ1FKOE91TFF3LUpyQy1mVkhXdGVEMXhOWkxn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "32a99061bdfc",
       "title": "今年首例！農夫染「日本腦炎」個性改變還有這些可怕症狀| 生活",
       "published": "2026-07-26T04:33:50+00:00",
@@ -925,32 +917,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "482d3149cb48",
-      "title": "2900萬人吃的「減重神藥」 停藥一年身體竟出現這變化",
-      "published": "2026-07-26T01:19:51+00:00",
-      "summary": "2900萬人吃的「減重神藥」 停藥一年身體竟出現這變化&nbsp;&nbsp;世界新聞網GLP-1 減肥藥可望對抗主要物質成癮問題，科學家找到大腦關鍵機制&nbsp;&nbsp;TechNews 科技新報糖尿病藥物GLP-1受體促效劑，能降低酒精或物質濫用風險嗎？&nbsp;&nbsp;careonline.com.tw",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iMWZlSjhldGdiOTBwWV9nZHR0ZXRUUlVUNm9wMjFxTzFlYXFoNDJVV05yNF9Cc3FEbzVFb0ZhUlJvLVB2eHNOVDUyQWJ6NE50LXZBdmY4V1BMZEVBOEg3NUNB0gFnQVVfeXFMTjZnSFJPVHF2QTRid1BjQ2tzdlEyeGNoREZEWTFFcnlTSHZVMjNTUjdVRkRKRDNacXhZWmNpbUtIdU1NMXY1Smo5STE4ci1LQXpzaXZzeGd3bDZJU3pWeGszWmIxNWNwTQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "13fffac216a4",
-      "title": "身體發炎會使人憂鬱嗎？新研究這樣解釋",
-      "published": "2026-07-25T23:00:00+00:00",
-      "summary": "身體發炎會使人憂鬱嗎？新研究這樣解釋&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ucm5SNFcyMHVwOVZOUDNIN2c4aUJVZThBaVMwV1RqR25hRGpKZURWb013VS1IM0ZKWDhzWFBGWFBfdkw2M09VN2dvWDVla05YekFpajZMYzYyMkQ1QTkwStIBZkFVX3lxTE9YajMxT1pua21CMXhxTEUtUHIycnR5c1NjalcxSHY2dUZ2Z2dQanp5SjhPRnozTGxid3pBSm1QV05iclItUFZmNUVveWtZczM1Y0t3TFIxQWsxQUk3YmJxY2pwRjQ3UQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

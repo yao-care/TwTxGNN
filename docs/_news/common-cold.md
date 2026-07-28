@@ -3,7 +3,7 @@ layout: default
 title: "感冒（common cold） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "感冒（common cold） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "感冒（common cold） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒（common cold） 有什麼相關新聞？">
-<strong>感冒（common cold）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒（common cold）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [新冠肺炎又回來了！醫示警「6症狀」趕緊快篩：沒發燒不代表躲過](https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5S1BuRlhuRU0xSTZSbTd0WWdEeVpMQnhnRjdRTFQwTHczNVhLUXAxTFBDWFdpV1REVkx6YXJaZ3ppQVRiRDVlbjB5ZUnSAVJBVV95cUxNV2lpNDBfS29KdVQ2c1E3NldCVURyVmhuSG5hd1BUeEdlcDFLVFp1Yk03elFMalR5WS0zYnNCS2dXSmFOamZXSElKZ19ldEx4bkxR?oc=5)
+
+2026-07-28
+
+來源：[NOWnews今日新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5S1BuRlhuRU0xSTZSbTd0WWdEeVpMQnhnRjdRTFQwTHczNVhLUXAxTFBDWFdpV1REVkx6YXJaZ3ppQVRiRDVlbjB5ZUnSAVJBVV95cUxNV2lpNDBfS29KdVQ2c1E3NldCVURyVmhuSG5hd1BUeEdlcDFLVFp1Yk03elFMalR5WS0zYnNCS2dXSmFOamZXSElKZ19ldEx4bkxR?oc=5)
+
+---
 
 ### [感冒打針「左眼慘失明」！34歲泰女藥物過敏　動15次手術仍無解](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oX2NFTG9qc2F0YllZTlQzSlFFMFQwcS1XNHRWZ0xzajRQXzRLeEwzZ0wyN3cyR1o4cGc4YV9BOVlyUEpEWTR6XzNNWWx5WU8yZ3BGNjJRcDdubmlGMlHSAUtBVV95cUxOZUdxeTBBSUkyYmpPMmRKcVhJd1hmWWRxYnBUOVl1V0hFZXJhdkZCaVpTRGZCdE9maThYaFl0X2FpZHBkVjFvZ045S00?oc=5)
 

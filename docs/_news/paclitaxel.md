@@ -44,6 +44,14 @@ permalink: /news/paclitaxel/
 
 ## 相關新聞（3 則）
 
+### [不菸不酒仍罹病 HPV成口咽癌隱憂](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ndGZZUWJNcm9sTXlrOWNSd19lbTBPemtkWUhPLTNIN0xQc1RpazRqS21kWjRWTVdhcU50amFDX09PVkNpaUJnbDJSQjZ0d2EtQ014UmI5bEwxWW56VWdIQ1BrWV9JOUE?oc=5)
+
+2026-07-28 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">頭頸癌</span>
+
+來源：[人間福報電子報](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ndGZZUWJNcm9sTXlrOWNSd19lbTBPemtkWUhPLTNIN0xQc1RpazRqS21kWjRWTVdhcU50amFDX09PVkNpaUJnbDJSQjZ0d2EtQ014UmI5bEwxWW56VWdIQ1BrWV9JOUE?oc=5)
+
+---
+
 ### [預防心血管疾病 從健康生活做起](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd3BNYWpqaVVZWjA2RFl5eGh2UWczS0d1WXhQeFZJZUpWX2FSRW5RdldWVDd2d201cjR6MDI0TkYyTzMyOVBuNFlGbk1CNngtTktuMnNDMjdhWG03eG9OZ2ZmbG12WGhoNF81UXpCOVMwRld1dGRyWk1sVHY2WThDUEg0TDlTS2UyQmk5bXMxZE5tX1VOMHpvRldDRGw2T2JjN05lRzJEV3JEWFpGa0V4Y2tteHBUOFFSX1NWYlNUZWFOSmthaE1CRGw1RXFTTW5vWnhsWFlCdXJMWkNfR3NNakdPWQ?oc=5)
 
 2026-07-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">中風</span>
@@ -57,14 +65,6 @@ permalink: /news/paclitaxel/
 2026-07-27 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GLTdEbTk0ekIteHFpNXF1Tk5tY3ppQ2tsYmFiS1BwNXA2MWFiTUdTNWMyUmJyZlhtV0xVU1JsWW4xZ3k4aXFoY3pjSThmaVdmd1ljVTA3bGR3cHpINmUxT2pybm_SAWpBVV95cUxQbG5aNU5GWFNDRGFwaXdrdVhETlZwaXMxX1RhN0VSUTVkYng4Y3lsdXJrakJaNlVPRER2OEQ3UkcwR0FUMUVlbGRQMnc0RkE1UXpDWjVMZzJYSUhCUFk0Q3pScE0xZGJOM1Nn?oc=5)
-
----
-
-### [口咽癌」超越子宮頸癌！727世界抗頭頸癌日 醫籲：不菸不酒也中鏢 全民必備HPV防禦率](https://news.google.com/rss/articles/CBMiakFVX3lxTE84b1h4LXRRQUhLYXQxSGdJMFQ3M3VobWNGUTNvNC1uTkVpMkpIR28ybUlBMDVaaWhxZVhGdThYTzFBMnFOSTdjWl8tNGUxeWRDU2lKNmp2X216WEdSdUYwVVZTY1VjUklPcHc?oc=5)
-
-2026-07-27 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">頭頸癌</span>
-
-來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTE84b1h4LXRRQUhLYXQxSGdJMFQ3M3VobWNGUTNvNC1uTkVpMkpIR28ybUlBMDVaaWhxZVhGdThYTzFBMnFOSTdjWl8tNGUxeWRDU2lKNmp2X216WEdSdUYwVVZTY1VjUklPcHc?oc=5)
 
 ---
 
