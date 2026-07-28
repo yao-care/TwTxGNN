@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-07-28T15:59:01.394326+00:00",
+  "last_updated": "2026-07-28T17:26:08.638359+00:00",
   "total_count": 39,
   "matched_count": 13,
   "news": [
     {
-      "id": "571f0e90d41f",
+      "id": "a6a9e9a81b08",
       "title": "總是太體貼、太能忍？研究發現這些「好人特質」可能正傷害你的身體",
       "published": "2026-07-28T14:14:52+00:00",
       "summary": "總是太體貼、太能忍？研究發現這些「好人特質」可能正傷害你的身體&nbsp;&nbsp;經濟日報",
       "sources": [
         {
           "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zaWpQOE9MNEZyRW5KcWdQVm5iZWQ0cEZPcE5NZlp1aDVXSzgwYk1ZMFV6SWcyOERiWFdnbFY2TzV6M0g3SjRwNGhwWDRvR3hHOVJJVFNHdjYzUdIBX0FVX3lxTFBfRU9UVkotX3pMS2hGRDA4dlZJRmZRSlBFTm84d2RVNXVrSDdvZTY4UVJCT05VM1NXQXVJdHZFQk5LcGZaWmZPWFlsYTZZbGZnNDhiX1ZYSVlGdE5lQVZZ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfRU9UVkotX3pMS2hGRDA4dlZJRmZRSlBFTm84d2RVNXVrSDdvZTY4UVJCT05VM1NXQXVJdHZFQk5LcGZaWmZPWFlsYTZZbGZnNDhiX1ZYSVlGdE5lQVZZ0gFfQVVfeXFMUF9FT1RWSi1fekxLaEZEMDh2VklGZlFKUEVObzh3ZFU1dWtIN29lNjhRUkJPTlUzU1dBdUl0dkVCTktwZlpaZk9YWWxhNllsZmc0OGJfVlhJWUZ0TmVBVlk?oc=5"
         }
       ],
       "matched_keywords": []
@@ -45,7 +45,7 @@
       "id": "4604ca2d6b5b",
       "title": "不只補鈣！醫揭維生素D強大功能",
       "published": "2026-07-28T10:22:21+00:00",
-      "summary": "不只補鈣！醫揭維生素D強大功能&nbsp;&nbsp;翻爆健康網》維生素D補骨又防癌 醫揭濃度高大腸癌、乳癌風險降&nbsp;&nbsp;自由健康網維他命D不只存骨本！研究曝「能防3種癌」 還能降糖尿病風險&nbsp;&nbsp;三立新聞天天曬太陽也不夠 醫揭缺維生素D恐提高糖尿病、罹癌風險&nbsp;&nbsp;民報吃維生素D會失眠？醫揭高效補充3關鍵！&nbsp;&nbsp;news.ebc.net.tw",
+      "summary": "不只補鈣！醫揭維生素D強大功能&nbsp;&nbsp;翻爆健康網》維生素D補骨又防癌 醫揭濃度高大腸癌、乳癌風險降&nbsp;&nbsp;自由健康網維他命D不只存骨本！研究曝「能防3種癌」 還能降糖尿病風險&nbsp;&nbsp;三立新聞天天曬太陽也不夠 醫揭缺維生素D恐提高糖尿病、罹癌風險&nbsp;&nbsp;民報吃維生素D會失眠？醫揭高效補充3關鍵！&nbsp;&nbsp;東森新聞",
       "sources": [
         {
           "name": "翻爆",
@@ -290,7 +290,7 @@
       "id": "860f86014720",
       "title": "走路會喘、膽固醇飆高恐是血管警訊！腦中風權威教你用「CPR三步導航」守護心腦血管健康| 信傳媒 - LINE TODAY",
       "published": "2026-07-28T03:53:56+00:00",
-      "summary": "走路會喘、膽固醇飆高恐是血管警訊！腦中風權威教你用「CPR三步導航」守護心腦血管健康| 信傳媒&nbsp;&nbsp;LINE TODAY新版膽固醇指引改看長期風險 美研究：56.6%成年人符合他汀用藥建議&nbsp;&nbsp;Taiwan News壞膽固醇愈低愈好？2026最新膽固醇治療指南出爐：9歲開始，就要開始驗膽固醇&nbsp;&nbsp;PChome Online新聞壞膽固醇超標可增心血管病風險 美國心臟學會新指引︰19歲起定期量度血脂水平&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "走路會喘、膽固醇飆高恐是血管警訊！腦中風權威教你用「CPR三步導航」守護心腦血管健康| 信傳媒&nbsp;&nbsp;LINE TODAY新版膽固醇指引改看長期風險 美研究：56.6%成年人符合他汀用藥建議&nbsp;&nbsp;Taiwan News壞膽固醇愈低愈好？2026最新膽固醇治療指南出爐：9歲開始，就要開始驗膽固醇&nbsp;&nbsp;PChome Online 新聞壞膽固醇超標可增心血管病風險 美國心臟學會新指引︰19歲起定期量度血脂水平&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "LINE TODAY",
@@ -356,11 +356,24 @@
       "id": "7891a89fa65f",
       "title": "骨頭不痛不代表沒事！骨質疏鬆恐讓人一摔就骨折臥床，9類高風險族群要注意",
       "published": "2026-07-28T03:23:00+00:00",
-      "summary": "骨頭不痛不代表沒事！骨質疏鬆恐讓人一摔就骨折臥床，9類高風險族群要注意&nbsp;&nbsp;鏡新聞跌倒危機藏在日常中！掌握四大骨折警訊與三大保骨營養素&nbsp;&nbsp;macrocosm.tw暑假出遊帶長輩要注意！醫提醒：骨鬆高危族群「下車跨步」也可能骨折&nbsp;&nbsp;PChome Online新聞跌倒不是一時不小心 專家揭高齡者最容易忽略的3大原因&nbsp;&nbsp;元氣網輕摔就骨折？醫揭這幾個慢性病超傷骨&nbsp;&nbsp;news.ebc.net.tw",
+      "summary": "骨頭不痛不代表沒事！骨質疏鬆恐讓人一摔就骨折臥床，9類高風險族群要注意&nbsp;&nbsp;鏡新聞跌倒危機藏在日常中！掌握四大骨折警訊與三大保骨營養素&nbsp;&nbsp;macrocosm.tw暑假出遊帶長輩要注意！醫提醒：骨鬆高危族群「下車跨步」也可能骨折&nbsp;&nbsp;PChome Online 新聞跌倒不是一時不小心 專家揭高齡者最容易忽略的3大原因&nbsp;&nbsp;元氣網輕摔就骨折？醫揭這幾個慢性病超傷骨&nbsp;&nbsp;東森新聞",
       "sources": [
         {
           "name": "鏡新聞",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jUGdXbzNYeFJ1SW5QLU94Q3JYSF82bjM4SmE1bWdlYVBBWmhvYkR6eUZHU0FweFBtZUVyQ3RUQWlGTG5DUU5UelFzVXdBTXhxX01tY2FucVQydw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0b7ea1a94150",
+      "title": "男就診脫襪「護理站全安靜了」 醫搖頭：只能截肢- 健康",
+      "published": "2026-07-28T03:22:09+00:00",
+      "summary": "男就診脫襪「護理站全安靜了」 醫搖頭：只能截肢- 健康&nbsp;&nbsp;中時新聞網糖尿病截肢悲劇，近7成禍首竟是「穿錯鞋」？醫揭傷口治療的最大盲點 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報糖尿病男「喝手搖拒吃藥」急送ICU！護師脫襪全安靜：如殭屍乾黑&nbsp;&nbsp;ETtoday健康雲討論牆 | 男子患糖尿病不吃藥照吃大餐！敗血症急送ICU 「脫襪腳如殭屍乾黑」護師全安靜…&nbsp;&nbsp;LINE TODAY糖尿病男喝手搖拒吃藥！高燒送醫一脫襪全場安靜⋯「雙腳如殭屍」下場曝&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYNUZYRXFyYWV4bE50WDRrT1RqRTFvZFN1WEI3UlllX2RSQmlnczZyTm5FSW40ZFMyajJ1SXJLaTVjNGgxT2FYcGU4cVdZaE90SVBlZWZTbVltZGZOYWQ2TEx3MjEwVDJaRzBwbzFB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -420,7 +433,7 @@
       "id": "cc728b374c35",
       "title": "不菸不酒仍罹病 HPV成口咽癌隱憂",
       "published": "2026-07-28T01:08:41+00:00",
-      "summary": "不菸不酒仍罹病 HPV成口咽癌隱憂&nbsp;&nbsp;人間福報電子報口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險&nbsp;&nbsp;Yahoo新聞嘴巴破很久都好不了？醫師教您「口腔黏膜檢查」三大防癌關鍵- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online新聞不菸不酒也可能罹頭頸癌 醫示警：HPV 已成新危險因子&nbsp;&nbsp;Taiwan News口咽癌悄竄升、男性患者增加！醫示警：不菸不酒仍躲不過HPV&nbsp;&nbsp;元氣網",
+      "summary": "不菸不酒仍罹病 HPV成口咽癌隱憂&nbsp;&nbsp;人間福報電子報口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險&nbsp;&nbsp;Yahoo新聞嘴巴破很久都好不了？醫師教您「口腔黏膜檢查」三大防癌關鍵- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞不菸不酒也可能罹頭頸癌 醫示警：HPV 已成新危險因子&nbsp;&nbsp;Taiwan News口咽癌悄竄升、男性患者增加！醫示警：不菸不酒仍躲不過HPV&nbsp;&nbsp;元氣網",
       "sources": [
         {
           "name": "人間福報電子報",
@@ -506,19 +519,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "3cf32c184bdf",
-      "title": "糖尿病男「喝手搖拒吃藥」急送ICU！護師脫襪全安靜：如殭屍乾黑",
-      "published": "2026-07-27T12:24:00+00:00",
-      "summary": "糖尿病男「喝手搖拒吃藥」急送ICU！護師脫襪全安靜：如殭屍乾黑&nbsp;&nbsp;ETtoday健康雲糖尿病截肢悲劇，近7成禍首竟是「穿錯鞋」？醫揭傷口治療的最大盲點 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報男就診脫襪「護理站全安靜了」 醫搖頭：只能截肢- 健康&nbsp;&nbsp;中時新聞網討論牆 | 男子患糖尿病不吃藥照吃大餐！敗血症急送ICU 「脫襪腳如殭屍乾黑」護師全安靜…&nbsp;&nbsp;LINE TODAY糖尿病男喝手搖拒吃藥！高燒送醫一脫襪全場安靜⋯「雙腳如殭屍」下場曝&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14N0c2bGZyR1JoVFM1aVM4M2dISzhSeDFxeFZUOEtGQ1U1dlhUMFVoaVhXTmdaVUQzY0tRaTQteVpYcElFbjkxSDNueTNSZ1ZF0gFPQVVfeXFMTU1UOTFseG9lS1loUEdGeUpvNzJsbWM3aVpKbVk1aThIaUZRNzF0VjU0Wm1xSUxYQWpXcEFmZFp3cFZHMzJicU81YnAzRWl6TQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "45e17d7d5e7e",
@@ -653,7 +653,7 @@
       "id": "9058218a6de2",
       "title": "鈣片白吃了？骨頭要硬先補1營養！缺了它 鈣質無法分配恐釀血管鈣化",
       "published": "2026-07-27T00:02:19+00:00",
-      "summary": "鈣片白吃了？骨頭要硬先補1營養！缺了它 鈣質無法分配恐釀血管鈣化&nbsp;&nbsp;Yahoo新聞護骨從飲食做起：5種天天可吃的補鈣食物&nbsp;&nbsp;世界新聞網補鈣就能救骨頭？醫揭洗腎患者「這樣做」恐送命&nbsp;&nbsp;中天新聞網洗腎者小心「鈣」失控 嘉基醫師提醒定期追蹤 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online新聞治療骨鬆防骨折 醫提警訊：當心低血鈣誘發心律不整&nbsp;&nbsp;蕃新聞",
+      "summary": "鈣片白吃了？骨頭要硬先補1營養！缺了它 鈣質無法分配恐釀血管鈣化&nbsp;&nbsp;Yahoo新聞護骨從飲食做起：5種天天可吃的補鈣食物&nbsp;&nbsp;世界新聞網補鈣就能救骨頭？醫揭洗腎患者「這樣做」恐送命&nbsp;&nbsp;中天新聞網洗腎者小心「鈣」失控 嘉基醫師提醒定期追蹤 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞治療骨鬆防骨折 醫提警訊：當心低血鈣誘發心律不整&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -753,13 +753,13 @@
       "matched_keywords": []
     },
     {
-      "id": "2132fa14004e",
-      "title": "大腦就是這樣工作：破解愛恨情仇、成癮、恐懼等11大謎團 - 社會新聞 - PChome Online 新聞 - PChome Online新聞",
+      "id": "9b83a8f2a912",
+      "title": "大腦就是這樣工作：破解愛恨情仇、成癮、恐懼等11大謎團 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
       "published": "2026-07-26T21:15:33+00:00",
-      "summary": "大腦就是這樣工作：破解愛恨情仇、成癮、恐懼等11大謎團 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online新聞",
+      "summary": "大腦就是這樣工作：破解愛恨情仇、成癮、恐懼等11大謎團 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
-          "name": "PChome Online新聞",
+          "name": "PChome Online 新聞",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZUxQMy1nRmM5ZERpOFlmTVZLWnplZ0dvdlBHbUdnZWtVc2dkQTAtaVltUjloY0dzcVVJYVJ6eHZENUxpUS1yLTltYVJ2US1uVmFWazRZUjBLV1hRdXNrRWl3Vk0yUVFId0ZSN1lWQXlXQlFmUllydGw4ZHhoVHpDLXVOOFhsQ3RX?oc=5"
         }
       ],
