@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [預防心血管疾病 從健康生活做起](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd3BNYWpqaVVZWjA2RFl5eGh2UWczS0d1WXhQeFZJZUpWX2FSRW5RdldWVDd2d201cjR6MDI0TkYyTzMyOVBuNFlGbk1CNngtTktuMnNDMjdhWG03eG9OZ2ZmbG12WGhoNF81UXpCOVMwRld1dGRyWk1sVHY2WThDUEg0TDlTS2UyQmk5bXMxZE5tX1VOMHpvRldDRGw2T2JjN05lRzJEV3JEWFpGa0V4Y2tteHBUOFFSX1NWYlNUZWFOSmthaE1CRGw1RXFTTW5vWnhsWFlCdXJMWkNfR3NNakdPWQ?oc=5)
-
-2026-07-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">中風</span>
-
-來源：[澎湖e傳媒](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd3BNYWpqaVVZWjA2RFl5eGh2UWczS0d1WXhQeFZJZUpWX2FSRW5RdldWVDd2d201cjR6MDI0TkYyTzMyOVBuNFlGbk1CNngtTktuMnNDMjdhWG03eG9OZ2ZmbG12WGhoNF81UXpCOVMwRld1dGRyWk1sVHY2WThDUEg0TDlTS2UyQmk5bXMxZE5tX1VOMHpvRldDRGw2T2JjN05lRzJEV3JEWFpGa0V4Y2tteHBUOFFSX1NWYlNUZWFOSmthaE1CRGw1RXFTTW5vWnhsWFlCdXJMWkNfR3NNakdPWQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

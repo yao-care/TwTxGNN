@@ -1,39 +1,15 @@
 {
-  "generated": "2026-07-28T02:30:12.687823+00:00",
-  "count": 14,
+  "generated": "2026-07-28T05:38:38.042510+00:00",
+  "count": 12,
   "news": [
     {
-      "id": "702fd2bd9568",
-      "title": "這蔬菜鈣含量竟超越牛奶！不只護眼又顧心血管，營養師：別跟２類食物一起吃",
-      "published": "2026-07-28T02:15:00+00:00",
+      "id": "581795ba9919",
+      "title": "口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險",
+      "published": "2026-07-28T03:37:18+00:00",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQYkRCbTAwX2tfZlQ5Z29hUkcwZXoyT2M0Z0tncVdfc1o1UjZmSWk2anUzMFVLa0d4MGxBWWRxNkJXMHo3ZFZYNGhIaFUzTEtXY2lQVVNRVWUtZ1BEaFpoSmtNUS1CbWtzWXRoQmhHNGI5ekFkUEo2RXRqWlBaZjRxSnUtaG4xM2dpdm1ydnJXRm5uOE9GQ0ctMGg5TDFoYVNuZFF1d0NVUXlZM3NSclRGYTRKcnZtY2FWODh5eHBaZXhGRDRTNUtpdnhTbUFDdnVHME5YN2VpOVdiY09iZkdhUHJQWUkxN0pwSGZyZFo3cEpTQnV1dXBZeWlIOFoxTjRudmJSN2FiOGUwSkkyRzlQYW9zakdXOU0yXzc5N0VrUGoxSWhhVEdKb2xsQldPUTFPOHBsRUlVUWJGS09XUXc3ZktrS0lWYzIyTC1iU1l4ZmRsQXE4dVJHeTdJcWs1M1VFWFREa1h3TjVyS3MzZUluTEd3YkJrbDdQVEctRGdjYTRCeV9IXzZkbDBDeGJTMXQ5UDFnRmhnVG5NSWZaYjFDNDctUjBJSEZC?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cc728b374c35",
-      "title": "不菸不酒仍罹病 HPV成口咽癌隱憂",
-      "published": "2026-07-28T01:08:41+00:00",
-      "sources": [
-        {
-          "name": "人間福報電子報",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ndGZZUWJNcm9sTXlrOWNSd19lbTBPemtkWUhPLTNIN0xQc1RpazRqS21kWjRWTVdhcU50amFDX09PVkNpaUJnbDJSQjZ0d2EtQ014UmI5bEwxWW56VWdIQ1BrWV9JOUE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPMFg1T1g4dFNhLTJDSkNCRUdBNE9MR3hXVlpsWHNoY3gySFVRNndKX1pYMjFQcTlUSkNvM2xWaHBCTEp1MnZTNUpoclNqbmh6b3F5Yk92Nl9iVE55RFI3VGRwRzdLeExBUWFqa19vSElKNUw1bDZMSkx3RHZPbUhIQU9YLXc0YkNURjRTX29sY1Fia0EwemVjaTZZVmdtcWt5Ql9xUmxNblhBVE16X3RHR096TkFxNVBodjczdXdxVmRkd2VtNENBeWJoMmRPYmZiYzBiaVl0c0RjQm5OS0RLWFhldVdHOWU1MUZ2RXM2NmhqZnlVSzFLOTJFUU5JV2ItQmEwbXdxc2EwYmt5NTBnUll3NjVNd3VnaW1kNmY5RTZ6ejMtbkI3blNvSFBVNF82NHcta1Nmalg5RzBKUHc?oc=5"
         }
       ],
       "keywords": [
@@ -60,6 +36,30 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "702fd2bd9568",
+      "title": "這蔬菜鈣含量竟超越牛奶！不只護眼又顧心血管，營養師：別跟２類食物一起吃",
+      "published": "2026-07-28T02:15:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQYkRCbTAwX2tfZlQ5Z29hUkcwZXoyT2M0Z0tncVdfc1o1UjZmSWk2anUzMFVLa0d4MGxBWWRxNkJXMHo3ZFZYNGhIaFUzTEtXY2lQVVNRVWUtZ1BEaFpoSmtNUS1CbWtzWXRoQmhHNGI5ekFkUEo2RXRqWlBaZjRxSnUtaG4xM2dpdm1ydnJXRm5uOE9GQ0ctMGg5TDFoYVNuZFF1d0NVUXlZM3NSclRGYTRKcnZtY2FWODh5eHBaZXhGRDRTNUtpdnhTbUFDdnVHME5YN2VpOVdiY09iZkdhUHJQWUkxN0pwSGZyZFo3cEpTQnV1dXBZeWlIOFoxTjRudmJSN2FiOGUwSkkyRzlQYW9zakdXOU0yXzc5N0VrUGoxSWhhVEdKb2xsQldPUTFPOHBsRUlVUWJGS09XUXc3ZktrS0lWYzIyTC1iU1l4ZmRsQXE4dVJHeTdJcWs1M1VFWFREa1h3TjVyS3MzZUluTEd3YkJrbDdQVEctRGdjYTRCeV9IXzZkbDBDeGJTMXQ5UDFnRmhnVG5NSWZaYjFDNDctUjBJSEZC?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
             }
           ]
         }
@@ -114,258 +114,37 @@
       ]
     },
     {
-      "id": "5019ca8d7409",
-      "title": "預防心血管疾病 從健康生活做起",
-      "published": "2026-07-27T16:02:32+00:00",
+      "id": "45e17d7d5e7e",
+      "title": "有阿兹海默病变不一定失智 研究揭大脑关键转折",
+      "published": "2026-07-27T11:20:23+00:00",
       "sources": [
         {
-          "name": "澎湖e傳媒",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd3BNYWpqaVVZWjA2RFl5eGh2UWczS0d1WXhQeFZJZUpWX2FSRW5RdldWVDd2d201cjR6MDI0TkYyTzMyOVBuNFlGbk1CNngtTktuMnNDMjdhWG03eG9OZ2ZmbG12WGhoNF81UXpCOVMwRld1dGRyWk1sVHY2WThDUEg0TDlTS2UyQmk5bXMxZE5tX1VOMHpvRldDRGw2T2JjN05lRzJEV3JEWFpGa0V4Y2tteHBUOFFSX1NWYlNUZWFOSmthaE1CRGw1RXFTTW5vWnhsWFlCdXJMWkNfR3NNakdPWQ?oc=5"
+          "name": "soundofhope.org",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ed0kxbnhIODhHUGw1T1NnWi1UdG5DVlowaFZCbXUxOFNTQ3JpUjRXTlB5enR5ODZmeDdKQVZILTgzTjYtMTE2dU9Yd21udzJ0?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
+          "name": "dementia",
+          "keyword": "失智",
           "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }
       ]
     },
     {
-      "id": "cf55e6281d6f",
-      "title": "健康網》維生素D補骨又防癌 醫揭濃度高大腸癌、乳癌風險降",
-      "published": "2026-07-27T11:26:00+00:00",
+      "id": "423925538181",
+      "title": "天天曬太陽也不夠 醫揭缺維生素D恐提高糖尿病、罹癌風險",
+      "published": "2026-07-27T05:51:00+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GLTdEbTk0ekIteHFpNXF1Tk5tY3ppQ2tsYmFiS1BwNXA2MWFiTUdTNWMyUmJyZlhtV0xVU1JsWW4xZ3k4aXFoY3pjSThmaVdmd1ljVTA3bGR3cHpINmUxT2pybm_SAWpBVV95cUxQbG5aNU5GWFNDRGFwaXdrdVhETlZwaXMxX1RhN0VSUTVkYng4Y3lsdXJrakJaNlVPRER2OEQ3UkcwR0FUMUVlbGRQMnc0RkE1UXpDWjVMZzJYSUhCUFk0Q3pScE0xZGJOM1Nn?oc=5"
+          "name": "民報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OcWhMSWNNLXZ5cXZsZDl6QjdTR1VJMDZGdlBjcUdnZlJxV3I3Z0ZmNG1lVHFJbXVFS29tSkRVVUFyaC00cEtEQ0JkTW1qeTY0Y0drejFRLWk4M1A4VWJ0OQ?oc=5"
         }
       ],
       "keywords": [
@@ -435,30 +214,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "45e17d7d5e7e",
-      "title": "有阿兹海默病变不一定失智 研究揭大脑关键转折",
-      "published": "2026-07-27T11:20:23+00:00",
-      "sources": [
-        {
-          "name": "soundofhope.org",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ed0kxbnhIODhHUGw1T1NnWi1UdG5DVlowaFZCbXUxOFNTQ3JpUjRXTlB5enR5ODZmeDdKQVZILTgzTjYtMTE2dU9Yd21udzJ0?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
@@ -637,41 +392,6 @@
         {
           "type": "indication",
           "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d04f42537c5c",
-      "title": "「這陌生女人要害我！」65歲男洗腎5年突認不得妻 一查竟罹失智症",
-      "published": "2026-07-26T04:21:27+00:00",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WR3R1eUY4Rlh1Vnd2ZkVIckwtbjJuV0hnOXFmWTI5a1c1YXRMV0xxaWNzZGFIZWR5d0JxUllPVTE5UUJ2TG9reUZuSDA1VWZYOGZyVDVn0gFWQVVfeXFMT1ZHdHV5RjhGWHVWd3ZmRUhyTC1uMm5XSGc5cWZZMjlrVzVhdExXTHFpY3NkYUhlZHl3QnFSWU9VMTlRQnZMb2t5Rm5IMDVVZlg4ZnJUNWc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
           "keyword": "失智",
           "related_drugs": [
             {

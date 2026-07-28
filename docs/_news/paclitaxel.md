@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,21 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [不菸不酒仍罹病 HPV成口咽癌隱憂](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ndGZZUWJNcm9sTXlrOWNSd19lbTBPemtkWUhPLTNIN0xQc1RpazRqS21kWjRWTVdhcU50amFDX09PVkNpaUJnbDJSQjZ0d2EtQ014UmI5bEwxWW56VWdIQ1BrWV9JOUE?oc=5)
+### [口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險](https://news.google.com/rss/articles/CBMivgJBVV95cUxPMFg1T1g4dFNhLTJDSkNCRUdBNE9MR3hXVlpsWHNoY3gySFVRNndKX1pYMjFQcTlUSkNvM2xWaHBCTEp1MnZTNUpoclNqbmh6b3F5Yk92Nl9iVE55RFI3VGRwRzdLeExBUWFqa19vSElKNUw1bDZMSkx3RHZPbUhIQU9YLXc0YkNURjRTX29sY1Fia0EwemVjaTZZVmdtcWt5Ql9xUmxNblhBVE16X3RHR096TkFxNVBodjczdXdxVmRkd2VtNENBeWJoMmRPYmZiYzBiaVl0c0RjQm5OS0RLWFhldVdHOWU1MUZ2RXM2NmhqZnlVSzFLOTJFUU5JV2ItQmEwbXdxc2EwYmt5NTBnUll3NjVNd3VnaW1kNmY5RTZ6ejMtbkI3blNvSFBVNF82NHcta1Nmalg5RzBKUHc?oc=5)
 
 2026-07-28 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">頭頸癌</span>
 
-來源：[人間福報電子報](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ndGZZUWJNcm9sTXlrOWNSd19lbTBPemtkWUhPLTNIN0xQc1RpazRqS21kWjRWTVdhcU50amFDX09PVkNpaUJnbDJSQjZ0d2EtQ014UmI5bEwxWW56VWdIQ1BrWV9JOUE?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMivgJBVV95cUxPMFg1T1g4dFNhLTJDSkNCRUdBNE9MR3hXVlpsWHNoY3gySFVRNndKX1pYMjFQcTlUSkNvM2xWaHBCTEp1MnZTNUpoclNqbmh6b3F5Yk92Nl9iVE55RFI3VGRwRzdLeExBUWFqa19vSElKNUw1bDZMSkx3RHZPbUhIQU9YLXc0YkNURjRTX29sY1Fia0EwemVjaTZZVmdtcWt5Ql9xUmxNblhBVE16X3RHR096TkFxNVBodjczdXdxVmRkd2VtNENBeWJoMmRPYmZiYzBiaVl0c0RjQm5OS0RLWFhldVdHOWU1MUZ2RXM2NmhqZnlVSzFLOTJFUU5JV2ItQmEwbXdxc2EwYmt5NTBnUll3NjVNd3VnaW1kNmY5RTZ6ejMtbkI3blNvSFBVNF82NHcta1Nmalg5RzBKUHc?oc=5)
 
 ---
 
-### [預防心血管疾病 從健康生活做起](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd3BNYWpqaVVZWjA2RFl5eGh2UWczS0d1WXhQeFZJZUpWX2FSRW5RdldWVDd2d201cjR6MDI0TkYyTzMyOVBuNFlGbk1CNngtTktuMnNDMjdhWG03eG9OZ2ZmbG12WGhoNF81UXpCOVMwRld1dGRyWk1sVHY2WThDUEg0TDlTS2UyQmk5bXMxZE5tX1VOMHpvRldDRGw2T2JjN05lRzJEV3JEWFpGa0V4Y2tteHBUOFFSX1NWYlNUZWFOSmthaE1CRGw1RXFTTW5vWnhsWFlCdXJMWkNfR3NNakdPWQ?oc=5)
-
-2026-07-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">中風</span>
-
-來源：[澎湖e傳媒](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd3BNYWpqaVVZWjA2RFl5eGh2UWczS0d1WXhQeFZJZUpWX2FSRW5RdldWVDd2d201cjR6MDI0TkYyTzMyOVBuNFlGbk1CNngtTktuMnNDMjdhWG03eG9OZ2ZmbG12WGhoNF81UXpCOVMwRld1dGRyWk1sVHY2WThDUEg0TDlTS2UyQmk5bXMxZE5tX1VOMHpvRldDRGw2T2JjN05lRzJEV3JEWFpGa0V4Y2tteHBUOFFSX1NWYlNUZWFOSmthaE1CRGw1RXFTTW5vWnhsWFlCdXJMWkNfR3NNakdPWQ?oc=5)
-
----
-
-### [健康網》維生素D補骨又防癌 醫揭濃度高大腸癌、乳癌風險降](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GLTdEbTk0ekIteHFpNXF1Tk5tY3ppQ2tsYmFiS1BwNXA2MWFiTUdTNWMyUmJyZlhtV0xVU1JsWW4xZ3k4aXFoY3pjSThmaVdmd1ljVTA3bGR3cHpINmUxT2pybm_SAWpBVV95cUxQbG5aNU5GWFNDRGFwaXdrdVhETlZwaXMxX1RhN0VSUTVkYng4Y3lsdXJrakJaNlVPRER2OEQ3UkcwR0FUMUVlbGRQMnc0RkE1UXpDWjVMZzJYSUhCUFk0Q3pScE0xZGJOM1Nn?oc=5)
+### [天天曬太陽也不夠 醫揭缺維生素D恐提高糖尿病、罹癌風險](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OcWhMSWNNLXZ5cXZsZDl6QjdTR1VJMDZGdlBjcUdnZlJxV3I3Z0ZmNG1lVHFJbXVFS29tSkRVVUFyaC00cEtEQ0JkTW1qeTY0Y0drejFRLWk4M1A4VWJ0OQ?oc=5)
 
 2026-07-27 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GLTdEbTk0ekIteHFpNXF1Tk5tY3ppQ2tsYmFiS1BwNXA2MWFiTUdTNWMyUmJyZlhtV0xVU1JsWW4xZ3k4aXFoY3pjSThmaVdmd1ljVTA3bGR3cHpINmUxT2pybm_SAWpBVV95cUxQbG5aNU5GWFNDRGFwaXdrdVhETlZwaXMxX1RhN0VSUTVkYng4Y3lsdXJrakJaNlVPRER2OEQ3UkcwR0FUMUVlbGRQMnc0RkE1UXpDWjVMZzJYSUhCUFk0Q3pScE0xZGJOM1Nn?oc=5)
+來源：[民報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OcWhMSWNNLXZ5cXZsZDl6QjdTR1VJMDZGdlBjcUdnZlJxV3I3Z0ZmNG1lVHFJbXVFS29tSkRVVUFyaC00cEtEQ0JkTW1qeTY0Y0drejFRLWk4M1A4VWJ0OQ?oc=5)
 
 ---
 

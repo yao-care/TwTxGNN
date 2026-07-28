@@ -1,55 +1,56 @@
 {
-  "last_updated": "2026-07-28T02:30:12.657197+00:00",
-  "total_count": 31,
-  "matched_count": 14,
+  "last_updated": "2026-07-28T05:38:38.010432+00:00",
+  "total_count": 35,
+  "matched_count": 12,
   "news": [
     {
-      "id": "702fd2bd9568",
-      "title": "這蔬菜鈣含量竟超越牛奶！不只護眼又顧心血管，營養師：別跟２類食物一起吃",
-      "published": "2026-07-28T02:15:00+00:00",
-      "summary": "這蔬菜鈣含量竟超越牛奶！不只護眼又顧心血管，營養師：別跟２類食物一起吃&nbsp;&nbsp;Yahoo新聞",
+      "id": "e6086ac700ec",
+      "title": "膝蓋痛就吃葡萄糖胺？研究提醒：顧了關節，卻可能讓大腦退化加速",
+      "published": "2026-07-28T05:06:35+00:00",
+      "summary": "膝蓋痛就吃葡萄糖胺？研究提醒：顧了關節，卻可能讓大腦退化加速&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQYkRCbTAwX2tfZlQ5Z29hUkcwZXoyT2M0Z0tncVdfc1o1UjZmSWk2anUzMFVLa0d4MGxBWWRxNkJXMHo3ZFZYNGhIaFUzTEtXY2lQVVNRVWUtZ1BEaFpoSmtNUS1CbWtzWXRoQmhHNGI5ekFkUEo2RXRqWlBaZjRxSnUtaG4xM2dpdm1ydnJXRm5uOE9GQ0ctMGg5TDFoYVNuZFF1d0NVUXlZM3NSclRGYTRKcnZtY2FWODh5eHBaZXhGRDRTNUtpdnhTbUFDdnVHME5YN2VpOVdiY09iZkdhUHJQWUkxN0pwSGZyZFo3cEpTQnV1dXBZeWlIOFoxTjRudmJSN2FiOGUwSkkyRzlQYW9zakdXOU0yXzc5N0VrUGoxSWhhVEdKb2xsQldPUTFPOHBsRUlVUWJGS09XUXc3ZktrS0lWYzIyTC1iU1l4ZmRsQXE4dVJHeTdJcWs1M1VFWFREa1h3TjVyS3MzZUluTEd3YkJrbDdQVEctRGdjYTRCeV9IXzZkbDBDeGJTMXQ5UDFnRmhnVG5NSWZaYjFDNDctUjBJSEZC?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "951007391d01",
-      "title": "活越久病越久新加坡人晚年多花12年與疾病共存長壽代價曝光- 趨勢",
-      "published": "2026-07-28T01:33:02+00:00",
-      "summary": "活越久病越久新加坡人晚年多花12年與疾病共存長壽代價曝光- 趨勢&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43WjdIWmZiMDk1ZTB6allKVDdxUW9PazNpM2JFUTV2Rm9ydFotMHJtRE1aQ1lmcHRwc0dMLXR3Ni1ZLW9wVjZGMDBObmxIQWZIM3ZIZkRvd3B2SE5SZnpJWjRpT0I4ZnRuZGo2RGZn?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNOVpOaTFxZEZiTDBnWXBkMEhHVENyejZFU3VFUko2NnVLNG9qZHg0b1VEd1VkLUNXLTVHNjR6Q3c3dy16ZkNfejM1U1lwZnd1aElRY2tIeHdEOE1nc0luc00wMGNmM3NEYXVRV1hrT3RqaFdtOEhmdVItYi1Rc21KZFRQZ0tTckxIVTBDeUlET0tpQm5YM2FDSmV1MWp0SXJrTHR0ME1vYVRQbjVzSVJJRDkza0RlRERSdGFYbnNBYVFadU5PakdEd1RHQzNTTUZDU041WGRMVjk4X1JuVVkyY3NMUTJQaXRJVGctTFFkTEp5d3dtSUpWQjdSWlNjUnpYZ3FCbk1McVZFUmdiS19ab2NpMktmVVg5eU0xcWYyRTdYaVR2Qk0zZ29uVDFXakJPNHB1aFZZMl9rRm44cU9xWmFSMHBmU2xIelBlTWFuUEFjc2puLUcyRmxZUzdaY0ptSldTZlJCckg4NWZLUE81elhSREZSMGdvTGxHS1lKVWlBdkVjTnh2a20xRHl5aXRBUUZTem5xQzlWd28?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "cc728b374c35",
-      "title": "不菸不酒仍罹病 HPV成口咽癌隱憂",
-      "published": "2026-07-28T01:08:41+00:00",
-      "summary": "不菸不酒仍罹病 HPV成口咽癌隱憂&nbsp;&nbsp;人間福報電子報口咽癌悄竄升、男性患者增加！醫示警：不菸不酒仍躲不過HPV&nbsp;&nbsp;Yahoo新聞「口咽癌」超越子宮頸癌！727世界抗頭頸癌日 醫籲： 全民必備HPV防禦率&nbsp;&nbsp;PChome Online 新聞健康網》11歲為何要打HPV疫苗 醫：提早建免疫城牆&nbsp;&nbsp;自由健康網727世界抗頭頸癌日！口咽癌威脅升高，醫籲：不菸不酒也可能感染HPV，及早預防降低風險| 何長澤| 地方新聞&nbsp;&nbsp;風傳媒",
+      "id": "3e5497d1ac1f",
+      "title": "骨頭不痛不代表沒事！骨質疏鬆恐讓人一摔就骨折臥床，9類高風險族群要注意",
+      "published": "2026-07-28T04:12:31+00:00",
+      "summary": "骨頭不痛不代表沒事！骨質疏鬆恐讓人一摔就骨折臥床，9類高風險族群要注意&nbsp;&nbsp;Yahoo新聞跌倒危機藏在日常中！掌握四大骨折警訊與三大保骨營養素&nbsp;&nbsp;macrocosm.tw暑假出遊帶長輩要注意！醫提醒：骨鬆高危族群「下車跨步」也可能骨折&nbsp;&nbsp;PChome Online 新聞跌倒不是一時不小心 專家揭高齡者最容易忽略的3大原因&nbsp;&nbsp;元氣網輕摔就骨折？醫揭這幾個慢性病超傷骨&nbsp;&nbsp;東森新聞",
       "sources": [
         {
-          "name": "人間福報電子報",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ndGZZUWJNcm9sTXlrOWNSd19lbTBPemtkWUhPLTNIN0xQc1RpazRqS21kWjRWTVdhcU50amFDX09PVkNpaUJnbDJSQjZ0d2EtQ014UmI5bEwxWW56VWdIQ1BrWV9JOUE?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxQM2MzNXdRZnNyWmVPckFtOTJ4QVRkRUJDLUNnVWJyU1FFTHdZX0pQOVAtVTRpcWhDRU4yM3VsSC1YUFEyVV9leVAxM2Uzdm9IT2JqVWQ2QXV4Mjd3UHN3aEhMakpDaVlGaVZCQWJMNXZRWnVWU0ZEQ001QXREZUdGaXlFUlpCYllPYzBsRkNkQk9mV0NxMkh0ZjQ2cWJIYVZXai1tTmliMW1sSnJKS0tiVzVQQ1hVS1hKaDV3ZFZDMVpHaWJvTDNNR19kWWhZUWg0bGc3UUdRcXo4U0l0MklzVHVXYVFWTlZkZHNHVHplalppWGIyQzhNQzczR01NUFlvQk10Z2FFaUVSZVJnVTBHdEV5WndjZ0JGT05YTHVwSVpOS09ZaVdDTXVQclRSS1UySHprY0RzVjBCQi0yY3REU3BFeG96WDZxMTJQaHg4SkxRYWMzZnJkdmRTUXZQaFdSZXFwZmFyeGMxZjVVc3E3TEZpMFNCelFNQk9tcV9tbnE4YU92cGlDdGRod3BjOHgtQllRVExYV3hxUklzZGUtRktwbnNrWnY1eDd2aXRqV1VFd05UV2pXd3cwaDQ3MURIZWJjTE10X08wdk5B?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "fc2e4cd09dd7",
+      "title": "活愈久反而病愈久？新加坡人最長壽但晚年有12年要與疾病共存- 生活",
+      "published": "2026-07-28T03:58:00+00:00",
+      "summary": "活愈久反而病愈久？新加坡人最長壽但晚年有12年要與疾病共存- 生活&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vUWY3VTdMejF3YmxqNmtKbTBzSlpmSDA2VC15T3pteTJ4N2ctend5bEpmRVRZc0lTcnQ3dkpSd0UyV0RRbFhIdHktRkFyQTlKTEFkaHlPenFZc0NZWGRv?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "581795ba9919",
+      "title": "口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險",
+      "published": "2026-07-28T03:37:18+00:00",
+      "summary": "口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險&nbsp;&nbsp;Yahoo新聞「口咽癌」超越子宮頸癌！727世界抗頭頸癌日 醫籲： 全民必備HPV防禦率&nbsp;&nbsp;PChome Online 新聞健康網》11歲為何要打HPV疫苗 醫：提早建免疫城牆&nbsp;&nbsp;自由健康網口咽癌悄竄升、男性患者增加！醫示警：不菸不酒仍躲不過HPV&nbsp;&nbsp;UDN727世界抗頭頸癌日！口咽癌威脅升高，醫籲：不菸不酒也可能感染HPV，及早預防降低風險| 何長澤| 地方新聞&nbsp;&nbsp;風傳媒",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPMFg1T1g4dFNhLTJDSkNCRUdBNE9MR3hXVlpsWHNoY3gySFVRNndKX1pYMjFQcTlUSkNvM2xWaHBCTEp1MnZTNUpoclNqbmh6b3F5Yk92Nl9iVE55RFI3VGRwRzdLeExBUWFqa19vSElKNUw1bDZMSkx3RHZPbUhIQU9YLXc0YkNURjRTX29sY1Fia0EwemVjaTZZVmdtcWt5Ql9xUmxNblhBVE16X3RHR096TkFxNVBodjczdXdxVmRkd2VtNENBeWJoMmRPYmZiYzBiaVl0c0RjQm5OS0RLWFhldVdHOWU1MUZ2RXM2NmhqZnlVSzFLOTJFUU5JV2ItQmEwbXdxc2EwYmt5NTBnUll3NjVNd3VnaW1kNmY5RTZ6ejMtbkI3blNvSFBVNF82NHcta1Nmalg5RzBKUHc?oc=5"
         }
       ],
       "matched_keywords": [
@@ -76,6 +77,83 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1a4076816770",
+      "title": "清邁HIV感染升溫！平均每日兩人確診 年輕人成高危群體 - Vision Thai 看見泰國",
+      "published": "2026-07-28T03:35:52+00:00",
+      "summary": "清邁HIV感染升溫！平均每日兩人確診 年輕人成高危群體&nbsp;&nbsp;Vision Thai 看見泰國",
+      "sources": [
+        {
+          "name": "Vision Thai 看見泰國",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pZ0xBaXd2ckIwek16OExWeTU3aTB6M1JhSy1iYkVTUXRCU0tPaWI1T0sxLXRjeXZHTVJ4UnFSR3Zka2FUR21haExMT0pwUEFibWRLZEFmYlNGZWhUaGhKa3pQTlJKckF5UTctdHFJaw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8cccb639e42e",
+      "title": "州衛生廳籲民眾防範蚊媒疾病 西尼羅病毒首現本季病例",
+      "published": "2026-07-28T02:54:00+00:00",
+      "summary": "州衛生廳籲民眾防範蚊媒疾病 西尼羅病毒首現本季病例&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tekJmSlNHNUdERzg3alJTdGd6QTdaVERjZ3pIZzRzalc2bDR6eE5GWG0wbE1Sb280bXV1U1BtWGlDZEszb3piNXAyaXJPR2lFTVpJZFJHRnBDV01HTUI3TdIBZkFVX3lxTE0wTjNuNFNuTTJDSS1fV3hXbWppa0hZeTVZRERuNnh5a1o1bVJIUFFyOUJpMjVrMlRMc0RmenR6VV9qN1hiZlRiamlCbWVGQ0l4MTd5RElrb2s3a3ZrS0xfcGFCeTNrUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c6d36e34ca4a",
+      "title": "3年前無視紅字！67歲退休老師後悔了 攝護腺癌轉移",
+      "published": "2026-07-28T02:42:50+00:00",
+      "summary": "3年前無視紅字！67歲退休老師後悔了 攝護腺癌轉移&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MSEJqMHRSbk1lNG5UczhTNFJyVGViaG1tYW4yeWY3UFJselVZc2VzUTFLSjdMQVpTU0JUZE9QN0ZaOVB0TENtZDd1ZzdBVmVDMk43aUROTEZ4dTZhX2Y5UGVNRGZRNzgtZXBGOHZ3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4c4d41bb320b",
+      "title": "2025年HIV防治資金減少18% 全球面臨愛滋疫情復燃風險 | 中央廣播電臺 - LINE TODAY",
+      "published": "2026-07-28T02:38:55+00:00",
+      "summary": "2025年HIV防治資金減少18% 全球面臨愛滋疫情復燃風險 | 中央廣播電臺&nbsp;&nbsp;LINE TODAY前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzcERqOW56UmVHNVBBQWtUamEzYjVJWUZBYi13b3JKTXU1X2pVVEFQakZvWVRuUEFBVjYzNzhfQ0c3QWdaSlpERDE2OTJuWGFYNGhfZ29B?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "702fd2bd9568",
+      "title": "這蔬菜鈣含量竟超越牛奶！不只護眼又顧心血管，營養師：別跟２類食物一起吃",
+      "published": "2026-07-28T02:15:00+00:00",
+      "summary": "這蔬菜鈣含量竟超越牛奶！不只護眼又顧心血管，營養師：別跟２類食物一起吃&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQYkRCbTAwX2tfZlQ5Z29hUkcwZXoyT2M0Z0tncVdfc1o1UjZmSWk2anUzMFVLa0d4MGxBWWRxNkJXMHo3ZFZYNGhIaFUzTEtXY2lQVVNRVWUtZ1BEaFpoSmtNUS1CbWtzWXRoQmhHNGI5ekFkUEo2RXRqWlBaZjRxSnUtaG4xM2dpdm1ydnJXRm5uOE9GQ0ctMGg5TDFoYVNuZFF1d0NVUXlZM3NSclRGYTRKcnZtY2FWODh5eHBaZXhGRDRTNUtpdnhTbUFDdnVHME5YN2VpOVdiY09iZkdhUHJQWUkxN0pwSGZyZFo3cEpTQnV1dXBZeWlIOFoxTjRudmJSN2FiOGUwSkkyRzlQYW9zakdXOU0yXzc5N0VrUGoxSWhhVEdKb2xsQldPUTFPOHBsRUlVUWJGS09XUXc3ZktrS0lWYzIyTC1iU1l4ZmRsQXE4dVJHeTdJcWs1M1VFWFREa1h3TjVyS3MzZUluTEd3YkJrbDdQVEctRGdjYTRCeV9IXzZkbDBDeGJTMXQ5UDFnRmhnVG5NSWZaYjFDNDctUjBJSEZC?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
             }
           ]
         }
@@ -126,348 +204,6 @@
             {
               "slug": "dupilumab",
               "name": "Dupilumab"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1a092887e45e",
-      "title": "川普砍外援！聯合國警告：全球愛滋病防治資金驟減近2成",
-      "published": "2026-07-27T17:03:10+00:00",
-      "summary": "川普砍外援！聯合國警告：全球愛滋病防治資金驟減近2成&nbsp;&nbsp;民視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4weTFRbTRQeXB6ejVONGdIWVRlczBQNWdxVjJvdTFoUTc3NlBNSVppaGo5SXlVTWJmMXpBZEFOWmU4X2dTOC1BSEREVVVNaHR5QV9QWnEtdnFFb0pmNXRyUg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5019ca8d7409",
-      "title": "預防心血管疾病 從健康生活做起",
-      "published": "2026-07-27T16:02:32+00:00",
-      "summary": "預防心血管疾病 從健康生活做起&nbsp;&nbsp;澎湖e傳媒每天運動還是中風？醫提醒3個可怕習慣快改，常吃5種食物維持血管健康&nbsp;&nbsp;元氣網致死人數僅次於癌症醫：保護心血管落實4件事- 健康&nbsp;&nbsp;中時新聞網【健康1+1】紅肉解禁？心臟科醫師教你避開血管傷害&nbsp;&nbsp;大紀元時報 香港心臟科醫生：避開3種食物顯著改善健康&nbsp;&nbsp;經濟日報",
-      "sources": [
-        {
-          "name": "澎湖e傳媒",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd3BNYWpqaVVZWjA2RFl5eGh2UWczS0d1WXhQeFZJZUpWX2FSRW5RdldWVDd2d201cjR6MDI0TkYyTzMyOVBuNFlGbk1CNngtTktuMnNDMjdhWG03eG9OZ2ZmbG12WGhoNF81UXpCOVMwRld1dGRyWk1sVHY2WThDUEg0TDlTS2UyQmk5bXMxZE5tX1VOMHpvRldDRGw2T2JjN05lRzJEV3JEWFpGa0V4Y2tteHBUOFFSX1NWYlNUZWFOSmthaE1CRGw1RXFTTW5vWnhsWFlCdXJMWkNfR3NNakdPWQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cf55e6281d6f",
-      "title": "健康網》維生素D補骨又防癌 醫揭濃度高大腸癌、乳癌風險降",
-      "published": "2026-07-27T11:26:00+00:00",
-      "summary": "健康網》維生素D補骨又防癌 醫揭濃度高大腸癌、乳癌風險降&nbsp;&nbsp;自由健康網維他命D不只存骨本！研究曝「能防3種癌」 還能降糖尿病風險&nbsp;&nbsp;三立新聞天天曬太陽也不夠 醫揭缺維生素D恐提高糖尿病、罹癌風險&nbsp;&nbsp;民報不只護骨！維生素D可降大腸癌、乳癌、攝護腺癌發生率&nbsp;&nbsp;Yahoo新聞防曬過頭害骨鬆？醫揭「缺維生素D」危機 補錯時間也沒用&nbsp;&nbsp;東森新聞",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GLTdEbTk0ekIteHFpNXF1Tk5tY3ppQ2tsYmFiS1BwNXA2MWFiTUdTNWMyUmJyZlhtV0xVU1JsWW4xZ3k4aXFoY3pjSThmaVdmd1ljVTA3bGR3cHpINmUxT2pybm_SAWpBVV95cUxQbG5aNU5GWFNDRGFwaXdrdVhETlZwaXMxX1RhN0VSUTVkYng4Y3lsdXJrakJaNlVPRER2OEQ3UkcwR0FUMUVlbGRQMnc0RkE1UXpDWjVMZzJYSUhCUFk0Q3pScE0xZGJOM1Nn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
@@ -564,6 +300,89 @@
       "matched_keywords": []
     },
     {
+      "id": "423925538181",
+      "title": "天天曬太陽也不夠 醫揭缺維生素D恐提高糖尿病、罹癌風險",
+      "published": "2026-07-27T05:51:00+00:00",
+      "summary": "天天曬太陽也不夠 醫揭缺維生素D恐提高糖尿病、罹癌風險&nbsp;&nbsp;民報健康網》維生素D補骨又防癌 醫揭濃度高大腸癌、乳癌風險降&nbsp;&nbsp;自由健康網維他命D不只存骨本！研究曝「能防3種癌」 還能降糖尿病風險&nbsp;&nbsp;三立新聞不只護骨！維生素D可降大腸癌、乳癌、攝護腺癌發生率&nbsp;&nbsp;Yahoo新聞防曬過頭害骨鬆？醫揭「缺維生素D」危機 補錯時間也沒用&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "民報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OcWhMSWNNLXZ5cXZsZDl6QjdTR1VJMDZGdlBjcUdnZlJxV3I3Z0ZmNG1lVHFJbXVFS29tSkRVVUFyaC00cEtEQ0JkTW1qeTY0Y0drejFRLWk4M1A4VWJ0OQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1afb26bcc8f2",
       "title": "現在年輕人為何老得快？華盛頓大學研究：與肥胖、久坐、睡眠品質差都有關，這些生活習慣更是致癌因子| 德國之聲| 新聞",
       "published": "2026-07-27T04:34:47+00:00",
@@ -600,6 +419,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "10c26907d300",
+      "title": "住戶心驚驚！黑心維冠「龍門世家」3期震後牆裂、磚瓦落| 生活",
+      "published": "2026-07-27T04:14:55+00:00",
+      "summary": "住戶心驚驚！黑心維冠「龍門世家」3期震後牆裂、磚瓦落| 生活&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4yZG9NaVFXdWRiaFR3Mkw4RWg4STR6X1FjbzVscWVoWW9Qc1F5YXk2bC1mcXB5SUJWaTJaYXR5OExabW9yNUkw?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "89e4c3c88be2",
@@ -848,7 +680,7 @@
       "id": "aafc66c1bb86",
       "title": "前英國女王長壽秘訣？「麥得飲食」護腦、抗發炎兼延緩認知衰退！4大功效及女王飲食菜單一次看",
       "published": "2026-07-26T07:00:00+00:00",
-      "summary": "前英國女王長壽秘訣？「麥得飲食」護腦、抗發炎兼延緩認知衰退！4大功效及女王飲食菜單一次看&nbsp;&nbsp;she.com吃對少得3種慢性病！15年研究揭露3大神級吃法78歲護腦最有效- 營養好食&nbsp;&nbsp;TVBS 健康2.0哈佛研究「全球長壽者」抗癌抗老這樣吃！6招健康飲食法必吃高蛋白蔬菜、魚類與橄欖油&nbsp;&nbsp;ELLE長壽｜研究證4類植物性食物抗老助防癌 進食6原則水果換顏色吃&nbsp;&nbsp;香港0110年後28萬港人患認知障礙！醫生教食5種護腦食物預防：「這水果」延緩失智風險47%&nbsp;&nbsp;UHK 港生活",
+      "summary": "前英國女王長壽秘訣？「麥得飲食」護腦、抗發炎兼延緩認知衰退！4大功效及女王飲食菜單一次看&nbsp;&nbsp;she.com吃對少得3種慢性病！15年研究揭露3大神級吃法78歲護腦最有效- 營養好食&nbsp;&nbsp;健康2.0哈佛研究「全球長壽者」抗癌抗老這樣吃！6招健康飲食法必吃高蛋白蔬菜、魚類與橄欖油&nbsp;&nbsp;ELLE長壽｜研究證4類植物性食物抗老助防癌 進食6原則水果換顏色吃&nbsp;&nbsp;香港0110年後28萬港人患認知障礙！醫生教食5種護腦食物預防：「這水果」延緩失智風險47%&nbsp;&nbsp;UHK 港生活",
       "sources": [
         {
           "name": "she.com",
@@ -881,42 +713,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "d04f42537c5c",
-      "title": "「這陌生女人要害我！」65歲男洗腎5年突認不得妻 一查竟罹失智症",
-      "published": "2026-07-26T04:21:27+00:00",
-      "summary": "「這陌生女人要害我！」65歲男洗腎5年突認不得妻 一查竟罹失智症&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WR3R1eUY4Rlh1Vnd2ZkVIckwtbjJuV0hnOXFmWTI5a1c1YXRMV0xxaWNzZGFIZWR5d0JxUllPVTE5UUJ2TG9reUZuSDA1VWZYOGZyVDVn0gFWQVVfeXFMT1ZHdHV5RjhGWHVWd3ZmRUhyTC1uMm5XSGc5cWZZMjlrVzVhdExXTHFpY3NkYUhlZHl3QnFSWU9VMTlRQnZMb2t5Rm5IMDVVZlg4ZnJUNWc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [預防心血管疾病 從健康生活做起](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd3BNYWpqaVVZWjA2RFl5eGh2UWczS0d1WXhQeFZJZUpWX2FSRW5RdldWVDd2d201cjR6MDI0TkYyTzMyOVBuNFlGbk1CNngtTktuMnNDMjdhWG03eG9OZ2ZmbG12WGhoNF81UXpCOVMwRld1dGRyWk1sVHY2WThDUEg0TDlTS2UyQmk5bXMxZE5tX1VOMHpvRldDRGw2T2JjN05lRzJEV3JEWFpGa0V4Y2tteHBUOFFSX1NWYlNUZWFOSmthaE1CRGw1RXFTTW5vWnhsWFlCdXJMWkNfR3NNakdPWQ?oc=5)
-
-2026-07-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">中風</span>
-
-來源：[澎湖e傳媒](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd3BNYWpqaVVZWjA2RFl5eGh2UWczS0d1WXhQeFZJZUpWX2FSRW5RdldWVDd2d201cjR6MDI0TkYyTzMyOVBuNFlGbk1CNngtTktuMnNDMjdhWG03eG9OZ2ZmbG12WGhoNF81UXpCOVMwRld1dGRyWk1sVHY2WThDUEg0TDlTS2UyQmk5bXMxZE5tX1VOMHpvRldDRGw2T2JjN05lRzJEV3JEWFpGa0V4Y2tteHBUOFFSX1NWYlNUZWFOSmthaE1CRGw1RXFTTW5vWnhsWFlCdXJMWkNfR3NNakdPWQ?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [有阿兹海默病变不一定失智 研究揭大脑关键转折](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ed0kxbnhIODhHUGw1T1NnWi1UdG5DVlowaFZCbXUxOFNTQ3JpUjRXTlB5enR5ODZmeDdKQVZILTgzTjYtMTE2dU9Yd21udzJ0?oc=5)
 
@@ -72,14 +64,6 @@ permalink: /news/gefitinib/
 2026-07-26 <span class="news-indication-tag">失智</span>
 
 來源：[she.com](https://news.google.com/rss/articles/CBMitgJBVV95cUxPVFBvSHVoSl85aFRMajh4WEpIUzBIYUtjY05LQXhyUHY3SG05ZjYxTklMampSdkRhalVLVHFIZVNIdEllZWZOYmJKcm8zc29BWjhtY1JVSFJsemQ2T0t1VFhQNnBHWlpOblRPQW9XalY5cExmMG1iZ2dZamhzUVBMWEpyT1lEbzI5cjNRR2ROalJVSnM2eTl3Qk1oZnN6dzIzVHZKYV84Z1Z5b3U0QmlHTTl4VHFhc0dIRTA0VC1GYTVwVU9WUTJNRWI2VWNMdDRhZTV3VS1JNWRSMXRGNE1iRlVEVlZJZ2pvYXBXQlNVX3hNd18wcFFOd1NxbE5iNkNtdDJJRURLQmFIRHA3OEtTQkw4RWdlZm9qc0pKQ1FKOE91TFF3LUpyQy1mVkhXdGVEMXhOWkxn?oc=5)
-
----
-
-### [「這陌生女人要害我！」65歲男洗腎5年突認不得妻 一查竟罹失智症](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WR3R1eUY4Rlh1Vnd2ZkVIckwtbjJuV0hnOXFmWTI5a1c1YXRMV0xxaWNzZGFIZWR5d0JxUllPVTE5UUJ2TG9reUZuSDA1VWZYOGZyVDVn0gFWQVVfeXFMT1ZHdHV5RjhGWHVWd3ZmRUhyTC1uMm5XSGc5cWZZMjlrVzVhdExXTHFpY3NkYUhlZHl3QnFSWU9VMTlRQnZMb2t5Rm5IMDVVZlg4ZnJUNWc?oc=5)
-
-2026-07-26 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[UDN](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WR3R1eUY4Rlh1Vnd2ZkVIckwtbjJuV0hnOXFmWTI5a1c1YXRMV0xxaWNzZGFIZWR5d0JxUllPVTE5UUJ2TG9reUZuSDA1VWZYOGZyVDVn0gFWQVVfeXFMT1ZHdHV5RjhGWHVWd3ZmRUhyTC1uMm5XSGc5cWZZMjlrVzVhdExXTHFpY3NkYUhlZHl3QnFSWU9VMTlRQnZMb2t5Rm5IMDVVZlg4ZnJUNWc?oc=5)
 
 ---
 
