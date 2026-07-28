@@ -14,7 +14,7 @@ permalink: /news/iodixanol/
 ---
 
 <p class="key-answer" data-question="Iodixanol 有什麼相關新聞？">
-<strong>Iodixanol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Iodixanol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/iodixanol/
 <p><a href="{{ '/drugs/iodixanol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [走路會喘、膽固醇飆高恐是血管警訊！腦中風權威教你用「CPR三步導航」守護心腦血管健康| 信傳媒 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9va1pWQkMwdTFVRzlEV1ZlWnAzQXdON3htaE4zUkZTTUgwaTZhZFk1RjI3S0c2SWN1MWs5ek1aODBJR3dHbk0xbjNQaEFVWGpYc1R1b0Nn?oc=5)
+
+2026-07-28 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">腦中風</span> <span class="news-indication-tag">腦血管</span>
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9va1pWQkMwdTFVRzlEV1ZlWnAzQXdON3htaE4zUkZTTUgwaTZhZFk1RjI3S0c2SWN1MWs5ek1aODBJR3dHbk0xbjNQaEFVWGpYc1R1b0Nn?oc=5)
+
+---
 
 ### [研究揭膝蓋痛竟和腸道菌有關補充1種纖維有助減痛| 菊糖| 益生元膳食纖維| 減輕膝蓋疼痛| 提升身體功能與握力](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yZFA5NEVPVUNWdEd2LW1QTlJSNld0YktwTFhZZmw5N3pJcXZ6MEZNVUhsMWFJS3VOZ1BvRWpxbnVNeGpnd09wZjVfX0txb0I0cW80QTlYMDFFQUk?oc=5)
 

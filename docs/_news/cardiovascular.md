@@ -3,7 +3,7 @@ layout: default
 title: "心血管（cardiovascular） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "心血管（cardiovascular） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "心血管（cardiovascular） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/cardiovascular/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cardiovascular/
 ---
 
 <p class="key-answer" data-question="心血管（cardiovascular） 有什麼相關新聞？">
-<strong>心血管（cardiovascular）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心血管（cardiovascular）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ permalink: /news/cardiovascular/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [走路會喘、膽固醇飆高恐是血管警訊！腦中風權威教你用「CPR三步導航」守護心腦血管健康| 信傳媒 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9va1pWQkMwdTFVRzlEV1ZlWnAzQXdON3htaE4zUkZTTUgwaTZhZFk1RjI3S0c2SWN1MWs5ek1aODBJR3dHbk0xbjNQaEFVWGpYc1R1b0Nn?oc=5)
+
+2026-07-28
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9va1pWQkMwdTFVRzlEV1ZlWnAzQXdON3htaE4zUkZTTUgwaTZhZFk1RjI3S0c2SWN1MWs5ek1aODBJR3dHbk0xbjNQaEFVWGpYc1R1b0Nn?oc=5)
+
+---
 
 ### [這蔬菜鈣含量竟超越牛奶！不只護眼又顧心血管，營養師：別跟２類食物一起吃](https://news.google.com/rss/articles/CBMiqANBVV95cUxQYkRCbTAwX2tfZlQ5Z29hUkcwZXoyT2M0Z0tncVdfc1o1UjZmSWk2anUzMFVLa0d4MGxBWWRxNkJXMHo3ZFZYNGhIaFUzTEtXY2lQVVNRVWUtZ1BEaFpoSmtNUS1CbWtzWXRoQmhHNGI5ekFkUEo2RXRqWlBaZjRxSnUtaG4xM2dpdm1ydnJXRm5uOE9GQ0ctMGg5TDFoYVNuZFF1d0NVUXlZM3NSclRGYTRKcnZtY2FWODh5eHBaZXhGRDRTNUtpdnhTbUFDdnVHME5YN2VpOVdiY09iZkdhUHJQWUkxN0pwSGZyZFo3cEpTQnV1dXBZeWlIOFoxTjRudmJSN2FiOGUwSkkyRzlQYW9zakdXOU0yXzc5N0VrUGoxSWhhVEdKb2xsQldPUTFPOHBsRUlVUWJGS09XUXc3ZktrS0lWYzIyTC1iU1l4ZmRsQXE4dVJHeTdJcWs1M1VFWFREa1h3TjVyS3MzZUluTEd3YkJrbDdQVEctRGdjYTRCeV9IXzZkbDBDeGJTMXQ5UDFnRmhnVG5NSWZaYjFDNDctUjBJSEZC?oc=5)
 

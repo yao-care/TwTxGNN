@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [走路會喘、膽固醇飆高恐是血管警訊！腦中風權威教你用「CPR三步導航」守護心腦血管健康| 信傳媒 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9va1pWQkMwdTFVRzlEV1ZlWnAzQXdON3htaE4zUkZTTUgwaTZhZFk1RjI3S0c2SWN1MWs5ek1aODBJR3dHbk0xbjNQaEFVWGpYc1R1b0Nn?oc=5)
+
+2026-07-28 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">腦中風</span> <span class="news-indication-tag">腦血管</span>
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9va1pWQkMwdTFVRzlEV1ZlWnAzQXdON3htaE4zUkZTTUgwaTZhZFk1RjI3S0c2SWN1MWs5ek1aODBJR3dHbk0xbjNQaEFVWGpYc1R1b0Nn?oc=5)
+
+---
 
 
 <div class="disclaimer">

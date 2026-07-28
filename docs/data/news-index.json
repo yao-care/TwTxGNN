@@ -1,222 +1,15 @@
 {
-  "generated": "2026-07-28T08:16:04.810158+00:00",
+  "generated": "2026-07-28T11:09:27.529385+00:00",
   "count": 13,
   "news": [
     {
-      "id": "53bf781c7089",
-      "title": "研究：阿茲海默症睡眠障礙 可能有關免疫細胞反應",
-      "published": "2026-07-28T05:50:00+00:00",
+      "id": "4604ca2d6b5b",
+      "title": "不只補鈣！醫揭維生素D強大功能",
+      "published": "2026-07-28T10:18:45+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ySFJlN3FpdnZHRXRXWEJydTk3bGVIUVUyYUw1ZHNXcEhtby00cVBfR2lVeUcteVhTME9Ya2MzQlRyQzNpT3QtcmJkZDMxajZwU1pZc2JuQ3p0TFpOYTg5NVhpeXXSAWpBVV95cUxNWmlkYm9MUC0tTjA1Y3I5elE2cW9DejRjeVQ3NDMxb0xCdGVDMmF2aHMxcUZ6dUZncGFUeUFpb2xGQ1ZyMHlkaGZIUlZpNEFkdk9XU1VJY3hkVVFYcTRablI1VzlRQngwLThR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e6086ac700ec",
-      "title": "膝蓋痛就吃葡萄糖胺？研究提醒：顧了關節，卻可能讓大腦退化加速",
-      "published": "2026-07-28T05:06:35+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNOVpOaTFxZEZiTDBnWXBkMEhHVENyejZFU3VFUko2NnVLNG9qZHg0b1VEd1VkLUNXLTVHNjR6Q3c3dy16ZkNfejM1U1lwZnd1aElRY2tIeHdEOE1nc0luc00wMGNmM3NEYXVRV1hrT3RqaFdtOEhmdVItYi1Rc21KZFRQZ0tTckxIVTBDeUlET0tpQm5YM2FDSmV1MWp0SXJrTHR0ME1vYVRQbjVzSVJJRDkza0RlRERSdGFYbnNBYVFadU5PakdEd1RHQzNTTUZDU041WGRMVjk4X1JuVVkyY3NMUTJQaXRJVGctTFFkTEp5d3dtSUpWQjdSWlNjUnpYZ3FCbk1McVZFUmdiS19ab2NpMktmVVg5eU0xcWYyRTdYaVR2Qk0zZ29uVDFXakJPNHB1aFZZMl9rRm44cU9xWmFSMHBmU2xIelBlTWFuUEFjc2puLUcyRmxZUzdaY0ptSldTZlJCckg4NWZLUE81elhSREZSMGdvTGxHS1lKVWlBdkVjTnh2a20xRHl5aXRBUUZTem5xQzlWd28?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a7066aec7e28",
-      "title": "伴侶不乾淨？女性性行為後易泌尿道感染 婦產科醫揭真相",
-      "published": "2026-07-28T02:20:59+00:00",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PdXdzWVRPYnBtU2lMWFJ3ODJPbzFUR1RFOEtMTXQ2c0ViSWI0UlpFYzc3RzVnN0xtRnpTd2RHODBNUE5VZzRMeGtRRXY5aTE30gFWQVVfeXFMT09aQ3VvMXBzcDBpNmtDWXZldHYwQTQwTzM1bktKNU02N3hYOEtTNGNQTm5sQUZFeE1FNHE4ZGc1UlJDNEd0YjVzVXdrX3hxYmg3bTg3MlE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "泌尿道",
-          "keyword": "泌尿道",
-          "related_drugs": [
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "702fd2bd9568",
-      "title": "這蔬菜鈣含量竟超越牛奶！不只護眼又顧心血管，營養師：別跟２類食物一起吃",
-      "published": "2026-07-28T02:19:14+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQYkRCbTAwX2tfZlQ5Z29hUkcwZXoyT2M0Z0tncVdfc1o1UjZmSWk2anUzMFVLa0d4MGxBWWRxNkJXMHo3ZFZYNGhIaFUzTEtXY2lQVVNRVWUtZ1BEaFpoSmtNUS1CbWtzWXRoQmhHNGI5ekFkUEo2RXRqWlBaZjRxSnUtaG4xM2dpdm1ydnJXRm5uOE9GQ0ctMGg5TDFoYVNuZFF1d0NVUXlZM3NSclRGYTRKcnZtY2FWODh5eHBaZXhGRDRTNUtpdnhTbUFDdnVHME5YN2VpOVdiY09iZkdhUHJQWUkxN0pwSGZyZFo3cEpTQnV1dXBZeWlIOFoxTjRudmJSN2FiOGUwSkkyRzlQYW9zakdXOU0yXzc5N0VrUGoxSWhhVEdKb2xsQldPUTFPOHBsRUlVUWJGS09XUXc3ZktrS0lWYzIyTC1iU1l4ZmRsQXE4dVJHeTdJcWs1M1VFWFREa1h3TjVyS3MzZUluTEd3YkJrbDdQVEctRGdjYTRCeV9IXzZkbDBDeGJTMXQ5UDFnRmhnVG5NSWZaYjFDNDctUjBJSEZC?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cc728b374c35",
-      "title": "不菸不酒仍罹病 HPV成口咽癌隱憂",
-      "published": "2026-07-28T01:08:41+00:00",
-      "sources": [
-        {
-          "name": "人間福報電子報",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ndGZZUWJNcm9sTXlrOWNSd19lbTBPemtkWUhPLTNIN0xQc1RpazRqS21kWjRWTVdhcU50amFDX09PVkNpaUJnbDJSQjZ0d2EtQ014UmI5bEwxWW56VWdIQ1BrWV9JOUE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "頭頸癌",
-          "keyword": "頭頸癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a2d2c995366d",
-      "title": "照護線上》預防嬰幼兒呼吸道細胞融合病毒RSV怎麼做？RSV單株抗體、RSV孕婦疫苗差在哪？醫解析重症與氣喘風險",
-      "published": "2026-07-28T00:00:00+00:00",
-      "sources": [
-        {
-          "name": "自由評論網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uSWxaTHNNWFByLXBYakw0UlNudWVpQ2NKdUxkX01kWjVJUEt1bXZjeXRfY2FCY3hHZGtrUlNEb25STV9qMWEzbHdrSEN5WjR6Z011WGlHTHdUbzVJRk1IMnBn0gFnQVVfeXFMTWpwQkl5QUUxX2dIdmt6RGlOTlA0a2h1c0pRQUxJZVc5QUJIaEtET3RUb0ZrWGJfbW9Ec2pBRDdMZDBEU2Rmci1QWWRJaFhycmlLdHJ6clhzQnJRYkdZZmMyTUp1Z2xJRQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "氣喘",
-          "keyword": "氣喘",
-          "related_drugs": [
-            {
-              "slug": "dupilumab",
-              "name": "Dupilumab"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "669209bcbf34",
-      "title": "新冠快篩不能只看發燒！醫曝6症狀出現就該注意 | TVBS - LINE TODAY",
-      "published": "2026-07-27T12:55:46+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BRlRKUzUtOXVCcFBua2JvWXUwUTF6UG5XdWR6TjVtRTE3WGlCY0hUT2wzMmZRZUt1Zi03dU9jNlpIU0J1QXI4U2xYeXlXWGdhM29oS3B3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "45e17d7d5e7e",
-      "title": "有阿兹海默病变不一定失智 研究揭大脑关键转折",
-      "published": "2026-07-27T11:20:23+00:00",
-      "sources": [
-        {
-          "name": "soundofhope.org",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ed0kxbnhIODhHUGw1T1NnWi1UdG5DVlowaFZCbXUxOFNTQ3JpUjRXTlB5enR5ODZmeDdKQVZILTgzTjYtMTE2dU9Yd21udzJ0?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "423925538181",
-      "title": "天天曬太陽也不夠 醫揭缺維生素D恐提高糖尿病、罹癌風險",
-      "published": "2026-07-27T05:51:00+00:00",
-      "sources": [
-        {
-          "name": "民報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OcWhMSWNNLXZ5cXZsZDl6QjdTR1VJMDZGdlBjcUdnZlJxV3I3Z0ZmNG1lVHFJbXVFS29tSkRVVUFyaC00cEtEQ0JkTW1qeTY0Y0drejFRLWk4M1A4VWJ0OQ?oc=5"
+          "name": "翻爆",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UaFMtc3VidHBwLW9JUDV1NkN0eXIzaXl2X29QVERhbUlZcUpGeWpzYjJZdEtiYmJPc0VFbDExU2pGMzFORDIzU2RDRW54cG8?oc=5"
         }
       ],
       "keywords": [
@@ -286,6 +79,243 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1c844d495c00",
+      "title": "關節保養別再只會吃葡萄糖胺！專家揭關節退化真相保養4祕訣關節用更久- 營養好食",
+      "published": "2026-07-28T08:02:00+00:00",
+      "sources": [
+        {
+          "name": "健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0SGdac242NnJSNEo1VEJZaWtnQ29rWFFkbFF4dDVzSkt1a05rWWJEVWZOMXNSVVd4MHhsV3E4NHRKUjAtSmdxeFV0MGJIbGtyYlJpdHJn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b26304ff0fc9",
+      "title": "女生性行為後容易泌尿道感染！醫生揭「真兇」",
+      "published": "2026-07-28T07:03:00+00:00",
+      "sources": [
+        {
+          "name": "winnews.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1iMHJxa1pDSjJ6TThLcGlCU0ZNcUZWYU0zRng2MWZLTUJlUnRySzMwQTAxMWprTDY1LVc2NndPQnh3QTZOc3MzOHZn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "泌尿道",
+          "keyword": "泌尿道",
+          "related_drugs": [
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "53bf781c7089",
+      "title": "研究：阿茲海默症睡眠障礙 可能有關免疫細胞反應",
+      "published": "2026-07-28T05:50:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ySFJlN3FpdnZHRXRXWEJydTk3bGVIUVUyYUw1ZHNXcEhtby00cVBfR2lVeUcteVhTME9Ya2MzQlRyQzNpT3QtcmJkZDMxajZwU1pZc2JuQ3p0TFpOYTg5NVhpeXXSAWpBVV95cUxNWmlkYm9MUC0tTjA1Y3I5elE2cW9DejRjeVQ3NDMxb0xCdGVDMmF2aHMxcUZ6dUZncGFUeUFpb2xGQ1ZyMHlkaGZIUlZpNEFkdk9XU1VJY3hkVVFYcTRablI1VzlRQngwLThR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4f8a8b032acc",
+      "title": "喉嚨痛像吞刀片？最新新冠症狀有哪些？快篩什麼時候驗最準？確診後吃什麼快快好？WH 幫你整理最實用的照護懶人包！ - Women's Health",
+      "published": "2026-07-28T04:06:30+00:00",
+      "sources": [
+        {
+          "name": "Women's Health",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbmRoR1N2eWJrb2JPY0dBRWdQamMwUG9kZGlJbFBVRXZaZndfclJObkZoRGlUdTdfcDhhRHc1aUtodUVuekFza1pzMjA4M3NBYXNQZno3TThNSlFWVWlmVkRvZVNEQS1NZlk1VlFyczh0bmdsWjcySm5vci14cUl0Ul83R1JuWFQxdVdpcVlDRVdYYUFucUFhUTJCREZwX3J6ZzZkVW5VNXBQOTBtWmtSVVB5SQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "860f86014720",
+      "title": "走路會喘、膽固醇飆高恐是血管警訊！腦中風權威教你用「CPR三步導航」守護心腦血管健康| 信傳媒 - LINE TODAY",
+      "published": "2026-07-28T03:53:56+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9va1pWQkMwdTFVRzlEV1ZlWnAzQXdON3htaE4zUkZTTUgwaTZhZFk1RjI3S0c2SWN1MWs5ek1aODBJR3dHbk0xbjNQaEFVWGpYc1R1b0Nn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腦中風",
+          "keyword": "腦中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腦血管",
+          "keyword": "腦血管",
+          "related_drugs": [
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "702fd2bd9568",
+      "title": "這蔬菜鈣含量竟超越牛奶！不只護眼又顧心血管，營養師：別跟２類食物一起吃",
+      "published": "2026-07-28T02:19:14+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQYkRCbTAwX2tfZlQ5Z29hUkcwZXoyT2M0Z0tncVdfc1o1UjZmSWk2anUzMFVLa0d4MGxBWWRxNkJXMHo3ZFZYNGhIaFUzTEtXY2lQVVNRVWUtZ1BEaFpoSmtNUS1CbWtzWXRoQmhHNGI5ekFkUEo2RXRqWlBaZjRxSnUtaG4xM2dpdm1ydnJXRm5uOE9GQ0ctMGg5TDFoYVNuZFF1d0NVUXlZM3NSclRGYTRKcnZtY2FWODh5eHBaZXhGRDRTNUtpdnhTbUFDdnVHME5YN2VpOVdiY09iZkdhUHJQWUkxN0pwSGZyZFo3cEpTQnV1dXBZeWlIOFoxTjRudmJSN2FiOGUwSkkyRzlQYW9zakdXOU0yXzc5N0VrUGoxSWhhVEdKb2xsQldPUTFPOHBsRUlVUWJGS09XUXc3ZktrS0lWYzIyTC1iU1l4ZmRsQXE4dVJHeTdJcWs1M1VFWFREa1h3TjVyS3MzZUluTEd3YkJrbDdQVEctRGdjYTRCeV9IXzZkbDBDeGJTMXQ5UDFnRmhnVG5NSWZaYjFDNDctUjBJSEZC?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cc728b374c35",
+      "title": "不菸不酒仍罹病 HPV成口咽癌隱憂",
+      "published": "2026-07-28T01:08:41+00:00",
+      "sources": [
+        {
+          "name": "人間福報電子報",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ndGZZUWJNcm9sTXlrOWNSd19lbTBPemtkWUhPLTNIN0xQc1RpazRqS21kWjRWTVdhcU50amFDX09PVkNpaUJnbDJSQjZ0d2EtQ014UmI5bEwxWW56VWdIQ1BrWV9JOUE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "頭頸癌",
+          "keyword": "頭頸癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "45e17d7d5e7e",
+      "title": "有阿兹海默病变不一定失智 研究揭大脑关键转折",
+      "published": "2026-07-27T11:20:23+00:00",
+      "sources": [
+        {
+          "name": "soundofhope.org",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ed0kxbnhIODhHUGw1T1NnWi1UdG5DVlowaFZCbXUxOFNTQ3JpUjRXTlB5enR5ODZmeDdKQVZILTgzTjYtMTE2dU9Yd21udzJ0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }

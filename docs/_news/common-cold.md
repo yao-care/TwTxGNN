@@ -31,11 +31,11 @@ permalink: /news/common-cold/
 
 ## 相關新聞（2 則）
 
-### [新冠快篩不能只看發燒！醫曝6症狀出現就該注意 | TVBS - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BRlRKUzUtOXVCcFBua2JvWXUwUTF6UG5XdWR6TjVtRTE3WGlCY0hUT2wzMmZRZUt1Zi03dU9jNlpIU0J1QXI4U2xYeXlXWGdhM29oS3B3?oc=5)
+### [喉嚨痛像吞刀片？最新新冠症狀有哪些？快篩什麼時候驗最準？確診後吃什麼快快好？WH 幫你整理最實用的照護懶人包！ - Women's Health](https://news.google.com/rss/articles/CBMiswFBVV95cUxPbmRoR1N2eWJrb2JPY0dBRWdQamMwUG9kZGlJbFBVRXZaZndfclJObkZoRGlUdTdfcDhhRHc1aUtodUVuekFza1pzMjA4M3NBYXNQZno3TThNSlFWVWlmVkRvZVNEQS1NZlk1VlFyczh0bmdsWjcySm5vci14cUl0Ul83R1JuWFQxdVdpcVlDRVdYYUFucUFhUTJCREZwX3J6ZzZkVW5VNXBQOTBtWmtSVVB5SQ?oc=5)
 
-2026-07-27
+2026-07-28
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BRlRKUzUtOXVCcFBua2JvWXUwUTF6UG5XdWR6TjVtRTE3WGlCY0hUT2wzMmZRZUt1Zi03dU9jNlpIU0J1QXI4U2xYeXlXWGdhM29oS3B3?oc=5)
+來源：[Women's Health](https://news.google.com/rss/articles/CBMiswFBVV95cUxPbmRoR1N2eWJrb2JPY0dBRWdQamMwUG9kZGlJbFBVRXZaZndfclJObkZoRGlUdTdfcDhhRHc1aUtodUVuekFza1pzMjA4M3NBYXNQZno3TThNSlFWVWlmVkRvZVNEQS1NZlk1VlFyczh0bmdsWjcySm5vci14cUl0Ul83R1JuWFQxdVdpcVlDRVdYYUFucUFhUTJCREZwX3J6ZzZkVW5VNXBQOTBtWmtSVVB5SQ?oc=5)
 
 ---
 
