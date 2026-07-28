@@ -14,7 +14,7 @@ permalink: /news/iodixanol/
 ---
 
 <p class="key-answer" data-question="Iodixanol 有什麼相關新聞？">
-<strong>Iodixanol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Iodixanol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,27 +29,19 @@ permalink: /news/iodixanol/
 <li><strong>預測適應症</strong>（3 個）：<ul>
 <li>osteoarthritis susceptibility（99.2%）</li>
 <li>osteoarthritis（99.1%）</li>
-<li class="indication-matched">rheumatoid arthritis（99.0%）<span class="indication-tag">📰 關節炎</span></li>
+<li>rheumatoid arthritis（99.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/iodixanol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [走路會喘、膽固醇飆高恐是血管警訊！腦中風權威教你用「CPR三步導航」守護心腦血管健康| 信傳媒 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9va1pWQkMwdTFVRzlEV1ZlWnAzQXdON3htaE4zUkZTTUgwaTZhZFk1RjI3S0c2SWN1MWs5ek1aODBJR3dHbk0xbjNQaEFVWGpYc1R1b0Nn?oc=5)
+### [走路會喘、膽固醇飆高恐是血管警訊！腦中風權威教你用「CPR三步導航」守護心腦血管健康](https://news.google.com/rss/articles/CBMigARBVV95cUxPVnBpS1BPa0p2MXN4TngxWERadUd2bnR6NDQ4RDIyMi1SUEV6eDk2a2VkVjRSeXhlVzB5cTdLNGh0aGhhdW1VY25aUzIzOGk5Y2xwWWZQSWQyR08yX204QlFzNU5nWnlPSFFmazJPOEhrUHRma0xVWHNFWHh4U2txb2JFQ3pud1MwSVhQUUI4eUVRcUxRWGtMRlVKQzRJTjlCMVNBRUhWay1hanBtcjcwT05RelVEaEhOcDhnU2Q5N1l0Y2NCb1JpWHF4Qkp4QVV3dm1LNjk2eTg2Q25qcUZPWVUtSGFMMFQxWFY0Z2ljOGlRNGFfY1dPTTRsbmdnVTZmYVZ5NkJiUWpXRUVXTkVDbXA3NlkzOGJWWHVXcGhfX3BpWm9JWjY0c01KQXZUM0hGTEpVOTJBSDd0V09lelp2OTg3TjB4cU00QTM3ZGFMWlFtYUdpbXdOWDItXzNKNXhwRk0ySTFnb0ROcGVvYmh6cm1vNW1xODJ3LWxyMy0tN1NXRkZ5Zmh6ZXdqWHBIXzItTVNtekRROWxYbk5KLW5VVjRwaERtZXVERi16M29aclFZU1luNEJETDAwcFBxWU5QZUNab3JNRHFmWEFqWDFrS0l5cjBvTl9JcVZOV19DVXYyVVNJVG1fQ1VBT1E3cE51NUJ4ZVUxdGxZSTZNMGx6Qw?oc=5)
 
 2026-07-28 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">腦中風</span> <span class="news-indication-tag">腦血管</span>
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9va1pWQkMwdTFVRzlEV1ZlWnAzQXdON3htaE4zUkZTTUgwaTZhZFk1RjI3S0c2SWN1MWs5ek1aODBJR3dHbk0xbjNQaEFVWGpYc1R1b0Nn?oc=5)
-
----
-
-### [研究揭膝蓋痛竟和腸道菌有關補充1種纖維有助減痛| 菊糖| 益生元膳食纖維| 減輕膝蓋疼痛| 提升身體功能與握力](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yZFA5NEVPVUNWdEd2LW1QTlJSNld0YktwTFhZZmw5N3pJcXZ6MEZNVUhsMWFJS3VOZ1BvRWpxbnVNeGpnd09wZjVfX0txb0I0cW80QTlYMDFFQUk?oc=5)
-
-2026-07-26 <span class="news-indication-tag">關節炎</span>
-
-來源：[soundofhope.org](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yZFA5NEVPVUNWdEd2LW1QTlJSNld0YktwTFhZZmw5N3pJcXZ6MEZNVUhsMWFJS3VOZ1BvRWpxbnVNeGpnd09wZjVfX0txb0I0cW80QTlYMDFFQUk?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMigARBVV95cUxPVnBpS1BPa0p2MXN4TngxWERadUd2bnR6NDQ4RDIyMi1SUEV6eDk2a2VkVjRSeXhlVzB5cTdLNGh0aGhhdW1VY25aUzIzOGk5Y2xwWWZQSWQyR08yX204QlFzNU5nWnlPSFFmazJPOEhrUHRma0xVWHNFWHh4U2txb2JFQ3pud1MwSVhQUUI4eUVRcUxRWGtMRlVKQzRJTjlCMVNBRUhWay1hanBtcjcwT05RelVEaEhOcDhnU2Q5N1l0Y2NCb1JpWHF4Qkp4QVV3dm1LNjk2eTg2Q25qcUZPWVUtSGFMMFQxWFY0Z2ljOGlRNGFfY1dPTTRsbmdnVTZmYVZ5NkJiUWpXRUVXTkVDbXA3NlkzOGJWWHVXcGhfX3BpWm9JWjY0c01KQXZUM0hGTEpVOTJBSDd0V09lelp2OTg3TjB4cU00QTM3ZGFMWlFtYUdpbXdOWDItXzNKNXhwRk0ySTFnb0ROcGVvYmh6cm1vNW1xODJ3LWxyMy0tN1NXRkZ5Zmh6ZXdqWHBIXzItTVNtekRROWxYbk5KLW5VVjRwaERtZXVERi16M29aclFZU1luNEJETDAwcFBxWU5QZUNab3JNRHFmWEFqWDFrS0l5cjBvTl9JcVZOV19DVXYyVVNJVG1fQ1VBT1E3cE51NUJ4ZVUxdGxZSTZNMGx6Qw?oc=5)
 
 ---
 
