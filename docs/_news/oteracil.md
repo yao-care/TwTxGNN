@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [不菸不酒也中鏢！男性口咽癌發生率超越子宮頸癌 隱形殺手曝](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YeUhuQ3l4SGRKR0dTWWRMd2pCVC10WFllQTA5NV9WQ3FaOUM0bmQyRHBBVkhjZHpPX3FUNWpqd3RmdjN5WjJETjRR?oc=5)
 
 2026-07-29 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">頭頸癌</span>
 
 來源：[winnews.com.tw](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YeUhuQ3l4SGRKR0dTWWRMd2pCVC10WFllQTA5NV9WQ3FaOUM0bmQyRHBBVkhjZHpPX3FUNWpqd3RmdjN5WjJETjRR?oc=5)
-
----
-
-### [從大便顏色看腸道健康：紅色不一定是腸胃出血！黑色是腸癌先兆？ - etnet 經濟通](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lbG1GUTZwYXRjbGNQQjZTNUc5b05QREg5OFhWUWwzeGZjUk9VX2o3SWZ3MTFYQldtVXRINGNucXc0b0ltZnRQM1lDU3Bxd2gxaDFGOFotSmE?oc=5)
-
-2026-07-28 <span class="news-indication-tag">腸癌</span>
-
-來源：[etnet 經濟通](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lbG1GUTZwYXRjbGNQQjZTNUc5b05QREg5OFhWUWwzeGZjUk9VX2o3SWZ3MTFYQldtVXRINGNucXc0b0ltZnRQM1lDU3Bxd2gxaDFGOFotSmE?oc=5)
 
 ---
 

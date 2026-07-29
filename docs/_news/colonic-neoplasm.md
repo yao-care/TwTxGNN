@@ -3,7 +3,7 @@ layout: default
 title: "大腸癌（colonic neoplasm） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
+description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/colonic-neoplasm/
 ---
 
 <p class="key-answer" data-question="大腸癌（colonic neoplasm） 有什麼相關新聞？">
-<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
+<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/colonic-neoplasm/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [不菸不酒也中鏢！男性口咽癌發生率超越子宮頸癌 隱形殺手曝](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YeUhuQ3l4SGRKR0dTWWRMd2pCVC10WFllQTA5NV9WQ3FaOUM0bmQyRHBBVkhjZHpPX3FUNWpqd3RmdjN5WjJETjRR?oc=5)
 
 2026-07-29
 
 來源：[winnews.com.tw](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YeUhuQ3l4SGRKR0dTWWRMd2pCVC10WFllQTA5NV9WQ3FaOUM0bmQyRHBBVkhjZHpPX3FUNWpqd3RmdjN5WjJETjRR?oc=5)
-
----
-
-### [從大便顏色看腸道健康：紅色不一定是腸胃出血！黑色是腸癌先兆？ - etnet 經濟通](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lbG1GUTZwYXRjbGNQQjZTNUc5b05QREg5OFhWUWwzeGZjUk9VX2o3SWZ3MTFYQldtVXRINGNucXc0b0ltZnRQM1lDU3Bxd2gxaDFGOFotSmE?oc=5)
-
-2026-07-28
-
-來源：[etnet 經濟通](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lbG1GUTZwYXRjbGNQQjZTNUc5b05QREg5OFhWUWwzeGZjUk9VX2o3SWZ3MTFYQldtVXRINGNucXc0b0ltZnRQM1lDU3Bxd2gxaDFGOFotSmE?oc=5)
 
 ---
 
