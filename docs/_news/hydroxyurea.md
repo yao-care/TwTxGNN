@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [不菸不酒也中鏢！男性口咽癌發生率超越子宮頸癌 隱形殺手曝](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YeUhuQ3l4SGRKR0dTWWRMd2pCVC10WFllQTA5NV9WQ3FaOUM0bmQyRHBBVkhjZHpPX3FUNWpqd3RmdjN5WjJETjRR?oc=5)
 
@@ -64,15 +64,7 @@ permalink: /news/hydroxyurea/
 
 2026-07-28 <span class="news-indication-tag">乳癌</span>
 
-來源：[hk01.com](https://news.google.com/rss/articles/CBMinANBVV95cUxNTmloM2l4d1pvcTFocXZuamtYWGNXX2NnNjdNR0EtWkMzSUFfOVZJekFmVzlQZS1ZNG5TbjFHLWhnRTlrcVhwVTVSNWpBWDRsLUVNcFVRYzZZTm9vcTBtd241MnRWYnBpWTV1NTFaUDg0Tm9hSVA2Rk9Kd2YxWUlJOXNGR29RU2Z5eW9hY2NKby1COUlhc1BoWWN6d0lnTWl2WXhDYkM0WXFDNW5EX0Nwb2lWdmJzajZ3ejg5TWNPUkZHMkJmZ2ZCWmpxR1FhTEN6R1hhVVkyNUpXSTQxVERMVWhiaFNJcG9VTDZVMXNuOVJWZWdrOXFDbFRBZFVQTHRDRHpfSEpIZUt1enpfZHNWbm1XNjRQWS1SdGRNYUdmMXdSZlo1RUpkZE1Mbzh0NkpVRW9FSUIwOG5ycld1bU9zVVFuU1Z1bnpndjhxOWo1ZnNSQjdZVTNmdEdWSENvUG9hTVpzQXpEQmtmRVZGd2lxYW1Sekl1MmFnYzNoVFcwaU5ySWhGOHgzZU5wSGduOEtRX3hqZ19UQVJvYlAz?oc=5)
-
----
-
-### [健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9obzVKWXRFdkdjY2tobV9SVFpXTnNDNW03NnRXeFdfSTZXNVdMdmdpNUFxb1dRdmtpTDBLZHgyeXllOHZJeW5VS2lOSkM5UzJqWk9ZVTRB?oc=5)
-
-2026-07-27 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9obzVKWXRFdkdjY2tobV9SVFpXTnNDNW03NnRXeFdfSTZXNVdMdmdpNUFxb1dRdmtpTDBLZHgyeXllOHZJeW5VS2lOSkM5UzJqWk9ZVTRB?oc=5)
+來源：[香港01](https://news.google.com/rss/articles/CBMinANBVV95cUxNTmloM2l4d1pvcTFocXZuamtYWGNXX2NnNjdNR0EtWkMzSUFfOVZJekFmVzlQZS1ZNG5TbjFHLWhnRTlrcVhwVTVSNWpBWDRsLUVNcFVRYzZZTm9vcTBtd241MnRWYnBpWTV1NTFaUDg0Tm9hSVA2Rk9Kd2YxWUlJOXNGR29RU2Z5eW9hY2NKby1COUlhc1BoWWN6d0lnTWl2WXhDYkM0WXFDNW5EX0Nwb2lWdmJzajZ3ejg5TWNPUkZHMkJmZ2ZCWmpxR1FhTEN6R1hhVVkyNUpXSTQxVERMVWhiaFNJcG9VTDZVMXNuOVJWZWdrOXFDbFRBZFVQTHRDRHpfSEpIZUt1enpfZHNWbm1XNjRQWS1SdGRNYUdmMXdSZlo1RUpkZE1Mbzh0NkpVRW9FSUIwOG5ycld1bU9zVVFuU1Z1bnpndjhxOWo1ZnNSQjdZVTNmdEdWSENvUG9hTVpzQXpEQmtmRVZGd2lxYW1Sekl1MmFnYzNoVFcwaU5ySWhGOHgzZU5wSGduOEtRX3hqZ19UQVJvYlAz?oc=5)
 
 ---
 

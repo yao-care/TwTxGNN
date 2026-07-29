@@ -44,11 +44,11 @@ permalink: /news/paclitaxel/
 
 ## 相關新聞（4 則）
 
-### [女性失智症盛行率比男性高！醫揭4可能原因 更年期後應警惕](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLcjliYmxNR1F2RDBtTjg4aTFiLXNacnZIWUhNeG14ZGJpZGkybGozalJyc25jZ3lJTlRDMEttZmxSWHNmVFhQMTdOOUJSWGpuOWVUUHZR?oc=5)
+### [女性失智症盛行率比男性高！醫揭4可能原因 更年期後應警惕 - FTNN 新聞](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XdzZkNFhpUFVaVkl5bDNTanNzRk0xT0ZHN3RPRXh4WHl1b0dsUUJtUEx4S1Q1c3RQa09RMEhXOFF6a3NpMHNuVFhybw?oc=5)
 
 2026-07-29 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
 
-來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLcjliYmxNR1F2RDBtTjg4aTFiLXNacnZIWUhNeG14ZGJpZGkybGozalJyc25jZ3lJTlRDMEttZmxSWHNmVFhQMTdOOUJSWGpuOWVUUHZR?oc=5)
+來源：[FTNN 新聞](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XdzZkNFhpUFVaVkl5bDNTanNzRk0xT0ZHN3RPRXh4WHl1b0dsUUJtUEx4S1Q1c3RQa09RMEhXOFF6a3NpMHNuVFhybw?oc=5)
 
 ---
 
@@ -72,7 +72,7 @@ permalink: /news/paclitaxel/
 
 2026-07-28 <span class="news-indication-tag">乳癌</span>
 
-來源：[hk01.com](https://news.google.com/rss/articles/CBMinANBVV95cUxNTmloM2l4d1pvcTFocXZuamtYWGNXX2NnNjdNR0EtWkMzSUFfOVZJekFmVzlQZS1ZNG5TbjFHLWhnRTlrcVhwVTVSNWpBWDRsLUVNcFVRYzZZTm9vcTBtd241MnRWYnBpWTV1NTFaUDg0Tm9hSVA2Rk9Kd2YxWUlJOXNGR29RU2Z5eW9hY2NKby1COUlhc1BoWWN6d0lnTWl2WXhDYkM0WXFDNW5EX0Nwb2lWdmJzajZ3ejg5TWNPUkZHMkJmZ2ZCWmpxR1FhTEN6R1hhVVkyNUpXSTQxVERMVWhiaFNJcG9VTDZVMXNuOVJWZWdrOXFDbFRBZFVQTHRDRHpfSEpIZUt1enpfZHNWbm1XNjRQWS1SdGRNYUdmMXdSZlo1RUpkZE1Mbzh0NkpVRW9FSUIwOG5ycld1bU9zVVFuU1Z1bnpndjhxOWo1ZnNSQjdZVTNmdEdWSENvUG9hTVpzQXpEQmtmRVZGd2lxYW1Sekl1MmFnYzNoVFcwaU5ySWhGOHgzZU5wSGduOEtRX3hqZ19UQVJvYlAz?oc=5)
+來源：[香港01](https://news.google.com/rss/articles/CBMinANBVV95cUxNTmloM2l4d1pvcTFocXZuamtYWGNXX2NnNjdNR0EtWkMzSUFfOVZJekFmVzlQZS1ZNG5TbjFHLWhnRTlrcVhwVTVSNWpBWDRsLUVNcFVRYzZZTm9vcTBtd241MnRWYnBpWTV1NTFaUDg0Tm9hSVA2Rk9Kd2YxWUlJOXNGR29RU2Z5eW9hY2NKby1COUlhc1BoWWN6d0lnTWl2WXhDYkM0WXFDNW5EX0Nwb2lWdmJzajZ3ejg5TWNPUkZHMkJmZ2ZCWmpxR1FhTEN6R1hhVVkyNUpXSTQxVERMVWhiaFNJcG9VTDZVMXNuOVJWZWdrOXFDbFRBZFVQTHRDRHpfSEpIZUt1enpfZHNWbm1XNjRQWS1SdGRNYUdmMXdSZlo1RUpkZE1Mbzh0NkpVRW9FSUIwOG5ycld1bU9zVVFuU1Z1bnpndjhxOWo1ZnNSQjdZVTNmdEdWSENvUG9hTVpzQXpEQmtmRVZGd2lxYW1Sekl1MmFnYzNoVFcwaU5ySWhGOHgzZU5wSGduOEtRX3hqZ19UQVJvYlAz?oc=5)
 
 ---
 

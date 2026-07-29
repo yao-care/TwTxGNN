@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [不菸不酒也中鏢！男性口咽癌發生率超越子宮頸癌 隱形殺手曝](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YeUhuQ3l4SGRKR0dTWWRMd2pCVC10WFllQTA5NV9WQ3FaOUM0bmQyRHBBVkhjZHpPX3FUNWpqd3RmdjN5WjJETjRR?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/oteracil/
 2026-07-28 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[翻爆](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UaFMtc3VidHBwLW9JUDV1NkN0eXIzaXl2X29QVERhbUlZcUpGeWpzYjJZdEtiYmJPc0VFbDExU2pGMzFORDIzU2RDRW54cG8?oc=5)
-
----
-
-### [健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9obzVKWXRFdkdjY2tobV9SVFpXTnNDNW03NnRXeFdfSTZXNVdMdmdpNUFxb1dRdmtpTDBLZHgyeXllOHZJeW5VS2lOSkM5UzJqWk9ZVTRB?oc=5)
-
-2026-07-27 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9obzVKWXRFdkdjY2tobV9SVFpXTnNDNW03NnRXeFdfSTZXNVdMdmdpNUFxb1dRdmtpTDBLZHgyeXllOHZJeW5VS2lOSkM5UzJqWk9ZVTRB?oc=5)
 
 ---
 

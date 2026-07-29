@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-29T21:51:01.782067+00:00",
-  "count": 26,
+  "fetched_at": "2026-07-29T22:51:51.621467+00:00",
+  "count": 25,
   "news": [
     {
       "id": "01e4959d0f0e",
@@ -16,14 +16,14 @@
       ]
     },
     {
-      "id": "a9306b02fb12",
-      "title": "女性失智症盛行率比男性高！醫揭4可能原因 更年期後應警惕 - 健康醫療網",
-      "published": "2026-07-29T12:00:00+00:00",
-      "summary": "女性失智症盛行率比男性高！醫揭4可能原因 更年期後應警惕&nbsp;&nbsp;健康醫療網",
+      "id": "aec28e704b30",
+      "title": "女性失智症盛行率比男性高！醫揭4可能原因 更年期後應警惕 - FTNN 新聞",
+      "published": "2026-07-29T14:00:00+00:00",
+      "summary": "女性失智症盛行率比男性高！醫揭4可能原因 更年期後應警惕&nbsp;&nbsp;FTNN 新聞",
       "sources": [
         {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLcjliYmxNR1F2RDBtTjg4aTFiLXNacnZIWUhNeG14ZGJpZGkybGozalJyc25jZ3lJTlRDMEttZmxSWHNmVFhQMTdOOUJSWGpuOWVUUHZR?oc=5"
+          "name": "FTNN 新聞",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XdzZkNFhpUFVaVkl5bDNTanNzRk0xT0ZHN3RPRXh4WHl1b0dsUUJtUEx4S1Q1c3RQa09RMEhXOFF6a3NpMHNuVFhybw?oc=5"
         }
       ]
     },
@@ -76,18 +76,6 @@
       ]
     },
     {
-      "id": "a6a9e9a81b08",
-      "title": "總是太體貼、太能忍？研究發現這些「好人特質」可能正傷害你的身體 - 經濟日報",
-      "published": "2026-07-28T14:14:52+00:00",
-      "summary": "總是太體貼、太能忍？研究發現這些「好人特質」可能正傷害你的身體&nbsp;&nbsp;經濟日報",
-      "sources": [
-        {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfRU9UVkotX3pMS2hGRDA4dlZJRmZRSlBFTm84d2RVNXVrSDdvZTY4UVJCT05VM1NXQXVJdHZFQk5LcGZaWmZPWFlsYTZZbGZnNDhiX1ZYSVlGdE5lQVZZ0gFfQVVfeXFMUF9FT1RWSi1fekxLaEZEMDh2VklGZlFKUEVObzh3ZFU1dWtIN29lNjhRUkJPTlUzU1dBdUl0dkVCTktwZlpaZk9YWWxhNllsZmc0OGJfVlhJWUZ0TmVBVlk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "283d529e5ff0",
       "title": "連跑三家藥局撲空…新冠疫情快篩需求增 疾管署：超商、連鎖藥局穩供貨 - UDN",
       "published": "2026-07-28T08:38:21+00:00",
@@ -136,18 +124,6 @@
       ]
     },
     {
-      "id": "3b7cd82daaba",
-      "title": "健康網》孕婦染新冠、流感別硬撐！ 醫：出現4警訊快就醫 - 自由健康網",
-      "published": "2026-07-29T08:19:00+00:00",
-      "summary": "健康網》孕婦染新冠、流感別硬撐！ 醫：出現4警訊快就醫&nbsp;&nbsp;自由健康網孕婦染新冠千萬別當一般感冒！ 醫：「6大情況」有重症風險&nbsp;&nbsp;TVBS新聞網孕婦染COVID怕吃藥傷胎？重症醫：不治療風險更大&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hMnI3ZDJJWkVwSFpaSFY0SVFkM2ozOXhhcWFrajJGcTI2ekxzS0ptRWpPOE10a1BFQlczOE5QT1NaZ0JyQ3dXV2VIWEtKZzBGbENaSFVQR0FNWFZNQ3czcllyWmo?oc=5"
-        }
-      ]
-    },
-    {
       "id": "53bf781c7089",
       "title": "研究：阿茲海默症睡眠障礙 可能有關免疫細胞反應 - 自由健康網",
       "published": "2026-07-28T05:50:00+00:00",
@@ -160,6 +136,18 @@
       ]
     },
     {
+      "id": "3b7cd82daaba",
+      "title": "健康網》孕婦染新冠、流感別硬撐！ 醫：出現4警訊快就醫 - 自由健康網",
+      "published": "2026-07-29T08:19:00+00:00",
+      "summary": "健康網》孕婦染新冠、流感別硬撐！ 醫：出現4警訊快就醫&nbsp;&nbsp;自由健康網孕婦染新冠千萬別當一般感冒！ 醫：「6大情況」有重症風險&nbsp;&nbsp;TVBS新聞網孕婦染COVID怕吃藥傷胎？重症醫：不治療風險更大&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hMnI3ZDJJWkVwSFpaSFY0SVFkM2ozOXhhcWFrajJGcTI2ekxzS0ptRWpPOE10a1BFQlczOE5QT1NaZ0JyQ3dXV2VIWEtKZzBGbENaSFVQR0FNWFZNQ3czcllyWmo?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fc2e4cd09dd7",
       "title": "活愈久反而病愈久？新加坡人最長壽但晚年有12年要與疾病共存- 生活 - 工商時報",
       "published": "2026-07-28T03:58:00+00:00",
@@ -168,18 +156,6 @@
         {
           "name": "工商時報",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vUWY3VTdMejF3YmxqNmtKbTBzSlpmSDA2VC15T3pteTJ4N2ctend5bEpmRVRZc0lTcnQ3dkpSd0UyV0RRbFhIdHktRkFyQTlKTEFkaHlPenFZc0NZWGRv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e1ef3fab4738",
-      "title": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報 - LINE TODAY",
-      "published": "2026-07-27T21:08:28+00:00",
-      "summary": "健康網》罕見！大腸鏡竟1次切除15顆腺瘤 醫揭4原則預防大腸癌 | 自由電子報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9obzVKWXRFdkdjY2tobV9SVFpXTnNDNW03NnRXeFdfSTZXNVdMdmdpNUFxb1dRdmtpTDBLZHgyeXllOHZJeW5VS2lOSkM5UzJqWk9ZVTRB?oc=5"
         }
       ]
     },
@@ -244,6 +220,18 @@
       ]
     },
     {
+      "id": "a6a9e9a81b08",
+      "title": "總是太體貼、太能忍？研究發現這些「好人特質」可能正傷害你的身體 - 經濟日報",
+      "published": "2026-07-28T14:14:52+00:00",
+      "summary": "總是太體貼、太能忍？研究發現這些「好人特質」可能正傷害你的身體&nbsp;&nbsp;經濟日報",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfRU9UVkotX3pMS2hGRDA4dlZJRmZRSlBFTm84d2RVNXVrSDdvZTY4UVJCT05VM1NXQXVJdHZFQk5LcGZaWmZPWFlsYTZZbGZnNDhiX1ZYSVlGdE5lQVZZ0gFfQVVfeXFMUF9FT1RWSi1fekxLaEZEMDh2VklGZlFKUEVObzh3ZFU1dWtIN29lNjhRUkJPTlUzU1dBdUl0dkVCTktwZlpaZk9YWWxhNllsZmc0OGJfVlhJWUZ0TmVBVlk?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9d2b31572055",
       "title": "首款國產漸凍症藥明年有望上市 - 紫荊網",
       "published": "2026-07-29T01:53:45+00:00",
@@ -268,13 +256,13 @@
       ]
     },
     {
-      "id": "d9a75d186a8a",
-      "title": "飲酒乳癌｜32歲女每晚飲紅酒患乳癌？醫生揭：飲酒易面紅者要注意 - hk01.com",
+      "id": "07e3594bdc8c",
+      "title": "飲酒乳癌｜32歲女每晚飲紅酒患乳癌？醫生揭：飲酒易面紅者要注意 - 香港01",
       "published": "2026-07-28T08:01:36+00:00",
-      "summary": "飲酒乳癌｜32歲女每晚飲紅酒患乳癌？醫生揭：飲酒易面紅者要注意&nbsp;&nbsp;hk01.com",
+      "summary": "飲酒乳癌｜32歲女每晚飲紅酒患乳癌？醫生揭：飲酒易面紅者要注意&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "hk01.com",
+          "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNTmloM2l4d1pvcTFocXZuamtYWGNXX2NnNjdNR0EtWkMzSUFfOVZJekFmVzlQZS1ZNG5TbjFHLWhnRTlrcVhwVTVSNWpBWDRsLUVNcFVRYzZZTm9vcTBtd241MnRWYnBpWTV1NTFaUDg0Tm9hSVA2Rk9Kd2YxWUlJOXNGR29RU2Z5eW9hY2NKby1COUlhc1BoWWN6d0lnTWl2WXhDYkM0WXFDNW5EX0Nwb2lWdmJzajZ3ejg5TWNPUkZHMkJmZ2ZCWmpxR1FhTEN6R1hhVVkyNUpXSTQxVERMVWhiaFNJcG9VTDZVMXNuOVJWZWdrOXFDbFRBZFVQTHRDRHpfSEpIZUt1enpfZHNWbm1XNjRQWS1SdGRNYUdmMXdSZlo1RUpkZE1Mbzh0NkpVRW9FSUIwOG5ycld1bU9zVVFuU1Z1bnpndjhxOWo1ZnNSQjdZVTNmdEdWSENvUG9hTVpzQXpEQmtmRVZGd2lxYW1Sekl1MmFnYzNoVFcwaU5ySWhGOHgzZU5wSGduOEtRX3hqZ19UQVJvYlAz?oc=5"
         }
       ]
