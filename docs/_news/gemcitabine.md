@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [兩性共同防護 全民必備HPV成主流 「口咽癌」超越子宮頸癌 世界一起抗頭頸癌](https://news.google.com/rss/articles/CBMiVEFVX3lxTE51c2pkUFF0eGMyYXNjRVNlNFNjNWJqbkFrTGE3eE51Mm5yMVNHazF1VVVUM2dwTkpkWDVIaXFfNlFMTG16SmlHdHFza2NQSjNEQ0Q4Zg?oc=5)
+
+2026-07-28 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">頭頸癌</span>
+
+來源：[住展雜誌](https://news.google.com/rss/articles/CBMiVEFVX3lxTE51c2pkUFF0eGMyYXNjRVNlNFNjNWJqbkFrTGE3eE51Mm5yMVNHazF1VVVUM2dwTkpkWDVIaXFfNlFMTG16SmlHdHFza2NQSjNEQ0Q4Zg?oc=5)
+
+---
 
 ### [不只補鈣！醫揭維生素D強大功能](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UaFMtc3VidHBwLW9JUDV1NkN0eXIzaXl2X29QVERhbUlZcUpGeWpzYjJZdEtiYmJPc0VFbDExU2pGMzFORDIzU2RDRW54cG8?oc=5)
 

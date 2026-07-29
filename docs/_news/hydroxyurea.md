@@ -46,7 +46,7 @@ permalink: /news/hydroxyurea/
 
 ### [兩性共同防護 全民必備HPV成主流 「口咽癌」超越子宮頸癌 世界一起抗頭頸癌](https://news.google.com/rss/articles/CBMiVEFVX3lxTE51c2pkUFF0eGMyYXNjRVNlNFNjNWJqbkFrTGE3eE51Mm5yMVNHazF1VVVUM2dwTkpkWDVIaXFfNlFMTG16SmlHdHFza2NQSjNEQ0Q4Zg?oc=5)
 
-2026-07-28 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">頭頸癌</span>
+2026-07-28 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">頭頸癌</span>
 
 來源：[住展雜誌](https://news.google.com/rss/articles/CBMiVEFVX3lxTE51c2pkUFF0eGMyYXNjRVNlNFNjNWJqbkFrTGE3eE51Mm5yMVNHazF1VVVUM2dwTkpkWDVIaXFfNlFMTG16SmlHdHFza2NQSjNEQ0Q4Zg?oc=5)
 
