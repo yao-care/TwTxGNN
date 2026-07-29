@@ -1,7 +1,65 @@
 {
-  "generated": "2026-07-29T15:44:11.341678+00:00",
-  "count": 11,
+  "generated": "2026-07-29T17:05:08.802691+00:00",
+  "count": 12,
   "news": [
+    {
+      "id": "a9306b02fb12",
+      "title": "女性失智症盛行率比男性高！醫揭4可能原因 更年期後應警惕",
+      "published": "2026-07-29T12:00:00+00:00",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLcjliYmxNR1F2RDBtTjg4aTFiLXNacnZIWUhNeG14ZGJpZGkybGozalJyc25jZ3lJTlRDMEttZmxSWHNmVFhQMTdOOUJSWGpuOWVUUHZR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "3b7cd82daaba",
       "title": "健康網》孕婦染新冠、流感別硬撐！ 醫：出現4警訊快就醫",

@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [女性失智症盛行率比男性高！醫揭4可能原因 更年期後應警惕](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLcjliYmxNR1F2RDBtTjg4aTFiLXNacnZIWUhNeG14ZGJpZGkybGozalJyc25jZ3lJTlRDMEttZmxSWHNmVFhQMTdOOUJSWGpuOWVUUHZR?oc=5)
+
+2026-07-29 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
+
+來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLcjliYmxNR1F2RDBtTjg4aTFiLXNacnZIWUhNeG14ZGJpZGkybGozalJyc25jZ3lJTlRDMEttZmxSWHNmVFhQMTdOOUJSWGpuOWVUUHZR?oc=5)
+
+---
 
 ### [不菸不酒也中鏢！男性口咽癌發生率超越子宮頸癌 隱形殺手曝](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YeUhuQ3l4SGRKR0dTWWRMd2pCVC10WFllQTA5NV9WQ3FaOUM0bmQyRHBBVkhjZHpPX3FUNWpqd3RmdjN5WjJETjRR?oc=5)
 

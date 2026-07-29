@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-29T15:44:05.864989+00:00",
+  "fetched_at": "2026-07-29T17:05:04.045069+00:00",
   "count": 33,
   "news": [
+    {
+      "id": "a9306b02fb12",
+      "title": "女性失智症盛行率比男性高！醫揭4可能原因 更年期後應警惕 - 健康醫療網",
+      "published": "2026-07-29T12:00:00+00:00",
+      "summary": "女性失智症盛行率比男性高！醫揭4可能原因 更年期後應警惕&nbsp;&nbsp;健康醫療網",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLcjliYmxNR1F2RDBtTjg4aTFiLXNacnZIWUhNeG14ZGJpZGkybGozalJyc25jZ3lJTlRDMEttZmxSWHNmVFhQMTdOOUJSWGpuOWVUUHZR?oc=5"
+        }
+      ]
+    },
     {
       "id": "fcf4696db97d",
       "title": "市場報導： 前瞻技術脈動：醫療與健康(202629) - 科技產業資訊室",
@@ -43,23 +55,11 @@
       "id": "d41ad153d058",
       "title": "骨頭不痛不代表沒事！骨質疏鬆恐讓人一摔就骨折臥床，9類高風險族群要注意 - 鏡週刊Mirror Media",
       "published": "2026-07-28T03:23:00+00:00",
-      "summary": "骨頭不痛不代表沒事！骨質疏鬆恐讓人一摔就骨折臥床，9類高風險族群要注意&nbsp;&nbsp;鏡週刊Mirror Media【長者跌倒】起床、如廁、洗澡三大危機 傷勢或延遲出現 忽視或致骨折顱內出血&nbsp;&nbsp;明報健康網跌倒危機藏在日常中！掌握四大骨折警訊與三大保骨營養素&nbsp;&nbsp;macrocosm.tw暑假出遊帶長輩要注意！醫提醒：骨鬆高危族群「下車跨步」也可能骨折&nbsp;&nbsp;news.pchome.com.tw跌倒不是一時不小心 專家揭高齡者最容易忽略的3大原因&nbsp;&nbsp;元氣網",
+      "summary": "骨頭不痛不代表沒事！骨質疏鬆恐讓人一摔就骨折臥床，9類高風險族群要注意&nbsp;&nbsp;鏡週刊Mirror Media【長者跌倒】起床、如廁、洗澡三大危機 傷勢或延遲出現 忽視或致骨折顱內出血&nbsp;&nbsp;health.mingpao.com跌倒危機藏在日常中！掌握四大骨折警訊與三大保骨營養素&nbsp;&nbsp;macrocosm.tw暑假出遊帶長輩要注意！醫提醒：骨鬆高危族群「下車跨步」也可能骨折&nbsp;&nbsp;PChome Online 新聞跌倒不是一時不小心 專家揭高齡者最容易忽略的3大原因&nbsp;&nbsp;元氣網",
       "sources": [
         {
           "name": "鏡週刊Mirror Media",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xX0R0OVdKNGJvNzZxbUlOSHp1ejdlcDRscWEtWXZEcGtqd1AwcTk1TFdFMWttSHlXYktOMXp5NzR5VXRtcmxnMWdrVkZ1cHdFQ3JXTjZrNUNyTkl2UThLWVBuVdIBaEFVX3lxTE94MlFxUWhXTnNZZDZ6VHpBSm5ORnh1cDMwOEYxUmp4Q1puQW8yQUhsSndTR01OREVWTzYtczVudmVKVWxKNGxSU0t6NW9Tck1temVwd1B3SFR5enlDYVE1bE9MZnEzaXVh?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9cf0270cb3e4",
-      "title": "不菸不酒也中鏢！男性口咽癌發生率超越子宮頸癌 隱形殺手曝 - winnews.com.tw",
-      "published": "2026-07-29T07:04:00+00:00",
-      "summary": "不菸不酒也中鏢！男性口咽癌發生率超越子宮頸癌 隱形殺手曝&nbsp;&nbsp;winnews.com.tw嘴巴破很久都好不了？醫師教您「口腔黏膜檢查」三大防癌關鍵- 健康新聞- PChome Online 新聞&nbsp;&nbsp;news.pchome.com.tw男口腔癌四期 再揪大腸癌 醫曝「雙癌夾擊」關鍵原因&nbsp;&nbsp;中時新聞網口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險&nbsp;&nbsp;三立新聞兩性共同防護 全民必備HPV成主流 「口咽癌」超越子宮頸癌 世界一起抗頭頸癌&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "winnews.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YeUhuQ3l4SGRKR0dTWWRMd2pCVC10WFllQTA5NV9WQ3FaOUM0bmQyRHBBVkhjZHpPX3FUNWpqd3RmdjN5WjJETjRR?oc=5"
         }
       ]
     },
@@ -72,6 +72,18 @@
         {
           "name": "翻爆",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UaFMtc3VidHBwLW9JUDV1NkN0eXIzaXl2X29QVERhbUlZcUpGeWpzYjJZdEtiYmJPc0VFbDExU2pGMzFORDIzU2RDRW54cG8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9cf0270cb3e4",
+      "title": "不菸不酒也中鏢！男性口咽癌發生率超越子宮頸癌 隱形殺手曝 - winnews.com.tw",
+      "published": "2026-07-29T07:04:00+00:00",
+      "summary": "不菸不酒也中鏢！男性口咽癌發生率超越子宮頸癌 隱形殺手曝&nbsp;&nbsp;winnews.com.tw嘴巴破很久都好不了？醫師教您「口腔黏膜檢查」三大防癌關鍵- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞男口腔癌四期 再揪大腸癌 醫曝「雙癌夾擊」關鍵原因&nbsp;&nbsp;中時新聞網口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險&nbsp;&nbsp;三立新聞兩性共同防護 全民必備HPV成主流 「口咽癌」超越子宮頸癌 世界一起抗頭頸癌&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "winnews.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YeUhuQ3l4SGRKR0dTWWRMd2pCVC10WFllQTA5NV9WQ3FaOUM0bmQyRHBBVkhjZHpPX3FUNWpqd3RmdjN5WjJETjRR?oc=5"
         }
       ]
     },
@@ -199,7 +211,7 @@
       "id": "95fd16f2d8be",
       "title": "防曬不只是怕曬黑！醫提醒紫外線傷害會累積，孩童曬傷恐增加皮膚癌風險 - Yahoo新聞",
       "published": "2026-07-29T00:54:16+00:00",
-      "summary": "防曬不只是怕曬黑！醫提醒紫外線傷害會累積，孩童曬傷恐增加皮膚癌風險&nbsp;&nbsp;Yahoo新聞SPF50不代表萬無一失！醫師揭夏季防曬關鍵：擦足量、2至3小時補擦&nbsp;&nbsp;news.pchome.com.tw拆解抗曬誤區 助護膚防癌搽全效產品仍出問題&nbsp;&nbsp;信報網站小孩怕曬傷、長者怕老化！醫揭不同年齡層防曬攻略&nbsp;&nbsp;Yahoo新聞防曬要搽夠1蚊咁大先有用 教你少量多次分層法補防曬&nbsp;&nbsp;新假期",
+      "summary": "防曬不只是怕曬黑！醫提醒紫外線傷害會累積，孩童曬傷恐增加皮膚癌風險&nbsp;&nbsp;Yahoo新聞SPF50不代表萬無一失！醫師揭夏季防曬關鍵：擦足量、2至3小時補擦&nbsp;&nbsp;PChome Online 新聞拆解抗曬誤區 助護膚防癌搽全效產品仍出問題&nbsp;&nbsp;信報網站小孩怕曬傷、長者怕老化！醫揭不同年齡層防曬攻略&nbsp;&nbsp;Yahoo新聞防曬要搽夠1蚊咁大先有用 教你少量多次分層法補防曬&nbsp;&nbsp;新假期",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -256,13 +268,13 @@
       ]
     },
     {
-      "id": "0b0e27dcc24f",
-      "title": "那柏縣烏鴉屍體帶西尼羅病毒 - Singtaousa",
+      "id": "71885cb7986a",
+      "title": "那柏縣烏鴉屍體帶西尼羅病毒 - singtaousa.com",
       "published": "2026-07-29T13:00:00+00:00",
-      "summary": "那柏縣烏鴉屍體帶西尼羅病毒&nbsp;&nbsp;Singtaousa",
+      "summary": "那柏縣烏鴉屍體帶西尼羅病毒&nbsp;&nbsp;singtaousa.com",
       "sources": [
         {
-          "name": "Singtaousa",
+          "name": "singtaousa.com",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOXNNR3RfMlVNSEY2RUt0TU1LRElIS2ozT1U5RjhwTGtsWHF2SHF2TXI3YUQ1ZDdlTGl2QVV2NFBpUkRRX3lvTEZZVmp2UHRPbjhWVDRzLTBzWWJLTEJrOUNxLXZNenhjZ0xXaG9GelBBTXVudnYyel9GYk1nR2NHdHNvQzVuTzA?oc=5"
         }
       ]
@@ -280,18 +292,6 @@
       ]
     },
     {
-      "id": "702fd2bd9568",
-      "title": "這蔬菜鈣含量竟超越牛奶！不只護眼又顧心血管，營養師：別跟２類食物一起吃 - Yahoo新聞",
-      "published": "2026-07-28T02:19:14+00:00",
-      "summary": "這蔬菜鈣含量竟超越牛奶！不只護眼又顧心血管，營養師：別跟２類食物一起吃&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQYkRCbTAwX2tfZlQ5Z29hUkcwZXoyT2M0Z0tncVdfc1o1UjZmSWk2anUzMFVLa0d4MGxBWWRxNkJXMHo3ZFZYNGhIaFUzTEtXY2lQVVNRVWUtZ1BEaFpoSmtNUS1CbWtzWXRoQmhHNGI5ekFkUEo2RXRqWlBaZjRxSnUtaG4xM2dpdm1ydnJXRm5uOE9GQ0ctMGg5TDFoYVNuZFF1d0NVUXlZM3NSclRGYTRKcnZtY2FWODh5eHBaZXhGRDRTNUtpdnhTbUFDdnVHME5YN2VpOVdiY09iZkdhUHJQWUkxN0pwSGZyZFo3cEpTQnV1dXBZeWlIOFoxTjRudmJSN2FiOGUwSkkyRzlQYW9zakdXOU0yXzc5N0VrUGoxSWhhVEdKb2xsQldPUTFPOHBsRUlVUWJGS09XUXc3ZktrS0lWYzIyTC1iU1l4ZmRsQXE4dVJHeTdJcWs1M1VFWFREa1h3TjVyS3MzZUluTEd3YkJrbDdQVEctRGdjYTRCeV9IXzZkbDBDeGJTMXQ5UDFnRmhnVG5NSWZaYjFDNDctUjBJSEZC?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9d2b31572055",
       "title": "首款國產漸凍症藥明年有望上市 - 紫荊網",
       "published": "2026-07-29T01:53:45+00:00",
@@ -300,6 +300,18 @@
         {
           "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTzRBcnZ0Ty1KRnQwUVdCWURDNkVrVU5jRGNxeU1OdWlVTlE2NlZDYThCN2NOeGgwWXFkblJGVGxXTkdDMHZIM0VHazhtMzM3TVNnM3c1a2x3R1pYNW9Vem1sV2s5ZE91eDNTaGUydUZpTWwybHhtc1o3OURMTUo5WXdpTXM5WjJXMG96ZnZNY2I?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "702fd2bd9568",
+      "title": "這蔬菜鈣含量竟超越牛奶！不只護眼又顧心血管，營養師：別跟２類食物一起吃 - Yahoo新聞",
+      "published": "2026-07-28T02:19:14+00:00",
+      "summary": "這蔬菜鈣含量竟超越牛奶！不只護眼又顧心血管，營養師：別跟２類食物一起吃&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQYkRCbTAwX2tfZlQ5Z29hUkcwZXoyT2M0Z0tncVdfc1o1UjZmSWk2anUzMFVLa0d4MGxBWWRxNkJXMHo3ZFZYNGhIaFUzTEtXY2lQVVNRVWUtZ1BEaFpoSmtNUS1CbWtzWXRoQmhHNGI5ekFkUEo2RXRqWlBaZjRxSnUtaG4xM2dpdm1ydnJXRm5uOE9GQ0ctMGg5TDFoYVNuZFF1d0NVUXlZM3NSclRGYTRKcnZtY2FWODh5eHBaZXhGRDRTNUtpdnhTbUFDdnVHME5YN2VpOVdiY09iZkdhUHJQWUkxN0pwSGZyZFo3cEpTQnV1dXBZeWlIOFoxTjRudmJSN2FiOGUwSkkyRzlQYW9zakdXOU0yXzc5N0VrUGoxSWhhVEdKb2xsQldPUTFPOHBsRUlVUWJGS09XUXc3ZktrS0lWYzIyTC1iU1l4ZmRsQXE4dVJHeTdJcWs1M1VFWFREa1h3TjVyS3MzZUluTEd3YkJrbDdQVEctRGdjYTRCeV9IXzZkbDBDeGJTMXQ5UDFnRmhnVG5NSWZaYjFDNDctUjBJSEZC?oc=5"
         }
       ]
     },
@@ -340,61 +352,49 @@
       ]
     },
     {
-      "id": "380e08aa183e",
-      "title": "睡飽睡滿很重要！睡不飽會變胖？是真的！ - 三立新聞網SETN.com",
+      "id": "a8100757aa25",
+      "title": "睡飽睡滿很重要！睡不飽會變胖？是真的！ - 三立新聞",
       "published": "2026-07-27T23:35:57+00:00",
-      "summary": "睡飽睡滿很重要！睡不飽會變胖？是真的！&nbsp;&nbsp;三立新聞網SETN.com",
+      "summary": "睡飽睡滿很重要！睡不飽會變胖？是真的！&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
+          "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ObVgzV1BYbjRZWDVYVHJEcWhvMVN5ejk5aUZKR1BWbUttMmpWV3VCUTI5ZjlmUUxQc0kxU3dkTDBmcm5xdko0?oc=5"
         }
       ]
     },
     {
-      "id": "cdd5cac4e95b",
-      "title": "直接抗病毒藥物 治療丙肝成功率高 - am730",
+      "id": "ed853c0c4506",
+      "title": "直接抗病毒藥物 治療丙肝成功率高 - AM730",
       "published": "2026-07-28T04:30:00+00:00",
-      "summary": "直接抗病毒藥物 治療丙肝成功率高&nbsp;&nbsp;am730",
+      "summary": "直接抗病毒藥物 治療丙肝成功率高&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XSUdCLWhjekdKSjFfYWd1UjlKMWFCanFEVERyNG1idTFwQVdMZFl4WTFvRDZIbGxPd2pCS3hiOG44ZDhSYzE5WmtyTkZ1SjdSaVE?oc=5"
         }
       ]
     },
     {
-      "id": "c1b9bc196200",
-      "title": "愛滋病毒感染者，體重增加也是健康隱憂嗎？ - careonline.com.tw",
-      "published": "2026-07-27T16:01:24+00:00",
-      "summary": "愛滋病毒感染者，體重增加也是健康隱憂嗎？&nbsp;&nbsp;careonline.com.tw",
-      "sources": [
-        {
-          "name": "careonline.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nWVA3TTFfcFMxUHRZS19MWi02NHA1dUlIeVhRSnpRcGNyMVRGRkdZTENUWDBKQ1BQYVg1SC1wSjJDWWxSRTRhQXNMVWJLTjZKMWstQ1B6YTVFVDlmMDI4bEpydlhvQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "da1872794b36",
-      "title": "嚇！牙肉血肉模糊毫無痛感不菸不酒婦竟得口腔癌| 生活 - 三立新聞網SETN.com",
+      "id": "749e613157aa",
+      "title": "嚇！牙肉血肉模糊毫無痛感不菸不酒婦竟得口腔癌| 生活 - 三立新聞",
       "published": "2026-07-26T22:38:04+00:00",
-      "summary": "嚇！牙肉血肉模糊毫無痛感不菸不酒婦竟得口腔癌| 生活&nbsp;&nbsp;三立新聞網SETN.com",
+      "summary": "嚇！牙肉血肉模糊毫無痛感不菸不酒婦竟得口腔癌| 生活&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
+          "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB2b1BDNWJ5Q0tIQ1VtcURUNjB2UDhSYmt3YXQ2bjFpTVBZb2hLNFJNd1VUU3A3LWtSUjg0d1pzeVVXMFNXZkZN?oc=5"
         }
       ]
     },
     {
-      "id": "9873aa85067e",
-      "title": "網路瘋傳有毒食品是真的嗎？食藥署設「專區」釋疑 - 三立新聞網SETN.com",
+      "id": "73c032366bbb",
+      "title": "網路瘋傳有毒食品是真的嗎？食藥署設「專區」釋疑 - 三立新聞",
       "published": "2026-07-27T17:36:14+00:00",
-      "summary": "網路瘋傳有毒食品是真的嗎？食藥署設「專區」釋疑&nbsp;&nbsp;三立新聞網SETN.com",
+      "summary": "網路瘋傳有毒食品是真的嗎？食藥署設「專區」釋疑&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
+          "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB0Q1B6d3dlZjVnOXN4YjhLcEl5R0VtNUJGcGkybzkwcnFzOWFVTTZxRVFuT3ZTbVQtMm9vS0o3OW1RdnRMMEE?oc=5"
         }
       ]
