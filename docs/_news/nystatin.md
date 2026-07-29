@@ -48,7 +48,7 @@ permalink: /news/nystatin/
 
 2026-07-29 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
 
-來源：[healthnews.com.tw](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLcjliYmxNR1F2RDBtTjg4aTFiLXNacnZIWUhNeG14ZGJpZGkybGozalJyc25jZ3lJTlRDMEttZmxSWHNmVFhQMTdOOUJSWGpuOWVUUHZR?oc=5)
+來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLcjliYmxNR1F2RDBtTjg4aTFiLXNacnZIWUhNeG14ZGJpZGkybGozalJyc25jZ3lJTlRDMEttZmxSWHNmVFhQMTdOOUJSWGpuOWVUUHZR?oc=5)
 
 ---
 
