@@ -40,7 +40,7 @@ permalink: /news/denosumab/
 
 2026-07-28 <span class="news-indication-tag">骨轉移</span>
 
-來源：[health.ettoday.net](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IbU45UEc3MVVWZS1WRXRyZTNjTTloc2FuRldzdGVveTExTDRnbG00RHZjRXlFN2lHRllfbC0wU0drMGRjeGszNkYtU0RMSWVF0gFPQVVfeXFMUGwwaktmWU1JdGFrbVFVMEkzU1BhaUZMNnVieUwzTzlXYVc3NnhUQ0swcnhWNXdqeWxCTUNraF8wUWtCMmJJLTlSNFhuT2h6cw?oc=5)
+來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IbU45UEc3MVVWZS1WRXRyZTNjTTloc2FuRldzdGVveTExTDRnbG00RHZjRXlFN2lHRllfbC0wU0drMGRjeGszNkYtU0RMSWVF0gFPQVVfeXFMUGwwaktmWU1JdGFrbVFVMEkzU1BhaUZMNnVieUwzTzlXYVc3NnhUQ0swcnhWNXdqeWxCTUNraF8wUWtCMmJJLTlSNFhuT2h6cw?oc=5)
 
 ---
 
