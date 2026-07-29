@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [關節保養別再只會吃葡萄糖胺！專家揭關節退化真相保養4祕訣關節用更久- 營養好食](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0SGdac242NnJSNEo1VEJZaWtnQ29rWFFkbFF4dDVzSkt1a05rWWJEVWZOMXNSVVd4MHhsV3E4NHRKUjAtSmdxeFV0MGJIbGtyYlJpdHJn?oc=5)
 
@@ -64,14 +64,6 @@ permalink: /news/gefitinib/
 2026-07-27 <span class="news-indication-tag">失智</span>
 
 來源：[soundofhope.org](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ed0kxbnhIODhHUGw1T1NnWi1UdG5DVlowaFZCbXUxOFNTQ3JpUjRXTlB5enR5ODZmeDdKQVZILTgzTjYtMTE2dU9Yd21udzJ0?oc=5)
-
----
-
-### [史上最快！癌症時鐘再加速每5分6秒1人罹癌| 生活](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5vWEVQUnNTUVhSQVRMQ1pvUTNNek5oR2poQXZ1ZUEzVDlpdWIyX01GU0dRUVZ0VTRuWk91RWpRdm5EZDdaVEx3?oc=5)
-
-2026-07-26 <span class="news-indication-tag">癌症</span>
-
-來源：[三立新聞](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5vWEVQUnNTUVhSQVRMQ1pvUTNNek5oR2poQXZ1ZUEzVDlpdWIyX01GU0dRUVZ0VTRuWk91RWpRdm5EZDdaVEx3?oc=5)
 
 ---
 
