@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-29T11:14:17.245843+00:00",
-  "count": 11,
+  "generated": "2026-07-29T13:47:33.955105+00:00",
+  "count": 10,
   "news": [
     {
       "id": "3b7cd82daaba",
@@ -402,30 +402,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "45e17d7d5e7e",
-      "title": "有阿兹海默病变不一定失智 研究揭大脑关键转折",
-      "published": "2026-07-27T11:20:23+00:00",
-      "sources": [
-        {
-          "name": "soundofhope.org",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ed0kxbnhIODhHUGw1T1NnWi1UdG5DVlowaFZCbXUxOFNTQ3JpUjRXTlB5enR5ODZmeDdKQVZILTgzTjYtMTE2dU9Yd21udzJ0?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

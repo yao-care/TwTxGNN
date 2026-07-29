@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-07-29T11:14:17.214789+00:00",
-  "total_count": 28,
-  "matched_count": 11,
+  "last_updated": "2026-07-29T13:47:33.937704+00:00",
+  "total_count": 27,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "0b0e27dcc24f",
+      "title": "那柏縣烏鴉屍體帶西尼羅病毒",
+      "published": "2026-07-29T13:00:00+00:00",
+      "summary": "那柏縣烏鴉屍體帶西尼羅病毒&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOXNNR3RfMlVNSEY2RUt0TU1LRElIS2ozT1U5RjhwTGtsWHF2SHF2TXI3YUQ1ZDdlTGl2QVV2NFBpUkRRX3lvTEZZVmp2UHRPbjhWVDRzLTBzWWJLTEJrOUNxLXZNenhjZ0xXaG9GelBBTXVudnYyel9GYk1nR2NHdHNvQzVuTzA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "fb7d00aea7b2",
       "title": "研究揭癌細胞新弱點 30年老藥威而鋼展現新潛力",
@@ -437,6 +450,19 @@
       ]
     },
     {
+      "id": "ed853c0c4506",
+      "title": "直接抗病毒藥物 治療丙肝成功率高",
+      "published": "2026-07-28T04:30:00+00:00",
+      "summary": "直接抗病毒藥物 治療丙肝成功率高&nbsp;&nbsp;AM730",
+      "sources": [
+        {
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XSUdCLWhjekdKSjFfYWd1UjlKMWFCanFEVERyNG1idTFwQVdMZFl4WTFvRDZIbGxPd2pCS3hiOG44ZDhSYzE5WmtyTkZ1SjdSaVE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "fc2e4cd09dd7",
       "title": "活愈久反而病愈久？新加坡人最長壽但晚年有12年要與疾病共存- 生活",
       "published": "2026-07-28T03:58:00+00:00",
@@ -514,13 +540,13 @@
       ]
     },
     {
-      "id": "a8100757aa25",
+      "id": "380e08aa183e",
       "title": "睡飽睡滿很重要！睡不飽會變胖？是真的！",
       "published": "2026-07-27T23:35:57+00:00",
-      "summary": "睡飽睡滿很重要！睡不飽會變胖？是真的！&nbsp;&nbsp;三立新聞",
+      "summary": "睡飽睡滿很重要！睡不飽會變胖？是真的！&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
-          "name": "三立新聞",
+          "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ObVgzV1BYbjRZWDVYVHJEcWhvMVN5ejk5aUZKR1BWbUttMmpWV3VCUTI5ZjlmUUxQc0kxU3dkTDBmcm5xdko0?oc=5"
         }
       ],
@@ -575,90 +601,39 @@
       ]
     },
     {
-      "id": "73c032366bbb",
+      "id": "9873aa85067e",
       "title": "網路瘋傳有毒食品是真的嗎？食藥署設「專區」釋疑",
       "published": "2026-07-27T17:36:14+00:00",
-      "summary": "網路瘋傳有毒食品是真的嗎？食藥署設「專區」釋疑&nbsp;&nbsp;三立新聞",
+      "summary": "網路瘋傳有毒食品是真的嗎？食藥署設「專區」釋疑&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
-          "name": "三立新聞",
+          "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB0Q1B6d3dlZjVnOXN4YjhLcEl5R0VtNUJGcGkybzkwcnFzOWFVTTZxRVFuT3ZTbVQtMm9vS0o3OW1RdnRMMEE?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "10d37537fa96",
+      "id": "7d62f059d2f6",
       "title": "看了被氣死！LINE瘋傳「護眼操」是假的！近視不減反增| 生活",
       "published": "2026-07-27T12:33:32+00:00",
-      "summary": "看了被氣死！LINE瘋傳「護眼操」是假的！近視不減反增| 生活&nbsp;&nbsp;三立新聞",
+      "summary": "看了被氣死！LINE瘋傳「護眼操」是假的！近視不減反增| 生活&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
-          "name": "三立新聞",
+          "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5vaHphTWkzd3dDYWNCNHRPLUw0Z0dOa3htNl9xc3VKN0lmeVcwSzdfRkRRXzJsNzRGam01MHdybXF2dWtBTjU0?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "45e17d7d5e7e",
-      "title": "有阿兹海默病变不一定失智 研究揭大脑关键转折",
-      "published": "2026-07-27T11:20:23+00:00",
-      "summary": "有阿兹海默病变不一定失智 研究揭大脑关键转折&nbsp;&nbsp;soundofhope.org脑声常谈丨多维调控环路视角：重审小胶质细胞-从稳态走向病变的状态演化&nbsp;&nbsp;thepaper.cn",
-      "sources": [
-        {
-          "name": "soundofhope.org",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ed0kxbnhIODhHUGw1T1NnWi1UdG5DVlowaFZCbXUxOFNTQ3JpUjRXTlB5enR5ODZmeDdKQVZILTgzTjYtMTE2dU9Yd21udzJ0?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d8de35765ff4",
-      "title": "蔡嘉欣產後首亮相 大爆不餵人奶慘痛真相：身上生晒HPV病毒疣",
-      "published": "2026-07-27T11:00:50+00:00",
-      "summary": "蔡嘉欣產後首亮相 大爆不餵人奶慘痛真相：身上生晒HPV病毒疣&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNa0ZXX2RUUWFKbllyaU5JSU45X1ZsN282T3dUakJOT2NMT1laQTlzb3ZCaDRCSms4QmdtQXZaRFpKZUFaUWRXa2t4Q2RySWJyVndOU05VOTN4Z0JnUUR4QTBZem9MRnpZNHNDVUdld2NZeUp1dnVXdDBrejJfVjFsVmpuelpSS01PazN6N3kxWW1xTU8tVC1vUGtkdmpWMTEybTB0RldfN3pKVW9nV09UZWpwR0xBbjFJLXFVNXUydGw3cERDM3NPdFhJb3lsOUFjeDEwYUhoN0NUTHY4Qmdhc21RTWw2OVdRcTdlTE1pRkJ2bXZWT25qMjl4bElpU1duOVdiaW5YRm5PaWtEOG5qUVRPcjc2bjV2SGN0QjdoY0N1cDIybnZOazRGTGhZVGNaN3IzeGE4ZjlMaGFJLWlOTHBwOEVlcVF3R3FlRkZXMWxNaEU3Qm1PNzdYbnVxVEVTZExHaDBTb0tReWI3U0haZHc5b0Y0eng0QTBxcDA2TW1yUEtBSTdfY1F5bERkeTdQbG51d0FDa2pPNExfWkRBa0VFVUFpYnZC?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4cfea147175e",
-      "title": "男子反覆起紅疹竟是二期梅毒！醫生揭2部位長疹最關鍵：長期無視或入腦致命 - UHK 港生活",
-      "published": "2026-07-27T10:07:06+00:00",
-      "summary": "男子反覆起紅疹竟是二期梅毒！醫生揭2部位長疹最關鍵：長期無視或入腦致命&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxPN1drUDI5SWNrWEgzS1dpS0FkMC1ERld0djU2ZkVpRmQzSFdKeVJEbUpaWXpnaGRXN29oWGlfNUNkMjZzcWNxbDVJeGI2eXFiQWs2ZTFDdFp3aG1DeDZQNnpXWjE5eE1vanI2UXNkU2Zfd3RmSmE5UFl5bFVoekFOdEFvNEtJVlRDMHNOdllTci1ka3FqMDFudkFUbng3M0gtSU9zeHhqd0FObEFhV1ZwVXhPYjJCcFJSWjluVzAyanFJTWtoMDhLdFB6TGdZN09kWkJPMFhMQ09KbjlueHBvUmppVERJZnliOExoWFJGNzVTNW01U1paQngzdUoxQmhTNktEZ0tON0N0X2VJRW9BV0h4c0MybnlTZVRHWmFCWDkyV0EwUHhVM0hNdHF6TUpFc3RnMEF3ZmpqZXhIQzZRZUh4YTUyVFZvUXM2cXY5eVBhZExnTC04UzB6aG5QSGxaSE1sRi1RRkcwdmlfTmRYcFJITDdxNDJFUTVUQ0xPR0swVU85Q2JhSHlDbG5JNjBEbmZpel8taFRxV2NWaDlmbFo1VVNNMkczcVpaOWhyMXk2cGFud2hreXpBYXFTdm5ldm9FVEV3YXgyRDVk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "749e613157aa",
+      "id": "da1872794b36",
       "title": "嚇！牙肉血肉模糊毫無痛感不菸不酒婦竟得口腔癌| 生活",
       "published": "2026-07-26T22:38:04+00:00",
-      "summary": "嚇！牙肉血肉模糊毫無痛感不菸不酒婦竟得口腔癌| 生活&nbsp;&nbsp;三立新聞",
+      "summary": "嚇！牙肉血肉模糊毫無痛感不菸不酒婦竟得口腔癌| 生活&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
-          "name": "三立新聞",
+          "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB2b1BDNWJ5Q0tIQ1VtcURUNjB2UDhSYmt3YXQ2bjFpTVBZb2hLNFJNd1VUU3A3LWtSUjg0d1pzeVVXMFNXZkZN?oc=5"
         }
       ],
