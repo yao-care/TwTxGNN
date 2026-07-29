@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/ouabain/
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>Prinzmetal angina（99.7%）</li>
 <li>hemoglobinopathy（99.5%）</li>
-<li class="indication-matched">myocardial infarction（99.4%）<span class="indication-tag">📰 心肌梗塞</span></li>
+<li>myocardial infarction（99.4%）</li>
 <li>thrombotic disease（99.3%）</li>
 <li>hyperthyroidism（99.3%）</li>
 <li>homozygous familial hypercholesterolemia（99.2%）</li>
@@ -42,15 +42,9 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [健檢沒紅字仍心肌梗塞　壞膽固醇稍高「堆太久」也有事](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EMFZwNUhyRVYzRWJxNmJHc1RNT0NRSklFVFYtdkxtejExdnJzOFBvdmpRTmFzU2NLMUZhazRuV2VnZDZCRUZJVjlSSmFYSlVy0gFPQVVfeXFMT1pDUHNDQmk3RTIzOHY3ZkRuYUJVeWwyWjB2Ql9UX1NscEh5NFBVMWlmLXNYQ2ZXbmRWSTZYN0piOXhQSzMtd0xhcFNNQldFZw?oc=5)
-
-2026-07-29 <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">腦中風</span> <span class="news-indication-tag">腦血管</span>
-
-來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EMFZwNUhyRVYzRWJxNmJHc1RNT0NRSklFVFYtdkxtejExdnJzOFBvdmpRTmFzU2NLMUZhazRuV2VnZDZCRUZJVjlSSmFYSlVy0gFPQVVfeXFMT1pDUHNDQmk3RTIzOHY3ZkRuYUJVeWwyWjB2Ql9UX1NscEh5NFBVMWlmLXNYQ2ZXbmRWSTZYN0piOXhQSzMtd0xhcFNNQldFZw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
