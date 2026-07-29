@@ -1,16 +1,54 @@
 {
-  "last_updated": "2026-07-28T23:51:59.943581+00:00",
+  "last_updated": "2026-07-29T01:47:11.121742+00:00",
   "total_count": 33,
-  "matched_count": 12,
+  "matched_count": 11,
   "news": [
     {
-      "id": "0359e36d9c2f",
-      "title": "長期高壓或增患癌風險 醫生揭5種「養癌狀態」 教5 招助身體退出高危模式",
-      "published": "2026-07-28T22:40:53+00:00",
-      "summary": "長期高壓或增患癌風險 醫生揭5種「養癌狀態」 教5 招助身體退出高危模式&nbsp;&nbsp;bastillepost.com",
+      "id": "95fd16f2d8be",
+      "title": "防曬不只是怕曬黑！醫提醒紫外線傷害會累積，孩童曬傷恐增加皮膚癌風險",
+      "published": "2026-07-29T00:54:16+00:00",
+      "summary": "防曬不只是怕曬黑！醫提醒紫外線傷害會累積，孩童曬傷恐增加皮膚癌風險&nbsp;&nbsp;Yahoo新聞拆解抗曬誤區 助護膚防癌搽全效產品仍出問題&nbsp;&nbsp;信報網站防曬｜塗防曬乳8大常見錯誤太大力搽功效大降25%增皮膚癌風險4個部位常漏搽使用量+每2小時要補- 東張+&nbsp;&nbsp;myTV SUPER防曬要搽夠1蚊咁大先有用 教你少量多次分層法補防曬&nbsp;&nbsp;新假期SPF50不代表萬無一失！醫師揭夏季防曬關鍵：擦足量、2至3小時補擦&nbsp;&nbsp;台視新聞網",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOTl9Xd1FGVWo2MERMOTlTYlYtcEhyRXJXNFRpdXFmc2JZNDBzSHZ6WkJLTkZRbnM2cDJxLWlWYXZBbUNEREUzeFpSV3ZVTjRvcGREOWdMT1dwLS13MHR2RXZBU2MwWVFMRFJWZTN3V3BxaW1iei1NQUNlNWhyejZlV3hYS2IzRmcycFh4MDMwWm5Tdk5jb0cwTVBuZzB6YlJvTGZDZVp1LVNIUnl5bk0xRGJ6ZlRzRjFvbjVlN0pIdUZ3QmRydlpkdVQ3QVlfUnMzRThDX3Q4ZDRQbFNkXzBNTUJwZFZ5ODVlMlRIb0NVOFZxV1lOcE0tdHZSdFdhNEh1OHVtRlltOTJWWWFzd3I1al9kSVEwVlU2ODJjWHZCSUcxamZBako1YktRQzIwOGlTLXFUSkRXVUFYTHZnLWNfNHZ2QjJaOW4tVVFJb3V1ZjUzdkcwWnRyYWhRQmxqbTRVb3JHdWNrSUZvdU96ZGFfUFlXWlZ0M1hQQ19NZWNfMm5Ldk9aSURSM0NLWE95RUxFcThMMzB3dVN4UTRxNzJjZnl3Z25JMm5EVmprdE1QMXE1ZHVGRWxyRWZadGZSSlZJeHZOUzBjSmhjUQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "skin cancer",
+          "keyword": "皮膚癌",
+          "related_drugs": [
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2d8705fb8532",
+      "title": "很多人刷牙「左右用力來回刷」！醫示警：恐害牙齦退縮",
+      "published": "2026-07-29T00:02:00+00:00",
+      "summary": "很多人刷牙「左右用力來回刷」！醫示警：恐害牙齦退縮&nbsp;&nbsp;ETtoday健康雲",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VaU5McXFYTk4wbExtT2RreHB1X3NzU1N2WFVOWk54dlV1b2Q0VC1uYTlPV0wxMUVYanFab29OeXpWUVZ2SW1WUm5ObDZ6dm940gFPQVVfeXFMTTRNaThiN216Vk5OYzRRYWs0QW9vTGUwTGozbl9uSGxUSnR1WEVIMzdGQ19RdEpxdXRFV1l2OTlZaTFOcS1UMDBEaU9nS2tGSQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "beb72c4acbbc",
+      "title": "長期高壓或增患癌風險 醫生揭5種「養癌狀態」 教5 招助身體退出高危模式",
+      "published": "2026-07-28T22:40:53+00:00",
+      "summary": "長期高壓或增患癌風險 醫生揭5種「養癌狀態」 教5 招助身體退出高危模式&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNdFZ3dnVia3JBZGJQWlhZMWNDcTNzc01NWGs4TlhHSUZ3RzNINHQ4X1NYUHNUOEFRR1VSMFpFcWpOVDBJdXQ5dU9PQUtNLW5IaElkOTJrTEtnWHN4Q2poNHhaS3hRVER4a1hGZ25KWFVCN0pnNjcwME5NWk1iRldUUzJldU5vUndMMWJGdE5ON1FtU2EzOTRSOG5pM2RaeDdJN0lHaUh6SGFhMjUwbE9lNEVBYXNIUXRzVktLbDFkNlVzcXFZMEVuSXFtMnlyOUZhS3NabDJrYTlLcEIwX2g5Uzh2Y2V6R3pxN1dPMTZpdElDNV9IRENWbW9pcHhtTEhlZmVhTDJPcTFQNVlTa3M4YlhCbTlsTktqajl0bFdjMXhoNkhzM2FNYUJISVhEZUpJeWw0VTRqdUxOU09iNktfdS1tQWFSdXh5aUw1WkZuUWxuR2NXek1fcjg4YzZkaXZab0Nya2I1SQ?oc=5"
         }
       ],
@@ -81,31 +119,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "3071d181286a",
-      "title": "退休師拒切片！拖3年尿不出來　「攝護腺癌骨轉移」痛到打嗎啡",
-      "published": "2026-07-28T12:32:00+00:00",
-      "summary": "退休師拒切片！拖3年尿不出來 「攝護腺癌骨轉移」痛到打嗎啡&nbsp;&nbsp;ETtoday健康雲前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IbU45UEc3MVVWZS1WRXRyZTNjTTloc2FuRldzdGVveTExTDRnbG00RHZjRXlFN2lHRllfbC0wU0drMGRjeGszNkYtU0RMSWVF0gFPQVVfeXFMUGwwaktmWU1JdGFrbVFVMEkzU1BhaUZMNnVieUwzTzlXYVc3NnhUQ0swcnhWNXdqeWxCTUNraF8wUWtCMmJJLTlSNFhuT2h6cw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "骨轉移",
-          "keyword": "骨轉移",
-          "related_drugs": [
-            {
-              "slug": "denosumab",
-              "name": "Denosumab"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "4604ca2d6b5b",
@@ -291,14 +304,14 @@
       ]
     },
     {
-      "id": "4046b7020a6c",
-      "title": "泰國清邁HIV病例增加引關注 平均日增2例",
-      "published": "2026-07-28T07:08:45+00:00",
-      "summary": "泰國清邁HIV病例增加引關注 平均日增2例&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "5fb49710e7e9",
+      "title": "67歲退休師無視紅字警訊！3年後悔了「攝護腺癌轉移」 痛到無法睡",
+      "published": "2026-07-28T06:55:58+00:00",
+      "summary": "67歲退休師無視紅字警訊！3年後悔了「攝護腺癌轉移」 痛到無法睡&nbsp;&nbsp;三立新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPMVFxT2tvT3oyNFpUWFNlblZ2M3U3U01lQzVnM3lRNnZrZmZoUmlnbWpIQTNkOTJZOXdFaFBSS2hfWDFUaHpxQW1HWnF5RUNwUXpxR05Ec1ZjTTdVV09ycnRydGZaYmx1R0NDQ1hWYktNbzc5cVl3N2NndTZHOU9TYTNReXJfdjZvZ3dtMkpxTzdfSzVvSWlNcGg2RWx3bHdHajM3cVlvNmduaHpWdm1aRk8xTWhvNW9vUWFxRUQ4ZlJTbXMxM0pja3prTXNXeEQzamNqWS1uZkhHR043WTc2OEpDUHdQQXpBSklzSEs2NFR0V2JURkxsQjExODY4VlRoSzZzTFQ3ZkhrNjF1TVl3dkliVTlDXzZLQnc?oc=5"
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkcE95VUJmSEVPVDZaMzZSZ0htQ0xuVFJmTlZmQmFSMnhzUjltb1ZXMW9JZThoOVRZQk5RZnRFenJRTTlsRGhURzhURUY?oc=5"
         }
       ],
       "matched_keywords": []
@@ -338,6 +351,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "e14cc4572aaa",
+      "title": "泰國清邁HIV病例增加引關注 平均日增2例 - 中央社 CNA",
+      "published": "2026-07-28T05:41:00+00:00",
+      "summary": "泰國清邁HIV病例增加引關注 平均日增2例&nbsp;&nbsp;中央社 CNA前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "中央社 CNA",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXUXQ0WHlCbTFHVWZhR3UtbnZFTHlRZkhwR1A0QW83czc4b0xZSTB4aTM3UGQxdFJlcnRIbF9qZ19mTURETWFmeDlPRWQ1R3dCd2JtWDdlNVp5eDlsMENn?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "fc2e4cd09dd7",
@@ -382,7 +408,7 @@
       "id": "e925eab4d4b0",
       "title": "走路會喘、膽固醇飆高恐是血管警訊！腦中風權威教你用「CPR三步導航」守護心腦血管健康",
       "published": "2026-07-28T02:48:24+00:00",
-      "summary": "走路會喘、膽固醇飆高恐是血管警訊！腦中風權威教你用「CPR三步導航」守護心腦血管健康&nbsp;&nbsp;Yahoo新聞走路會喘、膽固醇飆高恐是血管警訊！腦中風權威教你用「CPR三步導航」守護心腦血管健康| 信傳媒&nbsp;&nbsp;LINE TODAY健康解碼｜壞膽固醇過高 男子33歲已心臟病發 專家籲及早控制 遠離心血管病發風險&nbsp;&nbsp;AM730新版膽固醇指引改看長期風險 美研究：56.6%成年人符合他汀用藥建議&nbsp;&nbsp;Taiwan News壞膽固醇愈低愈好？2026最新膽固醇治療指南出爐：9歲開始，就要開始驗膽固醇&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "走路會喘、膽固醇飆高恐是血管警訊！腦中風權威教你用「CPR三步導航」守護心腦血管健康&nbsp;&nbsp;Yahoo新聞走路會喘、膽固醇飆高恐是血管警訊！腦中風權威教你用「CPR三步導航」守護心腦血管健康| 信傳媒&nbsp;&nbsp;LINE TODAY90歲以上長壽者膽固醇都不低！塵封30年數據顛覆觀念 醫揭「膽固醇悖論」&nbsp;&nbsp;ENews新聞網健康解碼｜壞膽固醇過高 男子33歲已心臟病發 專家籲及早控制 遠離心血管病發風險&nbsp;&nbsp;AM730新版膽固醇指引改看長期風險 美研究：56.6%成年人符合他汀用藥建議&nbsp;&nbsp;Taiwan News",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -614,55 +640,6 @@
       ]
     },
     {
-      "id": "73c032366bbb",
-      "title": "網路瘋傳有毒食品是真的嗎？食藥署設「專區」釋疑",
-      "published": "2026-07-27T17:36:14+00:00",
-      "summary": "網路瘋傳有毒食品是真的嗎？食藥署設「專區」釋疑&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB0Q1B6d3dlZjVnOXN4YjhLcEl5R0VtNUJGcGkybzkwcnFzOWFVTTZxRVFuT3ZTbVQtMm9vS0o3OW1RdnRMMEE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5019ca8d7409",
-      "title": "預防心血管疾病 從健康生活做起",
-      "published": "2026-07-27T16:02:32+00:00",
-      "summary": "預防心血管疾病 從健康生活做起&nbsp;&nbsp;澎湖e傳媒",
-      "sources": [
-        {
-          "name": "澎湖e傳媒",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd3BNYWpqaVVZWjA2RFl5eGh2UWczS0d1WXhQeFZJZUpWX2FSRW5RdldWVDd2d201cjR6MDI0TkYyTzMyOVBuNFlGbk1CNngtTktuMnNDMjdhWG03eG9OZ2ZmbG12WGhoNF81UXpCOVMwRld1dGRyWk1sVHY2WThDUEg0TDlTS2UyQmk5bXMxZE5tX1VOMHpvRldDRGw2T2JjN05lRzJEV3JEWFpGa0V4Y2tteHBUOFFSX1NWYlNUZWFOSmthaE1CRGw1RXFTTW5vWnhsWFlCdXJMWkNfR3NNakdPWQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "10d37537fa96",
       "title": "看了被氣死！LINE瘋傳「護眼操」是假的！近視不減反增| 生活",
       "published": "2026-07-27T12:33:32+00:00",
@@ -766,6 +743,19 @@
       "matched_keywords": []
     },
     {
+      "id": "10c26907d300",
+      "title": "住戶心驚驚！黑心維冠「龍門世家」3期震後牆裂、磚瓦落| 生活",
+      "published": "2026-07-27T04:14:55+00:00",
+      "summary": "住戶心驚驚！黑心維冠「龍門世家」3期震後牆裂、磚瓦落| 生活&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4yZG9NaVFXdWRiaFR3Mkw4RWg4STR6X1FjbzVscWVoWW9Qc1F5YXk2bC1mcXB5SUJWaTJaYXR5OExabW9yNUkw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "11a31af916dc",
       "title": "每天醒來要第一時間檢查枕頭狀況！夜間盜汗+3情況要留意 疑罹癌徵兆",
       "published": "2026-07-27T02:29:11+00:00",
@@ -774,19 +764,6 @@
         {
           "name": "UDN",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TWHBubFhhRm9pVDhZMFQ1VU9oTFJ2dzVfUXgyQW1iMHczbVV3UGVBVEF1N202eU1aTU01MGVOR0pUWUV6dG50a2ZyOHFlWE100gFWQVVfeXFMTlFiTHJjdDdEMm1manRVNHQtNjNiaGR4VkVYUThRY3dHSTJDczI4QXN3dTNySDE3cTRHZ2hXYXJnRy1mQjdKWWdnbVRjWERINWpaeWluZ0E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "469f116a5e9e",
-      "title": "橫琴多個公共場所設「共享驅蚊液」 居民可免費使用",
-      "published": "2026-07-26T23:00:46+00:00",
-      "summary": "橫琴多個公共場所設「共享驅蚊液」 居民可免費使用&nbsp;&nbsp;澳門力報",
-      "sources": [
-        {
-          "name": "澳門力報",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BOENUc2Q1SzdpRTh5SUFZUm1vc2JEYUU0QzRhaUdGOE82ejRGVXppYUttUmo5SmxyeTExdFhRb1FqSzRxdTR1eGV2dmk0UjJObGxR?oc=5"
         }
       ],
       "matched_keywords": []
