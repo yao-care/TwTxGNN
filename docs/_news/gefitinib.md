@@ -59,11 +59,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [走路速度和大腦年齡有關？最新研究：走路愈快愈長壽、失智風險降低60% - Harper's BAZAAR](https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1ZkREs4bWFqVHpKTjl0TDlkTjBkU0ZGNUQzOUh5UXdsOGotY0x5YVZhUEdEdkpORlpDM0swZkh0NDEweVpEX0hhcVU5bURLeFBFNEJZYTB5bTlaUEwyeXBvX25NVG9rRDFNRFN1UU1HM3RBdmlnTU1nVHJNZ0dZUExBYlF2T1NGSDA0alJFeVZaT2lfRzRUSVNENFI?oc=5)
+### [走路速度和大腦年齡有關？最新研究：走路愈快愈長壽、失智風險降低60%](https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1ZkREs4bWFqVHpKTjl0TDlkTjBkU0ZGNUQzOUh5UXdsOGotY0x5YVZhUEdEdkpORlpDM0swZkh0NDEweVpEX0hhcVU5bURLeFBFNEJZYTB5bTlaUEwyeXBvX25NVG9rRDFNRFN1UU1HM3RBdmlnTU1nVHJNZ0dZUExBYlF2T1NGSDA0alJFeVZaT2lfRzRUSVNENFI?oc=5)
 
 2026-07-30 <span class="news-indication-tag">失智</span>
 
-來源：[Harper's BAZAAR](https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1ZkREs4bWFqVHpKTjl0TDlkTjBkU0ZGNUQzOUh5UXdsOGotY0x5YVZhUEdEdkpORlpDM0swZkh0NDEweVpEX0hhcVU5bURLeFBFNEJZYTB5bTlaUEwyeXBvX25NVG9rRDFNRFN1UU1HM3RBdmlnTU1nVHJNZ0dZUExBYlF2T1NGSDA0alJFeVZaT2lfRzRUSVNENFI?oc=5)
+來源：[harpersbazaar.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1ZkREs4bWFqVHpKTjl0TDlkTjBkU0ZGNUQzOUh5UXdsOGotY0x5YVZhUEdEdkpORlpDM0swZkh0NDEweVpEX0hhcVU5bURLeFBFNEJZYTB5bTlaUEwyeXBvX25NVG9rRDFNRFN1UU1HM3RBdmlnTU1nVHJNZ0dZUExBYlF2T1NGSDA0alJFeVZaT2lfRzRUSVNENFI?oc=5)
 
 ---
 

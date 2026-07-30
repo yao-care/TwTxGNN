@@ -37,7 +37,7 @@ permalink: /news/gout/
 
 2026-07-30
 
-來源：[chinatimes.com](https://news.google.com/rss/articles/CBMibkFVX3lxTFAyWEUzRmdNVjdjdzIxVW13QV9ZbU9xZm5VRGhVcGZaaGxLdEdUdEtvdjd2bmFiamoyNHZRYk0tUy1La0JNMXBBcG43c3FraVBCY3dFZ2lFRXZndVBTUS1idlNOeV9NMGxyVlJkVXl3?oc=5)
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFAyWEUzRmdNVjdjdzIxVW13QV9ZbU9xZm5VRGhVcGZaaGxLdEdUdEtvdjd2bmFiamoyNHZRYk0tUy1La0JNMXBBcG43c3FraVBCY3dFZ2lFRXZndVBTUS1idlNOeV9NMGxyVlJkVXl3?oc=5)
 
 ---
 
