@@ -43,11 +43,11 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（3 則）
 
-### [兩歲前少吃糖 長大後失智風險降低23%？ - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ESmFDMUVjZlp3SzFsSnJ3TUkzNUE2Uk1TZjA2T3Yzd1BCTk5YQnVuWGZSclZNLXd5dkdOOGFyM2sxV2JHelNUUm1RbXVPdVppVXpqYXFMd08?oc=5)
+### [研究證實：兩歲前限制糖分攝取有助日後降低失智症風險- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zUEhLU3c0aGprUVJQVlVSYXVkU1c4UDRFSzc3bWUtSjYxUW96TnFKcnVZcGJiTkpDLXp2VkFvLW1QM0J5TmhSZUNpOWlJdGNRWmlyeXNKN1VRUzctVWVN?oc=5)
 
-2026-07-30 <span class="news-indication-tag">失智</span>
+2026-07-30 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ESmFDMUVjZlp3SzFsSnJ3TUkzNUE2Uk1TZjA2T3Yzd1BCTk5YQnVuWGZSclZNLXd5dkdOOGFyM2sxV2JHelNUUm1RbXVPdVppVXpqYXFMd08?oc=5)
+來源：[ctee.com.tw](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zUEhLU3c0aGprUVJQVlVSYXVkU1c4UDRFSzc3bWUtSjYxUW96TnFKcnVZcGJiTkpDLXp2VkFvLW1QM0J5TmhSZUNpOWlJdGNRWmlyeXNKN1VRUzctVWVN?oc=5)
 
 ---
 
@@ -55,7 +55,7 @@ permalink: /news/gefitinib/
 
 2026-07-30 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
 
-來源：[health.ltn.com.tw](https://news.google.com/rss/articles/CBMiZEFVX3lxTE82eThUcldSSWZPZEtwX3RhcVdOUDRpMUpjQ0VIZlFHcy1heERxa0pWTTdEclJLNTdNYm84WFZlVkJNUGQ3NV9IRHdoNWV6Y2tjOGNublNyUHpHWlNwWFpiZ1V4NDU?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE82eThUcldSSWZPZEtwX3RhcVdOUDRpMUpjQ0VIZlFHcy1heERxa0pWTTdEclJLNTdNYm84WFZlVkJNUGQ3NV9IRHdoNWV6Y2tjOGNublNyUHpHWlNwWFpiZ1V4NDU?oc=5)
 
 ---
 

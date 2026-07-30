@@ -1,13 +1,13 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-30T12:23:27.008011+00:00",
-  "count": 20,
+  "fetched_at": "2026-07-30T15:03:01.297762+00:00",
+  "count": 19,
   "news": [
     {
       "id": "da18858a85b3",
       "title": "減重手術趁早做 台北慈濟揭乳癌風險降2成 - Yahoo新聞",
       "published": "2026-07-30T08:12:55+00:00",
-      "summary": "減重手術趁早做 台北慈濟揭乳癌風險降2成&nbsp;&nbsp;Yahoo新聞台北慈院研究：及早減重手術 助降低乳癌發生率&nbsp;&nbsp;health.ltn.com.tw肥胖女性注意！研究證實縮胃手術越早做、乳癌死亡率越低&nbsp;&nbsp;Yahoo新聞期刊證實胖是得癌關鍵風險 ４恐怖真相曝&nbsp;&nbsp;鏡週刊Mirror Media肥胖不只傷心血管！醫揭乳癌風險也跟著升高，1族群及早減重效果最好&nbsp;&nbsp;良醫健康網",
+      "summary": "減重手術趁早做 台北慈濟揭乳癌風險降2成&nbsp;&nbsp;Yahoo新聞台北慈院研究：及早減重手術 助降低乳癌發生率&nbsp;&nbsp;自由健康網防癌快看！國際期刊證實胖是得癌關鍵風險 潘致皓醫師曝４個恐怖真相&nbsp;&nbsp;Yahoo新聞肥胖不只傷心血管！醫揭乳癌風險也跟著升高，1族群及早減重效果最好&nbsp;&nbsp;良醫健康網肥胖不是外表問題！BMI破35乳癌風險飆 做這事風險降2成&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -28,37 +28,49 @@
       ]
     },
     {
-      "id": "3990aff2c122",
-      "title": "兩歲前少吃糖 長大後失智風險降低23%？ - Taiwan News",
-      "published": "2026-07-30T08:18:00+00:00",
-      "summary": "兩歲前少吃糖 長大後失智風險降低23%？&nbsp;&nbsp;Taiwan News",
+      "id": "4aba308dc225",
+      "title": "研究證實：兩歲前限制糖分攝取有助日後降低失智症風險- 國際 - ctee.com.tw",
+      "published": "2026-07-30T13:16:00+00:00",
+      "summary": "研究證實：兩歲前限制糖分攝取有助日後降低失智症風險- 國際&nbsp;&nbsp;ctee.com.tw",
       "sources": [
         {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ESmFDMUVjZlp3SzFsSnJ3TUkzNUE2Uk1TZjA2T3Yzd1BCTk5YQnVuWGZSclZNLXd5dkdOOGFyM2sxV2JHelNUUm1RbXVPdVppVXpqYXFMd08?oc=5"
+          "name": "ctee.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zUEhLU3c0aGprUVJQVlVSYXVkU1c4UDRFSzc3bWUtSjYxUW96TnFKcnVZcGJiTkpDLXp2VkFvLW1QM0J5TmhSZUNpOWlJdGNRWmlyeXNKN1VRUzctVWVN?oc=5"
         }
       ]
     },
     {
-      "id": "82d663be07bd",
-      "title": "大腦藏有天然守門員！研究揭阿茲海默症惡化新關鍵 - health.ltn.com.tw",
-      "published": "2026-07-30T06:34:00+00:00",
-      "summary": "大腦藏有天然守門員！研究揭阿茲海默症惡化新關鍵&nbsp;&nbsp;health.ltn.com.tw研究：阿茲海默症睡眠障礙 可能有關免疫細胞反應&nbsp;&nbsp;health.ltn.com.tw腦有阿茲海默病變不一定失智 研究揭大腦關鍵轉折&nbsp;&nbsp;health.ltn.com.tw",
+      "id": "4845569ceff5",
+      "title": "不靠狂消毒！醫揭降低感染風險8個習慣：洗手只是其中之一 - 元氣網",
+      "published": "2026-07-30T07:35:27+00:00",
+      "summary": "不靠狂消毒！醫揭降低感染風險8個習慣：洗手只是其中之一&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pZVFxNXpaZDZObVNHTlNiQUNvRU1aNXJXZXRKc0VzcFhSc1hJSjlFMkl1YjFkVmJSeVM5el94bUNlZGMtQmpwdE5mZy1PUlZ0S0VhbC10NUJFYVVN0gFiQVVfeXFMTndIUnA2SEVDZlUxTU11Sk5xSWhPbzJPbDhJa0xfTTgxb3FxR0FvN0M1bC11SG5GZHVucFpoM0lnUUxuZUV3NmxFNGN6UXJGTm1zeVV2ejVyMk5nNzZ4TXVlS0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a9f23e41162f",
+      "title": "大腦藏有天然守門員！研究揭阿茲海默症惡化新關鍵 - 自由健康網",
+      "published": "2026-07-30T06:34:00+00:00",
+      "summary": "大腦藏有天然守門員！研究揭阿茲海默症惡化新關鍵&nbsp;&nbsp;自由健康網研究：阿茲海默症睡眠障礙 可能有關免疫細胞反應&nbsp;&nbsp;自由健康網腦有阿茲海默病變不一定失智 研究揭大腦關鍵轉折&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82eThUcldSSWZPZEtwX3RhcVdOUDRpMUpjQ0VIZlFHcy1heERxa0pWTTdEclJLNTdNYm84WFZlVkJNUGQ3NV9IRHdoNWV6Y2tjOGNublNyUHpHWlNwWFpiZ1V4NDU?oc=5"
         }
       ]
     },
     {
-      "id": "c3d2a02e06a7",
-      "title": "美國驚見《聖經》疾病回歸佛州病例暴增元凶恐是這野生動物- 國際 - chinatimes.com",
+      "id": "7dd352c892a6",
+      "title": "美國驚見《聖經》疾病回歸佛州病例暴增元凶恐是這野生動物- 國際 - 中時新聞網",
       "published": "2026-07-30T05:25:18+00:00",
-      "summary": "美國驚見《聖經》疾病回歸佛州病例暴增元凶恐是這野生動物- 國際&nbsp;&nbsp;chinatimes.com",
+      "summary": "美國驚見《聖經》疾病回歸佛州病例暴增元凶恐是這野生動物- 國際&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "chinatimes.com",
+          "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LZmczUEFBdkRaTnczaW9UUGVGOGR1RnQtdFI1RUVLRFJqbkplOXNFcnVLYkFzZ2JLeTJpcVh5ZWI2UmtJcW1HQ2NldnlUa1dJWlJOYkFMUi1wSmtBQi1EVFFDV0lHODQ4LUEzSm1B?oc=5"
         }
       ]
@@ -90,8 +102,8 @@
     {
       "id": "f32341fdbc8b",
       "title": "男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年 - Yahoo新聞",
-      "published": "2026-07-30T06:04:35+00:00",
-      "summary": "男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年&nbsp;&nbsp;Yahoo新聞男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年 | Newtalk&nbsp;&nbsp;LINE TODAY男口腔癌四期 再揪大腸癌 醫曝「雙癌夾擊」關鍵原因&nbsp;&nbsp;chinatimes.com嘴巴破很久都好不了？醫師教您「口腔黏膜檢查」三大防癌關鍵- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險&nbsp;&nbsp;三立新聞",
+      "published": "2026-07-30T06:33:52+00:00",
+      "summary": "男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年&nbsp;&nbsp;Yahoo新聞男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年 | Newtalk&nbsp;&nbsp;LINE TODAY男口腔癌四期 再揪大腸癌 醫曝「雙癌夾擊」關鍵原因&nbsp;&nbsp;中時新聞網嘴巴破很久都好不了？醫師教您「口腔黏膜檢查」三大防癌關鍵- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險&nbsp;&nbsp;三立新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -112,26 +124,26 @@
       ]
     },
     {
-      "id": "3071d181286a",
-      "title": "退休師拒切片！拖3年尿不出來　「攝護腺癌骨轉移」痛到打嗎啡 - ETtoday健康雲",
-      "published": "2026-07-28T12:32:00+00:00",
-      "summary": "退休師拒切片！拖3年尿不出來 「攝護腺癌骨轉移」痛到打嗎啡&nbsp;&nbsp;ETtoday健康雲前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "3b7cd82daaba",
+      "title": "健康網》孕婦染新冠、流感別硬撐！ 醫：出現4警訊快就醫 - 自由健康網",
+      "published": "2026-07-29T08:19:00+00:00",
+      "summary": "健康網》孕婦染新冠、流感別硬撐！ 醫：出現4警訊快就醫&nbsp;&nbsp;自由健康網孕婦染新冠千萬別當一般感冒！ 醫：「6大情況」有重症風險&nbsp;&nbsp;TVBS新聞網孕婦染COVID怕吃藥傷胎？重症醫：不治療風險更大&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IbU45UEc3MVVWZS1WRXRyZTNjTTloc2FuRldzdGVveTExTDRnbG00RHZjRXlFN2lHRllfbC0wU0drMGRjeGszNkYtU0RMSWVF0gFPQVVfeXFMUGwwaktmWU1JdGFrbVFVMEkzU1BhaUZMNnVieUwzTzlXYVc3NnhUQ0swcnhWNXdqeWxCTUNraF8wUWtCMmJJLTlSNFhuT2h6cw?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hMnI3ZDJJWkVwSFpaSFY0SVFkM2ozOXhhcWFrajJGcTI2ekxzS0ptRWpPOE10a1BFQlczOE5QT1NaZ0JyQ3dXV2VIWEtKZzBGbENaSFVQR0FNWFZNQ3czcllyWmo?oc=5"
         }
       ]
     },
     {
-      "id": "121d724bc512",
-      "title": "健康網》孕婦染新冠、流感別硬撐！ 醫：出現4警訊快就醫 - health.ltn.com.tw",
-      "published": "2026-07-29T08:19:00+00:00",
-      "summary": "健康網》孕婦染新冠、流感別硬撐！ 醫：出現4警訊快就醫&nbsp;&nbsp;health.ltn.com.tw孕婦染新冠千萬別當一般感冒！ 醫：「6大情況」有重症風險&nbsp;&nbsp;TVBS新聞網孕婦染COVID怕吃藥傷胎？重症醫：不治療風險更大&nbsp;&nbsp;Yahoo新聞",
+      "id": "19ccda76115a",
+      "title": "【灣區新聞】Santa Clara縣出現今年首兩宗西尼羅病毒人類感染個案 ​當局呼籲居民加強防蚊 - KTSF.com",
+      "published": "2026-07-30T14:34:15+00:00",
+      "summary": "【灣區新聞】Santa Clara縣出現今年首兩宗西尼羅病毒人類感染個案 ​當局呼籲居民加強防蚊&nbsp;&nbsp;KTSF.com州衛生廳籲民眾防範蚊媒疾病 西尼羅病毒首現本季病例&nbsp;&nbsp;大纪元灣區今年首現人類西尼羅病例 聖他克拉縣兩居民證實染病毒&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hMnI3ZDJJWkVwSFpaSFY0SVFkM2ozOXhhcWFrajJGcTI2ekxzS0ptRWpPOE10a1BFQlczOE5QT1NaZ0JyQ3dXV2VIWEtKZzBGbENaSFVQR0FNWFZNQ3czcllyWmo?oc=5"
+          "name": "KTSF.com",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpWlk2cmR5Q0RvRUlhZ1E5cHBaemEwT0JtMFpjeHAzQ2VHTWp6MGNKRndCUkFMQW1YdndnMkpsODAyeDhYU2tCaUVpRVItWU1ObkoxWURzdUFvdklRZHpxZkJEMEluS2RoRWtadWFQME0?oc=5"
         }
       ]
     },
@@ -148,25 +160,13 @@
       ]
     },
     {
-      "id": "0b0e27dcc24f",
-      "title": "那柏縣烏鴉屍體帶西尼羅病毒 - Singtaousa",
-      "published": "2026-07-29T13:00:00+00:00",
-      "summary": "那柏縣烏鴉屍體帶西尼羅病毒&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOXNNR3RfMlVNSEY2RUt0TU1LRElIS2ozT1U5RjhwTGtsWHF2SHF2TXI3YUQ1ZDdlTGl2QVV2NFBpUkRRX3lvTEZZVmp2UHRPbjhWVDRzLTBzWWJLTEJrOUNxLXZNenhjZ0xXaG9GelBBTXVudnYyel9GYk1nR2NHdHNvQzVuTzA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "68a6dd06b09b",
-      "title": "荷蘭研究指出針對性停課能提升防疫成效並降低社會成本 - geneonline.news",
+      "id": "8171a74672f6",
+      "title": "荷蘭研究指出針對性停課能提升防疫成效並降低社會成本 - GeneOnline News",
       "published": "2026-07-28T20:09:06+00:00",
-      "summary": "荷蘭研究指出針對性停課能提升防疫成效並降低社會成本&nbsp;&nbsp;geneonline.news",
+      "summary": "荷蘭研究指出針對性停課能提升防疫成效並降低社會成本&nbsp;&nbsp;GeneOnline News",
       "sources": [
         {
-          "name": "geneonline.news",
+          "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNQzZqRjR3RnREVVIzVUZ0WWxXTVdDZEE2VWgtNkl2VTNwZG83WVJVSzlqSC12Z2lxNGIybllNRlFWbkg0RVIyR2Z0Zml5VDA5aTFzNDFZSkhjT0hFTl9UTUpuajR1elRnT2o3SndjYVNmN1ZkRWhLZDFRcl8zUGIzZnZHQ2FTMThmelNsMm5ZSTFRbzlWYldVWGU0Zm1Nb0F2dEdRR2M1U0lHX0hxYnVYeUNxZVVXOUpubHhRdUh3TVJEeFpEeUVwVzJDUUtaaVRoZ3JXZ3FXdURsXy1jV08tNXV1anQtdlJkdlJ2TUFTOWNBR3d1dmZwXzBHZzd4NU55VEhwS0k3MDBMQnBURmlPNHpEMmxER29kalB2dTVsTklqWGR0SFZ4cUl2eG40enRLNWxfZ2lFQ1BwbnJqUkhMNGZEMVJmQQ?oc=5"
         }
       ]
@@ -196,13 +196,13 @@
       ]
     },
     {
-      "id": "e1fc296d40ad",
-      "title": "兒童寒背恐影響心肺發育 免費脊骨檢查盡早搵出問題 - sundaykiss.com",
+      "id": "2f46e11332b1",
+      "title": "兒童寒背恐影響心肺發育 免費脊骨檢查盡早搵出問題 - Sundaykiss",
       "published": "2026-07-30T00:49:34+00:00",
-      "summary": "兒童寒背恐影響心肺發育 免費脊骨檢查盡早搵出問題&nbsp;&nbsp;sundaykiss.com",
+      "summary": "兒童寒背恐影響心肺發育 免費脊骨檢查盡早搵出問題&nbsp;&nbsp;Sundaykiss",
       "sources": [
         {
-          "name": "sundaykiss.com",
+          "name": "Sundaykiss",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWDcwUXpOaEctMkpTWUFqdURVVnZKQlZFRG5DeUlNdGhHOHJ6UU1YWGJfSkdGbHV2eFhsOEk5dEhob3FYdjBpQ3lscFVTNDFDV24tRkJ2Zlhid0VZTE95OW9JWjhuUE84cmJMbHJBWGFoaWlRaUtsQXd6QVRKbUVrYk9ybzBOSzVHeElpS2hBcGZNWU5rOUpST0o3SktCV2o1SFRTa2RoZGhVZWUwcUJYZkVNUHNwX0tVcmJUS1F2eTNack11cTZGVWs0d0VKWkhlcDZ3?oc=5"
         }
       ]
@@ -216,18 +216,6 @@
         {
           "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTzRBcnZ0Ty1KRnQwUVdCWURDNkVrVU5jRGNxeU1OdWlVTlE2NlZDYThCN2NOeGgwWXFkblJGVGxXTkdDMHZIM0VHazhtMzM3TVNnM3c1a2x3R1pYNW9Vem1sV2s5ZE91eDNTaGUydUZpTWwybHhtc1o3OURMTUo5WXdpTXM5WjJXMG96ZnZNY2I?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "79b0f9882e48",
-      "title": "總是太體貼、太能忍？研究發現這些「好人特質」可能正傷害你的身體 - money.udn.com",
-      "published": "2026-07-28T14:14:52+00:00",
-      "summary": "總是太體貼、太能忍？研究發現這些「好人特質」可能正傷害你的身體&nbsp;&nbsp;money.udn.com",
-      "sources": [
-        {
-          "name": "money.udn.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfRU9UVkotX3pMS2hGRDA4dlZJRmZRSlBFTm84d2RVNXVrSDdvZTY4UVJCT05VM1NXQXVJdHZFQk5LcGZaWmZPWFlsYTZZbGZnNDhiX1ZYSVlGdE5lQVZZ0gFfQVVfeXFMUF9FT1RWSi1fekxLaEZEMDh2VklGZlFKUEVObzh3ZFU1dWtIN29lNjhRUkJPTlUzU1dBdUl0dkVCTktwZlpaZk9YWWxhNllsZmc0OGJfVlhJWUZ0TmVBVlk?oc=5"
         }
       ]
     },

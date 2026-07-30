@@ -14,7 +14,7 @@ permalink: /news/denosumab/
 ---
 
 <p class="key-answer" data-question="Denosumab 有什麼相關新聞？">
-<strong>Denosumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Denosumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,9 @@ permalink: /news/denosumab/
 <p><a href="{{ '/drugs/denosumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [退休師拒切片！拖3年尿不出來　「攝護腺癌骨轉移」痛到打嗎啡](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IbU45UEc3MVVWZS1WRXRyZTNjTTloc2FuRldzdGVveTExTDRnbG00RHZjRXlFN2lHRllfbC0wU0drMGRjeGszNkYtU0RMSWVF0gFPQVVfeXFMUGwwaktmWU1JdGFrbVFVMEkzU1BhaUZMNnVieUwzTzlXYVc3NnhUQ0swcnhWNXdqeWxCTUNraF8wUWtCMmJJLTlSNFhuT2h6cw?oc=5)
-
-2026-07-28 <span class="news-indication-tag">骨轉移</span>
-
-來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IbU45UEc3MVVWZS1WRXRyZTNjTTloc2FuRldzdGVveTExTDRnbG00RHZjRXlFN2lHRllfbC0wU0drMGRjeGszNkYtU0RMSWVF0gFPQVVfeXFMUGwwaktmWU1JdGFrbVFVMEkzU1BhaUZMNnVieUwzTzlXYVc3NnhUQ0swcnhWNXdqeWxCTUNraF8wUWtCMmJJLTlSNFhuT2h6cw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

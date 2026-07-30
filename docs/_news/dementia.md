@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智（dementia） 相關新聞"
+title: "失智症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "失智症（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智（dementia） 相關新聞
+# 失智症（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
+<strong>失智症（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -31,11 +31,11 @@ permalink: /news/dementia/
 
 ## 相關新聞（3 則）
 
-### [兩歲前少吃糖 長大後失智風險降低23%？ - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ESmFDMUVjZlp3SzFsSnJ3TUkzNUE2Uk1TZjA2T3Yzd1BCTk5YQnVuWGZSclZNLXd5dkdOOGFyM2sxV2JHelNUUm1RbXVPdVppVXpqYXFMd08?oc=5)
+### [研究證實：兩歲前限制糖分攝取有助日後降低失智症風險- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zUEhLU3c0aGprUVJQVlVSYXVkU1c4UDRFSzc3bWUtSjYxUW96TnFKcnVZcGJiTkpDLXp2VkFvLW1QM0J5TmhSZUNpOWlJdGNRWmlyeXNKN1VRUzctVWVN?oc=5)
 
 2026-07-30
 
-來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ESmFDMUVjZlp3SzFsSnJ3TUkzNUE2Uk1TZjA2T3Yzd1BCTk5YQnVuWGZSclZNLXd5dkdOOGFyM2sxV2JHelNUUm1RbXVPdVppVXpqYXFMd08?oc=5)
+來源：[ctee.com.tw](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zUEhLU3c0aGprUVJQVlVSYXVkU1c4UDRFSzc3bWUtSjYxUW96TnFKcnVZcGJiTkpDLXp2VkFvLW1QM0J5TmhSZUNpOWlJdGNRWmlyeXNKN1VRUzctVWVN?oc=5)
 
 ---
 
@@ -43,7 +43,7 @@ permalink: /news/dementia/
 
 2026-07-30
 
-來源：[health.ltn.com.tw](https://news.google.com/rss/articles/CBMiZEFVX3lxTE82eThUcldSSWZPZEtwX3RhcVdOUDRpMUpjQ0VIZlFHcy1heERxa0pWTTdEclJLNTdNYm84WFZlVkJNUGQ3NV9IRHdoNWV6Y2tjOGNublNyUHpHWlNwWFpiZ1V4NDU?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE82eThUcldSSWZPZEtwX3RhcVdOUDRpMUpjQ0VIZlFHcy1heERxa0pWTTdEclJLNTdNYm84WFZlVkJNUGQ3NV9IRHdoNWV6Y2tjOGNublNyUHpHWlNwWFpiZ1V4NDU?oc=5)
 
 ---
 

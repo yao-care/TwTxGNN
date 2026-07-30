@@ -1,21 +1,32 @@
 {
-  "generated": "2026-07-30T12:23:31.450991+00:00",
-  "count": 8,
+  "generated": "2026-07-30T15:03:06.686322+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "3990aff2c122",
-      "title": "兩歲前少吃糖 長大後失智風險降低23%？ - Taiwan News",
-      "published": "2026-07-30T08:18:00+00:00",
+      "id": "4aba308dc225",
+      "title": "研究證實：兩歲前限制糖分攝取有助日後降低失智症風險- 國際",
+      "published": "2026-07-30T13:16:00+00:00",
       "sources": [
         {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ESmFDMUVjZlp3SzFsSnJ3TUkzNUE2Uk1TZjA2T3Yzd1BCTk5YQnVuWGZSclZNLXd5dkdOOGFyM2sxV2JHelNUUm1RbXVPdVppVXpqYXFMd08?oc=5"
+          "name": "ctee.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zUEhLU3c0aGprUVJQVlVSYXVkU1c4UDRFSzc3bWUtSjYxUW96TnFKcnVZcGJiTkpDLXp2VkFvLW1QM0J5TmhSZUNpOWlJdGNRWmlyeXNKN1VRUzctVWVN?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
           "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
           "keyword": "失智",
           "related_drugs": [
             {
@@ -86,12 +97,12 @@
       ]
     },
     {
-      "id": "82d663be07bd",
+      "id": "a9f23e41162f",
       "title": "大腦藏有天然守門員！研究揭阿茲海默症惡化新關鍵",
       "published": "2026-07-30T06:34:00+00:00",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82eThUcldSSWZPZEtwX3RhcVdOUDRpMUpjQ0VIZlFHcy1heERxa0pWTTdEclJLNTdNYm84WFZlVkJNUGQ3NV9IRHdoNWV6Y2tjOGNublNyUHpHWlNwWFpiZ1V4NDU?oc=5"
         }
       ],
@@ -123,7 +134,7 @@
     {
       "id": "f32341fdbc8b",
       "title": "男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年",
-      "published": "2026-07-30T06:04:35+00:00",
+      "published": "2026-07-30T06:33:52+00:00",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -216,12 +227,12 @@
       ]
     },
     {
-      "id": "121d724bc512",
+      "id": "3b7cd82daaba",
       "title": "健康網》孕婦染新冠、流感別硬撐！ 醫：出現4警訊快就醫",
       "published": "2026-07-29T08:19:00+00:00",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hMnI3ZDJJWkVwSFpaSFY0SVFkM2ozOXhhcWFrajJGcTI2ekxzS0ptRWpPOE10a1BFQlczOE5QT1NaZ0JyQ3dXV2VIWEtKZzBGbENaSFVQR0FNWFZNQ3czcllyWmo?oc=5"
         }
       ],
@@ -234,30 +245,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3071d181286a",
-      "title": "退休師拒切片！拖3年尿不出來　「攝護腺癌骨轉移」痛到打嗎啡",
-      "published": "2026-07-28T12:32:00+00:00",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IbU45UEc3MVVWZS1WRXRyZTNjTTloc2FuRldzdGVveTExTDRnbG00RHZjRXlFN2lHRllfbC0wU0drMGRjeGszNkYtU0RMSWVF0gFPQVVfeXFMUGwwaktmWU1JdGFrbVFVMEkzU1BhaUZMNnVieUwzTzlXYVc3NnhUQ0swcnhWNXdqeWxCTUNraF8wUWtCMmJJLTlSNFhuT2h6cw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "骨轉移",
-          "keyword": "骨轉移",
-          "related_drugs": [
-            {
-              "slug": "denosumab",
-              "name": "Denosumab"
             }
           ]
         }
