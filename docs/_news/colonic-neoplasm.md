@@ -3,7 +3,7 @@ layout: default
 title: "大腸癌（colonic neoplasm） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/colonic-neoplasm/
 ---
 
 <p class="key-answer" data-question="大腸癌（colonic neoplasm） 有什麼相關新聞？">
-<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/colonic-neoplasm/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年](https://news.google.com/rss/articles/CBMixwFBVV95cUxNYnJSWjBkSzZkNmNFNHNXblJKVlk3aGZYWkdRRThzLUc5aW9lOFVOeXN2eEJod2JjeUFlMlM2RjJvaFJuMHpXcEJaNU5FR2xyYl9yVUZBWHBZdDVydURoNDlpVTRKeVVuRmdhRUtGb0FVazRYQ3YtOXFhSlVhT1FwM3BySXctX1E5YkZRTXN3dmcxSFBySnFvSjhZaTdCaU1fUFBKd0pVMHU4TWFob0xaYy1tSExFZTBpeXI5WGJvYThtQ0pDY00w?oc=5)
 
 2026-07-30
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMixwFBVV95cUxNYnJSWjBkSzZkNmNFNHNXblJKVlk3aGZYWkdRRThzLUc5aW9lOFVOeXN2eEJod2JjeUFlMlM2RjJvaFJuMHpXcEJaNU5FR2xyYl9yVUZBWHBZdDVydURoNDlpVTRKeVVuRmdhRUtGb0FVazRYQ3YtOXFhSlVhT1FwM3BySXctX1E5YkZRTXN3dmcxSFBySnFvSjhZaTdCaU1fUFBKd0pVMHU4TWFob0xaYy1tSExFZTBpeXI5WGJvYThtQ0pDY00w?oc=5)
-
----
-
-### [不只補鈣！醫揭維生素D強大功能](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UaFMtc3VidHBwLW9JUDV1NkN0eXIzaXl2X29QVERhbUlZcUpGeWpzYjJZdEtiYmJPc0VFbDExU2pGMzFORDIzU2RDRW54cG8?oc=5)
-
-2026-07-28
-
-來源：[翻爆](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UaFMtc3VidHBwLW9JUDV1NkN0eXIzaXl2X29QVERhbUlZcUpGeWpzYjJZdEtiYmJPc0VFbDExU2pGMzFORDIzU2RDRW54cG8?oc=5)
 
 ---
 

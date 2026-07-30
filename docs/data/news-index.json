@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-30T10:13:39.826333+00:00",
-  "count": 9,
+  "generated": "2026-07-30T12:23:31.450991+00:00",
+  "count": 8,
   "news": [
     {
       "id": "3990aff2c122",
@@ -86,12 +86,12 @@
       ]
     },
     {
-      "id": "a9f23e41162f",
+      "id": "82d663be07bd",
       "title": "大腦藏有天然守門員！研究揭阿茲海默症惡化新關鍵",
       "published": "2026-07-30T06:34:00+00:00",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82eThUcldSSWZPZEtwX3RhcVdOUDRpMUpjQ0VIZlFHcy1heERxa0pWTTdEclJLNTdNYm84WFZlVkJNUGQ3NV9IRHdoNWV6Y2tjOGNublNyUHpHWlNwWFpiZ1V4NDU?oc=5"
         }
       ],
@@ -216,12 +216,12 @@
       ]
     },
     {
-      "id": "3b7cd82daaba",
+      "id": "121d724bc512",
       "title": "健康網》孕婦染新冠、流感別硬撐！ 醫：出現4警訊快就醫",
       "published": "2026-07-29T08:19:00+00:00",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hMnI3ZDJJWkVwSFpaSFY0SVFkM2ozOXhhcWFrajJGcTI2ekxzS0ptRWpPOE10a1BFQlczOE5QT1NaZ0JyQ3dXV2VIWEtKZzBGbENaSFVQR0FNWFZNQ3czcllyWmo?oc=5"
         }
       ],
@@ -258,88 +258,6 @@
             {
               "slug": "denosumab",
               "name": "Denosumab"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4604ca2d6b5b",
-      "title": "不只補鈣！醫揭維生素D強大功能",
-      "published": "2026-07-28T10:22:21+00:00",
-      "sources": [
-        {
-          "name": "翻爆",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UaFMtc3VidHBwLW9JUDV1NkN0eXIzaXl2X29QVERhbUlZcUpGeWpzYjJZdEtiYmJPc0VFbDExU2pGMzFORDIzU2RDRW54cG8?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }

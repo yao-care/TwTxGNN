@@ -35,7 +35,7 @@ permalink: /news/common-cold/
 
 2026-07-29
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hMnI3ZDJJWkVwSFpaSFY0SVFkM2ozOXhhcWFrajJGcTI2ekxzS0ptRWpPOE10a1BFQlczOE5QT1NaZ0JyQ3dXV2VIWEtKZzBGbENaSFVQR0FNWFZNQ3czcllyWmo?oc=5)
+來源：[health.ltn.com.tw](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hMnI3ZDJJWkVwSFpaSFY0SVFkM2ozOXhhcWFrajJGcTI2ekxzS0ptRWpPOE10a1BFQlczOE5QT1NaZ0JyQ3dXV2VIWEtKZzBGbENaSFVQR0FNWFZNQ3czcllyWmo?oc=5)
 
 ---
 
