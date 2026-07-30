@@ -1,7 +1,89 @@
 {
-  "generated": "2026-07-30T04:49:29.391755+00:00",
-  "count": 9,
+  "generated": "2026-07-30T07:27:54.168507+00:00",
+  "count": 10,
   "news": [
+    {
+      "id": "a9f23e41162f",
+      "title": "大腦藏有天然守門員！研究揭阿茲海默症惡化新關鍵",
+      "published": "2026-07-30T06:34:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82eThUcldSSWZPZEtwX3RhcVdOUDRpMUpjQ0VIZlFHcy1heERxa0pWTTdEclJLNTdNYm84WFZlVkJNUGQ3NV9IRHdoNWV6Y2tjOGNublNyUHpHWlNwWFpiZ1V4NDU?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "26b186ac3b45",
+      "title": "男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年",
+      "published": "2026-07-30T06:04:35+00:00",
+      "sources": [
+        {
+          "name": "Newtalk新聞",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YOGxIR0FLVVQxbV9yX1diQ3pJbnpxWXpzRGRmZ09GMGRSSmdOOVdVWHZ5RkpSRW40X2hKYmxqVnBsUkZTSmpVZHlJS1VPOGVfcHN3UW16SWhncHc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "0435447f3b32",
       "title": "台北慈院研究：及早減重手術 助降低乳癌發生率",
@@ -13,6 +95,17 @@
         }
       ],
       "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
         {
           "type": "indication",
           "name": "female breast carcinoma",
@@ -45,6 +138,30 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "74b76a718bfe",
+      "title": "走路速度和大腦年齡有關？最新研究：走路愈快愈長壽、失智風險降低60% - Harper's BAZAAR",
+      "published": "2026-07-30T03:09:11+00:00",
+      "sources": [
+        {
+          "name": "Harper's BAZAAR",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1ZkREs4bWFqVHpKTjl0TDlkTjBkU0ZGNUQzOUh5UXdsOGotY0x5YVZhUEdEdkpORlpDM0swZkh0NDEweVpEX0hhcVU5bURLeFBFNEJZYTB5bTlaUEwyeXBvX25NVG9rRDFNRFN1UU1HM3RBdmlnTU1nVHJNZ0dZUExBYlF2T1NGSDA0alJFeVZaT2lfRzRUSVNENFI?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -93,64 +210,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9cf0270cb3e4",
-      "title": "不菸不酒也中鏢！男性口咽癌發生率超越子宮頸癌 隱形殺手曝",
-      "published": "2026-07-29T07:04:00+00:00",
-      "sources": [
-        {
-          "name": "winnews.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YeUhuQ3l4SGRKR0dTWWRMd2pCVC10WFllQTA5NV9WQ3FaOUM0bmQyRHBBVkhjZHpPX3FUNWpqd3RmdjN5WjJETjRR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
@@ -329,41 +388,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "53bf781c7089",
-      "title": "研究：阿茲海默症睡眠障礙 可能有關免疫細胞反應",
-      "published": "2026-07-28T05:50:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ySFJlN3FpdnZHRXRXWEJydTk3bGVIUVUyYUw1ZHNXcEhtby00cVBfR2lVeUcteVhTME9Ya2MzQlRyQzNpT3QtcmJkZDMxajZwU1pZc2JuQ3p0TFpOYTg5NVhpeXXSAWpBVV95cUxNWmlkYm9MUC0tTjA1Y3I5elE2cW9DejRjeVQ3NDMxb0xCdGVDMmF2aHMxcUZ6dUZncGFUeUFpb2xGQ1ZyMHlkaGZIUlZpNEFkdk9XU1VJY3hkVVFYcTRablI1VzlRQngwLThR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

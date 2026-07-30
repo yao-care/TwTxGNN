@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,29 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [大腦藏有天然守門員！研究揭阿茲海默症惡化新關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTE82eThUcldSSWZPZEtwX3RhcVdOUDRpMUpjQ0VIZlFHcy1heERxa0pWTTdEclJLNTdNYm84WFZlVkJNUGQ3NV9IRHdoNWV6Y2tjOGNublNyUHpHWlNwWFpiZ1V4NDU?oc=5)
+
+2026-07-30 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE82eThUcldSSWZPZEtwX3RhcVdOUDRpMUpjQ0VIZlFHcy1heERxa0pWTTdEclJLNTdNYm84WFZlVkJNUGQ3NV9IRHdoNWV6Y2tjOGNublNyUHpHWlNwWFpiZ1V4NDU?oc=5)
+
+---
+
+### [走路速度和大腦年齡有關？最新研究：走路愈快愈長壽、失智風險降低60% - Harper's BAZAAR](https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1ZkREs4bWFqVHpKTjl0TDlkTjBkU0ZGNUQzOUh5UXdsOGotY0x5YVZhUEdEdkpORlpDM0swZkh0NDEweVpEX0hhcVU5bURLeFBFNEJZYTB5bTlaUEwyeXBvX25NVG9rRDFNRFN1UU1HM3RBdmlnTU1nVHJNZ0dZUExBYlF2T1NGSDA0alJFeVZaT2lfRzRUSVNENFI?oc=5)
+
+2026-07-30 <span class="news-indication-tag">失智</span>
+
+來源：[Harper's BAZAAR](https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1ZkREs4bWFqVHpKTjl0TDlkTjBkU0ZGNUQzOUh5UXdsOGotY0x5YVZhUEdEdkpORlpDM0swZkh0NDEweVpEX0hhcVU5bURLeFBFNEJZYTB5bTlaUEwyeXBvX25NVG9rRDFNRFN1UU1HM3RBdmlnTU1nVHJNZ0dZUExBYlF2T1NGSDA0alJFeVZaT2lfRzRUSVNENFI?oc=5)
+
+---
 
 ### [關節保養別再只會吃葡萄糖胺！專家揭關節退化真相保養4祕訣關節用更久- 營養好食](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0SGdac242NnJSNEo1VEJZaWtnQ29rWFFkbFF4dDVzSkt1a05rWWJEVWZOMXNSVVd4MHhsV3E4NHRKUjAtSmdxeFV0MGJIbGtyYlJpdHJn?oc=5)
 
 2026-07-28 <span class="news-indication-tag">失智</span>
 
 來源：[健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0SGdac242NnJSNEo1VEJZaWtnQ29rWFFkbFF4dDVzSkt1a05rWWJEVWZOMXNSVVd4MHhsV3E4NHRKUjAtSmdxeFV0MGJIbGtyYlJpdHJn?oc=5)
-
----
-
-### [研究：阿茲海默症睡眠障礙 可能有關免疫細胞反應](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ySFJlN3FpdnZHRXRXWEJydTk3bGVIUVUyYUw1ZHNXcEhtby00cVBfR2lVeUcteVhTME9Ya2MzQlRyQzNpT3QtcmJkZDMxajZwU1pZc2JuQ3p0TFpOYTg5NVhpeXXSAWpBVV95cUxNWmlkYm9MUC0tTjA1Y3I5elE2cW9DejRjeVQ3NDMxb0xCdGVDMmF2aHMxcUZ6dUZncGFUeUFpb2xGQ1ZyMHlkaGZIUlZpNEFkdk9XU1VJY3hkVVFYcTRablI1VzlRQngwLThR?oc=5)
-
-2026-07-28 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ySFJlN3FpdnZHRXRXWEJydTk3bGVIUVUyYUw1ZHNXcEhtby00cVBfR2lVeUcteVhTME9Ya2MzQlRyQzNpT3QtcmJkZDMxajZwU1pZc2JuQ3p0TFpOYTg5NVhpeXXSAWpBVV95cUxNWmlkYm9MUC0tTjA1Y3I5elE2cW9DejRjeVQ3NDMxb0xCdGVDMmF2aHMxcUZ6dUZncGFUeUFpb2xGQ1ZyMHlkaGZIUlZpNEFkdk9XU1VJY3hkVVFYcTRablI1VzlRQngwLThR?oc=5)
 
 ---
 

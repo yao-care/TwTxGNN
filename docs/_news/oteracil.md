@@ -44,11 +44,11 @@ permalink: /news/oteracil/
 
 ## 相關新聞（2 則）
 
-### [不菸不酒也中鏢！男性口咽癌發生率超越子宮頸癌 隱形殺手曝](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YeUhuQ3l4SGRKR0dTWWRMd2pCVC10WFllQTA5NV9WQ3FaOUM0bmQyRHBBVkhjZHpPX3FUNWpqd3RmdjN5WjJETjRR?oc=5)
+### [男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YOGxIR0FLVVQxbV9yX1diQ3pJbnpxWXpzRGRmZ09GMGRSSmdOOVdVWHZ5RkpSRW40X2hKYmxqVnBsUkZTSmpVZHlJS1VPOGVfcHN3UW16SWhncHc?oc=5)
 
-2026-07-29 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-07-30 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[winnews.com.tw](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YeUhuQ3l4SGRKR0dTWWRMd2pCVC10WFllQTA5NV9WQ3FaOUM0bmQyRHBBVkhjZHpPX3FUNWpqd3RmdjN5WjJETjRR?oc=5)
+來源：[Newtalk新聞](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YOGxIR0FLVVQxbV9yX1diQ3pJbnpxWXpzRGRmZ09GMGRSSmdOOVdVWHZ5RkpSRW40X2hKYmxqVnBsUkZTSmpVZHlJS1VPOGVfcHN3UW16SWhncHc?oc=5)
 
 ---
 
