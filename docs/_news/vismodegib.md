@@ -14,7 +14,7 @@ permalink: /news/vismodegib/
 ---
 
 <p class="key-answer" data-question="Vismodegib 有什麼相關新聞？">
-<strong>Vismodegib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vismodegib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,22 +35,16 @@ permalink: /news/vismodegib/
 <li>Brenner tumor（99.8%）</li>
 <li>cutaneous adenocystic carcinoma（99.8%）</li>
 <li>prostate leiomyoma（99.8%）</li>
-<li class="indication-matched">skin cancer（99.8%）<span class="indication-tag">📰 皮膚癌</span></li>
+<li>skin cancer（99.8%）</li>
 <li>benign neoplasm of sweat gland（99.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vismodegib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [防曬不只是怕曬黑！醫提醒紫外線傷害會累積，孩童曬傷恐增加皮膚癌風險](https://news.google.com/rss/articles/CBMiygNBVV95cUxOTl9Xd1FGVWo2MERMOTlTYlYtcEhyRXJXNFRpdXFmc2JZNDBzSHZ6WkJLTkZRbnM2cDJxLWlWYXZBbUNEREUzeFpSV3ZVTjRvcGREOWdMT1dwLS13MHR2RXZBU2MwWVFMRFJWZTN3V3BxaW1iei1NQUNlNWhyejZlV3hYS2IzRmcycFh4MDMwWm5Tdk5jb0cwTVBuZzB6YlJvTGZDZVp1LVNIUnl5bk0xRGJ6ZlRzRjFvbjVlN0pIdUZ3QmRydlpkdVQ3QVlfUnMzRThDX3Q4ZDRQbFNkXzBNTUJwZFZ5ODVlMlRIb0NVOFZxV1lOcE0tdHZSdFdhNEh1OHVtRlltOTJWWWFzd3I1al9kSVEwVlU2ODJjWHZCSUcxamZBako1YktRQzIwOGlTLXFUSkRXVUFYTHZnLWNfNHZ2QjJaOW4tVVFJb3V1ZjUzdkcwWnRyYWhRQmxqbTRVb3JHdWNrSUZvdU96ZGFfUFlXWlZ0M1hQQ19NZWNfMm5Ldk9aSURSM0NLWE95RUxFcThMMzB3dVN4UTRxNzJjZnl3Z25JMm5EVmprdE1QMXE1ZHVGRWxyRWZadGZSSlZJeHZOUzBjSmhjUQ?oc=5)
-
-2026-07-29 <span class="news-indication-tag">皮膚癌</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiygNBVV95cUxOTl9Xd1FGVWo2MERMOTlTYlYtcEhyRXJXNFRpdXFmc2JZNDBzSHZ6WkJLTkZRbnM2cDJxLWlWYXZBbUNEREUzeFpSV3ZVTjRvcGREOWdMT1dwLS13MHR2RXZBU2MwWVFMRFJWZTN3V3BxaW1iei1NQUNlNWhyejZlV3hYS2IzRmcycFh4MDMwWm5Tdk5jb0cwTVBuZzB6YlJvTGZDZVp1LVNIUnl5bk0xRGJ6ZlRzRjFvbjVlN0pIdUZ3QmRydlpkdVQ3QVlfUnMzRThDX3Q4ZDRQbFNkXzBNTUJwZFZ5ODVlMlRIb0NVOFZxV1lOcE0tdHZSdFdhNEh1OHVtRlltOTJWWWFzd3I1al9kSVEwVlU2ODJjWHZCSUcxamZBako1YktRQzIwOGlTLXFUSkRXVUFYTHZnLWNfNHZ2QjJaOW4tVVFJb3V1ZjUzdkcwWnRyYWhRQmxqbTRVb3JHdWNrSUZvdU96ZGFfUFlXWlZ0M1hQQ19NZWNfMm5Ldk9aSURSM0NLWE95RUxFcThMMzB3dVN4UTRxNzJjZnl3Z25JMm5EVmprdE1QMXE1ZHVGRWxyRWZadGZSSlZJeHZOUzBjSmhjUQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

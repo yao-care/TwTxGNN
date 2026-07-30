@@ -1,7 +1,55 @@
 {
-  "generated": "2026-07-30T01:40:18.386050+00:00",
-  "count": 10,
+  "generated": "2026-07-30T04:49:29.391755+00:00",
+  "count": 9,
   "news": [
+    {
+      "id": "0435447f3b32",
+      "title": "台北慈院研究：及早減重手術 助降低乳癌發生率",
+      "published": "2026-07-30T03:45:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xOXc4OU54OHQ2RTN2TTQydW53c1FWQU9iUFdVMXkwOE4tWGdPY3BEaGIzUVZVNjdDRWYzWXF5RHZENEJGQWwtQ0JtcXF5amI5ODNDYmpWeTZ1V3NJdkRWZG1PZzE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "07957e11c507",
       "title": "心臟衰竭治療的新整合策略，一顆複方藥丸造成的改變 - TechNews 科技新報",
@@ -103,45 +151,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "頭頸癌",
-          "keyword": "頭頸癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "95fd16f2d8be",
-      "title": "防曬不只是怕曬黑！醫提醒紫外線傷害會累積，孩童曬傷恐增加皮膚癌風險",
-      "published": "2026-07-29T00:54:16+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOTl9Xd1FGVWo2MERMOTlTYlYtcEhyRXJXNFRpdXFmc2JZNDBzSHZ6WkJLTkZRbnM2cDJxLWlWYXZBbUNEREUzeFpSV3ZVTjRvcGREOWdMT1dwLS13MHR2RXZBU2MwWVFMRFJWZTN3V3BxaW1iei1NQUNlNWhyejZlV3hYS2IzRmcycFh4MDMwWm5Tdk5jb0cwTVBuZzB6YlJvTGZDZVp1LVNIUnl5bk0xRGJ6ZlRzRjFvbjVlN0pIdUZ3QmRydlpkdVQ3QVlfUnMzRThDX3Q4ZDRQbFNkXzBNTUJwZFZ5ODVlMlRIb0NVOFZxV1lOcE0tdHZSdFdhNEh1OHVtRlltOTJWWWFzd3I1al9kSVEwVlU2ODJjWHZCSUcxamZBako1YktRQzIwOGlTLXFUSkRXVUFYTHZnLWNfNHZ2QjJaOW4tVVFJb3V1ZjUzdkcwWnRyYWhRQmxqbTRVb3JHdWNrSUZvdU96ZGFfUFlXWlZ0M1hQQ19NZWNfMm5Ldk9aSURSM0NLWE95RUxFcThMMzB3dVN4UTRxNzJjZnl3Z25JMm5EVmprdE1QMXE1ZHVGRWxyRWZadGZSSlZJeHZOUzBjSmhjUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "skin cancer",
-          "keyword": "皮膚癌",
-          "related_drugs": [
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
             }
           ]
         }
@@ -355,30 +364,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "702fd2bd9568",
-      "title": "這蔬菜鈣含量竟超越牛奶！不只護眼又顧心血管，營養師：別跟２類食物一起吃",
-      "published": "2026-07-28T02:19:14+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQYkRCbTAwX2tfZlQ5Z29hUkcwZXoyT2M0Z0tncVdfc1o1UjZmSWk2anUzMFVLa0d4MGxBWWRxNkJXMHo3ZFZYNGhIaFUzTEtXY2lQVVNRVWUtZ1BEaFpoSmtNUS1CbWtzWXRoQmhHNGI5ekFkUEo2RXRqWlBaZjRxSnUtaG4xM2dpdm1ydnJXRm5uOE9GQ0ctMGg5TDFoYVNuZFF1d0NVUXlZM3NSclRGYTRKcnZtY2FWODh5eHBaZXhGRDRTNUtpdnhTbUFDdnVHME5YN2VpOVdiY09iZkdhUHJQWUkxN0pwSGZyZFo3cEpTQnV1dXBZeWlIOFoxTjRudmJSN2FiOGUwSkkyRzlQYW9zakdXOU0yXzc5N0VrUGoxSWhhVEdKb2xsQldPUTFPOHBsRUlVUWJGS09XUXc3ZktrS0lWYzIyTC1iU1l4ZmRsQXE4dVJHeTdJcWs1M1VFWFREa1h3TjVyS3MzZUluTEd3YkJrbDdQVEctRGdjYTRCeV9IXzZkbDBDeGJTMXQ5UDFnRmhnVG5NSWZaYjFDNDctUjBJSEZC?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
             }
           ]
         }

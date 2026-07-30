@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,11 +42,19 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [台北慈院研究：及早減重手術 助降低乳癌發生率](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xOXc4OU54OHQ2RTN2TTQydW53c1FWQU9iUFdVMXkwOE4tWGdPY3BEaGIzUVZVNjdDRWYzWXF5RHZENEJGQWwtQ0JtcXF5amI5ODNDYmpWeTZ1V3NJdkRWZG1PZzE?oc=5)
+
+2026-07-30 <span class="news-indication-tag">乳癌</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xOXc4OU54OHQ2RTN2TTQydW53c1FWQU9iUFdVMXkwOE4tWGdPY3BEaGIzUVZVNjdDRWYzWXF5RHZENEJGQWwtQ0JtcXF5amI5ODNDYmpWeTZ1V3NJdkRWZG1PZzE?oc=5)
+
+---
 
 ### [不菸不酒也中鏢！男性口咽癌發生率超越子宮頸癌 隱形殺手曝](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YeUhuQ3l4SGRKR0dTWWRMd2pCVC10WFllQTA5NV9WQ3FaOUM0bmQyRHBBVkhjZHpPX3FUNWpqd3RmdjN5WjJETjRR?oc=5)
 
-2026-07-29 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">頭頸癌</span>
+2026-07-29 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[winnews.com.tw](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YeUhuQ3l4SGRKR0dTWWRMd2pCVC10WFllQTA5NV9WQ3FaOUM0bmQyRHBBVkhjZHpPX3FUNWpqd3RmdjN5WjJETjRR?oc=5)
 

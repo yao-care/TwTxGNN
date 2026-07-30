@@ -1,17 +1,105 @@
 {
-  "last_updated": "2026-07-30T01:40:18.354700+00:00",
+  "last_updated": "2026-07-30T04:49:29.362885+00:00",
   "total_count": 25,
-  "matched_count": 10,
+  "matched_count": 9,
   "news": [
     {
-      "id": "ad3f7f79395e",
-      "title": "打完乙肝疫苗，保護力會一直存在嗎？",
-      "published": "2026-07-30T01:14:52+00:00",
-      "summary": "打完乙肝疫苗，保護力會一直存在嗎？&nbsp;&nbsp;bau.com.hk",
+      "id": "0435447f3b32",
+      "title": "台北慈院研究：及早減重手術 助降低乳癌發生率",
+      "published": "2026-07-30T03:45:00+00:00",
+      "summary": "台北慈院研究：及早減重手術 助降低乳癌發生率&nbsp;&nbsp;自由健康網肥胖不是外表問題！BMI破35乳癌風險飆 做這事風險降2成&nbsp;&nbsp;TVBS新聞網北慈研究證實 及早進行減重手術有助降低乳癌發生率&nbsp;&nbsp;Life 生活網",
       "sources": [
         {
-          "name": "bau.com.hk",
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xOXc4OU54OHQ2RTN2TTQydW53c1FWQU9iUFdVMXkwOE4tWGdPY3BEaGIzUVZVNjdDRWYzWXF5RHZENEJGQWwtQ0JtcXF5amI5ODNDYmpWeTZ1V3NJdkRWZG1PZzE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ba0187bbc1a3",
+      "title": "吃大豆會致癌？植物肉更健康？專家一次破解「植物蛋白3迷思」",
+      "published": "2026-07-30T02:40:07+00:00",
+      "summary": "吃大豆會致癌？植物肉更健康？專家一次破解「植物蛋白3迷思」&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxONVJPNTNnbG1nTEVTWHVoMmpSM0twblNzMGVVMUFQSUFGa1JmZE9IclpkNVRwa3ZFMTB1RkNGSklnc0VpZHVMejFKNDFERjgtVEg4bml3MkE0X0xVZlB3WnNwMnEyUFZGTkNJOExqRFlOMXV6MG9JWUdVS094TExPQnhSN0pTdXBQTEdyOUhvVjd4YmRWWkJ6SFFFcnhZSm1ndkczZW00M3ROY1kyM1JFWWdjSDZ0SUQyRDI2QmdFRDhIcjVuNEktTE5qa1Vub0dRTHlpSng2dGloS3NXY2liMkRaQUtrbmw1NUFDeUFnMFZlVTlKNDRPTkZqSjYwS1FoVHBidWgwZG9fdFFSX0pNcTBzeXhubDF4b29VZ05DQ3JSLVRoQXpmSDc2ZnNyN1IyckZqQzZTUmpIcGRTcEpIZi1wS2N4UGFFUjJEeGQ2TzVSRnUwQWxYWTFsbnB6cW9ubmNFTkZuVFFLVDdLVnc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ce39625aba12",
+      "title": "孩子少吃還胖？許薰惠醫師：家庭環境比盲目節食更重要",
+      "published": "2026-07-30T02:31:23+00:00",
+      "summary": "孩子少吃還胖？許薰惠醫師：家庭環境比盲目節食更重要&nbsp;&nbsp;健康醫療網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HRlFWd3dTN2VKaHJ4Q2NOYk5STW5rNXlTblFselozc2Q3RjN3YTh3TWc5aXllN3hhUGlmTmlWeXpmOGYyR1EzNlg5REtMb2dITTF5MHNR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "17c41fdf730b",
+      "title": "打完乙肝疫苗，保護力會一直存在嗎？",
+      "published": "2026-07-30T01:14:52+00:00",
+      "summary": "打完乙肝疫苗，保護力會一直存在嗎？&nbsp;&nbsp;紫荊網",
+      "sources": [
+        {
+          "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmxYS2N5TzVSV2prVFVrZXFuMFZjbkI2Zkl1di1zMWJaclgzZlRsbi1NaGFRQjFUZzlDeHR2dzlSdjRXTGpXNU1vUVQ3ZVdSbU41RHlOSEIycERCdTFMR1Q4UU94OHZTaDQ1OWxVSVpRSGh1bHZNVnV5bmc1YWFHenRHajZtcGlpWDRqc1BGdGs?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2f46e11332b1",
+      "title": "兒童寒背恐影響心肺發育 免費脊骨檢查盡早搵出問題",
+      "published": "2026-07-30T00:49:34+00:00",
+      "summary": "兒童寒背恐影響心肺發育 免費脊骨檢查盡早搵出問題&nbsp;&nbsp;Sundaykiss",
+      "sources": [
+        {
+          "name": "Sundaykiss",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWDcwUXpOaEctMkpTWUFqdURVVnZKQlZFRG5DeUlNdGhHOHJ6UU1YWGJfSkdGbHV2eFhsOEk5dEhob3FYdjBpQ3lscFVTNDFDV24tRkJ2Zlhid0VZTE95OW9JWjhuUE84cmJMbHJBWGFoaWlRaUtsQXd6QVRKbUVrYk9ybzBOSzVHeElpS2hBcGZNWU5rOUpST0o3SktCV2o1SFRTa2RoZGhVZWUwcUJYZkVNUHNwX0tVcmJUS1F2eTNack11cTZGVWs0d0VKWkhlcDZ3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -42,6 +130,19 @@
       ]
     },
     {
+      "id": "03ec4505163d",
+      "title": "【把安心送到家🏘️ 嘉義慈濟診所走入社區守護長者】",
+      "published": "2026-07-30T00:00:00+00:00",
+      "summary": "",
+      "sources": [
+        {
+          "name": "嘉義慈濟醫院",
+          "link": "https://chiayi.tzuchi-healthcare.org.tw/index.php/zui-xin-xiao-xi/jian-kang-wei-jiao-4/ba-an-xin-song-dao-jia-jia-yi-ci-ji-zhen-suo-zou-ru-she-qu-shou-hu-zhang-zhe"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "e579114f8194",
       "title": "長者健身園地 勤鍛煉防跌傷 康文署引入 逾400個遍布全港",
       "published": "2026-07-29T20:06:27+00:00",
@@ -50,6 +151,19 @@
         {
           "name": "信報網站",
           "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPTXA5MXBiOHZtV1ROdEdPdVlkejVYb1llVDJhUDAwREt2YnJ1eWFmc0p6a1ZaSE5CeVdzSTdmTHo0aVNsMjFORnhFNy1BTk5mVWtBdGJZTGVxdFFNWE16aGF4YXN2UGhHQUFhdzdFV1JZalA0M0VVVEtJR1QxaGk4LVNhdk1IQ2ZqQWdudW9DV0F2OHFXcWdmSU95SnBIQ0ZjdHgwRlg3VU1CTlFNUVNoMWtieURIRzMyZjloV2lYbmxBVE5iYWJ0V0MtaGh2MmlpWlEtVnJTWlRJXzl5dnlwNDh0bENZcFlVUHpQVVE1dGYxb0VmUWZTSDVnaXVRS1o1X1M4NWd4Qk50Wm03a0NmUno2VmVSMmtNNmNBMDd5bExCNXVmMWYxaVF6Q29WeHpLaFFYMjJ1SDZ3N2JZc0g1TXJPR0d5YUZlRVNyMGxHTlFXc2x2T29kcXY0UkMyZkM5ZVdBeTYzT1NFRmVtVm9WSE5lV05QUHRNakdtMU1iRlg1QQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d4a99006b079",
+      "title": "威而鋼不只救「小弟弟」？還可能攔截癌細胞擴散- 國際",
+      "published": "2026-07-29T15:54:21+00:00",
+      "summary": "威而鋼不只救「小弟弟」？還可能攔截癌細胞擴散- 國際&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VUzlyOVZKQUdDRWhTaGw0SW1rMHM5c20wUFVxRXBxQ1lzSE9DeXYyb0x5VzhMRHQtREZ1M2VEdzl4cGZLcW5haWlaVHU1d1JxeVpyeGZsakRHU3Q1MEVVcExsbmZMRlhzU1Rjdk9n?oc=5"
         }
       ],
       "matched_keywords": []
@@ -106,23 +220,10 @@
       "matched_keywords": []
     },
     {
-      "id": "01e4959d0f0e",
-      "title": "防癌快看！國際期刊證實胖是得癌關鍵風險 潘致皓醫師曝４個恐怖真相",
-      "published": "2026-07-29T07:04:00+00:00",
-      "summary": "防癌快看！國際期刊證實胖是得癌關鍵風險 潘致皓醫師曝４個恐怖真相&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQbXZxNlFxb0hEdUdOc293ekJIQ3E2dGJMNndmdjRkVHQtZWFKejNlNnlxWV9tdU5WMzkyNkpONTRISWptOUFpUVRkOEVzWUs5TldCQV9DLTd3a2x6YmFxSmg3aXAwcXRPaHM5T2xWRVpfenJJVk8ydmZOaEp4bE1JRURLWDhpcktvRFhLaEtKVGxyYlRDeGt5WkotTUZmZmhTMmZ1cEY1NGloWEs3bHZNTENKbHV4eEg3XzZ4cmJFblA4YXFBRzg2S3BXX1VHbHlNUndVWVZScWRYYlVOMnhwS1daQ1JGUmZIakx5aF9RZ0xEUklXT2dyVHhZMU5yd2RJYldLLVcyTmx4OUdfOHNtN3Q2TWlzeF9WTkRPUGZOanQ2X3BtZ1BMQXJYamFwbXFUZXJLZ0tILWpSWjVySHFUb29vcUNGWE1jQnA1R1o0TjYtM0RlSGNkUVRBdVpleUFZcXJ1QTd6bGs4a2VoZUtIRzR1ZGtXQndyM3BXX2x4TVlDdFpIT05IcmJ1LXROR01fb2NtMzFTQVdXRDIzQVBfNG5keVhXRnREbHJ5T1FyR21lcVU?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "9cf0270cb3e4",
       "title": "不菸不酒也中鏢！男性口咽癌發生率超越子宮頸癌 隱形殺手曝",
       "published": "2026-07-29T07:04:00+00:00",
-      "summary": "不菸不酒也中鏢！男性口咽癌發生率超越子宮頸癌 隱形殺手曝&nbsp;&nbsp;winnews.com.tw男口腔癌四期 再揪大腸癌 醫曝「雙癌夾擊」關鍵原因&nbsp;&nbsp;中時新聞網嘴巴破很久都好不了？醫師教您「口腔黏膜檢查」三大防癌關鍵- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online新聞口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險&nbsp;&nbsp;三立新聞兩性共同防護 全民必備HPV成主流 「口咽癌」超越子宮頸癌 世界一起抗頭頸癌&nbsp;&nbsp;蕃新聞",
+      "summary": "不菸不酒也中鏢！男性口咽癌發生率超越子宮頸癌 隱形殺手曝&nbsp;&nbsp;winnews.com.tw男口腔癌四期 再揪大腸癌 醫曝「雙癌夾擊」關鍵原因&nbsp;&nbsp;中時新聞網男性每3人就1人染HPV！醫曝恐致「這癌」：潛伏期長達10年&nbsp;&nbsp;TVBS新聞網嘴巴破很久都好不了？醫師教您「口腔黏膜檢查」三大防癌關鍵- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online新聞口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險&nbsp;&nbsp;三立新聞",
       "sources": [
         {
           "name": "winnews.com.tw",
@@ -174,61 +275,21 @@
               "name": "Hydroxyurea"
             }
           ]
-        },
-        {
-          "type": "indication",
-          "name": "頭頸癌",
-          "keyword": "頭頸癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
         }
       ]
     },
     {
-      "id": "02043e00f29e",
+      "id": "9d2b31572055",
       "title": "首款國產漸凍症藥明年有望上市",
       "published": "2026-07-29T01:53:45+00:00",
-      "summary": "首款國產漸凍症藥明年有望上市&nbsp;&nbsp;bau.com.hk",
+      "summary": "首款國產漸凍症藥明年有望上市&nbsp;&nbsp;紫荊網",
       "sources": [
         {
-          "name": "bau.com.hk",
+          "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTzRBcnZ0Ty1KRnQwUVdCWURDNkVrVU5jRGNxeU1OdWlVTlE2NlZDYThCN2NOeGgwWXFkblJGVGxXTkdDMHZIM0VHazhtMzM3TVNnM3c1a2x3R1pYNW9Vem1sV2s5ZE91eDNTaGUydUZpTWwybHhtc1o3OURMTUo5WXdpTXM5WjJXMG96ZnZNY2I?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "95fd16f2d8be",
-      "title": "防曬不只是怕曬黑！醫提醒紫外線傷害會累積，孩童曬傷恐增加皮膚癌風險",
-      "published": "2026-07-29T00:54:16+00:00",
-      "summary": "防曬不只是怕曬黑！醫提醒紫外線傷害會累積，孩童曬傷恐增加皮膚癌風險&nbsp;&nbsp;Yahoo新聞SPF50不代表萬無一失！醫師揭夏季防曬關鍵：擦足量、2至3小時補擦&nbsp;&nbsp;PChome Online新聞拆解抗曬誤區 助護膚防癌搽全效產品仍出問題&nbsp;&nbsp;信報網站小孩怕曬傷、長者怕老化！醫揭不同年齡層防曬攻略&nbsp;&nbsp;Yahoo新聞防曬要搽夠1蚊咁大先有用 教你少量多次分層法補防曬&nbsp;&nbsp;新假期",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOTl9Xd1FGVWo2MERMOTlTYlYtcEhyRXJXNFRpdXFmc2JZNDBzSHZ6WkJLTkZRbnM2cDJxLWlWYXZBbUNEREUzeFpSV3ZVTjRvcGREOWdMT1dwLS13MHR2RXZBU2MwWVFMRFJWZTN3V3BxaW1iei1NQUNlNWhyejZlV3hYS2IzRmcycFh4MDMwWm5Tdk5jb0cwTVBuZzB6YlJvTGZDZVp1LVNIUnl5bk0xRGJ6ZlRzRjFvbjVlN0pIdUZ3QmRydlpkdVQ3QVlfUnMzRThDX3Q4ZDRQbFNkXzBNTUJwZFZ5ODVlMlRIb0NVOFZxV1lOcE0tdHZSdFdhNEh1OHVtRlltOTJWWWFzd3I1al9kSVEwVlU2ODJjWHZCSUcxamZBako1YktRQzIwOGlTLXFUSkRXVUFYTHZnLWNfNHZ2QjJaOW4tVVFJb3V1ZjUzdkcwWnRyYWhRQmxqbTRVb3JHdWNrSUZvdU96ZGFfUFlXWlZ0M1hQQ19NZWNfMm5Ldk9aSURSM0NLWE95RUxFcThMMzB3dVN4UTRxNzJjZnl3Z25JMm5EVmprdE1QMXE1ZHVGRWxyRWZadGZSSlZJeHZOUzBjSmhjUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "skin cancer",
-          "keyword": "皮膚癌",
-          "related_drugs": [
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "8171a74672f6",
@@ -244,13 +305,13 @@
       "matched_keywords": []
     },
     {
-      "id": "79b0f9882e48",
+      "id": "a6a9e9a81b08",
       "title": "總是太體貼、太能忍？研究發現這些「好人特質」可能正傷害你的身體",
       "published": "2026-07-28T14:14:52+00:00",
-      "summary": "總是太體貼、太能忍？研究發現這些「好人特質」可能正傷害你的身體&nbsp;&nbsp;money.udn.com",
+      "summary": "總是太體貼、太能忍？研究發現這些「好人特質」可能正傷害你的身體&nbsp;&nbsp;經濟日報",
       "sources": [
         {
-          "name": "money.udn.com",
+          "name": "經濟日報",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfRU9UVkotX3pMS2hGRDA4dlZJRmZRSlBFTm84d2RVNXVrSDdvZTY4UVJCT05VM1NXQXVJdHZFQk5LcGZaWmZPWFlsYTZZbGZnNDhiX1ZYSVlGdE5lQVZZ0gFfQVVfeXFMUF9FT1RWSi1fekxLaEZEMDh2VklGZlFKUEVObzh3ZFU1dWtIN29lNjhRUkJPTlUzU1dBdUl0dkVCTktwZlpaZk9YWWxhNllsZmc0OGJfVlhJWUZ0TmVBVlk?oc=5"
         }
       ],
@@ -501,81 +562,17 @@
       ]
     },
     {
-      "id": "ed853c0c4506",
+      "id": "cdd5cac4e95b",
       "title": "直接抗病毒藥物 治療丙肝成功率高",
       "published": "2026-07-28T04:30:00+00:00",
-      "summary": "直接抗病毒藥物 治療丙肝成功率高&nbsp;&nbsp;AM730",
+      "summary": "直接抗病毒藥物 治療丙肝成功率高&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XSUdCLWhjekdKSjFfYWd1UjlKMWFCanFEVERyNG1idTFwQVdMZFl4WTFvRDZIbGxPd2pCS3hiOG44ZDhSYzE5WmtyTkZ1SjdSaVE?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "fc2e4cd09dd7",
-      "title": "活愈久反而病愈久？新加坡人最長壽但晚年有12年要與疾病共存- 生活",
-      "published": "2026-07-28T03:58:00+00:00",
-      "summary": "活愈久反而病愈久？新加坡人最長壽但晚年有12年要與疾病共存- 生活&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vUWY3VTdMejF3YmxqNmtKbTBzSlpmSDA2VC15T3pteTJ4N2ctend5bEpmRVRZc0lTcnQ3dkpSd0UyV0RRbFhIdHktRkFyQTlKTEFkaHlPenFZc0NZWGRv?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8cccb639e42e",
-      "title": "州衛生廳籲民眾防範蚊媒疾病 西尼羅病毒首現本季病例",
-      "published": "2026-07-28T02:54:00+00:00",
-      "summary": "州衛生廳籲民眾防範蚊媒疾病 西尼羅病毒首現本季病例&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tekJmSlNHNUdERzg3alJTdGd6QTdaVERjZ3pIZzRzalc2bDR6eE5GWG0wbE1Sb280bXV1U1BtWGlDZEszb3piNXAyaXJPR2lFTVpJZFJHRnBDV01HTUI3TdIBZkFVX3lxTE0wTjNuNFNuTTJDSS1fV3hXbWppa0hZeTVZRERuNnh5a1o1bVJIUFFyOUJpMjVrMlRMc0RmenR6VV9qN1hiZlRiamlCbWVGQ0l4MTd5RElrb2s3a3ZrS0xfcGFCeTNrUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4c4d41bb320b",
-      "title": "2025年HIV防治資金減少18% 全球面臨愛滋疫情復燃風險 | 中央廣播電臺 - LINE TODAY",
-      "published": "2026-07-28T02:42:41+00:00",
-      "summary": "2025年HIV防治資金減少18% 全球面臨愛滋疫情復燃風險 | 中央廣播電臺&nbsp;&nbsp;LINE TODAY前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzcERqOW56UmVHNVBBQWtUamEzYjVJWUZBYi13b3JKTXU1X2pVVEFQakZvWVRuUEFBVjYzNzhfQ0c3QWdaSlpERDE2OTJuWGFYNGhfZ29B?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "702fd2bd9568",
-      "title": "這蔬菜鈣含量竟超越牛奶！不只護眼又顧心血管，營養師：別跟２類食物一起吃",
-      "published": "2026-07-28T02:19:14+00:00",
-      "summary": "這蔬菜鈣含量竟超越牛奶！不只護眼又顧心血管，營養師：別跟２類食物一起吃&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQYkRCbTAwX2tfZlQ5Z29hUkcwZXoyT2M0Z0tncVdfc1o1UjZmSWk2anUzMFVLa0d4MGxBWWRxNkJXMHo3ZFZYNGhIaFUzTEtXY2lQVVNRVWUtZ1BEaFpoSmtNUS1CbWtzWXRoQmhHNGI5ekFkUEo2RXRqWlBaZjRxSnUtaG4xM2dpdm1ydnJXRm5uOE9GQ0ctMGg5TDFoYVNuZFF1d0NVUXlZM3NSclRGYTRKcnZtY2FWODh5eHBaZXhGRDRTNUtpdnhTbUFDdnVHME5YN2VpOVdiY09iZkdhUHJQWUkxN0pwSGZyZFo3cEpTQnV1dXBZeWlIOFoxTjRudmJSN2FiOGUwSkkyRzlQYW9zakdXOU0yXzc5N0VrUGoxSWhhVEdKb2xsQldPUTFPOHBsRUlVUWJGS09XUXc3ZktrS0lWYzIyTC1iU1l4ZmRsQXE4dVJHeTdJcWs1M1VFWFREa1h3TjVyS3MzZUluTEd3YkJrbDdQVEctRGdjYTRCeV9IXzZkbDBDeGJTMXQ5UDFnRmhnVG5NSWZaYjFDNDctUjBJSEZC?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "da1872794b36",

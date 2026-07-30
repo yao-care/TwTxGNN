@@ -3,7 +3,7 @@ layout: default
 title: "乳癌（female breast carcinoma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "乳癌（female breast carcinoma） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "乳癌（female breast carcinoma） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="乳癌（female breast carcinoma） 有什麼相關新聞？">
-<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/female-breast-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [台北慈院研究：及早減重手術 助降低乳癌發生率](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xOXc4OU54OHQ2RTN2TTQydW53c1FWQU9iUFdVMXkwOE4tWGdPY3BEaGIzUVZVNjdDRWYzWXF5RHZENEJGQWwtQ0JtcXF5amI5ODNDYmpWeTZ1V3NJdkRWZG1PZzE?oc=5)
+
+2026-07-30
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xOXc4OU54OHQ2RTN2TTQydW53c1FWQU9iUFdVMXkwOE4tWGdPY3BEaGIzUVZVNjdDRWYzWXF5RHZENEJGQWwtQ0JtcXF5amI5ODNDYmpWeTZ1V3NJdkRWZG1PZzE?oc=5)
+
+---
 
 ### [不只補鈣！醫揭維生素D強大功能](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UaFMtc3VidHBwLW9JUDV1NkN0eXIzaXl2X29QVERhbUlZcUpGeWpzYjJZdEtiYmJPc0VFbDExU2pGMzFORDIzU2RDRW54cG8?oc=5)
 

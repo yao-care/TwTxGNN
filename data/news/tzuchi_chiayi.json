@@ -1,8 +1,44 @@
 {
   "source": "tzuchi_chiayi",
-  "fetched_at": "2026-07-30T01:40:18.239832+00:00",
+  "fetched_at": "2026-07-30T04:49:29.236028+00:00",
   "count": 6,
   "news": [
+    {
+      "id": "03ec4505163d",
+      "title": "【把安心送到家🏘️ 嘉義慈濟診所走入社區守護長者】",
+      "published": "2026-07-30T00:00:00+00:00",
+      "summary": "",
+      "sources": [
+        {
+          "name": "嘉義慈濟醫院",
+          "link": "https://chiayi.tzuchi-healthcare.org.tw/index.php/zui-xin-xiao-xi/jian-kang-wei-jiao-4/ba-an-xin-song-dao-jia-jia-yi-ci-ji-zhen-suo-zou-ru-she-qu-shou-hu-zhang-zhe"
+        }
+      ]
+    },
+    {
+      "id": "b90b40f8055e",
+      "title": "嘉義慈濟與脊損中心攜手 用金縷樹轉動生命美學",
+      "published": "2026-03-27T00:00:00+00:00",
+      "summary": "",
+      "sources": [
+        {
+          "name": "嘉義慈濟醫院",
+          "link": "https://chiayi.tzuchi-healthcare.org.tw/index.php/zui-xin-xiao-xi/jian-kang-wei-jiao-4/jia-yi-ci-ji-yu-ji-sun-zhong-xin-xie-shou-yong-jin-lu-shu-zhuan-dong-sheng-ming-mei-xue"
+        }
+      ]
+    },
+    {
+      "id": "3ce16437461c",
+      "title": "【健康重開肌】 運動可保有行動力與生活自主",
+      "published": "2025-12-24T00:00:00+00:00",
+      "summary": "",
+      "sources": [
+        {
+          "name": "嘉義慈濟醫院",
+          "link": "https://chiayi.tzuchi-healthcare.org.tw/index.php/zui-xin-xiao-xi/jian-kang-wei-jiao-4/jian-kang-zhong-kai-ji-yun-dong-ke-bao-you-xing-dong-li-yu-sheng-huo-zi-zhu"
+        }
+      ]
+    },
     {
       "id": "554d4b56a4a9",
       "title": "膿皰遍佈全⾝疼痛難眠  ⼤林慈濟醫院精準治療助患者重拾⽣活品質",
@@ -36,42 +72,6 @@
         {
           "name": "嘉義慈濟醫院",
           "link": "https://chiayi.tzuchi-healthcare.org.tw/index.php/zui-xin-xiao-xi/jian-kang-wei-jiao-4/jia-yi-ren-yi-hui-pian-xiang-wang-zhen-du-guo-you-yi-yi-de-mu-qin-jie"
-        }
-      ]
-    },
-    {
-      "id": "b90b40f8055e",
-      "title": "嘉義慈濟與脊損中心攜手 用金縷樹轉動生命美學",
-      "published": "2026-03-27T00:00:00+00:00",
-      "summary": "",
-      "sources": [
-        {
-          "name": "嘉義慈濟醫院",
-          "link": "https://chiayi.tzuchi-healthcare.org.tw/index.php/zui-xin-xiao-xi/jian-kang-wei-jiao-4/jia-yi-ci-ji-yu-ji-sun-zhong-xin-xie-shou-yong-jin-lu-shu-zhuan-dong-sheng-ming-mei-xue"
-        }
-      ]
-    },
-    {
-      "id": "3ce16437461c",
-      "title": "【健康重開肌】 運動可保有行動力與生活自主",
-      "published": "2025-12-24T00:00:00+00:00",
-      "summary": "",
-      "sources": [
-        {
-          "name": "嘉義慈濟醫院",
-          "link": "https://chiayi.tzuchi-healthcare.org.tw/index.php/zui-xin-xiao-xi/jian-kang-wei-jiao-4/jian-kang-zhong-kai-ji-yun-dong-ke-bao-you-xing-dong-li-yu-sheng-huo-zi-zhu"
-        }
-      ]
-    },
-    {
-      "id": "18e67be974d7",
-      "title": "AI辨清新舊骨折 大林慈院與雲科大共登國際期刊",
-      "published": "2025-05-08T00:00:00+00:00",
-      "summary": "",
-      "sources": [
-        {
-          "name": "嘉義慈濟醫院",
-          "link": "https://chiayi.tzuchi-healthcare.org.tw/index.php/zui-xin-xiao-xi/jian-kang-wei-jiao-4/ai-bian-qing-xin-jiu-gu-zhe-da-lin-ci-yuan-yu-yun-ke-da-gong-deng-guo-ji-qi-kan"
         }
       ]
     }
