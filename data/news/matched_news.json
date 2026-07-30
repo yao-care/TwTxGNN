@@ -1,68 +1,8 @@
 {
-  "last_updated": "2026-07-30T22:02:29.732871+00:00",
-  "total_count": 25,
+  "last_updated": "2026-07-30T23:54:12.123055+00:00",
+  "total_count": 26,
   "matched_count": 8,
   "news": [
-    {
-      "id": "efe4ec590cd4",
-      "title": "保健》半年內減重手術 乳癌風險降2成",
-      "published": "2026-07-30T20:10:00+00:00",
-      "summary": "保健》半年內減重手術 乳癌風險降2成&nbsp;&nbsp;Yahoo新聞台北慈院研究：及早減重手術 助降低乳癌發生率&nbsp;&nbsp;自由健康網防癌快看！國際期刊證實胖是得癌關鍵風險 潘致皓醫師曝４個恐怖真相&nbsp;&nbsp;Yahoo新聞肥胖不只傷心血管！醫揭乳癌風險也跟著升高，1族群及早減重效果最好&nbsp;&nbsp;良醫健康網肥胖不是外表問題！BMI破35乳癌風險飆 做這事風險降2成&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWEpnSVdvcnQ1RE1CV2VrX1FPUjEyV0RRbzhRemQzTEJrcWpKbGxMeFNsSk5Bc3dHMHVjT2I4ZjMzaW95U3BFdjY5clk2a3h1bWRhNmVQMmhDeDhOZm9PNEdlNzNXQkQtYkxVdG4tdDlKR3Y0R1BXQlFrTzAxcjN2S2JEUTJ1Rlk4bHJ4dWNJRUhNcXNDZGRyczNETG04dENoRWpRTzNnYzd0cVdXWVdxWl9aRFpZeHJnTjRLdlNNWkRIa1lHdWVNN2wtRXR5elVoQ3hYWW9Va3M3MEFfVlJBOGdSZV9rQThMSk5nV2ZVVFBRR2FnQk1yb0FKSE81YS11ZXhfV3dnNG8zNEU?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "0c16ac61c4de",
       "title": "Airbnb公布加拿大10大最熱門社區　全國多地上榜",
@@ -149,13 +89,13 @@
       "matched_keywords": []
     },
     {
-      "id": "c82ef2068c03",
+      "id": "4aba308dc225",
       "title": "研究證實：兩歲前限制糖分攝取有助日後降低失智症風險- 國際",
       "published": "2026-07-30T13:16:00+00:00",
-      "summary": "研究證實：兩歲前限制糖分攝取有助日後降低失智症風險- 國際&nbsp;&nbsp;工商時報",
+      "summary": "研究證實：兩歲前限制糖分攝取有助日後降低失智症風險- 國際&nbsp;&nbsp;ctee.com.tw",
       "sources": [
         {
-          "name": "工商時報",
+          "name": "ctee.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zUEhLU3c0aGprUVJQVlVSYXVkU1c4UDRFSzc3bWUtSjYxUW96TnFKcnVZcGJiTkpDLXp2VkFvLW1QM0J5TmhSZUNpOWlJdGNRWmlyeXNKN1VRUzctVWVN?oc=5"
         }
       ],
@@ -196,6 +136,66 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "da18858a85b3",
+      "title": "減重手術趁早做 台北慈濟揭乳癌風險降2成",
+      "published": "2026-07-30T08:12:55+00:00",
+      "summary": "減重手術趁早做 台北慈濟揭乳癌風險降2成&nbsp;&nbsp;Yahoo新聞台北慈院研究：及早減重手術 助降低乳癌發生率&nbsp;&nbsp;自由健康網及早減重手術 助降乳癌發生率&nbsp;&nbsp;中華新聞雲／中華日報防癌快看！國際期刊證實胖是得癌關鍵風險 潘致皓醫師曝４個恐怖真相&nbsp;&nbsp;Yahoo新聞肥胖不只傷心血管！醫揭乳癌風險也跟著升高，1族群及早減重效果最好&nbsp;&nbsp;良醫健康網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQeFkyblFBS0U4VjV4d2ZsTkZybnY5RDFkUG5XdmJpajQtWEhfWGZ3RGtscExqMWNaS1J1Sm1oc2UxOC13MzBGTUFXVU9YaG0zeHRXaldDTFRsT2ZLbkt5VURWc05vMWlZaFhZUjhPUjkxVDExV0xiaGd3TUx5eEYwZ29wRDZQRXZ1b3pwc05ab0NlcGE5Z2JCX1F0b19IU0tyU0JMSFFkVGNjR1dpeVBLeGpFVkRydTNWSHNlYkhFUmlZTDJPbHNPX0pXUmtCX0pzT1RuclZmaktpSF8ySldoQmdkZEFxSFFmc0tBNTdRSHVFODFmazlVdGV4ZXNXM3hqZFNLWGNkZ1NDUHp6cjBhdVJfSWxNRWszUDJjdThvUEY5WGxxRFNtNllZMjU0Zw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "4845569ceff5",
@@ -250,7 +250,7 @@
       "id": "f32341fdbc8b",
       "title": "男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年",
       "published": "2026-07-30T06:33:52+00:00",
-      "summary": "男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年&nbsp;&nbsp;Yahoo新聞男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年 | Newtalk&nbsp;&nbsp;LINE TODAY男口腔癌四期 再揪大腸癌 醫曝「雙癌夾擊」關鍵原因&nbsp;&nbsp;中時新聞網嘴巴破很久都好不了？醫師教您「口腔黏膜檢查」三大防癌關鍵- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險&nbsp;&nbsp;三立新聞",
+      "summary": "男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年&nbsp;&nbsp;Yahoo新聞男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年 | Newtalk&nbsp;&nbsp;LINE TODAY男口腔癌四期 再揪大腸癌 醫曝「雙癌夾擊」關鍵原因&nbsp;&nbsp;中時新聞網嘴巴破很久都好不了？醫師教您「口腔黏膜檢查」三大防癌關鍵- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險&nbsp;&nbsp;health.setn.com",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -443,6 +443,19 @@
         {
           "name": "明報健康網",
           "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNc0pvYXZmeU5hWDlaRzRFS3M2UjN5TEpjUEdpX2ZxempuRk9Vdm5yQWhpQll2MG9wdFVZMWdmbjFRWG5JdU9wNHhHNjRQSEJWcEFXX0MxcFR5blFnbXEzSVg0V0pEdGl2ajFXazY5OFI2YVN0eWlaNmFCWWYyR00tUVpQbkVxYk5yUFZOVG1sSDB1SXkwN0gxOW1USllxck91WTZhSUZ5VmdnSWtkNmVOU1g4UXh0XzNrcVUzdjBDWGZFVUZFYzMxSHNfQ29ZclM1bFpLMXRFdGhGN19yMzY2TkJXcW5xVXZKVzBldTdyeGJ0c1hya2NnSHY5MFZVMzlnY3lkRzk4TUFCUmpGMHg2WGtjS2haTzdSbUtHVWcxMjBXbW04NDBkWElZQ0FaNkxUbmwwZ2dOV08yd01oVVVMZQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ab21c6fd1237",
+      "title": "親子教育│小朋友暑假手機不離手！4招擺脫「收機大戰」 建立健康數碼習慣",
+      "published": "2026-07-29T03:30:00+00:00",
+      "summary": "親子教育│小朋友暑假手機不離手！4招擺脫「收機大戰」 建立健康數碼習慣&nbsp;&nbsp;topick.hket.com",
+      "sources": [
+        {
+          "name": "topick.hket.com",
+          "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOSHp2bXd5ZXV0NEU4RHFyQVh0bkI2T2N6VWRtVVhxZWdvWU92blVOaGtCSXJ1YjNVX2RsbXBGYTdueHQtTzdwRmFOSWp0MFR4a05xbVhNeTJodEpYVEVaalh5UDlhOGFJUzA1cjNvcm1DQVdCbUtzLWdoYmxqTWQtSFdYbk5LWnVPQzFLWHR6MkZTcm5MWk1wd05QbmpfVGJtc2VXS2JiM3pDejViLWhXajgtVE1CSmdBUC01SVQydHhGRTUtR012LWJBejNCS2dvTjJ6czBINFV3Vm50d1hLcVdkdHFwZ21obzY0cmdCY1E1Zl9MRXVkUHJqTFdWUVdlOE94aHRRMG1EWmJ5a1VGcl9kTVV1SHU2cElILUdYV3pPek1RZm4zUGZzdVdTSTFXdHk0OHFqWUZQRHFKQXhVRW1GOGJnc1g4cTVQeE90UjlKSTNDSThualBVbThPbzVEQlBtZ2V2bEhEcWpVQjFDa0QtdFI0TERQeXlUTjVKV3dMeHhGanUyZlFkS3hCMUl6MktBMnluVjBZNHFNaUZyVzV5UGNOLWRrTVZsRmhHMm91Y0d3LWZUZGhzVzNfVHJEbG1mMUNDbDJTaTc0TUpYUnhuQldkbjFIWGhFWDQ2VEV1VWM?oc=5"
         }
       ],
       "matched_keywords": []

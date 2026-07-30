@@ -1,15 +1,82 @@
 {
-  "generated": "2026-07-30T22:02:29.753952+00:00",
+  "generated": "2026-07-30T23:54:12.152095+00:00",
   "count": 8,
   "news": [
     {
-      "id": "efe4ec590cd4",
-      "title": "保健》半年內減重手術 乳癌風險降2成",
-      "published": "2026-07-30T20:10:00+00:00",
+      "id": "fa1e73c0f488",
+      "title": "戒紅肉痛風照樣發作？醫揭隱形地雷：果汁、白吐司都上榜- 健康",
+      "published": "2026-07-30T14:52:57+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyWEUzRmdNVjdjdzIxVW13QV9ZbU9xZm5VRGhVcGZaaGxLdEdUdEtvdjd2bmFiamoyNHZRYk0tUy1La0JNMXBBcG43c3FraVBCY3dFZ2lFRXZndVBTUS1idlNOeV9NMGxyVlJkVXl3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "gout",
+          "keyword": "痛風",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "sulfamerazine",
+              "name": "Sulfamerazine"
+            },
+            {
+              "slug": "sulfamethazine",
+              "name": "Sulfamethazine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4aba308dc225",
+      "title": "研究證實：兩歲前限制糖分攝取有助日後降低失智症風險- 國際",
+      "published": "2026-07-30T13:16:00+00:00",
+      "sources": [
+        {
+          "name": "ctee.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zUEhLU3c0aGprUVJQVlVSYXVkU1c4UDRFSzc3bWUtSjYxUW96TnFKcnVZcGJiTkpDLXp2VkFvLW1QM0J5TmhSZUNpOWlJdGNRWmlyeXNKN1VRUzctVWVN?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da18858a85b3",
+      "title": "減重手術趁早做 台北慈濟揭乳癌風險降2成",
+      "published": "2026-07-30T08:12:55+00:00",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWEpnSVdvcnQ1RE1CV2VrX1FPUjEyV0RRbzhRemQzTEJrcWpKbGxMeFNsSk5Bc3dHMHVjT2I4ZjMzaW95U3BFdjY5clk2a3h1bWRhNmVQMmhDeDhOZm9PNEdlNzNXQkQtYkxVdG4tdDlKR3Y0R1BXQlFrTzAxcjN2S2JEUTJ1Rlk4bHJ4dWNJRUhNcXNDZGRyczNETG04dENoRWpRTzNnYzd0cVdXWVdxWl9aRFpZeHJnTjRLdlNNWkRIa1lHdWVNN2wtRXR5elVoQ3hYWW9Va3M3MEFfVlJBOGdSZV9rQThMSk5nV2ZVVFBRR2FnQk1yb0FKSE81YS11ZXhfV3dnNG8zNEU?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQeFkyblFBS0U4VjV4d2ZsTkZybnY5RDFkUG5XdmJpajQtWEhfWGZ3RGtscExqMWNaS1J1Sm1oc2UxOC13MzBGTUFXVU9YaG0zeHRXaldDTFRsT2ZLbkt5VURWc05vMWlZaFhZUjhPUjkxVDExV0xiaGd3TUx5eEYwZ29wRDZQRXZ1b3pwc05ab0NlcGE5Z2JCX1F0b19IU0tyU0JMSFFkVGNjR1dpeVBLeGpFVkRydTNWSHNlYkhFUmlZTDJPbHNPX0pXUmtCX0pzT1RuclZmaktpSF8ySldoQmdkZEFxSFFmc0tBNTdRSHVFODFmazlVdGV4ZXNXM3hqZFNLWGNkZ1NDUHp6cjBhdVJfSWxNRWszUDJjdThvUEY5WGxxRFNtNllZMjU0Zw?oc=5"
         }
       ],
       "keywords": [
@@ -56,73 +123,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "fa1e73c0f488",
-      "title": "戒紅肉痛風照樣發作？醫揭隱形地雷：果汁、白吐司都上榜- 健康",
-      "published": "2026-07-30T14:52:57+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyWEUzRmdNVjdjdzIxVW13QV9ZbU9xZm5VRGhVcGZaaGxLdEdUdEtvdjd2bmFiamoyNHZRYk0tUy1La0JNMXBBcG43c3FraVBCY3dFZ2lFRXZndVBTUS1idlNOeV9NMGxyVlJkVXl3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "gout",
-          "keyword": "痛風",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "sulfamerazine",
-              "name": "Sulfamerazine"
-            },
-            {
-              "slug": "sulfamethazine",
-              "name": "Sulfamethazine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c82ef2068c03",
-      "title": "研究證實：兩歲前限制糖分攝取有助日後降低失智症風險- 國際",
-      "published": "2026-07-30T13:16:00+00:00",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zUEhLU3c0aGprUVJQVlVSYXVkU1c4UDRFSzc3bWUtSjYxUW96TnFKcnVZcGJiTkpDLXp2VkFvLW1QM0J5TmhSZUNpOWlJdGNRWmlyeXNKN1VRUzctVWVN?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
