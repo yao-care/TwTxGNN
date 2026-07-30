@@ -43,6 +43,14 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（3 則）
 
+### [兩歲前少吃糖 長大後失智風險降低23%？ - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ESmFDMUVjZlp3SzFsSnJ3TUkzNUE2Uk1TZjA2T3Yzd1BCTk5YQnVuWGZSclZNLXd5dkdOOGFyM2sxV2JHelNUUm1RbXVPdVppVXpqYXFMd08?oc=5)
+
+2026-07-30 <span class="news-indication-tag">失智</span>
+
+來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ESmFDMUVjZlp3SzFsSnJ3TUkzNUE2Uk1TZjA2T3Yzd1BCTk5YQnVuWGZSclZNLXd5dkdOOGFyM2sxV2JHelNUUm1RbXVPdVppVXpqYXFMd08?oc=5)
+
+---
+
 ### [大腦藏有天然守門員！研究揭阿茲海默症惡化新關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTE82eThUcldSSWZPZEtwX3RhcVdOUDRpMUpjQ0VIZlFHcy1heERxa0pWTTdEclJLNTdNYm84WFZlVkJNUGQ3NV9IRHdoNWV6Y2tjOGNublNyUHpHWlNwWFpiZ1V4NDU?oc=5)
 
 2026-07-30 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
@@ -56,14 +64,6 @@ permalink: /news/gefitinib/
 2026-07-30 <span class="news-indication-tag">失智</span>
 
 來源：[Harper's BAZAAR](https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1ZkREs4bWFqVHpKTjl0TDlkTjBkU0ZGNUQzOUh5UXdsOGotY0x5YVZhUEdEdkpORlpDM0swZkh0NDEweVpEX0hhcVU5bURLeFBFNEJZYTB5bTlaUEwyeXBvX25NVG9rRDFNRFN1UU1HM3RBdmlnTU1nVHJNZ0dZUExBYlF2T1NGSDA0alJFeVZaT2lfRzRUSVNENFI?oc=5)
-
----
-
-### [關節保養別再只會吃葡萄糖胺！專家揭關節退化真相保養4祕訣關節用更久- 營養好食](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0SGdac242NnJSNEo1VEJZaWtnQ29rWFFkbFF4dDVzSkt1a05rWWJEVWZOMXNSVVd4MHhsV3E4NHRKUjAtSmdxeFV0MGJIbGtyYlJpdHJn?oc=5)
-
-2026-07-28 <span class="news-indication-tag">失智</span>
-
-來源：[健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0SGdac242NnJSNEo1VEJZaWtnQ29rWFFkbFF4dDVzSkt1a05rWWJEVWZOMXNSVVd4MHhsV3E4NHRKUjAtSmdxeFV0MGJIbGtyYlJpdHJn?oc=5)
 
 ---
 

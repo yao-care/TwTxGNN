@@ -1,34 +1,36 @@
 {
-  "last_updated": "2026-07-30T07:27:54.138410+00:00",
-  "total_count": 27,
-  "matched_count": 10,
+  "last_updated": "2026-07-30T10:13:39.798727+00:00",
+  "total_count": 22,
+  "matched_count": 9,
   "news": [
     {
-      "id": "a9f23e41162f",
-      "title": "大腦藏有天然守門員！研究揭阿茲海默症惡化新關鍵",
-      "published": "2026-07-30T06:34:00+00:00",
-      "summary": "大腦藏有天然守門員！研究揭阿茲海默症惡化新關鍵&nbsp;&nbsp;自由健康網有阿茲海默病變不一定失智 研究揭大腦關鍵轉折&nbsp;&nbsp;soundofhope.org研究：阿茲海默症睡眠障礙 可能有關免疫細胞反應&nbsp;&nbsp;自由健康網腦有阿茲海默病變不一定失智 研究揭大腦關鍵轉折&nbsp;&nbsp;自由健康網",
+      "id": "96df103b3518",
+      "title": "威而鋼不只壯陽！研究曝新發現：可能阻斷癌細胞轉移",
+      "published": "2026-07-30T08:33:00+00:00",
+      "summary": "威而鋼不只壯陽！研究曝新發現：可能阻斷癌細胞轉移&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82eThUcldSSWZPZEtwX3RhcVdOUDRpMUpjQ0VIZlFHcy1heERxa0pWTTdEclJLNTdNYm84WFZlVkJNUGQ3NV9IRHdoNWV6Y2tjOGNublNyUHpHWlNwWFpiZ1V4NDU?oc=5"
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tdmJ0eXNzdEVKRjhmLVE3bm1oRmItQnFzaG9hS01LbndFTTJPSTJQZmhRcXJXSmZKaVBZamhPR0NEcnNkUV95NnpwQlRVdkE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3990aff2c122",
+      "title": "兩歲前少吃糖 長大後失智風險降低23%？ - Taiwan News",
+      "published": "2026-07-30T08:18:00+00:00",
+      "summary": "兩歲前少吃糖 長大後失智風險降低23%？&nbsp;&nbsp;Taiwan News",
+      "sources": [
+        {
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ESmFDMUVjZlp3SzFsSnJ3TUkzNUE2Uk1TZjA2T3Yzd1BCTk5YQnVuWGZSclZNLXd5dkdOOGFyM2sxV2JHelNUUm1RbXVPdVppVXpqYXFMd08?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
           "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
           "keyword": "失智",
           "related_drugs": [
             {
@@ -40,88 +42,14 @@
       ]
     },
     {
-      "id": "26b186ac3b45",
-      "title": "男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年",
-      "published": "2026-07-30T06:04:35+00:00",
-      "summary": "男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年&nbsp;&nbsp;Newtalk新聞男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年 | Newtalk&nbsp;&nbsp;LINE TODAY男口腔癌四期 再揪大腸癌 醫曝「雙癌夾擊」關鍵原因&nbsp;&nbsp;中時新聞網嘴巴破很久都好不了？醫師教您「口腔黏膜檢查」三大防癌關鍵- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險&nbsp;&nbsp;三立新聞",
+      "id": "da18858a85b3",
+      "title": "減重手術趁早做 台北慈濟揭乳癌風險降2成",
+      "published": "2026-07-30T08:12:55+00:00",
+      "summary": "減重手術趁早做 台北慈濟揭乳癌風險降2成&nbsp;&nbsp;Yahoo新聞台北慈院研究：及早減重手術 助降低乳癌發生率&nbsp;&nbsp;自由健康網肥胖女性注意！研究證實縮胃手術越早做、乳癌死亡率越低&nbsp;&nbsp;Yahoo新聞期刊證實胖是得癌關鍵風險 ４恐怖真相曝&nbsp;&nbsp;鏡週刊Mirror Media肥胖不只傷心血管！醫揭乳癌風險也跟著升高，1族群及早減重效果最好&nbsp;&nbsp;良醫健康網",
       "sources": [
         {
-          "name": "Newtalk新聞",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YOGxIR0FLVVQxbV9yX1diQ3pJbnpxWXpzRGRmZ09GMGRSSmdOOVdVWHZ5RkpSRW40X2hKYmxqVnBsUkZTSmpVZHlJS1VPOGVfcHN3UW16SWhncHc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "04f802784717",
-      "title": "美國驚見《聖經》疾病回歸佛州病例暴增元凶恐是這野生動物- 開眼界",
-      "published": "2026-07-30T05:25:18+00:00",
-      "summary": "美國驚見《聖經》疾病回歸佛州病例暴增元凶恐是這野生動物- 開眼界&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LZmczUEFBdkRaTnczaW9UUGVGOGR1RnQtdFI1RUVLRFJqbkplOXNFcnVLYkFzZ2JLeTJpcVh5ZWI2UmtJcW1HQ2NldnlUa1dJWlJOYkFMUi1wSmtBQi1EVFFDV0lHODQ4LUEzSm1B?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3cc8aa0174c8",
-      "title": "廣藿香精油能驅蚊嗎？研究揭效果與使用注意事項",
-      "published": "2026-07-30T05:00:00+00:00",
-      "summary": "廣藿香精油能驅蚊嗎？研究揭效果與使用注意事項&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oamJLbjVha0lPSTVqYlpfWDA2Qm1Wd2hiYlp2R3czbU5pRFZ0QWRpSGVoWVlDOGxVcVFlYVZpcXRJTjB6Mk43VnV3UnVja3VDai1Ud1dOMWQ1SkpPM3NxRNIBZkFVX3lxTE84YUFwVEl2TnBCZ05fTWxHQWZRVGFTMkJqWjBROURORHA5U1luNmhDQl95MXJaQ0QyRU9qWm1samg1UUtIM3ltNmhMbHlMWC1kMjlBcmxGbGN3Mm85UFVzdFh4dUhhdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0435447f3b32",
-      "title": "台北慈院研究：及早減重手術 助降低乳癌發生率",
-      "published": "2026-07-30T03:45:00+00:00",
-      "summary": "台北慈院研究：及早減重手術 助降低乳癌發生率&nbsp;&nbsp;自由健康網肥胖女性注意！研究證實縮胃手術越早做、乳癌死亡率越低&nbsp;&nbsp;Yahoo新聞防癌快看！國際期刊證實胖是得癌關鍵風險 潘致皓醫師曝４個恐怖真相&nbsp;&nbsp;三立新聞肥胖不只傷心血管！醫揭乳癌風險也跟著升高，1族群及早減重效果最好&nbsp;&nbsp;良醫健康網體重超標，小心加速累積多重慢性病？&nbsp;&nbsp;careonline.com.tw",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xOXc4OU54OHQ2RTN2TTQydW53c1FWQU9iUFdVMXkwOE4tWGdPY3BEaGIzUVZVNjdDRWYzWXF5RHZENEJGQWwtQ0JtcXF5amI5ODNDYmpWeTZ1V3NJdkRWZG1PZzE?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQeFkyblFBS0U4VjV4d2ZsTkZybnY5RDFkUG5XdmJpajQtWEhfWGZ3RGtscExqMWNaS1J1Sm1oc2UxOC13MzBGTUFXVU9YaG0zeHRXaldDTFRsT2ZLbkt5VURWc05vMWlZaFhZUjhPUjkxVDExV0xiaGd3TUx5eEYwZ29wRDZQRXZ1b3pwc05ab0NlcGE5Z2JCX1F0b19IU0tyU0JMSFFkVGNjR1dpeVBLeGpFVkRydTNWSHNlYkhFUmlZTDJPbHNPX0pXUmtCX0pzT1RuclZmaktpSF8ySldoQmdkZEFxSFFmc0tBNTdRSHVFODFmazlVdGV4ZXNXM3hqZFNLWGNkZ1NDUHp6cjBhdVJfSWxNRWszUDJjdThvUEY5WGxxRFNtNllZMjU0Zw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -174,10 +102,120 @@
       ]
     },
     {
+      "id": "a9f23e41162f",
+      "title": "大腦藏有天然守門員！研究揭阿茲海默症惡化新關鍵",
+      "published": "2026-07-30T06:34:00+00:00",
+      "summary": "大腦藏有天然守門員！研究揭阿茲海默症惡化新關鍵&nbsp;&nbsp;自由健康網研究：阿茲海默症睡眠障礙 可能有關免疫細胞反應&nbsp;&nbsp;自由健康網腦有阿茲海默病變不一定失智 研究揭大腦關鍵轉折&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82eThUcldSSWZPZEtwX3RhcVdOUDRpMUpjQ0VIZlFHcy1heERxa0pWTTdEclJLNTdNYm84WFZlVkJNUGQ3NV9IRHdoNWV6Y2tjOGNublNyUHpHWlNwWFpiZ1V4NDU?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f32341fdbc8b",
+      "title": "男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年",
+      "published": "2026-07-30T06:04:35+00:00",
+      "summary": "男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年&nbsp;&nbsp;Yahoo新聞男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年 | Newtalk&nbsp;&nbsp;LINE TODAY男口腔癌四期 再揪大腸癌 醫曝「雙癌夾擊」關鍵原因&nbsp;&nbsp;中時新聞網嘴巴破很久都好不了？醫師教您「口腔黏膜檢查」三大防癌關鍵- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYnJSWjBkSzZkNmNFNHNXblJKVlk3aGZYWkdRRThzLUc5aW9lOFVOeXN2eEJod2JjeUFlMlM2RjJvaFJuMHpXcEJaNU5FR2xyYl9yVUZBWHBZdDVydURoNDlpVTRKeVVuRmdhRUtGb0FVazRYQ3YtOXFhSlVhT1FwM3BySXctX1E5YkZRTXN3dmcxSFBySnFvSjhZaTdCaU1fUFBKd0pVMHU4TWFob0xaYy1tSExFZTBpeXI5WGJvYThtQ0pDY00w?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7dd352c892a6",
+      "title": "美國驚見《聖經》疾病回歸佛州病例暴增元凶恐是這野生動物- 國際",
+      "published": "2026-07-30T05:25:18+00:00",
+      "summary": "美國驚見《聖經》疾病回歸佛州病例暴增元凶恐是這野生動物- 國際&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LZmczUEFBdkRaTnczaW9UUGVGOGR1RnQtdFI1RUVLRFJqbkplOXNFcnVLYkFzZ2JLeTJpcVh5ZWI2UmtJcW1HQ2NldnlUa1dJWlJOYkFMUi1wSmtBQi1EVFFDV0lHODQ4LUEzSm1B?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3cc8aa0174c8",
+      "title": "廣藿香精油能驅蚊嗎？研究揭效果與使用注意事項",
+      "published": "2026-07-30T05:00:00+00:00",
+      "summary": "廣藿香精油能驅蚊嗎？研究揭效果與使用注意事項&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oamJLbjVha0lPSTVqYlpfWDA2Qm1Wd2hiYlp2R3czbU5pRFZ0QWRpSGVoWVlDOGxVcVFlYVZpcXRJTjB6Mk43VnV3UnVja3VDai1Ud1dOMWQ1SkpPM3NxRNIBZkFVX3lxTE84YUFwVEl2TnBCZ05fTWxHQWZRVGFTMkJqWjBROURORHA5U1luNmhDQl95MXJaQ0QyRU9qWm1samg1UUtIM3ltNmhMbHlMWC1kMjlBcmxGbGN3Mm85UFVzdFh4dUhhdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "74b76a718bfe",
       "title": "走路速度和大腦年齡有關？最新研究：走路愈快愈長壽、失智風險降低60% - Harper's BAZAAR",
       "published": "2026-07-30T03:09:11+00:00",
-      "summary": "走路速度和大腦年齡有關？最新研究：走路愈快愈長壽、失智風險降低60%&nbsp;&nbsp;Harper's BAZAAR80歲記憶力仍像50歲 秘密可能不在基因&nbsp;&nbsp;worldjournal.com走路愈來愈慢恐不是老化！研究：合併1變化 失智風險最高&nbsp;&nbsp;元氣網80歲長者走得比同齡人快 顯示大腦仍保持年輕&nbsp;&nbsp;worldjournal.com為何有些80歲長者越老越靈光？新研究找到這1共同特徵&nbsp;&nbsp;worldjournal.com",
+      "summary": "走路速度和大腦年齡有關？最新研究：走路愈快愈長壽、失智風險降低60%&nbsp;&nbsp;Harper's BAZAAR80歲記憶力仍像50歲 秘密可能不在基因&nbsp;&nbsp;世界新聞網走路愈來愈慢恐不是老化！研究：合併1變化 失智風險最高&nbsp;&nbsp;元氣網80歲長者走得比同齡人快 顯示大腦仍保持年輕&nbsp;&nbsp;世界新聞網為何有些80歲長者越老越靈光？新研究找到這1共同特徵&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
           "name": "Harper's BAZAAR",
@@ -197,32 +235,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "ba0187bbc1a3",
-      "title": "吃大豆會致癌？植物肉更健康？專家一次破解「植物蛋白3迷思」",
-      "published": "2026-07-30T02:40:07+00:00",
-      "summary": "吃大豆會致癌？植物肉更健康？專家一次破解「植物蛋白3迷思」&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxONVJPNTNnbG1nTEVTWHVoMmpSM0twblNzMGVVMUFQSUFGa1JmZE9IclpkNVRwa3ZFMTB1RkNGSklnc0VpZHVMejFKNDFERjgtVEg4bml3MkE0X0xVZlB3WnNwMnEyUFZGTkNJOExqRFlOMXV6MG9JWUdVS094TExPQnhSN0pTdXBQTEdyOUhvVjd4YmRWWkJ6SFFFcnhZSm1ndkczZW00M3ROY1kyM1JFWWdjSDZ0SUQyRDI2QmdFRDhIcjVuNEktTE5qa1Vub0dRTHlpSng2dGloS3NXY2liMkRaQUtrbmw1NUFDeUFnMFZlVTlKNDRPTkZqSjYwS1FoVHBidWgwZG9fdFFSX0pNcTBzeXhubDF4b29VZ05DQ3JSLVRoQXpmSDc2ZnNyN1IyckZqQzZTUmpIcGRTcEpIZi1wS2N4UGFFUjJEeGQ2TzVSRnUwQWxYWTFsbnB6cW9ubmNFTkZuVFFLVDdLVnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ce39625aba12",
-      "title": "孩子少吃還胖？許薰惠醫師：家庭環境比盲目節食更重要",
-      "published": "2026-07-30T02:31:23+00:00",
-      "summary": "孩子少吃還胖？許薰惠醫師：家庭環境比盲目節食更重要&nbsp;&nbsp;健康醫療網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HRlFWd3dTN2VKaHJ4Q2NOYk5STW5rNXlTblFselozc2Q3RjN3YTh3TWc5aXllN3hhUGlmTmlWeXpmOGYyR1EzNlg5REtMb2dITTF5MHNR?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "17c41fdf730b",
@@ -289,13 +301,13 @@
       "matched_keywords": []
     },
     {
-      "id": "e579114f8194",
+      "id": "593bebc16ead",
       "title": "長者健身園地 勤鍛煉防跌傷 康文署引入 逾400個遍布全港",
       "published": "2026-07-29T20:06:27+00:00",
-      "summary": "長者健身園地 勤鍛煉防跌傷 康文署引入 逾400個遍布全港&nbsp;&nbsp;信報網站",
+      "summary": "長者健身園地 勤鍛煉防跌傷 康文署引入 逾400個遍布全港&nbsp;&nbsp;hkej.com",
       "sources": [
         {
-          "name": "信報網站",
+          "name": "hkej.com",
           "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPTXA5MXBiOHZtV1ROdEdPdVlkejVYb1llVDJhUDAwREt2YnJ1eWFmc0p6a1ZaSE5CeVdzSTdmTHo0aVNsMjFORnhFNy1BTk5mVWtBdGJZTGVxdFFNWE16aGF4YXN2UGhHQUFhdzdFV1JZalA0M0VVVEtJR1QxaGk4LVNhdk1IQ2ZqQWdudW9DV0F2OHFXcWdmSU95SnBIQ0ZjdHgwRlg3VU1CTlFNUVNoMWtieURIRzMyZjloV2lYbmxBVE5iYWJ0V0MtaGh2MmlpWlEtVnJTWlRJXzl5dnlwNDh0bENZcFlVUHpQVVE1dGYxb0VmUWZTSDVnaXVRS1o1X1M4NWd4Qk50Wm03a0NmUno2VmVSMmtNNmNBMDd5bExCNXVmMWYxaVF6Q29WeHpLaFFYMjJ1SDZ3N2JZc0g1TXJPR0d5YUZlRVNyMGxHTlFXc2x2T29kcXY0UkMyZkM5ZVdBeTYzT1NFRmVtVm9WSE5lV05QUHRNakdtMU1iRlg1QQ?oc=5"
         }
       ],
@@ -310,19 +322,6 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOXNNR3RfMlVNSEY2RUt0TU1LRElIS2ozT1U5RjhwTGtsWHF2SHF2TXI3YUQ1ZDdlTGl2QVV2NFBpUkRRX3lvTEZZVmp2UHRPbjhWVDRzLTBzWWJLTEJrOUNxLXZNenhjZ0xXaG9GelBBTXVudnYyel9GYk1nR2NHdHNvQzVuTzA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fb7d00aea7b2",
-      "title": "研究揭癌細胞新弱點 30年老藥威而鋼展現新潛力",
-      "published": "2026-07-29T08:36:00+00:00",
-      "summary": "研究揭癌細胞新弱點 30年老藥威而鋼展現新潛力&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDLTZtMDAxQ3ptV0NHSTBDc0VHaW1DeU5sbmUxNFp2eHFvRm9zMTJ3dm1oR1A4M0ZFQnY4N2lIT19MU05iOHBCOGwxSHZwcXFGRXZxd2NXdkowTG9QRzYtQnFwalI?oc=5"
         }
       ],
       "matched_keywords": []
@@ -353,13 +352,13 @@
       ]
     },
     {
-      "id": "18ed0f4284b5",
+      "id": "884c528b722a",
       "title": "【長者跌倒】起床、如廁、洗澡三大危機 傷勢或延遲出現 忽視或致骨折顱內出血",
       "published": "2026-07-29T07:25:40+00:00",
-      "summary": "【長者跌倒】起床、如廁、洗澡三大危機 傷勢或延遲出現 忽視或致骨折顱內出血&nbsp;&nbsp;明報健康網暑假出遊帶長輩要注意！醫提醒：骨鬆高危族群「下車跨步」也可能骨折&nbsp;&nbsp;優活健康網跌倒危機藏在日常中！掌握四大骨折警訊與三大保骨營養素&nbsp;&nbsp;蕃新聞跌倒不是一時不小心 專家揭高齡者最容易忽略的3大原因&nbsp;&nbsp;元氣網輕摔就骨折？醫揭這幾個慢性病超傷骨&nbsp;&nbsp;東森新聞",
+      "summary": "【長者跌倒】起床、如廁、洗澡三大危機 傷勢或延遲出現 忽視或致骨折顱內出血&nbsp;&nbsp;health.mingpao.com暑假出遊帶長輩要注意！醫提醒：骨鬆高危族群「下車跨步」也可能骨折&nbsp;&nbsp;優活健康網跌倒危機藏在日常中！掌握四大骨折警訊與三大保骨營養素&nbsp;&nbsp;蕃新聞跌倒不是一時不小心 專家揭高齡者最容易忽略的3大原因&nbsp;&nbsp;元氣網輕摔就骨折？醫揭這幾個慢性病超傷骨&nbsp;&nbsp;東森新聞",
       "sources": [
         {
-          "name": "明報健康網",
+          "name": "health.mingpao.com",
           "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNc0pvYXZmeU5hWDlaRzRFS3M2UjN5TEpjUEdpX2ZxempuRk9Vdm5yQWhpQll2MG9wdFVZMWdmbjFRWG5JdU9wNHhHNjRQSEJWcEFXX0MxcFR5blFnbXEzSVg0V0pEdGl2ajFXazY5OFI2YVN0eWlaNmFCWWYyR00tUVpQbkVxYk5yUFZOVG1sSDB1SXkwN0gxOW1USllxck91WTZhSUZ5VmdnSWtkNmVOU1g4UXh0XzNrcVUzdjBDWGZFVUZFYzMxSHNfQ29ZclM1bFpLMXRFdGhGN19yMzY2TkJXcW5xVXZKVzBldTdyeGJ0c1hya2NnSHY5MFZVMzlnY3lkRzk4TUFCUmpGMHg2WGtjS2haTzdSbUtHVWcxMjBXbW04NDBkWElZQ0FaNkxUbmwwZ2dOV08yd01oVVVMZQ?oc=5"
         }
       ],
@@ -379,13 +378,13 @@
       "matched_keywords": []
     },
     {
-      "id": "8171a74672f6",
-      "title": "荷蘭研究指出針對性停課能提升防疫成效並降低社會成本 - GeneOnline News",
+      "id": "68a6dd06b09b",
+      "title": "荷蘭研究指出針對性停課能提升防疫成效並降低社會成本",
       "published": "2026-07-28T20:09:06+00:00",
-      "summary": "荷蘭研究指出針對性停課能提升防疫成效並降低社會成本&nbsp;&nbsp;GeneOnline News",
+      "summary": "荷蘭研究指出針對性停課能提升防疫成效並降低社會成本&nbsp;&nbsp;geneonline.news",
       "sources": [
         {
-          "name": "GeneOnline News",
+          "name": "geneonline.news",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNQzZqRjR3RnREVVIzVUZ0WWxXTVdDZEE2VWgtNkl2VTNwZG83WVJVSzlqSC12Z2lxNGIybllNRlFWbkg0RVIyR2Z0Zml5VDA5aTFzNDFZSkhjT0hFTl9UTUpuajR1elRnT2o3SndjYVNmN1ZkRWhLZDFRcl8zUGIzZnZHQ2FTMThmelNsMm5ZSTFRbzlWYldVWGU0Zm1Nb0F2dEdRR2M1U0lHX0hxYnVYeUNxZVVXOUpubHhRdUh3TVJEeFpEeUVwVzJDUUtaaVRoZ3JXZ3FXdURsXy1jV08tNXV1anQtdlJkdlJ2TUFTOWNBR3d1dmZwXzBHZzd4NU55VEhwS0k3MDBMQnBURmlPNHpEMmxER29kalB2dTVsTklqWGR0SFZ4cUl2eG40enRLNWxfZ2lFQ1BwbnJqUkhMNGZEMVJmQQ?oc=5"
         }
       ],
@@ -513,113 +512,13 @@
       ]
     },
     {
-      "id": "43b93d1a3c19",
-      "title": "戒菸不等於肺部重來！研究揭肺細胞留記憶 部分傷害難逆轉",
-      "published": "2026-07-28T09:14:00+00:00",
-      "summary": "戒菸不等於肺部重來！研究揭肺細胞留記憶 部分傷害難逆轉&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByVm5ZOUJSRE5QSF9fN1pMWG9IZWc1MFo0cGdsMllUVmNvbDVfTTVFdFFjUEpsb0FNc29vd1R6T2IyZEQzWXVUQXVvODVQVHFyZnBURGtjWjBrbm5tbWF3ZGVMY2w?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a7eea79a5187",
-      "title": "連跑三家藥局撲空…新冠疫情快篩需求增 疾管署：超商、連鎖藥局穩供貨",
-      "published": "2026-07-28T08:38:21+00:00",
-      "summary": "連跑三家藥局撲空…新冠疫情快篩需求增 疾管署：超商、連鎖藥局穩供貨&nbsp;&nbsp;udn前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "udn",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mRnhhcnhBaXhzcWVQTzFqc3ROX0tnM1RucDBXSmdVX1pWSEZJMEZUb3NrRld0LTRnYjFqMF9PNHVHb3VzdnNwTzdwQ1lGTDM5RG9TalV3MW1TM3dRMlAzRTRoR2d4LUpXeWxJemdNcFB6V2pzN0Z4dUlhd9IBVkFVX3lxTFBiUGhNeFJoRXFSaWg3ZGtCM2dFRTNHOUp2OGlSOWt4ejRNSmU5Q1ZzUnBPclJSWWZSd1otX3diSWo0bGRScW9BZWxQVFNuYW5IUWhPbzZn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1c844d495c00",
-      "title": "關節保養別再只會吃葡萄糖胺！專家揭關節退化真相保養4祕訣關節用更久- 營養好食",
-      "published": "2026-07-28T08:02:00+00:00",
-      "summary": "關節保養別再只會吃葡萄糖胺！專家揭關節退化真相保養4祕訣關節用更久- 營養好食&nbsp;&nbsp;健康2.0防關節退化吃葡萄糖胺卻可能增失智風險？研究提醒1種人要小心補充&nbsp;&nbsp;元氣網健康網》葡萄糖胺不是萬靈丹 專家揭防關節退化4關鍵&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0SGdac242NnJSNEo1VEJZaWtnQ29rWFFkbFF4dDVzSkt1a05rWWJEVWZOMXNSVVd4MHhsV3E4NHRKUjAtSmdxeFV0MGJIbGtyYlJpdHJn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "07e3594bdc8c",
-      "title": "飲酒乳癌｜32歲女每晚飲紅酒患乳癌？醫生揭：飲酒易面紅者要注意",
-      "published": "2026-07-28T08:01:36+00:00",
-      "summary": "飲酒乳癌｜32歲女每晚飲紅酒患乳癌？醫生揭：飲酒易面紅者要注意&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNTmloM2l4d1pvcTFocXZuamtYWGNXX2NnNjdNR0EtWkMzSUFfOVZJekFmVzlQZS1ZNG5TbjFHLWhnRTlrcVhwVTVSNWpBWDRsLUVNcFVRYzZZTm9vcTBtd241MnRWYnBpWTV1NTFaUDg0Tm9hSVA2Rk9Kd2YxWUlJOXNGR29RU2Z5eW9hY2NKby1COUlhc1BoWWN6d0lnTWl2WXhDYkM0WXFDNW5EX0Nwb2lWdmJzajZ3ejg5TWNPUkZHMkJmZ2ZCWmpxR1FhTEN6R1hhVVkyNUpXSTQxVERMVWhiaFNJcG9VTDZVMXNuOVJWZWdrOXFDbFRBZFVQTHRDRHpfSEpIZUt1enpfZHNWbm1XNjRQWS1SdGRNYUdmMXdSZlo1RUpkZE1Mbzh0NkpVRW9FSUIwOG5ycld1bU9zVVFuU1Z1bnpndjhxOWo1ZnNSQjdZVTNmdEdWSENvUG9hTVpzQXpEQmtmRVZGd2lxYW1Sekl1MmFnYzNoVFcwaU5ySWhGOHgzZU5wSGduOEtRX3hqZ19UQVJvYlAz?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "da1872794b36",
+      "id": "4cb4f91f74ee",
       "title": "嚇！牙肉血肉模糊毫無痛感不菸不酒婦竟得口腔癌| 生活",
       "published": "2026-07-26T22:38:04+00:00",
-      "summary": "嚇！牙肉血肉模糊毫無痛感不菸不酒婦竟得口腔癌| 生活&nbsp;&nbsp;三立新聞網SETN.com",
+      "summary": "嚇！牙肉血肉模糊毫無痛感不菸不酒婦竟得口腔癌| 生活&nbsp;&nbsp;setn.com",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
+          "name": "setn.com",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB2b1BDNWJ5Q0tIQ1VtcURUNjB2UDhSYmt3YXQ2bjFpTVBZb2hLNFJNd1VUU3A3LWtSUjg0d1pzeVVXMFNXZkZN?oc=5"
         }
       ],
