@@ -1,8 +1,46 @@
 {
-  "last_updated": "2026-07-29T23:53:42.288882+00:00",
+  "last_updated": "2026-07-30T01:40:18.354700+00:00",
   "total_count": 25,
   "matched_count": 10,
   "news": [
+    {
+      "id": "ad3f7f79395e",
+      "title": "打完乙肝疫苗，保護力會一直存在嗎？",
+      "published": "2026-07-30T01:14:52+00:00",
+      "summary": "打完乙肝疫苗，保護力會一直存在嗎？&nbsp;&nbsp;bau.com.hk",
+      "sources": [
+        {
+          "name": "bau.com.hk",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmxYS2N5TzVSV2prVFVrZXFuMFZjbkI2Zkl1di1zMWJaclgzZlRsbi1NaGFRQjFUZzlDeHR2dzlSdjRXTGpXNU1vUVQ3ZVdSbU41RHlOSEIycERCdTFMR1Q4UU94OHZTaDQ1OWxVSVpRSGh1bHZNVnV5bmc1YWFHenRHajZtcGlpWDRqc1BGdGs?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "07957e11c507",
+      "title": "心臟衰竭治療的新整合策略，一顆複方藥丸造成的改變 - TechNews 科技新報",
+      "published": "2026-07-30T00:21:31+00:00",
+      "summary": "心臟衰竭治療的新整合策略，一顆複方藥丸造成的改變&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMzFORzUtNGpBR3B0Y2ROM3ZNbWIwN3FDUmlkb0hFUk9ucEtwVVRFRXEyRDRDSld3czBVUnBtalNhb2JKdEFkcU55bGdkQ3dPS05NOGRKaFBycW9ZRTJwZFUzcEdyTktZRDdGa1F5R2lBWnFZZGhNaWZCSUxKLUgwUmNTWmVjTEVWMS1HNjlkRkFYSDA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "心臟衰竭",
+          "keyword": "心臟衰竭",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "e579114f8194",
       "title": "長者健身園地 勤鍛煉防跌傷 康文署引入 逾400個遍布全港",
@@ -15,65 +53,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "aec28e704b30",
-      "title": "女性失智症盛行率比男性高！醫揭4可能原因 更年期後應警惕 - FTNN 新聞",
-      "published": "2026-07-29T14:00:00+00:00",
-      "summary": "女性失智症盛行率比男性高！醫揭4可能原因 更年期後應警惕&nbsp;&nbsp;FTNN 新聞",
-      "sources": [
-        {
-          "name": "FTNN 新聞",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XdzZkNFhpUFVaVkl5bDNTanNzRk0xT0ZHN3RPRXh4WHl1b0dsUUJtUEx4S1Q1c3RQa09RMEhXOFF6a3NpMHNuVFhybw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "0b0e27dcc24f",
@@ -117,7 +96,7 @@
       "id": "18ed0f4284b5",
       "title": "【長者跌倒】起床、如廁、洗澡三大危機 傷勢或延遲出現 忽視或致骨折顱內出血",
       "published": "2026-07-29T07:25:40+00:00",
-      "summary": "【長者跌倒】起床、如廁、洗澡三大危機 傷勢或延遲出現 忽視或致骨折顱內出血&nbsp;&nbsp;明報健康網骨頭不痛不代表沒事！骨質疏鬆恐讓人一摔就骨折臥床，9類高風險族群要注意&nbsp;&nbsp;鏡週刊Mirror Media跌倒危機藏在日常中！掌握四大骨折警訊與三大保骨營養素&nbsp;&nbsp;macrocosm.tw暑假出遊帶長輩要注意！醫提醒：骨鬆高危族群「下車跨步」也可能骨折&nbsp;&nbsp;PChome Online新聞跌倒不是一時不小心 專家揭高齡者最容易忽略的3大原因&nbsp;&nbsp;元氣網",
+      "summary": "【長者跌倒】起床、如廁、洗澡三大危機 傷勢或延遲出現 忽視或致骨折顱內出血&nbsp;&nbsp;明報健康網骨頭不痛不代表沒事！骨質疏鬆恐讓人一摔就骨折臥床，9類高風險族群要注意&nbsp;&nbsp;鏡週刊Mirror Media暑假出遊帶長輩要注意！醫提醒：骨鬆高危族群「下車跨步」也可能骨折&nbsp;&nbsp;PChome Online新聞跌倒不是一時不小心 專家揭高齡者最容易忽略的3大原因&nbsp;&nbsp;元氣網輕摔就骨折？醫揭這幾個慢性病超傷骨&nbsp;&nbsp;東森新聞",
       "sources": [
         {
           "name": "明報健康網",
@@ -143,7 +122,7 @@
       "id": "9cf0270cb3e4",
       "title": "不菸不酒也中鏢！男性口咽癌發生率超越子宮頸癌 隱形殺手曝",
       "published": "2026-07-29T07:04:00+00:00",
-      "summary": "不菸不酒也中鏢！男性口咽癌發生率超越子宮頸癌 隱形殺手曝&nbsp;&nbsp;winnews.com.tw嘴巴破很久都好不了？醫師教您「口腔黏膜檢查」三大防癌關鍵- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online新聞男口腔癌四期 再揪大腸癌 醫曝「雙癌夾擊」關鍵原因&nbsp;&nbsp;中時新聞網口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險&nbsp;&nbsp;三立新聞兩性共同防護 全民必備HPV成主流 「口咽癌」超越子宮頸癌 世界一起抗頭頸癌&nbsp;&nbsp;蕃新聞",
+      "summary": "不菸不酒也中鏢！男性口咽癌發生率超越子宮頸癌 隱形殺手曝&nbsp;&nbsp;winnews.com.tw男口腔癌四期 再揪大腸癌 醫曝「雙癌夾擊」關鍵原因&nbsp;&nbsp;中時新聞網嘴巴破很久都好不了？醫師教您「口腔黏膜檢查」三大防癌關鍵- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online新聞口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險&nbsp;&nbsp;三立新聞兩性共同防護 全民必備HPV成主流 「口咽癌」超越子宮頸癌 世界一起抗頭頸癌&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
           "name": "winnews.com.tw",
@@ -214,13 +193,13 @@
       ]
     },
     {
-      "id": "9d2b31572055",
+      "id": "02043e00f29e",
       "title": "首款國產漸凍症藥明年有望上市",
       "published": "2026-07-29T01:53:45+00:00",
-      "summary": "首款國產漸凍症藥明年有望上市&nbsp;&nbsp;紫荊網",
+      "summary": "首款國產漸凍症藥明年有望上市&nbsp;&nbsp;bau.com.hk",
       "sources": [
         {
-          "name": "紫荊網",
+          "name": "bau.com.hk",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTzRBcnZ0Ty1KRnQwUVdCWURDNkVrVU5jRGNxeU1OdWlVTlE2NlZDYThCN2NOeGgwWXFkblJGVGxXTkdDMHZIM0VHazhtMzM3TVNnM3c1a2x3R1pYNW9Vem1sV2s5ZE91eDNTaGUydUZpTWwybHhtc1o3OURMTUo5WXdpTXM5WjJXMG96ZnZNY2I?oc=5"
         }
       ],
@@ -265,13 +244,13 @@
       "matched_keywords": []
     },
     {
-      "id": "a6a9e9a81b08",
+      "id": "79b0f9882e48",
       "title": "總是太體貼、太能忍？研究發現這些「好人特質」可能正傷害你的身體",
       "published": "2026-07-28T14:14:52+00:00",
-      "summary": "總是太體貼、太能忍？研究發現這些「好人特質」可能正傷害你的身體&nbsp;&nbsp;經濟日報",
+      "summary": "總是太體貼、太能忍？研究發現這些「好人特質」可能正傷害你的身體&nbsp;&nbsp;money.udn.com",
       "sources": [
         {
-          "name": "經濟日報",
+          "name": "money.udn.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfRU9UVkotX3pMS2hGRDA4dlZJRmZRSlBFTm84d2RVNXVrSDdvZTY4UVJCT05VM1NXQXVJdHZFQk5LcGZaWmZPWFlsYTZZbGZnNDhiX1ZYSVlGdE5lQVZZ0gFfQVVfeXFMUF9FT1RWSi1fekxLaEZEMDh2VklGZlFKUEVObzh3ZFU1dWtIN29lNjhRUkJPTlUzU1dBdUl0dkVCTktwZlpaZk9YWWxhNllsZmc0OGJfVlhJWUZ0TmVBVlk?oc=5"
         }
       ],
@@ -437,13 +416,13 @@
       ]
     },
     {
-      "id": "d9a75d186a8a",
+      "id": "07e3594bdc8c",
       "title": "飲酒乳癌｜32歲女每晚飲紅酒患乳癌？醫生揭：飲酒易面紅者要注意",
       "published": "2026-07-28T08:01:36+00:00",
-      "summary": "飲酒乳癌｜32歲女每晚飲紅酒患乳癌？醫生揭：飲酒易面紅者要注意&nbsp;&nbsp;hk01.com",
+      "summary": "飲酒乳癌｜32歲女每晚飲紅酒患乳癌？醫生揭：飲酒易面紅者要注意&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "hk01.com",
+          "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNTmloM2l4d1pvcTFocXZuamtYWGNXX2NnNjdNR0EtWkMzSUFfOVZJekFmVzlQZS1ZNG5TbjFHLWhnRTlrcVhwVTVSNWpBWDRsLUVNcFVRYzZZTm9vcTBtd241MnRWYnBpWTV1NTFaUDg0Tm9hSVA2Rk9Kd2YxWUlJOXNGR29RU2Z5eW9hY2NKby1COUlhc1BoWWN6d0lnTWl2WXhDYkM0WXFDNW5EX0Nwb2lWdmJzajZ3ejg5TWNPUkZHMkJmZ2ZCWmpxR1FhTEN6R1hhVVkyNUpXSTQxVERMVWhiaFNJcG9VTDZVMXNuOVJWZWdrOXFDbFRBZFVQTHRDRHpfSEpIZUt1enpfZHNWbm1XNjRQWS1SdGRNYUdmMXdSZlo1RUpkZE1Mbzh0NkpVRW9FSUIwOG5ycld1bU9zVVFuU1Z1bnpndjhxOWo1ZnNSQjdZVTNmdEdWSENvUG9hTVpzQXpEQmtmRVZGd2lxYW1Sekl1MmFnYzNoVFcwaU5ySWhGOHgzZU5wSGduOEtRX3hqZ19UQVJvYlAz?oc=5"
         }
       ],
@@ -522,13 +501,13 @@
       ]
     },
     {
-      "id": "3d55feed37d4",
+      "id": "ed853c0c4506",
       "title": "直接抗病毒藥物 治療丙肝成功率高",
       "published": "2026-07-28T04:30:00+00:00",
-      "summary": "直接抗病毒藥物 治療丙肝成功率高&nbsp;&nbsp;am730.com.hk",
+      "summary": "直接抗病毒藥物 治療丙肝成功率高&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730.com.hk",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XSUdCLWhjekdKSjFfYWd1UjlKMWFCanFEVERyNG1idTFwQVdMZFl4WTFvRDZIbGxPd2pCS3hiOG44ZDhSYzE5WmtyTkZ1SjdSaVE?oc=5"
         }
       ],
@@ -597,19 +576,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "380e08aa183e",
-      "title": "睡飽睡滿很重要！睡不飽會變胖？是真的！",
-      "published": "2026-07-27T23:35:57+00:00",
-      "summary": "睡飽睡滿很重要！睡不飽會變胖？是真的！&nbsp;&nbsp;三立新聞網SETN.com",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ObVgzV1BYbjRZWDVYVHJEcWhvMVN5ejk5aUZKR1BWbUttMmpWV3VCUTI5ZjlmUUxQc0kxU3dkTDBmcm5xdko0?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "da1872794b36",

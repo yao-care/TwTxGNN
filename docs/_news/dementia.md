@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智症（dementia） 相關新聞"
+title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智症（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智症（dementia） 相關新聞
+# 失智（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
-<strong>失智症（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
+<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,15 +29,7 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（3 則）
-
-### [女性失智症盛行率比男性高！醫揭4可能原因 更年期後應警惕 - FTNN 新聞](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XdzZkNFhpUFVaVkl5bDNTanNzRk0xT0ZHN3RPRXh4WHl1b0dsUUJtUEx4S1Q1c3RQa09RMEhXOFF6a3NpMHNuVFhybw?oc=5)
-
-2026-07-29
-
-來源：[FTNN 新聞](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XdzZkNFhpUFVaVkl5bDNTanNzRk0xT0ZHN3RPRXh4WHl1b0dsUUJtUEx4S1Q1c3RQa09RMEhXOFF6a3NpMHNuVFhybw?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [關節保養別再只會吃葡萄糖胺！專家揭關節退化真相保養4祕訣關節用更久- 營養好食](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0SGdac242NnJSNEo1VEJZaWtnQ29rWFFkbFF4dDVzSkt1a05rWWJEVWZOMXNSVVd4MHhsV3E4NHRKUjAtSmdxeFV0MGJIbGtyYlJpdHJn?oc=5)
 
