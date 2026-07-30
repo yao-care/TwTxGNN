@@ -14,7 +14,7 @@ permalink: /news/sulfamerazine/
 ---
 
 <p class="key-answer" data-question="Sulfamerazine 有什麼相關新聞？">
-<strong>Sulfamerazine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 4 個。
+<strong>Sulfamerazine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 4 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/sulfamerazine/
 <li><strong>原適應症</strong>：磺胺劑、革蘭氏陽性及陰性菌感染症</li>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（4 個）：<ul>
-<li>gout（99.3%）</li>
+<li class="indication-matched">gout（99.3%）<span class="indication-tag">📰 痛風</span></li>
 <li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome（99.2%）</li>
 <li>brain small vessel disease 1 with or without ocular anomalies（99.2%）</li>
 <li>conjunctivitis（99.0%）</li>
@@ -36,9 +36,15 @@ permalink: /news/sulfamerazine/
 <p><a href="{{ '/drugs/sulfamerazine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [戒紅肉痛風照樣發作？醫揭隱形地雷：果汁、白吐司都上榜- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTFAyWEUzRmdNVjdjdzIxVW13QV9ZbU9xZm5VRGhVcGZaaGxLdEdUdEtvdjd2bmFiamoyNHZRYk0tUy1La0JNMXBBcG43c3FraVBCY3dFZ2lFRXZndVBTUS1idlNOeV9NMGxyVlJkVXl3?oc=5)
+
+2026-07-30 <span class="news-indication-tag">痛風</span>
+
+來源：[chinatimes.com](https://news.google.com/rss/articles/CBMibkFVX3lxTFAyWEUzRmdNVjdjdzIxVW13QV9ZbU9xZm5VRGhVcGZaaGxLdEdUdEtvdjd2bmFiamoyNHZRYk0tUy1La0JNMXBBcG43c3FraVBCY3dFZ2lFRXZndVBTUS1idlNOeV9NMGxyVlJkVXl3?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -1,13 +1,46 @@
 {
-  "last_updated": "2026-07-30T15:03:06.647490+00:00",
-  "total_count": 19,
-  "matched_count": 7,
+  "last_updated": "2026-07-30T17:15:47.657203+00:00",
+  "total_count": 22,
+  "matched_count": 8,
   "news": [
+    {
+      "id": "5b58a0e936c4",
+      "title": "戒紅肉痛風照樣發作？醫揭隱形地雷：果汁、白吐司都上榜- 健康",
+      "published": "2026-07-30T14:52:57+00:00",
+      "summary": "戒紅肉痛風照樣發作？醫揭隱形地雷：果汁、白吐司都上榜- 健康&nbsp;&nbsp;chinatimes.com",
+      "sources": [
+        {
+          "name": "chinatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyWEUzRmdNVjdjdzIxVW13QV9ZbU9xZm5VRGhVcGZaaGxLdEdUdEtvdjd2bmFiamoyNHZRYk0tUy1La0JNMXBBcG43c3FraVBCY3dFZ2lFRXZndVBTUS1idlNOeV9NMGxyVlJkVXl3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "gout",
+          "keyword": "痛風",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "sulfamerazine",
+              "name": "Sulfamerazine"
+            },
+            {
+              "slug": "sulfamethazine",
+              "name": "Sulfamethazine"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "19ccda76115a",
       "title": "【灣區新聞】Santa Clara縣出現今年首兩宗西尼羅病毒人類感染個案 ​當局呼籲居民加強防蚊",
-      "published": "2026-07-30T14:34:15+00:00",
-      "summary": "【灣區新聞】Santa Clara縣出現今年首兩宗西尼羅病毒人類感染個案 ​當局呼籲居民加強防蚊&nbsp;&nbsp;KTSF.com州衛生廳籲民眾防範蚊媒疾病 西尼羅病毒首現本季病例&nbsp;&nbsp;大纪元灣區今年首現人類西尼羅病例 聖他克拉縣兩居民證實染病毒&nbsp;&nbsp;Singtaousa",
+      "published": "2026-07-30T14:38:27+00:00",
+      "summary": "【灣區新聞】Santa Clara縣出現今年首兩宗西尼羅病毒人類感染個案 ​當局呼籲居民加強防蚊&nbsp;&nbsp;KTSF.com州衛生廳籲民眾防範蚊媒疾病 西尼羅病毒首現本季病例&nbsp;&nbsp;epochtimes.com灣區今年首現人類西尼羅病例 聖他克拉縣兩居民證實染病毒&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "KTSF.com",
@@ -17,13 +50,26 @@
       "matched_keywords": []
     },
     {
-      "id": "4aba308dc225",
-      "title": "研究證實：兩歲前限制糖分攝取有助日後降低失智症風險- 國際",
-      "published": "2026-07-30T13:16:00+00:00",
-      "summary": "研究證實：兩歲前限制糖分攝取有助日後降低失智症風險- 國際&nbsp;&nbsp;ctee.com.tw",
+      "id": "68774e97337d",
+      "title": "主動脈瓣狹窄的危機與對策，經導管主動脈瓣膜置換手術（TAVI）與腦部血管保護裝置解析，心臟血管外科醫師圖文懶人包 - PanSci 泛科學",
+      "published": "2026-07-30T14:37:30+00:00",
+      "summary": "主動脈瓣狹窄的危機與對策，經導管主動脈瓣膜置換手術（TAVI）與腦部血管保護裝置解析，心臟血管外科醫師圖文懶人包&nbsp;&nbsp;PanSci 泛科學",
       "sources": [
         {
-          "name": "ctee.com.tw",
+          "name": "PanSci 泛科學",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oQzhibUFWTURvVzZUR0dqTzQ4V2ZDd3QyaWZacmpPQ3ZyUTlsMG5CSUJRamhfUkZJLVFYX1BjM3dnYnBOeXZUMFBjSQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c82ef2068c03",
+      "title": "研究證實：兩歲前限制糖分攝取有助日後降低失智症風險- 國際",
+      "published": "2026-07-30T13:16:00+00:00",
+      "summary": "研究證實：兩歲前限制糖分攝取有助日後降低失智症風險- 國際&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "工商時報",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zUEhLU3c0aGprUVJQVlVSYXVkU1c4UDRFSzc3bWUtSjYxUW96TnFKcnVZcGJiTkpDLXp2VkFvLW1QM0J5TmhSZUNpOWlJdGNRWmlyeXNKN1VRUzctVWVN?oc=5"
         }
       ],
@@ -53,26 +99,26 @@
       ]
     },
     {
-      "id": "96df103b3518",
+      "id": "ff3d44226754",
       "title": "威而鋼不只壯陽！研究曝新發現：可能阻斷癌細胞轉移",
       "published": "2026-07-30T08:33:00+00:00",
-      "summary": "威而鋼不只壯陽！研究曝新發現：可能阻斷癌細胞轉移&nbsp;&nbsp;TVBS新聞網",
+      "summary": "威而鋼不只壯陽！研究曝新發現：可能阻斷癌細胞轉移&nbsp;&nbsp;news.tvbs.com.tw",
       "sources": [
         {
-          "name": "TVBS新聞網",
+          "name": "news.tvbs.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tdmJ0eXNzdEVKRjhmLVE3bm1oRmItQnFzaG9hS01LbndFTTJPSTJQZmhRcXJXSmZKaVBZamhPR0NEcnNkUV95NnpwQlRVdkE?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "da18858a85b3",
+      "id": "c2acb844962d",
       "title": "減重手術趁早做 台北慈濟揭乳癌風險降2成",
       "published": "2026-07-30T08:12:55+00:00",
-      "summary": "減重手術趁早做 台北慈濟揭乳癌風險降2成&nbsp;&nbsp;Yahoo新聞台北慈院研究：及早減重手術 助降低乳癌發生率&nbsp;&nbsp;自由健康網防癌快看！國際期刊證實胖是得癌關鍵風險 潘致皓醫師曝４個恐怖真相&nbsp;&nbsp;Yahoo新聞肥胖不只傷心血管！醫揭乳癌風險也跟著升高，1族群及早減重效果最好&nbsp;&nbsp;良醫健康網肥胖不是外表問題！BMI破35乳癌風險飆 做這事風險降2成&nbsp;&nbsp;LINE TODAY",
+      "summary": "減重手術趁早做 台北慈濟揭乳癌風險降2成&nbsp;&nbsp;tw.news.yahoo.com台北慈院研究：及早減重手術 助降低乳癌發生率&nbsp;&nbsp;自由健康網防癌快看！國際期刊證實胖是得癌關鍵風險 潘致皓醫師曝４個恐怖真相&nbsp;&nbsp;tw.news.yahoo.com肥胖不只傷心血管！醫揭乳癌風險也跟著升高，1族群及早減重效果最好&nbsp;&nbsp;良醫健康網肥胖不是外表問題！BMI破35乳癌風險飆 做這事風險降2成&nbsp;&nbsp;today.line.me",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQeFkyblFBS0U4VjV4d2ZsTkZybnY5RDFkUG5XdmJpajQtWEhfWGZ3RGtscExqMWNaS1J1Sm1oc2UxOC13MzBGTUFXVU9YaG0zeHRXaldDTFRsT2ZLbkt5VURWc05vMWlZaFhZUjhPUjkxVDExV0xiaGd3TUx5eEYwZ29wRDZQRXZ1b3pwc05ab0NlcGE5Z2JCX1F0b19IU0tyU0JMSFFkVGNjR1dpeVBLeGpFVkRydTNWSHNlYkhFUmlZTDJPbHNPX0pXUmtCX0pzT1RuclZmaktpSF8ySldoQmdkZEFxSFFmc0tBNTdRSHVFODFmazlVdGV4ZXNXM3hqZFNLWGNkZ1NDUHp6cjBhdVJfSWxNRWszUDJjdThvUEY5WGxxRFNtNllZMjU0Zw?oc=5"
         }
       ],
@@ -175,13 +221,13 @@
       ]
     },
     {
-      "id": "f32341fdbc8b",
+      "id": "3bf81ac99e67",
       "title": "男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年",
       "published": "2026-07-30T06:33:52+00:00",
-      "summary": "男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年&nbsp;&nbsp;Yahoo新聞男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年 | Newtalk&nbsp;&nbsp;LINE TODAY男口腔癌四期 再揪大腸癌 醫曝「雙癌夾擊」關鍵原因&nbsp;&nbsp;中時新聞網嘴巴破很久都好不了？醫師教您「口腔黏膜檢查」三大防癌關鍵- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險&nbsp;&nbsp;三立新聞",
+      "summary": "男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年&nbsp;&nbsp;tw.news.yahoo.com男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年 | Newtalk&nbsp;&nbsp;today.line.me男口腔癌四期 再揪大腸癌 醫曝「雙癌夾擊」關鍵原因&nbsp;&nbsp;chinatimes.com嘴巴破很久都好不了？醫師教您「口腔黏膜檢查」三大防癌關鍵- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險&nbsp;&nbsp;health.setn.com",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYnJSWjBkSzZkNmNFNHNXblJKVlk3aGZYWkdRRThzLUc5aW9lOFVOeXN2eEJod2JjeUFlMlM2RjJvaFJuMHpXcEJaNU5FR2xyYl9yVUZBWHBZdDVydURoNDlpVTRKeVVuRmdhRUtGb0FVazRYQ3YtOXFhSlVhT1FwM3BySXctX1E5YkZRTXN3dmcxSFBySnFvSjhZaTdCaU1fUFBKd0pVMHU4TWFob0xaYy1tSExFZTBpeXI5WGJvYThtQ0pDY00w?oc=5"
         }
       ],
@@ -223,26 +269,26 @@
       ]
     },
     {
-      "id": "7dd352c892a6",
+      "id": "c3d2a02e06a7",
       "title": "美國驚見《聖經》疾病回歸佛州病例暴增元凶恐是這野生動物- 國際",
       "published": "2026-07-30T05:25:18+00:00",
-      "summary": "美國驚見《聖經》疾病回歸佛州病例暴增元凶恐是這野生動物- 國際&nbsp;&nbsp;中時新聞網",
+      "summary": "美國驚見《聖經》疾病回歸佛州病例暴增元凶恐是這野生動物- 國際&nbsp;&nbsp;chinatimes.com",
       "sources": [
         {
-          "name": "中時新聞網",
+          "name": "chinatimes.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LZmczUEFBdkRaTnczaW9UUGVGOGR1RnQtdFI1RUVLRFJqbkplOXNFcnVLYkFzZ2JLeTJpcVh5ZWI2UmtJcW1HQ2NldnlUa1dJWlJOYkFMUi1wSmtBQi1EVFFDV0lHODQ4LUEzSm1B?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "3cc8aa0174c8",
+      "id": "1bb44c422b2a",
       "title": "廣藿香精油能驅蚊嗎？研究揭效果與使用注意事項",
       "published": "2026-07-30T05:00:00+00:00",
-      "summary": "廣藿香精油能驅蚊嗎？研究揭效果與使用注意事項&nbsp;&nbsp;大纪元",
+      "summary": "廣藿香精油能驅蚊嗎？研究揭效果與使用注意事項&nbsp;&nbsp;epochtimes.com",
       "sources": [
         {
-          "name": "大纪元",
+          "name": "epochtimes.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oamJLbjVha0lPSTVqYlpfWDA2Qm1Wd2hiYlp2R3czbU5pRFZ0QWRpSGVoWVlDOGxVcVFlYVZpcXRJTjB6Mk43VnV3UnVja3VDai1Ud1dOMWQ1SkpPM3NxRNIBZkFVX3lxTE84YUFwVEl2TnBCZ05fTWxHQWZRVGFTMkJqWjBROURORHA5U1luNmhDQl95MXJaQ0QyRU9qWm1samg1UUtIM3ltNmhMbHlMWC1kMjlBcmxGbGN3Mm85UFVzdFh4dUhhdw?oc=5"
         }
       ],
@@ -272,6 +318,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "40bc91fde8af",
+      "title": "暑假作息亂、青少年皮膚問題大爆發！醫：抑痘重視溫和清潔、長期照護",
+      "published": "2026-07-30T02:00:00+00:00",
+      "summary": "暑假作息亂、青少年皮膚問題大爆發！醫：抑痘重視溫和清潔、長期照護&nbsp;&nbsp;健康醫療網",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JZ0JKRWdlMExKUDFoSkxmT3k2Ynh0X0FPOEtHWGhOQThFOTBMME1VWEpuRWxyUzNpLVFNSHlHbzFyX0N1X240aWl1anZFTmJzaV9qUVJR?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "17c41fdf730b",
@@ -325,14 +384,14 @@
       ]
     },
     {
-      "id": "e579114f8194",
+      "id": "71b7329fdf32",
       "title": "長者健身園地 勤鍛煉防跌傷 康文署引入 逾400個遍布全港",
       "published": "2026-07-29T20:06:27+00:00",
-      "summary": "長者健身園地 勤鍛煉防跌傷 康文署引入 逾400個遍布全港&nbsp;&nbsp;信報網站",
+      "summary": "長者健身園地 勤鍛煉防跌傷 康文署引入 逾400個遍布全港&nbsp;&nbsp;hkej.com",
       "sources": [
         {
-          "name": "信報網站",
-          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPTXA5MXBiOHZtV1ROdEdPdVlkejVYb1llVDJhUDAwREt2YnJ1eWFmc0p6a1ZaSE5CeVdzSTdmTHo0aVNsMjFORnhFNy1BTk5mVWtBdGJZTGVxdFFNWE16aGF4YXN2UGhHQUFhdzdFV1JZalA0M0VVVEtJR1QxaGk4LVNhdk1IQ2ZqQWdudW9DV0F2OHFXcWdmSU95SnBIQ0ZjdHgwRlg3VU1CTlFNUVNoMWtieURIRzMyZjloV2lYbmxBVE5iYWJ0V0MtaGh2MmlpWlEtVnJTWlRJXzl5dnlwNDh0bENZcFlVUHpQVVE1dGYxb0VmUWZTSDVnaXVRS1o1X1M4NWd4Qk50Wm03a0NmUno2VmVSMmtNNmNBMDd5bExCNXVmMWYxaVF6Q29WeHpLaFFYMjJ1SDZ3N2JZc0g1TXJPR0d5YUZlRVNyMGxHTlFXc2x2T29kcXY0UkMyZkM5ZVdBeTYzT1NFRmVtVm9WSE5lV05QUHRNakdtMU1iRlg1QQ?oc=5"
+          "name": "hkej.com",
+          "link": "https://news.google.com/rss/articles/CBMiugRBVV95cUxNUDh0dGZybzdpYkdibm9veFNtREJuVVd4OWx5UEJvb2EzZVNqampMSDhJVXhXN3YtU0lrTFhfWWtHdVRudnpsOEc2MTlITjdjMGRjSy1PNmsyYVB1MkZsSF9mb2ZjZHlOLTRmMGk4c2VUODdpMWtEMk5OUjgyNzZULXpjdUZJOXB0UVpTMkhzblJPU3Zlb0pjNW8yMlF0U1hsdWdYOENiaDJJbFJtUnZrc1RpVXFzWHkzaWlRbDVoSXhKYW5fSDVudnZ0NDdmNjZKc01hbjRCRjRyTG02dVBRWVlzQkRYMHF2YVBBdUpDVDRzVGNVakw1enBVQzlWQl9mNFluU2E5cE5Ud3RCOHdwZXR3TVhhVktYWFlkcTVQV2NoSHF6eXZaRWNzcUp0dUs2MV9qVTE3OVZTOExuZFpwTEdOejNiQjhuZWVFSG1zdVJxcFlYNnluM1ZZaXBEeTRpaXpCVHdZTmJVYVlObms0T2ZsQUF0MXZFaWU3aXJpcmd5RXJnVXdWV2dEUjlReF9JaW5xUWFPX1dpLUs3U2dacDJSTmVFcEVaMzZFcWdmNHl2LWIxNUJTVTh0bDJKWGVJcjM5bG83ODE5cld2UFY2VXAzWUZ1OTA2cWV1Z1hGRXhpbjdxb0I3OTltNFRFVnBXSDYzTTc4YVh5eVJWa1hYVjNITEliNnlYZ21RTUNnb21yX09HM1RoSlRHQkRPQnBxRGd4Wk5RMl9OMXo3U2J4VVRoTlRick5leFE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -341,7 +400,7 @@
       "id": "3b7cd82daaba",
       "title": "健康網》孕婦染新冠、流感別硬撐！ 醫：出現4警訊快就醫",
       "published": "2026-07-29T08:19:00+00:00",
-      "summary": "健康網》孕婦染新冠、流感別硬撐！ 醫：出現4警訊快就醫&nbsp;&nbsp;自由健康網孕婦染新冠千萬別當一般感冒！ 醫：「6大情況」有重症風險&nbsp;&nbsp;TVBS新聞網孕婦染COVID怕吃藥傷胎？重症醫：不治療風險更大&nbsp;&nbsp;Yahoo新聞",
+      "summary": "健康網》孕婦染新冠、流感別硬撐！ 醫：出現4警訊快就醫&nbsp;&nbsp;自由健康網孕婦染新冠千萬別當一般感冒！ 醫：「6大情況」有重症風險&nbsp;&nbsp;news.tvbs.com.tw孕婦染COVID怕吃藥傷胎？重症醫：不治療風險更大&nbsp;&nbsp;tw.news.yahoo.com",
       "sources": [
         {
           "name": "自由健康網",
