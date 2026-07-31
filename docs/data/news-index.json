@@ -1,7 +1,42 @@
 {
-  "generated": "2026-07-30T23:54:12.152095+00:00",
+  "generated": "2026-07-31T01:57:22.325780+00:00",
   "count": 8,
   "news": [
+    {
+      "id": "cc94871a996f",
+      "title": "香港科大研究：兩歲前限制攝取糖分與較佳腦部健康有關聯",
+      "published": "2026-07-31T00:45:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQdkdma3hOZ3FLVG9CUmUtaGVpOWRnUnlPZDVuUmVBQ1lvMnpGcUFEUzRoZmFGZWlPdWV4VUtKTkVoUTJkOS05NkxqdlV0M1NHQThKYXNEUkRYVENKSkxmUnZKMkZiYWFFeDRDUTA0TVpadWVGR0Rwdkh5UjQxcFBjYzhObWhjU3hoTUhZb2FYLVZRR2QzQU51b1M0MVBVdDBETy1CRGh6eUxybVVPckd3bzVrcWtUcWxvQ0dvYUVKeld1Sm16Y2JBRlQ4S0xXb1B5b3hpQlFKMWUxUmZ2UVRDcU4xc3RqanR5ZzJGakY5bGZwTHNzck5md1N0a09lUnB2R2ZKaDg3bFBpOVBPbElqMGF0WXVrcl90eVQzdUsxcVhHSWFWNXlnYnlxMlZLbjlYWW1tQzU1QnpxZkRGSHlNRTBiY1dDWVpPc1Q1ZmdwenhTaWRBdXJhVVVhc0FjZXdmWTNxcUYwM3djNDBHRDRlNnU2ODEweEJSdXdKM09TSmM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "fa1e73c0f488",
       "title": "戒紅肉痛風照樣發作？醫揭隱形地雷：果汁、白吐司都上榜- 健康",
@@ -35,94 +70,24 @@
       ]
     },
     {
-      "id": "4aba308dc225",
-      "title": "研究證實：兩歲前限制糖分攝取有助日後降低失智症風險- 國際",
-      "published": "2026-07-30T13:16:00+00:00",
+      "id": "b2b788688f26",
+      "title": "心臟衰竭治療的新整合策略，一顆複方藥丸造成的改變 | 科技新報",
+      "published": "2026-07-30T08:51:14+00:00",
       "sources": [
         {
-          "name": "ctee.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zUEhLU3c0aGprUVJQVlVSYXVkU1c4UDRFSzc3bWUtSjYxUW96TnFKcnVZcGJiTkpDLXp2VkFvLW1QM0J5TmhSZUNpOWlJdGNRWmlyeXNKN1VRUzctVWVN?oc=5"
+          "name": "today.line.me",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55UXdCVXhMajRMVTZvTXVEeEZBbHlWQ0toV3p4akhQQXNaUllJUERmWHZPU2plWFRXa1hZM0s0a1duQUpLQ0RwQjBkZXIza1lmejFvb3B3?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
+          "name": "心臟衰竭",
+          "keyword": "心臟衰竭",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "da18858a85b3",
-      "title": "減重手術趁早做 台北慈濟揭乳癌風險降2成",
-      "published": "2026-07-30T08:12:55+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQeFkyblFBS0U4VjV4d2ZsTkZybnY5RDFkUG5XdmJpajQtWEhfWGZ3RGtscExqMWNaS1J1Sm1oc2UxOC13MzBGTUFXVU9YaG0zeHRXaldDTFRsT2ZLbkt5VURWc05vMWlZaFhZUjhPUjkxVDExV0xiaGd3TUx5eEYwZ29wRDZQRXZ1b3pwc05ab0NlcGE5Z2JCX1F0b19IU0tyU0JMSFFkVGNjR1dpeVBLeGpFVkRydTNWSHNlYkhFUmlZTDJPbHNPX0pXUmtCX0pzT1RuclZmaktpSF8ySldoQmdkZEFxSFFmc0tBNTdRSHVFODFmazlVdGV4ZXNXM3hqZFNLWGNkZ1NDUHp6cjBhdVJfSWxNRWszUDJjdThvUEY5WGxxRFNtNllZMjU0Zw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
+              "slug": "ouabain",
+              "name": "Ouabain"
             }
           ]
         }
@@ -211,6 +176,65 @@
       ]
     },
     {
+      "id": "842c82e7c03b",
+      "title": "年死3000人！BMI破35乳癌風險飆 研究：及早減重手術「風險大降2成」",
+      "published": "2026-07-30T03:30:00+00:00",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CcWpuemZDeEd0Q281c1BrQUdjbVptZ0dZZzZUaS1mWkgyZHV4V1JrVThiVDBkMTgtc0llYWdnTm5Hei1zWDJBOGxRalA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "74b76a718bfe",
       "title": "走路速度和大腦年齡有關？最新研究：走路愈快愈長壽、失智風險降低60% - Harper's BAZAAR",
       "published": "2026-07-30T03:09:11+00:00",
@@ -229,30 +253,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "07957e11c507",
-      "title": "心臟衰竭治療的新整合策略，一顆複方藥丸造成的改變 - TechNews 科技新報",
-      "published": "2026-07-30T00:21:31+00:00",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMzFORzUtNGpBR3B0Y2ROM3ZNbWIwN3FDUmlkb0hFUk9ucEtwVVRFRXEyRDRDSld3czBVUnBtalNhb2JKdEFkcU55bGdkQ3dPS05NOGRKaFBycW9ZRTJwZFUzcEdyTktZRDdGa1F5R2lBWnFZZGhNaWZCSUxKLUgwUmNTWmVjTEVWMS1HNjlkRkFYSDA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "心臟衰竭",
-          "keyword": "心臟衰竭",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
             }
           ]
         }

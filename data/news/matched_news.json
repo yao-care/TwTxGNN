@@ -1,8 +1,57 @@
 {
-  "last_updated": "2026-07-30T23:54:12.123055+00:00",
-  "total_count": 26,
+  "last_updated": "2026-07-31T01:57:22.304051+00:00",
+  "total_count": 31,
   "matched_count": 8,
   "news": [
+    {
+      "id": "3f71e38ead07",
+      "title": "健檢微幅紅字不重要？王天佑醫師：數字非唯一指標及早介入更關鍵",
+      "published": "2026-07-31T01:01:43+00:00",
+      "summary": "健檢微幅紅字不重要？王天佑醫師：數字非唯一指標及早介入更關鍵&nbsp;&nbsp;Mobile01",
+      "sources": [
+        {
+          "name": "Mobile01",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBicnMyZ05GMnBObm1mMHpvbncyU0JkQUVuRlJodEo5TjAzM1I5U0s2alhtRENkNlEtSTd5eFNPeW5KQ0lnSVFqRFZ0NFNUYVVEUWlfaXNJVUhubU5vZFFvSVA1T0Q2cVE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "cc94871a996f",
+      "title": "香港科大研究：兩歲前限制攝取糖分與較佳腦部健康有關聯",
+      "published": "2026-07-31T00:45:00+00:00",
+      "summary": "香港科大研究：兩歲前限制攝取糖分與較佳腦部健康有關聯&nbsp;&nbsp;Yahoo新聞研究：年幼時少吃糖 日後罹患失智症風險降低&nbsp;&nbsp;大纪元兩歲前少吃糖 長大後失智風險降低23%？&nbsp;&nbsp;Taiwan News研究證實：兩歲前限制糖分攝取有助日後降低失智症風險- 國際&nbsp;&nbsp;ctee.com.tw",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQdkdma3hOZ3FLVG9CUmUtaGVpOWRnUnlPZDVuUmVBQ1lvMnpGcUFEUzRoZmFGZWlPdWV4VUtKTkVoUTJkOS05NkxqdlV0M1NHQThKYXNEUkRYVENKSkxmUnZKMkZiYWFFeDRDUTA0TVpadWVGR0Rwdkh5UjQxcFBjYzhObWhjU3hoTUhZb2FYLVZRR2QzQU51b1M0MVBVdDBETy1CRGh6eUxybVVPckd3bzVrcWtUcWxvQ0dvYUVKeld1Sm16Y2JBRlQ4S0xXb1B5b3hpQlFKMWUxUmZ2UVRDcU4xc3RqanR5ZzJGakY5bGZwTHNzck5md1N0a09lUnB2R2ZKaDg3bFBpOVBPbElqMGF0WXVrcl90eVQzdUsxcVhHSWFWNXlnYnlxMlZLbjlYWW1tQzU1QnpxZkRGSHlNRTBiY1dDWVpPc1Q1ZmdwenhTaWRBdXJhVVVhc0FjZXdmWTNxcUYwM3djNDBHRDRlNnU2ODEweEJSdXdKM09TSmM?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "0c16ac61c4de",
       "title": "Airbnb公布加拿大10大最熱門社區　全國多地上榜",
@@ -76,49 +125,64 @@
       ]
     },
     {
-      "id": "19ccda76115a",
+      "id": "6774a0f3ece7",
       "title": "【灣區新聞】Santa Clara縣出現今年首兩宗西尼羅病毒人類感染個案 ​當局呼籲居民加強防蚊",
       "published": "2026-07-30T14:38:27+00:00",
-      "summary": "【灣區新聞】Santa Clara縣出現今年首兩宗西尼羅病毒人類感染個案 ​當局呼籲居民加強防蚊&nbsp;&nbsp;KTSF.com州衛生廳籲民眾防範蚊媒疾病 西尼羅病毒首現本季病例&nbsp;&nbsp;大纪元多倫多公共衛確認2026 年首宗人類感染西尼羅病毒的病例&nbsp;&nbsp;am1320.com灣區今年首現人類西尼羅病例 聖他克拉縣兩居民證實染病毒&nbsp;&nbsp;Singtaousa那柏縣烏鴉屍體帶西尼羅病毒&nbsp;&nbsp;Singtaousa",
+      "summary": "【灣區新聞】Santa Clara縣出現今年首兩宗西尼羅病毒人類感染個案 ​當局呼籲居民加強防蚊&nbsp;&nbsp;ktsf.com州衛生廳籲民眾防範蚊媒疾病 西尼羅病毒首現本季病例&nbsp;&nbsp;大纪元多倫多公共衛確認2026 年首宗人類感染西尼羅病毒的病例&nbsp;&nbsp;am1320.com灣區今年首現人類西尼羅病例 聖他克拉縣兩居民證實染病毒&nbsp;&nbsp;Singtaousa多市錄得首宗西尼羅河病毒人類感染個案 當局籲市民防蚊&nbsp;&nbsp;singtao.ca",
       "sources": [
         {
-          "name": "KTSF.com",
+          "name": "ktsf.com",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpWlk2cmR5Q0RvRUlhZ1E5cHBaemEwT0JtMFpjeHAzQ2VHTWp6MGNKRndCUkFMQW1YdndnMkpsODAyeDhYU2tCaUVpRVItWU1ObkoxWURzdUFvdklRZHpxZkJEMEluS2RoRWtadWFQME0?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "4aba308dc225",
-      "title": "研究證實：兩歲前限制糖分攝取有助日後降低失智症風險- 國際",
-      "published": "2026-07-30T13:16:00+00:00",
-      "summary": "研究證實：兩歲前限制糖分攝取有助日後降低失智症風險- 國際&nbsp;&nbsp;ctee.com.tw",
+      "id": "62dc0cc63b89",
+      "title": "子宮癌預防｜子宮癌早期病徵極似普通婦科病 調整4大生活習慣降患癌風險",
+      "published": "2026-07-30T10:37:18+00:00",
+      "summary": "子宮癌預防｜子宮癌早期病徵極似普通婦科病 調整4大生活習慣降患癌風險&nbsp;&nbsp;TVB",
       "sources": [
         {
-          "name": "ctee.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zUEhLU3c0aGprUVJQVlVSYXVkU1c4UDRFSzc3bWUtSjYxUW96TnFKcnVZcGJiTkpDLXp2VkFvLW1QM0J5TmhSZUNpOWlJdGNRWmlyeXNKN1VRUzctVWVN?oc=5"
+          "name": "TVB",
+          "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNR2lXSHA1aHdxTmtvRHVWb2xxbXRyWnc2Mmk3SXdYRmpuT1dnQTBHR0JXYnNSUnN5VVlFZDAtY2RTOFQzNllmVkRVYTNNRmE0clIwdUpPUXM5VERNMkVwaWpMaWFxSjFXbElIVTNMQm1XUWY2ZjUzSGcwZ2RiSHphSEdZbE5jZlF4dk1KS2lFRVgyN3B6LXRwOFd4RnFmc2Z0cmFmNTdkeU11YmtLa0RoekxnSm5NQ3dVaVF0Mk5rVjY3MU1FQk9UckdZX3lubVZiejllZEd0RF9yWjRxZG5tVTFQZ3pmUGcySEpheTRZTnN4YXhVV3dEUWdUN2ZHY0FNTWc1M3BTVGhSaXFXZWhFZl9jczdLYWRWSHktZnJsTS1pU1dLS2ZQYUNhQjZhNEgwX2lLUnI3VERjYlBEMEpHaUZwVjhVX3ZJdzhCVHJwbzJfZVNqSVFLR3BfNXl2am80MmZGZC01SUQtRlg1MHdkQjFLaDhWeHY1RjNKRlNsTjlzS0UyWjllWGlkWVhmd2FpS25ySkpVU2RVUFFJSDRTMDZWSWZydU5jdGRIZ0thc3BJdGxldE1UZml2eWZtUmZxelkwbWotclIwQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7589c779287d",
+      "title": "編輯部《健康世界》",
+      "published": "2026-07-30T09:04:38+00:00",
+      "summary": "編輯部《健康世界》&nbsp;&nbsp;UDN",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RcVRUaVdadjhsQVBXSjJfOEd4UVgzbVlldXVQRFF1U1R4ZUNQckZlbGlYR1VseXRsYU1qaW9xYkFHY09Od2hjc1p0ZE92ZzFmOHVqbW0xUm16N0FRamYxLQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b2b788688f26",
+      "title": "心臟衰竭治療的新整合策略，一顆複方藥丸造成的改變 | 科技新報",
+      "published": "2026-07-30T08:51:14+00:00",
+      "summary": "心臟衰竭治療的新整合策略，一顆複方藥丸造成的改變 | 科技新報&nbsp;&nbsp;today.line.me",
+      "sources": [
+        {
+          "name": "today.line.me",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55UXdCVXhMajRMVTZvTXVEeEZBbHlWQ0toV3p4akhQQXNaUllJUERmWHZPU2plWFRXa1hZM0s0a1duQUpLQ0RwQjBkZXIza1lmejFvb3B3?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
+          "name": "心臟衰竭",
+          "keyword": "心臟衰竭",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "ouabain",
+              "name": "Ouabain"
             }
           ]
         }
@@ -138,66 +202,6 @@
       "matched_keywords": []
     },
     {
-      "id": "da18858a85b3",
-      "title": "減重手術趁早做 台北慈濟揭乳癌風險降2成",
-      "published": "2026-07-30T08:12:55+00:00",
-      "summary": "減重手術趁早做 台北慈濟揭乳癌風險降2成&nbsp;&nbsp;Yahoo新聞台北慈院研究：及早減重手術 助降低乳癌發生率&nbsp;&nbsp;自由健康網及早減重手術 助降乳癌發生率&nbsp;&nbsp;中華新聞雲／中華日報防癌快看！國際期刊證實胖是得癌關鍵風險 潘致皓醫師曝４個恐怖真相&nbsp;&nbsp;Yahoo新聞肥胖不只傷心血管！醫揭乳癌風險也跟著升高，1族群及早減重效果最好&nbsp;&nbsp;良醫健康網",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQeFkyblFBS0U4VjV4d2ZsTkZybnY5RDFkUG5XdmJpajQtWEhfWGZ3RGtscExqMWNaS1J1Sm1oc2UxOC13MzBGTUFXVU9YaG0zeHRXaldDTFRsT2ZLbkt5VURWc05vMWlZaFhZUjhPUjkxVDExV0xiaGd3TUx5eEYwZ29wRDZQRXZ1b3pwc05ab0NlcGE5Z2JCX1F0b19IU0tyU0JMSFFkVGNjR1dpeVBLeGpFVkRydTNWSHNlYkhFUmlZTDJPbHNPX0pXUmtCX0pzT1RuclZmaktpSF8ySldoQmdkZEFxSFFmc0tBNTdRSHVFODFmazlVdGV4ZXNXM3hqZFNLWGNkZ1NDUHp6cjBhdVJfSWxNRWszUDJjdThvUEY5WGxxRFNtNllZMjU0Zw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "4845569ceff5",
       "title": "不靠狂消毒！醫揭降低感染風險8個習慣：洗手只是其中之一",
       "published": "2026-07-30T07:35:27+00:00",
@@ -214,7 +218,7 @@
       "id": "a9f23e41162f",
       "title": "大腦藏有天然守門員！研究揭阿茲海默症惡化新關鍵",
       "published": "2026-07-30T06:34:00+00:00",
-      "summary": "大腦藏有天然守門員！研究揭阿茲海默症惡化新關鍵&nbsp;&nbsp;自由健康網研究：阿茲海默症睡眠障礙 可能有關免疫細胞反應&nbsp;&nbsp;自由健康網腦有阿茲海默病變不一定失智 研究揭大腦關鍵轉折&nbsp;&nbsp;自由健康網",
+      "summary": "大腦藏有天然守門員！研究揭阿茲海默症惡化新關鍵&nbsp;&nbsp;自由健康網有阿茲海默病變不一定失智 研究揭大腦關鍵轉折&nbsp;&nbsp;soundofhope.org研究：阿茲海默症睡眠障礙 可能有關免疫細胞反應&nbsp;&nbsp;自由健康網腦有阿茲海默病變不一定失智 研究揭大腦關鍵轉折&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "自由健康網",
@@ -250,7 +254,7 @@
       "id": "f32341fdbc8b",
       "title": "男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年",
       "published": "2026-07-30T06:33:52+00:00",
-      "summary": "男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年&nbsp;&nbsp;Yahoo新聞男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年 | Newtalk&nbsp;&nbsp;LINE TODAY男口腔癌四期 再揪大腸癌 醫曝「雙癌夾擊」關鍵原因&nbsp;&nbsp;中時新聞網嘴巴破很久都好不了？醫師教您「口腔黏膜檢查」三大防癌關鍵- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險&nbsp;&nbsp;health.setn.com",
+      "summary": "男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年&nbsp;&nbsp;Yahoo新聞男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年 | Newtalk&nbsp;&nbsp;today.line.me男口腔癌四期 再揪大腸癌 醫曝「雙癌夾擊」關鍵原因&nbsp;&nbsp;中時新聞網嘴巴破很久都好不了？醫師教您「口腔黏膜檢查」三大防癌關鍵- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞口咽癌竄升！醫示警：不菸不酒也中鏢 籲「快做1事」降風險&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -306,6 +310,66 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "842c82e7c03b",
+      "title": "年死3000人！BMI破35乳癌風險飆 研究：及早減重手術「風險大降2成」",
+      "published": "2026-07-30T03:30:00+00:00",
+      "summary": "年死3000人！BMI破35乳癌風險飆 研究：及早減重手術「風險大降2成」&nbsp;&nbsp;三立新聞網SETN.com台北慈院研究：及早減重手術 助降低乳癌發生率&nbsp;&nbsp;自由健康網及早減重手術 助降乳癌發生率&nbsp;&nbsp;中華新聞雲／中華日報防癌快看！國際期刊證實胖是得癌關鍵風險 潘致皓醫師曝４個恐怖真相&nbsp;&nbsp;Yahoo新聞肥胖不只傷心血管！醫揭乳癌風險也跟著升高，1族群及早減重效果最好&nbsp;&nbsp;良醫健康網",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CcWpuemZDeEd0Q281c1BrQUdjbVptZ0dZZzZUaS1mWkgyZHV4V1JrVThiVDBkMTgtc0llYWdnTm5Hei1zWDJBOGxRalA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "74b76a718bfe",
@@ -372,31 +436,6 @@
       "matched_keywords": []
     },
     {
-      "id": "07957e11c507",
-      "title": "心臟衰竭治療的新整合策略，一顆複方藥丸造成的改變 - TechNews 科技新報",
-      "published": "2026-07-30T00:21:31+00:00",
-      "summary": "心臟衰竭治療的新整合策略，一顆複方藥丸造成的改變&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMzFORzUtNGpBR3B0Y2ROM3ZNbWIwN3FDUmlkb0hFUk9ucEtwVVRFRXEyRDRDSld3czBVUnBtalNhb2JKdEFkcU55bGdkQ3dPS05NOGRKaFBycW9ZRTJwZFUzcEdyTktZRDdGa1F5R2lBWnFZZGhNaWZCSUxKLUgwUmNTWmVjTEVWMS1HNjlkRkFYSDA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "心臟衰竭",
-          "keyword": "心臟衰竭",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "4b469d8ea839",
       "title": "長者健身園地 勤鍛煉防跌傷 康文署引入 逾400個遍布全港",
       "published": "2026-07-29T20:06:27+00:00",
@@ -405,6 +444,19 @@
         {
           "name": "信報網站",
           "link": "https://news.google.com/rss/articles/CBMiugRBVV95cUxNUDh0dGZybzdpYkdibm9veFNtREJuVVd4OWx5UEJvb2EzZVNqampMSDhJVXhXN3YtU0lrTFhfWWtHdVRudnpsOEc2MTlITjdjMGRjSy1PNmsyYVB1MkZsSF9mb2ZjZHlOLTRmMGk4c2VUODdpMWtEMk5OUjgyNzZULXpjdUZJOXB0UVpTMkhzblJPU3Zlb0pjNW8yMlF0U1hsdWdYOENiaDJJbFJtUnZrc1RpVXFzWHkzaWlRbDVoSXhKYW5fSDVudnZ0NDdmNjZKc01hbjRCRjRyTG02dVBRWVlzQkRYMHF2YVBBdUpDVDRzVGNVakw1enBVQzlWQl9mNFluU2E5cE5Ud3RCOHdwZXR3TVhhVktYWFlkcTVQV2NoSHF6eXZaRWNzcUp0dUs2MV9qVTE3OVZTOExuZFpwTEdOejNiQjhuZWVFSG1zdVJxcFlYNnluM1ZZaXBEeTRpaXpCVHdZTmJVYVlObms0T2ZsQUF0MXZFaWU3aXJpcmd5RXJnVXdWV2dEUjlReF9JaW5xUWFPX1dpLUs3U2dacDJSTmVFcEVaMzZFcWdmNHl2LWIxNUJTVTh0bDJKWGVJcjM5bG83ODE5cld2UFY2VXAzWUZ1OTA2cWV1Z1hGRXhpbjdxb0I3OTltNFRFVnBXSDYzTTc4YVh5eVJWa1hYVjNITEliNnlYZ21RTUNnb21yX09HM1RoSlRHQkRPQnBxRGd4Wk5RMl9OMXo3U2J4VVRoTlRick5leFE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2ff14c6d2b14",
+      "title": "糖尿病只影響血糖？當心，它可能悄悄偷走男性的「生」機！",
+      "published": "2026-07-29T16:01:23+00:00",
+      "summary": "糖尿病只影響血糖？當心，它可能悄悄偷走男性的「生」機！&nbsp;&nbsp;careonline.com.tw",
+      "sources": [
+        {
+          "name": "careonline.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lMHlCR0NvTFFBVEttdktLUHYxWHJ4bzBjcHlRdXFqcVpWeTdNVS1xZGRqRU9pZ1ZnUHJMUHl0VzZMTHZZSFY5dUYtU0hVNDJBTlB4Q0VmSzFla1JpMUVnQVM3eUFDQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -435,6 +487,32 @@
       ]
     },
     {
+      "id": "51f4d6ca18aa",
+      "title": "森林大火的煙霧，會引發您的頭痛嗎？",
+      "published": "2026-07-29T08:01:31+00:00",
+      "summary": "森林大火的煙霧，會引發您的頭痛嗎？&nbsp;&nbsp;careonline.com.tw",
+      "sources": [
+        {
+          "name": "careonline.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FclJfaldqaDNLUTkyNUVpQ3R3aUwwY1FDemlPbmYxLUdqZ1J2SkttWkUxcUZZWEhYNWJKejEzSHMwcnVCdWtLRFZSSXFJa3ZPX0o2LU1lSG5YUVFFQUY3SC1hU2hQUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9d86f84f3c64",
+      "title": "流感疫苗迷思 接種後仍見症狀？",
+      "published": "2026-07-29T07:39:27+00:00",
+      "summary": "流感疫苗迷思 接種後仍見症狀？&nbsp;&nbsp;eastweek.stheadline.com",
+      "sources": [
+        {
+          "name": "eastweek.stheadline.com",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWU95VnRiR0pDWEhnLUlRSEhkRUg4VkNDa0pYRXZZX2c1N2poOGdqdE5WZDhXTlVYUnVnV1JMRGFiblpUc05vaWRyV0dqWlk1bk44bnhzcngtVTdUWTJrV1J2dkJsbHFqT2NFS0lRNDlzeVVaa1VIakdRckluQndhQUhEUDFha1NleHRyODFQTGlJQWdid21vdkFfYTltQ1lMcE56WjVwd1piN3hqYTR3LUtRMjRPUHRGcDhGUjRYaUY1MnR3aHdqb3Y4cC0tMzhSX294cEJZbFhOQ1VGNGNVQjhIeVR3ODZ5YlgwUzJnWHJCM0x3UEE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "18ed0f4284b5",
       "title": "【長者跌倒】起床、如廁、洗澡三大危機 傷勢或延遲出現 忽視或致骨折顱內出血",
       "published": "2026-07-29T07:25:40+00:00",
@@ -448,13 +526,26 @@
       "matched_keywords": []
     },
     {
-      "id": "ab21c6fd1237",
-      "title": "親子教育│小朋友暑假手機不離手！4招擺脫「收機大戰」 建立健康數碼習慣",
-      "published": "2026-07-29T03:30:00+00:00",
-      "summary": "親子教育│小朋友暑假手機不離手！4招擺脫「收機大戰」 建立健康數碼習慣&nbsp;&nbsp;topick.hket.com",
+      "id": "fcf4696db97d",
+      "title": "市場報導： 前瞻技術脈動：醫療與健康(202629)",
+      "published": "2026-07-29T07:12:34+00:00",
+      "summary": "市場報導： 前瞻技術脈動：醫療與健康(202629)&nbsp;&nbsp;科技產業資訊室",
       "sources": [
         {
-          "name": "topick.hket.com",
+          "name": "科技產業資訊室",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFM1p5VkF5dzJyTWQyS1FuaHpicndScnFfMklKdWxnbmczblJueWtZYjZSaUtCcHAtd2ZrTjRKa1p4WTUzUThva3pyb2ozeTRaODdVc1d1RUpOMi0wZUlfZFNiWGN4d2pOSXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "75d54124cbc5",
+      "title": "親子教育│小朋友暑假手機不離手！4招擺脫「收機大戰」 建立健康數碼習慣",
+      "published": "2026-07-29T03:30:00+00:00",
+      "summary": "親子教育│小朋友暑假手機不離手！4招擺脫「收機大戰」 建立健康數碼習慣&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOSHp2bXd5ZXV0NEU4RHFyQVh0bkI2T2N6VWRtVVhxZWdvWU92blVOaGtCSXJ1YjNVX2RsbXBGYTdueHQtTzdwRmFOSWp0MFR4a05xbVhNeTJodEpYVEVaalh5UDlhOGFJUzA1cjNvcm1DQVdCbUtzLWdoYmxqTWQtSFdYbk5LWnVPQzFLWHR6MkZTcm5MWk1wd05QbmpfVGJtc2VXS2JiM3pDejViLWhXajgtVE1CSmdBUC01SVQydHhGRTUtR012LWJBejNCS2dvTjJ6czBINFV3Vm50d1hLcVdkdHFwZ21obzY0cmdCY1E1Zl9MRXVkUHJqTFdWUVdlOE94aHRRMG1EWmJ5a1VGcl9kTVV1SHU2cElILUdYV3pPek1RZm4zUGZzdVdTSTFXdHk0OHFqWUZQRHFKQXhVRW1GOGJnc1g4cTVQeE90UjlKSTNDSThualBVbThPbzVEQlBtZ2V2bEhEcWpVQjFDa0QtdFI0TERQeXlUTjVKV3dMeHhGanUyZlFkS3hCMUl6MktBMnluVjBZNHFNaUZyVzV5UGNOLWRrTVZsRmhHMm91Y0d3LWZUZGhzVzNfVHJEbG1mMUNDbDJTaTc0TUpYUnhuQldkbjFIWGhFWDQ2VEV1VWM?oc=5"
         }
       ],
@@ -482,32 +573,6 @@
         {
           "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTzRBcnZ0Ty1KRnQwUVdCWURDNkVrVU5jRGNxeU1OdWlVTlE2NlZDYThCN2NOeGgwWXFkblJGVGxXTkdDMHZIM0VHazhtMzM3TVNnM3c1a2x3R1pYNW9Vem1sV2s5ZE91eDNTaGUydUZpTWwybHhtc1o3OURMTUo5WXdpTXM5WjJXMG96ZnZNY2I?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3cea4794a054",
-      "title": "狂吹冷氣小心！研究揭「溫差逾6℃」最傷身 吃1物縮短病程",
-      "published": "2026-07-28T22:00:00+00:00",
-      "summary": "狂吹冷氣小心！研究揭「溫差逾6℃」最傷身 吃1物縮短病程&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hdjhZTE9pcnNsOWFVMWhPZ2I4RTZIeXFod3lBem15MXBpWHMtVFpUejlLb1RuLS1sVDFMSFUybjBHSW5MRXF3Nk1ZRlpFM21M?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "da1872794b36",
-      "title": "嚇！牙肉血肉模糊毫無痛感不菸不酒婦竟得口腔癌| 生活",
-      "published": "2026-07-26T22:38:04+00:00",
-      "summary": "嚇！牙肉血肉模糊毫無痛感不菸不酒婦竟得口腔癌| 生活&nbsp;&nbsp;三立新聞網SETN.com",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB2b1BDNWJ5Q0tIQ1VtcURUNjB2UDhSYmt3YXQ2bjFpTVBZb2hLNFJNd1VUU3A3LWtSUjg0d1pzeVVXMFNXZkZN?oc=5"
         }
       ],
       "matched_keywords": []

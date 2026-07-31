@@ -44,19 +44,19 @@ permalink: /news/carboplatin/
 
 ## 相關新聞（2 則）
 
-### [減重手術趁早做 台北慈濟揭乳癌風險降2成](https://news.google.com/rss/articles/CBMirgJBVV95cUxQeFkyblFBS0U4VjV4d2ZsTkZybnY5RDFkUG5XdmJpajQtWEhfWGZ3RGtscExqMWNaS1J1Sm1oc2UxOC13MzBGTUFXVU9YaG0zeHRXaldDTFRsT2ZLbkt5VURWc05vMWlZaFhZUjhPUjkxVDExV0xiaGd3TUx5eEYwZ29wRDZQRXZ1b3pwc05ab0NlcGE5Z2JCX1F0b19IU0tyU0JMSFFkVGNjR1dpeVBLeGpFVkRydTNWSHNlYkhFUmlZTDJPbHNPX0pXUmtCX0pzT1RuclZmaktpSF8ySldoQmdkZEFxSFFmc0tBNTdRSHVFODFmazlVdGV4ZXNXM3hqZFNLWGNkZ1NDUHp6cjBhdVJfSWxNRWszUDJjdThvUEY5WGxxRFNtNllZMjU0Zw?oc=5)
-
-2026-07-30 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMirgJBVV95cUxQeFkyblFBS0U4VjV4d2ZsTkZybnY5RDFkUG5XdmJpajQtWEhfWGZ3RGtscExqMWNaS1J1Sm1oc2UxOC13MzBGTUFXVU9YaG0zeHRXaldDTFRsT2ZLbkt5VURWc05vMWlZaFhZUjhPUjkxVDExV0xiaGd3TUx5eEYwZ29wRDZQRXZ1b3pwc05ab0NlcGE5Z2JCX1F0b19IU0tyU0JMSFFkVGNjR1dpeVBLeGpFVkRydTNWSHNlYkhFUmlZTDJPbHNPX0pXUmtCX0pzT1RuclZmaktpSF8ySldoQmdkZEFxSFFmc0tBNTdRSHVFODFmazlVdGV4ZXNXM3hqZFNLWGNkZ1NDUHp6cjBhdVJfSWxNRWszUDJjdThvUEY5WGxxRFNtNllZMjU0Zw?oc=5)
-
----
-
 ### [男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年](https://news.google.com/rss/articles/CBMixwFBVV95cUxNYnJSWjBkSzZkNmNFNHNXblJKVlk3aGZYWkdRRThzLUc5aW9lOFVOeXN2eEJod2JjeUFlMlM2RjJvaFJuMHpXcEJaNU5FR2xyYl9yVUZBWHBZdDVydURoNDlpVTRKeVVuRmdhRUtGb0FVazRYQ3YtOXFhSlVhT1FwM3BySXctX1E5YkZRTXN3dmcxSFBySnFvSjhZaTdCaU1fUFBKd0pVMHU4TWFob0xaYy1tSExFZTBpeXI5WGJvYThtQ0pDY00w?oc=5)
 
 2026-07-30 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMixwFBVV95cUxNYnJSWjBkSzZkNmNFNHNXblJKVlk3aGZYWkdRRThzLUc5aW9lOFVOeXN2eEJod2JjeUFlMlM2RjJvaFJuMHpXcEJaNU5FR2xyYl9yVUZBWHBZdDVydURoNDlpVTRKeVVuRmdhRUtGb0FVazRYQ3YtOXFhSlVhT1FwM3BySXctX1E5YkZRTXN3dmcxSFBySnFvSjhZaTdCaU1fUFBKd0pVMHU4TWFob0xaYy1tSExFZTBpeXI5WGJvYThtQ0pDY00w?oc=5)
+
+---
+
+### [年死3000人！BMI破35乳癌風險飆 研究：及早減重手術「風險大降2成」](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CcWpuemZDeEd0Q281c1BrQUdjbVptZ0dZZzZUaS1mWkgyZHV4V1JrVThiVDBkMTgtc0llYWdnTm5Hei1zWDJBOGxRalA?oc=5)
+
+2026-07-30 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">乳癌</span>
+
+來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CcWpuemZDeEd0Q281c1BrQUdjbVptZ0dZZzZUaS1mWkgyZHV4V1JrVThiVDBkMTgtc0llYWdnTm5Hei1zWDJBOGxRalA?oc=5)
 
 ---
 
