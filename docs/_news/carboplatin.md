@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,19 +42,27 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年](https://news.google.com/rss/articles/CBMixwFBVV95cUxNYnJSWjBkSzZkNmNFNHNXblJKVlk3aGZYWkdRRThzLUc5aW9lOFVOeXN2eEJod2JjeUFlMlM2RjJvaFJuMHpXcEJaNU5FR2xyYl9yVUZBWHBZdDVydURoNDlpVTRKeVVuRmdhRUtGb0FVazRYQ3YtOXFhSlVhT1FwM3BySXctX1E5YkZRTXN3dmcxSFBySnFvSjhZaTdCaU1fUFBKd0pVMHU4TWFob0xaYy1tSExFZTBpeXI5WGJvYThtQ0pDY00w?oc=5)
+### [不只壯陽！研究證實「威而鋼」可能阻斷癌細胞轉移 搭配1款藥癌症存活率大增](https://news.google.com/rss/articles/CBMizgNBVV95cUxNd281aHljaWg0ajhfRm96NFJFdUNtVE9qbnlrMUdLVWpMVW1QSkZsRGM2SnlaSlZ3ZVRQVGhqb1pzMy0wU3FRWVp1ajBIWDhrNGxGUDhHWHRENFFXTjQ5amRaT3JWa1ZEZ3J0WFJsSEhpaU1LT1YxYm5hLVNGWWFLb1BRYm9qNENrWWdfaUdpcmdpNUxVRkttS2xMT1J3aXdSb0djUEg2YlAzVE9SNmpEd1RIY3A2V3FCampmR1BFdDRPOGdHODhzN1REdWtOLWNJbkZ2NTFDelZuYjFXN2xNcVppSFhoSkhPV21wZk1WaG10azRRckxVS3J5OWp2bjFjVmhhWmFMRGowRXVJMm5pcG1hWkpjemRnMzgtVXdFSnh5UmJrQ05ldWxiSm5rWlYyRDByYW9Bbkh0bVJKYndralVnbTRFOG1MWEVvQWNaU3pyT2lVWkxBc3lLSnNsZE9RYWQyTERka3kxdElmUUVlX0tvMDdNTzNUR3EtMlBmSzYtTzhIdGlqVjZPNE9MVGlVa3VxRUZ3cTBGdTltTFdzSEZZMmkzNkFSWkxHNHNkNnpTUmlRNkl5QjVVMFNwWDNTTE1FenFPakpIMGtIdlE?oc=5)
+
+2026-07-31 <span class="news-indication-tag">癌症</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMizgNBVV95cUxNd281aHljaWg0ajhfRm96NFJFdUNtVE9qbnlrMUdLVWpMVW1QSkZsRGM2SnlaSlZ3ZVRQVGhqb1pzMy0wU3FRWVp1ajBIWDhrNGxGUDhHWHRENFFXTjQ5amRaT3JWa1ZEZ3J0WFJsSEhpaU1LT1YxYm5hLVNGWWFLb1BRYm9qNENrWWdfaUdpcmdpNUxVRkttS2xMT1J3aXdSb0djUEg2YlAzVE9SNmpEd1RIY3A2V3FCampmR1BFdDRPOGdHODhzN1REdWtOLWNJbkZ2NTFDelZuYjFXN2xNcVppSFhoSkhPV21wZk1WaG10azRRckxVS3J5OWp2bjFjVmhhWmFMRGowRXVJMm5pcG1hWkpjemRnMzgtVXdFSnh5UmJrQ05ldWxiSm5rWlYyRDByYW9Bbkh0bVJKYndralVnbTRFOG1MWEVvQWNaU3pyT2lVWkxBc3lLSnNsZE9RYWQyTERka3kxdElmUUVlX0tvMDdNTzNUR3EtMlBmSzYtTzhIdGlqVjZPNE9MVGlVa3VxRUZ3cTBGdTltTFdzSEZZMmkzNkFSWkxHNHNkNnpTUmlRNkl5QjVVMFNwWDNTTE1FenFPakpIMGtIdlE?oc=5)
+
+---
+
+### [男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YOGxIR0FLVVQxbV9yX1diQ3pJbnpxWXpzRGRmZ09GMGRSSmdOOVdVWHZ5RkpSRW40X2hKYmxqVnBsUkZTSmpVZHlJS1VPOGVfcHN3UW16SWhncHc?oc=5)
 
 2026-07-30 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMixwFBVV95cUxNYnJSWjBkSzZkNmNFNHNXblJKVlk3aGZYWkdRRThzLUc5aW9lOFVOeXN2eEJod2JjeUFlMlM2RjJvaFJuMHpXcEJaNU5FR2xyYl9yVUZBWHBZdDVydURoNDlpVTRKeVVuRmdhRUtGb0FVazRYQ3YtOXFhSlVhT1FwM3BySXctX1E5YkZRTXN3dmcxSFBySnFvSjhZaTdCaU1fUFBKd0pVMHU4TWFob0xaYy1tSExFZTBpeXI5WGJvYThtQ0pDY00w?oc=5)
+來源：[Newtalk新聞](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YOGxIR0FLVVQxbV9yX1diQ3pJbnpxWXpzRGRmZ09GMGRSSmdOOVdVWHZ5RkpSRW40X2hKYmxqVnBsUkZTSmpVZHlJS1VPOGVfcHN3UW16SWhncHc?oc=5)
 
 ---
 
 ### [年死3000人！BMI破35乳癌風險飆 研究：及早減重手術「風險大降2成」](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CcWpuemZDeEd0Q281c1BrQUdjbVptZ0dZZzZUaS1mWkgyZHV4V1JrVThiVDBkMTgtc0llYWdnTm5Hei1zWDJBOGxRalA?oc=5)
 
-2026-07-30 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">乳癌</span>
+2026-07-30 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">乳癌</span>
 
 來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CcWpuemZDeEd0Q281c1BrQUdjbVptZ0dZZzZUaS1mWkgyZHV4V1JrVThiVDBkMTgtc0llYWdnTm5Hei1zWDJBOGxRalA?oc=5)
 

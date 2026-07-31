@@ -14,7 +14,7 @@ permalink: /news/nitrofurantoin/
 ---
 
 <p class="key-answer" data-question="Nitrofurantoin 有什麼相關新聞？">
-<strong>Nitrofurantoin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nitrofurantoin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,22 +35,16 @@ permalink: /news/nitrofurantoin/
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（99.7%）</li>
 <li>sclerosing cholangitis（99.6%）</li>
 <li>methemoglobinemia, alpha type（99.4%）</li>
-<li class="indication-matched">gout（99.4%）<span class="indication-tag">📰 痛風</span></li>
+<li>gout（99.4%）</li>
 <li>methemoglobinemia（99.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nitrofurantoin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [戒紅肉痛風照樣發作？醫揭隱形地雷：果汁、白吐司都上榜- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTFAyWEUzRmdNVjdjdzIxVW13QV9ZbU9xZm5VRGhVcGZaaGxLdEdUdEtvdjd2bmFiamoyNHZRYk0tUy1La0JNMXBBcG43c3FraVBCY3dFZ2lFRXZndVBTUS1idlNOeV9NMGxyVlJkVXl3?oc=5)
-
-2026-07-30 <span class="news-indication-tag">痛風</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFAyWEUzRmdNVjdjdzIxVW13QV9ZbU9xZm5VRGhVcGZaaGxLdEdUdEtvdjd2bmFiamoyNHZRYk0tUy1La0JNMXBBcG43c3FraVBCY3dFZ2lFRXZndVBTUS1idlNOeV9NMGxyVlJkVXl3?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

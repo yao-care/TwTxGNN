@@ -46,7 +46,7 @@ permalink: /news/isosorbide_dinitrate/
 
 ### [年死3000人！BMI破35乳癌風險飆 研究：及早減重手術「風險大降2成」](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CcWpuemZDeEd0Q281c1BrQUdjbVptZ0dZZzZUaS1mWkgyZHV4V1JrVThiVDBkMTgtc0llYWdnTm5Hei1zWDJBOGxRalA?oc=5)
 
-2026-07-30 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">乳癌</span>
+2026-07-30 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">乳癌</span>
 
 來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CcWpuemZDeEd0Q281c1BrQUdjbVptZ0dZZzZUaS1mWkgyZHV4V1JrVThiVDBkMTgtc0llYWdnTm5Hei1zWDJBOGxRalA?oc=5)
 
