@@ -55,7 +55,7 @@ permalink: /news/gefitinib/
 
 2026-07-31 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[bbc.com](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9adTBOUUNidzFPaFlTV2FQWFpnZHVtMHRzLWtHNE1IUHo5UUk3T2owY3gyY3lGcUp4VXM5SEY4ak5YMXBsUTlTcTlDZlMtTHdqNlltb092VllBQ280MkNORXBCWEFGQdIBa0FVX3lxTE9iclNMNEtDTUxXVEhJREhVNXF5Z0piOW9CeFZSNGdpMlFyRndQUHhTbzdCQjdMMFJsNkVFV1FVTEVYLUZtd1JWZ05lYjM2UDdkT1RMelVhbzVEWDFjaTZ5WFJwaXFKV2pqTDlF?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9adTBOUUNidzFPaFlTV2FQWFpnZHVtMHRzLWtHNE1IUHo5UUk3T2owY3gyY3lGcUp4VXM5SEY4ak5YMXBsUTlTcTlDZlMtTHdqNlltb092VllBQ280MkNORXBCWEFGQdIBa0FVX3lxTE9iclNMNEtDTUxXVEhJREhVNXF5Z0piOW9CeFZSNGdpMlFyRndQUHhTbzdCQjdMMFJsNkVFV1FVTEVYLUZtd1JWZ05lYjM2UDdkT1RMelVhbzVEWDFjaTZ5WFJwaXFKV2pqTDlF?oc=5)
 
 ---
 
@@ -63,7 +63,7 @@ permalink: /news/gefitinib/
 
 2026-07-30 <span class="news-indication-tag">癌症</span>
 
-來源：[news.ebc.net.tw](https://news.google.com/rss/articles/CBMiVEFVX3lxTE45RFJLa3BkeWx6MWZYN3dIMEVXR2cxX05FZ3JKbzlpSFZaVmR0UnI0SF83TndVZ0dSX3p4cTFOaHpMOUVGVThUdWJPRjhpWi1VNk1IZw?oc=5)
+來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE45RFJLa3BkeWx6MWZYN3dIMEVXR2cxX05FZ3JKbzlpSFZaVmR0UnI0SF83TndVZ0dSX3p4cTFOaHpMOUVGVThUdWJPRjhpWi1VNk1IZw?oc=5)
 
 ---
 
