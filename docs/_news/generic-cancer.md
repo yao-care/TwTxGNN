@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,13 +75,21 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [手腳細細肚子大？當心青蛙型肥胖引爆癌症危機！](https://news.google.com/rss/articles/CBMiVEFVX3lxTE45RFJLa3BkeWx6MWZYN3dIMEVXR2cxX05FZ3JKbzlpSFZaVmR0UnI0SF83TndVZ0dSX3p4cTFOaHpMOUVGVThUdWJPRjhpWi1VNk1IZw?oc=5)
 
 2026-07-30
 
 來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE45RFJLa3BkeWx6MWZYN3dIMEVXR2cxX05FZ3JKbzlpSFZaVmR0UnI0SF83TndVZ0dSX3p4cTFOaHpMOUVGVThUdWJPRjhpWi1VNk1IZw?oc=5)
+
+---
+
+### [防癌飲食｜早餐食錯變惹癌上身癌症名醫提3大致癌地雷每日4塊火腿經已超標| 飲食營養](https://news.google.com/rss/articles/CBMizAFBVV95cUxOdmRCUExVYnhTalhFY01fVjc4bHVkMzdETnZPN1JuaTNvUGc2NmpqU1JTRlFMSWVYQ1NvMXVvT1Y5VlFEdnlVSklqZDFwaFJHZTRzSlVkaDF4c2dJaWI5bGc3QzRja3drY1ZocFFHZjY3c0Vsc1lhRUhDMEQtaWw0U2t1NXQ2dFRmenBuOXM4Snl2NFhPOGljbERZbDRscmhPbG1TWnVwVTFPMGdfREw4cVFDeVFubTZVazF2bndEMnFBc1d4d3hCajc2Vnc?oc=5)
+
+2026-07-30
+
+來源：[東方新地](https://news.google.com/rss/articles/CBMizAFBVV95cUxOdmRCUExVYnhTalhFY01fVjc4bHVkMzdETnZPN1JuaTNvUGc2NmpqU1JTRlFMSWVYQ1NvMXVvT1Y5VlFEdnlVSklqZDFwaFJHZTRzSlVkaDF4c2dJaWI5bGc3QzRja3drY1ZocFFHZjY3c0Vsc1lhRUhDMEQtaWw0U2t1NXQ2dFRmenBuOXM4Snl2NFhPOGljbERZbDRscmhPbG1TWnVwVTFPMGdfREw4cVFDeVFubTZVazF2bndEMnFBc1d4d3hCajc2Vnc?oc=5)
 
 ---
 

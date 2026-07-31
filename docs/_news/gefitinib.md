@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [兩歲前限制攝取糖分與較佳腦部健康有關聯——香港科大廣州分校研究](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9adTBOUUNidzFPaFlTV2FQWFpnZHVtMHRzLWtHNE1IUHo5UUk3T2owY3gyY3lGcUp4VXM5SEY4ak5YMXBsUTlTcTlDZlMtTHdqNlltb092VllBQ280MkNORXBCWEFGQdIBa0FVX3lxTE9iclNMNEtDTUxXVEhJREhVNXF5Z0piOW9CeFZSNGdpMlFyRndQUHhTbzdCQjdMMFJsNkVFV1FVTEVYLUZtd1JWZ05lYjM2UDdkT1RMelVhbzVEWDFjaTZ5WFJwaXFKV2pqTDlF?oc=5)
 
@@ -64,6 +64,14 @@ permalink: /news/gefitinib/
 2026-07-30 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE82eThUcldSSWZPZEtwX3RhcVdOUDRpMUpjQ0VIZlFHcy1heERxa0pWTTdEclJLNTdNYm84WFZlVkJNUGQ3NV9IRHdoNWV6Y2tjOGNublNyUHpHWlNwWFpiZ1V4NDU?oc=5)
+
+---
+
+### [防癌飲食｜早餐食錯變惹癌上身癌症名醫提3大致癌地雷每日4塊火腿經已超標| 飲食營養](https://news.google.com/rss/articles/CBMizAFBVV95cUxOdmRCUExVYnhTalhFY01fVjc4bHVkMzdETnZPN1JuaTNvUGc2NmpqU1JTRlFMSWVYQ1NvMXVvT1Y5VlFEdnlVSklqZDFwaFJHZTRzSlVkaDF4c2dJaWI5bGc3QzRja3drY1ZocFFHZjY3c0Vsc1lhRUhDMEQtaWw0U2t1NXQ2dFRmenBuOXM4Snl2NFhPOGljbERZbDRscmhPbG1TWnVwVTFPMGdfREw4cVFDeVFubTZVazF2bndEMnFBc1d4d3hCajc2Vnc?oc=5)
+
+2026-07-30 <span class="news-indication-tag">癌症</span>
+
+來源：[東方新地](https://news.google.com/rss/articles/CBMizAFBVV95cUxOdmRCUExVYnhTalhFY01fVjc4bHVkMzdETnZPN1JuaTNvUGc2NmpqU1JTRlFMSWVYQ1NvMXVvT1Y5VlFEdnlVSklqZDFwaFJHZTRzSlVkaDF4c2dJaWI5bGc3QzRja3drY1ZocFFHZjY3c0Vsc1lhRUhDMEQtaWw0U2t1NXQ2dFRmenBuOXM4Snl2NFhPOGljbERZbDRscmhPbG1TWnVwVTFPMGdfREw4cVFDeVFubTZVazF2bndEMnFBc1d4d3hCajc2Vnc?oc=5)
 
 ---
 
