@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [兩歲前限制攝取糖分與較佳腦部健康有關聯——香港科大廣州分校研究](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9adTBOUUNidzFPaFlTV2FQWFpnZHVtMHRzLWtHNE1IUHo5UUk3T2owY3gyY3lGcUp4VXM5SEY4ak5YMXBsUTlTcTlDZlMtTHdqNlltb092VllBQ280MkNORXBCWEFGQdIBa0FVX3lxTE9iclNMNEtDTUxXVEhJREhVNXF5Z0piOW9CeFZSNGdpMlFyRndQUHhTbzdCQjdMMFJsNkVFV1FVTEVYLUZtd1JWZ05lYjM2UDdkT1RMelVhbzVEWDFjaTZ5WFJwaXFKV2pqTDlF?oc=5)
 
@@ -63,15 +63,7 @@ permalink: /news/gefitinib/
 
 2026-07-30 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE82eThUcldSSWZPZEtwX3RhcVdOUDRpMUpjQ0VIZlFHcy1heERxa0pWTTdEclJLNTdNYm84WFZlVkJNUGQ3NV9IRHdoNWV6Y2tjOGNublNyUHpHWlNwWFpiZ1V4NDU?oc=5)
-
----
-
-### [走路速度和大腦年齡有關？最新研究：走路愈快愈長壽、失智風險降低60% - Harper's BAZAAR](https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1ZkREs4bWFqVHpKTjl0TDlkTjBkU0ZGNUQzOUh5UXdsOGotY0x5YVZhUEdEdkpORlpDM0swZkh0NDEweVpEX0hhcVU5bURLeFBFNEJZYTB5bTlaUEwyeXBvX25NVG9rRDFNRFN1UU1HM3RBdmlnTU1nVHJNZ0dZUExBYlF2T1NGSDA0alJFeVZaT2lfRzRUSVNENFI?oc=5)
-
-2026-07-30 <span class="news-indication-tag">失智</span>
-
-來源：[Harper's BAZAAR](https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1ZkREs4bWFqVHpKTjl0TDlkTjBkU0ZGNUQzOUh5UXdsOGotY0x5YVZhUEdEdkpORlpDM0swZkh0NDEweVpEX0hhcVU5bURLeFBFNEJZYTB5bTlaUEwyeXBvX25NVG9rRDFNRFN1UU1HM3RBdmlnTU1nVHJNZ0dZUExBYlF2T1NGSDA0alJFeVZaT2lfRzRUSVNENFI?oc=5)
+來源：[health.ltn.com.tw](https://news.google.com/rss/articles/CBMiZEFVX3lxTE82eThUcldSSWZPZEtwX3RhcVdOUDRpMUpjQ0VIZlFHcy1heERxa0pWTTdEclJLNTdNYm84WFZlVkJNUGQ3NV9IRHdoNWV6Y2tjOGNublNyUHpHWlNwWFpiZ1V4NDU?oc=5)
 
 ---
 
