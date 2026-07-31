@@ -1,7 +1,31 @@
 {
-  "generated": "2026-07-31T15:55:10.672565+00:00",
-  "count": 6,
+  "generated": "2026-07-31T17:20:16.509370+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "c9523ae1d79e",
+      "title": "研究顯示：中壯年人維生素D水準與降低阿茲海默症風險相關- 國際",
+      "published": "2026-07-31T15:53:00+00:00",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0ySWp6VV9XRkJXVWdPTWZxN3pzb19LZzZWdDVtb2pacUQzX2dqeFVIa3JuTG5GaExPVWlSeVFkVmVmdi1sUURTVGt3OHVBUF91blY1WkxEczVTQzYtZTJR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "93e611d4e33c",
       "title": "兩歲前限制攝取糖分與較佳腦部健康有關聯——香港科大廣州分校研究",

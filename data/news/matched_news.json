@@ -1,8 +1,33 @@
 {
-  "last_updated": "2026-07-31T15:55:10.644095+00:00",
+  "last_updated": "2026-07-31T17:20:16.479800+00:00",
   "total_count": 19,
-  "matched_count": 6,
+  "matched_count": 7,
   "news": [
+    {
+      "id": "c9523ae1d79e",
+      "title": "研究顯示：中壯年人維生素D水準與降低阿茲海默症風險相關- 國際",
+      "published": "2026-07-31T15:53:00+00:00",
+      "summary": "研究顯示：中壯年人維生素D水準與降低阿茲海默症風險相關- 國際&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0ySWp6VV9XRkJXVWdPTWZxN3pzb19LZzZWdDVtb2pacUQzX2dqeFVIa3JuTG5GaExPVWlSeVFkVmVmdi1sUURTVGt3OHVBUF91blY1WkxEczVTQzYtZTJR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "675cc4a1b8ac",
       "title": "威而鋼新用處？研究揭「有望阻擋癌細胞轉移」",
@@ -17,26 +42,26 @@
       "matched_keywords": []
     },
     {
-      "id": "2d91f33c29e8",
+      "id": "171383e0bea6",
       "title": "維他命B12吃得多竟致癌？丹麥33萬人研究：患癌風險高6倍 醫生拆解迷思 與1大警號有關",
       "published": "2026-07-31T08:00:00+00:00",
-      "summary": "維他命B12吃得多竟致癌？丹麥33萬人研究：患癌風險高6倍 醫生拆解迷思 與1大警號有關&nbsp;&nbsp;stheadline.com",
+      "summary": "維他命B12吃得多竟致癌？丹麥33萬人研究：患癌風險高6倍 醫生拆解迷思 與1大警號有關&nbsp;&nbsp;星島頭條",
       "sources": [
         {
-          "name": "stheadline.com",
+          "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNSGtMcnZ0N1BJZm52QjM2YV94MEp0MUMzOF9xOUotWThUWlVISDByY18tdW8zbmtsZzRWY2o3TVc4OEV2dU1oclVYVzk3dFBQUTAtSGhxemRXMjNZOExvd3o2YUo2RndrcWYyLTRNQnZZOFozaWpQQkxrVjBpdzlhTXphQTlTdDhBbHRkenJKdVU5N25uZzlsaU93RVhtVUFmYTZ5UFZFbTI1dFZ2cjBMR2lEZ1RmY1pxbUhZTDlNSjJkWUR0WnA1YXc2eG1aLXhOV1ItaDNfYXBqOG9INF94Rk9COTBtVG9ZcjM2S2xKLWJiRm1fcm5DNGJoN2VMWTdfLVM1TjdoQlVFODJxa3htNzRKa28yMjVGX3NoY3hueG5jLU9HUGY2S0hDMmNLbU5SaVVzY1Y4aFE0TXVzakNCUjRtOWR1a0I0bW92SW8zR0ViOV9DREQ5ejNUTVhNMS1jbklSWFRRYllySUdqanVnT3JsVWhYbkJEYjhqU2NwZDBhZVliSEtKaXBvOXZsc0hwVy1UTEFPSW9jdkJUeEVLb3luYkdvOVh0eGdrRjZEWnZraGdzLXZHaDNSLS1SODY1LVgtbUZWYmpLR0JnOGJiUnVmN0x6bjhMelEzV1lLX0pWUFItYzFMQVFLVGExMHVlT0I0?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "0c9bbb66f488",
+      "id": "d8f5790df251",
       "title": "新東誌｜微創介入，精準守護：威爾斯親王醫院介入放射服務",
       "published": "2026-07-31T02:08:32+00:00",
-      "summary": "新東誌｜微創介入，精準守護：威爾斯親王醫院介入放射服務&nbsp;&nbsp;orangenews.hk",
+      "summary": "新東誌｜微創介入，精準守護：威爾斯親王醫院介入放射服務&nbsp;&nbsp;橙新聞",
       "sources": [
         {
-          "name": "orangenews.hk",
+          "name": "橙新聞",
           "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQeU4yZUdjVC1zeUhJZ3BMc3FaY3c4MFBNQWNnVi1fb0tvR1ZzdTVWdWs1cFdYc19USm45WGxNcmJFUmRWSDBsRmJoTDM3ZUx1d2Rlb1dGWi1oalRybTBKVm5ERFJ5bWZRQm9pT2ExbGF0THdHTzc4emkxRGV3UVpkR2Y1Tm1oOXR4S0RMUXBuOGdONXNRMUJYUDF1Zko5WkN2eUhnRTZMV0pXSjFveVZrQ1gzYXFDVzN6NTBqeGdmRVBkMjBkQ1NJUm9EeWp5Wnl4Mjg1VjdfUW8xN3M5Q3RXQ2lsQXRkMldXSHdqMm9RZHBQNWw0TGp0SmlJX2JhaTFoQkgxRktFWEhWOElsR2JJT1dUZ2gtd2Nrd3RfQ2R6WDc5dnBZX25CT0lRQmdESmI1QkZ2Rm1TaEpPeHJwanZtQlgteEV0ODJZZXk5NDRkZ2N4UVYwekhCWHBlc2RWT3ZnYTFLNktIWjNlME1KLW1LbE9QeFNTNFN6SHpnc19raFRjbXQt?oc=5"
         }
       ],
@@ -77,19 +102,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "467b5dfdbce1",
-      "title": "Airbnb公布加拿大10大最熱門社區　全國多地上榜",
-      "published": "2026-07-30T18:58:35+00:00",
-      "summary": "Airbnb公布加拿大10大最熱門社區 全國多地上榜&nbsp;&nbsp;singtao.ca",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOOGVxWm5qV2JHQnZUdWFjWGlnYXRUbjRKYW1OcFBjQV91ZWdZaC1PbG9LYjl3V2R0LW5fYk85TnNkSHdhWjRFdkNMU015a2RpM1lpRVpZVWRGRktXQjYxaVpabTVhYUh3LWZrYWFpSmdWX1duRTN3cmVKeE42cWNaWDJjNUQwZkJ5ZUhuX3lMRXd1aGlCSW5fY2xlcFRmY2NjeWJ0VjZ1X1RTcFU2bmkwaFhRckxUSlRiSVVJY01qY3FQQk9VdWUxYVdwVnRoNm5RSlJFbnBzclZGQks4UWJJRFJ5RGs0dDFfR3hRWkNyRHNYUndsbUI5eGptbm5aelJuS2VhS21EWUR6UHFBbUpuVUEtMXp4aDJZakxQcHBHa2ZIVzMzZkVfRUgxQ01EUDZEaXRVcjA4MG5sR010cy1WZmI1MktGb3fSAY8BQVVfeXFMTWw3a1hFdEJYTDA0LUV2RHBZSVBBNnFFeldta2V3a0QyenJRbFVqNVRtcW5Vb3VNd3ZSVXlhWjFFX1N2aWVkaWNDYVBaSE5iZWxJdFFyS0Ftc3dnN1BLXzBwaVdabDBqZDh0dlZzNnpMMnhNODVVdGdaWG5lUVBnYTVVV3huQXlwWndQSTVsUGs?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "ab743b692ae4",
