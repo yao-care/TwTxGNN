@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-07-31T22:56:32.752632+00:00",
+  "fetched_at": "2026-07-31T23:56:54.226459+00:00",
   "count": 19,
   "news": [
     {
@@ -31,7 +31,7 @@
       "id": "93e611d4e33c",
       "title": "兩歲前限制攝取糖分與較佳腦部健康有關聯——香港科大廣州分校研究 - BBC",
       "published": "2026-07-31T00:29:10+00:00",
-      "summary": "兩歲前限制攝取糖分與較佳腦部健康有關聯——香港科大廣州分校研究&nbsp;&nbsp;BBC香港科大研究：兩歲前限制攝取糖分與較佳腦部健康有關聯&nbsp;&nbsp;Yahoo新聞研究：年幼時少吃糖 日後罹患失智症風險降低&nbsp;&nbsp;大纪元兩歲前少吃糖 長大後失智風險降低23%？&nbsp;&nbsp;Taiwan News研究證實：兩歲前限制糖分攝取有助日後降低失智症風險- 國際&nbsp;&nbsp;工商時報",
+      "summary": "兩歲前限制攝取糖分與較佳腦部健康有關聯——香港科大廣州分校研究&nbsp;&nbsp;BBC香港科大研究：兩歲前限制攝取糖分與較佳腦部健康有關聯&nbsp;&nbsp;Yahoo新聞研究：年幼時少吃糖 日後罹患失智症風險降低&nbsp;&nbsp;大纪元兩歲前少吃糖 長大後失智風險降低23%？&nbsp;&nbsp;taiwannews.com.tw研究證實：兩歲前限制糖分攝取有助日後降低失智症風險- 國際&nbsp;&nbsp;工商時報",
       "sources": [
         {
           "name": "BBC",
@@ -40,25 +40,13 @@
       ]
     },
     {
-      "id": "a9f23e41162f",
-      "title": "大腦藏有天然守門員！研究揭阿茲海默症惡化新關鍵 - 自由健康網",
-      "published": "2026-07-30T06:34:00+00:00",
-      "summary": "大腦藏有天然守門員！研究揭阿茲海默症惡化新關鍵&nbsp;&nbsp;自由健康網有阿茲海默病變不一定失智 研究揭大腦關鍵轉折&nbsp;&nbsp;soundofhope.org研究：阿茲海默症睡眠障礙 可能有關免疫細胞反應&nbsp;&nbsp;自由健康網腦有阿茲海默病變不一定失智 研究揭大腦關鍵轉折&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82eThUcldSSWZPZEtwX3RhcVdOUDRpMUpjQ0VIZlFHcy1heERxa0pWTTdEclJLNTdNYm84WFZlVkJNUGQ3NV9IRHdoNWV6Y2tjOGNublNyUHpHWlNwWFpiZ1V4NDU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab743b692ae4",
-      "title": "智利木乃伊驚現天花病毒DNA 揭西班牙殖民滅絕歷史 - 民視健康長照網",
+      "id": "1f35883c6db9",
+      "title": "智利木乃伊驚現天花病毒DNA 揭西班牙殖民滅絕歷史 - health.ftvnews.com.tw",
       "published": "2026-07-30T18:48:21+00:00",
-      "summary": "智利木乃伊驚現天花病毒DNA 揭西班牙殖民滅絕歷史&nbsp;&nbsp;民視健康長照網",
+      "summary": "智利木乃伊驚現天花病毒DNA 揭西班牙殖民滅絕歷史&nbsp;&nbsp;health.ftvnews.com.tw",
       "sources": [
         {
-          "name": "民視健康長照網",
+          "name": "health.ftvnews.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ic045TEFKZ2t0N2N4bl80a0JGdFZlQk01WmR1V1ZEMV9FdFh4anRmcXI4cjZwSnM1bERINTZpTnhqZkZJNmczeFdGc2x3SFpISFRNYmpnR1hyVl9vUHV6SGh4M3Q?oc=5"
         }
       ]
@@ -96,6 +84,18 @@
         {
           "name": "東森新聞",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45RFJLa3BkeWx6MWZYN3dIMEVXR2cxX05FZ3JKbzlpSFZaVmR0UnI0SF83TndVZ0dSX3p4cTFOaHpMOUVGVThUdWJPRjhpWi1VNk1IZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a9f23e41162f",
+      "title": "大腦藏有天然守門員！研究揭阿茲海默症惡化新關鍵 - 自由健康網",
+      "published": "2026-07-30T06:34:00+00:00",
+      "summary": "大腦藏有天然守門員！研究揭阿茲海默症惡化新關鍵&nbsp;&nbsp;自由健康網有阿茲海默病變不一定失智 研究揭大腦關鍵轉折&nbsp;&nbsp;soundofhope.org研究：阿茲海默症睡眠障礙 可能有關免疫細胞反應&nbsp;&nbsp;自由健康網腦有阿茲海默病變不一定失智 研究揭大腦關鍵轉折&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82eThUcldSSWZPZEtwX3RhcVdOUDRpMUpjQ0VIZlFHcy1heERxa0pWTTdEclJLNTdNYm84WFZlVkJNUGQ3NV9IRHdoNWV6Y2tjOGNublNyUHpHWlNwWFpiZ1V4NDU?oc=5"
         }
       ]
     },
@@ -196,37 +196,37 @@
       ]
     },
     {
-      "id": "2d91f33c29e8",
-      "title": "維他命B12吃得多竟致癌？丹麥33萬人研究：患癌風險高6倍 醫生拆解迷思 與1大警號有關 - stheadline.com",
+      "id": "171383e0bea6",
+      "title": "維他命B12吃得多竟致癌？丹麥33萬人研究：患癌風險高6倍 醫生拆解迷思 與1大警號有關 - 星島頭條",
       "published": "2026-07-31T08:00:00+00:00",
-      "summary": "維他命B12吃得多竟致癌？丹麥33萬人研究：患癌風險高6倍 醫生拆解迷思 與1大警號有關&nbsp;&nbsp;stheadline.com",
+      "summary": "維他命B12吃得多竟致癌？丹麥33萬人研究：患癌風險高6倍 醫生拆解迷思 與1大警號有關&nbsp;&nbsp;星島頭條",
       "sources": [
         {
-          "name": "stheadline.com",
+          "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNSGtMcnZ0N1BJZm52QjM2YV94MEp0MUMzOF9xOUotWThUWlVISDByY18tdW8zbmtsZzRWY2o3TVc4OEV2dU1oclVYVzk3dFBQUTAtSGhxemRXMjNZOExvd3o2YUo2RndrcWYyLTRNQnZZOFozaWpQQkxrVjBpdzlhTXphQTlTdDhBbHRkenJKdVU5N25uZzlsaU93RVhtVUFmYTZ5UFZFbTI1dFZ2cjBMR2lEZ1RmY1pxbUhZTDlNSjJkWUR0WnA1YXc2eG1aLXhOV1ItaDNfYXBqOG9INF94Rk9COTBtVG9ZcjM2S2xKLWJiRm1fcm5DNGJoN2VMWTdfLVM1TjdoQlVFODJxa3htNzRKa28yMjVGX3NoY3hueG5jLU9HUGY2S0hDMmNLbU5SaVVzY1Y4aFE0TXVzakNCUjRtOWR1a0I0bW92SW8zR0ViOV9DREQ5ejNUTVhNMS1jbklSWFRRYllySUdqanVnT3JsVWhYbkJEYjhqU2NwZDBhZVliSEtKaXBvOXZsc0hwVy1UTEFPSW9jdkJUeEVLb3luYkdvOVh0eGdrRjZEWnZraGdzLXZHaDNSLS1SODY1LVgtbUZWYmpLR0JnOGJiUnVmN0x6bjhMelEzV1lLX0pWUFItYzFMQVFLVGExMHVlT0I0?oc=5"
         }
       ]
     },
     {
-      "id": "0c9bbb66f488",
-      "title": "新東誌｜微創介入，精準守護：威爾斯親王醫院介入放射服務 - orangenews.hk",
+      "id": "d8f5790df251",
+      "title": "新東誌｜微創介入，精準守護：威爾斯親王醫院介入放射服務 - 橙新聞",
       "published": "2026-07-31T02:08:32+00:00",
-      "summary": "新東誌｜微創介入，精準守護：威爾斯親王醫院介入放射服務&nbsp;&nbsp;orangenews.hk",
+      "summary": "新東誌｜微創介入，精準守護：威爾斯親王醫院介入放射服務&nbsp;&nbsp;橙新聞",
       "sources": [
         {
-          "name": "orangenews.hk",
+          "name": "橙新聞",
           "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQeU4yZUdjVC1zeUhJZ3BMc3FaY3c4MFBNQWNnVi1fb0tvR1ZzdTVWdWs1cFdYc19USm45WGxNcmJFUmRWSDBsRmJoTDM3ZUx1d2Rlb1dGWi1oalRybTBKVm5ERFJ5bWZRQm9pT2ExbGF0THdHTzc4emkxRGV3UVpkR2Y1Tm1oOXR4S0RMUXBuOGdONXNRMUJYUDF1Zko5WkN2eUhnRTZMV0pXSjFveVZrQ1gzYXFDVzN6NTBqeGdmRVBkMjBkQ1NJUm9EeWp5Wnl4Mjg1VjdfUW8xN3M5Q3RXQ2lsQXRkMldXSHdqMm9RZHBQNWw0TGp0SmlJX2JhaTFoQkgxRktFWEhWOElsR2JJT1dUZ2gtd2Nrd3RfQ2R6WDc5dnBZX25CT0lRQmdESmI1QkZ2Rm1TaEpPeHJwanZtQlgteEV0ODJZZXk5NDRkZ2N4UVYwekhCWHBlc2RWT3ZnYTFLNktIWjNlME1KLW1LbE9QeFNTNFN6SHpnc19raFRjbXQt?oc=5"
         }
       ]
     },
     {
-      "id": "2f46e11332b1",
-      "title": "兒童寒背恐影響心肺發育 免費脊骨檢查盡早搵出問題 - Sundaykiss",
+      "id": "e1fc296d40ad",
+      "title": "兒童寒背恐影響心肺發育 免費脊骨檢查盡早搵出問題 - sundaykiss.com",
       "published": "2026-07-30T00:49:34+00:00",
-      "summary": "兒童寒背恐影響心肺發育 免費脊骨檢查盡早搵出問題&nbsp;&nbsp;Sundaykiss",
+      "summary": "兒童寒背恐影響心肺發育 免費脊骨檢查盡早搵出問題&nbsp;&nbsp;sundaykiss.com",
       "sources": [
         {
-          "name": "Sundaykiss",
+          "name": "sundaykiss.com",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWDcwUXpOaEctMkpTWUFqdURVVnZKQlZFRG5DeUlNdGhHOHJ6UU1YWGJfSkdGbHV2eFhsOEk5dEhob3FYdjBpQ3lscFVTNDFDV24tRkJ2Zlhid0VZTE95OW9JWjhuUE84cmJMbHJBWGFoaWlRaUtsQXd6QVRKbUVrYk9ybzBOSzVHeElpS2hBcGZNWU5rOUpST0o3SktCV2o1SFRTa2RoZGhVZWUwcUJYZkVNUHNwX0tVcmJUS1F2eTNack11cTZGVWs0d0VKWkhlcDZ3?oc=5"
         }
       ]
