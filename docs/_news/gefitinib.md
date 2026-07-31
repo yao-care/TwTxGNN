@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,21 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [不只壯陽！研究證實「威而鋼」可能阻斷癌細胞轉移 搭配1款藥癌症存活率大增](https://news.google.com/rss/articles/CBMizgNBVV95cUxNd281aHljaWg0ajhfRm96NFJFdUNtVE9qbnlrMUdLVWpMVW1QSkZsRGM2SnlaSlZ3ZVRQVGhqb1pzMy0wU3FRWVp1ajBIWDhrNGxGUDhHWHRENFFXTjQ5amRaT3JWa1ZEZ3J0WFJsSEhpaU1LT1YxYm5hLVNGWWFLb1BRYm9qNENrWWdfaUdpcmdpNUxVRkttS2xMT1J3aXdSb0djUEg2YlAzVE9SNmpEd1RIY3A2V3FCampmR1BFdDRPOGdHODhzN1REdWtOLWNJbkZ2NTFDelZuYjFXN2xNcVppSFhoSkhPV21wZk1WaG10azRRckxVS3J5OWp2bjFjVmhhWmFMRGowRXVJMm5pcG1hWkpjemRnMzgtVXdFSnh5UmJrQ05ldWxiSm5rWlYyRDByYW9Bbkh0bVJKYndralVnbTRFOG1MWEVvQWNaU3pyT2lVWkxBc3lLSnNsZE9RYWQyTERka3kxdElmUUVlX0tvMDdNTzNUR3EtMlBmSzYtTzhIdGlqVjZPNE9MVGlVa3VxRUZ3cTBGdTltTFdzSEZZMmkzNkFSWkxHNHNkNnpTUmlRNkl5QjVVMFNwWDNTTE1FenFPakpIMGtIdlE?oc=5)
-
-2026-07-31 <span class="news-indication-tag">癌症</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMizgNBVV95cUxNd281aHljaWg0ajhfRm96NFJFdUNtVE9qbnlrMUdLVWpMVW1QSkZsRGM2SnlaSlZ3ZVRQVGhqb1pzMy0wU3FRWVp1ajBIWDhrNGxGUDhHWHRENFFXTjQ5amRaT3JWa1ZEZ3J0WFJsSEhpaU1LT1YxYm5hLVNGWWFLb1BRYm9qNENrWWdfaUdpcmdpNUxVRkttS2xMT1J3aXdSb0djUEg2YlAzVE9SNmpEd1RIY3A2V3FCampmR1BFdDRPOGdHODhzN1REdWtOLWNJbkZ2NTFDelZuYjFXN2xNcVppSFhoSkhPV21wZk1WaG10azRRckxVS3J5OWp2bjFjVmhhWmFMRGowRXVJMm5pcG1hWkpjemRnMzgtVXdFSnh5UmJrQ05ldWxiSm5rWlYyRDByYW9Bbkh0bVJKYndralVnbTRFOG1MWEVvQWNaU3pyT2lVWkxBc3lLSnNsZE9RYWQyTERka3kxdElmUUVlX0tvMDdNTzNUR3EtMlBmSzYtTzhIdGlqVjZPNE9MVGlVa3VxRUZ3cTBGdTltTFdzSEZZMmkzNkFSWkxHNHNkNnpTUmlRNkl5QjVVMFNwWDNTTE1FenFPakpIMGtIdlE?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [兩歲前限制攝取糖分與較佳腦部健康有關聯——香港科大廣州分校研究](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9adTBOUUNidzFPaFlTV2FQWFpnZHVtMHRzLWtHNE1IUHo5UUk3T2owY3gyY3lGcUp4VXM5SEY4ak5YMXBsUTlTcTlDZlMtTHdqNlltb092VllBQ280MkNORXBCWEFGQdIBa0FVX3lxTE9iclNMNEtDTUxXVEhJREhVNXF5Z0piOW9CeFZSNGdpMlFyRndQUHhTbzdCQjdMMFJsNkVFV1FVTEVYLUZtd1JWZ05lYjM2UDdkT1RMelVhbzVEWDFjaTZ5WFJwaXFKV2pqTDlF?oc=5)
 
 2026-07-31 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9adTBOUUNidzFPaFlTV2FQWFpnZHVtMHRzLWtHNE1IUHo5UUk3T2owY3gyY3lGcUp4VXM5SEY4ak5YMXBsUTlTcTlDZlMtTHdqNlltb092VllBQ280MkNORXBCWEFGQdIBa0FVX3lxTE9iclNMNEtDTUxXVEhJREhVNXF5Z0piOW9CeFZSNGdpMlFyRndQUHhTbzdCQjdMMFJsNkVFV1FVTEVYLUZtd1JWZ05lYjM2UDdkT1RMelVhbzVEWDFjaTZ5WFJwaXFKV2pqTDlF?oc=5)
+
+---
+
+### [手腳細細肚子大？當心青蛙型肥胖引爆癌症危機！](https://news.google.com/rss/articles/CBMiVEFVX3lxTE45RFJLa3BkeWx6MWZYN3dIMEVXR2cxX05FZ3JKbzlpSFZaVmR0UnI0SF83TndVZ0dSX3p4cTFOaHpMOUVGVThUdWJPRjhpWi1VNk1IZw?oc=5)
+
+2026-07-30 <span class="news-indication-tag">癌症</span>
+
+來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE45RFJLa3BkeWx6MWZYN3dIMEVXR2cxX05FZ3JKbzlpSFZaVmR0UnI0SF83TndVZ0dSX3p4cTFOaHpMOUVGVThUdWJPRjhpWi1VNk1IZw?oc=5)
 
 ---
 
@@ -67,19 +67,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [年死3000人！BMI破35乳癌風險飆 研究：及早減重手術「風險大降2成」](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CcWpuemZDeEd0Q281c1BrQUdjbVptZ0dZZzZUaS1mWkgyZHV4V1JrVThiVDBkMTgtc0llYWdnTm5Hei1zWDJBOGxRalA?oc=5)
-
-2026-07-30 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CcWpuemZDeEd0Q281c1BrQUdjbVptZ0dZZzZUaS1mWkgyZHV4V1JrVThiVDBkMTgtc0llYWdnTm5Hei1zWDJBOGxRalA?oc=5)
-
----
-
-### [走路速度和大腦年齡有關？最新研究：走路愈快愈長壽、失智風險降低60%](https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1ZkREs4bWFqVHpKTjl0TDlkTjBkU0ZGNUQzOUh5UXdsOGotY0x5YVZhUEdEdkpORlpDM0swZkh0NDEweVpEX0hhcVU5bURLeFBFNEJZYTB5bTlaUEwyeXBvX25NVG9rRDFNRFN1UU1HM3RBdmlnTU1nVHJNZ0dZUExBYlF2T1NGSDA0alJFeVZaT2lfRzRUSVNENFI?oc=5)
+### [走路速度和大腦年齡有關？最新研究：走路愈快愈長壽、失智風險降低60% - Harper's BAZAAR](https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1ZkREs4bWFqVHpKTjl0TDlkTjBkU0ZGNUQzOUh5UXdsOGotY0x5YVZhUEdEdkpORlpDM0swZkh0NDEweVpEX0hhcVU5bURLeFBFNEJZYTB5bTlaUEwyeXBvX25NVG9rRDFNRFN1UU1HM3RBdmlnTU1nVHJNZ0dZUExBYlF2T1NGSDA0alJFeVZaT2lfRzRUSVNENFI?oc=5)
 
 2026-07-30 <span class="news-indication-tag">失智</span>
 
-來源：[harpersbazaar.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1ZkREs4bWFqVHpKTjl0TDlkTjBkU0ZGNUQzOUh5UXdsOGotY0x5YVZhUEdEdkpORlpDM0swZkh0NDEweVpEX0hhcVU5bURLeFBFNEJZYTB5bTlaUEwyeXBvX25NVG9rRDFNRFN1UU1HM3RBdmlnTU1nVHJNZ0dZUExBYlF2T1NGSDA0alJFeVZaT2lfRzRUSVNENFI?oc=5)
+來源：[Harper's BAZAAR](https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1ZkREs4bWFqVHpKTjl0TDlkTjBkU0ZGNUQzOUh5UXdsOGotY0x5YVZhUEdEdkpORlpDM0swZkh0NDEweVpEX0hhcVU5bURLeFBFNEJZYTB5bTlaUEwyeXBvX25NVG9rRDFNRFN1UU1HM3RBdmlnTU1nVHJNZ0dZUExBYlF2T1NGSDA0alJFeVZaT2lfRzRUSVNENFI?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/carboplatin/
 <li><strong>原適應症</strong>：HER2 陽性早期乳癌、轉移性乳癌、黑色素瘤、非小細胞肺癌、何杰金氏淋巴瘤、頭頸部鱗狀細胞癌、泌尿道上皮癌等</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（99.9%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（99.9%）</li>
 <li>rectum mucinous adenocarcinoma（99.3%）</li>
 <li>colon mucinous adenocarcinoma（99.3%）</li>
 <li>adult germ cell tumor（99.2%）</li>
@@ -42,13 +42,13 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [不只壯陽！研究證實「威而鋼」可能阻斷癌細胞轉移 搭配1款藥癌症存活率大增](https://news.google.com/rss/articles/CBMizgNBVV95cUxNd281aHljaWg0ajhfRm96NFJFdUNtVE9qbnlrMUdLVWpMVW1QSkZsRGM2SnlaSlZ3ZVRQVGhqb1pzMy0wU3FRWVp1ajBIWDhrNGxGUDhHWHRENFFXTjQ5amRaT3JWa1ZEZ3J0WFJsSEhpaU1LT1YxYm5hLVNGWWFLb1BRYm9qNENrWWdfaUdpcmdpNUxVRkttS2xMT1J3aXdSb0djUEg2YlAzVE9SNmpEd1RIY3A2V3FCampmR1BFdDRPOGdHODhzN1REdWtOLWNJbkZ2NTFDelZuYjFXN2xNcVppSFhoSkhPV21wZk1WaG10azRRckxVS3J5OWp2bjFjVmhhWmFMRGowRXVJMm5pcG1hWkpjemRnMzgtVXdFSnh5UmJrQ05ldWxiSm5rWlYyRDByYW9Bbkh0bVJKYndralVnbTRFOG1MWEVvQWNaU3pyT2lVWkxBc3lLSnNsZE9RYWQyTERka3kxdElmUUVlX0tvMDdNTzNUR3EtMlBmSzYtTzhIdGlqVjZPNE9MVGlVa3VxRUZ3cTBGdTltTFdzSEZZMmkzNkFSWkxHNHNkNnpTUmlRNkl5QjVVMFNwWDNTTE1FenFPakpIMGtIdlE?oc=5)
+### [手腳細細肚子大？當心青蛙型肥胖引爆癌症危機！](https://news.google.com/rss/articles/CBMiVEFVX3lxTE45RFJLa3BkeWx6MWZYN3dIMEVXR2cxX05FZ3JKbzlpSFZaVmR0UnI0SF83TndVZ0dSX3p4cTFOaHpMOUVGVThUdWJPRjhpWi1VNk1IZw?oc=5)
 
-2026-07-31 <span class="news-indication-tag">癌症</span>
+2026-07-30 <span class="news-indication-tag">癌症</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMizgNBVV95cUxNd281aHljaWg0ajhfRm96NFJFdUNtVE9qbnlrMUdLVWpMVW1QSkZsRGM2SnlaSlZ3ZVRQVGhqb1pzMy0wU3FRWVp1ajBIWDhrNGxGUDhHWHRENFFXTjQ5amRaT3JWa1ZEZ3J0WFJsSEhpaU1LT1YxYm5hLVNGWWFLb1BRYm9qNENrWWdfaUdpcmdpNUxVRkttS2xMT1J3aXdSb0djUEg2YlAzVE9SNmpEd1RIY3A2V3FCampmR1BFdDRPOGdHODhzN1REdWtOLWNJbkZ2NTFDelZuYjFXN2xNcVppSFhoSkhPV21wZk1WaG10azRRckxVS3J5OWp2bjFjVmhhWmFMRGowRXVJMm5pcG1hWkpjemRnMzgtVXdFSnh5UmJrQ05ldWxiSm5rWlYyRDByYW9Bbkh0bVJKYndralVnbTRFOG1MWEVvQWNaU3pyT2lVWkxBc3lLSnNsZE9RYWQyTERka3kxdElmUUVlX0tvMDdNTzNUR3EtMlBmSzYtTzhIdGlqVjZPNE9MVGlVa3VxRUZ3cTBGdTltTFdzSEZZMmkzNkFSWkxHNHNkNnpTUmlRNkl5QjVVMFNwWDNTTE1FenFPakpIMGtIdlE?oc=5)
+來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE45RFJLa3BkeWx6MWZYN3dIMEVXR2cxX05FZ3JKbzlpSFZaVmR0UnI0SF83TndVZ0dSX3p4cTFOaHpMOUVGVThUdWJPRjhpWi1VNk1IZw?oc=5)
 
 ---
 
@@ -57,14 +57,6 @@ permalink: /news/carboplatin/
 2026-07-30 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[Newtalk新聞](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YOGxIR0FLVVQxbV9yX1diQ3pJbnpxWXpzRGRmZ09GMGRSSmdOOVdVWHZ5RkpSRW40X2hKYmxqVnBsUkZTSmpVZHlJS1VPOGVfcHN3UW16SWhncHc?oc=5)
-
----
-
-### [年死3000人！BMI破35乳癌風險飆 研究：及早減重手術「風險大降2成」](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CcWpuemZDeEd0Q281c1BrQUdjbVptZ0dZZzZUaS1mWkgyZHV4V1JrVThiVDBkMTgtc0llYWdnTm5Hei1zWDJBOGxRalA?oc=5)
-
-2026-07-30 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CcWpuemZDeEd0Q281c1BrQUdjbVptZ0dZZzZUaS1mWkgyZHV4V1JrVThiVDBkMTgtc0llYWdnTm5Hei1zWDJBOGxRalA?oc=5)
 
 ---
 

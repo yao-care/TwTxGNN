@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,21 +75,13 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [不只壯陽！研究證實「威而鋼」可能阻斷癌細胞轉移 搭配1款藥癌症存活率大增](https://news.google.com/rss/articles/CBMizgNBVV95cUxNd281aHljaWg0ajhfRm96NFJFdUNtVE9qbnlrMUdLVWpMVW1QSkZsRGM2SnlaSlZ3ZVRQVGhqb1pzMy0wU3FRWVp1ajBIWDhrNGxGUDhHWHRENFFXTjQ5amRaT3JWa1ZEZ3J0WFJsSEhpaU1LT1YxYm5hLVNGWWFLb1BRYm9qNENrWWdfaUdpcmdpNUxVRkttS2xMT1J3aXdSb0djUEg2YlAzVE9SNmpEd1RIY3A2V3FCampmR1BFdDRPOGdHODhzN1REdWtOLWNJbkZ2NTFDelZuYjFXN2xNcVppSFhoSkhPV21wZk1WaG10azRRckxVS3J5OWp2bjFjVmhhWmFMRGowRXVJMm5pcG1hWkpjemRnMzgtVXdFSnh5UmJrQ05ldWxiSm5rWlYyRDByYW9Bbkh0bVJKYndralVnbTRFOG1MWEVvQWNaU3pyT2lVWkxBc3lLSnNsZE9RYWQyTERka3kxdElmUUVlX0tvMDdNTzNUR3EtMlBmSzYtTzhIdGlqVjZPNE9MVGlVa3VxRUZ3cTBGdTltTFdzSEZZMmkzNkFSWkxHNHNkNnpTUmlRNkl5QjVVMFNwWDNTTE1FenFPakpIMGtIdlE?oc=5)
-
-2026-07-31
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMizgNBVV95cUxNd281aHljaWg0ajhfRm96NFJFdUNtVE9qbnlrMUdLVWpMVW1QSkZsRGM2SnlaSlZ3ZVRQVGhqb1pzMy0wU3FRWVp1ajBIWDhrNGxGUDhHWHRENFFXTjQ5amRaT3JWa1ZEZ3J0WFJsSEhpaU1LT1YxYm5hLVNGWWFLb1BRYm9qNENrWWdfaUdpcmdpNUxVRkttS2xMT1J3aXdSb0djUEg2YlAzVE9SNmpEd1RIY3A2V3FCampmR1BFdDRPOGdHODhzN1REdWtOLWNJbkZ2NTFDelZuYjFXN2xNcVppSFhoSkhPV21wZk1WaG10azRRckxVS3J5OWp2bjFjVmhhWmFMRGowRXVJMm5pcG1hWkpjemRnMzgtVXdFSnh5UmJrQ05ldWxiSm5rWlYyRDByYW9Bbkh0bVJKYndralVnbTRFOG1MWEVvQWNaU3pyT2lVWkxBc3lLSnNsZE9RYWQyTERka3kxdElmUUVlX0tvMDdNTzNUR3EtMlBmSzYtTzhIdGlqVjZPNE9MVGlVa3VxRUZ3cTBGdTltTFdzSEZZMmkzNkFSWkxHNHNkNnpTUmlRNkl5QjVVMFNwWDNTTE1FenFPakpIMGtIdlE?oc=5)
-
----
-
-### [年死3000人！BMI破35乳癌風險飆 研究：及早減重手術「風險大降2成」](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CcWpuemZDeEd0Q281c1BrQUdjbVptZ0dZZzZUaS1mWkgyZHV4V1JrVThiVDBkMTgtc0llYWdnTm5Hei1zWDJBOGxRalA?oc=5)
+### [手腳細細肚子大？當心青蛙型肥胖引爆癌症危機！](https://news.google.com/rss/articles/CBMiVEFVX3lxTE45RFJLa3BkeWx6MWZYN3dIMEVXR2cxX05FZ3JKbzlpSFZaVmR0UnI0SF83TndVZ0dSX3p4cTFOaHpMOUVGVThUdWJPRjhpWi1VNk1IZw?oc=5)
 
 2026-07-30
 
-來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CcWpuemZDeEd0Q281c1BrQUdjbVptZ0dZZzZUaS1mWkgyZHV4V1JrVThiVDBkMTgtc0llYWdnTm5Hei1zWDJBOGxRalA?oc=5)
+來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE45RFJLa3BkeWx6MWZYN3dIMEVXR2cxX05FZ3JKbzlpSFZaVmR0UnI0SF83TndVZ0dSX3p4cTFOaHpMOUVGVThUdWJPRjhpWi1VNk1IZw?oc=5)
 
 ---
 
