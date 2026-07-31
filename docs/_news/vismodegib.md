@@ -48,7 +48,7 @@ permalink: /news/vismodegib/
 
 2026-07-30 <span class="news-indication-tag">癌症</span>
 
-來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE45RFJLa3BkeWx6MWZYN3dIMEVXR2cxX05FZ3JKbzlpSFZaVmR0UnI0SF83TndVZ0dSX3p4cTFOaHpMOUVGVThUdWJPRjhpWi1VNk1IZw?oc=5)
+來源：[news.ebc.net.tw](https://news.google.com/rss/articles/CBMiVEFVX3lxTE45RFJLa3BkeWx6MWZYN3dIMEVXR2cxX05FZ3JKbzlpSFZaVmR0UnI0SF83TndVZ0dSX3p4cTFOaHpMOUVGVThUdWJPRjhpWi1VNk1IZw?oc=5)
 
 ---
 
