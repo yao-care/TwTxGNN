@@ -52,11 +52,11 @@ permalink: /news/hydroxyurea/
 
 ---
 
-### [男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YOGxIR0FLVVQxbV9yX1diQ3pJbnpxWXpzRGRmZ09GMGRSSmdOOVdVWHZ5RkpSRW40X2hKYmxqVnBsUkZTSmpVZHlJS1VPOGVfcHN3UW16SWhncHc?oc=5)
+### [男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年](https://news.google.com/rss/articles/CBMixwFBVV95cUxNYnJSWjBkSzZkNmNFNHNXblJKVlk3aGZYWkdRRThzLUc5aW9lOFVOeXN2eEJod2JjeUFlMlM2RjJvaFJuMHpXcEJaNU5FR2xyYl9yVUZBWHBZdDVydURoNDlpVTRKeVVuRmdhRUtGb0FVazRYQ3YtOXFhSlVhT1FwM3BySXctX1E5YkZRTXN3dmcxSFBySnFvSjhZaTdCaU1fUFBKd0pVMHU4TWFob0xaYy1tSExFZTBpeXI5WGJvYThtQ0pDY00w?oc=5)
 
 2026-07-30 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[Newtalk新聞](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YOGxIR0FLVVQxbV9yX1diQ3pJbnpxWXpzRGRmZ09GMGRSSmdOOVdVWHZ5RkpSRW40X2hKYmxqVnBsUkZTSmpVZHlJS1VPOGVfcHN3UW16SWhncHc?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMixwFBVV95cUxNYnJSWjBkSzZkNmNFNHNXblJKVlk3aGZYWkdRRThzLUc5aW9lOFVOeXN2eEJod2JjeUFlMlM2RjJvaFJuMHpXcEJaNU5FR2xyYl9yVUZBWHBZdDVydURoNDlpVTRKeVVuRmdhRUtGb0FVazRYQ3YtOXFhSlVhT1FwM3BySXctX1E5YkZRTXN3dmcxSFBySnFvSjhZaTdCaU1fUFBKd0pVMHU4TWFob0xaYy1tSExFZTBpeXI5WGJvYThtQ0pDY00w?oc=5)
 
 ---
 
