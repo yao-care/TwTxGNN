@@ -35,7 +35,7 @@ permalink: /news/cardiovascular/
 
 2026-07-30
 
-來源：[民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE14Z2NMQ2RqdWprUnZQamQyRnlHU0xNaW9yR180T2pSYXZVLW41Q0w0U3FtemxCSjNzZjg1UGpOaERWamwxV3pSb0FpVzFlX29odHJMN01BR09Kd2JEV2czVw?oc=5)
+來源：[ftvnews.com.tw](https://news.google.com/rss/articles/CBMiYEFVX3lxTE14Z2NMQ2RqdWprUnZQamQyRnlHU0xNaW9yR180T2pSYXZVLW41Q0w0U3FtemxCSjNzZjg1UGpOaERWamwxV3pSb0FpVzFlX29odHJMN01BR09Kd2JEV2czVw?oc=5)
 
 ---
 

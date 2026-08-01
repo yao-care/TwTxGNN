@@ -3,7 +3,7 @@ layout: default
 title: "阿茲海默症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "阿茲海默症（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "阿茲海默症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="阿茲海默症（dementia） 有什麼相關新聞？">
-<strong>阿茲海默症（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<strong>阿茲海默症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,13 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [研究顯示：中壯年人維生素D水準與降低阿茲海默症風險相關- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0ySWp6VV9XRkJXVWdPTWZxN3pzb19LZzZWdDVtb2pacUQzX2dqeFVIa3JuTG5GaExPVWlSeVFkVmVmdi1sUURTVGt3OHVBUF91blY1WkxEczVTQzYtZTJR?oc=5)
 
 2026-07-31
 
-來源：[ctee.com.tw](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0ySWp6VV9XRkJXVWdPTWZxN3pzb19LZzZWdDVtb2pacUQzX2dqeFVIa3JuTG5GaExPVWlSeVFkVmVmdi1sUURTVGt3OHVBUF91blY1WkxEczVTQzYtZTJR?oc=5)
+來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0ySWp6VV9XRkJXVWdPTWZxN3pzb19LZzZWdDVtb2pacUQzX2dqeFVIa3JuTG5GaExPVWlSeVFkVmVmdi1sUURTVGt3OHVBUF91blY1WkxEczVTQzYtZTJR?oc=5)
 
 ---
 
@@ -44,14 +44,6 @@ permalink: /news/dementia/
 2026-07-31
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9adTBOUUNidzFPaFlTV2FQWFpnZHVtMHRzLWtHNE1IUHo5UUk3T2owY3gyY3lGcUp4VXM5SEY4ak5YMXBsUTlTcTlDZlMtTHdqNlltb092VllBQ280MkNORXBCWEFGQdIBa0FVX3lxTE9iclNMNEtDTUxXVEhJREhVNXF5Z0piOW9CeFZSNGdpMlFyRndQUHhTbzdCQjdMMFJsNkVFV1FVTEVYLUZtd1JWZ05lYjM2UDdkT1RMelVhbzVEWDFjaTZ5WFJwaXFKV2pqTDlF?oc=5)
-
----
-
-### [大腦藏有天然守門員！研究揭阿茲海默症惡化新關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTE82eThUcldSSWZPZEtwX3RhcVdOUDRpMUpjQ0VIZlFHcy1heERxa0pWTTdEclJLNTdNYm84WFZlVkJNUGQ3NV9IRHdoNWV6Y2tjOGNublNyUHpHWlNwWFpiZ1V4NDU?oc=5)
-
-2026-07-30
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE82eThUcldSSWZPZEtwX3RhcVdOUDRpMUpjQ0VIZlFHcy1heERxa0pWTTdEclJLNTdNYm84WFZlVkJNUGQ3NV9IRHdoNWV6Y2tjOGNublNyUHpHWlNwWFpiZ1V4NDU?oc=5)
 
 ---
 
