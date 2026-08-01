@@ -37,11 +37,11 @@ permalink: /news/female-breast-carcinoma/
 
 ## 相關新聞（1 則）
 
-### [「BMI破35及早減重手術」 台北慈濟研究證實能降乳癌發生率](https://news.google.com/rss/articles/CBMiYEFVX3lxTE14Z2NMQ2RqdWprUnZQamQyRnlHU0xNaW9yR180T2pSYXZVLW41Q0w0U3FtemxCSjNzZjg1UGpOaERWamwxV3pSb0FpVzFlX29odHJMN01BR09Kd2JEV2czVw?oc=5)
+### [保健》半年內減重手術 乳癌風險降2成 - 中國時報](https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjRjRVVEbzhJZ3BWZF9iMnVMYmlDUWpzdF9pdVR3R0VPbjJiNTVkNG82c19UdFVEWXZMcHl1aDhCY2hUUk1QUkE1Y2dWbG5IeThIdWhxMjZKU1dMMGprUnBtT0FlbWhQRkVSX0lkTjlHbnhmTHVyX2tvWE5TQlRwVW4tX0pJdw?oc=5)
 
-2026-07-30
+2026-08-01
 
-來源：[ftvnews.com.tw](https://news.google.com/rss/articles/CBMiYEFVX3lxTE14Z2NMQ2RqdWprUnZQamQyRnlHU0xNaW9yR180T2pSYXZVLW41Q0w0U3FtemxCSjNzZjg1UGpOaERWamwxV3pSb0FpVzFlX29odHJMN01BR09Kd2JEV2czVw?oc=5)
+來源：[中國時報- 翻爆](https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjRjRVVEbzhJZ3BWZF9iMnVMYmlDUWpzdF9pdVR3R0VPbjJiNTVkNG82c19UdFVEWXZMcHl1aDhCY2hUUk1QUkE1Y2dWbG5IeThIdWhxMjZKU1dMMGprUnBtT0FlbWhQRkVSX0lkTjlHbnhmTHVyX2tvWE5TQlRwVW4tX0pJdw?oc=5)
 
 ---
 

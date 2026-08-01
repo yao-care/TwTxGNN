@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,21 +75,13 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [不只壯陽！研究證實「威而鋼」可能阻斷癌細胞轉移　搭配1款藥癌症存活率大增 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5Z1FDNjU0Mk5jdk15N21CNEtRQVlFNGJ6WWwtMnFQX3ZMT0dMWmxMRS13eVY3RGhPT1JTVVBaLTB4NVJtalQwLVZtaXJhbEw5N3pDV29FSTFUT2_SAWBBVV95cUxQRzdmdFRTaDdOT0lLVF9UWmR0T2k2emVZRldTcmJwYUlLQ3o3aFdsMmpIemtCeWFSaDBCVVRKSm5ua3djWWlvT2syZHJEb3p2Ukw3OVBhQnZxTElZUW5MU3E?oc=5)
+### [保健》半年內減重手術 乳癌風險降2成 - 中國時報](https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjRjRVVEbzhJZ3BWZF9iMnVMYmlDUWpzdF9pdVR3R0VPbjJiNTVkNG82c19UdFVEWXZMcHl1aDhCY2hUUk1QUkE1Y2dWbG5IeThIdWhxMjZKU1dMMGprUnBtT0FlbWhQRkVSX0lkTjlHbnhmTHVyX2tvWE5TQlRwVW4tX0pJdw?oc=5)
 
-2026-07-31
+2026-08-01
 
-來源：[鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5Z1FDNjU0Mk5jdk15N21CNEtRQVlFNGJ6WWwtMnFQX3ZMT0dMWmxMRS13eVY3RGhPT1JTVVBaLTB4NVJtalQwLVZtaXJhbEw5N3pDV29FSTFUT2_SAWBBVV95cUxQRzdmdFRTaDdOT0lLVF9UWmR0T2k2emVZRldTcmJwYUlLQ3o3aFdsMmpIemtCeWFSaDBCVVRKSm5ua3djWWlvT2syZHJEb3p2Ukw3OVBhQnZxTElZUW5MU3E?oc=5)
-
----
-
-### [「BMI破35及早減重手術」 台北慈濟研究證實能降乳癌發生率](https://news.google.com/rss/articles/CBMiYEFVX3lxTE14Z2NMQ2RqdWprUnZQamQyRnlHU0xNaW9yR180T2pSYXZVLW41Q0w0U3FtemxCSjNzZjg1UGpOaERWamwxV3pSb0FpVzFlX29odHJMN01BR09Kd2JEV2czVw?oc=5)
-
-2026-07-30
-
-來源：[ftvnews.com.tw](https://news.google.com/rss/articles/CBMiYEFVX3lxTE14Z2NMQ2RqdWprUnZQamQyRnlHU0xNaW9yR180T2pSYXZVLW41Q0w0U3FtemxCSjNzZjg1UGpOaERWamwxV3pSb0FpVzFlX29odHJMN01BR09Kd2JEV2czVw?oc=5)
+來源：[中國時報- 翻爆](https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjRjRVVEbzhJZ3BWZF9iMnVMYmlDUWpzdF9pdVR3R0VPbjJiNTVkNG82c19UdFVEWXZMcHl1aDhCY2hUUk1QUkE1Y2dWbG5IeThIdWhxMjZKU1dMMGprUnBtT0FlbWhQRkVSX0lkTjlHbnhmTHVyX2tvWE5TQlRwVW4tX0pJdw?oc=5)
 
 ---
 
