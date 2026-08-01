@@ -43,11 +43,11 @@ permalink: /news/atezolizumab/
 
 ## 相關新聞（1 則）
 
-### [及早減重手術 助降乳癌發生率 | 中華日報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wVlljMEZyUDl1TFBNdlZleFJkVW1iQ2ZIejBVYVdZQmxmeXVUNi0yR0VMVC0xd2N2OGFfUW1BQmd3WXZ3N2JrbGRjdnE0YWZ3dW8wV0l3?oc=5)
+### [減肥抗癌？半年內做減重手術 研究曝「這癌症」風險降20%](https://news.google.com/rss/articles/CBMiywJBVV95cUxQREtVSV84OTVVQ1JINmxMQWJkejJMU2h5YUxHQkRmNkNjU0dEZk1BQkQwZk9fSng5ZDlRb0s3aTNYaXRmR0tlXzJadi0wYzU2bE50cHBuRHlQN3BKMVBVMUd1V1RfVE1zS2JHSGVqSnQxYnhqYnJMc2FuNGlpUXJUTnZjSmo5YVJuTHRqRURzRlJVQUpDVlNpVE91LUFPdmtpRng3eFNlTTdjdm1TTkdhcW8xS0FwVFNaNzR2eEJkWmZneHZoXzk4aERKdWxsbGpIU05OOFU3djVLWjUzVWxieHdBTlZRakRMSXlPbkxyV3lFWHQzcG1ocUlvQ2YtZ1NYNlBHUTVPYndoU1FJTHRHVkdTZVlqbzhWN0U3NmxZbVpVV3pDN1N6dW85dFkzUHQwcTVRSXRiSU1sVnlOaGFsekQwUFMxc0xXVEcw?oc=5)
 
-2026-07-30 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">乳癌</span>
+2026-07-31 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">乳癌</span>
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wVlljMEZyUDl1TFBNdlZleFJkVW1iQ2ZIejBVYVdZQmxmeXVUNi0yR0VMVC0xd2N2OGFfUW1BQmd3WXZ3N2JrbGRjdnE0YWZ3dW8wV0l3?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiywJBVV95cUxQREtVSV84OTVVQ1JINmxMQWJkejJMU2h5YUxHQkRmNkNjU0dEZk1BQkQwZk9fSng5ZDlRb0s3aTNYaXRmR0tlXzJadi0wYzU2bE50cHBuRHlQN3BKMVBVMUd1V1RfVE1zS2JHSGVqSnQxYnhqYnJMc2FuNGlpUXJUTnZjSmo5YVJuTHRqRURzRlJVQUpDVlNpVE91LUFPdmtpRng3eFNlTTdjdm1TTkdhcW8xS0FwVFNaNzR2eEJkWmZneHZoXzk4aERKdWxsbGpIU05OOFU3djVLWjUzVWxieHdBTlZRakRMSXlPbkxyV3lFWHQzcG1ocUlvQ2YtZ1NYNlBHUTVPYndoU1FJTHRHVkdTZVlqbzhWN0U3NmxZbVpVV3pDN1N6dW85dFkzUHQwcTVRSXRiSU1sVnlOaGFsekQwUFMxc0xXVEcw?oc=5)
 
 ---
 
