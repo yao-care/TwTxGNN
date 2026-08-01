@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/gemcitabine/
 <li><strong>原適應症</strong>：轉移性大腸直腸癌</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>female breast carcinoma（100.0%）</li>
+<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
 <li>rectum mucinous adenocarcinoma（99.8%）</li>
 <li>colon mucinous adenocarcinoma（99.8%）</li>
 <li>endometrial mixed adenocarcinoma（99.8%）</li>
@@ -42,9 +42,47 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（5 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [不只壯陽！研究證實「威而鋼」可能阻斷癌細胞轉移　搭配1款藥癌症存活率大增 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5Z1FDNjU0Mk5jdk15N21CNEtRQVlFNGJ6WWwtMnFQX3ZMT0dMWmxMRS13eVY3RGhPT1JTVVBaLTB4NVJtalQwLVZtaXJhbEw5N3pDV29FSTFUT2_SAWBBVV95cUxQRzdmdFRTaDdOT0lLVF9UWmR0T2k2emVZRldTcmJwYUlLQ3o3aFdsMmpIemtCeWFSaDBCVVRKSm5ua3djWWlvT2syZHJEb3p2Ukw3OVBhQnZxTElZUW5MU3E?oc=5)
+
+2026-07-31 <span class="news-indication-tag">癌症</span>
+
+來源：[鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5Z1FDNjU0Mk5jdk15N21CNEtRQVlFNGJ6WWwtMnFQX3ZMT0dMWmxMRS13eVY3RGhPT1JTVVBaLTB4NVJtalQwLVZtaXJhbEw5N3pDV29FSTFUT2_SAWBBVV95cUxQRzdmdFRTaDdOT0lLVF9UWmR0T2k2emVZRldTcmJwYUlLQ3o3aFdsMmpIemtCeWFSaDBCVVRKSm5ua3djWWlvT2syZHJEb3p2Ukw3OVBhQnZxTElZUW5MU3E?oc=5)
+
+---
+
+### [「BMI破35及早減重手術」 台北慈濟研究證實能降乳癌發生率](https://news.google.com/rss/articles/CBMiYEFVX3lxTE14Z2NMQ2RqdWprUnZQamQyRnlHU0xNaW9yR180T2pSYXZVLW41Q0w0U3FtemxCSjNzZjg1UGpOaERWamwxV3pSb0FpVzFlX29odHJMN01BR09Kd2JEV2czVw?oc=5)
+
+2026-07-30 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">乳癌</span>
+
+來源：[民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE14Z2NMQ2RqdWprUnZQamQyRnlHU0xNaW9yR180T2pSYXZVLW41Q0w0U3FtemxCSjNzZjg1UGpOaERWamwxV3pSb0FpVzFlX29odHJMN01BR09Kd2JEV2czVw?oc=5)
+
+---
+
+### [手腳細細肚子大？當心青蛙型肥胖引爆癌症危機！](https://news.google.com/rss/articles/CBMiVEFVX3lxTE45RFJLa3BkeWx6MWZYN3dIMEVXR2cxX05FZ3JKbzlpSFZaVmR0UnI0SF83TndVZ0dSX3p4cTFOaHpMOUVGVThUdWJPRjhpWi1VNk1IZw?oc=5)
+
+2026-07-30 <span class="news-indication-tag">癌症</span>
+
+來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE45RFJLa3BkeWx6MWZYN3dIMEVXR2cxX05FZ3JKbzlpSFZaVmR0UnI0SF83TndVZ0dSX3p4cTFOaHpMOUVGVThUdWJPRjhpWi1VNk1IZw?oc=5)
+
+---
+
+### [男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年 | Newtalk](https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wWlpKMXhabU5MMmFicXpjaGlhMm9mcDVFME14SkVWLUE0UTNUNjFnZThlYmVDdEYxQy1TVlY4Z2pvUXBCb0ZIN2J5WUhDOWQzV050ZjVB?oc=5)
+
+2026-07-30 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">頭頸癌</span>
+
+來源：[today.line.me](https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wWlpKMXhabU5MMmFicXpjaGlhMm9mcDVFME14SkVWLUE0UTNUNjFnZThlYmVDdEYxQy1TVlY4Z2pvUXBCb0ZIN2J5WUhDOWQzV050ZjVB?oc=5)
+
+---
+
+### [防癌飲食｜早餐食錯變惹癌上身癌症名醫提3大致癌地雷每日4塊火腿經已超標| 飲食營養](https://news.google.com/rss/articles/CBMizAFBVV95cUxOdmRCUExVYnhTalhFY01fVjc4bHVkMzdETnZPN1JuaTNvUGc2NmpqU1JTRlFMSWVYQ1NvMXVvT1Y5VlFEdnlVSklqZDFwaFJHZTRzSlVkaDF4c2dJaWI5bGc3QzRja3drY1ZocFFHZjY3c0Vsc1lhRUhDMEQtaWw0U2t1NXQ2dFRmenBuOXM4Snl2NFhPOGljbERZbDRscmhPbG1TWnVwVTFPMGdfREw4cVFDeVFubTZVazF2bndEMnFBc1d4d3hCajc2Vnc?oc=5)
+
+2026-07-30 <span class="news-indication-tag">癌症</span>
+
+來源：[東方新地](https://news.google.com/rss/articles/CBMizAFBVV95cUxOdmRCUExVYnhTalhFY01fVjc4bHVkMzdETnZPN1JuaTNvUGc2NmpqU1JTRlFMSWVYQ1NvMXVvT1Y5VlFEdnlVSklqZDFwaFJHZTRzSlVkaDF4c2dJaWI5bGc3QzRja3drY1ZocFFHZjY3c0Vsc1lhRUhDMEQtaWw0U2t1NXQ2dFRmenBuOXM4Snl2NFhPOGljbERZbDRscmhPbG1TWnVwVTFPMGdfREw4cVFDeVFubTZVazF2bndEMnFBc1d4d3hCajc2Vnc?oc=5)
+
+---
 
 
 <div class="disclaimer">

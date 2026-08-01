@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [心臟衰竭治療的新整合策略，一顆複方藥丸造成的改變 | 科技新報](https://news.google.com/rss/articles/CBMiVkFVX3lxTE55UXdCVXhMajRMVTZvTXVEeEZBbHlWQ0toV3p4akhQQXNaUllJUERmWHZPU2plWFRXa1hZM0s0a1duQUpLQ0RwQjBkZXIza1lmejFvb3B3?oc=5)
+
+2026-07-30 <span class="news-indication-tag">心臟衰竭</span>
+
+來源：[today.line.me](https://news.google.com/rss/articles/CBMiVkFVX3lxTE55UXdCVXhMajRMVTZvTXVEeEZBbHlWQ0toV3p4akhQQXNaUllJUERmWHZPU2plWFRXa1hZM0s0a1duQUpLQ0RwQjBkZXIza1lmejFvb3B3?oc=5)
+
+---
 
 
 <div class="disclaimer">
