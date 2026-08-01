@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-01T21:44:36.075210+00:00",
+  "fetched_at": "2026-08-01T22:44:20.668044+00:00",
   "count": 15,
   "news": [
-    {
-      "id": "a031974b63ef",
-      "title": "科學人／貓薄荷不只讓貓嗨？研究發現：防蚊效果可媲美DEET - UDN",
-      "published": "2026-08-01T06:08:16+00:00",
-      "summary": "科學人／貓薄荷不只讓貓嗨？研究發現：防蚊效果可媲美DEET&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DOVktTmNxZXZvd0VtMTV5TUdxX0VOLXdJN0xjMGlxNmpkdzBGZGdrODNib3Q2ZGo2UlFYMkE3UndMMy1ueFdQUko1dkc2Ny1n?oc=5"
-        }
-      ]
-    },
     {
       "id": "6edc8b316e8c",
       "title": "減肥抗癌？半年內做減重手術 研究曝「這癌症」風險降20% - Yahoo新聞",
@@ -24,6 +12,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQREtVSV84OTVVQ1JINmxMQWJkejJMU2h5YUxHQkRmNkNjU0dEZk1BQkQwZk9fSng5ZDlRb0s3aTNYaXRmR0tlXzJadi0wYzU2bE50cHBuRHlQN3BKMVBVMUd1V1RfVE1zS2JHSGVqSnQxYnhqYnJMc2FuNGlpUXJUTnZjSmo5YVJuTHRqRURzRlJVQUpDVlNpVE91LUFPdmtpRng3eFNlTTdjdm1TTkdhcW8xS0FwVFNaNzR2eEJkWmZneHZoXzk4aERKdWxsbGpIU05OOFU3djVLWjUzVWxieHdBTlZRakRMSXlPbkxyV3lFWHQzcG1ocUlvQ2YtZ1NYNlBHUTVPYndoU1FJTHRHVkdTZVlqbzhWN0U3NmxZbVpVV3pDN1N6dW85dFkzUHQwcTVRSXRiSU1sVnlOaGFsekQwUFMxc0xXVEcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a031974b63ef",
+      "title": "科學人／貓薄荷不只讓貓嗨？研究發現：防蚊效果可媲美DEET - UDN",
+      "published": "2026-08-01T06:08:16+00:00",
+      "summary": "科學人／貓薄荷不只讓貓嗨？研究發現：防蚊效果可媲美DEET&nbsp;&nbsp;UDN",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DOVktTmNxZXZvd0VtMTV5TUdxX0VOLXdJN0xjMGlxNmpkdzBGZGdrODNib3Q2ZGo2UlFYMkE3UndMMy1ueFdQUko1dkc2Ny1n?oc=5"
         }
       ]
     },
@@ -76,14 +76,14 @@
       ]
     },
     {
-      "id": "184ec4833c2c",
-      "title": "威而鋼新用處？研究揭「有望阻擋癌細胞轉移」 - 三立新聞",
-      "published": "2026-07-31T09:13:00+00:00",
-      "summary": "威而鋼新用處？研究揭「有望阻擋癌細胞轉移」&nbsp;&nbsp;三立新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "675cc4a1b8ac",
+      "title": "威而鋼新用處？研究揭「有望阻擋癌細胞轉移」 - Yahoo新聞",
+      "published": "2026-07-31T09:18:00+00:00",
+      "summary": "威而鋼新用處？研究揭「有望阻擋癌細胞轉移」&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aX0RVSjQ5Z3ItNlBzek1JcXpBRl9YMkNzY3NtZ195MWkzV2FYc21aRUFSQklLaU1nLVl2MXk4NmxhcFhuTXhJadIBTEFVX3lxTE4tZzRVLTVHZDhiVnpyTnRvOTgxbXhib1NuWTZ2dHlrQlY0cWNZV003c3ZfanlnZkdBRDl3ZXlpLXNsSG5QemZaU2ItZUE?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQTjFQak9la09MMW45MWJtbzV4aGlLMlFUS3ZtbWZ4YkhXOHJSbzJZekM0cklPcEdmazhveGJkS1ZGcHBUcHZPSTl1OXpqMWp5dXVKUUNYd052UkNYNjZhM2Y1YldoSWJPckdoX3ZBNHN5c3VwT2JhcjBXRmY1YTFQOVM3ZS11MWpUamNGVmxENm94bEtjT2lVTXNtRjNFOWVCaUlqQV9RaWozMHU2NlY1cWp1ZlQ4cWpsY2JrRER5eVRVQlZ2TFlSWjF4eTJKMVFqam1kR29BVWd5c0JZX3Nyb3FRVTA0eXlkRFhDM0ZEOU52OVFyd2Q4U2dsTmhLemIzYVpaV3RQYmpLM1FQZ2pENUtWbDVtY29kSU5uVTFhOTVEaTBtSllwcEk5U3RIUQ?oc=5"
         }
       ]
     },
