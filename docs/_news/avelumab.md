@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [不只壯陽！研究證實「威而鋼」可能阻斷癌細胞轉移　搭配1款藥癌症存活率大增 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5Z1FDNjU0Mk5jdk15N21CNEtRQVlFNGJ6WWwtMnFQX3ZMT0dMWmxMRS13eVY3RGhPT1JTVVBaLTB4NVJtalQwLVZtaXJhbEw5N3pDV29FSTFUT2_SAWBBVV95cUxQRzdmdFRTaDdOT0lLVF9UWmR0T2k2emVZRldTcmJwYUlLQ3o3aFdsMmpIemtCeWFSaDBCVVRKSm5ua3djWWlvT2syZHJEb3p2Ukw3OVBhQnZxTElZUW5MU3E?oc=5)
-
-2026-07-31 <span class="news-indication-tag">癌症</span>
-
-來源：[鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5Z1FDNjU0Mk5jdk15N21CNEtRQVlFNGJ6WWwtMnFQX3ZMT0dMWmxMRS13eVY3RGhPT1JTVVBaLTB4NVJtalQwLVZtaXJhbEw5N3pDV29FSTFUT2_SAWBBVV95cUxQRzdmdFRTaDdOT0lLVF9UWmR0T2k2emVZRldTcmJwYUlLQ3o3aFdsMmpIemtCeWFSaDBCVVRKSm5ua3djWWlvT2syZHJEb3p2Ukw3OVBhQnZxTElZUW5MU3E?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [「BMI破35及早減重手術」 台北慈濟研究證實能降乳癌發生率](https://news.google.com/rss/articles/CBMiYEFVX3lxTE14Z2NMQ2RqdWprUnZQamQyRnlHU0xNaW9yR180T2pSYXZVLW41Q0w0U3FtemxCSjNzZjg1UGpOaERWamwxV3pSb0FpVzFlX29odHJMN01BR09Kd2JEV2czVw?oc=5)
 

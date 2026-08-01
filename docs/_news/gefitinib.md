@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [研究顯示：中壯年人維生素D水準與降低阿茲海默症風險相關- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0ySWp6VV9XRkJXVWdPTWZxN3pzb19LZzZWdDVtb2pacUQzX2dqeFVIa3JuTG5GaExPVWlSeVFkVmVmdi1sUURTVGt3OHVBUF91blY1WkxEczVTQzYtZTJR?oc=5)
 
 2026-07-31 <span class="news-indication-tag">阿茲海默症</span>
 
 來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0ySWp6VV9XRkJXVWdPTWZxN3pzb19LZzZWdDVtb2pacUQzX2dqeFVIa3JuTG5GaExPVWlSeVFkVmVmdi1sUURTVGt3OHVBUF91blY1WkxEczVTQzYtZTJR?oc=5)
-
----
-
-### [不只壯陽！研究證實「威而鋼」可能阻斷癌細胞轉移　搭配1款藥癌症存活率大增 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5Z1FDNjU0Mk5jdk15N21CNEtRQVlFNGJ6WWwtMnFQX3ZMT0dMWmxMRS13eVY3RGhPT1JTVVBaLTB4NVJtalQwLVZtaXJhbEw5N3pDV29FSTFUT2_SAWBBVV95cUxQRzdmdFRTaDdOT0lLVF9UWmR0T2k2emVZRldTcmJwYUlLQ3o3aFdsMmpIemtCeWFSaDBCVVRKSm5ua3djWWlvT2syZHJEb3p2Ukw3OVBhQnZxTElZUW5MU3E?oc=5)
-
-2026-07-31 <span class="news-indication-tag">癌症</span>
-
-來源：[鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5Z1FDNjU0Mk5jdk15N21CNEtRQVlFNGJ6WWwtMnFQX3ZMT0dMWmxMRS13eVY3RGhPT1JTVVBaLTB4NVJtalQwLVZtaXJhbEw5N3pDV29FSTFUT2_SAWBBVV95cUxQRzdmdFRTaDdOT0lLVF9UWmR0T2k2emVZRldTcmJwYUlLQ3o3aFdsMmpIemtCeWFSaDBCVVRKSm5ua3djWWlvT2syZHJEb3p2Ukw3OVBhQnZxTElZUW5MU3E?oc=5)
 
 ---
 
