@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,31 +42,9 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（0 則）
 
-### [手腳細細肚子大？當心青蛙型肥胖引爆癌症危機！](https://news.google.com/rss/articles/CBMiVEFVX3lxTE45RFJLa3BkeWx6MWZYN3dIMEVXR2cxX05FZ3JKbzlpSFZaVmR0UnI0SF83TndVZ0dSX3p4cTFOaHpMOUVGVThUdWJPRjhpWi1VNk1IZw?oc=5)
-
-2026-07-30 <span class="news-indication-tag">癌症</span>
-
-來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE45RFJLa3BkeWx6MWZYN3dIMEVXR2cxX05FZ3JKbzlpSFZaVmR0UnI0SF83TndVZ0dSX3p4cTFOaHpMOUVGVThUdWJPRjhpWi1VNk1IZw?oc=5)
-
----
-
-### [男性每 3 人就有 1 人感染 HPV 醫揭口咽癌潛伏期長達 10 年](https://news.google.com/rss/articles/CBMixwFBVV95cUxNYnJSWjBkSzZkNmNFNHNXblJKVlk3aGZYWkdRRThzLUc5aW9lOFVOeXN2eEJod2JjeUFlMlM2RjJvaFJuMHpXcEJaNU5FR2xyYl9yVUZBWHBZdDVydURoNDlpVTRKeVVuRmdhRUtGb0FVazRYQ3YtOXFhSlVhT1FwM3BySXctX1E5YkZRTXN3dmcxSFBySnFvSjhZaTdCaU1fUFBKd0pVMHU4TWFob0xaYy1tSExFZTBpeXI5WGJvYThtQ0pDY00w?oc=5)
-
-2026-07-30 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMixwFBVV95cUxNYnJSWjBkSzZkNmNFNHNXblJKVlk3aGZYWkdRRThzLUc5aW9lOFVOeXN2eEJod2JjeUFlMlM2RjJvaFJuMHpXcEJaNU5FR2xyYl9yVUZBWHBZdDVydURoNDlpVTRKeVVuRmdhRUtGb0FVazRYQ3YtOXFhSlVhT1FwM3BySXctX1E5YkZRTXN3dmcxSFBySnFvSjhZaTdCaU1fUFBKd0pVMHU4TWFob0xaYy1tSExFZTBpeXI5WGJvYThtQ0pDY00w?oc=5)
-
----
-
-### [防癌飲食｜早餐食錯變惹癌上身癌症名醫提3大致癌地雷每日4塊火腿經已超標| 飲食營養](https://news.google.com/rss/articles/CBMizAFBVV95cUxOdmRCUExVYnhTalhFY01fVjc4bHVkMzdETnZPN1JuaTNvUGc2NmpqU1JTRlFMSWVYQ1NvMXVvT1Y5VlFEdnlVSklqZDFwaFJHZTRzSlVkaDF4c2dJaWI5bGc3QzRja3drY1ZocFFHZjY3c0Vsc1lhRUhDMEQtaWw0U2t1NXQ2dFRmenBuOXM4Snl2NFhPOGljbERZbDRscmhPbG1TWnVwVTFPMGdfREw4cVFDeVFubTZVazF2bndEMnFBc1d4d3hCajc2Vnc?oc=5)
-
-2026-07-30 <span class="news-indication-tag">癌症</span>
-
-來源：[東方新地](https://news.google.com/rss/articles/CBMizAFBVV95cUxOdmRCUExVYnhTalhFY01fVjc4bHVkMzdETnZPN1JuaTNvUGc2NmpqU1JTRlFMSWVYQ1NvMXVvT1Y5VlFEdnlVSklqZDFwaFJHZTRzSlVkaDF4c2dJaWI5bGc3QzRja3drY1ZocFFHZjY3c0Vsc1lhRUhDMEQtaWw0U2t1NXQ2dFRmenBuOXM4Snl2NFhPOGljbERZbDRscmhPbG1TWnVwVTFPMGdfREw4cVFDeVFubTZVazF2bndEMnFBc1d4d3hCajc2Vnc?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
