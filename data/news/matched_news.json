@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-08-01T15:53:12.727308+00:00",
+  "last_updated": "2026-08-01T16:50:36.742837+00:00",
   "total_count": 16,
   "matched_count": 4,
   "news": [
+    {
+      "id": "13956969571e",
+      "title": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保",
+      "published": "2026-08-01T16:07:00+00:00",
+      "summary": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yMGRrNDVmY05UcFU5WnFwWTU5SXRVT2pMT2w4VTRLSkVVVG43ZVdlMmI3aHN2U2UzeGdsYmNUbnJETDMzUks3R0VmaUFoNEd5cnc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "d2ae78b7e667",
       "title": "心臟衰竭治療的新整合策略，一顆複方藥丸造成的改變 | 科技新報 - LINE TODAY",
@@ -106,14 +119,14 @@
       ]
     },
     {
-      "id": "675cc4a1b8ac",
+      "id": "184ec4833c2c",
       "title": "威而鋼新用處？研究揭「有望阻擋癌細胞轉移」",
-      "published": "2026-07-31T09:18:00+00:00",
-      "summary": "威而鋼新用處？研究揭「有望阻擋癌細胞轉移」&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "published": "2026-07-31T09:13:00+00:00",
+      "summary": "威而鋼新用處？研究揭「有望阻擋癌細胞轉移」&nbsp;&nbsp;三立新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQTjFQak9la09MMW45MWJtbzV4aGlLMlFUS3ZtbWZ4YkhXOHJSbzJZekM0cklPcEdmazhveGJkS1ZGcHBUcHZPSTl1OXpqMWp5dXVKUUNYd052UkNYNjZhM2Y1YldoSWJPckdoX3ZBNHN5c3VwT2JhcjBXRmY1YTFQOVM3ZS11MWpUamNGVmxENm94bEtjT2lVTXNtRjNFOWVCaUlqQV9RaWozMHU2NlY1cWp1ZlQ4cWpsY2JrRER5eVRVQlZ2TFlSWjF4eTJKMVFqam1kR29BVWd5c0JZX3Nyb3FRVTA0eXlkRFhDM0ZEOU52OVFyd2Q4U2dsTmhLemIzYVpaV3RQYmpLM1FQZ2pENUtWbDVtY29kSU5uVTFhOTVEaTBtSllwcEk5U3RIUQ?oc=5"
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aX0RVSjQ5Z3ItNlBzek1JcXpBRl9YMkNzY3NtZ195MWkzV2FYc21aRUFSQklLaU1nLVl2MXk4NmxhcFhuTXhJadIBTEFVX3lxTE4tZzRVLTVHZDhiVnpyTnRvOTgxbXhib1NuWTZ2dHlrQlY0cWNZV003c3ZfanlnZkdBRDl3ZXlpLXNsSG5QemZaU2ItZUE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -181,13 +194,13 @@
       ]
     },
     {
-      "id": "9873aa85067e",
+      "id": "73c032366bbb",
       "title": "網路瘋傳有毒食品是真的嗎？食藥署設「專區」釋疑",
       "published": "2026-07-30T22:55:56+00:00",
-      "summary": "網路瘋傳有毒食品是真的嗎？食藥署設「專區」釋疑&nbsp;&nbsp;三立新聞網SETN.com",
+      "summary": "網路瘋傳有毒食品是真的嗎？食藥署設「專區」釋疑&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
+          "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB0Q1B6d3dlZjVnOXN4YjhLcEl5R0VtNUJGcGkybzkwcnFzOWFVTTZxRVFuT3ZTbVQtMm9vS0o3OW1RdnRMMEE?oc=5"
         }
       ],
@@ -475,26 +488,13 @@
       "matched_keywords": []
     },
     {
-      "id": "68774e97337d",
-      "title": "主動脈瓣狹窄的危機與對策，經導管主動脈瓣膜置換手術（TAVI）與腦部血管保護裝置解析，心臟血管外科醫師圖文懶人包 - PanSci 泛科學",
-      "published": "2026-07-30T15:50:14+00:00",
-      "summary": "主動脈瓣狹窄的危機與對策，經導管主動脈瓣膜置換手術（TAVI）與腦部血管保護裝置解析，心臟血管外科醫師圖文懶人包&nbsp;&nbsp;PanSci 泛科學",
-      "sources": [
-        {
-          "name": "PanSci 泛科學",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oQzhibUFWTURvVzZUR0dqTzQ4V2ZDd3QyaWZacmpPQ3ZyUTlsMG5CSUJRamhfUkZJLVFYX1BjM3dnYnBOeXZUMFBjSQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "da1872794b36",
+      "id": "749e613157aa",
       "title": "嚇！牙肉血肉模糊毫無痛感不菸不酒婦竟得口腔癌| 生活",
       "published": "2026-07-26T22:38:04+00:00",
-      "summary": "嚇！牙肉血肉模糊毫無痛感不菸不酒婦竟得口腔癌| 生活&nbsp;&nbsp;三立新聞網SETN.com",
+      "summary": "嚇！牙肉血肉模糊毫無痛感不菸不酒婦竟得口腔癌| 生活&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
+          "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB2b1BDNWJ5Q0tIQ1VtcURUNjB2UDhSYmt3YXQ2bjFpTVBZb2hLNFJNd1VUU3A3LWtSUjg0d1pzeVVXMFNXZkZN?oc=5"
         }
       ],
