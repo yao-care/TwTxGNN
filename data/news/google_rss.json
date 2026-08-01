@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-01T22:44:20.668044+00:00",
-  "count": 15,
+  "fetched_at": "2026-08-01T23:49:06.259239+00:00",
+  "count": 14,
   "news": [
     {
       "id": "6edc8b316e8c",
@@ -16,18 +16,6 @@
       ]
     },
     {
-      "id": "a031974b63ef",
-      "title": "科學人／貓薄荷不只讓貓嗨？研究發現：防蚊效果可媲美DEET - UDN",
-      "published": "2026-08-01T06:08:16+00:00",
-      "summary": "科學人／貓薄荷不只讓貓嗨？研究發現：防蚊效果可媲美DEET&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DOVktTmNxZXZvd0VtMTV5TUdxX0VOLXdJN0xjMGlxNmpkdzBGZGdrODNib3Q2ZGo2UlFYMkE3UndMMy1ueFdQUko1dkc2Ny1n?oc=5"
-        }
-      ]
-    },
-    {
       "id": "93e611d4e33c",
       "title": "兩歲前限制攝取糖分與較佳腦部健康有關聯——香港科大廣州分校研究 - BBC",
       "published": "2026-07-31T00:29:10+00:00",
@@ -36,6 +24,18 @@
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9adTBOUUNidzFPaFlTV2FQWFpnZHVtMHRzLWtHNE1IUHo5UUk3T2owY3gyY3lGcUp4VXM5SEY4ak5YMXBsUTlTcTlDZlMtTHdqNlltb092VllBQ280MkNORXBCWEFGQdIBa0FVX3lxTE9iclNMNEtDTUxXVEhJREhVNXF5Z0piOW9CeFZSNGdpMlFyRndQUHhTbzdCQjdMMFJsNkVFV1FVTEVYLUZtd1JWZ05lYjM2UDdkT1RMelVhbzVEWDFjaTZ5WFJwaXFKV2pqTDlF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a031974b63ef",
+      "title": "科學人／貓薄荷不只讓貓嗨？研究發現：防蚊效果可媲美DEET - UDN",
+      "published": "2026-08-01T06:08:16+00:00",
+      "summary": "科學人／貓薄荷不只讓貓嗨？研究發現：防蚊效果可媲美DEET&nbsp;&nbsp;UDN",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DOVktTmNxZXZvd0VtMTV5TUdxX0VOLXdJN0xjMGlxNmpkdzBGZGdrODNib3Q2ZGo2UlFYMkE3UndMMy1ueFdQUko1dkc2Ny1n?oc=5"
         }
       ]
     },
@@ -100,14 +100,14 @@
       ]
     },
     {
-      "id": "a7bab479011c",
-      "title": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保 - 香港經濟日報HKET",
-      "published": "2026-08-01T16:07:00+00:00",
-      "summary": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保&nbsp;&nbsp;香港經濟日報HKET",
+      "id": "658f54471532",
+      "title": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保 - 晴報 Sky Post",
+      "published": "2026-08-01T23:06:34+00:00",
+      "summary": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保&nbsp;&nbsp;晴報 Sky Post",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mcGRfX2tFUHB1RnZSYWpwLUd3eHpqRXZibk5CTmpTb09FZVlfYXJIQmxTLUJETFR4b0hGOGRkTHpFemw1T3RRQXI4SGdYQlVM?oc=5"
+          "name": "晴報 Sky Post",
+          "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxPZzl3N05OTXRCcXBSckY4dGppZ0JtWGJZQThTMXpZVG9KQU43M3JVNk1pMjdhdHF6aFZaVmlBMnYwZnBwVkwxYjhEVmFlQnYwYndSb0h2RVJSaWNJeEc2ak84dE1ObmdhdlZNSlcycTFpd00tdkNCdnhZbUZJel9qRFg0c18zZUdWbVM0VTg1cTNUQW4wLS1CRDVIUTNTN0ZreTdSdDE1bTM3NWhOc0xvY3ZoSVBZZGJTbXYtRzVzREJqYnpwbVlOckFwRXZEYUVxc3p6eGk5VUlLd1p6cUlSOUZIZ1JZekw4QmRzWm40aFVwdEtmZnJSb3U4RmZBbFhtbXRNak8zX3BxQ3VxbFVpMDlmcE5GVFdzSFlDSkRiblJVdjU4MkFtOGkxT2gxSDBiYmNkWXREQzF3SkF6V0QyYnVvSWVmeGRHUHRJcloxaVBYUnhJeVV1U2JDWXJKanl3Ui15dFRqRkxONWxzWDhjZ2laSTBuSFNFa0JtcFRkM3o4RDF3RnppV2xZN1NOTHNnRm96ZHhkTUxZZndGNGtmU2Z0a09VS2NnUnNwdHdJczVETkVEWWpieGROaWVFTHFFQ3JURU5B?oc=5"
         }
       ]
     },
@@ -168,18 +168,6 @@
         {
           "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB2b1BDNWJ5Q0tIQ1VtcURUNjB2UDhSYmt3YXQ2bjFpTVBZb2hLNFJNd1VUU3A3LWtSUjg0d1pzeVVXMFNXZkZN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "73c032366bbb",
-      "title": "網路瘋傳有毒食品是真的嗎？食藥署設「專區」釋疑 - 三立新聞",
-      "published": "2026-07-30T22:55:56+00:00",
-      "summary": "網路瘋傳有毒食品是真的嗎？食藥署設「專區」釋疑&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB0Q1B6d3dlZjVnOXN4YjhLcEl5R0VtNUJGcGkybzkwcnFzOWFVTTZxRVFuT3ZTbVQtMm9vS0o3OW1RdnRMMEE?oc=5"
         }
       ]
     }

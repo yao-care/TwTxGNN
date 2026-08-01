@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-08-01T22:44:25.593770+00:00",
-  "total_count": 15,
+  "last_updated": "2026-08-01T23:49:10.949425+00:00",
+  "total_count": 14,
   "matched_count": 4,
   "news": [
+    {
+      "id": "658f54471532",
+      "title": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保 - 晴報 Sky Post",
+      "published": "2026-08-01T23:06:34+00:00",
+      "summary": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保&nbsp;&nbsp;晴報 Sky Post",
+      "sources": [
+        {
+          "name": "晴報 Sky Post",
+          "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxPZzl3N05OTXRCcXBSckY4dGppZ0JtWGJZQThTMXpZVG9KQU43M3JVNk1pMjdhdHF6aFZaVmlBMnYwZnBwVkwxYjhEVmFlQnYwYndSb0h2RVJSaWNJeEc2ak84dE1ObmdhdlZNSlcycTFpd00tdkNCdnhZbUZJel9qRFg0c18zZUdWbVM0VTg1cTNUQW4wLS1CRDVIUTNTN0ZreTdSdDE1bTM3NWhOc0xvY3ZoSVBZZGJTbXYtRzVzREJqYnpwbVlOckFwRXZEYUVxc3p6eGk5VUlLd1p6cUlSOUZIZ1JZekw4QmRzWm40aFVwdEtmZnJSb3U4RmZBbFhtbXRNak8zX3BxQ3VxbFVpMDlmcE5GVFdzSFlDSkRiblJVdjU4MkFtOGkxT2gxSDBiYmNkWXREQzF3SkF6V0QyYnVvSWVmeGRHUHRJcloxaVBYUnhJeVV1U2JDWXJKanl3Ui15dFRqRkxONWxzWDhjZ2laSTBuSFNFa0JtcFRkM3o4RDF3RnppV2xZN1NOTHNnRm96ZHhkTUxZZndGNGtmU2Z0a09VS2NnUnNwdHdJczVETkVEWWpieGROaWVFTHFFQ3JURU5B?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "5e1474364a4d",
       "title": "全球肥胖危機：世衛指控食品巨企濫訴，阻礙各國推行健康飲食政策",
@@ -12,19 +25,6 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRDZKN3gtejZVUWpod0szX0ExUlVSRFFnajFlNFRSVkxTMHRDWkZ2Q1FsMmd1czBrMnZjSTU3cWFnRm04NDdNV3gzc1E2bHY0bkhNbTQzcjZzZU5oMEREb2F6WjY5S1U2WkdHRGVSY0JiVDRUbEZXc0dZRWdCOFFWcVluTlBLVlgxNml2VlZWUXBrb0pXd1daam9xV0xlb2RZSldWYlZyZE5GMlJxNVJqbmVBX3d3M0ZuZjdVVEN4Z2Y2ajZzZzRyaTdZYmU?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a7bab479011c",
-      "title": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保",
-      "published": "2026-08-01T16:07:00+00:00",
-      "summary": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mcGRfX2tFUHB1RnZSYWpwLUd3eHpqRXZibk5CTmpTb09FZVlfYXJIQmxTLUJETFR4b0hGOGRkTHpFemw1T3RRQXI4SGdYQlVM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -460,19 +460,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "73c032366bbb",
-      "title": "網路瘋傳有毒食品是真的嗎？食藥署設「專區」釋疑",
-      "published": "2026-07-30T22:55:56+00:00",
-      "summary": "網路瘋傳有毒食品是真的嗎？食藥署設「專區」釋疑&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB0Q1B6d3dlZjVnOXN4YjhLcEl5R0VtNUJGcGkybzkwcnFzOWFVTTZxRVFuT3ZTbVQtMm9vS0o3OW1RdnRMMEE?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "749e613157aa",
