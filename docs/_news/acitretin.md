@@ -38,11 +38,11 @@ permalink: /news/acitretin/
 
 ## 相關新聞（1 則）
 
-### [「BMI破35及早減重手術」 台北慈濟研究證實能降乳癌發生率](https://news.google.com/rss/articles/CBMiYEFVX3lxTE14Z2NMQ2RqdWprUnZQamQyRnlHU0xNaW9yR180T2pSYXZVLW41Q0w0U3FtemxCSjNzZjg1UGpOaERWamwxV3pSb0FpVzFlX29odHJMN01BR09Kd2JEV2czVw?oc=5)
+### [及早減重手術 助降乳癌發生率 | 中華日報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wVlljMEZyUDl1TFBNdlZleFJkVW1iQ2ZIejBVYVdZQmxmeXVUNi0yR0VMVC0xd2N2OGFfUW1BQmd3WXZ3N2JrbGRjdnE0YWZ3dW8wV0l3?oc=5)
 
 2026-07-30 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">乳癌</span>
 
-來源：[民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE14Z2NMQ2RqdWprUnZQamQyRnlHU0xNaW9yR180T2pSYXZVLW41Q0w0U3FtemxCSjNzZjg1UGpOaERWamwxV3pSb0FpVzFlX29odHJMN01BR09Kd2JEV2czVw?oc=5)
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wVlljMEZyUDl1TFBNdlZleFJkVW1iQ2ZIejBVYVdZQmxmeXVUNi0yR0VMVC0xd2N2OGFfUW1BQmd3WXZ3N2JrbGRjdnE0YWZ3dW8wV0l3?oc=5)
 
 ---
 
