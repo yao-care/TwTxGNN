@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-02T05:18:52.617979+00:00",
+  "fetched_at": "2026-08-02T08:06:43.907804+00:00",
   "count": 14,
   "news": [
+    {
+      "id": "7045543e7e27",
+      "title": "鹽水泡腳殺病毒每天30分鐘狂剷98％足底疣- 健康 - 中時新聞網",
+      "published": "2026-08-02T06:29:25+00:00",
+      "summary": "鹽水泡腳殺病毒每天30分鐘狂剷98％足底疣- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9keGFzN0hZTTI2QmtkLUZiZHNYd0FZOF9faHF0dEhUb3NoTlpMMGV0UGRUa0N2MTJRc3haRUZ6NVhOU2JyVHREdEc0UHR4bzJWNlVsYXhoSVJVdG9TX3hUbVAzb0ZXUmJQS0dBSGZB?oc=5"
+        }
+      ]
+    },
     {
       "id": "1c8fe575eb84",
       "title": "Keynote 3——後藤由季子：染色質機制決定新皮質命運，生理時鐘是疊加的另一層精密控制! - 環球生技月刊",
@@ -12,18 +24,6 @@
         {
           "name": "環球生技月刊",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4LUFua1AwdnMtTDMwOHJ0R2dwRDN6bEJqbUNkUHROWDVUVUcyeE5nNWV1VGFVeEZRUnd6QlNHM2VLalJTNERfU2I4UHBQbGRTTXNyQVFiUnFvQm1rNzBaNDA2c0xUZWN0eC1HWmpB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0eb8f01557ab",
-      "title": "單腳站10秒做得到嗎？醫師：做不到跌倒風險恐大增，50歲後就該開始練 - 元氣網",
-      "published": "2026-08-02T01:56:56+00:00",
-      "summary": "單腳站10秒做得到嗎？醫師：做不到跌倒風險恐大增，50歲後就該開始練&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NTTJHX09iU2hqLW9ja3ZWUXlKU0RKajZCUUVZRXRTUXpUak5wdWxLd1RobExyZzBvZjlTOWlDV0RHVTVuNnZ5SlkzNG9GbUNzc2NzcVhiMi01UlN6VVNuaWtB0gFiQVVfeXFMTU1NMkdfT2JTaGotb2NrdlZReUpTREpqNkJRRVlFdFNRelRqTnB1bEt3VGhsTHJnMG9mOVM5aUNXREdVNW42dnlKWTM0b0ZtQ3NzY3NxWGIyLTVSU3pVU25pa0E?oc=5"
         }
       ]
     },
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "a031974b63ef",
-      "title": "科學人／貓薄荷不只讓貓嗨？研究發現：防蚊效果可媲美DEET - UDN",
-      "published": "2026-08-01T06:08:16+00:00",
-      "summary": "科學人／貓薄荷不只讓貓嗨？研究發現：防蚊效果可媲美DEET&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DOVktTmNxZXZvd0VtMTV5TUdxX0VOLXdJN0xjMGlxNmpkdzBGZGdrODNib3Q2ZGo2UlFYMkE3UndMMy1ueFdQUko1dkc2Ny1n?oc=5"
-        }
-      ]
-    },
-    {
       "id": "95dd40d96870",
       "title": "全球愛滋病預防受挫 美國國際開發署資金削減影響新藥普及 - Singtaousa",
       "published": "2026-08-01T06:30:00+00:00",
@@ -60,6 +48,18 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOejB4WmEzX08yY29LYk5wdGg0My1xcjhrb2F5UFY3d2pXU3l5cFdJcEd1cERoZG8zb3hpRFJmVEFoS1FkdkV4eW1ya2Zsem5nTTJBa2g4RGgtSTd3MmI2Z3AwejF5Z1VsUDg5RGNDWWJkVHVjV1d3U0tCRUZnU25ZbnlJTDR5Sm1sS19LZlctWlhJS1FHV0RZcmRSOUR2b2poOTJ2ZldwajBFNlZnOHpuUzRxNUREcFlqSzM5Vy1RRGR2dFRXWFVuQ283NmpnSmJ4UUxFRGt3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a031974b63ef",
+      "title": "科學人／貓薄荷不只讓貓嗨？研究發現：防蚊效果可媲美DEET - UDN",
+      "published": "2026-08-01T06:08:16+00:00",
+      "summary": "科學人／貓薄荷不只讓貓嗨？研究發現：防蚊效果可媲美DEET&nbsp;&nbsp;UDN",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DOVktTmNxZXZvd0VtMTV5TUdxX0VOLXdJN0xjMGlxNmpkdzBGZGdrODNib3Q2ZGo2UlFYMkE3UndMMy1ueFdQUko1dkc2Ny1n?oc=5"
         }
       ]
     },
@@ -124,18 +124,6 @@
       ]
     },
     {
-      "id": "be8a1c858df3",
-      "title": "25歲女喉嚨痛死忍4天險窒息！醫生警告別亂食抗生素：1招分辨普通發炎與扁桃腺膿腫 - UHK 港生活",
-      "published": "2026-08-01T09:57:32+00:00",
-      "summary": "25歲女喉嚨痛死忍4天險窒息！醫生警告別亂食抗生素：1招分辨普通發炎與扁桃腺膿腫&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPVXRiUXhrQTRwMzdXSHBGSm5Eb3hCZVRtWTJGa1dtb2lSTXNSamoxWlNqaDJhLUpVb0l1SHNRSHQwQTlKbG1RT3RNTTdvZmJPYmUwVy1UczFqbEVrUzlMS3ZVVllibUdMTU5vTGVsNW5hb2hKbm84cFplYjRkS190SFIwcENaNFFFRm1SZ3ZVN0d2bmIzS0k3OExta0dld2M2SUFaSVR2c0pLYkpvd1VNN3R2ZnUzeFVqQVhRRDNpR01lS0hZcUZVYmtEMVRFSkFLOWVBdndTVVcwd1JOZW1MZDlYaUxRRUVnTzgyMmNCVXBrRjl2LVJRNTVSNTZiSDJsYzQydHVrTmduR08xWFVZWGFyeFhIWFVhdktpQlVMMnFEbVUwdFdQWFdwQVZjd3pkaEdvRFpiU09Hbl9Zc0J4TENjQ1BqbmFEV0hhOXdwYURqTjBJS195MWMwaTdJVnJ4MjdHMEJsSVlpeUJZbkZhRXpQei1UR2dPVkphT3ZTOV83LWxsQlNEUThidnBMei1ydEs5OF9VQWZKSEl2?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5e1474364a4d",
       "title": "全球肥胖危機：世衛指控食品巨企濫訴，阻礙各國推行健康飲食政策 - Singtaousa",
       "published": "2026-08-01T20:33:55+00:00",
@@ -148,14 +136,14 @@
       ]
     },
     {
-      "id": "171383e0bea6",
-      "title": "維他命B12吃得多竟致癌？丹麥33萬人研究：患癌風險高6倍 醫生拆解迷思 與1大警號有關 - 星島頭條",
-      "published": "2026-07-31T08:00:00+00:00",
-      "summary": "維他命B12吃得多竟致癌？丹麥33萬人研究：患癌風險高6倍 醫生拆解迷思 與1大警號有關&nbsp;&nbsp;星島頭條",
+      "id": "6894da34c9c2",
+      "title": "25歲女喉嚨痛死忍4天險窒息！醫生警告別亂食抗生素：1招分辨普通發炎與扁桃腺膿腫 - hk.ulifestyle.com.hk",
+      "published": "2026-08-01T09:57:32+00:00",
+      "summary": "25歲女喉嚨痛死忍4天險窒息！醫生警告別亂食抗生素：1招分辨普通發炎與扁桃腺膿腫&nbsp;&nbsp;hk.ulifestyle.com.hk",
       "sources": [
         {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNSGtMcnZ0N1BJZm52QjM2YV94MEp0MUMzOF9xOUotWThUWlVISDByY18tdW8zbmtsZzRWY2o3TVc4OEV2dU1oclVYVzk3dFBQUTAtSGhxemRXMjNZOExvd3o2YUo2RndrcWYyLTRNQnZZOFozaWpQQkxrVjBpdzlhTXphQTlTdDhBbHRkenJKdVU5N25uZzlsaU93RVhtVUFmYTZ5UFZFbTI1dFZ2cjBMR2lEZ1RmY1pxbUhZTDlNSjJkWUR0WnA1YXc2eG1aLXhOV1ItaDNfYXBqOG9INF94Rk9COTBtVG9ZcjM2S2xKLWJiRm1fcm5DNGJoN2VMWTdfLVM1TjdoQlVFODJxa3htNzRKa28yMjVGX3NoY3hueG5jLU9HUGY2S0hDMmNLbU5SaVVzY1Y4aFE0TXVzakNCUjRtOWR1a0I0bW92SW8zR0ViOV9DREQ5ejNUTVhNMS1jbklSWFRRYllySUdqanVnT3JsVWhYbkJEYjhqU2NwZDBhZVliSEtKaXBvOXZsc0hwVy1UTEFPSW9jdkJUeEVLb3luYkdvOVh0eGdrRjZEWnZraGdzLXZHaDNSLS1SODY1LVgtbUZWYmpLR0JnOGJiUnVmN0x6bjhMelEzV1lLX0pWUFItYzFMQVFLVGExMHVlT0I0?oc=5"
+          "name": "hk.ulifestyle.com.hk",
+          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPVXRiUXhrQTRwMzdXSHBGSm5Eb3hCZVRtWTJGa1dtb2lSTXNSamoxWlNqaDJhLUpVb0l1SHNRSHQwQTlKbG1RT3RNTTdvZmJPYmUwVy1UczFqbEVrUzlMS3ZVVllibUdMTU5vTGVsNW5hb2hKbm84cFplYjRkS190SFIwcENaNFFFRm1SZ3ZVN0d2bmIzS0k3OExta0dld2M2SUFaSVR2c0pLYkpvd1VNN3R2ZnUzeFVqQVhRRDNpR01lS0hZcUZVYmtEMVRFSkFLOWVBdndTVVcwd1JOZW1MZDlYaUxRRUVnTzgyMmNCVXBrRjl2LVJRNTVSNTZiSDJsYzQydHVrTmduR08xWFVZWGFyeFhIWFVhdktpQlVMMnFEbVUwdFdQWFdwQVZjd3pkaEdvRFpiU09Hbl9Zc0J4TENjQ1BqbmFEV0hhOXdwYURqTjBJS195MWMwaTdJVnJ4MjdHMEJsSVlpeUJZbkZhRXpQei1UR2dPVkphT3ZTOV83LWxsQlNEUThidnBMei1ydEs5OF9VQWZKSEl2?oc=5"
         }
       ]
     },
@@ -168,6 +156,18 @@
         {
           "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB2b1BDNWJ5Q0tIQ1VtcURUNjB2UDhSYmt3YXQ2bjFpTVBZb2hLNFJNd1VUU3A3LWtSUjg0d1pzeVVXMFNXZkZN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "171383e0bea6",
+      "title": "維他命B12吃得多竟致癌？丹麥33萬人研究：患癌風險高6倍 醫生拆解迷思 與1大警號有關 - 星島頭條",
+      "published": "2026-07-31T08:00:00+00:00",
+      "summary": "維他命B12吃得多竟致癌？丹麥33萬人研究：患癌風險高6倍 醫生拆解迷思 與1大警號有關&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNSGtMcnZ0N1BJZm52QjM2YV94MEp0MUMzOF9xOUotWThUWlVISDByY18tdW8zbmtsZzRWY2o3TVc4OEV2dU1oclVYVzk3dFBQUTAtSGhxemRXMjNZOExvd3o2YUo2RndrcWYyLTRNQnZZOFozaWpQQkxrVjBpdzlhTXphQTlTdDhBbHRkenJKdVU5N25uZzlsaU93RVhtVUFmYTZ5UFZFbTI1dFZ2cjBMR2lEZ1RmY1pxbUhZTDlNSjJkWUR0WnA1YXc2eG1aLXhOV1ItaDNfYXBqOG9INF94Rk9COTBtVG9ZcjM2S2xKLWJiRm1fcm5DNGJoN2VMWTdfLVM1TjdoQlVFODJxa3htNzRKa28yMjVGX3NoY3hueG5jLU9HUGY2S0hDMmNLbU5SaVVzY1Y4aFE0TXVzakNCUjRtOWR1a0I0bW92SW8zR0ViOV9DREQ5ejNUTVhNMS1jbklSWFRRYllySUdqanVnT3JsVWhYbkJEYjhqU2NwZDBhZVliSEtKaXBvOXZsc0hwVy1UTEFPSW9jdkJUeEVLb3luYkdvOVh0eGdrRjZEWnZraGdzLXZHaDNSLS1SODY1LVgtbUZWYmpLR0JnOGJiUnVmN0x6bjhMelEzV1lLX0pWUFItYzFMQVFLVGExMHVlT0I0?oc=5"
         }
       ]
     }
