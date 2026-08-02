@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-01T23:49:10.979691+00:00",
-  "count": 4,
+  "generated": "2026-08-02T01:54:53.276459+00:00",
+  "count": 3,
   "news": [
     {
       "id": "d2ae78b7e667",
@@ -51,13 +51,13 @@
       ]
     },
     {
-      "id": "6edc8b316e8c",
-      "title": "減肥抗癌？半年內做減重手術 研究曝「這癌症」風險降20%",
-      "published": "2026-07-31T03:23:55+00:00",
+      "id": "2426878542e5",
+      "title": "減肥抗癌？半年內做減重手術 研究曝「這癌症」風險降20% | 太報 - LINE TODAY",
+      "published": "2026-07-31T06:03:01+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQREtVSV84OTVVQ1JINmxMQWJkejJMU2h5YUxHQkRmNkNjU0dEZk1BQkQwZk9fSng5ZDlRb0s3aTNYaXRmR0tlXzJadi0wYzU2bE50cHBuRHlQN3BKMVBVMUd1V1RfVE1zS2JHSGVqSnQxYnhqYnJMc2FuNGlpUXJUTnZjSmo5YVJuTHRqRURzRlJVQUpDVlNpVE91LUFPdmtpRng3eFNlTTdjdm1TTkdhcW8xS0FwVFNaNzR2eEJkWmZneHZoXzk4aERKdWxsbGpIU05OOFU3djVLWjUzVWxieHdBTlZRakRMSXlPbkxyV3lFWHQzcG1ocUlvQ2YtZ1NYNlBHUTVPYndoU1FJTHRHVkdTZVlqbzhWN0U3NmxZbVpVV3pDN1N6dW85dFkzUHQwcTVRSXRiSU1sVnlOaGFsekQwUFMxc0xXVEcw?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qd1FISTJaOWJDNlE4dUQ4N1E2UDgzelhtbUtKdTZxa1RsVzVhUFRGX3J6RkR5RlF3ckFEWUFnOExlUzdpb0ZlWWFnX0lDci11eEI5R2l3?oc=5"
         }
       ],
       "keywords": [
@@ -299,41 +299,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "93e611d4e33c",
-      "title": "兩歲前限制攝取糖分與較佳腦部健康有關聯——香港科大廣州分校研究",
-      "published": "2026-07-31T00:29:10+00:00",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9adTBOUUNidzFPaFlTV2FQWFpnZHVtMHRzLWtHNE1IUHo5UUk3T2owY3gyY3lGcUp4VXM5SEY4ak5YMXBsUTlTcTlDZlMtTHdqNlltb092VllBQ280MkNORXBCWEFGQdIBa0FVX3lxTE9iclNMNEtDTUxXVEhJREhVNXF5Z0piOW9CeFZSNGdpMlFyRndQUHhTbzdCQjdMMFJsNkVFV1FVTEVYLUZtd1JWZ05lYjM2UDdkT1RMelVhbzVEWDFjaTZ5WFJwaXFKV2pqTDlF?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
