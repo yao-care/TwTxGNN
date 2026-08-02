@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [心臟衰竭治療的新整合策略，一顆複方藥丸造成的改變 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE55UXdCVXhMajRMVTZvTXVEeEZBbHlWQ0toV3p4akhQQXNaUllJUERmWHZPU2plWFRXa1hZM0s0a1duQUpLQ0RwQjBkZXIza1lmejFvb3B3?oc=5)
 
 2026-08-01 <span class="news-indication-tag">心臟衰竭</span>
 
 來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE55UXdCVXhMajRMVTZvTXVEeEZBbHlWQ0toV3p4akhQQXNaUllJUERmWHZPU2plWFRXa1hZM0s0a1duQUpLQ0RwQjBkZXIza1lmejFvb3B3?oc=5)
+
+---
+
+### [運動真的能同時預防心臟病與失智症嗎？](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KYjdmVHBFYndOVm51MllvbnczY1AyaEw0VlNmakxmZERFX1U3Y0RVMmtWM2RhVFNpekg0V25hU0dTSFFZQWQxOVN4bnFSSWhLX3g1UG9qWTZFMmNKQWdLbUdyYmZ5dw?oc=5)
+
+2026-08-01 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+
+來源：[careonline.com.tw](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KYjdmVHBFYndOVm51MllvbnczY1AyaEw0VlNmakxmZERFX1U3Y0RVMmtWM2RhVFNpekg0V25hU0dTSFFZQWQxOVN4bnFSSWhLX3g1UG9qWTZFMmNKQWdLbUdyYmZ5dw?oc=5)
 
 ---
 

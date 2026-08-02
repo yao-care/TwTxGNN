@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-02T11:54:25.145173+00:00",
-  "total_count": 12,
-  "matched_count": 4,
+  "last_updated": "2026-08-02T13:00:32.725649+00:00",
+  "total_count": 17,
+  "matched_count": 5,
   "news": [
     {
       "id": "7b0e1756ea91",
@@ -53,14 +53,53 @@
       ]
     },
     {
-      "id": "90c1b1647dfa",
-      "title": "Keynote 3——後藤由季子：染色質機制決定新皮質命運，生理時鐘是疊加的另一層精密控制!",
-      "published": "2026-08-02T02:44:13+00:00",
-      "summary": "Keynote 3——後藤由季子：染色質機制決定新皮質命運，生理時鐘是疊加的另一層精密控制!&nbsp;&nbsp;news.gbimonthly.com",
+      "id": "d713c005ac5d",
+      "title": "養生／疲勞頭號原因最易被忽視 年齡越長越嚴重",
+      "published": "2026-08-02T06:07:00+00:00",
+      "summary": "養生／疲勞頭號原因最易被忽視 年齡越長越嚴重&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "news.gbimonthly.com",
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXQVljY0pfelV2LXZpZXFrMVJRY3BrUkhlRDI1NC1NOS1DelN4SVZBREN1WnlaQllDRDU1bHhVcnByX2thOVlwbWZtY1JUYm9IMTBNTnRlQmg5dV85Y1dqdjZB0gFnQVVfeXFMTnVKMDVId01qdldYRmFKN1Z1QWtHaEZoOWczZWxqN1NFY00yLThybEYxSnpZREJjR3Iwd2l4dFExRUlVOS1ZUUhmeVdDeHY0TWxvQUE4bW92cE1EQWhaWTB5NXUyYUpXVQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "50cdb5937799",
+      "title": "養生／曬太陽幫助鈣質吸收 最多15分鐘",
+      "published": "2026-08-02T06:05:00+00:00",
+      "summary": "養生／曬太陽幫助鈣質吸收 最多15分鐘&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pWUF5Y0x1WTdxWGJ3ZFhwRUVUMDNXSVRwVG80VEVud3RCZWtqWEdjSEtweVlDbHRMbXZXalhLR3hEOHMxTU01Nk1hVTEwQm1JWDkwd2s1bWxxQThLWUtsUkZB0gFnQVVfeXFMTUpTZDVYSHpRYzluQTN6bFdqVU9tNTY2Tk1Ia1d3Wm9VNzBGNkcyOGZwb3E0M0g2VmxxUUJIbEo3RVV1SWdsc19HUjJPODAxQ0xDNzU1VUJnOEQtT2V2VTMzUk9ObnZ3dw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1c8fe575eb84",
+      "title": "Keynote 3——後藤由季子：染色質機制決定新皮質命運，生理時鐘是疊加的另一層精密控制!",
+      "published": "2026-08-02T02:44:13+00:00",
+      "summary": "Keynote 3——後藤由季子：染色質機制決定新皮質命運，生理時鐘是疊加的另一層精密控制!&nbsp;&nbsp;環球生技月刊",
+      "sources": [
+        {
+          "name": "環球生技月刊",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4LUFua1AwdnMtTDMwOHJ0R2dwRDN6bEJqbUNkUHROWDVUVUcyeE5nNWV1VGFVeEZRUnd6QlNHM2VLalJTNERfU2I4UHBQbGRTTXNyQVFiUnFvQm1rNzBaNDA2c0xUZWN0eC1HWmpB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9e87e9bc790e",
+      "title": "禿頭｜光頭原來有好處？美國研究揭30歲前開始脫髮 前列腺癌風險降低29% - myTV SUPER",
+      "published": "2026-08-01T23:45:00+00:00",
+      "summary": "禿頭｜光頭原來有好處？美國研究揭30歲前開始脫髮 前列腺癌風險降低29%&nbsp;&nbsp;myTV SUPER",
+      "sources": [
+        {
+          "name": "myTV SUPER",
+          "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxNelg4eUN5QU1ZRTAydl83TXpYdWJTclp3MElXazBvTTl6b2dudGFZUFczY1JtbVpkWUswdHVGSlRBYnpQeGpjOWZhbDlmWnFCOVNSbEphOFQ2M01vT1R0UWxxT0l6WE1RaDAwUUVRVVFjRTY0Zk5SYm56VjM2Q0VWLUpYTWlMZlU2ajVlXzJnQ0pZM0Z2bzZwcXowMS1razJhRGJIVU0xNjBmYUhldmwyYVFwWmRXZzBVWkNQNnRTdzJGaFVjcUxKcnVtNVhDa3pjNE9IdVY0MWE5YWJ4MDU0cVNuQkZjbzdrdEZHcXBETVNLcXBRc29jczlTRTQyLXNmT0pYd3k2VkxTZndlSE1maTBnMlBzbzZzeGx6NmQwcU9SaThFUmVyQm5iRi1mVGxNUFMyYi0yck9xeDZ6SzRkeXdHRFRzZkl5MW1MZ0xVS2pPQUpBZ1BKUHZuMlNyTVd6S1hFMmxTWk04OTVKUGpmVkRKSVlPMzdJcGRlU0dkQ1VpWXotVnpVOUhRMzliak9kS0JlWUdMSzg2ZlJuanVKTEtoM3ZqNkdTaHZQNjRsalcyVkFrS2RkV093V1ljQlpWV2VxTG5PM1dWaWRhQnBQTzJMRzFwMWVidmZqczdBbXZfWkhXSnUtWV9YZE80aGxKLVdYMTZ1YVB3MnlkYmFfN2V5bmJvSjUw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -130,6 +169,101 @@
       "matched_keywords": []
     },
     {
+      "id": "2561c7d11a5e",
+      "title": "運動真的能同時預防心臟病與失智症嗎？",
+      "published": "2026-08-01T08:01:42+00:00",
+      "summary": "運動真的能同時預防心臟病與失智症嗎？&nbsp;&nbsp;careonline.com.tw",
+      "sources": [
+        {
+          "name": "careonline.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KYjdmVHBFYndOVm51MllvbnczY1AyaEw0VlNmakxmZERFX1U3Y0RVMmtWM2RhVFNpekg0V25hU0dTSFFZQWQxOVN4bnFSSWhLX3g1UG9qWTZFMmNKQWdLbUdyYmZ5dw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "95dd40d96870",
       "title": "全球愛滋病預防受挫 美國國際開發署資金削減影響新藥普及",
       "published": "2026-08-01T06:30:00+00:00",
@@ -138,6 +272,19 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOejB4WmEzX08yY29LYk5wdGg0My1xcjhrb2F5UFY3d2pXU3l5cFdJcEd1cERoZG8zb3hpRFJmVEFoS1FkdkV4eW1ya2Zsem5nTTJBa2g4RGgtSTd3MmI2Z3AwejF5Z1VsUDg5RGNDWWJkVHVjV1d3U0tCRUZnU25ZbnlJTDR5Sm1sS19LZlctWlhJS1FHV0RZcmRSOUR2b2poOTJ2ZldwajBFNlZnOHpuUzRxNUREcFlqSzM5Vy1RRGR2dFRXWFVuQ283NmpnSmJ4UUxFRGt3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "10422202f690",
+      "title": "太和善、太獨立、太會忍，這些被稱讚的「好個性」可能正在傷害你的身體！",
+      "published": "2026-08-01T06:18:17+00:00",
+      "summary": "太和善、太獨立、太會忍，這些被稱讚的「好個性」可能正在傷害你的身體！&nbsp;&nbsp;Cheers快樂工作人總是太體貼、太能忍？研究發現這些「好人特質」可能正傷害你的身體&nbsp;&nbsp;money.udn.com",
+      "sources": [
+        {
+          "name": "Cheers快樂工作人",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KeXJ1OEhnaHBaYzFqd1NuNXpZeC1ILUNFTHlEbkZMZi1uX0YyclFZMThpYzVHNG1adV9zWHFCTEhrVjcxTktUZEJVR29BYUdlWGxaQ1lacUJxZE9nVklwMHMweGdMNmcxd3dNVzRyaUUzZ1Q2?oc=5"
         }
       ],
       "matched_keywords": []
@@ -169,39 +316,14 @@
       "matched_keywords": []
     },
     {
-      "id": "c9523ae1d79e",
-      "title": "研究顯示：中壯年人維生素D水準與降低阿茲海默症風險相關- 國際",
-      "published": "2026-07-31T15:53:00+00:00",
-      "summary": "研究顯示：中壯年人維生素D水準與降低阿茲海默症風險相關- 國際&nbsp;&nbsp;工商時報",
+      "id": "082f80937838",
+      "title": "保健》半年內減重手術 乳癌風險降2成 - 中國時報",
+      "published": "2026-08-01T01:34:03+00:00",
+      "summary": "保健》半年內減重手術 乳癌風險降2成&nbsp;&nbsp;中國時報- 翻爆及早減重手術 助降乳癌發生率 | 中華日報&nbsp;&nbsp;LINE TODAY減肥抗癌？半年內做減重手術 研究曝「這癌症」風險降20%&nbsp;&nbsp;Yahoo新聞肥胖不只傷心血管！醫揭乳癌風險也跟著升高，1族群及早減重效果最好&nbsp;&nbsp;良醫健康網體重超標，小心加速累積多重慢性病？&nbsp;&nbsp;careonline.com.tw",
       "sources": [
         {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0ySWp6VV9XRkJXVWdPTWZxN3pzb19LZzZWdDVtb2pacUQzX2dqeFVIa3JuTG5GaExPVWlSeVFkVmVmdi1sUURTVGt3OHVBUF91blY1WkxEczVTQzYtZTJR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c3673f935a74",
-      "title": "北慈研究證實 及早進行減重手術有助降低乳癌發生率",
-      "published": "2026-07-31T11:11:23+00:00",
-      "summary": "北慈研究證實 及早進行減重手術有助降低乳癌發生率&nbsp;&nbsp;蕃新聞及早減重手術 助降乳癌發生率 | 中華日報&nbsp;&nbsp;LINE TODAY減肥抗癌？半年內做減重手術 研究曝「這癌症」風險降20%&nbsp;&nbsp;Yahoo新聞肥胖不只傷心血管！醫揭乳癌風險也跟著升高，1族群及早減重效果最好&nbsp;&nbsp;良醫健康網體重超標，小心加速累積多重慢性病？&nbsp;&nbsp;careonline.com.tw",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wMnFMbVBTdWxHWmgxcjIyVmxPRzZuNnZBTmNyQ0I0UUJnOHFoYU5BdkJjN2JTWVBvVU9SUXVERmxXNGZVNUluYjgxemYzTlFKTlE?oc=5"
+          "name": "中國時報- 翻爆",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjRjRVVEbzhJZ3BWZF9iMnVMYmlDUWpzdF9pdVR3R0VPbjJiNTVkNG82c19UdFVEWXZMcHl1aDhCY2hUUk1QUkE1Y2dWbG5IeThIdWhxMjZKU1dMMGprUnBtT0FlbWhQRkVSX0lkTjlHbnhmTHVyX2tvWE5TQlRwVW4tX0pJdw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -449,13 +571,38 @@
       ]
     },
     {
-      "id": "4cb4f91f74ee",
-      "title": "嚇！牙肉血肉模糊毫無痛感不菸不酒婦竟得口腔癌| 生活",
-      "published": "2026-07-26T22:38:04+00:00",
-      "summary": "嚇！牙肉血肉模糊毫無痛感不菸不酒婦竟得口腔癌| 生活&nbsp;&nbsp;setn.com",
+      "id": "c9523ae1d79e",
+      "title": "研究顯示：中壯年人維生素D水準與降低阿茲海默症風險相關- 國際",
+      "published": "2026-07-31T15:53:00+00:00",
+      "summary": "研究顯示：中壯年人維生素D水準與降低阿茲海默症風險相關- 國際&nbsp;&nbsp;工商時報",
       "sources": [
         {
-          "name": "setn.com",
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0ySWp6VV9XRkJXVWdPTWZxN3pzb19LZzZWdDVtb2pacUQzX2dqeFVIa3JuTG5GaExPVWlSeVFkVmVmdi1sUURTVGt3OHVBUF91blY1WkxEczVTQzYtZTJR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "749e613157aa",
+      "title": "嚇！牙肉血肉模糊毫無痛感不菸不酒婦竟得口腔癌| 生活",
+      "published": "2026-07-26T22:38:04+00:00",
+      "summary": "嚇！牙肉血肉模糊毫無痛感不菸不酒婦竟得口腔癌| 生活&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB2b1BDNWJ5Q0tIQ1VtcURUNjB2UDhSYmt3YXQ2bjFpTVBZb2hLNFJNd1VUU3A3LWtSUjg0d1pzeVVXMFNXZkZN?oc=5"
         }
       ],

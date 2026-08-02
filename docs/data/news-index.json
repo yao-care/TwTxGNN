@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-02T11:54:25.166015+00:00",
-  "count": 4,
+  "generated": "2026-08-02T13:00:32.757065+00:00",
+  "count": 5,
   "news": [
     {
       "id": "7b0e1756ea91",
@@ -75,20 +75,90 @@
       ]
     },
     {
-      "id": "c9523ae1d79e",
-      "title": "研究顯示：中壯年人維生素D水準與降低阿茲海默症風險相關- 國際",
-      "published": "2026-07-31T15:53:00+00:00",
+      "id": "2561c7d11a5e",
+      "title": "運動真的能同時預防心臟病與失智症嗎？",
+      "published": "2026-08-01T08:01:42+00:00",
       "sources": [
         {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0ySWp6VV9XRkJXVWdPTWZxN3pzb19LZzZWdDVtb2pacUQzX2dqeFVIa3JuTG5GaExPVWlSeVFkVmVmdi1sUURTVGt3OHVBUF91blY1WkxEczVTQzYtZTJR?oc=5"
+          "name": "careonline.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KYjdmVHBFYndOVm51MllvbnczY1AyaEw0VlNmakxmZERFX1U3Y0RVMmtWM2RhVFNpekg0V25hU0dTSFFZQWQxOVN4bnFSSWhLX3g1UG9qWTZFMmNKQWdLbUdyYmZ5dw?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
           "name": "dementia",
-          "keyword": "阿茲海默症",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
           "related_drugs": [
             {
               "slug": "gefitinib",
@@ -99,13 +169,13 @@
       ]
     },
     {
-      "id": "c3673f935a74",
-      "title": "北慈研究證實 及早進行減重手術有助降低乳癌發生率",
-      "published": "2026-07-31T11:11:23+00:00",
+      "id": "082f80937838",
+      "title": "保健》半年內減重手術 乳癌風險降2成 - 中國時報",
+      "published": "2026-08-01T01:34:03+00:00",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wMnFMbVBTdWxHWmgxcjIyVmxPRzZuNnZBTmNyQ0I0UUJnOHFoYU5BdkJjN2JTWVBvVU9SUXVERmxXNGZVNUluYjgxemYzTlFKTlE?oc=5"
+          "name": "中國時報- 翻爆",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjRjRVVEbzhJZ3BWZF9iMnVMYmlDUWpzdF9pdVR3R0VPbjJiNTVkNG82c19UdFVEWXZMcHl1aDhCY2hUUk1QUkE1Y2dWbG5IeThIdWhxMjZKU1dMMGprUnBtT0FlbWhQRkVSX0lkTjlHbnhmTHVyX2tvWE5TQlRwVW4tX0pJdw?oc=5"
         }
       ],
       "keywords": [
@@ -347,6 +417,30 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c9523ae1d79e",
+      "title": "研究顯示：中壯年人維生素D水準與降低阿茲海默症風險相關- 國際",
+      "published": "2026-07-31T15:53:00+00:00",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0ySWp6VV9XRkJXVWdPTWZxN3pzb19LZzZWdDVtb2pacUQzX2dqeFVIa3JuTG5GaExPVWlSeVFkVmVmdi1sUURTVGt3OHVBUF91blY1WkxEczVTQzYtZTJR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }

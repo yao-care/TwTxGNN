@@ -44,11 +44,11 @@ permalink: /news/oteracil/
 
 ## 相關新聞（1 則）
 
-### [北慈研究證實 及早進行減重手術有助降低乳癌發生率](https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wMnFMbVBTdWxHWmgxcjIyVmxPRzZuNnZBTmNyQ0I0UUJnOHFoYU5BdkJjN2JTWVBvVU9SUXVERmxXNGZVNUluYjgxemYzTlFKTlE?oc=5)
+### [保健》半年內減重手術 乳癌風險降2成 - 中國時報](https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjRjRVVEbzhJZ3BWZF9iMnVMYmlDUWpzdF9pdVR3R0VPbjJiNTVkNG82c19UdFVEWXZMcHl1aDhCY2hUUk1QUkE1Y2dWbG5IeThIdWhxMjZKU1dMMGprUnBtT0FlbWhQRkVSX0lkTjlHbnhmTHVyX2tvWE5TQlRwVW4tX0pJdw?oc=5)
 
-2026-07-31 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">乳癌</span>
+2026-08-01 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">乳癌</span>
 
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wMnFMbVBTdWxHWmgxcjIyVmxPRzZuNnZBTmNyQ0I0UUJnOHFoYU5BdkJjN2JTWVBvVU9SUXVERmxXNGZVNUluYjgxemYzTlFKTlE?oc=5)
+來源：[中國時報- 翻爆](https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjRjRVVEbzhJZ3BWZF9iMnVMYmlDUWpzdF9pdVR3R0VPbjJiNTVkNG82c19UdFVEWXZMcHl1aDhCY2hUUk1QUkE1Y2dWbG5IeThIdWhxMjZKU1dMMGprUnBtT0FlbWhQRkVSX0lkTjlHbnhmTHVyX2tvWE5TQlRwVW4tX0pJdw?oc=5)
 
 ---
 
