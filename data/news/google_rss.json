@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-02T20:07:01.488075+00:00",
-  "count": 8,
+  "fetched_at": "2026-08-02T21:44:42.681492+00:00",
+  "count": 9,
   "news": [
+    {
+      "id": "ddc0b6c4ef74",
+      "title": "研究：中壯年維生素D 充足或助減失智風險 - bastillepost.com",
+      "published": "2026-08-02T20:10:44+00:00",
+      "summary": "研究：中壯年維生素D 充足或助減失智風險&nbsp;&nbsp;bastillepost.com",
+      "sources": [
+        {
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOemtyNTFxNmtRWjlKc052ZVZVN0R2SFZ4MDRPb1RBZTY2d0VDWmhDV0hONmoteThzemJlUXpHYmhkRk1XWndqMFNrN3h6d0tCQUpxUHdObVRrakkyQ21rRmNnVzV5dmVPWFBxV05RMzBnRjJ6cU5LdVBCdnFnQzNzVVhPdlFVVnR4MjM5aGVDUFBBSWpUQUVTRzRYU0toVWE1WmFpaEZjQlR5ZWl5RFl0Y1RuSy0yRjktVjVhZlJSQ3dILXUwOUxydkxfSGdLSzlQaVRGVHByTUNCVk5iU0ZoWVFpWVphWGhHbU1lZllvMTMwNU1yRzkzOVJyUEtIZS1jTFpxM3dNUm9iOENyWjdoeTNBTmotTDR5Z0o1WG9zMEJZSUJNX2E4SWloWG1DN3NiNGxjVkNlVE5pN0VUWFRsTFFEZ25acmVjRXVz?oc=5"
+        }
+      ]
+    },
     {
       "id": "7b0e1756ea91",
       "title": "健康網》乳癌患者別只顧抗癌！ 醫提醒1檢查防骨質流失 - 自由健康網",
