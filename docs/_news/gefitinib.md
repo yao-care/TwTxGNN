@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,9 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [研究：中壯年維生素D 充足或助減失智風險](https://news.google.com/rss/articles/CBMiywJBVV95cUxOemtyNTFxNmtRWjlKc052ZVZVN0R2SFZ4MDRPb1RBZTY2d0VDWmhDV0hONmoteThzemJlUXpHYmhkRk1XWndqMFNrN3h6d0tCQUpxUHdObVRrakkyQ21rRmNnVzV5dmVPWFBxV05RMzBnRjJ6cU5LdVBCdnFnQzNzVVhPdlFVVnR4MjM5aGVDUFBBSWpUQUVTRzRYU0toVWE1WmFpaEZjQlR5ZWl5RFl0Y1RuSy0yRjktVjVhZlJSQ3dILXUwOUxydkxfSGdLSzlQaVRGVHByTUNCVk5iU0ZoWVFpWVphWGhHbU1lZllvMTMwNU1yRzkzOVJyUEtIZS1jTFpxM3dNUm9iOENyWjdoeTNBTmotTDR5Z0o1WG9zMEJZSUJNX2E4SWloWG1DN3NiNGxjVkNlVE5pN0VUWFRsTFFEZ25acmVjRXVz?oc=5)
-
-2026-08-02 <span class="news-indication-tag">失智</span>
-
-來源：[bastillepost.com](https://news.google.com/rss/articles/CBMiywJBVV95cUxOemtyNTFxNmtRWjlKc052ZVZVN0R2SFZ4MDRPb1RBZTY2d0VDWmhDV0hONmoteThzemJlUXpHYmhkRk1XWndqMFNrN3h6d0tCQUpxUHdObVRrakkyQ21rRmNnVzV5dmVPWFBxV05RMzBnRjJ6cU5LdVBCdnFnQzNzVVhPdlFVVnR4MjM5aGVDUFBBSWpUQUVTRzRYU0toVWE1WmFpaEZjQlR5ZWl5RFl0Y1RuSy0yRjktVjVhZlJSQ3dILXUwOUxydkxfSGdLSzlQaVRGVHByTUNCVk5iU0ZoWVFpWVphWGhHbU1lZllvMTMwNU1yRzkzOVJyUEtIZS1jTFpxM3dNUm9iOENyWjdoeTNBTmotTDR5Z0o1WG9zMEJZSUJNX2E4SWloWG1DN3NiNGxjVkNlVE5pN0VUWFRsTFFEZ25acmVjRXVz?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
