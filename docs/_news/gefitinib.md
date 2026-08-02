@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,9 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [研究顯示：中壯年人維生素D水準與降低阿茲海默症風險相關](https://news.google.com/rss/articles/CBMibkFVX3lxTFAxMDJGNXEyR3d4MW13ck5ud3BKTThubWQ0NGJkMUNzVTVMYlUtMkRtWWVPZFppTXhWdi1lRVI5bTR3SVVjVWJWY2V0bzdvUExGX2xBbWV4U25Qc0pJTnJOeU1ZMTBoMlJCQW9ULWNB?oc=5)
-
-2026-07-31 <span class="news-indication-tag">阿茲海默症</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFAxMDJGNXEyR3d4MW13ck5ud3BKTThubWQ0NGJkMUNzVTVMYlUtMkRtWWVPZFppTXhWdi1lRVI5bTR3SVVjVWJWY2V0bzdvUExGX2xBbWV4U25Qc0pJTnJOeU1ZMTBoMlJCQW9ULWNB?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
