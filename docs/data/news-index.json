@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-02T13:00:32.757065+00:00",
-  "count": 5,
+  "generated": "2026-08-02T14:53:56.509728+00:00",
+  "count": 6,
   "news": [
     {
       "id": "7b0e1756ea91",
@@ -45,6 +45,49 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e7c3413f34aa",
+      "title": "我們的周遭環境，是不是正在悄悄影響腦中風的風險？",
+      "published": "2026-08-01T16:01:08+00:00",
+      "sources": [
+        {
+          "name": "careonline.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ITUYwLXFjNWduWUM5LS1XUi1QdXE4cTA3MnJvaFhsazRIM3pPc1FKb1pEc2J1X0VwUm5iX2x3ZmxKdU9BTkthN0FHWmJfc0VxNUdOX0prUEdlaXZFNWhCcjRPNWxDUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腦中風",
+          "keyword": "腦中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
             }
           ]
         }

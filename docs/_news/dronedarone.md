@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [我們的周遭環境，是不是正在悄悄影響腦中風的風險？](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ITUYwLXFjNWduWUM5LS1XUi1QdXE4cTA3MnJvaFhsazRIM3pPc1FKb1pEc2J1X0VwUm5iX2x3ZmxKdU9BTkthN0FHWmJfc0VxNUdOX0prUEdlaXZFNWhCcjRPNWxDUQ?oc=5)
+
+2026-08-01 <span class="news-indication-tag">中風</span> <span class="news-indication-tag">腦中風</span>
+
+來源：[careonline.com.tw](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ITUYwLXFjNWduWUM5LS1XUi1QdXE4cTA3MnJvaFhsazRIM3pPc1FKb1pEc2J1X0VwUm5iX2x3ZmxKdU9BTkthN0FHWmJfc0VxNUdOX0prUEdlaXZFNWhCcjRPNWxDUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

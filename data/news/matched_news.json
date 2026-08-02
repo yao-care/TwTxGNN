@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-02T13:00:32.725649+00:00",
-  "total_count": 17,
-  "matched_count": 5,
+  "last_updated": "2026-08-02T14:53:56.487758+00:00",
+  "total_count": 18,
+  "matched_count": 6,
   "news": [
     {
       "id": "7b0e1756ea91",
@@ -129,6 +129,50 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "e7c3413f34aa",
+      "title": "我們的周遭環境，是不是正在悄悄影響腦中風的風險？",
+      "published": "2026-08-01T16:01:08+00:00",
+      "summary": "我們的周遭環境，是不是正在悄悄影響腦中風的風險？&nbsp;&nbsp;careonline.com.tw",
+      "sources": [
+        {
+          "name": "careonline.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ITUYwLXFjNWduWUM5LS1XUi1QdXE4cTA3MnJvaFhsazRIM3pPc1FKb1pEc2J1X0VwUm5iX2x3ZmxKdU9BTkthN0FHWmJfc0VxNUdOX0prUEdlaXZFNWhCcjRPNWxDUQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腦中風",
+          "keyword": "腦中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "d2ae78b7e667",
@@ -280,7 +324,7 @@
       "id": "10422202f690",
       "title": "太和善、太獨立、太會忍，這些被稱讚的「好個性」可能正在傷害你的身體！",
       "published": "2026-08-01T06:18:17+00:00",
-      "summary": "太和善、太獨立、太會忍，這些被稱讚的「好個性」可能正在傷害你的身體！&nbsp;&nbsp;Cheers快樂工作人總是太體貼、太能忍？研究發現這些「好人特質」可能正傷害你的身體&nbsp;&nbsp;money.udn.com",
+      "summary": "太和善、太獨立、太會忍，這些被稱讚的「好個性」可能正在傷害你的身體！&nbsp;&nbsp;Cheers快樂工作人總是太體貼、太能忍？研究發現這些「好人特質」可能正傷害你的身體&nbsp;&nbsp;經濟日報",
       "sources": [
         {
           "name": "Cheers快樂工作人",
