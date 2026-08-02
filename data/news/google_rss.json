@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-02T21:44:42.681492+00:00",
-  "count": 9,
+  "fetched_at": "2026-08-02T22:45:51.067383+00:00",
+  "count": 10,
   "news": [
     {
       "id": "ddc0b6c4ef74",
@@ -64,13 +64,13 @@
       ]
     },
     {
-      "id": "7fd07b178aca",
-      "title": "海外生活增加感染風險？醫師提醒：出國前可評估HPV疫苗接種 - Yahoo新聞",
+      "id": "7c4eccfea030",
+      "title": "海外生活增加感染風險？醫師提醒：出國前可評估HPV疫苗接種 - tw.news.yahoo.com",
       "published": "2026-08-01T01:42:50+00:00",
-      "summary": "海外生活增加感染風險？醫師提醒：出國前可評估HPV疫苗接種&nbsp;&nbsp;Yahoo新聞",
+      "summary": "海外生活增加感染風險？醫師提醒：出國前可評估HPV疫苗接種&nbsp;&nbsp;tw.news.yahoo.com",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxObGJjX2RmTi1MTTg2TGhfaW9YaEhpTG5LbHlYV180MUtfaVhUT2kwOGV1V2hLTDNtWmVJQ2lkVWhQNUUzMm53MWdzSE85UEpXdjNWRTlBQ0RuOWRWYWlqRVpWMFhTSllsSGlaNFZKcVBKRThzelF0eW9SbXpWRFRrMEtNeFFKODRRZmR4Q2lSWWNmOWFJMXdtZ1Bna0t4VnNPSHNUTGdEbGtQSERfVU9ReHNSRmluSnlIUEx2ckxWTkhvZjd5ZzUzLWhuTHlfTWRJaWRYSXBtUDlKZjl1amNzYThJMG91YlRVWnQ1bjhmNGxZV3BMTHg3YWxsRG0zZWtNcmM3LW42dVhSOHFERDgzX2FnMnIxSGFRb2xyZjFfS3ZKTEJ6UmdJSG1qU0h6aWw4N2RlX0ozNFh2X1doNDR6TlIyeEhCenpnbkFHTEpfTTg0UHpZZ3YyenNzWjVQLU9aQVFhdDhOQk5Hd2VraHgxZWgtSlhlbDhlS3c?oc=5"
         }
       ]
@@ -88,13 +88,25 @@
       ]
     },
     {
-      "id": "658f54471532",
-      "title": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保 - 晴報 Sky Post",
-      "published": "2026-08-01T23:06:34+00:00",
-      "summary": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保&nbsp;&nbsp;晴報 Sky Post",
+      "id": "cefaf9a78143",
+      "title": "騎車遭蝙蝠迎面撞鼻 江西男求醫被列狂犬病三級暴露須打6 支免疫球蛋白 - bastillepost.com",
+      "published": "2026-08-02T21:55:03+00:00",
+      "summary": "騎車遭蝙蝠迎面撞鼻 江西男求醫被列狂犬病三級暴露須打6 支免疫球蛋白&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "晴報 Sky Post",
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPNWhoTVdFczV2TUlFTEwwVW1rSkhIZ1U1dEhzeWg5NnJXZXBLZ0k1eG9tX21Wc1BLamQ1czVYb0RxY2dDeE5lWkZsWDZXYTNjTGZUaFFiLWhhYjhYeUdzZ3pKOVhHS3VRekxvMDJ2MWFaeE95MnhPWWJwOVZFSjF2NVJrTlU1QXFVS1kyWXJONXV5RVRoRDdSZmE5dWg4bWNvbFlwOERYQUV5ckZBcnhHYkpNMVVYTjN5NkJMWHcwUGJTY21wTm1OaXRxRTJfWHg1UmQ1VUNPNVo5MWlhM0x0QkF5Z3lBYUNnbWZ2b2FOcUlvZVFJc0JsWkhTOG9MZkFubkRRMS1LRnJTWC1id0JnTlVZOEZhVlVxSUNFZFZJTXF5WkxmYjF3bHdNZkE5dEItQm5mUy1EQmFrTXN4dUFxajlKaVpzanFNSzR3bWpsSHBLck53N0RlWTMybzZ1QWtsLVVYLXFrT0ttbGlYdC1V?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7d69a41e4f98",
+      "title": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保 - skypost.hk",
+      "published": "2026-08-01T23:06:34+00:00",
+      "summary": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保&nbsp;&nbsp;skypost.hk",
+      "sources": [
+        {
+          "name": "skypost.hk",
           "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxPZzl3N05OTXRCcXBSckY4dGppZ0JtWGJZQThTMXpZVG9KQU43M3JVNk1pMjdhdHF6aFZaVmlBMnYwZnBwVkwxYjhEVmFlQnYwYndSb0h2RVJSaWNJeEc2ak84dE1ObmdhdlZNSlcycTFpd00tdkNCdnhZbUZJel9qRFg0c18zZUdWbVM0VTg1cTNUQW4wLS1CRDVIUTNTN0ZreTdSdDE1bTM3NWhOc0xvY3ZoSVBZZGJTbXYtRzVzREJqYnpwbVlOckFwRXZEYUVxc3p6eGk5VUlLd1p6cUlSOUZIZ1JZekw4QmRzWm40aFVwdEtmZnJSb3U4RmZBbFhtbXRNak8zX3BxQ3VxbFVpMDlmcE5GVFdzSFlDSkRiblJVdjU4MkFtOGkxT2gxSDBiYmNkWXREQzF3SkF6V0QyYnVvSWVmeGRHUHRJcloxaVBYUnhJeVV1U2JDWXJKanl3Ui15dFRqRkxONWxzWDhjZ2laSTBuSFNFa0JtcFRkM3o4RDF3RnppV2xZN1NOTHNnRm96ZHhkTUxZZndGNGtmU2Z0a09VS2NnUnNwdHdJczVETkVEWWpieGROaWVFTHFFQ3JURU5B?oc=5"
         }
       ]
