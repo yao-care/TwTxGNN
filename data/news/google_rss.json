@@ -1,28 +1,52 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-02T01:54:48.447833+00:00",
-  "count": 13,
+  "fetched_at": "2026-08-02T05:18:52.617979+00:00",
+  "count": 14,
   "news": [
     {
-      "id": "2426878542e5",
-      "title": "減肥抗癌？半年內做減重手術 研究曝「這癌症」風險降20% | 太報 - LINE TODAY",
-      "published": "2026-07-31T06:03:01+00:00",
-      "summary": "減肥抗癌？半年內做減重手術 研究曝「這癌症」風險降20% | 太報&nbsp;&nbsp;LINE TODAY及早減重手術 助降乳癌發生率 | 中華日報&nbsp;&nbsp;LINE TODAY減肥抗癌？半年內做減重手術 研究曝「這癌症」風險降20%&nbsp;&nbsp;Yahoo新聞肥胖不只傷心血管！醫揭乳癌風險也跟著升高，1族群及早減重效果最好&nbsp;&nbsp;良醫健康網體重超標，小心加速累積多重慢性病？&nbsp;&nbsp;careonline.com.tw",
+      "id": "1c8fe575eb84",
+      "title": "Keynote 3——後藤由季子：染色質機制決定新皮質命運，生理時鐘是疊加的另一層精密控制! - 環球生技月刊",
+      "published": "2026-08-02T02:44:13+00:00",
+      "summary": "Keynote 3——後藤由季子：染色質機制決定新皮質命運，生理時鐘是疊加的另一層精密控制!&nbsp;&nbsp;環球生技月刊",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qd1FISTJaOWJDNlE4dUQ4N1E2UDgzelhtbUtKdTZxa1RsVzVhUFRGX3J6RkR5RlF3ckFEWUFnOExlUzdpb0ZlWWFnX0lDci11eEI5R2l3?oc=5"
+          "name": "環球生技月刊",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4LUFua1AwdnMtTDMwOHJ0R2dwRDN6bEJqbUNkUHROWDVUVUcyeE5nNWV1VGFVeEZRUnd6QlNHM2VLalJTNERfU2I4UHBQbGRTTXNyQVFiUnFvQm1rNzBaNDA2c0xUZWN0eC1HWmpB?oc=5"
         }
       ]
     },
     {
-      "id": "c32d7d65b6ab",
-      "title": "科學人／貓薄荷不只讓貓嗨？研究發現：防蚊效果可媲美DEET - udn",
-      "published": "2026-08-01T06:08:16+00:00",
-      "summary": "科學人／貓薄荷不只讓貓嗨？研究發現：防蚊效果可媲美DEET&nbsp;&nbsp;udn",
+      "id": "0eb8f01557ab",
+      "title": "單腳站10秒做得到嗎？醫師：做不到跌倒風險恐大增，50歲後就該開始練 - 元氣網",
+      "published": "2026-08-02T01:56:56+00:00",
+      "summary": "單腳站10秒做得到嗎？醫師：做不到跌倒風險恐大增，50歲後就該開始練&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "udn",
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NTTJHX09iU2hqLW9ja3ZWUXlKU0RKajZCUUVZRXRTUXpUak5wdWxLd1RobExyZzBvZjlTOWlDV0RHVTVuNnZ5SlkzNG9GbUNzc2NzcVhiMi01UlN6VVNuaWtB0gFiQVVfeXFMTU1NMkdfT2JTaGotb2NrdlZReUpTREpqNkJRRVlFdFNRelRqTnB1bEt3VGhsTHJnMG9mOVM5aUNXREdVNW42dnlKWTM0b0ZtQ3NzY3NxWGIyLTVSU3pVU25pa0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c3673f935a74",
+      "title": "北慈研究證實 及早進行減重手術有助降低乳癌發生率 - 蕃新聞",
+      "published": "2026-07-31T11:11:23+00:00",
+      "summary": "北慈研究證實 及早進行減重手術有助降低乳癌發生率&nbsp;&nbsp;蕃新聞及早減重手術 助降乳癌發生率 | 中華日報&nbsp;&nbsp;LINE TODAY減肥抗癌？半年內做減重手術 研究曝「這癌症」風險降20%&nbsp;&nbsp;Yahoo新聞肥胖不只傷心血管！醫揭乳癌風險也跟著升高，1族群及早減重效果最好&nbsp;&nbsp;良醫健康網體重超標，小心加速累積多重慢性病？&nbsp;&nbsp;careonline.com.tw",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wMnFMbVBTdWxHWmgxcjIyVmxPRzZuNnZBTmNyQ0I0UUJnOHFoYU5BdkJjN2JTWVBvVU9SUXVERmxXNGZVNUluYjgxemYzTlFKTlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a031974b63ef",
+      "title": "科學人／貓薄荷不只讓貓嗨？研究發現：防蚊效果可媲美DEET - UDN",
+      "published": "2026-08-01T06:08:16+00:00",
+      "summary": "科學人／貓薄荷不只讓貓嗨？研究發現：防蚊效果可媲美DEET&nbsp;&nbsp;UDN",
+      "sources": [
+        {
+          "name": "UDN",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DOVktTmNxZXZvd0VtMTV5TUdxX0VOLXdJN0xjMGlxNmpkdzBGZGdrODNib3Q2ZGo2UlFYMkE3UndMMy1ueFdQUko1dkc2Ny1n?oc=5"
         }
       ]
@@ -132,18 +156,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNSGtMcnZ0N1BJZm52QjM2YV94MEp0MUMzOF9xOUotWThUWlVISDByY18tdW8zbmtsZzRWY2o3TVc4OEV2dU1oclVYVzk3dFBQUTAtSGhxemRXMjNZOExvd3o2YUo2RndrcWYyLTRNQnZZOFozaWpQQkxrVjBpdzlhTXphQTlTdDhBbHRkenJKdVU5N25uZzlsaU93RVhtVUFmYTZ5UFZFbTI1dFZ2cjBMR2lEZ1RmY1pxbUhZTDlNSjJkWUR0WnA1YXc2eG1aLXhOV1ItaDNfYXBqOG9INF94Rk9COTBtVG9ZcjM2S2xKLWJiRm1fcm5DNGJoN2VMWTdfLVM1TjdoQlVFODJxa3htNzRKa28yMjVGX3NoY3hueG5jLU9HUGY2S0hDMmNLbU5SaVVzY1Y4aFE0TXVzakNCUjRtOWR1a0I0bW92SW8zR0ViOV9DREQ5ejNUTVhNMS1jbklSWFRRYllySUdqanVnT3JsVWhYbkJEYjhqU2NwZDBhZVliSEtKaXBvOXZsc0hwVy1UTEFPSW9jdkJUeEVLb3luYkdvOVh0eGdrRjZEWnZraGdzLXZHaDNSLS1SODY1LVgtbUZWYmpLR0JnOGJiUnVmN0x6bjhMelEzV1lLX0pWUFItYzFMQVFLVGExMHVlT0I0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d8f5790df251",
-      "title": "新東誌｜微創介入，精準守護：威爾斯親王醫院介入放射服務 - 橙新聞",
-      "published": "2026-07-31T02:08:32+00:00",
-      "summary": "新東誌｜微創介入，精準守護：威爾斯親王醫院介入放射服務&nbsp;&nbsp;橙新聞",
-      "sources": [
-        {
-          "name": "橙新聞",
-          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQeU4yZUdjVC1zeUhJZ3BMc3FaY3c4MFBNQWNnVi1fb0tvR1ZzdTVWdWs1cFdYc19USm45WGxNcmJFUmRWSDBsRmJoTDM3ZUx1d2Rlb1dGWi1oalRybTBKVm5ERFJ5bWZRQm9pT2ExbGF0THdHTzc4emkxRGV3UVpkR2Y1Tm1oOXR4S0RMUXBuOGdONXNRMUJYUDF1Zko5WkN2eUhnRTZMV0pXSjFveVZrQ1gzYXFDVzN6NTBqeGdmRVBkMjBkQ1NJUm9EeWp5Wnl4Mjg1VjdfUW8xN3M5Q3RXQ2lsQXRkMldXSHdqMm9RZHBQNWw0TGp0SmlJX2JhaTFoQkgxRktFWEhWOElsR2JJT1dUZ2gtd2Nrd3RfQ2R6WDc5dnBZX25CT0lRQmdESmI1QkZ2Rm1TaEpPeHJwanZtQlgteEV0ODJZZXk5NDRkZ2N4UVYwekhCWHBlc2RWT3ZnYTFLNktIWjNlME1KLW1LbE9QeFNTNFN6SHpnc19raFRjbXQt?oc=5"
         }
       ]
     },

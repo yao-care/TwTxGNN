@@ -77,11 +77,11 @@ permalink: /news/generic-cancer/
 
 ## 相關新聞（1 則）
 
-### [減肥抗癌？半年內做減重手術 研究曝「這癌症」風險降20% | 太報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qd1FISTJaOWJDNlE4dUQ4N1E2UDgzelhtbUtKdTZxa1RsVzVhUFRGX3J6RkR5RlF3ckFEWUFnOExlUzdpb0ZlWWFnX0lDci11eEI5R2l3?oc=5)
+### [北慈研究證實 及早進行減重手術有助降低乳癌發生率](https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wMnFMbVBTdWxHWmgxcjIyVmxPRzZuNnZBTmNyQ0I0UUJnOHFoYU5BdkJjN2JTWVBvVU9SUXVERmxXNGZVNUluYjgxemYzTlFKTlE?oc=5)
 
 2026-07-31
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qd1FISTJaOWJDNlE4dUQ4N1E2UDgzelhtbUtKdTZxa1RsVzVhUFRGX3J6RkR5RlF3ckFEWUFnOExlUzdpb0ZlWWFnX0lDci11eEI5R2l3?oc=5)
+來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wMnFMbVBTdWxHWmgxcjIyVmxPRzZuNnZBTmNyQ0I0UUJnOHFoYU5BdkJjN2JTWVBvVU9SUXVERmxXNGZVNUluYjgxemYzTlFKTlE?oc=5)
 
 ---
 
