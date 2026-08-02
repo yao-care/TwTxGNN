@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,29 +41,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
-### [運動真的能同時預防心臟病與失智症嗎？](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KYjdmVHBFYndOVm51MllvbnczY1AyaEw0VlNmakxmZERFX1U3Y0RVMmtWM2RhVFNpekg0V25hU0dTSFFZQWQxOVN4bnFSSWhLX3g1UG9qWTZFMmNKQWdLbUdyYmZ5dw?oc=5)
-
-2026-08-01 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[careonline.com.tw](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KYjdmVHBFYndOVm51MllvbnczY1AyaEw0VlNmakxmZERFX1U3Y0RVMmtWM2RhVFNpekg0V25hU0dTSFFZQWQxOVN4bnFSSWhLX3g1UG9qWTZFMmNKQWdLbUdyYmZ5dw?oc=5)
-
----
-
-### [保健》半年內減重手術 乳癌風險降2成 - 中國時報](https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjRjRVVEbzhJZ3BWZF9iMnVMYmlDUWpzdF9pdVR3R0VPbjJiNTVkNG82c19UdFVEWXZMcHl1aDhCY2hUUk1QUkE1Y2dWbG5IeThIdWhxMjZKU1dMMGprUnBtT0FlbWhQRkVSX0lkTjlHbnhmTHVyX2tvWE5TQlRwVW4tX0pJdw?oc=5)
-
-2026-08-01 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[中國時報- 翻爆](https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjRjRVVEbzhJZ3BWZF9iMnVMYmlDUWpzdF9pdVR3R0VPbjJiNTVkNG82c19UdFVEWXZMcHl1aDhCY2hUUk1QUkE1Y2dWbG5IeThIdWhxMjZKU1dMMGprUnBtT0FlbWhQRkVSX0lkTjlHbnhmTHVyX2tvWE5TQlRwVW4tX0pJdw?oc=5)
-
----
-
-### [研究顯示：中壯年人維生素D水準與降低阿茲海默症風險相關- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0ySWp6VV9XRkJXVWdPTWZxN3pzb19LZzZWdDVtb2pacUQzX2dqeFVIa3JuTG5GaExPVWlSeVFkVmVmdi1sUURTVGt3OHVBUF91blY1WkxEczVTQzYtZTJR?oc=5)
+### [研究顯示：中壯年人維生素D水準與降低阿茲海默症風險相關](https://news.google.com/rss/articles/CBMibkFVX3lxTFAxMDJGNXEyR3d4MW13ck5ud3BKTThubWQ0NGJkMUNzVTVMYlUtMkRtWWVPZFppTXhWdi1lRVI5bTR3SVVjVWJWY2V0bzdvUExGX2xBbWV4U25Qc0pJTnJOeU1ZMTBoMlJCQW9ULWNB?oc=5)
 
 2026-07-31 <span class="news-indication-tag">阿茲海默症</span>
 
-來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0ySWp6VV9XRkJXVWdPTWZxN3pzb19LZzZWdDVtb2pacUQzX2dqeFVIa3JuTG5GaExPVWlSeVFkVmVmdi1sUURTVGt3OHVBUF91blY1WkxEczVTQzYtZTJR?oc=5)
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFAxMDJGNXEyR3d4MW13ck5ud3BKTThubWQ0NGJkMUNzVTVMYlUtMkRtWWVPZFppTXhWdi1lRVI5bTR3SVVjVWJWY2V0bzdvUExGX2xBbWV4U25Qc0pJTnJOeU1ZMTBoMlJCQW9ULWNB?oc=5)
 
 ---
 

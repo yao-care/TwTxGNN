@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [健康網》乳癌患者別只顧抗癌！ 醫提醒1檢查防骨質流失](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rUHd5Vk5XMkZHOG1MZW94VENzTWRfOFp4ZlByMmhOaVFBcWJfY1ZoVHhrTVVxUVE4djVlNDRLQm9JMUxfYkpKYTltQ2YzV2RPV3dLcWh2V3dkN2tWUTB0aEhjMkk?oc=5)
 
 2026-08-02 <span class="news-indication-tag">乳癌</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rUHd5Vk5XMkZHOG1MZW94VENzTWRfOFp4ZlByMmhOaVFBcWJfY1ZoVHhrTVVxUVE4djVlNDRLQm9JMUxfYkpKYTltQ2YzV2RPV3dLcWh2V3dkN2tWUTB0aEhjMkk?oc=5)
-
----
-
-### [保健》半年內減重手術 乳癌風險降2成 - 中國時報](https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjRjRVVEbzhJZ3BWZF9iMnVMYmlDUWpzdF9pdVR3R0VPbjJiNTVkNG82c19UdFVEWXZMcHl1aDhCY2hUUk1QUkE1Y2dWbG5IeThIdWhxMjZKU1dMMGprUnBtT0FlbWhQRkVSX0lkTjlHbnhmTHVyX2tvWE5TQlRwVW4tX0pJdw?oc=5)
-
-2026-08-01 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[中國時報- 翻爆](https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjRjRVVEbzhJZ3BWZF9iMnVMYmlDUWpzdF9pdVR3R0VPbjJiNTVkNG82c19UdFVEWXZMcHl1aDhCY2hUUk1QUkE1Y2dWbG5IeThIdWhxMjZKU1dMMGprUnBtT0FlbWhQRkVSX0lkTjlHbnhmTHVyX2tvWE5TQlRwVW4tX0pJdw?oc=5)
 
 ---
 
