@@ -1,7 +1,55 @@
 {
-  "generated": "2026-08-02T08:06:52.180912+00:00",
-  "count": 3,
+  "generated": "2026-08-02T10:26:09.133270+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "7b0e1756ea91",
+      "title": "健康網》乳癌患者別只顧抗癌！ 醫提醒1檢查防骨質流失",
+      "published": "2026-08-02T08:38:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rUHd5Vk5XMkZHOG1MZW94VENzTWRfOFp4ZlByMmhOaVFBcWJfY1ZoVHhrTVVxUVE4djVlNDRLQm9JMUxfYkpKYTltQ2YzV2RPV3dLcWh2V3dkN2tWUTB0aEhjMkk?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "d2ae78b7e667",
       "title": "心臟衰竭治療的新整合策略，一顆複方藥丸造成的改變 | 科技新報 - LINE TODAY",

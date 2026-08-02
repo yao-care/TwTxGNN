@@ -1,8 +1,57 @@
 {
-  "last_updated": "2026-08-02T08:06:52.149645+00:00",
-  "total_count": 14,
-  "matched_count": 3,
+  "last_updated": "2026-08-02T10:26:09.102342+00:00",
+  "total_count": 13,
+  "matched_count": 4,
   "news": [
+    {
+      "id": "7b0e1756ea91",
+      "title": "健康網》乳癌患者別只顧抗癌！ 醫提醒1檢查防骨質流失",
+      "published": "2026-08-02T08:38:00+00:00",
+      "summary": "健康網》乳癌患者別只顧抗癌！ 醫提醒1檢查防骨質流失&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rUHd5Vk5XMkZHOG1MZW94VENzTWRfOFp4ZlByMmhOaVFBcWJfY1ZoVHhrTVVxUVE4djVlNDRLQm9JMUxfYkpKYTltQ2YzV2RPV3dLcWh2V3dkN2tWUTB0aEhjMkk?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "7045543e7e27",
       "title": "鹽水泡腳殺病毒每天30分鐘狂剷98％足底疣- 健康",
@@ -81,13 +130,13 @@
       ]
     },
     {
-      "id": "6894da34c9c2",
-      "title": "25歲女喉嚨痛死忍4天險窒息！醫生警告別亂食抗生素：1招分辨普通發炎與扁桃腺膿腫",
+      "id": "be8a1c858df3",
+      "title": "25歲女喉嚨痛死忍4天險窒息！醫生警告別亂食抗生素：1招分辨普通發炎與扁桃腺膿腫 - UHK 港生活",
       "published": "2026-08-01T09:57:32+00:00",
-      "summary": "25歲女喉嚨痛死忍4天險窒息！醫生警告別亂食抗生素：1招分辨普通發炎與扁桃腺膿腫&nbsp;&nbsp;hk.ulifestyle.com.hk",
+      "summary": "25歲女喉嚨痛死忍4天險窒息！醫生警告別亂食抗生素：1招分辨普通發炎與扁桃腺膿腫&nbsp;&nbsp;UHK 港生活",
       "sources": [
         {
-          "name": "hk.ulifestyle.com.hk",
+          "name": "UHK 港生活",
           "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPVXRiUXhrQTRwMzdXSHBGSm5Eb3hCZVRtWTJGa1dtb2lSTXNSamoxWlNqaDJhLUpVb0l1SHNRSHQwQTlKbG1RT3RNTTdvZmJPYmUwVy1UczFqbEVrUzlMS3ZVVllibUdMTU5vTGVsNW5hb2hKbm84cFplYjRkS190SFIwcENaNFFFRm1SZ3ZVN0d2bmIzS0k3OExta0dld2M2SUFaSVR2c0pLYkpvd1VNN3R2ZnUzeFVqQVhRRDNpR01lS0hZcUZVYmtEMVRFSkFLOWVBdndTVVcwd1JOZW1MZDlYaUxRRUVnTzgyMmNCVXBrRjl2LVJRNTVSNTZiSDJsYzQydHVrTmduR08xWFVZWGFyeFhIWFVhdktpQlVMMnFEbVUwdFdQWFdwQVZjd3pkaEdvRFpiU09Hbl9Zc0J4TENjQ1BqbmFEV0hhOXdwYURqTjBJS195MWMwaTdJVnJ4MjdHMEJsSVlpeUJZbkZhRXpQei1UR2dPVkphT3ZTOV83LWxsQlNEUThidnBMei1ydEs5OF9VQWZKSEl2?oc=5"
         }
       ],
@@ -411,32 +460,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "184ec4833c2c",
-      "title": "威而鋼新用處？研究揭「有望阻擋癌細胞轉移」",
-      "published": "2026-07-31T09:13:00+00:00",
-      "summary": "威而鋼新用處？研究揭「有望阻擋癌細胞轉移」&nbsp;&nbsp;三立新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aX0RVSjQ5Z3ItNlBzek1JcXpBRl9YMkNzY3NtZ195MWkzV2FYc21aRUFSQklLaU1nLVl2MXk4NmxhcFhuTXhJadIBTEFVX3lxTE4tZzRVLTVHZDhiVnpyTnRvOTgxbXhib1NuWTZ2dHlrQlY0cWNZV003c3ZfanlnZkdBRDl3ZXlpLXNsSG5QemZaU2ItZUE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "171383e0bea6",
-      "title": "維他命B12吃得多竟致癌？丹麥33萬人研究：患癌風險高6倍 醫生拆解迷思 與1大警號有關",
-      "published": "2026-07-31T08:00:00+00:00",
-      "summary": "維他命B12吃得多竟致癌？丹麥33萬人研究：患癌風險高6倍 醫生拆解迷思 與1大警號有關&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNSGtMcnZ0N1BJZm52QjM2YV94MEp0MUMzOF9xOUotWThUWlVISDByY18tdW8zbmtsZzRWY2o3TVc4OEV2dU1oclVYVzk3dFBQUTAtSGhxemRXMjNZOExvd3o2YUo2RndrcWYyLTRNQnZZOFozaWpQQkxrVjBpdzlhTXphQTlTdDhBbHRkenJKdVU5N25uZzlsaU93RVhtVUFmYTZ5UFZFbTI1dFZ2cjBMR2lEZ1RmY1pxbUhZTDlNSjJkWUR0WnA1YXc2eG1aLXhOV1ItaDNfYXBqOG9INF94Rk9COTBtVG9ZcjM2S2xKLWJiRm1fcm5DNGJoN2VMWTdfLVM1TjdoQlVFODJxa3htNzRKa28yMjVGX3NoY3hueG5jLU9HUGY2S0hDMmNLbU5SaVVzY1Y4aFE0TXVzakNCUjRtOWR1a0I0bW92SW8zR0ViOV9DREQ5ejNUTVhNMS1jbklSWFRRYllySUdqanVnT3JsVWhYbkJEYjhqU2NwZDBhZVliSEtKaXBvOXZsc0hwVy1UTEFPSW9jdkJUeEVLb3luYkdvOVh0eGdrRjZEWnZraGdzLXZHaDNSLS1SODY1LVgtbUZWYmpLR0JnOGJiUnVmN0x6bjhMelEzV1lLX0pWUFItYzFMQVFLVGExMHVlT0I0?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "749e613157aa",

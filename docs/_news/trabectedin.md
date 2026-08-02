@@ -14,7 +14,7 @@ permalink: /news/trabectedin/
 ---
 
 <p class="key-answer" data-question="Trabectedin 有什麼相關新聞？">
-<strong>Trabectedin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Trabectedin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ permalink: /news/trabectedin/
 <p><a href="{{ '/drugs/trabectedin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [健康網》乳癌患者別只顧抗癌！ 醫提醒1檢查防骨質流失](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rUHd5Vk5XMkZHOG1MZW94VENzTWRfOFp4ZlByMmhOaVFBcWJfY1ZoVHhrTVVxUVE4djVlNDRLQm9JMUxfYkpKYTltQ2YzV2RPV3dLcWh2V3dkN2tWUTB0aEhjMkk?oc=5)
+
+2026-08-02 <span class="news-indication-tag">乳癌</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rUHd5Vk5XMkZHOG1MZW94VENzTWRfOFp4ZlByMmhOaVFBcWJfY1ZoVHhrTVVxUVE4djVlNDRLQm9JMUxfYkpKYTltQ2YzV2RPV3dLcWh2V3dkN2tWUTB0aEhjMkk?oc=5)
+
+---
 
 ### [北慈研究證實 及早進行減重手術有助降低乳癌發生率](https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wMnFMbVBTdWxHWmgxcjIyVmxPRzZuNnZBTmNyQ0I0UUJnOHFoYU5BdkJjN2JTWVBvVU9SUXVERmxXNGZVNUluYjgxemYzTlFKTlE?oc=5)
 
