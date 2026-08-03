@@ -44,11 +44,11 @@ permalink: /news/dronedarone/
 
 ## 相關新聞（1 則）
 
-### [網瘋傳「膝蓋皮膚光亮」是中風前兆權威醫給答案- 生活](https://news.google.com/rss/articles/CBMibkFVX3lxTFBXYWpjLUU5VUpieVkxNzA5WW0yeVhMMno3bnV4MFFyLWNGOTJtTjJfTDltS2RQQUlCeEJYTllHeEYtNFlaa0RtdzZzTzhGcEgwb3JfSmZTVFlmd01NVlcteFpucl96d0cwVHpDTXRn?oc=5)
+### [別只喝綠茶！營養師揭紅茶7大保健功效 護心降血脂又抗氧化](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YSEpmM3l3TkFOVlBMVmFnNDVlTVV6QmZGNDJIQUZMeTM1dXB2blRNSERMRjVrbGlDT3NCRHlYQ19ScFhhRjc5NC0xQmhvUXZ4?oc=5)
 
 2026-08-03 <span class="news-indication-tag">中風</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFBXYWpjLUU5VUpieVkxNzA5WW0yeVhMMno3bnV4MFFyLWNGOTJtTjJfTDltS2RQQUlCeEJYTllHeEYtNFlaa0RtdzZzTzhGcEgwb3JfSmZTVFlmd01NVlcteFpucl96d0cwVHpDTXRn?oc=5)
+來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YSEpmM3l3TkFOVlBMVmFnNDVlTVV6QmZGNDJIQUZMeTM1dXB2blRNSERMRjVrbGlDT3NCRHlYQ19ScFhhRjc5NC0xQmhvUXZ4?oc=5)
 
 ---
 
