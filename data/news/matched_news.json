@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-03T09:24:19.206622+00:00",
-  "total_count": 19,
-  "matched_count": 6,
+  "last_updated": "2026-08-03T12:50:18.316313+00:00",
+  "total_count": 15,
+  "matched_count": 4,
   "news": [
     {
       "id": "2b88674d5d36",
@@ -69,35 +69,6 @@
       "matched_keywords": []
     },
     {
-      "id": "d2bed28584a7",
-      "title": "別只喝綠茶！營養師揭紅茶7大保健功效 護心降血脂又抗氧化",
-      "published": "2026-08-03T04:30:00+00:00",
-      "summary": "別只喝綠茶！營養師揭紅茶7大保健功效 護心降血脂又抗氧化&nbsp;&nbsp;TVBS新聞網不是綠茶！每天喝1飲品降血壓、血糖還防癌- 健康&nbsp;&nbsp;中時新聞網喝了14年才發現！每天三杯「這種茶」降中風機率&nbsp;&nbsp;ctinews.com飲食健康｜每日3杯紅茶降膽固醇？ 研究揭紅茶7大好處降中風風險具抗癌潛力| 飲食營養&nbsp;&nbsp;東方新地不是綠茶！研究曝1飲品「助抗癌、控血壓」 降低糖尿病風險&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YSEpmM3l3TkFOVlBMVmFnNDVlTVV6QmZGNDJIQUZMeTM1dXB2blRNSERMRjVrbGlDT3NCRHlYQ19ScFhhRjc5NC0xQmhvUXZ4?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "14569c7126cd",
       "title": "牛舍細菌揭開「農場效應」之謎 研究：可望降低兒童氣喘與過敏風險 - Taiwan News",
       "published": "2026-08-03T04:23:00+00:00",
@@ -139,7 +110,7 @@
       "id": "cadc2936fcae",
       "title": "BMI超過35要當心！研究：病態性肥胖及早接受減重手術，乳癌風險降約20％",
       "published": "2026-08-03T03:24:50+00:00",
-      "summary": "BMI超過35要當心！研究：病態性肥胖及早接受減重手術，乳癌風險降約20％&nbsp;&nbsp;Yahoo新聞保健》半年內減重手術 乳癌風險降2成&nbsp;&nbsp;中國時報- 翻爆防癌快看！國際期刊證實胖是得癌關鍵風險 潘致皓醫師曝４個恐怖真相&nbsp;&nbsp;三立新聞不只變瘦而已！「這個手術」能讓乳癌死亡風險暴跌63%&nbsp;&nbsp;ctinews.com及早減重手術 助降乳癌發生率&nbsp;&nbsp;中華新聞雲／中華日報",
+      "summary": "BMI超過35要當心！研究：病態性肥胖及早接受減重手術，乳癌風險降約20％&nbsp;&nbsp;Yahoo新聞防癌快看！國際期刊證實胖是得癌關鍵風險 潘致皓醫師曝４個恐怖真相&nbsp;&nbsp;三立新聞網SETN.com不只變瘦而已！「這個手術」能讓乳癌死亡風險暴跌63%&nbsp;&nbsp;中天新聞網及早減重手術 助降乳癌發生率&nbsp;&nbsp;中華新聞雲／中華日報「BMI破35及早減重手術」 台北慈濟研究證實能降乳癌發生率&nbsp;&nbsp;民視健康長照網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -198,13 +169,13 @@
       "matched_keywords": []
     },
     {
-      "id": "6db216ad9303",
+      "id": "a55e2b82c13b",
       "title": "有白頭髮等於「身體抗癌」？ 日本研究： 毛囊幹細胞啟動防癌機制 營養師力推護髮3寶",
       "published": "2026-08-03T03:00:59+00:00",
-      "summary": "有白頭髮等於「身體抗癌」？ 日本研究： 毛囊幹細胞啟動防癌機制 營養師力推護髮3寶&nbsp;&nbsp;stheadline.com",
+      "summary": "有白頭髮等於「身體抗癌」？ 日本研究： 毛囊幹細胞啟動防癌機制 營養師力推護髮3寶&nbsp;&nbsp;星島頭條",
       "sources": [
         {
-          "name": "stheadline.com",
+          "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQdFhCTG56eUNscklxbFBtMEZxMVlXcHJaOG04OU4xbUxSNnlNeWxHSkpOSzVoN1g4SkdJeE9IYXN2UVRWT1hJTksyU3J5djFSTFJPanMtWHpfYWdTU2NzRWJzTUJ1YWUwVTkzd0hhNmEwR3hrenBJamFhazFycDVyT3Z2SWNKWjA2OXN3ZXVyNEdWdzFtUXB1U0QzbXJleUU0Z2RIZEs1MjF1R09FcERpQmpqU1ZvT2EtdVNYcWJHUXRVdEY4TjBYbExiOXVOZTBibW9GaHhzNU4xLWFuczd5RnN3ZzRLdDZOT2NoR1YzeFZQWVZRM2ZrTm5vTmpkU0JkTk80c1pUaHMwck1uTHd1SWxwckZKTkx0UTNZVmxVUm10aXNZQ1VoTkJPRTJQVEdNdzBDQThFa251WExMaG9TOEJzRnVXSExRX0ZqYTZfTjhPbVRsNlVMRFZDQS1nY2ZvRkRvZnNLYmFTUkMyR0RUQjYwa3dvS3RsRmtnNzkxRzYzOWdPc0RodmdTWk44dFFFYmVESU8xSnZXNVVuOHZ6cW1Lc242R01lSmpZOHJUNUkxSE8tYklYTVlRTUxMOXVZZjh2T0R0Q21ETGw5UkZXUDJPaVVVd3gyVmxOcEdnQ3hoZG96N0hzY1RNRQ?oc=5"
         }
       ],
@@ -224,13 +195,13 @@
       "matched_keywords": []
     },
     {
-      "id": "4cca1932428c",
+      "id": "ddc0b6c4ef74",
       "title": "研究：中壯年維生素D 充足或助減失智風險",
       "published": "2026-08-02T20:10:44+00:00",
-      "summary": "研究：中壯年維生素D 充足或助減失智風險&nbsp;&nbsp;巴士的報",
+      "summary": "研究：中壯年維生素D 充足或助減失智風險&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOemtyNTFxNmtRWjlKc052ZVZVN0R2SFZ4MDRPb1RBZTY2d0VDWmhDV0hONmoteThzemJlUXpHYmhkRk1XWndqMFNrN3h6d0tCQUpxUHdObVRrakkyQ21rRmNnVzV5dmVPWFBxV05RMzBnRjJ6cU5LdVBCdnFnQzNzVVhPdlFVVnR4MjM5aGVDUFBBSWpUQUVTRzRYU0toVWE1WmFpaEZjQlR5ZWl5RFl0Y1RuSy0yRjktVjVhZlJSQ3dILXUwOUxydkxfSGdLSzlQaVRGVHByTUNCVk5iU0ZoWVFpWVphWGhHbU1lZllvMTMwNU1yRzkzOVJyUEtIZS1jTFpxM3dNUm9iOENyWjdoeTNBTmotTDR5Z0o1WG9zMEJZSUJNX2E4SWloWG1DN3NiNGxjVkNlVE5pN0VUWFRsTFFEZ25acmVjRXVz?oc=5"
         }
       ],
@@ -247,19 +218,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "8c87cfac2c0e",
-      "title": "突然抽搐、昏迷流感幼童醒來後無法走路| 生活",
-      "published": "2026-08-02T12:00:13+00:00",
-      "summary": "突然抽搐、昏迷流感幼童醒來後無法走路| 生活&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuY0J1cHRuUGhCN0ZMaFJza01NXzFleG5hNjE3QWVBcmRwM0tzUzljbjV3eFpIa3pGUFpMQzZQM0tOOVpEYzBv?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "7b0e1756ea91",
@@ -332,44 +290,6 @@
         {
           "name": "晴報 Sky Post",
           "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxPZzl3N05OTXRCcXBSckY4dGppZ0JtWGJZQThTMXpZVG9KQU43M3JVNk1pMjdhdHF6aFZaVmlBMnYwZnBwVkwxYjhEVmFlQnYwYndSb0h2RVJSaWNJeEc2ak84dE1ObmdhdlZNSlcycTFpd00tdkNCdnhZbUZJel9qRFg0c18zZUdWbVM0VTg1cTNUQW4wLS1CRDVIUTNTN0ZreTdSdDE1bTM3NWhOc0xvY3ZoSVBZZGJTbXYtRzVzREJqYnpwbVlOckFwRXZEYUVxc3p6eGk5VUlLd1p6cUlSOUZIZ1JZekw4QmRzWm40aFVwdEtmZnJSb3U4RmZBbFhtbXRNak8zX3BxQ3VxbFVpMDlmcE5GVFdzSFlDSkRiblJVdjU4MkFtOGkxT2gxSDBiYmNkWXREQzF3SkF6V0QyYnVvSWVmeGRHUHRJcloxaVBYUnhJeVV1U2JDWXJKanl3Ui15dFRqRkxONWxzWDhjZ2laSTBuSFNFa0JtcFRkM3o4RDF3RnppV2xZN1NOTHNnRm96ZHhkTUxZZndGNGtmU2Z0a09VS2NnUnNwdHdJczVETkVEWWpieGROaWVFTHFFQ3JURU5B?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d2ae78b7e667",
-      "title": "心臟衰竭治療的新整合策略，一顆複方藥丸造成的改變 | 科技新報 - LINE TODAY",
-      "published": "2026-08-01T10:27:10+00:00",
-      "summary": "心臟衰竭治療的新整合策略，一顆複方藥丸造成的改變 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55UXdCVXhMajRMVTZvTXVEeEZBbHlWQ0toV3p4akhQQXNaUllJUERmWHZPU2plWFRXa1hZM0s0a1duQUpLQ0RwQjBkZXIza1lmejFvb3B3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "心臟衰竭",
-          "keyword": "心臟衰竭",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "be8a1c858df3",
-      "title": "25歲女喉嚨痛死忍4天險窒息！醫生警告別亂食抗生素：1招分辨普通發炎與扁桃腺膿腫 - UHK 港生活",
-      "published": "2026-08-01T09:57:32+00:00",
-      "summary": "25歲女喉嚨痛死忍4天險窒息！醫生警告別亂食抗生素：1招分辨普通發炎與扁桃腺膿腫&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPVXRiUXhrQTRwMzdXSHBGSm5Eb3hCZVRtWTJGa1dtb2lSTXNSamoxWlNqaDJhLUpVb0l1SHNRSHQwQTlKbG1RT3RNTTdvZmJPYmUwVy1UczFqbEVrUzlMS3ZVVllibUdMTU5vTGVsNW5hb2hKbm84cFplYjRkS190SFIwcENaNFFFRm1SZ3ZVN0d2bmIzS0k3OExta0dld2M2SUFaSVR2c0pLYkpvd1VNN3R2ZnUzeFVqQVhRRDNpR01lS0hZcUZVYmtEMVRFSkFLOWVBdndTVVcwd1JOZW1MZDlYaUxRRUVnTzgyMmNCVXBrRjl2LVJRNTVSNTZiSDJsYzQydHVrTmduR08xWFVZWGFyeFhIWFVhdktpQlVMMnFEbVUwdFdQWFdwQVZjd3pkaEdvRFpiU09Hbl9Zc0J4TENjQ1BqbmFEV0hhOXdwYURqTjBJS195MWMwaTdJVnJ4MjdHMEJsSVlpeUJZbkZhRXpQei1UR2dPVkphT3ZTOV83LWxsQlNEUThidnBMei1ydEs5OF9VQWZKSEl2?oc=5"
         }
       ],
       "matched_keywords": []

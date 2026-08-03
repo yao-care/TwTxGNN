@@ -1,35 +1,7 @@
 {
-  "generated": "2026-08-03T09:24:19.235926+00:00",
-  "count": 6,
+  "generated": "2026-08-03T12:50:18.346387+00:00",
+  "count": 4,
   "news": [
-    {
-      "id": "d2bed28584a7",
-      "title": "別只喝綠茶！營養師揭紅茶7大保健功效 護心降血脂又抗氧化",
-      "published": "2026-08-03T04:30:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YSEpmM3l3TkFOVlBMVmFnNDVlTVV6QmZGNDJIQUZMeTM1dXB2blRNSERMRjVrbGlDT3NCRHlYQ19ScFhhRjc5NC0xQmhvUXZ4?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "14569c7126cd",
       "title": "牛舍細菌揭開「農場效應」之謎 研究：可望降低兒童氣喘與過敏風險 - Taiwan News",
@@ -103,12 +75,12 @@
       ]
     },
     {
-      "id": "4cca1932428c",
+      "id": "ddc0b6c4ef74",
       "title": "研究：中壯年維生素D 充足或助減失智風險",
       "published": "2026-08-02T20:10:44+00:00",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOemtyNTFxNmtRWjlKc052ZVZVN0R2SFZ4MDRPb1RBZTY2d0VDWmhDV0hONmoteThzemJlUXpHYmhkRk1XWndqMFNrN3h6d0tCQUpxUHdObVRrakkyQ21rRmNnVzV5dmVPWFBxV05RMzBnRjJ6cU5LdVBCdnFnQzNzVVhPdlFVVnR4MjM5aGVDUFBBSWpUQUVTRzRYU0toVWE1WmFpaEZjQlR5ZWl5RFl0Y1RuSy0yRjktVjVhZlJSQ3dILXUwOUxydkxfSGdLSzlQaVRGVHByTUNCVk5iU0ZoWVFpWVphWGhHbU1lZllvMTMwNU1yRzkzOVJyUEtIZS1jTFpxM3dNUm9iOENyWjdoeTNBTmotTDR5Z0o1WG9zMEJZSUJNX2E4SWloWG1DN3NiNGxjVkNlVE5pN0VUWFRsTFFEZ25acmVjRXVz?oc=5"
         }
       ],
@@ -169,30 +141,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d2ae78b7e667",
-      "title": "心臟衰竭治療的新整合策略，一顆複方藥丸造成的改變 | 科技新報 - LINE TODAY",
-      "published": "2026-08-01T10:27:10+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55UXdCVXhMajRMVTZvTXVEeEZBbHlWQ0toV3p4akhQQXNaUllJUERmWHZPU2plWFRXa1hZM0s0a1duQUpLQ0RwQjBkZXIza1lmejFvb3B3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "心臟衰竭",
-          "keyword": "心臟衰竭",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
             }
           ]
         }
