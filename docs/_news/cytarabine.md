@@ -14,7 +14,7 @@ permalink: /news/cytarabine/
 ---
 
 <p class="key-answer" data-question="Cytarabine 有什麼相關新聞？">
-<strong>Cytarabine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cytarabine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,9 +40,15 @@ permalink: /news/cytarabine/
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [減肥抗癌？半年內做減重手術 研究曝「這癌症」風險降20% | 太報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qd1FISTJaOWJDNlE4dUQ4N1E2UDgzelhtbUtKdTZxa1RsVzVhUFRGX3J6RkR5RlF3ckFEWUFnOExlUzdpb0ZlWWFnX0lDci11eEI5R2l3?oc=5)
+
+2026-08-01 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">乳癌</span>
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qd1FISTJaOWJDNlE4dUQ4N1E2UDgzelhtbUtKdTZxa1RsVzVhUFRGX3J6RkR5RlF3ckFEWUFnOExlUzdpb0ZlWWFnX0lDci11eEI5R2l3?oc=5)
+
+---
 
 
 <div class="disclaimer">
