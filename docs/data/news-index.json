@@ -1,39 +1,39 @@
 {
-  "generated": "2026-08-03T01:57:21.763933+00:00",
-  "count": 4,
+  "generated": "2026-08-03T05:39:19.648668+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "ddc0b6c4ef74",
-      "title": "研究：中壯年維生素D 充足或助減失智風險",
-      "published": "2026-08-02T20:10:44+00:00",
+      "id": "14569c7126cd",
+      "title": "牛舍細菌揭開「農場效應」之謎 研究：可望降低兒童氣喘與過敏風險 - Taiwan News",
+      "published": "2026-08-03T04:23:00+00:00",
       "sources": [
         {
-          "name": "bastillepost.com",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOemtyNTFxNmtRWjlKc052ZVZVN0R2SFZ4MDRPb1RBZTY2d0VDWmhDV0hONmoteThzemJlUXpHYmhkRk1XWndqMFNrN3h6d0tCQUpxUHdObVRrakkyQ21rRmNnVzV5dmVPWFBxV05RMzBnRjJ6cU5LdVBCdnFnQzNzVVhPdlFVVnR4MjM5aGVDUFBBSWpUQUVTRzRYU0toVWE1WmFpaEZjQlR5ZWl5RFl0Y1RuSy0yRjktVjVhZlJSQ3dILXUwOUxydkxfSGdLSzlQaVRGVHByTUNCVk5iU0ZoWVFpWVphWGhHbU1lZllvMTMwNU1yRzkzOVJyUEtIZS1jTFpxM3dNUm9iOENyWjdoeTNBTmotTDR5Z0o1WG9zMEJZSUJNX2E4SWloWG1DN3NiNGxjVkNlVE5pN0VUWFRsTFFEZ25acmVjRXVz?oc=5"
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zeG5NOVhQbzZjMUdGSTZoV09BM0pHQkdsOWV6dm5VZGRPVGlkajhfdC1PM0VUZGg1cDhVZEdQbUtkeFRCWG1nTGRtbFNvUmZKX2xoR0JJNnU?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
+          "name": "氣喘",
+          "keyword": "氣喘",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "dupilumab",
+              "name": "Dupilumab"
             }
           ]
         }
       ]
     },
     {
-      "id": "7b0e1756ea91",
-      "title": "健康網》乳癌患者別只顧抗癌！ 醫提醒1檢查防骨質流失",
-      "published": "2026-08-02T08:38:00+00:00",
+      "id": "cadc2936fcae",
+      "title": "BMI超過35要當心！研究：病態性肥胖及早接受減重手術，乳癌風險降約20％",
+      "published": "2026-08-03T03:24:50+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rUHd5Vk5XMkZHOG1MZW94VENzTWRfOFp4ZlByMmhOaVFBcWJfY1ZoVHhrTVVxUVE4djVlNDRLQm9JMUxfYkpKYTltQ2YzV2RPV3dLcWh2V3dkN2tWUTB0aEhjMkk?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxQalRuOU5CZ3BhRXFOUl9hem9CenpLaFBWM3BaOTV3MFRDZktLSXZUMFZtWEk5UG5XQ2VjRTdiaHRNVkwxSXZtLWp5b21WZmUzOXhrRGxCQjdpWURfZ0p6YzVLb05qaW1jOWpLS1gtX0FFSHVlSzRNYlJLd3Bpek1sX0FVa1U0NVBJQ3YwenBLcU8ySm9SVTRKNEdmREgtVm0wUkN6Q1dyTm5wUUNCUXNXYXJnb1lnY1ZfRHoyVW5IdDJ2NkhEYmoxX3pMbzlnQTA3eHhEcUozalhGTEp3YklLRWJnalJIMFczQThMVkFHQ2tBVmRyRC0xNUQ1WDhXRjFoWkdHMktFTGd4MzFoZG1SeVBpOHpvRm5JemYxX3VWZldiSUVMYV9FWEF0MUMwVmEwT1h2QldsbThCVHBCM05oRVdRMWNOc2Y1RWR1QkpmR1BnUkV4NklkM2FmTm1XZ18xZDVwbWN4Y1JIR09sd1NycS1rel9Tb09oakkzM0VHbVhCOXQ5QzV1RENDSldNSHloaUxsc2FFVzU?oc=5"
         }
       ],
       "keywords": [
@@ -75,222 +75,103 @@
       ]
     },
     {
-      "id": "2426878542e5",
-      "title": "減肥抗癌？半年內做減重手術 研究曝「這癌症」風險降20% | 太報 - LINE TODAY",
-      "published": "2026-08-01T23:18:31+00:00",
+      "id": "524817880d2f",
+      "title": "2 歲前少吃糖，研究：晚年失智風險可降逾 2 成 - TechNews 科技新報",
+      "published": "2026-08-03T03:06:15+00:00",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qd1FISTJaOWJDNlE4dUQ4N1E2UDgzelhtbUtKdTZxa1RsVzVhUFRGX3J6RkR5RlF3ckFEWUFnOExlUzdpb0ZlWWFnX0lDci11eEI5R2l3?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3cTNqWWZhOGR4RTNyMVZSeFNWd0RrellKTENsTmlnUEgtX0tMdjkxOHFSM0Uzb0hIcUJXT0NpZUhoS01HM2NaUnlsNHhaUG5iMWI4R1pHaGRIRHIyMHpidFFPbTRyV1ZHYTdyU0U4U0gwLXpmT1cwV3dNR3BJQQ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
+          "name": "dementia",
+          "keyword": "失智症",
           "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
             }
           ]
         },
         {
           "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
+          "name": "失智",
+          "keyword": "失智",
           "related_drugs": [
             {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "c87ff561c68c",
+      "title": "網瘋傳「膝蓋皮膚光亮」是中風前兆權威醫給答案- 生活",
+      "published": "2026-08-03T02:43:46+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXYWpjLUU5VUpieVkxNzA5WW0yeVhMMno3bnV4MFFyLWNGOTJtTjJfTDltS2RQQUlCeEJYTllHeEYtNFlaa0RtdzZzTzhGcEgwb3JfSmZTVFlmd01NVlcteFpucl96d0cwVHpDTXRn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4cca1932428c",
+      "title": "研究：中壯年維生素D 充足或助減失智風險",
+      "published": "2026-08-02T20:10:44+00:00",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOemtyNTFxNmtRWjlKc052ZVZVN0R2SFZ4MDRPb1RBZTY2d0VDWmhDV0hONmoteThzemJlUXpHYmhkRk1XWndqMFNrN3h6d0tCQUpxUHdObVRrakkyQ21rRmNnVzV5dmVPWFBxV05RMzBnRjJ6cU5LdVBCdnFnQzNzVVhPdlFVVnR4MjM5aGVDUFBBSWpUQUVTRzRYU0toVWE1WmFpaEZjQlR5ZWl5RFl0Y1RuSy0yRjktVjVhZlJSQ3dILXUwOUxydkxfSGdLSzlQaVRGVHByTUNCVk5iU0ZoWVFpWVphWGhHbU1lZllvMTMwNU1yRzkzOVJyUEtIZS1jTFpxM3dNUm9iOENyWjdoeTNBTmotTDR5Z0o1WG9zMEJZSUJNX2E4SWloWG1DN3NiNGxjVkNlVE5pN0VUWFRsTFFEZ25acmVjRXVz?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7b0e1756ea91",
+      "title": "健康網》乳癌患者別只顧抗癌！ 醫提醒1檢查防骨質流失",
+      "published": "2026-08-02T08:38:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rUHd5Vk5XMkZHOG1MZW94VENzTWRfOFp4ZlByMmhOaVFBcWJfY1ZoVHhrTVVxUVE4djVlNDRLQm9JMUxfYkpKYTltQ2YzV2RPV3dLcWh2V3dkN2tWUTB0aEhjMkk?oc=5"
+        }
+      ],
+      "keywords": [
         {
           "type": "indication",
           "name": "female breast carcinoma",

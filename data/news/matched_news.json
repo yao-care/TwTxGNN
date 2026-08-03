@@ -1,29 +1,233 @@
 {
-  "last_updated": "2026-08-03T01:57:21.733788+00:00",
-  "total_count": 11,
-  "matched_count": 4,
+  "last_updated": "2026-08-03T05:39:19.619945+00:00",
+  "total_count": 18,
+  "matched_count": 7,
   "news": [
     {
-      "id": "cefaf9a78143",
-      "title": "騎車遭蝙蝠迎面撞鼻 江西男求醫被列狂犬病三級暴露須打6 支免疫球蛋白",
-      "published": "2026-08-02T21:55:03+00:00",
-      "summary": "騎車遭蝙蝠迎面撞鼻 江西男求醫被列狂犬病三級暴露須打6 支免疫球蛋白&nbsp;&nbsp;bastillepost.com",
+      "id": "7c91ff0ed0f1",
+      "title": "「先被好好對待，才能談性健康」：看見臺灣愛滋防治中的跨性別與非二元族群",
+      "published": "2026-08-03T04:39:51+00:00",
+      "summary": "「先被好好對待，才能談性健康」：看見臺灣愛滋防治中的跨性別與非二元族群&nbsp;&nbsp;HIVStoryMEDIA",
       "sources": [
         {
-          "name": "bastillepost.com",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPNWhoTVdFczV2TUlFTEwwVW1rSkhIZ1U1dEhzeWg5NnJXZXBLZ0k1eG9tX21Wc1BLamQ1czVYb0RxY2dDeE5lWkZsWDZXYTNjTGZUaFFiLWhhYjhYeUdzZ3pKOVhHS3VRekxvMDJ2MWFaeE95MnhPWWJwOVZFSjF2NVJrTlU1QXFVS1kyWXJONXV5RVRoRDdSZmE5dWg4bWNvbFlwOERYQUV5ckZBcnhHYkpNMVVYTjN5NkJMWHcwUGJTY21wTm1OaXRxRTJfWHg1UmQ1VUNPNVo5MWlhM0x0QkF5Z3lBYUNnbWZ2b2FOcUlvZVFJc0JsWkhTOG9MZkFubkRRMS1LRnJTWC1id0JnTlVZOEZhVlVxSUNFZFZJTXF5WkxmYjF3bHdNZkE5dEItQm5mUy1EQmFrTXN4dUFxajlKaVpzanFNSzR3bWpsSHBLck53N0RlWTMybzZ1QWtsLVVYLXFrT0ttbGlYdC1V?oc=5"
+          "name": "HIVStoryMEDIA",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HYW14Zm9kanJmOWNBb1VKWEpZZW4yLUt5WlEwRWtXQ09YdVhjTDZIbko1YWNBeHVPeDVUcTZwbTg1UWtyQXcwOHdXQ0w1RmxiWVVFVEdjRUs?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "ddc0b6c4ef74",
-      "title": "研究：中壯年維生素D 充足或助減失智風險",
-      "published": "2026-08-02T20:10:44+00:00",
-      "summary": "研究：中壯年維生素D 充足或助減失智風險&nbsp;&nbsp;bastillepost.com",
+      "id": "d2bed28584a7",
+      "title": "別只喝綠茶！營養師揭紅茶7大保健功效 護心降血脂又抗氧化",
+      "published": "2026-08-03T04:30:00+00:00",
+      "summary": "別只喝綠茶！營養師揭紅茶7大保健功效 護心降血脂又抗氧化&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YSEpmM3l3TkFOVlBMVmFnNDVlTVV6QmZGNDJIQUZMeTM1dXB2blRNSERMRjVrbGlDT3NCRHlYQ19ScFhhRjc5NC0xQmhvUXZ4?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "14569c7126cd",
+      "title": "牛舍細菌揭開「農場效應」之謎 研究：可望降低兒童氣喘與過敏風險 - Taiwan News",
+      "published": "2026-08-03T04:23:00+00:00",
+      "summary": "牛舍細菌揭開「農場效應」之謎 研究：可望降低兒童氣喘與過敏風險&nbsp;&nbsp;Taiwan News",
+      "sources": [
+        {
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zeG5NOVhQbzZjMUdGSTZoV09BM0pHQkdsOWV6dm5VZGRPVGlkajhfdC1PM0VUZGg1cDhVZEdQbUtkeFRCWG1nTGRtbFNvUmZKX2xoR0JJNnU?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "氣喘",
+          "keyword": "氣喘",
+          "related_drugs": [
+            {
+              "slug": "dupilumab",
+              "name": "Dupilumab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8a9aed795dac",
+      "title": "不想用醫美逆齡也可以，從關注卵巢保養，朝飲食X生活兩大理想指標看齊 - Mombaby 媽媽寶寶懷孕生活網",
+      "published": "2026-08-03T03:46:09+00:00",
+      "summary": "不想用醫美逆齡也可以，從關注卵巢保養，朝飲食X生活兩大理想指標看齊&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網",
+      "sources": [
+        {
+          "name": "Mombaby 媽媽寶寶懷孕生活網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmSXQ2WEJDVjhRTjFQbmRDZ2JpRk1XZDRzRDdETjI2R3FuM0NzSUQ5anc1ek1oRTdJMGdQeWVRMzlFYXQzMVJEc3FtVkUyTlRLUGktRGdB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "cadc2936fcae",
+      "title": "BMI超過35要當心！研究：病態性肥胖及早接受減重手術，乳癌風險降約20％",
+      "published": "2026-08-03T03:24:50+00:00",
+      "summary": "BMI超過35要當心！研究：病態性肥胖及早接受減重手術，乳癌風險降約20％&nbsp;&nbsp;Yahoo新聞保健》半年內減重手術 乳癌風險降2成&nbsp;&nbsp;中國時報- 翻爆防癌快看！國際期刊證實胖是得癌關鍵風險 潘致皓醫師曝４個恐怖真相&nbsp;&nbsp;三立新聞網SETN.com不只變瘦而已！「這個手術」能讓乳癌死亡風險暴跌63%&nbsp;&nbsp;中天新聞網及早減重手術 助降乳癌發生率&nbsp;&nbsp;中華新聞雲／中華日報",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxQalRuOU5CZ3BhRXFOUl9hem9CenpLaFBWM3BaOTV3MFRDZktLSXZUMFZtWEk5UG5XQ2VjRTdiaHRNVkwxSXZtLWp5b21WZmUzOXhrRGxCQjdpWURfZ0p6YzVLb05qaW1jOWpLS1gtX0FFSHVlSzRNYlJLd3Bpek1sX0FVa1U0NVBJQ3YwenBLcU8ySm9SVTRKNEdmREgtVm0wUkN6Q1dyTm5wUUNCUXNXYXJnb1lnY1ZfRHoyVW5IdDJ2NkhEYmoxX3pMbzlnQTA3eHhEcUozalhGTEp3YklLRWJnalJIMFczQThMVkFHQ2tBVmRyRC0xNUQ1WDhXRjFoWkdHMktFTGd4MzFoZG1SeVBpOHpvRm5JemYxX3VWZldiSUVMYV9FWEF0MUMwVmEwT1h2QldsbThCVHBCM05oRVdRMWNOc2Y1RWR1QkpmR1BnUkV4NklkM2FmTm1XZ18xZDVwbWN4Y1JIR09sd1NycS1rel9Tb09oakkzM0VHbVhCOXQ5QzV1RENDSldNSHloaUxsc2FFVzU?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f4d3bfe898d9",
+      "title": "長壽飲食｜研究揭食肉比食素長壽 關鍵是蛋白質？長者健康食肉3招",
+      "published": "2026-08-03T03:10:44+00:00",
+      "summary": "長壽飲食｜研究揭食肉比食素長壽 關鍵是蛋白質？長者健康食肉3招&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNb09UNWFRb0FJS2NrM2JTUTcyaXg3X3lja01lQk5IS2drenAtQTZlanJXRXhqU0RQNHhnZWZ2UWExLU9vV2d4VFFHcDdvem8tYVJFV0FhVXBtd3RKLVJQV2g1ell2TU5KNm9LMWdlZEJJTDRBejVJRGRsX20wZ3BzNlhMZTBLU1NIRGc2MTJidjFhR25hSWl6MnNWamc3TDVCRTV5dlMxdWRRMlI0N3dkWWJ4R0J4cmdGUmhuSTlncVVHNlNuVFlTMTFKakpKcTJHSy1EaGRtQXh0MWNrd1R3ZGhfVGRMR0Vtdl9JSDM1Ymx0b1RyWlNRVkFKZUlxVEpDNHZiTzhmU1o4UEMtamdTNGNDZzVIZFp4R0dmMEZBbGVxalcyazNfd21iaHJCWlpReWx1X2V2d0JKNkhIdFVkdWZFd3QybmNMTFRQb1NZc2kzZ3RyQm9OWUZDS3I1ZGtRVUR6ejZSODJnN3NZTUx1bWdkT0c3aXVBTjRqblI5dHVMOEEyblgzaGlYOE15QTRKYzFaejlENU9vaERlTEFQRFQ3c0lnaUE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "524817880d2f",
+      "title": "2 歲前少吃糖，研究：晚年失智風險可降逾 2 成 - TechNews 科技新報",
+      "published": "2026-08-03T03:06:15+00:00",
+      "summary": "2 歲前少吃糖，研究：晚年失智風險可降逾 2 成&nbsp;&nbsp;TechNews 科技新報香港科大研究：兩歲前限制攝取糖分與較佳腦部健康有關聯&nbsp;&nbsp;BBC研究：年幼時少吃糖 日後罹患失智症風險降低&nbsp;&nbsp;大纪元兩歲前少吃糖 長大後失智風險降低23%？&nbsp;&nbsp;Taiwan News研究證實：兩歲前限制糖分攝取有助日後降低失智症風險- 國際&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3cTNqWWZhOGR4RTNyMVZSeFNWd0RrellKTENsTmlnUEgtX0tMdjkxOHFSM0Uzb0hIcUJXT0NpZUhoS01HM2NaUnlsNHhaUG5iMWI4R1pHaGRIRHIyMHpidFFPbTRyV1ZHYTdyU0U4U0gwLXpmT1cwV3dNR3BJQQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a55e2b82c13b",
+      "title": "有白頭髮等於「身體抗癌」？ 日本研究： 毛囊幹細胞啟動防癌機制 營養師力推護髮3寶",
+      "published": "2026-08-03T03:00:59+00:00",
+      "summary": "有白頭髮等於「身體抗癌」？ 日本研究： 毛囊幹細胞啟動防癌機制 營養師力推護髮3寶&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQdFhCTG56eUNscklxbFBtMEZxMVlXcHJaOG04OU4xbUxSNnlNeWxHSkpOSzVoN1g4SkdJeE9IYXN2UVRWT1hJTksyU3J5djFSTFJPanMtWHpfYWdTU2NzRWJzTUJ1YWUwVTkzd0hhNmEwR3hrenBJamFhazFycDVyT3Z2SWNKWjA2OXN3ZXVyNEdWdzFtUXB1U0QzbXJleUU0Z2RIZEs1MjF1R09FcERpQmpqU1ZvT2EtdVNYcWJHUXRVdEY4TjBYbExiOXVOZTBibW9GaHhzNU4xLWFuczd5RnN3ZzRLdDZOT2NoR1YzeFZQWVZRM2ZrTm5vTmpkU0JkTk80c1pUaHMwck1uTHd1SWxwckZKTkx0UTNZVmxVUm10aXNZQ1VoTkJPRTJQVEdNdzBDQThFa251WExMaG9TOEJzRnVXSExRX0ZqYTZfTjhPbVRsNlVMRFZDQS1nY2ZvRkRvZnNLYmFTUkMyR0RUQjYwa3dvS3RsRmtnNzkxRzYzOWdPc0RodmdTWk44dFFFYmVESU8xSnZXNVVuOHZ6cW1Lc242R01lSmpZOHJUNUkxSE8tYklYTVlRTUxMOXVZZjh2T0R0Q21ETGw5UkZXUDJPaVVVd3gyVmxOcEdnQ3hoZG96N0hzY1RNRQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c87ff561c68c",
+      "title": "網瘋傳「膝蓋皮膚光亮」是中風前兆權威醫給答案- 生活",
+      "published": "2026-08-03T02:43:46+00:00",
+      "summary": "網瘋傳「膝蓋皮膚光亮」是中風前兆權威醫給答案- 生活&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXYWpjLUU5VUpieVkxNzA5WW0yeVhMMno3bnV4MFFyLWNGOTJtTjJfTDltS2RQQUlCeEJYTllHeEYtNFlaa0RtdzZzTzhGcEgwb3JfSmZTVFlmd01NVlcteFpucl96d0cwVHpDTXRn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b09427fda140",
+      "title": "維他命B12吃得多竟致癌？丹麥33萬人研究：患癌風險高6倍 醫生拆解迷思 與1大警號有關",
+      "published": "2026-08-03T01:13:56+00:00",
+      "summary": "維他命B12吃得多竟致癌？丹麥33萬人研究：患癌風險高6倍 醫生拆解迷思 與1大警號有關&nbsp;&nbsp;singtao.ca",
+      "sources": [
+        {
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMikgRBVV95cUxNanJvejg4ZjFFNi14RG5uZGVvTlpXRE1kbkZDWmhFQUQ1YXlHaHIyMHZYZXVEM0QzQk8tQVNqUEo0VnBSRURUd3pjUlVNOHAwT1ZqSnlmUW9EMUxBb1hFdXRZRTZLY29hMnB5blRfVVBTQnctOHowYWtmTm05Y1JQNloxYVl4VzI4bzNDS1RsVXRRZHhndGtkUld1ZnlnVE9GQnA0STF5bWo5NHJBRzJrcjBzWUFONURCaUNyLW9TRUc2LXRNcDhXeTNOV1BsalJaeW93czFocTcyb1YxV1VjdS1ibUdoTU91bXRMU2loS3Ziei1COEFVSDJpbDVWR3B6TmhYMlBxVlUzbHJwX1J6MDl5Vkk3SS1IS0RIc21oM0NYSERZUk5fbDNudlprT0xPZV9NUjZFUjJWR3l5OHVuUFlINlozNllGVGlDaVFjZnc0NEtOOWYzQ3VzME5Mc2RpNmlKU1JaOEh3M1NndjFubU9IVU1sMkYzRW9RQXVvZ0U0ZV80dC1XZnVPbEp1VDZpRWJYRUdiZkZad0FoSjJaMG1wTHRRUGJqQ2FEbkpjaGpOcjlNLWMzM1V5ektOaS1qVlBJS2pBZGRoM1FwMm01eTc3eU0xVXlTNUd6cXRwZUlCWVRBSjVmcEhza3lEQ1Rzb1lRT2oyaEtFQUZ1bFNueS1MOUs4U3AwVk1LNzMtblJ4Z9IBjwFBVV95cUxOdndLcTc4ZHgxQ3NRV1RlTW1ZXzMySmk0WFBKWHZMeW1yZk9MN1VMYTY2em5Oc1lxY0oxUDlQN0dxdm1fZXcyWE0yVjNONV9qaGpHcFBPZVh6Y1ZyWDdrVUl2ZXJoaTl4NDNNUlJsUTRpYnhqWl9ud3A3RzRtUFlrTGlxTVp0dTlLanB6QzBpcw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4cca1932428c",
+      "title": "研究：中壯年維生素D 充足或助減失智風險",
+      "published": "2026-08-02T20:10:44+00:00",
+      "summary": "研究：中壯年維生素D 充足或助減失智風險&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOemtyNTFxNmtRWjlKc052ZVZVN0R2SFZ4MDRPb1RBZTY2d0VDWmhDV0hONmoteThzemJlUXpHYmhkRk1XWndqMFNrN3h6d0tCQUpxUHdObVRrakkyQ21rRmNnVzV5dmVPWFBxV05RMzBnRjJ6cU5LdVBCdnFnQzNzVVhPdlFVVnR4MjM5aGVDUFBBSWpUQUVTRzRYU0toVWE1WmFpaEZjQlR5ZWl5RFl0Y1RuSy0yRjktVjVhZlJSQ3dILXUwOUxydkxfSGdLSzlQaVRGVHByTUNCVk5iU0ZoWVFpWVphWGhHbU1lZllvMTMwNU1yRzkzOVJyUEtIZS1jTFpxM3dNUm9iOENyWjdoeTNBTmotTDR5Z0o1WG9zMEJZSUJNX2E4SWloWG1DN3NiNGxjVkNlVE5pN0VUWFRsTFFEZ25acmVjRXVz?oc=5"
         }
       ],
@@ -104,268 +308,13 @@
       "matched_keywords": []
     },
     {
-      "id": "2426878542e5",
-      "title": "減肥抗癌？半年內做減重手術 研究曝「這癌症」風險降20% | 太報 - LINE TODAY",
-      "published": "2026-08-01T23:18:31+00:00",
-      "summary": "減肥抗癌？半年內做減重手術 研究曝「這癌症」風險降20% | 太報&nbsp;&nbsp;LINE TODAY及早減重手術 助降乳癌發生率 | 中華日報&nbsp;&nbsp;LINE TODAY減肥抗癌？半年內做減重手術 研究曝「這癌症」風險降20%&nbsp;&nbsp;Yahoo新聞肥胖不只傷心血管！醫揭乳癌風險也跟著升高，1族群及早減重效果最好&nbsp;&nbsp;良醫健康網保健》半年內減重手術 乳癌風險降2成&nbsp;&nbsp;中國時報- 翻爆",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qd1FISTJaOWJDNlE4dUQ4N1E2UDgzelhtbUtKdTZxa1RsVzVhUFRGX3J6RkR5RlF3ckFEWUFnOExlUzdpb0ZlWWFnX0lDci11eEI5R2l3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7d69a41e4f98",
-      "title": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保",
+      "id": "658f54471532",
+      "title": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保 - 晴報 Sky Post",
       "published": "2026-08-01T23:06:34+00:00",
-      "summary": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保&nbsp;&nbsp;skypost.hk",
+      "summary": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保&nbsp;&nbsp;晴報 Sky Post",
       "sources": [
         {
-          "name": "skypost.hk",
+          "name": "晴報 Sky Post",
           "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxPZzl3N05OTXRCcXBSckY4dGppZ0JtWGJZQThTMXpZVG9KQU43M3JVNk1pMjdhdHF6aFZaVmlBMnYwZnBwVkwxYjhEVmFlQnYwYndSb0h2RVJSaWNJeEc2ak84dE1ObmdhdlZNSlcycTFpd00tdkNCdnhZbUZJel9qRFg0c18zZUdWbVM0VTg1cTNUQW4wLS1CRDVIUTNTN0ZreTdSdDE1bTM3NWhOc0xvY3ZoSVBZZGJTbXYtRzVzREJqYnpwbVlOckFwRXZEYUVxc3p6eGk5VUlLd1p6cUlSOUZIZ1JZekw4QmRzWm40aFVwdEtmZnJSb3U4RmZBbFhtbXRNak8zX3BxQ3VxbFVpMDlmcE5GVFdzSFlDSkRiblJVdjU4MkFtOGkxT2gxSDBiYmNkWXREQzF3SkF6V0QyYnVvSWVmeGRHUHRJcloxaVBYUnhJeVV1U2JDWXJKanl3Ui15dFRqRkxONWxzWDhjZ2laSTBuSFNFa0JtcFRkM3o4RDF3RnppV2xZN1NOTHNnRm96ZHhkTUxZZndGNGtmU2Z0a09VS2NnUnNwdHdJczVETkVEWWpieGROaWVFTHFFQ3JURU5B?oc=5"
         }
       ],
@@ -431,19 +380,6 @@
         {
           "name": "UDN",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DOVktTmNxZXZvd0VtMTV5TUdxX0VOLXdJN0xjMGlxNmpkdzBGZGdrODNib3Q2ZGo2UlFYMkE3UndMMy1ueFdQUko1dkc2Ny1n?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7fd07b178aca",
-      "title": "海外生活增加感染風險？醫師提醒：出國前可評估HPV疫苗接種",
-      "published": "2026-08-01T01:42:50+00:00",
-      "summary": "海外生活增加感染風險？醫師提醒：出國前可評估HPV疫苗接種&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxObGJjX2RmTi1MTTg2TGhfaW9YaEhpTG5LbHlYV180MUtfaVhUT2kwOGV1V2hLTDNtWmVJQ2lkVWhQNUUzMm53MWdzSE85UEpXdjNWRTlBQ0RuOWRWYWlqRVpWMFhTSllsSGlaNFZKcVBKRThzelF0eW9SbXpWRFRrMEtNeFFKODRRZmR4Q2lSWWNmOWFJMXdtZ1Bna0t4VnNPSHNUTGdEbGtQSERfVU9ReHNSRmluSnlIUEx2ckxWTkhvZjd5ZzUzLWhuTHlfTWRJaWRYSXBtUDlKZjl1amNzYThJMG91YlRVWnQ1bjhmNGxZV3BMTHg3YWxsRG0zZWtNcmM3LW42dVhSOHFERDgzX2FnMnIxSGFRb2xyZjFfS3ZKTEJ6UmdJSG1qU0h6aWw4N2RlX0ozNFh2X1doNDR6TlIyeEhCenpnbkFHTEpfTTg0UHpZZ3YyenNzWjVQLU9aQVFhdDhOQk5Hd2VraHgxZWgtSlhlbDhlS3c?oc=5"
         }
       ],
       "matched_keywords": []
