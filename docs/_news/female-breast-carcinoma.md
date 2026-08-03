@@ -3,7 +3,7 @@ layout: default
 title: "乳癌（female breast carcinoma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "乳癌（female breast carcinoma） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "乳癌（female breast carcinoma） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="乳癌（female breast carcinoma） 有什麼相關新聞？">
-<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/female-breast-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [乳癌確診後怎麼吃？醫師推4營養素打造「抗癌好體質」肥胖型乳癌要補充它 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aUEphckxOdFg4VGZ2bXlIaXlUUW1VYWRnOGtlNkNNaFdNMld1OE5Dek9Md0gweXh1OU4yUWNFVTY0SmdpZTFkQ1pneGRtdlFSSWc?oc=5)
+
+2026-08-03
+
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aUEphckxOdFg4VGZ2bXlIaXlUUW1VYWRnOGtlNkNNaFdNMld1OE5Dek9Md0gweXh1OU4yUWNFVTY0SmdpZTFkQ1pneGRtdlFSSWc?oc=5)
+
+---
 
 ### [BMI超過35要當心！研究：病態性肥胖及早接受減重手術，乳癌風險降約20％](https://news.google.com/rss/articles/CBMimANBVV95cUxQalRuOU5CZ3BhRXFOUl9hem9CenpLaFBWM3BaOTV3MFRDZktLSXZUMFZtWEk5UG5XQ2VjRTdiaHRNVkwxSXZtLWp5b21WZmUzOXhrRGxCQjdpWURfZ0p6YzVLb05qaW1jOWpLS1gtX0FFSHVlSzRNYlJLd3Bpek1sX0FVa1U0NVBJQ3YwenBLcU8ySm9SVTRKNEdmREgtVm0wUkN6Q1dyTm5wUUNCUXNXYXJnb1lnY1ZfRHoyVW5IdDJ2NkhEYmoxX3pMbzlnQTA3eHhEcUozalhGTEp3YklLRWJnalJIMFczQThMVkFHQ2tBVmRyRC0xNUQ1WDhXRjFoWkdHMktFTGd4MzFoZG1SeVBpOHpvRm5JemYxX3VWZldiSUVMYV9FWEF0MUMwVmEwT1h2QldsbThCVHBCM05oRVdRMWNOc2Y1RWR1QkpmR1BnUkV4NklkM2FmTm1XZ18xZDVwbWN4Y1JIR09sd1NycS1rel9Tb09oakkzM0VHbVhCOXQ5QzV1RENDSldNSHloaUxsc2FFVzU?oc=5)
 

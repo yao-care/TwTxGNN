@@ -1,7 +1,156 @@
 {
-  "generated": "2026-08-03T15:37:58.511706+00:00",
-  "count": 4,
+  "generated": "2026-08-03T17:43:14.904911+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "742733ae654e",
+      "title": "別等關節變形才治療！類風濕性關節炎治療可近性再提升及早介入成關鍵",
+      "published": "2026-08-03T15:03:56+00:00",
+      "sources": [
+        {
+          "name": "mobile01.com",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54QkdtUWlHR0xHdG9mXzRRZUJBa3VWUkozczhfQ3VMT3hsNXN3d01BSDFVM2hLRGxBZ3dOOHF0X1BoQnk1bnZ2dzIzV0RlVTdBelZZUk1mSTdleUZHcGoyeWlpLTFJUFE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "類風濕性關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "風濕",
+          "keyword": "風濕",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "關節炎",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            },
+            {
+              "slug": "ibuprofen",
+              "name": "Ibuprofen"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "風濕性關節炎",
+          "keyword": "風濕性關節炎",
+          "related_drugs": [
+            {
+              "slug": "carisoprodol",
+              "name": "Carisoprodol"
+            },
+            {
+              "slug": "prednisone",
+              "name": "Prednisone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "af7538c9068b",
+      "title": "乳癌確診後怎麼吃？醫師推4營養素打造「抗癌好體質」肥胖型乳癌要補充它 - TVBS 健康2.0",
+      "published": "2026-08-03T05:08:00+00:00",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aUEphckxOdFg4VGZ2bXlIaXlUUW1VYWRnOGtlNkNNaFdNMld1OE5Dek9Md0gweXh1OU4yUWNFVTY0SmdpZTFkQ1pneGRtdlFSSWc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "14569c7126cd",
       "title": "牛舍細菌揭開「農場效應」之謎 研究：可望降低兒童氣喘與過敏風險 - Taiwan News",
@@ -75,12 +224,12 @@
       ]
     },
     {
-      "id": "ddc0b6c4ef74",
+      "id": "4cca1932428c",
       "title": "研究：中壯年維生素D 充足或助減失智風險",
       "published": "2026-08-02T20:10:44+00:00",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOemtyNTFxNmtRWjlKc052ZVZVN0R2SFZ4MDRPb1RBZTY2d0VDWmhDV0hONmoteThzemJlUXpHYmhkRk1XWndqMFNrN3h6d0tCQUpxUHdObVRrakkyQ21rRmNnVzV5dmVPWFBxV05RMzBnRjJ6cU5LdVBCdnFnQzNzVVhPdlFVVnR4MjM5aGVDUFBBSWpUQUVTRzRYU0toVWE1WmFpaEZjQlR5ZWl5RFl0Y1RuSy0yRjktVjVhZlJSQ3dILXUwOUxydkxfSGdLSzlQaVRGVHByTUNCVk5iU0ZoWVFpWVphWGhHbU1lZllvMTMwNU1yRzkzOVJyUEtIZS1jTFpxM3dNUm9iOENyWjdoeTNBTmotTDR5Z0o1WG9zMEJZSUJNX2E4SWloWG1DN3NiNGxjVkNlVE5pN0VUWFRsTFFEZ25acmVjRXVz?oc=5"
         }
       ],

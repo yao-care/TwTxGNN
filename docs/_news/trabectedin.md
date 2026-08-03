@@ -14,7 +14,7 @@ permalink: /news/trabectedin/
 ---
 
 <p class="key-answer" data-question="Trabectedin 有什麼相關新聞？">
-<strong>Trabectedin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Trabectedin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ permalink: /news/trabectedin/
 <p><a href="{{ '/drugs/trabectedin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [乳癌確診後怎麼吃？醫師推4營養素打造「抗癌好體質」肥胖型乳癌要補充它 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aUEphckxOdFg4VGZ2bXlIaXlUUW1VYWRnOGtlNkNNaFdNMld1OE5Dek9Md0gweXh1OU4yUWNFVTY0SmdpZTFkQ1pneGRtdlFSSWc?oc=5)
+
+2026-08-03 <span class="news-indication-tag">乳癌</span>
+
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aUEphckxOdFg4VGZ2bXlIaXlUUW1VYWRnOGtlNkNNaFdNMld1OE5Dek9Md0gweXh1OU4yUWNFVTY0SmdpZTFkQ1pneGRtdlFSSWc?oc=5)
+
+---
 
 ### [BMI超過35要當心！研究：病態性肥胖及早接受減重手術，乳癌風險降約20％](https://news.google.com/rss/articles/CBMimANBVV95cUxQalRuOU5CZ3BhRXFOUl9hem9CenpLaFBWM3BaOTV3MFRDZktLSXZUMFZtWEk5UG5XQ2VjRTdiaHRNVkwxSXZtLWp5b21WZmUzOXhrRGxCQjdpWURfZ0p6YzVLb05qaW1jOWpLS1gtX0FFSHVlSzRNYlJLd3Bpek1sX0FVa1U0NVBJQ3YwenBLcU8ySm9SVTRKNEdmREgtVm0wUkN6Q1dyTm5wUUNCUXNXYXJnb1lnY1ZfRHoyVW5IdDJ2NkhEYmoxX3pMbzlnQTA3eHhEcUozalhGTEp3YklLRWJnalJIMFczQThMVkFHQ2tBVmRyRC0xNUQ1WDhXRjFoWkdHMktFTGd4MzFoZG1SeVBpOHpvRm5JemYxX3VWZldiSUVMYV9FWEF0MUMwVmEwT1h2QldsbThCVHBCM05oRVdRMWNOc2Y1RWR1QkpmR1BnUkV4NklkM2FmTm1XZ18xZDVwbWN4Y1JIR09sd1NycS1rel9Tb09oakkzM0VHbVhCOXQ5QzV1RENDSldNSHloaUxsc2FFVzU?oc=5)
 

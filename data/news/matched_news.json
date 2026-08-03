@@ -1,17 +1,119 @@
 {
-  "last_updated": "2026-08-03T15:37:58.483428+00:00",
-  "total_count": 19,
-  "matched_count": 4,
+  "last_updated": "2026-08-03T17:43:14.876842+00:00",
+  "total_count": 27,
+  "matched_count": 6,
   "news": [
     {
-      "id": "5dc3bd1ccb42",
-      "title": "家庭關係太緊繃？小心這三個致病地雷！",
-      "published": "2026-08-03T15:09:00+00:00",
-      "summary": "家庭關係太緊繃？小心這三個致病地雷！&nbsp;&nbsp;東森新聞",
+      "id": "742733ae654e",
+      "title": "別等關節變形才治療！類風濕性關節炎治療可近性再提升及早介入成關鍵",
+      "published": "2026-08-03T15:03:56+00:00",
+      "summary": "別等關節變形才治療！類風濕性關節炎治療可近性再提升及早介入成關鍵&nbsp;&nbsp;mobile01.com",
       "sources": [
         {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82OWdDLWhuYXRtOHdHRnAxQXdTOUQyZWVEZkFuM1lXLXI2RXNWRmJjUmxIWnpkalV1ZWQ0YzNRNUxRUnh5QkN2dk9ad1g3bkwxQURjLQ?oc=5"
+          "name": "mobile01.com",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54QkdtUWlHR0xHdG9mXzRRZUJBa3VWUkozczhfQ3VMT3hsNXN3d01BSDFVM2hLRGxBZ3dOOHF0X1BoQnk1bnZ2dzIzV0RlVTdBelZZUk1mSTdleUZHcGoyeWlpLTFJUFE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "類風濕性關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "風濕",
+          "keyword": "風濕",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "關節炎",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            },
+            {
+              "slug": "ibuprofen",
+              "name": "Ibuprofen"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "風濕性關節炎",
+          "keyword": "風濕性關節炎",
+          "related_drugs": [
+            {
+              "slug": "carisoprodol",
+              "name": "Carisoprodol"
+            },
+            {
+              "slug": "prednisone",
+              "name": "Prednisone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adf20df4a43c",
+      "title": "肉毒桿菌毒素新發現 誘導癌細胞發炎性死亡開啟抗癌新途徑 - GeneOnline News",
+      "published": "2026-08-03T11:09:10+00:00",
+      "summary": "肉毒桿菌毒素新發現 誘導癌細胞發炎性死亡開啟抗癌新途徑&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPc3dGNi1nNk5yTkNXMDZyZUtNcUc1UEQ2SHhsQ1V4VEVRRzd6OUd6cU5PeGw0ZW84emowUm83LVNVVDdZVVNHZlladjVFMWtmYWpGSHMzaHF5cVpPenpTRnEtOGtjVWx3aFpyOERnWlpUeXlLT2NFQ3JGYnVaeHN1aHlkNDNReDlnMDQ2M1hMNU9EdGQ2RVhMbjRiWFpsNkR2MGdZaTNjS3ZKSjFJWU5ZYXNmM3RvVW54aVNMeUlBV0toUi1jQTNNQmlzU0xhV0N1dnZ5ZVhjc3FuaDM4OVVuN1lVQV80VGRSSGhoRlR6dC1GNHlUbjYwdm1EdnJZUzdPQnVrd1U0d0E4WmF2OGgxM1Y4QmJMc2ZDS2ZSOWwySmw4dllmOUZaaDdNdGdzcl9VMEJuaGNpTEhVU3RuYmZxdWZZZHNQVzQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -43,14 +145,14 @@
       "matched_keywords": []
     },
     {
-      "id": "2b88674d5d36",
-      "title": "「RSV免疫首護禮分享會」掌握產前免疫黃金期 守護初生BB第一步",
-      "published": "2026-08-03T09:05:39+00:00",
-      "summary": "「RSV免疫首護禮分享會」掌握產前免疫黃金期 守護初生BB第一步&nbsp;&nbsp;經商新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "b41fce4a43d8",
+      "title": "「RSV免疫首護禮分享會」掌握產前免疫黃金期 守護初生BB第一步 - Taiwan News",
+      "published": "2026-08-03T08:46:00+00:00",
+      "summary": "「RSV免疫首護禮分享會」掌握產前免疫黃金期 守護初生BB第一步&nbsp;&nbsp;Taiwan News前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "經商新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0td2h6QnQyUmxtSHB4OVVZLVIzd054NmcxNHgtUFhlSGpxNFJXVkZTRmIxSzlaS2FVQUpzaHhIWUQ0NU4yekFSRGtTSE9Hdw?oc=5"
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80aDdQMlM5MlY1cndtVnJwc1h5MlpqdnUxQWlBOWdydkJ2cVpza1dKVHFUWTRDOVZYLWJtd2tiUkZNeFRxSDVZSDcydUFHUndkVzJBZW9Od2M?oc=5"
         }
       ],
       "matched_keywords": []
@@ -69,6 +171,19 @@
       "matched_keywords": []
     },
     {
+      "id": "5dc3bd1ccb42",
+      "title": "家庭關係太緊繃？小心這三個致病地雷！",
+      "published": "2026-08-03T06:57:00+00:00",
+      "summary": "家庭關係太緊繃？小心這三個致病地雷！&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82OWdDLWhuYXRtOHdHRnAxQXdTOUQyZWVEZkFuM1lXLXI2RXNWRmJjUmxIWnpkalV1ZWQ0YzNRNUxRUnh5QkN2dk9ad1g3bkwxQURjLQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "53d4066334fc",
       "title": "【街頭觀察學】從「睇動物」到「睇街坊」：一個實習生的街頭生存指南-專欄- 明周文化 - Ming Pao Weekly",
       "published": "2026-08-03T06:49:12+00:00",
@@ -80,6 +195,68 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "324ef9a51dfe",
+      "title": "防西尼羅病毒擴散 史島、皇后區今起噴藥滅蚊",
+      "published": "2026-08-03T06:26:00+00:00",
+      "summary": "防西尼羅病毒擴散 史島、皇后區今起噴藥滅蚊&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96TlpJMFhrd2pSUXZqTHhfcjRkMGNXNi1fMDhRQjZLQWFGQ29jY242UlRyeGNOWmo4OERLVVJZWmFBR0RZSlNXTURBZXFneGFwX2xKRTVNWnFhTHpnQzBuOWJ30gFnQVVfeXFMTmhQRHhhWHFOM3VSdTZkb1o0NGw1dllTb1JwU3BoaTExeVQ5UzdxSElJS3RSeG1qRjB4bmFvRWFwUGJaWDBIVFk4ZnNSNkVtQ3NvYkY4dEctMDIwOUxwTmRjUmpYamZBRQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "af7538c9068b",
+      "title": "乳癌確診後怎麼吃？醫師推4營養素打造「抗癌好體質」肥胖型乳癌要補充它 - TVBS 健康2.0",
+      "published": "2026-08-03T05:08:00+00:00",
+      "summary": "乳癌確診後怎麼吃？醫師推4營養素打造「抗癌好體質」肥胖型乳癌要補充它&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aUEphckxOdFg4VGZ2bXlIaXlUUW1VYWRnOGtlNkNNaFdNMld1OE5Dek9Md0gweXh1OU4yUWNFVTY0SmdpZTFkQ1pneGRtdlFSSWc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "b900907c29db",
@@ -133,13 +310,13 @@
       ]
     },
     {
-      "id": "1fa614f4fc6f",
-      "title": "不想用醫美逆齡也可以，從關注卵巢保養，朝飲食X生活兩大理想指標看齊",
+      "id": "8a9aed795dac",
+      "title": "不想用醫美逆齡也可以，從關注卵巢保養，朝飲食X生活兩大理想指標看齊 - Mombaby 媽媽寶寶懷孕生活網",
       "published": "2026-08-03T03:46:09+00:00",
-      "summary": "不想用醫美逆齡也可以，從關注卵巢保養，朝飲食X生活兩大理想指標看齊&nbsp;&nbsp;mombaby.com.tw",
+      "summary": "不想用醫美逆齡也可以，從關注卵巢保養，朝飲食X生活兩大理想指標看齊&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網",
       "sources": [
         {
-          "name": "mombaby.com.tw",
+          "name": "Mombaby 媽媽寶寶懷孕生活網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmSXQ2WEJDVjhRTjFQbmRDZ2JpRk1XZDRzRDdETjI2R3FuM0NzSUQ5anc1ek1oRTdJMGdQeWVRMzlFYXQzMVJEc3FtVkUyTlRLUGktRGdB?oc=5"
         }
       ],
@@ -149,7 +326,7 @@
       "id": "cadc2936fcae",
       "title": "BMI超過35要當心！研究：病態性肥胖及早接受減重手術，乳癌風險降約20％",
       "published": "2026-08-03T03:24:50+00:00",
-      "summary": "BMI超過35要當心！研究：病態性肥胖及早接受減重手術，乳癌風險降約20％&nbsp;&nbsp;Yahoo新聞防癌快看！國際期刊證實胖是得癌關鍵風險 潘致皓醫師曝４個恐怖真相&nbsp;&nbsp;三立新聞網SETN.com不只變瘦而已！「這個手術」能讓乳癌死亡風險暴跌63%&nbsp;&nbsp;中天新聞網及早減重手術 助降乳癌發生率&nbsp;&nbsp;中華新聞雲／中華日報「BMI破35及早減重手術」 台北慈濟研究證實能降乳癌發生率&nbsp;&nbsp;民視健康長照網",
+      "summary": "BMI超過35要當心！研究：病態性肥胖及早接受減重手術，乳癌風險降約20％&nbsp;&nbsp;Yahoo新聞保健》半年內減重手術 乳癌風險降2成&nbsp;&nbsp;中國時報- 翻爆防癌快看！國際期刊證實胖是得癌關鍵風險 潘致皓醫師曝４個恐怖真相&nbsp;&nbsp;health.setn.com不只變瘦而已！「這個手術」能讓乳癌死亡風險暴跌63%&nbsp;&nbsp;中天新聞網及早減重手術 助降乳癌發生率&nbsp;&nbsp;中華新聞雲／中華日報",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -208,13 +385,13 @@
       "matched_keywords": []
     },
     {
-      "id": "a55e2b82c13b",
+      "id": "6db216ad9303",
       "title": "有白頭髮等於「身體抗癌」？ 日本研究： 毛囊幹細胞啟動防癌機制 營養師力推護髮3寶",
       "published": "2026-08-03T03:00:59+00:00",
-      "summary": "有白頭髮等於「身體抗癌」？ 日本研究： 毛囊幹細胞啟動防癌機制 營養師力推護髮3寶&nbsp;&nbsp;星島頭條",
+      "summary": "有白頭髮等於「身體抗癌」？ 日本研究： 毛囊幹細胞啟動防癌機制 營養師力推護髮3寶&nbsp;&nbsp;stheadline.com",
       "sources": [
         {
-          "name": "星島頭條",
+          "name": "stheadline.com",
           "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQdFhCTG56eUNscklxbFBtMEZxMVlXcHJaOG04OU4xbUxSNnlNeWxHSkpOSzVoN1g4SkdJeE9IYXN2UVRWT1hJTksyU3J5djFSTFJPanMtWHpfYWdTU2NzRWJzTUJ1YWUwVTkzd0hhNmEwR3hrenBJamFhazFycDVyT3Z2SWNKWjA2OXN3ZXVyNEdWdzFtUXB1U0QzbXJleUU0Z2RIZEs1MjF1R09FcERpQmpqU1ZvT2EtdVNYcWJHUXRVdEY4TjBYbExiOXVOZTBibW9GaHhzNU4xLWFuczd5RnN3ZzRLdDZOT2NoR1YzeFZQWVZRM2ZrTm5vTmpkU0JkTk80c1pUaHMwck1uTHd1SWxwckZKTkx0UTNZVmxVUm10aXNZQ1VoTkJPRTJQVEdNdzBDQThFa251WExMaG9TOEJzRnVXSExRX0ZqYTZfTjhPbVRsNlVMRFZDQS1nY2ZvRkRvZnNLYmFTUkMyR0RUQjYwa3dvS3RsRmtnNzkxRzYzOWdPc0RodmdTWk44dFFFYmVESU8xSnZXNVVuOHZ6cW1Lc242R01lSmpZOHJUNUkxSE8tYklYTVlRTUxMOXVZZjh2T0R0Q21ETGw5UkZXUDJPaVVVd3gyVmxOcEdnQ3hoZG96N0hzY1RNRQ?oc=5"
         }
       ],
@@ -234,13 +411,13 @@
       "matched_keywords": []
     },
     {
-      "id": "ddc0b6c4ef74",
+      "id": "4cca1932428c",
       "title": "研究：中壯年維生素D 充足或助減失智風險",
       "published": "2026-08-02T20:10:44+00:00",
-      "summary": "研究：中壯年維生素D 充足或助減失智風險&nbsp;&nbsp;bastillepost.com",
+      "summary": "研究：中壯年維生素D 充足或助減失智風險&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOemtyNTFxNmtRWjlKc052ZVZVN0R2SFZ4MDRPb1RBZTY2d0VDWmhDV0hONmoteThzemJlUXpHYmhkRk1XWndqMFNrN3h6d0tCQUpxUHdObVRrakkyQ21rRmNnVzV5dmVPWFBxV05RMzBnRjJ6cU5LdVBCdnFnQzNzVVhPdlFVVnR4MjM5aGVDUFBBSWpUQUVTRzRYU0toVWE1WmFpaEZjQlR5ZWl5RFl0Y1RuSy0yRjktVjVhZlJSQ3dILXUwOUxydkxfSGdLSzlQaVRGVHByTUNCVk5iU0ZoWVFpWVphWGhHbU1lZllvMTMwNU1yRzkzOVJyUEtIZS1jTFpxM3dNUm9iOENyWjdoeTNBTmotTDR5Z0o1WG9zMEJZSUJNX2E4SWloWG1DN3NiNGxjVkNlVE5pN0VUWFRsTFFEZ25acmVjRXVz?oc=5"
         }
       ],
@@ -259,14 +436,27 @@
       ]
     },
     {
-      "id": "48f1a1b45940",
+      "id": "9269ef27e3b8",
       "title": "AI蚊子偵測器 辨識致病蚊種",
       "published": "2026-08-02T16:30:00+00:00",
-      "summary": "AI蚊子偵測器 辨識致病蚊種&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "AI蚊子偵測器 辨識致病蚊種&nbsp;&nbsp;paper.hket.com",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
+          "name": "paper.hket.com",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVFBUMndoT2VfdXp6cjFOaGFsLVJtUzgtTjV0bTNUVVN5ZXpiUHBHNEMtZGc2QVF4NWFOVGhmSlhTQlk0dkhUTG9YT3FXbmtLWjRZNVpVbDAwbGVEQXN2ZmlBc2cwQUdBeHJuN2U0S1pDQnRnaGkxczROOGhvS0pqUEYtYXN3TU1DX0FtSnpEb3FyYVpTTFpfaGppRmxheVdkaVFsWFc3ZmhFZmFkZlBwN2lMNFNEVFNzWGU1T1EzNkpNWXk3blpIZDFSb2NOSklRdklDbi1COVAwY28?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8c87cfac2c0e",
+      "title": "突然抽搐、昏迷流感幼童醒來後無法走路| 生活",
+      "published": "2026-08-02T12:00:13+00:00",
+      "summary": "突然抽搐、昏迷流感幼童醒來後無法走路| 生活&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuY0J1cHRuUGhCN0ZMaFJza01NXzFleG5hNjE3QWVBcmRwM0tzUzljbjV3eFpIa3pGUFpMQzZQM0tOOVpEYzBv?oc=5"
         }
       ],
       "matched_keywords": []
@@ -321,6 +511,32 @@
       ]
     },
     {
+      "id": "d713c005ac5d",
+      "title": "養生／疲勞頭號原因最易被忽視 年齡越長越嚴重",
+      "published": "2026-08-02T06:07:00+00:00",
+      "summary": "養生／疲勞頭號原因最易被忽視 年齡越長越嚴重&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXQVljY0pfelV2LXZpZXFrMVJRY3BrUkhlRDI1NC1NOS1DelN4SVZBREN1WnlaQllDRDU1bHhVcnByX2thOVlwbWZtY1JUYm9IMTBNTnRlQmg5dV85Y1dqdjZB0gFnQVVfeXFMTnVKMDVId01qdldYRmFKN1Z1QWtHaEZoOWczZWxqN1NFY00yLThybEYxSnpZREJjR3Iwd2l4dFExRUlVOS1ZUUhmeVdDeHY0TWxvQUE4bW92cE1EQWhaWTB5NXUyYUpXVQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2d383ab3e1b7",
+      "title": "養生／曬太陽幫助鈣質吸收 最多15分鐘",
+      "published": "2026-08-02T06:05:00+00:00",
+      "summary": "養生／曬太陽幫助鈣質吸收 最多15分鐘&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNHB2Wl9CYTkxZWQ5R3hIT3pCLXlQUkxlcUxqOXFfQnpLNVBMUHBxT2RYelRGbTBqay1MN0EwSFphTUduSG8yVkVRQjhFb3Z0bDZxY3d4TEpXVkt4ZEpIVUEtNU5fWU42TXMtdEtoN1BteDVodUNnRVZ6eWFDUDJOb9IBZ0FVX3lxTE1KU2Q1WEh6UWM5bkEzemxXalVPbTU2Nk5NSGtXd1pvVTcwRjZHMjhmcG9xNDNINlZscVFCSGxKN0VVdUlnbHNfR1IyTzgwMUNMQzc1NVVCZzhELU9ldlUzM1JPTm52d3c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "1c8fe575eb84",
       "title": "Keynote 3——後藤由季子：染色質機制決定新皮質命運，生理時鐘是疊加的另一層精密控制!",
       "published": "2026-08-02T02:44:13+00:00",
@@ -334,13 +550,26 @@
       "matched_keywords": []
     },
     {
-      "id": "658f54471532",
-      "title": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保 - 晴報 Sky Post",
-      "published": "2026-08-01T23:06:34+00:00",
-      "summary": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保&nbsp;&nbsp;晴報 Sky Post",
+      "id": "9e87e9bc790e",
+      "title": "禿頭｜光頭原來有好處？美國研究揭30歲前開始脫髮 前列腺癌風險降低29% - myTV SUPER",
+      "published": "2026-08-01T23:45:00+00:00",
+      "summary": "禿頭｜光頭原來有好處？美國研究揭30歲前開始脫髮 前列腺癌風險降低29%&nbsp;&nbsp;myTV SUPER",
       "sources": [
         {
-          "name": "晴報 Sky Post",
+          "name": "myTV SUPER",
+          "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxNelg4eUN5QU1ZRTAydl83TXpYdWJTclp3MElXazBvTTl6b2dudGFZUFczY1JtbVpkWUswdHVGSlRBYnpQeGpjOWZhbDlmWnFCOVNSbEphOFQ2M01vT1R0UWxxT0l6WE1RaDAwUUVRVVFjRTY0Zk5SYm56VjM2Q0VWLUpYTWlMZlU2ajVlXzJnQ0pZM0Z2bzZwcXowMS1razJhRGJIVU0xNjBmYUhldmwyYVFwWmRXZzBVWkNQNnRTdzJGaFVjcUxKcnVtNVhDa3pjNE9IdVY0MWE5YWJ4MDU0cVNuQkZjbzdrdEZHcXBETVNLcXBRc29jczlTRTQyLXNmT0pYd3k2VkxTZndlSE1maTBnMlBzbzZzeGx6NmQwcU9SaThFUmVyQm5iRi1mVGxNUFMyYi0yck9xeDZ6SzRkeXdHRFRzZkl5MW1MZ0xVS2pPQUpBZ1BKUHZuMlNyTVd6S1hFMmxTWk04OTVKUGpmVkRKSVlPMzdJcGRlU0dkQ1VpWXotVnpVOUhRMzliak9kS0JlWUdMSzg2ZlJuanVKTEtoM3ZqNkdTaHZQNjRsalcyVkFrS2RkV093V1ljQlpWV2VxTG5PM1dWaWRhQnBQTzJMRzFwMWVidmZqczdBbXZfWkhXSnUtWV9YZE80aGxKLVdYMTZ1YVB3MnlkYmFfN2V5bmJvSjUw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7d69a41e4f98",
+      "title": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保",
+      "published": "2026-08-01T23:06:34+00:00",
+      "summary": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保&nbsp;&nbsp;skypost.hk",
+      "sources": [
+        {
+          "name": "skypost.hk",
           "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxPZzl3N05OTXRCcXBSckY4dGppZ0JtWGJZQThTMXpZVG9KQU43M3JVNk1pMjdhdHF6aFZaVmlBMnYwZnBwVkwxYjhEVmFlQnYwYndSb0h2RVJSaWNJeEc2ak84dE1ObmdhdlZNSlcycTFpd00tdkNCdnhZbUZJel9qRFg0c18zZUdWbVM0VTg1cTNUQW4wLS1CRDVIUTNTN0ZreTdSdDE1bTM3NWhOc0xvY3ZoSVBZZGJTbXYtRzVzREJqYnpwbVlOckFwRXZEYUVxc3p6eGk5VUlLd1p6cUlSOUZIZ1JZekw4QmRzWm40aFVwdEtmZnJSb3U4RmZBbFhtbXRNak8zX3BxQ3VxbFVpMDlmcE5GVFdzSFlDSkRiblJVdjU4MkFtOGkxT2gxSDBiYmNkWXREQzF3SkF6V0QyYnVvSWVmeGRHUHRJcloxaVBYUnhJeVV1U2JDWXJKanl3Ui15dFRqRkxONWxzWDhjZ2laSTBuSFNFa0JtcFRkM3o4RDF3RnppV2xZN1NOTHNnRm96ZHhkTUxZZndGNGtmU2Z0a09VS2NnUnNwdHdJczVETkVEWWpieGROaWVFTHFFQ3JURU5B?oc=5"
         }
       ],
