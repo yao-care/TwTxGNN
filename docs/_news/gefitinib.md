@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [癌症醫師防癌佳句：這一切都將成為過去！](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FUXZhU1RESWdELUY2MzhDZFA3ZVk0WEpRakJubnRSSmZnalhzYmtUbnV3Y3l4TEtEWllsV3R2OTBqWUZnclg3eXpKWGYtcXlnckEtbzVwdDZZOWRNV2ZXbdIBZkFVX3lxTE1QV1lrTGQwTGFQemJ0aEZ2aFVvcUhwTXNLZVlHRV9nT3laR3Z0bmluRndMTVlqN3ZsRDhzZkhQQnBnOTBuOGFSX3FqUGxMR0ZFRWc5N0stUG00Qjh6ckJPbjRnNzlKQQ?oc=5)
 
@@ -56,14 +56,6 @@ permalink: /news/gefitinib/
 2026-08-04 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi5ANBVV95cUxOaGNsX3RNdUtFU0FUN044V1hDRE1Qc2dzaUNsZWtaNHdSaG5sYmJGalRpQUwxWnZqUHBXcllGMU00YXhwbmljWnl2YnVvUF9WV2JfckNOblBZd1FfSEctWVhpM3JKdGVxZTRpTUJMU0tTYlNOcDljdTFxaGdaSUd3MGZJblduQXRxcFZRd2hyZjl1dGNJaVlBdGhvVnlJX1JXRmRVM2NHams3bzRFdXpVb0xJQTNWTlAxUFN2cGtzZkpubUFZaE5laDlfYm5BMm5rWDZTdlRZX1Z3WFNCVTNwNnZSTVdJZVduTEtLRm9SU1RyMGpjY2YyZS14dld4MmM2bDFrVVFad2xWVl9NWVVEWGdJaGF2a0NxZDFCcjlfWEZCeE9WZ2d0MkIzQVVsMkg3a1R6b0NfRzhhUHVNQ0pCY0tfWjctc1ZrXzlyM1g1SkRZLU5zaXZqWFVhRzV3ZUN6TVhnOFdZd05TRHBGS1J3Wk1yVFA3MXFsSDA4ckk2WFlaUmlZY250SnZPYXFtZDlSWVJ5YlJfWl9pOFJ4NTJzLW02MUJFSkU0Rk1YUk5NbnlzYnlJbXB6VUxYXzJfQVNkR1pVUllPUzZlWUM0MkdMVUtEd25OQnBpWTFkU2NYMDRCaWRH?oc=5)
-
----
-
-### [研究：中壯年維生素D 充足或助減失智風險](https://news.google.com/rss/articles/CBMiywJBVV95cUxOemtyNTFxNmtRWjlKc052ZVZVN0R2SFZ4MDRPb1RBZTY2d0VDWmhDV0hONmoteThzemJlUXpHYmhkRk1XWndqMFNrN3h6d0tCQUpxUHdObVRrakkyQ21rRmNnVzV5dmVPWFBxV05RMzBnRjJ6cU5LdVBCdnFnQzNzVVhPdlFVVnR4MjM5aGVDUFBBSWpUQUVTRzRYU0toVWE1WmFpaEZjQlR5ZWl5RFl0Y1RuSy0yRjktVjVhZlJSQ3dILXUwOUxydkxfSGdLSzlQaVRGVHByTUNCVk5iU0ZoWVFpWVphWGhHbU1lZllvMTMwNU1yRzkzOVJyUEtIZS1jTFpxM3dNUm9iOENyWjdoeTNBTmotTDR5Z0o1WG9zMEJZSUJNX2E4SWloWG1DN3NiNGxjVkNlVE5pN0VUWFRsTFFEZ25acmVjRXVz?oc=5)
-
-2026-08-02 <span class="news-indication-tag">失智</span>
-
-來源：[巴士的報](https://news.google.com/rss/articles/CBMiywJBVV95cUxOemtyNTFxNmtRWjlKc052ZVZVN0R2SFZ4MDRPb1RBZTY2d0VDWmhDV0hONmoteThzemJlUXpHYmhkRk1XWndqMFNrN3h6d0tCQUpxUHdObVRrakkyQ21rRmNnVzV5dmVPWFBxV05RMzBnRjJ6cU5LdVBCdnFnQzNzVVhPdlFVVnR4MjM5aGVDUFBBSWpUQUVTRzRYU0toVWE1WmFpaEZjQlR5ZWl5RFl0Y1RuSy0yRjktVjVhZlJSQ3dILXUwOUxydkxfSGdLSzlQaVRGVHByTUNCVk5iU0ZoWVFpWVphWGhHbU1lZllvMTMwNU1yRzkzOVJyUEtIZS1jTFpxM3dNUm9iOENyWjdoeTNBTmotTDR5Z0o1WG9zMEJZSUJNX2E4SWloWG1DN3NiNGxjVkNlVE5pN0VUWFRsTFFEZ25acmVjRXVz?oc=5)
 
 ---
 

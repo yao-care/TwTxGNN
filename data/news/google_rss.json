@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-04T21:02:08.824953+00:00",
-  "count": 25,
+  "fetched_at": "2026-08-04T22:52:46.264739+00:00",
+  "count": 24,
   "news": [
     {
       "id": "b53eeed8e371",
@@ -18,7 +18,7 @@
     {
       "id": "4af6e7eefacd",
       "title": "菲律賓三寶顏市暴發登革熱疫情 已致12人死亡 - 香港文匯報",
-      "published": "2026-08-04T15:49:35+00:00",
+      "published": "2026-08-04T16:23:10+00:00",
       "summary": "菲律賓三寶顏市暴發登革熱疫情 已致12人死亡&nbsp;&nbsp;香港文匯報斯里蘭卡登革熱爆近十年最嚴重疫情 軍用無人機助剿蚊蟲滋生點&nbsp;&nbsp;客新聞 HakkaNews對付登革熱，斯里蘭卡動用無人機 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -64,18 +64,6 @@
       ]
     },
     {
-      "id": "160e6fc8003b",
-      "title": "不是靠新藥！大型研究：這套生活計畫讓大腦認知改善55％ - 自由健康網",
-      "published": "2026-08-04T06:36:00+00:00",
-      "summary": "不是靠新藥！大型研究：這套生活計畫讓大腦認知改善55％&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HYndFNlBaQUJJWTFmSFNhSlppUHdBVHpqazN0SmV0NlhmRkVpSllkT1FYTFpOaVVNcFpFWFVzUDFpdWxnT1U2QmdFOEJHTDdvQTlwZmZKbmpvaHNCS1h4QlRJZnA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7c91ff0ed0f1",
       "title": "「先被好好對待，才能談性健康」：看見臺灣愛滋防治中的跨性別與非二元族群 - HIVStoryMEDIA",
       "published": "2026-08-03T04:39:51+00:00",
@@ -84,6 +72,18 @@
         {
           "name": "HIVStoryMEDIA",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HYW14Zm9kanJmOWNBb1VKWEpZZW4yLUt5WlEwRWtXQ09YdVhjTDZIbko1YWNBeHVPeDVUcTZwbTg1UWtyQXcwOHdXQ0w1RmxiWVVFVEdjRUs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "160e6fc8003b",
+      "title": "不是靠新藥！大型研究：這套生活計畫讓大腦認知改善55％ - 自由健康網",
+      "published": "2026-08-04T06:36:00+00:00",
+      "summary": "不是靠新藥！大型研究：這套生活計畫讓大腦認知改善55％&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HYndFNlBaQUJJWTFmSFNhSlppUHdBVHpqazN0SmV0NlhmRkVpSllkT1FYTFpOaVVNcFpFWFVzUDFpdWxnT1U2QmdFOEJHTDdvQTlwZmZKbmpvaHNCS1h4QlRJZnA?oc=5"
         }
       ]
     },
@@ -148,13 +148,13 @@
       ]
     },
     {
-      "id": "1fa614f4fc6f",
-      "title": "不想用醫美逆齡也可以，從關注卵巢保養，朝飲食X生活兩大理想指標看齊 - mombaby.com.tw",
+      "id": "8a9aed795dac",
+      "title": "不想用醫美逆齡也可以，從關注卵巢保養，朝飲食X生活兩大理想指標看齊 - Mombaby 媽媽寶寶懷孕生活網",
       "published": "2026-08-03T03:46:09+00:00",
-      "summary": "不想用醫美逆齡也可以，從關注卵巢保養，朝飲食X生活兩大理想指標看齊&nbsp;&nbsp;mombaby.com.tw",
+      "summary": "不想用醫美逆齡也可以，從關注卵巢保養，朝飲食X生活兩大理想指標看齊&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網",
       "sources": [
         {
-          "name": "mombaby.com.tw",
+          "name": "Mombaby 媽媽寶寶懷孕生活網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmSXQ2WEJDVjhRTjFQbmRDZ2JpRk1XZDRzRDdETjI2R3FuM0NzSUQ5anc1ek1oRTdJMGdQeWVRMzlFYXQzMVJEc3FtVkUyTlRLUGktRGdB?oc=5"
         }
       ]
@@ -175,23 +175,11 @@
       "id": "831dd2980b80",
       "title": "阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險 - Yahoo新聞",
       "published": "2026-08-04T03:03:57+00:00",
-      "summary": "阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險&nbsp;&nbsp;Yahoo新聞開冰箱就忘記要做什麼？醫師揭五失智警訊：日常多吃這5類食物 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報失智症早期藏在聊天裡！醫點「1種對話」習慣是警訊- 國際&nbsp;&nbsp;中時新聞網才聊完10分鐘就忘了？日醫師曝「1異常」恐是失智警訊 很多人沒察覺&nbsp;&nbsp;udn",
+      "summary": "阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險&nbsp;&nbsp;Yahoo新聞開冰箱就忘記要做什麼？醫師揭五失智警訊：日常多吃這5類食物 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報失智症早期藏在聊天裡！醫點「1種對話」習慣是警訊- 國際&nbsp;&nbsp;中時新聞網才聊完10分鐘就忘了？日醫師曝「1異常」恐是失智警訊 很多人沒察覺&nbsp;&nbsp;udn.com",
       "sources": [
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOaGNsX3RNdUtFU0FUN044V1hDRE1Qc2dzaUNsZWtaNHdSaG5sYmJGalRpQUwxWnZqUHBXcllGMU00YXhwbmljWnl2YnVvUF9WV2JfckNOblBZd1FfSEctWVhpM3JKdGVxZTRpTUJMU0tTYlNOcDljdTFxaGdaSUd3MGZJblduQXRxcFZRd2hyZjl1dGNJaVlBdGhvVnlJX1JXRmRVM2NHams3bzRFdXpVb0xJQTNWTlAxUFN2cGtzZkpubUFZaE5laDlfYm5BMm5rWDZTdlRZX1Z3WFNCVTNwNnZSTVdJZVduTEtLRm9SU1RyMGpjY2YyZS14dld4MmM2bDFrVVFad2xWVl9NWVVEWGdJaGF2a0NxZDFCcjlfWEZCeE9WZ2d0MkIzQVVsMkg3a1R6b0NfRzhhUHVNQ0pCY0tfWjctc1ZrXzlyM1g1SkRZLU5zaXZqWFVhRzV3ZUN6TVhnOFdZd05TRHBGS1J3Wk1yVFA3MXFsSDA4ckk2WFlaUmlZY250SnZPYXFtZDlSWVJ5YlJfWl9pOFJ4NTJzLW02MUJFSkU0Rk1YUk5NbnlzYnlJbXB6VUxYXzJfQVNkR1pVUllPUzZlWUM0MkdMVUtEd25OQnBpWTFkU2NYMDRCaWRH?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4cca1932428c",
-      "title": "研究：中壯年維生素D 充足或助減失智風險 - 巴士的報",
-      "published": "2026-08-02T20:10:44+00:00",
-      "summary": "研究：中壯年維生素D 充足或助減失智風險&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOemtyNTFxNmtRWjlKc052ZVZVN0R2SFZ4MDRPb1RBZTY2d0VDWmhDV0hONmoteThzemJlUXpHYmhkRk1XWndqMFNrN3h6d0tCQUpxUHdObVRrakkyQ21rRmNnVzV5dmVPWFBxV05RMzBnRjJ6cU5LdVBCdnFnQzNzVVhPdlFVVnR4MjM5aGVDUFBBSWpUQUVTRzRYU0toVWE1WmFpaEZjQlR5ZWl5RFl0Y1RuSy0yRjktVjVhZlJSQ3dILXUwOUxydkxfSGdLSzlQaVRGVHByTUNCVk5iU0ZoWVFpWVphWGhHbU1lZllvMTMwNU1yRzkzOVJyUEtIZS1jTFpxM3dNUm9iOENyWjdoeTNBTmotTDR5Z0o1WG9zMEJZSUJNX2E4SWloWG1DN3NiNGxjVkNlVE5pN0VUWFRsTFFEZ25acmVjRXVz?oc=5"
         }
       ]
     },

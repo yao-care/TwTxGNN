@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T21:02:13.455478+00:00",
-  "count": 6,
+  "generated": "2026-08-04T22:52:50.462289+00:00",
+  "count": 5,
   "news": [
     {
       "id": "74fcb6e94aed",
@@ -370,30 +370,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4cca1932428c",
-      "title": "研究：中壯年維生素D 充足或助減失智風險",
-      "published": "2026-08-02T20:10:44+00:00",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOemtyNTFxNmtRWjlKc052ZVZVN0R2SFZ4MDRPb1RBZTY2d0VDWmhDV0hONmoteThzemJlUXpHYmhkRk1XWndqMFNrN3h6d0tCQUpxUHdObVRrakkyQ21rRmNnVzV5dmVPWFBxV05RMzBnRjJ6cU5LdVBCdnFnQzNzVVhPdlFVVnR4MjM5aGVDUFBBSWpUQUVTRzRYU0toVWE1WmFpaEZjQlR5ZWl5RFl0Y1RuSy0yRjktVjVhZlJSQ3dILXUwOUxydkxfSGdLSzlQaVRGVHByTUNCVk5iU0ZoWVFpWVphWGhHbU1lZllvMTMwNU1yRzkzOVJyUEtIZS1jTFpxM3dNUm9iOENyWjdoeTNBTmotTDR5Z0o1WG9zMEJZSUJNX2E4SWloWG1DN3NiNGxjVkNlVE5pN0VUWFRsTFFEZ25acmVjRXVz?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
