@@ -1,31 +1,7 @@
 {
-  "generated": "2026-08-04T10:27:41.270387+00:00",
+  "generated": "2026-08-04T12:52:58.668548+00:00",
   "count": 6,
   "news": [
-    {
-      "id": "160e6fc8003b",
-      "title": "不是靠新藥！大型研究：這套生活計畫讓大腦認知改善55％",
-      "published": "2026-08-04T06:36:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HYndFNlBaQUJJWTFmSFNhSlppUHdBVHpqazN0SmV0NlhmRkVpSllkT1FYTFpOaVVNcFpFWFVzUDFpdWxnT1U2QmdFOEJHTDdvQTlwZmZKbmpvaHNCS1h4QlRJZnA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "74fcb6e94aed",
       "title": "癌症醫師防癌佳句：這一切都將成為過去！",
@@ -281,6 +257,53 @@
       ]
     },
     {
+      "id": "f76ae354a6c0",
+      "title": "55歲是子宮內膜癌發生最多年齡！停經後出血＝不正常，別再當「回春」…每年3檢查保命：早期治癒率達9成5",
+      "published": "2026-08-04T02:10:00+00:00",
+      "sources": [
+        {
+          "name": "幸福熟齡",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ldFZmdkdmTW82TVlWTnNLSVc1amMwU0RWMUVpUkVMRFVoVFdkNHdSa0pxOTNBd1Z3WC1Sa29hUmVNWmlUemk0amdibEthZmJKNTE1dGlTVkx5WkRzVVpmNHRwNkJJNnY1b1hBTmhESmtqSi1DaWw5d1dydw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "子宮內膜癌",
+          "keyword": "子宮內膜癌",
+          "related_drugs": [
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "14569c7126cd",
       "title": "牛舍細菌揭開「農場效應」之謎 研究：可望降低兒童氣喘與過敏風險 - Taiwan News",
       "published": "2026-08-03T04:23:00+00:00",
@@ -305,12 +328,12 @@
       ]
     },
     {
-      "id": "45926c95aa4b",
+      "id": "cadc2936fcae",
       "title": "BMI超過35要當心！研究：病態性肥胖及早接受減重手術，乳癌風險降約20％",
       "published": "2026-08-03T03:24:50+00:00",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
+          "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxQalRuOU5CZ3BhRXFOUl9hem9CenpLaFBWM3BaOTV3MFRDZktLSXZUMFZtWEk5UG5XQ2VjRTdiaHRNVkwxSXZtLWp5b21WZmUzOXhrRGxCQjdpWURfZ0p6YzVLb05qaW1jOWpLS1gtX0FFSHVlSzRNYlJLd3Bpek1sX0FVa1U0NVBJQ3YwenBLcU8ySm9SVTRKNEdmREgtVm0wUkN6Q1dyTm5wUUNCUXNXYXJnb1lnY1ZfRHoyVW5IdDJ2NkhEYmoxX3pMbzlnQTA3eHhEcUozalhGTEp3YklLRWJnalJIMFczQThMVkFHQ2tBVmRyRC0xNUQ1WDhXRjFoWkdHMktFTGd4MzFoZG1SeVBpOHpvRm5JemYxX3VWZldiSUVMYV9FWEF0MUMwVmEwT1h2QldsbThCVHBCM05oRVdRMWNOc2Y1RWR1QkpmR1BnUkV4NklkM2FmTm1XZ18xZDVwbWN4Y1JIR09sd1NycS1rel9Tb09oakkzM0VHbVhCOXQ5QzV1RENDSldNSHloaUxsc2FFVzU?oc=5"
         }
       ],
@@ -353,12 +376,12 @@
       ]
     },
     {
-      "id": "4cca1932428c",
+      "id": "ddc0b6c4ef74",
       "title": "研究：中壯年維生素D 充足或助減失智風險",
       "published": "2026-08-02T20:10:44+00:00",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOemtyNTFxNmtRWjlKc052ZVZVN0R2SFZ4MDRPb1RBZTY2d0VDWmhDV0hONmoteThzemJlUXpHYmhkRk1XWndqMFNrN3h6d0tCQUpxUHdObVRrakkyQ21rRmNnVzV5dmVPWFBxV05RMzBnRjJ6cU5LdVBCdnFnQzNzVVhPdlFVVnR4MjM5aGVDUFBBSWpUQUVTRzRYU0toVWE1WmFpaEZjQlR5ZWl5RFl0Y1RuSy0yRjktVjVhZlJSQ3dILXUwOUxydkxfSGdLSzlQaVRGVHByTUNCVk5iU0ZoWVFpWVphWGhHbU1lZllvMTMwNU1yRzkzOVJyUEtIZS1jTFpxM3dNUm9iOENyWjdoeTNBTmotTDR5Z0o1WG9zMEJZSUJNX2E4SWloWG1DN3NiNGxjVkNlVE5pN0VUWFRsTFFEZ25acmVjRXVz?oc=5"
         }
       ],

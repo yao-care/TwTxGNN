@@ -14,7 +14,7 @@ permalink: /news/nystatin/
 ---
 
 <p class="key-answer" data-question="Nystatin 有什麼相關新聞？">
-<strong>Nystatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nystatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/nystatin/
 <p><a href="{{ '/drugs/nystatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [55歲是子宮內膜癌發生最多年齡！停經後出血＝不正常，別再當「回春」…每年3檢查保命：早期治癒率達9成5](https://news.google.com/rss/articles/CBMie0FVX3lxTE9ldFZmdkdmTW82TVlWTnNLSVc1amMwU0RWMUVpUkVMRFVoVFdkNHdSa0pxOTNBd1Z3WC1Sa29hUmVNWmlUemk0amdibEthZmJKNTE1dGlTVkx5WkRzVVpmNHRwNkJJNnY1b1hBTmhESmtqSi1DaWw5d1dydw?oc=5)
+
+2026-08-04 <span class="news-indication-tag">停經</span> <span class="news-indication-tag">子宮內膜癌</span>
+
+來源：[幸福熟齡](https://news.google.com/rss/articles/CBMie0FVX3lxTE9ldFZmdkdmTW82TVlWTnNLSVc1amMwU0RWMUVpUkVMRFVoVFdkNHdSa0pxOTNBd1Z3WC1Sa29hUmVNWmlUemk0amdibEthZmJKNTE1dGlTVkx5WkRzVVpmNHRwNkJJNnY1b1hBTmhESmtqSi1DaWw5d1dydw?oc=5)
+
+---
 
 
 <div class="disclaimer">
