@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-04T22:52:46.264739+00:00",
+  "fetched_at": "2026-08-04T23:55:26.808321+00:00",
   "count": 24,
   "news": [
     {
@@ -52,18 +52,6 @@
       ]
     },
     {
-      "id": "c19900be69f2",
-      "title": "出國旅遊帶回「隱形紀念品」！醫點名5大風險情境恐染性病 - Yahoo新聞",
-      "published": "2026-08-04T07:22:08+00:00",
-      "summary": "出國旅遊帶回「隱形紀念品」！醫點名5大風險情境恐染性病&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOdS1oSE5zMUI3RWFtQzdidGhQd0N6QkU0S1llT1MzZThkX2xlUXFkQjg2WkxMN2lUWFRrUU12bGVZR2xGcjdaaThBMzBycnVYM09QTUxiUkhLVkdpbUFlSk42cTQ0dG1JYUZ3R2VwQjJrVjF3TzllUkxrMWtsY2x2aV83cVpSZzZpTXJRQkdhM0lLWFJYSDcwQzZsN0Y3T2I4X09DWkM0aWEwai1nZUlZZ2J1LTkwa2lxenBjclVFVnUtTEtfOW1HS3pBczBvNDlVSS0wMU9aQlBHQ0F5NktmbE1abVp3czRoZ0hkcVBRc3ZNN250N3p6bXpMSS1FanlZaDItYzJqRXY3R3BkUzhocEozdGFsNTJ3YTUwaVpMLXg1SUIzSGp2WTlLX0xJWXlOTVRPUVJCRjRtU0VvYmZWUGJ4NG9UdW43VWpkTDg3Mjg1dFJwM1hYZE5hcTJNNmtOQlR5el9ENW1QbFU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7c91ff0ed0f1",
       "title": "「先被好好對待，才能談性健康」：看見臺灣愛滋防治中的跨性別與非二元族群 - HIVStoryMEDIA",
       "published": "2026-08-03T04:39:51+00:00",
@@ -72,6 +60,18 @@
         {
           "name": "HIVStoryMEDIA",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HYW14Zm9kanJmOWNBb1VKWEpZZW4yLUt5WlEwRWtXQ09YdVhjTDZIbko1YWNBeHVPeDVUcTZwbTg1UWtyQXcwOHdXQ0w1RmxiWVVFVEdjRUs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c19900be69f2",
+      "title": "出國旅遊帶回「隱形紀念品」！醫點名5大風險情境恐染性病 - Yahoo新聞",
+      "published": "2026-08-04T07:22:08+00:00",
+      "summary": "出國旅遊帶回「隱形紀念品」！醫點名5大風險情境恐染性病&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOdS1oSE5zMUI3RWFtQzdidGhQd0N6QkU0S1llT1MzZThkX2xlUXFkQjg2WkxMN2lUWFRrUU12bGVZR2xGcjdaaThBMzBycnVYM09QTUxiUkhLVkdpbUFlSk42cTQ0dG1JYUZ3R2VwQjJrVjF3TzllUkxrMWtsY2x2aV83cVpSZzZpTXJRQkdhM0lLWFJYSDcwQzZsN0Y3T2I4X09DWkM0aWEwai1nZUlZZ2J1LTkwa2lxenBjclVFVnUtTEtfOW1HS3pBczBvNDlVSS0wMU9aQlBHQ0F5NktmbE1abVp3czRoZ0hkcVBRc3ZNN250N3p6bXpMSS1FanlZaDItYzJqRXY3R3BkUzhocEozdGFsNTJ3YTUwaVpMLXg1SUIzSGp2WTlLX0xJWXlOTVRPUVJCRjRtU0VvYmZWUGJ4NG9UdW43VWpkTDg3Mjg1dFJwM1hYZE5hcTJNNmtOQlR5el9ENW1QbFU?oc=5"
         }
       ]
     },
@@ -175,7 +175,7 @@
       "id": "831dd2980b80",
       "title": "阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險 - Yahoo新聞",
       "published": "2026-08-04T03:03:57+00:00",
-      "summary": "阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險&nbsp;&nbsp;Yahoo新聞開冰箱就忘記要做什麼？醫師揭五失智警訊：日常多吃這5類食物 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報失智症早期藏在聊天裡！醫點「1種對話」習慣是警訊- 國際&nbsp;&nbsp;中時新聞網才聊完10分鐘就忘了？日醫師曝「1異常」恐是失智警訊 很多人沒察覺&nbsp;&nbsp;udn.com",
+      "summary": "阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險&nbsp;&nbsp;Yahoo新聞開冰箱就忘記要做什麼？醫師揭五失智警訊：日常多吃這5類食物 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報失智症早期藏在聊天裡！醫點「1種對話」習慣是警訊- 國際&nbsp;&nbsp;中時新聞網才聊完10分鐘就忘了？日醫師曝「1異常」恐是失智警訊 很多人沒察覺&nbsp;&nbsp;UDN",
       "sources": [
         {
           "name": "Yahoo新聞",
