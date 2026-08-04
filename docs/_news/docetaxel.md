@@ -14,7 +14,7 @@ permalink: /news/docetaxel/
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Docetaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/docetaxel/
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [癌症醫師防癌佳句：這一切都將成為過去！](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FUXZhU1RESWdELUY2MzhDZFA3ZVk0WEpRakJubnRSSmZnalhzYmtUbnV3Y3l4TEtEWllsV3R2OTBqWUZnclg3eXpKWGYtcXlnckEtbzVwdDZZOWRNV2ZXbdIBZkFVX3lxTE1QV1lrTGQwTGFQemJ0aEZ2aFVvcUhwTXNLZVlHRV9nT3laR3Z0bmluRndMTVlqN3ZsRDhzZkhQQnBnOTBuOGFSX3FqUGxMR0ZFRWc5N0stUG00Qjh6ckJPbjRnNzlKQQ?oc=5)
 
@@ -56,15 +56,7 @@ permalink: /news/docetaxel/
 
 2026-08-03 <span class="news-indication-tag">乳癌</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMimANBVV95cUxQalRuOU5CZ3BhRXFOUl9hem9CenpLaFBWM3BaOTV3MFRDZktLSXZUMFZtWEk5UG5XQ2VjRTdiaHRNVkwxSXZtLWp5b21WZmUzOXhrRGxCQjdpWURfZ0p6YzVLb05qaW1jOWpLS1gtX0FFSHVlSzRNYlJLd3Bpek1sX0FVa1U0NVBJQ3YwenBLcU8ySm9SVTRKNEdmREgtVm0wUkN6Q1dyTm5wUUNCUXNXYXJnb1lnY1ZfRHoyVW5IdDJ2NkhEYmoxX3pMbzlnQTA3eHhEcUozalhGTEp3YklLRWJnalJIMFczQThMVkFHQ2tBVmRyRC0xNUQ1WDhXRjFoWkdHMktFTGd4MzFoZG1SeVBpOHpvRm5JemYxX3VWZldiSUVMYV9FWEF0MUMwVmEwT1h2QldsbThCVHBCM05oRVdRMWNOc2Y1RWR1QkpmR1BnUkV4NklkM2FmTm1XZ18xZDVwbWN4Y1JIR09sd1NycS1rel9Tb09oakkzM0VHbVhCOXQ5QzV1RENDSldNSHloaUxsc2FFVzU?oc=5)
-
----
-
-### [健康網》乳癌患者別只顧抗癌！ 醫提醒1檢查防骨質流失](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rUHd5Vk5XMkZHOG1MZW94VENzTWRfOFp4ZlByMmhOaVFBcWJfY1ZoVHhrTVVxUVE4djVlNDRLQm9JMUxfYkpKYTltQ2YzV2RPV3dLcWh2V3dkN2tWUTB0aEhjMkk?oc=5)
-
-2026-08-02 <span class="news-indication-tag">乳癌</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rUHd5Vk5XMkZHOG1MZW94VENzTWRfOFp4ZlByMmhOaVFBcWJfY1ZoVHhrTVVxUVE4djVlNDRLQm9JMUxfYkpKYTltQ2YzV2RPV3dLcWh2V3dkN2tWUTB0aEhjMkk?oc=5)
+來源：[tw.news.yahoo.com](https://news.google.com/rss/articles/CBMimANBVV95cUxQalRuOU5CZ3BhRXFOUl9hem9CenpLaFBWM3BaOTV3MFRDZktLSXZUMFZtWEk5UG5XQ2VjRTdiaHRNVkwxSXZtLWp5b21WZmUzOXhrRGxCQjdpWURfZ0p6YzVLb05qaW1jOWpLS1gtX0FFSHVlSzRNYlJLd3Bpek1sX0FVa1U0NVBJQ3YwenBLcU8ySm9SVTRKNEdmREgtVm0wUkN6Q1dyTm5wUUNCUXNXYXJnb1lnY1ZfRHoyVW5IdDJ2NkhEYmoxX3pMbzlnQTA3eHhEcUozalhGTEp3YklLRWJnalJIMFczQThMVkFHQ2tBVmRyRC0xNUQ1WDhXRjFoWkdHMktFTGd4MzFoZG1SeVBpOHpvRm5JemYxX3VWZldiSUVMYV9FWEF0MUMwVmEwT1h2QldsbThCVHBCM05oRVdRMWNOc2Y1RWR1QkpmR1BnUkV4NklkM2FmTm1XZ18xZDVwbWN4Y1JIR09sd1NycS1rel9Tb09oakkzM0VHbVhCOXQ5QzV1RENDSldNSHloaUxsc2FFVzU?oc=5)
 
 ---
 

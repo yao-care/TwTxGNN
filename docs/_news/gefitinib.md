@@ -43,6 +43,14 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（4 則）
 
+### [不是靠新藥！大型研究：這套生活計畫讓大腦認知改善55％](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HYndFNlBaQUJJWTFmSFNhSlppUHdBVHpqazN0SmV0NlhmRkVpSllkT1FYTFpOaVVNcFpFWFVzUDFpdWxnT1U2QmdFOEJHTDdvQTlwZmZKbmpvaHNCS1h4QlRJZnA?oc=5)
+
+2026-08-04 <span class="news-indication-tag">失智</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HYndFNlBaQUJJWTFmSFNhSlppUHdBVHpqazN0SmV0NlhmRkVpSllkT1FYTFpOaVVNcFpFWFVzUDFpdWxnT1U2QmdFOEJHTDdvQTlwZmZKbmpvaHNCS1h4QlRJZnA?oc=5)
+
+---
+
 ### [癌症醫師防癌佳句：這一切都將成為過去！](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FUXZhU1RESWdELUY2MzhDZFA3ZVk0WEpRakJubnRSSmZnalhzYmtUbnV3Y3l4TEtEWllsV3R2OTBqWUZnclg3eXpKWGYtcXlnckEtbzVwdDZZOWRNV2ZXbdIBZkFVX3lxTE1QV1lrTGQwTGFQemJ0aEZ2aFVvcUhwTXNLZVlHRV9nT3laR3Z0bmluRndMTVlqN3ZsRDhzZkhQQnBnOTBuOGFSX3FqUGxMR0ZFRWc5N0stUG00Qjh6ckJPbjRnNzlKQQ?oc=5)
 
 2026-08-04 <span class="news-indication-tag">癌症</span>
@@ -51,19 +59,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險](https://news.google.com/rss/articles/CBMi5ANBVV95cUxOaGNsX3RNdUtFU0FUN044V1hDRE1Qc2dzaUNsZWtaNHdSaG5sYmJGalRpQUwxWnZqUHBXcllGMU00YXhwbmljWnl2YnVvUF9WV2JfckNOblBZd1FfSEctWVhpM3JKdGVxZTRpTUJMU0tTYlNOcDljdTFxaGdaSUd3MGZJblduQXRxcFZRd2hyZjl1dGNJaVlBdGhvVnlJX1JXRmRVM2NHams3bzRFdXpVb0xJQTNWTlAxUFN2cGtzZkpubUFZaE5laDlfYm5BMm5rWDZTdlRZX1Z3WFNCVTNwNnZSTVdJZVduTEtLRm9SU1RyMGpjY2YyZS14dld4MmM2bDFrVVFad2xWVl9NWVVEWGdJaGF2a0NxZDFCcjlfWEZCeE9WZ2d0MkIzQVVsMkg3a1R6b0NfRzhhUHVNQ0pCY0tfWjctc1ZrXzlyM1g1SkRZLU5zaXZqWFVhRzV3ZUN6TVhnOFdZd05TRHBGS1J3Wk1yVFA3MXFsSDA4ckk2WFlaUmlZY250SnZPYXFtZDlSWVJ5YlJfWl9pOFJ4NTJzLW02MUJFSkU0Rk1YUk5NbnlzYnlJbXB6VUxYXzJfQVNkR1pVUllPUzZlWUM0MkdMVUtEd25OQnBpWTFkU2NYMDRCaWRH?oc=5)
+### [阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險 | 信傳媒 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rajNkdFY5akR5cVJWQVpyMG9tTzdlX1hWZThkSXFqdThkbFRMSmtmQ292YkVXUTY1ajNxNmFjREpMQVBtU2VXcEZxUEN5a1BwR3gtQVJB?oc=5)
 
 2026-08-04 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi5ANBVV95cUxOaGNsX3RNdUtFU0FUN044V1hDRE1Qc2dzaUNsZWtaNHdSaG5sYmJGalRpQUwxWnZqUHBXcllGMU00YXhwbmljWnl2YnVvUF9WV2JfckNOblBZd1FfSEctWVhpM3JKdGVxZTRpTUJMU0tTYlNOcDljdTFxaGdaSUd3MGZJblduQXRxcFZRd2hyZjl1dGNJaVlBdGhvVnlJX1JXRmRVM2NHams3bzRFdXpVb0xJQTNWTlAxUFN2cGtzZkpubUFZaE5laDlfYm5BMm5rWDZTdlRZX1Z3WFNCVTNwNnZSTVdJZVduTEtLRm9SU1RyMGpjY2YyZS14dld4MmM2bDFrVVFad2xWVl9NWVVEWGdJaGF2a0NxZDFCcjlfWEZCeE9WZ2d0MkIzQVVsMkg3a1R6b0NfRzhhUHVNQ0pCY0tfWjctc1ZrXzlyM1g1SkRZLU5zaXZqWFVhRzV3ZUN6TVhnOFdZd05TRHBGS1J3Wk1yVFA3MXFsSDA4ckk2WFlaUmlZY250SnZPYXFtZDlSWVJ5YlJfWl9pOFJ4NTJzLW02MUJFSkU0Rk1YUk5NbnlzYnlJbXB6VUxYXzJfQVNkR1pVUllPUzZlWUM0MkdMVUtEd25OQnBpWTFkU2NYMDRCaWRH?oc=5)
-
----
-
-### [【全國新聞】研究顯示長者行路速度越快 晚年出現認知障礙機會越低](https://news.google.com/rss/articles/CBMicEFVX3lxTE9kRDlvdENUcXM5NTZEZGNCMkcwVFFONFgwcVNrcmd1UzVOTXMyUlpGUXU2UDhGWFV5cDRLYWF0YzNqTkE4NWo0ZzF5bW9vSmRBZzc5QW44ZFV6SWNPWlZ0YzBkeFNjOU1ka0RCRGhPaDQ?oc=5)
-
-2026-08-03 <span class="news-indication-tag">失智</span>
-
-來源：[KTSF.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE9kRDlvdENUcXM5NTZEZGNCMkcwVFFONFgwcVNrcmd1UzVOTXMyUlpGUXU2UDhGWFV5cDRLYWF0YzNqTkE4NWo0ZzF5bW9vSmRBZzc5QW44ZFV6SWNPWlZ0YzBkeFNjOU1ka0RCRGhPaDQ?oc=5)
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rajNkdFY5akR5cVJWQVpyMG9tTzdlX1hWZThkSXFqdThkbFRMSmtmQ292YkVXUTY1ajNxNmFjREpMQVBtU2VXcEZxUEN5a1BwR3gtQVJB?oc=5)
 
 ---
 
