@@ -1,8 +1,357 @@
 {
-  "last_updated": "2026-08-03T23:02:51.799781+00:00",
-  "total_count": 19,
-  "matched_count": 4,
+  "last_updated": "2026-08-04T01:43:28.072940+00:00",
+  "total_count": 23,
+  "matched_count": 7,
   "news": [
+    {
+      "id": "1a092d98c812",
+      "title": "別等關節變形才治療！類風濕性關節炎治療可近性再提升 及早介入成關鍵",
+      "published": "2026-08-04T01:30:00+00:00",
+      "summary": "別等關節變形才治療！類風濕性關節炎治療可近性再提升 及早介入成關鍵&nbsp;&nbsp;健康醫療網",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtRDMtSDg1ZGg1YW0tSkc1QnM2TU43NFd6RlAzanpUY1BmcmZ2MXlkbXFkYXBXWkEtSWVGSDVsdURQcXVhbXZhM2UzdGVFSGpiR2Z1SlJR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "類風濕性關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "風濕",
+          "keyword": "風濕",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "關節炎",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            },
+            {
+              "slug": "ibuprofen",
+              "name": "Ibuprofen"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "風濕性關節炎",
+          "keyword": "風濕性關節炎",
+          "related_drugs": [
+            {
+              "slug": "carisoprodol",
+              "name": "Carisoprodol"
+            },
+            {
+              "slug": "prednisone",
+              "name": "Prednisone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "940c6ec7272d",
+      "title": "深港聯手攻克「世紀絕症」！艾滋病治療性疫苗進入二期臨床",
+      "published": "2026-08-04T01:16:53+00:00",
+      "summary": "深港聯手攻克「世紀絕症」！艾滋病治療性疫苗進入二期臨床&nbsp;&nbsp;香港文匯報",
+      "sources": [
+        {
+          "name": "香港文匯報",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03UWxDUGtSMU1McUViQ1FJNl9vQTI5dEVSblFEUWVLZDhrbDJvWG1HZTBDTkNnaVNpSllCS0lwZWdwTGxjeGlobFpUejVRak1vNFdjcUUzNXp3VjRBd2JrYjQwZ0hxdkl4WU02NTMwbmpqcFFvSVdr?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "74fcb6e94aed",
+      "title": "癌症醫師防癌佳句：這一切都將成為過去！",
+      "published": "2026-08-03T20:13:41+00:00",
+      "summary": "癌症醫師防癌佳句：這一切都將成為過去！&nbsp;&nbsp;新唐人電視台",
+      "sources": [
+        {
+          "name": "新唐人電視台",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FUXZhU1RESWdELUY2MzhDZFA3ZVk0WEpRakJubnRSSmZnalhzYmtUbnV3Y3l4TEtEWllsV3R2OTBqWUZnclg3eXpKWGYtcXlnckEtbzVwdDZZOWRNV2ZXbdIBZkFVX3lxTE1QV1lrTGQwTGFQemJ0aEZ2aFVvcUhwTXNLZVlHRV9nT3laR3Z0bmluRndMTVlqN3ZsRDhzZkhQQnBnOTBuOGFSX3FqUGxMR0ZFRWc5N0stUG00Qjh6ckJPbjRnNzlKQQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f87633627aca",
+      "title": "開冰箱就忘記要做什麼？醫師揭五失智警訊：日常多吃這5類食物",
+      "published": "2026-08-03T11:53:18+00:00",
+      "summary": "開冰箱就忘記要做什麼？醫師揭五失智警訊：日常多吃這5類食物&nbsp;&nbsp;經濟日報前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TV1FnTWpOanNDd2xFakxITUNvTlNZYnM4dElmbklqcFM0ZW03NWd2VmFDUzA4dGwzckZrLXMtQ3JJOS1zV0NLUXZjNFhzLTFLMnVfYV9FTDVRZ9IBX0FVX3lxTE1JNmZweTZZRWRKU2tyUmRacFFWVWk4d3hYdEgzYTVnTWVpbFQ2d3l0QV9IRk5KRXhVRUJnYmhlYTRLNERyRmhkUVdaZ3ZyejhPYzhXTEZ2SVA3LXFBaVFn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "5ea8c70105b7",
       "title": "心碎真的「傷」心！大型研究揭心理問題恐傷心臟",
@@ -56,13 +405,13 @@
       "matched_keywords": []
     },
     {
-      "id": "bf5e3a29f8b8",
+      "id": "5dc3bd1ccb42",
       "title": "家庭關係太緊繃？小心這三個致病地雷！",
       "published": "2026-08-03T06:57:00+00:00",
-      "summary": "家庭關係太緊繃？小心這三個致病地雷！&nbsp;&nbsp;news.ebc.net.tw",
+      "summary": "家庭關係太緊繃？小心這三個致病地雷！&nbsp;&nbsp;東森新聞",
       "sources": [
         {
-          "name": "news.ebc.net.tw",
+          "name": "東森新聞",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82OWdDLWhuYXRtOHdHRnAxQXdTOUQyZWVEZkFuM1lXLXI2RXNWRmJjUmxIWnpkalV1ZWQ0YzNRNUxRUnh5QkN2dk9ad1g3bkwxQURjLQ?oc=5"
         }
       ],
@@ -221,13 +570,13 @@
       "matched_keywords": []
     },
     {
-      "id": "ddc0b6c4ef74",
+      "id": "4cca1932428c",
       "title": "研究：中壯年維生素D 充足或助減失智風險",
       "published": "2026-08-02T20:10:44+00:00",
-      "summary": "研究：中壯年維生素D 充足或助減失智風險&nbsp;&nbsp;bastillepost.com",
+      "summary": "研究：中壯年維生素D 充足或助減失智風險&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOemtyNTFxNmtRWjlKc052ZVZVN0R2SFZ4MDRPb1RBZTY2d0VDWmhDV0hONmoteThzemJlUXpHYmhkRk1XWndqMFNrN3h6d0tCQUpxUHdObVRrakkyQ21rRmNnVzV5dmVPWFBxV05RMzBnRjJ6cU5LdVBCdnFnQzNzVVhPdlFVVnR4MjM5aGVDUFBBSWpUQUVTRzRYU0toVWE1WmFpaEZjQlR5ZWl5RFl0Y1RuSy0yRjktVjVhZlJSQ3dILXUwOUxydkxfSGdLSzlQaVRGVHByTUNCVk5iU0ZoWVFpWVphWGhHbU1lZllvMTMwNU1yRzkzOVJyUEtIZS1jTFpxM3dNUm9iOENyWjdoeTNBTmotTDR5Z0o1WG9zMEJZSUJNX2E4SWloWG1DN3NiNGxjVkNlVE5pN0VUWFRsTFFEZ25acmVjRXVz?oc=5"
         }
       ],
@@ -259,6 +608,19 @@
       "matched_keywords": []
     },
     {
+      "id": "3d3660c4e0dd",
+      "title": "暖！滴水恩情愛心女孩跨海捐肝救師| 生活",
+      "published": "2026-08-02T14:26:44+00:00",
+      "summary": "暖！滴水恩情愛心女孩跨海捐肝救師| 生活&nbsp;&nbsp;三立新聞網SETN.com",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9rUEVHaVo1amxNVEQ1bTR6dnV5ejVoMkE4Nm5LRm5Md1BxaFQzdnQ1NmZCU0lmbDRlbGtBZUVaT0NHZGRXbTBn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "dbc9caecffd2",
       "title": "突然抽搐、昏迷流感幼童醒來後無法走路| 生活",
       "published": "2026-08-02T12:00:13+00:00",
@@ -272,13 +634,13 @@
       "matched_keywords": []
     },
     {
-      "id": "7b0e1756ea91",
+      "id": "ea6c7bbf4d03",
       "title": "健康網》乳癌患者別只顧抗癌！ 醫提醒1檢查防骨質流失",
       "published": "2026-08-02T08:38:00+00:00",
-      "summary": "健康網》乳癌患者別只顧抗癌！ 醫提醒1檢查防骨質流失&nbsp;&nbsp;自由健康網",
+      "summary": "健康網》乳癌患者別只顧抗癌！ 醫提醒1檢查防骨質流失&nbsp;&nbsp;health.ltn.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rUHd5Vk5XMkZHOG1MZW94VENzTWRfOFp4ZlByMmhOaVFBcWJfY1ZoVHhrTVVxUVE4djVlNDRLQm9JMUxfYkpKYTltQ2YzV2RPV3dLcWh2V3dkN2tWUTB0aEhjMkk?oc=5"
         }
       ],
@@ -329,19 +691,6 @@
         {
           "name": "環球生技月刊",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4LUFua1AwdnMtTDMwOHJ0R2dwRDN6bEJqbUNkUHROWDVUVUcyeE5nNWV1VGFVeEZRUnd6QlNHM2VLalJTNERfU2I4UHBQbGRTTXNyQVFiUnFvQm1rNzBaNDA2c0xUZWN0eC1HWmpB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "658f54471532",
-      "title": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保 - 晴報 Sky Post",
-      "published": "2026-08-01T23:06:34+00:00",
-      "summary": "新冠流感夾擊丨30多歲港男外遊返港染新冠甲流一度命危 醫生教7招預防自保&nbsp;&nbsp;晴報 Sky Post",
-      "sources": [
-        {
-          "name": "晴報 Sky Post",
-          "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxPZzl3N05OTXRCcXBSckY4dGppZ0JtWGJZQThTMXpZVG9KQU43M3JVNk1pMjdhdHF6aFZaVmlBMnYwZnBwVkwxYjhEVmFlQnYwYndSb0h2RVJSaWNJeEc2ak84dE1ObmdhdlZNSlcycTFpd00tdkNCdnhZbUZJel9qRFg0c18zZUdWbVM0VTg1cTNUQW4wLS1CRDVIUTNTN0ZreTdSdDE1bTM3NWhOc0xvY3ZoSVBZZGJTbXYtRzVzREJqYnpwbVlOckFwRXZEYUVxc3p6eGk5VUlLd1p6cUlSOUZIZ1JZekw4QmRzWm40aFVwdEtmZnJSb3U4RmZBbFhtbXRNak8zX3BxQ3VxbFVpMDlmcE5GVFdzSFlDSkRiblJVdjU4MkFtOGkxT2gxSDBiYmNkWXREQzF3SkF6V0QyYnVvSWVmeGRHUHRJcloxaVBYUnhJeVV1U2JDWXJKanl3Ui15dFRqRkxONWxzWDhjZ2laSTBuSFNFa0JtcFRkM3o4RDF3RnppV2xZN1NOTHNnRm96ZHhkTUxZZndGNGtmU2Z0a09VS2NnUnNwdHdJczVETkVEWWpieGROaWVFTHFFQ3JURU5B?oc=5"
         }
       ],
       "matched_keywords": []
