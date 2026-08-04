@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-04T17:29:30.979866+00:00",
-  "total_count": 33,
-  "matched_count": 8,
+  "last_updated": "2026-08-04T19:18:45.869673+00:00",
+  "total_count": 27,
+  "matched_count": 6,
   "news": [
     {
       "id": "4af6e7eefacd",
       "title": "菲律賓三寶顏市暴發登革熱疫情 已致12人死亡",
-      "published": "2026-08-04T16:18:45+00:00",
+      "published": "2026-08-04T15:49:35+00:00",
       "summary": "菲律賓三寶顏市暴發登革熱疫情 已致12人死亡&nbsp;&nbsp;香港文匯報斯里蘭卡登革熱爆近十年最嚴重疫情 軍用無人機助剿蚊蟲滋生點&nbsp;&nbsp;客新聞 HakkaNews對付登革熱，斯里蘭卡動用無人機 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -15,67 +15,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "49dc3e47b7bb",
-      "title": "【醫家等你Call】漸凍人症：身體逐漸失去活動能力 意識依然清醒",
-      "published": "2026-08-04T10:12:00+00:00",
-      "summary": "【醫家等你Call】漸凍人症：身體逐漸失去活動能力 意識依然清醒&nbsp;&nbsp;SBS",
-      "sources": [
-        {
-          "name": "SBS",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaHdoMnczRVlqWE9fWHRUbkwybUsxczA5Y2hrazdHdnpBMjlHVkdZNlkxOWp5YWVQbGpMb0lKZDgzMmFUbDBvN1hJYkFoVk9WMk1iMmN1eHZ0U0VzeFdYbTZQa3hsR1J0a1RZN2lZWkN4TVdLYWFCZmc0VTRNYk5SWEY4RGpsVTRDcFM1OFQ5eVcxc2RoTlZnMDBqQ2RQejBTYTZIOTdhOHVWa004LU0weHZQbGhiMlhCbUhoRXZB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "324ad934f5bc",
-      "title": "年輕人群結腸癌發病率上升 瑪摩利醫療中心華裔醫生分享注意事項",
-      "published": "2026-08-04T10:00:00+00:00",
-      "summary": "年輕人群結腸癌發病率上升 瑪摩利醫療中心華裔醫生分享注意事項&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVHpyVWlzV0Fab2VFSE51c0V4NkRNYWxoeWVkZkVnSkhQaXRoWGhncjF0Q01rOE9YdEJGc0RQeENpNzFGcWtWOE81TlVMcDZSMVpwMHY0Wk1IeDhTQk1sYk1MQTR2TnFzcEIzbWtiaE9mVFJseklybmZOdUpzazhGbg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "結腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "19a3468b3d1b",
@@ -106,7 +45,7 @@
     {
       "id": "b53eeed8e371",
       "title": "梅毒半年破6千例「創10年新高」！15~24歲增幅最大",
-      "published": "2026-08-04T06:54:23+00:00",
+      "published": "2026-08-04T06:38:53+00:00",
       "summary": "梅毒半年破6千例「創10年新高」！15~24歲增幅最大&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
@@ -352,14 +291,14 @@
       ]
     },
     {
-      "id": "831dd2980b80",
-      "title": "阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險",
-      "published": "2026-08-04T03:03:57+00:00",
-      "summary": "阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險&nbsp;&nbsp;Yahoo新聞開冰箱就忘記要做什麼？醫師揭五失智警訊：日常多吃這5類食物 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報失智症早期藏在聊天裡！醫點「1種對話」習慣是警訊- 國際&nbsp;&nbsp;中時新聞網才聊完10分鐘就忘了？日醫師曝「1異常」恐是失智警訊 很多人沒察覺&nbsp;&nbsp;UDN",
+      "id": "e2261a4e467a",
+      "title": "阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險 | 信傳媒 - LINE TODAY",
+      "published": "2026-08-04T03:31:49+00:00",
+      "summary": "阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險 | 信傳媒&nbsp;&nbsp;LINE TODAY阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險&nbsp;&nbsp;Yahoo新聞開冰箱就忘記要做什麼？醫師揭五失智警訊：日常多吃這5類食物 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報失智症早期藏在聊天裡！醫點「1種對話」習慣是警訊- 國際&nbsp;&nbsp;中時新聞網才聊完10分鐘就忘了？日醫師曝「1異常」恐是失智警訊 很多人沒察覺&nbsp;&nbsp;UDN",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOaGNsX3RNdUtFU0FUN044V1hDRE1Qc2dzaUNsZWtaNHdSaG5sYmJGalRpQUwxWnZqUHBXcllGMU00YXhwbmljWnl2YnVvUF9WV2JfckNOblBZd1FfSEctWVhpM3JKdGVxZTRpTUJMU0tTYlNOcDljdTFxaGdaSUd3MGZJblduQXRxcFZRd2hyZjl1dGNJaVlBdGhvVnlJX1JXRmRVM2NHams3bzRFdXpVb0xJQTNWTlAxUFN2cGtzZkpubUFZaE5laDlfYm5BMm5rWDZTdlRZX1Z3WFNCVTNwNnZSTVdJZVduTEtLRm9SU1RyMGpjY2YyZS14dld4MmM2bDFrVVFad2xWVl9NWVVEWGdJaGF2a0NxZDFCcjlfWEZCeE9WZ2d0MkIzQVVsMkg3a1R6b0NfRzhhUHVNQ0pCY0tfWjctc1ZrXzlyM1g1SkRZLU5zaXZqWFVhRzV3ZUN6TVhnOFdZd05TRHBGS1J3Wk1yVFA3MXFsSDA4ckk2WFlaUmlZY250SnZPYXFtZDlSWVJ5YlJfWl9pOFJ4NTJzLW02MUJFSkU0Rk1YUk5NbnlzYnlJbXB6VUxYXzJfQVNkR1pVUllPUzZlWUM0MkdMVUtEd25OQnBpWTFkU2NYMDRCaWRH?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rajNkdFY5akR5cVJWQVpyMG9tTzdlX1hWZThkSXFqdThkbFRMSmtmQ292YkVXUTY1ajNxNmFjREpMQVBtU2VXcEZxUEN5a1BwR3gtQVJB?oc=5"
         }
       ],
       "matched_keywords": [
@@ -412,13 +351,13 @@
       "matched_keywords": []
     },
     {
-      "id": "49404b7c74b0",
+      "id": "f76ae354a6c0",
       "title": "55歲是子宮內膜癌發生最多年齡！停經後出血＝不正常，別再當「回春」…每年3檢查保命：早期治癒率達9成5",
       "published": "2026-08-04T02:10:00+00:00",
-      "summary": "55歲是子宮內膜癌發生最多年齡！停經後出血＝不正常，別再當「回春」…每年3檢查保命：早期治癒率達9成5&nbsp;&nbsp;thebetteraging.businesstoday.com.tw",
+      "summary": "55歲是子宮內膜癌發生最多年齡！停經後出血＝不正常，別再當「回春」…每年3檢查保命：早期治癒率達9成5&nbsp;&nbsp;幸福熟齡",
       "sources": [
         {
-          "name": "thebetteraging.businesstoday.com.tw",
+          "name": "幸福熟齡",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ldFZmdkdmTW82TVlWTnNLSVc1amMwU0RWMUVpUkVMRFVoVFdkNHdSa0pxOTNBd1Z3WC1Sa29hUmVNWmlUemk0amdibEthZmJKNTE1dGlTVkx5WkRzVVpmNHRwNkJJNnY1b1hBTmhESmtqSi1DaWw5d1dydw?oc=5"
         }
       ],
@@ -486,19 +425,6 @@
       "matched_keywords": []
     },
     {
-      "id": "b233c5a005df",
-      "title": "最新研究補充菊糖纖維助減輕膝蓋痛- 醫藥新知- 新聞",
-      "published": "2026-08-04T00:19:52+00:00",
-      "summary": "最新研究補充菊糖纖維助減輕膝蓋痛- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
-      "sources": [
-        {
-          "name": "華人今日網",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfaF9kTmRhQWQyTVctNFM3a0stc2Vkd2ZFLTZDR2x6eU5Cek1uTXZMODc4dTk1ODU1dFJYRmJOYk45czd6VmJLZVA5MXdYVFNCYzl1LURBZ0ZjMmREQzZVY2JXSEtNUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "62f621d22242",
       "title": "「RSV免疫首護禮分享會」掌握產前免疫黃金期 守護初生BB第一步",
       "published": "2026-08-03T14:04:00+00:00",
@@ -507,19 +433,6 @@
         {
           "name": "香港財經時報HKBT",
           "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOTWVyOFVxY3d2cnZvcmxzbHNTZVphQmpvVG43WFpad3BjQjJ2WC1hY0o2YXNaNlVEWEN1aHlBdHJnUkhRYjNQTDF3YVBLQ2l3UW1sYzIyZUhhSTVFYk1mYl9aUWtPTnV5a05rcVBpa3JldGxkVmkwMklzNXMtNmJSNFA4aDJsMUhYOFZKbkRaUEc1aVFnbGh0Y3V0T2c0LWdLaEZHbzF4ZWxRa21hbFV6NmZkbVNVcElWZnFFN3FDalQ4bWI3ZDR4VXNpbGQwUVpTMlFHdlVlRTBNeEtPamxTV3ZfV21RS3ZsSmU3SVEtRXpSRFhkMDlpdndneHNLQV9SZVo2MzZyWWNfMjdRRVp2ckJLS3RVV1p5X05wbjRCaFNnb21CX2tIQnF6aUpmc3VoQ3RsbGtQRkQxTEt2M3QzX3RPT19kRzlTb2N5Q3ZFSmdYVG5nM2llNC1FM002N0t1?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "adf20df4a43c",
-      "title": "肉毒桿菌毒素新發現 誘導癌細胞發炎性死亡開啟抗癌新途徑 - GeneOnline News",
-      "published": "2026-08-03T11:09:10+00:00",
-      "summary": "肉毒桿菌毒素新發現 誘導癌細胞發炎性死亡開啟抗癌新途徑&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPc3dGNi1nNk5yTkNXMDZyZUtNcUc1UEQ2SHhsQ1V4VEVRRzd6OUd6cU5PeGw0ZW84emowUm83LVNVVDdZVVNHZlladjVFMWtmYWpGSHMzaHF5cVpPenpTRnEtOGtjVWx3aFpyOERnWlpUeXlLT2NFQ3JGYnVaeHN1aHlkNDNReDlnMDQ2M1hMNU9EdGQ2RVhMbjRiWFpsNkR2MGdZaTNjS3ZKSjFJWU5ZYXNmM3RvVW54aVNMeUlBV0toUi1jQTNNQmlzU0xhV0N1dnZ5ZVhjc3FuaDM4OVVuN1lVQV80VGRSSGhoRlR6dC1GNHlUbjYwdm1EdnJZUzdPQnVrd1U0d0E4WmF2OGgxM1Y4QmJMc2ZDS2ZSOWwySmw4dllmOUZaaDdNdGdzcl9VMEJuaGNpTEhVU3RuYmZxdWZZZHNQVzQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -577,13 +490,13 @@
       "matched_keywords": []
     },
     {
-      "id": "bf5e3a29f8b8",
+      "id": "5dc3bd1ccb42",
       "title": "家庭關係太緊繃？小心這三個致病地雷！",
       "published": "2026-08-03T06:57:00+00:00",
-      "summary": "家庭關係太緊繃？小心這三個致病地雷！&nbsp;&nbsp;news.ebc.net.tw",
+      "summary": "家庭關係太緊繃？小心這三個致病地雷！&nbsp;&nbsp;東森新聞",
       "sources": [
         {
-          "name": "news.ebc.net.tw",
+          "name": "東森新聞",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82OWdDLWhuYXRtOHdHRnAxQXdTOUQyZWVEZkFuM1lXLXI2RXNWRmJjUmxIWnpkalV1ZWQ0YzNRNUxRUnh5QkN2dk9ad1g3bkwxQURjLQ?oc=5"
         }
       ],
@@ -614,117 +527,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "324ef9a51dfe",
-      "title": "防西尼羅病毒擴散 史島、皇后區今起噴藥滅蚊",
-      "published": "2026-08-03T06:26:00+00:00",
-      "summary": "防西尼羅病毒擴散 史島、皇后區今起噴藥滅蚊&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96TlpJMFhrd2pSUXZqTHhfcjRkMGNXNi1fMDhRQjZLQWFGQ29jY242UlRyeGNOWmo4OERLVVJZWmFBR0RZSlNXTURBZXFneGFwX2xKRTVNWnFhTHpnQzBuOWJ30gFnQVVfeXFMTmhQRHhhWHFOM3VSdTZkb1o0NGw1dllTb1JwU3BoaTExeVQ5UzdxSElJS3RSeG1qRjB4bmFvRWFwUGJaWDBIVFk4ZnNSNkVtQ3NvYkY4dEctMDIwOUxwTmRjUmpYamZBRQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "10b9f78b9f73",
-      "title": "不只瘦身！減重手術可降乳癌風險 死亡風險最高降63％ - TVBS 健康2.0",
-      "published": "2026-08-03T06:01:00+00:00",
-      "summary": "不只瘦身！減重手術可降乳癌風險 死亡風險最高降63％&nbsp;&nbsp;TVBS 健康2.0BMI超過35要當心！研究：病態性肥胖及早接受減重手術，乳癌風險降約20％&nbsp;&nbsp;Yahoo新聞保健》半年內減重手術 乳癌風險降2成&nbsp;&nbsp;中國時報- 翻爆防癌快看！國際期刊證實胖是得癌關鍵風險 潘致皓醫師曝４個恐怖真相&nbsp;&nbsp;三立新聞不只變瘦而已！「這個手術」能讓乳癌死亡風險暴跌63%&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14YUpYbjJ2b0Z4dFhtZjdEMzQ3NTNKNzRCSTU2N0JycDdzbWU5SHZqTF81SlZJWWZ6elZKSmxBWE1GZUwybVRxb0o5M3h4V2oyQWc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "af7538c9068b",
-      "title": "乳癌確診後怎麼吃？醫師推4營養素打造「抗癌好體質」肥胖型乳癌要補充它 - TVBS 健康2.0",
-      "published": "2026-08-03T05:08:00+00:00",
-      "summary": "乳癌確診後怎麼吃？醫師推4營養素打造「抗癌好體質」肥胖型乳癌要補充它&nbsp;&nbsp;TVBS 健康2.0",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aUEphckxOdFg4VGZ2bXlIaXlUUW1VYWRnOGtlNkNNaFdNMld1OE5Dek9Md0gweXh1OU4yUWNFVTY0SmdpZTFkQ1pneGRtdlFSSWc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "7c91ff0ed0f1",
@@ -778,6 +580,55 @@
       "matched_keywords": []
     },
     {
+      "id": "cadc2936fcae",
+      "title": "BMI超過35要當心！研究：病態性肥胖及早接受減重手術，乳癌風險降約20％",
+      "published": "2026-08-03T03:24:50+00:00",
+      "summary": "BMI超過35要當心！研究：病態性肥胖及早接受減重手術，乳癌風險降約20％&nbsp;&nbsp;Yahoo新聞防癌快看！國際期刊證實胖是得癌關鍵風險 潘致皓醫師曝４個恐怖真相&nbsp;&nbsp;三立新聞不只變瘦而已！「這個手術」能讓乳癌死亡風險暴跌63%&nbsp;&nbsp;中天新聞網及早減重手術 助降乳癌發生率&nbsp;&nbsp;中華新聞雲／中華日報肥胖不是外表問題！BMI破35乳癌風險飆 做這事風險降2成&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxQalRuOU5CZ3BhRXFOUl9hem9CenpLaFBWM3BaOTV3MFRDZktLSXZUMFZtWEk5UG5XQ2VjRTdiaHRNVkwxSXZtLWp5b21WZmUzOXhrRGxCQjdpWURfZ0p6YzVLb05qaW1jOWpLS1gtX0FFSHVlSzRNYlJLd3Bpek1sX0FVa1U0NVBJQ3YwenBLcU8ySm9SVTRKNEdmREgtVm0wUkN6Q1dyTm5wUUNCUXNXYXJnb1lnY1ZfRHoyVW5IdDJ2NkhEYmoxX3pMbzlnQTA3eHhEcUozalhGTEp3YklLRWJnalJIMFczQThMVkFHQ2tBVmRyRC0xNUQ1WDhXRjFoWkdHMktFTGd4MzFoZG1SeVBpOHpvRm5JemYxX3VWZldiSUVMYV9FWEF0MUMwVmEwT1h2QldsbThCVHBCM05oRVdRMWNOc2Y1RWR1QkpmR1BnUkV4NklkM2FmTm1XZ18xZDVwbWN4Y1JIR09sd1NycS1rel9Tb09oakkzM0VHbVhCOXQ5QzV1RENDSldNSHloaUxsc2FFVzU?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "f4d3bfe898d9",
       "title": "長壽飲食｜研究揭食肉比食素長壽 關鍵是蛋白質？長者健康食肉3招",
       "published": "2026-08-03T03:10:44+00:00",
@@ -804,13 +655,13 @@
       "matched_keywords": []
     },
     {
-      "id": "4cca1932428c",
+      "id": "ddc0b6c4ef74",
       "title": "研究：中壯年維生素D 充足或助減失智風險",
       "published": "2026-08-02T20:10:44+00:00",
-      "summary": "研究：中壯年維生素D 充足或助減失智風險&nbsp;&nbsp;巴士的報",
+      "summary": "研究：中壯年維生素D 充足或助減失智風險&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOemtyNTFxNmtRWjlKc052ZVZVN0R2SFZ4MDRPb1RBZTY2d0VDWmhDV0hONmoteThzemJlUXpHYmhkRk1XWndqMFNrN3h6d0tCQUpxUHdObVRrakkyQ21rRmNnVzV5dmVPWFBxV05RMzBnRjJ6cU5LdVBCdnFnQzNzVVhPdlFVVnR4MjM5aGVDUFBBSWpUQUVTRzRYU0toVWE1WmFpaEZjQlR5ZWl5RFl0Y1RuSy0yRjktVjVhZlJSQ3dILXUwOUxydkxfSGdLSzlQaVRGVHByTUNCVk5iU0ZoWVFpWVphWGhHbU1lZllvMTMwNU1yRzkzOVJyUEtIZS1jTFpxM3dNUm9iOENyWjdoeTNBTmotTDR5Z0o1WG9zMEJZSUJNX2E4SWloWG1DN3NiNGxjVkNlVE5pN0VUWFRsTFFEZ25acmVjRXVz?oc=5"
         }
       ],

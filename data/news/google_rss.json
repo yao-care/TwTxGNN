@@ -1,12 +1,12 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-04T17:29:25.806078+00:00",
-  "count": 33,
+  "fetched_at": "2026-08-04T19:18:41.009492+00:00",
+  "count": 27,
   "news": [
     {
       "id": "b53eeed8e371",
       "title": "梅毒半年破6千例「創10年新高」！15~24歲增幅最大 - Yahoo新聞",
-      "published": "2026-08-04T06:54:23+00:00",
+      "published": "2026-08-04T06:38:53+00:00",
       "summary": "梅毒半年破6千例「創10年新高」！15~24歲增幅最大&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
@@ -18,24 +18,12 @@
     {
       "id": "4af6e7eefacd",
       "title": "菲律賓三寶顏市暴發登革熱疫情 已致12人死亡 - 香港文匯報",
-      "published": "2026-08-04T16:18:45+00:00",
+      "published": "2026-08-04T15:49:35+00:00",
       "summary": "菲律賓三寶顏市暴發登革熱疫情 已致12人死亡&nbsp;&nbsp;香港文匯報斯里蘭卡登革熱爆近十年最嚴重疫情 軍用無人機助剿蚊蟲滋生點&nbsp;&nbsp;客新聞 HakkaNews對付登革熱，斯里蘭卡動用無人機 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "香港文匯報",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwRjF4STgyY3NFY2Yxb2hhamFVZzN2SldhcTdxRjVQSTAxWXlqTHd4ZV9NdzRyR2dlcFN3T2Nzb0dVUXY4UWhyWWtZcFJjdDRNTE8tOVVQZ0RIelh6X0VjUzNzajUtai0wbm5ZeXp1VjlTNmlKV0Zr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "19a3468b3d1b",
-      "title": "癌細胞為何能逃過免疫追殺？美研究找到新關鍵 - 自由健康網",
-      "published": "2026-08-04T09:30:00+00:00",
-      "summary": "癌細胞為何能逃過免疫追殺？美研究找到新關鍵&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kZ2VaMmZCc0VkVjliYXVnaUpUbm9hV1Rldm1hRW5aNWRVd0NoRUxSX2puVGhJTE5YR0xoVWFlSHk4WlVfRWhWRU1Kb2dvcEsyMlYzZTZlUWFTSkNoM1hmd2RPaUg?oc=5"
         }
       ]
     },
@@ -52,13 +40,25 @@
       ]
     },
     {
-      "id": "49404b7c74b0",
-      "title": "55歲是子宮內膜癌發生最多年齡！停經後出血＝不正常，別再當「回春」…每年3檢查保命：早期治癒率達9成5 - thebetteraging.businesstoday.com.tw",
-      "published": "2026-08-04T02:10:00+00:00",
-      "summary": "55歲是子宮內膜癌發生最多年齡！停經後出血＝不正常，別再當「回春」…每年3檢查保命：早期治癒率達9成5&nbsp;&nbsp;thebetteraging.businesstoday.com.tw",
+      "id": "19a3468b3d1b",
+      "title": "癌細胞為何能逃過免疫追殺？美研究找到新關鍵 - 自由健康網",
+      "published": "2026-08-04T09:30:00+00:00",
+      "summary": "癌細胞為何能逃過免疫追殺？美研究找到新關鍵&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "thebetteraging.businesstoday.com.tw",
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kZ2VaMmZCc0VkVjliYXVnaUpUbm9hV1Rldm1hRW5aNWRVd0NoRUxSX2puVGhJTE5YR0xoVWFlSHk4WlVfRWhWRU1Kb2dvcEsyMlYzZTZlUWFTSkNoM1hmd2RPaUg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f76ae354a6c0",
+      "title": "55歲是子宮內膜癌發生最多年齡！停經後出血＝不正常，別再當「回春」…每年3檢查保命：早期治癒率達9成5 - 幸福熟齡",
+      "published": "2026-08-04T02:10:00+00:00",
+      "summary": "55歲是子宮內膜癌發生最多年齡！停經後出血＝不正常，別再當「回春」…每年3檢查保命：早期治癒率達9成5&nbsp;&nbsp;幸福熟齡",
+      "sources": [
+        {
+          "name": "幸福熟齡",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ldFZmdkdmTW82TVlWTnNLSVc1amMwU0RWMUVpUkVMRFVoVFdkNHdSa0pxOTNBd1Z3WC1Sa29hUmVNWmlUemk0amdibEthZmJKNTE1dGlTVkx5WkRzVVpmNHRwNkJJNnY1b1hBTmhESmtqSi1DaWw5d1dydw?oc=5"
         }
       ]
@@ -124,14 +124,14 @@
       ]
     },
     {
-      "id": "10b9f78b9f73",
-      "title": "不只瘦身！減重手術可降乳癌風險 死亡風險最高降63％ - TVBS 健康2.0",
-      "published": "2026-08-03T06:01:00+00:00",
-      "summary": "不只瘦身！減重手術可降乳癌風險 死亡風險最高降63％&nbsp;&nbsp;TVBS 健康2.0BMI超過35要當心！研究：病態性肥胖及早接受減重手術，乳癌風險降約20％&nbsp;&nbsp;Yahoo新聞保健》半年內減重手術 乳癌風險降2成&nbsp;&nbsp;中國時報- 翻爆防癌快看！國際期刊證實胖是得癌關鍵風險 潘致皓醫師曝４個恐怖真相&nbsp;&nbsp;三立新聞不只變瘦而已！「這個手術」能讓乳癌死亡風險暴跌63%&nbsp;&nbsp;中天新聞網",
+      "id": "cadc2936fcae",
+      "title": "BMI超過35要當心！研究：病態性肥胖及早接受減重手術，乳癌風險降約20％ - Yahoo新聞",
+      "published": "2026-08-03T03:24:50+00:00",
+      "summary": "BMI超過35要當心！研究：病態性肥胖及早接受減重手術，乳癌風險降約20％&nbsp;&nbsp;Yahoo新聞防癌快看！國際期刊證實胖是得癌關鍵風險 潘致皓醫師曝４個恐怖真相&nbsp;&nbsp;三立新聞不只變瘦而已！「這個手術」能讓乳癌死亡風險暴跌63%&nbsp;&nbsp;中天新聞網及早減重手術 助降乳癌發生率&nbsp;&nbsp;中華新聞雲／中華日報肥胖不是外表問題！BMI破35乳癌風險飆 做這事風險降2成&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14YUpYbjJ2b0Z4dFhtZjdEMzQ3NTNKNzRCSTU2N0JycDdzbWU5SHZqTF81SlZJWWZ6elZKSmxBWE1GZUwybVRxb0o5M3h4V2oyQWc?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxQalRuOU5CZ3BhRXFOUl9hem9CenpLaFBWM3BaOTV3MFRDZktLSXZUMFZtWEk5UG5XQ2VjRTdiaHRNVkwxSXZtLWp5b21WZmUzOXhrRGxCQjdpWURfZ0p6YzVLb05qaW1jOWpLS1gtX0FFSHVlSzRNYlJLd3Bpek1sX0FVa1U0NVBJQ3YwenBLcU8ySm9SVTRKNEdmREgtVm0wUkN6Q1dyTm5wUUNCUXNXYXJnb1lnY1ZfRHoyVW5IdDJ2NkhEYmoxX3pMbzlnQTA3eHhEcUozalhGTEp3YklLRWJnalJIMFczQThMVkFHQ2tBVmRyRC0xNUQ1WDhXRjFoWkdHMktFTGd4MzFoZG1SeVBpOHpvRm5JemYxX3VWZldiSUVMYV9FWEF0MUMwVmEwT1h2QldsbThCVHBCM05oRVdRMWNOc2Y1RWR1QkpmR1BnUkV4NklkM2FmTm1XZ18xZDVwbWN4Y1JIR09sd1NycS1rel9Tb09oakkzM0VHbVhCOXQ5QzV1RENDSldNSHloaUxsc2FFVzU?oc=5"
         }
       ]
     },
@@ -144,18 +144,6 @@
         {
           "name": "ETtoday新聞雲",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHNmdrWHBBQW9acHN6TzRscTlHaU5wOEtGejJ1akVoc2tVYTVKMldBeXBfTGstZm9QLURiMDYtVm1QNnc0bVJXY0RpQWMtSjNKVEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "831dd2980b80",
-      "title": "阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險 - Yahoo新聞",
-      "published": "2026-08-04T03:03:57+00:00",
-      "summary": "阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險&nbsp;&nbsp;Yahoo新聞開冰箱就忘記要做什麼？醫師揭五失智警訊：日常多吃這5類食物 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報失智症早期藏在聊天裡！醫點「1種對話」習慣是警訊- 國際&nbsp;&nbsp;中時新聞網才聊完10分鐘就忘了？日醫師曝「1異常」恐是失智警訊 很多人沒察覺&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOaGNsX3RNdUtFU0FUN044V1hDRE1Qc2dzaUNsZWtaNHdSaG5sYmJGalRpQUwxWnZqUHBXcllGMU00YXhwbmljWnl2YnVvUF9WV2JfckNOblBZd1FfSEctWVhpM3JKdGVxZTRpTUJMU0tTYlNOcDljdTFxaGdaSUd3MGZJblduQXRxcFZRd2hyZjl1dGNJaVlBdGhvVnlJX1JXRmRVM2NHams3bzRFdXpVb0xJQTNWTlAxUFN2cGtzZkpubUFZaE5laDlfYm5BMm5rWDZTdlRZX1Z3WFNCVTNwNnZSTVdJZVduTEtLRm9SU1RyMGpjY2YyZS14dld4MmM2bDFrVVFad2xWVl9NWVVEWGdJaGF2a0NxZDFCcjlfWEZCeE9WZ2d0MkIzQVVsMkg3a1R6b0NfRzhhUHVNQ0pCY0tfWjctc1ZrXzlyM1g1SkRZLU5zaXZqWFVhRzV3ZUN6TVhnOFdZd05TRHBGS1J3Wk1yVFA3MXFsSDA4ckk2WFlaUmlZY250SnZPYXFtZDlSWVJ5YlJfWl9pOFJ4NTJzLW02MUJFSkU0Rk1YUk5NbnlzYnlJbXB6VUxYXzJfQVNkR1pVUllPUzZlWUM0MkdMVUtEd25OQnBpWTFkU2NYMDRCaWRH?oc=5"
         }
       ]
     },
@@ -196,13 +184,25 @@
       ]
     },
     {
-      "id": "4cca1932428c",
-      "title": "研究：中壯年維生素D 充足或助減失智風險 - 巴士的報",
-      "published": "2026-08-02T20:10:44+00:00",
-      "summary": "研究：中壯年維生素D 充足或助減失智風險&nbsp;&nbsp;巴士的報",
+      "id": "e2261a4e467a",
+      "title": "阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險 | 信傳媒 - LINE TODAY",
+      "published": "2026-08-04T03:31:49+00:00",
+      "summary": "阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險 | 信傳媒&nbsp;&nbsp;LINE TODAY阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險&nbsp;&nbsp;Yahoo新聞開冰箱就忘記要做什麼？醫師揭五失智警訊：日常多吃這5類食物 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報失智症早期藏在聊天裡！醫點「1種對話」習慣是警訊- 國際&nbsp;&nbsp;中時新聞網才聊完10分鐘就忘了？日醫師曝「1異常」恐是失智警訊 很多人沒察覺&nbsp;&nbsp;UDN",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rajNkdFY5akR5cVJWQVpyMG9tTzdlX1hWZThkSXFqdThkbFRMSmtmQ292YkVXUTY1ajNxNmFjREpMQVBtU2VXcEZxUEN5a1BwR3gtQVJB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ddc0b6c4ef74",
+      "title": "研究：中壯年維生素D 充足或助減失智風險 - bastillepost.com",
+      "published": "2026-08-02T20:10:44+00:00",
+      "summary": "研究：中壯年維生素D 充足或助減失智風險&nbsp;&nbsp;bastillepost.com",
+      "sources": [
+        {
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOemtyNTFxNmtRWjlKc052ZVZVN0R2SFZ4MDRPb1RBZTY2d0VDWmhDV0hONmoteThzemJlUXpHYmhkRk1XWndqMFNrN3h6d0tCQUpxUHdObVRrakkyQ21rRmNnVzV5dmVPWFBxV05RMzBnRjJ6cU5LdVBCdnFnQzNzVVhPdlFVVnR4MjM5aGVDUFBBSWpUQUVTRzRYU0toVWE1WmFpaEZjQlR5ZWl5RFl0Y1RuSy0yRjktVjVhZlJSQ3dILXUwOUxydkxfSGdLSzlQaVRGVHByTUNCVk5iU0ZoWVFpWVphWGhHbU1lZllvMTMwNU1yRzkzOVJyUEtIZS1jTFpxM3dNUm9iOENyWjdoeTNBTmotTDR5Z0o1WG9zMEJZSUJNX2E4SWloWG1DN3NiNGxjVkNlVE5pN0VUWFRsTFFEZ25acmVjRXVz?oc=5"
         }
       ]
@@ -244,54 +244,6 @@
       ]
     },
     {
-      "id": "af7538c9068b",
-      "title": "乳癌確診後怎麼吃？醫師推4營養素打造「抗癌好體質」肥胖型乳癌要補充它 - TVBS 健康2.0",
-      "published": "2026-08-03T05:08:00+00:00",
-      "summary": "乳癌確診後怎麼吃？醫師推4營養素打造「抗癌好體質」肥胖型乳癌要補充它&nbsp;&nbsp;TVBS 健康2.0",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aUEphckxOdFg4VGZ2bXlIaXlUUW1VYWRnOGtlNkNNaFdNMld1OE5Dek9Md0gweXh1OU4yUWNFVTY0SmdpZTFkQ1pneGRtdlFSSWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "adf20df4a43c",
-      "title": "肉毒桿菌毒素新發現 誘導癌細胞發炎性死亡開啟抗癌新途徑 - GeneOnline News",
-      "published": "2026-08-03T11:09:10+00:00",
-      "summary": "肉毒桿菌毒素新發現 誘導癌細胞發炎性死亡開啟抗癌新途徑&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPc3dGNi1nNk5yTkNXMDZyZUtNcUc1UEQ2SHhsQ1V4VEVRRzd6OUd6cU5PeGw0ZW84emowUm83LVNVVDdZVVNHZlladjVFMWtmYWpGSHMzaHF5cVpPenpTRnEtOGtjVWx3aFpyOERnWlpUeXlLT2NFQ3JGYnVaeHN1aHlkNDNReDlnMDQ2M1hMNU9EdGQ2RVhMbjRiWFpsNkR2MGdZaTNjS3ZKSjFJWU5ZYXNmM3RvVW54aVNMeUlBV0toUi1jQTNNQmlzU0xhV0N1dnZ5ZVhjc3FuaDM4OVVuN1lVQV80VGRSSGhoRlR6dC1GNHlUbjYwdm1EdnJZUzdPQnVrd1U0d0E4WmF2OGgxM1Y4QmJMc2ZDS2ZSOWwySmw4dllmOUZaaDdNdGdzcl9VMEJuaGNpTEhVU3RuYmZxdWZZZHNQVzQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b233c5a005df",
-      "title": "最新研究補充菊糖纖維助減輕膝蓋痛- 醫藥新知- 新聞 - 華人今日網",
-      "published": "2026-08-04T00:19:52+00:00",
-      "summary": "最新研究補充菊糖纖維助減輕膝蓋痛- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
-      "sources": [
-        {
-          "name": "華人今日網",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfaF9kTmRhQWQyTVctNFM3a0stc2Vkd2ZFLTZDR2x6eU5Cek1uTXZMODc4dTk1ODU1dFJYRmJOYk45czd6VmJLZVA5MXdYVFNCYzl1LURBZ0ZjMmREQzZVY2JXSEtNUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "324ef9a51dfe",
-      "title": "防西尼羅病毒擴散 史島、皇后區今起噴藥滅蚊 - 世界新聞網",
-      "published": "2026-08-03T06:26:00+00:00",
-      "summary": "防西尼羅病毒擴散 史島、皇后區今起噴藥滅蚊&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96TlpJMFhrd2pSUXZqTHhfcjRkMGNXNi1fMDhRQjZLQWFGQ29jY242UlRyeGNOWmo4OERLVVJZWmFBR0RZSlNXTURBZXFneGFwX2xKRTVNWnFhTHpnQzBuOWJ30gFnQVVfeXFMTmhQRHhhWHFOM3VSdTZkb1o0NGw1dllTb1JwU3BoaTExeVQ5UzdxSElJS3RSeG1qRjB4bmFvRWFwUGJaWDBIVFk4ZnNSNkVtQ3NvYkY4dEctMDIwOUxwTmRjUmpYamZBRQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "196b49f8e266",
       "title": "「超級食物」奇亞籽不是泡水就好？營養師揭密：99％的人都吃錯了 - 觸mii",
       "published": "2026-08-04T05:00:30+00:00",
@@ -316,13 +268,13 @@
       ]
     },
     {
-      "id": "bf5e3a29f8b8",
-      "title": "家庭關係太緊繃？小心這三個致病地雷！ - news.ebc.net.tw",
+      "id": "5dc3bd1ccb42",
+      "title": "家庭關係太緊繃？小心這三個致病地雷！ - 東森新聞",
       "published": "2026-08-03T06:57:00+00:00",
-      "summary": "家庭關係太緊繃？小心這三個致病地雷！&nbsp;&nbsp;news.ebc.net.tw",
+      "summary": "家庭關係太緊繃？小心這三個致病地雷！&nbsp;&nbsp;東森新聞",
       "sources": [
         {
-          "name": "news.ebc.net.tw",
+          "name": "東森新聞",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82OWdDLWhuYXRtOHdHRnAxQXdTOUQyZWVEZkFuM1lXLXI2RXNWRmJjUmxIWnpkalV1ZWQ0YzNRNUxRUnh5QkN2dk9ad1g3bkwxQURjLQ?oc=5"
         }
       ]
@@ -352,26 +304,14 @@
       ]
     },
     {
-      "id": "49dc3e47b7bb",
-      "title": "【醫家等你Call】漸凍人症：身體逐漸失去活動能力 意識依然清醒 - SBS",
-      "published": "2026-08-04T10:12:00+00:00",
-      "summary": "【醫家等你Call】漸凍人症：身體逐漸失去活動能力 意識依然清醒&nbsp;&nbsp;SBS",
+      "id": "d750ca6bb082",
+      "title": "性病危機｜尿道長滿「椰菜花」卻無性行為？ 醫生揭背後感染原因驚藏更恐怖真相：恐誘5大性病【附4招預防感染】 - 香港經濟日報HKET",
+      "published": "2026-08-03T10:50:06+00:00",
+      "summary": "性病危機｜尿道長滿「椰菜花」卻無性行為？ 醫生揭背後感染原因驚藏更恐怖真相：恐誘5大性病【附4招預防感染】&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
-          "name": "SBS",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaHdoMnczRVlqWE9fWHRUbkwybUsxczA5Y2hrazdHdnpBMjlHVkdZNlkxOWp5YWVQbGpMb0lKZDgzMmFUbDBvN1hJYkFoVk9WMk1iMmN1eHZ0U0VzeFdYbTZQa3hsR1J0a1RZN2lZWkN4TVdLYWFCZmc0VTRNYk5SWEY4RGpsVTRDcFM1OFQ5eVcxc2RoTlZnMDBqQ2RQejBTYTZIOTdhOHVWa004LU0weHZQbGhiMlhCbUhoRXZB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "324ad934f5bc",
-      "title": "年輕人群結腸癌發病率上升 瑪摩利醫療中心華裔醫生分享注意事項 - Singtaousa",
-      "published": "2026-08-04T10:00:00+00:00",
-      "summary": "年輕人群結腸癌發病率上升 瑪摩利醫療中心華裔醫生分享注意事項&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVHpyVWlzV0Fab2VFSE51c0V4NkRNYWxoeWVkZkVnSkhQaXRoWGhncjF0Q01rOE9YdEJGc0RQeENpNzFGcWtWOE81TlVMcDZSMVpwMHY0Wk1IeDhTQk1sYk1MQTR2TnFzcEIzbWtiaE9mVFJseklybmZOdUpzazhGbg?oc=5"
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiwAVBVV95cUxOWlRkSWQ4bGUxM3JtWVJJMXMyYTVpdGlUR2R6UFNZZk5wa1hkcFV3clc4LXp5U2t6TFdXT0JRUXZ3Ykp5MEYxQmx5Xzd0a3NvMmhNWTBzVGJFUGVqYnJpLWw0bkFyTllWSVJoRGQxY3lKYXJleW9SamFVWkpVemZsSTB3Q2pNRllJejhpSG1WdE55OUFUd2VHRDBuRUJRWUEwNFZhSFhucURYUUVnY1BmYlR3M19OXzh2ZnJSWkt1UUR0b3NpT1VpS3I0aktaY2VBQkFkbTlJQ3pUa0hEMDdJd043WW1DVXRJd1EyWTBEMmFwTDhadzRwdm5HWkhEOGMwLW9OQnotNXJmVmFFbFpHc3IwMU1xNkRPYm1tTXgtX3VObk5KNFlxN1c3MHF0M0lER1k0SGtLSXlzRlo1Vm96eDVhMkdoSU8ycjhoc0FZbFMxVjBGNy1qcVB6bDBCOFhKMy1MdzFDT1ZmZndXRGdoZERjUEs4UmNFRDFnREZSX0FqSjhpNWlNSnNqWThRcHczS3NpQXNrWEhvWnRPZXVnVDVjNTdDMjc2WlFZaXA1b0c0dG0ycFZyVWNrTEowcHNXcGhLMGZWT3ZLcHYwdVdRRkREQ0VvTnp0R0RYWjVXZGhQUnJscF9aS3NGZzF4c0tKMFQ2b1F4VWJqdHpyckN0bkp0NzRLUUlJYnBaOHo1eTZQNU8zdVJaeEZNMmJ2NUxSTDJOLUxUOVg4NGhXaVN0cTJYSmhrZWdQam1ZdWpaWUZnZ09WZHl3QkYzZlZtZGVhMG1kSUpUM2pzd0E3MUltNlZyTHFJZnRybEJiZmljckhOTzF6SkNsYmFQcFdlMThtaXctT2NMQlBPby1fNnljN1d5VVphREluWjg4S2JZa2pnRDFPVl83N08xT2ZXT2c3YWtpMU1Lc2k4YnNDb0RfTA?oc=5"
         }
       ]
     },
@@ -384,18 +324,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNb09UNWFRb0FJS2NrM2JTUTcyaXg3X3lja01lQk5IS2drenAtQTZlanJXRXhqU0RQNHhnZWZ2UWExLU9vV2d4VFFHcDdvem8tYVJFV0FhVXBtd3RKLVJQV2g1ell2TU5KNm9LMWdlZEJJTDRBejVJRGRsX20wZ3BzNlhMZTBLU1NIRGc2MTJidjFhR25hSWl6MnNWamc3TDVCRTV5dlMxdWRRMlI0N3dkWWJ4R0J4cmdGUmhuSTlncVVHNlNuVFlTMTFKakpKcTJHSy1EaGRtQXh0MWNrd1R3ZGhfVGRMR0Vtdl9JSDM1Ymx0b1RyWlNRVkFKZUlxVEpDNHZiTzhmU1o4UEMtamdTNGNDZzVIZFp4R0dmMEZBbGVxalcyazNfd21iaHJCWlpReWx1X2V2d0JKNkhIdFVkdWZFd3QybmNMTFRQb1NZc2kzZ3RyQm9OWUZDS3I1ZGtRVUR6ejZSODJnN3NZTUx1bWdkT0c3aXVBTjRqblI5dHVMOEEyblgzaGlYOE15QTRKYzFaejlENU9vaERlTEFQRFQ3c0lnaUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d750ca6bb082",
-      "title": "性病危機｜尿道長滿「椰菜花」卻無性行為？ 醫生揭背後感染原因驚藏更恐怖真相：恐誘5大性病【附4招預防感染】 - 香港經濟日報HKET",
-      "published": "2026-08-03T10:50:06+00:00",
-      "summary": "性病危機｜尿道長滿「椰菜花」卻無性行為？ 醫生揭背後感染原因驚藏更恐怖真相：恐誘5大性病【附4招預防感染】&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiwAVBVV95cUxOWlRkSWQ4bGUxM3JtWVJJMXMyYTVpdGlUR2R6UFNZZk5wa1hkcFV3clc4LXp5U2t6TFdXT0JRUXZ3Ykp5MEYxQmx5Xzd0a3NvMmhNWTBzVGJFUGVqYnJpLWw0bkFyTllWSVJoRGQxY3lKYXJleW9SamFVWkpVemZsSTB3Q2pNRllJejhpSG1WdE55OUFUd2VHRDBuRUJRWUEwNFZhSFhucURYUUVnY1BmYlR3M19OXzh2ZnJSWkt1UUR0b3NpT1VpS3I0aktaY2VBQkFkbTlJQ3pUa0hEMDdJd043WW1DVXRJd1EyWTBEMmFwTDhadzRwdm5HWkhEOGMwLW9OQnotNXJmVmFFbFpHc3IwMU1xNkRPYm1tTXgtX3VObk5KNFlxN1c3MHF0M0lER1k0SGtLSXlzRlo1Vm96eDVhMkdoSU8ycjhoc0FZbFMxVjBGNy1qcVB6bDBCOFhKMy1MdzFDT1ZmZndXRGdoZERjUEs4UmNFRDFnREZSX0FqSjhpNWlNSnNqWThRcHczS3NpQXNrWEhvWnRPZXVnVDVjNTdDMjc2WlFZaXA1b0c0dG0ycFZyVWNrTEowcHNXcGhLMGZWT3ZLcHYwdVdRRkREQ0VvTnp0R0RYWjVXZGhQUnJscF9aS3NGZzF4c0tKMFQ2b1F4VWJqdHpyckN0bkp0NzRLUUlJYnBaOHo1eTZQNU8zdVJaeEZNMmJ2NUxSTDJOLUxUOVg4NGhXaVN0cTJYSmhrZWdQam1ZdWpaWUZnZ09WZHl3QkYzZlZtZGVhMG1kSUpUM2pzd0E3MUltNlZyTHFJZnRybEJiZmljckhOTzF6SkNsYmFQcFdlMThtaXctT2NMQlBPby1fNnljN1d5VVphREluWjg4S2JZa2pnRDFPVl83N08xT2ZXT2c3YWtpMU1Lc2k4YnNDb0RfTA?oc=5"
         }
       ]
     }
