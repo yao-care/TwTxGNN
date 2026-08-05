@@ -3,7 +3,7 @@ layout: default
 title: "阿茲海默症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "阿茲海默症（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "阿茲海默症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="阿茲海默症（dementia） 有什麼相關新聞？">
-<strong>阿茲海默症（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<strong>阿茲海默症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [健康網》血糖正常也中招！網紅醫：阿茲海默症恐是大腦糖尿病](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QdW80SE0xNkE1LVUtQThnVGJmT1JuWFRZVUUtUXRSRlRJNzVYWW5UZTRBYUNESXY5UGtlaTlJb1R1QVBGT3RuTmxQS3BFV0RRY0wyUnJVMGxkaERzaU1wemRpczA?oc=5)
 
@@ -44,14 +44,6 @@ permalink: /news/dementia/
 2026-08-05
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQaWZEOW5YeVB5dENWVHoxRGJscTEtZzVzSEdvczdwMFdKbUdYcEQ5XzRLdnVhSXJpTEVsS2pYU3V0aVRfX0R2azJhejc4MnhfaVB6NWpmZnZPRDh4aVFGRTBGNFA0TF9BbkE5bXpLeWROd2w1aHJ2MXVJYnR3OXVoWDYtRXRLUWNDcFAwTkJmLTViWWxGVG9Ia1BqalctcUEyWXhzQUtCMmV3QkJoOG9MY3VsY0pEVHRJdkFzNzNuY2FtRFFyTFBRZzNCZU0zZ0VYbzIwTGdJTWswdmpReFBTY3VRUDhMREJhUldjcXJCRTF4TjF3SXZNb09McHdzZw?oc=5)
-
----
-
-### [阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險 | 信傳媒](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rajNkdFY5akR5cVJWQVpyMG9tTzdlX1hWZThkSXFqdThkbFRMSmtmQ292YkVXUTY1ajNxNmFjREpMQVBtU2VXcEZxUEN5a1BwR3gtQVJB?oc=5)
-
-2026-08-04
-
-來源：[today.line.me](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rajNkdFY5akR5cVJWQVpyMG9tTzdlX1hWZThkSXFqdThkbFRMSmtmQ292YkVXUTY1ajNxNmFjREpMQVBtU2VXcEZxUEN5a1BwR3gtQVJB?oc=5)
 
 ---
 

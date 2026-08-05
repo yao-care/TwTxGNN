@@ -14,7 +14,7 @@ permalink: /news/vismodegib/
 ---
 
 <p class="key-answer" data-question="Vismodegib 有什麼相關新聞？">
-<strong>Vismodegib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vismodegib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,22 +35,14 @@ permalink: /news/vismodegib/
 <li>Brenner tumor（99.8%）</li>
 <li>cutaneous adenocystic carcinoma（99.8%）</li>
 <li>prostate leiomyoma（99.8%）</li>
-<li class="indication-matched">skin cancer（99.8%）<span class="indication-tag">📰 皮膚癌</span></li>
+<li>skin cancer（99.8%）</li>
 <li>benign neoplasm of sweat gland（99.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vismodegib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [​皮膚癌新發個案十年趨升 衛生局推社區快閃科普](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CS3lUbWk1dVRfV1B6dXNmSFN5ZlFVaE1YSF9neWNwaGg1OS1pVDJGcFZvclhlY1ZoREw0Yk1ONjdGZU5yLXVvRk0yRFkxYUZWdnQyTHFDVkJkMjR5c1U3eQ?oc=5)
-
-2026-08-05 <span class="news-indication-tag">皮膚癌</span>
-
-來源：[濠江日報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CS3lUbWk1dVRfV1B6dXNmSFN5ZlFVaE1YSF9neWNwaGg1OS1pVDJGcFZvclhlY1ZoREw0Yk1ONjdGZU5yLXVvRk0yRFkxYUZWdnQyTHFDVkJkMjR5c1U3eQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [癌症醫師防癌佳句：這一切都將成為過去！](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FUXZhU1RESWdELUY2MzhDZFA3ZVk0WEpRakJubnRSSmZnalhzYmtUbnV3Y3l4TEtEWllsV3R2OTBqWUZnclg3eXpKWGYtcXlnckEtbzVwdDZZOWRNV2ZXbdIBZkFVX3lxTE1QV1lrTGQwTGFQemJ0aEZ2aFVvcUhwTXNLZVlHRV9nT3laR3Z0bmluRndMTVlqN3ZsRDhzZkhQQnBnOTBuOGFSX3FqUGxMR0ZFRWc5N0stUG00Qjh6ckJPbjRnNzlKQQ?oc=5)
 
