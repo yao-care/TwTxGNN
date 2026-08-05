@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/paclitaxel/
 <li><strong>原適應症</strong>：卵巢癌、乳癌、非小細胞肺癌、胃癌、食道癌、頭頸癌、膀胱癌、子宮頸癌</li>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>female breast carcinoma（100.0%）</li>
+<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
 <li>estrogen-receptor negative breast cancer（99.9%）</li>
 <li>hormone-resistant breast carcinoma（99.9%）</li>
 <li>estrogen-receptor positive breast cancer（99.9%）</li>
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [45歲女抗老吃養顏補品5年 子宮肌瘤瘋長至8cm 醫生警告：亂補恐誘發子宮內膜癌/乳癌](https://news.google.com/rss/articles/CBMi8gNBVV95cUxOZm1DNlVzcWVSeDU1MFFLY3p2Y250UU5NcXFBN0c4VjRmMmpqTDRNRUpmT1JlNXdpVEd4NGpHVlRPYVpTRFpENEllU0EyeEtic3JCaDJyMl9yOFpTUnF0dE5YWEVaOTg2YWJhSmh2TGNLbHVoQjloZ0dlcjRiZFpiU0xhSmg3X2ZYZWozUFEtMUFKeDJta29hQXN4bFlERURQNjVGR3B6bmFfdE9UUWVIZDlIMlJzeHN2RTYwWHJpOGo2a1o5VmZ4UGJjU0ZicGtkTnVEVWMwbkswWU1wM1p4ZzVBMG1vMlA4NG9mdlF3SnJSTW83ZXJRa1pQaW9SaUxmYTZrSkllWlZ2WU03dVBaTmZVNkY2WjM5OHRLaFM5UjNZNjFFNkMyekNhZ19pcW9BUEdlTXZhbEllLTVtZHgwV2lqaHgzSlFGelBiM0lQV1BoS0trbk4yME9tVmg2d0QtWVg1MWMxYjhvNWxISHlURmt6NVBhMnVIMVl2TF9DZ2RhbVZUaUt5ZVk3Rk5uQklfenM1YTJKSHZqU0dTcGxSR2h1dDVaZURpeXFoUGhFUXZIMWViMVhReVplYU81akVRUlVtbHlzS2t0Q2E3am50YkdDNUFzS21maXJ5MEZ4X3J6bUs2VmozNlFYbDNVYlEyTWc?oc=5)
+
+2026-08-05 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">子宮內膜癌</span>
+
+來源：[星島頭條](https://news.google.com/rss/articles/CBMi8gNBVV95cUxOZm1DNlVzcWVSeDU1MFFLY3p2Y250UU5NcXFBN0c4VjRmMmpqTDRNRUpmT1JlNXdpVEd4NGpHVlRPYVpTRFpENEllU0EyeEtic3JCaDJyMl9yOFpTUnF0dE5YWEVaOTg2YWJhSmh2TGNLbHVoQjloZ0dlcjRiZFpiU0xhSmg3X2ZYZWozUFEtMUFKeDJta29hQXN4bFlERURQNjVGR3B6bmFfdE9UUWVIZDlIMlJzeHN2RTYwWHJpOGo2a1o5VmZ4UGJjU0ZicGtkTnVEVWMwbkswWU1wM1p4ZzVBMG1vMlA4NG9mdlF3SnJSTW83ZXJRa1pQaW9SaUxmYTZrSkllWlZ2WU03dVBaTmZVNkY2WjM5OHRLaFM5UjNZNjFFNkMyekNhZ19pcW9BUEdlTXZhbEllLTVtZHgwV2lqaHgzSlFGelBiM0lQV1BoS0trbk4yME9tVmg2d0QtWVg1MWMxYjhvNWxISHlURmt6NVBhMnVIMVl2TF9DZ2RhbVZUaUt5ZVk3Rk5uQklfenM1YTJKSHZqU0dTcGxSR2h1dDVaZURpeXFoUGhFUXZIMWViMVhReVplYU81akVRUlVtbHlzS2t0Q2E3am50YkdDNUFzS21maXJ5MEZ4X3J6bUs2VmozNlFYbDNVYlEyTWc?oc=5)
+
+---
 
 ### [癌症醫師防癌佳句：這一切都將成為過去！](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FUXZhU1RESWdELUY2MzhDZFA3ZVk0WEpRakJubnRSSmZnalhzYmtUbnV3Y3l4TEtEWllsV3R2OTBqWUZnclg3eXpKWGYtcXlnckEtbzVwdDZZOWRNV2ZXbdIBZkFVX3lxTE1QV1lrTGQwTGFQemJ0aEZ2aFVvcUhwTXNLZVlHRV9nT3laR3Z0bmluRndMTVlqN3ZsRDhzZkhQQnBnOTBuOGFSX3FqUGxMR0ZFRWc5N0stUG00Qjh6ckJPbjRnNzlKQQ?oc=5)
 

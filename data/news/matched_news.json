@@ -1,8 +1,154 @@
 {
-  "last_updated": "2026-08-05T07:34:50.097706+00:00",
-  "total_count": 19,
-  "matched_count": 3,
+  "last_updated": "2026-08-05T10:26:30.240848+00:00",
+  "total_count": 20,
+  "matched_count": 7,
   "news": [
+    {
+      "id": "fee1415ab70a",
+      "title": "大腸癌｜無便秘亦可能中招？專家拆解2大致癌壞習慣",
+      "published": "2026-08-05T08:20:24+00:00",
+      "summary": "大腸癌｜無便秘亦可能中招？專家拆解2大致癌壞習慣&nbsp;&nbsp;TVB久坐、每天一杯酒…常見生活5習慣 恐增大腸癌風險&nbsp;&nbsp;世界新聞網重症解密｜港大院長劉澤星揭幹細胞逆轉大法！林秀怡直擊過程勁震撼&nbsp;&nbsp;New Monday重症解密｜楝篤笑藝人阿V自爆每月入院！靠一招重獲自由震驚網民&nbsp;&nbsp;GOtrip.hk大腸癌｜5旬單親媽媽無便秘行樓梯氣喘確診大腸癌三期醫生揭2大習慣誘癌後期一個病徵常被忽略- 東張+&nbsp;&nbsp;myTV SUPER",
+      "sources": [
+        {
+          "name": "TVB",
+          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPblNzaTBRb3dWSmppMlQydkRFUEZpS2NaRWFUcFlOd3RTMkVMUEltSTd0TFpPemxNeVVxaWlIU01wYlZHenVqbl9EUWd0ZzZuSzRVU2V6QWZEcTVZcWlVYjB5UVhfQWlRWUNTMmRyME9GRU5kWTR1bS1hQnFNb0IxNkR2b0F3SzQteDJ3dFNsQl9jZnNFYUxCcXIybi05VHR6MVZUcjVHcXZyQWxTNFhjdC1CelYxUHFfdFV3LW1jTDN6aHdtRllWOFE3eGpVNzlsQ1I3d3BLNVRTVVNmTmM1LVdLWkVPVXBoZHZPNHk3ZWZxNGFqMmtqQXE2X0JJY2FUTThtaHI4UFg3TE94VGNSSW03eDRXUWwtaXJRWVVyNXFLUUg2Umg1WnR6VlJVME5uQnNqUlAwYnBKX3l5LTYwZFZ6U1Z4VThyT2dwQlQyeXo3UQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "氣喘",
+          "keyword": "氣喘",
+          "related_drugs": [
+            {
+              "slug": "dupilumab",
+              "name": "Dupilumab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f77c64fffdea",
+      "title": "皮膚癌位列新發個案第七位 籲做好避遮塗防曬",
+      "published": "2026-08-05T08:10:47+00:00",
+      "summary": "皮膚癌位列新發個案第七位 籲做好避遮塗防曬&nbsp;&nbsp;大衆報",
+      "sources": [
+        {
+          "name": "大衆報",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNemhZLXQ1YVRmY3ZqRlFRdEsydGJzNDBYNmp3aXlLWTFBRXRXUG9XaGJkQmt0endnZkhIN0czUno1M2NDUmk3ZDZ2UnF2T1FTMEV6MzhR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "skin cancer",
+          "keyword": "皮膚癌",
+          "related_drugs": [
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "320ddf7952d1",
+      "title": "40歲後身高縮水超過3公分嗎？小心脊椎沈默骨折正在發生中",
+      "published": "2026-08-05T07:00:00+00:00",
+      "summary": "40歲後身高縮水超過3公分嗎？小心脊椎沈默骨折正在發生中&nbsp;&nbsp;東森新聞健康網》只靠鈣片、維D恐沒用 研究揭防骨折真正有效3關鍵&nbsp;&nbsp;自由健康網72歲嬤身高縮水 確診重度骨鬆 | 中華日報&nbsp;&nbsp;LINE TODAY天天吃麵包恐引發骨質疏鬆！醫提醒：高磷飲食才是隱形殺手，這3類食物少吃&nbsp;&nbsp;女人我最大守護骨本告別「沉默疾病」嘉榮醫半年一針 助骨鬆嬤重拾穩健步伐&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15VWRvYjZhVEFRODQ3bUg4bGtXbUNOQktYZmlhU1VIMzEwdnBESEpNRFBCVmVabmJsRDZ3NTBXZVd1MUNtWGxZWW1fZWVTTTdRT2dodw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "41184f00fc1f",
+      "title": "養生陷阱｜40歲女長期刮痧拔罐皮膚生粒粒 醫生揭工具消毒不足恐感染「病毒疣」 - etnet 經濟通",
+      "published": "2026-08-05T06:45:00+00:00",
+      "summary": "養生陷阱｜40歲女長期刮痧拔罐皮膚生粒粒 醫生揭工具消毒不足恐感染「病毒疣」&nbsp;&nbsp;etnet 經濟通",
+      "sources": [
+        {
+          "name": "etnet 經濟通",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mbFlIUXpzcFlJNHpheGdVMDlRbHl0ZzY3aEVhRG5sb0NRRUdhNVMwQjFLQ0pWbzl2REhqcVl2WXZvdmNxMmJuN3BWSE9sUVpTZC12SkVjUzY?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b966d6a9d3b7",
+      "title": "健康網》血糖正常也中招！網紅醫：阿茲海默症恐是大腦糖尿病",
+      "published": "2026-08-05T06:39:00+00:00",
+      "summary": "健康網》血糖正常也中招！網紅醫：阿茲海默症恐是大腦糖尿病&nbsp;&nbsp;自由健康網血糖正常≠健康！醫曝「2大警訊」胰臟早就在加班 恐罹糖尿病&nbsp;&nbsp;ETtoday健康雲血糖正常也危險！醫曝「2類人」的胰臟快壞了：慘得糖尿病&nbsp;&nbsp;Yahoo新聞健檢血糖正常別安心太早！醫曝「看不見的隱患」：失智、糖尿病風險大增&nbsp;&nbsp;health.udn.com過重、腰圍過大！血糖卻正常 醫：警訊！小心胰臟快壞了 | TVBS&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QdW80SE0xNkE1LVUtQThnVGJmT1JuWFRZVUUtUXRSRlRJNzVYWW5UZTRBYUNESXY5UGtlaTlJb1R1QVBGT3RuTmxQS3BFV0RRY0wyUnJVMGxkaERzaU1wemRpczA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "736e660f9d26",
       "title": "健康網》體重過輕想增重別踩雷！ 醫曝「骯髒增重」恐有心臟風險",
@@ -30,30 +176,64 @@
       "matched_keywords": []
     },
     {
-      "id": "896da47f79d6",
-      "title": "河南35歲女一生活習慣 致甩牙絕經貌似60歲阿婆",
-      "published": "2026-08-05T03:40:05+00:00",
-      "summary": "河南35歲女一生活習慣 致甩牙絕經貌似60歲阿婆&nbsp;&nbsp;星島頭條",
+      "id": "5cdd79446147",
+      "title": "45歲女抗老吃養顏補品5年 子宮肌瘤瘋長至8cm 醫生警告：亂補恐誘發子宮內膜癌/乳癌",
+      "published": "2026-08-05T03:00:00+00:00",
+      "summary": "45歲女抗老吃養顏補品5年 子宮肌瘤瘋長至8cm 醫生警告：亂補恐誘發子宮內膜癌/乳癌&nbsp;&nbsp;星島頭條",
       "sources": [
         {
           "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNMWlYMVljWVYzVE5GZTk2YVZTeTlOOHJONFotQkYwY05GenRlMFFOUExLcmxJakFfNGVtNGo2aV9HLW5zakpsNVI2TWY0ZjA4emFNeHNSY2FvWEtwUlZqR2NPUXVqUFNzWDZtbWdTczNSYU9LQUl5VzBlS1B0a0dOT2dXR3hNMDFaNU5GOVdNVFNrbE9tcFdtQlZ6RnJrSjU0Skt5N21GZDF2UHZNSjVsVlNYdXVYTE9udkJKODJhQWI1Z3FibkVVYUFZa0E0WmV2Nm90S0pkY0t6cUN2bnJMYlJKQWtwZ0pndTdXT3ZlVWxDaEpFRWV1dHd2ZVNTWFVSb1cwYkR5V0VBLUM1ZjlPU0xDelo4UlphdWdLTjA1UkprbFBvM19Wc1c1bG5CdTBPbC14VmIyTTNldzNyNUpSclAzZzFVOERyRWc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxOZm1DNlVzcWVSeDU1MFFLY3p2Y250UU5NcXFBN0c4VjRmMmpqTDRNRUpmT1JlNXdpVEd4NGpHVlRPYVpTRFpENEllU0EyeEtic3JCaDJyMl9yOFpTUnF0dE5YWEVaOTg2YWJhSmh2TGNLbHVoQjloZ0dlcjRiZFpiU0xhSmg3X2ZYZWozUFEtMUFKeDJta29hQXN4bFlERURQNjVGR3B6bmFfdE9UUWVIZDlIMlJzeHN2RTYwWHJpOGo2a1o5VmZ4UGJjU0ZicGtkTnVEVWMwbkswWU1wM1p4ZzVBMG1vMlA4NG9mdlF3SnJSTW83ZXJRa1pQaW9SaUxmYTZrSkllWlZ2WU03dVBaTmZVNkY2WjM5OHRLaFM5UjNZNjFFNkMyekNhZ19pcW9BUEdlTXZhbEllLTVtZHgwV2lqaHgzSlFGelBiM0lQV1BoS0trbk4yME9tVmg2d0QtWVg1MWMxYjhvNWxISHlURmt6NVBhMnVIMVl2TF9DZ2RhbVZUaUt5ZVk3Rk5uQklfenM1YTJKSHZqU0dTcGxSR2h1dDVaZURpeXFoUGhFUXZIMWViMVhReVplYU81akVRUlVtbHlzS2t0Q2E3am50YkdDNUFzS21maXJ5MEZ4X3J6bUs2VmozNlFYbDNVYlEyTWc?oc=5"
         }
       ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fa4f6a64f21f",
-      "title": "健康網》只靠鈣片、維D恐沒用 研究揭防骨折真正有效3關鍵",
-      "published": "2026-08-05T03:37:00+00:00",
-      "summary": "健康網》只靠鈣片、維D恐沒用 研究揭防骨折真正有效3關鍵&nbsp;&nbsp;自由健康網72歲嬤身高縮水 確診重度骨鬆 | 中華日報&nbsp;&nbsp;LINE TODAY天天吃麵包恐引發骨質疏鬆！醫提醒：高磷飲食才是隱形殺手，這3類食物少吃&nbsp;&nbsp;女人我最大40歲後身高縮水超過3公分嗎？小心脊椎沈默骨折正在發生中&nbsp;&nbsp;東森新聞守護骨本告別「沉默疾病」嘉榮醫半年一針 助骨鬆嬤重拾穩健步伐&nbsp;&nbsp;news.pchome.com.tw",
-      "sources": [
+      "matched_keywords": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRc1RsM3JfWU5vWnlJeHlWUS1JSW1uMW1tMzVOR1p3QWVneXdfTExRX3didGtWcm1fWFh6bE1lejFXeE5nLTFWX245ZUw1XzlabndRRGVSY1gxZzgyVjVQcmxxbTU?oc=5"
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "子宮內膜癌",
+          "keyword": "子宮內膜癌",
+          "related_drugs": [
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            }
+          ]
         }
-      ],
-      "matched_keywords": []
+      ]
     },
     {
       "id": "92c01d415398",
@@ -82,13 +262,13 @@
       "matched_keywords": []
     },
     {
-      "id": "bd6513498dca",
-      "title": "瘦身不再只靠168！營養師揭秘「金字塔瘦身法」6大法則高效甩肉",
+      "id": "8d586d313c68",
+      "title": "瘦身不再只靠168 營養師揭秘「金字塔瘦身法」6大法則高效甩肉",
       "published": "2026-08-04T09:53:22+00:00",
-      "summary": "瘦身不再只靠168！營養師揭秘「金字塔瘦身法」6大法則高效甩肉&nbsp;&nbsp;hk01.com",
+      "summary": "瘦身不再只靠168 營養師揭秘「金字塔瘦身法」6大法則高效甩肉&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "hk01.com",
+          "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPNnZfWjMza1BrT25WWktFeHQyNm5UaGRDcE5fUGRHRW5UbXc3MUs5YktLdjdLNUVUcDR0NjVfVUI2Skd4b3dVRlpEbG83aU54aEFPa0RXVzc0QkNucUdfc0JULWVTVTJsUDYzNllWLUlzdUl3NEQteFAwaGVqVkctV1R2RXc1RVVDakhrT3hBR2lvaHdRcU1aRWR0dDN6SzR6V2pDWjRyMXE4ZlVmeUU4YXEwRGJsYm9Sc0xQeDdiUmtwUGJ3Mnc5YnNjV0d2LUV3TjgzTWlDS0d1MEJ3cGlSOS12TG1oV1RfalJfbnJYM0RHOE1FRnJ1bXUwN2VXemlOclh3cVVTTmNscEUzclNzcjd3M05tNHhiekY5d3djMDk1Z1BzakZHM2ZYeXF3V1hoS09hMW5PdFNFRkZzRTRkZEtfNG8zQkhHSm5TQVBLeXA5LThSOEVPbTU4blFRS1U4dnpRS1lBWHp2Y0FGNWppQ2dvT1Y4SmpLVUoyaW1WY21raV8zU19uYnkyVnlWN1VhZXFEZk0zeHdjcWdfaDU0?oc=5"
         }
       ],
@@ -108,61 +288,9 @@
       "matched_keywords": []
     },
     {
-      "id": "7d1d8a1c66c3",
-      "title": "泰國浴、派對暗房、交友App⋯出國這5件事恐帶回「隱形紀念品」",
-      "published": "2026-08-04T07:22:08+00:00",
-      "summary": "泰國浴、派對暗房、交友App⋯出國這5件事恐帶回「隱形紀念品」&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHTndMSmI1TV8wYlRBWVhLNVNXbWdReXpZc05idk1NcXlJYmNNaERRTGhpbUNLRWJNSE1aQjNDdWdBZ0l0NFUwaElXN0JpNUhNb200?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b53eeed8e371",
-      "title": "梅毒半年破6千例「創10年新高」！15~24歲增幅最大",
-      "published": "2026-08-04T06:38:53+00:00",
-      "summary": "梅毒半年破6千例「創10年新高」！15~24歲增幅最大&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQdWtjQm5OVXFHTGg1NlBIWHFHd09VcU9nOTd6NXR3YjFvdUN5SkJtUllQV2p3Z2FGbjMwMDBud29BN25MNndTQUp6bzhnell3YnlFTE9ZMHNRWDF5LU9NOHRUalVEc2JwV003UHlpWjN4UDlaREZfaXlmSHlJekpiemtRTmJMVWVVWUhoSXlpV2tDOWF0M0o3SjRkdkwydlI2TC1UMlJ4NXpmZWRlYU5YaG9JbFBYNWNaUjZvWlNTbTh5QUx5b3BraHZFLXF3aWFZSzFYUWs1SmdNZHJqSUlOQVlFd0FSSHRiVXhJSTNuN1puekRld2hMcWtVT0QxOG01V21fbHVGM3E4bkVTaC1lNF9TODFrSGZZbkVjbGRnTG4?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1a3450a75f7e",
-      "title": "45歲女食補品反致8cm巨型子宮肌瘤！醫生揭雪蛤、蜂王漿等養顏聖品暗藏危機 - U Food",
-      "published": "2026-08-04T06:21:32+00:00",
-      "summary": "45歲女食補品反致8cm巨型子宮肌瘤！醫生揭雪蛤、蜂王漿等養顏聖品暗藏危機&nbsp;&nbsp;U Food",
-      "sources": [
-        {
-          "name": "U Food",
-          "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxONFdJLW1DVk9UMFprVzRJeFFfRFdSMXRWWVFnV1F0RS1mLUZyRjk4Tnc3YldSZHA0cUwwbGF6VllqR2swcVFoY1B0Nk5TSHA3UnFMQzEwcmJqUjMzYmh5UVQ3LU40aHFjSFIwcUJjX3ZsYjR2ME82dnEyWEVsY19aSndCNzV4U0NQODJfZnZBLVZOUFRYX2VpbE5jV3F0Zk9UcC1FRm9pQXRmTjhmd1Z0MHV1NTdoeTFDc2U1MVlEZjYyWXlTZmtPU0NzalhxVTVTaThzS3A5eDZQTl9SSTJWbThBQ0lSeVZHS0tpZXFuQkZaOXVHNklJckY5UVlhMmRkQVNSM0ZlMzhzNy1jUW9yVGo2Zkk5dzdHeHJhUWRRQVN3TlFJRGYwNVhHZUNqamRTX0IyVGNYOGFjYU1ZRlA1aU5hekc2Y0JUVnJNT1Z4cFAwdWdGVWpvX0k0bl9FSEZjTkZET2I4MnQ5Q2xIMEhrY29HVmZuWFkxRUw0WUJoQ2lWVmwzNFZ5OEg2cDFxUHhJcll5RE9zcHhKRkZodHNqRnE1b2pNazZiYXZwZXhVOFlsZ1U1VFVHWjhzRXIycGwtVFF1SEc5V3JiN3htX0FxaEd3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "196b49f8e266",
-      "title": "「超級食物」奇亞籽不是泡水就好？營養師揭密：99％的人都吃錯了",
-      "published": "2026-08-04T05:00:30+00:00",
-      "summary": "「超級食物」奇亞籽不是泡水就好？營養師揭密：99％的人都吃錯了&nbsp;&nbsp;觸mii",
-      "sources": [
-        {
-          "name": "觸mii",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FcmV5aUs3ZU9iTjJ4TGNLQ25uLWpjT2pJSDNCOF9nZzdBb3hzU0FWTUJFYnhtRkl2dmR2WnRxSFlLT21XZVFqS1VMS29iYmZTWFdoeWJRdkNjZXU1RG16MDEtTGFTX3pMTjZmUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "74fcb6e94aed",
       "title": "癌症醫師防癌佳句：這一切都將成為過去！",
-      "published": "2026-08-04T03:57:05+00:00",
+      "published": "2026-08-04T08:12:00+00:00",
       "summary": "癌症醫師防癌佳句：這一切都將成為過去！&nbsp;&nbsp;新唐人電視台",
       "sources": [
         {
@@ -369,14 +497,40 @@
       ]
     },
     {
-      "id": "831dd2980b80",
-      "title": "阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險",
-      "published": "2026-08-04T03:03:57+00:00",
-      "summary": "阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險&nbsp;&nbsp;Yahoo新聞阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險 | 信傳媒&nbsp;&nbsp;LINE TODAY開冰箱就忘記要做什麼？醫師揭五失智警訊：日常多吃這5類食物&nbsp;&nbsp;經濟日報失智症早期藏在聊天裡！醫點「1種對話」習慣是警訊- 國際&nbsp;&nbsp;中時新聞網才聊完10分鐘就忘了？日醫師曝「1異常」恐是失智警訊 很多人沒察覺&nbsp;&nbsp;UDN",
+      "id": "b53eeed8e371",
+      "title": "梅毒半年破6千例「創10年新高」！15~24歲增幅最大",
+      "published": "2026-08-04T06:38:53+00:00",
+      "summary": "梅毒半年破6千例「創10年新高」！15~24歲增幅最大&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOaGNsX3RNdUtFU0FUN044V1hDRE1Qc2dzaUNsZWtaNHdSaG5sYmJGalRpQUwxWnZqUHBXcllGMU00YXhwbmljWnl2YnVvUF9WV2JfckNOblBZd1FfSEctWVhpM3JKdGVxZTRpTUJMU0tTYlNOcDljdTFxaGdaSUd3MGZJblduQXRxcFZRd2hyZjl1dGNJaVlBdGhvVnlJX1JXRmRVM2NHams3bzRFdXpVb0xJQTNWTlAxUFN2cGtzZkpubUFZaE5laDlfYm5BMm5rWDZTdlRZX1Z3WFNCVTNwNnZSTVdJZVduTEtLRm9SU1RyMGpjY2YyZS14dld4MmM2bDFrVVFad2xWVl9NWVVEWGdJaGF2a0NxZDFCcjlfWEZCeE9WZ2d0MkIzQVVsMkg3a1R6b0NfRzhhUHVNQ0pCY0tfWjctc1ZrXzlyM1g1SkRZLU5zaXZqWFVhRzV3ZUN6TVhnOFdZd05TRHBGS1J3Wk1yVFA3MXFsSDA4ckk2WFlaUmlZY250SnZPYXFtZDlSWVJ5YlJfWl9pOFJ4NTJzLW02MUJFSkU0Rk1YUk5NbnlzYnlJbXB6VUxYXzJfQVNkR1pVUllPUzZlWUM0MkdMVUtEd25OQnBpWTFkU2NYMDRCaWRH?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQdWtjQm5OVXFHTGg1NlBIWHFHd09VcU9nOTd6NXR3YjFvdUN5SkJtUllQV2p3Z2FGbjMwMDBud29BN25MNndTQUp6bzhnell3YnlFTE9ZMHNRWDF5LU9NOHRUalVEc2JwV003UHlpWjN4UDlaREZfaXlmSHlJekpiemtRTmJMVWVVWUhoSXlpV2tDOWF0M0o3SjRkdkwydlI2TC1UMlJ4NXpmZWRlYU5YaG9JbFBYNWNaUjZvWlNTbTh5QUx5b3BraHZFLXF3aWFZSzFYUWs1SmdNZHJqSUlOQVlFd0FSSHRiVXhJSTNuN1puekRld2hMcWtVT0QxOG01V21fbHVGM3E4bkVTaC1lNF9TODFrSGZZbkVjbGRnTG4?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "196b49f8e266",
+      "title": "「超級食物」奇亞籽不是泡水就好？營養師揭密：99％的人都吃錯了",
+      "published": "2026-08-04T05:00:30+00:00",
+      "summary": "「超級食物」奇亞籽不是泡水就好？營養師揭密：99％的人都吃錯了&nbsp;&nbsp;觸mii",
+      "sources": [
+        {
+          "name": "觸mii",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FcmV5aUs3ZU9iTjJ4TGNLQ25uLWpjT2pJSDNCOF9nZzdBb3hzU0FWTUJFYnhtRkl2dmR2WnRxSFlLT21XZVFqS1VMS29iYmZTWFdoeWJRdkNjZXU1RG16MDEtTGFTX3pMTjZmUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e2261a4e467a",
+      "title": "阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險 | 信傳媒 - LINE TODAY",
+      "published": "2026-08-04T03:31:34+00:00",
+      "summary": "阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險 | 信傳媒&nbsp;&nbsp;LINE TODAY開冰箱就忘記要做什麼？醫師揭五失智警訊：日常多吃這5類食物&nbsp;&nbsp;經濟日報失智症早期藏在聊天裡！醫點「1種對話」習慣是警訊- 國際&nbsp;&nbsp;中時新聞網才聊完10分鐘就忘了？日醫師曝「1異常」恐是失智警訊 很多人沒察覺&nbsp;&nbsp;udn",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rajNkdFY5akR5cVJWQVpyMG9tTzdlX1hWZThkSXFqdThkbFRMSmtmQ292YkVXUTY1ajNxNmFjREpMQVBtU2VXcEZxUEN5a1BwR3gtQVJB?oc=5"
         }
       ],
       "matched_keywords": [
@@ -477,40 +631,27 @@
       ]
     },
     {
-      "id": "5ea8c70105b7",
+      "id": "acc926122cd8",
+      "title": "研究揭父親肥胖改變精子特徵 受孕前已影響子女健康增加肥胖風險",
+      "published": "2026-08-03T18:45:11+00:00",
+      "summary": "研究揭父親肥胖改變精子特徵 受孕前已影響子女健康增加肥胖風險&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNU2Z4UEJXLV9tODU2aGJwZFczRHdZQWRYY2I4RURTVGJpNENqYk5VTlFmdmcxYU5PU0NBSmZNZjJhdFJnVFRhcnJRdVhqQmloOW5zOXRjRVl5YXEzTFdLYzI3dkI4Y29sWkhHY1lyQl9KTkZBWG9QMEQxbnBlelA4NW0zTUF1Q2dmUUl1V2RrNm8wUWRnQUFzNHdna0tFLTdsR3BpUGdFcVI4c2lNcjlBcThoNS0tV0kxNzNDVGdMQ0xvZVVFZ0hZd3d6bHVmaDlPMm1LRWUxTTZXZll5RG11bWdrU0pZdWk0V2ZFMy1FdExtVDA5VHJZMTRtNnc3ekVJSHk1aW84ZVJNcmVrcjJJVG1Xbzh5ekh6VC1wQzFZQ2tyYmNDRTFIQmpMR2pZZW5fREFfUzZiTWpQdGlNRVN6VWpYajB0UGk4NkRHUWdmekJETGdudXVCQlE2SUtYMXJIX3BIYnVvS2hyLUhDaDl5UE1pUDFmeS1vbDdRczdDcGJSZFJPWkdfc3RUTHBsRXFKTVJTQ3ZZejI4TF9UUFN3aVB4U2c5TXlnbTdsTU5ERkpuY2tMak8xREM2OA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2e7621a839b9",
       "title": "心碎真的「傷」心！大型研究揭心理問題恐傷心臟",
       "published": "2026-08-03T11:00:00+00:00",
-      "summary": "心碎真的「傷」心！大型研究揭心理問題恐傷心臟&nbsp;&nbsp;大纪元",
+      "summary": "心碎真的「傷」心！大型研究揭心理問題恐傷心臟&nbsp;&nbsp;epochtimes.com",
       "sources": [
         {
-          "name": "大纪元",
+          "name": "epochtimes.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBERVNhV3NlSmJDd243a1NyX1ZwQzVtX1RZTDJsdEU0RjRaMUR6UmpuWjBKX0k3bmtRbkdCYnA1YTJnNVNYOUREalJaaHJjZVlxMHJWM29EWHRxVmdTdE91a9IBZkFVX3lxTE1oTm9JWGVmU3cyenJZeFl0VUVqd0wtZS1EVVo1M29QdHdaQzVOcXZEdG9CVVJGMXBVNmxvWEdJMUQyMTd4Y25JUTB1SlB3UzZ1WW1HR0J1TXc1UDhjcXM0OERIMGYwQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d750ca6bb082",
-      "title": "性病危機｜尿道長滿「椰菜花」卻無性行為？ 醫生揭背後感染原因驚藏更恐怖真相：恐誘5大性病【附4招預防感染】",
-      "published": "2026-08-03T10:50:06+00:00",
-      "summary": "性病危機｜尿道長滿「椰菜花」卻無性行為？ 醫生揭背後感染原因驚藏更恐怖真相：恐誘5大性病【附4招預防感染】&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiwAVBVV95cUxOWlRkSWQ4bGUxM3JtWVJJMXMyYTVpdGlUR2R6UFNZZk5wa1hkcFV3clc4LXp5U2t6TFdXT0JRUXZ3Ykp5MEYxQmx5Xzd0a3NvMmhNWTBzVGJFUGVqYnJpLWw0bkFyTllWSVJoRGQxY3lKYXJleW9SamFVWkpVemZsSTB3Q2pNRllJejhpSG1WdE55OUFUd2VHRDBuRUJRWUEwNFZhSFhucURYUUVnY1BmYlR3M19OXzh2ZnJSWkt1UUR0b3NpT1VpS3I0aktaY2VBQkFkbTlJQ3pUa0hEMDdJd043WW1DVXRJd1EyWTBEMmFwTDhadzRwdm5HWkhEOGMwLW9OQnotNXJmVmFFbFpHc3IwMU1xNkRPYm1tTXgtX3VObk5KNFlxN1c3MHF0M0lER1k0SGtLSXlzRlo1Vm96eDVhMkdoSU8ycjhoc0FZbFMxVjBGNy1qcVB6bDBCOFhKMy1MdzFDT1ZmZndXRGdoZERjUEs4UmNFRDFnREZSX0FqSjhpNWlNSnNqWThRcHczS3NpQXNrWEhvWnRPZXVnVDVjNTdDMjc2WlFZaXA1b0c0dG0ycFZyVWNrTEowcHNXcGhLMGZWT3ZLcHYwdVdRRkREQ0VvTnp0R0RYWjVXZGhQUnJscF9aS3NGZzF4c0tKMFQ2b1F4VWJqdHpyckN0bkp0NzRLUUlJYnBaOHo1eTZQNU8zdVJaeEZNMmJ2NUxSTDJOLUxUOVg4NGhXaVN0cTJYSmhrZWdQam1ZdWpaWUZnZ09WZHl3QkYzZlZtZGVhMG1kSUpUM2pzd0E3MUltNlZyTHFJZnRybEJiZmljckhOTzF6SkNsYmFQcFdlMThtaXctT2NMQlBPby1fNnljN1d5VVphREluWjg4S2JZa2pnRDFPVl83N08xT2ZXT2c3YWtpMU1Lc2k4YnNDb0RfTA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "66db3293c183",
-      "title": "研究揭父親肥胖改變精子特徵 受孕前已影響子女健康增加肥胖風險",
-      "published": "2026-08-03T07:25:24+00:00",
-      "summary": "研究揭父親肥胖改變精子特徵 受孕前已影響子女健康增加肥胖風險&nbsp;&nbsp;hk01.com",
-      "sources": [
-        {
-          "name": "hk01.com",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYdVpxLVBJOHJScjAzdFJRX2pnVlhFRXYtZ0xtbVIxZFJMVko1ZzdIclp5Q1RwelVnNXVMWXdZUS1Qd0tVbXpOVi1SLTFyUQ?oc=5"
         }
       ],
       "matched_keywords": []

@@ -14,7 +14,7 @@ permalink: /news/dupilumab/
 ---
 
 <p class="key-answer" data-question="Dupilumab 有什麼相關新聞？">
-<strong>Dupilumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dupilumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/dupilumab/
 <p><a href="{{ '/drugs/dupilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [大腸癌｜無便秘亦可能中招？專家拆解2大致癌壞習慣](https://news.google.com/rss/articles/CBMi0gJBVV95cUxPblNzaTBRb3dWSmppMlQydkRFUEZpS2NaRWFUcFlOd3RTMkVMUEltSTd0TFpPemxNeVVxaWlIU01wYlZHenVqbl9EUWd0ZzZuSzRVU2V6QWZEcTVZcWlVYjB5UVhfQWlRWUNTMmRyME9GRU5kWTR1bS1hQnFNb0IxNkR2b0F3SzQteDJ3dFNsQl9jZnNFYUxCcXIybi05VHR6MVZUcjVHcXZyQWxTNFhjdC1CelYxUHFfdFV3LW1jTDN6aHdtRllWOFE3eGpVNzlsQ1I3d3BLNVRTVVNmTmM1LVdLWkVPVXBoZHZPNHk3ZWZxNGFqMmtqQXE2X0JJY2FUTThtaHI4UFg3TE94VGNSSW03eDRXUWwtaXJRWVVyNXFLUUg2Umg1WnR6VlJVME5uQnNqUlAwYnBKX3l5LTYwZFZ6U1Z4VThyT2dwQlQyeXo3UQ?oc=5)
+
+2026-08-05 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">氣喘</span>
+
+來源：[TVB](https://news.google.com/rss/articles/CBMi0gJBVV95cUxPblNzaTBRb3dWSmppMlQydkRFUEZpS2NaRWFUcFlOd3RTMkVMUEltSTd0TFpPemxNeVVxaWlIU01wYlZHenVqbl9EUWd0ZzZuSzRVU2V6QWZEcTVZcWlVYjB5UVhfQWlRWUNTMmRyME9GRU5kWTR1bS1hQnFNb0IxNkR2b0F3SzQteDJ3dFNsQl9jZnNFYUxCcXIybi05VHR6MVZUcjVHcXZyQWxTNFhjdC1CelYxUHFfdFV3LW1jTDN6aHdtRllWOFE3eGpVNzlsQ1I3d3BLNVRTVVNmTmM1LVdLWkVPVXBoZHZPNHk3ZWZxNGFqMmtqQXE2X0JJY2FUTThtaHI4UFg3TE94VGNSSW03eDRXUWwtaXJRWVVyNXFLUUg2Umg1WnR6VlJVME5uQnNqUlAwYnBKX3l5LTYwZFZ6U1Z4VThyT2dwQlQyeXo3UQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

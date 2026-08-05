@@ -1,11 +1,187 @@
 {
-  "generated": "2026-08-05T07:34:50.120182+00:00",
-  "count": 3,
+  "generated": "2026-08-05T10:26:30.255658+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "fee1415ab70a",
+      "title": "大腸癌｜無便秘亦可能中招？專家拆解2大致癌壞習慣",
+      "published": "2026-08-05T08:20:24+00:00",
+      "sources": [
+        {
+          "name": "TVB",
+          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPblNzaTBRb3dWSmppMlQydkRFUEZpS2NaRWFUcFlOd3RTMkVMUEltSTd0TFpPemxNeVVxaWlIU01wYlZHenVqbl9EUWd0ZzZuSzRVU2V6QWZEcTVZcWlVYjB5UVhfQWlRWUNTMmRyME9GRU5kWTR1bS1hQnFNb0IxNkR2b0F3SzQteDJ3dFNsQl9jZnNFYUxCcXIybi05VHR6MVZUcjVHcXZyQWxTNFhjdC1CelYxUHFfdFV3LW1jTDN6aHdtRllWOFE3eGpVNzlsQ1I3d3BLNVRTVVNmTmM1LVdLWkVPVXBoZHZPNHk3ZWZxNGFqMmtqQXE2X0JJY2FUTThtaHI4UFg3TE94VGNSSW03eDRXUWwtaXJRWVVyNXFLUUg2Umg1WnR6VlJVME5uQnNqUlAwYnBKX3l5LTYwZFZ6U1Z4VThyT2dwQlQyeXo3UQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "氣喘",
+          "keyword": "氣喘",
+          "related_drugs": [
+            {
+              "slug": "dupilumab",
+              "name": "Dupilumab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f77c64fffdea",
+      "title": "皮膚癌位列新發個案第七位 籲做好避遮塗防曬",
+      "published": "2026-08-05T08:10:47+00:00",
+      "sources": [
+        {
+          "name": "大衆報",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNemhZLXQ1YVRmY3ZqRlFRdEsydGJzNDBYNmp3aXlLWTFBRXRXUG9XaGJkQmt0endnZkhIN0czUno1M2NDUmk3ZDZ2UnF2T1FTMEV6MzhR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "skin cancer",
+          "keyword": "皮膚癌",
+          "related_drugs": [
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b966d6a9d3b7",
+      "title": "健康網》血糖正常也中招！網紅醫：阿茲海默症恐是大腦糖尿病",
+      "published": "2026-08-05T06:39:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QdW80SE0xNkE1LVUtQThnVGJmT1JuWFRZVUUtUXRSRlRJNzVYWW5UZTRBYUNESXY5UGtlaTlJb1R1QVBGT3RuTmxQS3BFV0RRY0wyUnJVMGxkaERzaU1wemRpczA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5cdd79446147",
+      "title": "45歲女抗老吃養顏補品5年 子宮肌瘤瘋長至8cm 醫生警告：亂補恐誘發子宮內膜癌/乳癌",
+      "published": "2026-08-05T03:00:00+00:00",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxOZm1DNlVzcWVSeDU1MFFLY3p2Y250UU5NcXFBN0c4VjRmMmpqTDRNRUpmT1JlNXdpVEd4NGpHVlRPYVpTRFpENEllU0EyeEtic3JCaDJyMl9yOFpTUnF0dE5YWEVaOTg2YWJhSmh2TGNLbHVoQjloZ0dlcjRiZFpiU0xhSmg3X2ZYZWozUFEtMUFKeDJta29hQXN4bFlERURQNjVGR3B6bmFfdE9UUWVIZDlIMlJzeHN2RTYwWHJpOGo2a1o5VmZ4UGJjU0ZicGtkTnVEVWMwbkswWU1wM1p4ZzVBMG1vMlA4NG9mdlF3SnJSTW83ZXJRa1pQaW9SaUxmYTZrSkllWlZ2WU03dVBaTmZVNkY2WjM5OHRLaFM5UjNZNjFFNkMyekNhZ19pcW9BUEdlTXZhbEllLTVtZHgwV2lqaHgzSlFGelBiM0lQV1BoS0trbk4yME9tVmg2d0QtWVg1MWMxYjhvNWxISHlURmt6NVBhMnVIMVl2TF9DZ2RhbVZUaUt5ZVk3Rk5uQklfenM1YTJKSHZqU0dTcGxSR2h1dDVaZURpeXFoUGhFUXZIMWViMVhReVplYU81akVRUlVtbHlzS2t0Q2E3am50YkdDNUFzS21maXJ5MEZ4X3J6bUs2VmozNlFYbDNVYlEyTWc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "子宮內膜癌",
+          "keyword": "子宮內膜癌",
+          "related_drugs": [
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "74fcb6e94aed",
       "title": "癌症醫師防癌佳句：這一切都將成為過去！",
-      "published": "2026-08-04T03:57:05+00:00",
+      "published": "2026-08-04T08:12:00+00:00",
       "sources": [
         {
           "name": "新唐人電視台",
@@ -211,13 +387,13 @@
       ]
     },
     {
-      "id": "831dd2980b80",
-      "title": "阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險",
-      "published": "2026-08-04T03:03:57+00:00",
+      "id": "e2261a4e467a",
+      "title": "阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險 | 信傳媒 - LINE TODAY",
+      "published": "2026-08-04T03:31:34+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOaGNsX3RNdUtFU0FUN044V1hDRE1Qc2dzaUNsZWtaNHdSaG5sYmJGalRpQUwxWnZqUHBXcllGMU00YXhwbmljWnl2YnVvUF9WV2JfckNOblBZd1FfSEctWVhpM3JKdGVxZTRpTUJMU0tTYlNOcDljdTFxaGdaSUd3MGZJblduQXRxcFZRd2hyZjl1dGNJaVlBdGhvVnlJX1JXRmRVM2NHams3bzRFdXpVb0xJQTNWTlAxUFN2cGtzZkpubUFZaE5laDlfYm5BMm5rWDZTdlRZX1Z3WFNCVTNwNnZSTVdJZVduTEtLRm9SU1RyMGpjY2YyZS14dld4MmM2bDFrVVFad2xWVl9NWVVEWGdJaGF2a0NxZDFCcjlfWEZCeE9WZ2d0MkIzQVVsMkg3a1R6b0NfRzhhUHVNQ0pCY0tfWjctc1ZrXzlyM1g1SkRZLU5zaXZqWFVhRzV3ZUN6TVhnOFdZd05TRHBGS1J3Wk1yVFA3MXFsSDA4ckk2WFlaUmlZY250SnZPYXFtZDlSWVJ5YlJfWl9pOFJ4NTJzLW02MUJFSkU0Rk1YUk5NbnlzYnlJbXB6VUxYXzJfQVNkR1pVUllPUzZlWUM0MkdMVUtEd25OQnBpWTFkU2NYMDRCaWRH?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rajNkdFY5akR5cVJWQVpyMG9tTzdlX1hWZThkSXFqdThkbFRMSmtmQ292YkVXUTY1ajNxNmFjREpMQVBtU2VXcEZxUEN5a1BwR3gtQVJB?oc=5"
         }
       ],
       "keywords": [

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智症（dementia） 相關新聞"
+title: "阿茲海默症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智症（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "阿茲海默症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智症（dementia） 相關新聞
+# 阿茲海默症（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
-<strong>失智症（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="阿茲海默症（dementia） 有什麼相關新聞？">
+<strong>阿茲海默症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,13 +29,21 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險](https://news.google.com/rss/articles/CBMi5ANBVV95cUxOaGNsX3RNdUtFU0FUN044V1hDRE1Qc2dzaUNsZWtaNHdSaG5sYmJGalRpQUwxWnZqUHBXcllGMU00YXhwbmljWnl2YnVvUF9WV2JfckNOblBZd1FfSEctWVhpM3JKdGVxZTRpTUJMU0tTYlNOcDljdTFxaGdaSUd3MGZJblduQXRxcFZRd2hyZjl1dGNJaVlBdGhvVnlJX1JXRmRVM2NHams3bzRFdXpVb0xJQTNWTlAxUFN2cGtzZkpubUFZaE5laDlfYm5BMm5rWDZTdlRZX1Z3WFNCVTNwNnZSTVdJZVduTEtLRm9SU1RyMGpjY2YyZS14dld4MmM2bDFrVVFad2xWVl9NWVVEWGdJaGF2a0NxZDFCcjlfWEZCeE9WZ2d0MkIzQVVsMkg3a1R6b0NfRzhhUHVNQ0pCY0tfWjctc1ZrXzlyM1g1SkRZLU5zaXZqWFVhRzV3ZUN6TVhnOFdZd05TRHBGS1J3Wk1yVFA3MXFsSDA4ckk2WFlaUmlZY250SnZPYXFtZDlSWVJ5YlJfWl9pOFJ4NTJzLW02MUJFSkU0Rk1YUk5NbnlzYnlJbXB6VUxYXzJfQVNkR1pVUllPUzZlWUM0MkdMVUtEd25OQnBpWTFkU2NYMDRCaWRH?oc=5)
+### [健康網》血糖正常也中招！網紅醫：阿茲海默症恐是大腦糖尿病](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QdW80SE0xNkE1LVUtQThnVGJmT1JuWFRZVUUtUXRSRlRJNzVYWW5UZTRBYUNESXY5UGtlaTlJb1R1QVBGT3RuTmxQS3BFV0RRY0wyUnJVMGxkaERzaU1wemRpczA?oc=5)
+
+2026-08-05
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QdW80SE0xNkE1LVUtQThnVGJmT1JuWFRZVUUtUXRSRlRJNzVYWW5UZTRBYUNESXY5UGtlaTlJb1R1QVBGT3RuTmxQS3BFV0RRY0wyUnJVMGxkaERzaU1wemRpczA?oc=5)
+
+---
+
+### [阿茲海默症不只健忘、憂鬱恐是早期警訊...精神科醫：4大策略降低失智與憂鬱風險 | 信傳媒 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rajNkdFY5akR5cVJWQVpyMG9tTzdlX1hWZThkSXFqdThkbFRMSmtmQ292YkVXUTY1ajNxNmFjREpMQVBtU2VXcEZxUEN5a1BwR3gtQVJB?oc=5)
 
 2026-08-04
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi5ANBVV95cUxOaGNsX3RNdUtFU0FUN044V1hDRE1Qc2dzaUNsZWtaNHdSaG5sYmJGalRpQUwxWnZqUHBXcllGMU00YXhwbmljWnl2YnVvUF9WV2JfckNOblBZd1FfSEctWVhpM3JKdGVxZTRpTUJMU0tTYlNOcDljdTFxaGdaSUd3MGZJblduQXRxcFZRd2hyZjl1dGNJaVlBdGhvVnlJX1JXRmRVM2NHams3bzRFdXpVb0xJQTNWTlAxUFN2cGtzZkpubUFZaE5laDlfYm5BMm5rWDZTdlRZX1Z3WFNCVTNwNnZSTVdJZVduTEtLRm9SU1RyMGpjY2YyZS14dld4MmM2bDFrVVFad2xWVl9NWVVEWGdJaGF2a0NxZDFCcjlfWEZCeE9WZ2d0MkIzQVVsMkg3a1R6b0NfRzhhUHVNQ0pCY0tfWjctc1ZrXzlyM1g1SkRZLU5zaXZqWFVhRzV3ZUN6TVhnOFdZd05TRHBGS1J3Wk1yVFA3MXFsSDA4ckk2WFlaUmlZY250SnZPYXFtZDlSWVJ5YlJfWl9pOFJ4NTJzLW02MUJFSkU0Rk1YUk5NbnlzYnlJbXB6VUxYXzJfQVNkR1pVUllPUzZlWUM0MkdMVUtEd25OQnBpWTFkU2NYMDRCaWRH?oc=5)
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rajNkdFY5akR5cVJWQVpyMG9tTzdlX1hWZThkSXFqdThkbFRMSmtmQ292YkVXUTY1ajNxNmFjREpMQVBtU2VXcEZxUEN5a1BwR3gtQVJB?oc=5)
 
 ---
 
