@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/paclitaxel/
 <li><strong>原適應症</strong>：卵巢癌、乳癌、非小細胞肺癌、胃癌、食道癌、頭頸癌、膀胱癌、子宮頸癌</li>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（100.0%）</li>
 <li>estrogen-receptor negative breast cancer（99.9%）</li>
 <li>hormone-resistant breast carcinoma（99.9%）</li>
 <li>estrogen-receptor positive breast cancer（99.9%）</li>
@@ -42,7 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
 ### [癌症醫師防癌佳句：這一切都將成為過去！](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FUXZhU1RESWdELUY2MzhDZFA3ZVk0WEpRakJubnRSSmZnalhzYmtUbnV3Y3l4TEtEWllsV3R2OTBqWUZnclg3eXpKWGYtcXlnckEtbzVwdDZZOWRNV2ZXbdIBZkFVX3lxTE1QV1lrTGQwTGFQemJ0aEZ2aFVvcUhwTXNLZVlHRV9nT3laR3Z0bmluRndMTVlqN3ZsRDhzZkhQQnBnOTBuOGFSX3FqUGxMR0ZFRWc5N0stUG00Qjh6ckJPbjRnNzlKQQ?oc=5)
 
@@ -56,23 +56,7 @@ permalink: /news/paclitaxel/
 
 2026-08-04 <span class="news-indication-tag">停經</span> <span class="news-indication-tag">子宮內膜癌</span>
 
-來源：[thebetteraging.businesstoday.com.tw](https://news.google.com/rss/articles/CBMie0FVX3lxTE9ldFZmdkdmTW82TVlWTnNLSVc1amMwU0RWMUVpUkVMRFVoVFdkNHdSa0pxOTNBd1Z3WC1Sa29hUmVNWmlUemk0amdibEthZmJKNTE1dGlTVkx5WkRzVVpmNHRwNkJJNnY1b1hBTmhESmtqSi1DaWw5d1dydw?oc=5)
-
----
-
-### [不只瘦身！減重手術可降乳癌風險 死亡風險最高降63％ - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE14YUpYbjJ2b0Z4dFhtZjdEMzQ3NTNKNzRCSTU2N0JycDdzbWU5SHZqTF81SlZJWWZ6elZKSmxBWE1GZUwybVRxb0o5M3h4V2oyQWc?oc=5)
-
-2026-08-03 <span class="news-indication-tag">乳癌</span>
-
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE14YUpYbjJ2b0Z4dFhtZjdEMzQ3NTNKNzRCSTU2N0JycDdzbWU5SHZqTF81SlZJWWZ6elZKSmxBWE1GZUwybVRxb0o5M3h4V2oyQWc?oc=5)
-
----
-
-### [乳癌確診後怎麼吃？醫師推4營養素打造「抗癌好體質」肥胖型乳癌要補充它 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aUEphckxOdFg4VGZ2bXlIaXlUUW1VYWRnOGtlNkNNaFdNMld1OE5Dek9Md0gweXh1OU4yUWNFVTY0SmdpZTFkQ1pneGRtdlFSSWc?oc=5)
-
-2026-08-03 <span class="news-indication-tag">乳癌</span>
-
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aUEphckxOdFg4VGZ2bXlIaXlUUW1VYWRnOGtlNkNNaFdNMld1OE5Dek9Md0gweXh1OU4yUWNFVTY0SmdpZTFkQ1pneGRtdlFSSWc?oc=5)
+來源：[幸福熟齡](https://news.google.com/rss/articles/CBMie0FVX3lxTE9ldFZmdkdmTW82TVlWTnNLSVc1amMwU0RWMUVpUkVMRFVoVFdkNHdSa0pxOTNBd1Z3WC1Sa29hUmVNWmlUemk0amdibEthZmJKNTE1dGlTVkx5WkRzVVpmNHRwNkJJNnY1b1hBTmhESmtqSi1DaWw5d1dydw?oc=5)
 
 ---
 

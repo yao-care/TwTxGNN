@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/hydroxyurea/
 <li><strong>原適應症</strong>：慢性骨髓性白血病、骨髓纖維化、真性紅血球增多症、卵巢癌、頭頸癌</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（100.0%）</li>
 <li>sickle cell-hemoglobin E disease syndrome（99.7%）</li>
 <li>sickle cell-hemoglobin c disease syndrome（99.7%）</li>
 <li>hereditary persistence of fetal hemoglobin-sickle cell disease syndrome（99.7%）</li>
@@ -42,37 +42,13 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [年輕人群結腸癌發病率上升 瑪摩利醫療中心華裔醫生分享注意事項](https://news.google.com/rss/articles/CBMigAFBVV95cUxPVHpyVWlzV0Fab2VFSE51c0V4NkRNYWxoeWVkZkVnSkhQaXRoWGhncjF0Q01rOE9YdEJGc0RQeENpNzFGcWtWOE81TlVMcDZSMVpwMHY0Wk1IeDhTQk1sYk1MQTR2TnFzcEIzbWtiaE9mVFJseklybmZOdUpzazhGbg?oc=5)
-
-2026-08-04 <span class="news-indication-tag">結腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[Singtaousa](https://news.google.com/rss/articles/CBMigAFBVV95cUxPVHpyVWlzV0Fab2VFSE51c0V4NkRNYWxoeWVkZkVnSkhQaXRoWGhncjF0Q01rOE9YdEJGc0RQeENpNzFGcWtWOE81TlVMcDZSMVpwMHY0Wk1IeDhTQk1sYk1MQTR2TnFzcEIzbWtiaE9mVFJseklybmZOdUpzazhGbg?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [癌症醫師防癌佳句：這一切都將成為過去！](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FUXZhU1RESWdELUY2MzhDZFA3ZVk0WEpRakJubnRSSmZnalhzYmtUbnV3Y3l4TEtEWllsV3R2OTBqWUZnclg3eXpKWGYtcXlnckEtbzVwdDZZOWRNV2ZXbdIBZkFVX3lxTE1QV1lrTGQwTGFQemJ0aEZ2aFVvcUhwTXNLZVlHRV9nT3laR3Z0bmluRndMTVlqN3ZsRDhzZkhQQnBnOTBuOGFSX3FqUGxMR0ZFRWc5N0stUG00Qjh6ckJPbjRnNzlKQQ?oc=5)
 
 2026-08-04 <span class="news-indication-tag">癌症</span>
 
 來源：[新唐人電視台](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FUXZhU1RESWdELUY2MzhDZFA3ZVk0WEpRakJubnRSSmZnalhzYmtUbnV3Y3l4TEtEWllsV3R2OTBqWUZnclg3eXpKWGYtcXlnckEtbzVwdDZZOWRNV2ZXbdIBZkFVX3lxTE1QV1lrTGQwTGFQemJ0aEZ2aFVvcUhwTXNLZVlHRV9nT3laR3Z0bmluRndMTVlqN3ZsRDhzZkhQQnBnOTBuOGFSX3FqUGxMR0ZFRWc5N0stUG00Qjh6ckJPbjRnNzlKQQ?oc=5)
-
----
-
-### [不只瘦身！減重手術可降乳癌風險 死亡風險最高降63％ - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE14YUpYbjJ2b0Z4dFhtZjdEMzQ3NTNKNzRCSTU2N0JycDdzbWU5SHZqTF81SlZJWWZ6elZKSmxBWE1GZUwybVRxb0o5M3h4V2oyQWc?oc=5)
-
-2026-08-03 <span class="news-indication-tag">乳癌</span>
-
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE14YUpYbjJ2b0Z4dFhtZjdEMzQ3NTNKNzRCSTU2N0JycDdzbWU5SHZqTF81SlZJWWZ6elZKSmxBWE1GZUwybVRxb0o5M3h4V2oyQWc?oc=5)
-
----
-
-### [乳癌確診後怎麼吃？醫師推4營養素打造「抗癌好體質」肥胖型乳癌要補充它 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aUEphckxOdFg4VGZ2bXlIaXlUUW1VYWRnOGtlNkNNaFdNMld1OE5Dek9Md0gweXh1OU4yUWNFVTY0SmdpZTFkQ1pneGRtdlFSSWc?oc=5)
-
-2026-08-03 <span class="news-indication-tag">乳癌</span>
-
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aUEphckxOdFg4VGZ2bXlIaXlUUW1VYWRnOGtlNkNNaFdNMld1OE5Dek9Md0gweXh1OU4yUWNFVTY0SmdpZTFkQ1pneGRtdlFSSWc?oc=5)
 
 ---
 
