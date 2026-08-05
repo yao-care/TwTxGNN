@@ -43,14 +43,6 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（3 則）
 
-### [健康網》血糖正常也中招！網紅醫：阿茲海默症恐是大腦糖尿病](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QdW80SE0xNkE1LVUtQThnVGJmT1JuWFRZVUUtUXRSRlRJNzVYWW5UZTRBYUNESXY5UGtlaTlJb1R1QVBGT3RuTmxQS3BFV0RRY0wyUnJVMGxkaERzaU1wemRpczA?oc=5)
-
-2026-08-05 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QdW80SE0xNkE1LVUtQThnVGJmT1JuWFRZVUUtUXRSRlRJNzVYWW5UZTRBYUNESXY5UGtlaTlJb1R1QVBGT3RuTmxQS3BFV0RRY0wyUnJVMGxkaERzaU1wemRpczA?oc=5)
-
----
-
 ### [維他命D益處多 適量攝取保障健康](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQaWZEOW5YeVB5dENWVHoxRGJscTEtZzVzSEdvczdwMFdKbUdYcEQ5XzRLdnVhSXJpTEVsS2pYU3V0aVRfX0R2azJhejc4MnhfaVB6NWpmZnZPRDh4aVFGRTBGNFA0TF9BbkE5bXpLeWROd2w1aHJ2MXVJYnR3OXVoWDYtRXRLUWNDcFAwTkJmLTViWWxGVG9Ia1BqalctcUEyWXhzQUtCMmV3QkJoOG9MY3VsY0pEVHRJdkFzNzNuY2FtRFFyTFBRZzNCZU0zZ0VYbzIwTGdJTWswdmpReFBTY3VRUDhMREJhUldjcXJCRTF4TjF3SXZNb09McHdzZw?oc=5)
 
 2026-08-05 <span class="news-indication-tag">阿茲海默症</span>
@@ -64,6 +56,14 @@ permalink: /news/gefitinib/
 2026-08-04 <span class="news-indication-tag">癌症</span>
 
 來源：[新唐人電視台](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FUXZhU1RESWdELUY2MzhDZFA3ZVk0WEpRakJubnRSSmZnalhzYmtUbnV3Y3l4TEtEWllsV3R2OTBqWUZnclg3eXpKWGYtcXlnckEtbzVwdDZZOWRNV2ZXbdIBZkFVX3lxTE1QV1lrTGQwTGFQemJ0aEZ2aFVvcUhwTXNLZVlHRV9nT3laR3Z0bmluRndMTVlqN3ZsRDhzZkhQQnBnOTBuOGFSX3FqUGxMR0ZFRWc5N0stUG00Qjh6ckJPbjRnNzlKQQ?oc=5)
+
+---
+
+### [血糖正常≠沒事！醫曝2類人胰臟快不行了糖尿病默默上身- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE5FdVVwR0I2Q1dkVkIyM3l4UGxrbUU2RWZKajBqUHNtLXktdkhMd05xX2o5RUVreFFUZ1ZaajRiQUc3OHk0WUJUY0RsSE9qaG1mQUVTMEdmbU9KUHNmdzF0ZHV5dzUwUWh2clV5dWRR?oc=5)
+
+2026-08-04 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5FdVVwR0I2Q1dkVkIyM3l4UGxrbUU2RWZKajBqUHNtLXktdkhMd05xX2o5RUVreFFUZ1ZaajRiQUc3OHk0WUJUY0RsSE9qaG1mQUVTMEdmbU9KUHNmdzF0ZHV5dzUwUWh2clV5dWRR?oc=5)
 
 ---
 

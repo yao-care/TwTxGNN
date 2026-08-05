@@ -1,14 +1,42 @@
 {
-  "generated": "2026-08-05T22:10:37.081963+00:00",
-  "count": 6,
+  "generated": "2026-08-05T23:50:57.047801+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "04fe2ab19243",
+      "id": "ed7a6be818e1",
+      "title": "醫晴醫情｜丙型肝炎病毒誘發淋巴癌",
+      "published": "2026-08-05T23:00:00+00:00",
+      "sources": [
+        {
+          "name": "topick.hket.com",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNa2xNZlpmYnVWb2xjaHZLREdGZGhYd2t3QWw0TFZqc0ZZZUxOYWRhVVRqUUY3WjB1STNkb2Q4QTlQNTFEUVFubGZGWHVQWWRmbTIzRTkzd3lTZm4wZ2R5SmhmYzEwSTUwMG16aWxRblhMLXlVNm9YS0hTLU9YY2pMa3dVTGdjZnJsOXpaMmhmTmpkNkxRZGxYZUpubmVOVjREbGkwb1V3b0xuMTNIeHpKMWRwNTdDcGdjNjdXbnA2WDN0bUpiQklFVkRYYWhuZ1pRZ0NSVlRoZ3VDeWMwUldnYS1YU2JBVDRna0lWNjU2eVR3eG9CaGNGbFgxcV83a0FmNW1MejltcS1IWjlUY2hraURQZzVQVTY0WFloc2Yzcw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "primary cutaneous B-cell lymphoma",
+          "keyword": "淋巴癌",
+          "related_drugs": [
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fee1415ab70a",
       "title": "大腸癌｜無便秘亦可能中招？專家拆解2大致癌壞習慣",
       "published": "2026-08-05T08:20:24+00:00",
       "sources": [
         {
-          "name": "tvb.com",
+          "name": "TVB",
           "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPblNzaTBRb3dWSmppMlQydkRFUEZpS2NaRWFUcFlOd3RTMkVMUEltSTd0TFpPemxNeVVxaWlIU01wYlZHenVqbl9EUWd0ZzZuSzRVU2V6QWZEcTVZcWlVYjB5UVhfQWlRWUNTMmRyME9GRU5kWTR1bS1hQnFNb0IxNkR2b0F3SzQteDJ3dFNsQl9jZnNFYUxCcXIybi05VHR6MVZUcjVHcXZyQWxTNFhjdC1CelYxUHFfdFV3LW1jTDN6aHdtRllWOFE3eGpVNzlsQ1I3d3BLNVRTVVNmTmM1LVdLWkVPVXBoZHZPNHk3ZWZxNGFqMmtqQXE2X0JJY2FUTThtaHI4UFg3TE94VGNSSW03eDRXUWwtaXJRWVVyNXFLUUg2Umg1WnR6VlJVME5uQnNqUlAwYnBKX3l5LTYwZFZ6U1Z4VThyT2dwQlQyeXo3UQ?oc=5"
         }
       ],
@@ -61,41 +89,6 @@
       ]
     },
     {
-      "id": "b966d6a9d3b7",
-      "title": "健康網》血糖正常也中招！網紅醫：阿茲海默症恐是大腦糖尿病",
-      "published": "2026-08-05T06:39:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QdW80SE0xNkE1LVUtQThnVGJmT1JuWFRZVUUtUXRSRlRJNzVYWW5UZTRBYUNESXY5UGtlaTlJb1R1QVBGT3RuTmxQS3BFV0RRY0wyUnJVMGxkaERzaU1wemRpczA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "828bff69154f",
       "title": "維他命D益處多 適量攝取保障健康",
       "published": "2026-08-05T05:02:12+00:00",
@@ -120,12 +113,12 @@
       ]
     },
     {
-      "id": "40bca0994c0a",
+      "id": "5cdd79446147",
       "title": "45歲女抗老吃養顏補品5年 子宮肌瘤瘋長至8cm 醫生警告：亂補恐誘發子宮內膜癌/乳癌",
       "published": "2026-08-05T03:00:00+00:00",
       "sources": [
         {
-          "name": "stheadline.com",
+          "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxOZm1DNlVzcWVSeDU1MFFLY3p2Y250UU5NcXFBN0c4VjRmMmpqTDRNRUpmT1JlNXdpVEd4NGpHVlRPYVpTRFpENEllU0EyeEtic3JCaDJyMl9yOFpTUnF0dE5YWEVaOTg2YWJhSmh2TGNLbHVoQjloZ0dlcjRiZFpiU0xhSmg3X2ZYZWozUFEtMUFKeDJta29hQXN4bFlERURQNjVGR3B6bmFfdE9UUWVIZDlIMlJzeHN2RTYwWHJpOGo2a1o5VmZ4UGJjU0ZicGtkTnVEVWMwbkswWU1wM1p4ZzVBMG1vMlA4NG9mdlF3SnJSTW83ZXJRa1pQaW9SaUxmYTZrSkllWlZ2WU03dVBaTmZVNkY2WjM5OHRLaFM5UjNZNjFFNkMyekNhZ19pcW9BUEdlTXZhbEllLTVtZHgwV2lqaHgzSlFGelBiM0lQV1BoS0trbk4yME9tVmg2d0QtWVg1MWMxYjhvNWxISHlURmt6NVBhMnVIMVl2TF9DZ2RhbVZUaUt5ZVk3Rk5uQklfenM1YTJKSHZqU0dTcGxSR2h1dDVaZURpeXFoUGhFUXZIMWViMVhReVplYU81akVRUlVtbHlzS2t0Q2E3am50YkdDNUFzS21maXJ5MEZ4X3J6bUs2VmozNlFYbDNVYlEyTWc?oc=5"
         }
       ],
@@ -381,6 +374,41 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cadace95baaf",
+      "title": "血糖正常≠沒事！醫曝2類人胰臟快不行了糖尿病默默上身- 健康",
+      "published": "2026-08-04T02:28:20+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FdVVwR0I2Q1dkVkIyM3l4UGxrbUU2RWZKajBqUHNtLXktdkhMd05xX2o5RUVreFFUZ1ZaajRiQUc3OHk0WUJUY0RsSE9qaG1mQUVTMEdmbU9KUHNmdzF0ZHV5dzUwUWh2clV5dWRR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
