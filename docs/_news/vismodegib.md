@@ -44,11 +44,11 @@ permalink: /news/vismodegib/
 
 ## 相關新聞（2 則）
 
-### [皮膚癌位列新發個案第七位 籲做好避遮塗防曬](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNemhZLXQ1YVRmY3ZqRlFRdEsydGJzNDBYNmp3aXlLWTFBRXRXUG9XaGJkQmt0endnZkhIN0czUno1M2NDUmk3ZDZ2UnF2T1FTMEV6MzhR?oc=5)
+### [​皮膚癌新發個案十年趨升 衛生局推社區快閃科普](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CS3lUbWk1dVRfV1B6dXNmSFN5ZlFVaE1YSF9neWNwaGg1OS1pVDJGcFZvclhlY1ZoREw0Yk1ONjdGZU5yLXVvRk0yRFkxYUZWdnQyTHFDVkJkMjR5c1U3eQ?oc=5)
 
 2026-08-05 <span class="news-indication-tag">皮膚癌</span>
 
-來源：[大衆報](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNemhZLXQ1YVRmY3ZqRlFRdEsydGJzNDBYNmp3aXlLWTFBRXRXUG9XaGJkQmt0endnZkhIN0czUno1M2NDUmk3ZDZ2UnF2T1FTMEV6MzhR?oc=5)
+來源：[濠江日報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CS3lUbWk1dVRfV1B6dXNmSFN5ZlFVaE1YSF9neWNwaGg1OS1pVDJGcFZvclhlY1ZoREw0Yk1ONjdGZU5yLXVvRk0yRFkxYUZWdnQyTHFDVkJkMjR5c1U3eQ?oc=5)
 
 ---
 

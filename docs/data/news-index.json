@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-05T10:26:30.255658+00:00",
-  "count": 7,
+  "generated": "2026-08-05T12:47:33.164623+00:00",
+  "count": 8,
   "news": [
     {
       "id": "fee1415ab70a",
@@ -61,13 +61,13 @@
       ]
     },
     {
-      "id": "f77c64fffdea",
-      "title": "皮膚癌位列新發個案第七位 籲做好避遮塗防曬",
-      "published": "2026-08-05T08:10:47+00:00",
+      "id": "8db2c2f3d3ce",
+      "title": "​皮膚癌新發個案十年趨升 衛生局推社區快閃科普",
+      "published": "2026-08-05T08:19:53+00:00",
       "sources": [
         {
-          "name": "大衆報",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNemhZLXQ1YVRmY3ZqRlFRdEsydGJzNDBYNmp3aXlLWTFBRXRXUG9XaGJkQmt0endnZkhIN0czUno1M2NDUmk3ZDZ2UnF2T1FTMEV6MzhR?oc=5"
+          "name": "濠江日報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CS3lUbWk1dVRfV1B6dXNmSFN5ZlFVaE1YSF9neWNwaGg1OS1pVDJGcFZvclhlY1ZoREw0Yk1ONjdGZU5yLXVvRk0yRFkxYUZWdnQyTHFDVkJkMjR5c1U3eQ?oc=5"
         }
       ],
       "keywords": [
@@ -92,6 +92,41 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QdW80SE0xNkE1LVUtQThnVGJmT1JuWFRZVUUtUXRSRlRJNzVYWW5UZTRBYUNESXY5UGtlaTlJb1R1QVBGT3RuTmxQS3BFV0RRY0wyUnJVMGxkaERzaU1wemRpczA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "828bff69154f",
+      "title": "維他命D益處多 適量攝取保障健康",
+      "published": "2026-08-05T05:02:12+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQaWZEOW5YeVB5dENWVHoxRGJscTEtZzVzSEdvczdwMFdKbUdYcEQ5XzRLdnVhSXJpTEVsS2pYU3V0aVRfX0R2azJhejc4MnhfaVB6NWpmZnZPRDh4aVFGRTBGNFA0TF9BbkE5bXpLeWROd2w1aHJ2MXVJYnR3OXVoWDYtRXRLUWNDcFAwTkJmLTViWWxGVG9Ia1BqalctcUEyWXhzQUtCMmV3QkJoOG9MY3VsY0pEVHRJdkFzNzNuY2FtRFFyTFBRZzNCZU0zZ0VYbzIwTGdJTWswdmpReFBTY3VRUDhMREJhUldjcXJCRTF4TjF3SXZNb09McHdzZw?oc=5"
         }
       ],
       "keywords": [
