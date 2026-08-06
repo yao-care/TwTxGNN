@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [大腸癌｜無便秘亦可能中招？專家拆解2大致癌壞習慣](https://news.google.com/rss/articles/CBMi0gJBVV95cUxPblNzaTBRb3dWSmppMlQydkRFUEZpS2NaRWFUcFlOd3RTMkVMUEltSTd0TFpPemxNeVVxaWlIU01wYlZHenVqbl9EUWd0ZzZuSzRVU2V6QWZEcTVZcWlVYjB5UVhfQWlRWUNTMmRyME9GRU5kWTR1bS1hQnFNb0IxNkR2b0F3SzQteDJ3dFNsQl9jZnNFYUxCcXIybi05VHR6MVZUcjVHcXZyQWxTNFhjdC1CelYxUHFfdFV3LW1jTDN6aHdtRllWOFE3eGpVNzlsQ1I3d3BLNVRTVVNmTmM1LVdLWkVPVXBoZHZPNHk3ZWZxNGFqMmtqQXE2X0JJY2FUTThtaHI4UFg3TE94VGNSSW03eDRXUWwtaXJRWVVyNXFLUUg2Umg1WnR6VlJVME5uQnNqUlAwYnBKX3l5LTYwZFZ6U1Z4VThyT2dwQlQyeXo3UQ?oc=5)
-
-2026-08-05 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">氣喘</span>
-
-來源：[TVB](https://news.google.com/rss/articles/CBMi0gJBVV95cUxPblNzaTBRb3dWSmppMlQydkRFUEZpS2NaRWFUcFlOd3RTMkVMUEltSTd0TFpPemxNeVVxaWlIU01wYlZHenVqbl9EUWd0ZzZuSzRVU2V6QWZEcTVZcWlVYjB5UVhfQWlRWUNTMmRyME9GRU5kWTR1bS1hQnFNb0IxNkR2b0F3SzQteDJ3dFNsQl9jZnNFYUxCcXIybi05VHR6MVZUcjVHcXZyQWxTNFhjdC1CelYxUHFfdFV3LW1jTDN6aHdtRllWOFE3eGpVNzlsQ1I3d3BLNVRTVVNmTmM1LVdLWkVPVXBoZHZPNHk3ZWZxNGFqMmtqQXE2X0JJY2FUTThtaHI4UFg3TE94VGNSSW03eDRXUWwtaXJRWVVyNXFLUUg2Umg1WnR6VlJVME5uQnNqUlAwYnBKX3l5LTYwZFZ6U1Z4VThyT2dwQlQyeXo3UQ?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [45歲女抗老吃養顏補品5年 子宮肌瘤瘋長至8cm 醫生警告：亂補恐誘發子宮內膜癌/乳癌](https://news.google.com/rss/articles/CBMi8gNBVV95cUxOZm1DNlVzcWVSeDU1MFFLY3p2Y250UU5NcXFBN0c4VjRmMmpqTDRNRUpmT1JlNXdpVEd4NGpHVlRPYVpTRFpENEllU0EyeEtic3JCaDJyMl9yOFpTUnF0dE5YWEVaOTg2YWJhSmh2TGNLbHVoQjloZ0dlcjRiZFpiU0xhSmg3X2ZYZWozUFEtMUFKeDJta29hQXN4bFlERURQNjVGR3B6bmFfdE9UUWVIZDlIMlJzeHN2RTYwWHJpOGo2a1o5VmZ4UGJjU0ZicGtkTnVEVWMwbkswWU1wM1p4ZzVBMG1vMlA4NG9mdlF3SnJSTW83ZXJRa1pQaW9SaUxmYTZrSkllWlZ2WU03dVBaTmZVNkY2WjM5OHRLaFM5UjNZNjFFNkMyekNhZ19pcW9BUEdlTXZhbEllLTVtZHgwV2lqaHgzSlFGelBiM0lQV1BoS0trbk4yME9tVmg2d0QtWVg1MWMxYjhvNWxISHlURmt6NVBhMnVIMVl2TF9DZ2RhbVZUaUt5ZVk3Rk5uQklfenM1YTJKSHZqU0dTcGxSR2h1dDVaZURpeXFoUGhFUXZIMWViMVhReVplYU81akVRUlVtbHlzS2t0Q2E3am50YkdDNUFzS21maXJ5MEZ4X3J6bUs2VmozNlFYbDNVYlEyTWc?oc=5)
 

@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-06T04:57:23.635651+00:00",
-  "count": 7,
+  "generated": "2026-08-06T07:35:57.802893+00:00",
+  "count": 5,
   "news": [
     {
       "id": "2b6e9521cc66",
@@ -38,12 +38,12 @@
       ]
     },
     {
-      "id": "f76ae354a6c0",
+      "id": "49404b7c74b0",
       "title": "55歲是子宮內膜癌發生最多年齡！停經後出血＝不正常，別再當「回春」…每年3檢查保命：早期治癒率達9成5",
       "published": "2026-08-06T01:27:38+00:00",
       "sources": [
         {
-          "name": "幸福熟齡",
+          "name": "thebetteraging.businesstoday.com.tw",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ldFZmdkdmTW82TVlWTnNLSVc1amMwU0RWMUVpUkVMRFVoVFdkNHdSa0pxOTNBd1Z3WC1Sa29hUmVNWmlUemk0amdibEthZmJKNTE1dGlTVkx5WkRzVVpmNHRwNkJJNnY1b1hBTmhESmtqSi1DaWw5d1dydw?oc=5"
         }
       ],
@@ -107,88 +107,6 @@
             {
               "slug": "clobetasone",
               "name": "Clobetasone"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "fee1415ab70a",
-      "title": "大腸癌｜無便秘亦可能中招？專家拆解2大致癌壞習慣",
-      "published": "2026-08-05T08:20:24+00:00",
-      "sources": [
-        {
-          "name": "TVB",
-          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPblNzaTBRb3dWSmppMlQydkRFUEZpS2NaRWFUcFlOd3RTMkVMUEltSTd0TFpPemxNeVVxaWlIU01wYlZHenVqbl9EUWd0ZzZuSzRVU2V6QWZEcTVZcWlVYjB5UVhfQWlRWUNTMmRyME9GRU5kWTR1bS1hQnFNb0IxNkR2b0F3SzQteDJ3dFNsQl9jZnNFYUxCcXIybi05VHR6MVZUcjVHcXZyQWxTNFhjdC1CelYxUHFfdFV3LW1jTDN6aHdtRllWOFE3eGpVNzlsQ1I3d3BLNVRTVVNmTmM1LVdLWkVPVXBoZHZPNHk3ZWZxNGFqMmtqQXE2X0JJY2FUTThtaHI4UFg3TE94VGNSSW03eDRXUWwtaXJRWVVyNXFLUUg2Umg1WnR6VlJVME5uQnNqUlAwYnBKX3l5LTYwZFZ6U1Z4VThyT2dwQlQyeXo3UQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "氣喘",
-          "keyword": "氣喘",
-          "related_drugs": [
-            {
-              "slug": "dupilumab",
-              "name": "Dupilumab"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "828bff69154f",
-      "title": "維他命D益處多 適量攝取保障健康",
-      "published": "2026-08-05T05:02:12+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQaWZEOW5YeVB5dENWVHoxRGJscTEtZzVzSEdvczdwMFdKbUdYcEQ5XzRLdnVhSXJpTEVsS2pYU3V0aVRfX0R2azJhejc4MnhfaVB6NWpmZnZPRDh4aVFGRTBGNFA0TF9BbkE5bXpLeWROd2w1aHJ2MXVJYnR3OXVoWDYtRXRLUWNDcFAwTkJmLTViWWxGVG9Ia1BqalctcUEyWXhzQUtCMmV3QkJoOG9MY3VsY0pEVHRJdkFzNzNuY2FtRFFyTFBRZzNCZU0zZ0VYbzIwTGdJTWswdmpReFBTY3VRUDhMREJhUldjcXJCRTF4TjF3SXZNb09McHdzZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

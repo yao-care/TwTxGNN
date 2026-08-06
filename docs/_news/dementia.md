@@ -3,7 +3,7 @@ layout: default
 title: "失智症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智症（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
-<strong>失智症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智症（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [45歲後做好3件事 研究：失智症平均可延後近13年 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pdmx5dWFEeWFxZEUwOUpmWGs1dTZ0d2pWZ3BQaVZCZzJzWG9vU1lwbk1PdHJ5SHBGMnExaHNrTGQ2bUJFX19aNW5heTZGY0VmMl9RbVpsWXQ?oc=5)
 
 2026-08-06
 
 來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pdmx5dWFEeWFxZEUwOUpmWGs1dTZ0d2pWZ3BQaVZCZzJzWG9vU1lwbk1PdHJ5SHBGMnExaHNrTGQ2bUJFX19aNW5heTZGY0VmMl9RbVpsWXQ?oc=5)
-
----
-
-### [維他命D益處多 適量攝取保障健康](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQaWZEOW5YeVB5dENWVHoxRGJscTEtZzVzSEdvczdwMFdKbUdYcEQ5XzRLdnVhSXJpTEVsS2pYU3V0aVRfX0R2azJhejc4MnhfaVB6NWpmZnZPRDh4aVFGRTBGNFA0TF9BbkE5bXpLeWROd2w1aHJ2MXVJYnR3OXVoWDYtRXRLUWNDcFAwTkJmLTViWWxGVG9Ia1BqalctcUEyWXhzQUtCMmV3QkJoOG9MY3VsY0pEVHRJdkFzNzNuY2FtRFFyTFBRZzNCZU0zZ0VYbzIwTGdJTWswdmpReFBTY3VRUDhMREJhUldjcXJCRTF4TjF3SXZNb09McHdzZw?oc=5)
-
-2026-08-05
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQaWZEOW5YeVB5dENWVHoxRGJscTEtZzVzSEdvczdwMFdKbUdYcEQ5XzRLdnVhSXJpTEVsS2pYU3V0aVRfX0R2azJhejc4MnhfaVB6NWpmZnZPRDh4aVFGRTBGNFA0TF9BbkE5bXpLeWROd2w1aHJ2MXVJYnR3OXVoWDYtRXRLUWNDcFAwTkJmLTViWWxGVG9Ia1BqalctcUEyWXhzQUtCMmV3QkJoOG9MY3VsY0pEVHRJdkFzNzNuY2FtRFFyTFBRZzNCZU0zZ0VYbzIwTGdJTWswdmpReFBTY3VRUDhMREJhUldjcXJCRTF4TjF3SXZNb09McHdzZw?oc=5)
 
 ---
 
