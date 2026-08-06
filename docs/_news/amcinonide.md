@@ -14,7 +14,7 @@ permalink: /news/amcinonide/
 ---
 
 <p class="key-answer" data-question="Amcinonide 有什麼相關新聞？">
-<strong>Amcinonide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 8 個。
+<strong>Amcinonide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 8 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ permalink: /news/amcinonide/
 <li>lichen planus pigmentosus（99.7%）</li>
 <li>hypertrophic lichen planus（99.7%）</li>
 <li>lichen planus pemphigoides（99.6%）</li>
-<li class="indication-matched">primary cutaneous B-cell lymphoma（99.4%）<span class="indication-tag">📰 淋巴癌</span></li>
+<li>primary cutaneous B-cell lymphoma（99.4%）</li>
 <li>dermatitis（99.3%）</li>
 <li>2-hydroxyethyl methacrylate sensitization（99.0%）</li>
 </ul></li>
@@ -40,15 +40,9 @@ permalink: /news/amcinonide/
 <p><a href="{{ '/drugs/amcinonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [醫晴醫情｜丙型肝炎病毒誘發淋巴癌](https://news.google.com/rss/articles/CBMikgJBVV95cUxNd2ZOSWl0SUJVZFkxNFUwaXRXMVZuNkFYUWx4OThrX3E0c1JhV192YmRYZUFneGxnRXAzckdYdURlOWQ3LUx4OHdBOGVKOEZTeWotYXlXNnZJZzdhSkdOenNrcEpibDFZbkV6ZU1ZUkZpNkdaNWFlU3p3S3hvYy1oVGNZbUlMVUNNYkdFX24wRVNBQ3pXdkdqVTMxQk9YeWJhWlhDTHp6bGV2TnR5WWRXWXlUdnVzbm9DaVN4ZjVmVVhQa3pnSjNfc1Y0RWt5S2x0R1RRLWFTNmxqUzkzRDdJdU5WMDR3TXUwUHp4OUFEd3lPOTRLYWRROV9MUGwzVnVoazFIOFRaTzgybFpiZEVtNGV3?oc=5)
-
-2026-08-05 <span class="news-indication-tag">淋巴癌</span>
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMikgJBVV95cUxNd2ZOSWl0SUJVZFkxNFUwaXRXMVZuNkFYUWx4OThrX3E0c1JhV192YmRYZUFneGxnRXAzckdYdURlOWQ3LUx4OHdBOGVKOEZTeWotYXlXNnZJZzdhSkdOenNrcEpibDFZbkV6ZU1ZUkZpNkdaNWFlU3p3S3hvYy1oVGNZbUlMVUNNYkdFX24wRVNBQ3pXdkdqVTMxQk9YeWJhWlhDTHp6bGV2TnR5WWRXWXlUdnVzbm9DaVN4ZjVmVVhQa3pnSjNfc1Y0RWt5S2x0R1RRLWFTNmxqUzkzRDdJdU5WMDR3TXUwUHp4OUFEd3lPOTRLYWRROV9MUGwzVnVoazFIOFRaTzgybFpiZEVtNGV3?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
