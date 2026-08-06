@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [45歲後做好3件事 研究：失智症平均可延後近13年 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pdmx5dWFEeWFxZEUwOUpmWGs1dTZ0d2pWZ3BQaVZCZzJzWG9vU1lwbk1PdHJ5SHBGMnExaHNrTGQ2bUJFX19aNW5heTZGY0VmMl9RbVpsWXQ?oc=5)
+
+2026-08-06 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+
+來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pdmx5dWFEeWFxZEUwOUpmWGs1dTZ0d2pWZ3BQaVZCZzJzWG9vU1lwbk1PdHJ5SHBGMnExaHNrTGQ2bUJFX19aNW5heTZGY0VmMl9RbVpsWXQ?oc=5)
+
+---
 
 ### [維他命D益處多 適量攝取保障健康](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQaWZEOW5YeVB5dENWVHoxRGJscTEtZzVzSEdvczdwMFdKbUdYcEQ5XzRLdnVhSXJpTEVsS2pYU3V0aVRfX0R2azJhejc4MnhfaVB6NWpmZnZPRDh4aVFGRTBGNFA0TF9BbkE5bXpLeWROd2w1aHJ2MXVJYnR3OXVoWDYtRXRLUWNDcFAwTkJmLTViWWxGVG9Ia1BqalctcUEyWXhzQUtCMmV3QkJoOG9MY3VsY0pEVHRJdkFzNzNuY2FtRFFyTFBRZzNCZU0zZ0VYbzIwTGdJTWswdmpReFBTY3VRUDhMREJhUldjcXJCRTF4TjF3SXZNb09McHdzZw?oc=5)
 

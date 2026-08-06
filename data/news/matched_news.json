@@ -1,8 +1,109 @@
 {
-  "last_updated": "2026-08-06T01:45:17.389943+00:00",
-  "total_count": 16,
-  "matched_count": 6,
+  "last_updated": "2026-08-06T04:57:23.604339+00:00",
+  "total_count": 19,
+  "matched_count": 7,
   "news": [
+    {
+      "id": "5dc72820a43a",
+      "title": "說好一起顧家，女生卻扛下更多家事：某些男人的「家事不對稱」現象，十分耐人尋味 - A Day Magazine",
+      "published": "2026-08-06T04:43:01+00:00",
+      "summary": "說好一起顧家，女生卻扛下更多家事：某些男人的「家事不對稱」現象，十分耐人尋味&nbsp;&nbsp;A Day Magazine",
+      "sources": [
+        {
+          "name": "A Day Magazine",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GcVNaYndTOEZYWGJSMFdQNjdwNy16d0Y5WnRQQmI5aXpjMUJISjJuYURxQlQzeThOejJubjlzWEZFYXdBaHU0SllNYWRZeFdJZThJenhaYmZaR3pvNzdBVEdnZUhEOS1jTmNUWG1BbGp6UzZ0bXgwRHlnVHc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "76c9094f1d32",
+      "title": "想改善「看起來很累」？陳律安醫師：抗老關鍵在輪廓支撐 海芙音波媚必提助找回自然精神感",
+      "published": "2026-08-06T04:40:00+00:00",
+      "summary": "想改善「看起來很累」？陳律安醫師：抗老關鍵在輪廓支撐 海芙音波媚必提助找回自然精神感&nbsp;&nbsp;壹蘋新聞網",
+      "sources": [
+        {
+          "name": "壹蘋新聞網",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEc0pJdWFlNS1ZM04xNUZLME5PeHJacDA4LW5yN0RLTng0NWEtSFFxUk9VbFJFZnJoTmRHLTR1MWpTYVY0eDhxSnNSWF9nYlNGbFd4OEE3cV9PbHp5cWdJTlNrcS1VczFaeXBKOHNQMVNRcENKRWZKa0xrbU51QQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2b6e9521cc66",
+      "title": "45歲後做好3件事 研究：失智症平均可延後近13年 - Taiwan News",
+      "published": "2026-08-06T04:35:00+00:00",
+      "summary": "45歲後做好3件事 研究：失智症平均可延後近13年&nbsp;&nbsp;Taiwan News",
+      "sources": [
+        {
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pdmx5dWFEeWFxZEUwOUpmWGs1dTZ0d2pWZ3BQaVZCZzJzWG9vU1lwbk1PdHJ5SHBGMnExaHNrTGQ2bUJFX19aNW5heTZGY0VmMl9RbVpsWXQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8abb91f23f1c",
+      "title": "守護骨本抗骨鬆！嘉榮醫半年一針助阿嬤穩健行走",
+      "published": "2026-08-06T04:03:12+00:00",
+      "summary": "守護骨本抗骨鬆！嘉榮醫半年一針助阿嬤穩健行走&nbsp;&nbsp;Yahoo健康網》只靠鈣片、維D恐沒用 研究揭防骨折真正有效3關鍵&nbsp;&nbsp;自由健康網40歲後身高縮水超過3公分嗎？小心脊椎沈默骨折正在發生中&nbsp;&nbsp;東森新聞骨質疏鬆不只找上老人！白、瘦、不曬太陽成高風險族群 醫師點名8大護骨營養素&nbsp;&nbsp;經濟日報天天吃麵包恐引發骨質疏鬆！醫提醒：高磷飲食才是隱形殺手，這3類食物少吃&nbsp;&nbsp;女人我最大",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQdGRKVTBlbVhfZnpjZnVhN2llY01KMjRBdGJoM1RvX3V2bUFUV3NlTE1ISTZEd0ZrX0lEVVplZUpxYUdKbHlIYlZPZjF6UjdZamw3c29TOG41THlPTFhLMHQ0YUxKbHJ3a2NTODFZSGZtNEhOei1RU3JXOHp1S1I5eDR6aURQTTM4d3A1bGFvWnBINS1IbVJtcjZXUVRmOWw3RkNiRTlxOGM4OHMxWTFpNlMzbkNfTGktdUJPSklWODhFclNUQjJaRU5KTnV5QURqYUEwdnoyU05iRnExMFJEcjNlVHo2U0FLUW1NT1Y5UE51TmxQN3NKNVNRbnlIWFJKVDZ2SFNtOExvMDRpWWlVOWE5MkhsNXZfamg0TFdYOHp6MDFyME9zSUlXRU9qU2M4LXJnR3VvaVRaMG5XTGtN?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "fb1a9d3b43f2",
+      "title": "癌細胞竟靠果糖互傳訊號 化療成功仍可能復發轉移",
+      "published": "2026-08-06T03:16:52+00:00",
+      "summary": "癌細胞竟靠果糖互傳訊號 化療成功仍可能復發轉移&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOLWtUeGNhWExrZ1c4UEFXbjdMY3MtUmh5bzZBOVNSNUJpUUVGOW1vVDhYVkRid1dNUTlKdkE5VXlIdzhhUHo5ckVIN1BBRzlEQlI2T3lWNWRyME5DcXh1X0xBU3cwbjVyVi1LTk91X2k4XzBaQmlPUl93UWs0RUtvc3FNcE1oN3hrR2pwNEg4bmkyNlB1ZHpuNjk3X1BGR1hhVks0YnBOdTNvSDE4MS1TMTlMb0lpbDRzdTh0bnZIQzd1dThua2cwRF9EMlNmNWRxTHphcjNqUU04OFAzTUZ3ZjRXcktnSmNVa0duUEQ1WGRHeGNoNkpFT1ZCQTJ1UURmZEJIZGxldG9adFFHcDlLRDIwVk5BUDZrZVBNc090S291VklqVHpWYU9HTld3bDA0NjI0cHI3eWZ6WnhGXzhaSzNCLVBwSU5qRURnM3VTUEY1b2p2MFlhN1BSeVY?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "55d7ddbe28b3",
+      "title": "印度古吉拉特爆金迪普拉病毒疫情 22名兒童感染死亡",
+      "published": "2026-08-06T03:11:26+00:00",
+      "summary": "印度古吉拉特爆金迪普拉病毒疫情 22名兒童感染死亡&nbsp;&nbsp;橙新聞",
+      "sources": [
+        {
+          "name": "橙新聞",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPNXNEeGNidUx0R0pFUUNLNXlDcDVxMlJmMUpVWDhkcXM4ekE3YlJwa3hrTE43NDR6RGpvR3dNRlJWcjBiM3FxeFk0bEdxVEdNLWktUXdkUGIzVldoSUR0emZzY0NQUDBYclVBRVVXeE0wVkdfQUpPeGE2R09ydDd5ZnRnUWRLSEpxOF82LUNmQWktNFI1Q3d3WXdVYkV4RHlmOHFrMU1hTjU2OGpBNk9NUjQxejE0NWdhbVdQTG1FZzYybVlyVk5MUXY1U2hqTFBhODJpaThsZ3pYRkwtbHl5RVRJZjQ0Zkc2NGVOLVg3bzlrM0IxZGpoRDZiNnZnVVZFWlJNcmVDOGVpMVRxdTRtQU5QOWN2ajRpMmx5MlJyaGJZZDhpd1NQM1JqcEpsVXNmUkdSdUlnelpNbjI5OWtLU2oxX0puNmlrY0dzLXNCZDQycmhPa0ZjeWhLWWJGaVJpb01YNXdOQmc4RzhFVlJ6Vw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "f76ae354a6c0",
       "title": "55歲是子宮內膜癌發生最多年齡！停經後出血＝不正常，別再當「回春」…每年3檢查保命：早期治癒率達9成5",
@@ -65,14 +166,14 @@
       "matched_keywords": []
     },
     {
-      "id": "149c26f7b528",
+      "id": "c20663097ac7",
       "title": "醫晴醫情｜丙型肝炎病毒誘發淋巴癌",
       "published": "2026-08-05T23:00:00+00:00",
       "summary": "醫晴醫情｜丙型肝炎病毒誘發淋巴癌&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNa2xNZlpmYnVWb2xjaHZLREdGZGhYd2t3QWw0TFZqc0ZZZUxOYWRhVVRqUUY3WjB1STNkb2Q4QTlQNTFEUVFubGZGWHVQWWRmbTIzRTkzd3lTZm4wZ2R5SmhmYzEwSTUwMG16aWxRblhMLXlVNm9YS0hTLU9YY2pMa3dVTGdjZnJsOXpaMmhmTmpkNkxRZGxYZUpubmVOVjREbGkwb1V3b0xuMTNIeHpKMWRwNTdDcGdjNjdXbnA2WDN0bUpiQklFVkRYYWhuZ1pRZ0NSVlRoZ3VDeWMwUldnYS1YU2JBVDRna0lWNjU2eVR3eG9CaGNGbFgxcV83a0FmNW1MejltcS1IWjlUY2hraURQZzVQVTY0WFloc2Yzcw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNd2ZOSWl0SUJVZFkxNFUwaXRXMVZuNkFYUWx4OThrX3E0c1JhV192YmRYZUFneGxnRXAzckdYdURlOWQ3LUx4OHdBOGVKOEZTeWotYXlXNnZJZzdhSkdOenNrcEpibDFZbkV6ZU1ZUkZpNkdaNWFlU3p3S3hvYy1oVGNZbUlMVUNNYkdFX24wRVNBQ3pXdkdqVTMxQk9YeWJhWlhDTHp6bGV2TnR5WWRXWXlUdnVzbm9DaVN4ZjVmVVhQa3pnSjNfc1Y0RWt5S2x0R1RRLWFTNmxqUzkzRDdJdU5WMDR3TXUwUHp4OUFEd3lPOTRLYWRROV9MUGwzVnVoazFIOFRaTzgybFpiZEVtNGV3?oc=5"
         }
       ],
       "matched_keywords": [
@@ -94,23 +195,10 @@
       ]
     },
     {
-      "id": "2870fac0f240",
-      "title": "維吉尼亞州報告首例本地感染登革熱病例 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
-      "published": "2026-08-05T22:41:15+00:00",
-      "summary": "維吉尼亞州報告首例本地感染登革熱病例 作者 Investing.com&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
-      "sources": [
-        {
-          "name": "Investing.com 香港 - 股市報價& 財經新聞",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0RWhfQ2didTE5YUlNX2VVem9ybjZ0S3RyTkRWVUZyanpJT0s3eFR5YUJYa04wLVBYYXNKSEE2azNNdFVKTVpEUXlRbzg1RzB6S3lfOS0wMm1CTGd3amJPQzh0QTN2TjE2bWdiQmFYTHQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "fee1415ab70a",
       "title": "大腸癌｜無便秘亦可能中招？專家拆解2大致癌壞習慣",
       "published": "2026-08-05T08:20:24+00:00",
-      "summary": "大腸癌｜無便秘亦可能中招？專家拆解2大致癌壞習慣&nbsp;&nbsp;TVB久坐、每天一杯酒…常見生活5習慣 恐增大腸癌風險&nbsp;&nbsp;世界新聞網重症解密｜楝篤笑藝人阿V自爆每月入院！靠一招重獲自由震驚網民&nbsp;&nbsp;GOtrip.hk大腸癌｜5旬單親媽媽無便秘行樓梯氣喘確診大腸癌三期醫生揭2大習慣誘癌後期一個病徵常被忽略- 東張+&nbsp;&nbsp;myTV SUPER重症解密｜腸胃專家陳家亮驚爆：便秘非大腸癌成因！一招可完全預防| 最新娛聞&nbsp;&nbsp;orientalsunday.hk",
+      "summary": "大腸癌｜無便秘亦可能中招？專家拆解2大致癌壞習慣&nbsp;&nbsp;TVB久坐、每天一杯酒…常見生活5習慣 恐增大腸癌風險&nbsp;&nbsp;世界新聞網重症解密｜楝篤笑藝人阿V自爆每月入院！靠一招重獲自由震驚網民&nbsp;&nbsp;GOtrip.hk大腸癌｜5旬單親媽媽無便秘行樓梯氣喘確診大腸癌三期醫生揭2大習慣誘癌後期一個病徵常被忽略- 東張+&nbsp;&nbsp;myTV SUPER重症解密｜腸胃專家陳家亮驚爆：便秘非大腸癌成因！一招可完全預防| 最新娛聞&nbsp;&nbsp;東方新地",
       "sources": [
         {
           "name": "TVB",
@@ -164,19 +252,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "320ddf7952d1",
-      "title": "40歲後身高縮水超過3公分嗎？小心脊椎沈默骨折正在發生中",
-      "published": "2026-08-05T07:00:00+00:00",
-      "summary": "40歲後身高縮水超過3公分嗎？小心脊椎沈默骨折正在發生中&nbsp;&nbsp;東森新聞健康網》只靠鈣片、維D恐沒用 研究揭防骨折真正有效3關鍵&nbsp;&nbsp;自由健康網72歲嬤身高縮水 確診重度骨鬆 | 中華日報&nbsp;&nbsp;LINE TODAY天天吃麵包恐引發骨質疏鬆！醫提醒：高磷飲食才是隱形殺手，這3類食物少吃&nbsp;&nbsp;女人我最大守護骨本告別「沉默疾病」嘉榮醫半年一針 助骨鬆嬤重拾穩健步伐&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15VWRvYjZhVEFRODQ3bUg4bGtXbUNOQktYZmlhU1VIMzEwdnBESEpNRFBCVmVabmJsRDZ3NTBXZVd1MUNtWGxZWW1fZWVTTTdRT2dodw?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "828bff69154f",
@@ -277,14 +352,14 @@
       ]
     },
     {
-      "id": "92c01d415398",
-      "title": "菲律賓三寶顏暴發登革熱疫情 已確診1241宗至少12人死亡",
-      "published": "2026-08-05T02:24:24+00:00",
-      "summary": "菲律賓三寶顏暴發登革熱疫情 已確診1241宗至少12人死亡&nbsp;&nbsp;橙新聞",
+      "id": "2eb086cb5abd",
+      "title": "菲律賓三寶顏市暴發登革熱疫情已致12人死亡- 國際",
+      "published": "2026-08-04T16:23:10+00:00",
+      "summary": "菲律賓三寶顏市暴發登革熱疫情已致12人死亡- 國際&nbsp;&nbsp;香港文匯報",
       "sources": [
         {
-          "name": "橙新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNOWRVenFkZWVXMXUydFF3dnVrc2lRX0h1MzVRQjhCLURDcjBvaEc0RlI1YzBXZi15OVpRT1NJVXZjeV90d0lyaUlxSjZFNUhaT1lxZnVpVjRSbUVqQkNrRjRkblItVnk1bUx6RHUwVWNRcVVRd3JoUU5nXzczbjBqd2xaWHNYbTJVNlVfajZnT1VqYnhJakhsZDlyU3U3aEZGdnJsN2J4cTBnY1ExWmtEWS05WEFVZlQxWkRZVWltNEFXNXZEaG5mX1YtY1owbEROR2ZpMjVoYXdxclNvQUI0NGdhSG1qOTFZM3hZMHlUQnVwUEV6Vi02aWpRV2xHYnlEMm1UaXFPRW9RSUxLN1gwSlBKbHUxSDYySUtJV2NqQS1ER1FfblIyN18tX0pmWFNpXzlabDUtRGcwUm13ZUtFUXhMUHBwVVBvbDV6ZzU5YTAwMEd4bExqUFFnYVotQ20xc3Bwb2lKX2JKZFlNd2MtZ2FIdFFWZw?oc=5"
+          "name": "香港文匯報",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwRjF4STgyY3NFY2Yxb2hhamFVZzN2SldhcTdxRjVQSTAxWXlqTHd4ZV9NdzRyR2dlcFN3T2Nzb0dVUXY4UWhyWWtZcFJjdDRNTE8tOVVQZ0RIelh6X0VjUzNzajUtai0wbm5ZeXp1VjlTNmlKV0Zr?oc=5"
         }
       ],
       "matched_keywords": []
@@ -525,14 +600,14 @@
       ]
     },
     {
-      "id": "b53eeed8e371",
+      "id": "4c5647ecbc70",
       "title": "梅毒半年破6千例「創10年新高」！15~24歲增幅最大",
-      "published": "2026-08-04T06:54:23+00:00",
-      "summary": "梅毒半年破6千例「創10年新高」！15~24歲增幅最大&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "published": "2026-08-04T06:38:53+00:00",
+      "summary": "梅毒半年破6千例「創10年新高」！15~24歲增幅最大&nbsp;&nbsp;中天新聞網她腋下、肘窩起紅疹「梅毒第2期」作怪 醫3招揪出真凶&nbsp;&nbsp;ETtoday健康雲討論牆 | 梅毒半年破6千例「創10年新高」！15~24歲增幅最大&nbsp;&nbsp;LINE TODAY男子反覆起紅疹竟是二期梅毒！醫生揭2部位長疹最關鍵：長期無視或入腦致命&nbsp;&nbsp;UHK 港生活梅毒首破6千例創10年同期新高 小腿腫3個月竟確診&nbsp;&nbsp;ETtoday健康雲",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQdWtjQm5OVXFHTGg1NlBIWHFHd09VcU9nOTd6NXR3YjFvdUN5SkJtUllQV2p3Z2FGbjMwMDBud29BN25MNndTQUp6bzhnell3YnlFTE9ZMHNRWDF5LU9NOHRUalVEc2JwV003UHlpWjN4UDlaREZfaXlmSHlJekpiemtRTmJMVWVVWUhoSXlpV2tDOWF0M0o3SjRkdkwydlI2TC1UMlJ4NXpmZWRlYU5YaG9JbFBYNWNaUjZvWlNTbTh5QUx5b3BraHZFLXF3aWFZSzFYUWs1SmdNZHJqSUlOQVlFd0FSSHRiVXhJSTNuN1puekRld2hMcWtVT0QxOG01V21fbHVGM3E4bkVTaC1lNF9TODFrSGZZbkVjbGRnTG4?oc=5"
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04TkdNUlpwUlFGb3lVaU9VZ3UzcDJBWVBrMVpxOGpjMTFudkxwWTBOWTVmWm5wVkJKRHktLWN1UG45ZXp3TUlzaHIyN0g3VkR6bGE4?oc=5"
         }
       ],
       "matched_keywords": []
@@ -546,19 +621,6 @@
         {
           "name": "觸mii",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FcmV5aUs3ZU9iTjJ4TGNLQ25uLWpjT2pJSDNCOF9nZzdBb3hzU0FWTUJFYnhtRkl2dmR2WnRxSFlLT21XZVFqS1VMS29iYmZTWFdoeWJRdkNjZXU1RG16MDEtTGFTX3pMTjZmUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "463473aced94",
-      "title": "大陸長者易失能、歐美人更老當益壯？ 專家揭玄機",
-      "published": "2026-08-04T03:47:22+00:00",
-      "summary": "大陸長者易失能、歐美人更老當益壯？ 專家揭玄機&nbsp;&nbsp;翻爆",
-      "sources": [
-        {
-          "name": "翻爆",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJaXZ5RkROaDhOb1JRSHZLV290UVcwOGc3RUJ2VV9hN3lsLThDd1Y1QmE3WHFmaml2M2N2em5LMng0YmFnN2pkcW1qcWVuODlZdWo4OG9JeGstS25McnF3NlVZQkoxdXZzQ3V1Y0RDZw?oc=5"
         }
       ],
       "matched_keywords": []
