@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,9 +41,31 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（3 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [嬤吃白帶魚防失智1清洗動作醫傻眼珍貴護腦部位沒了- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1Hb2dCQUljd2RqWW9NRldFS1lndGU3Q0pLYURrOFhuaUdTUEE5a3U1UzEyVm16Z3ppQU9CbmZDbFFRbU1wc3pBeVJXZ0NQb21UUWZkeVJGNFNSX2Y0Wm9EZ2JtVzNhMHVYN1NldERB?oc=5)
+
+2026-08-06 <span class="news-indication-tag">失智</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1Hb2dCQUljd2RqWW9NRldFS1lndGU3Q0pLYURrOFhuaUdTUEE5a3U1UzEyVm16Z3ppQU9CbmZDbFFRbU1wc3pBeVJXZ0NQb21UUWZkeVJGNFNSX2Y0Wm9EZ2JtVzNhMHVYN1NldERB?oc=5)
+
+---
+
+### [中年守住3項健康條件 最新研究：可遠離失智症超過10年](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IcnJUOXZTb29TQUtTNXNIb3hTcHdOX1dJM0s5NVRTXzEzM0dwSHVXWmpNZzVRS19ZR0QtU29Vb2ZEWFFHWDhzQVN0cnZaUmhZ0gFWQVVfeXFMTk8xNWtpeDdBQmpsUWNWZXZzcF9xNWxZQjRaZzdkU3BIdHZOVS05RDYxSUdvaFFXUTZEWVZoQUxWUGdFcXM0blgwZ3BqTERseTBYSEVicmc?oc=5)
+
+2026-08-06 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源：[UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IcnJUOXZTb29TQUtTNXNIb3hTcHdOX1dJM0s5NVRTXzEzM0dwSHVXWmpNZzVRS19ZR0QtU29Vb2ZEWFFHWDhzQVN0cnZaUmhZ0gFWQVVfeXFMTk8xNWtpeDdBQmpsUWNWZXZzcF9xNWxZQjRaZzdkU3BIdHZOVS05RDYxSUdvaFFXUTZEWVZoQUxWUGdFcXM0blgwZ3BqTERseTBYSEVicmc?oc=5)
+
+---
+
+### [便秘竟是腸道老化？醫揭驚人失智危機](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VN2FQOW5zUjZaTlVOV3RQRU5mRlRpT1lMd1dZWndRSDRHMnhjTm9WbHdycW9KUEhxVlpQV1hGa0Y3ODZKNW1OeTViTWRZRHQ5S2xPdg?oc=5)
+
+2026-08-06 <span class="news-indication-tag">失智</span>
+
+來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VN2FQOW5zUjZaTlVOV3RQRU5mRlRpT1lMd1dZWndRSDRHMnhjTm9WbHdycW9KUEhxVlpQV1hGa0Y3ODZKNW1OeTViTWRZRHQ5S2xPdg?oc=5)
+
+---
 
 
 <div class="disclaimer">
