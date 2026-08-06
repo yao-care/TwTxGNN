@@ -1,8 +1,68 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-06T07:35:53.024326+00:00",
+  "fetched_at": "2026-08-06T10:29:05.755748+00:00",
   "count": 17,
   "news": [
+    {
+      "id": "2b6e9521cc66",
+      "title": "45歲後做好3件事 研究：失智症平均可延後近13年 - Taiwan News",
+      "published": "2026-08-06T04:35:00+00:00",
+      "summary": "45歲後做好3件事 研究：失智症平均可延後近13年&nbsp;&nbsp;Taiwan News中年做好「這3件事」 有機會延緩失智症13年&nbsp;&nbsp;自由健康網45歲後是關鍵！研究曝「做好3件事」可多13年不失智- 國際&nbsp;&nbsp;中時新聞網研究顯示：中壯年人維生素D水準與降低阿茲海默症風險相關- 國際&nbsp;&nbsp;工商時報避開三大風險因素 認知障礙症可延13年發病&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pdmx5dWFEeWFxZEUwOUpmWGs1dTZ0d2pWZ3BQaVZCZzJzWG9vU1lwbk1PdHJ5SHBGMnExaHNrTGQ2bUJFX19aNW5heTZGY0VmMl9RbVpsWXQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa38490ab922",
+      "title": "華裔美國人「壓力內化」恐加速失智？ 模範標籤竟成失智推手！ - 中時新聞網",
+      "published": "2026-08-06T09:07:39+00:00",
+      "summary": "華裔美國人「壓力內化」恐加速失智？ 模範標籤竟成失智推手！&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zc0k3QzNkRzM2czY4R2pHd3lkQ0kxd2Q5ZGJTUlVoMjJVeTJSNGxiZm1yRlpjVHktZjl2NlZDNUJ2c3plWkcyRG5NRWlQMFZjelNLQjQ4ZHNWelUtZVNLNWhpR1k5MFR4eXpLTE1R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b4c3aaf17488",
+      "title": "癌細胞竟靠果糖互傳訊號 化療成功仍可能復發轉移 - 自由健康網",
+      "published": "2026-08-06T03:06:00+00:00",
+      "summary": "癌細胞竟靠果糖互傳訊號 化療成功仍可能復發轉移&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEQ2lrTE9JbVRLMVM5VUZXVGpMSFVDZks1eS0zeW1pN2l5Zk5nb0lGV2ZHOUVaYk95LVVSSEJxSC1Ic1B4S251anFLZXB3M0tiRS1CZHR0Z1hMNXdKb0t1enhENHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0662af0e490f",
+      "title": "嬤吃白帶魚防失智1清洗動作醫傻眼珍貴護腦部位沒了- 健康 - 中時新聞網",
+      "published": "2026-08-06T08:01:09+00:00",
+      "summary": "嬤吃白帶魚防失智1清洗動作醫傻眼珍貴護腦部位沒了- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbnJMeFBMTDFDanBoNmhZZHZ5MENjZzJQNG5xdm1wSWtkWm9vV0dlSzZOMXhLSEpJZ1diVy04TWZoVEY4SE9IYWFBQnEza09NdldyczBUMWJTTGs5ZDd1SEstNGR0QW81R2FVanRpZkxwSjQ0MHJsdlBKRGtDR3QwSWROMjJJcXlBM3VyUEI3cw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "173436566e34",
+      "title": "國人最缺維生素D！營養師曝4大營養失衡影響 補鉀有助降血壓 - UDN",
+      "published": "2026-08-06T06:36:34+00:00",
+      "summary": "國人最缺維生素D！營養師曝4大營養失衡影響 補鉀有助降血壓&nbsp;&nbsp;UDN前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NYktDc3hLdFA2eENReU5vZkFFay0yTWUxRmNSb2pBT2hpWi1JWGFWZS00d2tldVdzTGVOREh4c1FlN214MGViaW5VUzRYRC1OOGlFUjZxSGRoTlo1V3VSbC1ORUtidFU0WDVsd2FpdHJOa2VkTzR6eG9HZw?oc=5"
+        }
+      ]
+    },
     {
       "id": "673181fa7303",
       "title": "《Emergency Buddies》Steam頁面上線 4人連線體驗挑戰友情底線的混亂救護 - Ludens Media",
@@ -18,7 +78,7 @@
     {
       "id": "76c9094f1d32",
       "title": "想改善「看起來很累」？陳律安醫師：抗老關鍵在輪廓支撐 海芙音波媚必提助找回自然精神感 - 壹蘋新聞網",
-      "published": "2026-08-06T04:40:00+00:00",
+      "published": "2026-08-06T06:20:00+00:00",
       "summary": "想改善「看起來很累」？陳律安醫師：抗老關鍵在輪廓支撐 海芙音波媚必提助找回自然精神感&nbsp;&nbsp;壹蘋新聞網",
       "sources": [
         {
@@ -40,49 +100,25 @@
       ]
     },
     {
-      "id": "173436566e34",
-      "title": "國人最缺維生素D！營養師曝4大營養失衡影響 補鉀有助降血壓 - UDN",
-      "published": "2026-08-06T06:36:34+00:00",
-      "summary": "國人最缺維生素D！營養師曝4大營養失衡影響 補鉀有助降血壓&nbsp;&nbsp;UDN前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "89b6006f01d3",
+      "title": "研究揭莓果護心效果驚人 心血管疾病風險降26％ - 自由健康網",
+      "published": "2026-08-06T03:52:00+00:00",
+      "summary": "研究揭莓果護心效果驚人 心血管疾病風險降26％&nbsp;&nbsp;自由健康網吃對了更年輕：花青素如何守住細胞、血管與大腦活力&nbsp;&nbsp;scdaily.com",
       "sources": [
         {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NYktDc3hLdFA2eENReU5vZkFFay0yTWUxRmNSb2pBT2hpWi1JWGFWZS00d2tldVdzTGVOREh4c1FlN214MGViaW5VUzRYRC1OOGlFUjZxSGRoTlo1V3VSbC1ORUtidFU0WDVsd2FpdHJOa2VkTzR6eG9HZw?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzaXh1cGtTUy1xTmZwbVM4ZmNDWEY3TkpiMk95T2gxN3NiRXBaZzNWS1ppc0lMVE1wcnhtSXZodzJKYnBrTG51WGVDemNPVWRaY2NrZUFQZHBTNVd5TF9XU1JVUU0?oc=5"
         }
       ]
     },
     {
-      "id": "2b6e9521cc66",
-      "title": "45歲後做好3件事 研究：失智症平均可延後近13年 - Taiwan News",
-      "published": "2026-08-06T04:35:00+00:00",
-      "summary": "45歲後做好3件事 研究：失智症平均可延後近13年&nbsp;&nbsp;Taiwan News45歲後是關鍵！研究曝「做好3件事」可多13年不失智- 國際&nbsp;&nbsp;中時新聞網避開三大風險因素 認知障礙症可延13年發病&nbsp;&nbsp;Singtaousa別急著退休！研究：65歲後退休 失智風險少15％&nbsp;&nbsp;TVBS 健康2.0",
-      "sources": [
-        {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pdmx5dWFEeWFxZEUwOUpmWGs1dTZ0d2pWZ3BQaVZCZzJzWG9vU1lwbk1PdHJ5SHBGMnExaHNrTGQ2bUJFX19aNW5heTZGY0VmMl9RbVpsWXQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "05052a50212e",
-      "title": "癌細胞竟靠果糖互傳訊號 化療成功仍可能復發轉移 - health.ltn.com.tw",
-      "published": "2026-08-06T03:06:00+00:00",
-      "summary": "癌細胞竟靠果糖互傳訊號 化療成功仍可能復發轉移&nbsp;&nbsp;health.ltn.com.tw",
-      "sources": [
-        {
-          "name": "health.ltn.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEQ2lrTE9JbVRLMVM5VUZXVGpMSFVDZks1eS0zeW1pN2l5Zk5nb0lGV2ZHOUVaYk95LVVSSEJxSC1Ic1B4S251anFLZXB3M0tiRS1CZHR0Z1hMNXdKb0t1enhENHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ee6bbc3bd6da",
-      "title": "成都「追蚊人」夏日逆行築起防疫第一道防線- 兩岸 - ctee.com.tw",
+      "id": "8d5390932a95",
+      "title": "成都「追蚊人」夏日逆行築起防疫第一道防線- 兩岸 - 工商時報",
       "published": "2026-08-06T00:17:00+00:00",
-      "summary": "成都「追蚊人」夏日逆行築起防疫第一道防線- 兩岸&nbsp;&nbsp;ctee.com.tw",
+      "summary": "成都「追蚊人」夏日逆行築起防疫第一道防線- 兩岸&nbsp;&nbsp;工商時報",
       "sources": [
         {
-          "name": "ctee.com.tw",
+          "name": "工商時報",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IYlAwWk41RENLZnVVcUJ5T01FWEVQY2RxQWs3QnMydkpIYTA0MEFJM1F5R3pZb3ZjTWRoN2pBWGpjX0VoSkRBcEU2VURCSDBlSHdsZWhpMVhQRldFNlpN?oc=5"
         }
       ]
@@ -91,7 +127,7 @@
       "id": "8abb91f23f1c",
       "title": "守護骨本抗骨鬆！嘉榮醫半年一針助阿嬤穩健行走 - Yahoo",
       "published": "2026-08-06T04:03:12+00:00",
-      "summary": "守護骨本抗骨鬆！嘉榮醫半年一針助阿嬤穩健行走&nbsp;&nbsp;Yahoo健康網》只靠鈣片、維D恐沒用 研究揭防骨折真正有效3關鍵&nbsp;&nbsp;health.ltn.com.tw40歲後身高縮水超過3公分嗎？小心脊椎沈默骨折正在發生中&nbsp;&nbsp;news.ebc.net.tw骨質疏鬆不只找上老人！白、瘦、不曬太陽成高風險族群 醫師點名8大護骨營養素&nbsp;&nbsp;經濟日報天天吃麵包恐引發骨質疏鬆！醫提醒：高磷飲食才是隱形殺手，這3類食物少吃&nbsp;&nbsp;女人我最大",
+      "summary": "守護骨本抗骨鬆！嘉榮醫半年一針助阿嬤穩健行走&nbsp;&nbsp;Yahoo健康網》只靠鈣片、維D恐沒用 研究揭防骨折真正有效3關鍵&nbsp;&nbsp;自由健康網40歲後身高縮水超過3公分嗎？小心脊椎沈默骨折正在發生中&nbsp;&nbsp;東森新聞骨質疏鬆不只找上老人！白、瘦、不曬太陽成高風險族群 醫師點名8大護骨營養素&nbsp;&nbsp;經濟日報天天吃麵包恐引發骨質疏鬆！醫提醒：高磷飲食才是隱形殺手，這3類食物少吃&nbsp;&nbsp;女人我最大",
       "sources": [
         {
           "name": "Yahoo",
@@ -100,62 +136,26 @@
       ]
     },
     {
-      "id": "9399991f3179",
-      "title": "健康網》體重過輕想增重別踩雷！ 醫曝「骯髒增重」恐有心臟風險 - health.ltn.com.tw",
+      "id": "736e660f9d26",
+      "title": "健康網》體重過輕想增重別踩雷！ 醫曝「骯髒增重」恐有心臟風險 - 自由健康網",
       "published": "2026-08-05T04:32:00+00:00",
-      "summary": "健康網》體重過輕想增重別踩雷！ 醫曝「骯髒增重」恐有心臟風險&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "健康網》體重過輕想增重別踩雷！ 醫曝「骯髒增重」恐有心臟風險&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yeTVBQmZEZVp5dkV3Tzh1d2FubUQzMG8tNjZ2dnRXUFB6RlJxSEhBdlZFN00yX1VUQ0RkdHF5cEh6eko1OGZvT0QxNnV5Zktid2dyY3ZybGJ6djBiLUhYZWVzaFo?oc=5"
         }
       ]
     },
     {
-      "id": "49404b7c74b0",
-      "title": "55歲是子宮內膜癌發生最多年齡！停經後出血＝不正常，別再當「回春」…每年3檢查保命：早期治癒率達9成5 - thebetteraging.businesstoday.com.tw",
+      "id": "f76ae354a6c0",
+      "title": "55歲是子宮內膜癌發生最多年齡！停經後出血＝不正常，別再當「回春」…每年3檢查保命：早期治癒率達9成5 - 幸福熟齡",
       "published": "2026-08-06T01:27:38+00:00",
-      "summary": "55歲是子宮內膜癌發生最多年齡！停經後出血＝不正常，別再當「回春」…每年3檢查保命：早期治癒率達9成5&nbsp;&nbsp;thebetteraging.businesstoday.com.tw",
+      "summary": "55歲是子宮內膜癌發生最多年齡！停經後出血＝不正常，別再當「回春」…每年3檢查保命：早期治癒率達9成5&nbsp;&nbsp;幸福熟齡",
       "sources": [
         {
-          "name": "thebetteraging.businesstoday.com.tw",
+          "name": "幸福熟齡",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ldFZmdkdmTW82TVlWTnNLSVc1amMwU0RWMUVpUkVMRFVoVFdkNHdSa0pxOTNBd1Z3WC1Sa29hUmVNWmlUemk0amdibEthZmJKNTE1dGlTVkx5WkRzVVpmNHRwNkJJNnY1b1hBTmhESmtqSi1DaWw5d1dydw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ee762480e41e",
-      "title": "癌細胞為何能逃過免疫追殺？美研究找到新關鍵 - health.ltn.com.tw",
-      "published": "2026-08-04T09:30:00+00:00",
-      "summary": "癌細胞為何能逃過免疫追殺？美研究找到新關鍵&nbsp;&nbsp;health.ltn.com.tw",
-      "sources": [
-        {
-          "name": "health.ltn.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kZ2VaMmZCc0VkVjliYXVnaUpUbm9hV1Rldm1hRW5aNWRVd0NoRUxSX2puVGhJTE5YR0xoVWFlSHk4WlVfRWhWRU1Kb2dvcEsyMlYzZTZlUWFTSkNoM1hmd2RPaUg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "74fcb6e94aed",
-      "title": "癌症醫師防癌佳句：這一切都將成為過去！ - 新唐人電視台",
-      "published": "2026-08-04T08:12:00+00:00",
-      "summary": "癌症醫師防癌佳句：這一切都將成為過去！&nbsp;&nbsp;新唐人電視台",
-      "sources": [
-        {
-          "name": "新唐人電視台",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FUXZhU1RESWdELUY2MzhDZFA3ZVk0WEpRakJubnRSSmZnalhzYmtUbnV3Y3l4TEtEWllsV3R2OTBqWUZnclg3eXpKWGYtcXlnckEtbzVwdDZZOWRNV2ZXbdIBZkFVX3lxTE1QV1lrTGQwTGFQemJ0aEZ2aFVvcUhwTXNLZVlHRV9nT3laR3Z0bmluRndMTVlqN3ZsRDhzZkhQQnBnOTBuOGFSX3FqUGxMR0ZFRWc5N0stUG00Qjh6ckJPbjRnNzlKQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8d586d313c68",
-      "title": "瘦身不再只靠168 營養師揭秘「金字塔瘦身法」6大法則高效甩肉 - 香港01",
-      "published": "2026-08-04T09:53:22+00:00",
-      "summary": "瘦身不再只靠168 營養師揭秘「金字塔瘦身法」6大法則高效甩肉&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPNnZfWjMza1BrT25WWktFeHQyNm5UaGRDcE5fUGRHRW5UbXc3MUs5YktLdjdLNUVUcDR0NjVfVUI2Skd4b3dVRlpEbG83aU54aEFPa0RXVzc0QkNucUdfc0JULWVTVTJsUDYzNllWLUlzdUl3NEQteFAwaGVqVkctV1R2RXc1RVVDakhrT3hBR2lvaHdRcU1aRWR0dDN6SzR6V2pDWjRyMXE4ZlVmeUU4YXEwRGJsYm9Sc0xQeDdiUmtwUGJ3Mnc5YnNjV0d2LUV3TjgzTWlDS0d1MEJ3cGlSOS12TG1oV1RfalJfbnJYM0RHOE1FRnJ1bXUwN2VXemlOclh3cVVTTmNscEUzclNzcjd3M05tNHhiekY5d3djMDk1Z1BzakZHM2ZYeXF3V1hoS09hMW5PdFNFRkZzRTRkZEtfNG8zQkhHSm5TQVBLeXA5LThSOEVPbTU4blFRS1U4dnpRS1lBWHp2Y0FGNWppQ2dvT1Y4SmpLVUoyaW1WY21raV8zU19uYnkyVnlWN1VhZXFEZk0zeHdjcWdfaDU0?oc=5"
         }
       ]
     },
@@ -184,14 +184,14 @@
       ]
     },
     {
-      "id": "2eb086cb5abd",
-      "title": "菲律賓三寶顏市暴發登革熱疫情已致12人死亡- 國際 - 香港文匯報",
-      "published": "2026-08-04T16:23:10+00:00",
-      "summary": "菲律賓三寶顏市暴發登革熱疫情已致12人死亡- 國際&nbsp;&nbsp;香港文匯報",
+      "id": "92c01d415398",
+      "title": "菲律賓三寶顏暴發登革熱疫情 已確診1241宗至少12人死亡 - 橙新聞",
+      "published": "2026-08-05T02:24:24+00:00",
+      "summary": "菲律賓三寶顏暴發登革熱疫情 已確診1241宗至少12人死亡&nbsp;&nbsp;橙新聞",
       "sources": [
         {
-          "name": "香港文匯報",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwRjF4STgyY3NFY2Yxb2hhamFVZzN2SldhcTdxRjVQSTAxWXlqTHd4ZV9NdzRyR2dlcFN3T2Nzb0dVUXY4UWhyWWtZcFJjdDRNTE8tOVVQZ0RIelh6X0VjUzNzajUtai0wbm5ZeXp1VjlTNmlKV0Zr?oc=5"
+          "name": "橙新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNOWRVenFkZWVXMXUydFF3dnVrc2lRX0h1MzVRQjhCLURDcjBvaEc0RlI1YzBXZi15OVpRT1NJVXZjeV90d0lyaUlxSjZFNUhaT1lxZnVpVjRSbUVqQkNrRjRkblItVnk1bUx6RHUwVWNRcVVRd3JoUU5nXzczbjBqd2xaWHNYbTJVNlVfajZnT1VqYnhJakhsZDlyU3U3aEZGdnJsN2J4cTBnY1ExWmtEWS05WEFVZlQxWkRZVWltNEFXNXZEaG5mX1YtY1owbEROR2ZpMjVoYXdxclNvQUI0NGdhSG1qOTFZM3hZMHlUQnVwUEV6Vi02aWpRV2xHYnlEMm1UaXFPRW9RSUxLN1gwSlBKbHUxSDYySUtJV2NqQS1ER1FfblIyN18tX0pmWFNpXzlabDUtRGcwUm13ZUtFUXhMUHBwVVBvbDV6ZzU5YTAwMEd4bExqUFFnYVotQ20xc3Bwb2lKX2JKZFlNd2MtZ2FIdFFWZw?oc=5"
         }
       ]
     },

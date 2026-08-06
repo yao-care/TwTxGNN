@@ -14,7 +14,7 @@ permalink: /news/amcinonide/
 ---
 
 <p class="key-answer" data-question="Amcinonide 有什麼相關新聞？">
-<strong>Amcinonide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 8 個。
+<strong>Amcinonide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 8 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,13 @@ permalink: /news/amcinonide/
 <p><a href="{{ '/drugs/amcinonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [醫晴醫情｜丙型肝炎病毒誘發淋巴癌](https://news.google.com/rss/articles/CBMikgJBVV95cUxNd2ZOSWl0SUJVZFkxNFUwaXRXMVZuNkFYUWx4OThrX3E0c1JhV192YmRYZUFneGxnRXAzckdYdURlOWQ3LUx4OHdBOGVKOEZTeWotYXlXNnZJZzdhSkdOenNrcEpibDFZbkV6ZU1ZUkZpNkdaNWFlU3p3S3hvYy1oVGNZbUlMVUNNYkdFX24wRVNBQ3pXdkdqVTMxQk9YeWJhWlhDTHp6bGV2TnR5WWRXWXlUdnVzbm9DaVN4ZjVmVVhQa3pnSjNfc1Y0RWt5S2x0R1RRLWFTNmxqUzkzRDdJdU5WMDR3TXUwUHp4OUFEd3lPOTRLYWRROV9MUGwzVnVoazFIOFRaTzgybFpiZEVtNGV3?oc=5)
 
 2026-08-05 <span class="news-indication-tag">淋巴癌</span>
 
 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMikgJBVV95cUxNd2ZOSWl0SUJVZFkxNFUwaXRXMVZuNkFYUWx4OThrX3E0c1JhV192YmRYZUFneGxnRXAzckdYdURlOWQ3LUx4OHdBOGVKOEZTeWotYXlXNnZJZzdhSkdOenNrcEpibDFZbkV6ZU1ZUkZpNkdaNWFlU3p3S3hvYy1oVGNZbUlMVUNNYkdFX24wRVNBQ3pXdkdqVTMxQk9YeWJhWlhDTHp6bGV2TnR5WWRXWXlUdnVzbm9DaVN4ZjVmVVhQa3pnSjNfc1Y0RWt5S2x0R1RRLWFTNmxqUzkzRDdJdU5WMDR3TXUwUHp4OUFEd3lPOTRLYWRROV9MUGwzVnVoazFIOFRaTzgybFpiZEVtNGV3?oc=5)
-
----
-
-### [癌症醫師防癌佳句：這一切都將成為過去！](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FUXZhU1RESWdELUY2MzhDZFA3ZVk0WEpRakJubnRSSmZnalhzYmtUbnV3Y3l4TEtEWllsV3R2OTBqWUZnclg3eXpKWGYtcXlnckEtbzVwdDZZOWRNV2ZXbdIBZkFVX3lxTE1QV1lrTGQwTGFQemJ0aEZ2aFVvcUhwTXNLZVlHRV9nT3laR3Z0bmluRndMTVlqN3ZsRDhzZkhQQnBnOTBuOGFSX3FqUGxMR0ZFRWc5N0stUG00Qjh6ckJPbjRnNzlKQQ?oc=5)
-
-2026-08-04 <span class="news-indication-tag">癌症</span>
-
-來源：[新唐人電視台](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FUXZhU1RESWdELUY2MzhDZFA3ZVk0WEpRakJubnRSSmZnalhzYmtUbnV3Y3l4TEtEWllsV3R2OTBqWUZnclg3eXpKWGYtcXlnckEtbzVwdDZZOWRNV2ZXbdIBZkFVX3lxTE1QV1lrTGQwTGFQemJ0aEZ2aFVvcUhwTXNLZVlHRV9nT3laR3Z0bmluRndMTVlqN3ZsRDhzZkhQQnBnOTBuOGFSX3FqUGxMR0ZFRWc5N0stUG00Qjh6ckJPbjRnNzlKQQ?oc=5)
 
 ---
 
