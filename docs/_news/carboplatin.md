@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [西方飲食為何助長大腸癌？ 研究揭腸道菌關鍵機制](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfUWFvUnh3YjU3aVFnQ3BtZWpwdUVYX3NfNF9GeFRjVmJMamVHbTNQTTJuTnF4QW4xVzVsaFhrTWNVYkNmb2ZTSVJja3g1TGtlbmpXYWNRQTItNkFVR2kzNnQyNlY?oc=5)
+
+2026-08-06 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfUWFvUnh3YjU3aVFnQ3BtZWpwdUVYX3NfNF9GeFRjVmJMamVHbTNQTTJuTnF4QW4xVzVsaFhrTWNVYkNmb2ZTSVJja3g1TGtlbmpXYWNRQTItNkFVR2kzNnQyNlY?oc=5)
+
+---
 
 ### [45歲女抗老吃養顏補品5年 子宮肌瘤瘋長至8cm 醫生警告：亂補恐誘發子宮內膜癌/乳癌](https://news.google.com/rss/articles/CBMi8gNBVV95cUxOZm1DNlVzcWVSeDU1MFFLY3p2Y250UU5NcXFBN0c4VjRmMmpqTDRNRUpmT1JlNXdpVEd4NGpHVlRPYVpTRFpENEllU0EyeEtic3JCaDJyMl9yOFpTUnF0dE5YWEVaOTg2YWJhSmh2TGNLbHVoQjloZ0dlcjRiZFpiU0xhSmg3X2ZYZWozUFEtMUFKeDJta29hQXN4bFlERURQNjVGR3B6bmFfdE9UUWVIZDlIMlJzeHN2RTYwWHJpOGo2a1o5VmZ4UGJjU0ZicGtkTnVEVWMwbkswWU1wM1p4ZzVBMG1vMlA4NG9mdlF3SnJSTW83ZXJRa1pQaW9SaUxmYTZrSkllWlZ2WU03dVBaTmZVNkY2WjM5OHRLaFM5UjNZNjFFNkMyekNhZ19pcW9BUEdlTXZhbEllLTVtZHgwV2lqaHgzSlFGelBiM0lQV1BoS0trbk4yME9tVmg2d0QtWVg1MWMxYjhvNWxISHlURmt6NVBhMnVIMVl2TF9DZ2RhbVZUaUt5ZVk3Rk5uQklfenM1YTJKSHZqU0dTcGxSR2h1dDVaZURpeXFoUGhFUXZIMWViMVhReVplYU81akVRUlVtbHlzS2t0Q2E3am50YkdDNUFzS21maXJ5MEZ4X3J6bUs2VmozNlFYbDNVYlEyTWc?oc=5)
 

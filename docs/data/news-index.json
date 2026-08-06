@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-06T10:29:10.535354+00:00",
+  "generated": "2026-08-06T12:50:57.038605+00:00",
   "count": 7,
   "news": [
     {
@@ -51,13 +51,13 @@
       ]
     },
     {
-      "id": "2b6e9521cc66",
-      "title": "45歲後做好3件事 研究：失智症平均可延後近13年 - Taiwan News",
-      "published": "2026-08-06T04:35:00+00:00",
+      "id": "df3ff42bb617",
+      "title": "中年守住3項健康條件 最新研究：可遠離失智症超過10年",
+      "published": "2026-08-06T07:48:02+00:00",
       "sources": [
         {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pdmx5dWFEeWFxZEUwOUpmWGs1dTZ0d2pWZ3BQaVZCZzJzWG9vU1lwbk1PdHJ5SHBGMnExaHNrTGQ2bUJFX19aNW5heTZGY0VmMl9RbVpsWXQ?oc=5"
+          "name": "udn.com",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IcnJUOXZTb29TQUtTNXNIb3hTcHdOX1dJM0s5NVRTXzEzM0dwSHVXWmpNZzVRS19ZR0QtU29Vb2ZEWFFHWDhzQVN0cnZaUmhZ0gFWQVVfeXFMTk8xNWtpeDdBQmpsUWNWZXZzcF9xNWxZQjRaZzdkU3BIdHZOVS05RDYxSUdvaFFXUTZEWVZoQUxWUGdFcXM0blgwZ3BqTERseTBYSEVicmc?oc=5"
         }
       ],
       "keywords": [
@@ -97,35 +97,47 @@
       ]
     },
     {
-      "id": "89b6006f01d3",
-      "title": "研究揭莓果護心效果驚人 心血管疾病風險降26％",
-      "published": "2026-08-06T03:52:00+00:00",
+      "id": "27816bf385a3",
+      "title": "西方飲食為何助長大腸癌？ 研究揭腸道菌關鍵機制",
+      "published": "2026-08-06T07:46:00+00:00",
       "sources": [
         {
           "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzaXh1cGtTUy1xTmZwbVM4ZmNDWEY3TkpiMk95T2gxN3NiRXBaZzNWS1ppc0lMVE1wcnhtSXZodzJKYnBrTG51WGVDemNPVWRaY2NrZUFQZHBTNVd5TF9XU1JVUU0?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfUWFvUnh3YjU3aVFnQ3BtZWpwdUVYX3NfNF9GeFRjVmJMamVHbTNQTTJuTnF4QW4xVzVsaFhrTWNVYkNmb2ZTSVJja3g1TGtlbmpXYWNRQTItNkFVR2kzNnQyNlY?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
           "related_drugs": [
             {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
+              "slug": "oteracil",
+              "name": "Oteracil"
             }
           ]
         },
         {
           "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
+          "name": "腸癌",
+          "keyword": "腸癌",
           "related_drugs": [
             {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
