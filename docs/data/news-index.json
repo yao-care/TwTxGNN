@@ -1,14 +1,61 @@
 {
-  "generated": "2026-08-05T23:50:57.047801+00:00",
-  "count": 7,
+  "generated": "2026-08-06T01:45:17.418519+00:00",
+  "count": 6,
   "news": [
     {
-      "id": "ed7a6be818e1",
+      "id": "f76ae354a6c0",
+      "title": "55歲是子宮內膜癌發生最多年齡！停經後出血＝不正常，別再當「回春」…每年3檢查保命：早期治癒率達9成5",
+      "published": "2026-08-06T01:27:38+00:00",
+      "sources": [
+        {
+          "name": "幸福熟齡",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ldFZmdkdmTW82TVlWTnNLSVc1amMwU0RWMUVpUkVMRFVoVFdkNHdSa0pxOTNBd1Z3WC1Sa29hUmVNWmlUemk0amdibEthZmJKNTE1dGlTVkx5WkRzVVpmNHRwNkJJNnY1b1hBTmhESmtqSi1DaWw5d1dydw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "子宮內膜癌",
+          "keyword": "子宮內膜癌",
+          "related_drugs": [
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "149c26f7b528",
       "title": "醫晴醫情｜丙型肝炎病毒誘發淋巴癌",
       "published": "2026-08-05T23:00:00+00:00",
       "sources": [
         {
-          "name": "topick.hket.com",
+          "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNa2xNZlpmYnVWb2xjaHZLREdGZGhYd2t3QWw0TFZqc0ZZZUxOYWRhVVRqUUY3WjB1STNkb2Q4QTlQNTFEUVFubGZGWHVQWWRmbTIzRTkzd3lTZm4wZ2R5SmhmYzEwSTUwMG16aWxRblhMLXlVNm9YS0hTLU9YY2pMa3dVTGdjZnJsOXpaMmhmTmpkNkxRZGxYZUpubmVOVjREbGkwb1V3b0xuMTNIeHpKMWRwNTdDcGdjNjdXbnA2WDN0bUpiQklFVkRYYWhuZ1pRZ0NSVlRoZ3VDeWMwUldnYS1YU2JBVDRna0lWNjU2eVR3eG9CaGNGbFgxcV83a0FmNW1MejltcS1IWjlUY2hraURQZzVQVTY0WFloc2Yzcw?oc=5"
         }
       ],
@@ -374,88 +421,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cadace95baaf",
-      "title": "血糖正常≠沒事！醫曝2類人胰臟快不行了糖尿病默默上身- 健康",
-      "published": "2026-08-04T02:28:20+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FdVVwR0I2Q1dkVkIyM3l4UGxrbUU2RWZKajBqUHNtLXktdkhMd05xX2o5RUVreFFUZ1ZaajRiQUc3OHk0WUJUY0RsSE9qaG1mQUVTMEdmbU9KUHNmdzF0ZHV5dzUwUWh2clV5dWRR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f76ae354a6c0",
-      "title": "55歲是子宮內膜癌發生最多年齡！停經後出血＝不正常，別再當「回春」…每年3檢查保命：早期治癒率達9成5",
-      "published": "2026-08-04T02:10:00+00:00",
-      "sources": [
-        {
-          "name": "幸福熟齡",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ldFZmdkdmTW82TVlWTnNLSVc1amMwU0RWMUVpUkVMRFVoVFdkNHdSa0pxOTNBd1Z3WC1Sa29hUmVNWmlUemk0amdibEthZmJKNTE1dGlTVkx5WkRzVVpmNHRwNkJJNnY1b1hBTmhESmtqSi1DaWw5d1dydw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "子宮內膜癌",
-          "keyword": "子宮內膜癌",
-          "related_drugs": [
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
             }
           ]
         }

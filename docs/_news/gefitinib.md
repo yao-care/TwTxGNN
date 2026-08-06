@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [維他命D益處多 適量攝取保障健康](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQaWZEOW5YeVB5dENWVHoxRGJscTEtZzVzSEdvczdwMFdKbUdYcEQ5XzRLdnVhSXJpTEVsS2pYU3V0aVRfX0R2azJhejc4MnhfaVB6NWpmZnZPRDh4aVFGRTBGNFA0TF9BbkE5bXpLeWROd2w1aHJ2MXVJYnR3OXVoWDYtRXRLUWNDcFAwTkJmLTViWWxGVG9Ia1BqalctcUEyWXhzQUtCMmV3QkJoOG9MY3VsY0pEVHRJdkFzNzNuY2FtRFFyTFBRZzNCZU0zZ0VYbzIwTGdJTWswdmpReFBTY3VRUDhMREJhUldjcXJCRTF4TjF3SXZNb09McHdzZw?oc=5)
 
@@ -56,14 +56,6 @@ permalink: /news/gefitinib/
 2026-08-04 <span class="news-indication-tag">癌症</span>
 
 來源：[新唐人電視台](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FUXZhU1RESWdELUY2MzhDZFA3ZVk0WEpRakJubnRSSmZnalhzYmtUbnV3Y3l4TEtEWllsV3R2OTBqWUZnclg3eXpKWGYtcXlnckEtbzVwdDZZOWRNV2ZXbdIBZkFVX3lxTE1QV1lrTGQwTGFQemJ0aEZ2aFVvcUhwTXNLZVlHRV9nT3laR3Z0bmluRndMTVlqN3ZsRDhzZkhQQnBnOTBuOGFSX3FqUGxMR0ZFRWc5N0stUG00Qjh6ckJPbjRnNzlKQQ?oc=5)
-
----
-
-### [血糖正常≠沒事！醫曝2類人胰臟快不行了糖尿病默默上身- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE5FdVVwR0I2Q1dkVkIyM3l4UGxrbUU2RWZKajBqUHNtLXktdkhMd05xX2o5RUVreFFUZ1ZaajRiQUc3OHk0WUJUY0RsSE9qaG1mQUVTMEdmbU9KUHNmdzF0ZHV5dzUwUWh2clV5dWRR?oc=5)
-
-2026-08-04 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5FdVVwR0I2Q1dkVkIyM3l4UGxrbUU2RWZKajBqUHNtLXktdkhMd05xX2o5RUVreFFUZ1ZaajRiQUc3OHk0WUJUY0RsSE9qaG1mQUVTMEdmbU9KUHNmdzF0ZHV5dzUwUWh2clV5dWRR?oc=5)
 
 ---
 

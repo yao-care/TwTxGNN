@@ -1,16 +1,77 @@
 {
-  "last_updated": "2026-08-05T23:50:57.025737+00:00",
-  "total_count": 15,
-  "matched_count": 7,
+  "last_updated": "2026-08-06T01:45:17.389943+00:00",
+  "total_count": 16,
+  "matched_count": 6,
   "news": [
     {
-      "id": "ed7a6be818e1",
-      "title": "醫晴醫情｜丙型肝炎病毒誘發淋巴癌",
-      "published": "2026-08-05T23:00:00+00:00",
-      "summary": "醫晴醫情｜丙型肝炎病毒誘發淋巴癌&nbsp;&nbsp;topick.hket.com",
+      "id": "f76ae354a6c0",
+      "title": "55歲是子宮內膜癌發生最多年齡！停經後出血＝不正常，別再當「回春」…每年3檢查保命：早期治癒率達9成5",
+      "published": "2026-08-06T01:27:38+00:00",
+      "summary": "55歲是子宮內膜癌發生最多年齡！停經後出血＝不正常，別再當「回春」…每年3檢查保命：早期治癒率達9成5&nbsp;&nbsp;幸福熟齡",
       "sources": [
         {
-          "name": "topick.hket.com",
+          "name": "幸福熟齡",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ldFZmdkdmTW82TVlWTnNLSVc1amMwU0RWMUVpUkVMRFVoVFdkNHdSa0pxOTNBd1Z3WC1Sa29hUmVNWmlUemk0amdibEthZmJKNTE1dGlTVkx5WkRzVVpmNHRwNkJJNnY1b1hBTmhESmtqSi1DaWw5d1dydw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "子宮內膜癌",
+          "keyword": "子宮內膜癌",
+          "related_drugs": [
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8d5390932a95",
+      "title": "成都「追蚊人」夏日逆行築起防疫第一道防線- 兩岸",
+      "published": "2026-08-06T00:17:00+00:00",
+      "summary": "成都「追蚊人」夏日逆行築起防疫第一道防線- 兩岸&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IYlAwWk41RENLZnVVcUJ5T01FWEVQY2RxQWs3QnMydkpIYTA0MEFJM1F5R3pZb3ZjTWRoN2pBWGpjX0VoSkRBcEU2VURCSDBlSHdsZWhpMVhQRldFNlpN?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "149c26f7b528",
+      "title": "醫晴醫情｜丙型肝炎病毒誘發淋巴癌",
+      "published": "2026-08-05T23:00:00+00:00",
+      "summary": "醫晴醫情｜丙型肝炎病毒誘發淋巴癌&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNa2xNZlpmYnVWb2xjaHZLREdGZGhYd2t3QWw0TFZqc0ZZZUxOYWRhVVRqUUY3WjB1STNkb2Q4QTlQNTFEUVFubGZGWHVQWWRmbTIzRTkzd3lTZm4wZ2R5SmhmYzEwSTUwMG16aWxRblhMLXlVNm9YS0hTLU9YY2pMa3dVTGdjZnJsOXpaMmhmTmpkNkxRZGxYZUpubmVOVjREbGkwb1V3b0xuMTNIeHpKMWRwNTdDcGdjNjdXbnA2WDN0bUpiQklFVkRYYWhuZ1pRZ0NSVlRoZ3VDeWMwUldnYS1YU2JBVDRna0lWNjU2eVR3eG9CaGNGbFgxcV83a0FmNW1MejltcS1IWjlUY2hraURQZzVQVTY0WFloc2Yzcw?oc=5"
         }
       ],
@@ -33,10 +94,23 @@
       ]
     },
     {
+      "id": "2870fac0f240",
+      "title": "維吉尼亞州報告首例本地感染登革熱病例 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
+      "published": "2026-08-05T22:41:15+00:00",
+      "summary": "維吉尼亞州報告首例本地感染登革熱病例 作者 Investing.com&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
+      "sources": [
+        {
+          "name": "Investing.com 香港 - 股市報價& 財經新聞",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0RWhfQ2didTE5YUlNX2VVem9ybjZ0S3RyTkRWVUZyanpJT0s3eFR5YUJYa04wLVBYYXNKSEE2azNNdFVKTVpEUXlRbzg1RzB6S3lfOS0wMm1CTGd3amJPQzh0QTN2TjE2bWdiQmFYTHQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "fee1415ab70a",
       "title": "大腸癌｜無便秘亦可能中招？專家拆解2大致癌壞習慣",
       "published": "2026-08-05T08:20:24+00:00",
-      "summary": "大腸癌｜無便秘亦可能中招？專家拆解2大致癌壞習慣&nbsp;&nbsp;TVB久坐、每天一杯酒…常見生活5習慣 恐增大腸癌風險&nbsp;&nbsp;世界新聞網重症解密｜港大院長劉澤星揭幹細胞逆轉大法！林秀怡直擊過程勁震撼&nbsp;&nbsp;New Monday重症解密｜楝篤笑藝人阿V自爆每月入院！靠一招重獲自由震驚網民&nbsp;&nbsp;GOtrip.hk大腸癌｜5旬單親媽媽無便秘行樓梯氣喘確診大腸癌三期醫生揭2大習慣誘癌後期一個病徵常被忽略- 東張+&nbsp;&nbsp;myTV SUPER",
+      "summary": "大腸癌｜無便秘亦可能中招？專家拆解2大致癌壞習慣&nbsp;&nbsp;TVB久坐、每天一杯酒…常見生活5習慣 恐增大腸癌風險&nbsp;&nbsp;世界新聞網重症解密｜楝篤笑藝人阿V自爆每月入院！靠一招重獲自由震驚網民&nbsp;&nbsp;GOtrip.hk大腸癌｜5旬單親媽媽無便秘行樓梯氣喘確診大腸癌三期醫生揭2大習慣誘癌後期一個病徵常被忽略- 東張+&nbsp;&nbsp;myTV SUPER重症解密｜腸胃專家陳家亮驚爆：便秘非大腸癌成因！一招可完全預防| 最新娛聞&nbsp;&nbsp;orientalsunday.hk",
       "sources": [
         {
           "name": "TVB",
@@ -206,7 +280,7 @@
       "id": "92c01d415398",
       "title": "菲律賓三寶顏暴發登革熱疫情 已確診1241宗至少12人死亡",
       "published": "2026-08-05T02:24:24+00:00",
-      "summary": "菲律賓三寶顏暴發登革熱疫情 已確診1241宗至少12人死亡&nbsp;&nbsp;橙新聞菲律賓三寶顏市暴發登革熱疫情已致12人死亡- 國際&nbsp;&nbsp;香港文匯報斯里蘭卡登革熱爆近十年最嚴重疫情 軍用無人機助剿蚊蟲滋生點&nbsp;&nbsp;客新聞 HakkaNews對付登革熱，斯里蘭卡動用無人機 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "summary": "菲律賓三寶顏暴發登革熱疫情 已確診1241宗至少12人死亡&nbsp;&nbsp;橙新聞",
       "sources": [
         {
           "name": "橙新聞",
@@ -453,7 +527,7 @@
     {
       "id": "b53eeed8e371",
       "title": "梅毒半年破6千例「創10年新高」！15~24歲增幅最大",
-      "published": "2026-08-04T06:38:53+00:00",
+      "published": "2026-08-04T06:54:23+00:00",
       "summary": "梅毒半年破6千例「創10年新高」！15~24歲增幅最大&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
@@ -488,90 +562,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "cadace95baaf",
-      "title": "血糖正常≠沒事！醫曝2類人胰臟快不行了糖尿病默默上身- 健康",
-      "published": "2026-08-04T02:28:20+00:00",
-      "summary": "血糖正常≠沒事！醫曝2類人胰臟快不行了糖尿病默默上身- 健康&nbsp;&nbsp;中時新聞網健康網》血糖正常也中招！網紅醫：阿茲海默症恐是大腦糖尿病&nbsp;&nbsp;自由健康網血糖正常也危險！醫曝「2類人」的胰臟快壞了：慘得糖尿病&nbsp;&nbsp;Yahoo新聞血糖正常≠健康！醫曝「2大警訊」胰臟早就在加班 恐罹糖尿病&nbsp;&nbsp;ETtoday健康雲健檢血糖正常別安心太早！醫曝「看不見的隱患」：失智、糖尿病風險大增&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FdVVwR0I2Q1dkVkIyM3l4UGxrbUU2RWZKajBqUHNtLXktdkhMd05xX2o5RUVreFFUZ1ZaajRiQUc3OHk0WUJUY0RsSE9qaG1mQUVTMEdmbU9KUHNmdzF0ZHV5dzUwUWh2clV5dWRR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f76ae354a6c0",
-      "title": "55歲是子宮內膜癌發生最多年齡！停經後出血＝不正常，別再當「回春」…每年3檢查保命：早期治癒率達9成5",
-      "published": "2026-08-04T02:10:00+00:00",
-      "summary": "55歲是子宮內膜癌發生最多年齡！停經後出血＝不正常，別再當「回春」…每年3檢查保命：早期治癒率達9成5&nbsp;&nbsp;幸福熟齡",
-      "sources": [
-        {
-          "name": "幸福熟齡",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ldFZmdkdmTW82TVlWTnNLSVc1amMwU0RWMUVpUkVMRFVoVFdkNHdSa0pxOTNBd1Z3WC1Sa29hUmVNWmlUemk0amdibEthZmJKNTE1dGlTVkx5WkRzVVpmNHRwNkJJNnY1b1hBTmhESmtqSi1DaWw5d1dydw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "子宮內膜癌",
-          "keyword": "子宮內膜癌",
-          "related_drugs": [
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
