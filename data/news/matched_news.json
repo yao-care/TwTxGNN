@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-07T11:38:03.452651+00:00",
-  "total_count": 26,
+  "last_updated": "2026-08-07T12:41:34.436517+00:00",
+  "total_count": 25,
   "matched_count": 9,
   "news": [
     {
@@ -56,13 +56,26 @@
       "matched_keywords": []
     },
     {
-      "id": "2bb00988de8b",
-      "title": "中年守住3項健康條件 最新研究：可遠離失智症超過10年",
-      "published": "2026-08-07T06:41:14+00:00",
-      "summary": "中年守住3項健康條件 最新研究：可遠離失智症超過10年&nbsp;&nbsp;元氣網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "6d7e04e8bf95",
+      "title": "避免電話手錶損傷孩子視力",
+      "published": "2026-08-07T06:52:54+00:00",
+      "summary": "避免電話手錶損傷孩子視力&nbsp;&nbsp;紫荊網",
       "sources": [
         {
-          "name": "元氣網",
+          "name": "紫荊網",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYW52UDA4X00zMTNqYzd5dUIwbXN0Xzgtdkd6VjVONjBXVHpGNHJGTWVYZFotUUVVa2dLWi1POFphMGxaUXQ1dWU5b3dHdExHVVNUQ2VyZWxpUUgzUENVSmx1MVVOM09fVEEya2V6bG5BYnZoeDNZdjVtUWZHREw0MlkzQlRsTzBJRUpENVZGa2Y?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9dee741c42e9",
+      "title": "中年守住3項健康條件 最新研究：可遠離失智症超過10年",
+      "published": "2026-08-07T06:41:14+00:00",
+      "summary": "中年守住3項健康條件 最新研究：可遠離失智症超過10年&nbsp;&nbsp;health.udn.com前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "health.udn.com",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSWVSME1XNW1pUWlRaEZsVTUtVk5EYllRSVVSZS1oY2VUNDd6WDc1b2IxblVWaWxaSUoxNjgxZ1YtMjBJc2FOR3VKTndCZ1NvQkFlcWo4andzcUQyZUU5RU1lbDdVTDFoOFJJX2gzMTFCbzRBTmktaFd1T0JFNkhPZHB3?oc=5"
         }
       ],
@@ -92,19 +105,6 @@
       ]
     },
     {
-      "id": "6d7e04e8bf95",
-      "title": "避免電話手錶損傷孩子視力",
-      "published": "2026-08-07T06:33:09+00:00",
-      "summary": "避免電話手錶損傷孩子視力&nbsp;&nbsp;紫荊網",
-      "sources": [
-        {
-          "name": "紫荊網",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYW52UDA4X00zMTNqYzd5dUIwbXN0Xzgtdkd6VjVONjBXVHpGNHJGTWVYZFotUUVVa2dLWi1POFphMGxaUXQ1dWU5b3dHdExHVVNUQ2VyZWxpUUgzUENVSmx1MVVOM09fVEEya2V6bG5BYnZoeDNZdjVtUWZHREw0MlkzQlRsTzBJRUpENVZGa2Y?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "b9b45cd931a5",
       "title": "蛇毒剋星竟藏蛇體內！美研究揭蛋白質可中和致命毒液",
       "published": "2026-08-07T06:06:00+00:00",
@@ -118,13 +118,13 @@
       "matched_keywords": []
     },
     {
-      "id": "6315a1baa7f1",
+      "id": "0dc2d8857e7e",
       "title": "乳癌不是治療5年就安全？癌細胞可能潛伏20年的真相",
       "published": "2026-08-07T01:06:58+00:00",
-      "summary": "乳癌不是治療5年就安全？癌細胞可能潛伏20年的真相&nbsp;&nbsp;tw.news.yahoo.com癌細胞躲哪去了？研究首繪藏身地圖 復發原因曝光&nbsp;&nbsp;自由健康網化療殺不死！狡猾癌細胞竟會「冬眠裝死」首度破解藏身地圖有望斬草除根&nbsp;&nbsp;三立新聞",
+      "summary": "乳癌不是治療5年就安全？癌細胞可能潛伏20年的真相&nbsp;&nbsp;Yahoo新聞癌細胞躲哪去了？研究首繪藏身地圖 復發原因曝光&nbsp;&nbsp;自由健康網化療殺不死！狡猾癌細胞竟會「冬眠裝死」首度破解藏身地圖有望斬草除根&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
+          "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOV0hyTUQtMjFZbXQ5YkhtYlpybFNiSU90cmRBUDJnMHpVQkZzNEJKQ1ZPZGtjTzhRd3ZtS1FnM084ZnM4dzhLRjNlNkdDWHNfLUVVc202WFZNaHlUejZjT2FkbHJOOFVYRmNzRk9rbzduUmZ4Q0lWV1MtNW1aNk5zWm53bDd2aWRRZU5OdzNndTRPYV9hYnVoZ0dId0ZJRTBkOTk2RVlCTGpjQ3Q3SVdLQWxTb3AzR25qc0hmc2VVbHMtUENubWQxMkxpeEg4eGdkbzBPdzVlYU9kcy1DNkV1akV6SjBLTDlyQ0tROEtQc3VPdWZLNVdtTU1BcUIyS1hpaDFpYjFnaWpkTFNxbjA1Nll1V19sLTRDOGJQZklNV1NXSkZqY2dWU2UyREpLdzlyVV9uM3lhVHR2SDZyN2FfNmdZMExnTFExV1RrNUg5M29WLVRY?oc=5"
         }
       ],
@@ -183,24 +183,11 @@
       "id": "1574a50ac98d",
       "title": "紐約市衛生局檢測到攜帶西尼羅河病毒的蚊子數量為去年兩倍",
       "published": "2026-08-06T19:41:08+00:00",
-      "summary": "紐約市衛生局檢測到攜帶西尼羅河病毒的蚊子數量為去年兩倍&nbsp;&nbsp;世界新聞網",
+      "summary": "紐約市衛生局檢測到攜帶西尼羅河病毒的蚊子數量為去年兩倍&nbsp;&nbsp;世界新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82eS1WVWhURVd1RC1pSTU5MWJ2YzE5MllHd3BhMGFFRzBZUzU1UDZpSnhldHgzTDg1U05CQ1VwS19uX1MtMm9BaXl3QnJpaDFOZE5ReW1yS3pTRUdHbkFQR2tn0gFnQVVfeXFMTjBuZmpvNE43ek5lNVM2aFVubjY2NWZyWTJLZ0pPanFhT05vZlY0RndoVWxuVVVmWHBwa3ZMZWxLT2dFZTYtTkRXYk84MzE3R1ZwcE1USk9DTkp1SmhLRUZ3Q0paNjZMbw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6c6a1b82806f",
-      "title": "HIV風險｜旅行艷遇恐染病！醫生揭5大高危行為及6症狀應盡快求醫| 健康解「迷」 - 醫學通識- 健康好人生 - etnet 經濟通",
-      "published": "2026-08-06T11:23:16+00:00",
-      "summary": "HIV風險｜旅行艷遇恐染病！醫生揭5大高危行為及6症狀應盡快求醫| 健康解「迷」 - 醫學通識- 健康好人生&nbsp;&nbsp;etnet 經濟通",
-      "sources": [
-        {
-          "name": "etnet 經濟通",
-          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPQ3hheU5WUHNrbFhPNmtvS0ppN3c3WTU3SG00dlVrT2RBN0xMQVlONnltN1lXQmw4SmVWVHo5Q2FzdVlkZmE4NnVMdWZpYkp2Q2d4QWtRNmd1U2tWOXN1Rk04bW1YZnA5aWxlRlhkcXdreGZSVkRGUThKN3RhYmhqTWlpZUFuLWt6NDl6TFl2UjMwRVdPcHNkVHAxOFgwR2thYk83MzFmTWZwNG5MUUNIWERKQkpfc3VvaEJobzh5R1I5Mk9neE9GUkdXek93VU5vbEZyUWRHZzRtX2FzNjBPWG4zUWZkeXM2NklrdkZKQ081dXVwY0FHcHMwTDVEVV8wU1c4c1FQWmpMQUZ2cm42SERZMkluc3ZjeHNYdGNNYzRhVXhGMHphNjBCVHZXMEZfdjJZcFg0T3ZoazBRMV8wUU9jdUNRRTBNYmpfZmlLUGtnRl8zM1kwaXlhWW5mYjJBSndIN3FKRk51TmNUWGI5QlpELUtrSVcwcFdIbW1BRWhSbk55bW5qc3JaMUpEbFFKaGNQYkRINlNZUDRYMWViVURPc21hZW5C?oc=5"
         }
       ],
       "matched_keywords": []
@@ -244,13 +231,13 @@
       ]
     },
     {
-      "id": "f127adeb7182",
-      "title": "BB 免疫力upgrade？🥳 聽我講！💪",
+      "id": "37392178f320",
+      "title": "BB 免疫力upgrade？🥳 聽我講！💪 - U Lifestyle",
       "published": "2026-08-06T07:48:01+00:00",
-      "summary": "BB 免疫力upgrade？🥳 聽我講！💪&nbsp;&nbsp;ulifestyle.com.hk",
+      "summary": "BB 免疫力upgrade？🥳 聽我講！💪&nbsp;&nbsp;U Lifestyle",
       "sources": [
         {
-          "name": "ulifestyle.com.hk",
+          "name": "U Lifestyle",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3dvZGxNNHBWdXVyRV9jMEYxNzNCSDN5R2hPMXlFTlRfMktwdVI1a2NJQkxJVWpfWjJmOWFJUjJLTGc3VU1YQXFWZG16d1ZHb19ZaU9tWTBsanU4Zmpfb1cxS010eTRuNnZoNGlyNXhzMll5T01QUE5USGlwUEcwV0N0bzl1MDg0SlAtZGhrdmZFQlZ1b0wwZmw2OTRlcVdXck50SHdUWWdRQWRPMmVuU2w2UF9PMW5hT01GU0ZMcDc?oc=5"
         }
       ],
@@ -308,7 +295,7 @@
       "id": "173436566e34",
       "title": "國人最缺維生素D！營養師曝4大營養失衡影響 補鉀有助降血壓",
       "published": "2026-08-06T06:36:34+00:00",
-      "summary": "國人最缺維生素D！營養師曝4大營養失衡影響 補鉀有助降血壓&nbsp;&nbsp;UDN7成↑女性缺乏這維生素！她吃2個月經痛消失、掉髮改善 網大讚：人生升級神器&nbsp;&nbsp;tw.news.yahoo.com國人最缺維生素D！營養師曝4大營養失衡影響補鉀有助降血壓| 2026九合一選舉&nbsp;&nbsp;UDN經痛、掉髮竟是同一原因？女子補維生素D驚見2大改變&nbsp;&nbsp;造咖健康網》維生素D降呼吸道感染風險！營養師：吃這些可補&nbsp;&nbsp;自由健康網",
+      "summary": "國人最缺維生素D！營養師曝4大營養失衡影響 補鉀有助降血壓&nbsp;&nbsp;UDN7成↑女性缺乏這維生素！她吃2個月經痛消失、掉髮改善 網大讚：人生升級神器&nbsp;&nbsp;Yahoo新聞國人最缺維生素D！營養師曝4大營養失衡影響補鉀有助降血壓| 2026九合一選舉&nbsp;&nbsp;UDN經痛、掉髮竟是同一原因？女子補維生素D驚見2大改變&nbsp;&nbsp;造咖健康網》維生素D降呼吸道感染風險！營養師：吃這些可補&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "UDN",
@@ -369,26 +356,26 @@
       ]
     },
     {
-      "id": "5dc72820a43a",
-      "title": "說好一起顧家，女生卻扛下更多家事：某些男人的「家事不對稱」現象，十分耐人尋味 - A Day Magazine",
+      "id": "c0254f3ab144",
+      "title": "說好一起顧家，女生卻扛下更多家事：某些男人的「家事不對稱」現象，十分耐人尋味",
       "published": "2026-08-06T04:43:01+00:00",
-      "summary": "說好一起顧家，女生卻扛下更多家事：某些男人的「家事不對稱」現象，十分耐人尋味&nbsp;&nbsp;A Day Magazine",
+      "summary": "說好一起顧家，女生卻扛下更多家事：某些男人的「家事不對稱」現象，十分耐人尋味&nbsp;&nbsp;adaymag.com",
       "sources": [
         {
-          "name": "A Day Magazine",
+          "name": "adaymag.com",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GcVNaYndTOEZYWGJSMFdQNjdwNy16d0Y5WnRQQmI5aXpjMUJISjJuYURxQlQzeThOejJubjlzWEZFYXdBaHU0SllNYWRZeFdJZThJenhaYmZaR3pvNzdBVEdnZUhEOS1jTmNUWG1BbGp6UzZ0bXgwRHlnVHc?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "24cd8ce7b418",
+      "id": "9c8da73a088d",
       "title": "研究揭莓果護心效果驚人 心血管疾病風險降26％",
       "published": "2026-08-06T04:21:55+00:00",
-      "summary": "研究揭莓果護心效果驚人 心血管疾病風險降26％&nbsp;&nbsp;tw.news.yahoo.com前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "研究揭莓果護心效果驚人 心血管疾病風險降26％&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
+          "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOM2N0OURMaVpzcGJqS2sza3R3a1pMYVdXZElwdUNVYTBDNlJNTklrNkp4S0EtYW5OMHNWSnlxbmVfNnBTQlNSVnZzb0t1RXhnT0ZYRWx2bVpnY05SbWVqR1FyWFI4d0wwQmFoQTlDWExGOFVoMzdOcjdVQVp2Y2ZjcEtlTjdScVQwVmYyTWtlN05BUFdnU3J4S3UyNk9VdkxnWm5mVXByRzhUTHY1VUFMcTZxcjJPMHJlVHg4REt2VVRxcENNMTZ2Ymp2ZGlpckh0T3M5WENtblRVSC1uR3lqS2RXNjRoanRQbjU3enpsd0N1MG1iZjNPQmJ3c2tpTWNfbkc5SUJLVjRUeDY0dGhpUTYzMjVYaF9obngxNGREaUU4bU1hc3R5OHZSN0JkM05TaFVhRnByNXlPeVE?oc=5"
         }
       ],
@@ -418,26 +405,26 @@
       ]
     },
     {
-      "id": "0b4906e07739",
+      "id": "3e75bf6792e1",
       "title": "守護骨本抗骨鬆！嘉榮醫半年一針助阿嬤穩健行走",
-      "published": "2026-08-06T03:51:00+00:00",
-      "summary": "守護骨本抗骨鬆！嘉榮醫半年一針助阿嬤穩健行走&nbsp;&nbsp;蕃新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "published": "2026-08-06T03:51:30+00:00",
+      "summary": "守護骨本抗骨鬆！嘉榮醫半年一針助阿嬤穩健行走&nbsp;&nbsp;引新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52OFZlckMyRnVuOC1kcWRudGQyWmhZRDlFYkJKWnF6VklKZnktRkdlcTNwM2piSWhTZkxXMEx4cmJvUEl5UFhjN05UMVN5VGo3bVE?oc=5"
+          "name": "引新聞",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQYThoRXg0NFV0TUVRaktLbmdoM0JOWkctM3ZVckd2MTFyYXJnZFFWeEEyQkxib2lOX05PT1lGaUZkM0ItS0dmUk1wcTBOVzM3QXY1dGRUREtJaWVRNUI3Yk56bFNxLUlpd3ZwYzA4eGpHeFJtd1ZPLUJIUm11a0tvMXdHLWczd2I0TGk3N2JVU3BaZ1pobkdPR3hrdU1ydF9uLVhxdGZQSnRCUnVvUWNpRDdQbXRkak45NEdxYXJpaEdOQ2NOcTBQZm9JYnhsR29HUEJxc3lhNDhLalljVzVUb1BqMHp4Nl9CWlJyLUJsdmNZd0hJb19uWkd2LU16aEN6X0JlUUs5NHdtQUtKVHd6bUdsWmpMZFNkVFQ5eklmUFVXbjdLODVuanBaVVRyMm5vZTJBbUFQTFRVTEVDYVVfdC1CWQ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "41192720c8d9",
+      "id": "fb1a9d3b43f2",
       "title": "癌細胞竟靠果糖互傳訊號 化療成功仍可能復發轉移",
       "published": "2026-08-06T03:16:52+00:00",
-      "summary": "癌細胞竟靠果糖互傳訊號 化療成功仍可能復發轉移&nbsp;&nbsp;tw.news.yahoo.com",
+      "summary": "癌細胞竟靠果糖互傳訊號 化療成功仍可能復發轉移&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
+          "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOLWtUeGNhWExrZ1c4UEFXbjdMY3MtUmh5bzZBOVNSNUJpUUVGOW1vVDhYVkRid1dNUTlKdkE5VXlIdzhhUHo5ckVIN1BBRzlEQlI2T3lWNWRyME5DcXh1X0xBU3cwbjVyVi1LTk91X2k4XzBaQmlPUl93UWs0RUtvc3FNcE1oN3hrR2pwNEg4bmkyNlB1ZHpuNjk3X1BGR1hhVks0YnBOdTNvSDE4MS1TMTlMb0lpbDRzdTh0bnZIQzd1dThua2cwRF9EMlNmNWRxTHphcjNqUU04OFAzTUZ3ZjRXcktnSmNVa0duUEQ1WGRHeGNoNkpFT1ZCQTJ1UURmZEJIZGxldG9adFFHcDlLRDIwVk5BUDZrZVBNc090S291VklqVHpWYU9HTld3bDA0NjI0cHI3eWZ6WnhGXzhaSzNCLVBwSU5qRURnM3VTUEY1b2p2MFlhN1BSeVY?oc=5"
         }
       ],

@@ -47,7 +47,7 @@ permalink: /news/gefitinib/
 
 2026-08-07 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[元氣網](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSWVSME1XNW1pUWlRaEZsVTUtVk5EYllRSVVSZS1oY2VUNDd6WDc1b2IxblVWaWxaSUoxNjgxZ1YtMjBJc2FOR3VKTndCZ1NvQkFlcWo4andzcUQyZUU5RU1lbDdVTDFoOFJJX2gzMTFCbzRBTmktaFd1T0JFNkhPZHB3?oc=5)
+來源：[health.udn.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSWVSME1XNW1pUWlRaEZsVTUtVk5EYllRSVVSZS1oY2VUNDd6WDc1b2IxblVWaWxaSUoxNjgxZ1YtMjBJc2FOR3VKTndCZ1NvQkFlcWo4andzcUQyZUU5RU1lbDdVTDFoOFJJX2gzMTFCbzRBTmktaFd1T0JFNkhPZHB3?oc=5)
 
 ---
 
