@@ -1,16 +1,16 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-06T23:50:19.095037+00:00",
-  "count": 21,
+  "fetched_at": "2026-08-07T02:09:54.917111+00:00",
+  "count": 23,
   "news": [
     {
-      "id": "7cb631c9cd09",
-      "title": "中年守住3項健康條件 最新研究：可遠離失智症超過10年 - UDN",
+      "id": "7e3a5afadb94",
+      "title": "中年守住3項健康條件 最新研究：可遠離失智症超過10年 - udn",
       "published": "2026-08-06T07:48:02+00:00",
-      "summary": "中年守住3項健康條件 最新研究：可遠離失智症超過10年&nbsp;&nbsp;UDN中年做好「這3件事」 有機會延緩失智症13年&nbsp;&nbsp;自由健康網45歲後做好3件事 研究：失智症平均可延後近13年&nbsp;&nbsp;Taiwan News45歲後是關鍵！研究曝「做好3件事」可多13年不失智- 國際&nbsp;&nbsp;中時新聞網研究顯示：中壯年人維生素D水準與降低阿茲海默症風險相關- 國際&nbsp;&nbsp;工商時報",
+      "summary": "中年守住3項健康條件 最新研究：可遠離失智症超過10年&nbsp;&nbsp;udn中年做好「這3件事」 有機會延緩失智症13年&nbsp;&nbsp;自由健康網45歲後做好3件事 研究：失智症平均可延後近13年&nbsp;&nbsp;Taiwan News45歲後是關鍵！研究曝「做好3件事」可多13年不失智- 國際&nbsp;&nbsp;中時新聞網研究顯示：中壯年人維生素D水準與降低阿茲海默症風險相關- 國際&nbsp;&nbsp;ctee.com.tw",
       "sources": [
         {
-          "name": "UDN",
+          "name": "udn",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IcnJUOXZTb29TQUtTNXNIb3hTcHdOX1dJM0s5NVRTXzEzM0dwSHVXWmpNZzVRS19ZR0QtU29Vb2ZEWFFHWDhzQVN0cnZaUmhZ0gFWQVVfeXFMTk8xNWtpeDdBQmpsUWNWZXZzcF9xNWxZQjRaZzdkU3BIdHZOVS05RDYxSUdvaFFXUTZEWVZoQUxWUGdFcXM0blgwZ3BqTERseTBYSEVicmc?oc=5"
         }
       ]
@@ -24,6 +24,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MTlRTTmljM21VR19aNThDZ0tONzRWQVRlREJiejY2LUhMOWJSS3YydDB4cFpBa1o5YXFxQllCUHRlMTJzV0h3bFNfYlhVYVVOOThoLWpPeEhwNXJMaWtIN21hSFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fb1a9d3b43f2",
+      "title": "癌細胞竟靠果糖互傳訊號 化療成功仍可能復發轉移 - Yahoo新聞",
+      "published": "2026-08-06T03:16:52+00:00",
+      "summary": "癌細胞竟靠果糖互傳訊號 化療成功仍可能復發轉移&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOLWtUeGNhWExrZ1c4UEFXbjdMY3MtUmh5bzZBOVNSNUJpUUVGOW1vVDhYVkRid1dNUTlKdkE5VXlIdzhhUHo5ckVIN1BBRzlEQlI2T3lWNWRyME5DcXh1X0xBU3cwbjVyVi1LTk91X2k4XzBaQmlPUl93UWs0RUtvc3FNcE1oN3hrR2pwNEg4bmkyNlB1ZHpuNjk3X1BGR1hhVks0YnBOdTNvSDE4MS1TMTlMb0lpbDRzdTh0bnZIQzd1dThua2cwRF9EMlNmNWRxTHphcjNqUU04OFAzTUZ3ZjRXcktnSmNVa0duUEQ1WGRHeGNoNkpFT1ZCQTJ1UURmZEJIZGxldG9adFFHcDlLRDIwVk5BUDZrZVBNc090S291VklqVHpWYU9HTld3bDA0NjI0cHI3eWZ6WnhGXzhaSzNCLVBwSU5qRURnM3VTUEY1b2p2MFlhN1BSeVY?oc=5"
         }
       ]
     },
@@ -52,30 +64,6 @@
       ]
     },
     {
-      "id": "fb1a9d3b43f2",
-      "title": "癌細胞竟靠果糖互傳訊號 化療成功仍可能復發轉移 - Yahoo新聞",
-      "published": "2026-08-06T03:16:52+00:00",
-      "summary": "癌細胞竟靠果糖互傳訊號 化療成功仍可能復發轉移&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOLWtUeGNhWExrZ1c4UEFXbjdMY3MtUmh5bzZBOVNSNUJpUUVGOW1vVDhYVkRid1dNUTlKdkE5VXlIdzhhUHo5ckVIN1BBRzlEQlI2T3lWNWRyME5DcXh1X0xBU3cwbjVyVi1LTk91X2k4XzBaQmlPUl93UWs0RUtvc3FNcE1oN3hrR2pwNEg4bmkyNlB1ZHpuNjk3X1BGR1hhVks0YnBOdTNvSDE4MS1TMTlMb0lpbDRzdTh0bnZIQzd1dThua2cwRF9EMlNmNWRxTHphcjNqUU04OFAzTUZ3ZjRXcktnSmNVa0duUEQ1WGRHeGNoNkpFT1ZCQTJ1UURmZEJIZGxldG9adFFHcDlLRDIwVk5BUDZrZVBNc090S291VklqVHpWYU9HTld3bDA0NjI0cHI3eWZ6WnhGXzhaSzNCLVBwSU5qRURnM3VTUEY1b2p2MFlhN1BSeVY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "173436566e34",
-      "title": "國人最缺維生素D！營養師曝4大營養失衡影響 補鉀有助降血壓 - UDN",
-      "published": "2026-08-06T06:36:34+00:00",
-      "summary": "國人最缺維生素D！營養師曝4大營養失衡影響 補鉀有助降血壓&nbsp;&nbsp;UDN前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NYktDc3hLdFA2eENReU5vZkFFay0yTWUxRmNSb2pBT2hpWi1JWGFWZS00d2tldVdzTGVOREh4c1FlN214MGViaW5VUzRYRC1OOGlFUjZxSGRoTlo1V3VSbC1ORUtidFU0WDVsd2FpdHJOa2VkTzR6eG9HZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0a406b6a1bd6",
       "title": "便秘竟是腸道老化？醫揭驚人失智危機 - 東森新聞",
       "published": "2026-08-06T02:38:00+00:00",
@@ -100,6 +88,18 @@
       ]
     },
     {
+      "id": "e0c6cca2087a",
+      "title": "國人最缺維生素D！營養師曝4大營養失衡影響 補鉀有助降血壓 - udn",
+      "published": "2026-08-06T06:36:34+00:00",
+      "summary": "國人最缺維生素D！營養師曝4大營養失衡影響 補鉀有助降血壓&nbsp;&nbsp;udn前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "udn",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NYktDc3hLdFA2eENReU5vZkFFay0yTWUxRmNSb2pBT2hpWi1JWGFWZS00d2tldVdzTGVOREh4c1FlN214MGViaW5VUzRYRC1OOGlFUjZxSGRoTlo1V3VSbC1ORUtidFU0WDVsd2FpdHJOa2VkTzR6eG9HZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5dc72820a43a",
       "title": "說好一起顧家，女生卻扛下更多家事：某些男人的「家事不對稱」現象，十分耐人尋味 - A Day Magazine",
       "published": "2026-08-06T04:43:01+00:00",
@@ -112,13 +112,13 @@
       ]
     },
     {
-      "id": "8d5390932a95",
-      "title": "成都「追蚊人」夏日逆行築起防疫第一道防線- 兩岸 - 工商時報",
+      "id": "ee6bbc3bd6da",
+      "title": "成都「追蚊人」夏日逆行築起防疫第一道防線- 兩岸 - ctee.com.tw",
       "published": "2026-08-06T00:17:00+00:00",
-      "summary": "成都「追蚊人」夏日逆行築起防疫第一道防線- 兩岸&nbsp;&nbsp;工商時報",
+      "summary": "成都「追蚊人」夏日逆行築起防疫第一道防線- 兩岸&nbsp;&nbsp;ctee.com.tw",
       "sources": [
         {
-          "name": "工商時報",
+          "name": "ctee.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IYlAwWk41RENLZnVVcUJ5T01FWEVQY2RxQWs3QnMydkpIYTA0MEFJM1F5R3pZb3ZjTWRoN2pBWGpjX0VoSkRBcEU2VURCSDBlSHdsZWhpMVhQRldFNlpN?oc=5"
         }
       ]
@@ -136,6 +136,18 @@
       ]
     },
     {
+      "id": "0dc2d8857e7e",
+      "title": "乳癌不是治療5年就安全？癌細胞可能潛伏20年的真相 - Yahoo新聞",
+      "published": "2026-08-07T01:06:58+00:00",
+      "summary": "乳癌不是治療5年就安全？癌細胞可能潛伏20年的真相&nbsp;&nbsp;Yahoo新聞癌細胞躲哪去了？研究首繪藏身地圖 復發原因曝光&nbsp;&nbsp;自由健康網化療殺不死！狡猾癌細胞竟會「冬眠裝死」首度破解藏身地圖有望斬草除根&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOV0hyTUQtMjFZbXQ5YkhtYlpybFNiSU90cmRBUDJnMHpVQkZzNEJKQ1ZPZGtjTzhRd3ZtS1FnM084ZnM4dzhLRjNlNkdDWHNfLUVVc202WFZNaHlUejZjT2FkbHJOOFVYRmNzRk9rbzduUmZ4Q0lWV1MtNW1aNk5zWm53bDd2aWRRZU5OdzNndTRPYV9hYnVoZ0dId0ZJRTBkOTk2RVlCTGpjQ3Q3SVdLQWxTb3AzR25qc0hmc2VVbHMtUENubWQxMkxpeEg4eGdkbzBPdzVlYU9kcy1DNkV1akV6SjBLTDlyQ0tROEtQc3VPdWZLNVdtTU1BcUIyS1hpaDFpYjFnaWpkTFNxbjA1Nll1V19sLTRDOGJQZklNV1NXSkZqY2dWU2UyREpLdzlyVV9uM3lhVHR2SDZyN2FfNmdZMExnTFExV1RrNUg5M29WLVRY?oc=5"
+        }
+      ]
+    },
+    {
       "id": "736e660f9d26",
       "title": "健康網》體重過輕想增重別踩雷！ 醫曝「骯髒增重」恐有心臟風險 - 自由健康網",
       "published": "2026-08-05T04:32:00+00:00",
@@ -148,26 +160,26 @@
       ]
     },
     {
-      "id": "8abb91f23f1c",
-      "title": "守護骨本抗骨鬆！嘉榮醫半年一針助阿嬤穩健行走 - Yahoo",
-      "published": "2026-08-06T04:03:12+00:00",
-      "summary": "守護骨本抗骨鬆！嘉榮醫半年一針助阿嬤穩健行走&nbsp;&nbsp;Yahoo健康網》只靠鈣片、維D恐沒用 研究揭防骨折真正有效3關鍵&nbsp;&nbsp;自由健康網40歲後身高縮水超過3公分嗎？小心脊椎沈默骨折正在發生中&nbsp;&nbsp;東森新聞骨質疏鬆不只找上老人！白、瘦、不曬太陽成高風險族群 醫師點名8大護骨營養素&nbsp;&nbsp;經濟日報天天吃麵包恐引發骨質疏鬆！醫提醒：高磷飲食才是隱形殺手，這3類食物少吃&nbsp;&nbsp;女人我最大",
+      "id": "e034aa48be2c",
+      "title": "性病危機｜旅行有艷遇勿「衝動留情」 5大NG行為恐惹性病 醫生警告：回國後中6症狀速求醫 - 香港經濟日報HKET",
+      "published": "2026-08-05T05:03:45+00:00",
+      "summary": "性病危機｜旅行有艷遇勿「衝動留情」 5大NG行為恐惹性病 醫生警告：回國後中6症狀速求醫&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQdGRKVTBlbVhfZnpjZnVhN2llY01KMjRBdGJoM1RvX3V2bUFUV3NlTE1ISTZEd0ZrX0lEVVplZUpxYUdKbHlIYlZPZjF6UjdZamw3c29TOG41THlPTFhLMHQ0YUxKbHJ3a2NTODFZSGZtNEhOei1RU3JXOHp1S1I5eDR6aURQTTM4d3A1bGFvWnBINS1IbVJtcjZXUVRmOWw3RkNiRTlxOGM4OHMxWTFpNlMzbkNfTGktdUJPSklWODhFclNUQjJaRU5KTnV5QURqYUEwdnoyU05iRnExMFJEcjNlVHo2U0FLUW1NT1Y5UE51TmxQN3NKNVNRbnlIWFJKVDZ2SFNtOExvMDRpWWlVOWE5MkhsNXZfamg0TFdYOHp6MDFyME9zSUlXRU9qU2M4LXJnR3VvaVRaMG5XTGtN?oc=5"
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMitwRBVV95cUxQRGpoc0Zkdmh4VjQ1VUItb0ZoY1FuZzEyNlQ5ZEdYVm1sQmJKeENzdlZUX05oY2JmTVJobEhrTnFJeWFxSS12a2pTYm1rNnVwR19SNEYxRDFuUmZreWFYZXQ5NlZlS0FoT2pjU1ROck1UQlBoZFVpV1Z5ZmYtYkRtTm1GNi1ESnZlemRXX0pvbm5iRUsxcUVHN1ZMZUNON1VxaXNDWTdoUDJqRHVQSzdnZDZFYTFwbGY5Z1g4TDB0bTF1N0FBMm5GTnpUUUE3b09hbTlodkJHZlIybGxSSnI5a0QxdzFzU3NLelNnX282TGxOQ2o4VVdOeU9mZDdDSmM3UTB6LWNhOGkzODBxZ3FPcFpPcGlIcWxiZXRhckxiTDB1UjBQUWtjOHVuQ3NhQ0FUR2dQOWM4dkQxOVd5LTlRWER5QkxvTzZJRTd5SFJBNl9yZFRJTnM2MlVTYUN1NDNfbDNqMEs4OU5nblhTWk05dUpJS21QcnNTY0tHeGVFaWJnVGVTUVNoc2FQems2dkJTLTJhT0NZTDFsVHJ2YmNzNHBEMURKb2tjR3gwV080YVZ5OXlCQklkeHVraFRJazNVWjJNN1hoTnlPY3ZaWEtkRVJCWWZLeWlhREtfdG02WU5ERlc0MTNtM3NIalNmc1pzMXBmSHhQMjY1bzE1cUFSZFNPR0tYWTJKS1VmUHpEMjhrRHkzSGpuT2lEelgtT0FTZ2tYeHVxSVBSTF9oSVlxS2NzLTNiVXc?oc=5"
         }
       ]
     },
     {
-      "id": "6c6a1b82806f",
-      "title": "HIV風險｜旅行艷遇恐染病！醫生揭5大高危行為及6症狀應盡快求醫| 健康解「迷」 - 醫學通識- 健康好人生 - etnet 經濟通",
-      "published": "2026-08-06T11:23:16+00:00",
-      "summary": "HIV風險｜旅行艷遇恐染病！醫生揭5大高危行為及6症狀應盡快求醫| 健康解「迷」 - 醫學通識- 健康好人生&nbsp;&nbsp;etnet 經濟通",
+      "id": "3e75bf6792e1",
+      "title": "守護骨本抗骨鬆！嘉榮醫半年一針助阿嬤穩健行走 - 引新聞",
+      "published": "2026-08-06T03:51:30+00:00",
+      "summary": "守護骨本抗骨鬆！嘉榮醫半年一針助阿嬤穩健行走&nbsp;&nbsp;引新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "etnet 經濟通",
-          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPQ3hheU5WUHNrbFhPNmtvS0ppN3c3WTU3SG00dlVrT2RBN0xMQVlONnltN1lXQmw4SmVWVHo5Q2FzdVlkZmE4NnVMdWZpYkp2Q2d4QWtRNmd1U2tWOXN1Rk04bW1YZnA5aWxlRlhkcXdreGZSVkRGUThKN3RhYmhqTWlpZUFuLWt6NDl6TFl2UjMwRVdPcHNkVHAxOFgwR2thYk83MzFmTWZwNG5MUUNIWERKQkpfc3VvaEJobzh5R1I5Mk9neE9GUkdXek93VU5vbEZyUWRHZzRtX2FzNjBPWG4zUWZkeXM2NklrdkZKQ081dXVwY0FHcHMwTDVEVV8wU1c4c1FQWmpMQUZ2cm42SERZMkluc3ZjeHNYdGNNYzRhVXhGMHphNjBCVHZXMEZfdjJZcFg0T3ZoazBRMV8wUU9jdUNRRTBNYmpfZmlLUGtnRl8zM1kwaXlhWW5mYjJBSndIN3FKRk51TmNUWGI5QlpELUtrSVcwcFdIbW1BRWhSbk55bW5qc3JaMUpEbFFKaGNQYkRINlNZUDRYMWViVURPc21hZW5C?oc=5"
+          "name": "引新聞",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQYThoRXg0NFV0TUVRaktLbmdoM0JOWkctM3ZVckd2MTFyYXJnZFFWeEEyQkxib2lOX05PT1lGaUZkM0ItS0dmUk1wcTBOVzM3QXY1dGRUREtJaWVRNUI3Yk56bFNxLUlpd3ZwYzA4eGpHeFJtd1ZPLUJIUm11a0tvMXdHLWczd2I0TGk3N2JVU3BaZ1pobkdPR3hrdU1ydF9uLVhxdGZQSnRCUnVvUWNpRDdQbXRkak45NEdxYXJpaEdOQ2NOcTBQZm9JYnhsR29HUEJxc3lhNDhLalljVzVUb1BqMHp4Nl9CWlJyLUJsdmNZd0hJb19uWkd2LU16aEN6X0JlUUs5NHdtQUtKVHd6bUdsWmpMZFNkVFQ5eklmUFVXbjdLODVuanBaVVRyMm5vZTJBbUFQTFRVTEVDYVVfdC1CWQ?oc=5"
         }
       ]
     },
@@ -180,6 +192,18 @@
         {
           "name": "幸福熟齡",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ldFZmdkdmTW82TVlWTnNLSVc1amMwU0RWMUVpUkVMRFVoVFdkNHdSa0pxOTNBd1Z3WC1Sa29hUmVNWmlUemk0amdibEthZmJKNTE1dGlTVkx5WkRzVVpmNHRwNkJJNnY1b1hBTmhESmtqSi1DaWw5d1dydw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2b708eeed3f4",
+      "title": "黎彼得離世｜專家揭長者中風突發徵狀！切勿忽視4大先兆：出現這警號即求醫！ - UHK 港生活",
+      "published": "2026-08-06T05:48:40+00:00",
+      "summary": "黎彼得離世｜專家揭長者中風突發徵狀！切勿忽視4大先兆：出現這警號即求醫！&nbsp;&nbsp;UHK 港生活",
+      "sources": [
+        {
+          "name": "UHK 港生活",
+          "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxNdERzT0RoUW8xZl9GZTZJa3JITUpjS2pndkp1QnRxOFYzUExNalhHeHZ6bF94cHowV3llbUlicjRzZ2hDelcwVTFsQnh0dkNuaHlCYjJTblhOdTk3a0g3XzNXeWczYkwzVTMtNGV0UzRId1U5M1pOMndpZ3RYbHEzSnpFSGZGOV9QM0FJb29NWFU1aUVFWWZUNHJPMWpFSWpneEpVemh6d1VKYkJxWkhtbndPaUh1WllHMVZjNlFrQkhyQVRqRXYxejZMZzJqWF9IbVlvTmtWTHNpcXNtLTVHT0ZtTWREcFh4cldHQmhpN3QxQXFobkdXM0tzVjF1UFVDQ2V3Y2JmNTBoSF91ZWxUcl9NdGRHb3d6Q0dPOEtSWS1CTVQ5cnhXZzNfT2VyTkFpb3VHMHF3bzFaVmJZUlFqdlZTTFZsd3Y4eEZLQ2QwU2VLUzZNVDVoWndHSmo1RFk3Yi1sczYyWWVmbFFQLXR2aVRTdURaYlFjUEpUMDN6Q09CakdQRjI1dnhkNTlVNEFsZnNIcG5BTno5Ql9DTFNFMW1wZVRuYVM2dTFMQlRmRmd3N0otS2puZDNmdzlqQlBoOEE?oc=5"
         }
       ]
     },
@@ -220,14 +244,14 @@
       ]
     },
     {
-      "id": "7c7e6c8bd33c",
+      "id": "37392178f320",
       "title": "BB 免疫力upgrade？🥳 聽我講！💪 - U Lifestyle",
       "published": "2026-08-06T07:48:01+00:00",
       "summary": "BB 免疫力upgrade？🥳 聽我講！💪&nbsp;&nbsp;U Lifestyle",
       "sources": [
         {
           "name": "U Lifestyle",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSVliWkNUelg1YjBaczdoem00cGxrbXBZMUd5ZFZFY3BMclJnbXJBWkpTUzYxT0NicnRZbWRoSFZ2ZHpPRlZKaTJVdjkzcXVLcXBvLTg3Q0JKYy12VHRYU1plZ2Nza2F6TjBITGROR0FUX29tT29LQWphLU5hN1c0c19ZU2Y3MVNKN1VRdW9SWW5iNWpLdldCaHljc2tpZnJGMTBwNzJUVnJKMDFkcFhKa0JISjh1NDVELU9QT0MwN0I?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3dvZGxNNHBWdXVyRV9jMEYxNzNCSDN5R2hPMXlFTlRfMktwdVI1a2NJQkxJVWpfWjJmOWFJUjJLTGc3VU1YQXFWZG16d1ZHb19ZaU9tWTBsanU4Zmpfb1cxS010eTRuNnZoNGlyNXhzMll5T01QUE5USGlwUEcwV0N0bzl1MDg0SlAtZGhrdmZFQlZ1b0wwZmw2OTRlcVdXck50SHdUWWdRQWRPMmVuU2w2UF9PMW5hT01GU0ZMcDc?oc=5"
         }
       ]
     },

@@ -1,7 +1,55 @@
 {
-  "generated": "2026-08-06T23:50:23.441061+00:00",
-  "count": 8,
+  "generated": "2026-08-07T02:09:58.550327+00:00",
+  "count": 10,
   "news": [
+    {
+      "id": "0dc2d8857e7e",
+      "title": "乳癌不是治療5年就安全？癌細胞可能潛伏20年的真相",
+      "published": "2026-08-07T01:06:58+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOV0hyTUQtMjFZbXQ5YkhtYlpybFNiSU90cmRBUDJnMHpVQkZzNEJKQ1ZPZGtjTzhRd3ZtS1FnM084ZnM4dzhLRjNlNkdDWHNfLUVVc202WFZNaHlUejZjT2FkbHJOOFVYRmNzRk9rbzduUmZ4Q0lWV1MtNW1aNk5zWm53bDd2aWRRZU5OdzNndTRPYV9hYnVoZ0dId0ZJRTBkOTk2RVlCTGpjQ3Q3SVdLQWxTb3AzR25qc0hmc2VVbHMtUENubWQxMkxpeEg4eGdkbzBPdzVlYU9kcy1DNkV1akV6SjBLTDlyQ0tROEtQc3VPdWZLNVdtTU1BcUIyS1hpaDFpYjFnaWpkTFNxbjA1Nll1V19sLTRDOGJQZklNV1NXSkZqY2dWU2UyREpLdzlyVV9uM3lhVHR2SDZyN2FfNmdZMExnTFExV1RrNUg5M29WLVRY?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "0dd35cffec5d",
       "title": "嬤吃白帶魚防失智1清洗動作醫傻眼珍貴護腦部位沒了- 健康",
@@ -27,12 +75,12 @@
       ]
     },
     {
-      "id": "7cb631c9cd09",
+      "id": "7e3a5afadb94",
       "title": "中年守住3項健康條件 最新研究：可遠離失智症超過10年",
       "published": "2026-08-06T07:48:02+00:00",
       "sources": [
         {
-          "name": "UDN",
+          "name": "udn",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IcnJUOXZTb29TQUtTNXNIb3hTcHdOX1dJM0s5NVRTXzEzM0dwSHVXWmpNZzVRS19ZR0QtU29Vb2ZEWFFHWDhzQVN0cnZaUmhZ0gFWQVVfeXFMTk8xNWtpeDdBQmpsUWNWZXZzcF9xNWxZQjRaZzdkU3BIdHZOVS05RDYxSUdvaFFXUTZEWVZoQUxWUGdFcXM0blgwZ3BqTERseTBYSEVicmc?oc=5"
         }
       ],
@@ -114,6 +162,34 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2b708eeed3f4",
+      "title": "黎彼得離世｜專家揭長者中風突發徵狀！切勿忽視4大先兆：出現這警號即求醫！ - UHK 港生活",
+      "published": "2026-08-06T05:48:40+00:00",
+      "sources": [
+        {
+          "name": "UHK 港生活",
+          "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxNdERzT0RoUW8xZl9GZTZJa3JITUpjS2pndkp1QnRxOFYzUExNalhHeHZ6bF94cHowV3llbUlicjRzZ2hDelcwVTFsQnh0dkNuaHlCYjJTblhOdTk3a0g3XzNXeWczYkwzVTMtNGV0UzRId1U5M1pOMndpZ3RYbHEzSnpFSGZGOV9QM0FJb29NWFU1aUVFWWZUNHJPMWpFSWpneEpVemh6d1VKYkJxWkhtbndPaUh1WllHMVZjNlFrQkhyQVRqRXYxejZMZzJqWF9IbVlvTmtWTHNpcXNtLTVHT0ZtTWREcFh4cldHQmhpN3QxQXFobkdXM0tzVjF1UFVDQ2V3Y2JmNTBoSF91ZWxUcl9NdGRHb3d6Q0dPOEtSWS1CTVQ5cnhXZzNfT2VyTkFpb3VHMHF3bzFaVmJZUlFqdlZTTFZsd3Y4eEZLQ2QwU2VLUzZNVDVoWndHSmo1RFk3Yi1sczYyWWVmbFFQLXR2aVRTdURaYlFjUEpUMDN6Q09CakdQRjI1dnhkNTlVNEFsZnNIcG5BTno5Ql9DTFNFMW1wZVRuYVM2dTFMQlRmRmd3N0otS2puZDNmdzlqQlBoOEE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
             }
           ]
         }
