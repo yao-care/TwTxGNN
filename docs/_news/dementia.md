@@ -31,11 +31,11 @@ permalink: /news/dementia/
 
 ## 相關新聞（3 則）
 
-### [嬤吃白帶魚防失智1清洗動作醫傻眼珍貴護腦部位沒了- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1Hb2dCQUljd2RqWW9NRldFS1lndGU3Q0pLYURrOFhuaUdTUEE5a3U1UzEyVm16Z3ppQU9CbmZDbFFRbU1wc3pBeVJXZ0NQb21UUWZkeVJGNFNSX2Y0Wm9EZ2JtVzNhMHVYN1NldERB?oc=5)
+### [嬤吃白帶魚防失智1清洗動作醫傻眼珍貴護腦部位沒了- 健康](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbnJMeFBMTDFDanBoNmhZZHZ5MENjZzJQNG5xdm1wSWtkWm9vV0dlSzZOMXhLSEpJZ1diVy04TWZoVEY4SE9IYWFBQnEza09NdldyczBUMWJTTGs5ZDd1SEstNGR0QW81R2FVanRpZkxwSjQ0MHJsdlBKRGtDR3QwSWROMjJJcXlBM3VyUEI3cw?oc=5)
 
 2026-08-06
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1Hb2dCQUljd2RqWW9NRldFS1lndGU3Q0pLYURrOFhuaUdTUEE5a3U1UzEyVm16Z3ppQU9CbmZDbFFRbU1wc3pBeVJXZ0NQb21UUWZkeVJGNFNSX2Y0Wm9EZ2JtVzNhMHVYN1NldERB?oc=5)
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbnJMeFBMTDFDanBoNmhZZHZ5MENjZzJQNG5xdm1wSWtkWm9vV0dlSzZOMXhLSEpJZ1diVy04TWZoVEY4SE9IYWFBQnEza09NdldyczBUMWJTTGs5ZDd1SEstNGR0QW81R2FVanRpZkxwSjQ0MHJsdlBKRGtDR3QwSWROMjJJcXlBM3VyUEI3cw?oc=5)
 
 ---
 
