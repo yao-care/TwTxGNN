@@ -35,7 +35,7 @@ permalink: /news/dementia/
 
 2026-08-07
 
-來源：[health.udn.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSWVSME1XNW1pUWlRaEZsVTUtVk5EYllRSVVSZS1oY2VUNDd6WDc1b2IxblVWaWxaSUoxNjgxZ1YtMjBJc2FOR3VKTndCZ1NvQkFlcWo4andzcUQyZUU5RU1lbDdVTDFoOFJJX2gzMTFCbzRBTmktaFd1T0JFNkhPZHB3?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSWVSME1XNW1pUWlRaEZsVTUtVk5EYllRSVVSZS1oY2VUNDd6WDc1b2IxblVWaWxaSUoxNjgxZ1YtMjBJc2FOR3VKTndCZ1NvQkFlcWo4andzcUQyZUU5RU1lbDdVTDFoOFJJX2gzMTFCbzRBTmktaFd1T0JFNkhPZHB3?oc=5)
 
 ---
 
@@ -51,7 +51,7 @@ permalink: /news/dementia/
 
 2026-08-06
 
-來源：[news.ebc.net.tw](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VN2FQOW5zUjZaTlVOV3RQRU5mRlRpT1lMd1dZWndRSDRHMnhjTm9WbHdycW9KUEhxVlpQV1hGa0Y3ODZKNW1OeTViTWRZRHQ5S2xPdg?oc=5)
+來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VN2FQOW5zUjZaTlVOV3RQRU5mRlRpT1lMd1dZWndRSDRHMnhjTm9WbHdycW9KUEhxVlpQV1hGa0Y3ODZKNW1OeTViTWRZRHQ5S2xPdg?oc=5)
 
 ---
 
