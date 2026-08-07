@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-07T20:30:25.039916+00:00",
+  "fetched_at": "2026-08-07T21:29:09.705811+00:00",
   "count": 28,
   "news": [
     {
@@ -88,18 +88,6 @@
       ]
     },
     {
-      "id": "27816bf385a3",
-      "title": "西方飲食為何助長大腸癌？ 研究揭腸道菌關鍵機制 - 自由健康網",
-      "published": "2026-08-06T07:46:00+00:00",
-      "summary": "西方飲食為何助長大腸癌？ 研究揭腸道菌關鍵機制&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfUWFvUnh3YjU3aVFnQ3BtZWpwdUVYX3NfNF9GeFRjVmJMamVHbTNQTTJuTnF4QW4xVzVsaFhrTWNVYkNmb2ZTSVJja3g1TGtlbmpXYWNRQTItNkFVR2kzNnQyNlY?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0a406b6a1bd6",
       "title": "便秘竟是腸道老化？醫揭驚人失智危機 - 東森新聞",
       "published": "2026-08-06T02:38:00+00:00",
@@ -108,6 +96,18 @@
         {
           "name": "東森新聞",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VN2FQOW5zUjZaTlVOV3RQRU5mRlRpT1lMd1dZWndRSDRHMnhjTm9WbHdycW9KUEhxVlpQV1hGa0Y3ODZKNW1OeTViTWRZRHQ5S2xPdg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "27816bf385a3",
+      "title": "西方飲食為何助長大腸癌？ 研究揭腸道菌關鍵機制 - 自由健康網",
+      "published": "2026-08-06T07:46:00+00:00",
+      "summary": "西方飲食為何助長大腸癌？ 研究揭腸道菌關鍵機制&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfUWFvUnh3YjU3aVFnQ3BtZWpwdUVYX3NfNF9GeFRjVmJMamVHbTNQTTJuTnF4QW4xVzVsaFhrTWNVYkNmb2ZTSVJja3g1TGtlbmpXYWNRQTItNkFVR2kzNnQyNlY?oc=5"
         }
       ]
     },
@@ -124,13 +124,13 @@
       ]
     },
     {
-      "id": "173436566e34",
-      "title": "國人最缺維生素D！營養師曝4大營養失衡影響 補鉀有助降血壓 - UDN",
+      "id": "e0c6cca2087a",
+      "title": "國人最缺維生素D！營養師曝4大營養失衡影響 補鉀有助降血壓 - udn",
       "published": "2026-08-06T06:36:34+00:00",
-      "summary": "國人最缺維生素D！營養師曝4大營養失衡影響 補鉀有助降血壓&nbsp;&nbsp;UDN7成↑女性缺乏這維生素！她吃2個月經痛消失、掉髮改善 網大讚：人生升級神器&nbsp;&nbsp;Yahoo新聞國人最缺維生素D！營養師曝4大營養失衡影響補鉀有助降血壓| 2026九合一選舉&nbsp;&nbsp;UDN經痛、掉髮竟是同一原因？女子補維生素D驚見2大改變&nbsp;&nbsp;造咖健康網》維生素D降呼吸道感染風險！營養師：吃這些可補&nbsp;&nbsp;自由健康網",
+      "summary": "國人最缺維生素D！營養師曝4大營養失衡影響 補鉀有助降血壓&nbsp;&nbsp;udn7成↑女性缺乏這維生素！她吃2個月經痛消失、掉髮改善 網大讚：人生升級神器&nbsp;&nbsp;Yahoo新聞國人最缺維生素D！營養師曝4大營養失衡影響補鉀有助降血壓| 2026九合一選舉&nbsp;&nbsp;udn經痛、掉髮竟是同一原因？女子補維生素D驚見2大改變&nbsp;&nbsp;cava.tw健康網》維生素D降呼吸道感染風險！營養師：吃這些可補&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "UDN",
+          "name": "udn",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NYktDc3hLdFA2eENReU5vZkFFay0yTWUxRmNSb2pBT2hpWi1JWGFWZS00d2tldVdzTGVOREh4c1FlN214MGViaW5VUzRYRC1OOGlFUjZxSGRoTlo1V3VSbC1ORUtidFU0WDVsd2FpdHJOa2VkTzR6eG9HZw?oc=5"
         }
       ]
@@ -232,13 +232,13 @@
       ]
     },
     {
-      "id": "2bf7799993a1",
-      "title": "紐約市衛生局檢測到攜帶西尼羅河病毒的蚊子數量為去年兩倍 - worldjournal.com",
+      "id": "1574a50ac98d",
+      "title": "紐約市衛生局檢測到攜帶西尼羅河病毒的蚊子數量為去年兩倍 - 世界新聞網",
       "published": "2026-08-06T19:41:08+00:00",
-      "summary": "紐約市衛生局檢測到攜帶西尼羅河病毒的蚊子數量為去年兩倍&nbsp;&nbsp;worldjournal.com前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "紐約市衛生局檢測到攜帶西尼羅河病毒的蚊子數量為去年兩倍&nbsp;&nbsp;世界新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "worldjournal.com",
+          "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82eS1WVWhURVd1RC1pSTU5MWJ2YzE5MllHd3BhMGFFRzBZUzU1UDZpSnhldHgzTDg1U05CQ1VwS19uX1MtMm9BaXl3QnJpaDFOZE5ReW1yS3pTRUdHbkFQR2tn0gFnQVVfeXFMTjBuZmpvNE43ek5lNVM2aFVubjY2NWZyWTJLZ0pPanFhT05vZlY0RndoVWxuVVVmWHBwa3ZMZWxLT2dFZTYtTkRXYk84MzE3R1ZwcE1USk9DTkp1SmhLRUZ3Q0paNjZMbw?oc=5"
         }
       ]
@@ -292,13 +292,13 @@
       ]
     },
     {
-      "id": "4ae933ac3d7f",
-      "title": "慢阻肺不可逆 一半煙民中招 - AM730",
+      "id": "2d56a1af03a2",
+      "title": "慢阻肺不可逆 一半煙民中招 - am730.com.hk",
       "published": "2026-08-06T20:00:00+00:00",
-      "summary": "慢阻肺不可逆 一半煙民中招&nbsp;&nbsp;AM730",
+      "summary": "慢阻肺不可逆 一半煙民中招&nbsp;&nbsp;am730.com.hk",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730.com.hk",
           "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaHZGZjRjRWtRaUIyZk9uUmZUYWFGaHA2LVcyYzhaQy1uTTZ0MjZxVkh3aDlMUE5zOGE5bzhSVm1Gc3B4SHAtVEpSQVRPUlJxSkJWYnlPOHlZTTN1TC1BZGRpSDd2TTFBVF9JcUtIZ1B6Ynp6WHZVMUplSVUtMkdtczhYNjhTQUUyRWl6dUhSd01zXzVsVW16OEdoemV5QkJiT09SZkVxRlVaTTczb0tRelE3REhHaWEzcGdNVm04d1kyT3p6WmlxQ3l0QWszczAzd1NyZnVuVWUxQkxFUVhaUzFOMVh1bGZjclY4R0ZLYnk4d1k?oc=5"
         }
       ]
