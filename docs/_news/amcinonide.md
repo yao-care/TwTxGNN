@@ -14,7 +14,7 @@ permalink: /news/amcinonide/
 ---
 
 <p class="key-answer" data-question="Amcinonide 有什麼相關新聞？">
-<strong>Amcinonide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 8 個。
+<strong>Amcinonide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 8 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/amcinonide/
 <p><a href="{{ '/drugs/amcinonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [《Nature Aging》果糖誘發腫瘤轉移?! 卵巢癌研究首揭營養物質促癌擴散角色](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ec014Y196V21wdkZXaG1vN0FUZ29WUWlpMUxSZnZpMnFCRHhMcGZOcWFuV0J0cVVtT21XYmpablR6TGlHeG1qWXl0R3dXVzh3Z095QzBoOEtIdTRTRTZHQWRvcUxQSE1u?oc=5)
+
+2026-08-06 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
+
+來源：[環球生技月刊](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ec014Y196V21wdkZXaG1vN0FUZ29WUWlpMUxSZnZpMnFCRHhMcGZOcWFuV0J0cVVtT21XYmpablR6TGlHeG1qWXl0R3dXVzh3Z095QzBoOEtIdTRTRTZHQWRvcUxQSE1u?oc=5)
+
+---
 
 ### [醫晴醫情｜丙型肝炎病毒誘發淋巴癌](https://news.google.com/rss/articles/CBMikgJBVV95cUxNd2ZOSWl0SUJVZFkxNFUwaXRXMVZuNkFYUWx4OThrX3E0c1JhV192YmRYZUFneGxnRXAzckdYdURlOWQ3LUx4OHdBOGVKOEZTeWotYXlXNnZJZzdhSkdOenNrcEpibDFZbkV6ZU1ZUkZpNkdaNWFlU3p3S3hvYy1oVGNZbUlMVUNNYkdFX24wRVNBQ3pXdkdqVTMxQk9YeWJhWlhDTHp6bGV2TnR5WWRXWXlUdnVzbm9DaVN4ZjVmVVhQa3pnSjNfc1Y0RWt5S2x0R1RRLWFTNmxqUzkzRDdJdU5WMDR3TXUwUHp4OUFEd3lPOTRLYWRROV9MUGwzVnVoazFIOFRaTzgybFpiZEVtNGV3?oc=5)
 
