@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-08T04:05:05.081837+00:00",
-  "total_count": 24,
+  "last_updated": "2026-08-08T05:35:31.672636+00:00",
+  "total_count": 23,
   "matched_count": 5,
   "news": [
     {
@@ -219,13 +219,13 @@
       ]
     },
     {
-      "id": "4ae933ac3d7f",
+      "id": "2d56a1af03a2",
       "title": "慢阻肺不可逆 一半煙民中招",
       "published": "2026-08-06T20:00:00+00:00",
-      "summary": "慢阻肺不可逆 一半煙民中招&nbsp;&nbsp;AM730",
+      "summary": "慢阻肺不可逆 一半煙民中招&nbsp;&nbsp;am730.com.hk",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730.com.hk",
           "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaHZGZjRjRWtRaUIyZk9uUmZUYWFGaHA2LVcyYzhaQy1uTTZ0MjZxVkh3aDlMUE5zOGE5bzhSVm1Gc3B4SHAtVEpSQVRPUlJxSkJWYnlPOHlZTTN1TC1BZGRpSDd2TTFBVF9JcUtIZ1B6Ynp6WHZVMUplSVUtMkdtczhYNjhTQUUyRWl6dUhSd01zXzVsVW16OEdoemV5QkJiT09SZkVxRlVaTTczb0tRelE3REhHaWEzcGdNVm04d1kyT3p6WmlxQ3l0QWszczAzd1NyZnVuVWUxQkxFUVhaUzFOMVh1bGZjclY4R0ZLYnk4d1k?oc=5"
         }
       ],
@@ -370,13 +370,13 @@
       "matched_keywords": []
     },
     {
-      "id": "5dc72820a43a",
-      "title": "說好一起顧家，女生卻扛下更多家事：某些男人的「家事不對稱」現象，十分耐人尋味 - A Day Magazine",
+      "id": "c0254f3ab144",
+      "title": "說好一起顧家，女生卻扛下更多家事：某些男人的「家事不對稱」現象，十分耐人尋味",
       "published": "2026-08-06T04:43:01+00:00",
-      "summary": "說好一起顧家，女生卻扛下更多家事：某些男人的「家事不對稱」現象，十分耐人尋味&nbsp;&nbsp;A Day Magazine",
+      "summary": "說好一起顧家，女生卻扛下更多家事：某些男人的「家事不對稱」現象，十分耐人尋味&nbsp;&nbsp;adaymag.com",
       "sources": [
         {
-          "name": "A Day Magazine",
+          "name": "adaymag.com",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GcVNaYndTOEZYWGJSMFdQNjdwNy16d0Y5WnRQQmI5aXpjMUJISjJuYURxQlQzeThOejJubjlzWEZFYXdBaHU0SllNYWRZeFdJZThJenhaYmZaR3pvNzdBVEdnZUhEOS1jTmNUWG1BbGp6UzZ0bXgwRHlnVHc?oc=5"
         }
       ],
@@ -427,19 +427,6 @@
         {
           "name": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQdGRKVTBlbVhfZnpjZnVhN2llY01KMjRBdGJoM1RvX3V2bUFUV3NlTE1ISTZEd0ZrX0lEVVplZUpxYUdKbHlIYlZPZjF6UjdZamw3c29TOG41THlPTFhLMHQ0YUxKbHJ3a2NTODFZSGZtNEhOei1RU3JXOHp1S1I5eDR6aURQTTM4d3A1bGFvWnBINS1IbVJtcjZXUVRmOWw3RkNiRTlxOGM4OHMxWTFpNlMzbkNfTGktdUJPSklWODhFclNUQjJaRU5KTnV5QURqYUEwdnoyU05iRnExMFJEcjNlVHo2U0FLUW1NT1Y5UE51TmxQN3NKNVNRbnlIWFJKVDZ2SFNtOExvMDRpWWlVOWE5MkhsNXZfamg0TFdYOHp6MDFyME9zSUlXRU9qU2M4LXJnR3VvaVRaMG5XTGtN?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fb1a9d3b43f2",
-      "title": "癌細胞竟靠果糖互傳訊號 化療成功仍可能復發轉移",
-      "published": "2026-08-06T03:16:52+00:00",
-      "summary": "癌細胞竟靠果糖互傳訊號 化療成功仍可能復發轉移&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOLWtUeGNhWExrZ1c4UEFXbjdMY3MtUmh5bzZBOVNSNUJpUUVGOW1vVDhYVkRid1dNUTlKdkE5VXlIdzhhUHo5ckVIN1BBRzlEQlI2T3lWNWRyME5DcXh1X0xBU3cwbjVyVi1LTk91X2k4XzBaQmlPUl93UWs0RUtvc3FNcE1oN3hrR2pwNEg4bmkyNlB1ZHpuNjk3X1BGR1hhVks0YnBOdTNvSDE4MS1TMTlMb0lpbDRzdTh0bnZIQzd1dThua2cwRF9EMlNmNWRxTHphcjNqUU04OFAzTUZ3ZjRXcktnSmNVa0duUEQ1WGRHeGNoNkpFT1ZCQTJ1UURmZEJIZGxldG9adFFHcDlLRDIwVk5BUDZrZVBNc090S291VklqVHpWYU9HTld3bDA0NjI0cHI3eWZ6WnhGXzhaSzNCLVBwSU5qRURnM3VTUEY1b2p2MFlhN1BSeVY?oc=5"
         }
       ],
       "matched_keywords": []
