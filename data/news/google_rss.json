@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-08T22:18:41.534066+00:00",
+  "fetched_at": "2026-08-08T23:18:37.332231+00:00",
   "count": 15,
   "news": [
     {
@@ -36,6 +36,18 @@
         {
           "name": "ETtoday新聞雲",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KSGE4Wmw2MktmQWtQcDRGVklmdm1XbWJGZGFvYlFnR2xrUExnVkZTM0Y5UG1TbmphN29IME9uVTlyRWhOczVDUXJUcF9BZGNDOWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fbc97ddcfb46",
+      "title": "中年控三指標 延緩失智症長達13年 - Singtaousa",
+      "published": "2026-08-07T17:12:08+00:00",
+      "summary": "中年控三指標 延緩失智症長達13年&nbsp;&nbsp;Singtaousa中年守住3項健康條件 最新研究：可遠離失智症超過10年&nbsp;&nbsp;UDN中年做好「這3件事」 有機會延緩失智症13年&nbsp;&nbsp;自由健康網45歲後做好3件事 研究：失智症平均可延後近13年&nbsp;&nbsp;Taiwan News45歲後是關鍵！研究曝「做好3件事」可多13年不失智- 國際&nbsp;&nbsp;chinatimes.com",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWpZZ0lacmw3WG9fMkNlenhhZFZMVVM1MkNhZEZOMEd4ZFh5Y1dkRnlBS1RMVzh2V3pMcmdUc0plSmIyS2tzR0Nqb1Joa2p0WmtZNlpxSHlsWDBRWERMR2VULTRHZkwtLTBxQXhueklTZ3g4Y0k5M1VrY2xXdWlON0Y5UjRKcTdGSXQ4RlVtdzhQQkYyMmgyYjdOQlJOa01lbkY4VUVwTERVTmljYTFZ?oc=5"
         }
       ]
     },
@@ -84,18 +96,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKZ2JRSklfRnFQNmNZLXhhel8xcXpBWWx5dE12c0RYQ205NmRTOFhRSFYybnJiaDQ5c0NiUWdyN2pvN2ZneG4wOGtpci1pT3hsUk5EU0YwbVFUN1JfMmVrY1JudnQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fbc97ddcfb46",
-      "title": "中年控三指標 延緩失智症長達13年 - Singtaousa",
-      "published": "2026-08-07T17:12:08+00:00",
-      "summary": "中年控三指標 延緩失智症長達13年&nbsp;&nbsp;Singtaousa中年守住3項健康條件 最新研究：可遠離失智症超過10年&nbsp;&nbsp;UDN中年做好「這3件事」 有機會延緩失智症13年&nbsp;&nbsp;自由健康網45歲後做好3件事 研究：失智症平均可延後近13年&nbsp;&nbsp;Taiwan News45歲後是關鍵！研究曝「做好3件事」可多13年不失智- 國際&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWpZZ0lacmw3WG9fMkNlenhhZFZMVVM1MkNhZEZOMEd4ZFh5Y1dkRnlBS1RMVzh2V3pMcmdUc0plSmIyS2tzR0Nqb1Joa2p0WmtZNlpxSHlsWDBRWERMR2VULTRHZkwtLTBxQXhueklTZ3g4Y0k5M1VrY2xXdWlON0Y5UjRKcTdGSXQ4RlVtdzhQQkYyMmgyYjdOQlJOa01lbkY4VUVwTERVTmljYTFZ?oc=5"
         }
       ]
     },
