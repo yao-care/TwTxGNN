@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-08T21:20:40.063258+00:00",
-  "count": 14,
+  "fetched_at": "2026-08-08T22:18:41.534066+00:00",
+  "count": 15,
   "news": [
     {
       "id": "fa3020b07801",
@@ -36,6 +36,18 @@
         {
           "name": "ETtoday新聞雲",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KSGE4Wmw2MktmQWtQcDRGVklmdm1XbWJGZGFvYlFnR2xrUExnVkZTM0Y5UG1TbmphN29IME9uVTlyRWhOczVDUXJUcF9BZGNDOWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "26fe51200fe7",
+      "title": "調理乳癌體質 醫推4大關鍵營養 - Yahoo新聞",
+      "published": "2026-08-08T22:00:21+00:00",
+      "summary": "調理乳癌體質 醫推4大關鍵營養&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMzJEblhlLXZRejJ6TE8xWTNocVdvR3ExZmNxNlo5Qm5LSjdlc2prWEFoN2MyaEtPSzc0bXB6ZXZabHBoaUpLQWtGSTRUdlBKS05DTlRwd3BKLUFyTUxmYmRWWUdhaVhTM1Zqczd2ZUhGWFdGS3ZuZldPMGtPZy1laUhHaFhmUXRrMnlZQ1NxaHk4YmpDcHBlZ2FCZXNVYTFQN0xBeEpLRC1QZGNrWlM1aUlPcE1LT041QjUwTDRXMFF2V0VYdnJaZ3dNS2hwQjRFWHB6YjhYb213S0J2ejZ0M3doNzNnTUtBb3pvVTN6TFFtQQ?oc=5"
         }
       ]
     },

@@ -14,7 +14,7 @@ permalink: /news/docetaxel/
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Docetaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/docetaxel/
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [調理乳癌體質 醫推4大關鍵營養](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMzJEblhlLXZRejJ6TE8xWTNocVdvR3ExZmNxNlo5Qm5LSjdlc2prWEFoN2MyaEtPSzc0bXB6ZXZabHBoaUpLQWtGSTRUdlBKS05DTlRwd3BKLUFyTUxmYmRWWUdhaVhTM1Zqczd2ZUhGWFdGS3ZuZldPMGtPZy1laUhHaFhmUXRrMnlZQ1NxaHk4YmpDcHBlZ2FCZXNVYTFQN0xBeEpLRC1QZGNrWlM1aUlPcE1LT041QjUwTDRXMFF2V0VYdnJaZ3dNS2hwQjRFWHB6YjhYb213S0J2ejZ0M3doNzNnTUtBb3pvVTN6TFFtQQ?oc=5)
+
+2026-08-08 <span class="news-indication-tag">乳癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMzJEblhlLXZRejJ6TE8xWTNocVdvR3ExZmNxNlo5Qm5LSjdlc2prWEFoN2MyaEtPSzc0bXB6ZXZabHBoaUpLQWtGSTRUdlBKS05DTlRwd3BKLUFyTUxmYmRWWUdhaVhTM1Zqczd2ZUhGWFdGS3ZuZldPMGtPZy1laUhHaFhmUXRrMnlZQ1NxaHk4YmpDcHBlZ2FCZXNVYTFQN0xBeEpLRC1QZGNrWlM1aUlPcE1LT041QjUwTDRXMFF2V0VYdnJaZ3dNS2hwQjRFWHB6YjhYb213S0J2ejZ0M3doNzNnTUtBb3pvVTN6TFFtQQ?oc=5)
+
+---
 
 ### [乳癌不是治療5年就安全？癌細胞可能潛伏20年的真相](https://news.google.com/rss/articles/CBMi1AJBVV95cUxOV0hyTUQtMjFZbXQ5YkhtYlpybFNiSU90cmRBUDJnMHpVQkZzNEJKQ1ZPZGtjTzhRd3ZtS1FnM084ZnM4dzhLRjNlNkdDWHNfLUVVc202WFZNaHlUejZjT2FkbHJOOFVYRmNzRk9rbzduUmZ4Q0lWV1MtNW1aNk5zWm53bDd2aWRRZU5OdzNndTRPYV9hYnVoZ0dId0ZJRTBkOTk2RVlCTGpjQ3Q3SVdLQWxTb3AzR25qc0hmc2VVbHMtUENubWQxMkxpeEg4eGdkbzBPdzVlYU9kcy1DNkV1akV6SjBLTDlyQ0tROEtQc3VPdWZLNVdtTU1BcUIyS1hpaDFpYjFnaWpkTFNxbjA1Nll1V19sLTRDOGJQZklNV1NXSkZqY2dWU2UyREpLdzlyVV9uM3lhVHR2SDZyN2FfNmdZMExnTFExV1RrNUg5M29WLVRY?oc=5)
 

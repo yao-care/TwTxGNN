@@ -1,8 +1,57 @@
 {
-  "last_updated": "2026-08-08T21:20:44.761029+00:00",
-  "total_count": 14,
-  "matched_count": 3,
+  "last_updated": "2026-08-08T22:18:46.896526+00:00",
+  "total_count": 15,
+  "matched_count": 4,
   "news": [
+    {
+      "id": "26fe51200fe7",
+      "title": "調理乳癌體質 醫推4大關鍵營養",
+      "published": "2026-08-08T22:00:21+00:00",
+      "summary": "調理乳癌體質 醫推4大關鍵營養&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMzJEblhlLXZRejJ6TE8xWTNocVdvR3ExZmNxNlo5Qm5LSjdlc2prWEFoN2MyaEtPSzc0bXB6ZXZabHBoaUpLQWtGSTRUdlBKS05DTlRwd3BKLUFyTUxmYmRWWUdhaVhTM1Zqczd2ZUhGWFdGS3ZuZldPMGtPZy1laUhHaFhmUXRrMnlZQ1NxaHk4YmpDcHBlZ2FCZXNVYTFQN0xBeEpLRC1QZGNrWlM1aUlPcE1LT041QjUwTDRXMFF2V0VYdnJaZ3dNS2hwQjRFWHB6YjhYb213S0J2ejZ0M3doNzNnTUtBb3pvVTN6TFFtQQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "fa3020b07801",
       "title": "運動不只讓心臟更強壯，還會重塑心臟的神經網路 - TechNews 科技新報",
