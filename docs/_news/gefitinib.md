@@ -47,15 +47,15 @@ permalink: /news/gefitinib/
 
 2026-08-08 <span class="news-indication-tag">失智</span>
 
-來源：[health.ettoday.net](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1za090MlhpczY0MUdEM0s5LXpsTUt2Z1hlZlZJTHNkcWp4Nl9GMlJoZjUzaUlJd3BfS1pzTnhidl8wOVVmUEd2SjUxVk5qckN30gFPQVVfeXFMTXdzQng1N0psam0xNVBQbTY5a1lvbnNLZEJzRk5aekdIb1lfS3pZazJISHg5MTdVOWR6Q1dYbWFfOVhLSXd1a18wNUNuanA1NA?oc=5)
+來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1za090MlhpczY0MUdEM0s5LXpsTUt2Z1hlZlZJTHNkcWp4Nl9GMlJoZjUzaUlJd3BfS1pzTnhidl8wOVVmUEd2SjUxVk5qckN30gFPQVVfeXFMTXdzQng1N0psam0xNVBQbTY5a1lvbnNLZEJzRk5aekdIb1lfS3pZazJISHg5MTdVOWR6Q1dYbWFfOVhLSXd1a18wNUNuanA1NA?oc=5)
 
 ---
 
-### [中年守住3項健康條件 最新研究：可遠離失智症超過10年](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSWVSME1XNW1pUWlRaEZsVTUtVk5EYllRSVVSZS1oY2VUNDd6WDc1b2IxblVWaWxaSUoxNjgxZ1YtMjBJc2FOR3VKTndCZ1NvQkFlcWo4andzcUQyZUU5RU1lbDdVTDFoOFJJX2gzMTFCbzRBTmktaFd1T0JFNkhPZHB3?oc=5)
+### [中年控三指標 延緩失智症長達13年](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWpZZ0lacmw3WG9fMkNlenhhZFZMVVM1MkNhZEZOMEd4ZFh5Y1dkRnlBS1RMVzh2V3pMcmdUc0plSmIyS2tzR0Nqb1Joa2p0WmtZNlpxSHlsWDBRWERMR2VULTRHZkwtLTBxQXhueklTZ3g4Y0k5M1VrY2xXdWlON0Y5UjRKcTdGSXQ4RlVtdzhQQkYyMmgyYjdOQlJOa01lbkY4VUVwTERVTmljYTFZ?oc=5)
 
 2026-08-07 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[元氣網](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSWVSME1XNW1pUWlRaEZsVTUtVk5EYllRSVVSZS1oY2VUNDd6WDc1b2IxblVWaWxaSUoxNjgxZ1YtMjBJc2FOR3VKTndCZ1NvQkFlcWo4andzcUQyZUU5RU1lbDdVTDFoOFJJX2gzMTFCbzRBTmktaFd1T0JFNkhPZHB3?oc=5)
+來源：[singtaousa.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWpZZ0lacmw3WG9fMkNlenhhZFZMVVM1MkNhZEZOMEd4ZFh5Y1dkRnlBS1RMVzh2V3pMcmdUc0plSmIyS2tzR0Nqb1Joa2p0WmtZNlpxSHlsWDBRWERMR2VULTRHZkwtLTBxQXhueklTZ3g4Y0k5M1VrY2xXdWlON0Y5UjRKcTdGSXQ4RlVtdzhQQkYyMmgyYjdOQlJOa01lbkY4VUVwTERVTmljYTFZ?oc=5)
 
 ---
 
