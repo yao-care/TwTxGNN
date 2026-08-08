@@ -1,13 +1,26 @@
 {
-  "last_updated": "2026-08-08T15:20:13.952516+00:00",
-  "total_count": 14,
+  "last_updated": "2026-08-08T16:21:20.755347+00:00",
+  "total_count": 15,
   "matched_count": 3,
   "news": [
+    {
+      "id": "fa3020b07801",
+      "title": "運動不只讓心臟更強壯，還會重塑心臟的神經網路 - TechNews 科技新報",
+      "published": "2026-08-08T16:01:51+00:00",
+      "summary": "運動不只讓心臟更強壯，還會重塑心臟的神經網路&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT2E1aDAwMXRtSWtocHE2OWlEV0VGbThzNzFLZl9yX2QzSERCTllzbFMwXy1GT3M2TkkyaG16Tlc1VlZwc2Nrek4wbXBxMGxDSlJhWUtoS3E1SHE4T0ZNUlhOZGtIX3FKVTViblBHeDJGUkZSMlVsUWg3ZlIza2NqNA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "0e452d547fd7",
       "title": "台灣人最容易缺這4種營養素！營養師曝「最快補法」",
       "published": "2026-08-08T11:36:00+00:00",
-      "summary": "台灣人最容易缺這4種營養素！營養師曝「最快補法」&nbsp;&nbsp;ETtoday新聞雲7成↑女性缺乏這維生素！她吃2個月經痛消失、掉髮改善 網大讚：人生升級神器&nbsp;&nbsp;Yahoo新聞國人最缺維生素D！營養師曝4大營養失衡影響補鉀有助降血壓| 2026九合一選舉&nbsp;&nbsp;udn.com健康網》維生素D降呼吸道感染風險！營養師：吃這些可補&nbsp;&nbsp;自由健康網經痛、掉髮竟是同一原因？女子補維生素D驚見2大改變&nbsp;&nbsp;造咖",
+      "summary": "台灣人最容易缺這4種營養素！營養師曝「最快補法」&nbsp;&nbsp;ETtoday新聞雲7成↑女性缺乏這維生素！她吃2個月經痛消失、掉髮改善 網大讚：人生升級神器&nbsp;&nbsp;Yahoo新聞國人最缺維生素D！營養師曝4大營養失衡影響補鉀有助降血壓| 2026九合一選舉&nbsp;&nbsp;UDN健康網》維生素D降呼吸道感染風險！營養師：吃這些可補&nbsp;&nbsp;health.ltn.com.tw經痛、掉髮竟是同一原因？女子補維生素D驚見2大改變&nbsp;&nbsp;cava.tw",
       "sources": [
         {
           "name": "ETtoday新聞雲",
@@ -17,13 +30,13 @@
       "matched_keywords": []
     },
     {
-      "id": "96c5a3245786",
+      "id": "b61fe886d06a",
       "title": "吃魚油防失智？　研究揭「DHA進大腦」卻沒改善記憶",
       "published": "2026-08-08T11:32:00+00:00",
-      "summary": "吃魚油防失智？ 研究揭「DHA進大腦」卻沒改善記憶&nbsp;&nbsp;ETtoday健康雲",
+      "summary": "吃魚油防失智？ 研究揭「DHA進大腦」卻沒改善記憶&nbsp;&nbsp;health.ettoday.net",
       "sources": [
         {
-          "name": "ETtoday健康雲",
+          "name": "health.ettoday.net",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1za090MlhpczY0MUdEM0s5LXpsTUt2Z1hlZlZJTHNkcWp4Nl9GMlJoZjUzaUlJd3BfS1pzTnhidl8wOVVmUEd2SjUxVk5qckN30gFPQVVfeXFMTXdzQng1N0psam0xNVBQbTY5a1lvbnNLZEJzRk5aekdIb1lfS3pZazJISHg5MTdVOWR6Q1dYbWFfOVhLSXd1a18wNUNuanA1NA?oc=5"
         }
       ],
@@ -55,6 +68,19 @@
       "matched_keywords": []
     },
     {
+      "id": "b226ed7d4f08",
+      "title": "幹細胞技術突破，給予帕金森氏症療法新希望 | 科技新報 - LINE TODAY",
+      "published": "2026-08-08T01:22:07+00:00",
+      "summary": "幹細胞技術突破，給予帕金森氏症療法新希望 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10SllTaTdiczNfUkNUQmUtdmZVYWJDd3RiNXhobDBfc2xyNUNIT3JIU2luRzJfZ0Zhc2UzMEZLZ2lNN2xqSGxXN09CUDQ5a3N3QVU1VFJB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "b592bfb976b7",
       "title": "紐約市西尼羅病毒蚊群近倍增 衛生局加強防治",
       "published": "2026-08-08T01:18:00+00:00",
@@ -63,19 +89,6 @@
         {
           "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIT19sSlc0UUtPb3luRzZpSk1YYTVYOGxyd1BEWkRWVjJ4Q3gxSlNJSlFSdDZNdFVnLU1YWlJjUDZtR2dUZlVLSVZuWTBCSnFmLWRTVFNoVUF3UDhKN0U00gFkQVVfeXFMT0M0VnZ5UUdYZjBEcmF5dHctZUw4ZHF4NXY3cV9FVGJGSzVfQmcwX21jZk1HY2JfOFFRUkNza1JtdEwyc3liOE1rSUpwNTJWb28ya05qc1ZHV2VaSHdUM3lmeC15cA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "82cb26f42b80",
-      "title": "幹細胞技術突破，給予帕金森氏症療法新希望 - TechNews 科技新報",
-      "published": "2026-08-07T16:03:04+00:00",
-      "summary": "幹細胞技術突破，給予帕金森氏症療法新希望&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcmNPa3ZKVVhreDBtSmVZVEFadjJFX2daeEFkVVlZczFLLVFkLUhDRXRDVVg2UHctWWM5Vi1pUTMtdUdndmpvak5KS1RoWDg5MUMwZkNrYThIX2FZaVRMbDRlMWNoQnFQX0RsWmh1c1B6V0Y1VXpjSGQwY1N6aFFEWXBBT0ZIaXY4RW02Y1hiOU8tQTM2NnVNYUxNeHU4Yl9yZ3dzT1JmcW1nbno1cUNXRmdGT3ZqaTFBeFNvZWl6a1BEajlMbi1EbGZNOWJpNnJX?oc=5"
         }
       ],
       "matched_keywords": []
@@ -182,13 +195,13 @@
       ]
     },
     {
-      "id": "b9b45cd931a5",
+      "id": "82775c0ee1c8",
       "title": "蛇毒剋星竟藏蛇體內！美研究揭蛋白質可中和致命毒液",
       "published": "2026-08-07T06:06:00+00:00",
-      "summary": "蛇毒剋星竟藏蛇體內！美研究揭蛋白質可中和致命毒液&nbsp;&nbsp;自由健康網",
+      "summary": "蛇毒剋星竟藏蛇體內！美研究揭蛋白質可中和致命毒液&nbsp;&nbsp;health.ltn.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKZ2JRSklfRnFQNmNZLXhhel8xcXpBWWx5dE12c0RYQ205NmRTOFhRSFYybnJiaDQ5c0NiUWdyN2pvN2ZneG4wOGtpci1pT3hsUk5EU0YwbVFUN1JfMmVrY1JudnQ?oc=5"
         }
       ],
@@ -198,7 +211,7 @@
       "id": "0dc2d8857e7e",
       "title": "乳癌不是治療5年就安全？癌細胞可能潛伏20年的真相",
       "published": "2026-08-07T01:06:58+00:00",
-      "summary": "乳癌不是治療5年就安全？癌細胞可能潛伏20年的真相&nbsp;&nbsp;Yahoo新聞癌細胞躲哪去了？研究首繪藏身地圖 復發原因曝光&nbsp;&nbsp;自由健康網化療殺不死！狡猾癌細胞竟會「冬眠裝死」首度破解藏身地圖有望斬草除根&nbsp;&nbsp;三立新聞",
+      "summary": "乳癌不是治療5年就安全？癌細胞可能潛伏20年的真相&nbsp;&nbsp;Yahoo新聞癌細胞躲哪去了？研究首繪藏身地圖 復發原因曝光&nbsp;&nbsp;health.ltn.com.tw化療殺不死！狡猾癌細胞竟會「冬眠裝死」首度破解藏身地圖有望斬草除根&nbsp;&nbsp;health.setn.com",
       "sources": [
         {
           "name": "Yahoo新聞",
