@@ -14,7 +14,7 @@ permalink: /news/vonoprazan/
 ---
 
 <p class="key-answer" data-question="Vonoprazan 有什麼相關新聞？">
-<strong>Vonoprazan</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vonoprazan</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/vonoprazan/
 <p><a href="{{ '/drugs/vonoprazan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [鼻涕倒流釀胃潰瘍？ 醫師分析成分：常見迷思](https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xV0ZCaktDanJIcGdaZHY5RkRPN0pmdXpnNzJWdE5pb1huSzlmTXRQMFNLQjdkZk5ENlNtV1VuWEZQd2Y0V2ZfRlpseFBUWU5RUjFVTW5Oai1MM0d4X1lnNkV30gFnQVVfeXFMTUJ5WEpjT2p5WXlqdlFHTmNLckdONzFiaEVrSXJscmJyNDU1T2dHeXh0aHNZZVRWeUZENklyZWdHc2M4Mk5pMmx4NGFYZktmZUZjOE9ERGR0YXhtSWEyYnhDYXRKTXlpNA?oc=5)
+
+2026-08-06 <span class="news-indication-tag">胃潰瘍</span>
+
+來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xV0ZCaktDanJIcGdaZHY5RkRPN0pmdXpnNzJWdE5pb1huSzlmTXRQMFNLQjdkZk5ENlNtV1VuWEZQd2Y0V2ZfRlpseFBUWU5RUjFVTW5Oai1MM0d4X1lnNkV30gFnQVVfeXFMTUJ5WEpjT2p5WXlqdlFHTmNLckdONzFiaEVrSXJscmJyNDU1T2dHeXh0aHNZZVRWeUZENklyZWdHc2M4Mk5pMmx4NGFYZktmZUZjOE9ERGR0YXhtSWEyYnhDYXRKTXlpNA?oc=5)
+
+---
 
 
 <div class="disclaimer">

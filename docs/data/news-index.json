@@ -1,7 +1,31 @@
 {
-  "generated": "2026-08-08T00:57:18.177359+00:00",
-  "count": 8,
+  "generated": "2026-08-08T02:52:37.815647+00:00",
+  "count": 10,
   "news": [
+    {
+      "id": "17b7937231ac",
+      "title": "Akk 菌和大腦類澱粉的關聯，未來會影響哪些阿茲海默症研究？",
+      "published": "2026-08-07T08:40:05+00:00",
+      "sources": [
+        {
+          "name": "CMoney",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DaHhfRmxrRVA5VkN2MW02UWxkbldZY2JyLXNKS3NZa3BPTkRadmxBYjk1WUJPVVN3MnBtMW4tbkFObmNWblB1T1hod1d6cUYtVm10dlZQdDRPZjYxWWNPNFBTMkVoMGhOLWZGTWhWdy1YTGJPc1JubllxUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2bb00988de8b",
       "title": "中年守住3項健康條件 最新研究：可遠離失智症超過10年",
@@ -38,12 +62,12 @@
       ]
     },
     {
-      "id": "0dc2d8857e7e",
+      "id": "6315a1baa7f1",
       "title": "乳癌不是治療5年就安全？癌細胞可能潛伏20年的真相",
       "published": "2026-08-07T01:06:58+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOV0hyTUQtMjFZbXQ5YkhtYlpybFNiSU90cmRBUDJnMHpVQkZzNEJKQ1ZPZGtjTzhRd3ZtS1FnM084ZnM4dzhLRjNlNkdDWHNfLUVVc202WFZNaHlUejZjT2FkbHJOOFVYRmNzRk9rbzduUmZ4Q0lWV1MtNW1aNk5zWm53bDd2aWRRZU5OdzNndTRPYV9hYnVoZ0dId0ZJRTBkOTk2RVlCTGpjQ3Q3SVdLQWxTb3AzR25qc0hmc2VVbHMtUENubWQxMkxpeEg4eGdkbzBPdzVlYU9kcy1DNkV1akV6SjBLTDlyQ0tROEtQc3VPdWZLNVdtTU1BcUIyS1hpaDFpYjFnaWpkTFNxbjA1Nll1V19sLTRDOGJQZklNV1NXSkZqY2dWU2UyREpLdzlyVV9uM3lhVHR2SDZyN2FfNmdZMExnTFExV1RrNUg5M29WLVRY?oc=5"
         }
       ],
@@ -80,6 +104,229 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0cc70bdee2f9",
+      "title": "《Nature Aging》果糖誘發腫瘤轉移?! 卵巢癌研究首揭營養物質促癌擴散角色",
+      "published": "2026-08-06T09:02:55+00:00",
+      "sources": [
+        {
+          "name": "環球生技月刊",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ec014Y196V21wdkZXaG1vN0FUZ29WUWlpMUxSZnZpMnFCRHhMcGZOcWFuV0J0cVVtT21XYmpablR6TGlHeG1qWXl0R3dXVzh3Z095QzBoOEtIdTRTRTZHQWRvcUxQSE1u?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "腫瘤",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "卵巢癌",
+          "keyword": "卵巢癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
             }
           ]
         }
@@ -157,16 +404,103 @@
       ]
     },
     {
-      "id": "9c7c417a490f",
-      "title": "黎彼得離世｜專家揭長者中風突發徵狀！切勿忽視4大先兆：出現這警號即求醫！",
+      "id": "6b99f97cb438",
+      "title": "鼻涕倒流釀胃潰瘍？ 醫師分析成分：常見迷思",
+      "published": "2026-08-06T06:00:00+00:00",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xV0ZCaktDanJIcGdaZHY5RkRPN0pmdXpnNzJWdE5pb1huSzlmTXRQMFNLQjdkZk5ENlNtV1VuWEZQd2Y0V2ZfRlpseFBUWU5RUjFVTW5Oai1MM0d4X1lnNkV30gFnQVVfeXFMTUJ5WEpjT2p5WXlqdlFHTmNLckdONzFiaEVrSXJscmJyNDU1T2dHeXh0aHNZZVRWeUZENklyZWdHc2M4Mk5pMmx4NGFYZktmZUZjOE9ERGR0YXhtSWEyYnhDYXRKTXlpNA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "胃潰瘍",
+          "keyword": "胃潰瘍",
+          "related_drugs": [
+            {
+              "slug": "propantheline",
+              "name": "Propantheline"
+            },
+            {
+              "slug": "vonoprazan",
+              "name": "Vonoprazan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2b708eeed3f4",
+      "title": "黎彼得離世｜專家揭長者中風突發徵狀！切勿忽視4大先兆：出現這警號即求醫！ - UHK 港生活",
       "published": "2026-08-06T05:48:40+00:00",
       "sources": [
         {
-          "name": "hk.ulifestyle.com.hk",
+          "name": "UHK 港生活",
           "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxNdERzT0RoUW8xZl9GZTZJa3JITUpjS2pndkp1QnRxOFYzUExNalhHeHZ6bF94cHowV3llbUlicjRzZ2hDelcwVTFsQnh0dkNuaHlCYjJTblhOdTk3a0g3XzNXeWczYkwzVTMtNGV0UzRId1U5M1pOMndpZ3RYbHEzSnpFSGZGOV9QM0FJb29NWFU1aUVFWWZUNHJPMWpFSWpneEpVemh6d1VKYkJxWkhtbndPaUh1WllHMVZjNlFrQkhyQVRqRXYxejZMZzJqWF9IbVlvTmtWTHNpcXNtLTVHT0ZtTWREcFh4cldHQmhpN3QxQXFobkdXM0tzVjF1UFVDQ2V3Y2JmNTBoSF91ZWxUcl9NdGRHb3d6Q0dPOEtSWS1CTVQ5cnhXZzNfT2VyTkFpb3VHMHF3bzFaVmJZUlFqdlZTTFZsd3Y4eEZLQ2QwU2VLUzZNVDVoWndHSmo1RFk3Yi1sczYyWWVmbFFQLXR2aVRTdURaYlFjUEpUMDN6Q09CakdQRjI1dnhkNTlVNEFsZnNIcG5BTno5Ql9DTFNFMW1wZVRuYVM2dTFMQlRmRmd3N0otS2puZDNmdzlqQlBoOEE?oc=5"
         }
       ],
       "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -207,12 +541,12 @@
       ]
     },
     {
-      "id": "9c8da73a088d",
+      "id": "24cd8ce7b418",
       "title": "研究揭莓果護心效果驚人 心血管疾病風險降26％",
       "published": "2026-08-06T04:21:55+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOM2N0OURMaVpzcGJqS2sza3R3a1pMYVdXZElwdUNVYTBDNlJNTklrNkp4S0EtYW5OMHNWSnlxbmVfNnBTQlNSVnZzb0t1RXhnT0ZYRWx2bVpnY05SbWVqR1FyWFI4d0wwQmFoQTlDWExGOFVoMzdOcjdVQVp2Y2ZjcEtlTjdScVQwVmYyTWtlN05BUFdnU3J4S3UyNk9VdkxnWm5mVXByRzhUTHY1VUFMcTZxcjJPMHJlVHg4REt2VVRxcENNMTZ2Ymp2ZGlpckh0T3M5WENtblRVSC1uR3lqS2RXNjRoanRQbjU3enpsd0N1MG1iZjNPQmJ3c2tpTWNfbkc5SUJLVjRUeDY0dGhpUTYzMjVYaF9obngxNGREaUU4bU1hc3R5OHZSN0JkM05TaFVhRnByNXlPeVE?oc=5"
         }
       ],
@@ -260,53 +594,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f76ae354a6c0",
-      "title": "55歲是子宮內膜癌發生最多年齡！停經後出血＝不正常，別再當「回春」…每年3檢查保命：早期治癒率達9成5",
-      "published": "2026-08-06T01:27:38+00:00",
-      "sources": [
-        {
-          "name": "幸福熟齡",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ldFZmdkdmTW82TVlWTnNLSVc1amMwU0RWMUVpUkVMRFVoVFdkNHdSa0pxOTNBd1Z3WC1Sa29hUmVNWmlUemk0amdibEthZmJKNTE1dGlTVkx5WkRzVVpmNHRwNkJJNnY1b1hBTmhESmtqSi1DaWw5d1dydw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "子宮內膜癌",
-          "keyword": "子宮內膜癌",
-          "related_drugs": [
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
             }
           ]
         }
