@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [乳癌不是治療5年就安全？癌細胞可能潛伏20年的真相](https://news.google.com/rss/articles/CBMi1AJBVV95cUxOV0hyTUQtMjFZbXQ5YkhtYlpybFNiSU90cmRBUDJnMHpVQkZzNEJKQ1ZPZGtjTzhRd3ZtS1FnM084ZnM4dzhLRjNlNkdDWHNfLUVVc202WFZNaHlUejZjT2FkbHJOOFVYRmNzRk9rbzduUmZ4Q0lWV1MtNW1aNk5zWm53bDd2aWRRZU5OdzNndTRPYV9hYnVoZ0dId0ZJRTBkOTk2RVlCTGpjQ3Q3SVdLQWxTb3AzR25qc0hmc2VVbHMtUENubWQxMkxpeEg4eGdkbzBPdzVlYU9kcy1DNkV1akV6SjBLTDlyQ0tROEtQc3VPdWZLNVdtTU1BcUIyS1hpaDFpYjFnaWpkTFNxbjA1Nll1V19sLTRDOGJQZklNV1NXSkZqY2dWU2UyREpLdzlyVV9uM3lhVHR2SDZyN2FfNmdZMExnTFExV1RrNUg5M29WLVRY?oc=5)
 
 2026-08-07 <span class="news-indication-tag">乳癌</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi1AJBVV95cUxOV0hyTUQtMjFZbXQ5YkhtYlpybFNiSU90cmRBUDJnMHpVQkZzNEJKQ1ZPZGtjTzhRd3ZtS1FnM084ZnM4dzhLRjNlNkdDWHNfLUVVc202WFZNaHlUejZjT2FkbHJOOFVYRmNzRk9rbzduUmZ4Q0lWV1MtNW1aNk5zWm53bDd2aWRRZU5OdzNndTRPYV9hYnVoZ0dId0ZJRTBkOTk2RVlCTGpjQ3Q3SVdLQWxTb3AzR25qc0hmc2VVbHMtUENubWQxMkxpeEg4eGdkbzBPdzVlYU9kcy1DNkV1akV6SjBLTDlyQ0tROEtQc3VPdWZLNVdtTU1BcUIyS1hpaDFpYjFnaWpkTFNxbjA1Nll1V19sLTRDOGJQZklNV1NXSkZqY2dWU2UyREpLdzlyVV9uM3lhVHR2SDZyN2FfNmdZMExnTFExV1RrNUg5M29WLVRY?oc=5)
-
----
-
-### [西方飲食為何助長大腸癌？ 研究揭腸道菌關鍵機制](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfUWFvUnh3YjU3aVFnQ3BtZWpwdUVYX3NfNF9GeFRjVmJMamVHbTNQTTJuTnF4QW4xVzVsaFhrTWNVYkNmb2ZTSVJja3g1TGtlbmpXYWNRQTItNkFVR2kzNnQyNlY?oc=5)
-
-2026-08-06 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfUWFvUnh3YjU3aVFnQ3BtZWpwdUVYX3NfNF9GeFRjVmJMamVHbTNQTTJuTnF4QW4xVzVsaFhrTWNVYkNmb2ZTSVJja3g1TGtlbmpXYWNRQTItNkFVR2kzNnQyNlY?oc=5)
 
 ---
 
