@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T05:35:31.702576+00:00",
-  "count": 5,
+  "generated": "2026-08-08T06:35:45.522106+00:00",
+  "count": 4,
   "news": [
     {
       "id": "2bb00988de8b",
@@ -151,41 +151,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9c8da73a088d",
-      "title": "研究揭莓果護心效果驚人 心血管疾病風險降26％",
-      "published": "2026-08-06T04:21:55+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOM2N0OURMaVpzcGJqS2sza3R3a1pMYVdXZElwdUNVYTBDNlJNTklrNkp4S0EtYW5OMHNWSnlxbmVfNnBTQlNSVnZzb0t1RXhnT0ZYRWx2bVpnY05SbWVqR1FyWFI4d0wwQmFoQTlDWExGOFVoMzdOcjdVQVp2Y2ZjcEtlTjdScVQwVmYyTWtlN05BUFdnU3J4S3UyNk9VdkxnWm5mVXByRzhUTHY1VUFMcTZxcjJPMHJlVHg4REt2VVRxcENNMTZ2Ymp2ZGlpckh0T3M5WENtblRVSC1uR3lqS2RXNjRoanRQbjU3enpsd0N1MG1iZjNPQmJ3c2tpTWNfbkc5SUJLVjRUeDY0dGhpUTYzMjVYaF9obngxNGREaUU4bU1hc3R5OHZSN0JkM05TaFVhRnByNXlPeVE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
             }
           ]
         }

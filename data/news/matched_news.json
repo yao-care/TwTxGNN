@@ -1,13 +1,39 @@
 {
-  "last_updated": "2026-08-08T05:35:31.672636+00:00",
-  "total_count": 23,
-  "matched_count": 5,
+  "last_updated": "2026-08-08T06:35:45.494760+00:00",
+  "total_count": 22,
+  "matched_count": 4,
   "news": [
+    {
+      "id": "f75c2fdc1d77",
+      "title": "快篩陰性？醫揭「最常見NG採法」 1條線仍恐新冠中鏢",
+      "published": "2026-08-08T05:38:00+00:00",
+      "summary": "快篩陰性？醫揭「最常見NG採法」 1條線仍恐新冠中鏢&nbsp;&nbsp;壹蘋新聞網",
+      "sources": [
+        {
+          "name": "壹蘋新聞網",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50bG9IbFRheEo3U21Ra3hZNGxyMC1PNmJjZVcxLXFIOXE1aTQ3OTVxZnQ5QTE0WTY0TXk3VW1BU3J0MlJOckRGTVRrOGhmb05BSDd1VEJacTB2d1FPeE0tdUc1YXRFQXdSUDV6Yk5RX3pUeXlFQnN6bUJMMDEzUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "88eafe228e91",
+      "title": "高血糖竟是癌細胞幫兇！科學家揭開糖盾增厚之謎",
+      "published": "2026-08-08T02:45:30+00:00",
+      "summary": "高血糖竟是癌細胞幫兇！科學家揭開糖盾增厚之謎&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMWFIZWd5TGpQV3F2MzM0SldaY0VtQXp6cUVoYkFVRHhGWVVTTk14cThIbmtNUDFnZTRvRk16LU9rc0NmUXU5RjVaNjJBdjZTc0pJazNUME9hcWlTUnR2WGlRZkoxbjI1Q2w4LVloYXVNTGNsRndORXlISTF6U19feFg1dUJqN3ZZUURfTzBYUGxPSUN0eWpMeGZSTEdIQWViQ0lMdkhKNHRMTGE1N09JT0VsMHVHOVhfTzI4djVRMzR2TkxBTzVNWlNSa1ZTTWZSWVE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "b592bfb976b7",
       "title": "紐約市西尼羅病毒蚊群近倍增 衛生局加強防治",
       "published": "2026-08-08T01:18:00+00:00",
-      "summary": "紐約市西尼羅病毒蚊群近倍增 衛生局加強防治&nbsp;&nbsp;大纪元西尼羅河病毒蚊子增加 衛生局籲民眾小心防蚊&nbsp;&nbsp;Singtaousa橙縣確診今年首例西尼羅病毒衛生官員籲防蚊- 南加社區- 新聞&nbsp;&nbsp;華人今日網毒蚊暴增 橙縣西尼羅病毒疫情嚴重&nbsp;&nbsp;世界新聞網防西尼羅病毒擴散 史島、皇后區今起噴藥滅蚊&nbsp;&nbsp;世界新聞網",
+      "summary": "紐約市西尼羅病毒蚊群近倍增 衛生局加強防治&nbsp;&nbsp;大纪元西尼羅河病毒蚊子增加 衛生局籲民眾小心防蚊&nbsp;&nbsp;Singtaousa橙縣確診今年首例西尼羅病毒衛生官員籲防蚊- 南加社區- 新聞&nbsp;&nbsp;華人今日網毒蚊暴增 橙縣西尼羅病毒疫情嚴重&nbsp;&nbsp;worldjournal.com防西尼羅病毒擴散 史島、皇后區今起噴藥滅蚊&nbsp;&nbsp;worldjournal.com",
       "sources": [
         {
           "name": "大纪元",
@@ -82,13 +108,13 @@
       "matched_keywords": []
     },
     {
-      "id": "138e5585584b",
+      "id": "3a1c1954712b",
       "title": "低頭族後遺症 胸椎過度後彎與圓肩 教你「企鵝」康復訓練",
       "published": "2026-08-07T08:25:41+00:00",
-      "summary": "低頭族後遺症 胸椎過度後彎與圓肩 教你「企鵝」康復訓練&nbsp;&nbsp;明報健康網",
+      "summary": "低頭族後遺症 胸椎過度後彎與圓肩 教你「企鵝」康復訓練&nbsp;&nbsp;health.mingpao.com",
       "sources": [
         {
-          "name": "明報健康網",
+          "name": "health.mingpao.com",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNdm1uVV9OTTl2UkM4UVBnZG9YemVNNXpNQVNJeC1lcTN0bm5Xd3FqOE41bEVoSVkyRlpaOHlrN1hRVWVBR1had2haemVSV04wUzRlZ1NSY28xTXkyRjRIZWI4MTEybHVjdlVCbXpOQWlOSHJ6NGVrU2R2V1BsSU5qVlAyMml6S1Q1Zkg5MFNVY2J2LUlKNXZSUGZKdGhES0VnVkJRZkZwczFIZndwaWpXcWIzVHhpeHhxWndpVHZMdTRQVXZjZnF5YTRqWGlFUmFDTFg0WnYxQ0JUYm5xTnFRdzJvSTFSUWtOeUVqOFpTTHBadFV6bkd2emJyNGFFTWhHTGlaWDhQeDFNMllxX1VwaXlFM045Z3Zwdlc2YjFIbEtva0EzdXY4cEYyWUlKdFJVUnh4STRPU0Z6V1BwWDZ0TXoybFlibWstMm1YdQ?oc=5"
         }
       ],
@@ -219,13 +245,13 @@
       ]
     },
     {
-      "id": "2d56a1af03a2",
+      "id": "4ae933ac3d7f",
       "title": "慢阻肺不可逆 一半煙民中招",
       "published": "2026-08-06T20:00:00+00:00",
-      "summary": "慢阻肺不可逆 一半煙民中招&nbsp;&nbsp;am730.com.hk",
+      "summary": "慢阻肺不可逆 一半煙民中招&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730.com.hk",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaHZGZjRjRWtRaUIyZk9uUmZUYWFGaHA2LVcyYzhaQy1uTTZ0MjZxVkh3aDlMUE5zOGE5bzhSVm1Gc3B4SHAtVEpSQVRPUlJxSkJWYnlPOHlZTTN1TC1BZGRpSDd2TTFBVF9JcUtIZ1B6Ynp6WHZVMUplSVUtMkdtczhYNjhTQUUyRWl6dUhSd01zXzVsVW16OEdoemV5QkJiT09SZkVxRlVaTTczb0tRelE3REhHaWEzcGdNVm04d1kyT3p6WmlxQ3l0QWszczAzd1NyZnVuVWUxQkxFUVhaUzFOMVh1bGZjclY4R0ZLYnk4d1k?oc=5"
         }
       ],
@@ -365,68 +391,6 @@
         {
           "name": "UDN",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPenpYNnctQThWZ05Ua1Nod3g5M0E2ZmxySS1uSjduRnk1RmdHVjVCYkR5aG1aNHNOMUFqOHMzLTZXbXN3cUp0REdiTkU5MWx1YUwxQVlMS2FFQkNTMU0wQTNUMUxXbEdTb0dCa1ppYUlnVFRnYjRiOU41dHpveHUxbw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c0254f3ab144",
-      "title": "說好一起顧家，女生卻扛下更多家事：某些男人的「家事不對稱」現象，十分耐人尋味",
-      "published": "2026-08-06T04:43:01+00:00",
-      "summary": "說好一起顧家，女生卻扛下更多家事：某些男人的「家事不對稱」現象，十分耐人尋味&nbsp;&nbsp;adaymag.com",
-      "sources": [
-        {
-          "name": "adaymag.com",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GcVNaYndTOEZYWGJSMFdQNjdwNy16d0Y5WnRQQmI5aXpjMUJISjJuYURxQlQzeThOejJubjlzWEZFYXdBaHU0SllNYWRZeFdJZThJenhaYmZaR3pvNzdBVEdnZUhEOS1jTmNUWG1BbGp6UzZ0bXgwRHlnVHc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9c8da73a088d",
-      "title": "研究揭莓果護心效果驚人 心血管疾病風險降26％",
-      "published": "2026-08-06T04:21:55+00:00",
-      "summary": "研究揭莓果護心效果驚人 心血管疾病風險降26％&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOM2N0OURMaVpzcGJqS2sza3R3a1pMYVdXZElwdUNVYTBDNlJNTklrNkp4S0EtYW5OMHNWSnlxbmVfNnBTQlNSVnZzb0t1RXhnT0ZYRWx2bVpnY05SbWVqR1FyWFI4d0wwQmFoQTlDWExGOFVoMzdOcjdVQVp2Y2ZjcEtlTjdScVQwVmYyTWtlN05BUFdnU3J4S3UyNk9VdkxnWm5mVXByRzhUTHY1VUFMcTZxcjJPMHJlVHg4REt2VVRxcENNMTZ2Ymp2ZGlpckh0T3M5WENtblRVSC1uR3lqS2RXNjRoanRQbjU3enpsd0N1MG1iZjNPQmJ3c2tpTWNfbkc5SUJLVjRUeDY0dGhpUTYzMjVYaF9obngxNGREaUU4bU1hc3R5OHZSN0JkM05TaFVhRnByNXlPeVE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8abb91f23f1c",
-      "title": "守護骨本抗骨鬆！嘉榮醫半年一針助阿嬤穩健行走",
-      "published": "2026-08-06T04:03:12+00:00",
-      "summary": "守護骨本抗骨鬆！嘉榮醫半年一針助阿嬤穩健行走&nbsp;&nbsp;Yahoo40歲後身高縮水超過3公分嗎？小心脊椎沈默骨折正在發生中&nbsp;&nbsp;東森新聞骨質疏鬆｜缺維他命D鈣片吃再多都冇用！醫生揭日常保骨飲食4重點&nbsp;&nbsp;香港01輕輕一跌就骨折？骨質疏鬆無聲侵襲 中醫師籲從飲食、運動與體質調養守住行動力&nbsp;&nbsp;yesmedia.com.tw半年打一針改善骨密度 骨鬆治療搭配補鈣防骨折&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQdGRKVTBlbVhfZnpjZnVhN2llY01KMjRBdGJoM1RvX3V2bUFUV3NlTE1ISTZEd0ZrX0lEVVplZUpxYUdKbHlIYlZPZjF6UjdZamw3c29TOG41THlPTFhLMHQ0YUxKbHJ3a2NTODFZSGZtNEhOei1RU3JXOHp1S1I5eDR6aURQTTM4d3A1bGFvWnBINS1IbVJtcjZXUVRmOWw3RkNiRTlxOGM4OHMxWTFpNlMzbkNfTGktdUJPSklWODhFclNUQjJaRU5KTnV5QURqYUEwdnoyU05iRnExMFJEcjNlVHo2U0FLUW1NT1Y5UE51TmxQN3NKNVNRbnlIWFJKVDZ2SFNtOExvMDRpWWlVOWE5MkhsNXZfamg0TFdYOHp6MDFyME9zSUlXRU9qU2M4LXJnR3VvaVRaMG5XTGtN?oc=5"
         }
       ],
       "matched_keywords": []
