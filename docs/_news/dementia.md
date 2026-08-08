@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [吃魚油防失智？　研究揭「DHA進大腦」卻沒改善記憶](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1za090MlhpczY0MUdEM0s5LXpsTUt2Z1hlZlZJTHNkcWp4Nl9GMlJoZjUzaUlJd3BfS1pzTnhidl8wOVVmUEd2SjUxVk5qckN30gFPQVVfeXFMTXdzQng1N0psam0xNVBQbTY5a1lvbnNLZEJzRk5aekdIb1lfS3pZazJISHg5MTdVOWR6Q1dYbWFfOVhLSXd1a18wNUNuanA1NA?oc=5)
 
 2026-08-08
 
-來源：[health.ettoday.net](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1za090MlhpczY0MUdEM0s5LXpsTUt2Z1hlZlZJTHNkcWp4Nl9GMlJoZjUzaUlJd3BfS1pzTnhidl8wOVVmUEd2SjUxVk5qckN30gFPQVVfeXFMTXdzQng1N0psam0xNVBQbTY5a1lvbnNLZEJzRk5aekdIb1lfS3pZazJISHg5MTdVOWR6Q1dYbWFfOVhLSXd1a18wNUNuanA1NA?oc=5)
-
----
-
-### [Akk 菌和大腦類澱粉的關聯，未來會影響哪些阿茲海默症研究？](https://news.google.com/rss/articles/CBMie0FVX3lxTE9DaHhfRmxrRVA5VkN2MW02UWxkbldZY2JyLXNKS3NZa3BPTkRadmxBYjk1WUJPVVN3MnBtMW4tbkFObmNWblB1T1hod1d6cUYtVm10dlZQdDRPZjYxWWNPNFBTMkVoMGhOLWZGTWhWdy1YTGJPc1JubllxUQ?oc=5)
-
-2026-08-07
-
-來源：[CMoney](https://news.google.com/rss/articles/CBMie0FVX3lxTE9DaHhfRmxrRVA5VkN2MW02UWxkbldZY2JyLXNKS3NZa3BPTkRadmxBYjk1WUJPVVN3MnBtMW4tbkFObmNWblB1T1hod1d6cUYtVm10dlZQdDRPZjYxWWNPNFBTMkVoMGhOLWZGTWhWdy1YTGJPc1JubllxUQ?oc=5)
+來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1za090MlhpczY0MUdEM0s5LXpsTUt2Z1hlZlZJTHNkcWp4Nl9GMlJoZjUzaUlJd3BfS1pzTnhidl8wOVVmUEd2SjUxVk5qckN30gFPQVVfeXFMTXdzQng1N0psam0xNVBQbTY5a1lvbnNLZEJzRk5aekdIb1lfS3pZazJISHg5MTdVOWR6Q1dYbWFfOVhLSXd1a18wNUNuanA1NA?oc=5)
 
 ---
 

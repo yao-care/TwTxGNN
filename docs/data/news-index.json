@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-08T14:22:47.523964+00:00",
-  "count": 4,
+  "generated": "2026-08-08T15:20:13.982609+00:00",
+  "count": 3,
   "news": [
     {
-      "id": "b61fe886d06a",
+      "id": "96c5a3245786",
       "title": "吃魚油防失智？　研究揭「DHA進大腦」卻沒改善記憶",
       "published": "2026-08-08T11:32:00+00:00",
       "sources": [
         {
-          "name": "health.ettoday.net",
+          "name": "ETtoday健康雲",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1za090MlhpczY0MUdEM0s5LXpsTUt2Z1hlZlZJTHNkcWp4Nl9GMlJoZjUzaUlJd3BfS1pzTnhidl8wOVVmUEd2SjUxVk5qckN30gFPQVVfeXFMTXdzQng1N0psam0xNVBQbTY5a1lvbnNLZEJzRk5aekdIb1lfS3pZazJISHg5MTdVOWR6Q1dYbWFfOVhLSXd1a18wNUNuanA1NA?oc=5"
         }
       ],
@@ -17,30 +17,6 @@
           "type": "indication",
           "name": "dementia",
           "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "17b7937231ac",
-      "title": "Akk 菌和大腦類澱粉的關聯，未來會影響哪些阿茲海默症研究？",
-      "published": "2026-08-07T08:40:05+00:00",
-      "sources": [
-        {
-          "name": "CMoney",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DaHhfRmxrRVA5VkN2MW02UWxkbldZY2JyLXNKS3NZa3BPTkRadmxBYjk1WUJPVVN3MnBtMW4tbkFObmNWblB1T1hod1d6cUYtVm10dlZQdDRPZjYxWWNPNFBTMkVoMGhOLWZGTWhWdy1YTGJPc1JubllxUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
           "related_drugs": [
             {
               "slug": "gefitinib",

@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-08-08T14:22:47.493712+00:00",
-  "total_count": 19,
-  "matched_count": 4,
+  "last_updated": "2026-08-08T15:20:13.952516+00:00",
+  "total_count": 14,
+  "matched_count": 3,
   "news": [
     {
       "id": "0e452d547fd7",
       "title": "台灣人最容易缺這4種營養素！營養師曝「最快補法」",
       "published": "2026-08-08T11:36:00+00:00",
-      "summary": "台灣人最容易缺這4種營養素！營養師曝「最快補法」&nbsp;&nbsp;ETtoday新聞雲7成↑女性缺乏這維生素！她吃2個月經痛消失、掉髮改善 網大讚：人生升級神器&nbsp;&nbsp;Yahoo新聞國人最缺維生素D！營養師曝4大營養失衡影響補鉀有助降血壓| 2026九合一選舉&nbsp;&nbsp;UDN健康網》維生素D降呼吸道感染風險！營養師：吃這些可補&nbsp;&nbsp;health.ltn.com.tw經痛、掉髮竟是同一原因？女子補維生素D驚見2大改變&nbsp;&nbsp;造咖",
+      "summary": "台灣人最容易缺這4種營養素！營養師曝「最快補法」&nbsp;&nbsp;ETtoday新聞雲7成↑女性缺乏這維生素！她吃2個月經痛消失、掉髮改善 網大讚：人生升級神器&nbsp;&nbsp;Yahoo新聞國人最缺維生素D！營養師曝4大營養失衡影響補鉀有助降血壓| 2026九合一選舉&nbsp;&nbsp;udn.com健康網》維生素D降呼吸道感染風險！營養師：吃這些可補&nbsp;&nbsp;自由健康網經痛、掉髮竟是同一原因？女子補維生素D驚見2大改變&nbsp;&nbsp;造咖",
       "sources": [
         {
           "name": "ETtoday新聞雲",
@@ -17,13 +17,13 @@
       "matched_keywords": []
     },
     {
-      "id": "b61fe886d06a",
+      "id": "96c5a3245786",
       "title": "吃魚油防失智？　研究揭「DHA進大腦」卻沒改善記憶",
       "published": "2026-08-08T11:32:00+00:00",
-      "summary": "吃魚油防失智？ 研究揭「DHA進大腦」卻沒改善記憶&nbsp;&nbsp;health.ettoday.net",
+      "summary": "吃魚油防失智？ 研究揭「DHA進大腦」卻沒改善記憶&nbsp;&nbsp;ETtoday健康雲",
       "sources": [
         {
-          "name": "health.ettoday.net",
+          "name": "ETtoday健康雲",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1za090MlhpczY0MUdEM0s5LXpsTUt2Z1hlZlZJTHNkcWp4Nl9GMlJoZjUzaUlJd3BfS1pzTnhidl8wOVVmUEd2SjUxVk5qckN30gFPQVVfeXFMTXdzQng1N0psam0xNVBQbTY5a1lvbnNLZEJzRk5aekdIb1lfS3pZazJISHg5MTdVOWR6Q1dYbWFfOVhLSXd1a18wNUNuanA1NA?oc=5"
         }
       ],
@@ -40,19 +40,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "b4d6f9365e22",
-      "title": "魚肝油≠魚油 40歲男想降血脂竟吃錯多年",
-      "published": "2026-08-08T06:00:00+00:00",
-      "summary": "魚肝油≠魚油 40歲男想降血脂竟吃錯多年&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MRWJzaUkwVXRRR2U0Q21HbjVzNExPa2lmMGg2eTZCRENZTl9FaE14QjI3bjJ6R21JcDQ4ZnB6Wk1HYnY1dWVySXZpY011R1ZxVEdFcVJYRjBUWmE0NzZkZXZB0gFnQVVfeXFMTjRNSDV6WmFzamNkNFhEdWtQZElWVE1WdFlCSm42alVoTmsyWUM3cFo0TU5GdmwzY3owQVZsNzVTVDlEckZtNEt4TF9NZmQ1dW1PMkUySGNlRWtpX2tyRmt5QlRKRktPWQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "88eafe228e91",
@@ -118,31 +105,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "17b7937231ac",
-      "title": "Akk 菌和大腦類澱粉的關聯，未來會影響哪些阿茲海默症研究？",
-      "published": "2026-08-07T08:40:05+00:00",
-      "summary": "Akk 菌和大腦類澱粉的關聯，未來會影響哪些阿茲海默症研究？&nbsp;&nbsp;CMoney",
-      "sources": [
-        {
-          "name": "CMoney",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DaHhfRmxrRVA5VkN2MW02UWxkbldZY2JyLXNKS3NZa3BPTkRadmxBYjk1WUJPVVN3MnBtMW4tbkFObmNWblB1T1hod1d6cUYtVm10dlZQdDRPZjYxWWNPNFBTMkVoMGhOLWZGTWhWdy1YTGJPc1JubllxUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "138e5585584b",
@@ -220,26 +182,13 @@
       ]
     },
     {
-      "id": "c705cf89729f",
-      "title": "膝關節退化治療邁向新時代 AI機器人輔助手術打造個人化醫療",
-      "published": "2026-08-07T06:27:53+00:00",
-      "summary": "膝關節退化治療邁向新時代 AI機器人輔助手術打造個人化醫療&nbsp;&nbsp;經貿透視雙周刊",
-      "sources": [
-        {
-          "name": "經貿透視雙周刊",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zWUNnZV9nSHZQaFM1Q3Q5aXlKcEU4TFR0UEowdFprS1NUT0JpUGN6MUx5cGlkOUg5b0NqRC14QUliakxWSTVSVmJOQVhIdHpIWWNvYVRxUGNxSUl5V3YydTNfWkx0b0RD?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "82775c0ee1c8",
+      "id": "b9b45cd931a5",
       "title": "蛇毒剋星竟藏蛇體內！美研究揭蛋白質可中和致命毒液",
       "published": "2026-08-07T06:06:00+00:00",
-      "summary": "蛇毒剋星竟藏蛇體內！美研究揭蛋白質可中和致命毒液&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "蛇毒剋星竟藏蛇體內！美研究揭蛋白質可中和致命毒液&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKZ2JRSklfRnFQNmNZLXhhel8xcXpBWWx5dE12c0RYQ205NmRTOFhRSFYybnJiaDQ5c0NiUWdyN2pvN2ZneG4wOGtpci1pT3hsUk5EU0YwbVFUN1JfMmVrY1JudnQ?oc=5"
         }
       ],
@@ -249,7 +198,7 @@
       "id": "0dc2d8857e7e",
       "title": "乳癌不是治療5年就安全？癌細胞可能潛伏20年的真相",
       "published": "2026-08-07T01:06:58+00:00",
-      "summary": "乳癌不是治療5年就安全？癌細胞可能潛伏20年的真相&nbsp;&nbsp;Yahoo新聞癌細胞躲哪去了？研究首繪藏身地圖 復發原因曝光&nbsp;&nbsp;health.ltn.com.tw化療殺不死！狡猾癌細胞竟會「冬眠裝死」首度破解藏身地圖有望斬草除根&nbsp;&nbsp;health.setn.com",
+      "summary": "乳癌不是治療5年就安全？癌細胞可能潛伏20年的真相&nbsp;&nbsp;Yahoo新聞癌細胞躲哪去了？研究首繪藏身地圖 復發原因曝光&nbsp;&nbsp;自由健康網化療殺不死！狡猾癌細胞竟會「冬眠裝死」首度破解藏身地圖有望斬草除根&nbsp;&nbsp;三立新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -303,32 +252,6 @@
         {
           "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaHZGZjRjRWtRaUIyZk9uUmZUYWFGaHA2LVcyYzhaQy1uTTZ0MjZxVkh3aDlMUE5zOGE5bzhSVm1Gc3B4SHAtVEpSQVRPUlJxSkJWYnlPOHlZTTN1TC1BZGRpSDd2TTFBVF9JcUtIZ1B6Ynp6WHZVMUplSVUtMkdtczhYNjhTQUUyRWl6dUhSd01zXzVsVW16OEdoemV5QkJiT09SZkVxRlVaTTczb0tRelE3REhHaWEzcGdNVm04d1kyT3p6WmlxQ3l0QWszczAzd1NyZnVuVWUxQkxFUVhaUzFOMVh1bGZjclY4R0ZLYnk4d1k?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "71ef8df7559f",
-      "title": "HIV風險｜旅行艷遇恐染病！醫生揭5大高危行為及6症狀 應盡快求醫 - etnet 經濟通",
-      "published": "2026-08-06T14:48:45+00:00",
-      "summary": "HIV風險｜旅行艷遇恐染病！醫生揭5大高危行為及6症狀 應盡快求醫&nbsp;&nbsp;etnet 經濟通",
-      "sources": [
-        {
-          "name": "etnet 經濟通",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pMFJkclFzX0dJZ2ppSXFqMS1Ham1LRDY2dkU3eW9UdmdCTldyaXRvM09FVUlTNnA0QjFzeEhSaWRucVJUdjVnM2lKTEJONHpNaGNEV3M5Njc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "49dc3e47b7bb",
-      "title": "【醫家等你Call】漸凍人症：身體逐漸失去活動能力 意識依然清醒",
-      "published": "2026-08-04T10:12:30+00:00",
-      "summary": "【醫家等你Call】漸凍人症：身體逐漸失去活動能力 意識依然清醒&nbsp;&nbsp;SBS",
-      "sources": [
-        {
-          "name": "SBS",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaHdoMnczRVlqWE9fWHRUbkwybUsxczA5Y2hrazdHdnpBMjlHVkdZNlkxOWp5YWVQbGpMb0lKZDgzMmFUbDBvN1hJYkFoVk9WMk1iMmN1eHZ0U0VzeFdYbTZQa3hsR1J0a1RZN2lZWkN4TVdLYWFCZmc0VTRNYk5SWEY4RGpsVTRDcFM1OFQ5eVcxc2RoTlZnMDBqQ2RQejBTYTZIOTdhOHVWa004LU0weHZQbGhiMlhCbUhoRXZB?oc=5"
         }
       ],
       "matched_keywords": []
