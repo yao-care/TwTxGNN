@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T08:28:37.565651+00:00",
-  "count": 3,
+  "generated": "2026-08-08T09:27:58.672188+00:00",
+  "count": 2,
   "news": [
     {
       "id": "2bb00988de8b",
@@ -80,30 +80,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0662af0e490f",
-      "title": "嬤吃白帶魚防失智1清洗動作醫傻眼珍貴護腦部位沒了- 健康",
-      "published": "2026-08-06T08:01:09+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbnJMeFBMTDFDanBoNmhZZHZ5MENjZzJQNG5xdm1wSWtkWm9vV0dlSzZOMXhLSEpJZ1diVy04TWZoVEY4SE9IYWFBQnEza09NdldyczBUMWJTTGs5ZDd1SEstNGR0QW81R2FVanRpZkxwSjQ0MHJsdlBKRGtDR3QwSWROMjJJcXlBM3VyUEI3cw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

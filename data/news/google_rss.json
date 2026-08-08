@@ -1,29 +1,17 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-08T08:28:31.941562+00:00",
-  "count": 17,
+  "fetched_at": "2026-08-08T09:27:54.554484+00:00",
+  "count": 16,
   "news": [
     {
-      "id": "f75c2fdc1d77",
-      "title": "快篩陰性？醫揭「最常見NG採法」 1條線仍恐新冠中鏢 - 壹蘋新聞網",
-      "published": "2026-08-08T05:38:00+00:00",
-      "summary": "快篩陰性？醫揭「最常見NG採法」 1條線仍恐新冠中鏢&nbsp;&nbsp;壹蘋新聞網",
+      "id": "aa78b46c19ea",
+      "title": "衛生官員警告好萊塢環球影城遊客或接觸麻疹 - 大纪元",
+      "published": "2026-08-07T23:01:00+00:00",
+      "summary": "衛生官員警告好萊塢環球影城遊客或接觸麻疹&nbsp;&nbsp;大纪元",
       "sources": [
         {
-          "name": "壹蘋新聞網",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50bG9IbFRheEo3U21Ra3hZNGxyMC1PNmJjZVcxLXFIOXE1aTQ3OTVxZnQ5QTE0WTY0TXk3VW1BU3J0MlJOckRGTVRrOGhmb05BSDd1VEJacTB2d1FPeE0tdUc1YXRFQXdSUDV6Yk5RX3pUeXlFQnN6bUJMMDEzUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2bb00988de8b",
-      "title": "中年守住3項健康條件 最新研究：可遠離失智症超過10年 - 元氣網",
-      "published": "2026-08-07T06:41:14+00:00",
-      "summary": "中年守住3項健康條件 最新研究：可遠離失智症超過10年&nbsp;&nbsp;元氣網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSWVSME1XNW1pUWlRaEZsVTUtVk5EYllRSVVSZS1oY2VUNDd6WDc1b2IxblVWaWxaSUoxNjgxZ1YtMjBJc2FOR3VKTndCZ1NvQkFlcWo4andzcUQyZUU5RU1lbDdVTDFoOFJJX2gzMTFCbzRBTmktaFd1T0JFNkhPZHB3?oc=5"
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hNzRFdjFXNTNhS1ljOHM4NEp0Zk5qV2tjQm1pS0ZqUXlTT2E3N0xlMUhmbS1PTHYzQ0Mxc3huQl93ZDZVczJsNlh3X1VDd29aVmtRZWVtNEJ3ZlpwOGJJ0gFkQVVfeXFMTmNJWjZpbDRCTlpNOWstVFhFeU5aRk8zSDdYTVRfZ3dGX1hZWGluOENVMzk1N04wY2MtV2U2RW1keHBGQVpvQjExMl9jOVFTLTJKM1dGZHpGdDdabXFjNU1HTTFvdA?oc=5"
         }
       ]
     },
@@ -52,6 +40,18 @@
       ]
     },
     {
+      "id": "2bb00988de8b",
+      "title": "中年守住3項健康條件 最新研究：可遠離失智症超過10年 - 元氣網",
+      "published": "2026-08-07T06:41:14+00:00",
+      "summary": "中年守住3項健康條件 最新研究：可遠離失智症超過10年&nbsp;&nbsp;元氣網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSWVSME1XNW1pUWlRaEZsVTUtVk5EYllRSVVSZS1oY2VUNDd6WDc1b2IxblVWaWxaSUoxNjgxZ1YtMjBJc2FOR3VKTndCZ1NvQkFlcWo4andzcUQyZUU5RU1lbDdVTDFoOFJJX2gzMTFCbzRBTmktaFd1T0JFNkhPZHB3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0fd9c99f12e3",
       "title": "一變天膝蓋就發癢？李祖寧自曝半月板變形，醫揭保骨與增肌兩大救星！ - 東森新聞",
       "published": "2026-08-07T07:00:00+00:00",
@@ -64,38 +64,26 @@
       ]
     },
     {
-      "id": "82775c0ee1c8",
-      "title": "蛇毒剋星竟藏蛇體內！美研究揭蛋白質可中和致命毒液 - health.ltn.com.tw",
+      "id": "b9b45cd931a5",
+      "title": "蛇毒剋星竟藏蛇體內！美研究揭蛋白質可中和致命毒液 - 自由健康網",
       "published": "2026-08-07T06:06:00+00:00",
-      "summary": "蛇毒剋星竟藏蛇體內！美研究揭蛋白質可中和致命毒液&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "蛇毒剋星竟藏蛇體內！美研究揭蛋白質可中和致命毒液&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKZ2JRSklfRnFQNmNZLXhhel8xcXpBWWx5dE12c0RYQ205NmRTOFhRSFYybnJiaDQ5c0NiUWdyN2pvN2ZneG4wOGtpci1pT3hsUk5EU0YwbVFUN1JfMmVrY1JudnQ?oc=5"
         }
       ]
     },
     {
-      "id": "7af355445771",
-      "title": "健康網》夏季好發「黴菌感染」醫談預防方法 - health.ltn.com.tw",
+      "id": "5e5421f49033",
+      "title": "健康網》夏季好發「黴菌感染」醫談預防方法 - 自由健康網",
       "published": "2026-08-06T09:25:00+00:00",
-      "summary": "健康網》夏季好發「黴菌感染」醫談預防方法&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "健康網》夏季好發「黴菌感染」醫談預防方法&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MTlRTTmljM21VR19aNThDZ0tONzRWQVRlREJiejY2LUhMOWJSS3YydDB4cFpBa1o5YXFxQllCUHRlMTJzV0h3bFNfYlhVYVVOOThoLWpPeEhwNXJMaWtIN21hSFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0662af0e490f",
-      "title": "嬤吃白帶魚防失智1清洗動作醫傻眼珍貴護腦部位沒了- 健康 - 中時新聞網",
-      "published": "2026-08-06T08:01:09+00:00",
-      "summary": "嬤吃白帶魚防失智1清洗動作醫傻眼珍貴護腦部位沒了- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbnJMeFBMTDFDanBoNmhZZHZ5MENjZzJQNG5xdm1wSWtkWm9vV0dlSzZOMXhLSEpJZ1diVy04TWZoVEY4SE9IYWFBQnEza09NdldyczBUMWJTTGs5ZDd1SEstNGR0QW81R2FVanRpZkxwSjQ0MHJsdlBKRGtDR3QwSWROMjJJcXlBM3VyUEI3cw?oc=5"
         }
       ]
     },
@@ -103,7 +91,7 @@
       "id": "0dc2d8857e7e",
       "title": "乳癌不是治療5年就安全？癌細胞可能潛伏20年的真相 - Yahoo新聞",
       "published": "2026-08-07T01:06:58+00:00",
-      "summary": "乳癌不是治療5年就安全？癌細胞可能潛伏20年的真相&nbsp;&nbsp;Yahoo新聞癌細胞躲哪去了？研究首繪藏身地圖 復發原因曝光&nbsp;&nbsp;health.ltn.com.tw化療殺不死！狡猾癌細胞竟會「冬眠裝死」首度破解藏身地圖有望斬草除根&nbsp;&nbsp;三立新聞",
+      "summary": "乳癌不是治療5年就安全？癌細胞可能潛伏20年的真相&nbsp;&nbsp;Yahoo新聞癌細胞躲哪去了？研究首繪藏身地圖 復發原因曝光&nbsp;&nbsp;自由健康網化療殺不死！狡猾癌細胞竟會「冬眠裝死」首度破解藏身地圖有望斬草除根&nbsp;&nbsp;health.setn.com",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -124,13 +112,13 @@
       ]
     },
     {
-      "id": "d6921c4aa985",
-      "title": "紐約市西尼羅病毒蚊群近倍增 衛生局加強防治 - epochtimes.com",
+      "id": "b592bfb976b7",
+      "title": "紐約市西尼羅病毒蚊群近倍增 衛生局加強防治 - 大纪元",
       "published": "2026-08-08T01:18:00+00:00",
-      "summary": "紐約市西尼羅病毒蚊群近倍增 衛生局加強防治&nbsp;&nbsp;epochtimes.com西尼羅河病毒蚊子增加 衛生局籲民眾小心防蚊&nbsp;&nbsp;Singtaousa橙縣確診今年首例西尼羅病毒衛生官員籲防蚊- 南加社區- 新聞&nbsp;&nbsp;chinesedaily.com毒蚊暴增 橙縣西尼羅病毒疫情嚴重&nbsp;&nbsp;世界新聞網防西尼羅病毒擴散 史島、皇后區今起噴藥滅蚊&nbsp;&nbsp;世界新聞網",
+      "summary": "紐約市西尼羅病毒蚊群近倍增 衛生局加強防治&nbsp;&nbsp;大纪元西尼羅河病毒蚊子增加 衛生局籲民眾小心防蚊&nbsp;&nbsp;Singtaousa橙縣確診今年首例西尼羅病毒衛生官員籲防蚊- 南加社區- 新聞&nbsp;&nbsp;華人今日網毒蚊暴增 橙縣西尼羅病毒疫情嚴重&nbsp;&nbsp;世界新聞網防西尼羅病毒擴散 史島、皇后區今起噴藥滅蚊&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "epochtimes.com",
+          "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIT19sSlc0UUtPb3luRzZpSk1YYTVYOGxyd1BEWkRWVjJ4Q3gxSlNJSlFSdDZNdFVnLU1YWlJjUDZtR2dUZlVLSVZuWTBCSnFmLWRTVFNoVUF3UDhKN0U00gFkQVVfeXFMT0M0VnZ5UUdYZjBEcmF5dHctZUw4ZHF4NXY3cV9FVGJGSzVfQmcwX21jZk1HY2JfOFFRUkNza1JtdEwyc3liOE1rSUpwNTJWb28ya05qc1ZHV2VaSHdUM3lmeC15cA?oc=5"
         }
       ]
@@ -148,13 +136,13 @@
       ]
     },
     {
-      "id": "5723831d5edc",
-      "title": "Threads瘋傳水楊酸擦腋下除體味臭狐 皮膚科醫生指搽止汗劑好過？ - 香港01",
+      "id": "a337d3c32374",
+      "title": "Threads瘋傳水楊酸擦腋下除體味臭狐 皮膚科醫生指搽止汗劑好過？ - hk01.com",
       "published": "2026-08-07T13:00:06+00:00",
-      "summary": "Threads瘋傳水楊酸擦腋下除體味臭狐 皮膚科醫生指搽止汗劑好過？&nbsp;&nbsp;香港01",
+      "summary": "Threads瘋傳水楊酸擦腋下除體味臭狐 皮膚科醫生指搽止汗劑好過？&nbsp;&nbsp;hk01.com",
       "sources": [
         {
-          "name": "香港01",
+          "name": "hk01.com",
           "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPTjhtVTNXLXRvR0xvbFhwNldEYjYzSm9YUFVYenVianlPcDlIdDF0UHo0dVRCcW5EWVpqeDNzWEhlVHN5T1gxekYwYzhpOS0yb2ZFdk9iR2JoSldfODVTVjNpWVJiTWU5b1ZqNVJtM3dpUU9fSHlFYUppNzJrckRzSTJaQTBLNFdEWEdrWkRMM19uVkdsbW1GTlhpSnhscHZFa3pPSVIyVmV4V04xX1Azb1NGLUhlaWVRYk5Ua0NLYkNTcWV6aDg5RF9tQmZtUTJEZ21Bc3EyaE9OUW51R21CTnhKYW1mTGI2am9Fc0RDQ0o5cnRhSkJhMnZ3eVBXd1YtRzZERld0RFhaZG5HVjZQbGRNWVktR2t0RnlnOW9VY2FZdXB0TE90am1Sa2JELTJJNGM3MW5pZ0FLaktWNDQ5N3UzTVA5WlA4Zm41cmY5RGxSU0JHWERlYXZ6Rm96dXI5UnM3Z19PUnd3bU5ZQ19hMjIzWUJKNnV6d3lUNko2Z3FrRWJRYVBjWndwX0dKZnhlY0dkdTVrZmxiUQ?oc=5"
         }
       ]
