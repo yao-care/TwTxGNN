@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T13:38:20.399295+00:00",
-  "count": 3,
+  "generated": "2026-08-08T14:22:47.523964+00:00",
+  "count": 4,
   "news": [
     {
       "id": "b61fe886d06a",
@@ -17,6 +17,30 @@
           "type": "indication",
           "name": "dementia",
           "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17b7937231ac",
+      "title": "Akk 菌和大腦類澱粉的關聯，未來會影響哪些阿茲海默症研究？",
+      "published": "2026-08-07T08:40:05+00:00",
+      "sources": [
+        {
+          "name": "CMoney",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DaHhfRmxrRVA5VkN2MW02UWxkbldZY2JyLXNKS3NZa3BPTkRadmxBYjk1WUJPVVN3MnBtMW4tbkFObmNWblB1T1hod1d6cUYtVm10dlZQdDRPZjYxWWNPNFBTMkVoMGhOLWZGTWhWdy1YTGJPc1JubllxUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
           "related_drugs": [
             {
               "slug": "gefitinib",
