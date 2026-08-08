@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-08T09:27:54.554484+00:00",
-  "count": 16,
+  "fetched_at": "2026-08-08T10:21:40.830609+00:00",
+  "count": 15,
   "news": [
     {
       "id": "aa78b46c19ea",
@@ -76,22 +76,10 @@
       ]
     },
     {
-      "id": "5e5421f49033",
-      "title": "健康網》夏季好發「黴菌感染」醫談預防方法 - 自由健康網",
-      "published": "2026-08-06T09:25:00+00:00",
-      "summary": "健康網》夏季好發「黴菌感染」醫談預防方法&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MTlRTTmljM21VR19aNThDZ0tONzRWQVRlREJiejY2LUhMOWJSS3YydDB4cFpBa1o5YXFxQllCUHRlMTJzV0h3bFNfYlhVYVVOOThoLWpPeEhwNXJMaWtIN21hSFE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0dc2d8857e7e",
       "title": "乳癌不是治療5年就安全？癌細胞可能潛伏20年的真相 - Yahoo新聞",
       "published": "2026-08-07T01:06:58+00:00",
-      "summary": "乳癌不是治療5年就安全？癌細胞可能潛伏20年的真相&nbsp;&nbsp;Yahoo新聞癌細胞躲哪去了？研究首繪藏身地圖 復發原因曝光&nbsp;&nbsp;自由健康網化療殺不死！狡猾癌細胞竟會「冬眠裝死」首度破解藏身地圖有望斬草除根&nbsp;&nbsp;health.setn.com",
+      "summary": "乳癌不是治療5年就安全？癌細胞可能潛伏20年的真相&nbsp;&nbsp;Yahoo新聞癌細胞躲哪去了？研究首繪藏身地圖 復發原因曝光&nbsp;&nbsp;自由健康網化療殺不死！狡猾癌細胞竟會「冬眠裝死」首度破解藏身地圖有望斬草除根&nbsp;&nbsp;三立新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
