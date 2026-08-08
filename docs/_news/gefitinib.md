@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [Akk 菌和大腦類澱粉的關聯，未來會影響哪些阿茲海默症研究？](https://news.google.com/rss/articles/CBMie0FVX3lxTE9DaHhfRmxrRVA5VkN2MW02UWxkbldZY2JyLXNKS3NZa3BPTkRadmxBYjk1WUJPVVN3MnBtMW4tbkFObmNWblB1T1hod1d6cUYtVm10dlZQdDRPZjYxWWNPNFBTMkVoMGhOLWZGTWhWdy1YTGJPc1JubllxUQ?oc=5)
-
-2026-08-07 <span class="news-indication-tag">阿茲海默症</span>
-
-來源：[CMoney](https://news.google.com/rss/articles/CBMie0FVX3lxTE9DaHhfRmxrRVA5VkN2MW02UWxkbldZY2JyLXNKS3NZa3BPTkRadmxBYjk1WUJPVVN3MnBtMW4tbkFObmNWblB1T1hod1d6cUYtVm10dlZQdDRPZjYxWWNPNFBTMkVoMGhOLWZGTWhWdy1YTGJPc1JubllxUQ?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [中年守住3項健康條件 最新研究：可遠離失智症超過10年](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSWVSME1XNW1pUWlRaEZsVTUtVk5EYllRSVVSZS1oY2VUNDd6WDc1b2IxblVWaWxaSUoxNjgxZ1YtMjBJc2FOR3VKTndCZ1NvQkFlcWo4andzcUQyZUU5RU1lbDdVTDFoOFJJX2gzMTFCbzRBTmktaFd1T0JFNkhPZHB3?oc=5)
 
@@ -59,27 +51,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [《Nature Aging》果糖誘發腫瘤轉移?! 卵巢癌研究首揭營養物質促癌擴散角色](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ec014Y196V21wdkZXaG1vN0FUZ29WUWlpMUxSZnZpMnFCRHhMcGZOcWFuV0J0cVVtT21XYmpablR6TGlHeG1qWXl0R3dXVzh3Z095QzBoOEtIdTRTRTZHQWRvcUxQSE1u?oc=5)
-
-2026-08-06 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
-
-來源：[環球生技月刊](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ec014Y196V21wdkZXaG1vN0FUZ29WUWlpMUxSZnZpMnFCRHhMcGZOcWFuV0J0cVVtT21XYmpablR6TGlHeG1qWXl0R3dXVzh3Z095QzBoOEtIdTRTRTZHQWRvcUxQSE1u?oc=5)
-
----
-
 ### [嬤吃白帶魚防失智1清洗動作醫傻眼珍貴護腦部位沒了- 健康](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbnJMeFBMTDFDanBoNmhZZHZ5MENjZzJQNG5xdm1wSWtkWm9vV0dlSzZOMXhLSEpJZ1diVy04TWZoVEY4SE9IYWFBQnEza09NdldyczBUMWJTTGs5ZDd1SEstNGR0QW81R2FVanRpZkxwSjQ0MHJsdlBKRGtDR3QwSWROMjJJcXlBM3VyUEI3cw?oc=5)
 
 2026-08-06 <span class="news-indication-tag">失智</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbnJMeFBMTDFDanBoNmhZZHZ5MENjZzJQNG5xdm1wSWtkWm9vV0dlSzZOMXhLSEpJZ1diVy04TWZoVEY4SE9IYWFBQnEza09NdldyczBUMWJTTGs5ZDd1SEstNGR0QW81R2FVanRpZkxwSjQ0MHJsdlBKRGtDR3QwSWROMjJJcXlBM3VyUEI3cw?oc=5)
-
----
-
-### [便秘竟是腸道老化？醫揭驚人失智危機](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VN2FQOW5zUjZaTlVOV3RQRU5mRlRpT1lMd1dZWndRSDRHMnhjTm9WbHdycW9KUEhxVlpQV1hGa0Y3ODZKNW1OeTViTWRZRHQ5S2xPdg?oc=5)
-
-2026-08-06 <span class="news-indication-tag">失智</span>
-
-來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VN2FQOW5zUjZaTlVOV3RQRU5mRlRpT1lMd1dZWndRSDRHMnhjTm9WbHdycW9KUEhxVlpQV1hGa0Y3ODZKNW1OeTViTWRZRHQ5S2xPdg?oc=5)
 
 ---
 

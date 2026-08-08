@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,23 +42,9 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [《Nature Aging》果糖誘發腫瘤轉移?! 卵巢癌研究首揭營養物質促癌擴散角色](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ec014Y196V21wdkZXaG1vN0FUZ29WUWlpMUxSZnZpMnFCRHhMcGZOcWFuV0J0cVVtT21XYmpablR6TGlHeG1qWXl0R3dXVzh3Z095QzBoOEtIdTRTRTZHQWRvcUxQSE1u?oc=5)
-
-2026-08-06 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
-
-來源：[環球生技月刊](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ec014Y196V21wdkZXaG1vN0FUZ29WUWlpMUxSZnZpMnFCRHhMcGZOcWFuV0J0cVVtT21XYmpablR6TGlHeG1qWXl0R3dXVzh3Z095QzBoOEtIdTRTRTZHQWRvcUxQSE1u?oc=5)
-
----
-
-### [黎彼得離世｜專家揭長者中風突發徵狀！切勿忽視4大先兆：出現這警號即求醫！ - UHK 港生活](https://news.google.com/rss/articles/CBMiwgNBVV95cUxNdERzT0RoUW8xZl9GZTZJa3JITUpjS2pndkp1QnRxOFYzUExNalhHeHZ6bF94cHowV3llbUlicjRzZ2hDelcwVTFsQnh0dkNuaHlCYjJTblhOdTk3a0g3XzNXeWczYkwzVTMtNGV0UzRId1U5M1pOMndpZ3RYbHEzSnpFSGZGOV9QM0FJb29NWFU1aUVFWWZUNHJPMWpFSWpneEpVemh6d1VKYkJxWkhtbndPaUh1WllHMVZjNlFrQkhyQVRqRXYxejZMZzJqWF9IbVlvTmtWTHNpcXNtLTVHT0ZtTWREcFh4cldHQmhpN3QxQXFobkdXM0tzVjF1UFVDQ2V3Y2JmNTBoSF91ZWxUcl9NdGRHb3d6Q0dPOEtSWS1CTVQ5cnhXZzNfT2VyTkFpb3VHMHF3bzFaVmJZUlFqdlZTTFZsd3Y4eEZLQ2QwU2VLUzZNVDVoWndHSmo1RFk3Yi1sczYyWWVmbFFQLXR2aVRTdURaYlFjUEpUMDN6Q09CakdQRjI1dnhkNTlVNEFsZnNIcG5BTno5Ql9DTFNFMW1wZVRuYVM2dTFMQlRmRmd3N0otS2puZDNmdzlqQlBoOEE?oc=5)
-
-2026-08-06 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
-
-來源：[UHK 港生活](https://news.google.com/rss/articles/CBMiwgNBVV95cUxNdERzT0RoUW8xZl9GZTZJa3JITUpjS2pndkp1QnRxOFYzUExNalhHeHZ6bF94cHowV3llbUlicjRzZ2hDelcwVTFsQnh0dkNuaHlCYjJTblhOdTk3a0g3XzNXeWczYkwzVTMtNGV0UzRId1U5M1pOMndpZ3RYbHEzSnpFSGZGOV9QM0FJb29NWFU1aUVFWWZUNHJPMWpFSWpneEpVemh6d1VKYkJxWkhtbndPaUh1WllHMVZjNlFrQkhyQVRqRXYxejZMZzJqWF9IbVlvTmtWTHNpcXNtLTVHT0ZtTWREcFh4cldHQmhpN3QxQXFobkdXM0tzVjF1UFVDQ2V3Y2JmNTBoSF91ZWxUcl9NdGRHb3d6Q0dPOEtSWS1CTVQ5cnhXZzNfT2VyTkFpb3VHMHF3bzFaVmJZUlFqdlZTTFZsd3Y4eEZLQ2QwU2VLUzZNVDVoWndHSmo1RFk3Yi1sczYyWWVmbFFQLXR2aVRTdURaYlFjUEpUMDN6Q09CakdQRjI1dnhkNTlVNEFsZnNIcG5BTno5Ql9DTFNFMW1wZVRuYVM2dTFMQlRmRmd3N0otS2puZDNmdzlqQlBoOEE?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

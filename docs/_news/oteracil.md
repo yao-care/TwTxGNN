@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [《Nature Aging》果糖誘發腫瘤轉移?! 卵巢癌研究首揭營養物質促癌擴散角色](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ec014Y196V21wdkZXaG1vN0FUZ29WUWlpMUxSZnZpMnFCRHhMcGZOcWFuV0J0cVVtT21XYmpablR6TGlHeG1qWXl0R3dXVzh3Z095QzBoOEtIdTRTRTZHQWRvcUxQSE1u?oc=5)
-
-2026-08-06 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
-
-來源：[環球生技月刊](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ec014Y196V21wdkZXaG1vN0FUZ29WUWlpMUxSZnZpMnFCRHhMcGZOcWFuV0J0cVVtT21XYmpablR6TGlHeG1qWXl0R3dXVzh3Z095QzBoOEtIdTRTRTZHQWRvcUxQSE1u?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [西方飲食為何助長大腸癌？ 研究揭腸道菌關鍵機制](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfUWFvUnh3YjU3aVFnQ3BtZWpwdUVYX3NfNF9GeFRjVmJMamVHbTNQTTJuTnF4QW4xVzVsaFhrTWNVYkNmb2ZTSVJja3g1TGtlbmpXYWNRQTItNkFVR2kzNnQyNlY?oc=5)
 

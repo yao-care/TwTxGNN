@@ -14,7 +14,7 @@ permalink: /news/pipemidic_acid/
 ---
 
 <p class="key-answer" data-question="Pipemidic acid 有什麼相關新聞？">
-<strong>Pipemidic acid</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pipemidic acid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,9 @@ permalink: /news/pipemidic_acid/
 <p><a href="{{ '/drugs/pipemidic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [黎彼得離世｜專家揭長者中風突發徵狀！切勿忽視4大先兆：出現這警號即求醫！ - UHK 港生活](https://news.google.com/rss/articles/CBMiwgNBVV95cUxNdERzT0RoUW8xZl9GZTZJa3JITUpjS2pndkp1QnRxOFYzUExNalhHeHZ6bF94cHowV3llbUlicjRzZ2hDelcwVTFsQnh0dkNuaHlCYjJTblhOdTk3a0g3XzNXeWczYkwzVTMtNGV0UzRId1U5M1pOMndpZ3RYbHEzSnpFSGZGOV9QM0FJb29NWFU1aUVFWWZUNHJPMWpFSWpneEpVemh6d1VKYkJxWkhtbndPaUh1WllHMVZjNlFrQkhyQVRqRXYxejZMZzJqWF9IbVlvTmtWTHNpcXNtLTVHT0ZtTWREcFh4cldHQmhpN3QxQXFobkdXM0tzVjF1UFVDQ2V3Y2JmNTBoSF91ZWxUcl9NdGRHb3d6Q0dPOEtSWS1CTVQ5cnhXZzNfT2VyTkFpb3VHMHF3bzFaVmJZUlFqdlZTTFZsd3Y4eEZLQ2QwU2VLUzZNVDVoWndHSmo1RFk3Yi1sczYyWWVmbFFQLXR2aVRTdURaYlFjUEpUMDN6Q09CakdQRjI1dnhkNTlVNEFsZnNIcG5BTno5Ql9DTFNFMW1wZVRuYVM2dTFMQlRmRmd3N0otS2puZDNmdzlqQlBoOEE?oc=5)
-
-2026-08-06 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
-
-來源：[UHK 港生活](https://news.google.com/rss/articles/CBMiwgNBVV95cUxNdERzT0RoUW8xZl9GZTZJa3JITUpjS2pndkp1QnRxOFYzUExNalhHeHZ6bF94cHowV3llbUlicjRzZ2hDelcwVTFsQnh0dkNuaHlCYjJTblhOdTk3a0g3XzNXeWczYkwzVTMtNGV0UzRId1U5M1pOMndpZ3RYbHEzSnpFSGZGOV9QM0FJb29NWFU1aUVFWWZUNHJPMWpFSWpneEpVemh6d1VKYkJxWkhtbndPaUh1WllHMVZjNlFrQkhyQVRqRXYxejZMZzJqWF9IbVlvTmtWTHNpcXNtLTVHT0ZtTWREcFh4cldHQmhpN3QxQXFobkdXM0tzVjF1UFVDQ2V3Y2JmNTBoSF91ZWxUcl9NdGRHb3d6Q0dPOEtSWS1CTVQ5cnhXZzNfT2VyTkFpb3VHMHF3bzFaVmJZUlFqdlZTTFZsd3Y4eEZLQ2QwU2VLUzZNVDVoWndHSmo1RFk3Yi1sczYyWWVmbFFQLXR2aVRTdURaYlFjUEpUMDN6Q09CakdQRjI1dnhkNTlVNEFsZnNIcG5BTno5Ql9DTFNFMW1wZVRuYVM2dTFMQlRmRmd3N0otS2puZDNmdzlqQlBoOEE?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
