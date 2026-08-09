@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-09T13:41:00.758229+00:00",
-  "count": 16,
+  "fetched_at": "2026-08-09T14:24:52.758264+00:00",
+  "count": 15,
   "news": [
     {
       "id": "3a0a13809dba",
@@ -19,7 +19,7 @@
       "id": "fe60b91bbf8e",
       "title": "南韓每年近千人感染HIV！疾管廳揭感染真相 出櫃男星曝「半年驗一次」 - Yahoo新聞",
       "published": "2026-08-09T07:18:00+00:00",
-      "summary": "南韓每年近千人感染HIV！疾管廳揭感染真相 出櫃男星曝「半年驗一次」&nbsp;&nbsp;Yahoo新聞",
+      "summary": "南韓每年近千人感染HIV！疾管廳揭感染真相 出櫃男星曝「半年驗一次」&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -88,18 +88,6 @@
       ]
     },
     {
-      "id": "8f417cb8dcd3",
-      "title": "蓋文斯頓縣報告了一個感染西尼羅河病毒病例 - 新唐人電視台",
-      "published": "2026-08-09T05:56:17+00:00",
-      "summary": "蓋文斯頓縣報告了一個感染西尼羅河病毒病例&nbsp;&nbsp;新唐人電視台紐約市西尼羅病毒蚊群近倍增 衛生局加強防治&nbsp;&nbsp;大纪元西尼羅河病毒樣本增近倍&nbsp;&nbsp;Singtaousa橙縣確診今年首例西尼羅病毒衛生官員籲防蚊- 南加社區- 新聞&nbsp;&nbsp;華人今日網防西尼羅病毒擴散 史島、皇后區今起噴藥滅蚊&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "新唐人電視台",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RVlgya2FKMHlHRUpDRFJud0ptT19XcHA3NHZ6bEFFcGhpMDVCeEZRTXpqVlFsTXRaOXR1RkJnWmNPWTBMZG45ZV9wZldZdWMyRm40V0ZfWTJKZTFmc1loY9IBZkFVX3lxTE9EN1lkNkZ4Q0tVYXN2b2VLUWxsc0ktWkV5VERQdEQxZ0N1NF9BNFRoTkliZm12RXpfTk1CSDdkbXZFMVVmWnhMTkx6UjZRY04yVkNic1BEUzYwZzFjemlTLUMtNkpkUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b226ed7d4f08",
       "title": "幹細胞技術突破，給予帕金森氏症療法新希望 | 科技新報 - LINE TODAY",
       "published": "2026-08-08T01:22:07+00:00",
@@ -120,6 +108,18 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWpZZ0lacmw3WG9fMkNlenhhZFZMVVM1MkNhZEZOMEd4ZFh5Y1dkRnlBS1RMVzh2V3pMcmdUc0plSmIyS2tzR0Nqb1Joa2p0WmtZNlpxSHlsWDBRWERMR2VULTRHZkwtLTBxQXhueklTZ3g4Y0k5M1VrY2xXdWlON0Y5UjRKcTdGSXQ4RlVtdzhQQkYyMmgyYjdOQlJOa01lbkY4VUVwTERVTmljYTFZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8f417cb8dcd3",
+      "title": "蓋文斯頓縣報告了一個感染西尼羅河病毒病例 - 新唐人電視台",
+      "published": "2026-08-09T05:56:17+00:00",
+      "summary": "蓋文斯頓縣報告了一個感染西尼羅河病毒病例&nbsp;&nbsp;新唐人電視台紐約市西尼羅病毒蚊群近倍增 衛生局加強防治&nbsp;&nbsp;大纪元西尼羅河病毒樣本增近倍&nbsp;&nbsp;Singtaousa橙縣確診今年首例西尼羅病毒衛生官員籲防蚊- 南加社區- 新聞&nbsp;&nbsp;華人今日網防西尼羅病毒擴散 史島、皇后區今起噴藥滅蚊&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "新唐人電視台",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RVlgya2FKMHlHRUpDRFJud0ptT19XcHA3NHZ6bEFFcGhpMDVCeEZRTXpqVlFsTXRaOXR1RkJnWmNPWTBMZG45ZV9wZldZdWMyRm40V0ZfWTJKZTFmc1loY9IBZkFVX3lxTE9EN1lkNkZ4Q0tVYXN2b2VLUWxsc0ktWkV5VERQdEQxZ0N1NF9BNFRoTkliZm12RXpfTk1CSDdkbXZFMVVmWnhMTkx6UjZRY04yVkNic1BEUzYwZzFjemlTLUMtNkpkUQ?oc=5"
         }
       ]
     },
@@ -180,18 +180,6 @@
         {
           "name": "singtao.ca",
           "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQbGg2SEJZZlNaTEJfYnhhX0FnTDN5Snd4TVljWTNLd0JWR29fZDdmcnFRMEhkbDdmYnd1U2pZT0R3eVc1bGVmRHZjMm1FSmpiY0RXUUNFU1dVaEpneURJYjBRTUdQam1KbkNkSlQ3TVVTRDJLN0wzOGZ5QzBac3c5cWphM1d2V1lHTmRadGF2Z3dreGc1Z3JKNmRDbXhnbVA1TU5rYVhUdWN5NmtCTlk1R19leWtZUUM4VDB5dk5scUdmNWNKOWZtSFpGcEx3TnI3aVE0ZGE5TU10NExnYzdFM3NFWkFKZXNUVFpIeVo0WXV6NDE0Z0cySGpCZ3ZrOFJOc2s5SVFIc21LeHI5UWhUb1lHWGNfWGxRaDcwSzZhTllDQ1U0UDJwS1M3SmFQSGdkdUg4Mkxrc3ZFZXQySjN3eUpuS0R0T05pcmVxS1BhTHVZT3JhUVEtR1Z6ZWJyYnJ6SWZSem1qTG16UWpuWmJRN0YzNF83cDBYeXp5b2hWLUhsN25jWjJmV2IyZ0stcTVxOEkzZVZSTWZTMElSUnlTb1Vsd1RfZmZpVUUzVUpYM3F3cmp6QlRuaXZuQm5ma3NLNHdkNG5EMm9KZmFDX3NOZdIBjAFBVV95cUxNcDlZSkhvZFBMRE1tYTNTd1plaGJScFBlWmt3TU9qQUZ2TmhrRl9wVW40UldhOHZ1aWtYdDFlUlVHS2tBZGttYkdPRWZ2VkpHcXEyZnp6Sm1BSXZlT2V1cWhmWkV3X1NKQUNLQ20weEVQSDVFZFQzZTRXY2NWRVNCNmNJZ2pic0Q3U1FqZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5723831d5edc",
-      "title": "Threads瘋傳水楊酸擦腋下除體味臭狐 皮膚科醫生指搽止汗劑好過？ - 香港01",
-      "published": "2026-08-07T13:00:06+00:00",
-      "summary": "Threads瘋傳水楊酸擦腋下除體味臭狐 皮膚科醫生指搽止汗劑好過？&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPTjhtVTNXLXRvR0xvbFhwNldEYjYzSm9YUFVYenVianlPcDlIdDF0UHo0dVRCcW5EWVpqeDNzWEhlVHN5T1gxekYwYzhpOS0yb2ZFdk9iR2JoSldfODVTVjNpWVJiTWU5b1ZqNVJtM3dpUU9fSHlFYUppNzJrckRzSTJaQTBLNFdEWEdrWkRMM19uVkdsbW1GTlhpSnhscHZFa3pPSVIyVmV4V04xX1Azb1NGLUhlaWVRYk5Ua0NLYkNTcWV6aDg5RF9tQmZtUTJEZ21Bc3EyaE9OUW51R21CTnhKYW1mTGI2am9Fc0RDQ0o5cnRhSkJhMnZ3eVBXd1YtRzZERld0RFhaZG5HVjZQbGRNWVktR2t0RnlnOW9VY2FZdXB0TE90am1Sa2JELTJJNGM3MW5pZ0FLaktWNDQ5N3UzTVA5WlA4Zm41cmY5RGxSU0JHWERlYXZ6Rm96dXI5UnM3Z19PUnd3bU5ZQ19hMjIzWUJKNnV6d3lUNko2Z3FrRWJRYVBjWndwX0dKZnhlY0dkdTVrZmxiUQ?oc=5"
         }
       ]
     }
