@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-09T12:30:11.624991+00:00",
+  "fetched_at": "2026-08-09T13:41:00.758229+00:00",
   "count": 16,
   "news": [
     {
@@ -40,13 +40,13 @@
       ]
     },
     {
-      "id": "da9743426304",
-      "title": "調理乳癌體質 醫推4大關鍵營養 | 中華日報 - today.line.me",
+      "id": "d857bcf43214",
+      "title": "調理乳癌體質 醫推4大關鍵營養 | 中華日報 - LINE TODAY",
       "published": "2026-08-08T13:52:30+00:00",
-      "summary": "調理乳癌體質 醫推4大關鍵營養 | 中華日報&nbsp;&nbsp;today.line.me",
+      "summary": "調理乳癌體質 醫推4大關鍵營養 | 中華日報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "today.line.me",
+          "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yWks1V1Zoc2JuQWhVdHFSTC11VW9MWDBBQ1Z1RkQ2dkxMS1hVbm8xMFVYT1JacTNNMGwtR0hRaXFQQ1BKVzJLd2w5dDlHRlBMcTVLckdR?oc=5"
         }
       ]
@@ -100,13 +100,13 @@
       ]
     },
     {
-      "id": "1d6a55e05eb1",
-      "title": "幹細胞技術突破，給予帕金森氏症療法新希望 | 科技新報 - today.line.me",
+      "id": "b226ed7d4f08",
+      "title": "幹細胞技術突破，給予帕金森氏症療法新希望 | 科技新報 - LINE TODAY",
       "published": "2026-08-08T01:22:07+00:00",
-      "summary": "幹細胞技術突破，給予帕金森氏症療法新希望 | 科技新報&nbsp;&nbsp;today.line.me",
+      "summary": "幹細胞技術突破，給予帕金森氏症療法新希望 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "today.line.me",
+          "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10SllTaTdiczNfUkNUQmUtdmZVYWJDd3RiNXhobDBfc2xyNUNIT3JIU2luRzJfZ0Zhc2UzMEZLZ2lNN2xqSGxXN09CUDQ5a3N3QVU1VFJB?oc=5"
         }
       ]
@@ -172,18 +172,6 @@
       ]
     },
     {
-      "id": "5723831d5edc",
-      "title": "Threads瘋傳水楊酸擦腋下除體味臭狐 皮膚科醫生指搽止汗劑好過？ - 香港01",
-      "published": "2026-08-07T13:00:06+00:00",
-      "summary": "Threads瘋傳水楊酸擦腋下除體味臭狐 皮膚科醫生指搽止汗劑好過？&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPTjhtVTNXLXRvR0xvbFhwNldEYjYzSm9YUFVYenVianlPcDlIdDF0UHo0dVRCcW5EWVpqeDNzWEhlVHN5T1gxekYwYzhpOS0yb2ZFdk9iR2JoSldfODVTVjNpWVJiTWU5b1ZqNVJtM3dpUU9fSHlFYUppNzJrckRzSTJaQTBLNFdEWEdrWkRMM19uVkdsbW1GTlhpSnhscHZFa3pPSVIyVmV4V04xX1Azb1NGLUhlaWVRYk5Ua0NLYkNTcWV6aDg5RF9tQmZtUTJEZ21Bc3EyaE9OUW51R21CTnhKYW1mTGI2am9Fc0RDQ0o5cnRhSkJhMnZ3eVBXd1YtRzZERld0RFhaZG5HVjZQbGRNWVktR2t0RnlnOW9VY2FZdXB0TE90am1Sa2JELTJJNGM3MW5pZ0FLaktWNDQ5N3UzTVA5WlA4Zm41cmY5RGxSU0JHWERlYXZ6Rm96dXI5UnM3Z19PUnd3bU5ZQ19hMjIzWUJKNnV6d3lUNko2Z3FrRWJRYVBjWndwX0dKZnhlY0dkdTVrZmxiUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d4ad6056a5b7",
       "title": "男性危機｜歐洲研究：近50年間睪酮水平大降54% 肥胖糖尿病或成隱形推手 - singtao.ca",
       "published": "2026-08-07T14:24:50+00:00",
@@ -192,6 +180,18 @@
         {
           "name": "singtao.ca",
           "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQbGg2SEJZZlNaTEJfYnhhX0FnTDN5Snd4TVljWTNLd0JWR29fZDdmcnFRMEhkbDdmYnd1U2pZT0R3eVc1bGVmRHZjMm1FSmpiY0RXUUNFU1dVaEpneURJYjBRTUdQam1KbkNkSlQ3TVVTRDJLN0wzOGZ5QzBac3c5cWphM1d2V1lHTmRadGF2Z3dreGc1Z3JKNmRDbXhnbVA1TU5rYVhUdWN5NmtCTlk1R19leWtZUUM4VDB5dk5scUdmNWNKOWZtSFpGcEx3TnI3aVE0ZGE5TU10NExnYzdFM3NFWkFKZXNUVFpIeVo0WXV6NDE0Z0cySGpCZ3ZrOFJOc2s5SVFIc21LeHI5UWhUb1lHWGNfWGxRaDcwSzZhTllDQ1U0UDJwS1M3SmFQSGdkdUg4Mkxrc3ZFZXQySjN3eUpuS0R0T05pcmVxS1BhTHVZT3JhUVEtR1Z6ZWJyYnJ6SWZSem1qTG16UWpuWmJRN0YzNF83cDBYeXp5b2hWLUhsN25jWjJmV2IyZ0stcTVxOEkzZVZSTWZTMElSUnlTb1Vsd1RfZmZpVUUzVUpYM3F3cmp6QlRuaXZuQm5ma3NLNHdkNG5EMm9KZmFDX3NOZdIBjAFBVV95cUxNcDlZSkhvZFBMRE1tYTNTd1plaGJScFBlWmt3TU9qQUZ2TmhrRl9wVW40UldhOHZ1aWtYdDFlUlVHS2tBZGttYkdPRWZ2VkpHcXEyZnp6Sm1BSXZlT2V1cWhmWkV3X1NKQUNLQ20weEVQSDVFZFQzZTRXY2NWRVNCNmNJZ2pic0Q3U1FqZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5723831d5edc",
+      "title": "Threads瘋傳水楊酸擦腋下除體味臭狐 皮膚科醫生指搽止汗劑好過？ - 香港01",
+      "published": "2026-08-07T13:00:06+00:00",
+      "summary": "Threads瘋傳水楊酸擦腋下除體味臭狐 皮膚科醫生指搽止汗劑好過？&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPTjhtVTNXLXRvR0xvbFhwNldEYjYzSm9YUFVYenVianlPcDlIdDF0UHo0dVRCcW5EWVpqeDNzWEhlVHN5T1gxekYwYzhpOS0yb2ZFdk9iR2JoSldfODVTVjNpWVJiTWU5b1ZqNVJtM3dpUU9fSHlFYUppNzJrckRzSTJaQTBLNFdEWEdrWkRMM19uVkdsbW1GTlhpSnhscHZFa3pPSVIyVmV4V04xX1Azb1NGLUhlaWVRYk5Ua0NLYkNTcWV6aDg5RF9tQmZtUTJEZ21Bc3EyaE9OUW51R21CTnhKYW1mTGI2am9Fc0RDQ0o5cnRhSkJhMnZ3eVBXd1YtRzZERld0RFhaZG5HVjZQbGRNWVktR2t0RnlnOW9VY2FZdXB0TE90am1Sa2JELTJJNGM3MW5pZ0FLaktWNDQ5N3UzTVA5WlA4Zm41cmY5RGxSU0JHWERlYXZ6Rm96dXI5UnM3Z19PUnd3bU5ZQ19hMjIzWUJKNnV6d3lUNko2Z3FrRWJRYVBjWndwX0dKZnhlY0dkdTVrZmxiUQ?oc=5"
         }
       ]
     }
