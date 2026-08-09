@@ -1,8 +1,47 @@
 {
-  "last_updated": "2026-08-09T03:24:40.241487+00:00",
-  "total_count": 15,
-  "matched_count": 4,
+  "last_updated": "2026-08-09T04:55:27.880045+00:00",
+  "total_count": 17,
+  "matched_count": 3,
   "news": [
+    {
+      "id": "7abfcbdccc8b",
+      "title": "刷牙一直流血？ 逾30萬人研究揭牙周病與糖尿病雙向關聯",
+      "published": "2026-08-09T04:36:00+00:00",
+      "summary": "刷牙一直流血？ 逾30萬人研究揭牙周病與糖尿病雙向關聯&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGQk4wQUdYU3YwS2k2NmlPQ041T2RhRkxXWWdLQUNTcU9mVnhKNmtTLW9wejdOMG5DNHJZeDBzTU5CRHNBUG40TVFNNE1VUHh5MVhZQW9OZHZGZU1tZWo4ci0zNlY?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3eaeafa647f2",
+      "title": "韓國每年千人感染HIV！洪錫天曝「半年驗一次性病」：驗完才敢連結",
+      "published": "2026-08-09T04:29:00+00:00",
+      "summary": "韓國每年千人感染HIV！洪錫天曝「半年驗一次性病」：驗完才敢連結&nbsp;&nbsp;ETtoday新聞雲",
+      "sources": [
+        {
+          "name": "ETtoday新聞雲",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzYWNrakV1VjBodkgxeHo3OFdJTHV4N2dJVzNFRHk0SVJ1T1ZiMDdFTkFWV05scnVkYXY0Q3hEck9YM0k3WFRpd1l4WWJBQkEwcjE4VVIxamh5bW9pRUHSAUtBVV95cUxNSTNHaG9SaXlZZE44MEZJV1RUWlhhbGJnWkdyNHgtZklzZFljN3FVZERUSWsySkg2RUhybVUzZWVMeXBtVkFfUXE0RlE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "978c20ac202f",
+      "title": "一位80歲高齡的醫生如何戰勝前列腺癌",
+      "published": "2026-08-09T03:40:00+00:00",
+      "summary": "一位80歲高齡的醫生如何戰勝前列腺癌&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Bb2JYWFpKNkw2MkRIUXRmYVR1SlhPakFwc285elBVZkI2QmhFWGZQZURXckhmdzVELVdmLUctSXQ2aDBFSmt3Ym16UUhISkRoWXZpRzV3Q1ExWU5GNnd30gFkQVVfeXFMT2xzNXNiMGZnZ0xoNmlFSmpLcXpBeXhEbm9vcWpmRW9GVi03cnVGbEhELUo4NFZWT3RLNm0xNjU2Ti1tYmg2M1h0Zmticm53NXRQV1BzS3RqdUZwYzcza01sR0dFdg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "5320b6aa327a",
       "title": "台灣人最缺「這4大營養素」 營養師曝迅速補充法",
@@ -20,7 +59,7 @@
       "id": "8f417cb8dcd3",
       "title": "蓋文斯頓縣報告了一個感染西尼羅河病毒病例",
       "published": "2026-08-08T23:37:03+00:00",
-      "summary": "蓋文斯頓縣報告了一個感染西尼羅河病毒病例&nbsp;&nbsp;新唐人電視台紐約市西尼羅病毒蚊群近倍增 衛生局加強防治&nbsp;&nbsp;大纪元西尼羅河病毒樣本增近倍&nbsp;&nbsp;singtaousa.com橙縣確診今年首例西尼羅病毒衛生官員籲防蚊- 南加社區- 新聞&nbsp;&nbsp;華人今日網防西尼羅病毒擴散 史島、皇后區今起噴藥滅蚊&nbsp;&nbsp;世界新聞網",
+      "summary": "蓋文斯頓縣報告了一個感染西尼羅河病毒病例&nbsp;&nbsp;新唐人電視台紐約市西尼羅病毒蚊群近倍增 衛生局加強防治&nbsp;&nbsp;大纪元西尼羅河病毒樣本增近倍&nbsp;&nbsp;Singtaousa橙縣確診今年首例西尼羅病毒衛生官員籲防蚊- 南加社區- 新聞&nbsp;&nbsp;華人今日網防西尼羅病毒擴散 史島、皇后區今起噴藥滅蚊&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
           "name": "新唐人電視台",
@@ -28,39 +67,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "5ccf2cf43133",
-      "title": "華女前期有這些症狀沒在意 一查竟是胃癌晚期",
-      "published": "2026-08-08T23:24:21+00:00",
-      "summary": "華女前期有這些症狀沒在意 一查竟是胃癌晚期&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SVmdZM3p4bW12cDNGVWhmU19yajk0Rlk5eFBzMUtKLS1WZ0FnX1VDYjBhNlp2RS05d1N3Y0o2M254SmJOc2Y4bTVMNnJsN3hNZDNLSTRvcW1vcmJwcENIQ1ZR0gFnQVVfeXFMTTNQLVM4NEh2RFFsUG9tUWpScmZEZDhnNU56eEdGTUdUcUNoZHFmZFNmVkZfdHBHeDJCYnRldHg5el9ETW5tMzhLSXZDQ2ZyaGptRUtTLXpRSm1VSWQyMUVXWnM3dzd0QQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "胃癌",
-          "keyword": "胃癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "trastuzumab_deruxtecan",
-              "name": "Trastuzumab deruxtecan"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "26fe51200fe7",
@@ -112,13 +118,13 @@
       ]
     },
     {
-      "id": "c84a02f9a8fc",
-      "title": "運動不只讓心臟更強壯，還會重塑心臟的神經網路",
+      "id": "fa3020b07801",
+      "title": "運動不只讓心臟更強壯，還會重塑心臟的神經網路 - TechNews 科技新報",
       "published": "2026-08-08T16:03:11+00:00",
-      "summary": "運動不只讓心臟更強壯，還會重塑心臟的神經網路&nbsp;&nbsp;technews.tw",
+      "summary": "運動不只讓心臟更強壯，還會重塑心臟的神經網路&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "technews.tw",
+          "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT2E1aDAwMXRtSWtocHE2OWlEV0VGbThzNzFLZl9yX2QzSERCTllzbFMwXy1GT3M2TkkyaG16Tlc1VlZwc2Nrek4wbXBxMGxDSlJhWUtoS3E1SHE4T0ZNUlhOZGtIX3FKVTViblBHeDJGUkZSMlVsUWg3ZlIza2NqNA?oc=5"
         }
       ],
@@ -150,13 +156,13 @@
       ]
     },
     {
-      "id": "100b64ec15ea",
+      "id": "88eafe228e91",
       "title": "高血糖竟是癌細胞幫兇！科學家揭開糖盾增厚之謎",
       "published": "2026-08-08T02:45:30+00:00",
-      "summary": "高血糖竟是癌細胞幫兇！科學家揭開糖盾增厚之謎&nbsp;&nbsp;singtaousa.com",
+      "summary": "高血糖竟是癌細胞幫兇！科學家揭開糖盾增厚之謎&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMWFIZWd5TGpQV3F2MzM0SldaY0VtQXp6cUVoYkFVRHhGWVVTTk14cThIbmtNUDFnZTRvRk16LU9rc0NmUXU5RjVaNjJBdjZTc0pJazNUME9hcWlTUnR2WGlRZkoxbjI1Q2w4LVloYXVNTGNsRndORXlISTF6U19feFg1dUJqN3ZZUURfTzBYUGxPSUN0eWpMeGZSTEdIQWViQ0lMdkhKNHRMTGE1N09JT0VsMHVHOVhfTzI4djVRMzR2TkxBTzVNWlNSa1ZTTWZSWVE?oc=5"
         }
       ],
@@ -176,13 +182,13 @@
       "matched_keywords": []
     },
     {
-      "id": "b8e0da890162",
+      "id": "fbc97ddcfb46",
       "title": "中年控三指標 延緩失智症長達13年",
       "published": "2026-08-07T17:12:08+00:00",
-      "summary": "中年控三指標 延緩失智症長達13年&nbsp;&nbsp;singtaousa.com中年守住3項健康條件 最新研究：可遠離失智症超過10年&nbsp;&nbsp;UDN中年做好「這3件事」 有機會延緩失智症13年&nbsp;&nbsp;自由健康網45歲後做好3件事 研究：失智症平均可延後近13年&nbsp;&nbsp;Taiwan News45歲後是關鍵！研究曝「做好3件事」可多13年不失智- 國際&nbsp;&nbsp;中時新聞網",
+      "summary": "中年控三指標 延緩失智症長達13年&nbsp;&nbsp;Singtaousa中年守住3項健康條件 最新研究：可遠離失智症超過10年&nbsp;&nbsp;UDN中年做好「這3件事」 有機會延緩失智症13年&nbsp;&nbsp;自由健康網45歲後做好3件事 研究：失智症平均可延後近13年&nbsp;&nbsp;Taiwan News45歲後是關鍵！研究曝「做好3件事」可多13年不失智- 國際&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWpZZ0lacmw3WG9fMkNlenhhZFZMVVM1MkNhZEZOMEd4ZFh5Y1dkRnlBS1RMVzh2V3pMcmdUc0plSmIyS2tzR0Nqb1Joa2p0WmtZNlpxSHlsWDBRWERMR2VULTRHZkwtLTBxQXhueklTZ3g4Y0k5M1VrY2xXdWlON0Y5UjRKcTdGSXQ4RlVtdzhQQkYyMmgyYjdOQlJOa01lbkY4VUVwTERVTmljYTFZ?oc=5"
         }
       ],
@@ -264,13 +270,13 @@
       "matched_keywords": []
     },
     {
-      "id": "0d9843d902c4",
+      "id": "ce9c8c7955dd",
       "title": "避免電話手錶損傷孩子視力",
       "published": "2026-08-07T06:52:54+00:00",
-      "summary": "避免電話手錶損傷孩子視力&nbsp;&nbsp;紫荊雜誌",
+      "summary": "避免電話手錶損傷孩子視力&nbsp;&nbsp;bau.com.hk",
       "sources": [
         {
-          "name": "紫荊雜誌",
+          "name": "bau.com.hk",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYW52UDA4X00zMTNqYzd5dUIwbXN0Xzgtdkd6VjVONjBXVHpGNHJGTWVYZFotUUVVa2dLWi1POFphMGxaUXQ1dWU5b3dHdExHVVNUQ2VyZWxpUUgzUENVSmx1MVVOM09fVEEya2V6bG5BYnZoeDNZdjVtUWZHREw0MlkzQlRsTzBJRUpENVZGa2Y?oc=5"
         }
       ],

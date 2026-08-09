@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [華女前期有這些症狀沒在意 一查竟是胃癌晚期](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SVmdZM3p4bW12cDNGVWhmU19yajk0Rlk5eFBzMUtKLS1WZ0FnX1VDYjBhNlp2RS05d1N3Y0o2M254SmJOc2Y4bTVMNnJsN3hNZDNLSTRvcW1vcmJwcENIQ1ZR0gFnQVVfeXFMTTNQLVM4NEh2RFFsUG9tUWpScmZEZDhnNU56eEdGTUdUcUNoZHFmZFNmVkZfdHBHeDJCYnRldHg5el9ETW5tMzhLSXZDQ2ZyaGptRUtTLXpRSm1VSWQyMUVXWnM3dzd0QQ?oc=5)
-
-2026-08-08 <span class="news-indication-tag">胃癌</span>
-
-來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SVmdZM3p4bW12cDNGVWhmU19yajk0Rlk5eFBzMUtKLS1WZ0FnX1VDYjBhNlp2RS05d1N3Y0o2M254SmJOc2Y4bTVMNnJsN3hNZDNLSTRvcW1vcmJwcENIQ1ZR0gFnQVVfeXFMTTNQLVM4NEh2RFFsUG9tUWpScmZEZDhnNU56eEdGTUdUcUNoZHFmZFNmVkZfdHBHeDJCYnRldHg5el9ETW5tMzhLSXZDQ2ZyaGptRUtTLXpRSm1VSWQyMUVXWnM3dzd0QQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [調理乳癌體質 醫推4大關鍵營養](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMzJEblhlLXZRejJ6TE8xWTNocVdvR3ExZmNxNlo5Qm5LSjdlc2prWEFoN2MyaEtPSzc0bXB6ZXZabHBoaUpLQWtGSTRUdlBKS05DTlRwd3BKLUFyTUxmYmRWWUdhaVhTM1Zqczd2ZUhGWFdGS3ZuZldPMGtPZy1laUhHaFhmUXRrMnlZQ1NxaHk4YmpDcHBlZ2FCZXNVYTFQN0xBeEpLRC1QZGNrWlM1aUlPcE1LT041QjUwTDRXMFF2V0VYdnJaZ3dNS2hwQjRFWHB6YjhYb213S0J2ejZ0M3doNzNnTUtBb3pvVTN6TFFtQQ?oc=5)
 
