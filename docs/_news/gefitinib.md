@@ -43,11 +43,11 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（1 則）
 
-### [中年控三指標 延緩失智症長達13年](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWpZZ0lacmw3WG9fMkNlenhhZFZMVVM1MkNhZEZOMEd4ZFh5Y1dkRnlBS1RMVzh2V3pMcmdUc0plSmIyS2tzR0Nqb1Joa2p0WmtZNlpxSHlsWDBRWERMR2VULTRHZkwtLTBxQXhueklTZ3g4Y0k5M1VrY2xXdWlON0Y5UjRKcTdGSXQ4RlVtdzhQQkYyMmgyYjdOQlJOa01lbkY4VUVwTERVTmljYTFZ?oc=5)
+### [切除闌尾與失智有關？關鍵藏在腸道菌](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HS1JydkpBUlhsVEtYcTN2U095czRYb29wRS1CME4xVXR3dGQ3VEhXeHljSnZwX3hhVVJvaDEtM2pDS3kya3BVbTZ4V2IxcVVJcVpMZWVZT2x0NVlfYjhDN9IBZkFVX3lxTE9RNkpIa0I4RXY5UTlzd0JzUTM5SENfR3d0Ukt6NHdmcDh1c1h1VEp1NkFkVVlTTkoyOTEyVU1VbEV4VXNxOHVxblNrVVY5WHc3MzFneTBnQS1WMUppeDljYVNkVndNZw?oc=5)
 
-2026-08-07 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+2026-08-09 <span class="news-indication-tag">失智</span>
 
-來源：[Singtaousa](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWpZZ0lacmw3WG9fMkNlenhhZFZMVVM1MkNhZEZOMEd4ZFh5Y1dkRnlBS1RMVzh2V3pMcmdUc0plSmIyS2tzR0Nqb1Joa2p0WmtZNlpxSHlsWDBRWERMR2VULTRHZkwtLTBxQXhueklTZ3g4Y0k5M1VrY2xXdWlON0Y5UjRKcTdGSXQ4RlVtdzhQQkYyMmgyYjdOQlJOa01lbkY4VUVwTERVTmljYTFZ?oc=5)
+來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HS1JydkpBUlhsVEtYcTN2U095czRYb29wRS1CME4xVXR3dGQ3VEhXeHljSnZwX3hhVVJvaDEtM2pDS3kya3BVbTZ4V2IxcVVJcVpMZWVZT2x0NVlfYjhDN9IBZkFVX3lxTE9RNkpIa0I4RXY5UTlzd0JzUTM5SENfR3d0Ukt6NHdmcDh1c1h1VEp1NkFkVVlTTkoyOTEyVU1VbEV4VXNxOHVxblNrVVY5WHc3MzFneTBnQS1WMUppeDljYVNkVndNZw?oc=5)
 
 ---
 
