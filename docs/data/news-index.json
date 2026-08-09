@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-09T09:29:45.539159+00:00",
-  "count": 3,
+  "generated": "2026-08-09T10:23:04.925598+00:00",
+  "count": 2,
   "news": [
     {
       "id": "d857bcf43214",
       "title": "調理乳癌體質 醫推4大關鍵營養 | 中華日報 - LINE TODAY",
-      "published": "2026-08-08T13:17:33+00:00",
+      "published": "2026-08-08T13:52:30+00:00",
       "sources": [
         {
           "name": "LINE TODAY",
@@ -45,30 +45,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "96c5a3245786",
-      "title": "吃魚油防失智？　研究揭「DHA進大腦」卻沒改善記憶",
-      "published": "2026-08-08T11:32:00+00:00",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1za090MlhpczY0MUdEM0s5LXpsTUt2Z1hlZlZJTHNkcWp4Nl9GMlJoZjUzaUlJd3BfS1pzTnhidl8wOVVmUEd2SjUxVk5qckN30gFPQVVfeXFMTXdzQng1N0psam0xNVBQbTY5a1lvbnNLZEJzRk5aekdIb1lfS3pZazJISHg5MTdVOWR6Q1dYbWFfOVhLSXd1a18wNUNuanA1NA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

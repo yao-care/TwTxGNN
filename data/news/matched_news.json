@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-09T09:29:45.508493+00:00",
-  "total_count": 17,
-  "matched_count": 3,
+  "last_updated": "2026-08-09T10:23:04.909159+00:00",
+  "total_count": 16,
+  "matched_count": 2,
   "news": [
     {
       "id": "3a0a13809dba",
@@ -30,13 +30,13 @@
       "matched_keywords": []
     },
     {
-      "id": "b431144a02a2",
+      "id": "70167b0fc939",
       "title": "長戴藍牙耳機導致甲狀腺結節？專家闢謠：兩者無直接關係毋須恐慌",
       "published": "2026-08-09T07:00:26+00:00",
-      "summary": "長戴藍牙耳機導致甲狀腺結節？專家闢謠：兩者無直接關係毋須恐慌&nbsp;&nbsp;hk01.com",
+      "summary": "長戴藍牙耳機導致甲狀腺結節？專家闢謠：兩者無直接關係毋須恐慌&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "hk01.com",
+          "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNV2RBRUlveTlpWURfQmk1R0dxODk4YkQwQ3hBeXJZaE95QUJSY1ZZbnJVbjRBQndONlJVYjFkTWRqMUFkS29nRTRpUmFleWd2QTdMOUtlRFRVSWxqcG9tZGdFNzg2aDUzWHBFN3UtcWhtRF9CZlMyZEJ0bWtyMjRzeTBMWk1Gc2hIMGJrSEV4MS1OODB5cTZxaUI3dzNTQWR1LTBacWt2a1lxMG1JWHdVQWFxTXR1bW1ZcWZ0M1JBdFV1NGFIWlhUWVd2S2JPemZKcUVvOGxtVkhvMWkzQVh0bk5RcVNQX0thVWc1NzVWLV9OUnE3dnRNbFA3VjdRd2xMeDF1TVlqdmdKQVRPMWJOSmpfWEtFNm5lUld3cGdmZUdsanRUM3BmMlpybzVNWE15SXc1dzVmM2c3Y0lHaGllT0NEVmZfemRIcVVtSmc2NFd0VTdhVVh6bzZpeUUxNlgwZzU5MXdpWHFzZ1FhQVB2bkFvZnVWODJhSDJUVmJFcEZpMzNqa1RGQWxnTzhTNWdpdkFFekFFNFdLTE9Gc1kzNFlxWTRaSVpia2ZTRGtMckJYWEg2T29DVjJET2pIZ3RiaWtod3ZxVHo?oc=5"
         }
       ],
@@ -123,7 +123,7 @@
     {
       "id": "d857bcf43214",
       "title": "調理乳癌體質 醫推4大關鍵營養 | 中華日報 - LINE TODAY",
-      "published": "2026-08-08T13:17:33+00:00",
+      "published": "2026-08-08T13:52:30+00:00",
       "summary": "調理乳癌體質 醫推4大關鍵營養 | 中華日報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -164,31 +164,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "96c5a3245786",
-      "title": "吃魚油防失智？　研究揭「DHA進大腦」卻沒改善記憶",
-      "published": "2026-08-08T11:32:00+00:00",
-      "summary": "吃魚油防失智？ 研究揭「DHA進大腦」卻沒改善記憶&nbsp;&nbsp;ETtoday健康雲",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1za090MlhpczY0MUdEM0s5LXpsTUt2Z1hlZlZJTHNkcWp4Nl9GMlJoZjUzaUlJd3BfS1pzTnhidl8wOVVmUEd2SjUxVk5qckN30gFPQVVfeXFMTXdzQng1N0psam0xNVBQbTY5a1lvbnNLZEJzRk5aekdIb1lfS3pZazJISHg5MTdVOWR6Q1dYbWFfOVhLSXd1a18wNUNuanA1NA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
@@ -283,13 +258,13 @@
       "matched_keywords": []
     },
     {
-      "id": "a337d3c32374",
+      "id": "5723831d5edc",
       "title": "Threads瘋傳水楊酸擦腋下除體味臭狐 皮膚科醫生指搽止汗劑好過？",
       "published": "2026-08-07T13:00:06+00:00",
-      "summary": "Threads瘋傳水楊酸擦腋下除體味臭狐 皮膚科醫生指搽止汗劑好過？&nbsp;&nbsp;hk01.com",
+      "summary": "Threads瘋傳水楊酸擦腋下除體味臭狐 皮膚科醫生指搽止汗劑好過？&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "hk01.com",
+          "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPTjhtVTNXLXRvR0xvbFhwNldEYjYzSm9YUFVYenVianlPcDlIdDF0UHo0dVRCcW5EWVpqeDNzWEhlVHN5T1gxekYwYzhpOS0yb2ZFdk9iR2JoSldfODVTVjNpWVJiTWU5b1ZqNVJtM3dpUU9fSHlFYUppNzJrckRzSTJaQTBLNFdEWEdrWkRMM19uVkdsbW1GTlhpSnhscHZFa3pPSVIyVmV4V04xX1Azb1NGLUhlaWVRYk5Ua0NLYkNTcWV6aDg5RF9tQmZtUTJEZ21Bc3EyaE9OUW51R21CTnhKYW1mTGI2am9Fc0RDQ0o5cnRhSkJhMnZ3eVBXd1YtRzZERld0RFhaZG5HVjZQbGRNWVktR2t0RnlnOW9VY2FZdXB0TE90am1Sa2JELTJJNGM3MW5pZ0FLaktWNDQ5N3UzTVA5WlA4Zm41cmY5RGxSU0JHWERlYXZ6Rm96dXI5UnM3Z19PUnd3bU5ZQ19hMjIzWUJKNnV6d3lUNko2Z3FrRWJRYVBjWndwX0dKZnhlY0dkdTVrZmxiUQ?oc=5"
         }
       ],

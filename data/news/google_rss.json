@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-09T09:29:41.146339+00:00",
-  "count": 17,
+  "fetched_at": "2026-08-09T10:22:59.105075+00:00",
+  "count": 16,
   "news": [
-    {
-      "id": "3a0a13809dba",
-      "title": "胰臟癌會「躲起來」！ 研究找到破解癌細胞隱身關鍵 - 自由健康網",
-      "published": "2026-08-09T07:21:00+00:00",
-      "summary": "胰臟癌會「躲起來」！ 研究找到破解癌細胞隱身關鍵&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TWkhJRVRPMXVZcXU4MUN2aWpYeldEa3JMUVJKaXRoOU5OVmE3U1J5SGtoWE81aGJrdjBYS1Z6V0R0ZVFHUTZWcTBBY1RWZm9tOFJsQmlKdnlINnVJamQ3NkFRNVU?oc=5"
-        }
-      ]
-    },
     {
       "id": "fe60b91bbf8e",
       "title": "南韓每年近千人感染HIV！疾管廳揭感染真相 出櫃男星曝「半年驗一次」 - Yahoo新聞",
@@ -24,6 +12,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxOSjVnRDM3X19rYmVQYlNyUS0wY2NvTVNGV1pQS05jSzFJYTc4TXNxUFJSclAwQ2k2N2s0Z3pLQUlRWllrVTFJSExTSkw5RVlUdEV3aUpoZGtvN24tZTYwSnJiTWFGaXhGNkgtT2J1elJNZEk0U01OWnVDcEdydnd1c0F4Ujg0YTF3bF85VmVsLUJ3UFY0SUttQ2M1VDR2OFhodGRJUWFTNXpvTGFDaVd6XzFlVk93bkRLM0I1ejlxWTg1WlpZcG1xbVZJeHhwRnlkekEzTHRUMlhoeEtQZkdaQmtBWkdiVVIxb3lhOG41NzFJcGd5SVZBTWc4OURSZTNCcWNnTDZNZnpLbzNmeVJVUXp4MFdKU2xvdmJqUVZnZktFNUR3dXhoZVZ3Sy1KUzhUb19TRm1tR2M2MjZmbi1qckNiSU5pRU9jMnhqQTJLT0FJT0pqUnFEeHE3aHdocUg5aWk4bkg4NTdraDFySmpEenloNEtucVhPOXNScUFiLVNseHVIY1hHUTVJSmM5dTlHS0xITw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3a0a13809dba",
+      "title": "胰臟癌會「躲起來」！ 研究找到破解癌細胞隱身關鍵 - 自由健康網",
+      "published": "2026-08-09T07:21:00+00:00",
+      "summary": "胰臟癌會「躲起來」！ 研究找到破解癌細胞隱身關鍵&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TWkhJRVRPMXVZcXU4MUN2aWpYeldEa3JMUVJKaXRoOU5OVmE3U1J5SGtoWE81aGJrdjBYS1Z6V0R0ZVFHUTZWcTBBY1RWZm9tOFJsQmlKdnlINnVJamQ3NkFRNVU?oc=5"
         }
       ]
     },
@@ -42,7 +42,7 @@
     {
       "id": "d857bcf43214",
       "title": "調理乳癌體質 醫推4大關鍵營養 | 中華日報 - LINE TODAY",
-      "published": "2026-08-08T13:17:33+00:00",
+      "published": "2026-08-08T13:52:30+00:00",
       "summary": "調理乳癌體質 醫推4大關鍵營養 | 中華日報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -72,18 +72,6 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT2E1aDAwMXRtSWtocHE2OWlEV0VGbThzNzFLZl9yX2QzSERCTllzbFMwXy1GT3M2TkkyaG16Tlc1VlZwc2Nrek4wbXBxMGxDSlJhWUtoS3E1SHE4T0ZNUlhOZGtIX3FKVTViblBHeDJGUkZSMlVsUWg3ZlIza2NqNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "96c5a3245786",
-      "title": "吃魚油防失智？　研究揭「DHA進大腦」卻沒改善記憶 - ETtoday健康雲",
-      "published": "2026-08-08T11:32:00+00:00",
-      "summary": "吃魚油防失智？ 研究揭「DHA進大腦」卻沒改善記憶&nbsp;&nbsp;ETtoday健康雲",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1za090MlhpczY0MUdEM0s5LXpsTUt2Z1hlZlZJTHNkcWp4Nl9GMlJoZjUzaUlJd3BfS1pzTnhidl8wOVVmUEd2SjUxVk5qckN30gFPQVVfeXFMTXdzQng1N0psam0xNVBQbTY5a1lvbnNLZEJzRk5aekdIb1lfS3pZazJISHg5MTdVOWR6Q1dYbWFfOVhLSXd1a18wNUNuanA1NA?oc=5"
         }
       ]
     },
@@ -148,13 +136,13 @@
       ]
     },
     {
-      "id": "b431144a02a2",
-      "title": "長戴藍牙耳機導致甲狀腺結節？專家闢謠：兩者無直接關係毋須恐慌 - hk01.com",
+      "id": "70167b0fc939",
+      "title": "長戴藍牙耳機導致甲狀腺結節？專家闢謠：兩者無直接關係毋須恐慌 - 香港01",
       "published": "2026-08-09T07:00:26+00:00",
-      "summary": "長戴藍牙耳機導致甲狀腺結節？專家闢謠：兩者無直接關係毋須恐慌&nbsp;&nbsp;hk01.com",
+      "summary": "長戴藍牙耳機導致甲狀腺結節？專家闢謠：兩者無直接關係毋須恐慌&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "hk01.com",
+          "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNV2RBRUlveTlpWURfQmk1R0dxODk4YkQwQ3hBeXJZaE95QUJSY1ZZbnJVbjRBQndONlJVYjFkTWRqMUFkS29nRTRpUmFleWd2QTdMOUtlRFRVSWxqcG9tZGdFNzg2aDUzWHBFN3UtcWhtRF9CZlMyZEJ0bWtyMjRzeTBMWk1Gc2hIMGJrSEV4MS1OODB5cTZxaUI3dzNTQWR1LTBacWt2a1lxMG1JWHdVQWFxTXR1bW1ZcWZ0M1JBdFV1NGFIWlhUWVd2S2JPemZKcUVvOGxtVkhvMWkzQVh0bk5RcVNQX0thVWc1NzVWLV9OUnE3dnRNbFA3VjdRd2xMeDF1TVlqdmdKQVRPMWJOSmpfWEtFNm5lUld3cGdmZUdsanRUM3BmMlpybzVNWE15SXc1dzVmM2c3Y0lHaGllT0NEVmZfemRIcVVtSmc2NFd0VTdhVVh6bzZpeUUxNlgwZzU5MXdpWHFzZ1FhQVB2bkFvZnVWODJhSDJUVmJFcEZpMzNqa1RGQWxnTzhTNWdpdkFFekFFNFdLTE9Gc1kzNFlxWTRaSVpia2ZTRGtMckJYWEg2T29DVjJET2pIZ3RiaWtod3ZxVHo?oc=5"
         }
       ]
@@ -184,13 +172,13 @@
       ]
     },
     {
-      "id": "a337d3c32374",
-      "title": "Threads瘋傳水楊酸擦腋下除體味臭狐 皮膚科醫生指搽止汗劑好過？ - hk01.com",
+      "id": "5723831d5edc",
+      "title": "Threads瘋傳水楊酸擦腋下除體味臭狐 皮膚科醫生指搽止汗劑好過？ - 香港01",
       "published": "2026-08-07T13:00:06+00:00",
-      "summary": "Threads瘋傳水楊酸擦腋下除體味臭狐 皮膚科醫生指搽止汗劑好過？&nbsp;&nbsp;hk01.com",
+      "summary": "Threads瘋傳水楊酸擦腋下除體味臭狐 皮膚科醫生指搽止汗劑好過？&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "hk01.com",
+          "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPTjhtVTNXLXRvR0xvbFhwNldEYjYzSm9YUFVYenVianlPcDlIdDF0UHo0dVRCcW5EWVpqeDNzWEhlVHN5T1gxekYwYzhpOS0yb2ZFdk9iR2JoSldfODVTVjNpWVJiTWU5b1ZqNVJtM3dpUU9fSHlFYUppNzJrckRzSTJaQTBLNFdEWEdrWkRMM19uVkdsbW1GTlhpSnhscHZFa3pPSVIyVmV4V04xX1Azb1NGLUhlaWVRYk5Ua0NLYkNTcWV6aDg5RF9tQmZtUTJEZ21Bc3EyaE9OUW51R21CTnhKYW1mTGI2am9Fc0RDQ0o5cnRhSkJhMnZ3eVBXd1YtRzZERld0RFhaZG5HVjZQbGRNWVktR2t0RnlnOW9VY2FZdXB0TE90am1Sa2JELTJJNGM3MW5pZ0FLaktWNDQ5N3UzTVA5WlA4Zm41cmY5RGxSU0JHWERlYXZ6Rm96dXI5UnM3Z19PUnd3bU5ZQ19hMjIzWUJKNnV6d3lUNko2Z3FrRWJRYVBjWndwX0dKZnhlY0dkdTVrZmxiUQ?oc=5"
         }
       ]

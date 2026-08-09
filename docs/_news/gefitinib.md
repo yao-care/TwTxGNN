@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [吃魚油防失智？　研究揭「DHA進大腦」卻沒改善記憶](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1za090MlhpczY0MUdEM0s5LXpsTUt2Z1hlZlZJTHNkcWp4Nl9GMlJoZjUzaUlJd3BfS1pzTnhidl8wOVVmUEd2SjUxVk5qckN30gFPQVVfeXFMTXdzQng1N0psam0xNVBQbTY5a1lvbnNLZEJzRk5aekdIb1lfS3pZazJISHg5MTdVOWR6Q1dYbWFfOVhLSXd1a18wNUNuanA1NA?oc=5)
-
-2026-08-08 <span class="news-indication-tag">失智</span>
-
-來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1za090MlhpczY0MUdEM0s5LXpsTUt2Z1hlZlZJTHNkcWp4Nl9GMlJoZjUzaUlJd3BfS1pzTnhidl8wOVVmUEd2SjUxVk5qckN30gFPQVVfeXFMTXdzQng1N0psam0xNVBQbTY5a1lvbnNLZEJzRk5aekdIb1lfS3pZazJISHg5MTdVOWR6Q1dYbWFfOVhLSXd1a18wNUNuanA1NA?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [中年控三指標 延緩失智症長達13年](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWpZZ0lacmw3WG9fMkNlenhhZFZMVVM1MkNhZEZOMEd4ZFh5Y1dkRnlBS1RMVzh2V3pMcmdUc0plSmIyS2tzR0Nqb1Joa2p0WmtZNlpxSHlsWDBRWERMR2VULTRHZkwtLTBxQXhueklTZ3g4Y0k5M1VrY2xXdWlON0Y5UjRKcTdGSXQ4RlVtdzhQQkYyMmgyYjdOQlJOa01lbkY4VUVwTERVTmljYTFZ?oc=5)
 
