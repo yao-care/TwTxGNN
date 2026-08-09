@@ -44,11 +44,11 @@ permalink: /news/carboplatin/
 
 ## 相關新聞（1 則）
 
-### [調理乳癌體質 醫推4大關鍵營養 | 中華日報](https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yWks1V1Zoc2JuQWhVdHFSTC11VW9MWDBBQ1Z1RkQ2dkxMS1hVbm8xMFVYT1JacTNNMGwtR0hRaXFQQ1BKVzJLd2w5dDlHRlBMcTVLckdR?oc=5)
+### [調理乳癌體質 醫推4大關鍵營養](https://news.google.com/rss/articles/CBMiUkFVX3lxTE10b3hWbUppUmlLaE4xYkFGa1E4MUpRYWROMlRLdXYyTUkwVlJSVHgyczVScXNSZnpWd3R0Z296MFhBUFNlaGZRR2daTURKOFhpZnc?oc=5)
 
 2026-08-08 <span class="news-indication-tag">乳癌</span>
 
-來源：[today.line.me](https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yWks1V1Zoc2JuQWhVdHFSTC11VW9MWDBBQ1Z1RkQ2dkxMS1hVbm8xMFVYT1JacTNNMGwtR0hRaXFQQ1BKVzJLd2w5dDlHRlBMcTVLckdR?oc=5)
+來源：[中華新聞雲／中華日報](https://news.google.com/rss/articles/CBMiUkFVX3lxTE10b3hWbUppUmlLaE4xYkFGa1E4MUpRYWROMlRLdXYyTUkwVlJSVHgyczVScXNSZnpWd3R0Z296MFhBUFNlaGZRR2daTURKOFhpZnc?oc=5)
 
 ---
 
