@@ -14,7 +14,7 @@ permalink: /news/trastuzumab_deruxtecan/
 ---
 
 <p class="key-answer" data-question="Trastuzumab deruxtecan 有什麼相關新聞？">
-<strong>Trastuzumab deruxtecan</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Trastuzumab deruxtecan</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,9 +33,15 @@ permalink: /news/trastuzumab_deruxtecan/
 <p><a href="{{ '/drugs/trastuzumab_deruxtecan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [華女前期有這些症狀沒在意 一查竟是胃癌晚期](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SVmdZM3p4bW12cDNGVWhmU19yajk0Rlk5eFBzMUtKLS1WZ0FnX1VDYjBhNlp2RS05d1N3Y0o2M254SmJOc2Y4bTVMNnJsN3hNZDNLSTRvcW1vcmJwcENIQ1ZR0gFnQVVfeXFMTTNQLVM4NEh2RFFsUG9tUWpScmZEZDhnNU56eEdGTUdUcUNoZHFmZFNmVkZfdHBHeDJCYnRldHg5el9ETW5tMzhLSXZDQ2ZyaGptRUtTLXpRSm1VSWQyMUVXWnM3dzd0QQ?oc=5)
+
+2026-08-08 <span class="news-indication-tag">胃癌</span>
+
+來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SVmdZM3p4bW12cDNGVWhmU19yajk0Rlk5eFBzMUtKLS1WZ0FnX1VDYjBhNlp2RS05d1N3Y0o2M254SmJOc2Y4bTVMNnJsN3hNZDNLSTRvcW1vcmJwcENIQ1ZR0gFnQVVfeXFMTTNQLVM4NEh2RFFsUG9tUWpScmZEZDhnNU56eEdGTUdUcUNoZHFmZFNmVkZfdHBHeDJCYnRldHg5el9ETW5tMzhLSXZDQ2ZyaGptRUtTLXpRSm1VSWQyMUVXWnM3dzd0QQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

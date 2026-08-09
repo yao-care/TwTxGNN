@@ -1,7 +1,39 @@
 {
-  "generated": "2026-08-09T01:00:26.955147+00:00",
+  "generated": "2026-08-09T03:24:40.270774+00:00",
   "count": 4,
   "news": [
+    {
+      "id": "5ccf2cf43133",
+      "title": "華女前期有這些症狀沒在意 一查竟是胃癌晚期",
+      "published": "2026-08-08T23:24:21+00:00",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SVmdZM3p4bW12cDNGVWhmU19yajk0Rlk5eFBzMUtKLS1WZ0FnX1VDYjBhNlp2RS05d1N3Y0o2M254SmJOc2Y4bTVMNnJsN3hNZDNLSTRvcW1vcmJwcENIQ1ZR0gFnQVVfeXFMTTNQLVM4NEh2RFFsUG9tUWpScmZEZDhnNU56eEdGTUdUcUNoZHFmZFNmVkZfdHBHeDJCYnRldHg5el9ETW5tMzhLSXZDQ2ZyaGptRUtTLXpRSm1VSWQyMUVXWnM3dzd0QQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "胃癌",
+          "keyword": "胃癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "trastuzumab_deruxtecan",
+              "name": "Trastuzumab deruxtecan"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "26fe51200fe7",
       "title": "調理乳癌體質 醫推4大關鍵營養",
@@ -75,12 +107,12 @@
       ]
     },
     {
-      "id": "fbc97ddcfb46",
+      "id": "b8e0da890162",
       "title": "中年控三指標 延緩失智症長達13年",
       "published": "2026-08-07T17:12:08+00:00",
       "sources": [
         {
-          "name": "Singtaousa",
+          "name": "singtaousa.com",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWpZZ0lacmw3WG9fMkNlenhhZFZMVVM1MkNhZEZOMEd4ZFh5Y1dkRnlBS1RMVzh2V3pMcmdUc0plSmIyS2tzR0Nqb1Joa2p0WmtZNlpxSHlsWDBRWERMR2VULTRHZkwtLTBxQXhueklTZ3g4Y0k5M1VrY2xXdWlON0Y5UjRKcTdGSXQ4RlVtdzhQQkYyMmgyYjdOQlJOa01lbkY4VUVwTERVTmljYTFZ?oc=5"
         }
       ],
@@ -104,54 +136,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0dc2d8857e7e",
-      "title": "乳癌不是治療5年就安全？癌細胞可能潛伏20年的真相",
-      "published": "2026-08-07T01:06:58+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOV0hyTUQtMjFZbXQ5YkhtYlpybFNiSU90cmRBUDJnMHpVQkZzNEJKQ1ZPZGtjTzhRd3ZtS1FnM084ZnM4dzhLRjNlNkdDWHNfLUVVc202WFZNaHlUejZjT2FkbHJOOFVYRmNzRk9rbzduUmZ4Q0lWV1MtNW1aNk5zWm53bDd2aWRRZU5OdzNndTRPYV9hYnVoZ0dId0ZJRTBkOTk2RVlCTGpjQ3Q3SVdLQWxTb3AzR25qc0hmc2VVbHMtUENubWQxMkxpeEg4eGdkbzBPdzVlYU9kcy1DNkV1akV6SjBLTDlyQ0tROEtQc3VPdWZLNVdtTU1BcUIyS1hpaDFpYjFnaWpkTFNxbjA1Nll1V19sLTRDOGJQZklNV1NXSkZqY2dWU2UyREpLdzlyVV9uM3lhVHR2SDZyN2FfNmdZMExnTFExV1RrNUg5M29WLVRY?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
