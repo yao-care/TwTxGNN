@@ -1,17 +1,17 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-09T06:38:55.502256+00:00",
+  "fetched_at": "2026-08-09T07:45:04.944119+00:00",
   "count": 18,
   "news": [
     {
-      "id": "7abfcbdccc8b",
-      "title": "刷牙一直流血？ 逾30萬人研究揭牙周病與糖尿病雙向關聯 - 自由健康網",
-      "published": "2026-08-09T04:36:00+00:00",
-      "summary": "刷牙一直流血？ 逾30萬人研究揭牙周病與糖尿病雙向關聯&nbsp;&nbsp;自由健康網",
+      "id": "3a0a13809dba",
+      "title": "胰臟癌會「躲起來」！ 研究找到破解癌細胞隱身關鍵 - 自由健康網",
+      "published": "2026-08-09T07:21:00+00:00",
+      "summary": "胰臟癌會「躲起來」！ 研究找到破解癌細胞隱身關鍵&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGQk4wQUdYU3YwS2k2NmlPQ041T2RhRkxXWWdLQUNTcU9mVnhKNmtTLW9wejdOMG5DNHJZeDBzTU5CRHNBUG40TVFNNE1VUHh5MVhZQW9OZHZGZU1tZWo4ci0zNlY?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TWkhJRVRPMXVZcXU4MUN2aWpYeldEa3JMUVJKaXRoOU5OVmE3U1J5SGtoWE81aGJrdjBYS1Z6V0R0ZVFHUTZWcTBBY1RWZm9tOFJsQmlKdnlINnVJamQ3NkFRNVU?oc=5"
         }
       ]
     },
@@ -28,21 +28,33 @@
       ]
     },
     {
-      "id": "26fe51200fe7",
-      "title": "調理乳癌體質 醫推4大關鍵營養 - Yahoo新聞",
-      "published": "2026-08-08T22:00:21+00:00",
-      "summary": "調理乳癌體質 醫推4大關鍵營養&nbsp;&nbsp;Yahoo新聞",
+      "id": "a422b3762337",
+      "title": "刷牙一直流血？ 逾30萬人研究揭牙周病與糖尿病雙向關聯 - Yahoo新聞",
+      "published": "2026-08-09T04:48:27+00:00",
+      "summary": "刷牙一直流血？ 逾30萬人研究揭牙周病與糖尿病雙向關聯&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMzJEblhlLXZRejJ6TE8xWTNocVdvR3ExZmNxNlo5Qm5LSjdlc2prWEFoN2MyaEtPSzc0bXB6ZXZabHBoaUpLQWtGSTRUdlBKS05DTlRwd3BKLUFyTUxmYmRWWUdhaVhTM1Zqczd2ZUhGWFdGS3ZuZldPMGtPZy1laUhHaFhmUXRrMnlZQ1NxaHk4YmpDcHBlZ2FCZXNVYTFQN0xBeEpLRC1QZGNrWlM1aUlPcE1LT041QjUwTDRXMFF2V0VYdnJaZ3dNS2hwQjRFWHB6YjhYb213S0J2ejZ0M3doNzNnTUtBb3pvVTN6TFFtQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNekJJeTctMXFkN3JJYW41Qm9IazZpcXFCanBCQzRnUzJnMTRCSk02cndyQlcybHF6ODBsRFVFOUJBN2VRZVpSSkxJWUE5VlZwejJyRmJVWlZ1TFVpdXliMldYZzdmSXdVbXhnUHhuMGJhRG10OVN4XzZnZTdkTjZFS0pnNFh5bWhKVC1LZm1aUmxHWkp2X3dfNkxveW9BY2w1OUlLQ3RGY2o3WDZxVGUzQUtVRXJXZFR3SDBYMVZYU3NMSDc0TGp0dWRCRzBBU0JaSHJIZEZITks3MkxtbExJVWRnSi1Fc3h5cGlFM3Uyb0JYaWlyUmxDVjRvWDg2eHVkbnlkYmllVlZETVJIeHlGcmhxTHY0Q3ZqWUV1TmhZZWxEZUlMWjJGay1JMmRjYS0xdDkyVVlBUlJuazhwMlZ3aEYwTE5iTXJGT3l0eG12bGNZT2V6VUR0UHViSE4yTnZM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d857bcf43214",
+      "title": "調理乳癌體質 醫推4大關鍵營養 | 中華日報 - LINE TODAY",
+      "published": "2026-08-08T13:17:33+00:00",
+      "summary": "調理乳癌體質 醫推4大關鍵營養 | 中華日報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yWks1V1Zoc2JuQWhVdHFSTC11VW9MWDBBQ1Z1RkQ2dkxMS1hVbm8xMFVYT1JacTNNMGwtR0hRaXFQQ1BKVzJLd2w5dDlHRlBMcTVLckdR?oc=5"
         }
       ]
     },
     {
       "id": "5320b6aa327a",
       "title": "台灣人最缺「這4大營養素」 營養師曝迅速補充法 - Yahoo新聞",
-      "published": "2026-08-09T02:54:58+00:00",
+      "published": "2026-08-09T02:56:42+00:00",
       "summary": "台灣人最缺「這4大營養素」 營養師曝迅速補充法&nbsp;&nbsp;Yahoo新聞台灣人最容易缺這4種營養素！營養師曝「最快補法」&nbsp;&nbsp;ETtoday新聞雲國人最缺維生素D！營養師曝4大營養失衡影響補鉀有助降血壓| 2026九合一選舉&nbsp;&nbsp;UDN健康網》維生素D降呼吸道感染風險！營養師：吃這些可補&nbsp;&nbsp;自由健康網經痛、掉髮竟是同一原因？女子補維生素D驚見2大改變&nbsp;&nbsp;造咖",
       "sources": [
         {
@@ -78,7 +90,7 @@
     {
       "id": "8f417cb8dcd3",
       "title": "蓋文斯頓縣報告了一個感染西尼羅河病毒病例 - 新唐人電視台",
-      "published": "2026-08-08T23:37:03+00:00",
+      "published": "2026-08-09T05:56:17+00:00",
       "summary": "蓋文斯頓縣報告了一個感染西尼羅河病毒病例&nbsp;&nbsp;新唐人電視台紐約市西尼羅病毒蚊群近倍增 衛生局加強防治&nbsp;&nbsp;epochtimes.com西尼羅河病毒樣本增近倍&nbsp;&nbsp;Singtaousa橙縣確診今年首例西尼羅病毒衛生官員籲防蚊- 南加社區- 新聞&nbsp;&nbsp;華人今日網防西尼羅病毒擴散 史島、皇后區今起噴藥滅蚊&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
@@ -112,26 +124,14 @@
       ]
     },
     {
-      "id": "0fd9c99f12e3",
-      "title": "一變天膝蓋就發癢？李祖寧自曝半月板變形，醫揭保骨與增肌兩大救星！ - 東森新聞",
+      "id": "484be273cc4d",
+      "title": "一變天膝蓋就發癢？李祖寧自曝半月板變形，醫揭保骨與增肌兩大救星！ - news.ebc.net.tw",
       "published": "2026-08-07T07:00:00+00:00",
-      "summary": "一變天膝蓋就發癢？李祖寧自曝半月板變形，醫揭保骨與增肌兩大救星！&nbsp;&nbsp;東森新聞",
+      "summary": "一變天膝蓋就發癢？李祖寧自曝半月板變形，醫揭保骨與增肌兩大救星！&nbsp;&nbsp;news.ebc.net.tw",
       "sources": [
         {
-          "name": "東森新聞",
+          "name": "news.ebc.net.tw",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBseWRTanplWEdrRk1ReG4wbXNPOUxEbEJjc2ZjbG9GWE1TRjloX093Z1JVZ0ZsS1k0RnZMRW8ySjF5Y1NUTDlfUTNJX1VIUzdVZzFsMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b9b45cd931a5",
-      "title": "蛇毒剋星竟藏蛇體內！美研究揭蛋白質可中和致命毒液 - 自由健康網",
-      "published": "2026-08-07T06:06:00+00:00",
-      "summary": "蛇毒剋星竟藏蛇體內！美研究揭蛋白質可中和致命毒液&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKZ2JRSklfRnFQNmNZLXhhel8xcXpBWWx5dE12c0RYQ205NmRTOFhRSFYybnJiaDQ5c0NiUWdyN2pvN2ZneG4wOGtpci1pT3hsUk5EU0YwbVFUN1JfMmVrY1JudnQ?oc=5"
         }
       ]
     },
@@ -144,6 +144,18 @@
         {
           "name": "epochtimes.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Bb2JYWFpKNkw2MkRIUXRmYVR1SlhPakFwc285elBVZkI2QmhFWGZQZURXckhmdzVELVdmLUctSXQ2aDBFSmt3Ym16UUhISkRoWXZpRzV3Q1ExWU5GNnd30gFkQVVfeXFMT2xzNXNiMGZnZ0xoNmlFSmpLcXpBeXhEbm9vcWpmRW9GVi03cnVGbEhELUo4NFZWT3RLNm0xNjU2Ti1tYmg2M1h0Zmticm53NXRQV1BzS3RqdUZwYzcza01sR0dFdg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "70167b0fc939",
+      "title": "長戴藍牙耳機導致甲狀腺結節？專家闢謠：兩者無直接關係毋須恐慌 - 香港01",
+      "published": "2026-08-09T07:00:26+00:00",
+      "summary": "長戴藍牙耳機導致甲狀腺結節？專家闢謠：兩者無直接關係毋須恐慌&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNV2RBRUlveTlpWURfQmk1R0dxODk4YkQwQ3hBeXJZaE95QUJSY1ZZbnJVbjRBQndONlJVYjFkTWRqMUFkS29nRTRpUmFleWd2QTdMOUtlRFRVSWxqcG9tZGdFNzg2aDUzWHBFN3UtcWhtRF9CZlMyZEJ0bWtyMjRzeTBMWk1Gc2hIMGJrSEV4MS1OODB5cTZxaUI3dzNTQWR1LTBacWt2a1lxMG1JWHdVQWFxTXR1bW1ZcWZ0M1JBdFV1NGFIWlhUWVd2S2JPemZKcUVvOGxtVkhvMWkzQVh0bk5RcVNQX0thVWc1NzVWLV9OUnE3dnRNbFA3VjdRd2xMeDF1TVlqdmdKQVRPMWJOSmpfWEtFNm5lUld3cGdmZUdsanRUM3BmMlpybzVNWE15SXc1dzVmM2c3Y0lHaGllT0NEVmZfemRIcVVtSmc2NFd0VTdhVVh6bzZpeUUxNlgwZzU5MXdpWHFzZ1FhQVB2bkFvZnVWODJhSDJUVmJFcEZpMzNqa1RGQWxnTzhTNWdpdkFFekFFNFdLTE9Gc1kzNFlxWTRaSVpia2ZTRGtMckJYWEg2T29DVjJET2pIZ3RiaWtod3ZxVHo?oc=5"
         }
       ]
     },
@@ -204,18 +216,6 @@
         {
           "name": "明報健康網",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNdm1uVV9OTTl2UkM4UVBnZG9YemVNNXpNQVNJeC1lcTN0bm5Xd3FqOE41bEVoSVkyRlpaOHlrN1hRVWVBR1had2haemVSV04wUzRlZ1NSY28xTXkyRjRIZWI4MTEybHVjdlVCbXpOQWlOSHJ6NGVrU2R2V1BsSU5qVlAyMml6S1Q1Zkg5MFNVY2J2LUlKNXZSUGZKdGhES0VnVkJRZkZwczFIZndwaWpXcWIzVHhpeHhxWndpVHZMdTRQVXZjZnF5YTRqWGlFUmFDTFg0WnYxQ0JUYm5xTnFRdzJvSTFSUWtOeUVqOFpTTHBadFV6bkd2emJyNGFFTWhHTGlaWDhQeDFNMllxX1VwaXlFM045Z3Zwdlc2YjFIbEtva0EzdXY4cEYyWUlKdFJVUnh4STRPU0Z6V1BwWDZ0TXoybFlibWstMm1YdQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0d9843d902c4",
-      "title": "避免電話手錶損傷孩子視力 - 紫荊雜誌",
-      "published": "2026-08-07T06:52:54+00:00",
-      "summary": "避免電話手錶損傷孩子視力&nbsp;&nbsp;紫荊雜誌",
-      "sources": [
-        {
-          "name": "紫荊雜誌",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYW52UDA4X00zMTNqYzd5dUIwbXN0Xzgtdkd6VjVONjBXVHpGNHJGTWVYZFotUUVVa2dLWi1POFphMGxaUXQ1dWU5b3dHdExHVVNUQ2VyZWxpUUgzUENVSmx1MVVOM09fVEEya2V6bG5BYnZoeDNZdjVtUWZHREw0MlkzQlRsTzBJRUpENVZGa2Y?oc=5"
         }
       ]
     }

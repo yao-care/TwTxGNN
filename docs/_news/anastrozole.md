@@ -40,11 +40,11 @@ permalink: /news/anastrozole/
 
 ## 相關新聞（1 則）
 
-### [調理乳癌體質 醫推4大關鍵營養](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMzJEblhlLXZRejJ6TE8xWTNocVdvR3ExZmNxNlo5Qm5LSjdlc2prWEFoN2MyaEtPSzc0bXB6ZXZabHBoaUpLQWtGSTRUdlBKS05DTlRwd3BKLUFyTUxmYmRWWUdhaVhTM1Zqczd2ZUhGWFdGS3ZuZldPMGtPZy1laUhHaFhmUXRrMnlZQ1NxaHk4YmpDcHBlZ2FCZXNVYTFQN0xBeEpLRC1QZGNrWlM1aUlPcE1LT041QjUwTDRXMFF2V0VYdnJaZ3dNS2hwQjRFWHB6YjhYb213S0J2ejZ0M3doNzNnTUtBb3pvVTN6TFFtQQ?oc=5)
+### [調理乳癌體質 醫推4大關鍵營養 | 中華日報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yWks1V1Zoc2JuQWhVdHFSTC11VW9MWDBBQ1Z1RkQ2dkxMS1hVbm8xMFVYT1JacTNNMGwtR0hRaXFQQ1BKVzJLd2w5dDlHRlBMcTVLckdR?oc=5)
 
 2026-08-08 <span class="news-indication-tag">乳癌</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMzJEblhlLXZRejJ6TE8xWTNocVdvR3ExZmNxNlo5Qm5LSjdlc2prWEFoN2MyaEtPSzc0bXB6ZXZabHBoaUpLQWtGSTRUdlBKS05DTlRwd3BKLUFyTUxmYmRWWUdhaVhTM1Zqczd2ZUhGWFdGS3ZuZldPMGtPZy1laUhHaFhmUXRrMnlZQ1NxaHk4YmpDcHBlZ2FCZXNVYTFQN0xBeEpLRC1QZGNrWlM1aUlPcE1LT041QjUwTDRXMFF2V0VYdnJaZ3dNS2hwQjRFWHB6YjhYb213S0J2ejZ0M3doNzNnTUtBb3pvVTN6TFFtQQ?oc=5)
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yWks1V1Zoc2JuQWhVdHFSTC11VW9MWDBBQ1Z1RkQ2dkxMS1hVbm8xMFVYT1JacTNNMGwtR0hRaXFQQ1BKVzJLd2w5dDlHRlBMcTVLckdR?oc=5)
 
 ---
 
