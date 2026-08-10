@@ -55,7 +55,7 @@ permalink: /news/gefitinib/
 
 2026-08-09 <span class="news-indication-tag">失智</span>
 
-來源：[epochtimes.com](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HS1JydkpBUlhsVEtYcTN2U095czRYb29wRS1CME4xVXR3dGQ3VEhXeHljSnZwX3hhVVJvaDEtM2pDS3kya3BVbTZ4V2IxcVVJcVpMZWVZT2x0NVlfYjhDN9IBZkFVX3lxTE9RNkpIa0I4RXY5UTlzd0JzUTM5SENfR3d0Ukt6NHdmcDh1c1h1VEp1NkFkVVlTTkoyOTEyVU1VbEV4VXNxOHVxblNrVVY5WHc3MzFneTBnQS1WMUppeDljYVNkVndNZw?oc=5)
+來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HS1JydkpBUlhsVEtYcTN2U095czRYb29wRS1CME4xVXR3dGQ3VEhXeHljSnZwX3hhVVJvaDEtM2pDS3kya3BVbTZ4V2IxcVVJcVpMZWVZT2x0NVlfYjhDN9IBZkFVX3lxTE9RNkpIa0I4RXY5UTlzd0JzUTM5SENfR3d0Ukt6NHdmcDh1c1h1VEp1NkFkVVlTTkoyOTEyVU1VbEV4VXNxOHVxblNrVVY5WHc3MzFneTBnQS1WMUppeDljYVNkVndNZw?oc=5)
 
 ---
 
