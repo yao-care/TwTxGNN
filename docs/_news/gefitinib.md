@@ -43,11 +43,11 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（2 則）
 
-### [研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVSkpLR0YxOFdYdjhyQ29fN25kY1VqaHNVdVcyYmh0R0lhNjZfU25hMGZTalJVeTNUT1FWNTluNzQyREw4YXRlbVBRdXdpTFNsT2NHdW9IcTR6VnNwTWfSAWNBVV95cUxPZGQxWG0tNl9LSE5oZ2ZyM1hUbnBWRUVUcjFOM0tvREd3dUNfbEJNbkFkYlRHRmFzU1ZqOWdWVjFHYURLYktZQlpuYW1obVVadkJENkIxcEdUeDNaZUtXQURkck0?oc=5)
+### [研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTdIBY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTQ?oc=5)
 
-2026-08-10 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+2026-08-10 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVSkpLR0YxOFdYdjhyQ29fN25kY1VqaHNVdVcyYmh0R0lhNjZfU25hMGZTalJVeTNUT1FWNTluNzQyREw4YXRlbVBRdXdpTFNsT2NHdW9IcTR6VnNwTWfSAWNBVV95cUxPZGQxWG0tNl9LSE5oZ2ZyM1hUbnBWRUVUcjFOM0tvREd3dUNfbEJNbkFkYlRHRmFzU1ZqOWdWVjFHYURLYktZQlpuYW1obVVadkJENkIxcEdUeDNaZUtXQURkck0?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTdIBY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTQ?oc=5)
 
 ---
 
