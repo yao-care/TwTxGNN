@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T11:46:26.925817+00:00",
-  "count": 4,
+  "generated": "2026-08-10T12:46:12.961114+00:00",
+  "count": 3,
   "news": [
     {
       "id": "430a2093e614",
@@ -17,17 +17,6 @@
           "type": "indication",
           "name": "dementia",
           "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "阿茲海默症",
-          "keyword": "阿茲海默症",
           "related_drugs": [
             {
               "slug": "gefitinib",
@@ -115,30 +104,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "96c5a3245786",
-      "title": "吃魚油防失智？　研究揭「DHA進大腦」卻沒改善記憶",
-      "published": "2026-08-08T11:32:00+00:00",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1za090MlhpczY0MUdEM0s5LXpsTUt2Z1hlZlZJTHNkcWp4Nl9GMlJoZjUzaUlJd3BfS1pzTnhidl8wOVVmUEd2SjUxVk5qckN30gFPQVVfeXFMTXdzQng1N0psam0xNVBQbTY5a1lvbnNLZEJzRk5aekdIb1lfS3pZazJISHg5MTdVOWR6Q1dYbWFfOVhLSXd1a18wNUNuanA1NA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
