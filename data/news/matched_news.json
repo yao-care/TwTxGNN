@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-08-10T21:32:28.503393+00:00",
-  "total_count": 15,
-  "matched_count": 3,
+  "last_updated": "2026-08-10T22:27:05.986483+00:00",
+  "total_count": 19,
+  "matched_count": 4,
   "news": [
+    {
+      "id": "64d046371fea",
+      "title": "囊腫型痘痘怎麼消？沒有白頭、又紅又腫，硬擠還超痛，皮膚科醫師解析48 小時急救方法",
+      "published": "2026-08-10T10:01:25+00:00",
+      "summary": "囊腫型痘痘怎麼消？沒有白頭、又紅又腫，硬擠還超痛，皮膚科醫師解析48 小時急救方法&nbsp;&nbsp;girlstyle.com",
+      "sources": [
+        {
+          "name": "girlstyle.com",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWVOSEtHSnZ5cDRnZkR2T05HQ1ItbnFZRDRYTG9lLXJ4WTBhU2E2Rk5mMWFVTWxmTlM1U3htbE1yM0Z1VUd2Nnc4dlFvSFBLODFLNHRxem5NSEtBcWhwc3BnLXhEdUhOem92c2MtR3U3d05XRUFLb3RKZDM0aGVSY2NodEdIZ3dBRlRQRm93?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "ee3bcf06ac84",
       "title": "研究揭青少年心理健康可能受同儕影響 專家籲「勿貼標籤」關心更重要",
@@ -17,14 +30,40 @@
       "matched_keywords": []
     },
     {
-      "id": "805343a18c20",
+      "id": "40484d67cc2f",
+      "title": "《壹起下午茶》新藥科技誰買單？健保永續生命拉鋸戰有錢活命沒錢認命醫療階級化成隱憂_健康 | 壹新聞",
+      "published": "2026-08-10T09:00:00+00:00",
+      "summary": "《壹起下午茶》新藥科技誰買單？健保永續生命拉鋸戰有錢活命沒錢認命醫療階級化成隱憂_健康 | 壹新聞&nbsp;&nbsp;壹電視",
+      "sources": [
+        {
+          "name": "壹電視",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4bnlNZ2Utc3hfUHVILVo3Z2VrWHhkbWhfbnV5cDB1S0daUHBQVDVsMXQ4RVJUcFk0Nmt0R3p1eEFLQk1rWE0yQWw3WDVOWXAya0c0VWNjaHZSWVRmY21YY1NVbHpWbzNQZDZlQlJEWjBVYnpWLTYzWlVDYUd6bXM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b8cc62c6ac0b",
       "title": "護肝｜營養補充品愈補愈傷肝 研究揭這種維他命食太多可致肝衰竭",
       "published": "2026-08-10T07:30:00+00:00",
       "summary": "護肝｜營養補充品愈補愈傷肝 研究揭這種維他命食太多可致肝衰竭&nbsp;&nbsp;AM730",
       "sources": [
         {
           "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxPeGt1SDhoMTR0XzJwdkgxSS1ydTVsajhfaUw0c1JYbDFzb2dFcWVSaS1VX2MyZVhMUlNnWHhMY05zb2Rwa2lqTWZkTFA2bE9NSEpwSG14WnlVSFlVTTRTMUxza1RBRnBIaS0zcGxJeHZBd1RlZjhPOXNnb2MwNjZwN3NTTnpseU9SblZoa2ItYVVtU09mQlBjOHc2djB2ZEV1U2gxQW50VWpXbGI3UkE3bVl2aUFZM2dHYnM0N3hVLVZ2Y0l1bzNNMGNqRHFXMElfb1k4ZzhJSjVYcEFQZUFhVmRHeW9iVzhqblcwbUlJWF9SX3BZQVJXZl93Q3Zwd0p2cDNqTlA0Q0ZqMTVXSGU0RlpaZ2tCcVJzUnprOFNBa1IyZXM0MndGbWZGSjdRWjVyVkIxMHlRZkpfa3I3MDVGd3NIODM3N3ozVG8yTGhHcTJMVmpHWE1mVUp1NU5iMEVQN1JpbFlSSEUxaUJWcUZ1TEZjTEVYZjRGNXFKbDcwRG9od0lLZ1dTek1ncFB6Q0tMeDRnYTNuUWlBMkZmamJjV1E5dE5KZkwxU1FPU2RWdDVheXBh?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sb0xoNkdXbV84MG81NXBrOUFVTVBSRDhPODdkenN0amtOR3BVM0V6RDQ5OVpRLWNSUEVZYkdneUppLWhQNUEwZzQ3VzBKTlo2WHc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "715ffd3459c6",
+      "title": "每天吃起司上限「1個火柴盒量」 3類病患慎吃",
+      "published": "2026-08-10T06:18:00+00:00",
+      "summary": "每天吃起司上限「1個火柴盒量」 3類病患慎吃&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MRU9mU05Tdl80bWZESzVZSmdnbjE2VThGeFNzZGt3M0lLNG5XN1FUQ2lNTE80T2pPX0ZsOUdBNk0zdUgtQXl6NFlSNHRrZF9oWnk2VkhOcGZwNWV0OHkzTm5B0gFnQVVfeXFMTllOTEJ6UmFmMDFmNjRJWHdZeTFULWNuZzVNa0pXdHhuaV9rNWtMb2NQM0dsNVc2Rkk4aHdZdXpqZ0VFUTR5ZVhYc1gxVG9BRFd6QUNTRGR1bzEzYVBJakpDbm1Hck9ybw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -33,7 +72,7 @@
       "id": "201046d47939",
       "title": "研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防",
       "published": "2026-08-10T03:56:42+00:00",
-      "summary": "研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防&nbsp;&nbsp;元氣網高達45%失智可預防！WHO最新指南：日常生活做好「這6件事」就有效&nbsp;&nbsp;天下雜誌中年做好「這3件事」 有機會延緩失智症13年&nbsp;&nbsp;自由健康網45歲後是關鍵！研究曝「做好3件事」可多13年不失智- 國際&nbsp;&nbsp;中時新聞網避開三大風險因素 認知障礙症可延13年發病&nbsp;&nbsp;Singtaousa",
+      "summary": "研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防&nbsp;&nbsp;元氣網高達45%失智可預防！WHO最新指南：日常生活做好「這6件事」就有效&nbsp;&nbsp;天下雜誌中年做好「這3件事」 有機會延緩失智症13年&nbsp;&nbsp;自由健康網45歲後是關鍵！研究曝「做好3件事」可多13年不失智- 國際&nbsp;&nbsp;中時新聞網避開三大風險因素 認知障礙症可延13年發病&nbsp;&nbsp;singtaousa.com",
       "sources": [
         {
           "name": "元氣網",
@@ -66,17 +105,33 @@
       ]
     },
     {
-      "id": "0f144499367c",
-      "title": "每天吃起司量約「一個火柴盒大小」但3類病患慎吃",
-      "published": "2026-08-10T00:11:18+00:00",
-      "summary": "每天吃起司量約「一個火柴盒大小」但3類病患慎吃&nbsp;&nbsp;世界新聞網",
+      "id": "2e65d118117d",
+      "title": "中風｜34歲運動員頭痛流口水胡言亂語揭短時間內兩度中風回溯4大壞習慣惹禍減走42磅有一後遺症- 東張+ - myTV SUPER",
+      "published": "2026-08-09T23:45:00+00:00",
+      "summary": "中風｜34歲運動員頭痛流口水胡言亂語揭短時間內兩度中風回溯4大壞習慣惹禍減走42磅有一後遺症- 東張+&nbsp;&nbsp;myTV SUPER",
       "sources": [
         {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83eE5PaTBiWFpCNEtZVjVhSTZmdmV1UFFWb3RSdF9YN2JWYkNLNlJtOVVFcURmMWpZT0dLV1FYOE0zUzZVeVJYdXpmV0dxQzJDdVZZc0xwelI1NVhwUGEwdmRn0gFnQVVfeXFMTkotcmlpaGhlMUNpUG96RUZfTmR1MG1pUjJEOWFHRkR3Z1plcXoyVmRaemotMUozQU1GMXJwZGRYY2ZCelZPUXNXNHUyakptdURGSEwzRTN1eHBaN3N4STJSNVJGTkhNQQ?oc=5"
+          "name": "myTV SUPER",
+          "link": "https://news.google.com/rss/articles/CBMimgVBVV95cUxOY29pQUF4UF9LdXNuTmRXUnlUSlUxVGhMRlN1OXRSSVM5cjl6alk0dzVua25lcUtFQzBlTkV3bDBSaGlYblVkdnhrU21RVTlyODNiNHJjaERlRUtkQjNYLXNKeG1jMkJxQm5xRGlTNm5XU1lFU0NUaEdocW5FOE9pR2thb3l4R2dkZ3pVOHBnSWZhOVE3TDU1NVBZbjRtRktqdDI4cVFMTzA5MWFGa2dkWE5ja3dqNEROdVI3TUlZd2JYRC1OSk12REllX0FxbUdLQm11RmVtM05rbFA1OWF1Zmc3U1hTaG9sVG5fcFREcFk2dzVZWXhCQWxrc05TQWlnWTdramFETFdpOGt6d3hDT3NybEN6TmNQRTF5MzBwWnVDaDRSaXdzUTF1SVp2THdldFloQWdoR1ZWQWNYTmRIdVlpQUZjVkxmNGFUeXIxNmRSZmlDWXR4S1llbkU2VFlTM3c2T2VCdFBrMWR6Sl9KVklrNVJnMlRPMUJiTFpTVXBXUXU1bjhGV0g2cS1mNGZ2N0FJSWlTenRJM1VxaE5tTW4wYzdhX0pvWHJseWZGUVBHOXloWUljcHZNNmRleENvZ2J6TzBTX2ZIRENFdnNiRVJWdnBybWR5MDNRcFF3aFJPR09kWFNsUjVPVXNVOHFvTmI5dkxaLTNDeV81dzhDUlhGMmNLWUVWcEg2dmNKdDZrdmpXSjJOUmNYSEFpRkd3RUpiMWVhbXpMRkVtRzF0X0tSRmdBUkJJS0hJSHBCVzdSTEM0RGRDVDdrSU1XaVlmekRWdy1OcFJWOGZ3bUdfWFZVQmhMX0lOSmoxelJjbmJZQUFHYkoyaXFJUUdyR0NSdG5LRG40clV1U2pZYkozaGRqZk9LYm1ZSkE?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "5d02b1499ba8",
@@ -107,24 +162,11 @@
       "id": "8f417cb8dcd3",
       "title": "蓋文斯頓縣報告了一個感染西尼羅河病毒病例",
       "published": "2026-08-09T11:23:00+00:00",
-      "summary": "蓋文斯頓縣報告了一個感染西尼羅河病毒病例&nbsp;&nbsp;新唐人電視台紐約市西尼羅病毒蚊群近倍增 衛生局加強防治&nbsp;&nbsp;大纪元西尼羅河病毒樣本增近倍&nbsp;&nbsp;Singtaousa防西尼羅病毒擴散 史島、皇后區今起噴藥滅蚊&nbsp;&nbsp;世界新聞網橙縣確診今年首例西尼羅病毒衛生官員籲防蚊- 南加社區- 新聞&nbsp;&nbsp;華人今日網",
+      "summary": "蓋文斯頓縣報告了一個感染西尼羅河病毒病例&nbsp;&nbsp;新唐人電視台紐約市西尼羅病毒蚊群近倍增 衛生局加強防治&nbsp;&nbsp;大纪元西尼羅河病毒樣本增近倍&nbsp;&nbsp;singtaousa.com防西尼羅病毒擴散 史島、皇后區今起噴藥滅蚊&nbsp;&nbsp;世界新聞網橙縣確診今年首例西尼羅病毒衛生官員籲防蚊- 南加社區- 新聞&nbsp;&nbsp;華人今日網",
       "sources": [
         {
           "name": "新唐人電視台",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RVlgya2FKMHlHRUpDRFJud0ptT19XcHA3NHZ6bEFFcGhpMDVCeEZRTXpqVlFsTXRaOXR1RkJnWmNPWTBMZG45ZV9wZldZdWMyRm40V0ZfWTJKZTFmc1loY9IBZkFVX3lxTE9EN1lkNkZ4Q0tVYXN2b2VLUWxsc0ktWkV5VERQdEQxZ0N1NF9BNFRoTkliZm12RXpfTk1CSDdkbXZFMVVmWnhMTkx6UjZRY04yVkNic1BEUzYwZzFjemlTLUMtNkpkUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d160d97a7cc8",
-      "title": "大咖男星爆「半年驗一次性病」！驗完沒事才敢連結　自曝等待結果超忐忑",
-      "published": "2026-08-09T08:30:00+00:00",
-      "summary": "大咖男星爆「半年驗一次性病」！驗完沒事才敢連結 自曝等待結果超忐忑&nbsp;&nbsp;三立新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KWkJreWxuNmhneWhKQ3JPMHJiRk9kNnBoZjJieWVqZXFBVjl3MUs2WVpQSTRPV0VJQTJCTm9NU21iLVhraU9tR9IBTEFVX3lxTE0zTXg3Q0NicHQ0cjY5OWpxSlFyNF9fMzg5ZkJMS0lhUE9FSkRuM2RGdm44aGZWMUJYd0pYWGsybENVbDgwNVhiQjNNNzM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -143,13 +185,26 @@
       "matched_keywords": []
     },
     {
-      "id": "b431144a02a2",
-      "title": "長戴藍牙耳機導致甲狀腺結節？專家闢謠：兩者無直接關係毋須恐慌",
-      "published": "2026-08-09T07:00:26+00:00",
-      "summary": "長戴藍牙耳機導致甲狀腺結節？專家闢謠：兩者無直接關係毋須恐慌&nbsp;&nbsp;hk01.com",
+      "id": "933a86ec56cb",
+      "title": "南韓每年近千人感染HIV！疾管廳揭感染真相　出櫃男星曝「半年驗一次」 - 鏡週刊Mirror Media",
+      "published": "2026-08-09T07:18:00+00:00",
+      "summary": "南韓每年近千人感染HIV！疾管廳揭感染真相 出櫃男星曝「半年驗一次」&nbsp;&nbsp;鏡週刊Mirror Media前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "hk01.com",
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nUF9rUlVzT0g5ZHNwdjctUW4zM3JOUWpmY0I2OWhYay1sakxjX2VUTXpMMUlTVGhSbDV5bllrM2tXN1BveTJjaXdka1FhRmNkUVEyazhneVBpcjFseUkxZFBZQdIBaEFVX3lxTE83SWJVdnNjanFIdVpsMGJFT1I2QjdPRHl3eFQ2LS1TWldhcDRvWWMtak92QWpYZ2pieXRobWN5STlhX0VBMGZ2NDNZX2hVR0FaTFRCYnNxZUMtMnBfNWo0QlptUnZmeFRX?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "70167b0fc939",
+      "title": "長戴藍牙耳機導致甲狀腺結節？專家闢謠：兩者無直接關係毋須恐慌",
+      "published": "2026-08-09T07:00:26+00:00",
+      "summary": "長戴藍牙耳機導致甲狀腺結節？專家闢謠：兩者無直接關係毋須恐慌&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNV2RBRUlveTlpWURfQmk1R0dxODk4YkQwQ3hBeXJZaE95QUJSY1ZZbnJVbjRBQndONlJVYjFkTWRqMUFkS29nRTRpUmFleWd2QTdMOUtlRFRVSWxqcG9tZGdFNzg2aDUzWHBFN3UtcWhtRF9CZlMyZEJ0bWtyMjRzeTBMWk1Gc2hIMGJrSEV4MS1OODB5cTZxaUI3dzNTQWR1LTBacWt2a1lxMG1JWHdVQWFxTXR1bW1ZcWZ0M1JBdFV1NGFIWlhUWVd2S2JPemZKcUVvOGxtVkhvMWkzQVh0bk5RcVNQX0thVWc1NzVWLV9OUnE3dnRNbFA3VjdRd2xMeDF1TVlqdmdKQVRPMWJOSmpfWEtFNm5lUld3cGdmZUdsanRUM3BmMlpybzVNWE15SXc1dzVmM2c3Y0lHaGllT0NEVmZfemRIcVVtSmc2NFd0VTdhVVh6bzZpeUUxNlgwZzU5MXdpWHFzZ1FhQVB2bkFvZnVWODJhSDJUVmJFcEZpMzNqa1RGQWxnTzhTNWdpdkFFekFFNFdLTE9Gc1kzNFlxWTRaSVpia2ZTRGtMckJYWEg2T29DVjJET2pIZ3RiaWtod3ZxVHo?oc=5"
         }
       ],
@@ -221,14 +276,14 @@
       "matched_keywords": []
     },
     {
-      "id": "d857bcf43214",
-      "title": "調理乳癌體質 醫推4大關鍵營養 | 中華日報 - LINE TODAY",
-      "published": "2026-08-08T23:17:26+00:00",
-      "summary": "調理乳癌體質 醫推4大關鍵營養 | 中華日報&nbsp;&nbsp;LINE TODAY",
+      "id": "1c4fde064046",
+      "title": "調理乳癌體質 醫推4大關鍵營養",
+      "published": "2026-08-08T22:25:36+00:00",
+      "summary": "調理乳癌體質 醫推4大關鍵營養&nbsp;&nbsp;中華新聞雲／中華日報",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yWks1V1Zoc2JuQWhVdHFSTC11VW9MWDBBQ1Z1RkQ2dkxMS1hVbm8xMFVYT1JacTNNMGwtR0hRaXFQQ1BKVzJLd2w5dDlHRlBMcTVLckdR?oc=5"
+          "name": "中華新聞雲／中華日報",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10b3hWbUppUmlLaE4xYkFGa1E4MUpRYWROMlRLdXYyTUkwVlJSVHgyczVScXNSZnpWd3R0Z296MFhBUFNlaGZRR2daTURKOFhpZnc?oc=5"
         }
       ],
       "matched_keywords": [
@@ -268,6 +323,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "49dc3e47b7bb",
+      "title": "【醫家等你Call】漸凍人症：身體逐漸失去活動能力 意識依然清醒",
+      "published": "2026-08-04T10:12:30+00:00",
+      "summary": "【醫家等你Call】漸凍人症：身體逐漸失去活動能力 意識依然清醒&nbsp;&nbsp;SBS",
+      "sources": [
+        {
+          "name": "SBS",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaHdoMnczRVlqWE9fWHRUbkwybUsxczA5Y2hrazdHdnpBMjlHVkdZNlkxOWp5YWVQbGpMb0lKZDgzMmFUbDBvN1hJYkFoVk9WMk1iMmN1eHZ0U0VzeFdYbTZQa3hsR1J0a1RZN2lZWkN4TVdLYWFCZmc0VTRNYk5SWEY4RGpsVTRDcFM1OFQ5eVcxc2RoTlZnMDBqQ2RQejBTYTZIOTdhOHVWa004LU0weHZQbGhiMlhCbUhoRXZB?oc=5"
+        }
+      ],
+      "matched_keywords": []
     }
   ]
 }
