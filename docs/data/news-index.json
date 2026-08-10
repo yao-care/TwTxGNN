@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-10T01:02:33.981430+00:00",
-  "count": 2,
+  "generated": "2026-08-10T03:43:51.949672+00:00",
+  "count": 3,
   "news": [
     {
-      "id": "5d02b1499ba8",
+      "id": "8a5dbf8582a2",
       "title": "切除闌尾與失智有關？關鍵藏在腸道菌",
       "published": "2026-08-09T17:00:00+00:00",
       "sources": [
         {
-          "name": "大纪元",
+          "name": "epochtimes.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HS1JydkpBUlhsVEtYcTN2U095czRYb29wRS1CME4xVXR3dGQ3VEhXeHljSnZwX3hhVVJvaDEtM2pDS3kya3BVbTZ4V2IxcVVJcVpMZWVZT2x0NVlfYjhDN9IBZkFVX3lxTE9RNkpIa0I4RXY5UTlzd0JzUTM5SENfR3d0Ukt6NHdmcDh1c1h1VEp1NkFkVVlTTkoyOTEyVU1VbEV4VXNxOHVxblNrVVY5WHc3MzFneTBnQS1WMUppeDljYVNkVndNZw?oc=5"
         }
       ],
@@ -27,12 +27,12 @@
       ]
     },
     {
-      "id": "d857bcf43214",
-      "title": "調理乳癌體質 醫推4大關鍵營養 | 中華日報 - LINE TODAY",
+      "id": "da9743426304",
+      "title": "調理乳癌體質 醫推4大關鍵營養 | 中華日報",
       "published": "2026-08-08T23:17:26+00:00",
       "sources": [
         {
-          "name": "LINE TODAY",
+          "name": "today.line.me",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yWks1V1Zoc2JuQWhVdHFSTC11VW9MWDBBQ1Z1RkQ2dkxMS1hVbm8xMFVYT1JacTNNMGwtR0hRaXFQQ1BKVzJLd2w5dDlHRlBMcTVLckdR?oc=5"
         }
       ],
@@ -69,6 +69,38 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e6d3e6227e07",
+      "title": "老菸槍腹痛、發燒2周 不是腸胃炎！竟這「菌」 隨血流襲擊腹膜",
+      "published": "2026-08-08T06:00:13+00:00",
+      "sources": [
+        {
+          "name": "匯流新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE10M3BVNFM0cDM1eDBpaUROUGRYUzBobm1idTdxa28yTXJMYXQzbU9uZ0RoeTZKU0d3ZTFJNDF1emZDU2NKXzdySUdR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "胃炎",
+          "keyword": "胃炎",
+          "related_drugs": [
+            {
+              "slug": "aluminum_hydroxide",
+              "name": "Aluminum hydroxide"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "propantheline",
+              "name": "Propantheline"
             }
           ]
         }
