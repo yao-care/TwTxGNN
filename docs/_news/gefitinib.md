@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,31 +41,9 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（0 則）
 
-### [研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTdIBY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTQ?oc=5)
-
-2026-08-10 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTdIBY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTQ?oc=5)
-
----
-
-### [切除闌尾與失智有關？關鍵藏在腸道菌](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HS1JydkpBUlhsVEtYcTN2U095czRYb29wRS1CME4xVXR3dGQ3VEhXeHljSnZwX3hhVVJvaDEtM2pDS3kya3BVbTZ4V2IxcVVJcVpMZWVZT2x0NVlfYjhDN9IBZkFVX3lxTE9RNkpIa0I4RXY5UTlzd0JzUTM5SENfR3d0Ukt6NHdmcDh1c1h1VEp1NkFkVVlTTkoyOTEyVU1VbEV4VXNxOHVxblNrVVY5WHc3MzFneTBnQS1WMUppeDljYVNkVndNZw?oc=5)
-
-2026-08-09 <span class="news-indication-tag">失智</span>
-
-來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HS1JydkpBUlhsVEtYcTN2U095czRYb29wRS1CME4xVXR3dGQ3VEhXeHljSnZwX3hhVVJvaDEtM2pDS3kya3BVbTZ4V2IxcVVJcVpMZWVZT2x0NVlfYjhDN9IBZkFVX3lxTE9RNkpIa0I4RXY5UTlzd0JzUTM5SENfR3d0Ukt6NHdmcDh1c1h1VEp1NkFkVVlTTkoyOTEyVU1VbEV4VXNxOHVxblNrVVY5WHc3MzFneTBnQS1WMUppeDljYVNkVndNZw?oc=5)
-
----
-
-### [吃魚油防失智？　研究揭「DHA進大腦」卻沒改善記憶](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1za090MlhpczY0MUdEM0s5LXpsTUt2Z1hlZlZJTHNkcWp4Nl9GMlJoZjUzaUlJd3BfS1pzTnhidl8wOVVmUEd2SjUxVk5qckN30gFPQVVfeXFMTXdzQng1N0psam0xNVBQbTY5a1lvbnNLZEJzRk5aekdIb1lfS3pZazJISHg5MTdVOWR6Q1dYbWFfOVhLSXd1a18wNUNuanA1NA?oc=5)
-
-2026-08-08 <span class="news-indication-tag">失智</span>
-
-來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1za090MlhpczY0MUdEM0s5LXpsTUt2Z1hlZlZJTHNkcWp4Nl9GMlJoZjUzaUlJd3BfS1pzTnhidl8wOVVmUEd2SjUxVk5qckN30gFPQVVfeXFMTXdzQng1N0psam0xNVBQbTY5a1lvbnNLZEJzRk5aekdIb1lfS3pZazJISHg5MTdVOWR6Q1dYbWFfOVhLSXd1a18wNUNuanA1NA?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
