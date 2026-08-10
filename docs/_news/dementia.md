@@ -1,51 +1,39 @@
 ---
 layout: default
-title: "Gefitinib 相關新聞"
+title: "失智症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Gefitinib 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
-permalink: /news/gefitinib/
+description: "失智症（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+permalink: /news/dementia/
 ---
 
-# Gefitinib 相關新聞
+# 失智症（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
+<strong>失智症（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合 Gefitinib 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
-<div class="drug-info-card">
-<strong>藥物資訊</strong>
+<div class="related-drugs-card">
+<strong>相關藥物報告</strong>
+<p>以下藥物的預測適應症可能與此疾病相關：</p>
 <ul>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
-<li>fibromatosis, gingival（99.9%）</li>
-<li>fibroma of lung（99.9%）</li>
-<li>inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia（99.9%）</li>
-<li>hamartoma of lung（99.9%）</li>
-<li>lung hilum carcinoma（99.9%）</li>
-<li>lung benign neoplasm（99.8%）</li>
-<li>Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome（99.8%）</li>
-<li>lung germ cell tumor（99.8%）</li>
-<li>pulmonary sulcus neoplasm（99.8%）</li>
-<li>junctional epidermolysis bullosa（99.8%）</li>
-</ul></li>
+<li><a href="{{ '/drugs/gefitinib/' | relative_url }}">Gefitinib</a></li>
 </ul>
-<p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（3 則）
 
 ### [研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTdIBY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTQ?oc=5)
 
-2026-08-10 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+2026-08-10
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTdIBY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTQ?oc=5)
 
@@ -53,7 +41,7 @@ permalink: /news/gefitinib/
 
 ### [切除闌尾與失智有關？關鍵藏在腸道菌](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HS1JydkpBUlhsVEtYcTN2U095czRYb29wRS1CME4xVXR3dGQ3VEhXeHljSnZwX3hhVVJvaDEtM2pDS3kya3BVbTZ4V2IxcVVJcVpMZWVZT2x0NVlfYjhDN9IBZkFVX3lxTE9RNkpIa0I4RXY5UTlzd0JzUTM5SENfR3d0Ukt6NHdmcDh1c1h1VEp1NkFkVVlTTkoyOTEyVU1VbEV4VXNxOHVxblNrVVY5WHc3MzFneTBnQS1WMUppeDljYVNkVndNZw?oc=5)
 
-2026-08-09 <span class="news-indication-tag">失智</span>
+2026-08-09
 
 來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HS1JydkpBUlhsVEtYcTN2U095czRYb29wRS1CME4xVXR3dGQ3VEhXeHljSnZwX3hhVVJvaDEtM2pDS3kya3BVbTZ4V2IxcVVJcVpMZWVZT2x0NVlfYjhDN9IBZkFVX3lxTE9RNkpIa0I4RXY5UTlzd0JzUTM5SENfR3d0Ukt6NHdmcDh1c1h1VEp1NkFkVVlTTkoyOTEyVU1VbEV4VXNxOHVxblNrVVY5WHc3MzFneTBnQS1WMUppeDljYVNkVndNZw?oc=5)
 
@@ -61,7 +49,7 @@ permalink: /news/gefitinib/
 
 ### [吃魚油防失智？　研究揭「DHA進大腦」卻沒改善記憶](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1za090MlhpczY0MUdEM0s5LXpsTUt2Z1hlZlZJTHNkcWp4Nl9GMlJoZjUzaUlJd3BfS1pzTnhidl8wOVVmUEd2SjUxVk5qckN30gFPQVVfeXFMTXdzQng1N0psam0xNVBQbTY5a1lvbnNLZEJzRk5aekdIb1lfS3pZazJISHg5MTdVOWR6Q1dYbWFfOVhLSXd1a18wNUNuanA1NA?oc=5)
 
-2026-08-08 <span class="news-indication-tag">失智</span>
+2026-08-08
 
 來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1za090MlhpczY0MUdEM0s5LXpsTUt2Z1hlZlZJTHNkcWp4Nl9GMlJoZjUzaUlJd3BfS1pzTnhidl8wOVVmUEd2SjUxVk5qckN30gFPQVVfeXFMTXdzQng1N0psam0xNVBQbTY5a1lvbnNLZEJzRk5aekdIb1lfS3pZazJISHg5MTdVOWR6Q1dYbWFfOVhLSXd1a18wNUNuanA1NA?oc=5)
 
@@ -71,39 +59,3 @@ permalink: /news/gefitinib/
 <div class="disclaimer">
 <strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
-
-<style>
-.indication-matched {
-  background: #fff3e0;
-  padding: 4px 8px;
-  border-radius: 4px;
-  border-left: 3px solid #ff9800;
-}
-.indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 8px;
-  border-radius: 12px;
-  font-size: 0.8em;
-  margin-left: 8px;
-}
-.news-indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-.news-drug-tag {
-  display: inline-block;
-  background: #1565c0;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-</style>

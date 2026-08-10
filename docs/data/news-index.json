@@ -1,5 +1,148 @@
 {
-  "generated": "2026-08-10T09:07:53.527937+00:00",
-  "count": 0,
-  "news": []
+  "generated": "2026-08-10T10:58:37.373870+00:00",
+  "count": 4,
+  "news": [
+    {
+      "id": "430a2093e614",
+      "title": "研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防",
+      "published": "2026-08-10T03:56:42+00:00",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTdIBY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5d02b1499ba8",
+      "title": "切除闌尾與失智有關？關鍵藏在腸道菌",
+      "published": "2026-08-09T17:00:00+00:00",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HS1JydkpBUlhsVEtYcTN2U095czRYb29wRS1CME4xVXR3dGQ3VEhXeHljSnZwX3hhVVJvaDEtM2pDS3kya3BVbTZ4V2IxcVVJcVpMZWVZT2x0NVlfYjhDN9IBZkFVX3lxTE9RNkpIa0I4RXY5UTlzd0JzUTM5SENfR3d0Ukt6NHdmcDh1c1h1VEp1NkFkVVlTTkoyOTEyVU1VbEV4VXNxOHVxblNrVVY5WHc3MzFneTBnQS1WMUppeDljYVNkVndNZw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d857bcf43214",
+      "title": "調理乳癌體質 醫推4大關鍵營養 | 中華日報 - LINE TODAY",
+      "published": "2026-08-08T23:17:26+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yWks1V1Zoc2JuQWhVdHFSTC11VW9MWDBBQ1Z1RkQ2dkxMS1hVbm8xMFVYT1JacTNNMGwtR0hRaXFQQ1BKVzJLd2w5dDlHRlBMcTVLckdR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "96c5a3245786",
+      "title": "吃魚油防失智？　研究揭「DHA進大腦」卻沒改善記憶",
+      "published": "2026-08-08T11:32:00+00:00",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1za090MlhpczY0MUdEM0s5LXpsTUt2Z1hlZlZJTHNkcWp4Nl9GMlJoZjUzaUlJd3BfS1pzTnhidl8wOVVmUEd2SjUxVk5qckN30gFPQVVfeXFMTXdzQng1N0psam0xNVBQbTY5a1lvbnNLZEJzRk5aekdIb1lfS3pZazJISHg5MTdVOWR6Q1dYbWFfOVhLSXd1a18wNUNuanA1NA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
