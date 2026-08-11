@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-08-11T11:36:45.215871+00:00",
+  "last_updated": "2026-08-11T12:42:29.079058+00:00",
   "total_count": 20,
   "matched_count": 6,
   "news": [
+    {
+      "id": "a778f68b4db7",
+      "title": "衞生署：延遲打疫苗會減低兒童預防傳染病保護 籲家長緊跟香港「兒童免疫接種計劃」",
+      "published": "2026-08-11T12:31:06+00:00",
+      "summary": "衞生署：延遲打疫苗會減低兒童預防傳染病保護 籲家長緊跟香港「兒童免疫接種計劃」&nbsp;&nbsp;dotdotnews.com",
+      "sources": [
+        {
+          "name": "dotdotnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Zajl6WFFPdElxY1hkWXBzbmdhWjUxVnlicEpyc2lPbUU2MVk2UTNja1RIazhleWk3WlRGUjBNdnRvWmc0V3FvbklrU24tYk9pT21Oem96QUJYcWozY29rTWlKT2NDRS1VZ05STnN1YlpQckNWYlZkN1Zn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "3cb435374bd6",
       "title": "健康網》白內障手術後飛蚊變明顯 醫揭原因與4警訊",
@@ -222,13 +235,13 @@
       "matched_keywords": []
     },
     {
-      "id": "1292cf3bae17",
+      "id": "c7b857cc4c2d",
       "title": "沒有錢的壓力會傷大腦！醫揭：長期皮質醇升高恐加速記憶衰退- 書房",
       "published": "2026-08-10T23:32:00+00:00",
-      "summary": "沒有錢的壓力會傷大腦！醫揭：長期皮質醇升高恐加速記憶衰退- 書房&nbsp;&nbsp;工商時報",
+      "summary": "沒有錢的壓力會傷大腦！醫揭：長期皮質醇升高恐加速記憶衰退- 書房&nbsp;&nbsp;ctee.com.tw",
       "sources": [
         {
-          "name": "工商時報",
+          "name": "ctee.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yZ3NmcnVYUzBiN1lZOWZhSExNODBpRXNlVlNmVDZzbElHTkJ1U0U0LVJlT2xjTU5aSEVjYXZLYm5BOFVoN0tiRGtaTzlUV0dfSkV4NFpQMmNCQWVtcFRr?oc=5"
         }
       ],
@@ -261,13 +274,13 @@
       "matched_keywords": []
     },
     {
-      "id": "6904e76ceea6",
+      "id": "430a2093e614",
       "title": "研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防",
       "published": "2026-08-10T03:56:42+00:00",
-      "summary": "研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防&nbsp;&nbsp;health.udn.com前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防&nbsp;&nbsp;元氣網前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "health.udn.com",
+          "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTdIBY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTQ?oc=5"
         }
       ],
@@ -356,19 +369,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94RFdIdlpab0h0YTZyRUNCNjMxTWlXbzllUTczMzBoODc1SkFyQVpBUXYxcTBSMHFBWFkwRGhxRWxIVWdwZ3RuYzl2VHNtX3lONHpzWHZ0OXFkQTBkQkRraWg5MTQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8f417cb8dcd3",
-      "title": "蓋文斯頓縣報告了一個感染西尼羅河病毒病例",
-      "published": "2026-08-09T11:23:00+00:00",
-      "summary": "蓋文斯頓縣報告了一個感染西尼羅河病毒病例&nbsp;&nbsp;新唐人電視台紐約市西尼羅病毒蚊群近倍增 衛生局加強防治&nbsp;&nbsp;大纪元西尼羅河病毒樣本增近倍&nbsp;&nbsp;Singtaousa防西尼羅病毒擴散 史島、皇后區今起噴藥滅蚊&nbsp;&nbsp;世界新聞網西尼羅河病毒蚊子增加 衛生局籲民眾小心防蚊&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "新唐人電視台",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RVlgya2FKMHlHRUpDRFJud0ptT19XcHA3NHZ6bEFFcGhpMDVCeEZRTXpqVlFsTXRaOXR1RkJnWmNPWTBMZG45ZV9wZldZdWMyRm40V0ZfWTJKZTFmc1loY9IBZkFVX3lxTE9EN1lkNkZ4Q0tVYXN2b2VLUWxsc0ktWkV5VERQdEQxZ0N1NF9BNFRoTkliZm12RXpfTk1CSDdkbXZFMVVmWnhMTkx6UjZRY04yVkNic1BEUzYwZzFjemlTLUMtNkpkUQ?oc=5"
         }
       ],
       "matched_keywords": []
