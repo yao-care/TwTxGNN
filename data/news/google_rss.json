@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-10T23:25:56.457810+00:00",
-  "count": 15,
+  "fetched_at": "2026-08-11T01:01:41.093602+00:00",
+  "count": 16,
   "news": [
+    {
+      "id": "1292cf3bae17",
+      "title": "沒有錢的壓力會傷大腦！醫揭：長期皮質醇升高恐加速記憶衰退- 書房 - 工商時報",
+      "published": "2026-08-10T23:32:00+00:00",
+      "summary": "沒有錢的壓力會傷大腦！醫揭：長期皮質醇升高恐加速記憶衰退- 書房&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yZ3NmcnVYUzBiN1lZOWZhSExNODBpRXNlVlNmVDZzbElHTkJ1U0U0LVJlT2xjTU5aSEVjYXZLYm5BOFVoN0tiRGtaTzlUV0dfSkV4NFpQMmNCQWVtcFRr?oc=5"
+        }
+      ]
+    },
     {
       "id": "ee3bcf06ac84",
       "title": "研究揭青少年心理健康可能受同儕影響 專家籲「勿貼標籤」關心更重要 - 健康醫療網",
@@ -12,6 +24,18 @@
         {
           "name": "健康醫療網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PWGJqZVU0MWR5YnNnZWR6QXJVX3NKcWlleUZ6b0Y2bnh5aDZSSlo2XzVyVU5fTW9fWVkwWjZfVUdWSWxVTlpMME80d25aajVjOWp2ODN3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ba5a2bd4269e",
+      "title": "破解胰臟癌隱身機制！雙重免疫治療小鼠實驗見效 - Yahoo新聞",
+      "published": "2026-08-09T08:59:01+00:00",
+      "summary": "破解胰臟癌隱身機制！雙重免疫治療小鼠實驗見效&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPQWFVaTNTYU5qd3d3dXczNFNOcVZoUVFZSEwwRkZiSE95NU1wQTJsNWZQalZCenE3YWVXcWxiT2tmNE42a0tiVkxJWmI4WGRYSXVpNUEyOG1kb0h3MHZYeHpXXzRNMUtKX0FDLVI5M19URTlEZ1FTbTQ5T2ZRd1V1NTZyc3dDbC02cnBaS2NPX1VkUGFMN29Pem5UTzJBTjgxR3A3dmstRm5scktuYnMtOEJlNXF2V05YSDBMVWZBaG42Q0V2YjYwdTlzS1ZhMmREc2lvSUJYb3ZHOExKQUpucWRGblRHZ0hBUVMycTFsUXpmRENJMUVnUEY5VjFfZnp1UTVVSVdTVEdiajFnZGdDOF9FLWpYS01sWS1LRkJtTzcxcTNuSmRSUTdVeGRxdjBObjh5QUM4RDBpY1lqMEViWWRYYURlaVhZZTZwWkg2bGM?oc=5"
         }
       ]
     },
@@ -28,37 +52,25 @@
       ]
     },
     {
-      "id": "3a0a13809dba",
-      "title": "胰臟癌會「躲起來」！ 研究找到破解癌細胞隱身關鍵 - 自由健康網",
-      "published": "2026-08-09T07:21:00+00:00",
-      "summary": "胰臟癌會「躲起來」！ 研究找到破解癌細胞隱身關鍵&nbsp;&nbsp;自由健康網",
+      "id": "7abfcbdccc8b",
+      "title": "刷牙一直流血？ 逾30萬人研究揭牙周病與糖尿病雙向關聯 - 自由健康網",
+      "published": "2026-08-09T04:36:00+00:00",
+      "summary": "刷牙一直流血？ 逾30萬人研究揭牙周病與糖尿病雙向關聯&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TWkhJRVRPMXVZcXU4MUN2aWpYeldEa3JMUVJKaXRoOU5OVmE3U1J5SGtoWE81aGJrdjBYS1Z6V0R0ZVFHUTZWcTBBY1RWZm9tOFJsQmlKdnlINnVJamQ3NkFRNVU?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGQk4wQUdYU3YwS2k2NmlPQ041T2RhRkxXWWdLQUNTcU9mVnhKNmtTLW9wejdOMG5DNHJZeDBzTU5CRHNBUG40TVFNNE1VUHh5MVhZQW9OZHZGZU1tZWo4ci0zNlY?oc=5"
         }
       ]
     },
     {
-      "id": "a422b3762337",
-      "title": "刷牙一直流血？ 逾30萬人研究揭牙周病與糖尿病雙向關聯 - Yahoo新聞",
-      "published": "2026-08-09T04:51:42+00:00",
-      "summary": "刷牙一直流血？ 逾30萬人研究揭牙周病與糖尿病雙向關聯&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNekJJeTctMXFkN3JJYW41Qm9IazZpcXFCanBCQzRnUzJnMTRCSk02cndyQlcybHF6ODBsRFVFOUJBN2VRZVpSSkxJWUE5VlZwejJyRmJVWlZ1TFVpdXliMldYZzdmSXdVbXhnUHhuMGJhRG10OVN4XzZnZTdkTjZFS0pnNFh5bWhKVC1LZm1aUmxHWkp2X3dfNkxveW9BY2w1OUlLQ3RGY2o3WDZxVGUzQUtVRXJXZFR3SDBYMVZYU3NMSDc0TGp0dWRCRzBBU0JaSHJIZEZITks3MkxtbExJVWRnSi1Fc3h5cGlFM3Uyb0JYaWlyUmxDVjRvWDg2eHVkbnlkYmllVlZETVJIeHlGcmhxTHY0Q3ZqWUV1TmhZZWxEZUlMWjJGay1JMmRjYS0xdDkyVVlBUlJuazhwMlZ3aEYwTE5iTXJGT3l0eG12bGNZT2V6VUR0UHViSE4yTnZM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e4967ccdd218",
-      "title": "大咖男星爆「半年驗一次性病」！驗完沒事才敢連結　自曝等待結果超忐忑 - setn.com",
+      "id": "d160d97a7cc8",
+      "title": "大咖男星爆「半年驗一次性病」！驗完沒事才敢連結　自曝等待結果超忐忑 - 三立新聞",
       "published": "2026-08-09T08:30:00+00:00",
-      "summary": "大咖男星爆「半年驗一次性病」！驗完沒事才敢連結 自曝等待結果超忐忑&nbsp;&nbsp;setn.com前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "大咖男星爆「半年驗一次性病」！驗完沒事才敢連結 自曝等待結果超忐忑&nbsp;&nbsp;三立新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "setn.com",
+          "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KWkJreWxuNmhneWhKQ3JPMHJiRk9kNnBoZjJieWVqZXFBVjl3MUs2WVpQSTRPV0VJQTJCTm9NU21iLVhraU9tR9IBTEFVX3lxTE0zTXg3Q0NicHQ0cjY5OWpxSlFyNF9fMzg5ZkJMS0lhUE9FSkRuM2RGdm44aGZWMUJYd0pYWGsybENVbDgwNVhiQjNNNzM?oc=5"
         }
       ]
@@ -66,7 +78,7 @@
     {
       "id": "d857bcf43214",
       "title": "調理乳癌體質 醫推4大關鍵營養 | 中華日報 - LINE TODAY",
-      "published": "2026-08-08T23:17:26+00:00",
+      "published": "2026-08-09T10:52:30+00:00",
       "summary": "調理乳癌體質 醫推4大關鍵營養 | 中華日報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -88,14 +100,14 @@
       ]
     },
     {
-      "id": "e8965be0657c",
-      "title": "台灣人最缺「這4大營養素」 營養師曝迅速補充法 - 中天新聞網",
-      "published": "2026-08-09T02:45:39+00:00",
-      "summary": "台灣人最缺「這4大營養素」 營養師曝迅速補充法&nbsp;&nbsp;中天新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "5320b6aa327a",
+      "title": "台灣人最缺「這4大營養素」 營養師曝迅速補充法 - Yahoo新聞",
+      "published": "2026-08-09T02:56:42+00:00",
+      "summary": "台灣人最缺「這4大營養素」 營養師曝迅速補充法&nbsp;&nbsp;Yahoo新聞台灣人最容易缺這4種營養素！營養師曝「最快補法」&nbsp;&nbsp;ETtoday新聞雲國人最缺維生素D！營養師曝4大營養失衡影響補鉀有助降血壓| 2026九合一選舉&nbsp;&nbsp;udn.com健康網》維生素D降呼吸道感染風險！營養師：吃這些可補&nbsp;&nbsp;自由健康網經痛、掉髮竟是同一原因？女子補維生素D驚見2大改變&nbsp;&nbsp;造咖",
       "sources": [
         {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RLVBsWG80VkVoMndSWXdOVTNDVjFsSTVzR1Z0M0o1X0FoTU1iSU9rN0ZtV3lnZmxXWmh4MGdyWEF2RmI3cVo0QXBlbWtKOS1EMDVr?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNdm5KN1JQYXR0Z2VNWEx2MWVsSkNoTVZBOGhXanktX1ZWSW01OUw3LWRjU0hGUE9sM3pQRndRNkowSHJ0VFE0YmFNV3hRUVZhZ3J1ZkJIYUI4X1JpTHJMVDdHWXRBRGN0TmF5emhDS0lfUU03RWJBM3MwbGJMeFMtVEdHMlJNT1lRN0k1VHBQa2E0QThoQlF2X0ljSHB0X1c3Sk5DVXR6WnJaR1FRaThROFFTNndPdVhERVI3c2FKM2dXT1A4UzdYdzVNcjBFS1d5SThCY2JxdmdHSjlTYnV3MkJjYlRRb3RWM0tIUE1VbndGV3FlOGRiRnJ6ZUUyc19rR1FpN2tDTU1nUnd5UndtZGFuYlc0WnhWUjFiQWRSYmxWNVlDbXg5eWRRUzJBUUNBRzg5RW1NMzVxZDQ?oc=5"
         }
       ]
     },
