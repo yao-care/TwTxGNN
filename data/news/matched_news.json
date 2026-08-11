@@ -1,17 +1,42 @@
 {
-  "last_updated": "2026-08-11T03:26:17.263672+00:00",
+  "last_updated": "2026-08-11T04:58:10.245015+00:00",
   "total_count": 19,
   "matched_count": 5,
   "news": [
     {
-      "id": "ae1f447b90b4",
-      "title": "江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%",
-      "published": "2026-08-11T03:13:56+00:00",
-      "summary": "江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%&nbsp;&nbsp;三立新聞健康網》抗癌多一招！ 醫揭10分鐘高強度運動能抑制癌細胞&nbsp;&nbsp;自由健康網",
+      "id": "038d44de2976",
+      "title": "下眼瞼這條線代表過敏體質？了解丹尼摩根線 逾8成濕疹患者有此皺褶",
+      "published": "2026-08-11T04:00:10+00:00",
+      "summary": "下眼瞼這條線代表過敏體質？了解丹尼摩根線 逾8成濕疹患者有此皺褶&nbsp;&nbsp;星島頭條",
       "sources": [
         {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sOU95LUdlRjFDclBLMWo2SVhWR1dpME83ZVMza3hzUmVONlRSeThEU3p4YlR2bmFUSjJiN2RGOXhKSVFRVERROWZUMTg?oc=5"
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNc1dfdUlhdnhocHA1cFU0aEJXMWZOU2p0bmYxaFpXcGtJeXg2Q0MyY19QeVBnbklzUlltLXlNRXcxckQ3TjBzc0Y5TFJGSG1GOEs5aHpKbTNEakNGU0tnOUp3UlA3aUtKMGMzUER1dmk5dlFtNlpEQ3ZpVEZwZXp4UmtPQUlwbVpqM1dHVDF0Z3BhYmh0X0ZiMy0yb1pjS0hTVURjVzdRVHdWdWwtckpyM0Rpb0ZfNWMyWEpEWW9wVi1NOC1rZ193M01hbkxmbHdiVF9GRndDZjRPdDJRTlE2SDAwWVVlWmhvU2k3bEsya3N6ejFTeEdqTWhFZlpsdlM3b0M1NG4zSFRIUXNudHE3OWJTOWNicVIzVHBla2E3UjRZZUZ0Tjc4amZwVVZNb2l4T0hheUdDVG5IaHhRdkFfNGRPNFR1ZzZVSHFkWDFDamUyeWVxUnNsSlVlb0xUa2dnUHNrUHJtYzk4UHQtSEg0VjZkSXVFMkFPb0RuRmhwcS03Wk1JUjkzeGlreGlCNHlkNVlXTTRmcGtTVUlsYkp4U2J2TkZDeUZ5djFVNjlYcTBOaEM1QkdnWQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "濕疹",
+          "keyword": "濕疹",
+          "related_drugs": [
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "083719999ff2",
+      "title": "江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%",
+      "published": "2026-08-11T03:31:44+00:00",
+      "summary": "江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQdVo5OTdYYnNmRGc3RVd2R1IwR2Q3ZTd1RXgwN3ZmdmdiUGxRa21JMGYwQkd4R0V1b1VGdkFVS041amFsaGppVXFiRXFyeG5Fc2VDZ0E2dGtlZF9LZks1QzdJYmJQYXZ6WWZVMk84dlQtdk1RQXAyM0tMNXV5cmtzSDZzWF9FUmtTQ0xlRmpJTnFMc3JQUkV5ZWR4MVgxOVZ6UDRQRWdmbjRUUkJCUy1QU2JIX1RlNC1CQlJVYnhMVndTclVuOGpBTVl1RmxTazZ6VGZvOUJ0RmczeThEMUhWRXR6WjVHOE5fZUd1b2lDUG9aR2RONUY1OHQxcVpaTUJZZU5iaTc1bXpoMzZVc0N6SXIwQjEtaFg5SkdwV19BQ20tZlo3WFBSSS1VY0pzeGZxU25V?oc=5"
         }
       ],
       "matched_keywords": [
@@ -50,6 +75,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "9e33e7bb9e07",
+      "title": "健康新視界》吃對食物 有助提升年長者疫苗效果？（潘懷宗）",
+      "published": "2026-08-11T03:30:14+00:00",
+      "summary": "健康新視界》吃對食物 有助提升年長者疫苗效果？（潘懷宗）&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5odURXLThnb3FnSFlrb3pLWEdpS0pNNm9meXU1dWY3YWp4QW1iQ3dUR3BUSl84WC1qNWxtY2ZTd3k2TndfNjdaUU43OTNYQnE0S2pMZUhlUVhIczRaMHZ4RTJlNE8zSVk?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "ddb940f34567",
@@ -242,75 +280,26 @@
       "matched_keywords": []
     },
     {
-      "id": "d857bcf43214",
-      "title": "調理乳癌體質 醫推4大關鍵營養 | 中華日報 - LINE TODAY",
-      "published": "2026-08-09T10:52:30+00:00",
-      "summary": "調理乳癌體質 醫推4大關鍵營養 | 中華日報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yWks1V1Zoc2JuQWhVdHFSTC11VW9MWDBBQ1Z1RkQ2dkxMS1hVbm8xMFVYT1JacTNNMGwtR0hRaXFQQ1BKVzJLd2w5dDlHRlBMcTVLckdR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ba5a2bd4269e",
-      "title": "破解胰臟癌隱身機制！雙重免疫治療小鼠實驗見效",
+      "id": "e03c1e55eba8",
+      "title": "胰臟癌有救了？最新雙重免疫治療研究曝光",
       "published": "2026-08-09T08:59:01+00:00",
-      "summary": "破解胰臟癌隱身機制！雙重免疫治療小鼠實驗見效&nbsp;&nbsp;Yahoo新聞",
+      "summary": "胰臟癌有救了？最新雙重免疫治療研究曝光&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPQWFVaTNTYU5qd3d3dXczNFNOcVZoUVFZSEwwRkZiSE95NU1wQTJsNWZQalZCenE3YWVXcWxiT2tmNE42a0tiVkxJWmI4WGRYSXVpNUEyOG1kb0h3MHZYeHpXXzRNMUtKX0FDLVI5M19URTlEZ1FTbTQ5T2ZRd1V1NTZyc3dDbC02cnBaS2NPX1VkUGFMN29Pem5UTzJBTjgxR3A3dmstRm5scktuYnMtOEJlNXF2V05YSDBMVWZBaG42Q0V2YjYwdTlzS1ZhMmREc2lvSUJYb3ZHOExKQUpucWRGblRHZ0hBUVMycTFsUXpmRENJMUVnUEY5VjFfZnp1UTVVSVdTVEdiajFnZGdDOF9FLWpYS01sWS1LRkJtTzcxcTNuSmRSUTdVeGRxdjBObjh5QUM4RDBpY1lqMEViWWRYYURlaVhZZTZwWkg2bGM?oc=5"
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44VlN6akVBblZzMi1HRG1pV0hVNU8xMTlGWlRqMXlGdURCTzBHbWdhM1l3NkVZRlI2bmZKNGdOVTkyRnlLMzl1MHhNbWZmOXdpV1Rv?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "d160d97a7cc8",
+      "id": "e4967ccdd218",
       "title": "大咖男星爆「半年驗一次性病」！驗完沒事才敢連結　自曝等待結果超忐忑",
       "published": "2026-08-09T08:30:00+00:00",
-      "summary": "大咖男星爆「半年驗一次性病」！驗完沒事才敢連結 自曝等待結果超忐忑&nbsp;&nbsp;三立新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "大咖男星爆「半年驗一次性病」！驗完沒事才敢連結 自曝等待結果超忐忑&nbsp;&nbsp;setn.com前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "三立新聞",
+          "name": "setn.com",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KWkJreWxuNmhneWhKQ3JPMHJiRk9kNnBoZjJieWVqZXFBVjl3MUs2WVpQSTRPV0VJQTJCTm9NU21iLVhraU9tR9IBTEFVX3lxTE0zTXg3Q0NicHQ0cjY5OWpxSlFyNF9fMzg5ZkJMS0lhUE9FSkRuM2RGdm44aGZWMUJYd0pYWGsybENVbDgwNVhiQjNNNzM?oc=5"
         }
       ],
@@ -351,19 +340,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGQk4wQUdYU3YwS2k2NmlPQ041T2RhRkxXWWdLQUNTcU9mVnhKNmtTLW9wejdOMG5DNHJZeDBzTU5CRHNBUG40TVFNNE1VUHh5MVhZQW9OZHZGZU1tZWo4ci0zNlY?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "978c20ac202f",
-      "title": "一位80歲高齡的醫生如何戰勝前列腺癌",
-      "published": "2026-08-09T03:40:00+00:00",
-      "summary": "一位80歲高齡的醫生如何戰勝前列腺癌&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Bb2JYWFpKNkw2MkRIUXRmYVR1SlhPakFwc285elBVZkI2QmhFWGZQZURXckhmdzVELVdmLUctSXQ2aDBFSmt3Ym16UUhISkRoWXZpRzV3Q1ExWU5GNnd30gFkQVVfeXFMT2xzNXNiMGZnZ0xoNmlFSmpLcXpBeXhEbm9vcWpmRW9GVi03cnVGbEhELUo4NFZWT3RLNm0xNjU2Ti1tYmg2M1h0Zmticm53NXRQV1BzS3RqdUZwYzcza01sR0dFdg?oc=5"
         }
       ],
       "matched_keywords": []

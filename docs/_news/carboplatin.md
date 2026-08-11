@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/carboplatin/
 <li><strong>原適應症</strong>：HER2 陽性早期乳癌、轉移性乳癌、黑色素瘤、非小細胞肺癌、何杰金氏淋巴瘤、頭頸部鱗狀細胞癌、泌尿道上皮癌等</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（99.9%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（99.9%）</li>
 <li>rectum mucinous adenocarcinoma（99.3%）</li>
 <li>colon mucinous adenocarcinoma（99.3%）</li>
 <li>adult germ cell tumor（99.2%）</li>
@@ -42,21 +42,13 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sOU95LUdlRjFDclBLMWo2SVhWR1dpME83ZVMza3hzUmVONlRSeThEU3p4YlR2bmFUSjJiN2RGOXhKSVFRVERROWZUMTg?oc=5)
+### [江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%](https://news.google.com/rss/articles/CBMiswJBVV95cUxQdVo5OTdYYnNmRGc3RVd2R1IwR2Q3ZTd1RXgwN3ZmdmdiUGxRa21JMGYwQkd4R0V1b1VGdkFVS041amFsaGppVXFiRXFyeG5Fc2VDZ0E2dGtlZF9LZks1QzdJYmJQYXZ6WWZVMk84dlQtdk1RQXAyM0tMNXV5cmtzSDZzWF9FUmtTQ0xlRmpJTnFMc3JQUkV5ZWR4MVgxOVZ6UDRQRWdmbjRUUkJCUy1QU2JIX1RlNC1CQlJVYnhMVndTclVuOGpBTVl1RmxTazZ6VGZvOUJ0RmczeThEMUhWRXR6WjVHOE5fZUd1b2lDUG9aR2RONUY1OHQxcVpaTUJZZU5iaTc1bXpoMzZVc0N6SXIwQjEtaFg5SkdwV19BQ20tZlo3WFBSSS1VY0pzeGZxU25V?oc=5)
 
 2026-08-11 <span class="news-indication-tag">結腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sOU95LUdlRjFDclBLMWo2SVhWR1dpME83ZVMza3hzUmVONlRSeThEU3p4YlR2bmFUSjJiN2RGOXhKSVFRVERROWZUMTg?oc=5)
-
----
-
-### [調理乳癌體質 醫推4大關鍵營養 | 中華日報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yWks1V1Zoc2JuQWhVdHFSTC11VW9MWDBBQ1Z1RkQ2dkxMS1hVbm8xMFVYT1JacTNNMGwtR0hRaXFQQ1BKVzJLd2w5dDlHRlBMcTVLckdR?oc=5)
-
-2026-08-09 <span class="news-indication-tag">乳癌</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yWks1V1Zoc2JuQWhVdHFSTC11VW9MWDBBQ1Z1RkQ2dkxMS1hVbm8xMFVYT1JacTNNMGwtR0hRaXFQQ1BKVzJLd2w5dDlHRlBMcTVLckdR?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiswJBVV95cUxQdVo5OTdYYnNmRGc3RVd2R1IwR2Q3ZTd1RXgwN3ZmdmdiUGxRa21JMGYwQkd4R0V1b1VGdkFVS041amFsaGppVXFiRXFyeG5Fc2VDZ0E2dGtlZF9LZks1QzdJYmJQYXZ6WWZVMk84dlQtdk1RQXAyM0tMNXV5cmtzSDZzWF9FUmtTQ0xlRmpJTnFMc3JQUkV5ZWR4MVgxOVZ6UDRQRWdmbjRUUkJCUy1QU2JIX1RlNC1CQlJVYnhMVndTclVuOGpBTVl1RmxTazZ6VGZvOUJ0RmczeThEMUhWRXR6WjVHOE5fZUd1b2lDUG9aR2RONUY1OHQxcVpaTUJZZU5iaTc1bXpoMzZVc0N6SXIwQjEtaFg5SkdwV19BQ20tZlo3WFBSSS1VY0pzeGZxU25V?oc=5)
 
 ---
 
