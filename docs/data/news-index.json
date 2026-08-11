@@ -1,7 +1,35 @@
 {
-  "generated": "2026-08-11T14:13:02.059932+00:00",
-  "count": 6,
+  "generated": "2026-08-11T15:51:22.384761+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "c88c3bb16249",
+      "title": "高血壓治療迎來新曙光！研究發現全新作用靶點",
+      "published": "2026-08-11T11:37:00+00:00",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tZ0htaDQxbGJPQUs3RUNIa0dveXhBVDNHcGlvcnFtU1Zwek5NMTI4Y0pubUktU244aDVvSmFWd3lndzlOR2lMV3A2cUd1VkQ3REE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "8a6304960553",
       "title": "精神分裂症大腦突觸廣泛減少 美研究找出可能的「起點」",
