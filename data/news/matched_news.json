@@ -1,16 +1,45 @@
 {
-  "last_updated": "2026-08-11T05:52:32.897098+00:00",
+  "last_updated": "2026-08-11T06:50:24.196825+00:00",
   "total_count": 18,
-  "matched_count": 5,
+  "matched_count": 6,
   "news": [
     {
-      "id": "89e3f3bf6df5",
-      "title": "下眼瞼這條線代表過敏體質？了解丹尼摩根線 逾8成濕疹患者有此皺褶",
-      "published": "2026-08-11T04:00:10+00:00",
-      "summary": "下眼瞼這條線代表過敏體質？了解丹尼摩根線 逾8成濕疹患者有此皺褶&nbsp;&nbsp;stheadline.com",
+      "id": "8a6304960553",
+      "title": "精神分裂症大腦突觸廣泛減少 美研究找出可能的「起點」",
+      "published": "2026-08-11T05:55:00+00:00",
+      "summary": "精神分裂症大腦突觸廣泛減少 美研究找出可能的「起點」&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "stheadline.com",
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tVjJ3WF82RE4tZld4VmtEQXdPdk5BcmtUblQ3SkthQnVRZlRzVkRHQ2JfczE5NG5jQm5KVWRObnlCQ2R4Q2lzM2tGamV6TVdxcDIwdTh6dWxUZndqQlNrMVhYemo?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "schizophrenia",
+          "keyword": "精神分裂症",
+          "related_drugs": [
+            {
+              "slug": "ropinirole",
+              "name": "Ropinirole"
+            },
+            {
+              "slug": "rotigotine",
+              "name": "Rotigotine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "038d44de2976",
+      "title": "下眼瞼這條線代表過敏體質？了解丹尼摩根線 逾8成濕疹患者有此皺褶",
+      "published": "2026-08-11T04:00:10+00:00",
+      "summary": "下眼瞼這條線代表過敏體質？了解丹尼摩根線 逾8成濕疹患者有此皺褶&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNc1dfdUlhdnhocHA1cFU0aEJXMWZOU2p0bmYxaFpXcGtJeXg2Q0MyY19QeVBnbklzUlltLXlNRXcxckQ3TjBzc0Y5TFJGSG1GOEs5aHpKbTNEakNGU0tnOUp3UlA3aUtKMGMzUER1dmk5dlFtNlpEQ3ZpVEZwZXp4UmtPQUlwbVpqM1dHVDF0Z3BhYmh0X0ZiMy0yb1pjS0hTVURjVzdRVHdWdWwtckpyM0Rpb0ZfNWMyWEpEWW9wVi1NOC1rZ193M01hbkxmbHdiVF9GRndDZjRPdDJRTlE2SDAwWVVlWmhvU2k3bEsya3N6ejFTeEdqTWhFZlpsdlM3b0M1NG4zSFRIUXNudHE3OWJTOWNicVIzVHBla2E3UjRZZUZ0Tjc4amZwVVZNb2l4T0hheUdDVG5IaHhRdkFfNGRPNFR1ZzZVSHFkWDFDamUyeWVxUnNsSlVlb0xUa2dnUHNrUHJtYzk4UHQtSEg0VjZkSXVFMkFPb0RuRmhwcS03Wk1JUjkzeGlreGlCNHlkNVlXTTRmcGtTVUlsYkp4U2J2TkZDeUZ5djFVNjlYcTBOaEM1QkdnWQ?oc=5"
         }
       ],
@@ -29,13 +58,13 @@
       ]
     },
     {
-      "id": "083719999ff2",
+      "id": "dade61c61091",
       "title": "江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%",
       "published": "2026-08-11T03:31:44+00:00",
-      "summary": "江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%&nbsp;&nbsp;tw.news.yahoo.com前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQdVo5OTdYYnNmRGc3RVd2R1IwR2Q3ZTd1RXgwN3ZmdmdiUGxRa21JMGYwQkd4R0V1b1VGdkFVS041amFsaGppVXFiRXFyeG5Fc2VDZ0E2dGtlZF9LZks1QzdJYmJQYXZ6WWZVMk84dlQtdk1RQXAyM0tMNXV5cmtzSDZzWF9FUmtTQ0xlRmpJTnFMc3JQUkV5ZWR4MVgxOVZ6UDRQRWdmbjRUUkJCUy1QU2JIX1RlNC1CQlJVYnhMVndTclVuOGpBTVl1RmxTazZ6VGZvOUJ0RmczeThEMUhWRXR6WjVHOE5fZUd1b2lDUG9aR2RONUY1OHQxcVpaTUJZZU5iaTc1bXpoMzZVc0N6SXIwQjEtaFg5SkdwV19BQ20tZlo3WFBSSS1VY0pzeGZxU25V?oc=5"
         }
       ],
@@ -254,19 +283,6 @@
       ]
     },
     {
-      "id": "ba8a4551110d",
-      "title": "健康網》維生素D降呼吸道感染風險！營養師：吃這些可補",
-      "published": "2026-08-09T14:40:54+00:00",
-      "summary": "健康網》維生素D降呼吸道感染風險！營養師：吃這些可補&nbsp;&nbsp;自由健康網台灣人最容易缺這4種營養素！營養師曝「最快補法」&nbsp;&nbsp;ETtoday新聞雲台灣人最缺「這4大營養素」 營養師曝迅速補充法&nbsp;&nbsp;Yahoo新聞國人最缺維生素D！營養師曝4大營養失衡影響補鉀有助降血壓| 2026九合一選舉&nbsp;&nbsp;UDN經痛、掉髮竟是同一原因？女子補維生素D驚見2大改變&nbsp;&nbsp;造咖",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94RFdIdlpab0h0YTZyRUNCNjMxTWlXbzllUTczMzBoODc1SkFyQVpBUXYxcTBSMHFBWFkwRGhxRWxIVWdwZ3RuYzl2VHNtX3lONHpzWHZ0OXFkQTBkQkRraWg5MTQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "8f417cb8dcd3",
       "title": "蓋文斯頓縣報告了一個感染西尼羅河病毒病例",
       "published": "2026-08-09T11:23:00+00:00",
@@ -280,13 +296,13 @@
       "matched_keywords": []
     },
     {
-      "id": "e03c1e55eba8",
+      "id": "e317604735a1",
       "title": "胰臟癌有救了？最新雙重免疫治療研究曝光",
       "published": "2026-08-09T08:59:01+00:00",
-      "summary": "胰臟癌有救了？最新雙重免疫治療研究曝光&nbsp;&nbsp;中天新聞網",
+      "summary": "胰臟癌有救了？最新雙重免疫治療研究曝光&nbsp;&nbsp;ctinews.com",
       "sources": [
         {
-          "name": "中天新聞網",
+          "name": "ctinews.com",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44VlN6akVBblZzMi1HRG1pV0hVNU8xMTlGWlRqMXlGdURCTzBHbWdhM1l3NkVZRlI2bmZKNGdOVTkyRnlLMzl1MHhNbWZmOXdpV1Rv?oc=5"
         }
       ],
@@ -306,27 +322,27 @@
       "matched_keywords": []
     },
     {
-      "id": "70167b0fc939",
+      "id": "b431144a02a2",
       "title": "長戴藍牙耳機導致甲狀腺結節？專家闢謠：兩者無直接關係毋須恐慌",
       "published": "2026-08-09T07:00:26+00:00",
-      "summary": "長戴藍牙耳機導致甲狀腺結節？專家闢謠：兩者無直接關係毋須恐慌&nbsp;&nbsp;香港01",
+      "summary": "長戴藍牙耳機導致甲狀腺結節？專家闢謠：兩者無直接關係毋須恐慌&nbsp;&nbsp;hk01.com",
       "sources": [
         {
-          "name": "香港01",
+          "name": "hk01.com",
           "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNV2RBRUlveTlpWURfQmk1R0dxODk4YkQwQ3hBeXJZaE95QUJSY1ZZbnJVbjRBQndONlJVYjFkTWRqMUFkS29nRTRpUmFleWd2QTdMOUtlRFRVSWxqcG9tZGdFNzg2aDUzWHBFN3UtcWhtRF9CZlMyZEJ0bWtyMjRzeTBMWk1Gc2hIMGJrSEV4MS1OODB5cTZxaUI3dzNTQWR1LTBacWt2a1lxMG1JWHdVQWFxTXR1bW1ZcWZ0M1JBdFV1NGFIWlhUWVd2S2JPemZKcUVvOGxtVkhvMWkzQVh0bk5RcVNQX0thVWc1NzVWLV9OUnE3dnRNbFA3VjdRd2xMeDF1TVlqdmdKQVRPMWJOSmpfWEtFNm5lUld3cGdmZUdsanRUM3BmMlpybzVNWE15SXc1dzVmM2c3Y0lHaGllT0NEVmZfemRIcVVtSmc2NFd0VTdhVVh6bzZpeUUxNlgwZzU5MXdpWHFzZ1FhQVB2bkFvZnVWODJhSDJUVmJFcEZpMzNqa1RGQWxnTzhTNWdpdkFFekFFNFdLTE9Gc1kzNFlxWTRaSVpia2ZTRGtMckJYWEg2T29DVjJET2pIZ3RiaWtod3ZxVHo?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "1b9aca7a0a75",
-      "title": "長期食茶葉蛋會傷腎？專家拆解2大迷思「高鈉是隱藏危機」附安全食用建議",
-      "published": "2026-08-09T05:00:06+00:00",
-      "summary": "長期食茶葉蛋會傷腎？專家拆解2大迷思「高鈉是隱藏危機」附安全食用建議&nbsp;&nbsp;stheadline.com",
+      "id": "ba8a4551110d",
+      "title": "健康網》維生素D降呼吸道感染風險！營養師：吃這些可補",
+      "published": "2026-08-09T07:00:00+00:00",
+      "summary": "健康網》維生素D降呼吸道感染風險！營養師：吃這些可補&nbsp;&nbsp;自由健康網台灣人最容易缺這4種營養素！營養師曝「最快補法」&nbsp;&nbsp;ETtoday新聞雲台灣人最缺「這4大營養素」 營養師曝迅速補充法&nbsp;&nbsp;tw.news.yahoo.com國人最缺維生素D！營養師曝4大營養失衡影響補鉀有助降血壓| 2026九合一選舉&nbsp;&nbsp;UDN經痛、掉髮竟是同一原因？女子補維生素D驚見2大改變&nbsp;&nbsp;造咖",
       "sources": [
         {
-          "name": "stheadline.com",
-          "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxOM0pvR2ZTUW9mOFZBbjRwbWdldXBMRlNNSlNqTEtrLVpFcDNrWGMyVzhDOFBHWFNQZ0YzZVVsWkJFLUljY3AxbVVkNVIxdHZRbTRGcFJHdmFaR09hdjFMX2hUY284MDFEVHNGZHBhc1A3WExlMm41ODBaVUF1T2pmMkdPejlaU1VzZzFUNlI3U3NDNHZ5NU5pRkhYTGZkUFdELTFHYkllNF9UbzJrZnM4NUhOU0RrWm1PSEVBRUpxMXdCT2ZDdEZXT1RrZTZQNFBQRHd4YzA2ZnMxd1FvenFwUU44U1lEb3BKNlNxVnByUDhaME5YSlZGLWpnb3NrdURNMS0xZDBPczhOWjlGOGsyU1lWVXE1aXNlZlEwbkxGWGlldkJfRFMxTjZvb0V5bm5RWW9sQ01pZGkxZDAtN1p0dnY5WW5zVFlObEpSdEhxWi1WY3lrR0NTTDRPTThXNWhSazRmUVVnQkxkVnFVc3E3cFdqc3BhMDBTYlJqTjlGelRJdFY2a3YxU0FOYzVrcXRKMmtDd2JtWVJTR2JDcXFNdC13TmZGMHdSV2xfNHpPbnY4bTEtTGNzaWxBbm9rdk5lc0RsVw?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94RFdIdlpab0h0YTZyRUNCNjMxTWlXbzllUTczMzBoODc1SkFyQVpBUXYxcTBSMHFBWFkwRGhxRWxIVWdwZ3RuYzl2VHNtX3lONHpzWHZ0OXFkQTBkQkRraWg5MTQ?oc=5"
         }
       ],
       "matched_keywords": []
