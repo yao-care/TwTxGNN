@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sOU95LUdlRjFDclBLMWo2SVhWR1dpME83ZVMza3hzUmVONlRSeThEU3p4YlR2bmFUSjJiN2RGOXhKSVFRVERROWZUMTg?oc=5)
+
+2026-08-11 <span class="news-indication-tag">結腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sOU95LUdlRjFDclBLMWo2SVhWR1dpME83ZVMza3hzUmVONlRSeThEU3p4YlR2bmFUSjJiN2RGOXhKSVFRVERROWZUMTg?oc=5)
+
+---
 
 ### [調理乳癌體質 醫推4大關鍵營養 | 中華日報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yWks1V1Zoc2JuQWhVdHFSTC11VW9MWDBBQ1Z1RkQ2dkxMS1hVbm8xMFVYT1JacTNNMGwtR0hRaXFQQ1BKVzJLd2w5dDlHRlBMcTVLckdR?oc=5)
 

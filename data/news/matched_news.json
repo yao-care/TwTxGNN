@@ -1,8 +1,107 @@
 {
-  "last_updated": "2026-08-11T01:01:45.563545+00:00",
-  "total_count": 16,
-  "matched_count": 3,
+  "last_updated": "2026-08-11T03:26:17.263672+00:00",
+  "total_count": 19,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "ae1f447b90b4",
+      "title": "江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%",
+      "published": "2026-08-11T03:13:56+00:00",
+      "summary": "江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%&nbsp;&nbsp;三立新聞健康網》抗癌多一招！ 醫揭10分鐘高強度運動能抑制癌細胞&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sOU95LUdlRjFDclBLMWo2SVhWR1dpME83ZVMza3hzUmVONlRSeThEU3p4YlR2bmFUSjJiN2RGOXhKSVFRVERROWZUMTg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "結腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ddb940f34567",
+      "title": "網傳：「麵筋比雞蛋更強！膠原蛋白是雞蛋的 8.2 倍」為部分正確",
+      "published": "2026-08-11T03:09:27+00:00",
+      "summary": "網傳：「麵筋比雞蛋更強！膠原蛋白是雞蛋的 8.2 倍」為部分正確&nbsp;&nbsp;全民查假會社",
+      "sources": [
+        {
+          "name": "全民查假會社",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GLTBveXNZRkFrSFNLOUhiNzhkN0s0cDdLY0taUUdhWHlQeTBFWEhFREw4d3J0UmlGX195RGxlbkJBVzB5ak5nTE02dw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9cb8d1325c58",
+      "title": "看診戴3層防護也中鏢！醫「鎖喉咳濃痰」虛弱認了：錯誤示範",
+      "published": "2026-08-11T02:05:00+00:00",
+      "summary": "看診戴3層防護也中鏢！醫「鎖喉咳濃痰」虛弱認了：錯誤示範&nbsp;&nbsp;ETtoday健康雲",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DTHN4NGVzdElSLTdFNGw5eGo5Tm1pMzBodElZWnJoRVgtZHRSek5jOFh5MzRMR3Jzc1d5a0ZSLXJaTFEwbVMyQVNVVHdKTlJq0gFPQVVfeXFMTTJBVUVBU3E2bmdRX1ZBdjI0TWRudWE0ZnlsRjI3aHlJaUlOdWVsVUs4ZFQxWjFlV1RJVDJiWldGY2xaQUVFQW5nc3pTdlQ5SQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4eccf6cdbd4a",
+      "title": "蒿草過敏別當感冒治",
+      "published": "2026-08-11T01:47:41+00:00",
+      "summary": "蒿草過敏別當感冒治&nbsp;&nbsp;紫荊雜誌",
+      "sources": [
+        {
+          "name": "紫荊雜誌",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYlpvTzA3TDdkdkNaNWxXTkxoZ0MyODV6VnpKTWh4WUxQYTRQbERadGdHODVhR0FGa3RCYkpURWprOV83b2xtS1Z6bGo1VUV2NEdqTzhZTGhDeDhNbHlLNThYbjA5aG14VDJ1MEpyVWZTU2c1a3FQM09wUUR2NVdfTVE5cDJuOGxSRGlpZGZsdU0?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1292cf3bae17",
       "title": "沒有錢的壓力會傷大腦！醫揭：長期皮質醇升高恐加速記憶衰退- 書房",
@@ -43,14 +142,14 @@
       "matched_keywords": []
     },
     {
-      "id": "201046d47939",
+      "id": "430a2093e614",
       "title": "研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防",
       "published": "2026-08-10T03:56:42+00:00",
-      "summary": "研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防&nbsp;&nbsp;元氣網高達45%失智可預防！WHO最新指南：日常生活做好「這6件事」就有效&nbsp;&nbsp;天下雜誌中年做好「這3件事」 有機會延緩失智症13年&nbsp;&nbsp;自由健康網45歲後是關鍵！研究曝「做好3件事」可多13年不失智- 國際&nbsp;&nbsp;中時新聞網避開三大風險因素 認知障礙症可延13年發病&nbsp;&nbsp;Singtaousa",
+      "summary": "研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防&nbsp;&nbsp;元氣網前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVSkpLR0YxOFdYdjhyQ29fN25kY1VqaHNVdVcyYmh0R0lhNjZfU25hMGZTalJVeTNUT1FWNTluNzQyREw4YXRlbVBRdXdpTFNsT2NHdW9IcTR6VnNwTWfSAWNBVV95cUxPZGQxWG0tNl9LSE5oZ2ZyM1hUbnBWRUVUcjFOM0tvREd3dUNfbEJNbkFkYlRHRmFzU1ZqOWdWVjFHYURLYktZQlpuYW1obVVadkJENkIxcEdUeDNaZUtXQURkck0?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTdIBY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTQ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -115,6 +214,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "ba8a4551110d",
+      "title": "健康網》維生素D降呼吸道感染風險！營養師：吃這些可補",
+      "published": "2026-08-09T14:40:54+00:00",
+      "summary": "健康網》維生素D降呼吸道感染風險！營養師：吃這些可補&nbsp;&nbsp;自由健康網台灣人最容易缺這4種營養素！營養師曝「最快補法」&nbsp;&nbsp;ETtoday新聞雲台灣人最缺「這4大營養素」 營養師曝迅速補充法&nbsp;&nbsp;Yahoo新聞國人最缺維生素D！營養師曝4大營養失衡影響補鉀有助降血壓| 2026九合一選舉&nbsp;&nbsp;UDN經痛、掉髮竟是同一原因？女子補維生素D驚見2大改變&nbsp;&nbsp;造咖",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94RFdIdlpab0h0YTZyRUNCNjMxTWlXbzllUTczMzBoODc1SkFyQVpBUXYxcTBSMHFBWFkwRGhxRWxIVWdwZ3RuYzl2VHNtX3lONHpzWHZ0OXFkQTBkQkRraWg5MTQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "8f417cb8dcd3",
@@ -205,13 +317,13 @@
       "matched_keywords": []
     },
     {
-      "id": "b431144a02a2",
+      "id": "70167b0fc939",
       "title": "長戴藍牙耳機導致甲狀腺結節？專家闢謠：兩者無直接關係毋須恐慌",
       "published": "2026-08-09T07:00:26+00:00",
-      "summary": "長戴藍牙耳機導致甲狀腺結節？專家闢謠：兩者無直接關係毋須恐慌&nbsp;&nbsp;hk01.com",
+      "summary": "長戴藍牙耳機導致甲狀腺結節？專家闢謠：兩者無直接關係毋須恐慌&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "hk01.com",
+          "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNV2RBRUlveTlpWURfQmk1R0dxODk4YkQwQ3hBeXJZaE95QUJSY1ZZbnJVbjRBQndONlJVYjFkTWRqMUFkS29nRTRpUmFleWd2QTdMOUtlRFRVSWxqcG9tZGdFNzg2aDUzWHBFN3UtcWhtRF9CZlMyZEJ0bWtyMjRzeTBMWk1Gc2hIMGJrSEV4MS1OODB5cTZxaUI3dzNTQWR1LTBacWt2a1lxMG1JWHdVQWFxTXR1bW1ZcWZ0M1JBdFV1NGFIWlhUWVd2S2JPemZKcUVvOGxtVkhvMWkzQVh0bk5RcVNQX0thVWc1NzVWLV9OUnE3dnRNbFA3VjdRd2xMeDF1TVlqdmdKQVRPMWJOSmpfWEtFNm5lUld3cGdmZUdsanRUM3BmMlpybzVNWE15SXc1dzVmM2c3Y0lHaGllT0NEVmZfemRIcVVtSmc2NFd0VTdhVVh6bzZpeUUxNlgwZzU5MXdpWHFzZ1FhQVB2bkFvZnVWODJhSDJUVmJFcEZpMzNqa1RGQWxnTzhTNWdpdkFFekFFNFdLTE9Gc1kzNFlxWTRaSVpia2ZTRGtMckJYWEg2T29DVjJET2pIZ3RiaWtod3ZxVHo?oc=5"
         }
       ],
@@ -252,32 +364,6 @@
         {
           "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Bb2JYWFpKNkw2MkRIUXRmYVR1SlhPakFwc285elBVZkI2QmhFWGZQZURXckhmdzVELVdmLUctSXQ2aDBFSmt3Ym16UUhISkRoWXZpRzV3Q1ExWU5GNnd30gFkQVVfeXFMT2xzNXNiMGZnZ0xoNmlFSmpLcXpBeXhEbm9vcWpmRW9GVi03cnVGbEhELUo4NFZWT3RLNm0xNjU2Ti1tYmg2M1h0Zmticm53NXRQV1BzS3RqdUZwYzcza01sR0dFdg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5320b6aa327a",
-      "title": "台灣人最缺「這4大營養素」 營養師曝迅速補充法",
-      "published": "2026-08-09T02:56:42+00:00",
-      "summary": "台灣人最缺「這4大營養素」 營養師曝迅速補充法&nbsp;&nbsp;Yahoo新聞台灣人最容易缺這4種營養素！營養師曝「最快補法」&nbsp;&nbsp;ETtoday新聞雲國人最缺維生素D！營養師曝4大營養失衡影響補鉀有助降血壓| 2026九合一選舉&nbsp;&nbsp;udn.com健康網》維生素D降呼吸道感染風險！營養師：吃這些可補&nbsp;&nbsp;自由健康網經痛、掉髮竟是同一原因？女子補維生素D驚見2大改變&nbsp;&nbsp;造咖",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNdm5KN1JQYXR0Z2VNWEx2MWVsSkNoTVZBOGhXanktX1ZWSW01OUw3LWRjU0hGUE9sM3pQRndRNkowSHJ0VFE0YmFNV3hRUVZhZ3J1ZkJIYUI4X1JpTHJMVDdHWXRBRGN0TmF5emhDS0lfUU03RWJBM3MwbGJMeFMtVEdHMlJNT1lRN0k1VHBQa2E0QThoQlF2X0ljSHB0X1c3Sk5DVXR6WnJaR1FRaThROFFTNndPdVhERVI3c2FKM2dXT1A4UzdYdzVNcjBFS1d5SThCY2JxdmdHSjlTYnV3MkJjYlRRb3RWM0tIUE1VbndGV3FlOGRiRnJ6ZUUyc19rR1FpN2tDTU1nUnd5UndtZGFuYlc0WnhWUjFiQWRSYmxWNVlDbXg5eWRRUzJBUUNBRzg5RW1NMzVxZDQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "127c11c71ec2",
-      "title": "運動不只讓心臟更強壯，還會重塑心臟的神經網路 | 科技新報 - LINE TODAY",
-      "published": "2026-08-09T00:31:52+00:00",
-      "summary": "運動不只讓心臟更強壯，還會重塑心臟的神經網路 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lRXBfY3JHcHRRZEZOeTFpR0lJbDFlS2hsdUMzZDdfR085MWJhWloydVdLenRPTXMwOGxkTDR0Q3lDMlhpSDM5Yy1ZS2pDREVSU2dfRmFn?oc=5"
         }
       ],
       "matched_keywords": []

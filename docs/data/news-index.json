@@ -1,15 +1,86 @@
 {
-  "generated": "2026-08-11T01:01:45.582047+00:00",
-  "count": 3,
+  "generated": "2026-08-11T03:26:17.293306+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "201046d47939",
+      "id": "ae1f447b90b4",
+      "title": "江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%",
+      "published": "2026-08-11T03:13:56+00:00",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sOU95LUdlRjFDclBLMWo2SVhWR1dpME83ZVMza3hzUmVONlRSeThEU3p4YlR2bmFUSjJiN2RGOXhKSVFRVERROWZUMTg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "結腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4eccf6cdbd4a",
+      "title": "蒿草過敏別當感冒治",
+      "published": "2026-08-11T01:47:41+00:00",
+      "sources": [
+        {
+          "name": "紫荊雜誌",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYlpvTzA3TDdkdkNaNWxXTkxoZ0MyODV6VnpKTWh4WUxQYTRQbERadGdHODVhR0FGa3RCYkpURWprOV83b2xtS1Z6bGo1VUV2NEdqTzhZTGhDeDhNbHlLNThYbjA5aG14VDJ1MEpyVWZTU2c1a3FQM09wUUR2NVdfTVE5cDJuOGxSRGlpZGZsdU0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "430a2093e614",
       "title": "研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防",
       "published": "2026-08-10T03:56:42+00:00",
       "sources": [
         {
           "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVSkpLR0YxOFdYdjhyQ29fN25kY1VqaHNVdVcyYmh0R0lhNjZfU25hMGZTalJVeTNUT1FWNTluNzQyREw4YXRlbVBRdXdpTFNsT2NHdW9IcTR6VnNwTWfSAWNBVV95cUxPZGQxWG0tNl9LSE5oZ2ZyM1hUbnBWRUVUcjFOM0tvREd3dUNfbEJNbkFkYlRHRmFzU1ZqOWdWVjFHYURLYktZQlpuYW1obVVadkJENkIxcEdUeDNaZUtXQURkck0?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTdIBY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTQ?oc=5"
         }
       ],
       "keywords": [
