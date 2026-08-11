@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-11T09:51:44.781954+00:00",
-  "total_count": 18,
+  "last_updated": "2026-08-11T10:41:47.663480+00:00",
+  "total_count": 19,
   "matched_count": 6,
   "news": [
     {
@@ -158,26 +158,26 @@
       ]
     },
     {
-      "id": "34e5a8198f04",
+      "id": "ddb940f34567",
       "title": "網傳：「麵筋比雞蛋更強！膠原蛋白是雞蛋的 8.2 倍」為部分正確",
       "published": "2026-08-11T03:09:27+00:00",
-      "summary": "網傳：「麵筋比雞蛋更強！膠原蛋白是雞蛋的 8.2 倍」為部分正確&nbsp;&nbsp;tstm.tw",
+      "summary": "網傳：「麵筋比雞蛋更強！膠原蛋白是雞蛋的 8.2 倍」為部分正確&nbsp;&nbsp;全民查假會社",
       "sources": [
         {
-          "name": "tstm.tw",
+          "name": "全民查假會社",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GLTBveXNZRkFrSFNLOUhiNzhkN0s0cDdLY0taUUdhWHlQeTBFWEhFREw4d3J0UmlGX195RGxlbkJBVzB5ak5nTE02dw?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "4eccf6cdbd4a",
+      "id": "200e10ab09d4",
       "title": "蒿草過敏別當感冒治",
       "published": "2026-08-11T01:47:41+00:00",
-      "summary": "蒿草過敏別當感冒治&nbsp;&nbsp;紫荊雜誌",
+      "summary": "蒿草過敏別當感冒治&nbsp;&nbsp;bau.com.hk",
       "sources": [
         {
-          "name": "紫荊雜誌",
+          "name": "bau.com.hk",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYlpvTzA3TDdkdkNaNWxXTkxoZ0MyODV6VnpKTWh4WUxQYTRQbERadGdHODVhR0FGa3RCYkpURWprOV83b2xtS1Z6bGo1VUV2NEdqTzhZTGhDeDhNbHlLNThYbjA5aG14VDJ1MEpyVWZTU2c1a3FQM09wUUR2NVdfTVE5cDJuOGxSRGlpZGZsdU0?oc=5"
         }
       ],
@@ -282,6 +282,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "8639d8e3c2d4",
+      "title": "胃食道逆流反覆發作？恐是橫膈膜裂孔疝氣惹禍",
+      "published": "2026-08-10T03:08:09+00:00",
+      "summary": "胃食道逆流反覆發作？恐是橫膈膜裂孔疝氣惹禍&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQckhKR2xXbGEzSVhxYnJyaDdBVlg1VVljTGN0SV9VblRiR1NSOEQ0YWVWTmdVWXhaYkZpV2szTm8yaGwyM0dRUFBtLWpOX1Z0VnNvWGJsWHhJa0FWLS1uMS1taEZKN2JkWnhrV1g4N1Y0Nm45N29DZkRDZFg5UkZnRmloOV9NSEh0aktEeHZ4a0RORXJNRmZMYWxzcEsyOVI1c3p1UlVETE1tdVJ4MGNmTW5fR0FYdnlQWGNFYmQ5LWFySVJ5VUxKTTd5WmJ3SGJaRDFKU2pRZEN3Uy1NQ1pFbnlLTmQ2RGtBSFdmM1BKZHhWMHBMYUJtQ05EaWNmWFBQa0w4VjdPenZUWjN6cF9xQmN6bEZwVHcxTGhPbDdZcDR2bVFCZUVxOWpocER2TWFHZWMwcS1zQ3hvc1V4UkMwY0lRVmw?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "0f144499367c",
