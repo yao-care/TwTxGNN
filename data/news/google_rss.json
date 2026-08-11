@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-11T16:47:52.670175+00:00",
+  "fetched_at": "2026-08-11T17:49:41.045240+00:00",
   "count": 19,
   "news": [
     {
@@ -100,18 +100,6 @@
       ]
     },
     {
-      "id": "ddb940f34567",
-      "title": "網傳：「麵筋比雞蛋更強！膠原蛋白是雞蛋的 8.2 倍」為部分正確 - 全民查假會社",
-      "published": "2026-08-11T03:09:27+00:00",
-      "summary": "網傳：「麵筋比雞蛋更強！膠原蛋白是雞蛋的 8.2 倍」為部分正確&nbsp;&nbsp;全民查假會社",
-      "sources": [
-        {
-          "name": "全民查假會社",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GLTBveXNZRkFrSFNLOUhiNzhkN0s0cDdLY0taUUdhWHlQeTBFWEhFREw4d3J0UmlGX195RGxlbkJBVzB5ak5nTE02dw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8639d8e3c2d4",
       "title": "胃食道逆流反覆發作？恐是橫膈膜裂孔疝氣惹禍 - Yahoo新聞",
       "published": "2026-08-10T03:08:09+00:00",
@@ -120,6 +108,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQckhKR2xXbGEzSVhxYnJyaDdBVlg1VVljTGN0SV9VblRiR1NSOEQ0YWVWTmdVWXhaYkZpV2szTm8yaGwyM0dRUFBtLWpOX1Z0VnNvWGJsWHhJa0FWLS1uMS1taEZKN2JkWnhrV1g4N1Y0Nm45N29DZkRDZFg5UkZnRmloOV9NSEh0aktEeHZ4a0RORXJNRmZMYWxzcEsyOVI1c3p1UlVETE1tdVJ4MGNmTW5fR0FYdnlQWGNFYmQ5LWFySVJ5VUxKTTd5WmJ3SGJaRDFKU2pRZEN3Uy1NQ1pFbnlLTmQ2RGtBSFdmM1BKZHhWMHBMYUJtQ05EaWNmWFBQa0w4VjdPenZUWjN6cF9xQmN6bEZwVHcxTGhPbDdZcDR2bVFCZUVxOWpocER2TWFHZWMwcS1zQ3hvc1V4UkMwY0lRVmw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ddb940f34567",
+      "title": "網傳：「麵筋比雞蛋更強！膠原蛋白是雞蛋的 8.2 倍」為部分正確 - 全民查假會社",
+      "published": "2026-08-11T03:09:27+00:00",
+      "summary": "網傳：「麵筋比雞蛋更強！膠原蛋白是雞蛋的 8.2 倍」為部分正確&nbsp;&nbsp;全民查假會社",
+      "sources": [
+        {
+          "name": "全民查假會社",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GLTBveXNZRkFrSFNLOUhiNzhkN0s0cDdLY0taUUdhWHlQeTBFWEhFREw4d3J0UmlGX195RGxlbkJBVzB5ak5nTE02dw?oc=5"
         }
       ]
     },
@@ -148,13 +148,13 @@
       ]
     },
     {
-      "id": "1005785407c0",
-      "title": "護肝｜營養補充品愈補愈傷肝 研究揭這種維他命食太多可致肝衰竭 - am730.com.hk",
+      "id": "805343a18c20",
+      "title": "護肝｜營養補充品愈補愈傷肝 研究揭這種維他命食太多可致肝衰竭 - AM730",
       "published": "2026-08-10T07:30:00+00:00",
-      "summary": "護肝｜營養補充品愈補愈傷肝 研究揭這種維他命食太多可致肝衰竭&nbsp;&nbsp;am730.com.hk",
+      "summary": "護肝｜營養補充品愈補愈傷肝 研究揭這種維他命食太多可致肝衰竭&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730.com.hk",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxPeGt1SDhoMTR0XzJwdkgxSS1ydTVsajhfaUw0c1JYbDFzb2dFcWVSaS1VX2MyZVhMUlNnWHhMY05zb2Rwa2lqTWZkTFA2bE9NSEpwSG14WnlVSFlVTTRTMUxza1RBRnBIaS0zcGxJeHZBd1RlZjhPOXNnb2MwNjZwN3NTTnpseU9SblZoa2ItYVVtU09mQlBjOHc2djB2ZEV1U2gxQW50VWpXbGI3UkE3bVl2aUFZM2dHYnM0N3hVLVZ2Y0l1bzNNMGNqRHFXMElfb1k4ZzhJSjVYcEFQZUFhVmRHeW9iVzhqblcwbUlJWF9SX3BZQVJXZl93Q3Zwd0p2cDNqTlA0Q0ZqMTVXSGU0RlpaZ2tCcVJzUnprOFNBa1IyZXM0MndGbWZGSjdRWjVyVkIxMHlRZkpfa3I3MDVGd3NIODM3N3ozVG8yTGhHcTJMVmpHWE1mVUp1NU5iMEVQN1JpbFlSSEUxaUJWcUZ1TEZjTEVYZjRGNXFKbDcwRG9od0lLZ1dTek1ncFB6Q0tMeDRnYTNuUWlBMkZmamJjV1E5dE5KZkwxU1FPU2RWdDVheXBh?oc=5"
         }
       ]
@@ -208,13 +208,13 @@
       ]
     },
     {
-      "id": "038d44de2976",
-      "title": "下眼瞼這條線代表過敏體質？了解丹尼摩根線 逾8成濕疹患者有此皺褶 - 星島頭條",
+      "id": "89e3f3bf6df5",
+      "title": "下眼瞼這條線代表過敏體質？了解丹尼摩根線 逾8成濕疹患者有此皺褶 - stheadline.com",
       "published": "2026-08-11T04:00:10+00:00",
-      "summary": "下眼瞼這條線代表過敏體質？了解丹尼摩根線 逾8成濕疹患者有此皺褶&nbsp;&nbsp;星島頭條",
+      "summary": "下眼瞼這條線代表過敏體質？了解丹尼摩根線 逾8成濕疹患者有此皺褶&nbsp;&nbsp;stheadline.com",
       "sources": [
         {
-          "name": "星島頭條",
+          "name": "stheadline.com",
           "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNc1dfdUlhdnhocHA1cFU0aEJXMWZOU2p0bmYxaFpXcGtJeXg2Q0MyY19QeVBnbklzUlltLXlNRXcxckQ3TjBzc0Y5TFJGSG1GOEs5aHpKbTNEakNGU0tnOUp3UlA3aUtKMGMzUER1dmk5dlFtNlpEQ3ZpVEZwZXp4UmtPQUlwbVpqM1dHVDF0Z3BhYmh0X0ZiMy0yb1pjS0hTVURjVzdRVHdWdWwtckpyM0Rpb0ZfNWMyWEpEWW9wVi1NOC1rZ193M01hbkxmbHdiVF9GRndDZjRPdDJRTlE2SDAwWVVlWmhvU2k3bEsya3N6ejFTeEdqTWhFZlpsdlM3b0M1NG4zSFRIUXNudHE3OWJTOWNicVIzVHBla2E3UjRZZUZ0Tjc4amZwVVZNb2l4T0hheUdDVG5IaHhRdkFfNGRPNFR1ZzZVSHFkWDFDamUyeWVxUnNsSlVlb0xUa2dnUHNrUHJtYzk4UHQtSEg0VjZkSXVFMkFPb0RuRmhwcS03Wk1JUjkzeGlreGlCNHlkNVlXTTRmcGtTVUlsYkp4U2J2TkZDeUZ5djFVNjlYcTBOaEM1QkdnWQ?oc=5"
         }
       ]
