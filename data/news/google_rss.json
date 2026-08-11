@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-11T20:34:47.548853+00:00",
+  "fetched_at": "2026-08-11T21:35:50.932993+00:00",
   "count": 18,
   "news": [
     {
@@ -12,6 +12,18 @@
         {
           "name": "蕃新聞",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tZ0htaDQxbGJPQUs3RUNIa0dveXhBVDNHcGlvcnFtU1Zwek5NMTI4Y0pubUktU244aDVvSmFWd3lndzlOR2lMV3A2cUd1VkQ3REE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "46702dc64404",
+      "title": "腹痛久沒好！他查出胃食道逆流 源頭竟是1少見黴菌作祟 - 中時新聞網",
+      "published": "2026-08-10T06:44:15+00:00",
+      "summary": "腹痛久沒好！他查出胃食道逆流 源頭竟是1少見黴菌作祟&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VMjYyOW8zNWliSkg4c2Mwbjg0SC1NYlZNWWRwd1RIemNEWWV6TTJjZjljTWZqdU5zNmhiQ21yTmYxdTUzek1DSlNDZVFUSWV5Q2VMTXo3WDB2NjctZC1MRW54SmxLc1BxejFNOS13?oc=5"
         }
       ]
     },
@@ -88,18 +100,6 @@
       ]
     },
     {
-      "id": "8639d8e3c2d4",
-      "title": "胃食道逆流反覆發作？恐是橫膈膜裂孔疝氣惹禍 - Yahoo新聞",
-      "published": "2026-08-10T03:08:09+00:00",
-      "summary": "胃食道逆流反覆發作？恐是橫膈膜裂孔疝氣惹禍&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQckhKR2xXbGEzSVhxYnJyaDdBVlg1VVljTGN0SV9VblRiR1NSOEQ0YWVWTmdVWXhaYkZpV2szTm8yaGwyM0dRUFBtLWpOX1Z0VnNvWGJsWHhJa0FWLS1uMS1taEZKN2JkWnhrV1g4N1Y0Nm45N29DZkRDZFg5UkZnRmloOV9NSEh0aktEeHZ4a0RORXJNRmZMYWxzcEsyOVI1c3p1UlVETE1tdVJ4MGNmTW5fR0FYdnlQWGNFYmQ5LWFySVJ5VUxKTTd5WmJ3SGJaRDFKU2pRZEN3Uy1NQ1pFbnlLTmQ2RGtBSFdmM1BKZHhWMHBMYUJtQ05EaWNmWFBQa0w4VjdPenZUWjN6cF9xQmN6bEZwVHcxTGhPbDdZcDR2bVFCZUVxOWpocER2TWFHZWMwcS1zQ3hvc1V4UkMwY0lRVmw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9e33e7bb9e07",
       "title": "健康新視界》吃對食物 有助提升年長者疫苗效果？（潘懷宗） - 中時新聞網",
       "published": "2026-08-11T03:30:14+00:00",
@@ -160,13 +160,13 @@
       ]
     },
     {
-      "id": "6904e76ceea6",
-      "title": "研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防 - health.udn.com",
+      "id": "430a2093e614",
+      "title": "研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防 - 元氣網",
       "published": "2026-08-10T03:56:42+00:00",
-      "summary": "研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防&nbsp;&nbsp;health.udn.com前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防&nbsp;&nbsp;元氣網前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "health.udn.com",
+          "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTdIBY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTQ?oc=5"
         }
       ]
@@ -208,13 +208,13 @@
       ]
     },
     {
-      "id": "038d44de2976",
-      "title": "下眼瞼這條線代表過敏體質？了解丹尼摩根線 逾8成濕疹患者有此皺褶 - 星島頭條",
+      "id": "89e3f3bf6df5",
+      "title": "下眼瞼這條線代表過敏體質？了解丹尼摩根線 逾8成濕疹患者有此皺褶 - stheadline.com",
       "published": "2026-08-11T04:00:10+00:00",
-      "summary": "下眼瞼這條線代表過敏體質？了解丹尼摩根線 逾8成濕疹患者有此皺褶&nbsp;&nbsp;星島頭條",
+      "summary": "下眼瞼這條線代表過敏體質？了解丹尼摩根線 逾8成濕疹患者有此皺褶&nbsp;&nbsp;stheadline.com",
       "sources": [
         {
-          "name": "星島頭條",
+          "name": "stheadline.com",
           "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNc1dfdUlhdnhocHA1cFU0aEJXMWZOU2p0bmYxaFpXcGtJeXg2Q0MyY19QeVBnbklzUlltLXlNRXcxckQ3TjBzc0Y5TFJGSG1GOEs5aHpKbTNEakNGU0tnOUp3UlA3aUtKMGMzUER1dmk5dlFtNlpEQ3ZpVEZwZXp4UmtPQUlwbVpqM1dHVDF0Z3BhYmh0X0ZiMy0yb1pjS0hTVURjVzdRVHdWdWwtckpyM0Rpb0ZfNWMyWEpEWW9wVi1NOC1rZ193M01hbkxmbHdiVF9GRndDZjRPdDJRTlE2SDAwWVVlWmhvU2k3bEsya3N6ejFTeEdqTWhFZlpsdlM3b0M1NG4zSFRIUXNudHE3OWJTOWNicVIzVHBla2E3UjRZZUZ0Tjc4amZwVVZNb2l4T0hheUdDVG5IaHhRdkFfNGRPNFR1ZzZVSHFkWDFDamUyeWVxUnNsSlVlb0xUa2dnUHNrUHJtYzk4UHQtSEg0VjZkSXVFMkFPb0RuRmhwcS03Wk1JUjkzeGlreGlCNHlkNVlXTTRmcGtTVUlsYkp4U2J2TkZDeUZ5djFVNjlYcTBOaEM1QkdnWQ?oc=5"
         }
       ]
