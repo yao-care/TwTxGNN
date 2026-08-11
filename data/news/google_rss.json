@@ -1,8 +1,44 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-11T08:03:32.867227+00:00",
-  "count": 19,
+  "fetched_at": "2026-08-11T09:51:38.330754+00:00",
+  "count": 18,
   "news": [
+    {
+      "id": "e1c540f403fe",
+      "title": "英格蘭有望成為首批消除丙型肝炎的國家之一 - gamereactor.cn",
+      "published": "2026-08-11T08:45:54+00:00",
+      "summary": "英格蘭有望成為首批消除丙型肝炎的國家之一&nbsp;&nbsp;gamereactor.cn",
+      "sources": [
+        {
+          "name": "gamereactor.cn",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWVhOElrSnFSVXhkbXgydXBVd1J6bWYyMTM3UV9POFNUZzM4a19razc1Wk40MDU3SHBHWmZHMjdlVGdCeGV0dkI5ak1Zb01CdVhRcUZJdEtBOFZiREV6Vll6am9QZU1ZUVhhcXFHN3R0cXE0ckJ2SlVzdTgxYkVsYnJTbmt0TllTZUFBSGNtOWtjM0Q1RmdFSFkyOXRDNjNZUkhyaTBWc2YwSDEwYkw0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6c41a6da4ce4",
+      "title": "癌細胞轉移靠膽固醇，威而鋼成分意外扮演剋星 - TechNews 科技新報",
+      "published": "2026-08-11T08:32:41+00:00",
+      "summary": "癌細胞轉移靠膽固醇，威而鋼成分意外扮演剋星&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSjJwMEVhYlNNZ1lXZlhrckxUOGUxdXIwU2tmdEN6TkdBbktyNkJqR2hnQzZueDhqUjI4WHEwdGV3UWhxYTZITkdGSHlDal9fNzk5enNvblp3cVBiTHNqdHhUQjZ1Y011Wno3YlFlRGRBdEtSNHk0cWRGbmVfRm9oVlU5MGhWUF9mMGQ2QWxMN2JCNjhDT2FMRA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "63fb1e0bd4f9",
+      "title": "iRocks T36 人體工學椅雙色開箱 / 晨光綠、丹寧藍簡約質感，4D 扶手與舒適支撐兼具 - XFastest News",
+      "published": "2026-08-11T01:07:50+00:00",
+      "summary": "iRocks T36 人體工學椅雙色開箱 / 晨光綠、丹寧藍簡約質感，4D 扶手與舒適支撐兼具&nbsp;&nbsp;XFastest News",
+      "sources": [
+        {
+          "name": "XFastest News",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54eTAxNjFmYmRjYWZaNU5fc2xjWHBkS0RYd01WRlpmNzJuZkVZUExmcnJBcWM2dVp0TWlHdThVTzBfM2p1MlRETEpHeGZmSldfV1pTUEloSjNPZXpIOHFuWg?oc=5"
+        }
+      ]
+    },
     {
       "id": "007fa53951bf",
       "title": "吃得一樣多甚至更多仍減脂！ 美研究揭長壽飲食保肌關鍵 - 自由健康網",
@@ -12,6 +48,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hR0E1WUZOSThMNzM0enRJcVpCbm5SNEFZTkZYZlBYaVFJNklSYkZqUTE3YTRmZWRpUWt1NElzNUxyLXAwRFBEOFlxX1E0WDNoeE1MT2VvTERoYTNRYVZacUZxYW4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1292cf3bae17",
+      "title": "沒有錢的壓力會傷大腦！醫揭：長期皮質醇升高恐加速記憶衰退- 書房 - 工商時報",
+      "published": "2026-08-10T23:32:00+00:00",
+      "summary": "沒有錢的壓力會傷大腦！醫揭：長期皮質醇升高恐加速記憶衰退- 書房&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yZ3NmcnVYUzBiN1lZOWZhSExNODBpRXNlVlNmVDZzbElHTkJ1U0U0LVJlT2xjTU5aSEVjYXZLYm5BOFVoN0tiRGtaTzlUV0dfSkV4NFpQMmNCQWVtcFRr?oc=5"
         }
       ]
     },
@@ -40,50 +88,26 @@
       ]
     },
     {
-      "id": "ddb940f34567",
-      "title": "網傳：「麵筋比雞蛋更強！膠原蛋白是雞蛋的 8.2 倍」為部分正確 - 全民查假會社",
+      "id": "34e5a8198f04",
+      "title": "網傳：「麵筋比雞蛋更強！膠原蛋白是雞蛋的 8.2 倍」為部分正確 - tstm.tw",
       "published": "2026-08-11T03:09:27+00:00",
-      "summary": "網傳：「麵筋比雞蛋更強！膠原蛋白是雞蛋的 8.2 倍」為部分正確&nbsp;&nbsp;全民查假會社",
+      "summary": "網傳：「麵筋比雞蛋更強！膠原蛋白是雞蛋的 8.2 倍」為部分正確&nbsp;&nbsp;tstm.tw",
       "sources": [
         {
-          "name": "全民查假會社",
+          "name": "tstm.tw",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GLTBveXNZRkFrSFNLOUhiNzhkN0s0cDdLY0taUUdhWHlQeTBFWEhFREw4d3J0UmlGX195RGxlbkJBVzB5ak5nTE02dw?oc=5"
         }
       ]
     },
     {
-      "id": "9cb8d1325c58",
-      "title": "看診戴3層防護也中鏢！醫「鎖喉咳濃痰」虛弱認了：錯誤示範 - ETtoday健康雲",
-      "published": "2026-08-11T02:05:00+00:00",
-      "summary": "看診戴3層防護也中鏢！醫「鎖喉咳濃痰」虛弱認了：錯誤示範&nbsp;&nbsp;ETtoday健康雲",
+      "id": "ae1f447b90b4",
+      "title": "江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20% - 三立新聞",
+      "published": "2026-08-11T03:13:56+00:00",
+      "summary": "江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%&nbsp;&nbsp;三立新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DTHN4NGVzdElSLTdFNGw5eGo5Tm1pMzBodElZWnJoRVgtZHRSek5jOFh5MzRMR3Jzc1d5a0ZSLXJaTFEwbVMyQVNVVHdKTlJq0gFPQVVfeXFMTTJBVUVBU3E2bmdRX1ZBdjI0TWRudWE0ZnlsRjI3aHlJaUlOdWVsVUs4ZFQxWjFlV1RJVDJiWldGY2xaQUVFQW5nc3pTdlQ5SQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1292cf3bae17",
-      "title": "沒有錢的壓力會傷大腦！醫揭：長期皮質醇升高恐加速記憶衰退- 書房 - 工商時報",
-      "published": "2026-08-10T23:32:00+00:00",
-      "summary": "沒有錢的壓力會傷大腦！醫揭：長期皮質醇升高恐加速記憶衰退- 書房&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yZ3NmcnVYUzBiN1lZOWZhSExNODBpRXNlVlNmVDZzbElHTkJ1U0U0LVJlT2xjTU5aSEVjYXZLYm5BOFVoN0tiRGtaTzlUV0dfSkV4NFpQMmNCQWVtcFRr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "083719999ff2",
-      "title": "江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20% - Yahoo新聞",
-      "published": "2026-08-11T03:31:44+00:00",
-      "summary": "江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQdVo5OTdYYnNmRGc3RVd2R1IwR2Q3ZTd1RXgwN3ZmdmdiUGxRa21JMGYwQkd4R0V1b1VGdkFVS041amFsaGppVXFiRXFyeG5Fc2VDZ0E2dGtlZF9LZks1QzdJYmJQYXZ6WWZVMk84dlQtdk1RQXAyM0tMNXV5cmtzSDZzWF9FUmtTQ0xlRmpJTnFMc3JQUkV5ZWR4MVgxOVZ6UDRQRWdmbjRUUkJCUy1QU2JIX1RlNC1CQlJVYnhMVndTclVuOGpBTVl1RmxTazZ6VGZvOUJ0RmczeThEMUhWRXR6WjVHOE5fZUd1b2lDUG9aR2RONUY1OHQxcVpaTUJZZU5iaTc1bXpoMzZVc0N6SXIwQjEtaFg5SkdwV19BQ20tZlo3WFBSSS1VY0pzeGZxU25V?oc=5"
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sOU95LUdlRjFDclBLMWo2SVhWR1dpME83ZVMza3hzUmVONlRSeThEU3p4YlR2bmFUSjJiN2RGOXhKSVFRVERROWZUMTg?oc=5"
         }
       ]
     },
@@ -100,18 +124,6 @@
       ]
     },
     {
-      "id": "e317604735a1",
-      "title": "胰臟癌有救了？最新雙重免疫治療研究曝光 - ctinews.com",
-      "published": "2026-08-09T08:59:01+00:00",
-      "summary": "胰臟癌有救了？最新雙重免疫治療研究曝光&nbsp;&nbsp;ctinews.com",
-      "sources": [
-        {
-          "name": "ctinews.com",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44VlN6akVBblZzMi1HRG1pV0hVNU8xMTlGWlRqMXlGdURCTzBHbWdhM1l3NkVZRlI2bmZKNGdOVTkyRnlLMzl1MHhNbWZmOXdpV1Rv?oc=5"
-        }
-      ]
-    },
-    {
       "id": "805343a18c20",
       "title": "護肝｜營養補充品愈補愈傷肝 研究揭這種維他命食太多可致肝衰竭 - AM730",
       "published": "2026-08-10T07:30:00+00:00",
@@ -120,18 +132,6 @@
         {
           "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxPeGt1SDhoMTR0XzJwdkgxSS1ydTVsajhfaUw0c1JYbDFzb2dFcWVSaS1VX2MyZVhMUlNnWHhMY05zb2Rwa2lqTWZkTFA2bE9NSEpwSG14WnlVSFlVTTRTMUxza1RBRnBIaS0zcGxJeHZBd1RlZjhPOXNnb2MwNjZwN3NTTnpseU9SblZoa2ItYVVtU09mQlBjOHc2djB2ZEV1U2gxQW50VWpXbGI3UkE3bVl2aUFZM2dHYnM0N3hVLVZ2Y0l1bzNNMGNqRHFXMElfb1k4ZzhJSjVYcEFQZUFhVmRHeW9iVzhqblcwbUlJWF9SX3BZQVJXZl93Q3Zwd0p2cDNqTlA0Q0ZqMTVXSGU0RlpaZ2tCcVJzUnprOFNBa1IyZXM0MndGbWZGSjdRWjVyVkIxMHlRZkpfa3I3MDVGd3NIODM3N3ozVG8yTGhHcTJMVmpHWE1mVUp1NU5iMEVQN1JpbFlSSEUxaUJWcUZ1TEZjTEVYZjRGNXFKbDcwRG9od0lLZ1dTek1ncFB6Q0tMeDRnYTNuUWlBMkZmamJjV1E5dE5KZkwxU1FPU2RWdDVheXBh?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e337a70d55c5",
-      "title": "大咖男星爆「半年驗一次性病」！驗完沒事才敢連結　自曝等待結果超忐忑 - 三立娛樂星聞",
-      "published": "2026-08-09T08:34:06+00:00",
-      "summary": "大咖男星爆「半年驗一次性病」！驗完沒事才敢連結 自曝等待結果超忐忑&nbsp;&nbsp;三立娛樂星聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "三立娛樂星聞",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBWbFZkcEZSXzRFbi1fQnp5VXlsVWRudmVzU2hzcU9CVVhpRTZaRzN3dEh5MVFEczZxMGo1MHBvSGpiVDY1cHhOZkZR0gFfQVVfeXFMTm5OTFhNdWUxX1o3TWt6dWtSdnlMQWpEQnZ4RFd6MUNQOWV2bmFuSGpyNXdrTWxLUmYzeUNBaFNzS0VDSFNSVnJwUVgwTE5qdDBiV0dNUGpFRFc0VXl0eGs?oc=5"
         }
       ]
     },
@@ -163,7 +163,7 @@
       "id": "8f417cb8dcd3",
       "title": "蓋文斯頓縣報告了一個感染西尼羅河病毒病例 - 新唐人電視台",
       "published": "2026-08-09T11:23:00+00:00",
-      "summary": "蓋文斯頓縣報告了一個感染西尼羅河病毒病例&nbsp;&nbsp;新唐人電視台紐約市西尼羅病毒蚊群近倍增 衛生局加強防治&nbsp;&nbsp;大纪元西尼羅河病毒樣本增近倍&nbsp;&nbsp;Singtaousa防西尼羅病毒擴散 史島、皇后區今起噴藥滅蚊&nbsp;&nbsp;世界新聞網橙縣確診今年首例西尼羅病毒衛生官員籲防蚊- 南加社區- 新聞&nbsp;&nbsp;華人今日網",
+      "summary": "蓋文斯頓縣報告了一個感染西尼羅河病毒病例&nbsp;&nbsp;新唐人電視台紐約市西尼羅病毒蚊群近倍增 衛生局加強防治&nbsp;&nbsp;大纪元西尼羅河病毒樣本增近倍&nbsp;&nbsp;Singtaousa防西尼羅病毒擴散 史島、皇后區今起噴藥滅蚊&nbsp;&nbsp;世界新聞網西尼羅河病毒蚊子增加 衛生局籲民眾小心防蚊&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "新唐人電視台",
@@ -216,18 +216,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNc1dfdUlhdnhocHA1cFU0aEJXMWZOU2p0bmYxaFpXcGtJeXg2Q0MyY19QeVBnbklzUlltLXlNRXcxckQ3TjBzc0Y5TFJGSG1GOEs5aHpKbTNEakNGU0tnOUp3UlA3aUtKMGMzUER1dmk5dlFtNlpEQ3ZpVEZwZXp4UmtPQUlwbVpqM1dHVDF0Z3BhYmh0X0ZiMy0yb1pjS0hTVURjVzdRVHdWdWwtckpyM0Rpb0ZfNWMyWEpEWW9wVi1NOC1rZ193M01hbkxmbHdiVF9GRndDZjRPdDJRTlE2SDAwWVVlWmhvU2k3bEsya3N6ejFTeEdqTWhFZlpsdlM3b0M1NG4zSFRIUXNudHE3OWJTOWNicVIzVHBla2E3UjRZZUZ0Tjc4amZwVVZNb2l4T0hheUdDVG5IaHhRdkFfNGRPNFR1ZzZVSHFkWDFDamUyeWVxUnNsSlVlb0xUa2dnUHNrUHJtYzk4UHQtSEg0VjZkSXVFMkFPb0RuRmhwcS03Wk1JUjkzeGlreGlCNHlkNVlXTTRmcGtTVUlsYkp4U2J2TkZDeUZ5djFVNjlYcTBOaEM1QkdnWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "70167b0fc939",
-      "title": "長戴藍牙耳機導致甲狀腺結節？專家闢謠：兩者無直接關係毋須恐慌 - 香港01",
-      "published": "2026-08-09T07:00:26+00:00",
-      "summary": "長戴藍牙耳機導致甲狀腺結節？專家闢謠：兩者無直接關係毋須恐慌&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNV2RBRUlveTlpWURfQmk1R0dxODk4YkQwQ3hBeXJZaE95QUJSY1ZZbnJVbjRBQndONlJVYjFkTWRqMUFkS29nRTRpUmFleWd2QTdMOUtlRFRVSWxqcG9tZGdFNzg2aDUzWHBFN3UtcWhtRF9CZlMyZEJ0bWtyMjRzeTBMWk1Gc2hIMGJrSEV4MS1OODB5cTZxaUI3dzNTQWR1LTBacWt2a1lxMG1JWHdVQWFxTXR1bW1ZcWZ0M1JBdFV1NGFIWlhUWVd2S2JPemZKcUVvOGxtVkhvMWkzQVh0bk5RcVNQX0thVWc1NzVWLV9OUnE3dnRNbFA3VjdRd2xMeDF1TVlqdmdKQVRPMWJOSmpfWEtFNm5lUld3cGdmZUdsanRUM3BmMlpybzVNWE15SXc1dzVmM2c3Y0lHaGllT0NEVmZfemRIcVVtSmc2NFd0VTdhVVh6bzZpeUUxNlgwZzU5MXdpWHFzZ1FhQVB2bkFvZnVWODJhSDJUVmJFcEZpMzNqa1RGQWxnTzhTNWdpdkFFekFFNFdLTE9Gc1kzNFlxWTRaSVpia2ZTRGtMckJYWEg2T29DVjJET2pIZ3RiaWtod3ZxVHo?oc=5"
         }
       ]
     }

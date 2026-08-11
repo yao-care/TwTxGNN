@@ -44,11 +44,11 @@ permalink: /news/carboplatin/
 
 ## 相關新聞（1 則）
 
-### [江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%](https://news.google.com/rss/articles/CBMiswJBVV95cUxQdVo5OTdYYnNmRGc3RVd2R1IwR2Q3ZTd1RXgwN3ZmdmdiUGxRa21JMGYwQkd4R0V1b1VGdkFVS041amFsaGppVXFiRXFyeG5Fc2VDZ0E2dGtlZF9LZks1QzdJYmJQYXZ6WWZVMk84dlQtdk1RQXAyM0tMNXV5cmtzSDZzWF9FUmtTQ0xlRmpJTnFMc3JQUkV5ZWR4MVgxOVZ6UDRQRWdmbjRUUkJCUy1QU2JIX1RlNC1CQlJVYnhMVndTclVuOGpBTVl1RmxTazZ6VGZvOUJ0RmczeThEMUhWRXR6WjVHOE5fZUd1b2lDUG9aR2RONUY1OHQxcVpaTUJZZU5iaTc1bXpoMzZVc0N6SXIwQjEtaFg5SkdwV19BQ20tZlo3WFBSSS1VY0pzeGZxU25V?oc=5)
+### [江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sOU95LUdlRjFDclBLMWo2SVhWR1dpME83ZVMza3hzUmVONlRSeThEU3p4YlR2bmFUSjJiN2RGOXhKSVFRVERROWZUMTg?oc=5)
 
 2026-08-11 <span class="news-indication-tag">結腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiswJBVV95cUxQdVo5OTdYYnNmRGc3RVd2R1IwR2Q3ZTd1RXgwN3ZmdmdiUGxRa21JMGYwQkd4R0V1b1VGdkFVS041amFsaGppVXFiRXFyeG5Fc2VDZ0E2dGtlZF9LZks1QzdJYmJQYXZ6WWZVMk84dlQtdk1RQXAyM0tMNXV5cmtzSDZzWF9FUmtTQ0xlRmpJTnFMc3JQUkV5ZWR4MVgxOVZ6UDRQRWdmbjRUUkJCUy1QU2JIX1RlNC1CQlJVYnhMVndTclVuOGpBTVl1RmxTazZ6VGZvOUJ0RmczeThEMUhWRXR6WjVHOE5fZUd1b2lDUG9aR2RONUY1OHQxcVpaTUJZZU5iaTc1bXpoMzZVc0N6SXIwQjEtaFg5SkdwV19BQ20tZlo3WFBSSS1VY0pzeGZxU25V?oc=5)
+來源：[三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sOU95LUdlRjFDclBLMWo2SVhWR1dpME83ZVMza3hzUmVONlRSeThEU3p4YlR2bmFUSjJiN2RGOXhKSVFRVERROWZUMTg?oc=5)
 
 ---
 
