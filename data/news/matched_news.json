@@ -1,8 +1,104 @@
 {
-  "last_updated": "2026-08-11T23:30:17.126060+00:00",
-  "total_count": 20,
+  "last_updated": "2026-08-12T01:08:56.765327+00:00",
+  "total_count": 21,
   "matched_count": 6,
   "news": [
+    {
+      "id": "6ceb55f1af8c",
+      "title": "喝豆漿養肌瘤？營養師破迷思揭4大好處- 健康",
+      "published": "2026-08-12T00:36:36+00:00",
+      "summary": "喝豆漿養肌瘤？營養師破迷思揭4大好處- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLSEhyUXZwTEZVRlRUSmJ0NkJETUJZemYzYXRjamdiNTdRYWhKcGVQSjhsTE8tU2FELUhIMjhHTVloa3l0M1BSeGkycUpnYkZTclNoNlBwQjdRbk1BaFN3bTJLemlmdnFpQ3NnMDRB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3f5fd42ce090",
+      "title": "別小看走路！研究證實：每天走1萬步 癌友活得更健康",
+      "published": "2026-08-12T00:00:35+00:00",
+      "summary": "別小看走路！研究證實：每天走1萬步 癌友活得更健康&nbsp;&nbsp;Yahoo新聞江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%&nbsp;&nbsp;三立新聞健康網》抗癌多一招！ 醫揭10分鐘高強度運動能抑制癌細胞&nbsp;&nbsp;自由健康網「日做1事」大降罹癌率！醫揭防乳癌真相&nbsp;&nbsp;鏡週刊Mirror Media",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPbkQ2c2ZiUUd5RjdqbFhkcThZMVU1cjk3eVpCTTg5VExJMHpCSHdSQmRLcmo3bkc1dE5lVXA2Q1k3d1U1cUdHMmptUFVtMUVpcXhDU2tQcEh6X19HY0o5UUlqcjhWVWJRazJoS1RqX3I2cTB1OHFsSF9hNlZ6MEhJSElmZUNtVllMa0lQTUxOcXV0eEdDd2lYbFJrZnA4NnZGZzVLWGFpdTYxNXdBWkV0MGxRYmVMV18xY3lRc3lQajIwa1lFWkFGUWRLUmVyZU8tVUZGNC1ydTRIT2pPQ1FtTkFmWFFHUHhJUG96MFg5NE1SVjFKa0VUcGZQRXFIMm9WalZxelpYMUJWLWt4NGVqV1lMSEY3SUk0akkwUVU2NzlORjhtQkFqNG01aTNuYnlhOVFmTXZjaEF2U2xRSG51U0lrQUQ3VTVWTml5cC1WanpRTzND?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "結腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "a91f0bc529d6",
       "title": "健康網》營養師：減重後創造新生活 降內臟脂肪更健康",
@@ -85,6 +181,19 @@
       "matched_keywords": []
     },
     {
+      "id": "1ebcabaec3f7",
+      "title": "胃酸倒流反覆發作？可能係橫膈膜裂孔疝氣導致",
+      "published": "2026-08-11T10:30:00+00:00",
+      "summary": "胃酸倒流反覆發作？可能係橫膈膜裂孔疝氣導致&nbsp;&nbsp;AM730",
+      "sources": [
+        {
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNS0xCN1VVdWFyd2VGMy00MkxwMENOLUFtOVlpaDd5UkZEZzlJTVZ2MVhtOG1PaTJfRWo5Sm1UUnBXVV80Y3dJM3JtOGhRYklQWUQ3alFZQlZwcG5tY0FoaDloclVtM2NfUnQxbTRRN0NWRUZaekc0OUZGQV9NRTVmSEtvVk1vQXNZNnFkTzFjMnZKS2x1ZW9CYWNNM2pjbGs2bm1Ieno5UE16TlZTYmRZUUZ3eDJUa2U1d3pJOS1rTlR0U2d4cU5hY1ktNU1zQ0xVTWItN05rS3Zzc0xnWC1QbGNrcE1WZXQ3VXN6YmVhdnJvMmhvNEdGWXZMS1ZNRUJXWFFEeWFXY2dsVHgzLUE3UjR0NGJOcWM1bHM4MDc4M3U1QnoyaW1vRWhnRXVhLXpGSDhFaklVcWh3WEFRWUg2UE1MRkNTUG0tVWpJcWVwb1pMTm8?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "6c41a6da4ce4",
       "title": "癌細胞轉移靠膽固醇，威而鋼成分意外扮演剋星 - TechNews 科技新報",
       "published": "2026-08-11T08:32:41+00:00",
@@ -140,13 +249,13 @@
       ]
     },
     {
-      "id": "89e3f3bf6df5",
+      "id": "038d44de2976",
       "title": "下眼瞼這條線代表過敏體質？了解丹尼摩根線 逾8成濕疹患者有此皺褶",
       "published": "2026-08-11T04:00:10+00:00",
-      "summary": "下眼瞼這條線代表過敏體質？了解丹尼摩根線 逾8成濕疹患者有此皺褶&nbsp;&nbsp;stheadline.com",
+      "summary": "下眼瞼這條線代表過敏體質？了解丹尼摩根線 逾8成濕疹患者有此皺褶&nbsp;&nbsp;星島頭條",
       "sources": [
         {
-          "name": "stheadline.com",
+          "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNc1dfdUlhdnhocHA1cFU0aEJXMWZOU2p0bmYxaFpXcGtJeXg2Q0MyY19QeVBnbklzUlltLXlNRXcxckQ3TjBzc0Y5TFJGSG1GOEs5aHpKbTNEakNGU0tnOUp3UlA3aUtKMGMzUER1dmk5dlFtNlpEQ3ZpVEZwZXp4UmtPQUlwbVpqM1dHVDF0Z3BhYmh0X0ZiMy0yb1pjS0hTVURjVzdRVHdWdWwtckpyM0Rpb0ZfNWMyWEpEWW9wVi1NOC1rZ193M01hbkxmbHdiVF9GRndDZjRPdDJRTlE2SDAwWVVlWmhvU2k3bEsya3N6ejFTeEdqTWhFZlpsdlM3b0M1NG4zSFRIUXNudHE3OWJTOWNicVIzVHBla2E3UjRZZUZ0Tjc4amZwVVZNb2l4T0hheUdDVG5IaHhRdkFfNGRPNFR1ZzZVSHFkWDFDamUyeWVxUnNsSlVlb0xUa2dnUHNrUHJtYzk4UHQtSEg0VjZkSXVFMkFPb0RuRmhwcS03Wk1JUjkzeGlreGlCNHlkNVlXTTRmcGtTVUlsYkp4U2J2TkZDeUZ5djFVNjlYcTBOaEM1QkdnWQ?oc=5"
         }
       ],
@@ -176,54 +285,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "ae1f447b90b4",
-      "title": "江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%",
-      "published": "2026-08-11T03:13:56+00:00",
-      "summary": "江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%&nbsp;&nbsp;三立新聞健康網》抗癌多一招！ 醫揭10分鐘高強度運動能抑制癌細胞&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sOU95LUdlRjFDclBLMWo2SVhWR1dpME83ZVMza3hzUmVONlRSeThEU3p4YlR2bmFUSjJiN2RGOXhKSVFRVERROWZUMTg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "結腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "ddb940f34567",
@@ -316,19 +377,6 @@
       "matched_keywords": []
     },
     {
-      "id": "46702dc64404",
-      "title": "腹痛久沒好！他查出胃食道逆流 源頭竟是1少見黴菌作祟",
-      "published": "2026-08-10T06:44:15+00:00",
-      "summary": "腹痛久沒好！他查出胃食道逆流 源頭竟是1少見黴菌作祟&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VMjYyOW8zNWliSkg4c2Mwbjg0SC1NYlZNWWRwd1RIemNEWWV6TTJjZjljTWZqdU5zNmhiQ21yTmYxdTUzek1DSlNDZVFUSWV5Q2VMTXo3WDB2NjctZC1MRW54SmxLc1BxejFNOS13?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "430a2093e614",
       "title": "研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防",
       "published": "2026-08-10T03:56:42+00:00",
@@ -365,13 +413,13 @@
       ]
     },
     {
-      "id": "0f144499367c",
+      "id": "45a5b16c7141",
       "title": "每天吃起司量約「一個火柴盒大小」但3類病患慎吃",
       "published": "2026-08-10T00:11:18+00:00",
-      "summary": "每天吃起司量約「一個火柴盒大小」但3類病患慎吃&nbsp;&nbsp;世界新聞網",
+      "summary": "每天吃起司量約「一個火柴盒大小」但3類病患慎吃&nbsp;&nbsp;worldjournal.com",
       "sources": [
         {
-          "name": "世界新聞網",
+          "name": "worldjournal.com",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83eE5PaTBiWFpCNEtZVjVhSTZmdmV1UFFWb3RSdF9YN2JWYkNLNlJtOVVFcURmMWpZT0dLV1FYOE0zUzZVeVJYdXpmV0dxQzJDdVZZc0xwelI1NVhwUGEwdmRn0gFnQVVfeXFMTkotcmlpaGhlMUNpUG96RUZfTmR1MG1pUjJEOWFHRkR3Z1plcXoyVmRaemotMUozQU1GMXJwZGRYY2ZCelZPUXNXNHUyakptdURGSEwzRTN1eHBaN3N4STJSNVJGTkhNQQ?oc=5"
         }
       ],

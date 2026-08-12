@@ -14,7 +14,7 @@ permalink: /news/trabectedin/
 ---
 
 <p class="key-answer" data-question="Trabectedin 有什麼相關新聞？">
-<strong>Trabectedin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Trabectedin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,15 +27,21 @@ permalink: /news/trabectedin/
 <li><strong>原適應症</strong>：無法切除或轉移性脂肪肉瘤/平滑肌肉瘤</li>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（1 個）：<ul>
-<li>female breast carcinoma（99.7%）</li>
+<li class="indication-matched">female breast carcinoma（99.7%）<span class="indication-tag">📰 乳癌</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/trabectedin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [別小看走路！研究證實：每天走1萬步 癌友活得更健康](https://news.google.com/rss/articles/CBMi1AJBVV95cUxPbkQ2c2ZiUUd5RjdqbFhkcThZMVU1cjk3eVpCTTg5VExJMHpCSHdSQmRLcmo3bkc1dE5lVXA2Q1k3d1U1cUdHMmptUFVtMUVpcXhDU2tQcEh6X19HY0o5UUlqcjhWVWJRazJoS1RqX3I2cTB1OHFsSF9hNlZ6MEhJSElmZUNtVllMa0lQTUxOcXV0eEdDd2lYbFJrZnA4NnZGZzVLWGFpdTYxNXdBWkV0MGxRYmVMV18xY3lRc3lQajIwa1lFWkFGUWRLUmVyZU8tVUZGNC1ydTRIT2pPQ1FtTkFmWFFHUHhJUG96MFg5NE1SVjFKa0VUcGZQRXFIMm9WalZxelpYMUJWLWt4NGVqV1lMSEY3SUk0akkwUVU2NzlORjhtQkFqNG01aTNuYnlhOVFmTXZjaEF2U2xRSG51U0lrQUQ3VTVWTml5cC1WanpRTzND?oc=5)
+
+2026-08-12 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">結腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi1AJBVV95cUxPbkQ2c2ZiUUd5RjdqbFhkcThZMVU1cjk3eVpCTTg5VExJMHpCSHdSQmRLcmo3bkc1dE5lVXA2Q1k3d1U1cUdHMmptUFVtMUVpcXhDU2tQcEh6X19HY0o5UUlqcjhWVWJRazJoS1RqX3I2cTB1OHFsSF9hNlZ6MEhJSElmZUNtVllMa0lQTUxOcXV0eEdDd2lYbFJrZnA4NnZGZzVLWGFpdTYxNXdBWkV0MGxRYmVMV18xY3lRc3lQajIwa1lFWkFGUWRLUmVyZU8tVUZGNC1ydTRIT2pPQ1FtTkFmWFFHUHhJUG96MFg5NE1SVjFKa0VUcGZQRXFIMm9WalZxelpYMUJWLWt4NGVqV1lMSEY3SUk0akkwUVU2NzlORjhtQkFqNG01aTNuYnlhOVFmTXZjaEF2U2xRSG51U0lrQUQ3VTVWTml5cC1WanpRTzND?oc=5)
+
+---
 
 
 <div class="disclaimer">

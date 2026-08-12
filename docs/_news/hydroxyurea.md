@@ -27,7 +27,7 @@ permalink: /news/hydroxyurea/
 <li><strong>原適應症</strong>：慢性骨髓性白血病、骨髓纖維化、真性紅血球增多症、卵巢癌、頭頸癌</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>female breast carcinoma（100.0%）</li>
+<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
 <li>sickle cell-hemoglobin E disease syndrome（99.7%）</li>
 <li>sickle cell-hemoglobin c disease syndrome（99.7%）</li>
 <li>hereditary persistence of fetal hemoglobin-sickle cell disease syndrome（99.7%）</li>
@@ -44,11 +44,11 @@ permalink: /news/hydroxyurea/
 
 ## 相關新聞（1 則）
 
-### [江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sOU95LUdlRjFDclBLMWo2SVhWR1dpME83ZVMza3hzUmVONlRSeThEU3p4YlR2bmFUSjJiN2RGOXhKSVFRVERROWZUMTg?oc=5)
+### [別小看走路！研究證實：每天走1萬步 癌友活得更健康](https://news.google.com/rss/articles/CBMi1AJBVV95cUxPbkQ2c2ZiUUd5RjdqbFhkcThZMVU1cjk3eVpCTTg5VExJMHpCSHdSQmRLcmo3bkc1dE5lVXA2Q1k3d1U1cUdHMmptUFVtMUVpcXhDU2tQcEh6X19HY0o5UUlqcjhWVWJRazJoS1RqX3I2cTB1OHFsSF9hNlZ6MEhJSElmZUNtVllMa0lQTUxOcXV0eEdDd2lYbFJrZnA4NnZGZzVLWGFpdTYxNXdBWkV0MGxRYmVMV18xY3lRc3lQajIwa1lFWkFGUWRLUmVyZU8tVUZGNC1ydTRIT2pPQ1FtTkFmWFFHUHhJUG96MFg5NE1SVjFKa0VUcGZQRXFIMm9WalZxelpYMUJWLWt4NGVqV1lMSEY3SUk0akkwUVU2NzlORjhtQkFqNG01aTNuYnlhOVFmTXZjaEF2U2xRSG51U0lrQUQ3VTVWTml5cC1WanpRTzND?oc=5)
 
-2026-08-11 <span class="news-indication-tag">結腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-08-12 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">結腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sOU95LUdlRjFDclBLMWo2SVhWR1dpME83ZVMza3hzUmVONlRSeThEU3p4YlR2bmFUSjJiN2RGOXhKSVFRVERROWZUMTg?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi1AJBVV95cUxPbkQ2c2ZiUUd5RjdqbFhkcThZMVU1cjk3eVpCTTg5VExJMHpCSHdSQmRLcmo3bkc1dE5lVXA2Q1k3d1U1cUdHMmptUFVtMUVpcXhDU2tQcEh6X19HY0o5UUlqcjhWVWJRazJoS1RqX3I2cTB1OHFsSF9hNlZ6MEhJSElmZUNtVllMa0lQTUxOcXV0eEdDd2lYbFJrZnA4NnZGZzVLWGFpdTYxNXdBWkV0MGxRYmVMV18xY3lRc3lQajIwa1lFWkFGUWRLUmVyZU8tVUZGNC1ydTRIT2pPQ1FtTkFmWFFHUHhJUG96MFg5NE1SVjFKa0VUcGZQRXFIMm9WalZxelpYMUJWLWt4NGVqV1lMSEY3SUk0akkwUVU2NzlORjhtQkFqNG01aTNuYnlhOVFmTXZjaEF2U2xRSG51U0lrQUQ3VTVWTml5cC1WanpRTzND?oc=5)
 
 ---
 
