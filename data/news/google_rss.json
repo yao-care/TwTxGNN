@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-12T22:30:30.699773+00:00",
-  "count": 21,
+  "fetched_at": "2026-08-12T23:30:32.385056+00:00",
+  "count": 22,
   "news": [
     {
       "id": "3f5fd42ce090",
@@ -160,6 +160,18 @@
       ]
     },
     {
+      "id": "d1aa791bd345",
+      "title": "二○二六年綜合維他命怎麼挑 - 生活新聞 - PChome Online 新聞 - PChome Online 新聞",
+      "published": "2026-08-12T22:50:59+00:00",
+      "summary": "二○二六年綜合維他命怎麼挑 - 生活新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM3Z5ZWZRb1F0bkl0bHZTRzdYTjBsVHEtbHNrTzJ0YTRtUU1rc0YxS2FraWVZRExoX0NiZjZ1Yk9BeEI4Z201OGhVRlp2MXBCWWo0cWk1X1NyUm0tZkRXcmttU01NanhFZWE4V1paUmVtbE5LVDh5Ul9QWVpjNTl4azJaLUsxSXoyX0FR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5e9439bf3386",
       "title": "社安局身障福利快速核准名單擴大 新增14種疾病 - Singtaousa",
       "published": "2026-08-12T14:00:00+00:00",
@@ -244,13 +256,13 @@
       ]
     },
     {
-      "id": "200e10ab09d4",
-      "title": "蒿草過敏別當感冒治 - bau.com.hk",
+      "id": "4eccf6cdbd4a",
+      "title": "蒿草過敏別當感冒治 - 紫荊雜誌",
       "published": "2026-08-11T01:47:41+00:00",
-      "summary": "蒿草過敏別當感冒治&nbsp;&nbsp;bau.com.hk",
+      "summary": "蒿草過敏別當感冒治&nbsp;&nbsp;紫荊雜誌",
       "sources": [
         {
-          "name": "bau.com.hk",
+          "name": "紫荊雜誌",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYlpvTzA3TDdkdkNaNWxXTkxoZ0MyODV6VnpKTWh4WUxQYTRQbERadGdHODVhR0FGa3RCYkpURWprOV83b2xtS1Z6bGo1VUV2NEdqTzhZTGhDeDhNbHlLNThYbjA5aG14VDJ1MEpyVWZTU2c1a3FQM09wUUR2NVdfTVE5cDJuOGxSRGlpZGZsdU0?oc=5"
         }
       ]

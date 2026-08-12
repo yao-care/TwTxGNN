@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-08-12T22:30:35.610799+00:00",
-  "total_count": 21,
+  "last_updated": "2026-08-12T23:30:37.029540+00:00",
+  "total_count": 22,
   "matched_count": 8,
   "news": [
+    {
+      "id": "d1aa791bd345",
+      "title": "二○二六年綜合維他命怎麼挑 - 生活新聞 - PChome Online 新聞 - PChome Online 新聞",
+      "published": "2026-08-12T22:50:59+00:00",
+      "summary": "二○二六年綜合維他命怎麼挑 - 生活新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM3Z5ZWZRb1F0bkl0bHZTRzdYTjBsVHEtbHNrTzJ0YTRtUU1rc0YxS2FraWVZRExoX0NiZjZ1Yk9BeEI4Z201OGhVRlp2MXBCWWo0cWk1X1NyUm0tZkRXcmttU01NanhFZWE4V1paUmVtbE5LVDh5Ul9QWVpjNTl4azJaLUsxSXoyX0FR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "ce01933f628e",
       "title": "西溫哥華有一名行山遊客被蝙蝠咬傷 當局呼籲大家提高警覺",
@@ -815,13 +828,13 @@
       "matched_keywords": []
     },
     {
-      "id": "200e10ab09d4",
+      "id": "4eccf6cdbd4a",
       "title": "蒿草過敏別當感冒治",
       "published": "2026-08-11T01:47:41+00:00",
-      "summary": "蒿草過敏別當感冒治&nbsp;&nbsp;bau.com.hk",
+      "summary": "蒿草過敏別當感冒治&nbsp;&nbsp;紫荊雜誌",
       "sources": [
         {
-          "name": "bau.com.hk",
+          "name": "紫荊雜誌",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYlpvTzA3TDdkdkNaNWxXTkxoZ0MyODV6VnpKTWh4WUxQYTRQbERadGdHODVhR0FGa3RCYkpURWprOV83b2xtS1Z6bGo1VUV2NEdqTzhZTGhDeDhNbHlLNThYbjA5aG14VDJ1MEpyVWZTU2c1a3FQM09wUUR2NVdfTVE5cDJuOGxSRGlpZGZsdU0?oc=5"
         }
       ],
