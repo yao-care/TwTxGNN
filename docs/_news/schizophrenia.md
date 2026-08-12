@@ -36,7 +36,7 @@ permalink: /news/schizophrenia/
 
 2026-08-11
 
-來源：[health.ltn.com.tw](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tVjJ3WF82RE4tZld4VmtEQXdPdk5BcmtUblQ3SkthQnVRZlRzVkRHQ2JfczE5NG5jQm5KVWRObnlCQ2R4Q2lzM2tGamV6TVdxcDIwdTh6dWxUZndqQlNrMVhYemo?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tVjJ3WF82RE4tZld4VmtEQXdPdk5BcmtUblQ3SkthQnVRZlRzVkRHQ2JfczE5NG5jQm5KVWRObnlCQ2R4Q2lzM2tGamV6TVdxcDIwdTh6dWxUZndqQlNrMVhYemo?oc=5)
 
 ---
 

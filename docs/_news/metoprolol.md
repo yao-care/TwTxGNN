@@ -48,7 +48,7 @@ permalink: /news/metoprolol/
 
 2026-08-12 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
-來源：[health.ltn.com.tw](https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5)
 
 ---
 
@@ -56,7 +56,7 @@ permalink: /news/metoprolol/
 
 2026-08-11 <span class="news-indication-tag">高血壓</span>
 
-來源：[n.yam.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tZ0htaDQxbGJPQUs3RUNIa0dveXhBVDNHcGlvcnFtU1Zwek5NMTI4Y0pubUktU244aDVvSmFWd3lndzlOR2lMV3A2cUd1VkQ3REE?oc=5)
+來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tZ0htaDQxbGJPQUs3RUNIa0dveXhBVDNHcGlvcnFtU1Zwek5NMTI4Y0pubUktU244aDVvSmFWd3lndzlOR2lMV3A2cUd1VkQ3REE?oc=5)
 
 ---
 

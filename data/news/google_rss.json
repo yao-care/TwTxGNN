@@ -1,25 +1,13 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-12T16:47:10.563469+00:00",
-  "count": 22,
+  "fetched_at": "2026-08-12T17:51:20.329103+00:00",
+  "count": 28,
   "news": [
-    {
-      "id": "a2242a6356ad",
-      "title": "數位技術走入齒顎矯正：電腦能否先模擬牙齒受力？ - Life 生活網",
-      "published": "2026-08-12T09:18:33+00:00",
-      "summary": "數位技術走入齒顎矯正：電腦能否先模擬牙齒受力？&nbsp;&nbsp;Life 生活網",
-      "sources": [
-        {
-          "name": "Life 生活網",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNLVdTNFRTbWJMbWlmTmRFVldXajNhaG1RV2ZMSGJHRU1IWVdxaXZRc1JONHBEcmxjcUVLcENiTWpzY1BzMlEtVWF5V0NRdVBUdW0zRDlJeXI5SEdVYXdLWXB0SlYtblU3a2NKdUJZTWJROE84bEVIYWtXOGlTTFNPWFhIVjc4RVN0SVFSeS1DRjZYWFhqM1RKLXpzMFBJS2x5RS15WXEydndkbVlLNkJ1Z2FYWFBwdWRScXBnODhJSGFqbi1ZeE1mOXo4eURhUTJhajVpT25VaENZZ0dnWDJSSkdSWWNOODBoME16NXVlcWl4dUVDT0ZSdHVORGM1c3R3ajRYQ0JiQXFJNjhvU0gwTGJzZDBfWFMycW5Cd09LbnVtRjJQOVJ4MER4ZVhzZl9NZTR3cUVkS3BIR3FGa2Z5Tnh6VTk?oc=5"
-        }
-      ]
-    },
     {
       "id": "3f5fd42ce090",
       "title": "別小看走路！研究證實：每天走1萬步 癌友活得更健康 - Yahoo新聞",
       "published": "2026-08-12T00:00:35+00:00",
-      "summary": "別小看走路！研究證實：每天走1萬步 癌友活得更健康&nbsp;&nbsp;Yahoo新聞江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%&nbsp;&nbsp;三立新聞健康網》抗癌多一招！ 醫揭10分鐘高強度運動能抑制癌細胞&nbsp;&nbsp;health.ltn.com.tw「日做1事」大降罹癌率！醫揭防乳癌真相&nbsp;&nbsp;mirrormedia.mg",
+      "summary": "別小看走路！研究證實：每天走1萬步 癌友活得更健康&nbsp;&nbsp;Yahoo新聞江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%&nbsp;&nbsp;health.setn.com健康網》抗癌多一招！ 醫揭10分鐘高強度運動能抑制癌細胞&nbsp;&nbsp;自由健康網「日做1事」大降罹癌率！醫揭防乳癌真相&nbsp;&nbsp;鏡週刊Mirror Media",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -40,37 +28,49 @@
       ]
     },
     {
-      "id": "fa6d1dd474fc",
-      "title": "癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內 - health.ltn.com.tw",
+      "id": "0ee068cb9a28",
+      "title": "癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內 - 自由健康網",
       "published": "2026-08-12T04:43:00+00:00",
-      "summary": "癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5"
         }
       ]
     },
     {
-      "id": "b5298b75b9b1",
-      "title": "健康網》營養師：減重後創造新生活 降內臟脂肪更健康 - health.ltn.com.tw",
+      "id": "a91f0bc529d6",
+      "title": "健康網》營養師：減重後創造新生活 降內臟脂肪更健康 - 自由健康網",
       "published": "2026-08-11T22:22:00+00:00",
-      "summary": "健康網》營養師：減重後創造新生活 降內臟脂肪更健康&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "健康網》營養師：減重後創造新生活 降內臟脂肪更健康&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFaGttNU1Cb1dpQU5JU3pGaUVzZGtqNjZDdm12cnk2Z3Q1Tks2aENtS2ZsdnZPWGJORWFxM0FtTVUwWnJ2TTFoTUhzSEFReWxWWDFLZEtVQ2RNQk1URmFiUHI3MFU?oc=5"
         }
       ]
     },
     {
-      "id": "4ba97dc7d141",
-      "title": "高血壓治療迎來新曙光！研究發現全新作用靶點 - n.yam.com",
-      "published": "2026-08-11T11:37:00+00:00",
-      "summary": "高血壓治療迎來新曙光！研究發現全新作用靶點&nbsp;&nbsp;n.yam.com",
+      "id": "f1c4278aedd3",
+      "title": "[電競特區 Gaming Accessories] iRocks T36 人體工學椅雙色開箱 / 晨光綠、丹寧藍簡約質感，4D 扶手與舒適支撐兼具 - XFastest",
+      "published": "2026-08-12T02:59:06+00:00",
+      "summary": "[電競特區 Gaming Accessories] iRocks T36 人體工學椅雙色開箱 / 晨光綠、丹寧藍簡約質感，4D 扶手與舒適支撐兼具&nbsp;&nbsp;XFastest",
       "sources": [
         {
-          "name": "n.yam.com",
+          "name": "XFastest",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fNG5MSEt6SUNMNVFXV0haNFQyNVVsYlZ3eUN5VWpuNC1UMGR4ZHI5QWpDLU1LUTVRRDc5UE9sYThyeFJtQmt1VzNzMDMza3ZiTHVXa2pvUS1KSXM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c88c3bb16249",
+      "title": "高血壓治療迎來新曙光！研究發現全新作用靶點 - 蕃新聞",
+      "published": "2026-08-11T11:37:00+00:00",
+      "summary": "高血壓治療迎來新曙光！研究發現全新作用靶點&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tZ0htaDQxbGJPQUs3RUNIa0dveXhBVDNHcGlvcnFtU1Zwek5NMTI4Y0pubUktU244aDVvSmFWd3lndzlOR2lMV3A2cUd1VkQ3REE?oc=5"
         }
       ]
@@ -88,18 +88,6 @@
       ]
     },
     {
-      "id": "63fb1e0bd4f9",
-      "title": "iRocks T36 人體工學椅雙色開箱 / 晨光綠、丹寧藍簡約質感，4D 扶手與舒適支撐兼具 - XFastest News",
-      "published": "2026-08-11T01:07:50+00:00",
-      "summary": "iRocks T36 人體工學椅雙色開箱 / 晨光綠、丹寧藍簡約質感，4D 扶手與舒適支撐兼具&nbsp;&nbsp;XFastest News",
-      "sources": [
-        {
-          "name": "XFastest News",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54eTAxNjFmYmRjYWZaNU5fc2xjWHBkS0RYd01WRlpmNzJuZkVZUExmcnJBcWM2dVp0TWlHdThVTzBfM2p1MlRETEpHeGZmSldfV1pTUEloSjNPZXpIOHFuWg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e1c540f403fe",
       "title": "英格蘭有望成為首批消除丙型肝炎的國家之一 - gamereactor.cn",
       "published": "2026-08-11T10:33:36+00:00",
@@ -112,38 +100,26 @@
       ]
     },
     {
-      "id": "7d5bc42b8dbd",
-      "title": "吃得一樣多甚至更多仍減脂！ 美研究揭長壽飲食保肌關鍵 - health.ltn.com.tw",
+      "id": "007fa53951bf",
+      "title": "吃得一樣多甚至更多仍減脂！ 美研究揭長壽飲食保肌關鍵 - 自由健康網",
       "published": "2026-08-11T07:11:00+00:00",
-      "summary": "吃得一樣多甚至更多仍減脂！ 美研究揭長壽飲食保肌關鍵&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "吃得一樣多甚至更多仍減脂！ 美研究揭長壽飲食保肌關鍵&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hR0E1WUZOSThMNzM0enRJcVpCbm5SNEFZTkZYZlBYaVFJNklSYkZqUTE3YTRmZWRpUWt1NElzNUxyLXAwRFBEOFlxX1E0WDNoeE1MT2VvTERoYTNRYVZacUZxYW4?oc=5"
         }
       ]
     },
     {
-      "id": "944ad53c9b7d",
-      "title": "精神分裂症大腦突觸廣泛減少 美研究找出可能的「起點」 - health.ltn.com.tw",
+      "id": "8a6304960553",
+      "title": "精神分裂症大腦突觸廣泛減少 美研究找出可能的「起點」 - 自由健康網",
       "published": "2026-08-11T05:55:00+00:00",
-      "summary": "精神分裂症大腦突觸廣泛減少 美研究找出可能的「起點」&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "精神分裂症大腦突觸廣泛減少 美研究找出可能的「起點」&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tVjJ3WF82RE4tZld4VmtEQXdPdk5BcmtUblQ3SkthQnVRZlRzVkRHQ2JfczE5NG5jQm5KVWRObnlCQ2R4Q2lzM2tGamV6TVdxcDIwdTh6dWxUZndqQlNrMVhYemo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5982259e73e8",
-      "title": "癌細胞轉移靠膽固醇，威而鋼成分意外扮演剋星 | 科技新報 - LINE TODAY",
-      "published": "2026-08-11T22:08:47+00:00",
-      "summary": "癌細胞轉移靠膽固醇，威而鋼成分意外扮演剋星 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TQWI3SFV6TlFYMEJBREVLa29WYXQzbjBrN1FyMVE2UnRSNVVRS1dldkpRbUFkakFwa1hSYVlOTFpoallUNTN4b1hWMF80azRnTFpseFV3?oc=5"
         }
       ]
     },
@@ -156,6 +132,18 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5odURXLThnb3FnSFlrb3pLWEdpS0pNNm9meXU1dWY3YWp4QW1iQ3dUR3BUSl84WC1qNWxtY2ZTd3k2TndfNjdaUU43OTNYQnE0S2pMZUhlUVhIczRaMHZ4RTJlNE8zSVk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5982259e73e8",
+      "title": "癌細胞轉移靠膽固醇，威而鋼成分意外扮演剋星 | 科技新報 - LINE TODAY",
+      "published": "2026-08-11T22:08:47+00:00",
+      "summary": "癌細胞轉移靠膽固醇，威而鋼成分意外扮演剋星 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TQWI3SFV6TlFYMEJBREVLa29WYXQzbjBrN1FyMVE2UnRSNVVRS1dldkpRbUFkakFwa1hSYVlOTFpoallUNTN4b1hWMF80azRnTFpseFV3?oc=5"
         }
       ]
     },
@@ -180,6 +168,66 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTTYteFlEQWhBZU4tWnNTNFc3TFplOUt4X2liRmlJLTlmc3Jqa1FRbFVINGNhWWxZUWZlSmdrTjVrTHRpajlSYTZmVDQzak92eHdQYng1UERHc3FzX2doay1pYU1rM3JyT3MwWUNGRlpQQVpYbEJLaW9RT0c0MXIyRUQ5TU1oMnh1d3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "625c55e2aa21",
+      "title": "劇烈頭痛又複視罕見無症狀鼻竇炎作祟- 醫療保健- 新聞 - 華人今日網",
+      "published": "2026-08-12T03:18:20+00:00",
+      "summary": "劇烈頭痛又複視罕見無症狀鼻竇炎作祟- 醫療保健- 新聞&nbsp;&nbsp;華人今日網",
+      "sources": [
+        {
+          "name": "華人今日網",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45WDNJX1lWUlRyOUZJUE8xZGtpLVhkU2FPVWp4ZXlPSktvaUZmR25ZZnBXc3ppYk5URGJBaS1YVlNkZzRtc0dXZ2FTUkFZQlJtNzU4Q3Z1VmI2aUoyQ3MtdkxGWEJYUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a6e74a95f34f",
+      "title": "舊標靶藥重組治癌療效大增- 醫藥新知- 新聞 - 華人今日網",
+      "published": "2026-08-11T07:39:40+00:00",
+      "summary": "舊標靶藥重組治癌療效大增- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
+      "sources": [
+        {
+          "name": "華人今日網",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yRWV6aFJuaXFTQl9DT2RCNkZqZ1VnSkZ5Qk5mcXNma1VSMzJ6Z3JVbGYyT0RFMG5SX3dIaEJnVTRjZkNzRlpReml2U3RqYVoxMzFIN3Z4OFNNczNmZDR5el93WGdFUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ce01933f628e",
+      "title": "西溫哥華有一名行山遊客被蝙蝠咬傷 當局呼籲大家提高警覺 - am1320.com",
+      "published": "2026-08-12T16:48:20+00:00",
+      "summary": "西溫哥華有一名行山遊客被蝙蝠咬傷 當局呼籲大家提高警覺&nbsp;&nbsp;am1320.com",
+      "sources": [
+        {
+          "name": "am1320.com",
+          "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNd0dfRHAwX2tNYUx6d3pwNngzOVF3OVJRZ2dPR2wybVRwWC16WDBFX2VJZTNHVDFaWkVLRWp0T243NG55M212SzgyeVZLUVV0Y09sYlUtTlc1VVFla0l6NVd1XzRqemNOZ0swQWM4eG1UWnZWNmVOdE85cWgtMDI2cW1qV3hTdUxmMWhSNTc0YVhxUWJxeE5XMjBxSWRYclV2cGdwUXdleHlhNFRqaEdjOEQ3dFFIUDM2Qks0NGZSUXJvcDl3U0JlNlVnZ1hBSHNnMEJVaElRTU94M2gwdC1HQk1TSTExUlZ0b254bnRTOUxHZFVVWlNSODJ2alJTTWthYmpXVGFERHhBano5Z2FqbFZCbzJ2S3ZlYjNBblpYcjhOQURDLXpLWGFlTXlydHRWNjVtdl94TTU0N2xTdy1Bdk85N25TckFDWTFheVVoR0JydDl4Vzdad0k1dDZwWjlXVGlPVkl3a2FWUjBUaW43alRB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b72b38008265",
+      "title": "一個換肝病人的故事 - 生活新聞 - PChome Online 新聞 - PChome Online 新聞",
+      "published": "2026-08-11T11:09:46+00:00",
+      "summary": "一個換肝病人的故事 - 生活新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPazM2NHd2UWZSOXAycW0zRUNXcUw4UGVuZk5aYUZMQ0NzZnZHWXQ0U1I2ekg2V2gyNEZrQ2I4RXRnQmxiQjNoVTZUZWFRbG5aUDNtSmxpX3Z6TWpvdURSYWJrQXE2RTZnQTZfRUYxVWtwaV9NM3dlWEIxSnNPdFNmNGtMaGdUVnl6RS1j?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e214ce724168",
+      "title": "涉男男性接觸者甲型肝炎個案持續下跌 9.12起停止免費接種疫苗 - AM730",
+      "published": "2026-08-12T04:19:06+00:00",
+      "summary": "涉男男性接觸者甲型肝炎個案持續下跌 9.12起停止免費接種疫苗&nbsp;&nbsp;AM730防護中心：為男男性接觸者免費接種甲肝疫苗9.12起停止&nbsp;&nbsp;橙新聞防護中心下月12日起停止為男男性接觸者免費接種甲肝疫苗&nbsp;&nbsp;881903.com衞生署為逾280名男同性戀免費接種甲肝疫苗 已截斷傳播鏈&nbsp;&nbsp;香港商报衞生署為男男性接觸者免費接種甲型肝炎疫苗 成功截斷特定人群感染群組傳播鏈&nbsp;&nbsp;大公文匯網",
+      "sources": [
+        {
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPYzZYckhlVG00TEZDb0hlUFNhb0RibzcxZjUtdUpDVnVSQjhxVkdGenVBaWZPcDh1Y19rdmhJV0dPenRHNU5OWm53UHBCMTZuN3U3c1V3RG81djhyajNaWk0xY1pNcHowN21fQ1ZFU0FiMi0zNjR4VjVwSkFValdKQTRmS0loRzlSOTAwS3NzNXBvbTcySDlheGlXRnROZjBGWTNycGtsMVZBMzhzUlg1dG9HbHUzSTlFUExOS3lfWkYtbmpTYzdzOWl0ckNBc19UcWIxUS10dWdibWQ5UnJocTZ1ZFRYZFI5QXdnc2J4WkVFR2l3ZGs0N2ZMaTh5T0NIck82c2hEMlZtbC1zMHVzaVh4NURERDdfM2ZubHl5d1p1czVDLTdhY1VoTW9iRGpVQWRRSTRLNWdVSmx6QUZhOVFseDktOTVJNDFWaERVc3hSR21sblhZWUZtRVVHZmJJTzJMbk5ySnhEbktSMWRoWEFoZFNjamV0YmdMbWl1S1YtZ2x3bF9GdGJINWNlZnJxZnpjNDV5SW94cXhhd282NA?oc=5"
         }
       ]
     },
@@ -220,6 +268,42 @@
       ]
     },
     {
+      "id": "3659f2b9cf75",
+      "title": "腦出血｜女子綠豆湯當水飲消暑 嘔吐陷昏迷確診腦出血 恐致血壓失控爆血管8類人慎喝 - 東張+ - myTV SUPER",
+      "published": "2026-08-11T05:50:05+00:00",
+      "summary": "腦出血｜女子綠豆湯當水飲消暑 嘔吐陷昏迷確診腦出血 恐致血壓失控爆血管8類人慎喝 - 東張+&nbsp;&nbsp;myTV SUPER",
+      "sources": [
+        {
+          "name": "myTV SUPER",
+          "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxNZlVIVzQwQkZsTVIzQkw2RGZKdEhDd3M1bVJUaEZIZ2NZaFpxcjlfMkloMVFuUUV1TjJPWE5rUi14TThPY3lMZHliUzJJakE2QkhmUjFVakdCOVRQU1Jsb0pmb0M1bWRkRWk4RkRDd3ZmcWw5Qjd3LXRaUHFFc1N5cTJ4ME9Ua05RWGpib2NvRUtqenJlNXZjRGV0cDQtQ21VMG5HT0tRc0VzZnJJaWNnNjlnaGw1SHozTkZBZEtjRkRQb1pwdUJ0R1c0U0ljandOdmlzbEMwOUhaQmZONmRQZ2YtLWdjeGlFcWVMSE80MzdLcWE3U3hTdnlqeTlabTRQa1ZFRHhXdm1CUDJJSkc3MmNjSm1Cd3NPWExRLUZRbHl0Vk4teDgyR1NNQXJCVndzSHQzRklNRWktdmF3aUhzSnNmWkxJbnJFcnhPWWFvcGE5R20xZTZVT1RwcGNWSmJDT2trbTNBZ2JQVV90ZWtmeENsekdNNnVxRVExWVI5a3htVjNWN1NaWF9rbV9jaG9JRHF3OGx4TkVidG5ZOWVDSFBEb2F2Yl9RN2trbmh4dUxIUldVRlVZOGt4TThpMVhjekVxaW5vb2J5X3NWYTczWkdBYVJ6V3d3RE91LXJyQXNmMkVZRm9iNnBwN08zR3VkYlZ2LW5tbS1PSGtMLW5WSHE4NTZ3VUtBM3R6cERrc1E0WUFjbXRyRlRWa3k0QUR2dDZPb1pYYVFrbFQ1Vzk1VWln?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d4944797547d",
+      "title": "心肌炎 | 37歲單車手遭醫生忽略一症狀 兩度心臟驟停 揭患心肌炎被迫辭職換心保命 - 東張+ - myTV SUPER",
+      "published": "2026-08-11T06:09:28+00:00",
+      "summary": "心肌炎 | 37歲單車手遭醫生忽略一症狀 兩度心臟驟停 揭患心肌炎被迫辭職換心保命 - 東張+&nbsp;&nbsp;myTV SUPER",
+      "sources": [
+        {
+          "name": "myTV SUPER",
+          "link": "https://news.google.com/rss/articles/CBMingRBVV95cUxOTEp6ejZ0YnFpaFpCOXNCenRhY0lvVC1YQXdPSGFuZjZWTjlCUmU2YWVzdzhYd2RJVlFZVTktLTN4S2NmSmM1cmZMZE9GLTN2OG5FellrTTlqWVlRUGxtd0dnNWJZSGtzc3NZem82SnYzTFpPUFJZcW5lWEttRmh4ZmxVbGx4RE44SnMyNmh1dlFXYWx1cEZTN3VLUUVNbWVFVDdISGVUd1JGcXA2XzN0OUlLS2QtTm54R3p3cElVQ0l6UEdlcXdrMXNMaEpoVEN5QnpicGNhMEZKZG1udDR3bTFqYUpKdFl5Mm9Ia0ZTTUxYcFlnRkp2WklteWtQSFpCcnFfbXloYjFLV1FkUGQxc0dLWG9JY2xMdy1xamNVQTBiNlZkLWYzSFdjb21YZUE4MW9JTkxOT1BVUFZVREx3TmJoSmRSLWNrWE5VWFJDWEl2NGVsaGp6WlVjN3BzZ3NzTDhJMXkzQldKckNoZjF1bzZ0dkxBMHV6TmZSTXNOMjlGVEJPMDhZTTVTbWp2YWpZcUZBTnoxMEFJUXdoRC1aM1JxWHdhUnNQVkxTOEVhckJMUFhqSVRlZzJxdm5sN1hXdEZ0dkpNVlZEeGMwOVVoREdOR1hESTRnclNxOGhvb1pqN3ZzLW5ZdnpZTzdDRGdwRENCb084cmJoTlJnMXNvR0xjekliUnJvbk83clRycTdlZG9rMmNKd0tkRVVtZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4a7665522da7",
+      "title": "禿頭｜光頭原來有好處？美國研究揭30歲前開始脫髮 前列腺癌風險降低29% - 東張+ - myTV SUPER",
+      "published": "2026-08-11T04:48:04+00:00",
+      "summary": "禿頭｜光頭原來有好處？美國研究揭30歲前開始脫髮 前列腺癌風險降低29% - 東張+&nbsp;&nbsp;myTV SUPER",
+      "sources": [
+        {
+          "name": "myTV SUPER",
+          "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxPMzRuYmNEYUMycGpzZmpBWDdiV3I2ZmNkcVByczlpaDg3TjlHUno5TjhxYTkxc0p0dksxMlQ1OHVTbzdzWTlEcXBGWEhBSGE5MzJxeHN5QUZLcTByQ1hYajhYa2hZdU5VZ1h1XzUxOXJQbnV6dFZ1N0h6MHlMRVJHTHFCaHdQdlpZc2tCMjZIWjNtdFh0OXR0Zjg5TXlJSDU0MEhHN2dGancya3RoNlFSV0x4VVl2bGloMkYxRjk0TDRkTmRTZ2RuSXI5TEUyTG5JblloeVNFb21kTnRpaVZQLXFjdm1kS3p4a0s5UGxfUDREM2lsdXMwai0zU1JLRFBGR2N5QlZuRy1nWUtKRnlaY3c3MDZpNHVMUFNlSlI2eXpST29fdXA2VVkxcnFsNHFvWFVfTnBmUVc5WXlFSWlFaE15ZkcxMHlFMkxHMlY1UE94amltZjN3dUo1UGNldDBWWTNudmFaeGtUbF9ITXJZekp2M2M2NUM3a24yWUV3NXNydVRLM3FEV0htVWExVHZoVkFRVVdoeGdYNWxpVTV2ZWFQWkxDWExzRXZtcUpxRmd3Yi1tNzNhY2RmS1JOU2RaVWNfdGRwMkxtX1pMbFM2VVQ0TnFLOUU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "735e260f5cb6",
       "title": "長期食茶葉蛋會傷腎？專家拆解2大迷思「高鈉是隱藏危機」附安全食用建議 - singtao.ca",
       "published": "2026-08-12T15:56:53+00:00",
@@ -240,18 +324,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNc1dfdUlhdnhocHA1cFU0aEJXMWZOU2p0bmYxaFpXcGtJeXg2Q0MyY19QeVBnbklzUlltLXlNRXcxckQ3TjBzc0Y5TFJGSG1GOEs5aHpKbTNEakNGU0tnOUp3UlA3aUtKMGMzUER1dmk5dlFtNlpEQ3ZpVEZwZXp4UmtPQUlwbVpqM1dHVDF0Z3BhYmh0X0ZiMy0yb1pjS0hTVURjVzdRVHdWdWwtckpyM0Rpb0ZfNWMyWEpEWW9wVi1NOC1rZ193M01hbkxmbHdiVF9GRndDZjRPdDJRTlE2SDAwWVVlWmhvU2k3bEsya3N6ejFTeEdqTWhFZlpsdlM3b0M1NG4zSFRIUXNudHE3OWJTOWNicVIzVHBla2E3UjRZZUZ0Tjc4amZwVVZNb2l4T0hheUdDVG5IaHhRdkFfNGRPNFR1ZzZVSHFkWDFDamUyeWVxUnNsSlVlb0xUa2dnUHNrUHJtYzk4UHQtSEg0VjZkSXVFMkFPb0RuRmhwcS03Wk1JUjkzeGlreGlCNHlkNVlXTTRmcGtTVUlsYkp4U2J2TkZDeUZ5djFVNjlYcTBOaEM1QkdnWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "30e6393052ce",
-      "title": "行山客被咬以為是雀鳥 大溫接觸蝙蝠求診增 慎防瘋狗症 - singtao.ca",
-      "published": "2026-08-12T05:01:18+00:00",
-      "summary": "行山客被咬以為是雀鳥 大溫接觸蝙蝠求診增 慎防瘋狗症&nbsp;&nbsp;singtao.ca",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxNSGlqb3k0ZFVIbFl2MndUTFlRS2FqdXFIMzF1NXZDZ0IzSHpMZTZ0dWpBbE5NX3R1YlQ1dnV0UkR1OWh3VG5yQTZBTXRYUzN3a2dTVlg0Y20ydHBXeU9yOWJiTjRrZlV5dVBNbXVhSDRrcjh5N0J3V1lfRWhHRlluUkJnWWd0YjFzV0FzdzNmWXNuSzNiRUxsMG5TU1VYczBCTVNFVUV5UlRMa2tBamMxcl9UcFRVMWVOVXdMclB5ZEVkV0E1QTNieEdLR3ptaEptdVNtcHktYXBtVFNsTnZOU3IxbDJsYTFSanMyUHNXRXBSVi1VdzcwbEh1WGs5Z1NDUDhvOWNHcmRzbE96cV9HWWdubmhDYjNxdWZqZVh2WE9LUmhrSkFvQ2E1NlRWYnlVS2dYUGlROGhiNEdYV081cklLQ0dsemtqWU9Ockh1LUxuaU1rU2NjelA0dm83Z0ltOXpxaDJVQUtrZGYxTU9jU1h4ejRzRDRuWFVnQWJTLXB1Umhm0gGSAUFVX3lxTE8wYjRhX1VKRlhIY1VEODlxcExHdE51YWNRaTlPajJZX01qTE1HMlA3bDhmX0NvVFgyb0RpcDlSMWVSai1wbzFKbWJtc1g4ZHlsejdqOHZPWmQ3SlRyRFJPY0xIZEU2cURzeEtRN1RlN2JUUGlCTnozcG1Xd0Y4MnlzWVY5NUxWMDBKOFlIcGJ1TS1B?oc=5"
         }
       ]
     },
