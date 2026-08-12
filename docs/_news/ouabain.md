@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [長者心臟衰竭風險增 按身體狀況調整治療助患者活得更自在](https://news.google.com/rss/articles/CBMilgNBVV95cUxQeTJyWjZoa21PS2RIUUgzT0N5SUxKMDBhR2FNNjhJb0E0R2FuRlltZ3JUWnkxOTY1NzdzNmFvVllKdVZxamlaZ29TdklSYXk5MWNBTnRTaC1UV2lvRWJ6S3hfREoySjJLM0Iza3hUckNsa3BMTnVRbkxsaWozYmkzbllzRDdGcFYwXzg4X01VR05mczhzTXNKVUp0Z0xuekFfZ2FLRkU3NE1fS3ExRHBiaVRfblgycnhJNXpMZmwxM0ctU1J6cE1mQzJ5a2FoMzlRVjhLU1VsemQ5czJoVjZiZU5CTGpNSkpRVGxtVF9wbkdmSGlNYlR0azBXRi1RVmczM0hFdFBidENzM0JMRWJvWDA0d0RnTlRIQW5CV3doSnB0bEU1OGI2NmdVX1RfM2ROaEhiNUdSZ3BQUzZoR3hPQ1E5N0puLWdMcjVaZTBBTUsxbmk5M2hnd2xTYnQzb0VDQ1UtbmxRdjY4aHpNanRzWGdFNklEbVpfNkdvME5Lc1NrYXJZQ2RNRWVUd21vSHRpMmpaMi13?oc=5)
+
+2026-08-11 <span class="news-indication-tag">心臟衰竭</span>
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMilgNBVV95cUxQeTJyWjZoa21PS2RIUUgzT0N5SUxKMDBhR2FNNjhJb0E0R2FuRlltZ3JUWnkxOTY1NzdzNmFvVllKdVZxamlaZ29TdklSYXk5MWNBTnRTaC1UV2lvRWJ6S3hfREoySjJLM0Iza3hUckNsa3BMTnVRbkxsaWozYmkzbllzRDdGcFYwXzg4X01VR05mczhzTXNKVUp0Z0xuekFfZ2FLRkU3NE1fS3ExRHBiaVRfblgycnhJNXpMZmwxM0ctU1J6cE1mQzJ5a2FoMzlRVjhLU1VsemQ5czJoVjZiZU5CTGpNSkpRVGxtVF9wbkdmSGlNYlR0azBXRi1RVmczM0hFdFBidENzM0JMRWJvWDA0d0RnTlRIQW5CV3doSnB0bEU1OGI2NmdVX1RfM2ROaEhiNUdSZ3BQUzZoR3hPQ1E5N0puLWdMcjVaZTBBTUsxbmk5M2hnd2xTYnQzb0VDQ1UtbmxRdjY4aHpNanRzWGdFNklEbVpfNkdvME5Lc1NrYXJZQ2RNRWVUd21vSHRpMmpaMi13?oc=5)
+
+---
 
 
 <div class="disclaimer">
