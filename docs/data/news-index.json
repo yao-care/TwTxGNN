@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T05:25:57.470380+00:00",
-  "count": 8,
+  "generated": "2026-08-12T07:09:42.922414+00:00",
+  "count": 10,
   "news": [
     {
       "id": "5fef35c1077f",
@@ -441,12 +441,12 @@
       ]
     },
     {
-      "id": "3f5fd42ce090",
+      "id": "149353e707c9",
       "title": "別小看走路！研究證實：每天走1萬步 癌友活得更健康",
       "published": "2026-08-12T00:00:35+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPbkQ2c2ZiUUd5RjdqbFhkcThZMVU1cjk3eVpCTTg5VExJMHpCSHdSQmRLcmo3bkc1dE5lVXA2Q1k3d1U1cUdHMmptUFVtMUVpcXhDU2tQcEh6X19HY0o5UUlqcjhWVWJRazJoS1RqX3I2cTB1OHFsSF9hNlZ6MEhJSElmZUNtVllMa0lQTUxOcXV0eEdDd2lYbFJrZnA4NnZGZzVLWGFpdTYxNXdBWkV0MGxRYmVMV18xY3lRc3lQajIwa1lFWkFGUWRLUmVyZU8tVUZGNC1ydTRIT2pPQ1FtTkFmWFFHUHhJUG96MFg5NE1SVjFKa0VUcGZQRXFIMm9WalZxelpYMUJWLWt4NGVqV1lMSEY3SUk0akkwUVU2NzlORjhtQkFqNG01aTNuYnlhOVFmTXZjaEF2U2xRSG51U0lrQUQ3VTVWTml5cC1WanpRTzND?oc=5"
         }
       ],
@@ -523,12 +523,12 @@
       ]
     },
     {
-      "id": "c88c3bb16249",
+      "id": "4ba97dc7d141",
       "title": "高血壓治療迎來新曙光！研究發現全新作用靶點",
       "published": "2026-08-11T11:37:00+00:00",
       "sources": [
         {
-          "name": "蕃新聞",
+          "name": "n.yam.com",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tZ0htaDQxbGJPQUs3RUNIa0dveXhBVDNHcGlvcnFtU1Zwek5NMTI4Y0pubUktU244aDVvSmFWd3lndzlOR2lMV3A2cUd1VkQ3REE?oc=5"
         }
       ],
@@ -545,6 +545,30 @@
             {
               "slug": "metoprolol",
               "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2a7b2b4fbb5",
+      "title": "心肌炎 | 37歲單車手遭醫生忽略一症狀 兩度心臟驟停 揭患心肌炎被迫辭職換心保命 - 東張+",
+      "published": "2026-08-11T06:09:28+00:00",
+      "sources": [
+        {
+          "name": "mytvsuper.com",
+          "link": "https://news.google.com/rss/articles/CBMingRBVV95cUxOTEp6ejZ0YnFpaFpCOXNCenRhY0lvVC1YQXdPSGFuZjZWTjlCUmU2YWVzdzhYd2RJVlFZVTktLTN4S2NmSmM1cmZMZE9GLTN2OG5FellrTTlqWVlRUGxtd0dnNWJZSGtzc3NZem82SnYzTFpPUFJZcW5lWEttRmh4ZmxVbGx4RE44SnMyNmh1dlFXYWx1cEZTN3VLUUVNbWVFVDdISGVUd1JGcXA2XzN0OUlLS2QtTm54R3p3cElVQ0l6UEdlcXdrMXNMaEpoVEN5QnpicGNhMEZKZG1udDR3bTFqYUpKdFl5Mm9Ia0ZTTUxYcFlnRkp2WklteWtQSFpCcnFfbXloYjFLV1FkUGQxc0dLWG9JY2xMdy1xamNVQTBiNlZkLWYzSFdjb21YZUE4MW9JTkxOT1BVUFZVREx3TmJoSmRSLWNrWE5VWFJDWEl2NGVsaGp6WlVjN3BzZ3NzTDhJMXkzQldKckNoZjF1bzZ0dkxBMHV6TmZSTXNOMjlGVEJPMDhZTTVTbWp2YWpZcUZBTnoxMEFJUXdoRC1aM1JxWHdhUnNQVkxTOEVhckJMUFhqSVRlZzJxdm5sN1hXdEZ0dkpNVlZEeGMwOVVoREdOR1hESTRnclNxOGhvb1pqN3ZzLW5ZdnpZTzdDRGdwRENCb084cmJoTlJnMXNvR0xjekliUnJvbk83clRycTdlZG9rMmNKd0tkRVVtZw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "肌炎",
+          "keyword": "肌炎",
+          "related_drugs": [
+            {
+              "slug": "carisoprodol",
+              "name": "Carisoprodol"
             }
           ]
         }
@@ -579,12 +603,12 @@
       ]
     },
     {
-      "id": "89e3f3bf6df5",
+      "id": "038d44de2976",
       "title": "下眼瞼這條線代表過敏體質？了解丹尼摩根線 逾8成濕疹患者有此皺褶",
       "published": "2026-08-11T04:00:10+00:00",
       "sources": [
         {
-          "name": "stheadline.com",
+          "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNc1dfdUlhdnhocHA1cFU0aEJXMWZOU2p0bmYxaFpXcGtJeXg2Q0MyY19QeVBnbklzUlltLXlNRXcxckQ3TjBzc0Y5TFJGSG1GOEs5aHpKbTNEakNGU0tnOUp3UlA3aUtKMGMzUER1dmk5dlFtNlpEQ3ZpVEZwZXp4UmtPQUlwbVpqM1dHVDF0Z3BhYmh0X0ZiMy0yb1pjS0hTVURjVzdRVHdWdWwtckpyM0Rpb0ZfNWMyWEpEWW9wVi1NOC1rZ193M01hbkxmbHdiVF9GRndDZjRPdDJRTlE2SDAwWVVlWmhvU2k3bEsya3N6ejFTeEdqTWhFZlpsdlM3b0M1NG4zSFRIUXNudHE3OWJTOWNicVIzVHBla2E3UjRZZUZ0Tjc4amZwVVZNb2l4T0hheUdDVG5IaHhRdkFfNGRPNFR1ZzZVSHFkWDFDamUyeWVxUnNsSlVlb0xUa2dnUHNrUHJtYzk4UHQtSEg0VjZkSXVFMkFPb0RuRmhwcS03Wk1JUjkzeGlreGlCNHlkNVlXTTRmcGtTVUlsYkp4U2J2TkZDeUZ5djFVNjlYcTBOaEM1QkdnWQ?oc=5"
         }
       ],
@@ -621,6 +645,53 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "96da3f98ac19",
+      "title": "大腸癌篩選降年齡魁省仍維持五十歲",
+      "published": "2026-08-11T01:43:21+00:00",
+      "sources": [
+        {
+          "name": "華僑時報",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LRloyZzA2TE9jVlBOejVhOUhQNEYxWXp5NVdDTnBmRjBDekFDNlpWZW14eFdFUXVDcHNnSHVDUHVEelRtTGZRaF9FSjVPSDJ2LVVPOU5TcFU?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
