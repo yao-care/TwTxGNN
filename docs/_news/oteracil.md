@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內](https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5)
+
+2026-08-12 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5)
+
+---
 
 ### [別小看走路！研究證實：每天走1萬步 癌友活得更健康](https://news.google.com/rss/articles/CBMi1AJBVV95cUxPbkQ2c2ZiUUd5RjdqbFhkcThZMVU1cjk3eVpCTTg5VExJMHpCSHdSQmRLcmo3bkc1dE5lVXA2Q1k3d1U1cUdHMmptUFVtMUVpcXhDU2tQcEh6X19HY0o5UUlqcjhWVWJRazJoS1RqX3I2cTB1OHFsSF9hNlZ6MEhJSElmZUNtVllMa0lQTUxOcXV0eEdDd2lYbFJrZnA4NnZGZzVLWGFpdTYxNXdBWkV0MGxRYmVMV18xY3lRc3lQajIwa1lFWkFGUWRLUmVyZU8tVUZGNC1ydTRIT2pPQ1FtTkFmWFFHUHhJUG96MFg5NE1SVjFKa0VUcGZQRXFIMm9WalZxelpYMUJWLWt4NGVqV1lMSEY3SUk0akkwUVU2NzlORjhtQkFqNG01aTNuYnlhOVFmTXZjaEF2U2xRSG51U0lrQUQ3VTVWTml5cC1WanpRTzND?oc=5)
 

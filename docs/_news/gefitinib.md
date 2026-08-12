@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTdIBY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTQ?oc=5)
+### [不吸菸、無慢性病 可延後13年失智](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KdVVEMUxpbGhUSnduUkw5MGgwQ2ctNm9VR296bGt1ZDNsT0dxNWkySlBiTHhJcGFlT1Ztcm5UQlctSHNicEJvR0JHQzVvaE4yaWgwYmdVbw?oc=5)
 
-2026-08-10 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+2026-08-12 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[元氣網](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTdIBY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTQ?oc=5)
+來源：[anntw.com](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KdVVEMUxpbGhUSnduUkw5MGgwQ2ctNm9VR296bGt1ZDNsT0dxNWkySlBiTHhJcGFlT1Ztcm5UQlctSHNicEJvR0JHQzVvaE4yaWgwYmdVbw?oc=5)
+
+---
+
+### [癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內](https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5)
+
+2026-08-12 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5)
 
 ---
 

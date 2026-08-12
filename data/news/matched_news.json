@@ -1,17 +1,457 @@
 {
-  "last_updated": "2026-08-12T03:56:16.610335+00:00",
+  "last_updated": "2026-08-12T05:25:57.438051+00:00",
   "total_count": 23,
-  "matched_count": 7,
+  "matched_count": 8,
   "news": [
     {
-      "id": "e8bb43fe25c7",
-      "title": "瘦身有代價 研究：打瘦瘦針後脫髮風險 暴增近七成",
-      "published": "2026-08-12T03:30:00+00:00",
-      "summary": "瘦身有代價 研究：打瘦瘦針後脫髮風險 暴增近七成&nbsp;&nbsp;AM730",
+      "id": "5fef35c1077f",
+      "title": "不吸菸、無慢性病 可延後13年失智",
+      "published": "2026-08-12T04:48:41+00:00",
+      "summary": "不吸菸、無慢性病 可延後13年失智&nbsp;&nbsp;anntw.com高達45%失智可預防！WHO最新指南：日常生活做好「這6件事」就有效&nbsp;&nbsp;天下雜誌研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防&nbsp;&nbsp;元氣網中年做好「這3件事」 有機會延緩失智症13年&nbsp;&nbsp;自由健康網45歲後是關鍵！研究曝「做好3件事」可多13年不失智- 國際&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOQlotVGwxOUxFbkg1WDZ0ZlNHUndKbE9CckFwUnZNbzdlNTZrWGJlTzVUbjA2YVpjOGp1TVpBQTVWZkdZRXpYN1BMOWc3VjBiOU4wVVpJeFRYNXR4QkprMThsc0VwWldnWFJwQlB5YlNTdVFFQzl6WnppN2FRcHZ0R05xQVV1SENZLTR2OFdGeWh3cUMyQjVtaUZNNkVaZFlXY25EQ3dULThHNndVM1Y3S09UenlQdzktTnJLaUIyZlRQay1NUjVJN0xDRXRJU1FrSGZzSlA1Y1FfTjdSZ3JQM3F0ZkJiazBIV3JSNXRGb3hsdEZwN1J5eTJfZ0xlTUNMVTN6TzEzQkF1ZXRvUzFiTXFnRy1WMHZZenZEOW5CSkVGNF9wdFctUERuampPWjNlSG5yT0xrQm94Vm94bmhPU2VRZXloZlJqc3g4VVdpVllGRm5tVjd1VEk5WTdNVWdhS0E?oc=5"
+          "name": "anntw.com",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KdVVEMUxpbGhUSnduUkw5MGgwQ2ctNm9VR296bGt1ZDNsT0dxNWkySlBiTHhJcGFlT1Ztcm5UQlctSHNicEJvR0JHQzVvaE4yaWgwYmdVbw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0ee068cb9a28",
+      "title": "癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內",
+      "published": "2026-08-12T04:43:00+00:00",
+      "summary": "癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腫瘤",
+          "keyword": "腫瘤",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a19f4a1f05fd",
+      "title": "衞生署為男男性接觸者免費接種甲型肝炎疫苗 截斷特定人群感染群組傳播鏈",
+      "published": "2026-08-12T04:22:30+00:00",
+      "summary": "衞生署為男男性接觸者免費接種甲型肝炎疫苗 截斷特定人群感染群組傳播鏈&nbsp;&nbsp;香港文匯報防護中心：為男男性接觸者免費接種甲肝疫苗9.12起停止&nbsp;&nbsp;橙新聞衞生署為逾280名男同性戀免費接種甲肝疫苗 已截斷傳播鏈&nbsp;&nbsp;香港商报衞生署為男男性接觸者免費接種甲型肝炎疫苗 成功截斷特定人群感染群組傳播鏈&nbsp;&nbsp;大公文匯網男男性接觸者免費接種甲肝疫苗 9.12起停止&nbsp;&nbsp;on.cc東網",
+      "sources": [
+        {
+          "name": "香港文匯報",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tOW4wMldFZHRHSFRYMEpfOE0yQnR6SWlZYXg2M2huNF80dHJ0ZVR0UWR2NEpPRW0yTjJ1M3pZek1CWjJiaThIOEdkbXpKYjd3ZHFMeGlsSDdmM0czaGJ0c2lRODdiZnF5TVp1cE5rX21nNnVJamtz?oc=5"
         }
       ],
       "matched_keywords": []
@@ -33,7 +473,7 @@
       "id": "6ceb55f1af8c",
       "title": "喝豆漿養肌瘤？營養師破迷思揭4大好處- 健康",
       "published": "2026-08-12T00:36:36+00:00",
-      "summary": "喝豆漿養肌瘤？營養師破迷思揭4大好處- 健康&nbsp;&nbsp;中時新聞網喝豆漿會長肌瘤？營養師破除謠言曝：每天一杯能換來這「4好處」&nbsp;&nbsp;三立新聞研究揭3大豆製品屬平價抗癌之星 常喝豆漿患癌率大降28% 附最佳攝取量&nbsp;&nbsp;singtao.ca早餐飲料怎麼選？ 營養師推無糖豆漿喊有「4大好處」&nbsp;&nbsp;news.nextapple.com早上空腹喝豆漿效果打折？營養師揭最佳飲用時機：餐前、運動後30分鐘更適合&nbsp;&nbsp;女人我最大",
+      "summary": "喝豆漿養肌瘤？營養師破迷思揭4大好處- 健康&nbsp;&nbsp;中時新聞網喝豆漿會長肌瘤？營養師破除謠言曝：每天一杯能換來這「4好處」&nbsp;&nbsp;Yahoo新聞早餐飲料怎麼選？ 營養師推無糖豆漿喊有「4大好處」&nbsp;&nbsp;壹蘋新聞網研究揭3大豆製品屬平價抗癌之星 常喝豆漿患癌率大降28% 附最佳攝取量&nbsp;&nbsp;singtao.ca早上空腹喝豆漿效果打折？營養師揭最佳飲用時機：餐前、運動後30分鐘更適合&nbsp;&nbsp;女人我最大",
       "sources": [
         {
           "name": "中時新聞網",
@@ -207,13 +647,13 @@
       "matched_keywords": []
     },
     {
-      "id": "1ebcabaec3f7",
+      "id": "1513ae4de6b6",
       "title": "胃酸倒流反覆發作？可能係橫膈膜裂孔疝氣導致",
       "published": "2026-08-11T10:30:00+00:00",
-      "summary": "胃酸倒流反覆發作？可能係橫膈膜裂孔疝氣導致&nbsp;&nbsp;AM730",
+      "summary": "胃酸倒流反覆發作？可能係橫膈膜裂孔疝氣導致&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNS0xCN1VVdWFyd2VGMy00MkxwMENOLUFtOVlpaDd5UkZEZzlJTVZ2MVhtOG1PaTJfRWo5Sm1UUnBXVV80Y3dJM3JtOGhRYklQWUQ3alFZQlZwcG5tY0FoaDloclVtM2NfUnQxbTRRN0NWRUZaekc0OUZGQV9NRTVmSEtvVk1vQXNZNnFkTzFjMnZKS2x1ZW9CYWNNM2pjbGs2bm1Ieno5UE16TlZTYmRZUUZ3eDJUa2U1d3pJOS1rTlR0U2d4cU5hY1ktNU1zQ0xVTWItN05rS3Zzc0xnWC1QbGNrcE1WZXQ3VXN6YmVhdnJvMmhvNEdGWXZMS1ZNRUJXWFFEeWFXY2dsVHgzLUE3UjR0NGJOcWM1bHM4MDc4M3U1QnoyaW1vRWhnRXVhLXpGSDhFaklVcWh3WEFRWUg2UE1MRkNTUG0tVWpJcWVwb1pMTm8?oc=5"
         }
       ],
@@ -275,13 +715,13 @@
       ]
     },
     {
-      "id": "038d44de2976",
+      "id": "89e3f3bf6df5",
       "title": "下眼瞼這條線代表過敏體質？了解丹尼摩根線 逾8成濕疹患者有此皺褶",
       "published": "2026-08-11T04:00:10+00:00",
-      "summary": "下眼瞼這條線代表過敏體質？了解丹尼摩根線 逾8成濕疹患者有此皺褶&nbsp;&nbsp;星島頭條",
+      "summary": "下眼瞼這條線代表過敏體質？了解丹尼摩根線 逾8成濕疹患者有此皺褶&nbsp;&nbsp;stheadline.com",
       "sources": [
         {
-          "name": "星島頭條",
+          "name": "stheadline.com",
           "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNc1dfdUlhdnhocHA1cFU0aEJXMWZOU2p0bmYxaFpXcGtJeXg2Q0MyY19QeVBnbklzUlltLXlNRXcxckQ3TjBzc0Y5TFJGSG1GOEs5aHpKbTNEakNGU0tnOUp3UlA3aUtKMGMzUER1dmk5dlFtNlpEQ3ZpVEZwZXp4UmtPQUlwbVpqM1dHVDF0Z3BhYmh0X0ZiMy0yb1pjS0hTVURjVzdRVHdWdWwtckpyM0Rpb0ZfNWMyWEpEWW9wVi1NOC1rZ193M01hbkxmbHdiVF9GRndDZjRPdDJRTlE2SDAwWVVlWmhvU2k3bEsya3N6ejFTeEdqTWhFZlpsdlM3b0M1NG4zSFRIUXNudHE3OWJTOWNicVIzVHBla2E3UjRZZUZ0Tjc4amZwVVZNb2l4T0hheUdDVG5IaHhRdkFfNGRPNFR1ZzZVSHFkWDFDamUyeWVxUnNsSlVlb0xUa2dnUHNrUHJtYzk4UHQtSEg0VjZkSXVFMkFPb0RuRmhwcS03Wk1JUjkzeGlreGlCNHlkNVlXTTRmcGtTVUlsYkp4U2J2TkZDeUZ5djFVNjlYcTBOaEM1QkdnWQ?oc=5"
         }
       ],
@@ -389,19 +829,6 @@
       ]
     },
     {
-      "id": "1292cf3bae17",
-      "title": "沒有錢的壓力會傷大腦！醫揭：長期皮質醇升高恐加速記憶衰退- 書房",
-      "published": "2026-08-10T23:32:00+00:00",
-      "summary": "沒有錢的壓力會傷大腦！醫揭：長期皮質醇升高恐加速記憶衰退- 書房&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yZ3NmcnVYUzBiN1lZOWZhSExNODBpRXNlVlNmVDZzbElHTkJ1U0U0LVJlT2xjTU5aSEVjYXZLYm5BOFVoN0tiRGtaTzlUV0dfSkV4NFpQMmNCQWVtcFRr?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "ee3bcf06ac84",
       "title": "研究揭青少年心理健康可能受同儕影響 專家籲「勿貼標籤」關心更重要",
       "published": "2026-08-10T10:00:00+00:00",
@@ -415,53 +842,17 @@
       "matched_keywords": []
     },
     {
-      "id": "805343a18c20",
+      "id": "a0b58e4143e0",
       "title": "護肝｜營養補充品愈補愈傷肝 研究揭這種維他命食太多可致肝衰竭",
       "published": "2026-08-10T07:30:00+00:00",
-      "summary": "護肝｜營養補充品愈補愈傷肝 研究揭這種維他命食太多可致肝衰竭&nbsp;&nbsp;AM730",
+      "summary": "護肝｜營養補充品愈補愈傷肝 研究揭這種維他命食太多可致肝衰竭&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxPeGt1SDhoMTR0XzJwdkgxSS1ydTVsajhfaUw0c1JYbDFzb2dFcWVSaS1VX2MyZVhMUlNnWHhMY05zb2Rwa2lqTWZkTFA2bE9NSEpwSG14WnlVSFlVTTRTMUxza1RBRnBIaS0zcGxJeHZBd1RlZjhPOXNnb2MwNjZwN3NTTnpseU9SblZoa2ItYVVtU09mQlBjOHc2djB2ZEV1U2gxQW50VWpXbGI3UkE3bVl2aUFZM2dHYnM0N3hVLVZ2Y0l1bzNNMGNqRHFXMElfb1k4ZzhJSjVYcEFQZUFhVmRHeW9iVzhqblcwbUlJWF9SX3BZQVJXZl93Q3Zwd0p2cDNqTlA0Q0ZqMTVXSGU0RlpaZ2tCcVJzUnprOFNBa1IyZXM0MndGbWZGSjdRWjVyVkIxMHlRZkpfa3I3MDVGd3NIODM3N3ozVG8yTGhHcTJMVmpHWE1mVUp1NU5iMEVQN1JpbFlSSEUxaUJWcUZ1TEZjTEVYZjRGNXFKbDcwRG9od0lLZ1dTek1ncFB6Q0tMeDRnYTNuUWlBMkZmamJjV1E5dE5KZkwxU1FPU2RWdDVheXBh?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "430a2093e614",
-      "title": "研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防",
-      "published": "2026-08-10T03:56:42+00:00",
-      "summary": "研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防&nbsp;&nbsp;元氣網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTdIBY0FVX3lxTE9kZDFYbS02X0tITmhnZnIzWFRucFZFRVRyMU4zS29ER3d1Q19sQk1uQWRiVEdGYXNTVmo5Z1ZWMUdhREtiS1lCWm5hbWhtVVp2QkQ2QjFwR1R4M1plS1dBRGRyTQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
