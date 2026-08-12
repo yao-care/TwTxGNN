@@ -14,7 +14,7 @@ permalink: /news/carisoprodol/
 ---
 
 <p class="key-answer" data-question="Carisoprodol 有什麼相關新聞？">
-<strong>Carisoprodol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Carisoprodol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,15 +33,9 @@ permalink: /news/carisoprodol/
 <p><a href="{{ '/drugs/carisoprodol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [心肌炎 | 37歲單車手遭醫生忽略一症狀 兩度心臟驟停 揭患心肌炎被迫辭職換心保命 - 東張+ - myTV SUPER](https://news.google.com/rss/articles/CBMingRBVV95cUxOTEp6ejZ0YnFpaFpCOXNCenRhY0lvVC1YQXdPSGFuZjZWTjlCUmU2YWVzdzhYd2RJVlFZVTktLTN4S2NmSmM1cmZMZE9GLTN2OG5FellrTTlqWVlRUGxtd0dnNWJZSGtzc3NZem82SnYzTFpPUFJZcW5lWEttRmh4ZmxVbGx4RE44SnMyNmh1dlFXYWx1cEZTN3VLUUVNbWVFVDdISGVUd1JGcXA2XzN0OUlLS2QtTm54R3p3cElVQ0l6UEdlcXdrMXNMaEpoVEN5QnpicGNhMEZKZG1udDR3bTFqYUpKdFl5Mm9Ia0ZTTUxYcFlnRkp2WklteWtQSFpCcnFfbXloYjFLV1FkUGQxc0dLWG9JY2xMdy1xamNVQTBiNlZkLWYzSFdjb21YZUE4MW9JTkxOT1BVUFZVREx3TmJoSmRSLWNrWE5VWFJDWEl2NGVsaGp6WlVjN3BzZ3NzTDhJMXkzQldKckNoZjF1bzZ0dkxBMHV6TmZSTXNOMjlGVEJPMDhZTTVTbWp2YWpZcUZBTnoxMEFJUXdoRC1aM1JxWHdhUnNQVkxTOEVhckJMUFhqSVRlZzJxdm5sN1hXdEZ0dkpNVlZEeGMwOVVoREdOR1hESTRnclNxOGhvb1pqN3ZzLW5ZdnpZTzdDRGdwRENCb084cmJoTlJnMXNvR0xjekliUnJvbk83clRycTdlZG9rMmNKd0tkRVVtZw?oc=5)
-
-2026-08-11 <span class="news-indication-tag">肌炎</span>
-
-來源：[myTV SUPER](https://news.google.com/rss/articles/CBMingRBVV95cUxOTEp6ejZ0YnFpaFpCOXNCenRhY0lvVC1YQXdPSGFuZjZWTjlCUmU2YWVzdzhYd2RJVlFZVTktLTN4S2NmSmM1cmZMZE9GLTN2OG5FellrTTlqWVlRUGxtd0dnNWJZSGtzc3NZem82SnYzTFpPUFJZcW5lWEttRmh4ZmxVbGx4RE44SnMyNmh1dlFXYWx1cEZTN3VLUUVNbWVFVDdISGVUd1JGcXA2XzN0OUlLS2QtTm54R3p3cElVQ0l6UEdlcXdrMXNMaEpoVEN5QnpicGNhMEZKZG1udDR3bTFqYUpKdFl5Mm9Ia0ZTTUxYcFlnRkp2WklteWtQSFpCcnFfbXloYjFLV1FkUGQxc0dLWG9JY2xMdy1xamNVQTBiNlZkLWYzSFdjb21YZUE4MW9JTkxOT1BVUFZVREx3TmJoSmRSLWNrWE5VWFJDWEl2NGVsaGp6WlVjN3BzZ3NzTDhJMXkzQldKckNoZjF1bzZ0dkxBMHV6TmZSTXNOMjlGVEJPMDhZTTVTbWp2YWpZcUZBTnoxMEFJUXdoRC1aM1JxWHdhUnNQVkxTOEVhckJMUFhqSVRlZzJxdm5sN1hXdEZ0dkpNVlZEeGMwOVVoREdOR1hESTRnclNxOGhvb1pqN3ZzLW5ZdnpZTzdDRGdwRENCb084cmJoTlJnMXNvR0xjekliUnJvbk83clRycTdlZG9rMmNKd0tkRVVtZw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
