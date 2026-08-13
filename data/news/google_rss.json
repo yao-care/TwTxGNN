@@ -1,16 +1,16 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-13T14:15:51.870492+00:00",
-  "count": 20,
+  "fetched_at": "2026-08-13T15:50:17.639023+00:00",
+  "count": 21,
   "news": [
     {
-      "id": "906f70434668",
-      "title": "抗癌免疫新發現 特殊細胞助T細胞對抗腫瘤 - 自由健康網",
+      "id": "99d97a71a2cc",
+      "title": "抗癌免疫新發現 特殊細胞助T細胞對抗腫瘤 - health.ltn.com.tw",
       "published": "2026-08-13T06:53:00+00:00",
-      "summary": "抗癌免疫新發現 特殊細胞助T細胞對抗腫瘤&nbsp;&nbsp;自由健康網",
+      "summary": "抗癌免疫新發現 特殊細胞助T細胞對抗腫瘤&nbsp;&nbsp;health.ltn.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SbVR4R3JkUmk0LWNQamFta1h0RnFnVEpCRkZFaTRKMGJxZ0dDY09hNU14cTBtaXkxZXlPZlR6OVdRQlFoU255RWRESmdkVjVfSndFc2t4Y3dGNnB2VGdiVlN1M0s?oc=5"
         }
       ]
@@ -64,10 +64,22 @@
       ]
     },
     {
+      "id": "120065e78497",
+      "title": "哈士奇禿毛恐致病？《醫學大聯盟》警：過量維他命 C 小心毛孩結石風險 - - 民視健康長照網",
+      "published": "2026-08-12T00:13:28+00:00",
+      "summary": "哈士奇禿毛恐致病？《醫學大聯盟》警：過量維他命 C 小心毛孩結石風險&nbsp;&nbsp;- 民視健康長照網",
+      "sources": [
+        {
+          "name": "- 民視健康長照網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DQWpicVpKSTc0T294a3JLYzRWTTdub1lkRlhRZWNFLXZaaEJ2UTZ2VlU4d0ZqYWM5d2ktN2ZjQmRZX0JJajdPZ2FZSUFWOGwydkpSRkowOHRNVHQ1RnhDeGJLR3Y?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5fef35c1077f",
       "title": "不吸菸、無慢性病 可延後13年失智 - anntw.com",
       "published": "2026-08-12T04:48:41+00:00",
-      "summary": "不吸菸、無慢性病 可延後13年失智&nbsp;&nbsp;anntw.com中年壞習慣全中！研究驚爆：「這3地雷」沒避開 無失智壽命慘減12.6年&nbsp;&nbsp;三立新聞防失智2026WHO新指引！空污入列，未缺營養素「不建議靠維生素、魚油」&nbsp;&nbsp;遠見雜誌不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防&nbsp;&nbsp;元氣網",
+      "summary": "不吸菸、無慢性病 可延後13年失智&nbsp;&nbsp;anntw.com中年壞習慣全中！研究驚爆：「這3地雷」沒避開 無失智壽命慘減12.6年&nbsp;&nbsp;health.setn.com防失智2026WHO新指引！空污入列，未缺營養素「不建議靠維生素、魚油」&nbsp;&nbsp;遠見雜誌不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防&nbsp;&nbsp;元氣網",
       "sources": [
         {
           "name": "anntw.com",
@@ -76,13 +88,13 @@
       ]
     },
     {
-      "id": "a91f0bc529d6",
-      "title": "健康網》營養師：減重後創造新生活 降內臟脂肪更健康 - 自由健康網",
+      "id": "b5298b75b9b1",
+      "title": "健康網》營養師：減重後創造新生活 降內臟脂肪更健康 - health.ltn.com.tw",
       "published": "2026-08-11T22:22:00+00:00",
-      "summary": "健康網》營養師：減重後創造新生活 降內臟脂肪更健康&nbsp;&nbsp;自由健康網",
+      "summary": "健康網》營養師：減重後創造新生活 降內臟脂肪更健康&nbsp;&nbsp;health.ltn.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFaGttNU1Cb1dpQU5JU3pGaUVzZGtqNjZDdm12cnk2Z3Q1Tks2aENtS2ZsdnZPWGJORWFxM0FtTVUwWnJ2TTFoTUhzSEFReWxWWDFLZEtVQ2RNQk1URmFiUHI3MFU?oc=5"
         }
       ]
@@ -100,13 +112,13 @@
       ]
     },
     {
-      "id": "0ee068cb9a28",
-      "title": "癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內 - 自由健康網",
+      "id": "fa6d1dd474fc",
+      "title": "癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內 - health.ltn.com.tw",
       "published": "2026-08-12T04:43:00+00:00",
-      "summary": "癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內&nbsp;&nbsp;自由健康網",
+      "summary": "癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內&nbsp;&nbsp;health.ltn.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5"
         }
       ]
@@ -136,13 +148,13 @@
       ]
     },
     {
-      "id": "ad3a0fea99d6",
-      "title": "適時接種疫苗守護下一代 衞生署籲維持高接種率防麻疹爆發 - bastillepost.com",
+      "id": "074129afdc5a",
+      "title": "適時接種疫苗守護下一代 衞生署籲維持高接種率防麻疹爆發 - 巴士的報",
       "published": "2026-08-13T01:28:56+00:00",
-      "summary": "適時接種疫苗守護下一代 衞生署籲維持高接種率防麻疹爆發&nbsp;&nbsp;bastillepost.com",
+      "summary": "適時接種疫苗守護下一代 衞生署籲維持高接種率防麻疹爆發&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNc3FSNktXUEh6WkNIN0hrVnJMOHJBbGludzkyU1k4QmZuUF9SSmdxQVFjN3c4V2pTUmplNk9UN0ZHaTFzUkd2SGJNRFB6MTU4OTBPWlVIOUg4cFpuYXJRZ3JSZm5Pa1hTX2NCN2pBSFRZcVM5WHVGcVJvSGhweTRIVi1ENDZDODZ1MS1HNTJmY2VWbUNGYlVVOURKRlBTMnc0NDc3QVNRS1V3aE5VYS1pUDh5Wkg1STdqNjZscUpKWEZTSmFEY3ZJaTY0TDA5aHJBSGZEd2JRNzlwenczdDhYc2JOM2ljYkVfZWxPRDZETXliRnlPQ3pONlFDTXZ3a3NjME01ZFc0UVZMLVVkZWR4TWlndjlRd3U2NTFkUmhnYTNtbTdYdzlNb2YtNEo5akxyTDVrRjJyNmQtbEVTV25sbVRKWm9tMk9qXzJtaVpIUkJiZ1ZRODdrX256MXYtNGppVWs3WUFjODlYVHlONmVN?oc=5"
         }
       ]
@@ -220,18 +232,6 @@
       ]
     },
     {
-      "id": "066cb100da5d",
-      "title": "瘦身有代價 研究：打瘦瘦針後脫髮風險 暴增近七成 - am730",
-      "published": "2026-08-12T03:30:00+00:00",
-      "summary": "瘦身有代價 研究：打瘦瘦針後脫髮風險 暴增近七成&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOQlotVGwxOUxFbkg1WDZ0ZlNHUndKbE9CckFwUnZNbzdlNTZrWGJlTzVUbjA2YVpjOGp1TVpBQTVWZkdZRXpYN1BMOWc3VjBiOU4wVVpJeFRYNXR4QkprMThsc0VwWldnWFJwQlB5YlNTdVFFQzl6WnppN2FRcHZ0R05xQVV1SENZLTR2OFdGeWh3cUMyQjVtaUZNNkVaZFlXY25EQ3dULThHNndVM1Y3S09UenlQdzktTnJLaUIyZlRQay1NUjVJN0xDRXRJU1FrSGZzSlA1Y1FfTjdSZ3JQM3F0ZkJiazBIV3JSNXRGb3hsdEZwN1J5eTJfZ0xlTUNMVTN6TzEzQkF1ZXRvUzFiTXFnRy1WMHZZenZEOW5CSkVGNF9wdFctUERuampPWjNlSG5yT0xrQm94Vm94bmhPU2VRZXloZlJqc3g4VVdpVllGRm5tVjd1VEk5WTdNVWdhS0E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "735e260f5cb6",
       "title": "長期食茶葉蛋會傷腎？專家拆解2大迷思「高鈉是隱藏危機」附安全食用建議 - singtao.ca",
       "published": "2026-08-12T15:56:53+00:00",
@@ -240,6 +240,18 @@
         {
           "name": "singtao.ca",
           "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxQVjlIMkd0SUtGcGw1UDBEVE5fUGdObXp1OGRXcEtrY0V2dVV4ZTZuc0FaanQwNC1GR2NabzlzOFNmWElWVzltTHVxT2F1NnBKcnVOVmxRLUU3cmtxajFnaXpKY2pmYWlFTjJaSE92S2g4NGlFdjREZmphY3JzXzJlbmRyUkdJelBZQ1A1YVVSUG9SaVdKdVdLX0kxaVk4WXhuT1luZEtrbjkzbnJ5cTFUa1ZGS0x3NnVVcFRUU3Vad19jT0oydUhncGptdXFMYi1Wd1F2X0tQdFNlaElEZURVTVJ2ZVdqbzdnOXczSkxLcFIyZmFyS2lGaHpPMUM1X01OQ0lJV0hHeVFuSjJIcndGS1E5NkNKYUZ1NjlvVlRRRXpRVUF6OERBOWpfdUViYmdGeW9PTklOUHZoRDc5YXpULXJieDlYM2FiV1h4b2JyT0xFR2VVQmd3d1lheDR6Q0pQNVBuT05ITmJjSThXaU9sR2Q2TVJPbUVfUjVmNHJTM2s2VUVHVDdCQ2wwUWlXaVJFX081XzB3MDhZRGJaVDJncHVEbmdCNjZhUnRrZ0dZUjQzZ1o1cWY2ai05NE1sUDd3WDU2Si1GT25PMTRLYmFJejlBUmU2cWV5T25RSExmRVhvOV9LbGRyNU130gGSAUFVX3lxTE9UZDJaVG1VXy1VcEMybGRYZFVkYVJ6Nmd6RFQ3SXdOUklwVXZJd1NDM1pHcHNVS0hQTGJIRmdrX3RIcUU5RGxHRV8xSndnMzVSR0Y4N1ptTlAwdHlKaTN4bzJDQW5TX1E4S29zR09fMm9KVEVFY3oyOFNjYzhZeURSYXN1VnBEQ21pcExWOW9SQUd3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e8bb43fe25c7",
+      "title": "瘦身有代價 研究：打瘦瘦針後脫髮風險 暴增近七成 - AM730",
+      "published": "2026-08-12T03:30:00+00:00",
+      "summary": "瘦身有代價 研究：打瘦瘦針後脫髮風險 暴增近七成&nbsp;&nbsp;AM730",
+      "sources": [
+        {
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOQlotVGwxOUxFbkg1WDZ0ZlNHUndKbE9CckFwUnZNbzdlNTZrWGJlTzVUbjA2YVpjOGp1TVpBQTVWZkdZRXpYN1BMOWc3VjBiOU4wVVpJeFRYNXR4QkprMThsc0VwWldnWFJwQlB5YlNTdVFFQzl6WnppN2FRcHZ0R05xQVV1SENZLTR2OFdGeWh3cUMyQjVtaUZNNkVaZFlXY25EQ3dULThHNndVM1Y3S09UenlQdzktTnJLaUIyZlRQay1NUjVJN0xDRXRJU1FrSGZzSlA1Y1FfTjdSZ3JQM3F0ZkJiazBIV3JSNXRGb3hsdEZwN1J5eTJfZ0xlTUNMVTN6TzEzQkF1ZXRvUzFiTXFnRy1WMHZZenZEOW5CSkVGNF9wdFctUERuampPWjNlSG5yT0xrQm94Vm94bmhPU2VRZXloZlJqc3g4VVdpVllGRm5tVjd1VEk5WTdNVWdhS0E?oc=5"
         }
       ]
     }
