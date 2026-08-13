@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [抗癌免疫新發現 特殊細胞助T細胞對抗腫瘤](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SbVR4R3JkUmk0LWNQamFta1h0RnFnVEpCRkZFaTRKMGJxZ0dDY09hNU14cTBtaXkxZXlPZlR6OVdRQlFoU255RWRESmdkVjVfSndFc2t4Y3dGNnB2VGdiVlN1M0s?oc=5)
 
@@ -51,19 +51,27 @@ permalink: /news/gefitinib/
 
 ---
 
+### [避開高血壓、糖尿病、吸菸3風險 多享13年無失智歲月](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlSGJwZzlWbGhvZ0VIb2sxdUhQemVRbzVDRXkxejQ2N2l1bm12R3VMNjBwUzFfdWxrc2NqRkRaNlhRRGhVUUlYZ1dHWDdMZVNKM2ZMMnFrNl9aVnp0S3BraHJn0gFnQVVfeXFMTmhLWW1qUFdPQktKZDVaLUJjQjdyYmFfaVZGakVsRGwtLWwzcWdOZ1RfYTRMVVdEanBNLW5TMUZCYTRQM1dPd0xrby00eERGdDVCUS1PSmg2SGJvS2h4UnlEMUhVMHU4cw?oc=5)
+
+2026-08-13 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">高血壓</span>
+
+來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlSGJwZzlWbGhvZ0VIb2sxdUhQemVRbzVDRXkxejQ2N2l1bm12R3VMNjBwUzFfdWxrc2NqRkRaNlhRRGhVUUlYZ1dHWDdMZVNKM2ZMMnFrNl9aVnp0S3BraHJn0gFnQVVfeXFMTmhLWW1qUFdPQktKZDVaLUJjQjdyYmFfaVZGakVsRGwtLWwzcWdOZ1RfYTRMVVdEanBNLW5TMUZCYTRQM1dPd0xrby00eERGdDVCUS1PSmg2SGJvS2h4UnlEMUhVMHU4cw?oc=5)
+
+---
+
+### [重症解密｜40歲下男性最常見癌症！專家揭鼻咽癌元兇竟與鹹魚有關？ - New Monday](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQS1ZakN0R3NHVzJXOTRrMk9nXzRuZ3FOeTlURWxzS3Yxd096OVpBNnQ5R19vVGVlNTgxVkJ3MlZ5UkN3cGRjMFV4NkVJQWF6bWpuVnBSbWswbUVmZjF5Rlo5YVdBenVhYmREWnpmcWRTc0N0R2RYQnN3blZaMy1EWFlha0o2ZjBQQnJzbDZfS1RYek5tRlFKSWtFWU9PUkNBVlgwVEgyYjBXLW1ISk5aR0FyVWtCRERnTlM3NVYycnQxZ2JFTWRUaVVRelAwM2pXRjBvVzE5RjNsZEVzUjNZ?oc=5)
+
+2026-08-13 <span class="news-indication-tag">癌症</span>
+
+來源：[New Monday](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQS1ZakN0R3NHVzJXOTRrMk9nXzRuZ3FOeTlURWxzS3Yxd096OVpBNnQ5R19vVGVlNTgxVkJ3MlZ5UkN3cGRjMFV4NkVJQWF6bWpuVnBSbWswbUVmZjF5Rlo5YVdBenVhYmREWnpmcWRTc0N0R2RYQnN3blZaMy1EWFlha0o2ZjBQQnJzbDZfS1RYek5tRlFKSWtFWU9PUkNBVlgwVEgyYjBXLW1ISk5aR0FyVWtCRERnTlM3NVYycnQxZ2JFTWRUaVVRelAwM2pXRjBvVzE5RjNsZEVzUjNZ?oc=5)
+
+---
+
 ### [肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制 - TechNews 科技新報](https://news.google.com/rss/articles/CBMieEFVX3lxTE9TUzlkSVA4amJ5UEt4MFVjbzdFd1k5VmU0TC0yam1JNUhtTzIzNWZEeWlfdUd3LUtCRVpyMDVYaUs1dEhpc1JNRDl1cFhaN3VCdTR1djk4dUJsM0RiQXJjVGtsaEU0R2FEX3lkbHBnYVlsNHg3NnJDSA?oc=5)
 
 2026-08-13 <span class="news-indication-tag">阿茲海默症</span>
 
 來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMieEFVX3lxTE9TUzlkSVA4amJ5UEt4MFVjbzdFd1k5VmU0TC0yam1JNUhtTzIzNWZEeWlfdUd3LUtCRVpyMDVYaUs1dEhpc1JNRDl1cFhaN3VCdTR1djk4dUJsM0RiQXJjVGtsaEU0R2FEX3lkbHBnYVlsNHg3NnJDSA?oc=5)
-
----
-
-### [不吸菸、無慢性病 可延後13年失智](https://news.google.com/rss/articles/CBMiUEFVX3lxTE54dTRkRk9rNUw0bWJZQ2RKTktVdjhpd3FXSS1ONE1fZU4zdnlWanltT2hxNklidkMyMjNHemhXWjVuTnprdWtpWUttOTl1dzdk?oc=5)
-
-2026-08-12 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE54dTRkRk9rNUw0bWJZQ2RKTktVdjhpd3FXSS1ONE1fZU4zdnlWanltT2hxNklidkMyMjNHemhXWjVuTnprdWtpWUttOTl1dzdk?oc=5)
 
 ---
 
