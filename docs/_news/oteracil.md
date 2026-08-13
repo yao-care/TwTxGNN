@@ -27,7 +27,7 @@ permalink: /news/oteracil/
 <li><strong>原適應症</strong>：胃癌用藥。</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">colonic neoplasm（100.0%）<span class="indication-tag">📰 結腸癌</span></li>
+<li>colonic neoplasm（100.0%）</li>
 <li>cecum villous adenoma（100.0%）</li>
 <li>cecum neuroendocrine tumor G1（100.0%）</li>
 <li>lipoma of colon（100.0%）</li>
@@ -44,19 +44,19 @@ permalink: /news/oteracil/
 
 ## 相關新聞（2 則）
 
+### [重症解密｜40歲下男性最常見癌症！專家揭鼻咽癌元兇竟與鹹魚有關？](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMGdaOG93eENoSEp5WnZUcjF0Y2RKUjd0UldYazVEX2RQV3VOcXNaV244eDZ4dmp1LXVzTGxuakZSamxvV0VQLUtqYkJFTE1MTDJKd0Y5cDBhMzVBLXZUUFhBeTU0aUY5ZzBPZzV2ZGhtOVU0Y296aWJqRmhodjRBUlNZUDM1bWRmd0VkdG92TW13Uy1GdVpEZVVmeExLeFdMWXZJbDA0RE5FeUdxSm1jZl9OSjU4QjNvZWpFRldIQjRFTXdsWXVBTXRCOFdWWXFwRmZHdy16Y3U5bXF3Yi1TV2NYT18?oc=5)
+
+2026-08-13 <span class="news-indication-tag">癌症</span>
+
+來源：[新假期周刊](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMGdaOG93eENoSEp5WnZUcjF0Y2RKUjd0UldYazVEX2RQV3VOcXNaV244eDZ4dmp1LXVzTGxuakZSamxvV0VQLUtqYkJFTE1MTDJKd0Y5cDBhMzVBLXZUUFhBeTU0aUY5ZzBPZzV2ZGhtOVU0Y296aWJqRmhodjRBUlNZUDM1bWRmd0VkdG92TW13Uy1GdVpEZVVmeExLeFdMWXZJbDA0RE5FeUdxSm1jZl9OSjU4QjNvZWpFRldIQjRFTXdsWXVBTXRCOFdWWXFwRmZHdy16Y3U5bXF3Yi1TV2NYT18?oc=5)
+
+---
+
 ### [癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內](https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5)
 
 2026-08-12 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5)
-
----
-
-### [別小看走路！研究證實：每天走1萬步 癌友活得更健康](https://news.google.com/rss/articles/CBMi1AJBVV95cUxPbkQ2c2ZiUUd5RjdqbFhkcThZMVU1cjk3eVpCTTg5VExJMHpCSHdSQmRLcmo3bkc1dE5lVXA2Q1k3d1U1cUdHMmptUFVtMUVpcXhDU2tQcEh6X19HY0o5UUlqcjhWVWJRazJoS1RqX3I2cTB1OHFsSF9hNlZ6MEhJSElmZUNtVllMa0lQTUxOcXV0eEdDd2lYbFJrZnA4NnZGZzVLWGFpdTYxNXdBWkV0MGxRYmVMV18xY3lRc3lQajIwa1lFWkFGUWRLUmVyZU8tVUZGNC1ydTRIT2pPQ1FtTkFmWFFHUHhJUG96MFg5NE1SVjFKa0VUcGZQRXFIMm9WalZxelpYMUJWLWt4NGVqV1lMSEY3SUk0akkwUVU2NzlORjhtQkFqNG01aTNuYnlhOVFmTXZjaEF2U2xRSG51U0lrQUQ3VTVWTml5cC1WanpRTzND?oc=5)
-
-2026-08-12 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">結腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi1AJBVV95cUxPbkQ2c2ZiUUd5RjdqbFhkcThZMVU1cjk3eVpCTTg5VExJMHpCSHdSQmRLcmo3bkc1dE5lVXA2Q1k3d1U1cUdHMmptUFVtMUVpcXhDU2tQcEh6X19HY0o5UUlqcjhWVWJRazJoS1RqX3I2cTB1OHFsSF9hNlZ6MEhJSElmZUNtVllMa0lQTUxOcXV0eEdDd2lYbFJrZnA4NnZGZzVLWGFpdTYxNXdBWkV0MGxRYmVMV18xY3lRc3lQajIwa1lFWkFGUWRLUmVyZU8tVUZGNC1ydTRIT2pPQ1FtTkFmWFFHUHhJUG96MFg5NE1SVjFKa0VUcGZQRXFIMm9WalZxelpYMUJWLWt4NGVqV1lMSEY3SUk0akkwUVU2NzlORjhtQkFqNG01aTNuYnlhOVFmTXZjaEF2U2xRSG51U0lrQUQ3VTVWTml5cC1WanpRTzND?oc=5)
 
 ---
 

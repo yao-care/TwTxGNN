@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rotigotine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,7 @@ permalink: /news/rotigotine/
 <li><strong>證據等級</strong>：L4</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>attention deficit-hyperactivity disorder（100.0%）</li>
-<li class="indication-matched">schizophrenia（100.0%）<span class="indication-tag">📰 精神分裂症</span></li>
+<li>schizophrenia（100.0%）</li>
 <li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis（100.0%）</li>
 <li>faciodigitogenital syndrome（100.0%）</li>
 <li>congenital disorder of glycosylation with defective fucosylation（100.0%）</li>
@@ -42,15 +42,9 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [精神分裂症大腦突觸廣泛減少 美研究找出可能的「起點」](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tVjJ3WF82RE4tZld4VmtEQXdPdk5BcmtUblQ3SkthQnVRZlRzVkRHQ2JfczE5NG5jQm5KVWRObnlCQ2R4Q2lzM2tGamV6TVdxcDIwdTh6dWxUZndqQlNrMVhYemo?oc=5)
-
-2026-08-11 <span class="news-indication-tag">精神分裂症</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tVjJ3WF82RE4tZld4VmtEQXdPdk5BcmtUblQ3SkthQnVRZlRzVkRHQ2JfczE5NG5jQm5KVWRObnlCQ2R4Q2lzM2tGamV6TVdxcDIwdTh6dWxUZndqQlNrMVhYemo?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

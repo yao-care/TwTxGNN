@@ -1,7 +1,215 @@
 {
-  "generated": "2026-08-13T04:01:20.492843+00:00",
-  "count": 10,
+  "generated": "2026-08-13T06:09:30.519079+00:00",
+  "count": 9,
   "news": [
+    {
+      "id": "c4c348b67923",
+      "title": "重症解密｜40歲下男性最常見癌症！專家揭鼻咽癌元兇竟與鹹魚有關？",
+      "published": "2026-08-13T05:34:44+00:00",
+      "sources": [
+        {
+          "name": "新假期周刊",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMGdaOG93eENoSEp5WnZUcjF0Y2RKUjd0UldYazVEX2RQV3VOcXNaV244eDZ4dmp1LXVzTGxuakZSamxvV0VQLUtqYkJFTE1MTDJKd0Y5cDBhMzVBLXZUUFhBeTU0aUY5ZzBPZzV2ZGhtOVU0Y296aWJqRmhodjRBUlNZUDM1bWRmd0VkdG92TW13Uy1GdVpEZVVmeExLeFdMWXZJbDA0RE5FeUdxSm1jZl9OSjU4QjNvZWpFRldIQjRFTXdsWXVBTXRCOFdWWXFwRmZHdy16Y3U5bXF3Yi1TV2NYT18?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "e1ab85b1baa5",
       "title": "健康飲食｜血管老化恐傷心/腦/腎/眼 醫生推薦7大血管逆齡食物 心血管病死亡率大降25% - 晴報 Sky Post",
@@ -29,7 +237,7 @@
     {
       "id": "78b0f284b587",
       "title": "肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制 - TechNews 科技新報",
-      "published": "2026-08-13T00:33:45+00:00",
+      "published": "2026-08-13T00:34:09+00:00",
       "sources": [
         {
           "name": "TechNews 科技新報",
@@ -51,12 +259,12 @@
       ]
     },
     {
-      "id": "5c6fd25e8e5d",
+      "id": "736a12db50f9",
       "title": "驗眼不只配眼鏡：看懂糖尿病與高血壓警訊",
       "published": "2026-08-12T23:11:00+00:00",
       "sources": [
         {
-          "name": "大纪元",
+          "name": "epochtimes.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIb20tX1QyODBoMEVGNWEwSTdLLS1vNkcxR0NLbTRRQzFyNHhKanpUeHkwSGtXZVpIaGhNclRHdEdDUTU4MV9EcXc3aGZFVUo3MnNOanNNOFJ3aVQ2cTZKQ9IBZkFVX3lxTFBGalJRWUxEYnJidEdEa3ZYNHdkRGpKdVZGWTJmVUNhcDlIRC1vZ0llZUd5NlNRVmFrOVd6MWM0aldfZ1NjcURJXzdTVFBseHMyTWdUYjN6dWtnSHR5X0dxWTF1clpHZw?oc=5"
         }
       ],
@@ -127,13 +335,13 @@
       ]
     },
     {
-      "id": "2ec5d75c1bd3",
+      "id": "5fef35c1077f",
       "title": "不吸菸、無慢性病 可延後13年失智",
-      "published": "2026-08-12T05:26:25+00:00",
+      "published": "2026-08-12T04:48:41+00:00",
       "sources": [
         {
-          "name": "udn.com",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54dTRkRk9rNUw0bWJZQ2RKTktVdjhpd3FXSS1ONE1fZU4zdnlWanltT2hxNklidkMyMjNHemhXWjVuTnprdWtpWUttOTl1dzdk?oc=5"
+          "name": "anntw.com",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KdVVEMUxpbGhUSnduUkw5MGgwQ2ctNm9VR296bGt1ZDNsT0dxNWkySlBiTHhJcGFlT1Ztcm5UQlctSHNicEJvR0JHQzVvaE4yaWgwYmdVbw?oc=5"
         }
       ],
       "keywords": [
@@ -565,88 +773,6 @@
       ]
     },
     {
-      "id": "3f5fd42ce090",
-      "title": "別小看走路！研究證實：每天走1萬步 癌友活得更健康",
-      "published": "2026-08-12T00:00:35+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPbkQ2c2ZiUUd5RjdqbFhkcThZMVU1cjk3eVpCTTg5VExJMHpCSHdSQmRLcmo3bkc1dE5lVXA2Q1k3d1U1cUdHMmptUFVtMUVpcXhDU2tQcEh6X19HY0o5UUlqcjhWVWJRazJoS1RqX3I2cTB1OHFsSF9hNlZ6MEhJSElmZUNtVllMa0lQTUxOcXV0eEdDd2lYbFJrZnA4NnZGZzVLWGFpdTYxNXdBWkV0MGxRYmVMV18xY3lRc3lQajIwa1lFWkFGUWRLUmVyZU8tVUZGNC1ydTRIT2pPQ1FtTkFmWFFHUHhJUG96MFg5NE1SVjFKa0VUcGZQRXFIMm9WalZxelpYMUJWLWt4NGVqV1lMSEY3SUk0akkwUVU2NzlORjhtQkFqNG01aTNuYnlhOVFmTXZjaEF2U2xRSG51U0lrQUQ3VTVWTml5cC1WanpRTzND?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "結腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "c88c3bb16249",
       "title": "高血壓治療迎來新曙光！研究發現全新作用靶點",
       "published": "2026-08-11T11:37:00+00:00",
@@ -675,52 +801,24 @@
       ]
     },
     {
-      "id": "8a6304960553",
-      "title": "精神分裂症大腦突觸廣泛減少 美研究找出可能的「起點」",
-      "published": "2026-08-11T05:55:00+00:00",
+      "id": "a2a7b2b4fbb5",
+      "title": "心肌炎 | 37歲單車手遭醫生忽略一症狀 兩度心臟驟停 揭患心肌炎被迫辭職換心保命 - 東張+",
+      "published": "2026-08-11T06:09:28+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tVjJ3WF82RE4tZld4VmtEQXdPdk5BcmtUblQ3SkthQnVRZlRzVkRHQ2JfczE5NG5jQm5KVWRObnlCQ2R4Q2lzM2tGamV6TVdxcDIwdTh6dWxUZndqQlNrMVhYemo?oc=5"
+          "name": "mytvsuper.com",
+          "link": "https://news.google.com/rss/articles/CBMingRBVV95cUxOTEp6ejZ0YnFpaFpCOXNCenRhY0lvVC1YQXdPSGFuZjZWTjlCUmU2YWVzdzhYd2RJVlFZVTktLTN4S2NmSmM1cmZMZE9GLTN2OG5FellrTTlqWVlRUGxtd0dnNWJZSGtzc3NZem82SnYzTFpPUFJZcW5lWEttRmh4ZmxVbGx4RE44SnMyNmh1dlFXYWx1cEZTN3VLUUVNbWVFVDdISGVUd1JGcXA2XzN0OUlLS2QtTm54R3p3cElVQ0l6UEdlcXdrMXNMaEpoVEN5QnpicGNhMEZKZG1udDR3bTFqYUpKdFl5Mm9Ia0ZTTUxYcFlnRkp2WklteWtQSFpCcnFfbXloYjFLV1FkUGQxc0dLWG9JY2xMdy1xamNVQTBiNlZkLWYzSFdjb21YZUE4MW9JTkxOT1BVUFZVREx3TmJoSmRSLWNrWE5VWFJDWEl2NGVsaGp6WlVjN3BzZ3NzTDhJMXkzQldKckNoZjF1bzZ0dkxBMHV6TmZSTXNOMjlGVEJPMDhZTTVTbWp2YWpZcUZBTnoxMEFJUXdoRC1aM1JxWHdhUnNQVkxTOEVhckJMUFhqSVRlZzJxdm5sN1hXdEZ0dkpNVlZEeGMwOVVoREdOR1hESTRnclNxOGhvb1pqN3ZzLW5ZdnpZTzdDRGdwRENCb084cmJoTlJnMXNvR0xjekliUnJvbk83clRycTdlZG9rMmNKd0tkRVVtZw?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "schizophrenia",
-          "keyword": "精神分裂症",
+          "name": "肌炎",
+          "keyword": "肌炎",
           "related_drugs": [
             {
-              "slug": "ropinirole",
-              "name": "Ropinirole"
-            },
-            {
-              "slug": "rotigotine",
-              "name": "Rotigotine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "038d44de2976",
-      "title": "下眼瞼這條線代表過敏體質？了解丹尼摩根線 逾8成濕疹患者有此皺褶",
-      "published": "2026-08-11T04:00:10+00:00",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNc1dfdUlhdnhocHA1cFU0aEJXMWZOU2p0bmYxaFpXcGtJeXg2Q0MyY19QeVBnbklzUlltLXlNRXcxckQ3TjBzc0Y5TFJGSG1GOEs5aHpKbTNEakNGU0tnOUp3UlA3aUtKMGMzUER1dmk5dlFtNlpEQ3ZpVEZwZXp4UmtPQUlwbVpqM1dHVDF0Z3BhYmh0X0ZiMy0yb1pjS0hTVURjVzdRVHdWdWwtckpyM0Rpb0ZfNWMyWEpEWW9wVi1NOC1rZ193M01hbkxmbHdiVF9GRndDZjRPdDJRTlE2SDAwWVVlWmhvU2k3bEsya3N6ejFTeEdqTWhFZlpsdlM3b0M1NG4zSFRIUXNudHE3OWJTOWNicVIzVHBla2E3UjRZZUZ0Tjc4amZwVVZNb2l4T0hheUdDVG5IaHhRdkFfNGRPNFR1ZzZVSHFkWDFDamUyeWVxUnNsSlVlb0xUa2dnUHNrUHJtYzk4UHQtSEg0VjZkSXVFMkFPb0RuRmhwcS03Wk1JUjkzeGlreGlCNHlkNVlXTTRmcGtTVUlsYkp4U2J2TkZDeUZ5djFVNjlYcTBOaEM1QkdnWQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "濕疹",
-          "keyword": "濕疹",
-          "related_drugs": [
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
+              "slug": "carisoprodol",
+              "name": "Carisoprodol"
             }
           ]
         }

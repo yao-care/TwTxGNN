@@ -14,7 +14,7 @@ permalink: /news/mannitol/
 ---
 
 <p class="key-answer" data-question="Mannitol 有什麼相關新聞？">
-<strong>Mannitol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mannitol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/mannitol/
 <p><a href="{{ '/drugs/mannitol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [重症解密｜40歲下男性最常見癌症！專家揭鼻咽癌元兇竟與鹹魚有關？](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMGdaOG93eENoSEp5WnZUcjF0Y2RKUjd0UldYazVEX2RQV3VOcXNaV244eDZ4dmp1LXVzTGxuakZSamxvV0VQLUtqYkJFTE1MTDJKd0Y5cDBhMzVBLXZUUFhBeTU0aUY5ZzBPZzV2ZGhtOVU0Y296aWJqRmhodjRBUlNZUDM1bWRmd0VkdG92TW13Uy1GdVpEZVVmeExLeFdMWXZJbDA0RE5FeUdxSm1jZl9OSjU4QjNvZWpFRldIQjRFTXdsWXVBTXRCOFdWWXFwRmZHdy16Y3U5bXF3Yi1TV2NYT18?oc=5)
+
+2026-08-13 <span class="news-indication-tag">癌症</span>
+
+來源：[新假期周刊](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMGdaOG93eENoSEp5WnZUcjF0Y2RKUjd0UldYazVEX2RQV3VOcXNaV244eDZ4dmp1LXVzTGxuakZSamxvV0VQLUtqYkJFTE1MTDJKd0Y5cDBhMzVBLXZUUFhBeTU0aUY5ZzBPZzV2ZGhtOVU0Y296aWJqRmhodjRBUlNZUDM1bWRmd0VkdG92TW13Uy1GdVpEZVVmeExLeFdMWXZJbDA0RE5FeUdxSm1jZl9OSjU4QjNvZWpFRldIQjRFTXdsWXVBTXRCOFdWWXFwRmZHdy16Y3U5bXF3Yi1TV2NYT18?oc=5)
+
+---
 
 ### [癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內](https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5)
 

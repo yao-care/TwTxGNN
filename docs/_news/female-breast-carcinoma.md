@@ -3,7 +3,7 @@ layout: default
 title: "乳癌（female breast carcinoma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "乳癌（female breast carcinoma） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "乳癌（female breast carcinoma） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="乳癌（female breast carcinoma） 有什麼相關新聞？">
-<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ permalink: /news/female-breast-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [50歲啃老港女患乳癌20萬「保性徵」陷人生交叉點：定係留錢過世？事主最終1決定放下執著｜Juicy叮](https://news.google.com/rss/articles/CBMijwRBVV95cUxOSko4c2xTb3MxTGJhcW85Y1FBUG1wNFZQdnVqY08xVUpsN1ZTdi0xUzgycUJWTzJMNkM2UkVFZFo3Xzd6d0dSYVVLbEF6dmRDRXNQQWxHaHppRllqU2hRa0hkSllqMDlablJhUURXa05qNEFmN0c5OXVFbVgtWEVpUllPNlFrVldaYldsT2xWNXpIUmNHSnBUYTNCd0IzbmtUS3FSTVBxQUxkbHlaN0t6QWNpNDhWejZ4R0ozbE9kOXB3MHlMbFJVc0RzWlVVZFRjamVGc0JUVENObERtZy1aNkJuWkNTVHE3d3Z6cFQ4cVdKVjRWU2gybWw4emdJem0wTm82SUM5amhYNDl6SDgtREcwdFYwY0JDWXVBN1lQR2FXQ2ZlZERvakhtd0RETFM1dmV1Nm5nSUtSSVpCUzZkU294UmRzQlJBbklHcFVJVW0wV2lYTzZwSXk0aUJBQkcxUXFvdHhvVDhpLUxmVms3ak1FX0Jnb0E3WVVWWERCdXg4OW1zblMzazZTc2pLZUZYUVVjaEZab090aVJlaFQtM3NYWUpUb3gxeHQyRUFSS2dMcGJGaG1JTHo4NTA3dGhqTzJveWRwdDN4bllRMXZqdWdtNlZYakNPSlRuSlhNX3p4eHd0LTNGMXpOdWpYajVRelhUM0RDcFl3VzlfZ2hkTlB5RThpUjRhSUF5WTBDdw?oc=5)
 
 2026-08-12
 
 來源：[星島頭條](https://news.google.com/rss/articles/CBMijwRBVV95cUxOSko4c2xTb3MxTGJhcW85Y1FBUG1wNFZQdnVqY08xVUpsN1ZTdi0xUzgycUJWTzJMNkM2UkVFZFo3Xzd6d0dSYVVLbEF6dmRDRXNQQWxHaHppRllqU2hRa0hkSllqMDlablJhUURXa05qNEFmN0c5OXVFbVgtWEVpUllPNlFrVldaYldsT2xWNXpIUmNHSnBUYTNCd0IzbmtUS3FSTVBxQUxkbHlaN0t6QWNpNDhWejZ4R0ozbE9kOXB3MHlMbFJVc0RzWlVVZFRjamVGc0JUVENObERtZy1aNkJuWkNTVHE3d3Z6cFQ4cVdKVjRWU2gybWw4emdJem0wTm82SUM5amhYNDl6SDgtREcwdFYwY0JDWXVBN1lQR2FXQ2ZlZERvakhtd0RETFM1dmV1Nm5nSUtSSVpCUzZkU294UmRzQlJBbklHcFVJVW0wV2lYTzZwSXk0aUJBQkcxUXFvdHhvVDhpLUxmVms3ak1FX0Jnb0E3WVVWWERCdXg4OW1zblMzazZTc2pLZUZYUVVjaEZab090aVJlaFQtM3NYWUpUb3gxeHQyRUFSS2dMcGJGaG1JTHo4NTA3dGhqTzJveWRwdDN4bllRMXZqdWdtNlZYakNPSlRuSlhNX3p4eHd0LTNGMXpOdWpYajVRelhUM0RDcFl3VzlfZ2hkTlB5RThpUjRhSUF5WTBDdw?oc=5)
-
----
-
-### [別小看走路！研究證實：每天走1萬步 癌友活得更健康](https://news.google.com/rss/articles/CBMi1AJBVV95cUxPbkQ2c2ZiUUd5RjdqbFhkcThZMVU1cjk3eVpCTTg5VExJMHpCSHdSQmRLcmo3bkc1dE5lVXA2Q1k3d1U1cUdHMmptUFVtMUVpcXhDU2tQcEh6X19HY0o5UUlqcjhWVWJRazJoS1RqX3I2cTB1OHFsSF9hNlZ6MEhJSElmZUNtVllMa0lQTUxOcXV0eEdDd2lYbFJrZnA4NnZGZzVLWGFpdTYxNXdBWkV0MGxRYmVMV18xY3lRc3lQajIwa1lFWkFGUWRLUmVyZU8tVUZGNC1ydTRIT2pPQ1FtTkFmWFFHUHhJUG96MFg5NE1SVjFKa0VUcGZQRXFIMm9WalZxelpYMUJWLWt4NGVqV1lMSEY3SUk0akkwUVU2NzlORjhtQkFqNG01aTNuYnlhOVFmTXZjaEF2U2xRSG51U0lrQUQ3VTVWTml5cC1WanpRTzND?oc=5)
-
-2026-08-12
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi1AJBVV95cUxPbkQ2c2ZiUUd5RjdqbFhkcThZMVU1cjk3eVpCTTg5VExJMHpCSHdSQmRLcmo3bkc1dE5lVXA2Q1k3d1U1cUdHMmptUFVtMUVpcXhDU2tQcEh6X19HY0o5UUlqcjhWVWJRazJoS1RqX3I2cTB1OHFsSF9hNlZ6MEhJSElmZUNtVllMa0lQTUxOcXV0eEdDd2lYbFJrZnA4NnZGZzVLWGFpdTYxNXdBWkV0MGxRYmVMV18xY3lRc3lQajIwa1lFWkFGUWRLUmVyZU8tVUZGNC1ydTRIT2pPQ1FtTkFmWFFHUHhJUG96MFg5NE1SVjFKa0VUcGZQRXFIMm9WalZxelpYMUJWLWt4NGVqV1lMSEY3SUk0akkwUVU2NzlORjhtQkFqNG01aTNuYnlhOVFmTXZjaEF2U2xRSG51U0lrQUQ3VTVWTml5cC1WanpRTzND?oc=5)
 
 ---
 

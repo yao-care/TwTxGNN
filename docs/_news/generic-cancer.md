@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,15 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [重症解密｜40歲下男性最常見癌症！專家揭鼻咽癌元兇竟與鹹魚有關？](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMGdaOG93eENoSEp5WnZUcjF0Y2RKUjd0UldYazVEX2RQV3VOcXNaV244eDZ4dmp1LXVzTGxuakZSamxvV0VQLUtqYkJFTE1MTDJKd0Y5cDBhMzVBLXZUUFhBeTU0aUY5ZzBPZzV2ZGhtOVU0Y296aWJqRmhodjRBUlNZUDM1bWRmd0VkdG92TW13Uy1GdVpEZVVmeExLeFdMWXZJbDA0RE5FeUdxSm1jZl9OSjU4QjNvZWpFRldIQjRFTXdsWXVBTXRCOFdWWXFwRmZHdy16Y3U5bXF3Yi1TV2NYT18?oc=5)
+
+2026-08-13
+
+來源：[新假期周刊](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMGdaOG93eENoSEp5WnZUcjF0Y2RKUjd0UldYazVEX2RQV3VOcXNaV244eDZ4dmp1LXVzTGxuakZSamxvV0VQLUtqYkJFTE1MTDJKd0Y5cDBhMzVBLXZUUFhBeTU0aUY5ZzBPZzV2ZGhtOVU0Y296aWJqRmhodjRBUlNZUDM1bWRmd0VkdG92TW13Uy1GdVpEZVVmeExLeFdMWXZJbDA0RE5FeUdxSm1jZl9OSjU4QjNvZWpFRldIQjRFTXdsWXVBTXRCOFdWWXFwRmZHdy16Y3U5bXF3Yi1TV2NYT18?oc=5)
+
+---
 
 ### [癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內](https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5)
 
