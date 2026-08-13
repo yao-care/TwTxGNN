@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [抗癌免疫新發現 特殊細胞助T細胞對抗腫瘤](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SbVR4R3JkUmk0LWNQamFta1h0RnFnVEpCRkZFaTRKMGJxZ0dDY09hNU14cTBtaXkxZXlPZlR6OVdRQlFoU255RWRESmdkVjVfSndFc2t4Y3dGNnB2VGdiVlN1M0s?oc=5)
 
@@ -44,27 +44,11 @@ permalink: /news/acebutolol/
 
 ---
 
-### [避開高血壓、糖尿病、吸菸3風險 多享13年無失智歲月](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlSGJwZzlWbGhvZ0VIb2sxdUhQemVRbzVDRXkxejQ2N2l1bm12R3VMNjBwUzFfdWxrc2NqRkRaNlhRRGhVUUlYZ1dHWDdMZVNKM2ZMMnFrNl9aVnp0S3BraHJn0gFnQVVfeXFMTmhLWW1qUFdPQktKZDVaLUJjQjdyYmFfaVZGakVsRGwtLWwzcWdOZ1RfYTRMVVdEanBNLW5TMUZCYTRQM1dPd0xrby00eERGdDVCUS1PSmg2SGJvS2h4UnlEMUhVMHU4cw?oc=5)
-
-2026-08-13 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">高血壓</span>
-
-來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlSGJwZzlWbGhvZ0VIb2sxdUhQemVRbzVDRXkxejQ2N2l1bm12R3VMNjBwUzFfdWxrc2NqRkRaNlhRRGhVUUlYZ1dHWDdMZVNKM2ZMMnFrNl9aVnp0S3BraHJn0gFnQVVfeXFMTmhLWW1qUFdPQktKZDVaLUJjQjdyYmFfaVZGakVsRGwtLWwzcWdOZ1RfYTRMVVdEanBNLW5TMUZCYTRQM1dPd0xrby00eERGdDVCUS1PSmg2SGJvS2h4UnlEMUhVMHU4cw?oc=5)
-
----
-
-### [重症解密｜40歲下男性最常見癌症！專家揭鼻咽癌元兇竟與鹹魚有關？ - New Monday](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQS1ZakN0R3NHVzJXOTRrMk9nXzRuZ3FOeTlURWxzS3Yxd096OVpBNnQ5R19vVGVlNTgxVkJ3MlZ5UkN3cGRjMFV4NkVJQWF6bWpuVnBSbWswbUVmZjF5Rlo5YVdBenVhYmREWnpmcWRTc0N0R2RYQnN3blZaMy1EWFlha0o2ZjBQQnJzbDZfS1RYek5tRlFKSWtFWU9PUkNBVlgwVEgyYjBXLW1ISk5aR0FyVWtCRERnTlM3NVYycnQxZ2JFTWRUaVVRelAwM2pXRjBvVzE5RjNsZEVzUjNZ?oc=5)
-
-2026-08-13 <span class="news-indication-tag">癌症</span>
-
-來源：[New Monday](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQS1ZakN0R3NHVzJXOTRrMk9nXzRuZ3FOeTlURWxzS3Yxd096OVpBNnQ5R19vVGVlNTgxVkJ3MlZ5UkN3cGRjMFV4NkVJQWF6bWpuVnBSbWswbUVmZjF5Rlo5YVdBenVhYmREWnpmcWRTc0N0R2RYQnN3blZaMy1EWFlha0o2ZjBQQnJzbDZfS1RYek5tRlFKSWtFWU9PUkNBVlgwVEgyYjBXLW1ISk5aR0FyVWtCRERnTlM3NVYycnQxZ2JFTWRUaVVRelAwM2pXRjBvVzE5RjNsZEVzUjNZ?oc=5)
-
----
-
 ### [驗眼不只配眼鏡：看懂糖尿病與高血壓警訊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIb20tX1QyODBoMEVGNWEwSTdLLS1vNkcxR0NLbTRRQzFyNHhKanpUeHkwSGtXZVpIaGhNclRHdEdDUTU4MV9EcXc3aGZFVUo3MnNOanNNOFJ3aVQ2cTZKQ9IBZkFVX3lxTFBGalJRWUxEYnJidEdEa3ZYNHdkRGpKdVZGWTJmVUNhcDlIRC1vZ0llZUd5NlNRVmFrOVd6MWM0aldfZ1NjcURJXzdTVFBseHMyTWdUYjN6dWtnSHR5X0dxWTF1clpHZw?oc=5)
 
 2026-08-12 <span class="news-indication-tag">高血壓</span>
 
-來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIb20tX1QyODBoMEVGNWEwSTdLLS1vNkcxR0NLbTRRQzFyNHhKanpUeHkwSGtXZVpIaGhNclRHdEdDUTU4MV9EcXc3aGZFVUo3MnNOanNNOFJ3aVQ2cTZKQ9IBZkFVX3lxTFBGalJRWUxEYnJidEdEa3ZYNHdkRGpKdVZGWTJmVUNhcDlIRC1vZ0llZUd5NlNRVmFrOVd6MWM0aldfZ1NjcURJXzdTVFBseHMyTWdUYjN6dWtnSHR5X0dxWTF1clpHZw?oc=5)
+來源：[epochtimes.com](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIb20tX1QyODBoMEVGNWEwSTdLLS1vNkcxR0NLbTRRQzFyNHhKanpUeHkwSGtXZVpIaGhNclRHdEdDUTU4MV9EcXc3aGZFVUo3MnNOanNNOFJ3aVQ2cTZKQ9IBZkFVX3lxTFBGalJRWUxEYnJidEdEa3ZYNHdkRGpKdVZGWTJmVUNhcDlIRC1vZ0llZUd5NlNRVmFrOVd6MWM0aldfZ1NjcURJXzdTVFBseHMyTWdUYjN6dWtnSHR5X0dxWTF1clpHZw?oc=5)
 
 ---
 

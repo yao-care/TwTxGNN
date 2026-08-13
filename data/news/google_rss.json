@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-13T22:31:28.342818+00:00",
-  "count": 35,
+  "fetched_at": "2026-08-13T23:31:55.072018+00:00",
+  "count": 25,
   "news": [
+    {
+      "id": "389659bf8d84",
+      "title": "健康網》龍眼吃起來甜不代表血糖飆！ 營養師教糖友吃法 - 自由健康網",
+      "published": "2026-08-13T23:18:00+00:00",
+      "summary": "健康網》龍眼吃起來甜不代表血糖飆！ 營養師教糖友吃法&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MNG9pVTBXQkFjaGtuZ2trdE9ITW02TlM1OVZEaFQ1VkdhWGNHVHZaRG0ydXl2Uko5UDI3aEg2aEVIbGdyZkZfSkFPbVR2X3ZPV2tBXzNNeTl4QWpDMDdXQXUxOWg?oc=5"
+        }
+      ]
+    },
     {
       "id": "5947010befe5",
       "title": "今天不情勒！多鄰國秒恢復男童300天登入紀錄 酸民求救被無情拒絕 - udn遊戲角落",
@@ -64,14 +76,14 @@
       ]
     },
     {
-      "id": "2be154a376cf",
+      "id": "ff79576a7cae",
       "title": "男友鏡頭比自拍更殘酷？文山維格鄭伊婷醫師揭「死亡側拍」元凶海芙音波媚必提助攻俐落下顎線 - 壹蘋新聞網",
       "published": "2026-08-12T09:45:00+00:00",
       "summary": "男友鏡頭比自拍更殘酷？文山維格鄭伊婷醫師揭「死亡側拍」元凶海芙音波媚必提助攻俐落下顎線&nbsp;&nbsp;壹蘋新聞網",
       "sources": [
         {
           "name": "壹蘋新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ0ZRLWw1QzJXc29oeW9hbWlnUXVmRDlMYnRVdFVxTFE5OWh2ZUgxbTJJSEJ5Q3YxYkV2OEtoUmRkOXhNZDlxck5VVllvZW1sbnlpNmhZWVhNR00yTVlXMlJmdjRGNE1SSEVxV19UOUE0WU1XbHRYcU9XQ0E3cUJmNkM1WktsNGZPOWc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYeG1CRmpkdHF3NnpmamFlVzhTV0gxVktTeE8zbHlYdk5xT0RXcTJXMDcwMUhac3Nxa1lxbjFVZ3lLM0NvU1BvYkw2NElNU0ktLXFFWmc4TUlTcG56azRIZUQtdFVwRndYQ1FsUTFLWHo1V2hETUhWM1N4NEcxdw?oc=5"
         }
       ]
     },
@@ -91,7 +103,7 @@
       "id": "ce99432d518a",
       "title": "每天多花7分鐘就能延壽 研究曝3習慣做好 多活9年 - 中時新聞網",
       "published": "2026-08-13T03:54:38+00:00",
-      "summary": "每天多花7分鐘就能延壽 研究曝3習慣做好 多活9年&nbsp;&nbsp;中時新聞網最被低估的長壽藥竟是「它」？哈佛專家拆解長壽餐盤：吃對組合很關鍵&nbsp;&nbsp;TVBS 健康2.0長壽的關鍵在於「空腹」？揭開諾貝爾獎認證的細胞再生長壽法&nbsp;&nbsp;數位時代長壽｜研究：每日7分鐘改善3習慣多活10年 進階版增4年無病壽命&nbsp;&nbsp;hk01.com想長壽不是少吃肉，而是多吃飯？最新研究推翻迷思：低蛋白、高碳水更健康&nbsp;&nbsp;天下雜誌",
+      "summary": "每天多花7分鐘就能延壽 研究曝3習慣做好 多活9年&nbsp;&nbsp;中時新聞網最被低估的長壽藥竟是「它」？哈佛專家拆解長壽餐盤：吃對組合很關鍵&nbsp;&nbsp;TVBS 健康2.0長壽的關鍵在於「空腹」？揭開諾貝爾獎認證的細胞再生長壽法&nbsp;&nbsp;數位時代長壽｜研究：每日7分鐘改善3習慣多活10年 進階版增4年無病壽命&nbsp;&nbsp;香港01想長壽不是少吃肉，而是多吃飯？最新研究推翻迷思：低蛋白、高碳水更健康&nbsp;&nbsp;天下雜誌",
       "sources": [
         {
           "name": "中時新聞網",
@@ -100,62 +112,26 @@
       ]
     },
     {
-      "id": "883742ad8f0a",
-      "title": "哈士奇禿毛恐致病？《醫學大聯盟》警：過量維他命 C 小心毛孩結石風險 - 四季線上4gTV",
-      "published": "2026-08-12T04:07:05+00:00",
-      "summary": "哈士奇禿毛恐致病？《醫學大聯盟》警：過量維他命 C 小心毛孩結石風險&nbsp;&nbsp;四季線上4gTV",
+      "id": "120065e78497",
+      "title": "哈士奇禿毛恐致病？《醫學大聯盟》警：過量維他命 C 小心毛孩結石風險 - - 民視健康長照網",
+      "published": "2026-08-12T00:13:28+00:00",
+      "summary": "哈士奇禿毛恐致病？《醫學大聯盟》警：過量維他命 C 小心毛孩結石風險&nbsp;&nbsp;- 民視健康長照網",
       "sources": [
         {
-          "name": "四季線上4gTV",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lMmhCdGZfRVllUF9iSFRIQ2c5Y0dZeVFkUjBWWnR0MTdfQmF4dVdrVTI3LU40V19NSy1kODdrX2ZacXRTOWplLWtlTWU1d3VjTEphQWk5aw?oc=5"
+          "name": "- 民視健康長照網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DQWpicVpKSTc0T294a3JLYzRWTTdub1lkRlhRZWNFLXZaaEJ2UTZ2VlU4d0ZqYWM5d2ktN2ZjQmRZX0JJajdPZ2FZSUFWOGwydkpSRkowOHRNVHQ1RnhDeGJLR3Y?oc=5"
         }
       ]
     },
     {
-      "id": "573d72685d67",
-      "title": "避開高血壓、糖尿病、吸菸3風險 多享13年無失智歲月 - 世界新聞網",
-      "published": "2026-08-13T06:00:00+00:00",
-      "summary": "避開高血壓、糖尿病、吸菸3風險 多享13年無失智歲月&nbsp;&nbsp;世界新聞網中年壞習慣全中！研究驚爆：「這3地雷」沒避開 無失智壽命慘減12.6年&nbsp;&nbsp;三立新聞防失智2026WHO新指引！空汙入列，未缺營養素「不建議靠維生素、魚油」&nbsp;&nbsp;遠見雜誌不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防&nbsp;&nbsp;元氣網",
+      "id": "42a129c94c80",
+      "title": "研究：中年踩3地雷　無失智壽命慘少12年 - 鏡週刊Mirror Media",
+      "published": "2026-08-12T11:16:00+00:00",
+      "summary": "研究：中年踩3地雷 無失智壽命慘少12年&nbsp;&nbsp;鏡週刊Mirror Media中年壞習慣全中！研究驚爆：「這3地雷」沒避開 無失智壽命慘減12.6年&nbsp;&nbsp;三立新聞防失智2026WHO新指引！空汙入列，未缺營養素「不建議靠維生素、魚油」&nbsp;&nbsp;遠見雜誌不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlSGJwZzlWbGhvZ0VIb2sxdUhQemVRbzVDRXkxejQ2N2l1bm12R3VMNjBwUzFfdWxrc2NqRkRaNlhRRGhVUUlYZ1dHWDdMZVNKM2ZMMnFrNl9aVnp0S3BraHJn0gFnQVVfeXFMTmhLWW1qUFdPQktKZDVaLUJjQjdyYmFfaVZGakVsRGwtLWwzcWdOZ1RfYTRMVVdEanBNLW5TMUZCYTRQM1dPd0xrby00eERGdDVCUS1PSmg2SGJvS2h4UnlEMUhVMHU4cw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a91f0bc529d6",
-      "title": "健康網》營養師：減重後創造新生活 降內臟脂肪更健康 - 自由健康網",
-      "published": "2026-08-11T22:22:00+00:00",
-      "summary": "健康網》營養師：減重後創造新生活 降內臟脂肪更健康&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFaGttNU1Cb1dpQU5JU3pGaUVzZGtqNjZDdm12cnk2Z3Q1Tks2aENtS2ZsdnZPWGJORWFxM0FtTVUwWnJ2TTFoTUhzSEFReWxWWDFLZEtVQ2RNQk1URmFiUHI3MFU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f1c4278aedd3",
-      "title": "[電競特區 Gaming Accessories] iRocks T36 人體工學椅雙色開箱 / 晨光綠、丹寧藍簡約質感，4D 扶手與舒適支撐兼具 - XFastest",
-      "published": "2026-08-12T02:59:06+00:00",
-      "summary": "[電競特區 Gaming Accessories] iRocks T36 人體工學椅雙色開箱 / 晨光綠、丹寧藍簡約質感，4D 扶手與舒適支撐兼具&nbsp;&nbsp;XFastest",
-      "sources": [
-        {
-          "name": "XFastest",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fNG5MSEt6SUNMNVFXV0haNFQyNVVsYlZ3eUN5VWpuNC1UMGR4ZHI5QWpDLU1LUTVRRDc5UE9sYThyeFJtQmt1VzNzMDMza3ZiTHVXa2pvUS1KSXM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5982259e73e8",
-      "title": "癌細胞轉移靠膽固醇，威而鋼成分意外扮演剋星 | 科技新報 - LINE TODAY",
-      "published": "2026-08-11T22:08:47+00:00",
-      "summary": "癌細胞轉移靠膽固醇，威而鋼成分意外扮演剋星 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TQWI3SFV6TlFYMEJBREVLa29WYXQzbjBrN1FyMVE2UnRSNVVRS1dldkpRbUFkakFwa1hSYVlOTFpoallUNTN4b1hWMF80azRnTFpseFV3?oc=5"
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aZzNKeDlJVkpJRWYzUUM1UTdfVjRnOW5BS085VU50TktIbHFzSjFTbWc5QzBNaVpmWWRja2EyRldpS0c5Q25DbkJNZnczc01yODVMTWhDV0lneUVK0gFiQVVfeXFMUGctMVRnN3hBbFRnRW5pd011d0liQU5nTkhuWERVX1Rld3dVVWJvOTB4V0hVN0t4bnFmTEF1XzFSbjhCRVdqY2JhUksyOHMwUFViVUlna3BjMjdMcDlidWY4bXc?oc=5"
         }
       ]
     },
@@ -184,30 +160,6 @@
       ]
     },
     {
-      "id": "e4aecf987240",
-      "title": "腋下黑怎麼改善？醫師揭「腋下暗沉」真相！避開NG地雷＋改善方法一次看 - woman.tvbs.com.tw",
-      "published": "2026-08-13T06:41:00+00:00",
-      "summary": "腋下黑怎麼改善？醫師揭「腋下暗沉」真相！避開NG地雷＋改善方法一次看&nbsp;&nbsp;woman.tvbs.com.tw",
-      "sources": [
-        {
-          "name": "woman.tvbs.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YRmxyS2ZaMEN1eFQ4aU94WGVObHdBMXl3RFhUaUxjeTNVcGpTOUtDRlBBRFluQS1pTTBycmVEeWhqQXk3ems0RTNKN2Z5Zzg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d0f58a42db88",
-      "title": "孩子常喊頭痛，是學習壓力大，還是潛藏著更深層的健康問題？ - careonline.com.tw",
-      "published": "2026-08-13T16:01:13+00:00",
-      "summary": "孩子常喊頭痛，是學習壓力大，還是潛藏著更深層的健康問題？&nbsp;&nbsp;careonline.com.tw",
-      "sources": [
-        {
-          "name": "careonline.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GX0VKazk1ME1HOVJYZ21Lc3hJVm9BbjBuNjUtNUMzZWU0MDhIWW5WeVNNWFZxSU5VUEVvb19ZcnJrRWhqNlFxcGpnb1RUYVNGN1dhYk9JcVZad2F1N2diRTNBQ0YwZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f11cce86347d",
       "title": "社安局將14種疾病列入快速審批名單 患者可盡早獲補助 - 世界新聞網",
       "published": "2026-08-13T16:05:17+00:00",
@@ -216,18 +168,6 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPNWJHa2dpbUMwVVFLamRheUxhYTZpQlV6b0h6U0l5LWxhTkNHVm9oYjFTby13dmJtZ1FUclZsLTBjRGNRdTlRNl93R1I1bVRJUTB1OU93dk53RVV1X2hVZFFR0gFnQVVfeXFMUHdtN0Z3Mm5jTjFJNFpjdjZsc09sRl9IZHpYQXA4eE9FYXFzSlk2OWgzWE9nckJYUHhSdTN4TU9LbGE3SHE1NFJYWHNBMGdQX2V4Qi1SWkhxd1lJX1VfWTBuN3NKMWtVTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7c586b23d166",
-      "title": "“三合一”療法阻止新生猕猴持續感染艾滋病病毒 - 華僑時報",
-      "published": "2026-08-12T16:56:33+00:00",
-      "summary": "“三合一”療法阻止新生猕猴持續感染艾滋病病毒&nbsp;&nbsp;華僑時報",
-      "sources": [
-        {
-          "name": "華僑時報",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IREJmbE9kRlI0NVhlRDMyLWVKMl81eU1KVURXQ2NfRHFQelh5c1gwTWFNSTBWT3hIR0NQSmhrdmU1RmxGTXdYTWRWa1o2T1dubHIway1sems?oc=5"
         }
       ]
     },
@@ -256,25 +196,13 @@
       ]
     },
     {
-      "id": "ece4606a26a5",
-      "title": "烙賽人腸躁症約會困難改善分享 - Mobile01",
-      "published": "2026-08-13T04:33:06+00:00",
-      "summary": "烙賽人腸躁症約會困難改善分享&nbsp;&nbsp;Mobile01",
-      "sources": [
-        {
-          "name": "Mobile01",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xTGgwTDBZdE5wcDVCblFwc3cwZ245NU1lMzBqTW55ald6R1FhUVVSTUFLNEQ3OXpFYm9xalNQZnpJUkQwMXJST01aNE83c1V4Qy1td0xXakVHTHE5R3Z6UUxoTDg4X0Y0V1dXVg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5c6fd25e8e5d",
-      "title": "驗眼不只配眼鏡：看懂糖尿病與高血壓警訊 - 大纪元",
+      "id": "736a12db50f9",
+      "title": "驗眼不只配眼鏡：看懂糖尿病與高血壓警訊 - epochtimes.com",
       "published": "2026-08-12T23:11:00+00:00",
-      "summary": "驗眼不只配眼鏡：看懂糖尿病與高血壓警訊&nbsp;&nbsp;大纪元",
+      "summary": "驗眼不只配眼鏡：看懂糖尿病與高血壓警訊&nbsp;&nbsp;epochtimes.com",
       "sources": [
         {
-          "name": "大纪元",
+          "name": "epochtimes.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIb20tX1QyODBoMEVGNWEwSTdLLS1vNkcxR0NLbTRRQzFyNHhKanpUeHkwSGtXZVpIaGhNclRHdEdDUTU4MV9EcXc3aGZFVUo3MnNOanNNOFJ3aVQ2cTZKQ9IBZkFVX3lxTFBGalJRWUxEYnJidEdEa3ZYNHdkRGpKdVZGWTJmVUNhcDlIRC1vZ0llZUd5NlNRVmFrOVd6MWM0aldfZ1NjcURJXzdTVFBseHMyTWdUYjN6dWtnSHR5X0dxWTF1clpHZw?oc=5"
         }
       ]
@@ -292,49 +220,13 @@
       ]
     },
     {
-      "id": "bfe390020da6",
-      "title": "重症解密｜40歲下男性最常見癌症！專家揭鼻咽癌元兇竟與鹹魚有關？ - New Monday",
-      "published": "2026-08-13T05:34:44+00:00",
-      "summary": "重症解密｜40歲下男性最常見癌症！專家揭鼻咽癌元兇竟與鹹魚有關？&nbsp;&nbsp;New Monday",
-      "sources": [
-        {
-          "name": "New Monday",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQS1ZakN0R3NHVzJXOTRrMk9nXzRuZ3FOeTlURWxzS3Yxd096OVpBNnQ5R19vVGVlNTgxVkJ3MlZ5UkN3cGRjMFV4NkVJQWF6bWpuVnBSbWswbUVmZjF5Rlo5YVdBenVhYmREWnpmcWRTc0N0R2RYQnN3blZaMy1EWFlha0o2ZjBQQnJzbDZfS1RYek5tRlFKSWtFWU9PUkNBVlgwVEgyYjBXLW1ISk5aR0FyVWtCRERnTlM3NVYycnQxZ2JFTWRUaVVRelAwM2pXRjBvVzE5RjNsZEVzUjNZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "99c5c1915340",
-      "title": "劇烈頭痛又複視罕見無症狀鼻竇炎作祟- 醫療保健- 新聞 - chinesedaily.com",
-      "published": "2026-08-12T03:18:20+00:00",
-      "summary": "劇烈頭痛又複視罕見無症狀鼻竇炎作祟- 醫療保健- 新聞&nbsp;&nbsp;chinesedaily.com",
-      "sources": [
-        {
-          "name": "chinesedaily.com",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45WDNJX1lWUlRyOUZJUE8xZGtpLVhkU2FPVWp4ZXlPSktvaUZmR25ZZnBXc3ppYk5URGJBaS1YVlNkZzRtc0dXZ2FTUkFZQlJtNzU4Q3Z1VmI2aUoyQ3MtdkxGWEJYUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "64f5080da56d",
-      "title": "CRISPR基因剪刀搭載噬菌體病毒，成功救治抗生素抗藥性大腸桿菌患者 - BigGo 財經",
-      "published": "2026-08-12T01:07:00+00:00",
-      "summary": "CRISPR基因剪刀搭載噬菌體病毒，成功救治抗生素抗藥性大腸桿菌患者&nbsp;&nbsp;BigGo 財經",
-      "sources": [
-        {
-          "name": "BigGo 財經",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIRV9QRkhzZlBwUnJJSE11OE0wVnV0ZjRjM1E0d2M4TTJ5bEpJMi1nZWg3MFlYSW41a01rYmpzM1V1NjhmT0h3bFM2a0R3QTJGa0dfOTdHdjFKTm8yMFBfellhZXhUYmUxVW9vYW54TURMcFF0bko4bW93?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ddcd1d00aef3",
-      "title": "抗癌食物｜研究證6抗癌蔬菜 菠菜抗氧化大蒜防胃癌 榜首最多人愛 - hk01.com",
+      "id": "672f25d4f146",
+      "title": "抗癌食物｜研究證6抗癌蔬菜 菠菜抗氧化大蒜防胃癌 榜首最多人愛 - 香港01",
       "published": "2026-08-13T07:00:54+00:00",
-      "summary": "抗癌食物｜研究證6抗癌蔬菜 菠菜抗氧化大蒜防胃癌 榜首最多人愛&nbsp;&nbsp;hk01.com",
+      "summary": "抗癌食物｜研究證6抗癌蔬菜 菠菜抗氧化大蒜防胃癌 榜首最多人愛&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "hk01.com",
+          "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPN3NaSzFtalpVUVRPUGVyTl9EZkVURW1HdjRJMGtsVzFxVFoxbXMyNkN0Sldxdk5iYzhPUWQ3NTRuNjlBdlU1cmtiazRTd2Z5MzRWUWRkV21DRV9jUnBtOGpKOGNLLXhLRTFTMDVndFNjRXZtZURUYmV3VTd4cXNOa0FKNWV3UkJ2NmlKanY3T3hlYkIzX090b0tvaENPOTVkTXUtODZYVmF4RTRfak85Q0swa0lHanVJS09vbUpJdm1BUHF4WnhXeDlGNTJfZlNCUzZJN2h2REsyMGZHYURHRjdEOHh6TFFMLUpCS2E5UWllR3VLMFhVV3hUZk5WOHNPSVRwdFpEd2l0cVVHd0RjX0VILUY5Umpxb2ZWN191RV9jWVVxZHYwTTZWSFZvRHVIUHJvMVlUZDVUYUd0UldIM29BbklWSThGcVVoSzRwVEdYSlFnSlRYTkRFNGtzbUFPQkdwckZ2TW42S1hzUzA2TlI1a2tzeElxdjNnRkdIaXI3UC01SmJzdXJLc29Yd2RwT0hxZkRudVc3S3B1TkJBbFJzZkR3S2c?oc=5"
         }
       ]
@@ -384,18 +276,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMijwRBVV95cUxOSko4c2xTb3MxTGJhcW85Y1FBUG1wNFZQdnVqY08xVUpsN1ZTdi0xUzgycUJWTzJMNkM2UkVFZFo3Xzd6d0dSYVVLbEF6dmRDRXNQQWxHaHppRllqU2hRa0hkSllqMDlablJhUURXa05qNEFmN0c5OXVFbVgtWEVpUllPNlFrVldaYldsT2xWNXpIUmNHSnBUYTNCd0IzbmtUS3FSTVBxQUxkbHlaN0t6QWNpNDhWejZ4R0ozbE9kOXB3MHlMbFJVc0RzWlVVZFRjamVGc0JUVENObERtZy1aNkJuWkNTVHE3d3Z6cFQ4cVdKVjRWU2gybWw4emdJem0wTm82SUM5amhYNDl6SDgtREcwdFYwY0JDWXVBN1lQR2FXQ2ZlZERvakhtd0RETFM1dmV1Nm5nSUtSSVpCUzZkU294UmRzQlJBbklHcFVJVW0wV2lYTzZwSXk0aUJBQkcxUXFvdHhvVDhpLUxmVms3ak1FX0Jnb0E3WVVWWERCdXg4OW1zblMzazZTc2pLZUZYUVVjaEZab090aVJlaFQtM3NYWUpUb3gxeHQyRUFSS2dMcGJGaG1JTHo4NTA3dGhqTzJveWRwdDN4bllRMXZqdWdtNlZYakNPSlRuSlhNX3p4eHd0LTNGMXpOdWpYajVRelhUM0RDcFl3VzlfZ2hkTlB5RThpUjRhSUF5WTBDdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e214ce724168",
-      "title": "涉男男性接觸者甲型肝炎個案持續下跌 9.12起停止免費接種疫苗 - AM730",
-      "published": "2026-08-12T04:19:06+00:00",
-      "summary": "涉男男性接觸者甲型肝炎個案持續下跌 9.12起停止免費接種疫苗&nbsp;&nbsp;AM730防護中心：為男男性接觸者免費接種甲肝疫苗9.12起停止&nbsp;&nbsp;orangenews.hk衞生署為逾280名男同性戀免費接種甲肝疫苗 已截斷傳播鏈&nbsp;&nbsp;香港商报衞生署為男男性接觸者免費接種甲型肝炎疫苗 成功截斷特定人群感染群組傳播鏈&nbsp;&nbsp;大公文匯網衞生署：男男性接觸者甲肝群組傳播鏈截斷 9.12停免費接種疫苗&nbsp;&nbsp;hk01.com",
-      "sources": [
-        {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPYzZYckhlVG00TEZDb0hlUFNhb0RibzcxZjUtdUpDVnVSQjhxVkdGenVBaWZPcDh1Y19rdmhJV0dPenRHNU5OWm53UHBCMTZuN3U3c1V3RG81djhyajNaWk0xY1pNcHowN21fQ1ZFU0FiMi0zNjR4VjVwSkFValdKQTRmS0loRzlSOTAwS3NzNXBvbTcySDlheGlXRnROZjBGWTNycGtsMVZBMzhzUlg1dG9HbHUzSTlFUExOS3lfWkYtbmpTYzdzOWl0ckNBc19UcWIxUS10dWdibWQ5UnJocTZ1ZFRYZFI5QXdnc2J4WkVFR2l3ZGs0N2ZMaTh5T0NIck82c2hEMlZtbC1zMHVzaVh4NURERDdfM2ZubHl5d1p1czVDLTdhY1VoTW9iRGpVQWRRSTRLNWdVSmx6QUZhOVFseDktOTVJNDFWaERVc3hSR21sblhZWUZtRVVHZmJJTzJMbk5ySnhEbktSMWRoWEFoZFNjamV0YmdMbWl1S1YtZ2x3bF9GdGJINWNlZnJxZnpjNDV5SW94cXhhd282NA?oc=5"
         }
       ]
     },

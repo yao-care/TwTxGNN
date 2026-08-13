@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-13T22:31:32.566467+00:00",
-  "count": 10,
+  "generated": "2026-08-13T23:31:59.019461+00:00",
+  "count": 9,
   "news": [
     {
-      "id": "ddcd1d00aef3",
+      "id": "672f25d4f146",
       "title": "抗癌食物｜研究證6抗癌蔬菜 菠菜抗氧化大蒜防胃癌 榜首最多人愛",
       "published": "2026-08-13T07:00:54+00:00",
       "sources": [
         {
-          "name": "hk01.com",
+          "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPN3NaSzFtalpVUVRPUGVyTl9EZkVURW1HdjRJMGtsVzFxVFoxbXMyNkN0Sldxdk5iYzhPUWQ3NTRuNjlBdlU1cmtiazRTd2Z5MzRWUWRkV21DRV9jUnBtOGpKOGNLLXhLRTFTMDVndFNjRXZtZURUYmV3VTd4cXNOa0FKNWV3UkJ2NmlKanY3T3hlYkIzX090b0tvaENPOTVkTXUtODZYVmF4RTRfak85Q0swa0lHanVJS09vbUpJdm1BUHF4WnhXeDlGNTJfZlNCUzZJN2h2REsyMGZHYURHRjdEOHh6TFFMLUpCS2E5UWllR3VLMFhVV3hUZk5WOHNPSVRwdFpEd2l0cVVHd0RjX0VILUY5Umpxb2ZWN191RV9jWVVxZHYwTTZWSFZvRHVIUHJvMVlUZDVUYUd0UldIM29BbklWSThGcVVoSzRwVEdYSlFnSlRYTkRFNGtzbUFPQkdwckZ2TW42S1hzUzA2TlI1a2tzeElxdjNnRkdIaXI3UC01SmJzdXJLc29Yd2RwT0hxZkRudVc3S3B1TkJBbFJzZkR3S2c?oc=5"
         }
       ],
@@ -49,264 +49,6 @@
           "type": "indication",
           "name": "generic_cancer",
           "keyword": "腫瘤",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "573d72685d67",
-      "title": "避開高血壓、糖尿病、吸菸3風險 多享13年無失智歲月",
-      "published": "2026-08-13T06:00:00+00:00",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlSGJwZzlWbGhvZ0VIb2sxdUhQemVRbzVDRXkxejQ2N2l1bm12R3VMNjBwUzFfdWxrc2NqRkRaNlhRRGhVUUlYZ1dHWDdMZVNKM2ZMMnFrNl9aVnp0S3BraHJn0gFnQVVfeXFMTmhLWW1qUFdPQktKZDVaLUJjQjdyYmFfaVZGakVsRGwtLWwzcWdOZ1RfYTRMVVdEanBNLW5TMUZCYTRQM1dPd0xrby00eERGdDVCUS1PSmg2SGJvS2h4UnlEMUhVMHU4cw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bfe390020da6",
-      "title": "重症解密｜40歲下男性最常見癌症！專家揭鼻咽癌元兇竟與鹹魚有關？ - New Monday",
-      "published": "2026-08-13T05:34:44+00:00",
-      "sources": [
-        {
-          "name": "New Monday",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQS1ZakN0R3NHVzJXOTRrMk9nXzRuZ3FOeTlURWxzS3Yxd096OVpBNnQ5R19vVGVlNTgxVkJ3MlZ5UkN3cGRjMFV4NkVJQWF6bWpuVnBSbWswbUVmZjF5Rlo5YVdBenVhYmREWnpmcWRTc0N0R2RYQnN3blZaMy1EWFlha0o2ZjBQQnJzbDZfS1RYek5tRlFKSWtFWU9PUkNBVlgwVEgyYjBXLW1ISk5aR0FyVWtCRERnTlM3NVYycnQxZ2JFTWRUaVVRelAwM2pXRjBvVzE5RjNsZEVzUjNZ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
           "related_drugs": [
             {
               "slug": "trabectedin",
@@ -549,12 +291,12 @@
       ]
     },
     {
-      "id": "5c6fd25e8e5d",
+      "id": "736a12db50f9",
       "title": "驗眼不只配眼鏡：看懂糖尿病與高血壓警訊",
       "published": "2026-08-12T23:11:00+00:00",
       "sources": [
         {
-          "name": "大纪元",
+          "name": "epochtimes.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIb20tX1QyODBoMEVGNWEwSTdLLS1vNkcxR0NLbTRRQzFyNHhKanpUeHkwSGtXZVpIaGhNclRHdEdDUTU4MV9EcXc3aGZFVUo3MnNOanNNOFJ3aVQ2cTZKQ9IBZkFVX3lxTFBGalJRWUxEYnJidEdEa3ZYNHdkRGpKdVZGWTJmVUNhcDlIRC1vZ0llZUd5NlNRVmFrOVd6MWM0aldfZ1NjcURJXzdTVFBseHMyTWdUYjN6dWtnSHR5X0dxWTF1clpHZw?oc=5"
         }
       ],
@@ -571,6 +313,41 @@
             {
               "slug": "metoprolol",
               "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "42a129c94c80",
+      "title": "研究：中年踩3地雷　無失智壽命慘少12年 - 鏡週刊Mirror Media",
+      "published": "2026-08-12T11:16:00+00:00",
+      "sources": [
+        {
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aZzNKeDlJVkpJRWYzUUM1UTdfVjRnOW5BS085VU50TktIbHFzSjFTbWc5QzBNaVpmWWRja2EyRldpS0c5Q25DbkJNZnczc01yODVMTWhDV0lneUVK0gFiQVVfeXFMUGctMVRnN3hBbFRnRW5pd011d0liQU5nTkhuWERVX1Rld3dVVWJvOTB4V0hVN0t4bnFmTEF1XzFSbjhCRVdqY2JhUksyOHMwUFViVUlna3BjMjdMcDlidWY4bXc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
