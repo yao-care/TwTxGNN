@@ -14,7 +14,7 @@ permalink: /news/iodixanol/
 ---
 
 <p class="key-answer" data-question="Iodixanol 有什麼相關新聞？">
-<strong>Iodixanol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Iodixanol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,9 +35,15 @@ permalink: /news/iodixanol/
 <p><a href="{{ '/drugs/iodixanol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [關注心腦血管疾病 專家提醒：讓科學防護成為習慣](https://news.google.com/rss/articles/CBMikAFBVV95cUxOWW10Yy1jejk5SlVzYTVXSHdFUjFETFlIU3p3T3Z2dFlXU3dUNWFIRHV6NWJGTDVhVnJvMWI3MjlsR3dVYnR1bS1FdmpZcWpSSmloLXBHVmx5aXBWX3NwUkFzNndKQzZsZGtrYW9GaUo5dnBCRjVrRHNMTzV2ZnpzY2tmMkRqRFNmeFR0R2NGNzM?oc=5)
+
+2026-08-12 <span class="news-indication-tag">腦血管</span>
+
+來源：[紫荊雜誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxOWW10Yy1jejk5SlVzYTVXSHdFUjFETFlIU3p3T3Z2dFlXU3dUNWFIRHV6NWJGTDVhVnJvMWI3MjlsR3dVYnR1bS1FdmpZcWpSSmloLXBHVmx5aXBWX3NwUkFzNndKQzZsZGtrYW9GaUo5dnBCRjVrRHNMTzV2ZnpzY2tmMkRqRFNmeFR0R2NGNzM?oc=5)
+
+---
 
 
 <div class="disclaimer">

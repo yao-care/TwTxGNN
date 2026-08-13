@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-13T20:31:42.198945+00:00",
-  "total_count": 25,
-  "matched_count": 8,
+  "last_updated": "2026-08-13T21:35:15.922877+00:00",
+  "total_count": 26,
+  "matched_count": 9,
   "news": [
     {
       "id": "037fe13bd7e0",
@@ -362,26 +362,26 @@
       ]
     },
     {
-      "id": "ad3a0fea99d6",
+      "id": "074129afdc5a",
       "title": "適時接種疫苗守護下一代 衞生署籲維持高接種率防麻疹爆發",
       "published": "2026-08-13T01:28:56+00:00",
-      "summary": "適時接種疫苗守護下一代 衞生署籲維持高接種率防麻疹爆發&nbsp;&nbsp;bastillepost.com",
+      "summary": "適時接種疫苗守護下一代 衞生署籲維持高接種率防麻疹爆發&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNc3FSNktXUEh6WkNIN0hrVnJMOHJBbGludzkyU1k4QmZuUF9SSmdxQVFjN3c4V2pTUmplNk9UN0ZHaTFzUkd2SGJNRFB6MTU4OTBPWlVIOUg4cFpuYXJRZ3JSZm5Pa1hTX2NCN2pBSFRZcVM5WHVGcVJvSGhweTRIVi1ENDZDODZ1MS1HNTJmY2VWbUNGYlVVOURKRlBTMnc0NDc3QVNRS1V3aE5VYS1pUDh5Wkg1STdqNjZscUpKWEZTSmFEY3ZJaTY0TDA5aHJBSGZEd2JRNzlwenczdDhYc2JOM2ljYkVfZWxPRDZETXliRnlPQ3pONlFDTXZ3a3NjME01ZFc0UVZMLVVkZWR4TWlndjlRd3U2NTFkUmhnYTNtbTdYdzlNb2YtNEo5akxyTDVrRjJyNmQtbEVTV25sbVRKWm9tMk9qXzJtaVpIUkJiZ1ZRODdrX256MXYtNGppVWs3WUFjODlYVHlONmVN?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "05e95587e507",
-      "title": "肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制",
+      "id": "78b0f284b587",
+      "title": "肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制 - TechNews 科技新報",
       "published": "2026-08-13T00:34:09+00:00",
-      "summary": "肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制&nbsp;&nbsp;technews.tw",
+      "summary": "肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "technews.tw",
+          "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TUzlkSVA4amJ5UEt4MFVjbzdFd1k5VmU0TC0yam1JNUhtTzIzNWZEeWlfdUd3LUtCRVpyMDVYaUs1dEhpc1JNRDl1cFhaN3VCdTR1djk4dUJsM0RiQXJjVGtsaEU0R2FEX3lkbHBnYVlsNHg3NnJDSA?oc=5"
         }
       ],
@@ -994,6 +994,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "ccd9a39fc796",
+      "title": "關注心腦血管疾病 專家提醒：讓科學防護成為習慣",
+      "published": "2026-08-12T01:33:16+00:00",
+      "summary": "關注心腦血管疾病 專家提醒：讓科學防護成為習慣&nbsp;&nbsp;紫荊雜誌",
+      "sources": [
+        {
+          "name": "紫荊雜誌",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWW10Yy1jejk5SlVzYTVXSHdFUjFETFlIU3p3T3Z2dFlXU3dUNWFIRHV6NWJGTDVhVnJvMWI3MjlsR3dVYnR1bS1FdmpZcWpSSmloLXBHVmx5aXBWX3NwUkFzNndKQzZsZGtrYW9GaUo5dnBCRjVrRHNMTzV2ZnpzY2tmMkRqRFNmeFR0R2NGNzM?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "腦血管",
+          "keyword": "腦血管",
+          "related_drugs": [
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "120065e78497",

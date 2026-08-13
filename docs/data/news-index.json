@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T20:31:42.230566+00:00",
-  "count": 8,
+  "generated": "2026-08-13T21:35:15.954633+00:00",
+  "count": 9,
   "news": [
     {
       "id": "672f25d4f146",
@@ -267,12 +267,12 @@
       ]
     },
     {
-      "id": "05e95587e507",
-      "title": "肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制",
+      "id": "78b0f284b587",
+      "title": "肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制 - TechNews 科技新報",
       "published": "2026-08-13T00:34:09+00:00",
       "sources": [
         {
-          "name": "technews.tw",
+          "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TUzlkSVA4amJ5UEt4MFVjbzdFd1k5VmU0TC0yam1JNUhtTzIzNWZEeWlfdUd3LUtCRVpyMDVYaUs1dEhpc1JNRDl1cFhaN3VCdTR1djk4dUJsM0RiQXJjVGtsaEU0R2FEX3lkbHBnYVlsNHg3NnJDSA?oc=5"
         }
       ],
@@ -799,6 +799,30 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ccd9a39fc796",
+      "title": "關注心腦血管疾病 專家提醒：讓科學防護成為習慣",
+      "published": "2026-08-12T01:33:16+00:00",
+      "sources": [
+        {
+          "name": "紫荊雜誌",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWW10Yy1jejk5SlVzYTVXSHdFUjFETFlIU3p3T3Z2dFlXU3dUNWFIRHV6NWJGTDVhVnJvMWI3MjlsR3dVYnR1bS1FdmpZcWpSSmloLXBHVmx5aXBWX3NwUkFzNndKQzZsZGtrYW9GaUo5dnBCRjVrRHNMTzV2ZnpzY2tmMkRqRFNmeFR0R2NGNzM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "腦血管",
+          "keyword": "腦血管",
+          "related_drugs": [
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
             }
           ]
         }
