@@ -1,29 +1,17 @@
 {
   "source": "tzuchi_chiayi",
-  "fetched_at": "2026-08-13T08:11:43.606898+00:00",
+  "fetched_at": "2026-08-13T09:53:48.737090+00:00",
   "count": 5,
   "news": [
     {
-      "id": "b90b40f8055e",
-      "title": "嘉義慈濟與脊損中心攜手 用金縷樹轉動生命美學",
-      "published": "2026-03-27T00:00:00+00:00",
+      "id": "849e34530e76",
+      "title": "放三週剩半條蒂頭變黑！婦吃不新鮮絲瓜爆發急性蕁麻疹",
+      "published": "2026-08-13T00:00:00+00:00",
       "summary": "",
       "sources": [
         {
           "name": "嘉義慈濟醫院",
-          "link": "https://chiayi.tzuchi-healthcare.org.tw/index.php/zui-xin-xiao-xi/jian-kang-wei-jiao-4/jia-yi-ci-ji-yu-ji-sun-zhong-xin-xie-shou-yong-jin-lu-shu-zhuan-dong-sheng-ming-mei-xue"
-        }
-      ]
-    },
-    {
-      "id": "3ce16437461c",
-      "title": "【健康重開肌】 運動可保有行動力與生活自主",
-      "published": "2025-12-24T00:00:00+00:00",
-      "summary": "",
-      "sources": [
-        {
-          "name": "嘉義慈濟醫院",
-          "link": "https://chiayi.tzuchi-healthcare.org.tw/index.php/zui-xin-xiao-xi/jian-kang-wei-jiao-4/jian-kang-zhong-kai-ji-yun-dong-ke-bao-you-xing-dong-li-yu-sheng-huo-zi-zhu"
+          "link": "https://chiayi.tzuchi-healthcare.org.tw/index.php/zui-xin-xiao-xi/jian-kang-wei-jiao-4/fang-san-zhou-sheng-ban-tiao-di-tou-bian-hei-fu-chi-bu-xin-xian-si-gua-bao-fa-ji-xing-qian-ma-zhen"
         }
       ]
     },
@@ -52,14 +40,26 @@
       ]
     },
     {
-      "id": "c8a796ff36f9",
-      "title": "嘉義人醫會偏鄉往診 度過有意義的母親節",
-      "published": "2025-05-13T00:00:00+00:00",
+      "id": "b90b40f8055e",
+      "title": "嘉義慈濟與脊損中心攜手 用金縷樹轉動生命美學",
+      "published": "2026-03-27T00:00:00+00:00",
       "summary": "",
       "sources": [
         {
           "name": "嘉義慈濟醫院",
-          "link": "https://chiayi.tzuchi-healthcare.org.tw/index.php/zui-xin-xiao-xi/jian-kang-wei-jiao-4/jia-yi-ren-yi-hui-pian-xiang-wang-zhen-du-guo-you-yi-yi-de-mu-qin-jie"
+          "link": "https://chiayi.tzuchi-healthcare.org.tw/index.php/zui-xin-xiao-xi/jian-kang-wei-jiao-4/jia-yi-ci-ji-yu-ji-sun-zhong-xin-xie-shou-yong-jin-lu-shu-zhuan-dong-sheng-ming-mei-xue"
+        }
+      ]
+    },
+    {
+      "id": "3ce16437461c",
+      "title": "【健康重開肌】 運動可保有行動力與生活自主",
+      "published": "2025-12-24T00:00:00+00:00",
+      "summary": "",
+      "sources": [
+        {
+          "name": "嘉義慈濟醫院",
+          "link": "https://chiayi.tzuchi-healthcare.org.tw/index.php/zui-xin-xiao-xi/jian-kang-wei-jiao-4/jian-kang-zhong-kai-ji-yun-dong-ke-bao-you-xing-dong-li-yu-sheng-huo-zi-zhu"
         }
       ]
     }

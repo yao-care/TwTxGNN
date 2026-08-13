@@ -1,7 +1,39 @@
 {
-  "generated": "2026-08-13T08:11:43.766642+00:00",
-  "count": 8,
+  "generated": "2026-08-13T09:53:48.897697+00:00",
+  "count": 9,
   "news": [
+    {
+      "id": "672f25d4f146",
+      "title": "抗癌食物｜研究證6抗癌蔬菜 菠菜抗氧化大蒜防胃癌 榜首最多人愛",
+      "published": "2026-08-13T09:39:03+00:00",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPN3NaSzFtalpVUVRPUGVyTl9EZkVURW1HdjRJMGtsVzFxVFoxbXMyNkN0Sldxdk5iYzhPUWQ3NTRuNjlBdlU1cmtiazRTd2Z5MzRWUWRkV21DRV9jUnBtOGpKOGNLLXhLRTFTMDVndFNjRXZtZURUYmV3VTd4cXNOa0FKNWV3UkJ2NmlKanY3T3hlYkIzX090b0tvaENPOTVkTXUtODZYVmF4RTRfak85Q0swa0lHanVJS09vbUpJdm1BUHF4WnhXeDlGNTJfZlNCUzZJN2h2REsyMGZHYURHRjdEOHh6TFFMLUpCS2E5UWllR3VLMFhVV3hUZk5WOHNPSVRwdFpEd2l0cVVHd0RjX0VILUY5Umpxb2ZWN191RV9jWVVxZHYwTTZWSFZvRHVIUHJvMVlUZDVUYUd0UldIM29BbklWSThGcVVoSzRwVEdYSlFnSlRYTkRFNGtzbUFPQkdwckZ2TW42S1hzUzA2TlI1a2tzeElxdjNnRkdIaXI3UC01SmJzdXJLc29Yd2RwT0hxZkRudVc3S3B1TkJBbFJzZkR3S2c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "胃癌",
+          "keyword": "胃癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "trastuzumab_deruxtecan",
+              "name": "Trastuzumab deruxtecan"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "906f70434668",
       "title": "抗癌免疫新發現 特殊細胞助T細胞對抗腫瘤",
@@ -211,12 +243,12 @@
       ]
     },
     {
-      "id": "542558d1ae48",
-      "title": "健康飲食｜血管老化恐傷心/腦/腎/眼 醫生推薦7大血管逆齡食物 心血管病死亡率大降25%",
+      "id": "e1ab85b1baa5",
+      "title": "健康飲食｜血管老化恐傷心/腦/腎/眼 醫生推薦7大血管逆齡食物 心血管病死亡率大降25% - 晴報 Sky Post",
       "published": "2026-08-13T02:51:44+00:00",
       "sources": [
         {
-          "name": "skypost.hk",
+          "name": "晴報 Sky Post",
           "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxNY2hwOWtMZUlDSVEzTE5TQ0lIdjJybDdZRWJacGh2aGxPRW8yUmlLa1NJaUhFVHdNNW9jZjM5M2FxSUhmMVVQOUZ0NGtTLWp2N2lrQ2JhVVJ3aFg2em4zWVdHTDhUTjZuQWwzSGtOMF9FcDRGWTFKakJOOW85S2VEdi1uc1A3djNicXpyNzVVTjVqMmpHcDI5WXJNdVpEcnlzblhXLVlnVzhiNmxsN1hiaTlyVV9LaXRuM0hBaEJsU3pDcGt6anBwbEZNSW05MDA4enFqQURpelU2QUFNZlFPWGp6TkRSMURTeGlnak5wYlp6S2FiYVZJVVlSZkM4YnZiS3VjLW1vODNYOGRyVkxpVF90dHBpUno5blVfZjE1cFFNdWN6bnJkWUdYdW5oWGZ2b3l3NzcyNlJValRmZzJDWjlXMVhUNnhHZWdPU1EwWXhMVlZfTTNTZ3FfeXlXMHZNRHFEV0tXUGkzalJtYkJwb0VVSHlad2E3SUQyYVFLS2RRRVlSTGN0LTR1VWtDbFdyZFNDc2FpTzFUZUpnOG4zZzg2bTE1UWZ5TE9lUGFNbnZTbkRtTTZwcWpDaTRZN1cxX0VzWHhLcEp2c3BPNVR2QWs0QkFGNm1Fdkh0WWQ1dU1JSUI4dXJ4YkpsNFVFYUk?oc=5"
         }
       ],
