@@ -40,7 +40,7 @@ permalink: /news/interferon_beta-1b/
 
 2026-08-13 <span class="news-indication-tag">腫瘤</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SbVR4R3JkUmk0LWNQamFta1h0RnFnVEpCRkZFaTRKMGJxZ0dDY09hNU14cTBtaXkxZXlPZlR6OVdRQlFoU255RWRESmdkVjVfSndFc2t4Y3dGNnB2VGdiVlN1M0s?oc=5)
+來源：[health.ltn.com.tw](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SbVR4R3JkUmk0LWNQamFta1h0RnFnVEpCRkZFaTRKMGJxZ0dDY09hNU14cTBtaXkxZXlPZlR6OVdRQlFoU255RWRESmdkVjVfSndFc2t4Y3dGNnB2VGdiVlN1M0s?oc=5)
 
 ---
 
@@ -48,7 +48,7 @@ permalink: /news/interferon_beta-1b/
 
 2026-08-12 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5)
+來源：[health.ltn.com.tw](https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5)
 
 ---
 
