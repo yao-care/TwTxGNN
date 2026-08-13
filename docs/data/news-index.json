@@ -1,7 +1,59 @@
 {
-  "generated": "2026-08-12T23:30:37.059678+00:00",
-  "count": 8,
+  "generated": "2026-08-13T01:10:38.326360+00:00",
+  "count": 10,
   "news": [
+    {
+      "id": "78b0f284b587",
+      "title": "肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制 - TechNews 科技新報",
+      "published": "2026-08-13T00:33:45+00:00",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TUzlkSVA4amJ5UEt4MFVjbzdFd1k5VmU0TC0yam1JNUhtTzIzNWZEeWlfdUd3LUtCRVpyMDVYaUs1dEhpc1JNRDl1cFhaN3VCdTR1djk4dUJsM0RiQXJjVGtsaEU0R2FEX3lkbHBnYVlsNHg3NnJDSA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5c6fd25e8e5d",
+      "title": "驗眼不只配眼鏡：看懂糖尿病與高血壓警訊",
+      "published": "2026-08-12T23:11:00+00:00",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIb20tX1QyODBoMEVGNWEwSTdLLS1vNkcxR0NLbTRRQzFyNHhKanpUeHkwSGtXZVpIaGhNclRHdEdDUTU4MV9EcXc3aGZFVUo3MnNOanNNOFJ3aVQ2cTZKQ9IBZkFVX3lxTFBGalJRWUxEYnJidEdEa3ZYNHdkRGpKdVZGWTJmVUNhcDlIRC1vZ0llZUd5NlNRVmFrOVd6MWM0aldfZ1NjcURJXzdTVFBseHMyTWdUYjN6dWtnSHR5X0dxWTF1clpHZw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "88338c6a856b",
       "title": "50歲啃老港女患乳癌20萬「保性徵」陷人生交叉點：定係留錢過世？事主最終1決定放下執著｜Juicy叮",

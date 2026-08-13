@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制 - TechNews 科技新報](https://news.google.com/rss/articles/CBMieEFVX3lxTE9TUzlkSVA4amJ5UEt4MFVjbzdFd1k5VmU0TC0yam1JNUhtTzIzNWZEeWlfdUd3LUtCRVpyMDVYaUs1dEhpc1JNRDl1cFhaN3VCdTR1djk4dUJsM0RiQXJjVGtsaEU0R2FEX3lkbHBnYVlsNHg3NnJDSA?oc=5)
+
+2026-08-13 <span class="news-indication-tag">阿茲海默症</span>
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMieEFVX3lxTE9TUzlkSVA4amJ5UEt4MFVjbzdFd1k5VmU0TC0yam1JNUhtTzIzNWZEeWlfdUd3LUtCRVpyMDVYaUs1dEhpc1JNRDl1cFhaN3VCdTR1djk4dUJsM0RiQXJjVGtsaEU0R2FEX3lkbHBnYVlsNHg3NnJDSA?oc=5)
+
+---
 
 ### [不吸菸、無慢性病 可延後13年失智](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KdVVEMUxpbGhUSnduUkw5MGgwQ2ctNm9VR296bGt1ZDNsT0dxNWkySlBiTHhJcGFlT1Ztcm5UQlctSHNicEJvR0JHQzVvaE4yaWgwYmdVbw?oc=5)
 

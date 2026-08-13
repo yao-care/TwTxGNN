@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [驗眼不只配眼鏡：看懂糖尿病與高血壓警訊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIb20tX1QyODBoMEVGNWEwSTdLLS1vNkcxR0NLbTRRQzFyNHhKanpUeHkwSGtXZVpIaGhNclRHdEdDUTU4MV9EcXc3aGZFVUo3MnNOanNNOFJ3aVQ2cTZKQ9IBZkFVX3lxTFBGalJRWUxEYnJidEdEa3ZYNHdkRGpKdVZGWTJmVUNhcDlIRC1vZ0llZUd5NlNRVmFrOVd6MWM0aldfZ1NjcURJXzdTVFBseHMyTWdUYjN6dWtnSHR5X0dxWTF1clpHZw?oc=5)
+
+2026-08-12 <span class="news-indication-tag">高血壓</span>
+
+來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIb20tX1QyODBoMEVGNWEwSTdLLS1vNkcxR0NLbTRRQzFyNHhKanpUeHkwSGtXZVpIaGhNclRHdEdDUTU4MV9EcXc3aGZFVUo3MnNOanNNOFJ3aVQ2cTZKQ9IBZkFVX3lxTFBGalJRWUxEYnJidEdEa3ZYNHdkRGpKdVZGWTJmVUNhcDlIRC1vZ0llZUd5NlNRVmFrOVd6MWM0aldfZ1NjcURJXzdTVFBseHMyTWdUYjN6dWtnSHR5X0dxWTF1clpHZw?oc=5)
+
+---
 
 ### [癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內](https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5)
 

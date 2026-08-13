@@ -1,8 +1,62 @@
 {
-  "last_updated": "2026-08-12T23:30:37.029540+00:00",
-  "total_count": 22,
-  "matched_count": 8,
+  "last_updated": "2026-08-13T01:10:38.297337+00:00",
+  "total_count": 25,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "78b0f284b587",
+      "title": "肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制 - TechNews 科技新報",
+      "published": "2026-08-13T00:33:45+00:00",
+      "summary": "肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TUzlkSVA4amJ5UEt4MFVjbzdFd1k5VmU0TC0yam1JNUhtTzIzNWZEeWlfdUd3LUtCRVpyMDVYaUs1dEhpc1JNRDl1cFhaN3VCdTR1djk4dUJsM0RiQXJjVGtsaEU0R2FEX3lkbHBnYVlsNHg3NnJDSA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5c6fd25e8e5d",
+      "title": "驗眼不只配眼鏡：看懂糖尿病與高血壓警訊",
+      "published": "2026-08-12T23:11:00+00:00",
+      "summary": "驗眼不只配眼鏡：看懂糖尿病與高血壓警訊&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIb20tX1QyODBoMEVGNWEwSTdLLS1vNkcxR0NLbTRRQzFyNHhKanpUeHkwSGtXZVpIaGhNclRHdEdDUTU4MV9EcXc3aGZFVUo3MnNOanNNOFJ3aVQ2cTZKQ9IBZkFVX3lxTFBGalJRWUxEYnJidEdEa3ZYNHdkRGpKdVZGWTJmVUNhcDlIRC1vZ0llZUd5NlNRVmFrOVd6MWM0aldfZ1NjcURJXzdTVFBseHMyTWdUYjN6dWtnSHR5X0dxWTF1clpHZw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "d1aa791bd345",
       "title": "二○二六年綜合維他命怎麼挑 - 生活新聞 - PChome Online 新聞 - PChome Online 新聞",
@@ -51,6 +105,19 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTTYteFlEQWhBZU4tWnNTNFc3TFplOUt4X2liRmlJLTlmc3Jqa1FRbFVINGNhWWxZUWZlSmdrTjVrTHRpajlSYTZmVDQzak92eHdQYng1UERHc3FzX2doay1pYU1rM3JyT3MwWUNGRlpQQVpYbEJLaW9RT0c0MXIyRUQ5TU1oMnh1d3c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f7bf238c4797",
+      "title": "男友鏡頭比自拍更殘酷？文山維格鄭伊婷醫師揭「死亡側拍」元凶海芙音波媚必提助攻俐落下顎線",
+      "published": "2026-08-12T09:45:00+00:00",
+      "summary": "男友鏡頭比自拍更殘酷？文山維格鄭伊婷醫師揭「死亡側拍」元凶海芙音波媚必提助攻俐落下顎線&nbsp;&nbsp;news.nextapple.com從重力下垂談臉部減脂 找回年輕的感覺&nbsp;&nbsp;Yahoo新聞臉部老化非單一層次 醫師提醒分層評估肌膚與肌肉狀態 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞熟齡保養遇瓶頸？醫：臉部肌肉才是抗老關鍵 | NOWNEWS今日新聞&nbsp;&nbsp;LINE TODAY想改善「看起來很累」？陳律安醫師：抗老關鍵在輪廓支撐 海芙音波媚必提助找回自然精神感&nbsp;&nbsp;news.nextapple.com",
+      "sources": [
+        {
+          "name": "news.nextapple.com",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYeG1CRmpkdHF3NnpmamFlVzhTV0gxVktTeE8zbHlYdk5xT0RXcTJXMDcwMUhac3Nxa1lxbjFVZ3lLM0NvU1BvYkw2NElNU0ktLXFFWmc4TUlTcG56azRIZUQtdFVwRndYQ1FsUTFLWHo1V2hETUhWM1N4NEcxdw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -802,13 +869,13 @@
       ]
     },
     {
-      "id": "9e33e7bb9e07",
+      "id": "237bb2a76a0c",
       "title": "健康新視界》吃對食物 有助提升年長者疫苗效果？（潘懷宗）",
       "published": "2026-08-11T03:30:14+00:00",
-      "summary": "健康新視界》吃對食物 有助提升年長者疫苗效果？（潘懷宗）&nbsp;&nbsp;中時新聞網",
+      "summary": "健康新視界》吃對食物 有助提升年長者疫苗效果？（潘懷宗）&nbsp;&nbsp;chinatimes.com",
       "sources": [
         {
-          "name": "中時新聞網",
+          "name": "chinatimes.com",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5odURXLThnb3FnSFlrb3pLWEdpS0pNNm9meXU1dWY3YWp4QW1iQ3dUR3BUSl84WC1qNWxtY2ZTd3k2TndfNjdaUU43OTNYQnE0S2pMZUhlUVhIczRaMHZ4RTJlNE8zSVk?oc=5"
         }
       ],
