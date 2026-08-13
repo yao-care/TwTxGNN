@@ -1,7 +1,31 @@
 {
-  "generated": "2026-08-13T01:10:38.326360+00:00",
+  "generated": "2026-08-13T04:01:20.492843+00:00",
   "count": 10,
   "news": [
+    {
+      "id": "e1ab85b1baa5",
+      "title": "健康飲食｜血管老化恐傷心/腦/腎/眼 醫生推薦7大血管逆齡食物 心血管病死亡率大降25% - 晴報 Sky Post",
+      "published": "2026-08-13T02:51:44+00:00",
+      "sources": [
+        {
+          "name": "晴報 Sky Post",
+          "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxNY2hwOWtMZUlDSVEzTE5TQ0lIdjJybDdZRWJacGh2aGxPRW8yUmlLa1NJaUhFVHdNNW9jZjM5M2FxSUhmMVVQOUZ0NGtTLWp2N2lrQ2JhVVJ3aFg2em4zWVdHTDhUTjZuQWwzSGtOMF9FcDRGWTFKakJOOW85S2VEdi1uc1A3djNicXpyNzVVTjVqMmpHcDI5WXJNdVpEcnlzblhXLVlnVzhiNmxsN1hiaTlyVV9LaXRuM0hBaEJsU3pDcGt6anBwbEZNSW05MDA4enFqQURpelU2QUFNZlFPWGp6TkRSMURTeGlnak5wYlp6S2FiYVZJVVlSZkM4YnZiS3VjLW1vODNYOGRyVkxpVF90dHBpUno5blVfZjE1cFFNdWN6bnJkWUdYdW5oWGZ2b3l3NzcyNlJValRmZzJDWjlXMVhUNnhHZWdPU1EwWXhMVlZfTTNTZ3FfeXlXMHZNRHFEV0tXUGkzalJtYkJwb0VVSHlad2E3SUQyYVFLS2RRRVlSTGN0LTR1VWtDbFdyZFNDc2FpTzFUZUpnOG4zZzg2bTE1UWZ5TE9lUGFNbnZTbkRtTTZwcWpDaTRZN1cxX0VzWHhLcEp2c3BPNVR2QWs0QkFGNm1Fdkh0WWQ1dU1JSUI4dXJ4YkpsNFVFYUk?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "78b0f284b587",
       "title": "肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制 - TechNews 科技新報",
@@ -103,13 +127,13 @@
       ]
     },
     {
-      "id": "5fef35c1077f",
+      "id": "2ec5d75c1bd3",
       "title": "不吸菸、無慢性病 可延後13年失智",
-      "published": "2026-08-12T04:48:41+00:00",
+      "published": "2026-08-12T05:26:25+00:00",
       "sources": [
         {
-          "name": "anntw.com",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KdVVEMUxpbGhUSnduUkw5MGgwQ2ctNm9VR296bGt1ZDNsT0dxNWkySlBiTHhJcGFlT1Ztcm5UQlctSHNicEJvR0JHQzVvaE4yaWgwYmdVbw?oc=5"
+          "name": "udn.com",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54dTRkRk9rNUw0bWJZQ2RKTktVdjhpd3FXSS1ONE1fZU4zdnlWanltT2hxNklidkMyMjNHemhXWjVuTnprdWtpWUttOTl1dzdk?oc=5"
         }
       ],
       "keywords": [
@@ -697,30 +721,6 @@
             {
               "slug": "amcinonide",
               "name": "Amcinonide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4eccf6cdbd4a",
-      "title": "蒿草過敏別當感冒治",
-      "published": "2026-08-11T01:47:41+00:00",
-      "sources": [
-        {
-          "name": "紫荊雜誌",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYlpvTzA3TDdkdkNaNWxXTkxoZ0MyODV6VnpKTWh4WUxQYTRQbERadGdHODVhR0FGa3RCYkpURWprOV83b2xtS1Z6bGo1VUV2NEdqTzhZTGhDeDhNbHlLNThYbjA5aG14VDJ1MEpyVWZTU2c1a3FQM09wUUR2NVdfTVE5cDJuOGxSRGlpZGZsdU0?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }

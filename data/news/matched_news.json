@@ -1,8 +1,46 @@
 {
-  "last_updated": "2026-08-13T01:10:38.297337+00:00",
+  "last_updated": "2026-08-13T04:01:20.459701+00:00",
   "total_count": 25,
   "matched_count": 10,
   "news": [
+    {
+      "id": "b577b67c190c",
+      "title": "農曆7月鬼節到｜「靈異體質」可能是B雜不足？缺乏維他命B或致失眠疲勞/疑神疑鬼",
+      "published": "2026-08-13T03:01:36+00:00",
+      "summary": "農曆7月鬼節到｜「靈異體質」可能是B雜不足？缺乏維他命B或致失眠疲勞/疑神疑鬼&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxOaXYyS0VtOFN5R1JfWXE5THRkU1BuR2h1V1ZaMXhacFZDa2RPMVB4dmlWUDVuUW9zUXJPTE1xZmxQV1ZzcnR4ZHRydEJRWFVGOWFMUGZOWWhzRlJJQlJzazRNRXRCQXRjTU82T1NFTXZLSTZkSzdxRU1XV2ZCM3RpbkpBQTF2WGl1YjJCZExpb09MNVpLdXoyb2VUNXlOdmZpWVNrVUVJemkzR0MzNGMzRmtpRjVTREVjbEZyQWdlMi1NUVQ0b2dyOER5eHRfWVNNdEdOZGxaZDROT19EQVVVUkV5WTN5QzAyR2tVVzZtR1VjOXVQYndYd2p3elZlNFEyOHpZWk9NbmltQUdBa0FESC1XblNQVUNJanJLT0d4N0kzckdLX2FGQ1ZzMXRPVm5RVEZ5WmRxbWVuUGhBR002TENrd3pYOTRsUGxnMU5XVmlCWGJ3aHZoRVlHTVppYUwxX2U5R2ZPbWxvNXB5VTZHUHh3dFgteGlZaGJIRUZ5ZXJEUll3cTU2Z0RQVXNZY3F1OXY2YjdEYTMya29wQmJPTGQ3cW5KdXdmX29WTjkzMDJQMElraUJQM3MzUnBoTE1DQnNoQTRSaFhtSDBCLTVZaWdJOA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e1ab85b1baa5",
+      "title": "健康飲食｜血管老化恐傷心/腦/腎/眼 醫生推薦7大血管逆齡食物 心血管病死亡率大降25% - 晴報 Sky Post",
+      "published": "2026-08-13T02:51:44+00:00",
+      "summary": "健康飲食｜血管老化恐傷心/腦/腎/眼 醫生推薦7大血管逆齡食物 心血管病死亡率大降25%&nbsp;&nbsp;晴報 Sky Post",
+      "sources": [
+        {
+          "name": "晴報 Sky Post",
+          "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxNY2hwOWtMZUlDSVEzTE5TQ0lIdjJybDdZRWJacGh2aGxPRW8yUmlLa1NJaUhFVHdNNW9jZjM5M2FxSUhmMVVQOUZ0NGtTLWp2N2lrQ2JhVVJ3aFg2em4zWVdHTDhUTjZuQWwzSGtOMF9FcDRGWTFKakJOOW85S2VEdi1uc1A3djNicXpyNzVVTjVqMmpHcDI5WXJNdVpEcnlzblhXLVlnVzhiNmxsN1hiaTlyVV9LaXRuM0hBaEJsU3pDcGt6anBwbEZNSW05MDA4enFqQURpelU2QUFNZlFPWGp6TkRSMURTeGlnak5wYlp6S2FiYVZJVVlSZkM4YnZiS3VjLW1vODNYOGRyVkxpVF90dHBpUno5blVfZjE1cFFNdWN6bnJkWUdYdW5oWGZ2b3l3NzcyNlJValRmZzJDWjlXMVhUNnhHZWdPU1EwWXhMVlZfTTNTZ3FfeXlXMHZNRHFEV0tXUGkzalJtYkJwb0VVSHlad2E3SUQyYVFLS2RRRVlSTGN0LTR1VWtDbFdyZFNDc2FpTzFUZUpnOG4zZzg2bTE1UWZ5TE9lUGFNbnZTbkRtTTZwcWpDaTRZN1cxX0VzWHhLcEp2c3BPNVR2QWs0QkFGNm1Fdkh0WWQ1dU1JSUI4dXJ4YkpsNFVFYUk?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "78b0f284b587",
       "title": "肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制 - TechNews 科技新報",
@@ -110,13 +148,13 @@
       "matched_keywords": []
     },
     {
-      "id": "f7bf238c4797",
+      "id": "ff79576a7cae",
       "title": "男友鏡頭比自拍更殘酷？文山維格鄭伊婷醫師揭「死亡側拍」元凶海芙音波媚必提助攻俐落下顎線",
       "published": "2026-08-12T09:45:00+00:00",
-      "summary": "男友鏡頭比自拍更殘酷？文山維格鄭伊婷醫師揭「死亡側拍」元凶海芙音波媚必提助攻俐落下顎線&nbsp;&nbsp;news.nextapple.com從重力下垂談臉部減脂 找回年輕的感覺&nbsp;&nbsp;Yahoo新聞臉部老化非單一層次 醫師提醒分層評估肌膚與肌肉狀態 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞熟齡保養遇瓶頸？醫：臉部肌肉才是抗老關鍵 | NOWNEWS今日新聞&nbsp;&nbsp;LINE TODAY想改善「看起來很累」？陳律安醫師：抗老關鍵在輪廓支撐 海芙音波媚必提助找回自然精神感&nbsp;&nbsp;news.nextapple.com",
+      "summary": "男友鏡頭比自拍更殘酷？文山維格鄭伊婷醫師揭「死亡側拍」元凶海芙音波媚必提助攻俐落下顎線&nbsp;&nbsp;壹蘋新聞網",
       "sources": [
         {
-          "name": "news.nextapple.com",
+          "name": "壹蘋新聞網",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYeG1CRmpkdHF3NnpmamFlVzhTV0gxVktTeE8zbHlYdk5xT0RXcTJXMDcwMUhac3Nxa1lxbjFVZ3lLM0NvU1BvYkw2NElNU0ktLXFFWmc4TUlTcG56azRIZUQtdFVwRndYQ1FsUTFLWHo1V2hETUhWM1N4NEcxdw?oc=5"
         }
       ],
@@ -172,14 +210,14 @@
       ]
     },
     {
-      "id": "5fef35c1077f",
+      "id": "2ec5d75c1bd3",
       "title": "不吸菸、無慢性病 可延後13年失智",
-      "published": "2026-08-12T04:48:41+00:00",
-      "summary": "不吸菸、無慢性病 可延後13年失智&nbsp;&nbsp;anntw.com中年壞習慣全中！研究驚爆：「這3地雷」沒避開 無失智壽命慘減12.6年&nbsp;&nbsp;Yahoo新聞研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防&nbsp;&nbsp;元氣網不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞高達45%失智可預防！WHO最新指南：日常生活做好「這6件事」就有效&nbsp;&nbsp;天下雜誌",
+      "published": "2026-08-12T05:26:25+00:00",
+      "summary": "不吸菸、無慢性病 可延後13年失智&nbsp;&nbsp;udn.com中年壞習慣全中！研究驚爆：「這3地雷」沒避開 無失智壽命慘減12.6年&nbsp;&nbsp;Yahoo新聞研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防&nbsp;&nbsp;元氣網不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞高達45%失智可預防！WHO最新指南：日常生活做好「這6件事」就有效&nbsp;&nbsp;cw.com.tw",
       "sources": [
         {
-          "name": "anntw.com",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KdVVEMUxpbGhUSnduUkw5MGgwQ2ctNm9VR296bGt1ZDNsT0dxNWkySlBiTHhJcGFlT1Ztcm5UQlctSHNicEJvR0JHQzVvaE4yaWgwYmdVbw?oc=5"
+          "name": "udn.com",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54dTRkRk9rNUw0bWJZQ2RKTktVdjhpd3FXSS1ONE1fZU4zdnlWanltT2hxNklidkMyMjNHemhXWjVuTnprdWtpWUttOTl1dzdk?oc=5"
         }
       ],
       "matched_keywords": [
@@ -628,7 +666,7 @@
       "id": "3f5fd42ce090",
       "title": "別小看走路！研究證實：每天走1萬步 癌友活得更健康",
       "published": "2026-08-12T00:00:35+00:00",
-      "summary": "別小看走路！研究證實：每天走1萬步 癌友活得更健康&nbsp;&nbsp;Yahoo新聞江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%&nbsp;&nbsp;三立新聞健康網》抗癌多一招！ 醫揭10分鐘高強度運動能抑制癌細胞&nbsp;&nbsp;自由健康網「日做1事」大降罹癌率！醫揭防乳癌真相&nbsp;&nbsp;鏡週刊Mirror Media",
+      "summary": "別小看走路！研究證實：每天走1萬步 癌友活得更健康&nbsp;&nbsp;Yahoo新聞健康網》抗癌多一招！ 醫揭10分鐘高強度運動能抑制癌細胞&nbsp;&nbsp;自由健康網江守山曝「10分鐘抗癌」秘訣！連散步、園藝也有效：結腸癌風險降低20%&nbsp;&nbsp;三立新聞「日做1事」大降罹癌率！醫揭防乳癌真相&nbsp;&nbsp;mirrormedia.mg",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -869,13 +907,13 @@
       ]
     },
     {
-      "id": "237bb2a76a0c",
+      "id": "9e33e7bb9e07",
       "title": "健康新視界》吃對食物 有助提升年長者疫苗效果？（潘懷宗）",
       "published": "2026-08-11T03:30:14+00:00",
-      "summary": "健康新視界》吃對食物 有助提升年長者疫苗效果？（潘懷宗）&nbsp;&nbsp;chinatimes.com",
+      "summary": "健康新視界》吃對食物 有助提升年長者疫苗效果？（潘懷宗）&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "chinatimes.com",
+          "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5odURXLThnb3FnSFlrb3pLWEdpS0pNNm9meXU1dWY3YWp4QW1iQ3dUR3BUSl84WC1qNWxtY2ZTd3k2TndfNjdaUU43OTNYQnE0S2pMZUhlUVhIczRaMHZ4RTJlNE8zSVk?oc=5"
         }
       ],
@@ -890,44 +928,6 @@
         {
           "name": "全民查假會社",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GLTBveXNZRkFrSFNLOUhiNzhkN0s0cDdLY0taUUdhWHlQeTBFWEhFREw4d3J0UmlGX195RGxlbkJBVzB5ak5nTE02dw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4eccf6cdbd4a",
-      "title": "蒿草過敏別當感冒治",
-      "published": "2026-08-11T01:47:41+00:00",
-      "summary": "蒿草過敏別當感冒治&nbsp;&nbsp;紫荊雜誌",
-      "sources": [
-        {
-          "name": "紫荊雜誌",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYlpvTzA3TDdkdkNaNWxXTkxoZ0MyODV6VnpKTWh4WUxQYTRQbERadGdHODVhR0FGa3RCYkpURWprOV83b2xtS1Z6bGo1VUV2NEdqTzhZTGhDeDhNbHlLNThYbjA5aG14VDJ1MEpyVWZTU2c1a3FQM09wUUR2NVdfTVE5cDJuOGxSRGlpZGZsdU0?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "63fb1e0bd4f9",
-      "title": "iRocks T36 人體工學椅雙色開箱 / 晨光綠、丹寧藍簡約質感，4D 扶手與舒適支撐兼具 - XFastest News",
-      "published": "2026-08-11T01:07:50+00:00",
-      "summary": "iRocks T36 人體工學椅雙色開箱 / 晨光綠、丹寧藍簡約質感，4D 扶手與舒適支撐兼具&nbsp;&nbsp;XFastest News",
-      "sources": [
-        {
-          "name": "XFastest News",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54eTAxNjFmYmRjYWZaNU5fc2xjWHBkS0RYd01WRlpmNzJuZkVZUExmcnJBcWM2dVp0TWlHdThVTzBfM2p1MlRETEpHeGZmSldfV1pTUEloSjNPZXpIOHFuWg?oc=5"
         }
       ],
       "matched_keywords": []
