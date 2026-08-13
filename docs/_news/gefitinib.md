@@ -47,15 +47,15 @@ permalink: /news/gefitinib/
 
 2026-08-13 <span class="news-indication-tag">腫瘤</span>
 
-來源：[health.ltn.com.tw](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SbVR4R3JkUmk0LWNQamFta1h0RnFnVEpCRkZFaTRKMGJxZ0dDY09hNU14cTBtaXkxZXlPZlR6OVdRQlFoU255RWRESmdkVjVfSndFc2t4Y3dGNnB2VGdiVlN1M0s?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SbVR4R3JkUmk0LWNQamFta1h0RnFnVEpCRkZFaTRKMGJxZ0dDY09hNU14cTBtaXkxZXlPZlR6OVdRQlFoU255RWRESmdkVjVfSndFc2t4Y3dGNnB2VGdiVlN1M0s?oc=5)
 
 ---
 
-### [肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制 - TechNews 科技新報](https://news.google.com/rss/articles/CBMieEFVX3lxTE9TUzlkSVA4amJ5UEt4MFVjbzdFd1k5VmU0TC0yam1JNUhtTzIzNWZEeWlfdUd3LUtCRVpyMDVYaUs1dEhpc1JNRDl1cFhaN3VCdTR1djk4dUJsM0RiQXJjVGtsaEU0R2FEX3lkbHBnYVlsNHg3NnJDSA?oc=5)
+### [肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制](https://news.google.com/rss/articles/CBMieEFVX3lxTE9TUzlkSVA4amJ5UEt4MFVjbzdFd1k5VmU0TC0yam1JNUhtTzIzNWZEeWlfdUd3LUtCRVpyMDVYaUs1dEhpc1JNRDl1cFhaN3VCdTR1djk4dUJsM0RiQXJjVGtsaEU0R2FEX3lkbHBnYVlsNHg3NnJDSA?oc=5)
 
 2026-08-13 <span class="news-indication-tag">阿茲海默症</span>
 
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMieEFVX3lxTE9TUzlkSVA4amJ5UEt4MFVjbzdFd1k5VmU0TC0yam1JNUhtTzIzNWZEeWlfdUd3LUtCRVpyMDVYaUs1dEhpc1JNRDl1cFhaN3VCdTR1djk4dUJsM0RiQXJjVGtsaEU0R2FEX3lkbHBnYVlsNHg3NnJDSA?oc=5)
+來源：[technews.tw](https://news.google.com/rss/articles/CBMieEFVX3lxTE9TUzlkSVA4amJ5UEt4MFVjbzdFd1k5VmU0TC0yam1JNUhtTzIzNWZEeWlfdUd3LUtCRVpyMDVYaUs1dEhpc1JNRDl1cFhaN3VCdTR1djk4dUJsM0RiQXJjVGtsaEU0R2FEX3lkbHBnYVlsNHg3NnJDSA?oc=5)
 
 ---
 
@@ -71,7 +71,7 @@ permalink: /news/gefitinib/
 
 2026-08-12 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
-來源：[health.ltn.com.tw](https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5)
 
 ---
 
