@@ -1,22 +1,22 @@
 {
-  "generated": "2026-08-13T06:09:30.519079+00:00",
-  "count": 9,
+  "generated": "2026-08-13T08:11:43.766642+00:00",
+  "count": 8,
   "news": [
     {
-      "id": "c4c348b67923",
-      "title": "重症解密｜40歲下男性最常見癌症！專家揭鼻咽癌元兇竟與鹹魚有關？",
-      "published": "2026-08-13T05:34:44+00:00",
+      "id": "906f70434668",
+      "title": "抗癌免疫新發現 特殊細胞助T細胞對抗腫瘤",
+      "published": "2026-08-13T06:53:00+00:00",
       "sources": [
         {
-          "name": "新假期周刊",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMGdaOG93eENoSEp5WnZUcjF0Y2RKUjd0UldYazVEX2RQV3VOcXNaV244eDZ4dmp1LXVzTGxuakZSamxvV0VQLUtqYkJFTE1MTDJKd0Y5cDBhMzVBLXZUUFhBeTU0aUY5ZzBPZzV2ZGhtOVU0Y296aWJqRmhodjRBUlNZUDM1bWRmd0VkdG92TW13Uy1GdVpEZVVmeExLeFdMWXZJbDA0RE5FeUdxSm1jZl9OSjU4QjNvZWpFRldIQjRFTXdsWXVBTXRCOFdWWXFwRmZHdy16Y3U5bXF3Yi1TV2NYT18?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SbVR4R3JkUmk0LWNQamFta1h0RnFnVEpCRkZFaTRKMGJxZ0dDY09hNU14cTBtaXkxZXlPZlR6OVdRQlFoU255RWRESmdkVjVfSndFc2t4Y3dGNnB2VGdiVlN1M0s?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
           "name": "generic_cancer",
-          "keyword": "癌症",
+          "keyword": "腫瘤",
           "related_drugs": [
             {
               "slug": "trabectedin",
@@ -211,12 +211,12 @@
       ]
     },
     {
-      "id": "e1ab85b1baa5",
-      "title": "健康飲食｜血管老化恐傷心/腦/腎/眼 醫生推薦7大血管逆齡食物 心血管病死亡率大降25% - 晴報 Sky Post",
+      "id": "542558d1ae48",
+      "title": "健康飲食｜血管老化恐傷心/腦/腎/眼 醫生推薦7大血管逆齡食物 心血管病死亡率大降25%",
       "published": "2026-08-13T02:51:44+00:00",
       "sources": [
         {
-          "name": "晴報 Sky Post",
+          "name": "skypost.hk",
           "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxNY2hwOWtMZUlDSVEzTE5TQ0lIdjJybDdZRWJacGh2aGxPRW8yUmlLa1NJaUhFVHdNNW9jZjM5M2FxSUhmMVVQOUZ0NGtTLWp2N2lrQ2JhVVJ3aFg2em4zWVdHTDhUTjZuQWwzSGtOMF9FcDRGWTFKakJOOW85S2VEdi1uc1A3djNicXpyNzVVTjVqMmpHcDI5WXJNdVpEcnlzblhXLVlnVzhiNmxsN1hiaTlyVV9LaXRuM0hBaEJsU3pDcGt6anBwbEZNSW05MDA4enFqQURpelU2QUFNZlFPWGp6TkRSMURTeGlnak5wYlp6S2FiYVZJVVlSZkM4YnZiS3VjLW1vODNYOGRyVkxpVF90dHBpUno5blVfZjE1cFFNdWN6bnJkWUdYdW5oWGZ2b3l3NzcyNlJValRmZzJDWjlXMVhUNnhHZWdPU1EwWXhMVlZfTTNTZ3FfeXlXMHZNRHFEV0tXUGkzalJtYkJwb0VVSHlad2E3SUQyYVFLS2RRRVlSTGN0LTR1VWtDbFdyZFNDc2FpTzFUZUpnOG4zZzg2bTE1UWZ5TE9lUGFNbnZTbkRtTTZwcWpDaTRZN1cxX0VzWHhLcEp2c3BPNVR2QWs0QkFGNm1Fdkh0WWQ1dU1JSUI4dXJ4YkpsNFVFYUk?oc=5"
         }
       ],
@@ -259,12 +259,12 @@
       ]
     },
     {
-      "id": "736a12db50f9",
+      "id": "5c6fd25e8e5d",
       "title": "驗眼不只配眼鏡：看懂糖尿病與高血壓警訊",
       "published": "2026-08-12T23:11:00+00:00",
       "sources": [
         {
-          "name": "epochtimes.com",
+          "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIb20tX1QyODBoMEVGNWEwSTdLLS1vNkcxR0NLbTRRQzFyNHhKanpUeHkwSGtXZVpIaGhNclRHdEdDUTU4MV9EcXc3aGZFVUo3MnNOanNNOFJ3aVQ2cTZKQ9IBZkFVX3lxTFBGalJRWUxEYnJidEdEa3ZYNHdkRGpKdVZGWTJmVUNhcDlIRC1vZ0llZUd5NlNRVmFrOVd6MWM0aldfZ1NjcURJXzdTVFBseHMyTWdUYjN6dWtnSHR5X0dxWTF1clpHZw?oc=5"
         }
       ],
@@ -795,30 +795,6 @@
             {
               "slug": "metoprolol",
               "name": "Metoprolol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a2a7b2b4fbb5",
-      "title": "心肌炎 | 37歲單車手遭醫生忽略一症狀 兩度心臟驟停 揭患心肌炎被迫辭職換心保命 - 東張+",
-      "published": "2026-08-11T06:09:28+00:00",
-      "sources": [
-        {
-          "name": "mytvsuper.com",
-          "link": "https://news.google.com/rss/articles/CBMingRBVV95cUxOTEp6ejZ0YnFpaFpCOXNCenRhY0lvVC1YQXdPSGFuZjZWTjlCUmU2YWVzdzhYd2RJVlFZVTktLTN4S2NmSmM1cmZMZE9GLTN2OG5FellrTTlqWVlRUGxtd0dnNWJZSGtzc3NZem82SnYzTFpPUFJZcW5lWEttRmh4ZmxVbGx4RE44SnMyNmh1dlFXYWx1cEZTN3VLUUVNbWVFVDdISGVUd1JGcXA2XzN0OUlLS2QtTm54R3p3cElVQ0l6UEdlcXdrMXNMaEpoVEN5QnpicGNhMEZKZG1udDR3bTFqYUpKdFl5Mm9Ia0ZTTUxYcFlnRkp2WklteWtQSFpCcnFfbXloYjFLV1FkUGQxc0dLWG9JY2xMdy1xamNVQTBiNlZkLWYzSFdjb21YZUE4MW9JTkxOT1BVUFZVREx3TmJoSmRSLWNrWE5VWFJDWEl2NGVsaGp6WlVjN3BzZ3NzTDhJMXkzQldKckNoZjF1bzZ0dkxBMHV6TmZSTXNOMjlGVEJPMDhZTTVTbWp2YWpZcUZBTnoxMEFJUXdoRC1aM1JxWHdhUnNQVkxTOEVhckJMUFhqSVRlZzJxdm5sN1hXdEZ0dkpNVlZEeGMwOVVoREdOR1hESTRnclNxOGhvb1pqN3ZzLW5ZdnpZTzdDRGdwRENCb084cmJoTlJnMXNvR0xjekliUnJvbk83clRycTdlZG9rMmNKd0tkRVVtZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "肌炎",
-          "keyword": "肌炎",
-          "related_drugs": [
-            {
-              "slug": "carisoprodol",
-              "name": "Carisoprodol"
             }
           ]
         }

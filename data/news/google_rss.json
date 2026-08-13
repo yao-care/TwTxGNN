@@ -1,17 +1,41 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-13T06:09:25.271530+00:00",
-  "count": 31,
+  "fetched_at": "2026-08-13T08:11:31.227197+00:00",
+  "count": 24,
   "news": [
     {
-      "id": "f2c8b428e8cd",
-      "title": "骨折可以打PRP加速修復？醫揭4警訊：拖久恐錯過治療時機 - UDN",
-      "published": "2026-08-13T05:55:36+00:00",
-      "summary": "骨折可以打PRP加速修復？醫揭4警訊：拖久恐錯過治療時機&nbsp;&nbsp;UDN",
+      "id": "906f70434668",
+      "title": "抗癌免疫新發現 特殊細胞助T細胞對抗腫瘤 - 自由健康網",
+      "published": "2026-08-13T06:53:00+00:00",
+      "summary": "抗癌免疫新發現 特殊細胞助T細胞對抗腫瘤&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45ZExscWJrX3VLWUtrbnlJd0xucDA4V0ZkRzZrRVZyMDVucUpCX2R2SVlDem4zZS1hQVNJRnNZekpfNHNodDI1R2RYbVhtdlJ0?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SbVR4R3JkUmk0LWNQamFta1h0RnFnVEpCRkZFaTRKMGJxZ0dDY09hNU14cTBtaXkxZXlPZlR6OVdRQlFoU255RWRESmdkVjVfSndFc2t4Y3dGNnB2VGdiVlN1M0s?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ec8d1506e838",
+      "title": "陳盈潔敗血症病逝 4類人更要注意 - 東森新聞",
+      "published": "2026-08-13T06:16:00+00:00",
+      "summary": "陳盈潔敗血症病逝 4類人更要注意&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVS2J2S1NScXo2aVB0UjU3SnpEckd4aUdJX1pGVHFyLWMxT091Nk9vN3pjVHpnQ29ZTy0xd0xYUkVhZkQ5V2ZjNzd1Sjg2UXFtMUdEZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4aa125c3ade6",
+      "title": "骨折可以打 PRP 加速修復？ 醫揭4警訊：拖久恐錯過治療時機 - 經濟日報",
+      "published": "2026-08-13T06:07:52+00:00",
+      "summary": "骨折可以打 PRP 加速修復？ 醫揭4警訊：拖久恐錯過治療時機&nbsp;&nbsp;經濟日報",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lNmRQYWhPVkRZVzFja1VRbmVab3BYc05xeXpKSmVXWDdKblgtaXdLZ091WWRrZmxuV3ZrdmhfdnIyZWM5Z1pEV0RRN0tmQllESDB4QTlOUElkRFc50gFiQVVfeXFMUEJvUUp6VDI3Ykk0bWcyUXI2MmhUdENPT3FDMnpTbHVKeG9hRlZHZUNuMl8wVkU4X0NScXNwbEZwekdzMHZnT21Sa0NWbzI5c0tQTlFiSXU3NWRmRTVibnhzTlE?oc=5"
         }
       ]
     },
@@ -28,22 +52,10 @@
       ]
     },
     {
-      "id": "581faae3e817",
-      "title": "每天多花7分鐘就能延壽 研究曝3習慣做好 多活9年 - 中時新聞網",
-      "published": "2026-08-13T03:54:38+00:00",
-      "summary": "每天多花7分鐘就能延壽 研究曝3習慣做好 多活9年&nbsp;&nbsp;中時新聞網最被低估的長壽藥竟是「它」？哈佛專家拆解長壽餐盤：吃對組合很關鍵&nbsp;&nbsp;TVBS 健康2.0長壽的關鍵在於「空腹」？揭開諾貝爾獎認證的細胞再生長壽法&nbsp;&nbsp;數位時代長壽｜研究：每日7分鐘改善3習慣多活10年 進階版增4年無病壽命&nbsp;&nbsp;hk01.com想長壽不是少吃肉，而是多吃飯？最新研究推翻迷思：低蛋白、高碳水更健康&nbsp;&nbsp;天下雜誌",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xVGd1SW52cWJOaHBmWURFMHFyWGxJa1Iwc0tWbUtyazVHZmRnVzRJNlBmbU5yeDZkS0o2VUFxaWV5bEdKRDI5N2RFcWNGaVE4RFNMMHFKR0lxREJEV2tpOEJ6RjlBRnN3cmxOMEVhbEdOaXdzekE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5fef35c1077f",
       "title": "不吸菸、無慢性病 可延後13年失智 - anntw.com",
       "published": "2026-08-12T04:48:41+00:00",
-      "summary": "不吸菸、無慢性病 可延後13年失智&nbsp;&nbsp;anntw.com中年壞習慣全中！研究驚爆：「這3地雷」沒避開 無失智壽命慘減12.6年&nbsp;&nbsp;Yahoo新聞研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防&nbsp;&nbsp;health.udn.com不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞高達45%失智可預防！WHO最新指南：日常生活做好「這6件事」就有效&nbsp;&nbsp;天下雜誌",
+      "summary": "不吸菸、無慢性病 可延後13年失智&nbsp;&nbsp;anntw.com中年壞習慣全中！研究驚爆：「這3地雷」沒避開 無失智壽命慘減12.6年&nbsp;&nbsp;Yahoo新聞不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防&nbsp;&nbsp;元氣網高達45%失智可預防！WHO最新指南：日常生活做好「這6件事」就有效&nbsp;&nbsp;天下雜誌",
       "sources": [
         {
           "name": "anntw.com",
@@ -52,26 +64,38 @@
       ]
     },
     {
-      "id": "2be154a376cf",
+      "id": "f3b70e1b547b",
+      "title": "每天多花7分鐘就能延壽 研究曝3習慣做好 多活9年 - chinatimes.com",
+      "published": "2026-08-13T03:54:38+00:00",
+      "summary": "每天多花7分鐘就能延壽 研究曝3習慣做好 多活9年&nbsp;&nbsp;chinatimes.com最被低估的長壽藥竟是「它」？哈佛專家拆解長壽餐盤：吃對組合很關鍵&nbsp;&nbsp;TVBS 健康2.0長壽的關鍵在於「空腹」？揭開諾貝爾獎認證的細胞再生長壽法&nbsp;&nbsp;數位時代長壽｜研究：每日7分鐘改善3習慣多活10年 進階版增4年無病壽命&nbsp;&nbsp;香港01想長壽不是少吃肉，而是多吃飯？最新研究推翻迷思：低蛋白、高碳水更健康&nbsp;&nbsp;天下雜誌",
+      "sources": [
+        {
+          "name": "chinatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iQjJHNl82UVpTT1pKZFdZR2RQRk9EeFcyRW5HaTJCUW5TSnpVLTdyQU9Gc0oyMEV4ZE9nTW1VbDJScnZOaDVIbGNSanNDeUdVQ0RtcXRiSVdLNUVZdXMyTllWWVMyWTNlYlFNbGt3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ff79576a7cae",
       "title": "男友鏡頭比自拍更殘酷？文山維格鄭伊婷醫師揭「死亡側拍」元凶海芙音波媚必提助攻俐落下顎線 - 壹蘋新聞網",
       "published": "2026-08-12T09:45:00+00:00",
       "summary": "男友鏡頭比自拍更殘酷？文山維格鄭伊婷醫師揭「死亡側拍」元凶海芙音波媚必提助攻俐落下顎線&nbsp;&nbsp;壹蘋新聞網",
       "sources": [
         {
           "name": "壹蘋新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ0ZRLWw1QzJXc29oeW9hbWlnUXVmRDlMYnRVdFVxTFE5OWh2ZUgxbTJJSEJ5Q3YxYkV2OEtoUmRkOXhNZDlxck5VVllvZW1sbnlpNmhZWVhNR00yTVlXMlJmdjRGNE1SSEVxV19UOUE0WU1XbHRYcU9XQ0E3cUJmNkM1WktsNGZPOWc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYeG1CRmpkdHF3NnpmamFlVzhTV0gxVktTeE8zbHlYdk5xT0RXcTJXMDcwMUhac3Nxa1lxbjFVZ3lLM0NvU1BvYkw2NElNU0ktLXFFWmc4TUlTcG56azRIZUQtdFVwRndYQ1FsUTFLWHo1V2hETUhWM1N4NEcxdw?oc=5"
         }
       ]
     },
     {
-      "id": "0ee068cb9a28",
-      "title": "癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內 - 自由健康網",
-      "published": "2026-08-12T04:43:00+00:00",
-      "summary": "癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內&nbsp;&nbsp;自由健康網",
+      "id": "a2242a6356ad",
+      "title": "數位技術走入齒顎矯正：電腦能否先模擬牙齒受力？ - Life 生活網",
+      "published": "2026-08-12T09:18:33+00:00",
+      "summary": "數位技術走入齒顎矯正：電腦能否先模擬牙齒受力？&nbsp;&nbsp;Life 生活網",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5"
+          "name": "Life 生活網",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNLVdTNFRTbWJMbWlmTmRFVldXajNhaG1RV2ZMSGJHRU1IWVdxaXZRc1JONHBEcmxjcUVLcENiTWpzY1BzMlEtVWF5V0NRdVBUdW0zRDlJeXI5SEdVYXdLWXB0SlYtblU3a2NKdUJZTWJROE84bEVIYWtXOGlTTFNPWFhIVjc4RVN0SVFSeS1DRjZYWFhqM1RKLXpzMFBJS2x5RS15WXEydndkbVlLNkJ1Z2FYWFBwdWRScXBnODhJSGFqbi1ZeE1mOXo4eURhUTJhajVpT25VaENZZ0dnWDJSSkdSWWNOODBoME16NXVlcWl4dUVDT0ZSdHVORGM1c3R3ajRYQ0JiQXFJNjhvU0gwTGJzZDBfWFMycW5Cd09LbnVtRjJQOVJ4MER4ZVhzZl9NZTR3cUVkS3BIR3FGa2Z5Tnh6VTk?oc=5"
         }
       ]
     },
@@ -100,30 +124,6 @@
       ]
     },
     {
-      "id": "1ebcabaec3f7",
-      "title": "胃酸倒流反覆發作？可能係橫膈膜裂孔疝氣導致 - AM730",
-      "published": "2026-08-11T10:30:00+00:00",
-      "summary": "胃酸倒流反覆發作？可能係橫膈膜裂孔疝氣導致&nbsp;&nbsp;AM730",
-      "sources": [
-        {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNS0xCN1VVdWFyd2VGMy00MkxwMENOLUFtOVlpaDd5UkZEZzlJTVZ2MVhtOG1PaTJfRWo5Sm1UUnBXVV80Y3dJM3JtOGhRYklQWUQ3alFZQlZwcG5tY0FoaDloclVtM2NfUnQxbTRRN0NWRUZaekc0OUZGQV9NRTVmSEtvVk1vQXNZNnFkTzFjMnZKS2x1ZW9CYWNNM2pjbGs2bm1Ieno5UE16TlZTYmRZUUZ3eDJUa2U1d3pJOS1rTlR0U2d4cU5hY1ktNU1zQ0xVTWItN05rS3Zzc0xnWC1QbGNrcE1WZXQ3VXN6YmVhdnJvMmhvNEdGWXZMS1ZNRUJXWFFEeWFXY2dsVHgzLUE3UjR0NGJOcWM1bHM4MDc4M3U1QnoyaW1vRWhnRXVhLXpGSDhFaklVcWh3WEFRWUg2UE1MRkNTUG0tVWpJcWVwb1pMTm8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f1c4278aedd3",
-      "title": "[電競特區 Gaming Accessories] iRocks T36 人體工學椅雙色開箱 / 晨光綠、丹寧藍簡約質感，4D 扶手與舒適支撐兼具 - XFastest",
-      "published": "2026-08-12T02:59:06+00:00",
-      "summary": "[電競特區 Gaming Accessories] iRocks T36 人體工學椅雙色開箱 / 晨光綠、丹寧藍簡約質感，4D 扶手與舒適支撐兼具&nbsp;&nbsp;XFastest",
-      "sources": [
-        {
-          "name": "XFastest",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fNG5MSEt6SUNMNVFXV0haNFQyNVVsYlZ3eUN5VWpuNC1UMGR4ZHI5QWpDLU1LUTVRRDc5UE9sYThyeFJtQmt1VzNzMDMza3ZiTHVXa2pvUS1KSXM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e1c540f403fe",
       "title": "英格蘭有望成為首批消除丙型肝炎的國家之一 - gamereactor.cn",
       "published": "2026-08-11T10:33:36+00:00",
@@ -132,18 +132,6 @@
         {
           "name": "gamereactor.cn",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWVhOElrSnFSVXhkbXgydXBVd1J6bWYyMTM3UV9POFNUZzM4a19razc1Wk40MDU3SHBHWmZHMjdlVGdCeGV0dkI5ak1Zb01CdVhRcUZJdEtBOFZiREV6Vll6am9QZU1ZUVhhcXFHN3R0cXE0ckJ2SlVzdTgxYkVsYnJTbmt0TllTZUFBSGNtOWtjM0Q1RmdFSFkyOXRDNjNZUkhyaTBWc2YwSDEwYkw0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "007fa53951bf",
-      "title": "吃得一樣多甚至更多仍減脂！ 美研究揭長壽飲食保肌關鍵 - 自由健康網",
-      "published": "2026-08-11T07:11:00+00:00",
-      "summary": "吃得一樣多甚至更多仍減脂！ 美研究揭長壽飲食保肌關鍵&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hR0E1WUZOSThMNzM0enRJcVpCbm5SNEFZTkZYZlBYaVFJNklSYkZqUTE3YTRmZWRpUWt1NElzNUxyLXAwRFBEOFlxX1E0WDNoeE1MT2VvTERoYTNRYVZacUZxYW4?oc=5"
         }
       ]
     },
@@ -160,6 +148,30 @@
       ]
     },
     {
+      "id": "1ebcabaec3f7",
+      "title": "胃酸倒流反覆發作？可能係橫膈膜裂孔疝氣導致 - AM730",
+      "published": "2026-08-11T10:30:00+00:00",
+      "summary": "胃酸倒流反覆發作？可能係橫膈膜裂孔疝氣導致&nbsp;&nbsp;AM730",
+      "sources": [
+        {
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNS0xCN1VVdWFyd2VGMy00MkxwMENOLUFtOVlpaDd5UkZEZzlJTVZ2MVhtOG1PaTJfRWo5Sm1UUnBXVV80Y3dJM3JtOGhRYklQWUQ3alFZQlZwcG5tY0FoaDloclVtM2NfUnQxbTRRN0NWRUZaekc0OUZGQV9NRTVmSEtvVk1vQXNZNnFkTzFjMnZKS2x1ZW9CYWNNM2pjbGs2bm1Ieno5UE16TlZTYmRZUUZ3eDJUa2U1d3pJOS1rTlR0U2d4cU5hY1ktNU1zQ0xVTWItN05rS3Zzc0xnWC1QbGNrcE1WZXQ3VXN6YmVhdnJvMmhvNEdGWXZMS1ZNRUJXWFFEeWFXY2dsVHgzLUE3UjR0NGJOcWM1bHM4MDc4M3U1QnoyaW1vRWhnRXVhLXpGSDhFaklVcWh3WEFRWUg2UE1MRkNTUG0tVWpJcWVwb1pMTm8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0ee068cb9a28",
+      "title": "癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內 - 自由健康網",
+      "published": "2026-08-12T04:43:00+00:00",
+      "summary": "癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d1aa791bd345",
       "title": "二○二六年綜合維他命怎麼挑 - 生活新聞 - PChome Online 新聞 - PChome Online 新聞",
       "published": "2026-08-12T22:50:59+00:00",
@@ -172,62 +184,26 @@
       ]
     },
     {
-      "id": "64f5080da56d",
-      "title": "CRISPR基因剪刀搭載噬菌體病毒，成功救治抗生素抗藥性大腸桿菌患者 - BigGo 財經",
-      "published": "2026-08-12T01:07:00+00:00",
-      "summary": "CRISPR基因剪刀搭載噬菌體病毒，成功救治抗生素抗藥性大腸桿菌患者&nbsp;&nbsp;BigGo 財經",
-      "sources": [
-        {
-          "name": "BigGo 財經",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIRV9QRkhzZlBwUnJJSE11OE0wVnV0ZjRjM1E0d2M4TTJ5bEpJMi1nZWg3MFlYSW41a01rYmpzM1V1NjhmT0h3bFM2a0R3QTJGa0dfOTdHdjFKTm8yMFBfellhZXhUYmUxVW9vYW54TURMcFF0bko4bW93?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "78a85f4b2683",
-      "title": "社安局身障福利快速核准名單擴大 新增14種疾病 - singtaousa.com",
+      "id": "5e9439bf3386",
+      "title": "社安局身障福利快速核准名單擴大 新增14種疾病 - Singtaousa",
       "published": "2026-08-12T14:00:00+00:00",
-      "summary": "社安局身障福利快速核准名單擴大 新增14種疾病&nbsp;&nbsp;singtaousa.com",
+      "summary": "社安局身障福利快速核准名單擴大 新增14種疾病&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTTYteFlEQWhBZU4tWnNTNFc3TFplOUt4X2liRmlJLTlmc3Jqa1FRbFVINGNhWWxZUWZlSmdrTjVrTHRpajlSYTZmVDQzak92eHdQYng1UERHc3FzX2doay1pYU1rM3JyT3MwWUNGRlpQQVpYbEJLaW9RT0c0MXIyRUQ5TU1oMnh1d3c?oc=5"
         }
       ]
     },
     {
-      "id": "736a12db50f9",
-      "title": "驗眼不只配眼鏡：看懂糖尿病與高血壓警訊 - epochtimes.com",
+      "id": "5c6fd25e8e5d",
+      "title": "驗眼不只配眼鏡：看懂糖尿病與高血壓警訊 - 大纪元",
       "published": "2026-08-12T23:11:00+00:00",
-      "summary": "驗眼不只配眼鏡：看懂糖尿病與高血壓警訊&nbsp;&nbsp;epochtimes.com",
+      "summary": "驗眼不只配眼鏡：看懂糖尿病與高血壓警訊&nbsp;&nbsp;大纪元",
       "sources": [
         {
-          "name": "epochtimes.com",
+          "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIb20tX1QyODBoMEVGNWEwSTdLLS1vNkcxR0NLbTRRQzFyNHhKanpUeHkwSGtXZVpIaGhNclRHdEdDUTU4MV9EcXc3aGZFVUo3MnNOanNNOFJ3aVQ2cTZKQ9IBZkFVX3lxTFBGalJRWUxEYnJidEdEa3ZYNHdkRGpKdVZGWTJmVUNhcDlIRC1vZ0llZUd5NlNRVmFrOVd6MWM0aldfZ1NjcURJXzdTVFBseHMyTWdUYjN6dWtnSHR5X0dxWTF1clpHZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ece4606a26a5",
-      "title": "烙賽人腸躁症約會困難改善分享 - Mobile01",
-      "published": "2026-08-13T04:33:06+00:00",
-      "summary": "烙賽人腸躁症約會困難改善分享&nbsp;&nbsp;Mobile01",
-      "sources": [
-        {
-          "name": "Mobile01",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xTGgwTDBZdE5wcDVCblFwc3cwZ245NU1lMzBqTW55ald6R1FhUVVSTUFLNEQ3OXpFYm9xalNQZnpJUkQwMXJST01aNE83c1V4Qy1td0xXakVHTHE5R3Z6UUxoTDg4X0Y0V1dXVg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "625c55e2aa21",
-      "title": "劇烈頭痛又複視罕見無症狀鼻竇炎作祟- 醫療保健- 新聞 - 華人今日網",
-      "published": "2026-08-12T03:18:20+00:00",
-      "summary": "劇烈頭痛又複視罕見無症狀鼻竇炎作祟- 醫療保健- 新聞&nbsp;&nbsp;華人今日網",
-      "sources": [
-        {
-          "name": "華人今日網",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45WDNJX1lWUlRyOUZJUE8xZGtpLVhkU2FPVWp4ZXlPSktvaUZmR25ZZnBXc3ppYk5URGJBaS1YVlNkZzRtc0dXZ2FTUkFZQlJtNzU4Q3Z1VmI2aUoyQ3MtdkxGWEJYUQ?oc=5"
         }
       ]
     },
@@ -244,13 +220,13 @@
       ]
     },
     {
-      "id": "e1ab85b1baa5",
-      "title": "健康飲食｜血管老化恐傷心/腦/腎/眼 醫生推薦7大血管逆齡食物 心血管病死亡率大降25% - 晴報 Sky Post",
+      "id": "542558d1ae48",
+      "title": "健康飲食｜血管老化恐傷心/腦/腎/眼 醫生推薦7大血管逆齡食物 心血管病死亡率大降25% - skypost.hk",
       "published": "2026-08-13T02:51:44+00:00",
-      "summary": "健康飲食｜血管老化恐傷心/腦/腎/眼 醫生推薦7大血管逆齡食物 心血管病死亡率大降25%&nbsp;&nbsp;晴報 Sky Post",
+      "summary": "健康飲食｜血管老化恐傷心/腦/腎/眼 醫生推薦7大血管逆齡食物 心血管病死亡率大降25%&nbsp;&nbsp;skypost.hk",
       "sources": [
         {
-          "name": "晴報 Sky Post",
+          "name": "skypost.hk",
           "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxNY2hwOWtMZUlDSVEzTE5TQ0lIdjJybDdZRWJacGh2aGxPRW8yUmlLa1NJaUhFVHdNNW9jZjM5M2FxSUhmMVVQOUZ0NGtTLWp2N2lrQ2JhVVJ3aFg2em4zWVdHTDhUTjZuQWwzSGtOMF9FcDRGWTFKakJOOW85S2VEdi1uc1A3djNicXpyNzVVTjVqMmpHcDI5WXJNdVpEcnlzblhXLVlnVzhiNmxsN1hiaTlyVV9LaXRuM0hBaEJsU3pDcGt6anBwbEZNSW05MDA4enFqQURpelU2QUFNZlFPWGp6TkRSMURTeGlnak5wYlp6S2FiYVZJVVlSZkM4YnZiS3VjLW1vODNYOGRyVkxpVF90dHBpUno5blVfZjE1cFFNdWN6bnJkWUdYdW5oWGZ2b3l3NzcyNlJValRmZzJDWjlXMVhUNnhHZWdPU1EwWXhMVlZfTTNTZ3FfeXlXMHZNRHFEV0tXUGkzalJtYkJwb0VVSHlad2E3SUQyYVFLS2RRRVlSTGN0LTR1VWtDbFdyZFNDc2FpTzFUZUpnOG4zZzg2bTE1UWZ5TE9lUGFNbnZTbkRtTTZwcWpDaTRZN1cxX0VzWHhLcEp2c3BPNVR2QWs0QkFGNm1Fdkh0WWQ1dU1JSUI4dXJ4YkpsNFVFYUk?oc=5"
         }
       ]
@@ -264,42 +240,6 @@
         {
           "name": "am1320.com",
           "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNd0dfRHAwX2tNYUx6d3pwNngzOVF3OVJRZ2dPR2wybVRwWC16WDBFX2VJZTNHVDFaWkVLRWp0T243NG55M212SzgyeVZLUVV0Y09sYlUtTlc1VVFla0l6NVd1XzRqemNOZ0swQWM4eG1UWnZWNmVOdE85cWgtMDI2cW1qV3hTdUxmMWhSNTc0YVhxUWJxeE5XMjBxSWRYclV2cGdwUXdleHlhNFRqaEdjOEQ3dFFIUDM2Qks0NGZSUXJvcDl3U0JlNlVnZ1hBSHNnMEJVaElRTU94M2gwdC1HQk1TSTExUlZ0b254bnRTOUxHZFVVWlNSODJ2alJTTWthYmpXVGFERHhBano5Z2FqbFZCbzJ2S3ZlYjNBblpYcjhOQURDLXpLWGFlTXlydHRWNjVtdl94TTU0N2xTdy1Bdk85N25TckFDWTFheVVoR0JydDl4Vzdad0k1dDZwWjlXVGlPVkl3a2FWUjBUaW43alRB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e214ce724168",
-      "title": "涉男男性接觸者甲型肝炎個案持續下跌 9.12起停止免費接種疫苗 - AM730",
-      "published": "2026-08-12T04:19:06+00:00",
-      "summary": "涉男男性接觸者甲型肝炎個案持續下跌 9.12起停止免費接種疫苗&nbsp;&nbsp;AM730防護中心：為男男性接觸者免費接種甲肝疫苗9.12起停止&nbsp;&nbsp;橙新聞防護中心下月12日起停止為男男性接觸者免費接種甲肝疫苗&nbsp;&nbsp;881903.com衞生署為逾280名男同性戀免費接種甲肝疫苗 已截斷傳播鏈&nbsp;&nbsp;hkcd.com.hk衞生署為男男性接觸者免費接種甲型肝炎疫苗 成功截斷特定人群感染群組傳播鏈&nbsp;&nbsp;大公文匯網",
-      "sources": [
-        {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPYzZYckhlVG00TEZDb0hlUFNhb0RibzcxZjUtdUpDVnVSQjhxVkdGenVBaWZPcDh1Y19rdmhJV0dPenRHNU5OWm53UHBCMTZuN3U3c1V3RG81djhyajNaWk0xY1pNcHowN21fQ1ZFU0FiMi0zNjR4VjVwSkFValdKQTRmS0loRzlSOTAwS3NzNXBvbTcySDlheGlXRnROZjBGWTNycGtsMVZBMzhzUlg1dG9HbHUzSTlFUExOS3lfWkYtbmpTYzdzOWl0ckNBc19UcWIxUS10dWdibWQ5UnJocTZ1ZFRYZFI5QXdnc2J4WkVFR2l3ZGs0N2ZMaTh5T0NIck82c2hEMlZtbC1zMHVzaVh4NURERDdfM2ZubHl5d1p1czVDLTdhY1VoTW9iRGpVQWRRSTRLNWdVSmx6QUZhOVFseDktOTVJNDFWaERVc3hSR21sblhZWUZtRVVHZmJJTzJMbk5ySnhEbktSMWRoWEFoZFNjamV0YmdMbWl1S1YtZ2x3bF9GdGJINWNlZnJxZnpjNDV5SW94cXhhd282NA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a6e74a95f34f",
-      "title": "舊標靶藥重組治癌療效大增- 醫藥新知- 新聞 - 華人今日網",
-      "published": "2026-08-11T07:39:40+00:00",
-      "summary": "舊標靶藥重組治癌療效大增- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
-      "sources": [
-        {
-          "name": "華人今日網",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yRWV6aFJuaXFTQl9DT2RCNkZqZ1VnSkZ5Qk5mcXNma1VSMzJ6Z3JVbGYyT0RFMG5SX3dIaEJnVTRjZkNzRlpReml2U3RqYVoxMzFIN3Z4OFNNczNmZDR5el93WGdFUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c4c348b67923",
-      "title": "重症解密｜40歲下男性最常見癌症！專家揭鼻咽癌元兇竟與鹹魚有關？ - 新假期周刊",
-      "published": "2026-08-13T05:34:44+00:00",
-      "summary": "重症解密｜40歲下男性最常見癌症！專家揭鼻咽癌元兇竟與鹹魚有關？&nbsp;&nbsp;新假期周刊",
-      "sources": [
-        {
-          "name": "新假期周刊",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMGdaOG93eENoSEp5WnZUcjF0Y2RKUjd0UldYazVEX2RQV3VOcXNaV244eDZ4dmp1LXVzTGxuakZSamxvV0VQLUtqYkJFTE1MTDJKd0Y5cDBhMzVBLXZUUFhBeTU0aUY5ZzBPZzV2ZGhtOVU0Y296aWJqRmhodjRBUlNZUDM1bWRmd0VkdG92TW13Uy1GdVpEZVVmeExLeFdMWXZJbDA0RE5FeUdxSm1jZl9OSjU4QjNvZWpFRldIQjRFTXdsWXVBTXRCOFdWWXFwRmZHdy16Y3U5bXF3Yi1TV2NYT18?oc=5"
         }
       ]
     },
@@ -328,30 +268,6 @@
       ]
     },
     {
-      "id": "b72b38008265",
-      "title": "一個換肝病人的故事 - 生活新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "published": "2026-08-11T11:09:46+00:00",
-      "summary": "一個換肝病人的故事 - 生活新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPazM2NHd2UWZSOXAycW0zRUNXcUw4UGVuZk5aYUZMQ0NzZnZHWXQ0U1I2ekg2V2gyNEZrQ2I4RXRnQmxiQjNoVTZUZWFRbG5aUDNtSmxpX3Z6TWpvdURSYWJrQXE2RTZnQTZfRUYxVWtwaV9NM3dlWEIxSnNPdFNmNGtMaGdUVnl6RS1j?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "735e260f5cb6",
-      "title": "長期食茶葉蛋會傷腎？專家拆解2大迷思「高鈉是隱藏危機」附安全食用建議 - singtao.ca",
-      "published": "2026-08-12T15:56:53+00:00",
-      "summary": "長期食茶葉蛋會傷腎？專家拆解2大迷思「高鈉是隱藏危機」附安全食用建議&nbsp;&nbsp;singtao.ca",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxQVjlIMkd0SUtGcGw1UDBEVE5fUGdObXp1OGRXcEtrY0V2dVV4ZTZuc0FaanQwNC1GR2NabzlzOFNmWElWVzltTHVxT2F1NnBKcnVOVmxRLUU3cmtxajFnaXpKY2pmYWlFTjJaSE92S2g4NGlFdjREZmphY3JzXzJlbmRyUkdJelBZQ1A1YVVSUG9SaVdKdVdLX0kxaVk4WXhuT1luZEtrbjkzbnJ5cTFUa1ZGS0x3NnVVcFRUU3Vad19jT0oydUhncGptdXFMYi1Wd1F2X0tQdFNlaElEZURVTVJ2ZVdqbzdnOXczSkxLcFIyZmFyS2lGaHpPMUM1X01OQ0lJV0hHeVFuSjJIcndGS1E5NkNKYUZ1NjlvVlRRRXpRVUF6OERBOWpfdUViYmdGeW9PTklOUHZoRDc5YXpULXJieDlYM2FiV1h4b2JyT0xFR2VVQmd3d1lheDR6Q0pQNVBuT05ITmJjSThXaU9sR2Q2TVJPbUVfUjVmNHJTM2s2VUVHVDdCQ2wwUWlXaVJFX081XzB3MDhZRGJaVDJncHVEbmdCNjZhUnRrZ0dZUjQzZ1o1cWY2ai05NE1sUDd3WDU2Si1GT25PMTRLYmFJejlBUmU2cWV5T25RSExmRVhvOV9LbGRyNU130gGSAUFVX3lxTE9UZDJaVG1VXy1VcEMybGRYZFVkYVJ6Nmd6RFQ3SXdOUklwVXZJd1NDM1pHcHNVS0hQTGJIRmdrX3RIcUU5RGxHRV8xSndnMzVSR0Y4N1ptTlAwdHlKaTN4bzJDQW5TX1E4S29zR09fMm9KVEVFY3oyOFNjYzhZeURSYXN1VnBEQ21pcExWOW9SQUd3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6b35b2ca8858",
       "title": "衞生防護中心稱不應在缺乏可靠科研數據下 隨便更改疫苗接種計劃 - 香港電台新聞網",
       "published": "2026-08-11T13:32:00+00:00",
@@ -364,14 +280,14 @@
       ]
     },
     {
-      "id": "a2a7b2b4fbb5",
-      "title": "心肌炎 | 37歲單車手遭醫生忽略一症狀 兩度心臟驟停 揭患心肌炎被迫辭職換心保命 - 東張+ - mytvsuper.com",
-      "published": "2026-08-11T06:09:28+00:00",
-      "summary": "心肌炎 | 37歲單車手遭醫生忽略一症狀 兩度心臟驟停 揭患心肌炎被迫辭職換心保命 - 東張+&nbsp;&nbsp;mytvsuper.com",
+      "id": "735e260f5cb6",
+      "title": "長期食茶葉蛋會傷腎？專家拆解2大迷思「高鈉是隱藏危機」附安全食用建議 - singtao.ca",
+      "published": "2026-08-12T15:56:53+00:00",
+      "summary": "長期食茶葉蛋會傷腎？專家拆解2大迷思「高鈉是隱藏危機」附安全食用建議&nbsp;&nbsp;singtao.ca",
       "sources": [
         {
-          "name": "mytvsuper.com",
-          "link": "https://news.google.com/rss/articles/CBMingRBVV95cUxOTEp6ejZ0YnFpaFpCOXNCenRhY0lvVC1YQXdPSGFuZjZWTjlCUmU2YWVzdzhYd2RJVlFZVTktLTN4S2NmSmM1cmZMZE9GLTN2OG5FellrTTlqWVlRUGxtd0dnNWJZSGtzc3NZem82SnYzTFpPUFJZcW5lWEttRmh4ZmxVbGx4RE44SnMyNmh1dlFXYWx1cEZTN3VLUUVNbWVFVDdISGVUd1JGcXA2XzN0OUlLS2QtTm54R3p3cElVQ0l6UEdlcXdrMXNMaEpoVEN5QnpicGNhMEZKZG1udDR3bTFqYUpKdFl5Mm9Ia0ZTTUxYcFlnRkp2WklteWtQSFpCcnFfbXloYjFLV1FkUGQxc0dLWG9JY2xMdy1xamNVQTBiNlZkLWYzSFdjb21YZUE4MW9JTkxOT1BVUFZVREx3TmJoSmRSLWNrWE5VWFJDWEl2NGVsaGp6WlVjN3BzZ3NzTDhJMXkzQldKckNoZjF1bzZ0dkxBMHV6TmZSTXNOMjlGVEJPMDhZTTVTbWp2YWpZcUZBTnoxMEFJUXdoRC1aM1JxWHdhUnNQVkxTOEVhckJMUFhqSVRlZzJxdm5sN1hXdEZ0dkpNVlZEeGMwOVVoREdOR1hESTRnclNxOGhvb1pqN3ZzLW5ZdnpZTzdDRGdwRENCb084cmJoTlJnMXNvR0xjekliUnJvbk83clRycTdlZG9rMmNKd0tkRVVtZw?oc=5"
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxQVjlIMkd0SUtGcGw1UDBEVE5fUGdObXp1OGRXcEtrY0V2dVV4ZTZuc0FaanQwNC1GR2NabzlzOFNmWElWVzltTHVxT2F1NnBKcnVOVmxRLUU3cmtxajFnaXpKY2pmYWlFTjJaSE92S2g4NGlFdjREZmphY3JzXzJlbmRyUkdJelBZQ1A1YVVSUG9SaVdKdVdLX0kxaVk4WXhuT1luZEtrbjkzbnJ5cTFUa1ZGS0x3NnVVcFRUU3Vad19jT0oydUhncGptdXFMYi1Wd1F2X0tQdFNlaElEZURVTVJ2ZVdqbzdnOXczSkxLcFIyZmFyS2lGaHpPMUM1X01OQ0lJV0hHeVFuSjJIcndGS1E5NkNKYUZ1NjlvVlRRRXpRVUF6OERBOWpfdUViYmdGeW9PTklOUHZoRDc5YXpULXJieDlYM2FiV1h4b2JyT0xFR2VVQmd3d1lheDR6Q0pQNVBuT05ITmJjSThXaU9sR2Q2TVJPbUVfUjVmNHJTM2s2VUVHVDdCQ2wwUWlXaVJFX081XzB3MDhZRGJaVDJncHVEbmdCNjZhUnRrZ0dZUjQzZ1o1cWY2ai05NE1sUDd3WDU2Si1GT25PMTRLYmFJejlBUmU2cWV5T25RSExmRVhvOV9LbGRyNU130gGSAUFVX3lxTE9UZDJaVG1VXy1VcEMybGRYZFVkYVJ6Nmd6RFQ3SXdOUklwVXZJd1NDM1pHcHNVS0hQTGJIRmdrX3RIcUU5RGxHRV8xSndnMzVSR0Y4N1ptTlAwdHlKaTN4bzJDQW5TX1E4S29zR09fMm9KVEVFY3oyOFNjYzhZeURSYXN1VnBEQ21pcExWOW9SQUd3?oc=5"
         }
       ]
     }
