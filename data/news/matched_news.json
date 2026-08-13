@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-08-13T18:49:37.618030+00:00",
-  "total_count": 24,
+  "last_updated": "2026-08-13T19:51:11.055739+00:00",
+  "total_count": 25,
   "matched_count": 8,
   "news": [
+    {
+      "id": "037fe13bd7e0",
+      "title": "7個男性常忽略健康徵兆 日後恐付出代價",
+      "published": "2026-08-13T19:20:24+00:00",
+      "summary": "7個男性常忽略健康徵兆 日後恐付出代價&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEQzE3dFpHcWRQZTREd2Jqdkx3RWVUUnVWaGhQYUsxQURoMERLYzY2UlpmVmU1TFp3LUpXMzZDcUNQcVNHMTVqMy1SWXpPc2Eyb0hnTmFVUVFDdThiYUNJUGxR0gFnQVVfeXFMT01Jc2Zsa0pKUktJcDA0ekhzbnphZEdmeFVKOUJyWjV6bWJWNzk5dTdOQ3ZZWjlNcWlVdkhldVVkTjg2MDhUbFJ2ak9oWmRYN2VmRElNQjQtZXZrRWY1WUdlTlhPUEM5Yw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "b02758d6513a",
       "title": "暑假親子互動頻繁，家庭呼吸道病毒傳播風險增 醫師籲：呼吸道病毒不只新冠，RSV也需提高警覺",
@@ -533,7 +546,7 @@
       "id": "830590b8ae83",
       "title": "不吸菸、無慢性病 可延後13年失智",
       "published": "2026-08-12T05:26:25+00:00",
-      "summary": "不吸菸、無慢性病 可延後13年失智&nbsp;&nbsp;UDN中年壞習慣全中！研究驚爆：「這3地雷」沒避開 無失智壽命慘減12.6年&nbsp;&nbsp;三立新聞防失智2026WHO新指引！空污入列，未缺營養素「不建議靠維生素、魚油」&nbsp;&nbsp;gvm.com.tw不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防&nbsp;&nbsp;元氣網",
+      "summary": "不吸菸、無慢性病 可延後13年失智&nbsp;&nbsp;UDN中年壞習慣全中！研究驚爆：「這3地雷」沒避開 無失智壽命慘減12.6年&nbsp;&nbsp;health.setn.com防失智2026WHO新指引！空汙入列，未缺營養素「不建議靠維生素、魚油」&nbsp;&nbsp;gvm.com.tw不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防&nbsp;&nbsp;元氣網",
       "sources": [
         {
           "name": "UDN",
