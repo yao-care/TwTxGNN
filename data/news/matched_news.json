@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-08-13T15:50:21.003115+00:00",
-  "total_count": 22,
+  "last_updated": "2026-08-13T16:45:13.629622+00:00",
+  "total_count": 25,
   "matched_count": 8,
   "news": [
+    {
+      "id": "b02758d6513a",
+      "title": "暑假親子互動頻繁，家庭呼吸道病毒傳播風險增 醫師籲：呼吸道病毒不只新冠，RSV也需提高警覺",
+      "published": "2026-08-13T16:00:00+00:00",
+      "summary": "暑假親子互動頻繁，家庭呼吸道病毒傳播風險增 醫師籲：呼吸道病毒不只新冠，RSV也需提高警覺&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObWVPZ1Q0Z0tielZReVlTVHo1RGpGTlFCRnd6SjFNQTJjWFZXY2d0aDllcVJIZGI2Sk1FNDRsckd3bE1yMlJ0YnA5UjZFNEp3OUhqc0hrVkw5RVlkYUh0eGI4Y0pNX2RmTzFQSFIwNldFS0pKWGNaNzYyMnFhclNPamtR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "672f25d4f146",
       "title": "抗癌食物｜研究證6抗癌蔬菜 菠菜抗氧化大蒜防胃癌 榜首最多人愛",
@@ -37,13 +50,13 @@
       ]
     },
     {
-      "id": "99d97a71a2cc",
+      "id": "906f70434668",
       "title": "抗癌免疫新發現 特殊細胞助T細胞對抗腫瘤",
       "published": "2026-08-13T06:53:00+00:00",
-      "summary": "抗癌免疫新發現 特殊細胞助T細胞對抗腫瘤&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "抗癌免疫新發現 特殊細胞助T細胞對抗腫瘤&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SbVR4R3JkUmk0LWNQamFta1h0RnFnVEpCRkZFaTRKMGJxZ0dDY09hNU14cTBtaXkxZXlPZlR6OVdRQlFoU255RWRESmdkVjVfSndFc2t4Y3dGNnB2VGdiVlN1M0s?oc=5"
         }
       ],
@@ -246,14 +259,27 @@
       ]
     },
     {
-      "id": "4aa125c3ade6",
-      "title": "骨折可以打 PRP 加速修復？ 醫揭4警訊：拖久恐錯過治療時機",
-      "published": "2026-08-13T06:07:52+00:00",
-      "summary": "骨折可以打 PRP 加速修復？ 醫揭4警訊：拖久恐錯過治療時機&nbsp;&nbsp;經濟日報",
+      "id": "f503fb87158b",
+      "title": "陳幸妤質疑前夫醫術／骨折可以打PRP加速修復？醫揭4警訊：拖久恐錯過治療時機｜骨科．復健｜醫療",
+      "published": "2026-08-13T05:55:36+00:00",
+      "summary": "陳幸妤質疑前夫醫術／骨折可以打PRP加速修復？醫揭4警訊：拖久恐錯過治療時機｜骨科．復健｜醫療&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lNmRQYWhPVkRZVzFja1VRbmVab3BYc05xeXpKSmVXWDdKblgtaXdLZ091WWRrZmxuV3ZrdmhfdnIyZWM5Z1pEV0RRN0tmQllESDB4QTlOUElkRFc50gFiQVVfeXFMUEJvUUp6VDI3Ykk0bWcyUXI2MmhUdENPT3FDMnpTbHVKeG9hRlZHZUNuMl8wVkU4X0NScXNwbEZwekdzMHZnT21Sa0NWbzI5c0tQTlFiSXU3NWRmRTVibnhzTlE?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVmhLSzBPUk1Wamdab0hKUTB2cll2TUozMlVld1FWZEN5ZkhnbXBOVGd3SDRrVVd2RmJmUXJNWlJDVVRfTlVpM29kNW5sTHJMYm55b09EUkFveHhpTnJrMElsbWxxd2gyaEVlSUd5NlZTb3lfc3RleE13TnM3OWxQTENR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5947010befe5",
+      "title": "今天不情勒！多鄰國秒恢復男童300天登入紀錄 酸民求救被無情拒絕",
+      "published": "2026-08-13T04:12:44+00:00",
+      "summary": "今天不情勒！多鄰國秒恢復男童300天登入紀錄 酸民求救被無情拒絕&nbsp;&nbsp;udn遊戲角落",
+      "sources": [
+        {
+          "name": "udn遊戲角落",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UemV1UE1IbDBXZml2U1MzU2lZQjBTWFh2bmI2c3NGVGZEQ25ZSmZ5V1c3NXJfYXJmRG9sZUp1YU9rSVhObUlyaGtsLXNrS3E0NFRWZVBvQmYxQdIBX0FVX3lxTE1YVVZ5eU5WaFd5Z0VSWDdCNlVFNEZVN3JWb2w1b3N1UklvSjA4TC1ReWFIQVFXWm1YSm54RkJXRFlHa1dKVmRsVVVMMUkwLUp4SnlCX3JVcE5oY2h4TVVR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -455,6 +481,19 @@
       "matched_keywords": []
     },
     {
+      "id": "344290c7b029",
+      "title": "數位技術走入齒顎矯正：電腦能否先模擬牙齒受力？",
+      "published": "2026-08-12T09:18:33+00:00",
+      "summary": "數位技術走入齒顎矯正：電腦能否先模擬牙齒受力？&nbsp;&nbsp;life.tw",
+      "sources": [
+        {
+          "name": "life.tw",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNLVdTNFRTbWJMbWlmTmRFVldXajNhaG1RV2ZMSGJHRU1IWVdxaXZRc1JONHBEcmxjcUVLcENiTWpzY1BzMlEtVWF5V0NRdVBUdW0zRDlJeXI5SEdVYXdLWXB0SlYtblU3a2NKdUJZTWJROE84bEVIYWtXOGlTTFNPWFhIVjc4RVN0SVFSeS1DRjZYWFhqM1RKLXpzMFBJS2x5RS15WXEydndkbVlLNkJ1Z2FYWFBwdWRScXBnODhJSGFqbi1ZeE1mOXo4eURhUTJhajVpT25VaENZZ0dnWDJSSkdSWWNOODBoME16NXVlcWl4dUVDT0ZSdHVORGM1c3R3ajRYQ0JiQXFJNjhvU0gwTGJzZDBfWFMycW5Cd09LbnVtRjJQOVJ4MER4ZVhzZl9NZTR3cUVkS3BIR3FGa2Z5Tnh6VTk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "88338c6a856b",
       "title": "50歲啃老港女患乳癌20萬「保性徵」陷人生交叉點：定係留錢過世？事主最終1決定放下執著｜Juicy叮",
       "published": "2026-08-12T08:00:00+00:00",
@@ -504,14 +543,14 @@
       ]
     },
     {
-      "id": "5fef35c1077f",
+      "id": "830590b8ae83",
       "title": "不吸菸、無慢性病 可延後13年失智",
-      "published": "2026-08-12T04:48:41+00:00",
-      "summary": "不吸菸、無慢性病 可延後13年失智&nbsp;&nbsp;anntw.com中年壞習慣全中！研究驚爆：「這3地雷」沒避開 無失智壽命慘減12.6年&nbsp;&nbsp;health.setn.com防失智2026WHO新指引！空污入列，未缺營養素「不建議靠維生素、魚油」&nbsp;&nbsp;遠見雜誌不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防&nbsp;&nbsp;元氣網",
+      "published": "2026-08-12T05:26:25+00:00",
+      "summary": "不吸菸、無慢性病 可延後13年失智&nbsp;&nbsp;UDN中年壞習慣全中！研究驚爆：「這3地雷」沒避開 無失智壽命慘減12.6年&nbsp;&nbsp;health.setn.com防失智2026WHO新指引！空污入列，未缺營養素「不建議靠維生素、魚油」&nbsp;&nbsp;遠見雜誌不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "anntw.com",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KdVVEMUxpbGhUSnduUkw5MGgwQ2ctNm9VR296bGt1ZDNsT0dxNWkySlBiTHhJcGFlT1Ztcm5UQlctSHNicEJvR0JHQzVvaE4yaWgwYmdVbw?oc=5"
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54dTRkRk9rNUw0bWJZQ2RKTktVdjhpd3FXSS1ONE1fZU4zdnlWanltT2hxNklidkMyMjNHemhXWjVuTnprdWtpWUttOTl1dzdk?oc=5"
         }
       ],
       "matched_keywords": [
@@ -540,13 +579,13 @@
       ]
     },
     {
-      "id": "fa6d1dd474fc",
+      "id": "0ee068cb9a28",
       "title": "癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內",
       "published": "2026-08-12T04:43:00+00:00",
-      "summary": "癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5"
         }
       ],
@@ -970,13 +1009,13 @@
       "matched_keywords": []
     },
     {
-      "id": "b5298b75b9b1",
+      "id": "a91f0bc529d6",
       "title": "健康網》營養師：減重後創造新生活 降內臟脂肪更健康",
       "published": "2026-08-11T22:22:00+00:00",
-      "summary": "健康網》營養師：減重後創造新生活 降內臟脂肪更健康&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "健康網》營養師：減重後創造新生活 降內臟脂肪更健康&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFaGttNU1Cb1dpQU5JU3pGaUVzZGtqNjZDdm12cnk2Z3Q1Tks2aENtS2ZsdnZPWGJORWFxM0FtTVUwWnJ2TTFoTUhzSEFReWxWWDFLZEtVQ2RNQk1URmFiUHI3MFU?oc=5"
         }
       ],
