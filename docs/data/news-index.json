@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T10:02:16.484435+00:00",
-  "count": 9,
+  "generated": "2026-08-14T11:37:01.048816+00:00",
+  "count": 8,
   "news": [
     {
       "id": "dccd78e30e38",
@@ -584,54 +584,6 @@
             {
               "slug": "metoprolol",
               "name": "Metoprolol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "88338c6a856b",
-      "title": "50歲啃老港女患乳癌20萬「保性徵」陷人生交叉點：定係留錢過世？事主最終1決定放下執著｜Juicy叮",
-      "published": "2026-08-12T08:00:00+00:00",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMijwRBVV95cUxOSko4c2xTb3MxTGJhcW85Y1FBUG1wNFZQdnVqY08xVUpsN1ZTdi0xUzgycUJWTzJMNkM2UkVFZFo3Xzd6d0dSYVVLbEF6dmRDRXNQQWxHaHppRllqU2hRa0hkSllqMDlablJhUURXa05qNEFmN0c5OXVFbVgtWEVpUllPNlFrVldaYldsT2xWNXpIUmNHSnBUYTNCd0IzbmtUS3FSTVBxQUxkbHlaN0t6QWNpNDhWejZ4R0ozbE9kOXB3MHlMbFJVc0RzWlVVZFRjamVGc0JUVENObERtZy1aNkJuWkNTVHE3d3Z6cFQ4cVdKVjRWU2gybWw4emdJem0wTm82SUM5amhYNDl6SDgtREcwdFYwY0JDWXVBN1lQR2FXQ2ZlZERvakhtd0RETFM1dmV1Nm5nSUtSSVpCUzZkU294UmRzQlJBbklHcFVJVW0wV2lYTzZwSXk0aUJBQkcxUXFvdHhvVDhpLUxmVms3ak1FX0Jnb0E3WVVWWERCdXg4OW1zblMzazZTc2pLZUZYUVVjaEZab090aVJlaFQtM3NYWUpUb3gxeHQyRUFSS2dMcGJGaG1JTHo4NTA3dGhqTzJveWRwdDN4bllRMXZqdWdtNlZYakNPSlRuSlhNX3p4eHd0LTNGMXpOdWpYajVRelhUM0RDcFl3VzlfZ2hkTlB5RThpUjRhSUF5WTBDdw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
