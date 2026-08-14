@@ -51,6 +51,14 @@ permalink: /news/gefitinib/
 
 ---
 
+### [想長壽有秘訣！研究揭中年人必守3大健康生活指標 護腦兼延壽13年](https://news.google.com/rss/articles/CBMipANBVV95cUxQcnVzakM1SEY3STZ1WTdqcU1XcTZxRlNLR1Vzd3dUSVFVallWcThLdmozdmtzeDJZRDBwV0R3eGdvUl9CQWt0d2tLNENGTm14Wk9NbmVsNkljTlJnUkJmR1lFZEgtRHdMZHRTRzZiaVZBQ0F0VV9EZ3BXZjR1cDZmWjFXMzB1T2kwSTNGZlNub1JtcWVFSGdOdDFDYko2blowWWRHTTFlTEZia2dVd25DNUdlWGhiRnBGV3dPc3R6Qm9GQ1hsRk1udFM4LWktcmgtZk5vUERZZEJTNjZwdm85X25mSnVkLUJjYllpMl8xTllVdlBJR0dJUk5ncGlCR1p6b0gtXy1lNlFkMkFJVi1CSXVvQjFUQXc4b1pHcHNZQnNWWENQeHBVVjdldVNBbDYyUlREY0tXMVZqQmgwXzJVRG1tUHdBOExpOU15R0hZOXVHM3F0VU9na2VwcnE3SFA1TnlJREd3ZzN4MnpZVFQ4NnNTY0tRZ05JeDdBSVhIV3pCbXpibllTamZDMjFXeFMyLUNDNGJQU1BlSHZuVTY4VGwyY1I?oc=5)
+
+2026-08-13 <span class="news-indication-tag">失智</span>
+
+來源：[星島頭條](https://news.google.com/rss/articles/CBMipANBVV95cUxQcnVzakM1SEY3STZ1WTdqcU1XcTZxRlNLR1Vzd3dUSVFVallWcThLdmozdmtzeDJZRDBwV0R3eGdvUl9CQWt0d2tLNENGTm14Wk9NbmVsNkljTlJnUkJmR1lFZEgtRHdMZHRTRzZiaVZBQ0F0VV9EZ3BXZjR1cDZmWjFXMzB1T2kwSTNGZlNub1JtcWVFSGdOdDFDYko2blowWWRHTTFlTEZia2dVd25DNUdlWGhiRnBGV3dPc3R6Qm9GQ1hsRk1udFM4LWktcmgtZk5vUERZZEJTNjZwdm85X25mSnVkLUJjYllpMl8xTllVdlBJR0dJUk5ncGlCR1p6b0gtXy1lNlFkMkFJVi1CSXVvQjFUQXc4b1pHcHNZQnNWWENQeHBVVjdldVNBbDYyUlREY0tXMVZqQmgwXzJVRG1tUHdBOExpOU15R0hZOXVHM3F0VU9na2VwcnE3SFA1TnlJREd3ZzN4MnpZVFQ4NnNTY0tRZ05JeDdBSVhIV3pCbXpibllTamZDMjFXeFMyLUNDNGJQU1BlSHZuVTY4VGwyY1I?oc=5)
+
+---
+
 ### [肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfRnNvc1o5VnhXeVA4TVRvTDNJUThFWVBIcWpGN2ZRektDRzVIcWVNRFpscUp0MjF2S2NsZXhzS3NNcDEzR1RaM3FBbWh5cENkNmJ4aEtB?oc=5)
 
 2026-08-13 <span class="news-indication-tag">阿茲海默症</span>
@@ -64,14 +72,6 @@ permalink: /news/gefitinib/
 2026-08-13 <span class="news-indication-tag">腫瘤</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SbVR4R3JkUmk0LWNQamFta1h0RnFnVEpCRkZFaTRKMGJxZ0dDY09hNU14cTBtaXkxZXlPZlR6OVdRQlFoU255RWRESmdkVjVfSndFc2t4Y3dGNnB2VGdiVlN1M0s?oc=5)
-
----
-
-### [研究：中年踩3地雷　無失智壽命慘少12年 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aZzNKeDlJVkpJRWYzUUM1UTdfVjRnOW5BS085VU50TktIbHFzSjFTbWc5QzBNaVpmWWRja2EyRldpS0c5Q25DbkJNZnczc01yODVMTWhDV0lneUVK0gFiQVVfeXFMUGctMVRnN3hBbFRnRW5pd011d0liQU5nTkhuWERVX1Rld3dVVWJvOTB4V0hVN0t4bnFmTEF1XzFSbjhCRVdqY2JhUksyOHMwUFViVUlna3BjMjdMcDlidWY4bXc?oc=5)
-
-2026-08-12 <span class="news-indication-tag">失智</span>
-
-來源：[鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aZzNKeDlJVkpJRWYzUUM1UTdfVjRnOW5BS085VU50TktIbHFzSjFTbWc5QzBNaVpmWWRja2EyRldpS0c5Q25DbkJNZnczc01yODVMTWhDV0lneUVK0gFiQVVfeXFMUGctMVRnN3hBbFRnRW5pd011d0liQU5nTkhuWERVX1Rld3dVVWJvOTB4V0hVN0t4bnFmTEF1XzFSbjhCRVdqY2JhUksyOHMwUFViVUlna3BjMjdMcDlidWY4bXc?oc=5)
 
 ---
 
