@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [血液腫瘤患者感染兇手是誰？醫師解析發燒警訊與 mNGS 檢測](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Id0w5NUtnUVdHdlNqa2FnNl9UeV9GY1ZYRm1EWGtjYUdJRmRyWG5FTmgyeTJ4dlB5V1djNFZlQVFWUF85YXhGSkFmZw?oc=5)
 
@@ -73,14 +73,6 @@ permalink: /news/paclitaxel/
 2026-08-12 <span class="news-indication-tag">乳癌</span>
 
 來源：[星島頭條](https://news.google.com/rss/articles/CBMijwRBVV95cUxOSko4c2xTb3MxTGJhcW85Y1FBUG1wNFZQdnVqY08xVUpsN1ZTdi0xUzgycUJWTzJMNkM2UkVFZFo3Xzd6d0dSYVVLbEF6dmRDRXNQQWxHaHppRllqU2hRa0hkSllqMDlablJhUURXa05qNEFmN0c5OXVFbVgtWEVpUllPNlFrVldaYldsT2xWNXpIUmNHSnBUYTNCd0IzbmtUS3FSTVBxQUxkbHlaN0t6QWNpNDhWejZ4R0ozbE9kOXB3MHlMbFJVc0RzWlVVZFRjamVGc0JUVENObERtZy1aNkJuWkNTVHE3d3Z6cFQ4cVdKVjRWU2gybWw4emdJem0wTm82SUM5amhYNDl6SDgtREcwdFYwY0JDWXVBN1lQR2FXQ2ZlZERvakhtd0RETFM1dmV1Nm5nSUtSSVpCUzZkU294UmRzQlJBbklHcFVJVW0wV2lYTzZwSXk0aUJBQkcxUXFvdHhvVDhpLUxmVms3ak1FX0Jnb0E3WVVWWERCdXg4OW1zblMzazZTc2pLZUZYUVVjaEZab090aVJlaFQtM3NYWUpUb3gxeHQyRUFSS2dMcGJGaG1JTHo4NTA3dGhqTzJveWRwdDN4bllRMXZqdWdtNlZYakNPSlRuSlhNX3p4eHd0LTNGMXpOdWpYajVRelhUM0RDcFl3VzlfZ2hkTlB5RThpUjRhSUF5WTBDdw?oc=5)
-
----
-
-### [癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內](https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5)
-
-2026-08-12 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5)
 
 ---
 

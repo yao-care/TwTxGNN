@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [血液腫瘤患者感染兇手是誰？醫師解析發燒警訊與 mNGS 檢測](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Id0w5NUtnUVdHdlNqa2FnNl9UeV9GY1ZYRm1EWGtjYUdJRmRyWG5FTmgyeTJ4dlB5V1djNFZlQVFWUF85YXhGSkFmZw?oc=5)
 
@@ -60,27 +60,11 @@ permalink: /news/metoprolol/
 
 ---
 
-### [健康飲食｜血管老化恐傷心/腦/腎/眼 醫生推薦7大血管逆齡食物 心血管病死亡率大降25% - 晴報 Sky Post](https://news.google.com/rss/articles/CBMi7wNBVV95cUxNY2hwOWtMZUlDSVEzTE5TQ0lIdjJybDdZRWJacGh2aGxPRW8yUmlLa1NJaUhFVHdNNW9jZjM5M2FxSUhmMVVQOUZ0NGtTLWp2N2lrQ2JhVVJ3aFg2em4zWVdHTDhUTjZuQWwzSGtOMF9FcDRGWTFKakJOOW85S2VEdi1uc1A3djNicXpyNzVVTjVqMmpHcDI5WXJNdVpEcnlzblhXLVlnVzhiNmxsN1hiaTlyVV9LaXRuM0hBaEJsU3pDcGt6anBwbEZNSW05MDA4enFqQURpelU2QUFNZlFPWGp6TkRSMURTeGlnak5wYlp6S2FiYVZJVVlSZkM4YnZiS3VjLW1vODNYOGRyVkxpVF90dHBpUno5blVfZjE1cFFNdWN6bnJkWUdYdW5oWGZ2b3l3NzcyNlJValRmZzJDWjlXMVhUNnhHZWdPU1EwWXhMVlZfTTNTZ3FfeXlXMHZNRHFEV0tXUGkzalJtYkJwb0VVSHlad2E3SUQyYVFLS2RRRVlSTGN0LTR1VWtDbFdyZFNDc2FpTzFUZUpnOG4zZzg2bTE1UWZ5TE9lUGFNbnZTbkRtTTZwcWpDaTRZN1cxX0VzWHhLcEp2c3BPNVR2QWs0QkFGNm1Fdkh0WWQ1dU1JSUI4dXJ4YkpsNFVFYUk?oc=5)
-
-2026-08-13 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臟病</span>
-
-來源：[晴報 Sky Post](https://news.google.com/rss/articles/CBMi7wNBVV95cUxNY2hwOWtMZUlDSVEzTE5TQ0lIdjJybDdZRWJacGh2aGxPRW8yUmlLa1NJaUhFVHdNNW9jZjM5M2FxSUhmMVVQOUZ0NGtTLWp2N2lrQ2JhVVJ3aFg2em4zWVdHTDhUTjZuQWwzSGtOMF9FcDRGWTFKakJOOW85S2VEdi1uc1A3djNicXpyNzVVTjVqMmpHcDI5WXJNdVpEcnlzblhXLVlnVzhiNmxsN1hiaTlyVV9LaXRuM0hBaEJsU3pDcGt6anBwbEZNSW05MDA4enFqQURpelU2QUFNZlFPWGp6TkRSMURTeGlnak5wYlp6S2FiYVZJVVlSZkM4YnZiS3VjLW1vODNYOGRyVkxpVF90dHBpUno5blVfZjE1cFFNdWN6bnJkWUdYdW5oWGZ2b3l3NzcyNlJValRmZzJDWjlXMVhUNnhHZWdPU1EwWXhMVlZfTTNTZ3FfeXlXMHZNRHFEV0tXUGkzalJtYkJwb0VVSHlad2E3SUQyYVFLS2RRRVlSTGN0LTR1VWtDbFdyZFNDc2FpTzFUZUpnOG4zZzg2bTE1UWZ5TE9lUGFNbnZTbkRtTTZwcWpDaTRZN1cxX0VzWHhLcEp2c3BPNVR2QWs0QkFGNm1Fdkh0WWQ1dU1JSUI4dXJ4YkpsNFVFYUk?oc=5)
-
----
-
 ### [驗眼不只配眼鏡：看懂糖尿病與高血壓警訊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIb20tX1QyODBoMEVGNWEwSTdLLS1vNkcxR0NLbTRRQzFyNHhKanpUeHkwSGtXZVpIaGhNclRHdEdDUTU4MV9EcXc3aGZFVUo3MnNOanNNOFJ3aVQ2cTZKQ9IBZkFVX3lxTFBGalJRWUxEYnJidEdEa3ZYNHdkRGpKdVZGWTJmVUNhcDlIRC1vZ0llZUd5NlNRVmFrOVd6MWM0aldfZ1NjcURJXzdTVFBseHMyTWdUYjN6dWtnSHR5X0dxWTF1clpHZw?oc=5)
 
 2026-08-12 <span class="news-indication-tag">高血壓</span>
 
 來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIb20tX1QyODBoMEVGNWEwSTdLLS1vNkcxR0NLbTRRQzFyNHhKanpUeHkwSGtXZVpIaGhNclRHdEdDUTU4MV9EcXc3aGZFVUo3MnNOanNNOFJ3aVQ2cTZKQ9IBZkFVX3lxTFBGalJRWUxEYnJidEdEa3ZYNHdkRGpKdVZGWTJmVUNhcDlIRC1vZ0llZUd5NlNRVmFrOVd6MWM0aldfZ1NjcURJXzdTVFBseHMyTWdUYjN6dWtnSHR5X0dxWTF1clpHZw?oc=5)
-
----
-
-### [癌症免疫療法為何有人沒效？血液少90％沒差 關鍵竟在腫瘤內](https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5)
-
-2026-08-12 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXpWMmV3cHVWOUdDSWk1Q0drYU0zWFUtVUtuckNsLUpETUlDYV93SERhUjdPWG1qeGZVX1Y5cVhXcjduY0t0VTVncWNvUS1TUU9lMkVic0VESWp6MEM5VUl5cUI?oc=5)
 
 ---
 
