@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [血液腫瘤患者感染兇手是誰？醫師解析發燒警訊與 mNGS 檢測](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Id0w5NUtnUVdHdlNqa2FnNl9UeV9GY1ZYRm1EWGtjYUdJRmRyWG5FTmgyeTJ4dlB5V1djNFZlQVFWUF85YXhGSkFmZw?oc=5)
+
+2026-08-14 <span class="news-indication-tag">腫瘤</span>
+
+來源：[Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Id0w5NUtnUVdHdlNqa2FnNl9UeV9GY1ZYRm1EWGtjYUdJRmRyWG5FTmgyeTJ4dlB5V1djNFZlQVFWUF85YXhGSkFmZw?oc=5)
+
+---
 
 ### [抗癌食物｜研究證6抗癌蔬菜 菠菜抗氧化大蒜防胃癌 榜首最多人愛](https://news.google.com/rss/articles/CBMipwNBVV95cUxPN3NaSzFtalpVUVRPUGVyTl9EZkVURW1HdjRJMGtsVzFxVFoxbXMyNkN0Sldxdk5iYzhPUWQ3NTRuNjlBdlU1cmtiazRTd2Z5MzRWUWRkV21DRV9jUnBtOGpKOGNLLXhLRTFTMDVndFNjRXZtZURUYmV3VTd4cXNOa0FKNWV3UkJ2NmlKanY3T3hlYkIzX090b0tvaENPOTVkTXUtODZYVmF4RTRfak85Q0swa0lHanVJS09vbUpJdm1BUHF4WnhXeDlGNTJfZlNCUzZJN2h2REsyMGZHYURHRjdEOHh6TFFMLUpCS2E5UWllR3VLMFhVV3hUZk5WOHNPSVRwdFpEd2l0cVVHd0RjX0VILUY5Umpxb2ZWN191RV9jWVVxZHYwTTZWSFZvRHVIUHJvMVlUZDVUYUd0UldIM29BbklWSThGcVVoSzRwVEdYSlFnSlRYTkRFNGtzbUFPQkdwckZ2TW42S1hzUzA2TlI1a2tzeElxdjNnRkdIaXI3UC01SmJzdXJLc29Yd2RwT0hxZkRudVc3S3B1TkJBbFJzZkR3S2c?oc=5)
 
