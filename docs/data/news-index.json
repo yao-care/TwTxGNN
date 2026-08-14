@@ -1,50 +1,15 @@
 {
-  "generated": "2026-08-14T14:09:04.712531+00:00",
+  "generated": "2026-08-14T15:42:06.484356+00:00",
   "count": 8,
   "news": [
     {
-      "id": "dccd78e30e38",
-      "title": "護心幫到手 經常進食1類蔬果 心血管疾病風險降26%",
-      "published": "2026-08-14T03:30:00+00:00",
-      "sources": [
-        {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNcE1yMVpyOVdwZWt5Tlk5X1NhNlZ6YzhWV1ZSNURsQ195RElWSnotWVpORFh5eUY3QktNVGJ1aFJQNjhBNWFmWWlZV3ZUVkhlc3hfTFlIWUJXMWN1anBCUEVudkE1MGVjcVB5RjFZcjdqVXRSdi1qNFZGc2hQOXFGSGlpRzlFN3hsZmwyd1ZFYjNfWnZIV0pzS0NKZEE2RGVnLXlJS2U5d1ZuWmR5R29QNFMxZDByMkRfOEMxV0RuQ3RaZy1lT2NVMlhKWVlFWmxucmF2MFBVb3BlY01nUHRlaFZic1VFWUNac2c3SGNZVE9RMnBpUFVwRWhobjFSMEpBdUM5LUZ6Rjg5WU56Tk9oRklERkhka0JRdDF3a0p3OHhLNTVKYzNVT2tzWlRlUEcyVno1Vm93NE1OZjM5aDdVVTUxRGxxWjU2Nk5lcU8tVzd0RGc2VXdhQ2hR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2ccbeaa9f36b",
+      "id": "f273e5e552d1",
       "title": "血液腫瘤患者感染兇手是誰？醫師解析發燒警訊與 mNGS 檢測",
-      "published": "2026-08-14T02:00:00+00:00",
+      "published": "2026-08-14T14:00:00+00:00",
       "sources": [
         {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Id0w5NUtnUVdHdlNqa2FnNl9UeV9GY1ZYRm1EWGtjYUdJRmRyWG5FTmgyeTJ4dlB5V1djNFZlQVFWUF85YXhGSkFmZw?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOelZtbzlUMXlGTUpab25ZbkI2NkxzYUk3WThEdDNxZlR1QmdnRThvT01fT040clFmdjZ1TEdlSld4TWowdFdITUNiZnlvWWpUOUJQc0lCdE1sTnNpLURIZXkwcVk1Z0h6WFdPR1ZybmcyZWtqZjdGcU1vOTVQUnh0RDU0czBUNk5XTnlzMVBBZllfaEV4U1VDdGlhbEU2dHhYcFg4QS1pYkdMV3VaSDg1aFhBVW9zSVc1TnNxV3FjZ0tzVzNQTFQxSnNGU0RSM0FNZmpjd0hXWjA5QUVvUzdLbVBtNi0zeVhUVzhZYWYzS0hJLTczUTViUWFRQ01OLWJKQnZ3anpSZXRLODJwdHhSN0pWRkkxUmxrcUFYblcwRFVyVXZkbGl0SE1Kdng5VGpTa0JoUnUyVk1mYlVtQV9UaG9SblJBYWZSQjdqT21JRmVBaVRLSmJEWGZnYkhoc2tRV2hkbGF0VEFLemp6Nmt3ag?oc=5"
         }
       ],
       "keywords": [
@@ -246,6 +211,41 @@
       ]
     },
     {
+      "id": "dccd78e30e38",
+      "title": "護心幫到手 經常進食1類蔬果 心血管疾病風險降26%",
+      "published": "2026-08-14T03:30:00+00:00",
+      "sources": [
+        {
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNcE1yMVpyOVdwZWt5Tlk5X1NhNlZ6YzhWV1ZSNURsQ195RElWSnotWVpORFh5eUY3QktNVGJ1aFJQNjhBNWFmWWlZV3ZUVkhlc3hfTFlIWUJXMWN1anBCUEVudkE1MGVjcVB5RjFZcjdqVXRSdi1qNFZGc2hQOXFGSGlpRzlFN3hsZmwyd1ZFYjNfWnZIV0pzS0NKZEE2RGVnLXlJS2U5d1ZuWmR5R29QNFMxZDByMkRfOEMxV0RuQ3RaZy1lT2NVMlhKWVlFWmxucmF2MFBVb3BlY01nUHRlaFZic1VFWUNac2c3SGNZVE9RMnBpUFVwRWhobjFSMEpBdUM5LUZ6Rjg5WU56Tk9oRklERkhka0JRdDF3a0p3OHhLNTVKYzNVT2tzWlRlUEcyVno1Vm93NE1OZjM5aDdVVTUxRGxxWjU2Nk5lcU8tVzd0RGc2VXdhQ2hR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "9973e88b36c3",
       "title": "史上最完整思覺失調症基因圖譜問世，AI 發威助解全球 2,300 萬人病理謎團 - TechNews 科技新報",
       "published": "2026-08-13T23:35:40+00:00",
@@ -322,12 +322,12 @@
       ]
     },
     {
-      "id": "ddcd1d00aef3",
+      "id": "672f25d4f146",
       "title": "抗癌食物｜研究證6抗癌蔬菜 菠菜抗氧化大蒜防胃癌 榜首最多人愛",
       "published": "2026-08-13T07:00:54+00:00",
       "sources": [
         {
-          "name": "hk01.com",
+          "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPN3NaSzFtalpVUVRPUGVyTl9EZkVURW1HdjRJMGtsVzFxVFoxbXMyNkN0Sldxdk5iYzhPUWQ3NTRuNjlBdlU1cmtiazRTd2Z5MzRWUWRkV21DRV9jUnBtOGpKOGNLLXhLRTFTMDVndFNjRXZtZURUYmV3VTd4cXNOa0FKNWV3UkJ2NmlKanY3T3hlYkIzX090b0tvaENPOTVkTXUtODZYVmF4RTRfak85Q0swa0lHanVJS09vbUpJdm1BUHF4WnhXeDlGNTJfZlNCUzZJN2h2REsyMGZHYURHRjdEOHh6TFFMLUpCS2E5UWllR3VLMFhVV3hUZk5WOHNPSVRwdFpEd2l0cVVHd0RjX0VILUY5Umpxb2ZWN191RV9jWVVxZHYwTTZWSFZvRHVIUHJvMVlUZDVUYUd0UldIM29BbklWSThGcVVoSzRwVEdYSlFnSlRYTkRFNGtzbUFPQkdwckZ2TW42S1hzUzA2TlI1a2tzeElxdjNnRkdIaXI3UC01SmJzdXJLc29Yd2RwT0hxZkRudVc3S3B1TkJBbFJzZkR3S2c?oc=5"
         }
       ],
