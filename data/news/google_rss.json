@@ -1,8 +1,32 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-13T23:31:55.072018+00:00",
-  "count": 25,
+  "fetched_at": "2026-08-14T01:09:29.508848+00:00",
+  "count": 27,
   "news": [
+    {
+      "id": "9973e88b36c3",
+      "title": "史上最完整思覺失調症基因圖譜問世，AI 發威助解全球 2,300 萬人病理謎團 - TechNews 科技新報",
+      "published": "2026-08-13T23:35:40+00:00",
+      "summary": "史上最完整思覺失調症基因圖譜問世，AI 發威助解全球 2,300 萬人病理謎團&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ScEo3Nmc2ZkEydENPczYxTng2ZklCTnR6TzZJVnkwQ0laU1ZWOF96QXZkM1ByYUstd1dKUUQ2MUZYa1R6T1JIdHZyN2QxSUdiQm5ZMnZZUGNqSlNyMXBwbHJEdWROYVU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ea9bb19c0293",
+      "title": "健康網》控糖吃錯反傷腎！ 醫揭5大降血糖食物 第一名竟是它 - 自由健康網",
+      "published": "2026-08-13T22:25:00+00:00",
+      "summary": "健康網》控糖吃錯反傷腎！ 醫揭5大降血糖食物 第一名竟是它&nbsp;&nbsp;自由健康網60歲男狂喝「1果汁」控糖竟送急診！醫警告：5大食物吃錯恐傷腎傷身&nbsp;&nbsp;三立新聞國際文獻認證5大控糖食物！燕麥、堅果都入榜 它狂降空腹血糖29％&nbsp;&nbsp;TVBS 健康2.05食物穩血糖「苦瓜排末端」醫喊還得吃對：否則傷腎- 健康&nbsp;&nbsp;中時新聞網夜間血糖救星？研究證實：睡前吃1堅果有助腸道好菌 調節血糖潛力&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03U0xkSmYyNEtwdVlHODZVU3MtMTdBbHZ5S3FVOHZIaWNPeGdRUmFGaG51RUVCYURELThHVGJWelVmMlhxaVV5cnlSMGNreVpzNDhQZ0wxTVVDVFNvbDhIdEltYWM?oc=5"
+        }
+      ]
+    },
     {
       "id": "389659bf8d84",
       "title": "健康網》龍眼吃起來甜不代表血糖飆！ 營養師教糖友吃法 - 自由健康網",
@@ -64,14 +88,14 @@
       ]
     },
     {
-      "id": "78b0f284b587",
-      "title": "肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制 - TechNews 科技新報",
-      "published": "2026-08-13T00:34:09+00:00",
-      "summary": "肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制&nbsp;&nbsp;TechNews 科技新報",
+      "id": "2ca2a3307f3c",
+      "title": "肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制 | 科技新報 - LINE TODAY",
+      "published": "2026-08-13T08:37:21+00:00",
+      "summary": "肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TUzlkSVA4amJ5UEt4MFVjbzdFd1k5VmU0TC0yam1JNUhtTzIzNWZEeWlfdUd3LUtCRVpyMDVYaUs1dEhpc1JNRDl1cFhaN3VCdTR1djk4dUJsM0RiQXJjVGtsaEU0R2FEX3lkbHBnYVlsNHg3NnJDSA?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfRnNvc1o5VnhXeVA4TVRvTDNJUThFWVBIcWpGN2ZRektDRzVIcWVNRFpscUp0MjF2S2NsZXhzS3NNcDEzR1RaM3FBbWh5cENkNmJ4aEtB?oc=5"
         }
       ]
     },
@@ -88,14 +112,38 @@
       ]
     },
     {
-      "id": "a2586b8e81b6",
-      "title": "「吃不胖」天選之人的祕密：罕見基因變異，天生體脂低、血糖更穩定 | 科技新報 - LINE TODAY",
-      "published": "2026-08-12T19:42:27+00:00",
-      "summary": "「吃不胖」天選之人的祕密：罕見基因變異，天生體脂低、血糖更穩定 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "id": "42a129c94c80",
+      "title": "研究：中年踩3地雷　無失智壽命慘少12年 - 鏡週刊Mirror Media",
+      "published": "2026-08-12T11:16:00+00:00",
+      "summary": "研究：中年踩3地雷 無失智壽命慘少12年&nbsp;&nbsp;鏡週刊Mirror Media防失智2026WHO新指引！空汙入列，未缺營養素「不建議靠維生素、魚油」&nbsp;&nbsp;遠見雜誌中年壞習慣全中！研究驚爆：「這3地雷」沒避開 無失智壽命慘減12.6年&nbsp;&nbsp;三立新聞不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞高達45%失智可預防！WHO最新指南：日常生活做好「這6件事」就有效&nbsp;&nbsp;天下雜誌",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4bDhDMG5fSEJ3UEQ0OV9zS3ZiUHhjSlBNamtQUTZjN01DUTd6WUx5TnhpNHhacjI0ZC11TWhVZV9fQ0M3Wi1ydE5LVWFiV0hobXNhYTNn?oc=5"
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aZzNKeDlJVkpJRWYzUUM1UTdfVjRnOW5BS085VU50TktIbHFzSjFTbWc5QzBNaVpmWWRja2EyRldpS0c5Q25DbkJNZnczc01yODVMTWhDV0lneUVK0gFiQVVfeXFMUGctMVRnN3hBbFRnRW5pd011d0liQU5nTkhuWERVX1Rld3dVVWJvOTB4V0hVN0t4bnFmTEF1XzFSbjhCRVdqY2JhUksyOHMwUFViVUlna3BjMjdMcDlidWY4bXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a2242a6356ad",
+      "title": "數位技術走入齒顎矯正：電腦能否先模擬牙齒受力？ - Life 生活網",
+      "published": "2026-08-12T09:18:33+00:00",
+      "summary": "數位技術走入齒顎矯正：電腦能否先模擬牙齒受力？&nbsp;&nbsp;Life 生活網",
+      "sources": [
+        {
+          "name": "Life 生活網",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNLVdTNFRTbWJMbWlmTmRFVldXajNhaG1RV2ZMSGJHRU1IWVdxaXZRc1JONHBEcmxjcUVLcENiTWpzY1BzMlEtVWF5V0NRdVBUdW0zRDlJeXI5SEdVYXdLWXB0SlYtblU3a2NKdUJZTWJROE84bEVIYWtXOGlTTFNPWFhIVjc4RVN0SVFSeS1DRjZYWFhqM1RKLXpzMFBJS2x5RS15WXEydndkbVlLNkJ1Z2FYWFBwdWRScXBnODhJSGFqbi1ZeE1mOXo4eURhUTJhajVpT25VaENZZ0dnWDJSSkdSWWNOODBoME16NXVlcWl4dUVDT0ZSdHVORGM1c3R3ajRYQ0JiQXFJNjhvU0gwTGJzZDBfWFMycW5Cd09LbnVtRjJQOVJ4MER4ZVhzZl9NZTR3cUVkS3BIR3FGa2Z5Tnh6VTk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2eaadce543de",
+      "title": "「吃不胖」天選之人的祕密：罕見基因變異，天生體脂低、血糖更穩定 - TechNews 科技新報",
+      "published": "2026-08-12T07:26:21+00:00",
+      "summary": "「吃不胖」天選之人的祕密：罕見基因變異，天生體脂低、血糖更穩定&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSGNlbGpURW5wcmg3aHozbzY2bTd6cTJteURIRTZ1S2laYTExOU1xRVQtY0F3LTNLbUctOWZMc2ZkX2lta3U2WDFleTVlV2MwSjh1Q2NlNmNLbHJUOUpncTZER0xPWU5ZU29xLVZVVmx2QmpCYXlVOTdTNWg1dnlsT2ZCUDFYaXZMNWZj?oc=5"
         }
       ]
     },
@@ -108,30 +156,6 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iQjJHNl82UVpTT1pKZFdZR2RQRk9EeFcyRW5HaTJCUW5TSnpVLTdyQU9Gc0oyMEV4ZE9nTW1VbDJScnZOaDVIbGNSanNDeUdVQ0RtcXRiSVdLNUVZdXMyTllWWVMyWTNlYlFNbGt3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "120065e78497",
-      "title": "哈士奇禿毛恐致病？《醫學大聯盟》警：過量維他命 C 小心毛孩結石風險 - - 民視健康長照網",
-      "published": "2026-08-12T00:13:28+00:00",
-      "summary": "哈士奇禿毛恐致病？《醫學大聯盟》警：過量維他命 C 小心毛孩結石風險&nbsp;&nbsp;- 民視健康長照網",
-      "sources": [
-        {
-          "name": "- 民視健康長照網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DQWpicVpKSTc0T294a3JLYzRWTTdub1lkRlhRZWNFLXZaaEJ2UTZ2VlU4d0ZqYWM5d2ktN2ZjQmRZX0JJajdPZ2FZSUFWOGwydkpSRkowOHRNVHQ1RnhDeGJLR3Y?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "42a129c94c80",
-      "title": "研究：中年踩3地雷　無失智壽命慘少12年 - 鏡週刊Mirror Media",
-      "published": "2026-08-12T11:16:00+00:00",
-      "summary": "研究：中年踩3地雷 無失智壽命慘少12年&nbsp;&nbsp;鏡週刊Mirror Media中年壞習慣全中！研究驚爆：「這3地雷」沒避開 無失智壽命慘減12.6年&nbsp;&nbsp;三立新聞防失智2026WHO新指引！空汙入列，未缺營養素「不建議靠維生素、魚油」&nbsp;&nbsp;遠見雜誌不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞研究揭中年做到3件事 失智症平均晚13年發生！WHO：近半風險其實可預防&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aZzNKeDlJVkpJRWYzUUM1UTdfVjRnOW5BS085VU50TktIbHFzSjFTbWc5QzBNaVpmWWRja2EyRldpS0c5Q25DbkJNZnczc01yODVMTWhDV0lneUVK0gFiQVVfeXFMUGctMVRnN3hBbFRnRW5pd011d0liQU5nTkhuWERVX1Rld3dVVWJvOTB4V0hVN0t4bnFmTEF1XzFSbjhCRVdqY2JhUksyOHMwUFViVUlna3BjMjdMcDlidWY4bXc?oc=5"
         }
       ]
     },
@@ -172,6 +196,18 @@
       ]
     },
     {
+      "id": "353ab4062a9a",
+      "title": "男性常忽略7個健康徵兆 日後恐付出代價 - 世界新聞網",
+      "published": "2026-08-13T19:20:24+00:00",
+      "summary": "男性常忽略7個健康徵兆 日後恐付出代價&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEQzE3dFpHcWRQZTREd2Jqdkx3RWVUUnVWaGhQYUsxQURoMERLYzY2UlpmVmU1TFp3LUpXMzZDcUNQcVNHMTVqMy1SWXpPc2Eyb0hnTmFVUVFDdThiYUNJUGxR0gFnQVVfeXFMT01Jc2Zsa0pKUktJcDA0ekhzbnphZEdmeFVKOUJyWjV6bWJWNzk5dTdOQ3ZZWjlNcWlVdkhldVVkTjg2MDhUbFJ2ak9oWmRYN2VmRElNQjQtZXZrRWY1WUdlTlhPUEM5Yw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "074129afdc5a",
       "title": "適時接種疫苗守護下一代 衞生署籲維持高接種率防麻疹爆發 - 巴士的報",
       "published": "2026-08-13T01:28:56+00:00",
@@ -184,25 +220,13 @@
       ]
     },
     {
-      "id": "037fe13bd7e0",
-      "title": "7個男性常忽略健康徵兆 日後恐付出代價 - 世界新聞網",
-      "published": "2026-08-13T19:20:24+00:00",
-      "summary": "7個男性常忽略健康徵兆 日後恐付出代價&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEQzE3dFpHcWRQZTREd2Jqdkx3RWVUUnVWaGhQYUsxQURoMERLYzY2UlpmVmU1TFp3LUpXMzZDcUNQcVNHMTVqMy1SWXpPc2Eyb0hnTmFVUVFDdThiYUNJUGxR0gFnQVVfeXFMT01Jc2Zsa0pKUktJcDA0ekhzbnphZEdmeFVKOUJyWjV6bWJWNzk5dTdOQ3ZZWjlNcWlVdkhldVVkTjg2MDhUbFJ2ak9oWmRYN2VmRElNQjQtZXZrRWY1WUdlTlhPUEM5Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "736a12db50f9",
-      "title": "驗眼不只配眼鏡：看懂糖尿病與高血壓警訊 - epochtimes.com",
+      "id": "5c6fd25e8e5d",
+      "title": "驗眼不只配眼鏡：看懂糖尿病與高血壓警訊 - 大纪元",
       "published": "2026-08-12T23:11:00+00:00",
-      "summary": "驗眼不只配眼鏡：看懂糖尿病與高血壓警訊&nbsp;&nbsp;epochtimes.com",
+      "summary": "驗眼不只配眼鏡：看懂糖尿病與高血壓警訊&nbsp;&nbsp;大纪元",
       "sources": [
         {
-          "name": "epochtimes.com",
+          "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIb20tX1QyODBoMEVGNWEwSTdLLS1vNkcxR0NLbTRRQzFyNHhKanpUeHkwSGtXZVpIaGhNclRHdEdDUTU4MV9EcXc3aGZFVUo3MnNOanNNOFJ3aVQ2cTZKQ9IBZkFVX3lxTFBGalJRWUxEYnJidEdEa3ZYNHdkRGpKdVZGWTJmVUNhcDlIRC1vZ0llZUd5NlNRVmFrOVd6MWM0aldfZ1NjcURJXzdTVFBseHMyTWdUYjN6dWtnSHR5X0dxWTF1clpHZw?oc=5"
         }
       ]

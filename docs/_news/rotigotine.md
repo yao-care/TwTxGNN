@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rotigotine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,7 @@ permalink: /news/rotigotine/
 <li><strong>證據等級</strong>：L4</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>attention deficit-hyperactivity disorder（100.0%）</li>
-<li>schizophrenia（100.0%）</li>
+<li class="indication-matched">schizophrenia（100.0%）<span class="indication-tag">📰 思覺失調症</span></li>
 <li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis（100.0%）</li>
 <li>faciodigitogenital syndrome（100.0%）</li>
 <li>congenital disorder of glycosylation with defective fucosylation（100.0%）</li>
@@ -42,9 +42,15 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [史上最完整思覺失調症基因圖譜問世，AI 發威助解全球 2,300 萬人病理謎團 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ScEo3Nmc2ZkEydENPczYxTng2ZklCTnR6TzZJVnkwQ0laU1ZWOF96QXZkM1ByYUstd1dKUUQ2MUZYa1R6T1JIdHZyN2QxSUdiQm5ZMnZZUGNqSlNyMXBwbHJEdWROYVU?oc=5)
+
+2026-08-13 <span class="news-indication-tag">思覺失調症</span>
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ScEo3Nmc2ZkEydENPczYxTng2ZklCTnR6TzZJVnkwQ0laU1ZWOF96QXZkM1ByYUstd1dKUUQ2MUZYa1R6T1JIdHZyN2QxSUdiQm5ZMnZZUGNqSlNyMXBwbHJEdWROYVU?oc=5)
+
+---
 
 
 <div class="disclaimer">
