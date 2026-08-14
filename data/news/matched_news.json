@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-08-14T08:58:47.233656+00:00",
-  "total_count": 29,
+  "last_updated": "2026-08-14T10:02:16.466452+00:00",
+  "total_count": 30,
   "matched_count": 9,
   "news": [
+    {
+      "id": "6726c552a54e",
+      "title": "長期吃類固醇恐骨鬆 連續用藥滿三個月應評估保骨",
+      "published": "2026-08-14T09:21:52+00:00",
+      "summary": "長期吃類固醇恐骨鬆 連續用藥滿三個月應評估保骨&nbsp;&nbsp;Yahoo新聞類固醇吃超過3個月恐骨質流失 醫師提醒治療同步保骨防骨折&nbsp;&nbsp;自由健康網7旬嬤腰痠背痛暗藏骨質疏鬆危機！醫揭「這1檢查」重要性與日常防範&nbsp;&nbsp;Yahoo新聞類固醇吃逾3個月小心骨頭變脆 嘉基醫師：骨鬆不是老人專利&nbsp;&nbsp;UDN骨折不是老人專利！類固醇吃超過3個月 小心骨頭變脆 | 中廣新聞網&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQbElwektKS29jMXIwblpyZzRjdTJ6d2VNUmhEMGhZNFN5LVBNbXhtVUphVWp5djk5YWgwTzQ0Zlk5NTUxenN3bFlkamFLTEN5NmdoVGlseDRGbmg4eXFHNmVtNHVjS2M2MVJiLWk5c0FvVE9fdWkxaUdPVEdiNm40czl1SGRhb1RHT3pIRzRvZGt1NmRtWGZoVWt2ckdNdk40V3dxRnc3cUdMdmFoOXkwN2FGSE9Ua005ZUItakhpRU9VRE9mYUtORU9NSUg5MHpzS0N1WmN2TlI4RnJ2amwyQWczclQ4aUFrZ1VWN2xPSXNQRkQ3RUs2SkEwYk0tUExrNm1HTkFXa1J1bXp3NS14T0owUW9fcExoY196NV9jMFpuMV8ySklGY3JRVTZ3M0cxMlM0NTI1eUEtYWZCai1yZzRRMVFMUFhGS2hFZXJKZEVNb1NlMVg5c0xVMm4?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9f6f9353d046",
+      "title": "長期暴露交通噪音與巴金森氏症有關！研究：每增11.5分貝 風險相對增3%",
+      "published": "2026-08-14T09:00:00+00:00",
+      "summary": "長期暴露交通噪音與巴金森氏症有關！研究：每增11.5分貝 風險相對增3%&nbsp;&nbsp;健康醫療網",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xaWpwOUptTWpGUVNnY0w4djJDLUNTYUNZUFNNR1pkUjRnaElxV0x5d0g4QmdJNEltaTFGVEotNzg2ZTNHU1hzaFRseGVRbkEwM2QzM2lR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "1527c2eee9b5",
       "title": "新發現：每天吃重複單調的飲食，對減重更有幫助 - Vogue Taiwan",
@@ -17,40 +43,27 @@
       "matched_keywords": []
     },
     {
-      "id": "03961a1db6f2",
-      "title": "身上飄「1味道」小心！醫揭2大警訊 恐是嚴重糖尿病",
-      "published": "2026-08-14T07:22:00+00:00",
-      "summary": "身上飄「1味道」小心！醫揭2大警訊 恐是嚴重糖尿病&nbsp;&nbsp;TVBS新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "bef68c4f3254",
+      "title": "譚敦慈教看身體在求救「你聞起來酸酸的」一查嚴重糖尿病- 健康",
+      "published": "2026-08-14T05:43:39+00:00",
+      "summary": "譚敦慈教看身體在求救「你聞起來酸酸的」一查嚴重糖尿病- 健康&nbsp;&nbsp;中時新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZMExxbWMzU1RZMkhvckl1RnJBOE5pdjNMUUUwcGI3Q0dLeEJpMXBZNDNhUzBERVJtb1RWNk1NUy1lNHhBVVcwdkVjYXI0N0k?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Xd25zQjJUNkE4NzVwckJsQXprdW84RF9BcERMZW1GdmtERFZLUTROTGNyZU03M1J5SDBUdTV0bjM2X1VicTdsR0NSU2x2TDlZSng4Z3ljNE9La0k4MU56dWZsb3NoSHlkNDZwTi1B?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "cff55f3c361f",
-      "title": "嘉基醫師提醒 長期使用類固醇小心骨頭悄悄變脆慎防骨鬆找上門",
-      "published": "2026-08-14T06:47:15+00:00",
-      "summary": "嘉基醫師提醒 長期使用類固醇小心骨頭悄悄變脆慎防骨鬆找上門&nbsp;&nbsp;台灣好報類固醇吃超過3個月恐骨質流失 醫師提醒治療同步保骨防骨折&nbsp;&nbsp;自由健康網7旬嬤腰痠背痛暗藏骨質疏鬆危機！醫揭「這1檢查」重要性與日常防範&nbsp;&nbsp;Yahoo新聞骨折不是老人專利！類固醇吃超過3個月 小心骨頭悄悄變脆 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞類固醇吃逾3個月小心骨頭變脆 嘉基醫師：骨鬆不是老人專利&nbsp;&nbsp;udn.com",
-      "sources": [
-        {
-          "name": "台灣好報",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQNDZPMFVVZnhtdTdybWlTaDdiMThfSFg3WGg5WHRXaFlXMDJsVGM3MTZDa3I1YUx2QU9POWFvRVRFTmliVDh6M0kyeVQ2RWhEMWxZ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ebc517b5c4db",
+      "id": "b6e56766446b",
       "title": "不用砸大錢！研究曝「改善3習慣」有助延壽：多活9年",
-      "published": "2026-08-14T03:44:28+00:00",
-      "summary": "不用砸大錢！研究曝「改善3習慣」有助延壽：多活9年&nbsp;&nbsp;Yahoo新聞長壽的關鍵在於「空腹」？揭開諾貝爾獎認證的細胞再生長壽法&nbsp;&nbsp;數位時代每天多花7分鐘就能延壽 研究曝3習慣做好 多活9年&nbsp;&nbsp;中時新聞網最被低估的長壽藥竟是「它」？哈佛專家拆解長壽餐盤：吃對組合很關鍵- 營養好食&nbsp;&nbsp;TVBS 健康2.0想長壽不是少吃肉，而是多吃飯？最新研究推翻迷思：低蛋白、高碳水更健康&nbsp;&nbsp;天下雜誌",
+      "published": "2026-08-14T03:32:53+00:00",
+      "summary": "不用砸大錢！研究曝「改善3習慣」有助延壽：多活9年&nbsp;&nbsp;三立新聞長壽的關鍵在於「空腹」？揭開諾貝爾獎認證的細胞再生長壽法&nbsp;&nbsp;數位時代每天多花7分鐘就能延壽 研究曝3習慣做好 多活9年&nbsp;&nbsp;中時新聞網最被低估的長壽藥竟是「它」？哈佛專家拆解長壽餐盤：吃對組合很關鍵- 營養好食&nbsp;&nbsp;TVBS 健康2.0想長壽不是少吃肉，而是多吃飯？最新研究推翻迷思：低蛋白、高碳水更健康&nbsp;&nbsp;天下雜誌",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOTlFITzd1bDAtZVZ3bzdENUprdVQ1c2pzV2FHS3NkQkRhWXZqV2VZLVo2VUtSTmtjNWRMVmY4eGFGZ3FsYUxwOGtKRlM0QTJKR2twWE8xdFE5R1NrbVhKTXNiejl1dVlyMkN6UEZUbERtbWhNZC1BNjNNRWt2cEwwa0t4RGRVOFVlSTIwdEVUaWdsNkppWGlvNEtBeU9WX2EybU5XVE4tN1BDMTA3RzFTWkF5Tm83NDJBWElxY2JwUWdaZ1RPYWktYWJaWTh1aEdFVThOaG9xdm8yeEpOQXdsaEc1SHVObUp3QmhQNFRUT1dwSlppc3htLUhLc01PYTc0anREaC1TVXpiQWN3eXdUN25rT2pwZkk3Q2s1RURzVHd3S0VTcFdUeU9MX0Fld0s4eEp5MEhDekVUY3lqWkVB?oc=5"
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFX3N1Vjh4b3U4bkhjSmw5Y3p1VmVhRzk2X04yZS1CQi1VbXk4b1I5aDNXLTdoU1RYVHRmV0RQYkp6cmg5SWQ5aUxrR0M?oc=5"
         }
       ],
       "matched_keywords": []
@@ -92,13 +105,13 @@
       ]
     },
     {
-      "id": "2f6eff90fa06",
+      "id": "aa92f8fe43a0",
       "title": "《產業》台歐交流胃食道逆流新標竿助8成患者成功停藥- 產業",
       "published": "2026-08-14T02:49:00+00:00",
-      "summary": "《產業》台歐交流胃食道逆流新標竿助8成患者成功停藥- 產業&nbsp;&nbsp;工商時報",
+      "summary": "《產業》台歐交流胃食道逆流新標竿助8成患者成功停藥- 產業&nbsp;&nbsp;ctee.com.tw",
       "sources": [
         {
-          "name": "工商時報",
+          "name": "ctee.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jekF1VlRBT3NvaVowbnVCaTdyS3JsWC12UXlTQm52eWstRkJlN0k0M1k0MjA1b3B4LUw3OF9uVlJVWVB1YzRJMVNvOW9qQU9yelQ1TmpWWTR6Y3pnUFhz?oc=5"
         }
       ],
