@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-14T20:21:51.128201+00:00",
-  "count": 25,
+  "fetched_at": "2026-08-14T21:16:23.901696+00:00",
+  "count": 26,
   "news": [
-    {
-      "id": "1527c2eee9b5",
-      "title": "新發現：每天吃重複單調的飲食，對減重更有幫助 - Vogue Taiwan",
-      "published": "2026-08-14T07:29:50+00:00",
-      "summary": "新發現：每天吃重複單調的飲食，對減重更有幫助&nbsp;&nbsp;Vogue Taiwan",
-      "sources": [
-        {
-          "name": "Vogue Taiwan",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbV9GREIwVmZLTlRYRTI0XzUyNmpqNGc0QUE5eHVJQk5oZkxub1N5QllKMHBKQ3Nta1VablZvMGNMeW9XRGVrT3RZYWZhQmp1T3lxa3pOUHJEQ2VLdGZwTkVVUEFHTWZiZ1czcDRZck52dkpXQ3BtOHJtcmdYV0ZBUi1VLUJwMjZ5MFZxcmdYNi1RTTQ2b3NLd1ByeXdkdVlfRnBPbUFRRnlLWkVwQ2pheHBJYUJfR3VKUUIwZnFLU2ZxM1dUWnRCbW15UjJjQ19zdGVBU1Z5TFZRR3ZoaXVDMVN2ZDBfTEE?oc=5"
-        }
-      ]
-    },
     {
       "id": "1e0cfb855668",
       "title": "心悸胸悶被當自律神經失調10年！王以路做檢查遭嚴立婷笑虧「裸奔」 - 東森綜合",
@@ -28,13 +16,37 @@
       ]
     },
     {
-      "id": "4e08a7a99031",
-      "title": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制 - TechNews 科技新報",
-      "published": "2026-08-14T16:04:08+00:00",
-      "summary": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制&nbsp;&nbsp;TechNews 科技新報",
+      "id": "1527c2eee9b5",
+      "title": "新發現：每天吃重複單調的飲食，對減重更有幫助 - Vogue Taiwan",
+      "published": "2026-08-14T07:29:50+00:00",
+      "summary": "新發現：每天吃重複單調的飲食，對減重更有幫助&nbsp;&nbsp;Vogue Taiwan",
       "sources": [
         {
-          "name": "TechNews 科技新報",
+          "name": "Vogue Taiwan",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbV9GREIwVmZLTlRYRTI0XzUyNmpqNGc0QUE5eHVJQk5oZkxub1N5QllKMHBKQ3Nta1VablZvMGNMeW9XRGVrT3RZYWZhQmp1T3lxa3pOUHJEQ2VLdGZwTkVVUEFHTWZiZ1czcDRZck52dkpXQ3BtOHJtcmdYV0ZBUi1VLUJwMjZ5MFZxcmdYNi1RTTQ2b3NLd1ByeXdkdVlfRnBPbUFRRnlLWkVwQ2pheHBJYUJfR3VKUUIwZnFLU2ZxM1dUWnRCbW15UjJjQ19zdGVBU1Z5TFZRR3ZoaXVDMVN2ZDBfTEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1fed90e4c77a",
+      "title": "寵物壁虎，竟可能成為破解癌症的重要幫手 - technews.tw",
+      "published": "2026-08-14T16:14:08+00:00",
+      "summary": "寵物壁虎，竟可能成為破解癌症的重要幫手&nbsp;&nbsp;technews.tw",
+      "sources": [
+        {
+          "name": "technews.tw",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0pEWUFnaFRnN3UteTc4TGFlQW1mR3hSVGI5ZXAzbW1wNmpjQUc5b3NEQkkyQTVXc2VudGxDZi05N2hSNktwei1mcUNkMC1hZjM1SkttWXpRMGFhR1dRaHh0VV9WcmtCOUtkaktwSUJHelEwbDRVbUxuWmdDdTh0U0lMbHdGUklXUWYyNkRR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "053eadcdd13d",
+      "title": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制 - technews.tw",
+      "published": "2026-08-14T16:04:08+00:00",
+      "summary": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制&nbsp;&nbsp;technews.tw",
+      "sources": [
+        {
+          "name": "technews.tw",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcEZoWmdsYjZWdEFGTkx1Tm0xTTl2MUZ0M25OQWswN2JNOWNVV0J6QlpTQk9fYzdFa1NwQzhtbkI5S1VMWk95eHE0dnI2T2dJejRfVmRpaG82MmJxOThETnhkV214NzV6UjdpYy03Q20yalk1MDNWZkFiY1JrcHA3eVFqUzdkWnNMbVE?oc=5"
         }
       ]
@@ -64,14 +76,26 @@
       ]
     },
     {
-      "id": "cf32f169728f",
-      "title": "黑死病竟然還存在！ 美團隊研製新型疫苗重大突破 - health.ltn.com.tw",
+      "id": "ec0be83cb961",
+      "title": "黑死病竟然還存在！ 美團隊研製新型疫苗重大突破 - 自由健康網",
       "published": "2026-08-14T14:08:00+00:00",
-      "summary": "黑死病竟然還存在！ 美團隊研製新型疫苗重大突破&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "黑死病竟然還存在！ 美團隊研製新型疫苗重大突破&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GNVlla2h1NDltX3lPQVlxOWRreXJSdEhGY0lUcGFGQk5wSXlldzRjY1ExdlpzUFRpeEdQbUlFVXpqaGp3U0M5RHFRMEg2WkQteDNNeDFSSDFzRXZNd2tnME5VQjg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dd366167474e",
+      "title": "日服5毫克類固醇小心骨折 規律運動與營養防骨質流失 - 焦點時報",
+      "published": "2026-08-14T09:43:06+00:00",
+      "summary": "日服5毫克類固醇小心骨折 規律運動與營養防骨質流失&nbsp;&nbsp;焦點時報類固醇吃超過3個月恐骨質流失 醫師提醒治療同步保骨防骨折&nbsp;&nbsp;自由健康網7旬嬤腰痠背痛暗藏骨質疏鬆危機！醫揭「這1檢查」重要性與日常防範&nbsp;&nbsp;Yahoo新聞類固醇吃逾3個月小心骨頭變脆 嘉基醫師：骨鬆不是老人專利&nbsp;&nbsp;udn.com骨折不是老人專利！類固醇吃超過3個月 小心骨頭變脆 | 中廣新聞網&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "焦點時報",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3d3F6YlhLZ3lIVnhLWHcwSm5nQUpNRDRMQmtVRU1zWlhFZHRmNWJCOGNSRnNzT3lGemx4V0N6elFGZG15TEk0Tk93ZHI4dXl4WkdmRklxOA?oc=5"
         }
       ]
     },
@@ -88,22 +112,10 @@
       ]
     },
     {
-      "id": "dd366167474e",
-      "title": "日服5毫克類固醇小心骨折 規律運動與營養防骨質流失 - 焦點時報",
-      "published": "2026-08-14T09:43:06+00:00",
-      "summary": "日服5毫克類固醇小心骨折 規律運動與營養防骨質流失&nbsp;&nbsp;焦點時報類固醇吃超過3個月恐骨質流失 醫師提醒治療同步保骨防骨折&nbsp;&nbsp;health.ltn.com.tw7旬嬤腰痠背痛暗藏骨質疏鬆危機！醫揭「這1檢查」重要性與日常防範&nbsp;&nbsp;Yahoo新聞類固醇吃逾3個月小心骨頭變脆 嘉基醫師：骨鬆不是老人專利&nbsp;&nbsp;UDN骨折不是老人專利！類固醇吃超過3個月 小心骨頭變脆 | 中廣新聞網&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "焦點時報",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3d3F6YlhLZ3lIVnhLWHcwSm5nQUpNRDRMQmtVRU1zWlhFZHRmNWJCOGNSRnNzT3lGemx4V0N6elFGZG15TEk0Tk93ZHI4dXl4WkdmRklxOA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b6e56766446b",
       "title": "不用砸大錢！研究曝「改善3習慣」有助延壽：多活9年 - 三立新聞",
       "published": "2026-08-14T03:32:53+00:00",
-      "summary": "不用砸大錢！研究曝「改善3習慣」有助延壽：多活9年&nbsp;&nbsp;三立新聞長壽的關鍵在於「空腹」？揭開諾貝爾獎認證的細胞再生長壽法&nbsp;&nbsp;數位時代每天多花7分鐘就能延壽 研究曝3習慣做好 多活9年&nbsp;&nbsp;中時新聞網最被低估的長壽藥竟是「它」？哈佛專家拆解長壽餐盤：吃對組合很關鍵- 營養好食&nbsp;&nbsp;TVBS 健康2.0長壽｜研究：每日7分鐘改善3習慣多活10年 進階版增4年無病壽命&nbsp;&nbsp;香港01",
+      "summary": "不用砸大錢！研究曝「改善3習慣」有助延壽：多活9年&nbsp;&nbsp;三立新聞長壽的關鍵在於「空腹」？揭開諾貝爾獎認證的細胞再生長壽法&nbsp;&nbsp;數位時代每天多花7分鐘就能延壽 研究曝3習慣做好 多活9年&nbsp;&nbsp;中時新聞網最被低估的長壽藥竟是「它」？哈佛專家拆解長壽餐盤：吃對組合很關鍵- 營養好食&nbsp;&nbsp;health.tvbs.com.tw長壽｜研究：每日7分鐘改善3習慣多活10年 進階版增4年無病壽命&nbsp;&nbsp;香港01",
       "sources": [
         {
           "name": "三立新聞",
@@ -112,25 +124,25 @@
       ]
     },
     {
-      "id": "9973e88b36c3",
-      "title": "史上最完整思覺失調症基因圖譜問世，AI 發威助解全球 2,300 萬人病理謎團 - TechNews 科技新報",
+      "id": "294cd1bf7c0e",
+      "title": "史上最完整思覺失調症基因圖譜問世，AI 發威助解全球 2,300 萬人病理謎團 - technews.tw",
       "published": "2026-08-13T23:35:40+00:00",
-      "summary": "史上最完整思覺失調症基因圖譜問世，AI 發威助解全球 2,300 萬人病理謎團&nbsp;&nbsp;TechNews 科技新報",
+      "summary": "史上最完整思覺失調症基因圖譜問世，AI 發威助解全球 2,300 萬人病理謎團&nbsp;&nbsp;technews.tw",
       "sources": [
         {
-          "name": "TechNews 科技新報",
+          "name": "technews.tw",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ScEo3Nmc2ZkEydENPczYxTng2ZklCTnR6TzZJVnkwQ0laU1ZWOF96QXZkM1ByYUstd1dKUUQ2MUZYa1R6T1JIdHZyN2QxSUdiQm5ZMnZZUGNqSlNyMXBwbHJEdWROYVU?oc=5"
         }
       ]
     },
     {
-      "id": "88ae1033db41",
-      "title": "夏天不敢抬手？醫揭「5大腋下暗沉地雷」：美白成分這樣挑 - TVBS新聞網",
+      "id": "ede30959df64",
+      "title": "夏天不敢抬手？醫揭「5大腋下暗沉地雷」：美白成分這樣挑 - news.tvbs.com.tw",
       "published": "2026-08-14T01:42:00+00:00",
-      "summary": "夏天不敢抬手？醫揭「5大腋下暗沉地雷」：美白成分這樣挑&nbsp;&nbsp;TVBS新聞網",
+      "summary": "夏天不敢抬手？醫揭「5大腋下暗沉地雷」：美白成分這樣挑&nbsp;&nbsp;news.tvbs.com.tw",
       "sources": [
         {
-          "name": "TVBS新聞網",
+          "name": "news.tvbs.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVUi0zdk85NWdBS3lKR3NLaWJDbDlxa1h5cTFjZmVpODY1VjI0SXZEZTVLNF9OOVNCSnAtajdLVjZxVXAwYWJ0ZmJEbm1HQQ?oc=5"
         }
       ]
@@ -160,13 +172,13 @@
       ]
     },
     {
-      "id": "99d97a71a2cc",
-      "title": "抗癌免疫新發現 特殊細胞助T細胞對抗腫瘤 - health.ltn.com.tw",
+      "id": "906f70434668",
+      "title": "抗癌免疫新發現 特殊細胞助T細胞對抗腫瘤 - 自由健康網",
       "published": "2026-08-13T06:53:00+00:00",
-      "summary": "抗癌免疫新發現 特殊細胞助T細胞對抗腫瘤&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "抗癌免疫新發現 特殊細胞助T細胞對抗腫瘤&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SbVR4R3JkUmk0LWNQamFta1h0RnFnVEpCRkZFaTRKMGJxZ0dDY09hNU14cTBtaXkxZXlPZlR6OVdRQlFoU255RWRESmdkVjVfSndFc2t4Y3dGNnB2VGdiVlN1M0s?oc=5"
         }
       ]
@@ -208,14 +220,14 @@
       ]
     },
     {
-      "id": "e0f9d747a19c",
-      "title": "寵物壁虎，竟可能成為破解癌症的重要幫手 - TechNews 科技新報",
-      "published": "2026-08-14T16:14:08+00:00",
-      "summary": "寵物壁虎，竟可能成為破解癌症的重要幫手&nbsp;&nbsp;TechNews 科技新報",
+      "id": "0124937eb1b3",
+      "title": "福建男受訪「冇頸」離奇外貌曝光 撞樣派大星遭疑AI生成 專家揭或患1 罕見病 - 巴士的報",
+      "published": "2026-08-14T20:40:46+00:00",
+      "summary": "福建男受訪「冇頸」離奇外貌曝光 撞樣派大星遭疑AI生成 專家揭或患1 罕見病&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0pEWUFnaFRnN3UteTc4TGFlQW1mR3hSVGI5ZXAzbW1wNmpjQUc5b3NEQkkyQTVXc2VudGxDZi05N2hSNktwei1mcUNkMC1hZjM1SkttWXpRMGFhR1dRaHh0VV9WcmtCOUtkaktwSUJHelEwbDRVbUxuWmdDdTh0U0lMbHdGUklXUWYyNkRR?oc=5"
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPc3R2OGU4eEJCdzgxMmFqUFc2RGNob2pkNERhRnRpS0FQd2NzLTJIYUo1RmhIUmlLcjVXYVVkR3pHVTVGNy1XWHQtZWVjNkRiZkstWHV2NmY1RTl2dTFXb2lJcFY4aDgtcENnRWhDQXgxYkxkeGxiRGUtSi1YTGg5Sm9IcW5BRlprYlRKdkcxY240aTNLVW9kdHBfaWNEbmJ2T0FuVGFJQnlYbkVCcVlNaFpJcUVTbURkWndNZm9TMVh0MGx5RjBvNVVhNmhPa19OU0JLNHIzOXBJdFNkb1NpcG1SRlZ1RC1zVWt3YkZjdnc1WUZQMWcxMkFiUVgzOEZpOTdCdllLQy1vYVh5cWNleGJVaGhVVk92YUJKbUsybVZ1a1psR2xpMC1fRzFFSFJ3NW9ocmw0UUpZekNkRlhsc2wzcktmdjNsNnRQRnFPNm56VXdFbW4tM1o2Zlc0UWZWY2IxOHM5Y3ZvOUlYaVhXeQ?oc=5"
         }
       ]
     },
@@ -292,13 +304,13 @@
       ]
     },
     {
-      "id": "ad3a0fea99d6",
-      "title": "適時接種疫苗守護下一代 衞生署籲維持高接種率防麻疹爆發 - bastillepost.com",
+      "id": "074129afdc5a",
+      "title": "適時接種疫苗守護下一代 衞生署籲維持高接種率防麻疹爆發 - 巴士的報",
       "published": "2026-08-13T01:28:56+00:00",
-      "summary": "適時接種疫苗守護下一代 衞生署籲維持高接種率防麻疹爆發&nbsp;&nbsp;bastillepost.com",
+      "summary": "適時接種疫苗守護下一代 衞生署籲維持高接種率防麻疹爆發&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNc3FSNktXUEh6WkNIN0hrVnJMOHJBbGludzkyU1k4QmZuUF9SSmdxQVFjN3c4V2pTUmplNk9UN0ZHaTFzUkd2SGJNRFB6MTU4OTBPWlVIOUg4cFpuYXJRZ3JSZm5Pa1hTX2NCN2pBSFRZcVM5WHVGcVJvSGhweTRIVi1ENDZDODZ1MS1HNTJmY2VWbUNGYlVVOURKRlBTMnc0NDc3QVNRS1V3aE5VYS1pUDh5Wkg1STdqNjZscUpKWEZTSmFEY3ZJaTY0TDA5aHJBSGZEd2JRNzlwenczdDhYc2JOM2ljYkVfZWxPRDZETXliRnlPQ3pONlFDTXZ3a3NjME01ZFc0UVZMLVVkZWR4TWlndjlRd3U2NTFkUmhnYTNtbTdYdzlNb2YtNEo5akxyTDVrRjJyNmQtbEVTV25sbVRKWm9tMk9qXzJtaVpIUkJiZ1ZRODdrX256MXYtNGppVWs3WUFjODlYVHlONmVN?oc=5"
         }
       ]
