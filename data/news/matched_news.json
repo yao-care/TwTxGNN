@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-08-14T05:27:35.421379+00:00",
-  "total_count": 28,
+  "last_updated": "2026-08-14T07:10:04.196613+00:00",
+  "total_count": 26,
   "matched_count": 9,
   "news": [
+    {
+      "id": "16e49aa34e20",
+      "title": "嘉基醫師提醒 長期使用類固醇小心骨頭悄悄變脆慎防骨鬆找上門",
+      "published": "2026-08-14T06:47:15+00:00",
+      "summary": "嘉基醫師提醒 長期使用類固醇小心骨頭悄悄變脆慎防骨鬆找上門&nbsp;&nbsp;newstaiwan.net前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "newstaiwan.net",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQNDZPMFVVZnhtdTdybWlTaDdiMThfSFg3WGg5WHRXaFlXMDJsVGM3MTZDa3I1YUx2QU9POWFvRVRFTmliVDh6M0kyeVQ2RWhEMWxZ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "ebc517b5c4db",
       "title": "不用砸大錢！研究曝「改善3習慣」有助延壽：多活9年",
@@ -17,17 +30,40 @@
       "matched_keywords": []
     },
     {
-      "id": "680cc6584011",
-      "title": "類固醇吃超過3個月恐骨質流失 醫師提醒治療同步保骨防骨折",
-      "published": "2026-08-14T02:48:00+00:00",
-      "summary": "類固醇吃超過3個月恐骨質流失 醫師提醒治療同步保骨防骨折&nbsp;&nbsp;自由健康網7旬嬤腰痠背痛暗藏骨質疏鬆危機！醫揭「這1檢查」重要性與日常防範&nbsp;&nbsp;Yahoo新聞骨折不是老人專利！類固醇吃超過3個月 小心骨頭悄悄變脆 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞類固醇吃逾3個月小心骨頭變脆 嘉基醫師：骨鬆不是老人專利&nbsp;&nbsp;UDN骨折不是老人專利！類固醇吃超過3個月 小心骨頭變脆&nbsp;&nbsp;Life 生活網",
+      "id": "0a588fe5efe4",
+      "title": "護心幫到手 經常進食1類蔬果 心血管疾病風險降26%",
+      "published": "2026-08-14T03:30:00+00:00",
+      "summary": "護心幫到手 經常進食1類蔬果 心血管疾病風險降26%&nbsp;&nbsp;am730.com.hk藍莓成熟後花青素暴增！專家教1盆水揀超甜藍莓＋挑選4招非大就好&nbsp;&nbsp;香港01健康飲食｜血管老化恐傷心/腦/腎/眼 醫生推薦7大血管逆齡食物 心血管病死亡率大降25%&nbsp;&nbsp;晴報 Sky Post壓力也傷心臟 飲食、運動降風險&nbsp;&nbsp;世界新聞網冷凍藍莓爆搶購潮！ 是超級食物還是智商稅？ 花青素實證好處一次看懂&nbsp;&nbsp;Life 生活網",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80NnUwUlJZOWxrQ1RRd0xJd0duSi1WUFpkOGNpeVFxV0FxdmRnb0lTa0lOSFhKNUgtS0stSHd0UGtnTUV6WC1yc0NHaWQ3MWwydUVfZzlZaDhZN1RHakFuQTlXX3Y?oc=5"
+          "name": "am730.com.hk",
+          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNcE1yMVpyOVdwZWt5Tlk5X1NhNlZ6YzhWV1ZSNURsQ195RElWSnotWVpORFh5eUY3QktNVGJ1aFJQNjhBNWFmWWlZV3ZUVkhlc3hfTFlIWUJXMWN1anBCUEVudkE1MGVjcVB5RjFZcjdqVXRSdi1qNFZGc2hQOXFGSGlpRzlFN3hsZmwyd1ZFYjNfWnZIV0pzS0NKZEE2RGVnLXlJS2U5d1ZuWmR5R29QNFMxZDByMkRfOEMxV0RuQ3RaZy1lT2NVMlhKWVlFWmxucmF2MFBVb3BlY01nUHRlaFZic1VFWUNac2c3SGNZVE9RMnBpUFVwRWhobjFSMEpBdUM5LUZ6Rjg5WU56Tk9oRklERkhka0JRdDF3a0p3OHhLNTVKYzNVT2tzWlRlUEcyVno1Vm93NE1OZjM5aDdVVTUxRGxxWjU2Nk5lcU8tVzd0RGc2VXdhQ2hR?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "54bf9704cac0",
@@ -278,13 +314,13 @@
       "matched_keywords": []
     },
     {
-      "id": "9973e88b36c3",
-      "title": "史上最完整思覺失調症基因圖譜問世，AI 發威助解全球 2,300 萬人病理謎團 - TechNews 科技新報",
+      "id": "294cd1bf7c0e",
+      "title": "史上最完整思覺失調症基因圖譜問世，AI 發威助解全球 2,300 萬人病理謎團",
       "published": "2026-08-13T23:35:40+00:00",
-      "summary": "史上最完整思覺失調症基因圖譜問世，AI 發威助解全球 2,300 萬人病理謎團&nbsp;&nbsp;TechNews 科技新報",
+      "summary": "史上最完整思覺失調症基因圖譜問世，AI 發威助解全球 2,300 萬人病理謎團&nbsp;&nbsp;technews.tw",
       "sources": [
         {
-          "name": "TechNews 科技新報",
+          "name": "technews.tw",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ScEo3Nmc2ZkEydENPczYxTng2ZklCTnR6TzZJVnkwQ0laU1ZWOF96QXZkM1ByYUstd1dKUUQ2MUZYa1R6T1JIdHZyN2QxSUdiQm5ZMnZZUGNqSlNyMXBwbHJEdWROYVU?oc=5"
         }
       ],
@@ -613,19 +649,6 @@
       ]
     },
     {
-      "id": "4aa125c3ade6",
-      "title": "骨折可以打 PRP 加速修復？ 醫揭4警訊：拖久恐錯過治療時機",
-      "published": "2026-08-13T06:07:52+00:00",
-      "summary": "骨折可以打 PRP 加速修復？ 醫揭4警訊：拖久恐錯過治療時機&nbsp;&nbsp;經濟日報",
-      "sources": [
-        {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lNmRQYWhPVkRZVzFja1VRbmVab3BYc05xeXpKSmVXWDdKblgtaXdLZ091WWRrZmxuV3ZrdmhfdnIyZWM5Z1pEV0RRN0tmQllESDB4QTlOUElkRFc50gFiQVVfeXFMUEJvUUp6VDI3Ykk0bWcyUXI2MmhUdENPT3FDMnpTbHVKeG9hRlZHZUNuMl8wVkU4X0NScXNwbEZwekdzMHZnT21Sa0NWbzI5c0tQTlFiSXU3NWRmRTVibnhzTlE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "5947010befe5",
       "title": "今天不情勒！多鄰國秒恢復男童300天登入紀錄 酸民求救被無情拒絕",
       "published": "2026-08-13T04:12:44+00:00",
@@ -652,38 +675,13 @@
       "matched_keywords": []
     },
     {
-      "id": "e1ab85b1baa5",
-      "title": "健康飲食｜血管老化恐傷心/腦/腎/眼 醫生推薦7大血管逆齡食物 心血管病死亡率大降25% - 晴報 Sky Post",
-      "published": "2026-08-13T02:51:44+00:00",
-      "summary": "健康飲食｜血管老化恐傷心/腦/腎/眼 醫生推薦7大血管逆齡食物 心血管病死亡率大降25%&nbsp;&nbsp;晴報 Sky Post藍莓成熟後花青素暴增！專家教1盆水揀超甜藍莓＋挑選4招非大就好&nbsp;&nbsp;香港01壓力也傷心臟 飲食、運動降風險&nbsp;&nbsp;世界新聞網冷凍藍莓爆搶購潮！ 是超級食物還是智商稅？ 花青素實證好處一次看懂&nbsp;&nbsp;Life 生活網",
-      "sources": [
-        {
-          "name": "晴報 Sky Post",
-          "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxNY2hwOWtMZUlDSVEzTE5TQ0lIdjJybDdZRWJacGh2aGxPRW8yUmlLa1NJaUhFVHdNNW9jZjM5M2FxSUhmMVVQOUZ0NGtTLWp2N2lrQ2JhVVJ3aFg2em4zWVdHTDhUTjZuQWwzSGtOMF9FcDRGWTFKakJOOW85S2VEdi1uc1A3djNicXpyNzVVTjVqMmpHcDI5WXJNdVpEcnlzblhXLVlnVzhiNmxsN1hiaTlyVV9LaXRuM0hBaEJsU3pDcGt6anBwbEZNSW05MDA4enFqQURpelU2QUFNZlFPWGp6TkRSMURTeGlnak5wYlp6S2FiYVZJVVlSZkM4YnZiS3VjLW1vODNYOGRyVkxpVF90dHBpUno5blVfZjE1cFFNdWN6bnJkWUdYdW5oWGZ2b3l3NzcyNlJValRmZzJDWjlXMVhUNnhHZWdPU1EwWXhMVlZfTTNTZ3FfeXlXMHZNRHFEV0tXUGkzalJtYkJwb0VVSHlad2E3SUQyYVFLS2RRRVlSTGN0LTR1VWtDbFdyZFNDc2FpTzFUZUpnOG4zZzg2bTE1UWZ5TE9lUGFNbnZTbkRtTTZwcWpDaTRZN1cxX0VzWHhLcEp2c3BPNVR2QWs0QkFGNm1Fdkh0WWQ1dU1JSUI4dXJ4YkpsNFVFYUk?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "074129afdc5a",
+      "id": "ad3a0fea99d6",
       "title": "適時接種疫苗守護下一代 衞生署籲維持高接種率防麻疹爆發",
       "published": "2026-08-13T01:28:56+00:00",
-      "summary": "適時接種疫苗守護下一代 衞生署籲維持高接種率防麻疹爆發&nbsp;&nbsp;巴士的報",
+      "summary": "適時接種疫苗守護下一代 衞生署籲維持高接種率防麻疹爆發&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNc3FSNktXUEh6WkNIN0hrVnJMOHJBbGludzkyU1k4QmZuUF9SSmdxQVFjN3c4V2pTUmplNk9UN0ZHaTFzUkd2SGJNRFB6MTU4OTBPWlVIOUg4cFpuYXJRZ3JSZm5Pa1hTX2NCN2pBSFRZcVM5WHVGcVJvSGhweTRIVi1ENDZDODZ1MS1HNTJmY2VWbUNGYlVVOURKRlBTMnc0NDc3QVNRS1V3aE5VYS1pUDh5Wkg1STdqNjZscUpKWEZTSmFEY3ZJaTY0TDA5aHJBSGZEd2JRNzlwenczdDhYc2JOM2ljYkVfZWxPRDZETXliRnlPQ3pONlFDTXZ3a3NjME01ZFc0UVZMLVVkZWR4TWlndjlRd3U2NTFkUmhnYTNtbTdYdzlNb2YtNEo5akxyTDVrRjJyNmQtbEVTV25sbVRKWm9tMk9qXzJtaVpIUkJiZ1ZRODdrX256MXYtNGppVWs3WUFjODlYVHlONmVN?oc=5"
         }
       ],
@@ -869,19 +867,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "fef76adcce51",
-      "title": "60歲男狂喝「1果汁」控糖竟送急診！醫警告：5大食物吃錯恐傷腎傷身",
-      "published": "2026-08-12T06:58:00+00:00",
-      "summary": "60歲男狂喝「1果汁」控糖竟送急診！醫警告：5大食物吃錯恐傷腎傷身&nbsp;&nbsp;三立新聞網SETN.com前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIclFDaVZTd29kSEJ1ajlyckxROGJELVdKZy1ZWXRybHBCaFA3cjJ3UWh5SWZoUlliUU53OWQ3dUZXelZlS0lnWNIBTEFVX3lxTFBzTTUtOGZxYVNCM3FOSWNQUVVlaV9RRkRqeVFzaG9qdUNDWFlzZ0lfMmViejB4Zl83U0J0eFRoWXlmT1RoU05NTkI2dm0?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
