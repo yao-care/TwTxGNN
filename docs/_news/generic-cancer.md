@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "腫瘤（generic_cancer） 相關新聞"
+title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "腫瘤（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
-# 腫瘤（generic_cancer） 相關新聞
+# 癌症（generic_cancer） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="腫瘤（generic_cancer） 有什麼相關新聞？">
-<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「腫瘤」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「癌症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,7 +75,15 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [寵物壁虎，竟可能成為破解癌症的重要幫手 - TechNews 科技新報](https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0pEWUFnaFRnN3UteTc4TGFlQW1mR3hSVGI5ZXAzbW1wNmpjQUc5b3NEQkkyQTVXc2VudGxDZi05N2hSNktwei1mcUNkMC1hZjM1SkttWXpRMGFhR1dRaHh0VV9WcmtCOUtkaktwSUJHelEwbDRVbUxuWmdDdTh0U0lMbHdGUklXUWYyNkRR?oc=5)
+
+2026-08-14
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0pEWUFnaFRnN3UteTc4TGFlQW1mR3hSVGI5ZXAzbW1wNmpjQUc5b3NEQkkyQTVXc2VudGxDZi05N2hSNktwei1mcUNkMC1hZjM1SkttWXpRMGFhR1dRaHh0VV9WcmtCOUtkaktwSUJHelEwbDRVbUxuWmdDdTh0U0lMbHdGUklXUWYyNkRR?oc=5)
+
+---
 
 ### [血液腫瘤患者感染兇手是誰？醫師解析發燒警訊與 mNGS 檢測](https://news.google.com/rss/articles/CBMi8AJBVV95cUxOelZtbzlUMXlGTUpab25ZbkI2NkxzYUk3WThEdDNxZlR1QmdnRThvT01fT040clFmdjZ1TEdlSld4TWowdFdITUNiZnlvWWpUOUJQc0lCdE1sTnNpLURIZXkwcVk1Z0h6WFdPR1ZybmcyZWtqZjdGcU1vOTVQUnh0RDU0czBUNk5XTnlzMVBBZllfaEV4U1VDdGlhbEU2dHhYcFg4QS1pYkdMV3VaSDg1aFhBVW9zSVc1TnNxV3FjZ0tzVzNQTFQxSnNGU0RSM0FNZmpjd0hXWjA5QUVvUzdLbVBtNi0zeVhUVzhZYWYzS0hJLTczUTViUWFRQ01OLWJKQnZ3anpSZXRLODJwdHhSN0pWRkkxUmxrcUFYblcwRFVyVXZkbGl0SE1Kdng5VGpTa0JoUnUyVk1mYlVtQV9UaG9SblJBYWZSQjdqT21JRmVBaVRLSmJEWGZnYkhoc2tRV2hkbGF0VEFLemp6Nmt3ag?oc=5)
 

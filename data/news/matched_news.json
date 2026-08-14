@@ -1,8 +1,255 @@
 {
-  "last_updated": "2026-08-14T15:42:06.469257+00:00",
-  "total_count": 25,
-  "matched_count": 8,
+  "last_updated": "2026-08-14T16:40:53.809943+00:00",
+  "total_count": 27,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "e0f9d747a19c",
+      "title": "寵物壁虎，竟可能成為破解癌症的重要幫手 - TechNews 科技新報",
+      "published": "2026-08-14T16:14:08+00:00",
+      "summary": "寵物壁虎，竟可能成為破解癌症的重要幫手&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0pEWUFnaFRnN3UteTc4TGFlQW1mR3hSVGI5ZXAzbW1wNmpjQUc5b3NEQkkyQTVXc2VudGxDZi05N2hSNktwei1mcUNkMC1hZjM1SkttWXpRMGFhR1dRaHh0VV9WcmtCOUtkaktwSUJHelEwbDRVbUxuWmdDdTh0U0lMbHdGUklXUWYyNkRR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4e08a7a99031",
+      "title": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制 - TechNews 科技新報",
+      "published": "2026-08-14T16:04:08+00:00",
+      "summary": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcEZoWmdsYjZWdEFGTkx1Tm0xTTl2MUZ0M25OQWswN2JNOWNVV0J6QlpTQk9fYzdFa1NwQzhtbkI5S1VMWk95eHE0dnI2T2dJejRfVmRpaG82MmJxOThETnhkV214NzV6UjdpYy03Q20yalk1MDNWZkFiY1JrcHA3eVFqUzdkWnNMbVE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "癲癇",
+          "keyword": "癲癇",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1c3b662ff61d",
+      "title": "精胺酸功能多！協助免疫系統「找到」癌細胞與病毒- 健康",
+      "published": "2026-08-14T15:34:58+00:00",
+      "summary": "精胺酸功能多！協助免疫系統「找到」癌細胞與病毒- 健康&nbsp;&nbsp;chinatimes.com",
+      "sources": [
+        {
+          "name": "chinatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oWXIwSUVkNGNSNnF4aWdDQVo4OGptc29FUjZQOVA0amktcDRHWnpiZzhDQlhCNlo4bEU1U3lXanctNjFidmhtaXZrNjBpQmJhMnc5NjZpMlhIV0djclBFb3B1V1h6dFdtNmliVVFn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "ec0be83cb961",
       "title": "黑死病竟然還存在！ 美團隊研製新型疫苗重大突破",
@@ -265,13 +512,13 @@
       "matched_keywords": []
     },
     {
-      "id": "723038f51573",
+      "id": "b6e56766446b",
       "title": "不用砸大錢！研究曝「改善3習慣」有助延壽：多活9年",
       "published": "2026-08-14T03:32:53+00:00",
-      "summary": "不用砸大錢！研究曝「改善3習慣」有助延壽：多活9年&nbsp;&nbsp;health.setn.com長壽的關鍵在於「空腹」？揭開諾貝爾獎認證的細胞再生長壽法&nbsp;&nbsp;數位時代每天多花7分鐘就能延壽 研究曝3習慣做好 多活9年&nbsp;&nbsp;中時新聞網最被低估的長壽藥竟是「它」？哈佛專家拆解長壽餐盤：吃對組合很關鍵- 營養好食&nbsp;&nbsp;TVBS 健康2.0長壽｜研究：每日7分鐘改善3習慣多活10年 進階版增4年無病壽命&nbsp;&nbsp;香港01",
+      "summary": "不用砸大錢！研究曝「改善3習慣」有助延壽：多活9年&nbsp;&nbsp;三立新聞長壽的關鍵在於「空腹」？揭開諾貝爾獎認證的細胞再生長壽法&nbsp;&nbsp;數位時代每天多花7分鐘就能延壽 研究曝3習慣做好 多活9年&nbsp;&nbsp;chinatimes.com最被低估的長壽藥竟是「它」？哈佛專家拆解長壽餐盤：吃對組合很關鍵- 營養好食&nbsp;&nbsp;TVBS 健康2.0長壽｜研究：每日7分鐘改善3習慣多活10年 進階版增4年無病壽命&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "health.setn.com",
+          "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFX3N1Vjh4b3U4bkhjSmw5Y3p1VmVhRzk2X04yZS1CQi1VbXk4b1I5aDNXLTdoU1RYVHRmV0RQYkp6cmg5SWQ5aUxrR0M?oc=5"
         }
       ],
@@ -281,7 +528,7 @@
       "id": "dccd78e30e38",
       "title": "護心幫到手 經常進食1類蔬果 心血管疾病風險降26%",
       "published": "2026-08-14T03:30:00+00:00",
-      "summary": "護心幫到手 經常進食1類蔬果 心血管疾病風險降26%&nbsp;&nbsp;AM730藍莓成熟後花青素暴增！專家教1盆水揀超甜藍莓＋挑選4招非大就好&nbsp;&nbsp;香港01健康飲食｜血管老化恐傷心/腦/腎/眼 醫生推薦7大血管逆齡食物 心血管病死亡率大降25%&nbsp;&nbsp;晴報 Sky Post壓力也傷心臟 飲食、運動降風險&nbsp;&nbsp;世界新聞網冷凍藍莓爆搶購潮！ 是超級食物還是智商稅？ 花青素實證好處一次看懂&nbsp;&nbsp;Life 生活網",
+      "summary": "護心幫到手 經常進食1類蔬果 心血管疾病風險降26%&nbsp;&nbsp;AM730藍莓成熟後花青素暴增！專家教1盆水揀超甜藍莓＋挑選4招非大就好&nbsp;&nbsp;香港01健康飲食｜血管老化恐傷心/腦/腎/眼 醫生推薦7大血管逆齡食物 心血管病死亡率大降25%&nbsp;&nbsp;晴報 Sky Post壓力也傷心臟 飲食、運動降風險&nbsp;&nbsp;世界新聞網冷凍藍莓爆搶購潮！ 是超級食物還是智商稅？ 花青素實證好處一次看懂&nbsp;&nbsp;life.tw",
       "sources": [
         {
           "name": "AM730",
@@ -340,13 +587,13 @@
       "matched_keywords": []
     },
     {
-      "id": "88ae1033db41",
+      "id": "ede30959df64",
       "title": "夏天不敢抬手？醫揭「5大腋下暗沉地雷」：美白成分這樣挑",
       "published": "2026-08-14T01:42:00+00:00",
-      "summary": "夏天不敢抬手？醫揭「5大腋下暗沉地雷」：美白成分這樣挑&nbsp;&nbsp;TVBS新聞網",
+      "summary": "夏天不敢抬手？醫揭「5大腋下暗沉地雷」：美白成分這樣挑&nbsp;&nbsp;news.tvbs.com.tw",
       "sources": [
         {
-          "name": "TVBS新聞網",
+          "name": "news.tvbs.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVUi0zdk85NWdBS3lKR3NLaWJDbDlxa1h5cTFjZmVpODY1VjI0SXZEZTVLNF9OOVNCSnAtajdLVjZxVXAwYWJ0ZmJEbm1HQQ?oc=5"
         }
       ],
@@ -398,7 +645,7 @@
       "id": "f0fd3d8ce63e",
       "title": "想長壽有秘訣！研究揭中年人必守3大健康生活指標 護腦兼延壽13年",
       "published": "2026-08-13T23:30:00+00:00",
-      "summary": "想長壽有秘訣！研究揭中年人必守3大健康生活指標 護腦兼延壽13年&nbsp;&nbsp;星島頭條防失智2026WHO新指引！空汙入列，未缺營養素「不建議靠維生素、魚油」&nbsp;&nbsp;遠見雜誌中年壞習慣全中！研究驚爆：「這3地雷」沒避開 無失智壽命慘減12.6年&nbsp;&nbsp;health.setn.com不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞高達45%失智可預防！WHO最新指南：日常生活做好「這6件事」就有效&nbsp;&nbsp;天下雜誌",
+      "summary": "想長壽有秘訣！研究揭中年人必守3大健康生活指標 護腦兼延壽13年&nbsp;&nbsp;星島頭條防失智2026WHO新指引！空汙入列，未缺營養素「不建議靠維生素、魚油」&nbsp;&nbsp;遠見雜誌中年壞習慣全中！研究驚爆：「這3地雷」沒避開 無失智壽命慘減12.6年&nbsp;&nbsp;三立新聞不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞高達45%失智可預防！WHO最新指南：日常生活做好「這6件事」就有效&nbsp;&nbsp;天下雜誌",
       "sources": [
         {
           "name": "星島頭條",
@@ -726,13 +973,13 @@
       ]
     },
     {
-      "id": "ad3a0fea99d6",
+      "id": "074129afdc5a",
       "title": "適時接種疫苗守護下一代 衞生署籲維持高接種率防麻疹爆發",
       "published": "2026-08-13T01:28:56+00:00",
-      "summary": "適時接種疫苗守護下一代 衞生署籲維持高接種率防麻疹爆發&nbsp;&nbsp;bastillepost.com",
+      "summary": "適時接種疫苗守護下一代 衞生署籲維持高接種率防麻疹爆發&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNc3FSNktXUEh6WkNIN0hrVnJMOHJBbGludzkyU1k4QmZuUF9SSmdxQVFjN3c4V2pTUmplNk9UN0ZHaTFzUkd2SGJNRFB6MTU4OTBPWlVIOUg4cFpuYXJRZ3JSZm5Pa1hTX2NCN2pBSFRZcVM5WHVGcVJvSGhweTRIVi1ENDZDODZ1MS1HNTJmY2VWbUNGYlVVOURKRlBTMnc0NDc3QVNRS1V3aE5VYS1pUDh5Wkg1STdqNjZscUpKWEZTSmFEY3ZJaTY0TDA5aHJBSGZEd2JRNzlwenczdDhYc2JOM2ljYkVfZWxPRDZETXliRnlPQ3pONlFDTXZ3a3NjME01ZFc0UVZMLVVkZWR4TWlndjlRd3U2NTFkUmhnYTNtbTdYdzlNb2YtNEo5akxyTDVrRjJyNmQtbEVTV25sbVRKWm9tMk9qXzJtaVpIUkJiZ1ZRODdrX256MXYtNGppVWs3WUFjODlYVHlONmVN?oc=5"
         }
       ],
@@ -802,19 +1049,6 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4bDhDMG5fSEJ3UEQ0OV9zS3ZiUHhjSlBNamtQUTZjN01DUTd6WUx5TnhpNHhacjI0ZC11TWhVZV9fQ0M3Wi1ydE5LVWFiV0hobXNhYTNn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "735e260f5cb6",
-      "title": "長期食茶葉蛋會傷腎？專家拆解2大迷思「高鈉是隱藏危機」附安全食用建議",
-      "published": "2026-08-12T15:56:53+00:00",
-      "summary": "長期食茶葉蛋會傷腎？專家拆解2大迷思「高鈉是隱藏危機」附安全食用建議&nbsp;&nbsp;singtao.ca",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxQVjlIMkd0SUtGcGw1UDBEVE5fUGdObXp1OGRXcEtrY0V2dVV4ZTZuc0FaanQwNC1GR2NabzlzOFNmWElWVzltTHVxT2F1NnBKcnVOVmxRLUU3cmtxajFnaXpKY2pmYWlFTjJaSE92S2g4NGlFdjREZmphY3JzXzJlbmRyUkdJelBZQ1A1YVVSUG9SaVdKdVdLX0kxaVk4WXhuT1luZEtrbjkzbnJ5cTFUa1ZGS0x3NnVVcFRUU3Vad19jT0oydUhncGptdXFMYi1Wd1F2X0tQdFNlaElEZURVTVJ2ZVdqbzdnOXczSkxLcFIyZmFyS2lGaHpPMUM1X01OQ0lJV0hHeVFuSjJIcndGS1E5NkNKYUZ1NjlvVlRRRXpRVUF6OERBOWpfdUViYmdGeW9PTklOUHZoRDc5YXpULXJieDlYM2FiV1h4b2JyT0xFR2VVQmd3d1lheDR6Q0pQNVBuT05ITmJjSThXaU9sR2Q2TVJPbUVfUjVmNHJTM2s2VUVHVDdCQ2wwUWlXaVJFX081XzB3MDhZRGJaVDJncHVEbmdCNjZhUnRrZ0dZUjQzZ1o1cWY2ai05NE1sUDd3WDU2Si1GT25PMTRLYmFJejlBUmU2cWV5T25RSExmRVhvOV9LbGRyNU130gGSAUFVX3lxTE9UZDJaVG1VXy1VcEMybGRYZFVkYVJ6Nmd6RFQ3SXdOUklwVXZJd1NDM1pHcHNVS0hQTGJIRmdrX3RIcUU5RGxHRV8xSndnMzVSR0Y4N1ptTlAwdHlKaTN4bzJDQW5TX1E4S29zR09fMm9KVEVFY3oyOFNjYzhZeURSYXN1VnBEQ21pcExWOW9SQUd3?oc=5"
         }
       ],
       "matched_keywords": []
