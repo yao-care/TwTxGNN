@@ -39,11 +39,11 @@ permalink: /news/dementia/
 
 ---
 
-### [肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制 | 科技新報](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfRnNvc1o5VnhXeVA4TVRvTDNJUThFWVBIcWpGN2ZRektDRzVIcWVNRFpscUp0MjF2S2NsZXhzS3NNcDEzR1RaM3FBbWh5cENkNmJ4aEtB?oc=5)
+### [肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfRnNvc1o5VnhXeVA4TVRvTDNJUThFWVBIcWpGN2ZRektDRzVIcWVNRFpscUp0MjF2S2NsZXhzS3NNcDEzR1RaM3FBbWh5cENkNmJ4aEtB?oc=5)
 
 2026-08-13
 
-來源：[today.line.me](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfRnNvc1o5VnhXeVA4TVRvTDNJUThFWVBIcWpGN2ZRektDRzVIcWVNRFpscUp0MjF2S2NsZXhzS3NNcDEzR1RaM3FBbWh5cENkNmJ4aEtB?oc=5)
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfRnNvc1o5VnhXeVA4TVRvTDNJUThFWVBIcWpGN2ZRektDRzVIcWVNRFpscUp0MjF2S2NsZXhzS3NNcDEzR1RaM3FBbWh5cENkNmJ4aEtB?oc=5)
 
 ---
 
