@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-15T05:16:57.736989+00:00",
+  "generated": "2026-08-15T06:21:11.511067+00:00",
   "count": 9,
   "news": [
     {
-      "id": "1fed90e4c77a",
-      "title": "寵物壁虎，竟可能成為破解癌症的重要幫手",
+      "id": "e0f9d747a19c",
+      "title": "寵物壁虎，竟可能成為破解癌症的重要幫手 - TechNews 科技新報",
       "published": "2026-08-14T16:14:08+00:00",
       "sources": [
         {
-          "name": "technews.tw",
+          "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0pEWUFnaFRnN3UteTc4TGFlQW1mR3hSVGI5ZXAzbW1wNmpjQUc5b3NEQkkyQTVXc2VudGxDZi05N2hSNktwei1mcUNkMC1hZjM1SkttWXpRMGFhR1dRaHh0VV9WcmtCOUtkaktwSUJHelEwbDRVbUxuWmdDdTh0U0lMbHdGUklXUWYyNkRR?oc=5"
         }
       ],
@@ -211,12 +211,12 @@
       ]
     },
     {
-      "id": "053eadcdd13d",
-      "title": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制",
+      "id": "4e08a7a99031",
+      "title": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制 - TechNews 科技新報",
       "published": "2026-08-14T16:04:08+00:00",
       "sources": [
         {
-          "name": "technews.tw",
+          "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcEZoWmdsYjZWdEFGTkx1Tm0xTTl2MUZ0M25OQWswN2JNOWNVV0J6QlpTQk9fYzdFa1NwQzhtbkI5S1VMWk95eHE0dnI2T2dJejRfVmRpaG82MmJxOThETnhkV214NzV6UjdpYy03Q20yalk1MDNWZkFiY1JrcHA3eVFqUzdkWnNMbVE?oc=5"
         }
       ],
@@ -235,13 +235,76 @@
       ]
     },
     {
-      "id": "f273e5e552d1",
-      "title": "血液腫瘤患者感染兇手是誰？醫師解析發燒警訊與 mNGS 檢測",
-      "published": "2026-08-14T14:00:00+00:00",
+      "id": "128d9e3fd99c",
+      "title": "史上最完整思覺失調症基因圖譜問世，AI 發威助解全球 2,300 萬人病理謎團 | 科技新報 - LINE TODAY",
+      "published": "2026-08-14T08:50:04+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOelZtbzlUMXlGTUpab25ZbkI2NkxzYUk3WThEdDNxZlR1QmdnRThvT01fT040clFmdjZ1TEdlSld4TWowdFdITUNiZnlvWWpUOUJQc0lCdE1sTnNpLURIZXkwcVk1Z0h6WFdPR1ZybmcyZWtqZjdGcU1vOTVQUnh0RDU0czBUNk5XTnlzMVBBZllfaEV4U1VDdGlhbEU2dHhYcFg4QS1pYkdMV3VaSDg1aFhBVW9zSVc1TnNxV3FjZ0tzVzNQTFQxSnNGU0RSM0FNZmpjd0hXWjA5QUVvUzdLbVBtNi0zeVhUVzhZYWYzS0hJLTczUTViUWFRQ01OLWJKQnZ3anpSZXRLODJwdHhSN0pWRkkxUmxrcUFYblcwRFVyVXZkbGl0SE1Kdng5VGpTa0JoUnUyVk1mYlVtQV9UaG9SblJBYWZSQjdqT21JRmVBaVRLSmJEWGZnYkhoc2tRV2hkbGF0VEFLemp6Nmt3ag?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nTTlIcTlQdlY5QWV3X3l3UHZkWnVzdDF5RDhxczBUc3ZSczRrVl9IVEhUbkQ3Vm5RQk12ZVZaNDVKYXJEZVY1ajZGc0FJTm5LanZqLVVn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "schizophrenia",
+          "keyword": "思覺失調症",
+          "related_drugs": [
+            {
+              "slug": "ropinirole",
+              "name": "Ropinirole"
+            },
+            {
+              "slug": "rotigotine",
+              "name": "Rotigotine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dccd78e30e38",
+      "title": "護心幫到手 經常進食1類蔬果 心血管疾病風險降26%",
+      "published": "2026-08-14T03:30:00+00:00",
+      "sources": [
+        {
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNcE1yMVpyOVdwZWt5Tlk5X1NhNlZ6YzhWV1ZSNURsQ195RElWSnotWVpORFh5eUY3QktNVGJ1aFJQNjhBNWFmWWlZV3ZUVkhlc3hfTFlIWUJXMWN1anBCUEVudkE1MGVjcVB5RjFZcjdqVXRSdi1qNFZGc2hQOXFGSGlpRzlFN3hsZmwyd1ZFYjNfWnZIV0pzS0NKZEE2RGVnLXlJS2U5d1ZuWmR5R29QNFMxZDByMkRfOEMxV0RuQ3RaZy1lT2NVMlhKWVlFWmxucmF2MFBVb3BlY01nUHRlaFZic1VFWUNac2c3SGNZVE9RMnBpUFVwRWhobjFSMEpBdUM5LUZ6Rjg5WU56Tk9oRklERkhka0JRdDF3a0p3OHhLNTVKYzNVT2tzWlRlUEcyVno1Vm93NE1OZjM5aDdVVTUxRGxxWjU2Nk5lcU8tVzd0RGc2VXdhQ2hR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2ccbeaa9f36b",
+      "title": "血液腫瘤患者感染兇手是誰？醫師解析發燒警訊與 mNGS 檢測",
+      "published": "2026-08-14T02:00:00+00:00",
+      "sources": [
+        {
+          "name": "Heho健康",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Id0w5NUtnUVdHdlNqa2FnNl9UeV9GY1ZYRm1EWGtjYUdJRmRyWG5FTmgyeTJ4dlB5V1djNFZlQVFWUF85YXhGSkFmZw?oc=5"
         }
       ],
       "keywords": [
@@ -443,75 +506,12 @@
       ]
     },
     {
-      "id": "128d9e3fd99c",
-      "title": "史上最完整思覺失調症基因圖譜問世，AI 發威助解全球 2,300 萬人病理謎團 | 科技新報 - LINE TODAY",
-      "published": "2026-08-14T08:50:04+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nTTlIcTlQdlY5QWV3X3l3UHZkWnVzdDF5RDhxczBUc3ZSczRrVl9IVEhUbkQ3Vm5RQk12ZVZaNDVKYXJEZVY1ajZGc0FJTm5LanZqLVVn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "schizophrenia",
-          "keyword": "思覺失調症",
-          "related_drugs": [
-            {
-              "slug": "ropinirole",
-              "name": "Ropinirole"
-            },
-            {
-              "slug": "rotigotine",
-              "name": "Rotigotine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "dccd78e30e38",
-      "title": "護心幫到手 經常進食1類蔬果 心血管疾病風險降26%",
-      "published": "2026-08-14T03:30:00+00:00",
-      "sources": [
-        {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNcE1yMVpyOVdwZWt5Tlk5X1NhNlZ6YzhWV1ZSNURsQ195RElWSnotWVpORFh5eUY3QktNVGJ1aFJQNjhBNWFmWWlZV3ZUVkhlc3hfTFlIWUJXMWN1anBCUEVudkE1MGVjcVB5RjFZcjdqVXRSdi1qNFZGc2hQOXFGSGlpRzlFN3hsZmwyd1ZFYjNfWnZIV0pzS0NKZEE2RGVnLXlJS2U5d1ZuWmR5R29QNFMxZDByMkRfOEMxV0RuQ3RaZy1lT2NVMlhKWVlFWmxucmF2MFBVb3BlY01nUHRlaFZic1VFWUNac2c3SGNZVE9RMnBpUFVwRWhobjFSMEpBdUM5LUZ6Rjg5WU56Tk9oRklERkhka0JRdDF3a0p3OHhLNTVKYzNVT2tzWlRlUEcyVno1Vm93NE1OZjM5aDdVVTUxRGxxWjU2Nk5lcU8tVzd0RGc2VXdhQ2hR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0b65cb1d34f3",
+      "id": "f0fd3d8ce63e",
       "title": "想長壽有秘訣！研究揭中年人必守3大健康生活指標 護腦兼延壽13年",
       "published": "2026-08-13T23:30:00+00:00",
       "sources": [
         {
-          "name": "stheadline.com",
+          "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxQcnVzakM1SEY3STZ1WTdqcU1XcTZxRlNLR1Vzd3dUSVFVallWcThLdmozdmtzeDJZRDBwV0R3eGdvUl9CQWt0d2tLNENGTm14Wk9NbmVsNkljTlJnUkJmR1lFZEgtRHdMZHRTRzZiaVZBQ0F0VV9EZ3BXZjR1cDZmWjFXMzB1T2kwSTNGZlNub1JtcWVFSGdOdDFDYko2blowWWRHTTFlTEZia2dVd25DNUdlWGhiRnBGV3dPc3R6Qm9GQ1hsRk1udFM4LWktcmgtZk5vUERZZEJTNjZwdm85X25mSnVkLUJjYllpMl8xTllVdlBJR0dJUk5ncGlCR1p6b0gtXy1lNlFkMkFJVi1CSXVvQjFUQXc4b1pHcHNZQnNWWENQeHBVVjdldVNBbDYyUlREY0tXMVZqQmgwXzJVRG1tUHdBOExpOU15R0hZOXVHM3F0VU9na2VwcnE3SFA1TnlJREd3ZzN4MnpZVFQ4NnNTY0tRZ05JeDdBSVhIV3pCbXpibllTamZDMjFXeFMyLUNDNGJQU1BlSHZuVTY4VGwyY1I?oc=5"
         }
       ],
@@ -586,12 +586,12 @@
       ]
     },
     {
-      "id": "99d97a71a2cc",
+      "id": "906f70434668",
       "title": "抗癌免疫新發現 特殊細胞助T細胞對抗腫瘤",
       "published": "2026-08-13T06:53:00+00:00",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SbVR4R3JkUmk0LWNQamFta1h0RnFnVEpCRkZFaTRKMGJxZ0dDY09hNU14cTBtaXkxZXlPZlR6OVdRQlFoU255RWRESmdkVjVfSndFc2t4Y3dGNnB2VGdiVlN1M0s?oc=5"
         }
       ],
