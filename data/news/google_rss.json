@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-15T00:42:41.347640+00:00",
-  "count": 24,
+  "fetched_at": "2026-08-15T02:08:12.595442+00:00",
+  "count": 25,
   "news": [
     {
       "id": "4e08a7a99031",
@@ -64,18 +64,6 @@
       ]
     },
     {
-      "id": "a943323e9d4b",
-      "title": "類固醇吃逾３月 骨鬆上身 | 中華日報 - LINE TODAY",
-      "published": "2026-08-14T22:18:37+00:00",
-      "summary": "類固醇吃逾３月 骨鬆上身 | 中華日報&nbsp;&nbsp;LINE TODAY類固醇吃超過3個月恐骨質流失 醫師提醒治療同步保骨防骨折&nbsp;&nbsp;自由健康網類固醇吃逾3個月小心骨頭變脆 嘉基醫師：骨鬆不是老人專利&nbsp;&nbsp;UDN7旬嬤腰痠背痛暗藏骨質疏鬆危機！醫揭「這1檢查」重要性與日常防範&nbsp;&nbsp;Yahoo新聞日服5毫克類固醇小心骨折 規律運動與營養防骨質流失 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhUXpoSkstRXBGRnRGblR3dHd6bVI2WUJGSUZCYmdBcTMxSDdCSlBXb1RPUERUbS1tQjV0UjBYcHd1a3VNSEFBNzRTdEYzcm9XNlVHSUxB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f273e5e552d1",
       "title": "血液腫瘤患者感染兇手是誰？醫師解析發燒警訊與 mNGS 檢測 - Yahoo新聞",
       "published": "2026-08-14T14:00:00+00:00",
@@ -96,6 +84,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GNVlla2h1NDltX3lPQVlxOWRreXJSdEhGY0lUcGFGQk5wSXlldzRjY1ExdlpzUFRpeEdQbUlFVXpqaGp3U0M5RHFRMEg2WkQteDNNeDFSSDFzRXZNd2tnME5VQjg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a943323e9d4b",
+      "title": "類固醇吃逾３月 骨鬆上身 | 中華日報 - LINE TODAY",
+      "published": "2026-08-14T22:18:37+00:00",
+      "summary": "類固醇吃逾３月 骨鬆上身 | 中華日報&nbsp;&nbsp;LINE TODAY類固醇吃超過3個月恐骨質流失 醫師提醒治療同步保骨防骨折&nbsp;&nbsp;自由健康網7旬嬤腰痠背痛暗藏骨質疏鬆危機！醫揭「這1檢查」重要性與日常防範&nbsp;&nbsp;Yahoo新聞類固醇吃逾3個月小心骨頭變脆 嘉基醫師：骨鬆不是老人專利&nbsp;&nbsp;UDN日服5毫克類固醇小心骨折 規律運動與營養防骨質流失 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhUXpoSkstRXBGRnRGblR3dHd6bVI2WUJGSUZCYmdBcTMxSDdCSlBXb1RPUERUbS1tQjV0UjBYcHd1a3VNSEFBNzRTdEYzcm9XNlVHSUxB?oc=5"
         }
       ]
     },
@@ -208,6 +208,18 @@
       ]
     },
     {
+      "id": "27c95ae81c2e",
+      "title": "嬰幼兒健康｜麻疹出疹特徵？麻疹疫苗導致自閉症？了解麻疹潛伏期+病徵+治療方法 - 荷花Eugenebaby",
+      "published": "2026-08-15T01:01:12+00:00",
+      "summary": "嬰幼兒健康｜麻疹出疹特徵？麻疹疫苗導致自閉症？了解麻疹潛伏期+病徵+治療方法&nbsp;&nbsp;荷花Eugenebaby",
+      "sources": [
+        {
+          "name": "荷花Eugenebaby",
+          "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxOdWVseDhVckQwRkNUaldTbFJZZlI4aDEwM3pxSWZjdHdXMG1UbDhQZVU4TGs4VzM4Tmltejg1YkVuZVJGdWg0d3BpenN2ZWhGSERSbVFjS0RUMG1mYTRfNlR2Skp5V1Ayd0NOZmdRVVlDTFJzZEJzUVpNcHV6Szhka21mNXRfN2o5RkpORTROZjVoaXMzNTlTMVdVTGZvYnVQUGQtQkdEUGRiYmtxckpCZk1ZVU4yMDkybWtPRm92LUw3STJPRm9nSHNjalgwcUV0bGdtQVFRTEx4Vm0zRFlISTJwbVh5Q2FEOFBhSk10UGQ3WFNwaWNMOTZVZ1NiZW1CVC0zOW9VZXU2azg3dnZiMlMyRHhvUUF4M09sMVlsMUh0Sk53d0lRZkFfRHVnWmtvSUs2TUxtMkZuRFduZmJEaHRLX3N3MHZxTnI5Q0VCUTA0ZTVyTWVrTXl5bHA5MkhOZTBYYVdNclJLWWF2VE82TzNOUW9uYVRyVk0tUWNldWExMExEMGZ0ZE5CaVcxMThUb0U4UU1GSjVlZ21IMEdWbmNLOEJPNFlHeHl2Y0tIckE0QUFVZ01PS3ZxM2FwTXAtQlNyem1DZDRHUWhDbXVQaXdXeEZDSEJ2cFVoS0VUc1ctbVY2OXhFZVJQMkdwQTR6d29GOUxreWF2NjczSHI3S3lJVV9Oc3dPSG9EazJwU2lVR0ZN?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0124937eb1b3",
       "title": "福建男受訪「冇頸」離奇外貌曝光 撞樣派大星遭疑AI生成 專家揭或患1 罕見病 - 巴士的報",
       "published": "2026-08-14T20:40:46+00:00",
@@ -244,13 +256,13 @@
       ]
     },
     {
-      "id": "1451545ef818",
-      "title": "ICU醫生薄世寧：40歲，每個人都應該做一次防癌篩查 - bau.com.hk",
+      "id": "572e8d1df0bb",
+      "title": "ICU醫生薄世寧：40歲，每個人都應該做一次防癌篩查 - 紫荊雜誌",
       "published": "2026-08-14T01:24:40+00:00",
-      "summary": "ICU醫生薄世寧：40歲，每個人都應該做一次防癌篩查&nbsp;&nbsp;bau.com.hk",
+      "summary": "ICU醫生薄世寧：40歲，每個人都應該做一次防癌篩查&nbsp;&nbsp;紫荊雜誌",
       "sources": [
         {
-          "name": "bau.com.hk",
+          "name": "紫荊雜誌",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSHVXOHhVbEwwbk9UaHh6cTVlQTVEaFhXR3lNSXJ6elBwRGdmNXJtT0VBRTcyUEZkeDBra2xBZ2YtYXoycWY1X282STlKc0JlVE1HOFBOVkx2MDFEQ3FCMTNuV3RTdlphTGZJNzVzN2E4cDZJR2JGbmdIU1JNU2pJU1FSMEViaGZTNHc2WU45SUo?oc=5"
         }
       ]
@@ -268,13 +280,13 @@
       ]
     },
     {
-      "id": "0ddd42cb62f7",
-      "title": "這6個無意識行為正在悄悄削弱你的抵抗力 - bau.com.hk",
+      "id": "54bf9704cac0",
+      "title": "這6個無意識行為正在悄悄削弱你的抵抗力 - 紫荊雜誌",
       "published": "2026-08-14T02:14:41+00:00",
-      "summary": "這6個無意識行為正在悄悄削弱你的抵抗力&nbsp;&nbsp;bau.com.hk",
+      "summary": "這6個無意識行為正在悄悄削弱你的抵抗力&nbsp;&nbsp;紫荊雜誌",
       "sources": [
         {
-          "name": "bau.com.hk",
+          "name": "紫荊雜誌",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU0VQMWlVSFdYSml0bURhXzQyOHBYcVlndDZzM3N5eDJmTmthcTAydUFWN3FEZExjWW9MUVZMc18xQW9Oc3FTdWdUYUdQc3UwdnlqdVBlYU16NTZUYmxCVHhKaUxKcGJIeXBJMU9LRlZPclpXRGZ0OGFIblc2UWxud2Q2d0VQRVRHd3p6WGdjNE8?oc=5"
         }
       ]
