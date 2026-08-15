@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15T22:11:35.681536+00:00",
+  "generated": "2026-08-15T23:11:30.446905+00:00",
   "count": 6,
   "news": [
     {
@@ -53,12 +53,12 @@
       ]
     },
     {
-      "id": "4ca1a9186393",
-      "title": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制 | 科技新報",
+      "id": "b2701bc76c14",
+      "title": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制 | 科技新報 - LINE TODAY",
       "published": "2026-08-15T01:30:01+00:00",
       "sources": [
         {
-          "name": "today.line.me",
+          "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hbERDSXYxdk5Za0hGNlRYcmktSmNGaHgxZEc1S0lLc3lna2puRjVsUHJWUmZWV2RLNHI1QjU4UzljYmc2MG5xLS1wLTJKN0NHSmdUZFNB?oc=5"
         }
       ],
@@ -71,6 +71,34 @@
             {
               "slug": "acetazolamide",
               "name": "Acetazolamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "128d9e3fd99c",
+      "title": "史上最完整思覺失調症基因圖譜問世，AI 發威助解全球 2,300 萬人病理謎團 | 科技新報 - LINE TODAY",
+      "published": "2026-08-14T22:18:26+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nTTlIcTlQdlY5QWV3X3l3UHZkWnVzdDF5RDhxczBUc3ZSczRrVl9IVEhUbkQ3Vm5RQk12ZVZaNDVKYXJEZVY1ajZGc0FJTm5LanZqLVVn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "schizophrenia",
+          "keyword": "思覺失調症",
+          "related_drugs": [
+            {
+              "slug": "ropinirole",
+              "name": "Ropinirole"
+            },
+            {
+              "slug": "rotigotine",
+              "name": "Rotigotine"
             }
           ]
         }
@@ -487,34 +515,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4d4f26e1ff42",
-      "title": "史上最完整思覺失調症基因圖譜問世，AI 發威助解全球 2,300 萬人病理謎團 | 科技新報",
-      "published": "2026-08-14T08:50:04+00:00",
-      "sources": [
-        {
-          "name": "today.line.me",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nTTlIcTlQdlY5QWV3X3l3UHZkWnVzdDF5RDhxczBUc3ZSczRrVl9IVEhUbkQ3Vm5RQk12ZVZaNDVKYXJEZVY1ajZGc0FJTm5LanZqLVVn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "schizophrenia",
-          "keyword": "思覺失調症",
-          "related_drugs": [
-            {
-              "slug": "ropinirole",
-              "name": "Ropinirole"
-            },
-            {
-              "slug": "rotigotine",
-              "name": "Rotigotine"
             }
           ]
         }
