@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-15T18:15:20.499055+00:00",
-  "count": 5,
+  "generated": "2026-08-15T19:14:42.072313+00:00",
+  "count": 6,
   "news": [
     {
       "id": "a06da7e95b36",
@@ -47,6 +47,30 @@
             {
               "slug": "metoprolol",
               "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2701bc76c14",
+      "title": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制 | 科技新報 - LINE TODAY",
+      "published": "2026-08-15T01:30:01+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hbERDSXYxdk5Za0hGNlRYcmktSmNGaHgxZEc1S0lLc3lna2puRjVsUHJWUmZWV2RLNHI1QjU4UzljYmc2MG5xLS1wLTJKN0NHSmdUZFNB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "癲癇",
+          "keyword": "癲癇",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
             }
           ]
         }
@@ -261,12 +285,12 @@
       ]
     },
     {
-      "id": "17989b48b454",
+      "id": "e02ddba2dc4c",
       "title": "血液腫瘤患者感染兇手是誰？醫師解析發燒警訊與 mNGS 檢測",
       "published": "2026-08-14T14:00:00+00:00",
       "sources": [
         {
-          "name": "蕃新聞",
+          "name": "n.yam.com",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1RTJ0NVBGYTExOGFvbE5Wb1cxaGRXUFZ2UE9NLWM3Y0V0a2FwdmJiQnl0RkE3TXNZWDlfc1RNQndfNS1YaFBONURrREJmcXlLU0E?oc=5"
         }
       ],

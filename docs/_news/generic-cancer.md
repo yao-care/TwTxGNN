@@ -89,7 +89,7 @@ permalink: /news/generic-cancer/
 
 2026-08-14
 
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1RTJ0NVBGYTExOGFvbE5Wb1cxaGRXUFZ2UE9NLWM3Y0V0a2FwdmJiQnl0RkE3TXNZWDlfc1RNQndfNS1YaFBONURrREJmcXlLU0E?oc=5)
+來源：[n.yam.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1RTJ0NVBGYTExOGFvbE5Wb1cxaGRXUFZ2UE9NLWM3Y0V0a2FwdmJiQnl0RkE3TXNZWDlfc1RNQndfNS1YaFBONURrREJmcXlLU0E?oc=5)
 
 ---
 
