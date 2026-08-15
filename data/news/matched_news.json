@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-15T17:12:41.313919+00:00",
-  "total_count": 20,
-  "matched_count": 6,
+  "last_updated": "2026-08-15T18:15:20.465412+00:00",
+  "total_count": 23,
+  "matched_count": 5,
   "news": [
     {
       "id": "ffd5db72f476",
@@ -68,29 +68,43 @@
       ]
     },
     {
-      "id": "b2701bc76c14",
-      "title": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制 | 科技新報 - LINE TODAY",
-      "published": "2026-08-15T01:30:01+00:00",
-      "summary": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "id": "8bb7429a8b44",
+      "title": "上東城退伍軍人症累計9死",
+      "published": "2026-08-15T10:00:00+00:00",
+      "summary": "上東城退伍軍人症累計9死&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hbERDSXYxdk5Za0hGNlRYcmktSmNGaHgxZEc1S0lLc3lna2puRjVsUHJWUmZWV2RLNHI1QjU4UzljYmc2MG5xLS1wLTJKN0NHSmdUZFNB?oc=5"
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdW5ZcW5GMk1nLXVVZS1mQ2x3Z1kxSktoZmdRZHVuY2lVM1Y2dnpGUm5aTWc5N3BrM1VFSFZ3YkF5Rk81SnhBTS1uSHpzRUxRQnBLLXJ6M1ZuSVVBaXMxQ3R5VXNlVlo1ZkZNYUp5LWN6eHdZcXVEWVRjWWRpM3JOZ29YeDVsRzE5?oc=5"
         }
       ],
-      "matched_keywords": [
+      "matched_keywords": []
+    },
+    {
+      "id": "b2ee3bb12a3b",
+      "title": "胰臟癌細胞會隱身研究找到破解關鍵- 醫藥新知- 新聞",
+      "published": "2026-08-15T07:58:54+00:00",
+      "summary": "胰臟癌細胞會隱身研究找到破解關鍵- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
+      "sources": [
         {
-          "type": "indication",
-          "name": "癲癇",
-          "keyword": "癲癇",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            }
-          ]
+          "name": "華人今日網",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1weXBHOFlhWFp6cGhObEFhOWRIOUFxRGxCdkV3cTZWa0w1TnVIY3phN21JbFQxNWtrT0pFNm5ST3ctOUJPdjlvb3UtN3ptcC1kQWN5YkRmai1FNTRsWmtoV0h3WV9adw?oc=5"
         }
-      ]
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f1df501513a8",
+      "title": "MiniMax Music 3 開源上架ComfyUI：消費級顯卡可本地端製作5 分鐘完整歌曲- 股市爆料同學會",
+      "published": "2026-08-15T05:41:45+00:00",
+      "summary": "MiniMax Music 3 開源上架ComfyUI：消費級顯卡可本地端製作5 分鐘完整歌曲- 股市爆料同學會&nbsp;&nbsp;CMoney",
+      "sources": [
+        {
+          "name": "CMoney",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tT1pkdXZ0elRaLVZENHhFam9DcmNJSDdROE1nMHk0aDB2Q0RfZ3NFNks4Mnp5ZnlTcjJqLWo2NXM4X3MxbVJGZVVIRUNrbXpDNHpweEowNi0?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "27c95ae81c2e",
@@ -106,26 +120,26 @@
       "matched_keywords": []
     },
     {
-      "id": "805238a004be",
+      "id": "a6062d29f759",
       "title": "類固醇吃逾３月 骨鬆上身",
-      "published": "2026-08-14T22:00:57+00:00",
-      "summary": "類固醇吃逾３月 骨鬆上身&nbsp;&nbsp;Yahoo新聞類固醇吃超過3個月 小心骨頭悄悄變脆&nbsp;&nbsp;Yahoo新聞類固醇吃超過3個月恐骨質流失 醫師提醒治療同步保骨防骨折&nbsp;&nbsp;自由健康網類固醇吃逾3個月小心骨頭變脆 嘉基醫師：骨鬆不是老人專利&nbsp;&nbsp;UDN日服5毫克類固醇小心骨折 規律運動與營養防骨質流失 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "published": "2026-08-14T22:08:43+00:00",
+      "summary": "類固醇吃逾３月 骨鬆上身&nbsp;&nbsp;中華新聞雲／中華日報類固醇吃超過3個月 小心骨頭悄悄變脆&nbsp;&nbsp;Yahoo新聞類固醇吃超過3個月恐骨質流失 醫師提醒治療同步保骨防骨折&nbsp;&nbsp;自由健康網類固醇吃逾3個月小心骨頭變脆 嘉基醫師：骨鬆不是老人專利&nbsp;&nbsp;UDN日服5毫克類固醇小心骨折 規律運動與營養防骨質流失 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWlRKTVNsT3h2ZUU3a0VsYXN1dG52NEFIVjJmX1R5ZTBXd3JFVnZVZktxZWZCNkRjc2dLRXZXRzU0LWlSMVdOUXd2ZnhVNUNPWnZSLWdHLWgtODR2Q2J3SHEwYlJWbmR4TV9vS0NCb1ZRZ1VoVll1RWRNcmNVTnVncGQ4UUI2Si1tOGFvLVlaNHpJVUpCaVFsT0dRSWZtNnBGUmx0c3hXeWh6cWZrRWxIaDdLVkJyY3g4Z1JIX0t4b2tWNkVXQ1Jpd1U0Y2NpQQ?oc=5"
+          "name": "中華新聞雲／中華日報",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ncXVHb3lXMnFmQ3R2T1VmNXVhUzkwTExvSkxQYmZIaUxZT3hkMHlXbkoxQUVDaWhEVWR4R29mRGJET244YjFYOHlDeDlNX2ZxSWc?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "7c25c16f3a03",
+      "id": "0124937eb1b3",
       "title": "福建男受訪「冇頸」離奇外貌曝光 撞樣派大星遭疑AI生成 專家揭或患1 罕見病",
       "published": "2026-08-14T20:40:46+00:00",
-      "summary": "福建男受訪「冇頸」離奇外貌曝光 撞樣派大星遭疑AI生成 專家揭或患1 罕見病&nbsp;&nbsp;bastillepost.com",
+      "summary": "福建男受訪「冇頸」離奇外貌曝光 撞樣派大星遭疑AI生成 專家揭或患1 罕見病&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPc3R2OGU4eEJCdzgxMmFqUFc2RGNob2pkNERhRnRpS0FQd2NzLTJIYUo1RmhIUmlLcjVXYVVkR3pHVTVGNy1XWHQtZWVjNkRiZkstWHV2NmY1RTl2dTFXb2lJcFY4aDgtcENnRWhDQXgxYkxkeGxiRGUtSi1YTGg5Sm9IcW5BRlprYlRKdkcxY240aTNLVW9kdHBfaWNEbmJ2T0FuVGFJQnlYbkVCcVlNaFpJcUVTbURkWndNZm9TMVh0MGx5RjBvNVVhNmhPa19OU0JLNHIzOXBJdFNkb1NpcG1SRlZ1RC1zVWt3YkZjdnc1WUZQMWcxMkFiUVgzOEZpOTdCdllLQy1vYVh5cWNleGJVaGhVVk92YUJKbUsybVZ1a1psR2xpMC1fRzFFSFJ3NW9ocmw0UUpZekNkRlhsc2wzcktmdjNsNnRQRnFPNm56VXdFbW4tM1o2Zlc0UWZWY2IxOHM5Y3ZvOUlYaVhXeQ?oc=5"
         }
       ],
@@ -380,13 +394,13 @@
       "matched_keywords": []
     },
     {
-      "id": "e02ddba2dc4c",
+      "id": "17989b48b454",
       "title": "血液腫瘤患者感染兇手是誰？醫師解析發燒警訊與 mNGS 檢測",
       "published": "2026-08-14T14:00:00+00:00",
-      "summary": "血液腫瘤患者感染兇手是誰？醫師解析發燒警訊與 mNGS 檢測&nbsp;&nbsp;n.yam.com",
+      "summary": "血液腫瘤患者感染兇手是誰？醫師解析發燒警訊與 mNGS 檢測&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
-          "name": "n.yam.com",
+          "name": "蕃新聞",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1RTJ0NVBGYTExOGFvbE5Wb1cxaGRXUFZ2UE9NLWM3Y0V0a2FwdmJiQnl0RkE3TXNZWDlfc1RNQndfNS1YaFBONURrREJmcXlLU0E?oc=5"
         }
       ],
@@ -618,27 +632,27 @@
       ]
     },
     {
-      "id": "1527c2eee9b5",
-      "title": "新發現：每天吃重複單調的飲食，對減重更有幫助 - Vogue Taiwan",
+      "id": "879d5f9c7059",
+      "title": "新發現：每天吃重複單調的飲食，對減重更有幫助",
       "published": "2026-08-14T07:29:50+00:00",
-      "summary": "新發現：每天吃重複單調的飲食，對減重更有幫助&nbsp;&nbsp;Vogue Taiwan",
+      "summary": "新發現：每天吃重複單調的飲食，對減重更有幫助&nbsp;&nbsp;vogue.com.tw",
       "sources": [
         {
-          "name": "Vogue Taiwan",
+          "name": "vogue.com.tw",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbV9GREIwVmZLTlRYRTI0XzUyNmpqNGc0QUE5eHVJQk5oZkxub1N5QllKMHBKQ3Nta1VablZvMGNMeW9XRGVrT3RZYWZhQmp1T3lxa3pOUHJEQ2VLdGZwTkVVUEFHTWZiZ1czcDRZck52dkpXQ3BtOHJtcmdYV0ZBUi1VLUJwMjZ5MFZxcmdYNi1RTTQ2b3NLd1ByeXdkdVlfRnBPbUFRRnlLWkVwQ2pheHBJYUJfR3VKUUIwZnFLU2ZxM1dUWnRCbW15UjJjQ19zdGVBU1Z5TFZRR3ZoaXVDMVN2ZDBfTEE?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "b6e56766446b",
+      "id": "ebc517b5c4db",
       "title": "不用砸大錢！研究曝「改善3習慣」有助延壽：多活9年",
-      "published": "2026-08-14T03:32:53+00:00",
-      "summary": "不用砸大錢！研究曝「改善3習慣」有助延壽：多活9年&nbsp;&nbsp;三立新聞長壽的關鍵在於「空腹」？揭開諾貝爾獎認證的細胞再生長壽法&nbsp;&nbsp;數位時代每天多花7分鐘就能延壽 研究曝3習慣做好 多活9年&nbsp;&nbsp;中時新聞網最被低估的長壽藥竟是「它」？哈佛專家拆解長壽餐盤：吃對組合很關鍵- 營養好食&nbsp;&nbsp;TVBS 健康2.0想長壽不是少吃肉，而是多吃飯？最新研究推翻迷思：低蛋白、高碳水更健康&nbsp;&nbsp;天下雜誌",
+      "published": "2026-08-14T03:44:28+00:00",
+      "summary": "不用砸大錢！研究曝「改善3習慣」有助延壽：多活9年&nbsp;&nbsp;Yahoo新聞長壽的關鍵在於「空腹」？揭開諾貝爾獎認證的細胞再生長壽法&nbsp;&nbsp;數位時代每天多花7分鐘就能延壽 研究曝3習慣做好 多活9年&nbsp;&nbsp;中時新聞網最被低估的長壽藥竟是「它」？哈佛專家拆解長壽餐盤：吃對組合很關鍵- 營養好食&nbsp;&nbsp;TVBS 健康2.0想長壽不是少吃肉，而是多吃飯？最新研究推翻迷思：低蛋白、高碳水更健康&nbsp;&nbsp;天下雜誌",
       "sources": [
         {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFX3N1Vjh4b3U4bkhjSmw5Y3p1VmVhRzk2X04yZS1CQi1VbXk4b1I5aDNXLTdoU1RYVHRmV0RQYkp6cmg5SWQ5aUxrR0M?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOTlFITzd1bDAtZVZ3bzdENUprdVQ1c2pzV2FHS3NkQkRhWXZqV2VZLVo2VUtSTmtjNWRMVmY4eGFGZ3FsYUxwOGtKRlM0QTJKR2twWE8xdFE5R1NrbVhKTXNiejl1dVlyMkN6UEZUbERtbWhNZC1BNjNNRWt2cEwwa0t4RGRVOFVlSTIwdEVUaWdsNkppWGlvNEtBeU9WX2EybU5XVE4tN1BDMTA3RzFTWkF5Tm83NDJBWElxY2JwUWdaZ1RPYWktYWJaWTh1aEdFVThOaG9xdm8yeEpOQXdsaEc1SHVObUp3QmhQNFRUT1dwSlppc3htLUhLc01PYTc0anREaC1TVXpiQWN3eXdUN25rT2pwZkk3Q2s1RURzVHd3S0VTcFdUeU9MX0Fld0s4eEp5MEhDekVUY3lqWkVB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -647,7 +661,7 @@
       "id": "dccd78e30e38",
       "title": "護心幫到手 經常進食1類蔬果 心血管疾病風險降26%",
       "published": "2026-08-14T03:30:00+00:00",
-      "summary": "護心幫到手 經常進食1類蔬果 心血管疾病風險降26%&nbsp;&nbsp;AM730藍莓成熟後花青素暴增！專家教1盆水揀超甜藍莓＋挑選4招非大就好&nbsp;&nbsp;香港01健康飲食｜血管老化恐傷心/腦/腎/眼 醫生推薦7大血管逆齡食物 心血管病死亡率大降25%&nbsp;&nbsp;晴報 Sky Post壓力也傷心臟 飲食、運動降風險&nbsp;&nbsp;世界新聞網冷凍藍莓爆搶購潮！ 是超級食物還是智商稅？ 花青素實證好處一次看懂&nbsp;&nbsp;Life 生活網",
+      "summary": "護心幫到手 經常進食1類蔬果 心血管疾病風險降26%&nbsp;&nbsp;AM730藍莓成熟後花青素暴增！專家教1盆水揀超甜藍莓＋挑選4招非大就好&nbsp;&nbsp;香港01健康飲食｜血管老化恐傷心/腦/腎/眼 醫生推薦7大血管逆齡食物 心血管病死亡率大降25%&nbsp;&nbsp;晴報 Sky Post壓力也傷心臟 飲食、運動降風險&nbsp;&nbsp;世界新聞網冷凍藍莓爆搶購潮！ 是超級食物還是智商稅？ 花青素實證好處一次看懂&nbsp;&nbsp;life.tw",
       "sources": [
         {
           "name": "AM730",
@@ -701,6 +715,19 @@
         {
           "name": "news.tvbs.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVUi0zdk85NWdBS3lKR3NLaWJDbDlxa1h5cTFjZmVpODY1VjI0SXZEZTVLNF9OOVNCSnAtajdLVjZxVXAwYWJ0ZmJEbm1HQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c1ee7fef53a3",
+      "title": "市場報導： 前瞻技術脈動：醫療與健康(202632)",
+      "published": "2026-08-14T01:26:07+00:00",
+      "summary": "市場報導： 前瞻技術脈動：醫療與健康(202632)&nbsp;&nbsp;科技產業資訊室",
+      "sources": [
+        {
+          "name": "科技產業資訊室",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aaGNmWEVFdm9ianRvZ2dpM19PcTBkTTdaUURJUUZ2WXFRZzBqN1pfSHpwdlU4Y1diOE1NS3hpUTQwaTRmUklMWGF3ZzJsY0M5VnlKTXVyUFpiekkzUHpELXN4TkQ5Z0hPQUE?oc=5"
         }
       ],
       "matched_keywords": []
