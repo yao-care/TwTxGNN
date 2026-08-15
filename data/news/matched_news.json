@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T14:12:56.346482+00:00",
+  "last_updated": "2026-08-15T15:11:14.620843+00:00",
   "total_count": 23,
   "matched_count": 7,
   "news": [
@@ -7,7 +7,7 @@
       "id": "a06da7e95b36",
       "title": "中年壞習慣全中！研究驚爆：「這3地雷」沒避開 無失智壽命慘減12.6年",
       "published": "2026-08-15T11:41:07+00:00",
-      "summary": "中年壞習慣全中！研究驚爆：「這3地雷」沒避開 無失智壽命慘減12.6年&nbsp;&nbsp;Yahoo新聞防失智2026WHO新指引！空汙入列，未缺營養素「不建議靠維生素、魚油」&nbsp;&nbsp;遠見雜誌想長壽有秘訣！研究揭中年人必守3大健康生活指標 護腦兼延壽13年&nbsp;&nbsp;星島頭條避開高血壓、糖尿病、吸菸3風險 多享13年無失智歲月&nbsp;&nbsp;世界新聞網45歲後做好3件事 研究：失智症平均可延後近13年&nbsp;&nbsp;Taiwan News",
+      "summary": "中年壞習慣全中！研究驚爆：「這3地雷」沒避開 無失智壽命慘減12.6年&nbsp;&nbsp;Yahoo新聞防失智2026WHO新指引！空汙入列，未缺營養素「不建議靠維生素、魚油」&nbsp;&nbsp;遠見雜誌想長壽有秘訣！研究揭中年人必守3大健康生活指標 護腦兼延壽13年&nbsp;&nbsp;stheadline.com避開高血壓、糖尿病、吸菸3風險 多享13年無失智歲月&nbsp;&nbsp;世界新聞網45歲後做好3件事 研究：失智症平均可延後近13年&nbsp;&nbsp;taiwannews.com.tw",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -55,14 +55,27 @@
       ]
     },
     {
-      "id": "6a156fa1f4fa",
+      "id": "27c95ae81c2e",
       "title": "嬰幼兒健康｜麻疹出疹特徵？麻疹疫苗導致自閉症？了解麻疹潛伏期+病徵+治療方法",
       "published": "2026-08-15T01:02:11+00:00",
-      "summary": "嬰幼兒健康｜麻疹出疹特徵？麻疹疫苗導致自閉症？了解麻疹潛伏期+病徵+治療方法&nbsp;&nbsp;eugenebaby.com",
+      "summary": "嬰幼兒健康｜麻疹出疹特徵？麻疹疫苗導致自閉症？了解麻疹潛伏期+病徵+治療方法&nbsp;&nbsp;荷花Eugenebaby",
       "sources": [
         {
-          "name": "eugenebaby.com",
+          "name": "荷花Eugenebaby",
           "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxOdWVseDhVckQwRkNUaldTbFJZZlI4aDEwM3pxSWZjdHdXMG1UbDhQZVU4TGs4VzM4Tmltejg1YkVuZVJGdWg0d3BpenN2ZWhGSERSbVFjS0RUMG1mYTRfNlR2Skp5V1Ayd0NOZmdRVVlDTFJzZEJzUVpNcHV6Szhka21mNXRfN2o5RkpORTROZjVoaXMzNTlTMVdVTGZvYnVQUGQtQkdEUGRiYmtxckpCZk1ZVU4yMDkybWtPRm92LUw3STJPRm9nSHNjalgwcUV0bGdtQVFRTEx4Vm0zRFlISTJwbVh5Q2FEOFBhSk10UGQ3WFNwaWNMOTZVZ1NiZW1CVC0zOW9VZXU2azg3dnZiMlMyRHhvUUF4M09sMVlsMUh0Sk53d0lRZkFfRHVnWmtvSUs2TUxtMkZuRFduZmJEaHRLX3N3MHZxTnI5Q0VCUTA0ZTVyTWVrTXl5bHA5MkhOZTBYYVdNclJLWWF2VE82TzNOUW9uYVRyVk0tUWNldWExMExEMGZ0ZE5CaVcxMThUb0U4UU1GSjVlZ21IMEdWbmNLOEJPNFlHeHl2Y0tIckE0QUFVZ01PS3ZxM2FwTXAtQlNyem1DZDRHUWhDbXVQaXdXeEZDSEJ2cFVoS0VUc1ctbVY2OXhFZVJQMkdwQTR6d29GOUxreWF2NjczSHI3S3lJVV9Oc3dPSG9EazJwU2lVR0ZN?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b5a7da2370ef",
+      "title": "長期暴露交通噪音與巴金森氏症有關！研究：每增11.5分貝 風險相對增3%",
+      "published": "2026-08-15T00:42:45+00:00",
+      "summary": "長期暴露交通噪音與巴金森氏症有關！研究：每增11.5分貝 風險相對增3%&nbsp;&nbsp;民視健康長照網",
+      "sources": [
+        {
+          "name": "民視健康長照網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SN1JoRE1PbHFRSHVjQnYtSUZId1FyV2laczMtQmplV2RxSm5ueUJQVHdDYTJBYThQSDFPN3EzVDVUYnkwYWw0Y1B6N1NEU1RZVkMtc3BvSWo5bGhaRjdieHI4ME0?oc=5"
         }
       ],
       "matched_keywords": []
@@ -107,13 +120,13 @@
       "matched_keywords": []
     },
     {
-      "id": "1fed90e4c77a",
-      "title": "寵物壁虎，竟可能成為破解癌症的重要幫手",
+      "id": "e0f9d747a19c",
+      "title": "寵物壁虎，竟可能成為破解癌症的重要幫手 - TechNews 科技新報",
       "published": "2026-08-14T16:14:08+00:00",
-      "summary": "寵物壁虎，竟可能成為破解癌症的重要幫手&nbsp;&nbsp;technews.tw",
+      "summary": "寵物壁虎，竟可能成為破解癌症的重要幫手&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "technews.tw",
+          "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0pEWUFnaFRnN3UteTc4TGFlQW1mR3hSVGI5ZXAzbW1wNmpjQUc5b3NEQkkyQTVXc2VudGxDZi05N2hSNktwei1mcUNkMC1hZjM1SkttWXpRMGFhR1dRaHh0VV9WcmtCOUtkaktwSUJHelEwbDRVbUxuWmdDdTh0U0lMbHdGUklXUWYyNkRR?oc=5"
         }
       ],
@@ -316,13 +329,13 @@
       ]
     },
     {
-      "id": "053eadcdd13d",
-      "title": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制",
+      "id": "4e08a7a99031",
+      "title": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制 - TechNews 科技新報",
       "published": "2026-08-14T16:04:08+00:00",
-      "summary": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制&nbsp;&nbsp;technews.tw",
+      "summary": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "technews.tw",
+          "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcEZoWmdsYjZWdEFGTkx1Tm0xTTl2MUZ0M25OQWswN2JNOWNVV0J6QlpTQk9fYzdFa1NwQzhtbkI5S1VMWk95eHE0dnI2T2dJejRfVmRpaG82MmJxOThETnhkV214NzV6UjdpYy03Q20yalk1MDNWZkFiY1JrcHA3eVFqUzdkWnNMbVE?oc=5"
         }
       ],
@@ -362,19 +375,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GNVlla2h1NDltX3lPQVlxOWRreXJSdEhGY0lUcGFGQk5wSXlldzRjY1ExdlpzUFRpeEdQbUlFVXpqaGp3U0M5RHFRMEg2WkQteDNNeDFSSDFzRXZNd2tnME5VQjg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "aa7935ebe122",
-      "title": "長期暴露交通噪音與巴金森氏症有關！研究：每增11.5分貝 風險相對增3%",
-      "published": "2026-08-14T09:00:00+00:00",
-      "summary": "長期暴露交通噪音與巴金森氏症有關！研究：每增11.5分貝 風險相對增3%&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQVGV5blVweEI4TExBZFVNTk9vbUpsNnlfQzNGTTY1cHhIREVhRHlJSDVsaEhWNzV4anJHSk0tWWFYeVZLa3F5OFItT3laeVgyMlBZZTR0cVZkVlFuOUdwU3ZsdUVubThNcGZmRG9BcTlfYWtGVjBlVnJRYWlrdmwtS0dUNDlIUGRtUkRHa2ZDWjBpakhBVTdTZUZXaWVDOHREUmx3VE9pVVpWWG5VZDFPV2M5M1MyX3FIMWhFTEZtQS1yZzlNS3pKOFJnSGxIUHNuUzlaRTkyWlQ0b19OMG1oWWpDZ3pQMWJXYkxDYnhQbzlnZkxhY3pzWGFUbUV4VmZva2xNSlRQN01TUTRFUFlNNmtfQ0JlWlcwMzRGNUVONExHN0RIckxIWmNiRzR3MVk1RDE4SVZMYUMxOXhfdzQ5bTJGakZLMnBreV9aNXRSaFhlVFVCaTZLcW5kVGlSd2hEdTRqaUdkSFpPNXRwLXpZUXZOS1JFZ2lkQ3E1V2tyekE4bHNYcW9xNlRDYmE2ZVhBQU5UeE1zRkFUcHdOcml4bzNn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -435,13 +435,13 @@
       "matched_keywords": []
     },
     {
-      "id": "08c8a4db0c8d",
+      "id": "dccd78e30e38",
       "title": "護心幫到手 經常進食1類蔬果 心血管疾病風險降26%",
       "published": "2026-08-14T03:30:00+00:00",
-      "summary": "護心幫到手 經常進食1類蔬果 心血管疾病風險降26%&nbsp;&nbsp;am730藍莓成熟後花青素暴增！專家教1盆水揀超甜藍莓＋挑選4招非大就好&nbsp;&nbsp;香港01健康飲食｜血管老化恐傷心/腦/腎/眼 醫生推薦7大血管逆齡食物 心血管病死亡率大降25%&nbsp;&nbsp;晴報 Sky Post壓力也傷心臟 飲食、運動降風險&nbsp;&nbsp;世界新聞網",
+      "summary": "護心幫到手 經常進食1類蔬果 心血管疾病風險降26%&nbsp;&nbsp;AM730藍莓成熟後花青素暴增！專家教1盆水揀超甜藍莓＋挑選4招非大就好&nbsp;&nbsp;香港01健康飲食｜血管老化恐傷心/腦/腎/眼 醫生推薦7大血管逆齡食物 心血管病死亡率大降25%&nbsp;&nbsp;晴報 Sky Post壓力也傷心臟 飲食、運動降風險&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNcE1yMVpyOVdwZWt5Tlk5X1NhNlZ6YzhWV1ZSNURsQ195RElWSnotWVpORFh5eUY3QktNVGJ1aFJQNjhBNWFmWWlZV3ZUVkhlc3hfTFlIWUJXMWN1anBCUEVudkE1MGVjcVB5RjFZcjdqVXRSdi1qNFZGc2hQOXFGSGlpRzlFN3hsZmwyd1ZFYjNfWnZIV0pzS0NKZEE2RGVnLXlJS2U5d1ZuWmR5R29QNFMxZDByMkRfOEMxV0RuQ3RaZy1lT2NVMlhKWVlFWmxucmF2MFBVb3BlY01nUHRlaFZic1VFWUNac2c3SGNZVE9RMnBpUFVwRWhobjFSMEpBdUM5LUZ6Rjg5WU56Tk9oRklERkhka0JRdDF3a0p3OHhLNTVKYzNVT2tzWlRlUEcyVno1Vm93NE1OZjM5aDdVVTUxRGxxWjU2Nk5lcU8tVzd0RGc2VXdhQ2hR?oc=5"
         }
       ],
@@ -693,13 +693,13 @@
       ]
     },
     {
-      "id": "88ae1033db41",
+      "id": "ede30959df64",
       "title": "夏天不敢抬手？醫揭「5大腋下暗沉地雷」：美白成分這樣挑",
       "published": "2026-08-14T01:42:00+00:00",
-      "summary": "夏天不敢抬手？醫揭「5大腋下暗沉地雷」：美白成分這樣挑&nbsp;&nbsp;TVBS新聞網",
+      "summary": "夏天不敢抬手？醫揭「5大腋下暗沉地雷」：美白成分這樣挑&nbsp;&nbsp;news.tvbs.com.tw",
       "sources": [
         {
-          "name": "TVBS新聞網",
+          "name": "news.tvbs.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVUi0zdk85NWdBS3lKR3NLaWJDbDlxa1h5cTFjZmVpODY1VjI0SXZEZTVLNF9OOVNCSnAtajdLVjZxVXAwYWJ0ZmJEbm1HQQ?oc=5"
         }
       ],
