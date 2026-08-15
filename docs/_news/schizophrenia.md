@@ -32,11 +32,11 @@ permalink: /news/schizophrenia/
 
 ## 相關新聞（1 則）
 
-### [史上最完整思覺失調症基因圖譜問世，AI 發威助解全球 2,300 萬人病理謎團 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nTTlIcTlQdlY5QWV3X3l3UHZkWnVzdDF5RDhxczBUc3ZSczRrVl9IVEhUbkQ3Vm5RQk12ZVZaNDVKYXJEZVY1ajZGc0FJTm5LanZqLVVn?oc=5)
+### [史上最完整思覺失調症基因圖譜問世，AI 發威助解全球 2,300 萬人病理謎團 | 科技新報](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nTTlIcTlQdlY5QWV3X3l3UHZkWnVzdDF5RDhxczBUc3ZSczRrVl9IVEhUbkQ3Vm5RQk12ZVZaNDVKYXJEZVY1ajZGc0FJTm5LanZqLVVn?oc=5)
 
 2026-08-14
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nTTlIcTlQdlY5QWV3X3l3UHZkWnVzdDF5RDhxczBUc3ZSczRrVl9IVEhUbkQ3Vm5RQk12ZVZaNDVKYXJEZVY1ajZGc0FJTm5LanZqLVVn?oc=5)
+來源：[today.line.me](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nTTlIcTlQdlY5QWV3X3l3UHZkWnVzdDF5RDhxczBUc3ZSczRrVl9IVEhUbkQ3Vm5RQk12ZVZaNDVKYXJEZVY1ajZGc0FJTm5LanZqLVVn?oc=5)
 
 ---
 

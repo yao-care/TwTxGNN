@@ -44,11 +44,11 @@ permalink: /news/acetazolamide/
 
 ## 相關新聞（3 則）
 
-### [破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hbERDSXYxdk5Za0hGNlRYcmktSmNGaHgxZEc1S0lLc3lna2puRjVsUHJWUmZWV2RLNHI1QjU4UzljYmc2MG5xLS1wLTJKN0NHSmdUZFNB?oc=5)
+### [破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制 | 科技新報](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hbERDSXYxdk5Za0hGNlRYcmktSmNGaHgxZEc1S0lLc3lna2puRjVsUHJWUmZWV2RLNHI1QjU4UzljYmc2MG5xLS1wLTJKN0NHSmdUZFNB?oc=5)
 
 2026-08-15 <span class="news-indication-tag">癲癇</span>
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hbERDSXYxdk5Za0hGNlRYcmktSmNGaHgxZEc1S0lLc3lna2puRjVsUHJWUmZWV2RLNHI1QjU4UzljYmc2MG5xLS1wLTJKN0NHSmdUZFNB?oc=5)
+來源：[today.line.me](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hbERDSXYxdk5Za0hGNlRYcmktSmNGaHgxZEc1S0lLc3lna2puRjVsUHJWUmZWV2RLNHI1QjU4UzljYmc2MG5xLS1wLTJKN0NHSmdUZFNB?oc=5)
 
 ---
 
@@ -64,7 +64,7 @@ permalink: /news/acetazolamide/
 
 2026-08-14 <span class="news-indication-tag">腫瘤</span>
 
-來源：[tw.news.yahoo.com](https://news.google.com/rss/articles/CBMi8AJBVV95cUxOelZtbzlUMXlGTUpab25ZbkI2NkxzYUk3WThEdDNxZlR1QmdnRThvT01fT040clFmdjZ1TEdlSld4TWowdFdITUNiZnlvWWpUOUJQc0lCdE1sTnNpLURIZXkwcVk1Z0h6WFdPR1ZybmcyZWtqZjdGcU1vOTVQUnh0RDU0czBUNk5XTnlzMVBBZllfaEV4U1VDdGlhbEU2dHhYcFg4QS1pYkdMV3VaSDg1aFhBVW9zSVc1TnNxV3FjZ0tzVzNQTFQxSnNGU0RSM0FNZmpjd0hXWjA5QUVvUzdLbVBtNi0zeVhUVzhZYWYzS0hJLTczUTViUWFRQ01OLWJKQnZ3anpSZXRLODJwdHhSN0pWRkkxUmxrcUFYblcwRFVyVXZkbGl0SE1Kdng5VGpTa0JoUnUyVk1mYlVtQV9UaG9SblJBYWZSQjdqT21JRmVBaVRLSmJEWGZnYkhoc2tRV2hkbGF0VEFLemp6Nmt3ag?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi8AJBVV95cUxOelZtbzlUMXlGTUpab25ZbkI2NkxzYUk3WThEdDNxZlR1QmdnRThvT01fT040clFmdjZ1TEdlSld4TWowdFdITUNiZnlvWWpUOUJQc0lCdE1sTnNpLURIZXkwcVk1Z0h6WFdPR1ZybmcyZWtqZjdGcU1vOTVQUnh0RDU0czBUNk5XTnlzMVBBZllfaEV4U1VDdGlhbEU2dHhYcFg4QS1pYkdMV3VaSDg1aFhBVW9zSVc1TnNxV3FjZ0tzVzNQTFQxSnNGU0RSM0FNZmpjd0hXWjA5QUVvUzdLbVBtNi0zeVhUVzhZYWYzS0hJLTczUTViUWFRQ01OLWJKQnZ3anpSZXRLODJwdHhSN0pWRkkxUmxrcUFYblcwRFVyVXZkbGl0SE1Kdng5VGpTa0JoUnUyVk1mYlVtQV9UaG9SblJBYWZSQjdqT21JRmVBaVRLSmJEWGZnYkhoc2tRV2hkbGF0VEFLemp6Nmt3ag?oc=5)
 
 ---
 
