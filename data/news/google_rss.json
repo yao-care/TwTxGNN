@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-15T06:21:06.893123+00:00",
-  "count": 24,
+  "fetched_at": "2026-08-15T07:22:12.875487+00:00",
+  "count": 23,
   "news": [
+    {
+      "id": "805238a004be",
+      "title": "類固醇吃逾３月 骨鬆上身 - Yahoo新聞",
+      "published": "2026-08-14T22:00:57+00:00",
+      "summary": "類固醇吃逾３月 骨鬆上身&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWlRKTVNsT3h2ZUU3a0VsYXN1dG52NEFIVjJmX1R5ZTBXd3JFVnZVZktxZWZCNkRjc2dLRXZXRzU0LWlSMVdOUXd2ZnhVNUNPWnZSLWdHLWgtODR2Q2J3SHEwYlJWbmR4TV9vS0NCb1ZRZ1VoVll1RWRNcmNVTnVncGQ4UUI2Si1tOGFvLVlaNHpJVUpCaVFsT0dRSWZtNnBGUmx0c3hXeWh6cWZrRWxIaDdLVkJyY3g4Z1JIX0t4b2tWNkVXQ1Jpd1U0Y2NpQQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "4e08a7a99031",
       "title": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制 - TechNews 科技新報",
@@ -28,26 +40,14 @@
       ]
     },
     {
-      "id": "2afd6bc3bda2",
-      "title": "心悸胸悶被當自律神經失調10年！王以路做檢查遭嚴立婷笑虧「裸奔」 - ettv.ebc.net.tw",
+      "id": "1e0cfb855668",
+      "title": "心悸胸悶被當自律神經失調10年！王以路做檢查遭嚴立婷笑虧「裸奔」 - 東森綜合",
       "published": "2026-08-14T17:49:00+00:00",
-      "summary": "心悸胸悶被當自律神經失調10年！王以路做檢查遭嚴立婷笑虧「裸奔」&nbsp;&nbsp;ettv.ebc.net.tw",
+      "summary": "心悸胸悶被當自律神經失調10年！王以路做檢查遭嚴立婷笑虧「裸奔」&nbsp;&nbsp;東森綜合",
       "sources": [
         {
-          "name": "ettv.ebc.net.tw",
+          "name": "東森綜合",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqMHVDZ19fQXhwdnBuT3RZVHZPbzYzTjF2WWE1ZEYyREtFZlpBU3hOZnFFT21BRXRzRnZIRDR2T2R3X1oxLTh2VWo3bGJjLUJOYWRN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "805238a004be",
-      "title": "類固醇吃逾３月 骨鬆上身 - Yahoo新聞",
-      "published": "2026-08-14T22:00:57+00:00",
-      "summary": "類固醇吃逾３月 骨鬆上身&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWlRKTVNsT3h2ZUU3a0VsYXN1dG52NEFIVjJmX1R5ZTBXd3JFVnZVZktxZWZCNkRjc2dLRXZXRzU0LWlSMVdOUXd2ZnhVNUNPWnZSLWdHLWgtODR2Q2J3SHEwYlJWbmR4TV9vS0NCb1ZRZ1VoVll1RWRNcmNVTnVncGQ4UUI2Si1tOGFvLVlaNHpJVUpCaVFsT0dRSWZtNnBGUmx0c3hXeWh6cWZrRWxIaDdLVkJyY3g4Z1JIX0t4b2tWNkVXQ1Jpd1U0Y2NpQQ?oc=5"
         }
       ]
     },
@@ -76,14 +76,14 @@
       ]
     },
     {
-      "id": "2ccbeaa9f36b",
-      "title": "血液腫瘤患者感染兇手是誰？醫師解析發燒警訊與 mNGS 檢測 - Heho健康",
-      "published": "2026-08-14T02:00:00+00:00",
-      "summary": "血液腫瘤患者感染兇手是誰？醫師解析發燒警訊與 mNGS 檢測&nbsp;&nbsp;Heho健康",
+      "id": "f273e5e552d1",
+      "title": "血液腫瘤患者感染兇手是誰？醫師解析發燒警訊與 mNGS 檢測 - Yahoo新聞",
+      "published": "2026-08-14T14:00:00+00:00",
+      "summary": "血液腫瘤患者感染兇手是誰？醫師解析發燒警訊與 mNGS 檢測&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Id0w5NUtnUVdHdlNqa2FnNl9UeV9GY1ZYRm1EWGtjYUdJRmRyWG5FTmgyeTJ4dlB5V1djNFZlQVFWUF85YXhGSkFmZw?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOelZtbzlUMXlGTUpab25ZbkI2NkxzYUk3WThEdDNxZlR1QmdnRThvT01fT040clFmdjZ1TEdlSld4TWowdFdITUNiZnlvWWpUOUJQc0lCdE1sTnNpLURIZXkwcVk1Z0h6WFdPR1ZybmcyZWtqZjdGcU1vOTVQUnh0RDU0czBUNk5XTnlzMVBBZllfaEV4U1VDdGlhbEU2dHhYcFg4QS1pYkdMV3VaSDg1aFhBVW9zSVc1TnNxV3FjZ0tzVzNQTFQxSnNGU0RSM0FNZmpjd0hXWjA5QUVvUzdLbVBtNi0zeVhUVzhZYWYzS0hJLTczUTViUWFRQ01OLWJKQnZ3anpSZXRLODJwdHhSN0pWRkkxUmxrcUFYblcwRFVyVXZkbGl0SE1Kdng5VGpTa0JoUnUyVk1mYlVtQV9UaG9SblJBYWZSQjdqT21JRmVBaVRLSmJEWGZnYkhoc2tRV2hkbGF0VEFLemp6Nmt3ag?oc=5"
         }
       ]
     },
@@ -172,18 +172,6 @@
       ]
     },
     {
-      "id": "906f70434668",
-      "title": "抗癌免疫新發現 特殊細胞助T細胞對抗腫瘤 - 自由健康網",
-      "published": "2026-08-13T06:53:00+00:00",
-      "summary": "抗癌免疫新發現 特殊細胞助T細胞對抗腫瘤&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SbVR4R3JkUmk0LWNQamFta1h0RnFnVEpCRkZFaTRKMGJxZ0dDY09hNU14cTBtaXkxZXlPZlR6OVdRQlFoU255RWRESmdkVjVfSndFc2t4Y3dGNnB2VGdiVlN1M0s?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f0fd3d8ce63e",
       "title": "想長壽有秘訣！研究揭中年人必守3大健康生活指標 護腦兼延壽13年 - 星島頭條",
       "published": "2026-08-13T23:30:00+00:00",
@@ -210,7 +198,7 @@
     {
       "id": "27c95ae81c2e",
       "title": "嬰幼兒健康｜麻疹出疹特徵？麻疹疫苗導致自閉症？了解麻疹潛伏期+病徵+治療方法 - 荷花Eugenebaby",
-      "published": "2026-08-15T01:01:12+00:00",
+      "published": "2026-08-15T01:02:11+00:00",
       "summary": "嬰幼兒健康｜麻疹出疹特徵？麻疹疫苗導致自閉症？了解麻疹潛伏期+病徵+治療方法&nbsp;&nbsp;荷花Eugenebaby",
       "sources": [
         {
