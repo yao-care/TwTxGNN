@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,39 +41,9 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（0 則）
 
-### [寵物壁虎，竟可能成為破解癌症的重要幫手 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DdmI0NGdwZW5SMWFNNTlHa2tES2xtNnM1UExjYmswMzROSzZMd3NjQzNVNW1NSzNpU0hLbURkbnllUzNLNGZqaU1jaGk1R1lkb0VaZWl3?oc=5)
-
-2026-08-15 <span class="news-indication-tag">癌症</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DdmI0NGdwZW5SMWFNNTlHa2tES2xtNnM1UExjYmswMzROSzZMd3NjQzNVNW1NSzNpU0hLbURkbnllUzNLNGZqaU1jaGk1R1lkb0VaZWl3?oc=5)
-
----
-
-### [血液腫瘤患者感染兇手是誰？醫師解析發燒警訊與 mNGS 檢測](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Id0w5NUtnUVdHdlNqa2FnNl9UeV9GY1ZYRm1EWGtjYUdJRmRyWG5FTmgyeTJ4dlB5V1djNFZlQVFWUF85YXhGSkFmZw?oc=5)
-
-2026-08-14 <span class="news-indication-tag">腫瘤</span>
-
-來源：[Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Id0w5NUtnUVdHdlNqa2FnNl9UeV9GY1ZYRm1EWGtjYUdJRmRyWG5FTmgyeTJ4dlB5V1djNFZlQVFWUF85YXhGSkFmZw?oc=5)
-
----
-
-### [想長壽有秘訣！研究揭中年人必守3大健康生活指標 護腦兼延壽13年](https://news.google.com/rss/articles/CBMipANBVV95cUxQcnVzakM1SEY3STZ1WTdqcU1XcTZxRlNLR1Vzd3dUSVFVallWcThLdmozdmtzeDJZRDBwV0R3eGdvUl9CQWt0d2tLNENGTm14Wk9NbmVsNkljTlJnUkJmR1lFZEgtRHdMZHRTRzZiaVZBQ0F0VV9EZ3BXZjR1cDZmWjFXMzB1T2kwSTNGZlNub1JtcWVFSGdOdDFDYko2blowWWRHTTFlTEZia2dVd25DNUdlWGhiRnBGV3dPc3R6Qm9GQ1hsRk1udFM4LWktcmgtZk5vUERZZEJTNjZwdm85X25mSnVkLUJjYllpMl8xTllVdlBJR0dJUk5ncGlCR1p6b0gtXy1lNlFkMkFJVi1CSXVvQjFUQXc4b1pHcHNZQnNWWENQeHBVVjdldVNBbDYyUlREY0tXMVZqQmgwXzJVRG1tUHdBOExpOU15R0hZOXVHM3F0VU9na2VwcnE3SFA1TnlJREd3ZzN4MnpZVFQ4NnNTY0tRZ05JeDdBSVhIV3pCbXpibllTamZDMjFXeFMyLUNDNGJQU1BlSHZuVTY4VGwyY1I?oc=5)
-
-2026-08-13 <span class="news-indication-tag">失智</span>
-
-來源：[星島頭條](https://news.google.com/rss/articles/CBMipANBVV95cUxQcnVzakM1SEY3STZ1WTdqcU1XcTZxRlNLR1Vzd3dUSVFVallWcThLdmozdmtzeDJZRDBwV0R3eGdvUl9CQWt0d2tLNENGTm14Wk9NbmVsNkljTlJnUkJmR1lFZEgtRHdMZHRTRzZiaVZBQ0F0VV9EZ3BXZjR1cDZmWjFXMzB1T2kwSTNGZlNub1JtcWVFSGdOdDFDYko2blowWWRHTTFlTEZia2dVd25DNUdlWGhiRnBGV3dPc3R6Qm9GQ1hsRk1udFM4LWktcmgtZk5vUERZZEJTNjZwdm85X25mSnVkLUJjYllpMl8xTllVdlBJR0dJUk5ncGlCR1p6b0gtXy1lNlFkMkFJVi1CSXVvQjFUQXc4b1pHcHNZQnNWWENQeHBVVjdldVNBbDYyUlREY0tXMVZqQmgwXzJVRG1tUHdBOExpOU15R0hZOXVHM3F0VU9na2VwcnE3SFA1TnlJREd3ZzN4MnpZVFQ4NnNTY0tRZ05JeDdBSVhIV3pCbXpibllTamZDMjFXeFMyLUNDNGJQU1BlSHZuVTY4VGwyY1I?oc=5)
-
----
-
-### [肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfRnNvc1o5VnhXeVA4TVRvTDNJUThFWVBIcWpGN2ZRektDRzVIcWVNRFpscUp0MjF2S2NsZXhzS3NNcDEzR1RaM3FBbWh5cENkNmJ4aEtB?oc=5)
-
-2026-08-13 <span class="news-indication-tag">阿茲海默症</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfRnNvc1o5VnhXeVA4TVRvTDNJUThFWVBIcWpGN2ZRektDRzVIcWVNRFpscUp0MjF2S2NsZXhzS3NNcDEzR1RaM3FBbWh5cENkNmJ4aEtB?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
