@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,9 +34,31 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（3 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [中年壞習慣全中！研究驚爆：「這3地雷」沒避開 無失智壽命慘減12.6年](https://news.google.com/rss/articles/CBMitgNBVV95cUxQajhudzkwWTk3Zk9SZVc2NTNSb08yUy05OFE3eE0yYTg5cl9DZDBQTnVtMGFxY3B4M19uT1RjV1pJM0ZxS3pwanQ0TTFaU1JGeU5tcTR5OFhNenU0MkQtaGkzYUY0R2F1WXNIbDB2bG9lNlJPQXJlZmxCSXVqTUdFa2pSbmJLdEw3QWhnNmNLSWtyNXZGaTJ5WUJWeng4MF9ac0NLa0k1UDRoTUgwUnQtcmlhUlFnTEdTdXBIQ09qc3d4RXNEbm5vcXlvLWNyUVlJVUNjVHJNNGEzZlF4QWxyU1VNcVBqQjhsOC1JLUtISUVhdXF2TWdWY3NZY0ZwRnRPSEhPQ1lPU0R1Ty1FMjFmUXBleW0yTjIxMzRBbVlzcHJtZVdNdmZEZ3pVUDRUNlZOTnRhRmdmV1R2WXJTQWo5bEJ0V1lSYWFWS2xBQmw3Q0VjLV83NTlfc0JQMGZPaHo1eFlLbnVwMjRsMGIxOGRNa3Bud0l5VWNkNkR1QTVBQm1FaFBxemRYRFA3Vk55T0NGQ2pRUE5Wd19oVFNpeTBrMFNIWG9za1dyVGF6Uk1xRDdIWGo2ZUE?oc=5)
+
+2026-08-15 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">高血壓</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMitgNBVV95cUxQajhudzkwWTk3Zk9SZVc2NTNSb08yUy05OFE3eE0yYTg5cl9DZDBQTnVtMGFxY3B4M19uT1RjV1pJM0ZxS3pwanQ0TTFaU1JGeU5tcTR5OFhNenU0MkQtaGkzYUY0R2F1WXNIbDB2bG9lNlJPQXJlZmxCSXVqTUdFa2pSbmJLdEw3QWhnNmNLSWtyNXZGaTJ5WUJWeng4MF9ac0NLa0k1UDRoTUgwUnQtcmlhUlFnTEdTdXBIQ09qc3d4RXNEbm5vcXlvLWNyUVlJVUNjVHJNNGEzZlF4QWxyU1VNcVBqQjhsOC1JLUtISUVhdXF2TWdWY3NZY0ZwRnRPSEhPQ1lPU0R1Ty1FMjFmUXBleW0yTjIxMzRBbVlzcHJtZVdNdmZEZ3pVUDRUNlZOTnRhRmdmV1R2WXJTQWo5bEJ0V1lSYWFWS2xBQmw3Q0VjLV83NTlfc0JQMGZPaHo1eFlLbnVwMjRsMGIxOGRNa3Bud0l5VWNkNkR1QTVBQm1FaFBxemRYRFA3Vk55T0NGQ2pRUE5Wd19oVFNpeTBrMFNIWG9za1dyVGF6Uk1xRDdIWGo2ZUE?oc=5)
+
+---
+
+### [寵物壁虎，竟可能成為破解癌症的重要幫手 - TechNews 科技新報](https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0pEWUFnaFRnN3UteTc4TGFlQW1mR3hSVGI5ZXAzbW1wNmpjQUc5b3NEQkkyQTVXc2VudGxDZi05N2hSNktwei1mcUNkMC1hZjM1SkttWXpRMGFhR1dRaHh0VV9WcmtCOUtkaktwSUJHelEwbDRVbUxuWmdDdTh0U0lMbHdGUklXUWYyNkRR?oc=5)
+
+2026-08-14 <span class="news-indication-tag">癌症</span>
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0pEWUFnaFRnN3UteTc4TGFlQW1mR3hSVGI5ZXAzbW1wNmpjQUc5b3NEQkkyQTVXc2VudGxDZi05N2hSNktwei1mcUNkMC1hZjM1SkttWXpRMGFhR1dRaHh0VV9WcmtCOUtkaktwSUJHelEwbDRVbUxuWmdDdTh0U0lMbHdGUklXUWYyNkRR?oc=5)
+
+---
+
+### [血液腫瘤患者感染兇手是誰？醫師解析發燒警訊與 mNGS 檢測](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Id0w5NUtnUVdHdlNqa2FnNl9UeV9GY1ZYRm1EWGtjYUdJRmRyWG5FTmgyeTJ4dlB5V1djNFZlQVFWUF85YXhGSkFmZw?oc=5)
+
+2026-08-14 <span class="news-indication-tag">腫瘤</span>
+
+來源：[Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Id0w5NUtnUVdHdlNqa2FnNl9UeV9GY1ZYRm1EWGtjYUdJRmRyWG5FTmgyeTJ4dlB5V1djNFZlQVFWUF85YXhGSkFmZw?oc=5)
+
+---
 
 
 <div class="disclaimer">

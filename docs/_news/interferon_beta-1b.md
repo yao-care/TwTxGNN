@@ -14,7 +14,7 @@ permalink: /news/interferon_beta-1b/
 ---
 
 <p class="key-answer" data-question="Interferon beta-1b 有什麼相關新聞？">
-<strong>Interferon beta-1b</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Interferon beta-1b</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,9 +34,23 @@ permalink: /news/interferon_beta-1b/
 <p><a href="{{ '/drugs/interferon_beta-1b/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [寵物壁虎，竟可能成為破解癌症的重要幫手 - TechNews 科技新報](https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0pEWUFnaFRnN3UteTc4TGFlQW1mR3hSVGI5ZXAzbW1wNmpjQUc5b3NEQkkyQTVXc2VudGxDZi05N2hSNktwei1mcUNkMC1hZjM1SkttWXpRMGFhR1dRaHh0VV9WcmtCOUtkaktwSUJHelEwbDRVbUxuWmdDdTh0U0lMbHdGUklXUWYyNkRR?oc=5)
+
+2026-08-14 <span class="news-indication-tag">癌症</span>
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0pEWUFnaFRnN3UteTc4TGFlQW1mR3hSVGI5ZXAzbW1wNmpjQUc5b3NEQkkyQTVXc2VudGxDZi05N2hSNktwei1mcUNkMC1hZjM1SkttWXpRMGFhR1dRaHh0VV9WcmtCOUtkaktwSUJHelEwbDRVbUxuWmdDdTh0U0lMbHdGUklXUWYyNkRR?oc=5)
+
+---
+
+### [血液腫瘤患者感染兇手是誰？醫師解析發燒警訊與 mNGS 檢測](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Id0w5NUtnUVdHdlNqa2FnNl9UeV9GY1ZYRm1EWGtjYUdJRmRyWG5FTmgyeTJ4dlB5V1djNFZlQVFWUF85YXhGSkFmZw?oc=5)
+
+2026-08-14 <span class="news-indication-tag">腫瘤</span>
+
+來源：[Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Id0w5NUtnUVdHdlNqa2FnNl9UeV9GY1ZYRm1EWGtjYUdJRmRyWG5FTmgyeTJ4dlB5V1djNFZlQVFWUF85YXhGSkFmZw?oc=5)
+
+---
 
 
 <div class="disclaimer">
