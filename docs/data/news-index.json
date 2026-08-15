@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T23:12:51.887336+00:00",
-  "count": 10,
+  "generated": "2026-08-15T00:42:45.839479+00:00",
+  "count": 9,
   "news": [
     {
       "id": "e0f9d747a19c",
@@ -554,12 +554,12 @@
       ]
     },
     {
-      "id": "ddcd1d00aef3",
+      "id": "672f25d4f146",
       "title": "抗癌食物｜研究證6抗癌蔬菜 菠菜抗氧化大蒜防胃癌 榜首最多人愛",
       "published": "2026-08-13T07:00:54+00:00",
       "sources": [
         {
-          "name": "hk01.com",
+          "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPN3NaSzFtalpVUVRPUGVyTl9EZkVURW1HdjRJMGtsVzFxVFoxbXMyNkN0Sldxdk5iYzhPUWQ3NTRuNjlBdlU1cmtiazRTd2Z5MzRWUWRkV21DRV9jUnBtOGpKOGNLLXhLRTFTMDVndFNjRXZtZURUYmV3VTd4cXNOa0FKNWV3UkJ2NmlKanY3T3hlYkIzX090b0tvaENPOTVkTXUtODZYVmF4RTRfak85Q0swa0lHanVJS09vbUpJdm1BUHF4WnhXeDlGNTJfZlNCUzZJN2h2REsyMGZHYURHRjdEOHh6TFFMLUpCS2E5UWllR3VLMFhVV3hUZk5WOHNPSVRwdFpEd2l0cVVHd0RjX0VILUY5Umpxb2ZWN191RV9jWVVxZHYwTTZWSFZvRHVIUHJvMVlUZDVUYUd0UldIM29BbklWSThGcVVoSzRwVEdYSlFnSlRYTkRFNGtzbUFPQkdwckZ2TW42S1hzUzA2TlI1a2tzeElxdjNnRkdIaXI3UC01SmJzdXJLc29Yd2RwT0hxZkRudVc3S3B1TkJBbFJzZkR3S2c?oc=5"
         }
       ],
@@ -788,34 +788,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5c6fd25e8e5d",
-      "title": "驗眼不只配眼鏡：看懂糖尿病與高血壓警訊",
-      "published": "2026-08-12T23:11:00+00:00",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIb20tX1QyODBoMEVGNWEwSTdLLS1vNkcxR0NLbTRRQzFyNHhKanpUeHkwSGtXZVpIaGhNclRHdEdDUTU4MV9EcXc3aGZFVUo3MnNOanNNOFJ3aVQ2cTZKQ9IBZkFVX3lxTFBGalJRWUxEYnJidEdEa3ZYNHdkRGpKdVZGWTJmVUNhcDlIRC1vZ0llZUd5NlNRVmFrOVd6MWM0aldfZ1NjcURJXzdTVFBseHMyTWdUYjN6dWtnSHR5X0dxWTF1clpHZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
             }
           ]
         }
