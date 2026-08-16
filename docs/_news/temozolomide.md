@@ -14,7 +14,7 @@ permalink: /news/temozolomide/
 ---
 
 <p class="key-answer" data-question="Temozolomide 有什麼相關新聞？">
-<strong>Temozolomide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Temozolomide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,21 +34,13 @@ permalink: /news/temozolomide/
 <p><a href="{{ '/drugs/temozolomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [寵物壁虎，竟可能成為破解癌症的重要幫手 - TechNews 科技新報](https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0pEWUFnaFRnN3UteTc4TGFlQW1mR3hSVGI5ZXAzbW1wNmpjQUc5b3NEQkkyQTVXc2VudGxDZi05N2hSNktwei1mcUNkMC1hZjM1SkttWXpRMGFhR1dRaHh0VV9WcmtCOUtkaktwSUJHelEwbDRVbUxuWmdDdTh0U0lMbHdGUklXUWYyNkRR?oc=5)
 
 2026-08-14 <span class="news-indication-tag">癌症</span>
 
 來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0pEWUFnaFRnN3UteTc4TGFlQW1mR3hSVGI5ZXAzbW1wNmpjQUc5b3NEQkkyQTVXc2VudGxDZi05N2hSNktwei1mcUNkMC1hZjM1SkttWXpRMGFhR1dRaHh0VV9WcmtCOUtkaktwSUJHelEwbDRVbUxuWmdDdTh0U0lMbHdGUklXUWYyNkRR?oc=5)
-
----
-
-### [血液腫瘤患者感染兇手是誰？醫師解析發燒警訊與 mNGS 檢測 - 健康新聞 - PChome Online 新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRzVMbFVlLTNkaEdaU0U5REZfUmxZX0lWT1lIZ3FsdEFTZXJwWmEyazQtdkV2T0xDOUc5QkxsRmkzMHFzWnpfOXE5eHlFT2YwQWs2UlZ4ckZMQjVRd3Fkek53THg0TUNJeGNTRWdqdkpTckFWUXFON0ZoX2VQM0dTNkJPaHlORGxzQWNB?oc=5)
-
-2026-08-14 <span class="news-indication-tag">腫瘤</span>
-
-來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRzVMbFVlLTNkaEdaU0U5REZfUmxZX0lWT1lIZ3FsdEFTZXJwWmEyazQtdkV2T0xDOUc5QkxsRmkzMHFzWnpfOXE5eHlFT2YwQWs2UlZ4ckZMQjVRd3Fkek53THg0TUNJeGNTRWdqdkpTckFWUXFON0ZoX2VQM0dTNkJPaHlORGxzQWNB?oc=5)
 
 ---
 
