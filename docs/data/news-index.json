@@ -1,57 +1,7 @@
 {
-  "generated": "2026-08-15T23:11:30.446905+00:00",
-  "count": 6,
+  "generated": "2026-08-16T00:44:14.453384+00:00",
+  "count": 5,
   "news": [
-    {
-      "id": "a06da7e95b36",
-      "title": "中年壞習慣全中！研究驚爆：「這3地雷」沒避開 無失智壽命慘減12.6年",
-      "published": "2026-08-15T11:41:07+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQajhudzkwWTk3Zk9SZVc2NTNSb08yUy05OFE3eE0yYTg5cl9DZDBQTnVtMGFxY3B4M19uT1RjV1pJM0ZxS3pwanQ0TTFaU1JGeU5tcTR5OFhNenU0MkQtaGkzYUY0R2F1WXNIbDB2bG9lNlJPQXJlZmxCSXVqTUdFa2pSbmJLdEw3QWhnNmNLSWtyNXZGaTJ5WUJWeng4MF9ac0NLa0k1UDRoTUgwUnQtcmlhUlFnTEdTdXBIQ09qc3d4RXNEbm5vcXlvLWNyUVlJVUNjVHJNNGEzZlF4QWxyU1VNcVBqQjhsOC1JLUtISUVhdXF2TWdWY3NZY0ZwRnRPSEhPQ1lPU0R1Ty1FMjFmUXBleW0yTjIxMzRBbVlzcHJtZVdNdmZEZ3pVUDRUNlZOTnRhRmdmV1R2WXJTQWo5bEJ0V1lSYWFWS2xBQmw3Q0VjLV83NTlfc0JQMGZPaHo1eFlLbnVwMjRsMGIxOGRNa3Bud0l5VWNkNkR1QTVBQm1FaFBxemRYRFA3Vk55T0NGQ2pRUE5Wd19oVFNpeTBrMFNIWG9za1dyVGF6Uk1xRDdIWGo2ZUE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "b2701bc76c14",
       "title": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制 | 科技新報 - LINE TODAY",
@@ -313,13 +263,13 @@
       ]
     },
     {
-      "id": "f273e5e552d1",
+      "id": "17989b48b454",
       "title": "血液腫瘤患者感染兇手是誰？醫師解析發燒警訊與 mNGS 檢測",
       "published": "2026-08-14T14:00:00+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOelZtbzlUMXlGTUpab25ZbkI2NkxzYUk3WThEdDNxZlR1QmdnRThvT01fT040clFmdjZ1TEdlSld4TWowdFdITUNiZnlvWWpUOUJQc0lCdE1sTnNpLURIZXkwcVk1Z0h6WFdPR1ZybmcyZWtqZjdGcU1vOTVQUnh0RDU0czBUNk5XTnlzMVBBZllfaEV4U1VDdGlhbEU2dHhYcFg4QS1pYkdMV3VaSDg1aFhBVW9zSVc1TnNxV3FjZ0tzVzNQTFQxSnNGU0RSM0FNZmpjd0hXWjA5QUVvUzdLbVBtNi0zeVhUVzhZYWYzS0hJLTczUTViUWFRQ01OLWJKQnZ3anpSZXRLODJwdHhSN0pWRkkxUmxrcUFYblcwRFVyVXZkbGl0SE1Kdng5VGpTa0JoUnUyVk1mYlVtQV9UaG9SblJBYWZSQjdqT21JRmVBaVRLSmJEWGZnYkhoc2tRV2hkbGF0VEFLemp6Nmt3ag?oc=5"
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1RTJ0NVBGYTExOGFvbE5Wb1cxaGRXUFZ2UE9NLWM3Y0V0a2FwdmJiQnl0RkE3TXNZWDlfc1RNQndfNS1YaFBONURrREJmcXlLU0E?oc=5"
         }
       ],
       "keywords": [
