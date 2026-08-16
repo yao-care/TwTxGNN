@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-16T16:13:46.192206+00:00",
-  "total_count": 12,
+  "last_updated": "2026-08-16T17:12:03.235673+00:00",
+  "total_count": 11,
   "matched_count": 4,
   "news": [
     {
@@ -148,13 +148,13 @@
       "matched_keywords": []
     },
     {
-      "id": "01bf88aaee95",
+      "id": "8aa39830148b",
       "title": "心悸胸悶被當自律神經失調10年！王以路做檢查遭嚴立婷笑虧「裸奔」",
       "published": "2026-08-14T17:49:00+00:00",
-      "summary": "心悸胸悶被當自律神經失調10年！王以路做檢查遭嚴立婷笑虧「裸奔」&nbsp;&nbsp;ent.ebc.net.tw",
+      "summary": "心悸胸悶被當自律神經失調10年！王以路做檢查遭嚴立婷笑虧「裸奔」&nbsp;&nbsp;東森電視",
       "sources": [
         {
-          "name": "ent.ebc.net.tw",
+          "name": "東森電視",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83eklCQXgwYVNhQl9iQWJXbTBJZG5tNk1tZVlmcGxWbkxWZl95VUtWeWpCb2N3MlU0bngwYWhIT2N1UXkxX29FX19xTTBDX0trd0M5cA?oc=5"
         }
       ],
@@ -368,19 +368,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "2225aea1b12c",
-      "title": "精胺酸功能多！協助免疫系統「找到」癌細胞與病毒- 國際",
-      "published": "2026-08-14T15:34:58+00:00",
-      "summary": "精胺酸功能多！協助免疫系統「找到」癌細胞與病毒- 國際&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oWXIwSUVkNGNSNnF4aWdDQVo4OGptc29FUjZQOVA0amktcDRHWnpiZzhDQlhCNlo4bEU1U3lXanctNjFidmhtaXZrNjBpQmJhMnc5NjZpMlhIV0djclBFb3B1V1h6dFdtNmliVVFn?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "849e34530e76",
