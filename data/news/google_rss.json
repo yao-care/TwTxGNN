@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-16T06:23:09.065164+00:00",
-  "count": 16,
+  "fetched_at": "2026-08-16T07:22:50.872860+00:00",
+  "count": 15,
   "news": [
     {
       "id": "536e6c97856d",
@@ -16,13 +16,13 @@
       ]
     },
     {
-      "id": "1527c2eee9b5",
-      "title": "新發現：每天吃重複單調的飲食，對減重更有幫助 - Vogue Taiwan",
+      "id": "879d5f9c7059",
+      "title": "新發現：每天吃重複單調的飲食，對減重更有幫助 - vogue.com.tw",
       "published": "2026-08-14T07:29:50+00:00",
-      "summary": "新發現：每天吃重複單調的飲食，對減重更有幫助&nbsp;&nbsp;Vogue Taiwan",
+      "summary": "新發現：每天吃重複單調的飲食，對減重更有幫助&nbsp;&nbsp;vogue.com.tw",
       "sources": [
         {
-          "name": "Vogue Taiwan",
+          "name": "vogue.com.tw",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbV9GREIwVmZLTlRYRTI0XzUyNmpqNGc0QUE5eHVJQk5oZkxub1N5QllKMHBKQ3Nta1VablZvMGNMeW9XRGVrT3RZYWZhQmp1T3lxa3pOUHJEQ2VLdGZwTkVVUEFHTWZiZ1czcDRZck52dkpXQ3BtOHJtcmdYV0ZBUi1VLUJwMjZ5MFZxcmdYNi1RTTQ2b3NLd1ByeXdkdVlfRnBPbUFRRnlLWkVwQ2pheHBJYUJfR3VKUUIwZnFLU2ZxM1dUWnRCbW15UjJjQ19zdGVBU1Z5TFZRR3ZoaXVDMVN2ZDBfTEE?oc=5"
         }
       ]
@@ -31,11 +31,23 @@
       "id": "dee214012256",
       "title": "不用砸大錢！研究曝「改善3習慣」有助延壽：多活9年 | 三立新聞網 - LINE TODAY",
       "published": "2026-08-14T08:04:03+00:00",
-      "summary": "不用砸大錢！研究曝「改善3習慣」有助延壽：多活9年 | 三立新聞網&nbsp;&nbsp;LINE TODAY長壽的關鍵在於「空腹」？揭開諾貝爾獎認證的細胞再生長壽法&nbsp;&nbsp;bnext.com.tw每天多花7分鐘就能延壽 研究曝3習慣做好 多活9年&nbsp;&nbsp;中時新聞網最被低估的長壽藥竟是「它」？哈佛專家拆解長壽餐盤：吃對組合很關鍵- 營養好食&nbsp;&nbsp;TVBS 健康2.0想長壽不是少吃肉，而是多吃飯？最新研究推翻迷思：低蛋白、高碳水更健康&nbsp;&nbsp;天下雜誌",
+      "summary": "不用砸大錢！研究曝「改善3習慣」有助延壽：多活9年 | 三立新聞網&nbsp;&nbsp;LINE TODAY長壽的關鍵在於「空腹」？揭開諾貝爾獎認證的細胞再生長壽法&nbsp;&nbsp;數位時代每天多花7分鐘就能延壽 研究曝3習慣做好 多活9年&nbsp;&nbsp;中時新聞網最被低估的長壽藥竟是「它」？哈佛專家拆解長壽餐盤：吃對組合很關鍵- 營養好食&nbsp;&nbsp;TVBS 健康2.0想長壽不是少吃肉，而是多吃飯？最新研究推翻迷思：低蛋白、高碳水更健康&nbsp;&nbsp;天下雜誌",
       "sources": [
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LbEVWcTZJRGkzTE05UmxyV203TlQxd3RvQ2pPNDRVeEljaENMWkFpMkluUXJucTlYb3d0NElyblhOX3lZUi1WV0hLLXdVNXc2TnFmeW53?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "805238a004be",
+      "title": "類固醇吃逾３月 骨鬆上身 - Yahoo新聞",
+      "published": "2026-08-14T22:00:57+00:00",
+      "summary": "類固醇吃逾３月 骨鬆上身&nbsp;&nbsp;Yahoo新聞類固醇吃超過3個月 小心骨頭悄悄變脆&nbsp;&nbsp;Yahoo新聞類固醇吃超過3個月恐骨質流失 醫師提醒治療同步保骨防骨折&nbsp;&nbsp;自由健康網類固醇吃逾3個月小心骨頭變脆 嘉基醫師：骨鬆不是老人專利&nbsp;&nbsp;UDN日服5毫克類固醇小心骨折 規律運動與營養防骨質流失 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWlRKTVNsT3h2ZUU3a0VsYXN1dG52NEFIVjJmX1R5ZTBXd3JFVnZVZktxZWZCNkRjc2dLRXZXRzU0LWlSMVdOUXd2ZnhVNUNPWnZSLWdHLWgtODR2Q2J3SHEwYlJWbmR4TV9vS0NCb1ZRZ1VoVll1RWRNcmNVTnVncGQ4UUI2Si1tOGFvLVlaNHpJVUpCaVFsT0dRSWZtNnBGUmx0c3hXeWh6cWZrRWxIaDdLVkJyY3g4Z1JIX0t4b2tWNkVXQ1Jpd1U0Y2NpQQ?oc=5"
         }
       ]
     },
@@ -52,18 +64,6 @@
       ]
     },
     {
-      "id": "805238a004be",
-      "title": "類固醇吃逾３月 骨鬆上身 - Yahoo新聞",
-      "published": "2026-08-14T22:00:57+00:00",
-      "summary": "類固醇吃逾３月 骨鬆上身&nbsp;&nbsp;Yahoo新聞類固醇吃超過3個月 小心骨頭悄悄變脆&nbsp;&nbsp;Yahoo新聞類固醇吃超過3個月恐骨質流失 醫師提醒治療同步保骨防骨折&nbsp;&nbsp;health.ltn.com.tw類固醇吃逾3個月小心骨頭變脆 嘉基醫師：骨鬆不是老人專利&nbsp;&nbsp;UDN日服5毫克類固醇小心骨折 規律運動與營養防骨質流失 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWlRKTVNsT3h2ZUU3a0VsYXN1dG52NEFIVjJmX1R5ZTBXd3JFVnZVZktxZWZCNkRjc2dLRXZXRzU0LWlSMVdOUXd2ZnhVNUNPWnZSLWdHLWgtODR2Q2J3SHEwYlJWbmR4TV9vS0NCb1ZRZ1VoVll1RWRNcmNVTnVncGQ4UUI2Si1tOGFvLVlaNHpJVUpCaVFsT0dRSWZtNnBGUmx0c3hXeWh6cWZrRWxIaDdLVkJyY3g4Z1JIX0t4b2tWNkVXQ1Jpd1U0Y2NpQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1e0cfb855668",
       "title": "心悸胸悶被當自律神經失調10年！王以路做檢查遭嚴立婷笑虧「裸奔」 - 東森綜合",
       "published": "2026-08-14T17:49:00+00:00",
@@ -72,18 +72,6 @@
         {
           "name": "東森綜合",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqMHVDZ19fQXhwdnBuT3RZVHZPbzYzTjF2WWE1ZEYyREtFZlpBU3hOZnFFT21BRXRzRnZIRDR2T2R3X1oxLTh2VWo3bGJjLUJOYWRN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2225aea1b12c",
-      "title": "精胺酸功能多！協助免疫系統「找到」癌細胞與病毒- 國際 - 中時新聞網",
-      "published": "2026-08-14T15:34:58+00:00",
-      "summary": "精胺酸功能多！協助免疫系統「找到」癌細胞與病毒- 國際&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oWXIwSUVkNGNSNnF4aWdDQVo4OGptc29FUjZQOVA0amktcDRHWnpiZzhDQlhCNlo4bEU1U3lXanctNjFidmhtaXZrNjBpQmJhMnc5NjZpMlhIV0djclBFb3B1V1h6dFdtNmliVVFn?oc=5"
         }
       ]
     },
@@ -100,6 +88,18 @@
       ]
     },
     {
+      "id": "2225aea1b12c",
+      "title": "精胺酸功能多！協助免疫系統「找到」癌細胞與病毒- 國際 - 中時新聞網",
+      "published": "2026-08-14T15:34:58+00:00",
+      "summary": "精胺酸功能多！協助免疫系統「找到」癌細胞與病毒- 國際&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oWXIwSUVkNGNSNnF4aWdDQVo4OGptc29FUjZQOVA0amktcDRHWnpiZzhDQlhCNlo4bEU1U3lXanctNjFidmhtaXZrNjBpQmJhMnc5NjZpMlhIV0djclBFb3B1V1h6dFdtNmliVVFn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "17989b48b454",
       "title": "血液腫瘤患者感染兇手是誰？醫師解析發燒警訊與 mNGS 檢測 - 蕃新聞",
       "published": "2026-08-14T14:00:00+00:00",
@@ -112,13 +112,13 @@
       ]
     },
     {
-      "id": "cf32f169728f",
-      "title": "黑死病竟然還存在！ 美團隊研製新型疫苗重大突破 - health.ltn.com.tw",
+      "id": "ec0be83cb961",
+      "title": "黑死病竟然還存在！ 美團隊研製新型疫苗重大突破 - 自由健康網",
       "published": "2026-08-14T14:08:00+00:00",
-      "summary": "黑死病竟然還存在！ 美團隊研製新型疫苗重大突破&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "黑死病竟然還存在！ 美團隊研製新型疫苗重大突破&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GNVlla2h1NDltX3lPQVlxOWRreXJSdEhGY0lUcGFGQk5wSXlldzRjY1ExdlpzUFRpeEdQbUlFVXpqaGp3U0M5RHFRMEg2WkQteDNNeDFSSDFzRXZNd2tnME5VQjg?oc=5"
         }
       ]
@@ -168,18 +168,6 @@
         {
           "name": "荷花Eugenebaby",
           "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxOdWVseDhVckQwRkNUaldTbFJZZlI4aDEwM3pxSWZjdHdXMG1UbDhQZVU4TGs4VzM4Tmltejg1YkVuZVJGdWg0d3BpenN2ZWhGSERSbVFjS0RUMG1mYTRfNlR2Skp5V1Ayd0NOZmdRVVlDTFJzZEJzUVpNcHV6Szhka21mNXRfN2o5RkpORTROZjVoaXMzNTlTMVdVTGZvYnVQUGQtQkdEUGRiYmtxckpCZk1ZVU4yMDkybWtPRm92LUw3STJPRm9nSHNjalgwcUV0bGdtQVFRTEx4Vm0zRFlISTJwbVh5Q2FEOFBhSk10UGQ3WFNwaWNMOTZVZ1NiZW1CVC0zOW9VZXU2azg3dnZiMlMyRHhvUUF4M09sMVlsMUh0Sk53d0lRZkFfRHVnWmtvSUs2TUxtMkZuRFduZmJEaHRLX3N3MHZxTnI5Q0VCUTA0ZTVyTWVrTXl5bHA5MkhOZTBYYVdNclJLWWF2VE82TzNOUW9uYVRyVk0tUWNldWExMExEMGZ0ZE5CaVcxMThUb0U4UU1GSjVlZ21IMEdWbmNLOEJPNFlHeHl2Y0tIckE0QUFVZ01PS3ZxM2FwTXAtQlNyem1DZDRHUWhDbXVQaXdXeEZDSEJ2cFVoS0VUc1ctbVY2OXhFZVJQMkdwQTR6d29GOUxreWF2NjczSHI3S3lJVV9Oc3dPSG9EazJwU2lVR0ZN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ff3e1df842fb",
-      "title": "三立準氣象1130／東北風持續增強！明低溫下探18度 - setn.com",
-      "published": "2026-08-16T04:22:19+00:00",
-      "summary": "三立準氣象1130／東北風持續增強！明低溫下探18度&nbsp;&nbsp;setn.com",
-      "sources": [
-        {
-          "name": "setn.com",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CU0dhMUhGNDZTSHAyOGZsNUY5M3JuNDBYMXd5bDhGb2huX3V0TVllN2FXSkN6WUFSbmp2RWJaY0hZOHVyU2s0?oc=5"
         }
       ]
     },
