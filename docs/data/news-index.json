@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T23:10:52.781824+00:00",
-  "count": 3,
+  "generated": "2026-08-17T00:42:36.073079+00:00",
+  "count": 1,
   "news": [
     {
       "id": "b2701bc76c14",
@@ -21,58 +21,6 @@
             {
               "slug": "acetazolamide",
               "name": "Acetazolamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2ca2a3307f3c",
-      "title": "肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制 | 科技新報 - LINE TODAY",
-      "published": "2026-08-14T23:11:27+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfRnNvc1o5VnhXeVA4TVRvTDNJUThFWVBIcWpGN2ZRektDRzVIcWVNRFpscUp0MjF2S2NsZXhzS3NNcDEzR1RaM3FBbWh5cENkNmJ4aEtB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "128d9e3fd99c",
-      "title": "史上最完整思覺失調症基因圖譜問世，AI 發威助解全球 2,300 萬人病理謎團 | 科技新報 - LINE TODAY",
-      "published": "2026-08-14T22:18:26+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nTTlIcTlQdlY5QWV3X3l3UHZkWnVzdDF5RDhxczBUc3ZSczRrVl9IVEhUbkQ3Vm5RQk12ZVZaNDVKYXJEZVY1ajZGc0FJTm5LanZqLVVn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "schizophrenia",
-          "keyword": "思覺失調症",
-          "related_drugs": [
-            {
-              "slug": "ropinirole",
-              "name": "Ropinirole"
-            },
-            {
-              "slug": "rotigotine",
-              "name": "Rotigotine"
             }
           ]
         }

@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,9 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [肥胖恐是阿茲海默症幫兇？最新研究揭開「脂肪破壞大腦」的致命機制 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfRnNvc1o5VnhXeVA4TVRvTDNJUThFWVBIcWpGN2ZRektDRzVIcWVNRFpscUp0MjF2S2NsZXhzS3NNcDEzR1RaM3FBbWh5cENkNmJ4aEtB?oc=5)
-
-2026-08-14 <span class="news-indication-tag">阿茲海默症</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfRnNvc1o5VnhXeVA4TVRvTDNJUThFWVBIcWpGN2ZRektDRzVIcWVNRFpscUp0MjF2S2NsZXhzS3NNcDEzR1RaM3FBbWh5cENkNmJ4aEtB?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
