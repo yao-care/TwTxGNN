@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-17T06:34:47.028544+00:00",
-  "count": 16,
+  "fetched_at": "2026-08-17T07:43:28.465922+00:00",
+  "count": 7,
   "news": [
     {
       "id": "b69fcc85fb53",
@@ -16,26 +16,14 @@
       ]
     },
     {
-      "id": "6ec5e427667c",
-      "title": "「吃不胖」天選之人的祕密：罕見基因變異天生體脂低、血糖更穩定| 雜誌 - UDN",
-      "published": "2026-08-16T05:37:08+00:00",
-      "summary": "「吃不胖」天選之人的祕密：罕見基因變異天生體脂低、血糖更穩定| 雜誌&nbsp;&nbsp;UDN",
+      "id": "202e32270f86",
+      "title": "罕見疾病意外揭開抗癌祕密，科學家看見新希望 | 科技新報 - LINE TODAY",
+      "published": "2026-08-16T01:04:44+00:00",
+      "summary": "罕見疾病意外揭開抗癌祕密，科學家看見新希望 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYU19pT3psYVBablAxS1EyQ1NoQjBHaHd1M0NadVhTZ204VVVUTmtQWkdzc1lHSzJBcWtMY2NZcXRJTUdqRjBWNEtXUURVRXFi?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "658e8dff27a7",
-      "title": "罕見疾病意外揭開抗癌祕密，科學家看見新希望- 股市爆料同學會 - CMoney",
-      "published": "2026-08-15T23:48:49+00:00",
-      "summary": "罕見疾病意外揭開抗癌祕密，科學家看見新希望- 股市爆料同學會&nbsp;&nbsp;CMoney",
-      "sources": [
-        {
-          "name": "CMoney",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lRjBjTVpBRzc1dnI3Sko5eXdvd0RPWUUyeXBGWGlxRE5JWHlycHY3QlI4NG9UVnVySVZGMGVRMDdGM3M5TE5zMFhBN2IwTHFZLTNWOW1zb2o?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XSG9PZVlQcDcyT1puejljMjdfRFBEb0t0dEZGaWRNZkRST3ZYZWFCSGNLTWJINFpXX2xvZ1E4NU1fVS1CbnpScTF0dkdOUW1yWm5oenNR?oc=5"
         }
       ]
     },
@@ -52,18 +40,6 @@
       ]
     },
     {
-      "id": "c5f18b04cd25",
-      "title": "醫學滿東華：HPV陽性≠患性病 - 20260817 - 副刊 - 明報新聞網",
-      "published": "2026-08-16T20:30:00+00:00",
-      "summary": "醫學滿東華：HPV陽性≠患性病 - 20260817 - 副刊&nbsp;&nbsp;明報新聞網",
-      "sources": [
-        {
-          "name": "明報新聞網",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPV28wY3BOUHMwdEFsdDFSRjBpREpqb3U0dG5wQnBaVlNGcEZ1M0cxTkFvMlJFenRmaU9zVk9oUTlNcHVwZUZKdG1DN3hIS21IVUE1REEwdGI2MkJRQVRyYjdMQVFOT0NPZ1lXb09EX3RGT0xtWUlMT1doSXBzV25wVzJLTk81b3ZnMEloN285SmZ2Q3R5b1JMMDVmQWVKV2RWN1p0Sm43eU1wd0ZWTUttbDU3Uk1aSGdYNjlvQmJvUm1QOTVnUVNSQ25LUkNHaFRRVmdZbVBPaHlmajV0N2ZHNmRGcGc3UGQ5TzQ3XzBxR252ekM3TldhV3NIVGZlR0NCQU5SdlZTVnlxWUVPdVNWQ0hlbjY4UQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e5b5757edda4",
       "title": "吃類固醇超過3個月 不分年齡都要防骨鬆 - 蕃新聞",
       "published": "2026-08-15T13:11:11+00:00",
@@ -76,110 +52,26 @@
       ]
     },
     {
-      "id": "e2f1f8dd55a8",
-      "title": "泰妍暴瘦成紙片人！被目擊「比鏡頭還單薄」粉絲心疼：健康最重要- 股市爆料同學會 - CMoney",
-      "published": "2026-08-15T08:29:33+00:00",
-      "summary": "泰妍暴瘦成紙片人！被目擊「比鏡頭還單薄」粉絲心疼：健康最重要- 股市爆料同學會&nbsp;&nbsp;CMoney",
+      "id": "c5f18b04cd25",
+      "title": "醫學滿東華：HPV陽性≠患性病 - 20260817 - 副刊 - 明報新聞網",
+      "published": "2026-08-16T20:30:00+00:00",
+      "summary": "醫學滿東華：HPV陽性≠患性病 - 20260817 - 副刊&nbsp;&nbsp;明報新聞網",
       "sources": [
         {
-          "name": "CMoney",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EUUg5aHJsbXY5bnRWMlI4cWNHUnEyT044WDdfWXFDZno4UWdoR2l3RDMtZkRXRWt5UWpHSXhiSDJvUzZ0RnRqbTlUV1I2NDRMd2FxdDdOMVo?oc=5"
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPV28wY3BOUHMwdEFsdDFSRjBpREpqb3U0dG5wQnBaVlNGcEZ1M0cxTkFvMlJFenRmaU9zVk9oUTlNcHVwZUZKdG1DN3hIS21IVUE1REEwdGI2MkJRQVRyYjdMQVFOT0NPZ1lXb09EX3RGT0xtWUlMT1doSXBzV25wVzJLTk81b3ZnMEloN285SmZ2Q3R5b1JMMDVmQWVKV2RWN1p0Sm43eU1wd0ZWTUttbDU3Uk1aSGdYNjlvQmJvUm1QOTVnUVNSQ25LUkNHaFRRVmdZbVBPaHlmajV0N2ZHNmRGcGc3UGQ5TzQ3XzBxR252ekM3TldhV3NIVGZlR0NCQU5SdlZTVnlxWUVPdVNWQ0hlbjY4UQ?oc=5"
         }
       ]
     },
     {
-      "id": "433d5d455b64",
-      "title": "癌症手術前先「練功」，真的能讓恢復較快嗎？ - careonline.com.tw",
-      "published": "2026-08-16T16:01:09+00:00",
-      "summary": "癌症手術前先「練功」，真的能讓恢復較快嗎？&nbsp;&nbsp;careonline.com.tw",
-      "sources": [
-        {
-          "name": "careonline.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzY01XN2xyNVdFV3RIWlJqUURCTk9qSlRJU050b3U5Snk1U2FPTktfajBiMzdlMmhScjZPR2xyVWFHXzZwdS1MaWxwb0FVQnM4WlZGM01kVVpCNVQ5X1dYODlfOWdudw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a51343a94107",
-      "title": "法國、瑞士研發智慧胸罩 30分鐘偵測乳癌 - 世界新聞網",
-      "published": "2026-08-17T06:00:00+00:00",
-      "summary": "法國、瑞士研發智慧胸罩 30分鐘偵測乳癌&nbsp;&nbsp;世界新聞網",
+      "id": "fcdf9e5a3726",
+      "title": "告訴她、戴上它 30分鐘可挽救健康與生命 - 世界新聞網",
+      "published": "2026-08-17T02:48:55+00:00",
+      "summary": "告訴她、戴上它 30分鐘可挽救健康與生命&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
           "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vSjR1bE81bTlYYzlsaTJCT3k5cXV4N2phQWM2Q2g0UUkxVWJLWmlzYmFfbGxsUmx0dVluamF3dmF5MTU0YjlJckNQaW5FSndiYlJaR3lRQnh3MWxiY2s1M2t30gFnQVVfeXFMTUVIVjlOZzJmcklPMVZMTnVyUnZqQU0wQmlCeXJpTHRJZ2F4SWtZVGlCYjFfcmdTZWFqRWhNODVTdXAxbFp4RW1qYVJ6a0xNcXpsSFlKbl9QNVY5QkxmdWJfZm50UllEMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b1bd14042a63",
-      "title": "KIST揭天然物「MCL」保護癌症患者肌肉機制，關鍵在腸道微生物 - BigGo 財經",
-      "published": "2026-08-16T04:05:00+00:00",
-      "summary": "KIST揭天然物「MCL」保護癌症患者肌肉機制，關鍵在腸道微生物&nbsp;&nbsp;BigGo 財經",
-      "sources": [
-        {
-          "name": "BigGo 財經",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xbWRnV1gzRHlDVlE2SndqNXpTbm1iRG1nQlM3cXZQeFZFVnFhVUVWNC1XcnhMdDZ3alJVc21WUVl4R0x2WFEyUnc1OWtLQWhMXzR3SGRLVW5zdkd3LW96eUNjUFdqMWF0bkd6aHpQb1VlaVdSNHVUbTN3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "03d349a07824",
-      "title": "糖尿病友們，您的血糖控制也會影響呼吸能力嗎？ - careonline.com.tw",
-      "published": "2026-08-16T08:01:19+00:00",
-      "summary": "糖尿病友們，您的血糖控制也會影響呼吸能力嗎？&nbsp;&nbsp;careonline.com.tw",
-      "sources": [
-        {
-          "name": "careonline.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jT2lUYmpqSHZmcGItakU1c2VwU0VEZkdydFVhZGU0LUhrSzZoam9xcnBSNC1jWjlHTGpZMHF6b2NHWUZpUmlJME5iNXVNY083a3ZTWlpUbmNLUUg4dWE3ZkFvejdZZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fa815618ae53",
-      "title": "預防失智｜新研究揭進食時間影響大腦9小時吃完三餐防失智提升記憶解決問題能力睡前X小時禁食- 東張+ - myTV SUPER",
-      "published": "2026-08-17T03:30:00+00:00",
-      "summary": "預防失智｜新研究揭進食時間影響大腦9小時吃完三餐防失智提升記憶解決問題能力睡前X小時禁食- 東張+&nbsp;&nbsp;myTV SUPER",
-      "sources": [
-        {
-          "name": "myTV SUPER",
-          "link": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxQampyVnpGVEF1dTR2ckkweEszRWN1UHpCTzFsbDhDVG9RN1lSZEI3TDh3RDBQQWt3Qk56V2pJS1pWUlQ4ZWFuYThDRklna0NZdVQ5ZnBQcDd5UUNBQXExWDJ6bWtTUHVCTUp5NVRITGVuelZRMWEycXV4NkdQcnlvbXo1dHh2SmFhMi15eUFURUFzVUN2UHhfTHhFczZJNXJNUU5Hc3ZKeUFQVWlGSHRiU3ktUG5TLVA2Q1BRUHV4WWtyUElsLUNVS3hOVHNVWVVDTXBXeDhGZHVyZEtRdDgwdk5wZHVWeEtwQ2cxQllCb25xUXJuZGhUQnBreU9UMFA5bGp5cGdIbzk5SnlGc2RTV2FvSlhjcUQ0NV93b1VDNTNaYVFEVDZjSnBJUkNmemx2UnJfNXVhMlI5TkdCeDVLZGJSZkZ1QjRXc1JHVWNrWG9EdHVleFhhUUh1WkxWTjFCWXFValFTQmpXZGpwUmxxS3pUcTZEb2VUR3Z6YUxjUGJCZGR0Z1pMN2RNUUxOdktOWU1fUFhJaUQ0MmZYVXFua1l1ZmYwXzlOaUlORk03dzhwTWlPU1h1WU5HSDFYSHFfa3NKSVlxY0EyNTJsWkQwbnhkWEpsRTlXX3R4RnFIWTZIMVMyMWVNeXVHSnRoMWx3YWQ1WEhmQWRHU0UzejJUNW16cHJxaGk0eGd6b1IxZWx5WUhWeFNGYzlFeU9OR2g0TlR3ZVRqYXppU1BpSzFISDlDM2xUaGxLNXlWaE5mbmFWLXRVVmdCXzRkZXpncmtZUWlacnFjZlg1elpvVjNHSEVVMUxvM2E1U2FpeEVXYmI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8bb7429a8b44",
-      "title": "上東城退伍軍人症累計9死 - Singtaousa",
-      "published": "2026-08-15T10:00:00+00:00",
-      "summary": "上東城退伍軍人症累計9死&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdW5ZcW5GMk1nLXVVZS1mQ2x3Z1kxSktoZmdRZHVuY2lVM1Y2dnpGUm5aTWc5N3BrM1VFSFZ3YkF5Rk81SnhBTS1uSHpzRUxRQnBLLXJ6M1ZuSVVBaXMxQ3R5VXNlVlo1ZkZNYUp5LWN6eHdZcXVEWVRjWWRpM3JOZ29YeDVsRzE5?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6968db1699c2",
-      "title": "皮膚問題不斷？或許『皮膚微生物群』能幫上忙！ - careonline.com.tw",
-      "published": "2026-08-15T16:01:21+00:00",
-      "summary": "皮膚問題不斷？或許『皮膚微生物群』能幫上忙！&nbsp;&nbsp;careonline.com.tw",
-      "sources": [
-        {
-          "name": "careonline.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wSi1FdEE0YjZIeDVKZHNkWnU2ZTdlOVRlcENGLTB2X3NwU3pRVUZCSWFDOEFsMnNDRzdXWlJ3OFAwS2xXd0prVDdkWHpqTTdVR1V1a3k5RnZRcmM0SzNLNFdIWWl6UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b2ee3bb12a3b",
-      "title": "胰臟癌細胞會隱身研究找到破解關鍵- 醫藥新知- 新聞 - 華人今日網",
-      "published": "2026-08-15T07:58:54+00:00",
-      "summary": "胰臟癌細胞會隱身研究找到破解關鍵- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
-      "sources": [
-        {
-          "name": "華人今日網",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1weXBHOFlhWFp6cGhObEFhOWRIOUFxRGxCdkV3cTZWa0w1TnVIY3phN21JbFQxNWtrT0pFNm5ST3ctOUJPdjlvb3UtN3ptcC1kQWN5YkRmai1FNTRsWmtoV0h3WV9adw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WOXh4RGplSGRfUXNhVjd6T2IyU3o3MGRORVl3WnlUWHRXQzNLX1NmSHQ3WXZsSGt4NEtMdzRmb1A5eGQxQktPOEVwdzJ2SV9OcTFEaE9ueW9ZNHI5Z0RwcUtR0gFnQVVfeXFMTVZrVXpjT24yTWtLWXBqX29LMDQ0N0lQa3Y5UVo3cXdVUTl2R2NTREJxU1VJbllOWWhBVDQ1eEhpbnJ5UnM2VEVyc040UTlTa3ZHcV82cnAzbFV0NkJiOTd4QUpRNW1jdw?oc=5"
         }
       ]
     },
