@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [癌症手術前先「練功」，真的能讓恢復較快嗎？](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzY01XN2xyNVdFV3RIWlJqUURCTk9qSlRJU050b3U5Snk1U2FPTktfajBiMzdlMmhScjZPR2xyVWFHXzZwdS1MaWxwb0FVQnM4WlZGM01kVVpCNVQ5X1dYODlfOWdudw?oc=5)
+### [破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hbERDSXYxdk5Za0hGNlRYcmktSmNGaHgxZEc1S0lLc3lna2puRjVsUHJWUmZWV2RLNHI1QjU4UzljYmc2MG5xLS1wLTJKN0NHSmdUZFNB?oc=5)
 
-2026-08-16 <span class="news-indication-tag">癌症</span>
+2026-08-15 <span class="news-indication-tag">癲癇</span>
 
-來源：[careonline.com.tw](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzY01XN2xyNVdFV3RIWlJqUURCTk9qSlRJU050b3U5Snk1U2FPTktfajBiMzdlMmhScjZPR2xyVWFHXzZwdS1MaWxwb0FVQnM4WlZGM01kVVpCNVQ5X1dYODlfOWdudw?oc=5)
-
----
-
-### [KIST揭天然物「MCL」保護癌症患者肌肉機制，關鍵在腸道微生物 - BigGo 財經](https://news.google.com/rss/articles/CBMiekFVX3lxTE9xbWRnV1gzRHlDVlE2SndqNXpTbm1iRG1nQlM3cXZQeFZFVnFhVUVWNC1XcnhMdDZ3alJVc21WUVl4R0x2WFEyUnc1OWtLQWhMXzR3SGRLVW5zdkd3LW96eUNjUFdqMWF0bkd6aHpQb1VlaVdSNHVUbTN3?oc=5)
-
-2026-08-16 <span class="news-indication-tag">癌症</span>
-
-來源：[BigGo 財經](https://news.google.com/rss/articles/CBMiekFVX3lxTE9xbWRnV1gzRHlDVlE2SndqNXpTbm1iRG1nQlM3cXZQeFZFVnFhVUVWNC1XcnhMdDZ3alJVc21WUVl4R0x2WFEyUnc1OWtLQWhMXzR3SGRLVW5zdkd3LW96eUNjUFdqMWF0bkd6aHpQb1VlaVdSNHVUbTN3?oc=5)
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hbERDSXYxdk5Za0hGNlRYcmktSmNGaHgxZEc1S0lLc3lna2puRjVsUHJWUmZWV2RLNHI1QjU4UzljYmc2MG5xLS1wLTJKN0NHSmdUZFNB?oc=5)
 
 ---
 
