@@ -67,11 +67,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！ - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHpWOFRsWEpIWkhzTFlTdW42X0piWGZ2bWtfa3I0MjVCRHpycGxDNmlZbnVUOGJzZTFyX3A2Y2tTYXlsVDVmaGtJM0NqMXRaT3Vv?oc=5)
+### [活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHpWOFRsWEpIWkhzTFlTdW42X0piWGZ2bWtfa3I0MjVCRHpycGxDNmlZbnVUOGJzZTFyX3A2Y2tTYXlsVDVmaGtJM0NqMXRaT3Vv?oc=5)
 
 2026-08-17 <span class="news-indication-tag">失智</span>
 
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHpWOFRsWEpIWkhzTFlTdW42X0piWGZ2bWtfa3I0MjVCRHpycGxDNmlZbnVUOGJzZTFyX3A2Y2tTYXlsVDVmaGtJM0NqMXRaT3Vv?oc=5)
+來源：[health.tvbs.com.tw](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHpWOFRsWEpIWkhzTFlTdW42X0piWGZ2bWtfa3I0MjVCRHpycGxDNmlZbnVUOGJzZTFyX3A2Y2tTYXlsVDVmaGtJM0NqMXRaT3Vv?oc=5)
 
 ---
 
