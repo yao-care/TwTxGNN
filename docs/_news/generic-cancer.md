@@ -81,7 +81,7 @@ permalink: /news/generic-cancer/
 
 2026-08-17
 
-來源：[singtaousa.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxQemF5R01ZeXd0U3BtcXhnNnRJOWF1akYydHRtTExVQzhoRmg1RkdpQlRhUG5NYm91OHU5X2o5aFBreFdweC01Y3NZOWliRFYtVXY3MzJNbU9IU0oyZzdhOXd2NUtsemhUYzVNWk5wVHZ3aFdLOE5QT0h0Mkx4d1lzM2swRmVlYnl4UnA4c2l2R0twaWRzUEE3bjBsZHh6ZmI0dGJnNFNYRWtRUmpoSHc?oc=5)
+來源：[Singtaousa](https://news.google.com/rss/articles/CBMirgFBVV95cUxQemF5R01ZeXd0U3BtcXhnNnRJOWF1akYydHRtTExVQzhoRmg1RkdpQlRhUG5NYm91OHU5X2o5aFBreFdweC01Y3NZOWliRFYtVXY3MzJNbU9IU0oyZzdhOXd2NUtsemhUYzVNWk5wVHZ3aFdLOE5QT0h0Mkx4d1lzM2swRmVlYnl4UnA4c2l2R0twaWRzUEE3bjBsZHh6ZmI0dGJnNFNYRWtRUmpoSHc?oc=5)
 
 ---
 
