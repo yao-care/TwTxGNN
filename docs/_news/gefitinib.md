@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,9 +41,31 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（3 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [預防失智｜新研究揭進食時間影響大腦9小時吃完三餐防失智提升記憶解決問題能力睡前X小時禁食- 東張+ - myTV SUPER](https://news.google.com/rss/articles/CBMi8ARBVV95cUxQampyVnpGVEF1dTR2ckkweEszRWN1UHpCTzFsbDhDVG9RN1lSZEI3TDh3RDBQQWt3Qk56V2pJS1pWUlQ4ZWFuYThDRklna0NZdVQ5ZnBQcDd5UUNBQXExWDJ6bWtTUHVCTUp5NVRITGVuelZRMWEycXV4NkdQcnlvbXo1dHh2SmFhMi15eUFURUFzVUN2UHhfTHhFczZJNXJNUU5Hc3ZKeUFQVWlGSHRiU3ktUG5TLVA2Q1BRUHV4WWtyUElsLUNVS3hOVHNVWVVDTXBXeDhGZHVyZEtRdDgwdk5wZHVWeEtwQ2cxQllCb25xUXJuZGhUQnBreU9UMFA5bGp5cGdIbzk5SnlGc2RTV2FvSlhjcUQ0NV93b1VDNTNaYVFEVDZjSnBJUkNmemx2UnJfNXVhMlI5TkdCeDVLZGJSZkZ1QjRXc1JHVWNrWG9EdHVleFhhUUh1WkxWTjFCWXFValFTQmpXZGpwUmxxS3pUcTZEb2VUR3Z6YUxjUGJCZGR0Z1pMN2RNUUxOdktOWU1fUFhJaUQ0MmZYVXFua1l1ZmYwXzlOaUlORk03dzhwTWlPU1h1WU5HSDFYSHFfa3NKSVlxY0EyNTJsWkQwbnhkWEpsRTlXX3R4RnFIWTZIMVMyMWVNeXVHSnRoMWx3YWQ1WEhmQWRHU0UzejJUNW16cHJxaGk0eGd6b1IxZWx5WUhWeFNGYzlFeU9OR2g0TlR3ZVRqYXppU1BpSzFISDlDM2xUaGxLNXlWaE5mbmFWLXRVVmdCXzRkZXpncmtZUWlacnFjZlg1elpvVjNHSEVVMUxvM2E1U2FpeEVXYmI?oc=5)
+
+2026-08-17 <span class="news-indication-tag">失智</span>
+
+來源：[myTV SUPER](https://news.google.com/rss/articles/CBMi8ARBVV95cUxQampyVnpGVEF1dTR2ckkweEszRWN1UHpCTzFsbDhDVG9RN1lSZEI3TDh3RDBQQWt3Qk56V2pJS1pWUlQ4ZWFuYThDRklna0NZdVQ5ZnBQcDd5UUNBQXExWDJ6bWtTUHVCTUp5NVRITGVuelZRMWEycXV4NkdQcnlvbXo1dHh2SmFhMi15eUFURUFzVUN2UHhfTHhFczZJNXJNUU5Hc3ZKeUFQVWlGSHRiU3ktUG5TLVA2Q1BRUHV4WWtyUElsLUNVS3hOVHNVWVVDTXBXeDhGZHVyZEtRdDgwdk5wZHVWeEtwQ2cxQllCb25xUXJuZGhUQnBreU9UMFA5bGp5cGdIbzk5SnlGc2RTV2FvSlhjcUQ0NV93b1VDNTNaYVFEVDZjSnBJUkNmemx2UnJfNXVhMlI5TkdCeDVLZGJSZkZ1QjRXc1JHVWNrWG9EdHVleFhhUUh1WkxWTjFCWXFValFTQmpXZGpwUmxxS3pUcTZEb2VUR3Z6YUxjUGJCZGR0Z1pMN2RNUUxOdktOWU1fUFhJaUQ0MmZYVXFua1l1ZmYwXzlOaUlORk03dzhwTWlPU1h1WU5HSDFYSHFfa3NKSVlxY0EyNTJsWkQwbnhkWEpsRTlXX3R4RnFIWTZIMVMyMWVNeXVHSnRoMWx3YWQ1WEhmQWRHU0UzejJUNW16cHJxaGk0eGd6b1IxZWx5WUhWeFNGYzlFeU9OR2g0TlR3ZVRqYXppU1BpSzFISDlDM2xUaGxLNXlWaE5mbmFWLXRVVmdCXzRkZXpncmtZUWlacnFjZlg1elpvVjNHSEVVMUxvM2E1U2FpeEVXYmI?oc=5)
+
+---
+
+### [癌症手術前先「練功」，真的能讓恢復較快嗎？](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzY01XN2xyNVdFV3RIWlJqUURCTk9qSlRJU050b3U5Snk1U2FPTktfajBiMzdlMmhScjZPR2xyVWFHXzZwdS1MaWxwb0FVQnM4WlZGM01kVVpCNVQ5X1dYODlfOWdudw?oc=5)
+
+2026-08-16 <span class="news-indication-tag">癌症</span>
+
+來源：[careonline.com.tw](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzY01XN2xyNVdFV3RIWlJqUURCTk9qSlRJU050b3U5Snk1U2FPTktfajBiMzdlMmhScjZPR2xyVWFHXzZwdS1MaWxwb0FVQnM4WlZGM01kVVpCNVQ5X1dYODlfOWdudw?oc=5)
+
+---
+
+### [KIST揭天然物「MCL」保護癌症患者肌肉機制，關鍵在腸道微生物 - BigGo 財經](https://news.google.com/rss/articles/CBMiekFVX3lxTE9xbWRnV1gzRHlDVlE2SndqNXpTbm1iRG1nQlM3cXZQeFZFVnFhVUVWNC1XcnhMdDZ3alJVc21WUVl4R0x2WFEyUnc1OWtLQWhMXzR3SGRLVW5zdkd3LW96eUNjUFdqMWF0bkd6aHpQb1VlaVdSNHVUbTN3?oc=5)
+
+2026-08-16 <span class="news-indication-tag">癌症</span>
+
+來源：[BigGo 財經](https://news.google.com/rss/articles/CBMiekFVX3lxTE9xbWRnV1gzRHlDVlE2SndqNXpTbm1iRG1nQlM3cXZQeFZFVnFhVUVWNC1XcnhMdDZ3alJVc21WUVl4R0x2WFEyUnc1OWtLQWhMXzR3SGRLVW5zdkd3LW96eUNjUFdqMWF0bkd6aHpQb1VlaVdSNHVUbTN3?oc=5)
+
+---
 
 
 <div class="disclaimer">
