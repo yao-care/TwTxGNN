@@ -35,11 +35,11 @@ permalink: /news/trabectedin/
 
 ## 相關新聞（1 則）
 
-### [胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望](https://news.google.com/rss/articles/CBMiekFVX3lxTE10Wk4yVjBtN0EtUFhDbm84eHEtejloR0pmY3R5WjlXWVpLWEtwSmg2MXlkYlkzazNhZ2VmUnVpVmlKUFdvMmEwdXdTSWdmY3VLMU0wd1hxNGx0SnlYazlYVWJ4ZEZxb1NUNVlqZ2Zkb0o5ZnAtMnVYbF9B?oc=5)
+### [胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望](https://news.google.com/rss/articles/CBMidkFVX3lxTFBHOWFjbEJibTVsV21La09RNkdFd0RCSGVnb3NvbXVhTWhsRXREQkZRUzVvWnpUaXVkR3VwMGdxYV90S3RBNXluYjhDZnRFN1ZWQnJxSU1TVUo0eEZQM0p5aW05ZHBGRkllaV9DR09RWTNqdG5LT0E?oc=5)
 
 2026-08-17 <span class="news-indication-tag">腫瘤</span>
 
-來源：[香港商报](https://news.google.com/rss/articles/CBMiekFVX3lxTE10Wk4yVjBtN0EtUFhDbm84eHEtejloR0pmY3R5WjlXWVpLWEtwSmg2MXlkYlkzazNhZ2VmUnVpVmlKUFdvMmEwdXdTSWdmY3VLMU0wd1hxNGx0SnlYazlYVWJ4ZEZxb1NUNVlqZ2Zkb0o5ZnAtMnVYbF9B?oc=5)
+來源：[香港商报](https://news.google.com/rss/articles/CBMidkFVX3lxTFBHOWFjbEJibTVsV21La09RNkdFd0RCSGVnb3NvbXVhTWhsRXREQkZRUzVvWnpUaXVkR3VwMGdxYV90S3RBNXluYjhDZnRFN1ZWQnJxSU1TVUo0eEZQM0p5aW05ZHBGRkllaV9DR09RWTNqdG5LT0E?oc=5)
 
 ---
 

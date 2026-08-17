@@ -1,17 +1,68 @@
 {
-  "last_updated": "2026-08-17T10:22:21.883187+00:00",
-  "total_count": 11,
-  "matched_count": 2,
+  "last_updated": "2026-08-17T11:16:40.248631+00:00",
+  "total_count": 14,
+  "matched_count": 3,
   "news": [
     {
-      "id": "6a6ea02dfb4a",
+      "id": "928898b4a2fc",
+      "title": "甲型流感︱網民力推抗甲流神藥 食1粒即痊癒極速見效 藥劑師拆解用藥注意：忌與1飲品同服",
+      "published": "2026-08-17T10:36:56+00:00",
+      "summary": "甲型流感︱網民力推抗甲流神藥 食1粒即痊癒極速見效 藥劑師拆解用藥注意：忌與1飲品同服&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxPbjRSUE5iRXlPbkJmWnUxUWxNalhxcmVPVVpfTFUzLWE1VmdWZUdNdjduckI1TmE5ekNJNlB6THE1QXVDVWY4OEFmMWZKSDItdDR3WVNJWm5mYlhRTHJSUDVqWHR1Y2pyczlzTkJHNGlCMERFN1c4bjVXWURvSEVVcU16eDJ4OUpIdGgtcmdHajdfQ1Nrb0ZjbHZ3c2lSNzRnNDBlTTdCczRlTW95ZUFMcVZCLTVCdVRZQTFTQ1FlODctQ213bWlJQWI5aTZIbXR6TkI3VE5fSHZrOEU4MFdNci1NeU93b3BHV2pkNElMTUg3WE9KZWJWWW1sTjZtSVI0LTQweEVIaGRMQko3Mmd1bEhJMFAwbmg4Y0RlUUpaU3ZWM2FMOWMyeEpJSC1HNHcxZENvTF9kRWpmWEN6VmIxRFkxN21ZMW1Mbm1lMHI5OWN6NUo3eUlqaXFRdkVEdnB6YUpJXzMzRm5QUzFFZG5fZEZGb0pQdDlQQ1NjUUtaSnc0OS1DaHczaHhvNDF6SDdPbEFFU2ljdmFlcHktZXlFYmcxNWRIWTdBd3NzQWRKdmtfaGMybWNCb1lxTXY0WkswSk01OTNma3hfX2pZVkpINGFsYmI3Z2pZbkpJV21aSXVGd2FVWmNjWEZyLTFhMjJPZ1BuNE1MV2F3TnBCaHJEZHowS2V6bXBndXpGZTRxQU5TTFBTbFRlQU5EYWtsMnFfeVhBUGlfXzhFYmVha1dEMkh5TC1EWUl6bUJCSlNiakFkMGF0NVE3UTE0Z2dNTmhvbWc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b8509fc5ecb3",
+      "title": "側睡有助大腦「倒垃圾」？左睡、右睡哪邊好？專家揭「這點」更重要",
+      "published": "2026-08-17T10:32:59+00:00",
+      "summary": "側睡有助大腦「倒垃圾」？左睡、右睡哪邊好？專家揭「這點」更重要&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQbVZoVFJpMzlQa0xHaEh0Mm9XR28ydmJiWTRORm9zWnNzYXQ1RzRGdUVmN0J1eTQ2S3lWaXFIUFVXbER3ajh3MEkzLXFQa3BieDNjb0xhVlo5b0YzcEFkNE5LUm5vMm1DNmVrYjJUREhYd0xnaUtadlktXy1wTE9Oc3Z3ajR0RFk4RGRub01Sc25ZWmhqRGNScGRwcHAtMmZNc2dEQUF0OFh4YXN0T0luZURLSk5yZy0zZWYzTHRYUzMtUGxnekdqa3htWXlQUUFvMGdRZ2xZT2RHZ3lZSmpZOWE1b05WbDFqWlQzOVBCLU5RVmJNTWxKX05JUXJ2R2hma3h0SlJURHRKR0NVRzJfR1h0UGNYTUNQdmM5TTYyc3YwOFRuTVVnTHd0THIzbWY3MlZDS3VxWjd4WHBa?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a25c90d0b261",
+      "title": "活到90歲以上就能免疫失智？頂尖醫學研究發現揭真相：女性風險是男性2倍！ - TVBS 健康2.0",
+      "published": "2026-08-17T10:20:00+00:00",
+      "summary": "活到90歲以上就能免疫失智？頂尖醫學研究發現揭真相：女性風險是男性2倍！&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHpWOFRsWEpIWkhzTFlTdW42X0piWGZ2bWtfa3I0MjVCRHpycGxDNmlZbnVUOGJzZTFyX3A2Y2tTYXlsVDVmaGtJM0NqMXRaT3Vv?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0f223644dab8",
       "title": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望",
       "published": "2026-08-17T08:23:00+00:00",
       "summary": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望&nbsp;&nbsp;香港商报",
       "sources": [
         {
           "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10Wk4yVjBtN0EtUFhDbm84eHEtejloR0pmY3R5WjlXWVpLWEtwSmg2MXlkYlkzazNhZ2VmUnVpVmlKUFdvMmEwdXdTSWdmY3VLMU0wd1hxNGx0SnlYazlYVWJ4ZEZxb1NUNVlqZ2Zkb0o5ZnAtMnVYbF9B?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHOWFjbEJibTVsV21La09RNkdFd0RCSGVnb3NvbXVhTWhsRXREQkZRUzVvWnpUaXVkR3VwMGdxYV90S3RBNXluYjhDZnRFN1ZWQnJxSU1TVUo0eEZQM0p5aW05ZHBGRkllaV9DR09RWTNqdG5LT0E?oc=5"
         }
       ],
       "matched_keywords": [
@@ -332,7 +383,7 @@
       "id": "e5b5757edda4",
       "title": "吃類固醇超過3個月 不分年齡都要防骨鬆",
       "published": "2026-08-15T13:11:11+00:00",
-      "summary": "吃類固醇超過3個月 不分年齡都要防骨鬆&nbsp;&nbsp;蕃新聞類固醇吃超過3個月 小心骨頭悄悄變脆&nbsp;&nbsp;Yahoo新聞類固醇吃超過3個月恐骨質流失 醫師提醒治療同步保骨防骨折&nbsp;&nbsp;自由健康網類固醇吃逾3個月小心骨頭變脆 嘉基醫師：骨鬆不是老人專利&nbsp;&nbsp;udn.com日服5毫克類固醇小心骨折 規律運動與營養防骨質流失 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "吃類固醇超過3個月 不分年齡都要防骨鬆&nbsp;&nbsp;蕃新聞類固醇吃超過3個月 小心骨頭悄悄變脆&nbsp;&nbsp;Yahoo新聞類固醇吃超過3個月恐骨質流失 醫師提醒治療同步保骨防骨折&nbsp;&nbsp;自由健康網類固醇吃逾3個月小心骨頭變脆 嘉基醫師：骨鬆不是老人專利&nbsp;&nbsp;UDN日服5毫克類固醇小心骨折 規律運動與營養防骨質流失 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online新聞",
       "sources": [
         {
           "name": "蕃新聞",

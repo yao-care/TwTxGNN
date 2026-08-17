@@ -1,15 +1,39 @@
 {
-  "generated": "2026-08-17T10:22:21.910026+00:00",
-  "count": 2,
+  "generated": "2026-08-17T11:16:40.276354+00:00",
+  "count": 3,
   "news": [
     {
-      "id": "6a6ea02dfb4a",
+      "id": "a25c90d0b261",
+      "title": "活到90歲以上就能免疫失智？頂尖醫學研究發現揭真相：女性風險是男性2倍！ - TVBS 健康2.0",
+      "published": "2026-08-17T10:20:00+00:00",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHpWOFRsWEpIWkhzTFlTdW42X0piWGZ2bWtfa3I0MjVCRHpycGxDNmlZbnVUOGJzZTFyX3A2Y2tTYXlsVDVmaGtJM0NqMXRaT3Vv?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0f223644dab8",
       "title": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望",
       "published": "2026-08-17T08:23:00+00:00",
       "sources": [
         {
           "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10Wk4yVjBtN0EtUFhDbm84eHEtejloR0pmY3R5WjlXWVpLWEtwSmg2MXlkYlkzazNhZ2VmUnVpVmlKUFdvMmEwdXdTSWdmY3VLMU0wd1hxNGx0SnlYazlYVWJ4ZEZxb1NUNVlqZ2Zkb0o5ZnAtMnVYbF9B?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHOWFjbEJibTVsV21La09RNkdFd0RCSGVnb3NvbXVhTWhsRXREQkZRUzVvWnpUaXVkR3VwMGdxYV90S3RBNXluYjhDZnRFN1ZWQnJxSU1TVUo0eEZQM0p5aW05ZHBGRkllaV9DR09RWTNqdG5LT0E?oc=5"
         }
       ],
       "keywords": [
