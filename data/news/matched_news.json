@@ -1,16 +1,225 @@
 {
-  "last_updated": "2026-08-17T13:32:41.721450+00:00",
-  "total_count": 19,
-  "matched_count": 5,
+  "last_updated": "2026-08-17T14:18:01.375323+00:00",
+  "total_count": 20,
+  "matched_count": 6,
   "news": [
     {
-      "id": "9a7f98aa7066",
-      "title": "健康網》缺鐵不只疲倦！百萬網紅曝8大警訊 愛吃冰塊也上榜",
-      "published": "2026-08-17T12:26:00+00:00",
-      "summary": "健康網》缺鐵不只疲倦！百萬網紅曝8大警訊 愛吃冰塊也上榜&nbsp;&nbsp;自由健康網",
+      "id": "2488867ab3cf",
+      "title": "40歲以下注意了！腫瘤科醫警告「冒1症狀」恐是癌",
+      "published": "2026-08-17T14:12:00+00:00",
+      "summary": "40歲以下注意了！腫瘤科醫警告「冒1症狀」恐是癌&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ESmdqWldBbTBiNG1hVy1KRWZQY0FyMFFOR3UwdFBLVkFxM3pobGtSd1RuRFBKNFFRSHVCd21lQ1RFeWxRbTZwSHhja20?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "腫瘤",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20583d993b87",
+      "title": "健康網》缺鐵不只疲倦！百萬網紅曝8大警訊 愛吃冰塊也上榜",
+      "published": "2026-08-17T12:26:00+00:00",
+      "summary": "健康網》缺鐵不只疲倦！百萬網紅曝8大警訊 愛吃冰塊也上榜&nbsp;&nbsp;health.ltn.com.tw",
+      "sources": [
+        {
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ERThrTkRKNk0wbFdFQ1RlTXVLQldHeExGbkxGQkpHQVg0WEg3MEUydUh1LWR3aTM0YUtPVExhVk5VNWwzNXpEMTdmMTJ1TWVhYkMtQlVVcmZqX20xeG5CWHdZeEo?oc=5"
         }
       ],
@@ -641,7 +850,7 @@
       "id": "1a0d6d8235c7",
       "title": "骨折不是老人專利！類固醇吃超過3個月 小心骨頭悄悄變脆",
       "published": "2026-08-16T16:32:02+00:00",
-      "summary": "骨折不是老人專利！類固醇吃超過3個月 小心骨頭悄悄變脆&nbsp;&nbsp;蕃新聞類固醇吃超過3個月 小心骨頭悄悄變脆&nbsp;&nbsp;Yahoo新聞類固醇吃超過3個月恐骨質流失 醫師提醒治療同步保骨防骨折&nbsp;&nbsp;自由健康網類固醇吃逾3個月小心骨頭變脆 嘉基醫師：骨鬆不是老人專利&nbsp;&nbsp;UDN日服5毫克類固醇小心骨折 規律運動與營養防骨質流失 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "骨折不是老人專利！類固醇吃超過3個月 小心骨頭悄悄變脆&nbsp;&nbsp;蕃新聞類固醇吃超過3個月 小心骨頭悄悄變脆&nbsp;&nbsp;Yahoo新聞類固醇吃超過3個月恐骨質流失 醫師提醒治療同步保骨防骨折&nbsp;&nbsp;health.ltn.com.tw類固醇吃逾3個月小心骨頭變脆 嘉基醫師：骨鬆不是老人專利&nbsp;&nbsp;UDN日服5毫克類固醇小心骨折 規律運動與營養防骨質流失 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;news.pchome.com.tw",
       "sources": [
         {
           "name": "蕃新聞",
