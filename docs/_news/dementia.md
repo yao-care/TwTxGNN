@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [活到90歲以上就能免疫失智？頂尖醫學研究發現揭真相：女性風險是男性2倍！ - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHpWOFRsWEpIWkhzTFlTdW42X0piWGZ2bWtfa3I0MjVCRHpycGxDNmlZbnVUOGJzZTFyX3A2Y2tTYXlsVDVmaGtJM0NqMXRaT3Vv?oc=5)
 
 2026-08-17
 
 來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHpWOFRsWEpIWkhzTFlTdW42X0piWGZ2bWtfa3I0MjVCRHpycGxDNmlZbnVUOGJzZTFyX3A2Y2tTYXlsVDVmaGtJM0NqMXRaT3Vv?oc=5)
+
+---
+
+### [及早護晚年大腦健康！研究：中年「無3心血管因素」未失智時間多13年](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxN0FDT1FZVVJoVFVqVjBJb3RKZUw2MG1MLV80S3pUOG1mVXBreUp5Tkk3UGhybkduWlIyRkhsZVk1U3RmMmQzVTZzZlF3TVdpb3N3Smd3?oc=5)
+
+2026-08-17
+
+來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxN0FDT1FZVVJoVFVqVjBJb3RKZUw2MG1MLV80S3pUOG1mVXBreUp5Tkk3UGhybkduWlIyRkhsZVk1U3RmMmQzVTZzZlF3TVdpb3N3Smd3?oc=5)
 
 ---
 
