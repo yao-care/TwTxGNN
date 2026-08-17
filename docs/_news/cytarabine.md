@@ -14,7 +14,7 @@ permalink: /news/cytarabine/
 ---
 
 <p class="key-answer" data-question="Cytarabine 有什麼相關新聞？">
-<strong>Cytarabine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cytarabine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,9 +40,15 @@ permalink: /news/cytarabine/
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望](https://news.google.com/rss/articles/CBMiekFVX3lxTE10Wk4yVjBtN0EtUFhDbm84eHEtejloR0pmY3R5WjlXWVpLWEtwSmg2MXlkYlkzazNhZ2VmUnVpVmlKUFdvMmEwdXdTSWdmY3VLMU0wd1hxNGx0SnlYazlYVWJ4ZEZxb1NUNVlqZ2Zkb0o5ZnAtMnVYbF9B?oc=5)
+
+2026-08-17 <span class="news-indication-tag">腫瘤</span>
+
+來源：[香港商报](https://news.google.com/rss/articles/CBMiekFVX3lxTE10Wk4yVjBtN0EtUFhDbm84eHEtejloR0pmY3R5WjlXWVpLWEtwSmg2MXlkYlkzazNhZ2VmUnVpVmlKUFdvMmEwdXdTSWdmY3VLMU0wd1hxNGx0SnlYazlYVWJ4ZEZxb1NUNVlqZ2Zkb0o5ZnAtMnVYbF9B?oc=5)
+
+---
 
 
 <div class="disclaimer">

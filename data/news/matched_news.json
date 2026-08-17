@@ -1,12 +1,234 @@
 {
-  "last_updated": "2026-08-17T09:31:15.702726+00:00",
-  "total_count": 9,
-  "matched_count": 1,
+  "last_updated": "2026-08-17T10:22:21.883187+00:00",
+  "total_count": 11,
+  "matched_count": 2,
   "news": [
+    {
+      "id": "6a6ea02dfb4a",
+      "title": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望",
+      "published": "2026-08-17T08:23:00+00:00",
+      "summary": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望&nbsp;&nbsp;香港商报",
+      "sources": [
+        {
+          "name": "香港商报",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10Wk4yVjBtN0EtUFhDbm84eHEtejloR0pmY3R5WjlXWVpLWEtwSmg2MXlkYlkzazNhZ2VmUnVpVmlKUFdvMmEwdXdTSWdmY3VLMU0wd1hxNGx0SnlYazlYVWJ4ZEZxb1NUNVlqZ2Zkb0o5ZnAtMnVYbF9B?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "腫瘤",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e9d513680ad6",
+      "title": "大腦損傷後細胞快速反應 壓力荷爾蒙CRH可能協助修復",
+      "published": "2026-08-17T08:22:55+00:00",
+      "summary": "大腦損傷後細胞快速反應 壓力荷爾蒙CRH可能協助修復&nbsp;&nbsp;科技島",
+      "sources": [
+        {
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pYVhZa0tab0xLdlJleWpSeVBOcjlFWExFeHVSd08waVRYZ0tKbXhFM2VPZl9MZnZQQm9rR3NLdDFKUHNmam9oNkc4Zk5uMGpSNXpJMnBZX2JqZU1TSU5Z?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "96a6941cf8d0",
       "title": "不只空污！研究揭「交通噪音」也可能與巴金森氏症有關",
-      "published": "2026-08-17T08:42:21+00:00",
+      "published": "2026-08-17T07:00:04+00:00",
       "summary": "不只空污！研究揭「交通噪音」也可能與巴金森氏症有關&nbsp;&nbsp;台視新聞網",
       "sources": [
         {
@@ -110,7 +332,7 @@
       "id": "e5b5757edda4",
       "title": "吃類固醇超過3個月 不分年齡都要防骨鬆",
       "published": "2026-08-15T13:11:11+00:00",
-      "summary": "吃類固醇超過3個月 不分年齡都要防骨鬆&nbsp;&nbsp;蕃新聞類固醇吃超過3個月 小心骨頭悄悄變脆&nbsp;&nbsp;Yahoo新聞類固醇吃超過3個月恐骨質流失 醫師提醒治療同步保骨防骨折&nbsp;&nbsp;自由健康網類固醇吃逾3個月小心骨頭變脆 嘉基醫師：骨鬆不是老人專利&nbsp;&nbsp;UDN日服5毫克類固醇小心骨折 規律運動與營養防骨質流失 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online新聞",
+      "summary": "吃類固醇超過3個月 不分年齡都要防骨鬆&nbsp;&nbsp;蕃新聞類固醇吃超過3個月 小心骨頭悄悄變脆&nbsp;&nbsp;Yahoo新聞類固醇吃超過3個月恐骨質流失 醫師提醒治療同步保骨防骨折&nbsp;&nbsp;自由健康網類固醇吃逾3個月小心骨頭變脆 嘉基醫師：骨鬆不是老人專利&nbsp;&nbsp;udn.com日服5毫克類固醇小心骨折 規律運動與營養防骨質流失 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "蕃新聞",
