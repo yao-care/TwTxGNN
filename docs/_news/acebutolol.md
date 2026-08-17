@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望](https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5)
 
@@ -44,19 +44,11 @@ permalink: /news/acebutolol/
 
 ---
 
-### [頸生硬塊以為唔痛就無事？醫生警告恐是隱形癌症轉移：揭7大致命異常症狀](https://news.google.com/rss/articles/CBMinANBVV95cUxNSGhoWGdnbG5ZYVZxVXF1SHVQZFNrQWFiTkpQRExNT3JkaEh3amhWeFhQUmg0QzhFNTZmNXhKLU04Q2dVR3pSVWFsREI0aXJlWVo5eGZ1MW4zUE1kTkc1Nkx2akZUVmtJR05xTnNwbzhQWVlrNU01eDVCTDFFd3BWSTl0d0RackgteHJQbmp1bEhKQS1rYkcxRXI3cTN2R0RBdEd3OUJCREplMjVqZGVhWUJIUXdBeHR0OUJVU0lONF9wenVQTTFBZl80dHcwbXdvV3duMDdzbjRyN0x4WFdPVm1YcG1FdTNBa2ZvcTJwTWFZRVVWemtGeC1LdHpEOWlHRUhLZDNmVkRydXJ3cjFxQ3k3azcyODhVbHVtTEtadGlXVVRhZUw3TmVIYmJKaXIyS1ZibVhuTXF4Y0xfWlI5RURURTRzem9ZaFNmVko2c084c2lPWlVlMFVoal8zVTI2OUZsb2JKeTIyVG1MOXVzeWpWRXE1NFJkV2xvVG9NMjQ2UmVqem1VdFN6d3Z5RXN2bnJwRkZuQVdyX0pk?oc=5)
+### [頸生硬塊以為唔痛就無事？醫生警告恐是隱形癌症轉移：揭7大致命異常症狀 - UHK 港生活](https://news.google.com/rss/articles/CBMinANBVV95cUxNSGhoWGdnbG5ZYVZxVXF1SHVQZFNrQWFiTkpQRExNT3JkaEh3amhWeFhQUmg0QzhFNTZmNXhKLU04Q2dVR3pSVWFsREI0aXJlWVo5eGZ1MW4zUE1kTkc1Nkx2akZUVmtJR05xTnNwbzhQWVlrNU01eDVCTDFFd3BWSTl0d0RackgteHJQbmp1bEhKQS1rYkcxRXI3cTN2R0RBdEd3OUJCREplMjVqZGVhWUJIUXdBeHR0OUJVU0lONF9wenVQTTFBZl80dHcwbXdvV3duMDdzbjRyN0x4WFdPVm1YcG1FdTNBa2ZvcTJwTWFZRVVWemtGeC1LdHpEOWlHRUhLZDNmVkRydXJ3cjFxQ3k3azcyODhVbHVtTEtadGlXVVRhZUw3TmVIYmJKaXIyS1ZibVhuTXF4Y0xfWlI5RURURTRzem9ZaFNmVko2c084c2lPWlVlMFVoal8zVTI2OUZsb2JKeTIyVG1MOXVzeWpWRXE1NFJkV2xvVG9NMjQ2UmVqem1VdFN6d3Z5RXN2bnJwRkZuQVdyX0pk?oc=5)
 
 2026-08-17 <span class="news-indication-tag">癌症</span>
 
-來源：[hk.ulifestyle.com.hk](https://news.google.com/rss/articles/CBMinANBVV95cUxNSGhoWGdnbG5ZYVZxVXF1SHVQZFNrQWFiTkpQRExNT3JkaEh3amhWeFhQUmg0QzhFNTZmNXhKLU04Q2dVR3pSVWFsREI0aXJlWVo5eGZ1MW4zUE1kTkc1Nkx2akZUVmtJR05xTnNwbzhQWVlrNU01eDVCTDFFd3BWSTl0d0RackgteHJQbmp1bEhKQS1rYkcxRXI3cTN2R0RBdEd3OUJCREplMjVqZGVhWUJIUXdBeHR0OUJVU0lONF9wenVQTTFBZl80dHcwbXdvV3duMDdzbjRyN0x4WFdPVm1YcG1FdTNBa2ZvcTJwTWFZRVVWemtGeC1LdHpEOWlHRUhLZDNmVkRydXJ3cjFxQ3k3azcyODhVbHVtTEtadGlXVVRhZUw3TmVIYmJKaXIyS1ZibVhuTXF4Y0xfWlI5RURURTRzem9ZaFNmVko2c084c2lPWlVlMFVoal8zVTI2OUZsb2JKeTIyVG1MOXVzeWpWRXE1NFJkV2xvVG9NMjQ2UmVqem1VdFN6d3Z5RXN2bnJwRkZuQVdyX0pk?oc=5)
-
----
-
-### [中年做好「這3件事」護大腦健康　研究：失智症平均晚13年發生 | 生活 | CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wMjJxLWQxeTJuSmZDOXA3ZjFHMmNsV21BRHJsS0ItaU51X2NkUmViSHRQX1A3Q1g4amZjaWUtaUw1bVZGdEhCMXVVeUZiM3fSAVRBVV95cUxPNnYwXzI0dHFZMDZKeS1CMmRzRDh3cWcxTE9pZWVjcGN1NGkzU3I1UmN1OTR6ZmQwd0hiRVVoTFhEeFRkWHFWbjZHdVNyOGxHcTk5RTA?oc=5)
-
-2026-08-17 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">高血壓</span>
-
-來源：[CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wMjJxLWQxeTJuSmZDOXA3ZjFHMmNsV21BRHJsS0ItaU51X2NkUmViSHRQX1A3Q1g4amZjaWUtaUw1bVZGdEhCMXVVeUZiM3fSAVRBVV95cUxPNnYwXzI0dHFZMDZKeS1CMmRzRDh3cWcxTE9pZWVjcGN1NGkzU3I1UmN1OTR6ZmQwd0hiRVVoTFhEeFRkWHFWbjZHdVNyOGxHcTk5RTA?oc=5)
+來源：[UHK 港生活](https://news.google.com/rss/articles/CBMinANBVV95cUxNSGhoWGdnbG5ZYVZxVXF1SHVQZFNrQWFiTkpQRExNT3JkaEh3amhWeFhQUmg0QzhFNTZmNXhKLU04Q2dVR3pSVWFsREI0aXJlWVo5eGZ1MW4zUE1kTkc1Nkx2akZUVmtJR05xTnNwbzhQWVlrNU01eDVCTDFFd3BWSTl0d0RackgteHJQbmp1bEhKQS1rYkcxRXI3cTN2R0RBdEd3OUJCREplMjVqZGVhWUJIUXdBeHR0OUJVU0lONF9wenVQTTFBZl80dHcwbXdvV3duMDdzbjRyN0x4WFdPVm1YcG1FdTNBa2ZvcTJwTWFZRVVWemtGeC1LdHpEOWlHRUhLZDNmVkRydXJ3cjFxQ3k3azcyODhVbHVtTEtadGlXVVRhZUw3TmVIYmJKaXIyS1ZibVhuTXF4Y0xfWlI5RURURTRzem9ZaFNmVko2c084c2lPWlVlMFVoal8zVTI2OUZsb2JKeTIyVG1MOXVzeWpWRXE1NFJkV2xvVG9NMjQ2UmVqem1VdFN6d3Z5RXN2bnJwRkZuQVdyX0pk?oc=5)
 
 ---
 

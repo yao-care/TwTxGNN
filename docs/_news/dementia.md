@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！ - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHpWOFRsWEpIWkhzTFlTdW42X0piWGZ2bWtfa3I0MjVCRHpycGxDNmlZbnVUOGJzZTFyX3A2Y2tTYXlsVDVmaGtJM0NqMXRaT3Vv?oc=5)
 
 2026-08-17
 
 來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHpWOFRsWEpIWkhzTFlTdW42X0piWGZ2bWtfa3I0MjVCRHpycGxDNmlZbnVUOGJzZTFyX3A2Y2tTYXlsVDVmaGtJM0NqMXRaT3Vv?oc=5)
-
----
-
-### [中年做好「這3件事」護大腦健康　研究：失智症平均晚13年發生 | 生活 | CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wMjJxLWQxeTJuSmZDOXA3ZjFHMmNsV21BRHJsS0ItaU51X2NkUmViSHRQX1A3Q1g4amZjaWUtaUw1bVZGdEhCMXVVeUZiM3fSAVRBVV95cUxPNnYwXzI0dHFZMDZKeS1CMmRzRDh3cWcxTE9pZWVjcGN1NGkzU3I1UmN1OTR6ZmQwd0hiRVVoTFhEeFRkWHFWbjZHdVNyOGxHcTk5RTA?oc=5)
-
-2026-08-17
-
-來源：[CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wMjJxLWQxeTJuSmZDOXA3ZjFHMmNsV21BRHJsS0ItaU51X2NkUmViSHRQX1A3Q1g4amZjaWUtaUw1bVZGdEhCMXVVeUZiM3fSAVRBVV95cUxPNnYwXzI0dHFZMDZKeS1CMmRzRDh3cWcxTE9pZWVjcGN1NGkzU3I1UmN1OTR6ZmQwd0hiRVVoTFhEeFRkWHFWbjZHdVNyOGxHcTk5RTA?oc=5)
 
 ---
 
