@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/carboplatin/
 <li><strong>原適應症</strong>：HER2 陽性早期乳癌、轉移性乳癌、黑色素瘤、非小細胞肺癌、何杰金氏淋巴瘤、頭頸部鱗狀細胞癌、泌尿道上皮癌等</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>female breast carcinoma（99.9%）</li>
+<li class="indication-matched">female breast carcinoma（99.9%）<span class="indication-tag">📰 乳癌</span></li>
 <li>rectum mucinous adenocarcinoma（99.3%）</li>
 <li>colon mucinous adenocarcinoma（99.3%）</li>
 <li>adult germ cell tumor（99.2%）</li>
@@ -42,9 +42,31 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（3 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [法國、瑞士研發智慧胸罩 30分鐘偵測乳癌](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vSjR1bE81bTlYYzlsaTJCT3k5cXV4N2phQWM2Q2g0UUkxVWJLWmlzYmFfbGxsUmx0dVluamF3dmF5MTU0YjlJckNQaW5FSndiYlJaR3lRQnh3MWxiY2s1M2t30gFnQVVfeXFMTUVIVjlOZzJmcklPMVZMTnVyUnZqQU0wQmlCeXJpTHRJZ2F4SWtZVGlCYjFfcmdTZWFqRWhNODVTdXAxbFp4RW1qYVJ6a0xNcXpsSFlKbl9QNVY5QkxmdWJfZm50UllEMA?oc=5)
+
+2026-08-17 <span class="news-indication-tag">乳癌</span>
+
+來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vSjR1bE81bTlYYzlsaTJCT3k5cXV4N2phQWM2Q2g0UUkxVWJLWmlzYmFfbGxsUmx0dVluamF3dmF5MTU0YjlJckNQaW5FSndiYlJaR3lRQnh3MWxiY2s1M2t30gFnQVVfeXFMTUVIVjlOZzJmcklPMVZMTnVyUnZqQU0wQmlCeXJpTHRJZ2F4SWtZVGlCYjFfcmdTZWFqRWhNODVTdXAxbFp4RW1qYVJ6a0xNcXpsSFlKbl9QNVY5QkxmdWJfZm50UllEMA?oc=5)
+
+---
+
+### [癌症手術前先「練功」，真的能讓恢復較快嗎？](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzY01XN2xyNVdFV3RIWlJqUURCTk9qSlRJU050b3U5Snk1U2FPTktfajBiMzdlMmhScjZPR2xyVWFHXzZwdS1MaWxwb0FVQnM4WlZGM01kVVpCNVQ5X1dYODlfOWdudw?oc=5)
+
+2026-08-16 <span class="news-indication-tag">癌症</span>
+
+來源：[careonline.com.tw](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzY01XN2xyNVdFV3RIWlJqUURCTk9qSlRJU050b3U5Snk1U2FPTktfajBiMzdlMmhScjZPR2xyVWFHXzZwdS1MaWxwb0FVQnM4WlZGM01kVVpCNVQ5X1dYODlfOWdudw?oc=5)
+
+---
+
+### [KIST揭天然物「MCL」保護癌症患者肌肉機制，關鍵在腸道微生物 - BigGo 財經](https://news.google.com/rss/articles/CBMiekFVX3lxTE9xbWRnV1gzRHlDVlE2SndqNXpTbm1iRG1nQlM3cXZQeFZFVnFhVUVWNC1XcnhMdDZ3alJVc21WUVl4R0x2WFEyUnc1OWtLQWhMXzR3SGRLVW5zdkd3LW96eUNjUFdqMWF0bkd6aHpQb1VlaVdSNHVUbTN3?oc=5)
+
+2026-08-16 <span class="news-indication-tag">癌症</span>
+
+來源：[BigGo 財經](https://news.google.com/rss/articles/CBMiekFVX3lxTE9xbWRnV1gzRHlDVlE2SndqNXpTbm1iRG1nQlM3cXZQeFZFVnFhVUVWNC1XcnhMdDZ3alJVc21WUVl4R0x2WFEyUnc1OWtLQWhMXzR3SGRLVW5zdkd3LW96eUNjUFdqMWF0bkd6aHpQb1VlaVdSNHVUbTN3?oc=5)
+
+---
 
 
 <div class="disclaimer">

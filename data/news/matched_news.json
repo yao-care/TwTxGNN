@@ -1,8 +1,70 @@
 {
-  "last_updated": "2026-08-17T07:43:32.704984+00:00",
-  "total_count": 8,
-  "matched_count": 1,
+  "last_updated": "2026-08-17T08:32:25.280906+00:00",
+  "total_count": 16,
+  "matched_count": 4,
   "news": [
+    {
+      "id": "567b1194228a",
+      "title": "蔬果效果好不好 你的腸道菌說了算",
+      "published": "2026-08-17T07:00:00+00:00",
+      "summary": "蔬果效果好不好 你的腸道菌說了算&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmN0hqcFRqam9DcG5MdVdqWEpkdzV6bElqWFVabjExcXlLUlBtMnVEZVdGR1prY1JCWXEwRDF5N2lwLS1JTU1aeFVwRThmQzlUcnBvN1l3ZTlCREdnMkZfQdIBZkFVX3lxTE9odXFrN05XeGM5cmtSYW5ITjd2bDhSQTdNb2ZaMmlXb25nMFVhQ3Vic0g2NW4tWk5SV256ZmZ2VU9NMHJxZVZ5NE53UTIwQlNleDRZYXpVeEpUcEcwMnRpTHdYQTR4UQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a51343a94107",
+      "title": "法國、瑞士研發智慧胸罩 30分鐘偵測乳癌",
+      "published": "2026-08-17T06:00:00+00:00",
+      "summary": "法國、瑞士研發智慧胸罩 30分鐘偵測乳癌&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vSjR1bE81bTlYYzlsaTJCT3k5cXV4N2phQWM2Q2g0UUkxVWJLWmlzYmFfbGxsUmx0dVluamF3dmF5MTU0YjlJckNQaW5FSndiYlJaR3lRQnh3MWxiY2s1M2t30gFnQVVfeXFMTUVIVjlOZzJmcklPMVZMTnVyUnZqQU0wQmlCeXJpTHRJZ2F4SWtZVGlCYjFfcmdTZWFqRWhNODVTdXAxbFp4RW1qYVJ6a0xNcXpsSFlKbl9QNVY5QkxmdWJfZm50UllEMA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "b69fcc85fb53",
       "title": "COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂",
@@ -27,19 +89,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "fcdf9e5a3726",
-      "title": "告訴她、戴上它 30分鐘可挽救健康與生命",
-      "published": "2026-08-17T02:48:55+00:00",
-      "summary": "告訴她、戴上它 30分鐘可挽救健康與生命&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WOXh4RGplSGRfUXNhVjd6T2IyU3o3MGRORVl3WnlUWHRXQzNLX1NmSHQ3WXZsSGt4NEtMdzRmb1A5eGQxQktPOEVwdzJ2SV9OcTFEaE9ueW9ZNHI5Z0RwcUtR0gFnQVVfeXFMTVZrVXpjT24yTWtLWXBqX29LMDQ0N0lQa3Y5UVo3cXdVUTl2R2NTREJxU1VJbllOWWhBVDQ1eEhpbnJ5UnM2VEVyc040UTlTa3ZHcV82cnAzbFV0NkJiOTd4QUpRNW1jdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "d4018689d69c",
@@ -68,14 +117,458 @@
       "matched_keywords": []
     },
     {
-      "id": "202e32270f86",
-      "title": "罕見疾病意外揭開抗癌祕密，科學家看見新希望 | 科技新報 - LINE TODAY",
-      "published": "2026-08-16T01:04:44+00:00",
-      "summary": "罕見疾病意外揭開抗癌祕密，科學家看見新希望 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "id": "433d5d455b64",
+      "title": "癌症手術前先「練功」，真的能讓恢復較快嗎？",
+      "published": "2026-08-16T16:01:09+00:00",
+      "summary": "癌症手術前先「練功」，真的能讓恢復較快嗎？&nbsp;&nbsp;careonline.com.tw",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XSG9PZVlQcDcyT1puejljMjdfRFBEb0t0dEZGaWRNZkRST3ZYZWFCSGNLTWJINFpXX2xvZ1E4NU1fVS1CbnpScTF0dkdOUW1yWm5oenNR?oc=5"
+          "name": "careonline.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzY01XN2xyNVdFV3RIWlJqUURCTk9qSlRJU050b3U5Snk1U2FPTktfajBiMzdlMmhScjZPR2xyVWFHXzZwdS1MaWxwb0FVQnM4WlZGM01kVVpCNVQ5X1dYODlfOWdudw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03d349a07824",
+      "title": "糖尿病友們，您的血糖控制也會影響呼吸能力嗎？",
+      "published": "2026-08-16T08:01:19+00:00",
+      "summary": "糖尿病友們，您的血糖控制也會影響呼吸能力嗎？&nbsp;&nbsp;careonline.com.tw",
+      "sources": [
+        {
+          "name": "careonline.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jT2lUYmpqSHZmcGItakU1c2VwU0VEZkdydFVhZGU0LUhrSzZoam9xcnBSNC1jWjlHTGpZMHF6b2NHWUZpUmlJME5iNXVNY083a3ZTWlpUbmNLUUg4dWE3ZkFvejdZZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6ec5e427667c",
+      "title": "「吃不胖」天選之人的祕密：罕見基因變異天生體脂低、血糖更穩定| 雜誌",
+      "published": "2026-08-16T05:37:08+00:00",
+      "summary": "「吃不胖」天選之人的祕密：罕見基因變異天生體脂低、血糖更穩定| 雜誌&nbsp;&nbsp;UDN",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYU19pT3psYVBablAxS1EyQ1NoQjBHaHd1M0NadVhTZ204VVVUTmtQWkdzc1lHSzJBcWtMY2NZcXRJTUdqRjBWNEtXUURVRXFi?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b1bd14042a63",
+      "title": "KIST揭天然物「MCL」保護癌症患者肌肉機制，關鍵在腸道微生物 - BigGo 財經",
+      "published": "2026-08-16T04:05:00+00:00",
+      "summary": "KIST揭天然物「MCL」保護癌症患者肌肉機制，關鍵在腸道微生物&nbsp;&nbsp;BigGo 財經",
+      "sources": [
+        {
+          "name": "BigGo 財經",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xbWRnV1gzRHlDVlE2SndqNXpTbm1iRG1nQlM3cXZQeFZFVnFhVUVWNC1XcnhMdDZ3alJVc21WUVl4R0x2WFEyUnc1OWtLQWhMXzR3SGRLVW5zdkd3LW96eUNjUFdqMWF0bkd6aHpQb1VlaVdSNHVUbTN3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "658e8dff27a7",
+      "title": "罕見疾病意外揭開抗癌祕密，科學家看見新希望- 股市爆料同學會",
+      "published": "2026-08-15T23:48:49+00:00",
+      "summary": "罕見疾病意外揭開抗癌祕密，科學家看見新希望- 股市爆料同學會&nbsp;&nbsp;CMoney",
+      "sources": [
+        {
+          "name": "CMoney",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lRjBjTVpBRzc1dnI3Sko5eXdvd0RPWUUyeXBGWGlxRE5JWHlycHY3QlI4NG9UVnVySVZGMGVRMDdGM3M5TE5zMFhBN2IwTHFZLTNWOW1zb2o?oc=5"
         }
       ],
       "matched_keywords": []
@@ -94,6 +587,19 @@
       "matched_keywords": []
     },
     {
+      "id": "6968db1699c2",
+      "title": "皮膚問題不斷？或許『皮膚微生物群』能幫上忙！",
+      "published": "2026-08-15T16:01:21+00:00",
+      "summary": "皮膚問題不斷？或許『皮膚微生物群』能幫上忙！&nbsp;&nbsp;careonline.com.tw",
+      "sources": [
+        {
+          "name": "careonline.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wSi1FdEE0YjZIeDVKZHNkWnU2ZTdlOVRlcENGLTB2X3NwU3pRVUZCSWFDOEFsMnNDRzdXWlJ3OFAwS2xXd0prVDdkWHpqTTdVR1V1a3k5RnZRcmM0SzNLNFdIWWl6UQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "e5b5757edda4",
       "title": "吃類固醇超過3個月 不分年齡都要防骨鬆",
       "published": "2026-08-15T13:11:11+00:00",
@@ -102,6 +608,32 @@
         {
           "name": "蕃新聞",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oNWxmbC12Uk00bG9Sd1V5V21vMUt5VVJudW9uWDNmOThjeFZ1S0F2MmRDdTVhSWJFNmdoVV9xSWJ3NkR2NzJvR1dIQ0puLXpJdHc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "afdf475d2c14",
+      "title": "上東城退伍軍人症累計9死",
+      "published": "2026-08-15T10:00:00+00:00",
+      "summary": "上東城退伍軍人症累計9死&nbsp;&nbsp;singtaousa.com",
+      "sources": [
+        {
+          "name": "singtaousa.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdW5ZcW5GMk1nLXVVZS1mQ2x3Z1kxSktoZmdRZHVuY2lVM1Y2dnpGUm5aTWc5N3BrM1VFSFZ3YkF5Rk81SnhBTS1uSHpzRUxRQnBLLXJ6M1ZuSVVBaXMxQ3R5VXNlVlo1ZkZNYUp5LWN6eHdZcXVEWVRjWWRpM3JOZ29YeDVsRzE5?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e2f1f8dd55a8",
+      "title": "泰妍暴瘦成紙片人！被目擊「比鏡頭還單薄」粉絲心疼：健康最重要- 股市爆料同學會",
+      "published": "2026-08-15T08:29:33+00:00",
+      "summary": "泰妍暴瘦成紙片人！被目擊「比鏡頭還單薄」粉絲心疼：健康最重要- 股市爆料同學會&nbsp;&nbsp;CMoney",
+      "sources": [
+        {
+          "name": "CMoney",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EUUg5aHJsbXY5bnRWMlI4cWNHUnEyT044WDdfWXFDZno4UWdoR2l3RDMtZkRXRWt5UWpHSXhiSDJvUzZ0RnRqbTlUV1I2NDRMd2FxdDdOMVo?oc=5"
         }
       ],
       "matched_keywords": []
