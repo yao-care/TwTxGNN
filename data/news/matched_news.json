@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-17T03:41:21.206033+00:00",
-  "total_count": 9,
-  "matched_count": 2,
+  "last_updated": "2026-08-17T04:32:20.892393+00:00",
+  "total_count": 8,
+  "matched_count": 1,
   "news": [
     {
       "id": "b69fcc85fb53",
@@ -29,13 +29,13 @@
       ]
     },
     {
-      "id": "0e3924a17386",
+      "id": "fcdf9e5a3726",
       "title": "告訴她、戴上它 30分鐘可挽救健康與生命",
       "published": "2026-08-17T02:48:55+00:00",
-      "summary": "告訴她、戴上它 30分鐘可挽救健康與生命&nbsp;&nbsp;worldjournal.com",
+      "summary": "告訴她、戴上它 30分鐘可挽救健康與生命&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "worldjournal.com",
+          "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WOXh4RGplSGRfUXNhVjd6T2IyU3o3MGRORVl3WnlUWHRXQzNLX1NmSHQ3WXZsSGt4NEtMdzRmb1A5eGQxQktPOEVwdzJ2SV9OcTFEaE9ueW9ZNHI5Z0RwcUtR0gFnQVVfeXFMTVZrVXpjT24yTWtLWXBqX29LMDQ0N0lQa3Y5UVo3cXdVUTl2R2NTREJxU1VJbllOWWhBVDQ1eEhpbnJ5UnM2VEVyc040UTlTa3ZHcV82cnAzbFV0NkJiOTd4QUpRNW1jdw?oc=5"
         }
       ],
@@ -105,31 +105,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "b2701bc76c14",
-      "title": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制 | 科技新報 - LINE TODAY",
-      "published": "2026-08-15T03:07:54+00:00",
-      "summary": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hbERDSXYxdk5Za0hGNlRYcmktSmNGaHgxZEc1S0lLc3lna2puRjVsUHJWUmZWV2RLNHI1QjU4UzljYmc2MG5xLS1wLTJKN0NHSmdUZFNB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "癲癇",
-          "keyword": "癲癇",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "849e34530e76",

@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-17T03:41:17.097862+00:00",
-  "count": 8,
+  "fetched_at": "2026-08-17T04:32:14.838458+00:00",
+  "count": 7,
   "news": [
     {
       "id": "b69fcc85fb53",
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "c5f18b04cd25",
-      "title": "醫學滿東華：HPV陽性≠患性病 - 20260817 - 副刊 - 明報新聞網",
-      "published": "2026-08-16T20:30:00+00:00",
-      "summary": "醫學滿東華：HPV陽性≠患性病 - 20260817 - 副刊&nbsp;&nbsp;明報新聞網",
-      "sources": [
-        {
-          "name": "明報新聞網",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPV28wY3BOUHMwdEFsdDFSRjBpREpqb3U0dG5wQnBaVlNGcEZ1M0cxTkFvMlJFenRmaU9zVk9oUTlNcHVwZUZKdG1DN3hIS21IVUE1REEwdGI2MkJRQVRyYjdMQVFOT0NPZ1lXb09EX3RGT0xtWUlMT1doSXBzV25wVzJLTk81b3ZnMEloN285SmZ2Q3R5b1JMMDVmQWVKV2RWN1p0Sm43eU1wd0ZWTUttbDU3Uk1aSGdYNjlvQmJvUm1QOTVnUVNSQ25LUkNHaFRRVmdZbVBPaHlmajV0N2ZHNmRGcGc3UGQ5TzQ3XzBxR252ekM3TldhV3NIVGZlR0NCQU5SdlZTVnlxWUVPdVNWQ0hlbjY4UQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d4018689d69c",
       "title": "不只空污！研究揭「交通噪音」也可能與巴金森氏症有關 - Yahoo新聞",
       "published": "2026-08-17T02:05:05+00:00",
@@ -48,6 +36,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQOWlCNmlwWlBJbXFlYmhXR2RicmFIMF9lazM4WXVIUU5iaEhPY2R1bW1Ra2NVaUs5cXE2M2pZd2d2RzRkTjlxMXJCTW1zTERDT0c0NjVTTWhJVkpMZ1oycXNUTTQtVkpRNzZqUjBtcW0tbzN0TXZIZUZ5Njlqc2xHY2NTNlJ6Ujh6OXVMTXF2WVVFWUJUZUZUdXFxODFncHg1UnB2aGlGRWRZOXVPbnMxa0ZJRk8xSml4ek5ZcFJLcTl6Qm5pZ0lWa2VXMnZ6MWQ5bnI5WVYtRDhYV290cnpZUzJXaDdXTGxzVDJDZ0JhWktYS19ZVEgwNE1pT1JsazNfS0tpV2twa3B3TURGOFFPOG10NjZPVXpqa0VLY0NqeWZkR0x1NlJiTzk2S0JBNElZN0w4ZS1LeWpmTTF6QnF3T3VqSWFqVVptNHJPRGVaSzlPT3YwSG1DMEJpQVltSDA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c5f18b04cd25",
+      "title": "醫學滿東華：HPV陽性≠患性病 - 20260817 - 副刊 - 明報新聞網",
+      "published": "2026-08-16T20:30:00+00:00",
+      "summary": "醫學滿東華：HPV陽性≠患性病 - 20260817 - 副刊&nbsp;&nbsp;明報新聞網",
+      "sources": [
+        {
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPV28wY3BOUHMwdEFsdDFSRjBpREpqb3U0dG5wQnBaVlNGcEZ1M0cxTkFvMlJFenRmaU9zVk9oUTlNcHVwZUZKdG1DN3hIS21IVUE1REEwdGI2MkJRQVRyYjdMQVFOT0NPZ1lXb09EX3RGT0xtWUlMT1doSXBzV25wVzJLTk81b3ZnMEloN285SmZ2Q3R5b1JMMDVmQWVKV2RWN1p0Sm43eU1wd0ZWTUttbDU3Uk1aSGdYNjlvQmJvUm1QOTVnUVNSQ25LUkNHaFRRVmdZbVBPaHlmajV0N2ZHNmRGcGc3UGQ5TzQ3XzBxR252ekM3TldhV3NIVGZlR0NCQU5SdlZTVnlxWUVPdVNWQ0hlbjY4UQ?oc=5"
         }
       ]
     },
@@ -64,25 +64,13 @@
       ]
     },
     {
-      "id": "b2701bc76c14",
-      "title": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制 | 科技新報 - LINE TODAY",
-      "published": "2026-08-15T03:07:54+00:00",
-      "summary": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hbERDSXYxdk5Za0hGNlRYcmktSmNGaHgxZEc1S0lLc3lna2puRjVsUHJWUmZWV2RLNHI1QjU4UzljYmc2MG5xLS1wLTJKN0NHSmdUZFNB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0e3924a17386",
-      "title": "告訴她、戴上它 30分鐘可挽救健康與生命 - worldjournal.com",
+      "id": "fcdf9e5a3726",
+      "title": "告訴她、戴上它 30分鐘可挽救健康與生命 - 世界新聞網",
       "published": "2026-08-17T02:48:55+00:00",
-      "summary": "告訴她、戴上它 30分鐘可挽救健康與生命&nbsp;&nbsp;worldjournal.com",
+      "summary": "告訴她、戴上它 30分鐘可挽救健康與生命&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "worldjournal.com",
+          "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WOXh4RGplSGRfUXNhVjd6T2IyU3o3MGRORVl3WnlUWHRXQzNLX1NmSHQ3WXZsSGt4NEtMdzRmb1A5eGQxQktPOEVwdzJ2SV9OcTFEaE9ueW9ZNHI5Z0RwcUtR0gFnQVVfeXFMTVZrVXpjT24yTWtLWXBqX29LMDQ0N0lQa3Y5UVo3cXdVUTl2R2NTREJxU1VJbllOWWhBVDQ1eEhpbnJ5UnM2VEVyc040UTlTa3ZHcV82cnAzbFV0NkJiOTd4QUpRNW1jdw?oc=5"
         }
       ]

@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-17T03:41:21.233812+00:00",
-  "count": 2,
+  "generated": "2026-08-17T04:32:20.920695+00:00",
+  "count": 1,
   "news": [
     {
       "id": "b69fcc85fb53",
@@ -21,30 +21,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b2701bc76c14",
-      "title": "破解癲癇患者記憶衰退之謎，美團隊發現大腦夜間協調機制 | 科技新報 - LINE TODAY",
-      "published": "2026-08-15T03:07:54+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hbERDSXYxdk5Za0hGNlRYcmktSmNGaHgxZEc1S0lLc3lna2puRjVsUHJWUmZWV2RLNHI1QjU4UzljYmc2MG5xLS1wLTJKN0NHSmdUZFNB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "癲癇",
-          "keyword": "癲癇",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
             }
           ]
         }
