@@ -210,6 +210,9 @@ __marimo__/
 # 專案特定忽略檔案
 # ===================
 
+# SEO-ops 本機收集資料，不發布到 GitHub Pages
+/seo-data/
+
 # macOS 系統檔案
 .DS_Store
 **/.DS_Store

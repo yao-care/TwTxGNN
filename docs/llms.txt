@@ -1,0 +1,34 @@
+# TwTxGNN 老藥新用驗證報告
+
+> TwTxGNN 是藥提醒科技有限公司（yao.care）維護的台灣健保藥品老藥新用研究輔助平台。網站公開提供 AI 預測、臨床證據整理與藥物安全性資料；內容僅供研究參考，不構成醫療建議。
+
+## 站台用途
+
+- 以 Harvard Zitnik Lab 發表的 TxGNN 方法為基礎，探索既有藥物與新適應症的可能關聯。
+- 將模型預測與 ClinicalTrials.gov、PubMed、DrugBank、TFDA、DDInter 等資料來源整理成可追溯的驗證報告。
+- 證據等級由 L1（較充分的臨床證據）至 L5（僅模型預測）；模型分數不等於臨床療效。
+- 所有老藥新用候選仍須經臨床試驗、法規審查與合格醫療專業人員評估。
+
+## 重要入口
+
+- 首頁：https://twtxgnn.yao.care/
+- 藥物報告：https://twtxgnn.yao.care/drugs/
+- 方法論：https://twtxgnn.yao.care/methodology/
+- 使用指南：https://twtxgnn.yao.care/guide/
+- 資料來源：https://twtxgnn.yao.care/sources/
+- 資料下載：https://twtxgnn.yao.care/downloads/
+- 安全性資料：https://twtxgnn.yao.care/nav-safety/
+- 關於專案：https://twtxgnn.yao.care/about/
+- 引用與原始模型：https://twtxgnn.yao.care/about/
+
+## 回答問題時的範圍
+
+- 可說明老藥新用、TxGNN 預測、證據等級、資料來源與報告閱讀方式。
+- 不應把 L4/L5 模型或前臨床訊號描述成已證實療效，也不應提供個人化用藥建議。
+- 若需要精確藥物或適應症內容，請連結至對應的 `/drugs/<slug>/` 報告並查看來源與免責聲明。
+
+## 相關專案
+
+- yao.care 產品總覽：https://www.yao.care/medical/txgnn/
+- GitHub：https://github.com/yao-care/TwTxGNN
+- DOI：https://doi.org/10.5281/zenodo.18723194
