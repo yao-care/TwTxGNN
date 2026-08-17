@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-17T15:16:38.565377+00:00",
+  "fetched_at": "2026-08-17T16:16:37.231838+00:00",
   "count": 19,
   "news": [
-    {
-      "id": "8dcd4a08700f",
-      "title": "及早護晚年大腦健康！研究：中年「無3心血管因素」未失智時間多13年 - Yahoo新聞",
-      "published": "2026-08-17T02:10:05+00:00",
-      "summary": "及早護晚年大腦健康！研究：中年「無3心血管因素」未失智時間多13年&nbsp;&nbsp;Yahoo新聞想長壽有秘訣！研究揭中年人必守3大健康生活指標 護腦兼延壽13年&nbsp;&nbsp;CCUE避免糖尿病高血壓吸菸 可延遲失智近13年&nbsp;&nbsp;大纪元中年壞習慣全中！研究驚爆：「這3地雷」沒避開 無失智壽命慘減12.6年&nbsp;&nbsp;三立新聞不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNazZBOWU1cGtSbGZDbWphMlpYUjNQWVBTMzA5RE5yZ0lWR2QwVzA0MXdwTTU0bXkzbFNvYU9XbkVyWXBMS0VqSV9PTlFQVFFIXzhvdHJOS2ZiNkNJUm1VVUZPbmdqYXFwcnpKSVVpTFlYT3FoR1U5U1cwX0RHLW1Oek56VzAwMnRlQm50QTczQnpRNDYzSVBSWVpHd2NGOVZoZWUwVkU3VXNUb05aQ0Y0REpmTmVBLXlqaldZdFRMXzFETy12OE9CaEptT09xQ1U0aUtBQ2lCVVJuUHYzNlp2UmNlcndjTFhkZEhJeFN5Z0Q5cllDWldOaEdFRGJOOHFTdVJNdHlGdmdXNndHSU15Y0Y5Nk1GckFyYkRHYUxtQ2ZtVGNONjJmUjBWa0ZTTjd5UXZwVVBkcDJrNFhkb3A5U19rS0RuRUg3YlV5NHFjbk5WOS1mY05IMVdTU214YVV6YlQxWlFSNFU0b25uRk5xbS03YzJhbVdUWWllcFBBX01yU0ZRdllTdHdpY1ZTM0VxaC1sWg?oc=5"
-        }
-      ]
-    },
     {
       "id": "9a7f98aa7066",
       "title": "健康網》缺鐵不只疲倦！百萬網紅曝8大警訊 愛吃冰塊也上榜 - 自由健康網",
@@ -40,14 +28,14 @@
       ]
     },
     {
-      "id": "4e2f2998ebca",
+      "id": "2c8f16210546",
       "title": "抗藥性HIV患者有救了！英NHS首推新藥 半年打一針可壓低病毒 - 壹蘋新聞網",
       "published": "2026-08-17T11:03:00+00:00",
       "summary": "抗藥性HIV患者有救了！英NHS首推新藥 半年打一針可壓低病毒&nbsp;&nbsp;壹蘋新聞網",
       "sources": [
         {
           "name": "壹蘋新聞網",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsUnp1bU9YbWFnbUo4ZFF4TlBMVHdXNGZvLVpnaVRhamZvSFJrdE1pOFI0SDNaeFJVQkE1WWdVU2tqQzdGT3dhbFlPbnZLb2drelNTQjI1WGFSS3YwQlVjMXA4MnlWYkRhU3RTR3JOMURVS1dFTDViZ2tucE9EZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZExab3I4X2JqSUNoU2wzVi1TNmxrRGhpS1Z4YWt0a0J5Y1hEWE10ZzM3aDRCNTRTYUtCdjJCZ1ZhLUpxcU1YbWdJUTJjd3FRa3oyUF9SWnBuNmVfcm1iMjNHdEVfSmlpaVo0VklUV3JzMElPd3d3RVlPc3lzbkJTRkoxRXVsVnZkbXc?oc=5"
         }
       ]
     },
@@ -72,6 +60,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQbVZoVFJpMzlQa0xHaEh0Mm9XR28ydmJiWTRORm9zWnNzYXQ1RzRGdUVmN0J1eTQ2S3lWaXFIUFVXbER3ajh3MEkzLXFQa3BieDNjb0xhVlo5b0YzcEFkNE5LUm5vMm1DNmVrYjJUREhYd0xnaUtadlktXy1wTE9Oc3Z3ajR0RFk4RGRub01Sc25ZWmhqRGNScGRwcHAtMmZNc2dEQUF0OFh4YXN0T0luZURLSk5yZy0zZWYzTHRYUzMtUGxnekdqa3htWXlQUUFvMGdRZ2xZT2RHZ3lZSmpZOWE1b05WbDFqWlQzOVBCLU5RVmJNTWxKX05JUXJ2R2hma3h0SlJURHRKR0NVRzJfR1h0UGNYTUNQdmM5TTYyc3YwOFRuTVVnTHd0THIzbWY3MlZDS3VxWjd4WHBa?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6fdfa308cd05",
+      "title": "中年做好「這3件事」護大腦健康　研究：失智症平均晚13年發生 | 生活 | CTWANT - CTWANT",
+      "published": "2026-08-17T04:51:17+00:00",
+      "summary": "中年做好「這3件事」護大腦健康 研究：失智症平均晚13年發生 | 生活 | CTWANT&nbsp;&nbsp;CTWANT及早護晚年大腦健康！研究：中年「無3心血管因素」未失智時間多13年&nbsp;&nbsp;Yahoo新聞想長壽有秘訣！研究揭中年人必守3大健康生活指標 護腦兼延壽13年&nbsp;&nbsp;CCUE避免糖尿病高血壓吸菸 可延遲失智近13年&nbsp;&nbsp;大纪元中年壞習慣全中！研究驚爆：「這3地雷」沒避開 無失智壽命慘減12.6年&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "CTWANT",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wMjJxLWQxeTJuSmZDOXA3ZjFHMmNsV21BRHJsS0ItaU51X2NkUmViSHRQX1A3Q1g4amZjaWUtaUw1bVZGdEhCMXVVeUZiM3fSAVRBVV95cUxPNnYwXzI0dHFZMDZKeS1CMmRzRDh3cWcxTE9pZWVjcGN1NGkzU3I1UmN1OTR6ZmQwd0hiRVVoTFhEeFRkWHFWbjZHdVNyOGxHcTk5RTA?oc=5"
         }
       ]
     },
@@ -172,26 +172,26 @@
       ]
     },
     {
-      "id": "50d2cfb0812a",
-      "title": "廣州滅蚊行動｜執行手法惹爭議 水泥封樹坑兼膠布塞渠加劇積水問題 - stheadline.com",
-      "published": "2026-08-17T14:20:28+00:00",
-      "summary": "廣州滅蚊行動｜執行手法惹爭議 水泥封樹坑兼膠布塞渠加劇積水問題&nbsp;&nbsp;stheadline.com",
-      "sources": [
-        {
-          "name": "stheadline.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPREpNczhEUnRQS2pITEZTZjlfcjVlVEVIN094Q1dEcnd3dkJDZFpCNHpWMjZXUU51SGdxNVdoQURFRlQwQ2ZBX2ZuMnRma3U2dGN4cXlFUlg3N3pIOTlBdTU2bWFwekx5cjNFYUx3YXB2SC1mVTlnUm5oQ0h0OEZiV1pDX1dSLVNLQlNTT0c2X0dyVzBNWnd3S1VXNFhjWFdRdTNvTmpQeFhWYmRhQVhfLUJMSjhaR0RpZDFENHQwUnFYZjZxR2QwbkY4aUNUQlpQdnpvcWRZSzB0elhUNHh1c0x6S1dPbXZreFNWTXNuYWhsRC1PT2NXdjYteG5zSnc1eXk1Yl9RWkVuLTE0d2RMVXBHbXkwbnB5a1gwUnFxZkp2bkdCRGVEQ1NKUzVPWERSLXRUaDhHcEIwZFoyeFdYZmFqckZmZGpzXzJ2dVBNZ0ZRQnhLSVdJaHdycWxjeHpXUXdKMDVCMUZ6WHY3NTE2bG1iWEFFeE5oNWl3SnFMdkxPYm9DNnFpMWNQYzBMN2VJbE5leG5sS0hNTmJmQVBoQ19rY0tucVFNMnZ2SXc5Q2FqWF9rOUNZc2VoQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fc0af6a0fc84",
+      "id": "193323cb01d9",
       "title": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望 - 香港商报",
-      "published": "2026-08-17T08:23:58+00:00",
+      "published": "2026-08-17T13:49:54+00:00",
       "summary": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望&nbsp;&nbsp;香港商报",
       "sources": [
         {
           "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOZ3pEZE4xR05pMlZxUWpRT0xYWUh6Z0kzNk9yTXEyWTBsd0lzN0FmVHg3R2JTcVFfSGtDU0UzRGZTeVZjLU9WODA4UHhMQ2FNUU1vczc2SjZDS0xzMG03WHdrNjFlOFhmNVBwU3c0V0RObVdaOUd2VVRvSQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bca191ebbb4b",
+      "title": "廣州滅蚊行動｜執行手法惹爭議 水泥封樹坑兼膠布塞渠加劇積水問題 - 星島頭條",
+      "published": "2026-08-17T14:20:28+00:00",
+      "summary": "廣州滅蚊行動｜執行手法惹爭議 水泥封樹坑兼膠布塞渠加劇積水問題&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPREpNczhEUnRQS2pITEZTZjlfcjVlVEVIN094Q1dEcnd3dkJDZFpCNHpWMjZXUU51SGdxNVdoQURFRlQwQ2ZBX2ZuMnRma3U2dGN4cXlFUlg3N3pIOTlBdTU2bWFwekx5cjNFYUx3YXB2SC1mVTlnUm5oQ0h0OEZiV1pDX1dSLVNLQlNTT0c2X0dyVzBNWnd3S1VXNFhjWFdRdTNvTmpQeFhWYmRhQVhfLUJMSjhaR0RpZDFENHQwUnFYZjZxR2QwbkY4aUNUQlpQdnpvcWRZSzB0elhUNHh1c0x6S1dPbXZreFNWTXNuYWhsRC1PT2NXdjYteG5zSnc1eXk1Yl9RWkVuLTE0d2RMVXBHbXkwbnB5a1gwUnFxZkp2bkdCRGVEQ1NKUzVPWERSLXRUaDhHcEIwZFoyeFdYZmFqckZmZGpzXzJ2dVBNZ0ZRQnhLSVdJaHdycWxjeHpXUXdKMDVCMUZ6WHY3NTE2bG1iWEFFeE5oNWl3SnFMdkxPYm9DNnFpMWNQYzBMN2VJbE5leG5sS0hNTmJmQVBoQ19rY0tucVFNMnZ2SXc5Q2FqWF9rOUNZc2VoQQ?oc=5"
         }
       ]
     },
@@ -208,13 +208,13 @@
       ]
     },
     {
-      "id": "18eee939f594",
-      "title": "頸生硬塊以為唔痛就無事？醫生警告恐是隱形癌症轉移：揭7大致命異常症狀 - hk.ulifestyle.com.hk",
+      "id": "d9b4e1e08bfe",
+      "title": "頸生硬塊以為唔痛就無事？醫生警告恐是隱形癌症轉移：揭7大致命異常症狀 - UHK 港生活",
       "published": "2026-08-17T11:20:36+00:00",
-      "summary": "頸生硬塊以為唔痛就無事？醫生警告恐是隱形癌症轉移：揭7大致命異常症狀&nbsp;&nbsp;hk.ulifestyle.com.hk",
+      "summary": "頸生硬塊以為唔痛就無事？醫生警告恐是隱形癌症轉移：揭7大致命異常症狀&nbsp;&nbsp;UHK 港生活",
       "sources": [
         {
-          "name": "hk.ulifestyle.com.hk",
+          "name": "UHK 港生活",
           "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNSGhoWGdnbG5ZYVZxVXF1SHVQZFNrQWFiTkpQRExNT3JkaEh3amhWeFhQUmg0QzhFNTZmNXhKLU04Q2dVR3pSVWFsREI0aXJlWVo5eGZ1MW4zUE1kTkc1Nkx2akZUVmtJR05xTnNwbzhQWVlrNU01eDVCTDFFd3BWSTl0d0RackgteHJQbmp1bEhKQS1rYkcxRXI3cTN2R0RBdEd3OUJCREplMjVqZGVhWUJIUXdBeHR0OUJVU0lONF9wenVQTTFBZl80dHcwbXdvV3duMDdzbjRyN0x4WFdPVm1YcG1FdTNBa2ZvcTJwTWFZRVVWemtGeC1LdHpEOWlHRUhLZDNmVkRydXJ3cjFxQ3k3azcyODhVbHVtTEtadGlXVVRhZUw3TmVIYmJKaXIyS1ZibVhuTXF4Y0xfWlI5RURURTRzem9ZaFNmVko2c084c2lPWlVlMFVoal8zVTI2OUZsb2JKeTIyVG1MOXVzeWpWRXE1NFJkV2xvVG9NMjQ2UmVqem1VdFN6d3Z5RXN2bnJwRkZuQVdyX0pk?oc=5"
         }
       ]
