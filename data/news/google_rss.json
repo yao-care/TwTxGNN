@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-17T18:24:06.964095+00:00",
+  "fetched_at": "2026-08-17T19:20:32.687353+00:00",
   "count": 19,
   "news": [
     {
@@ -52,13 +52,13 @@
       ]
     },
     {
-      "id": "b69fcc85fb53",
-      "title": "COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂 - ELLE",
+      "id": "a3a96afac86d",
+      "title": "COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂 - elle.com",
       "published": "2026-08-17T03:16:20+00:00",
-      "summary": "COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂&nbsp;&nbsp;ELLE",
+      "summary": "COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂&nbsp;&nbsp;elle.com",
       "sources": [
         {
-          "name": "ELLE",
+          "name": "elle.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aMFdWR1pLcGdhZW1CNkNMa3BuV1hCWkhOTTBEOGYxS0ZRTGdyOE9ScFJhQm9xWmR6MHNPZFNSWHYyOXludWJFc2FLSUpTM3h4ZGJhN212TWVMQlZiTkEtQlBjT0loWEJ1NjdYTEJR?oc=5"
         }
       ]
@@ -76,18 +76,6 @@
       ]
     },
     {
-      "id": "96a6941cf8d0",
-      "title": "不只空污！研究揭「交通噪音」也可能與巴金森氏症有關 - 台視新聞網",
-      "published": "2026-08-17T07:00:04+00:00",
-      "summary": "不只空污！研究揭「交通噪音」也可能與巴金森氏症有關&nbsp;&nbsp;台視新聞網",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GVmgyRkdsSC02eWJ4cDlYbGdSSTZVLWdiUHlxT1FYZmpOYUdhTjRaYW9Kd2ZuZllIM3hPdmt1VFRQVGhBSzlFbkNSNEFJa3pWVDVVR29rOA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1a0d6d8235c7",
       "title": "骨折不是老人專利！類固醇吃超過3個月 小心骨頭悄悄變脆 - 蕃新聞",
       "published": "2026-08-16T16:32:02+00:00",
@@ -96,6 +84,18 @@
         {
           "name": "蕃新聞",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzclp6NG83WEpNRm5KVlZjUDk5YzVNQzByanl0aFFKcUcxMnVzcXBMYzhCWEN6MldzeGJQRjZ3ZUZIRk9FNmc1OFBBVjc1OTBBc1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "96a6941cf8d0",
+      "title": "不只空污！研究揭「交通噪音」也可能與巴金森氏症有關 - 台視新聞網",
+      "published": "2026-08-17T07:00:04+00:00",
+      "summary": "不只空污！研究揭「交通噪音」也可能與巴金森氏症有關&nbsp;&nbsp;台視新聞網",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GVmgyRkdsSC02eWJ4cDlYbGdSSTZVLWdiUHlxT1FYZmpOYUdhTjRaYW9Kd2ZuZllIM3hPdmt1VFRQVGhBSzlFbkNSNEFJa3pWVDVVR29rOA?oc=5"
         }
       ]
     },
@@ -112,26 +112,26 @@
       ]
     },
     {
-      "id": "e9d513680ad6",
-      "title": "大腦損傷後細胞快速反應 壓力荷爾蒙CRH可能協助修復 - 科技島",
-      "published": "2026-08-17T08:22:55+00:00",
-      "summary": "大腦損傷後細胞快速反應 壓力荷爾蒙CRH可能協助修復&nbsp;&nbsp;科技島",
+      "id": "9efb3382bdfc",
+      "title": "活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！ - health.tvbs.com.tw",
+      "published": "2026-08-17T10:49:04+00:00",
+      "summary": "活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！&nbsp;&nbsp;health.tvbs.com.tw",
       "sources": [
         {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pYVhZa0tab0xLdlJleWpSeVBOcjlFWExFeHVSd08waVRYZ0tKbXhFM2VPZl9MZnZQQm9rR3NLdDFKUHNmam9oNkc4Zk5uMGpSNXpJMnBZX2JqZU1TSU5Z?oc=5"
+          "name": "health.tvbs.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHpWOFRsWEpIWkhzTFlTdW42X0piWGZ2bWtfa3I0MjVCRHpycGxDNmlZbnVUOGJzZTFyX3A2Y2tTYXlsVDVmaGtJM0NqMXRaT3Vv?oc=5"
         }
       ]
     },
     {
-      "id": "e0ae93c9294e",
-      "title": "活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！ - TVBS 健康2.0",
-      "published": "2026-08-17T10:49:04+00:00",
-      "summary": "活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！&nbsp;&nbsp;TVBS 健康2.0",
+      "id": "561dc25715ef",
+      "title": "美國最常見癌症極易忽視 如何預防 - singtaousa.com",
+      "published": "2026-08-17T18:12:36+00:00",
+      "summary": "美國最常見癌症極易忽視 如何預防&nbsp;&nbsp;singtaousa.com",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHpWOFRsWEpIWkhzTFlTdW42X0piWGZ2bWtfa3I0MjVCRHpycGxDNmlZbnVUOGJzZTFyX3A2Y2tTYXlsVDVmaGtJM0NqMXRaT3Vv?oc=5"
+          "name": "singtaousa.com",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQemF5R01ZeXd0U3BtcXhnNnRJOWF1akYydHRtTExVQzhoRmg1RkdpQlRhUG5NYm91OHU5X2o5aFBreFdweC01Y3NZOWliRFYtVXY3MzJNbU9IU0oyZzdhOXd2NUtsemhUYzVNWk5wVHZ3aFdLOE5QT0h0Mkx4d1lzM2swRmVlYnl4UnA4c2l2R0twaWRzUEE3bjBsZHh6ZmI0dGJnNFNYRWtRUmpoSHc?oc=5"
         }
       ]
     },

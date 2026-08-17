@@ -1,8 +1,217 @@
 {
-  "last_updated": "2026-08-17T18:24:12.146249+00:00",
+  "last_updated": "2026-08-17T19:20:36.817453+00:00",
   "total_count": 20,
-  "matched_count": 4,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "561dc25715ef",
+      "title": "美國最常見癌症極易忽視 如何預防",
+      "published": "2026-08-17T18:12:36+00:00",
+      "summary": "美國最常見癌症極易忽視 如何預防&nbsp;&nbsp;singtaousa.com",
+      "sources": [
+        {
+          "name": "singtaousa.com",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQemF5R01ZeXd0U3BtcXhnNnRJOWF1akYydHRtTExVQzhoRmg1RkdpQlRhUG5NYm91OHU5X2o5aFBreFdweC01Y3NZOWliRFYtVXY3MzJNbU9IU0oyZzdhOXd2NUtsemhUYzVNWk5wVHZ3aFdLOE5QT0h0Mkx4d1lzM2swRmVlYnl4UnA4c2l2R0twaWRzUEE3bjBsZHh6ZmI0dGJnNFNYRWtRUmpoSHc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "bca191ebbb4b",
       "title": "廣州滅蚊行動｜執行手法惹爭議 水泥封樹坑兼膠布塞渠加劇積水問題",
@@ -474,13 +683,13 @@
       "matched_keywords": []
     },
     {
-      "id": "e0ae93c9294e",
-      "title": "活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！ - TVBS 健康2.0",
+      "id": "9efb3382bdfc",
+      "title": "活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！",
       "published": "2026-08-17T10:49:04+00:00",
-      "summary": "活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！&nbsp;&nbsp;TVBS 健康2.0",
+      "summary": "活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！&nbsp;&nbsp;health.tvbs.com.tw",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
+          "name": "health.tvbs.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHpWOFRsWEpIWkhzTFlTdW42X0piWGZ2bWtfa3I0MjVCRHpycGxDNmlZbnVUOGJzZTFyX3A2Y2tTYXlsVDVmaGtJM0NqMXRaT3Vv?oc=5"
         }
       ],
@@ -525,19 +734,6 @@
       "matched_keywords": []
     },
     {
-      "id": "e9d513680ad6",
-      "title": "大腦損傷後細胞快速反應 壓力荷爾蒙CRH可能協助修復",
-      "published": "2026-08-17T08:22:55+00:00",
-      "summary": "大腦損傷後細胞快速反應 壓力荷爾蒙CRH可能協助修復&nbsp;&nbsp;科技島",
-      "sources": [
-        {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pYVhZa0tab0xLdlJleWpSeVBOcjlFWExFeHVSd08waVRYZ0tKbXhFM2VPZl9MZnZQQm9rR3NLdDFKUHNmam9oNkc4Zk5uMGpSNXpJMnBZX2JqZU1TSU5Z?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "96a6941cf8d0",
       "title": "不只空污！研究揭「交通噪音」也可能與巴金森氏症有關",
       "published": "2026-08-17T07:00:04+00:00",
@@ -564,13 +760,13 @@
       "matched_keywords": []
     },
     {
-      "id": "b69fcc85fb53",
+      "id": "a3a96afac86d",
       "title": "COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂",
       "published": "2026-08-17T03:16:20+00:00",
-      "summary": "COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂&nbsp;&nbsp;ELLE",
+      "summary": "COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂&nbsp;&nbsp;elle.com",
       "sources": [
         {
-          "name": "ELLE",
+          "name": "elle.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aMFdWR1pLcGdhZW1CNkNMa3BuV1hCWkhOTTBEOGYxS0ZRTGdyOE9ScFJhQm9xWmR6MHNPZFNSWHYyOXludWJFc2FLSUpTM3h4ZGJhN212TWVMQlZiTkEtQlBjT0loWEJ1NjdYTEJR?oc=5"
         }
       ],

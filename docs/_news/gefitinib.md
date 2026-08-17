@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [美國最常見癌症極易忽視 如何預防](https://news.google.com/rss/articles/CBMirgFBVV95cUxQemF5R01ZeXd0U3BtcXhnNnRJOWF1akYydHRtTExVQzhoRmg1RkdpQlRhUG5NYm91OHU5X2o5aFBreFdweC01Y3NZOWliRFYtVXY3MzJNbU9IU0oyZzdhOXd2NUtsemhUYzVNWk5wVHZ3aFdLOE5QT0h0Mkx4d1lzM2swRmVlYnl4UnA4c2l2R0twaWRzUEE3bjBsZHh6ZmI0dGJnNFNYRWtRUmpoSHc?oc=5)
+
+2026-08-17 <span class="news-indication-tag">癌症</span>
+
+來源：[singtaousa.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxQemF5R01ZeXd0U3BtcXhnNnRJOWF1akYydHRtTExVQzhoRmg1RkdpQlRhUG5NYm91OHU5X2o5aFBreFdweC01Y3NZOWliRFYtVXY3MzJNbU9IU0oyZzdhOXd2NUtsemhUYzVNWk5wVHZ3aFdLOE5QT0h0Mkx4d1lzM2swRmVlYnl4UnA4c2l2R0twaWRzUEE3bjBsZHh6ZmI0dGJnNFNYRWtRUmpoSHc?oc=5)
+
+---
 
 ### [胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望](https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5)
 
@@ -59,11 +67,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！ - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHpWOFRsWEpIWkhzTFlTdW42X0piWGZ2bWtfa3I0MjVCRHpycGxDNmlZbnVUOGJzZTFyX3A2Y2tTYXlsVDVmaGtJM0NqMXRaT3Vv?oc=5)
+### [活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHpWOFRsWEpIWkhzTFlTdW42X0piWGZ2bWtfa3I0MjVCRHpycGxDNmlZbnVUOGJzZTFyX3A2Y2tTYXlsVDVmaGtJM0NqMXRaT3Vv?oc=5)
 
 2026-08-17 <span class="news-indication-tag">失智</span>
 
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHpWOFRsWEpIWkhzTFlTdW42X0piWGZ2bWtfa3I0MjVCRHpycGxDNmlZbnVUOGJzZTFyX3A2Y2tTYXlsVDVmaGtJM0NqMXRaT3Vv?oc=5)
+來源：[health.tvbs.com.tw](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHpWOFRsWEpIWkhzTFlTdW42X0piWGZ2bWtfa3I0MjVCRHpycGxDNmlZbnVUOGJzZTFyX3A2Y2tTYXlsVDVmaGtJM0NqMXRaT3Vv?oc=5)
 
 ---
 

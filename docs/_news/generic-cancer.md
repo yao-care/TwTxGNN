@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "腫瘤（generic_cancer） 相關新聞"
+title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "腫瘤（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
-# 腫瘤（generic_cancer） 相關新聞
+# 癌症（generic_cancer） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="腫瘤（generic_cancer） 有什麼相關新聞？">
-<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「腫瘤」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「癌症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,7 +75,15 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [美國最常見癌症極易忽視 如何預防](https://news.google.com/rss/articles/CBMirgFBVV95cUxQemF5R01ZeXd0U3BtcXhnNnRJOWF1akYydHRtTExVQzhoRmg1RkdpQlRhUG5NYm91OHU5X2o5aFBreFdweC01Y3NZOWliRFYtVXY3MzJNbU9IU0oyZzdhOXd2NUtsemhUYzVNWk5wVHZ3aFdLOE5QT0h0Mkx4d1lzM2swRmVlYnl4UnA4c2l2R0twaWRzUEE3bjBsZHh6ZmI0dGJnNFNYRWtRUmpoSHc?oc=5)
+
+2026-08-17
+
+來源：[singtaousa.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxQemF5R01ZeXd0U3BtcXhnNnRJOWF1akYydHRtTExVQzhoRmg1RkdpQlRhUG5NYm91OHU5X2o5aFBreFdweC01Y3NZOWliRFYtVXY3MzJNbU9IU0oyZzdhOXd2NUtsemhUYzVNWk5wVHZ3aFdLOE5QT0h0Mkx4d1lzM2swRmVlYnl4UnA4c2l2R0twaWRzUEE3bjBsZHh6ZmI0dGJnNFNYRWtRUmpoSHc?oc=5)
+
+---
 
 ### [胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望](https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5)
 
