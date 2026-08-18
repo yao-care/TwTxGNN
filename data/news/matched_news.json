@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T17:18:52.227154+00:00",
+  "last_updated": "2026-08-18T18:23:20.537471+00:00",
   "total_count": 22,
   "matched_count": 8,
   "news": [
@@ -213,38 +213,13 @@
       ]
     },
     {
-      "id": "84113746cb98",
-      "title": "緬甸最大城爆霍亂！500人嚴重腹瀉住院 149人快篩陽性",
-      "published": "2026-08-18T13:01:52+00:00",
-      "summary": "緬甸最大城爆霍亂！500人嚴重腹瀉住院 149人快篩陽性&nbsp;&nbsp;tw.news.yahoo.com緬甸仰光爆霍亂疫情 500人腹瀉住院149例確診&nbsp;&nbsp;money.udn.com緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;中天新聞網緬甸仰光爆發霍亂疫情500人腹瀉住院- 國際&nbsp;&nbsp;自由時報緬甸仰光爆發霍亂疫情 500人嚴重腹瀉送醫 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "tw.news.yahoo.com",
-          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPaEg3Nnh6RGpWVXBaS2IwYUZzcFhNelRSSkxPVzZhVHc0Zl9KRGJBNmQ1NGJDLVBhMk5GaWdPSDRuanNmaG5jbDhqNl9qNjBEMlQ3U3hPWXpiRXhUVVBhMHV4UkpTNy00dlUwa3V0MWl0TEx0R1A0WHUzVjNnQ01ZMGtram5sTWVyZTVVOXdRUHU0NW90dVhBb25BNlp6ZjcwbEFlR0JzN19HampmUnltb0loSlBqTlpRbTFkTTluTzU4Z1phRkJ2NVFDUWdrNmowY18zVHZyU3haWVJSYmlZLVY0WkF2THhrVVJtalJrZUdIc09ibTUzenJTM0tWSVA3NDZUNURWVFItWkpMaERmS25mTHJ6NURhUVdrSmZBdzlwa0dqbFdHTzRId0pTUmVram9RY0lDcENGbDZpQlA0UHpIYm1tYk4zb2tFX2dB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "腹瀉",
-          "keyword": "腹瀉",
-          "related_drugs": [
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3faeabee612c",
+      "id": "8a98d522e265",
       "title": "健康網》孩子得什麼病？醫師這樣下判斷",
       "published": "2026-08-18T12:20:00+00:00",
-      "summary": "健康網》孩子得什麼病？醫師這樣下判斷&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "健康網》孩子得什麼病？醫師這樣下判斷&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0ycmxZTlpTRnFUMG5PcUxSd1ZDdk5vRFVKY0pNX19Ld000c043QjBjZHAweDhVcTlPbnkzMHUtQ2p4YXlNMjlJNnV2M3prdmQyTDB1SllKTGVqNkxFeEx3VC1Gb3U?oc=5"
         }
       ],
@@ -290,6 +265,31 @@
       "matched_keywords": []
     },
     {
+      "id": "864ddc71a757",
+      "title": "緬甸仰光爆霍亂疫情500人腹瀉住院149例確診| 國際",
+      "published": "2026-08-18T04:21:00+00:00",
+      "summary": "緬甸仰光爆霍亂疫情500人腹瀉住院149例確診| 國際&nbsp;&nbsp;cna.com.tw緬甸仰光爆霍亂疫情 500人腹瀉住院149例確診&nbsp;&nbsp;經濟日報緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;中天新聞網緬甸仰光爆發霍亂疫情500人腹瀉住院- 國際&nbsp;&nbsp;自由時報緬甸仰光爆發霍亂疫情 500人嚴重腹瀉送醫 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "cna.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHZU95a0doQW9QSEVVU0xxU09PeUh4QWNvMkNwUW01dmQ3YnZUcUdVQnFvOGRDQUNEYnlDUVE0SU5Cb1RiU0EwVkQwVzBCajVNN0xKTGUyaG5kNW5wZi1j?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "c24711a2caa5",
       "title": "國家疾控局發布HPV疫苗科普問答- 健康",
       "published": "2026-08-18T03:58:03+00:00",
@@ -316,13 +316,13 @@
       "matched_keywords": []
     },
     {
-      "id": "9b7f4f2dfb9e",
-      "title": "腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵",
+      "id": "403b2f7afd75",
+      "title": "腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵 - TechNews 科技新報",
       "published": "2026-08-18T00:03:24+00:00",
-      "summary": "腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵&nbsp;&nbsp;technews.tw",
+      "summary": "腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "technews.tw",
+          "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjhDaDU5ZHhCZnRycTdYR1o5RzA5Y21WY0s2YnZfMjdvZVVPZ0FkeDQ5bnJJZ1ZjbmtIN3RaUFU0LVBwWGNFbDJlZFZCeVJDZ1JHS2M3TzVhWFd2ZFYyVHhKRXgxYjVaMEpnejFPejNrTlRFVHpMREdjYm5pNzluMVJxSWV2YVE?oc=5"
         }
       ],
@@ -954,26 +954,26 @@
       ]
     },
     {
-      "id": "20583d993b87",
+      "id": "9a7f98aa7066",
       "title": "健康網》缺鐵不只疲倦！百萬網紅曝8大警訊 愛吃冰塊也上榜",
       "published": "2026-08-17T12:26:00+00:00",
-      "summary": "健康網》缺鐵不只疲倦！百萬網紅曝8大警訊 愛吃冰塊也上榜&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "健康網》缺鐵不只疲倦！百萬網紅曝8大警訊 愛吃冰塊也上榜&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ERThrTkRKNk0wbFdFQ1RlTXVLQldHeExGbkxGQkpHQVg0WEg3MEUydUh1LWR3aTM0YUtPVExhVk5VNWwzNXpEMTdmMTJ1TWVhYkMtQlVVcmZqX20xeG5CWHdZeEo?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "9082f44cd484",
+      "id": "409cd577183c",
       "title": "打坐如何改變基因？研究揭4健康益處| 免疫力| 基因 | 打坐",
       "published": "2026-08-17T12:24:33+00:00",
-      "summary": "打坐如何改變基因？研究揭4健康益處| 免疫力| 基因 | 打坐&nbsp;&nbsp;epochtimes.com.tw",
+      "summary": "打坐如何改變基因？研究揭4健康益處| 免疫力| 基因 | 打坐&nbsp;&nbsp;台灣大紀元",
       "sources": [
         {
-          "name": "epochtimes.com.tw",
+          "name": "台灣大紀元",
           "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNRDNCZ011bDltU1dLeXJRYVhoSHg4elMyUktQQmRHR1ozdjlOMnVNTzVzVWJORmFBVm9Ocm53X0NEZmJiNElBMXhFOEduYWpRc0tCZW1wZnFwUThYNVVIUjhqNHl6UlpvRUVjSDJWRTVNYy1PYUhIYjRGcDBKd1g4X3BRLVRwNjhnajBYaGVvVGFWX2JabHFxamwzUW81T3RjWTNiTTh2Snc2dzlPMk00OGotcVhJcEh3ODU2VkVVZVd3TFRBMHlYaDBhN1VCelh4NW9ZTGt0NzRLT2tjQWU1ZHR4MWVkZU15dFBPcGRwY1M3Ry1HekE2ZVpWUFJ2TkhZUkhjWFhRZnZkYnc?oc=5"
         }
       ],
@@ -1240,13 +1240,13 @@
       "matched_keywords": []
     },
     {
-      "id": "5b04132e80ef",
+      "id": "96a6941cf8d0",
       "title": "不只空污！研究揭「交通噪音」也可能與巴金森氏症有關",
       "published": "2026-08-17T07:00:04+00:00",
-      "summary": "不只空污！研究揭「交通噪音」也可能與巴金森氏症有關&nbsp;&nbsp;news.ttv.com.tw",
+      "summary": "不只空污！研究揭「交通噪音」也可能與巴金森氏症有關&nbsp;&nbsp;台視新聞網",
       "sources": [
         {
-          "name": "news.ttv.com.tw",
+          "name": "台視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GVmgyRkdsSC02eWJ4cDlYbGdSSTZVLWdiUHlxT1FYZmpOYUdhTjRaYW9Kd2ZuZllIM3hPdmt1VFRQVGhBSzlFbkNSNEFJa3pWVDVVR29rOA?oc=5"
         }
       ],
