@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-18T22:12:50.874925+00:00",
-  "count": 24,
+  "fetched_at": "2026-08-18T23:13:03.635254+00:00",
+  "count": 25,
   "news": [
+    {
+      "id": "bee9d49eefc8",
+      "title": "新冠二度感染症狀較輕微？醫示警「3類高風險族群」重症風險恐升高 - Yahoo新聞",
+      "published": "2026-08-17T06:45:09+00:00",
+      "summary": "新冠二度感染症狀較輕微？醫示警「3類高風險族群」重症風險恐升高&nbsp;&nbsp;Yahoo新聞新冠好了卻還在咳、累、腦霧？醫師揭3大原因，4類人最易變長新冠&nbsp;&nbsp;康健雜誌不是感冒！多種呼吸道病毒齊發 醫勸「咳嗽超過3週」快就醫 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPYktBTWpIY05PVHp6Vkp3Y1RZcjJYdDR1ai15SHZEaXh4N3hxS3NtZ3hqRVN4ZEk4d1JZUngzT21vc3JNS3NwZml0WVVaZGg0RHRVWVpUd1ZOcE5SeWo5MmNoRmxua3Ewd3BIOElDb3pHUmt3bUgyMHcwY3J3VkJyQTVzaGM1cFFTVGg0SlN6RWQ2b1JsNVNLYjN2alZ3WWxNRXk4Y1F2c2VBUjJBZlNmSEpQS0tXOTUyRTd1QVZoY3VkR2htY3VLbTJldlJHdWRlM216WFZvQW5QOVIxbTRmNWxOUE4yQXhPQzMtT3JFemdrNFdtM1FnRzBvTnVxS3R5N3ZOTnNQc0wtMVJvQ1IwWW1JcncwbzlXZURfWjJIQmNhTm1aOGN2Y1VNWHA4N0hnaHdGZlo2T3ZUcGFpeUVtSFcxaUdJalFiTG16NS1LVE1zekpneUx5d2pfc1dZdGhTbkowUDJMWDBRX2x2dHVCTEozaVd0MnJWZUhlVUg0MzF6QjluajYtT3RIdFl1dVg1THEydWxFeW1lWm1o?oc=5"
+        }
+      ]
+    },
     {
       "id": "8a98d522e265",
       "title": "健康網》孩子得什麼病？醫師這樣下判斷 - 自由健康網",
@@ -28,37 +40,37 @@
       ]
     },
     {
-      "id": "5069feec4107",
-      "title": "緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂 - 中天新聞網",
+      "id": "3d6976bdddba",
+      "title": "緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂 - ctinews.com",
       "published": "2026-08-18T08:57:15+00:00",
-      "summary": "緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;中天新聞網緬甸仰光爆霍亂疫情 500人腹瀉住院149例確診&nbsp;&nbsp;rti.org.tw緬甸仰光爆發霍亂疫情500人腹瀉住院- 國際&nbsp;&nbsp;自由時報緬甸仰光爆發霍亂疫情 500人嚴重腹瀉送醫 | 民視新聞網&nbsp;&nbsp;LINE TODAY緬甸仰光爆霍亂疫情500人腹瀉住院149例確診- 股市爆料同學會&nbsp;&nbsp;CMoney",
+      "summary": "緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;ctinews.com緬甸仰光爆霍亂疫情 500人腹瀉住院149例確診&nbsp;&nbsp;rti.org.tw緬甸仰光爆發霍亂疫情500人腹瀉住院- 國際&nbsp;&nbsp;自由時報緬甸仰光爆發霍亂疫情 500人嚴重腹瀉送醫 | 民視新聞網&nbsp;&nbsp;LINE TODAY緬甸仰光爆霍亂疫情500人腹瀉住院149例確診- 股市爆料同學會&nbsp;&nbsp;CMoney",
       "sources": [
         {
-          "name": "中天新聞網",
+          "name": "ctinews.com",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EOGJ0cTl5VHBHdFVhWjU5cjAwalI2TGk1ZWEyb21FM1huQUxtZ1BEeTU3a3JBdkdOQUhTdlhZaWJEUWg3bVA3QUxhX2hDS0tSX2pj?oc=5"
         }
       ]
     },
     {
-      "id": "96a6941cf8d0",
-      "title": "不只空污！研究揭「交通噪音」也可能與巴金森氏症有關 - 台視新聞網",
+      "id": "5b04132e80ef",
+      "title": "不只空污！研究揭「交通噪音」也可能與巴金森氏症有關 - news.ttv.com.tw",
       "published": "2026-08-17T07:00:04+00:00",
-      "summary": "不只空污！研究揭「交通噪音」也可能與巴金森氏症有關&nbsp;&nbsp;台視新聞網",
+      "summary": "不只空污！研究揭「交通噪音」也可能與巴金森氏症有關&nbsp;&nbsp;news.ttv.com.tw",
       "sources": [
         {
-          "name": "台視新聞網",
+          "name": "news.ttv.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GVmgyRkdsSC02eWJ4cDlYbGdSSTZVLWdiUHlxT1FYZmpOYUdhTjRaYW9Kd2ZuZllIM3hPdmt1VFRQVGhBSzlFbkNSNEFJa3pWVDVVR29rOA?oc=5"
         }
       ]
     },
     {
-      "id": "fbbebf6a014e",
-      "title": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南 - health.setn.com",
+      "id": "2936ac8c3bd0",
+      "title": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南 - 三立新聞",
       "published": "2026-08-18T06:44:01+00:00",
-      "summary": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南&nbsp;&nbsp;health.setn.com",
+      "summary": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "health.setn.com",
+          "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NbTdqSG45UXRBazNIWVJCVEdCbXpZeUlHLWtpZ3MwaDd0MnNBZWEzQVQtbDV6c1V3Y3FmOG9iRmloakFCcDJuNGlXMlY?oc=5"
         }
       ]
@@ -88,14 +100,14 @@
       ]
     },
     {
-      "id": "4105959b6ac1",
-      "title": "15歲患者染新冠併肺炎住加護 「才好轉又燒」醫一查竟得2病毒 | TVBS - LINE TODAY",
-      "published": "2026-08-18T07:01:30+00:00",
-      "summary": "15歲患者染新冠併肺炎住加護 「才好轉又燒」醫一查竟得2病毒 | TVBS&nbsp;&nbsp;LINE TODAY",
+      "id": "867c05c8a638",
+      "title": "得新冠後免疫力變差？研究：新冠病毒會「喚醒」體內休眠病毒大亂鬥| 雜誌 - UDN",
+      "published": "2026-08-18T01:29:58+00:00",
+      "summary": "得新冠後免疫力變差？研究：新冠病毒會「喚醒」體內休眠病毒大亂鬥| 雜誌&nbsp;&nbsp;UDN",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUbWJQVkNFQWNpOE11MUdWUjBwV0Y5dnZ2bHFHb2ItekdTTGJxOWU3ZXNzNENqaGlfNFZhcEg2WUZKa0JFM255UHdoekk2Zkxpc1VXWE5n?oc=5"
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jUG9QOTJncm5UWGZhZ0RBeGVqcjFSbWtVcWQ3MFRxV0VxLXZnS1RTOUJsSVhoWHJXMlFPVjJFT202aWlLUjNwdTZyX3RFU0dE?oc=5"
         }
       ]
     },
@@ -136,13 +148,13 @@
       ]
     },
     {
-      "id": "a3a96afac86d",
-      "title": "COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂 - elle.com",
+      "id": "b69fcc85fb53",
+      "title": "COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂 - ELLE",
       "published": "2026-08-17T03:16:20+00:00",
-      "summary": "COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂&nbsp;&nbsp;elle.com",
+      "summary": "COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂&nbsp;&nbsp;ELLE",
       "sources": [
         {
-          "name": "elle.com",
+          "name": "ELLE",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aMFdWR1pLcGdhZW1CNkNMa3BuV1hCWkhOTTBEOGYxS0ZRTGdyOE9ScFJhQm9xWmR6MHNPZFNSWHYyOXludWJFc2FLSUpTM3h4ZGJhN212TWVMQlZiTkEtQlBjT0loWEJ1NjdYTEJR?oc=5"
         }
       ]
@@ -184,13 +196,13 @@
       ]
     },
     {
-      "id": "6823cf83cacd",
-      "title": "美國最常見癌症極易忽視 如何預防 - Singtaousa",
+      "id": "79eeb5d25ce2",
+      "title": "美國最常見癌症極易忽視 如何預防 - singtaousa.com",
       "published": "2026-08-18T14:00:00+00:00",
-      "summary": "美國最常見癌症極易忽視 如何預防&nbsp;&nbsp;Singtaousa",
+      "summary": "美國最常見癌症極易忽視 如何預防&nbsp;&nbsp;singtaousa.com",
       "sources": [
         {
-          "name": "Singtaousa",
+          "name": "singtaousa.com",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5"
         }
       ]

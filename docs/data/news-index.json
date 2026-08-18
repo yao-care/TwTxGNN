@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-18T22:12:55.838385+00:00",
-  "count": 8,
+  "generated": "2026-08-18T23:13:07.380029+00:00",
+  "count": 9,
   "news": [
     {
-      "id": "6823cf83cacd",
+      "id": "79eeb5d25ce2",
       "title": "美國最常見癌症極易忽視 如何預防",
       "published": "2026-08-18T14:00:00+00:00",
       "sources": [
         {
-          "name": "Singtaousa",
+          "name": "singtaousa.com",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5"
         }
       ],
@@ -211,12 +211,12 @@
       ]
     },
     {
-      "id": "5069feec4107",
+      "id": "3d6976bdddba",
       "title": "緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂",
       "published": "2026-08-18T08:57:15+00:00",
       "sources": [
         {
-          "name": "中天新聞網",
+          "name": "ctinews.com",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EOGJ0cTl5VHBHdFVhWjU5cjAwalI2TGk1ZWEyb21FM1huQUxtZ1BEeTU3a3JBdkdOQUhTdlhZaWJEUWg3bVA3QUxhX2hDS0tSX2pj?oc=5"
         }
       ],
@@ -1102,12 +1102,36 @@
       ]
     },
     {
-      "id": "a3a96afac86d",
+      "id": "bee9d49eefc8",
+      "title": "新冠二度感染症狀較輕微？醫示警「3類高風險族群」重症風險恐升高",
+      "published": "2026-08-17T06:45:09+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPYktBTWpIY05PVHp6Vkp3Y1RZcjJYdDR1ai15SHZEaXh4N3hxS3NtZ3hqRVN4ZEk4d1JZUngzT21vc3JNS3NwZml0WVVaZGg0RHRVWVpUd1ZOcE5SeWo5MmNoRmxua3Ewd3BIOElDb3pHUmt3bUgyMHcwY3J3VkJyQTVzaGM1cFFTVGg0SlN6RWQ2b1JsNVNLYjN2alZ3WWxNRXk4Y1F2c2VBUjJBZlNmSEpQS0tXOTUyRTd1QVZoY3VkR2htY3VLbTJldlJHdWRlM216WFZvQW5QOVIxbTRmNWxOUE4yQXhPQzMtT3JFemdrNFdtM1FnRzBvTnVxS3R5N3ZOTnNQc0wtMVJvQ1IwWW1JcncwbzlXZURfWjJIQmNhTm1aOGN2Y1VNWHA4N0hnaHdGZlo2T3ZUcGFpeUVtSFcxaUdJalFiTG16NS1LVE1zekpneUx5d2pfc1dZdGhTbkowUDJMWDBRX2x2dHVCTEozaVd0MnJWZUhlVUg0MzF6QjluajYtT3RIdFl1dVg1THEydWxFeW1lWm1o?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b69fcc85fb53",
       "title": "COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂",
       "published": "2026-08-17T03:16:20+00:00",
       "sources": [
         {
-          "name": "elle.com",
+          "name": "ELLE",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aMFdWR1pLcGdhZW1CNkNMa3BuV1hCWkhOTTBEOGYxS0ZRTGdyOE9ScFJhQm9xWmR6MHNPZFNSWHYyOXludWJFc2FLSUpTM3h4ZGJhN212TWVMQlZiTkEtQlBjT0loWEJ1NjdYTEJR?oc=5"
         }
       ],

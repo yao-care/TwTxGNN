@@ -48,7 +48,7 @@ permalink: /news/berberine/
 
 2026-08-18 <span class="news-indication-tag">癌症</span>
 
-來源：[Singtaousa](https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5)
+來源：[singtaousa.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5)
 
 ---
 
@@ -56,7 +56,7 @@ permalink: /news/berberine/
 
 2026-08-18 <span class="news-indication-tag">腹瀉</span>
 
-來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EOGJ0cTl5VHBHdFVhWjU5cjAwalI2TGk1ZWEyb21FM1huQUxtZ1BEeTU3a3JBdkdOQUhTdlhZaWJEUWg3bVA3QUxhX2hDS0tSX2pj?oc=5)
+來源：[ctinews.com](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EOGJ0cTl5VHBHdFVhWjU5cjAwalI2TGk1ZWEyb21FM1huQUxtZ1BEeTU3a3JBdkdOQUhTdlhZaWJEUWg3bVA3QUxhX2hDS0tSX2pj?oc=5)
 
 ---
 
