@@ -40,19 +40,19 @@ permalink: /news/anastrozole/
 
 ## 相關新聞（4 則）
 
+### [美國最常見癌症極易忽視 如何預防](https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5)
+
+2026-08-18 <span class="news-indication-tag">癌症</span>
+
+來源：[singtaousa.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5)
+
+---
+
 ### [腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵 - TechNews 科技新報](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjhDaDU5ZHhCZnRycTdYR1o5RzA5Y21WY0s2YnZfMjdvZVVPZ0FkeDQ5bnJJZ1ZjbmtIN3RaUFU0LVBwWGNFbDJlZFZCeVJDZ1JHS2M3TzVhWFd2ZFYyVHhKRXgxYjVaMEpnejFPejNrTlRFVHpMREdjYm5pNzluMVJxSWV2YVE?oc=5)
 
 2026-08-18 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
 來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjhDaDU5ZHhCZnRycTdYR1o5RzA5Y21WY0s2YnZfMjdvZVVPZ0FkeDQ5bnJJZ1ZjbmtIN3RaUFU0LVBwWGNFbDJlZFZCeVJDZ1JHS2M3TzVhWFd2ZFYyVHhKRXgxYjVaMEpnejFPejNrTlRFVHpMREdjYm5pNzluMVJxSWV2YVE?oc=5)
-
----
-
-### [美國最常見癌症極易忽視 如何預防](https://news.google.com/rss/articles/CBMitwFBVV95cUxOTWY2VHItU0NXUEFsNDNsV0pBRXkxeHJqS2ktRDk5RzlqTmtIZVRjRm04MC1RVEhYVzJmS055Qi1pNEwwc29RLVEzMFV0ZGppVmZwcks4U3pOQ0hqMW9vQmtoYkFMeElVTWhEcmN4ODE3aVo3d0FQeVAwaUxEc0FrOXlIY0VsRzFMWDVjSF9mZzNPZTF4S2hRYVNJQXNJaVhaRWN6UWxtcE43Wk9Qa2J4UWVqVHRaSFU?oc=5)
-
-2026-08-17 <span class="news-indication-tag">癌症</span>
-
-來源：[Singtaousa](https://news.google.com/rss/articles/CBMitwFBVV95cUxOTWY2VHItU0NXUEFsNDNsV0pBRXkxeHJqS2ktRDk5RzlqTmtIZVRjRm04MC1RVEhYVzJmS055Qi1pNEwwc29RLVEzMFV0ZGppVmZwcks4U3pOQ0hqMW9vQmtoYkFMeElVTWhEcmN4ODE3aVo3d0FQeVAwaUxEc0FrOXlIY0VsRzFMWDVjSF9mZzNPZTF4S2hRYVNJQXNJaVhaRWN6UWxtcE43Wk9Qa2J4UWVqVHRaSFU?oc=5)
 
 ---
 

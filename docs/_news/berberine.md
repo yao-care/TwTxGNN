@@ -44,11 +44,19 @@ permalink: /news/berberine/
 
 ## 相關新聞（5 則）
 
-### [緬甸仰光爆霍亂疫情500人腹瀉住院149例確診| 世界萬象| 全球](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ETHVRSDRfajlkMkhCZk5LYmRwTUY0U1dkT20wQnBrMWNIMTJzRFg3M1pjOXpvQXJQRUw4Y2J6Y1J0WV9FTVBkeHN3TnM4NldG?oc=5)
+### [美國最常見癌症極易忽視 如何預防](https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5)
+
+2026-08-18 <span class="news-indication-tag">癌症</span>
+
+來源：[singtaousa.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5)
+
+---
+
+### [緬甸最大城爆霍亂！500人嚴重腹瀉住院 149人快篩陽性](https://news.google.com/rss/articles/CBMizgJBVV95cUxPaEg3Nnh6RGpWVXBaS2IwYUZzcFhNelRSSkxPVzZhVHc0Zl9KRGJBNmQ1NGJDLVBhMk5GaWdPSDRuanNmaG5jbDhqNl9qNjBEMlQ3U3hPWXpiRXhUVVBhMHV4UkpTNy00dlUwa3V0MWl0TEx0R1A0WHUzVjNnQ01ZMGtram5sTWVyZTVVOXdRUHU0NW90dVhBb25BNlp6ZjcwbEFlR0JzN19HampmUnltb0loSlBqTlpRbTFkTTluTzU4Z1phRkJ2NVFDUWdrNmowY18zVHZyU3haWVJSYmlZLVY0WkF2THhrVVJtalJrZUdIc09ibTUzenJTM0tWSVA3NDZUNURWVFItWkpMaERmS25mTHJ6NURhUVdrSmZBdzlwa0dqbFdHTzRId0pTUmVram9RY0lDcENGbDZpQlA0UHpIYm1tYk4zb2tFX2dB?oc=5)
 
 2026-08-18 <span class="news-indication-tag">腹瀉</span>
 
-來源：[UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ETHVRSDRfajlkMkhCZk5LYmRwTUY0U1dkT20wQnBrMWNIMTJzRFg3M1pjOXpvQXJQRUw4Y2J6Y1J0WV9FTVBkeHN3TnM4NldG?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMizgJBVV95cUxPaEg3Nnh6RGpWVXBaS2IwYUZzcFhNelRSSkxPVzZhVHc0Zl9KRGJBNmQ1NGJDLVBhMk5GaWdPSDRuanNmaG5jbDhqNl9qNjBEMlQ3U3hPWXpiRXhUVVBhMHV4UkpTNy00dlUwa3V0MWl0TEx0R1A0WHUzVjNnQ01ZMGtram5sTWVyZTVVOXdRUHU0NW90dVhBb25BNlp6ZjcwbEFlR0JzN19HampmUnltb0loSlBqTlpRbTFkTTluTzU4Z1phRkJ2NVFDUWdrNmowY18zVHZyU3haWVJSYmlZLVY0WkF2THhrVVJtalJrZUdIc09ibTUzenJTM0tWSVA3NDZUNURWVFItWkpMaERmS25mTHJ6NURhUVdrSmZBdzlwa0dqbFdHTzRId0pTUmVram9RY0lDcENGbDZpQlA0UHpIYm1tYk4zb2tFX2dB?oc=5)
 
 ---
 
@@ -57,14 +65,6 @@ permalink: /news/berberine/
 2026-08-18 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
 來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjhDaDU5ZHhCZnRycTdYR1o5RzA5Y21WY0s2YnZfMjdvZVVPZ0FkeDQ5bnJJZ1ZjbmtIN3RaUFU0LVBwWGNFbDJlZFZCeVJDZ1JHS2M3TzVhWFd2ZFYyVHhKRXgxYjVaMEpnejFPejNrTlRFVHpMREdjYm5pNzluMVJxSWV2YVE?oc=5)
-
----
-
-### [美國最常見癌症極易忽視 如何預防](https://news.google.com/rss/articles/CBMitwFBVV95cUxOTWY2VHItU0NXUEFsNDNsV0pBRXkxeHJqS2ktRDk5RzlqTmtIZVRjRm04MC1RVEhYVzJmS055Qi1pNEwwc29RLVEzMFV0ZGppVmZwcks4U3pOQ0hqMW9vQmtoYkFMeElVTWhEcmN4ODE3aVo3d0FQeVAwaUxEc0FrOXlIY0VsRzFMWDVjSF9mZzNPZTF4S2hRYVNJQXNJaVhaRWN6UWxtcE43Wk9Qa2J4UWVqVHRaSFU?oc=5)
-
-2026-08-17 <span class="news-indication-tag">癌症</span>
-
-來源：[Singtaousa](https://news.google.com/rss/articles/CBMitwFBVV95cUxOTWY2VHItU0NXUEFsNDNsV0pBRXkxeHJqS2ktRDk5RzlqTmtIZVRjRm04MC1RVEhYVzJmS055Qi1pNEwwc29RLVEzMFV0ZGppVmZwcks4U3pOQ0hqMW9vQmtoYkFMeElVTWhEcmN4ODE3aVo3d0FQeVAwaUxEc0FrOXlIY0VsRzFMWDVjSF9mZzNPZTF4S2hRYVNJQXNJaVhaRWN6UWxtcE43Wk9Qa2J4UWVqVHRaSFU?oc=5)
 
 ---
 
