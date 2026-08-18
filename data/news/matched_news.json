@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-08-18T19:20:51.060936+00:00",
+  "last_updated": "2026-08-18T20:12:48.550649+00:00",
   "total_count": 23,
   "matched_count": 8,
   "news": [
     {
-      "id": "79eeb5d25ce2",
+      "id": "6823cf83cacd",
       "title": "美國最常見癌症極易忽視 如何預防",
       "published": "2026-08-18T14:00:00+00:00",
-      "summary": "美國最常見癌症極易忽視 如何預防&nbsp;&nbsp;singtaousa.com",
+      "summary": "美國最常見癌症極易忽視 如何預防&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5"
         }
       ],
@@ -213,6 +213,31 @@
       ]
     },
     {
+      "id": "b5174cfd5f87",
+      "title": "緬甸最大城爆霍亂！500人嚴重腹瀉住院 149人快篩陽性",
+      "published": "2026-08-18T13:01:52+00:00",
+      "summary": "緬甸最大城爆霍亂！500人嚴重腹瀉住院 149人快篩陽性&nbsp;&nbsp;Yahoo新聞緬甸仰光爆霍亂疫情 500人腹瀉住院149例確診&nbsp;&nbsp;rti.org.tw緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;中天新聞網緬甸仰光爆發霍亂疫情500人腹瀉住院- 國際&nbsp;&nbsp;自由時報緬甸仰光爆發霍亂疫情 500人嚴重腹瀉送醫 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPaEg3Nnh6RGpWVXBaS2IwYUZzcFhNelRSSkxPVzZhVHc0Zl9KRGJBNmQ1NGJDLVBhMk5GaWdPSDRuanNmaG5jbDhqNl9qNjBEMlQ3U3hPWXpiRXhUVVBhMHV4UkpTNy00dlUwa3V0MWl0TEx0R1A0WHUzVjNnQ01ZMGtram5sTWVyZTVVOXdRUHU0NW90dVhBb25BNlp6ZjcwbEFlR0JzN19HampmUnltb0loSlBqTlpRbTFkTTluTzU4Z1phRkJ2NVFDUWdrNmowY18zVHZyU3haWVJSYmlZLVY0WkF2THhrVVJtalJrZUdIc09ibTUzenJTM0tWSVA3NDZUNURWVFItWkpMaERmS25mTHJ6NURhUVdrSmZBdzlwa0dqbFdHTzRId0pTUmVram9RY0lDcENGbDZpQlA0UHpIYm1tYk4zb2tFX2dB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "8a98d522e265",
       "title": "健康網》孩子得什麼病？醫師這樣下判斷",
       "published": "2026-08-18T12:20:00+00:00",
@@ -226,13 +251,13 @@
       "matched_keywords": []
     },
     {
-      "id": "02d8e0b24c93",
+      "id": "351a80bc4ef6",
       "title": "孫慧雪5歲開始偏頭痛 開工發作痛到嘔焗住死撐",
       "published": "2026-08-18T11:30:00+00:00",
-      "summary": "孫慧雪5歲開始偏頭痛 開工發作痛到嘔焗住死撐&nbsp;&nbsp;AM730",
+      "summary": "孫慧雪5歲開始偏頭痛 開工發作痛到嘔焗住死撐&nbsp;&nbsp;am730.com.hk",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730.com.hk",
           "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNNVpuQlNXSFktM3Y1MGxMbHBMTmh3V1lzZ0F5cGVhSnJmaE9oVjJUcVlUV052U3laZHJWQ0MyOVAwanlMS1F4dDdvUF9BQ1poVmcyVW5KaG13VnFyZjJBV0JqTG9paUxpUmJfTi1mUC1sYVhGcmpDSUJNTzRMUnVNZVYyYWg4ajB1LXVNelhzX2JoeElyTDBQNGJUYnBrNVFZWFpKd1F4MXFVVF9VSzhJWlZIQkwyTlE4Tm04eGtrVzhsTVJ1bi1pMi1oVkdyeWtiaVl0QmV6aWZZQlE1MkYzX0FzbjV6dS1BSHJSYW5RZVlMYkxhQUF5aVRUSmNucVlMN0VYVTU0aTlnZ1JTZDdEZVJKdXBBSTRuMGlhSkptMWhUdXZuTWZlSEhMZlFyQnpwR2hTQTlqRU5LX2x6ZFJGQUNDMGdVdWxXYzh1Vm9USFpIVExp?oc=5"
         }
       ],
@@ -252,64 +277,39 @@
       "matched_keywords": []
     },
     {
-      "id": "fbbebf6a014e",
+      "id": "2936ac8c3bd0",
       "title": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南",
       "published": "2026-08-18T06:44:01+00:00",
-      "summary": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南&nbsp;&nbsp;health.setn.com",
+      "summary": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "health.setn.com",
+          "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NbTdqSG45UXRBazNIWVJCVEdCbXpZeUlHLWtpZ3MwaDd0MnNBZWEzQVQtbDV6c1V3Y3FmOG9iRmloakFCcDJuNGlXMlY?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "c4db8c0ac693",
+      "id": "3d88fba32134",
       "title": "Omega-3豐富 專家大力推薦這幾款魚罐頭",
       "published": "2026-08-18T06:15:23+00:00",
-      "summary": "Omega-3豐富 專家大力推薦這幾款魚罐頭&nbsp;&nbsp;世界新聞網",
+      "summary": "Omega-3豐富 專家大力推薦這幾款魚罐頭&nbsp;&nbsp;worldjournal.com",
       "sources": [
         {
-          "name": "世界新聞網",
+          "name": "worldjournal.com",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44VXJ5M1B1bHEtcU80a01oRjZ4ZUY3Q3hoX3R5OWhnTk9TTFI5bVhEY2FzWFEtQTdzLXFoUW9ERzVMUEgzdTlnenFVeWF6Ym85eEVaWmZZYWEwek11M0dXYTVB0gFnQVVfeXFMUHVXVmJEdXFwX25lNXZnRk5jczBWTTZUcHFHUVJrVklUOUVqRk9OdmtESUprZVVjWUpXVG00a0pNQkhaUXRrUWxMdy1UVVJXaUszcHhfZWc3ZUpoQ1FRV1JxWXpxRHhxRQ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "864ddc71a757",
-      "title": "緬甸仰光爆霍亂疫情500人腹瀉住院149例確診| 國際",
-      "published": "2026-08-18T04:21:00+00:00",
-      "summary": "緬甸仰光爆霍亂疫情500人腹瀉住院149例確診| 國際&nbsp;&nbsp;cna.com.tw緬甸仰光爆霍亂疫情 500人腹瀉住院149例確診&nbsp;&nbsp;rti.org.tw緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;中天新聞網緬甸仰光爆發霍亂疫情500人腹瀉住院- 國際&nbsp;&nbsp;news.ltn.com.tw緬甸仰光爆發霍亂疫情 500人嚴重腹瀉送醫 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "cna.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHZU95a0doQW9QSEVVU0xxU09PeUh4QWNvMkNwUW01dmQ3YnZUcUdVQnFvOGRDQUNEYnlDUVE0SU5Cb1RiU0EwVkQwVzBCajVNN0xKTGUyaG5kNW5wZi1j?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "腹瀉",
-          "keyword": "腹瀉",
-          "related_drugs": [
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7c2af9949631",
+      "id": "c24711a2caa5",
       "title": "國家疾控局發布HPV疫苗科普問答- 健康",
       "published": "2026-08-18T03:58:03+00:00",
-      "summary": "國家疾控局發布HPV疫苗科普問答- 健康&nbsp;&nbsp;wenweipo.com醫學滿東華：HPV陽性≠患性病 - 20260817 - 副刊&nbsp;&nbsp;news.mingpao.com不是感染HPV就會罹癌 醫：高危險型HPV+持續感染最需當心&nbsp;&nbsp;UDN",
+      "summary": "國家疾控局發布HPV疫苗科普問答- 健康&nbsp;&nbsp;香港文匯報醫學滿東華：HPV陽性≠患性病 - 20260817 - 副刊&nbsp;&nbsp;明報新聞網不是感染HPV就會罹癌 醫：高危險型HPV+持續感染最需當心&nbsp;&nbsp;UDN",
       "sources": [
         {
-          "name": "wenweipo.com",
+          "name": "香港文匯報",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12ZUVwZnN1ZGhvTlVGNTVLUjN6b1hwcTE4aWR2RGhzdTVuZW42eU5nYV9Ya0N3VHVnMzJVbmFpWnZwRDE3dXNXTGxjOUFRQ2ljRW1qZ3VFWmZwLUJWQm4zTGREa2RYMHAyMDEzcTJ2MTE0TXp4QzJN?oc=5"
         }
       ],
@@ -758,13 +758,13 @@
       ]
     },
     {
-      "id": "8451f44a73af",
+      "id": "193323cb01d9",
       "title": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望",
       "published": "2026-08-17T13:49:54+00:00",
-      "summary": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望&nbsp;&nbsp;hkcd.com",
+      "summary": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望&nbsp;&nbsp;香港商报",
       "sources": [
         {
-          "name": "hkcd.com",
+          "name": "香港商报",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5"
         }
       ],
@@ -1215,13 +1215,13 @@
       "matched_keywords": []
     },
     {
-      "id": "9efb3382bdfc",
-      "title": "活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！",
+      "id": "e0ae93c9294e",
+      "title": "活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！ - TVBS 健康2.0",
       "published": "2026-08-17T10:49:04+00:00",
-      "summary": "活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！&nbsp;&nbsp;health.tvbs.com.tw",
+      "summary": "活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！&nbsp;&nbsp;TVBS 健康2.0",
       "sources": [
         {
-          "name": "health.tvbs.com.tw",
+          "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHpWOFRsWEpIWkhzTFlTdW42X0piWGZ2bWtfa3I0MjVCRHpycGxDNmlZbnVUOGJzZTFyX3A2Y2tTYXlsVDVmaGtJM0NqMXRaT3Vv?oc=5"
         }
       ],
@@ -1304,13 +1304,13 @@
       ]
     },
     {
-      "id": "fcdf9e5a3726",
+      "id": "0e3924a17386",
       "title": "告訴她、戴上它 30分鐘可挽救健康與生命",
       "published": "2026-08-17T02:48:55+00:00",
-      "summary": "告訴她、戴上它 30分鐘可挽救健康與生命&nbsp;&nbsp;世界新聞網",
+      "summary": "告訴她、戴上它 30分鐘可挽救健康與生命&nbsp;&nbsp;worldjournal.com",
       "sources": [
         {
-          "name": "世界新聞網",
+          "name": "worldjournal.com",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WOXh4RGplSGRfUXNhVjd6T2IyU3o3MGRORVl3WnlUWHRXQzNLX1NmSHQ3WXZsSGt4NEtMdzRmb1A5eGQxQktPOEVwdzJ2SV9OcTFEaE9ueW9ZNHI5Z0RwcUtR0gFnQVVfeXFMTVZrVXpjT24yTWtLWXBqX29LMDQ0N0lQa3Y5UVo3cXdVUTl2R2NTREJxU1VJbllOWWhBVDQ1eEhpbnJ5UnM2VEVyc040UTlTa3ZHcV82cnAzbFV0NkJiOTd4QUpRNW1jdw?oc=5"
         }
       ],
