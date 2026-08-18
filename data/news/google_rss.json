@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-18T04:25:51.762959+00:00",
-  "count": 21,
+  "fetched_at": "2026-08-18T05:19:59.905928+00:00",
+  "count": 27,
   "news": [
     {
       "id": "80e3a05d5a93",
@@ -16,14 +16,14 @@
       ]
     },
     {
-      "id": "4105959b6ac1",
-      "title": "15歲患者染新冠併肺炎住加護 「才好轉又燒」醫一查竟得2病毒 | TVBS - LINE TODAY",
-      "published": "2026-08-16T13:22:47+00:00",
-      "summary": "15歲患者染新冠併肺炎住加護 「才好轉又燒」醫一查竟得2病毒 | TVBS&nbsp;&nbsp;LINE TODAY",
+      "id": "867c05c8a638",
+      "title": "得新冠後免疫力變差？研究：新冠病毒會「喚醒」體內休眠病毒大亂鬥| 雜誌 - UDN",
+      "published": "2026-08-18T01:29:58+00:00",
+      "summary": "得新冠後免疫力變差？研究：新冠病毒會「喚醒」體內休眠病毒大亂鬥| 雜誌&nbsp;&nbsp;UDN",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUbWJQVkNFQWNpOE11MUdWUjBwV0Y5dnZ2bHFHb2ItekdTTGJxOWU3ZXNzNENqaGlfNFZhcEg2WUZKa0JFM255UHdoekk2Zkxpc1VXWE5n?oc=5"
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jUG9QOTJncm5UWGZhZ0RBeGVqcjFSbWtVcWQ3MFRxV0VxLXZnS1RTOUJsSVhoWHJXMlFPVjJFT202aWlLUjNwdTZyX3RFU0dE?oc=5"
         }
       ]
     },
@@ -64,13 +64,13 @@
       ]
     },
     {
-      "id": "b69fcc85fb53",
-      "title": "COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂 - ELLE",
+      "id": "a3a96afac86d",
+      "title": "COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂 - elle.com",
       "published": "2026-08-17T03:16:20+00:00",
-      "summary": "COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂&nbsp;&nbsp;ELLE",
+      "summary": "COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂&nbsp;&nbsp;elle.com",
       "sources": [
         {
-          "name": "ELLE",
+          "name": "elle.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aMFdWR1pLcGdhZW1CNkNMa3BuV1hCWkhOTTBEOGYxS0ZRTGdyOE9ScFJhQm9xWmR6MHNPZFNSWHYyOXludWJFc2FLSUpTM3h4ZGJhN212TWVMQlZiTkEtQlBjT0loWEJ1NjdYTEJR?oc=5"
         }
       ]
@@ -91,7 +91,7 @@
       "id": "c24711a2caa5",
       "title": "國家疾控局發布HPV疫苗科普問答- 健康 - 香港文匯報",
       "published": "2026-08-18T03:58:03+00:00",
-      "summary": "國家疾控局發布HPV疫苗科普問答- 健康&nbsp;&nbsp;香港文匯報醫學滿東華：HPV陽性≠患性病 - 20260817 - 副刊&nbsp;&nbsp;news.mingpao.com不是感染HPV就會罹癌 醫：高危險型HPV+持續感染最需當心&nbsp;&nbsp;UDN",
+      "summary": "國家疾控局發布HPV疫苗科普問答- 健康&nbsp;&nbsp;香港文匯報醫學滿東華：HPV陽性≠患性病 - 20260817 - 副刊&nbsp;&nbsp;明報新聞網不是感染HPV就會罹癌 醫：高危險型HPV+持續感染最需當心&nbsp;&nbsp;UDN",
       "sources": [
         {
           "name": "香港文匯報",
@@ -100,13 +100,25 @@
       ]
     },
     {
-      "id": "ffd5db72f476",
-      "title": "罕見疾病意外揭開抗癌祕密，科學家看見新希望 - TechNews 科技新報",
-      "published": "2026-08-16T22:02:50+00:00",
-      "summary": "罕見疾病意外揭開抗癌祕密，科學家看見新希望&nbsp;&nbsp;TechNews 科技新報",
+      "id": "6ec5e427667c",
+      "title": "「吃不胖」天選之人的祕密：罕見基因變異天生體脂低、血糖更穩定| 雜誌 - UDN",
+      "published": "2026-08-16T05:37:08+00:00",
+      "summary": "「吃不胖」天選之人的祕密：罕見基因變異天生體脂低、血糖更穩定| 雜誌&nbsp;&nbsp;UDN",
       "sources": [
         {
-          "name": "TechNews 科技新報",
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYU19pT3psYVBablAxS1EyQ1NoQjBHaHd1M0NadVhTZ204VVVUTmtQWkdzc1lHSzJBcWtMY2NZcXRJTUdqRjBWNEtXUURVRXFi?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "536e6c97856d",
+      "title": "罕見疾病意外揭開抗癌祕密，科學家看見新希望 - technews.tw",
+      "published": "2026-08-16T22:02:50+00:00",
+      "summary": "罕見疾病意外揭開抗癌祕密，科學家看見新希望&nbsp;&nbsp;technews.tw",
+      "sources": [
+        {
+          "name": "technews.tw",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc0ktUE8wX2pUX3ItVEJVMXdhcDNzR1dCU0dMdFBxM2NVWG5vUVA4VmhnTXJoWmZuWDlzOG1sZWhTdDN5LUJaQWUxNUlaRThEeVJrcmVHY2MyUTBKM1V6X04yeFEtbzBEY3JxUkh1cmh1Vkp4SjhPcXgybXRsbGdWbHFkNm9heHk5ZUFMQXBNTkpOQmVFQk1wVE9KbDhnREZmMFBrRE1xR20xVkU1ZlR6Rw?oc=5"
         }
       ]
@@ -115,7 +127,7 @@
       "id": "1a0d6d8235c7",
       "title": "骨折不是老人專利！類固醇吃超過3個月 小心骨頭悄悄變脆 - 蕃新聞",
       "published": "2026-08-16T16:32:02+00:00",
-      "summary": "骨折不是老人專利！類固醇吃超過3個月 小心骨頭悄悄變脆&nbsp;&nbsp;蕃新聞類固醇吃超過3個月 小心骨頭悄悄變脆&nbsp;&nbsp;Yahoo新聞類固醇吃超過3個月恐骨質流失 醫師提醒治療同步保骨防骨折&nbsp;&nbsp;自由健康網類固醇吃逾3個月小心骨頭變脆 嘉基醫師：骨鬆不是老人專利&nbsp;&nbsp;UDN日服5毫克類固醇小心骨折 規律運動與營養防骨質流失 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "骨折不是老人專利！類固醇吃超過3個月 小心骨頭悄悄變脆&nbsp;&nbsp;蕃新聞類固醇吃超過3個月 小心骨頭悄悄變脆&nbsp;&nbsp;Yahoo新聞類固醇吃超過3個月恐骨質流失 醫師提醒治療同步保骨防骨折&nbsp;&nbsp;自由健康網類固醇吃逾3個月小心骨頭變脆 嘉基醫師：骨鬆不是老人專利&nbsp;&nbsp;UDN日服5毫克類固醇小心骨折 規律運動與營養防骨質流失 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online新聞",
       "sources": [
         {
           "name": "蕃新聞",
@@ -136,6 +148,18 @@
       ]
     },
     {
+      "id": "533b9d0a5e5a",
+      "title": "您目前的飲食運動習慣，會影響攝護腺癌風險嗎？ - careonline.com.tw",
+      "published": "2026-08-17T16:01:26+00:00",
+      "summary": "您目前的飲食運動習慣，會影響攝護腺癌風險嗎？&nbsp;&nbsp;careonline.com.tw",
+      "sources": [
+        {
+          "name": "careonline.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yZk5nU1FzbHRCeTZzanRUWjA0QTVhWmI2TG1DUDBESlViNmVZZUNRN0xPRGxad1JicW82UXZFUXczNDRjTDc1MG9JSUV3aHhmaVdUbVNyNVFBaDZSYmpRaE9jUFZPdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e0ae93c9294e",
       "title": "活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！ - TVBS 健康2.0",
       "published": "2026-08-17T10:49:04+00:00",
@@ -144,6 +168,18 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHpWOFRsWEpIWkhzTFlTdW42X0piWGZ2bWtfa3I0MjVCRHpycGxDNmlZbnVUOGJzZTFyX3A2Y2tTYXlsVDVmaGtJM0NqMXRaT3Vv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a51343a94107",
+      "title": "法國、瑞士研發智慧胸罩 30分鐘偵測乳癌 - 世界新聞網",
+      "published": "2026-08-17T06:00:00+00:00",
+      "summary": "法國、瑞士研發智慧胸罩 30分鐘偵測乳癌&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vSjR1bE81bTlYYzlsaTJCT3k5cXV4N2phQWM2Q2g0UUkxVWJLWmlzYmFfbGxsUmx0dVluamF3dmF5MTU0YjlJckNQaW5FSndiYlJaR3lRQnh3MWxiY2s1M2t30gFnQVVfeXFMTUVIVjlOZzJmcklPMVZMTnVyUnZqQU0wQmlCeXJpTHRJZ2F4SWtZVGlCYjFfcmdTZWFqRWhNODVTdXAxbFp4RW1qYVJ6a0xNcXpsSFlKbl9QNVY5QkxmdWJfZm50UllEMA?oc=5"
         }
       ]
     },
@@ -160,14 +196,14 @@
       ]
     },
     {
-      "id": "0e3924a17386",
-      "title": "告訴她、戴上它 30分鐘可挽救健康與生命 - worldjournal.com",
-      "published": "2026-08-17T02:48:55+00:00",
-      "summary": "告訴她、戴上它 30分鐘可挽救健康與生命&nbsp;&nbsp;worldjournal.com",
+      "id": "433d5d455b64",
+      "title": "癌症手術前先「練功」，真的能讓恢復較快嗎？ - careonline.com.tw",
+      "published": "2026-08-16T16:01:09+00:00",
+      "summary": "癌症手術前先「練功」，真的能讓恢復較快嗎？&nbsp;&nbsp;careonline.com.tw",
       "sources": [
         {
-          "name": "worldjournal.com",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WOXh4RGplSGRfUXNhVjd6T2IyU3o3MGRORVl3WnlUWHRXQzNLX1NmSHQ3WXZsSGt4NEtMdzRmb1A5eGQxQktPOEVwdzJ2SV9OcTFEaE9ueW9ZNHI5Z0RwcUtR0gFnQVVfeXFMTVZrVXpjT24yTWtLWXBqX29LMDQ0N0lQa3Y5UVo3cXdVUTl2R2NTREJxU1VJbllOWWhBVDQ1eEhpbnJ5UnM2VEVyc040UTlTa3ZHcV82cnAzbFV0NkJiOTd4QUpRNW1jdw?oc=5"
+          "name": "careonline.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzY01XN2xyNVdFV3RIWlJqUURCTk9qSlRJU050b3U5Snk1U2FPTktfajBiMzdlMmhScjZPR2xyVWFHXzZwdS1MaWxwb0FVQnM4WlZGM01kVVpCNVQ5X1dYODlfOWdudw?oc=5"
         }
       ]
     },
@@ -196,14 +232,26 @@
       ]
     },
     {
-      "id": "193323cb01d9",
-      "title": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望 - 香港商报",
-      "published": "2026-08-17T13:49:54+00:00",
-      "summary": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望&nbsp;&nbsp;香港商报",
+      "id": "e7888c97ea55",
+      "title": "胸腔被腫瘤佔滿 深圳醫生為病人搏出呼吸空間與生存希望 - 香港商报",
+      "published": "2026-08-17T13:09:11+00:00",
+      "summary": "胸腔被腫瘤佔滿 深圳醫生為病人搏出呼吸空間與生存希望&nbsp;&nbsp;香港商报",
       "sources": [
         {
           "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15N21nOGNEOTdCVGdXZ0FiaWxveEhvSXA2THgwdTRYVFhIdERqaWZoQnFRTmNTM1gxQ0lObUVUUFBOaS1ob0VPanR5ZHgxQkhNUFJXM25vLVdEcVo4M1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b0839807a0a3",
+      "title": "#冇乜早餐好食😱 唔係塑化劑，就係防腐劑| U Community 社群平台 - U Lifestyle",
+      "published": "2026-08-17T10:00:35+00:00",
+      "summary": "#冇乜早餐好食😱 唔係塑化劑，就係防腐劑| U Community 社群平台&nbsp;&nbsp;U Lifestyle",
+      "sources": [
+        {
+          "name": "U Lifestyle",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSHZLVTV0cmpaaXlGUUtTNXU1dUZxTkNaQllGb3UwVmxfZDFNdFZ1XzJaMklqMHNmazlkaXBfcXl2UnFBUHNhbm5aeXY1eVBfMW9ZbXJCSWJtZ0g5LXNkOUw2X0xEUUJCaUJXVnE3aGpBYWFVMWJVbExLR2twcl9JNEJnU2s4U0lHcW90U2dKaFBhN0dOeTRLN3NVOHBCblJ5c09EM1lYZU1yU1VpME5ERFo1b0xma0dSOUwxZTNwbVJDRGVmczc3TzRHRTZwc09pNjRTNmcxRUd5ZW5fVDE1dGNIN2tkWGpENDU2RkJ3?oc=5"
         }
       ]
     },
@@ -232,25 +280,49 @@
       ]
     },
     {
-      "id": "18eee939f594",
-      "title": "頸生硬塊以為唔痛就無事？醫生警告恐是隱形癌症轉移：揭7大致命異常症狀 - hk.ulifestyle.com.hk",
+      "id": "d9b4e1e08bfe",
+      "title": "頸生硬塊以為唔痛就無事？醫生警告恐是隱形癌症轉移：揭7大致命異常症狀 - UHK 港生活",
       "published": "2026-08-17T11:20:36+00:00",
-      "summary": "頸生硬塊以為唔痛就無事？醫生警告恐是隱形癌症轉移：揭7大致命異常症狀&nbsp;&nbsp;hk.ulifestyle.com.hk",
+      "summary": "頸生硬塊以為唔痛就無事？醫生警告恐是隱形癌症轉移：揭7大致命異常症狀&nbsp;&nbsp;UHK 港生活",
       "sources": [
         {
-          "name": "hk.ulifestyle.com.hk",
+          "name": "UHK 港生活",
           "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNSGhoWGdnbG5ZYVZxVXF1SHVQZFNrQWFiTkpQRExNT3JkaEh3amhWeFhQUmg0QzhFNTZmNXhKLU04Q2dVR3pSVWFsREI0aXJlWVo5eGZ1MW4zUE1kTkc1Nkx2akZUVmtJR05xTnNwbzhQWVlrNU01eDVCTDFFd3BWSTl0d0RackgteHJQbmp1bEhKQS1rYkcxRXI3cTN2R0RBdEd3OUJCREplMjVqZGVhWUJIUXdBeHR0OUJVU0lONF9wenVQTTFBZl80dHcwbXdvV3duMDdzbjRyN0x4WFdPVm1YcG1FdTNBa2ZvcTJwTWFZRVVWemtGeC1LdHpEOWlHRUhLZDNmVkRydXJ3cjFxQ3k3azcyODhVbHVtTEtadGlXVVRhZUw3TmVIYmJKaXIyS1ZibVhuTXF4Y0xfWlI5RURURTRzem9ZaFNmVko2c084c2lPWlVlMFVoal8zVTI2OUZsb2JKeTIyVG1MOXVzeWpWRXE1NFJkV2xvVG9NMjQ2UmVqem1VdFN6d3Z5RXN2bnJwRkZuQVdyX0pk?oc=5"
         }
       ]
     },
     {
-      "id": "7ad209b60bf9",
-      "title": "南韓每年近千人感染HIV！疾管廳揭感染真相 出櫃男星曝「半年驗一次」 - 鏡報",
-      "published": "2026-08-09T07:21:28+00:00",
-      "summary": "南韓每年近千人感染HIV！疾管廳揭感染真相 出櫃男星曝「半年驗一次」&nbsp;&nbsp;鏡報前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "6a418677c52d",
+      "title": "身體營養｜40歲女疲累關節痛記憶衰退無動力拒社交以為提早更年期補充2款關鍵營養兩周重拾精力- 東張+ - myTV SUPER",
+      "published": "2026-08-16T23:45:00+00:00",
+      "summary": "身體營養｜40歲女疲累關節痛記憶衰退無動力拒社交以為提早更年期補充2款關鍵營養兩周重拾精力- 東張+&nbsp;&nbsp;myTV SUPER",
       "sources": [
         {
-          "name": "鏡報",
+          "name": "myTV SUPER",
+          "link": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxOQmMzejFzUElNTXV0b2RJZGUtR3RQLWQzem1aZUJMQWkySzljdmcyQUxhSF83di00bnppTVZaNkdOZndkbDdEVFJqdTUyUWcteVJkc0YwcGw5d05LT3Z3MDRRMjRSUnlmWWNmVlU1Nm5Ic0tUMTJGVkU5cmhrT1pONGlCejVQUnBjeEQ3NUkyVjNWel92T2k2M0NJWHVpY214VFl1SFlCT1BRY2JJMHhaWmFpT3p1d0VGbkYzcXp1S05XUUM2RHoteW1KdEpXOWE2dE94VHJ3TDRqXzFGV2c5ck1GV25oS05lOWtLOXR3VkJDbXdaSVZXNUtLRTg5ZzhqSTVjTVNRcjRTRlJTTXo1SUl2LU8xRUp3clVpU1RKN0pDUjR5NjJyWHJuUUZSSmpWSE9kNE1haVMtelhURTRBQmc2Vk41WFZVbmMyYVUxU1VjUE1zVUI0eV9tQXZ1M3hPbTBfM2YxV1NqSkZ0ZHkzNGZ6U2p2MHZWRmRGV25jclpkVmZwaXpjeURWMUY3cjl4UzhGRGduUnVyMFdlMFEyVFJ6THp3LVVSMjlSMlptaFd0M3Z0dk1LT1VuOElxdENpRmpwRHd1WTJ5dlhnR0szRkxObllobmpPaXdod1IyNHpoeFhqSHRtcm00bWRKWlVVSGdseFJSdVUwOGlNazg5OVNrRXNNMGFrRVhaLS1NQzljV2RKYnRjQUpCdThuS2c4UVhFeWlXNFhBNUwyX0F2ajRLMDAtSzJwdnNjcjh1VWt2ZVRkNWNCZU0wQTN1YVFhaUN5LWJMSDlIOTVhTVh2ZHNvblB3b09GSnhGZDd3MUM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "03d349a07824",
+      "title": "糖尿病友們，您的血糖控制也會影響呼吸能力嗎？ - careonline.com.tw",
+      "published": "2026-08-16T08:01:19+00:00",
+      "summary": "糖尿病友們，您的血糖控制也會影響呼吸能力嗎？&nbsp;&nbsp;careonline.com.tw",
+      "sources": [
+        {
+          "name": "careonline.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jT2lUYmpqSHZmcGItakU1c2VwU0VEZkdydFVhZGU0LUhrSzZoam9xcnBSNC1jWjlHTGpZMHF6b2NHWUZpUmlJME5iNXVNY083a3ZTWlpUbmNLUUg4dWE3ZkFvejdZZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "915ae6cb4115",
+      "title": "南韓每年近千人感染HIV！疾管廳揭感染真相 出櫃男星曝「半年驗一次」 - mirrordaily.news",
+      "published": "2026-08-09T07:21:28+00:00",
+      "summary": "南韓每年近千人感染HIV！疾管廳揭感染真相 出櫃男星曝「半年驗一次」&nbsp;&nbsp;mirrordaily.news前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "mirrordaily.news",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TRk92SjhMeVE2a19mZFhvdXQ0aXY5blBQVUYzenM3NlFHR2ROVjEyUDU4Rk92VVoyWWVTaDVvYWlJOFNMVHZLUWpJSEZ3N2dMaXc?oc=5"
         }
       ]
