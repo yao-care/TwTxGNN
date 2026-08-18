@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [阿茲海默症治療新路徑　TML-6從細胞自噬機制尋找逆轉可能](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XMGZXcVFIcC1sazhjR1RsX19LVERKVThQUWRScmIzVERnSTV3ZWRUM3NQajB1aUVMRGQzdkJkNW1SSmxQTXNIeFpCYkZzcC1IalUwRzFLcXluTUFK0gFiQVVfeXFMT2Zwa3ZMRGJLUDgzaTVUaFo1eVBhMWJzUkxpWHBacXR1RlZGZGh0eFZGYldVZ0t5aGh0QXhiNVlId2xfdVJTOEVJRGFsMVNTZFIxRnlPMXRsX3VqdVBhYUdqaHc?oc=5)
 
@@ -59,11 +59,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [胸腔被腫瘤佔滿 深圳醫生為病人搏出呼吸空間與生存希望](https://news.google.com/rss/articles/CBMiXkFVX3lxTE15N21nOGNEOTdCVGdXZ0FiaWxveEhvSXA2THgwdTRYVFhIdERqaWZoQnFRTmNTM1gxQ0lObUVUUFBOaS1ob0VPanR5ZHgxQkhNUFJXM25vLVdEcVo4M1E?oc=5)
+### [胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望](https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5)
 
 2026-08-17 <span class="news-indication-tag">腫瘤</span>
 
-來源：[香港商报](https://news.google.com/rss/articles/CBMiXkFVX3lxTE15N21nOGNEOTdCVGdXZ0FiaWxveEhvSXA2THgwdTRYVFhIdERqaWZoQnFRTmNTM1gxQ0lObUVUUFBOaS1ob0VPanR5ZHgxQkhNUFJXM25vLVdEcVo4M1E?oc=5)
+來源：[香港商报](https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5)
 
 ---
 
@@ -80,14 +80,6 @@ permalink: /news/gefitinib/
 2026-08-17 <span class="news-indication-tag">失智</span>
 
 來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHpWOFRsWEpIWkhzTFlTdW42X0piWGZ2bWtfa3I0MjVCRHpycGxDNmlZbnVUOGJzZTFyX3A2Y2tTYXlsVDVmaGtJM0NqMXRaT3Vv?oc=5)
-
----
-
-### [癌症手術前先「練功」，真的能讓恢復較快嗎？](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzY01XN2xyNVdFV3RIWlJqUURCTk9qSlRJU050b3U5Snk1U2FPTktfajBiMzdlMmhScjZPR2xyVWFHXzZwdS1MaWxwb0FVQnM4WlZGM01kVVpCNVQ5X1dYODlfOWdudw?oc=5)
-
-2026-08-16 <span class="news-indication-tag">癌症</span>
-
-來源：[careonline.com.tw](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzY01XN2xyNVdFV3RIWlJqUURCTk9qSlRJU050b3U5Snk1U2FPTktfajBiMzdlMmhScjZPR2xyVWFHXzZwdS1MaWxwb0FVQnM4WlZGM01kVVpCNVQ5X1dYODlfOWdudw?oc=5)
 
 ---
 
