@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵 - TechNews 科技新報](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjhDaDU5ZHhCZnRycTdYR1o5RzA5Y21WY0s2YnZfMjdvZVVPZ0FkeDQ5bnJJZ1ZjbmtIN3RaUFU0LVBwWGNFbDJlZFZCeVJDZ1JHS2M3TzVhWFd2ZFYyVHhKRXgxYjVaMEpnejFPejNrTlRFVHpMREdjYm5pNzluMVJxSWV2YVE?oc=5)
+
+2026-08-18 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjhDaDU5ZHhCZnRycTdYR1o5RzA5Y21WY0s2YnZfMjdvZVVPZ0FkeDQ5bnJJZ1ZjbmtIN3RaUFU0LVBwWGNFbDJlZFZCeVJDZ1JHS2M3TzVhWFd2ZFYyVHhKRXgxYjVaMEpnejFPejNrTlRFVHpMREdjYm5pNzluMVJxSWV2YVE?oc=5)
+
+---
 
 ### [阿茲海默症治療新路徑　TML-6從細胞自噬機制尋找逆轉可能](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XMGZXcVFIcC1sazhjR1RsX19LVERKVThQUWRScmIzVERnSTV3ZWRUM3NQajB1aUVMRGQzdkJkNW1SSmxQTXNIeFpCYkZzcC1IalUwRzFLcXluTUFK0gFiQVVfeXFMT2Zwa3ZMRGJLUDgzaTVUaFo1eVBhMWJzUkxpWHBacXR1RlZGZGh0eFZGYldVZ0t5aGh0QXhiNVlId2xfdVJTOEVJRGFsMVNTZFIxRnlPMXRsX3VqdVBhYUdqaHc?oc=5)
 

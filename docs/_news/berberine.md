@@ -14,7 +14,7 @@ permalink: /news/berberine/
 ---
 
 <p class="key-answer" data-question="Berberine 有什麼相關新聞？">
-<strong>Berberine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Berberine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/berberine/
 <p><a href="{{ '/drugs/berberine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [緬甸仰光爆霍亂疫情　500人腹瀉住院149例確診](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nVU5sTHlYdGtha19RSHh2LXJKZHpjdWFpTjBFdGVtSTYzdkx5RjNOejNNVGp2dXYxRmE2bU43ZnZnVTZ6eGZldjR2UE1Jdm9fR1BtbzlyUTFVUdIBX0FVX3lxTE9fVkN5TWI1aW1HQ2lraXAwN0p0cUQ3NHRXdm9VcWpnNGY5blJQd19PN09aYjg5LVgxZ0ZxNzBxZHd6Q3ZtRnMxVl9hZ2ViME9BTVFRZDJRcTJMV2dLYnVZ?oc=5)
 
 2026-08-18 <span class="news-indication-tag">腹瀉</span>
 
 來源：[經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nVU5sTHlYdGtha19RSHh2LXJKZHpjdWFpTjBFdGVtSTYzdkx5RjNOejNNVGp2dXYxRmE2bU43ZnZnVTZ6eGZldjR2UE1Jdm9fR1BtbzlyUTFVUdIBX0FVX3lxTE9fVkN5TWI1aW1HQ2lraXAwN0p0cUQ3NHRXdm9VcWpnNGY5blJQd19PN09aYjg5LVgxZ0ZxNzBxZHd6Q3ZtRnMxVl9hZ2ViME9BTVFRZDJRcTJMV2dLYnVZ?oc=5)
+
+---
+
+### [腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵 - TechNews 科技新報](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjhDaDU5ZHhCZnRycTdYR1o5RzA5Y21WY0s2YnZfMjdvZVVPZ0FkeDQ5bnJJZ1ZjbmtIN3RaUFU0LVBwWGNFbDJlZFZCeVJDZ1JHS2M3TzVhWFd2ZFYyVHhKRXgxYjVaMEpnejFPejNrTlRFVHpMREdjYm5pNzluMVJxSWV2YVE?oc=5)
+
+2026-08-18 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjhDaDU5ZHhCZnRycTdYR1o5RzA5Y21WY0s2YnZfMjdvZVVPZ0FkeDQ5bnJJZ1ZjbmtIN3RaUFU0LVBwWGNFbDJlZFZCeVJDZ1JHS2M3TzVhWFd2ZFYyVHhKRXgxYjVaMEpnejFPejNrTlRFVHpMREdjYm5pNzluMVJxSWV2YVE?oc=5)
 
 ---
 
