@@ -14,7 +14,7 @@ permalink: /news/berberine/
 ---
 
 <p class="key-answer" data-question="Berberine 有什麼相關新聞？">
-<strong>Berberine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Berberine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/berberine/
 <p><a href="{{ '/drugs/berberine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [緬甸仰光爆霍亂疫情500人腹瀉住院149例確診| 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHZU95a0doQW9QSEVVU0xxU09PeUh4QWNvMkNwUW01dmQ3YnZUcUdVQnFvOGRDQUNEYnlDUVE0SU5Cb1RiU0EwVkQwVzBCajVNN0xKTGUyaG5kNW5wZi1j?oc=5)
+
+2026-08-18 <span class="news-indication-tag">腹瀉</span>
+
+來源：[cna.com.tw](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHZU95a0doQW9QSEVVU0xxU09PeUh4QWNvMkNwUW01dmQ3YnZUcUdVQnFvOGRDQUNEYnlDUVE0SU5Cb1RiU0EwVkQwVzBCajVNN0xKTGUyaG5kNW5wZi1j?oc=5)
+
+---
 
 ### [美國最常見癌症極易忽視 如何預防](https://news.google.com/rss/articles/CBMitwFBVV95cUxOTWY2VHItU0NXUEFsNDNsV0pBRXkxeHJqS2ktRDk5RzlqTmtIZVRjRm04MC1RVEhYVzJmS055Qi1pNEwwc29RLVEzMFV0ZGppVmZwcks4U3pOQ0hqMW9vQmtoYkFMeElVTWhEcmN4ODE3aVo3d0FQeVAwaUxEc0FrOXlIY0VsRzFMWDVjSF9mZzNPZTF4S2hRYVNJQXNJaVhaRWN6UWxtcE43Wk9Qa2J4UWVqVHRaSFU?oc=5)
 

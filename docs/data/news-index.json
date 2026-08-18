@@ -1,7 +1,31 @@
 {
-  "generated": "2026-08-18T06:26:55.151143+00:00",
-  "count": 6,
+  "generated": "2026-08-18T07:29:59.091221+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "864ddc71a757",
+      "title": "緬甸仰光爆霍亂疫情500人腹瀉住院149例確診| 國際",
+      "published": "2026-08-18T04:21:00+00:00",
+      "sources": [
+        {
+          "name": "cna.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHZU95a0doQW9QSEVVU0xxU09PeUh4QWNvMkNwUW01dmQ3YnZUcUdVQnFvOGRDQUNEYnlDUVE0SU5Cb1RiU0EwVkQwVzBCajVNN0xKTGUyaG5kNW5wZi1j?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "80e3a05d5a93",
       "title": "阿茲海默症治療新路徑　TML-6從細胞自噬機制尋找逆轉可能",
