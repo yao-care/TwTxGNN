@@ -63,7 +63,7 @@ permalink: /news/gefitinib/
 
 2026-08-18 <span class="news-indication-tag">阿茲海默症</span>
 
-來源：[health.udn.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XMGZXcVFIcC1sazhjR1RsX19LVERKVThQUWRScmIzVERnSTV3ZWRUM3NQajB1aUVMRGQzdkJkNW1SSmxQTXNIeFpCYkZzcC1IalUwRzFLcXluTUFK0gFiQVVfeXFMT2Zwa3ZMRGJLUDgzaTVUaFo1eVBhMWJzUkxpWHBacXR1RlZGZGh0eFZGYldVZ0t5aGh0QXhiNVlId2xfdVJTOEVJRGFsMVNTZFIxRnlPMXRsX3VqdVBhYUdqaHc?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XMGZXcVFIcC1sazhjR1RsX19LVERKVThQUWRScmIzVERnSTV3ZWRUM3NQajB1aUVMRGQzdkJkNW1SSmxQTXNIeFpCYkZzcC1IalUwRzFLcXluTUFK0gFiQVVfeXFMT2Zwa3ZMRGJLUDgzaTVUaFo1eVBhMWJzUkxpWHBacXR1RlZGZGh0eFZGYldVZ0t5aGh0QXhiNVlId2xfdVJTOEVJRGFsMVNTZFIxRnlPMXRsX3VqdVBhYUdqaHc?oc=5)
 
 ---
 

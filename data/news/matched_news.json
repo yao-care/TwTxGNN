@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T21:14:03.543505+00:00",
+  "last_updated": "2026-08-18T22:12:55.819583+00:00",
   "total_count": 25,
   "matched_count": 8,
   "news": [
@@ -239,31 +239,6 @@
       ]
     },
     {
-      "id": "b5174cfd5f87",
-      "title": "緬甸最大城爆霍亂！500人嚴重腹瀉住院 149人快篩陽性",
-      "published": "2026-08-18T13:01:52+00:00",
-      "summary": "緬甸最大城爆霍亂！500人嚴重腹瀉住院 149人快篩陽性&nbsp;&nbsp;Yahoo新聞緬甸仰光爆霍亂疫情 500人腹瀉住院149例確診&nbsp;&nbsp;rti.org.tw緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;中天新聞網緬甸仰光爆發霍亂疫情500人腹瀉住院- 國際&nbsp;&nbsp;自由時報緬甸仰光爆發霍亂疫情 500人嚴重腹瀉送醫 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPaEg3Nnh6RGpWVXBaS2IwYUZzcFhNelRSSkxPVzZhVHc0Zl9KRGJBNmQ1NGJDLVBhMk5GaWdPSDRuanNmaG5jbDhqNl9qNjBEMlQ3U3hPWXpiRXhUVVBhMHV4UkpTNy00dlUwa3V0MWl0TEx0R1A0WHUzVjNnQ01ZMGtram5sTWVyZTVVOXdRUHU0NW90dVhBb25BNlp6ZjcwbEFlR0JzN19HampmUnltb0loSlBqTlpRbTFkTTluTzU4Z1phRkJ2NVFDUWdrNmowY18zVHZyU3haWVJSYmlZLVY0WkF2THhrVVJtalJrZUdIc09ibTUzenJTM0tWSVA3NDZUNURWVFItWkpMaERmS25mTHJ6NURhUVdrSmZBdzlwa0dqbFdHTzRId0pTUmVram9RY0lDcENGbDZpQlA0UHpIYm1tYk4zb2tFX2dB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "腹瀉",
-          "keyword": "腹瀉",
-          "related_drugs": [
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "8a98d522e265",
       "title": "健康網》孩子得什麼病？醫師這樣下判斷",
       "published": "2026-08-18T12:20:00+00:00",
@@ -290,6 +265,31 @@
       "matched_keywords": []
     },
     {
+      "id": "5069feec4107",
+      "title": "緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂",
+      "published": "2026-08-18T08:57:15+00:00",
+      "summary": "緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;中天新聞網緬甸仰光爆霍亂疫情 500人腹瀉住院149例確診&nbsp;&nbsp;rti.org.tw緬甸仰光爆發霍亂疫情500人腹瀉住院- 國際&nbsp;&nbsp;自由時報緬甸仰光爆發霍亂疫情 500人嚴重腹瀉送醫 | 民視新聞網&nbsp;&nbsp;LINE TODAY緬甸仰光爆霍亂疫情500人腹瀉住院149例確診- 股市爆料同學會&nbsp;&nbsp;CMoney",
+      "sources": [
+        {
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EOGJ0cTl5VHBHdFVhWjU5cjAwalI2TGk1ZWEyb21FM1huQUxtZ1BEeTU3a3JBdkdOQUhTdlhZaWJEUWg3bVA3QUxhX2hDS0tSX2pj?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "4105959b6ac1",
       "title": "15歲患者染新冠併肺炎住加護 「才好轉又燒」醫一查竟得2病毒 | TVBS - LINE TODAY",
       "published": "2026-08-18T07:01:30+00:00",
@@ -303,13 +303,13 @@
       "matched_keywords": []
     },
     {
-      "id": "2936ac8c3bd0",
+      "id": "fbbebf6a014e",
       "title": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南",
       "published": "2026-08-18T06:44:01+00:00",
-      "summary": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南&nbsp;&nbsp;三立新聞",
+      "summary": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南&nbsp;&nbsp;health.setn.com",
       "sources": [
         {
-          "name": "三立新聞",
+          "name": "health.setn.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NbTdqSG45UXRBazNIWVJCVEdCbXpZeUlHLWtpZ3MwaDd0MnNBZWEzQVQtbDV6c1V3Y3FmOG9iRmloakFCcDJuNGlXMlY?oc=5"
         }
       ],
@@ -329,13 +329,13 @@
       "matched_keywords": []
     },
     {
-      "id": "f02f5b7efe9d",
+      "id": "d9bfc22cad55",
       "title": "打呼嚕是睡得香？小心影響孩子身高智力",
       "published": "2026-08-18T01:37:15+00:00",
-      "summary": "打呼嚕是睡得香？小心影響孩子身高智力&nbsp;&nbsp;bau.com.hk",
+      "summary": "打呼嚕是睡得香？小心影響孩子身高智力&nbsp;&nbsp;紫荊雜誌",
       "sources": [
         {
-          "name": "bau.com.hk",
+          "name": "紫荊雜誌",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdVZlSmlDOGIwb2Nxb3dWWWJKY2g0M3VqdmFIMUxJLVlYMUtzeXZBcGFqN2ZNUVI2ME5wak82bFdvdTZoblhxSVJGalBwRjJIMk9ab2pwTG1waU1VME9uc19XNzNhdmtjaUhYenpvc0oydTFjbWlLa2tDVTg5WXZDbUxXNFc1U0dNNnI5NE9odWY?oc=5"
         }
       ],
@@ -746,13 +746,13 @@
       ]
     },
     {
-      "id": "1bfbe7aeb78c",
+      "id": "80e3a05d5a93",
       "title": "阿茲海默症治療新路徑　TML-6從細胞自噬機制尋找逆轉可能",
       "published": "2026-08-18T00:00:00+00:00",
-      "summary": "阿茲海默症治療新路徑 TML-6從細胞自噬機制尋找逆轉可能&nbsp;&nbsp;health.udn.com",
+      "summary": "阿茲海默症治療新路徑 TML-6從細胞自噬機制尋找逆轉可能&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "health.udn.com",
+          "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XMGZXcVFIcC1sazhjR1RsX19LVERKVThQUWRScmIzVERnSTV3ZWRUM3NQajB1aUVMRGQzdkJkNW1SSmxQTXNIeFpCYkZzcC1IalUwRzFLcXluTUFK0gFiQVVfeXFMT2Zwa3ZMRGJLUDgzaTVUaFo1eVBhMWJzUkxpWHBacXR1RlZGZGh0eFZGYldVZ0t5aGh0QXhiNVlId2xfdVJTOEVJRGFsMVNTZFIxRnlPMXRsX3VqdVBhYUdqaHc?oc=5"
         }
       ],
@@ -1305,13 +1305,13 @@
       "matched_keywords": []
     },
     {
-      "id": "b69fcc85fb53",
+      "id": "a3a96afac86d",
       "title": "COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂",
       "published": "2026-08-17T03:16:20+00:00",
-      "summary": "COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂&nbsp;&nbsp;ELLE",
+      "summary": "COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂&nbsp;&nbsp;elle.com",
       "sources": [
         {
-          "name": "ELLE",
+          "name": "elle.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aMFdWR1pLcGdhZW1CNkNMa3BuV1hCWkhOTTBEOGYxS0ZRTGdyOE9ScFJhQm9xWmR6MHNPZFNSWHYyOXludWJFc2FLSUpTM3h4ZGJhN212TWVMQlZiTkEtQlBjT0loWEJ1NjdYTEJR?oc=5"
         }
       ],
