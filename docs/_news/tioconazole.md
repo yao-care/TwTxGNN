@@ -14,7 +14,7 @@ permalink: /news/tioconazole/
 ---
 
 <p class="key-answer" data-question="Tioconazole 有什麼相關新聞？">
-<strong>Tioconazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Tioconazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,9 @@ permalink: /news/tioconazole/
 <p><a href="{{ '/drugs/tioconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [身體營養｜40歲女疲累關節痛記憶衰退無動力拒社交以為提早更年期補充2款關鍵營養兩周重拾精力- 東張+ - myTV SUPER](https://news.google.com/rss/articles/CBMi8ARBVV95cUxOQmMzejFzUElNTXV0b2RJZGUtR3RQLWQzem1aZUJMQWkySzljdmcyQUxhSF83di00bnppTVZaNkdOZndkbDdEVFJqdTUyUWcteVJkc0YwcGw5d05LT3Z3MDRRMjRSUnlmWWNmVlU1Nm5Ic0tUMTJGVkU5cmhrT1pONGlCejVQUnBjeEQ3NUkyVjNWel92T2k2M0NJWHVpY214VFl1SFlCT1BRY2JJMHhaWmFpT3p1d0VGbkYzcXp1S05XUUM2RHoteW1KdEpXOWE2dE94VHJ3TDRqXzFGV2c5ck1GV25oS05lOWtLOXR3VkJDbXdaSVZXNUtLRTg5ZzhqSTVjTVNRcjRTRlJTTXo1SUl2LU8xRUp3clVpU1RKN0pDUjR5NjJyWHJuUUZSSmpWSE9kNE1haVMtelhURTRBQmc2Vk41WFZVbmMyYVUxU1VjUE1zVUI0eV9tQXZ1M3hPbTBfM2YxV1NqSkZ0ZHkzNGZ6U2p2MHZWRmRGV25jclpkVmZwaXpjeURWMUY3cjl4UzhGRGduUnVyMFdlMFEyVFJ6THp3LVVSMjlSMlptaFd0M3Z0dk1LT1VuOElxdENpRmpwRHd1WTJ5dlhnR0szRkxObllobmpPaXdod1IyNHpoeFhqSHRtcm00bWRKWlVVSGdseFJSdVUwOGlNazg5OVNrRXNNMGFrRVhaLS1NQzljV2RKYnRjQUpCdThuS2c4UVhFeWlXNFhBNUwyX0F2ajRLMDAtSzJwdnNjcjh1VWt2ZVRkNWNCZU0wQTN1YVFhaUN5LWJMSDlIOTVhTVh2ZHNvblB3b09GSnhGZDd3MUM?oc=5)
-
-2026-08-16 <span class="news-indication-tag">更年期</span>
-
-來源：[myTV SUPER](https://news.google.com/rss/articles/CBMi8ARBVV95cUxOQmMzejFzUElNTXV0b2RJZGUtR3RQLWQzem1aZUJMQWkySzljdmcyQUxhSF83di00bnppTVZaNkdOZndkbDdEVFJqdTUyUWcteVJkc0YwcGw5d05LT3Z3MDRRMjRSUnlmWWNmVlU1Nm5Ic0tUMTJGVkU5cmhrT1pONGlCejVQUnBjeEQ3NUkyVjNWel92T2k2M0NJWHVpY214VFl1SFlCT1BRY2JJMHhaWmFpT3p1d0VGbkYzcXp1S05XUUM2RHoteW1KdEpXOWE2dE94VHJ3TDRqXzFGV2c5ck1GV25oS05lOWtLOXR3VkJDbXdaSVZXNUtLRTg5ZzhqSTVjTVNRcjRTRlJTTXo1SUl2LU8xRUp3clVpU1RKN0pDUjR5NjJyWHJuUUZSSmpWSE9kNE1haVMtelhURTRBQmc2Vk41WFZVbmMyYVUxU1VjUE1zVUI0eV9tQXZ1M3hPbTBfM2YxV1NqSkZ0ZHkzNGZ6U2p2MHZWRmRGV25jclpkVmZwaXpjeURWMUY3cjl4UzhGRGduUnVyMFdlMFEyVFJ6THp3LVVSMjlSMlptaFd0M3Z0dk1LT1VuOElxdENpRmpwRHd1WTJ5dlhnR0szRkxObllobmpPaXdod1IyNHpoeFhqSHRtcm00bWRKWlVVSGdseFJSdVUwOGlNazg5OVNrRXNNMGFrRVhaLS1NQzljV2RKYnRjQUpCdThuS2c4UVhFeWlXNFhBNUwyX0F2ajRLMDAtSzJwdnNjcjh1VWt2ZVRkNWNCZU0wQTN1YVFhaUN5LWJMSDlIOTVhTVh2ZHNvblB3b09GSnhGZDd3MUM?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
