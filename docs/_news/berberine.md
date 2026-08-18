@@ -44,11 +44,11 @@ permalink: /news/berberine/
 
 ## 相關新聞（4 則）
 
-### [緬甸仰光爆霍亂疫情500人腹瀉住院149例確診| 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHZU95a0doQW9QSEVVU0xxU09PeUh4QWNvMkNwUW01dmQ3YnZUcUdVQnFvOGRDQUNEYnlDUVE0SU5Cb1RiU0EwVkQwVzBCajVNN0xKTGUyaG5kNW5wZi1j?oc=5)
+### [緬甸仰光爆霍亂疫情　500人腹瀉住院149例確診](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nVU5sTHlYdGtha19RSHh2LXJKZHpjdWFpTjBFdGVtSTYzdkx5RjNOejNNVGp2dXYxRmE2bU43ZnZnVTZ6eGZldjR2UE1Jdm9fR1BtbzlyUTFVUdIBX0FVX3lxTE9fVkN5TWI1aW1HQ2lraXAwN0p0cUQ3NHRXdm9VcWpnNGY5blJQd19PN09aYjg5LVgxZ0ZxNzBxZHd6Q3ZtRnMxVl9hZ2ViME9BTVFRZDJRcTJMV2dLYnVZ?oc=5)
 
 2026-08-18 <span class="news-indication-tag">腹瀉</span>
 
-來源：[cna.com.tw](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHZU95a0doQW9QSEVVU0xxU09PeUh4QWNvMkNwUW01dmQ3YnZUcUdVQnFvOGRDQUNEYnlDUVE0SU5Cb1RiU0EwVkQwVzBCajVNN0xKTGUyaG5kNW5wZi1j?oc=5)
+來源：[經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nVU5sTHlYdGtha19RSHh2LXJKZHpjdWFpTjBFdGVtSTYzdkx5RjNOejNNVGp2dXYxRmE2bU43ZnZnVTZ6eGZldjR2UE1Jdm9fR1BtbzlyUTFVUdIBX0FVX3lxTE9fVkN5TWI1aW1HQ2lraXAwN0p0cUQ3NHRXdm9VcWpnNGY5blJQd19PN09aYjg5LVgxZ0ZxNzBxZHd6Q3ZtRnMxVl9hZ2ViME9BTVFRZDJRcTJMV2dLYnVZ?oc=5)
 
 ---
 
