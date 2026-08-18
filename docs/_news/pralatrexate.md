@@ -14,7 +14,7 @@ permalink: /news/pralatrexate/
 ---
 
 <p class="key-answer" data-question="Pralatrexate 有什麼相關新聞？">
-<strong>Pralatrexate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pralatrexate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/pralatrexate/
 <p><a href="{{ '/drugs/pralatrexate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
 
 ### [美國最常見癌症極易忽視 如何預防](https://news.google.com/rss/articles/CBMitwFBVV95cUxOTWY2VHItU0NXUEFsNDNsV0pBRXkxeHJqS2ktRDk5RzlqTmtIZVRjRm04MC1RVEhYVzJmS055Qi1pNEwwc29RLVEzMFV0ZGppVmZwcks4U3pOQ0hqMW9vQmtoYkFMeElVTWhEcmN4ODE3aVo3d0FQeVAwaUxEc0FrOXlIY0VsRzFMWDVjSF9mZzNPZTF4S2hRYVNJQXNJaVhaRWN6UWxtcE43Wk9Qa2J4UWVqVHRaSFU?oc=5)
 
@@ -52,11 +52,11 @@ permalink: /news/pralatrexate/
 
 ---
 
-### [胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望](https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5)
+### [胸腔被腫瘤佔滿 深圳醫生為病人搏出呼吸空間與生存希望](https://news.google.com/rss/articles/CBMiXkFVX3lxTE15N21nOGNEOTdCVGdXZ0FiaWxveEhvSXA2THgwdTRYVFhIdERqaWZoQnFRTmNTM1gxQ0lObUVUUFBOaS1ob0VPanR5ZHgxQkhNUFJXM25vLVdEcVo4M1E?oc=5)
 
 2026-08-17 <span class="news-indication-tag">腫瘤</span>
 
-來源：[香港商报](https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5)
+來源：[hkcd.com](https://news.google.com/rss/articles/CBMiXkFVX3lxTE15N21nOGNEOTdCVGdXZ0FiaWxveEhvSXA2THgwdTRYVFhIdERqaWZoQnFRTmNTM1gxQ0lObUVUUFBOaS1ob0VPanR5ZHgxQkhNUFJXM25vLVdEcVo4M1E?oc=5)
 
 ---
 
@@ -65,6 +65,22 @@ permalink: /news/pralatrexate/
 2026-08-17 <span class="news-indication-tag">癌症</span>
 
 來源：[UHK 港生活](https://news.google.com/rss/articles/CBMinANBVV95cUxNSGhoWGdnbG5ZYVZxVXF1SHVQZFNrQWFiTkpQRExNT3JkaEh3amhWeFhQUmg0QzhFNTZmNXhKLU04Q2dVR3pSVWFsREI0aXJlWVo5eGZ1MW4zUE1kTkc1Nkx2akZUVmtJR05xTnNwbzhQWVlrNU01eDVCTDFFd3BWSTl0d0RackgteHJQbmp1bEhKQS1rYkcxRXI3cTN2R0RBdEd3OUJCREplMjVqZGVhWUJIUXdBeHR0OUJVU0lONF9wenVQTTFBZl80dHcwbXdvV3duMDdzbjRyN0x4WFdPVm1YcG1FdTNBa2ZvcTJwTWFZRVVWemtGeC1LdHpEOWlHRUhLZDNmVkRydXJ3cjFxQ3k3azcyODhVbHVtTEtadGlXVVRhZUw3TmVIYmJKaXIyS1ZibVhuTXF4Y0xfWlI5RURURTRzem9ZaFNmVko2c084c2lPWlVlMFVoal8zVTI2OUZsb2JKeTIyVG1MOXVzeWpWRXE1NFJkV2xvVG9NMjQ2UmVqem1VdFN6d3Z5RXN2bnJwRkZuQVdyX0pk?oc=5)
+
+---
+
+### [癌症手術前先「練功」，真的能讓恢復較快嗎？](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzY01XN2xyNVdFV3RIWlJqUURCTk9qSlRJU050b3U5Snk1U2FPTktfajBiMzdlMmhScjZPR2xyVWFHXzZwdS1MaWxwb0FVQnM4WlZGM01kVVpCNVQ5X1dYODlfOWdudw?oc=5)
+
+2026-08-16 <span class="news-indication-tag">癌症</span>
+
+來源：[careonline.com.tw](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzY01XN2xyNVdFV3RIWlJqUURCTk9qSlRJU050b3U5Snk1U2FPTktfajBiMzdlMmhScjZPR2xyVWFHXzZwdS1MaWxwb0FVQnM4WlZGM01kVVpCNVQ5X1dYODlfOWdudw?oc=5)
+
+---
+
+### [KIST揭天然物「MCL」保護癌症患者肌肉機制，關鍵在腸道微生物 - BigGo 財經](https://news.google.com/rss/articles/CBMiekFVX3lxTE9xbWRnV1gzRHlDVlE2SndqNXpTbm1iRG1nQlM3cXZQeFZFVnFhVUVWNC1XcnhMdDZ3alJVc21WUVl4R0x2WFEyUnc1OWtLQWhMXzR3SGRLVW5zdkd3LW96eUNjUFdqMWF0bkd6aHpQb1VlaVdSNHVUbTN3?oc=5)
+
+2026-08-16 <span class="news-indication-tag">癌症</span>
+
+來源：[BigGo 財經](https://news.google.com/rss/articles/CBMiekFVX3lxTE9xbWRnV1gzRHlDVlE2SndqNXpTbm1iRG1nQlM3cXZQeFZFVnFhVUVWNC1XcnhMdDZ3alJVc21WUVl4R0x2WFEyUnc1OWtLQWhMXzR3SGRLVW5zdkd3LW96eUNjUFdqMWF0bkd6aHpQb1VlaVdSNHVUbTN3?oc=5)
 
 ---
 
