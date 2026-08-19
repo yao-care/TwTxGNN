@@ -1,46 +1,14 @@
 {
-  "generated": "2026-08-19T19:17:56.726620+00:00",
-  "count": 8,
+  "generated": "2026-08-19T20:16:16.686571+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "152d16404689",
-      "title": "早期肺癌手術切除不是治療終點醫解析「術後輔助治療」重要性",
-      "published": "2026-08-19T12:52:53+00:00",
-      "sources": [
-        {
-          "name": "Mobile01",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54WGIxcG1wRG5ReTQ4R0F4MXBjellVU1hCSWVIdlY0M0R3V0ZMOFNoWHV2YXprYnpMdHFSbDI1OVdHTFMzRDBEYjROZlNCQUhBbGtldzgxRnJDNS1jczVUQ2R3TWF5WTQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "229c668f3173",
+      "id": "be9a6d15ea04",
       "title": "想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦",
       "published": "2026-08-19T07:00:03+00:00",
       "sources": [
         {
-          "name": "news.ttv.com.tw",
+          "name": "台視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZZzBoU2lrdllJc0trRGpkb3dQZURIMUR2UkljcnktTzdIbVVhSzZyZlVVLWUwc1E4ZUhwUmowUVRzTUtubTctcjZFYlpWeWVNcE94YU9HOA?oc=5"
         }
       ],
@@ -949,12 +917,12 @@
       ]
     },
     {
-      "id": "80e3a05d5a93",
+      "id": "1bfbe7aeb78c",
       "title": "阿茲海默症治療新路徑　TML-6從細胞自噬機制尋找逆轉可能",
       "published": "2026-08-18T00:00:00+00:00",
       "sources": [
         {
-          "name": "元氣網",
+          "name": "health.udn.com",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XMGZXcVFIcC1sazhjR1RsX19LVERKVThQUWRScmIzVERnSTV3ZWRUM3NQajB1aUVMRGQzdkJkNW1SSmxQTXNIeFpCYkZzcC1IalUwRzFLcXluTUFK0gFiQVVfeXFMT2Zwa3ZMRGJLUDgzaTVUaFo1eVBhMWJzUkxpWHBacXR1RlZGZGh0eFZGYldVZ0t5aGh0QXhiNVlId2xfdVJTOEVJRGFsMVNTZFIxRnlPMXRsX3VqdVBhYUdqaHc?oc=5"
         }
       ],
