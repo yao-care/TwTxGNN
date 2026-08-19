@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-19T10:19:11.678046+00:00",
-  "count": 10,
+  "generated": "2026-08-19T11:16:22.687459+00:00",
+  "count": 9,
   "news": [
     {
       "id": "be9a6d15ea04",
       "title": "想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦",
-      "published": "2026-08-19T09:20:03+00:00",
+      "published": "2026-08-19T07:00:03+00:00",
       "sources": [
         {
           "name": "台視新聞網",
@@ -235,12 +235,12 @@
       ]
     },
     {
-      "id": "0c46f4165f85",
+      "id": "e30f912b52ae",
       "title": "健康科普丨結直腸癌高發，中醫如何“未病先防”？",
       "published": "2026-08-19T05:37:00+00:00",
       "sources": [
         {
-          "name": "sh.people.com.cn",
+          "name": "人民网-上海频道",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZSlNvZWJpbDlGTGhOc1BBSVdUd1huancyQW15UllJYmhQVGRzd1N0c3RuYXh5MDFBa05ScjVCSGJtcjRhSTA2ejNkRmVzWU5CeE0yOGthbHJEWUlycHFhckpzTElJWG1nUzQyS1BSTmE?oc=5"
         }
       ],
@@ -1351,30 +1351,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e0ae93c9294e",
-      "title": "活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！ - TVBS 健康2.0",
-      "published": "2026-08-17T10:20:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHpWOFRsWEpIWkhzTFlTdW42X0piWGZ2bWtfa3I0MjVCRHpycGxDNmlZbnVUOGJzZTFyX3A2Y2tTYXlsVDVmaGtJM0NqMXRaT3Vv?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
