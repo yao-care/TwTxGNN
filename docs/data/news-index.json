@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T17:18:19.760378+00:00",
+  "generated": "2026-08-19T18:20:13.133524+00:00",
   "count": 7,
   "news": [
     {
@@ -282,12 +282,12 @@
       ]
     },
     {
-      "id": "79eeb5d25ce2",
+      "id": "6823cf83cacd",
       "title": "美國最常見癌症極易忽視 如何預防",
       "published": "2026-08-18T14:00:00+00:00",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5"
         }
       ],
@@ -490,37 +490,13 @@
       ]
     },
     {
-      "id": "180755975c28",
-      "title": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂",
-      "published": "2026-08-18T06:38:40+00:00",
+      "id": "515bc0fbf7ad",
+      "title": "腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵 | 科技新報 - LINE TODAY",
+      "published": "2026-08-18T08:24:45+00:00",
       "sources": [
         {
-          "name": "am730.com.hk",
-          "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPRmgySnFqMk1SNW05Q1lxRm80R1B6cXI1Tzk0NU13dFBsbzBld2xpT2lic3Vkam5CYzkwaGp2WWNYa2V2bW1PVHNZUXRXMVZBajN6S0hPYTlGWkgyRkhacXk2YXZqNVVyTFRhU1IzWDRHcG1rQnYxaFpVTVRjWEdOekVJOGJSRHI0eVJMcVZISW9vUVdicGptTUNyX1lTcGYzSGlPZFU2OXN2dF9Ndk1xR2FraVNtNHN4Ujh6Zk4tWVVZS2s5NkRyTXVuQnVMbTNzOHowYkp6LXNCVmtXU3Zwejg0WkRsRnZGUElaWmQ5UVFmbzJBYk0wOEdEd2p3N2dad1RXb0tzZHB6RG5fTUR3LVk3SFFTSmMxUjlLLUFTb0NWQUFxRjhHM01VTHFNaW9KbjQzTHFZVXc1R0RMWHR0UXA0NlN4WU5hVFhTMUt3OA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "腹瀉",
-          "keyword": "腹瀉",
-          "related_drugs": [
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "403b2f7afd75",
-      "title": "腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵 - TechNews 科技新報",
-      "published": "2026-08-18T00:03:24+00:00",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjhDaDU5ZHhCZnRycTdYR1o5RzA5Y21WY0s2YnZfMjdvZVVPZ0FkeDQ5bnJJZ1ZjbmtIN3RaUFU0LVBwWGNFbDJlZFZCeVJDZ1JHS2M3TzVhWFd2ZFYyVHhKRXgxYjVaMEpnejFPejNrTlRFVHpMREdjYm5pNzluMVJxSWV2YVE?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KWW9xZmJCQ2lmQ2VaRzJab0I3X0Z2RktBRmtmbktXaWNpNWR6c2EtUnpJQnFGY2V3MlJOMFVCVXcwTG84WDViV0NReGlRQTRVUGdWdnRR?oc=5"
         }
       ],
       "keywords": [
@@ -911,6 +887,30 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e44751f56e12",
+      "title": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂",
+      "published": "2026-08-18T06:38:40+00:00",
+      "sources": [
+        {
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPRmgySnFqMk1SNW05Q1lxRm80R1B6cXI1Tzk0NU13dFBsbzBld2xpT2lic3Vkam5CYzkwaGp2WWNYa2V2bW1PVHNZUXRXMVZBajN6S0hPYTlGWkgyRkhacXk2YXZqNVVyTFRhU1IzWDRHcG1rQnYxaFpVTVRjWEdOekVJOGJSRHI0eVJMcVZISW9vUVdicGptTUNyX1lTcGYzSGlPZFU2OXN2dF9Ndk1xR2FraVNtNHN4Ujh6Zk4tWVVZS2s5NkRyTXVuQnVMbTNzOHowYkp6LXNCVmtXU3Zwejg0WkRsRnZGUElaWmQ5UVFmbzJBYk0wOEdEd2p3N2dad1RXb0tzZHB6RG5fTUR3LVk3SFFTSmMxUjlLLUFTb0NWQUFxRjhHM01VTHFNaW9KbjQzTHFZVXc1R0RMWHR0UXA0NlN4WU5hVFhTMUt3OA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
             }
           ]
         }
