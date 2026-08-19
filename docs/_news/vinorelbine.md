@@ -14,7 +14,7 @@ permalink: /news/vinorelbine/
 ---
 
 <p class="key-answer" data-question="Vinorelbine 有什麼相關新聞？">
-<strong>Vinorelbine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vinorelbine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ permalink: /news/vinorelbine/
 <li>lung germ cell tumor（100.0%）</li>
 <li>pulmonary sulcus neoplasm（100.0%）</li>
 <li>hamartoma of lung（100.0%）</li>
-<li>small cell lung carcinoma（100.0%）</li>
+<li class="indication-matched">small cell lung carcinoma（100.0%）<span class="indication-tag">📰 肺癌</span></li>
 <li>lung benign neoplasm（100.0%）</li>
 <li>lung hilum carcinoma（100.0%）</li>
 <li>pulmonary blastoma（100.0%）</li>
@@ -42,7 +42,15 @@ permalink: /news/vinorelbine/
 <p><a href="{{ '/drugs/vinorelbine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [早期肺癌手術切除不是治療終點醫解析「術後輔助治療」重要性](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54WGIxcG1wRG5ReTQ4R0F4MXBjellVU1hCSWVIdlY0M0R3V0ZMOFNoWHV2YXprYnpMdHFSbDI1OVdHTFMzRDBEYjROZlNCQUhBbGtldzgxRnJDNS1jczVUQ2R3TWF5WTQ?oc=5)
+
+2026-08-19 <span class="news-indication-tag">肺癌</span>
+
+來源：[Mobile01](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54WGIxcG1wRG5ReTQ4R0F4MXBjellVU1hCSWVIdlY0M0R3V0ZMOFNoWHV2YXprYnpMdHFSbDI1OVdHTFMzRDBEYjROZlNCQUhBbGtldzgxRnJDNS1jczVUQ2R3TWF5WTQ?oc=5)
+
+---
 
 ### [逼癌細胞狂吃糖再斷脂肪！ 美頂尖研究設「雙重陷阱」滅腫瘤](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfRlpZN2RYZHYxbUlqRG5vbjBORExGMlA5a0NZaVlFMlU0VG91R1R1bUVRMTVRX1kzVVptb3o5WnR1U1BWZm5kWS1SeUNfY3JOV0hBZDgwTzRVMXRocmgwVFlkeVg?oc=5)
 

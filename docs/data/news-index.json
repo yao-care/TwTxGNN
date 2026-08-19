@@ -1,14 +1,46 @@
 {
-  "generated": "2026-08-19T18:20:13.133524+00:00",
-  "count": 7,
+  "generated": "2026-08-19T19:17:56.726620+00:00",
+  "count": 8,
   "news": [
     {
-      "id": "be9a6d15ea04",
+      "id": "152d16404689",
+      "title": "早期肺癌手術切除不是治療終點醫解析「術後輔助治療」重要性",
+      "published": "2026-08-19T12:52:53+00:00",
+      "sources": [
+        {
+          "name": "Mobile01",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54WGIxcG1wRG5ReTQ4R0F4MXBjellVU1hCSWVIdlY0M0R3V0ZMOFNoWHV2YXprYnpMdHFSbDI1OVdHTFMzRDBEYjROZlNCQUhBbGtldzgxRnJDNS1jczVUQ2R3TWF5WTQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "229c668f3173",
       "title": "想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦",
       "published": "2026-08-19T07:00:03+00:00",
       "sources": [
         {
-          "name": "台視新聞網",
+          "name": "news.ttv.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZZzBoU2lrdllJc0trRGpkb3dQZURIMUR2UkljcnktTzdIbVVhSzZyZlVVLWUwc1E4ZUhwUmowUVRzTUtubTctcjZFYlpWeWVNcE94YU9HOA?oc=5"
         }
       ],
@@ -893,12 +925,12 @@
       ]
     },
     {
-      "id": "e44751f56e12",
+      "id": "d86691b553fb",
       "title": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂",
       "published": "2026-08-18T06:38:40+00:00",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPRmgySnFqMk1SNW05Q1lxRm80R1B6cXI1Tzk0NU13dFBsbzBld2xpT2lic3Vkam5CYzkwaGp2WWNYa2V2bW1PVHNZUXRXMVZBajN6S0hPYTlGWkgyRkhacXk2YXZqNVVyTFRhU1IzWDRHcG1rQnYxaFpVTVRjWEdOekVJOGJSRHI0eVJMcVZISW9vUVdicGptTUNyX1lTcGYzSGlPZFU2OXN2dF9Ndk1xR2FraVNtNHN4Ujh6Zk4tWVVZS2s5NkRyTXVuQnVMbTNzOHowYkp6LXNCVmtXU3Zwejg0WkRsRnZGUElaWmQ5UVFmbzJBYk0wOEdEd2p3N2dad1RXb0tzZHB6RG5fTUR3LVk3SFFTSmMxUjlLLUFTb0NWQUFxRjhHM01VTHFNaW9KbjQzTHFZVXc1R0RMWHR0UXA0NlN4WU5hVFhTMUt3OA?oc=5"
         }
       ],

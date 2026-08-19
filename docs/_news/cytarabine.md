@@ -14,7 +14,7 @@ permalink: /news/cytarabine/
 ---
 
 <p class="key-answer" data-question="Cytarabine 有什麼相關新聞？">
-<strong>Cytarabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cytarabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/cytarabine/
 <ul>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（9 個）：<ul>
-<li>small cell lung carcinoma（99.8%）</li>
+<li class="indication-matched">small cell lung carcinoma（99.8%）<span class="indication-tag">📰 肺癌</span></li>
 <li>primary pulmonary lymphoma（99.8%）</li>
 <li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
 <li>pulmonary blastoma（99.8%）</li>
@@ -40,7 +40,15 @@ permalink: /news/cytarabine/
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [早期肺癌手術切除不是治療終點醫解析「術後輔助治療」重要性](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54WGIxcG1wRG5ReTQ4R0F4MXBjellVU1hCSWVIdlY0M0R3V0ZMOFNoWHV2YXprYnpMdHFSbDI1OVdHTFMzRDBEYjROZlNCQUhBbGtldzgxRnJDNS1jczVUQ2R3TWF5WTQ?oc=5)
+
+2026-08-19 <span class="news-indication-tag">肺癌</span>
+
+來源：[Mobile01](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54WGIxcG1wRG5ReTQ4R0F4MXBjellVU1hCSWVIdlY0M0R3V0ZMOFNoWHV2YXprYnpMdHFSbDI1OVdHTFMzRDBEYjROZlNCQUhBbGtldzgxRnJDNS1jczVUQ2R3TWF5WTQ?oc=5)
+
+---
 
 ### [逼癌細胞狂吃糖再斷脂肪！ 美頂尖研究設「雙重陷阱」滅腫瘤](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfRlpZN2RYZHYxbUlqRG5vbjBORExGMlA5a0NZaVlFMlU0VG91R1R1bUVRMTVRX1kzVVptb3o5WnR1U1BWZm5kWS1SeUNfY3JOV0hBZDgwTzRVMXRocmgwVFlkeVg?oc=5)
 
