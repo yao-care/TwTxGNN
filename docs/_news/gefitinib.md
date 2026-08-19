@@ -43,11 +43,11 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（8 則）
 
-### [中年3件事沒顧好55歲後少12.6年沒失智時光- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1HczhVdzNlajFaRTBNOFBmQU9GaWpiYmJtc1E0NVBPRTFVRnExWlQwX3g5V2FWWEJEbGk0WWxiaG52Mll3bUw0bkszbjhvRTNwZ0hLY29jem1kTm1XNHV3a0YzVE5uZ1JiN1ZfZkZ3?oc=5)
+### [想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZZzBoU2lrdllJc0trRGpkb3dQZURIMUR2UkljcnktTzdIbVVhSzZyZlVVLWUwc1E4ZUhwUmowUVRzTUtubTctcjZFYlpWeWVNcE94YU9HOA?oc=5)
 
-2026-08-19 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">高血壓</span>
+2026-08-19 <span class="news-indication-tag">失智</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1HczhVdzNlajFaRTBNOFBmQU9GaWpiYmJtc1E0NVBPRTFVRnExWlQwX3g5V2FWWEJEbGk0WWxiaG52Mll3bUw0bkszbjhvRTNwZ0hLY29jem1kTm1XNHV3a0YzVE5uZ1JiN1ZfZkZ3?oc=5)
+來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZZzBoU2lrdllJc0trRGpkb3dQZURIMUR2UkljcnktTzdIbVVhSzZyZlVVLWUwc1E4ZUhwUmowUVRzTUtubTctcjZFYlpWeWVNcE94YU9HOA?oc=5)
 
 ---
 
@@ -67,11 +67,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjhDaDU5ZHhCZnRycTdYR1o5RzA5Y21WY0s2YnZfMjdvZVVPZ0FkeDQ5bnJJZ1ZjbmtIN3RaUFU0LVBwWGNFbDJlZFZCeVJDZ1JHS2M3TzVhWFd2ZFYyVHhKRXgxYjVaMEpnejFPejNrTlRFVHpMREdjYm5pNzluMVJxSWV2YVE?oc=5)
+### [腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵 - TechNews 科技新報](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjhDaDU5ZHhCZnRycTdYR1o5RzA5Y21WY0s2YnZfMjdvZVVPZ0FkeDQ5bnJJZ1ZjbmtIN3RaUFU0LVBwWGNFbDJlZFZCeVJDZ1JHS2M3TzVhWFd2ZFYyVHhKRXgxYjVaMEpnejFPejNrTlRFVHpMREdjYm5pNzluMVJxSWV2YVE?oc=5)
 
 2026-08-18 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
-來源：[technews.tw](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjhDaDU5ZHhCZnRycTdYR1o5RzA5Y21WY0s2YnZfMjdvZVVPZ0FkeDQ5bnJJZ1ZjbmtIN3RaUFU0LVBwWGNFbDJlZFZCeVJDZ1JHS2M3TzVhWFd2ZFYyVHhKRXgxYjVaMEpnejFPejNrTlRFVHpMREdjYm5pNzluMVJxSWV2YVE?oc=5)
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjhDaDU5ZHhCZnRycTdYR1o5RzA5Y21WY0s2YnZfMjdvZVVPZ0FkeDQ5bnJJZ1ZjbmtIN3RaUFU0LVBwWGNFbDJlZFZCeVJDZ1JHS2M3TzVhWFd2ZFYyVHhKRXgxYjVaMEpnejFPejNrTlRFVHpMREdjYm5pNzluMVJxSWV2YVE?oc=5)
 
 ---
 
@@ -87,7 +87,7 @@ permalink: /news/gefitinib/
 
 2026-08-17 <span class="news-indication-tag">腫瘤</span>
 
-來源：[hkcd.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5)
+來源：[香港商报](https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5)
 
 ---
 

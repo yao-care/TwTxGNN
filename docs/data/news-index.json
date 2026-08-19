@@ -1,15 +1,15 @@
 {
-  "generated": "2026-08-19T09:23:43.020819+00:00",
+  "generated": "2026-08-19T10:19:11.678046+00:00",
   "count": 10,
   "news": [
     {
-      "id": "894adb2e14f0",
-      "title": "中年3件事沒顧好55歲後少12.6年沒失智時光- 健康",
-      "published": "2026-08-19T06:47:40+00:00",
+      "id": "be9a6d15ea04",
+      "title": "想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦",
+      "published": "2026-08-19T09:20:03+00:00",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HczhVdzNlajFaRTBNOFBmQU9GaWpiYmJtc1E0NVBPRTFVRnExWlQwX3g5V2FWWEJEbGk0WWxiaG52Mll3bUw0bkszbjhvRTNwZ0hLY29jem1kTm1XNHV3a0YzVE5uZ1JiN1ZfZkZ3?oc=5"
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZZzBoU2lrdllJc0trRGpkb3dQZURIMUR2UkljcnktTzdIbVVhSzZyZlVVLWUwc1E4ZUhwUmowUVRzTUtubTctcjZFYlpWeWVNcE94YU9HOA?oc=5"
         }
       ],
       "keywords": [
@@ -21,21 +21,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
             }
           ]
         }
@@ -250,12 +235,12 @@
       ]
     },
     {
-      "id": "e30f912b52ae",
+      "id": "0c46f4165f85",
       "title": "健康科普丨結直腸癌高發，中醫如何“未病先防”？",
       "published": "2026-08-19T05:37:00+00:00",
       "sources": [
         {
-          "name": "人民网-上海频道",
+          "name": "sh.people.com.cn",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZSlNvZWJpbDlGTGhOc1BBSVdUd1huancyQW15UllJYmhQVGRzd1N0c3RuYXh5MDFBa05ScjVCSGJtcjRhSTA2ejNkRmVzWU5CeE0yOGthbHJEWUlycHFhckpzTElJWG1nUzQyS1BSTmE?oc=5"
         }
       ],
@@ -529,12 +514,12 @@
       ]
     },
     {
-      "id": "9b7f4f2dfb9e",
-      "title": "腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵",
+      "id": "403b2f7afd75",
+      "title": "腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵 - TechNews 科技新報",
       "published": "2026-08-18T00:03:24+00:00",
       "sources": [
         {
-          "name": "technews.tw",
+          "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjhDaDU5ZHhCZnRycTdYR1o5RzA5Y21WY0s2YnZfMjdvZVVPZ0FkeDQ5bnJJZ1ZjbmtIN3RaUFU0LVBwWGNFbDJlZFZCeVJDZ1JHS2M3TzVhWFd2ZFYyVHhKRXgxYjVaMEpnejFPejNrTlRFVHpMREdjYm5pNzluMVJxSWV2YVE?oc=5"
         }
       ],
@@ -956,12 +941,12 @@
       ]
     },
     {
-      "id": "8451f44a73af",
+      "id": "193323cb01d9",
       "title": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望",
       "published": "2026-08-17T13:49:54+00:00",
       "sources": [
         {
-          "name": "hkcd.com",
+          "name": "香港商报",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5"
         }
       ],

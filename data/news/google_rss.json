@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-19T09:23:38.656728+00:00",
-  "count": 28,
+  "fetched_at": "2026-08-19T10:19:07.693534+00:00",
+  "count": 30,
   "news": [
     {
       "id": "5000e1cc265e",
@@ -12,6 +12,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfRlpZN2RYZHYxbUlqRG5vbjBORExGMlA5a0NZaVlFMlU0VG91R1R1bUVRMTVRX1kzVVptb3o5WnR1U1BWZm5kWS1SeUNfY3JOV0hBZDgwTzRVMXRocmgwVFlkeVg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a078bd1846ab",
+      "title": "預防開學季病毒大爆發 3大發燒魔王家長要注意！ - 東森新聞",
+      "published": "2026-08-19T09:52:00+00:00",
+      "summary": "預防開學季病毒大爆發 3大發燒魔王家長要注意！&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NT1JvQkRrR3A5MENYcTVLSDQtTHRDZUEwbXY3V0VLWllQNEl4MlpaVXQ5akN3bjdOX0NTcWR3RzJVV3VVOHZCYTQtMm1BaExxSHpvTg?oc=5"
         }
       ]
     },
@@ -40,6 +52,18 @@
       ]
     },
     {
+      "id": "be9a6d15ea04",
+      "title": "想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦 - 台視新聞網",
+      "published": "2026-08-19T09:20:03+00:00",
+      "summary": "想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦&nbsp;&nbsp;台視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZZzBoU2lrdllJc0trRGpkb3dQZURIMUR2UkljcnktTzdIbVVhSzZyZlVVLWUwc1E4ZUhwUmowUVRzTUtubTctcjZFYlpWeWVNcE94YU9HOA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8a98d522e265",
       "title": "健康網》孩子得什麼病？醫師這樣下判斷 - 自由健康網",
       "published": "2026-08-18T12:20:00+00:00",
@@ -60,18 +84,6 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoZjN2WUE2TmRldmpQcC14Q09USGN0NG1DOEhNM1pQcGl0SkEySXFxcW5pZF8wbTMxNEl2NHlPT0l6cGRsZUtBY0E2T0VXS2JPeWVtUmhn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "894adb2e14f0",
-      "title": "中年3件事沒顧好55歲後少12.6年沒失智時光- 健康 - 中時新聞網",
-      "published": "2026-08-19T06:47:40+00:00",
-      "summary": "中年3件事沒顧好55歲後少12.6年沒失智時光- 健康&nbsp;&nbsp;中時新聞網想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦&nbsp;&nbsp;Yahoo新聞大腦老得慢，中年就要開始！研究揭2件事與晚年認知衰退較慢有關&nbsp;&nbsp;元氣網避免糖尿病高血壓吸菸 可延遲失智近13年&nbsp;&nbsp;大纪元想長壽有秘訣！研究揭中年人必守3大健康生活指標 護腦兼延壽13年&nbsp;&nbsp;CCUE",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HczhVdzNlajFaRTBNOFBmQU9GaWpiYmJtc1E0NVBPRTFVRnExWlQwX3g5V2FWWEJEbGk0WWxiaG52Mll3bUw0bkszbjhvRTNwZ0hLY29jem1kTm1XNHV3a0YzVE5uZ1JiN1ZfZkZ3?oc=5"
         }
       ]
     },
@@ -124,13 +136,13 @@
       ]
     },
     {
-      "id": "9b7f4f2dfb9e",
-      "title": "腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵 - technews.tw",
+      "id": "403b2f7afd75",
+      "title": "腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵 - TechNews 科技新報",
       "published": "2026-08-18T00:03:24+00:00",
-      "summary": "腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵&nbsp;&nbsp;technews.tw",
+      "summary": "腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "technews.tw",
+          "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjhDaDU5ZHhCZnRycTdYR1o5RzA5Y21WY0s2YnZfMjdvZVVPZ0FkeDQ5bnJJZ1ZjbmtIN3RaUFU0LVBwWGNFbDJlZFZCeVJDZ1JHS2M3TzVhWFd2ZFYyVHhKRXgxYjVaMEpnejFPejNrTlRFVHpMREdjYm5pNzluMVJxSWV2YVE?oc=5"
         }
       ]
@@ -196,13 +208,13 @@
       ]
     },
     {
-      "id": "e30f912b52ae",
-      "title": "健康科普丨結直腸癌高發，中醫如何“未病先防”？ - 人民网-上海频道",
+      "id": "0c46f4165f85",
+      "title": "健康科普丨結直腸癌高發，中醫如何“未病先防”？ - sh.people.com.cn",
       "published": "2026-08-19T05:37:00+00:00",
-      "summary": "健康科普丨結直腸癌高發，中醫如何“未病先防”？&nbsp;&nbsp;人民网-上海频道",
+      "summary": "健康科普丨結直腸癌高發，中醫如何“未病先防”？&nbsp;&nbsp;sh.people.com.cn",
       "sources": [
         {
-          "name": "人民网-上海频道",
+          "name": "sh.people.com.cn",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZSlNvZWJpbDlGTGhOc1BBSVdUd1huancyQW15UllJYmhQVGRzd1N0c3RuYXh5MDFBa05ScjVCSGJtcjRhSTA2ejNkRmVzWU5CeE0yOGthbHJEWUlycHFhckpzTElJWG1nUzQyS1BSTmE?oc=5"
         }
       ]
@@ -247,11 +259,35 @@
       "id": "b9b0f0b4109d",
       "title": "35歲女子感染麻疹 198人列為密切接觸者 - 大紀元時報 香港",
       "published": "2026-08-19T04:34:34+00:00",
-      "summary": "35歲女子感染麻疹 198人列為密切接觸者&nbsp;&nbsp;大紀元時報 香港35歲非本地出生女子染麻疹 198人列密切接觸者&nbsp;&nbsp;橙新聞麻疹｜秀茂坪35歲女確診麻疹 傅染力極高 即睇典型症狀與自保方法&nbsp;&nbsp;香港0135歲女發燒出疹揭患高傳染惡疾 近200人需受監察全因一舉動&nbsp;&nbsp;GOtrip.hk女子感染麻疹198人列密切接觸者 患者非本港出生目前情況穩定&nbsp;&nbsp;香港電台新聞網",
+      "summary": "35歲女子感染麻疹 198人列為密切接觸者&nbsp;&nbsp;大紀元時報 香港35歲非本地出生女子染麻疹 198人列密切接觸者&nbsp;&nbsp;橙新聞麻疹｜秀茂坪35歲女確診麻疹 傅染力極高 即睇典型症狀與自保方法&nbsp;&nbsp;香港0135歲女發燒出疹揭患高傳染惡疾 近200人需受監察全因一舉動&nbsp;&nbsp;gotrip.hk女子感染麻疹198人列密切接觸者 患者非本港出生目前情況穩定&nbsp;&nbsp;香港電台新聞網",
       "sources": [
         {
           "name": "大紀元時報 香港",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GbGR4ZE5SVXlmeGp2bWJFbE5ZT25CeE1tbEdfcGo5dlJac1lDejEyVUxxSWJ2VWxpLW9SQmJxYWloSVFKbGEyYXJ2UjFHWlZxVDg0QkFnZmN1SXJEMFlR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a112ee0efff2",
+      "title": "深圳200磅大叔狂𢯎腳變「豬蹄」 醫生揭「指尖隱形殺手」 - 星島頭條",
+      "published": "2026-08-19T09:44:33+00:00",
+      "summary": "深圳200磅大叔狂𢯎腳變「豬蹄」 醫生揭「指尖隱形殺手」&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPQVZpbnloUW1rSTh2d04xc09Nb3JLZE4tejFaNVY3bmdrMVlZWjdzVmthSzVXNEFkUHBleTg3eTRfbXBjMW8tUUs3Q1M5czFYdmhxcHhGV2RTZWJqbVJZMWNjcEd2eEtPYVhYTTRTcUhOOG53WDBNQ2luWVE3dzIyMW9UV0huNDFGSnJkODdqcnRrT25ra3BaNFlpZ2tOc2kxd29lYjVsZFYzMENkMmhhbFZsRGtuVkEzZ3dHNFdLdzVjOWJoX1BkdWtGQ0h5NmpxWGlrWWdzc1FNTUcwTkJoYnFNSkhjc2hTdjJGMmV5UE0yMmVtYTg1UFF1X2podHFCYjlZU3NLRmU1dVU4ZUxRUnZUZGRCU2xYaWlZRFF0V3I1UVU1U3g1WlhzTzNEWG9ZMzRKVktvMTVMQnRXVFE0N0NwZFJib2g1anc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1f5c86b9a32e",
+      "title": "54歲黎姿七夕行山俯瞰維港景色 大騷Fit爆身材凍齡美貌震撼網民 自爆闊太運動路線 - 星島頭條",
+      "published": "2026-08-19T09:05:12+00:00",
+      "summary": "54歲黎姿七夕行山俯瞰維港景色 大騷Fit爆身材凍齡美貌震撼網民 自爆闊太運動路線&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQUHhodi1icW54SkN4d2tETERlaHRYcW1aOE9WTW1ZX1U4VFc4MktfREktMDVibHc5NVhhQkZlRkg2N3otcDJLQkdMbjlzVXZEVkxub19NZG5OdUxsUUhhVzJlY0RzOGREQnRrcUxqYU8tQ0puV2s0cVRmTkpGVGRrNVdWZXFGRVBPcEZvcWw5RnBaTDNDTm9RR1Y3ZXE3bVkzUi1lYlB2cVJpSXlZMklQaHQ3MUE2cEJxS2ktR1FuZmtRcTdRQUZVaEVsUGJEdVdLNmJnOUdLVG1TWFF0bWlIMC1VS1hYZldJbXUyeFBWOGtEbUNGeVhEUVlMYWozWjI3YTlNU2VZclROYnB0X2NsbWxOWHRMNU5kT0FZTmlicC1pbTNkRXhILUlQRWNoZ0szbEsxX0R1Rm1uOWpaR3VRMXRqbkRWX1ZZTlBWNmFJUzc5Y1FkR1Y0aEY1ajgzanNqVnp5bDZBZlhFa2pxeHNDVllaaFVUZnlTX2pFZW10UWtkU0VOVGllcEthUi00azBXOUdSaVBPcEpEMkxReEF2NnRrV2paRTUwdXZremZva0cwVDJvcUR1R2tGZTJ4VjI4MHZ5VVVkT1E1WVE3T3cxRDV1OHpKeFM3SV9RcWxWT3pUZW1Ba0w5OW9ZcmxpdjViZlpDYTlEVjNKdVU?oc=5"
         }
       ]
     },
@@ -268,18 +304,6 @@
       ]
     },
     {
-      "id": "0ca76c58074e",
-      "title": "54歲黎姿七夕行山俯瞰維港景色 大騷Fit爆身材凍齡美貌震撼網民 自爆闊太運動路線 - 星島頭條",
-      "published": "2026-08-19T09:05:12+00:00",
-      "summary": "54歲黎姿七夕行山俯瞰維港景色 大騷Fit爆身材凍齡美貌震撼網民 自爆闊太運動路線&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxPN3NZbHFQTzRGcVJVVmI4QjVrcGNBZEZkZm5VQS1yaVhpY1Y0d2s0WmVTZ2F4WkFUN29xOWxZVG9UeHUzQi1QS1RpTmZXdFJlclU0RnZuSmdiN0lOQ05KcW5vV3Y0eE9yeVdOaUNYSVFBeXBTeDlCRFF3MHJEZHEtZ3hSZG5ndVptd1p2eU1SNjF6YkQtZ1d2TW5sbjBZWm96S3o1V3RLeW5Hei1TRUNuTm1OUUM5cGhERWVYTnIzNkh5d1k2cFR6VG9qVFdTQ3VWVGduV3hQaVF5OUwzMC0zNjAtTWowWUNkVE93X2FiWTlBUk1wNGRhajhsQzNpWVE0R0RyTXN4ZGJ4V2xIRnFFZlk5bU1MY0JnR2V2aFprd2owZlZJYVFSMWNTSnJram9ndXFtQlhFWjVsM3A1WjZ1SWQ1Z3E3N3FxWVpuTHE0UWZJdGlUUExuNmFpZE84UWpKbmVYdHR2ZS1Vck03Rm9hQ1A1SzlqdUh4OW9ZN0hpSUVJZFFGaVFJREdqTVRvT1czTnlVMzFqYmxsN25VS0d2SjV6eUFaaFE2a0l3ZG14MjZnNVVLVzI5U2pGdGxFZTNCX0RhTlNiMlFHb1JxVEwxNzJBU1IyMnVZM2dxdFZ2U1hqU0cxTEpZekZ0c2FYeVRUeVVHVTNhWUo3T0E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d9bfc22cad55",
       "title": "打呼嚕是睡得香？小心影響孩子身高智力 - 紫荊雜誌",
       "published": "2026-08-18T01:37:15+00:00",
@@ -292,25 +316,13 @@
       ]
     },
     {
-      "id": "e0ae93c9294e",
-      "title": "活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！ - TVBS 健康2.0",
-      "published": "2026-08-17T10:20:00+00:00",
-      "summary": "活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！&nbsp;&nbsp;TVBS 健康2.0",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHpWOFRsWEpIWkhzTFlTdW42X0piWGZ2bWtfa3I0MjVCRHpycGxDNmlZbnVUOGJzZTFyX3A2Y2tTYXlsVDVmaGtJM0NqMXRaT3Vv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8451f44a73af",
-      "title": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望 - hkcd.com",
+      "id": "193323cb01d9",
+      "title": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望 - 香港商报",
       "published": "2026-08-17T13:49:54+00:00",
-      "summary": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望&nbsp;&nbsp;hkcd.com",
+      "summary": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望&nbsp;&nbsp;香港商报",
       "sources": [
         {
-          "name": "hkcd.com",
+          "name": "香港商报",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5"
         }
       ]
@@ -336,6 +348,18 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxPbjRSUE5iRXlPbkJmWnUxUWxNalhxcmVPVVpfTFUzLWE1VmdWZUdNdjduckI1TmE5ekNJNlB6THE1QXVDVWY4OEFmMWZKSDItdDR3WVNJWm5mYlhRTHJSUDVqWHR1Y2pyczlzTkJHNGlCMERFN1c4bjVXWURvSEVVcU16eDJ4OUpIdGgtcmdHajdfQ1Nrb0ZjbHZ3c2lSNzRnNDBlTTdCczRlTW95ZUFMcVZCLTVCdVRZQTFTQ1FlODctQ213bWlJQWI5aTZIbXR6TkI3VE5fSHZrOEU4MFdNci1NeU93b3BHV2pkNElMTUg3WE9KZWJWWW1sTjZtSVI0LTQweEVIaGRMQko3Mmd1bEhJMFAwbmg4Y0RlUUpaU3ZWM2FMOWMyeEpJSC1HNHcxZENvTF9kRWpmWEN6VmIxRFkxN21ZMW1Mbm1lMHI5OWN6NUo3eUlqaXFRdkVEdnB6YUpJXzMzRm5QUzFFZG5fZEZGb0pQdDlQQ1NjUUtaSnc0OS1DaHczaHhvNDF6SDdPbEFFU2ljdmFlcHktZXlFYmcxNWRIWTdBd3NzQWRKdmtfaGMybWNCb1lxTXY0WkswSk01OTNma3hfX2pZVkpINGFsYmI3Z2pZbkpJV21aSXVGd2FVWmNjWEZyLTFhMjJPZ1BuNE1MV2F3TnBCaHJEZHowS2V6bXBndXpGZTRxQU5TTFBTbFRlQU5EYWtsMnFfeVhBUGlfXzhFYmVha1dEMkh5TC1EWUl6bUJCSlNiakFkMGF0NVE3UTE0Z2dNTmhvbWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e0ae93c9294e",
+      "title": "活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！ - TVBS 健康2.0",
+      "published": "2026-08-17T10:20:00+00:00",
+      "summary": "活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHpWOFRsWEpIWkhzTFlTdW42X0piWGZ2bWtfa3I0MjVCRHpycGxDNmlZbnVUOGJzZTFyX3A2Y2tTYXlsVDVmaGtJM0NqMXRaT3Vv?oc=5"
         }
       ]
     }

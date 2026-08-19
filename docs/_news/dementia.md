@@ -31,11 +31,11 @@ permalink: /news/dementia/
 
 ## 相關新聞（3 則）
 
-### [中年3件事沒顧好55歲後少12.6年沒失智時光- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1HczhVdzNlajFaRTBNOFBmQU9GaWpiYmJtc1E0NVBPRTFVRnExWlQwX3g5V2FWWEJEbGk0WWxiaG52Mll3bUw0bkszbjhvRTNwZ0hLY29jem1kTm1XNHV3a0YzVE5uZ1JiN1ZfZkZ3?oc=5)
+### [想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZZzBoU2lrdllJc0trRGpkb3dQZURIMUR2UkljcnktTzdIbVVhSzZyZlVVLWUwc1E4ZUhwUmowUVRzTUtubTctcjZFYlpWeWVNcE94YU9HOA?oc=5)
 
 2026-08-19
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1HczhVdzNlajFaRTBNOFBmQU9GaWpiYmJtc1E0NVBPRTFVRnExWlQwX3g5V2FWWEJEbGk0WWxiaG52Mll3bUw0bkszbjhvRTNwZ0hLY29jem1kTm1XNHV3a0YzVE5uZ1JiN1ZfZkZ3?oc=5)
+來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZZzBoU2lrdllJc0trRGpkb3dQZURIMUR2UkljcnktTzdIbVVhSzZyZlVVLWUwc1E4ZUhwUmowUVRzTUtubTctcjZFYlpWeWVNcE94YU9HOA?oc=5)
 
 ---
 
