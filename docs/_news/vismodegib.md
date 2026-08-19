@@ -14,7 +14,7 @@ permalink: /news/vismodegib/
 ---
 
 <p class="key-answer" data-question="Vismodegib 有什麼相關新聞？">
-<strong>Vismodegib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vismodegib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/vismodegib/
 <p><a href="{{ '/drugs/vismodegib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [逼癌細胞狂吃糖再斷脂肪！ 美頂尖研究設「雙重陷阱」滅腫瘤](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfRlpZN2RYZHYxbUlqRG5vbjBORExGMlA5a0NZaVlFMlU0VG91R1R1bUVRMTVRX1kzVVptb3o5WnR1U1BWZm5kWS1SeUNfY3JOV0hBZDgwTzRVMXRocmgwVFlkeVg?oc=5)
+
+2026-08-19 <span class="news-indication-tag">腫瘤</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfRlpZN2RYZHYxbUlqRG5vbjBORExGMlA5a0NZaVlFMlU0VG91R1R1bUVRMTVRX1kzVVptb3o5WnR1U1BWZm5kWS1SeUNfY3JOV0hBZDgwTzRVMXRocmgwVFlkeVg?oc=5)
+
+---
 
 ### [美國最常見癌症極易忽視 如何預防](https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5)
 
@@ -68,11 +76,11 @@ permalink: /news/vismodegib/
 
 ---
 
-### [頸生硬塊以為唔痛就無事？醫生警告恐是隱形癌症轉移：揭7大致命異常症狀 - UHK 港生活](https://news.google.com/rss/articles/CBMinANBVV95cUxNSGhoWGdnbG5ZYVZxVXF1SHVQZFNrQWFiTkpQRExNT3JkaEh3amhWeFhQUmg0QzhFNTZmNXhKLU04Q2dVR3pSVWFsREI0aXJlWVo5eGZ1MW4zUE1kTkc1Nkx2akZUVmtJR05xTnNwbzhQWVlrNU01eDVCTDFFd3BWSTl0d0RackgteHJQbmp1bEhKQS1rYkcxRXI3cTN2R0RBdEd3OUJCREplMjVqZGVhWUJIUXdBeHR0OUJVU0lONF9wenVQTTFBZl80dHcwbXdvV3duMDdzbjRyN0x4WFdPVm1YcG1FdTNBa2ZvcTJwTWFZRVVWemtGeC1LdHpEOWlHRUhLZDNmVkRydXJ3cjFxQ3k3azcyODhVbHVtTEtadGlXVVRhZUw3TmVIYmJKaXIyS1ZibVhuTXF4Y0xfWlI5RURURTRzem9ZaFNmVko2c084c2lPWlVlMFVoal8zVTI2OUZsb2JKeTIyVG1MOXVzeWpWRXE1NFJkV2xvVG9NMjQ2UmVqem1VdFN6d3Z5RXN2bnJwRkZuQVdyX0pk?oc=5)
+### [頸生硬塊以為唔痛就無事？醫生警告恐是隱形癌症轉移：揭7大致命異常症狀](https://news.google.com/rss/articles/CBMinANBVV95cUxNSGhoWGdnbG5ZYVZxVXF1SHVQZFNrQWFiTkpQRExNT3JkaEh3amhWeFhQUmg0QzhFNTZmNXhKLU04Q2dVR3pSVWFsREI0aXJlWVo5eGZ1MW4zUE1kTkc1Nkx2akZUVmtJR05xTnNwbzhQWVlrNU01eDVCTDFFd3BWSTl0d0RackgteHJQbmp1bEhKQS1rYkcxRXI3cTN2R0RBdEd3OUJCREplMjVqZGVhWUJIUXdBeHR0OUJVU0lONF9wenVQTTFBZl80dHcwbXdvV3duMDdzbjRyN0x4WFdPVm1YcG1FdTNBa2ZvcTJwTWFZRVVWemtGeC1LdHpEOWlHRUhLZDNmVkRydXJ3cjFxQ3k3azcyODhVbHVtTEtadGlXVVRhZUw3TmVIYmJKaXIyS1ZibVhuTXF4Y0xfWlI5RURURTRzem9ZaFNmVko2c084c2lPWlVlMFVoal8zVTI2OUZsb2JKeTIyVG1MOXVzeWpWRXE1NFJkV2xvVG9NMjQ2UmVqem1VdFN6d3Z5RXN2bnJwRkZuQVdyX0pk?oc=5)
 
 2026-08-17 <span class="news-indication-tag">癌症</span>
 
-來源：[UHK 港生活](https://news.google.com/rss/articles/CBMinANBVV95cUxNSGhoWGdnbG5ZYVZxVXF1SHVQZFNrQWFiTkpQRExNT3JkaEh3amhWeFhQUmg0QzhFNTZmNXhKLU04Q2dVR3pSVWFsREI0aXJlWVo5eGZ1MW4zUE1kTkc1Nkx2akZUVmtJR05xTnNwbzhQWVlrNU01eDVCTDFFd3BWSTl0d0RackgteHJQbmp1bEhKQS1rYkcxRXI3cTN2R0RBdEd3OUJCREplMjVqZGVhWUJIUXdBeHR0OUJVU0lONF9wenVQTTFBZl80dHcwbXdvV3duMDdzbjRyN0x4WFdPVm1YcG1FdTNBa2ZvcTJwTWFZRVVWemtGeC1LdHpEOWlHRUhLZDNmVkRydXJ3cjFxQ3k3azcyODhVbHVtTEtadGlXVVRhZUw3TmVIYmJKaXIyS1ZibVhuTXF4Y0xfWlI5RURURTRzem9ZaFNmVko2c084c2lPWlVlMFVoal8zVTI2OUZsb2JKeTIyVG1MOXVzeWpWRXE1NFJkV2xvVG9NMjQ2UmVqem1VdFN6d3Z5RXN2bnJwRkZuQVdyX0pk?oc=5)
+來源：[hk.ulifestyle.com.hk](https://news.google.com/rss/articles/CBMinANBVV95cUxNSGhoWGdnbG5ZYVZxVXF1SHVQZFNrQWFiTkpQRExNT3JkaEh3amhWeFhQUmg0QzhFNTZmNXhKLU04Q2dVR3pSVWFsREI0aXJlWVo5eGZ1MW4zUE1kTkc1Nkx2akZUVmtJR05xTnNwbzhQWVlrNU01eDVCTDFFd3BWSTl0d0RackgteHJQbmp1bEhKQS1rYkcxRXI3cTN2R0RBdEd3OUJCREplMjVqZGVhWUJIUXdBeHR0OUJVU0lONF9wenVQTTFBZl80dHcwbXdvV3duMDdzbjRyN0x4WFdPVm1YcG1FdTNBa2ZvcTJwTWFZRVVWemtGeC1LdHpEOWlHRUhLZDNmVkRydXJ3cjFxQ3k3azcyODhVbHVtTEtadGlXVVRhZUw3TmVIYmJKaXIyS1ZibVhuTXF4Y0xfWlI5RURURTRzem9ZaFNmVko2c084c2lPWlVlMFVoal8zVTI2OUZsb2JKeTIyVG1MOXVzeWpWRXE1NFJkV2xvVG9NMjQ2UmVqem1VdFN6d3Z5RXN2bnJwRkZuQVdyX0pk?oc=5)
 
 ---
 

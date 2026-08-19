@@ -1,8 +1,217 @@
 {
-  "last_updated": "2026-08-19T05:20:40.227471+00:00",
-  "total_count": 26,
-  "matched_count": 7,
+  "last_updated": "2026-08-19T06:27:35.004547+00:00",
+  "total_count": 27,
+  "matched_count": 8,
   "news": [
+    {
+      "id": "5000e1cc265e",
+      "title": "逼癌細胞狂吃糖再斷脂肪！ 美頂尖研究設「雙重陷阱」滅腫瘤",
+      "published": "2026-08-19T05:58:00+00:00",
+      "summary": "逼癌細胞狂吃糖再斷脂肪！ 美頂尖研究設「雙重陷阱」滅腫瘤&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfRlpZN2RYZHYxbUlqRG5vbjBORExGMlA5a0NZaVlFMlU0VG91R1R1bUVRMTVRX1kzVVptb3o5WnR1U1BWZm5kWS1SeUNfY3JOV0hBZDgwTzRVMXRocmgwVFlkeVg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "腫瘤",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1fa310dbfe6d",
       "title": "工作壓力山大怎麼辦？研究揭：摸寵物10分鐘有效降低壓力荷爾蒙",
@@ -17,27 +226,27 @@
       "matched_keywords": []
     },
     {
-      "id": "6d7dfc09491a",
+      "id": "378135fc86fb",
       "title": "新冠好了卻還在咳、累、腦霧？醫師揭3大原因，4類人最易變長新冠",
-      "published": "2026-08-19T04:45:19+00:00",
-      "summary": "新冠好了卻還在咳、累、腦霧？醫師揭3大原因，4類人最易變長新冠&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "published": "2026-08-19T04:47:13+00:00",
+      "summary": "新冠好了卻還在咳、累、腦霧？醫師揭3大原因，4類人最易變長新冠&nbsp;&nbsp;tw.news.yahoo.com前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxObkJGakY3TER1ZlhjVXBGNERLOE5QY3JkclpYeHlUblJLYXR6ZllGS3ZwNlVWVjVDdVRDWFM5WE41R2xtaUZ3aG1kNmVoQzlZczVEeFpzZ2hWVjJxMjNTUkNkbGpTalF6TGFaelA3TzB6UFpnem83MTVDWU80bG43em51NGRsYWZxUEZPRHlvQ21EcnNOSUhiMHVMaXlpOURMMEI0LXF3cl8tSzJNTHRfcUZoWWxraVkxbnVpWmF4Y1dJS0VJY0lOc2k1WGU4a2NtLWtKdVlIN2Q0QVllblpBcWIwUlZnMmJhTkRzRUpnRGhER25wR3dnd1VMM0hxOVI1cmY4eEZsRThhX2ptMjBjWG1JOUFla0xOMXlldmpQUmZobGloZ1ZIN0piRzRwbGppcnhFenM5REVPcFFQTmhMUUdIeW0xTGgwU3B3YVVYOXdTWmVWaGpOTnVCLW04MXJIaWxScWNiM2o4aWYxRXNRM1pKTXg5Sng4RHhuQV96TkdYajExbHg4?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "3bbbfdfb26e7",
-      "title": "秀茂坪邨非本地出生女子確診麻疹 潛伏期曾外遊",
-      "published": "2026-08-19T02:48:00+00:00",
-      "summary": "秀茂坪邨非本地出生女子確診麻疹 潛伏期曾外遊&nbsp;&nbsp;香港商报麻疹｜35歲女子今確診 曾到聯合醫院求醫 198人列密切接觸者&nbsp;&nbsp;singtao.ca35歲女發燒出疹揭患高傳染惡疾 近200人需受監察全因一舉動&nbsp;&nbsp;GOtrip.hk女子感染麻疹198人列密切接觸者患者潛伏期曾短暫離港旅遊- 香港&nbsp;&nbsp;香港文匯報香港錄今年第9宗麻疹個案 198人列密切接觸者&nbsp;&nbsp;hkcna.hk",
+      "id": "fd7333f2714f",
+      "title": "麻疹｜35歲女子今確診 曾到聯合醫院求醫 198人列密切接觸者",
+      "published": "2026-08-18T20:45:49+00:00",
+      "summary": "麻疹｜35歲女子今確診 曾到聯合醫院求醫 198人列密切接觸者&nbsp;&nbsp;singtao.ca前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHbkFpVmFxcjctUGI5UDFwVFJfOWdzMUVIemZGYy1FMjlTRVY3aE9ScE5JREg5MHhDRmlKbFhncGFYZXNtV1Y3TGlyYktLdklKSXV6SmttMFdrRFRINkxPUGxYM1FqRURkc3NiQXdEYko2UVBYR3Y1N0hLZw?oc=5"
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOSlo3ZjdfMXNQVk5vbE9Jb3B3UW95X0hSMEZsQ1Q4d2xvX0l5ZEc5Ulpkc3czZFRQQWxKMk04eVIzZmx0MTVlOGZxV3pFa2tFZGpsdHh0YzFyQ0xmNVhVWHc5Q04wVWVQdlliS1NUX2h6bWhBY0FMTXFySW9Sa2daLXhDUmpmLV9CWWtWdXFOVGRab21BcE04b2RBOGNOeF9scGxVVEhDTXJUZnVzUHFYeHlXYXlQY3VnN2VDTUI2b0dRYm9KU2ozMjJScWxXYUt4Um14bXdPV1JJMVRSTVJ2RmVrNXBUQXJDSnQ1SFpTcjhnNVRWVWhxZHVoWGdOOTZxZlpTWlliczFQNkpBdldZcU5GZ0lrU1o4NnJjNTVGaFRQdzlXUWFiUzlONFBEZjRhMGc2TzJDb1BELVlSUzRKYXFwZUlHVlhNOG5oelpMME5hWndmeFpoTm5EOVZ6WC05dDQ0ckMwdnozRThwXzBrSGpuRkhfc2M4WkVyWFY2Ukx0WjZMR1HSAYoBQVVfeXFMTTJkcmxYanNDcldTS05rNUwyY3RBcXRETjJ6LTEtS05DT0o2UFNzbGhPald2TmFsMGdIblEyZDAwU1lKcjNLZkZPYkM3dDUwUmJXbzQ1NDlMeW1qRDJVTmlaeFRXdm1hUmpLY1hvVjZvRDNtWDhfemx4V05RdElZTmdIN21JampvdFBB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -333,7 +542,7 @@
       "id": "d86691b553fb",
       "title": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂",
       "published": "2026-08-18T06:38:40+00:00",
-      "summary": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂&nbsp;&nbsp;am730緬甸仰光爆霍亂疫情 500人腹瀉住院149例確診&nbsp;&nbsp;rti.org.tw緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;中天新聞網緬甸最大城爆霍亂！500人嚴重腹瀉住院 149人快篩陽性 - 國際新聞 - PChome Online 新聞&nbsp;&nbsp;news.pchome.com.tw緬甸仰光爆發霍亂疫情500人腹瀉住院- 國際&nbsp;&nbsp;自由時報",
+      "summary": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂&nbsp;&nbsp;am730緬甸仰光爆霍亂疫情 500人腹瀉住院149例確診&nbsp;&nbsp;rti.org.tw緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;中天新聞網緬甸最大城爆霍亂！500人嚴重腹瀉住院 149人快篩陽性 - 國際新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online新聞緬甸仰光爆發霍亂疫情500人腹瀉住院- 國際&nbsp;&nbsp;自由時報",
       "sources": [
         {
           "name": "am730",
@@ -394,13 +603,13 @@
       "matched_keywords": []
     },
     {
-      "id": "4f3ebe3950ed",
-      "title": "健康網》腎友血鉀高別怕吃菜！ 營養師教3招去鉀 | 自由電子報",
+      "id": "b66fd300728a",
+      "title": "健康網》腎友血鉀高別怕吃菜！ 營養師教3招去鉀 | 自由電子報 - LINE TODAY",
       "published": "2026-08-18T01:04:29+00:00",
-      "summary": "健康網》腎友血鉀高別怕吃菜！ 營養師教3招去鉀 | 自由電子報&nbsp;&nbsp;today.line.me",
+      "summary": "健康網》腎友血鉀高別怕吃菜！ 營養師教3招去鉀 | 自由電子報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "today.line.me",
+          "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoZjN2WUE2TmRldmpQcC14Q09USGN0NG1DOEhNM1pQcGl0SkEySXFxcW5pZF8wbTMxNEl2NHlPT0l6cGRsZUtBY0E2T0VXS2JPeWVtUmhn?oc=5"
         }
       ],
@@ -1071,13 +1280,13 @@
       "matched_keywords": []
     },
     {
-      "id": "d9b4e1e08bfe",
-      "title": "頸生硬塊以為唔痛就無事？醫生警告恐是隱形癌症轉移：揭7大致命異常症狀 - UHK 港生活",
+      "id": "18eee939f594",
+      "title": "頸生硬塊以為唔痛就無事？醫生警告恐是隱形癌症轉移：揭7大致命異常症狀",
       "published": "2026-08-17T11:20:36+00:00",
-      "summary": "頸生硬塊以為唔痛就無事？醫生警告恐是隱形癌症轉移：揭7大致命異常症狀&nbsp;&nbsp;UHK 港生活",
+      "summary": "頸生硬塊以為唔痛就無事？醫生警告恐是隱形癌症轉移：揭7大致命異常症狀&nbsp;&nbsp;hk.ulifestyle.com.hk",
       "sources": [
         {
-          "name": "UHK 港生活",
+          "name": "hk.ulifestyle.com.hk",
           "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNSGhoWGdnbG5ZYVZxVXF1SHVQZFNrQWFiTkpQRExNT3JkaEh3amhWeFhQUmg0QzhFNTZmNXhKLU04Q2dVR3pSVWFsREI0aXJlWVo5eGZ1MW4zUE1kTkc1Nkx2akZUVmtJR05xTnNwbzhQWVlrNU01eDVCTDFFd3BWSTl0d0RackgteHJQbmp1bEhKQS1rYkcxRXI3cTN2R0RBdEd3OUJCREplMjVqZGVhWUJIUXdBeHR0OUJVU0lONF9wenVQTTFBZl80dHcwbXdvV3duMDdzbjRyN0x4WFdPVm1YcG1FdTNBa2ZvcTJwTWFZRVVWemtGeC1LdHpEOWlHRUhLZDNmVkRydXJ3cjFxQ3k3azcyODhVbHVtTEtadGlXVVRhZUw3TmVIYmJKaXIyS1ZibVhuTXF4Y0xfWlI5RURURTRzem9ZaFNmVko2c084c2lPWlVlMFVoal8zVTI2OUZsb2JKeTIyVG1MOXVzeWpWRXE1NFJkV2xvVG9NMjQ2UmVqem1VdFN6d3Z5RXN2bnJwRkZuQVdyX0pk?oc=5"
         }
       ],
@@ -1318,26 +1527,26 @@
       ]
     },
     {
-      "id": "67ba224d3cef",
+      "id": "928898b4a2fc",
       "title": "甲型流感︱網民力推抗甲流神藥 食1粒即痊癒極速見效 藥劑師拆解用藥注意：忌與1飲品同服",
       "published": "2026-08-17T10:36:56+00:00",
-      "summary": "甲型流感︱網民力推抗甲流神藥 食1粒即痊癒極速見效 藥劑師拆解用藥注意：忌與1飲品同服&nbsp;&nbsp;topick.hket.com",
+      "summary": "甲型流感︱網民力推抗甲流神藥 食1粒即痊癒極速見效 藥劑師拆解用藥注意：忌與1飲品同服&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
-          "name": "topick.hket.com",
+          "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxPbjRSUE5iRXlPbkJmWnUxUWxNalhxcmVPVVpfTFUzLWE1VmdWZUdNdjduckI1TmE5ekNJNlB6THE1QXVDVWY4OEFmMWZKSDItdDR3WVNJWm5mYlhRTHJSUDVqWHR1Y2pyczlzTkJHNGlCMERFN1c4bjVXWURvSEVVcU16eDJ4OUpIdGgtcmdHajdfQ1Nrb0ZjbHZ3c2lSNzRnNDBlTTdCczRlTW95ZUFMcVZCLTVCdVRZQTFTQ1FlODctQ213bWlJQWI5aTZIbXR6TkI3VE5fSHZrOEU4MFdNci1NeU93b3BHV2pkNElMTUg3WE9KZWJWWW1sTjZtSVI0LTQweEVIaGRMQko3Mmd1bEhJMFAwbmg4Y0RlUUpaU3ZWM2FMOWMyeEpJSC1HNHcxZENvTF9kRWpmWEN6VmIxRFkxN21ZMW1Mbm1lMHI5OWN6NUo3eUlqaXFRdkVEdnB6YUpJXzMzRm5QUzFFZG5fZEZGb0pQdDlQQ1NjUUtaSnc0OS1DaHczaHhvNDF6SDdPbEFFU2ljdmFlcHktZXlFYmcxNWRIWTdBd3NzQWRKdmtfaGMybWNCb1lxTXY0WkswSk01OTNma3hfX2pZVkpINGFsYmI3Z2pZbkpJV21aSXVGd2FVWmNjWEZyLTFhMjJPZ1BuNE1MV2F3TnBCaHJEZHowS2V6bXBndXpGZTRxQU5TTFBTbFRlQU5EYWtsMnFfeVhBUGlfXzhFYmVha1dEMkh5TC1EWUl6bUJCSlNiakFkMGF0NVE3UTE0Z2dNTmhvbWc?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "567b1194228a",
+      "id": "e9d0ff970dea",
       "title": "蔬果效果好不好 你的腸道菌說了算",
       "published": "2026-08-17T07:00:00+00:00",
-      "summary": "蔬果效果好不好 你的腸道菌說了算&nbsp;&nbsp;大纪元",
+      "summary": "蔬果效果好不好 你的腸道菌說了算&nbsp;&nbsp;epochtimes.com",
       "sources": [
         {
-          "name": "大纪元",
+          "name": "epochtimes.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmN0hqcFRqam9DcG5MdVdqWEpkdzV6bElqWFVabjExcXlLUlBtMnVEZVdGR1prY1JCWXEwRDF5N2lwLS1JTU1aeFVwRThmQzlUcnBvN1l3ZTlCREdnMkZfQdIBZkFVX3lxTE9odXFrN05XeGM5cmtSYW5ITjd2bDhSQTdNb2ZaMmlXb25nMFVhQ3Vic0g2NW4tWk5SV256ZmZ2VU9NMHJxZVZ5NE53UTIwQlNleDRZYXpVeEpUcEcwMnRpTHdYQTR4UQ?oc=5"
         }
       ],
