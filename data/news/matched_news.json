@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-19T06:27:35.004547+00:00",
-  "total_count": 27,
-  "matched_count": 8,
+  "last_updated": "2026-08-19T07:30:20.085848+00:00",
+  "total_count": 28,
+  "matched_count": 9,
   "news": [
     {
       "id": "5000e1cc265e",
@@ -226,30 +226,70 @@
       "matched_keywords": []
     },
     {
-      "id": "378135fc86fb",
+      "id": "6d7dfc09491a",
       "title": "新冠好了卻還在咳、累、腦霧？醫師揭3大原因，4類人最易變長新冠",
       "published": "2026-08-19T04:47:13+00:00",
-      "summary": "新冠好了卻還在咳、累、腦霧？醫師揭3大原因，4類人最易變長新冠&nbsp;&nbsp;tw.news.yahoo.com前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "新冠好了卻還在咳、累、腦霧？醫師揭3大原因，4類人最易變長新冠&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
+          "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxObkJGakY3TER1ZlhjVXBGNERLOE5QY3JkclpYeHlUblJLYXR6ZllGS3ZwNlVWVjVDdVRDWFM5WE41R2xtaUZ3aG1kNmVoQzlZczVEeFpzZ2hWVjJxMjNTUkNkbGpTalF6TGFaelA3TzB6UFpnem83MTVDWU80bG43em51NGRsYWZxUEZPRHlvQ21EcnNOSUhiMHVMaXlpOURMMEI0LXF3cl8tSzJNTHRfcUZoWWxraVkxbnVpWmF4Y1dJS0VJY0lOc2k1WGU4a2NtLWtKdVlIN2Q0QVllblpBcWIwUlZnMmJhTkRzRUpnRGhER25wR3dnd1VMM0hxOVI1cmY4eEZsRThhX2ptMjBjWG1JOUFla0xOMXlldmpQUmZobGloZ1ZIN0piRzRwbGppcnhFenM5REVPcFFQTmhMUUdIeW0xTGgwU3B3YVVYOXdTWmVWaGpOTnVCLW04MXJIaWxScWNiM2o4aWYxRXNRM1pKTXg5Sng4RHhuQV96TkdYajExbHg4?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "fd7333f2714f",
-      "title": "麻疹｜35歲女子今確診 曾到聯合醫院求醫 198人列密切接觸者",
-      "published": "2026-08-18T20:45:49+00:00",
-      "summary": "麻疹｜35歲女子今確診 曾到聯合醫院求醫 198人列密切接觸者&nbsp;&nbsp;singtao.ca前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "b9b0f0b4109d",
+      "title": "35歲女子感染麻疹 198人列為密切接觸者 - 大紀元時報 香港",
+      "published": "2026-08-19T04:34:34+00:00",
+      "summary": "35歲女子感染麻疹 198人列為密切接觸者&nbsp;&nbsp;大紀元時報 香港麻疹｜35歲女子今確診 曾到聯合醫院求醫 198人列密切接觸者&nbsp;&nbsp;singtao.ca35歲女發燒出疹揭患高傳染惡疾 近200人需受監察全因一舉動&nbsp;&nbsp;GOtrip.hk女子感染麻疹198人列密切接觸者患者潛伏期曾短暫離港旅遊- 香港&nbsp;&nbsp;香港文匯報女子感染麻疹198人列密切接觸者 患者非本港出生目前情況穩定&nbsp;&nbsp;香港電台新聞網",
       "sources": [
         {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOSlo3ZjdfMXNQVk5vbE9Jb3B3UW95X0hSMEZsQ1Q4d2xvX0l5ZEc5Ulpkc3czZFRQQWxKMk04eVIzZmx0MTVlOGZxV3pFa2tFZGpsdHh0YzFyQ0xmNVhVWHc5Q04wVWVQdlliS1NUX2h6bWhBY0FMTXFySW9Sa2daLXhDUmpmLV9CWWtWdXFOVGRab21BcE04b2RBOGNOeF9scGxVVEhDTXJUZnVzUHFYeHlXYXlQY3VnN2VDTUI2b0dRYm9KU2ozMjJScWxXYUt4Um14bXdPV1JJMVRSTVJ2RmVrNXBUQXJDSnQ1SFpTcjhnNVRWVWhxZHVoWGdOOTZxZlpTWlliczFQNkpBdldZcU5GZ0lrU1o4NnJjNTVGaFRQdzlXUWFiUzlONFBEZjRhMGc2TzJDb1BELVlSUzRKYXFwZUlHVlhNOG5oelpMME5hWndmeFpoTm5EOVZ6WC05dDQ0ckMwdnozRThwXzBrSGpuRkhfc2M4WkVyWFY2Ukx0WjZMR1HSAYoBQVVfeXFMTTJkcmxYanNDcldTS05rNUwyY3RBcXRETjJ6LTEtS05DT0o2UFNzbGhPald2TmFsMGdIblEyZDAwU1lKcjNLZkZPYkM3dDUwUmJXbzQ1NDlMeW1qRDJVTmlaeFRXdm1hUmpLY1hvVjZvRDNtWDhfemx4V05RdElZTmdIN21JampvdFBB?oc=5"
+          "name": "大紀元時報 香港",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GbGR4ZE5SVXlmeGp2bWJFbE5ZT25CeE1tbEdfcGo5dlJac1lDejEyVUxxSWJ2VWxpLW9SQmJxYWloSVFKbGEyYXJ2UjFHWlZxVDg0QkFnZmN1SXJEMFlR?oc=5"
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "bdb23e033e49",
+      "title": "想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦",
+      "published": "2026-08-19T02:57:13+00:00",
+      "summary": "想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦&nbsp;&nbsp;Yahoo新聞大腦老得慢，中年就要開始！研究揭2件事與晚年認知衰退較慢有關&nbsp;&nbsp;元氣網中年3件事沒顧好55歲後少12.6年沒失智時光- 健康&nbsp;&nbsp;中時新聞網避免糖尿病高血壓吸菸 可延遲失智近13年&nbsp;&nbsp;大纪元想長壽有秘訣！研究揭中年人必守3大健康生活指標 護腦兼延壽13年&nbsp;&nbsp;CCUE",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOdGpVRjFGU1VOUWFSQlVXZmR0NkV4azQ5Wmc0cnUzb2JPS3BhM0lNckFPLVg2S3E1Y282TFhrdFdObmQ3U2xUSU9xcjJkSE5ENUpuTVh0NlE1VTh5U0NlYjZHU3RUYjM0TEd3bWQxRnktc0txVmJxMlBMQ0gyeE01TWxsdExpRDVjd0t0VmNkdzM5dFJxcGJHRWtXd1Z4cnYxYzRCaFo4eHhvV25wOHc0Y0hDVF9oTUJqVU9NVEJhZndpYjYxeFU0cUhWX0JOcXNTcE83ZTU4My1oX1B1YnJlbzM2NmlkdXZFbldpelhjS3pNb1FhQy1kRGZSWEpaeFNTTnlSaUhfOVRFdGpjSlFEN3FiMEYtME9ZVF9QaFJpVDlmSmpNMzltdU9TY2ZrREJFWUxKNUdIY1NieE5HQkhPWU1wUW5IcEI1dTdqbg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "80693c2103fb",
@@ -278,13 +318,13 @@
       "matched_keywords": []
     },
     {
-      "id": "6823cf83cacd",
+      "id": "79eeb5d25ce2",
       "title": "美國最常見癌症極易忽視 如何預防",
       "published": "2026-08-18T14:00:00+00:00",
-      "summary": "美國最常見癌症極易忽視 如何預防&nbsp;&nbsp;Singtaousa",
+      "summary": "美國最常見癌症極易忽視 如何預防&nbsp;&nbsp;singtaousa.com",
       "sources": [
         {
-          "name": "Singtaousa",
+          "name": "singtaousa.com",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5"
         }
       ],
@@ -542,7 +582,7 @@
       "id": "d86691b553fb",
       "title": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂",
       "published": "2026-08-18T06:38:40+00:00",
-      "summary": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂&nbsp;&nbsp;am730緬甸仰光爆霍亂疫情 500人腹瀉住院149例確診&nbsp;&nbsp;rti.org.tw緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;中天新聞網緬甸最大城爆霍亂！500人嚴重腹瀉住院 149人快篩陽性 - 國際新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online新聞緬甸仰光爆發霍亂疫情500人腹瀉住院- 國際&nbsp;&nbsp;自由時報",
+      "summary": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂&nbsp;&nbsp;am730緬甸仰光爆霍亂疫情 500人腹瀉住院149例確診&nbsp;&nbsp;rti.org.tw緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;中天新聞網緬甸最大城爆霍亂！500人嚴重腹瀉住院 149人快篩陽性 - 國際新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞緬甸仰光爆發霍亂疫情500人腹瀉住院- 國際&nbsp;&nbsp;自由時報",
       "sources": [
         {
           "name": "am730",
@@ -1045,13 +1085,13 @@
       ]
     },
     {
-      "id": "193323cb01d9",
+      "id": "8451f44a73af",
       "title": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望",
       "published": "2026-08-17T13:49:54+00:00",
-      "summary": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望&nbsp;&nbsp;香港商报",
+      "summary": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望&nbsp;&nbsp;hkcd.com",
       "sources": [
         {
-          "name": "香港商报",
+          "name": "hkcd.com",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5"
         }
       ],
@@ -1280,13 +1320,13 @@
       "matched_keywords": []
     },
     {
-      "id": "18eee939f594",
-      "title": "頸生硬塊以為唔痛就無事？醫生警告恐是隱形癌症轉移：揭7大致命異常症狀",
+      "id": "d9b4e1e08bfe",
+      "title": "頸生硬塊以為唔痛就無事？醫生警告恐是隱形癌症轉移：揭7大致命異常症狀 - UHK 港生活",
       "published": "2026-08-17T11:20:36+00:00",
-      "summary": "頸生硬塊以為唔痛就無事？醫生警告恐是隱形癌症轉移：揭7大致命異常症狀&nbsp;&nbsp;hk.ulifestyle.com.hk",
+      "summary": "頸生硬塊以為唔痛就無事？醫生警告恐是隱形癌症轉移：揭7大致命異常症狀&nbsp;&nbsp;UHK 港生活",
       "sources": [
         {
-          "name": "hk.ulifestyle.com.hk",
+          "name": "UHK 港生活",
           "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNSGhoWGdnbG5ZYVZxVXF1SHVQZFNrQWFiTkpQRExNT3JkaEh3amhWeFhQUmg0QzhFNTZmNXhKLU04Q2dVR3pSVWFsREI0aXJlWVo5eGZ1MW4zUE1kTkc1Nkx2akZUVmtJR05xTnNwbzhQWVlrNU01eDVCTDFFd3BWSTl0d0RackgteHJQbmp1bEhKQS1rYkcxRXI3cTN2R0RBdEd3OUJCREplMjVqZGVhWUJIUXdBeHR0OUJVU0lONF9wenVQTTFBZl80dHcwbXdvV3duMDdzbjRyN0x4WFdPVm1YcG1FdTNBa2ZvcTJwTWFZRVVWemtGeC1LdHpEOWlHRUhLZDNmVkRydXJ3cjFxQ3k3azcyODhVbHVtTEtadGlXVVRhZUw3TmVIYmJKaXIyS1ZibVhuTXF4Y0xfWlI5RURURTRzem9ZaFNmVko2c084c2lPWlVlMFVoal8zVTI2OUZsb2JKeTIyVG1MOXVzeWpWRXE1NFJkV2xvVG9NMjQ2UmVqem1VdFN6d3Z5RXN2bnJwRkZuQVdyX0pk?oc=5"
         }
       ],
@@ -1540,13 +1580,13 @@
       "matched_keywords": []
     },
     {
-      "id": "e9d0ff970dea",
+      "id": "567b1194228a",
       "title": "蔬果效果好不好 你的腸道菌說了算",
       "published": "2026-08-17T07:00:00+00:00",
-      "summary": "蔬果效果好不好 你的腸道菌說了算&nbsp;&nbsp;epochtimes.com",
+      "summary": "蔬果效果好不好 你的腸道菌說了算&nbsp;&nbsp;大纪元",
       "sources": [
         {
-          "name": "epochtimes.com",
+          "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmN0hqcFRqam9DcG5MdVdqWEpkdzV6bElqWFVabjExcXlLUlBtMnVEZVdGR1prY1JCWXEwRDF5N2lwLS1JTU1aeFVwRThmQzlUcnBvN1l3ZTlCREdnMkZfQdIBZkFVX3lxTE9odXFrN05XeGM5cmtSYW5ITjd2bDhSQTdNb2ZaMmlXb25nMFVhQ3Vic0g2NW4tWk5SV256ZmZ2VU9NMHJxZVZ5NE53UTIwQlNleDRZYXpVeEpUcEcwMnRpTHdYQTR4UQ?oc=5"
         }
       ],
