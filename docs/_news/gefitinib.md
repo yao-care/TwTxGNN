@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZZzBoU2lrdllJc0trRGpkb3dQZURIMUR2UkljcnktTzdIbVVhSzZyZlVVLWUwc1E4ZUhwUmowUVRzTUtubTctcjZFYlpWeWVNcE94YU9HOA?oc=5)
 
 2026-08-19 <span class="news-indication-tag">失智</span>
 
-來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZZzBoU2lrdllJc0trRGpkb3dQZURIMUR2UkljcnktTzdIbVVhSzZyZlVVLWUwc1E4ZUhwUmowUVRzTUtubTctcjZFYlpWeWVNcE94YU9HOA?oc=5)
+來源：[news.ttv.com.tw](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZZzBoU2lrdllJc0trRGpkb3dQZURIMUR2UkljcnktTzdIbVVhSzZyZlVVLWUwc1E4ZUhwUmowUVRzTUtubTctcjZFYlpWeWVNcE94YU9HOA?oc=5)
 
 ---
 
@@ -63,7 +63,7 @@ permalink: /news/gefitinib/
 
 2026-08-18 <span class="news-indication-tag">癌症</span>
 
-來源：[Singtaousa](https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5)
+來源：[singtaousa.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5)
 
 ---
 
@@ -88,14 +88,6 @@ permalink: /news/gefitinib/
 2026-08-17 <span class="news-indication-tag">腫瘤</span>
 
 來源：[香港商报](https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5)
-
----
-
-### [頸生硬塊以為唔痛就無事？醫生警告恐是隱形癌症轉移：揭7大致命異常症狀 - UHK 港生活](https://news.google.com/rss/articles/CBMinANBVV95cUxNSGhoWGdnbG5ZYVZxVXF1SHVQZFNrQWFiTkpQRExNT3JkaEh3amhWeFhQUmg0QzhFNTZmNXhKLU04Q2dVR3pSVWFsREI0aXJlWVo5eGZ1MW4zUE1kTkc1Nkx2akZUVmtJR05xTnNwbzhQWVlrNU01eDVCTDFFd3BWSTl0d0RackgteHJQbmp1bEhKQS1rYkcxRXI3cTN2R0RBdEd3OUJCREplMjVqZGVhWUJIUXdBeHR0OUJVU0lONF9wenVQTTFBZl80dHcwbXdvV3duMDdzbjRyN0x4WFdPVm1YcG1FdTNBa2ZvcTJwTWFZRVVWemtGeC1LdHpEOWlHRUhLZDNmVkRydXJ3cjFxQ3k3azcyODhVbHVtTEtadGlXVVRhZUw3TmVIYmJKaXIyS1ZibVhuTXF4Y0xfWlI5RURURTRzem9ZaFNmVko2c084c2lPWlVlMFVoal8zVTI2OUZsb2JKeTIyVG1MOXVzeWpWRXE1NFJkV2xvVG9NMjQ2UmVqem1VdFN6d3Z5RXN2bnJwRkZuQVdyX0pk?oc=5)
-
-2026-08-17 <span class="news-indication-tag">癌症</span>
-
-來源：[UHK 港生活](https://news.google.com/rss/articles/CBMinANBVV95cUxNSGhoWGdnbG5ZYVZxVXF1SHVQZFNrQWFiTkpQRExNT3JkaEh3amhWeFhQUmg0QzhFNTZmNXhKLU04Q2dVR3pSVWFsREI0aXJlWVo5eGZ1MW4zUE1kTkc1Nkx2akZUVmtJR05xTnNwbzhQWVlrNU01eDVCTDFFd3BWSTl0d0RackgteHJQbmp1bEhKQS1rYkcxRXI3cTN2R0RBdEd3OUJCREplMjVqZGVhWUJIUXdBeHR0OUJVU0lONF9wenVQTTFBZl80dHcwbXdvV3duMDdzbjRyN0x4WFdPVm1YcG1FdTNBa2ZvcTJwTWFZRVVWemtGeC1LdHpEOWlHRUhLZDNmVkRydXJ3cjFxQ3k3azcyODhVbHVtTEtadGlXVVRhZUw3TmVIYmJKaXIyS1ZibVhuTXF4Y0xfWlI5RURURTRzem9ZaFNmVko2c084c2lPWlVlMFVoal8zVTI2OUZsb2JKeTIyVG1MOXVzeWpWRXE1NFJkV2xvVG9NMjQ2UmVqem1VdFN6d3Z5RXN2bnJwRkZuQVdyX0pk?oc=5)
 
 ---
 
