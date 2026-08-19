@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-19T14:23:32.395918+00:00",
-  "count": 24,
+  "fetched_at": "2026-08-19T15:21:15.980312+00:00",
+  "count": 25,
   "news": [
-    {
-      "id": "5000e1cc265e",
-      "title": "逼癌細胞狂吃糖再斷脂肪！ 美頂尖研究設「雙重陷阱」滅腫瘤 - 自由健康網",
-      "published": "2026-08-19T05:58:00+00:00",
-      "summary": "逼癌細胞狂吃糖再斷脂肪！ 美頂尖研究設「雙重陷阱」滅腫瘤&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfRlpZN2RYZHYxbUlqRG5vbjBORExGMlA5a0NZaVlFMlU0VG91R1R1bUVRMTVRX1kzVVptb3o5WnR1U1BWZm5kWS1SeUNfY3JOV0hBZDgwTzRVMXRocmgwVFlkeVg?oc=5"
-        }
-      ]
-    },
     {
       "id": "de6fe8d1cab6",
       "title": "洪詩曝愛女高燒飆40度！　查不出病因超懊惱：到底是什麼？ - ETtoday星光雲",
@@ -28,9 +16,33 @@
       ]
     },
     {
+      "id": "555c4679c3dd",
+      "title": "身體一直長「疔子」好苦惱皮膚科醫：常見元凶躲在鼻子- 健康 - 中時新聞網",
+      "published": "2026-08-19T14:15:43+00:00",
+      "summary": "身體一直長「疔子」好苦惱皮膚科醫：常見元凶躲在鼻子- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aczRoZFJSU2NkaWpBbHE5S0ZVVFpPcTEwY3hTTGVpcnRldC1jQ1d0LTQxbnZScFEtN3dXUTQ3cFZ6QnliaDFENHY1QUU2UDhuVWFLaUZWN2ZNeDQtNUNnN2xyY2ZKQm9acTdHU0NB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5000e1cc265e",
+      "title": "逼癌細胞狂吃糖再斷脂肪！ 美頂尖研究設「雙重陷阱」滅腫瘤 - 自由健康網",
+      "published": "2026-08-19T05:58:00+00:00",
+      "summary": "逼癌細胞狂吃糖再斷脂肪！ 美頂尖研究設「雙重陷阱」滅腫瘤&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfRlpZN2RYZHYxbUlqRG5vbjBORExGMlA5a0NZaVlFMlU0VG91R1R1bUVRMTVRX1kzVVptb3o5WnR1U1BWZm5kWS1SeUNfY3JOV0hBZDgwTzRVMXRocmgwVFlkeVg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f43eefc727d8",
       "title": "脂肪肝變輕先別開心！醫提醒「脂肪胰」更易被忽略：當心血糖、胰臟癌風險 | 熱門話題 | 要聞 - 經濟日報",
-      "published": "2026-08-19T10:51:49+00:00",
+      "published": "2026-08-19T10:52:14+00:00",
       "summary": "脂肪肝變輕先別開心！醫提醒「脂肪胰」更易被忽略：當心血糖、胰臟癌風險 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報",
       "sources": [
         {
@@ -64,18 +76,6 @@
       ]
     },
     {
-      "id": "be9a6d15ea04",
-      "title": "想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦 - 台視新聞網",
-      "published": "2026-08-19T07:00:03+00:00",
-      "summary": "想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦&nbsp;&nbsp;台視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZZzBoU2lrdllJc0trRGpkb3dQZURIMUR2UkljcnktTzdIbVVhSzZyZlVVLWUwc1E4ZUhwUmowUVRzTUtubTctcjZFYlpWeWVNcE94YU9HOA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8a98d522e265",
       "title": "健康網》孩子得什麼病？醫師這樣下判斷 - 自由健康網",
       "published": "2026-08-18T12:20:00+00:00",
@@ -96,6 +96,18 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoZjN2WUE2TmRldmpQcC14Q09USGN0NG1DOEhNM1pQcGl0SkEySXFxcW5pZF8wbTMxNEl2NHlPT0l6cGRsZUtBY0E2T0VXS2JPeWVtUmhn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "be9a6d15ea04",
+      "title": "想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦 - 台視新聞網",
+      "published": "2026-08-19T07:00:03+00:00",
+      "summary": "想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦&nbsp;&nbsp;台視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZZzBoU2lrdllJc0trRGpkb3dQZURIMUR2UkljcnktTzdIbVVhSzZyZlVVLWUwc1E4ZUhwUmowUVRzTUtubTctcjZFYlpWeWVNcE94YU9HOA?oc=5"
         }
       ]
     },
@@ -127,7 +139,7 @@
       "id": "e44751f56e12",
       "title": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂 - AM730",
       "published": "2026-08-18T06:38:40+00:00",
-      "summary": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂&nbsp;&nbsp;AM730緬甸仰光爆霍亂疫情 500人腹瀉住院149例確診&nbsp;&nbsp;rti.org.tw緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;中天新聞網緬甸最大城爆霍亂！500人嚴重腹瀉住院 149人快篩陽性 - 國際新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online新聞緬甸仰光爆發霍亂疫情500人腹瀉住院- 國際&nbsp;&nbsp;自由時報",
+      "summary": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂&nbsp;&nbsp;AM730緬甸仰光爆霍亂疫情 500人腹瀉住院149例確診&nbsp;&nbsp;rti.org.tw緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;中天新聞網緬甸最大城爆霍亂！500人嚴重腹瀉住院 149人快篩陽性 - 國際新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞緬甸仰光爆發霍亂疫情500人腹瀉住院- 國際&nbsp;&nbsp;自由時報",
       "sources": [
         {
           "name": "AM730",
