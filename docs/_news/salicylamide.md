@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [疫情最快8月中進入流行期，這對社區防疫有何影響？](https://news.google.com/rss/articles/CBMie0FVX3lxTE93emxMRTBpVklIdTF3UDgyalRHNlV1bW9XV0F2WmJQQkp0d0lRc2ZTcThha05hcDJ2M215VjV3WHNJdlVldW8tQzdEZTZNVjRtU3RzVmpFMUNGUmkzRm9MSHZySUZ1anVtYkhUMGg2SGxQQXJaY21wTDlKQQ?oc=5)
-
-2026-08-17 <span class="news-indication-tag">感冒</span>
-
-來源：[CMoney](https://news.google.com/rss/articles/CBMie0FVX3lxTE93emxMRTBpVklIdTF3UDgyalRHNlV1bW9XV0F2WmJQQkp0d0lRc2ZTcThha05hcDJ2M215VjV3WHNJdlVldW8tQzdEZTZNVjRtU3RzVmpFMUNGUmkzRm9MSHZySUZ1anVtYkhUMGg2SGxQQXJaY21wTDlKQQ?oc=5)
-
----
-
-### [COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂](https://news.google.com/rss/articles/CBMibkFVX3lxTE1aMFdWR1pLcGdhZW1CNkNMa3BuV1hCWkhOTTBEOGYxS0ZRTGdyOE9ScFJhQm9xWmR6MHNPZFNSWHYyOXludWJFc2FLSUpTM3h4ZGJhN212TWVMQlZiTkEtQlBjT0loWEJ1NjdYTEJR?oc=5)
+### [新冠二度感染症狀較輕微？醫示警「3類高風險族群」重症風險恐升高](https://news.google.com/rss/articles/CBMinANBVV95cUxPYktBTWpIY05PVHp6Vkp3Y1RZcjJYdDR1ai15SHZEaXh4N3hxS3NtZ3hqRVN4ZEk4d1JZUngzT21vc3JNS3NwZml0WVVaZGg0RHRVWVpUd1ZOcE5SeWo5MmNoRmxua3Ewd3BIOElDb3pHUmt3bUgyMHcwY3J3VkJyQTVzaGM1cFFTVGg0SlN6RWQ2b1JsNVNLYjN2alZ3WWxNRXk4Y1F2c2VBUjJBZlNmSEpQS0tXOTUyRTd1QVZoY3VkR2htY3VLbTJldlJHdWRlM216WFZvQW5QOVIxbTRmNWxOUE4yQXhPQzMtT3JFemdrNFdtM1FnRzBvTnVxS3R5N3ZOTnNQc0wtMVJvQ1IwWW1JcncwbzlXZURfWjJIQmNhTm1aOGN2Y1VNWHA4N0hnaHdGZlo2T3ZUcGFpeUVtSFcxaUdJalFiTG16NS1LVE1zekpneUx5d2pfc1dZdGhTbkowUDJMWDBRX2x2dHVCTEozaVd0MnJWZUhlVUg0MzF6QjluajYtT3RIdFl1dVg1THEydWxFeW1lWm1o?oc=5)
 
 2026-08-17 <span class="news-indication-tag">感冒</span>
 
-來源：[ELLE](https://news.google.com/rss/articles/CBMibkFVX3lxTE1aMFdWR1pLcGdhZW1CNkNMa3BuV1hCWkhOTTBEOGYxS0ZRTGdyOE9ScFJhQm9xWmR6MHNPZFNSWHYyOXludWJFc2FLSUpTM3h4ZGJhN212TWVMQlZiTkEtQlBjT0loWEJ1NjdYTEJR?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMinANBVV95cUxPYktBTWpIY05PVHp6Vkp3Y1RZcjJYdDR1ai15SHZEaXh4N3hxS3NtZ3hqRVN4ZEk4d1JZUngzT21vc3JNS3NwZml0WVVaZGg0RHRVWVpUd1ZOcE5SeWo5MmNoRmxua3Ewd3BIOElDb3pHUmt3bUgyMHcwY3J3VkJyQTVzaGM1cFFTVGg0SlN6RWQ2b1JsNVNLYjN2alZ3WWxNRXk4Y1F2c2VBUjJBZlNmSEpQS0tXOTUyRTd1QVZoY3VkR2htY3VLbTJldlJHdWRlM216WFZvQW5QOVIxbTRmNWxOUE4yQXhPQzMtT3JFemdrNFdtM1FnRzBvTnVxS3R5N3ZOTnNQc0wtMVJvQ1IwWW1JcncwbzlXZURfWjJIQmNhTm1aOGN2Y1VNWHA4N0hnaHdGZlo2T3ZUcGFpeUVtSFcxaUdJalFiTG16NS1LVE1zekpneUx5d2pfc1dZdGhTbkowUDJMWDBRX2x2dHVCTEozaVd0MnJWZUhlVUg0MzF6QjluajYtT3RIdFl1dVg1THEydWxFeW1lWm1o?oc=5)
 
 ---
 

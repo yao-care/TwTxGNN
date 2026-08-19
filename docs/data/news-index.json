@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-19T03:38:18.860038+00:00",
-  "count": 10,
+  "generated": "2026-08-19T04:27:38.001033+00:00",
+  "count": 8,
   "news": [
     {
-      "id": "79eeb5d25ce2",
+      "id": "6823cf83cacd",
       "title": "美國最常見癌症極易忽視 如何預防",
       "published": "2026-08-18T14:00:00+00:00",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5"
         }
       ],
@@ -211,13 +211,13 @@
       ]
     },
     {
-      "id": "610895a9c217",
+      "id": "e44751f56e12",
       "title": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂",
       "published": "2026-08-18T06:38:40+00:00",
       "sources": [
         {
           "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aMkp6M19qQTFmX2hKWFRjcEt0cDJrc0ExcDItbXNTMXZBcmFPVjFWOURvVTQwbzd5MkpkdldZd09vUERneFJaODNaVzZYbzdZOGc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPRmgySnFqMk1SNW05Q1lxRm80R1B6cXI1Tzk0NU13dFBsbzBld2xpT2lic3Vkam5CYzkwaGp2WWNYa2V2bW1PVHNZUXRXMVZBajN6S0hPYTlGWkgyRkhacXk2YXZqNVVyTFRhU1IzWDRHcG1rQnYxaFpVTVRjWEdOekVJOGJSRHI0eVJMcVZISW9vUVdicGptTUNyX1lTcGYzSGlPZFU2OXN2dF9Ndk1xR2FraVNtNHN4Ujh6Zk4tWVVZS2s5NkRyTXVuQnVMbTNzOHowYkp6LXNCVmtXU3Zwejg0WkRsRnZGUElaWmQ5UVFmbzJBYk0wOEdEd2p3N2dad1RXb0tzZHB6RG5fTUR3LVk3SFFTSmMxUjlLLUFTb0NWQUFxRjhHM01VTHFNaW9KbjQzTHFZVXc1R0RMWHR0UXA0NlN4WU5hVFhTMUt3OA?oc=5"
         }
       ],
       "keywords": [
@@ -662,37 +662,13 @@
       ]
     },
     {
-      "id": "ed366adc8659",
-      "title": "疫情最快8月中進入流行期，這對社區防疫有何影響？",
-      "published": "2026-08-17T13:22:17+00:00",
-      "sources": [
-        {
-          "name": "CMoney",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93emxMRTBpVklIdTF3UDgyalRHNlV1bW9XV0F2WmJQQkp0d0lRc2ZTcThha05hcDJ2M215VjV3WHNJdlVldW8tQzdEZTZNVjRtU3RzVmpFMUNGUmkzRm9MSHZySUZ1anVtYkhUMGg2SGxQQXJaY21wTDlKQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e7888c97ea55",
-      "title": "胸腔被腫瘤佔滿 深圳醫生為病人搏出呼吸空間與生存希望",
-      "published": "2026-08-17T13:09:11+00:00",
+      "id": "193323cb01d9",
+      "title": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望",
+      "published": "2026-08-17T13:49:54+00:00",
       "sources": [
         {
           "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15N21nOGNEOTdCVGdXZ0FiaWxveEhvSXA2THgwdTRYVFhIdERqaWZoQnFRTmNTM1gxQ0lObUVUUFBOaS1ob0VPanR5ZHgxQkhNUFJXM25vLVdEcVo4M1E?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5"
         }
       ],
       "keywords": [
@@ -1126,61 +1102,13 @@
       ]
     },
     {
-      "id": "a51343a94107",
-      "title": "法國、瑞士研發智慧胸罩 30分鐘偵測乳癌",
-      "published": "2026-08-17T06:00:00+00:00",
+      "id": "bee9d49eefc8",
+      "title": "新冠二度感染症狀較輕微？醫示警「3類高風險族群」重症風險恐升高",
+      "published": "2026-08-17T06:45:09+00:00",
       "sources": [
         {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vSjR1bE81bTlYYzlsaTJCT3k5cXV4N2phQWM2Q2g0UUkxVWJLWmlzYmFfbGxsUmx0dVluamF3dmF5MTU0YjlJckNQaW5FSndiYlJaR3lRQnh3MWxiY2s1M2t30gFnQVVfeXFMTUVIVjlOZzJmcklPMVZMTnVyUnZqQU0wQmlCeXJpTHRJZ2F4SWtZVGlCYjFfcmdTZWFqRWhNODVTdXAxbFp4RW1qYVJ6a0xNcXpsSFlKbl9QNVY5QkxmdWJfZm50UllEMA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b69fcc85fb53",
-      "title": "COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂",
-      "published": "2026-08-17T03:16:20+00:00",
-      "sources": [
-        {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aMFdWR1pLcGdhZW1CNkNMa3BuV1hCWkhOTTBEOGYxS0ZRTGdyOE9ScFJhQm9xWmR6MHNPZFNSWHYyOXludWJFc2FLSUpTM3h4ZGJhN212TWVMQlZiTkEtQlBjT0loWEJ1NjdYTEJR?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPYktBTWpIY05PVHp6Vkp3Y1RZcjJYdDR1ai15SHZEaXh4N3hxS3NtZ3hqRVN4ZEk4d1JZUngzT21vc3JNS3NwZml0WVVaZGg0RHRVWVpUd1ZOcE5SeWo5MmNoRmxua3Ewd3BIOElDb3pHUmt3bUgyMHcwY3J3VkJyQTVzaGM1cFFTVGg0SlN6RWQ2b1JsNVNLYjN2alZ3WWxNRXk4Y1F2c2VBUjJBZlNmSEpQS0tXOTUyRTd1QVZoY3VkR2htY3VLbTJldlJHdWRlM216WFZvQW5QOVIxbTRmNWxOUE4yQXhPQzMtT3JFemdrNFdtM1FnRzBvTnVxS3R5N3ZOTnNQc0wtMVJvQ1IwWW1JcncwbzlXZURfWjJIQmNhTm1aOGN2Y1VNWHA4N0hnaHdGZlo2T3ZUcGFpeUVtSFcxaUdJalFiTG16NS1LVE1zekpneUx5d2pfc1dZdGhTbkowUDJMWDBRX2x2dHVCTEozaVd0MnJWZUhlVUg0MzF6QjluajYtT3RIdFl1dVg1THEydWxFeW1lWm1o?oc=5"
         }
       ],
       "keywords": [

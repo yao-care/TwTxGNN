@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-19T03:38:18.829144+00:00",
-  "total_count": 31,
-  "matched_count": 10,
+  "last_updated": "2026-08-19T04:27:37.970040+00:00",
+  "total_count": 25,
+  "matched_count": 8,
   "news": [
     {
       "id": "3bbbfdfb26e7",
@@ -12,19 +12,6 @@
         {
           "name": "香港商报",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHbkFpVmFxcjctUGI5UDFwVFJfOWdzMUVIemZGYy1FMjlTRVY3aE9ScE5JREg5MHhDRmlKbFhncGFYZXNtV1Y3TGlyYktLdklKSXV6SmttMFdrRFRINkxPUGxYM1FqRURkc3NiQXdEYko2UVBYR3Y1N0hLZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a609e26a36af",
-      "title": "滿市理工引領全國作好應對疫情準備-华侨网",
-      "published": "2026-08-19T01:22:15+00:00",
-      "summary": "滿市理工引領全國作好應對疫情準備-华侨网&nbsp;&nbsp;華僑時報",
-      "sources": [
-        {
-          "name": "華僑時報",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qbDZ5cXZ1WnBBcXdxbUNaN1hSMW9tVnlIZGpzdEZFQktRZlkwcHpzenBFbkI2TlNSbVIwT1pYZkx3dnU1d251cGk0SGVTRUgzbEdUME05VTY?oc=5"
         }
       ],
       "matched_keywords": []
@@ -43,13 +30,26 @@
       "matched_keywords": []
     },
     {
-      "id": "79eeb5d25ce2",
-      "title": "美國最常見癌症極易忽視 如何預防",
-      "published": "2026-08-18T14:00:00+00:00",
-      "summary": "美國最常見癌症極易忽視 如何預防&nbsp;&nbsp;singtaousa.com",
+      "id": "45a7761d4531",
+      "title": "罐頭魚竟比新鮮魚更營養？專家推薦這5種魚最值得買",
+      "published": "2026-08-18T17:32:00+00:00",
+      "summary": "罐頭魚竟比新鮮魚更營養？專家推薦這5種魚最值得買&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44VXJ5M1B1bHEtcU80a01oRjZ4ZUY3Q3hoX3R5OWhnTk9TTFI5bVhEY2FzWFEtQTdzLXFoUW9ERzVMUEgzdTlnenFVeWF6Ym85eEVaWmZZYWEwek11M0dXYTVB0gFnQVVfeXFMUHVXVmJEdXFwX25lNXZnRk5jczBWTTZUcHFHUVJrVklUOUVqRk9OdmtESUprZVVjWUpXVG00a0pNQkhaUXRrUWxMdy1UVVJXaUszcHhfZWc3ZUpoQ1FRV1JxWXpxRHhxRQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6823cf83cacd",
+      "title": "美國最常見癌症極易忽視 如何預防",
+      "published": "2026-08-18T14:00:00+00:00",
+      "summary": "美國最常見癌症極易忽視 如何預防&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5"
         }
       ],
@@ -278,19 +278,6 @@
       "matched_keywords": []
     },
     {
-      "id": "b8af091de2cc",
-      "title": "護心補腦抗發炎醫師營養師力推魚罐頭- 醫藥新知- 新聞",
-      "published": "2026-08-18T07:53:02+00:00",
-      "summary": "護心補腦抗發炎醫師營養師力推魚罐頭- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
-      "sources": [
-        {
-          "name": "華人今日網",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GNlNYNTRhdGhEU2c1YllvLWM2ZDA1QzFVd0JYMkxUeF9CWlRWdkNzWG9kTktrbTV6WlprRkZEQnItQ0h3ZUpQak1rQVBxMzJOZTgxazFhQWI1SW9zM3ZheXdVTVVUdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "2936ac8c3bd0",
       "title": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南",
       "published": "2026-08-18T06:44:01+00:00",
@@ -304,14 +291,14 @@
       "matched_keywords": []
     },
     {
-      "id": "610895a9c217",
+      "id": "e44751f56e12",
       "title": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂",
       "published": "2026-08-18T06:38:40+00:00",
-      "summary": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂&nbsp;&nbsp;AM730緬甸仰光爆霍亂疫情 500人腹瀉住院149例確診&nbsp;&nbsp;rti.org.tw緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;ctinews.com緬甸最大城爆霍亂！500人嚴重腹瀉住院 149人快篩陽性 - 國際新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online新聞緬甸仰光爆發霍亂疫情500人腹瀉住院- 國際&nbsp;&nbsp;自由時報",
+      "summary": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂&nbsp;&nbsp;AM730緬甸仰光爆霍亂疫情 500人腹瀉住院149例確診&nbsp;&nbsp;rti.org.tw緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;中天新聞網緬甸最大城爆霍亂！500人嚴重腹瀉住院 149人快篩陽性 - 國際新聞 - PChome Online 新聞&nbsp;&nbsp;news.pchome.com.tw緬甸仰光爆發霍亂疫情500人腹瀉住院- 國際&nbsp;&nbsp;自由時報",
       "sources": [
         {
           "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aMkp6M19qQTFmX2hKWFRjcEt0cDJrc0ExcDItbXNTMXZBcmFPVjFWOURvVTQwbzd5MkpkdldZd09vUERneFJaODNaVzZYbzdZOGc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPRmgySnFqMk1SNW05Q1lxRm80R1B6cXI1Tzk0NU13dFBsbzBld2xpT2lic3Vkam5CYzkwaGp2WWNYa2V2bW1PVHNZUXRXMVZBajN6S0hPYTlGWkgyRkhacXk2YXZqNVVyTFRhU1IzWDRHcG1rQnYxaFpVTVRjWEdOekVJOGJSRHI0eVJMcVZISW9vUVdicGptTUNyX1lTcGYzSGlPZFU2OXN2dF9Ndk1xR2FraVNtNHN4Ujh6Zk4tWVVZS2s5NkRyTXVuQnVMbTNzOHowYkp6LXNCVmtXU3Zwejg0WkRsRnZGUElaWmQ5UVFmbzJBYk0wOEdEd2p3N2dad1RXb0tzZHB6RG5fTUR3LVk3SFFTSmMxUjlLLUFTb0NWQUFxRjhHM01VTHFNaW9KbjQzTHFZVXc1R0RMWHR0UXA0NlN4WU5hVFhTMUt3OA?oc=5"
         }
       ],
       "matched_keywords": [
@@ -337,19 +324,6 @@
         {
           "name": "香港文匯報",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12ZUVwZnN1ZGhvTlVGNTVLUjN6b1hwcTE4aWR2RGhzdTVuZW42eU5nYV9Ya0N3VHVnMzJVbmFpWnZwRDE3dXNXTGxjOUFRQ2ljRW1qZ3VFWmZwLUJWQm4zTGREa2RYMHAyMDEzcTJ2MTE0TXp4QzJN?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8605a9ca5286",
-      "title": "光生物調節反應 (Photobiomodulation, PBM)",
-      "published": "2026-08-18T03:24:38+00:00",
-      "summary": "光生物調節反應 (Photobiomodulation, PBM)&nbsp;&nbsp;mobile01.com",
-      "sources": [
-        {
-          "name": "mobile01.com",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OSk9CdnhZbDlwRlZFSjcxeUdBS1d6WDhQSWNLZUp5Rm42MlU2T01KeGRVYjFTSk9FN2RmYnJvajdHY2RjR1JiNUNaelNFLTV1NGJvcDVmUmdRMVJLalZNV1U4eEVHU2M?oc=5"
         }
       ],
       "matched_keywords": []
@@ -810,65 +784,27 @@
       ]
     },
     {
-      "id": "b66fd300728a",
-      "title": "健康網》腎友血鉀高別怕吃菜！ 營養師教3招去鉀 | 自由電子報 - LINE TODAY",
-      "published": "2026-08-17T23:04:33+00:00",
-      "summary": "健康網》腎友血鉀高別怕吃菜！ 營養師教3招去鉀 | 自由電子報&nbsp;&nbsp;LINE TODAY",
+      "id": "c42bc1f04543",
+      "title": "健康網》腎友血鉀高別怕吃菜！ 營養師教3招去鉀",
+      "published": "2026-08-17T22:24:00+00:00",
+      "summary": "健康網》腎友血鉀高別怕吃菜！ 營養師教3招去鉀&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoZjN2WUE2TmRldmpQcC14Q09USGN0NG1DOEhNM1pQcGl0SkEySXFxcW5pZF8wbTMxNEl2NHlPT0l6cGRsZUtBY0E2T0VXS2JPeWVtUmhn?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMazFWaHk2dnZ1MnlKNEpnOGQ1U3YxQzNyWHBsOWR5MHBpX3U1c0RnQlcwbUs0Wld2d1VBZWpmU05GWnB0dHg1cEtKV0RJSjYtZmhpTmxQbjF4aFR2Y3hNM2g5cXc?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "533b9d0a5e5a",
-      "title": "您目前的飲食運動習慣，會影響攝護腺癌風險嗎？",
-      "published": "2026-08-17T16:01:26+00:00",
-      "summary": "您目前的飲食運動習慣，會影響攝護腺癌風險嗎？&nbsp;&nbsp;careonline.com.tw",
-      "sources": [
-        {
-          "name": "careonline.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yZk5nU1FzbHRCeTZzanRUWjA0QTVhWmI2TG1DUDBESlViNmVZZUNRN0xPRGxad1JicW82UXZFUXczNDRjTDc1MG9JSUV3aHhmaVdUbVNyNVFBaDZSYmpRaE9jUFZPdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ed366adc8659",
-      "title": "疫情最快8月中進入流行期，這對社區防疫有何影響？",
-      "published": "2026-08-17T13:22:17+00:00",
-      "summary": "疫情最快8月中進入流行期，這對社區防疫有何影響？&nbsp;&nbsp;CMoney新冠二度感染症狀較輕微？醫示警「3類高風險族群」重症風險恐升高&nbsp;&nbsp;Yahoo新聞新冠好了卻還在咳、累、腦霧？醫師揭3大原因，4類人最易變長新冠&nbsp;&nbsp;康健雜誌不是感冒！多種呼吸道病毒齊發 醫勸「咳嗽超過3週」快就醫 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;news.m.pchome.com.tw",
-      "sources": [
-        {
-          "name": "CMoney",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93emxMRTBpVklIdTF3UDgyalRHNlV1bW9XV0F2WmJQQkp0d0lRc2ZTcThha05hcDJ2M215VjV3WHNJdlVldW8tQzdEZTZNVjRtU3RzVmpFMUNGUmkzRm9MSHZySUZ1anVtYkhUMGg2SGxQQXJaY21wTDlKQQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e7888c97ea55",
-      "title": "胸腔被腫瘤佔滿 深圳醫生為病人搏出呼吸空間與生存希望",
-      "published": "2026-08-17T13:09:11+00:00",
-      "summary": "胸腔被腫瘤佔滿 深圳醫生為病人搏出呼吸空間與生存希望&nbsp;&nbsp;香港商报",
+      "id": "193323cb01d9",
+      "title": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望",
+      "published": "2026-08-17T13:49:54+00:00",
+      "summary": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望&nbsp;&nbsp;香港商报",
       "sources": [
         {
           "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15N21nOGNEOTdCVGdXZ0FiaWxveEhvSXA2THgwdTRYVFhIdERqaWZoQnFRTmNTM1gxQ0lObUVUUFBOaS1ob0VPanR5ZHgxQkhNUFJXM25vLVdEcVo4M1E?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1356,19 +1292,6 @@
       "matched_keywords": []
     },
     {
-      "id": "b0839807a0a3",
-      "title": "#冇乜早餐好食😱 唔係塑化劑，就係防腐劑| U Community 社群平台 - U Lifestyle",
-      "published": "2026-08-17T10:00:35+00:00",
-      "summary": "#冇乜早餐好食😱 唔係塑化劑，就係防腐劑| U Community 社群平台&nbsp;&nbsp;U Lifestyle",
-      "sources": [
-        {
-          "name": "U Lifestyle",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSHZLVTV0cmpaaXlGUUtTNXU1dUZxTkNaQllGb3UwVmxfZDFNdFZ1XzJaMklqMHNmazlkaXBfcXl2UnFBUHNhbm5aeXY1eVBfMW9ZbXJCSWJtZ0g5LXNkOUw2X0xEUUJCaUJXVnE3aGpBYWFVMWJVbExLR2twcl9JNEJnU2s4U0lHcW90U2dKaFBhN0dOeTRLN3NVOHBCblJ5c09EM1lYZU1yU1VpME5ERFo1b0xma0dSOUwxZTNwbVJDRGVmczc3TzRHRTZwc09pNjRTNmcxRUd5ZW5fVDE1dGNIN2tkWGpENDU2RkJ3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "96a6941cf8d0",
       "title": "不只空污！研究揭「交通噪音」也可能與巴金森氏症有關",
       "published": "2026-08-17T07:00:04+00:00",
@@ -1395,63 +1318,14 @@
       "matched_keywords": []
     },
     {
-      "id": "a51343a94107",
-      "title": "法國、瑞士研發智慧胸罩 30分鐘偵測乳癌",
-      "published": "2026-08-17T06:00:00+00:00",
-      "summary": "法國、瑞士研發智慧胸罩 30分鐘偵測乳癌&nbsp;&nbsp;世界新聞網",
+      "id": "bee9d49eefc8",
+      "title": "新冠二度感染症狀較輕微？醫示警「3類高風險族群」重症風險恐升高",
+      "published": "2026-08-17T06:45:09+00:00",
+      "summary": "新冠二度感染症狀較輕微？醫示警「3類高風險族群」重症風險恐升高&nbsp;&nbsp;Yahoo新聞新冠好了卻還在咳、累、腦霧？醫師揭3大原因，4類人最易變長新冠&nbsp;&nbsp;康健雜誌不是感冒！多種呼吸道病毒齊發 醫勸「咳嗽超過3週」快就醫 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;news.m.pchome.com.tw",
       "sources": [
         {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vSjR1bE81bTlYYzlsaTJCT3k5cXV4N2phQWM2Q2g0UUkxVWJLWmlzYmFfbGxsUmx0dVluamF3dmF5MTU0YjlJckNQaW5FSndiYlJaR3lRQnh3MWxiY2s1M2t30gFnQVVfeXFMTUVIVjlOZzJmcklPMVZMTnVyUnZqQU0wQmlCeXJpTHRJZ2F4SWtZVGlCYjFfcmdTZWFqRWhNODVTdXAxbFp4RW1qYVJ6a0xNcXpsSFlKbl9QNVY5QkxmdWJfZm50UllEMA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b69fcc85fb53",
-      "title": "COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂",
-      "published": "2026-08-17T03:16:20+00:00",
-      "summary": "COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂&nbsp;&nbsp;ELLE",
-      "sources": [
-        {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aMFdWR1pLcGdhZW1CNkNMa3BuV1hCWkhOTTBEOGYxS0ZRTGdyOE9ScFJhQm9xWmR6MHNPZFNSWHYyOXludWJFc2FLSUpTM3h4ZGJhN212TWVMQlZiTkEtQlBjT0loWEJ1NjdYTEJR?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPYktBTWpIY05PVHp6Vkp3Y1RZcjJYdDR1ai15SHZEaXh4N3hxS3NtZ3hqRVN4ZEk4d1JZUngzT21vc3JNS3NwZml0WVVaZGg0RHRVWVpUd1ZOcE5SeWo5MmNoRmxua3Ewd3BIOElDb3pHUmt3bUgyMHcwY3J3VkJyQTVzaGM1cFFTVGg0SlN6RWQ2b1JsNVNLYjN2alZ3WWxNRXk4Y1F2c2VBUjJBZlNmSEpQS0tXOTUyRTd1QVZoY3VkR2htY3VLbTJldlJHdWRlM216WFZvQW5QOVIxbTRmNWxOUE4yQXhPQzMtT3JFemdrNFdtM1FnRzBvTnVxS3R5N3ZOTnNQc0wtMVJvQ1IwWW1JcncwbzlXZURfWjJIQmNhTm1aOGN2Y1VNWHA4N0hnaHdGZlo2T3ZUcGFpeUVtSFcxaUdJalFiTG16NS1LVE1zekpneUx5d2pfc1dZdGhTbkowUDJMWDBRX2x2dHVCTEozaVd0MnJWZUhlVUg0MzF6QjluajYtT3RIdFl1dVg1THEydWxFeW1lWm1o?oc=5"
         }
       ],
       "matched_keywords": [
