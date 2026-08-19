@@ -1,17 +1,17 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-19T15:21:15.980312+00:00",
+  "fetched_at": "2026-08-19T16:19:43.175180+00:00",
   "count": 25,
   "news": [
     {
-      "id": "de6fe8d1cab6",
-      "title": "洪詩曝愛女高燒飆40度！　查不出病因超懊惱：到底是什麼？ - ETtoday星光雲",
-      "published": "2026-08-19T13:45:00+00:00",
-      "summary": "洪詩曝愛女高燒飆40度！ 查不出病因超懊惱：到底是什麼？&nbsp;&nbsp;ETtoday星光雲",
+      "id": "98ab10df7d56",
+      "title": "洪詩愛女反覆高燒40度！「驗4種病毒全陰性」找不到病因超崩潰- 華人星光 - 中時新聞網",
+      "published": "2026-08-19T15:16:47+00:00",
+      "summary": "洪詩愛女反覆高燒40度！「驗4種病毒全陰性」找不到病因超崩潰- 華人星光&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "ETtoday星光雲",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWSVNyNTRSZ1QtbjhJZ29QQVhvN1hfWE1vS1BtRUtiZXdsd1JPLW5NZk1sYTJKWkpNNUdZblVBRXo1UmE2MVlneTRrUGlSUdIBTEFVX3lxTE9wRWVSeU1rRG9kclpQYVZQWEdRakJ6LTh1Q0tSaTZ4aEpxMnhNZ25tQWVNUlNpVHVDaEV3UWVoRTRIVG5QUkpfODlwT2c?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oUjJ4SnVmNTZyRm5RX01Sc05iT0dTWVJ1eUhjb2tKUDFoVDdfeldPTUp5dlhDOXpGNno4MkFRQ0ZRQTRNMGctTUU2VnZ5M2EtMEl1MUFtNHNxTGRsZzhJb1NPd1U2dnhQSWtUMFN3?oc=5"
         }
       ]
     },
@@ -52,18 +52,6 @@
       ]
     },
     {
-      "id": "a078bd1846ab",
-      "title": "預防開學季病毒大爆發 3大發燒魔王家長要注意！ - 東森新聞",
-      "published": "2026-08-19T09:52:00+00:00",
-      "summary": "預防開學季病毒大爆發 3大發燒魔王家長要注意！&nbsp;&nbsp;東森新聞",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NT1JvQkRrR3A5MENYcTVLSDQtTHRDZUEwbXY3V0VLWllQNEl4MlpaVXQ5akN3bjdOX0NTcWR3RzJVV3VVOHZCYTQtMm1BaExxSHpvTg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e66952d81237",
       "title": "想健康活到80、90歲怎麼吃？醫師追蹤長壽族群：29種食物反覆出現在餐桌上 - Cosmopolitan",
       "published": "2026-08-19T10:35:28+00:00",
@@ -72,6 +60,18 @@
         {
           "name": "Cosmopolitan",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS3FvbnVRZ1JDbG5ZSVlwd0llVjVlRG1aaW5Zb1ZNYk9idXBCajhhWnBtd05SYWdva1Z6VlBoVlM4TlZMTVdQNG5WUG0wS0dYa3FjMTlUTE1aMTQ3eVYxZzhaT05jcm15UDZ5enpTX1RJUUFIbjFCd0IwdC05aWExcjBfVjZyMnhqc2NSWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eb71afd9d607",
+      "title": "家長注意！預防開學季病毒大爆發 醫揭3大發燒魔王 - 東森新聞",
+      "published": "2026-08-19T06:10:00+00:00",
+      "summary": "家長注意！預防開學季病毒大爆發 醫揭3大發燒魔王&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NT1JvQkRrR3A5MENYcTVLSDQtTHRDZUEwbXY3V0VLWllQNEl4MlpaVXQ5akN3bjdOX0NTcWR3RzJVV3VVOHZCYTQtMm1BaExxSHpvTg?oc=5"
         }
       ]
     },
@@ -124,14 +124,14 @@
       ]
     },
     {
-      "id": "2936ac8c3bd0",
-      "title": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南 - 三立新聞",
-      "published": "2026-08-18T06:44:01+00:00",
-      "summary": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南&nbsp;&nbsp;三立新聞",
+      "id": "77df563120e7",
+      "title": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南 - 民視新聞網",
+      "published": "2026-08-18T22:00:00+00:00",
+      "summary": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NbTdqSG45UXRBazNIWVJCVEdCbXpZeUlHLWtpZ3MwaDd0MnNBZWEzQVQtbDV6c1V3Y3FmOG9iRmloakFCcDJuNGlXMlY?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rdW5SSjdJci1iZ0YtMGY3N2VsV2FOWUhieWxlNUlFeWdIbnktTnJPRFJJUE5MeUoydzhmeDRxVDQ3UmVId0ZIVnhTWElJYVdrajZfZmxRRWxEYmQweTRVdw?oc=5"
         }
       ]
     },
@@ -139,7 +139,7 @@
       "id": "e44751f56e12",
       "title": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂 - AM730",
       "published": "2026-08-18T06:38:40+00:00",
-      "summary": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂&nbsp;&nbsp;AM730緬甸仰光爆霍亂疫情 500人腹瀉住院149例確診&nbsp;&nbsp;rti.org.tw緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;中天新聞網緬甸最大城爆霍亂！500人嚴重腹瀉住院 149人快篩陽性 - 國際新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞緬甸仰光爆發霍亂疫情500人腹瀉住院- 國際&nbsp;&nbsp;自由時報",
+      "summary": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂&nbsp;&nbsp;AM730緬甸仰光爆霍亂疫情 500人腹瀉住院149例確診&nbsp;&nbsp;rti.org.tw緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;中天新聞網緬甸最大城爆霍亂！500人嚴重腹瀉住院 149人快篩陽性 - 國際新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online新聞緬甸仰光爆發霍亂疫情500人腹瀉住院- 國際&nbsp;&nbsp;news.ltn.com.tw",
       "sources": [
         {
           "name": "AM730",
