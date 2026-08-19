@@ -44,19 +44,19 @@ permalink: /news/metoprolol/
 
 ## 相關新聞（6 則）
 
+### [中年3件事沒顧好55歲後少12.6年沒失智時光- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1HczhVdzNlajFaRTBNOFBmQU9GaWpiYmJtc1E0NVBPRTFVRnExWlQwX3g5V2FWWEJEbGk0WWxiaG52Mll3bUw0bkszbjhvRTNwZ0hLY29jem1kTm1XNHV3a0YzVE5uZ1JiN1ZfZkZ3?oc=5)
+
+2026-08-19 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">高血壓</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1HczhVdzNlajFaRTBNOFBmQU9GaWpiYmJtc1E0NVBPRTFVRnExWlQwX3g5V2FWWEJEbGk0WWxiaG52Mll3bUw0bkszbjhvRTNwZ0hLY29jem1kTm1XNHV3a0YzVE5uZ1JiN1ZfZkZ3?oc=5)
+
+---
+
 ### [逼癌細胞狂吃糖再斷脂肪！ 美頂尖研究設「雙重陷阱」滅腫瘤](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfRlpZN2RYZHYxbUlqRG5vbjBORExGMlA5a0NZaVlFMlU0VG91R1R1bUVRMTVRX1kzVVptb3o5WnR1U1BWZm5kWS1SeUNfY3JOV0hBZDgwTzRVMXRocmgwVFlkeVg?oc=5)
 
 2026-08-19 <span class="news-indication-tag">腫瘤</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfRlpZN2RYZHYxbUlqRG5vbjBORExGMlA5a0NZaVlFMlU0VG91R1R1bUVRMTVRX1kzVVptb3o5WnR1U1BWZm5kWS1SeUNfY3JOV0hBZDgwTzRVMXRocmgwVFlkeVg?oc=5)
-
----
-
-### [想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦](https://news.google.com/rss/articles/CBMizAJBVV95cUxOdGpVRjFGU1VOUWFSQlVXZmR0NkV4azQ5Wmc0cnUzb2JPS3BhM0lNckFPLVg2S3E1Y282TFhrdFdObmQ3U2xUSU9xcjJkSE5ENUpuTVh0NlE1VTh5U0NlYjZHU3RUYjM0TEd3bWQxRnktc0txVmJxMlBMQ0gyeE01TWxsdExpRDVjd0t0VmNkdzM5dFJxcGJHRWtXd1Z4cnYxYzRCaFo4eHhvV25wOHc0Y0hDVF9oTUJqVU9NVEJhZndpYjYxeFU0cUhWX0JOcXNTcE83ZTU4My1oX1B1YnJlbzM2NmlkdXZFbldpelhjS3pNb1FhQy1kRGZSWEpaeFNTTnlSaUhfOVRFdGpjSlFEN3FiMEYtME9ZVF9QaFJpVDlmSmpNMzltdU9TY2ZrREJFWUxKNUdIY1NieE5HQkhPWU1wUW5IcEI1dTdqbg?oc=5)
-
-2026-08-19 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">高血壓</span>
-
-來源：[tw.news.yahoo.com](https://news.google.com/rss/articles/CBMizAJBVV95cUxOdGpVRjFGU1VOUWFSQlVXZmR0NkV4azQ5Wmc0cnUzb2JPS3BhM0lNckFPLVg2S3E1Y282TFhrdFdObmQ3U2xUSU9xcjJkSE5ENUpuTVh0NlE1VTh5U0NlYjZHU3RUYjM0TEd3bWQxRnktc0txVmJxMlBMQ0gyeE01TWxsdExpRDVjd0t0VmNkdzM5dFJxcGJHRWtXd1Z4cnYxYzRCaFo4eHhvV25wOHc0Y0hDVF9oTUJqVU9NVEJhZndpYjYxeFU0cUhWX0JOcXNTcE83ZTU4My1oX1B1YnJlbzM2NmlkdXZFbldpelhjS3pNb1FhQy1kRGZSWEpaeFNTTnlSaUhfOVRFdGpjSlFEN3FiMEYtME9ZVF9QaFJpVDlmSmpNMzltdU9TY2ZrREJFWUxKNUdIY1NieE5HQkhPWU1wUW5IcEI1dTdqbg?oc=5)
 
 ---
 
@@ -68,11 +68,11 @@ permalink: /news/metoprolol/
 
 ---
 
-### [腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵 - TechNews 科技新報](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjhDaDU5ZHhCZnRycTdYR1o5RzA5Y21WY0s2YnZfMjdvZVVPZ0FkeDQ5bnJJZ1ZjbmtIN3RaUFU0LVBwWGNFbDJlZFZCeVJDZ1JHS2M3TzVhWFd2ZFYyVHhKRXgxYjVaMEpnejFPejNrTlRFVHpMREdjYm5pNzluMVJxSWV2YVE?oc=5)
+### [腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjhDaDU5ZHhCZnRycTdYR1o5RzA5Y21WY0s2YnZfMjdvZVVPZ0FkeDQ5bnJJZ1ZjbmtIN3RaUFU0LVBwWGNFbDJlZFZCeVJDZ1JHS2M3TzVhWFd2ZFYyVHhKRXgxYjVaMEpnejFPejNrTlRFVHpMREdjYm5pNzluMVJxSWV2YVE?oc=5)
 
 2026-08-18 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjhDaDU5ZHhCZnRycTdYR1o5RzA5Y21WY0s2YnZfMjdvZVVPZ0FkeDQ5bnJJZ1ZjbmtIN3RaUFU0LVBwWGNFbDJlZFZCeVJDZ1JHS2M3TzVhWFd2ZFYyVHhKRXgxYjVaMEpnejFPejNrTlRFVHpMREdjYm5pNzluMVJxSWV2YVE?oc=5)
+來源：[technews.tw](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjhDaDU5ZHhCZnRycTdYR1o5RzA5Y21WY0s2YnZfMjdvZVVPZ0FkeDQ5bnJJZ1ZjbmtIN3RaUFU0LVBwWGNFbDJlZFZCeVJDZ1JHS2M3TzVhWFd2ZFYyVHhKRXgxYjVaMEpnejFPejNrTlRFVHpMREdjYm5pNzluMVJxSWV2YVE?oc=5)
 
 ---
 
@@ -80,7 +80,7 @@ permalink: /news/metoprolol/
 
 2026-08-17 <span class="news-indication-tag">腫瘤</span>
 
-來源：[香港商报](https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5)
+來源：[hkcd.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5)
 
 ---
 

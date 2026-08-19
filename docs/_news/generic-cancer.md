@@ -93,11 +93,11 @@ permalink: /news/generic-cancer/
 
 ---
 
-### [腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵 - TechNews 科技新報](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjhDaDU5ZHhCZnRycTdYR1o5RzA5Y21WY0s2YnZfMjdvZVVPZ0FkeDQ5bnJJZ1ZjbmtIN3RaUFU0LVBwWGNFbDJlZFZCeVJDZ1JHS2M3TzVhWFd2ZFYyVHhKRXgxYjVaMEpnejFPejNrTlRFVHpMREdjYm5pNzluMVJxSWV2YVE?oc=5)
+### [腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjhDaDU5ZHhCZnRycTdYR1o5RzA5Y21WY0s2YnZfMjdvZVVPZ0FkeDQ5bnJJZ1ZjbmtIN3RaUFU0LVBwWGNFbDJlZFZCeVJDZ1JHS2M3TzVhWFd2ZFYyVHhKRXgxYjVaMEpnejFPejNrTlRFVHpMREdjYm5pNzluMVJxSWV2YVE?oc=5)
 
 2026-08-18
 
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjhDaDU5ZHhCZnRycTdYR1o5RzA5Y21WY0s2YnZfMjdvZVVPZ0FkeDQ5bnJJZ1ZjbmtIN3RaUFU0LVBwWGNFbDJlZFZCeVJDZ1JHS2M3TzVhWFd2ZFYyVHhKRXgxYjVaMEpnejFPejNrTlRFVHpMREdjYm5pNzluMVJxSWV2YVE?oc=5)
+來源：[technews.tw](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjhDaDU5ZHhCZnRycTdYR1o5RzA5Y21WY0s2YnZfMjdvZVVPZ0FkeDQ5bnJJZ1ZjbmtIN3RaUFU0LVBwWGNFbDJlZFZCeVJDZ1JHS2M3TzVhWFd2ZFYyVHhKRXgxYjVaMEpnejFPejNrTlRFVHpMREdjYm5pNzluMVJxSWV2YVE?oc=5)
 
 ---
 
@@ -105,7 +105,7 @@ permalink: /news/generic-cancer/
 
 2026-08-17
 
-來源：[香港商报](https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5)
+來源：[hkcd.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5)
 
 ---
 
