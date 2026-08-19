@@ -48,7 +48,7 @@ permalink: /news/acebutolol/
 
 2026-08-19 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">高血壓</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMizAJBVV95cUxOdGpVRjFGU1VOUWFSQlVXZmR0NkV4azQ5Wmc0cnUzb2JPS3BhM0lNckFPLVg2S3E1Y282TFhrdFdObmQ3U2xUSU9xcjJkSE5ENUpuTVh0NlE1VTh5U0NlYjZHU3RUYjM0TEd3bWQxRnktc0txVmJxMlBMQ0gyeE01TWxsdExpRDVjd0t0VmNkdzM5dFJxcGJHRWtXd1Z4cnYxYzRCaFo4eHhvV25wOHc0Y0hDVF9oTUJqVU9NVEJhZndpYjYxeFU0cUhWX0JOcXNTcE83ZTU4My1oX1B1YnJlbzM2NmlkdXZFbldpelhjS3pNb1FhQy1kRGZSWEpaeFNTTnlSaUhfOVRFdGpjSlFEN3FiMEYtME9ZVF9QaFJpVDlmSmpNMzltdU9TY2ZrREJFWUxKNUdIY1NieE5HQkhPWU1wUW5IcEI1dTdqbg?oc=5)
+來源：[tw.news.yahoo.com](https://news.google.com/rss/articles/CBMizAJBVV95cUxOdGpVRjFGU1VOUWFSQlVXZmR0NkV4azQ5Wmc0cnUzb2JPS3BhM0lNckFPLVg2S3E1Y282TFhrdFdObmQ3U2xUSU9xcjJkSE5ENUpuTVh0NlE1VTh5U0NlYjZHU3RUYjM0TEd3bWQxRnktc0txVmJxMlBMQ0gyeE01TWxsdExpRDVjd0t0VmNkdzM5dFJxcGJHRWtXd1Z4cnYxYzRCaFo4eHhvV25wOHc0Y0hDVF9oTUJqVU9NVEJhZndpYjYxeFU0cUhWX0JOcXNTcE83ZTU4My1oX1B1YnJlbzM2NmlkdXZFbldpelhjS3pNb1FhQy1kRGZSWEpaeFNTTnlSaUhfOVRFdGpjSlFEN3FiMEYtME9ZVF9QaFJpVDlmSmpNMzltdU9TY2ZrREJFWUxKNUdIY1NieE5HQkhPWU1wUW5IcEI1dTdqbg?oc=5)
 
 ---
 
@@ -56,7 +56,7 @@ permalink: /news/acebutolol/
 
 2026-08-18 <span class="news-indication-tag">癌症</span>
 
-來源：[singtaousa.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5)
+來源：[Singtaousa](https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5)
 
 ---
 
@@ -72,7 +72,7 @@ permalink: /news/acebutolol/
 
 2026-08-17 <span class="news-indication-tag">腫瘤</span>
 
-來源：[hkcd.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5)
+來源：[香港商报](https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5)
 
 ---
 

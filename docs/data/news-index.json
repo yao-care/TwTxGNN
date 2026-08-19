@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-19T07:30:20.130955+00:00",
-  "count": 9,
+  "generated": "2026-08-19T08:25:10.225995+00:00",
+  "count": 10,
   "news": [
     {
       "id": "5000e1cc265e",
@@ -211,12 +211,59 @@
       ]
     },
     {
-      "id": "bdb23e033e49",
+      "id": "e30f912b52ae",
+      "title": "健康科普丨結直腸癌高發，中醫如何“未病先防”？",
+      "published": "2026-08-19T05:37:00+00:00",
+      "sources": [
+        {
+          "name": "人民网-上海频道",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZSlNvZWJpbDlGTGhOc1BBSVdUd1huancyQW15UllJYmhQVGRzd1N0c3RuYXh5MDFBa05ScjVCSGJtcjRhSTA2ejNkRmVzWU5CeE0yOGthbHJEWUlycHFhckpzTElJWG1nUzQyS1BSTmE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "直腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c11746881cc7",
       "title": "想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦",
       "published": "2026-08-19T02:57:13+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOdGpVRjFGU1VOUWFSQlVXZmR0NkV4azQ5Wmc0cnUzb2JPS3BhM0lNckFPLVg2S3E1Y282TFhrdFdObmQ3U2xUSU9xcjJkSE5ENUpuTVh0NlE1VTh5U0NlYjZHU3RUYjM0TEd3bWQxRnktc0txVmJxMlBMQ0gyeE01TWxsdExpRDVjd0t0VmNkdzM5dFJxcGJHRWtXd1Z4cnYxYzRCaFo4eHhvV25wOHc0Y0hDVF9oTUJqVU9NVEJhZndpYjYxeFU0cUhWX0JOcXNTcE83ZTU4My1oX1B1YnJlbzM2NmlkdXZFbldpelhjS3pNb1FhQy1kRGZSWEpaeFNTTnlSaUhfOVRFdGpjSlFEN3FiMEYtME9ZVF9QaFJpVDlmSmpNMzltdU9TY2ZrREJFWUxKNUdIY1NieE5HQkhPWU1wUW5IcEI1dTdqbg?oc=5"
         }
       ],
@@ -250,12 +297,12 @@
       ]
     },
     {
-      "id": "79eeb5d25ce2",
+      "id": "6823cf83cacd",
       "title": "美國最常見癌症極易忽視 如何預防",
       "published": "2026-08-18T14:00:00+00:00",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5"
         }
       ],
@@ -458,12 +505,12 @@
       ]
     },
     {
-      "id": "d86691b553fb",
+      "id": "e44751f56e12",
       "title": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂",
       "published": "2026-08-18T06:38:40+00:00",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPRmgySnFqMk1SNW05Q1lxRm80R1B6cXI1Tzk0NU13dFBsbzBld2xpT2lic3Vkam5CYzkwaGp2WWNYa2V2bW1PVHNZUXRXMVZBajN6S0hPYTlGWkgyRkhacXk2YXZqNVVyTFRhU1IzWDRHcG1rQnYxaFpVTVRjWEdOekVJOGJSRHI0eVJMcVZISW9vUVdicGptTUNyX1lTcGYzSGlPZFU2OXN2dF9Ndk1xR2FraVNtNHN4Ujh6Zk4tWVVZS2s5NkRyTXVuQnVMbTNzOHowYkp6LXNCVmtXU3Zwejg0WkRsRnZGUElaWmQ5UVFmbzJBYk0wOEdEd2p3N2dad1RXb0tzZHB6RG5fTUR3LVk3SFFTSmMxUjlLLUFTb0NWQUFxRjhHM01VTHFNaW9KbjQzTHFZVXc1R0RMWHR0UXA0NlN4WU5hVFhTMUt3OA?oc=5"
         }
       ],
@@ -909,12 +956,12 @@
       ]
     },
     {
-      "id": "8451f44a73af",
+      "id": "193323cb01d9",
       "title": "胸腔被腫瘤占滿 深圳醫生為病人搏出呼吸空間與生存希望",
       "published": "2026-08-17T13:49:54+00:00",
       "sources": [
         {
-          "name": "hkcd.com",
+          "name": "香港商报",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbHNuekY0Q1p3S1NGYW1lbGg0ekpYcmVwZl9ZWThnZV9rWDdKQ2NWYXJ5RHVDUmZaUzc0QUJyTHV2bzlPSldMVGRRUktEZ1BTNU1uaXIwUTUwbjZpMFFZdXl5Z0tzV1Z3WGY4?oc=5"
         }
       ],
@@ -1327,7 +1374,7 @@
     {
       "id": "e0ae93c9294e",
       "title": "活到90歲以上就能免疫失智？頂尖醫學研究揭真相：女性風險是男性2倍！ - TVBS 健康2.0",
-      "published": "2026-08-17T10:49:04+00:00",
+      "published": "2026-08-17T10:20:00+00:00",
       "sources": [
         {
           "name": "TVBS 健康2.0",
