@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-20T16:23:08.411847+00:00",
-  "total_count": 23,
+  "last_updated": "2026-08-20T17:19:42.735094+00:00",
+  "total_count": 24,
   "matched_count": 5,
   "news": [
     {
@@ -56,6 +56,19 @@
       "matched_keywords": []
     },
     {
+      "id": "b9bd65040ec1",
+      "title": "美國幼兒園疫苗接種率續降 麻疹病例恐再攀升 - Taiwan News",
+      "published": "2026-08-20T09:12:00+00:00",
+      "summary": "美國幼兒園疫苗接種率續降 麻疹病例恐再攀升&nbsp;&nbsp;Taiwan News",
+      "sources": [
+        {
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRQWJ5LXFBNVhTbzF6QjlHeFVZdHN6NEhUeE1DdUZMQVd2bGdBZm4tRGhYamZJWjdDaFVuSThRX3dDZjRTZTdVdXVVWVJCbXIxTGZfWnJ3MTM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "442e2609c700",
       "title": "健康網》流感疫苗記得年年接種 醫：維持保護力",
       "published": "2026-08-20T08:44:00+00:00",
@@ -72,7 +85,7 @@
       "id": "800cc4878527",
       "title": "麻疹｜秀茂坪35歲女確診麻疹 近200人列密切接觸者【附麻疹病徵及預防方法】",
       "published": "2026-08-20T08:30:02+00:00",
-      "summary": "麻疹｜秀茂坪35歲女確診麻疹 近200人列密切接觸者【附麻疹病徵及預防方法】&nbsp;&nbsp;香港經濟日報HKET麻疹｜秀茂坪35歲女確診麻疹 傅染力極高 即睇典型症狀與自保方法&nbsp;&nbsp;香港01女子感染麻疹198人列密切接觸者 患者非本港出生目前情況穩定&nbsp;&nbsp;香港電台新聞網傳染病警戒｜香港爆麻疹！曾赴聯合醫院 近200人列密切接觸 即睇病徵&nbsp;&nbsp;UHK 港生活麻疹｜35歲女子今確診 曾到聯合醫院求醫 198人列密切接觸者&nbsp;&nbsp;singtao.ca",
+      "summary": "麻疹｜秀茂坪35歲女確診麻疹 近200人列密切接觸者【附麻疹病徵及預防方法】&nbsp;&nbsp;香港經濟日報HKET麻疹｜秀茂坪35歲女確診麻疹 傅染力極高 即睇典型症狀與自保方法&nbsp;&nbsp;香港01女子感染麻疹198人列密切接觸者 患者非本港出生目前情況穩定&nbsp;&nbsp;香港電台新聞網傳染病警戒｜香港爆麻疹！曾赴聯合醫院 近200人列密切接觸 即睇病徵&nbsp;&nbsp;UHK 港生活香港錄今年第9宗麻疹個案 198人列密切接觸者&nbsp;&nbsp;hkcna.hk",
       "sources": [
         {
           "name": "香港經濟日報HKET",
