@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-20T20:17:53.463274+00:00",
-  "count": 23,
+  "fetched_at": "2026-08-20T21:18:57.045486+00:00",
+  "count": 24,
   "news": [
     {
       "id": "8c0977a37770",
@@ -136,6 +136,18 @@
       ]
     },
     {
+      "id": "a69171d83857",
+      "title": "50歲以下罹癌率狂飆8成！醫示警：異常出血速就醫 - Yahoo新聞",
+      "published": "2026-08-19T08:08:02+00:00",
+      "summary": "50歲以下罹癌率狂飆8成！醫示警：異常出血速就醫&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQZFpFZGotVTJ5aU5EU2o4d2pLLWhWeDlrQXAxdVktbENfOHhDZmtUc3A1b2pmTXZHNGxNbG42R1hRY21nRUxINjZ0RmFyQUVKN0Nld243Z2ZiVzlUa01IcGFCNkhJRVNtTk5JZnRnQTg5dE1vNVlKOU5QRHFCbEFPNGdabjFUcHA2bWcwTk52anBmaHMzZ1BfNXUtNEZHY2hFVnV2M2dENWJKejM4X3l6Ti1kdml6TE1xRzRLTEIzVkFnNnhTTk9nLVZpaTNXcTMzUUJJOGQtbWhVRTlNbFh2SG96ZkdQV3YyeWt4V1RUeWM0RjEyMXpJUjlMLWptbnB6WEkxN0V2aFRlMEh4TGozU21YeThZejJHaEx4RGNhVE1LdlFFY3Ewcl9heU1IY2xTM2ZvSy1sT3pUZVM1Zmc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a03716c52d85",
       "title": "緬甸仰光爆霍亂疫情！500人嚴重腹瀉住院 近150人快篩陽性 - TVBS新聞網",
       "published": "2026-08-19T06:16:00+00:00",
@@ -175,7 +187,7 @@
       "id": "894adb2e14f0",
       "title": "中年3件事沒顧好55歲後少12.6年沒失智時光- 健康 - 中時新聞網",
       "published": "2026-08-19T06:47:40+00:00",
-      "summary": "中年3件事沒顧好55歲後少12.6年沒失智時光- 健康&nbsp;&nbsp;中時新聞網想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦&nbsp;&nbsp;Yahoo新聞大腦老得慢，中年就要開始！研究揭2件事與晚年認知衰退較慢有關&nbsp;&nbsp;元氣網避免糖尿病高血壓吸菸 可延遲失智近13年&nbsp;&nbsp;大纪元不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online新聞",
+      "summary": "中年3件事沒顧好55歲後少12.6年沒失智時光- 健康&nbsp;&nbsp;中時新聞網想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦&nbsp;&nbsp;Yahoo新聞大腦老得慢，中年就要開始！研究揭2件事與晚年認知衰退較慢有關&nbsp;&nbsp;元氣網避免糖尿病高血壓吸菸 可延遲失智近13年&nbsp;&nbsp;大纪元不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "中時新聞網",
@@ -208,10 +220,10 @@
       ]
     },
     {
-      "id": "28ca4c16fd8f",
-      "title": "密歇根5年來首例人感染東部馬腦炎 死亡率30% - 大纪元",
-      "published": "2026-08-19T08:56:21+00:00",
-      "summary": "密歇根5年來首例人感染東部馬腦炎 死亡率30%&nbsp;&nbsp;大纪元",
+      "id": "4ee2e814ca34",
+      "title": "密歇根州現致命東部馬腦炎病例 為5年來首例 - 大纪元",
+      "published": "2026-08-20T04:30:00+00:00",
+      "summary": "密歇根州現致命東部馬腦炎病例 為5年來首例&nbsp;&nbsp;大纪元",
       "sources": [
         {
           "name": "大纪元",
