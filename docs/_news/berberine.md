@@ -44,6 +44,14 @@ permalink: /news/berberine/
 
 ## 相關新聞（4 則）
 
+### [緬甸仰光爆霍亂疫情！500人嚴重腹瀉住院 近150人快篩陽性](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XS2RrNkIxRUFOa0N0TzRTRHBUSk54SHBJSFBzZkhGVTFfeXZpZnc5cHZGWHJsbmJiWXlvZWhSejk3WmRIbTB2QUdDSTBPdGM?oc=5)
+
+2026-08-19 <span class="news-indication-tag">腹瀉</span>
+
+來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XS2RrNkIxRUFOa0N0TzRTRHBUSk54SHBJSFBzZkhGVTFfeXZpZnc5cHZGWHJsbmJiWXlvZWhSejk3WmRIbTB2QUdDSTBPdGM?oc=5)
+
+---
+
 ### [逼癌細胞狂吃糖再斷脂肪！ 美頂尖研究設「雙重陷阱」滅腫瘤](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfRlpZN2RYZHYxbUlqRG5vbjBORExGMlA5a0NZaVlFMlU0VG91R1R1bUVRMTVRX1kzVVptb3o5WnR1U1BWZm5kWS1SeUNfY3JOV0hBZDgwTzRVMXRocmgwVFlkeVg?oc=5)
 
 2026-08-19 <span class="news-indication-tag">腫瘤</span>
@@ -65,14 +73,6 @@ permalink: /news/berberine/
 2026-08-18 <span class="news-indication-tag">癌症</span>
 
 來源：[Singtaousa](https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5)
-
----
-
-### [緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂](https://news.google.com/rss/articles/CBMizwJBVV95cUxPRmgySnFqMk1SNW05Q1lxRm80R1B6cXI1Tzk0NU13dFBsbzBld2xpT2lic3Vkam5CYzkwaGp2WWNYa2V2bW1PVHNZUXRXMVZBajN6S0hPYTlGWkgyRkhacXk2YXZqNVVyTFRhU1IzWDRHcG1rQnYxaFpVTVRjWEdOekVJOGJSRHI0eVJMcVZISW9vUVdicGptTUNyX1lTcGYzSGlPZFU2OXN2dF9Ndk1xR2FraVNtNHN4Ujh6Zk4tWVVZS2s5NkRyTXVuQnVMbTNzOHowYkp6LXNCVmtXU3Zwejg0WkRsRnZGUElaWmQ5UVFmbzJBYk0wOEdEd2p3N2dad1RXb0tzZHB6RG5fTUR3LVk3SFFTSmMxUjlLLUFTb0NWQUFxRjhHM01VTHFNaW9KbjQzTHFZVXc1R0RMWHR0UXA0NlN4WU5hVFhTMUt3OA?oc=5)
-
-2026-08-18 <span class="news-indication-tag">腹瀉</span>
-
-來源：[AM730](https://news.google.com/rss/articles/CBMizwJBVV95cUxPRmgySnFqMk1SNW05Q1lxRm80R1B6cXI1Tzk0NU13dFBsbzBld2xpT2lic3Vkam5CYzkwaGp2WWNYa2V2bW1PVHNZUXRXMVZBajN6S0hPYTlGWkgyRkhacXk2YXZqNVVyTFRhU1IzWDRHcG1rQnYxaFpVTVRjWEdOekVJOGJSRHI0eVJMcVZISW9vUVdicGptTUNyX1lTcGYzSGlPZFU2OXN2dF9Ndk1xR2FraVNtNHN4Ujh6Zk4tWVVZS2s5NkRyTXVuQnVMbTNzOHowYkp6LXNCVmtXU3Zwejg0WkRsRnZGUElaWmQ5UVFmbzJBYk0wOEdEd2p3N2dad1RXb0tzZHB6RG5fTUR3LVk3SFFTSmMxUjlLLUFTb0NWQUFxRjhHM01VTHFNaW9KbjQzTHFZVXc1R0RMWHR0UXA0NlN4WU5hVFhTMUt3OA?oc=5)
 
 ---
 

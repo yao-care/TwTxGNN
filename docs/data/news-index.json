@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T02:10:56.215524+00:00",
-  "count": 7,
+  "generated": "2026-08-20T03:38:15.635564+00:00",
+  "count": 8,
   "news": [
     {
       "id": "f016a51798ce",
@@ -35,6 +35,30 @@
       ]
     },
     {
+      "id": "c0df9643528a",
+      "title": "她重感冒硬撐不吃藥　4天後「嚴重酸中毒」、還腎衰敗",
+      "published": "2026-08-20T00:22:00+00:00",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5oLTgwZUdwZ3drV0M1WmtESjlGUGhkTXVRd1lpY3MwWi1HYmVxWmRsUzBTVzRnSnVnc2t5eHdtTWloNlhUSHc5b9IBTEFVX3lxTE5DbXZNYUhJcjBYcTJGREU3cG1iX2w0cnF5TTJLN29hNkhVZUxWdDNNYzFzbUdEVUIyTTFlQ1J2a3N0bjRVUXpJNUFXcHE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "be9a6d15ea04",
       "title": "想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦",
       "published": "2026-08-19T07:00:03+00:00",
@@ -53,6 +77,30 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a03716c52d85",
+      "title": "緬甸仰光爆霍亂疫情！500人嚴重腹瀉住院 近150人快篩陽性",
+      "published": "2026-08-19T06:16:00+00:00",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XS2RrNkIxRUFOa0N0TzRTRHBUSk54SHBJSFBzZkhGVTFfeXZpZnc5cHZGWHJsbmJiWXlvZWhSejk3WmRIbTB2QUdDSTBPdGM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
             }
           ]
         }
@@ -919,30 +967,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e44751f56e12",
-      "title": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂",
-      "published": "2026-08-18T06:38:40+00:00",
-      "sources": [
-        {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPRmgySnFqMk1SNW05Q1lxRm80R1B6cXI1Tzk0NU13dFBsbzBld2xpT2lic3Vkam5CYzkwaGp2WWNYa2V2bW1PVHNZUXRXMVZBajN6S0hPYTlGWkgyRkhacXk2YXZqNVVyTFRhU1IzWDRHcG1rQnYxaFpVTVRjWEdOekVJOGJSRHI0eVJMcVZISW9vUVdicGptTUNyX1lTcGYzSGlPZFU2OXN2dF9Ndk1xR2FraVNtNHN4Ujh6Zk4tWVVZS2s5NkRyTXVuQnVMbTNzOHowYkp6LXNCVmtXU3Zwejg0WkRsRnZGUElaWmQ5UVFmbzJBYk0wOEdEd2p3N2dad1RXb0tzZHB6RG5fTUR3LVk3SFFTSmMxUjlLLUFTb0NWQUFxRjhHM01VTHFNaW9KbjQzTHFZVXc1R0RMWHR0UXA0NlN4WU5hVFhTMUt3OA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "腹瀉",
-          "keyword": "腹瀉",
-          "related_drugs": [
-            {
-              "slug": "berberine",
-              "name": "Berberine"
             }
           ]
         }

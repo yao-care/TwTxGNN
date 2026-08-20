@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-08-20T02:10:56.198150+00:00",
-  "total_count": 27,
-  "matched_count": 7,
+  "last_updated": "2026-08-20T03:38:15.603922+00:00",
+  "total_count": 28,
+  "matched_count": 8,
   "news": [
+    {
+      "id": "28e0e1539674",
+      "title": "侵襲性腦脊髓膜炎致死率50% 全年齡提高警覺",
+      "published": "2026-08-20T02:25:00+00:00",
+      "summary": "侵襲性腦脊髓膜炎致死率50% 全年齡提高警覺&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rSWlBbjRUYWxpUnpjbEViZ3NBN3Nib1pSaEhiRFdIQ3A2NWJ3alJQeS1sVDRIZWkwVks1MExNNHAtcnBoN0l5dzZFUHQ4QS1jbGhPYQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "f016a51798ce",
       "title": "早期肺癌手術切除不是治療終點 醫解析「術後輔助治療」重要性",
@@ -37,6 +50,31 @@
       ]
     },
     {
+      "id": "c0df9643528a",
+      "title": "她重感冒硬撐不吃藥　4天後「嚴重酸中毒」、還腎衰敗",
+      "published": "2026-08-20T00:22:00+00:00",
+      "summary": "她重感冒硬撐不吃藥 4天後「嚴重酸中毒」、還腎衰敗&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5oLTgwZUdwZ3drV0M1WmtESjlGUGhkTXVRd1lpY3MwWi1HYmVxWmRsUzBTVzRnSnVnc2t5eHdtTWloNlhUSHc5b9IBTEFVX3lxTE5DbXZNYUhJcjBYcTJGREU3cG1iX2w0cnF5TTJLN29hNkhVZUxWdDNNYzFzbUdEVUIyTTFlQ1J2a3N0bjRVUXpJNUFXcHE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "2f665be591c6",
       "title": "紐約市衛生局發現2026年首例人類感染西尼羅病毒病例",
       "published": "2026-08-19T18:42:50+00:00",
@@ -45,19 +83,6 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96YWhtMmp0S0l2SzNvRzRXU05tMXozUzgyUXpSRlhteEZ5NGZwbHhtTGY3M3VwaFVPTVZMYTR5YnlKd0FNa3prY212cVBSZ2J5VkZQVWpsWmFTTkVIbmZvdzNn0gFnQVVfeXFMTm5PSTRmWWxfQXNFTFB4SEZDTm5BNWJoMlMzVHlxTEZVRUpQVmU1bF9taVh3WmUxRlVPMmY5Z0RWQTQxMjFPOGxkRkhqVmdzcW9qX3R3TGhXX2VIazFiMzI3SE5vNFZBTQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e94aee405a28",
-      "title": "降低食慾的荷爾蒙 GDF15 具隱藏功能，暗中護肝臟不受損害 | 科技新報 - LINE TODAY",
-      "published": "2026-08-19T16:18:19+00:00",
-      "summary": "降低食慾的荷爾蒙 GDF15 具隱藏功能，暗中護肝臟不受損害 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hMDhCV0pWTUNyOC0xeG5hV0lRNWhnbllLTktZNW9qQmtYMUNudWdJeEJSWEVrU0FwNEdYM1dXemJocVVXVlNHV0NnN2RtdXFlRUhKaFpn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -89,13 +114,13 @@
       "matched_keywords": []
     },
     {
-      "id": "f73a8729e3e6",
+      "id": "fcb752dc7bcb",
       "title": "聞玫瑰精油可防腦退化、穩定情緒？ 日本研究：嗅覺刺激助醒腦 晚上做多一步更有效",
       "published": "2026-08-19T12:01:43+00:00",
-      "summary": "聞玫瑰精油可防腦退化、穩定情緒？ 日本研究：嗅覺刺激助醒腦 晚上做多一步更有效&nbsp;&nbsp;星島頭條",
+      "summary": "聞玫瑰精油可防腦退化、穩定情緒？ 日本研究：嗅覺刺激助醒腦 晚上做多一步更有效&nbsp;&nbsp;stheadline.com",
       "sources": [
         {
-          "name": "星島頭條",
+          "name": "stheadline.com",
           "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxPbF9GUzQzVHhSR1FPbVUxdEszOUdXTHJfOUt1RGVsdTllYWpGdGdxTnhBcThpSjJTYV84dHBvZE9LeGxIYjExY3lwcDhfNG5pUmJ2Y1dUM1BjNXVHZlVpcjkxT0Z1TkN5U0xIcFlRczNvaHVrMkdMQWFNRkd4NXVHNU5qVlFZaWlBeW9obDFKT1VCYmVtREQzMlRJY2RCc1lubmxZSHVmdTRlRWMyWElNMFFMVzZlTi16WU9MaXVLWkhHaUZVMktaTlZibFU3cE5NZW9FRWRsTnJramw0Q21uNnJ5RTZKckh6QUVQQ1o0UkFXTGVTcTBCdHVjM3ZyQy1OY00tRVZVTGxhamd6RFR6QXpPWWE5eVRlQ05JaElQSDMzaThFZGtlOXFISmVVUWJYZkowUzlFQXFTUnRCR09RaWl5MEpCY28tUVROU3lib3B3Umpra0lIa2hBT19DckY5SjRWTXpvOGdLTGlBUGpNR2g1N3AtMnpWTGtPSFpycEZEaUdNSlo5eFNXTE1XM1dadHFWd3U0S18tOHlvUFFUcEF6ZU9UMW93UWpLTm5YME9BeE1hcVJSS1dRTFUwZkhHbHJyVklaaW9ReEplSXgwc2xGMHBDc0RLdi15cVo4QVdyd2tCU2dxdVpCdlhyNkVERVFYRjlB?oc=5"
         }
       ],
@@ -128,27 +153,27 @@
       "matched_keywords": []
     },
     {
-      "id": "689f735d06bc",
-      "title": "深圳200磅大叔狂𢯎腳變「豬蹄」 醫生揭「指尖隱形殺手」",
-      "published": "2026-08-19T09:44:33+00:00",
-      "summary": "深圳200磅大叔狂𢯎腳變「豬蹄」 醫生揭「指尖隱形殺手」&nbsp;&nbsp;星島頭條",
+      "id": "ff0e8efaed14",
+      "title": "什麼是「殭屍細胞」？認識細胞衰老與健康老化研究 - Life 生活網",
+      "published": "2026-08-19T10:14:42+00:00",
+      "summary": "什麼是「殭屍細胞」？認識細胞衰老與健康老化研究&nbsp;&nbsp;Life 生活網",
       "sources": [
         {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPSUhnVGtiUFNDUlR1WlE5MGc2ck85YWxpczZkVWFsSGIwSHpRVFZUUE1NdFBvRTVvY2ZmRnlBZHE5VG4yNS1DTlBYZEE2ZEMtTk9HMGduVjFZQ2cwNVRYVXhieWQySm5CbTdXS2c1RHZla2FHMXV0em5xcEJESmJ5VWpXdGY0dU9SQVpsTlpCbGVyQXhwaHRuZ1NaSFRXb0xLaW9acW1wNVMxMTV5Y2VJa1hpM2lfU2cxemtLNmpaeHN5NGllT01yTHdpbVVBcVY3NWZxOXZpUDlNUG8wZm1CNTd2a3hhVXBLS3h5S3l2ZEl3UzY2djhCTEdIdnZrdDlUNmtzMHhyMjRUN3ZvY2tyb1F3VlJLUEVqOHR4RTluUmVFWGIxZnpoLUNMcFVvU3NUcndaS0MtZXV0NDFfVUo1VWkxdWxmVHVUQVpKc25yS2w?oc=5"
+          "name": "Life 生活網",
+          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQMHhtb19PSFlFNDQwQW56Qm9uWFN6QnZCQkc4UWw0cVpwRGRLelNmaHNfbS16Z0ktVDl2Y1J3T3lkd2prZXU2TW5pbFZLUnlTT2ZaOTlXeElncVFiUUM1UjJZZVp3RmQxcVVEdmVNSjFySXhOSHE5MGFGZzNmX1ZPZmp6cS1wc0pYcHVYWWV2N3VyVXBmdmJsOTM4SEswNE41SExUeTlKakt4UjZPbDRTU0twZjYzUnRBOERKbGNTQUdWdzRxVTlUWUpLaGlEWjJtTlg1aXFRSFdVWVpLaldOU0FCamdjVVEyN3Y2RU5OMGlmUDlraHRhb2xtYzBYRWx5ZjJid0RsZUlkSFQ0ZUVDOXkzZ2hRVmNmekY4ek5LR3lUdUZLbVJiQTY5U2p4WWNfLUhqUW5vZzFPdw?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "b9b0f0b4109d",
-      "title": "35歲女子感染麻疹 198人列為密切接觸者 - 大紀元時報 香港",
-      "published": "2026-08-19T08:36:17+00:00",
-      "summary": "35歲女子感染麻疹 198人列為密切接觸者&nbsp;&nbsp;大紀元時報 香港35歲非本地出生女子染麻疹 198人列密切接觸者&nbsp;&nbsp;orangenews.hk麻疹｜秀茂坪35歲女確診麻疹 傅染力極高 即睇典型症狀與自保方法&nbsp;&nbsp;香港0135歲女發燒出疹揭患高傳染惡疾 近200人需受監察全因一舉動&nbsp;&nbsp;GOtrip.hk女子潛伏期內曾離港旅遊 #麻疹 #秀茂坪 #am730&nbsp;&nbsp;facebook.com",
+      "id": "1ac0d41f7242",
+      "title": "深圳200磅大叔狂𢯎腳變「豬蹄」 醫生揭「指尖隱形殺手」",
+      "published": "2026-08-19T09:44:33+00:00",
+      "summary": "深圳200磅大叔狂𢯎腳變「豬蹄」 醫生揭「指尖隱形殺手」&nbsp;&nbsp;stheadline.com",
       "sources": [
         {
-          "name": "大紀元時報 香港",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GbGR4ZE5SVXlmeGp2bWJFbE5ZT25CeE1tbEdfcGo5dlJac1lDejEyVUxxSWJ2VWxpLW9SQmJxYWloSVFKbGEyYXJ2UjFHWlZxVDg0QkFnZmN1SXJEMFlR?oc=5"
+          "name": "stheadline.com",
+          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPSUhnVGtiUFNDUlR1WlE5MGc2ck85YWxpczZkVWFsSGIwSHpRVFZUUE1NdFBvRTVvY2ZmRnlBZHE5VG4yNS1DTlBYZEE2ZEMtTk9HMGduVjFZQ2cwNVRYVXhieWQySm5CbTdXS2c1RHZla2FHMXV0em5xcEJESmJ5VWpXdGY0dU9SQVpsTlpCbGVyQXhwaHRuZ1NaSFRXb0xLaW9acW1wNVMxMTV5Y2VJa1hpM2lfU2cxemtLNmpaeHN5NGllT01yTHdpbVVBcVY3NWZxOXZpUDlNUG8wZm1CNTd2a3hhVXBLS3h5S3l2ZEl3UzY2djhCTEdIdnZrdDlUNmtzMHhyMjRUN3ZvY2tyb1F3VlJLUEVqOHR4RTluUmVFWGIxZnpoLUNMcFVvU3NUcndaS0MtZXV0NDFfVUo1VWkxdWxmVHVUQVpKc25yS2w?oc=5"
         }
       ],
       "matched_keywords": []
@@ -162,6 +187,32 @@
         {
           "name": "晴報 Sky Post",
           "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxPMjZJTXhWcFpkNl9UaW4za29OLUpDR2NraWZHbzRoeElNWmZaQ1dEZDlNMldGbXlRTG0waW9RdWltbW9DOXBXb2IxMEt3UVJWQWVCaGxESnk1WHFYOWhjem1sZnAtUERCLUUzcjQzYlBGZWxvdHZrR19ibVV4cFp4TlozZUtrb3RLRnlvUmZHMlRuanpYWW4tczhNcUZuUzJMS1c1dEgtOU14LVNRcnpWM1VaeDNWaWd1aDdnT3kyMmhESVh5TG1YUTRTRkpMMHFrNm9IZkR2dmNlXzJHc1NoOFhvUzNKMWlWaUVWSU50RjVxOVJJV0gwOEpQZkNUaEVJUTZHQnAxMUZfWVAtbW1HRUhSM205UVRyWEI5X2xsUEl4WGVQaktCQVJfR3NkVDBTV0R1bWwwV1BCSXFjSDlJbWthRUFJRVYyZl9HNG5HX2l5YW84bG9rSzVnNkVYeU85S2lMbERTbF9tZWRVX2hjVWY3VXZnaGEyUWQ1NnFEVS1MYXdoWDJCSzBGR3hoRnFvcXV6d1p3R2UyUnpVU2ZuS0hyczRIQ3ZHSjRNV0MxempLbmxtck4tU1RCdzlwWnpiX2VkRWZPemVDY1dJZmxWZlpR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6cef6abc3029",
+      "title": "麻疹｜秀茂坪35歲女確診麻疹 傅染力極高 即睇典型症狀與自保方法",
+      "published": "2026-08-19T08:25:17+00:00",
+      "summary": "麻疹｜秀茂坪35歲女確診麻疹 傅染力極高 即睇典型症狀與自保方法&nbsp;&nbsp;香港0135歲非本地出生女子染麻疹 198人列密切接觸者&nbsp;&nbsp;orangenews.hk35歲女發燒出疹揭患高傳染惡疾 近200人需受監察全因一舉動&nbsp;&nbsp;GOtrip.hk女子潛伏期內曾離港旅遊 #麻疹 #秀茂坪 #am730&nbsp;&nbsp;facebook.com傳染病警戒｜香港爆麻疹！曾赴聯合醫院 近200人列密切接觸 即睇病徵&nbsp;&nbsp;UHK 港生活",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPcXV6aFNqOE5SRDBRVnhGRU56Uy1BOXRwWTk1bExWa0F0Z25admtxRVN1dGVkT3VrUGl5dHJ1REJhXzJJZkR2S3dDRm5YSS1BQk9oQjQ0dXRLdmRJUnd1Y0xnYjlJOVVnOU84VFBSSzlfY3F3UmdHUzV3a1JQWXpoWDdVQ2piTGc1M1lWVkJ1bWVZaVVhNHFYSXl2Q2R6YmRmanhFUF9MSF9qZlRzYmtDd1ZzSmdtX2Y4U0tsUzZYelJ2VjZnYjdONWxZVDdNSC1jSkJ0NFJabXA2QlhwU2hxT2k0enZjVmZ4SmVwRk40SnhqWE8wUjRYQzhPbjJFMG01YVNtNjV2N09GczFpdmhiaWszeE1tMUV6dEZpeDh4dHhiNDQydWZlTEVmeDRZQm5jSUxSWlZGSklHSXBMUmVVMFFpQXBRVHdtMHNDcHl6WDUxR2JRZTRhUjRxWWwwZmZxUGNHVzlkRUY2V2JoQzQycDlVcEo2bURpdV9vNWktVTM3VHlvUXZEOGNsamxGRGliQ3dicE5BRThfbGxZMk1sOERoaWlvWnVwdDFtQmNB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "66a6de5656bf",
+      "title": "降低食慾的荷爾蒙 GDF15 具隱藏功能，暗中護肝臟不受損害 - TechNews 科技新報",
+      "published": "2026-08-19T07:53:33+00:00",
+      "summary": "降低食慾的荷爾蒙 GDF15 具隱藏功能，暗中護肝臟不受損害&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RbEVFcmZTd2E3S1FMNF9wUTJuazZOZ1ROS3lpOGs1dThTWFBZQmZIMXRoTGtIdzFMazR2cmdhMXBZc2NnalRpWENxMXRqdXlRZWNrOEk2aXZNWU5VUFFrTXRhOWFya1B3bTIwaE1qbGtyLUd6bFlUOA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -186,6 +237,31 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a03716c52d85",
+      "title": "緬甸仰光爆霍亂疫情！500人嚴重腹瀉住院 近150人快篩陽性",
+      "published": "2026-08-19T06:16:00+00:00",
+      "summary": "緬甸仰光爆霍亂疫情！500人嚴重腹瀉住院 近150人快篩陽性&nbsp;&nbsp;TVBS新聞網緬甸仰光爆霍亂疫情 500人腹瀉住院149例確診&nbsp;&nbsp;rti.org.tw緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;中天新聞網緬甸仰光爆發霍亂疫情 500人嚴重腹瀉送醫 | 民視新聞網&nbsp;&nbsp;LINE TODAY緬甸仰光爆發霍亂疫情 500人腹瀉住院&nbsp;&nbsp;singtao.ca",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XS2RrNkIxRUFOa0N0TzRTRHBUSk54SHBJSFBzZkhGVTFfeXZpZnc5cHZGWHJsbmJiWXlvZWhSejk3WmRIbTB2QUdDSTBPdGM?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
             }
           ]
         }
@@ -866,27 +942,27 @@
       ]
     },
     {
-      "id": "77df563120e7",
-      "title": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南",
-      "published": "2026-08-18T22:00:00+00:00",
-      "summary": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南&nbsp;&nbsp;民視新聞網",
+      "id": "688521d8d4bb",
+      "title": "便宜、耐放又營養！專家推薦5種魚罐頭 「SMASH口訣」一次記",
+      "published": "2026-08-19T02:04:32+00:00",
+      "summary": "便宜、耐放又營養！專家推薦5種魚罐頭 「SMASH口訣」一次記&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rdW5SSjdJci1iZ0YtMGY3N2VsV2FOWUhieWxlNUlFeWdIbnktTnJPRFJJUE5MeUoydzhmeDRxVDQ3UmVId0ZIVnhTWElJYVdrajZfZmxRRWxEYmQweTRVdw?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBac0ZfOVZ2SzlKdTVqUTc3WmtHQWJZTU5uek9uWHp6T3MxLXkwQUNQOVA1SnhwWTdKQ3M0aWZqOGMyV3VqT0x0M000Q0lRYkE2bVM0RGxtZGM0SWQ40gFiQVVfeXFMT08wVkFjTjJSN2ZkdWFsb3NRQXpueVE3b2xSaXpGYTJOVXFzeGFmVUZqVjRkZS1tY1RXa0Rmc0xkQ3BXV3F4dlVQUURvT2RWU0V6Smp2eGRBaU02b2VsY1FTNGc?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "45a7761d4531",
-      "title": "罐頭魚竟比新鮮魚更營養？專家推薦這5種魚最值得買",
-      "published": "2026-08-18T17:32:00+00:00",
-      "summary": "罐頭魚竟比新鮮魚更營養？專家推薦這5種魚最值得買&nbsp;&nbsp;世界新聞網",
+      "id": "d2c351580bda",
+      "title": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南",
+      "published": "2026-08-18T22:00:00+00:00",
+      "summary": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南&nbsp;&nbsp;ftvnews.com.tw",
       "sources": [
         {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44VXJ5M1B1bHEtcU80a01oRjZ4ZUY3Q3hoX3R5OWhnTk9TTFI5bVhEY2FzWFEtQTdzLXFoUW9ERzVMUEgzdTlnenFVeWF6Ym85eEVaWmZZYWEwek11M0dXYTVB0gFnQVVfeXFMUHVXVmJEdXFwX25lNXZnRk5jczBWTTZUcHFHUVJrVklUOUVqRk9OdmtESUprZVVjWUpXVG00a0pNQkhaUXRrUWxMdy1UVVJXaUszcHhfZWc3ZUpoQ1FRV1JxWXpxRHhxRQ?oc=5"
+          "name": "ftvnews.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rdW5SSjdJci1iZ0YtMGY3N2VsV2FOWUhieWxlNUlFeWdIbnktTnJPRFJJUE5MeUoydzhmeDRxVDQ3UmVId0ZIVnhTWElJYVdrajZfZmxRRWxEYmQweTRVdw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1140,31 +1216,6 @@
       "matched_keywords": []
     },
     {
-      "id": "e44751f56e12",
-      "title": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂",
-      "published": "2026-08-18T06:38:40+00:00",
-      "summary": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂&nbsp;&nbsp;AM730緬甸仰光爆霍亂疫情 500人腹瀉住院149例確診&nbsp;&nbsp;rti.org.tw緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;中天新聞網緬甸最大城爆霍亂！500人嚴重腹瀉住院 149人快篩陽性 - 國際新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online新聞緬甸仰光爆發霍亂疫情500人腹瀉住院- 國際&nbsp;&nbsp;自由時報",
-      "sources": [
-        {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPRmgySnFqMk1SNW05Q1lxRm80R1B6cXI1Tzk0NU13dFBsbzBld2xpT2lic3Vkam5CYzkwaGp2WWNYa2V2bW1PVHNZUXRXMVZBajN6S0hPYTlGWkgyRkhacXk2YXZqNVVyTFRhU1IzWDRHcG1rQnYxaFpVTVRjWEdOekVJOGJSRHI0eVJMcVZISW9vUVdicGptTUNyX1lTcGYzSGlPZFU2OXN2dF9Ndk1xR2FraVNtNHN4Ujh6Zk4tWVVZS2s5NkRyTXVuQnVMbTNzOHowYkp6LXNCVmtXU3Zwejg0WkRsRnZGUElaWmQ5UVFmbzJBYk0wOEdEd2p3N2dad1RXb0tzZHB6RG5fTUR3LVk3SFFTSmMxUjlLLUFTb0NWQUFxRjhHM01VTHFNaW9KbjQzTHFZVXc1R0RMWHR0UXA0NlN4WU5hVFhTMUt3OA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "腹瀉",
-          "keyword": "腹瀉",
-          "related_drugs": [
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "c24711a2caa5",
       "title": "國家疾控局發布HPV疫苗科普問答- 健康",
       "published": "2026-08-18T03:58:03+00:00",
@@ -1173,32 +1224,6 @@
         {
           "name": "香港文匯報",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12ZUVwZnN1ZGhvTlVGNTVLUjN6b1hwcTE4aWR2RGhzdTVuZW42eU5nYV9Ya0N3VHVnMzJVbmFpWnZwRDE3dXNXTGxjOUFRQ2ljRW1qZ3VFWmZwLUJWQm4zTGREa2RYMHAyMDEzcTJ2MTE0TXp4QzJN?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d8d542cd175a",
-      "title": "打呼嚕是睡得香？小心影響孩子身高智力",
-      "published": "2026-08-18T01:37:15+00:00",
-      "summary": "打呼嚕是睡得香？小心影響孩子身高智力&nbsp;&nbsp;紫荊網",
-      "sources": [
-        {
-          "name": "紫荊網",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdVZlSmlDOGIwb2Nxb3dWWWJKY2g0M3VqdmFIMUxJLVlYMUtzeXZBcGFqN2ZNUVI2ME5wak82bFdvdTZoblhxSVJGalBwRjJIMk9ab2pwTG1waU1VME9uc19XNzNhdmtjaUhYenpvc0oydTFjbWlLa2tDVTg5WXZDbUxXNFc1U0dNNnI5NE9odWY?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "867c05c8a638",
-      "title": "得新冠後免疫力變差？研究：新冠病毒會「喚醒」體內休眠病毒大亂鬥| 雜誌",
-      "published": "2026-08-18T01:29:58+00:00",
-      "summary": "得新冠後免疫力變差？研究：新冠病毒會「喚醒」體內休眠病毒大亂鬥| 雜誌&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jUG9QOTJncm5UWGZhZ0RBeGVqcjFSbWtVcWQ3MFRxV0VxLXZnS1RTOUJsSVhoWHJXMlFPVjJFT202aWlLUjNwdTZyX3RFU0dE?oc=5"
         }
       ],
       "matched_keywords": []
