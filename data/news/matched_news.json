@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-20T03:38:15.603922+00:00",
-  "total_count": 28,
-  "matched_count": 8,
+  "last_updated": "2026-08-20T04:27:43.897119+00:00",
+  "total_count": 24,
+  "matched_count": 7,
   "news": [
     {
       "id": "28e0e1539674",
@@ -50,31 +50,6 @@
       ]
     },
     {
-      "id": "c0df9643528a",
-      "title": "她重感冒硬撐不吃藥　4天後「嚴重酸中毒」、還腎衰敗",
-      "published": "2026-08-20T00:22:00+00:00",
-      "summary": "她重感冒硬撐不吃藥 4天後「嚴重酸中毒」、還腎衰敗&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5oLTgwZUdwZ3drV0M1WmtESjlGUGhkTXVRd1lpY3MwWi1HYmVxWmRsUzBTVzRnSnVnc2t5eHdtTWloNlhUSHc5b9IBTEFVX3lxTE5DbXZNYUhJcjBYcTJGREU3cG1iX2w0cnF5TTJLN29hNkhVZUxWdDNNYzFzbUdEVUIyTTFlQ1J2a3N0bjRVUXpJNUFXcHE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "2f665be591c6",
       "title": "紐約市衛生局發現2026年首例人類感染西尼羅病毒病例",
       "published": "2026-08-19T18:42:50+00:00",
@@ -83,6 +58,19 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96YWhtMmp0S0l2SzNvRzRXU05tMXozUzgyUXpSRlhteEZ5NGZwbHhtTGY3M3VwaFVPTVZMYTR5YnlKd0FNa3prY212cVBSZ2J5VkZQVWpsWmFTTkVIbmZvdzNn0gFnQVVfeXFMTm5PSTRmWWxfQXNFTFB4SEZDTm5BNWJoMlMzVHlxTEZVRUpQVmU1bF9taVh3WmUxRlVPMmY5Z0RWQTQxMjFPOGxkRkhqVmdzcW9qX3R3TGhXX2VIazFiMzI3SE5vNFZBTQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e94aee405a28",
+      "title": "降低食慾的荷爾蒙 GDF15 具隱藏功能，暗中護肝臟不受損害 | 科技新報 - LINE TODAY",
+      "published": "2026-08-19T16:18:19+00:00",
+      "summary": "降低食慾的荷爾蒙 GDF15 具隱藏功能，暗中護肝臟不受損害 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hMDhCV0pWTUNyOC0xeG5hV0lRNWhnbllLTktZNW9qQmtYMUNudWdJeEJSWEVrU0FwNEdYM1dXemJocVVXVlNHV0NnN2RtdXFlRUhKaFpn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -101,26 +89,13 @@
       "matched_keywords": []
     },
     {
-      "id": "555c4679c3dd",
-      "title": "身體一直長「疔子」好苦惱皮膚科醫：常見元凶躲在鼻子- 健康",
-      "published": "2026-08-19T14:15:43+00:00",
-      "summary": "身體一直長「疔子」好苦惱皮膚科醫：常見元凶躲在鼻子- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aczRoZFJSU2NkaWpBbHE5S0ZVVFpPcTEwY3hTTGVpcnRldC1jQ1d0LTQxbnZScFEtN3dXUTQ3cFZ6QnliaDFENHY1QUU2UDhuVWFLaUZWN2ZNeDQtNUNnN2xyY2ZKQm9acTdHU0NB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fcb752dc7bcb",
+      "id": "f73a8729e3e6",
       "title": "聞玫瑰精油可防腦退化、穩定情緒？ 日本研究：嗅覺刺激助醒腦 晚上做多一步更有效",
       "published": "2026-08-19T12:01:43+00:00",
-      "summary": "聞玫瑰精油可防腦退化、穩定情緒？ 日本研究：嗅覺刺激助醒腦 晚上做多一步更有效&nbsp;&nbsp;stheadline.com",
+      "summary": "聞玫瑰精油可防腦退化、穩定情緒？ 日本研究：嗅覺刺激助醒腦 晚上做多一步更有效&nbsp;&nbsp;星島頭條",
       "sources": [
         {
-          "name": "stheadline.com",
+          "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxPbF9GUzQzVHhSR1FPbVUxdEszOUdXTHJfOUt1RGVsdTllYWpGdGdxTnhBcThpSjJTYV84dHBvZE9LeGxIYjExY3lwcDhfNG5pUmJ2Y1dUM1BjNXVHZlVpcjkxT0Z1TkN5U0xIcFlRczNvaHVrMkdMQWFNRkd4NXVHNU5qVlFZaWlBeW9obDFKT1VCYmVtREQzMlRJY2RCc1lubmxZSHVmdTRlRWMyWElNMFFMVzZlTi16WU9MaXVLWkhHaUZVMktaTlZibFU3cE5NZW9FRWRsTnJramw0Q21uNnJ5RTZKckh6QUVQQ1o0UkFXTGVTcTBCdHVjM3ZyQy1OY00tRVZVTGxhamd6RFR6QXpPWWE5eVRlQ05JaElQSDMzaThFZGtlOXFISmVVUWJYZkowUzlFQXFTUnRCR09RaWl5MEpCY28tUVROU3lib3B3Umpra0lIa2hBT19DckY5SjRWTXpvOGdLTGlBUGpNR2g1N3AtMnpWTGtPSFpycEZEaUdNSlo5eFNXTE1XM1dadHFWd3U0S18tOHlvUFFUcEF6ZU9UMW93UWpLTm5YME9BeE1hcVJSS1dRTFUwZkhHbHJyVklaaW9ReEplSXgwc2xGMHBDc0RLdi15cVo4QVdyd2tCU2dxdVpCdlhyNkVERVFYRjlB?oc=5"
         }
       ],
@@ -153,66 +128,40 @@
       "matched_keywords": []
     },
     {
-      "id": "ff0e8efaed14",
-      "title": "什麼是「殭屍細胞」？認識細胞衰老與健康老化研究 - Life 生活網",
-      "published": "2026-08-19T10:14:42+00:00",
-      "summary": "什麼是「殭屍細胞」？認識細胞衰老與健康老化研究&nbsp;&nbsp;Life 生活網",
-      "sources": [
-        {
-          "name": "Life 生活網",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQMHhtb19PSFlFNDQwQW56Qm9uWFN6QnZCQkc4UWw0cVpwRGRLelNmaHNfbS16Z0ktVDl2Y1J3T3lkd2prZXU2TW5pbFZLUnlTT2ZaOTlXeElncVFiUUM1UjJZZVp3RmQxcVVEdmVNSjFySXhOSHE5MGFGZzNmX1ZPZmp6cS1wc0pYcHVYWWV2N3VyVXBmdmJsOTM4SEswNE41SExUeTlKakt4UjZPbDRTU0twZjYzUnRBOERKbGNTQUdWdzRxVTlUWUpLaGlEWjJtTlg1aXFRSFdVWVpLaldOU0FCamdjVVEyN3Y2RU5OMGlmUDlraHRhb2xtYzBYRWx5ZjJid0RsZUlkSFQ0ZUVDOXkzZ2hRVmNmekY4ek5LR3lUdUZLbVJiQTY5U2p4WWNfLUhqUW5vZzFPdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1ac0d41f7242",
+      "id": "689f735d06bc",
       "title": "深圳200磅大叔狂𢯎腳變「豬蹄」 醫生揭「指尖隱形殺手」",
       "published": "2026-08-19T09:44:33+00:00",
-      "summary": "深圳200磅大叔狂𢯎腳變「豬蹄」 醫生揭「指尖隱形殺手」&nbsp;&nbsp;stheadline.com",
+      "summary": "深圳200磅大叔狂𢯎腳變「豬蹄」 醫生揭「指尖隱形殺手」&nbsp;&nbsp;星島頭條",
       "sources": [
         {
-          "name": "stheadline.com",
+          "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPSUhnVGtiUFNDUlR1WlE5MGc2ck85YWxpczZkVWFsSGIwSHpRVFZUUE1NdFBvRTVvY2ZmRnlBZHE5VG4yNS1DTlBYZEE2ZEMtTk9HMGduVjFZQ2cwNVRYVXhieWQySm5CbTdXS2c1RHZla2FHMXV0em5xcEJESmJ5VWpXdGY0dU9SQVpsTlpCbGVyQXhwaHRuZ1NaSFRXb0xLaW9acW1wNVMxMTV5Y2VJa1hpM2lfU2cxemtLNmpaeHN5NGllT01yTHdpbVVBcVY3NWZxOXZpUDlNUG8wZm1CNTd2a3hhVXBLS3h5S3l2ZEl3UzY2djhCTEdIdnZrdDlUNmtzMHhyMjRUN3ZvY2tyb1F3VlJLUEVqOHR4RTluUmVFWGIxZnpoLUNMcFVvU3NUcndaS0MtZXV0NDFfVUo1VWkxdWxmVHVUQVpKc25yS2w?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "255fcfebc302",
-      "title": "偏頭痛丨孫慧雪自揭偏頭痛30年 開工發作死撐痛到作嘔 生二胎後痛到膊頭背脊 - 晴報 Sky Post",
+      "id": "b9b0f0b4109d",
+      "title": "35歲女子感染麻疹 198人列為密切接觸者 - 大紀元時報 香港",
+      "published": "2026-08-19T08:36:17+00:00",
+      "summary": "35歲女子感染麻疹 198人列為密切接觸者&nbsp;&nbsp;大紀元時報 香港35歲非本地出生女子染麻疹 198人列密切接觸者&nbsp;&nbsp;orangenews.hk麻疹｜秀茂坪35歲女確診麻疹 傅染力極高 即睇典型症狀與自保方法&nbsp;&nbsp;hk01.com35歲女發燒出疹揭患高傳染惡疾 近200人需受監察全因一舉動&nbsp;&nbsp;GOtrip.hk女子潛伏期內曾離港旅遊 #麻疹 #秀茂坪 #am730&nbsp;&nbsp;facebook.com",
+      "sources": [
+        {
+          "name": "大紀元時報 香港",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GbGR4ZE5SVXlmeGp2bWJFbE5ZT25CeE1tbEdfcGo5dlJac1lDejEyVUxxSWJ2VWxpLW9SQmJxYWloSVFKbGEyYXJ2UjFHWlZxVDg0QkFnZmN1SXJEMFlR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d800cd7f1c5e",
+      "title": "偏頭痛丨孫慧雪自揭偏頭痛30年 開工發作死撐痛到作嘔 生二胎後痛到膊頭背脊",
       "published": "2026-08-19T08:30:51+00:00",
-      "summary": "偏頭痛丨孫慧雪自揭偏頭痛30年 開工發作死撐痛到作嘔 生二胎後痛到膊頭背脊&nbsp;&nbsp;晴報 Sky Post",
+      "summary": "偏頭痛丨孫慧雪自揭偏頭痛30年 開工發作死撐痛到作嘔 生二胎後痛到膊頭背脊&nbsp;&nbsp;skypost.hk",
       "sources": [
         {
-          "name": "晴報 Sky Post",
+          "name": "skypost.hk",
           "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxPMjZJTXhWcFpkNl9UaW4za29OLUpDR2NraWZHbzRoeElNWmZaQ1dEZDlNMldGbXlRTG0waW9RdWltbW9DOXBXb2IxMEt3UVJWQWVCaGxESnk1WHFYOWhjem1sZnAtUERCLUUzcjQzYlBGZWxvdHZrR19ibVV4cFp4TlozZUtrb3RLRnlvUmZHMlRuanpYWW4tczhNcUZuUzJMS1c1dEgtOU14LVNRcnpWM1VaeDNWaWd1aDdnT3kyMmhESVh5TG1YUTRTRkpMMHFrNm9IZkR2dmNlXzJHc1NoOFhvUzNKMWlWaUVWSU50RjVxOVJJV0gwOEpQZkNUaEVJUTZHQnAxMUZfWVAtbW1HRUhSM205UVRyWEI5X2xsUEl4WGVQaktCQVJfR3NkVDBTV0R1bWwwV1BCSXFjSDlJbWthRUFJRVYyZl9HNG5HX2l5YW84bG9rSzVnNkVYeU85S2lMbERTbF9tZWRVX2hjVWY3VXZnaGEyUWQ1NnFEVS1MYXdoWDJCSzBGR3hoRnFvcXV6d1p3R2UyUnpVU2ZuS0hyczRIQ3ZHSjRNV0MxempLbmxtck4tU1RCdzlwWnpiX2VkRWZPemVDY1dJZmxWZlpR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6cef6abc3029",
-      "title": "麻疹｜秀茂坪35歲女確診麻疹 傅染力極高 即睇典型症狀與自保方法",
-      "published": "2026-08-19T08:25:17+00:00",
-      "summary": "麻疹｜秀茂坪35歲女確診麻疹 傅染力極高 即睇典型症狀與自保方法&nbsp;&nbsp;香港0135歲非本地出生女子染麻疹 198人列密切接觸者&nbsp;&nbsp;orangenews.hk35歲女發燒出疹揭患高傳染惡疾 近200人需受監察全因一舉動&nbsp;&nbsp;GOtrip.hk女子潛伏期內曾離港旅遊 #麻疹 #秀茂坪 #am730&nbsp;&nbsp;facebook.com傳染病警戒｜香港爆麻疹！曾赴聯合醫院 近200人列密切接觸 即睇病徵&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPcXV6aFNqOE5SRDBRVnhGRU56Uy1BOXRwWTk1bExWa0F0Z25admtxRVN1dGVkT3VrUGl5dHJ1REJhXzJJZkR2S3dDRm5YSS1BQk9oQjQ0dXRLdmRJUnd1Y0xnYjlJOVVnOU84VFBSSzlfY3F3UmdHUzV3a1JQWXpoWDdVQ2piTGc1M1lWVkJ1bWVZaVVhNHFYSXl2Q2R6YmRmanhFUF9MSF9qZlRzYmtDd1ZzSmdtX2Y4U0tsUzZYelJ2VjZnYjdONWxZVDdNSC1jSkJ0NFJabXA2QlhwU2hxT2k0enZjVmZ4SmVwRk40SnhqWE8wUjRYQzhPbjJFMG01YVNtNjV2N09GczFpdmhiaWszeE1tMUV6dEZpeDh4dHhiNDQydWZlTEVmeDRZQm5jSUxSWlZGSklHSXBMUmVVMFFpQXBRVHdtMHNDcHl6WDUxR2JRZTRhUjRxWWwwZmZxUGNHVzlkRUY2V2JoQzQycDlVcEo2bURpdV9vNWktVTM3VHlvUXZEOGNsamxGRGliQ3dicE5BRThfbGxZMk1sOERoaWlvWnVwdDFtQmNB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "66a6de5656bf",
-      "title": "降低食慾的荷爾蒙 GDF15 具隱藏功能，暗中護肝臟不受損害 - TechNews 科技新報",
-      "published": "2026-08-19T07:53:33+00:00",
-      "summary": "降低食慾的荷爾蒙 GDF15 具隱藏功能，暗中護肝臟不受損害&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RbEVFcmZTd2E3S1FMNF9wUTJuazZOZ1ROS3lpOGs1dThTWFBZQmZIMXRoTGtIdzFMazR2cmdhMXBZc2NnalRpWENxMXRqdXlRZWNrOEk2aXZNWU5VUFFrTXRhOWFya1B3bTIwaE1qbGtyLUd6bFlUOA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -955,13 +904,13 @@
       "matched_keywords": []
     },
     {
-      "id": "d2c351580bda",
+      "id": "77df563120e7",
       "title": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南",
       "published": "2026-08-18T22:00:00+00:00",
-      "summary": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南&nbsp;&nbsp;ftvnews.com.tw",
+      "summary": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "ftvnews.com.tw",
+          "name": "民視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rdW5SSjdJci1iZ0YtMGY3N2VsV2FOWUhieWxlNUlFeWdIbnktTnJPRFJJUE5MeUoydzhmeDRxVDQ3UmVId0ZIVnhTWElJYVdrajZfZmxRRWxEYmQweTRVdw?oc=5"
         }
       ],
@@ -1206,24 +1155,11 @@
       "id": "c347b1dff7d0",
       "title": "益生菌能幫腎排毒？這幾類人亂吃恐出事！",
       "published": "2026-08-18T08:08:00+00:00",
-      "summary": "益生菌能幫腎排毒？這幾類人亂吃恐出事！&nbsp;&nbsp;東森新聞",
+      "summary": "益生菌能幫腎排毒？這幾類人亂吃恐出事！&nbsp;&nbsp;東森新聞逆轉腎惡化！腎臟名醫公開5大顧腎蔬果排行榜藍莓花青素護腎絲球也入榜- 營養好食&nbsp;&nbsp;TVBS 健康2.0健康網》腎友血鉀高別怕吃菜！ 營養師教3招去鉀&nbsp;&nbsp;自由健康網腎臟健康｜外出吃飯化妝吸入空污微粒腎功能急跌醫生推5大護腎抗發炎食材排走重金屬塑化劑- 東張+&nbsp;&nbsp;mytvsuper.com護腎飲食｜5旬男腎功能差拒吃菜便秘醫生力薦5大護腎抗發炎蔬菜3個月回復腎臟健康一種煮法減鉀- 東張+&nbsp;&nbsp;mytvsuper.com",
       "sources": [
         {
           "name": "東森新聞",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jYXVHVFY1aW1kWVJfdHRYN3VRR1FiWDJGNy1MZnZqbWZpVlRha1BqYmNsMXM4VGozQzEwMWhhUEowYlI1Z3VvcmxoSC0xTklwVmpTQg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c24711a2caa5",
-      "title": "國家疾控局發布HPV疫苗科普問答- 健康",
-      "published": "2026-08-18T03:58:03+00:00",
-      "summary": "國家疾控局發布HPV疫苗科普問答- 健康&nbsp;&nbsp;香港文匯報醫學滿東華：HPV陽性≠患性病- 20260817&nbsp;&nbsp;明報 Our Lifestyle不是感染HPV就會罹癌 醫：高危險型HPV+持續感染最需當心&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "香港文匯報",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12ZUVwZnN1ZGhvTlVGNTVLUjN6b1hwcTE4aWR2RGhzdTVuZW42eU5nYV9Ya0N3VHVnMzJVbmFpWnZwRDE3dXNXTGxjOUFRQ2ljRW1qZ3VFWmZwLUJWQm4zTGREa2RYMHAyMDEzcTJ2MTE0TXp4QzJN?oc=5"
         }
       ],
       "matched_keywords": []
