@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-08-20T15:24:21.244385+00:00",
-  "total_count": 24,
-  "matched_count": 7,
+  "last_updated": "2026-08-20T16:23:08.411847+00:00",
+  "total_count": 23,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "8c0977a37770",
+      "title": "一夜情1舉動「男急衝醫院」醫：現在打不晚",
+      "published": "2026-08-20T13:56:04+00:00",
+      "summary": "一夜情1舉動「男急衝醫院」醫：現在打不晚&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNLXpheHpTN0s3aE96N1NGcUVUaC1BTS1YUWVwcWotczhyLVgyNkpMdEdkdnhSR0lxaUplWS12Y2xjSHpJeTY2TFRUX0lOUVk2dWl0S1pmbktRdlZ6emdvUjVvSUdDLTlJVXk0TWttM0pBZUpLX0VvdC0zc1JDNWxjbkk4MExmYXI0RmRiLWxnQVF0QXRRTjBJbGlQQ3NVcFU0VWY4VXFoUy1EdEwtOUJwUWNVZ0E4RXdWMXZWSGhPT2JSaW5iSkNoRUpnMWhjSkZBaVM1Snd4T2ZIX0dyQ0tJSmRZYmMyZ0NDcVA5X1VkWm1jZGxYWGxaVnNwOGpfcEVON0JUSlg4b3JYMjZ3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "1a03434e2c93",
       "title": "南山人壽：55歲後女性骨折理賠件數是男性2倍以上",
@@ -54,35 +67,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "5fe8aadb9bec",
-      "title": "「吃太好」恐怖共病地圖曝光！台灣6大慢性病高風險族群 中風92%、腎病90%出現共同代謝警訊",
-      "published": "2026-08-20T08:42:38+00:00",
-      "summary": "「吃太好」恐怖共病地圖曝光！台灣6大慢性病高風險族群 中風92%、腎病90%出現共同代謝警訊&nbsp;&nbsp;財訊",
-      "sources": [
-        {
-          "name": "財訊",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pRl9WaTBGaGw2Zl9PaUZULXhFakR2aXRBcE5GclZxOU4zYVl4Tk5BTEVKSW9SNEkycFVPMTJpZk1IRnFNdkpTUG1NbHB1eVpyRGxpdlZzc0JTYTlZaGRPdjJTTU10MTRMYUxESnZNcEZJRXJCNWxSellsMA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "800cc4878527",
@@ -965,215 +949,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "6823cf83cacd",
-      "title": "美國最常見癌症極易忽視 如何預防",
-      "published": "2026-08-18T14:00:00+00:00",
-      "summary": "美國最常見癌症極易忽視 如何預防&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "849e34530e76",

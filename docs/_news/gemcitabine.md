@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KWW9xZmJCQ2lmQ2VaRzJab0I3X0Z2RktBRmtmbktXaWNpNWR6c2EtUnpJQnFGY2V3MlJOMFVCVXcwTG84WDViV0NReGlRQTRVUGdWdnRR?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/gemcitabine/
 2026-08-19 <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[人民网-上海频道](https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZSlNvZWJpbDlGTGhOc1BBSVdUd1huancyQW15UllJYmhQVGRzd1N0c3RuYXh5MDFBa05ScjVCSGJtcjRhSTA2ejNkRmVzWU5CeE0yOGthbHJEWUlycHFhckpzTElJWG1nUzQyS1BSTmE?oc=5)
-
----
-
-### [美國最常見癌症極易忽視 如何預防](https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5)
-
-2026-08-18 <span class="news-indication-tag">癌症</span>
-
-來源：[Singtaousa](https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5)
 
 ---
 

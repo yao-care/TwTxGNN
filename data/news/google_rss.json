@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-20T15:24:17.148654+00:00",
-  "count": 23,
+  "fetched_at": "2026-08-20T16:23:03.777781+00:00",
+  "count": 22,
   "news": [
+    {
+      "id": "8c0977a37770",
+      "title": "一夜情1舉動「男急衝醫院」醫：現在打不晚 - Yahoo新聞",
+      "published": "2026-08-20T13:56:04+00:00",
+      "summary": "一夜情1舉動「男急衝醫院」醫：現在打不晚&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNLXpheHpTN0s3aE96N1NGcUVUaC1BTS1YUWVwcWotczhyLVgyNkpMdEdkdnhSR0lxaUplWS12Y2xjSHpJeTY2TFRUX0lOUVk2dWl0S1pmbktRdlZ6emdvUjVvSUdDLTlJVXk0TWttM0pBZUpLX0VvdC0zc1JDNWxjbkk4MExmYXI0RmRiLWxnQVF0QXRRTjBJbGlQQ3NVcFU0VWY4VXFoUy1EdEwtOUJwUWNVZ0E4RXdWMXZWSGhPT2JSaW5iSkNoRUpnMWhjSkZBaVM1Snd4T2ZIX0dyQ0tJSmRZYmMyZ0NDcVA5X1VkWm1jZGxYWGxaVnNwOGpfcEVON0JUSlg4b3JYMjZ3?oc=5"
+        }
+      ]
+    },
     {
       "id": "1a03434e2c93",
       "title": "南山人壽：55歲後女性骨折理賠件數是男性2倍以上 - 經濟日報",
@@ -36,18 +48,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kTU84MW8zTmtGZllOWE1ZSF9FUHdOenNTV1lmblNHRTdBMldhVXhmMWVnXzFyY3JfNDBIanppbEFqajI1bVlTOHBkNjVnajBBeTZYSmptMWRxUzVCYlowYXhLalk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5fe8aadb9bec",
-      "title": "「吃太好」恐怖共病地圖曝光！台灣6大慢性病高風險族群 中風92%、腎病90%出現共同代謝警訊 - 財訊",
-      "published": "2026-08-20T08:42:38+00:00",
-      "summary": "「吃太好」恐怖共病地圖曝光！台灣6大慢性病高風險族群 中風92%、腎病90%出現共同代謝警訊&nbsp;&nbsp;財訊",
-      "sources": [
-        {
-          "name": "財訊",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pRl9WaTBGaGw2Zl9PaUZULXhFakR2aXRBcE5GclZxOU4zYVl4Tk5BTEVKSW9SNEkycFVPMTJpZk1IRnFNdkpTUG1NbHB1eVpyRGxpdlZzc0JTYTlZaGRPdjJTTU10MTRMYUxESnZNcEZJRXJCNWxSellsMA?oc=5"
         }
       ]
     },
@@ -264,18 +264,6 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjlPSF81cHQ2WkM0NzBGZ3FuZnVmVDZUbll3THBKV2F4WF9FRnI1WDZBZ04ybGtZTDlhSHkxTDViaklmR0hwYkVDTUEzVndUaFJNdkxjRnY1R0lJakVDVTd5OGRDNmVmdGtlanROLTdIOXBUNlpZUGF4NGp5U01JLVpuU2ltUS1nQTBqUWpOdEdTdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6823cf83cacd",
-      "title": "美國最常見癌症極易忽視 如何預防 - Singtaousa",
-      "published": "2026-08-18T14:00:00+00:00",
-      "summary": "美國最常見癌症極易忽視 如何預防&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUZCS29xcFh1RXM0TWNZZmtEd3FkV3hnZnlONXh5M0JtTkJxYkZrVE05TU5scXVIT2I4WmFzRGFaQWRJYjlDY3gzbkdLcl82NzRJenpHQXI0dkdJemtRNEU3T1hZX2tmTVQ4dF9EbjJoLWU0SW5yTEItOW9JNVhOVGRR?oc=5"
         }
       ]
     }

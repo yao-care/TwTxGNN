@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [「吃太好」恐怖共病地圖曝光！台灣6大慢性病高風險族群 中風92%、腎病90%出現共同代謝警訊](https://news.google.com/rss/articles/CBMie0FVX3lxTE9pRl9WaTBGaGw2Zl9PaUZULXhFakR2aXRBcE5GclZxOU4zYVl4Tk5BTEVKSW9SNEkycFVPMTJpZk1IRnFNdkpTUG1NbHB1eVpyRGxpdlZzc0JTYTlZaGRPdjJTTU10MTRMYUxESnZNcEZJRXJCNWxSellsMA?oc=5)
-
-2026-08-20 <span class="news-indication-tag">中風</span>
-
-來源：[財訊](https://news.google.com/rss/articles/CBMie0FVX3lxTE9pRl9WaTBGaGw2Zl9PaUZULXhFakR2aXRBcE5GclZxOU4zYVl4Tk5BTEVKSW9SNEkycFVPMTJpZk1IRnFNdkpTUG1NbHB1eVpyRGxpdlZzc0JTYTlZaGRPdjJTTU10MTRMYUxESnZNcEZJRXJCNWxSellsMA?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
