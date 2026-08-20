@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-20T04:27:38.447586+00:00",
-  "count": 23,
+  "fetched_at": "2026-08-20T05:22:05.534908+00:00",
+  "count": 25,
   "news": [
     {
       "id": "f016a51798ce",
@@ -12,6 +12,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOQ0RoMG0ydzU5My11cFVnakR4ZjVneW5hdHc4UVZaS3Z6ME9VdW5zZmhqUXE3OUVhdHFUTXl6cFEyTXRJbTNrbTJ4amVkSVFQejBXM0syVWdTS3o3VHFFWFJOYVJvOE4ydnUxN2dlUkhrcXdLWUdsWlF1eUp4czJYV1Q3UWpjOGthQmsweXhNZ1d1NFFTRUNYeUJ0YU5MNUtDYmxJczZNeEVFWFJ4dTlzclFVaGxtZWNWbmo5R0RMVFppRVNJb1J6d0Q5Y0NpSmkyTi01N25HY2ZESE55cEc3NFZMTEVvV0xReHA5UjN5d1diS1ZxT2wyMGZ2SXdJS2NNWHRLWFJxNXZwcVRSblV0a1VrS0phNFhKLTAxRFRFNVE4MGc2dmFJczdna3ZHTi1hZmMtdl9KVmhYRVlyd0N1VmlkWFBVS0p6RDZpdUx5SDQ0VWVGUjFSdFMyclBHcGdhUndZSG90ZW9mN2JlRTFheFZJLXJ1aHE0U2V5LWV6OVlSaFA2aXRpYVA4TTZQYkU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ba535b0f94f3",
+      "title": "邁入40歲如何精準抗老？醫師建議「14項健檢」女性必做：不只婦科，這幾項也是關鍵 - ELLE",
+      "published": "2026-08-20T04:57:54+00:00",
+      "summary": "邁入40歲如何精準抗老？醫師建議「14項健檢」女性必做：不只婦科，這幾項也是關鍵&nbsp;&nbsp;ELLE",
+      "sources": [
+        {
+          "name": "ELLE",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUVdPcHZsMjdleDdrQXBiRW1TY0Jlb3pzdEx6ZzN0dDlsZlpBeEVRSzNvUklKVWFQei0wbW0wTVItNVNiWU9IR2JoWllZSlB1dWxvemx2amZaZkFkUHhVR09IU0pkZU1yZVZnOThHQzJydS1GZks0dmVQZGFucExjaDl4WC04UVk?oc=5"
         }
       ]
     },
@@ -40,14 +52,14 @@
       ]
     },
     {
-      "id": "98ab10df7d56",
-      "title": "洪詩愛女反覆高燒40度！「驗4種病毒全陰性」找不到病因超崩潰- 華人星光 - 中時新聞網",
-      "published": "2026-08-19T15:16:47+00:00",
-      "summary": "洪詩愛女反覆高燒40度！「驗4種病毒全陰性」找不到病因超崩潰- 華人星光&nbsp;&nbsp;中時新聞網",
+      "id": "de6fe8d1cab6",
+      "title": "洪詩曝愛女高燒飆40度！　查不出病因超懊惱：到底是什麼？ - ETtoday星光雲",
+      "published": "2026-08-19T13:45:00+00:00",
+      "summary": "洪詩曝愛女高燒飆40度！ 查不出病因超懊惱：到底是什麼？&nbsp;&nbsp;ETtoday星光雲",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oUjJ4SnVmNTZyRm5RX01Sc05iT0dTWVJ1eUhjb2tKUDFoVDdfeldPTUp5dlhDOXpGNno4MkFRQ0ZRQTRNMGctTUU2VnZ5M2EtMEl1MUFtNHNxTGRsZzhJb1NPd1U2dnhQSWtUMFN3?oc=5"
+          "name": "ETtoday星光雲",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWSVNyNTRSZ1QtbjhJZ29QQVhvN1hfWE1vS1BtRUtiZXdsd1JPLW5NZk1sYTJKWkpNNUdZblVBRXo1UmE2MVlneTRrUGlSUdIBTEFVX3lxTE9wRWVSeU1rRG9kclpQYVZQWEdRakJ6LTh1Q0tSaTZ4aEpxMnhNZ25tQWVNUlNpVHVDaEV3UWVoRTRIVG5QUkpfODlwT2c?oc=5"
         }
       ]
     },
@@ -127,7 +139,7 @@
       "id": "c347b1dff7d0",
       "title": "益生菌能幫腎排毒？這幾類人亂吃恐出事！ - 東森新聞",
       "published": "2026-08-18T08:08:00+00:00",
-      "summary": "益生菌能幫腎排毒？這幾類人亂吃恐出事！&nbsp;&nbsp;東森新聞逆轉腎惡化！腎臟名醫公開5大顧腎蔬果排行榜藍莓花青素護腎絲球也入榜- 營養好食&nbsp;&nbsp;TVBS 健康2.0健康網》腎友血鉀高別怕吃菜！ 營養師教3招去鉀&nbsp;&nbsp;自由健康網腎臟健康｜外出吃飯化妝吸入空污微粒腎功能急跌醫生推5大護腎抗發炎食材排走重金屬塑化劑- 東張+&nbsp;&nbsp;mytvsuper.com護腎飲食｜5旬男腎功能差拒吃菜便秘醫生力薦5大護腎抗發炎蔬菜3個月回復腎臟健康一種煮法減鉀- 東張+&nbsp;&nbsp;mytvsuper.com",
+      "summary": "益生菌能幫腎排毒？這幾類人亂吃恐出事！&nbsp;&nbsp;東森新聞逆轉腎惡化！腎臟名醫公開5大顧腎蔬果排行榜藍莓花青素護腎絲球也入榜- 營養好食&nbsp;&nbsp;TVBS 健康2.0健康網》腎友血鉀高別怕吃菜！ 營養師教3招去鉀&nbsp;&nbsp;自由健康網腎臟健康｜外出吃飯化妝吸入空污微粒腎功能急跌醫生推5大護腎抗發炎食材排走重金屬塑化劑- 東張+&nbsp;&nbsp;myTV SUPER護腎飲食｜5旬男腎功能差拒吃菜便秘醫生力薦5大護腎抗發炎蔬菜3個月回復腎臟健康一種煮法減鉀- 東張+&nbsp;&nbsp;myTV SUPER",
       "sources": [
         {
           "name": "東森新聞",
@@ -184,14 +196,14 @@
       ]
     },
     {
-      "id": "688521d8d4bb",
-      "title": "便宜、耐放又營養！專家推薦5種魚罐頭 「SMASH口訣」一次記 - 元氣網",
-      "published": "2026-08-19T02:04:32+00:00",
-      "summary": "便宜、耐放又營養！專家推薦5種魚罐頭 「SMASH口訣」一次記&nbsp;&nbsp;元氣網",
+      "id": "4317c93383fb",
+      "title": "Omega-3豐富 專家大力推薦這幾款魚罐頭 - 世界新聞網",
+      "published": "2026-08-18T06:15:23+00:00",
+      "summary": "Omega-3豐富 專家大力推薦這幾款魚罐頭&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBac0ZfOVZ2SzlKdTVqUTc3WmtHQWJZTU5uek9uWHp6T3MxLXkwQUNQOVA1SnhwWTdKQ3M0aWZqOGMyV3VqT0x0M000Q0lRYkE2bVM0RGxtZGM0SWQ40gFiQVVfeXFMT08wVkFjTjJSN2ZkdWFsb3NRQXpueVE3b2xSaXpGYTJOVXFzeGFmVUZqVjRkZS1tY1RXa0Rmc0xkQ3BXV3F4dlVQUURvT2RWU0V6Smp2eGRBaU02b2VsY1FTNGc?oc=5"
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HTnVwRDRoRjVaclQ0NDJmaVdVTGJNZS1iOTNqNS15RjdjZW9aYUdwdkFHN05EYkFGc1ktOFB1a3diNVNFVlJNVXZQeDNSd2tGQVJsaVBPdktwTk04QUE5VTF30gFnQVVfeXFMUGtFUE8yMVJ1V05BaGdPeHNON2dmVXpCOHFfS0dnd2ZSbWZPN3k3eGs0ZmtfX19GR2tKLU9LVzBOZnptZzdCWExlMFJfSV9BV3Y0RnRuaDlMU0tmQU9MMF9JbkdDQVhyYw?oc=5"
         }
       ]
     },
@@ -220,14 +232,38 @@
       ]
     },
     {
-      "id": "b9b0f0b4109d",
-      "title": "35歲女子感染麻疹 198人列為密切接觸者 - 大紀元時報 香港",
-      "published": "2026-08-19T08:36:17+00:00",
-      "summary": "35歲女子感染麻疹 198人列為密切接觸者&nbsp;&nbsp;大紀元時報 香港35歲非本地出生女子染麻疹 198人列密切接觸者&nbsp;&nbsp;orangenews.hk麻疹｜秀茂坪35歲女確診麻疹 傅染力極高 即睇典型症狀與自保方法&nbsp;&nbsp;hk01.com35歲女發燒出疹揭患高傳染惡疾 近200人需受監察全因一舉動&nbsp;&nbsp;GOtrip.hk女子潛伏期內曾離港旅遊 #麻疹 #秀茂坪 #am730&nbsp;&nbsp;facebook.com",
+      "id": "28ca4c16fd8f",
+      "title": "密歇根5年來首例人感染東部馬腦炎 死亡率30% - 大纪元",
+      "published": "2026-08-19T08:56:21+00:00",
+      "summary": "密歇根5年來首例人感染東部馬腦炎 死亡率30%&nbsp;&nbsp;大纪元",
       "sources": [
         {
-          "name": "大紀元時報 香港",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GbGR4ZE5SVXlmeGp2bWJFbE5ZT25CeE1tbEdfcGo5dlJac1lDejEyVUxxSWJ2VWxpLW9SQmJxYWloSVFKbGEyYXJ2UjFHWlZxVDg0QkFnZmN1SXJEMFlR?oc=5"
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaXzJibVpjYUhjRDNRYWpQQURXNVk5YWIyUURwVnF4MFZKbTZOR0VHS3RqUXJmVC01V0ozWG9ITFFQaUJFa3h3MkN1SmxyaVpoNjhCemgtY3lKNE1XMzU2edIBZkFVX3lxTFA3OFotVHc2RHg4NmRGYzNVeE9vdThya3I1VV9lWTBNMUp4Y3Y1eGVwWG1ibU9CeDlhWXBJTFd3eUpQcUIzcmhqTFpBSHltSDVqckhaR3E3eDRtMWJMOXZQWTJIQkIzQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f59e97ca7378",
+      "title": "孫慧雪親述三十年偏頭痛之路 生二胎後曾痛到膊頭、背脊 - 香港01",
+      "published": "2026-08-20T04:43:55+00:00",
+      "summary": "孫慧雪親述三十年偏頭痛之路 生二胎後曾痛到膊頭、背脊&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQT3J2YUJNX3YxaUNCU3ZNbGU0S1RpT3FJV19BX1hPRXd5MEJ4ei1tNnByNEJBLWROYjdSbXNZZnQzOHk5bnQ4WXFqYmlCSVJnSEl4dzdueGRJM0Z1TEszbzY1Wkh0RnNkQ1RCcFFoTUlCY1hFNlJ4bHhJQ3Voc1B0Ri1kV2NkX2lRM1RDZ2YzN2Z0aTYwMFYtMTNZTTcwY1ljc0VCQUxHOHd1RG1xZURYZm0yZzRNTjBLYWJUYS03SzRQRm5TN05uUE1FaUlaSWxuY0YtcHp1MXg1SS13SG1BdFlMTlF1a2tFMmZLalh6UGc4QmNRMHZGT2VVeHZlZ21IZVV5Rm8yNFNIWXBBSkxXTDZnamZMLVFibFVDalFIajFqVGRuQi1GSzZhVEdtOTdWWERaNEFCb3VfajZOdkFHUDB4Rzk4elpZcmdwLVA4d2FGT09Vc1hDc2pDTGxfTVJ1QWw5VUdiOEVNSmZIQkpxbVFaLWJzWkxOS3ZDUE5hQ05BVkJ2VEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fd7333f2714f",
+      "title": "麻疹｜35歲女子今確診 曾到聯合醫院求醫 198人列密切接觸者 - singtao.ca",
+      "published": "2026-08-18T20:45:49+00:00",
+      "summary": "麻疹｜35歲女子今確診 曾到聯合醫院求醫 198人列密切接觸者&nbsp;&nbsp;singtao.ca35歲非本地出生女子染麻疹 198人列密切接觸者&nbsp;&nbsp;orangenews.hk麻疹｜秀茂坪35歲女確診麻疹 傅染力極高 即睇典型症狀與自保方法&nbsp;&nbsp;香港0135歲女發燒出疹揭患高傳染惡疾 近200人需受監察全因一舉動&nbsp;&nbsp;GOtrip.hk女子潛伏期內曾離港旅遊 #麻疹 #秀茂坪 #am730&nbsp;&nbsp;facebook.com",
+      "sources": [
+        {
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOSlo3ZjdfMXNQVk5vbE9Jb3B3UW95X0hSMEZsQ1Q4d2xvX0l5ZEc5Ulpkc3czZFRQQWxKMk04eVIzZmx0MTVlOGZxV3pFa2tFZGpsdHh0YzFyQ0xmNVhVWHc5Q04wVWVQdlliS1NUX2h6bWhBY0FMTXFySW9Sa2daLXhDUmpmLV9CWWtWdXFOVGRab21BcE04b2RBOGNOeF9scGxVVEhDTXJUZnVzUHFYeHlXYXlQY3VnN2VDTUI2b0dRYm9KU2ozMjJScWxXYUt4Um14bXdPV1JJMVRSTVJ2RmVrNXBUQXJDSnQ1SFpTcjhnNVRWVWhxZHVoWGdOOTZxZlpTWlliczFQNkpBdldZcU5GZ0lrU1o4NnJjNTVGaFRQdzlXUWFiUzlONFBEZjRhMGc2TzJDb1BELVlSUzRKYXFwZUlHVlhNOG5oelpMME5hWndmeFpoTm5EOVZ6WC05dDQ0ckMwdnozRThwXzBrSGpuRkhfc2M4WkVyWFY2Ukx0WjZMR1HSAYoBQVVfeXFMTTJkcmxYanNDcldTS05rNUwyY3RBcXRETjJ6LTEtS05DT0o2UFNzbGhPald2TmFsMGdIblEyZDAwU1lKcjNLZkZPYkM3dDUwUmJXbzQ1NDlMeW1qRDJVTmlaeFRXdm1hUmpLY1hvVjZvRDNtWDhfemx4V05RdElZTmdIN21JampvdFBB?oc=5"
         }
       ]
     },
@@ -264,18 +300,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPSUhnVGtiUFNDUlR1WlE5MGc2ck85YWxpczZkVWFsSGIwSHpRVFZUUE1NdFBvRTVvY2ZmRnlBZHE5VG4yNS1DTlBYZEE2ZEMtTk9HMGduVjFZQ2cwNVRYVXhieWQySm5CbTdXS2c1RHZla2FHMXV0em5xcEJESmJ5VWpXdGY0dU9SQVpsTlpCbGVyQXhwaHRuZ1NaSFRXb0xLaW9acW1wNVMxMTV5Y2VJa1hpM2lfU2cxemtLNmpaeHN5NGllT01yTHdpbVVBcVY3NWZxOXZpUDlNUG8wZm1CNTd2a3hhVXBLS3h5S3l2ZEl3UzY2djhCTEdIdnZrdDlUNmtzMHhyMjRUN3ZvY2tyb1F3VlJLUEVqOHR4RTluUmVFWGIxZnpoLUNMcFVvU3NUcndaS0MtZXV0NDFfVUo1VWkxdWxmVHVUQVpKc25yS2w?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d800cd7f1c5e",
-      "title": "偏頭痛丨孫慧雪自揭偏頭痛30年 開工發作死撐痛到作嘔 生二胎後痛到膊頭背脊 - skypost.hk",
-      "published": "2026-08-19T08:30:51+00:00",
-      "summary": "偏頭痛丨孫慧雪自揭偏頭痛30年 開工發作死撐痛到作嘔 生二胎後痛到膊頭背脊&nbsp;&nbsp;skypost.hk",
-      "sources": [
-        {
-          "name": "skypost.hk",
-          "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxPMjZJTXhWcFpkNl9UaW4za29OLUpDR2NraWZHbzRoeElNWmZaQ1dEZDlNMldGbXlRTG0waW9RdWltbW9DOXBXb2IxMEt3UVJWQWVCaGxESnk1WHFYOWhjem1sZnAtUERCLUUzcjQzYlBGZWxvdHZrR19ibVV4cFp4TlozZUtrb3RLRnlvUmZHMlRuanpYWW4tczhNcUZuUzJMS1c1dEgtOU14LVNRcnpWM1VaeDNWaWd1aDdnT3kyMmhESVh5TG1YUTRTRkpMMHFrNm9IZkR2dmNlXzJHc1NoOFhvUzNKMWlWaUVWSU50RjVxOVJJV0gwOEpQZkNUaEVJUTZHQnAxMUZfWVAtbW1HRUhSM205UVRyWEI5X2xsUEl4WGVQaktCQVJfR3NkVDBTV0R1bWwwV1BCSXFjSDlJbWthRUFJRVYyZl9HNG5HX2l5YW84bG9rSzVnNkVYeU85S2lMbERTbF9tZWRVX2hjVWY3VXZnaGEyUWQ1NnFEVS1MYXdoWDJCSzBGR3hoRnFvcXV6d1p3R2UyUnpVU2ZuS0hyczRIQ3ZHSjRNV0MxempLbmxtck4tU1RCdzlwWnpiX2VkRWZPemVDY1dJZmxWZlpR?oc=5"
         }
       ]
     }
