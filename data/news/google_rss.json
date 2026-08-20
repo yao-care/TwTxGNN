@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-20T22:16:49.800095+00:00",
-  "count": 24,
+  "fetched_at": "2026-08-20T23:16:51.145905+00:00",
+  "count": 26,
   "news": [
     {
       "id": "8c0977a37770",
@@ -100,6 +100,18 @@
       ]
     },
     {
+      "id": "6d7dfc09491a",
+      "title": "新冠好了卻還在咳、累、腦霧？醫師揭3大原因，4類人最易變長新冠 - Yahoo新聞",
+      "published": "2026-08-19T04:40:24+00:00",
+      "summary": "新冠好了卻還在咳、累、腦霧？醫師揭3大原因，4類人最易變長新冠&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxObkJGakY3TER1ZlhjVXBGNERLOE5QY3JkclpYeHlUblJLYXR6ZllGS3ZwNlVWVjVDdVRDWFM5WE41R2xtaUZ3aG1kNmVoQzlZczVEeFpzZ2hWVjJxMjNTUkNkbGpTalF6TGFaelA3TzB6UFpnem83MTVDWU80bG43em51NGRsYWZxUEZPRHlvQ21EcnNOSUhiMHVMaXlpOURMMEI0LXF3cl8tSzJNTHRfcUZoWWxraVkxbnVpWmF4Y1dJS0VJY0lOc2k1WGU4a2NtLWtKdVlIN2Q0QVllblpBcWIwUlZnMmJhTkRzRUpnRGhER25wR3dnd1VMM0hxOVI1cmY4eEZsRThhX2ptMjBjWG1JOUFla0xOMXlldmpQUmZobGloZ1ZIN0piRzRwbGppcnhFenM5REVPcFFQTmhMUUdIeW0xTGgwU3B3YVVYOXdTWmVWaGpOTnVCLW04MXJIaWxScWNiM2o4aWYxRXNRM1pKTXg5Sng4RHhuQV96TkdYajExbHg4?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f43eefc727d8",
       "title": "脂肪肝變輕先別開心！醫提醒「脂肪胰」更易被忽略：當心血糖、胰臟癌風險 | 熱門話題 | 要聞 - 經濟日報",
       "published": "2026-08-19T10:52:14+00:00",
@@ -136,14 +148,14 @@
       ]
     },
     {
-      "id": "a69171d83857",
-      "title": "50歲以下罹癌率狂飆8成！醫示警：異常出血速就醫 - Yahoo新聞",
+      "id": "1eb34604aac5",
+      "title": "50歲以下罹癌率狂飆8成！醫示警：異常出血速就醫 - 中天新聞網",
       "published": "2026-08-19T08:08:02+00:00",
-      "summary": "50歲以下罹癌率狂飆8成！醫示警：異常出血速就醫&nbsp;&nbsp;Yahoo新聞",
+      "summary": "50歲以下罹癌率狂飆8成！醫示警：異常出血速就醫&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQZFpFZGotVTJ5aU5EU2o4d2pLLWhWeDlrQXAxdVktbENfOHhDZmtUc3A1b2pmTXZHNGxNbG42R1hRY21nRUxINjZ0RmFyQUVKN0Nld243Z2ZiVzlUa01IcGFCNkhJRVNtTk5JZnRnQTg5dE1vNVlKOU5QRHFCbEFPNGdabjFUcHA2bWcwTk52anBmaHMzZ1BfNXUtNEZHY2hFVnV2M2dENWJKejM4X3l6Ti1kdml6TE1xRzRLTEIzVkFnNnhTTk9nLVZpaTNXcTMzUUJJOGQtbWhVRTlNbFh2SG96ZkdQV3YyeWt4V1RUeWM0RjEyMXpJUjlMLWptbnB6WEkxN0V2aFRlMEh4TGozU21YeThZejJHaEx4RGNhVE1LdlFFY3Ewcl9heU1IY2xTM2ZvSy1sT3pUZVM1Zmc?oc=5"
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCdzVsWmI3aUtmQUlxeEtMMHpTV0xJcmVSeC1TZm44WFVubGppRExlcm1zWi1GSkxCMGtXd2tEcmpLZEpHRXpqZF9uaV85ZnRiS204?oc=5"
         }
       ]
     },
@@ -156,18 +168,6 @@
         {
           "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XS2RrNkIxRUFOa0N0TzRTRHBUSk54SHBJSFBzZkhGVTFfeXZpZnc5cHZGWHJsbmJiWXlvZWhSejk3WmRIbTB2QUdDSTBPdGM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "77df563120e7",
-      "title": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南 - 民視新聞網",
-      "published": "2026-08-18T22:00:00+00:00",
-      "summary": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rdW5SSjdJci1iZ0YtMGY3N2VsV2FOWUhieWxlNUlFeWdIbnktTnJPRFJJUE5MeUoydzhmeDRxVDQ3UmVId0ZIVnhTWElJYVdrajZfZmxRRWxEYmQweTRVdw?oc=5"
         }
       ]
     },
@@ -187,11 +187,23 @@
       "id": "894adb2e14f0",
       "title": "中年3件事沒顧好55歲後少12.6年沒失智時光- 健康 - 中時新聞網",
       "published": "2026-08-19T06:47:40+00:00",
-      "summary": "中年3件事沒顧好55歲後少12.6年沒失智時光- 健康&nbsp;&nbsp;中時新聞網想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦&nbsp;&nbsp;Yahoo新聞大腦老得慢，中年就要開始！研究揭2件事與晚年認知衰退較慢有關&nbsp;&nbsp;元氣網避免糖尿病高血壓吸菸 可延遲失智近13年&nbsp;&nbsp;大纪元不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online新聞",
+      "summary": "中年3件事沒顧好55歲後少12.6年沒失智時光- 健康&nbsp;&nbsp;中時新聞網想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦&nbsp;&nbsp;Yahoo新聞大腦老得慢，中年就要開始！研究揭2件事與晚年認知衰退較慢有關&nbsp;&nbsp;元氣網避免糖尿病高血壓吸菸 可延遲失智近13年&nbsp;&nbsp;大纪元不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HczhVdzNlajFaRTBNOFBmQU9GaWpiYmJtc1E0NVBPRTFVRnExWlQwX3g5V2FWWEJEbGk0WWxiaG52Mll3bUw0bkszbjhvRTNwZ0hLY29jem1kTm1XNHV3a0YzVE5uZ1JiN1ZfZkZ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "77df563120e7",
+      "title": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南 - 民視新聞網",
+      "published": "2026-08-18T22:00:00+00:00",
+      "summary": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南&nbsp;&nbsp;民視新聞網",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rdW5SSjdJci1iZ0YtMGY3N2VsV2FOWUhieWxlNUlFeWdIbnktTnJPRFJJUE5MeUoydzhmeDRxVDQ3UmVId0ZIVnhTWElJYVdrajZfZmxRRWxEYmQweTRVdw?oc=5"
         }
       ]
     },
@@ -228,6 +240,18 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmR0lmZDFqd2kyOEZVVW5HLXZTMmZZTkNiZlVTNmRkWXRmYWVlRjhpRGdIOU5nWHpzSWVid01ZRjhmNVlhS0cwQ2diTzNVcVg3Z1RlQnJnTjdfWXUyb3VtVHZR0gFnQVVfeXFMTzN6eThFQThSYWZHUEFNakQ3dGNPcnZkNDJfQXFDRVNpR2lVQnltSDNnNDAyMTdhckpxZDYwd2V4VXJreGpFMVBBbUM0d1c3NUJmWXhXT2c1bDlyUjN5OVdySVI2UGRjUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b58d7fdff5d1",
+      "title": "老化不一定等於衰退 耶魯研究揭： 近半長者身體或認知功能可改善 - bastillepost.com",
+      "published": "2026-08-20T22:40:35+00:00",
+      "summary": "老化不一定等於衰退 耶魯研究揭： 近半長者身體或認知功能可改善&nbsp;&nbsp;bastillepost.com",
+      "sources": [
+        {
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOTHNvNW0zMDR5UmpqZUFzeXBpQlBDaGdBN29xSUZ5QlhvbThJU2tuUzBiYkY5NTl1elBBdlVleVdkdHdGM3RudWwtaHRZekxwaEdiOGFBNk5odE5rSGpmWUV6TzNlUjg2dzF0M1p6bzFBbkRuZWZkV3BQLUpTVW9TQlM5alhtNXNpRks0VTBsTGUtUm1CZmh2UzFSd3FIM3psRnNIOGNZV25UejNWSkI4TFZMU1NMeEdobmhVLWI1WEJweGVrRGtoVFVwZWhKZWdwY3lCc0Z6bDBtOS1pbTFpbmRVMjA3ZVBJWDg1RjRXT3JRLTNjN0t0Mm5xYk1GVnloVVVpdWFRQVZjb1ptdTRIbm9HR1NPWWhrcFlSSjRFVjQyMTZFRlZmdThybU1rTVJrZHRKd2lEZjFhM29TZFB1aXZWNkdvOVV6bmNQUW5fVHFuTURfSllTcTktR2tTQ1JtYkNVVUlDVk5fSFpsWXc0?oc=5"
         }
       ]
     },
