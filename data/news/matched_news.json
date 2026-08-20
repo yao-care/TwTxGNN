@@ -1,8 +1,33 @@
 {
-  "last_updated": "2026-08-19T23:14:18.058032+00:00",
-  "total_count": 27,
-  "matched_count": 7,
+  "last_updated": "2026-08-20T00:41:56.880746+00:00",
+  "total_count": 28,
+  "matched_count": 8,
   "news": [
+    {
+      "id": "3069d6bc2424",
+      "title": "她重感冒硬撐不吃藥 4天後「嚴重酸中毒」、還腎衰敗",
+      "published": "2026-08-20T00:28:54+00:00",
+      "summary": "她重感冒硬撐不吃藥 4天後「嚴重酸中毒」、還腎衰敗&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNRVZ0dS1DSG9saEViWUNHRDlFYzc5U1Vtb0xhUW4zYmM5aUZ6OFgyZkNRTGpyYTJvR19oNUZXSUdvUGhNZEVrdVNLeFlvX1MxYlA5SFBzNWQ0WEtpWjYwVXFuZ1l5dGpwN1pCYl9BcENyU2lySXNfTkRqbVZWZG44d3VTLXNUY1ZUdVFQNUdQZGRERGo5T3ExTjlla2V4UHd0U0I1Zlc0YXgwR2RzZFAtclpZUjB4MHVCSDdpVUhBZFN5T1Jqb0t5NWdrMHJJZ0k1Mlo0QnlEV1pLc3R2X1gybjVla1JLNXVTNXdkancwR2VqSHBLT1duWWdvcVVVem1FdDFPVUJ3SXFrdnY1bzJFOXlmTUpIazVBSE5oUThTbDY3TGxmRzNNc0ZNdEw1UE9hQWNNeV9vQy15MGtLaTc3b0ZmWXRJajVj?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2f665be591c6",
       "title": "紐約市衛生局發現2026年首例人類感染西尼羅病毒病例",
@@ -12,19 +37,6 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96YWhtMmp0S0l2SzNvRzRXU05tMXozUzgyUXpSRlhteEZ5NGZwbHhtTGY3M3VwaFVPTVZMYTR5YnlKd0FNa3prY212cVBSZ2J5VkZQVWpsWmFTTkVIbmZvdzNn0gFnQVVfeXFMTm5PSTRmWWxfQXNFTFB4SEZDTm5BNWJoMlMzVHlxTEZVRUpQVmU1bF9taVh3WmUxRlVPMmY5Z0RWQTQxMjFPOGxkRkhqVmdzcW9qX3R3TGhXX2VIazFiMzI3SE5vNFZBTQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e94aee405a28",
-      "title": "降低食慾的荷爾蒙 GDF15 具隱藏功能，暗中護肝臟不受損害 | 科技新報 - LINE TODAY",
-      "published": "2026-08-19T16:18:19+00:00",
-      "summary": "降低食慾的荷爾蒙 GDF15 具隱藏功能，暗中護肝臟不受損害 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hMDhCV0pWTUNyOC0xeG5hV0lRNWhnbllLTktZNW9qQmtYMUNudWdJeEJSWEVrU0FwNEdYM1dXemJocVVXVlNHV0NnN2RtdXFlRUhKaFpn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -69,13 +81,13 @@
       "matched_keywords": []
     },
     {
-      "id": "f47a97ee0488",
+      "id": "f43eefc727d8",
       "title": "脂肪肝變輕先別開心！醫提醒「脂肪胰」更易被忽略：當心血糖、胰臟癌風險 | 熱門話題 | 要聞",
       "published": "2026-08-19T10:52:14+00:00",
-      "summary": "脂肪肝變輕先別開心！醫提醒「脂肪胰」更易被忽略：當心血糖、胰臟癌風險 | 熱門話題 | 要聞&nbsp;&nbsp;money.udn.com",
+      "summary": "脂肪肝變輕先別開心！醫提醒「脂肪胰」更易被忽略：當心血糖、胰臟癌風險 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報",
       "sources": [
         {
-          "name": "money.udn.com",
+          "name": "經濟日報",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Vekt3MzBmS3BoSXRRWXhLeUhoS0dlZWJIWkJlaHJqN0FUWUY2TXJzMGlnVWF5MGJaTC1Ja1RuWWFMSGszSkdwblZMUU1kVU5lUERTSExGbEhHT3ZGNnNWOWNoZDZfSUtMdGxtbUNKU1haZEFIVE1J?oc=5"
         }
       ],
@@ -134,6 +146,19 @@
       "matched_keywords": []
     },
     {
+      "id": "66a6de5656bf",
+      "title": "降低食慾的荷爾蒙 GDF15 具隱藏功能，暗中護肝臟不受損害 - TechNews 科技新報",
+      "published": "2026-08-19T07:53:33+00:00",
+      "summary": "降低食慾的荷爾蒙 GDF15 具隱藏功能，暗中護肝臟不受損害&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RbEVFcmZTd2E3S1FMNF9wUTJuazZOZ1ROS3lpOGs1dThTWFBZQmZIMXRoTGtIdzFMazR2cmdhMXBZc2NnalRpWENxMXRqdXlRZWNrOEk2aXZNWU5VUFFrTXRhOWFya1B3bTIwaE1qbGtyLUd6bFlUOA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "be9a6d15ea04",
       "title": "想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦",
       "published": "2026-08-19T07:00:03+00:00",
@@ -172,13 +197,13 @@
       "matched_keywords": []
     },
     {
-      "id": "5000e1cc265e",
+      "id": "d924bef96b92",
       "title": "逼癌細胞狂吃糖再斷脂肪！ 美頂尖研究設「雙重陷阱」滅腫瘤",
       "published": "2026-08-19T05:58:00+00:00",
-      "summary": "逼癌細胞狂吃糖再斷脂肪！ 美頂尖研究設「雙重陷阱」滅腫瘤&nbsp;&nbsp;自由健康網",
+      "summary": "逼癌細胞狂吃糖再斷脂肪！ 美頂尖研究設「雙重陷阱」滅腫瘤&nbsp;&nbsp;health.ltn.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfRlpZN2RYZHYxbUlqRG5vbjBORExGMlA5a0NZaVlFMlU0VG91R1R1bUVRMTVRX1kzVVptb3o5WnR1U1BWZm5kWS1SeUNfY3JOV0hBZDgwTzRVMXRocmgwVFlkeVg?oc=5"
         }
       ],
@@ -664,13 +689,13 @@
       ]
     },
     {
-      "id": "8a98d522e265",
+      "id": "3faeabee612c",
       "title": "健康網》孩子得什麼病？醫師這樣下判斷",
       "published": "2026-08-18T12:20:00+00:00",
-      "summary": "健康網》孩子得什麼病？醫師這樣下判斷&nbsp;&nbsp;自由健康網",
+      "summary": "健康網》孩子得什麼病？醫師這樣下判斷&nbsp;&nbsp;health.ltn.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0ycmxZTlpTRnFUMG5PcUxSd1ZDdk5vRFVKY0pNX19Ld000c043QjBjZHAweDhVcTlPbnkzMHUtQ2p4YXlNMjlJNnV2M3prdmQyTDB1SllKTGVqNkxFeEx3VC1Gb3U?oc=5"
         }
       ],
@@ -1110,7 +1135,7 @@
       "id": "d86691b553fb",
       "title": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂",
       "published": "2026-08-18T06:38:40+00:00",
-      "summary": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂&nbsp;&nbsp;am730緬甸仰光爆霍亂疫情 500人腹瀉住院149例確診&nbsp;&nbsp;rti.org.tw緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;ctinews.com緬甸最大城爆霍亂！500人嚴重腹瀉住院 149人快篩陽性 - 國際新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online新聞緬甸仰光爆發霍亂疫情500人腹瀉住院- 國際&nbsp;&nbsp;自由時報",
+      "summary": "緬甸仰光爆霍亂疫情 500人腹瀉住院149人確診霍亂&nbsp;&nbsp;am730緬甸仰光爆霍亂疫情 500人腹瀉住院149例確診&nbsp;&nbsp;rti.org.tw緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;中天新聞網緬甸最大城爆霍亂！500人嚴重腹瀉住院 149人快篩陽性 - 國際新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞緬甸仰光爆發霍亂疫情500人腹瀉住院- 國際&nbsp;&nbsp;自由時報",
       "sources": [
         {
           "name": "am730",

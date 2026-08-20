@@ -1,7 +1,31 @@
 {
-  "generated": "2026-08-19T23:14:18.087788+00:00",
-  "count": 7,
+  "generated": "2026-08-20T00:41:56.912222+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "3069d6bc2424",
+      "title": "她重感冒硬撐不吃藥 4天後「嚴重酸中毒」、還腎衰敗",
+      "published": "2026-08-20T00:28:54+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNRVZ0dS1DSG9saEViWUNHRDlFYzc5U1Vtb0xhUW4zYmM5aUZ6OFgyZkNRTGpyYTJvR19oNUZXSUdvUGhNZEVrdVNLeFlvX1MxYlA5SFBzNWQ0WEtpWjYwVXFuZ1l5dGpwN1pCYl9BcENyU2lySXNfTkRqbVZWZG44d3VTLXNUY1ZUdVFQNUdQZGRERGo5T3ExTjlla2V4UHd0U0I1Zlc0YXgwR2RzZFAtclpZUjB4MHVCSDdpVUhBZFN5T1Jqb0t5NWdrMHJJZ0k1Mlo0QnlEV1pLc3R2X1gybjVla1JLNXVTNXdkancwR2VqSHBLT1duWWdvcVVVem1FdDFPVUJ3SXFrdnY1bzJFOXlmTUpIazVBSE5oUThTbDY3TGxmRzNNc0ZNdEw1UE9hQWNNeV9vQy15MGtLaTc3b0ZmWXRJajVj?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "be9a6d15ea04",
       "title": "想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦",
@@ -27,12 +51,12 @@
       ]
     },
     {
-      "id": "5000e1cc265e",
+      "id": "d924bef96b92",
       "title": "逼癌細胞狂吃糖再斷脂肪！ 美頂尖研究設「雙重陷阱」滅腫瘤",
       "published": "2026-08-19T05:58:00+00:00",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfRlpZN2RYZHYxbUlqRG5vbjBORExGMlA5a0NZaVlFMlU0VG91R1R1bUVRMTVRX1kzVVptb3o5WnR1U1BWZm5kWS1SeUNfY3JOV0hBZDgwTzRVMXRocmgwVFlkeVg?oc=5"
         }
       ],
