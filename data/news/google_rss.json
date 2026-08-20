@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-20T21:18:57.045486+00:00",
+  "fetched_at": "2026-08-20T22:16:49.800095+00:00",
   "count": 24,
   "news": [
     {
@@ -187,7 +187,7 @@
       "id": "894adb2e14f0",
       "title": "中年3件事沒顧好55歲後少12.6年沒失智時光- 健康 - 中時新聞網",
       "published": "2026-08-19T06:47:40+00:00",
-      "summary": "中年3件事沒顧好55歲後少12.6年沒失智時光- 健康&nbsp;&nbsp;中時新聞網想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦&nbsp;&nbsp;Yahoo新聞大腦老得慢，中年就要開始！研究揭2件事與晚年認知衰退較慢有關&nbsp;&nbsp;元氣網避免糖尿病高血壓吸菸 可延遲失智近13年&nbsp;&nbsp;大纪元不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "中年3件事沒顧好55歲後少12.6年沒失智時光- 健康&nbsp;&nbsp;中時新聞網想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦&nbsp;&nbsp;Yahoo新聞大腦老得慢，中年就要開始！研究揭2件事與晚年認知衰退較慢有關&nbsp;&nbsp;元氣網避免糖尿病高血壓吸菸 可延遲失智近13年&nbsp;&nbsp;大纪元不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online新聞",
       "sources": [
         {
           "name": "中時新聞網",
@@ -208,18 +208,6 @@
       ]
     },
     {
-      "id": "dd5f58b7ed0d",
-      "title": "紐約爆今年首例人類感染西尼羅病毒 - 世界新聞網",
-      "published": "2026-08-20T10:22:00+00:00",
-      "summary": "紐約爆今年首例人類感染西尼羅病毒&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmR0lmZDFqd2kyOEZVVW5HLXZTMmZZTkNiZlVTNmRkWXRmYWVlRjhpRGdIOU5nWHpzSWVid01ZRjhmNVlhS0cwQ2diTzNVcVg3Z1RlQnJnTjdfWXUyb3VtVHZR0gFnQVVfeXFMTzN6eThFQThSYWZHUEFNakQ3dGNPcnZkNDJfQXFDRVNpR2lVQnltSDNnNDAyMTdhckpxZDYwd2V4VXJreGpFMVBBbUM0d1c3NUJmWXhXT2c1bDlyUjN5OVdySVI2UGRjUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4ee2e814ca34",
       "title": "密歇根州現致命東部馬腦炎病例 為5年來首例 - 大纪元",
       "published": "2026-08-20T04:30:00+00:00",
@@ -228,6 +216,18 @@
         {
           "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaXzJibVpjYUhjRDNRYWpQQURXNVk5YWIyUURwVnF4MFZKbTZOR0VHS3RqUXJmVC01V0ozWG9ITFFQaUJFa3h3MkN1SmxyaVpoNjhCemgtY3lKNE1XMzU2edIBZkFVX3lxTFA3OFotVHc2RHg4NmRGYzNVeE9vdThya3I1VV9lWTBNMUp4Y3Y1eGVwWG1ibU9CeDlhWXBJTFd3eUpQcUIzcmhqTFpBSHltSDVqckhaR3E3eDRtMWJMOXZQWTJIQkIzQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dd5f58b7ed0d",
+      "title": "紐約爆今年首例人類感染西尼羅病毒 - 世界新聞網",
+      "published": "2026-08-20T10:22:00+00:00",
+      "summary": "紐約爆今年首例人類感染西尼羅病毒&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmR0lmZDFqd2kyOEZVVW5HLXZTMmZZTkNiZlVTNmRkWXRmYWVlRjhpRGdIOU5nWHpzSWVid01ZRjhmNVlhS0cwQ2diTzNVcVg3Z1RlQnJnTjdfWXUyb3VtVHZR0gFnQVVfeXFMTzN6eThFQThSYWZHUEFNakQ3dGNPcnZkNDJfQXFDRVNpR2lVQnltSDNnNDAyMTdhckpxZDYwd2V4VXJreGpFMVBBbUM0d1c3NUJmWXhXT2c1bDlyUjN5OVdySVI2UGRjUQ?oc=5"
         }
       ]
     },
