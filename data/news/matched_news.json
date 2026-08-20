@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-08-20T08:26:20.023740+00:00",
-  "total_count": 23,
+  "last_updated": "2026-08-20T09:24:03.853888+00:00",
+  "total_count": 24,
   "matched_count": 6,
   "news": [
+    {
+      "id": "442e2609c700",
+      "title": "健康網》流感疫苗記得年年接種 醫：維持保護力",
+      "published": "2026-08-20T08:44:00+00:00",
+      "summary": "健康網》流感疫苗記得年年接種 醫：維持保護力&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kTU84MW8zTmtGZllOWE1ZSF9FUHdOenNTV1lmblNHRTdBMldhVXhmMWVnXzFyY3JfNDBIanppbEFqajI1bVlTOHBkNjVnajBBeTZYSmptMWRxUzVCYlowYXhLalk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "69aaea2a386e",
+      "title": "麻疹｜秀茂坪35歲女確診麻疹 近200人列密切接觸者【附麻疹病徵及預防方法】",
+      "published": "2026-08-20T08:30:02+00:00",
+      "summary": "麻疹｜秀茂坪35歲女確診麻疹 近200人列密切接觸者【附麻疹病徵及預防方法】&nbsp;&nbsp;香港經濟日報HKET麻疹｜秀茂坪35歲女確診麻疹 傅染力極高 即睇典型症狀與自保方法&nbsp;&nbsp;香港01女子感染麻疹198人列密切接觸者 患者非本港出生目前情況穩定&nbsp;&nbsp;香港電台新聞網傳染病警戒｜香港爆麻疹！曾赴聯合醫院 近200人列密切接觸 即睇病徵&nbsp;&nbsp;UHK 港生活麻疹｜35歲女子今確診 曾到聯合醫院求醫 198人列密切接觸者&nbsp;&nbsp;singtao.ca",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qNHNTdFo3cklOTTZoc2FncnhIaTAwbnpiNktoQ0xFVE44bHpjNlhOQk5qOHM1QVhDd2VaS2RCTjFLTHNNWlJ1NEdNUzUtZGF4ZWc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "5b7e33b08971",
       "title": "研究：3分鐘高強度衝刺 分子反應遠勝90分鐘中強度運動",
@@ -879,19 +905,6 @@
         {
           "name": "民視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rdW5SSjdJci1iZ0YtMGY3N2VsV2FOWUhieWxlNUlFeWdIbnktTnJPRFJJUE5MeUoydzhmeDRxVDQ3UmVId0ZIVnhTWElJYVdrajZfZmxRRWxEYmQweTRVdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fd7333f2714f",
-      "title": "麻疹｜35歲女子今確診 曾到聯合醫院求醫 198人列密切接觸者",
-      "published": "2026-08-18T20:45:49+00:00",
-      "summary": "麻疹｜35歲女子今確診 曾到聯合醫院求醫 198人列密切接觸者&nbsp;&nbsp;singtao.ca35歲非本地出生女子染麻疹 198人列密切接觸者&nbsp;&nbsp;橙新聞麻疹｜秀茂坪35歲女確診麻疹 傅染力極高 即睇典型症狀與自保方法&nbsp;&nbsp;香港0135歲女發燒出疹揭患高傳染惡疾 近200人需受監察全因一舉動&nbsp;&nbsp;GOtrip.hk女子潛伏期內曾離港旅遊 #麻疹 #秀茂坪 #am730&nbsp;&nbsp;facebook.com",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOSlo3ZjdfMXNQVk5vbE9Jb3B3UW95X0hSMEZsQ1Q4d2xvX0l5ZEc5Ulpkc3czZFRQQWxKMk04eVIzZmx0MTVlOGZxV3pFa2tFZGpsdHh0YzFyQ0xmNVhVWHc5Q04wVWVQdlliS1NUX2h6bWhBY0FMTXFySW9Sa2daLXhDUmpmLV9CWWtWdXFOVGRab21BcE04b2RBOGNOeF9scGxVVEhDTXJUZnVzUHFYeHlXYXlQY3VnN2VDTUI2b0dRYm9KU2ozMjJScWxXYUt4Um14bXdPV1JJMVRSTVJ2RmVrNXBUQXJDSnQ1SFpTcjhnNVRWVWhxZHVoWGdOOTZxZlpTWlliczFQNkpBdldZcU5GZ0lrU1o4NnJjNTVGaFRQdzlXUWFiUzlONFBEZjRhMGc2TzJDb1BELVlSUzRKYXFwZUlHVlhNOG5oelpMME5hWndmeFpoTm5EOVZ6WC05dDQ0ckMwdnozRThwXzBrSGpuRkhfc2M4WkVyWFY2Ukx0WjZMR1HSAYoBQVVfeXFMTTJkcmxYanNDcldTS05rNUwyY3RBcXRETjJ6LTEtS05DT0o2UFNzbGhPald2TmFsMGdIblEyZDAwU1lKcjNLZkZPYkM3dDUwUmJXbzQ1NDlMeW1qRDJVTmlaeFRXdm1hUmpLY1hvVjZvRDNtWDhfemx4V05RdElZTmdIN21JampvdFBB?oc=5"
         }
       ],
       "matched_keywords": []

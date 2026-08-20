@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-20T08:26:16.448980+00:00",
-  "count": 22,
+  "fetched_at": "2026-08-20T09:24:00.166929+00:00",
+  "count": 23,
   "news": [
+    {
+      "id": "442e2609c700",
+      "title": "健康網》流感疫苗記得年年接種 醫：維持保護力 - 自由健康網",
+      "published": "2026-08-20T08:44:00+00:00",
+      "summary": "健康網》流感疫苗記得年年接種 醫：維持保護力&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kTU84MW8zTmtGZllOWE1ZSF9FUHdOenNTV1lmblNHRTdBMldhVXhmMWVnXzFyY3JfNDBIanppbEFqajI1bVlTOHBkNjVnajBBeTZYSmptMWRxUzVCYlowYXhLalk?oc=5"
+        }
+      ]
+    },
     {
       "id": "5b7e33b08971",
       "title": "研究：3分鐘高強度衝刺 分子反應遠勝90分鐘中強度運動 - 自由健康網",
@@ -76,18 +88,6 @@
       ]
     },
     {
-      "id": "e94aee405a28",
-      "title": "降低食慾的荷爾蒙 GDF15 具隱藏功能，暗中護肝臟不受損害 | 科技新報 - LINE TODAY",
-      "published": "2026-08-19T20:50:51+00:00",
-      "summary": "降低食慾的荷爾蒙 GDF15 具隱藏功能，暗中護肝臟不受損害 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hMDhCV0pWTUNyOC0xeG5hV0lRNWhnbllLTktZNW9qQmtYMUNudWdJeEJSWEVrU0FwNEdYM1dXemJocVVXVlNHV0NnN2RtdXFlRUhKaFpn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e66952d81237",
       "title": "想健康活到80、90歲怎麼吃？醫師追蹤長壽族群：29種食物反覆出現在餐桌上 - Cosmopolitan",
       "published": "2026-08-19T10:35:28+00:00",
@@ -96,6 +96,18 @@
         {
           "name": "Cosmopolitan",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS3FvbnVRZ1JDbG5ZSVlwd0llVjVlRG1aaW5Zb1ZNYk9idXBCajhhWnBtd05SYWdva1Z6VlBoVlM4TlZMTVdQNG5WUG0wS0dYa3FjMTlUTE1aMTQ3eVYxZzhaT05jcm15UDZ5enpTX1RJUUFIbjFCd0IwdC05aWExcjBfVjZyMnhqc2NSWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e94aee405a28",
+      "title": "降低食慾的荷爾蒙 GDF15 具隱藏功能，暗中護肝臟不受損害 | 科技新報 - LINE TODAY",
+      "published": "2026-08-19T20:50:51+00:00",
+      "summary": "降低食慾的荷爾蒙 GDF15 具隱藏功能，暗中護肝臟不受損害 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hMDhCV0pWTUNyOC0xeG5hV0lRNWhnbllLTktZNW9qQmtYMUNudWdJeEJSWEVrU0FwNEdYM1dXemJocVVXVlNHV0NnN2RtdXFlRUhKaFpn?oc=5"
         }
       ]
     },
@@ -208,6 +220,18 @@
       ]
     },
     {
+      "id": "69aaea2a386e",
+      "title": "麻疹｜秀茂坪35歲女確診麻疹 近200人列密切接觸者【附麻疹病徵及預防方法】 - 香港經濟日報HKET",
+      "published": "2026-08-20T08:30:02+00:00",
+      "summary": "麻疹｜秀茂坪35歲女確診麻疹 近200人列密切接觸者【附麻疹病徵及預防方法】&nbsp;&nbsp;香港經濟日報HKET麻疹｜秀茂坪35歲女確診麻疹 傅染力極高 即睇典型症狀與自保方法&nbsp;&nbsp;香港01女子感染麻疹198人列密切接觸者 患者非本港出生目前情況穩定&nbsp;&nbsp;香港電台新聞網傳染病警戒｜香港爆麻疹！曾赴聯合醫院 近200人列密切接觸 即睇病徵&nbsp;&nbsp;UHK 港生活麻疹｜35歲女子今確診 曾到聯合醫院求醫 198人列密切接觸者&nbsp;&nbsp;singtao.ca",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qNHNTdFo3cklOTTZoc2FncnhIaTAwbnpiNktoQ0xFVE44bHpjNlhOQk5qOHM1QVhDd2VaS2RCTjFLTHNNWlJ1NEdNUzUtZGF4ZWc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f59e97ca7378",
       "title": "孫慧雪親述三十年偏頭痛之路 生二胎後曾痛到膊頭、背脊 - 香港01",
       "published": "2026-08-20T04:43:55+00:00",
@@ -216,18 +240,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQT3J2YUJNX3YxaUNCU3ZNbGU0S1RpT3FJV19BX1hPRXd5MEJ4ei1tNnByNEJBLWROYjdSbXNZZnQzOHk5bnQ4WXFqYmlCSVJnSEl4dzdueGRJM0Z1TEszbzY1Wkh0RnNkQ1RCcFFoTUlCY1hFNlJ4bHhJQ3Voc1B0Ri1kV2NkX2lRM1RDZ2YzN2Z0aTYwMFYtMTNZTTcwY1ljc0VCQUxHOHd1RG1xZURYZm0yZzRNTjBLYWJUYS03SzRQRm5TN05uUE1FaUlaSWxuY0YtcHp1MXg1SS13SG1BdFlMTlF1a2tFMmZLalh6UGc4QmNRMHZGT2VVeHZlZ21IZVV5Rm8yNFNIWXBBSkxXTDZnamZMLVFibFVDalFIajFqVGRuQi1GSzZhVEdtOTdWWERaNEFCb3VfajZOdkFHUDB4Rzk4elpZcmdwLVA4d2FGT09Vc1hDc2pDTGxfTVJ1QWw5VUdiOEVNSmZIQkpxbVFaLWJzWkxOS3ZDUE5hQ05BVkJ2VEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fd7333f2714f",
-      "title": "麻疹｜35歲女子今確診 曾到聯合醫院求醫 198人列密切接觸者 - singtao.ca",
-      "published": "2026-08-18T20:45:49+00:00",
-      "summary": "麻疹｜35歲女子今確診 曾到聯合醫院求醫 198人列密切接觸者&nbsp;&nbsp;singtao.ca35歲非本地出生女子染麻疹 198人列密切接觸者&nbsp;&nbsp;橙新聞麻疹｜秀茂坪35歲女確診麻疹 傅染力極高 即睇典型症狀與自保方法&nbsp;&nbsp;香港0135歲女發燒出疹揭患高傳染惡疾 近200人需受監察全因一舉動&nbsp;&nbsp;GOtrip.hk女子潛伏期內曾離港旅遊 #麻疹 #秀茂坪 #am730&nbsp;&nbsp;facebook.com",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOSlo3ZjdfMXNQVk5vbE9Jb3B3UW95X0hSMEZsQ1Q4d2xvX0l5ZEc5Ulpkc3czZFRQQWxKMk04eVIzZmx0MTVlOGZxV3pFa2tFZGpsdHh0YzFyQ0xmNVhVWHc5Q04wVWVQdlliS1NUX2h6bWhBY0FMTXFySW9Sa2daLXhDUmpmLV9CWWtWdXFOVGRab21BcE04b2RBOGNOeF9scGxVVEhDTXJUZnVzUHFYeHlXYXlQY3VnN2VDTUI2b0dRYm9KU2ozMjJScWxXYUt4Um14bXdPV1JJMVRSTVJ2RmVrNXBUQXJDSnQ1SFpTcjhnNVRWVWhxZHVoWGdOOTZxZlpTWlliczFQNkpBdldZcU5GZ0lrU1o4NnJjNTVGaFRQdzlXUWFiUzlONFBEZjRhMGc2TzJDb1BELVlSUzRKYXFwZUlHVlhNOG5oelpMME5hWndmeFpoTm5EOVZ6WC05dDQ0ckMwdnozRThwXzBrSGpuRkhfc2M4WkVyWFY2Ukx0WjZMR1HSAYoBQVVfeXFMTTJkcmxYanNDcldTS05rNUwyY3RBcXRETjJ6LTEtS05DT0o2UFNzbGhPald2TmFsMGdIblEyZDAwU1lKcjNLZkZPYkM3dDUwUmJXbzQ1NDlMeW1qRDJVTmlaeFRXdm1hUmpLY1hvVjZvRDNtWDhfemx4V05RdElZTmdIN21JampvdFBB?oc=5"
         }
       ]
     },
