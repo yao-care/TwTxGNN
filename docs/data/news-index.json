@@ -1,39 +1,7 @@
 {
-  "generated": "2026-08-20T06:29:01.397332+00:00",
-  "count": 7,
+  "generated": "2026-08-20T07:32:37.303361+00:00",
+  "count": 6,
   "news": [
-    {
-      "id": "3a283799771f",
-      "title": "早期肺癌手術切除不是治療終點醫解析「術後輔助治療」重要性- 健康新聞- PChome Online 新聞 - PChome Online新聞",
-      "published": "2026-08-20T01:00:00+00:00",
-      "sources": [
-        {
-          "name": "PChome Online新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcXltZXFDZGJTNDdCbHNTS084QVF1aEc0dDN4aUd5MUFVLWhmNWRQR3BOX1FGcDhHQUNqMjZhQWF6UlBVSWJWOENxa0ZYMFVoV0VMdlFQT2x1eUNxZ3Y1WGlxaVRxNWlaRC1SWXd6OXZwN2lJa1FvWEVEbDh1X19hLTlkbGZLY3VQZWVMaVlZbm9XUTg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "be9a6d15ea04",
       "title": "想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦",
