@@ -1,15 +1,43 @@
 {
-  "generated": "2026-08-20T09:24:03.876465+00:00",
-  "count": 6,
+  "generated": "2026-08-20T10:20:10.262935+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "be9a6d15ea04",
-      "title": "想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦",
-      "published": "2026-08-19T07:00:03+00:00",
+      "id": "5fe8aadb9bec",
+      "title": "「吃太好」恐怖共病地圖曝光！台灣6大慢性病高風險族群 中風92%、腎病90%出現共同代謝警訊",
+      "published": "2026-08-20T08:42:38+00:00",
       "sources": [
         {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZZzBoU2lrdllJc0trRGpkb3dQZURIMUR2UkljcnktTzdIbVVhSzZyZlVVLWUwc1E4ZUhwUmowUVRzTUtubTctcjZFYlpWeWVNcE94YU9HOA?oc=5"
+          "name": "財訊",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pRl9WaTBGaGw2Zl9PaUZULXhFakR2aXRBcE5GclZxOU4zYVl4Tk5BTEVKSW9SNEkycFVPMTJpZk1IRnFNdkpTUG1NbHB1eVpyRGxpdlZzc0JTYTlZaGRPdjJTTU10MTRMYUxESnZNcEZJRXJCNWxSellsMA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "894adb2e14f0",
+      "title": "中年3件事沒顧好55歲後少12.6年沒失智時光- 健康",
+      "published": "2026-08-19T06:47:40+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HczhVdzNlajFaRTBNOFBmQU9GaWpiYmJtc1E0NVBPRTFVRnExWlQwX3g5V2FWWEJEbGk0WWxiaG52Mll3bUw0bkszbjhvRTNwZ0hLY29jem1kTm1XNHV3a0YzVE5uZ1JiN1ZfZkZ3?oc=5"
         }
       ],
       "keywords": [
@@ -21,6 +49,21 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
             }
           ]
         }
