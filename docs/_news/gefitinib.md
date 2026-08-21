@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [大腦過了3歲就不會長？營養師揭密：「4招」讓記憶中樞海馬迴逆齡回春](https://news.google.com/rss/articles/CBMingNBVV95cUxNNG9ZcnFLZmV3NFNiYnkyX1d4Zmx4UGhid081T0dRaEJteGtsQm4zOTZyT3ZJaUtab1JkQndCQ0ZkTnFwZmNTM1gwd1h0cnpwbmJWbUtfdGFaVXl4UENmRVAyaEl5bERpM0xuZ3pseE9yNmVCVTlmWXplSGFiOTcyaGZKRXZ5Ymd5a0Itbm91OVNlT1Y4cS1naElFbE9JR0J1NVFOdy1xRlpWM1MyNmFrQktTa0UyaFV5Mm5Ba0VoTkk3bHo0S3paN3ZPNVNLUE5DZXlHc0NjOWx0NGZEYWNNc1lYOEZudVAwME9iNU5wa0U2WUNQd3RjOTRHb0xqc0NsU2YtUWw2akxXMzJzZnhaWTlkLVJCaHBOYVRtRWNicjBtcHBKS0hOSndwdjBXMm0tcHBvQkd3bFdnMXZhMmNCSldELWcwbVd0eGt2a3dpS1U5X3Q2Y3Jwem1QdGhaLVlGNnZnZzFHeGYxVHIwNnRsbkZUWU5IemJtTFBzTjcwc1VLNzUxMHlGYU1VZURkQ1hxUWJLeGkyallIRUlMalE?oc=5)
+### [寵物壁虎 竟可能成為破解癌症的重要幫手](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SR0NjbkdLNFJ2eU9yWTFhQXR1b3lpRHp0cm9ubGdZbUdiOXpUYTZLakR3OXdHTjJmLUlEVFEtbW80V3JyYlZ3LWc2bkQwLUs0X1BJMV9KUDBDVmgz0gFiQVVfeXFMTUVjUFRmME16OExPN05hT3R4Z3J4WHpjd2N3ZEJqQ18wQ202eUV1dzBOOEJoVkdfS2tqNGo5S05xT21RWVpLNk1aZFQ5ZXBNMllzUmF5MTRxUkpjT3lwdUZ4UkE?oc=5)
 
-2026-08-20 <span class="news-indication-tag">失智</span>
+2026-08-21 <span class="news-indication-tag">癌症</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMingNBVV95cUxNNG9ZcnFLZmV3NFNiYnkyX1d4Zmx4UGhid081T0dRaEJteGtsQm4zOTZyT3ZJaUtab1JkQndCQ0ZkTnFwZmNTM1gwd1h0cnpwbmJWbUtfdGFaVXl4UENmRVAyaEl5bERpM0xuZ3pseE9yNmVCVTlmWXplSGFiOTcyaGZKRXZ5Ymd5a0Itbm91OVNlT1Y4cS1naElFbE9JR0J1NVFOdy1xRlpWM1MyNmFrQktTa0UyaFV5Mm5Ba0VoTkk3bHo0S3paN3ZPNVNLUE5DZXlHc0NjOWx0NGZEYWNNc1lYOEZudVAwME9iNU5wa0U2WUNQd3RjOTRHb0xqc0NsU2YtUWw2akxXMzJzZnhaWTlkLVJCaHBOYVRtRWNicjBtcHBKS0hOSndwdjBXMm0tcHBvQkd3bFdnMXZhMmNCSldELWcwbVd0eGt2a3dpS1U5X3Q2Y3Jwem1QdGhaLVlGNnZnZzFHeGYxVHIwNnRsbkZUWU5IemJtTFBzTjcwc1VLNzUxMHlGYU1VZURkQ1hxUWJLeGkyallIRUlMalE?oc=5)
+來源：[經濟日報](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SR0NjbkdLNFJ2eU9yWTFhQXR1b3lpRHp0cm9ubGdZbUdiOXpUYTZLakR3OXdHTjJmLUlEVFEtbW80V3JyYlZ3LWc2bkQwLUs0X1BJMV9KUDBDVmgz0gFiQVVfeXFMTUVjUFRmME16OExPN05hT3R4Z3J4WHpjd2N3ZEJqQ18wQ202eUV1dzBOOEJoVkdfS2tqNGo5S05xT21RWVpLNk1aZFQ5ZXBNMllzUmF5MTRxUkpjT3lwdUZ4UkE?oc=5)
+
+---
+
+### [健康網》魚油、B群、藍莓都沒贏！ 研究揭健腦不如做對這件事](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Pbkt4X2RjMkJGYkpoT05VLUFkbXZfYlhkZ1llRTBiSGNtTVhuTl85a3ZGOFlvVDl0a0E2OFVldnBoMjJlUl9ZNXFkN0NVajFPbGlzMGJkY2hNbndGUDZNenBfZW0?oc=5)
+
+2026-08-19 <span class="news-indication-tag">失智</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Pbkt4X2RjMkJGYkpoT05VLUFkbXZfYlhkZ1llRTBiSGNtTVhuTl85a3ZGOFlvVDl0a0E2OFVldnBoMjJlUl9ZNXFkN0NVajFPbGlzMGJkY2hNbndGUDZNenBfZW0?oc=5)
 
 ---
 
