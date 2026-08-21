@@ -14,7 +14,7 @@ permalink: /news/docetaxel/
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Docetaxel</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ permalink: /news/docetaxel/
 <li>female breast carcinoma（99.9%）</li>
 <li>Ewing sarcoma（99.9%）</li>
 <li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
-<li class="indication-matched">small cell lung carcinoma（99.8%）<span class="indication-tag">📰 肺癌</span></li>
+<li>small cell lung carcinoma（99.8%）</li>
 <li>primary pulmonary lymphoma（99.8%）</li>
 <li>botryoid-type embryonal rhabdomyosarcoma of the vagina（99.8%）</li>
 <li>pulmonary blastoma（99.8%）</li>
@@ -42,39 +42,9 @@ permalink: /news/docetaxel/
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（0 則）
 
-### [寵物壁虎 竟可能成為破解癌症的重要幫手](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VdUFHZG00akd3SmplWUlja2R6cllpOUlCOGNSa2I0alNlWGZTVVBmSlczYlNuWkV6Q1lzWmpuNXRwNkU2Q21uSlh6el9XNzdqZ291a0lkTHBySld5dXfSAWJBVV95cUxNRWNQVGYwTXo4TE83TmFPdHhncnhYemN3Y3dkQmpDXzBDbTZ5RXV3ME44QmhWR19La2o0ajlLTnFPbVFZWks2TVpkVDllcE0yWXNSYXkxNHFSSmNPeXB1RnhSQQ?oc=5)
-
-2026-08-21 <span class="news-indication-tag">癌症</span>
-
-來源：[經濟日報](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VdUFHZG00akd3SmplWUlja2R6cllpOUlCOGNSa2I0alNlWGZTVVBmSlczYlNuWkV6Q1lzWmpuNXRwNkU2Q21uSlh6el9XNzdqZ291a0lkTHBySld5dXfSAWJBVV95cUxNRWNQVGYwTXo4TE83TmFPdHhncnhYemN3Y3dkQmpDXzBDbTZ5RXV3ME44QmhWR19La2o0ajlLTnFPbVFZWks2TVpkVDllcE0yWXNSYXkxNHFSSmNPeXB1RnhSQQ?oc=5)
-
----
-
-### [早期肺癌手術切除不是治療終點 醫解析「術後輔助治療」重要性](https://news.google.com/rss/articles/CBMijwNBVV95cUxOQ0RoMG0ydzU5My11cFVnakR4ZjVneW5hdHc4UVZaS3Z6ME9VdW5zZmhqUXE3OUVhdHFUTXl6cFEyTXRJbTNrbTJ4amVkSVFQejBXM0syVWdTS3o3VHFFWFJOYVJvOE4ydnUxN2dlUkhrcXdLWUdsWlF1eUp4czJYV1Q3UWpjOGthQmsweXhNZ1d1NFFTRUNYeUJ0YU5MNUtDYmxJczZNeEVFWFJ4dTlzclFVaGxtZWNWbmo5R0RMVFppRVNJb1J6d0Q5Y0NpSmkyTi01N25HY2ZESE55cEc3NFZMTEVvV0xReHA5UjN5d1diS1ZxT2wyMGZ2SXdJS2NNWHRLWFJxNXZwcVRSblV0a1VrS0phNFhKLTAxRFRFNVE4MGc2dmFJczdna3ZHTi1hZmMtdl9KVmhYRVlyd0N1VmlkWFBVS0p6RDZpdUx5SDQ0VWVGUjFSdFMyclBHcGdhUndZSG90ZW9mN2JlRTFheFZJLXJ1aHE0U2V5LWV6OVlSaFA2aXRpYVA4TTZQYkU?oc=5)
-
-2026-08-20 <span class="news-indication-tag">肺癌</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMijwNBVV95cUxOQ0RoMG0ydzU5My11cFVnakR4ZjVneW5hdHc4UVZaS3Z6ME9VdW5zZmhqUXE3OUVhdHFUTXl6cFEyTXRJbTNrbTJ4amVkSVFQejBXM0syVWdTS3o3VHFFWFJOYVJvOE4ydnUxN2dlUkhrcXdLWUdsWlF1eUp4czJYV1Q3UWpjOGthQmsweXhNZ1d1NFFTRUNYeUJ0YU5MNUtDYmxJczZNeEVFWFJ4dTlzclFVaGxtZWNWbmo5R0RMVFppRVNJb1J6d0Q5Y0NpSmkyTi01N25HY2ZESE55cEc3NFZMTEVvV0xReHA5UjN5d1diS1ZxT2wyMGZ2SXdJS2NNWHRLWFJxNXZwcVRSblV0a1VrS0phNFhKLTAxRFRFNVE4MGc2dmFJczdna3ZHTi1hZmMtdl9KVmhYRVlyd0N1VmlkWFBVS0p6RDZpdUx5SDQ0VWVGUjFSdFMyclBHcGdhUndZSG90ZW9mN2JlRTFheFZJLXJ1aHE0U2V5LWV6OVlSaFA2aXRpYVA4TTZQYkU?oc=5)
-
----
-
-### [腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KWW9xZmJCQ2lmQ2VaRzJab0I3X0Z2RktBRmtmbktXaWNpNWR6c2EtUnpJQnFGY2V3MlJOMFVCVXcwTG84WDViV0NReGlRQTRVUGdWdnRR?oc=5)
-
-2026-08-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KWW9xZmJCQ2lmQ2VaRzJab0I3X0Z2RktBRmtmbktXaWNpNWR6c2EtUnpJQnFGY2V3MlJOMFVCVXcwTG84WDViV0NReGlRQTRVUGdWdnRR?oc=5)
-
----
-
-### [早發性癌症病例增近80%！50歲以下現1症狀即求醫／醫生：九成關事 - U Food](https://news.google.com/rss/articles/CBMiiANBVV95cUxQdzNYRlgyLV9OOU5GbXlPSmdsSlJ6Q1hkLWI4NnBzSUIzZllBVGVTQnNHR01QYjZDdjg3b01mejctUkhZMFZFcWRpVjYwOVRJUTRlc25Wd18zcTh0ZWd5N0NlQmNuMkF5aU9zNjdhUTdBU2p0aWd0cExRNlhjdGpyX1drdi1HOTFEcDczRHY1Z3ZkUkMyMDJCNWkyLWd1ajFTRUhhczRkMkNtZ0s3dFVpZVJfTFV4X2Z3SjlYczlVRVo0dkJPR2JRZHRzRnZTaWhxSmRoLTB1VllicHE5OUdoT0JNOXlwYmlGZExOUXZORWhMWU94aHFqUjRrZXRRVXlycDRHbXZsU2UtTXJSTVoxVzFhUFhNMjN6QlpYRjBIY1VLX3NJRUkzc0x2NHFLMjMxZ3NEejlJa0lpYnRaM3l5NGVkLW40dk9COUF4RnNJY3lVc0VFQUtBRGt6MlpCVnBaOTBxa2FpdklRb0JTWl82alJVWFhkSFlvZ1lQcjQ2NW5sdEVOZk5JRQ?oc=5)
-
-2026-08-19 <span class="news-indication-tag">癌症</span>
-
-來源：[U Food](https://news.google.com/rss/articles/CBMiiANBVV95cUxQdzNYRlgyLV9OOU5GbXlPSmdsSlJ6Q1hkLWI4NnBzSUIzZllBVGVTQnNHR01QYjZDdjg3b01mejctUkhZMFZFcWRpVjYwOVRJUTRlc25Wd18zcTh0ZWd5N0NlQmNuMkF5aU9zNjdhUTdBU2p0aWd0cExRNlhjdGpyX1drdi1HOTFEcDczRHY1Z3ZkUkMyMDJCNWkyLWd1ajFTRUhhczRkMkNtZ0s3dFVpZVJfTFV4X2Z3SjlYczlVRVo0dkJPR2JRZHRzRnZTaWhxSmRoLTB1VllicHE5OUdoT0JNOXlwYmlGZExOUXZORWhMWU94aHFqUjRrZXRRVXlycDRHbXZsU2UtTXJSTVoxVzFhUFhNMjN6QlpYRjBIY1VLX3NJRUkzc0x2NHFLMjMxZ3NEejlJa0lpYnRaM3l5NGVkLW40dk9COUF4RnNJY3lVc0VFQUtBRGt6MlpCVnBaOTBxa2FpdklRb0JTWl82alJVWFhkSFlvZ1lQcjQ2NW5sdEVOZk5JRQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
