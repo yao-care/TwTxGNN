@@ -1,12 +1,25 @@
 {
-  "last_updated": "2026-08-21T08:28:04.759929+00:00",
+  "last_updated": "2026-08-21T09:26:37.636292+00:00",
   "total_count": 27,
   "matched_count": 5,
   "news": [
     {
+      "id": "c003337d0110",
+      "title": "壓力大時更容易迷路？研究發現皮質醇會讓大腦導航系統失靈 | 科技新報 - LINE TODAY",
+      "published": "2026-08-21T08:37:30+00:00",
+      "summary": "壓力大時更容易迷路？研究發現皮質醇會讓大腦導航系統失靈 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqcVhVOGR6ajBZWkdGZmZaUDhOSEtqVTQ2Z3ZKYVU2ZjNYZmVZRzFmMVljWkpJcnFfdXBhTGo0Zi1YU0NHbnJZR0dUTVRFM2pXdU1naTZn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "d8be452b7d5e",
       "title": "不只抗氧化發炎，大鼠實驗揭示薑黃素可阻止一型糖尿病患者血管惡化 - TechNews 科技新報",
-      "published": "2026-08-21T07:13:08+00:00",
+      "published": "2026-08-21T07:09:59+00:00",
       "summary": "不只抗氧化發炎，大鼠實驗揭示薑黃素可阻止一型糖尿病患者血管惡化&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
@@ -33,7 +46,7 @@
       "id": "2bff6c7dce30",
       "title": "女子感冒怕藥毒拒就醫 4天引發急性腎損傷",
       "published": "2026-08-21T06:04:26+00:00",
-      "summary": "女子感冒怕藥毒拒就醫 4天引發急性腎損傷&nbsp;&nbsp;Yahoo新聞65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命&nbsp;&nbsp;三立新聞感冒別硬撐！腎友怕「吃藥傷腎」拒就醫 4天後腎功能惡化 | CTWANT&nbsp;&nbsp;LINE TODAY重感冒硬撐不吃藥 她4天後酸中毒了 腎也衰竭&nbsp;&nbsp;中時新聞網她感冒硬撐「1事」 嚴重酸中毒、腎衰敗&nbsp;&nbsp;鏡週刊Mirror Media",
+      "summary": "女子感冒怕藥毒拒就醫 4天引發急性腎損傷&nbsp;&nbsp;Yahoo新聞65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命&nbsp;&nbsp;三立新聞重感冒硬撐不吃藥 她4天後酸中毒了 腎也衰竭&nbsp;&nbsp;中時新聞網她重感冒硬撐不吃藥 4天後「嚴重酸中毒」、還腎衰敗 | 三立新聞網&nbsp;&nbsp;LINE TODAY婦人重感冒怕「吃藥傷腎」！只喝水硬撐4天「嚴重酸中毒」...腎功能狂掉&nbsp;&nbsp;鏡週刊Mirror Media",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -298,19 +311,6 @@
         {
           "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcVYxb1JTVEpodkVVRkROdHo3TUpTX3NJRlRTbDZoTk1DTlJkZ1pzYVZpRWdJd0RvMDVuRFVycHBSSFAtclg4RDBMaXhZdnhGNERNWXFTUDQ2S1IzaFp1M09FNHZuNG15T2hZNExpLU9iNVVzM1NadXl3RUpYRFJrX21RMFJmVExSTzI1OUZHOFI?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "523bf5538ce7",
-      "title": "壓力大時更容易迷路？研究發現皮質醇會讓大腦導航系統失靈 - TechNews 科技新報",
-      "published": "2026-08-21T00:16:51+00:00",
-      "summary": "壓力大時更容易迷路？研究發現皮質醇會讓大腦導航系統失靈&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQi10bGlBVVcweEpMN0hOeWl4eDlDdU9LaS1XSEtoZHJuR3JKVXQxNTRrdElScVFVOXl5NkFNbTExY0FjWXlRS1E5Vll2aE1GeUFMVjNWMnpNeTV0RENGaTJtVHF3c0VqUDhtWGFNa1ZlWTVCSWEwRkVhTXNzYWRMaGdCSV9aQktKXy15OS1WeHYxQ2VIYmo0?oc=5"
         }
       ],
       "matched_keywords": []
