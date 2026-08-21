@@ -23,7 +23,7 @@ import subprocess
 import sys
 import xml.etree.ElementTree as ET
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import unquote, urlparse
 
 NS = "http://www.sitemaps.org/schemas/sitemap/0.9"
 
@@ -114,7 +114,9 @@ def main() -> int:
         loc_el = url_el.find(f"{{{NS}}}loc")
         if loc_el is None or not loc_el.text:
             continue
-        src = source_for(urlparse(loc_el.text).path, docs)
+        # ⚠️ 一定要 unquote：中文檔名的網址是百分號編碼的（/news/%E8%85%AB%E7%98%A4/
+        # ＝ /news/腫瘤/），不解碼就永遠對不到 docs/_news/腫瘤.md。
+        src = source_for(unquote(urlparse(loc_el.text).path), docs)
         date = commit_date(src, repo) if src else None
         if not date:
             existing = url_el.find(f"{{{NS}}}lastmod")
