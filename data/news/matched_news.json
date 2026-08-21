@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-21T06:29:32.735798+00:00",
-  "total_count": 30,
-  "matched_count": 5,
+  "last_updated": "2026-08-21T07:34:56.744716+00:00",
+  "total_count": 31,
+  "matched_count": 6,
   "news": [
     {
       "id": "7bd2f0c3621e",
@@ -20,7 +20,7 @@
       "id": "2bff6c7dce30",
       "title": "女子感冒怕藥毒拒就醫 4天引發急性腎損傷",
       "published": "2026-08-21T06:04:26+00:00",
-      "summary": "女子感冒怕藥毒拒就醫 4天引發急性腎損傷&nbsp;&nbsp;Yahoo新聞65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命&nbsp;&nbsp;三立新聞重感冒硬撐不吃藥 她4天後酸中毒了 腎也衰竭&nbsp;&nbsp;中時新聞網她重感冒硬撐不吃藥 4天後「嚴重酸中毒」、還腎衰敗 | 三立新聞網&nbsp;&nbsp;LINE TODAY婦人重感冒怕「吃藥傷腎」！只喝水硬撐4天「嚴重酸中毒」...腎功能狂掉&nbsp;&nbsp;鏡週刊Mirror Media",
+      "summary": "女子感冒怕藥毒拒就醫 4天引發急性腎損傷&nbsp;&nbsp;Yahoo新聞65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命&nbsp;&nbsp;三立新聞重感冒硬撐不吃藥 她4天後酸中毒了 腎也衰竭&nbsp;&nbsp;中時新聞網她重感冒硬撐不吃藥 4天後「嚴重酸中毒」、還腎衰敗 | 三立新聞網&nbsp;&nbsp;LINE TODAY感冒別硬撐！腎友怕「吃藥傷腎」拒就醫4天後腎功能惡化| 生活&nbsp;&nbsp;CTWANT",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -457,6 +457,39 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "f016a51798ce",
+      "title": "早期肺癌手術切除不是治療終點 醫解析「術後輔助治療」重要性",
+      "published": "2026-08-20T01:14:47+00:00",
+      "summary": "早期肺癌手術切除不是治療終點 醫解析「術後輔助治療」重要性&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOQ0RoMG0ydzU5My11cFVnakR4ZjVneW5hdHc4UVZaS3Z6ME9VdW5zZmhqUXE3OUVhdHFUTXl6cFEyTXRJbTNrbTJ4amVkSVFQejBXM0syVWdTS3o3VHFFWFJOYVJvOE4ydnUxN2dlUkhrcXdLWUdsWlF1eUp4czJYV1Q3UWpjOGthQmsweXhNZ1d1NFFTRUNYeUJ0YU5MNUtDYmxJczZNeEVFWFJ4dTlzclFVaGxtZWNWbmo5R0RMVFppRVNJb1J6d0Q5Y0NpSmkyTi01N25HY2ZESE55cEc3NFZMTEVvV0xReHA5UjN5d1diS1ZxT2wyMGZ2SXdJS2NNWHRLWFJxNXZwcVRSblV0a1VrS0phNFhKLTAxRFRFNVE4MGc2dmFJczdna3ZHTi1hZmMtdl9KVmhYRVlyd0N1VmlkWFBVS0p6RDZpdUx5SDQ0VWVGUjFSdFMyclBHcGdhUndZSG90ZW9mN2JlRTFheFZJLXJ1aHE0U2V5LWV6OVlSaFA2aXRpYVA4TTZQYkU?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "e94aee405a28",
@@ -928,14 +961,14 @@
       "matched_keywords": []
     },
     {
-      "id": "a69171d83857",
+      "id": "1eb34604aac5",
       "title": "50歲以下罹癌率狂飆8成！醫示警：異常出血速就醫",
       "published": "2026-08-19T08:08:02+00:00",
-      "summary": "50歲以下罹癌率狂飆8成！醫示警：異常出血速就醫&nbsp;&nbsp;Yahoo新聞",
+      "summary": "50歲以下罹癌率狂飆8成！醫示警：異常出血速就醫&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQZFpFZGotVTJ5aU5EU2o4d2pLLWhWeDlrQXAxdVktbENfOHhDZmtUc3A1b2pmTXZHNGxNbG42R1hRY21nRUxINjZ0RmFyQUVKN0Nld243Z2ZiVzlUa01IcGFCNkhJRVNtTk5JZnRnQTg5dE1vNVlKOU5QRHFCbEFPNGdabjFUcHA2bWcwTk52anBmaHMzZ1BfNXUtNEZHY2hFVnV2M2dENWJKejM4X3l6Ti1kdml6TE1xRzRLTEIzVkFnNnhTTk9nLVZpaTNXcTMzUUJJOGQtbWhVRTlNbFh2SG96ZkdQV3YyeWt4V1RUeWM0RjEyMXpJUjlMLWptbnB6WEkxN0V2aFRlMEh4TGozU21YeThZejJHaEx4RGNhVE1LdlFFY3Ewcl9heU1IY2xTM2ZvSy1sT3pUZVM1Zmc?oc=5"
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCdzVsWmI3aUtmQUlxeEtMMHpTV0xJcmVSeC1TZm44WFVubGppRExlcm1zWi1GSkxCMGtXd2tEcmpLZEpHRXpqZF9uaV85ZnRiS204?oc=5"
         }
       ],
       "matched_keywords": []
@@ -984,7 +1017,7 @@
       "id": "a03716c52d85",
       "title": "緬甸仰光爆霍亂疫情！500人嚴重腹瀉住院 近150人快篩陽性",
       "published": "2026-08-19T06:16:00+00:00",
-      "summary": "緬甸仰光爆霍亂疫情！500人嚴重腹瀉住院 近150人快篩陽性&nbsp;&nbsp;TVBS新聞網緬甸仰光爆霍亂疫情 500人腹瀉住院149例確診&nbsp;&nbsp;rti.org.tw緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;中天新聞網緬甸仰光爆發霍亂疫情 500人嚴重腹瀉送醫 | 民視新聞網&nbsp;&nbsp;LINE TODAY緬甸仰光爆發霍亂疫情 500人腹瀉住院&nbsp;&nbsp;singtao.ca",
+      "summary": "緬甸仰光爆霍亂疫情！500人嚴重腹瀉住院 近150人快篩陽性&nbsp;&nbsp;TVBS新聞網緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;中天新聞網緬甸爆霍亂疫情！仰光500人腹瀉住院 149例確診&nbsp;&nbsp;壹蘋新聞網緬甸爆霍亂3病歿 仰光重災&nbsp;&nbsp;信報網站緬甸仰光爆發霍亂疫情 500人嚴重腹瀉送醫 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "TVBS新聞網",
