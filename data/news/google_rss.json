@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-21T04:28:31.498108+00:00",
-  "count": 30,
+  "fetched_at": "2026-08-21T05:23:27.348428+00:00",
+  "count": 31,
   "news": [
     {
       "id": "1110d630a5fb",
@@ -24,6 +24,18 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQi10bGlBVVcweEpMN0hOeWl4eDlDdU9LaS1XSEtoZHJuR3JKVXQxNTRrdElScVFVOXl5NkFNbTExY0FjWXlRS1E5Vll2aE1GeUFMVjNWMnpNeTV0RENGaTJtVHF3c0VqUDhtWGFNa1ZlWTVCSWEwRkVhTXNzYWRMaGdCSV9aQktKXy15OS1WeHYxQ2VIYmo0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f6ab88e9a21b",
+      "title": "一夜情1舉動「男急衝醫院」醫：現在打不晚- 生活 - 中時新聞網",
+      "published": "2026-08-20T13:51:04+00:00",
+      "summary": "一夜情1舉動「男急衝醫院」醫：現在打不晚- 生活&nbsp;&nbsp;中時新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CQnJNQndKZ1dHbDFsUFg5aXBBVERXeDRoM3I1SjNuR0VwTHFhWVFaM29PVDJRYmRQLTVSd0lNWGhZTzY4WW1POWZ3SFhwUG9QSG9ROWNMQWt3czNJZEJwVkx3dE8yQkZTV2o3WWRR?oc=5"
         }
       ]
     },
@@ -112,26 +124,26 @@
       ]
     },
     {
-      "id": "b9bd65040ec1",
-      "title": "美國幼兒園疫苗接種率續降 麻疹病例恐再攀升 - Taiwan News",
-      "published": "2026-08-20T09:12:00+00:00",
-      "summary": "美國幼兒園疫苗接種率續降 麻疹病例恐再攀升&nbsp;&nbsp;Taiwan News",
-      "sources": [
-        {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRQWJ5LXFBNVhTbzF6QjlHeFVZdHN6NEhUeE1DdUZMQVd2bGdBZm4tRGhYamZJWjdDaFVuSThRX3dDZjRTZTdVdXVVWVJCbXIxTGZfWnJ3MTM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6d7dfc09491a",
       "title": "新冠好了卻還在咳、累、腦霧？醫師揭3大原因，4類人最易變長新冠 - Yahoo新聞",
-      "published": "2026-08-19T04:40:24+00:00",
+      "published": "2026-08-19T04:47:13+00:00",
       "summary": "新冠好了卻還在咳、累、腦霧？醫師揭3大原因，4類人最易變長新冠&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxObkJGakY3TER1ZlhjVXBGNERLOE5QY3JkclpYeHlUblJLYXR6ZllGS3ZwNlVWVjVDdVRDWFM5WE41R2xtaUZ3aG1kNmVoQzlZczVEeFpzZ2hWVjJxMjNTUkNkbGpTalF6TGFaelA3TzB6UFpnem83MTVDWU80bG43em51NGRsYWZxUEZPRHlvQ21EcnNOSUhiMHVMaXlpOURMMEI0LXF3cl8tSzJNTHRfcUZoWWxraVkxbnVpWmF4Y1dJS0VJY0lOc2k1WGU4a2NtLWtKdVlIN2Q0QVllblpBcWIwUlZnMmJhTkRzRUpnRGhER25wR3dnd1VMM0hxOVI1cmY4eEZsRThhX2ptMjBjWG1JOUFla0xOMXlldmpQUmZobGloZ1ZIN0piRzRwbGppcnhFenM5REVPcFFQTmhMUUdIeW0xTGgwU3B3YVVYOXdTWmVWaGpOTnVCLW04MXJIaWxScWNiM2o4aWYxRXNRM1pKTXg5Sng4RHhuQV96TkdYajExbHg4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b9bd65040ec1",
+      "title": "美國幼兒園疫苗接種率續降 麻疹病例恐再攀升 - Taiwan News",
+      "published": "2026-08-20T09:12:00+00:00",
+      "summary": "美國幼兒園疫苗接種率續降 麻疹病例恐再攀升&nbsp;&nbsp;Taiwan News川普重整兒童疫苗政策 MMR「一針拆三針」有何利弊？專家：完整接種才是關鍵&nbsp;&nbsp;Yahoo新聞美國學童疫苗接種率又見小幅下降豁免人數創歷史新高- 國際&nbsp;&nbsp;工商時報MMR疫苗要拆成3針？川普兒童疫苗行政命令牽動28天間隔 35篇研究未見自閉症因果關聯&nbsp;&nbsp;Life 生活網FOCUS全球新聞／開學危！ 美童疫苗大砍7種 川普新政醫界反彈&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRQWJ5LXFBNVhTbzF6QjlHeFVZdHN6NEhUeE1DdUZMQVd2bGdBZm4tRGhYamZJWjdDaFVuSThRX3dDZjRTZTdVdXVVWVJCbXIxTGZfWnJ3MTM?oc=5"
         }
       ]
     },
@@ -328,18 +340,6 @@
       ]
     },
     {
-      "id": "e30f912b52ae",
-      "title": "健康科普丨結直腸癌高發，中醫如何“未病先防”？ - 人民网-上海频道",
-      "published": "2026-08-19T05:37:00+00:00",
-      "summary": "健康科普丨結直腸癌高發，中醫如何“未病先防”？&nbsp;&nbsp;人民网-上海频道",
-      "sources": [
-        {
-          "name": "人民网-上海频道",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZSlNvZWJpbDlGTGhOc1BBSVdUd1huancyQW15UllJYmhQVGRzd1N0c3RuYXh5MDFBa05ScjVCSGJtcjRhSTA2ejNkRmVzWU5CeE0yOGthbHJEWUlycHFhckpzTElJWG1nUzQyS1BSTmE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f73a8729e3e6",
       "title": "聞玫瑰精油可防腦退化、穩定情緒？ 日本研究：嗅覺刺激助醒腦 晚上做多一步更有效 - 星島頭條",
       "published": "2026-08-19T12:01:43+00:00",
@@ -360,6 +360,18 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjlPSF81cHQ2WkM0NzBGZ3FuZnVmVDZUbll3THBKV2F4WF9FRnI1WDZBZ04ybGtZTDlhSHkxTDViaklmR0hwYkVDTUEzVndUaFJNdkxjRnY1R0lJakVDVTd5OGRDNmVmdGtlanROLTdIOXBUNlpZUGF4NGp5U01JLVpuU2ltUS1nQTBqUWpOdEdTdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e30f912b52ae",
+      "title": "健康科普丨結直腸癌高發，中醫如何“未病先防”？ - 人民网-上海频道",
+      "published": "2026-08-19T05:37:00+00:00",
+      "summary": "健康科普丨結直腸癌高發，中醫如何“未病先防”？&nbsp;&nbsp;人民网-上海频道",
+      "sources": [
+        {
+          "name": "人民网-上海频道",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZSlNvZWJpbDlGTGhOc1BBSVdUd1huancyQW15UllJYmhQVGRzd1N0c3RuYXh5MDFBa05ScjVCSGJtcjRhSTA2ejNkRmVzWU5CeE0yOGthbHJEWUlycHFhckpzTElJWG1nUzQyS1BSTmE?oc=5"
         }
       ]
     }
