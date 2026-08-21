@@ -44,7 +44,12 @@ jobs:
       # Pages 插件白名單限制裝不了 jekyll-last-modified-at，故在建置後直接蓋。
       # 這一步失敗不擋部署（腳本自己吞掉錯誤並印出哪幾個網址沒蓋到）。
       - name: Stamp sitemap lastmod from git history
-        run: python3 scripts/stamp_sitemap_lastmod.py ./_site/sitemap.xml
+        run: |
+          # actions/jekyll-build-pages 在容器裡以 root 產出 _site，後續步驟是 runner
+          # 身分，直接寫會 PermissionError: [Errno 13]（2026-08-21 run 32443001028 實遇：
+          # 讀得到、寫不進去，腳本照設計警告後放行，站照常部署但 lastmod 沒蓋上）。
+          sudo chown -R "$(id -u):$(id -g)" ./_site
+          python3 scripts/stamp_sitemap_lastmod.py ./_site/sitemap.xml
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3
