@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-08-21T11:17:16.952695+00:00",
+  "last_updated": "2026-08-21T12:27:41.057806+00:00",
   "total_count": 26,
-  "matched_count": 4,
+  "matched_count": 3,
   "news": [
+    {
+      "id": "786f05c411f5",
+      "title": "28歲女用公用瑜伽墊「感染HPV」 醫：夏季這病毒可活數小時",
+      "published": "2026-08-21T10:02:00+00:00",
+      "summary": "28歲女用公用瑜伽墊「感染HPV」 醫：夏季這病毒可活數小時&nbsp;&nbsp;winnews.com.tw前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "winnews.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RVDVrbHdDTFc1VHAxZ25fMm5YYnJ3aFc0REljdXJ2R1RabFBFQnNkRGNvYkYtS2tRUXpjTFdMRG9MMThWYmRheGJB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "a1ea2a812f20",
       "title": "4款港澳新藥同步落地 羅湖區人民醫院「港澳藥械通」再添新成員",
@@ -43,23 +56,10 @@
       "matched_keywords": []
     },
     {
-      "id": "7bd2f0c3621e",
-      "title": "澳洲無尾熊因為一種人類熟知的「性病」，正在面臨一場生存浩劫 - A Day Magazine",
-      "published": "2026-08-21T06:04:44+00:00",
-      "summary": "澳洲無尾熊因為一種人類熟知的「性病」，正在面臨一場生存浩劫&nbsp;&nbsp;A Day Magazine",
-      "sources": [
-        {
-          "name": "A Day Magazine",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRUMtYmFkXy1EYklrZjhHdFB4MV81ZExoUkRVVnhObVI0S0J0SnRvcl95RWo5V2RHTEVnUHNnT3lkUS1sNW9rb05hNnVnRlljOV9fUl9ZTTh5Mmo5WHRLM25yMURGbi1kd0wzZ190YWlpM3FjS2dicUQ1MTN1NGRXSDZKVmoydw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "2bff6c7dce30",
       "title": "女子感冒怕藥毒拒就醫 4天引發急性腎損傷",
-      "published": "2026-08-21T06:04:26+00:00",
-      "summary": "女子感冒怕藥毒拒就醫 4天引發急性腎損傷&nbsp;&nbsp;Yahoo新聞65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命&nbsp;&nbsp;三立新聞重感冒硬撐不吃藥她4天後酸中毒了腎也衰竭- 健康&nbsp;&nbsp;中時新聞網她重感冒硬撐不吃藥 4天後「嚴重酸中毒」、還腎衰敗 | 三立新聞網&nbsp;&nbsp;LINE TODAY婦人重感冒怕「吃藥傷腎」！只喝水硬撐4天「嚴重酸中毒」...腎功能狂掉&nbsp;&nbsp;鏡週刊Mirror Media",
+      "published": "2026-08-21T06:12:42+00:00",
+      "summary": "女子感冒怕藥毒拒就醫 4天引發急性腎損傷&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -79,6 +79,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "7bd2f0c3621e",
+      "title": "澳洲無尾熊因為一種人類熟知的「性病」，正在面臨一場生存浩劫 - A Day Magazine",
+      "published": "2026-08-21T06:04:44+00:00",
+      "summary": "澳洲無尾熊因為一種人類熟知的「性病」，正在面臨一場生存浩劫&nbsp;&nbsp;A Day Magazine",
+      "sources": [
+        {
+          "name": "A Day Magazine",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRUMtYmFkXy1EYklrZjhHdFB4MV81ZExoUkRVVnhObVI0S0J0SnRvcl95RWo5V2RHTEVnUHNnT3lkUS1sNW9rb05hNnVnRlljOV9fUl9ZTTh5Mmo5WHRLM25yMURGbi1kd0wzZ190YWlpM3FjS2dicUQ1MTN1NGRXSDZKVmoydw?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "b77236423ea1",
@@ -342,13 +355,13 @@
       "matched_keywords": []
     },
     {
-      "id": "49bd00942441",
+      "id": "b58d7fdff5d1",
       "title": "老化不一定等於衰退 耶魯研究揭： 近半長者身體或認知功能可改善",
       "published": "2026-08-20T22:40:35+00:00",
-      "summary": "老化不一定等於衰退 耶魯研究揭： 近半長者身體或認知功能可改善&nbsp;&nbsp;巴士的報",
+      "summary": "老化不一定等於衰退 耶魯研究揭： 近半長者身體或認知功能可改善&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOTHNvNW0zMDR5UmpqZUFzeXBpQlBDaGdBN29xSUZ5QlhvbThJU2tuUzBiYkY5NTl1elBBdlVleVdkdHdGM3RudWwtaHRZekxwaEdiOGFBNk5odE5rSGpmWUV6TzNlUjg2dzF0M1p6bzFBbkRuZWZkV3BQLUpTVW9TQlM5alhtNXNpRks0VTBsTGUtUm1CZmh2UzFSd3FIM3psRnNIOGNZV25UejNWSkI4TFZMU1NMeEdobmhVLWI1WEJweGVrRGtoVFVwZWhKZWdwY3lCc0Z6bDBtOS1pbTFpbmRVMjA3ZVBJWDg1RjRXT3JRLTNjN0t0Mm5xYk1GVnloVVVpdWFRQVZjb1ptdTRIbm9HR1NPWWhrcFlSSjRFVjQyMTZFRlZmdThybU1rTVJrZHRKd2lEZjFhM29TZFB1aXZWNkdvOVV6bmNQUW5fVHFuTURfSllTcTktR2tTQ1JtYkNVVUlDVk5fSFpsWXc0?oc=5"
         }
       ],
@@ -459,13 +472,13 @@
       "matched_keywords": []
     },
     {
-      "id": "28e0e1539674",
+      "id": "081d1f160c2c",
       "title": "侵襲性腦脊髓膜炎致死率50% 全年齡提高警覺",
       "published": "2026-08-20T02:25:00+00:00",
-      "summary": "侵襲性腦脊髓膜炎致死率50% 全年齡提高警覺&nbsp;&nbsp;東森新聞",
+      "summary": "侵襲性腦脊髓膜炎致死率50% 全年齡提高警覺&nbsp;&nbsp;news.ebc.net.tw",
       "sources": [
         {
-          "name": "東森新聞",
+          "name": "news.ebc.net.tw",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rSWlBbjRUYWxpUnpjbEViZ3NBN3Nib1pSaEhiRFdIQ3A2NWJ3alJQeS1sVDRIZWkwVks1MExNNHAtcnBoN0l5dzZFUHQ4QS1jbGhPYQ?oc=5"
         }
       ],
@@ -542,410 +555,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "515bc0fbf7ad",
-      "title": "腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵 | 科技新報 - LINE TODAY",
-      "published": "2026-08-19T11:39:54+00:00",
-      "summary": "腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KWW9xZmJCQ2lmQ2VaRzJab0I3X0Z2RktBRmtmbktXaWNpNWR6c2EtUnpJQnFGY2V3MlJOMFVCVXcwTG84WDViV0NReGlRQTRVUGdWdnRR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腫瘤",
-          "keyword": "腫瘤",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "849e34530e76",
