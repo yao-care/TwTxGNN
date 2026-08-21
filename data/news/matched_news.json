@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-21T03:42:26.061479+00:00",
-  "total_count": 32,
-  "matched_count": 8,
+  "last_updated": "2026-08-21T04:28:35.910026+00:00",
+  "total_count": 31,
+  "matched_count": 7,
   "news": [
     {
       "id": "40bd26715c6f",
@@ -444,31 +444,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "9dd11da39c0a",
-      "title": "健康網》魚油、B群、藍莓都沒贏！ 研究揭健腦不如做對這件事",
-      "published": "2026-08-19T22:27:00+00:00",
-      "summary": "健康網》魚油、B群、藍莓都沒贏！ 研究揭健腦不如做對這件事&nbsp;&nbsp;自由健康網健康網》比吃魚更重要！ 營養師曝50歲後防失智必做7件事&nbsp;&nbsp;自由健康網大腦過了3歲就不會長？營養師揭密：「4招」讓記憶中樞海馬迴逆齡回春&nbsp;&nbsp;Yahoo新聞防失智別只靠吃魚！營養師揭「7大護腦關鍵」：聊天也有用&nbsp;&nbsp;三立新聞超過50歲大腦開始萎縮？營養師：做好這3件事活化海馬迴&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Pbkt4X2RjMkJGYkpoT05VLUFkbXZfYlhkZ1llRTBiSGNtTVhuTl85a3ZGOFlvVDl0a0E2OFVldnBoMjJlUl9ZNXFkN0NVajFPbGlzMGJkY2hNbndGUDZNenBfZW0?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "e94aee405a28",

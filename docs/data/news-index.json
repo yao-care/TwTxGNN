@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T03:42:26.148469+00:00",
-  "count": 8,
+  "generated": "2026-08-21T04:28:35.931248+00:00",
+  "count": 7,
   "news": [
     {
       "id": "40bd26715c6f",
@@ -229,30 +229,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9dd11da39c0a",
-      "title": "健康網》魚油、B群、藍莓都沒贏！ 研究揭健腦不如做對這件事",
-      "published": "2026-08-19T22:27:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Pbkt4X2RjMkJGYkpoT05VLUFkbXZfYlhkZ1llRTBiSGNtTVhuTl85a3ZGOFlvVDl0a0E2OFVldnBoMjJlUl9ZNXFkN0NVajFPbGlzMGJkY2hNbndGUDZNenBfZW0?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

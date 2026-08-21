@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,15 +29,7 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [健康網》魚油、B群、藍莓都沒贏！ 研究揭健腦不如做對這件事](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Pbkt4X2RjMkJGYkpoT05VLUFkbXZfYlhkZ1llRTBiSGNtTVhuTl85a3ZGOFlvVDl0a0E2OFVldnBoMjJlUl9ZNXFkN0NVajFPbGlzMGJkY2hNbndGUDZNenBfZW0?oc=5)
-
-2026-08-19
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Pbkt4X2RjMkJGYkpoT05VLUFkbXZfYlhkZ1llRTBiSGNtTVhuTl85a3ZGOFlvVDl0a0E2OFVldnBoMjJlUl9ZNXFkN0NVajFPbGlzMGJkY2hNbndGUDZNenBfZW0?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [中年3件事沒顧好55歲後少12.6年沒失智時光- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1HczhVdzNlajFaRTBNOFBmQU9GaWpiYmJtc1E0NVBPRTFVRnExWlQwX3g5V2FWWEJEbGk0WWxiaG52Mll3bUw0bkszbjhvRTNwZ0hLY29jem1kTm1XNHV3a0YzVE5uZ1JiN1ZfZkZ3?oc=5)
 
