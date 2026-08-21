@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-21T19:19:03.967096+00:00",
-  "total_count": 25,
-  "matched_count": 4,
+  "last_updated": "2026-08-21T20:14:57.270609+00:00",
+  "total_count": 24,
+  "matched_count": 5,
   "news": [
     {
       "id": "c9206438d285",
@@ -393,6 +393,215 @@
       "matched_keywords": []
     },
     {
+      "id": "a61df2736ba1",
+      "title": "癌症年輕化｜身體無故出血要小心醫生揭9種癌症可致異常出血| 健康解「迷」 - 醫學通識- 健康好人生 - etnet 經濟通",
+      "published": "2026-08-20T11:17:44+00:00",
+      "summary": "癌症年輕化｜身體無故出血要小心醫生揭9種癌症可致異常出血| 健康解「迷」 - 醫學通識- 健康好人生&nbsp;&nbsp;etnet 經濟通",
+      "sources": [
+        {
+          "name": "etnet 經濟通",
+          "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPeVpCMUxGNjFfZV9xVVJXVXhMTVlJdFptR3FSNF9oN2lBQ1ViLXFDUU5fTVpDNFF5UE9nc3BER1VYaTR4YjJFa2ZqaTVxaWp1Z19pdmExb3Q3NFBrSWdrRGZia19WX0VudUh1cXNzOTdEWnlnanBJNVNlRUZzcW1YOWtLTjJqRC1CTllVR25aekYwS2FTMi1sY2NtWnkwcF9rRTYyY1I2UG9TdG1tQVlSWTNsSHU5RE1Kb1JPV2VhRzM5Q2FjdE5IZ3V2aE9LOWdGYVlFT0oxRHdBV3laVy1hc1hXQ3dVQmNiWFR6QTFHY2xwX0k0blJFcEJSLTVWWThCUllSWXdQamU2TVNkV0dsT1g4UkZyT05kZGRoVWVGTTA5b3NvekR3Y0RaZER3cm1mLVNpYTE0SkY3TzI3anI5UExwdnU2Uk9RTG9XWFp3aDF5VUlZRUREM3ZaUVB2ZHdfak5sMjViZTlxZUI3aERPcXhDdXdvdGNxdFlydXV5UHFzUVhnbHJjMmdPX3dYVEN4dG9xOTMwckpfdXJzX2RObS13?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "36c7774f5e86",
       "title": "總是焦慮、分心？揭開脊椎與情緒的神秘連結- 書房",
       "published": "2026-08-20T11:13:00+00:00",
@@ -497,19 +706,6 @@
       "matched_keywords": []
     },
     {
-      "id": "f8cdef407403",
-      "title": "25歲身體80歲外貌？比利時網紅患罕有「早老症」日前離世| 超低能．勁搞笑",
-      "published": "2026-08-20T02:21:57+00:00",
-      "summary": "25歲身體80歲外貌？比利時網紅患罕有「早老症」日前離世| 超低能．勁搞笑&nbsp;&nbsp;FanPiece",
-      "sources": [
-        {
-          "name": "FanPiece",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxObU94WHMtSThYN2NxU0R3X0dYWXBtU3ljeGtpd0Z5RUZxS0U0QjJVMUw1c1hjX0VwUm1veUprMzR3WGxBR1RUQUVjekZub29VS2RFV1Y0VnNEVVM5NWxDTG0ybXplNGtmZ29wY0ZDWHptX3NCdjZKOGljZ0RSRm5DRFcwTzdmcF9acm1LaW5wdkYxVE5NNGloTFR6XzcxaGxqaXFCV3p0cTc0eWhxTFBmZW1zRDM2NEdlNFdlV2w0TUlZNVl0bnBBc0FyX2xBX0toTVk4TktCLW9IdG5GdlJXYkRqWFJsRHVIRHdZZmpjaThnTTlEcDdrYV9SWG0yV2lFalFjN1V2cjEyd19IMnZGRDJ5QXh2dGNEWVNuWjFuaXVzOGNHMWFWRERZZzRnNTExeUdMM2VqcVVkWTRMWjNOVG11b3hCMUxxZklxMW55RFJ3Q0xIUXAxQ19YS09ZZm5sV3BleXRn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "f016a51798ce",
       "title": "早期肺癌手術切除不是治療終點 醫解析「術後輔助治療」重要性",
       "published": "2026-08-20T01:14:47+00:00",
@@ -541,19 +737,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "e94aee405a28",
-      "title": "降低食慾的荷爾蒙 GDF15 具隱藏功能，暗中護肝臟不受損害 | 科技新報 - LINE TODAY",
-      "published": "2026-08-19T20:50:51+00:00",
-      "summary": "降低食慾的荷爾蒙 GDF15 具隱藏功能，暗中護肝臟不受損害 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hMDhCV0pWTUNyOC0xeG5hV0lRNWhnbllLTktZNW9qQmtYMUNudWdJeEJSWEVrU0FwNEdYM1dXemJocVVXVlNHV0NnN2RtdXFlRUhKaFpn?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "849e34530e76",
