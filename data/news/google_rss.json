@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-21T15:23:33.261164+00:00",
-  "count": 23,
+  "fetched_at": "2026-08-21T16:21:10.775105+00:00",
+  "count": 24,
   "news": [
     {
       "id": "e66dcbe99965",
@@ -40,13 +40,13 @@
       ]
     },
     {
-      "id": "e26a5a627d61",
-      "title": "65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命 - 三立新聞",
+      "id": "b0cefedd8c89",
+      "title": "65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命 - 三立新聞網SETN.com",
       "published": "2026-08-21T01:01:05+00:00",
-      "summary": "65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命&nbsp;&nbsp;三立新聞女子感冒怕藥毒拒就醫 4天引發急性腎損傷&nbsp;&nbsp;Yahoo新聞感冒別硬撐！腎友怕「吃藥傷腎」拒就醫 4天後腎功能惡化 | CTWANT&nbsp;&nbsp;LINE TODAY重感冒硬撐不吃藥她4天後酸中毒了腎也衰竭- 健康&nbsp;&nbsp;中時新聞網她感冒硬撐「1事」 嚴重酸中毒、腎衰敗&nbsp;&nbsp;鏡週刊Mirror Media",
+      "summary": "65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命&nbsp;&nbsp;三立新聞網SETN.com她重感冒硬撐不吃藥 4天後「嚴重酸中毒」、還腎衰敗&nbsp;&nbsp;三立新聞網SETN.com感冒別硬撐！腎友怕「吃藥傷腎」拒就醫 4天後腎功能惡化 | CTWANT&nbsp;&nbsp;LINE TODAY重感冒硬撐不吃藥她4天後酸中毒了腎也衰竭- 健康&nbsp;&nbsp;中時新聞網女子感冒怕藥毒拒就醫 4天引發急性腎損傷&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
-          "name": "三立新聞",
+          "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2b1EwX3VrU3lYZmpsdHgxTVRNaGFQU2VWLVVaajRRcDdyYjRBOWsxdTRsVzFkUzgwdkdxeWh5WkxvUW0tRTZ2WHdndzM?oc=5"
         }
       ]
@@ -100,18 +100,6 @@
       ]
     },
     {
-      "id": "e2fab18e6984",
-      "title": "寵物壁虎 竟可能成為破解癌症的重要幫手 - 經濟日報",
-      "published": "2026-08-21T02:49:23+00:00",
-      "summary": "寵物壁虎 竟可能成為破解癌症的重要幫手&nbsp;&nbsp;經濟日報",
-      "sources": [
-        {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VdUFHZG00akd3SmplWUlja2R6cllpOUlCOGNSa2I0alNlWGZTVVBmSlczYlNuWkV6Q1lzWmpuNXRwNkU2Q21uSlh6el9XNzdqZ291a0lkTHBySld5dXfSAWJBVV95cUxNRWNQVGYwTXo4TE83TmFPdHhncnhYemN3Y3dkQmpDXzBDbTZ5RXV3ME44QmhWR19La2o0ajlLTnFPbVFZWks2TVpkVDllcE0yWXNSYXkxNHFSSmNPeXB1RnhSQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f91928e3e9eb",
       "title": "40+女性必做「14個健檢項目」公開！醫師建議：不只婦科，這幾項也是關鍵 - ELLE",
       "published": "2026-08-20T04:57:54+00:00",
@@ -120,6 +108,18 @@
         {
           "name": "ELLE",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUVdPcHZsMjdleDdrQXBiRW1TY0Jlb3pzdEx6ZzN0dDlsZlpBeEVRSzNvUklKVWFQei0wbW0wTVItNVNiWU9IR2JoWllZSlB1dWxvemx2amZaZkFkUHhVR09IU0pkZU1yZVZnOThHQzJydS1GZks0dmVQZGFucExjaDl4WC04UVk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e2fab18e6984",
+      "title": "寵物壁虎 竟可能成為破解癌症的重要幫手 - 經濟日報",
+      "published": "2026-08-21T02:49:23+00:00",
+      "summary": "寵物壁虎 竟可能成為破解癌症的重要幫手&nbsp;&nbsp;經濟日報",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VdUFHZG00akd3SmplWUlja2R6cllpOUlCOGNSa2I0alNlWGZTVVBmSlczYlNuWkV6Q1lzWmpuNXRwNkU2Q21uSlh6el9XNzdqZ291a0lkTHBySld5dXfSAWJBVV95cUxNRWNQVGYwTXo4TE83TmFPdHhncnhYemN3Y3dkQmpDXzBDbTZ5RXV3ME44QmhWR19La2o0ajlLTnFPbVFZWks2TVpkVDllcE0yWXNSYXkxNHFSSmNPeXB1RnhSQQ?oc=5"
         }
       ]
     },
@@ -268,14 +268,26 @@
       ]
     },
     {
-      "id": "800cc4878527",
-      "title": "麻疹｜秀茂坪35歲女確診麻疹 近200人列密切接觸者【附麻疹病徵及預防方法】 - 香港經濟日報HKET",
+      "id": "a99be9ca633d",
+      "title": "麻疹｜秀茂坪35歲女確診麻疹 近200人列密切接觸者【附麻疹病徵及預防方法】 - topick.hket.com",
       "published": "2026-08-20T08:30:02+00:00",
-      "summary": "麻疹｜秀茂坪35歲女確診麻疹 近200人列密切接觸者【附麻疹病徵及預防方法】&nbsp;&nbsp;香港經濟日報HKET麻疹｜秀茂坪35歲女確診麻疹 傅染力極高 即睇典型症狀與自保方法&nbsp;&nbsp;香港01女子感染麻疹198人列密切接觸者 患者非本港出生目前情況穩定&nbsp;&nbsp;香港電台新聞網傳染病警戒｜香港爆麻疹！曾赴聯合醫院 近200人列密切接觸 即睇病徵&nbsp;&nbsp;UHK 港生活香港錄今年第9宗麻疹個案 198人列密切接觸者&nbsp;&nbsp;hkcna.hk",
+      "summary": "麻疹｜秀茂坪35歲女確診麻疹 近200人列密切接觸者【附麻疹病徵及預防方法】&nbsp;&nbsp;topick.hket.com麻疹｜秀茂坪35歲女確診麻疹 傅染力極高 即睇典型症狀與自保方法&nbsp;&nbsp;香港01女子感染麻疹198人列密切接觸者 患者非本港出生目前情況穩定&nbsp;&nbsp;香港電台新聞網傳染病警戒｜香港爆麻疹！曾赴聯合醫院 近200人列密切接觸 即睇病徵&nbsp;&nbsp;UHK 港生活香港錄今年第9宗麻疹個案 198人列密切接觸者&nbsp;&nbsp;hkcna.hk",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
+          "name": "topick.hket.com",
           "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPQXlnOUFLenBZODVNVjhSc0FHVGg1cllCYXhKZHhXcmlrZXJfWDlUUGEtVGdlSEIyRTZaUl9Qa0dhOEpqRzRWSWVoV3h4dlZlLUFKeTdDX3RLZmZVSHJoSVU0eHBEYjNVWjE5anh6T1oxSVRLdWdHOUNmWlB5MnFzY3puZDVqeXF5ZU9qMTZlZkJSNHNsNXNiMHdueHVqU1FwZm10dHFfTS1Sek9lRWlNTF9QQXY1LWpfUDQ4SXQyaGZpOTlGTEdVeWcyUnRyNUZSSXRBanJwbzBSSzFtMnBjbUJGSlJWMnRyUTk3cVBvWDZKcjY0WDVBVU9QOTZNekE1RDMxUVF6M0RERmozYUJyelY3VXZ3ZmpsS0w4ZWRPRW9lODJlMTA4OFNfdDdZVngtTy1FdllrREJBd19mNF9ON1RMcGRhZ1F4LTh2emROWnRjVG45d1FQeWNDVEN0WDd4NS00dnBOSDFGVWJ1WDBDVFhXWTJfelpRSks5OENTRHRoSld2THNXQnI2WnhpVUViNE90aURCbEZ5U0xPLW8xaGh3aWN3R01PZlRHamJVZFg5cW1hMVlGMC1wSkJMbjRGUzZILTZncWVucHlUbmN6TmF2aUpDRURmR2lMSTdjUkUxeTll?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f8cdef407403",
+      "title": "25歲身體80歲外貌？比利時網紅患罕有「早老症」日前離世| 超低能．勁搞笑 - FanPiece",
+      "published": "2026-08-20T02:21:57+00:00",
+      "summary": "25歲身體80歲外貌？比利時網紅患罕有「早老症」日前離世| 超低能．勁搞笑&nbsp;&nbsp;FanPiece",
+      "sources": [
+        {
+          "name": "FanPiece",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxObU94WHMtSThYN2NxU0R3X0dYWXBtU3ljeGtpd0Z5RUZxS0U0QjJVMUw1c1hjX0VwUm1veUprMzR3WGxBR1RUQUVjekZub29VS2RFV1Y0VnNEVVM5NWxDTG0ybXplNGtmZ29wY0ZDWHptX3NCdjZKOGljZ0RSRm5DRFcwTzdmcF9acm1LaW5wdkYxVE5NNGloTFR6XzcxaGxqaXFCV3p0cTc0eWhxTFBmZW1zRDM2NEdlNFdlV2w0TUlZNVl0bnBBc0FyX2xBX0toTVk4TktCLW9IdG5GdlJXYkRqWFJsRHVIRHdZZmpjaThnTTlEcDdrYV9SWG0yV2lFalFjN1V2cjEyd19IMnZGRDJ5QXh2dGNEWVNuWjFuaXVzOGNHMWFWRERZZzRnNTExeUdMM2VqcVVkWTRMWjNOVG11b3hCMUxxZklxMW55RFJ3Q0xIUXAxQ19YS09ZZm5sV3BleXRn?oc=5"
         }
       ]
     }
