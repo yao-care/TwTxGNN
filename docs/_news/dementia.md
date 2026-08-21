@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [大腦過了3歲就不會長？營養師揭密：「4招」讓記憶中樞海馬迴逆齡回春](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VOE9nOVFWR2FodWNnREZoVEQ0eXVlRE5QakVzOVcxQjlYRGFwcjRTaTJ0Z28yQkZsa3ROT2FqUG5IN2w1WVBwUXBmWEY?oc=5)
+
+2026-08-20
+
+來源：[三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VOE9nOVFWR2FodWNnREZoVEQ0eXVlRE5QakVzOVcxQjlYRGFwcjRTaTJ0Z28yQkZsa3ROT2FqUG5IN2w1WVBwUXBmWEY?oc=5)
+
+---
 
 ### [中年3件事沒顧好55歲後少12.6年沒失智時光- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1HczhVdzNlajFaRTBNOFBmQU9GaWpiYmJtc1E0NVBPRTFVRnExWlQwX3g5V2FWWEJEbGk0WWxiaG52Mll3bUw0bkszbjhvRTNwZ0hLY29jem1kTm1XNHV3a0YzVE5uZ1JiN1ZfZkZ3?oc=5)
 
