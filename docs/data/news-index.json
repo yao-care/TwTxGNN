@@ -1,15 +1,39 @@
 {
-  "generated": "2026-08-21T00:45:04.518795+00:00",
+  "generated": "2026-08-21T02:18:01.644319+00:00",
   "count": 7,
   "news": [
     {
-      "id": "caddde9b4c5b",
-      "title": "大腦過了3歲就不會長？營養師揭密：「4招」讓記憶中樞海馬迴逆齡回春",
-      "published": "2026-08-20T23:33:31+00:00",
+      "id": "1110d630a5fb",
+      "title": "65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命",
+      "published": "2026-08-21T01:07:51+00:00",
       "sources": [
         {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VOE9nOVFWR2FodWNnREZoVEQ0eXVlRE5QakVzOVcxQjlYRGFwcjRTaTJ0Z28yQkZsa3ROT2FqUG5IN2w1WVBwUXBmWEY?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNWEZyYV81OFEwQ05MdXJfdFExMHVIZnpDRk5fZi00UmpwTWs0VHY0OTZ0WHQ0V3BLLU5PdnJPS0JBZ3JaN0NPMjN2MmNMT0VCei10NDdWUm9TTUZVSFpCNlhMSkJzSWlDZFhtUnZPNkNCSFdDY2Z1WUgyYms1UHh1bXpheVRiN3ZHU0RiUGlhbUU0NEsyZHZ6UEpOOGRqSndkVkFFU3h6UW9jYVZCUG95WTMydlE0d3RNTnBJX3A3YnFrT1paaENaNGFRN0ZLUDVIOWZGNFlPMjhnZnBXeW1vNFJNU0xyZjFQMENnX3dBZjVOclNDTmkzUWlxZ25QbmxfVmxMaWVINEVLck9WdUx5QS1xa0ZjSWJwako3OEpiQjVjeWVENHFZaVhReXlMUVQydjlwM0owLTZHZk41OG5wWWFmcFAySHBqWlFRaTgyWVh6MXcyTnFwVzJwZDdBQXJDREZFVFBlOGtaUkk0ak5YT3JNQ2VNeXhRMGM3blhxWS02Rkk3TjBSLWpaREd6ZTVEdFNqQlVWa29SMy1BUzdVRUdISFRnajNYdlpN?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0f459e2635ce",
+      "title": "大腦過了3歲就不會長？營養師揭密：「4招」讓記憶中樞海馬迴逆齡回春",
+      "published": "2026-08-20T23:35:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxNNG9ZcnFLZmV3NFNiYnkyX1d4Zmx4UGhid081T0dRaEJteGtsQm4zOTZyT3ZJaUtab1JkQndCQ0ZkTnFwZmNTM1gwd1h0cnpwbmJWbUtfdGFaVXl4UENmRVAyaEl5bERpM0xuZ3pseE9yNmVCVTlmWXplSGFiOTcyaGZKRXZ5Ymd5a0Itbm91OVNlT1Y4cS1naElFbE9JR0J1NVFOdy1xRlpWM1MyNmFrQktTa0UyaFV5Mm5Ba0VoTkk3bHo0S3paN3ZPNVNLUE5DZXlHc0NjOWx0NGZEYWNNc1lYOEZudVAwME9iNU5wa0U2WUNQd3RjOTRHb0xqc0NsU2YtUWw2akxXMzJzZnhaWTlkLVJCaHBOYVRtRWNicjBtcHBKS0hOSndwdjBXMm0tcHBvQkd3bFdnMXZhMmNCSldELWcwbVd0eGt2a3dpS1U5X3Q2Y3Jwem1QdGhaLVlGNnZnZzFHeGYxVHIwNnRsbkZUWU5IemJtTFBzTjcwc1VLNzUxMHlGYU1VZURkQ1hxUWJLeGkyallIRUlMalE?oc=5"
         }
       ],
       "keywords": [
@@ -430,214 +454,6 @@
       ]
     },
     {
-      "id": "0bb751191872",
-      "title": "40歲以下突冒1症狀恐是癌！腫瘤醫示警別拖：我完全不敢忽視",
-      "published": "2026-08-19T07:10:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYbDlQSVNNX094TFktT1pyanB5dGdXMnNIYTZpcHp0U2FaSmxXWEp3UVdmTHUxaDlja2VBeWZzNWo5Q3dNMzhOVHRjRnk2NktR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "腫瘤",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "894adb2e14f0",
       "title": "中年3件事沒顧好55歲後少12.6年沒失智時光- 健康",
       "published": "2026-08-19T06:47:40+00:00",
@@ -671,6 +487,30 @@
             {
               "slug": "metoprolol",
               "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a03716c52d85",
+      "title": "緬甸仰光爆霍亂疫情！500人嚴重腹瀉住院 近150人快篩陽性",
+      "published": "2026-08-19T06:16:00+00:00",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XS2RrNkIxRUFOa0N0TzRTRHBUSk54SHBJSFBzZkhGVTFfeXZpZnc5cHZGWHJsbmJiWXlvZWhSejk3WmRIbTB2QUdDSTBPdGM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
             }
           ]
         }
@@ -926,30 +766,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0a1d16da1649",
-      "title": "數小時內恐致死！緬甸爆發大規模霍亂　500人送醫",
-      "published": "2026-08-19T03:01:00+00:00",
-      "sources": [
-        {
-          "name": "ETtoday新聞雲",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kRmFaUUk3a0wxdUh2Z1VpZTQ2dzNqWTBCYXVDRldvTjFBWURxOWV5OElvcmtSaWdPWXFFbV84LW5ycXFWRzJhUldHUjdtWTFIMnBTaVNSMGVXaEpYakHSAUtBVV95cUxPRnY3TThLbTZqVENReXJORG02Zmh0ZXNRSWhKZzBmcWtjVWQ5U0FrRktJMFRJZmp3TWV6VG10MUpjcDg5ai1vNUtUY1k?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "腹瀉",
-          "keyword": "腹瀉",
-          "related_drugs": [
-            {
-              "slug": "berberine",
-              "name": "Berberine"
             }
           ]
         }

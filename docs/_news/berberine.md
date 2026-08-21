@@ -14,7 +14,7 @@ permalink: /news/berberine/
 ---
 
 <p class="key-answer" data-question="Berberine 有什麼相關新聞？">
-<strong>Berberine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Berberine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/berberine/
 <p><a href="{{ '/drugs/berberine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [腫瘤局部產生的「補體 C3」，竟是癌症免疫治療成敗關鍵 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KWW9xZmJCQ2lmQ2VaRzJab0I3X0Z2RktBRmtmbktXaWNpNWR6c2EtUnpJQnFGY2V3MlJOMFVCVXcwTG84WDViV0NReGlRQTRVUGdWdnRR?oc=5)
 
@@ -52,11 +52,11 @@ permalink: /news/berberine/
 
 ---
 
-### [40歲以下突冒1症狀恐是癌！腫瘤醫示警別拖：我完全不敢忽視](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYbDlQSVNNX094TFktT1pyanB5dGdXMnNIYTZpcHp0U2FaSmxXWEp3UVdmTHUxaDlja2VBeWZzNWo5Q3dNMzhOVHRjRnk2NktR?oc=5)
+### [緬甸仰光爆霍亂疫情！500人嚴重腹瀉住院 近150人快篩陽性](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XS2RrNkIxRUFOa0N0TzRTRHBUSk54SHBJSFBzZkhGVTFfeXZpZnc5cHZGWHJsbmJiWXlvZWhSejk3WmRIbTB2QUdDSTBPdGM?oc=5)
 
-2026-08-19 <span class="news-indication-tag">腫瘤</span>
+2026-08-19 <span class="news-indication-tag">腹瀉</span>
 
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYbDlQSVNNX094TFktT1pyanB5dGdXMnNIYTZpcHp0U2FaSmxXWEp3UVdmTHUxaDlja2VBeWZzNWo5Q3dNMzhOVHRjRnk2NktR?oc=5)
+來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XS2RrNkIxRUFOa0N0TzRTRHBUSk54SHBJSFBzZkhGVTFfeXZpZnc5cHZGWHJsbmJiWXlvZWhSejk3WmRIbTB2QUdDSTBPdGM?oc=5)
 
 ---
 
@@ -65,14 +65,6 @@ permalink: /news/berberine/
 2026-08-19 <span class="news-indication-tag">腫瘤</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfRlpZN2RYZHYxbUlqRG5vbjBORExGMlA5a0NZaVlFMlU0VG91R1R1bUVRMTVRX1kzVVptb3o5WnR1U1BWZm5kWS1SeUNfY3JOV0hBZDgwTzRVMXRocmgwVFlkeVg?oc=5)
-
----
-
-### [數小時內恐致死！緬甸爆發大規模霍亂　500人送醫](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kRmFaUUk3a0wxdUh2Z1VpZTQ2dzNqWTBCYXVDRldvTjFBWURxOWV5OElvcmtSaWdPWXFFbV84LW5ycXFWRzJhUldHUjdtWTFIMnBTaVNSMGVXaEpYakHSAUtBVV95cUxPRnY3TThLbTZqVENReXJORG02Zmh0ZXNRSWhKZzBmcWtjVWQ5U0FrRktJMFRJZmp3TWV6VG10MUpjcDg5ai1vNUtUY1k?oc=5)
-
-2026-08-19 <span class="news-indication-tag">腹瀉</span>
-
-來源：[ETtoday新聞雲](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kRmFaUUk3a0wxdUh2Z1VpZTQ2dzNqWTBCYXVDRldvTjFBWURxOWV5OElvcmtSaWdPWXFFbV84LW5ycXFWRzJhUldHUjdtWTFIMnBTaVNSMGVXaEpYakHSAUtBVV95cUxPRnY3TThLbTZqVENReXJORG02Zmh0ZXNRSWhKZzBmcWtjVWQ5U0FrRktJMFRJZmp3TWV6VG10MUpjcDg5ai1vNUtUY1k?oc=5)
 
 ---
 

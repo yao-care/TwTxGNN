@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/salicylamide/
 <li>nasal cavity disease（100.0%）</li>
 <li>acute laryngopharyngitis（100.0%）</li>
 <li>trigeminal autonomic cephalalgia（99.9%）</li>
-<li>common cold（99.9%）</li>
+<li class="indication-matched">common cold（99.9%）<span class="indication-tag">📰 感冒</span></li>
 <li>allergic urticaria（99.7%）</li>
 <li>lung disease（99.6%）</li>
 <li>massive neonatal aspiration syndrome（99.6%）</li>
@@ -42,9 +42,15 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命](https://news.google.com/rss/articles/CBMiqwNBVV95cUxNWEZyYV81OFEwQ05MdXJfdFExMHVIZnpDRk5fZi00UmpwTWs0VHY0OTZ0WHQ0V3BLLU5PdnJPS0JBZ3JaN0NPMjN2MmNMT0VCei10NDdWUm9TTUZVSFpCNlhMSkJzSWlDZFhtUnZPNkNCSFdDY2Z1WUgyYms1UHh1bXpheVRiN3ZHU0RiUGlhbUU0NEsyZHZ6UEpOOGRqSndkVkFFU3h6UW9jYVZCUG95WTMydlE0d3RNTnBJX3A3YnFrT1paaENaNGFRN0ZLUDVIOWZGNFlPMjhnZnBXeW1vNFJNU0xyZjFQMENnX3dBZjVOclNDTmkzUWlxZ25QbmxfVmxMaWVINEVLck9WdUx5QS1xa0ZjSWJwako3OEpiQjVjeWVENHFZaVhReXlMUVQydjlwM0owLTZHZk41OG5wWWFmcFAySHBqWlFRaTgyWVh6MXcyTnFwVzJwZDdBQXJDREZFVFBlOGtaUkk0ak5YT3JNQ2VNeXhRMGM3blhxWS02Rkk3TjBSLWpaREd6ZTVEdFNqQlVWa29SMy1BUzdVRUdISFRnajNYdlpN?oc=5)
+
+2026-08-21 <span class="news-indication-tag">感冒</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiqwNBVV95cUxNWEZyYV81OFEwQ05MdXJfdFExMHVIZnpDRk5fZi00UmpwTWs0VHY0OTZ0WHQ0V3BLLU5PdnJPS0JBZ3JaN0NPMjN2MmNMT0VCei10NDdWUm9TTUZVSFpCNlhMSkJzSWlDZFhtUnZPNkNCSFdDY2Z1WUgyYms1UHh1bXpheVRiN3ZHU0RiUGlhbUU0NEsyZHZ6UEpOOGRqSndkVkFFU3h6UW9jYVZCUG95WTMydlE0d3RNTnBJX3A3YnFrT1paaENaNGFRN0ZLUDVIOWZGNFlPMjhnZnBXeW1vNFJNU0xyZjFQMENnX3dBZjVOclNDTmkzUWlxZ25QbmxfVmxMaWVINEVLck9WdUx5QS1xa0ZjSWJwako3OEpiQjVjeWVENHFZaVhReXlMUVQydjlwM0owLTZHZk41OG5wWWFmcFAySHBqWlFRaTgyWVh6MXcyTnFwVzJwZDdBQXJDREZFVFBlOGtaUkk0ak5YT3JNQ2VNeXhRMGM3blhxWS02Rkk3TjBSLWpaREd6ZTVEdFNqQlVWa29SMy1BUzdVRUdISFRnajNYdlpN?oc=5)
+
+---
 
 
 <div class="disclaimer">
