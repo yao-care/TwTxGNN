@@ -14,7 +14,7 @@ permalink: /news/dehydrocholic_acid/
 ---
 
 <p class="key-answer" data-question="Dehydrocholic acid 有什麼相關新聞？">
-<strong>Dehydrocholic acid</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dehydrocholic acid</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/dehydrocholic_acid/
 <p><a href="{{ '/drugs/dehydrocholic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [寵物壁虎 竟可能成為破解癌症的重要幫手](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SR0NjbkdLNFJ2eU9yWTFhQXR1b3lpRHp0cm9ubGdZbUdiOXpUYTZLakR3OXdHTjJmLUlEVFEtbW80V3JyYlZ3LWc2bkQwLUs0X1BJMV9KUDBDVmgz0gFiQVVfeXFMTUVjUFRmME16OExPN05hT3R4Z3J4WHpjd2N3ZEJqQ18wQ202eUV1dzBOOEJoVkdfS2tqNGo5S05xT21RWVpLNk1aZFQ5ZXBNMllzUmF5MTRxUkpjT3lwdUZ4UkE?oc=5)
+### [寵物壁虎 竟可能成為破解癌症的重要幫手](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VdUFHZG00akd3SmplWUlja2R6cllpOUlCOGNSa2I0alNlWGZTVVBmSlczYlNuWkV6Q1lzWmpuNXRwNkU2Q21uSlh6el9XNzdqZ291a0lkTHBySld5dXfSAWJBVV95cUxNRWNQVGYwTXo4TE83TmFPdHhncnhYemN3Y3dkQmpDXzBDbTZ5RXV3ME44QmhWR19La2o0ajlLTnFPbVFZWks2TVpkVDllcE0yWXNSYXkxNHFSSmNPeXB1RnhSQQ?oc=5)
 
 2026-08-21 <span class="news-indication-tag">癌症</span>
 
-來源：[經濟日報](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SR0NjbkdLNFJ2eU9yWTFhQXR1b3lpRHp0cm9ubGdZbUdiOXpUYTZLakR3OXdHTjJmLUlEVFEtbW80V3JyYlZ3LWc2bkQwLUs0X1BJMV9KUDBDVmgz0gFiQVVfeXFMTUVjUFRmME16OExPN05hT3R4Z3J4WHpjd2N3ZEJqQ18wQ202eUV1dzBOOEJoVkdfS2tqNGo5S05xT21RWVpLNk1aZFQ5ZXBNMllzUmF5MTRxUkpjT3lwdUZ4UkE?oc=5)
+來源：[經濟日報](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VdUFHZG00akd3SmplWUlja2R6cllpOUlCOGNSa2I0alNlWGZTVVBmSlczYlNuWkV6Q1lzWmpuNXRwNkU2Q21uSlh6el9XNzdqZ291a0lkTHBySld5dXfSAWJBVV95cUxNRWNQVGYwTXo4TE83TmFPdHhncnhYemN3Y3dkQmpDXzBDbTZ5RXV3ME44QmhWR19La2o0ajlLTnFPbVFZWks2TVpkVDllcE0yWXNSYXkxNHFSSmNPeXB1RnhSQQ?oc=5)
 
 ---
 
@@ -57,14 +57,6 @@ permalink: /news/dehydrocholic_acid/
 2026-08-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
 來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KWW9xZmJCQ2lmQ2VaRzJab0I3X0Z2RktBRmtmbktXaWNpNWR6c2EtUnpJQnFGY2V3MlJOMFVCVXcwTG84WDViV0NReGlRQTRVUGdWdnRR?oc=5)
-
----
-
-### [逼癌細胞狂吃糖再斷脂肪！ 美頂尖研究設「雙重陷阱」滅腫瘤](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfRlpZN2RYZHYxbUlqRG5vbjBORExGMlA5a0NZaVlFMlU0VG91R1R1bUVRMTVRX1kzVVptb3o5WnR1U1BWZm5kWS1SeUNfY3JOV0hBZDgwTzRVMXRocmgwVFlkeVg?oc=5)
-
-2026-08-19 <span class="news-indication-tag">腫瘤</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfRlpZN2RYZHYxbUlqRG5vbjBORExGMlA5a0NZaVlFMlU0VG91R1R1bUVRMTVRX1kzVVptb3o5WnR1U1BWZm5kWS1SeUNfY3JOV0hBZDgwTzRVMXRocmgwVFlkeVg?oc=5)
 
 ---
 
