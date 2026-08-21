@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T07:34:56.765357+00:00",
-  "count": 6,
+  "generated": "2026-08-21T08:28:04.778293+00:00",
+  "count": 5,
   "news": [
     {
       "id": "2bff6c7dce30",
@@ -670,32 +670,81 @@
       ]
     },
     {
-      "id": "894adb2e14f0",
-      "title": "中年3件事沒顧好55歲後少12.6年沒失智時光- 健康",
-      "published": "2026-08-19T06:47:40+00:00",
+      "id": "502eb1e1a507",
+      "title": "早發性癌症病例增近80%！50歲以下現1症狀即求醫／醫生：九成關事 - U Food",
+      "published": "2026-08-19T09:43:01+00:00",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HczhVdzNlajFaRTBNOFBmQU9GaWpiYmJtc1E0NVBPRTFVRnExWlQwX3g5V2FWWEJEbGk0WWxiaG52Mll3bUw0bkszbjhvRTNwZ0hLY29jem1kTm1XNHV3a0YzVE5uZ1JiN1ZfZkZ3?oc=5"
+          "name": "U Food",
+          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQdzNYRlgyLV9OOU5GbXlPSmdsSlJ6Q1hkLWI4NnBzSUIzZllBVGVTQnNHR01QYjZDdjg3b01mejctUkhZMFZFcWRpVjYwOVRJUTRlc25Wd18zcTh0ZWd5N0NlQmNuMkF5aU9zNjdhUTdBU2p0aWd0cExRNlhjdGpyX1drdi1HOTFEcDczRHY1Z3ZkUkMyMDJCNWkyLWd1ajFTRUhhczRkMkNtZ0s3dFVpZVJfTFV4X2Z3SjlYczlVRVo0dkJPR2JRZHRzRnZTaWhxSmRoLTB1VllicHE5OUdoT0JNOXlwYmlGZExOUXZORWhMWU94aHFqUjRrZXRRVXlycDRHbXZsU2UtTXJSTVoxVzFhUFhNMjN6QlpYRjBIY1VLX3NJRUkzc0x2NHFLMjMxZ3NEejlJa0lpYnRaM3l5NGVkLW40dk9COUF4RnNJY3lVc0VFQUtBRGt6MlpCVnBaOTBxa2FpdklRb0JTWl82alJVWFhkSFlvZ1lQcjQ2NW5sdEVOZk5JRQ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
+          "name": "generic_cancer",
+          "keyword": "癌症",
           "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
             {
               "slug": "acebutolol",
               "name": "Acebutolol"
@@ -703,30 +752,126 @@
             {
               "slug": "metoprolol",
               "name": "Metoprolol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a03716c52d85",
-      "title": "緬甸仰光爆霍亂疫情！500人嚴重腹瀉住院 近150人快篩陽性",
-      "published": "2026-08-19T06:16:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XS2RrNkIxRUFOa0N0TzRTRHBUSk54SHBJSFBzZkhGVTFfeXZpZnc5cHZGWHJsbmJiWXlvZWhSejk3WmRIbTB2QUdDSTBPdGM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "腹瀉",
-          "keyword": "腹瀉",
-          "related_drugs": [
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
             {
               "slug": "berberine",
               "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
             }
           ]
         }

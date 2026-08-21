@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-21T07:34:53.022037+00:00",
-  "count": 30,
+  "fetched_at": "2026-08-21T08:28:01.815826+00:00",
+  "count": 26,
   "news": [
-    {
-      "id": "2bff6c7dce30",
-      "title": "女子感冒怕藥毒拒就醫 4天引發急性腎損傷 - Yahoo新聞",
-      "published": "2026-08-21T06:04:26+00:00",
-      "summary": "女子感冒怕藥毒拒就醫 4天引發急性腎損傷&nbsp;&nbsp;Yahoo新聞65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命&nbsp;&nbsp;三立新聞重感冒硬撐不吃藥 她4天後酸中毒了 腎也衰竭&nbsp;&nbsp;中時新聞網她重感冒硬撐不吃藥 4天後「嚴重酸中毒」、還腎衰敗 | 三立新聞網&nbsp;&nbsp;LINE TODAY感冒別硬撐！腎友怕「吃藥傷腎」拒就醫4天後腎功能惡化| 生活&nbsp;&nbsp;CTWANT",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOcUZtS2E0OVVCNW8wX3ByQ3F4b3cxUmZITzZEM1dtR3ZSMkRUQ0tHWWhmekhXWFZjUlpPSW91cnlGWEpIaWZqTFFINWtaRDVWZTdjTXZPMnZ1NDlNU0UxTmF1TV84RXprTndmbl9nanIzU3pPSFhGTXB2UllNZTkzUVpPZ3NWUFdRU010TXhzR3g0dEhJNHFRUlo0UWwydW9Bc2tOLTQtTGtIVGU5ZXQtaWxkTjAzUTFhSnZqQ3c2OVNBLThJN0c1VmdFbW1BLVRGSVRYZUdibXBxMTRKQ3lRRVdlbUFFYVlhQi1nSFE3bjg5OXJJeWpFSEZyeDJ4OUZsckxRODdvR3c0blVKZno3djctd2ZoVTFDLXAtc2UtbkRfUm5wb1FjZ0VSY0pJdw?oc=5"
-        }
-      ]
-    },
     {
       "id": "7bd2f0c3621e",
       "title": "澳洲無尾熊因為一種人類熟知的「性病」，正在面臨一場生存浩劫 - A Day Magazine",
@@ -28,6 +16,18 @@
       ]
     },
     {
+      "id": "2bff6c7dce30",
+      "title": "女子感冒怕藥毒拒就醫 4天引發急性腎損傷 - Yahoo新聞",
+      "published": "2026-08-21T06:04:26+00:00",
+      "summary": "女子感冒怕藥毒拒就醫 4天引發急性腎損傷&nbsp;&nbsp;Yahoo新聞65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命&nbsp;&nbsp;三立新聞感冒別硬撐！腎友怕「吃藥傷腎」拒就醫 4天後腎功能惡化 | CTWANT&nbsp;&nbsp;LINE TODAY重感冒硬撐不吃藥 她4天後酸中毒了 腎也衰竭&nbsp;&nbsp;中時新聞網她感冒硬撐「1事」 嚴重酸中毒、腎衰敗&nbsp;&nbsp;鏡週刊Mirror Media",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOcUZtS2E0OVVCNW8wX3ByQ3F4b3cxUmZITzZEM1dtR3ZSMkRUQ0tHWWhmekhXWFZjUlpPSW91cnlGWEpIaWZqTFFINWtaRDVWZTdjTXZPMnZ1NDlNU0UxTmF1TV84RXprTndmbl9nanIzU3pPSFhGTXB2UllNZTkzUVpPZ3NWUFdRU010TXhzR3g0dEhJNHFRUlo0UWwydW9Bc2tOLTQtTGtIVGU5ZXQtaWxkTjAzUTFhSnZqQ3c2OVNBLThJN0c1VmdFbW1BLVRGSVRYZUdibXBxMTRKQ3lRRVdlbUFFYVlhQi1nSFE3bjg5OXJJeWpFSEZyeDJ4OUZsckxRODdvR3c0blVKZno3djctd2ZoVTFDLXAtc2UtbkRfUm5wb1FjZ0VSY0pJdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "523bf5538ce7",
       "title": "壓力大時更容易迷路？研究發現皮質醇會讓大腦導航系統失靈 - TechNews 科技新報",
       "published": "2026-08-21T00:16:51+00:00",
@@ -36,18 +36,6 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQi10bGlBVVcweEpMN0hOeWl4eDlDdU9LaS1XSEtoZHJuR3JKVXQxNTRrdElScVFVOXl5NkFNbTExY0FjWXlRS1E5Vll2aE1GeUFMVjNWMnpNeTV0RENGaTJtVHF3c0VqUDhtWGFNa1ZlWTVCSWEwRkVhTXNzYWRMaGdCSV9aQktKXy15OS1WeHYxQ2VIYmo0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f6ab88e9a21b",
-      "title": "一夜情1舉動「男急衝醫院」醫：現在打不晚- 生活 - 中時新聞網",
-      "published": "2026-08-20T13:51:04+00:00",
-      "summary": "一夜情1舉動「男急衝醫院」醫：現在打不晚- 生活&nbsp;&nbsp;中時新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CQnJNQndKZ1dHbDFsUFg5aXBBVERXeDRoM3I1SjNuR0VwTHFhWVFaM29PVDJRYmRQLTVSd0lNWGhZTzY4WW1POWZ3SFhwUG9QSG9ROWNMQWt3czNJZEJwVkx3dE8yQkZTV2o3WWRR?oc=5"
         }
       ]
     },
@@ -148,30 +136,6 @@
       ]
     },
     {
-      "id": "38f12ecf6957",
-      "title": "FOCUS全球新聞／開學危！ 美童疫苗大砍7種 川普新政醫界反彈 | TVBS - LINE TODAY",
-      "published": "2026-08-19T14:13:36+00:00",
-      "summary": "FOCUS全球新聞／開學危！ 美童疫苗大砍7種 川普新政醫界反彈 | TVBS&nbsp;&nbsp;LINE TODAY川普重整兒童疫苗政策 MMR「一針拆三針」有何利弊？專家：完整接種才是關鍵&nbsp;&nbsp;Yahoo新聞美國幼兒園疫苗接種率續降 麻疹病例恐再攀升&nbsp;&nbsp;Taiwan News美國學童疫苗接種率又見小幅下降豁免人數創歷史新高- 國際&nbsp;&nbsp;工商時報MMR疫苗要拆成3針？川普兒童疫苗行政命令牽動28天間隔 35篇研究未見自閉症因果關聯&nbsp;&nbsp;Life 生活網",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YREVabzM0RTAwbFp5bVViNzB0d21BVFp4TEZCZWQ2eTNTRUpQcXk3ZWIxc2F2akN0Unphd2V3cHZ1aGZldWpRTmtleEVVU3lRQktXZlRR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eb71afd9d607",
-      "title": "家長注意！預防開學季病毒大爆發 醫揭3大發燒魔王 - 東森新聞",
-      "published": "2026-08-19T06:10:00+00:00",
-      "summary": "家長注意！預防開學季病毒大爆發 醫揭3大發燒魔王&nbsp;&nbsp;東森新聞",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NT1JvQkRrR3A5MENYcTVLSDQtTHRDZUEwbXY3V0VLWllQNEl4MlpaVXQ5akN3bjdOX0NTcWR3RzJVV3VVOHZCYTQtMm1BaExxSHpvTg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e94aee405a28",
       "title": "降低食慾的荷爾蒙 GDF15 具隱藏功能，暗中護肝臟不受損害 | 科技新報 - LINE TODAY",
       "published": "2026-08-19T20:50:51+00:00",
@@ -184,26 +148,14 @@
       ]
     },
     {
-      "id": "1eb34604aac5",
-      "title": "50歲以下罹癌率狂飆8成！醫示警：異常出血速就醫 - 中天新聞網",
-      "published": "2026-08-19T08:08:02+00:00",
-      "summary": "50歲以下罹癌率狂飆8成！醫示警：異常出血速就醫&nbsp;&nbsp;中天新聞網",
+      "id": "502eb1e1a507",
+      "title": "早發性癌症病例增近80%！50歲以下現1症狀即求醫／醫生：九成關事 - U Food",
+      "published": "2026-08-19T09:43:01+00:00",
+      "summary": "早發性癌症病例增近80%！50歲以下現1症狀即求醫／醫生：九成關事&nbsp;&nbsp;U Food",
       "sources": [
         {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCdzVsWmI3aUtmQUlxeEtMMHpTV0xJcmVSeC1TZm44WFVubGppRExlcm1zWi1GSkxCMGtXd2tEcmpLZEpHRXpqZF9uaV85ZnRiS204?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a03716c52d85",
-      "title": "緬甸仰光爆霍亂疫情！500人嚴重腹瀉住院 近150人快篩陽性 - TVBS新聞網",
-      "published": "2026-08-19T06:16:00+00:00",
-      "summary": "緬甸仰光爆霍亂疫情！500人嚴重腹瀉住院 近150人快篩陽性&nbsp;&nbsp;TVBS新聞網緬甸仰光爆500人腹瀉！官方首度證實爆發霍亂&nbsp;&nbsp;中天新聞網緬甸爆霍亂疫情！仰光500人腹瀉住院 149例確診&nbsp;&nbsp;壹蘋新聞網緬甸爆霍亂3病歿 仰光重災&nbsp;&nbsp;信報網站緬甸仰光爆發霍亂疫情 500人嚴重腹瀉送醫 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XS2RrNkIxRUFOa0N0TzRTRHBUSk54SHBJSFBzZkhGVTFfeXZpZnc5cHZGWHJsbmJiWXlvZWhSejk3WmRIbTB2QUdDSTBPdGM?oc=5"
+          "name": "U Food",
+          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQdzNYRlgyLV9OOU5GbXlPSmdsSlJ6Q1hkLWI4NnBzSUIzZllBVGVTQnNHR01QYjZDdjg3b01mejctUkhZMFZFcWRpVjYwOVRJUTRlc25Wd18zcTh0ZWd5N0NlQmNuMkF5aU9zNjdhUTdBU2p0aWd0cExRNlhjdGpyX1drdi1HOTFEcDczRHY1Z3ZkUkMyMDJCNWkyLWd1ajFTRUhhczRkMkNtZ0s3dFVpZVJfTFV4X2Z3SjlYczlVRVo0dkJPR2JRZHRzRnZTaWhxSmRoLTB1VllicHE5OUdoT0JNOXlwYmlGZExOUXZORWhMWU94aHFqUjRrZXRRVXlycDRHbXZsU2UtTXJSTVoxVzFhUFhNMjN6QlpYRjBIY1VLX3NJRUkzc0x2NHFLMjMxZ3NEejlJa0lpYnRaM3l5NGVkLW40dk9COUF4RnNJY3lVc0VFQUtBRGt6MlpCVnBaOTBxa2FpdklRb0JTWl82alJVWFhkSFlvZ1lQcjQ2NW5sdEVOZk5JRQ?oc=5"
         }
       ]
     },
@@ -220,18 +172,6 @@
       ]
     },
     {
-      "id": "894adb2e14f0",
-      "title": "中年3件事沒顧好55歲後少12.6年沒失智時光- 健康 - 中時新聞網",
-      "published": "2026-08-19T06:47:40+00:00",
-      "summary": "中年3件事沒顧好55歲後少12.6年沒失智時光- 健康&nbsp;&nbsp;中時新聞網想晚13年失智？研究揭中年「3件事」很關鍵：護心也護腦&nbsp;&nbsp;Yahoo新聞大腦老得慢，中年就要開始！研究揭2件事與晚年認知衰退較慢有關&nbsp;&nbsp;元氣網避免糖尿病高血壓吸菸 可延遲失智近13年&nbsp;&nbsp;大纪元不吸菸、無慢性病 可延後13年失智 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HczhVdzNlajFaRTBNOFBmQU9GaWpiYmJtc1E0NVBPRTFVRnExWlQwX3g5V2FWWEJEbGk0WWxiaG52Mll3bUw0bkszbjhvRTNwZ0hLY29jem1kTm1XNHV3a0YzVE5uZ1JiN1ZfZkZ3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8f59e08f2512",
       "title": "8/20世界蚊子日｜蚊子真的會傳染愛滋嗎？真正該清除的，不只是積水，還有流傳太久的恐懼 - peopo.org",
       "published": "2026-08-20T10:06:00+00:00",
@@ -240,6 +180,18 @@
         {
           "name": "peopo.org",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1NbkVmT3psaDQ0M0lqTExWLVRwdkNQbEJTRFBFX3c2U3RMSjBndklPTUJ2ZUdjM3JtbXhNQjhpb0pxMFBDWS1OZg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d8be452b7d5e",
+      "title": "不只抗氧化發炎，大鼠實驗揭示薑黃素可阻止一型糖尿病患者血管惡化 - TechNews 科技新報",
+      "published": "2026-08-21T07:13:08+00:00",
+      "summary": "不只抗氧化發炎，大鼠實驗揭示薑黃素可阻止一型糖尿病患者血管惡化&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaXE5ZXN4c2o4MklmTUhFNGp1QVRMRDMzdkpJTmU4d0NaTDJRWThCX2NOelNVQmpDZ2g0WEd0S0g4eEV5eWhDWUhMNDdFRUxCNTJhLVhtcjllcGlJVXVlSXgyamszMHhkNzFMaTctS3Y5NC1SZWpfNG13RHNZSmhzUGVDaUs5R0Z4cV9BSnM4UVZUbkRSdmQ5a09UQ1F0ZDVv?oc=5"
         }
       ]
     },
