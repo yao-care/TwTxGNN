@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [調整大腦免疫反應，找回阿茲海默症患者失去的睡眠 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxQczIxX3dXdFFwLWIzSEdsRlZQUE9hZWpmbHdGNEJNNy1aTFRpYjdTSnNhNkdDaU1VOFdLUkUxY3dqSVA1ZVFuX28zRVN0N2NLN3FicnFHd0lfRFVYbjk5Q203M1NJR2VTdklBOVdnVzhtV1U4V2dYRkZSTU5ON1phbHVYSGIzUlg0WjB5ZnpoR3lQTEVGUm5lZk4yNnBjUE9zZlE?oc=5)
+
+2026-08-21 <span class="news-indication-tag">阿茲海默症</span>
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxQczIxX3dXdFFwLWIzSEdsRlZQUE9hZWpmbHdGNEJNNy1aTFRpYjdTSnNhNkdDaU1VOFdLUkUxY3dqSVA1ZVFuX28zRVN0N2NLN3FicnFHd0lfRFVYbjk5Q203M1NJR2VTdklBOVdnVzhtV1U4V2dYRkZSTU5ON1phbHVYSGIzUlg0WjB5ZnpoR3lQTEVGUm5lZk4yNnBjUE9zZlE?oc=5)
+
+---
 
 ### [寵物壁虎 竟可能成為破解癌症的重要幫手](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VdUFHZG00akd3SmplWUlja2R6cllpOUlCOGNSa2I0alNlWGZTVVBmSlczYlNuWkV6Q1lzWmpuNXRwNkU2Q21uSlh6el9XNzdqZ291a0lkTHBySld5dXfSAWJBVV95cUxNRWNQVGYwTXo4TE83TmFPdHhncnhYemN3Y3dkQmpDXzBDbTZ5RXV3ME44QmhWR19La2o0ajlLTnFPbVFZWks2TVpkVDllcE0yWXNSYXkxNHFSSmNPeXB1RnhSQQ?oc=5)
 

@@ -1,7 +1,31 @@
 {
-  "generated": "2026-08-21T16:21:14.806119+00:00",
-  "count": 3,
+  "generated": "2026-08-21T17:19:46.243242+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "c9206438d285",
+      "title": "調整大腦免疫反應，找回阿茲海默症患者失去的睡眠 - TechNews 科技新報",
+      "published": "2026-08-21T16:30:00+00:00",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczIxX3dXdFFwLWIzSEdsRlZQUE9hZWpmbHdGNEJNNy1aTFRpYjdTSnNhNkdDaU1VOFdLUkUxY3dqSVA1ZVFuX28zRVN0N2NLN3FicnFHd0lfRFVYbjk5Q203M1NJR2VTdklBOVdnVzhtV1U4V2dYRkZSTU5ON1phbHVYSGIzUlg0WjB5ZnpoR3lQTEVGUm5lZk4yNnBjUE9zZlE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "e2fab18e6984",
       "title": "寵物壁虎 竟可能成為破解癌症的重要幫手",
