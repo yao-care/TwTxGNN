@@ -1,31 +1,7 @@
 {
-  "generated": "2026-08-21T12:27:41.087748+00:00",
+  "generated": "2026-08-21T13:37:34.454829+00:00",
   "count": 3,
   "news": [
-    {
-      "id": "2bff6c7dce30",
-      "title": "女子感冒怕藥毒拒就醫 4天引發急性腎損傷",
-      "published": "2026-08-21T06:12:42+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOcUZtS2E0OVVCNW8wX3ByQ3F4b3cxUmZITzZEM1dtR3ZSMkRUQ0tHWWhmekhXWFZjUlpPSW91cnlGWEpIaWZqTFFINWtaRDVWZTdjTXZPMnZ1NDlNU0UxTmF1TV84RXprTndmbl9nanIzU3pPSFhGTXB2UllNZTkzUVpPZ3NWUFdRU010TXhzR3g0dEhJNHFRUlo0UWwydW9Bc2tOLTQtTGtIVGU5ZXQtaWxkTjAzUTFhSnZqQ3c2OVNBLThJN0c1VmdFbW1BLVRGSVRYZUdibXBxMTRKQ3lRRVdlbUFFYVlhQi1nSFE3bjg5OXJJeWpFSEZyeDJ4OUZsckxRODdvR3c0blVKZno3djctd2ZoVTFDLXAtc2UtbkRfUm5wb1FjZ0VSY0pJdw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "e2fab18e6984",
       "title": "寵物壁虎 竟可能成為破解癌症的重要幫手",
@@ -229,6 +205,30 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e26a5a627d61",
+      "title": "65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命",
+      "published": "2026-08-21T01:01:05+00:00",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2b1EwX3VrU3lYZmpsdHgxTVRNaGFQU2VWLVVaajRRcDdyYjRBOWsxdTRsVzFkUzgwdkdxeWh5WkxvUW0tRTZ2WHdndzM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }
