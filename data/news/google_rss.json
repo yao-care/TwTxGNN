@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-21T22:13:36.657756+00:00",
-  "count": 24,
+  "fetched_at": "2026-08-21T23:14:42.731396+00:00",
+  "count": 26,
   "news": [
     {
       "id": "e66dcbe99965",
@@ -12,18 +12,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxONElTZVBFUVdZNzdHOEIxWE5aSTRjODA5aXE0S2N2Y19zNHZrZU1vNHBFN2FnWEZQUnJqdGtKZ3FjNU1Yc0ZJSEN0YkxScERRbUg4VExOTVBMd2FveTFsemhkc0JVSnNxdjM5SmpRSXZralFaSmNCdDJsbC1UeHFXUlFHMzJfSk9FcXV3emxtTjZKV2pSejZxQ1Vob2twNVZlYWc1V1ZZLWk1dzlaYnRGQk5tRUVrMkhuc2txYl9xR1Jpa09jM2JfTGZxa1pzU3ZMNFg5bDJBMFZ0aGplVzZibV9SX01QUTRCSGNIN2pPZWF4MVVtaUFRTmlYcjJZVmNLVnYyYzEyT0dQeHdiOGk4cmRMZnFDYWh1a0RHLWJDendCYWNOcEw0Q2w2VmY0and3NnZxTkN3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d8be452b7d5e",
-      "title": "不只抗氧化發炎，大鼠實驗揭示薑黃素可阻止一型糖尿病患者血管惡化 - TechNews 科技新報",
-      "published": "2026-08-21T07:32:05+00:00",
-      "summary": "不只抗氧化發炎，大鼠實驗揭示薑黃素可阻止一型糖尿病患者血管惡化&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaXE5ZXN4c2o4MklmTUhFNGp1QVRMRDMzdkpJTmU4d0NaTDJRWThCX2NOelNVQmpDZ2g0WEd0S0g4eEV5eWhDWUhMNDdFRUxCNTJhLVhtcjllcGlJVXVlSXgyamszMHhkNzFMaTctS3Y5NC1SZWpfNG13RHNZSmhzUGVDaUs5R0Z4cV9BSnM4UVZUbkRSdmQ5a09UQ1F0ZDVv?oc=5"
         }
       ]
     },
@@ -40,14 +28,14 @@
       ]
     },
     {
-      "id": "7bd2f0c3621e",
-      "title": "澳洲無尾熊因為一種人類熟知的「性病」，正在面臨一場生存浩劫 - A Day Magazine",
-      "published": "2026-08-21T06:04:44+00:00",
-      "summary": "澳洲無尾熊因為一種人類熟知的「性病」，正在面臨一場生存浩劫&nbsp;&nbsp;A Day Magazine",
+      "id": "d8be452b7d5e",
+      "title": "不只抗氧化發炎，大鼠實驗揭示薑黃素可阻止一型糖尿病患者血管惡化 - TechNews 科技新報",
+      "published": "2026-08-21T07:32:05+00:00",
+      "summary": "不只抗氧化發炎，大鼠實驗揭示薑黃素可阻止一型糖尿病患者血管惡化&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "A Day Magazine",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRUMtYmFkXy1EYklrZjhHdFB4MV81ZExoUkRVVnhObVI0S0J0SnRvcl95RWo5V2RHTEVnUHNnT3lkUS1sNW9rb05hNnVnRlljOV9fUl9ZTTh5Mmo5WHRLM25yMURGbi1kd0wzZ190YWlpM3FjS2dicUQ1MTN1NGRXSDZKVmoydw?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaXE5ZXN4c2o4MklmTUhFNGp1QVRMRDMzdkpJTmU4d0NaTDJRWThCX2NOelNVQmpDZ2g0WEd0S0g4eEV5eWhDWUhMNDdFRUxCNTJhLVhtcjllcGlJVXVlSXgyamszMHhkNzFMaTctS3Y5NC1SZWpfNG13RHNZSmhzUGVDaUs5R0Z4cV9BSnM4UVZUbkRSdmQ5a09UQ1F0ZDVv?oc=5"
         }
       ]
     },
@@ -60,6 +48,18 @@
         {
           "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2b1EwX3VrU3lYZmpsdHgxTVRNaGFQU2VWLVVaajRRcDdyYjRBOWsxdTRsVzFkUzgwdkdxeWh5WkxvUW0tRTZ2WHdndzM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7bd2f0c3621e",
+      "title": "澳洲無尾熊因為一種人類熟知的「性病」，正在面臨一場生存浩劫 - A Day Magazine",
+      "published": "2026-08-21T06:04:44+00:00",
+      "summary": "澳洲無尾熊因為一種人類熟知的「性病」，正在面臨一場生存浩劫&nbsp;&nbsp;A Day Magazine",
+      "sources": [
+        {
+          "name": "A Day Magazine",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRUMtYmFkXy1EYklrZjhHdFB4MV81ZExoUkRVVnhObVI0S0J0SnRvcl95RWo5V2RHTEVnUHNnT3lkUS1sNW9rb05hNnVnRlljOV9fUl9ZTTh5Mmo5WHRLM25yMURGbi1kd0wzZ190YWlpM3FjS2dicUQ1MTN1NGRXSDZKVmoydw?oc=5"
         }
       ]
     },
@@ -174,12 +174,24 @@
     {
       "id": "c9206438d285",
       "title": "調整大腦免疫反應，找回阿茲海默症患者失去的睡眠 - TechNews 科技新報",
-      "published": "2026-08-21T16:30:00+00:00",
+      "published": "2026-08-21T16:31:31+00:00",
       "summary": "調整大腦免疫反應，找回阿茲海默症患者失去的睡眠&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczIxX3dXdFFwLWIzSEdsRlZQUE9hZWpmbHdGNEJNNy1aTFRpYjdTSnNhNkdDaU1VOFdLUkUxY3dqSVA1ZVFuX28zRVN0N2NLN3FicnFHd0lfRFVYbjk5Q203M1NJR2VTdklBOVdnVzhtV1U4V2dYRkZSTU5ON1phbHVYSGIzUlg0WjB5ZnpoR3lQTEVGUm5lZk4yNnBjUE9zZlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4f6a64fad04f",
+      "title": "疫苗不是打越多越好？專家揭新型疫苗原理，這2類人打活疫苗要小心 - Yahoo新聞",
+      "published": "2026-08-21T22:50:46+00:00",
+      "summary": "疫苗不是打越多越好？專家揭新型疫苗原理，這2類人打活疫苗要小心&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPRG55LVBqbHpCSFNuRnZwVExxQ0NTTVhMZEU4M1R3RlRFaHdsblZtZy02bmdPRExaX0R3VDA5RlNLcm5Vb1AxM21Ccjk4aFFVZHd3NE4zWXZXekxxS1kxUmc1a2xKTml5bFQ2Vy13UkdWRWtKZDdpcTVERUx5a0tXZ2xaU3VlaDRYc0lIMzBUeVZVQnF0d2FzUUpqQUFZMGFBbEtvbkJKaEVveDZhYU5waUQ4ODlBY1dyZFVIUDVHTW1iRnVydDBiQ2lUS0pMQzhzSGhFMTlkS0ZFQTg3YkUyTmlJbWJqWHRrVkh1Y0UzY1JEd1VKN202NUphazBIX2RDVGhwQWhBT3BYZUFaSkpSb0pfSVZaSHJyOTZPLTNhaldfaklQN1RBR1l6VWdpODB4ay1PR2J0MUQtNEpBc0dKU0RBdUFsU1Y1NGJXV01KTXl1bUpoOTZUTGFoMDZhTUI5ajlDTXZmLVltTEJ2ZWhUd1h6QTlVeVlwenh0WDhxbFprRXVsOUk5djAxYUJOeXVKU1MzOXVyX0ZxRWtuYWhuc3lQVHVPdTQ?oc=5"
         }
       ]
     },
@@ -288,6 +300,18 @@
         {
           "name": "etnet 經濟通",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81UkNiQzMyTjRISlBHX1FUVHRYdkpjX3FiY014SmVNaWtiOWEzYk5mbENldWdmekUxeTJBcnZlRmxFcV94cWJnaGxiVnRxZ1dCRVU3d3VlZF8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f8cdef407403",
+      "title": "25歲身體80歲外貌？比利時網紅患罕有「早老症」日前離世| 超低能．勁搞笑 - FanPiece",
+      "published": "2026-08-20T02:21:57+00:00",
+      "summary": "25歲身體80歲外貌？比利時網紅患罕有「早老症」日前離世| 超低能．勁搞笑&nbsp;&nbsp;FanPiece",
+      "sources": [
+        {
+          "name": "FanPiece",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxObU94WHMtSThYN2NxU0R3X0dYWXBtU3ljeGtpd0Z5RUZxS0U0QjJVMUw1c1hjX0VwUm1veUprMzR3WGxBR1RUQUVjekZub29VS2RFV1Y0VnNEVVM5NWxDTG0ybXplNGtmZ29wY0ZDWHptX3NCdjZKOGljZ0RSRm5DRFcwTzdmcF9acm1LaW5wdkYxVE5NNGloTFR6XzcxaGxqaXFCV3p0cTc0eWhxTFBmZW1zRDM2NEdlNFdlV2w0TUlZNVl0bnBBc0FyX2xBX0toTVk4TktCLW9IdG5GdlJXYkRqWFJsRHVIRHdZZmpjaThnTTlEcDdrYV9SWG0yV2lFalFjN1V2cjEyd19IMnZGRDJ5QXh2dGNEWVNuWjFuaXVzOGNHMWFWRERZZzRnNTExeUdMM2VqcVVkWTRMWjNOVG11b3hCMUxxZklxMW55RFJ3Q0xIUXAxQ19YS09ZZm5sV3BleXRn?oc=5"
         }
       ]
     }
