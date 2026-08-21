@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-21T21:14:14.713074+00:00",
-  "count": 22,
+  "fetched_at": "2026-08-21T22:13:36.657756+00:00",
+  "count": 24,
   "news": [
     {
       "id": "e66dcbe99965",
@@ -24,6 +24,18 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaXE5ZXN4c2o4MklmTUhFNGp1QVRMRDMzdkpJTmU4d0NaTDJRWThCX2NOelNVQmpDZ2g0WEd0S0g4eEV5eWhDWUhMNDdFRUxCNTJhLVhtcjllcGlJVXVlSXgyamszMHhkNzFMaTctS3Y5NC1SZWpfNG13RHNZSmhzUGVDaUs5R0Z4cV9BSnM4UVZUbkRSdmQ5a09UQ1F0ZDVv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f6ab88e9a21b",
+      "title": "一夜情1舉動「男急衝醫院」醫：現在打不晚- 生活 - 中時新聞網",
+      "published": "2026-08-20T13:51:04+00:00",
+      "summary": "一夜情1舉動「男急衝醫院」醫：現在打不晚- 生活&nbsp;&nbsp;中時新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CQnJNQndKZ1dHbDFsUFg5aXBBVERXeDRoM3I1SjNuR0VwTHFhWVFaM29PVDJRYmRQLTVSd0lNWGhZTzY4WW1POWZ3SFhwUG9QSG9ROWNMQWt3czNJZEJwVkx3dE8yQkZTV2o3WWRR?oc=5"
         }
       ]
     },
@@ -54,7 +66,7 @@
     {
       "id": "c003337d0110",
       "title": "壓力大時更容易迷路？研究發現皮質醇會讓大腦導航系統失靈 | 科技新報 - LINE TODAY",
-      "published": "2026-08-21T09:38:26+00:00",
+      "published": "2026-08-21T08:53:20+00:00",
       "summary": "壓力大時更容易迷路？研究發現皮質醇會讓大腦導航系統失靈 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -88,10 +100,10 @@
       ]
     },
     {
-      "id": "f91928e3e9eb",
-      "title": "40+女性必做「14個健檢項目」公開！醫師建議：不只婦科，這幾項也是關鍵 - ELLE",
+      "id": "ba535b0f94f3",
+      "title": "邁入40歲如何精準抗老？醫師建議「14項健檢」女性必做：不只婦科，這幾項也是關鍵 - ELLE",
       "published": "2026-08-20T04:57:54+00:00",
-      "summary": "40+女性必做「14個健檢項目」公開！醫師建議：不只婦科，這幾項也是關鍵&nbsp;&nbsp;ELLE",
+      "summary": "邁入40歲如何精準抗老？醫師建議「14項健檢」女性必做：不只婦科，這幾項也是關鍵&nbsp;&nbsp;ELLE",
       "sources": [
         {
           "name": "ELLE",
@@ -132,6 +144,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOQ0RoMG0ydzU5My11cFVnakR4ZjVneW5hdHc4UVZaS3Z6ME9VdW5zZmhqUXE3OUVhdHFUTXl6cFEyTXRJbTNrbTJ4amVkSVFQejBXM0syVWdTS3o3VHFFWFJOYVJvOE4ydnUxN2dlUkhrcXdLWUdsWlF1eUp4czJYV1Q3UWpjOGthQmsweXhNZ1d1NFFTRUNYeUJ0YU5MNUtDYmxJczZNeEVFWFJ4dTlzclFVaGxtZWNWbmo5R0RMVFppRVNJb1J6d0Q5Y0NpSmkyTi01N25HY2ZESE55cEc3NFZMTEVvV0xReHA5UjN5d1diS1ZxT2wyMGZ2SXdJS2NNWHRLWFJxNXZwcVRSblV0a1VrS0phNFhKLTAxRFRFNVE4MGc2dmFJczdna3ZHTi1hZmMtdl9KVmhYRVlyd0N1VmlkWFBVS0p6RDZpdUx5SDQ0VWVGUjFSdFMyclBHcGdhUndZSG90ZW9mN2JlRTFheFZJLXJ1aHE0U2V5LWV6OVlSaFA2aXRpYVA4TTZQYkU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a61df2736ba1",
+      "title": "癌症年輕化｜身體無故出血要小心醫生揭9種癌症可致異常出血| 健康解「迷」 - 醫學通識- 健康好人生 - etnet 經濟通",
+      "published": "2026-08-20T11:17:44+00:00",
+      "summary": "癌症年輕化｜身體無故出血要小心醫生揭9種癌症可致異常出血| 健康解「迷」 - 醫學通識- 健康好人生&nbsp;&nbsp;etnet 經濟通",
+      "sources": [
+        {
+          "name": "etnet 經濟通",
+          "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPeVpCMUxGNjFfZV9xVVJXVXhMTVlJdFptR3FSNF9oN2lBQ1ViLXFDUU5fTVpDNFF5UE9nc3BER1VYaTR4YjJFa2ZqaTVxaWp1Z19pdmExb3Q3NFBrSWdrRGZia19WX0VudUh1cXNzOTdEWnlnanBJNVNlRUZzcW1YOWtLTjJqRC1CTllVR25aekYwS2FTMi1sY2NtWnkwcF9rRTYyY1I2UG9TdG1tQVlSWTNsSHU5RE1Kb1JPV2VhRzM5Q2FjdE5IZ3V2aE9LOWdGYVlFT0oxRHdBV3laVy1hc1hXQ3dVQmNiWFR6QTFHY2xwX0k0blJFcEJSLTVWWThCUllSWXdQamU2TVNkV0dsT1g4UkZyT05kZGRoVWVGTTA5b3NvekR3Y0RaZER3cm1mLVNpYTE0SkY3TzI3anI5UExwdnU2Uk9RTG9XWFp3aDF5VUlZRUREM3ZaUVB2ZHdfak5sMjViZTlxZUI3aERPcXhDdXdvdGNxdFlydXV5UHFzUVhnbHJjMmdPX3dYVEN4dG9xOTMwckpfdXJzX2RObS13?oc=5"
         }
       ]
     },
