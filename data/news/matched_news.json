@@ -1,17 +1,43 @@
 {
-  "last_updated": "2026-08-22T02:09:27.101253+00:00",
-  "total_count": 30,
+  "last_updated": "2026-08-22T03:34:15.379947+00:00",
+  "total_count": 31,
   "matched_count": 6,
   "news": [
     {
-      "id": "84721be940d1",
-      "title": "感冒好了咳不停別急著吃抗生素！醫：呼吸道還沒修好",
-      "published": "2026-08-22T01:59:11+00:00",
-      "summary": "感冒好了咳不停別急著吃抗生素！醫：呼吸道還沒修好&nbsp;&nbsp;中天新聞網新冠好了卻還在咳、累、腦霧？醫師揭3大原因，4類人最易變長新冠&nbsp;&nbsp;康健雜誌新冠二度感染症狀較輕微？醫示警「3類高風險族群」重症風險恐升高&nbsp;&nbsp;Yahoo新聞不是感冒！多種呼吸道病毒齊發 醫勸「咳嗽超過3週」快就醫 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "id": "0cffad29c97b",
+      "title": "幼童一次中4種病毒！RSV、腺病毒全驗出 醫示警開學後恐升溫",
+      "published": "2026-08-22T02:54:00+00:00",
+      "summary": "幼童一次中4種病毒！RSV、腺病毒全驗出 醫示警開學後恐升溫&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96ZW85b3oteUc4YVF5al9SS1A2aGpMVTAwMURweVppbXRya2VicDVzanVjUkpteXRNS3pZVkRnMFhTSEY5S2NmWFUyUkhCUXU0cUNz?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xZVNfQWx4bmIzZkd5OXYtUk5VNVVpcXpaRThOSlNLekZpYUdvU3ZkRlpxZ0J5eEozWXR2bnVzajlvanJJVXcwZkU1a3hYanBuNmZBYkdXQWhmZ3ZrM3kxUXEtSHo?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b8a0b7806269",
+      "title": "健康網》膝關節退化新救星！研究揭每天補1纖維減痛、握力增",
+      "published": "2026-08-22T02:14:00+00:00",
+      "summary": "健康網》膝關節退化新救星！研究揭每天補1纖維減痛、握力增&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QZXdFd21manlzaGVvQURGSFBlcFp1ZzRVUmJpYzV1M2NOWF9Wdm5CNFVHMnJveWFOcGF3VWJMSjBRWkZ5b0FQVU5EYlF0dm9zUUNBM3ZFelJBZGdCZ1VMSjZWck4?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5663fb287ee5",
+      "title": "怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重",
+      "published": "2026-08-22T02:12:50+00:00",
+      "summary": "怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重&nbsp;&nbsp;Yahoo新聞65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命&nbsp;&nbsp;三立新聞網SETN.com感冒別硬撐！腎友怕「吃藥傷腎」拒就醫 4天後腎功能惡化 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞重感冒硬撐不吃藥她4天後酸中毒了腎也衰竭- 健康&nbsp;&nbsp;中時新聞網女子感冒怕藥毒拒就醫 4天引發急性腎損傷&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQYU5QTHUycFdObWRBVm5pczl5RUlfeW8tb3pNazh0eEM5VE81YUNHQjhIMzBQNExPWmVaWHZKaEUxTnJPazRaRjVYUzZRQ3o4dHdqSXNvTC01NS1xVl93LTlTMzdsalZUYXNxY196RUV6bFZkV05GRG1WZ0FrazBQMFVkMWx1UjFPZ3ZtVHdsSGM5bEQ3eGlxN1lnZ3gzTGM1TmRsNzBMSHlrUXNvTV9sM2hRTV84dy05dlFHMGRPTndURjNGcVRJbjZtaHczVlh2aHdObDJUazFoeGh6M0dOdTdCQnBrRllDbzk2QnBXU3J1WjRSTmw3Z3hHUFg1aDNNQ2hyVHoybE1iTFp1ZFRLZDdKSVRpX2xDR3BKc0lJSDh2bFgydUlZSWgwU3NuZlB0RVdEeFJnYUhPcTJYcERqOEVQYjJ2ZHpLNTFGaVRfbTkya21YVlNBSWUxMm4zOVVfblRnOWdaTXF1a0VZUmRxNk9wN1liU1ZBMEE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -23,6 +49,56 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81de01e8beb6",
+      "title": "感冒好了咳不停別急著吃抗生素！醫：呼吸道還沒修好",
+      "published": "2026-08-22T02:12:49+00:00",
+      "summary": "感冒好了咳不停別急著吃抗生素！醫：呼吸道還沒修好&nbsp;&nbsp;Yahoo新聞感冒好了仍狂咳！不是肺炎 醫揭「4大元凶」：別急著吃抗生素&nbsp;&nbsp;三立新聞網SETN.com新冠好了卻還在咳、累、腦霧？醫師揭3大原因，4類人最易變長新冠&nbsp;&nbsp;康健雜誌新冠二度感染症狀較輕微？醫示警「3類高風險族群」重症風險恐升高&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNT2F3eXZzX0FtLTdkT2VSUXphdTh6dkJuUVVEeFJZMm56RWdYazlRMVdEN1lKNjdjUHhMQ2lpVnRkUXMzbTlJZ1JBSjVKWTVPSXhtbVR5c3RacGx3WG8tZ1NNZWJHS2U3Wkl5ZU5vcUR0dkdUZDZDZDl5U1hCcHo3MjhURFNES1dOSVIxM2dGQU03enlhb1NfMjZ5bDZXNmtQS19PSXlWUFZuaVByQzNNejB6dmMxR1pxR19aZkZkREwtVV9YQXpHVlZTLWlYajFSTVpWc25MZllVRDN3OWczX2tzREFES0V3RDlmSG1xOWNMN0FhQzZvVEoxNThqZUtBWVVVNTRoRUF6VVhrYWEyUEVCcTR2WmxEVm5UaE10ek1vUjlhWk5nY096Tl9heVRxUl9BMXRiWFZYLW9HY3llWnNfQWtDLU5IWXh0bE9sSjhsZnVyb3JYOWVrTF9kdw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9a9501fa3325",
+      "title": "羅志祥66歲母親罹「阿茲海默症」…醫：1飲食法「逆轉腦齡7.5歲」，這些傷腦食物要少吃",
+      "published": "2026-08-22T01:13:28+00:00",
+      "summary": "羅志祥66歲母親罹「阿茲海默症」…醫：1飲食法「逆轉腦齡7.5歲」，這些傷腦食物要少吃&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOYUh6d0pCeDlVRXZFbWhtX1VXeEhEN3RqZXNaUlRyclM2a3p4S1l0U2l1M1J2WU42WmtmVkpTQ0xITGdSbE1xYlR0ak9NOFZ0dGNveHdLZ19PMFBITlE3QWRiY3l1SGlYd1pCZW5VRlpVSTc0MHNJSVM5Z2pkOXc1X2QxTDNxVFhkZTJaemE4aUtua3dMbGlSeVh1NmZiaEFBZE5VWUg5U21uano3Ym94VFZ2NTg1X2l4YVItZEZsYnRuUmpsb0ROZTEySDQtX3lOSGNpVWVLek9HWHQxWXRvbGRzVElUU0RDQnNNcmNHa2tfc3hQcGU2VnZSZzlKOXdyWUdOOTUtSWZtTXc5UUFtZzRyTE8xeFU2T0FncjhjOUV0dEZweldxS01wVVFLZUxCczlIaFE4Sm14aXZNVGRrODBKaXBra0lMTFRsbTRn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -83,7 +159,7 @@
       "id": "77c8d4057b71",
       "title": "貴州女子明知有愛滋仍賣淫 被抓時已交易50次 量刑曝光",
       "published": "2026-08-21T10:30:50+00:00",
-      "summary": "貴州女子明知有愛滋仍賣淫 被抓時已交易50次 量刑曝光&nbsp;&nbsp;世界新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "貴州女子明知有愛滋仍賣淫 被抓時已交易50次 量刑曝光&nbsp;&nbsp;世界新聞網愛滋女瞞病「接客50次」！警破門她正與客人連結&nbsp;&nbsp;Yahoo新聞【染愛滋竟瞞病「接客50次」！貴州女被抓時還在跟恩客性交易】 #大陸 （示意圖／達志影像） 太沒職業道德了吧。(#起啵)&nbsp;&nbsp;facebook.com恐怖循環！色情網站變「暗黑櫥窗」 賣迷藥偷拍器 上傳獵物片享優惠補貼&nbsp;&nbsp;橙新聞染愛滋竟瞞病「接客50次」！貴州女被抓時還在跟恩客性交易&nbsp;&nbsp;ETtoday新聞雲",
       "sources": [
         {
           "name": "世界新聞網",
@@ -106,14 +182,14 @@
       "matched_keywords": []
     },
     {
-      "id": "e66dcbe99965",
-      "title": "28歲女躺公用瑜伽墊「慘染HPV」 醫：病毒可活數小時",
-      "published": "2026-08-21T07:17:45+00:00",
-      "summary": "28歲女躺公用瑜伽墊「慘染HPV」 醫：病毒可活數小時&nbsp;&nbsp;Yahoo新聞公用瑜伽墊竟害28歲陸女「感染HPV」！醫：這病毒夏季可活數小時&nbsp;&nbsp;TVBS新聞網28歲女用公用瑜伽墊「感染HPV」 醫警告：夏季這病毒可活數小時&nbsp;&nbsp;facebook.com28歲女用公用瑜伽墊「感染HPV」 醫：夏季這病毒可活數小時&nbsp;&nbsp;蕃新聞",
+      "id": "786f05c411f5",
+      "title": "28歲女用公用瑜伽墊「感染HPV」 醫：夏季這病毒可活數小時",
+      "published": "2026-08-21T10:02:00+00:00",
+      "summary": "28歲女用公用瑜伽墊「感染HPV」 醫：夏季這病毒可活數小時&nbsp;&nbsp;winnews.com.tw前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxONElTZVBFUVdZNzdHOEIxWE5aSTRjODA5aXE0S2N2Y19zNHZrZU1vNHBFN2FnWEZQUnJqdGtKZ3FjNU1Yc0ZJSEN0YkxScERRbUg4VExOTVBMd2FveTFsemhkc0JVSnNxdjM5SmpRSXZralFaSmNCdDJsbC1UeHFXUlFHMzJfSk9FcXV3emxtTjZKV2pSejZxQ1Vob2twNVZlYWc1V1ZZLWk1dzlaYnRGQk5tRUVrMkhuc2txYl9xR1Jpa09jM2JfTGZxa1pzU3ZMNFg5bDJBMFZ0aGplVzZibV9SX01QUTRCSGNIN2pPZWF4MVVtaUFRTmlYcjJZVmNLVnYyYzEyT0dQeHdiOGk4cmRMZnFDYWh1a0RHLWJDendCYWNOcEw0Q2w2VmY0and3NnZxTkN3?oc=5"
+          "name": "winnews.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RVDVrbHdDTFc1VHAxZ25fMm5YYnJ3aFc0REljdXJ2R1RabFBFQnNkRGNvYkYtS2tRUXpjTFdMRG9MMThWYmRheGJB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -380,31 +456,6 @@
       "matched_keywords": []
     },
     {
-      "id": "b0cefedd8c89",
-      "title": "65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命",
-      "published": "2026-08-21T01:01:05+00:00",
-      "summary": "65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命&nbsp;&nbsp;三立新聞網SETN.com感冒別硬撐！腎友怕「吃藥傷腎」拒就醫 4天後腎功能惡化 | CTWANT&nbsp;&nbsp;LINE TODAY她重感冒硬撐不吃藥 4天後「嚴重酸中毒」、還腎衰敗&nbsp;&nbsp;三立新聞網SETN.com重感冒硬撐不吃藥她4天後酸中毒了腎也衰竭- 健康&nbsp;&nbsp;中時新聞網女子感冒怕藥毒拒就醫 4天引發急性腎損傷&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2b1EwX3VrU3lYZmpsdHgxTVRNaGFQU2VWLVVaajRRcDdyYjRBOWsxdTRsVzFkUzgwdkdxeWh5WkxvUW0tRTZ2WHdndzM?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "523bf5538ce7",
       "title": "壓力大時更容易迷路？研究發現皮質醇會讓大腦導航系統失靈 - TechNews 科技新報",
       "published": "2026-08-21T00:16:51+00:00",
@@ -431,27 +482,14 @@
       "matched_keywords": []
     },
     {
-      "id": "49bd00942441",
+      "id": "b58d7fdff5d1",
       "title": "老化不一定等於衰退 耶魯研究揭： 近半長者身體或認知功能可改善",
       "published": "2026-08-20T22:40:35+00:00",
-      "summary": "老化不一定等於衰退 耶魯研究揭： 近半長者身體或認知功能可改善&nbsp;&nbsp;巴士的報",
+      "summary": "老化不一定等於衰退 耶魯研究揭： 近半長者身體或認知功能可改善&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOTHNvNW0zMDR5UmpqZUFzeXBpQlBDaGdBN29xSUZ5QlhvbThJU2tuUzBiYkY5NTl1elBBdlVleVdkdHdGM3RudWwtaHRZekxwaEdiOGFBNk5odE5rSGpmWUV6TzNlUjg2dzF0M1p6bzFBbkRuZWZkV3BQLUpTVW9TQlM5alhtNXNpRks0VTBsTGUtUm1CZmh2UzFSd3FIM3psRnNIOGNZV25UejNWSkI4TFZMU1NMeEdobmhVLWI1WEJweGVrRGtoVFVwZWhKZWdwY3lCc0Z6bDBtOS1pbTFpbmRVMjA3ZVBJWDg1RjRXT3JRLTNjN0t0Mm5xYk1GVnloVVVpdWFRQVZjb1ptdTRIbm9HR1NPWWhrcFlSSjRFVjQyMTZFRlZmdThybU1rTVJrZHRKd2lEZjFhM29TZFB1aXZWNkdvOVV6bmNQUW5fVHFuTURfSllTcTktR2tTQ1JtYkNVVUlDVk5fSFpsWXc0?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5f06ee1ad1e7",
-      "title": "南山人壽：嬌花易折 55歲後女性骨折理賠件數是男性2倍以上",
-      "published": "2026-08-20T18:26:37+00:00",
-      "summary": "南山人壽：嬌花易折 55歲後女性骨折理賠件數是男性2倍以上&nbsp;&nbsp;《現代保險》雜誌7旬嬤腰痠背痛暗藏骨質疏鬆危機！醫揭「這1檢查」重要性與日常防範&nbsp;&nbsp;健康醫療網日服5毫克類固醇小心骨折 規律運動與營養防骨質流失 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞吃類固醇超過3個月 不分年齡都要防骨鬆&nbsp;&nbsp;蕃新聞類固醇吃超過3個月小心骨鬆！醫：5毫克以上要防骨折&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "《現代保險》雜誌",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2T3dDTlhEcDhERS1wa0JmV2ZVRjZ0Y2lwazREblRmZjJYR21zcnZSTkhpeEE5RXhIZkpFNzBEUG1lZ19qVXhVMnVrRFRHRjhaWVU4?oc=5"
         }
       ],
       "matched_keywords": []
@@ -465,6 +503,19 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CQnJNQndKZ1dHbDFsUFg5aXBBVERXeDRoM3I1SjNuR0VwTHFhWVFaM29PVDJRYmRQLTVSd0lNWGhZTzY4WW1POWZ3SFhwUG9QSG9ROWNMQWt3czNJZEJwVkx3dE8yQkZTV2o3WWRR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1a03434e2c93",
+      "title": "南山人壽：55歲後女性骨折理賠件數是男性2倍以上",
+      "published": "2026-08-20T12:33:48+00:00",
+      "summary": "南山人壽：55歲後女性骨折理賠件數是男性2倍以上&nbsp;&nbsp;經濟日報7旬嬤腰痠背痛暗藏骨質疏鬆危機！醫揭「這1檢查」重要性與日常防範&nbsp;&nbsp;健康醫療網日服5毫克類固醇小心骨折 規律運動與營養防骨質流失 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞吃類固醇超過3個月 不分年齡都要防骨鬆&nbsp;&nbsp;蕃新聞類固醇吃超過3個月小心骨鬆！醫：5毫克以上要防骨折&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40TThnRmZLWDJWU1N3bzRLNzMyQ2luZTY4NzdneHUza09SRGtCeW10SU5LNWdNcU1QN1FNRkVLYkdZRWppQlpKSS1JV01sdWlraGNfVjFRcDllQdIBX0FVX3lxTE0taHZuTWxPcy00YkFwOVpFWTlCY2pIN2Iza3UzLWZKMjlKVjA5SUtveEc2UFkyUGdpeW8tTXRyU3V3eHdXM1ktLWN5UUxZVENlZ2poaFczM0h2WWdmc01n?oc=5"
         }
       ],
       "matched_keywords": []
@@ -744,6 +795,19 @@
       "matched_keywords": []
     },
     {
+      "id": "3cabeb4d030d",
+      "title": "美國密歇根5年來首例人感染東部馬腦炎 死亡率30% - 大紀元時報 香港",
+      "published": "2026-08-20T07:33:24+00:00",
+      "summary": "美國密歇根5年來首例人感染東部馬腦炎 死亡率30%&nbsp;&nbsp;大紀元時報 香港",
+      "sources": [
+        {
+          "name": "大紀元時報 香港",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JWXhHcEJyNVFNUEljWjFpN2xndDU4bUdnYUs4WXhGbXYwQ0k1WGNfTzljbnp1QUFyZTVSN2FaYzIxdzNBSlRONC1PWjh6c0k1TjVQOFU2M3FKX1YtckZZ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "50cea17621e4",
       "title": "60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物 第一名高纖護血管",
       "published": "2026-08-20T05:00:33+00:00",
@@ -768,65 +832,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "4ee2e814ca34",
-      "title": "密歇根州現致命東部馬腦炎病例 為5年來首例",
-      "published": "2026-08-20T04:30:00+00:00",
-      "summary": "密歇根州現致命東部馬腦炎病例 為5年來首例&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaXzJibVpjYUhjRDNRYWpQQURXNVk5YWIyUURwVnF4MFZKbTZOR0VHS3RqUXJmVC01V0ozWG9ITFFQaUJFa3h3MkN1SmxyaVpoNjhCemgtY3lKNE1XMzU2edIBZkFVX3lxTFA3OFotVHc2RHg4NmRGYzNVeE9vdThya3I1VV9lWTBNMUp4Y3Y1eGVwWG1ibU9CeDlhWXBJTFd3eUpQcUIzcmhqTFpBSHltSDVqckhaR3E3eDRtMWJMOXZQWTJIQkIzQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "28e0e1539674",
-      "title": "侵襲性腦脊髓膜炎致死率50% 全年齡提高警覺",
-      "published": "2026-08-20T02:25:00+00:00",
-      "summary": "侵襲性腦脊髓膜炎致死率50% 全年齡提高警覺&nbsp;&nbsp;東森新聞",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rSWlBbjRUYWxpUnpjbEViZ3NBN3Nib1pSaEhiRFdIQ3A2NWJ3alJQeS1sVDRIZWkwVks1MExNNHAtcnBoN0l5dzZFUHQ4QS1jbGhPYQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f016a51798ce",
-      "title": "早期肺癌手術切除不是治療終點 醫解析「術後輔助治療」重要性",
-      "published": "2026-08-20T01:14:47+00:00",
-      "summary": "早期肺癌手術切除不是治療終點 醫解析「術後輔助治療」重要性&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOQ0RoMG0ydzU5My11cFVnakR4ZjVneW5hdHc4UVZaS3Z6ME9VdW5zZmhqUXE3OUVhdHFUTXl6cFEyTXRJbTNrbTJ4amVkSVFQejBXM0syVWdTS3o3VHFFWFJOYVJvOE4ydnUxN2dlUkhrcXdLWUdsWlF1eUp4czJYV1Q3UWpjOGthQmsweXhNZ1d1NFFTRUNYeUJ0YU5MNUtDYmxJczZNeEVFWFJ4dTlzclFVaGxtZWNWbmo5R0RMVFppRVNJb1J6d0Q5Y0NpSmkyTi01N25HY2ZESE55cEc3NFZMTEVvV0xReHA5UjN5d1diS1ZxT2wyMGZ2SXdJS2NNWHRLWFJxNXZwcVRSblV0a1VrS0phNFhKLTAxRFRFNVE4MGc2dmFJczdna3ZHTi1hZmMtdl9KVmhYRVlyd0N1VmlkWFBVS0p6RDZpdUx5SDQ0VWVGUjFSdFMyclBHcGdhUndZSG90ZW9mN2JlRTFheFZJLXJ1aHE0U2V5LWV6OVlSaFA2aXRpYVA4TTZQYkU?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "849e34530e76",
