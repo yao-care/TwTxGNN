@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [感冒好了咳不停別急著吃抗生素！醫：呼吸道還沒修好](https://news.google.com/rss/articles/CBMiU0FVX3lxTE96ZW85b3oteUc4YVF5al9SS1A2aGpMVTAwMURweVppbXRya2VicDVzanVjUkpteXRNS3pZVkRnMFhTSEY5S2NmWFUyUkhCUXU0cUNz?oc=5)
+
+2026-08-22 <span class="news-indication-tag">感冒</span>
+
+來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE96ZW85b3oteUc4YVF5al9SS1A2aGpMVTAwMURweVppbXRya2VicDVzanVjUkpteXRNS3pZVkRnMFhTSEY5S2NmWFUyUkhCUXU0cUNz?oc=5)
+
+---
 
 ### [65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命](https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2b1EwX3VrU3lYZmpsdHgxTVRNaGFQU2VWLVVaajRRcDdyYjRBOWsxdTRsVzFkUzgwdkdxeWh5WkxvUW0tRTZ2WHdndzM?oc=5)
 

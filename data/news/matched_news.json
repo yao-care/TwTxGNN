@@ -1,8 +1,33 @@
 {
-  "last_updated": "2026-08-22T00:41:58.857975+00:00",
-  "total_count": 27,
-  "matched_count": 5,
+  "last_updated": "2026-08-22T02:09:27.101253+00:00",
+  "total_count": 30,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "84721be940d1",
+      "title": "感冒好了咳不停別急著吃抗生素！醫：呼吸道還沒修好",
+      "published": "2026-08-22T01:59:11+00:00",
+      "summary": "感冒好了咳不停別急著吃抗生素！醫：呼吸道還沒修好&nbsp;&nbsp;中天新聞網新冠好了卻還在咳、累、腦霧？醫師揭3大原因，4類人最易變長新冠&nbsp;&nbsp;康健雜誌新冠二度感染症狀較輕微？醫示警「3類高風險族群」重症風險恐升高&nbsp;&nbsp;Yahoo新聞不是感冒！多種呼吸道病毒齊發 醫勸「咳嗽超過3週」快就醫 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96ZW85b3oteUc4YVF5al9SS1A2aGpMVTAwMURweVppbXRya2VicDVzanVjUkpteXRNS3pZVkRnMFhTSEY5S2NmWFUyUkhCUXU0cUNz?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "4f6a64fad04f",
       "title": "疫苗不是打越多越好？專家揭新型疫苗原理，這2類人打活疫苗要小心",
@@ -50,6 +75,19 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9USmlvTDdZVjJua2s4SmJrSzJfTXJ0VWlPUHdEUkVTZGxVTW5QUFYyZGw1VmVVNFlxQ1RVSXQ4MG1lZ2tpYmtsNW5EOVJMTGdOcElLeW1n?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "77c8d4057b71",
+      "title": "貴州女子明知有愛滋仍賣淫 被抓時已交易50次 量刑曝光",
+      "published": "2026-08-21T10:30:50+00:00",
+      "summary": "貴州女子明知有愛滋仍賣淫 被抓時已交易50次 量刑曝光&nbsp;&nbsp;世界新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zN2xQTjFlenhFeFZvelhFQ1ZOM1RBRHdfdXd0aUhma0M4dGpRdnpDQ19zSVhIUnhuR0FSSllYWHRHMnFqUTJVa3JmbTRwcTV4RmJnN0FOUXhnOUlYZGpsdU130gFnQVVfeXFMUE9HZW1uNHhFSGl5aE9PMlBaMUVZMm1XWnVjMFdSRVJBbUY0eGplZkpZeFFmNWxVdWROREdPWThNSEtLMHVfQm9hU09PWEVHcG8yU3RGVTlhLWlRNDUwYTl5QWwyUU5hVQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -706,6 +744,19 @@
       "matched_keywords": []
     },
     {
+      "id": "50cea17621e4",
+      "title": "60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物 第一名高纖護血管",
+      "published": "2026-08-20T05:00:33+00:00",
+      "summary": "60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物 第一名高纖護血管&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxNc3RBRjBudkphaGJ3RWJIam8wTTFQaDlKYUVsVHF4TkNrbDJWQUt2bHV3azk5NEwyRG5ienNFQ0xUOExzODVOMGVWdFQxSVpjTTlGT0FST1VPelZ5bTNENm1ZNFUwN0ZiZGt3Y0JHZF9ET2RFUC1WMVBwdW1zX01GWHR3ZU5PYXVOVDRnSWJ1TU9xQnd5aXFZamo1bjBIeGkzTkw2d2gwMXVVRUxSMnBrV2x0YnVzQWo4OHp6OWdBLU52VDhhYkZJYnprbjRtVmNZMlRtZFFZT3hpWlRQNXM1RFJWb1U3Rnh6MGQ1TVhZaXZ4TWRyQ1pVT1ItM2lNb1dVY0FjcDhwRVYzZGs0VElwQ3ZhOFR5N2txRlkxU1lHbFp4RXBYblVrbnRZYmc1VjBzamY5X0VsLW9qV0NycUhfSkRPSXhxbGpaTGdlSV9rY0ktS0lUaTBVVmp4U2YyRnVNb200VjdRSzZLQjJMdmQ1VHFvaFZxTkNyZUlDZ0lFdXFJZDREUWxrTEFWT2h4YldXRGlqR2t0NVI3ZFdhUTNvLU5od1BNdVMwcFZyd2prMl9FLW9JNjVlRnpZMGg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "ba535b0f94f3",
       "title": "邁入40歲如何精準抗老？醫師建議「14項健檢」女性必做：不只婦科，這幾項也是關鍵",
       "published": "2026-08-20T04:57:54+00:00",
@@ -745,14 +796,14 @@
       "matched_keywords": []
     },
     {
-      "id": "7a1fab216b78",
+      "id": "f016a51798ce",
       "title": "早期肺癌手術切除不是治療終點 醫解析「術後輔助治療」重要性",
-      "published": "2026-08-20T01:27:17+00:00",
-      "summary": "早期肺癌手術切除不是治療終點 醫解析「術後輔助治療」重要性&nbsp;&nbsp;民視新聞網",
+      "published": "2026-08-20T01:14:47+00:00",
+      "summary": "早期肺癌手術切除不是治療終點 醫解析「術後輔助治療」重要性&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52MkJfOS1ZU0JPV2I4NmNHWFVudUxGVHVsS3JsV3NmRTdlb0YtZ3lsVjNYbmRsbHJMT2c1LVJ1ZHFDdXZNemxRTS1OSUFfYWRrT2c1dF9zSjBRa2U5MWlzYw?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOQ0RoMG0ydzU5My11cFVnakR4ZjVneW5hdHc4UVZaS3Z6ME9VdW5zZmhqUXE3OUVhdHFUTXl6cFEyTXRJbTNrbTJ4amVkSVFQejBXM0syVWdTS3o3VHFFWFJOYVJvOE4ydnUxN2dlUkhrcXdLWUdsWlF1eUp4czJYV1Q3UWpjOGthQmsweXhNZ1d1NFFTRUNYeUJ0YU5MNUtDYmxJczZNeEVFWFJ4dTlzclFVaGxtZWNWbmo5R0RMVFppRVNJb1J6d0Q5Y0NpSmkyTi01N25HY2ZESE55cEc3NFZMTEVvV0xReHA5UjN5d1diS1ZxT2wyMGZ2SXdJS2NNWHRLWFJxNXZwcVRSblV0a1VrS0phNFhKLTAxRFRFNVE4MGc2dmFJczdna3ZHTi1hZmMtdl9KVmhYRVlyd0N1VmlkWFBVS0p6RDZpdUx5SDQ0VWVGUjFSdFMyclBHcGdhUndZSG90ZW9mN2JlRTFheFZJLXJ1aHE0U2V5LWV6OVlSaFA2aXRpYVA4TTZQYkU?oc=5"
         }
       ],
       "matched_keywords": [

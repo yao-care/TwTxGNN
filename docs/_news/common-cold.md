@@ -3,7 +3,7 @@ layout: default
 title: "感冒（common cold） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "感冒（common cold） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "感冒（common cold） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒（common cold） 有什麼相關新聞？">
-<strong>感冒（common cold）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒（common cold）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [感冒好了咳不停別急著吃抗生素！醫：呼吸道還沒修好](https://news.google.com/rss/articles/CBMiU0FVX3lxTE96ZW85b3oteUc4YVF5al9SS1A2aGpMVTAwMURweVppbXRya2VicDVzanVjUkpteXRNS3pZVkRnMFhTSEY5S2NmWFUyUkhCUXU0cUNz?oc=5)
+
+2026-08-22
+
+來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE96ZW85b3oteUc4YVF5al9SS1A2aGpMVTAwMURweVppbXRya2VicDVzanVjUkpteXRNS3pZVkRnMFhTSEY5S2NmWFUyUkhCUXU0cUNz?oc=5)
+
+---
 
 ### [65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命](https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2b1EwX3VrU3lYZmpsdHgxTVRNaGFQU2VWLVVaajRRcDdyYjRBOWsxdTRsVzFkUzgwdkdxeWh5WkxvUW0tRTZ2WHdndzM?oc=5)
 
