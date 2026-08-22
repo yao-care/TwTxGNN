@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-22T22:11:47.581998+00:00",
-  "count": 22,
+  "fetched_at": "2026-08-22T23:11:54.994007+00:00",
+  "count": 24,
   "news": [
     {
       "id": "2d3e48b0491d",
@@ -48,6 +48,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QZXdFd21manlzaGVvQURGSFBlcFp1ZzRVUmJpYzV1M2NOWF9Wdm5CNFVHMnJveWFOcGF3VWJMSjBRWkZ5b0FQVU5EYlF0dm9zUUNBM3ZFelJBZGdCZ1VMSjZWck4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "990f498b8ae3",
+      "title": "怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重 - Yahoo新聞",
+      "published": "2026-08-22T04:59:04+00:00",
+      "summary": "怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重&nbsp;&nbsp;Yahoo新聞65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命&nbsp;&nbsp;三立新聞網SETN.com感冒別硬撐！腎友怕「吃藥傷腎」拒就醫 4天後腎功能惡化 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞重感冒硬撐不吃藥她4天後酸中毒了腎也衰竭- 健康&nbsp;&nbsp;中時新聞網女子感冒怕藥毒拒就醫 4天引發急性腎損傷&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQX2NMUU9RN3RlTjFkM0U1VWMtdlFJLTREVmZVZ0lZVjkzdFJrbTVwSzdmTmNMWVNQYm9odC14RzROX3EyOTZuSDlPY2pjTGsyRWNfemhxT0lsbXZSU01XSVE3WHQxVmdXdC1LdHhhN3RJVURVUTVHWWpFcnhkQ1FGX1I2X3JHTVZQTHFZWjc1a3k1QnZKTlBONURDZ2llcGphR2Jwck5teXYxeHZMZ3JWRVdYWF9oMklHenNtYjl3YlBFRnl2YnJkNC14YUE1bnBYZE1JTmlJSHBEVEtncno2ZThvbmJNenFFQmxBTnlhYzI5SHBmS29KQmk0SlNrQmRfZDVMeTI0RlpLZFVqRXhRYkUtZFIxckhLUzZwOERQYm5kdUV2NkRvd3BQSFQzVGE0dWY3YVpFSzlmWmNKNWVzbWU3WU5IVUpsX3BOYjdWcTR3UDY0NVJfWkR1TWZ3bjczVUFRYlZfNFl2TzdMWV9nUFJQWVZISzJxdFE5SnNHSnpLb2ZoS0FVUEVfeTA4VVVZT1k3eXdTTUUzYkNWVzFkeDB5ei14MUoyLTdnSWJVcnpmMGNNMEVMUThnMUFNWF9Zd2VYdHMtaW51QXpBVnU5VFB5alFZN2RlLWFiVER3VlRCZw?oc=5"
         }
       ]
     },
@@ -160,6 +172,18 @@
       ]
     },
     {
+      "id": "a4b970ff9b1a",
+      "title": "孩子過動症吃藥沒用？三個常見原因 - 大纪元",
+      "published": "2026-08-22T19:00:00+00:00",
+      "summary": "孩子過動症吃藥沒用？三個常見原因&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04QUM1N3p3TFdYd2tILTRXLTJtMkVVclJfMGRhZGJmbC1XcWpaS09uLTBJdm5nSkFiVTJIaDdsOW9rS3c5TUhEM1R2Qm1vRVhCYjlISkdVOU55dVRZUzdZ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "aff4b736e0a6",
       "title": "喝茶能護骨 咖啡別過量？十年研究揭關鍵 - 大纪元",
       "published": "2026-08-22T07:00:00+00:00",
@@ -208,18 +232,6 @@
       ]
     },
     {
-      "id": "b58d7fdff5d1",
-      "title": "老化不一定等於衰退 耶魯研究揭： 近半長者身體或認知功能可改善 - bastillepost.com",
-      "published": "2026-08-20T22:40:35+00:00",
-      "summary": "老化不一定等於衰退 耶魯研究揭： 近半長者身體或認知功能可改善&nbsp;&nbsp;bastillepost.com",
-      "sources": [
-        {
-          "name": "bastillepost.com",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOTHNvNW0zMDR5UmpqZUFzeXBpQlBDaGdBN29xSUZ5QlhvbThJU2tuUzBiYkY5NTl1elBBdlVleVdkdHdGM3RudWwtaHRZekxwaEdiOGFBNk5odE5rSGpmWUV6TzNlUjg2dzF0M1p6bzFBbkRuZWZkV3BQLUpTVW9TQlM5alhtNXNpRks0VTBsTGUtUm1CZmh2UzFSd3FIM3psRnNIOGNZV25UejNWSkI4TFZMU1NMeEdobmhVLWI1WEJweGVrRGtoVFVwZWhKZWdwY3lCc0Z6bDBtOS1pbTFpbmRVMjA3ZVBJWDg1RjRXT3JRLTNjN0t0Mm5xYk1GVnloVVVpdWFRQVZjb1ptdTRIbm9HR1NPWWhrcFlSSjRFVjQyMTZFRlZmdThybU1rTVJrZHRKd2lEZjFhM29TZFB1aXZWNkdvOVV6bmNQUW5fVHFuTURfSllTcTktR2tTQ1JtYkNVVUlDVk5fSFpsWXc0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2abbf88f0717",
       "title": "兒童健康｜13歲童日玩手機10小時確診兒童脂肪肝 醫教5方法改善 - 香港01",
       "published": "2026-08-21T02:00:09+00:00",
@@ -252,6 +264,18 @@
         {
           "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxNdEZvLTNBdHVDaWUzYmZGUDFiWDJVSnp6N1VZX0cxYW5neXBiSUhEWUJFcE05Rk1Gd0pKRUMzYk5PVUhCMjk3LXo5QzZPNUdRclZ3SFBBOU5PT3dId2FFR0ZkTWRwQjVZeXIweE90MmxhS3h5TDhKSkZBNTNHMnZCUnpwRWVHQnlJRWs1UnZ2Q2NFTUs0S1NTeXl2WnhNUlFHS3R0S0p5dnNpN01TU3UtX1NaaVB3ZW9Ud21jemZpTlIyUFJvNDhhNWtZUGRwYkFQWUJocUMxX3phNTJ0RkFoSDZ5djhkSGxTV2xGcWtvLUhmWlNzZGR5cm5hZFJCZlIwQTlBOUp0cjB6MWs5R3NLbGdqYk9WOFdFem9CQ1JTd2NpTzdOVkhfbDVzV1AtTUMxb1BKRDhKcEpncjctWWp6TWNtSkVhcGhzcnlUZnExaTdPTmtOVV9ZRkZUdkxGZTlQWmswdkVNeFNDc3J4anVCM3lhTEZsWUdfVGh6OGJlQUYxMDh5TjJrdU1CV1REQUpFSGNSSHpKNnJaR3VLQ1NrcTl0ZmcyMEQ0RENfOWQ3NjlmekhGNDhmVkZhblJDWkpCRkg0XzNUSk1FMEJZYnJhMHRxOHdsV0xTT1Fv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b58d7fdff5d1",
+      "title": "老化不一定等於衰退 耶魯研究揭： 近半長者身體或認知功能可改善 - bastillepost.com",
+      "published": "2026-08-20T22:40:35+00:00",
+      "summary": "老化不一定等於衰退 耶魯研究揭： 近半長者身體或認知功能可改善&nbsp;&nbsp;bastillepost.com",
+      "sources": [
+        {
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOTHNvNW0zMDR5UmpqZUFzeXBpQlBDaGdBN29xSUZ5QlhvbThJU2tuUzBiYkY5NTl1elBBdlVleVdkdHdGM3RudWwtaHRZekxwaEdiOGFBNk5odE5rSGpmWUV6TzNlUjg2dzF0M1p6bzFBbkRuZWZkV3BQLUpTVW9TQlM5alhtNXNpRks0VTBsTGUtUm1CZmh2UzFSd3FIM3psRnNIOGNZV25UejNWSkI4TFZMU1NMeEdobmhVLWI1WEJweGVrRGtoVFVwZWhKZWdwY3lCc0Z6bDBtOS1pbTFpbmRVMjA3ZVBJWDg1RjRXT3JRLTNjN0t0Mm5xYk1GVnloVVVpdWFRQVZjb1ptdTRIbm9HR1NPWWhrcFlSSjRFVjQyMTZFRlZmdThybU1rTVJrZHRKd2lEZjFhM29TZFB1aXZWNkdvOVV6bmNQUW5fVHFuTURfSllTcTktR2tTQ1JtYkNVVUlDVk5fSFpsWXc0?oc=5"
         }
       ]
     },

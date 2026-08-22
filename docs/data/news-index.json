@@ -1,7 +1,31 @@
 {
-  "generated": "2026-08-22T22:11:50.581780+00:00",
-  "count": 3,
+  "generated": "2026-08-22T23:11:58.739933+00:00",
+  "count": 4,
   "news": [
+    {
+      "id": "990f498b8ae3",
+      "title": "怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重",
+      "published": "2026-08-22T04:59:04+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQX2NMUU9RN3RlTjFkM0U1VWMtdlFJLTREVmZVZ0lZVjkzdFJrbTVwSzdmTmNMWVNQYm9odC14RzROX3EyOTZuSDlPY2pjTGsyRWNfemhxT0lsbXZSU01XSVE3WHQxVmdXdC1LdHhhN3RJVURVUTVHWWpFcnhkQ1FGX1I2X3JHTVZQTHFZWjc1a3k1QnZKTlBONURDZ2llcGphR2Jwck5teXYxeHZMZ3JWRVdYWF9oMklHenNtYjl3YlBFRnl2YnJkNC14YUE1bnBYZE1JTmlJSHBEVEtncno2ZThvbmJNenFFQmxBTnlhYzI5SHBmS29KQmk0SlNrQmRfZDVMeTI0RlpLZFVqRXhRYkUtZFIxckhLUzZwOERQYm5kdUV2NkRvd3BQSFQzVGE0dWY3YVpFSzlmWmNKNWVzbWU3WU5IVUpsX3BOYjdWcTR3UDY0NVJfWkR1TWZ3bjczVUFRYlZfNFl2TzdMWV9nUFJQWVZISzJxdFE5SnNHSnpLb2ZoS0FVUEVfeTA4VVVZT1k3eXdTTUUzYkNWVzFkeDB5ei14MUoyLTdnSWJVcnpmMGNNMEVMUThnMUFNWF9Zd2VYdHMtaW51QXpBVnU5VFB5alFZN2RlLWFiVER3VlRCZw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "9a9501fa3325",
       "title": "羅志祥66歲母親罹「阿茲海默症」…醫：1飲食法「逆轉腦齡7.5歲」，這些傷腦食物要少吃",
