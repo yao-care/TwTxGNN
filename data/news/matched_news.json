@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T19:16:08.794300+00:00",
+  "last_updated": "2026-08-22T20:12:20.777897+00:00",
   "total_count": 22,
   "matched_count": 3,
   "news": [
@@ -120,6 +120,31 @@
       ]
     },
     {
+      "id": "b086a27e1b95",
+      "title": "調整大腦免疫反應，找回阿茲海默症患者失去的睡眠 | 科技新報 - LINE TODAY",
+      "published": "2026-08-22T00:18:30+00:00",
+      "summary": "調整大腦免疫反應，找回阿茲海默症患者失去的睡眠 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85NXItS2xHWHBHZE5lLVdCV3QzYVFrbnFpSWQxNzFGWU5nUHk5VG5uOHp5TVdseEtLNkNKdF9hSUJaNWpoX1pVdEJBY3FzQVhPSmJPM3p3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "55197f52add4",
       "title": "疫苗不是打越多越好？專家揭新型疫苗原理，這2類人打活疫苗要小心 - PChome Online 新聞",
       "published": "2026-08-21T22:50:46+00:00",
@@ -146,44 +171,6 @@
       "matched_keywords": []
     },
     {
-      "id": "c9206438d285",
-      "title": "調整大腦免疫反應，找回阿茲海默症患者失去的睡眠 - TechNews 科技新報",
-      "published": "2026-08-21T16:31:31+00:00",
-      "summary": "調整大腦免疫反應，找回阿茲海默症患者失去的睡眠&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczIxX3dXdFFwLWIzSEdsRlZQUE9hZWpmbHdGNEJNNy1aTFRpYjdTSnNhNkdDaU1VOFdLUkUxY3dqSVA1ZVFuX28zRVN0N2NLN3FicnFHd0lfRFVYbjk5Q203M1NJR2VTdklBOVdnVzhtV1U4V2dYRkZSTU5ON1phbHVYSGIzUlg0WjB5ZnpoR3lQTEVGUm5lZk4yNnBjUE9zZlE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "79e1aaf3a8cb",
-      "title": "不只抗氧化發炎，大鼠實驗揭示薑黃素可阻止一型糖尿病患者血管惡化 | 科技新報 - LINE TODAY",
-      "published": "2026-08-21T15:26:24+00:00",
-      "summary": "不只抗氧化發炎，大鼠實驗揭示薑黃素可阻止一型糖尿病患者血管惡化 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9USmlvTDdZVjJua2s4SmJrSzJfTXJ0VWlPUHdEUkVTZGxVTW5QUFYyZGw1VmVVNFlxQ1RVSXQ4MG1lZ2tpYmtsNW5EOVJMTGdOcElLeW1n?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "4727c600faf7",
       "title": "4款港澳新藥同步落地 羅湖區人民醫院「港澳藥械通」再添新成員",
       "published": "2026-08-21T10:15:38+00:00",
@@ -192,6 +179,19 @@
         {
           "name": "香港商报",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQVmZORU43RklXODA3dnk4dURoZGlFWE5yUVBLdnFXMExDMGphWk1LaGZWMDNHS2k1dTMtSzZLTkw0YndSY1JWU1N4b09zUW51dlVpa2VQWnFlNkVJUk12R25WSU8wWkJYVFRaTkpEbk5PUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d8be452b7d5e",
+      "title": "不只抗氧化發炎，大鼠實驗揭示薑黃素可阻止一型糖尿病患者血管惡化 - TechNews 科技新報",
+      "published": "2026-08-21T07:32:05+00:00",
+      "summary": "不只抗氧化發炎，大鼠實驗揭示薑黃素可阻止一型糖尿病患者血管惡化&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaXE5ZXN4c2o4MklmTUhFNGp1QVRMRDMzdkpJTmU4d0NaTDJRWThCX2NOelNVQmpDZ2g0WEd0S0g4eEV5eWhDWUhMNDdFRUxCNTJhLVhtcjllcGlJVXVlSXgyamszMHhkNzFMaTctS3Y5NC1SZWpfNG13RHNZSmhzUGVDaUs5R0Z4cV9BSnM4UVZUbkRSdmQ5a09UQ1F0ZDVv?oc=5"
         }
       ],
       "matched_keywords": []

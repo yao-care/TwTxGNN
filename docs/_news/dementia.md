@@ -39,11 +39,11 @@ permalink: /news/dementia/
 
 ---
 
-### [調整大腦免疫反應，找回阿茲海默症患者失去的睡眠 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxQczIxX3dXdFFwLWIzSEdsRlZQUE9hZWpmbHdGNEJNNy1aTFRpYjdTSnNhNkdDaU1VOFdLUkUxY3dqSVA1ZVFuX28zRVN0N2NLN3FicnFHd0lfRFVYbjk5Q203M1NJR2VTdklBOVdnVzhtV1U4V2dYRkZSTU5ON1phbHVYSGIzUlg0WjB5ZnpoR3lQTEVGUm5lZk4yNnBjUE9zZlE?oc=5)
+### [調整大腦免疫反應，找回阿茲海默症患者失去的睡眠 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE85NXItS2xHWHBHZE5lLVdCV3QzYVFrbnFpSWQxNzFGWU5nUHk5VG5uOHp5TVdseEtLNkNKdF9hSUJaNWpoX1pVdEJBY3FzQVhPSmJPM3p3?oc=5)
 
-2026-08-21
+2026-08-22
 
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxQczIxX3dXdFFwLWIzSEdsRlZQUE9hZWpmbHdGNEJNNy1aTFRpYjdTSnNhNkdDaU1VOFdLUkUxY3dqSVA1ZVFuX28zRVN0N2NLN3FicnFHd0lfRFVYbjk5Q203M1NJR2VTdklBOVdnVzhtV1U4V2dYRkZSTU5ON1phbHVYSGIzUlg0WjB5ZnpoR3lQTEVGUm5lZk4yNnBjUE9zZlE?oc=5)
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE85NXItS2xHWHBHZE5lLVdCV3QzYVFrbnFpSWQxNzFGWU5nUHk5VG5uOHp5TVdseEtLNkNKdF9hSUJaNWpoX1pVdEJBY3FzQVhPSmJPM3p3?oc=5)
 
 ---
 
