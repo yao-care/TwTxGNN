@@ -1,17 +1,17 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-21T23:14:42.731396+00:00",
+  "fetched_at": "2026-08-22T00:41:54.756335+00:00",
   "count": 26,
   "news": [
     {
-      "id": "e66dcbe99965",
-      "title": "28歲女躺公用瑜伽墊「慘染HPV」 醫：病毒可活數小時 - Yahoo新聞",
-      "published": "2026-08-21T07:17:45+00:00",
-      "summary": "28歲女躺公用瑜伽墊「慘染HPV」 醫：病毒可活數小時&nbsp;&nbsp;Yahoo新聞公用瑜伽墊竟害28歲陸女「感染HPV」！醫：這病毒夏季可活數小時&nbsp;&nbsp;TVBS新聞網28歲女用公用瑜伽墊「感染HPV」 醫警告：夏季這病毒可活數小時&nbsp;&nbsp;facebook.com28歲女用公用瑜伽墊「感染HPV」 醫：夏季這病毒可活數小時&nbsp;&nbsp;蕃新聞",
+      "id": "c9206438d285",
+      "title": "調整大腦免疫反應，找回阿茲海默症患者失去的睡眠 - TechNews 科技新報",
+      "published": "2026-08-21T16:31:31+00:00",
+      "summary": "調整大腦免疫反應，找回阿茲海默症患者失去的睡眠&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxONElTZVBFUVdZNzdHOEIxWE5aSTRjODA5aXE0S2N2Y19zNHZrZU1vNHBFN2FnWEZQUnJqdGtKZ3FjNU1Yc0ZJSEN0YkxScERRbUg4VExOTVBMd2FveTFsemhkc0JVSnNxdjM5SmpRSXZralFaSmNCdDJsbC1UeHFXUlFHMzJfSk9FcXV3emxtTjZKV2pSejZxQ1Vob2twNVZlYWc1V1ZZLWk1dzlaYnRGQk5tRUVrMkhuc2txYl9xR1Jpa09jM2JfTGZxa1pzU3ZMNFg5bDJBMFZ0aGplVzZibV9SX01QUTRCSGNIN2pPZWF4MVVtaUFRTmlYcjJZVmNLVnYyYzEyT0dQeHdiOGk4cmRMZnFDYWh1a0RHLWJDendCYWNOcEw0Q2w2VmY0and3NnZxTkN3?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczIxX3dXdFFwLWIzSEdsRlZQUE9hZWpmbHdGNEJNNy1aTFRpYjdTSnNhNkdDaU1VOFdLUkUxY3dqSVA1ZVFuX28zRVN0N2NLN3FicnFHd0lfRFVYbjk5Q203M1NJR2VTdklBOVdnVzhtV1U4V2dYRkZSTU5ON1phbHVYSGIzUlg0WjB5ZnpoR3lQTEVGUm5lZk4yNnBjUE9zZlE?oc=5"
         }
       ]
     },
@@ -28,26 +28,26 @@
       ]
     },
     {
-      "id": "d8be452b7d5e",
-      "title": "不只抗氧化發炎，大鼠實驗揭示薑黃素可阻止一型糖尿病患者血管惡化 - TechNews 科技新報",
-      "published": "2026-08-21T07:32:05+00:00",
-      "summary": "不只抗氧化發炎，大鼠實驗揭示薑黃素可阻止一型糖尿病患者血管惡化&nbsp;&nbsp;TechNews 科技新報",
+      "id": "e66dcbe99965",
+      "title": "28歲女躺公用瑜伽墊「慘染HPV」 醫：病毒可活數小時 - Yahoo新聞",
+      "published": "2026-08-21T07:17:45+00:00",
+      "summary": "28歲女躺公用瑜伽墊「慘染HPV」 醫：病毒可活數小時&nbsp;&nbsp;Yahoo新聞公用瑜伽墊竟害28歲陸女「感染HPV」！醫：這病毒夏季可活數小時&nbsp;&nbsp;TVBS新聞網28歲女用公用瑜伽墊「感染HPV」 醫警告：夏季這病毒可活數小時&nbsp;&nbsp;facebook.com28歲女用公用瑜伽墊「感染HPV」 醫：夏季這病毒可活數小時&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaXE5ZXN4c2o4MklmTUhFNGp1QVRMRDMzdkpJTmU4d0NaTDJRWThCX2NOelNVQmpDZ2g0WEd0S0g4eEV5eWhDWUhMNDdFRUxCNTJhLVhtcjllcGlJVXVlSXgyamszMHhkNzFMaTctS3Y5NC1SZWpfNG13RHNZSmhzUGVDaUs5R0Z4cV9BSnM4UVZUbkRSdmQ5a09UQ1F0ZDVv?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxONElTZVBFUVdZNzdHOEIxWE5aSTRjODA5aXE0S2N2Y19zNHZrZU1vNHBFN2FnWEZQUnJqdGtKZ3FjNU1Yc0ZJSEN0YkxScERRbUg4VExOTVBMd2FveTFsemhkc0JVSnNxdjM5SmpRSXZralFaSmNCdDJsbC1UeHFXUlFHMzJfSk9FcXV3emxtTjZKV2pSejZxQ1Vob2twNVZlYWc1V1ZZLWk1dzlaYnRGQk5tRUVrMkhuc2txYl9xR1Jpa09jM2JfTGZxa1pzU3ZMNFg5bDJBMFZ0aGplVzZibV9SX01QUTRCSGNIN2pPZWF4MVVtaUFRTmlYcjJZVmNLVnYyYzEyT0dQeHdiOGk4cmRMZnFDYWh1a0RHLWJDendCYWNOcEw0Q2w2VmY0and3NnZxTkN3?oc=5"
         }
       ]
     },
     {
-      "id": "b0cefedd8c89",
-      "title": "65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命 - 三立新聞網SETN.com",
-      "published": "2026-08-21T01:01:05+00:00",
-      "summary": "65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命&nbsp;&nbsp;三立新聞網SETN.com感冒別硬撐！腎友怕「吃藥傷腎」拒就醫 4天後腎功能惡化 | CTWANT&nbsp;&nbsp;LINE TODAY她重感冒硬撐不吃藥 4天後「嚴重酸中毒」、還腎衰敗&nbsp;&nbsp;三立新聞網SETN.com重感冒硬撐不吃藥她4天後酸中毒了腎也衰竭- 健康&nbsp;&nbsp;中時新聞網女子感冒怕藥毒拒就醫 4天引發急性腎損傷&nbsp;&nbsp;中天新聞網",
+      "id": "79e1aaf3a8cb",
+      "title": "不只抗氧化發炎，大鼠實驗揭示薑黃素可阻止一型糖尿病患者血管惡化 | 科技新報 - LINE TODAY",
+      "published": "2026-08-21T16:13:46+00:00",
+      "summary": "不只抗氧化發炎，大鼠實驗揭示薑黃素可阻止一型糖尿病患者血管惡化 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2b1EwX3VrU3lYZmpsdHgxTVRNaGFQU2VWLVVaajRRcDdyYjRBOWsxdTRsVzFkUzgwdkdxeWh5WkxvUW0tRTZ2WHdndzM?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9USmlvTDdZVjJua2s4SmJrSzJfTXJ0VWlPUHdEUkVTZGxVTW5QUFYyZGw1VmVVNFlxQ1RVSXQ4MG1lZ2tpYmtsNW5EOVJMTGdOcElLeW1n?oc=5"
         }
       ]
     },
@@ -64,14 +64,26 @@
       ]
     },
     {
-      "id": "c003337d0110",
-      "title": "壓力大時更容易迷路？研究發現皮質醇會讓大腦導航系統失靈 | 科技新報 - LINE TODAY",
-      "published": "2026-08-21T08:53:20+00:00",
-      "summary": "壓力大時更容易迷路？研究發現皮質醇會讓大腦導航系統失靈 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "id": "b0cefedd8c89",
+      "title": "65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命 - 三立新聞網SETN.com",
+      "published": "2026-08-21T01:01:05+00:00",
+      "summary": "65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命&nbsp;&nbsp;三立新聞網SETN.com感冒別硬撐！腎友怕「吃藥傷腎」拒就醫 4天後腎功能惡化 | CTWANT&nbsp;&nbsp;LINE TODAY她重感冒硬撐不吃藥 4天後「嚴重酸中毒」、還腎衰敗&nbsp;&nbsp;三立新聞網SETN.com重感冒硬撐不吃藥她4天後酸中毒了腎也衰竭- 健康&nbsp;&nbsp;中時新聞網女子感冒怕藥毒拒就醫 4天引發急性腎損傷&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqcVhVOGR6ajBZWkdGZmZaUDhOSEtqVTQ2Z3ZKYVU2ZjNYZmVZRzFmMVljWkpJcnFfdXBhTGo0Zi1YU0NHbnJZR0dUTVRFM2pXdU1naTZn?oc=5"
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2b1EwX3VrU3lYZmpsdHgxTVRNaGFQU2VWLVVaajRRcDdyYjRBOWsxdTRsVzFkUzgwdkdxeWh5WkxvUW0tRTZ2WHdndzM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "523bf5538ce7",
+      "title": "壓力大時更容易迷路？研究發現皮質醇會讓大腦導航系統失靈 - TechNews 科技新報",
+      "published": "2026-08-21T00:16:51+00:00",
+      "summary": "壓力大時更容易迷路？研究發現皮質醇會讓大腦導航系統失靈&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQi10bGlBVVcweEpMN0hOeWl4eDlDdU9LaS1XSEtoZHJuR3JKVXQxNTRrdElScVFVOXl5NkFNbTExY0FjWXlRS1E5Vll2aE1GeUFMVjNWMnpNeTV0RENGaTJtVHF3c0VqUDhtWGFNa1ZlWTVCSWEwRkVhTXNzYWRMaGdCSV9aQktKXy15OS1WeHYxQ2VIYmo0?oc=5"
         }
       ]
     },
@@ -136,14 +148,26 @@
       ]
     },
     {
-      "id": "f016a51798ce",
-      "title": "早期肺癌手術切除不是治療終點 醫解析「術後輔助治療」重要性 - Yahoo新聞",
-      "published": "2026-08-20T01:14:47+00:00",
-      "summary": "早期肺癌手術切除不是治療終點 醫解析「術後輔助治療」重要性&nbsp;&nbsp;Yahoo新聞",
+      "id": "7a1fab216b78",
+      "title": "早期肺癌手術切除不是治療終點 醫解析「術後輔助治療」重要性 - 民視新聞網",
+      "published": "2026-08-20T01:27:17+00:00",
+      "summary": "早期肺癌手術切除不是治療終點 醫解析「術後輔助治療」重要性&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOQ0RoMG0ydzU5My11cFVnakR4ZjVneW5hdHc4UVZaS3Z6ME9VdW5zZmhqUXE3OUVhdHFUTXl6cFEyTXRJbTNrbTJ4amVkSVFQejBXM0syVWdTS3o3VHFFWFJOYVJvOE4ydnUxN2dlUkhrcXdLWUdsWlF1eUp4czJYV1Q3UWpjOGthQmsweXhNZ1d1NFFTRUNYeUJ0YU5MNUtDYmxJczZNeEVFWFJ4dTlzclFVaGxtZWNWbmo5R0RMVFppRVNJb1J6d0Q5Y0NpSmkyTi01N25HY2ZESE55cEc3NFZMTEVvV0xReHA5UjN5d1diS1ZxT2wyMGZ2SXdJS2NNWHRLWFJxNXZwcVRSblV0a1VrS0phNFhKLTAxRFRFNVE4MGc2dmFJczdna3ZHTi1hZmMtdl9KVmhYRVlyd0N1VmlkWFBVS0p6RDZpdUx5SDQ0VWVGUjFSdFMyclBHcGdhUndZSG90ZW9mN2JlRTFheFZJLXJ1aHE0U2V5LWV6OVlSaFA2aXRpYVA4TTZQYkU?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52MkJfOS1ZU0JPV2I4NmNHWFVudUxGVHVsS3JsV3NmRTdlb0YtZ3lsVjNYbmRsbHJMT2c1LVJ1ZHFDdXZNemxRTS1OSUFfYWRrT2c1dF9zSjBRa2U5MWlzYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5f06ee1ad1e7",
+      "title": "南山人壽：嬌花易折 55歲後女性骨折理賠件數是男性2倍以上 - 《現代保險》雜誌",
+      "published": "2026-08-20T18:26:37+00:00",
+      "summary": "南山人壽：嬌花易折 55歲後女性骨折理賠件數是男性2倍以上&nbsp;&nbsp;《現代保險》雜誌7旬嬤腰痠背痛暗藏骨質疏鬆危機！醫揭「這1檢查」重要性與日常防範&nbsp;&nbsp;健康醫療網日服5毫克類固醇小心骨折 規律運動與營養防骨質流失 - 社會新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞吃類固醇超過3個月 不分年齡都要防骨鬆&nbsp;&nbsp;蕃新聞類固醇吃超過3個月小心骨鬆！醫：5毫克以上要防骨折&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "《現代保險》雜誌",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2T3dDTlhEcDhERS1wa0JmV2ZVRjZ0Y2lwazREblRmZjJYR21zcnZSTkhpeEE5RXhIZkpFNzBEUG1lZ19qVXhVMnVrRFRHRjhaWVU4?oc=5"
         }
       ]
     },
@@ -168,18 +192,6 @@
         {
           "name": "peopo.org",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1NbkVmT3psaDQ0M0lqTExWLVRwdkNQbEJTRFBFX3c2U3RMSjBndklPTUJ2ZUdjM3JtbXhNQjhpb0pxMFBDWS1OZg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c9206438d285",
-      "title": "調整大腦免疫反應，找回阿茲海默症患者失去的睡眠 - TechNews 科技新報",
-      "published": "2026-08-21T16:31:31+00:00",
-      "summary": "調整大腦免疫反應，找回阿茲海默症患者失去的睡眠&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczIxX3dXdFFwLWIzSEdsRlZQUE9hZWpmbHdGNEJNNy1aTFRpYjdTSnNhNkdDaU1VOFdLUkUxY3dqSVA1ZVFuX28zRVN0N2NLN3FicnFHd0lfRFVYbjk5Q203M1NJR2VTdklBOVdnVzhtV1U4V2dYRkZSTU5ON1phbHVYSGIzUlg0WjB5ZnpoR3lQTEVGUm5lZk4yNnBjUE9zZlE?oc=5"
         }
       ]
     },
@@ -300,18 +312,6 @@
         {
           "name": "etnet 經濟通",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81UkNiQzMyTjRISlBHX1FUVHRYdkpjX3FiY014SmVNaWtiOWEzYk5mbENldWdmekUxeTJBcnZlRmxFcV94cWJnaGxiVnRxZ1dCRVU3d3VlZF8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f8cdef407403",
-      "title": "25歲身體80歲外貌？比利時網紅患罕有「早老症」日前離世| 超低能．勁搞笑 - FanPiece",
-      "published": "2026-08-20T02:21:57+00:00",
-      "summary": "25歲身體80歲外貌？比利時網紅患罕有「早老症」日前離世| 超低能．勁搞笑&nbsp;&nbsp;FanPiece",
-      "sources": [
-        {
-          "name": "FanPiece",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxObU94WHMtSThYN2NxU0R3X0dYWXBtU3ljeGtpd0Z5RUZxS0U0QjJVMUw1c1hjX0VwUm1veUprMzR3WGxBR1RUQUVjekZub29VS2RFV1Y0VnNEVVM5NWxDTG0ybXplNGtmZ29wY0ZDWHptX3NCdjZKOGljZ0RSRm5DRFcwTzdmcF9acm1LaW5wdkYxVE5NNGloTFR6XzcxaGxqaXFCV3p0cTc0eWhxTFBmZW1zRDM2NEdlNFdlV2w0TUlZNVl0bnBBc0FyX2xBX0toTVk4TktCLW9IdG5GdlJXYkRqWFJsRHVIRHdZZmpjaThnTTlEcDdrYV9SWG0yV2lFalFjN1V2cjEyd19IMnZGRDJ5QXh2dGNEWVNuWjFuaXVzOGNHMWFWRERZZzRnNTExeUdMM2VqcVVkWTRMWjNOVG11b3hCMUxxZklxMW55RFJ3Q0xIUXAxQ19YS09ZZm5sV3BleXRn?oc=5"
         }
       ]
     }
