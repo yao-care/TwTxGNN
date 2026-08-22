@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [漱口水能驗出大腸癌？研究發現口腔菌藏關鍵訊號](https://news.google.com/rss/articles/CBMiZEFVX3lxTE80NnB2Mnh4WnJpc1NNUC0tcFljckJQenpHV0k0aHpXbEMteG5XNVFfMEg3ekhYamtQMHV6M215cE1CdFdoUGZGc2hCTi1LNTVpNHBjMTRyaXN3WElSWGYya0l0ZEU?oc=5)
+
+2026-08-22 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE80NnB2Mnh4WnJpc1NNUC0tcFljckJQenpHV0k0aHpXbEMteG5XNVFfMEg3ekhYamtQMHV6M215cE1CdFdoUGZGc2hCTi1LNTVpNHBjMTRyaXN3WElSWGYya0l0ZEU?oc=5)
+
+---
 
 ### [寵物壁虎 竟可能成為破解癌症的重要幫手](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VdUFHZG00akd3SmplWUlja2R6cllpOUlCOGNSa2I0alNlWGZTVVBmSlczYlNuWkV6Q1lzWmpuNXRwNkU2Q21uSlh6el9XNzdqZ291a0lkTHBySld5dXfSAWJBVV95cUxNRWNQVGYwTXo4TE83TmFPdHhncnhYemN3Y3dkQmpDXzBDbTZ5RXV3ME44QmhWR19La2o0ajlLTnFPbVFZWks2TVpkVDllcE0yWXNSYXkxNHFSSmNPeXB1RnhSQQ?oc=5)
 

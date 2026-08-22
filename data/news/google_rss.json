@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-22T07:23:33.561049+00:00",
+  "fetched_at": "2026-08-22T08:17:59.725125+00:00",
   "count": 23,
   "news": [
     {
@@ -12,6 +12,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QZXdFd21manlzaGVvQURGSFBlcFp1ZzRVUmJpYzV1M2NOWF9Wdm5CNFVHMnJveWFOcGF3VWJMSjBRWkZ5b0FQVU5EYlF0dm9zUUNBM3ZFelJBZGdCZ1VMSjZWck4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a866609e4be1",
+      "title": "漱口水能驗出大腸癌？研究發現口腔菌藏關鍵訊號 - 自由健康網",
+      "published": "2026-08-22T08:00:00+00:00",
+      "summary": "漱口水能驗出大腸癌？研究發現口腔菌藏關鍵訊號&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80NnB2Mnh4WnJpc1NNUC0tcFljckJQenpHV0k0aHpXbEMteG5XNVFfMEg3ekhYamtQMHV6M215cE1CdFdoUGZGc2hCTi1LNTVpNHBjMTRyaXN3WElSWGYya0l0ZEU?oc=5"
         }
       ]
     },
@@ -172,13 +184,13 @@
       ]
     },
     {
-      "id": "49bd00942441",
-      "title": "老化不一定等於衰退 耶魯研究揭： 近半長者身體或認知功能可改善 - 巴士的報",
+      "id": "b58d7fdff5d1",
+      "title": "老化不一定等於衰退 耶魯研究揭： 近半長者身體或認知功能可改善 - bastillepost.com",
       "published": "2026-08-20T22:40:35+00:00",
-      "summary": "老化不一定等於衰退 耶魯研究揭： 近半長者身體或認知功能可改善&nbsp;&nbsp;巴士的報",
+      "summary": "老化不一定等於衰退 耶魯研究揭： 近半長者身體或認知功能可改善&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOTHNvNW0zMDR5UmpqZUFzeXBpQlBDaGdBN29xSUZ5QlhvbThJU2tuUzBiYkY5NTl1elBBdlVleVdkdHdGM3RudWwtaHRZekxwaEdiOGFBNk5odE5rSGpmWUV6TzNlUjg2dzF0M1p6bzFBbkRuZWZkV3BQLUpTVW9TQlM5alhtNXNpRks0VTBsTGUtUm1CZmh2UzFSd3FIM3psRnNIOGNZV25UejNWSkI4TFZMU1NMeEdobmhVLWI1WEJweGVrRGtoVFVwZWhKZWdwY3lCc0Z6bDBtOS1pbTFpbmRVMjA3ZVBJWDg1RjRXT3JRLTNjN0t0Mm5xYk1GVnloVVVpdWFRQVZjb1ptdTRIbm9HR1NPWWhrcFlSSjRFVjQyMTZFRlZmdThybU1rTVJrZHRKd2lEZjFhM29TZFB1aXZWNkdvOVV6bmNQUW5fVHFuTURfSllTcTktR2tTQ1JtYkNVVUlDVk5fSFpsWXc0?oc=5"
         }
       ]
@@ -252,18 +264,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPQXlnOUFLenBZODVNVjhSc0FHVGg1cllCYXhKZHhXcmlrZXJfWDlUUGEtVGdlSEIyRTZaUl9Qa0dhOEpqRzRWSWVoV3h4dlZlLUFKeTdDX3RLZmZVSHJoSVU0eHBEYjNVWjE5anh6T1oxSVRLdWdHOUNmWlB5MnFzY3puZDVqeXF5ZU9qMTZlZkJSNHNsNXNiMHdueHVqU1FwZm10dHFfTS1Sek9lRWlNTF9QQXY1LWpfUDQ4SXQyaGZpOTlGTEdVeWcyUnRyNUZSSXRBanJwbzBSSzFtMnBjbUJGSlJWMnRyUTk3cVBvWDZKcjY0WDVBVU9QOTZNekE1RDMxUVF6M0RERmozYUJyelY3VXZ3ZmpsS0w4ZWRPRW9lODJlMTA4OFNfdDdZVngtTy1FdllrREJBd19mNF9ON1RMcGRhZ1F4LTh2emROWnRjVG45d1FQeWNDVEN0WDd4NS00dnBOSDFGVWJ1WDBDVFhXWTJfelpRSks5OENTRHRoSld2THNXQnI2WnhpVUViNE90aURCbEZ5U0xPLW8xaGh3aWN3R01PZlRHamJVZFg5cW1hMVlGMC1wSkJMbjRGUzZILTZncWVucHlUbmN6TmF2aUpDRURmR2lMSTdjUkUxeTll?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3cabeb4d030d",
-      "title": "美國密歇根5年來首例人感染東部馬腦炎 死亡率30% - 大紀元時報 香港",
-      "published": "2026-08-20T07:33:24+00:00",
-      "summary": "美國密歇根5年來首例人感染東部馬腦炎 死亡率30%&nbsp;&nbsp;大紀元時報 香港",
-      "sources": [
-        {
-          "name": "大紀元時報 香港",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JWXhHcEJyNVFNUEljWjFpN2xndDU4bUdnYUs4WXhGbXYwQ0k1WGNfTzljbnp1QUFyZTVSN2FaYzIxdzNBSlRONC1PWjh6c0k1TjVQOFU2M3FKX1YtckZZ?oc=5"
         }
       ]
     },

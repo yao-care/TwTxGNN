@@ -1,7 +1,54 @@
 {
-  "generated": "2026-08-22T07:23:37.758676+00:00",
-  "count": 5,
+  "generated": "2026-08-22T08:18:04.945169+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "a866609e4be1",
+      "title": "漱口水能驗出大腸癌？研究發現口腔菌藏關鍵訊號",
+      "published": "2026-08-22T08:00:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80NnB2Mnh4WnJpc1NNUC0tcFljckJQenpHV0k0aHpXbEMteG5XNVFfMEg3ekhYamtQMHV6M215cE1CdFdoUGZGc2hCTi1LNTVpNHBjMTRyaXN3WElSWGYya0l0ZEU?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "9a9501fa3325",
       "title": "羅志祥66歲母親罹「阿茲海默症」…醫：1飲食法「逆轉腦齡7.5歲」，這些傷腦食物要少吃",
