@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-22T08:17:59.725125+00:00",
+  "fetched_at": "2026-08-22T09:18:03.223492+00:00",
   "count": 23,
   "news": [
-    {
-      "id": "b8a0b7806269",
-      "title": "健康網》膝關節退化新救星！研究揭每天補1纖維減痛、握力增 - 自由健康網",
-      "published": "2026-08-22T02:14:00+00:00",
-      "summary": "健康網》膝關節退化新救星！研究揭每天補1纖維減痛、握力增&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QZXdFd21manlzaGVvQURGSFBlcFp1ZzRVUmJpYzV1M2NOWF9Wdm5CNFVHMnJveWFOcGF3VWJMSjBRWkZ5b0FQVU5EYlF0dm9zUUNBM3ZFelJBZGdCZ1VMSjZWck4?oc=5"
-        }
-      ]
-    },
     {
       "id": "a866609e4be1",
       "title": "漱口水能驗出大腸癌？研究發現口腔菌藏關鍵訊號 - 自由健康網",
@@ -24,6 +12,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80NnB2Mnh4WnJpc1NNUC0tcFljckJQenpHV0k0aHpXbEMteG5XNVFfMEg3ekhYamtQMHV6M215cE1CdFdoUGZGc2hCTi1LNTVpNHBjMTRyaXN3WElSWGYya0l0ZEU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b8a0b7806269",
+      "title": "健康網》膝關節退化新救星！研究揭每天補1纖維減痛、握力增 - 自由健康網",
+      "published": "2026-08-22T02:14:00+00:00",
+      "summary": "健康網》膝關節退化新救星！研究揭每天補1纖維減痛、握力增&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QZXdFd21manlzaGVvQURGSFBlcFp1ZzRVUmJpYzV1M2NOWF9Wdm5CNFVHMnJveWFOcGF3VWJMSjBRWkZ5b0FQVU5EYlF0dm9zUUNBM3ZFelJBZGdCZ1VMSjZWck4?oc=5"
         }
       ]
     },
@@ -40,14 +40,26 @@
       ]
     },
     {
-      "id": "067ea262077e",
-      "title": "感冒別硬撐！腎友怕「吃藥傷腎」拒就醫 4天後腎功能惡化 - Yahoo新聞",
-      "published": "2026-08-21T07:15:35+00:00",
-      "summary": "感冒別硬撐！腎友怕「吃藥傷腎」拒就醫 4天後腎功能惡化&nbsp;&nbsp;Yahoo新聞長輩怕吃西藥傷身體「隨機挑幾顆吃」 醫揭5大錯誤迷思恐走向洗腎&nbsp;&nbsp;PChome Online 新聞65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命&nbsp;&nbsp;三立新聞網SETN.com重感冒硬撐不吃藥她4天後酸中毒了腎也衰竭- 健康&nbsp;&nbsp;中時新聞網女子感冒怕藥毒拒就醫 4天引發急性腎損傷&nbsp;&nbsp;中天新聞網",
+      "id": "f047e725f8b1",
+      "title": "感冒別硬撐！腎友怕「吃藥傷腎」拒就醫 4天後腎功能惡化 - 健康新聞 - PChome Online 新聞 - PChome Online 新聞",
+      "published": "2026-08-21T07:16:22+00:00",
+      "summary": "感冒別硬撐！腎友怕「吃藥傷腎」拒就醫 4天後腎功能惡化 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重&nbsp;&nbsp;Yahoo新聞65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命&nbsp;&nbsp;三立新聞網SETN.com重感冒硬撐不吃藥她4天後酸中毒了腎也衰竭- 健康&nbsp;&nbsp;中時新聞網女子感冒怕藥毒拒就醫 4天引發急性腎損傷&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdnZ1S3BSaVA2RklpZXhBZ09LV2FxNHV3LUE4Ql9Gc25Xd1Vxc19ZeFZtYXEtOGdqcjFlaGhMTzNFLVBXczVQeTlpZ3pfWlVsNzdaamVNUkk1c2h1TF9pamw3OU1KNFRJVDJrWDc3UVJXVFlQZXZ0NEJVNV9aTVpkOXJlYTBsSnJEVzE4eEVR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e66dcbe99965",
+      "title": "28歲女躺公用瑜伽墊「慘染HPV」 醫：病毒可活數小時 - Yahoo新聞",
+      "published": "2026-08-21T07:17:45+00:00",
+      "summary": "28歲女躺公用瑜伽墊「慘染HPV」 醫：病毒可活數小時&nbsp;&nbsp;Yahoo新聞公用瑜伽墊竟害28歲陸女「感染HPV」！醫：這病毒夏季可活數小時&nbsp;&nbsp;TVBS新聞網28歲女用公用瑜伽墊「感染HPV」 醫警告：夏季這病毒可活數小時&nbsp;&nbsp;facebook.com28歲女用公用瑜伽墊「感染HPV」 醫：夏季這病毒可活數小時&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPNWs4UUJfSDJhZ1hjWVJDWmM3M2FQM1RDS00xNkoxN1BLSTNUdFQxSXZkSkd3TDNmMXRBVUR0VXZHU1dFcUFxLWJ4aE9yRld5UHVCWlV6TGNpR2VlSUxmYTBVNHh4THFUdnM3SWh3eWNoZG1jbGZweWVoallDcTJDcWoyb1JJcjVSMll0TDdybzF5alNmTmhRcXRUckJra2x6dWZhYmJGVFJTanR3MmFnVUpwZjNLUWJuNjdUWXJSQ2RuU0NGMTIxN3RmbzhNNDhWY0hvQWpyOEpKVFF4a2NmSmNSX3JNLTlpblZPcXZGZ05RUHZBT3pkVjFRelZMSjdDaUlnMFBxd0g4UHFabFYwUlVxUnhCeFNKZ0N0QkJNT05rZ0ltU0JwNW1VejktQWMtVG5DcnM1WXBJaWdZTTY3cHhuQ2VFcHAtMEFoMGJJbnpIM2tuWEFIZnUxdFRwd0tGNlE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxONElTZVBFUVdZNzdHOEIxWE5aSTRjODA5aXE0S2N2Y19zNHZrZU1vNHBFN2FnWEZQUnJqdGtKZ3FjNU1Yc0ZJSEN0YkxScERRbUg4VExOTVBMd2FveTFsemhkc0JVSnNxdjM5SmpRSXZralFaSmNCdDJsbC1UeHFXUlFHMzJfSk9FcXV3emxtTjZKV2pSejZxQ1Vob2twNVZlYWc1V1ZZLWk1dzlaYnRGQk5tRUVrMkhuc2txYl9xR1Jpa09jM2JfTGZxa1pzU3ZMNFg5bDJBMFZ0aGplVzZibV9SX01QUTRCSGNIN2pPZWF4MVVtaUFRTmlYcjJZVmNLVnYyYzEyT0dQeHdiOGk4cmRMZnFDYWh1a0RHLWJDendCYWNOcEw0Q2w2VmY0and3NnZxTkN3?oc=5"
         }
       ]
     },
@@ -76,18 +88,6 @@
       ]
     },
     {
-      "id": "786f05c411f5",
-      "title": "28歲女用公用瑜伽墊「感染HPV」 醫：夏季這病毒可活數小時 - winnews.com.tw",
-      "published": "2026-08-21T10:02:00+00:00",
-      "summary": "28歲女用公用瑜伽墊「感染HPV」 醫：夏季這病毒可活數小時&nbsp;&nbsp;winnews.com.tw前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "winnews.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RVDVrbHdDTFc1VHAxZ25fMm5YYnJ3aFc0REljdXJ2R1RabFBFQnNkRGNvYkYtS2tRUXpjTFdMRG9MMThWYmRheGJB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c003337d0110",
       "title": "壓力大時更容易迷路？研究發現皮質醇會讓大腦導航系統失靈 | 科技新報 - LINE TODAY",
       "published": "2026-08-21T08:53:20+00:00",
@@ -100,18 +100,6 @@
       ]
     },
     {
-      "id": "9a9501fa3325",
-      "title": "羅志祥66歲母親罹「阿茲海默症」…醫：1飲食法「逆轉腦齡7.5歲」，這些傷腦食物要少吃 - Yahoo新聞",
-      "published": "2026-08-22T01:13:28+00:00",
-      "summary": "羅志祥66歲母親罹「阿茲海默症」…醫：1飲食法「逆轉腦齡7.5歲」，這些傷腦食物要少吃&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOYUh6d0pCeDlVRXZFbWhtX1VXeEhEN3RqZXNaUlRyclM2a3p4S1l0U2l1M1J2WU42WmtmVkpTQ0xITGdSbE1xYlR0ak9NOFZ0dGNveHdLZ19PMFBITlE3QWRiY3l1SGlYd1pCZW5VRlpVSTc0MHNJSVM5Z2pkOXc1X2QxTDNxVFhkZTJaemE4aUtua3dMbGlSeVh1NmZiaEFBZE5VWUg5U21uano3Ym94VFZ2NTg1X2l4YVItZEZsYnRuUmpsb0ROZTEySDQtX3lOSGNpVWVLek9HWHQxWXRvbGRzVElUU0RDQnNNcmNHa2tfc3hQcGU2VnZSZzlKOXdyWUdOOTUtSWZtTXc5UUFtZzRyTE8xeFU2T0FncjhjOUV0dEZweldxS01wVVFLZUxCczlIaFE4Sm14aXZNVGRrODBKaXBra0lMTFRsbTRn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "36c7774f5e86",
       "title": "總是焦慮、分心？揭開脊椎與情緒的神秘連結- 書房 - 工商時報",
       "published": "2026-08-20T11:13:00+00:00",
@@ -120,6 +108,18 @@
         {
           "name": "工商時報",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNSXROQ1dxdmxLbFU4U1AzanFoTHN3RHZzRXJ3Y1piQXZEN012bjlxV0JIZ2t2Tm1EaXdGMWc5dTNvc0tKZXBtMFNvLW44V2hUVmtnNEhWbVpkU3pqeXVv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9a9501fa3325",
+      "title": "羅志祥66歲母親罹「阿茲海默症」…醫：1飲食法「逆轉腦齡7.5歲」，這些傷腦食物要少吃 - Yahoo新聞",
+      "published": "2026-08-22T01:13:28+00:00",
+      "summary": "羅志祥66歲母親罹「阿茲海默症」…醫：1飲食法「逆轉腦齡7.5歲」，這些傷腦食物要少吃&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOYUh6d0pCeDlVRXZFbWhtX1VXeEhEN3RqZXNaUlRyclM2a3p4S1l0U2l1M1J2WU42WmtmVkpTQ0xITGdSbE1xYlR0ak9NOFZ0dGNveHdLZ19PMFBITlE3QWRiY3l1SGlYd1pCZW5VRlpVSTc0MHNJSVM5Z2pkOXc1X2QxTDNxVFhkZTJaemE4aUtua3dMbGlSeVh1NmZiaEFBZE5VWUg5U21uano3Ym94VFZ2NTg1X2l4YVItZEZsYnRuUmpsb0ROZTEySDQtX3lOSGNpVWVLek9HWHQxWXRvbGRzVElUU0RDQnNNcmNHa2tfc3hQcGU2VnZSZzlKOXdyWUdOOTUtSWZtTXc5UUFtZzRyTE8xeFU2T0FncjhjOUV0dEZweldxS01wVVFLZUxCczlIaFE4Sm14aXZNVGRrODBKaXBra0lMTFRsbTRn?oc=5"
         }
       ]
     },
@@ -172,14 +172,14 @@
       ]
     },
     {
-      "id": "4f6a64fad04f",
-      "title": "疫苗不是打越多越好？專家揭新型疫苗原理，這2類人打活疫苗要小心 - Yahoo新聞",
+      "id": "55197f52add4",
+      "title": "疫苗不是打越多越好？專家揭新型疫苗原理，這2類人打活疫苗要小心 - PChome Online 新聞",
       "published": "2026-08-21T22:50:46+00:00",
-      "summary": "疫苗不是打越多越好？專家揭新型疫苗原理，這2類人打活疫苗要小心&nbsp;&nbsp;Yahoo新聞",
+      "summary": "疫苗不是打越多越好？專家揭新型疫苗原理，這2類人打活疫苗要小心&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPRG55LVBqbHpCSFNuRnZwVExxQ0NTTVhMZEU4M1R3RlRFaHdsblZtZy02bmdPRExaX0R3VDA5RlNLcm5Vb1AxM21Ccjk4aFFVZHd3NE4zWXZXekxxS1kxUmc1a2xKTml5bFQ2Vy13UkdWRWtKZDdpcTVERUx5a0tXZ2xaU3VlaDRYc0lIMzBUeVZVQnF0d2FzUUpqQUFZMGFBbEtvbkJKaEVveDZhYU5waUQ4ODlBY1dyZFVIUDVHTW1iRnVydDBiQ2lUS0pMQzhzSGhFMTlkS0ZFQTg3YkUyTmlJbWJqWHRrVkh1Y0UzY1JEd1VKN202NUphazBIX2RDVGhwQWhBT3BYZUFaSkpSb0pfSVZaSHJyOTZPLTNhaldfaklQN1RBR1l6VWdpODB4ay1PR2J0MUQtNEpBc0dKU0RBdUFsU1Y1NGJXV01KTXl1bUpoOTZUTGFoMDZhTUI5ajlDTXZmLVltTEJ2ZWhUd1h6QTlVeVlwenh0WDhxbFprRXVsOUk5djAxYUJOeXVKU1MzOXVyX0ZxRWtuYWhuc3lQVHVPdTQ?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzZwbWxMVGtrbEhOYnVMOHRIUHhfZjdzVDFseV9ucGcyUjI1bGE3YzVYTTQ2TXI5LUVBcVFmb1QyOHJDMXoxTHlXLS1QbTVSWk50eDd6Yjh3QjF4M3ZnM0JYMWFlOWJ5TWkxZ3NDdU9XamxnWTRaZklfb0E5RGEyVnFOeldhbG1YQVByckI4dTVWQQ?oc=5"
         }
       ]
     },
@@ -256,18 +256,6 @@
       ]
     },
     {
-      "id": "800cc4878527",
-      "title": "麻疹｜秀茂坪35歲女確診麻疹 近200人列密切接觸者【附麻疹病徵及預防方法】 - 香港經濟日報HKET",
-      "published": "2026-08-20T08:30:02+00:00",
-      "summary": "麻疹｜秀茂坪35歲女確診麻疹 近200人列密切接觸者【附麻疹病徵及預防方法】&nbsp;&nbsp;香港經濟日報HKET麻疹｜秀茂坪35歲女確診麻疹 傅染力極高 即睇典型症狀與自保方法&nbsp;&nbsp;香港01女子感染麻疹198人列密切接觸者 患者非本港出生目前情況穩定&nbsp;&nbsp;香港電台新聞網傳染病警戒｜香港爆麻疹！曾赴聯合醫院 近200人列密切接觸 即睇病徵&nbsp;&nbsp;UHK 港生活香港錄今年第9宗麻疹個案 198人列密切接觸者&nbsp;&nbsp;hkcna.hk",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPQXlnOUFLenBZODVNVjhSc0FHVGg1cllCYXhKZHhXcmlrZXJfWDlUUGEtVGdlSEIyRTZaUl9Qa0dhOEpqRzRWSWVoV3h4dlZlLUFKeTdDX3RLZmZVSHJoSVU0eHBEYjNVWjE5anh6T1oxSVRLdWdHOUNmWlB5MnFzY3puZDVqeXF5ZU9qMTZlZkJSNHNsNXNiMHdueHVqU1FwZm10dHFfTS1Sek9lRWlNTF9QQXY1LWpfUDQ4SXQyaGZpOTlGTEdVeWcyUnRyNUZSSXRBanJwbzBSSzFtMnBjbUJGSlJWMnRyUTk3cVBvWDZKcjY0WDVBVU9QOTZNekE1RDMxUVF6M0RERmozYUJyelY3VXZ3ZmpsS0w4ZWRPRW9lODJlMTA4OFNfdDdZVngtTy1FdllrREJBd19mNF9ON1RMcGRhZ1F4LTh2emROWnRjVG45d1FQeWNDVEN0WDd4NS00dnBOSDFGVWJ1WDBDVFhXWTJfelpRSks5OENTRHRoSld2THNXQnI2WnhpVUViNE90aURCbEZ5U0xPLW8xaGh3aWN3R01PZlRHamJVZFg5cW1hMVlGMC1wSkJMbjRGUzZILTZncWVucHlUbmN6TmF2aUpDRURmR2lMSTdjUkUxeTll?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b77236423ea1",
       "title": "名人健康｜孫慧雪偏頭痛困擾30年痛至作嘔仍堅持工作醫生揭非一般頭痛| 健康解「迷」 - 醫學通識- 健康好人生 - etnet 經濟通",
       "published": "2026-08-21T05:13:20+00:00",
@@ -276,6 +264,18 @@
         {
           "name": "etnet 經濟通",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81UkNiQzMyTjRISlBHX1FUVHRYdkpjX3FiY014SmVNaWtiOWEzYk5mbENldWdmekUxeTJBcnZlRmxFcV94cWJnaGxiVnRxZ1dCRVU3d3VlZF8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "32851e35faec",
+      "title": "麻疹｜秀茂坪35歲女確診麻疹 近200人列密切接觸者【附麻疹病徵及預防方法】 - 香港經濟日報HKET",
+      "published": "2026-08-20T08:30:02+00:00",
+      "summary": "麻疹｜秀茂坪35歲女確診麻疹 近200人列密切接觸者【附麻疹病徵及預防方法】&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZdjl5Y1B1ajV5dG5QSEl1clUzU1NVTXY0RkFiOEhUNXRoLVAzUFlUbDI2ZWJVV3RFVHhfZHdQNTNYRF8zVzlibTd5aHhzdHZI?oc=5"
         }
       ]
     }
