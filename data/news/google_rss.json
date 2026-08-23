@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-23T18:15:39.405463+00:00",
+  "fetched_at": "2026-08-23T19:15:29.142761+00:00",
   "count": 22,
   "news": [
     {
@@ -220,18 +220,6 @@
       ]
     },
     {
-      "id": "aff4b736e0a6",
-      "title": "喝茶能護骨 咖啡別過量？十年研究揭關鍵 - 大纪元",
-      "published": "2026-08-22T07:00:00+00:00",
-      "summary": "喝茶能護骨 咖啡別過量？十年研究揭關鍵&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RTDVyaFhlVGxFYzlGZVUtSmZ4MmFsSElhODFBWXRWRGM0aW5QTEphSkpSWE10Vm5jVExXMTVwM21scC1xdUJmR19nbWVWeHRtR1JNZ0h2V2NjLTYzaW94QtIBZkFVX3lxTE4xNUFOd292SGJMOUhSeDFIWlZSQXhwMjd5aVVLbFJsTVFmdVhRSlM4RnZHUkYyM3JLM0JtVFd0WVpKelVZbV9hODJVUGZTTDJ3dnlZc2trYlNTd0ttRm1mN2xDMG9Qdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f0b254693163",
       "title": "聞玫瑰精油可防腦退化、穩定情緒？ 日本研究：嗅覺刺激助醒腦 晚上做多一步更有效 - singtao.ca",
       "published": "2026-08-22T12:45:00+00:00",
@@ -240,6 +228,18 @@
         {
           "name": "singtao.ca",
           "link": "https://news.google.com/rss/articles/CBMimwRBVV95cUxPT05nTm1hMF9YMlFPaExGVnVHa2preUpwX01BYXBOWmhCb0VCdmc0cFN3QU50dURJNjdfQk5xdUVGdEJCeUZockk4VWlpYnJfX3JXOG45ZnItMjhqYmpkTHVnZ3dsdjJjanhuWFMyYVJ0ZDBiWEluZy1wYW40X2V0bV93dnRRZnNpS05EeGZKOGZRNUxfVnF6TXpkcVB6bGMtdURmdF9JQ3ZhTGFyZHcwekNHMURVV2RsS09XYzJQVkQ5dVNDM01HMFN2VkI2Ukc4UmNvLXNkYWlBNUx0UjMtU1c1bjNWR0ZYeWFMTGEyd3dZMlVIOHh2YzE1RHV5YVlDZGdiMGRvaGNGd05VTURXTDljbERTUXFfTTJualJNaHdBald2RktrSGRQOTZNQ1J3bTJua0dxVVYwM3hQbjJpRHBqV1YtWVhURlhHZTRvNGJOYnp4Qm5DV3ZsOVlsQkphVUh5anQySnJ6TkZsQ0dLVDFJekVOck1WN2tzcTAzTDkyT3RCaGVsSzZqcFdEa0lxR2ZaNGRrUDRUUnMtaGg3NXlCdktYdmZYUlJNRUhyWUV5WmZsTlhfT0pQYm1XLVBfRi1lc0k5N2JFdVJQQi1ucnlKcmJDRmktM291YTlvSzZmaGVRVVF1ZTF3M1I1VExkbDFBRzNnUmhXR19hakpWbVVqd0gxdjIxZzA1b1hHendNckdXNkF5YzFld9IBjwFBVV95cUxPbl9NY3cwS0N0RGV5ZDFwdEtPR3poeHliR1pnOFJfLU11LURJMVpsUnRoNjBoblRZNWpBZl96MnJ2WWhIa1M5UkR3MUxhUTBKY1A5cl84RXZxMF9od3pfV05Dd1VJeVk3NVZYaF83NHNQbGd1YjRpWm9hbVBBSFRMTkxBS1hmU0dmeGJxYmt2aw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aff4b736e0a6",
+      "title": "喝茶能護骨 咖啡別過量？十年研究揭關鍵 - 大纪元",
+      "published": "2026-08-22T07:00:00+00:00",
+      "summary": "喝茶能護骨 咖啡別過量？十年研究揭關鍵&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RTDVyaFhlVGxFYzlGZVUtSmZ4MmFsSElhODFBWXRWRGM0aW5QTEphSkpSWE10Vm5jVExXMTVwM21scC1xdUJmR19nbWVWeHRtR1JNZ0h2V2NjLTYzaW94QtIBZkFVX3lxTE4xNUFOd292SGJMOUhSeDFIWlZSQXhwMjd5aVVLbFJsTVFmdVhRSlM4RnZHUkYyM3JLM0JtVFd0WVpKelVZbV9hODJVUGZTTDJ3dnlZc2trYlNTd0ttRm1mN2xDMG9Qdw?oc=5"
         }
       ]
     },
