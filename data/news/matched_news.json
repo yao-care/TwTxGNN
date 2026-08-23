@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-08-23T00:45:18.814317+00:00",
-  "total_count": 24,
+  "last_updated": "2026-08-23T02:18:56.581058+00:00",
+  "total_count": 25,
   "matched_count": 4,
   "news": [
+    {
+      "id": "4b7ac0bf524d",
+      "title": "HIV新增感染降至879人，為什麼現在反而不能停？",
+      "published": "2026-08-23T01:09:00+00:00",
+      "summary": "HIV新增感染降至879人，為什麼現在反而不能停？&nbsp;&nbsp;peopo.org",
+      "sources": [
+        {
+          "name": "peopo.org",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxUk1WTzRhZjk0YWxuQVR1Wi1ZZ0d5cnpmRDFPaVo3TEhtYWZqVUlDRWtxb2pHVnJWX01FelBNMnBpbzlILXdQeA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "5f06ee1ad1e7",
       "title": "南山人壽：嬌花易折 55歲後女性骨折理賠件數是男性2倍以上",
@@ -12,6 +25,19 @@
         {
           "name": "《現代保險》雜誌",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2T3dDTlhEcDhERS1wa0JmV2ZVRjZ0Y2lwazREblRmZjJYR21zcnZSTkhpeEE5RXhIZkpFNzBEUG1lZ19qVXhVMnVrRFRHRjhaWVU4?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b0ac1e3943ac",
+      "title": "60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物第一名高纖護血管| 事事如意生活網站",
+      "published": "2026-08-22T22:00:06+00:00",
+      "summary": "60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物第一名高纖護血管| 事事如意生活網站&nbsp;&nbsp;CCUE",
+      "sources": [
+        {
+          "name": "CCUE",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNT0I4OTdHZVkxQ2tuR0ZjT2kybmhpRWFzYnhIX3YzeU50MDVkSkhqNzhZZm1ZQVNTWDV3RG1aaUtpejE5ejZLOXI5SDlsWlpDZ2tTTGtTLWNSanRsUU9UU3k2cXloUkFvc2JlM3NpcnlUS1J2a1NwcVdsU0dnZGVrQS1fSDExYmpyOG9la1AxSnF1QzBvUDYtUERfLUFKU05uVDJ1LWxOS3JGT3QwUHFPellyb21DV2Rud1ZZd3dVemFjRXhJTkllNmtUNEloYVFkeFg5THRnczVRTzNlMkkwa1FaLTMwTHJDblRXVHBzNmNWSlAtcW5hdzdJU0pXaC1tcF9lVE52cHhFM0paN2dSQ1hWTXllYnAzenRLdko0bHFHbVFUWGdTdjBnc2p4RU83NjJZemlPbzIyOG9pbGlzNW1mb3J4WGdwVHliNlZHMURnQ2JGa3c?oc=5"
         }
       ],
       "matched_keywords": []
@@ -517,19 +543,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQNkNTMVFKUWJXcV9RVmNWYXlaR1h3RFBmR01GMF9PWTRkYnNIMVNtb0t4VV80cnV4SmFnRW5KMHZnMXdZb2NrcG1RaGp2VkVsc2YzVG9yTEJnN3VValJpRXVWOXpvaUZheGRVZkcyc0lOUDM2ZGZxbDBLVmQ2UFVzVGxvSEVrNVRZTGx1NWk3bVhzLXhUZHBJUXI1dmhCc3ZrOEhkUlNNMVBTUXB4T1JLdGJRblF0aTJ0QnExTXp2RWFHWmRoNDFIMXRQM2VocGJxa3ZlOVk4bWNQZ040NlFaSWF3bG4xa0hDencwamM0TGFmNjZROU5QVzRWM2dDdC01SjFmY2RwTG11QUFjVm56V1p1YjZydnp2amxoWkR0ZUExZzVDYUZhWTVXckU2OXR5XzlmUWVIUUpvQW5TeV9aTnhYcW1xWnY5SWlpZDFjYzRyTUdsVXVtNUFCM1JLZGxUdzZzdXE1akdJMUVEZEtlVmE1ZG1QeGhneHhSTFB0MGwxTTdEUnByamJsTTJDVGZQVG9F?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1446f80b7bbe",
-      "title": "新版長期體重管理指南發布",
-      "published": "2026-08-21T01:35:37+00:00",
-      "summary": "新版長期體重管理指南發布&nbsp;&nbsp;紫荊網",
-      "sources": [
-        {
-          "name": "紫荊網",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcVYxb1JTVEpodkVVRkROdHo3TUpTX3NJRlRTbDZoTk1DTlJkZ1pzYVZpRWdJd0RvMDVuRFVycHBSSFAtclg4RDBMaXhZdnhGNERNWXFTUDQ2S1IzaFp1M09FNHZuNG15T2hZNExpLU9iNVVzM1NadXl3RUpYRFJrX21RMFJmVExSTzI1OUZHOFI?oc=5"
         }
       ],
       "matched_keywords": []
