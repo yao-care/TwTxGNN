@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-23T20:12:00.715238+00:00",
-  "total_count": 23,
+  "last_updated": "2026-08-23T21:12:25.197547+00:00",
+  "total_count": 22,
   "matched_count": 4,
   "news": [
     {
@@ -89,6 +89,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "27da78ff5f68",
+      "title": "怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重 | 姊妹淘 - LINE TODAY",
+      "published": "2026-08-23T03:41:57+00:00",
+      "summary": "怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重 | 姊妹淘&nbsp;&nbsp;LINE TODAY怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重&nbsp;&nbsp;Yahoo新聞65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命&nbsp;&nbsp;三立新聞網SETN.com感冒別硬撐！腎友怕「吃藥傷腎」拒就醫 4天後腎功能惡化 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞重感冒硬撐不吃藥她4天後酸中毒了腎也衰竭- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LX0wzZm5MdkpOQzZaZmVJdUhOamVaS1lUY0RhekZqYjdrWXRqLVdCZG9SdE9JTWQ2MWxsU2lEb3g4VTF5UUl0NnFGUXRGOXJ2U0I4cnJ3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "2122b443d760",
@@ -247,31 +272,6 @@
       "matched_keywords": []
     },
     {
-      "id": "990f498b8ae3",
-      "title": "怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重",
-      "published": "2026-08-22T04:59:04+00:00",
-      "summary": "怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重&nbsp;&nbsp;Yahoo新聞65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命&nbsp;&nbsp;三立新聞網SETN.com感冒別硬撐！腎友怕「吃藥傷腎」拒就醫 4天後腎功能惡化 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞重感冒硬撐不吃藥她4天後酸中毒了腎也衰竭- 健康&nbsp;&nbsp;中時新聞網女子感冒怕藥毒拒就醫 4天引發急性腎損傷&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQX2NMUU9RN3RlTjFkM0U1VWMtdlFJLTREVmZVZ0lZVjkzdFJrbTVwSzdmTmNMWVNQYm9odC14RzROX3EyOTZuSDlPY2pjTGsyRWNfemhxT0lsbXZSU01XSVE3WHQxVmdXdC1LdHhhN3RJVURVUTVHWWpFcnhkQ1FGX1I2X3JHTVZQTHFZWjc1a3k1QnZKTlBONURDZ2llcGphR2Jwck5teXYxeHZMZ3JWRVdYWF9oMklHenNtYjl3YlBFRnl2YnJkNC14YUE1bnBYZE1JTmlJSHBEVEtncno2ZThvbmJNenFFQmxBTnlhYzI5SHBmS29KQmk0SlNrQmRfZDVMeTI0RlpLZFVqRXhRYkUtZFIxckhLUzZwOERQYm5kdUV2NkRvd3BQSFQzVGE0dWY3YVpFSzlmWmNKNWVzbWU3WU5IVUpsX3BOYjdWcTR3UDY0NVJfWkR1TWZ3bjczVUFRYlZfNFl2TzdMWV9nUFJQWVZISzJxdFE5SnNHSnpLb2ZoS0FVUEVfeTA4VVVZT1k3eXdTTUUzYkNWVzFkeDB5ei14MUoyLTdnSWJVcnpmMGNNMEVMUThnMUFNWF9Zd2VYdHMtaW51QXpBVnU5VFB5alFZN2RlLWFiVER3VlRCZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "b8a0b7806269",
       "title": "健康網》膝關節退化新救星！研究揭每天補1纖維減痛、握力增",
       "published": "2026-08-22T02:14:00+00:00",
@@ -343,19 +343,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPRG55LVBqbHpCSFNuRnZwVExxQ0NTTVhMZEU4M1R3RlRFaHdsblZtZy02bmdPRExaX0R3VDA5RlNLcm5Vb1AxM21Ccjk4aFFVZHd3NE4zWXZXekxxS1kxUmc1a2xKTml5bFQ2Vy13UkdWRWtKZDdpcTVERUx5a0tXZ2xaU3VlaDRYc0lIMzBUeVZVQnF0d2FzUUpqQUFZMGFBbEtvbkJKaEVveDZhYU5waUQ4ODlBY1dyZFVIUDVHTW1iRnVydDBiQ2lUS0pMQzhzSGhFMTlkS0ZFQTg3YkUyTmlJbWJqWHRrVkh1Y0UzY1JEd1VKN202NUphazBIX2RDVGhwQWhBT3BYZUFaSkpSb0pfSVZaSHJyOTZPLTNhaldfaklQN1RBR1l6VWdpODB4ay1PR2J0MUQtNEpBc0dKU0RBdUFsU1Y1NGJXV01KTXl1bUpoOTZUTGFoMDZhTUI5ajlDTXZmLVltTEJ2ZWhUd1h6QTlVeVlwenh0WDhxbFprRXVsOUk5djAxYUJOeXVKU1MzOXVyX0ZxRWtuYWhuc3lQVHVPdTQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c003337d0110",
-      "title": "壓力大時更容易迷路？研究發現皮質醇會讓大腦導航系統失靈 | 科技新報 - LINE TODAY",
-      "published": "2026-08-21T20:51:10+00:00",
-      "summary": "壓力大時更容易迷路？研究發現皮質醇會讓大腦導航系統失靈 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqcVhVOGR6ajBZWkdGZmZaUDhOSEtqVTQ2Z3ZKYVU2ZjNYZmVZRzFmMVljWkpJcnFfdXBhTGo0Zi1YU0NHbnJZR0dUTVRFM2pXdU1naTZn?oc=5"
         }
       ],
       "matched_keywords": []
