@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-23T11:12:23.580159+00:00",
-  "total_count": 23,
+  "last_updated": "2026-08-23T12:20:25.899554+00:00",
+  "total_count": 24,
   "matched_count": 4,
   "news": [
     {
@@ -50,6 +50,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "40462d0063be",
+      "title": "大腦與免疫系統隔絕——但顱骨骨髓另有打算 - Martin Cid Magazine",
+      "published": "2026-08-23T09:34:02+00:00",
+      "summary": "大腦與免疫系統隔絕——但顱骨骨髓另有打算&nbsp;&nbsp;Martin Cid Magazine",
+      "sources": [
+        {
+          "name": "Martin Cid Magazine",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQlJSZEZwc1RDWHFPVzFXaDRXb1V0ZVpmQktjOGlLbTFaYXJlTXpzUUs4Q2J0dGZvbmRrOUtubVVzZGlLN3hiT25XTnZ1eVdna0FZS0w5N1lLdXdpanBNMDN2RTRJbFhIdGN5VnhLS1pGUk9wenlTdGFOTElnWlBqRTJKd2tiMEJQTXNWdWxTRzZQOGZ6d0E?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "969fa723f131",
