@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-23T04:27:45.708052+00:00",
+  "fetched_at": "2026-08-23T05:20:35.484889+00:00",
   "count": 23,
   "news": [
     {
@@ -79,7 +79,7 @@
       "id": "990f498b8ae3",
       "title": "怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重 - Yahoo新聞",
       "published": "2026-08-22T04:59:04+00:00",
-      "summary": "怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重&nbsp;&nbsp;Yahoo新聞65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命&nbsp;&nbsp;三立新聞網SETN.com感冒別硬撐！腎友怕「吃藥傷腎」拒就醫 4天後腎功能惡化 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞重感冒硬撐不吃藥她4天後酸中毒了腎也衰竭- 健康&nbsp;&nbsp;中時新聞網女子感冒怕藥毒拒就醫 4天引發急性腎損傷&nbsp;&nbsp;中天新聞網",
+      "summary": "怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重&nbsp;&nbsp;Yahoo新聞65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命&nbsp;&nbsp;三立新聞感冒別硬撐！腎友怕「吃藥傷腎」拒就醫 4天後腎功能惡化 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞重感冒硬撐不吃藥她4天後酸中毒了腎也衰竭- 健康&nbsp;&nbsp;中時新聞網女子感冒怕藥毒拒就醫 4天引發急性腎損傷&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -96,18 +96,6 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85NXItS2xHWHBHZE5lLVdCV3QzYVFrbnFpSWQxNzFGWU5nUHk5VG5uOHp5TVdseEtLNkNKdF9hSUJaNWpoX1pVdEJBY3FzQVhPSmJPM3p3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4bde29db62c2",
-      "title": "公廁馬桶坐墊非最骯髒！醫生揭3大更高風險區 4招教安心使用 - UDN",
-      "published": "2026-08-22T14:07:33+00:00",
-      "summary": "公廁馬桶坐墊非最骯髒！醫生揭3大更高風險區 4招教安心使用&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80OFcwRTBjdlFVekhTRWFYUE03RTZBeGo0VDlmX29YMDRCVnFEZk8zbFV4bnV4TnF3a2tucnJ3M2tuZ2xld2ZMM09zbkUxeFpj?oc=5"
         }
       ]
     },
@@ -132,6 +120,18 @@
         {
           "name": "A Day Magazine",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRUMtYmFkXy1EYklrZjhHdFB4MV81ZExoUkRVVnhObVI0S0J0SnRvcl95RWo5V2RHTEVnUHNnT3lkUS1sNW9rb05hNnVnRlljOV9fUl9ZTTh5Mmo5WHRLM25yMURGbi1kd0wzZ190YWlpM3FjS2dicUQ1MTN1NGRXSDZKVmoydw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4bde29db62c2",
+      "title": "公廁馬桶坐墊非最骯髒！醫生揭3大更高風險區 4招教安心使用 - UDN",
+      "published": "2026-08-22T14:07:33+00:00",
+      "summary": "公廁馬桶坐墊非最骯髒！醫生揭3大更高風險區 4招教安心使用&nbsp;&nbsp;UDN",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80OFcwRTBjdlFVekhTRWFYUE03RTZBeGo0VDlmX29YMDRCVnFEZk8zbFV4bnV4TnF3a2tucnJ3M2tuZ2xld2ZMM09zbkUxeFpj?oc=5"
         }
       ]
     },
