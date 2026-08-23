@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-23T02:18:53.215347+00:00",
-  "count": 24,
+  "fetched_at": "2026-08-23T03:41:46.986728+00:00",
+  "count": 23,
   "news": [
     {
       "id": "4b7ac0bf524d",
@@ -12,6 +12,18 @@
         {
           "name": "peopo.org",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxUk1WTzRhZjk0YWxuQVR1Wi1ZZ0d5cnpmRDFPaVo3TEhtYWZqVUlDRWtxb2pHVnJWX01FelBNMnBpbzlILXdQeA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "132e9da5fa08",
+      "title": "胰臟癌手術後存活差近2年！「剩幾顆牙」竟成重要線索 - 自由健康網",
+      "published": "2026-08-23T02:52:00+00:00",
+      "summary": "胰臟癌手術後存活差近2年！「剩幾顆牙」竟成重要線索&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yN2JWdVVpLWdFN0FfRm1jSUszdW5JS1Bhb3JMbkxKMGRxM0d6alpXNG9rZWJIMVJYZXFyOXFfTnlnemtJM05wbm5SSzNkaWxaVG84Njc5Ym5vOGhCRjA3cmlyZGY?oc=5"
         }
       ]
     },
@@ -100,14 +112,14 @@
       ]
     },
     {
-      "id": "d8be452b7d5e",
-      "title": "不只抗氧化發炎，大鼠實驗揭示薑黃素可阻止一型糖尿病患者血管惡化 - TechNews 科技新報",
-      "published": "2026-08-21T07:32:05+00:00",
-      "summary": "不只抗氧化發炎，大鼠實驗揭示薑黃素可阻止一型糖尿病患者血管惡化&nbsp;&nbsp;TechNews 科技新報",
+      "id": "79e1aaf3a8cb",
+      "title": "不只抗氧化發炎，大鼠實驗揭示薑黃素可阻止一型糖尿病患者血管惡化 | 科技新報 - LINE TODAY",
+      "published": "2026-08-21T15:26:24+00:00",
+      "summary": "不只抗氧化發炎，大鼠實驗揭示薑黃素可阻止一型糖尿病患者血管惡化 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaXE5ZXN4c2o4MklmTUhFNGp1QVRMRDMzdkpJTmU4d0NaTDJRWThCX2NOelNVQmpDZ2g0WEd0S0g4eEV5eWhDWUhMNDdFRUxCNTJhLVhtcjllcGlJVXVlSXgyamszMHhkNzFMaTctS3Y5NC1SZWpfNG13RHNZSmhzUGVDaUs5R0Z4cV9BSnM4UVZUbkRSdmQ5a09UQ1F0ZDVv?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9USmlvTDdZVjJua2s4SmJrSzJfTXJ0VWlPUHdEUkVTZGxVTW5QUFYyZGw1VmVVNFlxQ1RVSXQ4MG1lZ2tpYmtsNW5EOVJMTGdOcElLeW1n?oc=5"
         }
       ]
     },
@@ -148,18 +160,6 @@
       ]
     },
     {
-      "id": "e2fab18e6984",
-      "title": "寵物壁虎 竟可能成為破解癌症的重要幫手 - 經濟日報",
-      "published": "2026-08-21T02:49:23+00:00",
-      "summary": "寵物壁虎 竟可能成為破解癌症的重要幫手&nbsp;&nbsp;經濟日報",
-      "sources": [
-        {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VdUFHZG00akd3SmplWUlja2R6cllpOUlCOGNSa2I0alNlWGZTVVBmSlczYlNuWkV6Q1lzWmpuNXRwNkU2Q21uSlh6el9XNzdqZ291a0lkTHBySld5dXfSAWJBVV95cUxNRWNQVGYwTXo4TE83TmFPdHhncnhYemN3Y3dkQmpDXzBDbTZ5RXV3ME44QmhWR19La2o0ajlLTnFPbVFZWks2TVpkVDllcE0yWXNSYXkxNHFSSmNPeXB1RnhSQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5f06ee1ad1e7",
       "title": "南山人壽：嬌花易折 55歲後女性骨折理賠件數是男性2倍以上 - 《現代保險》雜誌",
       "published": "2026-08-22T22:17:53+00:00",
@@ -168,18 +168,6 @@
         {
           "name": "《現代保險》雜誌",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2T3dDTlhEcDhERS1wa0JmV2ZVRjZ0Y2lwazREblRmZjJYR21zcnZSTkhpeEE5RXhIZkpFNzBEUG1lZ19qVXhVMnVrRFRHRjhaWVU4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7b4f5484cc27",
-      "title": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南| 健康 - 三立新聞網SETN.com",
-      "published": "2026-08-21T18:59:45+00:00",
-      "summary": "新冠確診卻引來不舉危機！泌尿科醫揭「3大成因」、「7招」新冠預防指南| 健康&nbsp;&nbsp;三立新聞網SETN.com",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBpeVl1UGNfcHFoTHlzdHZzUmRKa2l2d3Q2ZlpUYlgtUWp0X0VWWnNhYmRYeWhwaDc2V0Z0OEFWS1B5TDRwSlRZdw?oc=5"
         }
       ]
     },
@@ -208,14 +196,14 @@
       ]
     },
     {
-      "id": "a4b970ff9b1a",
+      "id": "8bdaeed3b874",
       "title": "孩子過動症吃藥沒用？三個常見原因 - 大纪元",
       "published": "2026-08-22T19:00:00+00:00",
       "summary": "孩子過動症吃藥沒用？三個常見原因&nbsp;&nbsp;大纪元",
       "sources": [
         {
           "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04QUM1N3p3TFdYd2tILTRXLTJtMkVVclJfMGRhZGJmbC1XcWpaS09uLTBJdm5nSkFiVTJIaDdsOW9rS3c5TUhEM1R2Qm1vRVhCYjlISkdVOU55dVRZUzdZ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04QUM1N3p3TFdYd2tILTRXLTJtMkVVclJfMGRhZGJmbC1XcWpaS09uLTBJdm5nSkFiVTJIaDdsOW9rS3c5TUhEM1R2Qm1vRVhCYjlISkdVOU55dVRZUzdZ0gFkQVVfeXFMTTBfNkExMno5bzUxTy1ndkJPYXNSYW4waHM5bEpPOG93SnAyZWs2aU1NLWUwbVZRR1BndWhtLVJTTkFJWkpLRGcwS3JKSXNadjY3ZVhQX004dWV6WmpuSTA2OWg3SQ?oc=5"
         }
       ]
     },
@@ -244,14 +232,26 @@
       ]
     },
     {
-      "id": "55197f52add4",
-      "title": "疫苗不是打越多越好？專家揭新型疫苗原理，這2類人打活疫苗要小心 - PChome Online 新聞",
-      "published": "2026-08-21T22:50:46+00:00",
-      "summary": "疫苗不是打越多越好？專家揭新型疫苗原理，這2類人打活疫苗要小心&nbsp;&nbsp;PChome Online 新聞",
+      "id": "2122b443d760",
+      "title": "怕腦退化伯伯周圍走？ 老人院員工靠「一個大話」秒收服乖乖坐定等「出糧」 同行分享更多暖心絕招｜Juicy叮 - 星島頭條",
+      "published": "2026-08-23T02:42:41+00:00",
+      "summary": "怕腦退化伯伯周圍走？ 老人院員工靠「一個大話」秒收服乖乖坐定等「出糧」 同行分享更多暖心絕招｜Juicy叮&nbsp;&nbsp;星島頭條",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzZwbWxMVGtrbEhOYnVMOHRIUHhfZjdzVDFseV9ucGcyUjI1bGE3YzVYTTQ2TXI5LUVBcVFmb1QyOHJDMXoxTHlXLS1QbTVSWk50eDd6Yjh3QjF4M3ZnM0JYMWFlOWJ5TWkxZ3NDdU9XamxnWTRaZklfb0E5RGEyVnFOeldhbG1YQVByckI4dTVWQQ?oc=5"
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMixwRBVV95cUxNNnhaYVI0WEtPRGc0QXNINzBvWE5QZ1RMalRpZ2wwS0VZUmRzRklUakRLazgzYXZ1YjVwZ2RmTHo4ZVAxZGxiUjZ2d1JRZW93a0xNQmhfSDJxU2JmWGpxZTJfcDhuQ0h1X1F2aUlIcGhhaGhIT0VrRXpoVTBtSXY4SWFGdTN4am1qWG1sNXN6V2JoYTVFWnFsRk1sUEV5RmNBSWZsRWszZTJiQ2lJWmE4X3BBRFJiTWtSaGtJRlM2dVlva25MNDVUVHpjNnd2NWg4RDFfblpZYVpRMG9wbzdJNEMyVFBUM0l2ZldTRlRCNVpFSWduY3ZIcjNrMjFyTFlmUjFQVHZQc2VZTjhtVV9LdGE5UHpZNUxOcGgxLU5OR252czZaY09uZl9KUjAyNnpnRmoxcnBDY1FFTi1QNmZZZGJGWEpTY2ppaWVPOFFKX3ZYV0daSVdTUmFIci1pMkNKWl9KZlAwNkpPWUc4UUo3UjNRVTlxdFZQdS1Hdl9hQXZGSmFRazlZMGM4cnFqV0hBQnhJVEg0ZnF3SDNXMGlWdFpQaTRURUVqMHdlT0pNZTIwMy04eXh1SVZKZzUtZmhGeUxmVG5YSzlqeWJPbmJHSkRPMmVDRDRNWWZrdjNCcldNRm1MVHZzZVcyUm03UVlsQk9HQ0lhS1B3ckZwMFpsZks0ck55WEl3aGlUT2lqRnRXb2pCWHdPeklMb1NLNWRiWE9GTGJnQXEtM2xHeGhwY3FiRGhlSEVjZDNMcEhhU2FwX1E1S0dF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4f6a64fad04f",
+      "title": "疫苗不是打越多越好？專家揭新型疫苗原理，這2類人打活疫苗要小心 - Yahoo新聞",
+      "published": "2026-08-21T22:50:46+00:00",
+      "summary": "疫苗不是打越多越好？專家揭新型疫苗原理，這2類人打活疫苗要小心&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPRG55LVBqbHpCSFNuRnZwVExxQ0NTTVhMZEU4M1R3RlRFaHdsblZtZy02bmdPRExaX0R3VDA5RlNLcm5Vb1AxM21Ccjk4aFFVZHd3NE4zWXZXekxxS1kxUmc1a2xKTml5bFQ2Vy13UkdWRWtKZDdpcTVERUx5a0tXZ2xaU3VlaDRYc0lIMzBUeVZVQnF0d2FzUUpqQUFZMGFBbEtvbkJKaEVveDZhYU5waUQ4ODlBY1dyZFVIUDVHTW1iRnVydDBiQ2lUS0pMQzhzSGhFMTlkS0ZFQTg3YkUyTmlJbWJqWHRrVkh1Y0UzY1JEd1VKN202NUphazBIX2RDVGhwQWhBT3BYZUFaSkpSb0pfSVZaSHJyOTZPLTNhaldfaklQN1RBR1l6VWdpODB4ay1PR2J0MUQtNEpBc0dKU0RBdUFsU1Y1NGJXV01KTXl1bUpoOTZUTGFoMDZhTUI5ajlDTXZmLVltTEJ2ZWhUd1h6QTlVeVlwenh0WDhxbFprRXVsOUk5djAxYUJOeXVKU1MzOXVyX0ZxRWtuYWhuc3lQVHVPdTQ?oc=5"
         }
       ]
     },
@@ -276,18 +276,6 @@
         {
           "name": "etnet 經濟通",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81UkNiQzMyTjRISlBHX1FUVHRYdkpjX3FiY014SmVNaWtiOWEzYk5mbENldWdmekUxeTJBcnZlRmxFcV94cWJnaGxiVnRxZ1dCRVU3d3VlZF8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2abbf88f0717",
-      "title": "兒童健康｜13歲童日玩手機10小時確診兒童脂肪肝 醫教5方法改善 - 香港01",
-      "published": "2026-08-21T02:00:09+00:00",
-      "summary": "兒童健康｜13歲童日玩手機10小時確診兒童脂肪肝 醫教5方法改善&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQNkNTMVFKUWJXcV9RVmNWYXlaR1h3RFBmR01GMF9PWTRkYnNIMVNtb0t4VV80cnV4SmFnRW5KMHZnMXdZb2NrcG1RaGp2VkVsc2YzVG9yTEJnN3VValJpRXVWOXpvaUZheGRVZkcyc0lOUDM2ZGZxbDBLVmQ2UFVzVGxvSEVrNVRZTGx1NWk3bVhzLXhUZHBJUXI1dmhCc3ZrOEhkUlNNMVBTUXB4T1JLdGJRblF0aTJ0QnExTXp2RWFHWmRoNDFIMXRQM2VocGJxa3ZlOVk4bWNQZ040NlFaSWF3bG4xa0hDencwamM0TGFmNjZROU5QVzRWM2dDdC01SjFmY2RwTG11QUFjVm56V1p1YjZydnp2amxoWkR0ZUExZzVDYUZhWTVXckU2OXR5XzlmUWVIUUpvQW5TeV9aTnhYcW1xWnY5SWlpZDFjYzRyTUdsVXVtNUFCM1JLZGxUdzZzdXE1akdJMUVEZEtlVmE1ZG1QeGhneHhSTFB0MGwxTTdEUnByamJsTTJDVGZQVG9F?oc=5"
         }
       ]
     }
