@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/salicylamide/
 <li>nasal cavity disease（100.0%）</li>
 <li>acute laryngopharyngitis（100.0%）</li>
 <li>trigeminal autonomic cephalalgia（99.9%）</li>
-<li class="indication-matched">common cold（99.9%）<span class="indication-tag">📰 感冒</span></li>
+<li>common cold（99.9%）</li>
 <li>allergic urticaria（99.7%）</li>
 <li>lung disease（99.6%）</li>
 <li>massive neonatal aspiration syndrome（99.6%）</li>
@@ -42,15 +42,9 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重](https://news.google.com/rss/articles/CBMi4gNBVV95cUxQX2NMUU9RN3RlTjFkM0U1VWMtdlFJLTREVmZVZ0lZVjkzdFJrbTVwSzdmTmNMWVNQYm9odC14RzROX3EyOTZuSDlPY2pjTGsyRWNfemhxT0lsbXZSU01XSVE3WHQxVmdXdC1LdHhhN3RJVURVUTVHWWpFcnhkQ1FGX1I2X3JHTVZQTHFZWjc1a3k1QnZKTlBONURDZ2llcGphR2Jwck5teXYxeHZMZ3JWRVdYWF9oMklHenNtYjl3YlBFRnl2YnJkNC14YUE1bnBYZE1JTmlJSHBEVEtncno2ZThvbmJNenFFQmxBTnlhYzI5SHBmS29KQmk0SlNrQmRfZDVMeTI0RlpLZFVqRXhRYkUtZFIxckhLUzZwOERQYm5kdUV2NkRvd3BQSFQzVGE0dWY3YVpFSzlmWmNKNWVzbWU3WU5IVUpsX3BOYjdWcTR3UDY0NVJfWkR1TWZ3bjczVUFRYlZfNFl2TzdMWV9nUFJQWVZISzJxdFE5SnNHSnpLb2ZoS0FVUEVfeTA4VVVZT1k3eXdTTUUzYkNWVzFkeDB5ei14MUoyLTdnSWJVcnpmMGNNMEVMUThnMUFNWF9Zd2VYdHMtaW51QXpBVnU5VFB5alFZN2RlLWFiVER3VlRCZw?oc=5)
-
-2026-08-22 <span class="news-indication-tag">感冒</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi4gNBVV95cUxQX2NMUU9RN3RlTjFkM0U1VWMtdlFJLTREVmZVZ0lZVjkzdFJrbTVwSzdmTmNMWVNQYm9odC14RzROX3EyOTZuSDlPY2pjTGsyRWNfemhxT0lsbXZSU01XSVE3WHQxVmdXdC1LdHhhN3RJVURVUTVHWWpFcnhkQ1FGX1I2X3JHTVZQTHFZWjc1a3k1QnZKTlBONURDZ2llcGphR2Jwck5teXYxeHZMZ3JWRVdYWF9oMklHenNtYjl3YlBFRnl2YnJkNC14YUE1bnBYZE1JTmlJSHBEVEtncno2ZThvbmJNenFFQmxBTnlhYzI5SHBmS29KQmk0SlNrQmRfZDVMeTI0RlpLZFVqRXhRYkUtZFIxckhLUzZwOERQYm5kdUV2NkRvd3BQSFQzVGE0dWY3YVpFSzlmWmNKNWVzbWU3WU5IVUpsX3BOYjdWcTR3UDY0NVJfWkR1TWZ3bjczVUFRYlZfNFl2TzdMWV9nUFJQWVZISzJxdFE5SnNHSnpLb2ZoS0FVUEVfeTA4VVVZT1k3eXdTTUUzYkNWVzFkeDB5ei14MUoyLTdnSWJVcnpmMGNNMEVMUThnMUFNWF9Zd2VYdHMtaW51QXpBVnU5VFB5alFZN2RlLWFiVER3VlRCZw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
