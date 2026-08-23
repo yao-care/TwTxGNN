@@ -1,8 +1,56 @@
 {
-  "last_updated": "2026-08-23T09:18:52.649689+00:00",
-  "total_count": 23,
-  "matched_count": 3,
+  "last_updated": "2026-08-23T10:13:58.212975+00:00",
+  "total_count": 24,
+  "matched_count": 4,
   "news": [
+    {
+      "id": "ad820f572487",
+      "title": "用漱口水就可揪出大腸癌？最新研究揭1數據關鍵",
+      "published": "2026-08-23T10:04:10+00:00",
+      "summary": "用漱口水就可揪出大腸癌？最新研究揭1數據關鍵&nbsp;&nbsp;三立新聞網SETN.com",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBiUC1Za19OR19rNUl6NDFfTDVxZERfclVQLThOaEpFUDRVdnRZQThaZnpacnN5MFFzYVpQbW9rVEZmQWR5NndaQWtreVU?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "969fa723f131",
       "title": "1枚角膜變300枚！全球首例3D列印角膜成功移植人體",

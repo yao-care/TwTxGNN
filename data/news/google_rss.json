@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-23T09:18:48.822882+00:00",
-  "count": 22,
+  "fetched_at": "2026-08-23T10:13:53.853745+00:00",
+  "count": 23,
   "news": [
     {
       "id": "4b7ac0bf524d",
@@ -36,6 +36,18 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Td3I2M095SklVSTdlSGJEV3ZxVzA1WVBuc1JueDJ4RElvZFppS2ZPOUNiTnQ5dHQtZVJvd0tQRnhIYW50NzdPT2lISF9oQk0zMDU3NlJKcGdLc0ZWN0FmWGNpVWppVHlzRHg3YmJ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ad820f572487",
+      "title": "用漱口水就可揪出大腸癌？最新研究揭1數據關鍵 - 三立新聞網SETN.com",
+      "published": "2026-08-23T10:04:10+00:00",
+      "summary": "用漱口水就可揪出大腸癌？最新研究揭1數據關鍵&nbsp;&nbsp;三立新聞網SETN.com",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBiUC1Za19OR19rNUl6NDFfTDVxZERfclVQLThOaEpFUDRVdnRZQThaZnpacnN5MFFzYVpQbW9rVEZmQWR5NndaQWtreVU?oc=5"
         }
       ]
     },
