@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-24T05:30:22.376411+00:00",
-  "count": 19,
+  "fetched_at": "2026-08-24T06:37:17.457012+00:00",
+  "count": 18,
   "news": [
     {
       "id": "6ed40b657b66",
@@ -96,18 +96,6 @@
         {
           "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSRU1zNmdyaTIwdnE4NG56SjJ1UjZQYzBxd3RnNXJRZ05JZ3VGMjJ1eG5MRXFIVms2WF9BNGluM3RyVTdybWNWTGJZVmltR0Uy?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "856854f1cddb",
-      "title": "健康網》攝護腺肥大 藥吃一輩子？醫談停藥如何取捨 - 自由健康網",
-      "published": "2026-08-22T08:53:00+00:00",
-      "summary": "健康網》攝護腺肥大 藥吃一輩子？醫談停藥如何取捨&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aMV8xWEFlZElzSC1PTlRMUVZwaXRXLTNwcEZGNm9MM0xLN2FJakdILWdkUXctX3BlYkZ2bW50Sk82dzUtUU1tTkViMXNEckRvNkVvRHZ6NnM3Y0RCdEZISzRFTkk?oc=5"
         }
       ]
     },
