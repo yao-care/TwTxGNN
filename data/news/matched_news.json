@@ -1,21 +1,8 @@
 {
-  "last_updated": "2026-08-24T07:50:15.199914+00:00",
-  "total_count": 19,
+  "last_updated": "2026-08-24T08:36:59.563630+00:00",
+  "total_count": 17,
   "matched_count": 3,
   "news": [
-    {
-      "id": "39f8f80709eb",
-      "title": "四肢無力、筷子拿不穩當心是自體免疫攻擊神經 醫解析罕病CIDP治療",
-      "published": "2026-08-24T05:35:00+00:00",
-      "summary": "四肢無力、筷子拿不穩當心是自體免疫攻擊神經 醫解析罕病CIDP治療&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtTFoxRlpjREpXWVhKZFVzOGRndjRPdXpyelNiWEdRYTV0UnF6NWpzbHZ4THFDanpGT21fSjFwTC04REkxWU9vel9RTFdSMFlMcENrSVVPSTdfOVVYeFAyTA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
     {
       "id": "1ee7c229f46c",
       "title": "呼吸道疾病不只冬天要防！做好健康管理，從了解自己的疫苗需求開始｜HEHO 疫苗評估小工具",
@@ -279,19 +266,6 @@
         {
           "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSRU1zNmdyaTIwdnE4NG56SjJ1UjZQYzBxd3RnNXJRZ05JZ3VGMjJ1eG5MRXFIVms2WF9BNGluM3RyVTdybWNWTGJZVmltR0Uy?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "aff4b736e0a6",
-      "title": "喝茶能護骨 咖啡別過量？十年研究揭關鍵",
-      "published": "2026-08-22T07:00:00+00:00",
-      "summary": "喝茶能護骨 咖啡別過量？十年研究揭關鍵&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RTDVyaFhlVGxFYzlGZVUtSmZ4MmFsSElhODFBWXRWRGM0aW5QTEphSkpSWE10Vm5jVExXMTVwM21scC1xdUJmR19nbWVWeHRtR1JNZ0h2V2NjLTYzaW94QtIBZkFVX3lxTE4xNUFOd292SGJMOUhSeDFIWlZSQXhwMjd5aVVLbFJsTVFmdVhRSlM4RnZHUkYyM3JLM0JtVFd0WVpKelVZbV9hODJVUGZTTDJ3dnlZc2trYlNTd0ttRm1mN2xDMG9Qdw?oc=5"
         }
       ],
       "matched_keywords": []
