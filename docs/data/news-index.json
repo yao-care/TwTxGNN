@@ -1,7 +1,67 @@
 {
-  "generated": "2026-08-24T08:36:59.592061+00:00",
-  "count": 3,
+  "generated": "2026-08-24T09:36:48.459240+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "6a2e0221c203",
+      "title": "常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位",
+      "published": "2026-08-24T09:00:00+00:00",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tYlZGbVphSTdYbllpdGxXUXhDdXNhOHktY2t3NmVzVFlKcGF1bmVXWjY0d3JrN1dLempFUGltQTB4dnpYU0ktQU9PMmdiR3pscVZvVC13?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7422e902448c",
+      "title": "桃子削皮後放雪櫃隔夜吃 蘇州男一天腹瀉十餘次引發急性腎損傷",
+      "published": "2026-08-24T08:25:02+00:00",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNdlg3RmpRaTE3S3ZYUXZqejVyU0FEUUc2UHJySFJ1QU5kR01HTF92eV80UW96bFVpaXU4TVYxVVFSZ01yOENoQ0FxeWtEYWF4QW1NaVIxSkU0VG5wXzdDa2tYYWFtQjJwU0J5b3Y4dDF0NjVoZ183NXpNbHpRX2NHVEFZb2RUMGFRczh4d3JtRUozbnNTYWM4TUlWN2xOLV94UUtZUHN1b1A2SHdsSUg2dndmRDRCblVXbGF5QVZmY0hHZ0JrTndWcDBHeFJ6OHhpbFo5M2h1a3Zlc3NydFpMbEFqR0h1NmdtRHJQcW5NMERHYV83Z0VQSVk4SDFuYzgySmVLWEt0cW5JOEJiSlpQSTE5allkczViQXZ2NVNhd1BnMmNyRWotOGowa2NMRjZBNllJZzZxenNqd085bG9aVER6Xy1aS3dLWEp6V0htSVg3ekxLMy1NSWpubzl5Qmh1QzBNY2gwdW5NdkFpRW1jNm1qNlFRNEQteGd4d3pjR0V0c3QwZ0xCNVJpeGZfcFBSQlVWNkVuNm1nV1NpVGN0MEx1M2xURW1oZ0s1U183MHM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "b086a27e1b95",
       "title": "調整大腦免疫反應，找回阿茲海默症患者失去的睡眠 | 科技新報 - LINE TODAY",
@@ -27,12 +87,12 @@
       ]
     },
     {
-      "id": "ad820f572487",
+      "id": "69c2674507b2",
       "title": "用漱口水就可揪出大腸癌？最新研究揭1數據關鍵",
       "published": "2026-08-23T10:04:10+00:00",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
+          "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBiUC1Za19OR19rNUl6NDFfTDVxZERfclVQLThOaEpFUDRVdnRZQThaZnpacnN5MFFzYVpQbW9rVEZmQWR5NndaQWtreVU?oc=5"
         }
       ],

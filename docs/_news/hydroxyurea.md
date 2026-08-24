@@ -48,7 +48,7 @@ permalink: /news/hydroxyurea/
 
 2026-08-23 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBiUC1Za19OR19rNUl6NDFfTDVxZERfclVQLThOaEpFUDRVdnRZQThaZnpacnN5MFFzYVpQbW9rVEZmQWR5NndaQWtreVU?oc=5)
+來源：[三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBiUC1Za19OR19rNUl6NDFfTDVxZERfclVQLThOaEpFUDRVdnRZQThaZnpacnN5MFFzYVpQbW9rVEZmQWR5NndaQWtreVU?oc=5)
 
 ---
 
