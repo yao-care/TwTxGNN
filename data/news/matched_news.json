@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-24T09:36:48.432068+00:00",
+  "last_updated": "2026-08-24T10:28:32.359506+00:00",
   "total_count": 19,
   "matched_count": 5,
   "news": [
     {
-      "id": "6a2e0221c203",
+      "id": "c9e66f3127eb",
       "title": "常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位",
       "published": "2026-08-24T09:00:00+00:00",
-      "summary": "常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位&nbsp;&nbsp;健康醫療網",
+      "summary": "常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tYlZGbVphSTdYbllpdGxXUXhDdXNhOHktY2t3NmVzVFlKcGF1bmVXWjY0d3JrN1dLempFUGltQTB4dnpYU0ktQU9PMmdiR3pscVZvVC13?oc=5"
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wREtpMU9SV1dGbnkxWHVrYnNJMDZKXzBfSDhfRGhfcmZ4S3BURG5WemFzbHQ2WGg5X2tUY1Bkd3ZpSnhEYU1QX0FPeW1kYTRIVGc?oc=5"
         }
       ],
       "matched_keywords": [
@@ -74,6 +74,19 @@
         {
           "name": "Heho健康",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xZnFLb0xfVjB5VmFxcWloOWFKV2dPaFZ3MzIxWmVZaDRqYjdTb0xqYUxDZHFqWWJ1RUJPblBVdy1LOXJwZDkyUmJmOA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ca125f76bdeb",
+      "title": "健康網》孩子「發燒」是什麼病 專家提醒：先想想4事",
+      "published": "2026-08-24T01:26:00+00:00",
+      "summary": "健康網》孩子「發燒」是什麼病 專家提醒：先想想4事&nbsp;&nbsp;自由健康網家長快看！一張表秒懂新冠、流感與腸病毒症狀差異&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yZlhQTTNib185SXlkUkRoWWlrSGNDbkI5blVNRDdXbzcwTFU1ZzEzSEtVVU1uaHFLa2NqUVBqN2NJTzRMTFlhd243Z0VyajdfRFNsYVRUUnh2NFR4d0RXYmE3R2w?oc=5"
         }
       ],
       "matched_keywords": []
@@ -315,19 +328,6 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9USmlvTDdZVjJua2s4SmJrSzJfTXJ0VWlPUHdEUkVTZGxVTW5QUFYyZGw1VmVVNFlxQ1RVSXQ4MG1lZ2tpYmtsNW5EOVJMTGdOcElLeW1n?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5a2a4243fdc9",
-      "title": "洗腎患者注意！曬太陽長血水泡別抓 醫解析「假性紫質症」成因",
-      "published": "2026-08-22T09:37:00+00:00",
-      "summary": "洗腎患者注意！曬太陽長血水泡別抓 醫解析「假性紫質症」成因&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSRU1zNmdyaTIwdnE4NG56SjJ1UjZQYzBxd3RnNXJRZ05JZ3VGMjJ1eG5MRXFIVms2WF9BNGluM3RyVTdybWNWTGJZVmltR0Uy?oc=5"
         }
       ],
       "matched_keywords": []
