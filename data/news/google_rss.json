@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-24T21:19:43.776694+00:00",
+  "fetched_at": "2026-08-24T22:16:07.950936+00:00",
   "count": 16,
   "news": [
     {
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "ca125f76bdeb",
-      "title": "健康網》孩子「發燒」是什麼病 專家提醒：先想想4事 - 自由健康網",
-      "published": "2026-08-24T01:26:00+00:00",
-      "summary": "健康網》孩子「發燒」是什麼病 專家提醒：先想想4事&nbsp;&nbsp;自由健康網家長快看！一張表秒懂新冠、流感與腸病毒症狀差異&nbsp;&nbsp;東森新聞",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yZlhQTTNib185SXlkUkRoWWlrSGNDbkI5blVNRDdXbzcwTFU1ZzEzSEtVVU1uaHFLa2NqUVBqN2NJTzRMTFlhd243Z0VyajdfRFNsYVRUUnh2NFR4d0RXYmE3R2w?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4b7ac0bf524d",
       "title": "HIV新增感染降至879人，為什麼現在反而不能停？ - peopo.org",
       "published": "2026-08-23T01:09:00+00:00",
@@ -48,6 +36,18 @@
         {
           "name": "peopo.org",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxUk1WTzRhZjk0YWxuQVR1Wi1ZZ0d5cnpmRDFPaVo3TEhtYWZqVUlDRWtxb2pHVnJWX01FelBNMnBpbzlILXdQeA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ca125f76bdeb",
+      "title": "健康網》孩子「發燒」是什麼病 專家提醒：先想想4事 - 自由健康網",
+      "published": "2026-08-24T01:26:00+00:00",
+      "summary": "健康網》孩子「發燒」是什麼病 專家提醒：先想想4事&nbsp;&nbsp;自由健康網家長快看！一張表秒懂新冠、流感與腸病毒症狀差異&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yZlhQTTNib185SXlkUkRoWWlrSGNDbkI5blVNRDdXbzcwTFU1ZzEzSEtVVU1uaHFLa2NqUVBqN2NJTzRMTFlhd243Z0VyajdfRFNsYVRUUnh2NFR4d0RXYmE3R2w?oc=5"
         }
       ]
     },
@@ -172,18 +172,6 @@
       ]
     },
     {
-      "id": "b0ac1e3943ac",
-      "title": "60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物第一名高纖護血管| 事事如意生活網站 - CCUE",
-      "published": "2026-08-22T22:00:06+00:00",
-      "summary": "60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物第一名高纖護血管| 事事如意生活網站&nbsp;&nbsp;CCUE",
-      "sources": [
-        {
-          "name": "CCUE",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNT0I4OTdHZVkxQ2tuR0ZjT2kybmhpRWFzYnhIX3YzeU50MDVkSkhqNzhZZm1ZQVNTWDV3RG1aaUtpejE5ejZLOXI5SDlsWlpDZ2tTTGtTLWNSanRsUU9UU3k2cXloUkFvc2JlM3NpcnlUS1J2a1NwcVdsU0dnZGVrQS1fSDExYmpyOG9la1AxSnF1QzBvUDYtUERfLUFKU05uVDJ1LWxOS3JGT3QwUHFPellyb21DV2Rud1ZZd3dVemFjRXhJTkllNmtUNEloYVFkeFg5THRnczVRTzNlMkkwa1FaLTMwTHJDblRXVHBzNmNWSlAtcW5hdzdJU0pXaC1tcF9lVE52cHhFM0paN2dSQ1hWTXllYnAzenRLdko0bHFHbVFUWGdTdjBnc2p4RU83NjJZemlPbzIyOG9pbGlzNW1mb3J4WGdwVHliNlZHMURnQ2JGa3c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2122b443d760",
       "title": "怕腦退化伯伯周圍走？ 老人院員工靠「一個大話」秒收服乖乖坐定等「出糧」 同行分享更多暖心絕招｜Juicy叮 - 星島頭條",
       "published": "2026-08-23T02:42:41+00:00",
@@ -192,6 +180,18 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMixwRBVV95cUxNNnhaYVI0WEtPRGc0QXNINzBvWE5QZ1RMalRpZ2wwS0VZUmRzRklUakRLazgzYXZ1YjVwZ2RmTHo4ZVAxZGxiUjZ2d1JRZW93a0xNQmhfSDJxU2JmWGpxZTJfcDhuQ0h1X1F2aUlIcGhhaGhIT0VrRXpoVTBtSXY4SWFGdTN4am1qWG1sNXN6V2JoYTVFWnFsRk1sUEV5RmNBSWZsRWszZTJiQ2lJWmE4X3BBRFJiTWtSaGtJRlM2dVlva25MNDVUVHpjNnd2NWg4RDFfblpZYVpRMG9wbzdJNEMyVFBUM0l2ZldTRlRCNVpFSWduY3ZIcjNrMjFyTFlmUjFQVHZQc2VZTjhtVV9LdGE5UHpZNUxOcGgxLU5OR252czZaY09uZl9KUjAyNnpnRmoxcnBDY1FFTi1QNmZZZGJGWEpTY2ppaWVPOFFKX3ZYV0daSVdTUmFIci1pMkNKWl9KZlAwNkpPWUc4UUo3UjNRVTlxdFZQdS1Hdl9hQXZGSmFRazlZMGM4cnFqV0hBQnhJVEg0ZnF3SDNXMGlWdFpQaTRURUVqMHdlT0pNZTIwMy04eXh1SVZKZzUtZmhGeUxmVG5YSzlqeWJPbmJHSkRPMmVDRDRNWWZrdjNCcldNRm1MVHZzZVcyUm03UVlsQk9HQ0lhS1B3ckZwMFpsZks0ck55WEl3aGlUT2lqRnRXb2pCWHdPeklMb1NLNWRiWE9GTGJnQXEtM2xHeGhwY3FiRGhlSEVjZDNMcEhhU2FwX1E1S0dF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3d065ea5a839",
+      "title": "60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物 第一名高纖護血管 - singtao.ca",
+      "published": "2026-08-23T01:01:47+00:00",
+      "summary": "60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物 第一名高纖護血管&nbsp;&nbsp;singtao.ca",
+      "sources": [
+        {
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxPMksxWGlYVGM0ZS14T3RHMF9OYW42amJKMjR6YmowbGtZaHZZdkFfQlRzendQTkhzUWYyQ2RCOUlOMTM2V0NxdTNpOE9IbG1YQ0l3M3RpeGtRazVoYnM3WnhoU1R5YnZEVkxmUUpxdGFmZVN2VVFIbzlWdnFCd0ZLS2hrOV9FV2kzZHVyaktaN0xTVURTRnY2Nk9ZSG5kMlVhUDJ4cl9PaGVMQ1l0TXRoZFBWS3VCZnJPU0VqcjN0cnNrRFg4NTI4ZlctU1FlWTNoY0s3UTFnbW5YU2JSbndOWHdXX1JlQVQ5T2RtT3BVLWtXZFYxUl9rUlJuMm9rQ0hNLXliMUtJeE5jTHROaHJNbVdzcU90TTI4aUp2bWtXbnJOT0lBZ3NuX0tXQVl1QkczaF9PYVRleUp2QjhxZ1c0QW5SVGVQVkozUTRzVVJkWVM4TVp5TnBtRmo5aENZVHRmM3VBSDdBWkdrYlBNR0VMdm9ZTjg3YjB4bi1zSVRHSmREaTFYQWp0MTEzOUpId2YtUHBJWlpNcXl6RDdVaUY0cDk3azNxVzBMdEoyZHdPYVR5Mkp3ZUdLMmh6YjJuT2pob1ltNU80ako3QdIBjwFBVV95cUxPVDBoWGRrWWgyZzRZemNRYW9pdTM5Z1c1WFFxN2Y0SE94TEhWWWRDa1I0TXg0V2dPQURoQVJKa2NvX2luRXpseGRENlJzWVVxaGh5QWJBeW5heVVUVlkxRnluUFhRcnNLUUxSWmpBSmhCVktJMk5zRHJfSTU4QmVvNVp6U3dEekRUb1ExaFEyVQ?oc=5"
         }
       ]
     }
