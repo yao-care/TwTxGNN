@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-24T02:17:00.634728+00:00",
-  "count": 20,
+  "fetched_at": "2026-08-24T03:45:05.704050+00:00",
+  "count": 19,
   "news": [
     {
       "id": "1ee7c229f46c",
@@ -172,18 +172,6 @@
       ]
     },
     {
-      "id": "6f6fa0c0dfb4",
-      "title": "夜騎遭蝙蝠迎面撞頭盔 青島女子停車驚見已死亡 憂狂犬病風險即求醫 - bastillepost.com",
-      "published": "2026-08-23T22:30:48+00:00",
-      "summary": "夜騎遭蝙蝠迎面撞頭盔 青島女子停車驚見已死亡 憂狂犬病風險即求醫&nbsp;&nbsp;bastillepost.com",
-      "sources": [
-        {
-          "name": "bastillepost.com",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQLUhzeUs5aURRWkRPZjZyR29qdm41UG5rWWRwODVwUG9LbUtqNTlnRFhEZlRjcWVQTGJOSUwzR3VBN1B5Y00wWFlXbHdMcjBQWHRZRjBXTXRmOFlkOTlRNVVicmtCRHFRZFhSSUhjdHpnN3lCUnltR0R3cEY5YUNBaGMtOURwWGZkc1loVWFqcVA5TFk4NzNTVWRhLUlUNEZKLTQ4azFBZjRjTGRMZkk0cFFjV0dnMjgzc2xkQ1FTNXlhSUpickROWDdLNGh2bUFEZUxNek1hYUVneUQwMDlCLWFDSkNhRGVyZEtlN2NHZVJtYWlGbHVoZXRIaS1ldnVDNlpIdm1EOFVZWmVBc0hRb19rc0h4aE94WU9VTXVpZURLNU9qTzhSS09nYzVIV2dteklkbjNFb2prZFFTaWJQMUJJaER6THF2b3BXQWx2dGE1b0hwZy1MNGJWVDh4Q0o0SkZ2aUdkS3EzMkt1SllZ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b0ac1e3943ac",
       "title": "60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物第一名高纖護血管| 事事如意生活網站 - CCUE",
       "published": "2026-08-22T22:00:06+00:00",
@@ -208,18 +196,6 @@
       ]
     },
     {
-      "id": "aff4b736e0a6",
-      "title": "喝茶能護骨 咖啡別過量？十年研究揭關鍵 - 大纪元",
-      "published": "2026-08-22T07:00:00+00:00",
-      "summary": "喝茶能護骨 咖啡別過量？十年研究揭關鍵&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RTDVyaFhlVGxFYzlGZVUtSmZ4MmFsSElhODFBWXRWRGM0aW5QTEphSkpSWE10Vm5jVExXMTVwM21scC1xdUJmR19nbWVWeHRtR1JNZ0h2V2NjLTYzaW94QtIBZkFVX3lxTE4xNUFOd292SGJMOUhSeDFIWlZSQXhwMjd5aVVLbFJsTVFmdVhRSlM4RnZHUkYyM3JLM0JtVFd0WVpKelVZbV9hODJVUGZTTDJ3dnlZc2trYlNTd0ttRm1mN2xDMG9Qdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f0b254693163",
       "title": "聞玫瑰精油可防腦退化、穩定情緒？ 日本研究：嗅覺刺激助醒腦 晚上做多一步更有效 - singtao.ca",
       "published": "2026-08-22T12:45:00+00:00",
@@ -228,6 +204,18 @@
         {
           "name": "singtao.ca",
           "link": "https://news.google.com/rss/articles/CBMimwRBVV95cUxPT05nTm1hMF9YMlFPaExGVnVHa2preUpwX01BYXBOWmhCb0VCdmc0cFN3QU50dURJNjdfQk5xdUVGdEJCeUZockk4VWlpYnJfX3JXOG45ZnItMjhqYmpkTHVnZ3dsdjJjanhuWFMyYVJ0ZDBiWEluZy1wYW40X2V0bV93dnRRZnNpS05EeGZKOGZRNUxfVnF6TXpkcVB6bGMtdURmdF9JQ3ZhTGFyZHcwekNHMURVV2RsS09XYzJQVkQ5dVNDM01HMFN2VkI2Ukc4UmNvLXNkYWlBNUx0UjMtU1c1bjNWR0ZYeWFMTGEyd3dZMlVIOHh2YzE1RHV5YVlDZGdiMGRvaGNGd05VTURXTDljbERTUXFfTTJualJNaHdBald2RktrSGRQOTZNQ1J3bTJua0dxVVYwM3hQbjJpRHBqV1YtWVhURlhHZTRvNGJOYnp4Qm5DV3ZsOVlsQkphVUh5anQySnJ6TkZsQ0dLVDFJekVOck1WN2tzcTAzTDkyT3RCaGVsSzZqcFdEa0lxR2ZaNGRrUDRUUnMtaGg3NXlCdktYdmZYUlJNRUhyWUV5WmZsTlhfT0pQYm1XLVBfRi1lc0k5N2JFdVJQQi1ucnlKcmJDRmktM291YTlvSzZmaGVRVVF1ZTF3M1I1VExkbDFBRzNnUmhXR19hakpWbVVqd0gxdjIxZzA1b1hHendNckdXNkF5YzFld9IBjwFBVV95cUxPbl9NY3cwS0N0RGV5ZDFwdEtPR3poeHliR1pnOFJfLU11LURJMVpsUnRoNjBoblRZNWpBZl96MnJ2WWhIa1M5UkR3MUxhUTBKY1A5cl84RXZxMF9od3pfV05Dd1VJeVk3NVZYaF83NHNQbGd1YjRpWm9hbVBBSFRMTkxBS1hmU0dmeGJxYmt2aw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aff4b736e0a6",
+      "title": "喝茶能護骨 咖啡別過量？十年研究揭關鍵 - 大纪元",
+      "published": "2026-08-22T07:00:00+00:00",
+      "summary": "喝茶能護骨 咖啡別過量？十年研究揭關鍵&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RTDVyaFhlVGxFYzlGZVUtSmZ4MmFsSElhODFBWXRWRGM0aW5QTEphSkpSWE10Vm5jVExXMTVwM21scC1xdUJmR19nbWVWeHRtR1JNZ0h2V2NjLTYzaW94QtIBZkFVX3lxTE4xNUFOd292SGJMOUhSeDFIWlZSQXhwMjd5aVVLbFJsTVFmdVhRSlM4RnZHUkYyM3JLM0JtVFd0WVpKelVZbV9hODJVUGZTTDJ3dnlZc2trYlNTd0ttRm1mN2xDMG9Qdw?oc=5"
         }
       ]
     },
