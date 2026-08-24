@@ -14,7 +14,7 @@ permalink: /news/lornoxicam/
 ---
 
 <p class="key-answer" data-question="Lornoxicam 有什麼相關新聞？">
-<strong>Lornoxicam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lornoxicam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/lornoxicam/
 <ul>
 <li><strong>證據等級</strong>：L3</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">rheumatoid arthritis（99.9%）<span class="indication-tag">📰 關節炎</span></li>
+<li>rheumatoid arthritis（99.9%）</li>
 <li>migraine with or without aura, susceptibility to（99.9%）</li>
 <li>migraine disorder（99.9%）</li>
 <li>migraine with brainstem aura（99.8%）</li>
@@ -41,15 +41,9 @@ permalink: /news/lornoxicam/
 <p><a href="{{ '/drugs/lornoxicam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxPOHRISWd4cGpQckFGckU1cUVtTjhtUHJ6azRzVG05N1NPNUQ4MlhqdWhidTQtNjFTcGFpNVJLbDRZX3Z0Vy11WDFjUW5WTE5FOERXaE83RE1zMXEyQlBYTExyOXB2NFBOejRhRWtyUFFYNDlCcjMwYlFKZjRXVllOLU91eUVnSHFiaktGeGw0cUZhS0E?oc=5)
-
-2026-08-24 <span class="news-indication-tag">關節炎</span>
-
-來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxPOHRISWd4cGpQckFGckU1cUVtTjhtUHJ6azRzVG05N1NPNUQ4MlhqdWhidTQtNjFTcGFpNVJLbDRZX3Z0Vy11WDFjUW5WTE5FOERXaE83RE1zMXEyQlBYTExyOXB2NFBOejRhRWtyUFFYNDlCcjMwYlFKZjRXVllOLU91eUVnSHFiaktGeGw0cUZhS0E?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
