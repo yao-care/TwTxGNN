@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-24T19:21:36.789771+00:00",
-  "count": 17,
+  "fetched_at": "2026-08-24T20:18:57.089474+00:00",
+  "count": 16,
   "news": [
     {
       "id": "2d9ff3a5bb56",
@@ -160,18 +160,6 @@
       ]
     },
     {
-      "id": "b0ac1e3943ac",
-      "title": "60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物第一名高纖護血管| 事事如意生活網站 - CCUE",
-      "published": "2026-08-22T22:00:06+00:00",
-      "summary": "60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物第一名高纖護血管| 事事如意生活網站&nbsp;&nbsp;CCUE",
-      "sources": [
-        {
-          "name": "CCUE",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNT0I4OTdHZVkxQ2tuR0ZjT2kybmhpRWFzYnhIX3YzeU50MDVkSkhqNzhZZm1ZQVNTWDV3RG1aaUtpejE5ejZLOXI5SDlsWlpDZ2tTTGtTLWNSanRsUU9UU3k2cXloUkFvc2JlM3NpcnlUS1J2a1NwcVdsU0dnZGVrQS1fSDExYmpyOG9la1AxSnF1QzBvUDYtUERfLUFKU05uVDJ1LWxOS3JGT3QwUHFPellyb21DV2Rud1ZZd3dVemFjRXhJTkllNmtUNEloYVFkeFg5THRnczVRTzNlMkkwa1FaLTMwTHJDblRXVHBzNmNWSlAtcW5hdzdJU0pXaC1tcF9lVE52cHhFM0paN2dSQ1hWTXllYnAzenRLdko0bHFHbVFUWGdTdjBnc2p4RU83NjJZemlPbzIyOG9pbGlzNW1mb3J4WGdwVHliNlZHMURnQ2JGa3c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3d83cbba1e87",
       "title": "男子住酒店赤腳沖涼竟染HPV！ 腳底生疣恐怖擴散 專家教3招防中招 - UHK 港生活",
       "published": "2026-08-24T16:00:00+00:00",
@@ -184,6 +172,18 @@
       ]
     },
     {
+      "id": "b0ac1e3943ac",
+      "title": "60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物第一名高纖護血管| 事事如意生活網站 - CCUE",
+      "published": "2026-08-22T22:00:06+00:00",
+      "summary": "60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物第一名高纖護血管| 事事如意生活網站&nbsp;&nbsp;CCUE",
+      "sources": [
+        {
+          "name": "CCUE",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNT0I4OTdHZVkxQ2tuR0ZjT2kybmhpRWFzYnhIX3YzeU50MDVkSkhqNzhZZm1ZQVNTWDV3RG1aaUtpejE5ejZLOXI5SDlsWlpDZ2tTTGtTLWNSanRsUU9UU3k2cXloUkFvc2JlM3NpcnlUS1J2a1NwcVdsU0dnZGVrQS1fSDExYmpyOG9la1AxSnF1QzBvUDYtUERfLUFKU05uVDJ1LWxOS3JGT3QwUHFPellyb21DV2Rud1ZZd3dVemFjRXhJTkllNmtUNEloYVFkeFg5THRnczVRTzNlMkkwa1FaLTMwTHJDblRXVHBzNmNWSlAtcW5hdzdJU0pXaC1tcF9lVE52cHhFM0paN2dSQ1hWTXllYnAzenRLdko0bHFHbVFUWGdTdjBnc2p4RU83NjJZemlPbzIyOG9pbGlzNW1mb3J4WGdwVHliNlZHMURnQ2JGa3c?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2122b443d760",
       "title": "怕腦退化伯伯周圍走？ 老人院員工靠「一個大話」秒收服乖乖坐定等「出糧」 同行分享更多暖心絕招｜Juicy叮 - 星島頭條",
       "published": "2026-08-23T02:42:41+00:00",
@@ -192,18 +192,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMixwRBVV95cUxNNnhaYVI0WEtPRGc0QXNINzBvWE5QZ1RMalRpZ2wwS0VZUmRzRklUakRLazgzYXZ1YjVwZ2RmTHo4ZVAxZGxiUjZ2d1JRZW93a0xNQmhfSDJxU2JmWGpxZTJfcDhuQ0h1X1F2aUlIcGhhaGhIT0VrRXpoVTBtSXY4SWFGdTN4am1qWG1sNXN6V2JoYTVFWnFsRk1sUEV5RmNBSWZsRWszZTJiQ2lJWmE4X3BBRFJiTWtSaGtJRlM2dVlva25MNDVUVHpjNnd2NWg4RDFfblpZYVpRMG9wbzdJNEMyVFBUM0l2ZldTRlRCNVpFSWduY3ZIcjNrMjFyTFlmUjFQVHZQc2VZTjhtVV9LdGE5UHpZNUxOcGgxLU5OR252czZaY09uZl9KUjAyNnpnRmoxcnBDY1FFTi1QNmZZZGJGWEpTY2ppaWVPOFFKX3ZYV0daSVdTUmFIci1pMkNKWl9KZlAwNkpPWUc4UUo3UjNRVTlxdFZQdS1Hdl9hQXZGSmFRazlZMGM4cnFqV0hBQnhJVEg0ZnF3SDNXMGlWdFpQaTRURUVqMHdlT0pNZTIwMy04eXh1SVZKZzUtZmhGeUxmVG5YSzlqeWJPbmJHSkRPMmVDRDRNWWZrdjNCcldNRm1MVHZzZVcyUm03UVlsQk9HQ0lhS1B3ckZwMFpsZks0ck55WEl3aGlUT2lqRnRXb2pCWHdPeklMb1NLNWRiWE9GTGJnQXEtM2xHeGhwY3FiRGhlSEVjZDNMcEhhU2FwX1E1S0dF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8bdaeed3b874",
-      "title": "孩子過動症吃藥沒用？三個常見原因 - 大纪元",
-      "published": "2026-08-22T19:00:00+00:00",
-      "summary": "孩子過動症吃藥沒用？三個常見原因&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04QUM1N3p3TFdYd2tILTRXLTJtMkVVclJfMGRhZGJmbC1XcWpaS09uLTBJdm5nSkFiVTJIaDdsOW9rS3c5TUhEM1R2Qm1vRVhCYjlISkdVOU55dVRZUzdZ0gFkQVVfeXFMTTBfNkExMno5bzUxTy1ndkJPYXNSYW4waHM5bEpPOG93SnAyZWs2aU1NLWUwbVZRR1BndWhtLVJTTkFJWkpLRGcwS3JKSXNadjY3ZVhQX004dWV6WmpuSTA2OWg3SQ?oc=5"
         }
       ]
     }
