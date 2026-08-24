@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-24T15:29:15.223140+00:00",
-  "count": 16,
+  "fetched_at": "2026-08-24T16:24:17.829550+00:00",
+  "count": 18,
   "news": [
+    {
+      "id": "2d9ff3a5bb56",
+      "title": "剴剴案翻版！桃園惡保母虐打6月嬰致死不認罪 一審判8年半！二審今宣判 - 壹蘋新聞網",
+      "published": "2026-08-24T16:05:00+00:00",
+      "summary": "剴剴案翻版！桃園惡保母虐打6月嬰致死不認罪 一審判8年半！二審今宣判&nbsp;&nbsp;壹蘋新聞網",
+      "sources": [
+        {
+          "name": "壹蘋新聞網",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MZTNPOHd0TlJwTWVsbVdGOFFNRjFwLUdkYUdGUkpZcE1fTnFtclB5RjR0NVpockM1eDN2RGdBWWJZOWV6blBQR0dVY1N1OUYzaENOd0pVamJYbVRYbkJRMzBOd0J6ZVpOZzdYRl9OaUJNbHh6U2xqZDYtenRBVjQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "ca125f76bdeb",
       "title": "健康網》孩子「發燒」是什麼病 專家提醒：先想想4事 - 自由健康網",
@@ -16,18 +28,6 @@
       ]
     },
     {
-      "id": "1ee7c229f46c",
-      "title": "呼吸道疾病不只冬天要防！做好健康管理，從了解自己的疫苗需求開始｜HEHO 疫苗評估小工具 - Heho健康",
-      "published": "2026-08-24T02:00:00+00:00",
-      "summary": "呼吸道疾病不只冬天要防！做好健康管理，從了解自己的疫苗需求開始｜HEHO 疫苗評估小工具&nbsp;&nbsp;Heho健康",
-      "sources": [
-        {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xZnFLb0xfVjB5VmFxcWloOWFKV2dPaFZ3MzIxWmVZaDRqYjdTb0xqYUxDZHFqWWJ1RUJPblBVdy1LOXJwZDkyUmJmOA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4b7ac0bf524d",
       "title": "HIV新增感染降至879人，為什麼現在反而不能停？ - peopo.org",
       "published": "2026-08-23T01:09:00+00:00",
@@ -36,6 +36,18 @@
         {
           "name": "peopo.org",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxUk1WTzRhZjk0YWxuQVR1Wi1ZZ0d5cnpmRDFPaVo3TEhtYWZqVUlDRWtxb2pHVnJWX01FelBNMnBpbzlILXdQeA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1ee7c229f46c",
+      "title": "呼吸道疾病不只冬天要防！做好健康管理，從了解自己的疫苗需求開始｜HEHO 疫苗評估小工具 - Heho健康",
+      "published": "2026-08-24T02:00:00+00:00",
+      "summary": "呼吸道疾病不只冬天要防！做好健康管理，從了解自己的疫苗需求開始｜HEHO 疫苗評估小工具&nbsp;&nbsp;Heho健康",
+      "sources": [
+        {
+          "name": "Heho健康",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xZnFLb0xfVjB5VmFxcWloOWFKV2dPaFZ3MzIxWmVZaDRqYjdTb0xqYUxDZHFqWWJ1RUJPblBVdy1LOXJwZDkyUmJmOA?oc=5"
         }
       ]
     },
@@ -168,6 +180,18 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQczBpZTlhUVpDY0NnenZ0RHY0Q0QydE9PUzRCRGlBRThtWFcycnlKUnRXeHo3TzZJbjhtTmhhbmdpaVI4VDU4MkxzdlRSUk8xVzRxUUk0cWhnbGZLb29iOTRNMXUweWZKdjBUZVlwUEN3UWJObjFuYndnd1liOTBMSThvZ0Vzb1RYV0FtSG1KV2FzNERCZ3BRZ0FWUTV5dUZKUGs0TFJvd043WGdCb3VYZ2pTX3ZSbTc0V2hRMzZsVlk4SzU1RFZPWTRvQjd1ZGMtT21MSDJYRkh4OEhIZ1cwR00yZ1JQOExla3hWVVN4SkU1TnFPYUdtb3B2VVJwX0xwekxITlF5Q01jbHN2Q1VwdElDa1N0VC1nZEY4enJZU3NBODZyazJyMUxBTkh3V3JyaFVtM3FrbXJLWENXcjZlZmg3T3BLVXJaQUxXeW1HZGs3RF9IM0R3XzNuN0pQZkdSV1ZEWXIzay1peDdHN2ZNRTFseDhrTnJENFZDTFowOU5hcGJ1amVxMFkyNEQ5WldvaXVkLW9VQjAyQXlqZzlvcFpsdm9LUlBJLVFGMG1rWTdfbFZWbnlVUnBoMWpWVnpwR05EUFRYeXVKSnRyd0VZUXh5SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3d83cbba1e87",
+      "title": "男子住酒店赤腳沖涼竟染HPV！ 腳底生疣恐怖擴散 專家教3招防中招 - UHK 港生活",
+      "published": "2026-08-24T16:00:00+00:00",
+      "summary": "男子住酒店赤腳沖涼竟染HPV！ 腳底生疣恐怖擴散 專家教3招防中招&nbsp;&nbsp;UHK 港生活",
+      "sources": [
+        {
+          "name": "UHK 港生活",
+          "link": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxPa1ZPMWdTOWRBbXNYUkhXUXB1bE9lVV84UXVQSGNPbkVOWmFiTlh1UmlNYTZBZXN5eG9FUnh0dXZCMUc5cUdoSmFjVUNJa3F0XzlfQjlQMDVWYXdPTWd3UEdBTXdFRzk2TlBVdjFUVUlCR1A2UVBaTUdoZk41RHhObDBQaFlzYkU2ZTVfMVV0aVJreFhlajRzN3VxM2tjOUhCZFF3UFpvQ2pmcVR3REp0dlpYZzNVMVdhVzJhU0YtUEY3b2xNeVBiQkh5S1NxeG5ycnY3U2NmQ3EtdGFvQWp0eFlxMXdRQjJuVTltc1BwelVIdWVrUkZzazVxemVHRVR4TkIxSlBmOWF1dmpKTzZwLV9rY3hqWHJkdS05eHJWcnVUM2hUUFhCbmE0OGpYUEV3NFFzVGo5RU1Kb0tncEpsdndDQk9LSnJSNGpQWXdSbEdEU3dBTmFoX2d5ZjFHalM0dDVJWDNoUWZiYUYtOWMtdDMyV1RiT1M3Z2RqMHdtb25lN0xRR0J3aHppWXdvYVdWNDBvdGxQUkRhVVF1NU5pTGdDZENraUU4cjVwYWRwbm1TUENmV0NjTE9yVGpoWnRMWnB0cXEzVGhMazRiZThMWDAwYU1iQjF0ZGVUbkQ0ZTRpLU1PaDF5MWZIUnIwemRNQlM5LU92UU0tSWhDb2VoNFF6UDc2ZTYyVGdYUmFRdkY2bmREUWo1bkRaYzRxcy1IR29UYTI1NWVPeVpFcjZETlMyMDBqVmFxTmIwQkRUVXV2ak9EN0RGYjI2US1LQWtsZzNuWlBOb2h6RHI5UTRUa1NXNE5PcGs4bXBOQllEaGk?oc=5"
         }
       ]
     },
