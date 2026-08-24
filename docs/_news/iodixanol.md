@@ -37,11 +37,11 @@ permalink: /news/iodixanol/
 
 ## 相關新聞（1 則）
 
-### [常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wREtpMU9SV1dGbnkxWHVrYnNJMDZKXzBfSDhfRGhfcmZ4S3BURG5WemFzbHQ2WGg5X2tUY1Bkd3ZpSnhEYU1QX0FPeW1kYTRIVGc?oc=5)
+### [常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxPOHRISWd4cGpQckFGckU1cUVtTjhtUHJ6azRzVG05N1NPNUQ4MlhqdWhidTQtNjFTcGFpNVJLbDRZX3Z0Vy11WDFjUW5WTE5FOERXaE83RE1zMXEyQlBYTExyOXB2NFBOejRhRWtyUFFYNDlCcjMwYlFKZjRXVllOLU91eUVnSHFiaktGeGw0cUZhS0E?oc=5)
 
 2026-08-24 <span class="news-indication-tag">關節炎</span>
 
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wREtpMU9SV1dGbnkxWHVrYnNJMDZKXzBfSDhfRGhfcmZ4S3BURG5WemFzbHQ2WGg5X2tUY1Bkd3ZpSnhEYU1QX0FPeW1kYTRIVGc?oc=5)
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxPOHRISWd4cGpQckFGckU1cUVtTjhtUHJ6azRzVG05N1NPNUQ4MlhqdWhidTQtNjFTcGFpNVJLbDRZX3Z0Vy11WDFjUW5WTE5FOERXaE83RE1zMXEyQlBYTExyOXB2NFBOejRhRWtyUFFYNDlCcjMwYlFKZjRXVllOLU91eUVnSHFiaktGeGw0cUZhS0E?oc=5)
 
 ---
 
