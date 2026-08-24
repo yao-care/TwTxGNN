@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-24T04:35:38.128749+00:00",
-  "count": 18,
+  "fetched_at": "2026-08-24T05:30:22.376411+00:00",
+  "count": 19,
   "news": [
+    {
+      "id": "6ed40b657b66",
+      "title": "四肢無力、筷子拿不穩當心是自體免疫攻擊神經 醫解析罕病CIDP治療 - 健康醫療網",
+      "published": "2026-08-24T05:00:00+00:00",
+      "summary": "四肢無力、筷子拿不穩當心是自體免疫攻擊神經 醫解析罕病CIDP治療&nbsp;&nbsp;健康醫療網",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FVnhRdjJZV3Z6ODZINlBWaXJRN2dPX2ZFZFpfSG11R0hwTGoza0IwMkdEVXhYMHNYdnR4TWp1R3ZoMlJuUDFORnhIcjVGS3gwcmc3NG13?oc=5"
+        }
+      ]
+    },
     {
       "id": "1ee7c229f46c",
       "title": "呼吸道疾病不只冬天要防！做好健康管理，從了解自己的疫苗需求開始｜HEHO 疫苗評估小工具 - Heho健康",
