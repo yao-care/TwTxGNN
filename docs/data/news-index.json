@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-25T14:34:44.636902+00:00",
+  "generated": "2026-08-25T15:33:46.599005+00:00",
   "count": 3,
   "news": [
     {
       "id": "7cac4b49b6b9",
       "title": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 | 科技新報 - LINE TODAY",
-      "published": "2026-08-25T08:33:56+00:00",
+      "published": "2026-08-25T09:33:56+00:00",
       "sources": [
         {
           "name": "LINE TODAY",
@@ -247,24 +247,36 @@
       ]
     },
     {
-      "id": "7422e902448c",
-      "title": "桃子削皮後放雪櫃隔夜吃 蘇州男一天腹瀉十餘次引發急性腎損傷",
-      "published": "2026-08-24T08:25:02+00:00",
+      "id": "df3aa7bec7f1",
+      "title": "常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位",
+      "published": "2026-08-25T05:00:35+00:00",
       "sources": [
         {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNdlg3RmpRaTE3S3ZYUXZqejVyU0FEUUc2UHJySFJ1QU5kR01HTF92eV80UW96bFVpaXU4TVYxVVFSZ01yOENoQ0FxeWtEYWF4QW1NaVIxSkU0VG5wXzdDa2tYYWFtQjJwU0J5b3Y4dDF0NjVoZ183NXpNbHpRX2NHVEFZb2RUMGFRczh4d3JtRUozbnNTYWM4TUlWN2xOLV94UUtZUHN1b1A2SHdsSUg2dndmRDRCblVXbGF5QVZmY0hHZ0JrTndWcDBHeFJ6OHhpbFo5M2h1a3Zlc3NydFpMbEFqR0h1NmdtRHJQcW5NMERHYV83Z0VQSVk4SDFuYzgySmVLWEt0cW5JOEJiSlpQSTE5allkczViQXZ2NVNhd1BnMmNyRWotOGowa2NMRjZBNllJZzZxenNqd085bG9aVER6Xy1aS3dLWEp6V0htSVg3ekxLMy1NSWpubzl5Qmh1QzBNY2gwdW5NdkFpRW1jNm1qNlFRNEQteGd4d3pjR0V0c3QwZ0xCNVJpeGZfcFBSQlVWNkVuNm1nV1NpVGN0MEx1M2xURW1oZ0s1U183MHM?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vekliQVg0aUpVTDdqNTdwRG1aaFd6aG5QbTdiaTdncWExRUFXU0xNMFdudTBJWTQ1OS1jZjFyV0tMcWMwVTZfdnV1cExPeTlZS3VwQTFBaXpGSVNf0gFiQVVfeXFMTXJIdF95QmlnZmotZ0dWejdmQ1hpdU1lWXl5RFVKOFVHaWwtS1J5b2p4N1lDdlMtbnEyLXMwSEVfRVN5UTd1eHFvMDJDRVpNUXoyRkVZelhqUm45a0QyUVF3SVE?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "腹瀉",
-          "keyword": "腹瀉",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
           "related_drugs": [
             {
-              "slug": "berberine",
-              "name": "Berberine"
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
             }
           ]
         }

@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-08-25T14:34:44.606895+00:00",
-  "total_count": 18,
+  "last_updated": "2026-08-25T15:33:46.582290+00:00",
+  "total_count": 20,
   "matched_count": 3,
   "news": [
+    {
+      "id": "1fac2c0967fa",
+      "title": "控糖別只算碳水！肉桂與薑先改變腸道菌",
+      "published": "2026-08-25T15:00:00+00:00",
+      "summary": "控糖別只算碳水！肉桂與薑先改變腸道菌&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yZ09FNnJhQXo0TkpLMmNXaWItWDc3b1JnMXJnYUZRUXFRVzhIcEZraHYzVWhqSmE0YWlrUk1PU1NpYjV3UWFjZ0NkQVAxNmNVd3lZWDJEb1pxNGlQZ01CWtIBZkFVX3lxTFBodmU4REtaZ2lUM1pMREhBTVc3OVhvblZHc1UwZm9wak02TE5HeThta2FQUFVvNHdOZmV5dWFDaTNyQVBCRkh1OW5JQ1EtYXhPQjVqVGZWdElCYjFkSGZ6bkdsZHo3Zw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "59e6233dfccd",
+      "title": "🎙️陽性蚊群激增、罕見病毒現身 紐約防蚊更要防蜱蟲",
+      "published": "2026-08-25T13:00:19+00:00",
+      "summary": "🎙️陽性蚊群激增、罕見病毒現身 紐約防蚊更要防蜱蟲&nbsp;&nbsp;世界新聞網洛縣西尼羅病毒首例亡 加州疫情5年來最嚴峻&nbsp;&nbsp;世界新聞網衛生局19日南布碌崙噴藥滅蚊&nbsp;&nbsp;Singtaousa加州西尼羅病3人死亡創5年新高- 美國要聞- 新聞&nbsp;&nbsp;華人今日網紐約爆今年首例人類感染西尼羅病毒&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBURkVnSzA0RGhSdEttLVNRSi1NbzB4ZUZja1ZWM2tMSXVxUENyNmplWUZzYmJwVFlHdHNtT1NWMWRxUGxzS3JzeVkwX2RYd3NXSHNyMGpnOS1JUXhPb1J5WHp30gFnQVVfeXFMTmJ0WnI3SldDR3ViN01KSnlOb1JwYjhFN0NMUjNickJlRTJnMUNOeW5OR2lLczJDY2lpTGk1cEpKOGpqcmhzT3pJLWRDOUZDREhMT1RRNzFRQkZHRUNud3lxeXNxUGhwcw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "3fa213598f51",
       "title": "湖北女子使用公用瑜伽墊後感染HPV引發扁平疣 醫生提醒多種公共物品存風險",
@@ -30,22 +56,9 @@
       "matched_keywords": []
     },
     {
-      "id": "a8608abfacf9",
-      "title": "改善腸胃健康的8款「最佳早餐」推薦！告別消化不良，從每日第一餐養出好膚質與免疫力 - Vogue Taiwan",
-      "published": "2026-08-25T09:13:48+00:00",
-      "summary": "改善腸胃健康的8款「最佳早餐」推薦！告別消化不良，從每日第一餐養出好膚質與免疫力&nbsp;&nbsp;Vogue Taiwan",
-      "sources": [
-        {
-          "name": "Vogue Taiwan",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zOUpCT2RYSE5GOHZhOUZ3QjlLX0JXbm45Y0tteFU1d0pXV2dQOUNSbk43VkdYWHRKSGJxd3RlalR0Qmg5ckE2RkFEal9oZU9ZamJUT3p1UjF6ZVo5RXhWbi1NY2F5QktRYlN5MlNPaXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "7cac4b49b6b9",
       "title": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 | 科技新報 - LINE TODAY",
-      "published": "2026-08-25T08:33:56+00:00",
+      "published": "2026-08-25T09:33:56+00:00",
       "summary": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -78,6 +91,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "a8608abfacf9",
+      "title": "改善腸胃健康的8款「最佳早餐」推薦！告別消化不良，從每日第一餐養出好膚質與免疫力 - Vogue Taiwan",
+      "published": "2026-08-25T09:13:48+00:00",
+      "summary": "改善腸胃健康的8款「最佳早餐」推薦！告別消化不良，從每日第一餐養出好膚質與免疫力&nbsp;&nbsp;Vogue Taiwan",
+      "sources": [
+        {
+          "name": "Vogue Taiwan",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zOUpCT2RYSE5GOHZhOUZ3QjlLX0JXbm45Y0tteFU1d0pXV2dQOUNSbk43VkdYWHRKSGJxd3RlalR0Qmg5ckE2RkFEal9oZU9ZamJUT3p1UjF6ZVo5RXhWbi1NY2F5QktRYlN5MlNPaXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "90df24535567",
@@ -302,6 +328,43 @@
       ]
     },
     {
+      "id": "df3aa7bec7f1",
+      "title": "常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位",
+      "published": "2026-08-25T05:00:35+00:00",
+      "summary": "常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vekliQVg0aUpVTDdqNTdwRG1aaFd6aG5QbTdiaTdncWExRUFXU0xNMFdudTBJWTQ1OS1jZjFyV0tMcWMwVTZfdnV1cExPeTlZS3VwQTFBaXpGSVNf0gFiQVVfeXFMTXJIdF95QmlnZmotZ0dWejdmQ1hpdU1lWXl5RFVKOFVHaWwtS1J5b2p4N1lDdlMtbnEyLXMwSEVfRVN5UTd1eHFvMDJDRVpNUXoyRkVZelhqUm45a0QyUVF3SVE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "3209b3706e28",
       "title": "抵禦酷暑不再僅限淺色，科學家開發比白布更涼的散熱紫色布料 - TechNews 科技新報",
       "published": "2026-08-25T04:59:55+00:00",
@@ -354,13 +417,13 @@
       "matched_keywords": []
     },
     {
-      "id": "01a57422d2ed",
+      "id": "f97d0999dd9f",
       "title": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號",
       "published": "2026-08-24T22:40:03+00:00",
-      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;bastillepost.com",
+      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPbjV5cTdqZjN5d0VGTXlOdEstVmtWZGlydzIxMXJ3TGh6cWwtdEw3eGVXdWh6ZnJkNlRVaG1mQmY5ME56by05S0FNclEwNU1OMDVOWUNMbWUyVzc5MFBRMHlKX3JEeE04NEVwd2RmdUc3NGJoa0I2NEo1SVhDRE9qdHdZSnpOOHdQWkh6QWFseU5GZERLdldUSG1ZMW1PTWRIY0xCLUpvSURSNkJQLXdhSjZPZC1NY05QamMzMGozNWFTLUNKS2pKMl92RkVaMnA0RWRUTWFHRmRZQTAzN1B0d2VOWFBaUjJMcmNvWmI0ZldZT043dUlLYkRsV3RiR2tWSng3TFRvMnppYzN1RnR4S3J1czh5X1pQblJPRUs0NzRCQURtSS1WS095TE5QTWVuelZZRjF4UzdSSS10V2V0c00tMlY4VV9KQjlKQlE2N1l2S2ptZjM1Q1FYSEFybENHaVRZUDVGRXkxbVlGeDJJ?oc=5"
         }
       ],
@@ -417,31 +480,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "7422e902448c",
-      "title": "桃子削皮後放雪櫃隔夜吃 蘇州男一天腹瀉十餘次引發急性腎損傷",
-      "published": "2026-08-24T08:25:02+00:00",
-      "summary": "桃子削皮後放雪櫃隔夜吃 蘇州男一天腹瀉十餘次引發急性腎損傷&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNdlg3RmpRaTE3S3ZYUXZqejVyU0FEUUc2UHJySFJ1QU5kR01HTF92eV80UW96bFVpaXU4TVYxVVFSZ01yOENoQ0FxeWtEYWF4QW1NaVIxSkU0VG5wXzdDa2tYYWFtQjJwU0J5b3Y4dDF0NjVoZ183NXpNbHpRX2NHVEFZb2RUMGFRczh4d3JtRUozbnNTYWM4TUlWN2xOLV94UUtZUHN1b1A2SHdsSUg2dndmRDRCblVXbGF5QVZmY0hHZ0JrTndWcDBHeFJ6OHhpbFo5M2h1a3Zlc3NydFpMbEFqR0h1NmdtRHJQcW5NMERHYV83Z0VQSVk4SDFuYzgySmVLWEt0cW5JOEJiSlpQSTE5allkczViQXZ2NVNhd1BnMmNyRWotOGowa2NMRjZBNllJZzZxenNqd085bG9aVER6Xy1aS3dLWEp6V0htSVg3ekxLMy1NSWpubzl5Qmh1QzBNY2gwdW5NdkFpRW1jNm1qNlFRNEQteGd4d3pjR0V0c3QwZ0xCNVJpeGZfcFBSQlVWNkVuNm1nV1NpVGN0MEx1M2xURW1oZ0s1U183MHM?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "腹瀉",
-          "keyword": "腹瀉",
-          "related_drugs": [
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "1ee7c229f46c",
