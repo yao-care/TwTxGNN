@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-08-25T08:31:03.294039+00:00",
+  "last_updated": "2026-08-25T09:25:19.694094+00:00",
   "total_count": 17,
   "matched_count": 3,
   "news": [
+    {
+      "id": "90df24535567",
+      "title": "嬰兒期少吃糖 50歲前罹癌風險低34％！這個時間點很關鍵",
+      "published": "2026-08-25T07:35:00+00:00",
+      "summary": "嬰兒期少吃糖 50歲前罹癌風險低34％！這個時間點很關鍵&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wMU1qMk5PYmNJc2UtcGN1SEZLRnBUSm15TXc4S3kxdko2ME02bmVCRkVYaG92TWpIRlhvZDh6SlFBRXd3MFNyRjRtbmNaUFdHYWhveWl0U0NUZW54REV0UGhPbmM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "7ceae65d6d4b",
       "title": "HPV｜湖北女用公家瑜伽墊周身痕確診「扁平疣」 醫生警示多種高危物品",
@@ -17,27 +30,14 @@
       "matched_keywords": []
     },
     {
-      "id": "a21c0444da65",
-      "title": "嚴重曬傷恐致癌？專家：起水泡都損DNA",
-      "published": "2026-08-25T05:28:31+00:00",
-      "summary": "嚴重曬傷恐致癌？專家：起水泡都損DNA&nbsp;&nbsp;UDN",
+      "id": "edb0036ae7bc",
+      "title": "嚴重曬傷恐致癌？ 專家：起水泡都損DNA",
+      "published": "2026-08-25T04:36:53+00:00",
+      "summary": "嚴重曬傷恐致癌？ 專家：起水泡都損DNA&nbsp;&nbsp;anntw.com",
       "sources": [
         {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UdzljRnpZSzYwdEJsWEtNcFQ2MktNREFqeno1VzllMGQwQ1pScEtMdzJMUVI4U2ZIOU9LWHV4a3FaRWgyT1F4ajFlSkk2aEVFajJKX2VYNTlraWJYaFNRQ2NwMVJPc21sa3dLbmNIcS1MLWtj?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3209b3706e28",
-      "title": "抵禦酷暑不再僅限淺色，科學家開發比白布更涼的散熱紫色布料 - TechNews 科技新報",
-      "published": "2026-08-25T04:59:55+00:00",
-      "summary": "抵禦酷暑不再僅限淺色，科學家開發比白布更涼的散熱紫色布料&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tVXRwUFdmbXJrYkZfSUs1MVhYNGxGWDItWHFXMGp4bjlfSDg3OW1JVWEtVlpkS0dpZ0xUQzhYOUZHMHUyZ1FpX0xlMU1keEUzSkJwaGdTNmVyTTNWUjhxbGQ4NnM?oc=5"
+          "name": "anntw.com",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PbW1veEhfZldlTWRSOHVCOUt3cmM2Mm1UMXVubkxBRlAwVDdwdDZSVWlmLV80Um9qSFUzOUQ3SElCeW5CTXpudXRwbm9ZQ2Q2VE9hMGtxZw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -106,13 +106,13 @@
       "matched_keywords": []
     },
     {
-      "id": "f97d0999dd9f",
+      "id": "01a57422d2ed",
       "title": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號",
       "published": "2026-08-24T22:40:03+00:00",
-      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;巴士的報",
+      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPbjV5cTdqZjN5d0VGTXlOdEstVmtWZGlydzIxMXJ3TGh6cWwtdEw3eGVXdWh6ZnJkNlRVaG1mQmY5ME56by05S0FNclEwNU1OMDVOWUNMbWUyVzc5MFBRMHlKX3JEeE04NEVwd2RmdUc3NGJoa0I2NEo1SVhDRE9qdHdZSnpOOHdQWkh6QWFseU5GZERLdldUSG1ZMW1PTWRIY0xCLUpvSURSNkJQLXdhSjZPZC1NY05QamMzMGozNWFTLUNKS2pKMl92RkVaMnA0RWRUTWFHRmRZQTAzN1B0d2VOWFBaUjJMcmNvWmI0ZldZT043dUlLYkRsV3RiR2tWSng3TFRvMnppYzN1RnR4S3J1czh5X1pQblJPRUs0NzRCQURtSS1WS095TE5QTWVuelZZRjF4UzdSSS10V2V0c00tMlY4VV9KQjlKQlE2N1l2S2ptZjM1Q1FYSEFybENHaVRZUDVGRXkxbVlGeDJJ?oc=5"
         }
       ],
