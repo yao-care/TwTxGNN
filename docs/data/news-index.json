@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-25T02:13:06.913628+00:00",
-  "count": 5,
+  "generated": "2026-08-25T03:40:02.438222+00:00",
+  "count": 4,
   "news": [
     {
       "id": "d4c056a67373",
@@ -57,30 +57,6 @@
             {
               "slug": "berberine",
               "name": "Berberine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d4c5e16a2983",
-      "title": "家長快看！一張表秒懂新冠、流感與腸病毒症狀差異",
-      "published": "2026-08-24T06:46:00+00:00",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGS0VpQ204VTRFcTBidk1qQU8wekpFa2VWc1BRVG9XdFpqamlJT2ZSTFV0Wm9jRUlySTFjMW9IdU9lNi1Wbmg5dUt0OXB2eGFqYlZYeA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }

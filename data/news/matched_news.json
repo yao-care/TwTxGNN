@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-08-25T02:13:06.896977+00:00",
-  "total_count": 19,
-  "matched_count": 5,
+  "last_updated": "2026-08-25T03:40:02.410515+00:00",
+  "total_count": 18,
+  "matched_count": 4,
   "news": [
+    {
+      "id": "917c7951e26b",
+      "title": "女性沒高潮就是性冷感？婦產科醫揭「高潮障礙」判斷關鍵：持續超過6個月才要留意",
+      "published": "2026-08-25T02:49:19+00:00",
+      "summary": "女性沒高潮就是性冷感？婦產科醫揭「高潮障礙」判斷關鍵：持續超過6個月才要留意&nbsp;&nbsp;良醫健康網",
+      "sources": [
+        {
+          "name": "良醫健康網",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBSmU1VjJXOFoyTExRMm5ocFlId0hZTjFITXhET3ZqSjM0REpXUFdUU2JGem5yZzV2TUNIckJxbENiY2lqV0E5bHRPSVBQdWsxVkRwT19GTFZtQWJSbWdyOTJmWG40Z0luZEE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "d4c056a67373",
       "title": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 - TechNews 科技新報",
@@ -54,13 +67,13 @@
       "matched_keywords": []
     },
     {
-      "id": "f97d0999dd9f",
+      "id": "01a57422d2ed",
       "title": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號",
       "published": "2026-08-24T22:40:03+00:00",
-      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;巴士的報",
+      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPbjV5cTdqZjN5d0VGTXlOdEstVmtWZGlydzIxMXJ3TGh6cWwtdEw3eGVXdWh6ZnJkNlRVaG1mQmY5ME56by05S0FNclEwNU1OMDVOWUNMbWUyVzc5MFBRMHlKX3JEeE04NEVwd2RmdUc3NGJoa0I2NEo1SVhDRE9qdHdZSnpOOHdQWkh6QWFseU5GZERLdldUSG1ZMW1PTWRIY0xCLUpvSURSNkJQLXdhSjZPZC1NY05QamMzMGozNWFTLUNKS2pKMl92RkVaMnA0RWRUTWFHRmRZQTAzN1B0d2VOWFBaUjJMcmNvWmI0ZldZT043dUlLYkRsV3RiR2tWSng3TFRvMnppYzN1RnR4S3J1czh5X1pQblJPRUs0NzRCQURtSS1WS095TE5QTWVuelZZRjF4UzdSSS10V2V0c00tMlY4VV9KQjlKQlE2N1l2S2ptZjM1Q1FYSEFybENHaVRZUDVGRXkxbVlGeDJJ?oc=5"
         }
       ],
@@ -144,31 +157,6 @@
       ]
     },
     {
-      "id": "d4c5e16a2983",
-      "title": "家長快看！一張表秒懂新冠、流感與腸病毒症狀差異",
-      "published": "2026-08-24T06:46:00+00:00",
-      "summary": "家長快看！一張表秒懂新冠、流感與腸病毒症狀差異&nbsp;&nbsp;東森新聞健康網》孩子「發燒」是什麼病 專家提醒：先想想4事&nbsp;&nbsp;自由健康網開學倒數「開學症候群」恐上身 兒科醫師教家長陪孩子調整作息&nbsp;&nbsp;波新聞COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂&nbsp;&nbsp;ELLE健康網》孩子得什麼病？醫師這樣下判斷&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGS0VpQ204VTRFcTBidk1qQU8wekpFa2VWc1BRVG9XdFpqamlJT2ZSTFV0Wm9jRUlySTFjMW9IdU9lNi1Wbmg5dUt0OXB2eGFqYlZYeA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "1ee7c229f46c",
       "title": "呼吸道疾病不只冬天要防！做好健康管理，從了解自己的疫苗需求開始｜HEHO 疫苗評估小工具",
       "published": "2026-08-24T02:00:00+00:00",
@@ -177,6 +165,19 @@
         {
           "name": "Heho健康",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xZnFLb0xfVjB5VmFxcWloOWFKV2dPaFZ3MzIxWmVZaDRqYjdTb0xqYUxDZHFqWWJ1RUJPblBVdy1LOXJwZDkyUmJmOA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ca125f76bdeb",
+      "title": "健康網》孩子「發燒」是什麼病 專家提醒：先想想4事",
+      "published": "2026-08-24T01:26:00+00:00",
+      "summary": "健康網》孩子「發燒」是什麼病 專家提醒：先想想4事&nbsp;&nbsp;自由健康網高雄兒科示警開學症候群學童增多 阮綜合醫師自製AI漫畫提醒&nbsp;&nbsp;自由健康網家長快看！一張表秒懂新冠、流感與腸病毒症狀差異&nbsp;&nbsp;東森新聞開學症候群報到！兒科門診肚痛、頭痛增 阮綜合醫提醒流感新冠也進入流行期&nbsp;&nbsp;PChome Online 新聞開學倒數「開學症候群」恐上身 兒科醫師教家長陪孩子調整作息&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yZlhQTTNib185SXlkUkRoWWlrSGNDbkI5blVNRDdXbzcwTFU1ZzEzSEtVVU1uaHFLa2NqUVBqN2NJTzRMTFlhd243Z0VyajdfRFNsYVRUUnh2NFR4d0RXYmE3R2w?oc=5"
         }
       ],
       "matched_keywords": []
@@ -302,32 +303,6 @@
         {
           "name": "人間福報電子報",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hclo1aHA0OXRJeGtWOHZSbUtEZkhxb3FwaF9wSm5mWEVXQmpwZXYwaE1GVi1lWG8zLTNBbEpQSWxsMURDMlFfeEhjMkZRaUwtaWVHWF9TRG9wX213MlN6Zm5pTC1QM0k?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4b7ac0bf524d",
-      "title": "HIV新增感染降至879人，為什麼現在反而不能停？",
-      "published": "2026-08-23T01:09:00+00:00",
-      "summary": "HIV新增感染降至879人，為什麼現在反而不能停？&nbsp;&nbsp;peopo.org",
-      "sources": [
-        {
-          "name": "peopo.org",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxUk1WTzRhZjk0YWxuQVR1Wi1ZZ0d5cnpmRDFPaVo3TEhtYWZqVUlDRWtxb2pHVnJWX01FelBNMnBpbzlILXdQeA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3d065ea5a839",
-      "title": "60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物 第一名高纖護血管",
-      "published": "2026-08-23T01:01:47+00:00",
-      "summary": "60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物 第一名高纖護血管&nbsp;&nbsp;singtao.ca",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxPMksxWGlYVGM0ZS14T3RHMF9OYW42amJKMjR6YmowbGtZaHZZdkFfQlRzendQTkhzUWYyQ2RCOUlOMTM2V0NxdTNpOE9IbG1YQ0l3M3RpeGtRazVoYnM3WnhoU1R5YnZEVkxmUUpxdGFmZVN2VVFIbzlWdnFCd0ZLS2hrOV9FV2kzZHVyaktaN0xTVURTRnY2Nk9ZSG5kMlVhUDJ4cl9PaGVMQ1l0TXRoZFBWS3VCZnJPU0VqcjN0cnNrRFg4NTI4ZlctU1FlWTNoY0s3UTFnbW5YU2JSbndOWHdXX1JlQVQ5T2RtT3BVLWtXZFYxUl9rUlJuMm9rQ0hNLXliMUtJeE5jTHROaHJNbVdzcU90TTI4aUp2bWtXbnJOT0lBZ3NuX0tXQVl1QkczaF9PYVRleUp2QjhxZ1c0QW5SVGVQVkozUTRzVVJkWVM4TVp5TnBtRmo5aENZVHRmM3VBSDdBWkdrYlBNR0VMdm9ZTjg3YjB4bi1zSVRHSmREaTFYQWp0MTEzOUpId2YtUHBJWlpNcXl6RDdVaUY0cDk3azNxVzBMdEoyZHdPYVR5Mkp3ZUdLMmh6YjJuT2pob1ltNU80ako3QdIBjwFBVV95cUxPVDBoWGRrWWgyZzRZemNRYW9pdTM5Z1c1WFFxN2Y0SE94TEhWWWRDa1I0TXg0V2dPQURoQVJKa2NvX2luRXpseGRENlJzWVVxaGh5QWJBeW5heVVUVlkxRnluUFhRcnNLUUxSWmpBSmhCVktJMk5zRHJfSTU4QmVvNVp6U3dEekRUb1ExaFEyVQ?oc=5"
         }
       ],
       "matched_keywords": []
