@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-25T10:21:43.495225+00:00",
-  "count": 4,
+  "generated": "2026-08-25T11:18:05.889261+00:00",
+  "count": 3,
   "news": [
     {
       "id": "885cdd6fbf78",
@@ -265,53 +265,6 @@
             {
               "slug": "berberine",
               "name": "Berberine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1d7403db97d1",
-      "title": "漱口水就可揪出大腸癌？最新研究揭1數據 - 鏡週刊Mirror Media",
-      "published": "2026-08-23T10:03:00+00:00",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zUGRqLWYyV2ZPTnpsTlB3S1VGanloVEFOUHpFbEIxNnBXZnNuelJwdkh3TXNUZDdfak5oVUhWY3Izb0h6Z3BPdTFaZEJTS3dTc0JDbWJIMWxIUXg50gFiQVVfeXFMTkhGcUIzLTNISFBBUlpmbmZ5OUVYcUxZUnYxcldZMExJM3l5NmZrYlNlN1Njc2ZWU2FRRkp3RmVVcDFRa3g0ck94aTRsX1VyTHc3UHVvNEhzMnBodk1KZ0FpS0E?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
