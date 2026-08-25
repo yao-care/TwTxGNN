@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-08-24T23:14:59.291233+00:00",
+  "last_updated": "2026-08-25T00:43:27.210841+00:00",
   "total_count": 18,
   "matched_count": 3,
   "news": [
+    {
+      "id": "3789cf4a0b53",
+      "title": "60歲女子連續兩天吃麻辣燙 腹痛痾嘔送院揭大腸桿菌入血致敗血症",
+      "published": "2026-08-24T23:20:33+00:00",
+      "summary": "60歲女子連續兩天吃麻辣燙 腹痛痾嘔送院揭大腸桿菌入血致敗血症&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOQi1sRS1TenV5cGxaOTJmaTlIcldmeTkwS1lmUktmaTFZdnliVXdyeEs1V2szRXFqaVN6ZVh6VWZRaEdHdDNObG1LU0Z3Sy1ScHczaFBJdVlnT1dZa0lGdklwRzN4alZIWnFTRDlLYm9JRXhwblpQdzBWVHlfTnpvaWdMalNxR0tNYU5xSlFNQU10VnRCMHFOV0VyeEx4aDluY1VOWmFIU3pnVjdNc1VyY3IxajR2U0sxZFA5Q0toRVV0TUdiQWJiNTg5ZUZ3NnBsMGRRSmhnYXo3VE9IUld3UnkwWGxyemRES2FEUzJ1X2ZIYWs1V1FZd3Bkd19ZblpLRm1kWUtJNlJYbGRyYURiTllLQjk1b19aRnczNDRTTkZHSGgxc1VWM1Rvc1RmY1Mza2p4MGhHNkdYSVZHYU81dk1sbVIyZlhBSGljZElLRmhoWFhmRkYtZUoxQndvOUcyTlhyc3U5MFZwalRoVHY4N1JSRjA0RU9OVXR0T29GNEJTb01Rb2dBZXVacDdlckZaeGd5UVNSdHMwd1UyZmZCOWNKUzlRaGVfVjVTSUVrUHZWNi1XUVpF?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "f97d0999dd9f",
       "title": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號",
@@ -12,19 +25,6 @@
         {
           "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPbjV5cTdqZjN5d0VGTXlOdEstVmtWZGlydzIxMXJ3TGh6cWwtdEw3eGVXdWh6ZnJkNlRVaG1mQmY5ME56by05S0FNclEwNU1OMDVOWUNMbWUyVzc5MFBRMHlKX3JEeE04NEVwd2RmdUc3NGJoa0I2NEo1SVhDRE9qdHdZSnpOOHdQWkh6QWFseU5GZERLdldUSG1ZMW1PTWRIY0xCLUpvSURSNkJQLXdhSjZPZC1NY05QamMzMGozNWFTLUNKS2pKMl92RkVaMnA0RWRUTWFHRmRZQTAzN1B0d2VOWFBaUjJMcmNvWmI0ZldZT043dUlLYkRsV3RiR2tWSng3TFRvMnppYzN1RnR4S3J1czh5X1pQblJPRUs0NzRCQURtSS1WS095TE5QTWVuelZZRjF4UzdSSS10V2V0c00tMlY4VV9KQjlKQlE2N1l2S2ptZjM1Q1FYSEFybENHaVRZUDVGRXkxbVlGeDJJ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2d9ff3a5bb56",
-      "title": "剴剴案翻版！桃園惡保母虐打6月嬰致死不認罪 一審判8年半！二審今宣判",
-      "published": "2026-08-24T16:05:00+00:00",
-      "summary": "剴剴案翻版！桃園惡保母虐打6月嬰致死不認罪 一審判8年半！二審今宣判&nbsp;&nbsp;壹蘋新聞網",
-      "sources": [
-        {
-          "name": "壹蘋新聞網",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MZTNPOHd0TlJwTWVsbVdGOFFNRjFwLUdkYUdGUkpZcE1fTnFtclB5RjR0NVpockM1eDN2RGdBWWJZOWV6blBQR0dVY1N1OUYzaENOd0pVamJYbVRYbkJRMzBOd0J6ZVpOZzdYRl9OaUJNbHh6U2xqZDYtenRBVjQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -107,6 +107,19 @@
       ]
     },
     {
+      "id": "d4c5e16a2983",
+      "title": "家長快看！一張表秒懂新冠、流感與腸病毒症狀差異",
+      "published": "2026-08-24T06:46:00+00:00",
+      "summary": "家長快看！一張表秒懂新冠、流感與腸病毒症狀差異&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGS0VpQ204VTRFcTBidk1qQU8wekpFa2VWc1BRVG9XdFpqamlJT2ZSTFV0Wm9jRUlySTFjMW9IdU9lNi1Wbmg5dUt0OXB2eGFqYlZYeA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "1ee7c229f46c",
       "title": "呼吸道疾病不只冬天要防！做好健康管理，從了解自己的疫苗需求開始｜HEHO 疫苗評估小工具",
       "published": "2026-08-24T02:00:00+00:00",
@@ -115,19 +128,6 @@
         {
           "name": "Heho健康",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xZnFLb0xfVjB5VmFxcWloOWFKV2dPaFZ3MzIxWmVZaDRqYjdTb0xqYUxDZHFqWWJ1RUJPblBVdy1LOXJwZDkyUmJmOA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ca125f76bdeb",
-      "title": "健康網》孩子「發燒」是什麼病 專家提醒：先想想4事",
-      "published": "2026-08-24T01:26:00+00:00",
-      "summary": "健康網》孩子「發燒」是什麼病 專家提醒：先想想4事&nbsp;&nbsp;自由健康網家長快看！一張表秒懂新冠、流感與腸病毒症狀差異&nbsp;&nbsp;東森新聞",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yZlhQTTNib185SXlkUkRoWWlrSGNDbkI5blVNRDdXbzcwTFU1ZzEzSEtVVU1uaHFLa2NqUVBqN2NJTzRMTFlhd243Z0VyajdfRFNsYVRUUnh2NFR4d0RXYmE3R2w?oc=5"
         }
       ],
       "matched_keywords": []
