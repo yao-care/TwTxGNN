@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-25T22:16:24.785438+00:00",
-  "count": 22,
+  "fetched_at": "2026-08-25T23:16:59.969061+00:00",
+  "count": 21,
   "news": [
-    {
-      "id": "0534140d67b4",
-      "title": "無懼偷拍案2／許維恩罹乳癌切除左乳手術前做好最壞打算：最捨不得女兒| CTWANT - LINE TODAY",
-      "published": "2026-08-25T22:09:11+00:00",
-      "summary": "無懼偷拍案2／許維恩罹乳癌切除左乳手術前做好最壞打算：最捨不得女兒| CTWANT&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKYlY5TFFMNHU2Wk05VXQ2TVBtQjd2dHBuVkZyTngzazFyWlR6eVVBbzRMWmFGMGZobWxpRUc5UlJjdkgzNVdwNUJSWEtIMmY0NFRDR1l3?oc=5"
-        }
-      ]
-    },
     {
       "id": "a8608abfacf9",
       "title": "改善腸胃健康的8款「最佳早餐」推薦！告別消化不良，從每日第一餐養出好膚質與免疫力 - Vogue Taiwan",
@@ -64,6 +52,18 @@
       ]
     },
     {
+      "id": "ceacd3d10d09",
+      "title": "別以為打過流感、新冠就沒事！ 權威醫警告肺炎鏈球菌最大缺口竟是「這群人」 - PChome Online 新聞",
+      "published": "2026-08-25T02:00:00+00:00",
+      "summary": "別以為打過流感、新冠就沒事！ 權威醫警告肺炎鏈球菌最大缺口竟是「這群人」&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVA3UEdYYVR6WVNwWTg5X2lBSGl2SVFXYzdwdU1Zd29tSGQ1UTdCemtLYVMzSWtEUkM4dURxbXRYVWNZZkdCSXJCanAtcDgtTXZUaTNhbl9DWEZ3bzFMWGNXd3ZvZUhUbjZJYmJVRzJhRVJXSXhPeG9kbUZRdlRYZmp1VzJwNWVjY2c?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3fa213598f51",
       "title": "湖北女子使用公用瑜伽墊後感染HPV引發扁平疣 醫生提醒多種公共物品存風險 - Singtaousa",
       "published": "2026-08-25T12:56:55+00:00",
@@ -72,18 +72,6 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWVRHTkpfTFhaQ2xoNVJxNTJNUV9UOUdZQ0hmNWpvdmgtWG5aSDVkcTNPSkUtckxCdVBPb3NsbENPWVhid0RMTmhOOEp3TU5EMG1BN2NOemVnblFYVmtqRUtucHc2Q0xIY3dTXzlMUFVTUkgwZWwzMF80bFpoX0NLQXNZX1pDQ3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fc52a03956e7",
-      "title": "別以為打過流感、新冠就沒事！ 權威醫警告肺炎鏈球菌最大缺口竟是「這群人」 - PChome Online新聞",
-      "published": "2026-08-25T02:00:00+00:00",
-      "summary": "別以為打過流感、新冠就沒事！ 權威醫警告肺炎鏈球菌最大缺口竟是「這群人」&nbsp;&nbsp;PChome Online新聞",
-      "sources": [
-        {
-          "name": "PChome Online新聞",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVA3UEdYYVR6WVNwWTg5X2lBSGl2SVFXYzdwdU1Zd29tSGQ1UTdCemtLYVMzSWtEUkM4dURxbXRYVWNZZkdCSXJCanAtcDgtTXZUaTNhbl9DWEZ3bzFMWGNXd3ZvZUhUbjZJYmJVRzJhRVJXSXhPeG9kbUZRdlRYZmp1VzJwNWVjY2c?oc=5"
         }
       ]
     },
@@ -148,18 +136,6 @@
       ]
     },
     {
-      "id": "59e6233dfccd",
-      "title": "🎙️陽性蚊群激增、罕見病毒現身 紐約防蚊更要防蜱蟲 - 世界新聞網",
-      "published": "2026-08-25T13:00:19+00:00",
-      "summary": "🎙️陽性蚊群激增、罕見病毒現身 紐約防蚊更要防蜱蟲&nbsp;&nbsp;世界新聞網洛縣西尼羅病毒首例亡 加州疫情5年來最嚴峻&nbsp;&nbsp;世界新聞網衛生局19日南布碌崙噴藥滅蚊&nbsp;&nbsp;Singtaousa加州西尼羅病3人死亡創5年新高- 美國要聞- 新聞&nbsp;&nbsp;華人今日網紐約爆今年首例人類感染西尼羅病毒&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBURkVnSzA0RGhSdEttLVNRSi1NbzB4ZUZja1ZWM2tMSXVxUENyNmplWUZzYmJwVFlHdHNtT1NWMWRxUGxzS3JzeVkwX2RYd3NXSHNyMGpnOS1JUXhPb1J5WHp30gFnQVVfeXFMTmJ0WnI3SldDR3ViN01KSnlOb1JwYjhFN0NMUjNickJlRTJnMUNOeW5OR2lLczJDY2lpTGk1cEpKOGpqcmhzT3pJLWRDOUZDREhMT1RRNzFRQkZHRUNud3lxeXNxUGhwcw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1fac2c0967fa",
       "title": "控糖別只算碳水！肉桂與薑先改變腸道菌 - 大纪元",
       "published": "2026-08-25T15:00:00+00:00",
@@ -168,6 +144,18 @@
         {
           "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yZ09FNnJhQXo0TkpLMmNXaWItWDc3b1JnMXJnYUZRUXFRVzhIcEZraHYzVWhqSmE0YWlrUk1PU1NpYjV3UWFjZ0NkQVAxNmNVd3lZWDJEb1pxNGlQZ01CWtIBZkFVX3lxTFBodmU4REtaZ2lUM1pMREhBTVc3OVhvblZHc1UwZm9wak02TE5HeThta2FQUFVvNHdOZmV5dWFDaTNyQVBCRkh1OW5JQ1EtYXhPQjVqVGZWdElCYjFkSGZ6bkdsZHo3Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "59e6233dfccd",
+      "title": "🎙️陽性蚊群激增、罕見病毒現身 紐約防蚊更要防蜱蟲 - 世界新聞網",
+      "published": "2026-08-25T13:00:19+00:00",
+      "summary": "🎙️陽性蚊群激增、罕見病毒現身 紐約防蚊更要防蜱蟲&nbsp;&nbsp;世界新聞網洛縣西尼羅病毒首例亡 加州疫情5年來最嚴峻&nbsp;&nbsp;世界新聞網衛生局19日南布碌崙噴藥滅蚊&nbsp;&nbsp;Singtaousa加州西尼羅病3人死亡創5年新高- 美國要聞- 新聞&nbsp;&nbsp;華人今日網紐約爆今年首例人類感染西尼羅病毒&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBURkVnSzA0RGhSdEttLVNRSi1NbzB4ZUZja1ZWM2tMSXVxUENyNmplWUZzYmJwVFlHdHNtT1NWMWRxUGxzS3JzeVkwX2RYd3NXSHNyMGpnOS1JUXhPb1J5WHp30gFnQVVfeXFMTmJ0WnI3SldDR3ViN01KSnlOb1JwYjhFN0NMUjNickJlRTJnMUNOeW5OR2lLczJDY2lpTGk1cEpKOGpqcmhzT3pJLWRDOUZDREhMT1RRNzFRQkZHRUNud3lxeXNxUGhwcw?oc=5"
         }
       ]
     },
@@ -196,13 +184,13 @@
       ]
     },
     {
-      "id": "01a57422d2ed",
-      "title": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號 - bastillepost.com",
+      "id": "f97d0999dd9f",
+      "title": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號 - 巴士的報",
       "published": "2026-08-24T22:40:03+00:00",
-      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;bastillepost.com",
+      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPbjV5cTdqZjN5d0VGTXlOdEstVmtWZGlydzIxMXJ3TGh6cWwtdEw3eGVXdWh6ZnJkNlRVaG1mQmY5ME56by05S0FNclEwNU1OMDVOWUNMbWUyVzc5MFBRMHlKX3JEeE04NEVwd2RmdUc3NGJoa0I2NEo1SVhDRE9qdHdZSnpOOHdQWkh6QWFseU5GZERLdldUSG1ZMW1PTWRIY0xCLUpvSURSNkJQLXdhSjZPZC1NY05QamMzMGozNWFTLUNKS2pKMl92RkVaMnA0RWRUTWFHRmRZQTAzN1B0d2VOWFBaUjJMcmNvWmI0ZldZT043dUlLYkRsV3RiR2tWSng3TFRvMnppYzN1RnR4S3J1czh5X1pQblJPRUs0NzRCQURtSS1WS095TE5QTWVuelZZRjF4UzdSSS10V2V0c00tMlY4VV9KQjlKQlE2N1l2S2ptZjM1Q1FYSEFybENHaVRZUDVGRXkxbVlGeDJJ?oc=5"
         }
       ]
@@ -244,18 +232,6 @@
       ]
     },
     {
-      "id": "b48ceca40793",
-      "title": "蕁麻疹︱皮膚科醫生鍾文浩拆解兒童出風癩迷思 以1特徵分辨急性與慢性 - 香港經濟日報HKET",
-      "published": "2026-08-24T10:41:39+00:00",
-      "summary": "蕁麻疹︱皮膚科醫生鍾文浩拆解兒童出風癩迷思 以1特徵分辨急性與慢性&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQczBpZTlhUVpDY0NnenZ0RHY0Q0QydE9PUzRCRGlBRThtWFcycnlKUnRXeHo3TzZJbjhtTmhhbmdpaVI4VDU4MkxzdlRSUk8xVzRxUUk0cWhnbGZLb29iOTRNMXUweWZKdjBUZVlwUEN3UWJObjFuYndnd1liOTBMSThvZ0Vzb1RYV0FtSG1KV2FzNERCZ3BRZ0FWUTV5dUZKUGs0TFJvd043WGdCb3VYZ2pTX3ZSbTc0V2hRMzZsVlk4SzU1RFZPWTRvQjd1ZGMtT21MSDJYRkh4OEhIZ1cwR00yZ1JQOExla3hWVVN4SkU1TnFPYUdtb3B2VVJwX0xwekxITlF5Q01jbHN2Q1VwdElDa1N0VC1nZEY4enJZU3NBODZyazJyMUxBTkh3V3JyaFVtM3FrbXJLWENXcjZlZmg3T3BLVXJaQUxXeW1HZGs3RF9IM0R3XzNuN0pQZkdSV1ZEWXIzay1peDdHN2ZNRTFseDhrTnJENFZDTFowOU5hcGJ1amVxMFkyNEQ5WldvaXVkLW9VQjAyQXlqZzlvcFpsdm9LUlBJLVFGMG1rWTdfbFZWbnlVUnBoMWpWVnpwR05EUFRYeXVKSnRyd0VZUXh5SQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3d83cbba1e87",
       "title": "男子住酒店赤腳沖涼竟染HPV！ 腳底生疣恐怖擴散 專家教3招防中招 - UHK 港生活",
       "published": "2026-08-24T16:00:00+00:00",
@@ -264,6 +240,18 @@
         {
           "name": "UHK 港生活",
           "link": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxPa1ZPMWdTOWRBbXNYUkhXUXB1bE9lVV84UXVQSGNPbkVOWmFiTlh1UmlNYTZBZXN5eG9FUnh0dXZCMUc5cUdoSmFjVUNJa3F0XzlfQjlQMDVWYXdPTWd3UEdBTXdFRzk2TlBVdjFUVUlCR1A2UVBaTUdoZk41RHhObDBQaFlzYkU2ZTVfMVV0aVJreFhlajRzN3VxM2tjOUhCZFF3UFpvQ2pmcVR3REp0dlpYZzNVMVdhVzJhU0YtUEY3b2xNeVBiQkh5S1NxeG5ycnY3U2NmQ3EtdGFvQWp0eFlxMXdRQjJuVTltc1BwelVIdWVrUkZzazVxemVHRVR4TkIxSlBmOWF1dmpKTzZwLV9rY3hqWHJkdS05eHJWcnVUM2hUUFhCbmE0OGpYUEV3NFFzVGo5RU1Kb0tncEpsdndDQk9LSnJSNGpQWXdSbEdEU3dBTmFoX2d5ZjFHalM0dDVJWDNoUWZiYUYtOWMtdDMyV1RiT1M3Z2RqMHdtb25lN0xRR0J3aHppWXdvYVdWNDBvdGxQUkRhVVF1NU5pTGdDZENraUU4cjVwYWRwbm1TUENmV0NjTE9yVGpoWnRMWnB0cXEzVGhMazRiZThMWDAwYU1iQjF0ZGVUbkQ0ZTRpLU1PaDF5MWZIUnIwemRNQlM5LU92UU0tSWhDb2VoNFF6UDc2ZTYyVGdYUmFRdkY2bmREUWo1bkRaYzRxcy1IR29UYTI1NWVPeVpFcjZETlMyMDBqVmFxTmIwQkRUVXV2ak9EN0RGYjI2US1LQWtsZzNuWlBOb2h6RHI5UTRUa1NXNE5PcGs4bXBOQllEaGk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b48ceca40793",
+      "title": "蕁麻疹︱皮膚科醫生鍾文浩拆解兒童出風癩迷思 以1特徵分辨急性與慢性 - 香港經濟日報HKET",
+      "published": "2026-08-24T10:41:39+00:00",
+      "summary": "蕁麻疹︱皮膚科醫生鍾文浩拆解兒童出風癩迷思 以1特徵分辨急性與慢性&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQczBpZTlhUVpDY0NnenZ0RHY0Q0QydE9PUzRCRGlBRThtWFcycnlKUnRXeHo3TzZJbjhtTmhhbmdpaVI4VDU4MkxzdlRSUk8xVzRxUUk0cWhnbGZLb29iOTRNMXUweWZKdjBUZVlwUEN3UWJObjFuYndnd1liOTBMSThvZ0Vzb1RYV0FtSG1KV2FzNERCZ3BRZ0FWUTV5dUZKUGs0TFJvd043WGdCb3VYZ2pTX3ZSbTc0V2hRMzZsVlk4SzU1RFZPWTRvQjd1ZGMtT21MSDJYRkh4OEhIZ1cwR00yZ1JQOExla3hWVVN4SkU1TnFPYUdtb3B2VVJwX0xwekxITlF5Q01jbHN2Q1VwdElDa1N0VC1nZEY4enJZU3NBODZyazJyMUxBTkh3V3JyaFVtM3FrbXJLWENXcjZlZmg3T3BLVXJaQUxXeW1HZGs3RF9IM0R3XzNuN0pQZkdSV1ZEWXIzay1peDdHN2ZNRTFseDhrTnJENFZDTFowOU5hcGJ1amVxMFkyNEQ5WldvaXVkLW9VQjAyQXlqZzlvcFpsdm9LUlBJLVFGMG1rWTdfbFZWbnlVUnBoMWpWVnpwR05EUFRYeXVKSnRyd0VZUXh5SQ?oc=5"
         }
       ]
     }
