@@ -14,7 +14,7 @@ permalink: /news/cephalexin/
 ---
 
 <p class="key-answer" data-question="Cephalexin 有什麼相關新聞？">
-<strong>Cephalexin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 0 個。
+<strong>Cephalexin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 0 個。
 </p>
 
 <div class="key-takeaway">
@@ -30,9 +30,15 @@ permalink: /news/cephalexin/
 <p><a href="{{ '/drugs/cephalexin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [別以為打過流感、新冠就沒事！ 權威醫警告肺炎鏈球菌最大缺口竟是「這群人」 - PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVA3UEdYYVR6WVNwWTg5X2lBSGl2SVFXYzdwdU1Zd29tSGQ1UTdCemtLYVMzSWtEUkM4dURxbXRYVWNZZkdCSXJCanAtcDgtTXZUaTNhbl9DWEZ3bzFMWGNXd3ZvZUhUbjZJYmJVRzJhRVJXSXhPeG9kbUZRdlRYZmp1VzJwNWVjY2c?oc=5)
+
+2026-08-25 <span class="news-indication-tag">鏈球菌</span>
+
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVA3UEdYYVR6WVNwWTg5X2lBSGl2SVFXYzdwdU1Zd29tSGQ1UTdCemtLYVMzSWtEUkM4dURxbXRYVWNZZkdCSXJCanAtcDgtTXZUaTNhbl9DWEZ3bzFMWGNXd3ZvZUhUbjZJYmJVRzJhRVJXSXhPeG9kbUZRdlRYZmp1VzJwNWVjY2c?oc=5)
+
+---
 
 
 <div class="disclaimer">

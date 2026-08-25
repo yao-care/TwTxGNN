@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [4名腫瘤科醫師答案相同早上9點前一定要做這件事- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTE5UY002RW4tZGZySWZzYVdnbDJHX1ZMMjdUZDY1dThEbWk0NUhLS1VIeldHQVlFTUQ0RnRBVHlYb0JaWHNJSFZaVDZsM2ZZenZJelJGUkhXOGRDaUFJSnl6Yk9ubTJQdGNKemxPaTZn?oc=5)
 
 2026-08-25 <span class="news-indication-tag">腫瘤</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5UY002RW4tZGZySWZzYVdnbDJHX1ZMMjdUZDY1dThEbWk0NUhLS1VIeldHQVlFTUQ0RnRBVHlYb0JaWHNJSFZaVDZsM2ZZenZJelJGUkhXOGRDaUFJSnl6Yk9ubTJQdGNKemxPaTZn?oc=5)
+
+---
+
+### [別以為打過流感、新冠就沒事！ 權威醫警告肺炎鏈球菌最大缺口竟是「這群人」 - PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVA3UEdYYVR6WVNwWTg5X2lBSGl2SVFXYzdwdU1Zd29tSGQ1UTdCemtLYVMzSWtEUkM4dURxbXRYVWNZZkdCSXJCanAtcDgtTXZUaTNhbl9DWEZ3bzFMWGNXd3ZvZUhUbjZJYmJVRzJhRVJXSXhPeG9kbUZRdlRYZmp1VzJwNWVjY2c?oc=5)
+
+2026-08-25 <span class="news-indication-tag">鏈球菌</span>
+
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVA3UEdYYVR6WVNwWTg5X2lBSGl2SVFXYzdwdU1Zd29tSGQ1UTdCemtLYVMzSWtEUkM4dURxbXRYVWNZZkdCSXJCanAtcDgtTXZUaTNhbl9DWEZ3bzFMWGNXd3ZvZUhUbjZJYmJVRzJhRVJXSXhPeG9kbUZRdlRYZmp1VzJwNWVjY2c?oc=5)
 
 ---
 

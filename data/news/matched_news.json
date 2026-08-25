@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-25T16:25:19.467944+00:00",
-  "total_count": 20,
-  "matched_count": 3,
+  "last_updated": "2026-08-25T17:22:53.884149+00:00",
+  "total_count": 21,
+  "matched_count": 4,
   "news": [
     {
       "id": "1fac2c0967fa",
@@ -404,6 +404,35 @@
       "matched_keywords": []
     },
     {
+      "id": "ceacd3d10d09",
+      "title": "別以為打過流感、新冠就沒事！ 權威醫警告肺炎鏈球菌最大缺口竟是「這群人」 - PChome Online 新聞",
+      "published": "2026-08-25T02:00:00+00:00",
+      "summary": "別以為打過流感、新冠就沒事！ 權威醫警告肺炎鏈球菌最大缺口竟是「這群人」&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVA3UEdYYVR6WVNwWTg5X2lBSGl2SVFXYzdwdU1Zd29tSGQ1UTdCemtLYVMzSWtEUkM4dURxbXRYVWNZZkdCSXJCanAtcDgtTXZUaTNhbl9DWEZ3bzFMWGNXd3ZvZUhUbjZJYmJVRzJhRVJXSXhPeG9kbUZRdlRYZmp1VzJwNWVjY2c?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "3789cf4a0b53",
       "title": "60歲女子連續兩天吃麻辣燙 腹痛痾嘔送院揭大腸桿菌入血致敗血症",
       "published": "2026-08-24T23:20:33+00:00",
@@ -417,13 +446,13 @@
       "matched_keywords": []
     },
     {
-      "id": "01a57422d2ed",
+      "id": "f97d0999dd9f",
       "title": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號",
       "published": "2026-08-24T22:40:03+00:00",
-      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;bastillepost.com",
+      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPbjV5cTdqZjN5d0VGTXlOdEstVmtWZGlydzIxMXJ3TGh6cWwtdEw3eGVXdWh6ZnJkNlRVaG1mQmY5ME56by05S0FNclEwNU1OMDVOWUNMbWUyVzc5MFBRMHlKX3JEeE04NEVwd2RmdUc3NGJoa0I2NEo1SVhDRE9qdHdZSnpOOHdQWkh6QWFseU5GZERLdldUSG1ZMW1PTWRIY0xCLUpvSURSNkJQLXdhSjZPZC1NY05QamMzMGozNWFTLUNKS2pKMl92RkVaMnA0RWRUTWFHRmRZQTAzN1B0d2VOWFBaUjJMcmNvWmI0ZldZT043dUlLYkRsV3RiR2tWSng3TFRvMnppYzN1RnR4S3J1czh5X1pQblJPRUs0NzRCQURtSS1WS095TE5QTWVuelZZRjF4UzdSSS10V2V0c00tMlY4VV9KQjlKQlE2N1l2S2ptZjM1Q1FYSEFybENHaVRZUDVGRXkxbVlGeDJJ?oc=5"
         }
       ],
