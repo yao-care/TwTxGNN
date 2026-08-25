@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [用漱口水就可揪出大腸癌？最新研究揭1數據關鍵](https://news.google.com/rss/articles/CBMixgJBVV95cUxNMjVoTVRmQUE5d2pIQU9EYUhJNklJZjZmZWY1YnJxRWJjOGREM2NweU5IM0FzRWJtTVVjeGNCU2lBRmRVelJQNU1VV2p0eFhRX3JyN1FlWmFUVzFuTkN6Wk1mQUllZ1YzeVZkU3J1a3BMMlVWYi14QjdZb2NSb2liQWZKWnpxLW5vUE9pOE5BTURWS1pDVWV1c09VcWhtMTZYWUw3cVYtMW14MlQtUnZnS3JIek1nMkF2Uk53VUtIeG4wTGx5Zy13dW1oaFBUTmYzT3JtYU9CZjJYT1M1amVVYTNRTDJLUEFxQnRkb2JWLVpiWUZCcEpuTWsteHUzNXFpVVQwWFB5UUdmWGpBUGhRX29VYTRlTzBpbjZadTZQQ3g4bS1BcXU0dDQxbmVXT29XQk5EdmltcEFMc05tYzRCX2lKNW0zdw?oc=5)
+### [4名腫瘤科醫師答案相同早上9點前一定要做這件事- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTE5UY002RW4tZGZySWZzYVdnbDJHX1ZMMjdUZDY1dThEbWk0NUhLS1VIeldHQVlFTUQ0RnRBVHlYb0JaWHNJSFZaVDZsM2ZZenZJelJGUkhXOGRDaUFJSnl6Yk9ubTJQdGNKemxPaTZn?oc=5)
+
+2026-08-25 <span class="news-indication-tag">腫瘤</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5UY002RW4tZGZySWZzYVdnbDJHX1ZMMjdUZDY1dThEbWk0NUhLS1VIeldHQVlFTUQ0RnRBVHlYb0JaWHNJSFZaVDZsM2ZZenZJelJGUkhXOGRDaUFJSnl6Yk9ubTJQdGNKemxPaTZn?oc=5)
+
+---
+
+### [漱口水就可揪出大腸癌？最新研究揭1數據 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zUGRqLWYyV2ZPTnpsTlB3S1VGanloVEFOUHpFbEIxNnBXZnNuelJwdkh3TXNUZDdfak5oVUhWY3Izb0h6Z3BPdTFaZEJTS3dTc0JDbWJIMWxIUXg50gFiQVVfeXFMTkhGcUIzLTNISFBBUlpmbmZ5OUVYcUxZUnYxcldZMExJM3l5NmZrYlNlN1Njc2ZWU2FRRkp3RmVVcDFRa3g0ck94aTRsX1VyTHc3UHVvNEhzMnBodk1KZ0FpS0E?oc=5)
 
 2026-08-23 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMixgJBVV95cUxNMjVoTVRmQUE5d2pIQU9EYUhJNklJZjZmZWY1YnJxRWJjOGREM2NweU5IM0FzRWJtTVVjeGNCU2lBRmRVelJQNU1VV2p0eFhRX3JyN1FlWmFUVzFuTkN6Wk1mQUllZ1YzeVZkU3J1a3BMMlVWYi14QjdZb2NSb2liQWZKWnpxLW5vUE9pOE5BTURWS1pDVWV1c09VcWhtMTZYWUw3cVYtMW14MlQtUnZnS3JIek1nMkF2Uk53VUtIeG4wTGx5Zy13dW1oaFBUTmYzT3JtYU9CZjJYT1M1amVVYTNRTDJLUEFxQnRkb2JWLVpiWUZCcEpuTWsteHUzNXFpVVQwWFB5UUdmWGpBUGhRX29VYTRlTzBpbjZadTZQQ3g4bS1BcXU0dDQxbmVXT29XQk5EdmltcEFMc05tYzRCX2lKNW0zdw?oc=5)
+來源：[鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zUGRqLWYyV2ZPTnpsTlB3S1VGanloVEFOUHpFbEIxNnBXZnNuelJwdkh3TXNUZDdfak5oVUhWY3Izb0h6Z3BPdTFaZEJTS3dTc0JDbWJIMWxIUXg50gFiQVVfeXFMTkhGcUIzLTNISFBBUlpmbmZ5OUVYcUxZUnYxcldZMExJM3l5NmZrYlNlN1Njc2ZWU2FRRkp3RmVVcDFRa3g0ck94aTRsX1VyTHc3UHVvNEhzMnBodk1KZ0FpS0E?oc=5)
 
 ---
 
