@@ -1,8 +1,86 @@
 {
-  "last_updated": "2026-08-25T21:18:26.935483+00:00",
-  "total_count": 21,
-  "matched_count": 4,
+  "last_updated": "2026-08-25T22:16:27.969378+00:00",
+  "total_count": 23,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "0534140d67b4",
+      "title": "無懼偷拍案2／許維恩罹乳癌切除左乳手術前做好最壞打算：最捨不得女兒| CTWANT - LINE TODAY",
+      "published": "2026-08-25T22:09:11+00:00",
+      "summary": "無懼偷拍案2／許維恩罹乳癌切除左乳手術前做好最壞打算：最捨不得女兒| CTWANT&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKYlY5TFFMNHU2Wk05VXQ2TVBtQjd2dHBuVkZyTngzazFyWlR6eVVBbzRMWmFGMGZobWxpRUc5UlJjdkgzNVdwNUJSWEtIMmY0NFRDR1l3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a068f9e54014",
+      "title": "桑拿7大驚人好處 每週4次 研究：中風率降61%",
+      "published": "2026-08-25T19:00:00+00:00",
+      "summary": "桑拿7大驚人好處 每週4次 研究：中風率降61%&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNeDc1M3JIcXJyeUVMeE9qQTBzSWt4SjJQZU1WQnd1Mjhidk1Sd1JpcjF4ZUc5MjVNcTlfM1FpakZWV0syTGk4ZWR4QlB5OXNrMzdQd2xPbk80ZDhZVW5DV9IBZkFVX3lxTE1Wdk5nSzdGQ1pSc2s3N3l3UFlmQkJrWms4SWJaN2NJQXdSTU9sZ3pTZ19qa3lKMXZDbVF5QjA4NHBwcFJDWGVwZ2RPR1pBX3hrRzVMVllKbkhnNHpTM29kLWNJbFFNUQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1fac2c0967fa",
       "title": "控糖別只算碳水！肉桂與薑先改變腸道菌",
@@ -446,13 +524,13 @@
       "matched_keywords": []
     },
     {
-      "id": "f97d0999dd9f",
+      "id": "01a57422d2ed",
       "title": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號",
       "published": "2026-08-24T22:40:03+00:00",
-      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;巴士的報",
+      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPbjV5cTdqZjN5d0VGTXlOdEstVmtWZGlydzIxMXJ3TGh6cWwtdEw3eGVXdWh6ZnJkNlRVaG1mQmY5ME56by05S0FNclEwNU1OMDVOWUNMbWUyVzc5MFBRMHlKX3JEeE04NEVwd2RmdUc3NGJoa0I2NEo1SVhDRE9qdHdZSnpOOHdQWkh6QWFseU5GZERLdldUSG1ZMW1PTWRIY0xCLUpvSURSNkJQLXdhSjZPZC1NY05QamMzMGozNWFTLUNKS2pKMl92RkVaMnA0RWRUTWFHRmRZQTAzN1B0d2VOWFBaUjJMcmNvWmI0ZldZT043dUlLYkRsV3RiR2tWSng3TFRvMnppYzN1RnR4S3J1czh5X1pQblJPRUs0NzRCQURtSS1WS095TE5QTWVuelZZRjF4UzdSSS10V2V0c00tMlY4VV9KQjlKQlE2N1l2S2ptZjM1Q1FYSEFybENHaVRZUDVGRXkxbVlGeDJJ?oc=5"
         }
       ],

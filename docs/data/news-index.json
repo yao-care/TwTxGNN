@@ -1,7 +1,83 @@
 {
-  "generated": "2026-08-25T21:18:26.965134+00:00",
-  "count": 4,
+  "generated": "2026-08-25T22:16:27.997640+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "0534140d67b4",
+      "title": "無懼偷拍案2／許維恩罹乳癌切除左乳手術前做好最壞打算：最捨不得女兒| CTWANT - LINE TODAY",
+      "published": "2026-08-25T22:09:11+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKYlY5TFFMNHU2Wk05VXQ2TVBtQjd2dHBuVkZyTngzazFyWlR6eVVBbzRMWmFGMGZobWxpRUc5UlJjdkgzNVdwNUJSWEtIMmY0NFRDR1l3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a068f9e54014",
+      "title": "桑拿7大驚人好處 每週4次 研究：中風率降61%",
+      "published": "2026-08-25T19:00:00+00:00",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNeDc1M3JIcXJyeUVMeE9qQTBzSWt4SjJQZU1WQnd1Mjhidk1Sd1JpcjF4ZUc5MjVNcTlfM1FpakZWV0syTGk4ZWR4QlB5OXNrMzdQd2xPbk80ZDhZVW5DV9IBZkFVX3lxTE1Wdk5nSzdGQ1pSc2s3N3l3UFlmQkJrWms4SWJaN2NJQXdSTU9sZ3pTZ19qa3lKMXZDbVF5QjA4NHBwcFJDWGVwZ2RPR1pBX3hrRzVMVllKbkhnNHpTM29kLWNJbFFNUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "7cac4b49b6b9",
       "title": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 | 科技新報 - LINE TODAY",
