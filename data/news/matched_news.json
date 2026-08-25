@@ -1,8 +1,45 @@
 {
-  "last_updated": "2026-08-25T00:43:27.210841+00:00",
-  "total_count": 18,
-  "matched_count": 3,
+  "last_updated": "2026-08-25T02:13:06.896977+00:00",
+  "total_count": 19,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "d4c056a67373",
+      "title": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 - TechNews 科技新報",
+      "published": "2026-08-25T00:44:35+00:00",
+      "summary": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2dsMGNadUVtX1ZnZ0ZnemlOVGtwRFZHOGM5elR4cHlldmlGcjJRVWlhNUlkRVNaeDRBbTJtS1NnVTVTeU1LbERJalhUWnNKbVE3anlLQWk1alozbDlGRmFoZ1RoYl93MFZUcDA2UEh6dDc5NHFseDVNTWRMd0QtMkozODZGZUtneFQzNUVES1JoNG5zeUlKS1JvakFkc2pFa1E?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "3789cf4a0b53",
       "title": "60歲女子連續兩天吃麻辣燙 腹痛痾嘔送院揭大腸桿菌入血致敗血症",
@@ -110,14 +147,26 @@
       "id": "d4c5e16a2983",
       "title": "家長快看！一張表秒懂新冠、流感與腸病毒症狀差異",
       "published": "2026-08-24T06:46:00+00:00",
-      "summary": "家長快看！一張表秒懂新冠、流感與腸病毒症狀差異&nbsp;&nbsp;東森新聞",
+      "summary": "家長快看！一張表秒懂新冠、流感與腸病毒症狀差異&nbsp;&nbsp;東森新聞健康網》孩子「發燒」是什麼病 專家提醒：先想想4事&nbsp;&nbsp;自由健康網開學倒數「開學症候群」恐上身 兒科醫師教家長陪孩子調整作息&nbsp;&nbsp;波新聞COVID-19、流感還是感冒？症狀差在哪？發燒、咳嗽、喉嚨痛關鍵差異一次看懂&nbsp;&nbsp;ELLE健康網》孩子得什麼病？醫師這樣下判斷&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "東森新聞",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGS0VpQ204VTRFcTBidk1qQU8wekpFa2VWc1BRVG9XdFpqamlJT2ZSTFV0Wm9jRUlySTFjMW9IdU9lNi1Wbmg5dUt0OXB2eGFqYlZYeA?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "1ee7c229f46c",
@@ -133,14 +182,14 @@
       "matched_keywords": []
     },
     {
-      "id": "dfad77bedf28",
+      "id": "69c2674507b2",
       "title": "用漱口水就可揪出大腸癌？最新研究揭1數據關鍵",
-      "published": "2026-08-23T10:08:00+00:00",
-      "summary": "用漱口水就可揪出大腸癌？最新研究揭1數據關鍵&nbsp;&nbsp;Yahoo新聞",
+      "published": "2026-08-23T10:04:10+00:00",
+      "summary": "用漱口水就可揪出大腸癌？最新研究揭1數據關鍵&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNMjVoTVRmQUE5d2pIQU9EYUhJNklJZjZmZWY1YnJxRWJjOGREM2NweU5IM0FzRWJtTVVjeGNCU2lBRmRVelJQNU1VV2p0eFhRX3JyN1FlWmFUVzFuTkN6Wk1mQUllZ1YzeVZkU3J1a3BMMlVWYi14QjdZb2NSb2liQWZKWnpxLW5vUE9pOE5BTURWS1pDVWV1c09VcWhtMTZYWUw3cVYtMW14MlQtUnZnS3JIek1nMkF2Uk53VUtIeG4wTGx5Zy13dW1oaFBUTmYzT3JtYU9CZjJYT1M1amVVYTNRTDJLUEFxQnRkb2JWLVpiWUZCcEpuTWsteHUzNXFpVVQwWFB5UUdmWGpBUGhRX29VYTRlTzBpbjZadTZQQ3g4bS1BcXU0dDQxbmVXT29XQk5EdmltcEFMc05tYzRCX2lKNW0zdw?oc=5"
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBiUC1Za19OR19rNUl6NDFfTDVxZERfclVQLThOaEpFUDRVdnRZQThaZnpacnN5MFFzYVpQbW9rVEZmQWR5NndaQWtreVU?oc=5"
         }
       ],
       "matched_keywords": [

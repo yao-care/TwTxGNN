@@ -3,7 +3,7 @@ layout: default
 title: "感冒（common cold） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "感冒（common cold） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "感冒（common cold） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒（common cold） 有什麼相關新聞？">
-<strong>感冒（common cold）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒（common cold）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [家長快看！一張表秒懂新冠、流感與腸病毒症狀差異](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGS0VpQ204VTRFcTBidk1qQU8wekpFa2VWc1BRVG9XdFpqamlJT2ZSTFV0Wm9jRUlySTFjMW9IdU9lNi1Wbmg5dUt0OXB2eGFqYlZYeA?oc=5)
+
+2026-08-24
+
+來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGS0VpQ204VTRFcTBidk1qQU8wekpFa2VWc1BRVG9XdFpqamlJT2ZSTFV0Wm9jRUlySTFjMW9IdU9lNi1Wbmg5dUt0OXB2eGFqYlZYeA?oc=5)
+
+---
 
 ### [怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重 | 姊妹淘 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LX0wzZm5MdkpOQzZaZmVJdUhOamVaS1lUY0RhekZqYjdrWXRqLVdCZG9SdE9JTWQ2MWxsU2lEb3g4VTF5UUl0NnFGUXRGOXJ2U0I4cnJ3?oc=5)
 
