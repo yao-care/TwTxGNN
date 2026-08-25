@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [用漱口水就可揪出大腸癌？最新研究揭1數據關鍵](https://news.google.com/rss/articles/CBMixgJBVV95cUxNMjVoTVRmQUE5d2pIQU9EYUhJNklJZjZmZWY1YnJxRWJjOGREM2NweU5IM0FzRWJtTVVjeGNCU2lBRmRVelJQNU1VV2p0eFhRX3JyN1FlWmFUVzFuTkN6Wk1mQUllZ1YzeVZkU3J1a3BMMlVWYi14QjdZb2NSb2liQWZKWnpxLW5vUE9pOE5BTURWS1pDVWV1c09VcWhtMTZYWUw3cVYtMW14MlQtUnZnS3JIek1nMkF2Uk53VUtIeG4wTGx5Zy13dW1oaFBUTmYzT3JtYU9CZjJYT1M1amVVYTNRTDJLUEFxQnRkb2JWLVpiWUZCcEpuTWsteHUzNXFpVVQwWFB5UUdmWGpBUGhRX29VYTRlTzBpbjZadTZQQ3g4bS1BcXU0dDQxbmVXT29XQk5EdmltcEFMc05tYzRCX2lKNW0zdw?oc=5)
+
+2026-08-23 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMixgJBVV95cUxNMjVoTVRmQUE5d2pIQU9EYUhJNklJZjZmZWY1YnJxRWJjOGREM2NweU5IM0FzRWJtTVVjeGNCU2lBRmRVelJQNU1VV2p0eFhRX3JyN1FlWmFUVzFuTkN6Wk1mQUllZ1YzeVZkU3J1a3BMMlVWYi14QjdZb2NSb2liQWZKWnpxLW5vUE9pOE5BTURWS1pDVWV1c09VcWhtMTZYWUw3cVYtMW14MlQtUnZnS3JIek1nMkF2Uk53VUtIeG4wTGx5Zy13dW1oaFBUTmYzT3JtYU9CZjJYT1M1amVVYTNRTDJLUEFxQnRkb2JWLVpiWUZCcEpuTWsteHUzNXFpVVQwWFB5UUdmWGpBUGhRX29VYTRlTzBpbjZadTZQQ3g4bS1BcXU0dDQxbmVXT29XQk5EdmltcEFMc05tYzRCX2lKNW0zdw?oc=5)
+
+---
 
 
 <div class="disclaimer">
