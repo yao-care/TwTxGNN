@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-25T05:23:14.761937+00:00",
-  "count": 17,
+  "fetched_at": "2026-08-25T06:29:24.157830+00:00",
+  "count": 15,
   "news": [
     {
       "id": "d4c056a67373",
@@ -28,14 +28,14 @@
       ]
     },
     {
-      "id": "969fa723f131",
-      "title": "1枚角膜變300枚！全球首例3D列印角膜成功移植人體 - 自由健康網",
-      "published": "2026-08-23T07:54:00+00:00",
-      "summary": "1枚角膜變300枚！全球首例3D列印角膜成功移植人體&nbsp;&nbsp;自由健康網",
+      "id": "edb0036ae7bc",
+      "title": "嚴重曬傷恐致癌？ 專家：起水泡都損DNA - anntw.com",
+      "published": "2026-08-25T04:36:53+00:00",
+      "summary": "嚴重曬傷恐致癌？ 專家：起水泡都損DNA&nbsp;&nbsp;anntw.com",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MeXV2X0t1WGtsbVh6YXpyUnFUbWo4Mm9uU2xBWWtZQXM2NXhiOG50R04zcExVYWdPelpZblNnUGZ4N09qczQxVDRRRTc0X0s5WlZ0cHVCdjFNTEg1NGpEUTg1X3A?oc=5"
+          "name": "anntw.com",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PbW1veEhfZldlTWRSOHVCOUt3cmM2Mm1UMXVubkxBRlAwVDdwdDZSVWlmLV80Um9qSFUzOUQ3SElCeW5CTXpudXRwbm9ZQ2Q2VE9hMGtxZw?oc=5"
         }
       ]
     },
@@ -72,30 +72,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNMjVoTVRmQUE5d2pIQU9EYUhJNklJZjZmZWY1YnJxRWJjOGREM2NweU5IM0FzRWJtTVVjeGNCU2lBRmRVelJQNU1VV2p0eFhRX3JyN1FlWmFUVzFuTkN6Wk1mQUllZ1YzeVZkU3J1a3BMMlVWYi14QjdZb2NSb2liQWZKWnpxLW5vUE9pOE5BTURWS1pDVWV1c09VcWhtMTZYWUw3cVYtMW14MlQtUnZnS3JIek1nMkF2Uk53VUtIeG4wTGx5Zy13dW1oaFBUTmYzT3JtYU9CZjJYT1M1amVVYTNRTDJLUEFxQnRkb2JWLVpiWUZCcEpuTWsteHUzNXFpVVQwWFB5UUdmWGpBUGhRX29VYTRlTzBpbjZadTZQQ3g4bS1BcXU0dDQxbmVXT29XQk5EdmltcEFMc05tYzRCX2lKNW0zdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "27da78ff5f68",
-      "title": "怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重 | 姊妹淘 - LINE TODAY",
-      "published": "2026-08-23T06:10:37+00:00",
-      "summary": "怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重 | 姊妹淘&nbsp;&nbsp;LINE TODAY怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重&nbsp;&nbsp;Yahoo新聞65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命&nbsp;&nbsp;三立新聞感冒別硬撐！腎友怕「吃藥傷腎」拒就醫 4天後腎功能惡化 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞重感冒硬撐不吃藥她4天後酸中毒了腎也衰竭- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LX0wzZm5MdkpOQzZaZmVJdUhOamVaS1lUY0RhekZqYjdrWXRqLVdCZG9SdE9JTWQ2MWxsU2lEb3g4VTF5UUl0NnFGUXRGOXJ2U0I4cnJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "edb0036ae7bc",
-      "title": "嚴重曬傷恐致癌？ 專家：起水泡都損DNA - anntw.com",
-      "published": "2026-08-25T04:36:53+00:00",
-      "summary": "嚴重曬傷恐致癌？ 專家：起水泡都損DNA&nbsp;&nbsp;anntw.com",
-      "sources": [
-        {
-          "name": "anntw.com",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PbW1veEhfZldlTWRSOHVCOUt3cmM2Mm1UMXVubkxBRlAwVDdwdDZSVWlmLV80Um9qSFUzOUQ3SElCeW5CTXpudXRwbm9ZQ2Q2VE9hMGtxZw?oc=5"
         }
       ]
     },

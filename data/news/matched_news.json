@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-25T05:23:18.349492+00:00",
-  "total_count": 18,
-  "matched_count": 4,
+  "last_updated": "2026-08-25T06:29:27.711248+00:00",
+  "total_count": 16,
+  "matched_count": 3,
   "news": [
     {
       "id": "3209b3706e28",
@@ -268,44 +268,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "969fa723f131",
-      "title": "1枚角膜變300枚！全球首例3D列印角膜成功移植人體",
-      "published": "2026-08-23T07:54:00+00:00",
-      "summary": "1枚角膜變300枚！全球首例3D列印角膜成功移植人體&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MeXV2X0t1WGtsbVh6YXpyUnFUbWo4Mm9uU2xBWWtZQXM2NXhiOG50R04zcExVYWdPelpZblNnUGZ4N09qczQxVDRRRTc0X0s5WlZ0cHVCdjFNTEg1NGpEUTg1X3A?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "27da78ff5f68",
-      "title": "怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重 | 姊妹淘 - LINE TODAY",
-      "published": "2026-08-23T06:10:37+00:00",
-      "summary": "怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重 | 姊妹淘&nbsp;&nbsp;LINE TODAY怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重&nbsp;&nbsp;Yahoo新聞65歲女腎友感冒硬撐不吃藥送醫！醫示警：腎衰竭風險更高 4大關鍵保命&nbsp;&nbsp;三立新聞感冒別硬撐！腎友怕「吃藥傷腎」拒就醫 4天後腎功能惡化 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞重感冒硬撐不吃藥她4天後酸中毒了腎也衰竭- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LX0wzZm5MdkpOQzZaZmVJdUhOamVaS1lUY0RhekZqYjdrWXRqLVdCZG9SdE9JTWQ2MWxsU2lEb3g4VTF5UUl0NnFGUXRGOXJ2U0I4cnJ3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "849e34530e76",
