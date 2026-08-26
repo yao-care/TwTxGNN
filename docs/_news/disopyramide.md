@@ -14,7 +14,7 @@ permalink: /news/disopyramide/
 ---
 
 <p class="key-answer" data-question="Disopyramide 有什麼相關新聞？">
-<strong>Disopyramide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Disopyramide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/disopyramide/
 <p><a href="{{ '/drugs/disopyramide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [黑色食物最健康？營養師揭「3大黑色陷阱」：這款喝多恐心律不整](https://news.google.com/rss/articles/CBMihANBVV95cUxQWnNYTzF2enppRnNYRHZOcnJBU3RDMjRxX2NhX0J3RWtXNHF2aEhNTkxtYmVRSG1DNXEwOVNIWTRGUWExMUVUclk4cDY1ZTF4UC11emhOcm9lUThSWUxiWGNvUm1yS2NINlJrZjVDVVZsMm1lZWxLcXlwOE9RN0g2OHBNalFtWW11UXA0RTZHTlpocVpPeHJLNnJHR1ZLR09kQlpwazlua0NWeG9IMktMUHg2b0pGemF1bUN5VmhPX3JoamRkSkJ1WnpabkFPYTdTLWRsSWY0d2FCQzA0dGM5ZkFSWWlfcFkyMm5EcFplWTBvOVYtMHNWcG1VdEoxOFVrQ0JGV2ZIREJlWVpBWi1naTFCX1Fxeno0VG4xaDI3ZW4xUlNyRHJWdEkxaU40d2xBRUVueVpGQXlYVW9LRXF5WjdlSjNhZTlEd3JFSmU2SFBjSmxkMnE0SHRXZ05QTUhOZW1WUEhLbHJNQ3lvME5iS1NGa3JtbFhoVGpqaFpIXzI5WDFK?oc=5)
+
+2026-08-26 <span class="news-indication-tag">心律不整</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMihANBVV95cUxQWnNYTzF2enppRnNYRHZOcnJBU3RDMjRxX2NhX0J3RWtXNHF2aEhNTkxtYmVRSG1DNXEwOVNIWTRGUWExMUVUclk4cDY1ZTF4UC11emhOcm9lUThSWUxiWGNvUm1yS2NINlJrZjVDVVZsMm1lZWxLcXlwOE9RN0g2OHBNalFtWW11UXA0RTZHTlpocVpPeHJLNnJHR1ZLR09kQlpwazlua0NWeG9IMktMUHg2b0pGemF1bUN5VmhPX3JoamRkSkJ1WnpabkFPYTdTLWRsSWY0d2FCQzA0dGM5ZkFSWWlfcFkyMm5EcFplWTBvOVYtMHNWcG1VdEoxOFVrQ0JGV2ZIREJlWVpBWi1naTFCX1Fxeno0VG4xaDI3ZW4xUlNyRHJWdEkxaU40d2xBRUVueVpGQXlYVW9LRXF5WjdlSjNhZTlEd3JFSmU2SFBjSmxkMnE0SHRXZ05QTUhOZW1WUEhLbHJNQ3lvME5iS1NGa3JtbFhoVGpqaFpIXzI5WDFK?oc=5)
+
+---
 
 ### [4名腫瘤科醫師答案相同早上9點前一定要做這件事- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTE5UY002RW4tZGZySWZzYVdnbDJHX1ZMMjdUZDY1dThEbWk0NUhLS1VIeldHQVlFTUQ0RnRBVHlYb0JaWHNJSFZaVDZsM2ZZenZJelJGUkhXOGRDaUFJSnl6Yk9ubTJQdGNKemxPaTZn?oc=5)
 

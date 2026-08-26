@@ -1,7 +1,35 @@
 {
-  "generated": "2026-08-26T06:31:51.965989+00:00",
-  "count": 5,
+  "generated": "2026-08-26T07:38:00.602198+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "927423e7d61e",
+      "title": "黑色食物最健康？營養師揭「3大黑色陷阱」：這款喝多恐心律不整",
+      "published": "2026-08-26T04:59:23+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQWnNYTzF2enppRnNYRHZOcnJBU3RDMjRxX2NhX0J3RWtXNHF2aEhNTkxtYmVRSG1DNXEwOVNIWTRGUWExMUVUclk4cDY1ZTF4UC11emhOcm9lUThSWUxiWGNvUm1yS2NINlJrZjVDVVZsMm1lZWxLcXlwOE9RN0g2OHBNalFtWW11UXA0RTZHTlpocVpPeHJLNnJHR1ZLR09kQlpwazlua0NWeG9IMktMUHg2b0pGemF1bUN5VmhPX3JoamRkSkJ1WnpabkFPYTdTLWRsSWY0d2FCQzA0dGM5ZkFSWWlfcFkyMm5EcFplWTBvOVYtMHNWcG1VdEoxOFVrQ0JGV2ZIREJlWVpBWi1naTFCX1Fxeno0VG4xaDI3ZW4xUlNyRHJWdEkxaU40d2xBRUVueVpGQXlYVW9LRXF5WjdlSjNhZTlEd3JFSmU2SFBjSmxkMnE0SHRXZ05QTUhOZW1WUEhLbHJNQ3lvME5iS1NGa3JtbFhoVGpqaFpIXzI5WDFK?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "心律不整",
+          "keyword": "心律不整",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "38feeeb80a8d",
       "title": "常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位",
