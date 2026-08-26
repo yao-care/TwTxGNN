@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [失智長者突發性退化 醫：可進一步評估營養狀態加以改善](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPZ20tUVFsV3lFVXQ3ZS04NXduQ3M2ZUwzMTR6Ynp5eGtNOVBCYXZfaEFhQlJUUy03aUVQTzk3TURIY0N3Ql96dWd0aDFvUUh10gFWQVVfeXFMTjNyLWFjdUhUNzczZFNoYzRBR2tyOHJWUUhuaG1LTlV3ekEwUTAtUTNWbmZrRjVvdmhCd0dGWkNJMDJlQlkydmNJb00tTFN2bGRBRTkwT1E?oc=5)
+
+2026-08-26 <span class="news-indication-tag">失智</span>
+
+來源：[UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPZ20tUVFsV3lFVXQ3ZS04NXduQ3M2ZUwzMTR6Ynp5eGtNOVBCYXZfaEFhQlJUUy03aUVQTzk3TURIY0N3Ql96dWd0aDFvUUh10gFWQVVfeXFMTjNyLWFjdUhUNzczZFNoYzRBR2tyOHJWUUhuaG1LTlV3ekEwUTAtUTNWbmZrRjVvdmhCd0dGWkNJMDJlQlkydmNJb00tTFN2bGRBRTkwT1E?oc=5)
+
+---
 
 ### [4名腫瘤科醫師答案相同早上9點前一定要做這件事- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTE5UY002RW4tZGZySWZzYVdnbDJHX1ZMMjdUZDY1dThEbWk0NUhLS1VIeldHQVlFTUQ0RnRBVHlYb0JaWHNJSFZaVDZsM2ZZenZJelJGUkhXOGRDaUFJSnl6Yk9ubTJQdGNKemxPaTZn?oc=5)
 

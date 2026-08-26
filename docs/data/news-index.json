@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T08:31:52.946660+00:00",
-  "count": 6,
+  "generated": "2026-08-26T09:31:23.385417+00:00",
+  "count": 7,
   "news": [
     {
       "id": "927423e7d61e",
@@ -25,6 +25,30 @@
             {
               "slug": "disopyramide",
               "name": "Disopyramide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d8d3d1cfbba0",
+      "title": "失智長者突發性退化 醫：可進一步評估營養狀態加以改善",
+      "published": "2026-08-26T01:38:53+00:00",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPZ20tUVFsV3lFVXQ3ZS04NXduQ3M2ZUwzMTR6Ynp5eGtNOVBCYXZfaEFhQlJUUy03aUVQTzk3TURIY0N3Ql96dWd0aDFvUUh10gFWQVVfeXFMTjNyLWFjdUhUNzczZFNoYzRBR2tyOHJWUUhuaG1LTlV3ekEwUTAtUTNWbmZrRjVvdmhCd0dGWkNJMDJlQlkydmNJb00tTFN2bGRBRTkwT1E?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }

@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-08-26T08:31:52.924909+00:00",
-  "total_count": 25,
-  "matched_count": 6,
+  "last_updated": "2026-08-26T09:31:23.365410+00:00",
+  "total_count": 26,
+  "matched_count": 7,
   "news": [
+    {
+      "id": "ac1afaff7da1",
+      "title": "染疫吃「青蔥粥」可排痰降溫？牛津研究食譜公開",
+      "published": "2026-08-26T08:30:54+00:00",
+      "summary": "染疫吃「青蔥粥」可排痰降溫？牛津研究食譜公開&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPSGlOZFNZcm9pS0hpRE5MemxVcVJWeWpwV29hdFFaZDVBTldSV21JQ1lRTkhneUZ2cWMwUXBjZXFjTkhUSGlIUTJlUGdIVGRzdFBhMEEzZWd1Vk9Da29EazRaWWM0S2dOWjN3TzJJUjZsUmRVQjRhNFpaQjdFYk9YMmUtRkQwdUFjNGdOVWd2QTJtUjlVZlVtc2c4aUg5ZjllaDZETmMtV085c3NqTDJ0akRvNENPeVFaWUhKRUxLZlhZYm5HaUdoams0UHpScDV5a2ktWWV5U1ZVU2M0OElkVDJyZjNNSGFyYTBjRWFTMnRtZnQtemFfVkxLcUpGallZSnVFNUlxT2xsUFE1Y3JjSWxXelRlbVA5eV9pS0Vfc3lUeU8zd3ZEZU5BSHBVeXpHTTNWcDFpb2I0VDQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "0226594d3ba8",
       "title": "每天吃藍莓有何好處？營養專家揭一項最直接改變- 國際",
@@ -59,17 +72,29 @@
       "matched_keywords": []
     },
     {
-      "id": "bc6a2c1e152b",
-      "title": "染新冠8天還在燒！他吃2次「青蔥粥」狂出汗排痰　牛津食譜公開",
-      "published": "2026-08-26T02:50:00+00:00",
-      "summary": "染新冠8天還在燒！他吃2次「青蔥粥」狂出汗排痰 牛津食譜公開&nbsp;&nbsp;ETtoday健康雲",
+      "id": "d8d3d1cfbba0",
+      "title": "失智長者突發性退化 醫：可進一步評估營養狀態加以改善",
+      "published": "2026-08-26T01:38:53+00:00",
+      "summary": "失智長者突發性退化 醫：可進一步評估營養狀態加以改善&nbsp;&nbsp;UDN",
       "sources": [
         {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwc1BqZlM2WkhjLU5zTV9tZHBWLUNwRkF4TC1hYXFhbW5hRk5OZk4xeHJmQXltbzluR2swSWR1Z1VRZEV5WVdlOUlrUUZvTG5t0gFPQVVfeXFMTWdRMHppSndBVUs5RkVrQjcxMktuWjR2X0NMR3l3dnBpSmtHVFZBQmdhWVFTckhQVVkzNFpwZ0x4RF9Gend2LUtpd0pvUFhoYw?oc=5"
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPZ20tUVFsV3lFVXQ3ZS04NXduQ3M2ZUwzMTR6Ynp5eGtNOVBCYXZfaEFhQlJUUy03aUVQTzk3TURIY0N3Ql96dWd0aDFvUUh10gFWQVVfeXFMTjNyLWFjdUhUNzczZFNoYzRBR2tyOHJWUUhuaG1LTlV3ekEwUTAtUTNWbmZrRjVvdmhCd0dGWkNJMDJlQlkydmNJb00tTFN2bGRBRTkwT1E?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "8841c25e8983",
