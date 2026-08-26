@@ -1,15 +1,113 @@
 {
-  "generated": "2026-08-26T14:35:10.121348+00:00",
-  "count": 7,
+  "generated": "2026-08-26T16:10:07.541775+00:00",
+  "count": 8,
   "news": [
     {
-      "id": "2e8c68bbee98",
-      "title": "同齡卻像兩代人！哈佛研究揭「抗老5關鍵」 近10年無癌症、心血管病",
-      "published": "2026-08-26T11:06:52+00:00",
+      "id": "0cb20c7107b8",
+      "title": "帶狀皰疹疫苗大降中風與心臟病風險效果堪比降血壓藥- 國際",
+      "published": "2026-08-26T14:52:00+00:00",
       "sources": [
         {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRdVQxLUQ4dktXcjJoc2QwTVJxMlJNMlMtOVZFZVJfakpfRHQ4NHVnT1IwM19XdGxmZDRfcDAxLURXMDlDZURUM3JjMHU?oc=5"
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hbGg0d3VFVERXYk5qajNoUG00YWMtZ2hzSXJrM1VLc2kzQk1xYWtUUzJ2S0pZbkJ4TXBMYjlOemRnNlQwMTEzclZ1dExmcGE0LUtvLUZsYk5icWZfMG5z?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "帶狀皰疹",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c8fb0604911d",
+      "title": "同齡卻像兩代人！哈佛研究揭「抗老5關鍵」 近10年無癌症、心血管病",
+      "published": "2026-08-26T11:09:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNdzVQT3QwWDZ1VHVEeUg4X093bF94Z3hiWTNNUm8xQnNXV2Y0TTdxem9GQVlFWG9obWh2MEFnenMtUEQ0WXdlczV0Z09DQl9tZEZmTU1FZ2hTSjlWWXVCYnN3ZnN4YmRJb2lxS0U4T1B2UFRZZUNub1BPTWNHdFhfN2R1UFd3anFNNTJtRFhtOVNHZC12c1dldjJ2b09UTHFtY1hSOUlhVUZvNmJjbVVpTWZwVVpEYXg5b0U1T0I1SVhKSFNBODQxeU1JN3czU0E4WDVFWUxRb2l6S2g5UmRSYmV2cU9UVndNa3ZGVFdiaTB4VTVMWm84aS1pVjdOMDVvd0N1WmF4S3FyNVNTaFBIeFVPNDZUbzR2NUhNNkJKZ2M2OG53SGN0SF9pVDFBQnA5ejNFaWQyVkhXR3BkZjh0MTdOWUVsRXJ6aFduVURMeHVJbW9Qa2FTUWRMQTdXbjFIaVZLWkRvT2Jsd0FhWjRnanFTV3AtNEhDRkxyMXpGQ00wUEItRGtGVQ?oc=5"
         }
       ],
       "keywords": [
@@ -222,12 +320,12 @@
       ]
     },
     {
-      "id": "4fbcf8cc07e9",
+      "id": "f505b061b6de",
       "title": "長期攝取防腐劑增高血壓風險29% 避免加工肉果汁 8添加劑要注意",
       "published": "2026-08-26T07:00:09+00:00",
       "sources": [
         {
-          "name": "香港01",
+          "name": "hk01.com",
           "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxOY0JqNmwzZjYtV0U3M0NJbGRZbHRHRGRfYXpxb0dOQmVZemplNlZYRFY5SXZ3ZHd2Wlp2aEVFNVB0QkdYUG5hcGl4aVpBSFpIZksxY2E2U1Q0SklrMS1Ic291VTcyQ0dTbGx6LW1FTkZhZkoxajlGTURtbTFZT1ROUWQ2WnZwb1U4bDJjWVNuSmREd3RyaFdsV1VfUnhCbFJScHptNFB6SFlhYnNDdkxacXJRS1hwUWx5eW1YLVprNGstdm1jM21xemYyT0x6akROU0hCYWxwUHprZmVZRTNTRmtVYlRrcF84X1VqMmdzNGxxVmo3aWlfUW9BQjdXSGhXY18tRzJkd1c5aXBWRGNEemlUS09iSEJURzA4VktGSUtQYkM2UHRCQmU3YkdDLXpkUFdpMlM5VUxFZFZWQU5nenFKc24zOVA2a3FOUzVqY2NfeXFiWlJaU1lNam1ldFQtYXhEX0hmcXZrLUtHWnM0UWtHWEdUU3plTDNwQVFLT0kwbnRyZEN4cnFVRkV4bjVWX2Rib2dveXp1NTJD?oc=5"
         }
       ],
@@ -522,13 +620,13 @@
       ]
     },
     {
-      "id": "7cac4b49b6b9",
-      "title": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 | 科技新報 - LINE TODAY",
-      "published": "2026-08-25T08:33:56+00:00",
+      "id": "d4c056a67373",
+      "title": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 - TechNews 科技新報",
+      "published": "2026-08-25T00:44:35+00:00",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lbkd4ZnFmX2dFblhIWUdVQUJxaE5Ja1Y4RVE5YzZ5LWZTRC1SQkp5UmpZUTM5bEJneWVRRlRvb2xWZXk0aW16NjRNM1AzMGpKSEZVV0tR?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2dsMGNadUVtX1ZnZ0ZnemlOVGtwRFZHOGM5elR4cHlldmlGcjJRVWlhNUlkRVNaeDRBbTJtS1NnVTVTeU1LbERJalhUWnNKbVE3anlLQWk1alozbDlGRmFoZ1RoYl93MFZUcDA2UEh6dDc5NHFseDVNTWRMd0QtMkozODZGZUtneFQzNUVES1JoNG5zeUlKS1JvakFkc2pFa1E?oc=5"
         }
       ],
       "keywords": [
