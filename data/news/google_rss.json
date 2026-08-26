@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-26T13:45:02.873400+00:00",
-  "count": 26,
+  "fetched_at": "2026-08-26T14:35:08.287236+00:00",
+  "count": 24,
   "news": [
     {
       "id": "fb799d70af4d",
@@ -36,18 +36,6 @@
         {
           "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRdVQxLUQ4dktXcjJoc2QwTVJxMlJNMlMtOVZFZVJfakpfRHQ4NHVnT1IwM19XdGxmZDRfcDAxLURXMDlDZURUM3JjMHU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "afc325c960b2",
-      "title": "3 分鐘衝刺勝過 90 分鐘運動，研究揭驚人分子反應、牽動老化相關蛋白 - TechNews 科技新報",
-      "published": "2026-08-26T04:06:51+00:00",
-      "summary": "3 分鐘衝刺勝過 90 分鐘運動，研究揭驚人分子反應、牽動老化相關蛋白&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSjZVSFFYb3VjeUV4aUh6UDhjb01kMVFjSm5mYzZuc2xmY091dTNNeHVod2FhR1hUdnpHeVpRVktUUkYtVTR6Yi10c2NtaFFfTS11RlRueXdVbUZ6M3Zuc2pzbGlCcUswUGdDNjkyaTVOZE0ycVJJMzAyUnZnbHQzYUdFcTlSMmRPNUFHbzBvejRJeFFxblBsZzg1NGZWeTN3UThwMW83ZVA2UzctVGFTR183a3QwSU9uX3pFa19wTzFZcDRYMkpCUVU0RWpjQVlBeVRoWDZGSWpOS29mbGN6OEdsaW5LRHhUTjFtSlZYMlVMZ2NHS0llSTd6MA?oc=5"
         }
       ]
     },
@@ -100,14 +88,14 @@
       ]
     },
     {
-      "id": "fdcbca55f2be",
-      "title": "抵禦酷暑不再僅限淺色，科學家開發比白布更涼的散熱紫色布料 | 科技新報 - LINE TODAY",
-      "published": "2026-08-25T14:33:55+00:00",
-      "summary": "抵禦酷暑不再僅限淺色，科學家開發比白布更涼的散熱紫色布料 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "id": "3209b3706e28",
+      "title": "抵禦酷暑不再僅限淺色，科學家開發比白布更涼的散熱紫色布料 - TechNews 科技新報",
+      "published": "2026-08-25T04:59:55+00:00",
+      "summary": "抵禦酷暑不再僅限淺色，科學家開發比白布更涼的散熱紫色布料&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oQk5uYzJ3ZERhX25SYnQySkNnRXBjOVdVTjRUSkJsbEJsTkNYaXN5a2F5SEVCUEw4dGZSWERJMWtaOWxWT2tyazlZbEtCdVlnQ1N6MHl3?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tVXRwUFdmbXJrYkZfSUs1MVhYNGxGWDItWHFXMGp4bjlfSDg3OW1JVWEtVlpkS0dpZ0xUQzhYOUZHMHUyZ1FpX0xlMU1keEUzSkJwaGdTNmVyTTNWUjhxbGQ4NnM?oc=5"
         }
       ]
     },
@@ -124,26 +112,14 @@
       ]
     },
     {
-      "id": "b2ff5415932f",
-      "title": "別以為打過流感、新冠就沒事！ 權威醫警告肺炎鏈球菌最大缺口竟是「這群人」 - 蕃新聞",
-      "published": "2026-08-25T02:00:00+00:00",
-      "summary": "別以為打過流感、新冠就沒事！ 權威醫警告肺炎鏈球菌最大缺口竟是「這群人」&nbsp;&nbsp;蕃新聞",
+      "id": "7cac4b49b6b9",
+      "title": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 | 科技新報 - LINE TODAY",
+      "published": "2026-08-25T08:33:56+00:00",
+      "summary": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LZENreUpxQktJblZxQXB4RzA4eUF5c1RMUG0wcTRWVnBiV0Jmc1d1bFItVmE5N2kyMkdsWGFxOTY4TDMtUkZiQml3WnlxeC1WWHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d4c056a67373",
-      "title": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 - TechNews 科技新報",
-      "published": "2026-08-25T00:44:35+00:00",
-      "summary": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2dsMGNadUVtX1ZnZ0ZnemlOVGtwRFZHOGM5elR4cHlldmlGcjJRVWlhNUlkRVNaeDRBbTJtS1NnVTVTeU1LbERJalhUWnNKbVE3anlLQWk1alozbDlGRmFoZ1RoYl93MFZUcDA2UEh6dDc5NHFseDVNTWRMd0QtMkozODZGZUtneFQzNUVES1JoNG5zeUlKS1JvakFkc2pFa1E?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lbkd4ZnFmX2dFblhIWUdVQUJxaE5Ja1Y4RVE5YzZ5LWZTRC1SQkp5UmpZUTM5bEJneWVRRlRvb2xWZXk0aW16NjRNM1AzMGpKSEZVV0tR?oc=5"
         }
       ]
     },
@@ -160,14 +136,14 @@
       ]
     },
     {
-      "id": "885cdd6fbf78",
-      "title": "4名腫瘤科醫師答案相同早上9點前一定要做這件事- 國際 - 中時新聞網",
-      "published": "2026-08-25T07:09:14+00:00",
-      "summary": "4名腫瘤科醫師答案相同早上9點前一定要做這件事- 國際&nbsp;&nbsp;中時新聞網",
+      "id": "04ee0210b8f3",
+      "title": "4名腫瘤科醫師答案相同 早上9點前要做這件事 - Overseas Chinese Daily News",
+      "published": "2026-08-25T12:21:42+00:00",
+      "summary": "4名腫瘤科醫師答案相同 早上9點前要做這件事&nbsp;&nbsp;Overseas Chinese Daily News",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UY002RW4tZGZySWZzYVdnbDJHX1ZMMjdUZDY1dThEbWk0NUhLS1VIeldHQVlFTUQ0RnRBVHlYb0JaWHNJSFZaVDZsM2ZZenZJelJGUkhXOGRDaUFJSnl6Yk9ubTJQdGNKemxPaTZn?oc=5"
+          "name": "Overseas Chinese Daily News",
+          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNdXdDdmszczJWODh2dnFod1BVLVBXY1VEaDlxd1lxd1J5M1JiRzIxY3VIb205TDZGS0JWVUFOMmhSOVNkNi1uaklTczFrOVFEOGw3dW9zdmxkR25QblNoZURnY05nRVh0bVc0TFNoUlZoU0loNXFZZ0huY0xpRlYybzhESzFUSGIwbl9Vblk4WDdPRVNCbER3a3JvdEpjVi1CNktSbGlZSmROeVpCakhLaHM5bXFRU3hvRXZZU0o2dEZLUXdfMkx6V19pbENrbWY0ZGxON2h2VTV6Z0xBS3QzY2JrWW4yMzBWWXRDRmJDUTZuYlJrUjB3TVpSQlZTUlBDTzNPWG5nUUhWTW5DQ09MM1YwdzdwYUotODBhX2U5SXRZZWFBLTZjZ0dFWlJka3p1RmNaQnRZSWU5RW1xdGQ0QjZZRHowQlN6ZkVweFh2SFU?oc=5"
         }
       ]
     },
@@ -244,18 +220,6 @@
       ]
     },
     {
-      "id": "f97d0999dd9f",
-      "title": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號 - 巴士的報",
-      "published": "2026-08-24T22:40:03+00:00",
-      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPbjV5cTdqZjN5d0VGTXlOdEstVmtWZGlydzIxMXJ3TGh6cWwtdEw3eGVXdWh6ZnJkNlRVaG1mQmY5ME56by05S0FNclEwNU1OMDVOWUNMbWUyVzc5MFBRMHlKX3JEeE04NEVwd2RmdUc3NGJoa0I2NEo1SVhDRE9qdHdZSnpOOHdQWkh6QWFseU5GZERLdldUSG1ZMW1PTWRIY0xCLUpvSURSNkJQLXdhSjZPZC1NY05QamMzMGozNWFTLUNKS2pKMl92RkVaMnA0RWRUTWFHRmRZQTAzN1B0d2VOWFBaUjJMcmNvWmI0ZldZT043dUlLYkRsV3RiR2tWSng3TFRvMnppYzN1RnR4S3J1czh5X1pQblJPRUs0NzRCQURtSS1WS095TE5QTWVuelZZRjF4UzdSSS10V2V0c00tMlY4VV9KQjlKQlE2N1l2S2ptZjM1Q1FYSEFybENHaVRZUDVGRXkxbVlGeDJJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4fbcf8cc07e9",
       "title": "長期攝取防腐劑增高血壓風險29% 避免加工肉果汁 8添加劑要注意 - 香港01",
       "published": "2026-08-26T07:00:09+00:00",
@@ -264,6 +228,18 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxOY0JqNmwzZjYtV0U3M0NJbGRZbHRHRGRfYXpxb0dOQmVZemplNlZYRFY5SXZ3ZHd2Wlp2aEVFNVB0QkdYUG5hcGl4aVpBSFpIZksxY2E2U1Q0SklrMS1Ic291VTcyQ0dTbGx6LW1FTkZhZkoxajlGTURtbTFZT1ROUWQ2WnZwb1U4bDJjWVNuSmREd3RyaFdsV1VfUnhCbFJScHptNFB6SFlhYnNDdkxacXJRS1hwUWx5eW1YLVprNGstdm1jM21xemYyT0x6akROU0hCYWxwUHprZmVZRTNTRmtVYlRrcF84X1VqMmdzNGxxVmo3aWlfUW9BQjdXSGhXY18tRzJkd1c5aXBWRGNEemlUS09iSEJURzA4VktGSUtQYkM2UHRCQmU3YkdDLXpkUFdpMlM5VUxFZFZWQU5nenFKc24zOVA2a3FOUzVqY2NfeXFiWlJaU1lNam1ldFQtYXhEX0hmcXZrLUtHWnM0UWtHWEdUU3plTDNwQVFLT0kwbnRyZEN4cnFVRkV4bjVWX2Rib2dveXp1NTJD?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f97d0999dd9f",
+      "title": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號 - 巴士的報",
+      "published": "2026-08-24T22:40:03+00:00",
+      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPbjV5cTdqZjN5d0VGTXlOdEstVmtWZGlydzIxMXJ3TGh6cWwtdEw3eGVXdWh6ZnJkNlRVaG1mQmY5ME56by05S0FNclEwNU1OMDVOWUNMbWUyVzc5MFBRMHlKX3JEeE04NEVwd2RmdUc3NGJoa0I2NEo1SVhDRE9qdHdZSnpOOHdQWkh6QWFseU5GZERLdldUSG1ZMW1PTWRIY0xCLUpvSURSNkJQLXdhSjZPZC1NY05QamMzMGozNWFTLUNKS2pKMl92RkVaMnA0RWRUTWFHRmRZQTAzN1B0d2VOWFBaUjJMcmNvWmI0ZldZT043dUlLYkRsV3RiR2tWSng3TFRvMnppYzN1RnR4S3J1czh5X1pQblJPRUs0NzRCQURtSS1WS095TE5QTWVuelZZRjF4UzdSSS10V2V0c00tMlY4VV9KQjlKQlE2N1l2S2ptZjM1Q1FYSEFybENHaVRZUDVGRXkxbVlGeDJJ?oc=5"
         }
       ]
     },
@@ -280,18 +256,6 @@
       ]
     },
     {
-      "id": "aa55b855ff8e",
-      "title": "研究：生酮類飲食或能改善精神疾病 - 大纪元",
-      "published": "2026-08-24T15:00:00+00:00",
-      "summary": "研究：生酮類飲食或能改善精神疾病&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tSmFlM2NvcFJpRV9fSFVDY3l5dV9ic2RoZjl5U2ZaX240ZEItM3FkWDEzbWp3MW4tRFE4NEJuYTJqOWRQajgzSmpiTkRwS01WVUE2UWczQnhRSGhUTTF0MNIBZkFVX3lxTE9MYXdraDZTcTlTbG1zWksza1AzSGU0OWtIZDZTRklqQUFSOU1QU1J2Z3dmaXFOY3M1QjZYQWdHaEpxa2ZtZHdUelMzTnlaTndoR293T2dyVXFUSmFRaU0wLWFYZk45Zw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3789cf4a0b53",
       "title": "60歲女子連續兩天吃麻辣燙 腹痛痾嘔送院揭大腸桿菌入血致敗血症 - 香港01",
       "published": "2026-08-24T23:20:33+00:00",
@@ -300,6 +264,18 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOQi1sRS1TenV5cGxaOTJmaTlIcldmeTkwS1lmUktmaTFZdnliVXdyeEs1V2szRXFqaVN6ZVh6VWZRaEdHdDNObG1LU0Z3Sy1ScHczaFBJdVlnT1dZa0lGdklwRzN4alZIWnFTRDlLYm9JRXhwblpQdzBWVHlfTnpvaWdMalNxR0tNYU5xSlFNQU10VnRCMHFOV0VyeEx4aDluY1VOWmFIU3pnVjdNc1VyY3IxajR2U0sxZFA5Q0toRVV0TUdiQWJiNTg5ZUZ3NnBsMGRRSmhnYXo3VE9IUld3UnkwWGxyemRES2FEUzJ1X2ZIYWs1V1FZd3Bkd19ZblpLRm1kWUtJNlJYbGRyYURiTllLQjk1b19aRnczNDRTTkZHSGgxc1VWM1Rvc1RmY1Mza2p4MGhHNkdYSVZHYU81dk1sbVIyZlhBSGljZElLRmhoWFhmRkYtZUoxQndvOUcyTlhyc3U5MFZwalRoVHY4N1JSRjA0RU9OVXR0T29GNEJTb01Rb2dBZXVacDdlckZaeGd5UVNSdHMwd1UyZmZCOWNKUzlRaGVfVjVTSUVrUHZWNi1XUVpF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa55b855ff8e",
+      "title": "研究：生酮類飲食或能改善精神疾病 - 大纪元",
+      "published": "2026-08-24T15:00:00+00:00",
+      "summary": "研究：生酮類飲食或能改善精神疾病&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tSmFlM2NvcFJpRV9fSFVDY3l5dV9ic2RoZjl5U2ZaX240ZEItM3FkWDEzbWp3MW4tRFE4NEJuYTJqOWRQajgzSmpiTkRwS01WVUE2UWczQnhRSGhUTTF0MNIBZkFVX3lxTE9MYXdraDZTcTlTbG1zWksza1AzSGU0OWtIZDZTRklqQUFSOU1QU1J2Z3dmaXFOY3M1QjZYQWdHaEpxa2ZtZHdUelMzTnlaTndoR293T2dyVXFUSmFRaU0wLWFYZk45Zw?oc=5"
         }
       ]
     },

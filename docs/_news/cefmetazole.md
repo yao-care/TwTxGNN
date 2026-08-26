@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [同齡卻像兩代人！哈佛研究揭「抗老5關鍵」 近10年無癌症、心血管病](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRdVQxLUQ4dktXcjJoc2QwTVJxMlJNMlMtOVZFZVJfakpfRHQ4NHVnT1IwM19XdGxmZDRfcDAxLURXMDlDZURUM3JjMHU?oc=5)
 
@@ -51,19 +51,11 @@ permalink: /news/cefmetazole/
 
 ---
 
-### [4名腫瘤科醫師答案相同早上9點前一定要做這件事- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTE5UY002RW4tZGZySWZzYVdnbDJHX1ZMMjdUZDY1dThEbWk0NUhLS1VIeldHQVlFTUQ0RnRBVHlYb0JaWHNJSFZaVDZsM2ZZenZJelJGUkhXOGRDaUFJSnl6Yk9ubTJQdGNKemxPaTZn?oc=5)
+### [4名腫瘤科醫師答案相同 早上9點前要做這件事 - Overseas Chinese Daily News](https://news.google.com/rss/articles/CBMi0AJBVV95cUxNdXdDdmszczJWODh2dnFod1BVLVBXY1VEaDlxd1lxd1J5M1JiRzIxY3VIb205TDZGS0JWVUFOMmhSOVNkNi1uaklTczFrOVFEOGw3dW9zdmxkR25QblNoZURnY05nRVh0bVc0TFNoUlZoU0loNXFZZ0huY0xpRlYybzhESzFUSGIwbl9Vblk4WDdPRVNCbER3a3JvdEpjVi1CNktSbGlZSmROeVpCakhLaHM5bXFRU3hvRXZZU0o2dEZLUXdfMkx6V19pbENrbWY0ZGxON2h2VTV6Z0xBS3QzY2JrWW4yMzBWWXRDRmJDUTZuYlJrUjB3TVpSQlZTUlBDTzNPWG5nUUhWTW5DQ09MM1YwdzdwYUotODBhX2U5SXRZZWFBLTZjZ0dFWlJka3p1RmNaQnRZSWU5RW1xdGQ0QjZZRHowQlN6ZkVweFh2SFU?oc=5)
 
 2026-08-25 <span class="news-indication-tag">腫瘤</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5UY002RW4tZGZySWZzYVdnbDJHX1ZMMjdUZDY1dThEbWk0NUhLS1VIeldHQVlFTUQ0RnRBVHlYb0JaWHNJSFZaVDZsM2ZZenZJelJGUkhXOGRDaUFJSnl6Yk9ubTJQdGNKemxPaTZn?oc=5)
-
----
-
-### [別以為打過流感、新冠就沒事！ 權威醫警告肺炎鏈球菌最大缺口竟是「這群人」](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LZENreUpxQktJblZxQXB4RzA4eUF5c1RMUG0wcTRWVnBiV0Jmc1d1bFItVmE5N2kyMkdsWGFxOTY4TDMtUkZiQml3WnlxeC1WWHc?oc=5)
-
-2026-08-25 <span class="news-indication-tag">鏈球菌</span>
-
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LZENreUpxQktJblZxQXB4RzA4eUF5c1RMUG0wcTRWVnBiV0Jmc1d1bFItVmE5N2kyMkdsWGFxOTY4TDMtUkZiQml3WnlxeC1WWHc?oc=5)
+來源：[Overseas Chinese Daily News](https://news.google.com/rss/articles/CBMi0AJBVV95cUxNdXdDdmszczJWODh2dnFod1BVLVBXY1VEaDlxd1lxd1J5M1JiRzIxY3VIb205TDZGS0JWVUFOMmhSOVNkNi1uaklTczFrOVFEOGw3dW9zdmxkR25QblNoZURnY05nRVh0bVc0TFNoUlZoU0loNXFZZ0huY0xpRlYybzhESzFUSGIwbl9Vblk4WDdPRVNCbER3a3JvdEpjVi1CNktSbGlZSmROeVpCakhLaHM5bXFRU3hvRXZZU0o2dEZLUXdfMkx6V19pbENrbWY0ZGxON2h2VTV6Z0xBS3QzY2JrWW4yMzBWWXRDRmJDUTZuYlJrUjB3TVpSQlZTUlBDTzNPWG5nUUhWTW5DQ09MM1YwdzdwYUotODBhX2U5SXRZZWFBLTZjZ0dFWlJka3p1RmNaQnRZSWU5RW1xdGQ0QjZZRHowQlN6ZkVweFh2SFU?oc=5)
 
 ---
 
