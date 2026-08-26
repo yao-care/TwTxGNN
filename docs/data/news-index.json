@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T16:10:07.541775+00:00",
-  "count": 8,
+  "generated": "2026-08-26T18:50:40.320255+00:00",
+  "count": 12,
   "news": [
     {
       "id": "0cb20c7107b8",
@@ -656,13 +656,13 @@
       ]
     },
     {
-      "id": "40d6f2d12fba",
-      "title": "長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命 | TVBS - LINE TODAY",
-      "published": "2026-08-24T18:36:28+00:00",
+      "id": "7b9b8be0071a",
+      "title": "長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命",
+      "published": "2026-08-24T01:32:00+00:00",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QYzFpRUd4SUVTaEU2TVZ0THFVS3BRQllxeWZZb2lBRnpTUkFCNnFvN1hLQWR5MzNQQUpKeHliLVg1a2pUWm8xTEIyZE5sM28wWGs0cVdn?oc=5"
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVOHNiSV9TZGVxS0dTS2tXWXZjcWdUMERWWmVPS3MtSGNLR0dDWWZ3Q3R4cjFPQkprLTRqLWJLUi1SUzg2X3lBSXRjR2c2WTln?oc=5"
         }
       ],
       "keywords": [
@@ -858,6 +858,125 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a866609e4be1",
+      "title": "漱口水能驗出大腸癌？研究發現口腔菌藏關鍵訊號",
+      "published": "2026-08-22T08:00:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80NnB2Mnh4WnJpc1NNUC0tcFljckJQenpHV0k0aHpXbEMteG5XNVFfMEg3ekhYamtQMHV6M215cE1CdFdoUGZGc2hCTi1LNTVpNHBjMTRyaXN3WElSWGYya0l0ZEU?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9a9501fa3325",
+      "title": "羅志祥66歲母親罹「阿茲海默症」…醫：1飲食法「逆轉腦齡7.5歲」，這些傷腦食物要少吃",
+      "published": "2026-08-22T01:13:28+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOYUh6d0pCeDlVRXZFbWhtX1VXeEhEN3RqZXNaUlRyclM2a3p4S1l0U2l1M1J2WU42WmtmVkpTQ0xITGdSbE1xYlR0ak9NOFZ0dGNveHdLZ19PMFBITlE3QWRiY3l1SGlYd1pCZW5VRlpVSTc0MHNJSVM5Z2pkOXc1X2QxTDNxVFhkZTJaemE4aUtua3dMbGlSeVh1NmZiaEFBZE5VWUg5U21uano3Ym94VFZ2NTg1X2l4YVItZEZsYnRuUmpsb0ROZTEySDQtX3lOSGNpVWVLek9HWHQxWXRvbGRzVElUU0RDQnNNcmNHa2tfc3hQcGU2VnZSZzlKOXdyWUdOOTUtSWZtTXc5UUFtZzRyTE8xeFU2T0FncjhjOUV0dEZweldxS01wVVFLZUxCczlIaFE4Sm14aXZNVGRrODBKaXBra0lMTFRsbTRn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c9206438d285",
+      "title": "調整大腦免疫反應，找回阿茲海默症患者失去的睡眠 - TechNews 科技新報",
+      "published": "2026-08-21T16:31:31+00:00",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczIxX3dXdFFwLWIzSEdsRlZQUE9hZWpmbHdGNEJNNy1aTFRpYjdTSnNhNkdDaU1VOFdLUkUxY3dqSVA1ZVFuX28zRVN0N2NLN3FicnFHd0lfRFVYbjk5Q203M1NJR2VTdklBOVdnVzhtV1U4V2dYRkZSTU5ON1phbHVYSGIzUlg0WjB5ZnpoR3lQTEVGUm5lZk4yNnBjUE9zZlE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2bff6c7dce30",
+      "title": "女子感冒怕藥毒拒就醫 4天引發急性腎損傷",
+      "published": "2026-08-21T06:04:26+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOcUZtS2E0OVVCNW8wX3ByQ3F4b3cxUmZITzZEM1dtR3ZSMkRUQ0tHWWhmekhXWFZjUlpPSW91cnlGWEpIaWZqTFFINWtaRDVWZTdjTXZPMnZ1NDlNU0UxTmF1TV84RXprTndmbl9nanIzU3pPSFhGTXB2UllNZTkzUVpPZ3NWUFdRU010TXhzR3g0dEhJNHFRUlo0UWwydW9Bc2tOLTQtTGtIVGU5ZXQtaWxkTjAzUTFhSnZqQ3c2OVNBLThJN0c1VmdFbW1BLVRGSVRYZUdibXBxMTRKQ3lRRVdlbUFFYVlhQi1nSFE3bjg5OXJJeWpFSEZyeDJ4OUZsckxRODdvR3c0blVKZno3djctd2ZoVTFDLXAtc2UtbkRfUm5wb1FjZ0VSY0pJdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }

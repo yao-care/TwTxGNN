@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
 
 ### [同齡卻像兩代人！哈佛研究揭「抗老5關鍵」 近10年無癌症、心血管病](https://news.google.com/rss/articles/CBMiiANBVV95cUxNdzVQT3QwWDZ1VHVEeUg4X093bF94Z3hiWTNNUm8xQnNXV2Y0TTdxem9GQVlFWG9obWh2MEFnenMtUEQ0WXdlczV0Z09DQl9tZEZmTU1FZ2hTSjlWWXVCYnN3ZnN4YmRJb2lxS0U4T1B2UFRZZUNub1BPTWNHdFhfN2R1UFd3anFNNTJtRFhtOVNHZC12c1dldjJ2b09UTHFtY1hSOUlhVUZvNmJjbVVpTWZwVVpEYXg5b0U1T0I1SVhKSFNBODQxeU1JN3czU0E4WDVFWUxRb2l6S2g5UmRSYmV2cU9UVndNa3ZGVFdiaTB4VTVMWm84aS1pVjdOMDVvd0N1WmF4S3FyNVNTaFBIeFVPNDZUbzR2NUhNNkJKZ2M2OG53SGN0SF9pVDFBQnA5ejNFaWQyVkhXR3BkZjh0MTdOWUVsRXJ6aFduVURMeHVJbW9Qa2FTUWRMQTdXbjFIaVZLWkRvT2Jsd0FhWjRnanFTV3AtNEhDRkxyMXpGQ00wUEItRGtGVQ?oc=5)
 
@@ -59,11 +59,27 @@ permalink: /news/gefitinib/
 
 ---
 
-### [長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命 | TVBS - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QYzFpRUd4SUVTaEU2TVZ0THFVS3BRQllxeWZZb2lBRnpTUkFCNnFvN1hLQWR5MzNQQUpKeHliLVg1a2pUWm8xTEIyZE5sM28wWGs0cVdn?oc=5)
+### [長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVOHNiSV9TZGVxS0dTS2tXWXZjcWdUMERWWmVPS3MtSGNLR0dDWWZ3Q3R4cjFPQkprLTRqLWJLUi1SUzg2X3lBSXRjR2c2WTln?oc=5)
 
 2026-08-24 <span class="news-indication-tag">癌症</span>
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QYzFpRUd4SUVTaEU2TVZ0THFVS3BRQllxeWZZb2lBRnpTUkFCNnFvN1hLQWR5MzNQQUpKeHliLVg1a2pUWm8xTEIyZE5sM28wWGs0cVdn?oc=5)
+來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVOHNiSV9TZGVxS0dTS2tXWXZjcWdUMERWWmVPS3MtSGNLR0dDWWZ3Q3R4cjFPQkprLTRqLWJLUi1SUzg2X3lBSXRjR2c2WTln?oc=5)
+
+---
+
+### [羅志祥66歲母親罹「阿茲海默症」…醫：1飲食法「逆轉腦齡7.5歲」，這些傷腦食物要少吃](https://news.google.com/rss/articles/CBMizgJBVV95cUxOYUh6d0pCeDlVRXZFbWhtX1VXeEhEN3RqZXNaUlRyclM2a3p4S1l0U2l1M1J2WU42WmtmVkpTQ0xITGdSbE1xYlR0ak9NOFZ0dGNveHdLZ19PMFBITlE3QWRiY3l1SGlYd1pCZW5VRlpVSTc0MHNJSVM5Z2pkOXc1X2QxTDNxVFhkZTJaemE4aUtua3dMbGlSeVh1NmZiaEFBZE5VWUg5U21uano3Ym94VFZ2NTg1X2l4YVItZEZsYnRuUmpsb0ROZTEySDQtX3lOSGNpVWVLek9HWHQxWXRvbGRzVElUU0RDQnNNcmNHa2tfc3hQcGU2VnZSZzlKOXdyWUdOOTUtSWZtTXc5UUFtZzRyTE8xeFU2T0FncjhjOUV0dEZweldxS01wVVFLZUxCczlIaFE4Sm14aXZNVGRrODBKaXBra0lMTFRsbTRn?oc=5)
+
+2026-08-22 <span class="news-indication-tag">阿茲海默症</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMizgJBVV95cUxOYUh6d0pCeDlVRXZFbWhtX1VXeEhEN3RqZXNaUlRyclM2a3p4S1l0U2l1M1J2WU42WmtmVkpTQ0xITGdSbE1xYlR0ak9NOFZ0dGNveHdLZ19PMFBITlE3QWRiY3l1SGlYd1pCZW5VRlpVSTc0MHNJSVM5Z2pkOXc1X2QxTDNxVFhkZTJaemE4aUtua3dMbGlSeVh1NmZiaEFBZE5VWUg5U21uano3Ym94VFZ2NTg1X2l4YVItZEZsYnRuUmpsb0ROZTEySDQtX3lOSGNpVWVLek9HWHQxWXRvbGRzVElUU0RDQnNNcmNHa2tfc3hQcGU2VnZSZzlKOXdyWUdOOTUtSWZtTXc5UUFtZzRyTE8xeFU2T0FncjhjOUV0dEZweldxS01wVVFLZUxCczlIaFE4Sm14aXZNVGRrODBKaXBra0lMTFRsbTRn?oc=5)
+
+---
+
+### [調整大腦免疫反應，找回阿茲海默症患者失去的睡眠 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxQczIxX3dXdFFwLWIzSEdsRlZQUE9hZWpmbHdGNEJNNy1aTFRpYjdTSnNhNkdDaU1VOFdLUkUxY3dqSVA1ZVFuX28zRVN0N2NLN3FicnFHd0lfRFVYbjk5Q203M1NJR2VTdklBOVdnVzhtV1U4V2dYRkZSTU5ON1phbHVYSGIzUlg0WjB5ZnpoR3lQTEVGUm5lZk4yNnBjUE9zZlE?oc=5)
+
+2026-08-21 <span class="news-indication-tag">阿茲海默症</span>
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxQczIxX3dXdFFwLWIzSEdsRlZQUE9hZWpmbHdGNEJNNy1aTFRpYjdTSnNhNkdDaU1VOFdLUkUxY3dqSVA1ZVFuX28zRVN0N2NLN3FicnFHd0lfRFVYbjk5Q203M1NJR2VTdklBOVdnVzhtV1U4V2dYRkZSTU5ON1phbHVYSGIzUlg0WjB5ZnpoR3lQTEVGUm5lZk4yNnBjUE9zZlE?oc=5)
 
 ---
 

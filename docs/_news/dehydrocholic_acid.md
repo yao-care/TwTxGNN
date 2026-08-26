@@ -60,11 +60,11 @@ permalink: /news/dehydrocholic_acid/
 
 ---
 
-### [長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命 | TVBS - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QYzFpRUd4SUVTaEU2TVZ0THFVS3BRQllxeWZZb2lBRnpTUkFCNnFvN1hLQWR5MzNQQUpKeHliLVg1a2pUWm8xTEIyZE5sM28wWGs0cVdn?oc=5)
+### [長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVOHNiSV9TZGVxS0dTS2tXWXZjcWdUMERWWmVPS3MtSGNLR0dDWWZ3Q3R4cjFPQkprLTRqLWJLUi1SUzg2X3lBSXRjR2c2WTln?oc=5)
 
 2026-08-24 <span class="news-indication-tag">癌症</span>
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QYzFpRUd4SUVTaEU2TVZ0THFVS3BRQllxeWZZb2lBRnpTUkFCNnFvN1hLQWR5MzNQQUpKeHliLVg1a2pUWm8xTEIyZE5sM28wWGs0cVdn?oc=5)
+來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVOHNiSV9TZGVxS0dTS2tXWXZjcWdUMERWWmVPS3MtSGNLR0dDWWZ3Q3R4cjFPQkprLTRqLWJLUi1SUzg2X3lBSXRjR2c2WTln?oc=5)
 
 ---
 
