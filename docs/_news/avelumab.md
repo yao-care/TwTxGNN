@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [帶狀皰疹疫苗大降中風與心臟病風險效果堪比降血壓藥- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hbGg0d3VFVERXYk5qajNoUG00YWMtZ2hzSXJrM1VLc2kzQk1xYWtUUzJ2S0pZbkJ4TXBMYjlOemRnNlQwMTEzclZ1dExmcGE0LUtvLUZsYk5icWZfMG5z?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/avelumab/
 2026-08-25 <span class="news-indication-tag">腫瘤</span>
 
 來源：[Overseas Chinese Daily News](https://news.google.com/rss/articles/CBMi0AJBVV95cUxNdXdDdmszczJWODh2dnFod1BVLVBXY1VEaDlxd1lxd1J5M1JiRzIxY3VIb205TDZGS0JWVUFOMmhSOVNkNi1uaklTczFrOVFEOGw3dW9zdmxkR25QblNoZURnY05nRVh0bVc0TFNoUlZoU0loNXFZZ0huY0xpRlYybzhESzFUSGIwbl9Vblk4WDdPRVNCbER3a3JvdEpjVi1CNktSbGlZSmROeVpCakhLaHM5bXFRU3hvRXZZU0o2dEZLUXdfMkx6V19pbENrbWY0ZGxON2h2VTV6Z0xBS3QzY2JrWW4yMzBWWXRDRmJDUTZuYlJrUjB3TVpSQlZTUlBDTzNPWG5nUUhWTW5DQ09MM1YwdzdwYUotODBhX2U5SXRZZWFBLTZjZ0dFWlJka3p1RmNaQnRZSWU5RW1xdGQ0QjZZRHowQlN6ZkVweFh2SFU?oc=5)
-
----
-
-### [長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVOHNiSV9TZGVxS0dTS2tXWXZjcWdUMERWWmVPS3MtSGNLR0dDWWZ3Q3R4cjFPQkprLTRqLWJLUi1SUzg2X3lBSXRjR2c2WTln?oc=5)
-
-2026-08-24 <span class="news-indication-tag">癌症</span>
-
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVOHNiSV9TZGVxS0dTS2tXWXZjcWdUMERWWmVPS3MtSGNLR0dDWWZ3Q3R4cjFPQkprLTRqLWJLUi1SUzg2X3lBSXRjR2c2WTln?oc=5)
 
 ---
 
