@@ -1,8 +1,228 @@
 {
-  "last_updated": "2026-08-26T11:19:52.762629+00:00",
+  "last_updated": "2026-08-26T12:32:24.959335+00:00",
   "total_count": 26,
-  "matched_count": 7,
+  "matched_count": 8,
   "news": [
+    {
+      "id": "c8fb0604911d",
+      "title": "同齡卻像兩代人！哈佛研究揭「抗老5關鍵」 近10年無癌症、心血管病",
+      "published": "2026-08-26T11:09:00+00:00",
+      "summary": "同齡卻像兩代人！哈佛研究揭「抗老5關鍵」 近10年無癌症、心血管病&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNdzVQT3QwWDZ1VHVEeUg4X093bF94Z3hiWTNNUm8xQnNXV2Y0TTdxem9GQVlFWG9obWh2MEFnenMtUEQ0WXdlczV0Z09DQl9tZEZmTU1FZ2hTSjlWWXVCYnN3ZnN4YmRJb2lxS0U4T1B2UFRZZUNub1BPTWNHdFhfN2R1UFd3anFNNTJtRFhtOVNHZC12c1dldjJ2b09UTHFtY1hSOUlhVUZvNmJjbVVpTWZwVVpEYXg5b0U1T0I1SVhKSFNBODQxeU1JN3czU0E4WDVFWUxRb2l6S2g5UmRSYmV2cU9UVndNa3ZGVFdiaTB4VTVMWm84aS1pVjdOMDVvd0N1WmF4S3FyNVNTaFBIeFVPNDZUbzR2NUhNNkJKZ2M2OG53SGN0SF9pVDFBQnA5ejNFaWQyVkhXR3BkZjh0MTdOWUVsRXJ6aFduVURMeHVJbW9Qa2FTUWRMQTdXbjFIaVZLWkRvT2Jsd0FhWjRnanFTV3AtNEhDRkxyMXpGQ00wUEItRGtGVQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "fb799d70af4d",
       "title": "40歲女性如何維持骨骼強健？骨科專家推薦的必做運動指南及日常習慣 - Vogue Taiwan",
@@ -17,69 +237,14 @@
       "matched_keywords": []
     },
     {
-      "id": "ac1afaff7da1",
-      "title": "染疫吃「青蔥粥」可排痰降溫？牛津研究食譜公開",
-      "published": "2026-08-26T08:30:54+00:00",
-      "summary": "染疫吃「青蔥粥」可排痰降溫？牛津研究食譜公開&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "c09f9cad4b3b",
+      "title": "染流感後認知惡化 8旬失智婦接受「靜脈營養」治療 改善生活自理節奏",
+      "published": "2026-08-26T08:49:11+00:00",
+      "summary": "染流感後認知惡化 8旬失智婦接受「靜脈營養」治療 改善生活自理節奏&nbsp;&nbsp;觀傳媒",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPSGlOZFNZcm9pS0hpRE5MemxVcVJWeWpwV29hdFFaZDVBTldSV21JQ1lRTkhneUZ2cWMwUXBjZXFjTkhUSGlIUTJlUGdIVGRzdFBhMEEzZWd1Vk9Da29EazRaWWM0S2dOWjN3TzJJUjZsUmRVQjRhNFpaQjdFYk9YMmUtRkQwdUFjNGdOVWd2QTJtUjlVZlVtc2c4aUg5ZjllaDZETmMtV085c3NqTDJ0akRvNENPeVFaWUhKRUxLZlhZYm5HaUdoams0UHpScDV5a2ktWWV5U1ZVU2M0OElkVDJyZjNNSGFyYTBjRWFTMnRtZnQtemFfVkxLcUpGallZSnVFNUlxT2xsUFE1Y3JjSWxXelRlbVA5eV9pS0Vfc3lUeU8zd3ZEZU5BSHBVeXpHTTNWcDFpb2I0VDQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0226594d3ba8",
-      "title": "每天吃藍莓有何好處？營養專家揭一項最直接改變- 國際",
-      "published": "2026-08-26T05:57:18+00:00",
-      "summary": "每天吃藍莓有何好處？營養專家揭一項最直接改變- 國際&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKWjVfRnZ3dkRqQ0ZyNldJNTNfdjlwWC1WMUpwRTdXb0Y3eTQ1d3NtSkdMU05Ncm00Q0NIOXQybkNXd29wbE5tMzkxUGp0SkZtOFBaV3oySjZLN1Z3QVYyQmItSDRFVlRwc0pwY09B?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "927423e7d61e",
-      "title": "黑色食物最健康？營養師揭「3大黑色陷阱」：這款喝多恐心律不整",
-      "published": "2026-08-26T04:59:23+00:00",
-      "summary": "黑色食物最健康？營養師揭「3大黑色陷阱」：這款喝多恐心律不整&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQWnNYTzF2enppRnNYRHZOcnJBU3RDMjRxX2NhX0J3RWtXNHF2aEhNTkxtYmVRSG1DNXEwOVNIWTRGUWExMUVUclk4cDY1ZTF4UC11emhOcm9lUThSWUxiWGNvUm1yS2NINlJrZjVDVVZsMm1lZWxLcXlwOE9RN0g2OHBNalFtWW11UXA0RTZHTlpocVpPeHJLNnJHR1ZLR09kQlpwazlua0NWeG9IMktMUHg2b0pGemF1bUN5VmhPX3JoamRkSkJ1WnpabkFPYTdTLWRsSWY0d2FCQzA0dGM5ZkFSWWlfcFkyMm5EcFplWTBvOVYtMHNWcG1VdEoxOFVrQ0JGV2ZIREJlWVpBWi1naTFCX1Fxeno0VG4xaDI3ZW4xUlNyRHJWdEkxaU40d2xBRUVueVpGQXlYVW9LRXF5WjdlSjNhZTlEd3JFSmU2SFBjSmxkMnE0SHRXZ05QTUhOZW1WUEhLbHJNQ3lvME5iS1NGa3JtbFhoVGpqaFpIXzI5WDFK?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "心律不整",
-          "keyword": "心律不整",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ad528e681836",
-      "title": "8旬失智嬤流感後生活無法自理 醫靠「這點滴」1個月逆轉",
-      "published": "2026-08-26T04:54:11+00:00",
-      "summary": "8旬失智嬤流感後生活無法自理 醫靠「這點滴」1個月逆轉&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNMzJyd084aVl6TlFpZXNXc3k0UnlTcFJUV2VuM29UbE5vM2hBMkIxN0tNRnFfTVpBcHl4NHhFcE91WS1JZXlmNWRoRUtkTHE2eUlnU29ETXZiMkdhY255NWVFNFF0V0o4TU1FYmRod01fejFaQVg0OEhZTTQ1bFhJSHViMXVCRlRiaUhiS25BVm9naThEbk51bUZzNVVmd1RWRGFMbEVaWjYxRzU5bDhEaVhtNzE0X2V3N1FQMy1aQkNhZzZPejhwQlZpOGhkUHZkUnFZUEFuMk83d1BMRGVOSmJkUVR3U1R0bWwwMEI2bUxzdTdEZkd5clNNMVc5b0hRekY5YWdpMV9RXzB6a2lGNGduZXl5WERVT1VaUVNNbEJMbGNjNU9lYmtXQmxNcjZGLVZHVlJFUERQc1I5STJZTS14VEctdlpHVm1wNjRGaGZjZjVHVnJQMUw2Wk9KbUJkM1E?oc=5"
+          "name": "觀傳媒",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TenNjM0ZYOThRS0NVWWZsSVlaa2tONmR6ZVpzTXhSdXhWXzVlUGxXbkt6NThRY3JYcjhQRm8xZFpRNTlBaGdWdjJxTDh5ZWFONXRqSXRxcw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -97,6 +262,19 @@
       ]
     },
     {
+      "id": "0226594d3ba8",
+      "title": "每天吃藍莓有何好處？營養專家揭一項最直接改變- 國際",
+      "published": "2026-08-26T05:57:18+00:00",
+      "summary": "每天吃藍莓有何好處？營養專家揭一項最直接改變- 國際&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKWjVfRnZ3dkRqQ0ZyNldJNTNfdjlwWC1WMUpwRTdXb0Y3eTQ1d3NtSkdMU05Ncm00Q0NIOXQybkNXd29wbE5tMzkxUGp0SkZtOFBaV3oySjZLN1Z3QVYyQmItSDRFVlRwc0pwY09B?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "afc325c960b2",
       "title": "3 分鐘衝刺勝過 90 分鐘運動，研究揭驚人分子反應、牽動老化相關蛋白 - TechNews 科技新報",
       "published": "2026-08-26T04:06:51+00:00",
@@ -105,6 +283,19 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSjZVSFFYb3VjeUV4aUh6UDhjb01kMVFjSm5mYzZuc2xmY091dTNNeHVod2FhR1hUdnpHeVpRVktUUkYtVTR6Yi10c2NtaFFfTS11RlRueXdVbUZ6M3Zuc2pzbGlCcUswUGdDNjkyaTVOZE0ycVJJMzAyUnZnbHQzYUdFcTlSMmRPNUFHbzBvejRJeFFxblBsZzg1NGZWeTN3UThwMW83ZVA2UzctVGFTR183a3QwSU9uX3pFa19wTzFZcDRYMkpCUVU0RWpjQVlBeVRoWDZGSWpOS29mbGN6OEdsaW5LRHhUTjFtSlZYMlVMZ2NHS0llSTd6MA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "bc6a2c1e152b",
+      "title": "染新冠8天還在燒！他吃2次「青蔥粥」狂出汗排痰　牛津食譜公開",
+      "published": "2026-08-26T02:50:00+00:00",
+      "summary": "染新冠8天還在燒！他吃2次「青蔥粥」狂出汗排痰 牛津食譜公開&nbsp;&nbsp;ETtoday健康雲前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwc1BqZlM2WkhjLU5zTV9tZHBWLUNwRkF4TC1hYXFhbW5hRk5OZk4xeHJmQXltbzluR2swSWR1Z1VRZEV5WVdlOUlrUUZvTG5t0gFPQVVfeXFMTWdRMHppSndBVUs5RkVrQjcxMktuWjR2X0NMR3l3dnBpSmtHVFZBQmdhWVFTckhQVVkzNFpwZ0x4RF9Gend2LUtpd0pvUFhoYw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -215,19 +406,6 @@
       "matched_keywords": []
     },
     {
-      "id": "fdcbca55f2be",
-      "title": "抵禦酷暑不再僅限淺色，科學家開發比白布更涼的散熱紫色布料 | 科技新報 - LINE TODAY",
-      "published": "2026-08-25T14:33:55+00:00",
-      "summary": "抵禦酷暑不再僅限淺色，科學家開發比白布更涼的散熱紫色布料 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oQk5uYzJ3ZERhX25SYnQySkNnRXBjOVdVTjRUSkJsbEJsTkNYaXN5a2F5SEVCUEw4dGZSWERJMWtaOWxWT2tyazlZbEtCdVlnQ1N6MHl3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "6adb755e4588",
       "title": "🎙️陽性蚊群激增、罕見病毒現身紐約防蚊更要防蜱蟲| 紐約健康365 | 健康 | 世界新聞網",
       "published": "2026-08-25T13:00:19+00:00",
@@ -265,6 +443,43 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "7cac4b49b6b9",
+      "title": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 | 科技新報 - LINE TODAY",
+      "published": "2026-08-25T08:33:56+00:00",
+      "summary": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lbkd4ZnFmX2dFblhIWUdVQUJxaE5Ja1Y4RVE5YzZ5LWZTRC1SQkp5UmpZUTM5bEJneWVRRlRvb2xWZXk0aW16NjRNM1AzMGpKSEZVV0tR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "90df24535567",
@@ -489,14 +704,27 @@
       ]
     },
     {
-      "id": "edb0036ae7bc",
-      "title": "嚴重曬傷恐致癌？ 專家：起水泡都損DNA",
-      "published": "2026-08-25T04:51:34+00:00",
-      "summary": "嚴重曬傷恐致癌？ 專家：起水泡都損DNA&nbsp;&nbsp;anntw.com",
+      "id": "29bbe9a10e31",
+      "title": "嚴重曬傷恐致癌？專家：起水泡都損DNA",
+      "published": "2026-08-25T05:28:31+00:00",
+      "summary": "嚴重曬傷恐致癌？專家：起水泡都損DNA&nbsp;&nbsp;UDN",
       "sources": [
         {
-          "name": "anntw.com",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PbW1veEhfZldlTWRSOHVCOUt3cmM2Mm1UMXVubkxBRlAwVDdwdDZSVWlmLV80Um9qSFUzOUQ3SElCeW5CTXpudXRwbm9ZQ2Q2VE9hMGtxZw?oc=5"
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jQkRDNkI3TTNlR1p2d0ktR2hDY1MxVGx0S045SUZiT09EOUdmZG5rUkNqYWViR1NxMzlfOXVkeXRBZDRUV0Nxa0pxYkU3R2Jx?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3209b3706e28",
+      "title": "抵禦酷暑不再僅限淺色，科學家開發比白布更涼的散熱紫色布料 - TechNews 科技新報",
+      "published": "2026-08-25T04:59:55+00:00",
+      "summary": "抵禦酷暑不再僅限淺色，科學家開發比白布更涼的散熱紫色布料&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tVXRwUFdmbXJrYkZfSUs1MVhYNGxGWDItWHFXMGp4bjlfSDg3OW1JVWEtVlpkS0dpZ0xUQzhYOUZHMHUyZ1FpX0xlMU1keEUzSkJwaGdTNmVyTTNWUjhxbGQ4NnM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -515,14 +743,14 @@
       "matched_keywords": []
     },
     {
-      "id": "ceacd3d10d09",
-      "title": "別以為打過流感、新冠就沒事！ 權威醫警告肺炎鏈球菌最大缺口竟是「這群人」 - PChome Online 新聞",
+      "id": "b2ff5415932f",
+      "title": "別以為打過流感、新冠就沒事！ 權威醫警告肺炎鏈球菌最大缺口竟是「這群人」",
       "published": "2026-08-25T02:00:00+00:00",
-      "summary": "別以為打過流感、新冠就沒事！ 權威醫警告肺炎鏈球菌最大缺口竟是「這群人」&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "別以為打過流感、新冠就沒事！ 權威醫警告肺炎鏈球菌最大缺口竟是「這群人」&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVA3UEdYYVR6WVNwWTg5X2lBSGl2SVFXYzdwdU1Zd29tSGQ1UTdCemtLYVMzSWtEUkM4dURxbXRYVWNZZkdCSXJCanAtcDgtTXZUaTNhbl9DWEZ3bzFMWGNXd3ZvZUhUbjZJYmJVRzJhRVJXSXhPeG9kbUZRdlRYZmp1VzJwNWVjY2c?oc=5"
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LZENreUpxQktJblZxQXB4RzA4eUF5c1RMUG0wcTRWVnBiV0Jmc1d1bFItVmE5N2kyMkdsWGFxOTY4TDMtUkZiQml3WnlxeC1WWHc?oc=5"
         }
       ],
       "matched_keywords": [
@@ -538,43 +766,6 @@
             {
               "slug": "cephalexin",
               "name": "Cephalexin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d4c056a67373",
-      "title": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 - TechNews 科技新報",
-      "published": "2026-08-25T00:44:35+00:00",
-      "summary": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2dsMGNadUVtX1ZnZ0ZnemlOVGtwRFZHOGM5elR4cHlldmlGcjJRVWlhNUlkRVNaeDRBbTJtS1NnVTVTeU1LbERJalhUWnNKbVE3anlLQWk1alozbDlGRmFoZ1RoYl93MFZUcDA2UEh6dDc5NHFseDVNTWRMd0QtMkozODZGZUtneFQzNUVES1JoNG5zeUlKS1JvakFkc2pFa1E?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }
@@ -607,6 +798,215 @@
       "matched_keywords": []
     },
     {
+      "id": "40d6f2d12fba",
+      "title": "長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命 | TVBS - LINE TODAY",
+      "published": "2026-08-24T18:36:28+00:00",
+      "summary": "長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命 | TVBS&nbsp;&nbsp;LINE TODAY吃太油恐改變腸道菌！「膽汁酸」恐影響體內免疫環境抗癌&nbsp;&nbsp;Yahoo新聞抗癌飲食講求平衡 盲目「去油」恐脂不抵債 - 20260824 - 圖片看世界&nbsp;&nbsp;明報新聞網香港癌症基金會專欄：治療前及期間的營養需要-專欄- 明周文化&nbsp;&nbsp;Ming Pao Weekly抗癌飲食講求平衡 盲目「去油」恐脂不抵債 - 20260824 - 副刊&nbsp;&nbsp;明報新聞網",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QYzFpRUd4SUVTaEU2TVZ0THFVS3BRQllxeWZZb2lBRnpTUkFCNnFvN1hLQWR5MzNQQUpKeHliLVg1a2pUWm8xTEIyZE5sM28wWGs0cVdn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "3d83cbba1e87",
       "title": "男子住酒店赤腳沖涼竟染HPV！ 腳底生疣恐怖擴散 專家教3招防中招 - UHK 港生活",
       "published": "2026-08-24T16:00:00+00:00",
@@ -615,19 +1015,6 @@
         {
           "name": "UHK 港生活",
           "link": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxPa1ZPMWdTOWRBbXNYUkhXUXB1bE9lVV84UXVQSGNPbkVOWmFiTlh1UmlNYTZBZXN5eG9FUnh0dXZCMUc5cUdoSmFjVUNJa3F0XzlfQjlQMDVWYXdPTWd3UEdBTXdFRzk2TlBVdjFUVUlCR1A2UVBaTUdoZk41RHhObDBQaFlzYkU2ZTVfMVV0aVJreFhlajRzN3VxM2tjOUhCZFF3UFpvQ2pmcVR3REp0dlpYZzNVMVdhVzJhU0YtUEY3b2xNeVBiQkh5S1NxeG5ycnY3U2NmQ3EtdGFvQWp0eFlxMXdRQjJuVTltc1BwelVIdWVrUkZzazVxemVHRVR4TkIxSlBmOWF1dmpKTzZwLV9rY3hqWHJkdS05eHJWcnVUM2hUUFhCbmE0OGpYUEV3NFFzVGo5RU1Kb0tncEpsdndDQk9LSnJSNGpQWXdSbEdEU3dBTmFoX2d5ZjFHalM0dDVJWDNoUWZiYUYtOWMtdDMyV1RiT1M3Z2RqMHdtb25lN0xRR0J3aHppWXdvYVdWNDBvdGxQUkRhVVF1NU5pTGdDZENraUU4cjVwYWRwbm1TUENmV0NjTE9yVGpoWnRMWnB0cXEzVGhMazRiZThMWDAwYU1iQjF0ZGVUbkQ0ZTRpLU1PaDF5MWZIUnIwemRNQlM5LU92UU0tSWhDb2VoNFF6UDc2ZTYyVGdYUmFRdkY2bmREUWo1bkRaYzRxcy1IR29UYTI1NWVPeVpFcjZETlMyMDBqVmFxTmIwQkRUVXV2ak9EN0RGYjI2US1LQWtsZzNuWlBOb2h6RHI5UTRUa1NXNE5PcGs4bXBOQllEaGk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9c40a4aef206",
-      "title": "衛生局與多個政府部門開展跨部門孳生源聯合巡查 加強防範登革熱及基孔肯雅熱社區傳播",
-      "published": "2026-08-24T15:13:13+00:00",
-      "summary": "衛生局與多個政府部門開展跨部門孳生源聯合巡查 加強防範登革熱及基孔肯雅熱社區傳播&nbsp;&nbsp;力報",
-      "sources": [
-        {
-          "name": "力報",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ON3hSbkp0VFRBZlNOQ0xtaU9PUnFpTHFKSFo4RmlfemhfQm16MWtSd1R1OUFQakpITkNwc0gxV3pwYlJqM09wa1poNjBUUXZ0MUtB?oc=5"
         }
       ],
       "matched_keywords": []
