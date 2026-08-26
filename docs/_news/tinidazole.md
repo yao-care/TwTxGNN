@@ -44,19 +44,11 @@ permalink: /news/tinidazole/
 
 ## 相關新聞（4 則）
 
-### [同齡卻像兩代人！哈佛研究揭「抗老5關鍵」 近10年無癌症、心血管病](https://news.google.com/rss/articles/CBMiiANBVV95cUxNdzVQT3QwWDZ1VHVEeUg4X093bF94Z3hiWTNNUm8xQnNXV2Y0TTdxem9GQVlFWG9obWh2MEFnenMtUEQ0WXdlczV0Z09DQl9tZEZmTU1FZ2hTSjlWWXVCYnN3ZnN4YmRJb2lxS0U4T1B2UFRZZUNub1BPTWNHdFhfN2R1UFd3anFNNTJtRFhtOVNHZC12c1dldjJ2b09UTHFtY1hSOUlhVUZvNmJjbVVpTWZwVVpEYXg5b0U1T0I1SVhKSFNBODQxeU1JN3czU0E4WDVFWUxRb2l6S2g5UmRSYmV2cU9UVndNa3ZGVFdiaTB4VTVMWm84aS1pVjdOMDVvd0N1WmF4S3FyNVNTaFBIeFVPNDZUbzR2NUhNNkJKZ2M2OG53SGN0SF9pVDFBQnA5ejNFaWQyVkhXR3BkZjh0MTdOWUVsRXJ6aFduVURMeHVJbW9Qa2FTUWRMQTdXbjFIaVZLWkRvT2Jsd0FhWjRnanFTV3AtNEhDRkxyMXpGQ00wUEItRGtGVQ?oc=5)
+### [同齡卻像兩代人！哈佛研究揭「抗老5關鍵」 近10年無癌症、心血管病](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRdVQxLUQ4dktXcjJoc2QwTVJxMlJNMlMtOVZFZVJfakpfRHQ4NHVnT1IwM19XdGxmZDRfcDAxLURXMDlDZURUM3JjMHU?oc=5)
 
 2026-08-26 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiiANBVV95cUxNdzVQT3QwWDZ1VHVEeUg4X093bF94Z3hiWTNNUm8xQnNXV2Y0TTdxem9GQVlFWG9obWh2MEFnenMtUEQ0WXdlczV0Z09DQl9tZEZmTU1FZ2hTSjlWWXVCYnN3ZnN4YmRJb2lxS0U4T1B2UFRZZUNub1BPTWNHdFhfN2R1UFd3anFNNTJtRFhtOVNHZC12c1dldjJ2b09UTHFtY1hSOUlhVUZvNmJjbVVpTWZwVVpEYXg5b0U1T0I1SVhKSFNBODQxeU1JN3czU0E4WDVFWUxRb2l6S2g5UmRSYmV2cU9UVndNa3ZGVFdiaTB4VTVMWm84aS1pVjdOMDVvd0N1WmF4S3FyNVNTaFBIeFVPNDZUbzR2NUhNNkJKZ2M2OG53SGN0SF9pVDFBQnA5ejNFaWQyVkhXR3BkZjh0MTdOWUVsRXJ6aFduVURMeHVJbW9Qa2FTUWRMQTdXbjFIaVZLWkRvT2Jsd0FhWjRnanFTV3AtNEhDRkxyMXpGQ00wUEItRGtGVQ?oc=5)
-
----
-
-### [更年期雌激素下降，可能影響大腦健康？研究發現新的線索 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lbkd4ZnFmX2dFblhIWUdVQUJxaE5Ja1Y4RVE5YzZ5LWZTRC1SQkp5UmpZUTM5bEJneWVRRlRvb2xWZXk0aW16NjRNM1AzMGpKSEZVV0tR?oc=5)
-
-2026-08-25 <span class="news-indication-tag">更年期</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lbkd4ZnFmX2dFblhIWUdVQUJxaE5Ja1Y4RVE5YzZ5LWZTRC1SQkp5UmpZUTM5bEJneWVRRlRvb2xWZXk0aW16NjRNM1AzMGpKSEZVV0tR?oc=5)
+來源：[三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRdVQxLUQ4dktXcjJoc2QwTVJxMlJNMlMtOVZFZVJfakpfRHQ4NHVnT1IwM19XdGxmZDRfcDAxLURXMDlDZURUM3JjMHU?oc=5)
 
 ---
 
@@ -65,6 +57,14 @@ permalink: /news/tinidazole/
 2026-08-25 <span class="news-indication-tag">腫瘤</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5UY002RW4tZGZySWZzYVdnbDJHX1ZMMjdUZDY1dThEbWk0NUhLS1VIeldHQVlFTUQ0RnRBVHlYb0JaWHNJSFZaVDZsM2ZZenZJelJGUkhXOGRDaUFJSnl6Yk9ubTJQdGNKemxPaTZn?oc=5)
+
+---
+
+### [更年期雌激素下降，可能影響大腦健康？研究發現新的線索 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2dsMGNadUVtX1ZnZ0ZnemlOVGtwRFZHOGM5elR4cHlldmlGcjJRVWlhNUlkRVNaeDRBbTJtS1NnVTVTeU1LbERJalhUWnNKbVE3anlLQWk1alozbDlGRmFoZ1RoYl93MFZUcDA2UEh6dDc5NHFseDVNTWRMd0QtMkozODZGZUtneFQzNUVES1JoNG5zeUlKS1JvakFkc2pFa1E?oc=5)
+
+2026-08-25 <span class="news-indication-tag">更年期</span>
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2dsMGNadUVtX1ZnZ0ZnemlOVGtwRFZHOGM5elR4cHlldmlGcjJRVWlhNUlkRVNaeDRBbTJtS1NnVTVTeU1LbERJalhUWnNKbVE3anlLQWk1alozbDlGRmFoZ1RoYl93MFZUcDA2UEh6dDc5NHFseDVNTWRMd0QtMkozODZGZUtneFQzNUVES1JoNG5zeUlKS1JvakFkc2pFa1E?oc=5)
 
 ---
 
