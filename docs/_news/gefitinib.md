@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [失智長者突發性退化 醫：可進一步評估營養狀態加以改善](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPZ20tUVFsV3lFVXQ3ZS04NXduQ3M2ZUwzMTR6Ynp5eGtNOVBCYXZfaEFhQlJUUy03aUVQTzk3TURIY0N3Ql96dWd0aDFvUUh10gFWQVVfeXFMTjNyLWFjdUhUNzczZFNoYzRBR2tyOHJWUUhuaG1LTlV3ekEwUTAtUTNWbmZrRjVvdmhCd0dGWkNJMDJlQlkydmNJb00tTFN2bGRBRTkwT1E?oc=5)
+### [失智長者突發性退化 醫：可進一步評估營養狀態加以改善](https://news.google.com/rss/articles/CBMiYkFVX3lxTE95cHFGVVNyZWhfMWtTTGlzNW94VHNkNDVxdEJ1T25paTJnYmRIczcwRTROcXRxeTExaDBfWXZIWndraGN4cnIxRnF0X21fYXZ5QTZlOHBkaVRDT0dqUTBLUWln0gFnQVVfeXFMT3VLV3NNTldSbTdnV2V4QkNPdjdwRlozUFFtWl9BNERqbFlfSnhVZDlUbnB1Z21iLTNXVGc1N21SaFQ1NUxYU25CSU9ZRUo1a3pDQkNKR1BQT0FDNDJtUlN4OXhqckp4UQ?oc=5)
 
 2026-08-26 <span class="news-indication-tag">失智</span>
 
-來源：[UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPZ20tUVFsV3lFVXQ3ZS04NXduQ3M2ZUwzMTR6Ynp5eGtNOVBCYXZfaEFhQlJUUy03aUVQTzk3TURIY0N3Ql96dWd0aDFvUUh10gFWQVVfeXFMTjNyLWFjdUhUNzczZFNoYzRBR2tyOHJWUUhuaG1LTlV3ekEwUTAtUTNWbmZrRjVvdmhCd0dGWkNJMDJlQlkydmNJb00tTFN2bGRBRTkwT1E?oc=5)
+來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE95cHFGVVNyZWhfMWtTTGlzNW94VHNkNDVxdEJ1T25paTJnYmRIczcwRTROcXRxeTExaDBfWXZIWndraGN4cnIxRnF0X21fYXZ5QTZlOHBkaVRDT0dqUTBLUWln0gFnQVVfeXFMT3VLV3NNTldSbTdnV2V4QkNPdjdwRlozUFFtWl9BNERqbFlfSnhVZDlUbnB1Z21iLTNXVGc1N21SaFQ1NUxYU25CSU9ZRUo1a3pDQkNKR1BQT0FDNDJtUlN4OXhqckp4UQ?oc=5)
 
 ---
 
@@ -56,6 +56,14 @@ permalink: /news/gefitinib/
 2026-08-25 <span class="news-indication-tag">腫瘤</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5UY002RW4tZGZySWZzYVdnbDJHX1ZMMjdUZDY1dThEbWk0NUhLS1VIeldHQVlFTUQ0RnRBVHlYb0JaWHNJSFZaVDZsM2ZZenZJelJGUkhXOGRDaUFJSnl6Yk9ubTJQdGNKemxPaTZn?oc=5)
+
+---
+
+### [長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命 | TVBS - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QYzFpRUd4SUVTaEU2TVZ0THFVS3BRQllxeWZZb2lBRnpTUkFCNnFvN1hLQWR5MzNQQUpKeHliLVg1a2pUWm8xTEIyZE5sM28wWGs0cVdn?oc=5)
+
+2026-08-24 <span class="news-indication-tag">癌症</span>
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QYzFpRUd4SUVTaEU2TVZ0THFVS3BRQllxeWZZb2lBRnpTUkFCNnFvN1hLQWR5MzNQQUpKeHliLVg1a2pUWm8xTEIyZE5sM28wWGs0cVdn?oc=5)
 
 ---
 

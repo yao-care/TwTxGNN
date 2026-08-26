@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [黑色食物最健康？營養師揭「3大黑色陷阱」：這款喝多恐心律不整](https://news.google.com/rss/articles/CBMihANBVV95cUxQWnNYTzF2enppRnNYRHZOcnJBU3RDMjRxX2NhX0J3RWtXNHF2aEhNTkxtYmVRSG1DNXEwOVNIWTRGUWExMUVUclk4cDY1ZTF4UC11emhOcm9lUThSWUxiWGNvUm1yS2NINlJrZjVDVVZsMm1lZWxLcXlwOE9RN0g2OHBNalFtWW11UXA0RTZHTlpocVpPeHJLNnJHR1ZLR09kQlpwazlua0NWeG9IMktMUHg2b0pGemF1bUN5VmhPX3JoamRkSkJ1WnpabkFPYTdTLWRsSWY0d2FCQzA0dGM5ZkFSWWlfcFkyMm5EcFplWTBvOVYtMHNWcG1VdEoxOFVrQ0JGV2ZIREJlWVpBWi1naTFCX1Fxeno0VG4xaDI3ZW4xUlNyRHJWdEkxaU40d2xBRUVueVpGQXlYVW9LRXF5WjdlSjNhZTlEd3JFSmU2SFBjSmxkMnE0SHRXZ05QTUhOZW1WUEhLbHJNQ3lvME5iS1NGa3JtbFhoVGpqaFpIXzI5WDFK?oc=5)
 
@@ -49,6 +49,14 @@ permalink: /news/acebutolol/
 2026-08-25 <span class="news-indication-tag">腫瘤</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5UY002RW4tZGZySWZzYVdnbDJHX1ZMMjdUZDY1dThEbWk0NUhLS1VIeldHQVlFTUQ0RnRBVHlYb0JaWHNJSFZaVDZsM2ZZenZJelJGUkhXOGRDaUFJSnl6Yk9ubTJQdGNKemxPaTZn?oc=5)
+
+---
+
+### [長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命 | TVBS - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QYzFpRUd4SUVTaEU2TVZ0THFVS3BRQllxeWZZb2lBRnpTUkFCNnFvN1hLQWR5MzNQQUpKeHliLVg1a2pUWm8xTEIyZE5sM28wWGs0cVdn?oc=5)
+
+2026-08-24 <span class="news-indication-tag">癌症</span>
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QYzFpRUd4SUVTaEU2TVZ0THFVS3BRQllxeWZZb2lBRnpTUkFCNnFvN1hLQWR5MzNQQUpKeHliLVg1a2pUWm8xTEIyZE5sM28wWGs0cVdn?oc=5)
 
 ---
 
