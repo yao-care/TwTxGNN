@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-26T07:37:58.611700+00:00",
+  "fetched_at": "2026-08-26T08:31:51.101005+00:00",
   "count": 25,
   "news": [
     {
@@ -184,10 +184,10 @@
       ]
     },
     {
-      "id": "a462969e805c",
-      "title": "每天吃藍莓有何好處？營養專家揭一項最直接改變- 健康 - 中時新聞網",
+      "id": "0226594d3ba8",
+      "title": "每天吃藍莓有何好處？營養專家揭一項最直接改變- 國際 - 中時新聞網",
       "published": "2026-08-26T05:57:18+00:00",
-      "summary": "每天吃藍莓有何好處？營養專家揭一項最直接改變- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "每天吃藍莓有何好處？營養專家揭一項最直接改變- 國際&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
@@ -220,18 +220,6 @@
       ]
     },
     {
-      "id": "aa55b855ff8e",
-      "title": "研究：生酮類飲食或能改善精神疾病 - 大纪元",
-      "published": "2026-08-24T15:00:00+00:00",
-      "summary": "研究：生酮類飲食或能改善精神疾病&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tSmFlM2NvcFJpRV9fSFVDY3l5dV9ic2RoZjl5U2ZaX240ZEItM3FkWDEzbWp3MW4tRFE4NEJuYTJqOWRQajgzSmpiTkRwS01WVUE2UWczQnhRSGhUTTF0MNIBZkFVX3lxTE9MYXdraDZTcTlTbG1zWksza1AzSGU0OWtIZDZTRklqQUFSOU1QU1J2Z3dmaXFOY3M1QjZYQWdHaEpxa2ZtZHdUelMzTnlaTndoR293T2dyVXFUSmFRaU0wLWFYZk45Zw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f97d0999dd9f",
       "title": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號 - 巴士的報",
       "published": "2026-08-24T22:40:03+00:00",
@@ -240,6 +228,18 @@
         {
           "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPbjV5cTdqZjN5d0VGTXlOdEstVmtWZGlydzIxMXJ3TGh6cWwtdEw3eGVXdWh6ZnJkNlRVaG1mQmY5ME56by05S0FNclEwNU1OMDVOWUNMbWUyVzc5MFBRMHlKX3JEeE04NEVwd2RmdUc3NGJoa0I2NEo1SVhDRE9qdHdZSnpOOHdQWkh6QWFseU5GZERLdldUSG1ZMW1PTWRIY0xCLUpvSURSNkJQLXdhSjZPZC1NY05QamMzMGozNWFTLUNKS2pKMl92RkVaMnA0RWRUTWFHRmRZQTAzN1B0d2VOWFBaUjJMcmNvWmI0ZldZT043dUlLYkRsV3RiR2tWSng3TFRvMnppYzN1RnR4S3J1czh5X1pQblJPRUs0NzRCQURtSS1WS095TE5QTWVuelZZRjF4UzdSSS10V2V0c00tMlY4VV9KQjlKQlE2N1l2S2ptZjM1Q1FYSEFybENHaVRZUDVGRXkxbVlGeDJJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa55b855ff8e",
+      "title": "研究：生酮類飲食或能改善精神疾病 - 大纪元",
+      "published": "2026-08-24T15:00:00+00:00",
+      "summary": "研究：生酮類飲食或能改善精神疾病&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tSmFlM2NvcFJpRV9fSFVDY3l5dV9ic2RoZjl5U2ZaX240ZEItM3FkWDEzbWp3MW4tRFE4NEJuYTJqOWRQajgzSmpiTkRwS01WVUE2UWczQnhRSGhUTTF0MNIBZkFVX3lxTE9MYXdraDZTcTlTbG1zWksza1AzSGU0OWtIZDZTRklqQUFSOU1QU1J2Z3dmaXFOY3M1QjZYQWdHaEpxa2ZtZHdUelMzTnlaTndoR293T2dyVXFUSmFRaU0wLWFYZk45Zw?oc=5"
         }
       ]
     },
