@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-08-26T00:44:11.081127+00:00",
+  "last_updated": "2026-08-26T02:19:18.041156+00:00",
   "total_count": 24,
-  "matched_count": 6,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "38164cb343d8",
+      "title": "染新冠咳不停牛津研究煮粥加1物助排痰高燒也降了- 健康",
+      "published": "2026-08-26T01:03:55+00:00",
+      "summary": "染新冠咳不停牛津研究煮粥加1物助排痰高燒也降了- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQZlRqNVRINDN4cFY4RnNJTUt3MkV3d1IxR0hkME9DR0Q0c25kQW40YV94b3VmYWpMRWVpSWxxazdrNTdxLWtqSEpPc0pNNkQ2cHNySklGMFU2MDJMVFpRekVkTTYtMXJzNjc2SnRR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "8ce131de524a",
       "title": "公用瑜伽墊染HPV？武漢28歲女用公用瑜伽墊後背長滿丘疹| 翻牆來尋奇| 兩岸",
@@ -28,55 +41,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "354cfe6531d2",
-      "title": "無懼偷拍案2／許維恩罹乳癌切除左乳 手術前做好最壞打算：最捨不得女兒 | CTWANT - LINE TODAY",
-      "published": "2026-08-25T22:00:44+00:00",
-      "summary": "無懼偷拍案2／許維恩罹乳癌切除左乳 手術前做好最壞打算：最捨不得女兒 | CTWANT&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKYlY5TFFMNHU2Wk05VXQ2TVBtQjd2dHBuVkZyTngzazFyWlR6eVVBbzRMWmFGMGZobWxpRUc5UlJjdkgzNVdwNUJSWEtIMmY0NFRDR1l3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "38feeeb80a8d",
@@ -158,6 +122,19 @@
       "matched_keywords": []
     },
     {
+      "id": "fdcbca55f2be",
+      "title": "抵禦酷暑不再僅限淺色，科學家開發比白布更涼的散熱紫色布料 | 科技新報 - LINE TODAY",
+      "published": "2026-08-25T13:33:55+00:00",
+      "summary": "抵禦酷暑不再僅限淺色，科學家開發比白布更涼的散熱紫色布料 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oQk5uYzJ3ZERhX25SYnQySkNnRXBjOVdVTjRUSkJsbEJsTkNYaXN5a2F5SEVCUEw4dGZSWERJMWtaOWxWT2tyazlZbEtCdVlnQ1N6MHl3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "59e6233dfccd",
       "title": "🎙️陽性蚊群激增、罕見病毒現身 紐約防蚊更要防蜱蟲",
       "published": "2026-08-25T13:00:19+00:00",
@@ -182,43 +159,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "7cac4b49b6b9",
-      "title": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 | 科技新報 - LINE TODAY",
-      "published": "2026-08-25T09:33:56+00:00",
-      "summary": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lbkd4ZnFmX2dFblhIWUdVQUJxaE5Ja1Y4RVE5YzZ5LWZTRC1SQkp5UmpZUTM5bEJneWVRRlRvb2xWZXk0aW16NjRNM1AzMGpKSEZVV0tR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "a8608abfacf9",
@@ -469,19 +409,6 @@
       "matched_keywords": []
     },
     {
-      "id": "3209b3706e28",
-      "title": "抵禦酷暑不再僅限淺色，科學家開發比白布更涼的散熱紫色布料 - TechNews 科技新報",
-      "published": "2026-08-25T04:59:55+00:00",
-      "summary": "抵禦酷暑不再僅限淺色，科學家開發比白布更涼的散熱紫色布料&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tVXRwUFdmbXJrYkZfSUs1MVhYNGxGWDItWHFXMGp4bjlfSDg3OW1JVWEtVlpkS0dpZ0xUQzhYOUZHMHUyZ1FpX0xlMU1keEUzSkJwaGdTNmVyTTNWUjhxbGQ4NnM?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "917c7951e26b",
       "title": "女性沒高潮就是性冷感？婦產科醫揭「高潮障礙」判斷關鍵：持續超過6個月才要留意",
       "published": "2026-08-25T02:49:19+00:00",
@@ -524,6 +451,43 @@
       ]
     },
     {
+      "id": "d4c056a67373",
+      "title": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 - TechNews 科技新報",
+      "published": "2026-08-25T00:44:35+00:00",
+      "summary": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2dsMGNadUVtX1ZnZ0ZnemlOVGtwRFZHOGM5elR4cHlldmlGcjJRVWlhNUlkRVNaeDRBbTJtS1NnVTVTeU1LbERJalhUWnNKbVE3anlLQWk1alozbDlGRmFoZ1RoYl93MFZUcDA2UEh6dDc5NHFseDVNTWRMd0QtMkozODZGZUtneFQzNUVES1JoNG5zeUlKS1JvakFkc2pFa1E?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "3789cf4a0b53",
       "title": "60歲女子連續兩天吃麻辣燙 腹痛痾嘔送院揭大腸桿菌入血致敗血症",
       "published": "2026-08-24T23:20:33+00:00",
@@ -537,13 +501,13 @@
       "matched_keywords": []
     },
     {
-      "id": "01a57422d2ed",
+      "id": "f97d0999dd9f",
       "title": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號",
       "published": "2026-08-24T22:40:03+00:00",
-      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;bastillepost.com",
+      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPbjV5cTdqZjN5d0VGTXlOdEstVmtWZGlydzIxMXJ3TGh6cWwtdEw3eGVXdWh6ZnJkNlRVaG1mQmY5ME56by05S0FNclEwNU1OMDVOWUNMbWUyVzc5MFBRMHlKX3JEeE04NEVwd2RmdUc3NGJoa0I2NEo1SVhDRE9qdHdZSnpOOHdQWkh6QWFseU5GZERLdldUSG1ZMW1PTWRIY0xCLUpvSURSNkJQLXdhSjZPZC1NY05QamMzMGozNWFTLUNKS2pKMl92RkVaMnA0RWRUTWFHRmRZQTAzN1B0d2VOWFBaUjJMcmNvWmI0ZldZT043dUlLYkRsV3RiR2tWSng3TFRvMnppYzN1RnR4S3J1czh5X1pQblJPRUs0NzRCQURtSS1WS095TE5QTWVuelZZRjF4UzdSSS10V2V0c00tMlY4VV9KQjlKQlE2N1l2S2ptZjM1Q1FYSEFybENHaVRZUDVGRXkxbVlGeDJJ?oc=5"
         }
       ],

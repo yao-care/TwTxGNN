@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/carboplatin/
 <li><strong>原適應症</strong>：HER2 陽性早期乳癌、轉移性乳癌、黑色素瘤、非小細胞肺癌、何杰金氏淋巴瘤、頭頸部鱗狀細胞癌、泌尿道上皮癌等</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（99.9%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（99.9%）</li>
 <li>rectum mucinous adenocarcinoma（99.3%）</li>
 <li>colon mucinous adenocarcinoma（99.3%）</li>
 <li>adult germ cell tumor（99.2%）</li>
@@ -42,15 +42,7 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [無懼偷拍案2／許維恩罹乳癌切除左乳 手術前做好最壞打算：最捨不得女兒 | CTWANT - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKYlY5TFFMNHU2Wk05VXQ2TVBtQjd2dHBuVkZyTngzazFyWlR6eVVBbzRMWmFGMGZobWxpRUc5UlJjdkgzNVdwNUJSWEtIMmY0NFRDR1l3?oc=5)
-
-2026-08-25 <span class="news-indication-tag">乳癌</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKYlY5TFFMNHU2Wk05VXQ2TVBtQjd2dHBuVkZyTngzazFyWlR6eVVBbzRMWmFGMGZobWxpRUc5UlJjdkgzNVdwNUJSWEtIMmY0NFRDR1l3?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [4名腫瘤科醫師答案相同早上9點前一定要做這件事- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTE5UY002RW4tZGZySWZzYVdnbDJHX1ZMMjdUZDY1dThEbWk0NUhLS1VIeldHQVlFTUQ0RnRBVHlYb0JaWHNJSFZaVDZsM2ZZenZJelJGUkhXOGRDaUFJSnl6Yk9ubTJQdGNKemxPaTZn?oc=5)
 
