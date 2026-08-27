@@ -1,8 +1,47 @@
 {
-  "last_updated": "2026-08-26T21:29:24.317463+00:00",
-  "total_count": 24,
-  "matched_count": 7,
+  "last_updated": "2026-08-27T02:26:07.869847+00:00",
+  "total_count": 25,
+  "matched_count": 8,
   "news": [
+    {
+      "id": "c8448633a460",
+      "title": "比維生素D重要！1數字更關鍵:死亡率飆2倍 - 鏡週刊Mirror Media",
+      "published": "2026-08-27T00:13:00+00:00",
+      "summary": "比維生素D重要！1數字更關鍵:死亡率飆2倍&nbsp;&nbsp;鏡週刊Mirror Media比維生素D更重要！醫喊「這數字」更關鍵：死亡風險飆2.2倍&nbsp;&nbsp;Yahoo新聞健康網》維生素D不足別急補 醫曝死亡風險高2.23倍關鍵在這&nbsp;&nbsp;自由健康網夏天狂曬還是缺維生素D 研究揭「長者、少數族群」難補足&nbsp;&nbsp;ETtoday健康雲天天曬太陽也不夠！醫揭卻乏維生素D恐提高糖尿病、罹癌風險- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BWnQwN1FFQnRZUm1hOU44dVh1NHcya3h2eS02OG0xQzJFMkE5RG9ub1c0c3BQSjdXanZuQzVMd3JRanAyVzVSQVVKdDJKUHNSVzNIYnJkM1JaQ2pw0gFiQVVfeXFMTnF0UHpscUtvT1ZsUGNPYUFBekdwY1pSYlpLa1h4ZG04X29iRHNqV2tsMWxlM3o0SnRPc251VU9WellyQUF1Ti1HbUF5ei1uZERTaW9aRmZWbU94UVFxVEdoN2c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9a031c8b5f77",
+      "title": "這些藥物讓人更難以應對高溫",
+      "published": "2026-08-27T00:08:39+00:00",
+      "summary": "這些藥物讓人更難以應對高溫&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zalN4SlplMUpYLUtCbHVManFBTl9mZjNUZHUxTHBYbkNCVkNmTGNPVFpZaE5Db1JnX1pBc2xEdnM1Q0E2c1RveWhZNUVabkJGa211TEFkWkdKcjlZNWNmWFYwSkFEUdIBa0FVX3lxTE4wcDJRallxT0VVeVlEYTBsWUctR1dCU2hYU2NLS1NiSURTRXk5SEVzWkJRdFd2OFVNdmpKMldVOV9Oa1dnMU1nOVpEZTdrb1BkdjlUVUVicXVXZW93SmprTGhseTlKNG5rTUtZ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "539a4be2391c",
+      "title": "加拿大每年8分1人食物中毒長者風險更高學懂5招可自保| 事事如意生活網站",
+      "published": "2026-08-26T23:52:36+00:00",
+      "summary": "加拿大每年8分1人食物中毒長者風險更高學懂5招可自保| 事事如意生活網站&nbsp;&nbsp;CCUE",
+      "sources": [
+        {
+          "name": "CCUE",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQSmVjNGdVTFo1T0hTbHlveVJrT0dlRXpNX2xFWDNSRUJPQkdFRFRLVjBMX05kcDFfTGZqTmtrWmNNNjh2Mkt3Wjdac1lvQmV5MTQzR21wSlY1NEs2MnE4am9Ea1dRV2I1Zm1QeVBCNHA1Zi1lUVNiZ1pZVDBwS3BMc2hHX2t6d21RdnliZXRkTkNfdDI3TGNMOUlVSnV4a1hCei11YURfbDNnbTdMVFVuQzFHOFBYUXVHSElvQzRCOFp6SVVZdS1EMnRtQ0RQbG9xLVkwRXVNZVFVQ2xqNjdUXzNUbUFkeFhwaDExQkVaS3lEN3pOdnJfcHgtZlh6dElwaTNmdzRlcjZ5dUU3clBkUlA3QjVxdGpHZ2U0aE1OZ3ZJMWVVdHl0UEczX0ZQSzhJOUFOMHVJNUpaT3dXMVRfX05IM1ZwT19lenVJNExyVjczU0xIVHc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "9bcf0706da94",
       "title": "他汀藥到底有幾「毒」？常傳多副作用 研究揭真相",
@@ -12,19 +51,6 @@
         {
           "name": "信報網站",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQeERMN0VQeXo0NllNUjUxVDFCTjBjUTN5MHVYLU5feTRwMWN6aU85aEEteVY5aTFSLWdzTzIzcXljMkxDMnNTc04wdXNEMndYNGtNcm1kaGJJOURqR1ZYR1FmNXhGOGJ5dE41TnIwSUJORFkwNlFFSTdzcFo4WmhMZzJPRnlVaGVaUDhZRmxpTWl4azlwTlpndV9CVjRrVWwxdXNiUHE0ZTVlTmlHZEQ4N3VxYVhJd21FVl9pcV9vZG8tSXByaEdGWHVhZ0xGODRxclZSUGpFWk92ejctMUtDM3R3WHpabU04TjRQQzZrQlI4andUSUdEal9YejE4TXJtSWowUllGRlF3STc5NWdKQ2VUc0hMMGlNR2xSR1JfYXEwQVZfM25fY25kb21UaUhFRFZNY3UtdzRVd0xjMXR1UFFRQVVLZkVJSllycm5zdGpoZlpWRnpsVUpxNm1PWmp6NXhCRkR6VlVibGNjS0ZJ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5d4b7f8d4764",
-      "title": "出人意料！權威研究曝戒菸利器專家：慎防劣質品- 國際",
-      "published": "2026-08-26T15:05:00+00:00",
-      "summary": "出人意料！權威研究曝戒菸利器專家：慎防劣質品- 國際&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kNENrelU2ZDdEVl9kaVlNRElzRTZ5S25PcjU0UjJtS0NOR2tmSmdGZC10MEcyNXhxUTFxWHVyT0wyVExNZWZLRHdKYXY2RWV4VTExOVljelhhOTM0UTJF?oc=5"
         }
       ],
       "matched_keywords": []
@@ -362,13 +388,13 @@
       "matched_keywords": []
     },
     {
-      "id": "f505b061b6de",
+      "id": "4fbcf8cc07e9",
       "title": "長期攝取防腐劑增高血壓風險29% 避免加工肉果汁 8添加劑要注意",
       "published": "2026-08-26T07:00:09+00:00",
-      "summary": "長期攝取防腐劑增高血壓風險29% 避免加工肉果汁 8添加劑要注意&nbsp;&nbsp;hk01.com",
+      "summary": "長期攝取防腐劑增高血壓風險29% 避免加工肉果汁 8添加劑要注意&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "hk01.com",
+          "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxOY0JqNmwzZjYtV0U3M0NJbGRZbHRHRGRfYXpxb0dOQmVZemplNlZYRFY5SXZ3ZHd2Wlp2aEVFNVB0QkdYUG5hcGl4aVpBSFpIZksxY2E2U1Q0SklrMS1Ic291VTcyQ0dTbGx6LW1FTkZhZkoxajlGTURtbTFZT1ROUWQ2WnZwb1U4bDJjWVNuSmREd3RyaFdsV1VfUnhCbFJScHptNFB6SFlhYnNDdkxacXJRS1hwUWx5eW1YLVprNGstdm1jM21xemYyT0x6akROU0hCYWxwUHprZmVZRTNTRmtVYlRrcF84X1VqMmdzNGxxVmo3aWlfUW9BQjdXSGhXY18tRzJkd1c5aXBWRGNEemlUS09iSEJURzA4VktGSUtQYkM2UHRCQmU3YkdDLXpkUFdpMlM5VUxFZFZWQU5nenFKc24zOVA2a3FOUzVqY2NfeXFiWlJaU1lNam1ldFQtYXhEX0hmcXZrLUtHWnM0UWtHWEdUU3plTDNwQVFLT0kwbnRyZEN4cnFVRkV4bjVWX2Rib2dveXp1NTJD?oc=5"
         }
       ],
@@ -404,14 +430,223 @@
       "matched_keywords": []
     },
     {
-      "id": "2629176af282",
-      "title": "美國麻疹疫情升溫，賓州 35 年來首度出現死亡病例 - TechNews 科技新報",
-      "published": "2026-08-26T04:16:51+00:00",
-      "summary": "美國麻疹疫情升溫，賓州 35 年來首度出現死亡病例&nbsp;&nbsp;TechNews 科技新報賓州爆發致命麻疹 35年來首見死亡病例&nbsp;&nbsp;cna.com.tw美國麻疹疫情創35年新高 爆2死數千例確診引公衛危機 | 民視新聞網&nbsp;&nbsp;LINE TODAY【即時新聞】美國麻疹病例創1991年來新高！默沙東(MRK)與葛蘭素史克(GSK)疫苗受矚目&nbsp;&nbsp;CMoney投資網誌賓州爆發麻疹疫情通報今年首兩宗死亡病例，死者均未接種疫苗&nbsp;&nbsp;Singtaousa",
+      "id": "8fa1b59231e6",
+      "title": "瘦瘦針驚喜效應！GLP-1改善多囊性卵巢助受孕 減重族重返實體門市爆買 | TVBS - LINE TODAY",
+      "published": "2026-08-26T04:08:51+00:00",
+      "summary": "瘦瘦針驚喜效應！GLP-1改善多囊性卵巢助受孕 減重族重返實體門市爆買 | TVBS&nbsp;&nbsp;LINE TODAY瘦瘦針驚喜效應！GLP-1改善多囊性卵巢助受孕 減重族重返實體門市爆買&nbsp;&nbsp;TVBS新聞網減肥針/瘦瘦針新發現│台大跨國研究：GLP-1藥物降41%肥胖癌症風險&nbsp;&nbsp;香港01打瘦瘦針不只助減重，還能降罹癌風險？台大追蹤逾16萬人：13種肥胖相關癌症風險降41%&nbsp;&nbsp;Life 生活網瘦瘦針不只助減重 臺大：防癌潛力新發現&nbsp;&nbsp;台灣大紀元",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbDRRWjBkVVNMY3lkbWdHWDdidFJiWlFwTFhXUW0ybmI4WjUxdVc5RzV3czk2WVgtRlF5VGpSMXpUclJ5TGwxVlVSQjlJV19sMVljcFRBRno0bHpsVlJoZHROaV9DSU5mTElad2llT2wyaXFvWk50bzd4ejAzaEVfM2VDUTh4ekgzT21rMlc0cXpuajdEYXRvZm53TQ?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qejZBdjB1OEh2OHRIX1BGZlFEYU9fQ1pmMWpvTjN4cTJKOU96M3pzY2VTMXBCalVBWnp4RVhSUDdLUVlya1VqbWtLek1WRGJnXzVHaWpB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ea3fdf7cf162",
+      "title": "美國麻疹疫情升溫 賓州35年來首度出現死亡病例 - 國際新聞 - PChome Online 新聞 - PChome Online 新聞",
+      "published": "2026-08-26T00:58:31+00:00",
+      "summary": "美國麻疹疫情升溫 賓州35年來首度出現死亡病例 - 國際新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞賓州爆發致命麻疹 35年來首見死亡病例&nbsp;&nbsp;cna.com.tw美國麻疹疫情升溫，賓州 35 年來首度出現死亡病例&nbsp;&nbsp;TechNews 科技新報美國麻疹疫情創35年新高 爆2死數千例確診引公衛危機 | 民視新聞網&nbsp;&nbsp;LINE TODAY【即時新聞】美國麻疹病例創1991年來新高！默沙東(MRK)與葛蘭素史克(GSK)疫苗受矚目&nbsp;&nbsp;CMoney投資網誌",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcXNfaW9uMXdQcnBzVno1LXN5UXEtT0d1b3NNS3ZzVGphUmJHU2MzRGtDb0xucjRfM3l6amtyc3ZvTWo5TWstOExwRTNvWUpIUHJ0aGVvXzU1dWItamVZaHl1MDBUNG85OUJEM2x1SGJpX1JmYldaRl96NHp6OXlDTVFoTzNNcS12UzFN?oc=5"
         }
       ],
       "matched_keywords": []
@@ -438,6 +673,19 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQUERFVjFWem1xSjVzZHFEcGdnTjlHZ1RGLTBSRE9FWFJ5MG1aRkhfN3d6aFhiQWtEZDd6bUxvV1p2RWFVS1NIbTl4S095MndZMGl6MTRTd1VUZHY3d04zeENGRmJmbUV6TDlXNlg0alJqWjBqWkhqUmRacjZKdTFXdnNWblZWMFR3RUZiY2RrQnNCbGc5TXVxblh2cGIwN0hKZnNuZzN3NTJTRWtLQzJZXzBiX2JCWVRMZGhnWmFUVzN6SGxTZkhoUDluTXlidGpVLVQ3UU5ZaXo4UGZEM094ZFoxZ1R5VWJRcExPMHJCM3d5bTlYS3R4SUtONjVxaHB3bEZzZXRybzQyWEQ5VE9icnp6TFAxa2JPQ0JpV2ZMcWVvaFFLa2o0TExxWmxSMVN5SENkOWY2ZmRheE5BWTNBZHNQM3ZaVDhhOHRLLWhFNlc5NE5oSWRFV1l4SlhwdVprRjZmdFhNSVVuSXliQVVWNFppbDR0ZlROX0RIVnJhdjNuQUFHcEQyNHhxXzdiWDV0OXNnbUdoRQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d604f08cad17",
+      "title": "嬰兒期少吃糖 50歲前罹癌風險低34％！這個時間點很關鍵",
+      "published": "2026-08-25T21:33:52+00:00",
+      "summary": "嬰兒期少吃糖 50歲前罹癌風險低34％！這個時間點很關鍵&nbsp;&nbsp;soundofhope.org",
+      "sources": [
+        {
+          "name": "soundofhope.org",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96Ui1DRUhOZjFZZ3A3T01LNzQ3anN2UVUxTXBJM1RtZW96MGNZclQ4WXE0d3lQc3RxcHlsS0FidG1KNUc5dHpUWGZFcjRkYUt5TUZQbnZ5MC05WUE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -517,19 +765,6 @@
         {
           "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yZ09FNnJhQXo0TkpLMmNXaWItWDc3b1JnMXJnYUZRUXFRVzhIcEZraHYzVWhqSmE0YWlrUk1PU1NpYjV3UWFjZ0NkQVAxNmNVd3lZWDJEb1pxNGlQZ01CWtIBZkFVX3lxTFBodmU4REtaZ2lUM1pMREhBTVc3OVhvblZHc1UwZm9wak02TE5HeThta2FQUFVvNHdOZmV5dWFDaTNyQVBCRkh1OW5JQ1EtYXhPQjVqVGZWdElCYjFkSGZ6bkdsZHo3Zw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fdcbca55f2be",
-      "title": "抵禦酷暑不再僅限淺色，科學家開發比白布更涼的散熱紫色布料 | 科技新報 - LINE TODAY",
-      "published": "2026-08-25T14:33:55+00:00",
-      "summary": "抵禦酷暑不再僅限淺色，科學家開發比白布更涼的散熱紫色布料 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oQk5uYzJ3ZERhX25SYnQySkNnRXBjOVdVTjRUSkJsbEJsTkNYaXN5a2F5SEVCUEw4dGZSWERJMWtaOWxWT2tyazlZbEtCdVlnQ1N6MHl3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -820,14 +1055,14 @@
       ]
     },
     {
-      "id": "90df24535567",
-      "title": "嬰兒期少吃糖 50歲前罹癌風險低34％！這個時間點很關鍵",
-      "published": "2026-08-25T07:35:00+00:00",
-      "summary": "嬰兒期少吃糖 50歲前罹癌風險低34％！這個時間點很關鍵&nbsp;&nbsp;自由健康網",
+      "id": "a84d3793a2d1",
+      "title": "從牙周病看心臟健康？研究揭「1口腔細菌」與主動脈瓣膜狹窄潛在關聯",
+      "published": "2026-08-25T05:15:00+00:00",
+      "summary": "從牙周病看心臟健康？研究揭「1口腔細菌」與主動脈瓣膜狹窄潛在關聯&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wMU1qMk5PYmNJc2UtcGN1SEZLRnBUSm15TXc4S3kxdko2ME02bmVCRkVYaG92TWpIRlhvZDh6SlFBRXd3MFNyRjRtbmNaUFdHYWhveWl0U0NUZW54REV0UGhPbmM?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vYUh5U2FYU2lHZEFDRTZEb2pTUm02dGptN2xfaG1DVDFRM21fUTFaSFRxbWVTVVBFYzFmRzBMbnVtYjdUZVVJOUtFa0VxRmljQVJQQ3B2RGYwRG1zQzVWWQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -854,32 +1089,6 @@
         {
           "name": "良醫健康網",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBSmU1VjJXOFoyTExRMm5ocFlId0hZTjFITXhET3ZqSjM0REpXUFdUU2JGem5yZzV2TUNIckJxbENiY2lqV0E5bHRPSVBQdWsxVkRwT19GTFZtQWJSbWdyOTJmWG40Z0luZEE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c724533aaf5c",
-      "title": "60歲女子連續兩天吃麻辣燙 腹痛痾嘔送院揭大腸桿菌入血致敗血症",
-      "published": "2026-08-24T23:20:33+00:00",
-      "summary": "60歲女子連續兩天吃麻辣燙 腹痛痾嘔送院揭大腸桿菌入血致敗血症&nbsp;&nbsp;hk01.com",
-      "sources": [
-        {
-          "name": "hk01.com",
-          "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOQi1sRS1TenV5cGxaOTJmaTlIcldmeTkwS1lmUktmaTFZdnliVXdyeEs1V2szRXFqaVN6ZVh6VWZRaEdHdDNObG1LU0Z3Sy1ScHczaFBJdVlnT1dZa0lGdklwRzN4alZIWnFTRDlLYm9JRXhwblpQdzBWVHlfTnpvaWdMalNxR0tNYU5xSlFNQU10VnRCMHFOV0VyeEx4aDluY1VOWmFIU3pnVjdNc1VyY3IxajR2U0sxZFA5Q0toRVV0TUdiQWJiNTg5ZUZ3NnBsMGRRSmhnYXo3VE9IUld3UnkwWGxyemRES2FEUzJ1X2ZIYWs1V1FZd3Bkd19ZblpLRm1kWUtJNlJYbGRyYURiTllLQjk1b19aRnczNDRTTkZHSGgxc1VWM1Rvc1RmY1Mza2p4MGhHNkdYSVZHYU81dk1sbVIyZlhBSGljZElLRmhoWFhmRkYtZUoxQndvOUcyTlhyc3U5MFZwalRoVHY4N1JSRjA0RU9OVXR0T29GNEJTb01Rb2dBZXVacDdlckZaeGd5UVNSdHMwd1UyZmZCOWNKUzlRaGVfVjVTSUVrUHZWNi1XUVpF?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f97d0999dd9f",
-      "title": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號",
-      "published": "2026-08-24T22:40:03+00:00",
-      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPbjV5cTdqZjN5d0VGTXlOdEstVmtWZGlydzIxMXJ3TGh6cWwtdEw3eGVXdWh6ZnJkNlRVaG1mQmY5ME56by05S0FNclEwNU1OMDVOWUNMbWUyVzc5MFBRMHlKX3JEeE04NEVwd2RmdUc3NGJoa0I2NEo1SVhDRE9qdHdZSnpOOHdQWkh6QWFseU5GZERLdldUSG1ZMW1PTWRIY0xCLUpvSURSNkJQLXdhSjZPZC1NY05QamMzMGozNWFTLUNKS2pKMl92RkVaMnA0RWRUTWFHRmRZQTAzN1B0d2VOWFBaUjJMcmNvWmI0ZldZT043dUlLYkRsV3RiR2tWSng3TFRvMnppYzN1RnR4S3J1czh5X1pQblJPRUs0NzRCQURtSS1WS095TE5QTWVuelZZRjF4UzdSSS10V2V0c00tMlY4VV9KQjlKQlE2N1l2S2ptZjM1Q1FYSEFybENHaVRZUDVGRXkxbVlGeDJJ?oc=5"
         }
       ],
       "matched_keywords": []
