@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（6 則）
 
 ### [頭骨裡竟藏「免疫軍隊」！研究發現防線一弱 腦腫瘤就變兇](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dVpYSU00Vnpfcmd6UktfR19xQm5LSlR4MmNFX2RSX3p5eVRPUGNhb09vSmR3b3dnMXB5N19RSnpUNm5YcnRCbmtfckJQMWhzaThxNnljSnM3UVlyNTBoX0l3U2g?oc=5)
 
 2026-08-27 <span class="news-indication-tag">腫瘤</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dVpYSU00Vnpfcmd6UktfR19xQm5LSlR4MmNFX2RSX3p5eVRPUGNhb09vSmR3b3dnMXB5N19RSnpUNm5YcnRCbmtfckJQMWhzaThxNnljSnM3UVlyNTBoX0l3U2g?oc=5)
+來源：[health.ltn.com.tw](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dVpYSU00Vnpfcmd6UktfR19xQm5LSlR4MmNFX2RSX3p5eVRPUGNhb09vSmR3b3dnMXB5N19RSnpUNm5YcnRCbmtfckJQMWhzaThxNnljSnM3UVlyNTBoX0l3U2g?oc=5)
 
 ---
 
@@ -56,6 +56,38 @@ permalink: /news/gefitinib/
 2026-08-25 <span class="news-indication-tag">腫瘤</span>
 
 來源：[Overseas Chinese Daily News](https://news.google.com/rss/articles/CBMi0AJBVV95cUxNdXdDdmszczJWODh2dnFod1BVLVBXY1VEaDlxd1lxd1J5M1JiRzIxY3VIb205TDZGS0JWVUFOMmhSOVNkNi1uaklTczFrOVFEOGw3dW9zdmxkR25QblNoZURnY05nRVh0bVc0TFNoUlZoU0loNXFZZ0huY0xpRlYybzhESzFUSGIwbl9Vblk4WDdPRVNCbER3a3JvdEpjVi1CNktSbGlZSmROeVpCakhLaHM5bXFRU3hvRXZZU0o2dEZLUXdfMkx6V19pbENrbWY0ZGxON2h2VTV6Z0xBS3QzY2JrWW4yMzBWWXRDRmJDUTZuYlJrUjB3TVpSQlZTUlBDTzNPWG5nUUhWTW5DQ09MM1YwdzdwYUotODBhX2U5SXRZZWFBLTZjZ0dFWlJka3p1RmNaQnRZSWU5RW1xdGQ0QjZZRHowQlN6ZkVweFh2SFU?oc=5)
+
+---
+
+### [嘴巴長皰疹，竟藏失智風險？不只是太累、壓力大...唇皰疹1年超過2次很傷腦！權威醫公開「5招防大腦退化」](https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1BWOUJvRFpvWkU0OFUwaUFENjRwOXB0MTJaNmZVT1hES3J0QVVVMkp2aVZSSjlDUi02YV9TWDN4YTRfTHRXMnQzM0RaSVRmZ2hBX0RoUWpxbnM2cGt3T1ZrRi1sbkxmZW1zS1pTYkFocll5SW1FOGFrQnpHN2RGWA?oc=5)
+
+2026-08-25 <span class="news-indication-tag">失智</span>
+
+來源：[今周刊](https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1BWOUJvRFpvWkU0OFUwaUFENjRwOXB0MTJaNmZVT1hES3J0QVVVMkp2aVZSSjlDUi02YV9TWDN4YTRfTHRXMnQzM0RaSVRmZ2hBX0RoUWpxbnM2cGt3T1ZrRi1sbkxmZW1zS1pTYkFocll5SW1FOGFrQnpHN2RGWA?oc=5)
+
+---
+
+### [長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命 | TVBS - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QYzFpRUd4SUVTaEU2TVZ0THFVS3BRQllxeWZZb2lBRnpTUkFCNnFvN1hLQWR5MzNQQUpKeHliLVg1a2pUWm8xTEIyZE5sM28wWGs0cVdn?oc=5)
+
+2026-08-24 <span class="news-indication-tag">癌症</span>
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QYzFpRUd4SUVTaEU2TVZ0THFVS3BRQllxeWZZb2lBRnpTUkFCNnFvN1hLQWR5MzNQQUpKeHliLVg1a2pUWm8xTEIyZE5sM28wWGs0cVdn?oc=5)
+
+---
+
+### [新生兒需要癌症篩檢嗎？及早知道，真的能改變一生 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGJUdGNnWjlSblY2d1B2VEtETTAtaDVfX25EaFM2dFNMSUdIVXl0UHh3dGU0TzljSFRUbGlBSjB0UlUxQXRsOXJCVjlRS1ZQdzdzUi1ERTI3T1NBRmdVR1NrZDF1dG8tdHJ1ZmEwZWNCNGJCMi1OUWM5OWR5VzE4VVdWUGdhY291NkUxclg2azlSYUxsVFF2NGcwSE1LT2J5T1E?oc=5)
+
+2026-08-23 <span class="news-indication-tag">癌症</span>
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGJUdGNnWjlSblY2d1B2VEtETTAtaDVfX25EaFM2dFNMSUdIVXl0UHh3dGU0TzljSFRUbGlBSjB0UlUxQXRsOXJCVjlRS1ZQdzdzUi1ERTI3T1NBRmdVR1NrZDF1dG8tdHJ1ZmEwZWNCNGJCMi1OUWM5OWR5VzE4VVdWUGdhY291NkUxclg2azlSYUxsVFF2NGcwSE1LT2J5T1E?oc=5)
+
+---
+
+### [羅志祥66歲母親罹「阿茲海默症」…醫：1飲食法「逆轉腦齡7.5歲」，這些傷腦食物要少吃](https://news.google.com/rss/articles/CBMizgJBVV95cUxOYUh6d0pCeDlVRXZFbWhtX1VXeEhEN3RqZXNaUlRyclM2a3p4S1l0U2l1M1J2WU42WmtmVkpTQ0xITGdSbE1xYlR0ak9NOFZ0dGNveHdLZ19PMFBITlE3QWRiY3l1SGlYd1pCZW5VRlpVSTc0MHNJSVM5Z2pkOXc1X2QxTDNxVFhkZTJaemE4aUtua3dMbGlSeVh1NmZiaEFBZE5VWUg5U21uano3Ym94VFZ2NTg1X2l4YVItZEZsYnRuUmpsb0ROZTEySDQtX3lOSGNpVWVLek9HWHQxWXRvbGRzVElUU0RDQnNNcmNHa2tfc3hQcGU2VnZSZzlKOXdyWUdOOTUtSWZtTXc5UUFtZzRyTE8xeFU2T0FncjhjOUV0dEZweldxS01wVVFLZUxCczlIaFE4Sm14aXZNVGRrODBKaXBra0lMTFRsbTRn?oc=5)
+
+2026-08-22 <span class="news-indication-tag">阿茲海默症</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMizgJBVV95cUxOYUh6d0pCeDlVRXZFbWhtX1VXeEhEN3RqZXNaUlRyclM2a3p4S1l0U2l1M1J2WU42WmtmVkpTQ0xITGdSbE1xYlR0ak9NOFZ0dGNveHdLZ19PMFBITlE3QWRiY3l1SGlYd1pCZW5VRlpVSTc0MHNJSVM5Z2pkOXc1X2QxTDNxVFhkZTJaemE4aUtua3dMbGlSeVh1NmZiaEFBZE5VWUg5U21uano3Ym94VFZ2NTg1X2l4YVItZEZsYnRuUmpsb0ROZTEySDQtX3lOSGNpVWVLek9HWHQxWXRvbGRzVElUU0RDQnNNcmNHa2tfc3hQcGU2VnZSZzlKOXdyWUdOOTUtSWZtTXc5UUFtZzRyTE8xeFU2T0FncjhjOUV0dEZweldxS01wVVFLZUxCczlIaFE4Sm14aXZNVGRrODBKaXBra0lMTFRsbTRn?oc=5)
 
 ---
 
