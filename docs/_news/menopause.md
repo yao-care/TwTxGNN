@@ -36,7 +36,7 @@ permalink: /news/menopause/
 
 ### [更年期雌激素下降，可能影響大腦健康？研究發現新的線索 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lbkd4ZnFmX2dFblhIWUdVQUJxaE5Ja1Y4RVE5YzZ5LWZTRC1SQkp5UmpZUTM5bEJneWVRRlRvb2xWZXk0aW16NjRNM1AzMGpKSEZVV0tR?oc=5)
 
-2026-08-25
+2026-08-26
 
 來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lbkd4ZnFmX2dFblhIWUdVQUJxaE5Ja1Y4RVE5YzZ5LWZTRC1SQkp5UmpZUTM5bEJneWVRRlRvb2xWZXk0aW16NjRNM1AzMGpKSEZVV0tR?oc=5)
 

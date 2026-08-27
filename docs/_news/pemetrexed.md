@@ -14,7 +14,7 @@ permalink: /news/pemetrexed/
 ---
 
 <p class="key-answer" data-question="Pemetrexed 有什麼相關新聞？">
-<strong>Pemetrexed</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pemetrexed</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/pemetrexed/
 <p><a href="{{ '/drugs/pemetrexed/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [同齡卻像兩代人！哈佛研究揭「抗老5關鍵」 近10年無癌症、心血管病](https://news.google.com/rss/articles/CBMiiANBVV95cUxNdzVQT3QwWDZ1VHVEeUg4X093bF94Z3hiWTNNUm8xQnNXV2Y0TTdxem9GQVlFWG9obWh2MEFnenMtUEQ0WXdlczV0Z09DQl9tZEZmTU1FZ2hTSjlWWXVCYnN3ZnN4YmRJb2lxS0U4T1B2UFRZZUNub1BPTWNHdFhfN2R1UFd3anFNNTJtRFhtOVNHZC12c1dldjJ2b09UTHFtY1hSOUlhVUZvNmJjbVVpTWZwVVpEYXg5b0U1T0I1SVhKSFNBODQxeU1JN3czU0E4WDVFWUxRb2l6S2g5UmRSYmV2cU9UVndNa3ZGVFdiaTB4VTVMWm84aS1pVjdOMDVvd0N1WmF4S3FyNVNTaFBIeFVPNDZUbzR2NUhNNkJKZ2M2OG53SGN0SF9pVDFBQnA5ejNFaWQyVkhXR3BkZjh0MTdOWUVsRXJ6aFduVURMeHVJbW9Qa2FTUWRMQTdXbjFIaVZLWkRvT2Jsd0FhWjRnanFTV3AtNEhDRkxyMXpGQ00wUEItRGtGVQ?oc=5)
+### [頭骨裡竟藏「免疫軍隊」！研究發現防線一弱 腦腫瘤就變兇](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dVpYSU00Vnpfcmd6UktfR19xQm5LSlR4MmNFX2RSX3p5eVRPUGNhb09vSmR3b3dnMXB5N19RSnpUNm5YcnRCbmtfckJQMWhzaThxNnljSnM3UVlyNTBoX0l3U2g?oc=5)
 
-2026-08-26 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span>
+2026-08-27 <span class="news-indication-tag">腫瘤</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiiANBVV95cUxNdzVQT3QwWDZ1VHVEeUg4X093bF94Z3hiWTNNUm8xQnNXV2Y0TTdxem9GQVlFWG9obWh2MEFnenMtUEQ0WXdlczV0Z09DQl9tZEZmTU1FZ2hTSjlWWXVCYnN3ZnN4YmRJb2lxS0U4T1B2UFRZZUNub1BPTWNHdFhfN2R1UFd3anFNNTJtRFhtOVNHZC12c1dldjJ2b09UTHFtY1hSOUlhVUZvNmJjbVVpTWZwVVpEYXg5b0U1T0I1SVhKSFNBODQxeU1JN3czU0E4WDVFWUxRb2l6S2g5UmRSYmV2cU9UVndNa3ZGVFdiaTB4VTVMWm84aS1pVjdOMDVvd0N1WmF4S3FyNVNTaFBIeFVPNDZUbzR2NUhNNkJKZ2M2OG53SGN0SF9pVDFBQnA5ejNFaWQyVkhXR3BkZjh0MTdOWUVsRXJ6aFduVURMeHVJbW9Qa2FTUWRMQTdXbjFIaVZLWkRvT2Jsd0FhWjRnanFTV3AtNEhDRkxyMXpGQ00wUEItRGtGVQ?oc=5)
-
----
-
-### [瘦瘦針驚喜效應！GLP-1改善多囊性卵巢助受孕 減重族重返實體門市爆買 | TVBS - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qejZBdjB1OEh2OHRIX1BGZlFEYU9fQ1pmMWpvTjN4cTJKOU96M3pzY2VTMXBCalVBWnp4RVhSUDdLUVlya1VqbWtLek1WRGJnXzVHaWpB?oc=5)
-
-2026-08-26 <span class="news-indication-tag">癌症</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qejZBdjB1OEh2OHRIX1BGZlFEYU9fQ1pmMWpvTjN4cTJKOU96M3pzY2VTMXBCalVBWnp4RVhSUDdLUVlya1VqbWtLek1WRGJnXzVHaWpB?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dVpYSU00Vnpfcmd6UktfR19xQm5LSlR4MmNFX2RSX3p5eVRPUGNhb09vSmR3b3dnMXB5N19RSnpUNm5YcnRCbmtfckJQMWhzaThxNnljSnM3UVlyNTBoX0l3U2g?oc=5)
 
 ---
 
