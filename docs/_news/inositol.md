@@ -44,11 +44,11 @@ permalink: /news/inositol/
 
 ## 相關新聞（1 則）
 
-### [帶狀皰疹疫苗大降中風與心臟病風險 效果堪比降血壓藥](https://news.google.com/rss/articles/CBMibkFVX3lxTE1DVkFBbXBXajczZ0ZMRlIzT05kZk9mOGgxbzBHMVgydUdrRzdENDNaaHA2akF4MUJZU2xGOXhQSkpVdHJQN3JreERTTXdGaVNyYUhnY3RzNHotSjNiZWphdEpOYk5GclRuVnhid2tR?oc=5)
+### [帶狀皰疹疫苗大降中風與心臟病風險效果堪比降血壓藥- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hbGg0d3VFVERXYk5qajNoUG00YWMtZ2hzSXJrM1VLc2kzQk1xYWtUUzJ2S0pZbkJ4TXBMYjlOemRnNlQwMTEzclZ1dExmcGE0LUtvLUZsYk5icWZfMG5z?oc=5)
 
 2026-08-26 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">帶狀皰疹</span> <span class="news-indication-tag">中風</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1DVkFBbXBXajczZ0ZMRlIzT05kZk9mOGgxbzBHMVgydUdrRzdENDNaaHA2akF4MUJZU2xGOXhQSkpVdHJQN3JreERTTXdGaVNyYUhnY3RzNHotSjNiZWphdEpOYk5GclRuVnhid2tR?oc=5)
+來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hbGg0d3VFVERXYk5qajNoUG00YWMtZ2hzSXJrM1VLc2kzQk1xYWtUUzJ2S0pZbkJ4TXBMYjlOemRnNlQwMTEzclZ1dExmcGE0LUtvLUZsYk5icWZfMG5z?oc=5)
 
 ---
 

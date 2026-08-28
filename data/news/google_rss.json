@@ -1,17 +1,29 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-28T08:05:35.699249+00:00",
-  "count": 58,
+  "fetched_at": "2026-08-28T20:30:22.491491+00:00",
+  "count": 54,
   "news": [
     {
-      "id": "ff24108b1fae",
-      "title": "22歲女睡覺「雙腿不自主抽動」 醫揭偏食惹禍：4項營養指標異常 - Yahoo新聞",
-      "published": "2026-08-28T06:32:39+00:00",
-      "summary": "22歲女睡覺「雙腿不自主抽動」 醫揭偏食惹禍：4項營養指標異常&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "90a67c6c3959",
+      "title": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效 - TechNews 科技新報",
+      "published": "2026-08-28T16:04:13+00:00",
+      "summary": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOTTFkN3FXT0hBRFFmWEFDc3RoeElVZjNxaGVxRnlTckwtekVzRUhtdmpsZGtrejJJbHV2MUdhXy1UZkdaT2czMTBZNlB4dThsM1BXR3AyUVdnMG1mQ21SZlJYRHhzeE0yQlFSbkdEOElXZTVoT0R4V2Mwa2Q1Y3R0S3Z1VktWcUxHNUpxc3h6MnlhaTMwWEZIVmp6TEhTdG5UZmJrZEhlWXdfNDNXb1ozM0JOMnJLYW9iZDByN3FxRm0wOWdvLWQ3ZkFYMnNZY3BpZnRtWHExZ1FEclNaajl1U09DcGVDbHRkbjc0MHJGU0VHMHRkWlJIOFNORXRfZ1JubWtvLXg2VHVMMWtrVUtDM0pyNWdXeVBtQ21fTTNHRTZ2dmJIU3JBT19JM0Eyek1lMnhneTY0Ql96dXRjc3hjN1FINDlLamJfb0NFdjhMWFJvQWNlOG14OEVUanU4MklrQ01xeXhzNWh2N3MxQkxTNkFqWWlIMGh2LVRv?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUmZMVHBDZjd5d1dDMHRhcTlPVjRxTWRORHNHRE9jLXh3THZJdzJVQkpJRHZWODVKSlVSNEY3alIzaUJCbXpPR3BoN2gySE93SWs0Y0pEMlpKNlc4c3pCblNIdGpVZUd5cl9XZUFFS3pnM2F4X1F2MFNlQzVFOFR5b3NsU3lQZ1Zkbkh5dEx1RWVPSjZaa1BPMDJkZTlGQ1BKeXFrRHdTYnppUlpERUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "58a869adacc8",
+      "title": "生酮、地中海、素食減重效果相同研究揭脂肪肝糖尿病最佳選項- 國際 - 工商時報",
+      "published": "2026-08-28T13:50:00+00:00",
+      "summary": "生酮、地中海、素食減重效果相同研究揭脂肪肝糖尿病最佳選項- 國際&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KQWFOU1NPbzJJVW1VTW12MWQ3d2g0eExWbmhtV3pXTTFFdEV1b00tb3Y1Y1p2RXU2MTZlM09MTk1GVVRKbk13VjhUV05UTExzRVZJaWVSd2VBdHhPRk1J?oc=5"
         }
       ]
     },
@@ -28,26 +40,26 @@
       ]
     },
     {
+      "id": "063d4b5f7408",
+      "title": "熟齡族保健怎麼補？ 先從飲食找答案- 生活 - 中時新聞網",
+      "published": "2026-08-28T09:35:16+00:00",
+      "summary": "熟齡族保健怎麼補？ 先從飲食找答案- 生活&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EelRDdFM3c3NpNV8tQ3NKbVdrRDEwMzBvbzkyZ0ZlNnpMcDR0WVhZUkV5cUxuZEFCUEZXYi05X3hIRWN0NW9xNWx3emlyX19BZW9kQVdQak9URDl2NXQzZmF4c0ViczZramtoOEJ3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f1a46843a122",
       "title": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道 - ELLE",
-      "published": "2026-08-28T01:35:05+00:00",
+      "published": "2026-08-27T07:00:00+00:00",
       "summary": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道&nbsp;&nbsp;ELLE",
       "sources": [
         {
           "name": "ELLE",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0xZYTg2WThhNWpPd1g2Ni1WU1VoOE1Qbi1xaG9EY0lGcklsLXlDYy16OVphX1VmRVFpalljSHROSWl2M1pXRk5vcUo5em13am1jVGN3dl9ad3VCc0NEREgtMnNHdnBKODNxZUFrVnp2cml0Z3ZFUnR3R3RfX2dnT3dKdlY5ajNOZDlR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "48e9b05dbb5d",
-      "title": "飛機攜蚊入境德國法蘭克福爆「機場瘧疾」2員工病逝- 國際 - 工商時報",
-      "published": "2026-08-27T15:04:00+00:00",
-      "summary": "飛機攜蚊入境德國法蘭克福爆「機場瘧疾」2員工病逝- 國際&nbsp;&nbsp;工商時報瘧蚊搭飛機！ 法蘭克福機場罕見瘧疾疫情6感染2死&nbsp;&nbsp;Yahoo新聞德國法蘭克福機場爆罕見瘧疾 蚊子搭飛機入境咬6人釀2死 | 上報&nbsp;&nbsp;LINE TODAY病媒蚊搭上飛機！ 德國機場2地勤「感染瘧疾」死亡、4人搶救中&nbsp;&nbsp;ETtoday新聞雲蚊子「偷渡」德國叮咬機場員工致兩死- 國際&nbsp;&nbsp;香港文匯報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hYkVYVnh5dUhtdFhSaEg0bTlwQkhJMGt1cDVMWGpab3YzVDd1YmlLSUFGZHdJNDlwdW5mN25Pdy1kcHVfb012SVZDZXp0YThYVi0zNUZJMDJfZm03WjhV?oc=5"
         }
       ]
     },
@@ -64,30 +76,6 @@
       ]
     },
     {
-      "id": "2dfdcdd3554e",
-      "title": "泰國旅遊注意！登革熱升溫 曼谷淪重災區，當局：有症狀勿自行買藥 - Vision Thai 看見泰國",
-      "published": "2026-08-27T09:25:24+00:00",
-      "summary": "泰國旅遊注意！登革熱升溫 曼谷淪重災區，當局：有症狀勿自行買藥&nbsp;&nbsp;Vision Thai 看見泰國",
-      "sources": [
-        {
-          "name": "Vision Thai 看見泰國",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yM2N3NmVlZHhTQ0NzRlc3a0ZuU2N3MVphYXJYYWN0Vm0tUWV6emMwaVNVYVVuYnFla21zc0pLX3VzTEZfWENNbFpJZlRVRzR0bEl5aTIzX3J3Z1BNTHA1V1RUZ2FxNkFVd2w2encwVmhndw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ecd51fb8ca45",
-      "title": "帶狀皰疹疫苗大降中風與心臟病風險 效果堪比降血壓藥 - 中時新聞網",
-      "published": "2026-08-26T14:52:51+00:00",
-      "summary": "帶狀皰疹疫苗大降中風與心臟病風險 效果堪比降血壓藥&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DVkFBbXBXajczZ0ZMRlIzT05kZk9mOGgxbzBHMVgydUdrRzdENDNaaHA2akF4MUJZU2xGOXhQSkpVdHJQN3JreERTTXdGaVNyYUhnY3RzNHotSjNiZWphdEpOYk5GclRuVnhid2tR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a8608abfacf9",
       "title": "改善腸胃健康的8款「最佳早餐」推薦！告別消化不良，從每日第一餐養出好膚質與免疫力 - Vogue Taiwan",
       "published": "2026-08-25T09:13:48+00:00",
@@ -100,6 +88,18 @@
       ]
     },
     {
+      "id": "0cb20c7107b8",
+      "title": "帶狀皰疹疫苗大降中風與心臟病風險效果堪比降血壓藥- 國際 - 工商時報",
+      "published": "2026-08-26T14:52:00+00:00",
+      "summary": "帶狀皰疹疫苗大降中風與心臟病風險效果堪比降血壓藥- 國際&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hbGg0d3VFVERXYk5qajNoUG00YWMtZ2hzSXJrM1VLc2kzQk1xYWtUUzJ2S0pZbkJ4TXBMYjlOemRnNlQwMTEzclZ1dExmcGE0LUtvLUZsYk5icWZfMG5z?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1f7cb026ccd5",
       "title": "補鈣、維生素D能保骨防跌？15萬人研究：效益幾乎為零，真正有效靠3件事 - Yahoo新聞",
       "published": "2026-08-27T10:52:33+00:00",
@@ -108,18 +108,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNZnhQT3VzZnY1ZE9QMlZPQUtzMVZUdjRqXzlXeVN6WFlSb3loSDRiT0tkUUZSQzg1SUtQNHU1Tm5YZmRpLVQ3TkZXemZBODZhMVRYTER4UXJMZFp1WmpvSXptTzdtcEFZWXI3WUxLNG5rbkhwZC1wQ2Z0Xy04ekEyUmdlRzIyZ0RnV2oxd09lYi1hTEJnaXV2MFVQLVZRWjBOOTFNUXBUdFNBQ3RnanYxQmpkQjdjdk9YTzZDZHZYRUhuTWp2bEdjdWRPQU1ybmVmUzhmMkduU1Naa25iSV9QczJ0NWprdWhodkRJa2ZsWENnNGZudlZ2YTR3ampjaVRwd2EzMXhURHRna3puMGZ0MmZ3UjdSZkZhUkxETXZsemdDMkdrMmx6bHFqbDJJRURXcTRPUERtOFNKa2QzbXZBUGc4VDgxb3ZzMDM2eHJYSDF1dUFMWXdOYlltXzZVbjU5UnBFOTFOaHBOclNUODFzX29lMWRNX01HUmtvRll0M05KZ2lSYy1zcm5HQV9zWXBtaGs4dHM1NEpRLXg0ZG9yRFh3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "29bbe9a10e31",
-      "title": "嚴重曬傷恐致癌？專家：起水泡都損DNA - UDN",
-      "published": "2026-08-25T05:28:31+00:00",
-      "summary": "嚴重曬傷恐致癌？專家：起水泡都損DNA&nbsp;&nbsp;UDN前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jQkRDNkI3TTNlR1p2d0ktR2hDY1MxVGx0S045SUZiT09EOUdmZG5rUkNqYWViR1NxMzlfOXVkeXRBZDRUV0Nxa0pxYkU3R2Jx?oc=5"
         }
       ]
     },
@@ -144,6 +132,42 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40RE9KTHI4eVk0SFg3dWs2elRNLThHQ25oSEdrZFlxZUdMNWU5LTd2MXcxcFVfeHp6a2kzV3RlMmR4aWZJSWx4bF9LYXgtUkxDN2xEM1U1b3MxZjVsZmlFWVlXTjI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4b7ac0bf524d",
+      "title": "HIV新增感染降至879人，為什麼現在反而不能停？ - peopo.org",
+      "published": "2026-08-23T01:09:00+00:00",
+      "summary": "HIV新增感染降至879人，為什麼現在反而不能停？&nbsp;&nbsp;peopo.org",
+      "sources": [
+        {
+          "name": "peopo.org",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxUk1WTzRhZjk0YWxuQVR1Wi1ZZ0d5cnpmRDFPaVo3TEhtYWZqVUlDRWtxb2pHVnJWX01FelBNMnBpbzlILXdQeA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2dfdcdd3554e",
+      "title": "泰國旅遊注意！登革熱升溫 曼谷淪重災區，當局：有症狀勿自行買藥 - Vision Thai 看見泰國",
+      "published": "2026-08-27T09:25:24+00:00",
+      "summary": "泰國旅遊注意！登革熱升溫 曼谷淪重災區，當局：有症狀勿自行買藥&nbsp;&nbsp;Vision Thai 看見泰國",
+      "sources": [
+        {
+          "name": "Vision Thai 看見泰國",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yM2N3NmVlZHhTQ0NzRlc3a0ZuU2N3MVphYXJYYWN0Vm0tUWV6emMwaVNVYVVuYnFla21zc0pLX3VzTEZfWENNbFpJZlRVRzR0bEl5aTIzX3J3Z1BNTHA1V1RUZ2FxNkFVd2w2encwVmhndw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "58c90a436e06",
+      "title": "衞健委籲接種流感疫苗 防護流感最經濟有效 - on.cc東網",
+      "published": "2026-08-23T04:04:44+00:00",
+      "summary": "衞健委籲接種流感疫苗 防護流感最經濟有效&nbsp;&nbsp;on.cc東網",
+      "sources": [
+        {
+          "name": "on.cc東網",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVzlTU0lwaHlBaElKa042Q3JuY0FObnBMV2xuTUpTTHg1bUhmUTZzbjExSDNmTUhRZEdyWUlMVmhLLXd5LXNmcnR2aWxIT2VhTE1jSzFWN3lKX0x6eWU0M2pXV29xSllkeWYtdy1BTXdSWlF2Mko2N3Rjc1JES3dTRDZXZGhRNDRhNWo0?oc=5"
         }
       ]
     },
@@ -184,34 +208,10 @@
       ]
     },
     {
-      "id": "58c90a436e06",
-      "title": "衞健委籲接種流感疫苗 防護流感最經濟有效 - on.cc東網",
-      "published": "2026-08-23T04:04:44+00:00",
-      "summary": "衞健委籲接種流感疫苗 防護流感最經濟有效&nbsp;&nbsp;on.cc東網",
-      "sources": [
-        {
-          "name": "on.cc東網",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVzlTU0lwaHlBaElKa042Q3JuY0FObnBMV2xuTUpTTHg1bUhmUTZzbjExSDNmTUhRZEdyWUlMVmhLLXd5LXNmcnR2aWxIT2VhTE1jSzFWN3lKX0x6eWU0M2pXV29xSllkeWYtdy1BTXdSWlF2Mko2N3Rjc1JES3dTRDZXZGhRNDRhNWo0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4b7ac0bf524d",
-      "title": "HIV新增感染降至879人，為什麼現在反而不能停？ - peopo.org",
-      "published": "2026-08-23T01:09:00+00:00",
-      "summary": "HIV新增感染降至879人，為什麼現在反而不能停？&nbsp;&nbsp;peopo.org",
-      "sources": [
-        {
-          "name": "peopo.org",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxUk1WTzRhZjk0YWxuQVR1Wi1ZZ0d5cnpmRDFPaVo3TEhtYWZqVUlDRWtxb2pHVnJWX01FelBNMnBpbzlILXdQeA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "70154995c5c2",
       "title": "美衛生部長：賓州官員或虛構麻疹死亡病例 - 大纪元",
       "published": "2026-08-27T13:42:00+00:00",
-      "summary": "美衛生部長：賓州官員或虛構麻疹死亡病例&nbsp;&nbsp;大纪元賓州爆發致命麻疹 35年來首見死亡病例&nbsp;&nbsp;cna.com.tw美國麻疹疫情升溫，賓州 35 年來首度出現死亡病例&nbsp;&nbsp;TechNews 科技新報美國麻疹疫情創35年新高 爆2死數千例確診引公衛危機 | 民視新聞網&nbsp;&nbsp;LINE TODAY【即時新聞】美國麻疹病例創1991年來新高！默沙東(MRK)與葛蘭素史克(GSK)疫苗受矚目&nbsp;&nbsp;CMoney投資網誌",
+      "summary": "美衛生部長：賓州官員或虛構麻疹死亡病例&nbsp;&nbsp;大纪元賓州爆發致命麻疹 35年來首見死亡病例&nbsp;&nbsp;cna.com.tw美國麻疹疫情創35年新高 爆2死數千例確診引公衛危機 | 民視新聞網&nbsp;&nbsp;LINE TODAY【即時新聞】美國麻疹病例創1991年來新高！默沙東(MRK)與葛蘭素史克(GSK)疫苗受矚目&nbsp;&nbsp;CMoney投資網誌今年首見麻疹死亡病例 賓州兩患者均未打疫苗&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "大纪元",
@@ -244,14 +244,14 @@
       ]
     },
     {
-      "id": "a17866f9f9fa",
-      "title": "大腦老化新線索，血液免疫細胞竟會「闖入」大腦 | 科技新報 - LINE TODAY",
-      "published": "2026-08-26T08:34:16+00:00",
-      "summary": "大腦老化新線索，血液免疫細胞竟會「闖入」大腦 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "id": "45f04de0d2f9",
+      "title": "大腦老化新線索，血液免疫細胞竟會「闖入」大腦 - TechNews 科技新報",
+      "published": "2026-08-26T00:31:27+00:00",
+      "summary": "大腦老化新線索，血液免疫細胞竟會「闖入」大腦&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40SjF2eHNiRUtxSzIxWWZ4U1VsT2JNV0VROTFtWXpzX0pFUDdSX0MzcDU3cm44ZDM1TmEwZmJ3ZVQ1S0R5dzFTVS1HSk96aWN3RUd6b0x3?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMERXXzdtaFBlQUwwWHlMd01UTXROdU1sVGJpTmkzQkJNYURibFZaS1E2ckt4SGtMd2lHWENNYThvMHhfc2xDdy1PdGpLcUQ3UjJWcnNHU28xNmJqeHlXNmowYmFEdUhWVnNpZ0JSelp5YTV3dHdOT3lkbzZleHVjOVoxOVdyVTdMVHozSGM3NWlJcU8zdXFmdE9RMWhKZWFnU3c?oc=5"
         }
       ]
     },
@@ -280,14 +280,14 @@
       ]
     },
     {
-      "id": "d4c056a67373",
-      "title": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 - TechNews 科技新報",
-      "published": "2026-08-25T00:44:35+00:00",
-      "summary": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索&nbsp;&nbsp;TechNews 科技新報",
+      "id": "7cac4b49b6b9",
+      "title": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 | 科技新報 - LINE TODAY",
+      "published": "2026-08-25T08:33:56+00:00",
+      "summary": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2dsMGNadUVtX1ZnZ0ZnemlOVGtwRFZHOGM5elR4cHlldmlGcjJRVWlhNUlkRVNaeDRBbTJtS1NnVTVTeU1LbERJalhUWnNKbVE3anlLQWk1alozbDlGRmFoZ1RoYl93MFZUcDA2UEh6dDc5NHFseDVNTWRMd0QtMkozODZGZUtneFQzNUVES1JoNG5zeUlKS1JvakFkc2pFa1E?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lbkd4ZnFmX2dFblhIWUdVQUJxaE5Ja1Y4RVE5YzZ5LWZTRC1SQkp5UmpZUTM5bEJneWVRRlRvb2xWZXk0aW16NjRNM1AzMGpKSEZVV0tR?oc=5"
         }
       ]
     },
@@ -328,26 +328,38 @@
       ]
     },
     {
-      "id": "0d27fc81263d",
-      "title": "28歲女共用瑜伽墊竟感染HPV背部生滿疣！醫生傳授3大防護清單：做漏這一步等同直接接觸 - UHK 港生活",
-      "published": "2026-08-26T11:19:33+00:00",
-      "summary": "28歲女共用瑜伽墊竟感染HPV背部生滿疣！醫生傳授3大防護清單：做漏這一步等同直接接觸&nbsp;&nbsp;UHK 港生活公用瑜伽墊染HPV？武漢28歲女用公用瑜伽墊後背長滿丘疹| 翻牆來尋奇| 兩岸&nbsp;&nbsp;UDN公用瑜伽墊感染HPV？女子背部長滿扁平疣！醫師：健身族5招自保&nbsp;&nbsp;造咖HPV｜湖北女用公家瑜伽墊周身痕確診「扁平疣」 醫生警示多種高危物品&nbsp;&nbsp;singtao.ca湖北女子使用公用瑜伽墊後感染HPV引發扁平疣 醫生提醒多種公共物品存風險&nbsp;&nbsp;Singtaousa",
+      "id": "1d7403db97d1",
+      "title": "漱口水就可揪出大腸癌？最新研究揭1數據 - 鏡週刊Mirror Media",
+      "published": "2026-08-23T10:03:00+00:00",
+      "summary": "漱口水就可揪出大腸癌？最新研究揭1數據&nbsp;&nbsp;鏡週刊Mirror Media",
       "sources": [
         {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQNERXX2RLMDdLREo0b3dHaldYUE1lREUyZ2NfanBieEN2VVVlRE50eDlMclNCZ0lqcjVUbmVGTUdmSGJnZmJqclJYdWVDcW5FRnpCZDJIMldDcDd0d2cwbXRGNGpiTnlDbk5YSGJaQUdnNmNrNGNCcTJpZjkyTk9QQ0kwcEplOGhjVFhoRlgxY3UySk9mSDZlZHlmeDZQaTMzUmo3dFBfZUh4bzYzeFpIRWVzcHcwSkdTNmNaTlRhZ1lnZXc2R3htQWoxeG03dmdUaVpvT0hYQk9rWVp4eDVNaWdreVZpX0RRb0tkVlNkNmhBZWZSbjFLWWV2NFBQSHBYNUo2OGxYeFZCZU1MR3lSZ05IUlB6clI0dkoxRXVQcGdQYm9rcHNMLUk2c2RUd2pxX3J3ZE5hVmlzZXM1ajFXWGZaRmJJT1ZES1IxeE1aeDR2cTE3V19DOEhPR3B1Uk5UQTEya0xYQ3Nqd0hqcWpFRXdMTGdrb1BjNkdxS0RhRGdJcEIwajdYOEJja1RmMEZ1U2VaREZxalhQMXUzWGlyUGVB?oc=5"
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zUGRqLWYyV2ZPTnpsTlB3S1VGanloVEFOUHpFbEIxNnBXZnNuelJwdkh3TXNUZDdfak5oVUhWY3Izb0h6Z3BPdTFaZEJTS3dTc0JDbWJIMWxIUXg50gFiQVVfeXFMTkhGcUIzLTNISFBBUlpmbmZ5OUVYcUxZUnYxcldZMExJM3l5NmZrYlNlN1Njc2ZWU2FRRkp3RmVVcDFRa3g0ck94aTRsX1VyTHc3UHVvNEhzMnBodk1KZ0FpS0E?oc=5"
         }
       ]
     },
     {
-      "id": "a866609e4be1",
-      "title": "漱口水能驗出大腸癌？研究發現口腔菌藏關鍵訊號 - 自由健康網",
-      "published": "2026-08-22T08:00:00+00:00",
-      "summary": "漱口水能驗出大腸癌？研究發現口腔菌藏關鍵訊號&nbsp;&nbsp;自由健康網",
+      "id": "8841c25e8983",
+      "title": "公用瑜伽墊染HPV？武漢28歲女用公用瑜伽墊後背長滿丘疹| 翻牆來尋奇| 兩岸 - UDN",
+      "published": "2026-08-26T00:24:09+00:00",
+      "summary": "公用瑜伽墊染HPV？武漢28歲女用公用瑜伽墊後背長滿丘疹| 翻牆來尋奇| 兩岸&nbsp;&nbsp;UDN公用瑜伽墊感染HPV？女子背部長滿扁平疣！醫師：健身族5招自保&nbsp;&nbsp;造咖HPV｜湖北女用公家瑜伽墊周身痕確診「扁平疣」 醫生警示多種高危物品&nbsp;&nbsp;singtao.ca湖北女子使用公用瑜伽墊後感染HPV引發扁平疣 醫生提醒多種公共物品存風險&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80NnB2Mnh4WnJpc1NNUC0tcFljckJQenpHV0k0aHpXbEMteG5XNVFfMEg3ekhYamtQMHV6M215cE1CdFdoUGZGc2hCTi1LNTVpNHBjMTRyaXN3WElSWGYya0l0ZEU?oc=5"
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9abmxLQlZRd0c4Y19fbkFWRU54RklsSGlWaU9GTDg2LXBEM0dRbEZfWFkyVEZ6WEhOTzRvMlNLZndLRVZ6MURSdjNlTlRTb1lV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b2ae0865ee62",
+      "title": "何妤玟高燒住院8天找不到原因 急喊：我是純潔乾淨的女人！ - 東森電視",
+      "published": "2026-08-22T16:54:00+00:00",
+      "summary": "何妤玟高燒住院8天找不到原因 急喊：我是純潔乾淨的女人！&nbsp;&nbsp;東森電視",
+      "sources": [
+        {
+          "name": "東森電視",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FQ0lYWEdnTGpJbHFxZGNuUktyOVgzR3ZrNTBYMGZMV3B4cHZjQmRJbkVxeTloQmMtOHBlSUlBdmZIV2NMMU5OVV9aVlFVM3d4ek5ZLQ?oc=5"
         }
       ]
     },
@@ -364,18 +376,6 @@
       ]
     },
     {
-      "id": "38bd200ef16b",
-      "title": "何妤玟高燒住院8天找不到原因 急喊：我是純潔乾淨的女人！ - ent.ebc.net.tw",
-      "published": "2026-08-22T16:54:00+00:00",
-      "summary": "何妤玟高燒住院8天找不到原因 急喊：我是純潔乾淨的女人！&nbsp;&nbsp;ent.ebc.net.tw",
-      "sources": [
-        {
-          "name": "ent.ebc.net.tw",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FQ0lYWEdnTGpJbHFxZGNuUktyOVgzR3ZrNTBYMGZMV3B4cHZjQmRJbkVxeTloQmMtOHBlSUlBdmZIV2NMMU5OVV9aVlFVM3d4ek5ZLQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5a2a4243fdc9",
       "title": "洗腎患者注意！曬太陽長血水泡別抓 醫解析「假性紫質症」成因 - TVBS新聞網",
       "published": "2026-08-22T09:37:00+00:00",
@@ -384,18 +384,6 @@
         {
           "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSRU1zNmdyaTIwdnE4NG56SjJ1UjZQYzBxd3RnNXJRZ05JZ3VGMjJ1eG5MRXFIVms2WF9BNGluM3RyVTdybWNWTGJZVmltR0Uy?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "990f498b8ae3",
-      "title": "怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重 - Yahoo新聞",
-      "published": "2026-08-22T04:59:04+00:00",
-      "summary": "怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQX2NMUU9RN3RlTjFkM0U1VWMtdlFJLTREVmZVZ0lZVjkzdFJrbTVwSzdmTmNMWVNQYm9odC14RzROX3EyOTZuSDlPY2pjTGsyRWNfemhxT0lsbXZSU01XSVE3WHQxVmdXdC1LdHhhN3RJVURVUTVHWWpFcnhkQ1FGX1I2X3JHTVZQTHFZWjc1a3k1QnZKTlBONURDZ2llcGphR2Jwck5teXYxeHZMZ3JWRVdYWF9oMklHenNtYjl3YlBFRnl2YnJkNC14YUE1bnBYZE1JTmlJSHBEVEtncno2ZThvbmJNenFFQmxBTnlhYzI5SHBmS29KQmk0SlNrQmRfZDVMeTI0RlpLZFVqRXhRYkUtZFIxckhLUzZwOERQYm5kdUV2NkRvd3BQSFQzVGE0dWY3YVpFSzlmWmNKNWVzbWU3WU5IVUpsX3BOYjdWcTR3UDY0NVJfWkR1TWZ3bjczVUFRYlZfNFl2TzdMWV9nUFJQWVZISzJxdFE5SnNHSnpLb2ZoS0FVUEVfeTA4VVVZT1k3eXdTTUUzYkNWVzFkeDB5ei14MUoyLTdnSWJVcnpmMGNNMEVMUThnMUFNWF9Zd2VYdHMtaW51QXpBVnU5VFB5alFZN2RlLWFiVER3VlRCZw?oc=5"
         }
       ]
     },
@@ -424,14 +412,14 @@
       ]
     },
     {
-      "id": "c65c758b44fa",
-      "title": "他汀藥到底有幾「毒」？常傳多副作用 研究揭真相 - 信報網站",
-      "published": "2026-08-26T18:53:56+00:00",
-      "summary": "他汀藥到底有幾「毒」？常傳多副作用 研究揭真相&nbsp;&nbsp;信報網站",
+      "id": "a7ede99fd245",
+      "title": "降血脂藥副作用高達60多種！《刺胳針》權威研究：僅4項和藥物有關 - Yahoo新聞",
+      "published": "2026-08-22T00:02:49+00:00",
+      "summary": "降血脂藥副作用高達60多種！《刺胳針》權威研究：僅4項和藥物有關&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "信報網站",
-          "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQdTJnbEs5UnNNR3hndFFfZ3RuZlNod0VFams3ZGZxZlNQdWY3OTk3bURuenFYVTRsUVRRdF9veUhDeXNFSlJPcUJQRHRjdjY3alJWUEdXN3NRSndTdHJtbjFlMEU0LVF0eXBfQ0hzVEJaN1h2TmFwNDFLQ2RvSmVVM3BWRXpLOC1zTzVJZmdYeFVLRHo0dUQwYTd3UF9fd2VZUUVFRTlVaXZqYWprRXBkeFRWSEwwejBnMGVRNDFoZzh4cHVndDV5eU13d2thLW9FekQ5bk1ONmhuMHZIc2RzR1lZQkFLZThtS2x1eHktOXFuVTAxOS1YV0d0eko3dDI2enI0bGJXaUprMmVaaHE1aTdsZHh2NHc0S09NWkx4T21DdzQyV25WYXVlV3pONnF1S29lc1lxb29EWEdmemhxdjBmSDhDRjA2eXRsMjJ5UG1NSHV3dTdBbmZjN1FzTW0wcWxnM0pYQ0VWRjU1U0NiWUE2YUtLcUlMQmk0dFNYRWx0UmtiamdXWmZGR1Nrd0x4Skc3dF9taU5PZm5UR2JGcVFRRjYybGtoSEo2V3lRZWxBRVZLSVNaSkxxM3NJNWVPVUZoSUd3S09tZVk0QW9qX3FpTlFHRm1qUmxwc21tM2tWM1k2cm1j?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxObG1wc2FjTkp3ZENlWkxrek5JZkNnaWVmQjhjMF9hVVR1TDdwMXdLRmtpVjNlYWhBbFp4d21XZnhqTFp0YjJqdk9uaFNuUEsyc3ZNc2R3alllZi1lU0VNX0FBNXJyemVXOThGNTJWRDh3cG9mZDVEYzhDV09pQ3lsQzhkU25INHhyWGhDYWxPXzJOUm5FejgyM1dLX1gtQ0FpVkVpTzVzOXhuakFZQTZxRnpMa0NhZDd2RzE3cHVHRzhybjBXOXV0QTJtV3lHRjU1dmo2Z3RqWmdINV9xd1ppd3h4MW5BM1hvdjdMYzhUbE5CNmw4QTZaeHRmM3lYVTNESFItSmpaQ2lkMFpQaGFpcmRwb3hBcjN4YVJUYUNqcEVnbkNaZDJSbDJDWXlrNFl1WjlWTlg2RklWZTM2VzVlNDRXZ2dHLTF1MUJILUV4RHRfR0NZb092UVNPUkFwY19iOFlnMHJiakl2LVh3TXkySUpuUWFCZTk3eTdBOTI1VWRYWWJIcU84?oc=5"
         }
       ]
     },
@@ -484,18 +472,6 @@
       ]
     },
     {
-      "id": "c003337d0110",
-      "title": "壓力大時更容易迷路？研究發現皮質醇會讓大腦導航系統失靈 | 科技新報 - LINE TODAY",
-      "published": "2026-08-21T08:53:20+00:00",
-      "summary": "壓力大時更容易迷路？研究發現皮質醇會讓大腦導航系統失靈 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqcVhVOGR6ajBZWkdGZmZaUDhOSEtqVTQ2Z3ZKYVU2ZjNYZmVZRzFmMVljWkpJcnFfdXBhTGo0Zi1YU0NHbnJZR0dUTVRFM2pXdU1naTZn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "59e6233dfccd",
       "title": "🎙️陽性蚊群激增、罕見病毒現身 紐約防蚊更要防蜱蟲 - 世界新聞網",
       "published": "2026-08-25T13:00:19+00:00",
@@ -504,18 +480,6 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBURkVnSzA0RGhSdEttLVNRSi1NbzB4ZUZja1ZWM2tMSXVxUENyNmplWUZzYmJwVFlHdHNtT1NWMWRxUGxzS3JzeVkwX2RYd3NXSHNyMGpnOS1JUXhPb1J5WHp30gFnQVVfeXFMTmJ0WnI3SldDR3ViN01KSnlOb1JwYjhFN0NMUjNickJlRTJnMUNOeW5OR2lLczJDY2lpTGk1cEpKOGpqcmhzT3pJLWRDOUZDREhMT1RRNzFRQkZHRUNud3lxeXNxUGhwcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c5d39e210f4d",
-      "title": "高蛋白質飲食潮流 衝擊本地餐飲業 - Singtaousa",
-      "published": "2026-08-24T10:00:00+00:00",
-      "summary": "高蛋白質飲食潮流 衝擊本地餐飲業&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVhrLXJMMkhEX1dRcjBsY0FYYS1XSG9WZnZIZWRnbDdKSjllUG1IX3NYWmZyMHgtdEVRbG9QcTZpbC0tdFQ2eUE2VzB4dFpsV3QzYkdiWE1xaVlMY2YwdVJaSXZWam9sWkdlalVqaVlVdklaUEp2TXFXSlk0MUMzcG94M0JHZ3RJRTdQYQ?oc=5"
         }
       ]
     },
@@ -552,6 +516,18 @@
         {
           "name": "CCUE",
           "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNT0I4OTdHZVkxQ2tuR0ZjT2kybmhpRWFzYnhIX3YzeU50MDVkSkhqNzhZZm1ZQVNTWDV3RG1aaUtpejE5ejZLOXI5SDlsWlpDZ2tTTGtTLWNSanRsUU9UU3k2cXloUkFvc2JlM3NpcnlUS1J2a1NwcVdsU0dnZGVrQS1fSDExYmpyOG9la1AxSnF1QzBvUDYtUERfLUFKU05uVDJ1LWxOS3JGT3QwUHFPellyb21DV2Rud1ZZd3dVemFjRXhJTkllNmtUNEloYVFkeFg5THRnczVRTzNlMkkwa1FaLTMwTHJDblRXVHBzNmNWSlAtcW5hdzdJU0pXaC1tcF9lVE52cHhFM0paN2dSQ1hWTXllYnAzenRLdko0bHFHbVFUWGdTdjBnc2p4RU83NjJZemlPbzIyOG9pbGlzNW1mb3J4WGdwVHliNlZHMURnQ2JGa3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "990f498b8ae3",
+      "title": "怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重 - Yahoo新聞",
+      "published": "2026-08-22T04:59:04+00:00",
+      "summary": "怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQX2NMUU9RN3RlTjFkM0U1VWMtdlFJLTREVmZVZ0lZVjkzdFJrbTVwSzdmTmNMWVNQYm9odC14RzROX3EyOTZuSDlPY2pjTGsyRWNfemhxT0lsbXZSU01XSVE3WHQxVmdXdC1LdHhhN3RJVURVUTVHWWpFcnhkQ1FGX1I2X3JHTVZQTHFZWjc1a3k1QnZKTlBONURDZ2llcGphR2Jwck5teXYxeHZMZ3JWRVdYWF9oMklHenNtYjl3YlBFRnl2YnJkNC14YUE1bnBYZE1JTmlJSHBEVEtncno2ZThvbmJNenFFQmxBTnlhYzI5SHBmS29KQmk0SlNrQmRfZDVMeTI0RlpLZFVqRXhRYkUtZFIxckhLUzZwOERQYm5kdUV2NkRvd3BQSFQzVGE0dWY3YVpFSzlmWmNKNWVzbWU3WU5IVUpsX3BOYjdWcTR3UDY0NVJfWkR1TWZ3bjczVUFRYlZfNFl2TzdMWV9nUFJQWVZISzJxdFE5SnNHSnpLb2ZoS0FVUEVfeTA4VVVZT1k3eXdTTUUzYkNWVzFkeDB5ei14MUoyLTdnSWJVcnpmMGNNMEVMUThnMUFNWF9Zd2VYdHMtaW51QXpBVnU5VFB5alFZN2RlLWFiVER3VlRCZw?oc=5"
         }
       ]
     },
@@ -628,30 +604,6 @@
       ]
     },
     {
-      "id": "a1ea2a812f20",
-      "title": "4款港澳新藥同步落地 羅湖區人民醫院「港澳藥械通」再添新成員 - 香港商报",
-      "published": "2026-08-21T09:31:00+00:00",
-      "summary": "4款港澳新藥同步落地 羅湖區人民醫院「港澳藥械通」再添新成員&nbsp;&nbsp;香港商报",
-      "sources": [
-        {
-          "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YX2F4dzFCakUyWGNralJmMjBjWUdHSmFTTWF0d3pwdEdIRmJ5MWJJcWpPVzBReGVhbzRpekltQnk2dzI1cENta1VuNjItMXlZWkNPNHdudWgycFU2SUZaQU9BR2VReVhpVWtMTWU1Z0huTm9kdWxpbkgyNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9a338caa80dd",
-      "title": "瞓極都攰又易病？醫生拆解長期缺鋅危機 過量補鋅或出現2情況 - TVB",
-      "published": "2026-08-21T08:18:47+00:00",
-      "summary": "瞓極都攰又易病？醫生拆解長期缺鋅危機 過量補鋅或出現2情況&nbsp;&nbsp;TVB",
-      "sources": [
-        {
-          "name": "TVB",
-          "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQZUs5c0tFajAwWDZmcGF5NU4zN0oyQ3FnaDhSWmo4b2FMcEtpM0RqZW0wSEdiRUk3aWhHc2FYQWpVal9aZ1JsNFMxSVBCM3ZIZjZ0ODVkQzU4aEZNVVAyaE5OUHdyWEFkcjdIWVRBdVhHdGFZSmlqVTFUX282R1RhTEZQdWFtX0ZtXzJpZ2J1WE1aUVlJRDFtSi11Q3E4M05ZUldLM28zSkNral8tbDkya2RHa3JHeFJMbElwSEZyQnN6ZDhLaHh1TTBncGF0dHQ2SjVNS2YxX3ZHbDhDaGVobFFIVnZVakNUQ0F0VTlRRENvTjltbkVyTUV1bk9OREdsSnBnWWJGRU02cDFjcU9RY1RjSkhpTXpBXzZkbnFpak5mUFJGUTdkZnN2cmJjci1CN0EtX0QwVFBSblBUcm9FcGp2NGdNRjZnb3g4b0lYaUlURWo4Tl9xVVJkdHl4dzIyTHA2WW5heGM5WHVFc1dDVTloT0hDdEhoYlhTaG01MVNfeFRXNzZqU1VQdFBtUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4fbcf8cc07e9",
       "title": "長期攝取防腐劑增高血壓風險29% 避免加工肉果汁 8添加劑要注意 - 香港01",
       "published": "2026-08-26T07:00:09+00:00",
@@ -676,13 +628,13 @@
       ]
     },
     {
-      "id": "b48ceca40793",
-      "title": "蕁麻疹︱皮膚科醫生鍾文浩拆解兒童出風癩迷思 以1特徵分辨急性與慢性 - 香港經濟日報HKET",
+      "id": "1032abcb3a2c",
+      "title": "蕁麻疹︱皮膚科醫生鍾文浩拆解兒童出風癩迷思 以1特徵分辨急性與慢性 - topick.hket.com",
       "published": "2026-08-24T10:41:39+00:00",
-      "summary": "蕁麻疹︱皮膚科醫生鍾文浩拆解兒童出風癩迷思 以1特徵分辨急性與慢性&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "蕁麻疹︱皮膚科醫生鍾文浩拆解兒童出風癩迷思 以1特徵分辨急性與慢性&nbsp;&nbsp;topick.hket.com",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
+          "name": "topick.hket.com",
           "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQczBpZTlhUVpDY0NnenZ0RHY0Q0QydE9PUzRCRGlBRThtWFcycnlKUnRXeHo3TzZJbjhtTmhhbmdpaVI4VDU4MkxzdlRSUk8xVzRxUUk0cWhnbGZLb29iOTRNMXUweWZKdjBUZVlwUEN3UWJObjFuYndnd1liOTBMSThvZ0Vzb1RYV0FtSG1KV2FzNERCZ3BRZ0FWUTV5dUZKUGs0TFJvd043WGdCb3VYZ2pTX3ZSbTc0V2hRMzZsVlk4SzU1RFZPWTRvQjd1ZGMtT21MSDJYRkh4OEhIZ1cwR00yZ1JQOExla3hWVVN4SkU1TnFPYUdtb3B2VVJwX0xwekxITlF5Q01jbHN2Q1VwdElDa1N0VC1nZEY4enJZU3NBODZyazJyMUxBTkh3V3JyaFVtM3FrbXJLWENXcjZlZmg3T3BLVXJaQUxXeW1HZGs3RF9IM0R3XzNuN0pQZkdSV1ZEWXIzay1peDdHN2ZNRTFseDhrTnJENFZDTFowOU5hcGJ1amVxMFkyNEQ5WldvaXVkLW9VQjAyQXlqZzlvcFpsdm9LUlBJLVFGMG1rWTdfbFZWbnlVUnBoMWpWVnpwR05EUFRYeXVKSnRyd0VZUXh5SQ?oc=5"
         }
       ]

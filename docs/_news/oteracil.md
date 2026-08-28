@@ -68,11 +68,11 @@ permalink: /news/oteracil/
 
 ---
 
-### [漱口水能驗出大腸癌？研究發現口腔菌藏關鍵訊號](https://news.google.com/rss/articles/CBMiZEFVX3lxTE80NnB2Mnh4WnJpc1NNUC0tcFljckJQenpHV0k0aHpXbEMteG5XNVFfMEg3ekhYamtQMHV6M215cE1CdFdoUGZGc2hCTi1LNTVpNHBjMTRyaXN3WElSWGYya0l0ZEU?oc=5)
+### [漱口水就可揪出大腸癌？最新研究揭1數據 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zUGRqLWYyV2ZPTnpsTlB3S1VGanloVEFOUHpFbEIxNnBXZnNuelJwdkh3TXNUZDdfak5oVUhWY3Izb0h6Z3BPdTFaZEJTS3dTc0JDbWJIMWxIUXg50gFiQVVfeXFMTkhGcUIzLTNISFBBUlpmbmZ5OUVYcUxZUnYxcldZMExJM3l5NmZrYlNlN1Njc2ZWU2FRRkp3RmVVcDFRa3g0ck94aTRsX1VyTHc3UHVvNEhzMnBodk1KZ0FpS0E?oc=5)
 
-2026-08-22 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-08-23 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE80NnB2Mnh4WnJpc1NNUC0tcFljckJQenpHV0k0aHpXbEMteG5XNVFfMEg3ekhYamtQMHV6M215cE1CdFdoUGZGc2hCTi1LNTVpNHBjMTRyaXN3WElSWGYya0l0ZEU?oc=5)
+來源：[鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zUGRqLWYyV2ZPTnpsTlB3S1VGanloVEFOUHpFbEIxNnBXZnNuelJwdkh3TXNUZDdfak5oVUhWY3Izb0h6Z3BPdTFaZEJTS3dTc0JDbWJIMWxIUXg50gFiQVVfeXFMTkhGcUIzLTNISFBBUlpmbmZ5OUVYcUxZUnYxcldZMExJM3l5NmZrYlNlN1Njc2ZWU2FRRkp3RmVVcDFRa3g0ck94aTRsX1VyTHc3UHVvNEhzMnBodk1KZ0FpS0E?oc=5)
 
 ---
 
