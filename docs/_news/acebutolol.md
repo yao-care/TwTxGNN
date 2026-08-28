@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,13 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [頭骨裡竟藏「免疫軍隊」！研究發現防線一弱 腦腫瘤就變兇](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dVpYSU00Vnpfcmd6UktfR19xQm5LSlR4MmNFX2RSX3p5eVRPUGNhb09vSmR3b3dnMXB5N19RSnpUNm5YcnRCbmtfckJQMWhzaThxNnljSnM3UVlyNTBoX0l3U2g?oc=5)
 
 2026-08-27 <span class="news-indication-tag">腫瘤</span>
 
-來源：[health.ltn.com.tw](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dVpYSU00Vnpfcmd6UktfR19xQm5LSlR4MmNFX2RSX3p5eVRPUGNhb09vSmR3b3dnMXB5N19RSnpUNm5YcnRCbmtfckJQMWhzaThxNnljSnM3UVlyNTBoX0l3U2g?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dVpYSU00Vnpfcmd6UktfR19xQm5LSlR4MmNFX2RSX3p5eVRPUGNhb09vSmR3b3dnMXB5N19RSnpUNm5YcnRCbmtfckJQMWhzaThxNnljSnM3UVlyNTBoX0l3U2g?oc=5)
 
 ---
 
@@ -49,14 +49,6 @@ permalink: /news/acebutolol/
 2026-08-26 <span class="news-indication-tag">高血壓</span>
 
 來源：[香港01](https://news.google.com/rss/articles/CBMinANBVV95cUxOY0JqNmwzZjYtV0U3M0NJbGRZbHRHRGRfYXpxb0dOQmVZemplNlZYRFY5SXZ3ZHd2Wlp2aEVFNVB0QkdYUG5hcGl4aVpBSFpIZksxY2E2U1Q0SklrMS1Ic291VTcyQ0dTbGx6LW1FTkZhZkoxajlGTURtbTFZT1ROUWQ2WnZwb1U4bDJjWVNuSmREd3RyaFdsV1VfUnhCbFJScHptNFB6SFlhYnNDdkxacXJRS1hwUWx5eW1YLVprNGstdm1jM21xemYyT0x6akROU0hCYWxwUHprZmVZRTNTRmtVYlRrcF84X1VqMmdzNGxxVmo3aWlfUW9BQjdXSGhXY18tRzJkd1c5aXBWRGNEemlUS09iSEJURzA4VktGSUtQYkM2UHRCQmU3YkdDLXpkUFdpMlM5VUxFZFZWQU5nenFKc24zOVA2a3FOUzVqY2NfeXFiWlJaU1lNam1ldFQtYXhEX0hmcXZrLUtHWnM0UWtHWEdUU3plTDNwQVFLT0kwbnRyZEN4cnFVRkV4bjVWX2Rib2dveXp1NTJD?oc=5)
-
----
-
-### [4名腫瘤科醫師答案相同 早上9點前要做這件事 - Overseas Chinese Daily News](https://news.google.com/rss/articles/CBMi0AJBVV95cUxNdXdDdmszczJWODh2dnFod1BVLVBXY1VEaDlxd1lxd1J5M1JiRzIxY3VIb205TDZGS0JWVUFOMmhSOVNkNi1uaklTczFrOVFEOGw3dW9zdmxkR25QblNoZURnY05nRVh0bVc0TFNoUlZoU0loNXFZZ0huY0xpRlYybzhESzFUSGIwbl9Vblk4WDdPRVNCbER3a3JvdEpjVi1CNktSbGlZSmROeVpCakhLaHM5bXFRU3hvRXZZU0o2dEZLUXdfMkx6V19pbENrbWY0ZGxON2h2VTV6Z0xBS3QzY2JrWW4yMzBWWXRDRmJDUTZuYlJrUjB3TVpSQlZTUlBDTzNPWG5nUUhWTW5DQ09MM1YwdzdwYUotODBhX2U5SXRZZWFBLTZjZ0dFWlJka3p1RmNaQnRZSWU5RW1xdGQ0QjZZRHowQlN6ZkVweFh2SFU?oc=5)
-
-2026-08-25 <span class="news-indication-tag">腫瘤</span>
-
-來源：[Overseas Chinese Daily News](https://news.google.com/rss/articles/CBMi0AJBVV95cUxNdXdDdmszczJWODh2dnFod1BVLVBXY1VEaDlxd1lxd1J5M1JiRzIxY3VIb205TDZGS0JWVUFOMmhSOVNkNi1uaklTczFrOVFEOGw3dW9zdmxkR25QblNoZURnY05nRVh0bVc0TFNoUlZoU0loNXFZZ0huY0xpRlYybzhESzFUSGIwbl9Vblk4WDdPRVNCbER3a3JvdEpjVi1CNktSbGlZSmROeVpCakhLaHM5bXFRU3hvRXZZU0o2dEZLUXdfMkx6V19pbENrbWY0ZGxON2h2VTV6Z0xBS3QzY2JrWW4yMzBWWXRDRmJDUTZuYlJrUjB3TVpSQlZTUlBDTzNPWG5nUUhWTW5DQ09MM1YwdzdwYUotODBhX2U5SXRZZWFBLTZjZ0dFWlJka3p1RmNaQnRZSWU5RW1xdGQ0QjZZRHowQlN6ZkVweFh2SFU?oc=5)
 
 ---
 
