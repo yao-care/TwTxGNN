@@ -1,8 +1,44 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-29T21:24:16.649482+00:00",
-  "count": 52,
+  "fetched_at": "2026-08-29T23:43:45.965637+00:00",
+  "count": 54,
   "news": [
+    {
+      "id": "01314e38140a",
+      "title": "醫學生過度依賴AI恐變「腦袋空空」？史丹佛專家警示： 臨床推理能力面臨退化危機 - T客邦",
+      "published": "2026-08-29T23:30:00+00:00",
+      "summary": "醫學生過度依賴AI恐變「腦袋空空」？史丹佛專家警示： 臨床推理能力面臨退化危機&nbsp;&nbsp;T客邦",
+      "sources": [
+        {
+          "name": "T客邦",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYk1JaWQwWngtY3JVSWhSZEpoRnFjczlqdDFRUE5qRmFKR0RuSTZWSE9oYnNyVGVsOWxFZlItcThBdVhheDVxN3VhblJYcWZEcFRBRlRyVHZROVI4blgza01Nd3BndUhMaWZ3N1FRNmtyR0V6TEN2QlNMcG1BRHROb0w4ZmN5R0NMOUp0WnFNNUZkYTZQcGN2bGxDTFFNZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9b3a130d1e61",
+      "title": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法 - TechNews 科技新報",
+      "published": "2026-08-29T16:06:09+00:00",
+      "summary": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGt2dV9MaG1aMGZUTXdZOW5QN2h5clp2aU5OUUFpc2hyVmJIVXhBbWNTXzd2N2hBeU44VExaLWNVZUNnbFJ3Zm00UElkUG9Qb0Q4VHR6VE1Bc1ctRWkzYnJOMW9HVFhSSkhtUEdwZ0thMVR0Z3dnSFN4dFV2RXZvVzNvTnVRaDNDRUFPOGVLR2c1QW5CRTM0V3lsd0ZxSXVUTGlNZzEwS2dVZHBpZEYtZzJxZEdsNmVI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f3b6f23e7843",
+      "title": "日常飲食助攻 吃出免疫、專注力 - Yahoo新聞",
+      "published": "2026-08-29T20:10:00+00:00",
+      "summary": "日常飲食助攻 吃出免疫、專注力&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQLU5aSXNDZ1I5bnJ0aXBIWXpjWDlJbkJPQ1c5R09PN1BGb2dBM2V5MUtZMFdNMFliSENoWHlKcDFpYkxMOG5DdnBsTjloekF6cW1GMTdHbWlpVDZfRkRwbV9CU0ppWU9Ta3BLVDVLUldNeXE1dVBJaXhEVzNqV2JVT21oTnl6TmVYTUx5cUdEeEl5UlpBLWV2LUZOV3EwS1RmR3M1YzVfYnRUeEhOa2RpWnM4NDhaenpSM2U1X0RyQmlsOS15ZmVuNUhuOUVodzZTbTZJMmxvVTlHU05sWThDZ3c4dU9wdFV0N0xtUDV4WVVxZw?oc=5"
+        }
+      ]
+    },
     {
       "id": "97b00b33adee",
       "title": "健康網》適當射精 降死亡風險！網紅醫：射精幫腦抗衰老 - 自由健康網",
@@ -16,38 +52,14 @@
       ]
     },
     {
-      "id": "ba432df5811a",
-      "title": "日常飲食助攻 吃出免疫、專注力 - 中時新聞網",
-      "published": "2026-08-29T19:32:28+00:00",
-      "summary": "日常飲食助攻 吃出免疫、專注力&nbsp;&nbsp;中時新聞網",
+      "id": "9ef7a8ed1211",
+      "title": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略 | 科技新報 - LINE TODAY",
+      "published": "2026-08-29T15:57:21+00:00",
+      "summary": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51M0dwQUFBdk4xQzBJcnJaT0JTX1ZNZFdDb1duY2E4WHNKTHp4NWNON0V1MnFfTXU0NVI5NGV2UkRDeTlVRWxKOUtBRUl5NGl2RUNRRWN6ZEJTSU9PdDkweTh6LU1NLTBoZDhn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f8895a13e48c",
-      "title": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略 - TechNews 科技新報",
-      "published": "2026-08-29T07:05:29+00:00",
-      "summary": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM3lpeHA3c19PMERKbnczTURzU3lMaDBsTEpjWC1CSXU3ckZWWU1XN04yXzcxVk9hbjFtdTdCRmM0MHVUR05uM29QSVZQbEg5b3dhVTNMc2xrWlZYRWJkWHlESjdWdVY1Nkd2cmExZGhnaDB4ejdYc3dmUzZVZllFV01FOGVGeDVkZHp0RFFwb3BxWnZFRjdSZDNLTzdTdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ed2997eb94ff",
-      "title": "人類演化不只靠吃肉！研究：水果與蜂蜜中的糖可能供應逾25％飲食能量 - 食力 foodNEXT",
-      "published": "2026-08-29T06:00:16+00:00",
-      "summary": "人類演化不只靠吃肉！研究：水果與蜂蜜中的糖可能供應逾25％飲食能量&nbsp;&nbsp;食力 foodNEXT",
-      "sources": [
-        {
-          "name": "食力 foodNEXT",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LYjV0LXVnSEpXS0pRTGVIXzlHdXlhVHJNOGJxdENGcE1HRUE4RUhqTjVseGNwUkZES0Jkc3RKNUZLLWs0ckYtdk4zczFQR2pvUGY4Vi1sNWNOcngwcFF0RVZSV1duVkFuelQ0?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGSll6b1BveHpueHBfVVVER1pFUzR6czJiSWRTMDIyQlN1aWZicDd2N3E5b182dFNhZkNzNGFrN2ttNzRjamJvWnd5OTFQMmYtMWVhWjVR?oc=5"
         }
       ]
     },
@@ -60,6 +72,18 @@
         {
           "name": "Vogue Taiwan",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUkxQy12LU5hU2lYUFZuclMyNlVwU3FBVUVQczJQcTVvR0h6WWV0cEhNTzZISlZsekpNMU1sazBCTFF0RmxFeXRrUzVLNlFxcUd2TldzOVVKSWFzbnlod0JsQ1FOUFVVY19zcXp3TFdyNU45QWZWSVF6RmdHVmM0VjllcjE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ed2997eb94ff",
+      "title": "人類演化不只靠吃肉！研究：水果與蜂蜜中的糖可能供應逾25％飲食能量 - 食力 foodNEXT",
+      "published": "2026-08-29T06:00:16+00:00",
+      "summary": "人類演化不只靠吃肉！研究：水果與蜂蜜中的糖可能供應逾25％飲食能量&nbsp;&nbsp;食力 foodNEXT",
+      "sources": [
+        {
+          "name": "食力 foodNEXT",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LYjV0LXVnSEpXS0pRTGVIXzlHdXlhVHJNOGJxdENGcE1HRUE4RUhqTjVseGNwUkZES0Jkc3RKNUZLLWs0ckYtdk4zczFQR2pvUGY4Vi1sNWNOcngwcFF0RVZSV1duVkFuelQ0?oc=5"
         }
       ]
     },
@@ -88,18 +112,6 @@
       ]
     },
     {
-      "id": "66d06d7197da",
-      "title": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效 | 科技新報 - LINE TODAY",
-      "published": "2026-08-29T00:24:40+00:00",
-      "summary": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzMVppSndVVlVhQ3hqcHotRmItaUh4U1VhdnZxR1lMZzNSNjdXMDY0SDhHVlk2RVJLSnZWeFdZTDlsY0Z5NW1seDlNQnlGN3pmdDB0U053?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fb799d70af4d",
       "title": "40歲女性如何維持骨骼強健？骨科專家推薦的必做運動指南及日常習慣 - Vogue Taiwan",
       "published": "2026-08-26T09:36:08+00:00",
@@ -108,6 +120,18 @@
         {
           "name": "Vogue Taiwan",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSHVtY3Mxd2xOV1pHZzdOOW03elcwR05neUNYMVprdHRpLXJaNUx6czlJR05fYlRkQVRlQ0pKZmRVVkpDY1prN0oxSWc2T1psTHZhaEx0ME5rUkM3VngxekE0NFFoVzRjbVB6aGE0dUxXbmZsSUlEODBPRmR0Z1dwWVZlSXpQTm9XRFpROEdB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "66d06d7197da",
+      "title": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效 | 科技新報 - LINE TODAY",
+      "published": "2026-08-29T00:24:40+00:00",
+      "summary": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzMVppSndVVlVhQ3hqcHotRmItaUh4U1VhdnZxR1lMZzNSNjdXMDY0SDhHVlk2RVJLSnZWeFdZTDlsY0Z5NW1seDlNQnlGN3pmdDB0U053?oc=5"
         }
       ]
     },
@@ -136,18 +160,6 @@
       ]
     },
     {
-      "id": "063d4b5f7408",
-      "title": "熟齡族保健怎麼補？ 先從飲食找答案- 生活 - 中時新聞網",
-      "published": "2026-08-28T09:35:16+00:00",
-      "summary": "熟齡族保健怎麼補？ 先從飲食找答案- 生活&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EelRDdFM3c3NpNV8tQ3NKbVdrRDEwMzBvbzkyZ0ZlNnpMcDR0WVhZUkV5cUxuZEFCUEZXYi05X3hIRWN0NW9xNWx3emlyX19BZW9kQVdQak9URDl2NXQzZmF4c0ViczZramtoOEJ3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a8608abfacf9",
       "title": "改善腸胃健康的8款「最佳早餐」推薦！告別消化不良，從每日第一餐養出好膚質與免疫力 - Vogue Taiwan",
       "published": "2026-08-25T09:13:48+00:00",
@@ -156,6 +168,18 @@
         {
           "name": "Vogue Taiwan",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zOUpCT2RYSE5GOHZhOUZ3QjlLX0JXbm45Y0tteFU1d0pXV2dQOUNSbk43VkdYWHRKSGJxd3RlalR0Qmg5ckE2RkFEal9oZU9ZamJUT3p1UjF6ZVo5RXhWbi1NY2F5QktRYlN5MlNPaXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "063d4b5f7408",
+      "title": "熟齡族保健怎麼補？ 先從飲食找答案- 生活 - 中時新聞網",
+      "published": "2026-08-28T09:35:16+00:00",
+      "summary": "熟齡族保健怎麼補？ 先從飲食找答案- 生活&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EelRDdFM3c3NpNV8tQ3NKbVdrRDEwMzBvbzkyZ0ZlNnpMcDR0WVhZUkV5cUxuZEFCUEZXYi05X3hIRWN0NW9xNWx3emlyX19BZW9kQVdQak9URDl2NXQzZmF4c0ViczZramtoOEJ3?oc=5"
         }
       ]
     },
@@ -244,18 +268,6 @@
       ]
     },
     {
-      "id": "c8448633a460",
-      "title": "比維生素D重要！1數字更關鍵:死亡率飆2倍 - 鏡週刊Mirror Media",
-      "published": "2026-08-27T00:13:00+00:00",
-      "summary": "比維生素D重要！1數字更關鍵:死亡率飆2倍&nbsp;&nbsp;鏡週刊Mirror Media",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BWnQwN1FFQnRZUm1hOU44dVh1NHcya3h2eS02OG0xQzJFMkE5RG9ub1c0c3BQSjdXanZuQzVMd3JRanAyVzVSQVVKdDJKUHNSVzNIYnJkM1JaQ2pw0gFiQVVfeXFMTnF0UHpscUtvT1ZsUGNPYUFBekdwY1pSYlpLa1h4ZG04X29iRHNqV2tsMWxlM3o0SnRPc251VU9WellyQUF1Ti1HbUF5ei1uZERTaW9aRmZWbU94UVFxVEdoN2c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7daa21549dab",
       "title": "大腦與免疫系統隔絕——但顱骨骨髓另有打算– 馬丁西德雜誌 - Martin Cid Magazine",
       "published": "2026-08-23T09:34:02+00:00",
@@ -268,14 +280,14 @@
       ]
     },
     {
-      "id": "1eb304a6d909",
-      "title": "糖尿病恐傷血管 薑黃素不只抗發炎「還有望提供保護」 - 科技島",
-      "published": "2026-08-27T03:57:24+00:00",
-      "summary": "糖尿病恐傷血管 薑黃素不只抗發炎「還有望提供保護」&nbsp;&nbsp;科技島",
+      "id": "c8448633a460",
+      "title": "比維生素D重要！1數字更關鍵:死亡率飆2倍 - 鏡週刊Mirror Media",
+      "published": "2026-08-27T00:13:00+00:00",
+      "summary": "比維生素D重要！1數字更關鍵:死亡率飆2倍&nbsp;&nbsp;鏡週刊Mirror Media",
       "sources": [
         {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZOFRZcjVmWVFuc1VWYlNfWkU3THFCeWFMSEhodHJLMURaRlNDbGJta0tpdTNpY1lWckE2cldaS284QlRTVmdOOEFBeVJHV1haXzQtaUV6THJPY2FOdmxN?oc=5"
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BWnQwN1FFQnRZUm1hOU44dVh1NHcya3h2eS02OG0xQzJFMkE5RG9ub1c0c3BQSjdXanZuQzVMd3JRanAyVzVSQVVKdDJKUHNSVzNIYnJkM1JaQ2pw0gFiQVVfeXFMTnF0UHpscUtvT1ZsUGNPYUFBekdwY1pSYlpLa1h4ZG04X29iRHNqV2tsMWxlM3o0SnRPc251VU9WellyQUF1Ti1HbUF5ei1uZERTaW9aRmZWbU94UVFxVEdoN2c?oc=5"
         }
       ]
     },
@@ -288,6 +300,18 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKWjVfRnZ3dkRqQ0ZyNldJNTNfdjlwWC1WMUpwRTdXb0Y3eTQ1d3NtSkdMU05Ncm00Q0NIOXQybkNXd29wbE5tMzkxUGp0SkZtOFBaV3oySjZLN1Z3QVYyQmItSDRFVlRwc0pwY09B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1eb304a6d909",
+      "title": "糖尿病恐傷血管 薑黃素不只抗發炎「還有望提供保護」 - 科技島",
+      "published": "2026-08-27T03:57:24+00:00",
+      "summary": "糖尿病恐傷血管 薑黃素不只抗發炎「還有望提供保護」&nbsp;&nbsp;科技島",
+      "sources": [
+        {
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZOFRZcjVmWVFuc1VWYlNfWkU3THFCeWFMSEhodHJLMURaRlNDbGJta0tpdTNpY1lWckE2cldaS284QlRTVmdOOEFBeVJHV1haXzQtaUV6THJPY2FOdmxN?oc=5"
         }
       ]
     },
@@ -424,14 +448,14 @@
       ]
     },
     {
-      "id": "9b3a130d1e61",
-      "title": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法 - TechNews 科技新報",
-      "published": "2026-08-29T16:06:09+00:00",
-      "summary": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法&nbsp;&nbsp;TechNews 科技新報",
+      "id": "8b28cb44a0a5",
+      "title": "被蚊咬別再用手指釘十字！哈佛博士教1招極速止痕！網民：簡直改變人生 - UHK 港生活",
+      "published": "2026-08-29T22:37:41+00:00",
+      "summary": "被蚊咬別再用手指釘十字！哈佛博士教1招極速止痕！網民：簡直改變人生&nbsp;&nbsp;UHK 港生活",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGt2dV9MaG1aMGZUTXdZOW5QN2h5clp2aU5OUUFpc2hyVmJIVXhBbWNTXzd2N2hBeU44VExaLWNVZUNnbFJ3Zm00UElkUG9Qb0Q4VHR6VE1Bc1ctRWkzYnJOMW9HVFhSSkhtUEdwZ0thMVR0Z3dnSFN4dFV2RXZvVzNvTnVRaDNDRUFPOGVLR2c1QW5CRTM0V3lsd0ZxSXVUTGlNZzEwS2dVZHBpZEYtZzJxZEdsNmVI?oc=5"
+          "name": "UHK 港生活",
+          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQYnBfQVI5Y1RoQVVaYjl4aGY4cC1XLTYyY1lRdWdaWTR2aGhBZU83WWNsa3l0UFZLdTRFOGM0SDlJOWZwejVoOVRwZG1qQkNYWndXWUVvalNSU09TUTNvakwyTFJFSTNhWERXQ25wdF92Y21uNVpFc3k1ZHBqMW54S0lJY0ZTMk1qa29XaHB1NDVRRDdIMk9FS0wyWS1xS3l4UDFyMVJZOFdvWlpTaTdIc205SmlTS1RaT19vQTFKM200N1RTUE1DS0FrVnlGbzhVTlBCRDZaeGh4NHoydUhuNVJ1T2t6WkRuWVBwbmRPRmVXa09paGV2M2VhU2RYS3NSeTJ5VGg1Wl8wbFQzTV9SU1dEYWlsTVZ4d0tvdzRITzFGY0JzWTVBem5fdVpPNVVRREZfYXpPTWkxNXd2NFRzNkZjR2tXOFo1WW15T01kTDhTRzZvT183ZmUza19CZUZyM2trLXA5UEhjN29LLURRaEt3VUg1ckkzbHF2MjcwRkE4cHBy?oc=5"
         }
       ]
     },
@@ -472,18 +496,6 @@
       ]
     },
     {
-      "id": "b0ac1e3943ac",
-      "title": "60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物第一名高纖護血管| 事事如意生活網站 - CCUE",
-      "published": "2026-08-22T22:00:06+00:00",
-      "summary": "60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物第一名高纖護血管| 事事如意生活網站&nbsp;&nbsp;CCUE",
-      "sources": [
-        {
-          "name": "CCUE",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNT0I4OTdHZVkxQ2tuR0ZjT2kybmhpRWFzYnhIX3YzeU50MDVkSkhqNzhZZm1ZQVNTWDV3RG1aaUtpejE5ejZLOXI5SDlsWlpDZ2tTTGtTLWNSanRsUU9UU3k2cXloUkFvc2JlM3NpcnlUS1J2a1NwcVdsU0dnZGVrQS1fSDExYmpyOG9la1AxSnF1QzBvUDYtUERfLUFKU05uVDJ1LWxOS3JGT3QwUHFPellyb21DV2Rud1ZZd3dVemFjRXhJTkllNmtUNEloYVFkeFg5THRnczVRTzNlMkkwa1FaLTMwTHJDblRXVHBzNmNWSlAtcW5hdzdJU0pXaC1tcF9lVE52cHhFM0paN2dSQ1hWTXllYnAzenRLdko0bHFHbVFUWGdTdjBnc2p4RU83NjJZemlPbzIyOG9pbGlzNW1mb3J4WGdwVHliNlZHMURnQ2JGa3c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a068f9e54014",
       "title": "桑拿7大驚人好處 每週4次 研究：中風率降61% - 大纪元",
       "published": "2026-08-25T19:00:00+00:00",
@@ -508,13 +520,13 @@
       ]
     },
     {
-      "id": "f97d0999dd9f",
-      "title": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號 - 巴士的報",
+      "id": "01a57422d2ed",
+      "title": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號 - bastillepost.com",
       "published": "2026-08-24T22:40:03+00:00",
-      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;巴士的報",
+      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPbjV5cTdqZjN5d0VGTXlOdEstVmtWZGlydzIxMXJ3TGh6cWwtdEw3eGVXdWh6ZnJkNlRVaG1mQmY5ME56by05S0FNclEwNU1OMDVOWUNMbWUyVzc5MFBRMHlKX3JEeE04NEVwd2RmdUc3NGJoa0I2NEo1SVhDRE9qdHdZSnpOOHdQWkh6QWFseU5GZERLdldUSG1ZMW1PTWRIY0xCLUpvSURSNkJQLXdhSjZPZC1NY05QamMzMGozNWFTLUNKS2pKMl92RkVaMnA0RWRUTWFHRmRZQTAzN1B0d2VOWFBaUjJMcmNvWmI0ZldZT043dUlLYkRsV3RiR2tWSng3TFRvMnppYzN1RnR4S3J1czh5X1pQblJPRUs0NzRCQURtSS1WS095TE5QTWVuelZZRjF4UzdSSS10V2V0c00tMlY4VV9KQjlKQlE2N1l2S2ptZjM1Q1FYSEFybENHaVRZUDVGRXkxbVlGeDJJ?oc=5"
         }
       ]
@@ -588,6 +600,18 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQczBpZTlhUVpDY0NnenZ0RHY0Q0QydE9PUzRCRGlBRThtWFcycnlKUnRXeHo3TzZJbjhtTmhhbmdpaVI4VDU4MkxzdlRSUk8xVzRxUUk0cWhnbGZLb29iOTRNMXUweWZKdjBUZVlwUEN3UWJObjFuYndnd1liOTBMSThvZ0Vzb1RYV0FtSG1KV2FzNERCZ3BRZ0FWUTV5dUZKUGs0TFJvd043WGdCb3VYZ2pTX3ZSbTc0V2hRMzZsVlk4SzU1RFZPWTRvQjd1ZGMtT21MSDJYRkh4OEhIZ1cwR00yZ1JQOExla3hWVVN4SkU1TnFPYUdtb3B2VVJwX0xwekxITlF5Q01jbHN2Q1VwdElDa1N0VC1nZEY4enJZU3NBODZyazJyMUxBTkh3V3JyaFVtM3FrbXJLWENXcjZlZmg3T3BLVXJaQUxXeW1HZGs3RF9IM0R3XzNuN0pQZkdSV1ZEWXIzay1peDdHN2ZNRTFseDhrTnJENFZDTFowOU5hcGJ1amVxMFkyNEQ5WldvaXVkLW9VQjAyQXlqZzlvcFpsdm9LUlBJLVFGMG1rWTdfbFZWbnlVUnBoMWpWVnpwR05EUFRYeXVKSnRyd0VZUXh5SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3d065ea5a839",
+      "title": "60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物 第一名高纖護血管 - singtao.ca",
+      "published": "2026-08-23T01:01:47+00:00",
+      "summary": "60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物 第一名高纖護血管&nbsp;&nbsp;singtao.ca",
+      "sources": [
+        {
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxPMksxWGlYVGM0ZS14T3RHMF9OYW42amJKMjR6YmowbGtZaHZZdkFfQlRzendQTkhzUWYyQ2RCOUlOMTM2V0NxdTNpOE9IbG1YQ0l3M3RpeGtRazVoYnM3WnhoU1R5YnZEVkxmUUpxdGFmZVN2VVFIbzlWdnFCd0ZLS2hrOV9FV2kzZHVyaktaN0xTVURTRnY2Nk9ZSG5kMlVhUDJ4cl9PaGVMQ1l0TXRoZFBWS3VCZnJPU0VqcjN0cnNrRFg4NTI4ZlctU1FlWTNoY0s3UTFnbW5YU2JSbndOWHdXX1JlQVQ5T2RtT3BVLWtXZFYxUl9rUlJuMm9rQ0hNLXliMUtJeE5jTHROaHJNbVdzcU90TTI4aUp2bWtXbnJOT0lBZ3NuX0tXQVl1QkczaF9PYVRleUp2QjhxZ1c0QW5SVGVQVkozUTRzVVJkWVM4TVp5TnBtRmo5aENZVHRmM3VBSDdBWkdrYlBNR0VMdm9ZTjg3YjB4bi1zSVRHSmREaTFYQWp0MTEzOUpId2YtUHBJWlpNcXl6RDdVaUY0cDk3azNxVzBMdEoyZHdPYVR5Mkp3ZUdLMmh6YjJuT2pob1ltNU80ako3QdIBjwFBVV95cUxPVDBoWGRrWWgyZzRZemNRYW9pdTM5Z1c1WFFxN2Y0SE94TEhWWWRDa1I0TXg0V2dPQURoQVJKa2NvX2luRXpseGRENlJzWVVxaGh5QWJBeW5heVVUVlkxRnluUFhRcnNLUUxSWmpBSmhCVktJMk5zRHJfSTU4QmVvNVp6U3dEekRUb1ExaFEyVQ?oc=5"
         }
       ]
     },
