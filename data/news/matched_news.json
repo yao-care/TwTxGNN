@@ -1,8 +1,46 @@
 {
-  "last_updated": "2026-08-28T20:30:24.572333+00:00",
-  "total_count": 54,
-  "matched_count": 14,
+  "last_updated": "2026-08-29T02:57:06.974771+00:00",
+  "total_count": 55,
+  "matched_count": 12,
   "news": [
+    {
+      "id": "f1a46843a122",
+      "title": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道",
+      "published": "2026-08-28T21:16:30+00:00",
+      "summary": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道&nbsp;&nbsp;ELLE",
+      "sources": [
+        {
+          "name": "ELLE",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0xZYTg2WThhNWpPd1g2Ni1WU1VoOE1Qbi1xaG9EY0lGcklsLXlDYy16OVphX1VmRVFpalljSHROSWl2M1pXRk5vcUo5em13am1jVGN3dl9ad3VCc0NEREgtMnNHdnBKODNxZUFrVnp2cml0Z3ZFUnR3R3RfX2dnT3dKdlY5ajNOZDlR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "433efa8460fe",
+      "title": "不同種類蚊愛叮不同的人 新研究揭「氣味密碼」",
+      "published": "2026-08-28T20:55:56+00:00",
+      "summary": "不同種類蚊愛叮不同的人 新研究揭「氣味密碼」&nbsp;&nbsp;新唐人電視台",
+      "sources": [
+        {
+          "name": "新唐人電視台",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yQWF4cmRpTVkwWGZ5blFWVzhFMFlZMXZ5MkVJV3JQaks2bm9jdUdydWY3UE1xNUk3Q2tnY1dUVEdXQjZaZUwyRW1TWUcwbjZjUXYwU09NbFM1MzA5c0ltVdIBZkFVX3lxTE1JeUJnMmJBWks5OHZVSjJiU1lGb1NvNGtVRWtYVjZ0cUc4cDZFQTNCSlNadUpiRzk3UzJ5WUEwNHFQcHc2TzZ2UlBEOHJfVGFneDNQOWFRTWw0blJHR2gycmNoRUJKQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "90a67c6c3959",
       "title": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效 - TechNews 科技新報",
@@ -38,6 +76,19 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EelRDdFM3c3NpNV8tQ3NKbVdrRDEwMzBvbzkyZ0ZlNnpMcDR0WVhZUkV5cUxuZEFCUEZXYi05X3hIRWN0NW9xNWx3emlyX19BZW9kQVdQak9URDl2NXQzZmF4c0ViczZramtoOEJ3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f35210eb7fae",
+      "title": "22歲女睡覺「雙腿不自主抽動」 醫揭偏食惹禍：4項營養指標異常 - PChome Online 新聞",
+      "published": "2026-08-28T06:34:07+00:00",
+      "summary": "22歲女睡覺「雙腿不自主抽動」 醫揭偏食惹禍：4項營養指標異常&nbsp;&nbsp;PChome Online 新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYndyMF80cEVuZnkxbklic29sUVVLSXdnUlZac2JycUFMVEY5dlFSLWQ4aGk5YVlDcnFaUmVKYzdvYzJ1V1FNb0tMcVhWeXRqaUdPcTBqYmV5dVFabFZjMEdDbE1RVEFWWHpJR1dZd1daTjFfZ2R0bXZteFRmRmxxRGhiakdNNEU?oc=5"
         }
       ],
       "matched_keywords": []
@@ -304,31 +355,6 @@
       "matched_keywords": []
     },
     {
-      "id": "f1a46843a122",
-      "title": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道",
-      "published": "2026-08-27T07:00:00+00:00",
-      "summary": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道&nbsp;&nbsp;ELLE",
-      "sources": [
-        {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0xZYTg2WThhNWpPd1g2Ni1WU1VoOE1Qbi1xaG9EY0lGcklsLXlDYy16OVphX1VmRVFpalljSHROSWl2M1pXRk5vcUo5em13am1jVGN3dl9ad3VCc0NEREgtMnNHdnBKODNxZUFrVnp2cml0Z3ZFUnR3R3RfX2dnT3dKdlY5ajNOZDlR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "e868a56ed689",
       "title": "維生素D不只顧骨骼 美研究揭認知評分高出13％以上",
       "published": "2026-08-27T06:04:00+00:00",
@@ -421,6 +447,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "c65c758b44fa",
+      "title": "他汀藥到底有幾「毒」？常傳多副作用 研究揭真相",
+      "published": "2026-08-26T18:53:56+00:00",
+      "summary": "他汀藥到底有幾「毒」？常傳多副作用 研究揭真相&nbsp;&nbsp;信報網站",
+      "sources": [
+        {
+          "name": "信報網站",
+          "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQdTJnbEs5UnNNR3hndFFfZ3RuZlNod0VFams3ZGZxZlNQdWY3OTk3bURuenFYVTRsUVRRdF9veUhDeXNFSlJPcUJQRHRjdjY3alJWUEdXN3NRSndTdHJtbjFlMEU0LVF0eXBfQ0hzVEJaN1h2TmFwNDFLQ2RvSmVVM3BWRXpLOC1zTzVJZmdYeFVLRHo0dUQwYTd3UF9fd2VZUUVFRTlVaXZqYWprRXBkeFRWSEwwejBnMGVRNDFoZzh4cHVndDV5eU13d2thLW9FekQ5bk1ONmhuMHZIc2RzR1lZQkFLZThtS2x1eHktOXFuVTAxOS1YV0d0eko3dDI2enI0bGJXaUprMmVaaHE1aTdsZHh2NHc0S09NWkx4T21DdzQyV25WYXVlV3pONnF1S29lc1lxb29EWEdmemhxdjBmSDhDRjA2eXRsMjJ5UG1NSHV3dTdBbmZjN1FzTW0wcWxnM0pYQ0VWRjU1U0NiWUE2YUtLcUlMQmk0dFNYRWx0UmtiamdXWmZGR1Nrd0x4Skc3dF9taU5PZm5UR2JGcVFRRjYybGtoSEo2V3lRZWxBRVZLSVNaSkxxM3NJNWVPVUZoSUd3S09tZVk0QW9qX3FpTlFHRm1qUmxwc21tM2tWM1k2cm1j?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "0cb20c7107b8",
@@ -827,210 +866,14 @@
       "id": "40d6f2d12fba",
       "title": "長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命 | TVBS - LINE TODAY",
       "published": "2026-08-24T18:36:28+00:00",
-      "summary": "長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命 | TVBS&nbsp;&nbsp;LINE TODAY吃太油恐改變腸道菌！「膽汁酸」恐影響體內免疫環境抗癌&nbsp;&nbsp;Yahoo新聞抗癌飲食講求平衡 盲目「去油」恐脂不抵債 - 20260824 - 圖片看世界&nbsp;&nbsp;明報新聞網香港癌症基金會專欄：治療前及期間的營養需要&nbsp;&nbsp;Ming Pao Weekly抗癌飲食講求平衡 盲目「去油」恐脂不抵債 - 20260824 - 副刊&nbsp;&nbsp;明報新聞網",
+      "summary": "長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命 | TVBS&nbsp;&nbsp;LINE TODAY吃太油恐改變腸道菌！「膽汁酸」恐影響體內免疫環境抗癌&nbsp;&nbsp;Yahoo新聞抗癌飲食講求平衡 盲目「去油」恐脂不抵債 - 20260824 - 圖片看世界&nbsp;&nbsp;明報新聞網抗癌飲食講求平衡 盲目「去油」恐脂不抵債 - 20260824 - 副刊&nbsp;&nbsp;明報新聞網",
       "sources": [
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QYzFpRUd4SUVTaEU2TVZ0THFVS3BRQllxeWZZb2lBRnpTUkFCNnFvN1hLQWR5MzNQQUpKeHliLVg1a2pUWm8xTEIyZE5sM28wWGs0cVdn?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "aa55b855ff8e",
@@ -1519,44 +1362,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "9a9501fa3325",
-      "title": "羅志祥66歲母親罹「阿茲海默症」…醫：1飲食法「逆轉腦齡7.5歲」，這些傷腦食物要少吃",
-      "published": "2026-08-22T01:13:28+00:00",
-      "summary": "羅志祥66歲母親罹「阿茲海默症」…醫：1飲食法「逆轉腦齡7.5歲」，這些傷腦食物要少吃&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOYUh6d0pCeDlVRXZFbWhtX1VXeEhEN3RqZXNaUlRyclM2a3p4S1l0U2l1M1J2WU42WmtmVkpTQ0xITGdSbE1xYlR0ak9NOFZ0dGNveHdLZ19PMFBITlE3QWRiY3l1SGlYd1pCZW5VRlpVSTc0MHNJSVM5Z2pkOXc1X2QxTDNxVFhkZTJaemE4aUtua3dMbGlSeVh1NmZiaEFBZE5VWUg5U21uano3Ym94VFZ2NTg1X2l4YVItZEZsYnRuUmpsb0ROZTEySDQtX3lOSGNpVWVLek9HWHQxWXRvbGRzVElUU0RDQnNNcmNHa2tfc3hQcGU2VnZSZzlKOXdyWUdOOTUtSWZtTXc5UUFtZzRyTE8xeFU2T0FncjhjOUV0dEZweldxS01wVVFLZUxCczlIaFE4Sm14aXZNVGRrODBKaXBra0lMTFRsbTRn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a7ede99fd245",
-      "title": "降血脂藥副作用高達60多種！《刺胳針》權威研究：僅4項和藥物有關",
-      "published": "2026-08-22T00:02:49+00:00",
-      "summary": "降血脂藥副作用高達60多種！《刺胳針》權威研究：僅4項和藥物有關&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxObG1wc2FjTkp3ZENlWkxrek5JZkNnaWVmQjhjMF9hVVR1TDdwMXdLRmtpVjNlYWhBbFp4d21XZnhqTFp0YjJqdk9uaFNuUEsyc3ZNc2R3alllZi1lU0VNX0FBNXJyemVXOThGNTJWRDh3cG9mZDVEYzhDV09pQ3lsQzhkU25INHhyWGhDYWxPXzJOUm5FejgyM1dLX1gtQ0FpVkVpTzVzOXhuakFZQTZxRnpMa0NhZDd2RzE3cHVHRzhybjBXOXV0QTJtV3lHRjU1dmo2Z3RqWmdINV9xd1ppd3h4MW5BM1hvdjdMYzhUbE5CNmw4QTZaeHRmM3lYVTNESFItSmpaQ2lkMFpQaGFpcmRwb3hBcjN4YVJUYUNqcEVnbkNaZDJSbDJDWXlrNFl1WjlWTlg2RklWZTM2VzVlNDRXZ2dHLTF1MUJILUV4RHRfR0NZb092UVNPUkFwY19iOFlnMHJiakl2LVh3TXkySUpuUWFCZTk3eTdBOTI1VWRYWWJIcU84?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
