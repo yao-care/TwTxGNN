@@ -1,37 +1,51 @@
 {
-  "last_updated": "2026-08-29T02:57:06.974771+00:00",
-  "total_count": 55,
-  "matched_count": 12,
+  "last_updated": "2026-08-29T09:41:12.112152+00:00",
+  "total_count": 54,
+  "matched_count": 11,
   "news": [
     {
-      "id": "f1a46843a122",
-      "title": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道",
-      "published": "2026-08-28T21:16:30+00:00",
-      "summary": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道&nbsp;&nbsp;ELLE",
+      "id": "f8895a13e48c",
+      "title": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略 - TechNews 科技新報",
+      "published": "2026-08-29T07:05:29+00:00",
+      "summary": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0xZYTg2WThhNWpPd1g2Ni1WU1VoOE1Qbi1xaG9EY0lGcklsLXlDYy16OVphX1VmRVFpalljSHROSWl2M1pXRk5vcUo5em13am1jVGN3dl9ad3VCc0NEREgtMnNHdnBKODNxZUFrVnp2cml0Z3ZFUnR3R3RfX2dnT3dKdlY5ajNOZDlR?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM3lpeHA3c19PMERKbnczTURzU3lMaDBsTEpjWC1CSXU3ckZWWU1XN04yXzcxVk9hbjFtdTdCRmM0MHVUR05uM29QSVZQbEg5b3dhVTNMc2xrWlZYRWJkWHlESjdWdVY1Nkd2cmExZGhnaDB4ejdYc3dmUzZVZllFV01FOGVGeDVkZHp0RFFwb3BxWnZFRjdSZDNLTzdTdw?oc=5"
         }
       ],
-      "matched_keywords": [
+      "matched_keywords": []
+    },
+    {
+      "id": "ed2997eb94ff",
+      "title": "人類演化不只靠吃肉！研究：水果與蜂蜜中的糖可能供應逾25％飲食能量 - 食力 foodNEXT",
+      "published": "2026-08-29T06:00:16+00:00",
+      "summary": "人類演化不只靠吃肉！研究：水果與蜂蜜中的糖可能供應逾25％飲食能量&nbsp;&nbsp;食力 foodNEXT",
+      "sources": [
         {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
+          "name": "食力 foodNEXT",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LYjV0LXVnSEpXS0pRTGVIXzlHdXlhVHJNOGJxdENGcE1HRUE4RUhqTjVseGNwUkZES0Jkc3RKNUZLLWs0ckYtdk4zczFQR2pvUGY4Vi1sNWNOcngwcFF0RVZSV1duVkFuelQ0?oc=5"
         }
-      ]
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "51cc6ea99e8b",
+      "title": "基因一剪永逸！研究曝堵塞血管壞膽固醇降低50％ 沒副作用- 國際",
+      "published": "2026-08-29T03:28:40+00:00",
+      "summary": "基因一剪永逸！研究曝堵塞血管壞膽固醇降低50％ 沒副作用- 國際&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xdExMUGhNR2d5TFV0djFYYXZWMTdGUnZkX2ljYkVhOEZwRC1qdWNCbXFrMFVqWWhqd0hUN2xDbHhBWUdTQWIyUUFBM2RiWWlOMUVCaDg0c3MxRV9pVlk4cXRqa1dTcUlCODNSOTlR?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "433efa8460fe",
       "title": "不同種類蚊愛叮不同的人 新研究揭「氣味密碼」",
-      "published": "2026-08-28T20:55:56+00:00",
+      "published": "2026-08-29T02:29:44+00:00",
       "summary": "不同種類蚊愛叮不同的人 新研究揭「氣味密碼」&nbsp;&nbsp;新唐人電視台",
       "sources": [
         {
@@ -42,14 +56,14 @@
       "matched_keywords": []
     },
     {
-      "id": "90a67c6c3959",
-      "title": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效 - TechNews 科技新報",
-      "published": "2026-08-28T16:04:13+00:00",
-      "summary": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效&nbsp;&nbsp;TechNews 科技新報",
+      "id": "66d06d7197da",
+      "title": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效 | 科技新報 - LINE TODAY",
+      "published": "2026-08-29T00:24:40+00:00",
+      "summary": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUmZMVHBDZjd5d1dDMHRhcTlPVjRxTWRORHNHRE9jLXh3THZJdzJVQkpJRHZWODVKSlVSNEY3alIzaUJCbXpPR3BoN2gySE93SWs0Y0pEMlpKNlc4c3pCblNIdGpVZUd5cl9XZUFFS3pnM2F4X1F2MFNlQzVFOFR5b3NsU3lQZ1Zkbkh5dEx1RWVPSjZaa1BPMDJkZTlGQ1BKeXFrRHdTYnppUlpERUE?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzMVppSndVVlVhQ3hqcHotRmItaUh4U1VhdnZxR1lMZzNSNjdXMDY0SDhHVlk2RVJLSnZWeFdZTDlsY0Z5NW1seDlNQnlGN3pmdDB0U053?oc=5"
         }
       ],
       "matched_keywords": []
@@ -81,6 +95,19 @@
       "matched_keywords": []
     },
     {
+      "id": "e7a0245bc28b",
+      "title": "赴泰注意！曼谷登革熱確診突破1700宗官方籲出現症狀速就醫勿自行用藥- 國際",
+      "published": "2026-08-28T07:05:01+00:00",
+      "summary": "赴泰注意！曼谷登革熱確診突破1700宗官方籲出現症狀速就醫勿自行用藥- 國際&nbsp;&nbsp;點新聞",
+      "sources": [
+        {
+          "name": "點新聞",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrajZvLVhGTEpxOEFBZmpYMU1meDNRRkplN2NOeHYxTmtPa25nVGdIbGpWOEE5Uk1qQUtGUUQ2X1FMUUdmQW56WHcwVHg2U081anpnZFNta19rakJ5NTFNZGk5UmliVktibXV4MWRSUWhiVnJfNFVtZFFB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "f35210eb7fae",
       "title": "22歲女睡覺「雙腿不自主抽動」 醫揭偏食惹禍：4項營養指標異常 - PChome Online 新聞",
       "published": "2026-08-28T06:34:07+00:00",
@@ -102,19 +129,6 @@
         {
           "name": "Vogue Taiwan",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUkxQy12LU5hU2lYUFZuclMyNlVwU3FBVUVQczJQcTVvR0h6WWV0cEhNTzZISlZsekpNMU1sazBCTFF0RmxFeXRrUzVLNlFxcUd2TldzOVVKSWFzbnlod0JsQ1FOUFVVY19zcXp3TFdyNU45QWZWSVF6RmdHVmM0VjllcjE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "70154995c5c2",
-      "title": "美衛生部長：賓州官員或虛構麻疹死亡病例",
-      "published": "2026-08-27T13:42:00+00:00",
-      "summary": "美衛生部長：賓州官員或虛構麻疹死亡病例&nbsp;&nbsp;大纪元賓州爆發致命麻疹 35年來首見死亡病例&nbsp;&nbsp;cna.com.tw美國麻疹疫情創35年新高 爆2死數千例確診引公衛危機 | 民視新聞網&nbsp;&nbsp;LINE TODAY【即時新聞】美國麻疹病例創1991年來新高！默沙東(MRK)與葛蘭素史克(GSK)疫苗受矚目&nbsp;&nbsp;CMoney投資網誌今年首見麻疹死亡病例 賓州兩患者均未打疫苗&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oMmZ3QWxrMDdUWXBqaVFkOWJWV2ZCVkEtTTlibXJtZTcyQ190YXBjM2xKb3I2VVBBQ3hxaDdPU1c2UjdadHA1ZFZHZnRIeHhVaGpUU2VxR3VzQl9HUlQ0NNIBZkFVX3lxTE9LSlhTOXZienN3VkZFVmljQ1ktbE5SaU5jUTkxTVlGY2dkYWstd1NZSkNNWllacVZ3QTNuSGlGN0NxLVJMaHcwSEJ5TUZORVFyV0ptYXk4ejE4N0ZMcmZSZG9oWDZ1UQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -342,17 +356,29 @@
       ]
     },
     {
-      "id": "2dfdcdd3554e",
-      "title": "泰國旅遊注意！登革熱升溫 曼谷淪重災區，當局：有症狀勿自行買藥 - Vision Thai 看見泰國",
-      "published": "2026-08-27T09:25:24+00:00",
-      "summary": "泰國旅遊注意！登革熱升溫 曼谷淪重災區，當局：有症狀勿自行買藥&nbsp;&nbsp;Vision Thai 看見泰國",
+      "id": "f1a46843a122",
+      "title": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道",
+      "published": "2026-08-27T07:00:00+00:00",
+      "summary": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道&nbsp;&nbsp;ELLE",
       "sources": [
         {
-          "name": "Vision Thai 看見泰國",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yM2N3NmVlZHhTQ0NzRlc3a0ZuU2N3MVphYXJYYWN0Vm0tUWV6emMwaVNVYVVuYnFla21zc0pLX3VzTEZfWENNbFpJZlRVRzR0bEl5aTIzX3J3Z1BNTHA1V1RUZ2FxNkFVd2w2encwVmhndw?oc=5"
+          "name": "ELLE",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0xZYTg2WThhNWpPd1g2Ni1WU1VoOE1Qbi1xaG9EY0lGcklsLXlDYy16OVphX1VmRVFpalljSHROSWl2M1pXRk5vcUo5em13am1jVGN3dl9ad3VCc0NEREgtMnNHdnBKODNxZUFrVnp2cml0Z3ZFUnR3R3RfX2dnT3dKdlY5ajNOZDlR?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "e868a56ed689",
@@ -850,13 +876,13 @@
       "matched_keywords": []
     },
     {
-      "id": "01a57422d2ed",
+      "id": "f97d0999dd9f",
       "title": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號",
       "published": "2026-08-24T22:40:03+00:00",
-      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;bastillepost.com",
+      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPbjV5cTdqZjN5d0VGTXlOdEstVmtWZGlydzIxMXJ3TGh6cWwtdEw3eGVXdWh6ZnJkNlRVaG1mQmY5ME56by05S0FNclEwNU1OMDVOWUNMbWUyVzc5MFBRMHlKX3JEeE04NEVwd2RmdUc3NGJoa0I2NEo1SVhDRE9qdHdZSnpOOHdQWkh6QWFseU5GZERLdldUSG1ZMW1PTWRIY0xCLUpvSURSNkJQLXdhSjZPZC1NY05QamMzMGozNWFTLUNKS2pKMl92RkVaMnA0RWRUTWFHRmRZQTAzN1B0d2VOWFBaUjJMcmNvWmI0ZldZT043dUlLYkRsV3RiR2tWSng3TFRvMnppYzN1RnR4S3J1czh5X1pQblJPRUs0NzRCQURtSS1WS095TE5QTWVuelZZRjF4UzdSSS10V2V0c00tMlY4VV9KQjlKQlE2N1l2S2ptZjM1Q1FYSEFybENHaVRZUDVGRXkxbVlGeDJJ?oc=5"
         }
       ],
@@ -889,13 +915,13 @@
       "matched_keywords": []
     },
     {
-      "id": "1032abcb3a2c",
+      "id": "b48ceca40793",
       "title": "蕁麻疹︱皮膚科醫生鍾文浩拆解兒童出風癩迷思 以1特徵分辨急性與慢性",
       "published": "2026-08-24T10:41:39+00:00",
-      "summary": "蕁麻疹︱皮膚科醫生鍾文浩拆解兒童出風癩迷思 以1特徵分辨急性與慢性&nbsp;&nbsp;topick.hket.com",
+      "summary": "蕁麻疹︱皮膚科醫生鍾文浩拆解兒童出風癩迷思 以1特徵分辨急性與慢性&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
-          "name": "topick.hket.com",
+          "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQczBpZTlhUVpDY0NnenZ0RHY0Q0QydE9PUzRCRGlBRThtWFcycnlKUnRXeHo3TzZJbjhtTmhhbmdpaVI4VDU4MkxzdlRSUk8xVzRxUUk0cWhnbGZLb29iOTRNMXUweWZKdjBUZVlwUEN3UWJObjFuYndnd1liOTBMSThvZ0Vzb1RYV0FtSG1KV2FzNERCZ3BRZ0FWUTV5dUZKUGs0TFJvd043WGdCb3VYZ2pTX3ZSbTc0V2hRMzZsVlk4SzU1RFZPWTRvQjd1ZGMtT21MSDJYRkh4OEhIZ1cwR00yZ1JQOExla3hWVVN4SkU1TnFPYUdtb3B2VVJwX0xwekxITlF5Q01jbHN2Q1VwdElDa1N0VC1nZEY4enJZU3NBODZyazJyMUxBTkh3V3JyaFVtM3FrbXJLWENXcjZlZmg3T3BLVXJaQUxXeW1HZGs3RF9IM0R3XzNuN0pQZkdSV1ZEWXIzay1peDdHN2ZNRTFseDhrTnJENFZDTFowOU5hcGJ1amVxMFkyNEQ5WldvaXVkLW9VQjAyQXlqZzlvcFpsdm9LUlBJLVFGMG1rWTdfbFZWbnlVUnBoMWpWVnpwR05EUFRYeXVKSnRyd0VZUXh5SQ?oc=5"
         }
       ],
@@ -1164,7 +1190,7 @@
       "id": "1d7403db97d1",
       "title": "漱口水就可揪出大腸癌？最新研究揭1數據 - 鏡週刊Mirror Media",
       "published": "2026-08-23T10:03:00+00:00",
-      "summary": "漱口水就可揪出大腸癌？最新研究揭1數據&nbsp;&nbsp;鏡週刊Mirror Media",
+      "summary": "漱口水就可揪出大腸癌？最新研究揭1數據&nbsp;&nbsp;鏡週刊Mirror Media用漱口水就可揪出大腸癌？最新研究揭1數據關鍵&nbsp;&nbsp;三立新聞網SETN.com漱口樣本驗出大腸癌口腔菌藏關鍵訊號- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
       "sources": [
         {
           "name": "鏡週刊Mirror Media",
@@ -1311,57 +1337,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "5a2a4243fdc9",
-      "title": "洗腎患者注意！曬太陽長血水泡別抓 醫解析「假性紫質症」成因",
-      "published": "2026-08-22T09:37:00+00:00",
-      "summary": "洗腎患者注意！曬太陽長血水泡別抓 醫解析「假性紫質症」成因&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSRU1zNmdyaTIwdnE4NG56SjJ1UjZQYzBxd3RnNXJRZ05JZ3VGMjJ1eG5MRXFIVms2WF9BNGluM3RyVTdybWNWTGJZVmltR0Uy?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "aff4b736e0a6",
-      "title": "喝茶能護骨 咖啡別過量？十年研究揭關鍵",
-      "published": "2026-08-22T07:00:00+00:00",
-      "summary": "喝茶能護骨 咖啡別過量？十年研究揭關鍵&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RTDVyaFhlVGxFYzlGZVUtSmZ4MmFsSElhODFBWXRWRGM0aW5QTEphSkpSWE10Vm5jVExXMTVwM21scC1xdUJmR19nbWVWeHRtR1JNZ0h2V2NjLTYzaW94QtIBZkFVX3lxTE4xNUFOd292SGJMOUhSeDFIWlZSQXhwMjd5aVVLbFJsTVFmdVhRSlM4RnZHUkYyM3JLM0JtVFd0WVpKelVZbV9hODJVUGZTTDJ3dnlZc2trYlNTd0ttRm1mN2xDMG9Qdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "990f498b8ae3",
-      "title": "怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重",
-      "published": "2026-08-22T04:59:04+00:00",
-      "summary": "怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQX2NMUU9RN3RlTjFkM0U1VWMtdlFJLTREVmZVZ0lZVjkzdFJrbTVwSzdmTmNMWVNQYm9odC14RzROX3EyOTZuSDlPY2pjTGsyRWNfemhxT0lsbXZSU01XSVE3WHQxVmdXdC1LdHhhN3RJVURVUTVHWWpFcnhkQ1FGX1I2X3JHTVZQTHFZWjc1a3k1QnZKTlBONURDZ2llcGphR2Jwck5teXYxeHZMZ3JWRVdYWF9oMklHenNtYjl3YlBFRnl2YnJkNC14YUE1bnBYZE1JTmlJSHBEVEtncno2ZThvbmJNenFFQmxBTnlhYzI5SHBmS29KQmk0SlNrQmRfZDVMeTI0RlpLZFVqRXhRYkUtZFIxckhLUzZwOERQYm5kdUV2NkRvd3BQSFQzVGE0dWY3YVpFSzlmWmNKNWVzbWU3WU5IVUpsX3BOYjdWcTR3UDY0NVJfWkR1TWZ3bjczVUFRYlZfNFl2TzdMWV9nUFJQWVZISzJxdFE5SnNHSnpLb2ZoS0FVUEVfeTA4VVVZT1k3eXdTTUUzYkNWVzFkeDB5ei14MUoyLTdnSWJVcnpmMGNNMEVMUThnMUFNWF9Zd2VYdHMtaW51QXpBVnU5VFB5alFZN2RlLWFiVER3VlRCZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

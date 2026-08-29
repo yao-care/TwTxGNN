@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0xZYTg2WThhNWpPd1g2Ni1WU1VoOE1Qbi1xaG9EY0lGcklsLXlDYy16OVphX1VmRVFpalljSHROSWl2M1pXRk5vcUo5em13am1jVGN3dl9ad3VCc0NEREgtMnNHdnBKODNxZUFrVnp2cml0Z3ZFUnR3R3RfX2dnT3dKdlY5ajNOZDlR?oc=5)
 
-2026-08-28 <span class="news-indication-tag">感冒</span>
+2026-08-27 <span class="news-indication-tag">感冒</span>
 
 來源：[ELLE](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0xZYTg2WThhNWpPd1g2Ni1WU1VoOE1Qbi1xaG9EY0lGcklsLXlDYy16OVphX1VmRVFpalljSHROSWl2M1pXRk5vcUo5em13am1jVGN3dl9ad3VCc0NEREgtMnNHdnBKODNxZUFrVnp2cml0Z3ZFUnR3R3RfX2dnT3dKdlY5ajNOZDlR?oc=5)
-
----
-
-### [怕吃藥傷腎！婦人感冒「只喝水硬撐4天」送急診 腎臟功能暴跌：後果更嚴重](https://news.google.com/rss/articles/CBMi4gNBVV95cUxQX2NMUU9RN3RlTjFkM0U1VWMtdlFJLTREVmZVZ0lZVjkzdFJrbTVwSzdmTmNMWVNQYm9odC14RzROX3EyOTZuSDlPY2pjTGsyRWNfemhxT0lsbXZSU01XSVE3WHQxVmdXdC1LdHhhN3RJVURVUTVHWWpFcnhkQ1FGX1I2X3JHTVZQTHFZWjc1a3k1QnZKTlBONURDZ2llcGphR2Jwck5teXYxeHZMZ3JWRVdYWF9oMklHenNtYjl3YlBFRnl2YnJkNC14YUE1bnBYZE1JTmlJSHBEVEtncno2ZThvbmJNenFFQmxBTnlhYzI5SHBmS29KQmk0SlNrQmRfZDVMeTI0RlpLZFVqRXhRYkUtZFIxckhLUzZwOERQYm5kdUV2NkRvd3BQSFQzVGE0dWY3YVpFSzlmWmNKNWVzbWU3WU5IVUpsX3BOYjdWcTR3UDY0NVJfWkR1TWZ3bjczVUFRYlZfNFl2TzdMWV9nUFJQWVZISzJxdFE5SnNHSnpLb2ZoS0FVUEVfeTA4VVVZT1k3eXdTTUUzYkNWVzFkeDB5ei14MUoyLTdnSWJVcnpmMGNNMEVMUThnMUFNWF9Zd2VYdHMtaW51QXpBVnU5VFB5alFZN2RlLWFiVER3VlRCZw?oc=5)
-
-2026-08-22 <span class="news-indication-tag">感冒</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi4gNBVV95cUxQX2NMUU9RN3RlTjFkM0U1VWMtdlFJLTREVmZVZ0lZVjkzdFJrbTVwSzdmTmNMWVNQYm9odC14RzROX3EyOTZuSDlPY2pjTGsyRWNfemhxT0lsbXZSU01XSVE3WHQxVmdXdC1LdHhhN3RJVURVUTVHWWpFcnhkQ1FGX1I2X3JHTVZQTHFZWjc1a3k1QnZKTlBONURDZ2llcGphR2Jwck5teXYxeHZMZ3JWRVdYWF9oMklHenNtYjl3YlBFRnl2YnJkNC14YUE1bnBYZE1JTmlJSHBEVEtncno2ZThvbmJNenFFQmxBTnlhYzI5SHBmS29KQmk0SlNrQmRfZDVMeTI0RlpLZFVqRXhRYkUtZFIxckhLUzZwOERQYm5kdUV2NkRvd3BQSFQzVGE0dWY3YVpFSzlmWmNKNWVzbWU3WU5IVUpsX3BOYjdWcTR3UDY0NVJfWkR1TWZ3bjczVUFRYlZfNFl2TzdMWV9nUFJQWVZISzJxdFE5SnNHSnpLb2ZoS0FVUEVfeTA4VVVZT1k3eXdTTUUzYkNWVzFkeDB5ei14MUoyLTdnSWJVcnpmMGNNMEVMUThnMUFNWF9Zd2VYdHMtaW51QXpBVnU5VFB5alFZN2RlLWFiVER3VlRCZw?oc=5)
 
 ---
 
