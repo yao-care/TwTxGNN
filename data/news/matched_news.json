@@ -1,8 +1,33 @@
 {
-  "last_updated": "2026-08-29T14:49:29.459526+00:00",
+  "last_updated": "2026-08-29T18:02:13.698840+00:00",
   "total_count": 51,
-  "matched_count": 9,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "9b3a130d1e61",
+      "title": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法 - TechNews 科技新報",
+      "published": "2026-08-29T16:06:09+00:00",
+      "summary": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGt2dV9MaG1aMGZUTXdZOW5QN2h5clp2aU5OUUFpc2hyVmJIVXhBbWNTXzd2N2hBeU44VExaLWNVZUNnbFJ3Zm00UElkUG9Qb0Q4VHR6VE1Bc1ctRWkzYnJOMW9HVFhSSkhtUEdwZ0thMVR0Z3dnSFN4dFV2RXZvVzNvTnVRaDNDRUFPOGVLR2c1QW5CRTM0V3lsd0ZxSXVUTGlNZzEwS2dVZHBpZEYtZzJxZEdsNmVI?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "97b00b33adee",
       "title": "健康網》適當射精 降死亡風險！網紅醫：射精幫腦抗衰老",
@@ -527,6 +552,43 @@
       "matched_keywords": []
     },
     {
+      "id": "7cac4b49b6b9",
+      "title": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 | 科技新報 - LINE TODAY",
+      "published": "2026-08-25T13:28:39+00:00",
+      "summary": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lbkd4ZnFmX2dFblhIWUdVQUJxaE5Ja1Y4RVE5YzZ5LWZTRC1SQkp5UmpZUTM5bEJneWVRRlRvb2xWZXk0aW16NjRNM1AzMGpKSEZVV0tR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "59e6233dfccd",
       "title": "🎙️陽性蚊群激增、罕見病毒現身 紐約防蚊更要防蜱蟲",
       "published": "2026-08-25T13:00:19+00:00",
@@ -564,43 +626,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "7cac4b49b6b9",
-      "title": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 | 科技新報 - LINE TODAY",
-      "published": "2026-08-25T08:33:56+00:00",
-      "summary": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lbkd4ZnFmX2dFblhIWUdVQUJxaE5Ja1Y4RVE5YzZ5LWZTRC1SQkp5UmpZUTM5bEJneWVRRlRvb2xWZXk0aW16NjRNM1AzMGpKSEZVV0tR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "90df24535567",
@@ -680,19 +705,6 @@
       "matched_keywords": []
     },
     {
-      "id": "40d6f2d12fba",
-      "title": "長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命 | TVBS - LINE TODAY",
-      "published": "2026-08-24T18:36:28+00:00",
-      "summary": "長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命 | TVBS&nbsp;&nbsp;LINE TODAY吃太油恐改變腸道菌！「膽汁酸」恐影響體內免疫環境抗癌&nbsp;&nbsp;Yahoo新聞抗癌飲食講求平衡 盲目「去油」恐脂不抵債 - 20260824 - 圖片看世界&nbsp;&nbsp;明報新聞網抗癌飲食講求平衡 盲目「去油」恐脂不抵債 - 20260824 - 副刊&nbsp;&nbsp;明報新聞網",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QYzFpRUd4SUVTaEU2TVZ0THFVS3BRQllxeWZZb2lBRnpTUkFCNnFvN1hLQWR5MzNQQUpKeHliLVg1a2pUWm8xTEIyZE5sM28wWGs0cVdn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "aa55b855ff8e",
       "title": "研究：生酮類飲食或能改善精神疾病",
       "published": "2026-08-24T15:00:00+00:00",
@@ -706,13 +718,13 @@
       "matched_keywords": []
     },
     {
-      "id": "1032abcb3a2c",
+      "id": "b48ceca40793",
       "title": "蕁麻疹︱皮膚科醫生鍾文浩拆解兒童出風癩迷思 以1特徵分辨急性與慢性",
       "published": "2026-08-24T10:41:39+00:00",
-      "summary": "蕁麻疹︱皮膚科醫生鍾文浩拆解兒童出風癩迷思 以1特徵分辨急性與慢性&nbsp;&nbsp;topick.hket.com",
+      "summary": "蕁麻疹︱皮膚科醫生鍾文浩拆解兒童出風癩迷思 以1特徵分辨急性與慢性&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
-          "name": "topick.hket.com",
+          "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQczBpZTlhUVpDY0NnenZ0RHY0Q0QydE9PUzRCRGlBRThtWFcycnlKUnRXeHo3TzZJbjhtTmhhbmdpaVI4VDU4MkxzdlRSUk8xVzRxUUk0cWhnbGZLb29iOTRNMXUweWZKdjBUZVlwUEN3UWJObjFuYndnd1liOTBMSThvZ0Vzb1RYV0FtSG1KV2FzNERCZ3BRZ0FWUTV5dUZKUGs0TFJvd043WGdCb3VYZ2pTX3ZSbTc0V2hRMzZsVlk4SzU1RFZPWTRvQjd1ZGMtT21MSDJYRkh4OEhIZ1cwR00yZ1JQOExla3hWVVN4SkU1TnFPYUdtb3B2VVJwX0xwekxITlF5Q01jbHN2Q1VwdElDa1N0VC1nZEY4enJZU3NBODZyazJyMUxBTkh3V3JyaFVtM3FrbXJLWENXcjZlZmg3T3BLVXJaQUxXeW1HZGs3RF9IM0R3XzNuN0pQZkdSV1ZEWXIzay1peDdHN2ZNRTFseDhrTnJENFZDTFowOU5hcGJ1amVxMFkyNEQ5WldvaXVkLW9VQjAyQXlqZzlvcFpsdm9LUlBJLVFGMG1rWTdfbFZWbnlVUnBoMWpWVnpwR05EUFRYeXVKSnRyd0VZUXh5SQ?oc=5"
         }
       ],
@@ -754,6 +766,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "7b9b8be0071a",
+      "title": "長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命",
+      "published": "2026-08-24T01:32:00+00:00",
+      "summary": "長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命&nbsp;&nbsp;TVBS新聞網吃太油恐改變腸道菌！「膽汁酸」恐影響體內免疫環境抗癌&nbsp;&nbsp;Yahoo新聞抗癌飲食講求平衡 盲目「去油」恐脂不抵債 - 20260824 - 圖片看世界&nbsp;&nbsp;明報新聞網長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命 | TVBS&nbsp;&nbsp;LINE TODAY抗癌飲食講求平衡 盲目「去油」恐脂不抵債 - 20260824 - 副刊&nbsp;&nbsp;明報新聞網",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVOHNiSV9TZGVxS0dTS2tXWXZjcWdUMERWWmVPS3MtSGNLR0dDWWZ3Q3R4cjFPQkprLTRqLWJLUi1SUzg2X3lBSXRjR2c2WTln?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "7071f8e0eec2",
@@ -1051,19 +1076,6 @@
         {
           "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04QUM1N3p3TFdYd2tILTRXLTJtMkVVclJfMGRhZGJmbC1XcWpaS09uLTBJdm5nSkFiVTJIaDdsOW9rS3c5TUhEM1R2Qm1vRVhCYjlISkdVOU55dVRZUzdZ0gFkQVVfeXFMTTBfNkExMno5bzUxTy1ndkJPYXNSYW4waHM5bEpPOG93SnAyZWs2aU1NLWUwbVZRR1BndWhtLVJTTkFJWkpLRGcwS3JKSXNadjY3ZVhQX004dWV6WmpuSTA2OWg3SQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b2ae0865ee62",
-      "title": "何妤玟高燒住院8天找不到原因 急喊：我是純潔乾淨的女人！",
-      "published": "2026-08-22T16:54:00+00:00",
-      "summary": "何妤玟高燒住院8天找不到原因 急喊：我是純潔乾淨的女人！&nbsp;&nbsp;東森電視",
-      "sources": [
-        {
-          "name": "東森電視",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FQ0lYWEdnTGpJbHFxZGNuUktyOVgzR3ZrNTBYMGZMV3B4cHZjQmRJbkVxeTloQmMtOHBlSUlBdmZIV2NMMU5OVV9aVlFVM3d4ek5ZLQ?oc=5"
         }
       ],
       "matched_keywords": []

@@ -1,7 +1,31 @@
 {
-  "generated": "2026-08-29T14:49:29.477317+00:00",
-  "count": 9,
+  "generated": "2026-08-29T18:02:13.730680+00:00",
+  "count": 10,
   "news": [
+    {
+      "id": "9b3a130d1e61",
+      "title": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法 - TechNews 科技新報",
+      "published": "2026-08-29T16:06:09+00:00",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGt2dV9MaG1aMGZUTXdZOW5QN2h5clp2aU5OUUFpc2hyVmJIVXhBbWNTXzd2N2hBeU44VExaLWNVZUNnbFJ3Zm00UElkUG9Qb0Q4VHR6VE1Bc1ctRWkzYnJOMW9HVFhSSkhtUEdwZ0thMVR0Z3dnSFN4dFV2RXZvVzNvTnVRaDNDRUFPOGVLR2c1QW5CRTM0V3lsd0ZxSXVUTGlNZzEwS2dVZHBpZEYtZzJxZEdsNmVI?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "f1a46843a122",
       "title": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道",
@@ -211,7 +235,7 @@
     {
       "id": "7cac4b49b6b9",
       "title": "更年期雌激素下降，可能影響大腦健康？研究發現新的線索 | 科技新報 - LINE TODAY",
-      "published": "2026-08-25T08:33:56+00:00",
+      "published": "2026-08-25T13:28:39+00:00",
       "sources": [
         {
           "name": "LINE TODAY",
