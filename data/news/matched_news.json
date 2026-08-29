@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-08-29T09:41:12.112152+00:00",
-  "total_count": 54,
-  "matched_count": 11,
+  "last_updated": "2026-08-29T14:49:29.459526+00:00",
+  "total_count": 51,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "97b00b33adee",
+      "title": "健康網》適當射精 降死亡風險！網紅醫：射精幫腦抗衰老",
+      "published": "2026-08-29T13:20:00+00:00",
+      "summary": "健康網》適當射精 降死亡風險！網紅醫：射精幫腦抗衰老&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HbGpSSVJ4dFVlSlZiOFlDWXVFeDAzY0JNSXdtZ3V3Ymtoa2NhN1dtQmxhQ2prUldqOHFuRGdXZnJPYnFuTmRBc0xsSzRaX0tfYnk4OHRua2NXamxsMzg1OUFFSXQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "f8895a13e48c",
       "title": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略 - TechNews 科技新報",
@@ -95,6 +108,19 @@
       "matched_keywords": []
     },
     {
+      "id": "33f9f2d54bd3",
+      "title": "吃少一點蛋白質，反而更長壽？科學家重新檢視蛋白質與老化的關係",
+      "published": "2026-08-28T08:25:54+00:00",
+      "summary": "吃少一點蛋白質，反而更長壽？科學家重新檢視蛋白質與老化的關係&nbsp;&nbsp;財訊少吃蛋白質能更長壽？最新研究揭示飲食「品質」更關鍵&nbsp;&nbsp;遠見雜誌健康網》增肌錯過黃金期怕白練 研究揭蛋白質這樣吃才關鍵&nbsp;&nbsp;自由健康網高蛋白質飲食潮流 衝擊本地餐飲業&nbsp;&nbsp;Singtaousa一餐最多吃30克蛋白質？醫學研究破除迷思&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "財訊",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxUWVEZFNNcjdWdFI0bElnQkJSOFNvTm9OaXl0aFZRVUVPekRoYUpEYjU4ZTRlLWZUUGcyVy1PWE9DVzcyUndPdTladkxiSjFfcFN4TFNUZHdwWGdIaGg3c2VLX3RtUjVqUGQwdmwyZTRCSmNTUHV3Q1FfOA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "e7a0245bc28b",
       "title": "赴泰注意！曼谷登革熱確診突破1700宗官方籲出現症狀速就醫勿自行用藥- 國際",
       "published": "2026-08-28T07:05:01+00:00",
@@ -103,19 +129,6 @@
         {
           "name": "點新聞",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrajZvLVhGTEpxOEFBZmpYMU1meDNRRkplN2NOeHYxTmtPa25nVGdIbGpWOEE5Uk1qQUtGUUQ2X1FMUUdmQW56WHcwVHg2U081anpnZFNta19rakJ5NTFNZGk5UmliVktibXV4MWRSUWhiVnJfNFVtZFFB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f35210eb7fae",
-      "title": "22歲女睡覺「雙腿不自主抽動」 醫揭偏食惹禍：4項營養指標異常 - PChome Online 新聞",
-      "published": "2026-08-28T06:34:07+00:00",
-      "summary": "22歲女睡覺「雙腿不自主抽動」 醫揭偏食惹禍：4項營養指標異常&nbsp;&nbsp;PChome Online 新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYndyMF80cEVuZnkxbklic29sUVVLSXdnUlZac2JycUFMVEY5dlFSLWQ4aGk5YVlDcnFaUmVKYzdvYzJ1V1FNb0tMcVhWeXRqaUdPcTBqYmV5dVFabFZjMEdDbE1RVEFWWHpJR1dZd1daTjFfZ2R0bXZteFRmRmxxRGhiakdNNEU?oc=5"
         }
       ],
       "matched_keywords": []
@@ -145,215 +158,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "765b976560eb",
-      "title": "頭骨裡竟藏「免疫軍隊」！研究發現防線一弱 腦腫瘤就變兇",
-      "published": "2026-08-27T09:56:00+00:00",
-      "summary": "頭骨裡竟藏「免疫軍隊」！研究發現防線一弱 腦腫瘤就變兇&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dVpYSU00Vnpfcmd6UktfR19xQm5LSlR4MmNFX2RSX3p5eVRPUGNhb09vSmR3b3dnMXB5N19RSnpUNm5YcnRCbmtfckJQMWhzaThxNnljSnM3UVlyNTBoX0l3U2g?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "腫瘤",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "f1a46843a122",
@@ -642,19 +446,6 @@
       "matched_keywords": []
     },
     {
-      "id": "a7de06af3857",
-      "title": "得了疝氣，怎麼治療？ 微創腹腔鏡手術效果顯著",
-      "published": "2026-08-26T01:38:06+00:00",
-      "summary": "得了疝氣，怎麼治療？ 微創腹腔鏡手術效果顯著&nbsp;&nbsp;草根影響力新視野",
-      "sources": [
-        {
-          "name": "草根影響力新視野",
-          "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNdmVfVXVRSVl4THlVamtFWnVYRV9MWkdrWUxHMkJaT3lPcXJNamVaQkdhZlFfUlE1NHhya3BoWEppVWM5UmxNRS1uMi1yTWlTbE02aklZNS1XWFdVT09LQ3o5UUwzQlNoTXdZYWxMT0p1OWtIdFhZeHUwNFprRlk3Y2NZR2JpWmhDazE2MEs3b2tBVU5MTFYtYWpNM3R1emhac0t4c0V5a0ZxOWI2X25qRmtZZVNLc2VRZmI4Y1NVYzUzUGFob2pwMmxHaXROZzhnOXdMTERhdlpxakhFSkIzOWZ0ekdCbjQ1MDdiaUVxT0VVa3ZjaUs3ckZGUjNKbVFROVBBLVAxRTRsaHViMEI1bUZWTGlLZU5kMk1Ta29PaThZMXFzV3ZRMzk5SjlteEpkck1ib2FKMXlyZnQy?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "45f04de0d2f9",
       "title": "大腦老化新線索，血液免疫細胞竟會「闖入」大腦 - TechNews 科技新報",
       "published": "2026-08-26T00:31:27+00:00",
@@ -915,13 +706,13 @@
       "matched_keywords": []
     },
     {
-      "id": "b48ceca40793",
+      "id": "1032abcb3a2c",
       "title": "蕁麻疹︱皮膚科醫生鍾文浩拆解兒童出風癩迷思 以1特徵分辨急性與慢性",
       "published": "2026-08-24T10:41:39+00:00",
-      "summary": "蕁麻疹︱皮膚科醫生鍾文浩拆解兒童出風癩迷思 以1特徵分辨急性與慢性&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "蕁麻疹︱皮膚科醫生鍾文浩拆解兒童出風癩迷思 以1特徵分辨急性與慢性&nbsp;&nbsp;topick.hket.com",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
+          "name": "topick.hket.com",
           "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQczBpZTlhUVpDY0NnenZ0RHY0Q0QydE9PUzRCRGlBRThtWFcycnlKUnRXeHo3TzZJbjhtTmhhbmdpaVI4VDU4MkxzdlRSUk8xVzRxUUk0cWhnbGZLb29iOTRNMXUweWZKdjBUZVlwUEN3UWJObjFuYndnd1liOTBMSThvZ0Vzb1RYV0FtSG1KV2FzNERCZ3BRZ0FWUTV5dUZKUGs0TFJvd043WGdCb3VYZ2pTX3ZSbTc0V2hRMzZsVlk4SzU1RFZPWTRvQjd1ZGMtT21MSDJYRkh4OEhIZ1cwR00yZ1JQOExla3hWVVN4SkU1TnFPYUdtb3B2VVJwX0xwekxITlF5Q01jbHN2Q1VwdElDa1N0VC1nZEY4enJZU3NBODZyazJyMUxBTkh3V3JyaFVtM3FrbXJLWENXcjZlZmg3T3BLVXJaQUxXeW1HZGs3RF9IM0R3XzNuN0pQZkdSV1ZEWXIzay1peDdHN2ZNRTFseDhrTnJENFZDTFowOU5hcGJ1amVxMFkyNEQ5WldvaXVkLW9VQjAyQXlqZzlvcFpsdm9LUlBJLVFGMG1rWTdfbFZWbnlVUnBoMWpWVnpwR05EUFRYeXVKSnRyd0VZUXh5SQ?oc=5"
         }
       ],
@@ -1187,52 +978,17 @@
       "matched_keywords": []
     },
     {
-      "id": "1d7403db97d1",
-      "title": "漱口水就可揪出大腸癌？最新研究揭1數據 - 鏡週刊Mirror Media",
-      "published": "2026-08-23T10:03:00+00:00",
-      "summary": "漱口水就可揪出大腸癌？最新研究揭1數據&nbsp;&nbsp;鏡週刊Mirror Media用漱口水就可揪出大腸癌？最新研究揭1數據關鍵&nbsp;&nbsp;三立新聞網SETN.com漱口樣本驗出大腸癌口腔菌藏關鍵訊號- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
+      "id": "7daa21549dab",
+      "title": "大腦與免疫系統隔絕——但顱骨骨髓另有打算– 馬丁西德雜誌 - Martin Cid Magazine",
+      "published": "2026-08-23T09:34:02+00:00",
+      "summary": "大腦與免疫系統隔絕——但顱骨骨髓另有打算– 馬丁西德雜誌&nbsp;&nbsp;Martin Cid Magazine",
       "sources": [
         {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zUGRqLWYyV2ZPTnpsTlB3S1VGanloVEFOUHpFbEIxNnBXZnNuelJwdkh3TXNUZDdfak5oVUhWY3Izb0h6Z3BPdTFaZEJTS3dTc0JDbWJIMWxIUXg50gFiQVVfeXFMTkhGcUIzLTNISFBBUlpmbmZ5OUVYcUxZUnYxcldZMExJM3l5NmZrYlNlN1Njc2ZWU2FRRkp3RmVVcDFRa3g0ck94aTRsX1VyTHc3UHVvNEhzMnBodk1KZ0FpS0E?oc=5"
+          "name": "Martin Cid Magazine",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQlJSZEZwc1RDWHFPVzFXaDRXb1V0ZVpmQktjOGlLbTFaYXJlTXpzUUs4Q2J0dGZvbmRrOUtubVVzZGlLN3hiT25XTnZ1eVdna0FZS0w5N1lLdXdpanBNMDN2RTRJbFhIdGN5VnhLS1pGUk9wenlTdGFOTElnWlBqRTJKd2tiMEJQTXNWdWxTRzZQOGZ6d0E?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "58c90a436e06",
@@ -1308,32 +1064,6 @@
         {
           "name": "東森電視",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FQ0lYWEdnTGpJbHFxZGNuUktyOVgzR3ZrNTBYMGZMV3B4cHZjQmRJbkVxeTloQmMtOHBlSUlBdmZIV2NMMU5OVV9aVlFVM3d4ek5ZLQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4bde29db62c2",
-      "title": "公廁馬桶坐墊非最骯髒！醫生揭3大更高風險區 4招教安心使用",
-      "published": "2026-08-22T14:07:33+00:00",
-      "summary": "公廁馬桶坐墊非最骯髒！醫生揭3大更高風險區 4招教安心使用&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80OFcwRTBjdlFVekhTRWFYUE03RTZBeGo0VDlmX29YMDRCVnFEZk8zbFV4bnV4TnF3a2tucnJ3M2tuZ2xld2ZMM09zbkUxeFpj?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f0b254693163",
-      "title": "聞玫瑰精油可防腦退化、穩定情緒？ 日本研究：嗅覺刺激助醒腦 晚上做多一步更有效",
-      "published": "2026-08-22T12:45:00+00:00",
-      "summary": "聞玫瑰精油可防腦退化、穩定情緒？ 日本研究：嗅覺刺激助醒腦 晚上做多一步更有效&nbsp;&nbsp;singtao.ca",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMimwRBVV95cUxPT05nTm1hMF9YMlFPaExGVnVHa2preUpwX01BYXBOWmhCb0VCdmc0cFN3QU50dURJNjdfQk5xdUVGdEJCeUZockk4VWlpYnJfX3JXOG45ZnItMjhqYmpkTHVnZ3dsdjJjanhuWFMyYVJ0ZDBiWEluZy1wYW40X2V0bV93dnRRZnNpS05EeGZKOGZRNUxfVnF6TXpkcVB6bGMtdURmdF9JQ3ZhTGFyZHcwekNHMURVV2RsS09XYzJQVkQ5dVNDM01HMFN2VkI2Ukc4UmNvLXNkYWlBNUx0UjMtU1c1bjNWR0ZYeWFMTGEyd3dZMlVIOHh2YzE1RHV5YVlDZGdiMGRvaGNGd05VTURXTDljbERTUXFfTTJualJNaHdBald2RktrSGRQOTZNQ1J3bTJua0dxVVYwM3hQbjJpRHBqV1YtWVhURlhHZTRvNGJOYnp4Qm5DV3ZsOVlsQkphVUh5anQySnJ6TkZsQ0dLVDFJekVOck1WN2tzcTAzTDkyT3RCaGVsSzZqcFdEa0lxR2ZaNGRrUDRUUnMtaGg3NXlCdktYdmZYUlJNRUhyWUV5WmZsTlhfT0pQYm1XLVBfRi1lc0k5N2JFdVJQQi1ucnlKcmJDRmktM291YTlvSzZmaGVRVVF1ZTF3M1I1VExkbDFBRzNnUmhXR19hakpWbVVqd0gxdjIxZzA1b1hHendNckdXNkF5YzFld9IBjwFBVV95cUxPbl9NY3cwS0N0RGV5ZDFwdEtPR3poeHliR1pnOFJfLU11LURJMVpsUnRoNjBoblRZNWpBZl96MnJ2WWhIa1M5UkR3MUxhUTBKY1A5cl84RXZxMF9od3pfV05Dd1VJeVk3NVZYaF83NHNQbGd1YjRpWm9hbVBBSFRMTkxBS1hmU0dmeGJxYmt2aw?oc=5"
         }
       ],
       "matched_keywords": []
