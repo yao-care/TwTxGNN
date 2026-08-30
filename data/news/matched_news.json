@@ -1,33 +1,8 @@
 {
-  "last_updated": "2026-08-30T18:16:55.893242+00:00",
+  "last_updated": "2026-08-30T21:44:45.911737+00:00",
   "total_count": 50,
-  "matched_count": 12,
+  "matched_count": 11,
   "news": [
-    {
-      "id": "75464a2144e0",
-      "title": "《阿茲海默症》阿茲海默症致病蛋白質恐經輸血傳播？英國專家籲防患未然，加緊研發輸血致病蛋白質篩檢技術",
-      "published": "2026-08-30T16:30:15+00:00",
-      "summary": "《阿茲海默症》阿茲海默症致病蛋白質恐經輸血傳播？英國專家籲防患未然，加緊研發輸血致病蛋白質篩檢技術&nbsp;&nbsp;genetinfo.com",
-      "sources": [
-        {
-          "name": "genetinfo.com",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XRGU5VHRsUE0tRjhBb1E0MXppUE5kVV9EcnZqOUdrbFdfV0wtNXlldlBJWHl4UktvVmhUSDhWYnB1emxxN2xja1dWZWhONVhxYzJ6YmVoRHlUMFdqT0gyTGxrNzhZQU9EQmpfUg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "f8c468e46439",
       "title": "跟專家這樣運動能防癌 快快學起來",
@@ -89,6 +64,19 @@
         {
           "name": "UHK 港生活",
           "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQYnBfQVI5Y1RoQVVaYjl4aGY4cC1XLTYyY1lRdWdaWTR2aGhBZU83WWNsa3l0UFZLdTRFOGM0SDlJOWZwejVoOVRwZG1qQkNYWndXWUVvalNSU09TUTNvakwyTFJFSTNhWERXQ25wdF92Y21uNVpFc3k1ZHBqMW54S0lJY0ZTMk1qa29XaHB1NDVRRDdIMk9FS0wyWS1xS3l4UDFyMVJZOFdvWlpTaTdIc205SmlTS1RaT19vQTFKM200N1RTUE1DS0FrVnlGbzhVTlBCRDZaeGh4NHoydUhuNVJ1T2t6WkRuWVBwbmRPRmVXa09paGV2M2VhU2RYS3NSeTJ5VGg1Wl8wbFQzTV9SU1dEYWlsTVZ4d0tvdzRITzFGY0JzWTVBem5fdVpPNVVRREZfYXpPTWkxNXd2NFRzNkZjR2tXOFo1WW15T01kTDhTRzZvT183ZmUza19CZUZyM2trLXA5UEhjN29LLURRaEt3VUg1ckkzbHF2MjcwRkE4cHBy?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5ae7471d540e",
+      "title": "德州大學新發現，90歲大腦仍有進步空間",
+      "published": "2026-08-29T21:15:56+00:00",
+      "summary": "德州大學新發現，90歲大腦仍有進步空間&nbsp;&nbsp;美南新聞",
+      "sources": [
+        {
+          "name": "美南新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wM0l3ZWhPNzVsNDYycWpIVE94NS1hNDFRLTFodG52R0M3T3UyS1RSNUF0MlVlMlI1M25jck9iYk5XVlR0dkE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -221,31 +209,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "f1a46843a122",
-      "title": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道",
-      "published": "2026-08-28T07:00:00+00:00",
-      "summary": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道&nbsp;&nbsp;ELLE",
-      "sources": [
-        {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0xZYTg2WThhNWpPd1g2Ni1WU1VoOE1Qbi1xaG9EY0lGcklsLXlDYy16OVphX1VmRVFpalljSHROSWl2M1pXRk5vcUo5em13am1jVGN3dl9ad3VCc0NEREgtMnNHdnBKODNxZUFrVnp2cml0Z3ZFUnR3R3RfX2dnT3dKdlY5ajNOZDlR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "1c25ba3d2c35",
@@ -494,6 +457,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "f1a46843a122",
+      "title": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道",
+      "published": "2026-08-27T07:00:00+00:00",
+      "summary": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道&nbsp;&nbsp;ELLE",
+      "sources": [
+        {
+          "name": "ELLE",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0xZYTg2WThhNWpPd1g2Ni1WU1VoOE1Qbi1xaG9EY0lGcklsLXlDYy16OVphX1VmRVFpalljSHROSWl2M1pXRk5vcUo5em13am1jVGN3dl9ad3VCc0NEREgtMnNHdnBKODNxZUFrVnp2cml0Z3ZFUnR3R3RfX2dnT3dKdlY5ajNOZDlR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "e868a56ed689",

@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-30T18:16:53.601682+00:00",
+  "fetched_at": "2026-08-30T21:44:44.164292+00:00",
   "count": 50,
   "news": [
     {
@@ -12,18 +12,6 @@
         {
           "name": "新唐人電視台",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5cjJiUHhWU0psOHJKckZTMmxGdFZwQW1Ock1pSGhJUnQtUWxoenEta0ltN0lIYkNNN2dCRngwM0gzY0RMT000MnhoNndNZU82NmFmajlhWDBUclFpV3EtbtIBZkFVX3lxTFBIMlZJSVBWbGNyb3pkZ2w5X1dPZTRZQ0hqeU56blBTbnV4eHkxN1ZtbVdjWGlNdHNuNERrMWoxajEtNkJPeDBGbXJKV1h2SFg2N2lDaEZDcUlWXzhUOVR6eFJQVHJ4UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fbc10fa9b11d",
-      "title": "天氣熱吃不下醫激推3高營養密度食物：牛肉掃倦怠- 健康 - 中時新聞網",
-      "published": "2026-08-30T06:27:20+00:00",
-      "summary": "天氣熱吃不下醫激推3高營養密度食物：牛肉掃倦怠- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbXJDUkJUN2tyZ2ZqUkNpYVgwU00xdlRwRHRuRVMwTmNrRlVMcFdMNi12NUxCWEVoaWR4NGo4U3V6UjZqaEtBQl9ScVJzVDlBZmZtMkZjZWUtTXJ2LXF6a2I2TElxNWhQQTlremhGeFZTTGRPWEVZbEl4VXdHV0JUejYtSVRBNHI2Rk1PaXJhUQ?oc=5"
         }
       ]
     },
@@ -40,6 +28,18 @@
       ]
     },
     {
+      "id": "fbc10fa9b11d",
+      "title": "天氣熱吃不下醫激推3高營養密度食物：牛肉掃倦怠- 健康 - 中時新聞網",
+      "published": "2026-08-30T06:27:20+00:00",
+      "summary": "天氣熱吃不下醫激推3高營養密度食物：牛肉掃倦怠- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbXJDUkJUN2tyZ2ZqUkNpYVgwU00xdlRwRHRuRVMwTmNrRlVMcFdMNi12NUxCWEVoaWR4NGo4U3V6UjZqaEtBQl9ScVJzVDlBZmZtMkZjZWUtTXJ2LXF6a2I2TElxNWhQQTlremhGeFZTTGRPWEVZbEl4VXdHV0JUejYtSVRBNHI2Rk1PaXJhUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "01314e38140a",
       "title": "醫學生過度依賴AI恐變「腦袋空空」？史丹佛專家警示： 臨床推理能力面臨退化危機 - T客邦",
       "published": "2026-08-29T23:30:00+00:00",
@@ -48,6 +48,18 @@
         {
           "name": "T客邦",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYk1JaWQwWngtY3JVSWhSZEpoRnFjczlqdDFRUE5qRmFKR0RuSTZWSE9oYnNyVGVsOWxFZlItcThBdVhheDVxN3VhblJYcWZEcFRBRlRyVHZROVI4blgza01Nd3BndUhMaWZ3N1FRNmtyR0V6TEN2QlNMcG1BRHROb0w4ZmN5R0NMOUp0WnFNNUZkYTZQcGN2bGxDTFFNZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1c25ba3d2c35",
+      "title": "改善50歲後代謝停滯！專家公開10大「促進新陳代謝」必吃清單，養出健康好體質 - Vogue Taiwan",
+      "published": "2026-08-28T00:00:00+00:00",
+      "summary": "改善50歲後代謝停滯！專家公開10大「促進新陳代謝」必吃清單，養出健康好體質&nbsp;&nbsp;Vogue Taiwan",
+      "sources": [
+        {
+          "name": "Vogue Taiwan",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUkxQy12LU5hU2lYUFZuclMyNlVwU3FBVUVQczJQcTVvR0h6WWV0cEhNTzZISlZsekpNMU1sazBCTFF0RmxFeXRrUzVLNlFxcUd2TldzOVVKSWFzbnlod0JsQ1FOUFVVY19zcXp3TFdyNU45QWZWSVF6RmdHVmM0VjllcjE?oc=5"
         }
       ]
     },
@@ -72,18 +84,6 @@
         {
           "name": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORC0zZXFBdEF5TWxhZzlST1FLUFBUZDdqUU1uMDJWLTE2TjFsWmRQQ2gxclIzR1NFa1ZQWS1Va0NzZVZpQmhNTi1vQTlya2d5OF9oeEFkTDU5T0lPWVgxaV9ISHBUQWxmMlJvU19VWnpmSFozTDVTTW5yX0pVcW1BR21YSUhGalFRdVlYb29ZLWpWeTJWbnI3enpuUVliNGdUOXE1c2poSDZtQUNTLWdGWDZjZXVCdUtROUo4ZUhWRGJJa0dtbG1pam1Tb2Qzd2RCdlhTZWdSSVNIYk5nSlBsS3RJYkkyNlZ5aHI4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1c25ba3d2c35",
-      "title": "改善50歲後代謝停滯！專家公開10大「促進新陳代謝」必吃清單，養出健康好體質 - Vogue Taiwan",
-      "published": "2026-08-28T00:00:00+00:00",
-      "summary": "改善50歲後代謝停滯！專家公開10大「促進新陳代謝」必吃清單，養出健康好體質&nbsp;&nbsp;Vogue Taiwan",
-      "sources": [
-        {
-          "name": "Vogue Taiwan",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUkxQy12LU5hU2lYUFZuclMyNlVwU3FBVUVQczJQcTVvR0h6WWV0cEhNTzZISlZsekpNMU1sazBCTFF0RmxFeXRrUzVLNlFxcUd2TldzOVVKSWFzbnlod0JsQ1FOUFVVY19zcXp3TFdyNU45QWZWSVF6RmdHVmM0VjllcjE?oc=5"
         }
       ]
     },
@@ -148,18 +148,6 @@
       ]
     },
     {
-      "id": "f8c468e46439",
-      "title": "跟專家這樣運動能防癌 快快學起來 - 大纪元",
-      "published": "2026-08-30T15:00:00+00:00",
-      "summary": "跟專家這樣運動能防癌 快快學起來&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HemlHMFNjNGZIcWlJd3FzN3c1aS1kYkF0Z3ptTXdIZjlPeHdRdWRTZGY1WHowNmVPWExZX0ctYU9iNzF5UHBJdnlyNmJROWRqZUszRkN3SkpmSXhVUWI0SNIBZkFVX3lxTE1OY1QxZDRmLThKTXR6cDZkWGxMMHdOY1dpaVZ1ejdhYWpTcG50WDlzMmJDMFc0YTU0SE9BX1FfbTQxcTdKalJjb2FldVZxeUVHaXVRaklManhKbUVocGpCVlJmUnpXdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "66d06d7197da",
       "title": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效 | 科技新報 - LINE TODAY",
       "published": "2026-08-29T00:24:19+00:00",
@@ -168,6 +156,18 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzMVppSndVVlVhQ3hqcHotRmItaUh4U1VhdnZxR1lMZzNSNjdXMDY0SDhHVlk2RVJLSnZWeFdZTDlsY0Z5NW1seDlNQnlGN3pmdDB0U053?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f8c468e46439",
+      "title": "跟專家這樣運動能防癌 快快學起來 - 大纪元",
+      "published": "2026-08-30T15:00:00+00:00",
+      "summary": "跟專家這樣運動能防癌 快快學起來&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HemlHMFNjNGZIcWlJd3FzN3c1aS1kYkF0Z3ptTXdIZjlPeHdRdWRTZGY1WHowNmVPWExZX0ctYU9iNzF5UHBJdnlyNmJROWRqZUszRkN3SkpmSXhVUWI0SNIBZkFVX3lxTE1OY1QxZDRmLThKTXR6cDZkWGxMMHdOY1dpaVZ1ejdhYWpTcG50WDlzMmJDMFc0YTU0SE9BX1FfbTQxcTdKalJjb2FldVZxeUVHaXVRaklManhKbUVocGpCVlJmUnpXdw?oc=5"
         }
       ]
     },
@@ -198,7 +198,7 @@
     {
       "id": "f1a46843a122",
       "title": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道 - ELLE",
-      "published": "2026-08-28T07:00:00+00:00",
+      "published": "2026-08-27T07:00:00+00:00",
       "summary": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道&nbsp;&nbsp;ELLE",
       "sources": [
         {
@@ -412,14 +412,14 @@
       ]
     },
     {
-      "id": "75464a2144e0",
-      "title": "《阿茲海默症》阿茲海默症致病蛋白質恐經輸血傳播？英國專家籲防患未然，加緊研發輸血致病蛋白質篩檢技術 - genetinfo.com",
-      "published": "2026-08-30T16:30:15+00:00",
-      "summary": "《阿茲海默症》阿茲海默症致病蛋白質恐經輸血傳播？英國專家籲防患未然，加緊研發輸血致病蛋白質篩檢技術&nbsp;&nbsp;genetinfo.com",
+      "id": "5ae7471d540e",
+      "title": "德州大學新發現，90歲大腦仍有進步空間 - 美南新聞",
+      "published": "2026-08-29T21:15:56+00:00",
+      "summary": "德州大學新發現，90歲大腦仍有進步空間&nbsp;&nbsp;美南新聞",
       "sources": [
         {
-          "name": "genetinfo.com",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XRGU5VHRsUE0tRjhBb1E0MXppUE5kVV9EcnZqOUdrbFdfV0wtNXlldlBJWHl4UktvVmhUSDhWYnB1emxxN2xja1dWZWhONVhxYzJ6YmVoRHlUMFdqT0gyTGxrNzhZQU9EQmpfUg?oc=5"
+          "name": "美南新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wM0l3ZWhPNzVsNDYycWpIVE94NS1hNDFRLTFodG52R0M3T3UyS1RSNUF0MlVlMlI1M25jck9iYk5XVlR0dkE?oc=5"
         }
       ]
     },
