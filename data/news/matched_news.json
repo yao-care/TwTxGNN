@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-29T23:43:48.021297+00:00",
-  "total_count": 54,
+  "last_updated": "2026-08-30T02:35:57.373371+00:00",
+  "total_count": 49,
   "matched_count": 10,
   "news": [
     {
@@ -30,14 +30,14 @@
       "matched_keywords": []
     },
     {
-      "id": "f3b6f23e7843",
+      "id": "a1d43d495147",
       "title": "日常飲食助攻 吃出免疫、專注力",
       "published": "2026-08-29T20:10:00+00:00",
-      "summary": "日常飲食助攻 吃出免疫、專注力&nbsp;&nbsp;Yahoo新聞",
+      "summary": "日常飲食助攻 吃出免疫、專注力&nbsp;&nbsp;Yahoo",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQLU5aSXNDZ1I5bnJ0aXBIWXpjWDlJbkJPQ1c5R09PN1BGb2dBM2V5MUtZMFdNMFliSENoWHlKcDFpYkxMOG5DdnBsTjloekF6cW1GMTdHbWlpVDZfRkRwbV9CU0ppWU9Ta3BLVDVLUldNeXE1dVBJaXhEVzNqV2JVT21oTnl6TmVYTUx5cUdEeEl5UlpBLWV2LUZOV3EwS1RmR3M1YzVfYnRUeEhOa2RpWnM4NDhaenpSM2U1X0RyQmlsOS15ZmVuNUhuOUVodzZTbTZJMmxvVTlHU05sWThDZ3c4dU9wdFV0N0xtUDV4WVVxZw?oc=5"
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORC0zZXFBdEF5TWxhZzlST1FLUFBUZDdqUU1uMDJWLTE2TjFsWmRQQ2gxclIzR1NFa1ZQWS1Va0NzZVZpQmhNTi1vQTlya2d5OF9oeEFkTDU5T0lPWVgxaV9ISHBUQWxmMlJvU19VWnpmSFozTDVTTW5yX0pVcW1BR21YSUhGalFRdVlYb29ZLWpWeTJWbnI3enpuUVliNGdUOXE1c2poSDZtQUNTLWdGWDZjZXVCdUtROUo4ZUhWRGJJa0dtbG1pam1Tb2Qzd2RCdlhTZWdSSVNIYk5nSlBsS3RJYkkyNlZ5aHI4?oc=5"
         }
       ],
       "matched_keywords": []
@@ -107,19 +107,6 @@
       "matched_keywords": []
     },
     {
-      "id": "51cc6ea99e8b",
-      "title": "基因一剪永逸！研究曝堵塞血管壞膽固醇降低50％ 沒副作用- 國際",
-      "published": "2026-08-29T03:28:40+00:00",
-      "summary": "基因一剪永逸！研究曝堵塞血管壞膽固醇降低50％ 沒副作用- 國際&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xdExMUGhNR2d5TFV0djFYYXZWMTdGUnZkX2ljYkVhOEZwRC1qdWNCbXFrMFVqWWhqd0hUN2xDbHhBWUdTQWIyUUFBM2RiWWlOMUVCaDg0c3MxRV9pVlk4cXRqa1dTcUlCODNSOTlR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "433efa8460fe",
       "title": "不同種類蚊愛叮不同的人 新研究揭「氣味密碼」",
       "published": "2026-08-29T02:29:44+00:00",
@@ -133,14 +120,14 @@
       "matched_keywords": []
     },
     {
-      "id": "66d06d7197da",
-      "title": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效 | 科技新報 - LINE TODAY",
-      "published": "2026-08-29T00:24:40+00:00",
-      "summary": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "id": "90a67c6c3959",
+      "title": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效 - TechNews 科技新報",
+      "published": "2026-08-28T16:04:13+00:00",
+      "summary": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzMVppSndVVlVhQ3hqcHotRmItaUh4U1VhdnZxR1lMZzNSNjdXMDY0SDhHVlk2RVJLSnZWeFdZTDlsY0Z5NW1seDlNQnlGN3pmdDB0U053?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUmZMVHBDZjd5d1dDMHRhcTlPVjRxTWRORHNHRE9jLXh3THZJdzJVQkpJRHZWODVKSlVSNEY3alIzaUJCbXpPR3BoN2gySE93SWs0Y0pEMlpKNlc4c3pCblNIdGpVZUd5cl9XZUFFS3pnM2F4X1F2MFNlQzVFOFR5b3NsU3lQZ1Zkbkh5dEx1RWVPSjZaa1BPMDJkZTlGQ1BKeXFrRHdTYnppUlpERUE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -167,19 +154,6 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EelRDdFM3c3NpNV8tQ3NKbVdrRDEwMzBvbzkyZ0ZlNnpMcDR0WVhZUkV5cUxuZEFCUEZXYi05X3hIRWN0NW9xNWx3emlyX19BZW9kQVdQak9URDl2NXQzZmF4c0ViczZramtoOEJ3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "33f9f2d54bd3",
-      "title": "吃少一點蛋白質，反而更長壽？科學家重新檢視蛋白質與老化的關係",
-      "published": "2026-08-28T08:25:54+00:00",
-      "summary": "吃少一點蛋白質，反而更長壽？科學家重新檢視蛋白質與老化的關係&nbsp;&nbsp;財訊少吃蛋白質能更長壽？最新研究揭示飲食「品質」更關鍵&nbsp;&nbsp;遠見雜誌健康網》增肌錯過黃金期怕白練 研究揭蛋白質這樣吃才關鍵&nbsp;&nbsp;自由健康網高蛋白質飲食潮流 衝擊本地餐飲業&nbsp;&nbsp;Singtaousa一餐最多吃30克蛋白質？醫學研究破除迷思&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "財訊",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxUWVEZFNNcjdWdFI0bElnQkJSOFNvTm9OaXl0aFZRVUVPekRoYUpEYjU4ZTRlLWZUUGcyVy1PWE9DVzcyUndPdTladkxiSjFfcFN4TFNUZHdwWGdIaGg3c2VLX3RtUjVqUGQwdmwyZTRCSmNTUHV3Q1FfOA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -731,13 +705,13 @@
       "matched_keywords": []
     },
     {
-      "id": "01a57422d2ed",
+      "id": "f97d0999dd9f",
       "title": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號",
       "published": "2026-08-24T22:40:03+00:00",
-      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;bastillepost.com",
+      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPbjV5cTdqZjN5d0VGTXlOdEstVmtWZGlydzIxMXJ3TGh6cWwtdEw3eGVXdWh6ZnJkNlRVaG1mQmY5ME56by05S0FNclEwNU1OMDVOWUNMbWUyVzc5MFBRMHlKX3JEeE04NEVwd2RmdUc3NGJoa0I2NEo1SVhDRE9qdHdZSnpOOHdQWkh6QWFseU5GZERLdldUSG1ZMW1PTWRIY0xCLUpvSURSNkJQLXdhSjZPZC1NY05QamMzMGozNWFTLUNKS2pKMl92RkVaMnA0RWRUTWFHRmRZQTAzN1B0d2VOWFBaUjJMcmNvWmI0ZldZT043dUlLYkRsV3RiR2tWSng3TFRvMnppYzN1RnR4S3J1czh5X1pQblJPRUs0NzRCQURtSS1WS095TE5QTWVuelZZRjF4UzdSSS10V2V0c00tMlY4VV9KQjlKQlE2N1l2S2ptZjM1Q1FYSEFybENHaVRZUDVGRXkxbVlGeDJJ?oc=5"
         }
       ],
@@ -1076,45 +1050,6 @@
         {
           "name": "on.cc東網",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVzlTU0lwaHlBaElKa042Q3JuY0FObnBMV2xuTUpTTHg1bUhmUTZzbjExSDNmTUhRZEdyWUlMVmhLLXd5LXNmcnR2aWxIT2VhTE1jSzFWN3lKX0x6eWU0M2pXV29xSllkeWYtdy1BTXdSWlF2Mko2N3Rjc1JES3dTRDZXZGhRNDRhNWo0?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a5ad00bbe3b9",
-      "title": "【精選書摘】《正常的迷思》有毒婚姻與工作 比單身、失業更傷身？",
-      "published": "2026-08-23T02:36:48+00:00",
-      "summary": "【精選書摘】《正常的迷思》有毒婚姻與工作 比單身、失業更傷身？&nbsp;&nbsp;人間福報電子報",
-      "sources": [
-        {
-          "name": "人間福報電子報",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hclo1aHA0OXRJeGtWOHZSbUtEZkhxb3FwaF9wSm5mWEVXQmpwZXYwaE1GVi1lWG8zLTNBbEpQSWxsMURDMlFfeEhjMkZRaUwtaWVHWF9TRG9wX213MlN6Zm5pTC1QM0k?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4b7ac0bf524d",
-      "title": "HIV新增感染降至879人，為什麼現在反而不能停？",
-      "published": "2026-08-23T01:09:00+00:00",
-      "summary": "HIV新增感染降至879人，為什麼現在反而不能停？&nbsp;&nbsp;peopo.org",
-      "sources": [
-        {
-          "name": "peopo.org",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxUk1WTzRhZjk0YWxuQVR1Wi1ZZ0d5cnpmRDFPaVo3TEhtYWZqVUlDRWtxb2pHVnJWX01FelBNMnBpbzlILXdQeA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3d065ea5a839",
-      "title": "60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物 第一名高纖護血管",
-      "published": "2026-08-23T01:01:47+00:00",
-      "summary": "60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物 第一名高纖護血管&nbsp;&nbsp;singtao.ca",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxPMksxWGlYVGM0ZS14T3RHMF9OYW42amJKMjR6YmowbGtZaHZZdkFfQlRzendQTkhzUWYyQ2RCOUlOMTM2V0NxdTNpOE9IbG1YQ0l3M3RpeGtRazVoYnM3WnhoU1R5YnZEVkxmUUpxdGFmZVN2VVFIbzlWdnFCd0ZLS2hrOV9FV2kzZHVyaktaN0xTVURTRnY2Nk9ZSG5kMlVhUDJ4cl9PaGVMQ1l0TXRoZFBWS3VCZnJPU0VqcjN0cnNrRFg4NTI4ZlctU1FlWTNoY0s3UTFnbW5YU2JSbndOWHdXX1JlQVQ5T2RtT3BVLWtXZFYxUl9rUlJuMm9rQ0hNLXliMUtJeE5jTHROaHJNbVdzcU90TTI4aUp2bWtXbnJOT0lBZ3NuX0tXQVl1QkczaF9PYVRleUp2QjhxZ1c0QW5SVGVQVkozUTRzVVJkWVM4TVp5TnBtRmo5aENZVHRmM3VBSDdBWkdrYlBNR0VMdm9ZTjg3YjB4bi1zSVRHSmREaTFYQWp0MTEzOUpId2YtUHBJWlpNcXl6RDdVaUY0cDk3azNxVzBMdEoyZHdPYVR5Mkp3ZUdLMmh6YjJuT2pob1ltNU80ako3QdIBjwFBVV95cUxPVDBoWGRrWWgyZzRZemNRYW9pdTM5Z1c1WFFxN2Y0SE94TEhWWWRDa1I0TXg0V2dPQURoQVJKa2NvX2luRXpseGRENlJzWVVxaGh5QWJBeW5heVVUVlkxRnluUFhRcnNLUUxSWmpBSmhCVktJMk5zRHJfSTU4QmVvNVp6U3dEekRUb1ExaFEyVQ?oc=5"
         }
       ],
       "matched_keywords": []
