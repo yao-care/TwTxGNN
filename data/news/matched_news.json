@@ -1,17 +1,30 @@
 {
-  "last_updated": "2026-08-30T08:43:13.111567+00:00",
+  "last_updated": "2026-08-30T14:07:18.642514+00:00",
   "total_count": 49,
-  "matched_count": 12,
+  "matched_count": 11,
   "news": [
     {
-      "id": "8d03644b3593",
+      "id": "8a682ce6f51f",
+      "title": "男突長「白斑」散布全身 連頭髮也變白 醫揭成因",
+      "published": "2026-08-30T11:00:25+00:00",
+      "summary": "男突長「白斑」散布全身 連頭髮也變白 醫揭成因&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rRjVDSVBtVnpjZEliYkdJbVRycGxSZVlMdGRaV3FGYzUxTjRnQ0UzSmNjaTZTM3VOYWt0Vm9oX1c2TzJQV0RvX0Roc3dEUndsbURaVzV0TkE5MXc1R0FucnFCUm9ubXVRUWNDdnVn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "fbc10fa9b11d",
       "title": "天氣熱吃不下醫激推3高營養密度食物：牛肉掃倦怠- 健康",
       "published": "2026-08-30T06:27:20+00:00",
       "summary": "天氣熱吃不下醫激推3高營養密度食物：牛肉掃倦怠- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RTzU5cHFfdk9YNURjMmNnNndXUlJnekhkYVZDSUx6ZWdFVjNSeXZkU2VhZWF0eDhNelJaTVBxZEVhaWRPRmtXdHRCUGpEQS0wVVcwOFQ5Q0I3X0lGV1VqTmRQN1pVdE9Ob1lGYWxB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbXJDUkJUN2tyZ2ZqUkNpYVgwU00xdlRwRHRuRVMwTmNrRlVMcFdMNi12NUxCWEVoaWR4NGo4U3V6UjZqaEtBQl9ScVJzVDlBZmZtMkZjZWUtTXJ2LXF6a2I2TElxNWhQQTlremhGeFZTTGRPWEVZbEl4VXdHV0JUejYtSVRBNHI2Rk1PaXJhUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -56,6 +69,19 @@
       "matched_keywords": []
     },
     {
+      "id": "9ef7a8ed1211",
+      "title": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略 | 科技新報 - LINE TODAY",
+      "published": "2026-08-29T18:21:16+00:00",
+      "summary": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGSll6b1BveHpueHBfVVVER1pFUzR6czJiSWRTMDIyQlN1aWZicDd2N3E5b182dFNhZkNzNGFrN2ttNzRjamJvWnd5OTFQMmYtMWVhWjVR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "9b3a130d1e61",
       "title": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法 - TechNews 科技新報",
       "published": "2026-08-29T16:06:09+00:00",
@@ -79,19 +105,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "9ef7a8ed1211",
-      "title": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略 | 科技新報 - LINE TODAY",
-      "published": "2026-08-29T15:21:16+00:00",
-      "summary": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGSll6b1BveHpueHBfVVVER1pFUzR6czJiSWRTMDIyQlN1aWZicDd2N3E5b182dFNhZkNzNGFrN2ttNzRjamJvWnd5OTFQMmYtMWVhWjVR?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "97b00b33adee",
@@ -133,14 +146,14 @@
       "matched_keywords": []
     },
     {
-      "id": "90a67c6c3959",
-      "title": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效 - TechNews 科技新報",
-      "published": "2026-08-28T16:04:13+00:00",
-      "summary": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效&nbsp;&nbsp;TechNews 科技新報",
+      "id": "66d06d7197da",
+      "title": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效 | 科技新報 - LINE TODAY",
+      "published": "2026-08-29T00:24:19+00:00",
+      "summary": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUmZMVHBDZjd5d1dDMHRhcTlPVjRxTWRORHNHRE9jLXh3THZJdzJVQkpJRHZWODVKSlVSNEY3alIzaUJCbXpPR3BoN2gySE93SWs0Y0pEMlpKNlc4c3pCblNIdGpVZUd5cl9XZUFFS3pnM2F4X1F2MFNlQzVFOFR5b3NsU3lQZ1Zkbkh5dEx1RWVPSjZaa1BPMDJkZTlGQ1BKeXFrRHdTYnppUlpERUE?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzMVppSndVVlVhQ3hqcHotRmItaUh4U1VhdnZxR1lMZzNSNjdXMDY0SDhHVlk2RVJLSnZWeFdZTDlsY0Z5NW1seDlNQnlGN3pmdDB0U053?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1010,54 +1023,6 @@
             {
               "slug": "lornoxicam",
               "name": "Lornoxicam"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "40d6f2d12fba",
-      "title": "長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命 | TVBS - LINE TODAY",
-      "published": "2026-08-24T07:42:15+00:00",
-      "summary": "長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命 | TVBS&nbsp;&nbsp;LINE TODAY養生／高油高糖低纖維飲食 大腸癌機率增&nbsp;&nbsp;世界新聞網長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命&nbsp;&nbsp;TVBS新聞網抗癌飲食講求平衡 盲目「去油」恐脂不抵債 - 20260824 - 圖片看世界&nbsp;&nbsp;明報新聞網吃太油恐改變腸道菌！「膽汁酸」恐影響體內免疫環境抗癌&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QYzFpRUd4SUVTaEU2TVZ0THFVS3BRQllxeWZZb2lBRnpTUkFCNnFvN1hLQWR5MzNQQUpKeHliLVg1a2pUWm8xTEIyZE5sM28wWGs0cVdn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
