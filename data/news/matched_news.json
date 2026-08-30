@@ -1,17 +1,55 @@
 {
-  "last_updated": "2026-08-30T14:07:18.642514+00:00",
-  "total_count": 49,
-  "matched_count": 11,
+  "last_updated": "2026-08-30T18:16:55.893242+00:00",
+  "total_count": 50,
+  "matched_count": 12,
   "news": [
     {
-      "id": "8a682ce6f51f",
-      "title": "男突長「白斑」散布全身 連頭髮也變白 醫揭成因",
-      "published": "2026-08-30T11:00:25+00:00",
-      "summary": "男突長「白斑」散布全身 連頭髮也變白 醫揭成因&nbsp;&nbsp;中時新聞網",
+      "id": "75464a2144e0",
+      "title": "《阿茲海默症》阿茲海默症致病蛋白質恐經輸血傳播？英國專家籲防患未然，加緊研發輸血致病蛋白質篩檢技術",
+      "published": "2026-08-30T16:30:15+00:00",
+      "summary": "《阿茲海默症》阿茲海默症致病蛋白質恐經輸血傳播？英國專家籲防患未然，加緊研發輸血致病蛋白質篩檢技術&nbsp;&nbsp;genetinfo.com",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rRjVDSVBtVnpjZEliYkdJbVRycGxSZVlMdGRaV3FGYzUxTjRnQ0UzSmNjaTZTM3VOYWt0Vm9oX1c2TzJQV0RvX0Roc3dEUndsbURaVzV0TkE5MXc1R0FucnFCUm9ubXVRUWNDdnVn?oc=5"
+          "name": "genetinfo.com",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XRGU5VHRsUE0tRjhBb1E0MXppUE5kVV9EcnZqOUdrbFdfV0wtNXlldlBJWHl4UktvVmhUSDhWYnB1emxxN2xja1dWZWhONVhxYzJ6YmVoRHlUMFdqT0gyTGxrNzhZQU9EQmpfUg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f8c468e46439",
+      "title": "跟專家這樣運動能防癌 快快學起來",
+      "published": "2026-08-30T15:00:00+00:00",
+      "summary": "跟專家這樣運動能防癌 快快學起來&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HemlHMFNjNGZIcWlJd3FzN3c1aS1kYkF0Z3ptTXdIZjlPeHdRdWRTZGY1WHowNmVPWExZX0ctYU9iNzF5UHBJdnlyNmJROWRqZUszRkN3SkpmSXhVUWI0SNIBZkFVX3lxTE1OY1QxZDRmLThKTXR6cDZkWGxMMHdOY1dpaVZ1ejdhYWpTcG50WDlzMmJDMFc0YTU0SE9BX1FfbTQxcTdKalJjb2FldVZxeUVHaXVRaklManhKbUVocGpCVlJmUnpXdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "56bd49a8032a",
+      "title": "7種錯誤生活習慣 可能會損害你的心臟健康",
+      "published": "2026-08-30T13:12:12+00:00",
+      "summary": "7種錯誤生活習慣 可能會損害你的心臟健康&nbsp;&nbsp;新唐人電視台",
+      "sources": [
+        {
+          "name": "新唐人電視台",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5cjJiUHhWU0psOHJKckZTMmxGdFZwQW1Ock1pSGhJUnQtUWxoenEta0ltN0lIYkNNN2dCRngwM0gzY0RMT000MnhoNndNZU82NmFmajlhWDBUclFpV3EtbtIBZkFVX3lxTFBIMlZJSVBWbGNyb3pkZ2w5X1dPZTRZQ0hqeU56blBTbnV4eHkxN1ZtbVdjWGlNdHNuNERrMWoxajEtNkJPeDBGbXJKV1h2SFg2N2lDaEZDcUlWXzhUOVR6eFJQVHJ4UQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -183,6 +221,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "f1a46843a122",
+      "title": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道",
+      "published": "2026-08-28T07:00:00+00:00",
+      "summary": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道&nbsp;&nbsp;ELLE",
+      "sources": [
+        {
+          "name": "ELLE",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0xZYTg2WThhNWpPd1g2Ni1WU1VoOE1Qbi1xaG9EY0lGcklsLXlDYy16OVphX1VmRVFpalljSHROSWl2M1pXRk5vcUo5em13am1jVGN3dl9ad3VCc0NEREgtMnNHdnBKODNxZUFrVnp2cml0Z3ZFUnR3R3RfX2dnT3dKdlY5ajNOZDlR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "1c25ba3d2c35",
@@ -431,31 +494,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "f1a46843a122",
-      "title": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道",
-      "published": "2026-08-27T07:00:00+00:00",
-      "summary": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道&nbsp;&nbsp;ELLE",
-      "sources": [
-        {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0xZYTg2WThhNWpPd1g2Ni1WU1VoOE1Qbi1xaG9EY0lGcklsLXlDYy16OVphX1VmRVFpalljSHROSWl2M1pXRk5vcUo5em13am1jVGN3dl9ad3VCc0NEREgtMnNHdnBKODNxZUFrVnp2cml0Z3ZFUnR3R3RfX2dnT3dKdlY5ajNOZDlR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "e868a56ed689",
@@ -1236,19 +1274,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "4689e981036b",
-      "title": "全脂乳品一定比較不健康？加拿大研究：每天3份、持續12週未見體重與膽固醇明顯上升 - 食力 foodNEXT",
-      "published": "2026-08-23T16:00:40+00:00",
-      "summary": "全脂乳品一定比較不健康？加拿大研究：每天3份、持續12週未見體重與膽固醇明顯上升&nbsp;&nbsp;食力 foodNEXT",
-      "sources": [
-        {
-          "name": "食力 foodNEXT",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KRGhGTWJfN0NvMWFueHNFUGphUGpZVUE1SzQ2cnVydkRtZFZEckxiOFI5Q2hkLUwyTk1WR1hadFRSbndGU3BqektfdGhIN2ViVWZUc1pKSGtqVE5uTDduYTU1TDQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-30T14:07:16.808756+00:00",
-  "count": 49,
+  "fetched_at": "2026-08-30T18:16:53.601682+00:00",
+  "count": 50,
   "news": [
     {
-      "id": "8a682ce6f51f",
-      "title": "男突長「白斑」散布全身 連頭髮也變白 醫揭成因 - 中時新聞網",
-      "published": "2026-08-30T11:00:25+00:00",
-      "summary": "男突長「白斑」散布全身 連頭髮也變白 醫揭成因&nbsp;&nbsp;中時新聞網",
+      "id": "56bd49a8032a",
+      "title": "7種錯誤生活習慣 可能會損害你的心臟健康 - 新唐人電視台",
+      "published": "2026-08-30T13:12:12+00:00",
+      "summary": "7種錯誤生活習慣 可能會損害你的心臟健康&nbsp;&nbsp;新唐人電視台",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rRjVDSVBtVnpjZEliYkdJbVRycGxSZVlMdGRaV3FGYzUxTjRnQ0UzSmNjaTZTM3VOYWt0Vm9oX1c2TzJQV0RvX0Roc3dEUndsbURaVzV0TkE5MXc1R0FucnFCUm9ubXVRUWNDdnVn?oc=5"
+          "name": "新唐人電視台",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5cjJiUHhWU0psOHJKckZTMmxGdFZwQW1Ock1pSGhJUnQtUWxoenEta0ltN0lIYkNNN2dCRngwM0gzY0RMT000MnhoNndNZU82NmFmajlhWDBUclFpV3EtbtIBZkFVX3lxTFBIMlZJSVBWbGNyb3pkZ2w5X1dPZTRZQ0hqeU56blBTbnV4eHkxN1ZtbVdjWGlNdHNuNERrMWoxajEtNkJPeDBGbXJKV1h2SFg2N2lDaEZDcUlWXzhUOVR6eFJQVHJ4UQ?oc=5"
         }
       ]
     },
@@ -88,6 +88,18 @@
       ]
     },
     {
+      "id": "fb799d70af4d",
+      "title": "40歲女性如何維持骨骼強健？骨科專家推薦的必做運動指南及日常習慣 - Vogue Taiwan",
+      "published": "2026-08-26T09:36:08+00:00",
+      "summary": "40歲女性如何維持骨骼強健？骨科專家推薦的必做運動指南及日常習慣&nbsp;&nbsp;Vogue Taiwan",
+      "sources": [
+        {
+          "name": "Vogue Taiwan",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSHVtY3Mxd2xOV1pHZzdOOW03elcwR05neUNYMVprdHRpLXJaNUx6czlJR05fYlRkQVRlQ0pKZmRVVkpDY1prN0oxSWc2T1psTHZhaEx0ME5rUkM3VngxekE0NFFoVzRjbVB6aGE0dUxXbmZsSUlEODBPRmR0Z1dwWVZlSXpQTm9XRFpROEdB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9ef7a8ed1211",
       "title": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略 | 科技新報 - LINE TODAY",
       "published": "2026-08-29T18:21:16+00:00",
@@ -112,14 +124,14 @@
       ]
     },
     {
-      "id": "fb799d70af4d",
-      "title": "40歲女性如何維持骨骼強健？骨科專家推薦的必做運動指南及日常習慣 - Vogue Taiwan",
-      "published": "2026-08-26T09:36:08+00:00",
-      "summary": "40歲女性如何維持骨骼強健？骨科專家推薦的必做運動指南及日常習慣&nbsp;&nbsp;Vogue Taiwan",
+      "id": "a8608abfacf9",
+      "title": "改善腸胃健康的8款「最佳早餐」推薦！告別消化不良，從每日第一餐養出好膚質與免疫力 - Vogue Taiwan",
+      "published": "2026-08-25T09:13:48+00:00",
+      "summary": "改善腸胃健康的8款「最佳早餐」推薦！告別消化不良，從每日第一餐養出好膚質與免疫力&nbsp;&nbsp;Vogue Taiwan",
       "sources": [
         {
           "name": "Vogue Taiwan",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSHVtY3Mxd2xOV1pHZzdOOW03elcwR05neUNYMVprdHRpLXJaNUx6czlJR05fYlRkQVRlQ0pKZmRVVkpDY1prN0oxSWc2T1psTHZhaEx0ME5rUkM3VngxekE0NFFoVzRjbVB6aGE0dUxXbmZsSUlEODBPRmR0Z1dwWVZlSXpQTm9XRFpROEdB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zOUpCT2RYSE5GOHZhOUZ3QjlLX0JXbm45Y0tteFU1d0pXV2dQOUNSbk43VkdYWHRKSGJxd3RlalR0Qmg5ckE2RkFEal9oZU9ZamJUT3p1UjF6ZVo5RXhWbi1NY2F5QktRYlN5MlNPaXc?oc=5"
         }
       ]
     },
@@ -136,14 +148,14 @@
       ]
     },
     {
-      "id": "a8608abfacf9",
-      "title": "改善腸胃健康的8款「最佳早餐」推薦！告別消化不良，從每日第一餐養出好膚質與免疫力 - Vogue Taiwan",
-      "published": "2026-08-25T09:13:48+00:00",
-      "summary": "改善腸胃健康的8款「最佳早餐」推薦！告別消化不良，從每日第一餐養出好膚質與免疫力&nbsp;&nbsp;Vogue Taiwan",
+      "id": "f8c468e46439",
+      "title": "跟專家這樣運動能防癌 快快學起來 - 大纪元",
+      "published": "2026-08-30T15:00:00+00:00",
+      "summary": "跟專家這樣運動能防癌 快快學起來&nbsp;&nbsp;大纪元",
       "sources": [
         {
-          "name": "Vogue Taiwan",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zOUpCT2RYSE5GOHZhOUZ3QjlLX0JXbm45Y0tteFU1d0pXV2dQOUNSbk43VkdYWHRKSGJxd3RlalR0Qmg5ckE2RkFEal9oZU9ZamJUT3p1UjF6ZVo5RXhWbi1NY2F5QktRYlN5MlNPaXc?oc=5"
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HemlHMFNjNGZIcWlJd3FzN3c1aS1kYkF0Z3ptTXdIZjlPeHdRdWRTZGY1WHowNmVPWExZX0ctYU9iNzF5UHBJdnlyNmJROWRqZUszRkN3SkpmSXhVUWI0SNIBZkFVX3lxTE1OY1QxZDRmLThKTXR6cDZkWGxMMHdOY1dpaVZ1ejdhYWpTcG50WDlzMmJDMFc0YTU0SE9BX1FfbTQxcTdKalJjb2FldVZxeUVHaXVRaklManhKbUVocGpCVlJmUnpXdw?oc=5"
         }
       ]
     },
@@ -186,7 +198,7 @@
     {
       "id": "f1a46843a122",
       "title": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道 - ELLE",
-      "published": "2026-08-27T07:00:00+00:00",
+      "published": "2026-08-28T07:00:00+00:00",
       "summary": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道&nbsp;&nbsp;ELLE",
       "sources": [
         {
@@ -280,18 +292,6 @@
       ]
     },
     {
-      "id": "1eb304a6d909",
-      "title": "糖尿病恐傷血管 薑黃素不只抗發炎「還有望提供保護」 - 科技島",
-      "published": "2026-08-27T03:57:24+00:00",
-      "summary": "糖尿病恐傷血管 薑黃素不只抗發炎「還有望提供保護」&nbsp;&nbsp;科技島",
-      "sources": [
-        {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZOFRZcjVmWVFuc1VWYlNfWkU3THFCeWFMSEhodHJLMURaRlNDbGJta0tpdTNpY1lWckE2cldaS284QlRTVmdOOEFBeVJHV1haXzQtaUV6THJPY2FOdmxN?oc=5"
-        }
-      ]
-    },
-    {
       "id": "45f04de0d2f9",
       "title": "大腦老化新線索，血液免疫細胞竟會「闖入」大腦 - TechNews 科技新報",
       "published": "2026-08-26T00:31:27+00:00",
@@ -300,6 +300,18 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMERXXzdtaFBlQUwwWHlMd01UTXROdU1sVGJpTmkzQkJNYURibFZaS1E2ckt4SGtMd2lHWENNYThvMHhfc2xDdy1PdGpLcUQ3UjJWcnNHU28xNmJqeHlXNmowYmFEdUhWVnNpZ0JSelp5YTV3dHdOT3lkbzZleHVjOVoxOVdyVTdMVHozSGM3NWlJcU8zdXFmdE9RMWhKZWFnU3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1eb304a6d909",
+      "title": "糖尿病恐傷血管 薑黃素不只抗發炎「還有望提供保護」 - 科技島",
+      "published": "2026-08-27T03:57:24+00:00",
+      "summary": "糖尿病恐傷血管 薑黃素不只抗發炎「還有望提供保護」&nbsp;&nbsp;科技島",
+      "sources": [
+        {
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZOFRZcjVmWVFuc1VWYlNfWkU3THFCeWFMSEhodHJLMURaRlNDbGJta0tpdTNpY1lWckE2cldaS284QlRTVmdOOEFBeVJHV1haXzQtaUV6THJPY2FOdmxN?oc=5"
         }
       ]
     },
@@ -388,18 +400,6 @@
       ]
     },
     {
-      "id": "4689e981036b",
-      "title": "全脂乳品一定比較不健康？加拿大研究：每天3份、持續12週未見體重與膽固醇明顯上升 - 食力 foodNEXT",
-      "published": "2026-08-23T16:00:40+00:00",
-      "summary": "全脂乳品一定比較不健康？加拿大研究：每天3份、持續12週未見體重與膽固醇明顯上升&nbsp;&nbsp;食力 foodNEXT",
-      "sources": [
-        {
-          "name": "食力 foodNEXT",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KRGhGTWJfN0NvMWFueHNFUGphUGpZVUE1SzQ2cnVydkRtZFZEckxiOFI5Q2hkLUwyTk1WR1hadFRSbndGU3BqektfdGhIN2ViVWZUc1pKSGtqVE5uTDduYTU1TDQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c65c758b44fa",
       "title": "他汀藥到底有幾「毒」？常傳多副作用 研究揭真相 - 信報網站",
       "published": "2026-08-26T18:53:56+00:00",
@@ -408,6 +408,18 @@
         {
           "name": "信報網站",
           "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQdTJnbEs5UnNNR3hndFFfZ3RuZlNod0VFams3ZGZxZlNQdWY3OTk3bURuenFYVTRsUVRRdF9veUhDeXNFSlJPcUJQRHRjdjY3alJWUEdXN3NRSndTdHJtbjFlMEU0LVF0eXBfQ0hzVEJaN1h2TmFwNDFLQ2RvSmVVM3BWRXpLOC1zTzVJZmdYeFVLRHo0dUQwYTd3UF9fd2VZUUVFRTlVaXZqYWprRXBkeFRWSEwwejBnMGVRNDFoZzh4cHVndDV5eU13d2thLW9FekQ5bk1ONmhuMHZIc2RzR1lZQkFLZThtS2x1eHktOXFuVTAxOS1YV0d0eko3dDI2enI0bGJXaUprMmVaaHE1aTdsZHh2NHc0S09NWkx4T21DdzQyV25WYXVlV3pONnF1S29lc1lxb29EWEdmemhxdjBmSDhDRjA2eXRsMjJ5UG1NSHV3dTdBbmZjN1FzTW0wcWxnM0pYQ0VWRjU1U0NiWUE2YUtLcUlMQmk0dFNYRWx0UmtiamdXWmZGR1Nrd0x4Skc3dF9taU5PZm5UR2JGcVFRRjYybGtoSEo2V3lRZWxBRVZLSVNaSkxxM3NJNWVPVUZoSUd3S09tZVk0QW9qX3FpTlFHRm1qUmxwc21tM2tWM1k2cm1j?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "75464a2144e0",
+      "title": "《阿茲海默症》阿茲海默症致病蛋白質恐經輸血傳播？英國專家籲防患未然，加緊研發輸血致病蛋白質篩檢技術 - genetinfo.com",
+      "published": "2026-08-30T16:30:15+00:00",
+      "summary": "《阿茲海默症》阿茲海默症致病蛋白質恐經輸血傳播？英國專家籲防患未然，加緊研發輸血致病蛋白質篩檢技術&nbsp;&nbsp;genetinfo.com",
+      "sources": [
+        {
+          "name": "genetinfo.com",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XRGU5VHRsUE0tRjhBb1E0MXppUE5kVV9EcnZqOUdrbFdfV0wtNXlldlBJWHl4UktvVmhUSDhWYnB1emxxN2xja1dWZWhONVhxYzJ6YmVoRHlUMFdqT0gyTGxrNzhZQU9EQmpfUg?oc=5"
         }
       ]
     },
