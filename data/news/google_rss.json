@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-30T02:35:55.424773+00:00",
+  "fetched_at": "2026-08-30T08:43:11.484969+00:00",
   "count": 49,
   "news": [
+    {
+      "id": "8d03644b3593",
+      "title": "天氣熱吃不下醫激推3高營養密度食物：牛肉掃倦怠- 健康 - 中時新聞網",
+      "published": "2026-08-30T06:27:20+00:00",
+      "summary": "天氣熱吃不下醫激推3高營養密度食物：牛肉掃倦怠- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RTzU5cHFfdk9YNURjMmNnNndXUlJnekhkYVZDSUx6ZWdFVjNSeXZkU2VhZWF0eDhNelJaTVBxZEVhaWRPRmtXdHRCUGpEQS0wVVcwOFQ5Q0I3X0lGV1VqTmRQN1pVdE9Ob1lGYWxB?oc=5"
+        }
+      ]
+    },
     {
       "id": "01314e38140a",
       "title": "醫學生過度依賴AI恐變「腦袋空空」？史丹佛專家警示： 臨床推理能力面臨退化危機 - T客邦",
@@ -12,6 +24,18 @@
         {
           "name": "T客邦",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYk1JaWQwWngtY3JVSWhSZEpoRnFjczlqdDFRUE5qRmFKR0RuSTZWSE9oYnNyVGVsOWxFZlItcThBdVhheDVxN3VhblJYcWZEcFRBRlRyVHZROVI4blgza01Nd3BndUhMaWZ3N1FRNmtyR0V6TEN2QlNMcG1BRHROb0w4ZmN5R0NMOUp0WnFNNUZkYTZQcGN2bGxDTFFNZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "97b00b33adee",
+      "title": "健康網》適當射精 降死亡風險！網紅醫：射精幫腦抗衰老 - 自由健康網",
+      "published": "2026-08-29T13:20:00+00:00",
+      "summary": "健康網》適當射精 降死亡風險！網紅醫：射精幫腦抗衰老&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HbGpSSVJ4dFVlSlZiOFlDWXVFeDAzY0JNSXdtZ3V3Ymtoa2NhN1dtQmxhQ2prUldqOHFuRGdXZnJPYnFuTmRBc0xsSzRaX0tfYnk4OHRua2NXamxsMzg1OUFFSXQ?oc=5"
         }
       ]
     },
@@ -40,18 +64,6 @@
       ]
     },
     {
-      "id": "97b00b33adee",
-      "title": "健康網》適當射精 降死亡風險！網紅醫：射精幫腦抗衰老 - 自由健康網",
-      "published": "2026-08-29T13:20:00+00:00",
-      "summary": "健康網》適當射精 降死亡風險！網紅醫：射精幫腦抗衰老&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HbGpSSVJ4dFVlSlZiOFlDWXVFeDAzY0JNSXdtZ3V3Ymtoa2NhN1dtQmxhQ2prUldqOHFuRGdXZnJPYnFuTmRBc0xsSzRaX0tfYnk4OHRua2NXamxsMzg1OUFFSXQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1c25ba3d2c35",
       "title": "改善50歲後代謝停滯！專家公開10大「促進新陳代謝」必吃清單，養出健康好體質 - Vogue Taiwan",
       "published": "2026-08-28T00:00:00+00:00",
@@ -66,7 +78,7 @@
     {
       "id": "9ef7a8ed1211",
       "title": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略 | 科技新報 - LINE TODAY",
-      "published": "2026-08-29T15:57:21+00:00",
+      "published": "2026-08-29T15:21:16+00:00",
       "summary": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -102,7 +114,7 @@
     {
       "id": "433efa8460fe",
       "title": "不同種類蚊愛叮不同的人 新研究揭「氣味密碼」 - 新唐人電視台",
-      "published": "2026-08-29T02:29:44+00:00",
+      "published": "2026-08-29T08:48:00+00:00",
       "summary": "不同種類蚊愛叮不同的人 新研究揭「氣味密碼」&nbsp;&nbsp;新唐人電視台",
       "sources": [
         {
@@ -124,18 +136,6 @@
       ]
     },
     {
-      "id": "58a869adacc8",
-      "title": "生酮、地中海、素食減重效果相同研究揭脂肪肝糖尿病最佳選項- 國際 - 工商時報",
-      "published": "2026-08-28T13:50:00+00:00",
-      "summary": "生酮、地中海、素食減重效果相同研究揭脂肪肝糖尿病最佳選項- 國際&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KQWFOU1NPbzJJVW1VTW12MWQ3d2g0eExWbmhtV3pXTTFFdEV1b00tb3Y1Y1p2RXU2MTZlM09MTk1GVVRKbk13VjhUV05UTExzRVZJaWVSd2VBdHhPRk1J?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a8608abfacf9",
       "title": "改善腸胃健康的8款「最佳早餐」推薦！告別消化不良，從每日第一餐養出好膚質與免疫力 - Vogue Taiwan",
       "published": "2026-08-25T09:13:48+00:00",
@@ -144,6 +144,18 @@
         {
           "name": "Vogue Taiwan",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zOUpCT2RYSE5GOHZhOUZ3QjlLX0JXbm45Y0tteFU1d0pXV2dQOUNSbk43VkdYWHRKSGJxd3RlalR0Qmg5ckE2RkFEal9oZU9ZamJUT3p1UjF6ZVo5RXhWbi1NY2F5QktRYlN5MlNPaXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "58a869adacc8",
+      "title": "生酮、地中海、素食減重效果相同研究揭脂肪肝糖尿病最佳選項- 國際 - 工商時報",
+      "published": "2026-08-28T13:50:00+00:00",
+      "summary": "生酮、地中海、素食減重效果相同研究揭脂肪肝糖尿病最佳選項- 國際&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KQWFOU1NPbzJJVW1VTW12MWQ3d2g0eExWbmhtV3pXTTFFdEV1b00tb3Y1Y1p2RXU2MTZlM09MTk1GVVRKbk13VjhUV05UTExzRVZJaWVSd2VBdHhPRk1J?oc=5"
         }
       ]
     },
@@ -220,26 +232,14 @@
       ]
     },
     {
-      "id": "58c90a436e06",
-      "title": "衞健委籲接種流感疫苗 防護流感最經濟有效 - on.cc東網",
-      "published": "2026-08-23T04:04:44+00:00",
-      "summary": "衞健委籲接種流感疫苗 防護流感最經濟有效&nbsp;&nbsp;on.cc東網",
+      "id": "765b976560eb",
+      "title": "頭骨裡竟藏「免疫軍隊」！研究發現防線一弱 腦腫瘤就變兇 - 自由健康網",
+      "published": "2026-08-27T09:56:00+00:00",
+      "summary": "頭骨裡竟藏「免疫軍隊」！研究發現防線一弱 腦腫瘤就變兇&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "on.cc東網",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVzlTU0lwaHlBaElKa042Q3JuY0FObnBMV2xuTUpTTHg1bUhmUTZzbjExSDNmTUhRZEdyWUlMVmhLLXd5LXNmcnR2aWxIT2VhTE1jSzFWN3lKX0x6eWU0M2pXV29xSllkeWYtdy1BTXdSWlF2Mko2N3Rjc1JES3dTRDZXZGhRNDRhNWo0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7daa21549dab",
-      "title": "大腦與免疫系統隔絕——但顱骨骨髓另有打算– 馬丁西德雜誌 - Martin Cid Magazine",
-      "published": "2026-08-23T09:34:02+00:00",
-      "summary": "大腦與免疫系統隔絕——但顱骨骨髓另有打算– 馬丁西德雜誌&nbsp;&nbsp;Martin Cid Magazine",
-      "sources": [
-        {
-          "name": "Martin Cid Magazine",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQlJSZEZwc1RDWHFPVzFXaDRXb1V0ZVpmQktjOGlLbTFaYXJlTXpzUUs4Q2J0dGZvbmRrOUtubVVzZGlLN3hiT25XTnZ1eVdna0FZS0w5N1lLdXdpanBNMDN2RTRJbFhIdGN5VnhLS1pGUk9wenlTdGFOTElnWlBqRTJKd2tiMEJQTXNWdWxTRzZQOGZ6d0E?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dVpYSU00Vnpfcmd6UktfR19xQm5LSlR4MmNFX2RSX3p5eVRPUGNhb09vSmR3b3dnMXB5N19RSnpUNm5YcnRCbmtfckJQMWhzaThxNnljSnM3UVlyNTBoX0l3U2g?oc=5"
         }
       ]
     },
@@ -292,14 +292,14 @@
       ]
     },
     {
-      "id": "90df24535567",
-      "title": "嬰兒期少吃糖 50歲前罹癌風險低34％！這個時間點很關鍵 - 自由健康網",
-      "published": "2026-08-25T07:35:00+00:00",
-      "summary": "嬰兒期少吃糖 50歲前罹癌風險低34％！這個時間點很關鍵&nbsp;&nbsp;自由健康網",
+      "id": "d604f08cad17",
+      "title": "嬰兒期少吃糖 50歲前罹癌風險低34％！這個時間點很關鍵 - soundofhope.org",
+      "published": "2026-08-25T21:33:52+00:00",
+      "summary": "嬰兒期少吃糖 50歲前罹癌風險低34％！這個時間點很關鍵&nbsp;&nbsp;soundofhope.org",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wMU1qMk5PYmNJc2UtcGN1SEZLRnBUSm15TXc4S3kxdko2ME02bmVCRkVYaG92TWpIRlhvZDh6SlFBRXd3MFNyRjRtbmNaUFdHYWhveWl0U0NUZW54REV0UGhPbmM?oc=5"
+          "name": "soundofhope.org",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96Ui1DRUhOZjFZZ3A3T01LNzQ3anN2UVUxTXBJM1RtZW96MGNZclQ4WXE0d3lQc3RxcHlsS0FidG1KNUc5dHpUWGZFcjRkYUt5TUZQbnZ5MC05WUE?oc=5"
         }
       ]
     },
@@ -312,18 +312,6 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lbkd4ZnFmX2dFblhIWUdVQUJxaE5Ja1Y4RVE5YzZ5LWZTRC1SQkp5UmpZUTM5bEJneWVRRlRvb2xWZXk0aW16NjRNM1AzMGpKSEZVV0tR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e7a0245bc28b",
-      "title": "赴泰注意！曼谷登革熱確診突破1700宗官方籲出現症狀速就醫勿自行用藥- 國際 - 點新聞",
-      "published": "2026-08-28T07:05:01+00:00",
-      "summary": "赴泰注意！曼谷登革熱確診突破1700宗官方籲出現症狀速就醫勿自行用藥- 國際&nbsp;&nbsp;點新聞",
-      "sources": [
-        {
-          "name": "點新聞",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrajZvLVhGTEpxOEFBZmpYMU1meDNRRkplN2NOeHYxTmtPa25nVGdIbGpWOEE5Uk1qQUtGUUQ2X1FMUUdmQW56WHcwVHg2U081anpnZFNta19rakJ5NTFNZGk5UmliVktibXV4MWRSUWhiVnJfNFVtZFFB?oc=5"
         }
       ]
     },
@@ -348,6 +336,18 @@
         {
           "name": "健康醫療網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tYlZGbVphSTdYbllpdGxXUXhDdXNhOHktY2t3NmVzVFlKcGF1bmVXWjY0d3JrN1dLempFUGltQTB4dnpYU0ktQU9PMmdiR3pscVZvVC13?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2dfdcdd3554e",
+      "title": "泰國旅遊注意！登革熱升溫 曼谷淪重災區，當局：有症狀勿自行買藥 - Vision Thai 看見泰國",
+      "published": "2026-08-27T09:25:24+00:00",
+      "summary": "泰國旅遊注意！登革熱升溫 曼谷淪重災區，當局：有症狀勿自行買藥&nbsp;&nbsp;Vision Thai 看見泰國",
+      "sources": [
+        {
+          "name": "Vision Thai 看見泰國",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yM2N3NmVlZHhTQ0NzRlc3a0ZuU2N3MVphYXJYYWN0Vm0tUWV6emMwaVNVYVVuYnFla21zc0pLX3VzTEZfWENNbFpJZlRVRzR0bEl5aTIzX3J3Z1BNTHA1V1RUZ2FxNkFVd2w2encwVmhndw?oc=5"
         }
       ]
     },
@@ -379,7 +379,7 @@
       "id": "40d6f2d12fba",
       "title": "長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命 | TVBS - LINE TODAY",
       "published": "2026-08-24T07:42:15+00:00",
-      "summary": "長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命 | TVBS&nbsp;&nbsp;LINE TODAY吃太油恐改變腸道菌！「膽汁酸」恐影響體內免疫環境抗癌&nbsp;&nbsp;Yahoo新聞抗癌飲食講求平衡 盲目「去油」恐脂不抵債 - 20260824 - 圖片看世界&nbsp;&nbsp;明報新聞網抗癌飲食講求平衡 盲目「去油」恐脂不抵債 - 20260824 - 副刊&nbsp;&nbsp;明報新聞網",
+      "summary": "長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命 | TVBS&nbsp;&nbsp;LINE TODAY養生／高油高糖低纖維飲食 大腸癌機率增&nbsp;&nbsp;世界新聞網長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命&nbsp;&nbsp;TVBS新聞網抗癌飲食講求平衡 盲目「去油」恐脂不抵債 - 20260824 - 圖片看世界&nbsp;&nbsp;明報新聞網吃太油恐改變腸道菌！「膽汁酸」恐影響體內免疫環境抗癌&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
           "name": "LINE TODAY",
@@ -439,7 +439,7 @@
       "id": "59e6233dfccd",
       "title": "🎙️陽性蚊群激增、罕見病毒現身 紐約防蚊更要防蜱蟲 - 世界新聞網",
       "published": "2026-08-25T13:00:19+00:00",
-      "summary": "🎙️陽性蚊群激增、罕見病毒現身 紐約防蚊更要防蜱蟲&nbsp;&nbsp;世界新聞網洛縣西尼羅病毒首例亡 加州疫情5年來最嚴峻&nbsp;&nbsp;世界新聞網",
+      "summary": "🎙️陽性蚊群激增、罕見病毒現身 紐約防蚊更要防蜱蟲&nbsp;&nbsp;世界新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "世界新聞網",

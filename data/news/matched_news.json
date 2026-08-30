@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-08-30T02:35:57.373371+00:00",
+  "last_updated": "2026-08-30T08:43:13.111567+00:00",
   "total_count": 49,
-  "matched_count": 10,
+  "matched_count": 12,
   "news": [
+    {
+      "id": "8d03644b3593",
+      "title": "天氣熱吃不下醫激推3高營養密度食物：牛肉掃倦怠- 健康",
+      "published": "2026-08-30T06:27:20+00:00",
+      "summary": "天氣熱吃不下醫激推3高營養密度食物：牛肉掃倦怠- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RTzU5cHFfdk9YNURjMmNnNndXUlJnekhkYVZDSUx6ZWdFVjNSeXZkU2VhZWF0eDhNelJaTVBxZEVhaWRPRmtXdHRCUGpEQS0wVVcwOFQ5Q0I3X0lGV1VqTmRQN1pVdE9Ob1lGYWxB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "01314e38140a",
       "title": "醫學生過度依賴AI恐變「腦袋空空」？史丹佛專家警示： 臨床推理能力面臨退化危機",
@@ -70,7 +83,7 @@
     {
       "id": "9ef7a8ed1211",
       "title": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略 | 科技新報 - LINE TODAY",
-      "published": "2026-08-29T15:57:21+00:00",
+      "published": "2026-08-29T15:21:16+00:00",
       "summary": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -94,6 +107,19 @@
       "matched_keywords": []
     },
     {
+      "id": "433efa8460fe",
+      "title": "不同種類蚊愛叮不同的人 新研究揭「氣味密碼」",
+      "published": "2026-08-29T08:48:00+00:00",
+      "summary": "不同種類蚊愛叮不同的人 新研究揭「氣味密碼」&nbsp;&nbsp;新唐人電視台",
+      "sources": [
+        {
+          "name": "新唐人電視台",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yQWF4cmRpTVkwWGZ5blFWVzhFMFlZMXZ5MkVJV3JQaks2bm9jdUdydWY3UE1xNUk3Q2tnY1dUVEdXQjZaZUwyRW1TWUcwbjZjUXYwU09NbFM1MzA5c0ltVdIBZkFVX3lxTE1JeUJnMmJBWks5OHZVSjJiU1lGb1NvNGtVRWtYVjZ0cUc4cDZFQTNCSlNadUpiRzk3UzJ5WUEwNHFQcHc2TzZ2UlBEOHJfVGFneDNQOWFRTWw0blJHR2gycmNoRUJKQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "ed2997eb94ff",
       "title": "人類演化不只靠吃肉！研究：水果與蜂蜜中的糖可能供應逾25％飲食能量 - 食力 foodNEXT",
       "published": "2026-08-29T06:00:16+00:00",
@@ -102,19 +128,6 @@
         {
           "name": "食力 foodNEXT",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LYjV0LXVnSEpXS0pRTGVIXzlHdXlhVHJNOGJxdENGcE1HRUE4RUhqTjVseGNwUkZES0Jkc3RKNUZLLWs0ckYtdk4zczFQR2pvUGY4Vi1sNWNOcngwcFF0RVZSV1duVkFuelQ0?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "433efa8460fe",
-      "title": "不同種類蚊愛叮不同的人 新研究揭「氣味密碼」",
-      "published": "2026-08-29T02:29:44+00:00",
-      "summary": "不同種類蚊愛叮不同的人 新研究揭「氣味密碼」&nbsp;&nbsp;新唐人電視台",
-      "sources": [
-        {
-          "name": "新唐人電視台",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yQWF4cmRpTVkwWGZ5blFWVzhFMFlZMXZ5MkVJV3JQaks2bm9jdUdydWY3UE1xNUk3Q2tnY1dUVEdXQjZaZUwyRW1TWUcwbjZjUXYwU09NbFM1MzA5c0ltVdIBZkFVX3lxTE1JeUJnMmJBWks5OHZVSjJiU1lGb1NvNGtVRWtYVjZ0cUc4cDZFQTNCSlNadUpiRzk3UzJ5WUEwNHFQcHc2TzZ2UlBEOHJfVGFneDNQOWFRTWw0blJHR2gycmNoRUJKQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -159,19 +172,6 @@
       "matched_keywords": []
     },
     {
-      "id": "e7a0245bc28b",
-      "title": "赴泰注意！曼谷登革熱確診突破1700宗官方籲出現症狀速就醫勿自行用藥- 國際",
-      "published": "2026-08-28T07:05:01+00:00",
-      "summary": "赴泰注意！曼谷登革熱確診突破1700宗官方籲出現症狀速就醫勿自行用藥- 國際&nbsp;&nbsp;點新聞",
-      "sources": [
-        {
-          "name": "點新聞",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrajZvLVhGTEpxOEFBZmpYMU1meDNRRkplN2NOeHYxTmtPa25nVGdIbGpWOEE5Uk1qQUtGUUQ2X1FMUUdmQW56WHcwVHg2U081anpnZFNta19rakJ5NTFNZGk5UmliVktibXV4MWRSUWhiVnJfNFVtZFFB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "1c25ba3d2c35",
       "title": "改善50歲後代謝停滯！專家公開10大「促進新陳代謝」必吃清單，養出健康好體質 - Vogue Taiwan",
       "published": "2026-08-28T00:00:00+00:00",
@@ -193,6 +193,228 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNZnhQT3VzZnY1ZE9QMlZPQUtzMVZUdjRqXzlXeVN6WFlSb3loSDRiT0tkUUZSQzg1SUtQNHU1Tm5YZmRpLVQ3TkZXemZBODZhMVRYTER4UXJMZFp1WmpvSXptTzdtcEFZWXI3WUxLNG5rbkhwZC1wQ2Z0Xy04ekEyUmdlRzIyZ0RnV2oxd09lYi1hTEJnaXV2MFVQLVZRWjBOOTFNUXBUdFNBQ3RnanYxQmpkQjdjdk9YTzZDZHZYRUhuTWp2bEdjdWRPQU1ybmVmUzhmMkduU1Naa25iSV9QczJ0NWprdWhodkRJa2ZsWENnNGZudlZ2YTR3ampjaVRwd2EzMXhURHRna3puMGZ0MmZ3UjdSZkZhUkxETXZsemdDMkdrMmx6bHFqbDJJRURXcTRPUERtOFNKa2QzbXZBUGc4VDgxb3ZzMDM2eHJYSDF1dUFMWXdOYlltXzZVbjU5UnBFOTFOaHBOclNUODFzX29lMWRNX01HUmtvRll0M05KZ2lSYy1zcm5HQV9zWXBtaGs4dHM1NEpRLXg0ZG9yRFh3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "765b976560eb",
+      "title": "頭骨裡竟藏「免疫軍隊」！研究發現防線一弱 腦腫瘤就變兇",
+      "published": "2026-08-27T09:56:00+00:00",
+      "summary": "頭骨裡竟藏「免疫軍隊」！研究發現防線一弱 腦腫瘤就變兇&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dVpYSU00Vnpfcmd6UktfR19xQm5LSlR4MmNFX2RSX3p5eVRPUGNhb09vSmR3b3dnMXB5N19RSnpUNm5YcnRCbmtfckJQMWhzaThxNnljSnM3UVlyNTBoX0l3U2g?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "腫瘤",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2dfdcdd3554e",
+      "title": "泰國旅遊注意！登革熱升溫 曼谷淪重災區，當局：有症狀勿自行買藥 - Vision Thai 看見泰國",
+      "published": "2026-08-27T09:25:24+00:00",
+      "summary": "泰國旅遊注意！登革熱升溫 曼谷淪重災區，當局：有症狀勿自行買藥&nbsp;&nbsp;Vision Thai 看見泰國",
+      "sources": [
+        {
+          "name": "Vision Thai 看見泰國",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yM2N3NmVlZHhTQ0NzRlc3a0ZuU2N3MVphYXJYYWN0Vm0tUWV6emMwaVNVYVVuYnFla21zc0pLX3VzTEZfWENNbFpJZlRVRzR0bEl5aTIzX3J3Z1BNTHA1V1RUZ2FxNkFVd2w2encwVmhndw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -523,6 +745,19 @@
       "matched_keywords": []
     },
     {
+      "id": "d604f08cad17",
+      "title": "嬰兒期少吃糖 50歲前罹癌風險低34％！這個時間點很關鍵",
+      "published": "2026-08-25T21:33:52+00:00",
+      "summary": "嬰兒期少吃糖 50歲前罹癌風險低34％！這個時間點很關鍵&nbsp;&nbsp;soundofhope.org",
+      "sources": [
+        {
+          "name": "soundofhope.org",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96Ui1DRUhOZjFZZ3A3T01LNzQ3anN2UVUxTXBJM1RtZW96MGNZclQ4WXE0d3lQc3RxcHlsS0FidG1KNUc5dHpUWGZFcjRkYUt5TUZQbnZ5MC05WUE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "a068f9e54014",
       "title": "桑拿7大驚人好處 每週4次 研究：中風率降61%",
       "published": "2026-08-25T19:00:00+00:00",
@@ -605,7 +840,7 @@
       "id": "59e6233dfccd",
       "title": "🎙️陽性蚊群激增、罕見病毒現身 紐約防蚊更要防蜱蟲",
       "published": "2026-08-25T13:00:19+00:00",
-      "summary": "🎙️陽性蚊群激增、罕見病毒現身 紐約防蚊更要防蜱蟲&nbsp;&nbsp;世界新聞網洛縣西尼羅病毒首例亡 加州疫情5年來最嚴峻&nbsp;&nbsp;世界新聞網",
+      "summary": "🎙️陽性蚊群激增、罕見病毒現身 紐約防蚊更要防蜱蟲&nbsp;&nbsp;世界新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "世界新聞網",
@@ -636,19 +871,6 @@
         {
           "name": "Vogue Taiwan",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zOUpCT2RYSE5GOHZhOUZ3QjlLX0JXbm45Y0tteFU1d0pXV2dQOUNSbk43VkdYWHRKSGJxd3RlalR0Qmg5ckE2RkFEal9oZU9ZamJUT3p1UjF6ZVo5RXhWbi1NY2F5QktRYlN5MlNPaXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "90df24535567",
-      "title": "嬰兒期少吃糖 50歲前罹癌風險低34％！這個時間點很關鍵",
-      "published": "2026-08-25T07:35:00+00:00",
-      "summary": "嬰兒期少吃糖 50歲前罹癌風險低34％！這個時間點很關鍵&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wMU1qMk5PYmNJc2UtcGN1SEZLRnBUSm15TXc4S3kxdko2ME02bmVCRkVYaG92TWpIRlhvZDh6SlFBRXd3MFNyRjRtbmNaUFdHYWhveWl0U0NUZW54REV0UGhPbmM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -797,14 +1019,49 @@
       "id": "40d6f2d12fba",
       "title": "長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命 | TVBS - LINE TODAY",
       "published": "2026-08-24T07:42:15+00:00",
-      "summary": "長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命 | TVBS&nbsp;&nbsp;LINE TODAY吃太油恐改變腸道菌！「膽汁酸」恐影響體內免疫環境抗癌&nbsp;&nbsp;Yahoo新聞抗癌飲食講求平衡 盲目「去油」恐脂不抵債 - 20260824 - 圖片看世界&nbsp;&nbsp;明報新聞網抗癌飲食講求平衡 盲目「去油」恐脂不抵債 - 20260824 - 副刊&nbsp;&nbsp;明報新聞網",
+      "summary": "長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命 | TVBS&nbsp;&nbsp;LINE TODAY養生／高油高糖低纖維飲食 大腸癌機率增&nbsp;&nbsp;世界新聞網長期吃太油恐削弱抗癌力！醫揭「嗜膽菌」作祟 4類食物救命&nbsp;&nbsp;TVBS新聞網抗癌飲食講求平衡 盲目「去油」恐脂不抵債 - 20260824 - 圖片看世界&nbsp;&nbsp;明報新聞網吃太油恐改變腸道菌！「膽汁酸」恐影響體內免疫環境抗癌&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QYzFpRUd4SUVTaEU2TVZ0THFVS3BRQllxeWZZb2lBRnpTUkFCNnFvN1hLQWR5MzNQQUpKeHliLVg1a2pUWm8xTEIyZE5sM28wWGs0cVdn?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "7071f8e0eec2",
@@ -1024,32 +1281,6 @@
         {
           "name": "食力 foodNEXT",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KRGhGTWJfN0NvMWFueHNFUGphUGpZVUE1SzQ2cnVydkRtZFZEckxiOFI5Q2hkLUwyTk1WR1hadFRSbndGU3BqektfdGhIN2ViVWZUc1pKSGtqVE5uTDduYTU1TDQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7daa21549dab",
-      "title": "大腦與免疫系統隔絕——但顱骨骨髓另有打算– 馬丁西德雜誌 - Martin Cid Magazine",
-      "published": "2026-08-23T09:34:02+00:00",
-      "summary": "大腦與免疫系統隔絕——但顱骨骨髓另有打算– 馬丁西德雜誌&nbsp;&nbsp;Martin Cid Magazine",
-      "sources": [
-        {
-          "name": "Martin Cid Magazine",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQlJSZEZwc1RDWHFPVzFXaDRXb1V0ZVpmQktjOGlLbTFaYXJlTXpzUUs4Q2J0dGZvbmRrOUtubVVzZGlLN3hiT25XTnZ1eVdna0FZS0w5N1lLdXdpanBNMDN2RTRJbFhIdGN5VnhLS1pGUk9wenlTdGFOTElnWlBqRTJKd2tiMEJQTXNWdWxTRzZQOGZ6d0E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "58c90a436e06",
-      "title": "衞健委籲接種流感疫苗 防護流感最經濟有效",
-      "published": "2026-08-23T04:04:44+00:00",
-      "summary": "衞健委籲接種流感疫苗 防護流感最經濟有效&nbsp;&nbsp;on.cc東網",
-      "sources": [
-        {
-          "name": "on.cc東網",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVzlTU0lwaHlBaElKa042Q3JuY0FObnBMV2xuTUpTTHg1bUhmUTZzbjExSDNmTUhRZEdyWUlMVmhLLXd5LXNmcnR2aWxIT2VhTE1jSzFWN3lKX0x6eWU0M2pXV29xSllkeWYtdy1BTXdSWlF2Mko2N3Rjc1JES3dTRDZXZGhRNDRhNWo0?oc=5"
         }
       ],
       "matched_keywords": []
