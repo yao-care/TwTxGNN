@@ -3,7 +3,7 @@ layout: default
 title: "腫瘤（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "腫瘤（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "腫瘤（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="腫瘤（generic_cancer） 有什麼相關新聞？">
-<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,21 +75,13 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [頭骨裡竟藏「免疫軍隊」！研究發現防線一弱 腦腫瘤就變兇](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dVpYSU00Vnpfcmd6UktfR19xQm5LSlR4MmNFX2RSX3p5eVRPUGNhb09vSmR3b3dnMXB5N19RSnpUNm5YcnRCbmtfckJQMWhzaThxNnljSnM3UVlyNTBoX0l3U2g?oc=5)
 
 2026-08-27
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dVpYSU00Vnpfcmd6UktfR19xQm5LSlR4MmNFX2RSX3p5eVRPUGNhb09vSmR3b3dnMXB5N19RSnpUNm5YcnRCbmtfckJQMWhzaThxNnljSnM3UVlyNTBoX0l3U2g?oc=5)
-
----
-
-### [新生兒需要癌症篩檢嗎？及早知道，真的能改變一生 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGJUdGNnWjlSblY2d1B2VEtETTAtaDVfX25EaFM2dFNMSUdIVXl0UHh3dGU0TzljSFRUbGlBSjB0UlUxQXRsOXJCVjlRS1ZQdzdzUi1ERTI3T1NBRmdVR1NrZDF1dG8tdHJ1ZmEwZWNCNGJCMi1OUWM5OWR5VzE4VVdWUGdhY291NkUxclg2azlSYUxsVFF2NGcwSE1LT2J5T1E?oc=5)
-
-2026-08-23
-
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGJUdGNnWjlSblY2d1B2VEtETTAtaDVfX25EaFM2dFNMSUdIVXl0UHh3dGU0TzljSFRUbGlBSjB0UlUxQXRsOXJCVjlRS1ZQdzdzUi1ERTI3T1NBRmdVR1NrZDF1dG8tdHJ1ZmEwZWNCNGJCMi1OUWM5OWR5VzE4VVdWUGdhY291NkUxclg2azlSYUxsVFF2NGcwSE1LT2J5T1E?oc=5)
 
 ---
 

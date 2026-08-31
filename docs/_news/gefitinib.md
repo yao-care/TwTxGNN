@@ -43,6 +43,14 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（4 則）
 
+### [《阿茲海默症》阿茲海默症致病蛋白質恐經輸血傳播？英國專家籲防患未然，加緊研發輸血致病蛋白質篩檢技術](https://news.google.com/rss/articles/CBMibEFVX3lxTE9XRGU5VHRsUE0tRjhBb1E0MXppUE5kVV9EcnZqOUdrbFdfV0wtNXlldlBJWHl4UktvVmhUSDhWYnB1emxxN2xja1dWZWhONVhxYzJ6YmVoRHlUMFdqT0gyTGxrNzhZQU9EQmpfUg?oc=5)
+
+2026-08-30 <span class="news-indication-tag">阿茲海默症</span>
+
+來源：[genetinfo.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE9XRGU5VHRsUE0tRjhBb1E0MXppUE5kVV9EcnZqOUdrbFdfV0wtNXlldlBJWHl4UktvVmhUSDhWYnB1emxxN2xja1dWZWhONVhxYzJ6YmVoRHlUMFdqT0gyTGxrNzhZQU9EQmpfUg?oc=5)
+
+---
+
 ### [AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGt2dV9MaG1aMGZUTXdZOW5QN2h5clp2aU5OUUFpc2hyVmJIVXhBbWNTXzd2N2hBeU44VExaLWNVZUNnbFJ3Zm00UElkUG9Qb0Q4VHR6VE1Bc1ctRWkzYnJOMW9HVFhSSkhtUEdwZ0thMVR0Z3dnSFN4dFV2RXZvVzNvTnVRaDNDRUFPOGVLR2c1QW5CRTM0V3lsd0ZxSXVUTGlNZzEwS2dVZHBpZEYtZzJxZEdsNmVI?oc=5)
 
 2026-08-29 <span class="news-indication-tag">阿茲海默症</span>
@@ -64,14 +72,6 @@ permalink: /news/gefitinib/
 2026-08-25 <span class="news-indication-tag">失智</span>
 
 來源：[今周刊](https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1BWOUJvRFpvWkU0OFUwaUFENjRwOXB0MTJaNmZVT1hES3J0QVVVMkp2aVZSSjlDUi02YV9TWDN4YTRfTHRXMnQzM0RaSVRmZ2hBX0RoUWpxbnM2cGt3T1ZrRi1sbkxmZW1zS1pTYkFocll5SW1FOGFrQnpHN2RGWA?oc=5)
-
----
-
-### [新生兒需要癌症篩檢嗎？及早知道，真的能改變一生 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGJUdGNnWjlSblY2d1B2VEtETTAtaDVfX25EaFM2dFNMSUdIVXl0UHh3dGU0TzljSFRUbGlBSjB0UlUxQXRsOXJCVjlRS1ZQdzdzUi1ERTI3T1NBRmdVR1NrZDF1dG8tdHJ1ZmEwZWNCNGJCMi1OUWM5OWR5VzE4VVdWUGdhY291NkUxclg2azlSYUxsVFF2NGcwSE1LT2J5T1E?oc=5)
-
-2026-08-23 <span class="news-indication-tag">癌症</span>
-
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGJUdGNnWjlSblY2d1B2VEtETTAtaDVfX25EaFM2dFNMSUdIVXl0UHh3dGU0TzljSFRUbGlBSjB0UlUxQXRsOXJCVjlRS1ZQdzdzUi1ERTI3T1NBRmdVR1NrZDF1dG8tdHJ1ZmEwZWNCNGJCMi1OUWM5OWR5VzE4VVdWUGdhY291NkUxclg2azlSYUxsVFF2NGcwSE1LT2J5T1E?oc=5)
 
 ---
 
