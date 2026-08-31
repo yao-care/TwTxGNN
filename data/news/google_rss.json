@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-31T14:38:06.300300+00:00",
-  "count": 49,
+  "fetched_at": "2026-08-31T20:30:27.875970+00:00",
+  "count": 48,
   "news": [
-    {
-      "id": "cdc91edca112",
-      "title": "HPV防癌不再是女生專利！台灣公費疫苗領先日韓 男生接種率首年破8成 - 自由健康網",
-      "published": "2026-08-31T08:10:00+00:00",
-      "summary": "HPV防癌不再是女生專利！台灣公費疫苗領先日韓 男生接種率首年破8成&nbsp;&nbsp;自由健康網HPV疫苗男女並進第2年！男國中生首年接種率81.6% 今年拚85%&nbsp;&nbsp;Taiwan News東亞第一推HPV疫苗男女公費接種 首年男生接種率突破81.6% - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞男生女生一起接種HPV疫苗預防人類乳突病毒引起的相關癌症 | 中華日報&nbsp;&nbsp;LINE TODAY哈爾濱市開展HPV疫苗接種科普宣傳活動&nbsp;&nbsp;香港商报",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JRzdkWEJ3Z0sta0k4TTFuZktXMG1ISVYyRllfNG9Fbm1WRHhTa0RpQWgwUnVYemxIOURqaDNTNE1iOVRBMmp3bVBwRnd4bWNEWmFSVlkxdVNQLVBRZVdrUnlFMnk?oc=5"
-        }
-      ]
-    },
     {
       "id": "c377245a86a1",
       "title": "【Pink Care Workshop】裙襬澎澎RUN 12週年乳癌防治講座—！彭上軒醫師談精準醫療，從分型治療到生活品質，掌握乳癌治療新進展 - Marie Claire 美麗佳人",
@@ -24,6 +12,18 @@
         {
           "name": "Marie Claire 美麗佳人",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Qa2xaSmRsRVVYRmplWGZmdnhJVmo0UTRaeFA2VkczUXBreDVEUEUzbUF1SW5uakYxR0kxSUx5am9DSGxScmswY2dXZE51YzEwQW5xUnRxZ2lKQi1wb0RKWkNMTTRxbW00a3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "148a33bf8011",
+      "title": "晚年能否穩定吃飽竟與失智有關？研究追蹤2051人揭關鍵時期 - 元氣網",
+      "published": "2026-08-31T08:12:37+00:00",
+      "summary": "晚年能否穩定吃飽竟與失智有關？研究追蹤2051人揭關鍵時期&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wN1BaV3dFZFpwcjAtQ0phc3RnNEVCVkU5ZmdMcmRvTjAwa24zVGFFTUNIQ0RKRUp0Y2I2cTk4dC0ydnp1cUdGNGpTdzdtRE5tQ2xLd3Y2RnFzTGQwdmfSAWNBVV95cUxQazhyc2JlTklxRUxLUjZXc2ZUTGhGMG9uNWEwalh1NGtVUUNiWngwVm1FZUJPUG52ZnpXX2l5eHFORl84SVoyUmx1ZFhraHNmS0VqNXdZQVVOUG1KVWRILW55cU0?oc=5"
         }
       ]
     },
@@ -52,18 +52,6 @@
       ]
     },
     {
-      "id": "65bd5e5d0c70",
-      "title": "80歲後走得快，認知障礙風險少一半！現在開始練還來得及嗎？醫師給答案 - 元氣網",
-      "published": "2026-08-31T02:05:59+00:00",
-      "summary": "80歲後走得快，認知障礙風險少一半！現在開始練還來得及嗎？醫師給答案&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpaUQ1RThXS2RPckYwbk1TYzBnX2N0N3VKY0Utc0pha1NWSWNuRW9KM0lNNS1sV0djalNaSmNqOFBrMzFBYUVMRTB0Zms0aW56TFcwWE1BaURSbFB1bUxBNTNR0gFiQVVfeXFMUGlpRDVFOFdLZE9yRjBuTVNjMGdfY3Q3dUpjRS1zSmFrU1ZJY25Fb0ozSU01LWxXR2NqU1pKY2o4UGszMUFhRUxFMHRmazRpbnpMVzBYTUFpRFJsUHVtTEE1M1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "97b00b33adee",
       "title": "健康網》適當射精 降死亡風險！網紅醫：射精幫腦抗衰老 - 自由健康網",
       "published": "2026-08-29T13:20:00+00:00",
@@ -72,6 +60,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HbGpSSVJ4dFVlSlZiOFlDWXVFeDAzY0JNSXdtZ3V3Ymtoa2NhN1dtQmxhQ2prUldqOHFuRGdXZnJPYnFuTmRBc0xsSzRaX0tfYnk4OHRua2NXamxsMzg1OUFFSXQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aaae9aed6822",
+      "title": "80歲後走得快，認知障礙風險少一半！現在開始練還來得及嗎？醫師給答案 - 元氣網",
+      "published": "2026-08-31T02:05:59+00:00",
+      "summary": "80歲後走得快，認知障礙風險少一半！現在開始練還來得及嗎？醫師給答案&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RdVpSTkl5Uk56M1dreWg5YkNVN2pzWlhKUlpSUWphdDVrLUFXTG1NQTRMZU5vTmJVV3BVdHN2N1B3NTNtQUs5WVZVNE5RT1BnQXRIYzJKTDNjQmFE0gFiQVVfeXFMUGlpRDVFOFdLZE9yRjBuTVNjMGdfY3Q3dUpjRS1zSmFrU1ZJY25Fb0ozSU01LWxXR2NqU1pKY2o4UGszMUFhRUxFMHRmazRpbnpMVzBYTUFpRFJsUHVtTEE1M1E?oc=5"
         }
       ]
     },
@@ -100,6 +100,18 @@
       ]
     },
     {
+      "id": "fb799d70af4d",
+      "title": "40歲女性如何維持骨骼強健？骨科專家推薦的必做運動指南及日常習慣 - Vogue Taiwan",
+      "published": "2026-08-26T09:36:08+00:00",
+      "summary": "40歲女性如何維持骨骼強健？骨科專家推薦的必做運動指南及日常習慣&nbsp;&nbsp;Vogue Taiwan",
+      "sources": [
+        {
+          "name": "Vogue Taiwan",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSHVtY3Mxd2xOV1pHZzdOOW03elcwR05neUNYMVprdHRpLXJaNUx6czlJR05fYlRkQVRlQ0pKZmRVVkpDY1prN0oxSWc2T1psTHZhaEx0ME5rUkM3VngxekE0NFFoVzRjbVB6aGE0dUxXbmZsSUlEODBPRmR0Z1dwWVZlSXpQTm9XRFpROEdB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "01314e38140a",
       "title": "醫學生過度依賴AI恐變「腦袋空空」？史丹佛專家警示： 臨床推理能力面臨退化危機 - T客邦",
       "published": "2026-08-29T23:30:00+00:00",
@@ -112,26 +124,14 @@
       ]
     },
     {
-      "id": "15187dc15e8c",
-      "title": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法 | 科技新報 - LINE TODAY",
-      "published": "2026-08-30T07:16:08+00:00",
-      "summary": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "id": "9b3a130d1e61",
+      "title": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法 - TechNews 科技新報",
+      "published": "2026-08-29T16:06:09+00:00",
+      "summary": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tZXRLeENmVmhmQlV5b2FFZTE4aERfV245TDdzT20tYmVreUViUWRXbkxZdTZwN3pTNHhZTVpjdWVXMmxOWXkzRWJwVWVSMHFqM3hDRGtn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fb799d70af4d",
-      "title": "40歲女性如何維持骨骼強健？骨科專家推薦的必做運動指南及日常習慣 - Vogue Taiwan",
-      "published": "2026-08-26T09:36:08+00:00",
-      "summary": "40歲女性如何維持骨骼強健？骨科專家推薦的必做運動指南及日常習慣&nbsp;&nbsp;Vogue Taiwan",
-      "sources": [
-        {
-          "name": "Vogue Taiwan",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSHVtY3Mxd2xOV1pHZzdOOW03elcwR05neUNYMVprdHRpLXJaNUx6czlJR05fYlRkQVRlQ0pKZmRVVkpDY1prN0oxSWc2T1psTHZhaEx0ME5rUkM3VngxekE0NFFoVzRjbVB6aGE0dUxXbmZsSUlEODBPRmR0Z1dwWVZlSXpQTm9XRFpROEdB?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGt2dV9MaG1aMGZUTXdZOW5QN2h5clp2aU5OUUFpc2hyVmJIVXhBbWNTXzd2N2hBeU44VExaLWNVZUNnbFJ3Zm00UElkUG9Qb0Q4VHR6VE1Bc1ctRWkzYnJOMW9HVFhSSkhtUEdwZ0thMVR0Z3dnSFN4dFV2RXZvVzNvTnVRaDNDRUFPOGVLR2c1QW5CRTM0V3lsd0ZxSXVUTGlNZzEwS2dVZHBpZEYtZzJxZEdsNmVI?oc=5"
         }
       ]
     },
@@ -196,18 +196,6 @@
       ]
     },
     {
-      "id": "58a869adacc8",
-      "title": "生酮、地中海、素食減重效果相同研究揭脂肪肝糖尿病最佳選項- 國際 - 工商時報",
-      "published": "2026-08-28T13:50:00+00:00",
-      "summary": "生酮、地中海、素食減重效果相同研究揭脂肪肝糖尿病最佳選項- 國際&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KQWFOU1NPbzJJVW1VTW12MWQ3d2g0eExWbmhtV3pXTTFFdEV1b00tb3Y1Y1p2RXU2MTZlM09MTk1GVVRKbk13VjhUV05UTExzRVZJaWVSd2VBdHhPRk1J?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f1a46843a122",
       "title": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道 - ELLE",
       "published": "2026-08-31T07:53:10+00:00",
@@ -220,14 +208,14 @@
       ]
     },
     {
-      "id": "ecd51fb8ca45",
-      "title": "帶狀皰疹疫苗大降中風與心臟病風險 效果堪比降血壓藥 - 中時新聞網",
-      "published": "2026-08-26T14:52:51+00:00",
-      "summary": "帶狀皰疹疫苗大降中風與心臟病風險 效果堪比降血壓藥&nbsp;&nbsp;中時新聞網",
+      "id": "0cb20c7107b8",
+      "title": "帶狀皰疹疫苗大降中風與心臟病風險效果堪比降血壓藥- 國際 - 工商時報",
+      "published": "2026-08-26T14:52:00+00:00",
+      "summary": "帶狀皰疹疫苗大降中風與心臟病風險效果堪比降血壓藥- 國際&nbsp;&nbsp;工商時報",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DVkFBbXBXajczZ0ZMRlIzT05kZk9mOGgxbzBHMVgydUdrRzdENDNaaHA2akF4MUJZU2xGOXhQSkpVdHJQN3JreERTTXdGaVNyYUhnY3RzNHotSjNiZWphdEpOYk5GclRuVnhid2tR?oc=5"
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hbGg0d3VFVERXYk5qajNoUG00YWMtZ2hzSXJrM1VLc2kzQk1xYWtUUzJ2S0pZbkJ4TXBMYjlOemRnNlQwMTEzclZ1dExmcGE0LUtvLUZsYk5icWZfMG5z?oc=5"
         }
       ]
     },
@@ -304,18 +292,6 @@
       ]
     },
     {
-      "id": "f8c468e46439",
-      "title": "跟專家這樣運動能防癌 快快學起來 - 大纪元",
-      "published": "2026-08-30T15:00:00+00:00",
-      "summary": "跟專家這樣運動能防癌 快快學起來&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HemlHMFNjNGZIcWlJd3FzN3c1aS1kYkF0Z3ptTXdIZjlPeHdRdWRTZGY1WHowNmVPWExZX0ctYU9iNzF5UHBJdnlyNmJROWRqZUszRkN3SkpmSXhVUWI0SNIBZkFVX3lxTE1OY1QxZDRmLThKTXR6cDZkWGxMMHdOY1dpaVZ1ejdhYWpTcG50WDlzMmJDMFc0YTU0SE9BX1FfbTQxcTdKalJjb2FldVZxeUVHaXVRaklManhKbUVocGpCVlJmUnpXdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "45f04de0d2f9",
       "title": "大腦老化新線索，血液免疫細胞竟會「闖入」大腦 - TechNews 科技新報",
       "published": "2026-08-26T00:31:27+00:00",
@@ -328,6 +304,18 @@
       ]
     },
     {
+      "id": "f8c468e46439",
+      "title": "跟專家這樣運動能防癌 快快學起來 - 大纪元",
+      "published": "2026-08-30T15:00:00+00:00",
+      "summary": "跟專家這樣運動能防癌 快快學起來&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HemlHMFNjNGZIcWlJd3FzN3c1aS1kYkF0Z3ptTXdIZjlPeHdRdWRTZGY1WHowNmVPWExZX0ctYU9iNzF5UHBJdnlyNmJROWRqZUszRkN3SkpmSXhVUWI0SNIBZkFVX3lxTE1OY1QxZDRmLThKTXR6cDZkWGxMMHdOY1dpaVZ1ejdhYWpTcG50WDlzMmJDMFc0YTU0SE9BX1FfbTQxcTdKalJjb2FldVZxeUVHaXVRaklManhKbUVocGpCVlJmUnpXdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1eb304a6d909",
       "title": "糖尿病恐傷血管 薑黃素不只抗發炎「還有望提供保護」 - 科技島",
       "published": "2026-08-27T03:57:24+00:00",
@@ -336,6 +324,30 @@
         {
           "name": "科技島",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZOFRZcjVmWVFuc1VWYlNfWkU3THFCeWFMSEhodHJLMURaRlNDbGJta0tpdTNpY1lWckE2cldaS284QlRTVmdOOEFBeVJHV1haXzQtaUV6THJPY2FOdmxN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a6bd1ccf8048",
+      "title": "健康網》40歲男痛風不當一回事 醫曝男人最怕這3大腎病 - 自由健康網",
+      "published": "2026-08-25T13:22:00+00:00",
+      "summary": "健康網》40歲男痛風不當一回事 醫曝男人最怕這3大腎病&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jaFBBbXhwZXpiVWNZV2N1T2R4b0t0bkdKdzlHc195bUlHX25sQUlWd0Q2ODFuc2o5NUtGVFFTTnRnYnMyU3FWSlZIeElDXzQ2UnVCbTFwMUwxMGE3Y1h2S0gzZEo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b1a9444f33ae",
+      "title": "美國最新疫苗接種建議 各年齡一次看 - 大纪元",
+      "published": "2026-08-29T18:15:00+00:00",
+      "summary": "美國最新疫苗接種建議 各年齡一次看&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53SDcwWTZRMS12ZTBFOVIwMlZWZ2hFeUZjaDJVV05lT1dBTDNUZnhHUWo2NzJUX3c2bUZLSjRVZWdMQWh2TFZJcjdjWWpwTjZrWHhqUXpDZHBpSDlOdEZHN9IBZkFVX3lxTE10Y3JlX3Zja2kzaW1VSkVienY1aFJSZnFoRGcwdF9tTnBMMVU1NHEwX1B3YU1JMkFUTGpIZmQ2U2tQT3hSRkN1US1uQnppYngwejUxWFVvWlVCWDl1VFRBa2FocjVBdw?oc=5"
         }
       ]
     },
@@ -400,18 +412,6 @@
       ]
     },
     {
-      "id": "5ae7471d540e",
-      "title": "德州大學新發現，90歲大腦仍有進步空間 - 美南新聞",
-      "published": "2026-08-29T21:15:56+00:00",
-      "summary": "德州大學新發現，90歲大腦仍有進步空間&nbsp;&nbsp;美南新聞",
-      "sources": [
-        {
-          "name": "美南新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wM0l3ZWhPNzVsNDYycWpIVE94NS1hNDFRLTFodG52R0M3T3UyS1RSNUF0MlVlMlI1M25jck9iYk5XVlR0dkE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9d71c07796e4",
       "title": "食鹹魚會增加鼻咽癌風險？鼻咽癌元兇—解構EB病毒真面目 - 香港01",
       "published": "2026-08-31T06:39:21+00:00",
@@ -424,6 +424,18 @@
       ]
     },
     {
+      "id": "7adc88e71b04",
+      "title": "65歲婦感冒死忍4日不求醫！送急症驚揭全身發炎！醫生警告4件事不吃藥更傷身 - UHK 港生活",
+      "published": "2026-08-31T18:17:57+00:00",
+      "summary": "65歲婦感冒死忍4日不求醫！送急症驚揭全身發炎！醫生警告4件事不吃藥更傷身&nbsp;&nbsp;UHK 港生活",
+      "sources": [
+        {
+          "name": "UHK 港生活",
+          "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNLW5vdW5vZ1AyeHk4dGZlUnNiQ3FwaHVHVlA5MHJVRU1DYzh4XzZzRkRLTnFUVjZfUDVCSFEyN3ZJdFl1VEROb243WXM0MVpsVkVaZGFDaFFwcm8tejZHdlpZX0ItRjRQd0dyMlRwSnA5ZUV6alZvN19wQlNOUFpuMDNyd19FX3VuVG5wUUxyOFlOdG01czhyaTF4UFJ6TTRYaVlGVnJmTnN5WFB2NlhjZ2RoR0xObmpYYVlaaE05OWFaeUszT2RLRXp2d1dMdUZtb3hhcFhZMGw2MmtWMTZPV1NibGRsemNSbU03LWpXcXdMbXROS2NNcjVVd0RmSXk1Y0RrZFRsUWgtalAxd1E1NFNwSVNpWEF5UWtpbF9IOU9BWGs2a2pvOTA5cVM2MTNDTHpIbUZrelZEWGplU1JEU3JQRlJmSnNBZFBzN2VGOVNNUm41cExhUWZSTUNqazY1ZWdCbUZHVkYxeHFZUmE2cGpsWlFsQ0lsSkxkS0c5Y25wdk43ZlczaDE0Z0JZREswYVhXdzVrY2RYdk81OFlnT0U3T1ZDTGhnOE81Q0lfV0xRWGpRM19GbnBtY3lidjMzcHRNWWJ4Zmk0UVczWG9LZkJHTlVPTUVTOWc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1f116cb12cf0",
       "title": "那些常吃的東西，竟然也是過敏原 - 紫荊雜誌",
       "published": "2026-08-31T01:49:42+00:00",
@@ -432,6 +444,18 @@
         {
           "name": "紫荊雜誌",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeUc3a2ZmODZFemJ5U3ZJaUtfRmF6UzVCSmdweWY3VGZKQ0xZWld0QXJwLVdMQTYzcE9WTFVnRDRZMDF0OXI0dGk0U3NQYnpyX1hoUXJ5LVR1UzJNVEczU2Jxc2dOa0NsQUEzUkdQMUwzWE1ScjNzSjI2Mk90ODc0V1BmWjl2cTdfdlljbGJnbUc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5ae7471d540e",
+      "title": "德州大學新發現，90歲大腦仍有進步空間 - 美南新聞",
+      "published": "2026-08-29T21:15:56+00:00",
+      "summary": "德州大學新發現，90歲大腦仍有進步空間&nbsp;&nbsp;美南新聞",
+      "sources": [
+        {
+          "name": "美南新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wM0l3ZWhPNzVsNDYycWpIVE94NS1hNDFRLTFodG52R0M3T3UyS1RSNUF0MlVlMlI1M25jck9iYk5XVlR0dkE?oc=5"
         }
       ]
     },
@@ -496,30 +520,6 @@
       ]
     },
     {
-      "id": "aa55b855ff8e",
-      "title": "研究：生酮類飲食或能改善精神疾病 - 大纪元",
-      "published": "2026-08-24T15:00:00+00:00",
-      "summary": "研究：生酮類飲食或能改善精神疾病&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tSmFlM2NvcFJpRV9fSFVDY3l5dV9ic2RoZjl5U2ZaX240ZEItM3FkWDEzbWp3MW4tRFE4NEJuYTJqOWRQajgzSmpiTkRwS01WVUE2UWczQnhRSGhUTTF0MNIBZkFVX3lxTE9MYXdraDZTcTlTbG1zWksza1AzSGU0OWtIZDZTRklqQUFSOU1QU1J2Z3dmaXFOY3M1QjZYQWdHaEpxa2ZtZHdUelMzTnlaTndoR293T2dyVXFUSmFRaU0wLWFYZk45Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f97d0999dd9f",
-      "title": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號 - 巴士的報",
-      "published": "2026-08-24T22:40:03+00:00",
-      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPbjV5cTdqZjN5d0VGTXlOdEstVmtWZGlydzIxMXJ3TGh6cWwtdEw3eGVXdWh6ZnJkNlRVaG1mQmY5ME56by05S0FNclEwNU1OMDVOWUNMbWUyVzc5MFBRMHlKX3JEeE04NEVwd2RmdUc3NGJoa0I2NEo1SVhDRE9qdHdZSnpOOHdQWkh6QWFseU5GZERLdldUSG1ZMW1PTWRIY0xCLUpvSURSNkJQLXdhSjZPZC1NY05QamMzMGozNWFTLUNKS2pKMl92RkVaMnA0RWRUTWFHRmRZQTAzN1B0d2VOWFBaUjJMcmNvWmI0ZldZT043dUlLYkRsV3RiR2tWSng3TFRvMnppYzN1RnR4S3J1czh5X1pQblJPRUs0NzRCQURtSS1WS095TE5QTWVuelZZRjF4UzdSSS10V2V0c00tMlY4VV9KQjlKQlE2N1l2S2ptZjM1Q1FYSEFybENHaVRZUDVGRXkxbVlGeDJJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "917c7951e26b",
       "title": "女性沒高潮就是性冷感？婦產科醫揭「高潮障礙」判斷關鍵：持續超過6個月才要留意 - 良醫健康網",
       "published": "2026-08-25T02:49:19+00:00",
@@ -576,18 +576,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQVzBfYm1CYW9venN4a0s1Mk5MTEZCQ2xJa1l4ckVmT212OW5heVRHLWN6RWhhR0tJMmxSdGZuSE51OVNoMjE1WnV4SW9xX0xrRlktZzVDRUxsR0hhV0staExIS2tmWm5mQXNSdTVvZ1RicVM1Qzd4NVBJV2dDVGQ5dWJLd0hUVlNuazM5M3BBYjdSZllDU1BIQmVYTVRCRVpDaTZra19HTVBRbnU0ZVhmekJ6ckVuQjZBdklyTDkxeFN1SGN0anpYMHoxOENnSENJZVFxWXJZdGpVWFQtR0pzZWhPVVZIc3JCWWhLMERONlgwZHZyM1J4el9zQVl5ZDNGcVZhM2lKVnFNd3NndXlWZWE4RWtLRkxCcWVyd3NrNHdIVDJxekdHUzBITEd2azlhb2V3NXM5V1UtWWJfU3FoSmVZQ0U1T0hjOWswVEs1amJIUjBxdTVDQnpwaWVxeWVYSTJzR0pPQzU3Ylk3N3FKMHpuSFVlTUtFSGw5dnlZeUdwVEs0NGNDMHNB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3d83cbba1e87",
-      "title": "男子住酒店赤腳沖涼竟染HPV！ 腳底生疣恐怖擴散 專家教3招防中招 - UHK 港生活",
-      "published": "2026-08-24T16:00:00+00:00",
-      "summary": "男子住酒店赤腳沖涼竟染HPV！ 腳底生疣恐怖擴散 專家教3招防中招&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxPa1ZPMWdTOWRBbXNYUkhXUXB1bE9lVV84UXVQSGNPbkVOWmFiTlh1UmlNYTZBZXN5eG9FUnh0dXZCMUc5cUdoSmFjVUNJa3F0XzlfQjlQMDVWYXdPTWd3UEdBTXdFRzk2TlBVdjFUVUlCR1A2UVBaTUdoZk41RHhObDBQaFlzYkU2ZTVfMVV0aVJreFhlajRzN3VxM2tjOUhCZFF3UFpvQ2pmcVR3REp0dlpYZzNVMVdhVzJhU0YtUEY3b2xNeVBiQkh5S1NxeG5ycnY3U2NmQ3EtdGFvQWp0eFlxMXdRQjJuVTltc1BwelVIdWVrUkZzazVxemVHRVR4TkIxSlBmOWF1dmpKTzZwLV9rY3hqWHJkdS05eHJWcnVUM2hUUFhCbmE0OGpYUEV3NFFzVGo5RU1Kb0tncEpsdndDQk9LSnJSNGpQWXdSbEdEU3dBTmFoX2d5ZjFHalM0dDVJWDNoUWZiYUYtOWMtdDMyV1RiT1M3Z2RqMHdtb25lN0xRR0J3aHppWXdvYVdWNDBvdGxQUkRhVVF1NU5pTGdDZENraUU4cjVwYWRwbm1TUENmV0NjTE9yVGpoWnRMWnB0cXEzVGhMazRiZThMWDAwYU1iQjF0ZGVUbkQ0ZTRpLU1PaDF5MWZIUnIwemRNQlM5LU92UU0tSWhDb2VoNFF6UDc2ZTYyVGdYUmFRdkY2bmREUWo1bkRaYzRxcy1IR29UYTI1NWVPeVpFcjZETlMyMDBqVmFxTmIwQkRUVXV2ak9EN0RGYjI2US1LQWtsZzNuWlBOb2h6RHI5UTRUa1NXNE5PcGs4bXBOQllEaGk?oc=5"
         }
       ]
     }

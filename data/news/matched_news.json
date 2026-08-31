@@ -1,8 +1,33 @@
 {
-  "last_updated": "2026-08-31T14:38:08.210889+00:00",
-  "total_count": 49,
-  "matched_count": 13,
+  "last_updated": "2026-08-31T20:30:30.309961+00:00",
+  "total_count": 48,
+  "matched_count": 15,
   "news": [
+    {
+      "id": "7adc88e71b04",
+      "title": "65歲婦感冒死忍4日不求醫！送急症驚揭全身發炎！醫生警告4件事不吃藥更傷身 - UHK 港生活",
+      "published": "2026-08-31T18:17:57+00:00",
+      "summary": "65歲婦感冒死忍4日不求醫！送急症驚揭全身發炎！醫生警告4件事不吃藥更傷身&nbsp;&nbsp;UHK 港生活",
+      "sources": [
+        {
+          "name": "UHK 港生活",
+          "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNLW5vdW5vZ1AyeHk4dGZlUnNiQ3FwaHVHVlA5MHJVRU1DYzh4XzZzRkRLTnFUVjZfUDVCSFEyN3ZJdFl1VEROb243WXM0MVpsVkVaZGFDaFFwcm8tejZHdlpZX0ItRjRQd0dyMlRwSnA5ZUV6alZvN19wQlNOUFpuMDNyd19FX3VuVG5wUUxyOFlOdG01czhyaTF4UFJ6TTRYaVlGVnJmTnN5WFB2NlhjZ2RoR0xObmpYYVlaaE05OWFaeUszT2RLRXp2d1dMdUZtb3hhcFhZMGw2MmtWMTZPV1NibGRsemNSbU03LWpXcXdMbXROS2NNcjVVd0RmSXk1Y0RrZFRsUWgtalAxd1E1NFNwSVNpWEF5UWtpbF9IOU9BWGs2a2pvOTA5cVM2MTNDTHpIbUZrelZEWGplU1JEU3JQRlJmSnNBZFBzN2VGOVNNUm41cExhUWZSTUNqazY1ZWdCbUZHVkYxeHFZUmE2cGpsWlFsQ0lsSkxkS0c5Y25wdk43ZlczaDE0Z0JZREswYVhXdzVrY2RYdk81OFlnT0U3T1ZDTGhnOE81Q0lfV0xRWGpRM19GbnBtY3lidjMzcHRNWWJ4Zmk0UVczWG9LZkJHTlVPTUVTOWc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "c377245a86a1",
       "title": "【Pink Care Workshop】裙襬澎澎RUN 12週年乳癌防治講座—！彭上軒醫師談精準醫療，從分型治療到生活品質，掌握乳癌治療新進展 - Marie Claire 美麗佳人",
@@ -53,209 +78,25 @@
       ]
     },
     {
-      "id": "cdc91edca112",
-      "title": "HPV防癌不再是女生專利！台灣公費疫苗領先日韓 男生接種率首年破8成",
-      "published": "2026-08-31T08:10:00+00:00",
-      "summary": "HPV防癌不再是女生專利！台灣公費疫苗領先日韓 男生接種率首年破8成&nbsp;&nbsp;自由健康網HPV疫苗男女並進第2年！男國中生首年接種率81.6% 今年拚85%&nbsp;&nbsp;Taiwan News東亞第一推HPV疫苗男女公費接種 首年男生接種率突破81.6% - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞男生女生一起接種HPV疫苗預防人類乳突病毒引起的相關癌症 | 中華日報&nbsp;&nbsp;LINE TODAY哈爾濱市開展HPV疫苗接種科普宣傳活動&nbsp;&nbsp;香港商报",
+      "id": "148a33bf8011",
+      "title": "晚年能否穩定吃飽竟與失智有關？研究追蹤2051人揭關鍵時期",
+      "published": "2026-08-31T08:12:37+00:00",
+      "summary": "晚年能否穩定吃飽竟與失智有關？研究追蹤2051人揭關鍵時期&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JRzdkWEJ3Z0sta0k4TTFuZktXMG1ISVYyRllfNG9Fbm1WRHhTa0RpQWgwUnVYemxIOURqaDNTNE1iOVRBMmp3bVBwRnd4bWNEWmFSVlkxdVNQLVBRZVdrUnlFMnk?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wN1BaV3dFZFpwcjAtQ0phc3RnNEVCVkU5ZmdMcmRvTjAwa24zVGFFTUNIQ0RKRUp0Y2I2cTk4dC0ydnp1cUdGNGpTdzdtRE5tQ2xLd3Y2RnFzTGQwdmfSAWNBVV95cUxQazhyc2JlTklxRUxLUjZXc2ZUTGhGMG9uNWEwalh1NGtVUUNiWngwVm1FZUJPUG52ZnpXX2l5eHFORl84SVoyUmx1ZFhraHNmS0VqNXdZQVVOUG1KVWRILW55cU0?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
+          "name": "dementia",
+          "keyword": "失智",
           "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
             }
           ]
         }
@@ -325,14 +166,14 @@
       "matched_keywords": []
     },
     {
-      "id": "65bd5e5d0c70",
+      "id": "aaae9aed6822",
       "title": "80歲後走得快，認知障礙風險少一半！現在開始練還來得及嗎？醫師給答案",
       "published": "2026-08-31T02:05:59+00:00",
       "summary": "80歲後走得快，認知障礙風險少一半！現在開始練還來得及嗎？醫師給答案&nbsp;&nbsp;元氣網",
       "sources": [
         {
           "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpaUQ1RThXS2RPckYwbk1TYzBnX2N0N3VKY0Utc0pha1NWSWNuRW9KM0lNNS1sV0djalNaSmNqOFBrMzFBYUVMRTB0Zms0aW56TFcwWE1BaURSbFB1bUxBNTNR0gFiQVVfeXFMUGlpRDVFOFdLZE9yRjBuTVNjMGdfY3Q3dUpjRS1zSmFrU1ZJY25Fb0ozSU01LWxXR2NqU1pKY2o4UGszMUFhRUxFMHRmazRpbnpMVzBYTUFpRFJsUHVtTEE1M1E?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RdVpSTkl5Uk56M1dreWg5YkNVN2pzWlhKUlpSUWphdDVrLUFXTG1NQTRMZU5vTmJVV3BVdHN2N1B3NTNtQUs5WVZVNE5RT1BnQXRIYzJKTDNjQmFE0gFiQVVfeXFMUGlpRDVFOFdLZE9yRjBuTVNjMGdfY3Q3dUpjRS1zSmFrU1ZJY25Fb0ozSU01LWxXR2NqU1pKY2o4UGszMUFhRUxFMHRmazRpbnpMVzBYTUFpRFJsUHVtTEE1M1E?oc=5"
         }
       ],
       "matched_keywords": []
@@ -387,31 +228,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "15187dc15e8c",
-      "title": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法 | 科技新報 - LINE TODAY",
-      "published": "2026-08-30T07:16:08+00:00",
-      "summary": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tZXRLeENmVmhmQlV5b2FFZTE4aERfV245TDdzT20tYmVreUViUWRXbkxZdTZwN3pTNHhZTVpjdWVXMmxOWXkzRWJwVWVSMHFqM3hDRGtn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "9ef7a8ed1211",
@@ -492,6 +308,44 @@
       "matched_keywords": []
     },
     {
+      "id": "b1a9444f33ae",
+      "title": "美國最新疫苗接種建議 各年齡一次看",
+      "published": "2026-08-29T18:15:00+00:00",
+      "summary": "美國最新疫苗接種建議 各年齡一次看&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53SDcwWTZRMS12ZTBFOVIwMlZWZ2hFeUZjaDJVV05lT1dBTDNUZnhHUWo2NzJUX3c2bUZLSjRVZWdMQWh2TFZJcjdjWWpwTjZrWHhqUXpDZHBpSDlOdEZHN9IBZkFVX3lxTE10Y3JlX3Zja2kzaW1VSkVienY1aFJSZnFoRGcwdF9tTnBMMVU1NHEwX1B3YU1JMkFUTGpIZmQ2U2tQT3hSRkN1US1uQnppYngwejUxWFVvWlVCWDl1VFRBa2FocjVBdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9b3a130d1e61",
+      "title": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法 - TechNews 科技新報",
+      "published": "2026-08-29T16:06:09+00:00",
+      "summary": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGt2dV9MaG1aMGZUTXdZOW5QN2h5clp2aU5OUUFpc2hyVmJIVXhBbWNTXzd2N2hBeU44VExaLWNVZUNnbFJ3Zm00UElkUG9Qb0Q4VHR6VE1Bc1ctRWkzYnJOMW9HVFhSSkhtUEdwZ0thMVR0Z3dnSFN4dFV2RXZvVzNvTnVRaDNDRUFPOGVLR2c1QW5CRTM0V3lsd0ZxSXVUTGlNZzEwS2dVZHBpZEYtZzJxZEdsNmVI?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "97b00b33adee",
       "title": "健康網》適當射精 降死亡風險！網紅醫：射精幫腦抗衰老",
       "published": "2026-08-29T13:20:00+00:00",
@@ -526,19 +380,6 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUmZMVHBDZjd5d1dDMHRhcTlPVjRxTWRORHNHRE9jLXh3THZJdzJVQkpJRHZWODVKSlVSNEY3alIzaUJCbXpPR3BoN2gySE93SWs0Y0pEMlpKNlc4c3pCblNIdGpVZUd5cl9XZUFFS3pnM2F4X1F2MFNlQzVFOFR5b3NsU3lQZ1Zkbkh5dEx1RWVPSjZaa1BPMDJkZTlGQ1BKeXFrRHdTYnppUlpERUE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "58a869adacc8",
-      "title": "生酮、地中海、素食減重效果相同研究揭脂肪肝糖尿病最佳選項- 國際",
-      "published": "2026-08-28T13:50:00+00:00",
-      "summary": "生酮、地中海、素食減重效果相同研究揭脂肪肝糖尿病最佳選項- 國際&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KQWFOU1NPbzJJVW1VTW12MWQ3d2g0eExWbmhtV3pXTTFFdEV1b00tb3Y1Y1p2RXU2MTZlM09MTk1GVVRKbk13VjhUV05UTExzRVZJaWVSd2VBdHhPRk1J?oc=5"
         }
       ],
       "matched_keywords": []
@@ -899,14 +740,14 @@
       "matched_keywords": []
     },
     {
-      "id": "ecd51fb8ca45",
-      "title": "帶狀皰疹疫苗大降中風與心臟病風險 效果堪比降血壓藥",
-      "published": "2026-08-26T14:52:51+00:00",
-      "summary": "帶狀皰疹疫苗大降中風與心臟病風險 效果堪比降血壓藥&nbsp;&nbsp;中時新聞網",
+      "id": "0cb20c7107b8",
+      "title": "帶狀皰疹疫苗大降中風與心臟病風險效果堪比降血壓藥- 國際",
+      "published": "2026-08-26T14:52:00+00:00",
+      "summary": "帶狀皰疹疫苗大降中風與心臟病風險效果堪比降血壓藥- 國際&nbsp;&nbsp;工商時報",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DVkFBbXBXajczZ0ZMRlIzT05kZk9mOGgxbzBHMVgydUdrRzdENDNaaHA2akF4MUJZU2xGOXhQSkpVdHJQN3JreERTTXdGaVNyYUhnY3RzNHotSjNiZWphdEpOYk5GclRuVnhid2tR?oc=5"
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hbGg0d3VFVERXYk5qajNoUG00YWMtZ2hzSXJrM1VLc2kzQk1xYWtUUzJ2S0pZbkJ4TXBMYjlOemRnNlQwMTEzclZ1dExmcGE0LUtvLUZsYk5icWZfMG5z?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1171,6 +1012,39 @@
       ]
     },
     {
+      "id": "a6bd1ccf8048",
+      "title": "健康網》40歲男痛風不當一回事 醫曝男人最怕這3大腎病",
+      "published": "2026-08-25T13:22:00+00:00",
+      "summary": "健康網》40歲男痛風不當一回事 醫曝男人最怕這3大腎病&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jaFBBbXhwZXpiVWNZV2N1T2R4b0t0bkdKdzlHc195bUlHX25sQUlWd0Q2ODFuc2o5NUtGVFFTTnRnYnMyU3FWSlZIeElDXzQ2UnVCbTFwMUwxMGE3Y1h2S0gzZEo?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "gout",
+          "keyword": "痛風",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "sulfamerazine",
+              "name": "Sulfamerazine"
+            },
+            {
+              "slug": "sulfamethazine",
+              "name": "Sulfamethazine"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "59e6233dfccd",
       "title": "🎙️陽性蚊群激增、罕見病毒現身 紐約防蚊更要防蜱蟲",
       "published": "2026-08-25T13:00:19+00:00",
@@ -1255,45 +1129,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOQi1sRS1TenV5cGxaOTJmaTlIcldmeTkwS1lmUktmaTFZdnliVXdyeEs1V2szRXFqaVN6ZVh6VWZRaEdHdDNObG1LU0Z3Sy1ScHczaFBJdVlnT1dZa0lGdklwRzN4alZIWnFTRDlLYm9JRXhwblpQdzBWVHlfTnpvaWdMalNxR0tNYU5xSlFNQU10VnRCMHFOV0VyeEx4aDluY1VOWmFIU3pnVjdNc1VyY3IxajR2U0sxZFA5Q0toRVV0TUdiQWJiNTg5ZUZ3NnBsMGRRSmhnYXo3VE9IUld3UnkwWGxyemRES2FEUzJ1X2ZIYWs1V1FZd3Bkd19ZblpLRm1kWUtJNlJYbGRyYURiTllLQjk1b19aRnczNDRTTkZHSGgxc1VWM1Rvc1RmY1Mza2p4MGhHNkdYSVZHYU81dk1sbVIyZlhBSGljZElLRmhoWFhmRkYtZUoxQndvOUcyTlhyc3U5MFZwalRoVHY4N1JSRjA0RU9OVXR0T29GNEJTb01Rb2dBZXVacDdlckZaeGd5UVNSdHMwd1UyZmZCOWNKUzlRaGVfVjVTSUVrUHZWNi1XUVpF?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f97d0999dd9f",
-      "title": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號",
-      "published": "2026-08-24T22:40:03+00:00",
-      "summary": "喉嚨發緊未必只是咽喉問題 醫生提醒：4 種不適或是心肌缺血警號&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPbjV5cTdqZjN5d0VGTXlOdEstVmtWZGlydzIxMXJ3TGh6cWwtdEw3eGVXdWh6ZnJkNlRVaG1mQmY5ME56by05S0FNclEwNU1OMDVOWUNMbWUyVzc5MFBRMHlKX3JEeE04NEVwd2RmdUc3NGJoa0I2NEo1SVhDRE9qdHdZSnpOOHdQWkh6QWFseU5GZERLdldUSG1ZMW1PTWRIY0xCLUpvSURSNkJQLXdhSjZPZC1NY05QamMzMGozNWFTLUNKS2pKMl92RkVaMnA0RWRUTWFHRmRZQTAzN1B0d2VOWFBaUjJMcmNvWmI0ZldZT043dUlLYkRsV3RiR2tWSng3TFRvMnppYzN1RnR4S3J1czh5X1pQblJPRUs0NzRCQURtSS1WS095TE5QTWVuelZZRjF4UzdSSS10V2V0c00tMlY4VV9KQjlKQlE2N1l2S2ptZjM1Q1FYSEFybENHaVRZUDVGRXkxbVlGeDJJ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3d83cbba1e87",
-      "title": "男子住酒店赤腳沖涼竟染HPV！ 腳底生疣恐怖擴散 專家教3招防中招 - UHK 港生活",
-      "published": "2026-08-24T16:00:00+00:00",
-      "summary": "男子住酒店赤腳沖涼竟染HPV！ 腳底生疣恐怖擴散 專家教3招防中招&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxPa1ZPMWdTOWRBbXNYUkhXUXB1bE9lVV84UXVQSGNPbkVOWmFiTlh1UmlNYTZBZXN5eG9FUnh0dXZCMUc5cUdoSmFjVUNJa3F0XzlfQjlQMDVWYXdPTWd3UEdBTXdFRzk2TlBVdjFUVUlCR1A2UVBaTUdoZk41RHhObDBQaFlzYkU2ZTVfMVV0aVJreFhlajRzN3VxM2tjOUhCZFF3UFpvQ2pmcVR3REp0dlpYZzNVMVdhVzJhU0YtUEY3b2xNeVBiQkh5S1NxeG5ycnY3U2NmQ3EtdGFvQWp0eFlxMXdRQjJuVTltc1BwelVIdWVrUkZzazVxemVHRVR4TkIxSlBmOWF1dmpKTzZwLV9rY3hqWHJkdS05eHJWcnVUM2hUUFhCbmE0OGpYUEV3NFFzVGo5RU1Kb0tncEpsdndDQk9LSnJSNGpQWXdSbEdEU3dBTmFoX2d5ZjFHalM0dDVJWDNoUWZiYUYtOWMtdDMyV1RiT1M3Z2RqMHdtb25lN0xRR0J3aHppWXdvYVdWNDBvdGxQUkRhVVF1NU5pTGdDZENraUU4cjVwYWRwbm1TUENmV0NjTE9yVGpoWnRMWnB0cXEzVGhMazRiZThMWDAwYU1iQjF0ZGVUbkQ0ZTRpLU1PaDF5MWZIUnIwemRNQlM5LU92UU0tSWhDb2VoNFF6UDc2ZTYyVGdYUmFRdkY2bmREUWo1bkRaYzRxcy1IR29UYTI1NWVPeVpFcjZETlMyMDBqVmFxTmIwQkRUVXV2ak9EN0RGYjI2US1LQWtsZzNuWlBOb2h6RHI5UTRUa1NXNE5PcGs4bXBOQllEaGk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "aa55b855ff8e",
-      "title": "研究：生酮類飲食或能改善精神疾病",
-      "published": "2026-08-24T15:00:00+00:00",
-      "summary": "研究：生酮類飲食或能改善精神疾病&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tSmFlM2NvcFJpRV9fSFVDY3l5dV9ic2RoZjl5U2ZaX240ZEItM3FkWDEzbWp3MW4tRFE4NEJuYTJqOWRQajgzSmpiTkRwS01WVUE2UWczQnhRSGhUTTF0MNIBZkFVX3lxTE9MYXdraDZTcTlTbG1zWksza1AzSGU0OWtIZDZTRklqQUFSOU1QU1J2Z3dmaXFOY3M1QjZYQWdHaEpxa2ZtZHdUelMzTnlaTndoR293T2dyVXFUSmFRaU0wLWFYZk45Zw?oc=5"
         }
       ],
       "matched_keywords": []
