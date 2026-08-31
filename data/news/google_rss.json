@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-08-31T00:02:49.959128+00:00",
+  "fetched_at": "2026-08-31T06:26:21.795068+00:00",
   "count": 50,
   "news": [
-    {
-      "id": "56bd49a8032a",
-      "title": "7種錯誤生活習慣 可能會損害你的心臟健康 - 新唐人電視台",
-      "published": "2026-08-30T13:12:12+00:00",
-      "summary": "7種錯誤生活習慣 可能會損害你的心臟健康&nbsp;&nbsp;新唐人電視台",
-      "sources": [
-        {
-          "name": "新唐人電視台",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5cjJiUHhWU0psOHJKckZTMmxGdFZwQW1Ock1pSGhJUnQtUWxoenEta0ltN0lIYkNNN2dCRngwM0gzY0RMT000MnhoNndNZU82NmFmajlhWDBUclFpV3EtbtIBZkFVX3lxTFBIMlZJSVBWbGNyb3pkZ2w5X1dPZTRZQ0hqeU56blBTbnV4eHkxN1ZtbVdjWGlNdHNuNERrMWoxajEtNkJPeDBGbXJKV1h2SFg2N2lDaEZDcUlWXzhUOVR6eFJQVHJ4UQ?oc=5"
-        }
-      ]
-    },
     {
       "id": "97b00b33adee",
       "title": "健康網》適當射精 降死亡風險！網紅醫：射精幫腦抗衰老 - 自由健康網",
@@ -24,6 +12,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HbGpSSVJ4dFVlSlZiOFlDWXVFeDAzY0JNSXdtZ3V3Ymtoa2NhN1dtQmxhQ2prUldqOHFuRGdXZnJPYnFuTmRBc0xsSzRaX0tfYnk4OHRua2NXamxsMzg1OUFFSXQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "56bd49a8032a",
+      "title": "7種錯誤生活習慣 可能會損害你的心臟健康 - 新唐人電視台",
+      "published": "2026-08-31T00:59:00+00:00",
+      "summary": "7種錯誤生活習慣 可能會損害你的心臟健康&nbsp;&nbsp;新唐人電視台",
+      "sources": [
+        {
+          "name": "新唐人電視台",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5cjJiUHhWU0psOHJKckZTMmxGdFZwQW1Ock1pSGhJUnQtUWxoenEta0ltN0lIYkNNN2dCRngwM0gzY0RMT000MnhoNndNZU82NmFmajlhWDBUclFpV3EtbtIBZkFVX3lxTFBIMlZJSVBWbGNyb3pkZ2w5X1dPZTRZQ0hqeU56blBTbnV4eHkxN1ZtbVdjWGlNdHNuNERrMWoxajEtNkJPeDBGbXJKV1h2SFg2N2lDaEZDcUlWXzhUOVR6eFJQVHJ4UQ?oc=5"
         }
       ]
     },
@@ -64,14 +64,14 @@
       ]
     },
     {
-      "id": "9b3a130d1e61",
-      "title": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法 - TechNews 科技新報",
-      "published": "2026-08-29T16:06:09+00:00",
-      "summary": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法&nbsp;&nbsp;TechNews 科技新報",
+      "id": "15187dc15e8c",
+      "title": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法 | 科技新報 - LINE TODAY",
+      "published": "2026-08-30T07:16:08+00:00",
+      "summary": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGt2dV9MaG1aMGZUTXdZOW5QN2h5clp2aU5OUUFpc2hyVmJIVXhBbWNTXzd2N2hBeU44VExaLWNVZUNnbFJ3Zm00UElkUG9Qb0Q4VHR6VE1Bc1ctRWkzYnJOMW9HVFhSSkhtUEdwZ0thMVR0Z3dnSFN4dFV2RXZvVzNvTnVRaDNDRUFPOGVLR2c1QW5CRTM0V3lsd0ZxSXVUTGlNZzEwS2dVZHBpZEYtZzJxZEdsNmVI?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tZXRLeENmVmhmQlV5b2FFZTE4aERfV245TDdzT20tYmVreUViUWRXbkxZdTZwN3pTNHhZTVpjdWVXMmxOWXkzRWJwVWVSMHFqM3hDRGtn?oc=5"
         }
       ]
     },
@@ -100,6 +100,18 @@
       ]
     },
     {
+      "id": "a8608abfacf9",
+      "title": "改善腸胃健康的8款「最佳早餐」推薦！告別消化不良，從每日第一餐養出好膚質與免疫力 - Vogue Taiwan",
+      "published": "2026-08-25T09:13:48+00:00",
+      "summary": "改善腸胃健康的8款「最佳早餐」推薦！告別消化不良，從每日第一餐養出好膚質與免疫力&nbsp;&nbsp;Vogue Taiwan",
+      "sources": [
+        {
+          "name": "Vogue Taiwan",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zOUpCT2RYSE5GOHZhOUZ3QjlLX0JXbm45Y0tteFU1d0pXV2dQOUNSbk43VkdYWHRKSGJxd3RlalR0Qmg5ckE2RkFEal9oZU9ZamJUT3p1UjF6ZVo5RXhWbi1NY2F5QktRYlN5MlNPaXc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9ef7a8ed1211",
       "title": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略 | 科技新報 - LINE TODAY",
       "published": "2026-08-29T18:21:16+00:00",
@@ -124,38 +136,14 @@
       ]
     },
     {
-      "id": "a8608abfacf9",
-      "title": "改善腸胃健康的8款「最佳早餐」推薦！告別消化不良，從每日第一餐養出好膚質與免疫力 - Vogue Taiwan",
-      "published": "2026-08-25T09:13:48+00:00",
-      "summary": "改善腸胃健康的8款「最佳早餐」推薦！告別消化不良，從每日第一餐養出好膚質與免疫力&nbsp;&nbsp;Vogue Taiwan",
+      "id": "90a67c6c3959",
+      "title": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效 - TechNews 科技新報",
+      "published": "2026-08-28T16:04:13+00:00",
+      "summary": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "Vogue Taiwan",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zOUpCT2RYSE5GOHZhOUZ3QjlLX0JXbm45Y0tteFU1d0pXV2dQOUNSbk43VkdYWHRKSGJxd3RlalR0Qmg5ckE2RkFEal9oZU9ZamJUT3p1UjF6ZVo5RXhWbi1NY2F5QktRYlN5MlNPaXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "433efa8460fe",
-      "title": "不同種類蚊愛叮不同的人 新研究揭「氣味密碼」 - 新唐人電視台",
-      "published": "2026-08-29T08:48:00+00:00",
-      "summary": "不同種類蚊愛叮不同的人 新研究揭「氣味密碼」&nbsp;&nbsp;新唐人電視台",
-      "sources": [
-        {
-          "name": "新唐人電視台",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yQWF4cmRpTVkwWGZ5blFWVzhFMFlZMXZ5MkVJV3JQaks2bm9jdUdydWY3UE1xNUk3Q2tnY1dUVEdXQjZaZUwyRW1TWUcwbjZjUXYwU09NbFM1MzA5c0ltVdIBZkFVX3lxTE1JeUJnMmJBWks5OHZVSjJiU1lGb1NvNGtVRWtYVjZ0cUc4cDZFQTNCSlNadUpiRzk3UzJ5WUEwNHFQcHc2TzZ2UlBEOHJfVGFneDNQOWFRTWw0blJHR2gycmNoRUJKQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "66d06d7197da",
-      "title": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效 | 科技新報 - LINE TODAY",
-      "published": "2026-08-29T00:24:19+00:00",
-      "summary": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzMVppSndVVlVhQ3hqcHotRmItaUh4U1VhdnZxR1lMZzNSNjdXMDY0SDhHVlk2RVJLSnZWeFdZTDlsY0Z5NW1seDlNQnlGN3pmdDB0U053?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUmZMVHBDZjd5d1dDMHRhcTlPVjRxTWRORHNHRE9jLXh3THZJdzJVQkpJRHZWODVKSlVSNEY3alIzaUJCbXpPR3BoN2gySE93SWs0Y0pEMlpKNlc4c3pCblNIdGpVZUd5cl9XZUFFS3pnM2F4X1F2MFNlQzVFOFR5b3NsU3lQZ1Zkbkh5dEx1RWVPSjZaa1BPMDJkZTlGQ1BKeXFrRHdTYnppUlpERUE?oc=5"
         }
       ]
     },
@@ -168,18 +156,6 @@
         {
           "name": "工商時報",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KQWFOU1NPbzJJVW1VTW12MWQ3d2g0eExWbmhtV3pXTTFFdEV1b00tb3Y1Y1p2RXU2MTZlM09MTk1GVVRKbk13VjhUV05UTExzRVZJaWVSd2VBdHhPRk1J?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f8c468e46439",
-      "title": "跟專家這樣運動能防癌 快快學起來 - 大纪元",
-      "published": "2026-08-30T15:00:00+00:00",
-      "summary": "跟專家這樣運動能防癌 快快學起來&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HemlHMFNjNGZIcWlJd3FzN3c1aS1kYkF0Z3ptTXdIZjlPeHdRdWRTZGY1WHowNmVPWExZX0ctYU9iNzF5UHBJdnlyNmJROWRqZUszRkN3SkpmSXhVUWI0SNIBZkFVX3lxTE1OY1QxZDRmLThKTXR6cDZkWGxMMHdOY1dpaVZ1ejdhYWpTcG50WDlzMmJDMFc0YTU0SE9BX1FfbTQxcTdKalJjb2FldVZxeUVHaXVRaklManhKbUVocGpCVlJmUnpXdw?oc=5"
         }
       ]
     },
@@ -228,6 +204,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNZnhQT3VzZnY1ZE9QMlZPQUtzMVZUdjRqXzlXeVN6WFlSb3loSDRiT0tkUUZSQzg1SUtQNHU1Tm5YZmRpLVQ3TkZXemZBODZhMVRYTER4UXJMZFp1WmpvSXptTzdtcEFZWXI3WUxLNG5rbkhwZC1wQ2Z0Xy04ekEyUmdlRzIyZ0RnV2oxd09lYi1hTEJnaXV2MFVQLVZRWjBOOTFNUXBUdFNBQ3RnanYxQmpkQjdjdk9YTzZDZHZYRUhuTWp2bEdjdWRPQU1ybmVmUzhmMkduU1Naa25iSV9QczJ0NWprdWhodkRJa2ZsWENnNGZudlZ2YTR3ampjaVRwd2EzMXhURHRna3puMGZ0MmZ3UjdSZkZhUkxETXZsemdDMkdrMmx6bHFqbDJJRURXcTRPUERtOFNKa2QzbXZBUGc4VDgxb3ZzMDM2eHJYSDF1dUFMWXdOYlltXzZVbjU5UnBFOTFOaHBOclNUODFzX29lMWRNX01HUmtvRll0M05KZ2lSYy1zcm5HQV9zWXBtaGs4dHM1NEpRLXg0ZG9yRFh3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f8c468e46439",
+      "title": "跟專家這樣運動能防癌 快快學起來 - 大纪元",
+      "published": "2026-08-30T15:00:00+00:00",
+      "summary": "跟專家這樣運動能防癌 快快學起來&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HemlHMFNjNGZIcWlJd3FzN3c1aS1kYkF0Z3ptTXdIZjlPeHdRdWRTZGY1WHowNmVPWExZX0ctYU9iNzF5UHBJdnlyNmJROWRqZUszRkN3SkpmSXhVUWI0SNIBZkFVX3lxTE1OY1QxZDRmLThKTXR6cDZkWGxMMHdOY1dpaVZ1ejdhYWpTcG50WDlzMmJDMFc0YTU0SE9BX1FfbTQxcTdKalJjb2FldVZxeUVHaXVRaklManhKbUVocGpCVlJmUnpXdw?oc=5"
         }
       ]
     },
@@ -312,18 +300,6 @@
         {
           "name": "科技島",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZOFRZcjVmWVFuc1VWYlNfWkU3THFCeWFMSEhodHJLMURaRlNDbGJta0tpdTNpY1lWckE2cldaS284QlRTVmdOOEFBeVJHV1haXzQtaUV6THJPY2FOdmxN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d604f08cad17",
-      "title": "嬰兒期少吃糖 50歲前罹癌風險低34％！這個時間點很關鍵 - soundofhope.org",
-      "published": "2026-08-25T21:33:52+00:00",
-      "summary": "嬰兒期少吃糖 50歲前罹癌風險低34％！這個時間點很關鍵&nbsp;&nbsp;soundofhope.org",
-      "sources": [
-        {
-          "name": "soundofhope.org",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96Ui1DRUhOZjFZZ3A3T01LNzQ3anN2UVUxTXBJM1RtZW96MGNZclQ4WXE0d3lQc3RxcHlsS0FidG1KNUc5dHpUWGZFcjRkYUt5TUZQbnZ5MC05WUE?oc=5"
         }
       ]
     },
@@ -424,6 +400,18 @@
       ]
     },
     {
+      "id": "1f116cb12cf0",
+      "title": "那些常吃的東西，竟然也是過敏原 - 紫荊雜誌",
+      "published": "2026-08-31T01:49:42+00:00",
+      "summary": "那些常吃的東西，竟然也是過敏原&nbsp;&nbsp;紫荊雜誌",
+      "sources": [
+        {
+          "name": "紫荊雜誌",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeUc3a2ZmODZFemJ5U3ZJaUtfRmF6UzVCSmdweWY3VGZKQ0xZWld0QXJwLVdMQTYzcE9WTFVnRDRZMDF0OXI0dGk0U3NQYnpyX1hoUXJ5LVR1UzJNVEczU2Jxc2dOa0NsQUEzUkdQMUwzWE1ScjNzSjI2Mk90ODc0V1BmWjl2cTdfdlljbGJnbUc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8b28cb44a0a5",
       "title": "被蚊咬別再用手指釘十字！哈佛博士教1招極速止痕！網民：簡直改變人生 - UHK 港生活",
       "published": "2026-08-29T22:37:41+00:00",
@@ -508,6 +496,18 @@
       ]
     },
     {
+      "id": "1ec214dcfd41",
+      "title": "新生兒需要癌症篩檢嗎？及早知道，真的能改變一生 | 科技新報 - LINE TODAY",
+      "published": "2026-08-24T07:28:37+00:00",
+      "summary": "新生兒需要癌症篩檢嗎？及早知道，真的能改變一生 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuVG9UZjJ0LWJsaHBaX3VMUmtUWDA4eW9hMDcyYWNaeThINjVZcVdjYmVYU2tQdDZuTnRWdWxVNkNMUnh4UGJPdllVQXhRd053M1oycFRn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "917c7951e26b",
       "title": "女性沒高潮就是性冷感？婦產科醫揭「高潮障礙」判斷關鍵：持續超過6個月才要留意 - 良醫健康網",
       "published": "2026-08-25T02:49:19+00:00",
@@ -556,13 +556,13 @@
       ]
     },
     {
-      "id": "b48ceca40793",
-      "title": "蕁麻疹︱皮膚科醫生鍾文浩拆解兒童出風癩迷思 以1特徵分辨急性與慢性 - 香港經濟日報HKET",
+      "id": "1032abcb3a2c",
+      "title": "蕁麻疹︱皮膚科醫生鍾文浩拆解兒童出風癩迷思 以1特徵分辨急性與慢性 - topick.hket.com",
       "published": "2026-08-24T10:41:39+00:00",
-      "summary": "蕁麻疹︱皮膚科醫生鍾文浩拆解兒童出風癩迷思 以1特徵分辨急性與慢性&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "蕁麻疹︱皮膚科醫生鍾文浩拆解兒童出風癩迷思 以1特徵分辨急性與慢性&nbsp;&nbsp;topick.hket.com",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
+          "name": "topick.hket.com",
           "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQczBpZTlhUVpDY0NnenZ0RHY0Q0QydE9PUzRCRGlBRThtWFcycnlKUnRXeHo3TzZJbjhtTmhhbmdpaVI4VDU4MkxzdlRSUk8xVzRxUUk0cWhnbGZLb29iOTRNMXUweWZKdjBUZVlwUEN3UWJObjFuYndnd1liOTBMSThvZ0Vzb1RYV0FtSG1KV2FzNERCZ3BRZ0FWUTV5dUZKUGs0TFJvd043WGdCb3VYZ2pTX3ZSbTc0V2hRMzZsVlk4SzU1RFZPWTRvQjd1ZGMtT21MSDJYRkh4OEhIZ1cwR00yZ1JQOExla3hWVVN4SkU1TnFPYUdtb3B2VVJwX0xwekxITlF5Q01jbHN2Q1VwdElDa1N0VC1nZEY4enJZU3NBODZyazJyMUxBTkh3V3JyaFVtM3FrbXJLWENXcjZlZmg3T3BLVXJaQUxXeW1HZGs3RF9IM0R3XzNuN0pQZkdSV1ZEWXIzay1peDdHN2ZNRTFseDhrTnJENFZDTFowOU5hcGJ1amVxMFkyNEQ5WldvaXVkLW9VQjAyQXlqZzlvcFpsdm9LUlBJLVFGMG1rWTdfbFZWbnlVUnBoMWpWVnpwR05EUFRYeXVKSnRyd0VZUXh5SQ?oc=5"
         }
       ]
