@@ -43,6 +43,22 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（5 則）
 
+### [HPV防癌不再是女生專利！台灣公費疫苗領先日韓 男生接種率首年破8成](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JRzdkWEJ3Z0sta0k4TTFuZktXMG1ISVYyRllfNG9Fbm1WRHhTa0RpQWgwUnVYemxIOURqaDNTNE1iOVRBMmp3bVBwRnd4bWNEWmFSVlkxdVNQLVBRZVdrUnlFMnk?oc=5)
+
+2026-08-31 <span class="news-indication-tag">癌症</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JRzdkWEJ3Z0sta0k4TTFuZktXMG1ISVYyRllfNG9Fbm1WRHhTa0RpQWgwUnVYemxIOURqaDNTNE1iOVRBMmp3bVBwRnd4bWNEWmFSVlkxdVNQLVBRZVdrUnlFMnk?oc=5)
+
+---
+
+### [35歲起就要注意中年人6種情緒增失智風險沒自信也中- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1MSG1CZlFvNnNHd3lBOERBdHhILTB3bHM5RzRVbEx4YXlNaEVwZl90ME1tTlFxTmxpcVJLVWRLLXhnWlpyOUhYZHc5d0MxSTZvRWhqaVlZZDRqVDZWaGxrQXVWdno4ZjVRTEQyMXd3?oc=5)
+
+2026-08-31 <span class="news-indication-tag">失智</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1MSG1CZlFvNnNHd3lBOERBdHhILTB3bHM5RzRVbEx4YXlNaEVwZl90ME1tTlFxTmxpcVJLVWRLLXhnWlpyOUhYZHc5d0MxSTZvRWhqaVlZZDRqVDZWaGxrQXVWdno4ZjVRTEQyMXd3?oc=5)
+
+---
+
 ### [《阿茲海默症》阿茲海默症致病蛋白質恐經輸血傳播？英國專家籲防患未然，加緊研發輸血致病蛋白質篩檢技術](https://news.google.com/rss/articles/CBMibEFVX3lxTE9XRGU5VHRsUE0tRjhBb1E0MXppUE5kVV9EcnZqOUdrbFdfV0wtNXlldlBJWHl4UktvVmhUSDhWYnB1emxxN2xja1dWZWhONVhxYzJ6YmVoRHlUMFdqT0gyTGxrNzhZQU9EQmpfUg?oc=5)
 
 2026-08-30 <span class="news-indication-tag">阿茲海默症</span>
@@ -64,22 +80,6 @@ permalink: /news/gefitinib/
 2026-08-27 <span class="news-indication-tag">腫瘤</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dVpYSU00Vnpfcmd6UktfR19xQm5LSlR4MmNFX2RSX3p5eVRPUGNhb09vSmR3b3dnMXB5N19RSnpUNm5YcnRCbmtfckJQMWhzaThxNnljSnM3UVlyNTBoX0l3U2g?oc=5)
-
----
-
-### [嘴巴長皰疹，竟藏失智風險？不只是太累、壓力大...唇皰疹1年超過2次很傷腦！權威醫公開「5招防大腦退化」](https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1BWOUJvRFpvWkU0OFUwaUFENjRwOXB0MTJaNmZVT1hES3J0QVVVMkp2aVZSSjlDUi02YV9TWDN4YTRfTHRXMnQzM0RaSVRmZ2hBX0RoUWpxbnM2cGt3T1ZrRi1sbkxmZW1zS1pTYkFocll5SW1FOGFrQnpHN2RGWA?oc=5)
-
-2026-08-25 <span class="news-indication-tag">失智</span>
-
-來源：[今周刊](https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1BWOUJvRFpvWkU0OFUwaUFENjRwOXB0MTJaNmZVT1hES3J0QVVVMkp2aVZSSjlDUi02YV9TWDN4YTRfTHRXMnQzM0RaSVRmZ2hBX0RoUWpxbnM2cGt3T1ZrRi1sbkxmZW1zS1pTYkFocll5SW1FOGFrQnpHN2RGWA?oc=5)
-
----
-
-### [新生兒需要癌症篩檢嗎？及早知道，真的能改變一生 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuVG9UZjJ0LWJsaHBaX3VMUmtUWDA4eW9hMDcyYWNaeThINjVZcVdjYmVYU2tQdDZuTnRWdWxVNkNMUnh4UGJPdllVQXhRd053M1oycFRn?oc=5)
-
-2026-08-24 <span class="news-indication-tag">癌症</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuVG9UZjJ0LWJsaHBaX3VMUmtUWDA4eW9hMDcyYWNaeThINjVZcVdjYmVYU2tQdDZuTnRWdWxVNkNMUnh4UGJPdllVQXhRd053M1oycFRn?oc=5)
 
 ---
 

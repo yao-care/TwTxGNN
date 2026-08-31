@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/hydroxyurea/
 <li><strong>原適應症</strong>：慢性骨髓性白血病、骨髓纖維化、真性紅血球增多症、卵巢癌、頭頸癌</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>female breast carcinoma（100.0%）</li>
+<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
 <li>sickle cell-hemoglobin E disease syndrome（99.7%）</li>
 <li>sickle cell-hemoglobin c disease syndrome（99.7%）</li>
 <li>hereditary persistence of fetal hemoglobin-sickle cell disease syndrome（99.7%）</li>
@@ -42,21 +42,29 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [【Pink Care Workshop】裙襬澎澎RUN 12週年乳癌防治講座—！彭上軒醫師談精準醫療，從分型治療到生活品質，掌握乳癌治療新進展 - Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiakFVX3lxTE5Qa2xaSmRsRVVYRmplWGZmdnhJVmo0UTRaeFA2VkczUXBreDVEUEUzbUF1SW5uakYxR0kxSUx5am9DSGxScmswY2dXZE51YzEwQW5xUnRxZ2lKQi1wb0RKWkNMTTRxbW00a3c?oc=5)
+
+2026-08-31 <span class="news-indication-tag">乳癌</span>
+
+來源：[Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiakFVX3lxTE5Qa2xaSmRsRVVYRmplWGZmdnhJVmo0UTRaeFA2VkczUXBreDVEUEUzbUF1SW5uakYxR0kxSUx5am9DSGxScmswY2dXZE51YzEwQW5xUnRxZ2lKQi1wb0RKWkNMTTRxbW00a3c?oc=5)
+
+---
+
+### [HPV防癌不再是女生專利！台灣公費疫苗領先日韓 男生接種率首年破8成](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JRzdkWEJ3Z0sta0k4TTFuZktXMG1ISVYyRllfNG9Fbm1WRHhTa0RpQWgwUnVYemxIOURqaDNTNE1iOVRBMmp3bVBwRnd4bWNEWmFSVlkxdVNQLVBRZVdrUnlFMnk?oc=5)
+
+2026-08-31 <span class="news-indication-tag">癌症</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JRzdkWEJ3Z0sta0k4TTFuZktXMG1ISVYyRllfNG9Fbm1WRHhTa0RpQWgwUnVYemxIOURqaDNTNE1iOVRBMmp3bVBwRnd4bWNEWmFSVlkxdVNQLVBRZVdrUnlFMnk?oc=5)
+
+---
 
 ### [頭骨裡竟藏「免疫軍隊」！研究發現防線一弱 腦腫瘤就變兇](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dVpYSU00Vnpfcmd6UktfR19xQm5LSlR4MmNFX2RSX3p5eVRPUGNhb09vSmR3b3dnMXB5N19RSnpUNm5YcnRCbmtfckJQMWhzaThxNnljSnM3UVlyNTBoX0l3U2g?oc=5)
 
 2026-08-27 <span class="news-indication-tag">腫瘤</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dVpYSU00Vnpfcmd6UktfR19xQm5LSlR4MmNFX2RSX3p5eVRPUGNhb09vSmR3b3dnMXB5N19RSnpUNm5YcnRCbmtfckJQMWhzaThxNnljSnM3UVlyNTBoX0l3U2g?oc=5)
-
----
-
-### [新生兒需要癌症篩檢嗎？及早知道，真的能改變一生 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuVG9UZjJ0LWJsaHBaX3VMUmtUWDA4eW9hMDcyYWNaeThINjVZcVdjYmVYU2tQdDZuTnRWdWxVNkNMUnh4UGJPdllVQXhRd053M1oycFRn?oc=5)
-
-2026-08-24 <span class="news-indication-tag">癌症</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuVG9UZjJ0LWJsaHBaX3VMUmtUWDA4eW9hMDcyYWNaeThINjVZcVdjYmVYU2tQdDZuTnRWdWxVNkNMUnh4UGJPdllVQXhRd053M1oycFRn?oc=5)
 
 ---
 

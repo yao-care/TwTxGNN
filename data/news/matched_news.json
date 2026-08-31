@@ -1,8 +1,342 @@
 {
-  "last_updated": "2026-08-31T06:26:23.647829+00:00",
-  "total_count": 50,
-  "matched_count": 12,
+  "last_updated": "2026-08-31T14:38:08.210889+00:00",
+  "total_count": 49,
+  "matched_count": 13,
   "news": [
+    {
+      "id": "c377245a86a1",
+      "title": "【Pink Care Workshop】裙襬澎澎RUN 12週年乳癌防治講座—！彭上軒醫師談精準醫療，從分型治療到生活品質，掌握乳癌治療新進展 - Marie Claire 美麗佳人",
+      "published": "2026-08-31T12:00:00+00:00",
+      "summary": "【Pink Care Workshop】裙襬澎澎RUN 12週年乳癌防治講座—！彭上軒醫師談精準醫療，從分型治療到生活品質，掌握乳癌治療新進展&nbsp;&nbsp;Marie Claire 美麗佳人",
+      "sources": [
+        {
+          "name": "Marie Claire 美麗佳人",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Qa2xaSmRsRVVYRmplWGZmdnhJVmo0UTRaeFA2VkczUXBreDVEUEUzbUF1SW5uakYxR0kxSUx5am9DSGxScmswY2dXZE51YzEwQW5xUnRxZ2lKQi1wb0RKWkNMTTRxbW00a3c?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cdc91edca112",
+      "title": "HPV防癌不再是女生專利！台灣公費疫苗領先日韓 男生接種率首年破8成",
+      "published": "2026-08-31T08:10:00+00:00",
+      "summary": "HPV防癌不再是女生專利！台灣公費疫苗領先日韓 男生接種率首年破8成&nbsp;&nbsp;自由健康網HPV疫苗男女並進第2年！男國中生首年接種率81.6% 今年拚85%&nbsp;&nbsp;Taiwan News東亞第一推HPV疫苗男女公費接種 首年男生接種率突破81.6% - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞男生女生一起接種HPV疫苗預防人類乳突病毒引起的相關癌症 | 中華日報&nbsp;&nbsp;LINE TODAY哈爾濱市開展HPV疫苗接種科普宣傳活動&nbsp;&nbsp;香港商报",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JRzdkWEJ3Z0sta0k4TTFuZktXMG1ISVYyRllfNG9Fbm1WRHhTa0RpQWgwUnVYemxIOURqaDNTNE1iOVRBMmp3bVBwRnd4bWNEWmFSVlkxdVNQLVBRZVdrUnlFMnk?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f1a46843a122",
+      "title": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道",
+      "published": "2026-08-31T07:53:10+00:00",
+      "summary": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道&nbsp;&nbsp;ELLE",
+      "sources": [
+        {
+          "name": "ELLE",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0xZYTg2WThhNWpPd1g2Ni1WU1VoOE1Qbi1xaG9EY0lGcklsLXlDYy16OVphX1VmRVFpalljSHROSWl2M1pXRk5vcUo5em13am1jVGN3dl9ad3VCc0NEREgtMnNHdnBKODNxZUFrVnp2cml0Z3ZFUnR3R3RfX2dnT3dKdlY5ajNOZDlR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "21c277703d52",
+      "title": "35歲起就要注意中年人6種情緒增失智風險沒自信也中- 健康",
+      "published": "2026-08-31T07:52:08+00:00",
+      "summary": "35歲起就要注意中年人6種情緒增失智風險沒自信也中- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MSG1CZlFvNnNHd3lBOERBdHhILTB3bHM5RzRVbEx4YXlNaEVwZl90ME1tTlFxTmxpcVJLVWRLLXhnWlpyOUhYZHc5d0MxSTZvRWhqaVlZZDRqVDZWaGxrQXVWdno4ZjVRTEQyMXd3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9d71c07796e4",
+      "title": "食鹹魚會增加鼻咽癌風險？鼻咽癌元兇—解構EB病毒真面目",
+      "published": "2026-08-31T06:39:21+00:00",
+      "summary": "食鹹魚會增加鼻咽癌風險？鼻咽癌元兇—解構EB病毒真面目&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOU0QwZHlOQkRKUHk4VlBoOUtNUEFBXzQtbWtZYXJQNU1vdlRWU1ZOMm03V3F1eDJfT2VzZ0Q2aFlDajl6R083TWFHTmo2VG1UN0tlYm1ESDJCeHdsREZwRVRQT0RSTzk3U0pGLXR4cE9MT1dROUZRcnVFNjZQSFFNd1lwWVk4cEpYS2RNU3dpVHNndlZTbUFkUzhIS2pHcndxTEpnN3pRODkyTGhXZS1sLTV5ZW9INDV2UGJ0ZUhES3JkTUNfd1FXZkQzN0RMaDBScURDLWJaN1FzZTFDa2dCVFVYWW9CdXBUVk84WFNtZ2xPSno5a09obGFBbVRnTzA4aU1sVmRwYzZXRUNxSHRaR0lyQTBuRkdlZmt2X2gwQUdQWFFGZG1CcldlRjJHbXdiU3F5XzZ6bC01blJsand0UmY5TGhsM20xN2g3YVFqdjhNUFhYdnI4OWRWcmFob0kwQVByOElLU2pmVXlDTjBON040cENoS1ZoaWxaZg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "65bd5e5d0c70",
+      "title": "80歲後走得快，認知障礙風險少一半！現在開始練還來得及嗎？醫師給答案",
+      "published": "2026-08-31T02:05:59+00:00",
+      "summary": "80歲後走得快，認知障礙風險少一半！現在開始練還來得及嗎？醫師給答案&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpaUQ1RThXS2RPckYwbk1TYzBnX2N0N3VKY0Utc0pha1NWSWNuRW9KM0lNNS1sV0djalNaSmNqOFBrMzFBYUVMRTB0Zms0aW56TFcwWE1BaURSbFB1bUxBNTNR0gFiQVVfeXFMUGlpRDVFOFdLZE9yRjBuTVNjMGdfY3Q3dUpjRS1zSmFrU1ZJY25Fb0ozSU01LWxXR2NqU1pKY2o4UGszMUFhRUxFMHRmazRpbnpMVzBYTUFpRFJsUHVtTEE1M1E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "1f116cb12cf0",
       "title": "那些常吃的東西，竟然也是過敏原",
@@ -12,19 +346,6 @@
         {
           "name": "紫荊雜誌",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeUc3a2ZmODZFemJ5U3ZJaUtfRmF6UzVCSmdweWY3VGZKQ0xZWld0QXJwLVdMQTYzcE9WTFVnRDRZMDF0OXI0dGk0U3NQYnpyX1hoUXJ5LVR1UzJNVEczU2Jxc2dOa0NsQUEzUkdQMUwzWE1ScjNzSjI2Mk90ODc0V1BmWjl2cTdfdlljbGJnbUc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "56bd49a8032a",
-      "title": "7種錯誤生活習慣 可能會損害你的心臟健康",
-      "published": "2026-08-31T00:59:00+00:00",
-      "summary": "7種錯誤生活習慣 可能會損害你的心臟健康&nbsp;&nbsp;新唐人電視台",
-      "sources": [
-        {
-          "name": "新唐人電視台",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5cjJiUHhWU0psOHJKckZTMmxGdFZwQW1Ock1pSGhJUnQtUWxoenEta0ltN0lIYkNNN2dCRngwM0gzY0RMT000MnhoNndNZU82NmFmajlhWDBUclFpV3EtbtIBZkFVX3lxTFBIMlZJSVBWbGNyb3pkZ2w5X1dPZTRZQ0hqeU56blBTbnV4eHkxN1ZtbVdjWGlNdHNuNERrMWoxajEtNkJPeDBGbXJKV1h2SFg2N2lDaEZDcUlWXzhUOVR6eFJQVHJ4UQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -93,6 +414,19 @@
       ]
     },
     {
+      "id": "9ef7a8ed1211",
+      "title": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略 | 科技新報 - LINE TODAY",
+      "published": "2026-08-30T07:03:17+00:00",
+      "summary": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGSll6b1BveHpueHBfVVVER1pFUzR6czJiSWRTMDIyQlN1aWZicDd2N3E5b182dFNhZkNzNGFrN2ttNzRjamJvWnd5OTFQMmYtMWVhWjVR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "fbc10fa9b11d",
       "title": "天氣熱吃不下醫激推3高營養密度食物：牛肉掃倦怠- 健康",
       "published": "2026-08-30T06:27:20+00:00",
@@ -158,19 +492,6 @@
       "matched_keywords": []
     },
     {
-      "id": "9ef7a8ed1211",
-      "title": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略 | 科技新報 - LINE TODAY",
-      "published": "2026-08-29T18:21:16+00:00",
-      "summary": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGSll6b1BveHpueHBfVVVER1pFUzR6czJiSWRTMDIyQlN1aWZicDd2N3E5b182dFNhZkNzNGFrN2ttNzRjamJvWnd5OTFQMmYtMWVhWjVR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "97b00b33adee",
       "title": "健康網》適當射精 降死亡風險！網紅醫：射精幫腦抗衰老",
       "published": "2026-08-29T13:20:00+00:00",
@@ -223,19 +544,6 @@
       "matched_keywords": []
     },
     {
-      "id": "063d4b5f7408",
-      "title": "熟齡族保健怎麼補？ 先從飲食找答案- 生活",
-      "published": "2026-08-28T09:35:16+00:00",
-      "summary": "熟齡族保健怎麼補？ 先從飲食找答案- 生活&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EelRDdFM3c3NpNV8tQ3NKbVdrRDEwMzBvbzkyZ0ZlNnpMcDR0WVhZUkV5cUxuZEFCUEZXYi05X3hIRWN0NW9xNWx3emlyX19BZW9kQVdQak9URDl2NXQzZmF4c0ViczZramtoOEJ3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "1c25ba3d2c35",
       "title": "改善50歲後代謝停滯！專家公開10大「促進新陳代謝」必吃清單，養出健康好體質 - Vogue Taiwan",
       "published": "2026-08-28T00:00:00+00:00",
@@ -244,6 +552,19 @@
         {
           "name": "Vogue Taiwan",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUkxQy12LU5hU2lYUFZuclMyNlVwU3FBVUVQczJQcTVvR0h6WWV0cEhNTzZISlZsekpNMU1sazBCTFF0RmxFeXRrUzVLNlFxcUd2TldzOVVKSWFzbnlod0JsQ1FOUFVVY19zcXp3TFdyNU45QWZWSVF6RmdHVmM0VjllcjE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4edbea016e78",
+      "title": "健康網》睪固酮偏低先別急著補！ 醫揭男性荷爾蒙「6大關鍵」",
+      "published": "2026-08-27T13:18:00+00:00",
+      "summary": "健康網》睪固酮偏低先別急著補！ 醫揭男性荷爾蒙「6大關鍵」&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ram9MS2FsMVoyc1NxR3NMQmhiSDRSSWlPSlhLc2ZqTElFUXdpelVGcmVzZU5SN0ZWMmR1ZmZLZUc0eHQtZXJkdkFoemU4X1R5S0VWV1lLb0YzeVF6Tm1BZWEwVnA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -484,31 +805,6 @@
       "matched_keywords": []
     },
     {
-      "id": "f1a46843a122",
-      "title": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道",
-      "published": "2026-08-27T07:00:00+00:00",
-      "summary": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道&nbsp;&nbsp;ELLE",
-      "sources": [
-        {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0xZYTg2WThhNWpPd1g2Ni1WU1VoOE1Qbi1xaG9EY0lGcklsLXlDYy16OVphX1VmRVFpalljSHROSWl2M1pXRk5vcUo5em13am1jVGN3dl9ad3VCc0NEREgtMnNHdnBKODNxZUFrVnp2cml0Z3ZFUnR3R3RfX2dnT3dKdlY5ajNOZDlR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "e868a56ed689",
       "title": "維生素D不只顧骨骼 美研究揭認知評分高出13％以上",
       "published": "2026-08-27T06:04:00+00:00",
@@ -561,19 +857,6 @@
       "matched_keywords": []
     },
     {
-      "id": "9a031c8b5f77",
-      "title": "這些藥物讓人更難以應對高溫",
-      "published": "2026-08-27T00:08:47+00:00",
-      "summary": "這些藥物讓人更難以應對高溫&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zalN4SlplMUpYLUtCbHVManFBTl9mZjNUZHUxTHBYbkNCVkNmTGNPVFpZaE5Db1JnX1pBc2xEdnM1Q0E2c1RveWhZNUVabkJGa211TEFkWkdKcjlZNWNmWFYwSkFEUdIBa0FVX3lxTE4wcDJRallxT0VVeVlEYTBsWUctR1dCU2hYU2NLS1NiSURTRXk5SEVzWkJRdFd2OFVNdmpKMldVOV9Oa1dnMU1nOVpEZTdrb1BkdjlUVUVicXVXZW93SmprTGhseTlKNG5rTUtZ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "194e99c4b4ae",
       "title": "4歲女童感染水痘半年後突然嘔吐頭痛中風 家長必學BE FAST口訣",
       "published": "2026-08-26T23:00:02+00:00",
@@ -616,14 +899,14 @@
       "matched_keywords": []
     },
     {
-      "id": "0cb20c7107b8",
-      "title": "帶狀皰疹疫苗大降中風與心臟病風險效果堪比降血壓藥- 國際",
-      "published": "2026-08-26T14:52:00+00:00",
-      "summary": "帶狀皰疹疫苗大降中風與心臟病風險效果堪比降血壓藥- 國際&nbsp;&nbsp;工商時報",
+      "id": "ecd51fb8ca45",
+      "title": "帶狀皰疹疫苗大降中風與心臟病風險 效果堪比降血壓藥",
+      "published": "2026-08-26T14:52:51+00:00",
+      "summary": "帶狀皰疹疫苗大降中風與心臟病風險 效果堪比降血壓藥&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hbGg0d3VFVERXYk5qajNoUG00YWMtZ2hzSXJrM1VLc2kzQk1xYWtUUzJ2S0pZbkJ4TXBMYjlOemRnNlQwMTEzclZ1dExmcGE0LUtvLUZsYk5icWZfMG5z?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DVkFBbXBXajczZ0ZMRlIzT05kZk9mOGgxbzBHMVgydUdrRzdENDNaaHA2akF4MUJZU2xGOXhQSkpVdHJQN3JreERTTXdGaVNyYUhnY3RzNHotSjNiZWphdEpOYk5GclRuVnhid2tR?oc=5"
         }
       ],
       "matched_keywords": [
@@ -809,14 +1092,14 @@
       "matched_keywords": []
     },
     {
-      "id": "a068f9e54014",
+      "id": "371287597d79",
       "title": "桑拿7大驚人好處 每週4次 研究：中風率降61%",
       "published": "2026-08-25T19:00:00+00:00",
       "summary": "桑拿7大驚人好處 每週4次 研究：中風率降61%&nbsp;&nbsp;大纪元",
       "sources": [
         {
           "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNeDc1M3JIcXJyeUVMeE9qQTBzSWt4SjJQZU1WQnd1Mjhidk1Sd1JpcjF4ZUc5MjVNcTlfM1FpakZWV0syTGk4ZWR4QlB5OXNrMzdQd2xPbk80ZDhZVW5DV9IBZkFVX3lxTE1Wdk5nSzdGQ1pSc2s3N3l3UFlmQkJrWms4SWJaN2NJQXdSTU9sZ3pTZ19qa3lKMXZDbVF5QjA4NHBwcFJDWGVwZ2RPR1pBX3hrRzVMVllKbkhnNHpTM29kLWNJbFFNUQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNeDc1M3JIcXJyeUVMeE9qQTBzSWt4SjJQZU1WQnd1Mjhidk1Sd1JpcjF4ZUc5MjVNcTlfM1FpakZWV0syTGk4ZWR4QlB5OXNrMzdQd2xPbk80ZDhZVW5DVw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -901,19 +1184,6 @@
       "matched_keywords": []
     },
     {
-      "id": "a02a97fc882c",
-      "title": "鼻咽癌｜早期病徵難察覺！近99%患者染一種病毒 專家警告小時候忌食一種食物",
-      "published": "2026-08-25T09:34:04+00:00",
-      "summary": "鼻咽癌｜早期病徵難察覺！近99%患者染一種病毒 專家警告小時候忌食一種食物&nbsp;&nbsp;TVB",
-      "sources": [
-        {
-          "name": "TVB",
-          "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxOa2haemt1VUtHcU5LWFhQZlktNHhrM0ttcUlSSUYweFo3NlY5WWQ4dUFiOFlnSUtyWlNmY3lELXBXTmFaU0VjUkVXcnBCX1lOWENjMnRNMVhHOWU5WUdjYU41bjRQb2hUMHVMU3NLVDgwNFpKQ1FCeEN2SVh6dDVRaU9IcHFoa01WYnJIdjdrZTJyQzFWYk9QenBrdk8wMG1nU2tXcmpXVlBia1NORTYxSElBT204Y2x3LVNWc0V3bkVheDBNS3ZGTC1iTlh2VDZiT0Eta1FhSjBzbGZxemVrVDEzV2JHOWpTZXdOVjNkUTNtNGpjX2xqaV9weWdYaVhnbFdzLXBqeU82RFBXVlVtYjAzNVJfYnhMSTNCa0FwRDVJYV8xQjNlMGZHdUJTQ3Eyb2RCTG5xeXpVcW9OeDRTYmNtR1ZFeTlNRGxFOUJBb3RBY2pVWUZZdlNPU21hbUtuZXpoeGlxN3FpRUwwY2IwTkcxSlk3TDBHYkppT1gyeTRMX1gxNGhEaUdMNWdBekU2UVJaZzdPWUtzMDJ0N254TzFzM3BqZ0RzUW5laVNuUzBMcUJhZlhGcjJSZW9uLUNYQnMzd2hKYjBLM0VOTHc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "a8608abfacf9",
       "title": "改善腸胃健康的8款「最佳早餐」推薦！告別消化不良，從每日第一餐養出好膚質與免疫力 - Vogue Taiwan",
       "published": "2026-08-25T09:13:48+00:00",
@@ -927,25 +1197,37 @@
       "matched_keywords": []
     },
     {
-      "id": "61818e4d793b",
-      "title": "嘴巴長皰疹，竟藏失智風險？不只是太累、壓力大...唇皰疹1年超過2次很傷腦！權威醫公開「5招防大腦退化」",
-      "published": "2026-08-25T07:00:00+00:00",
-      "summary": "嘴巴長皰疹，竟藏失智風險？不只是太累、壓力大...唇皰疹1年超過2次很傷腦！權威醫公開「5招防大腦退化」&nbsp;&nbsp;今周刊",
+      "id": "df3aa7bec7f1",
+      "title": "常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位",
+      "published": "2026-08-25T05:00:35+00:00",
+      "summary": "常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "今周刊",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1BWOUJvRFpvWkU0OFUwaUFENjRwOXB0MTJaNmZVT1hES3J0QVVVMkp2aVZSSjlDUi02YV9TWDN4YTRfTHRXMnQzM0RaSVRmZ2hBX0RoUWpxbnM2cGt3T1ZrRi1sbkxmZW1zS1pTYkFocll5SW1FOGFrQnpHN2RGWA?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vekliQVg0aUpVTDdqNTdwRG1aaFd6aG5QbTdiaTdncWExRUFXU0xNMFdudTBJWTQ1OS1jZjFyV0tMcWMwVTZfdnV1cExPeTlZS3VwQTFBaXpGSVNf0gFiQVVfeXFMTXJIdF95QmlnZmotZ0dWejdmQ1hpdU1lWXl5RFVKOFVHaWwtS1J5b2p4N1lDdlMtbnEyLXMwSEVfRVN5UTd1eHFvMDJDRVpNUXoyRkVZelhqUm45a0QyUVF3SVE?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
             }
           ]
         }
@@ -1015,265 +1297,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "1032abcb3a2c",
-      "title": "蕁麻疹︱皮膚科醫生鍾文浩拆解兒童出風癩迷思 以1特徵分辨急性與慢性",
-      "published": "2026-08-24T10:41:39+00:00",
-      "summary": "蕁麻疹︱皮膚科醫生鍾文浩拆解兒童出風癩迷思 以1特徵分辨急性與慢性&nbsp;&nbsp;topick.hket.com",
-      "sources": [
-        {
-          "name": "topick.hket.com",
-          "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQczBpZTlhUVpDY0NnenZ0RHY0Q0QydE9PUzRCRGlBRThtWFcycnlKUnRXeHo3TzZJbjhtTmhhbmdpaVI4VDU4MkxzdlRSUk8xVzRxUUk0cWhnbGZLb29iOTRNMXUweWZKdjBUZVlwUEN3UWJObjFuYndnd1liOTBMSThvZ0Vzb1RYV0FtSG1KV2FzNERCZ3BRZ0FWUTV5dUZKUGs0TFJvd043WGdCb3VYZ2pTX3ZSbTc0V2hRMzZsVlk4SzU1RFZPWTRvQjd1ZGMtT21MSDJYRkh4OEhIZ1cwR00yZ1JQOExla3hWVVN4SkU1TnFPYUdtb3B2VVJwX0xwekxITlF5Q01jbHN2Q1VwdElDa1N0VC1nZEY4enJZU3NBODZyazJyMUxBTkh3V3JyaFVtM3FrbXJLWENXcjZlZmg3T3BLVXJaQUxXeW1HZGs3RF9IM0R3XzNuN0pQZkdSV1ZEWXIzay1peDdHN2ZNRTFseDhrTnJENFZDTFowOU5hcGJ1amVxMFkyNEQ5WldvaXVkLW9VQjAyQXlqZzlvcFpsdm9LUlBJLVFGMG1rWTdfbFZWbnlVUnBoMWpWVnpwR05EUFRYeXVKSnRyd0VZUXh5SQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6a2e0221c203",
-      "title": "常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位",
-      "published": "2026-08-24T09:00:00+00:00",
-      "summary": "常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位&nbsp;&nbsp;健康醫療網",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tYlZGbVphSTdYbllpdGxXUXhDdXNhOHktY2t3NmVzVFlKcGF1bmVXWjY0d3JrN1dLempFUGltQTB4dnpYU0ktQU9PMmdiR3pscVZvVC13?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "關節炎",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1ec214dcfd41",
-      "title": "新生兒需要癌症篩檢嗎？及早知道，真的能改變一生 | 科技新報 - LINE TODAY",
-      "published": "2026-08-24T07:28:37+00:00",
-      "summary": "新生兒需要癌症篩檢嗎？及早知道，真的能改變一生 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuVG9UZjJ0LWJsaHBaX3VMUmtUWDA4eW9hMDcyYWNaeThINjVZcVdjYmVYU2tQdDZuTnRWdWxVNkNMUnh4UGJPdllVQXhRd053M1oycFRn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

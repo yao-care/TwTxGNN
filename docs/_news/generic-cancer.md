@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "腫瘤（generic_cancer） 相關新聞"
+title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "腫瘤（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
-# 腫瘤（generic_cancer） 相關新聞
+# 癌症（generic_cancer） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="腫瘤（generic_cancer） 有什麼相關新聞？">
-<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「腫瘤」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「癌症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -77,19 +77,19 @@ permalink: /news/generic-cancer/
 
 ## 相關新聞（2 則）
 
+### [HPV防癌不再是女生專利！台灣公費疫苗領先日韓 男生接種率首年破8成](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JRzdkWEJ3Z0sta0k4TTFuZktXMG1ISVYyRllfNG9Fbm1WRHhTa0RpQWgwUnVYemxIOURqaDNTNE1iOVRBMmp3bVBwRnd4bWNEWmFSVlkxdVNQLVBRZVdrUnlFMnk?oc=5)
+
+2026-08-31
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JRzdkWEJ3Z0sta0k4TTFuZktXMG1ISVYyRllfNG9Fbm1WRHhTa0RpQWgwUnVYemxIOURqaDNTNE1iOVRBMmp3bVBwRnd4bWNEWmFSVlkxdVNQLVBRZVdrUnlFMnk?oc=5)
+
+---
+
 ### [頭骨裡竟藏「免疫軍隊」！研究發現防線一弱 腦腫瘤就變兇](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dVpYSU00Vnpfcmd6UktfR19xQm5LSlR4MmNFX2RSX3p5eVRPUGNhb09vSmR3b3dnMXB5N19RSnpUNm5YcnRCbmtfckJQMWhzaThxNnljSnM3UVlyNTBoX0l3U2g?oc=5)
 
 2026-08-27
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dVpYSU00Vnpfcmd6UktfR19xQm5LSlR4MmNFX2RSX3p5eVRPUGNhb09vSmR3b3dnMXB5N19RSnpUNm5YcnRCbmtfckJQMWhzaThxNnljSnM3UVlyNTBoX0l3U2g?oc=5)
-
----
-
-### [新生兒需要癌症篩檢嗎？及早知道，真的能改變一生 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuVG9UZjJ0LWJsaHBaX3VMUmtUWDA4eW9hMDcyYWNaeThINjVZcVdjYmVYU2tQdDZuTnRWdWxVNkNMUnh4UGJPdllVQXhRd053M1oycFRn?oc=5)
-
-2026-08-24
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuVG9UZjJ0LWJsaHBaX3VMUmtUWDA4eW9hMDcyYWNaeThINjVZcVdjYmVYU2tQdDZuTnRWdWxVNkNMUnh4UGJPdllVQXhRd053M1oycFRn?oc=5)
 
 ---
 

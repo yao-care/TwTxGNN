@@ -36,6 +36,14 @@ permalink: /news/acebutolol/
 
 ## 相關新聞（3 則）
 
+### [HPV防癌不再是女生專利！台灣公費疫苗領先日韓 男生接種率首年破8成](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JRzdkWEJ3Z0sta0k4TTFuZktXMG1ISVYyRllfNG9Fbm1WRHhTa0RpQWgwUnVYemxIOURqaDNTNE1iOVRBMmp3bVBwRnd4bWNEWmFSVlkxdVNQLVBRZVdrUnlFMnk?oc=5)
+
+2026-08-31 <span class="news-indication-tag">癌症</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JRzdkWEJ3Z0sta0k4TTFuZktXMG1ISVYyRllfNG9Fbm1WRHhTa0RpQWgwUnVYemxIOURqaDNTNE1iOVRBMmp3bVBwRnd4bWNEWmFSVlkxdVNQLVBRZVdrUnlFMnk?oc=5)
+
+---
+
 ### [頭骨裡竟藏「免疫軍隊」！研究發現防線一弱 腦腫瘤就變兇](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dVpYSU00Vnpfcmd6UktfR19xQm5LSlR4MmNFX2RSX3p5eVRPUGNhb09vSmR3b3dnMXB5N19RSnpUNm5YcnRCbmtfckJQMWhzaThxNnljSnM3UVlyNTBoX0l3U2g?oc=5)
 
 2026-08-27 <span class="news-indication-tag">腫瘤</span>
@@ -49,14 +57,6 @@ permalink: /news/acebutolol/
 2026-08-26 <span class="news-indication-tag">高血壓</span>
 
 來源：[香港01](https://news.google.com/rss/articles/CBMinANBVV95cUxOY0JqNmwzZjYtV0U3M0NJbGRZbHRHRGRfYXpxb0dOQmVZemplNlZYRFY5SXZ3ZHd2Wlp2aEVFNVB0QkdYUG5hcGl4aVpBSFpIZksxY2E2U1Q0SklrMS1Ic291VTcyQ0dTbGx6LW1FTkZhZkoxajlGTURtbTFZT1ROUWQ2WnZwb1U4bDJjWVNuSmREd3RyaFdsV1VfUnhCbFJScHptNFB6SFlhYnNDdkxacXJRS1hwUWx5eW1YLVprNGstdm1jM21xemYyT0x6akROU0hCYWxwUHprZmVZRTNTRmtVYlRrcF84X1VqMmdzNGxxVmo3aWlfUW9BQjdXSGhXY18tRzJkd1c5aXBWRGNEemlUS09iSEJURzA4VktGSUtQYkM2UHRCQmU3YkdDLXpkUFdpMlM5VUxFZFZWQU5nenFKc24zOVA2a3FOUzVqY2NfeXFiWlJaU1lNam1ldFQtYXhEX0hmcXZrLUtHWnM0UWtHWEdUU3plTDNwQVFLT0kwbnRyZEN4cnFVRkV4bjVWX2Rib2dveXp1NTJD?oc=5)
-
----
-
-### [新生兒需要癌症篩檢嗎？及早知道，真的能改變一生 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuVG9UZjJ0LWJsaHBaX3VMUmtUWDA4eW9hMDcyYWNaeThINjVZcVdjYmVYU2tQdDZuTnRWdWxVNkNMUnh4UGJPdllVQXhRd053M1oycFRn?oc=5)
-
-2026-08-24 <span class="news-indication-tag">癌症</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuVG9UZjJ0LWJsaHBaX3VMUmtUWDA4eW9hMDcyYWNaeThINjVZcVdjYmVYU2tQdDZuTnRWdWxVNkNMUnh4UGJPdllVQXhRd053M1oycFRn?oc=5)
 
 ---
 

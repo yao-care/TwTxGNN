@@ -44,11 +44,11 @@ permalink: /news/aluminum_oxide/
 
 ## 相關新聞（1 則）
 
-### [常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tYlZGbVphSTdYbllpdGxXUXhDdXNhOHktY2t3NmVzVFlKcGF1bmVXWjY0d3JrN1dLempFUGltQTB4dnpYU0ktQU9PMmdiR3pscVZvVC13?oc=5)
+### [常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vekliQVg0aUpVTDdqNTdwRG1aaFd6aG5QbTdiaTdncWExRUFXU0xNMFdudTBJWTQ1OS1jZjFyV0tMcWMwVTZfdnV1cExPeTlZS3VwQTFBaXpGSVNf0gFiQVVfeXFMTXJIdF95QmlnZmotZ0dWejdmQ1hpdU1lWXl5RFVKOFVHaWwtS1J5b2p4N1lDdlMtbnEyLXMwSEVfRVN5UTd1eHFvMDJDRVpNUXoyRkVZelhqUm45a0QyUVF3SVE?oc=5)
 
-2026-08-24 <span class="news-indication-tag">關節炎</span>
+2026-08-25 <span class="news-indication-tag">關節炎</span>
 
-來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tYlZGbVphSTdYbllpdGxXUXhDdXNhOHktY2t3NmVzVFlKcGF1bmVXWjY0d3JrN1dLempFUGltQTB4dnpYU0ktQU9PMmdiR3pscVZvVC13?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vekliQVg0aUpVTDdqNTdwRG1aaFd6aG5QbTdiaTdncWExRUFXU0xNMFdudTBJWTQ1OS1jZjFyV0tMcWMwVTZfdnV1cExPeTlZS3VwQTFBaXpGSVNf0gFiQVVfeXFMTXJIdF95QmlnZmotZ0dWejdmQ1hpdU1lWXl5RFVKOFVHaWwtS1J5b2p4N1lDdlMtbnEyLXMwSEVfRVN5UTd1eHFvMDJDRVpNUXoyRkVZelhqUm45a0QyUVF3SVE?oc=5)
 
 ---
 
