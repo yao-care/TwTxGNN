@@ -14,7 +14,7 @@ permalink: /news/nitrofurantoin/
 ---
 
 <p class="key-answer" data-question="Nitrofurantoin 有什麼相關新聞？">
-<strong>Nitrofurantoin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nitrofurantoin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,28 +35,20 @@ permalink: /news/nitrofurantoin/
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（99.7%）</li>
 <li>sclerosing cholangitis（99.6%）</li>
 <li>methemoglobinemia, alpha type（99.4%）</li>
-<li class="indication-matched">gout（99.4%）<span class="indication-tag">📰 痛風</span></li>
+<li>gout（99.4%）</li>
 <li>methemoglobinemia（99.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nitrofurantoin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位](https://news.google.com/rss/articles/CBMiYEFVX3lxTE85OWJLc01yZ3VYVkZXdnVpMFdOUzdpREdHTzhJT3BubzBrQ29Yd2ZleHpRQnRrWVhDaWNieFVjMnhaTHBOX2daZlpQbVNXR2l5Wm5SVHNKUk4yNVkzMk92OA?oc=5)
 
 2026-08-25 <span class="news-indication-tag">關節炎</span>
 
 來源：[民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE85OWJLc01yZ3VYVkZXdnVpMFdOUzdpREdHTzhJT3BubzBrQ29Yd2ZleHpRQnRrWVhDaWNieFVjMnhaTHBOX2daZlpQbVNXR2l5Wm5SVHNKUk4yNVkzMk92OA?oc=5)
-
----
-
-### [健康網》40歲男痛風不當一回事 醫曝男人最怕這3大腎病](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jaFBBbXhwZXpiVWNZV2N1T2R4b0t0bkdKdzlHc195bUlHX25sQUlWd0Q2ODFuc2o5NUtGVFFTTnRnYnMyU3FWSlZIeElDXzQ2UnVCbTFwMUwxMGE3Y1h2S0gzZEo?oc=5)
-
-2026-08-25 <span class="news-indication-tag">痛風</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jaFBBbXhwZXpiVWNZV2N1T2R4b0t0bkdKdzlHc195bUlHX25sQUlWd0Q2ODFuc2o5NUtGVFFTTnRnYnMyU3FWSlZIeElDXzQ2UnVCbTFwMUwxMGE3Y1h2S0gzZEo?oc=5)
 
 ---
 
