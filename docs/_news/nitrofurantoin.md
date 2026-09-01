@@ -44,19 +44,19 @@ permalink: /news/nitrofurantoin/
 
 ## 相關新聞（2 則）
 
+### [常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位](https://news.google.com/rss/articles/CBMiYEFVX3lxTE85OWJLc01yZ3VYVkZXdnVpMFdOUzdpREdHTzhJT3BubzBrQ29Yd2ZleHpRQnRrWVhDaWNieFVjMnhaTHBOX2daZlpQbVNXR2l5Wm5SVHNKUk4yNVkzMk92OA?oc=5)
+
+2026-08-25 <span class="news-indication-tag">關節炎</span>
+
+來源：[民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE85OWJLc01yZ3VYVkZXdnVpMFdOUzdpREdHTzhJT3BubzBrQ29Yd2ZleHpRQnRrWVhDaWNieFVjMnhaTHBOX2daZlpQbVNXR2l5Wm5SVHNKUk4yNVkzMk92OA?oc=5)
+
+---
+
 ### [健康網》40歲男痛風不當一回事 醫曝男人最怕這3大腎病](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jaFBBbXhwZXpiVWNZV2N1T2R4b0t0bkdKdzlHc195bUlHX25sQUlWd0Q2ODFuc2o5NUtGVFFTTnRnYnMyU3FWSlZIeElDXzQ2UnVCbTFwMUwxMGE3Y1h2S0gzZEo?oc=5)
 
 2026-08-25 <span class="news-indication-tag">痛風</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jaFBBbXhwZXpiVWNZV2N1T2R4b0t0bkdKdzlHc195bUlHX25sQUlWd0Q2ODFuc2o5NUtGVFFTTnRnYnMyU3FWSlZIeElDXzQ2UnVCbTFwMUwxMGE3Y1h2S0gzZEo?oc=5)
-
----
-
-### [常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vekliQVg0aUpVTDdqNTdwRG1aaFd6aG5QbTdiaTdncWExRUFXU0xNMFdudTBJWTQ1OS1jZjFyV0tMcWMwVTZfdnV1cExPeTlZS3VwQTFBaXpGSVNf0gFiQVVfeXFMTXJIdF95QmlnZmotZ0dWejdmQ1hpdU1lWXl5RFVKOFVHaWwtS1J5b2p4N1lDdlMtbnEyLXMwSEVfRVN5UTd1eHFvMDJDRVpNUXoyRkVZelhqUm45a0QyUVF3SVE?oc=5)
-
-2026-08-25 <span class="news-indication-tag">關節炎</span>
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vekliQVg0aUpVTDdqNTdwRG1aaFd6aG5QbTdiaTdncWExRUFXU0xNMFdudTBJWTQ1OS1jZjFyV0tMcWMwVTZfdnV1cExPeTlZS3VwQTFBaXpGSVNf0gFiQVVfeXFMTXJIdF95QmlnZmotZ0dWejdmQ1hpdU1lWXl5RFVKOFVHaWwtS1J5b2p4N1lDdlMtbnEyLXMwSEVfRVN5UTd1eHFvMDJDRVpNUXoyRkVZelhqUm45a0QyUVF3SVE?oc=5)
 
 ---
 
