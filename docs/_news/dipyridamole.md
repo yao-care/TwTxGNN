@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [4歲女童感染水痘半年後突然嘔吐頭痛中風 家長必學BE FAST口訣](https://news.google.com/rss/articles/CBMiigNBVV95cUxQVzBfYm1CYW9venN4a0s1Mk5MTEZCQ2xJa1l4ckVmT212OW5heVRHLWN6RWhhR0tJMmxSdGZuSE51OVNoMjE1WnV4SW9xX0xrRlktZzVDRUxsR0hhV0staExIS2tmWm5mQXNSdTVvZ1RicVM1Qzd4NVBJV2dDVGQ5dWJLd0hUVlNuazM5M3BBYjdSZllDU1BIQmVYTVRCRVpDaTZra19HTVBRbnU0ZVhmekJ6ckVuQjZBdklyTDkxeFN1SGN0anpYMHoxOENnSENJZVFxWXJZdGpVWFQtR0pzZWhPVVZIc3JCWWhLMERONlgwZHZyM1J4el9zQVl5ZDNGcVZhM2lKVnFNd3NndXlWZWE4RWtLRkxCcWVyd3NrNHdIVDJxekdHUzBITEd2azlhb2V3NXM5V1UtWWJfU3FoSmVZQ0U1T0hjOWswVEs1amJIUjBxdTVDQnpwaWVxeWVYSTJzR0pPQzU3Ylk3N3FKMHpuSFVlTUtFSGw5dnlZeUdwVEs0NGNDMHNB?oc=5)
 
 2026-08-26 <span class="news-indication-tag">中風</span>
 
 來源：[hk01.com](https://news.google.com/rss/articles/CBMiigNBVV95cUxQVzBfYm1CYW9venN4a0s1Mk5MTEZCQ2xJa1l4ckVmT212OW5heVRHLWN6RWhhR0tJMmxSdGZuSE51OVNoMjE1WnV4SW9xX0xrRlktZzVDRUxsR0hhV0staExIS2tmWm5mQXNSdTVvZ1RicVM1Qzd4NVBJV2dDVGQ5dWJLd0hUVlNuazM5M3BBYjdSZllDU1BIQmVYTVRCRVpDaTZra19HTVBRbnU0ZVhmekJ6ckVuQjZBdklyTDkxeFN1SGN0anpYMHoxOENnSENJZVFxWXJZdGpVWFQtR0pzZWhPVVZIc3JCWWhLMERONlgwZHZyM1J4el9zQVl5ZDNGcVZhM2lKVnFNd3NndXlWZWE4RWtLRkxCcWVyd3NrNHdIVDJxekdHUzBITEd2azlhb2V3NXM5V1UtWWJfU3FoSmVZQ0U1T0hjOWswVEs1amJIUjBxdTVDQnpwaWVxeWVYSTJzR0pPQzU3Ylk3N3FKMHpuSFVlTUtFSGw5dnlZeUdwVEs0NGNDMHNB?oc=5)
-
----
-
-### [桑拿7大驚人好處 每週4次 研究：中風率降61%](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNeDc1M3JIcXJyeUVMeE9qQTBzSWt4SjJQZU1WQnd1Mjhidk1Sd1JpcjF4ZUc5MjVNcTlfM1FpakZWV0syTGk4ZWR4QlB5OXNrMzdQd2xPbk80ZDhZVW5DV9IBZkFVX3lxTE1Wdk5nSzdGQ1pSc2s3N3l3UFlmQkJrWms4SWJaN2NJQXdSTU9sZ3pTZ19qa3lKMXZDbVF5QjA4NHBwcFJDWGVwZ2RPR1pBX3hrRzVMVllKbkhnNHpTM29kLWNJbFFNUQ?oc=5)
-
-2026-08-25 <span class="news-indication-tag">中風</span>
-
-來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNeDc1M3JIcXJyeUVMeE9qQTBzSWt4SjJQZU1WQnd1Mjhidk1Sd1JpcjF4ZUc5MjVNcTlfM1FpakZWV0syTGk4ZWR4QlB5OXNrMzdQd2xPbk80ZDhZVW5DV9IBZkFVX3lxTE1Wdk5nSzdGQ1pSc2s3N3l3UFlmQkJrWms4SWJaN2NJQXdSTU9sZ3pTZ19qa3lKMXZDbVF5QjA4NHBwcFJDWGVwZ2RPR1pBX3hrRzVMVllKbkhnNHpTM29kLWNJbFFNUQ?oc=5)
 
 ---
 

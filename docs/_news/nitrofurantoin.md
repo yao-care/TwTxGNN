@@ -14,7 +14,7 @@ permalink: /news/nitrofurantoin/
 ---
 
 <p class="key-answer" data-question="Nitrofurantoin 有什麼相關新聞？">
-<strong>Nitrofurantoin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nitrofurantoin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/nitrofurantoin/
 <li><strong>原適應症</strong>：尿路感染（膀胱炎、腎盂炎、尿道炎）</li>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">rheumatoid arthritis（99.9%）<span class="indication-tag">📰 關節炎</span></li>
+<li>rheumatoid arthritis（99.9%）</li>
 <li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome（99.8%）</li>
 <li>brain small vessel disease 1 with or without ocular anomalies（99.8%）</li>
 <li>diabetic nephropathy（99.8%）</li>
@@ -42,15 +42,9 @@ permalink: /news/nitrofurantoin/
 <p><a href="{{ '/drugs/nitrofurantoin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位](https://news.google.com/rss/articles/CBMiYEFVX3lxTE85OWJLc01yZ3VYVkZXdnVpMFdOUzdpREdHTzhJT3BubzBrQ29Yd2ZleHpRQnRrWVhDaWNieFVjMnhaTHBOX2daZlpQbVNXR2l5Wm5SVHNKUk4yNVkzMk92OA?oc=5)
-
-2026-08-25 <span class="news-indication-tag">關節炎</span>
-
-來源：[民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE85OWJLc01yZ3VYVkZXdnVpMFdOUzdpREdHTzhJT3BubzBrQ29Yd2ZleHpRQnRrWVhDaWNieFVjMnhaTHBOX2daZlpQbVNXR2l5Wm5SVHNKUk4yNVkzMk92OA?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

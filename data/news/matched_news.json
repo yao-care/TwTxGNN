@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-09-01T19:01:13.057478+00:00",
-  "total_count": 41,
-  "matched_count": 10,
+  "last_updated": "2026-09-01T22:12:26.022082+00:00",
+  "total_count": 34,
+  "matched_count": 7,
   "news": [
     {
-      "id": "cdf915b67fb1",
+      "id": "1c27b18af27c",
       "title": "甚麼是「危險心率」？女性有這些症狀別輕忽",
       "published": "2026-09-01T14:12:00+00:00",
-      "summary": "甚麼是「危險心率」？女性有這些症狀別輕忽&nbsp;&nbsp;世界新聞網",
+      "summary": "甚麼是「危險心率」？女性有這些症狀別輕忽&nbsp;&nbsp;worldjournal.com",
       "sources": [
         {
-          "name": "世界新聞網",
+          "name": "worldjournal.com",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KbjA4Nm9PV2tMeXhjWWRYOEZ5ZG9Jb2w0Z0JZQzk2eWtEU1F1dDNOWnMtRnktdDk3SzdvTU9IT0U3Z0FPTUVael9aeU9ueHNVX0dMa2wxMlQzcTIyVE4tUFp30gFnQVVfeXFMTjJ5MXdldmFha0ZBUHVxa3FDTG1vZ0dWcWlvOHlnSGJXUGNkNDVWbE8ybkdUdm5EOVdIaEtwSEdUb09GMnRYT0ZCLTdPS1A1NVQ5MEp1MktOMllGdWo2aDRmNnBYRkp3WQ?oc=5"
         }
       ],
@@ -56,26 +56,13 @@
       "matched_keywords": []
     },
     {
-      "id": "7ad0855dc1b9",
-      "title": "健康網》明明很累卻又睡不好 專家揭缺1營養素 血糖也失守",
-      "published": "2026-09-01T05:05:00+00:00",
-      "summary": "健康網》明明很累卻又睡不好 專家揭缺1營養素 血糖也失守&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rNWdzM1hCUGZPZUxfYlFuTTNNVnE0SFAtYlZoWnpDTVJuQloxemRjLWZYM1ZuX3VUQzZFcVVvVDJwSDZvZ0FhYVlVRmJpUmxoeUl4cldoWWkyZHZLMjdTYmJhc1jSAWpBVV95cUxPM3pZb19YYnRTVVg2d0RseGNBbGN4enN3WmZmTkR2U243cUp2NllqdHcxU0dXSEktMG83c2lVWHFXTk9wYU9jNVJXenVpUDQ0RzJQNEJKVmVvTjVibDlYajdiSl9Wd29OcG9R?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7adc88e71b04",
-      "title": "65歲婦感冒死忍4日不求醫！送急症驚揭全身發炎！醫生警告4件事不吃藥更傷身 - UHK 港生活",
+      "id": "7582e2cb61c3",
+      "title": "65歲婦感冒死忍4日不求醫！送急症驚揭全身發炎！醫生警告4件事不吃藥更傷身",
       "published": "2026-08-31T23:19:55+00:00",
-      "summary": "65歲婦感冒死忍4日不求醫！送急症驚揭全身發炎！醫生警告4件事不吃藥更傷身&nbsp;&nbsp;UHK 港生活",
+      "summary": "65歲婦感冒死忍4日不求醫！送急症驚揭全身發炎！醫生警告4件事不吃藥更傷身&nbsp;&nbsp;hk.ulifestyle.com.hk",
       "sources": [
         {
-          "name": "UHK 港生活",
+          "name": "hk.ulifestyle.com.hk",
           "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNLW5vdW5vZ1AyeHk4dGZlUnNiQ3FwaHVHVlA5MHJVRU1DYzh4XzZzRkRLTnFUVjZfUDVCSFEyN3ZJdFl1VEROb243WXM0MVpsVkVaZGFDaFFwcm8tejZHdlpZX0ItRjRQd0dyMlRwSnA5ZUV6alZvN19wQlNOUFpuMDNyd19FX3VuVG5wUUxyOFlOdG01czhyaTF4UFJ6TTRYaVlGVnJmTnN5WFB2NlhjZ2RoR0xObmpYYVlaaE05OWFaeUszT2RLRXp2d1dMdUZtb3hhcFhZMGw2MmtWMTZPV1NibGRsemNSbU03LWpXcXdMbXROS2NNcjVVd0RmSXk1Y0RrZFRsUWgtalAxd1E1NFNwSVNpWEF5UWtpbF9IOU9BWGs2a2pvOTA5cVM2MTNDTHpIbUZrelZEWGplU1JEU3JQRlJmSnNBZFBzN2VGOVNNUm41cExhUWZSTUNqazY1ZWdCbUZHVkYxeHFZUmE2cGpsWlFsQ0lsSkxkS0c5Y25wdk43ZlczaDE0Z0JZREswYVhXdzVrY2RYdk81OFlnT0U3T1ZDTGhnOE81Q0lfV0xRWGpRM19GbnBtY3lidjMzcHRNWWJ4Zmk0UVczWG9LZkJHTlVPTUVTOWc?oc=5"
         }
       ],
@@ -233,13 +220,13 @@
       "matched_keywords": []
     },
     {
-      "id": "1f116cb12cf0",
+      "id": "22f1b7384291",
       "title": "那些常吃的東西，竟然也是過敏原",
       "published": "2026-08-31T01:49:42+00:00",
-      "summary": "那些常吃的東西，竟然也是過敏原&nbsp;&nbsp;紫荊雜誌",
+      "summary": "那些常吃的東西，竟然也是過敏原&nbsp;&nbsp;bau.com.hk",
       "sources": [
         {
-          "name": "紫荊雜誌",
+          "name": "bau.com.hk",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeUc3a2ZmODZFemJ5U3ZJaUtfRmF6UzVCSmdweWY3VGZKQ0xZWld0QXJwLVdMQTYzcE9WTFVnRDRZMDF0OXI0dGk0U3NQYnpyX1hoUXJ5LVR1UzJNVEczU2Jxc2dOa0NsQUEzUkdQMUwzWE1ScjNzSjI2Mk90ODc0V1BmWjl2cTdfdlljbGJnbUc?oc=5"
         }
       ],
@@ -257,31 +244,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "f1a46843a122",
-      "title": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道",
-      "published": "2026-08-30T07:00:00+00:00",
-      "summary": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道&nbsp;&nbsp;ELLE",
-      "sources": [
-        {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0xZYTg2WThhNWpPd1g2Ni1WU1VoOE1Qbi1xaG9EY0lGcklsLXlDYy16OVphX1VmRVFpalljSHROSWl2M1pXRk5vcUo5em13am1jVGN3dl9ad3VCc0NEREgtMnNHdnBKODNxZUFrVnp2cml0Z3ZFUnR3R3RfX2dnT3dKdlY5ajNOZDlR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "fbc10fa9b11d",
@@ -310,26 +272,26 @@
       "matched_keywords": []
     },
     {
-      "id": "8b28cb44a0a5",
-      "title": "被蚊咬別再用手指釘十字！哈佛博士教1招極速止痕！網民：簡直改變人生 - UHK 港生活",
+      "id": "7db4fc20dbee",
+      "title": "被蚊咬別再用手指釘十字！哈佛博士教1招極速止痕！網民：簡直改變人生",
       "published": "2026-08-29T22:37:41+00:00",
-      "summary": "被蚊咬別再用手指釘十字！哈佛博士教1招極速止痕！網民：簡直改變人生&nbsp;&nbsp;UHK 港生活",
+      "summary": "被蚊咬別再用手指釘十字！哈佛博士教1招極速止痕！網民：簡直改變人生&nbsp;&nbsp;hk.ulifestyle.com.hk",
       "sources": [
         {
-          "name": "UHK 港生活",
+          "name": "hk.ulifestyle.com.hk",
           "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQYnBfQVI5Y1RoQVVaYjl4aGY4cC1XLTYyY1lRdWdaWTR2aGhBZU83WWNsa3l0UFZLdTRFOGM0SDlJOWZwejVoOVRwZG1qQkNYWndXWUVvalNSU09TUTNvakwyTFJFSTNhWERXQ25wdF92Y21uNVpFc3k1ZHBqMW54S0lJY0ZTMk1qa29XaHB1NDVRRDdIMk9FS0wyWS1xS3l4UDFyMVJZOFdvWlpTaTdIc205SmlTS1RaT19vQTFKM200N1RTUE1DS0FrVnlGbzhVTlBCRDZaeGh4NHoydUhuNVJ1T2t6WkRuWVBwbmRPRmVXa09paGV2M2VhU2RYS3NSeTJ5VGg1Wl8wbFQzTV9SU1dEYWlsTVZ4d0tvdzRITzFGY0JzWTVBem5fdVpPNVVRREZfYXpPTWkxNXd2NFRzNkZjR2tXOFo1WW15T01kTDhTRzZvT183ZmUza19CZUZyM2trLXA5UEhjN29LLURRaEt3VUg1ckkzbHF2MjcwRkE4cHBy?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "5ae7471d540e",
+      "id": "668a1df4b0c1",
       "title": "德州大學新發現，90歲大腦仍有進步空間",
       "published": "2026-08-29T21:15:56+00:00",
-      "summary": "德州大學新發現，90歲大腦仍有進步空間&nbsp;&nbsp;美南新聞",
+      "summary": "德州大學新發現，90歲大腦仍有進步空間&nbsp;&nbsp;scdaily.com",
       "sources": [
         {
-          "name": "美南新聞",
+          "name": "scdaily.com",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wM0l3ZWhPNzVsNDYycWpIVE94NS1hNDFRLTFodG52R0M3T3UyS1RSNUF0MlVlMlI1M25jck9iYk5XVlR0dkE?oc=5"
         }
       ],
@@ -661,32 +623,6 @@
       "matched_keywords": []
     },
     {
-      "id": "701b6b56bf3d",
-      "title": "腸道維生素B12哪裡來？研究驚揭奇特機制：病毒竟會「炸開細菌」",
-      "published": "2026-08-27T04:33:00+00:00",
-      "summary": "腸道維生素B12哪裡來？研究驚揭奇特機制：病毒竟會「炸開細菌」&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40RE9KTHI4eVk0SFg3dWs2elRNLThHQ25oSEdrZFlxZUdMNWU5LTd2MXcxcFVfeHp6a2kzV3RlMmR4aWZJSWx4bF9LYXgtUkxDN2xEM1U1b3MxZjVsZmlFWVlXTjI?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1eb304a6d909",
-      "title": "糖尿病恐傷血管 薑黃素不只抗發炎「還有望提供保護」",
-      "published": "2026-08-27T03:57:24+00:00",
-      "summary": "糖尿病恐傷血管 薑黃素不只抗發炎「還有望提供保護」&nbsp;&nbsp;科技島",
-      "sources": [
-        {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZOFRZcjVmWVFuc1VWYlNfWkU3THFCeWFMSEhodHJLMURaRlNDbGJta0tpdTNpY1lWckE2cldaS284QlRTVmdOOEFBeVJHV1haXzQtaUV6THJPY2FOdmxN?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "c8448633a460",
       "title": "比維生素D重要！1數字更關鍵:死亡率飆2倍 - 鏡週刊Mirror Media",
       "published": "2026-08-27T00:13:00+00:00",
@@ -729,14 +665,14 @@
       ]
     },
     {
-      "id": "c65c758b44fa",
-      "title": "他汀藥到底有幾「毒」？常傳多副作用 研究揭真相",
-      "published": "2026-08-26T18:53:56+00:00",
-      "summary": "他汀藥到底有幾「毒」？常傳多副作用 研究揭真相&nbsp;&nbsp;信報網站",
+      "id": "a17866f9f9fa",
+      "title": "大腦老化新線索，血液免疫細胞竟會「闖入」大腦 | 科技新報 - LINE TODAY",
+      "published": "2026-08-26T12:59:04+00:00",
+      "summary": "大腦老化新線索，血液免疫細胞竟會「闖入」大腦 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "信報網站",
-          "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQdTJnbEs5UnNNR3hndFFfZ3RuZlNod0VFams3ZGZxZlNQdWY3OTk3bURuenFYVTRsUVRRdF9veUhDeXNFSlJPcUJQRHRjdjY3alJWUEdXN3NRSndTdHJtbjFlMEU0LVF0eXBfQ0hzVEJaN1h2TmFwNDFLQ2RvSmVVM3BWRXpLOC1zTzVJZmdYeFVLRHo0dUQwYTd3UF9fd2VZUUVFRTlVaXZqYWprRXBkeFRWSEwwejBnMGVRNDFoZzh4cHVndDV5eU13d2thLW9FekQ5bk1ONmhuMHZIc2RzR1lZQkFLZThtS2x1eHktOXFuVTAxOS1YV0d0eko3dDI2enI0bGJXaUprMmVaaHE1aTdsZHh2NHc0S09NWkx4T21DdzQyV25WYXVlV3pONnF1S29lc1lxb29EWEdmemhxdjBmSDhDRjA2eXRsMjJ5UG1NSHV3dTdBbmZjN1FzTW0wcWxnM0pYQ0VWRjU1U0NiWUE2YUtLcUlMQmk0dFNYRWx0UmtiamdXWmZGR1Nrd0x4Skc3dF9taU5PZm5UR2JGcVFRRjYybGtoSEo2V3lRZWxBRVZLSVNaSkxxM3NJNWVPVUZoSUd3S09tZVk0QW9qX3FpTlFHRm1qUmxwc21tM2tWM1k2cm1j?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40SjF2eHNiRUtxSzIxWWZ4U1VsT2JNV0VROTFtWXpzX0pFUDdSX0MzcDU3cm44ZDM1TmEwZmJ3ZVQ1S0R5dzFTVS1HSk96aWN3RUd6b0x3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -797,19 +733,6 @@
       "matched_keywords": []
     },
     {
-      "id": "45f04de0d2f9",
-      "title": "大腦老化新線索，血液免疫細胞竟會「闖入」大腦 - TechNews 科技新報",
-      "published": "2026-08-26T00:31:27+00:00",
-      "summary": "大腦老化新線索，血液免疫細胞竟會「闖入」大腦&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMERXXzdtaFBlQUwwWHlMd01UTXROdU1sVGJpTmkzQkJNYURibFZaS1E2ckt4SGtMd2lHWENNYThvMHhfc2xDdy1PdGpLcUQ3UjJWcnNHU28xNmJqeHlXNmowYmFEdUhWVnNpZ0JSelp5YTV3dHdOT3lkbzZleHVjOVoxOVdyVTdMVHozSGM3NWlJcU8zdXFmdE9RMWhKZWFnU3c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "8841c25e8983",
       "title": "公用瑜伽墊染HPV？武漢28歲女用公用瑜伽墊後背長滿丘疹| 翻牆來尋奇| 兩岸",
       "published": "2026-08-26T00:24:09+00:00",
@@ -821,72 +744,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "38feeeb80a8d",
-      "title": "常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位",
-      "published": "2026-08-25T21:00:00+00:00",
-      "summary": "常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85OWJLc01yZ3VYVkZXdnVpMFdOUzdpREdHTzhJT3BubzBrQ29Yd2ZleHpRQnRrWVhDaWNieFVjMnhaTHBOX2daZlpQbVNXR2l5Wm5SVHNKUk4yNVkzMk92OA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "關節炎",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a068f9e54014",
-      "title": "桑拿7大驚人好處 每週4次 研究：中風率降61%",
-      "published": "2026-08-25T19:00:00+00:00",
-      "summary": "桑拿7大驚人好處 每週4次 研究：中風率降61%&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNeDc1M3JIcXJyeUVMeE9qQTBzSWt4SjJQZU1WQnd1Mjhidk1Sd1JpcjF4ZUc5MjVNcTlfM1FpakZWV0syTGk4ZWR4QlB5OXNrMzdQd2xPbk80ZDhZVW5DV9IBZkFVX3lxTE1Wdk5nSzdGQ1pSc2s3N3l3UFlmQkJrWms4SWJaN2NJQXdSTU9sZ3pTZ19qa3lKMXZDbVF5QjA4NHBwcFJDWGVwZ2RPR1pBX3hrRzVMVllKbkhnNHpTM29kLWNJbFFNUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

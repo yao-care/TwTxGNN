@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-01T19:01:13.087743+00:00",
-  "count": 10,
+  "generated": "2026-09-01T22:12:26.052902+00:00",
+  "count": 7,
   "news": [
     {
-      "id": "7adc88e71b04",
-      "title": "65歲婦感冒死忍4日不求醫！送急症驚揭全身發炎！醫生警告4件事不吃藥更傷身 - UHK 港生活",
+      "id": "7582e2cb61c3",
+      "title": "65歲婦感冒死忍4日不求醫！送急症驚揭全身發炎！醫生警告4件事不吃藥更傷身",
       "published": "2026-08-31T23:19:55+00:00",
       "sources": [
         {
-          "name": "UHK 港生活",
+          "name": "hk.ulifestyle.com.hk",
           "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNLW5vdW5vZ1AyeHk4dGZlUnNiQ3FwaHVHVlA5MHJVRU1DYzh4XzZzRkRLTnFUVjZfUDVCSFEyN3ZJdFl1VEROb243WXM0MVpsVkVaZGFDaFFwcm8tejZHdlpZX0ItRjRQd0dyMlRwSnA5ZUV6alZvN19wQlNOUFpuMDNyd19FX3VuVG5wUUxyOFlOdG01czhyaTF4UFJ6TTRYaVlGVnJmTnN5WFB2NlhjZ2RoR0xObmpYYVlaaE05OWFaeUszT2RLRXp2d1dMdUZtb3hhcFhZMGw2MmtWMTZPV1NibGRsemNSbU03LWpXcXdMbXROS2NNcjVVd0RmSXk1Y0RrZFRsUWgtalAxd1E1NFNwSVNpWEF5UWtpbF9IOU9BWGs2a2pvOTA5cVM2MTNDTHpIbUZrelZEWGplU1JEU3JQRlJmSnNBZFBzN2VGOVNNUm41cExhUWZSTUNqazY1ZWdCbUZHVkYxeHFZUmE2cGpsWlFsQ0lsSkxkS0c5Y25wdk43ZlczaDE0Z0JZREswYVhXdzVrY2RYdk81OFlnT0U3T1ZDTGhnOE81Q0lfV0xRWGpRM19GbnBtY3lidjMzcHRNWWJ4Zmk0UVczWG9LZkJHTlVPTUVTOWc?oc=5"
         }
       ],
@@ -93,30 +93,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f1a46843a122",
-      "title": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道",
-      "published": "2026-08-30T07:00:00+00:00",
-      "sources": [
-        {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0xZYTg2WThhNWpPd1g2Ni1WU1VoOE1Qbi1xaG9EY0lGcklsLXlDYy16OVphX1VmRVFpalljSHROSWl2M1pXRk5vcUo5em13am1jVGN3dl9ad3VCc0NEREgtMnNHdnBKODNxZUFrVnp2cml0Z3ZFUnR3R3RfX2dnT3dKdlY5ajNOZDlR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
@@ -405,70 +381,6 @@
             {
               "slug": "metoprolol",
               "name": "Metoprolol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "38feeeb80a8d",
-      "title": "常折手指會得關節炎？醫揭「喀喀聲」真相 真正要小心的是這部位",
-      "published": "2026-08-25T21:00:00+00:00",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85OWJLc01yZ3VYVkZXdnVpMFdOUzdpREdHTzhJT3BubzBrQ29Yd2ZleHpRQnRrWVhDaWNieFVjMnhaTHBOX2daZlpQbVNXR2l5Wm5SVHNKUk4yNVkzMk92OA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "關節炎",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a068f9e54014",
-      "title": "桑拿7大驚人好處 每週4次 研究：中風率降61%",
-      "published": "2026-08-25T19:00:00+00:00",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNeDc1M3JIcXJyeUVMeE9qQTBzSWt4SjJQZU1WQnd1Mjhidk1Sd1JpcjF4ZUc5MjVNcTlfM1FpakZWV0syTGk4ZWR4QlB5OXNrMzdQd2xPbk80ZDhZVW5DV9IBZkFVX3lxTE1Wdk5nSzdGQ1pSc2s3N3l3UFlmQkJrWms4SWJaN2NJQXdSTU9sZ3pTZ19qa3lKMXZDbVF5QjA4NHBwcFJDWGVwZ2RPR1pBX3hrRzVMVllKbkhnNHpTM29kLWNJbFFNUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }
