@@ -1,15 +1,90 @@
 {
-  "generated": "2026-09-02T05:16:14.767917+00:00",
-  "count": 8,
+  "generated": "2026-09-02T10:13:41.710012+00:00",
+  "count": 18,
   "news": [
     {
-      "id": "f236f115878d",
+      "id": "f7cc12b34c58",
+      "title": "糖尿病大腸癌不只看遺傳！最新研究：「同住」竟會互相共享腸道菌",
+      "published": "2026-09-02T08:20:00+00:00",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsdVdOU1J4VzVBNi1VbjYtVmJJN0NodXA2WU93T1BUak4tWjlrX3hSbUVVczdfNUNUZnloRjhvY1hlclNVeUY3Y9IBTEFVX3lxTE54V2dDZ0V6MmRSZl85QmUycWQ5SldiXzhXbS1VTG1ZSXF6S2QtdHNiM3Q1dHh5d3lUaWJVeXE5SUxuY3FxdzRFbHZCa3U?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3bb20c1494b2",
+      "title": "中風先兆｜30歲男忽略1先兆突中風昏迷 醫生警告：年輕人最易出事！【附中風先兆】",
+      "published": "2026-09-02T05:12:16+00:00",
+      "sources": [
+        {
+          "name": "topick.hket.com",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wMmRHNUoxRkNwVDZ6eFNHcDBhUURfRW5sb0hQOGl3T010X3hpZ0Y3YXpXR0lrUkpqM2xRZVdGdUx2R2Nic2xtTVpTV2RIOU9m?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5f398c9900b7",
       "title": "腦腫瘤｜ 40歲5孩之母遭誤診肌腱炎 癲癇發作昏迷終確診末期腦癌 腳部現1徵兆要留心",
       "published": "2026-09-02T03:08:57+00:00",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxNWDN6ellDNlB5NmR5NjlJUWQ1TUNhU0l0N3RaZjlyRUZyMk9qS0JMN1JQR0d4dlJFQ0YzM0lmSTBUakxWUFplMTE1aVgyc3IwelBXTTNIQlAzWHU2ek15ZVF3TXR6MFRDRm9CbEdZUlNtVG1SYy1ObWZ0VUc0NC1zTW1hWWNtZnJOVXNrMncyNXYzVmk4eXQwcjJ1YkEyM2hKOFBhT1BMTjZoMnFrS01ScllTejhaRF9BNlV3cWEySDRVYXFzcGw3NWlhWUowb1hnSUdseVo3N0FBRWZWd29kYXF3SlMxMWJSYWhQbGJiNHEtMzk4eTNjQzk1UEtyQUxtMFBRT25Zcmc5TU1ncm5zdVR6OXdWakhEWG5OVVVnQ09FdnZqcDFiLTk2QWp2THptR01GLVlnOVpFRktFajgwQURacDV5ZXc3SXVueUdZdVpZdXdIZlhJR3lPdnhETjA3bnR4dm1wUE5LZmsxWHZ0S1FpS19TeXhoeW5iQm9uaHcxaExRN21CTTZkbTBzM2FvWXpYUTdhUlhvQmU1emFvWTFXclZVYXdnb2c5aDQ0ZnJ3OVNMdjVZRHpJV094anRUV0pSd0ZrXzVJR1R3UDZ4UVNJS3hSUkF4YVI1MUJ5el9mYTNsM2xBZGd6NVlJOUd6U0tqTzRraDlVNXVfTUZXeXZKZXduOEZUdHZNakFJcUJsd2RocGdtT0d0N21IRlgxYmcwLQ?oc=5"
+          "name": "topick.hket.com",
+          "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPemlzOFZUQmkwQlR2Uk5FemhGZ1R4VlZsaGpVSnJIM044c3d5ZnNBUC1pX1dZLVRLT1FUUkxZbDl3dzZMUjQ0YldLZDFjSmRWb1VEa0k1TzBlbkVYdXJyTFlGZTk3dG5MLUd2dEt3RERrUXBnX0p4OVVQeUZRdlVIOEZaajM3WTA3emZONUVXQU4xRkM3UmpqalNta2hoNURCaEdIZXdPTnhMMHZQbDExSmsxeWNDTWdEWE5iTDJ4Y3d5UGhoRFRhUExJYXoyNlRvVnd1QWh1aXFSSF9JOHp0NHBDMmlsQlRYcmI1LVZFXy1VZWRpTGJlcmVzVEV5ZnhRY0dNbl9VRmRqZzRhNkVEaEVwalFSN2VwSWtmSGJ6NDFSTGk0Mnk4c2NHeUQya3pFLWQycFMwQmo5aDBWM2FEQVBadXd3Tjdab1EtRFE4OG5EbTFiWDZKWExlWEtXb2ttR1BOd1ZuNUVtTUtIZ3lxRjFwRzdNTTFaYTFGeEZyMlRiZTJ5ZS1vcUdONmhKNldEYm82Nzc2MGNiaFo2blQwMXdfdG5aVnlBMkhCM1pmeXpNYmo5VFh3aTlOZVJpWVpGLTAtS2ltaWo1eFBkMEdNbmlsQUhwUFRjbWZlUW96VWVtRGNxY0twSGRnOW1IM19KM0IzSGpwMEpJemNMcWQ1VlV3SUNNbnd0VkNRVE40SHJmUEtIMXpJ?oc=5"
         }
       ],
       "keywords": [
@@ -222,6 +297,136 @@
       ]
     },
     {
+      "id": "30bbd8c88c9b",
+      "title": "大腸癌不一定要開大刀研究新路線先放化療再決定- 醫藥新知- 新聞",
+      "published": "2026-09-01T07:39:11+00:00",
+      "sources": [
+        {
+          "name": "華人今日網",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10Ulg2b09Ud0dySjY3LXlUeGg0TjNfNUJNLUdMR1NtYjA3bGlyenJobl9ITVJvdFZlRlJPZ3FFeF9VaHJjcVNOY1kwYkIwVjdYWHZKX1YwaXNXLWlrTEhCa3cwYVUwZw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7f182b38cd30",
+      "title": "心臟病｜39歲五孩母無胸痛冒一種症狀2小時心臟病發猝死男女徵狀不同常被誤診丈夫成單親爸心碎提告- 東張+ - myTV SUPER",
+      "published": "2026-08-31T23:45:00+00:00",
+      "sources": [
+        {
+          "name": "myTV SUPER",
+          "link": "https://news.google.com/rss/articles/CBMiigVBVV95cUxORnp5TG5QNXRlSlhyS1ZjbWtUXzI2Y3J4ZjJFVDl1Y0E3a0d2QjZqd01LZEVmLXZuSHdvRjJweUJEbTB2TVY0ak50UEJETGNqeTJSbTNYZ0llaV9wNm5WSElqSmpoV09Fci00Q1ZxU1p3ZVRoQ0pvelBKYTl4RXdiU0tERjVPazlIWmFwRkZPd3JrdFRXTlZWTFI2bC1yTExFa1g4ZU5rdWtJa3VtQy1QNTE1TEE4LS0zbGhaaVlWWDVBal9hNWh1Nk1OZkNBaDFnbFo1V2JPZjJab1lJbko1Ni15MDRWTnJZMHl1bjJnS1FjdXBYc05wX3FWbFBZZzY3dFB6ZHl6cmlqUDY2cUI2N0JCYjRRcC1ESGZMQzZSS1ctb2RXOWtyQm91OHNuSDBGWUNLS1BkS2FqZE1yZllnMjR0dU1QZXdKektfR1dnYzNma3BLcUwxVFZCNU9MVHZoWWV3eHFFQmNWZno3SEtSTWxwem56TGdieXlHQW9wcVhSbXJMckN5WW9WeDRBaUFqQ0NHcE5vLXJmaVkxQnVBeHdPQkdCVzdIdDZseHVsVW1OOGg5cjN0eGJqRFZSQzRaV2JwLWtXSC1yYUdja1pRWDRITldlYlRNMWR6UkVMUWVldXhsbE9jVGdfYlhyS3kzMU55N0x2TGRtVTBnSWNhMGlMU0t5SWYzVF9HWlE2NFBZZ1Z6eVRhN1QybVE3MWUtMlZXSWdDZnptOXBzTXVlYnkxZ1NBSVNlQUJ6VExtS1Fmd0RuUDNydGNsUElZaHp1ZDE1dlAzTnZjMnFqSXFJMWd0cjg3VUEtOHFDWEhKMEdLWjl6dWwtX1d0Y2o5Q2ZvdW9BRm9sWUVnZw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心臟病發",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "7adc88e71b04",
       "title": "65歲婦感冒死忍4日不求醫！送急症驚揭全身發炎！醫生警告4件事不吃藥更傷身 - UHK 港生活",
       "published": "2026-08-31T18:19:08+00:00",
@@ -294,6 +499,30 @@
       ]
     },
     {
+      "id": "27f611314701",
+      "title": "晚年能否穩定吃飽竟與失智有關？研究追蹤2051人揭關鍵時期",
+      "published": "2026-08-31T08:12:37+00:00",
+      "sources": [
+        {
+          "name": "health.udn.com",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wN1BaV3dFZFpwcjAtQ0phc3RnNEVCVkU5ZmdMcmRvTjAwa24zVGFFTUNIQ0RKRUp0Y2I2cTk4dC0ydnp1cUdGNGpTdzdtRE5tQ2xLd3Y2RnFzTGQwdmfSAWNBVV95cUxQazhyc2JlTklxRUxLUjZXc2ZUTGhGMG9uNWEwalh1NGtVUUNiWngwVm1FZUJPUG52ZnpXX2l5eHFORl84SVoyUmx1ZFhraHNmS0VqNXdZQVVOUG1KVWRILW55cU0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "21c277703d52",
       "title": "35歲起就要注意中年人6種情緒增失智風險沒自信也中- 健康",
       "published": "2026-08-31T07:52:08+00:00",
@@ -318,6 +547,54 @@
       ]
     },
     {
+      "id": "28129c6922a9",
+      "title": "《阿茲海默症》阿茲海默症致病蛋白質恐經輸血傳播？英國專家籲防患未然，加緊研發輸血致病蛋白質篩檢技術- 生技投資第一站",
+      "published": "2026-08-30T16:29:52+00:00",
+      "sources": [
+        {
+          "name": "genetinfo.com",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XRGU5VHRsUE0tRjhBb1E0MXppUE5kVV9EcnZqOUdrbFdfV0wtNXlldlBJWHl4UktvVmhUSDhWYnB1emxxN2xja1dWZWhONVhxYzJ6YmVoRHlUMFdqT0gyTGxrNzhZQU9EQmpfUg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f1a46843a122",
+      "title": "確診、流感還是感冒？症狀差在哪？點名「這關鍵」：中了馬上知道",
+      "published": "2026-08-30T07:00:00+00:00",
+      "sources": [
+        {
+          "name": "ELLE",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0xZYTg2WThhNWpPd1g2Ni1WU1VoOE1Qbi1xaG9EY0lGcklsLXlDYy16OVphX1VmRVFpalljSHROSWl2M1pXRk5vcUo5em13am1jVGN3dl9ad3VCc0NEREgtMnNHdnBKODNxZUFrVnp2cml0Z3ZFUnR3R3RfX2dnT3dKdlY5ajNOZDlR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "9b3a130d1e61",
       "title": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法 - TechNews 科技新報",
       "published": "2026-08-29T16:06:09+00:00",
@@ -336,6 +613,78 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c8b43a178ba5",
+      "title": "腸道1細菌傷腦研究：特殊化合物與阿茲海默症相關- 醫藥新知- 新聞",
+      "published": "2026-08-29T07:45:56+00:00",
+      "sources": [
+        {
+          "name": "華人今日網",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RcmRpNzh3aVlQV1JYRzZZRXRoZW5oenc0RHRKbnlMYWVDalltQUFuNVh3bFBTa3ZfRGw5dGRkQ2lULUQwR0oyUkNDMEFsZ0tta0pVU0VqZ0MxM0c1S09BT3llUnRCdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20d24ffe8c24",
+      "title": "失智風險｜交通噪音損大腦健康德國17年研究：每增11.5分貝柏金遜症風險高3% 家中睡覺位置極重要- 東張+ - myTV SUPER",
+      "published": "2026-08-28T23:45:00+00:00",
+      "sources": [
+        {
+          "name": "myTV SUPER",
+          "link": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxQVnYycUhfOHhBX3pnZ1A3dl92ZU5xcWlMQ0lMbC1uM0hwOEQwRlV2WnEtMDNSLU5jUkZVNHRpVkNZLVlBaEl5c19NMUthYW1XRlBIY1NlejhUdU1wNTJlWk1md3I3QVkwTVNVR3JPU0xzOEM5b1B5ZHZYY1ROOFFidWxvZm8tekJSZjMzQm52cTBKbzdiTUEzUndldUFFc3ZhbzdDdV9iRG9weGlabldCNnVzT1FZM2VUNXM3bDlZLWg4R2pIaDQwa0FlMUcxUkwzVVEtMlRWMVk1anN1OGU2T01JNWFIbXhQQ3FMQXdHNFlrMmhlejVkc0hsS0UxaU5KQlBXYW9rYzF2bWRnYjhDck5QMlh0R0t2M3BNVGlfZzlMcVhiMDhuUGs1Q0FxZmROUjh0WF9samZwWmJrYjJUQlBMZ2U2X0tmb19LXzNYWlNkRFJnWndpXzU4cG92MlRfY2lHX3ZDdUtxRk16VW11c0pkcWY2UHl4Qzg1aE14ZGVOajBKVzdKLUNYTFNxcWdXNF8xaGhuYXBySnFBVmdKVWR1ZGVHWTBTVzF3WnY5TlNLdS1oTGw2Z3dJalJsVWxfdWt1VU13Q2hoWXZWUnVYT2NxTXlzY281VlV2VUdldElaV2g5U2F2QWtnTjRreEljbXM3SVFoeFBCLV9tNEpHLU00bXVKcHJ0UmpEeVVqeVFlcVNIcVB5dHZjVFVXS0Vjby13blhkcGp5TDJCMXFrZ1JUdEtoelhGQmFfRjQ0VXRJWFo4SzZuQjFJWEhrdVJTVjN2SA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7a8f159cf0b7",
+      "title": "腸癌| 19歲少女3個症狀遭拒醫13次被指「太後生」不會患癌出血流滿馬桶終確診腸癌恐不孕- 東張+ - myTV SUPER",
+      "published": "2026-08-28T10:54:31+00:00",
+      "sources": [
+        {
+          "name": "myTV SUPER",
+          "link": "https://news.google.com/rss/articles/CBMisARBVV95cUxObU9vd1NORnhYRkt1c2x6ajNDVXotQVVCRVJEcnR4QUhNNWJVS3JvUzJUd2xoYmVNVjZHbXpFQ2VrMTU1NVZ0NC0xbndtQXFpNjVfRG1TQVZVZld4MmMxUVlPaTBJcXE1dXptc3FRQUhGU2N4MG5GWG5RT0JFM0ZBbWhSN1BEcnA0dUdkVlVFUURjVUpOSkNGV3BoV0JZc3pybURYekpaM2d4MWg0Tm1nVW1HM1QwbDNaN0pWU0w3bldwSm5ZeEs2T2tIVURHYVQ1akwtMXo4VWlacGVMUjNIc2lxOUNWUWtJMkVFbXdiMWVXeFB4bFpyRzRNdDVwZmtHbE94dFBrWGxwc1lqdzEzUkhNbU1zbUl2bW5iRHVtcnBmQVVRbzNnZk9BYkE2U1NMUlpfc3g3R3hnX3paekpxX0ZOalE3RUpELUctQTlrLXhYRUN5bW5mZVRuQ1JUQXNUV3hQeGlQVGx3MEl6cEFGMkVwaGhTdEZWZWxUZWNfSE9PMlZpdFVZcDhZbHYwV3pfemlfemhITHp3ZzFzRVE4OEtWdDNjY1V1eGlMeUg0ZXIzUE9hQ0pGZUszX2Q0bjUxSi15WlZzZXdrQ21ycS00VFZDMndUUjJkMlNKZkF2T19pVlRQQS12WFFXeDY3bG5tQ05qMkgxM050ZW4tek43aXRmQWR0RnJuUWZNSjF0bmZEQ3I1Tnp1Y3VEYzV6bjZaUjFxUC1xdkF0cHlCbTNQRg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
             }
           ]
         }
@@ -578,28 +927,47 @@
       ]
     },
     {
-      "id": "4fbcf8cc07e9",
-      "title": "長期攝取防腐劑增高血壓風險29% 避免加工肉果汁 8添加劑要注意",
-      "published": "2026-08-26T07:00:09+00:00",
+      "id": "b4b12c0bb1e0",
+      "title": "14年随訪數據顯示：結直腸癌篩查能降低40%以上相關病亡風險",
+      "published": "2026-08-26T17:03:29+00:00",
       "sources": [
         {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxOY0JqNmwzZjYtV0U3M0NJbGRZbHRHRGRfYXpxb0dOQmVZemplNlZYRFY5SXZ3ZHd2Wlp2aEVFNVB0QkdYUG5hcGl4aVpBSFpIZksxY2E2U1Q0SklrMS1Ic291VTcyQ0dTbGx6LW1FTkZhZkoxajlGTURtbTFZT1ROUWQ2WnZwb1U4bDJjWVNuSmREd3RyaFdsV1VfUnhCbFJScHptNFB6SFlhYnNDdkxacXJRS1hwUWx5eW1YLVprNGstdm1jM21xemYyT0x6akROU0hCYWxwUHprZmVZRTNTRmtVYlRrcF84X1VqMmdzNGxxVmo3aWlfUW9BQjdXSGhXY18tRzJkd1c5aXBWRGNEemlUS09iSEJURzA4VktGSUtQYkM2UHRCQmU3YkdDLXpkUFdpMlM5VUxFZFZWQU5nenFKc24zOVA2a3FOUzVqY2NfeXFiWlJaU1lNam1ldFQtYXhEX0hmcXZrLUtHWnM0UWtHWEdUU3plTDNwQVFLT0kwbnRyZEN4cnFVRkV4bjVWX2Rib2dveXp1NTJD?oc=5"
+          "name": "華僑時報",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aMEVuRUhZRlZOb3lzOXkxUkhxQXBkcTJBaWZVM3NtQUxpZE5sN2ZOamo2RVQ3bFhhWmFkdTAyWHBKMG5XSXpobWloRk1RM3BVUWVfRTc0eEc?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
+          "name": "colonic neoplasm",
+          "keyword": "直腸癌",
           "related_drugs": [
             {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
             },
             {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }

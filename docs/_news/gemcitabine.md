@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（6 則）
 
-### [腦腫瘤｜ 40歲5孩之母遭誤診肌腱炎 癲癇發作昏迷終確診末期腦癌 腳部現1徵兆要留心](https://news.google.com/rss/articles/CBMipARBVV95cUxNWDN6ellDNlB5NmR5NjlJUWQ1TUNhU0l0N3RaZjlyRUZyMk9qS0JMN1JQR0d4dlJFQ0YzM0lmSTBUakxWUFplMTE1aVgyc3IwelBXTTNIQlAzWHU2ek15ZVF3TXR6MFRDRm9CbEdZUlNtVG1SYy1ObWZ0VUc0NC1zTW1hWWNtZnJOVXNrMncyNXYzVmk4eXQwcjJ1YkEyM2hKOFBhT1BMTjZoMnFrS01ScllTejhaRF9BNlV3cWEySDRVYXFzcGw3NWlhWUowb1hnSUdseVo3N0FBRWZWd29kYXF3SlMxMWJSYWhQbGJiNHEtMzk4eTNjQzk1UEtyQUxtMFBRT25Zcmc5TU1ncm5zdVR6OXdWakhEWG5OVVVnQ09FdnZqcDFiLTk2QWp2THptR01GLVlnOVpFRktFajgwQURacDV5ZXc3SXVueUdZdVpZdXdIZlhJR3lPdnhETjA3bnR4dm1wUE5LZmsxWHZ0S1FpS19TeXhoeW5iQm9uaHcxaExRN21CTTZkbTBzM2FvWXpYUTdhUlhvQmU1emFvWTFXclZVYXdnb2c5aDQ0ZnJ3OVNMdjVZRHpJV094anRUV0pSd0ZrXzVJR1R3UDZ4UVNJS3hSUkF4YVI1MUJ5el9mYTNsM2xBZGd6NVlJOUd6U0tqTzRraDlVNXVfTUZXeXZKZXduOEZUdHZNakFJcUJsd2RocGdtT0d0N21IRlgxYmcwLQ?oc=5)
+### [糖尿病大腸癌不只看遺傳！最新研究：「同住」竟會互相共享腸道菌](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsdVdOU1J4VzVBNi1VbjYtVmJJN0NodXA2WU93T1BUak4tWjlrX3hSbUVVczdfNUNUZnloRjhvY1hlclNVeUY3Y9IBTEFVX3lxTE54V2dDZ0V6MmRSZl85QmUycWQ5SldiXzhXbS1VTG1ZSXF6S2QtdHNiM3Q1dHh5d3lUaWJVeXE5SUxuY3FxdzRFbHZCa3U?oc=5)
+
+2026-09-02 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsdVdOU1J4VzVBNi1VbjYtVmJJN0NodXA2WU93T1BUak4tWjlrX3hSbUVVczdfNUNUZnloRjhvY1hlclNVeUY3Y9IBTEFVX3lxTE54V2dDZ0V6MmRSZl85QmUycWQ5SldiXzhXbS1VTG1ZSXF6S2QtdHNiM3Q1dHh5d3lUaWJVeXE5SUxuY3FxdzRFbHZCa3U?oc=5)
+
+---
+
+### [腦腫瘤｜ 40歲5孩之母遭誤診肌腱炎 癲癇發作昏迷終確診末期腦癌 腳部現1徵兆要留心](https://news.google.com/rss/articles/CBMilwRBVV95cUxPemlzOFZUQmkwQlR2Uk5FemhGZ1R4VlZsaGpVSnJIM044c3d5ZnNBUC1pX1dZLVRLT1FUUkxZbDl3dzZMUjQ0YldLZDFjSmRWb1VEa0k1TzBlbkVYdXJyTFlGZTk3dG5MLUd2dEt3RERrUXBnX0p4OVVQeUZRdlVIOEZaajM3WTA3emZONUVXQU4xRkM3UmpqalNta2hoNURCaEdIZXdPTnhMMHZQbDExSmsxeWNDTWdEWE5iTDJ4Y3d5UGhoRFRhUExJYXoyNlRvVnd1QWh1aXFSSF9JOHp0NHBDMmlsQlRYcmI1LVZFXy1VZWRpTGJlcmVzVEV5ZnhRY0dNbl9VRmRqZzRhNkVEaEVwalFSN2VwSWtmSGJ6NDFSTGk0Mnk4c2NHeUQya3pFLWQycFMwQmo5aDBWM2FEQVBadXd3Tjdab1EtRFE4OG5EbTFiWDZKWExlWEtXb2ttR1BOd1ZuNUVtTUtIZ3lxRjFwRzdNTTFaYTFGeEZyMlRiZTJ5ZS1vcUdONmhKNldEYm82Nzc2MGNiaFo2blQwMXdfdG5aVnlBMkhCM1pmeXpNYmo5VFh3aTlOZVJpWVpGLTAtS2ltaWo1eFBkMEdNbmlsQUhwUFRjbWZlUW96VWVtRGNxY0twSGRnOW1IM19KM0IzSGpwMEpJemNMcWQ1VlV3SUNNbnd0VkNRVE40SHJmUEtIMXpJ?oc=5)
 
 2026-09-02 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">癲癇</span>
 
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMipARBVV95cUxNWDN6ellDNlB5NmR5NjlJUWQ1TUNhU0l0N3RaZjlyRUZyMk9qS0JMN1JQR0d4dlJFQ0YzM0lmSTBUakxWUFplMTE1aVgyc3IwelBXTTNIQlAzWHU2ek15ZVF3TXR6MFRDRm9CbEdZUlNtVG1SYy1ObWZ0VUc0NC1zTW1hWWNtZnJOVXNrMncyNXYzVmk4eXQwcjJ1YkEyM2hKOFBhT1BMTjZoMnFrS01ScllTejhaRF9BNlV3cWEySDRVYXFzcGw3NWlhWUowb1hnSUdseVo3N0FBRWZWd29kYXF3SlMxMWJSYWhQbGJiNHEtMzk4eTNjQzk1UEtyQUxtMFBRT25Zcmc5TU1ncm5zdVR6OXdWakhEWG5OVVVnQ09FdnZqcDFiLTk2QWp2THptR01GLVlnOVpFRktFajgwQURacDV5ZXc3SXVueUdZdVpZdXdIZlhJR3lPdnhETjA3bnR4dm1wUE5LZmsxWHZ0S1FpS19TeXhoeW5iQm9uaHcxaExRN21CTTZkbTBzM2FvWXpYUTdhUlhvQmU1emFvWTFXclZVYXdnb2c5aDQ0ZnJ3OVNMdjVZRHpJV094anRUV0pSd0ZrXzVJR1R3UDZ4UVNJS3hSUkF4YVI1MUJ5el9mYTNsM2xBZGd6NVlJOUd6U0tqTzRraDlVNXVfTUZXeXZKZXduOEZUdHZNakFJcUJsd2RocGdtT0d0N21IRlgxYmcwLQ?oc=5)
+來源：[topick.hket.com](https://news.google.com/rss/articles/CBMilwRBVV95cUxPemlzOFZUQmkwQlR2Uk5FemhGZ1R4VlZsaGpVSnJIM044c3d5ZnNBUC1pX1dZLVRLT1FUUkxZbDl3dzZMUjQ0YldLZDFjSmRWb1VEa0k1TzBlbkVYdXJyTFlGZTk3dG5MLUd2dEt3RERrUXBnX0p4OVVQeUZRdlVIOEZaajM3WTA3emZONUVXQU4xRkM3UmpqalNta2hoNURCaEdIZXdPTnhMMHZQbDExSmsxeWNDTWdEWE5iTDJ4Y3d5UGhoRFRhUExJYXoyNlRvVnd1QWh1aXFSSF9JOHp0NHBDMmlsQlRYcmI1LVZFXy1VZWRpTGJlcmVzVEV5ZnhRY0dNbl9VRmRqZzRhNkVEaEVwalFSN2VwSWtmSGJ6NDFSTGk0Mnk4c2NHeUQya3pFLWQycFMwQmo5aDBWM2FEQVBadXd3Tjdab1EtRFE4OG5EbTFiWDZKWExlWEtXb2ttR1BOd1ZuNUVtTUtIZ3lxRjFwRzdNTTFaYTFGeEZyMlRiZTJ5ZS1vcUdONmhKNldEYm82Nzc2MGNiaFo2blQwMXdfdG5aVnlBMkhCM1pmeXpNYmo5VFh3aTlOZVJpWVpGLTAtS2ltaWo1eFBkMEdNbmlsQUhwUFRjbWZlUW96VWVtRGNxY0twSGRnOW1IM19KM0IzSGpwMEpJemNMcWQ1VlV3SUNNbnd0VkNRVE40SHJmUEtIMXpJ?oc=5)
+
+---
+
+### [大腸癌不一定要開大刀研究新路線先放化療再決定- 醫藥新知- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE10Ulg2b09Ud0dySjY3LXlUeGg0TjNfNUJNLUdMR1NtYjA3bGlyenJobl9ITVJvdFZlRlJPZ3FFeF9VaHJjcVNOY1kwYkIwVjdYWHZKX1YwaXNXLWlrTEhCa3cwYVUwZw?oc=5)
+
+2026-09-01 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE10Ulg2b09Ud0dySjY3LXlUeGg0TjNfNUJNLUdMR1NtYjA3bGlyenJobl9ITVJvdFZlRlJPZ3FFeF9VaHJjcVNOY1kwYkIwVjdYWHZKX1YwaXNXLWlrTEhCa3cwYVUwZw?oc=5)
 
 ---
 
@@ -65,6 +81,14 @@ permalink: /news/gemcitabine/
 2026-08-27 <span class="news-indication-tag">腫瘤</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dVpYSU00Vnpfcmd6UktfR19xQm5LSlR4MmNFX2RSX3p5eVRPUGNhb09vSmR3b3dnMXB5N19RSnpUNm5YcnRCbmtfckJQMWhzaThxNnljSnM3UVlyNTBoX0l3U2g?oc=5)
+
+---
+
+### [14年随訪數據顯示：結直腸癌篩查能降低40%以上相關病亡風險](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aMEVuRUhZRlZOb3lzOXkxUkhxQXBkcTJBaWZVM3NtQUxpZE5sN2ZOamo2RVQ3bFhhWmFkdTAyWHBKMG5XSXpobWloRk1RM3BVUWVfRTc0eEc?oc=5)
+
+2026-08-26 <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[華僑時報](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aMEVuRUhZRlZOb3lzOXkxUkhxQXBkcTJBaWZVM3NtQUxpZE5sN2ZOamo2RVQ3bFhhWmFkdTAyWHBKMG5XSXpobWloRk1RM3BVUWVfRTc0eEc?oc=5)
 
 ---
 
