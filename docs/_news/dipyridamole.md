@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [中風先兆｜30歲男忽略1先兆突中風昏迷 醫生警告：年輕人最易出事！【附中風先兆】](https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wMmRHNUoxRkNwVDZ6eFNHcDBhUURfRW5sb0hQOGl3T010X3hpZ0Y3YXpXR0lrUkpqM2xRZVdGdUx2R2Nic2xtTVpTV2RIOU9m?oc=5)
 
 2026-09-02 <span class="news-indication-tag">中風</span>
 
 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wMmRHNUoxRkNwVDZ6eFNHcDBhUURfRW5sb0hQOGl3T010X3hpZ0Y3YXpXR0lrUkpqM2xRZVdGdUx2R2Nic2xtTVpTV2RIOU9m?oc=5)
+
+---
+
+### [4歲女童感染水痘半年後突然嘔吐頭痛中風 家長必學BE FAST口訣](https://news.google.com/rss/articles/CBMiigNBVV95cUxQVzBfYm1CYW9venN4a0s1Mk5MTEZCQ2xJa1l4ckVmT212OW5heVRHLWN6RWhhR0tJMmxSdGZuSE51OVNoMjE1WnV4SW9xX0xrRlktZzVDRUxsR0hhV0staExIS2tmWm5mQXNSdTVvZ1RicVM1Qzd4NVBJV2dDVGQ5dWJLd0hUVlNuazM5M3BBYjdSZllDU1BIQmVYTVRCRVpDaTZra19HTVBRbnU0ZVhmekJ6ckVuQjZBdklyTDkxeFN1SGN0anpYMHoxOENnSENJZVFxWXJZdGpVWFQtR0pzZWhPVVZIc3JCWWhLMERONlgwZHZyM1J4el9zQVl5ZDNGcVZhM2lKVnFNd3NndXlWZWE4RWtLRkxCcWVyd3NrNHdIVDJxekdHUzBITEd2azlhb2V3NXM5V1UtWWJfU3FoSmVZQ0U1T0hjOWswVEs1amJIUjBxdTVDQnpwaWVxeWVYSTJzR0pPQzU3Ylk3N3FKMHpuSFVlTUtFSGw5dnlZeUdwVEs0NGNDMHNB?oc=5)
+
+2026-08-26 <span class="news-indication-tag">中風</span>
+
+來源：[香港01](https://news.google.com/rss/articles/CBMiigNBVV95cUxQVzBfYm1CYW9venN4a0s1Mk5MTEZCQ2xJa1l4ckVmT212OW5heVRHLWN6RWhhR0tJMmxSdGZuSE51OVNoMjE1WnV4SW9xX0xrRlktZzVDRUxsR0hhV0staExIS2tmWm5mQXNSdTVvZ1RicVM1Qzd4NVBJV2dDVGQ5dWJLd0hUVlNuazM5M3BBYjdSZllDU1BIQmVYTVRCRVpDaTZra19HTVBRbnU0ZVhmekJ6ckVuQjZBdklyTDkxeFN1SGN0anpYMHoxOENnSENJZVFxWXJZdGpVWFQtR0pzZWhPVVZIc3JCWWhLMERONlgwZHZyM1J4el9zQVl5ZDNGcVZhM2lKVnFNd3NndXlWZWE4RWtLRkxCcWVyd3NrNHdIVDJxekdHUzBITEd2azlhb2V3NXM5V1UtWWJfU3FoSmVZQ0U1T0hjOWswVEs1amJIUjBxdTVDQnpwaWVxeWVYSTJzR0pPQzU3Ylk3N3FKMHpuSFVlTUtFSGw5dnlZeUdwVEs0NGNDMHNB?oc=5)
 
 ---
 

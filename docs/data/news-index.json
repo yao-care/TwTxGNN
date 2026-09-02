@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-02T14:48:59.923227+00:00",
-  "count": 7,
+  "generated": "2026-09-02T18:15:16.929512+00:00",
+  "count": 8,
   "news": [
     {
       "id": "7a14f7a7679c",
@@ -78,20 +78,20 @@
       ]
     },
     {
-      "id": "b81d327dee42",
-      "title": "腦腫瘤｜ 40歲5孩之母遭誤診肌腱炎 癲癇發作昏迷終確診末期腦癌 腳部現1徵兆要留心",
-      "published": "2026-09-02T03:08:57+00:00",
+      "id": "44ac7a1198b3",
+      "title": "張金堅、葉顯堂:癌症康復後，別忽略脂肪危機 - 健康新聞 - PChome Online 新聞 - PChome Online 新聞",
+      "published": "2026-09-01T00:57:56+00:00",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPemlzOFZUQmkwQlR2Uk5FemhGZ1R4VlZsaGpVSnJIM044c3d5ZnNBUC1pX1dZLVRLT1FUUkxZbDl3dzZMUjQ0YldLZDFjSmRWb1VEa0k1TzBlbkVYdXJyTFlGZTk3dG5MLUd2dEt3RERrUXBnX0p4OVVQeUZRdlVIOEZaajM3WTA3emZONUVXQU4xRkM3UmpqalNta2hoNURCaEdIZXdPTnhMMHZQbDExSmsxeWNDTWdEWE5iTDJ4Y3d5UGhoRFRhUExJYXoyNlRvVnd1QWh1aXFSSF9JOHp0NHBDMmlsQlRYcmI1LVZFXy1VZWRpTGJlcmVzVEV5ZnhRY0dNbl9VRmRqZzRhNkVEaEVwalFSN2VwSWtmSGJ6NDFSTGk0Mnk4c2NHeUQya3pFLWQycFMwQmo5aDBWM2FEQVBadXd3Tjdab1EtRFE4OG5EbTFiWDZKWExlWEtXb2ttR1BOd1ZuNUVtTUtIZ3lxRjFwRzdNTTFaYTFGeEZyMlRiZTJ5ZS1vcUdONmhKNldEYm82Nzc2MGNiaFo2blQwMXdfdG5aVnlBMkhCM1pmeXpNYmo5VFh3aTlOZVJpWVpGLTAtS2ltaWo1eFBkMEdNbmlsQUhwUFRjbWZlUW96VWVtRGNxY0twSGRnOW1IM19KM0IzSGpwMEpJemNMcWQ1VlV3SUNNbnd0VkNRVE40SHJmUEtIMXpJ?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSExPYkZycndFUGI3VUdfU1JSVlBKd3JrQW5YQnFOUW5CVldLMk9Fa3V6eng5WWZBWjItN1NlQWFJQm85M1d3bWlyb0s1M1Y1WlBVLW4ydHJod3dWbEtmblg0WTNSMl85WVpKZlBWZkptOV84Vkh1Y0lXMHVvZ0VWb2tkdmtKcUVlS1FvRkhaaGhkQQ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
           "name": "generic_cancer",
-          "keyword": "腫瘤",
+          "keyword": "癌症",
           "related_drugs": [
             {
               "slug": "trabectedin",
@@ -282,17 +282,6 @@
               "name": "Zanubrutinib"
             }
           ]
-        },
-        {
-          "type": "indication",
-          "name": "癲癇",
-          "keyword": "癲癇",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            }
-          ]
         }
       ]
     },
@@ -411,6 +400,34 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "194e99c4b4ae",
+      "title": "4歲女童感染水痘半年後突然嘔吐頭痛中風 家長必學BE FAST口訣",
+      "published": "2026-08-26T23:00:02+00:00",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQVzBfYm1CYW9venN4a0s1Mk5MTEZCQ2xJa1l4ckVmT212OW5heVRHLWN6RWhhR0tJMmxSdGZuSE51OVNoMjE1WnV4SW9xX0xrRlktZzVDRUxsR0hhV0staExIS2tmWm5mQXNSdTVvZ1RicVM1Qzd4NVBJV2dDVGQ5dWJLd0hUVlNuazM5M3BBYjdSZllDU1BIQmVYTVRCRVpDaTZra19HTVBRbnU0ZVhmekJ6ckVuQjZBdklyTDkxeFN1SGN0anpYMHoxOENnSENJZVFxWXJZdGpVWFQtR0pzZWhPVVZIc3JCWWhLMERONlgwZHZyM1J4el9zQVl5ZDNGcVZhM2lKVnFNd3NndXlWZWE4RWtLRkxCcWVyd3NrNHdIVDJxekdHUzBITEd2azlhb2V3NXM5V1UtWWJfU3FoSmVZQ0U1T0hjOWswVEs1amJIUjBxdTVDQnpwaWVxeWVYSTJzR0pPQzU3Ylk3N3FKMHpuSFVlTUtFSGw5dnlZeUdwVEs0NGNDMHNB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
             }
           ]
         }
