@@ -14,7 +14,7 @@ permalink: /news/treprostinil/
 ---
 
 <p class="key-answer" data-question="Treprostinil 有什麼相關新聞？">
-<strong>Treprostinil</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Treprostinil</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/treprostinil/
 <p><a href="{{ '/drugs/treprostinil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [心臟病｜39歲五孩母無胸痛冒一種症狀2小時心臟病發猝死男女徵狀不同常被誤診丈夫成單親爸心碎提告- 東張+ - myTV SUPER](https://news.google.com/rss/articles/CBMiigVBVV95cUxORnp5TG5QNXRlSlhyS1ZjbWtUXzI2Y3J4ZjJFVDl1Y0E3a0d2QjZqd01LZEVmLXZuSHdvRjJweUJEbTB2TVY0ak50UEJETGNqeTJSbTNYZ0llaV9wNm5WSElqSmpoV09Fci00Q1ZxU1p3ZVRoQ0pvelBKYTl4RXdiU0tERjVPazlIWmFwRkZPd3JrdFRXTlZWTFI2bC1yTExFa1g4ZU5rdWtJa3VtQy1QNTE1TEE4LS0zbGhaaVlWWDVBal9hNWh1Nk1OZkNBaDFnbFo1V2JPZjJab1lJbko1Ni15MDRWTnJZMHl1bjJnS1FjdXBYc05wX3FWbFBZZzY3dFB6ZHl6cmlqUDY2cUI2N0JCYjRRcC1ESGZMQzZSS1ctb2RXOWtyQm91OHNuSDBGWUNLS1BkS2FqZE1yZllnMjR0dU1QZXdKektfR1dnYzNma3BLcUwxVFZCNU9MVHZoWWV3eHFFQmNWZno3SEtSTWxwem56TGdieXlHQW9wcVhSbXJMckN5WW9WeDRBaUFqQ0NHcE5vLXJmaVkxQnVBeHdPQkdCVzdIdDZseHVsVW1OOGg5cjN0eGJqRFZSQzRaV2JwLWtXSC1yYUdja1pRWDRITldlYlRNMWR6UkVMUWVldXhsbE9jVGdfYlhyS3kzMU55N0x2TGRtVTBnSWNhMGlMU0t5SWYzVF9HWlE2NFBZZ1Z6eVRhN1QybVE3MWUtMlZXSWdDZnptOXBzTXVlYnkxZ1NBSVNlQUJ6VExtS1Fmd0RuUDNydGNsUElZaHp1ZDE1dlAzTnZjMnFqSXFJMWd0cjg3VUEtOHFDWEhKMEdLWjl6dWwtX1d0Y2o5Q2ZvdW9BRm9sWUVnZw?oc=5)
-
-2026-08-31 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
-
-來源：[myTV SUPER](https://news.google.com/rss/articles/CBMiigVBVV95cUxORnp5TG5QNXRlSlhyS1ZjbWtUXzI2Y3J4ZjJFVDl1Y0E3a0d2QjZqd01LZEVmLXZuSHdvRjJweUJEbTB2TVY0ak50UEJETGNqeTJSbTNYZ0llaV9wNm5WSElqSmpoV09Fci00Q1ZxU1p3ZVRoQ0pvelBKYTl4RXdiU0tERjVPazlIWmFwRkZPd3JrdFRXTlZWTFI2bC1yTExFa1g4ZU5rdWtJa3VtQy1QNTE1TEE4LS0zbGhaaVlWWDVBal9hNWh1Nk1OZkNBaDFnbFo1V2JPZjJab1lJbko1Ni15MDRWTnJZMHl1bjJnS1FjdXBYc05wX3FWbFBZZzY3dFB6ZHl6cmlqUDY2cUI2N0JCYjRRcC1ESGZMQzZSS1ctb2RXOWtyQm91OHNuSDBGWUNLS1BkS2FqZE1yZllnMjR0dU1QZXdKektfR1dnYzNma3BLcUwxVFZCNU9MVHZoWWV3eHFFQmNWZno3SEtSTWxwem56TGdieXlHQW9wcVhSbXJMckN5WW9WeDRBaUFqQ0NHcE5vLXJmaVkxQnVBeHdPQkdCVzdIdDZseHVsVW1OOGg5cjN0eGJqRFZSQzRaV2JwLWtXSC1yYUdja1pRWDRITldlYlRNMWR6UkVMUWVldXhsbE9jVGdfYlhyS3kzMU55N0x2TGRtVTBnSWNhMGlMU0t5SWYzVF9HWlE2NFBZZ1Z6eVRhN1QybVE3MWUtMlZXSWdDZnptOXBzTXVlYnkxZ1NBSVNlQUJ6VExtS1Fmd0RuUDNydGNsUElZaHp1ZDE1dlAzTnZjMnFqSXFJMWd0cjg3VUEtOHFDWEhKMEdLWjl6dWwtX1d0Y2o5Q2ZvdW9BRm9sWUVnZw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
