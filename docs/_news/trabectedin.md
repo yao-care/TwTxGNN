@@ -14,7 +14,7 @@ permalink: /news/trabectedin/
 ---
 
 <p class="key-answer" data-question="Trabectedin 有什麼相關新聞？">
-<strong>Trabectedin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Trabectedin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ permalink: /news/trabectedin/
 <p><a href="{{ '/drugs/trabectedin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [腦腫瘤｜ 40歲5孩之母遭誤診肌腱炎 癲癇發作昏迷終確診末期腦癌 腳部現1徵兆要留心](https://news.google.com/rss/articles/CBMipARBVV95cUxNWDN6ellDNlB5NmR5NjlJUWQ1TUNhU0l0N3RaZjlyRUZyMk9qS0JMN1JQR0d4dlJFQ0YzM0lmSTBUakxWUFplMTE1aVgyc3IwelBXTTNIQlAzWHU2ek15ZVF3TXR6MFRDRm9CbEdZUlNtVG1SYy1ObWZ0VUc0NC1zTW1hWWNtZnJOVXNrMncyNXYzVmk4eXQwcjJ1YkEyM2hKOFBhT1BMTjZoMnFrS01ScllTejhaRF9BNlV3cWEySDRVYXFzcGw3NWlhWUowb1hnSUdseVo3N0FBRWZWd29kYXF3SlMxMWJSYWhQbGJiNHEtMzk4eTNjQzk1UEtyQUxtMFBRT25Zcmc5TU1ncm5zdVR6OXdWakhEWG5OVVVnQ09FdnZqcDFiLTk2QWp2THptR01GLVlnOVpFRktFajgwQURacDV5ZXc3SXVueUdZdVpZdXdIZlhJR3lPdnhETjA3bnR4dm1wUE5LZmsxWHZ0S1FpS19TeXhoeW5iQm9uaHcxaExRN21CTTZkbTBzM2FvWXpYUTdhUlhvQmU1emFvWTFXclZVYXdnb2c5aDQ0ZnJ3OVNMdjVZRHpJV094anRUV0pSd0ZrXzVJR1R3UDZ4UVNJS3hSUkF4YVI1MUJ5el9mYTNsM2xBZGd6NVlJOUd6U0tqTzRraDlVNXVfTUZXeXZKZXduOEZUdHZNakFJcUJsd2RocGdtT0d0N21IRlgxYmcwLQ?oc=5)
+
+2026-09-02 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">癲癇</span>
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMipARBVV95cUxNWDN6ellDNlB5NmR5NjlJUWQ1TUNhU0l0N3RaZjlyRUZyMk9qS0JMN1JQR0d4dlJFQ0YzM0lmSTBUakxWUFplMTE1aVgyc3IwelBXTTNIQlAzWHU2ek15ZVF3TXR6MFRDRm9CbEdZUlNtVG1SYy1ObWZ0VUc0NC1zTW1hWWNtZnJOVXNrMncyNXYzVmk4eXQwcjJ1YkEyM2hKOFBhT1BMTjZoMnFrS01ScllTejhaRF9BNlV3cWEySDRVYXFzcGw3NWlhWUowb1hnSUdseVo3N0FBRWZWd29kYXF3SlMxMWJSYWhQbGJiNHEtMzk4eTNjQzk1UEtyQUxtMFBRT25Zcmc5TU1ncm5zdVR6OXdWakhEWG5OVVVnQ09FdnZqcDFiLTk2QWp2THptR01GLVlnOVpFRktFajgwQURacDV5ZXc3SXVueUdZdVpZdXdIZlhJR3lPdnhETjA3bnR4dm1wUE5LZmsxWHZ0S1FpS19TeXhoeW5iQm9uaHcxaExRN21CTTZkbTBzM2FvWXpYUTdhUlhvQmU1emFvWTFXclZVYXdnb2c5aDQ0ZnJ3OVNMdjVZRHpJV094anRUV0pSd0ZrXzVJR1R3UDZ4UVNJS3hSUkF4YVI1MUJ5el9mYTNsM2xBZGd6NVlJOUd6U0tqTzRraDlVNXVfTUZXeXZKZXduOEZUdHZNakFJcUJsd2RocGdtT0d0N21IRlgxYmcwLQ?oc=5)
+
+---
 
 ### [【Pink Care Workshop】裙襬澎澎RUN 12週年乳癌防治講座—！彭上軒醫師談精準醫療，從分型治療到生活品質，掌握乳癌治療新進展 - Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiakFVX3lxTE5Qa2xaSmRsRVVYRmplWGZmdnhJVmo0UTRaeFA2VkczUXBreDVEUEUzbUF1SW5uakYxR0kxSUx5am9DSGxScmswY2dXZE51YzEwQW5xUnRxZ2lKQi1wb0RKWkNMTTRxbW00a3c?oc=5)
 

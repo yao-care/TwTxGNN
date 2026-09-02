@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [腦腫瘤｜ 40歲5孩之母遭誤診肌腱炎 癲癇發作昏迷終確診末期腦癌 腳部現1徵兆要留心](https://news.google.com/rss/articles/CBMipARBVV95cUxNWDN6ellDNlB5NmR5NjlJUWQ1TUNhU0l0N3RaZjlyRUZyMk9qS0JMN1JQR0d4dlJFQ0YzM0lmSTBUakxWUFplMTE1aVgyc3IwelBXTTNIQlAzWHU2ek15ZVF3TXR6MFRDRm9CbEdZUlNtVG1SYy1ObWZ0VUc0NC1zTW1hWWNtZnJOVXNrMncyNXYzVmk4eXQwcjJ1YkEyM2hKOFBhT1BMTjZoMnFrS01ScllTejhaRF9BNlV3cWEySDRVYXFzcGw3NWlhWUowb1hnSUdseVo3N0FBRWZWd29kYXF3SlMxMWJSYWhQbGJiNHEtMzk4eTNjQzk1UEtyQUxtMFBRT25Zcmc5TU1ncm5zdVR6OXdWakhEWG5OVVVnQ09FdnZqcDFiLTk2QWp2THptR01GLVlnOVpFRktFajgwQURacDV5ZXc3SXVueUdZdVpZdXdIZlhJR3lPdnhETjA3bnR4dm1wUE5LZmsxWHZ0S1FpS19TeXhoeW5iQm9uaHcxaExRN21CTTZkbTBzM2FvWXpYUTdhUlhvQmU1emFvWTFXclZVYXdnb2c5aDQ0ZnJ3OVNMdjVZRHpJV094anRUV0pSd0ZrXzVJR1R3UDZ4UVNJS3hSUkF4YVI1MUJ5el9mYTNsM2xBZGd6NVlJOUd6U0tqTzRraDlVNXVfTUZXeXZKZXduOEZUdHZNakFJcUJsd2RocGdtT0d0N21IRlgxYmcwLQ?oc=5)
+
+2026-09-02 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">癲癇</span>
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMipARBVV95cUxNWDN6ellDNlB5NmR5NjlJUWQ1TUNhU0l0N3RaZjlyRUZyMk9qS0JMN1JQR0d4dlJFQ0YzM0lmSTBUakxWUFplMTE1aVgyc3IwelBXTTNIQlAzWHU2ek15ZVF3TXR6MFRDRm9CbEdZUlNtVG1SYy1ObWZ0VUc0NC1zTW1hWWNtZnJOVXNrMncyNXYzVmk4eXQwcjJ1YkEyM2hKOFBhT1BMTjZoMnFrS01ScllTejhaRF9BNlV3cWEySDRVYXFzcGw3NWlhWUowb1hnSUdseVo3N0FBRWZWd29kYXF3SlMxMWJSYWhQbGJiNHEtMzk4eTNjQzk1UEtyQUxtMFBRT25Zcmc5TU1ncm5zdVR6OXdWakhEWG5OVVVnQ09FdnZqcDFiLTk2QWp2THptR01GLVlnOVpFRktFajgwQURacDV5ZXc3SXVueUdZdVpZdXdIZlhJR3lPdnhETjA3bnR4dm1wUE5LZmsxWHZ0S1FpS19TeXhoeW5iQm9uaHcxaExRN21CTTZkbTBzM2FvWXpYUTdhUlhvQmU1emFvWTFXclZVYXdnb2c5aDQ0ZnJ3OVNMdjVZRHpJV094anRUV0pSd0ZrXzVJR1R3UDZ4UVNJS3hSUkF4YVI1MUJ5el9mYTNsM2xBZGd6NVlJOUd6U0tqTzRraDlVNXVfTUZXeXZKZXduOEZUdHZNakFJcUJsd2RocGdtT0d0N21IRlgxYmcwLQ?oc=5)
+
+---
 
 ### [35歲起就要注意中年人6種情緒增失智風險沒自信也中- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1MSG1CZlFvNnNHd3lBOERBdHhILTB3bHM5RzRVbEx4YXlNaEVwZl90ME1tTlFxTmxpcVJLVWRLLXhnWlpyOUhYZHc5d0MxSTZvRWhqaVlZZDRqVDZWaGxrQXVWdno4ZjVRTEQyMXd3?oc=5)
 

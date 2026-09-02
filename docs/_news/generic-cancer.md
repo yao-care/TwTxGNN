@@ -3,7 +3,7 @@ layout: default
 title: "腫瘤（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "腫瘤（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "腫瘤（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="腫瘤（generic_cancer） 有什麼相關新聞？">
-<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,15 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [腦腫瘤｜ 40歲5孩之母遭誤診肌腱炎 癲癇發作昏迷終確診末期腦癌 腳部現1徵兆要留心](https://news.google.com/rss/articles/CBMipARBVV95cUxNWDN6ellDNlB5NmR5NjlJUWQ1TUNhU0l0N3RaZjlyRUZyMk9qS0JMN1JQR0d4dlJFQ0YzM0lmSTBUakxWUFplMTE1aVgyc3IwelBXTTNIQlAzWHU2ek15ZVF3TXR6MFRDRm9CbEdZUlNtVG1SYy1ObWZ0VUc0NC1zTW1hWWNtZnJOVXNrMncyNXYzVmk4eXQwcjJ1YkEyM2hKOFBhT1BMTjZoMnFrS01ScllTejhaRF9BNlV3cWEySDRVYXFzcGw3NWlhWUowb1hnSUdseVo3N0FBRWZWd29kYXF3SlMxMWJSYWhQbGJiNHEtMzk4eTNjQzk1UEtyQUxtMFBRT25Zcmc5TU1ncm5zdVR6OXdWakhEWG5OVVVnQ09FdnZqcDFiLTk2QWp2THptR01GLVlnOVpFRktFajgwQURacDV5ZXc3SXVueUdZdVpZdXdIZlhJR3lPdnhETjA3bnR4dm1wUE5LZmsxWHZ0S1FpS19TeXhoeW5iQm9uaHcxaExRN21CTTZkbTBzM2FvWXpYUTdhUlhvQmU1emFvWTFXclZVYXdnb2c5aDQ0ZnJ3OVNMdjVZRHpJV094anRUV0pSd0ZrXzVJR1R3UDZ4UVNJS3hSUkF4YVI1MUJ5el9mYTNsM2xBZGd6NVlJOUd6U0tqTzRraDlVNXVfTUZXeXZKZXduOEZUdHZNakFJcUJsd2RocGdtT0d0N21IRlgxYmcwLQ?oc=5)
+
+2026-09-02
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMipARBVV95cUxNWDN6ellDNlB5NmR5NjlJUWQ1TUNhU0l0N3RaZjlyRUZyMk9qS0JMN1JQR0d4dlJFQ0YzM0lmSTBUakxWUFplMTE1aVgyc3IwelBXTTNIQlAzWHU2ek15ZVF3TXR6MFRDRm9CbEdZUlNtVG1SYy1ObWZ0VUc0NC1zTW1hWWNtZnJOVXNrMncyNXYzVmk4eXQwcjJ1YkEyM2hKOFBhT1BMTjZoMnFrS01ScllTejhaRF9BNlV3cWEySDRVYXFzcGw3NWlhWUowb1hnSUdseVo3N0FBRWZWd29kYXF3SlMxMWJSYWhQbGJiNHEtMzk4eTNjQzk1UEtyQUxtMFBRT25Zcmc5TU1ncm5zdVR6OXdWakhEWG5OVVVnQ09FdnZqcDFiLTk2QWp2THptR01GLVlnOVpFRktFajgwQURacDV5ZXc3SXVueUdZdVpZdXdIZlhJR3lPdnhETjA3bnR4dm1wUE5LZmsxWHZ0S1FpS19TeXhoeW5iQm9uaHcxaExRN21CTTZkbTBzM2FvWXpYUTdhUlhvQmU1emFvWTFXclZVYXdnb2c5aDQ0ZnJ3OVNMdjVZRHpJV094anRUV0pSd0ZrXzVJR1R3UDZ4UVNJS3hSUkF4YVI1MUJ5el9mYTNsM2xBZGd6NVlJOUd6U0tqTzRraDlVNXVfTUZXeXZKZXduOEZUdHZNakFJcUJsd2RocGdtT0d0N21IRlgxYmcwLQ?oc=5)
+
+---
 
 ### [頭骨裡竟藏「免疫軍隊」！研究發現防線一弱 腦腫瘤就變兇](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dVpYSU00Vnpfcmd6UktfR19xQm5LSlR4MmNFX2RSX3p5eVRPUGNhb09vSmR3b3dnMXB5N19RSnpUNm5YcnRCbmtfckJQMWhzaThxNnljSnM3UVlyNTBoX0l3U2g?oc=5)
 
