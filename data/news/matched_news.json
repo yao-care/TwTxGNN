@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-09-02T23:41:56.445092+00:00",
-  "total_count": 26,
-  "matched_count": 6,
+  "last_updated": "2026-09-03T02:11:01.560619+00:00",
+  "total_count": 24,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "2be24e5e9b96",
+      "title": "重症感染病因複雜診斷不易！mNGS列臨床檢測工具之一 助力病原辨識",
+      "published": "2026-09-03T02:06:38+00:00",
+      "summary": "重症感染病因複雜診斷不易！mNGS列臨床檢測工具之一 助力病原辨識&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQa1lfbGxuMHVDR25ldk9RdkJUTlJJU2tKa0trM05SSmtiTE94ekRPQVloamlmSVRoemJBT2R6Mm9GMmZlNnZTZTFmNTF4OUxuRi0zamFUY0NkUHgwQS1DU1FvN3prUGtWcHpqSll2SmthS2lpODYycXhydnVpQy1CZnpsY3JXdFdGZlNvTXBkcHdnT1I4bVo4ckgzNU9QUHpDY1NwdlRhb1ZoZllvc0hFaTVfcEtTMlNkYXdmWXNZNlM2Umt4djMwQmtZTUdjcHJiclFubGhPMDJsYzM2S05hRFhsaWlzWVlyN0Q5TWx2LVIyNHZ6T3lCSGhRMmVaS3AxS3o3SGZQazk1N1RXRnFQc2xVMUJxZ1FSTGlqNm5hcWhKMVhVN0gzaTcxZlpReHBiQkpxRlppRFpRSHg1RG40RVFkRzBYS3BiNENyMUt4cTVMNmItYnd0TWxyRkF4a2JTbGNGTV83RHhoQVFIcUxHMEhJOUQtcHdZSDRXaUFqLTgzcXVRZXlpNm9iV2ozRlNlOUtj?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "d0948eb0abce",
       "title": "中年做9件事延長壽命！專家︰40至60歲是作出改變的「人生黃金期」",
@@ -17,65 +30,17 @@
       "matched_keywords": []
     },
     {
-      "id": "5a444f0cb698",
-      "title": "總是替別人著想，身體反而出問題？研究揭「壓抑情緒」的代價",
-      "published": "2026-09-02T08:41:48+00:00",
-      "summary": "總是替別人著想，身體反而出問題？研究揭「壓抑情緒」的代價&nbsp;&nbsp;聚財網",
+      "id": "607d03f78aad",
+      "title": "破解保健品迷思！專家教你重塑健康識能與建立營養新思維",
+      "published": "2026-09-02T05:15:00+00:00",
+      "summary": "破解保健品迷思！專家教你重塑健康識能與建立營養新思維&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "聚財網",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VVnRSNU9TSmdObmctREc4LUNyWF9OXzJaVGFrRzN3RU93M1B1MnZsYXlKclJRbkxMSDV0WUptWXk1eHBZNWRJNzNqNkM?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GNVd6cHE0N2piVTlvWjE4bFFiNGl5Q3NHUlJReGdHQmtMeU5xbDZOemFDWEFORGZGRWh5SkFZWVlYMVpyMlluc1Jyd0M4NS1CQlNCY1hSRi1KYmdySS1YMQ?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "f7cc12b34c58",
-      "title": "糖尿病大腸癌不只看遺傳！最新研究：「同住」竟會互相共享腸道菌",
-      "published": "2026-09-02T08:20:00+00:00",
-      "summary": "糖尿病大腸癌不只看遺傳！最新研究：「同住」竟會互相共享腸道菌&nbsp;&nbsp;三立新聞網SETN.com",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsdVdOU1J4VzVBNi1VbjYtVmJJN0NodXA2WU93T1BUak4tWjlrX3hSbUVVczdfNUNUZnloRjhvY1hlclNVeUY3Y9IBTEFVX3lxTE54V2dDZ0V6MmRSZl85QmUycWQ5SldiXzhXbS1VTG1ZSXF6S2QtdHNiM3Q1dHh5d3lUaWJVeXE5SUxuY3FxdzRFbHZCa3U?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "faf9f6c461a5",
@@ -120,14 +85,14 @@
       "matched_keywords": []
     },
     {
-      "id": "b81d327dee42",
+      "id": "4091b4271d15",
       "title": "腦腫瘤｜ 40歲5孩之母遭誤診肌腱炎 癲癇發作昏迷終確診末期腦癌 腳部現1徵兆要留心",
       "published": "2026-09-02T03:08:57+00:00",
       "summary": "腦腫瘤｜ 40歲5孩之母遭誤診肌腱炎 癲癇發作昏迷終確診末期腦癌 腳部現1徵兆要留心&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPemlzOFZUQmkwQlR2Uk5FemhGZ1R4VlZsaGpVSnJIM044c3d5ZnNBUC1pX1dZLVRLT1FUUkxZbDl3dzZMUjQ0YldLZDFjSmRWb1VEa0k1TzBlbkVYdXJyTFlGZTk3dG5MLUd2dEt3RERrUXBnX0p4OVVQeUZRdlVIOEZaajM3WTA3emZONUVXQU4xRkM3UmpqalNta2hoNURCaEdIZXdPTnhMMHZQbDExSmsxeWNDTWdEWE5iTDJ4Y3d5UGhoRFRhUExJYXoyNlRvVnd1QWh1aXFSSF9JOHp0NHBDMmlsQlRYcmI1LVZFXy1VZWRpTGJlcmVzVEV5ZnhRY0dNbl9VRmRqZzRhNkVEaEVwalFSN2VwSWtmSGJ6NDFSTGk0Mnk4c2NHeUQya3pFLWQycFMwQmo5aDBWM2FEQVBadXd3Tjdab1EtRFE4OG5EbTFiWDZKWExlWEtXb2ttR1BOd1ZuNUVtTUtIZ3lxRjFwRzdNTTFaYTFGeEZyMlRiZTJ5ZS1vcUdONmhKNldEYm82Nzc2MGNiaFo2blQwMXdfdG5aVnlBMkhCM1pmeXpNYmo5VFh3aTlOZVJpWVpGLTAtS2ltaWo1eFBkMEdNbmlsQUhwUFRjbWZlUW96VWVtRGNxY0twSGRnOW1IM19KM0IzSGpwMEpJemNMcWQ1VlV3SUNNbnd0VkNRVE40SHJmUEtIMXpJ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nYjhuZHNKS2lLT0tqMU5qYTEtbFhaNmpxY2JHT3BUUW9ydFptNWpUVURHd05tQk01Mng4MnVfcmg1bVlObnlSejZYRUFOV1p1WGc?oc=5"
         }
       ],
       "matched_keywords": [
@@ -353,14 +318,14 @@
       "matched_keywords": []
     },
     {
-      "id": "d2a5b71c8f18",
-      "title": "破解保健品迷思！專家教你重塑健康識能與建立營養新思維",
-      "published": "2026-09-02T01:30:00+00:00",
-      "summary": "破解保健品迷思！專家教你重塑健康識能與建立營養新思維&nbsp;&nbsp;健康醫療網",
+      "id": "5885edb849ad",
+      "title": "腸道菌不全是自己養的！ 住在一起竟會共享部分細菌| 腸道細菌| 人與人之間傳播| 共享相同菌株",
+      "published": "2026-09-01T20:25:39+00:00",
+      "summary": "腸道菌不全是自己養的！ 住在一起竟會共享部分細菌| 腸道細菌| 人與人之間傳播| 共享相同菌株&nbsp;&nbsp;soundofhope.org",
       "sources": [
         {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vQUw4R2dUSnQtWG5xTzY5ZmRaN1lnbDg4cnZPWWxTelBYQXZ4Z0dIQm9GbUxhZ3RTQmJBSWx0QXc0c0VkYnJWcEIzVHBrd1RQdXN4NnVB?oc=5"
+          "name": "soundofhope.org",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zRVg5UnozUFoySkxQVDBNNTRFR2xBaTQtaHpLNzBiVzItTHZvMTkyU3RfS0FoVlRVSDJhNTNweFhDTVF5ZmNuaE4xekQtelp1VjZEcUc0QTF6dU0?oc=5"
         }
       ],
       "matched_keywords": []
@@ -379,14 +344,14 @@
       "matched_keywords": []
     },
     {
-      "id": "a272e577b3c8",
+      "id": "7e007d2d7794",
       "title": "新冠疫情仍在高原期！再添69重症18死 疫苗剩11萬劑",
-      "published": "2026-09-01T06:17:20+00:00",
-      "summary": "新冠疫情仍在高原期！再添69重症18死 疫苗剩11萬劑&nbsp;&nbsp;中時新聞網",
+      "published": "2026-09-01T06:22:20+00:00",
+      "summary": "新冠疫情仍在高原期！再添69重症18死 疫苗剩11萬劑&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ga0NrV2NMN1g4TjB6NVNHckN6U2kxMFRDR2FRZHMxYjlnb3g1UERzaWhTelNoWERyVXJYSW54QS1wRDVJdTM4M0dnWi1lWWlxcllPeE1WOG5DQndZWFFJaGZWQmw2emFSQU4zRUhB?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPbzBhaVdVcnZkaE1OcC1ueG1uOExVV1NyNFd3RmRaMXZENm5lUFFwZDF6OFBCUGJqbFZDNHc4ajZ0bTdjOXhDSU9LTTBnX2JoeXV3SGdSNDhRQWJzWldzTGpxd2dtdmtwMmFxUF84aEpPMW56Zl9tY3J4VEoxanktWjk1VDdpcTYxc0g1RHZCaVVQd1Z0Z3A4Q1NGOHZKQ3VrX1VtaTFhS2YzUDRfUEkwcFdPTUc1LVZZX0Y0NzRXTHVzaHB1RDVRdXp5SldOaHl2SkZ0RURoR1d0V3BSN2NOMlJzNWFUQXRSME5aTlpoZVRKZXNROXdHcmk2dV9hSkVPQVNnVi10WGgyWTFYZE96RDRxWDd2YUw0eld1bFRvU29Tb0tKT0l1WHlBVUYtUEtZQXRaUHZhaS1KV1gxNHJNTS13?oc=5"
         }
       ],
       "matched_keywords": []
@@ -639,19 +604,6 @@
       ]
     },
     {
-      "id": "eb4fb760db52",
-      "title": "臺印攜手強化傳染病防治亞東醫院分享AI 病媒監測與結核病照護- 生活新聞- PChome Online 新聞 - PChome Online 新聞",
-      "published": "2026-08-31T18:04:37+00:00",
-      "summary": "臺印攜手強化傳染病防治亞東醫院分享AI 病媒監測與結核病照護- 生活新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaWlWTG1PUGhPQ01RclFIVGQwSWo3WWZ5NVVYSmFMVWl0bkVEY3ZHM3pkSENlRXdDeWkydWNpSUZaZVBlTjItY3puYzE4cXhQbWdJSFVNTFl6YXU3SHFpY0hpdlZIY1F4SU1UNzdyQUJYNTBBOTFGeGw0NWEydFBLMHdYVTdWUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "d947717cfab8",
       "title": "健康網》認識PRP 醫：打PRP之前 可以問這些問題",
       "published": "2026-08-31T06:39:00+00:00",
@@ -729,6 +681,19 @@
       ]
     },
     {
+      "id": "97b00b33adee",
+      "title": "健康網》適當射精 降死亡風險！網紅醫：射精幫腦抗衰老",
+      "published": "2026-08-29T13:20:00+00:00",
+      "summary": "健康網》適當射精 降死亡風險！網紅醫：射精幫腦抗衰老&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HbGpSSVJ4dFVlSlZiOFlDWXVFeDAzY0JNSXdtZ3V3Ymtoa2NhN1dtQmxhQ2prUldqOHFuRGdXZnJPYnFuTmRBc0xsSzRaX0tfYnk4OHRua2NXamxsMzg1OUFFSXQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "433efa8460fe",
       "title": "不同種類蚊愛叮不同的人 新研究揭「氣味密碼」",
       "published": "2026-08-29T08:48:00+00:00",
@@ -750,19 +715,6 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzMVppSndVVlVhQ3hqcHotRmItaUh4U1VhdnZxR1lMZzNSNjdXMDY0SDhHVlk2RVJLSnZWeFdZTDlsY0Z5NW1seDlNQnlGN3pmdDB0U053?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1c25ba3d2c35",
-      "title": "改善50歲後代謝停滯！專家公開10大「促進新陳代謝」必吃清單，養出健康好體質 - Vogue Taiwan",
-      "published": "2026-08-28T00:00:00+00:00",
-      "summary": "改善50歲後代謝停滯！專家公開10大「促進新陳代謝」必吃清單，養出健康好體質&nbsp;&nbsp;Vogue Taiwan",
-      "sources": [
-        {
-          "name": "Vogue Taiwan",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUkxQy12LU5hU2lYUFZuclMyNlVwU3FBVUVQczJQcTVvR0h6WWV0cEhNTzZISlZsekpNMU1sazBCTFF0RmxFeXRrUzVLNlFxcUd2TldzOVVKSWFzbnlod0JsQ1FOUFVVY19zcXp3TFdyNU45QWZWSVF6RmdHVmM0VjllcjE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -802,19 +754,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40RE9KTHI4eVk0SFg3dWs2elRNLThHQ25oSEdrZFlxZUdMNWU5LTd2MXcxcFVfeHp6a2kzV3RlMmR4aWZJSWx4bF9LYXgtUkxDN2xEM1U1b3MxZjVsZmlFWVlXTjI?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c8448633a460",
-      "title": "比維生素D重要！1數字更關鍵:死亡率飆2倍 - 鏡週刊Mirror Media",
-      "published": "2026-08-27T00:13:00+00:00",
-      "summary": "比維生素D重要！1數字更關鍵:死亡率飆2倍&nbsp;&nbsp;鏡週刊Mirror Media",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BWnQwN1FFQnRZUm1hOU44dVh1NHcya3h2eS02OG0xQzJFMkE5RG9ub1c0c3BQSjdXanZuQzVMd3JRanAyVzVSQVVKdDJKUHNSVzNIYnJkM1JaQ2pw0gFiQVVfeXFMTnF0UHpscUtvT1ZsUGNPYUFBekdwY1pSYlpLa1h4ZG04X29iRHNqV2tsMWxlM3o0SnRPc251VU9WellyQUF1Ti1HbUF5ei1uZERTaW9aRmZWbU94UVFxVEdoN2c?oc=5"
         }
       ],
       "matched_keywords": []
