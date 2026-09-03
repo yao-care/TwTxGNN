@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T07:31:13.211768+00:00",
-  "count": 5,
+  "generated": "2026-09-03T12:22:24.630869+00:00",
+  "count": 6,
   "news": [
     {
       "id": "7a14f7a7679c",
@@ -297,12 +297,48 @@
       ]
     },
     {
-      "id": "44ac7a1198b3",
-      "title": "張金堅、葉顯堂:癌症康復後，別忽略脂肪危機 - 健康新聞 - PChome Online 新聞 - PChome Online 新聞",
+      "id": "1a30d05a60a3",
+      "title": "原本治關節炎！這款藥竟讓「鬼剃頭」長回頭髮 逾5成重度患者恢復8成 | 自由電子報 - LINE TODAY",
+      "published": "2026-09-01T05:56:54+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90WE1sRFJHZHVHX1gzemZtUWdycjRDYUZqSnVpSW15OHhUNmlFcUplREdUUlJfMDdlU1M5MzNob3E0eXg2MnZPMlRxeElDc2JBdGVwV3dR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0e4a30e74494",
+      "title": "張金堅、葉顯堂:癌症康復後，別忽略脂肪危機 - 健康新聞 - PChome Online 新聞 - PChome Online新聞",
       "published": "2026-09-01T00:57:56+00:00",
       "sources": [
         {
-          "name": "PChome Online 新聞",
+          "name": "PChome Online新聞",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSExPYkZycndFUGI3VUdfU1JSVlBKd3JrQW5YQnFOUW5CVldLMk9Fa3V6eng5WWZBWjItN1NlQWFJQm85M1d3bWlyb0s1M1Y1WlBVLW4ydHJod3dWbEtmblg0WTNSMl85WVpKZlBWZkptOV84Vkh1Y0lXMHVvZ0VWb2tkdmtKcUVlS1FvRkhaaGhkQQ?oc=5"
         }
       ],

@@ -1,43 +1,82 @@
 {
-  "last_updated": "2026-09-03T07:31:13.193586+00:00",
-  "total_count": 21,
-  "matched_count": 5,
+  "last_updated": "2026-09-03T12:22:24.599381+00:00",
+  "total_count": 24,
+  "matched_count": 6,
   "news": [
     {
-      "id": "daf1b4ee05c2",
-      "title": "疫苗不只守護兒童！醫師籲成人「免疫防線」別漏接全齡防護從現在開始| 生活",
-      "published": "2026-09-03T06:00:00+00:00",
-      "summary": "疫苗不只守護兒童！醫師籲成人「免疫防線」別漏接全齡防護從現在開始| 生活&nbsp;&nbsp;三立新聞網SETN.com疫苗有了，為何高風險族群還漏接？&nbsp;&nbsp;康健雜誌健康不走回頭路！呼吸道疾病全年化 醫籲備齊四大疫苗提前守護&nbsp;&nbsp;三立新聞網SETN.com",
+      "id": "8b9a25bf3bf7",
+      "title": "中國COVID-19疫情連3週降登革熱仍在流行季| 兩岸 - 中央社 CNA",
+      "published": "2026-09-03T09:08:00+00:00",
+      "summary": "中國COVID-19疫情連3週降登革熱仍在流行季| 兩岸&nbsp;&nbsp;中央社 CNA",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
+          "name": "中央社 CNA",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3bzR5ZVpoeXZZU1AzbWlUYU5fa3hZUk9SSkl3QTNSS1RQY0RBNWd4aDRXTDd3dk9ZRkpyWlJucFhYV3U0ZTI5SUk4ZmoyenVVY2pLelZsMzg4aDBTeUE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a2e2c2dea496",
+      "title": "疫苗不只守護兒童！醫師籲成人「免疫防線」別漏接全齡防護從現在開始| 生活",
+      "published": "2026-09-03T06:00:00+00:00",
+      "summary": "疫苗不只守護兒童！醫師籲成人「免疫防線」別漏接全齡防護從現在開始| 生活&nbsp;&nbsp;三立新聞疫苗有了，為何高風險族群還漏接？&nbsp;&nbsp;康健雜誌健康不走回頭路！呼吸道疾病全年化 醫籲備齊四大疫苗提前守護&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1ZUZmMmpQSlZ2QWcwakpOeF80a241bTVvX083ZlV4ZXc5U3Q3N2ZCSFMxOHBzV29lQVcyVHh1VENsbXdwaEpuMA?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "062e086c7968",
-      "title": "骨鬆最強「鍛骨法」曝光！每天30分鐘，逆轉骨質疏鬆、刺激骨密度飆升",
-      "published": "2026-09-03T00:03:12+00:00",
-      "summary": "骨鬆最強「鍛骨法」曝光！每天30分鐘，逆轉骨質疏鬆、刺激骨密度飆升&nbsp;&nbsp;Yahoo新聞",
+      "id": "e2a7ed084835",
+      "title": "男女並進第二年 台灣HPV疫苗接種率亮眼 男生首接種破八成 打造「防癌不分性別」新共識",
+      "published": "2026-09-03T04:12:06+00:00",
+      "summary": "男女並進第二年 台灣HPV疫苗接種率亮眼 男生首接種破八成 打造「防癌不分性別」新共識&nbsp;&nbsp;天天上新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOSFFjbDRJX2ZYSnNlRzFLb2hGRk0teHl6ZmxyOEpLSGZVaDk0c25JT3o4ZzJURzVJcFpUR2F2bUN3dktCVVhnZHVRa0lCYlZqNHRKX3pILWdCMlRkMmQ0c1VHa1hSSk90S2JrYUhpRW5EUUZ0amFwbVp6UWduVUlhczlXcmJOM1NWR2lNdzlyajdreEc4T1V5S1QzY0w0ZU1yeWJTV1o3aGZLUENFVk9IczlBM2ZLbFo2REtaVWZxM3cybXlfb082b2MxZGNQUWpHOGVBWnZKVWE1Vkc0M0lCNS11SXAxVk15eVZZdVgyaUJxUm5qNzRXZkoxU0dZMVVVdWZ6aS1fMkp6VXJLUWNlWUZQYkhmaUxoNkFYRlV4THUyUGxWVllzc1pDOWhoOW9hVHB3WkVjUkttR0s1V080?oc=5"
+          "name": "天天上新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TOUFJeWRpTG9LU3ZscndNZTdlMmFWc0ZJNXRwZ1ZnU3JyaG8zTVFpZXg0R2RCNndGdXhDcC1IV3pVRnZKbnN5MW9tZnJ6QQ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "d0948eb0abce",
+      "id": "003638c9f909",
       "title": "中年做9件事延長壽命！專家︰40至60歲是作出改變的「人生黃金期」",
       "published": "2026-09-02T12:00:00+00:00",
-      "summary": "中年做9件事延長壽命！專家︰40至60歲是作出改變的「人生黃金期」&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "中年做9件事延長壽命！專家︰40至60歲是作出改變的「人生黃金期」&nbsp;&nbsp;wealth.hket.com",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
+          "name": "wealth.hket.com",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XY1k4VjVJVTZ2ZXEzQ3dCeUNQUmpNcDNHaVpzVUZBMU1XQlpJanRKeGhTb1hacHNtZkxsak9wdjgyWDZnSDJRSjJJa3FXZGYx?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5f00b0a847fc",
+      "title": "視力變差別急著換眼鏡？真相恐是睡眠不足",
+      "published": "2026-09-02T11:00:00+00:00",
+      "summary": "視力變差別急著換眼鏡？真相恐是睡眠不足&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45S3dBMjZFMlFDeUdCWWVwZkNnMU40cFB5cUZGdkVDM1htZVdIOEl1bVhIVlZFMmdLV3pWNGltX0dRNFpKWGdybU92QnNYb0RGNkxKMEFyNGhpcDAwZUkwd9IBZkFVX3lxTFA1YXFhamJoLTlKcXRlWnNaRjhtY2VSQ1RhYm5WalVhZnNxVWFtN25HUGZNQVllN1RySlo5VnV5Szg4dnZfTDVTM0MyRkVEV3hBemQtT3NNNlpEYkdpYmthSjJwXzYxQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1f96ea54db2e",
+      "title": "健康網》年紀大最怕腿沒力 網紅醫推7食物穩肌力：蛋黃也有用",
+      "published": "2026-09-02T09:46:00+00:00",
+      "summary": "健康網》年紀大最怕腿沒力 網紅醫推7食物穩肌力：蛋黃也有用&nbsp;&nbsp;自由健康網中年男士體力大不如前？營養師推薦7大食物抗老化/增肌力 附最強回春料理&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tUXlNeWxibUlCRnZpdkphaURBbjVTTVdtSWZkYWFoMUhQd1hVU1FZOWgtU0MzbEN2OGlRSm5GRHVib0RwWXZ0eElqTUpqSUc0QzhOLXo1dXM3c3VlZWE0UVc5UXnSAWpBVV95cUxQTVRPRnRXMGJxMk50bDlmUjVCb1VIMGIydlRPbzZJZDRfQmlJTldWc0VvdjhwX1VWblo5Q1gyWVo1Wk5CdWhmcnZwZHpnZW1LWXQzUU5HZUNXenVVMGRRbVVfYUNmb2NEQnp3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -91,13 +130,13 @@
       ]
     },
     {
-      "id": "452abcb2bf61",
+      "id": "607d03f78aad",
       "title": "破解保健品迷思！專家教你重塑健康識能與建立營養新思維",
       "published": "2026-09-02T05:15:00+00:00",
-      "summary": "破解保健品迷思！專家教你重塑健康識能與建立營養新思維&nbsp;&nbsp;ftvnews.com.tw",
+      "summary": "破解保健品迷思！專家教你重塑健康識能與建立營養新思維&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "ftvnews.com.tw",
+          "name": "民視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GNVd6cHE0N2piVTlvWjE4bFFiNGl5Q3NHUlJReGdHQmtMeU5xbDZOemFDWEFORGZGRWh5SkFZWVlYMVpyMlluc1Jyd0M4NS1CQlNCY1hSRi1KYmdySS1YMQ?oc=5"
         }
       ],
@@ -353,52 +392,89 @@
       ]
     },
     {
-      "id": "c349b3a3b280",
+      "id": "2ff13d6a81c9",
       "title": "套套激戰消失辣妹2理由拒吃藥醫驚：下場恐很慘- 健康",
       "published": "2026-09-02T02:20:00+00:00",
-      "summary": "套套激戰消失辣妹2理由拒吃藥醫驚：下場恐很慘- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "套套激戰消失辣妹2理由拒吃藥醫驚：下場恐很慘- 健康&nbsp;&nbsp;chinatimes.com",
       "sources": [
         {
-          "name": "中時新聞網",
+          "name": "chinatimes.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWeTFaQzZJTHJqcWNwUUp3cFhKYU9NVE43SGdFNVYtd2wyX0xtclJTazdibmd0SzFNdUlsODFvUC1VLTA1XzVWb2J0amdXZDMxeEFFQjd3VE1HMnRDWWUzRGRoZUxzeVkteUYtN3V3?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "1c27b18af27c",
+      "id": "cdf915b67fb1",
       "title": "甚麼是「危險心率」？女性有這些症狀別輕忽",
       "published": "2026-09-01T14:12:00+00:00",
-      "summary": "甚麼是「危險心率」？女性有這些症狀別輕忽&nbsp;&nbsp;worldjournal.com",
+      "summary": "甚麼是「危險心率」？女性有這些症狀別輕忽&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "worldjournal.com",
+          "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KbjA4Nm9PV2tMeXhjWWRYOEZ5ZG9Jb2w0Z0JZQzk2eWtEU1F1dDNOWnMtRnktdDk3SzdvTU9IT0U3Z0FPTUVael9aeU9ueHNVX0dMa2wxMlQzcTIyVE4tUFp30gFnQVVfeXFMTjJ5MXdldmFha0ZBUHVxa3FDTG1vZ0dWcWlvOHlnSGJXUGNkNDVWbE8ybkdUdm5EOVdIaEtwSEdUb09GMnRYT0ZCLTdPS1A1NVQ5MEp1MktOMllGdWo2aDRmNnBYRkp3WQ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "7e007d2d7794",
+      "id": "d6cbee3da56c",
       "title": "新冠疫情仍在高原期！再添69重症18死 疫苗剩11萬劑",
-      "published": "2026-09-01T06:22:20+00:00",
-      "summary": "新冠疫情仍在高原期！再添69重症18死 疫苗剩11萬劑&nbsp;&nbsp;Yahoo新聞",
+      "published": "2026-09-01T06:17:20+00:00",
+      "summary": "新冠疫情仍在高原期！再添69重症18死 疫苗剩11萬劑&nbsp;&nbsp;chinatimes.com",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPbzBhaVdVcnZkaE1OcC1ueG1uOExVV1NyNFd3RmRaMXZENm5lUFFwZDF6OFBCUGJqbFZDNHc4ajZ0bTdjOXhDSU9LTTBnX2JoeXV3SGdSNDhRQWJzWldzTGpxd2dtdmtwMmFxUF84aEpPMW56Zl9tY3J4VEoxanktWjk1VDdpcTYxc0g1RHZCaVVQd1Z0Z3A4Q1NGOHZKQ3VrX1VtaTFhS2YzUDRfUEkwcFdPTUc1LVZZX0Y0NzRXTHVzaHB1RDVRdXp5SldOaHl2SkZ0RURoR1d0V3BSN2NOMlJzNWFUQXRSME5aTlpoZVRKZXNROXdHcmk2dV9hSkVPQVNnVi10WGgyWTFYZE96RDRxWDd2YUw0eld1bFRvU29Tb0tKT0l1WHlBVUYtUEtZQXRaUHZhaS1KV1gxNHJNTS13?oc=5"
+          "name": "chinatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ga0NrV2NMN1g4TjB6NVNHckN6U2kxMFRDR2FRZHMxYjlnb3g1UERzaWhTelNoWERyVXJYSW54QS1wRDVJdTM4M0dnWi1lWWlxcllPeE1WOG5DQndZWFFJaGZWQmw2emFSQU4zRUhB?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "44ac7a1198b3",
-      "title": "張金堅、葉顯堂:癌症康復後，別忽略脂肪危機 - 健康新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "published": "2026-09-01T00:57:56+00:00",
-      "summary": "張金堅、葉顯堂:癌症康復後，別忽略脂肪危機 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "id": "1a30d05a60a3",
+      "title": "原本治關節炎！這款藥竟讓「鬼剃頭」長回頭髮 逾5成重度患者恢復8成 | 自由電子報 - LINE TODAY",
+      "published": "2026-09-01T05:56:54+00:00",
+      "summary": "原本治關節炎！這款藥竟讓「鬼剃頭」長回頭髮 逾5成重度患者恢復8成 | 自由電子報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "PChome Online 新聞",
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90WE1sRFJHZHVHX1gzemZtUWdycjRDYUZqSnVpSW15OHhUNmlFcUplREdUUlJfMDdlU1M5MzNob3E0eXg2MnZPMlRxeElDc2JBdGVwV3dR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0e4a30e74494",
+      "title": "張金堅、葉顯堂:癌症康復後，別忽略脂肪危機 - 健康新聞 - PChome Online 新聞 - PChome Online新聞",
+      "published": "2026-09-01T00:57:56+00:00",
+      "summary": "張金堅、葉顯堂:癌症康復後，別忽略脂肪危機 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online新聞",
+      "sources": [
+        {
+          "name": "PChome Online新聞",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSExPYkZycndFUGI3VUdfU1JSVlBKd3JrQW5YQnFOUW5CVldLMk9Fa3V6eng5WWZBWjItN1NlQWFJQm85M1d3bWlyb0s1M1Y1WlBVLW4ydHJod3dWbEtmblg0WTNSMl85WVpKZlBWZkptOV84Vkh1Y0lXMHVvZ0VWb2tkdmtKcUVlS1FvRkhaaGhkQQ?oc=5"
         }
       ],
@@ -601,6 +677,32 @@
       ]
     },
     {
+      "id": "d0fa66a4e8d0",
+      "title": "腦供血不足最危險信號並不是頭暈",
+      "published": "2026-08-31T20:31:43+00:00",
+      "summary": "腦供血不足最危險信號並不是頭暈&nbsp;&nbsp;soundofhope.org",
+      "sources": [
+        {
+          "name": "soundofhope.org",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0eEd0ZEczMzhaeEFhUTV0eFVPNHp1a2dnRjlCWWp1WjRVWkJIQ0syRE5NMno4ZEE1M21FY2Rfbmt1QnExdHdCWTI5OTVSdTV0cUFrMmhseTZzSFk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9d71c07796e4",
+      "title": "食鹹魚會增加鼻咽癌風險？鼻咽癌元兇—解構EB病毒真面目",
+      "published": "2026-08-31T06:39:21+00:00",
+      "summary": "食鹹魚會增加鼻咽癌風險？鼻咽癌元兇—解構EB病毒真面目&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOU0QwZHlOQkRKUHk4VlBoOUtNUEFBXzQtbWtZYXJQNU1vdlRWU1ZOMm03V3F1eDJfT2VzZ0Q2aFlDajl6R083TWFHTmo2VG1UN0tlYm1ESDJCeHdsREZwRVRQT0RSTzk3U0pGLXR4cE9MT1dROUZRcnVFNjZQSFFNd1lwWVk4cEpYS2RNU3dpVHNndlZTbUFkUzhIS2pHcndxTEpnN3pRODkyTGhXZS1sLTV5ZW9INDV2UGJ0ZUhES3JkTUNfd1FXZkQzN0RMaDBScURDLWJaN1FzZTFDa2dCVFVYWW9CdXBUVk84WFNtZ2xPSno5a09obGFBbVRnTzA4aU1sVmRwYzZXRUNxSHRaR0lyQTBuRkdlZmt2X2gwQUdQWFFGZG1CcldlRjJHbXdiU3F5XzZ6bC01blJsand0UmY5TGhsM20xN2g3YVFqdjhNUFhYdnI4OWRWcmFob0kwQVByOElLU2pmVXlDTjBON040cENoS1ZoaWxaZg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "d947717cfab8",
       "title": "健康網》認識PRP 醫：打PRP之前 可以問這些問題",
       "published": "2026-08-31T06:39:00+00:00",
@@ -639,14 +741,14 @@
       ]
     },
     {
-      "id": "ccd8d6fc97d2",
-      "title": "80歲後走得快，認知障礙風險少一半！現在開始練還來得及嗎？醫師給答案",
-      "published": "2026-08-31T02:05:59+00:00",
-      "summary": "80歲後走得快，認知障礙風險少一半！現在開始練還來得及嗎？醫師給答案&nbsp;&nbsp;health.udn.com",
+      "id": "c20c78e48d05",
+      "title": "退伍軍人症94例11死　冷卻塔爆逾110項違規",
+      "published": "2026-08-31T00:53:00+00:00",
+      "summary": "退伍軍人症94例11死 冷卻塔爆逾110項違規&nbsp;&nbsp;大纪元",
       "sources": [
         {
-          "name": "health.udn.com",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RdVpSTkl5Uk56M1dreWg5YkNVN2pzWlhKUlpSUWphdDVrLUFXTG1NQTRMZU5vTmJVV3BVdHN2N1B3NTNtQUs5WVZVNE5RT1BnQXRIYzJKTDNjQmFE0gFiQVVfeXFMUGlpRDVFOFdLZE9yRjBuTVNjMGdfY3Q3dUpjRS1zSmFrU1ZJY25Fb0ozSU01LWxXR2NqU1pKY2o4UGszMUFhRUxFMHRmazRpbnpMVzBYTUFpRFJsUHVtTEE1M1E?oc=5"
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uS2lRc2NJSGtPbHBYbUlxXzd2bXRBbnEzTlAzTDdUcFhtYTJrYkpQdk1LTWs3WWhKb3JPcnBUQUtYSldZODNsakZleXZ2VWZGbXlKdXJ1UXVLUmpweFdNOdIBZkFVX3lxTE5SSDhsNEF1UTBGYkJRVXI3dndLWmtUaUlldnBPb0ZmTDd6M1BweGFDTVhycjNsOFd5S184aXNhZ3VVM2s2amJEcFdwMW5leXRkZ0thaUxVTnNZWXVhYTZ4LTZybk5pZw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -678,32 +780,6 @@
       "matched_keywords": []
     },
     {
-      "id": "433efa8460fe",
-      "title": "不同種類蚊愛叮不同的人 新研究揭「氣味密碼」",
-      "published": "2026-08-29T08:48:00+00:00",
-      "summary": "不同種類蚊愛叮不同的人 新研究揭「氣味密碼」&nbsp;&nbsp;新唐人電視台",
-      "sources": [
-        {
-          "name": "新唐人電視台",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yQWF4cmRpTVkwWGZ5blFWVzhFMFlZMXZ5MkVJV3JQaks2bm9jdUdydWY3UE1xNUk3Q2tnY1dUVEdXQjZaZUwyRW1TWUcwbjZjUXYwU09NbFM1MzA5c0ltVdIBZkFVX3lxTE1JeUJnMmJBWks5OHZVSjJiU1lGb1NvNGtVRWtYVjZ0cUc4cDZFQTNCSlNadUpiRzk3UzJ5WUEwNHFQcHc2TzZ2UlBEOHJfVGFneDNQOWFRTWw0blJHR2gycmNoRUJKQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "66d06d7197da",
-      "title": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效 | 科技新報 - LINE TODAY",
-      "published": "2026-08-29T00:24:19+00:00",
-      "summary": "肝臟其實也有生理時鐘！精準服藥時間或使代謝疾病療法更有效 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzMVppSndVVlVhQ3hqcHotRmItaUh4U1VhdnZxR1lMZzNSNjdXMDY0SDhHVlk2RVJLSnZWeFdZTDlsY0Z5NW1seDlNQnlGN3pmdDB0U053?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "e7a0245bc28b",
       "title": "赴泰注意！曼谷登革熱確診突破1700宗官方籲出現症狀速就醫勿自行用藥- 國際",
       "published": "2026-08-28T07:05:01+00:00",
@@ -712,19 +788,6 @@
         {
           "name": "點新聞",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrajZvLVhGTEpxOEFBZmpYMU1meDNRRkplN2NOeHYxTmtPa25nVGdIbGpWOEE5Uk1qQUtGUUQ2X1FMUUdmQW56WHcwVHg2U081anpnZFNta19rakJ5NTFNZGk5UmliVktibXV4MWRSUWhiVnJfNFVtZFFB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1c25ba3d2c35",
-      "title": "改善50歲後代謝停滯！專家公開10大「促進新陳代謝」必吃清單，養出健康好體質 - Vogue Taiwan",
-      "published": "2026-08-28T00:00:00+00:00",
-      "summary": "改善50歲後代謝停滯！專家公開10大「促進新陳代謝」必吃清單，養出健康好體質&nbsp;&nbsp;Vogue Taiwan",
-      "sources": [
-        {
-          "name": "Vogue Taiwan",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUkxQy12LU5hU2lYUFZuclMyNlVwU3FBVUVQczJQcTVvR0h6WWV0cEhNTzZISlZsekpNMU1sazBCTFF0RmxFeXRrUzVLNlFxcUd2TldzOVVKSWFzbnlod0JsQ1FOUFVVY19zcXp3TFdyNU45QWZWSVF6RmdHVmM0VjllcjE?oc=5"
         }
       ],
       "matched_keywords": []
