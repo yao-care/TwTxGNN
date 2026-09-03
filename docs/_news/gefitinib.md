@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（6 則）
+
+### [打破「小酌無害」觀念 研究：每日一杯 癌症死亡風險倍增](https://news.google.com/rss/articles/CBMibkFVX3lxTFBWVGdLa2p4ckhuanUyT2djSzZSNnh6bktNdHp1LTVJZk5sRzB1VE1XZHhMUkpiVGdzc0FSYWhFRW1rUVZLMlRBZEJieS1SeUlEdExCRG10aXp6VjQzYkVjOTJaQ2M4WF9rS2R4azl3?oc=5)
+
+2026-09-03 <span class="news-indication-tag">癌症</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFBWVGdLa2p4ckhuanUyT2djSzZSNnh6bktNdHp1LTVJZk5sRzB1VE1XZHhMUkpiVGdzc0FSYWhFRW1rUVZLMlRBZEJieS1SeUlEdExCRG10aXp6VjQzYkVjOTJaQ2M4WF9rS2R4azl3?oc=5)
+
+---
+
+### [突然開始說夢話、揮拳踢腿？醫：中高齡要注意，恐與巴金森氏症、失智有關](https://news.google.com/rss/articles/CBMihANBVV95cUxORW54VkQyRmlOTmJRR2FYWndlVUNKSFRXaUFKdS1kZFIydzRUUU1tcHFoZllVQUtRVERGZEs3ZG5rS0tjejV2YUY1b1Q1RkFDN1lwd1F6RVhEQ0R3VElJNENKMi15azhGVUF1bjE4MjhrUVYwZUN4YWIzLVhsTjNLYnZvUTdvVmxUUmpEMkpYYm0wSW1HTlk2OUFET3pPUkJMT0p1OWkzYkxyemdyZlE0RU9rbHdtQkNkTHowV2t6X2lTajdzWHU4Y1VGWmJuVENBaWZvSFRRU0h2M0piRW1DTnhTN1ZGMHJWZV9qOVZvd21xSGQ4YWtJend2TEdwaFE2Q3RDY1YxWlQtaHdKRHF3LTZrdklYckdPXzQ4WGJGVUN6M0xBc2pGZE9BQkpRbFpmR09ZVmdPQ3E1YWJFWVVfZjBjMXUtNncydUNUU1YxQ0VkYjE0WXhrZk5SV3ZxeGVVYXhQSmk3V3dhUXdBMEo3djBlWjBIR2F1UnowbklhVDVrZlIt?oc=5)
+
+2026-09-03 <span class="news-indication-tag">失智</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMihANBVV95cUxORW54VkQyRmlOTmJRR2FYWndlVUNKSFRXaUFKdS1kZFIydzRUUU1tcHFoZllVQUtRVERGZEs3ZG5rS0tjejV2YUY1b1Q1RkFDN1lwd1F6RVhEQ0R3VElJNENKMi15azhGVUF1bjE4MjhrUVYwZUN4YWIzLVhsTjNLYnZvUTdvVmxUUmpEMkpYYm0wSW1HTlk2OUFET3pPUkJMT0p1OWkzYkxyemdyZlE0RU9rbHdtQkNkTHowV2t6X2lTajdzWHU4Y1VGWmJuVENBaWZvSFRRU0h2M0piRW1DTnhTN1ZGMHJWZV9qOVZvd21xSGQ4YWtJend2TEdwaFE2Q3RDY1YxWlQtaHdKRHF3LTZrdklYckdPXzQ4WGJGVUN6M0xBc2pGZE9BQkpRbFpmR09ZVmdPQ3E1YWJFWVVfZjBjMXUtNncydUNUU1YxQ0VkYjE0WXhrZk5SV3ZxeGVVYXhQSmk3V3dhUXdBMEo3djBlWjBIR2F1UnowbklhVDVrZlIt?oc=5)
+
+---
 
 ### [腦腫瘤｜ 40歲5孩之母遭誤診肌腱炎 癲癇發作昏迷終確診末期腦癌 腳部現1徵兆要留心](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nYjhuZHNKS2lLT0tqMU5qYTEtbFhaNmpxY2JHT3BUUW9ydFptNWpUVURHd05tQk01Mng4MnVfcmg1bVlObnlSejZYRUFOV1p1WGc?oc=5)
 
@@ -51,11 +67,19 @@ permalink: /news/gefitinib/
 
 ---
 
-### [張金堅、葉顯堂:癌症康復後，別忽略脂肪危機 - 健康新聞 - PChome Online 新聞 - PChome Online新聞](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSExPYkZycndFUGI3VUdfU1JSVlBKd3JrQW5YQnFOUW5CVldLMk9Fa3V6eng5WWZBWjItN1NlQWFJQm85M1d3bWlyb0s1M1Y1WlBVLW4ydHJod3dWbEtmblg0WTNSMl85WVpKZlBWZkptOV84Vkh1Y0lXMHVvZ0VWb2tkdmtKcUVlS1FvRkhaaGhkQQ?oc=5)
+### [張金堅、葉顯堂:癌症康復後，別忽略脂肪危機 - 健康新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSExPYkZycndFUGI3VUdfU1JSVlBKd3JrQW5YQnFOUW5CVldLMk9Fa3V6eng5WWZBWjItN1NlQWFJQm85M1d3bWlyb0s1M1Y1WlBVLW4ydHJod3dWbEtmblg0WTNSMl85WVpKZlBWZkptOV84Vkh1Y0lXMHVvZ0VWb2tkdmtKcUVlS1FvRkhaaGhkQQ?oc=5)
 
 2026-09-01 <span class="news-indication-tag">癌症</span>
 
-來源：[PChome Online新聞](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSExPYkZycndFUGI3VUdfU1JSVlBKd3JrQW5YQnFOUW5CVldLMk9Fa3V6eng5WWZBWjItN1NlQWFJQm85M1d3bWlyb0s1M1Y1WlBVLW4ydHJod3dWbEtmblg0WTNSMl85WVpKZlBWZkptOV84Vkh1Y0lXMHVvZ0VWb2tkdmtKcUVlS1FvRkhaaGhkQQ?oc=5)
+來源：[news.pchome.com.tw](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSExPYkZycndFUGI3VUdfU1JSVlBKd3JrQW5YQnFOUW5CVldLMk9Fa3V6eng5WWZBWjItN1NlQWFJQm85M1d3bWlyb0s1M1Y1WlBVLW4ydHJod3dWbEtmblg0WTNSMl85WVpKZlBWZkptOV84Vkh1Y0lXMHVvZ0VWb2tkdmtKcUVlS1FvRkhaaGhkQQ?oc=5)
+
+---
+
+### [35歲起就要注意中年人6種情緒增失智風險沒自信也中- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1MSG1CZlFvNnNHd3lBOERBdHhILTB3bHM5RzRVbEx4YXlNaEVwZl90ME1tTlFxTmxpcVJLVWRLLXhnWlpyOUhYZHc5d0MxSTZvRWhqaVlZZDRqVDZWaGxrQXVWdno4ZjVRTEQyMXd3?oc=5)
+
+2026-08-31 <span class="news-indication-tag">失智</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1MSG1CZlFvNnNHd3lBOERBdHhILTB3bHM5RzRVbEx4YXlNaEVwZl90ME1tTlFxTmxpcVJLVWRLLXhnWlpyOUhYZHc5d0MxSTZvRWhqaVlZZDRqVDZWaGxrQXVWdno4ZjVRTEQyMXd3?oc=5)
 
 ---
 
@@ -63,7 +87,7 @@ permalink: /news/gefitinib/
 
 2026-08-31 <span class="news-indication-tag">阿茲海默症</span>
 
-來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ldGZsU1Q0b29hVGM2Z2ZiMEMxWUNPaUNiYnk1N1lEeFoyTmFIaUF6WnhsdnhFOVZrcGpkbU83WDBYMmUzUXZGMHc5dzBiZ1hrY3cxSDFVdXoydk1jSjFJ?oc=5)
+來源：[technice.com.tw](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ldGZsU1Q0b29hVGM2Z2ZiMEMxWUNPaUNiYnk1N1lEeFoyTmFIaUF6WnhsdnhFOVZrcGpkbU83WDBYMmUzUXZGMHc5dzBiZ1hrY3cxSDFVdXoydk1jSjFJ?oc=5)
 
 ---
 
