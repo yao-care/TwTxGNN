@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "腫瘤（generic_cancer） 相關新聞"
+title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "腫瘤（generic_cancer） 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
-# 腫瘤（generic_cancer） 相關新聞
+# 癌症（generic_cancer） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="腫瘤（generic_cancer） 有什麼相關新聞？">
-<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「腫瘤」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「癌症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -77,6 +77,14 @@ permalink: /news/generic-cancer/
 
 ## 相關新聞（4 則）
 
+### [菇類也能防癌？研究發現每天吃18克 癌症風險低45％](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
+
+2026-09-04
+
+來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
+
+---
+
 ### [乳癌竟能利用免疫細胞招來神經，幫助腫瘤生長 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSDk0blVfN1F1M0xSTGtheEtUUFo0Z2tHSGFMRlhVY1pNNXFqbFFsUHRqZnYxZkc5RWVuNDNkRkRQM3ZOSElJazRKMXc4alY0RkR1cTRXLXZEODg1R1J6cVVudjV1MzdQbkxHR0VTbUNwN0FJYUdUYnlUemp4MmJMemQ5cmZqeGJvT0ZYbF9WdVdpSFphR3Nvd0hhNXpJbEpkNmc?oc=5)
 
 2026-09-04
@@ -89,7 +97,7 @@ permalink: /news/generic-cancer/
 
 2026-09-03
 
-來源：[ctee.com.tw](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5)
+來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5)
 
 ---
 
@@ -98,14 +106,6 @@ permalink: /news/generic-cancer/
 2026-09-03
 
 來源：[天天上新聞](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TOUFJeWRpTG9LU3ZscndNZTdlMmFWc0ZJNXRwZ1ZnU3JyaG8zTVFpZXg0R2RCNndGdXhDcC1IV3pVRnZKbnN5MW9tZnJ6QQ?oc=5)
-
----
-
-### [張金堅、葉顯堂:癌症康復後，別忽略脂肪危機 - 健康新聞 - PChome Online 新聞 - PChome Online新聞](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSExPYkZycndFUGI3VUdfU1JSVlBKd3JrQW5YQnFOUW5CVldLMk9Fa3V6eng5WWZBWjItN1NlQWFJQm85M1d3bWlyb0s1M1Y1WlBVLW4ydHJod3dWbEtmblg0WTNSMl85WVpKZlBWZkptOV84Vkh1Y0lXMHVvZ0VWb2tkdmtKcUVlS1FvRkhaaGhkQQ?oc=5)
-
-2026-09-01
-
-來源：[PChome Online新聞](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSExPYkZycndFUGI3VUdfU1JSVlBKd3JrQW5YQnFOUW5CVldLMk9Fa3V6eng5WWZBWjItN1NlQWFJQm85M1d3bWlyb0s1M1Y1WlBVLW4ydHJod3dWbEtmblg0WTNSMl85WVpKZlBWZkptOV84Vkh1Y0lXMHVvZ0VWb2tkdmtKcUVlS1FvRkhaaGhkQQ?oc=5)
 
 ---
 

@@ -44,6 +44,14 @@ permalink: /news/oteracil/
 
 ## 相關新聞（5 則）
 
+### [菇類也能防癌？研究發現每天吃18克 癌症風險低45％](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
+
+2026-09-04 <span class="news-indication-tag">癌症</span>
+
+來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
+
+---
+
 ### [乳癌竟能利用免疫細胞招來神經，幫助腫瘤生長 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSDk0blVfN1F1M0xSTGtheEtUUFo0Z2tHSGFMRlhVY1pNNXFqbFFsUHRqZnYxZkc5RWVuNDNkRkRQM3ZOSElJazRKMXc4alY0RkR1cTRXLXZEODg1R1J6cVVudjV1MzdQbkxHR0VTbUNwN0FJYUdUYnlUemp4MmJMemQ5cmZqeGJvT0ZYbF9WdVdpSFphR3Nvd0hhNXpJbEpkNmc?oc=5)
 
 2026-09-04 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span>
@@ -56,7 +64,7 @@ permalink: /news/oteracil/
 
 2026-09-03 <span class="news-indication-tag">癌症</span>
 
-來源：[ctee.com.tw](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5)
+來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5)
 
 ---
 
@@ -73,14 +81,6 @@ permalink: /news/oteracil/
 2026-09-02 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMijwNBVV95cUxORTMydlZ5SkxOOXNjdlVQMHNjUUhidmJvNkdIbElOdVd5YXpydm1SVXhkMkpEOWFNTVphdVU1ZXBHUmZTNWZMUUd4d0sxQVhObU8zdER5V2VaQjNyM0t5TzBJSTNYQjVxcTNPSzJ1dFpaZHBzZ1FnT1ltU2c4aDN3WGxXQWM2WEJaSFdpYTdVcUF3SVNzVXJ0Q0stSk1hTVFpbE55RVN1ZXNPbUlpNVlmTUV6WUplVTdYZEUyQTY4RXBqcFdxYjZPTnRVMkpWdFV1ZFdGdUwzaEFWcGJ1bE5ra21pQ1lfeWVKcUN6TlZhdmhrRUpIdm0xSnhJdnFvR0NHa2ZqX2FER0ZGV2llNGdYaDhFWmJKMXFnOXUyTzFZWDJLODVIbGFfMkR6QXVCZ3FpRE5heWs5WmtxQ01FQWpPR1VUX0tJVEloQ2M3VEx4YkxVY3ZwQV9uXzNXV1RCZzdmZVRBRTJhT05rYU9FSHliZU9HZ0pZUERaS3d0TEFSUHRlZ3dRYkJUZ09aQ1lzbG8?oc=5)
-
----
-
-### [張金堅、葉顯堂:癌症康復後，別忽略脂肪危機 - 健康新聞 - PChome Online 新聞 - PChome Online新聞](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSExPYkZycndFUGI3VUdfU1JSVlBKd3JrQW5YQnFOUW5CVldLMk9Fa3V6eng5WWZBWjItN1NlQWFJQm85M1d3bWlyb0s1M1Y1WlBVLW4ydHJod3dWbEtmblg0WTNSMl85WVpKZlBWZkptOV84Vkh1Y0lXMHVvZ0VWb2tkdmtKcUVlS1FvRkhaaGhkQQ?oc=5)
-
-2026-09-01 <span class="news-indication-tag">癌症</span>
-
-來源：[PChome Online新聞](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSExPYkZycndFUGI3VUdfU1JSVlBKd3JrQW5YQnFOUW5CVldLMk9Fa3V6eng5WWZBWjItN1NlQWFJQm85M1d3bWlyb0s1M1Y1WlBVLW4ydHJod3dWbEtmblg0WTNSMl85WVpKZlBWZkptOV84Vkh1Y0lXMHVvZ0VWb2tkdmtKcUVlS1FvRkhaaGhkQQ?oc=5)
 
 ---
 

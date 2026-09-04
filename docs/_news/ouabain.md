@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/ouabain/
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>Prinzmetal angina（99.7%）</li>
 <li>hemoglobinopathy（99.5%）</li>
-<li class="indication-matched">myocardial infarction（99.4%）<span class="indication-tag">📰 心肌梗塞</span></li>
+<li class="indication-matched">myocardial infarction（99.4%）<span class="indication-tag">📰 心臟病發</span></li>
 <li>thrombotic disease（99.3%）</li>
 <li>hyperthyroidism（99.3%）</li>
 <li>homozygous familial hypercholesterolemia（99.2%）</li>
@@ -42,21 +42,13 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [40歲女爭執後氣喘胸悶 以為心臟病發 醫生教4步驟呼吸急救7大症狀需及時call白車](https://news.google.com/rss/articles/CBMi7wNBVV95cUxOdGJ2WnlLMnZ6aTZMdFg3WVFmMXVIS0U2V2RJYWdQNGZUMDlEVlpYUUNYOWttUDBGX3FjbTBFeElTRkFZMkFJamVwRGlaM1NTTjVYQUxpaWhMb3VBLUo4aXotMFZwOU5kYUJTYnFYZVVJTmRpLTJqN0U2OVhJV0pRaHFaSGFXcW1kZm9FRUZwcktvYkRjRi1UOXEybzdOYlRMUEdsZGNib1MySExEMWtEbE1sWnRjcW9BRndHZWx6bUhEQ2xmaWN5OXJVcWlGOFBxbkQtZXlPVG03eWh3Vk9UYU0yOHVJTi01NzUzcngtMWJoaXpNS0VaMk4zWE5rYl9QOVVINkNiaHNpYmQzeHVpb2MxTEdHRWRpdkVtMEdUd04wd0J0bnpueGVHalRmNGpnYkE0SV9ONmh3QzJDbGFmZ3FFZ3gxRXZIcEtpOEc0ejd3V21nRXdBRnNMcEtaV0E3RUVhb1BtZURMTkdBUnQ5RkxKQWM4aUxjSGRlaEowMmtpUk9pN20wNVlKZE1OT1l3VDMyMUlpUWVFWlhsQXVtVFo4Sks3cUZLU3VYQnJpc29XOU5aTDhZbUZJSmNMNkM2amx6VWt0ek5ld1FJT0pmOXdwVXJUZmZmS1dVRXBOdmNmcWNJWm05anpROFAzdlE?oc=5)
 
 2026-09-03 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span> <span class="news-indication-tag">氣喘</span>
 
 來源：[AM730](https://news.google.com/rss/articles/CBMi7wNBVV95cUxOdGJ2WnlLMnZ6aTZMdFg3WVFmMXVIS0U2V2RJYWdQNGZUMDlEVlpYUUNYOWttUDBGX3FjbTBFeElTRkFZMkFJamVwRGlaM1NTTjVYQUxpaWhMb3VBLUo4aXotMFZwOU5kYUJTYnFYZVVJTmRpLTJqN0U2OVhJV0pRaHFaSGFXcW1kZm9FRUZwcktvYkRjRi1UOXEybzdOYlRMUEdsZGNib1MySExEMWtEbE1sWnRjcW9BRndHZWx6bUhEQ2xmaWN5OXJVcWlGOFBxbkQtZXlPVG03eWh3Vk9UYU0yOHVJTi01NzUzcngtMWJoaXpNS0VaMk4zWE5rYl9QOVVINkNiaHNpYmQzeHVpb2MxTEdHRWRpdkVtMEdUd04wd0J0bnpueGVHalRmNGpnYkE0SV9ONmh3QzJDbGFmZ3FFZ3gxRXZIcEtpOEc0ejd3V21nRXdBRnNMcEtaV0E3RUVhb1BtZURMTkdBUnQ5RkxKQWM4aUxjSGRlaEowMmtpUk9pN20wNVlKZE1OT1l3VDMyMUlpUWVFWlhsQXVtVFo4Sks3cUZLU3VYQnJpc29XOU5aTDhZbUZJSmNMNkM2amx6VWt0ek5ld1FJT0pmOXdwVXJUZmZmS1dVRXBOdmNmcWNJWm05anpROFAzdlE?oc=5)
-
----
-
-### [睡不夠以為太累？醫揭持續疲倦恐是心肌梗塞 出現6大症狀即就醫](https://news.google.com/rss/articles/CBMiqwNBVV95cUxPLXhCVGtwM0F6eFIwUGQ1U1BZbjEwaVJwdDlCYVplWWl2Q0xvWlB5S1E5UFdZekVlbUpYTDUtTkpqOHJlSHc2cVV6QnRFR25ZbzFtc3F2V1E4TDNzUUlRNFVtdjFWR2lpX01hZnFBcnRTODM1a0t2ZWlQQjduMmVlcS1PLW12Y2RGOUdhZWZlWXJsalViSGZ0NjFHeEVPcERWVmd2d0l6dFdfRjJ4SUR0M2ZnaVprU1hnYnJfRFVvZkZsY0VVTWpWN2xwejN3N1RleU5QOTBiNTk0OWZwUjRXeG1TR24zXzBjUmJmWDJ1dFdQclhCU2pDQzYxRTM2S043enZWampTSnRSSG5YM1Nld1pUdVBkYkRUWTVCLWQ4dERRQU1wVWZibHRfSXBXajhxMklydFVuZkJVS1M4cXZCSVFJcjRZc3NJLXNUSWdCUFAtTENNTnltcUlwMEptbTNJNVRRSFNCQVk3LWlId3dXWWNCYzFFSUdJVGVJNDhsRS0wdEs4cUhPVUlOT3dPeFlTZ3lmR3RtS3J4WDBkOVpwVGVJOGUwSzcwNVlr?oc=5)
-
-2026-09-02 <span class="news-indication-tag">心肌梗塞</span>
-
-來源：[香港01](https://news.google.com/rss/articles/CBMiqwNBVV95cUxPLXhCVGtwM0F6eFIwUGQ1U1BZbjEwaVJwdDlCYVplWWl2Q0xvWlB5S1E5UFdZekVlbUpYTDUtTkpqOHJlSHc2cVV6QnRFR25ZbzFtc3F2V1E4TDNzUUlRNFVtdjFWR2lpX01hZnFBcnRTODM1a0t2ZWlQQjduMmVlcS1PLW12Y2RGOUdhZWZlWXJsalViSGZ0NjFHeEVPcERWVmd2d0l6dFdfRjJ4SUR0M2ZnaVprU1hnYnJfRFVvZkZsY0VVTWpWN2xwejN3N1RleU5QOTBiNTk0OWZwUjRXeG1TR24zXzBjUmJmWDJ1dFdQclhCU2pDQzYxRTM2S043enZWampTSnRSSG5YM1Nld1pUdVBkYkRUWTVCLWQ4dERRQU1wVWZibHRfSXBXajhxMklydFVuZkJVS1M4cXZCSVFJcjRZc3NJLXNUSWdCUFAtTENNTnltcUlwMEptbTNJNVRRSFNCQVk3LWlId3dXWWNCYzFFSUdJVGVJNDhsRS0wdEs4cUhPVUlOT3dPeFlTZ3lmR3RtS3J4WDBkOVpwVGVJOGUwSzcwNVlr?oc=5)
 
 ---
 
