@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [中風先兆｜30歲男忽略1先兆突中風昏迷 醫生警告：年輕人最易出事！【附中風先兆】](https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wMmRHNUoxRkNwVDZ6eFNHcDBhUURfRW5sb0hQOGl3T010X3hpZ0Y3YXpXR0lrUkpqM2xRZVdGdUx2R2Nic2xtTVpTV2RIOU9m?oc=5)
 
 2026-09-02 <span class="news-indication-tag">中風</span>
 
 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wMmRHNUoxRkNwVDZ6eFNHcDBhUURfRW5sb0hQOGl3T010X3hpZ0Y3YXpXR0lrUkpqM2xRZVdGdUx2R2Nic2xtTVpTV2RIOU9m?oc=5)
+
+---
+
+### [歌曲可能有助於減輕疼痛，甚至治療中風症狀](https://news.google.com/rss/articles/CBMib0FVX3lxTE5RcW43blJKVWFaMVJ5bmxnVk1Ddk1IaWdieTVFQWdVa1VwelVUM1RSVE8xbk94MURRNlI3WUF6eEd5bVYxZEN2VzZBQmtxYnVGcjJDV0VKd2VYanZoQWk2bFp5a1BqZmI1TDR4aTVmUQ?oc=5)
+
+2026-08-31 <span class="news-indication-tag">中風</span>
+
+來源：[natgeomedia.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE5RcW43blJKVWFaMVJ5bmxnVk1Ddk1IaWdieTVFQWdVa1VwelVUM1RSVE8xbk94MURRNlI3WUF6eEd5bVYxZEN2VzZBQmtxYnVGcjJDV0VKd2VYanZoQWk2bFp5a1BqZmI1TDR4aTVmUQ?oc=5)
 
 ---
 

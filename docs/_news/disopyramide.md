@@ -14,7 +14,7 @@ permalink: /news/disopyramide/
 ---
 
 <p class="key-answer" data-question="Disopyramide 有什麼相關新聞？">
-<strong>Disopyramide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Disopyramide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/disopyramide/
 <p><a href="{{ '/drugs/disopyramide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [乳癌竟能利用免疫細胞招來神經，幫助腫瘤生長 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSDk0blVfN1F1M0xSTGtheEtUUFo0Z2tHSGFMRlhVY1pNNXFqbFFsUHRqZnYxZkc5RWVuNDNkRkRQM3ZOSElJazRKMXc4alY0RkR1cTRXLXZEODg1R1J6cVVudjV1MzdQbkxHR0VTbUNwN0FJYUdUYnlUemp4MmJMemQ5cmZqeGJvT0ZYbF9WdVdpSFphR3Nvd0hhNXpJbEpkNmc?oc=5)
 
@@ -56,7 +56,7 @@ permalink: /news/disopyramide/
 
 2026-09-03 <span class="news-indication-tag">癌症</span>
 
-來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5)
+來源：[ctee.com.tw](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5)
 
 ---
 
@@ -65,14 +65,6 @@ permalink: /news/disopyramide/
 2026-09-03 <span class="news-indication-tag">癌症</span>
 
 來源：[天天上新聞](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TOUFJeWRpTG9LU3ZscndNZTdlMmFWc0ZJNXRwZ1ZnU3JyaG8zTVFpZXg0R2RCNndGdXhDcC1IV3pVRnZKbnN5MW9tZnJ6QQ?oc=5)
-
----
-
-### [腦腫瘤｜ 40歲5孩之母遭誤診肌腱炎 癲癇發作昏迷終確診末期腦癌 腳部現1徵兆要留心](https://news.google.com/rss/articles/CBMilwRBVV95cUxPemlzOFZUQmkwQlR2Uk5FemhGZ1R4VlZsaGpVSnJIM044c3d5ZnNBUC1pX1dZLVRLT1FUUkxZbDl3dzZMUjQ0YldLZDFjSmRWb1VEa0k1TzBlbkVYdXJyTFlGZTk3dG5MLUd2dEt3RERrUXBnX0p4OVVQeUZRdlVIOEZaajM3WTA3emZONUVXQU4xRkM3UmpqalNta2hoNURCaEdIZXdPTnhMMHZQbDExSmsxeWNDTWdEWE5iTDJ4Y3d5UGhoRFRhUExJYXoyNlRvVnd1QWh1aXFSSF9JOHp0NHBDMmlsQlRYcmI1LVZFXy1VZWRpTGJlcmVzVEV5ZnhRY0dNbl9VRmRqZzRhNkVEaEVwalFSN2VwSWtmSGJ6NDFSTGk0Mnk4c2NHeUQya3pFLWQycFMwQmo5aDBWM2FEQVBadXd3Tjdab1EtRFE4OG5EbTFiWDZKWExlWEtXb2ttR1BOd1ZuNUVtTUtIZ3lxRjFwRzdNTTFaYTFGeEZyMlRiZTJ5ZS1vcUdONmhKNldEYm82Nzc2MGNiaFo2blQwMXdfdG5aVnlBMkhCM1pmeXpNYmo5VFh3aTlOZVJpWVpGLTAtS2ltaWo1eFBkMEdNbmlsQUhwUFRjbWZlUW96VWVtRGNxY0twSGRnOW1IM19KM0IzSGpwMEpJemNMcWQ1VlV3SUNNbnd0VkNRVE40SHJmUEtIMXpJ?oc=5)
-
-2026-09-02 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">癲癇</span>
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMilwRBVV95cUxPemlzOFZUQmkwQlR2Uk5FemhGZ1R4VlZsaGpVSnJIM044c3d5ZnNBUC1pX1dZLVRLT1FUUkxZbDl3dzZMUjQ0YldLZDFjSmRWb1VEa0k1TzBlbkVYdXJyTFlGZTk3dG5MLUd2dEt3RERrUXBnX0p4OVVQeUZRdlVIOEZaajM3WTA3emZONUVXQU4xRkM3UmpqalNta2hoNURCaEdIZXdPTnhMMHZQbDExSmsxeWNDTWdEWE5iTDJ4Y3d5UGhoRFRhUExJYXoyNlRvVnd1QWh1aXFSSF9JOHp0NHBDMmlsQlRYcmI1LVZFXy1VZWRpTGJlcmVzVEV5ZnhRY0dNbl9VRmRqZzRhNkVEaEVwalFSN2VwSWtmSGJ6NDFSTGk0Mnk4c2NHeUQya3pFLWQycFMwQmo5aDBWM2FEQVBadXd3Tjdab1EtRFE4OG5EbTFiWDZKWExlWEtXb2ttR1BOd1ZuNUVtTUtIZ3lxRjFwRzdNTTFaYTFGeEZyMlRiZTJ5ZS1vcUdONmhKNldEYm82Nzc2MGNiaFo2blQwMXdfdG5aVnlBMkhCM1pmeXpNYmo5VFh3aTlOZVJpWVpGLTAtS2ltaWo1eFBkMEdNbmlsQUhwUFRjbWZlUW96VWVtRGNxY0twSGRnOW1IM19KM0IzSGpwMEpJemNMcWQ1VlV3SUNNbnd0VkNRVE40SHJmUEtIMXpJ?oc=5)
 
 ---
 

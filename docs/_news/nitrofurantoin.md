@@ -44,11 +44,11 @@ permalink: /news/nitrofurantoin/
 
 ## 相關新聞（1 則）
 
-### [原本治關節炎！這款藥竟讓「鬼剃頭」長回頭髮 逾5成重度患者恢復8成](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBNUlWWHd5ZTRKSlBOTzRjU01ZWmxxVXNzdUk3ZnluYXh4ZE5iVm9CbzhqMWc2U1pORkdSMU9LaVprajMzbHhlMmFoNjZNb3c4MmxRaXpQemotbjBLX3NQZTliZ1DSAWpBVV95cUxOSFJ4QVE1RFh6eEJFam5ZQ1E5eXZPdEVXMUlmUTNzc2R1cHd4ZHBWWHRuZnVCWjk2S3o5ai1XeTJ3QU5JeVNnci1XTC11anoxRmFGSHY3STFMWjlJVGV2eDRFZS1VUnA4em13?oc=5)
+### [原本治關節炎！這款藥竟讓「鬼剃頭」長回頭髮 逾5成重度患者恢復8成 | 自由電子報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE90WE1sRFJHZHVHX1gzemZtUWdycjRDYUZqSnVpSW15OHhUNmlFcUplREdUUlJfMDdlU1M5MzNob3E0eXg2MnZPMlRxeElDc2JBdGVwV3dR?oc=5)
 
 2026-09-01 <span class="news-indication-tag">關節炎</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBNUlWWHd5ZTRKSlBOTzRjU01ZWmxxVXNzdUk3ZnluYXh4ZE5iVm9CbzhqMWc2U1pORkdSMU9LaVprajMzbHhlMmFoNjZNb3c4MmxRaXpQemotbjBLX3NQZTliZ1DSAWpBVV95cUxOSFJ4QVE1RFh6eEJFam5ZQ1E5eXZPdEVXMUlmUTNzc2R1cHd4ZHBWWHRuZnVCWjk2S3o5ai1XeTJ3QU5JeVNnci1XTC11anoxRmFGSHY3STFMWjlJVGV2eDRFZS1VUnA4em13?oc=5)
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE90WE1sRFJHZHVHX1gzemZtUWdycjRDYUZqSnVpSW15OHhUNmlFcUplREdUUlJfMDdlU1M5MzNob3E0eXg2MnZPMlRxeElDc2JBdGVwV3dR?oc=5)
 
 ---
 

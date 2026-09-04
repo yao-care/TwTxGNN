@@ -3,7 +3,7 @@ layout: default
 title: "中風（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "中風（stroke） 的相關健康新聞報導。1 則新聞、2 個相關藥物。"
+description: "中風（stroke） 的相關健康新聞報導。2 則新聞、2 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="中風（stroke） 有什麼相關新聞？">
-<strong>中風（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，2 個相關藥物。
+<strong>中風（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，2 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [中風先兆｜30歲男忽略1先兆突中風昏迷 醫生警告：年輕人最易出事！【附中風先兆】](https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wMmRHNUoxRkNwVDZ6eFNHcDBhUURfRW5sb0hQOGl3T010X3hpZ0Y3YXpXR0lrUkpqM2xRZVdGdUx2R2Nic2xtTVpTV2RIOU9m?oc=5)
 
 2026-09-02
 
 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wMmRHNUoxRkNwVDZ6eFNHcDBhUURfRW5sb0hQOGl3T010X3hpZ0Y3YXpXR0lrUkpqM2xRZVdGdUx2R2Nic2xtTVpTV2RIOU9m?oc=5)
+
+---
+
+### [歌曲可能有助於減輕疼痛，甚至治療中風症狀](https://news.google.com/rss/articles/CBMib0FVX3lxTE5RcW43blJKVWFaMVJ5bmxnVk1Ddk1IaWdieTVFQWdVa1VwelVUM1RSVE8xbk94MURRNlI3WUF6eEd5bVYxZEN2VzZBQmtxYnVGcjJDV0VKd2VYanZoQWk2bFp5a1BqZmI1TDR4aTVmUQ?oc=5)
+
+2026-08-31
+
+來源：[natgeomedia.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE5RcW43blJKVWFaMVJ5bmxnVk1Ddk1IaWdieTVFQWdVa1VwelVUM1RSVE8xbk94MURRNlI3WUF6eEd5bVYxZEN2VzZBQmtxYnVGcjJDV0VKd2VYanZoQWk2bFp5a1BqZmI1TDR4aTVmUQ?oc=5)
 
 ---
 
