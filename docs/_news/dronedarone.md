@@ -48,7 +48,7 @@ permalink: /news/dronedarone/
 
 2026-09-02 <span class="news-indication-tag">中風</span>
 
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wMmRHNUoxRkNwVDZ6eFNHcDBhUURfRW5sb0hQOGl3T010X3hpZ0Y3YXpXR0lrUkpqM2xRZVdGdUx2R2Nic2xtTVpTV2RIOU9m?oc=5)
+來源：[topick.hket.com](https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wMmRHNUoxRkNwVDZ6eFNHcDBhUURfRW5sb0hQOGl3T010X3hpZ0Y3YXpXR0lrUkpqM2xRZVdGdUx2R2Nic2xtTVpTV2RIOU9m?oc=5)
 
 ---
 
@@ -56,7 +56,7 @@ permalink: /news/dronedarone/
 
 2026-08-31 <span class="news-indication-tag">中風</span>
 
-來源：[natgeomedia.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE5RcW43blJKVWFaMVJ5bmxnVk1Ddk1IaWdieTVFQWdVa1VwelVUM1RSVE8xbk94MURRNlI3WUF6eEd5bVYxZEN2VzZBQmtxYnVGcjJDV0VKd2VYanZoQWk2bFp5a1BqZmI1TDR4aTVmUQ?oc=5)
+來源：[國家地理雜誌](https://news.google.com/rss/articles/CBMib0FVX3lxTE5RcW43blJKVWFaMVJ5bmxnVk1Ddk1IaWdieTVFQWdVa1VwelVUM1RSVE8xbk94MURRNlI3WUF6eEd5bVYxZEN2VzZBQmtxYnVGcjJDV0VKd2VYanZoQWk2bFp5a1BqZmI1TDR4aTVmUQ?oc=5)
 
 ---
 
