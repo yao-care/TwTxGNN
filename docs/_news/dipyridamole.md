@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,13 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
 ### [40歲女爭執後氣喘胸悶 以為心臟病發 醫生教4步驟呼吸急救7大症狀需及時call白車](https://news.google.com/rss/articles/CBMi7wNBVV95cUxOdGJ2WnlLMnZ6aTZMdFg3WVFmMXVIS0U2V2RJYWdQNGZUMDlEVlpYUUNYOWttUDBGX3FjbTBFeElTRkFZMkFJamVwRGlaM1NTTjVYQUxpaWhMb3VBLUo4aXotMFZwOU5kYUJTYnFYZVVJTmRpLTJqN0U2OVhJV0pRaHFaSGFXcW1kZm9FRUZwcktvYkRjRi1UOXEybzdOYlRMUEdsZGNib1MySExEMWtEbE1sWnRjcW9BRndHZWx6bUhEQ2xmaWN5OXJVcWlGOFBxbkQtZXlPVG03eWh3Vk9UYU0yOHVJTi01NzUzcngtMWJoaXpNS0VaMk4zWE5rYl9QOVVINkNiaHNpYmQzeHVpb2MxTEdHRWRpdkVtMEdUd04wd0J0bnpueGVHalRmNGpnYkE0SV9ONmh3QzJDbGFmZ3FFZ3gxRXZIcEtpOEc0ejd3V21nRXdBRnNMcEtaV0E3RUVhb1BtZURMTkdBUnQ5RkxKQWM4aUxjSGRlaEowMmtpUk9pN20wNVlKZE1OT1l3VDMyMUlpUWVFWlhsQXVtVFo4Sks3cUZLU3VYQnJpc29XOU5aTDhZbUZJSmNMNkM2amx6VWt0ek5ld1FJT0pmOXdwVXJUZmZmS1dVRXBOdmNmcWNJWm05anpROFAzdlE?oc=5)
 
 2026-09-03 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span> <span class="news-indication-tag">氣喘</span>
 
 來源：[AM730](https://news.google.com/rss/articles/CBMi7wNBVV95cUxOdGJ2WnlLMnZ6aTZMdFg3WVFmMXVIS0U2V2RJYWdQNGZUMDlEVlpYUUNYOWttUDBGX3FjbTBFeElTRkFZMkFJamVwRGlaM1NTTjVYQUxpaWhMb3VBLUo4aXotMFZwOU5kYUJTYnFYZVVJTmRpLTJqN0U2OVhJV0pRaHFaSGFXcW1kZm9FRUZwcktvYkRjRi1UOXEybzdOYlRMUEdsZGNib1MySExEMWtEbE1sWnRjcW9BRndHZWx6bUhEQ2xmaWN5OXJVcWlGOFBxbkQtZXlPVG03eWh3Vk9UYU0yOHVJTi01NzUzcngtMWJoaXpNS0VaMk4zWE5rYl9QOVVINkNiaHNpYmQzeHVpb2MxTEdHRWRpdkVtMEdUd04wd0J0bnpueGVHalRmNGpnYkE0SV9ONmh3QzJDbGFmZ3FFZ3gxRXZIcEtpOEc0ejd3V21nRXdBRnNMcEtaV0E3RUVhb1BtZURMTkdBUnQ5RkxKQWM4aUxjSGRlaEowMmtpUk9pN20wNVlKZE1OT1l3VDMyMUlpUWVFWlhsQXVtVFo4Sks3cUZLU3VYQnJpc29XOU5aTDhZbUZJSmNMNkM2amx6VWt0ek5ld1FJT0pmOXdwVXJUZmZmS1dVRXBOdmNmcWNJWm05anpROFAzdlE?oc=5)
-
----
-
-### [中風先兆｜30歲男忽略1先兆突中風昏迷 醫生警告：年輕人最易出事！【附中風先兆】](https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wMmRHNUoxRkNwVDZ6eFNHcDBhUURfRW5sb0hQOGl3T010X3hpZ0Y3YXpXR0lrUkpqM2xRZVdGdUx2R2Nic2xtTVpTV2RIOU9m?oc=5)
-
-2026-09-02 <span class="news-indication-tag">中風</span>
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wMmRHNUoxRkNwVDZ6eFNHcDBhUURfRW5sb0hQOGl3T010X3hpZ0Y3YXpXR0lrUkpqM2xRZVdGdUx2R2Nic2xtTVpTV2RIOU9m?oc=5)
-
----
-
-### [歌曲可能有助於減輕疼痛，甚至治療中風症狀](https://news.google.com/rss/articles/CBMib0FVX3lxTE5RcW43blJKVWFaMVJ5bmxnVk1Ddk1IaWdieTVFQWdVa1VwelVUM1RSVE8xbk94MURRNlI3WUF6eEd5bVYxZEN2VzZBQmtxYnVGcjJDV0VKd2VYanZoQWk2bFp5a1BqZmI1TDR4aTVmUQ?oc=5)
-
-2026-08-31 <span class="news-indication-tag">中風</span>
-
-來源：[國家地理雜誌](https://news.google.com/rss/articles/CBMib0FVX3lxTE5RcW43blJKVWFaMVJ5bmxnVk1Ddk1IaWdieTVFQWdVa1VwelVUM1RSVE8xbk94MURRNlI3WUF6eEd5bVYxZEN2VzZBQmtxYnVGcjJDV0VKd2VYanZoQWk2bFp5a1BqZmI1TDR4aTVmUQ?oc=5)
 
 ---
 
