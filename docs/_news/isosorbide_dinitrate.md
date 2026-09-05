@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [肥胖成致癌危险因子仅次吸烟！ | 肥胖 | 糖尿病 | 心血管疾病| 癌症](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oWUlYRVBxMVFGc09KRjFuV1NnUG1pb2pxUGd5SXRNdFVEd2g1YnRxckRBWUU1eGk4bHZfdjZJazBoSHc3dUlwdkp3WDNWbUVu?oc=5)
 
 2026-09-04 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
 
 來源：[soundofhope.org](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oWUlYRVBxMVFGc09KRjFuV1NnUG1pb2pxUGd5SXRNdFVEd2g1YnRxckRBWUU1eGk4bHZfdjZJazBoSHc3dUlwdkp3WDNWbUVu?oc=5)
-
----
-
-### [蛋黃膽固醇高就不能每天吃？醫揭雞蛋最新研究：每週吃「這頻率」死亡風險最低](https://news.google.com/rss/articles/CBMiakFVX3lxTFBueVZQNEphUG93M0wwdWtWU09WR2dsa1VpVFVRdllnS2xrVUlGRnBCcm0tMzlacWUwNUVHSTY5Z3NTU3V4Y1N0TXdxU1lobFVUcVZKbGh1ZXJvczR3SHVZQnpESUNLbHFHdkE?oc=5)
-
-2026-09-04 <span class="news-indication-tag">心血管</span>
-
-來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTFBueVZQNEphUG93M0wwdWtWU09WR2dsa1VpVFVRdllnS2xrVUlGRnBCcm0tMzlacWUwNUVHSTY5Z3NTU3V4Y1N0TXdxU1lobFVUcVZKbGh1ZXJvczR3SHVZQnpESUNLbHFHdkE?oc=5)
 
 ---
 

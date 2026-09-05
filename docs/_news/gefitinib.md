@@ -43,6 +43,14 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（10 則）
 
+### [健康網》研究：「鋰」可能預防失智 如何應用仍待努力](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yX1ItNmwtLTFPdVhGel84WXVneDUyNm1yMzRTQXFucXRjQWJlMEJNTGE5R0Q1dW9XQm8wNzdXXzVrUVBzOWZUN0dWeWJRcFRqUHRmOGZiN2ZSMDgxREhhUTRCZm3SAWpBVV95cUxPYjFFRjd1SXMtdG1YLU9uQm0yNnJfalh5c25iQXN1NEoyOHpjV2h4Mmh5Z0xhNmJhaUZnS3RjYmJWZWVUX2p1MHdYUS1rZUtPWTJnVEhpNnZCWEh4Smw1VDQwaENXdTVXOGxB?oc=5)
+
+2026-09-05 <span class="news-indication-tag">失智</span>
+
+來源：[health.ltn.com.tw](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yX1ItNmwtLTFPdVhGel84WXVneDUyNm1yMzRTQXFucXRjQWJlMEJNTGE5R0Q1dW9XQm8wNzdXXzVrUVBzOWZUN0dWeWJRcFRqUHRmOGZiN2ZSMDgxREhhUTRCZm3SAWpBVV95cUxPYjFFRjd1SXMtdG1YLU9uQm0yNnJfalh5c25iQXN1NEoyOHpjV2h4Mmh5Z0xhNmJhaUZnS3RjYmJWZWVUX2p1MHdYUS1rZUtPWTJnVEhpNnZCWEh4Smw1VDQwaENXdTVXOGxB?oc=5)
+
+---
+
 ### [肥胖成致癌危险因子仅次吸烟！ | 肥胖 | 糖尿病 | 心血管疾病| 癌症](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oWUlYRVBxMVFGc09KRjFuV1NnUG1pb2pxUGd5SXRNdFVEd2g1YnRxckRBWUU1eGk4bHZfdjZJazBoSHc3dUlwdkp3WDNWbUVu?oc=5)
 
 2026-09-04 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
@@ -87,7 +95,7 @@ permalink: /news/gefitinib/
 
 2026-08-31 <span class="news-indication-tag">失智</span>
 
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wN1BaV3dFZFpwcjAtQ0phc3RnNEVCVkU5ZmdMcmRvTjAwa24zVGFFTUNIQ0RKRUp0Y2I2cTk4dC0ydnp1cUdGNGpTdzdtRE5tQ2xLd3Y2RnFzTGQwdmfSAWNBVV95cUxQazhyc2JlTklxRUxLUjZXc2ZUTGhGMG9uNWEwalh1NGtVUUNiWngwVm1FZUJPUG52ZnpXX2l5eHFORl84SVoyUmx1ZFhraHNmS0VqNXdZQVVOUG1KVWRILW55cU0?oc=5)
+來源：[health.udn.com](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wN1BaV3dFZFpwcjAtQ0phc3RnNEVCVkU5ZmdMcmRvTjAwa24zVGFFTUNIQ0RKRUp0Y2I2cTk4dC0ydnp1cUdGNGpTdzdtRE5tQ2xLd3Y2RnFzTGQwdmfSAWNBVV95cUxQazhyc2JlTklxRUxLUjZXc2ZUTGhGMG9uNWEwalh1NGtVUUNiWngwVm1FZUJPUG52ZnpXX2l5eHFORl84SVoyUmx1ZFhraHNmS0VqNXdZQVVOUG1KVWRILW55cU0?oc=5)
 
 ---
 
@@ -95,15 +103,7 @@ permalink: /news/gefitinib/
 
 2026-08-31 <span class="news-indication-tag">失智</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1MSG1CZlFvNnNHd3lBOERBdHhILTB3bHM5RzRVbEx4YXlNaEVwZl90ME1tTlFxTmxpcVJLVWRLLXhnWlpyOUhYZHc5d0MxSTZvRWhqaVlZZDRqVDZWaGxrQXVWdno4ZjVRTEQyMXd3?oc=5)
-
----
-
-### [中年夜間頻繁微覺醒 恐與高「阿茲海默症」遺傳風險有關](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ldGZsU1Q0b29hVGM2Z2ZiMEMxWUNPaUNiYnk1N1lEeFoyTmFIaUF6WnhsdnhFOVZrcGpkbU83WDBYMmUzUXZGMHc5dzBiZ1hrY3cxSDFVdXoydk1jSjFJ?oc=5)
-
-2026-08-31 <span class="news-indication-tag">阿茲海默症</span>
-
-來源：[technice.com.tw](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ldGZsU1Q0b29hVGM2Z2ZiMEMxWUNPaUNiYnk1N1lEeFoyTmFIaUF6WnhsdnhFOVZrcGpkbU83WDBYMmUzUXZGMHc5dzBiZ1hrY3cxSDFVdXoydk1jSjFJ?oc=5)
+來源：[chinatimes.com](https://news.google.com/rss/articles/CBMibkFVX3lxTE1MSG1CZlFvNnNHd3lBOERBdHhILTB3bHM5RzRVbEx4YXlNaEVwZl90ME1tTlFxTmxpcVJLVWRLLXhnWlpyOUhYZHc5d0MxSTZvRWhqaVlZZDRqVDZWaGxrQXVWdno4ZjVRTEQyMXd3?oc=5)
 
 ---
 
@@ -115,11 +115,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGt2dV9MaG1aMGZUTXdZOW5QN2h5clp2aU5OUUFpc2hyVmJIVXhBbWNTXzd2N2hBeU44VExaLWNVZUNnbFJ3Zm00UElkUG9Qb0Q4VHR6VE1Bc1ctRWkzYnJOMW9HVFhSSkhtUEdwZ0thMVR0Z3dnSFN4dFV2RXZvVzNvTnVRaDNDRUFPOGVLR2c1QW5CRTM0V3lsd0ZxSXVUTGlNZzEwS2dVZHBpZEYtZzJxZEdsNmVI?oc=5)
+### [AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGt2dV9MaG1aMGZUTXdZOW5QN2h5clp2aU5OUUFpc2hyVmJIVXhBbWNTXzd2N2hBeU44VExaLWNVZUNnbFJ3Zm00UElkUG9Qb0Q4VHR6VE1Bc1ctRWkzYnJOMW9HVFhSSkhtUEdwZ0thMVR0Z3dnSFN4dFV2RXZvVzNvTnVRaDNDRUFPOGVLR2c1QW5CRTM0V3lsd0ZxSXVUTGlNZzEwS2dVZHBpZEYtZzJxZEdsNmVI?oc=5)
 
 2026-08-29 <span class="news-indication-tag">阿茲海默症</span>
 
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGt2dV9MaG1aMGZUTXdZOW5QN2h5clp2aU5OUUFpc2hyVmJIVXhBbWNTXzd2N2hBeU44VExaLWNVZUNnbFJ3Zm00UElkUG9Qb0Q4VHR6VE1Bc1ctRWkzYnJOMW9HVFhSSkhtUEdwZ0thMVR0Z3dnSFN4dFV2RXZvVzNvTnVRaDNDRUFPOGVLR2c1QW5CRTM0V3lsd0ZxSXVUTGlNZzEwS2dVZHBpZEYtZzJxZEdsNmVI?oc=5)
+來源：[technews.tw](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGt2dV9MaG1aMGZUTXdZOW5QN2h5clp2aU5OUUFpc2hyVmJIVXhBbWNTXzd2N2hBeU44VExaLWNVZUNnbFJ3Zm00UElkUG9Qb0Q4VHR6VE1Bc1ctRWkzYnJOMW9HVFhSSkhtUEdwZ0thMVR0Z3dnSFN4dFV2RXZvVzNvTnVRaDNDRUFPOGVLR2c1QW5CRTM0V3lsd0ZxSXVUTGlNZzEwS2dVZHBpZEYtZzJxZEdsNmVI?oc=5)
 
 ---
 

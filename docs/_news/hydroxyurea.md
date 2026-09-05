@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
 
 ### [肥胖成致癌危险因子仅次吸烟！ | 肥胖 | 糖尿病 | 心血管疾病| 癌症](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oWUlYRVBxMVFGc09KRjFuV1NnUG1pb2pxUGd5SXRNdFVEd2g1YnRxckRBWUU1eGk4bHZfdjZJazBoSHc3dUlwdkp3WDNWbUVu?oc=5)
 
@@ -73,6 +73,14 @@ permalink: /news/hydroxyurea/
 2026-09-03 <span class="news-indication-tag">癌症</span>
 
 來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5)
+
+---
+
+### [乳癌｜法航空姐夜間飛行逾6千小時 患癌獲判「職業病」成全球首例](https://news.google.com/rss/articles/CBMiogNBVV95cUxOMGFpVG1KS2o1TDZ0aVNBWUZpd3gxQWd3YnJoTXYzY0RxOXRZWXExYTZDVkYyY240UGl2dHB6V3NyMDg1RVNEV0tZOUc2MnZRREowdzktSVVlbUJSX3NCbDRpNXhqTDVoOUdhMFVEczNIZ3FrTXY5MkxrWG9yRXZsNmNnb0kxdDV6N1dpWmRtVzNUMHlqMTA4MWdyTkJpLUxXNlZpc1JRUVduX2VGM0M3MUFod3VJcnRoVW5weVdqNlJHLUVIS2phZEhKRC1ZMGtjOU1ZNzdmcXpweVZNd2NuN1BfOVVJRGFvNnExSXJZamI0NXNhVW5wVkJqRXl1Wkl5LWJrYkNELVdpWkoxcjYydTVRNzE0T0MtR2dlOG4zZGNNMFZxM3VLWlV0MnBUejNJS2lEWi15LTJzbFI3U3Vmd09CdHdIR0lfZ2ltNEpvOWlPLWRTVy05X2c5YU5BWi10RERaM2ZUNlo5cGFnSDY1RGhzVjhCcEg2VElxYVo4ZWNCZTVtbHh5UGdSSnRuQ1hhU3dVZ2l1cml4Nk5sOUF1OFF3?oc=5)
+
+2026-09-03 <span class="news-indication-tag">乳癌</span>
+
+來源：[香港01](https://news.google.com/rss/articles/CBMiogNBVV95cUxOMGFpVG1KS2o1TDZ0aVNBWUZpd3gxQWd3YnJoTXYzY0RxOXRZWXExYTZDVkYyY240UGl2dHB6V3NyMDg1RVNEV0tZOUc2MnZRREowdzktSVVlbUJSX3NCbDRpNXhqTDVoOUdhMFVEczNIZ3FrTXY5MkxrWG9yRXZsNmNnb0kxdDV6N1dpWmRtVzNUMHlqMTA4MWdyTkJpLUxXNlZpc1JRUVduX2VGM0M3MUFod3VJcnRoVW5weVdqNlJHLUVIS2phZEhKRC1ZMGtjOU1ZNzdmcXpweVZNd2NuN1BfOVVJRGFvNnExSXJZamI0NXNhVW5wVkJqRXl1Wkl5LWJrYkNELVdpWkoxcjYydTVRNzE0T0MtR2dlOG4zZGNNMFZxM3VLWlV0MnBUejNJS2lEWi15LTJzbFI3U3Vmd09CdHdIR0lfZ2ltNEpvOWlPLWRTVy05X2c5YU5BWi10RERaM2ZUNlo5cGFnSDY1RGhzVjhCcEg2VElxYVo4ZWNCZTVtbHh5UGdSSnRuQ1hhU3dVZ2l1cml4Nk5sOUF1OFF3?oc=5)
 
 ---
 

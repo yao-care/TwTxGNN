@@ -1,30 +1,81 @@
 {
-  "last_updated": "2026-09-05T05:04:35.725796+00:00",
-  "total_count": 41,
+  "last_updated": "2026-09-05T09:41:18.900728+00:00",
+  "total_count": 40,
   "matched_count": 15,
   "news": [
     {
-      "id": "36348209b7c1",
-      "title": "四大人格特質 這類人最容易罹癌",
-      "published": "2026-09-05T04:43:00+00:00",
-      "summary": "四大人格特質 這類人最容易罹癌&nbsp;&nbsp;東森新聞總是替別人著想，身體反而出問題？研究揭「壓抑情緒」的代價－精選書摘&nbsp;&nbsp;商周",
+      "id": "0c4cdf03700f",
+      "title": "健康網》研究：「鋰」可能預防失智 如何應用仍待努力",
+      "published": "2026-09-05T09:17:00+00:00",
+      "summary": "健康網》研究：「鋰」可能預防失智 如何應用仍待努力&nbsp;&nbsp;health.ltn.com.tw",
+      "sources": [
+        {
+          "name": "health.ltn.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yX1ItNmwtLTFPdVhGel84WXVneDUyNm1yMzRTQXFucXRjQWJlMEJNTGE5R0Q1dW9XQm8wNzdXXzVrUVBzOWZUN0dWeWJRcFRqUHRmOGZiN2ZSMDgxREhhUTRCZm3SAWpBVV95cUxPYjFFRjd1SXMtdG1YLU9uQm0yNnJfalh5c25iQXN1NEoyOHpjV2h4Mmh5Z0xhNmJhaUZnS3RjYmJWZWVUX2p1MHdYUS1rZUtPWTJnVEhpNnZCWEh4Smw1VDQwaENXdTVXOGxB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "77a3f346ab83",
+      "title": "「脂溶性營養素」這時機吃最有效！",
+      "published": "2026-09-05T08:49:00+00:00",
+      "summary": "「脂溶性營養素」這時機吃最有效！&nbsp;&nbsp;東森新聞",
       "sources": [
         {
           "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBWG5FRWJXaWhNU3dhMWtNM0o2Vks4aDNOU200dFQ2cEE4eEpVV2hQYlh6Y2ZPd0I2NUhQSFlZcThjRWZTSUJjSklZZFNweXpxOXNDeQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtU1FVWklnSlhiQTJIZ0FYNnQ2bDkxNVRXQzFIZlJjUW44WmVGUUNCWVFrbVIyWE5RMmZyZ1pFeUpjdXJJY0RGOFFEdE93Q2xxY2NxSQ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "95f860b8056f",
-      "title": "二甲雙胍是增肌剋星？長壽藥與肌肉生長的拉鋸戰",
-      "published": "2026-09-05T02:34:38+00:00",
-      "summary": "二甲雙胍是增肌剋星？長壽藥與肌肉生長的拉鋸戰&nbsp;&nbsp;contentplatform.info",
+      "id": "d77da5bacbb1",
+      "title": "大便太黏「三高默默上門」 專家另推2救星蔬菜養腸- 健康",
+      "published": "2026-09-05T08:15:19+00:00",
+      "summary": "大便太黏「三高默默上門」 專家另推2救星蔬菜養腸- 健康&nbsp;&nbsp;chinatimes.com",
       "sources": [
         {
-          "name": "contentplatform.info",
+          "name": "chinatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VUXEzRG1OYUlRUDJSeEJjU2tvNlN5OW5sWUhDbkdEU1NaNjItREt6Yk1EQlF6WDlFLU1NNDNlWDdqaEtwNmlDM3I1d3NzZGpSWm9mblpuVzBraW1JaVI5Uk91M0pwTjBHTXJMWmhB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "68f6074e2cce",
+      "title": "二甲雙胍是增肌剋星？長壽藥與肌肉生長的拉鋸戰",
+      "published": "2026-09-05T02:34:38+00:00",
+      "summary": "二甲雙胍是增肌剋星？長壽藥與肌肉生長的拉鋸戰&nbsp;&nbsp;報新聞",
+      "sources": [
+        {
+          "name": "報新聞",
           "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOWFo1Zmh6YTB3eVdNcDRIbFBpVUNTblNkcHJNSkhpeTdLUTBSOHFSeVBqUXZJdG5wWU0yTkdMQ0Q1SXBJMXFYamh6MVd1UFJOeWYxNjJmQms4YkhSa3BTaU1xc3Q5Mnc1Ml9WNGU3Q1pxLWJhRE9PcXZRQ2N2dUhNOTEzNjhPeEhBUkZRSUl3TWtUZmowM0x5V0RLTHFJWXlvWlEyUUZ2UG9Hb0hpck1vWkhxTlNfS1BnTnNhMTJHT1BQX3RiZm1KWExJc3JCV0lwWEpQbXdrekUxdTQ4N080bmc2TzhPOV9WTW1EV1BaQ0xaN3FNYzV1bTNFbmRWOEdSY0NBRWtHX2JRRVdVOENGSTRmT3EtQUtUQkc1Q09wMEZ5X09MU01hVEdQT1FEdGh0T3hxMnFlaFJDWThoY05OVUNfQU1qb0tiSlJSdzhGTUY4WFBENFhWX0dvb2lhUzQtMUNQd1l2aw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "36348209b7c1",
+      "title": "四大人格特質 這類人最容易罹癌",
+      "published": "2026-09-05T01:20:00+00:00",
+      "summary": "四大人格特質 這類人最容易罹癌&nbsp;&nbsp;東森新聞總是替別人著想，身體反而出問題？研究揭「壓抑情緒」的代價－精選書摘&nbsp;&nbsp;商周",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBWG5FRWJXaWhNU3dhMWtNM0o2Vks4aDNOU200dFQ2cEE4eEpVV2hQYlh6Y2ZPd0I2NUhQSFlZcThjRWZTSUJjSklZZFNweXpxOXNDeQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -714,31 +765,6 @@
       ]
     },
     {
-      "id": "1611f190199d",
-      "title": "蛋黃膽固醇高就不能每天吃？醫揭雞蛋最新研究：每週吃「這頻率」死亡風險最低",
-      "published": "2026-09-04T05:47:58+00:00",
-      "summary": "蛋黃膽固醇高就不能每天吃？醫揭雞蛋最新研究：每週吃「這頻率」死亡風險最低&nbsp;&nbsp;良醫健康網1天25顆蛋膽固醇竟正常？研究揭每周吃3至6次 心血管死亡風險低29%&nbsp;&nbsp;health.tvbs.com.tw連續一個月每天吃雞蛋 身體會發生什麼變化？&nbsp;&nbsp;heatalk.com蛋黃膽固醇高就不能每天吃？醫揭雞蛋最新研究：每週吃「這頻率」死亡風險最低- 股市爆料同學會&nbsp;&nbsp;CMoney",
-      "sources": [
-        {
-          "name": "良醫健康網",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBueVZQNEphUG93M0wwdWtWU09WR2dsa1VpVFVRdllnS2xrVUlGRnBCcm0tMzlacWUwNUVHSTY5Z3NTU3V4Y1N0TXdxU1lobFVUcVZKbGh1ZXJvczR3SHVZQnpESUNLbHFHdkE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "de62add3ae94",
       "title": "高血脂｜47歲女醫生靠2招逆轉高血脂 無需節食改善高膽固醇練出馬甲線",
       "published": "2026-09-04T04:18:15+00:00",
@@ -752,13 +778,13 @@
       "matched_keywords": []
     },
     {
-      "id": "7127a3613fb3",
+      "id": "ff3a02067bd4",
       "title": "健康網》不是保健品！ 研究揭洗澡這樣做 免疫細胞可激增",
       "published": "2026-09-04T01:22:00+00:00",
-      "summary": "健康網》不是保健品！ 研究揭洗澡這樣做 免疫細胞可激增&nbsp;&nbsp;自由健康網",
+      "summary": "健康網》不是保健品！ 研究揭洗澡這樣做 免疫細胞可激增&nbsp;&nbsp;health.ltn.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fUVp2WXZHNlNveXQza2pFREVESjdOSzdTVHJSX2I1SzlGWUZhSjFrUHp5Snh2cFREczFBbWxJVDM4Rzg0U2xrLWkyTzc5Sk9SRk9nVmdhRVEzVXpxaEVZV2w3OF_SAWpBVV95cUxQV2hUSjdPUnlIcEVHd003a2FDbldjUm9KbHJQaENINkxINzRiN3hpLVNDbWdkcS1QM2dxbko0bGpGTUhtYmlubTh5eUYtWmszdzNJTnN6eTFrLWdpdFF2ME9Ua2tlMkR0d2RB?oc=5"
         }
       ],
@@ -860,13 +886,13 @@
       ]
     },
     {
-      "id": "569cc45c737e",
+      "id": "584895157736",
       "title": "Target嬰兒濕巾涉細菌污染 急召回",
       "published": "2026-09-03T20:44:24+00:00",
-      "summary": "Target嬰兒濕巾涉細菌污染 急召回&nbsp;&nbsp;singtaousa.com",
+      "summary": "Target嬰兒濕巾涉細菌污染 急召回&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVTBSQ1VPTzZMUERNXzhDQk9GUk5mX2owc0Z2ZGt4VXc4R3RGcjFheE82SjdJVi1LYlRlakdEMk81V0FsS3VlMXlKZVQyeWY1UjRoTTE4SVBZOWpTTllLeEl5R19BblVIbUFMVHQxejNndi1WQ2txRmNRNnN3QU1JRGdMOE1RLU53WlQ2NC1ydU1DUngtTWV3aUtzYXluNnBleGNGZjNZWkM?oc=5"
         }
       ],
@@ -1082,52 +1108,39 @@
       ]
     },
     {
-      "id": "f4634dc634d7",
+      "id": "0eac0866bc66",
       "title": "糖水檢查沒過會怎樣？營養師揭8種妊娠糖尿病風險 恐提高早產機率",
       "published": "2026-09-03T11:00:00+00:00",
-      "summary": "糖水檢查沒過會怎樣？營養師揭8種妊娠糖尿病風險 恐提高早產機率&nbsp;&nbsp;民報",
+      "summary": "糖水檢查沒過會怎樣？營養師揭8種妊娠糖尿病風險 恐提高早產機率&nbsp;&nbsp;peoplenews.tw",
       "sources": [
         {
-          "name": "民報",
+          "name": "peoplenews.tw",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5raGRORGtuVHczUVpjRlVjX3NsTnplckh0TnhjbTZiRE1MYUdVVW5XbnQtN3pOVFNiWHFSRzIxckNBaENSdFR0bWY5S3I0UldzNS1mNUQ3TGh1S0Nta1gzWA?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "7c8571356eaa",
-      "title": "維他命別亂配！營養師警告：這5種組合別一起吃，鐵配鈣、鋅配銅都上榜",
-      "published": "2026-09-03T10:27:29+00:00",
-      "summary": "維他命別亂配！營養師警告：這5種組合別一起吃，鐵配鈣、鋅配銅都上榜&nbsp;&nbsp;ELLE",
-      "sources": [
-        {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIaDVsejRLZG5uUk9EOEFxR2Rnd0VNSmVuekg0YThSSm0tRldFeC1xNTUzRnJlcmhLOENJUlc1MGpFaEhteS1vTDd0dnJlVlZBT2RibjRLWG8yRm9Cc1NYU2FoRG0tejBOenh3WGNwaDdhalF5aHJIYVRLMkw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d839d3c07d09",
+      "id": "714f65836aed",
       "title": "議員與民間領袖怒批市長 應對退伍軍人症疫情不力",
       "published": "2026-09-03T10:00:00+00:00",
-      "summary": "議員與民間領袖怒批市長 應對退伍軍人症疫情不力&nbsp;&nbsp;singtaousa.com",
+      "summary": "議員與民間領袖怒批市長 應對退伍軍人症疫情不力&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObDREMnhGZEdVQWRLcFFwUFEtZGRQOVRMVUxLOElpMC1ucFlUR1c5b204b0VjU3VEQXZRelVOUDdXeWhkd3dJNGZZWDhaNEo1Uk5LWl9NZzJYV2Mxbjh2UUdQMWJuMFp0dzJhMm52MmE4cUhLbFVnVTNPTE43UVZ6WVprWkEtTTg?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "15921ee4ba5b",
+      "id": "2ee02b4798bb",
       "title": "健康網》香腸含硝酸鹽恐致癌 這菜同樣有反而降血壓",
       "published": "2026-09-03T08:21:00+00:00",
-      "summary": "健康網》香腸含硝酸鹽恐致癌 這菜同樣有反而降血壓&nbsp;&nbsp;自由健康網不只香腸火腿！營養師點名「5大致癌物」：你都沒發現&nbsp;&nbsp;ETtoday健康雲不只加工肉品！營養師點名「5大致癌物」：有些藏在日常生活裡&nbsp;&nbsp;Yahoo新聞致癌飲食｜研究證熱飲增致癌風險 超65℃已灼傷消化道+教正確吃法&nbsp;&nbsp;香港01",
+      "summary": "健康網》香腸含硝酸鹽恐致癌 這菜同樣有反而降血壓&nbsp;&nbsp;health.ltn.com.tw不只香腸火腿！營養師點名「5大致癌物」：你都沒發現&nbsp;&nbsp;health.ettoday.net不只加工肉品！營養師點名「5大致癌物」：有些藏在日常生活裡&nbsp;&nbsp;Yahoo新聞致癌飲食｜研究證熱飲增致癌風險 超65℃已灼傷消化道+教正確吃法&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QUGNYUXRYWFdobHJ4NkU1SGhVYlBBZmU1Tm5hWDJaRF9EaEJaaVNNN1p1WWVxUlVpRlJuREFUa082N2VkazhBWjhfVldDaE93cUNDN3V0TmdsQnFVQktIdk1lcmbSAWpBVV95cUxPWGtiNkliRXJnNXAxb05YRE44bFBIeFpOR2xOM1RsbHhRellfdmRhcTlyWDJMVU9reVdaeExGLXZlNm1BTWFYTmZVd2Y4WFlZbFkxNjdDX2hWdkhvQkxUcmZxSjBIZ21RUnpB?oc=5"
         }
       ],
@@ -1147,6 +1160,55 @@
       "matched_keywords": []
     },
     {
+      "id": "bb04ed5cfe40",
+      "title": "乳癌｜法航空姐夜間飛行逾6千小時 患癌獲判「職業病」成全球首例",
+      "published": "2026-09-03T02:00:59+00:00",
+      "summary": "乳癌｜法航空姐夜間飛行逾6千小時 患癌獲判「職業病」成全球首例&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOMGFpVG1KS2o1TDZ0aVNBWUZpd3gxQWd3YnJoTXYzY0RxOXRZWXExYTZDVkYyY240UGl2dHB6V3NyMDg1RVNEV0tZOUc2MnZRREowdzktSVVlbUJSX3NCbDRpNXhqTDVoOUdhMFVEczNIZ3FrTXY5MkxrWG9yRXZsNmNnb0kxdDV6N1dpWmRtVzNUMHlqMTA4MWdyTkJpLUxXNlZpc1JRUVduX2VGM0M3MUFod3VJcnRoVW5weVdqNlJHLUVIS2phZEhKRC1ZMGtjOU1ZNzdmcXpweVZNd2NuN1BfOVVJRGFvNnExSXJZamI0NXNhVW5wVkJqRXl1Wkl5LWJrYkNELVdpWkoxcjYydTVRNzE0T0MtR2dlOG4zZGNNMFZxM3VLWlV0MnBUejNJS2lEWi15LTJzbFI3U3Vmd09CdHdIR0lfZ2ltNEpvOWlPLWRTVy05X2c5YU5BWi10RERaM2ZUNlo5cGFnSDY1RGhzVjhCcEg2VElxYVo4ZWNCZTVtbHh5UGdSSnRuQ1hhU3dVZ2l1cml4Nk5sOUF1OFF3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "062e086c7968",
       "title": "骨鬆最強「鍛骨法」曝光！每天30分鐘，逆轉骨質疏鬆、刺激骨密度飆升",
       "published": "2026-09-03T00:03:12+00:00",
@@ -1158,43 +1220,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "1a30d05a60a3",
-      "title": "原本治關節炎！這款藥竟讓「鬼剃頭」長回頭髮 逾5成重度患者恢復8成 | 自由電子報 - LINE TODAY",
-      "published": "2026-09-02T12:16:27+00:00",
-      "summary": "原本治關節炎！這款藥竟讓「鬼剃頭」長回頭髮 逾5成重度患者恢復8成 | 自由電子報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90WE1sRFJHZHVHX1gzemZtUWdycjRDYUZqSnVpSW15OHhUNmlFcUplREdUUlJfMDdlU1M5MzNob3E0eXg2MnZPMlRxeElDc2JBdGVwV3dR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "關節炎",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "41e9b417c8fd",
@@ -1504,26 +1529,26 @@
       ]
     },
     {
-      "id": "c349b3a3b280",
+      "id": "2ff13d6a81c9",
       "title": "套套激戰消失辣妹2理由拒吃藥醫驚：下場恐很慘- 健康",
       "published": "2026-09-02T02:20:00+00:00",
-      "summary": "套套激戰消失辣妹2理由拒吃藥醫驚：下場恐很慘- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "套套激戰消失辣妹2理由拒吃藥醫驚：下場恐很慘- 健康&nbsp;&nbsp;chinatimes.com",
       "sources": [
         {
-          "name": "中時新聞網",
+          "name": "chinatimes.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWeTFaQzZJTHJqcWNwUUp3cFhKYU9NVE43SGdFNVYtd2wyX0xtclJTazdibmd0SzFNdUlsODFvUC1VLTA1XzVWb2J0amdXZDMxeEFFQjd3VE1HMnRDWWUzRGRoZUxzeVkteUYtN3V3?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "2ae52cfdb429",
-      "title": "男人逾8成憂自費醫療　男性2大癌王曝光",
+      "id": "ffd141341b0a",
+      "title": "男人逾8成憂自費醫療　男性2大癌王曝光 - 鏡週刊Mirror Media",
       "published": "2026-09-01T17:20:00+00:00",
-      "summary": "男人逾8成憂自費醫療 男性2大癌王曝光&nbsp;&nbsp;mirrormedia.mg",
+      "summary": "男人逾8成憂自費醫療 男性2大癌王曝光&nbsp;&nbsp;鏡週刊Mirror Media",
       "sources": [
         {
-          "name": "mirrormedia.mg",
+          "name": "鏡週刊Mirror Media",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3MG9MM216NlhFdm94enNRVzZEd1JWY1ZwSGo1cmw3b0g5VlJ1cFR0bVlnXy1XRnlpQm5Sb0g0d1hvRjFlMjl0Q3YtUXNYS09ta1BoZ1ppNkY3R1Vm0gFiQVVfeXFMT3BWSmhMVmlWYjZYaWFOdFlYSzFyWlhqMy1vNXRPeDBQR0FHdkh6cHJwQzVVSWM1VG52bFhmbjJnTjdsM09DUTJEeWRpbVJQQzU4M2pidDZDYjdteDd1YnZWaXc?oc=5"
         }
       ],
@@ -1556,6 +1581,43 @@
       "matched_keywords": []
     },
     {
+      "id": "8c7a9037d073",
+      "title": "原本治關節炎！這款藥竟讓「鬼剃頭」長回頭髮 逾5成重度患者恢復8成",
+      "published": "2026-09-01T04:04:00+00:00",
+      "summary": "原本治關節炎！這款藥竟讓「鬼剃頭」長回頭髮 逾5成重度患者恢復8成&nbsp;&nbsp;health.ltn.com.tw",
+      "sources": [
+        {
+          "name": "health.ltn.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBNUlWWHd5ZTRKSlBOTzRjU01ZWmxxVXNzdUk3ZnluYXh4ZE5iVm9CbzhqMWc2U1pORkdSMU9LaVprajMzbHhlMmFoNjZNb3c4MmxRaXpQemotbjBLX3NQZTliZ1DSAWpBVV95cUxOSFJ4QVE1RFh6eEJFam5ZQ1E5eXZPdEVXMUlmUTNzc2R1cHd4ZHBWWHRuZnVCWjk2S3o5ai1XeTJ3QU5JeVNnci1XTC11anoxRmFGSHY3STFMWjlJVGV2eDRFZS1VUnA4em13?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "19fcf1bf5fa4",
       "title": "女性沒高潮就是性冷感？婦產科醫揭「高潮障礙」判斷關鍵：持續超過6個月才要留意",
       "published": "2026-09-01T01:15:16+00:00",
@@ -1569,13 +1631,13 @@
       "matched_keywords": []
     },
     {
-      "id": "7582e2cb61c3",
-      "title": "65歲婦感冒死忍4日不求醫！送急症驚揭全身發炎！醫生警告4件事不吃藥更傷身",
+      "id": "7adc88e71b04",
+      "title": "65歲婦感冒死忍4日不求醫！送急症驚揭全身發炎！醫生警告4件事不吃藥更傷身 - UHK 港生活",
       "published": "2026-08-31T18:19:08+00:00",
-      "summary": "65歲婦感冒死忍4日不求醫！送急症驚揭全身發炎！醫生警告4件事不吃藥更傷身&nbsp;&nbsp;hk.ulifestyle.com.hk",
+      "summary": "65歲婦感冒死忍4日不求醫！送急症驚揭全身發炎！醫生警告4件事不吃藥更傷身&nbsp;&nbsp;UHK 港生活",
       "sources": [
         {
-          "name": "hk.ulifestyle.com.hk",
+          "name": "UHK 港生活",
           "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNLW5vdW5vZ1AyeHk4dGZlUnNiQ3FwaHVHVlA5MHJVRU1DYzh4XzZzRkRLTnFUVjZfUDVCSFEyN3ZJdFl1VEROb243WXM0MVpsVkVaZGFDaFFwcm8tejZHdlpZX0ItRjRQd0dyMlRwSnA5ZUV6alZvN19wQlNOUFpuMDNyd19FX3VuVG5wUUxyOFlOdG01czhyaTF4UFJ6TTRYaVlGVnJmTnN5WFB2NlhjZ2RoR0xObmpYYVlaaE05OWFaeUszT2RLRXp2d1dMdUZtb3hhcFhZMGw2MmtWMTZPV1NibGRsemNSbU03LWpXcXdMbXROS2NNcjVVd0RmSXk1Y0RrZFRsUWgtalAxd1E1NFNwSVNpWEF5UWtpbF9IOU9BWGs2a2pvOTA5cVM2MTNDTHpIbUZrelZEWGplU1JEU3JQRlJmSnNBZFBzN2VGOVNNUm41cExhUWZSTUNqazY1ZWdCbUZHVkYxeHFZUmE2cGpsWlFsQ0lsSkxkS0c5Y25wdk43ZlczaDE0Z0JZREswYVhXdzVrY2RYdk81OFlnT0U3T1ZDTGhnOE81Q0lfV0xRWGpRM19GbnBtY3lidjMzcHRNWWJ4Zmk0UVczWG9LZkJHTlVPTUVTOWc?oc=5"
         }
       ],
@@ -1607,13 +1669,13 @@
       "matched_keywords": []
     },
     {
-      "id": "148a33bf8011",
+      "id": "27f611314701",
       "title": "晚年能否穩定吃飽竟與失智有關？研究追蹤2051人揭關鍵時期",
       "published": "2026-08-31T08:12:37+00:00",
-      "summary": "晚年能否穩定吃飽竟與失智有關？研究追蹤2051人揭關鍵時期&nbsp;&nbsp;元氣網",
+      "summary": "晚年能否穩定吃飽竟與失智有關？研究追蹤2051人揭關鍵時期&nbsp;&nbsp;health.udn.com",
       "sources": [
         {
-          "name": "元氣網",
+          "name": "health.udn.com",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wN1BaV3dFZFpwcjAtQ0phc3RnNEVCVkU5ZmdMcmRvTjAwa24zVGFFTUNIQ0RKRUp0Y2I2cTk4dC0ydnp1cUdGNGpTdzdtRE5tQ2xLd3Y2RnFzTGQwdmfSAWNBVV95cUxQazhyc2JlTklxRUxLUjZXc2ZUTGhGMG9uNWEwalh1NGtVUUNiWngwVm1FZUJPUG52ZnpXX2l5eHFORl84SVoyUmx1ZFhraHNmS0VqNXdZQVVOUG1KVWRILW55cU0?oc=5"
         }
       ],
@@ -1632,13 +1694,13 @@
       ]
     },
     {
-      "id": "21c277703d52",
+      "id": "78447d90ceed",
       "title": "35歲起就要注意中年人6種情緒增失智風險沒自信也中- 健康",
       "published": "2026-08-31T07:52:08+00:00",
-      "summary": "35歲起就要注意中年人6種情緒增失智風險沒自信也中- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "35歲起就要注意中年人6種情緒增失智風險沒自信也中- 健康&nbsp;&nbsp;chinatimes.com",
       "sources": [
         {
-          "name": "中時新聞網",
+          "name": "chinatimes.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MSG1CZlFvNnNHd3lBOERBdHhILTB3bHM5RzRVbEx4YXlNaEVwZl90ME1tTlFxTmxpcVJLVWRLLXhnWlpyOUhYZHc5d0MxSTZvRWhqaVlZZDRqVDZWaGxrQXVWdno4ZjVRTEQyMXd3?oc=5"
         }
       ],
@@ -1657,48 +1719,23 @@
       ]
     },
     {
-      "id": "d947717cfab8",
+      "id": "eb857fc772fd",
       "title": "健康網》認識PRP 醫：打PRP之前 可以問這些問題",
       "published": "2026-08-31T06:39:00+00:00",
-      "summary": "健康網》認識PRP 醫：打PRP之前 可以問這些問題&nbsp;&nbsp;自由健康網",
+      "summary": "健康網》認識PRP 醫：打PRP之前 可以問這些問題&nbsp;&nbsp;health.ltn.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NdE95UFJxc0FQdHg1TE1OWWlkWnozejgtUmdGUlhpS2EtMjNfWjQzc3F4NjNqV0plZFNQakRTdHJ2NzBhTXNjY1dSVUEyUWNUV3p6LUR1eWRIR2lDOE9SbWFlYlI?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "1b5b98a86048",
-      "title": "中年夜間頻繁微覺醒 恐與高「阿茲海默症」遺傳風險有關",
-      "published": "2026-08-31T02:23:21+00:00",
-      "summary": "中年夜間頻繁微覺醒 恐與高「阿茲海默症」遺傳風險有關&nbsp;&nbsp;technice.com.tw",
-      "sources": [
-        {
-          "name": "technice.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ldGZsU1Q0b29hVGM2Z2ZiMEMxWUNPaUNiYnk1N1lEeFoyTmFIaUF6WnhsdnhFOVZrcGpkbU83WDBYMmUzUXZGMHc5dzBiZ1hrY3cxSDFVdXoydk1jSjFJ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "82fdc17d0520",
       "title": "東亞第一推HPV疫苗男女公費接種 首年男生接種率突破81.6%",
       "published": "2026-08-31T02:08:55+00:00",
-      "summary": "東亞第一推HPV疫苗男女公費接種 首年男生接種率突破81.6%&nbsp;&nbsp;健康醫療網HPV疫苗不只是女生要打！國中男女全面公費接種 醫揭：男生還能防「這些癌症」&nbsp;&nbsp;Yahoo新聞男女並進第二年 台灣HPV疫苗接種率亮眼 男生首接種破八成 打造「防癌不分性別」新共識&nbsp;&nbsp;天天上新聞HPV疫苗｜海外升學勿忽略「健康清單」 醫生提醒男女學生趁早打HPV疫苗&nbsp;&nbsp;香港經濟日報HKET男生也要打HPV疫苗！接種率破8成 專家盼追上女生9成水準&nbsp;&nbsp;翻爆",
+      "summary": "東亞第一推HPV疫苗男女公費接種 首年男生接種率突破81.6%&nbsp;&nbsp;健康醫療網HPV疫苗不只是女生要打！國中男女全面公費接種 醫揭：男生還能防「這些癌症」&nbsp;&nbsp;Yahoo新聞男女並進第二年 台灣HPV疫苗接種率亮眼 男生首接種破八成 打造「防癌不分性別」新共識&nbsp;&nbsp;天天上新聞HPV疫苗｜海外升學勿忽略「健康清單」 醫生提醒男女學生趁早打HPV疫苗&nbsp;&nbsp;香港經濟日報HKET東亞第一推HPV疫苗男女公費接種 首年男生接種率突破81.6% - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "健康醫療網",
@@ -1904,13 +1941,13 @@
       ]
     },
     {
-      "id": "aaae9aed6822",
+      "id": "ccd8d6fc97d2",
       "title": "80歲後走得快，認知障礙風險少一半！現在開始練還來得及嗎？醫師給答案",
       "published": "2026-08-31T02:05:59+00:00",
-      "summary": "80歲後走得快，認知障礙風險少一半！現在開始練還來得及嗎？醫師給答案&nbsp;&nbsp;元氣網",
+      "summary": "80歲後走得快，認知障礙風險少一半！現在開始練還來得及嗎？醫師給答案&nbsp;&nbsp;health.udn.com",
       "sources": [
         {
-          "name": "元氣網",
+          "name": "health.udn.com",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RdVpSTkl5Uk56M1dreWg5YkNVN2pzWlhKUlpSUWphdDVrLUFXTG1NQTRMZU5vTmJVV3BVdHN2N1B3NTNtQUs5WVZVNE5RT1BnQXRIYzJKTDNjQmFE0gFiQVVfeXFMUGlpRDVFOFdLZE9yRjBuTVNjMGdfY3Q3dUpjRS1zSmFrU1ZJY25Fb0ozSU01LWxXR2NqU1pKY2o4UGszMUFhRUxFMHRmazRpbnpMVzBYTUFpRFJsUHVtTEE1M1E?oc=5"
         }
       ],
@@ -1930,13 +1967,13 @@
       "matched_keywords": []
     },
     {
-      "id": "9b3a130d1e61",
-      "title": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法 - TechNews 科技新報",
+      "id": "d5f1a75da0c7",
+      "title": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法",
       "published": "2026-08-29T16:06:09+00:00",
-      "summary": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法&nbsp;&nbsp;TechNews 科技新報",
+      "summary": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法&nbsp;&nbsp;technews.tw",
       "sources": [
         {
-          "name": "TechNews 科技新報",
+          "name": "technews.tw",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGt2dV9MaG1aMGZUTXdZOW5QN2h5clp2aU5OUUFpc2hyVmJIVXhBbWNTXzd2N2hBeU44VExaLWNVZUNnbFJ3Zm00UElkUG9Qb0Q4VHR6VE1Bc1ctRWkzYnJOMW9HVFhSSkhtUEdwZ0thMVR0Z3dnSFN4dFV2RXZvVzNvTnVRaDNDRUFPOGVLR2c1QW5CRTM0V3lsd0ZxSXVUTGlNZzEwS2dVZHBpZEYtZzJxZEdsNmVI?oc=5"
         }
       ],
@@ -1955,40 +1992,14 @@
       ]
     },
     {
-      "id": "97b00b33adee",
+      "id": "53ee3a059041",
       "title": "健康網》適當射精 降死亡風險！網紅醫：射精幫腦抗衰老",
       "published": "2026-08-29T13:20:00+00:00",
-      "summary": "健康網》適當射精 降死亡風險！網紅醫：射精幫腦抗衰老&nbsp;&nbsp;自由健康網",
+      "summary": "健康網》適當射精 降死亡風險！網紅醫：射精幫腦抗衰老&nbsp;&nbsp;health.ltn.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HbGpSSVJ4dFVlSlZiOFlDWXVFeDAzY0JNSXdtZ3V3Ymtoa2NhN1dtQmxhQ2prUldqOHFuRGdXZnJPYnFuTmRBc0xsSzRaX0tfYnk4OHRua2NXamxsMzg1OUFFSXQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f8895a13e48c",
-      "title": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略 - TechNews 科技新報",
-      "published": "2026-08-29T07:05:29+00:00",
-      "summary": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM3lpeHA3c19PMERKbnczTURzU3lMaDBsTEpjWC1CSXU3ckZWWU1XN04yXzcxVk9hbjFtdTdCRmM0MHVUR05uM29QSVZQbEg5b3dhVTNMc2xrWlZYRWJkWHlESjdWdVY1Nkd2cmExZGhnaDB4ejdYc3dmUzZVZllFV01FOGVGeDVkZHp0RFFwb3BxWnZFRjdSZDNLTzdTdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ed2997eb94ff",
-      "title": "人類演化不只靠吃肉！研究：水果與蜂蜜中的糖可能供應逾25％飲食能量 - 食力 foodNEXT",
-      "published": "2026-08-29T06:00:16+00:00",
-      "summary": "人類演化不只靠吃肉！研究：水果與蜂蜜中的糖可能供應逾25％飲食能量&nbsp;&nbsp;食力 foodNEXT",
-      "sources": [
-        {
-          "name": "食力 foodNEXT",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LYjV0LXVnSEpXS0pRTGVIXzlHdXlhVHJNOGJxdENGcE1HRUE4RUhqTjVseGNwUkZES0Jkc3RKNUZLLWs0ckYtdk4zczFQR2pvUGY4Vi1sNWNOcngwcFF0RVZSV1duVkFuelQ0?oc=5"
         }
       ],
       "matched_keywords": []

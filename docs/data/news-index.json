@@ -1,7 +1,31 @@
 {
-  "generated": "2026-09-05T05:04:35.760491+00:00",
+  "generated": "2026-09-05T09:41:18.926487+00:00",
   "count": 15,
   "news": [
+    {
+      "id": "0c4cdf03700f",
+      "title": "健康網》研究：「鋰」可能預防失智 如何應用仍待努力",
+      "published": "2026-09-05T09:17:00+00:00",
+      "sources": [
+        {
+          "name": "health.ltn.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yX1ItNmwtLTFPdVhGel84WXVneDUyNm1yMzRTQXFucXRjQWJlMEJNTGE5R0Q1dW9XQm8wNzdXXzVrUVBzOWZUN0dWeWJRcFRqUHRmOGZiN2ZSMDgxREhhUTRCZm3SAWpBVV95cUxPYjFFRjd1SXMtdG1YLU9uQm0yNnJfalh5c25iQXN1NEoyOHpjV2h4Mmh5Z0xhNmJhaUZnS3RjYmJWZWVUX2p1MHdYUS1rZUtPWTJnVEhpNnZCWEh4Smw1VDQwaENXdTVXOGxB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "6f14bd3af516",
       "title": "肥胖成致癌危险因子仅次吸烟！ | 肥胖 | 糖尿病 | 心血管疾病| 癌症",
@@ -684,30 +708,6 @@
       ]
     },
     {
-      "id": "1611f190199d",
-      "title": "蛋黃膽固醇高就不能每天吃？醫揭雞蛋最新研究：每週吃「這頻率」死亡風險最低",
-      "published": "2026-09-04T05:47:58+00:00",
-      "sources": [
-        {
-          "name": "良醫健康網",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBueVZQNEphUG93M0wwdWtWU09WR2dsa1VpVFVRdllnS2xrVUlGRnBCcm0tMzlacWUwNUVHSTY5Z3NTU3V4Y1N0TXdxU1lobFVUcVZKbGh1ZXJvczR3SHVZQnpESUNLbHFHdkE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "06be2962edc0",
       "title": "40歲女爭執後氣喘胸悶 以為心臟病發 醫生教4步驟呼吸急救7大症狀需及時call白車",
       "published": "2026-09-03T23:00:00+00:00",
@@ -1010,36 +1010,48 @@
       ]
     },
     {
-      "id": "1a30d05a60a3",
-      "title": "原本治關節炎！這款藥竟讓「鬼剃頭」長回頭髮 逾5成重度患者恢復8成 | 自由電子報 - LINE TODAY",
-      "published": "2026-09-02T12:16:27+00:00",
+      "id": "bb04ed5cfe40",
+      "title": "乳癌｜法航空姐夜間飛行逾6千小時 患癌獲判「職業病」成全球首例",
+      "published": "2026-09-03T02:00:59+00:00",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90WE1sRFJHZHVHX1gzemZtUWdycjRDYUZqSnVpSW15OHhUNmlFcUplREdUUlJfMDdlU1M5MzNob3E0eXg2MnZPMlRxeElDc2JBdGVwV3dR?oc=5"
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOMGFpVG1KS2o1TDZ0aVNBWUZpd3gxQWd3YnJoTXYzY0RxOXRZWXExYTZDVkYyY240UGl2dHB6V3NyMDg1RVNEV0tZOUc2MnZRREowdzktSVVlbUJSX3NCbDRpNXhqTDVoOUdhMFVEczNIZ3FrTXY5MkxrWG9yRXZsNmNnb0kxdDV6N1dpWmRtVzNUMHlqMTA4MWdyTkJpLUxXNlZpc1JRUVduX2VGM0M3MUFod3VJcnRoVW5weVdqNlJHLUVIS2phZEhKRC1ZMGtjOU1ZNzdmcXpweVZNd2NuN1BfOVVJRGFvNnExSXJZamI0NXNhVW5wVkJqRXl1Wkl5LWJrYkNELVdpWkoxcjYydTVRNzE0T0MtR2dlOG4zZGNNMFZxM3VLWlV0MnBUejNJS2lEWi15LTJzbFI3U3Vmd09CdHdIR0lfZ2ltNEpvOWlPLWRTVy05X2c5YU5BWi10RERaM2ZUNlo5cGFnSDY1RGhzVjhCcEg2VElxYVo4ZWNCZTVtbHh5UGdSSnRuQ1hhU3dVZ2l1cml4Nk5sOUF1OFF3?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "關節炎",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
           "related_drugs": [
             {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
+              "slug": "trabectedin",
+              "name": "Trabectedin"
             },
             {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
+              "slug": "docetaxel",
+              "name": "Docetaxel"
             },
             {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
             },
             {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
@@ -1312,12 +1324,48 @@
       ]
     },
     {
-      "id": "7582e2cb61c3",
-      "title": "65歲婦感冒死忍4日不求醫！送急症驚揭全身發炎！醫生警告4件事不吃藥更傷身",
+      "id": "8c7a9037d073",
+      "title": "原本治關節炎！這款藥竟讓「鬼剃頭」長回頭髮 逾5成重度患者恢復8成",
+      "published": "2026-09-01T04:04:00+00:00",
+      "sources": [
+        {
+          "name": "health.ltn.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBNUlWWHd5ZTRKSlBOTzRjU01ZWmxxVXNzdUk3ZnluYXh4ZE5iVm9CbzhqMWc2U1pORkdSMU9LaVprajMzbHhlMmFoNjZNb3c4MmxRaXpQemotbjBLX3NQZTliZ1DSAWpBVV95cUxOSFJ4QVE1RFh6eEJFam5ZQ1E5eXZPdEVXMUlmUTNzc2R1cHd4ZHBWWHRuZnVCWjk2S3o5ai1XeTJ3QU5JeVNnci1XTC11anoxRmFGSHY3STFMWjlJVGV2eDRFZS1VUnA4em13?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7adc88e71b04",
+      "title": "65歲婦感冒死忍4日不求醫！送急症驚揭全身發炎！醫生警告4件事不吃藥更傷身 - UHK 港生活",
       "published": "2026-08-31T18:19:08+00:00",
       "sources": [
         {
-          "name": "hk.ulifestyle.com.hk",
+          "name": "UHK 港生活",
           "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNLW5vdW5vZ1AyeHk4dGZlUnNiQ3FwaHVHVlA5MHJVRU1DYzh4XzZzRkRLTnFUVjZfUDVCSFEyN3ZJdFl1VEROb243WXM0MVpsVkVaZGFDaFFwcm8tejZHdlpZX0ItRjRQd0dyMlRwSnA5ZUV6alZvN19wQlNOUFpuMDNyd19FX3VuVG5wUUxyOFlOdG01czhyaTF4UFJ6TTRYaVlGVnJmTnN5WFB2NlhjZ2RoR0xObmpYYVlaaE05OWFaeUszT2RLRXp2d1dMdUZtb3hhcFhZMGw2MmtWMTZPV1NibGRsemNSbU03LWpXcXdMbXROS2NNcjVVd0RmSXk1Y0RrZFRsUWgtalAxd1E1NFNwSVNpWEF5UWtpbF9IOU9BWGs2a2pvOTA5cVM2MTNDTHpIbUZrelZEWGplU1JEU3JQRlJmSnNBZFBzN2VGOVNNUm41cExhUWZSTUNqazY1ZWdCbUZHVkYxeHFZUmE2cGpsWlFsQ0lsSkxkS0c5Y25wdk43ZlczaDE0Z0JZREswYVhXdzVrY2RYdk81OFlnT0U3T1ZDTGhnOE81Q0lfV0xRWGpRM19GbnBtY3lidjMzcHRNWWJ4Zmk0UVczWG9LZkJHTlVPTUVTOWc?oc=5"
         }
       ],
@@ -1336,12 +1384,12 @@
       ]
     },
     {
-      "id": "148a33bf8011",
+      "id": "27f611314701",
       "title": "晚年能否穩定吃飽竟與失智有關？研究追蹤2051人揭關鍵時期",
       "published": "2026-08-31T08:12:37+00:00",
       "sources": [
         {
-          "name": "元氣網",
+          "name": "health.udn.com",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wN1BaV3dFZFpwcjAtQ0phc3RnNEVCVkU5ZmdMcmRvTjAwa24zVGFFTUNIQ0RKRUp0Y2I2cTk4dC0ydnp1cUdGNGpTdzdtRE5tQ2xLd3Y2RnFzTGQwdmfSAWNBVV95cUxQazhyc2JlTklxRUxLUjZXc2ZUTGhGMG9uNWEwalh1NGtVUUNiWngwVm1FZUJPUG52ZnpXX2l5eHFORl84SVoyUmx1ZFhraHNmS0VqNXdZQVVOUG1KVWRILW55cU0?oc=5"
         }
       ],
@@ -1360,12 +1408,12 @@
       ]
     },
     {
-      "id": "21c277703d52",
+      "id": "78447d90ceed",
       "title": "35歲起就要注意中年人6種情緒增失智風險沒自信也中- 健康",
       "published": "2026-08-31T07:52:08+00:00",
       "sources": [
         {
-          "name": "中時新聞網",
+          "name": "chinatimes.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MSG1CZlFvNnNHd3lBOERBdHhILTB3bHM5RzRVbEx4YXlNaEVwZl90ME1tTlFxTmxpcVJLVWRLLXhnWlpyOUhYZHc5d0MxSTZvRWhqaVlZZDRqVDZWaGxrQXVWdno4ZjVRTEQyMXd3?oc=5"
         }
       ],
@@ -1374,30 +1422,6 @@
           "type": "indication",
           "name": "dementia",
           "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1b5b98a86048",
-      "title": "中年夜間頻繁微覺醒 恐與高「阿茲海默症」遺傳風險有關",
-      "published": "2026-08-31T02:23:21+00:00",
-      "sources": [
-        {
-          "name": "technice.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ldGZsU1Q0b29hVGM2Z2ZiMEMxWUNPaUNiYnk1N1lEeFoyTmFIaUF6WnhsdnhFOVZrcGpkbU83WDBYMmUzUXZGMHc5dzBiZ1hrY3cxSDFVdXoydk1jSjFJ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
           "related_drugs": [
             {
               "slug": "gefitinib",
@@ -1616,12 +1640,12 @@
       ]
     },
     {
-      "id": "9b3a130d1e61",
-      "title": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法 - TechNews 科技新報",
+      "id": "d5f1a75da0c7",
+      "title": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法",
       "published": "2026-08-29T16:06:09+00:00",
       "sources": [
         {
-          "name": "TechNews 科技新報",
+          "name": "technews.tw",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGt2dV9MaG1aMGZUTXdZOW5QN2h5clp2aU5OUUFpc2hyVmJIVXhBbWNTXzd2N2hBeU44VExaLWNVZUNnbFJ3Zm00UElkUG9Qb0Q4VHR6VE1Bc1ctRWkzYnJOMW9HVFhSSkhtUEdwZ0thMVR0Z3dnSFN4dFV2RXZvVzNvTnVRaDNDRUFPOGVLR2c1QW5CRTM0V3lsd0ZxSXVUTGlNZzEwS2dVZHBpZEYtZzJxZEdsNmVI?oc=5"
         }
       ],
