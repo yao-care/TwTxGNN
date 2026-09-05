@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-05T13:06:50.840411+00:00",
+  "generated": "2026-09-05T16:23:49.313297+00:00",
   "count": 17,
   "news": [
     {
-      "id": "8735d1f6aa19",
+      "id": "0c4cdf03700f",
       "title": "健康網》研究：「鋰」可能預防失智 如何應用仍待努力",
       "published": "2026-09-05T09:17:00+00:00",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yX1ItNmwtLTFPdVhGel84WXVneDUyNm1yMzRTQXFucXRjQWJlMEJNTGE5R0Q1dW9XQm8wNzdXXzVrUVBzOWZUN0dWeWJRcFRqUHRmOGZiN2ZSMDgxREhhUTRCZm3SAWpBVV95cUxPYjFFRjd1SXMtdG1YLU9uQm0yNnJfalh5c25iQXN1NEoyOHpjV2h4Mmh5Z0xhNmJhaUZnS3RjYmJWZWVUX2p1MHdYUS1rZUtPWTJnVEhpNnZCWEh4Smw1VDQwaENXdTVXOGxB?oc=5"
         }
       ],
@@ -270,12 +270,12 @@
       ]
     },
     {
-      "id": "ea66aecd1c7c",
+      "id": "1f78443dcbe6",
       "title": "菇類也能防癌？研究發現每天吃18克 癌症風險低45％",
       "published": "2026-09-04T07:00:04+00:00",
       "sources": [
         {
-          "name": "news.ttv.com.tw",
+          "name": "台視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5"
         }
       ],
@@ -572,214 +572,6 @@
       ]
     },
     {
-      "id": "9a810328811c",
-      "title": "打破「小酌無害」觀念研究：每日一杯癌症死亡風險倍增- 國際",
-      "published": "2026-09-03T14:30:00+00:00",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "bb04ed5cfe40",
       "title": "乳癌｜法航空姐夜間飛行逾6千小時 患癌獲判「職業病」成全球首例",
       "published": "2026-09-03T02:00:59+00:00",
@@ -1005,12 +797,12 @@
       ]
     },
     {
-      "id": "7582e2cb61c3",
-      "title": "65歲婦感冒死忍4日不求醫！送急症驚揭全身發炎！醫生警告4件事不吃藥更傷身",
+      "id": "7adc88e71b04",
+      "title": "65歲婦感冒死忍4日不求醫！送急症驚揭全身發炎！醫生警告4件事不吃藥更傷身 - UHK 港生活",
       "published": "2026-08-31T18:19:08+00:00",
       "sources": [
         {
-          "name": "hk.ulifestyle.com.hk",
+          "name": "UHK 港生活",
           "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNLW5vdW5vZ1AyeHk4dGZlUnNiQ3FwaHVHVlA5MHJVRU1DYzh4XzZzRkRLTnFUVjZfUDVCSFEyN3ZJdFl1VEROb243WXM0MVpsVkVaZGFDaFFwcm8tejZHdlpZX0ItRjRQd0dyMlRwSnA5ZUV6alZvN19wQlNOUFpuMDNyd19FX3VuVG5wUUxyOFlOdG01czhyaTF4UFJ6TTRYaVlGVnJmTnN5WFB2NlhjZ2RoR0xObmpYYVlaaE05OWFaeUszT2RLRXp2d1dMdUZtb3hhcFhZMGw2MmtWMTZPV1NibGRsemNSbU03LWpXcXdMbXROS2NNcjVVd0RmSXk1Y0RrZFRsUWgtalAxd1E1NFNwSVNpWEF5UWtpbF9IOU9BWGs2a2pvOTA5cVM2MTNDTHpIbUZrelZEWGplU1JEU3JQRlJmSnNBZFBzN2VGOVNNUm41cExhUWZSTUNqazY1ZWdCbUZHVkYxeHFZUmE2cGpsWlFsQ0lsSkxkS0c5Y25wdk43ZlczaDE0Z0JZREswYVhXdzVrY2RYdk81OFlnT0U3T1ZDTGhnOE81Q0lfV0xRWGpRM19GbnBtY3lidjMzcHRNWWJ4Zmk0UVczWG9LZkJHTlVPTUVTOWc?oc=5"
         }
       ],
@@ -1071,6 +863,34 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aef6859188dc",
+      "title": "歌曲可能有助於減輕疼痛，甚至治療中風症狀",
+      "published": "2026-08-31T04:05:27+00:00",
+      "sources": [
+        {
+          "name": "國家地理雜誌",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RcW43blJKVWFaMVJ5bmxnVk1Ddk1IaWdieTVFQWdVa1VwelVUM1RSVE8xbk94MURRNlI3WUF6eEd5bVYxZEN2VzZBQmtxYnVGcjJDV0VKd2VYanZoQWk2bFp5a1BqZmI1TDR4aTVmUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
             }
           ]
         }
@@ -1357,13 +1177,13 @@
       ]
     },
     {
-      "id": "d5f1a75da0c7",
-      "title": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法",
-      "published": "2026-08-29T16:06:09+00:00",
+      "id": "b2b3524e61fb",
+      "title": "AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法- 股市爆料同學會",
+      "published": "2026-08-29T20:52:42+00:00",
       "sources": [
         {
-          "name": "technews.tw",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGt2dV9MaG1aMGZUTXdZOW5QN2h5clp2aU5OUUFpc2hyVmJIVXhBbWNTXzd2N2hBeU44VExaLWNVZUNnbFJ3Zm00UElkUG9Qb0Q4VHR6VE1Bc1ctRWkzYnJOMW9HVFhSSkhtUEdwZ0thMVR0Z3dnSFN4dFV2RXZvVzNvTnVRaDNDRUFPOGVLR2c1QW5CRTM0V3lsd0ZxSXVUTGlNZzEwS2dVZHBpZEYtZzJxZEdsNmVI?oc=5"
+          "name": "CMoney",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaMHYzWWZpaU5PSnZZOUNJM2dSbXBXVFJkS2ZYNDdRUjlXZE5zRTVoYzRyZHAxWEdLaWZ3VnpCNHF1eENYWlozZ2g2ZXE4czdXUG9FSU9oT0c?oc=5"
         }
       ],
       "keywords": [

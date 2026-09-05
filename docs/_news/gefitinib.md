@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
 
 ### [健康網》研究：「鋰」可能預防失智 如何應用仍待努力](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yX1ItNmwtLTFPdVhGel84WXVneDUyNm1yMzRTQXFucXRjQWJlMEJNTGE5R0Q1dW9XQm8wNzdXXzVrUVBzOWZUN0dWeWJRcFRqUHRmOGZiN2ZSMDgxREhhUTRCZm3SAWpBVV95cUxPYjFFRjd1SXMtdG1YLU9uQm0yNnJfalh5c25iQXN1NEoyOHpjV2h4Mmh5Z0xhNmJhaUZnS3RjYmJWZWVUX2p1MHdYUS1rZUtPWTJnVEhpNnZCWEh4Smw1VDQwaENXdTVXOGxB?oc=5)
 
 2026-09-05 <span class="news-indication-tag">失智</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yX1ItNmwtLTFPdVhGel84WXVneDUyNm1yMzRTQXFucXRjQWJlMEJNTGE5R0Q1dW9XQm8wNzdXXzVrUVBzOWZUN0dWeWJRcFRqUHRmOGZiN2ZSMDgxREhhUTRCZm3SAWpBVV95cUxPYjFFRjd1SXMtdG1YLU9uQm0yNnJfalh5c25iQXN1NEoyOHpjV2h4Mmh5Z0xhNmJhaUZnS3RjYmJWZWVUX2p1MHdYUS1rZUtPWTJnVEhpNnZCWEh4Smw1VDQwaENXdTVXOGxB?oc=5)
+來源：[health.ltn.com.tw](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yX1ItNmwtLTFPdVhGel84WXVneDUyNm1yMzRTQXFucXRjQWJlMEJNTGE5R0Q1dW9XQm8wNzdXXzVrUVBzOWZUN0dWeWJRcFRqUHRmOGZiN2ZSMDgxREhhUTRCZm3SAWpBVV95cUxPYjFFRjd1SXMtdG1YLU9uQm0yNnJfalh5c25iQXN1NEoyOHpjV2h4Mmh5Z0xhNmJhaUZnS3RjYmJWZWVUX2p1MHdYUS1rZUtPWTJnVEhpNnZCWEh4Smw1VDQwaENXdTVXOGxB?oc=5)
 
 ---
 
@@ -63,15 +63,7 @@ permalink: /news/gefitinib/
 
 2026-09-04 <span class="news-indication-tag">癌症</span>
 
-來源：[news.ttv.com.tw](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
-
----
-
-### [打破「小酌無害」觀念研究：每日一杯癌症死亡風險倍增- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5)
-
-2026-09-03 <span class="news-indication-tag">癌症</span>
-
-來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5)
+來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
 
 ---
 
@@ -123,11 +115,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGt2dV9MaG1aMGZUTXdZOW5QN2h5clp2aU5OUUFpc2hyVmJIVXhBbWNTXzd2N2hBeU44VExaLWNVZUNnbFJ3Zm00UElkUG9Qb0Q4VHR6VE1Bc1ctRWkzYnJOMW9HVFhSSkhtUEdwZ0thMVR0Z3dnSFN4dFV2RXZvVzNvTnVRaDNDRUFPOGVLR2c1QW5CRTM0V3lsd0ZxSXVUTGlNZzEwS2dVZHBpZEYtZzJxZEdsNmVI?oc=5)
+### [AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaMHYzWWZpaU5PSnZZOUNJM2dSbXBXVFJkS2ZYNDdRUjlXZE5zRTVoYzRyZHAxWEdLaWZ3VnpCNHF1eENYWlozZ2g2ZXE4czdXUG9FSU9oT0c?oc=5)
 
 2026-08-29 <span class="news-indication-tag">阿茲海默症</span>
 
-來源：[technews.tw](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGt2dV9MaG1aMGZUTXdZOW5QN2h5clp2aU5OUUFpc2hyVmJIVXhBbWNTXzd2N2hBeU44VExaLWNVZUNnbFJ3Zm00UElkUG9Qb0Q4VHR6VE1Bc1ctRWkzYnJOMW9HVFhSSkhtUEdwZ0thMVR0Z3dnSFN4dFV2RXZvVzNvTnVRaDNDRUFPOGVLR2c1QW5CRTM0V3lsd0ZxSXVUTGlNZzEwS2dVZHBpZEYtZzJxZEdsNmVI?oc=5)
+來源：[CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaMHYzWWZpaU5PSnZZOUNJM2dSbXBXVFJkS2ZYNDdRUjlXZE5zRTVoYzRyZHAxWEdLaWZ3VnpCNHF1eENYWlozZ2g2ZXE4czdXUG9FSU9oT0c?oc=5)
 
 ---
 
