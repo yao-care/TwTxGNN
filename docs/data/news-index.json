@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T18:40:39.335404+00:00",
-  "count": 13,
+  "generated": "2026-09-05T20:49:31.887952+00:00",
+  "count": 15,
   "news": [
     {
       "id": "8735d1f6aa19",
@@ -667,6 +667,30 @@
       ]
     },
     {
+      "id": "357275785be3",
+      "title": "90歲還沒失智也別大意！研究揭女性風險高1倍 6件事幫大腦維持健康",
+      "published": "2026-09-02T05:41:00+00:00",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GSXpnZGpTaTFLYkc3RUZrOTVOVGtxUEVpM2Z0WE9jOXZUYjhuVW04bWt0bjN1WXVVeC1KSHNiUGp3cm5ZRXJvOWhYamd1MFVoT1R6MDBjSTgyMGstN3fSAWNBVV95cUxQemNLM0Z3T1IxWjlhVUtyVXJlX0MxeXdDTzd3R2g4WjVMc1FKNEFDSzJRQkp1RXJkYTNEa2trYll3YzdSTGo1R1B6LWtvRTAyZXB0T1c3UTB3Q0tURVkySHdnVWM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "b81d327dee42",
       "title": "腦腫瘤｜ 40歲5孩之母遭誤診肌腱炎 癲癇發作昏迷終確診末期腦癌 腳部現1徵兆要留心",
       "published": "2026-09-02T03:08:57+00:00",
@@ -994,12 +1018,12 @@
       ]
     },
     {
-      "id": "aef6859188dc",
+      "id": "e573cebb8e50",
       "title": "歌曲可能有助於減輕疼痛，甚至治療中風症狀",
       "published": "2026-08-31T04:05:27+00:00",
       "sources": [
         {
-          "name": "國家地理雜誌",
+          "name": "natgeomedia.com",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RcW43blJKVWFaMVJ5bmxnVk1Ddk1IaWdieTVFQWdVa1VwelVUM1RSVE8xbk94MURRNlI3WUF6eEd5bVYxZEN2VzZBQmtxYnVGcjJDV0VKd2VYanZoQWk2bFp5a1BqZmI1TDR4aTVmUQ?oc=5"
         }
       ],
@@ -1016,6 +1040,30 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c5169be8c9ae",
+      "title": "中年夜間頻繁微覺醒 恐與高「阿茲海默症」遺傳風險有關",
+      "published": "2026-08-31T02:23:21+00:00",
+      "sources": [
+        {
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ldGZsU1Q0b29hVGM2Z2ZiMEMxWUNPaUNiYnk1N1lEeFoyTmFIaUF6WnhsdnhFOVZrcGpkbU83WDBYMmUzUXZGMHc5dzBiZ1hrY3cxSDFVdXoydk1jSjFJ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }

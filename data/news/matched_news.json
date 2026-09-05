@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-09-05T18:40:39.311989+00:00",
-  "total_count": 36,
-  "matched_count": 13,
+  "last_updated": "2026-09-05T20:49:31.853881+00:00",
+  "total_count": 37,
+  "matched_count": 15,
   "news": [
+    {
+      "id": "547bc4b493df",
+      "title": "6旬男PSA異常 正子掃描揪攝護腺癌",
+      "published": "2026-09-05T19:33:14+00:00",
+      "summary": "6旬男PSA異常 正子掃描揪攝護腺癌&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzSDV1ZnlvNVhna2lhb25EN3h4WkdlZ0VaRHdkX05zUlNGOG9BZzh3UWhUdG5vQ3VxbUd1ZjFBSUNfVGYwMmhielk4N1JMcjJoazFSOUl2S2psY203RVlMNjJxSXFXdWNZN2pR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "7dae389296e3",
       "title": "葡萄酒死亡風險較低就能放心喝？34萬人調查追蹤：高度飲酒風險仍增24％ - 食力 foodNEXT",
@@ -84,7 +97,7 @@
       "id": "36348209b7c1",
       "title": "四大人格特質 這類人最容易罹癌",
       "published": "2026-09-05T01:20:00+00:00",
-      "summary": "四大人格特質 這類人最容易罹癌&nbsp;&nbsp;東森新聞總是替別人著想，身體反而出問題？研究揭「壓抑情緒」的代價－精選書摘&nbsp;&nbsp;businessweekly.com.tw",
+      "summary": "四大人格特質 這類人最容易罹癌&nbsp;&nbsp;東森新聞總是替別人著想，身體反而出問題？研究揭「壓抑情緒」的代價－精選書摘&nbsp;&nbsp;商周",
       "sources": [
         {
           "name": "東森新聞",
@@ -684,7 +697,7 @@
       "id": "15921ee4ba5b",
       "title": "健康網》香腸含硝酸鹽恐致癌 這菜同樣有反而降血壓",
       "published": "2026-09-03T08:21:00+00:00",
-      "summary": "健康網》香腸含硝酸鹽恐致癌 這菜同樣有反而降血壓&nbsp;&nbsp;自由健康網不只加工肉品！營養師點名「5大致癌物」：有些藏在日常生活裡- 健康新聞- PChome Online 新聞&nbsp;&nbsp;news.pchome.com.tw【不只香腸火腿！營養師點名「5大致癌物」：你都沒發現】 （#大表哥）&nbsp;&nbsp;facebook.com不只加工肉品！營養師點名「5大致癌物」：有些藏在日常生活裡| 健康&nbsp;&nbsp;三立新聞",
+      "summary": "健康網》香腸含硝酸鹽恐致癌 這菜同樣有反而降血壓&nbsp;&nbsp;自由健康網不只加工肉品！營養師點名「5大致癌物」：有些藏在日常生活裡- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞【不只香腸火腿！營養師點名「5大致癌物」：你都沒發現】 （#大表哥）&nbsp;&nbsp;facebook.com不只加工肉品！營養師點名「5大致癌物」：有些藏在日常生活裡| 健康&nbsp;&nbsp;三立新聞",
       "sources": [
         {
           "name": "自由健康網",
@@ -694,13 +707,13 @@
       "matched_keywords": []
     },
     {
-      "id": "edda980068f7",
-      "title": "高鉀水果怎麼吃？7種水果幫助維持健康血壓 - 科技新聞 - PChome Online 新聞",
+      "id": "5c08f643a0bf",
+      "title": "高鉀水果怎麼吃？7種水果幫助維持健康血壓 - 科技新聞 - PChome Online 新聞 - PChome Online 新聞",
       "published": "2026-09-03T08:00:50+00:00",
-      "summary": "高鉀水果怎麼吃？7種水果幫助維持健康血壓 - 科技新聞 - PChome Online 新聞&nbsp;&nbsp;news.pchome.com.tw",
+      "summary": "高鉀水果怎麼吃？7種水果幫助維持健康血壓 - 科技新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
-          "name": "news.pchome.com.tw",
+          "name": "PChome Online 新聞",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQjFUSGVVbS1zRzNTd3JIejVucG83VjB0c2JuZGlVdUZiZmFUa2VlaHh3X1J1N0N3UnI2ZkVKR3RId0tNc1Y4clg4MTlncnh3dGpaRWliMkk0ejN4WEpVUm9PZFJhN3h0NFR2blRWRG5UNkdUMnF0OHdFaWtvYWV4UDU4Z2dBcGRvY2swUw?oc=5"
         }
       ],
@@ -837,6 +850,31 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "357275785be3",
+      "title": "90歲還沒失智也別大意！研究揭女性風險高1倍 6件事幫大腦維持健康",
+      "published": "2026-09-02T05:41:00+00:00",
+      "summary": "90歲還沒失智也別大意！研究揭女性風險高1倍 6件事幫大腦維持健康&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GSXpnZGpTaTFLYkc3RUZrOTVOVGtxUEVpM2Z0WE9jOXZUYjhuVW04bWt0bjN1WXVVeC1KSHNiUGp3cm5ZRXJvOWhYamd1MFVoT1R6MDBjSTgyMGstN3fSAWNBVV95cUxQemNLM0Z3T1IxWjlhVUtyVXJlX0MxeXdDTzd3R2g4WjVMc1FKNEFDSzJRQkp1RXJkYTNEa2trYll3YzdSTGo1R1B6LWtvRTAyZXB0T1c3UTB3Q0tURVkySHdnVWM?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -1152,19 +1190,6 @@
       ]
     },
     {
-      "id": "19fcf1bf5fa4",
-      "title": "女性沒高潮就是性冷感？婦產科醫揭「高潮障礙」判斷關鍵：持續超過6個月才要留意",
-      "published": "2026-09-01T01:15:16+00:00",
-      "summary": "女性沒高潮就是性冷感？婦產科醫揭「高潮障礙」判斷關鍵：持續超過6個月才要留意&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNOXRMRDFnMFgzRXdpQkZqUTRMOE10OEZUeWo0aENVTHJDblNZMU15RzFNV1Flc0ZmNHdoT29wbUVvanQzMmRDdC1lRmcydGEwN3Q2elJoTG1xRHhPaWk2REVLQXZiRUlWUEtlX0R3a1dsNkFFazFuUVZqTm9UdFdrbVhoYXpIaUx0aWxxeENsMjdtenJ1VnJGVzJ6SmlyU1hBb01FdlVNS2tuaEVXWDlacVJfS1dEWEp6b0ltMDc3SlBvcHpKWG4zUFNIdU5wejJaR0JJMlhVelNjRHk2dUFYcVh0S3BjTmdGemNOcFM3eHNTLVlyYVFTb2dRdElSUFprS1doWnpTdlRQTHlSNE4xandYOGQ3RDk5cEg0N0dTV1lMZkdpVUF1VHRPRE9qWnk4dG1nSjJIcThPRXJqcDVneFJOdEtuQnNDczFiVmpSeld2MUdubGh3c3pLZnJCVFc0S3pKTm5DaWFFRnZSMjVXNUlRYTlGWkIyVnNocGJPczJiQ3FTNUVQOVhHWjVmd3BKMU1hWmFWbXE4RFY3OXMzakMyZl85bHJ3RExkb2R2cVdySlZZdVljSjFBV3NUNV91c0dBX1VXT2M0M0dDMkFHNkZhZXBkOWE4WXRQbDNIS0hfaGthUFE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "7adc88e71b04",
       "title": "65歲婦感冒死忍4日不求醫！送急症驚揭全身發炎！醫生警告4件事不吃藥更傷身 - UHK 港生活",
       "published": "2026-08-31T18:19:08+00:00",
@@ -1190,13 +1215,13 @@
       ]
     },
     {
-      "id": "ab23acffd0fa",
-      "title": "臺印攜手強化傳染病防治亞東醫院分享AI 病媒監測與結核病照護- 生活新聞- PChome Online 新聞",
+      "id": "eb4fb760db52",
+      "title": "臺印攜手強化傳染病防治亞東醫院分享AI 病媒監測與結核病照護- 生活新聞- PChome Online 新聞 - PChome Online 新聞",
       "published": "2026-08-31T18:04:37+00:00",
-      "summary": "臺印攜手強化傳染病防治亞東醫院分享AI 病媒監測與結核病照護- 生活新聞- PChome Online 新聞&nbsp;&nbsp;news.pchome.com.tw",
+      "summary": "臺印攜手強化傳染病防治亞東醫院分享AI 病媒監測與結核病照護- 生活新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
-          "name": "news.pchome.com.tw",
+          "name": "PChome Online 新聞",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaWlWTG1PUGhPQ01RclFIVGQwSWo3WWZ5NVVYSmFMVWl0bkVEY3ZHM3pkSENlRXdDeWkydWNpSUZaZVBlTjItY3puYzE4cXhQbWdJSFVNTFl6YXU3SHFpY0hpdlZIY1F4SU1UNzdyQUJYNTBBOTFGeGw0NWEydFBLMHdYVTdWUQ?oc=5"
         }
       ],
@@ -1266,13 +1291,13 @@
       "matched_keywords": []
     },
     {
-      "id": "aef6859188dc",
+      "id": "e573cebb8e50",
       "title": "歌曲可能有助於減輕疼痛，甚至治療中風症狀",
       "published": "2026-08-31T04:05:27+00:00",
-      "summary": "歌曲可能有助於減輕疼痛，甚至治療中風症狀&nbsp;&nbsp;國家地理雜誌",
+      "summary": "歌曲可能有助於減輕疼痛，甚至治療中風症狀&nbsp;&nbsp;natgeomedia.com",
       "sources": [
         {
-          "name": "國家地理雜誌",
+          "name": "natgeomedia.com",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RcW43blJKVWFaMVJ5bmxnVk1Ddk1IaWdieTVFQWdVa1VwelVUM1RSVE8xbk94MURRNlI3WUF6eEd5bVYxZEN2VzZBQmtxYnVGcjJDV0VKd2VYanZoQWk2bFp5a1BqZmI1TDR4aTVmUQ?oc=5"
         }
       ],
@@ -1295,10 +1320,35 @@
       ]
     },
     {
+      "id": "c5169be8c9ae",
+      "title": "中年夜間頻繁微覺醒 恐與高「阿茲海默症」遺傳風險有關",
+      "published": "2026-08-31T02:23:21+00:00",
+      "summary": "中年夜間頻繁微覺醒 恐與高「阿茲海默症」遺傳風險有關&nbsp;&nbsp;科技島",
+      "sources": [
+        {
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ldGZsU1Q0b29hVGM2Z2ZiMEMxWUNPaUNiYnk1N1lEeFoyTmFIaUF6WnhsdnhFOVZrcGpkbU83WDBYMmUzUXZGMHc5dzBiZ1hrY3cxSDFVdXoydk1jSjFJ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "82fdc17d0520",
       "title": "東亞第一推HPV疫苗男女公費接種 首年男生接種率突破81.6%",
       "published": "2026-08-31T02:08:55+00:00",
-      "summary": "東亞第一推HPV疫苗男女公費接種 首年男生接種率突破81.6%&nbsp;&nbsp;健康醫療網HPV疫苗不只是女生要打！國中男女全面公費接種 醫揭：男生還能防「這些癌症」&nbsp;&nbsp;Yahoo新聞男女並進第二年 台灣HPV疫苗接種率亮眼 男生首接種破八成 打造「防癌不分性別」新共識&nbsp;&nbsp;天天上新聞HPV疫苗｜海外升學勿忽略「健康清單」 醫生提醒男女學生趁早打HPV疫苗&nbsp;&nbsp;香港經濟日報HKET東亞第一推HPV疫苗男女公費接種 首年男生接種率突破81.6% - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;news.pchome.com.tw",
+      "summary": "東亞第一推HPV疫苗男女公費接種 首年男生接種率突破81.6%&nbsp;&nbsp;健康醫療網HPV疫苗不只是女生要打！國中男女全面公費接種 醫揭：男生還能防「這些癌症」&nbsp;&nbsp;Yahoo新聞男女並進第二年 台灣HPV疫苗接種率亮眼 男生首接種破八成 打造「防癌不分性別」新共識&nbsp;&nbsp;天天上新聞HPV疫苗｜海外升學勿忽略「健康清單」 醫生提醒男女學生趁早打HPV疫苗&nbsp;&nbsp;香港經濟日報HKET東亞第一推HPV疫苗男女公費接種 首年男生接種率突破81.6% - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "健康醫療網",
@@ -1525,19 +1575,6 @@
         {
           "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uS2lRc2NJSGtPbHBYbUlxXzd2bXRBbnEzTlAzTDdUcFhtYTJrYkpQdk1LTWs3WWhKb3JPcnBUQUtYSldZODNsakZleXZ2VWZGbXlKdXJ1UXVLUmpweFdNOdIBZkFVX3lxTE5SSDhsNEF1UTBGYkJRVXI3dndLWmtUaUlldnBPb0ZmTDd6M1BweGFDTVhycjNsOFd5S184aXNhZ3VVM2s2amJEcFdwMW5leXRkZ0thaUxVTnNZWXVhYTZ4LTZybk5pZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "aac07f9549fe",
-      "title": "德州大學新發現，90歲大腦仍有進步空間",
-      "published": "2026-08-29T21:15:56+00:00",
-      "summary": "德州大學新發現，90歲大腦仍有進步空間&nbsp;&nbsp;美南新聞",
-      "sources": [
-        {
-          "name": "美南新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKRURjbzByMzg1RTAtSGswSjdzMmViSl9fV0tQOFZrcUtRaEVSbjZVMWVBaHpyY3JWeURDa0lPRV9FWGk2VGc?oc=5"
         }
       ],
       "matched_keywords": []
