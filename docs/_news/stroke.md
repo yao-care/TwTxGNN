@@ -36,7 +36,7 @@ permalink: /news/stroke/
 
 2026-08-31
 
-來源：[natgeomedia.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE5RcW43blJKVWFaMVJ5bmxnVk1Ddk1IaWdieTVFQWdVa1VwelVUM1RSVE8xbk94MURRNlI3WUF6eEd5bVYxZEN2VzZBQmtxYnVGcjJDV0VKd2VYanZoQWk2bFp5a1BqZmI1TDR4aTVmUQ?oc=5)
+來源：[國家地理雜誌](https://news.google.com/rss/articles/CBMib0FVX3lxTE5RcW43blJKVWFaMVJ5bmxnVk1Ddk1IaWdieTVFQWdVa1VwelVUM1RSVE8xbk94MURRNlI3WUF6eEd5bVYxZEN2VzZBQmtxYnVGcjJDV0VKd2VYanZoQWk2bFp5a1BqZmI1TDR4aTVmUQ?oc=5)
 
 ---
 

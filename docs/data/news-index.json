@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T20:49:31.887952+00:00",
-  "count": 15,
+  "generated": "2026-09-05T22:29:46.306905+00:00",
+  "count": 14,
   "news": [
     {
       "id": "8735d1f6aa19",
@@ -29,7 +29,7 @@
     {
       "id": "af6120711c9d",
       "title": "乳癌竟能利用免疫細胞招來神經，幫助腫瘤生長 | 科技新報 - LINE TODAY",
-      "published": "2026-09-04T09:37:59+00:00",
+      "published": "2026-09-04T09:02:40+00:00",
       "sources": [
         {
           "name": "LINE TODAY",
@@ -691,12 +691,12 @@
       ]
     },
     {
-      "id": "b81d327dee42",
+      "id": "5f398c9900b7",
       "title": "腦腫瘤｜ 40歲5孩之母遭誤診肌腱炎 癲癇發作昏迷終確診末期腦癌 腳部現1徵兆要留心",
       "published": "2026-09-02T03:08:57+00:00",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
+          "name": "topick.hket.com",
           "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPemlzOFZUQmkwQlR2Uk5FemhGZ1R4VlZsaGpVSnJIM044c3d5ZnNBUC1pX1dZLVRLT1FUUkxZbDl3dzZMUjQ0YldLZDFjSmRWb1VEa0k1TzBlbkVYdXJyTFlGZTk3dG5MLUd2dEt3RERrUXBnX0p4OVVQeUZRdlVIOEZaajM3WTA3emZONUVXQU4xRkM3UmpqalNta2hoNURCaEdIZXdPTnhMMHZQbDExSmsxeWNDTWdEWE5iTDJ4Y3d5UGhoRFRhUExJYXoyNlRvVnd1QWh1aXFSSF9JOHp0NHBDMmlsQlRYcmI1LVZFXy1VZWRpTGJlcmVzVEV5ZnhRY0dNbl9VRmRqZzRhNkVEaEVwalFSN2VwSWtmSGJ6NDFSTGk0Mnk4c2NHeUQya3pFLWQycFMwQmo5aDBWM2FEQVBadXd3Tjdab1EtRFE4OG5EbTFiWDZKWExlWEtXb2ttR1BOd1ZuNUVtTUtIZ3lxRjFwRzdNTTFaYTFGeEZyMlRiZTJ5ZS1vcUdONmhKNldEYm82Nzc2MGNiaFo2blQwMXdfdG5aVnlBMkhCM1pmeXpNYmo5VFh3aTlOZVJpWVpGLTAtS2ltaWo1eFBkMEdNbmlsQUhwUFRjbWZlUW96VWVtRGNxY0twSGRnOW1IM19KM0IzSGpwMEpJemNMcWQ1VlV3SUNNbnd0VkNRVE40SHJmUEtIMXpJ?oc=5"
         }
       ],
@@ -1018,12 +1018,12 @@
       ]
     },
     {
-      "id": "e573cebb8e50",
+      "id": "aef6859188dc",
       "title": "歌曲可能有助於減輕疼痛，甚至治療中風症狀",
       "published": "2026-08-31T04:05:27+00:00",
       "sources": [
         {
-          "name": "natgeomedia.com",
+          "name": "國家地理雜誌",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RcW43blJKVWFaMVJ5bmxnVk1Ddk1IaWdieTVFQWdVa1VwelVUM1RSVE8xbk94MURRNlI3WUF6eEd5bVYxZEN2VzZBQmtxYnVGcjJDV0VKd2VYanZoQWk2bFp5a1BqZmI1TDR4aTVmUQ?oc=5"
         }
       ],
@@ -1040,30 +1040,6 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c5169be8c9ae",
-      "title": "中年夜間頻繁微覺醒 恐與高「阿茲海默症」遺傳風險有關",
-      "published": "2026-08-31T02:23:21+00:00",
-      "sources": [
-        {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ldGZsU1Q0b29hVGM2Z2ZiMEMxWUNPaUNiYnk1N1lEeFoyTmFIaUF6WnhsdnhFOVZrcGpkbU83WDBYMmUzUXZGMHc5dzBiZ1hrY3cxSDFVdXoydk1jSjFJ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
