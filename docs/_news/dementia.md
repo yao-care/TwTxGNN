@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。7 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>7 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,13 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（3 則）
 
 ### [健康網》研究：「鋰」可能預防失智 如何應用仍待努力](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yX1ItNmwtLTFPdVhGel84WXVneDUyNm1yMzRTQXFucXRjQWJlMEJNTGE5R0Q1dW9XQm8wNzdXXzVrUVBzOWZUN0dWeWJRcFRqUHRmOGZiN2ZSMDgxREhhUTRCZm3SAWpBVV95cUxPYjFFRjd1SXMtdG1YLU9uQm0yNnJfalh5c25iQXN1NEoyOHpjV2h4Mmh5Z0xhNmJhaUZnS3RjYmJWZWVUX2p1MHdYUS1rZUtPWTJnVEhpNnZCWEh4Smw1VDQwaENXdTVXOGxB?oc=5)
 
 2026-09-05
 
-來源：[health.ltn.com.tw](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yX1ItNmwtLTFPdVhGel84WXVneDUyNm1yMzRTQXFucXRjQWJlMEJNTGE5R0Q1dW9XQm8wNzdXXzVrUVBzOWZUN0dWeWJRcFRqUHRmOGZiN2ZSMDgxREhhUTRCZm3SAWpBVV95cUxPYjFFRjd1SXMtdG1YLU9uQm0yNnJfalh5c25iQXN1NEoyOHpjV2h4Mmh5Z0xhNmJhaUZnS3RjYmJWZWVUX2p1MHdYUS1rZUtPWTJnVEhpNnZCWEh4Smw1VDQwaENXdTVXOGxB?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yX1ItNmwtLTFPdVhGel84WXVneDUyNm1yMzRTQXFucXRjQWJlMEJNTGE5R0Q1dW9XQm8wNzdXXzVrUVBzOWZUN0dWeWJRcFRqUHRmOGZiN2ZSMDgxREhhUTRCZm3SAWpBVV95cUxPYjFFRjd1SXMtdG1YLU9uQm0yNnJfalh5c25iQXN1NEoyOHpjV2h4Mmh5Z0xhNmJhaUZnS3RjYmJWZWVUX2p1MHdYUS1rZUtPWTJnVEhpNnZCWEh4Smw1VDQwaENXdTVXOGxB?oc=5)
 
 ---
 
@@ -43,7 +43,7 @@ permalink: /news/dementia/
 
 2026-08-31
 
-來源：[health.udn.com](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wN1BaV3dFZFpwcjAtQ0phc3RnNEVCVkU5ZmdMcmRvTjAwa24zVGFFTUNIQ0RKRUp0Y2I2cTk4dC0ydnp1cUdGNGpTdzdtRE5tQ2xLd3Y2RnFzTGQwdmfSAWNBVV95cUxQazhyc2JlTklxRUxLUjZXc2ZUTGhGMG9uNWEwalh1NGtVUUNiWngwVm1FZUJPUG52ZnpXX2l5eHFORl84SVoyUmx1ZFhraHNmS0VqNXdZQVVOUG1KVWRILW55cU0?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wN1BaV3dFZFpwcjAtQ0phc3RnNEVCVkU5ZmdMcmRvTjAwa24zVGFFTUNIQ0RKRUp0Y2I2cTk4dC0ydnp1cUdGNGpTdzdtRE5tQ2xLd3Y2RnFzTGQwdmfSAWNBVV95cUxQazhyc2JlTklxRUxLUjZXc2ZUTGhGMG9uNWEwalh1NGtVUUNiWngwVm1FZUJPUG52ZnpXX2l5eHFORl84SVoyUmx1ZFhraHNmS0VqNXdZQVVOUG1KVWRILW55cU0?oc=5)
 
 ---
 
@@ -52,38 +52,6 @@ permalink: /news/dementia/
 2026-08-31
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1MSG1CZlFvNnNHd3lBOERBdHhILTB3bHM5RzRVbEx4YXlNaEVwZl90ME1tTlFxTmxpcVJLVWRLLXhnWlpyOUhYZHc5d0MxSTZvRWhqaVlZZDRqVDZWaGxrQXVWdno4ZjVRTEQyMXd3?oc=5)
-
----
-
-### [中年夜間頻繁微覺醒 恐與高「阿茲海默症」遺傳風險有關 - 科技新聞 - PChome Online 新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMijAFBVV95cUxQOUdVZXBxWTBGbFdSdWh2ZzZQejZHRm9HNWlLcXd1R2ZtYVNJaFdtajNWbXVuUUdqVkJSbnh3Q2Nzak5VcktFS3BLMTFseU9yNlhEWkZRX012Z2FvdV9TUUl6cFdER1NqYlBYc1dleUdCMXZnNG01TWpvMTlvMVRCMGdETy1heFhWQkJoMQ?oc=5)
-
-2026-08-31
-
-來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMijAFBVV95cUxQOUdVZXBxWTBGbFdSdWh2ZzZQejZHRm9HNWlLcXd1R2ZtYVNJaFdtajNWbXVuUUdqVkJSbnh3Q2Nzak5VcktFS3BLMTFseU9yNlhEWkZRX012Z2FvdV9TUUl6cFdER1NqYlBYc1dleUdCMXZnNG01TWpvMTlvMVRCMGdETy1heFhWQkJoMQ?oc=5)
-
----
-
-### [《阿茲海默症》阿茲海默症致病蛋白質恐經輸血傳播？英國專家籲防患未然，加緊研發輸血致病蛋白質篩檢技術- 生技投資第一站](https://news.google.com/rss/articles/CBMibEFVX3lxTE9XRGU5VHRsUE0tRjhBb1E0MXppUE5kVV9EcnZqOUdrbFdfV0wtNXlldlBJWHl4UktvVmhUSDhWYnB1emxxN2xja1dWZWhONVhxYzJ6YmVoRHlUMFdqT0gyTGxrNzhZQU9EQmpfUg?oc=5)
-
-2026-08-30
-
-來源：[genetinfo.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE9XRGU5VHRsUE0tRjhBb1E0MXppUE5kVV9EcnZqOUdrbFdfV0wtNXlldlBJWHl4UktvVmhUSDhWYnB1emxxN2xja1dWZWhONVhxYzJ6YmVoRHlUMFdqT0gyTGxrNzhZQU9EQmpfUg?oc=5)
-
----
-
-### [譫妄｜長者住院突混亂要求回家未必是失智拆解譫妄VS認知障礙異常安靜要小心附家屬照護貼士- 東張+ - myTV SUPER](https://news.google.com/rss/articles/CBMi5ARBVV95cUxOVTZKZExuX0ZKUl9YbURjVUJ3Y0MyUnZSUXRFWW9TT3Znd3FLdGZzbGh0bFhRdjdnQ1VUcWd3NlB5al9hLVdzU1VPNEZjOXdkaTB5RGM2djdlTmtveTZPeW1YVERlNVJLOWtJRzc3Yk9Va2lkb2Q0d0xWeXdQYkMwOFE2LXJicHI4N0FPbm9LNnR0a1BMY20wTm9ObFBuaGZ5RVdzbk84LTlCNXppX0lpTHpmZ0FCSXVmUUQydlZQbkRFZ3h3VHZnWjZRd2RxQ2ZIMFg4ellrMzVVbEFBQmZLTEpQYmpRZTBRd2lua0d2QThDeC1pSURvcnl2cGtRS29uX2R4Sy11Uk9HRFRsb1NydTVDd1hycHJwWkdZelRVTzR4ckFucDRrbVpjcmVXcF9qRVR5VWNxbXpzWmFnV0xUYUVaV0Nzb2JJeWJtWXFzckVieWJEXzRwalY4UlZjMWEwUEljeW4yNHBmV3ZqdlFFcnViMllXUk8teFRIR1dlRFFNbVlUaHdfMlpqcGQyUHg2TUtfOVk0S3pxcFZFU2lfUzF5YnU3Zk1NckQ2YTJpLWdaTVBWb19lbkstWVRidnoyS3JCajJ2dXo2QUdTVmczanc4YU4xNGxHekNzWjBBaDJBQTdrZVhfQlFqSUQ0YVhTMzZmbG9DYmtubUI4SG1DQ1BZdGhJRUNJRlNKUU84V3poaGVwS2hueVBqSmRaNTIzNFR0NzE1NGc4TlZvM3lLRHRIREZGOHR3VldXR2pVckhHSGV4b00xUmhDUmkwVGJWX2cyd0s0enllVlNGck5EcmVUSDI?oc=5)
-
-2026-08-30
-
-來源：[myTV SUPER](https://news.google.com/rss/articles/CBMi5ARBVV95cUxOVTZKZExuX0ZKUl9YbURjVUJ3Y0MyUnZSUXRFWW9TT3Znd3FLdGZzbGh0bFhRdjdnQ1VUcWd3NlB5al9hLVdzU1VPNEZjOXdkaTB5RGM2djdlTmtveTZPeW1YVERlNVJLOWtJRzc3Yk9Va2lkb2Q0d0xWeXdQYkMwOFE2LXJicHI4N0FPbm9LNnR0a1BMY20wTm9ObFBuaGZ5RVdzbk84LTlCNXppX0lpTHpmZ0FCSXVmUUQydlZQbkRFZ3h3VHZnWjZRd2RxQ2ZIMFg4ellrMzVVbEFBQmZLTEpQYmpRZTBRd2lua0d2QThDeC1pSURvcnl2cGtRS29uX2R4Sy11Uk9HRFRsb1NydTVDd1hycHJwWkdZelRVTzR4ckFucDRrbVpjcmVXcF9qRVR5VWNxbXpzWmFnV0xUYUVaV0Nzb2JJeWJtWXFzckVieWJEXzRwalY4UlZjMWEwUEljeW4yNHBmV3ZqdlFFcnViMllXUk8teFRIR1dlRFFNbVlUaHdfMlpqcGQyUHg2TUtfOVk0S3pxcFZFU2lfUzF5YnU3Zk1NckQ2YTJpLWdaTVBWb19lbkstWVRidnoyS3JCajJ2dXo2QUdTVmczanc4YU4xNGxHekNzWjBBaDJBQTdrZVhfQlFqSUQ0YVhTMzZmbG9DYmtubUI4SG1DQ1BZdGhJRUNJRlNKUU84V3poaGVwS2hueVBqSmRaNTIzNFR0NzE1NGc4TlZvM3lLRHRIREZGOHR3VldXR2pVckhHSGV4b00xUmhDUmkwVGJWX2cyd0s0enllVlNGck5EcmVUSDI?oc=5)
-
----
-
-### [AI 設計「胞內抗體」有望為阿茲海默症、巴金森氏症與漸凍症開啟新療法- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaMHYzWWZpaU5PSnZZOUNJM2dSbXBXVFJkS2ZYNDdRUjlXZE5zRTVoYzRyZHAxWEdLaWZ3VnpCNHF1eENYWlozZ2g2ZXE4czdXUG9FSU9oT0c?oc=5)
-
-2026-08-29
-
-來源：[CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaMHYzWWZpaU5PSnZZOUNJM2dSbXBXVFJkS2ZYNDdRUjlXZE5zRTVoYzRyZHAxWEdLaWZ3VnpCNHF1eENYWlozZ2g2ZXE4czdXUG9FSU9oT0c?oc=5)
 
 ---
 
