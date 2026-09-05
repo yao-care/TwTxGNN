@@ -14,7 +14,7 @@ permalink: /news/docetaxel/
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Docetaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/docetaxel/
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
-
-### [肥胖成致癌危险因子仅次吸烟！ | 肥胖 | 糖尿病 | 心血管疾病| 癌症](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oWUlYRVBxMVFGc09KRjFuV1NnUG1pb2pxUGd5SXRNdFVEd2g1YnRxckRBWUU1eGk4bHZfdjZJazBoSHc3dUlwdkp3WDNWbUVu?oc=5)
-
-2026-09-04 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
-
-來源：[soundofhope.org](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oWUlYRVBxMVFGc09KRjFuV1NnUG1pb2pxUGd5SXRNdFVEd2g1YnRxckRBWUU1eGk4bHZfdjZJazBoSHc3dUlwdkp3WDNWbUVu?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [乳癌竟能利用免疫細胞招來神經，幫助腫瘤生長 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oS1VuZW9pTUVqVGJQY1hrSnhXa29JNnlOR2o4dE1CYTZOc2pmTHYwSDgtdjBuNWFDUHhiR3JqRm5uN2M4bUNPalhYMy1LVUIxWnI1STVB?oc=5)
 
@@ -64,7 +56,7 @@ permalink: /news/docetaxel/
 
 2026-09-04 <span class="news-indication-tag">癌症</span>
 
-來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
+來源：[news.ttv.com.tw](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
 
 ---
 
@@ -81,14 +73,6 @@ permalink: /news/docetaxel/
 2026-09-03 <span class="news-indication-tag">乳癌</span>
 
 來源：[香港01](https://news.google.com/rss/articles/CBMiogNBVV95cUxOMGFpVG1KS2o1TDZ0aVNBWUZpd3gxQWd3YnJoTXYzY0RxOXRZWXExYTZDVkYyY240UGl2dHB6V3NyMDg1RVNEV0tZOUc2MnZRREowdzktSVVlbUJSX3NCbDRpNXhqTDVoOUdhMFVEczNIZ3FrTXY5MkxrWG9yRXZsNmNnb0kxdDV6N1dpWmRtVzNUMHlqMTA4MWdyTkJpLUxXNlZpc1JRUVduX2VGM0M3MUFod3VJcnRoVW5weVdqNlJHLUVIS2phZEhKRC1ZMGtjOU1ZNzdmcXpweVZNd2NuN1BfOVVJRGFvNnExSXJZamI0NXNhVW5wVkJqRXl1Wkl5LWJrYkNELVdpWkoxcjYydTVRNzE0T0MtR2dlOG4zZGNNMFZxM3VLWlV0MnBUejNJS2lEWi15LTJzbFI3U3Vmd09CdHdIR0lfZ2ltNEpvOWlPLWRTVy05X2c5YU5BWi10RERaM2ZUNlo5cGFnSDY1RGhzVjhCcEg2VElxYVo4ZWNCZTVtbHh5UGdSSnRuQ1hhU3dVZ2l1cml4Nk5sOUF1OFF3?oc=5)
-
----
-
-### [腦腫瘤｜ 40歲5孩之母遭誤診肌腱炎 癲癇發作昏迷終確診末期腦癌 腳部現1徵兆要留心](https://news.google.com/rss/articles/CBMilwRBVV95cUxPemlzOFZUQmkwQlR2Uk5FemhGZ1R4VlZsaGpVSnJIM044c3d5ZnNBUC1pX1dZLVRLT1FUUkxZbDl3dzZMUjQ0YldLZDFjSmRWb1VEa0k1TzBlbkVYdXJyTFlGZTk3dG5MLUd2dEt3RERrUXBnX0p4OVVQeUZRdlVIOEZaajM3WTA3emZONUVXQU4xRkM3UmpqalNta2hoNURCaEdIZXdPTnhMMHZQbDExSmsxeWNDTWdEWE5iTDJ4Y3d5UGhoRFRhUExJYXoyNlRvVnd1QWh1aXFSSF9JOHp0NHBDMmlsQlRYcmI1LVZFXy1VZWRpTGJlcmVzVEV5ZnhRY0dNbl9VRmRqZzRhNkVEaEVwalFSN2VwSWtmSGJ6NDFSTGk0Mnk4c2NHeUQya3pFLWQycFMwQmo5aDBWM2FEQVBadXd3Tjdab1EtRFE4OG5EbTFiWDZKWExlWEtXb2ttR1BOd1ZuNUVtTUtIZ3lxRjFwRzdNTTFaYTFGeEZyMlRiZTJ5ZS1vcUdONmhKNldEYm82Nzc2MGNiaFo2blQwMXdfdG5aVnlBMkhCM1pmeXpNYmo5VFh3aTlOZVJpWVpGLTAtS2ltaWo1eFBkMEdNbmlsQUhwUFRjbWZlUW96VWVtRGNxY0twSGRnOW1IM19KM0IzSGpwMEpJemNMcWQ1VlV3SUNNbnd0VkNRVE40SHJmUEtIMXpJ?oc=5)
-
-2026-09-02 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">癲癇</span>
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMilwRBVV95cUxPemlzOFZUQmkwQlR2Uk5FemhGZ1R4VlZsaGpVSnJIM044c3d5ZnNBUC1pX1dZLVRLT1FUUkxZbDl3dzZMUjQ0YldLZDFjSmRWb1VEa0k1TzBlbkVYdXJyTFlGZTk3dG5MLUd2dEt3RERrUXBnX0p4OVVQeUZRdlVIOEZaajM3WTA3emZONUVXQU4xRkM3UmpqalNta2hoNURCaEdIZXdPTnhMMHZQbDExSmsxeWNDTWdEWE5iTDJ4Y3d5UGhoRFRhUExJYXoyNlRvVnd1QWh1aXFSSF9JOHp0NHBDMmlsQlRYcmI1LVZFXy1VZWRpTGJlcmVzVEV5ZnhRY0dNbl9VRmRqZzRhNkVEaEVwalFSN2VwSWtmSGJ6NDFSTGk0Mnk4c2NHeUQya3pFLWQycFMwQmo5aDBWM2FEQVBadXd3Tjdab1EtRFE4OG5EbTFiWDZKWExlWEtXb2ttR1BOd1ZuNUVtTUtIZ3lxRjFwRzdNTTFaYTFGeEZyMlRiZTJ5ZS1vcUdONmhKNldEYm82Nzc2MGNiaFo2blQwMXdfdG5aVnlBMkhCM1pmeXpNYmo5VFh3aTlOZVJpWVpGLTAtS2ltaWo1eFBkMEdNbmlsQUhwUFRjbWZlUW96VWVtRGNxY0twSGRnOW1IM19KM0IzSGpwMEpJemNMcWQ1VlV3SUNNbnd0VkNRVE40SHJmUEtIMXpJ?oc=5)
 
 ---
 

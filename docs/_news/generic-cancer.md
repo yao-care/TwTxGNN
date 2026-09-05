@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "癌症（generic_cancer） 相關新聞"
+title: "腫瘤（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。6 則新聞、47 個相關藥物。"
+description: "腫瘤（generic_cancer） 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
-# 癌症（generic_cancer） 相關新聞
+# 腫瘤（generic_cancer） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>6 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="腫瘤（generic_cancer） 有什麼相關新聞？">
+<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「癌症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「腫瘤」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,15 +75,7 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（6 則）
-
-### [肥胖成致癌危险因子仅次吸烟！ | 肥胖 | 糖尿病 | 心血管疾病| 癌症](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oWUlYRVBxMVFGc09KRjFuV1NnUG1pb2pxUGd5SXRNdFVEd2g1YnRxckRBWUU1eGk4bHZfdjZJazBoSHc3dUlwdkp3WDNWbUVu?oc=5)
-
-2026-09-04
-
-來源：[soundofhope.org](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oWUlYRVBxMVFGc09KRjFuV1NnUG1pb2pxUGd5SXRNdFVEd2g1YnRxckRBWUU1eGk4bHZfdjZJazBoSHc3dUlwdkp3WDNWbUVu?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [乳癌竟能利用免疫細胞招來神經，幫助腫瘤生長 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oS1VuZW9pTUVqVGJQY1hrSnhXa29JNnlOR2o4dE1CYTZOc2pmTHYwSDgtdjBuNWFDUHhiR3JqRm5uN2M4bUNPalhYMy1LVUIxWnI1STVB?oc=5)
 
@@ -97,7 +89,7 @@ permalink: /news/generic-cancer/
 
 2026-09-04
 
-來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
+來源：[news.ttv.com.tw](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
 
 ---
 
@@ -106,14 +98,6 @@ permalink: /news/generic-cancer/
 2026-09-03
 
 來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5)
-
----
-
-### [腦腫瘤｜ 40歲5孩之母遭誤診肌腱炎 癲癇發作昏迷終確診末期腦癌 腳部現1徵兆要留心](https://news.google.com/rss/articles/CBMilwRBVV95cUxPemlzOFZUQmkwQlR2Uk5FemhGZ1R4VlZsaGpVSnJIM044c3d5ZnNBUC1pX1dZLVRLT1FUUkxZbDl3dzZMUjQ0YldLZDFjSmRWb1VEa0k1TzBlbkVYdXJyTFlGZTk3dG5MLUd2dEt3RERrUXBnX0p4OVVQeUZRdlVIOEZaajM3WTA3emZONUVXQU4xRkM3UmpqalNta2hoNURCaEdIZXdPTnhMMHZQbDExSmsxeWNDTWdEWE5iTDJ4Y3d5UGhoRFRhUExJYXoyNlRvVnd1QWh1aXFSSF9JOHp0NHBDMmlsQlRYcmI1LVZFXy1VZWRpTGJlcmVzVEV5ZnhRY0dNbl9VRmRqZzRhNkVEaEVwalFSN2VwSWtmSGJ6NDFSTGk0Mnk4c2NHeUQya3pFLWQycFMwQmo5aDBWM2FEQVBadXd3Tjdab1EtRFE4OG5EbTFiWDZKWExlWEtXb2ttR1BOd1ZuNUVtTUtIZ3lxRjFwRzdNTTFaYTFGeEZyMlRiZTJ5ZS1vcUdONmhKNldEYm82Nzc2MGNiaFo2blQwMXdfdG5aVnlBMkhCM1pmeXpNYmo5VFh3aTlOZVJpWVpGLTAtS2ltaWo1eFBkMEdNbmlsQUhwUFRjbWZlUW96VWVtRGNxY0twSGRnOW1IM19KM0IzSGpwMEpJemNMcWQ1VlV3SUNNbnd0VkNRVE40SHJmUEtIMXpJ?oc=5)
-
-2026-09-02
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMilwRBVV95cUxPemlzOFZUQmkwQlR2Uk5FemhGZ1R4VlZsaGpVSnJIM044c3d5ZnNBUC1pX1dZLVRLT1FUUkxZbDl3dzZMUjQ0YldLZDFjSmRWb1VEa0k1TzBlbkVYdXJyTFlGZTk3dG5MLUd2dEt3RERrUXBnX0p4OVVQeUZRdlVIOEZaajM3WTA3emZONUVXQU4xRkM3UmpqalNta2hoNURCaEdIZXdPTnhMMHZQbDExSmsxeWNDTWdEWE5iTDJ4Y3d5UGhoRFRhUExJYXoyNlRvVnd1QWh1aXFSSF9JOHp0NHBDMmlsQlRYcmI1LVZFXy1VZWRpTGJlcmVzVEV5ZnhRY0dNbl9VRmRqZzRhNkVEaEVwalFSN2VwSWtmSGJ6NDFSTGk0Mnk4c2NHeUQya3pFLWQycFMwQmo5aDBWM2FEQVBadXd3Tjdab1EtRFE4OG5EbTFiWDZKWExlWEtXb2ttR1BOd1ZuNUVtTUtIZ3lxRjFwRzdNTTFaYTFGeEZyMlRiZTJ5ZS1vcUdONmhKNldEYm82Nzc2MGNiaFo2blQwMXdfdG5aVnlBMkhCM1pmeXpNYmo5VFh3aTlOZVJpWVpGLTAtS2ltaWo1eFBkMEdNbmlsQUhwUFRjbWZlUW96VWVtRGNxY0twSGRnOW1IM19KM0IzSGpwMEpJemNMcWQ1VlV3SUNNbnd0VkNRVE40SHJmUEtIMXpJ?oc=5)
 
 ---
 
