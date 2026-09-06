@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [HPV疫苗︱專家倡資助男童接種 指口咽癌個案20年增近四成 扁桃腺癌比例升三倍](https://news.google.com/rss/articles/CBMi5gNBVV95cUxPTHVDWjBKXzdKUXZpeTFGeEs5TG5MNnlxU2V2RUlkVGFGNjVZS1F4OUFDeXJxbjVaZ3k2ZzJBdFlXLUtBMjR3aTJkSVNyc0s2amV5Q1A3QlpTOERBVVQwdmxPdE0tUXJnZndZU25qOEIycVV2Z2E3VkR1WWRQV2JxbkdLQjVXM21QZDBrWnc1cTBHa25nazNNSEx4dUhmSmVlUWxpelVDQl96eDBQY0N0SEp0UlJ3RWs3U1BSWkF3VDhfTm9DWkkxMUFUSFJyRFdlZGhNYXlwSERQaW9PMjZLdWZhUXMweGpVRXcxNjRKQXRvRjBWdTBmSFhuZ0RNVnJVMTJRUGQ3ZGNHT2lUam0yWWlzS3AyUnd0T3E0MGJLWVFvZDdJQmM4TzktYVpQWnBkUndaX1RTQTJyTlNESWs5OWpJejcxOS1zY0E4aTV6aERldjdaXzJYNWJjaXNqdzJSTVduTzdza3dtQUJEWk5nZ2JmcmNoaHhxTVdwWHB4UWNHZGVGWFFfMHlzSHAteFAyMEphTVo4bXEybWJwZWNJYmRmTzRNYzZBQ3VteXo0OFN6SXJSMUs0eGt3bDhtMGh3aVBTR0R2VUpMMjl0UFRzNFhKU01wdmltd3VsblhxWUpxX2RLeUE?oc=5)
+
+2026-09-06 <span class="news-indication-tag">癌症</span>
+
+來源：[singtao.ca](https://news.google.com/rss/articles/CBMi5gNBVV95cUxPTHVDWjBKXzdKUXZpeTFGeEs5TG5MNnlxU2V2RUlkVGFGNjVZS1F4OUFDeXJxbjVaZ3k2ZzJBdFlXLUtBMjR3aTJkSVNyc0s2amV5Q1A3QlpTOERBVVQwdmxPdE0tUXJnZndZU25qOEIycVV2Z2E3VkR1WWRQV2JxbkdLQjVXM21QZDBrWnc1cTBHa25nazNNSEx4dUhmSmVlUWxpelVDQl96eDBQY0N0SEp0UlJ3RWs3U1BSWkF3VDhfTm9DWkkxMUFUSFJyRFdlZGhNYXlwSERQaW9PMjZLdWZhUXMweGpVRXcxNjRKQXRvRjBWdTBmSFhuZ0RNVnJVMTJRUGQ3ZGNHT2lUam0yWWlzS3AyUnd0T3E0MGJLWVFvZDdJQmM4TzktYVpQWnBkUndaX1RTQTJyTlNESWs5OWpJejcxOS1zY0E4aTV6aERldjdaXzJYNWJjaXNqdzJSTVduTzdza3dtQUJEWk5nZ2JmcmNoaHhxTVdwWHB4UWNHZGVGWFFfMHlzSHAteFAyMEphTVo4bXEybWJwZWNJYmRmTzRNYzZBQ3VteXo0OFN6SXJSMUs0eGt3bDhtMGh3aVBTR0R2VUpMMjl0UFRzNFhKU01wdmltd3VsblhxWUpxX2RLeUE?oc=5)
+
+---
 
 ### [菇類也能防癌？研究發現每天吃18克 癌症風險低45％](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
 
@@ -76,11 +84,19 @@ permalink: /news/hydroxyurea/
 
 ---
 
-### [腦腫瘤｜ 40歲5孩之母遭誤診肌腱炎 癲癇發作昏迷終確診末期腦癌 腳部現1徵兆要留心](https://news.google.com/rss/articles/CBMilwRBVV95cUxPemlzOFZUQmkwQlR2Uk5FemhGZ1R4VlZsaGpVSnJIM044c3d5ZnNBUC1pX1dZLVRLT1FUUkxZbDl3dzZMUjQ0YldLZDFjSmRWb1VEa0k1TzBlbkVYdXJyTFlGZTk3dG5MLUd2dEt3RERrUXBnX0p4OVVQeUZRdlVIOEZaajM3WTA3emZONUVXQU4xRkM3UmpqalNta2hoNURCaEdIZXdPTnhMMHZQbDExSmsxeWNDTWdEWE5iTDJ4Y3d5UGhoRFRhUExJYXoyNlRvVnd1QWh1aXFSSF9JOHp0NHBDMmlsQlRYcmI1LVZFXy1VZWRpTGJlcmVzVEV5ZnhRY0dNbl9VRmRqZzRhNkVEaEVwalFSN2VwSWtmSGJ6NDFSTGk0Mnk4c2NHeUQya3pFLWQycFMwQmo5aDBWM2FEQVBadXd3Tjdab1EtRFE4OG5EbTFiWDZKWExlWEtXb2ttR1BOd1ZuNUVtTUtIZ3lxRjFwRzdNTTFaYTFGeEZyMlRiZTJ5ZS1vcUdONmhKNldEYm82Nzc2MGNiaFo2blQwMXdfdG5aVnlBMkhCM1pmeXpNYmo5VFh3aTlOZVJpWVpGLTAtS2ltaWo1eFBkMEdNbmlsQUhwUFRjbWZlUW96VWVtRGNxY0twSGRnOW1IM19KM0IzSGpwMEpJemNMcWQ1VlV3SUNNbnd0VkNRVE40SHJmUEtIMXpJ?oc=5)
+### [大腸癌不一定要開大刀研究新路線先放化療再決定- 醫藥新知- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE10Ulg2b09Ud0dySjY3LXlUeGg0TjNfNUJNLUdMR1NtYjA3bGlyenJobl9ITVJvdFZlRlJPZ3FFeF9VaHJjcVNOY1kwYkIwVjdYWHZKX1YwaXNXLWlrTEhCa3cwYVUwZw?oc=5)
 
-2026-09-02 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">癲癇</span>
+2026-09-01 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMilwRBVV95cUxPemlzOFZUQmkwQlR2Uk5FemhGZ1R4VlZsaGpVSnJIM044c3d5ZnNBUC1pX1dZLVRLT1FUUkxZbDl3dzZMUjQ0YldLZDFjSmRWb1VEa0k1TzBlbkVYdXJyTFlGZTk3dG5MLUd2dEt3RERrUXBnX0p4OVVQeUZRdlVIOEZaajM3WTA3emZONUVXQU4xRkM3UmpqalNta2hoNURCaEdIZXdPTnhMMHZQbDExSmsxeWNDTWdEWE5iTDJ4Y3d5UGhoRFRhUExJYXoyNlRvVnd1QWh1aXFSSF9JOHp0NHBDMmlsQlRYcmI1LVZFXy1VZWRpTGJlcmVzVEV5ZnhRY0dNbl9VRmRqZzRhNkVEaEVwalFSN2VwSWtmSGJ6NDFSTGk0Mnk4c2NHeUQya3pFLWQycFMwQmo5aDBWM2FEQVBadXd3Tjdab1EtRFE4OG5EbTFiWDZKWExlWEtXb2ttR1BOd1ZuNUVtTUtIZ3lxRjFwRzdNTTFaYTFGeEZyMlRiZTJ5ZS1vcUdONmhKNldEYm82Nzc2MGNiaFo2blQwMXdfdG5aVnlBMkhCM1pmeXpNYmo5VFh3aTlOZVJpWVpGLTAtS2ltaWo1eFBkMEdNbmlsQUhwUFRjbWZlUW96VWVtRGNxY0twSGRnOW1IM19KM0IzSGpwMEpJemNMcWQ1VlV3SUNNbnd0VkNRVE40SHJmUEtIMXpJ?oc=5)
+來源：[chinesedaily.com](https://news.google.com/rss/articles/CBMiZkFVX3lxTE10Ulg2b09Ud0dySjY3LXlUeGg0TjNfNUJNLUdMR1NtYjA3bGlyenJobl9ITVJvdFZlRlJPZ3FFeF9VaHJjcVNOY1kwYkIwVjdYWHZKX1YwaXNXLWlrTEhCa3cwYVUwZw?oc=5)
+
+---
+
+### [生活先做對3件事，乳癌復發風險降76%](https://news.google.com/rss/articles/CBMiWEFVX3lxTE95aWo1RjE4YlE4blRJN3RrdmpVZl9keWhPeDF4Yk5sMDlwcTlZMVdqN1F2VGlKTmw5bENvYzl4c1dMSHhIYURFMEpwYTBUNThWcnZQcDZEUUw?oc=5)
+
+2026-08-31 <span class="news-indication-tag">乳癌</span>
+
+來源：[康健雜誌](https://news.google.com/rss/articles/CBMiWEFVX3lxTE95aWo1RjE4YlE4blRJN3RrdmpVZl9keWhPeDF4Yk5sMDlwcTlZMVdqN1F2VGlKTmw5bENvYzl4c1dMSHhIYURFMEpwYTBUNThWcnZQcDZEUUw?oc=5)
 
 ---
 
