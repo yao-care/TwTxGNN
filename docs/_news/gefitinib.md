@@ -47,7 +47,7 @@ permalink: /news/gefitinib/
 
 2026-09-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[epochtimes.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HcDZnemNlMUMxc0h0T3F0MEJvdDNGZUVyYnFISENVS0UtNDlEa2dOZDNUOWk0d01xNDZGZk52aDdCd2xycjZIRDVwM09jbExqeWlyWlVrQWJYcDVrT0I40gFkQVVfeXFMT0hXdG5XS1FlektEUW9QOTcyQTZLYmpxUk5YNEhJNXpjUTJ1T3VZOW9jZTVQeWlfZ3MzcGhTTy1CR1hCSTNETzdjVWRnX29VWW1Fa2ZyX3l5S09EeTR5Skdldl9uRg?oc=5)
+來源：[大纪元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HcDZnemNlMUMxc0h0T3F0MEJvdDNGZUVyYnFISENVS0UtNDlEa2dOZDNUOWk0d01xNDZGZk52aDdCd2xycjZIRDVwM09jbExqeWlyWlVrQWJYcDVrT0I40gFkQVVfeXFMT0hXdG5XS1FlektEUW9QOTcyQTZLYmpxUk5YNEhJNXpjUTJ1T3VZOW9jZTVQeWlfZ3MzcGhTTy1CR1hCSTNETzdjVWRnX29VWW1Fa2ZyX3l5S09EeTR5Skdldl9uRg?oc=5)
 
 ---
 
@@ -79,7 +79,7 @@ permalink: /news/gefitinib/
 
 2026-09-02 <span class="news-indication-tag">失智</span>
 
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GSXpnZGpTaTFLYkc3RUZrOTVOVGtxUEVpM2Z0WE9jOXZUYjhuVW04bWt0bjN1WXVVeC1KSHNiUGp3cm5ZRXJvOWhYamd1MFVoT1R6MDBjSTgyMGstN3fSAWNBVV95cUxQemNLM0Z3T1IxWjlhVUtyVXJlX0MxeXdDTzd3R2g4WjVMc1FKNEFDSzJRQkp1RXJkYTNEa2trYll3YzdSTGo1R1B6LWtvRTAyZXB0T1c3UTB3Q0tURVkySHdnVWM?oc=5)
+來源：[health.udn.com](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GSXpnZGpTaTFLYkc3RUZrOTVOVGtxUEVpM2Z0WE9jOXZUYjhuVW04bWt0bjN1WXVVeC1KSHNiUGp3cm5ZRXJvOWhYamd1MFVoT1R6MDBjSTgyMGstN3fSAWNBVV95cUxQemNLM0Z3T1IxWjlhVUtyVXJlX0MxeXdDTzd3R2g4WjVMc1FKNEFDSzJRQkp1RXJkYTNEa2trYll3YzdSTGo1R1B6LWtvRTAyZXB0T1c3UTB3Q0tURVkySHdnVWM?oc=5)
 
 ---
 
@@ -95,7 +95,7 @@ permalink: /news/gefitinib/
 
 2026-08-31 <span class="news-indication-tag">失智</span>
 
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wN1BaV3dFZFpwcjAtQ0phc3RnNEVCVkU5ZmdMcmRvTjAwa24zVGFFTUNIQ0RKRUp0Y2I2cTk4dC0ydnp1cUdGNGpTdzdtRE5tQ2xLd3Y2RnFzTGQwdmfSAWNBVV95cUxQazhyc2JlTklxRUxLUjZXc2ZUTGhGMG9uNWEwalh1NGtVUUNiWngwVm1FZUJPUG52ZnpXX2l5eHFORl84SVoyUmx1ZFhraHNmS0VqNXdZQVVOUG1KVWRILW55cU0?oc=5)
+來源：[health.udn.com](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wN1BaV3dFZFpwcjAtQ0phc3RnNEVCVkU5ZmdMcmRvTjAwa24zVGFFTUNIQ0RKRUp0Y2I2cTk4dC0ydnp1cUdGNGpTdzdtRE5tQ2xLd3Y2RnFzTGQwdmfSAWNBVV95cUxQazhyc2JlTklxRUxLUjZXc2ZUTGhGMG9uNWEwalh1NGtVUUNiWngwVm1FZUJPUG52ZnpXX2l5eHFORl84SVoyUmx1ZFhraHNmS0VqNXdZQVVOUG1KVWRILW55cU0?oc=5)
 
 ---
 
