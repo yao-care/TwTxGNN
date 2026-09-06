@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [健康網》研究：「鋰」可能預防失智 如何應用仍待努力](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yX1ItNmwtLTFPdVhGel84WXVneDUyNm1yMzRTQXFucXRjQWJlMEJNTGE5R0Q1dW9XQm8wNzdXXzVrUVBzOWZUN0dWeWJRcFRqUHRmOGZiN2ZSMDgxREhhUTRCZm3SAWpBVV95cUxPYjFFRjd1SXMtdG1YLU9uQm0yNnJfalh5c25iQXN1NEoyOHpjV2h4Mmh5Z0xhNmJhaUZnS3RjYmJWZWVUX2p1MHdYUS1rZUtPWTJnVEhpNnZCWEh4Smw1VDQwaENXdTVXOGxB?oc=5)
 
 2026-09-05 <span class="news-indication-tag">失智</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yX1ItNmwtLTFPdVhGel84WXVneDUyNm1yMzRTQXFucXRjQWJlMEJNTGE5R0Q1dW9XQm8wNzdXXzVrUVBzOWZUN0dWeWJRcFRqUHRmOGZiN2ZSMDgxREhhUTRCZm3SAWpBVV95cUxPYjFFRjd1SXMtdG1YLU9uQm0yNnJfalh5c25iQXN1NEoyOHpjV2h4Mmh5Z0xhNmJhaUZnS3RjYmJWZWVUX2p1MHdYUS1rZUtPWTJnVEhpNnZCWEh4Smw1VDQwaENXdTVXOGxB?oc=5)
+來源：[health.ltn.com.tw](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yX1ItNmwtLTFPdVhGel84WXVneDUyNm1yMzRTQXFucXRjQWJlMEJNTGE5R0Q1dW9XQm8wNzdXXzVrUVBzOWZUN0dWeWJRcFRqUHRmOGZiN2ZSMDgxREhhUTRCZm3SAWpBVV95cUxPYjFFRjd1SXMtdG1YLU9uQm0yNnJfalh5c25iQXN1NEoyOHpjV2h4Mmh5Z0xhNmJhaUZnS3RjYmJWZWVUX2p1MHdYUS1rZUtPWTJnVEhpNnZCWEh4Smw1VDQwaENXdTVXOGxB?oc=5)
 
 ---
 
@@ -63,7 +63,7 @@ permalink: /news/gefitinib/
 
 2026-09-04 <span class="news-indication-tag">癌症</span>
 
-來源：[news.ttv.com.tw](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
+來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
 
 ---
 
@@ -96,14 +96,6 @@ permalink: /news/gefitinib/
 2026-08-31 <span class="news-indication-tag">失智</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1MSG1CZlFvNnNHd3lBOERBdHhILTB3bHM5RzRVbEx4YXlNaEVwZl90ME1tTlFxTmxpcVJLVWRLLXhnWlpyOUhYZHc5d0MxSTZvRWhqaVlZZDRqVDZWaGxrQXVWdno4ZjVRTEQyMXd3?oc=5)
-
----
-
-### [東亞第一推HPV疫苗男女公費接種 首年男生接種率突破81.6%](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JR00yTjFqQ0RxYzVJY042UGdYR000eUp2WjZ6SW9uVjdEaHI1ZlhhN051NEl6VTFwUXFMc0ZDaEdmOEJSNURvMGk4dE5iZUtaZFpqZHl3?oc=5)
-
-2026-08-31 <span class="news-indication-tag">癌症</span>
-
-來源：[healthnews.com.tw](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JR00yTjFqQ0RxYzVJY042UGdYR000eUp2WjZ6SW9uVjdEaHI1ZlhhN051NEl6VTFwUXFMc0ZDaEdmOEJSNURvMGk4dE5iZUtaZFpqZHl3?oc=5)
 
 ---
 

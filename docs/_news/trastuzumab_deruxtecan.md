@@ -14,7 +14,7 @@ permalink: /news/trastuzumab_deruxtecan/
 ---
 
 <p class="key-answer" data-question="Trastuzumab deruxtecan 有什麼相關新聞？">
-<strong>Trastuzumab deruxtecan</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Trastuzumab deruxtecan</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,9 +33,15 @@ permalink: /news/trastuzumab_deruxtecan/
 <p><a href="{{ '/drugs/trastuzumab_deruxtecan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [男沒胃痛一督進去「壞東西」現形 9成胃癌都是這病菌害的- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE5BV3NQRThKZ09SNlZEQkhSdzVFOEZHUFFXdWE2X0Jya2VOV2ZrS3NPaV9TM1pBbjFoRENkeXk3bGR0WUU1N2Rsckt0QUdTN21YNDYzeW1lbjN1Q1JWSVNDV21CVFE4aDVFU3E3dVd3?oc=5)
+
+2026-09-06 <span class="news-indication-tag">胃癌</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5BV3NQRThKZ09SNlZEQkhSdzVFOEZHUFFXdWE2X0Jya2VOV2ZrS3NPaV9TM1pBbjFoRENkeXk3bGR0WUU1N2Rsckt0QUdTN21YNDYzeW1lbjN1Q1JWSVNDV21CVFE4aDVFU3E3dVd3?oc=5)
+
+---
 
 
 <div class="disclaimer">
