@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
 
-### [HPV疫苗︱專家倡資助男童接種 指口咽癌個案20年增近四成 扁桃腺癌比例升三倍](https://news.google.com/rss/articles/CBMi5gNBVV95cUxPTHVDWjBKXzdKUXZpeTFGeEs5TG5MNnlxU2V2RUlkVGFGNjVZS1F4OUFDeXJxbjVaZ3k2ZzJBdFlXLUtBMjR3aTJkSVNyc0s2amV5Q1A3QlpTOERBVVQwdmxPdE0tUXJnZndZU25qOEIycVV2Z2E3VkR1WWRQV2JxbkdLQjVXM21QZDBrWnc1cTBHa25nazNNSEx4dUhmSmVlUWxpelVDQl96eDBQY0N0SEp0UlJ3RWs3U1BSWkF3VDhfTm9DWkkxMUFUSFJyRFdlZGhNYXlwSERQaW9PMjZLdWZhUXMweGpVRXcxNjRKQXRvRjBWdTBmSFhuZ0RNVnJVMTJRUGQ3ZGNHT2lUam0yWWlzS3AyUnd0T3E0MGJLWVFvZDdJQmM4TzktYVpQWnBkUndaX1RTQTJyTlNESWs5OWpJejcxOS1zY0E4aTV6aERldjdaXzJYNWJjaXNqdzJSTVduTzdza3dtQUJEWk5nZ2JmcmNoaHhxTVdwWHB4UWNHZGVGWFFfMHlzSHAteFAyMEphTVo4bXEybWJwZWNJYmRmTzRNYzZBQ3VteXo0OFN6SXJSMUs0eGt3bDhtMGh3aVBTR0R2VUpMMjl0UFRzNFhKU01wdmltd3VsblhxWUpxX2RLeUE?oc=5)
+### [50歲以下最致命癌症 大腸癌死亡率衝上榜首](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HcDZnemNlMUMxc0h0T3F0MEJvdDNGZUVyYnFISENVS0UtNDlEa2dOZDNUOWk0d01xNDZGZk52aDdCd2xycjZIRDVwM09jbExqeWlyWlVrQWJYcDVrT0I40gFkQVVfeXFMT0hXdG5XS1FlektEUW9QOTcyQTZLYmpxUk5YNEhJNXpjUTJ1T3VZOW9jZTVQeWlfZ3MzcGhTTy1CR1hCSTNETzdjVWRnX29VWW1Fa2ZyX3l5S09EeTR5Skdldl9uRg?oc=5)
 
-2026-09-06 <span class="news-indication-tag">癌症</span>
+2026-09-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[singtao.ca](https://news.google.com/rss/articles/CBMi5gNBVV95cUxPTHVDWjBKXzdKUXZpeTFGeEs5TG5MNnlxU2V2RUlkVGFGNjVZS1F4OUFDeXJxbjVaZ3k2ZzJBdFlXLUtBMjR3aTJkSVNyc0s2amV5Q1A3QlpTOERBVVQwdmxPdE0tUXJnZndZU25qOEIycVV2Z2E3VkR1WWRQV2JxbkdLQjVXM21QZDBrWnc1cTBHa25nazNNSEx4dUhmSmVlUWxpelVDQl96eDBQY0N0SEp0UlJ3RWs3U1BSWkF3VDhfTm9DWkkxMUFUSFJyRFdlZGhNYXlwSERQaW9PMjZLdWZhUXMweGpVRXcxNjRKQXRvRjBWdTBmSFhuZ0RNVnJVMTJRUGQ3ZGNHT2lUam0yWWlzS3AyUnd0T3E0MGJLWVFvZDdJQmM4TzktYVpQWnBkUndaX1RTQTJyTlNESWs5OWpJejcxOS1zY0E4aTV6aERldjdaXzJYNWJjaXNqdzJSTVduTzdza3dtQUJEWk5nZ2JmcmNoaHhxTVdwWHB4UWNHZGVGWFFfMHlzSHAteFAyMEphTVo4bXEybWJwZWNJYmRmTzRNYzZBQ3VteXo0OFN6SXJSMUs0eGt3bDhtMGh3aVBTR0R2VUpMMjl0UFRzNFhKU01wdmltd3VsblhxWUpxX2RLeUE?oc=5)
+來源：[大纪元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HcDZnemNlMUMxc0h0T3F0MEJvdDNGZUVyYnFISENVS0UtNDlEa2dOZDNUOWk0d01xNDZGZk52aDdCd2xycjZIRDVwM09jbExqeWlyWlVrQWJYcDVrT0I40gFkQVVfeXFMT0hXdG5XS1FlektEUW9QOTcyQTZLYmpxUk5YNEhJNXpjUTJ1T3VZOW9jZTVQeWlfZ3MzcGhTTy1CR1hCSTNETzdjVWRnX29VWW1Fa2ZyX3l5S09EeTR5Skdldl9uRg?oc=5)
 
 ---
 
@@ -91,6 +91,14 @@ permalink: /news/gefitinib/
 
 ---
 
+### [腦腫瘤｜ 40歲5孩之母遭誤診肌腱炎 癲癇發作昏迷終確診末期腦癌 腳部現1徵兆要留心](https://news.google.com/rss/articles/CBMilwRBVV95cUxPemlzOFZUQmkwQlR2Uk5FemhGZ1R4VlZsaGpVSnJIM044c3d5ZnNBUC1pX1dZLVRLT1FUUkxZbDl3dzZMUjQ0YldLZDFjSmRWb1VEa0k1TzBlbkVYdXJyTFlGZTk3dG5MLUd2dEt3RERrUXBnX0p4OVVQeUZRdlVIOEZaajM3WTA3emZONUVXQU4xRkM3UmpqalNta2hoNURCaEdIZXdPTnhMMHZQbDExSmsxeWNDTWdEWE5iTDJ4Y3d5UGhoRFRhUExJYXoyNlRvVnd1QWh1aXFSSF9JOHp0NHBDMmlsQlRYcmI1LVZFXy1VZWRpTGJlcmVzVEV5ZnhRY0dNbl9VRmRqZzRhNkVEaEVwalFSN2VwSWtmSGJ6NDFSTGk0Mnk4c2NHeUQya3pFLWQycFMwQmo5aDBWM2FEQVBadXd3Tjdab1EtRFE4OG5EbTFiWDZKWExlWEtXb2ttR1BOd1ZuNUVtTUtIZ3lxRjFwRzdNTTFaYTFGeEZyMlRiZTJ5ZS1vcUdONmhKNldEYm82Nzc2MGNiaFo2blQwMXdfdG5aVnlBMkhCM1pmeXpNYmo5VFh3aTlOZVJpWVpGLTAtS2ltaWo1eFBkMEdNbmlsQUhwUFRjbWZlUW96VWVtRGNxY0twSGRnOW1IM19KM0IzSGpwMEpJemNMcWQ1VlV3SUNNbnd0VkNRVE40SHJmUEtIMXpJ?oc=5)
+
+2026-09-02 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">癲癇</span>
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMilwRBVV95cUxPemlzOFZUQmkwQlR2Uk5FemhGZ1R4VlZsaGpVSnJIM044c3d5ZnNBUC1pX1dZLVRLT1FUUkxZbDl3dzZMUjQ0YldLZDFjSmRWb1VEa0k1TzBlbkVYdXJyTFlGZTk3dG5MLUd2dEt3RERrUXBnX0p4OVVQeUZRdlVIOEZaajM3WTA3emZONUVXQU4xRkM3UmpqalNta2hoNURCaEdIZXdPTnhMMHZQbDExSmsxeWNDTWdEWE5iTDJ4Y3d5UGhoRFRhUExJYXoyNlRvVnd1QWh1aXFSSF9JOHp0NHBDMmlsQlRYcmI1LVZFXy1VZWRpTGJlcmVzVEV5ZnhRY0dNbl9VRmRqZzRhNkVEaEVwalFSN2VwSWtmSGJ6NDFSTGk0Mnk4c2NHeUQya3pFLWQycFMwQmo5aDBWM2FEQVBadXd3Tjdab1EtRFE4OG5EbTFiWDZKWExlWEtXb2ttR1BOd1ZuNUVtTUtIZ3lxRjFwRzdNTTFaYTFGeEZyMlRiZTJ5ZS1vcUdONmhKNldEYm82Nzc2MGNiaFo2blQwMXdfdG5aVnlBMkhCM1pmeXpNYmo5VFh3aTlOZVJpWVpGLTAtS2ltaWo1eFBkMEdNbmlsQUhwUFRjbWZlUW96VWVtRGNxY0twSGRnOW1IM19KM0IzSGpwMEpJemNMcWQ1VlV3SUNNbnd0VkNRVE40SHJmUEtIMXpJ?oc=5)
+
+---
+
 ### [晚年能否穩定吃飽竟與失智有關？研究追蹤2051人揭關鍵時期](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wN1BaV3dFZFpwcjAtQ0phc3RnNEVCVkU5ZmdMcmRvTjAwa24zVGFFTUNIQ0RKRUp0Y2I2cTk4dC0ydnp1cUdGNGpTdzdtRE5tQ2xLd3Y2RnFzTGQwdmfSAWNBVV95cUxQazhyc2JlTklxRUxLUjZXc2ZUTGhGMG9uNWEwalh1NGtVUUNiWngwVm1FZUJPUG52ZnpXX2l5eHFORl84SVoyUmx1ZFhraHNmS0VqNXdZQVVOUG1KVWRILW55cU0?oc=5)
 
 2026-08-31 <span class="news-indication-tag">失智</span>
@@ -104,22 +112,6 @@ permalink: /news/gefitinib/
 2026-08-31 <span class="news-indication-tag">失智</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1MSG1CZlFvNnNHd3lBOERBdHhILTB3bHM5RzRVbEx4YXlNaEVwZl90ME1tTlFxTmxpcVJLVWRLLXhnWlpyOUhYZHc5d0MxSTZvRWhqaVlZZDRqVDZWaGxrQXVWdno4ZjVRTEQyMXd3?oc=5)
-
----
-
-### [中年夜間頻繁微覺醒 恐與高「阿茲海默症」遺傳風險有關 - 科技新聞 - PChome Online 新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMijAFBVV95cUxQOUdVZXBxWTBGbFdSdWh2ZzZQejZHRm9HNWlLcXd1R2ZtYVNJaFdtajNWbXVuUUdqVkJSbnh3Q2Nzak5VcktFS3BLMTFseU9yNlhEWkZRX012Z2FvdV9TUUl6cFdER1NqYlBYc1dleUdCMXZnNG01TWpvMTlvMVRCMGdETy1heFhWQkJoMQ?oc=5)
-
-2026-08-31 <span class="news-indication-tag">阿茲海默症</span>
-
-來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMijAFBVV95cUxQOUdVZXBxWTBGbFdSdWh2ZzZQejZHRm9HNWlLcXd1R2ZtYVNJaFdtajNWbXVuUUdqVkJSbnh3Q2Nzak5VcktFS3BLMTFseU9yNlhEWkZRX012Z2FvdV9TUUl6cFdER1NqYlBYc1dleUdCMXZnNG01TWpvMTlvMVRCMGdETy1heFhWQkJoMQ?oc=5)
-
----
-
-### [《阿茲海默症》阿茲海默症致病蛋白質恐經輸血傳播？英國專家籲防患未然，加緊研發輸血致病蛋白質篩檢技術- 生技投資第一站](https://news.google.com/rss/articles/CBMibEFVX3lxTE9XRGU5VHRsUE0tRjhBb1E0MXppUE5kVV9EcnZqOUdrbFdfV0wtNXlldlBJWHl4UktvVmhUSDhWYnB1emxxN2xja1dWZWhONVhxYzJ6YmVoRHlUMFdqT0gyTGxrNzhZQU9EQmpfUg?oc=5)
-
-2026-08-30 <span class="news-indication-tag">阿茲海默症</span>
-
-來源：[genetinfo.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE9XRGU5VHRsUE0tRjhBb1E0MXppUE5kVV9EcnZqOUdrbFdfV0wtNXlldlBJWHl4UktvVmhUSDhWYnB1emxxN2xja1dWZWhONVhxYzJ6YmVoRHlUMFdqT0gyTGxrNzhZQU9EQmpfUg?oc=5)
 
 ---
 
