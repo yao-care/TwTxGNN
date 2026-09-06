@@ -1,40 +1,49 @@
 {
-  "last_updated": "2026-09-06T05:20:04.727836+00:00",
-  "total_count": 36,
+  "last_updated": "2026-09-06T09:56:29.649637+00:00",
+  "total_count": 38,
   "matched_count": 15,
   "news": [
     {
-      "id": "c09fe801e884",
-      "title": "男沒胃痛一督進去「壞東西」現形 9成胃癌都是這病菌害的- 健康",
-      "published": "2026-09-06T01:38:53+00:00",
-      "summary": "男沒胃痛一督進去「壞東西」現形 9成胃癌都是這病菌害的- 健康&nbsp;&nbsp;中時新聞網",
+      "id": "579b6f9d2e17",
+      "title": "研究：激素動態監測或有助識別一種常見高血壓病因- 國際",
+      "published": "2026-09-06T07:26:51+00:00",
+      "summary": "研究：激素動態監測或有助識別一種常見高血壓病因- 國際&nbsp;&nbsp;香港文匯報",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BV3NQRThKZ09SNlZEQkhSdzVFOEZHUFFXdWE2X0Jya2VOV2ZrS3NPaV9TM1pBbjFoRENkeXk3bGR0WUU1N2Rsckt0QUdTN21YNDYzeW1lbjN1Q1JWSVNDV21CVFE4aDVFU3E3dVd3?oc=5"
+          "name": "香港文匯報",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MRzZvT0ZWUUhKTHRhbktxd3phMHVlQ3Blczk5RG9pOXNNY2VESV9qMVhlQ3VEbWlUcWFfdV9TeXVnaF9GWkpYTkRxV1NYS2xuNmFjWVo2Mzg4RldYWnM2OTA3Q2hxa1VLaTZ5TV9oLWxEamJDaFJv?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "胃癌",
-          "keyword": "胃癌",
+          "name": "高血壓",
+          "keyword": "高血壓",
           "related_drugs": [
             {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
+              "slug": "acebutolol",
+              "name": "Acebutolol"
             },
             {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "trastuzumab_deruxtecan",
-              "name": "Trastuzumab deruxtecan"
+              "slug": "metoprolol",
+              "name": "Metoprolol"
             }
           ]
         }
       ]
+    },
+    {
+      "id": "6e9d284710ad",
+      "title": "全家都得糖尿病！醫一看菜單秒懂：罹病率100％",
+      "published": "2026-09-06T06:41:46+00:00",
+      "summary": "全家都得糖尿病！醫一看菜單秒懂：罹病率100％&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPdmhVWnIwMDBZMzRodFN3eGdHbEZfVGhGVmo5TUc0SU45aDRob2p4c1BBQXIzb0JsY29WZjZtTGVLUS1YRDEyTjFjdzhyWjlyanhqbTVPV2c0bFFmc3lvbU51M0VtM1BhOXJXMFB3?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "34ca3582041b",
@@ -75,13 +84,13 @@
       ]
     },
     {
-      "id": "1f4a238c4457",
+      "id": "31d6cd2985a2",
       "title": "6旬男PSA異常 正子掃描揪攝護腺癌",
       "published": "2026-09-05T20:10:00+00:00",
-      "summary": "6旬男PSA異常 正子掃描揪攝護腺癌&nbsp;&nbsp;Yahoo新聞",
+      "summary": "6旬男PSA異常 正子掃描揪攝護腺癌&nbsp;&nbsp;tw.news.yahoo.com",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbUM0WmxaYm9WMmZkUjhBNkdPMVVGMmx1TWFjdzZwV3NtQnFWLVB2ZW5TX0ZubzZlSFowZklhWlc3ejd2WXV0UUZ2WUkxQjhtaW9acEh4YWc0ZE9QbkxyUWtJOE4yUGtjaW51TGNZdzVqTGZNNlg0d0RiZjN6TUVLeWFJT0dQLVhYbDVjRnZmLVZRWFBmQTJCOXlWbXZEcC1haThQYU5ERnJQTXhDQlZYdERNejJxQnNkdW1OajVUTkVwWHhWY3NITVkzT2pZWmlRT2Q2bXZxendtOVpwTWZuYWpGUVZ3Vk1YbVp5bTR5TWlGRV8tX2c?oc=5"
         }
       ],
@@ -101,13 +110,13 @@
       "matched_keywords": []
     },
     {
-      "id": "0c4cdf03700f",
+      "id": "8735d1f6aa19",
       "title": "健康網》研究：「鋰」可能預防失智 如何應用仍待努力",
       "published": "2026-09-05T09:17:00+00:00",
-      "summary": "健康網》研究：「鋰」可能預防失智 如何應用仍待努力&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "健康網》研究：「鋰」可能預防失智 如何應用仍待努力&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yX1ItNmwtLTFPdVhGel84WXVneDUyNm1yMzRTQXFucXRjQWJlMEJNTGE5R0Q1dW9XQm8wNzdXXzVrUVBzOWZUN0dWeWJRcFRqUHRmOGZiN2ZSMDgxREhhUTRCZm3SAWpBVV95cUxPYjFFRjd1SXMtdG1YLU9uQm0yNnJfalh5c25iQXN1NEoyOHpjV2h4Mmh5Z0xhNmJhaUZnS3RjYmJWZWVUX2p1MHdYUS1rZUtPWTJnVEhpNnZCWEh4Smw1VDQwaENXdTVXOGxB?oc=5"
         }
       ],
@@ -139,27 +148,249 @@
       "matched_keywords": []
     },
     {
-      "id": "f999f9458308",
+      "id": "36348209b7c1",
       "title": "四大人格特質 這類人最容易罹癌",
       "published": "2026-09-05T01:20:00+00:00",
-      "summary": "四大人格特質 這類人最容易罹癌&nbsp;&nbsp;news.ebc.net.tw總是替別人著想，身體反而出問題？研究揭「壓抑情緒」的代價－精選書摘&nbsp;&nbsp;businessweekly.com.tw",
+      "summary": "四大人格特質 這類人最容易罹癌&nbsp;&nbsp;東森新聞總是替別人著想，身體反而出問題？研究揭「壓抑情緒」的代價－精選書摘&nbsp;&nbsp;商周",
       "sources": [
         {
-          "name": "news.ebc.net.tw",
+          "name": "東森新聞",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBWG5FRWJXaWhNU3dhMWtNM0o2Vks4aDNOU200dFQ2cEE4eEpVV2hQYlh6Y2ZPd0I2NUhQSFlZcThjRWZTSUJjSklZZFNweXpxOXNDeQ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "af6120711c9d",
-      "title": "乳癌竟能利用免疫細胞招來神經，幫助腫瘤生長 | 科技新報 - LINE TODAY",
-      "published": "2026-09-04T09:02:40+00:00",
-      "summary": "乳癌竟能利用免疫細胞招來神經，幫助腫瘤生長 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "id": "1f78443dcbe6",
+      "title": "菇類也能防癌？研究發現每天吃18克 癌症風險低45％",
+      "published": "2026-09-04T07:00:04+00:00",
+      "summary": "菇類也能防癌？研究發現每天吃18克 癌症風險低45％&nbsp;&nbsp;台視新聞網",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oS1VuZW9pTUVqVGJQY1hrSnhXa29JNnlOR2o4dE1CYTZOc2pmTHYwSDgtdjBuNWFDUHhiR3JqRm5uN2M4bUNPalhYMy1LVUIxWnI1STVB?oc=5"
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7127a3613fb3",
+      "title": "健康網》不是保健品！ 研究揭洗澡這樣做 免疫細胞可激增",
+      "published": "2026-09-04T01:22:00+00:00",
+      "summary": "健康網》不是保健品！ 研究揭洗澡這樣做 免疫細胞可激增&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fUVp2WXZHNlNveXQza2pFREVESjdOSzdTVHJSX2I1SzlGWUZhSjFrUHp5Snh2cFREczFBbWxJVDM4Rzg0U2xrLWkyTzc5Sk9SRk9nVmdhRVEzVXpxaEVZV2w3OF_SAWpBVV95cUxQV2hUSjdPUnlIcEVHd003a2FDbldjUm9KbHJQaENINkxINzRiN3hpLVNDbWdkcS1QM2dxbko0bGpGTUhtYmlubTh5eUYtWmszdzNJTnN6eTFrLWdpdFF2ME9Ua2tlMkR0d2RB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9f39401d087a",
+      "title": "乳癌竟能利用免疫細胞招來神經，幫助腫瘤生長 - TechNews 科技新報",
+      "published": "2026-09-04T00:24:38+00:00",
+      "summary": "乳癌竟能利用免疫細胞招來神經，幫助腫瘤生長&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSDk0blVfN1F1M0xSTGtheEtUUFo0Z2tHSGFMRlhVY1pNNXFqbFFsUHRqZnYxZkc5RWVuNDNkRkRQM3ZOSElJazRKMXc4alY0RkR1cTRXLXZEODg1R1J6cVVudjV1MzdQbkxHR0VTbUNwN0FJYUdUYnlUemp4MmJMemQ5cmZqeGJvT0ZYbF9WdVdpSFphR3Nvd0hhNXpJbEpkNmc?oc=5"
         }
       ],
       "matched_keywords": [
@@ -396,235 +627,13 @@
       ]
     },
     {
-      "id": "1f78443dcbe6",
-      "title": "菇類也能防癌？研究發現每天吃18克 癌症風險低45％",
-      "published": "2026-09-04T07:00:04+00:00",
-      "summary": "菇類也能防癌？研究發現每天吃18克 癌症風險低45％&nbsp;&nbsp;台視新聞網",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ff3a02067bd4",
-      "title": "健康網》不是保健品！ 研究揭洗澡這樣做 免疫細胞可激增",
-      "published": "2026-09-04T01:22:00+00:00",
-      "summary": "健康網》不是保健品！ 研究揭洗澡這樣做 免疫細胞可激增&nbsp;&nbsp;health.ltn.com.tw",
-      "sources": [
-        {
-          "name": "health.ltn.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fUVp2WXZHNlNveXQza2pFREVESjdOSzdTVHJSX2I1SzlGWUZhSjFrUHp5Snh2cFREczFBbWxJVDM4Rzg0U2xrLWkyTzc5Sk9SRk9nVmdhRVEzVXpxaEVZV2w3OF_SAWpBVV95cUxQV2hUSjdPUnlIcEVHd003a2FDbldjUm9KbHJQaENINkxINzRiN3hpLVNDbWdkcS1QM2dxbko0bGpGTUhtYmlubTh5eUYtWmszdzNJTnN6eTFrLWdpdFF2ME9Ua2tlMkR0d2RB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "06be2962edc0",
+      "id": "28b7d96c67c4",
       "title": "40歲女爭執後氣喘胸悶 以為心臟病發 醫生教4步驟呼吸急救7大症狀需及時call白車",
       "published": "2026-09-03T23:00:00+00:00",
-      "summary": "40歲女爭執後氣喘胸悶 以為心臟病發 醫生教4步驟呼吸急救7大症狀需及時call白車&nbsp;&nbsp;AM730",
+      "summary": "40歲女爭執後氣喘胸悶 以為心臟病發 醫生教4步驟呼吸急救7大症狀需及時call白車&nbsp;&nbsp;am730.com.hk",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730.com.hk",
           "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxOdGJ2WnlLMnZ6aTZMdFg3WVFmMXVIS0U2V2RJYWdQNGZUMDlEVlpYUUNYOWttUDBGX3FjbTBFeElTRkFZMkFJamVwRGlaM1NTTjVYQUxpaWhMb3VBLUo4aXotMFZwOU5kYUJTYnFYZVVJTmRpLTJqN0U2OVhJV0pRaHFaSGFXcW1kZm9FRUZwcktvYkRjRi1UOXEybzdOYlRMUEdsZGNib1MySExEMWtEbE1sWnRjcW9BRndHZWx6bUhEQ2xmaWN5OXJVcWlGOFBxbkQtZXlPVG03eWh3Vk9UYU0yOHVJTi01NzUzcngtMWJoaXpNS0VaMk4zWE5rYl9QOVVINkNiaHNpYmQzeHVpb2MxTEdHRWRpdkVtMEdUd04wd0J0bnpueGVHalRmNGpnYkE0SV9ONmh3QzJDbGFmZ3FFZ3gxRXZIcEtpOEc0ejd3V21nRXdBRnNMcEtaV0E3RUVhb1BtZURMTkdBUnQ5RkxKQWM4aUxjSGRlaEowMmtpUk9pN20wNVlKZE1OT1l3VDMyMUlpUWVFWlhsQXVtVFo4Sks3cUZLU3VYQnJpc29XOU5aTDhZbUZJSmNMNkM2amx6VWt0ek5ld1FJT0pmOXdwVXJUZmZmS1dVRXBOdmNmcWNJWm05anpROFAzdlE?oc=5"
         }
       ],
@@ -726,17 +735,42 @@
       "matched_keywords": []
     },
     {
-      "id": "f4634dc634d7",
+      "id": "0eac0866bc66",
       "title": "糖水檢查沒過會怎樣？營養師揭8種妊娠糖尿病風險 恐提高早產機率",
       "published": "2026-09-03T11:00:00+00:00",
-      "summary": "糖水檢查沒過會怎樣？營養師揭8種妊娠糖尿病風險 恐提高早產機率&nbsp;&nbsp;民報",
+      "summary": "糖水檢查沒過會怎樣？營養師揭8種妊娠糖尿病風險 恐提高早產機率&nbsp;&nbsp;peoplenews.tw",
       "sources": [
         {
-          "name": "民報",
+          "name": "peoplenews.tw",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5raGRORGtuVHczUVpjRlVjX3NsTnplckh0TnhjbTZiRE1MYUdVVW5XbnQtN3pOVFNiWHFSRzIxckNBaENSdFR0bWY5S3I0UldzNS1mNUQ3TGh1S0Nta1gzWA?oc=5"
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "bd3b626e309b",
+      "title": "突然開始說夢話、揮拳踢腿？醫：中高齡要注意，恐與巴金森氏症、失智有關",
+      "published": "2026-09-03T10:23:55+00:00",
+      "summary": "突然開始說夢話、揮拳踢腿？醫：中高齡要注意，恐與巴金森氏症、失智有關&nbsp;&nbsp;tw.news.yahoo.com",
+      "sources": [
+        {
+          "name": "tw.news.yahoo.com",
+          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxORW54VkQyRmlOTmJRR2FYWndlVUNKSFRXaUFKdS1kZFIydzRUUU1tcHFoZllVQUtRVERGZEs3ZG5rS0tjejV2YUY1b1Q1RkFDN1lwd1F6RVhEQ0R3VElJNENKMi15azhGVUF1bjE4MjhrUVYwZUN4YWIzLVhsTjNLYnZvUTdvVmxUUmpEMkpYYm0wSW1HTlk2OUFET3pPUkJMT0p1OWkzYkxyemdyZlE0RU9rbHdtQkNkTHowV2t6X2lTajdzWHU4Y1VGWmJuVENBaWZvSFRRU0h2M0piRW1DTnhTN1ZGMHJWZV9qOVZvd21xSGQ4YWtJend2TEdwaFE2Q3RDY1YxWlQtaHdKRHF3LTZrdklYckdPXzQ4WGJGVUN6M0xBc2pGZE9BQkpRbFpmR09ZVmdPQ3E1YWJFWVVfZjBjMXUtNncydUNUU1YxQ0VkYjE0WXhrZk5SV3ZxeGVVYXhQSmk3V3dhUXdBMEo3djBlWjBIR2F1UnowbklhVDVrZlIt?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "5c08f643a0bf",
@@ -747,19 +781,6 @@
         {
           "name": "PChome Online 新聞",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQjFUSGVVbS1zRzNTd3JIejVucG83VjB0c2JuZGlVdUZiZmFUa2VlaHh3X1J1N0N3UnI2ZkVKR3RId0tNc1Y4clg4MTlncnh3dGpaRWliMkk0ejN4WEpVUm9PZFJhN3h0NFR2blRWRG5UNkdUMnF0OHdFaWtvYWV4UDU4Z2dBcGRvY2swUw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "48a279ff0121",
-      "title": "邊喝咖啡邊吞維他命？營養師警告：這3種保健食品和咖啡一起吃等於白吃，貧血、補鈣的人都中",
-      "published": "2026-09-03T07:00:00+00:00",
-      "summary": "邊喝咖啡邊吞維他命？營養師警告：這3種保健食品和咖啡一起吃等於白吃，貧血、補鈣的人都中&nbsp;&nbsp;ELLE咖啡配香蕉越吃越累！「6種飲食組合」快避免 恐阻礙營養吸收 | TVBS&nbsp;&nbsp;LINE TODAY咖啡配香蕉越吃越累！「6種飲食組合」快避免 恐阻礙營養吸收&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rcnRDbVZ6WHppUnJUN1RrZUNQb29ncndpM1V0X052MFZ6YVlwTTdJdWFfTFdhczBPNTFLdmNYVU5PbThPTE9qSFF5cDJPa0E0RGwtazhLVEJsUVJUbGdlOFdCanRsTUQwM1VFWGdwa0s2cFdPSUwzS21yc3FnZw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -814,26 +835,39 @@
       ]
     },
     {
-      "id": "062e086c7968",
+      "id": "5c35f4fe4875",
       "title": "骨鬆最強「鍛骨法」曝光！每天30分鐘，逆轉骨質疏鬆、刺激骨密度飆升",
       "published": "2026-09-03T00:03:12+00:00",
-      "summary": "骨鬆最強「鍛骨法」曝光！每天30分鐘，逆轉骨質疏鬆、刺激骨密度飆升&nbsp;&nbsp;Yahoo新聞",
+      "summary": "骨鬆最強「鍛骨法」曝光！每天30分鐘，逆轉骨質疏鬆、刺激骨密度飆升&nbsp;&nbsp;tw.news.yahoo.com",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOSFFjbDRJX2ZYSnNlRzFLb2hGRk0teHl6ZmxyOEpLSGZVaDk0c25JT3o4ZzJURzVJcFpUR2F2bUN3dktCVVhnZHVRa0lCYlZqNHRKX3pILWdCMlRkMmQ0c1VHa1hSSk90S2JrYUhpRW5EUUZ0amFwbVp6UWduVUlhczlXcmJOM1NWR2lNdzlyajdreEc4T1V5S1QzY0w0ZU1yeWJTV1o3aGZLUENFVk9IczlBM2ZLbFo2REtaVWZxM3cybXlfb082b2MxZGNQUWpHOGVBWnZKVWE1Vkc0M0lCNS11SXAxVk15eVZZdVgyaUJxUm5qNzRXZkoxU0dZMVVVdWZ6aS1fMkp6VXJLUWNlWUZQYkhmaUxoNkFYRlV4THUyUGxWVllzc1pDOWhoOW9hVHB3WkVjUkttR0s1V080?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "41e9b417c8fd",
-      "title": "吃不胖別急著羨慕！「怎麼吃都不長肉」恐是體重過輕的健康警訊",
-      "published": "2026-09-02T12:00:42+00:00",
-      "summary": "吃不胖別急著羨慕！「怎麼吃都不長肉」恐是體重過輕的健康警訊&nbsp;&nbsp;Yahoo新聞",
+      "id": "796e1788e744",
+      "title": "明明很累卻又睡不好專家揭缺1營養素血糖也失守| 肌肉緊繃| 莫名疲累| 缺鎂| 穩定神經| 參與能量代謝",
+      "published": "2026-09-02T20:13:45+00:00",
+      "summary": "明明很累卻又睡不好專家揭缺1營養素血糖也失守| 肌肉緊繃| 莫名疲累| 缺鎂| 穩定神經| 參與能量代謝&nbsp;&nbsp;soundofhope.org",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "soundofhope.org",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QbzVyTzBORFJQWHY1TG1rQVY1bDBMRlZEVGtHUWxudjVhTEZqcXhueXJLZ3pDUjBuYzkzYkVkbHVQVTQxbXl6RkpNcWNRSXFaamVGbm5UdlBHRFU?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7577177286f4",
+      "title": "吃不胖別急著羨慕！「怎麼吃都不長肉」恐是體重過輕的健康警訊",
+      "published": "2026-09-02T12:00:42+00:00",
+      "summary": "吃不胖別急著羨慕！「怎麼吃都不長肉」恐是體重過輕的健康警訊&nbsp;&nbsp;tw.news.yahoo.com",
+      "sources": [
+        {
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQM25lRFlDRGtreHpqMHZaNC0zZk85bmVmQzhfRnJUVmpCX21PM0M4ZGczek5pVWM5UXhNS1FDbHJTUW1NbWdWYUl3NUVtSmlVSTZOd09LRXBJU1ZBd3l3Z1lQZ1g2aDRCQTBuWG02M3ZTTWVIWVZhazY0OWRZZmNUYzdoS3RKSlpiOFVxNDIzcXc5Qy0xcE5lTnJqSE5IdVFITDVockVjdDVLOWVZN0NOeERoZDNmZzZ1ZkZkUGNRaTl0NTB5a3J6UlhPeEYwYjB5VVNFV09VeW1QcGR3V2pMUEwxaWEzcmg4QlBhRXVJVGEzR1dwdzlZOE5LSHF4UXI2QkdGU0tmTnlBRkFMRGdlczZYVGZ5YlpNbFc4cVZ6Q2ZEdFpZZm9BUDZIWFlVSmhVQmNJS016R21VU09qNFFITkIwWXlmNUFWZFRDN1VQUjgtQTdfamxnUjZMR1k4cXBKaHNXT3dIZkl1d2YxYXV1X1BqQURWZk9BcGRFRWpUdmNSXzhHbHRRaE9LVlpYUQ?oc=5"
         }
       ],
@@ -853,14 +887,14 @@
       "matched_keywords": []
     },
     {
-      "id": "7a14f7a7679c",
+      "id": "941f7baf17af",
       "title": "糖尿病大腸癌不只看遺傳！最新研究：「同住」竟會互相共享腸道菌",
-      "published": "2026-09-02T08:25:00+00:00",
-      "summary": "糖尿病大腸癌不只看遺傳！最新研究：「同住」竟會互相共享腸道菌&nbsp;&nbsp;Yahoo新聞",
+      "published": "2026-09-02T08:22:40+00:00",
+      "summary": "糖尿病大腸癌不只看遺傳！最新研究：「同住」竟會互相共享腸道菌&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxORTMydlZ5SkxOOXNjdlVQMHNjUUhidmJvNkdIbElOdVd5YXpydm1SVXhkMkpEOWFNTVphdVU1ZXBHUmZTNWZMUUd4d0sxQVhObU8zdER5V2VaQjNyM0t5TzBJSTNYQjVxcTNPSzJ1dFpaZHBzZ1FnT1ltU2c4aDN3WGxXQWM2WEJaSFdpYTdVcUF3SVNzVXJ0Q0stSk1hTVFpbE55RVN1ZXNPbUlpNVlmTUV6WUplVTdYZEUyQTY4RXBqcFdxYjZPTnRVMkpWdFV1ZFdGdUwzaEFWcGJ1bE5ra21pQ1lfeWVKcUN6TlZhdmhrRUpIdm0xSnhJdnFvR0NHa2ZqX2FER0ZGV2llNGdYaDhFWmJKMXFnOXUyTzFZWDJLODVIbGFfMkR6QXVCZ3FpRE5heWs5WmtxQ01FQWpPR1VUX0tJVEloQ2M3VEx4YkxVY3ZwQV9uXzNXV1RCZzdmZVRBRTJhT05rYU9FSHliZU9HZ0pZUERaS3d0TEFSUHRlZ3dRYkJUZ09aQ1lzbG8?oc=5"
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Sb2h0Y0c3WE9RdlVPVFNVQWZuaW5iNUhVWGFad0l1d1oyUjFUNkE3WFhHMEM5NWhzTjh0Q2p6RjFrMkRJUkNnbUtJUGU?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1159,14 +1193,27 @@
       "matched_keywords": []
     },
     {
-      "id": "2ae52cfdb429",
-      "title": "男人逾8成憂自費醫療　男性2大癌王曝光",
+      "id": "ffd141341b0a",
+      "title": "男人逾8成憂自費醫療　男性2大癌王曝光 - 鏡週刊Mirror Media",
       "published": "2026-09-01T17:20:00+00:00",
-      "summary": "男人逾8成憂自費醫療 男性2大癌王曝光&nbsp;&nbsp;mirrormedia.mg",
+      "summary": "男人逾8成憂自費醫療 男性2大癌王曝光&nbsp;&nbsp;鏡週刊Mirror Media",
       "sources": [
         {
-          "name": "mirrormedia.mg",
+          "name": "鏡週刊Mirror Media",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3MG9MM216NlhFdm94enNRVzZEd1JWY1ZwSGo1cmw3b0g5VlJ1cFR0bVlnXy1XRnlpQm5Sb0g0d1hvRjFlMjl0Q3YtUXNYS09ta1BoZ1ppNkY3R1Vm0gFiQVVfeXFMT3BWSmhMVmlWYjZYaWFOdFlYSzFyWlhqMy1vNXRPeDBQR0FHdkh6cHJwQzVVSWM1VG52bFhmbjJnTjdsM09DUTJEeWRpbVJQQzU4M2pidDZDYjdteDd1YnZWaXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0531650fc229",
+      "title": "別只是嘴上說說！頂尖國際研究發現：父母希望孩子吃得健康 菜籃卻沒跟上？ - TVBS 健康2.0",
+      "published": "2026-09-01T11:21:00+00:00",
+      "summary": "別只是嘴上說說！頂尖國際研究發現：父母希望孩子吃得健康 菜籃卻沒跟上？&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSdTIwSVZVNHJsSXFjWjN6Qmc0a3M4aXBRQWFIdmhVdXZibWo3TkRQenZBRTMxUmVDczhmYkNnXzFKRTJTWkVrVVdFdzNKY2F1Y29ES1ln?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1185,14 +1232,14 @@
       "matched_keywords": []
     },
     {
-      "id": "8c7a9037d073",
-      "title": "原本治關節炎！這款藥竟讓「鬼剃頭」長回頭髮 逾5成重度患者恢復8成",
-      "published": "2026-09-01T04:04:00+00:00",
-      "summary": "原本治關節炎！這款藥竟讓「鬼剃頭」長回頭髮 逾5成重度患者恢復8成&nbsp;&nbsp;health.ltn.com.tw",
+      "id": "1a30d05a60a3",
+      "title": "原本治關節炎！這款藥竟讓「鬼剃頭」長回頭髮 逾5成重度患者恢復8成 | 自由電子報 - LINE TODAY",
+      "published": "2026-09-01T04:55:04+00:00",
+      "summary": "原本治關節炎！這款藥竟讓「鬼剃頭」長回頭髮 逾5成重度患者恢復8成 | 自由電子報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBNUlWWHd5ZTRKSlBOTzRjU01ZWmxxVXNzdUk3ZnluYXh4ZE5iVm9CbzhqMWc2U1pORkdSMU9LaVprajMzbHhlMmFoNjZNb3c4MmxRaXpQemotbjBLX3NQZTliZ1DSAWpBVV95cUxOSFJ4QVE1RFh6eEJFam5ZQ1E5eXZPdEVXMUlmUTNzc2R1cHd4ZHBWWHRuZnVCWjk2S3o5ai1XeTJ3QU5JeVNnci1XTC11anoxRmFGSHY3STFMWjlJVGV2eDRFZS1VUnA4em13?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90WE1sRFJHZHVHX1gzemZtUWdycjRDYUZqSnVpSW15OHhUNmlFcUplREdUUlJfMDdlU1M5MzNob3E0eXg2MnZPMlRxeElDc2JBdGVwV3dR?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1310,52 +1357,23 @@
       ]
     },
     {
-      "id": "eb857fc772fd",
+      "id": "d947717cfab8",
       "title": "健康網》認識PRP 醫：打PRP之前 可以問這些問題",
       "published": "2026-08-31T06:39:00+00:00",
-      "summary": "健康網》認識PRP 醫：打PRP之前 可以問這些問題&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "健康網》認識PRP 醫：打PRP之前 可以問這些問題&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NdE95UFJxc0FQdHg1TE1OWWlkWnozejgtUmdGUlhpS2EtMjNfWjQzc3F4NjNqV0plZFNQakRTdHJ2NzBhTXNjY1dSVUEyUWNUV3p6LUR1eWRIR2lDOE9SbWFlYlI?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "e573cebb8e50",
-      "title": "歌曲可能有助於減輕疼痛，甚至治療中風症狀",
-      "published": "2026-08-31T04:05:27+00:00",
-      "summary": "歌曲可能有助於減輕疼痛，甚至治療中風症狀&nbsp;&nbsp;natgeomedia.com",
-      "sources": [
-        {
-          "name": "natgeomedia.com",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RcW43blJKVWFaMVJ5bmxnVk1Ddk1IaWdieTVFQWdVa1VwelVUM1RSVE8xbk94MURRNlI3WUF6eEd5bVYxZEN2VzZBQmtxYnVGcjJDV0VKd2VYanZoQWk2bFp5a1BqZmI1TDR4aTVmUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "82fdc17d0520",
       "title": "東亞第一推HPV疫苗男女公費接種 首年男生接種率突破81.6%",
       "published": "2026-08-31T02:08:55+00:00",
-      "summary": "東亞第一推HPV疫苗男女公費接種 首年男生接種率突破81.6%&nbsp;&nbsp;健康醫療網HPV疫苗｜海外升學勿忽略「健康清單」 醫生提醒男女學生趁早打HPV疫苗&nbsp;&nbsp;香港經濟日報HKETHPV防癌不再是女生專利！台灣公費疫苗領先日韓 男生接種率首年破8成&nbsp;&nbsp;health.ltn.com.tw男生也要打HPV疫苗！接種率破8成 專家盼追上女生9成水準&nbsp;&nbsp;中時新聞網男女並進第二年 台灣HPV疫苗接種率亮眼 男生首接種破八成 打造「防癌不分性別」新共識&nbsp;&nbsp;蕃新聞",
+      "summary": "東亞第一推HPV疫苗男女公費接種 首年男生接種率突破81.6%&nbsp;&nbsp;健康醫療網HPV疫苗︱專家倡資助男童接種 指口咽癌個案20年增近四成 扁桃腺癌比例升三倍&nbsp;&nbsp;singtao.ca男生也要打HPV疫苗！接種率破8成 專家盼追上女生9成水準&nbsp;&nbsp;翻爆HPV疫苗男女並進第2年！男國中生首年接種率81.6% 今年拚85%&nbsp;&nbsp;Taiwan News男女並進第二年 台灣HPV疫苗接種率亮眼 男生首接種破八成 打造「防癌不分性別」新共識&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
           "name": "健康醫療網",

@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [乳癌竟能利用免疫細胞招來神經，幫助腫瘤生長 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oS1VuZW9pTUVqVGJQY1hrSnhXa29JNnlOR2o4dE1CYTZOc2pmTHYwSDgtdjBuNWFDUHhiR3JqRm5uN2M4bUNPalhYMy1LVUIxWnI1STVB?oc=5)
+### [研究：激素動態監測或有助識別一種常見高血壓病因- 國際](https://news.google.com/rss/articles/CBMid0FVX3lxTE9MRzZvT0ZWUUhKTHRhbktxd3phMHVlQ3Blczk5RG9pOXNNY2VESV9qMVhlQ3VEbWlUcWFfdV9TeXVnaF9GWkpYTkRxV1NYS2xuNmFjWVo2Mzg4RldYWnM2OTA3Q2hxa1VLaTZ5TV9oLWxEamJDaFJv?oc=5)
 
-2026-09-04 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span>
+2026-09-06 <span class="news-indication-tag">高血壓</span>
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oS1VuZW9pTUVqVGJQY1hrSnhXa29JNnlOR2o4dE1CYTZOc2pmTHYwSDgtdjBuNWFDUHhiR3JqRm5uN2M4bUNPalhYMy1LVUIxWnI1STVB?oc=5)
+來源：[香港文匯報](https://news.google.com/rss/articles/CBMid0FVX3lxTE9MRzZvT0ZWUUhKTHRhbktxd3phMHVlQ3Blczk5RG9pOXNNY2VESV9qMVhlQ3VEbWlUcWFfdV9TeXVnaF9GWkpYTkRxV1NYS2xuNmFjWVo2Mzg4RldYWnM2OTA3Q2hxa1VLaTZ5TV9oLWxEamJDaFJv?oc=5)
 
 ---
 
@@ -60,11 +60,19 @@ permalink: /news/metoprolol/
 
 ---
 
+### [乳癌竟能利用免疫細胞招來神經，幫助腫瘤生長 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSDk0blVfN1F1M0xSTGtheEtUUFo0Z2tHSGFMRlhVY1pNNXFqbFFsUHRqZnYxZkc5RWVuNDNkRkRQM3ZOSElJazRKMXc4alY0RkR1cTRXLXZEODg1R1J6cVVudjV1MzdQbkxHR0VTbUNwN0FJYUdUYnlUemp4MmJMemQ5cmZqeGJvT0ZYbF9WdVdpSFphR3Nvd0hhNXpJbEpkNmc?oc=5)
+
+2026-09-04 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span>
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSDk0blVfN1F1M0xSTGtheEtUUFo0Z2tHSGFMRlhVY1pNNXFqbFFsUHRqZnYxZkc5RWVuNDNkRkRQM3ZOSElJazRKMXc4alY0RkR1cTRXLXZEODg1R1J6cVVudjV1MzdQbkxHR0VTbUNwN0FJYUdUYnlUemp4MmJMemQ5cmZqeGJvT0ZYbF9WdVdpSFphR3Nvd0hhNXpJbEpkNmc?oc=5)
+
+---
+
 ### [40歲女爭執後氣喘胸悶 以為心臟病發 醫生教4步驟呼吸急救7大症狀需及時call白車](https://news.google.com/rss/articles/CBMi7wNBVV95cUxOdGJ2WnlLMnZ6aTZMdFg3WVFmMXVIS0U2V2RJYWdQNGZUMDlEVlpYUUNYOWttUDBGX3FjbTBFeElTRkFZMkFJamVwRGlaM1NTTjVYQUxpaWhMb3VBLUo4aXotMFZwOU5kYUJTYnFYZVVJTmRpLTJqN0U2OVhJV0pRaHFaSGFXcW1kZm9FRUZwcktvYkRjRi1UOXEybzdOYlRMUEdsZGNib1MySExEMWtEbE1sWnRjcW9BRndHZWx6bUhEQ2xmaWN5OXJVcWlGOFBxbkQtZXlPVG03eWh3Vk9UYU0yOHVJTi01NzUzcngtMWJoaXpNS0VaMk4zWE5rYl9QOVVINkNiaHNpYmQzeHVpb2MxTEdHRWRpdkVtMEdUd04wd0J0bnpueGVHalRmNGpnYkE0SV9ONmh3QzJDbGFmZ3FFZ3gxRXZIcEtpOEc0ejd3V21nRXdBRnNMcEtaV0E3RUVhb1BtZURMTkdBUnQ5RkxKQWM4aUxjSGRlaEowMmtpUk9pN20wNVlKZE1OT1l3VDMyMUlpUWVFWlhsQXVtVFo4Sks3cUZLU3VYQnJpc29XOU5aTDhZbUZJSmNMNkM2amx6VWt0ek5ld1FJT0pmOXdwVXJUZmZmS1dVRXBOdmNmcWNJWm05anpROFAzdlE?oc=5)
 
 2026-09-03 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span> <span class="news-indication-tag">氣喘</span>
 
-來源：[AM730](https://news.google.com/rss/articles/CBMi7wNBVV95cUxOdGJ2WnlLMnZ6aTZMdFg3WVFmMXVIS0U2V2RJYWdQNGZUMDlEVlpYUUNYOWttUDBGX3FjbTBFeElTRkFZMkFJamVwRGlaM1NTTjVYQUxpaWhMb3VBLUo4aXotMFZwOU5kYUJTYnFYZVVJTmRpLTJqN0U2OVhJV0pRaHFaSGFXcW1kZm9FRUZwcktvYkRjRi1UOXEybzdOYlRMUEdsZGNib1MySExEMWtEbE1sWnRjcW9BRndHZWx6bUhEQ2xmaWN5OXJVcWlGOFBxbkQtZXlPVG03eWh3Vk9UYU0yOHVJTi01NzUzcngtMWJoaXpNS0VaMk4zWE5rYl9QOVVINkNiaHNpYmQzeHVpb2MxTEdHRWRpdkVtMEdUd04wd0J0bnpueGVHalRmNGpnYkE0SV9ONmh3QzJDbGFmZ3FFZ3gxRXZIcEtpOEc0ejd3V21nRXdBRnNMcEtaV0E3RUVhb1BtZURMTkdBUnQ5RkxKQWM4aUxjSGRlaEowMmtpUk9pN20wNVlKZE1OT1l3VDMyMUlpUWVFWlhsQXVtVFo4Sks3cUZLU3VYQnJpc29XOU5aTDhZbUZJSmNMNkM2amx6VWt0ek5ld1FJT0pmOXdwVXJUZmZmS1dVRXBOdmNmcWNJWm05anpROFAzdlE?oc=5)
+來源：[am730.com.hk](https://news.google.com/rss/articles/CBMi7wNBVV95cUxOdGJ2WnlLMnZ6aTZMdFg3WVFmMXVIS0U2V2RJYWdQNGZUMDlEVlpYUUNYOWttUDBGX3FjbTBFeElTRkFZMkFJamVwRGlaM1NTTjVYQUxpaWhMb3VBLUo4aXotMFZwOU5kYUJTYnFYZVVJTmRpLTJqN0U2OVhJV0pRaHFaSGFXcW1kZm9FRUZwcktvYkRjRi1UOXEybzdOYlRMUEdsZGNib1MySExEMWtEbE1sWnRjcW9BRndHZWx6bUhEQ2xmaWN5OXJVcWlGOFBxbkQtZXlPVG03eWh3Vk9UYU0yOHVJTi01NzUzcngtMWJoaXpNS0VaMk4zWE5rYl9QOVVINkNiaHNpYmQzeHVpb2MxTEdHRWRpdkVtMEdUd04wd0J0bnpueGVHalRmNGpnYkE0SV9ONmh3QzJDbGFmZ3FFZ3gxRXZIcEtpOEc0ejd3V21nRXdBRnNMcEtaV0E3RUVhb1BtZURMTkdBUnQ5RkxKQWM4aUxjSGRlaEowMmtpUk9pN20wNVlKZE1OT1l3VDMyMUlpUWVFWlhsQXVtVFo4Sks3cUZLU3VYQnJpc29XOU5aTDhZbUZJSmNMNkM2amx6VWt0ek5ld1FJT0pmOXdwVXJUZmZmS1dVRXBOdmNmcWNJWm05anpROFAzdlE?oc=5)
 
 ---
 

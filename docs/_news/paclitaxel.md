@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,21 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [男沒胃痛一督進去「壞東西」現形 9成胃癌都是這病菌害的- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE5BV3NQRThKZ09SNlZEQkhSdzVFOEZHUFFXdWE2X0Jya2VOV2ZrS3NPaV9TM1pBbjFoRENkeXk3bGR0WUU1N2Rsckt0QUdTN21YNDYzeW1lbjN1Q1JWSVNDV21CVFE4aDVFU3E3dVd3?oc=5)
-
-2026-09-06 <span class="news-indication-tag">胃癌</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5BV3NQRThKZ09SNlZEQkhSdzVFOEZHUFFXdWE2X0Jya2VOV2ZrS3NPaV9TM1pBbjFoRENkeXk3bGR0WUU1N2Rsckt0QUdTN21YNDYzeW1lbjN1Q1JWSVNDV21CVFE4aDVFU3E3dVd3?oc=5)
-
----
-
-### [乳癌竟能利用免疫細胞招來神經，幫助腫瘤生長 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oS1VuZW9pTUVqVGJQY1hrSnhXa29JNnlOR2o4dE1CYTZOc2pmTHYwSDgtdjBuNWFDUHhiR3JqRm5uN2M4bUNPalhYMy1LVUIxWnI1STVB?oc=5)
-
-2026-09-04 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oS1VuZW9pTUVqVGJQY1hrSnhXa29JNnlOR2o4dE1CYTZOc2pmTHYwSDgtdjBuNWFDUHhiR3JqRm5uN2M4bUNPalhYMy1LVUIxWnI1STVB?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [菇類也能防癌？研究發現每天吃18克 癌症風險低45％](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
 
 2026-09-04 <span class="news-indication-tag">癌症</span>
 
 來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
+
+---
+
+### [乳癌竟能利用免疫細胞招來神經，幫助腫瘤生長 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSDk0blVfN1F1M0xSTGtheEtUUFo0Z2tHSGFMRlhVY1pNNXFqbFFsUHRqZnYxZkc5RWVuNDNkRkRQM3ZOSElJazRKMXc4alY0RkR1cTRXLXZEODg1R1J6cVVudjV1MzdQbkxHR0VTbUNwN0FJYUdUYnlUemp4MmJMemQ5cmZqeGJvT0ZYbF9WdVdpSFphR3Nvd0hhNXpJbEpkNmc?oc=5)
+
+2026-09-04 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span>
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSDk0blVfN1F1M0xSTGtheEtUUFo0Z2tHSGFMRlhVY1pNNXFqbFFsUHRqZnYxZkc5RWVuNDNkRkRQM3ZOSElJazRKMXc4alY0RkR1cTRXLXZEODg1R1J6cVVudjV1MzdQbkxHR0VTbUNwN0FJYUdUYnlUemp4MmJMemQ5cmZqeGJvT0ZYbF9WdVdpSFphR3Nvd0hhNXpJbEpkNmc?oc=5)
 
 ---
 

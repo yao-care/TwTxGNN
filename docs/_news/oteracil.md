@@ -44,14 +44,6 @@ permalink: /news/oteracil/
 
 ## 相關新聞（4 則）
 
-### [乳癌竟能利用免疫細胞招來神經，幫助腫瘤生長 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oS1VuZW9pTUVqVGJQY1hrSnhXa29JNnlOR2o4dE1CYTZOc2pmTHYwSDgtdjBuNWFDUHhiR3JqRm5uN2M4bUNPalhYMy1LVUIxWnI1STVB?oc=5)
-
-2026-09-04 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oS1VuZW9pTUVqVGJQY1hrSnhXa29JNnlOR2o4dE1CYTZOc2pmTHYwSDgtdjBuNWFDUHhiR3JqRm5uN2M4bUNPalhYMy1LVUIxWnI1STVB?oc=5)
-
----
-
 ### [菇類也能防癌？研究發現每天吃18克 癌症風險低45％](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
 
 2026-09-04 <span class="news-indication-tag">癌症</span>
@@ -60,11 +52,19 @@ permalink: /news/oteracil/
 
 ---
 
-### [糖尿病大腸癌不只看遺傳！最新研究：「同住」竟會互相共享腸道菌](https://news.google.com/rss/articles/CBMijwNBVV95cUxORTMydlZ5SkxOOXNjdlVQMHNjUUhidmJvNkdIbElOdVd5YXpydm1SVXhkMkpEOWFNTVphdVU1ZXBHUmZTNWZMUUd4d0sxQVhObU8zdER5V2VaQjNyM0t5TzBJSTNYQjVxcTNPSzJ1dFpaZHBzZ1FnT1ltU2c4aDN3WGxXQWM2WEJaSFdpYTdVcUF3SVNzVXJ0Q0stSk1hTVFpbE55RVN1ZXNPbUlpNVlmTUV6WUplVTdYZEUyQTY4RXBqcFdxYjZPTnRVMkpWdFV1ZFdGdUwzaEFWcGJ1bE5ra21pQ1lfeWVKcUN6TlZhdmhrRUpIdm0xSnhJdnFvR0NHa2ZqX2FER0ZGV2llNGdYaDhFWmJKMXFnOXUyTzFZWDJLODVIbGFfMkR6QXVCZ3FpRE5heWs5WmtxQ01FQWpPR1VUX0tJVEloQ2M3VEx4YkxVY3ZwQV9uXzNXV1RCZzdmZVRBRTJhT05rYU9FSHliZU9HZ0pZUERaS3d0TEFSUHRlZ3dRYkJUZ09aQ1lzbG8?oc=5)
+### [乳癌竟能利用免疫細胞招來神經，幫助腫瘤生長 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSDk0blVfN1F1M0xSTGtheEtUUFo0Z2tHSGFMRlhVY1pNNXFqbFFsUHRqZnYxZkc5RWVuNDNkRkRQM3ZOSElJazRKMXc4alY0RkR1cTRXLXZEODg1R1J6cVVudjV1MzdQbkxHR0VTbUNwN0FJYUdUYnlUemp4MmJMemQ5cmZqeGJvT0ZYbF9WdVdpSFphR3Nvd0hhNXpJbEpkNmc?oc=5)
+
+2026-09-04 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span>
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSDk0blVfN1F1M0xSTGtheEtUUFo0Z2tHSGFMRlhVY1pNNXFqbFFsUHRqZnYxZkc5RWVuNDNkRkRQM3ZOSElJazRKMXc4alY0RkR1cTRXLXZEODg1R1J6cVVudjV1MzdQbkxHR0VTbUNwN0FJYUdUYnlUemp4MmJMemQ5cmZqeGJvT0ZYbF9WdVdpSFphR3Nvd0hhNXpJbEpkNmc?oc=5)
+
+---
+
+### [糖尿病大腸癌不只看遺傳！最新研究：「同住」竟會互相共享腸道菌](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Sb2h0Y0c3WE9RdlVPVFNVQWZuaW5iNUhVWGFad0l1d1oyUjFUNkE3WFhHMEM5NWhzTjh0Q2p6RjFrMkRJUkNnbUtJUGU?oc=5)
 
 2026-09-02 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMijwNBVV95cUxORTMydlZ5SkxOOXNjdlVQMHNjUUhidmJvNkdIbElOdVd5YXpydm1SVXhkMkpEOWFNTVphdVU1ZXBHUmZTNWZMUUd4d0sxQVhObU8zdER5V2VaQjNyM0t5TzBJSTNYQjVxcTNPSzJ1dFpaZHBzZ1FnT1ltU2c4aDN3WGxXQWM2WEJaSFdpYTdVcUF3SVNzVXJ0Q0stSk1hTVFpbE55RVN1ZXNPbUlpNVlmTUV6WUplVTdYZEUyQTY4RXBqcFdxYjZPTnRVMkpWdFV1ZFdGdUwzaEFWcGJ1bE5ra21pQ1lfeWVKcUN6TlZhdmhrRUpIdm0xSnhJdnFvR0NHa2ZqX2FER0ZGV2llNGdYaDhFWmJKMXFnOXUyTzFZWDJLODVIbGFfMkR6QXVCZ3FpRE5heWs5WmtxQ01FQWpPR1VUX0tJVEloQ2M3VEx4YkxVY3ZwQV9uXzNXV1RCZzdmZVRBRTJhT05rYU9FSHliZU9HZ0pZUERaS3d0TEFSUHRlZ3dRYkJUZ09aQ1lzbG8?oc=5)
+來源：[三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Sb2h0Y0c3WE9RdlVPVFNVQWZuaW5iNUhVWGFad0l1d1oyUjFUNkE3WFhHMEM5NWhzTjh0Q2p6RjFrMkRJUkNnbUtJUGU?oc=5)
 
 ---
 
