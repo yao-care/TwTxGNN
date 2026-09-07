@@ -14,7 +14,7 @@ permalink: /news/carisoprodol/
 ---
 
 <p class="key-answer" data-question="Carisoprodol 有什麼相關新聞？">
-<strong>Carisoprodol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Carisoprodol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,15 +33,9 @@ permalink: /news/carisoprodol/
 <p><a href="{{ '/drugs/carisoprodol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [流感也會傷心臟！心肌炎、心包膜炎恐出現胸痛、心悸 - 健康新聞 - PChome Online 新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikgFBVV95cUxPUlp2RXJ6dDFjMjI2bDV2NWZqTkEya1M5NUQ4X0ZoSXF0dTczNFYwT2tYR0FieUpMX0lvbXZyd25SWlpockd0WWtwTHk2REFuM1pnY2JTVnNkT3BuYmNDcVZWeXNOMV82dFRhb3h0NzItYWJ1X21pVks3Vi1fSUJuR2xLcjhKckIwOThUbk4zcW1hUQ?oc=5)
-
-2026-09-06 <span class="news-indication-tag">肌炎</span>
-
-來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMikgFBVV95cUxPUlp2RXJ6dDFjMjI2bDV2NWZqTkEya1M5NUQ4X0ZoSXF0dTczNFYwT2tYR0FieUpMX0lvbXZyd25SWlpockd0WWtwTHk2REFuM1pnY2JTVnNkT3BuYmNDcVZWeXNOMV82dFRhb3h0NzItYWJ1X21pVks3Vi1fSUJuR2xLcjhKckIwOThUbk4zcW1hUQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [營養師公布8大降中風食物！每天1杯「這類菜」風險降17%，降血壓膽固醇一次顧好](https://news.google.com/rss/articles/CBMijAFBVV95cUxPSXYtc0VrMlNjMmx6NFM2bUJhbDI4NnBkb3VrbFd4aTNXcXZQOHVyZEc2WEx1UHMtU1FWWE9PZldVNDB1Mm5iSzktTVVnT0JObFh3cENGZkVTTTZ4ODM3RTd4Z0RMMDNfX21JOEZQMmdMQlpEQUVoZVhUYlpXd1M2T1J6b1lvelY4ZlVEUw?oc=5)
+
+2026-09-07 <span class="news-indication-tag">中風</span>
+
+來源：[ELLE](https://news.google.com/rss/articles/CBMijAFBVV95cUxPSXYtc0VrMlNjMmx6NFM2bUJhbDI4NnBkb3VrbFd4aTNXcXZQOHVyZEc2WEx1UHMtU1FWWE9PZldVNDB1Mm5iSzktTVVnT0JObFh3cENGZkVTTTZ4ODM3RTd4Z0RMMDNfX21JOEZQMmdMQlpEQUVoZVhUYlpXd1M2T1J6b1lvelY4ZlVEUw?oc=5)
+
+---
 
 ### [40歲女爭執後氣喘胸悶 以為心臟病發 醫生教4步驟呼吸急救7大症狀需及時call白車](https://news.google.com/rss/articles/CBMi7wNBVV95cUxOdGJ2WnlLMnZ6aTZMdFg3WVFmMXVIS0U2V2RJYWdQNGZUMDlEVlpYUUNYOWttUDBGX3FjbTBFeElTRkFZMkFJamVwRGlaM1NTTjVYQUxpaWhMb3VBLUo4aXotMFZwOU5kYUJTYnFYZVVJTmRpLTJqN0U2OVhJV0pRaHFaSGFXcW1kZm9FRUZwcktvYkRjRi1UOXEybzdOYlRMUEdsZGNib1MySExEMWtEbE1sWnRjcW9BRndHZWx6bUhEQ2xmaWN5OXJVcWlGOFBxbkQtZXlPVG03eWh3Vk9UYU0yOHVJTi01NzUzcngtMWJoaXpNS0VaMk4zWE5rYl9QOVVINkNiaHNpYmQzeHVpb2MxTEdHRWRpdkVtMEdUd04wd0J0bnpueGVHalRmNGpnYkE0SV9ONmh3QzJDbGFmZ3FFZ3gxRXZIcEtpOEc0ejd3V21nRXdBRnNMcEtaV0E3RUVhb1BtZURMTkdBUnQ5RkxKQWM4aUxjSGRlaEowMmtpUk9pN20wNVlKZE1OT1l3VDMyMUlpUWVFWlhsQXVtVFo4Sks3cUZLU3VYQnJpc29XOU5aTDhZbUZJSmNMNkM2amx6VWt0ek5ld1FJT0pmOXdwVXJUZmZmS1dVRXBOdmNmcWNJWm05anpROFAzdlE?oc=5)
 
