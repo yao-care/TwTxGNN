@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-09-07T05:28:05.982026+00:00",
-  "total_count": 40,
-  "matched_count": 16,
+  "last_updated": "2026-09-07T11:05:47.566778+00:00",
+  "total_count": 41,
+  "matched_count": 15,
   "news": [
+    {
+      "id": "d5f2823cb6b7",
+      "title": "有固定性伴侶就不用打HPV疫苗？醫：反而要提早防",
+      "published": "2026-09-07T09:51:09+00:00",
+      "summary": "有固定性伴侶就不用打HPV疫苗？醫：反而要提早防&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNYUlXbTEzV0taUmJnVldWbTlBWUlrUU95TnFHN29ra2Z0NmFxYW1zWEdrOHYzMVk1dnVLcWpveFFjV1IyNnF0ZXJseDBucWFsSVppY09pOUdRNHA1eUpJSklkbkdQRXh3SkVFelpCWlpnbnFRV1ZVU185LWRJS21OUzd6S0tGZjF6b3A5NnZBMzdNNGVoZmxrdkR4NFZCZ0ZDbExTdkZzdkhFRTBudWN6NW1fWk5hVVBUdEZfa2xwLW5BYUk5R2NYR204M3B1cThPSmJ5SDc1Rk93RkN5dmVSc3dDcGpLSkg3MHNNdEN5dURMZWJ6RzdSMXlQbktFbmVUaW94WDdnSXFQZmI0ME9HY2hpamhrck1oLU56Wmx4ZHJvanN4ZHB6cVNoWnVNNUFNY2JQbWpFZWVMNkRrR1E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ac4539f0479b",
+      "title": "43歲的他心臟幾乎“停擺”，微型“臨時人工心臟”加持，打通閉塞血管",
+      "published": "2026-09-07T06:50:00+00:00",
+      "summary": "43歲的他心臟幾乎“停擺”，微型“臨時人工心臟”加持，打通閉塞血管&nbsp;&nbsp;ah.people.com.cn",
+      "sources": [
+        {
+          "name": "ah.people.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6Z1IwYW14TEpyU202LXEyOHNDenFwYUdSUTdqLTdwb2tQaXIxVDhKNG9uTUtpbWk2YzNfSEpXZk1Odl9yM2RBYWlmRndkWV9rbnBvSTQzYUxrZjdFclBTcGFWejh4QW1JSzRKWXZMNkQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "12c712313835",
       "title": "營養師公布8大降中風食物！每天1杯「這類菜」風險降17%，降血壓膽固醇一次顧好",
@@ -31,6 +57,228 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2af60ecb12cf",
+      "title": "癌症開完刀為什麼還會復發？南韓團隊從脾臟下手，用細菌做出奈米平台（小鼠實驗）",
+      "published": "2026-09-07T01:31:12+00:00",
+      "summary": "癌症開完刀為什麼還會復發？南韓團隊從脾臟下手，用細菌做出奈米平台（小鼠實驗）&nbsp;&nbsp;明日科學",
+      "sources": [
+        {
+          "name": "明日科學",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTmY1UEhqTkJjY0FqY2VBLWN2TVRSUEo1aEhWcEhVRnMzb25mbUM0cVJtVUwzd0hhaGhjc09QYU1pWWs2WDFvT19zZFpUcDByZGhFMEhpa1dzcFNOWEJj?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5ada7fdd845d",
+      "title": "豬腎植人體撐285天破紀錄",
+      "published": "2026-09-06T18:37:12+00:00",
+      "summary": "豬腎植人體撐285天破紀錄&nbsp;&nbsp;信報網站豬腎在人體內運作271天——這會是器官移植的未來嗎？&nbsp;&nbsp;BBC豬腎代打271天救援成功！他創「異種移植紀錄」終等到人腎&nbsp;&nbsp;三立新聞腎病患者靠移植豬腎生活九個月，直到接受人類腎臟移植- 紐約時報中文網&nbsp;&nbsp;纽约时报中文网男移植豬腎撐271天創紀錄！終成功換回人腎 | NOWNEWS今日新聞&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "信報網站",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTVh6YkdrMGdoZGlBY3I4WklwQ3FKVDYtMHRBRE1XOVo1bXhkUUlydG0yallDRElVTDA1cDNUb3B6X1hhZU16V1Q2Nzk2UTBla1l1Y3ppVnpfYnNmZWtKOVRYbTQ5SU1adWd6LTMwZEdGX3hRQnlqeU9yVDZkSTlHS1VxSS1nWmVBSmVRbWZJWG1HX2NfYnpGOWdfTXZXWHZMVTJGXzVOZWY4MDdBT0lHR2o5TEZ6eDFOMGxPMzQwT21DVGhQWjJ1VDY5bU1NNzNxckd2WUFqLXJXVzVjS0dF?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "3edc40f5487f",
@@ -289,6 +537,19 @@
       "matched_keywords": []
     },
     {
+      "id": "e8fa30d3b7d8",
+      "title": "6大關鍵營養素 打造孩子防禦力 | 中華日報 - LINE TODAY",
+      "published": "2026-09-06T11:35:29+00:00",
+      "summary": "6大關鍵營養素 打造孩子防禦力 | 中華日報&nbsp;&nbsp;LINE TODAY前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05WnRscW5MTFBhVF9TTy1jZkZyRnBUT3F2ZzJuMVBWTkREVHRyb0hkbEtSTms5WlBFUUhRcVdpUkpKNHE1MkRVazhXMjVPY3kwTGFLNUVB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "e82097dc5cca",
       "title": "肺癌｜26歲女生不吸煙不捱夜咳嗽腰痛驚揭肺癌晚期醫生嘆：癌細胞已全身擴散【附肺癌高危因素＋症狀】",
       "published": "2026-09-06T09:52:04+00:00",
@@ -377,27 +638,27 @@
       "matched_keywords": []
     },
     {
-      "id": "786d35e73919",
-      "title": "男移植豬腎撐271天創紀錄！終成功換回人腎 | NOWNEWS今日新聞 - LINE TODAY",
-      "published": "2026-09-05T16:29:36+00:00",
-      "summary": "男移植豬腎撐271天創紀錄！終成功換回人腎 | NOWNEWS今日新聞&nbsp;&nbsp;LINE TODAY豬腎在人體內運作271天——這會是器官移植的未來嗎？&nbsp;&nbsp;BBC豬腎代打271天救援成功！他創「異種移植紀錄」終等到人腎&nbsp;&nbsp;三立新聞腎病患者靠移植豬腎生活九個月，直到接受人類腎臟移植- 紐約時報中文網&nbsp;&nbsp;纽约时报中文网器官捐贈「豬腎」也能救命？1圖秒懂異種移植新科技&nbsp;&nbsp;東森新聞",
+      "id": "7dae389296e3",
+      "title": "葡萄酒死亡風險較低就能放心喝？34萬人調查追蹤：高度飲酒風險仍增24％ - 食力 foodNEXT",
+      "published": "2026-09-05T14:01:56+00:00",
+      "summary": "葡萄酒死亡風險較低就能放心喝？34萬人調查追蹤：高度飲酒風險仍增24％&nbsp;&nbsp;食力 foodNEXT",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qR1VUMUUzbXBiSWJHQmJ2QmZJV3BTRGNhNGhESTIwa3VES0Vjc0hIVWU4ekpGSWVCWlJWNDd1N05LMnRsenRXQW81Z190UElmMVdhTC1B?oc=5"
+          "name": "食力 foodNEXT",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvbVVCanBpbFlxMjBSWFl2RTdiZEtaMXhSOXpuOWpPdTZQVVdwSjNhMml4YzlObTNDSjVHV0plT3lOcDNpX2lDN2JCbFdXN3c4QURkalowakhUWldFbEl0c05MVk8?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "5d97d48ce2d6",
-      "title": "葡萄酒死亡風險較低就能放心喝？34萬人調查追蹤：高度飲酒風險仍增24％",
-      "published": "2026-09-05T14:01:56+00:00",
-      "summary": "葡萄酒死亡風險較低就能放心喝？34萬人調查追蹤：高度飲酒風險仍增24％&nbsp;&nbsp;foodnext.net",
+      "id": "11e74f44236e",
+      "title": "骨質密度20歲達高峰、50歲後開始下降！骨質疏鬆沒症狀更危險　很多人骨折後才發現",
+      "published": "2026-09-05T11:17:36+00:00",
+      "summary": "骨質密度20歲達高峰、50歲後開始下降！骨質疏鬆沒症狀更危險 很多人骨折後才發現&nbsp;&nbsp;經濟日報50歲過後，要有好的骨頭之外，還要有好的肌力 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報中元普渡祈平安，比禁忌更可怕的是「看不見的骨折風險」！ 醫師示警：骨鬆性骨折如隱形殺手，再骨折率高達約50%&nbsp;&nbsp;Yahoo新聞封面故事／醫生的話 跌倒or意外 骨折怎麼辦？&nbsp;&nbsp;世界新聞網國人愛補鈣，為何骨折率仍高？趙順榮藥師：「補鈣5步驟」建立骨骼健康防線&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
-          "name": "foodnext.net",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvbVVCanBpbFlxMjBSWFl2RTdiZEtaMXhSOXpuOWpPdTZQVVdwSjNhMml4YzlObTNDSjVHV0plT3lOcDNpX2lDN2JCbFdXN3c4QURkalowakhUWldFbEl0c05MVk8?oc=5"
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtbFNCanFPTHZQdFozaUpRUXY0VHIwcVBYS3ZTSTB5VUxTeGt2dURIZ3VIS3BLcTl6dGgxZkJoRlNRczhkdnB3R1hUQlljc3EzOGRTLUpPZnlRQdIBX0FVX3lxTFA4RXYyc3dUMEJBRV9EeHhreGkxQXhfRVZMMmNjMkh5UWVhN2tZS3pjZEQ2M3ppNlJDTjdZb3VwUmJmSXNFd19VQVo1dWlja1cxbkJGd21zRFZpeWk5eS1r?oc=5"
         }
       ],
       "matched_keywords": []
@@ -416,13 +677,13 @@
       "matched_keywords": []
     },
     {
-      "id": "8735d1f6aa19",
+      "id": "0c4cdf03700f",
       "title": "健康網》研究：「鋰」可能預防失智 如何應用仍待努力",
       "published": "2026-09-05T09:17:00+00:00",
-      "summary": "健康網》研究：「鋰」可能預防失智 如何應用仍待努力&nbsp;&nbsp;自由健康網",
+      "summary": "健康網》研究：「鋰」可能預防失智 如何應用仍待努力&nbsp;&nbsp;health.ltn.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yX1ItNmwtLTFPdVhGel84WXVneDUyNm1yMzRTQXFucXRjQWJlMEJNTGE5R0Q1dW9XQm8wNzdXXzVrUVBzOWZUN0dWeWJRcFRqUHRmOGZiN2ZSMDgxREhhUTRCZm3SAWpBVV95cUxPYjFFRjd1SXMtdG1YLU9uQm0yNnJfalh5c25iQXN1NEoyOHpjV2h4Mmh5Z0xhNmJhaUZnS3RjYmJWZWVUX2p1MHdYUS1rZUtPWTJnVEhpNnZCWEh4Smw1VDQwaENXdTVXOGxB?oc=5"
         }
       ],
@@ -676,26 +937,26 @@
       ]
     },
     {
-      "id": "7127a3613fb3",
+      "id": "ff3a02067bd4",
       "title": "健康網》不是保健品！ 研究揭洗澡這樣做 免疫細胞可激增",
       "published": "2026-09-04T01:22:00+00:00",
-      "summary": "健康網》不是保健品！ 研究揭洗澡這樣做 免疫細胞可激增&nbsp;&nbsp;自由健康網",
+      "summary": "健康網》不是保健品！ 研究揭洗澡這樣做 免疫細胞可激增&nbsp;&nbsp;health.ltn.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fUVp2WXZHNlNveXQza2pFREVESjdOSzdTVHJSX2I1SzlGWUZhSjFrUHp5Snh2cFREczFBbWxJVDM4Rzg0U2xrLWkyTzc5Sk9SRk9nVmdhRVEzVXpxaEVZV2w3OF_SAWpBVV95cUxQV2hUSjdPUnlIcEVHd003a2FDbldjUm9KbHJQaENINkxINzRiN3hpLVNDbWdkcS1QM2dxbko0bGpGTUhtYmlubTh5eUYtWmszdzNJTnN6eTFrLWdpdFF2ME9Ua2tlMkR0d2RB?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "9f39401d087a",
-      "title": "乳癌竟能利用免疫細胞招來神經，幫助腫瘤生長 - TechNews 科技新報",
+      "id": "48c8a85b2ea3",
+      "title": "乳癌竟能利用免疫細胞招來神經，幫助腫瘤生長",
       "published": "2026-09-04T00:24:38+00:00",
-      "summary": "乳癌竟能利用免疫細胞招來神經，幫助腫瘤生長&nbsp;&nbsp;TechNews 科技新報",
+      "summary": "乳癌竟能利用免疫細胞招來神經，幫助腫瘤生長&nbsp;&nbsp;technews.tw",
       "sources": [
         {
-          "name": "TechNews 科技新報",
+          "name": "technews.tw",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSDk0blVfN1F1M0xSTGtheEtUUFo0Z2tHSGFMRlhVY1pNNXFqbFFsUHRqZnYxZkc5RWVuNDNkRkRQM3ZOSElJazRKMXc4alY0RkR1cTRXLXZEODg1R1J6cVVudjV1MzdQbkxHR0VTbUNwN0FJYUdUYnlUemp4MmJMemQ5cmZqeGJvT0ZYbF9WdVdpSFphR3Nvd0hhNXpJbEpkNmc?oc=5"
         }
       ],
@@ -1028,13 +1289,13 @@
       ]
     },
     {
-      "id": "584895157736",
+      "id": "569cc45c737e",
       "title": "Target嬰兒濕巾涉細菌污染 急召回",
       "published": "2026-09-03T20:44:24+00:00",
-      "summary": "Target嬰兒濕巾涉細菌污染 急召回&nbsp;&nbsp;Singtaousa",
+      "summary": "Target嬰兒濕巾涉細菌污染 急召回&nbsp;&nbsp;singtaousa.com",
       "sources": [
         {
-          "name": "Singtaousa",
+          "name": "singtaousa.com",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVTBSQ1VPTzZMUERNXzhDQk9GUk5mX2owc0Z2ZGt4VXc4R3RGcjFheE82SjdJVi1LYlRlakdEMk81V0FsS3VlMXlKZVQyeWY1UjRoTTE4SVBZOWpTTllLeEl5R19BblVIbUFMVHQxejNndi1WQ2txRmNRNnN3QU1JRGdMOE1RLU53WlQ2NC1ydU1DUngtTWV3aUtzYXluNnBleGNGZjNZWkM?oc=5"
         }
       ],
@@ -1054,13 +1315,13 @@
       "matched_keywords": []
     },
     {
-      "id": "714f65836aed",
+      "id": "d839d3c07d09",
       "title": "議員與民間領袖怒批市長 應對退伍軍人症疫情不力",
       "published": "2026-09-03T10:00:00+00:00",
-      "summary": "議員與民間領袖怒批市長 應對退伍軍人症疫情不力&nbsp;&nbsp;Singtaousa",
+      "summary": "議員與民間領袖怒批市長 應對退伍軍人症疫情不力&nbsp;&nbsp;singtaousa.com",
       "sources": [
         {
-          "name": "Singtaousa",
+          "name": "singtaousa.com",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObDREMnhGZEdVQWRLcFFwUFEtZGRQOVRMVUxLOElpMC1ucFlUR1c5b204b0VjU3VEQXZRelVOUDdXeWhkd3dJNGZZWDhaNEo1Uk5LWl9NZzJYV2Mxbjh2UUdQMWJuMFp0dzJhMm52MmE4cUhLbFVnVTNPTE43UVZ6WVprWkEtTTg?oc=5"
         }
       ],
@@ -1142,19 +1403,6 @@
       "matched_keywords": []
     },
     {
-      "id": "41e9b417c8fd",
-      "title": "吃不胖別急著羨慕！「怎麼吃都不長肉」恐是體重過輕的健康警訊",
-      "published": "2026-09-02T12:00:42+00:00",
-      "summary": "吃不胖別急著羨慕！「怎麼吃都不長肉」恐是體重過輕的健康警訊&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQM25lRFlDRGtreHpqMHZaNC0zZk85bmVmQzhfRnJUVmpCX21PM0M4ZGczek5pVWM5UXhNS1FDbHJTUW1NbWdWYUl3NUVtSmlVSTZOd09LRXBJU1ZBd3l3Z1lQZ1g2aDRCQTBuWG02M3ZTTWVIWVZhazY0OWRZZmNUYzdoS3RKSlpiOFVxNDIzcXc5Qy0xcE5lTnJqSE5IdVFITDVockVjdDVLOWVZN0NOeERoZDNmZzZ1ZkZkUGNRaTl0NTB5a3J6UlhPeEYwYjB5VVNFV09VeW1QcGR3V2pMUEwxaWEzcmg4QlBhRXVJVGEzR1dwdzlZOE5LSHF4UXI2QkdGU0tmTnlBRkFMRGdlczZYVGZ5YlpNbFc4cVZ6Q2ZEdFpZZm9BUDZIWFlVSmhVQmNJS016R21VU09qNFFITkIwWXlmNUFWZFRDN1VQUjgtQTdfamxnUjZMR1k4cXBKaHNXT3dIZkl1d2YxYXV1X1BqQURWZk9BcGRFRWpUdmNSXzhHbHRRaE9LVlpYUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "5f00b0a847fc",
       "title": "視力變差別急著換眼鏡？真相恐是睡眠不足",
       "published": "2026-09-02T11:00:00+00:00",
@@ -1216,19 +1464,6 @@
       ]
     },
     {
-      "id": "c0b191bfbacb",
-      "title": "斷崖式衰老是真的！史丹佛研究揭密「這2個年齡」身體會急速變老 - Women's Health",
-      "published": "2026-09-02T07:00:00+00:00",
-      "summary": "斷崖式衰老是真的！史丹佛研究揭密「這2個年齡」身體會急速變老&nbsp;&nbsp;Women's Health",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeFpWNEQ3ZXh0UUFRVk5QWUctcjZfRGxMUm1VanRLWjRHRzF0Ri1TLXdXQWVzTUhCY2RobEhvM2RVTGo2M2Q5eThHSkE0QjA2UEtwejZvQ0VkNDVJSFM2SWZIVmxnSlpIZmEyNHRJM3VSWmdzYWZ2ckp4WGZzQVFyUXlB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "357275785be3",
       "title": "90歲還沒失智也別大意！研究揭女性風險高1倍 6件事幫大腦維持健康",
       "published": "2026-09-02T05:41:00+00:00",
@@ -1252,6 +1487,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "9dfbab1b4cbc",
+      "title": "戒掉牛奶、穀物才健康？人類飲食演化揭開原始人飲食法的盲點 - 食力 foodNEXT",
+      "published": "2026-09-02T04:02:42+00:00",
+      "summary": "戒掉牛奶、穀物才健康？人類飲食演化揭開原始人飲食法的盲點&nbsp;&nbsp;食力 foodNEXT",
+      "sources": [
+        {
+          "name": "食力 foodNEXT",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vbkNSTHJneFQxMGRYLWoyN0RobXFrd05hMllvT2VjMjhxVnV5VW9JMTlzTWVwYUZFcGI2V2hpY2U3eW9JYm1lbmxVZkJvUVQzVk16NEVtZzBnM2lxV2UzY0ZwU0w?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "b81d327dee42",
@@ -1539,13 +1787,13 @@
       "matched_keywords": []
     },
     {
-      "id": "f82f305b657e",
+      "id": "8c7a9037d073",
       "title": "原本治關節炎！這款藥竟讓「鬼剃頭」長回頭髮 逾5成重度患者恢復8成",
       "published": "2026-09-01T04:04:00+00:00",
-      "summary": "原本治關節炎！這款藥竟讓「鬼剃頭」長回頭髮 逾5成重度患者恢復8成&nbsp;&nbsp;自由健康網",
+      "summary": "原本治關節炎！這款藥竟讓「鬼剃頭」長回頭髮 逾5成重度患者恢復8成&nbsp;&nbsp;health.ltn.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBNUlWWHd5ZTRKSlBOTzRjU01ZWmxxVXNzdUk3ZnluYXh4ZE5iVm9CbzhqMWc2U1pORkdSMU9LaVprajMzbHhlMmFoNjZNb3c4MmxRaXpQemotbjBLX3NQZTliZ1DSAWpBVV95cUxOSFJ4QVE1RFh6eEJFam5ZQ1E5eXZPdEVXMUlmUTNzc2R1cHd4ZHBWWHRuZnVCWjk2S3o5ai1XeTJ3QU5JeVNnci1XTC11anoxRmFGSHY3STFMWjlJVGV2eDRFZS1VUnA4em13?oc=5"
         }
       ],
@@ -1601,77 +1849,14 @@
       ]
     },
     {
-      "id": "b173813e4025",
-      "title": "臺印攜手強化傳染病防治 亞東醫院分享 AI 病媒監測與結核病照護",
-      "published": "2026-08-31T10:00:33+00:00",
-      "summary": "臺印攜手強化傳染病防治 亞東醫院分享 AI 病媒監測與結核病照護&nbsp;&nbsp;樂聯網",
+      "id": "eb4fb760db52",
+      "title": "臺印攜手強化傳染病防治亞東醫院分享AI 病媒監測與結核病照護- 生活新聞- PChome Online 新聞 - PChome Online 新聞",
+      "published": "2026-08-31T18:04:37+00:00",
+      "summary": "臺印攜手強化傳染病防治亞東醫院分享AI 病媒監測與結核病照護- 生活新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
-          "name": "樂聯網",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oOWNNbmJqVlZZak9qSXMwYVI3cXh3NFJRUEU5YzRrYjVYN0VpanhZYi16Q3liVER3WFhDbi11UkxkM3l5WGctZVB6WQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "148a33bf8011",
-      "title": "晚年能否穩定吃飽竟與失智有關？研究追蹤2051人揭關鍵時期",
-      "published": "2026-08-31T08:12:37+00:00",
-      "summary": "晚年能否穩定吃飽竟與失智有關？研究追蹤2051人揭關鍵時期&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wN1BaV3dFZFpwcjAtQ0phc3RnNEVCVkU5ZmdMcmRvTjAwa24zVGFFTUNIQ0RKRUp0Y2I2cTk4dC0ydnp1cUdGNGpTdzdtRE5tQ2xLd3Y2RnFzTGQwdmfSAWNBVV95cUxQazhyc2JlTklxRUxLUjZXc2ZUTGhGMG9uNWEwalh1NGtVUUNiWngwVm1FZUJPUG52ZnpXX2l5eHFORl84SVoyUmx1ZFhraHNmS0VqNXdZQVVOUG1KVWRILW55cU0?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "21c277703d52",
-      "title": "35歲起就要注意中年人6種情緒增失智風險沒自信也中- 健康",
-      "published": "2026-08-31T07:52:08+00:00",
-      "summary": "35歲起就要注意中年人6種情緒增失智風險沒自信也中- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MSG1CZlFvNnNHd3lBOERBdHhILTB3bHM5RzRVbEx4YXlNaEVwZl90ME1tTlFxTmxpcVJLVWRLLXhnWlpyOUhYZHc5d0MxSTZvRWhqaVlZZDRqVDZWaGxrQXVWdno4ZjVRTEQyMXd3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d947717cfab8",
-      "title": "健康網》認識PRP 醫：打PRP之前 可以問這些問題",
-      "published": "2026-08-31T06:39:00+00:00",
-      "summary": "健康網》認識PRP 醫：打PRP之前 可以問這些問題&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NdE95UFJxc0FQdHg1TE1OWWlkWnozejgtUmdGUlhpS2EtMjNfWjQzc3F4NjNqV0plZFNQakRTdHJ2NzBhTXNjY1dSVUEyUWNUV3p6LUR1eWRIR2lDOE9SbWFlYlI?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaWlWTG1PUGhPQ01RclFIVGQwSWo3WWZ5NVVYSmFMVWl0bkVEY3ZHM3pkSENlRXdDeWkydWNpSUZaZVBlTjItY3puYzE4cXhQbWdJSFVNTFl6YXU3SHFpY0hpdlZIY1F4SU1UNzdyQUJYNTBBOTFGeGw0NWEydFBLMHdYVTdWUQ?oc=5"
         }
       ],
       "matched_keywords": []
