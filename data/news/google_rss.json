@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-09-07T16:53:34.480344+00:00",
-  "count": 38,
+  "fetched_at": "2026-09-07T20:17:00.117777+00:00",
+  "count": 37,
   "news": [
     {
       "id": "5ea02f84f3b7",
@@ -28,6 +28,18 @@
       ]
     },
     {
+      "id": "5ada7fdd845d",
+      "title": "豬腎植人體撐285天破紀錄 - 信報網站",
+      "published": "2026-09-06T18:37:12+00:00",
+      "summary": "豬腎植人體撐285天破紀錄&nbsp;&nbsp;信報網站腎病患者靠移植豬腎生活九個月，直到接受人類腎臟移植- 紐約時報中文網&nbsp;&nbsp;纽约时报中文网豬腎移植創紀錄！患者體內運作271天 異種移植有望成器官荒解方&nbsp;&nbsp;Yahoo新聞豬腎在人體內運作271天——這會是器官移植的未來嗎？&nbsp;&nbsp;BBC豬腎代打271天救援成功！他創「異種移植紀錄」終等到人腎&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "信報網站",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTVh6YkdrMGdoZGlBY3I4WklwQ3FKVDYtMHRBRE1XOVo1bXhkUUlydG0yallDRElVTDA1cDNUb3B6X1hhZU16V1Q2Nzk2UTBla1l1Y3ppVnpfYnNmZWtKOVRYbTQ5SU1adWd6LTMwZEdGX3hRQnlqeU9yVDZkSTlHS1VxSS1nWmVBSmVRbWZJWG1HX2NfYnpGOWdfTXZXWHZMVTJGXzVOZWY4MDdBT0lHR2o5TEZ6eDFOMGxPMzQwT21DVGhQWjJ1VDY5bU1NNzNxckd2WUFqLXJXVzVjS0dF?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a812b3ad4996",
       "title": "子宮內膜異位症可能歷時過久才會確診專家這麼說- 國際 - 工商時報",
       "published": "2026-09-06T13:38:00+00:00",
@@ -40,22 +52,10 @@
       ]
     },
     {
-      "id": "5ada7fdd845d",
-      "title": "豬腎植人體撐285天破紀錄 - 信報網站",
-      "published": "2026-09-06T18:37:12+00:00",
-      "summary": "豬腎植人體撐285天破紀錄&nbsp;&nbsp;信報網站豬腎移植創紀錄！患者體內運作271天 異種移植有望成器官荒解方&nbsp;&nbsp;Yahoo新聞豬腎在人體內運作271天——這會是器官移植的未來嗎？&nbsp;&nbsp;bbc.com豬腎代打271天救援成功！他創「異種移植紀錄」終等到人腎&nbsp;&nbsp;三立新聞腎病患者靠移植豬腎生活九個月，直到接受人類腎臟移植- 紐約時報中文網&nbsp;&nbsp;纽约时报中文网",
-      "sources": [
-        {
-          "name": "信報網站",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTVh6YkdrMGdoZGlBY3I4WklwQ3FKVDYtMHRBRE1XOVo1bXhkUUlydG0yallDRElVTDA1cDNUb3B6X1hhZU16V1Q2Nzk2UTBla1l1Y3ppVnpfYnNmZWtKOVRYbTQ5SU1adWd6LTMwZEdGX3hRQnlqeU9yVDZkSTlHS1VxSS1nWmVBSmVRbWZJWG1HX2NfYnpGOWdfTXZXWHZMVTJGXzVOZWY4MDdBT0lHR2o5TEZ6eDFOMGxPMzQwT21DVGhQWjJ1VDY5bU1NNzNxckd2WUFqLXJXVzVjS0dF?oc=5"
-        }
-      ]
-    },
-    {
       "id": "36348209b7c1",
       "title": "四大人格特質 這類人最容易罹癌 - 東森新聞",
       "published": "2026-09-05T01:20:00+00:00",
-      "summary": "四大人格特質 這類人最容易罹癌&nbsp;&nbsp;東森新聞總是替別人著想，身體反而出問題？研究揭「壓抑情緒」的代價－精選書摘&nbsp;&nbsp;businessweekly.com.tw",
+      "summary": "四大人格特質 這類人最容易罹癌&nbsp;&nbsp;東森新聞總是替別人著想，身體反而出問題？研究揭「壓抑情緒」的代價－精選書摘&nbsp;&nbsp;商周",
       "sources": [
         {
           "name": "東森新聞",
@@ -100,14 +100,14 @@
       ]
     },
     {
-      "id": "9a810328811c",
-      "title": "打破「小酌無害」觀念研究：每日一杯癌症死亡風險倍增- 國際 - 工商時報",
-      "published": "2026-09-03T14:30:00+00:00",
-      "summary": "打破「小酌無害」觀念研究：每日一杯癌症死亡風險倍增- 國際&nbsp;&nbsp;工商時報",
+      "id": "7dae389296e3",
+      "title": "葡萄酒死亡風險較低就能放心喝？34萬人調查追蹤：高度飲酒風險仍增24％ - 食力 foodNEXT",
+      "published": "2026-09-05T14:01:56+00:00",
+      "summary": "葡萄酒死亡風險較低就能放心喝？34萬人調查追蹤：高度飲酒風險仍增24％&nbsp;&nbsp;食力 foodNEXT",
       "sources": [
         {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5"
+          "name": "食力 foodNEXT",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvbVVCanBpbFlxMjBSWFl2RTdiZEtaMXhSOXpuOWpPdTZQVVdwSjNhMml4YzlObTNDSjVHV0plT3lOcDNpX2lDN2JCbFdXN3c4QURkalowakhUWldFbEl0c05MVk8?oc=5"
         }
       ]
     },
@@ -148,13 +148,13 @@
       ]
     },
     {
-      "id": "95f860b8056f",
-      "title": "二甲雙胍是增肌剋星？長壽藥與肌肉生長的拉鋸戰 - contentplatform.info",
+      "id": "68f6074e2cce",
+      "title": "二甲雙胍是增肌剋星？長壽藥與肌肉生長的拉鋸戰 - 報新聞",
       "published": "2026-09-05T02:34:38+00:00",
-      "summary": "二甲雙胍是增肌剋星？長壽藥與肌肉生長的拉鋸戰&nbsp;&nbsp;contentplatform.info",
+      "summary": "二甲雙胍是增肌剋星？長壽藥與肌肉生長的拉鋸戰&nbsp;&nbsp;報新聞",
       "sources": [
         {
-          "name": "contentplatform.info",
+          "name": "報新聞",
           "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOWFo1Zmh6YTB3eVdNcDRIbFBpVUNTblNkcHJNSkhpeTdLUTBSOHFSeVBqUXZJdG5wWU0yTkdMQ0Q1SXBJMXFYamh6MVd1UFJOeWYxNjJmQms4YkhSa3BTaU1xc3Q5Mnc1Ml9WNGU3Q1pxLWJhRE9PcXZRQ2N2dUhNOTEzNjhPeEhBUkZRSUl3TWtUZmowM0x5V0RLTHFJWXlvWlEyUUZ2UG9Hb0hpck1vWkhxTlNfS1BnTnNhMTJHT1BQX3RiZm1KWExJc3JCV0lwWEpQbXdrekUxdTQ4N080bmc2TzhPOV9WTW1EV1BaQ0xaN3FNYzV1bTNFbmRWOEdSY0NBRWtHX2JRRVdVOENGSTRmT3EtQUtUQkc1Q09wMEZ5X09MU01hVEdQT1FEdGh0T3hxMnFlaFJDWThoY05OVUNfQU1qb0tiSlJSdzhGTUY4WFBENFhWX0dvb2lhUzQtMUNQd1l2aw?oc=5"
         }
       ]
@@ -316,13 +316,13 @@
       ]
     },
     {
-      "id": "78a6821738e5",
-      "title": "研究：激素動態監測或有助識別一種常見高血壓病因- 國際 - wenweipo.com",
+      "id": "579b6f9d2e17",
+      "title": "研究：激素動態監測或有助識別一種常見高血壓病因- 國際 - 香港文匯報",
       "published": "2026-09-06T07:27:40+00:00",
-      "summary": "研究：激素動態監測或有助識別一種常見高血壓病因- 國際&nbsp;&nbsp;wenweipo.com",
+      "summary": "研究：激素動態監測或有助識別一種常見高血壓病因- 國際&nbsp;&nbsp;香港文匯報",
       "sources": [
         {
-          "name": "wenweipo.com",
+          "name": "香港文匯報",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MRzZvT0ZWUUhKTHRhbktxd3phMHVlQ3Blczk5RG9pOXNNY2VESV9qMVhlQ3VEbWlUcWFfdV9TeXVnaF9GWkpYTkRxV1NYS2xuNmFjWVo2Mzg4RldYWnM2OTA3Q2hxa1VLaTZ5TV9oLWxEamJDaFJv?oc=5"
         }
       ]
@@ -444,18 +444,6 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObDREMnhGZEdVQWRLcFFwUFEtZGRQOVRMVUxLOElpMC1ucFlUR1c5b204b0VjU3VEQXZRelVOUDdXeWhkd3dJNGZZWDhaNEo1Uk5LWl9NZzJYV2Mxbjh2UUdQMWJuMFp0dzJhMm52MmE4cUhLbFVnVTNPTE43UVZ6WVprWkEtTTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7adc88e71b04",
-      "title": "65歲婦感冒死忍4日不求醫！送急症驚揭全身發炎！醫生警告4件事不吃藥更傷身 - UHK 港生活",
-      "published": "2026-08-31T18:19:08+00:00",
-      "summary": "65歲婦感冒死忍4日不求醫！送急症驚揭全身發炎！醫生警告4件事不吃藥更傷身&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNLW5vdW5vZ1AyeHk4dGZlUnNiQ3FwaHVHVlA5MHJVRU1DYzh4XzZzRkRLTnFUVjZfUDVCSFEyN3ZJdFl1VEROb243WXM0MVpsVkVaZGFDaFFwcm8tejZHdlpZX0ItRjRQd0dyMlRwSnA5ZUV6alZvN19wQlNOUFpuMDNyd19FX3VuVG5wUUxyOFlOdG01czhyaTF4UFJ6TTRYaVlGVnJmTnN5WFB2NlhjZ2RoR0xObmpYYVlaaE05OWFaeUszT2RLRXp2d1dMdUZtb3hhcFhZMGw2MmtWMTZPV1NibGRsemNSbU03LWpXcXdMbXROS2NNcjVVd0RmSXk1Y0RrZFRsUWgtalAxd1E1NFNwSVNpWEF5UWtpbF9IOU9BWGs2a2pvOTA5cVM2MTNDTHpIbUZrelZEWGplU1JEU3JQRlJmSnNBZFBzN2VGOVNNUm41cExhUWZSTUNqazY1ZWdCbUZHVkYxeHFZUmE2cGpsWlFsQ0lsSkxkS0c5Y25wdk43ZlczaDE0Z0JZREswYVhXdzVrY2RYdk81OFlnT0U3T1ZDTGhnOE81Q0lfV0xRWGpRM19GbnBtY3lidjMzcHRNWWJ4Zmk0UVczWG9LZkJHTlVPTUVTOWc?oc=5"
         }
       ]
     }

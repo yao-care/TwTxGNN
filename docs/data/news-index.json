@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-07T16:53:37.167538+00:00",
-  "count": 14,
+  "generated": "2026-09-07T20:17:02.570418+00:00",
+  "count": 12,
   "news": [
     {
       "id": "2af60ecb12cf",
@@ -485,12 +485,12 @@
       ]
     },
     {
-      "id": "78a6821738e5",
+      "id": "579b6f9d2e17",
       "title": "研究：激素動態監測或有助識別一種常見高血壓病因- 國際",
       "published": "2026-09-06T07:27:40+00:00",
       "sources": [
         {
-          "name": "wenweipo.com",
+          "name": "香港文匯報",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MRzZvT0ZWUUhKTHRhbktxd3phMHVlQ3Blczk5RG9pOXNNY2VESV9qMVhlQ3VEbWlUcWFfdV9TeXVnaF9GWkpYTkRxV1NYS2xuNmFjWVo2Mzg4RldYWnM2OTA3Q2hxa1VLaTZ5TV9oLWxEamJDaFJv?oc=5"
         }
       ],
@@ -988,214 +988,6 @@
       ]
     },
     {
-      "id": "9a810328811c",
-      "title": "打破「小酌無害」觀念研究：每日一杯癌症死亡風險倍增- 國際",
-      "published": "2026-09-03T14:30:00+00:00",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "14e053f0eb8d",
       "title": "腦腫瘤警號｜右腳麻痺刺痛誤當肌腱炎40歲母突發癲癇揭患惡性腦瘤| 健康解「迷」 - 醫學通識- 健康好人生 - etnet 經濟通",
       "published": "2026-09-03T12:42:46+00:00",
@@ -1564,30 +1356,6 @@
             {
               "slug": "lornoxicam",
               "name": "Lornoxicam"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7adc88e71b04",
-      "title": "65歲婦感冒死忍4日不求醫！送急症驚揭全身發炎！醫生警告4件事不吃藥更傷身 - UHK 港生活",
-      "published": "2026-08-31T18:19:08+00:00",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNLW5vdW5vZ1AyeHk4dGZlUnNiQ3FwaHVHVlA5MHJVRU1DYzh4XzZzRkRLTnFUVjZfUDVCSFEyN3ZJdFl1VEROb243WXM0MVpsVkVaZGFDaFFwcm8tejZHdlpZX0ItRjRQd0dyMlRwSnA5ZUV6alZvN19wQlNOUFpuMDNyd19FX3VuVG5wUUxyOFlOdG01czhyaTF4UFJ6TTRYaVlGVnJmTnN5WFB2NlhjZ2RoR0xObmpYYVlaaE05OWFaeUszT2RLRXp2d1dMdUZtb3hhcFhZMGw2MmtWMTZPV1NibGRsemNSbU03LWpXcXdMbXROS2NNcjVVd0RmSXk1Y0RrZFRsUWgtalAxd1E1NFNwSVNpWEF5UWtpbF9IOU9BWGs2a2pvOTA5cVM2MTNDTHpIbUZrelZEWGplU1JEU3JQRlJmSnNBZFBzN2VGOVNNUm41cExhUWZSTUNqazY1ZWdCbUZHVkYxeHFZUmE2cGpsWlFsQ0lsSkxkS0c5Y25wdk43ZlczaDE0Z0JZREswYVhXdzVrY2RYdk81OFlnT0U3T1ZDTGhnOE81Q0lfV0xRWGpRM19GbnBtY3lidjMzcHRNWWJ4Zmk0UVczWG9LZkJHTlVPTUVTOWc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
