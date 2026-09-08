@@ -14,7 +14,7 @@ permalink: /news/vismodegib/
 ---
 
 <p class="key-answer" data-question="Vismodegib 有什麼相關新聞？">
-<strong>Vismodegib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vismodegib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/vismodegib/
 <p><a href="{{ '/drugs/vismodegib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [全球首款食道癌藥物「Telomelysin」面世！基因改造病毒專攻癌細胞 成第5種癌症治療選擇](https://news.google.com/rss/articles/CBMi3wNBVV95cUxNQnB1d2J3ay14R0Q1bXRyMmtkVTBmdTZIT0xCaDlZemdKSHQ1cVZ6Q05rYUJrM1BMaTROM2xSSXlDakFpZmFsdFhCc3J3LVUySk1RaVFHeWVYeTJxaVlGdGZWS0ZIbjctMmtJaFNHT2lDSVVXczZEVVZRQXJTMGg4Wnl5MW1zb1NwWWFTUWdRVEoyOVluVjJKaTBKWV9jUmZqZU9IMjBCeVhDWmZ0Z1pEUTgtaS1zdnU5aGhKbGdPRm9zcnZ0bkhfX0Z3QlRtUWRZeUhzb2FsV1FQaVZfa2RVUEFlWDFzM2RhSTdGTWExamVXWS1tUnBzTzIxZHcxRUpxd0k0eDkzNERGSFF2NDhlcUxhQUVaYzBIN0hNLW5Md3k5Z2pfcmNSVmFWU2dseDVSNEYyN19qOWlocG1OeEZZVzdXVHJTQ2k1dUJ4TzhhOXlTUVpqTG9VSm5ld3J3R3lJZ0gxc3c2azZvYnU3eGVCVTBVZ1p3UU9zUFVpYVRaQkh5TEpfN2VpZ0JMbGUwcldWNnR3T2c0Nm9VdHNiOHlycXYwMnRuYjhDMFdiUngyZXl5dTcwVjhoM3FZR2xhZTdndEF0cFNad1ZjVnpVRTdIRVYxdXFoOUFSc2pEM3BRVQ?oc=5)
+
+2026-09-08 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">食道癌</span>
+
+來源：[星島頭條](https://news.google.com/rss/articles/CBMi3wNBVV95cUxNQnB1d2J3ay14R0Q1bXRyMmtkVTBmdTZIT0xCaDlZemdKSHQ1cVZ6Q05rYUJrM1BMaTROM2xSSXlDakFpZmFsdFhCc3J3LVUySk1RaVFHeWVYeTJxaVlGdGZWS0ZIbjctMmtJaFNHT2lDSVVXczZEVVZRQXJTMGg4Wnl5MW1zb1NwWWFTUWdRVEoyOVluVjJKaTBKWV9jUmZqZU9IMjBCeVhDWmZ0Z1pEUTgtaS1zdnU5aGhKbGdPRm9zcnZ0bkhfX0Z3QlRtUWRZeUhzb2FsV1FQaVZfa2RVUEFlWDFzM2RhSTdGTWExamVXWS1tUnBzTzIxZHcxRUpxd0k0eDkzNERGSFF2NDhlcUxhQUVaYzBIN0hNLW5Md3k5Z2pfcmNSVmFWU2dseDVSNEYyN19qOWlocG1OeEZZVzdXVHJTQ2k1dUJ4TzhhOXlTUVpqTG9VSm5ld3J3R3lJZ0gxc3c2azZvYnU3eGVCVTBVZ1p3UU9zUFVpYVRaQkh5TEpfN2VpZ0JMbGUwcldWNnR3T2c0Nm9VdHNiOHlycXYwMnRuYjhDMFdiUngyZXl5dTcwVjhoM3FZR2xhZTdndEF0cFNad1ZjVnpVRTdIRVYxdXFoOUFSc2pEM3BRVQ?oc=5)
+
+---
 
 ### [癌症開完刀為什麼還會復發？南韓團隊從脾臟下手，用細菌做出奈米平台（小鼠實驗）](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTmY1UEhqTkJjY0FqY2VBLWN2TVRSUEo1aEhWcEhVRnMzb25mbUM0cVJtVUwzd0hhaGhjc09QYU1pWWs2WDFvT19zZFpUcDByZGhFMEhpa1dzcFNOWEJj?oc=5)
 
@@ -73,6 +81,14 @@ permalink: /news/vismodegib/
 2026-09-04 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span>
 
 來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSDk0blVfN1F1M0xSTGtheEtUUFo0Z2tHSGFMRlhVY1pNNXFqbFFsUHRqZnYxZkc5RWVuNDNkRkRQM3ZOSElJazRKMXc4alY0RkR1cTRXLXZEODg1R1J6cVVudjV1MzdQbkxHR0VTbUNwN0FJYUdUYnlUemp4MmJMemQ5cmZqeGJvT0ZYbF9WdVdpSFphR3Nvd0hhNXpJbEpkNmc?oc=5)
+
+---
+
+### [打破「小酌無害」觀念研究：每日一杯癌症死亡風險倍增- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5)
+
+2026-09-03 <span class="news-indication-tag">癌症</span>
+
+來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5)
 
 ---
 

@@ -1,8 +1,279 @@
 {
-  "last_updated": "2026-09-07T23:10:41.806221+00:00",
-  "total_count": 38,
-  "matched_count": 12,
+  "last_updated": "2026-09-08T02:11:58.167785+00:00",
+  "total_count": 40,
+  "matched_count": 15,
   "news": [
+    {
+      "id": "550c60c2037b",
+      "title": "全球首款食道癌藥物「Telomelysin」面世！基因改造病毒專攻癌細胞 成第5種癌症治療選擇",
+      "published": "2026-09-08T02:01:11+00:00",
+      "summary": "全球首款食道癌藥物「Telomelysin」面世！基因改造病毒專攻癌細胞 成第5種癌症治療選擇&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNQnB1d2J3ay14R0Q1bXRyMmtkVTBmdTZIT0xCaDlZemdKSHQ1cVZ6Q05rYUJrM1BMaTROM2xSSXlDakFpZmFsdFhCc3J3LVUySk1RaVFHeWVYeTJxaVlGdGZWS0ZIbjctMmtJaFNHT2lDSVVXczZEVVZRQXJTMGg4Wnl5MW1zb1NwWWFTUWdRVEoyOVluVjJKaTBKWV9jUmZqZU9IMjBCeVhDWmZ0Z1pEUTgtaS1zdnU5aGhKbGdPRm9zcnZ0bkhfX0Z3QlRtUWRZeUhzb2FsV1FQaVZfa2RVUEFlWDFzM2RhSTdGTWExamVXWS1tUnBzTzIxZHcxRUpxd0k0eDkzNERGSFF2NDhlcUxhQUVaYzBIN0hNLW5Md3k5Z2pfcmNSVmFWU2dseDVSNEYyN19qOWlocG1OeEZZVzdXVHJTQ2k1dUJ4TzhhOXlTUVpqTG9VSm5ld3J3R3lJZ0gxc3c2azZvYnU3eGVCVTBVZ1p3UU9zUFVpYVRaQkh5TEpfN2VpZ0JMbGUwcldWNnR3T2c0Nm9VdHNiOHlycXYwMnRuYjhDMFdiUngyZXl5dTcwVjhoM3FZR2xhZTdndEF0cFNad1ZjVnpVRTdIRVYxdXFoOUFSc2pEM3BRVQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "食道癌",
+          "keyword": "食道癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "206d000ac3e1",
+      "title": "「老倒縮」是的！她變矮3公分、腰痠背痛竟罹「重度骨鬆」…醫示警：骨折沒前兆，4種人應主動篩檢",
+      "published": "2026-09-08T00:57:00+00:00",
+      "summary": "「老倒縮」是的！她變矮3公分、腰痠背痛竟罹「重度骨鬆」…醫示警：骨折沒前兆，4種人應主動篩檢&nbsp;&nbsp;幸福熟齡中元普渡祈平安，比禁忌更可怕的是「看不見的骨折風險」！ 醫師示警：骨鬆性骨折如隱形殺手，再骨折率高達約50%&nbsp;&nbsp;PChome Online 新聞50歲過後，要有好的骨頭之外，還要有好的肌力 | 熱門話題 | 要聞&nbsp;&nbsp;money.udn.com封面故事／醫生的話 跌倒or意外 骨折怎麼辦？&nbsp;&nbsp;世界新聞網《長青俱樂部25》跌一跤，人生就回不去了&nbsp;&nbsp;anntw.com",
+      "sources": [
+        {
+          "name": "幸福熟齡",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85akhJQUR0X1E5MnZxZVg4Yk9oRzEycVVIU2p5dDhoX0xDYk5yQVBNN2d4UTc2M1dYUWxGV2tiZ3N2Qm5weEVrRWhrT1p2SFhZSjlIRlBtOThxeTF6b3poRUpNVURqeVYxR2IwQVNyd19xSmZaQXVmcWh0OA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "be2a2dbe9f58",
+      "title": "成大醫院呼吸道疾病衛教週登場，氣喘、肺阻塞團隊攜手守護全齡呼吸健康",
+      "published": "2026-09-07T16:00:00+00:00",
+      "summary": "成大醫院呼吸道疾病衛教週登場，氣喘、肺阻塞團隊攜手守護全齡呼吸健康&nbsp;&nbsp;元氣網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jbmEtaENCdXUzamdnRWtOQTNfdk41aEs4M044YU85QUJHblhjblNMaHJRYzNqU2FlbDByN1FNLTlBdUd2M04zVUxxdlhIanlNMDBBaXVrdlZKX0Rv?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "氣喘",
+          "keyword": "氣喘",
+          "related_drugs": [
+            {
+              "slug": "dupilumab",
+              "name": "Dupilumab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6a9c2ec10f97",
+      "title": "降血脂運動｜47歲女醫生靠居家抗阻訓練＋飲食調整1年降膽固醇練出馬甲線| 健康解「迷」 - 醫學通識- 健康好人生 - etnet 經濟通",
+      "published": "2026-09-07T14:03:15+00:00",
+      "summary": "降血脂運動｜47歲女醫生靠居家抗阻訓練＋飲食調整1年降膽固醇練出馬甲線| 健康解「迷」 - 醫學通識- 健康好人生&nbsp;&nbsp;etnet 經濟通",
+      "sources": [
+        {
+          "name": "etnet 經濟通",
+          "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQYjFReEtWS0FOMjFWaXhvdERDNTl1bTlNQl9OSmFfTks0ekZ2OXQtT2Y3b1FvTE9ReTc2Q2JocFJCYXQyZ1BBRDMyUkh5MU1xZ3N6WnkyYnRmVDltTDF0YzhOc2sycjdIOWQxWTVvWmxUYlNrMThReW9WUVl6Tk9hWnVybUtMcWRjaGZtVmNJVDc3YW1sbHJkZ3RsMnRjamEwXzFXbnlQcDBoSEsyYkVEcVpRaXhlQ005akJzd1NfYnc4MDR2YW8tYjBfd0JvWkdOV2dvcUg4QXVQbWZucUgwVUNlVGUyLUFfRDd2aDM1ZzlVZDRsQThlelp5ako0SGdXUTkweUlLY0RCMkhDNUU4eEhxUHJ3TGZ0alFQZW5EWHVZc3hWdlNxZm1tMUdSREVkMk02N3h0TmVrd3VIdXdaLXJCMUd1Z1lzY0VvWjNuNEZmY3FIU0xZMEFadTVOaHhmN29fdjI1UVJMUlF0ZG5FZHZHbk01N0pQRTVHZXFsamNYbjBsTVJneVZnWVJZRjlsZFZfWnNhenluOUxJWEFSb2Nlak9KZ2lDUHY3cl80eDVKOENWckJBYk5fWUZzZUphOHJ4aEhXUHBwckhnWHhaOVBzRFVzSGx1NC04RUVobk0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "7dcd133314ae",
       "title": "屹立百年 貝克研究所挽救無數病患",
@@ -265,13 +536,13 @@
       ]
     },
     {
-      "id": "5ada7fdd845d",
+      "id": "228713719c93",
       "title": "豬腎植人體撐285天破紀錄",
       "published": "2026-09-06T18:37:12+00:00",
-      "summary": "豬腎植人體撐285天破紀錄&nbsp;&nbsp;信報網站腎病患者靠移植豬腎生活九個月，直到接受人類腎臟移植- 紐約時報中文網&nbsp;&nbsp;纽约时报中文网豬腎移植創紀錄！患者體內運作271天 異種移植有望成器官荒解方&nbsp;&nbsp;Yahoo新聞豬腎在人體內運作271天——這會是器官移植的未來嗎？&nbsp;&nbsp;BBC豬腎代打271天救援成功！他創「異種移植紀錄」終等到人腎&nbsp;&nbsp;三立新聞",
+      "summary": "豬腎植人體撐285天破紀錄&nbsp;&nbsp;hkej.com腎病患者靠移植豬腎生活九個月，直到接受人類腎臟移植- 紐約時報中文網&nbsp;&nbsp;纽约时报中文网豬腎移植創紀錄！患者體內運作271天 異種移植有望成器官荒解方&nbsp;&nbsp;Yahoo新聞豬腎在人體內運作271天——這會是器官移植的未來嗎？&nbsp;&nbsp;bbc.com豬腎代打271天救援成功！他創「異種移植紀錄」終等到人腎&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "信報網站",
+          "name": "hkej.com",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTVh6YkdrMGdoZGlBY3I4WklwQ3FKVDYtMHRBRE1XOVo1bXhkUUlydG0yallDRElVTDA1cDNUb3B6X1hhZU16V1Q2Nzk2UTBla1l1Y3ppVnpfYnNmZWtKOVRYbTQ5SU1adWd6LTMwZEdGX3hRQnlqeU9yVDZkSTlHS1VxSS1nWmVBSmVRbWZJWG1HX2NfYnpGOWdfTXZXWHZMVTJGXzVOZWY4MDdBT0lHR2o5TEZ6eDFOMGxPMzQwT21DVGhQWjJ1VDY5bU1NNzNxckd2WUFqLXJXVzVjS0dF?oc=5"
         }
       ],
@@ -580,6 +851,19 @@
       ]
     },
     {
+      "id": "aa28c589dd63",
+      "title": "為細胞穿上「隱形斗篷」，糖尿病治療迎來無副作用曙光 - TechNews 科技新報",
+      "published": "2026-09-06T09:16:17+00:00",
+      "summary": "為細胞穿上「隱形斗篷」，糖尿病治療迎來無副作用曙光&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaam5samlsbHZzTGdEYWlhT3JXVVNwUjRHNERkaHdUdUU2RGR6ZDJLdmh6T3FDd3Bzb0FUYkQwLVdNU2NGX19TNWxPZVdnLWFzODdVeUNFQXlnZjRKVlpqWUVvQms5ZzRm?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "579b6f9d2e17",
       "title": "研究：激素動態監測或有助識別一種常見高血壓病因- 國際",
       "published": "2026-09-06T07:27:40+00:00",
@@ -622,27 +906,14 @@
       "matched_keywords": []
     },
     {
-      "id": "8f35a08c6e4e",
+      "id": "1f4a238c4457",
       "title": "6旬男PSA異常 正子掃描揪攝護腺癌",
-      "published": "2026-09-05T20:19:10+00:00",
-      "summary": "6旬男PSA異常 正子掃描揪攝護腺癌&nbsp;&nbsp;中時新聞網",
+      "published": "2026-09-05T20:10:00+00:00",
+      "summary": "6旬男PSA異常 正子掃描揪攝護腺癌&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hOUZSVWloY21uSG9qbHJLYmpwOU96TmdONF9VZnZRdzlfVTZTY0RnYlRRV3huelhUVkdDZVloc01iZVc1alFuRW55cUdmRVJQTTYta2lObm9tdmdrOU5fSlN3ZmhBTWlkYUV3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7dae389296e3",
-      "title": "葡萄酒死亡風險較低就能放心喝？34萬人調查追蹤：高度飲酒風險仍增24％ - 食力 foodNEXT",
-      "published": "2026-09-05T14:01:56+00:00",
-      "summary": "葡萄酒死亡風險較低就能放心喝？34萬人調查追蹤：高度飲酒風險仍增24％&nbsp;&nbsp;食力 foodNEXT",
-      "sources": [
-        {
-          "name": "食力 foodNEXT",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvbVVCanBpbFlxMjBSWFl2RTdiZEtaMXhSOXpuOWpPdTZQVVdwSjNhMml4YzlObTNDSjVHV0plT3lOcDNpX2lDN2JCbFdXN3c4QURkalowakhUWldFbEl0c05MVk8?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbUM0WmxaYm9WMmZkUjhBNkdPMVVGMmx1TWFjdzZwV3NtQnFWLVB2ZW5TX0ZubzZlSFowZklhWlc3ejd2WXV0UUZ2WUkxQjhtaW9acEh4YWc0ZE9QbkxyUWtJOE4yUGtjaW51TGNZdzVqTGZNNlg0d0RiZjN6TUVLeWFJT0dQLVhYbDVjRnZmLVZRWFBmQTJCOXlWbXZEcC1haThQYU5ERnJQTXhDQlZYdERNejJxQnNkdW1OajVUTkVwWHhWY3NITVkzT2pZWmlRT2Q2bXZxendtOVpwTWZuYWpGUVZ3Vk1YbVp5bTR5TWlGRV8tX2c?oc=5"
         }
       ],
       "matched_keywords": []
@@ -702,7 +973,7 @@
       "id": "36348209b7c1",
       "title": "四大人格特質 這類人最容易罹癌",
       "published": "2026-09-05T01:20:00+00:00",
-      "summary": "四大人格特質 這類人最容易罹癌&nbsp;&nbsp;東森新聞總是替別人著想，身體反而出問題？研究揭「壓抑情緒」的代價－精選書摘&nbsp;&nbsp;businessweekly.com.tw",
+      "summary": "四大人格特質 這類人最容易罹癌&nbsp;&nbsp;東森新聞總是替別人著想，身體反而出問題？研究揭「壓抑情緒」的代價－精選書摘&nbsp;&nbsp;商周",
       "sources": [
         {
           "name": "東森新聞",
@@ -1191,9 +1462,257 @@
       "matched_keywords": []
     },
     {
+      "id": "9a810328811c",
+      "title": "打破「小酌無害」觀念研究：每日一杯癌症死亡風險倍增- 國際",
+      "published": "2026-09-03T14:30:00+00:00",
+      "summary": "打破「小酌無害」觀念研究：每日一杯癌症死亡風險倍增- 國際&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f4634dc634d7",
+      "title": "糖水檢查沒過會怎樣？營養師揭8種妊娠糖尿病風險 恐提高早產機率",
+      "published": "2026-09-03T11:00:00+00:00",
+      "summary": "糖水檢查沒過會怎樣？營養師揭8種妊娠糖尿病風險 恐提高早產機率&nbsp;&nbsp;民報",
+      "sources": [
+        {
+          "name": "民報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5raGRORGtuVHczUVpjRlVjX3NsTnplckh0TnhjbTZiRE1MYUdVVW5XbnQtN3pOVFNiWHFSRzIxckNBaENSdFR0bWY5S3I0UldzNS1mNUQ3TGh1S0Nta1gzWA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "714f65836aed",
+      "title": "議員與民間領袖怒批市長 應對退伍軍人症疫情不力",
+      "published": "2026-09-03T10:00:00+00:00",
+      "summary": "議員與民間領袖怒批市長 應對退伍軍人症疫情不力&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObDREMnhGZEdVQWRLcFFwUFEtZGRQOVRMVUxLOElpMC1ucFlUR1c5b204b0VjU3VEQXZRelVOUDdXeWhkd3dJNGZZWDhaNEo1Uk5LWl9NZzJYV2Mxbjh2UUdQMWJuMFp0dzJhMm52MmE4cUhLbFVnVTNPTE43UVZ6WVprWkEtTTg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5c08f643a0bf",
+      "title": "高鉀水果怎麼吃？7種水果幫助維持健康血壓 - 科技新聞 - PChome Online 新聞 - PChome Online 新聞",
+      "published": "2026-09-03T08:00:50+00:00",
+      "summary": "高鉀水果怎麼吃？7種水果幫助維持健康血壓 - 科技新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQjFUSGVVbS1zRzNTd3JIejVucG83VjB0c2JuZGlVdUZiZmFUa2VlaHh3X1J1N0N3UnI2ZkVKR3RId0tNc1Y4clg4MTlncnh3dGpaRWliMkk0ejN4WEpVUm9PZFJhN3h0NFR2blRWRG5UNkdUMnF0OHdFaWtvYWV4UDU4Z2dBcGRvY2swUw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "14e053f0eb8d",
       "title": "腦腫瘤警號｜右腳麻痺刺痛誤當肌腱炎40歲母突發癲癇揭患惡性腦瘤| 健康解「迷」 - 醫學通識- 健康好人生 - etnet 經濟通",
-      "published": "2026-09-03T12:42:46+00:00",
+      "published": "2026-09-03T06:53:09+00:00",
       "summary": "腦腫瘤警號｜右腳麻痺刺痛誤當肌腱炎40歲母突發癲癇揭患惡性腦瘤| 健康解「迷」 - 醫學通識- 健康好人生&nbsp;&nbsp;etnet 經濟通",
       "sources": [
         {
@@ -1411,58 +1930,6 @@
       ]
     },
     {
-      "id": "f4634dc634d7",
-      "title": "糖水檢查沒過會怎樣？營養師揭8種妊娠糖尿病風險 恐提高早產機率",
-      "published": "2026-09-03T11:00:00+00:00",
-      "summary": "糖水檢查沒過會怎樣？營養師揭8種妊娠糖尿病風險 恐提高早產機率&nbsp;&nbsp;民報",
-      "sources": [
-        {
-          "name": "民報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5raGRORGtuVHczUVpjRlVjX3NsTnplckh0TnhjbTZiRE1MYUdVVW5XbnQtN3pOVFNiWHFSRzIxckNBaENSdFR0bWY5S3I0UldzNS1mNUQ3TGh1S0Nta1gzWA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "714f65836aed",
-      "title": "議員與民間領袖怒批市長 應對退伍軍人症疫情不力",
-      "published": "2026-09-03T10:00:00+00:00",
-      "summary": "議員與民間領袖怒批市長 應對退伍軍人症疫情不力&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObDREMnhGZEdVQWRLcFFwUFEtZGRQOVRMVUxLOElpMC1ucFlUR1c5b204b0VjU3VEQXZRelVOUDdXeWhkd3dJNGZZWDhaNEo1Uk5LWl9NZzJYV2Mxbjh2UUdQMWJuMFp0dzJhMm52MmE4cUhLbFVnVTNPTE43UVZ6WVprWkEtTTg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "edda980068f7",
-      "title": "高鉀水果怎麼吃？7種水果幫助維持健康血壓 - 科技新聞 - PChome Online 新聞",
-      "published": "2026-09-03T08:00:50+00:00",
-      "summary": "高鉀水果怎麼吃？7種水果幫助維持健康血壓 - 科技新聞 - PChome Online 新聞&nbsp;&nbsp;news.pchome.com.tw",
-      "sources": [
-        {
-          "name": "news.pchome.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQjFUSGVVbS1zRzNTd3JIejVucG83VjB0c2JuZGlVdUZiZmFUa2VlaHh3X1J1N0N3UnI2ZkVKR3RId0tNc1Y4clg4MTlncnh3dGpaRWliMkk0ejN4WEpVUm9PZFJhN3h0NFR2blRWRG5UNkdUMnF0OHdFaWtvYWV4UDU4Z2dBcGRvY2swUw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9f4c79436bc5",
-      "title": "國人愛補鈣，為何骨折率仍高？趙順榮藥師：「補鈣5步驟」建立骨骼健康防線",
-      "published": "2026-09-03T03:18:55+00:00",
-      "summary": "國人愛補鈣，為何骨折率仍高？趙順榮藥師：「補鈣5步驟」建立骨骼健康防線&nbsp;&nbsp;news.pchome.com.tw前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "news.pchome.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb1JGMDNyazdvTnZlX0l4eWdsVTQ1c2Z1ZmY2SlI0aW5TdDFZSzhqRDJDTjlQZTJLME9qR2ZnUjQwVzVheDFyT1EwcmFseVFCOURrRzVGWkg2VVEzVThRbm9LemNueC1nWnJERFM5Q0c2bk9NVU8wMVdqRjFzeXFNdm4taFlvUEFoWjJsZF9KN2FwN0E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "bb04ed5cfe40",
       "title": "乳癌｜法航空姐夜間飛行逾6千小時 患癌獲判「職業病」成全球首例",
       "published": "2026-09-03T02:00:59+00:00",
@@ -1520,19 +1987,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOSFFjbDRJX2ZYSnNlRzFLb2hGRk0teHl6ZmxyOEpLSGZVaDk0c25JT3o4ZzJURzVJcFpUR2F2bUN3dktCVVhnZHVRa0lCYlZqNHRKX3pILWdCMlRkMmQ0c1VHa1hSSk90S2JrYUhpRW5EUUZ0amFwbVp6UWduVUlhczlXcmJOM1NWR2lNdzlyajdreEc4T1V5S1QzY0w0ZU1yeWJTV1o3aGZLUENFVk9IczlBM2ZLbFo2REtaVWZxM3cybXlfb082b2MxZGNQUWpHOGVBWnZKVWE1Vkc0M0lCNS11SXAxVk15eVZZdVgyaUJxUm5qNzRXZkoxU0dZMVVVdWZ6aS1fMkp6VXJLUWNlWUZQYkhmaUxoNkFYRlV4THUyUGxWVllzc1pDOWhoOW9hVHB3WkVjUkttR0s1V080?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5f00b0a847fc",
-      "title": "視力變差別急著換眼鏡？真相恐是睡眠不足",
-      "published": "2026-09-02T11:00:00+00:00",
-      "summary": "視力變差別急著換眼鏡？真相恐是睡眠不足&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45S3dBMjZFMlFDeUdCWWVwZkNnMU40cFB5cUZGdkVDM1htZVdIOEl1bVhIVlZFMmdLV3pWNGltX0dRNFpKWGdybU92QnNYb0RGNkxKMEFyNGhpcDAwZUkwd9IBZkFVX3lxTFA1YXFhamJoLTlKcXRlWnNaRjhtY2VSQ1RhYm5WalVhZnNxVWFtN25HUGZNQVllN1RySlo5VnV5Szg4dnZfTDVTM0MyRkVEV3hBemQtT3NNNlpEYkdpYmthSjJwXzYxQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1611,19 +2065,6 @@
       ]
     },
     {
-      "id": "9dfbab1b4cbc",
-      "title": "戒掉牛奶、穀物才健康？人類飲食演化揭開原始人飲食法的盲點 - 食力 foodNEXT",
-      "published": "2026-09-02T04:02:42+00:00",
-      "summary": "戒掉牛奶、穀物才健康？人類飲食演化揭開原始人飲食法的盲點&nbsp;&nbsp;食力 foodNEXT",
-      "sources": [
-        {
-          "name": "食力 foodNEXT",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vbkNSTHJneFQxMGRYLWoyN0RobXFrd05hMllvT2VjMjhxVnV5VW9JMTlzTWVwYUZFcGI2V2hpY2U3eW9JYm1lbmxVZkJvUVQzVk16NEVtZzBnM2lxV2UzY0ZwU0w?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "c349b3a3b280",
       "title": "套套激戰消失辣妹2理由拒吃藥醫驚：下場恐很慘- 健康",
       "published": "2026-09-02T02:20:00+00:00",
@@ -1637,13 +2078,13 @@
       "matched_keywords": []
     },
     {
-      "id": "2ae52cfdb429",
-      "title": "男人逾8成憂自費醫療　男性2大癌王曝光",
+      "id": "ffd141341b0a",
+      "title": "男人逾8成憂自費醫療　男性2大癌王曝光 - 鏡週刊Mirror Media",
       "published": "2026-09-01T17:20:00+00:00",
-      "summary": "男人逾8成憂自費醫療 男性2大癌王曝光&nbsp;&nbsp;mirrormedia.mg",
+      "summary": "男人逾8成憂自費醫療 男性2大癌王曝光&nbsp;&nbsp;鏡週刊Mirror Media",
       "sources": [
         {
-          "name": "mirrormedia.mg",
+          "name": "鏡週刊Mirror Media",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3MG9MM216NlhFdm94enNRVzZEd1JWY1ZwSGo1cmw3b0g5VlJ1cFR0bVlnXy1XRnlpQm5Sb0g0d1hvRjFlMjl0Q3YtUXNYS09ta1BoZ1ppNkY3R1Vm0gFiQVVfeXFMT3BWSmhMVmlWYjZYaWFOdFlYSzFyWlhqMy1vNXRPeDBQR0FHdkh6cHJwQzVVSWM1VG52bFhmbjJnTjdsM09DUTJEeWRpbVJQQzU4M2pidDZDYjdteDd1YnZWaXc?oc=5"
         }
       ],
