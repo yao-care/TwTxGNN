@@ -37,7 +37,7 @@ permalink: /news/small-cell-lung-carcinoma/
 
 2026-09-06
 
-來源：[topick.hket.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TVUtoNVRQN0RYcjFTdUVBZE1RX0gtNTM2cFpHWVJ2Nl9URm02TzJ4OGl3eVJzT0tlbVp6eVpNOUpkb3NRVlhEc3h5TUNqOEtxVGc?oc=5)
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TVUtoNVRQN0RYcjFTdUVBZE1RX0gtNTM2cFpHWVJ2Nl9URm02TzJ4OGl3eVJzT0tlbVp6eVpNOUpkb3NRVlhEc3h5TUNqOEtxVGc?oc=5)
 
 ---
 

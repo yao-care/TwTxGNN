@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-09-08T07:34:55.721358+00:00",
-  "count": 47,
+  "fetched_at": "2026-09-08T12:25:04.977415+00:00",
+  "count": 44,
   "news": [
+    {
+      "id": "187415be1e70",
+      "title": "醫學不只在課本裡！產研攜手醫學探索營 打造孩童沉浸式學習體驗 - 商傳媒",
+      "published": "2026-09-08T11:06:33+00:00",
+      "summary": "醫學不只在課本裡！產研攜手醫學探索營 打造孩童沉浸式學習體驗&nbsp;&nbsp;商傳媒",
+      "sources": [
+        {
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQOC1RSnhUeUdwQXVqWHBQMTMtUWF4U2t5STNreHBTeEo2cURUbG1kOVlZSHN5bnlvZzUwaG9sRlQ1RlZmeDlzelkyUzZYR29ZOXVhaU52amVSRERWN3haYWVsc0tqMWZGaVNhV05nV1lBWmJFbElqeFBzZFJ5Wkh1TnZaTl8yU1oyMGpyLVRGTTYwa3BIeHJzUUFLc3FCV3pQSnByaHkxclNPS1hOcDFjVVFKY3BTM2s5di1xQ0x1YzNweW9yLWw3VnhOb1JzSUxROTRQeG5sMjNNVGE2cERHUmw0aDB4M1F3Um5ZRkUtcUJ0dTN0MDZPNmQ3eWJYZGc2TE9VVEVVR1ktcjRoRHdsaHozOTRIOGtWcnRXa1VscnU2bDR0b1hINDgwc0ZyTE1aTXdqZUlNTV9oNjBnOWVCMEVFTDVidExNUC1UcjVnaXoxcS1JVWs1OHc3T003ZE5ibkZuci1mSGNydkZjel9Ub1lGVVNVdjBNei12b2ZselRtSm0wTDd6dzg3V1RBM2ZiYnFGWEp5QnFVcmUwYzJMYWQtRDZpNUpHS3FZcUdPZkNqOExydEJ0UVY2ZWdIWXVWOEpRbzhrZ1pEQQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "4d4858ca32be",
       "title": "個性寫在 DNA 裡，科學家找到上千個人格相關基因變異 - TechNews 科技新報",
@@ -12,6 +24,18 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZDlfRzRFTlVtWnEzc0R2NUd6Q3pvV3RNcUZ4Y3Q3ZjF4bzZDWFJWN21TckRETVdId3NETkZHYVM4ZVdTU1BEXzBWN2JJM1FTTnF1d3hkSkRRXzU5UXJ2dS01X05zWjhEQWwzZ1lidmRQd0NManV5SkhLcTlSQXZhLUt4UlYwR1F3Q3hrOGR4cHVySnBmTzRmRkhKRWZQYnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eb798ce2f1d9",
+      "title": "2026長壽藥與增肌的衝突：二甲雙胍如何削弱重訓成果的科學真相 - 報新聞",
+      "published": "2026-09-08T08:05:21+00:00",
+      "summary": "2026長壽藥與增肌的衝突：二甲雙胍如何削弱重訓成果的科學真相&nbsp;&nbsp;報新聞",
+      "sources": [
+        {
+          "name": "報新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNWERuX1VJWHNOemYySFZ1cG4yU0M2Y3hpUlJYYnZXYzNXU21PWXJxY1l5dkw3SXBRUmRCWVg2a0J4UDMwbTJzNHJOdldZcFJDemRnUmd4dVRrWF92bUU5SzY5VUhRaVlDb2FPS3dLUHlLT2J4c1V5bENILWRuS1J3OFFfNEx3elZEV2FuZUhpcFpPTXllOUdFdGZnSE9qbUV0Wm9OeGlROU5qaXg5Tmt1NjFWblVRVDRlSE1tNGVYSG5reUVjSjNRYWVwWHFPMVUxeDJXX1gyY1h1a2RZTk9mYWhLTC1ta0NybU95T0l3VEs4N0JOMVU2Y2NlT0VLSlUwZ291TEk2eHBpS1pVck1TMGR0bG9Wc2cxVjIxMk9sOEFzZVRNbTllWmZSZGstT2lkcThybzdaWkJZd3Y3aDh0ZDNyN1dwNzR5dDZIVlA5bFpOM2trbEg4NTZsYXkwWGVJ?oc=5"
         }
       ]
     },
@@ -52,26 +76,26 @@
       ]
     },
     {
-      "id": "9d538ecba289",
-      "title": "氣喘、肺阻塞、嗜酸性白血球 成醫衛教週帶你1次全認識 - 自由健康網",
-      "published": "2026-09-08T01:58:00+00:00",
-      "summary": "氣喘、肺阻塞、嗜酸性白血球 成醫衛教週帶你1次全認識&nbsp;&nbsp;自由健康網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "f92801ef7053",
+      "title": "[外稿新聞]-成大醫院呼吸道疾病衛教週登場 氣喘、肺阻塞團隊攜手守護全齡呼吸健康 - atanews.net",
+      "published": "2026-09-08T01:29:55+00:00",
+      "summary": "[外稿新聞]-成大醫院呼吸道疾病衛教週登場 氣喘、肺阻塞團隊攜手守護全齡呼吸健康&nbsp;&nbsp;atanews.net氣喘、肺阻塞、嗜酸性白血球 成醫衛教週帶你1次全認識&nbsp;&nbsp;自由健康網久咳、喘、胸悶別只當感冒！ 長庚呼吸專家解析常見呼吸疾病警訊教你守住肺部健康- 商情&nbsp;&nbsp;工商時報成大醫院呼吸道疾病衛教週登場 氣喘、肺阻塞團隊攜手守護全齡呼吸健康&nbsp;&nbsp;news.pchome.com.tw成大醫院呼吸道疾病衛教週 登場&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnbVQwUWRXVXlFbkFRMVc1VFgwcTFCU3hSUmJrc1M2aklSbHhfbkJtcHdhNTZ0R29kTVFwcDgtV2JEVDBtdFJwMS1tM1hjTDYtZE9GZ0xQT1g4WXlRalN1TWg5TTI?oc=5"
+          "name": "atanews.net",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xczl5Y3NpZXoyZmh6T0FBRWdzQWoyeGFaRFVJeFZjd1ZnSzZYQ2RMWDhaUVBHWXdCRWxIbEZ5ckhBMG5tOF8wTkhTWnVvSnE0OFZrVTVPOFBsTUp5Zmc?oc=5"
         }
       ]
     },
     {
-      "id": "ab9e19593179",
-      "title": "減肥越減越肥原因曝：掌握熱量赤字才不復胖 - 元氣網",
-      "published": "2026-09-07T01:16:50+00:00",
-      "summary": "減肥越減越肥原因曝：掌握熱量赤字才不復胖&nbsp;&nbsp;元氣網",
+      "id": "e8fa30d3b7d8",
+      "title": "6大關鍵營養素 打造孩子防禦力 | 中華日報 - LINE TODAY",
+      "published": "2026-09-06T21:35:29+00:00",
+      "summary": "6大關鍵營養素 打造孩子防禦力 | 中華日報&nbsp;&nbsp;LINE TODAY兒童健康｜哮喘學童返學易病發 醫生拆解4大疑問：吸入式類固醇會影響身高嗎？&nbsp;&nbsp;Oh!爸媽流感新冠夾擊開學季！專家曝「6大關鍵營養素」 防孩子生病鼻水流不停&nbsp;&nbsp;health.setn.com開學就像病毒交換大會！怕孩子一不小心中標，營養師揭「6大營養素」要吃夠，早餐這樣搭更重要&nbsp;&nbsp;鏡報九月響應「全民健康生活方式宣傳月」 齊培養健康人生&nbsp;&nbsp;大公文匯網",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42bmNIZGNJdWxmR0tTZGk4VmJOQkFneXhHT0M3YnlSSHlxV1kzT2FoaFNfTnNNN2VORXNFRXZ6TTVUcDNVMTUzS2dpQmNEV29KZmpsOEU4QjU3WmNV?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05WnRscW5MTFBhVF9TTy1jZkZyRnBUT3F2ZzJuMVBWTkREVHRyb0hkbEtSTms5WlBFUUhRcVdpUkpKNHE1MkRVazhXMjVPY3kwTGFLNUVB?oc=5"
         }
       ]
     },
@@ -88,22 +112,10 @@
       ]
     },
     {
-      "id": "2785a74ac84c",
-      "title": "有固定性伴侶就不用打HPV疫苗？醫：反而要提早防 - 中天新聞網",
-      "published": "2026-09-07T09:51:09+00:00",
-      "summary": "有固定性伴侶就不用打HPV疫苗？醫：反而要提早防&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xcldIMDdIVi1Rdk9CenhxNVBjcmVINUhDWUpaSTR2Z1prdHhNVGF4aHoxZHN5TXBsRzBPUVJfOU5HT2c1QWRWYVBiOHk5MWF3R2RJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5ada7fdd845d",
       "title": "豬腎植人體撐285天破紀錄 - 信報網站",
       "published": "2026-09-06T18:37:12+00:00",
-      "summary": "豬腎植人體撐285天破紀錄&nbsp;&nbsp;信報網站腎病患者靠移植豬腎生活九個月，直到接受人類腎臟移植- 紐約時報中文網&nbsp;&nbsp;纽约时报中文网豬腎移植創紀錄！患者體內運作271天 異種移植有望成器官荒解方&nbsp;&nbsp;Yahoo新聞豬腎在人體內運作271天——這會是器官移植的未來嗎？&nbsp;&nbsp;BBC豬腎代打271天救援成功！他創「異種移植紀錄」終等到人腎&nbsp;&nbsp;三立新聞",
+      "summary": "豬腎植人體撐285天破紀錄&nbsp;&nbsp;信報網站腎病患者靠移植豬腎生活九個月，直到接受人類腎臟移植- 紐約時報中文網&nbsp;&nbsp;纽约时报中文网豬腎移植創紀錄！患者體內運作271天 異種移植有望成器官荒解方&nbsp;&nbsp;Yahoo新聞豬腎在人體內運作271天——這會是器官移植的未來嗎？&nbsp;&nbsp;BBC豬腎代打271天救援成功！他創「異種移植紀錄」終等到人腎&nbsp;&nbsp;health.setn.com",
       "sources": [
         {
           "name": "信報網站",
@@ -151,7 +163,7 @@
       "id": "11e74f44236e",
       "title": "骨質密度20歲達高峰、50歲後開始下降！骨質疏鬆沒症狀更危險　很多人骨折後才發現 - 經濟日報",
       "published": "2026-09-05T11:17:36+00:00",
-      "summary": "骨質密度20歲達高峰、50歲後開始下降！骨質疏鬆沒症狀更危險 很多人骨折後才發現&nbsp;&nbsp;經濟日報「老倒縮」是真的！她變矮3公分、腰痠背痛竟罹「重度骨鬆」…醫示警：骨折沒前兆，4種人應主動篩檢&nbsp;&nbsp;幸福熟齡中元普渡祈平安，比禁忌更可怕的是「看不見的骨折風險」！ 醫師示警：骨鬆性骨折如隱形殺手，再骨折率高達約50%&nbsp;&nbsp;PChome Online 新聞50歲過後，要有好的骨頭之外，還要有好的肌力&nbsp;&nbsp;經濟日報封面故事／醫生的話 跌倒or意外 骨折怎麼辦？&nbsp;&nbsp;世界新聞網",
+      "summary": "骨質密度20歲達高峰、50歲後開始下降！骨質疏鬆沒症狀更危險 很多人骨折後才發現&nbsp;&nbsp;經濟日報「老倒縮」是真的！她變矮3公分、腰痠背痛竟罹「重度骨鬆」…醫示警：骨折沒前兆，4種人應主動篩檢&nbsp;&nbsp;幸福熟齡中元普渡祈平安，比禁忌更可怕的是「看不見的骨折風險」！ 醫師示警：骨鬆性骨折如隱形殺手，再骨折率高達約50%&nbsp;&nbsp;news.pchome.com.tw50歲過後，要有好的骨頭之外，還要有好的肌力&nbsp;&nbsp;經濟日報封面故事／醫生的話 跌倒or意外 骨折怎麼辦？&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
           "name": "經濟日報",
@@ -232,18 +244,6 @@
       ]
     },
     {
-      "id": "68f6074e2cce",
-      "title": "二甲雙胍是增肌剋星？長壽藥與肌肉生長的拉鋸戰 - 報新聞",
-      "published": "2026-09-05T02:34:38+00:00",
-      "summary": "二甲雙胍是增肌剋星？長壽藥與肌肉生長的拉鋸戰&nbsp;&nbsp;報新聞",
-      "sources": [
-        {
-          "name": "報新聞",
-          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOWFo1Zmh6YTB3eVdNcDRIbFBpVUNTblNkcHJNSkhpeTdLUTBSOHFSeVBqUXZJdG5wWU0yTkdMQ0Q1SXBJMXFYamh6MVd1UFJOeWYxNjJmQms4YkhSa3BTaU1xc3Q5Mnc1Ml9WNGU3Q1pxLWJhRE9PcXZRQ2N2dUhNOTEzNjhPeEhBUkZRSUl3TWtUZmowM0x5V0RLTHFJWXlvWlEyUUZ2UG9Hb0hpck1vWkhxTlNfS1BnTnNhMTJHT1BQX3RiZm1KWExJc3JCV0lwWEpQbXdrekUxdTQ4N080bmc2TzhPOV9WTW1EV1BaQ0xaN3FNYzV1bTNFbmRWOEdSY0NBRWtHX2JRRVdVOENGSTRmT3EtQUtUQkc1Q09wMEZ5X09MU01hVEdQT1FEdGh0T3hxMnFlaFJDWThoY05OVUNfQU1qb0tiSlJSdzhGTUY4WFBENFhWX0dvb2lhUzQtMUNQd1l2aw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f4634dc634d7",
       "title": "糖水檢查沒過會怎樣？營養師揭8種妊娠糖尿病風險 恐提高早產機率 - 民報",
       "published": "2026-09-03T11:00:00+00:00",
@@ -256,13 +256,25 @@
       ]
     },
     {
-      "id": "5c08f643a0bf",
-      "title": "高鉀水果怎麼吃？7種水果幫助維持健康血壓 - 科技新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "published": "2026-09-03T08:00:50+00:00",
-      "summary": "高鉀水果怎麼吃？7種水果幫助維持健康血壓 - 科技新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "id": "15921ee4ba5b",
+      "title": "健康網》香腸含硝酸鹽恐致癌 這菜同樣有反而降血壓 - 自由健康網",
+      "published": "2026-09-03T08:21:00+00:00",
+      "summary": "健康網》香腸含硝酸鹽恐致癌 這菜同樣有反而降血壓&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "PChome Online 新聞",
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QUGNYUXRYWFdobHJ4NkU1SGhVYlBBZmU1Tm5hWDJaRF9EaEJaaVNNN1p1WWVxUlVpRlJuREFUa082N2VkazhBWjhfVldDaE93cUNDN3V0TmdsQnFVQktIdk1lcmbSAWpBVV95cUxPWGtiNkliRXJnNXAxb05YRE44bFBIeFpOR2xOM1RsbHhRellfdmRhcTlyWDJMVU9reVdaeExGLXZlNm1BTWFYTmZVd2Y4WFlZbFkxNjdDX2hWdkhvQkxUcmZxSjBIZ21RUnpB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "edda980068f7",
+      "title": "高鉀水果怎麼吃？7種水果幫助維持健康血壓 - 科技新聞 - PChome Online 新聞 - news.pchome.com.tw",
+      "published": "2026-09-03T08:00:50+00:00",
+      "summary": "高鉀水果怎麼吃？7種水果幫助維持健康血壓 - 科技新聞 - PChome Online 新聞&nbsp;&nbsp;news.pchome.com.tw",
+      "sources": [
+        {
+          "name": "news.pchome.com.tw",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQjFUSGVVbS1zRzNTd3JIejVucG83VjB0c2JuZGlVdUZiZmFUa2VlaHh3X1J1N0N3UnI2ZkVKR3RId0tNc1Y4clg4MTlncnh3dGpaRWliMkk0ejN4WEpVUm9PZFJhN3h0NFR2blRWRG5UNkdUMnF0OHdFaWtvYWV4UDU4Z2dBcGRvY2swUw?oc=5"
         }
       ]
@@ -304,38 +316,14 @@
       ]
     },
     {
-      "id": "ffd141341b0a",
-      "title": "男人逾8成憂自費醫療　男性2大癌王曝光 - 鏡週刊Mirror Media",
+      "id": "2ae52cfdb429",
+      "title": "男人逾8成憂自費醫療　男性2大癌王曝光 - mirrormedia.mg",
       "published": "2026-09-01T17:20:00+00:00",
-      "summary": "男人逾8成憂自費醫療 男性2大癌王曝光&nbsp;&nbsp;鏡週刊Mirror Media",
+      "summary": "男人逾8成憂自費醫療 男性2大癌王曝光&nbsp;&nbsp;mirrormedia.mg",
       "sources": [
         {
-          "name": "鏡週刊Mirror Media",
+          "name": "mirrormedia.mg",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3MG9MM216NlhFdm94enNRVzZEd1JWY1ZwSGo1cmw3b0g5VlJ1cFR0bVlnXy1XRnlpQm5Sb0g0d1hvRjFlMjl0Q3YtUXNYS09ta1BoZ1ppNkY3R1Vm0gFiQVVfeXFMT3BWSmhMVmlWYjZYaWFOdFlYSzFyWlhqMy1vNXRPeDBQR0FHdkh6cHJwQzVVSWM1VG52bFhmbjJnTjdsM09DUTJEeWRpbVJQQzU4M2pidDZDYjdteDd1YnZWaXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "25acfdece09a",
-      "title": "新冠單週逾2.1萬人次仍在高原期 上週新增69例重症、18人死亡 - 壹蘋新聞網",
-      "published": "2026-09-01T08:00:00+00:00",
-      "summary": "新冠單週逾2.1萬人次仍在高原期 上週新增69例重症、18人死亡&nbsp;&nbsp;壹蘋新聞網",
-      "sources": [
-        {
-          "name": "壹蘋新聞網",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lYUR1OHhyMXpSVlRCR1FsX21LY25GVk1SRjRWd1RnS3UyVWI3WmF1bjItYWt4dkZSdlF4YjRTRG4wd3g2MXhNcjJEd2NOOURxU1FjNTZuMVFmeXc3bWdTVjRiaFBjRXMwYmU3ZkxGVHUzUTFxYnU3czlKZkVRZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1a90201880e1",
-      "title": "減肥、壯骨都靠它！對身體有4大好處| 肌肉 | 骨骼強健| 減肥 | 增肌減脂| 骨質疏鬆| 基礎代謝| 肌少症 - soundofhope.org",
-      "published": "2026-09-03T20:34:22+00:00",
-      "summary": "減肥、壯骨都靠它！對身體有4大好處| 肌肉 | 骨骼強健| 減肥 | 增肌減脂| 骨質疏鬆| 基礎代謝| 肌少症&nbsp;&nbsp;soundofhope.org",
-      "sources": [
-        {
-          "name": "soundofhope.org",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iYWMzcTA2SVc4M3hQYWxQcjFPbWkyamV5T3dDLUVXa2tGeDlmSElJazFod2tEMFVibGlKNlBLUEo4VzVpbktKaUFvcGczR1Vsb0JEQ2haT3RJdFk?oc=5"
         }
       ]
     },
@@ -352,18 +340,6 @@
       ]
     },
     {
-      "id": "2af60ecb12cf",
-      "title": "癌症開完刀為什麼還會復發？南韓團隊從脾臟下手，用細菌做出奈米平台（小鼠實驗） - 明日科學",
-      "published": "2026-09-07T01:31:12+00:00",
-      "summary": "癌症開完刀為什麼還會復發？南韓團隊從脾臟下手，用細菌做出奈米平台（小鼠實驗）&nbsp;&nbsp;明日科學",
-      "sources": [
-        {
-          "name": "明日科學",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTmY1UEhqTkJjY0FqY2VBLWN2TVRSUEo1aEhWcEhVRnMzb25mbUM0cVJtVUwzd0hhaGhjc09QYU1pWWs2WDFvT19zZFpUcDByZGhFMEhpa1dzcFNOWEJj?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7dcd133314ae",
       "title": "屹立百年 貝克研究所挽救無數病患 - 大纪元",
       "published": "2026-09-07T12:50:00+00:00",
@@ -372,6 +348,18 @@
         {
           "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpVy1zeUJYVHB0YXBDYUt3M2N2SlhZWl9HTGdoVjFSM2NtSHJ0ZHdlNVVaYlVMR0tydUtLTkV6MlhqV1IwbC1LVkZtaGxQb19mYmNPZjY3eUdXWDc3aDVZ0gFkQVVfeXFMT0o0U3J2RS1teVBRSklFMFpYMTltUS1wVGVNQXdvejZwZ2g4aE1TYlVqajF2V09idDF0MV9nb0JNR21BQnl5dEppaWpPYk8zdnlxUFE2T0hYOXpPRC1RUXNRNFI4bQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2af60ecb12cf",
+      "title": "癌症開完刀為什麼還會復發？南韓團隊從脾臟下手，用細菌做出奈米平台（小鼠實驗） - 明日科學",
+      "published": "2026-09-07T01:31:12+00:00",
+      "summary": "癌症開完刀為什麼還會復發？南韓團隊從脾臟下手，用細菌做出奈米平台（小鼠實驗）&nbsp;&nbsp;明日科學",
+      "sources": [
+        {
+          "name": "明日科學",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTmY1UEhqTkJjY0FqY2VBLWN2TVRSUEo1aEhWcEhVRnMzb25mbUM0cVJtVUwzd0hhaGhjc09QYU1pWWs2WDFvT19zZFpUcDByZGhFMEhpa1dzcFNOWEJj?oc=5"
         }
       ]
     },
@@ -388,13 +376,13 @@
       ]
     },
     {
-      "id": "f444782fc861",
-      "title": "廣東輪狀病毒高發季將至，專家提醒新手爸媽把握接種窗口 - 香港商报",
+      "id": "8171cbc364ee",
+      "title": "廣東輪狀病毒高發季將至，專家提醒新手爸媽把握接種窗口 - hkcd.com.hk",
       "published": "2026-09-08T03:29:00+00:00",
-      "summary": "廣東輪狀病毒高發季將至，專家提醒新手爸媽把握接種窗口&nbsp;&nbsp;香港商报",
+      "summary": "廣東輪狀病毒高發季將至，專家提醒新手爸媽把握接種窗口&nbsp;&nbsp;hkcd.com.hk",
       "sources": [
         {
-          "name": "香港商报",
+          "name": "hkcd.com.hk",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GVS1TNXNlVWF2ZWI4bUdZYjZOWDVoejE3emgzRDUwMlBwajNtZDVKUXZDR3FKcWNpZ0ZUdGdKN2NGYlJkc3drSmtuU21qT0t2VEFvbUVOdWY3V2lIampPRlIzMHVuQlUwaXFRUXRBdnRDanZpY3c?oc=5"
         }
       ]
@@ -412,50 +400,14 @@
       ]
     },
     {
-      "id": "550c60c2037b",
-      "title": "全球首款食道癌藥物「Telomelysin」面世！基因改造病毒專攻癌細胞 成第5種癌症治療選擇 - 星島頭條",
-      "published": "2026-09-08T02:01:11+00:00",
-      "summary": "全球首款食道癌藥物「Telomelysin」面世！基因改造病毒專攻癌細胞 成第5種癌症治療選擇&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNQnB1d2J3ay14R0Q1bXRyMmtkVTBmdTZIT0xCaDlZemdKSHQ1cVZ6Q05rYUJrM1BMaTROM2xSSXlDakFpZmFsdFhCc3J3LVUySk1RaVFHeWVYeTJxaVlGdGZWS0ZIbjctMmtJaFNHT2lDSVVXczZEVVZRQXJTMGg4Wnl5MW1zb1NwWWFTUWdRVEoyOVluVjJKaTBKWV9jUmZqZU9IMjBCeVhDWmZ0Z1pEUTgtaS1zdnU5aGhKbGdPRm9zcnZ0bkhfX0Z3QlRtUWRZeUhzb2FsV1FQaVZfa2RVUEFlWDFzM2RhSTdGTWExamVXWS1tUnBzTzIxZHcxRUpxd0k0eDkzNERGSFF2NDhlcUxhQUVaYzBIN0hNLW5Md3k5Z2pfcmNSVmFWU2dseDVSNEYyN19qOWlocG1OeEZZVzdXVHJTQ2k1dUJ4TzhhOXlTUVpqTG9VSm5ld3J3R3lJZ0gxc3c2azZvYnU3eGVCVTBVZ1p3UU9zUFVpYVRaQkh5TEpfN2VpZ0JMbGUwcldWNnR3T2c0Nm9VdHNiOHlycXYwMnRuYjhDMFdiUngyZXl5dTcwVjhoM3FZR2xhZTdndEF0cFNad1ZjVnpVRTdIRVYxdXFoOUFSc2pEM3BRVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6a9c2ec10f97",
-      "title": "降血脂運動｜47歲女醫生靠居家抗阻訓練＋飲食調整1年降膽固醇練出馬甲線| 健康解「迷」 - 醫學通識- 健康好人生 - etnet 經濟通",
+      "id": "e01f636602d2",
+      "title": "降血脂運動｜47歲女醫生靠居家抗阻訓練＋飲食調整 1年降膽固醇練出馬甲線 - etnet 經濟通",
       "published": "2026-09-07T14:03:15+00:00",
-      "summary": "降血脂運動｜47歲女醫生靠居家抗阻訓練＋飲食調整1年降膽固醇練出馬甲線| 健康解「迷」 - 醫學通識- 健康好人生&nbsp;&nbsp;etnet 經濟通",
+      "summary": "降血脂運動｜47歲女醫生靠居家抗阻訓練＋飲食調整 1年降膽固醇練出馬甲線&nbsp;&nbsp;etnet 經濟通",
       "sources": [
         {
           "name": "etnet 經濟通",
           "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQYjFReEtWS0FOMjFWaXhvdERDNTl1bTlNQl9OSmFfTks0ekZ2OXQtT2Y3b1FvTE9ReTc2Q2JocFJCYXQyZ1BBRDMyUkh5MU1xZ3N6WnkyYnRmVDltTDF0YzhOc2sycjdIOWQxWTVvWmxUYlNrMThReW9WUVl6Tk9hWnVybUtMcWRjaGZtVmNJVDc3YW1sbHJkZ3RsMnRjamEwXzFXbnlQcDBoSEsyYkVEcVpRaXhlQ005akJzd1NfYnc4MDR2YW8tYjBfd0JvWkdOV2dvcUg4QXVQbWZucUgwVUNlVGUyLUFfRDd2aDM1ZzlVZDRsQThlelp5ako0SGdXUTkweUlLY0RCMkhDNUU4eEhxUHJ3TGZ0alFQZW5EWHVZc3hWdlNxZm1tMUdSREVkMk02N3h0TmVrd3VIdXdaLXJCMUd1Z1lzY0VvWjNuNEZmY3FIU0xZMEFadTVOaHhmN29fdjI1UVJMUlF0ZG5FZHZHbk01N0pQRTVHZXFsamNYbjBsTVJneVZnWVJZRjlsZFZfWnNhenluOUxJWEFSb2Nlak9KZ2lDUHY3cl80eDVKOENWckJBYk5fWUZzZUphOHJ4aEhXUHBwckhnWHhaOVBzRFVzSGx1NC04RUVobk0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a0b40390e82b",
-      "title": "在郵輪上如何避免生病？ 專家支招 - 大纪元",
-      "published": "2026-09-06T10:27:00+00:00",
-      "summary": "在郵輪上如何避免生病？ 專家支招&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oOU52Q1JtLXAtUEYzUE51eWd0NnY1SnFhcVdKZUZDRDdnMHM0d3gwRnhyMEJRZTQwZUFvQVNLNlRnbHZiMF9XaWI3UTVvcVl5Rl83SmRaZ1lOWkFxdVNF0gFkQVVfeXFMTVFnQTdZbG9abXlFN2VnNDV1akY5R1pIQklCNFItUzg3QkZFaU5rY205ME5IRS1EYzRrc2VxWDRDbmR6UlJ0aVV1NHhpS0lTYnlORUdaWjNYWW5teEdqVlNTUWkwdA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e2b88768bef7",
-      "title": "肺癌｜26歲女生不吸煙不捱夜咳嗽腰痛驚揭肺癌晚期醫生嘆：癌細胞已全身擴散【附肺癌高危因素＋症狀】 - topick.hket.com",
-      "published": "2026-09-06T09:52:04+00:00",
-      "summary": "肺癌｜26歲女生不吸煙不捱夜咳嗽腰痛驚揭肺癌晚期醫生嘆：癌細胞已全身擴散【附肺癌高危因素＋症狀】&nbsp;&nbsp;topick.hket.com",
-      "sources": [
-        {
-          "name": "topick.hket.com",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TVUtoNVRQN0RYcjFTdUVBZE1RX0gtNTM2cFpHWVJ2Nl9URm02TzJ4OGl3eVJzT0tlbVp6eVpNOUpkb3NRVlhEc3h5TUNqOEtxVGc?oc=5"
         }
       ]
     },
@@ -484,37 +436,37 @@
       ]
     },
     {
-      "id": "0531650fc229",
-      "title": "別只是嘴上說說！頂尖國際研究發現：父母希望孩子吃得健康 菜籃卻沒跟上？ - TVBS 健康2.0",
-      "published": "2026-09-01T11:21:00+00:00",
-      "summary": "別只是嘴上說說！頂尖國際研究發現：父母希望孩子吃得健康 菜籃卻沒跟上？&nbsp;&nbsp;TVBS 健康2.0",
+      "id": "a0b40390e82b",
+      "title": "在郵輪上如何避免生病？ 專家支招 - 大纪元",
+      "published": "2026-09-06T10:27:00+00:00",
+      "summary": "在郵輪上如何避免生病？ 專家支招&nbsp;&nbsp;大纪元",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSdTIwSVZVNHJsSXFjWjN6Qmc0a3M4aXBRQWFIdmhVdXZibWo3TkRQenZBRTMxUmVDczhmYkNnXzFKRTJTWkVrVVdFdzNKY2F1Y29ES1ln?oc=5"
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oOU52Q1JtLXAtUEYzUE51eWd0NnY1SnFhcVdKZUZDRDdnMHM0d3gwRnhyMEJRZTQwZUFvQVNLNlRnbHZiMF9XaWI3UTVvcVl5Rl83SmRaZ1lOWkFxdVNF0gFkQVVfeXFMTVFnQTdZbG9abXlFN2VnNDV1akY5R1pIQklCNFItUzg3QkZFaU5rY205ME5IRS1EYzRrc2VxWDRDbmR6UlJ0aVV1NHhpS0lTYnlORUdaWjNYWW5teEdqVlNTUWkwdA?oc=5"
         }
       ]
     },
     {
-      "id": "14e053f0eb8d",
-      "title": "腦腫瘤警號｜右腳麻痺刺痛誤當肌腱炎40歲母突發癲癇揭患惡性腦瘤| 健康解「迷」 - 醫學通識- 健康好人生 - etnet 經濟通",
-      "published": "2026-09-03T06:53:09+00:00",
-      "summary": "腦腫瘤警號｜右腳麻痺刺痛誤當肌腱炎40歲母突發癲癇揭患惡性腦瘤| 健康解「迷」 - 醫學通識- 健康好人生&nbsp;&nbsp;etnet 經濟通",
+      "id": "b81d327dee42",
+      "title": "腦腫瘤｜ 40歲5孩之母遭誤診肌腱炎 癲癇發作昏迷終確診末期腦癌 腳部現1徵兆要留心 - 香港經濟日報HKET",
+      "published": "2026-09-02T03:08:57+00:00",
+      "summary": "腦腫瘤｜ 40歲5孩之母遭誤診肌腱炎 癲癇發作昏迷終確診末期腦癌 腳部現1徵兆要留心&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
-          "name": "etnet 經濟通",
-          "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPSUJ5bUhwdXg1ME5nbTZPTFdWYTBxdU54Q1dEWVVpRHRNTkdmczNmbGtlU3RDN19MNkwyd3Rwc2w4U2R3STFnaVNJd3lKb1YyTnlPeG8yMjN2WnVTRDdveFlvMUNrM3JVVjE3aDVaQlhFU0JjU24wZElsZDlMYjRwWEc3Tk9aWDNTX0xoNTlSdUJzZjFXWXlBTXllbHBSamNEQnhtamhhZzZiVGQ1MUFqR1dTUVdGNHlaNHBzZFpFWUw3X0VFajAyLUNNZVdnWEctRkJoT0JobzBNQWZZNjdNTnJjOTFPbkpMVmZlNmsxVExVVWJIbE1sTE5LZUhnWEJiLWcyZU9mQWFoRmF3UU1ncjlsRFdZeHU3ZkduVDdaY0psZllvUWN1S0VaYU9fMGVLVGRyT0tSLXZsdVZsUl8yZkFQZkZiMGNVeUtzSE1QUWFYckRTQUxDbTFSbUNtQ1VOR2xWUHA5T1U2Z2ItQ2JRbUJhVHdIaDIyY0haaFQ4dmhfdXQ0em5wbExxT0NiVDJNRWszdmJZc1Ryc0JKS2hwb1lHZFZObTllVHg0aTU0QjVUTG91RmZKS2hsSQ?oc=5"
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPemlzOFZUQmkwQlR2Uk5FemhGZ1R4VlZsaGpVSnJIM044c3d5ZnNBUC1pX1dZLVRLT1FUUkxZbDl3dzZMUjQ0YldLZDFjSmRWb1VEa0k1TzBlbkVYdXJyTFlGZTk3dG5MLUd2dEt3RERrUXBnX0p4OVVQeUZRdlVIOEZaajM3WTA3emZONUVXQU4xRkM3UmpqalNta2hoNURCaEdIZXdPTnhMMHZQbDExSmsxeWNDTWdEWE5iTDJ4Y3d5UGhoRFRhUExJYXoyNlRvVnd1QWh1aXFSSF9JOHp0NHBDMmlsQlRYcmI1LVZFXy1VZWRpTGJlcmVzVEV5ZnhRY0dNbl9VRmRqZzRhNkVEaEVwalFSN2VwSWtmSGJ6NDFSTGk0Mnk4c2NHeUQya3pFLWQycFMwQmo5aDBWM2FEQVBadXd3Tjdab1EtRFE4OG5EbTFiWDZKWExlWEtXb2ttR1BOd1ZuNUVtTUtIZ3lxRjFwRzdNTTFaYTFGeEZyMlRiZTJ5ZS1vcUdONmhKNldEYm82Nzc2MGNiaFo2blQwMXdfdG5aVnlBMkhCM1pmeXpNYmo5VFh3aTlOZVJpWVpGLTAtS2ltaWo1eFBkMEdNbmlsQUhwUFRjbWZlUW96VWVtRGNxY0twSGRnOW1IM19KM0IzSGpwMEpJemNMcWQ1VlV3SUNNbnd0VkNRVE40SHJmUEtIMXpJ?oc=5"
         }
       ]
     },
     {
-      "id": "bb04ed5cfe40",
-      "title": "乳癌｜法航空姐夜間飛行逾6千小時 患癌獲判「職業病」成全球首例 - 香港01",
+      "id": "503846beb7c7",
+      "title": "乳癌｜法航空姐夜間飛行逾6千小時 患癌獲判「職業病」成全球首例 - hk01.com",
       "published": "2026-09-03T02:00:59+00:00",
-      "summary": "乳癌｜法航空姐夜間飛行逾6千小時 患癌獲判「職業病」成全球首例&nbsp;&nbsp;香港01",
+      "summary": "乳癌｜法航空姐夜間飛行逾6千小時 患癌獲判「職業病」成全球首例&nbsp;&nbsp;hk01.com",
       "sources": [
         {
-          "name": "香港01",
+          "name": "hk01.com",
           "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOMGFpVG1KS2o1TDZ0aVNBWUZpd3gxQWd3YnJoTXYzY0RxOXRZWXExYTZDVkYyY240UGl2dHB6V3NyMDg1RVNEV0tZOUc2MnZRREowdzktSVVlbUJSX3NCbDRpNXhqTDVoOUdhMFVEczNIZ3FrTXY5MkxrWG9yRXZsNmNnb0kxdDV6N1dpWmRtVzNUMHlqMTA4MWdyTkJpLUxXNlZpc1JRUVduX2VGM0M3MUFod3VJcnRoVW5weVdqNlJHLUVIS2phZEhKRC1ZMGtjOU1ZNzdmcXpweVZNd2NuN1BfOVVJRGFvNnExSXJZamI0NXNhVW5wVkJqRXl1Wkl5LWJrYkNELVdpWkoxcjYydTVRNzE0T0MtR2dlOG4zZGNNMFZxM3VLWlV0MnBUejNJS2lEWi15LTJzbFI3U3Vmd09CdHdIR0lfZ2ltNEpvOWlPLWRTVy05X2c5YU5BWi10RERaM2ZUNlo5cGFnSDY1RGhzVjhCcEg2VElxYVo4ZWNCZTVtbHh5UGdSSnRuQ1hhU3dVZ2l1cml4Nk5sOUF1OFF3?oc=5"
         }
       ]
@@ -544,13 +496,25 @@
       ]
     },
     {
-      "id": "34ca3582041b",
-      "title": "打耳洞染HIV？22歲女與未婚夫婚檢確診 揭美容風險與黃金72小時 - 香港01",
-      "published": "2026-09-06T01:10:14+00:00",
-      "summary": "打耳洞染HIV？22歲女與未婚夫婚檢確診 揭美容風險與黃金72小時&nbsp;&nbsp;香港01",
+      "id": "e82097dc5cca",
+      "title": "肺癌｜26歲女生不吸煙不捱夜咳嗽腰痛驚揭肺癌晚期醫生嘆：癌細胞已全身擴散【附肺癌高危因素＋症狀】 - 香港經濟日報HKET",
+      "published": "2026-09-06T09:52:04+00:00",
+      "summary": "肺癌｜26歲女生不吸煙不捱夜咳嗽腰痛驚揭肺癌晚期醫生嘆：癌細胞已全身擴散【附肺癌高危因素＋症狀】&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
-          "name": "香港01",
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TVUtoNVRQN0RYcjFTdUVBZE1RX0gtNTM2cFpHWVJ2Nl9URm02TzJ4OGl3eVJzT0tlbVp6eVpNOUpkb3NRVlhEc3h5TUNqOEtxVGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "977d8f6a5fd6",
+      "title": "打耳洞染HIV？22歲女與未婚夫婚檢確診 揭美容風險與黃金72小時 - hk01.com",
+      "published": "2026-09-06T01:10:14+00:00",
+      "summary": "打耳洞染HIV？22歲女與未婚夫婚檢確診 揭美容風險與黃金72小時&nbsp;&nbsp;hk01.com",
+      "sources": [
+        {
+          "name": "hk01.com",
           "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNcDZIc2syaElIYUhQNW5PRjJUazUyRk11NkFPUGZ5Umt4cmJ0THhjeXM3NmN0TU9CSTJ2a0xJRFRZdFFteERTWkoyQUJ0dTl6a3V5a1V0dEI5Z1d0VGNvVWh3YUgwa25PR3dzOTl3aE9Bd1JvNjdMVVFPUVhDSnNVNEo4QlhxWXRuUVd6SzFYRVpfczZlZk1WcU9uMjFuX2ZHOFJVdFJaSTFUNzB1ZEp0eklJU2c5Nk1lOWhRRHVwN0Joc3NNaWZqY1RNRmFwc3A3WWlfRHdNeTRucC16SjVyMUwzcHgya3hEZU5WejFCZkpiQ1hvUnpkWHF1cE9KTzNuQXh0dVdqUE9BQzMyc3NwMlltR1NWSTNfMXppTFZQZWJCQW52eTZMclo4cVpOODFPT3pqTFNkSkRial9ZVGJZem9qMVZ3TUN1c29Ub1JIQjhJUTBRbFVfaHBVQzBKMktNQ1BYb1d0c2s3bXpSMXprMFlyOUFyOW9qWW1iNXExdnNqY3lPbzJ4YVowWUxhR3N3XzB3LWVfdElIS0xSSzNVMTRR?oc=5"
         }
       ]

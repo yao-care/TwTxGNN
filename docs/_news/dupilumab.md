@@ -44,11 +44,11 @@ permalink: /news/dupilumab/
 
 ## 相關新聞（1 則）
 
-### [氣喘、肺阻塞、嗜酸性白血球 成醫衛教週帶你1次全認識](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnbVQwUWRXVXlFbkFRMVc1VFgwcTFCU3hSUmJrc1M2aklSbHhfbkJtcHdhNTZ0R29kTVFwcDgtV2JEVDBtdFJwMS1tM1hjTDYtZE9GZ0xQT1g4WXlRalN1TWg5TTI?oc=5)
+### [[外稿新聞]-成大醫院呼吸道疾病衛教週登場 氣喘、肺阻塞團隊攜手守護全齡呼吸健康](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xczl5Y3NpZXoyZmh6T0FBRWdzQWoyeGFaRFVJeFZjd1ZnSzZYQ2RMWDhaUVBHWXdCRWxIbEZ5ckhBMG5tOF8wTkhTWnVvSnE0OFZrVTVPOFBsTUp5Zmc?oc=5)
 
-2026-09-08 <span class="news-indication-tag">氣喘</span>
+2026-09-08 <span class="news-indication-tag">氣喘</span> <span class="news-indication-tag">感冒</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnbVQwUWRXVXlFbkFRMVc1VFgwcTFCU3hSUmJrc1M2aklSbHhfbkJtcHdhNTZ0R29kTVFwcDgtV2JEVDBtdFJwMS1tM1hjTDYtZE9GZ0xQT1g4WXlRalN1TWg5TTI?oc=5)
+來源：[atanews.net](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xczl5Y3NpZXoyZmh6T0FBRWdzQWoyeGFaRFVJeFZjd1ZnSzZYQ2RMWDhaUVBHWXdCRWxIbEZ5ckhBMG5tOF8wTkhTWnVvSnE0OFZrVTVPOFBsTUp5Zmc?oc=5)
 
 ---
 
