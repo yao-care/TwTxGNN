@@ -1,8 +1,112 @@
 {
-  "last_updated": "2026-09-08T02:11:58.167785+00:00",
-  "total_count": 40,
-  "matched_count": 15,
+  "last_updated": "2026-09-08T07:34:57.562940+00:00",
+  "total_count": 47,
+  "matched_count": 16,
   "news": [
+    {
+      "id": "4d4858ca32be",
+      "title": "個性寫在 DNA 裡，科學家找到上千個人格相關基因變異 - TechNews 科技新報",
+      "published": "2026-09-08T04:21:12+00:00",
+      "summary": "個性寫在 DNA 裡，科學家找到上千個人格相關基因變異&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZDlfRzRFTlVtWnEzc0R2NUd6Q3pvV3RNcUZ4Y3Q3ZjF4bzZDWFJWN21TckRETVdId3NETkZHYVM4ZVdTU1BEXzBWN2JJM1FTTnF1d3hkSkRRXzU5UXJ2dS01X05zWjhEQWwzZ1lidmRQd0NManV5SkhLcTlSQXZhLUt4UlYwR1F3Q3hrOGR4cHVySnBmTzRmRkhKRWZQYnc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ea3cf0fed54a",
+      "title": "壞膽固醇數字低！醫卻搖頭：6心血管殺手都沒在理- 健康",
+      "published": "2026-09-08T03:58:30+00:00",
+      "summary": "壞膽固醇數字低！醫卻搖頭：6心血管殺手都沒在理- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xcUVic1pQTy1Ka3pjTTVBMjFJVFM0akd1Z3QxbkVoaXF3NHBra0kycnYydHAzcllZMmlsb3ZiWnIwUG5oYkJ6MWQ3ZER2UVdCaFN2MU9PcGd4Q1Jva3d5OU5leW9HWHNTbkJvTEtR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ee4d4ce5477c",
+      "title": "走路頻頻絆倒非老化所致 醫師點名恐缺「這種維生素」",
+      "published": "2026-09-08T03:29:22+00:00",
+      "summary": "走路頻頻絆倒非老化所致 醫師點名恐缺「這種維生素」&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14U09OaWJNWlhPdTFBVWZybVlndWNpUVdaY1NVQW9RMVBpM2lxYmpFZXh2WjdZbkJLQkNlbVNLblJSbWw0czhtVzhkZThTOFVmZ01icE54TGtwSlV0SnIxTXpmNUJiNEtMYkp4V0tR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f444782fc861",
+      "title": "廣東輪狀病毒高發季將至，專家提醒新手爸媽把握接種窗口",
+      "published": "2026-09-08T03:29:00+00:00",
+      "summary": "廣東輪狀病毒高發季將至，專家提醒新手爸媽把握接種窗口&nbsp;&nbsp;香港商报",
+      "sources": [
+        {
+          "name": "香港商报",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GVS1TNXNlVWF2ZWI4bUdZYjZOWDVoejE3emgzRDUwMlBwajNtZDVKUXZDR3FKcWNpZ0ZUdGdKN2NGYlJkc3drSmtuU21qT0t2VEFvbUVOdWY3V2lIampPRlIzMHVuQlUwaXFRUXRBdnRDanZpY3c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e16a668ff2b2",
+      "title": "空汙不只傷肺！詹長權揭PM2.5「傷心」真相：心肌梗塞、中風都可能有關",
+      "published": "2026-09-08T02:55:02+00:00",
+      "summary": "空汙不只傷肺！詹長權揭PM2.5「傷心」真相：心肌梗塞、中風都可能有關&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbk5tRmJwdWtWQWd4YjdYY2Nqc1R4TnFkRjU0VlI2c2p1ZXBSQW9LQmE4T25EQlFmWmFPd0JWRkUwaWppWmdwb0ZDcU9NRTY4b01NZVBKSzlWRGFKb1RJbzExVEJ6eFVnTE5kdFhoRy1ZQzdMU25aazF5U0hNN19ETW5DVTZ4Y0ZSRXhJQTgtUHNiVTkyT3R4aDFTTktnVWJJTjVqRWZMdEJfS0xIUXBnVVVRRVZSbFNYTlFJUTJNSDZfOTNtVjJMUmtVbUk1Y3RiTW9SNVlNSk1KTXVreWZIbFExb3BJWU9ScXhheHUwN3N1RkVRa1lnbXgzWVoydGR4bWIySUVR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心肌梗塞",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "550c60c2037b",
       "title": "全球首款食道癌藥物「Telomelysin」面世！基因改造病毒專攻癌細胞 成第5種癌症治療選擇",
@@ -224,27 +328,14 @@
       ]
     },
     {
-      "id": "206d000ac3e1",
-      "title": "「老倒縮」是的！她變矮3公分、腰痠背痛竟罹「重度骨鬆」…醫示警：骨折沒前兆，4種人應主動篩檢",
-      "published": "2026-09-08T00:57:00+00:00",
-      "summary": "「老倒縮」是的！她變矮3公分、腰痠背痛竟罹「重度骨鬆」…醫示警：骨折沒前兆，4種人應主動篩檢&nbsp;&nbsp;幸福熟齡中元普渡祈平安，比禁忌更可怕的是「看不見的骨折風險」！ 醫師示警：骨鬆性骨折如隱形殺手，再骨折率高達約50%&nbsp;&nbsp;PChome Online 新聞50歲過後，要有好的骨頭之外，還要有好的肌力 | 熱門話題 | 要聞&nbsp;&nbsp;money.udn.com封面故事／醫生的話 跌倒or意外 骨折怎麼辦？&nbsp;&nbsp;世界新聞網《長青俱樂部25》跌一跤，人生就回不去了&nbsp;&nbsp;anntw.com",
+      "id": "9d538ecba289",
+      "title": "氣喘、肺阻塞、嗜酸性白血球 成醫衛教週帶你1次全認識",
+      "published": "2026-09-08T01:58:00+00:00",
+      "summary": "氣喘、肺阻塞、嗜酸性白血球 成醫衛教週帶你1次全認識&nbsp;&nbsp;自由健康網前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "幸福熟齡",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85akhJQUR0X1E5MnZxZVg4Yk9oRzEycVVIU2p5dDhoX0xDYk5yQVBNN2d4UTc2M1dYUWxGV2tiZ3N2Qm5weEVrRWhrT1p2SFhZSjlIRlBtOThxeTF6b3poRUpNVURqeVYxR2IwQVNyd19xSmZaQXVmcWh0OA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "be2a2dbe9f58",
-      "title": "成大醫院呼吸道疾病衛教週登場，氣喘、肺阻塞團隊攜手守護全齡呼吸健康",
-      "published": "2026-09-07T16:00:00+00:00",
-      "summary": "成大醫院呼吸道疾病衛教週登場，氣喘、肺阻塞團隊攜手守護全齡呼吸健康&nbsp;&nbsp;元氣網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jbmEtaENCdXUzamdnRWtOQTNfdk41aEs4M044YU85QUJHblhjblNMaHJRYzNqU2FlbDByN1FNLTlBdUd2M04zVUxxdlhIanlNMDBBaXVrdlZKX0Rv?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnbVQwUWRXVXlFbkFRMVc1VFgwcTFCU3hSUmJrc1M2aklSbHhfbkJtcHdhNTZ0R29kTVFwcDgtV2JEVDBtdFJwMS1tM1hjTDYtZE9GZ0xQT1g4WXlRalN1TWg5TTI?oc=5"
         }
       ],
       "matched_keywords": [
@@ -301,14 +392,14 @@
       "matched_keywords": []
     },
     {
-      "id": "d5f2823cb6b7",
+      "id": "2785a74ac84c",
       "title": "有固定性伴侶就不用打HPV疫苗？醫：反而要提早防",
       "published": "2026-09-07T09:51:09+00:00",
-      "summary": "有固定性伴侶就不用打HPV疫苗？醫：反而要提早防&nbsp;&nbsp;Yahoo新聞",
+      "summary": "有固定性伴侶就不用打HPV疫苗？醫：反而要提早防&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNYUlXbTEzV0taUmJnVldWbTlBWUlrUU95TnFHN29ra2Z0NmFxYW1zWEdrOHYzMVk1dnVLcWpveFFjV1IyNnF0ZXJseDBucWFsSVppY09pOUdRNHA1eUpJSklkbkdQRXh3SkVFelpCWlpnbnFRV1ZVU185LWRJS21OUzd6S0tGZjF6b3A5NnZBMzdNNGVoZmxrdkR4NFZCZ0ZDbExTdkZzdkhFRTBudWN6NW1fWk5hVVBUdEZfa2xwLW5BYUk5R2NYR204M3B1cThPSmJ5SDc1Rk93RkN5dmVSc3dDcGpLSkg3MHNNdEN5dURMZWJ6RzdSMXlQbktFbmVUaW94WDdnSXFQZmI0ME9HY2hpamhrck1oLU56Wmx4ZHJvanN4ZHB6cVNoWnVNNUFNY2JQbWpFZWVMNkRrR1E?oc=5"
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xcldIMDdIVi1Rdk9CenhxNVBjcmVINUhDWUpaSTR2Z1prdHhNVGF4aHoxZHN5TXBsRzBPUVJfOU5HT2c1QWRWYVBiOHk5MWF3R2RJ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -536,13 +627,26 @@
       ]
     },
     {
-      "id": "228713719c93",
-      "title": "豬腎植人體撐285天破紀錄",
-      "published": "2026-09-06T18:37:12+00:00",
-      "summary": "豬腎植人體撐285天破紀錄&nbsp;&nbsp;hkej.com腎病患者靠移植豬腎生活九個月，直到接受人類腎臟移植- 紐約時報中文網&nbsp;&nbsp;纽约时报中文网豬腎移植創紀錄！患者體內運作271天 異種移植有望成器官荒解方&nbsp;&nbsp;Yahoo新聞豬腎在人體內運作271天——這會是器官移植的未來嗎？&nbsp;&nbsp;bbc.com豬腎代打271天救援成功！他創「異種移植紀錄」終等到人腎&nbsp;&nbsp;三立新聞",
+      "id": "ab9e19593179",
+      "title": "減肥越減越肥原因曝：掌握熱量赤字才不復胖",
+      "published": "2026-09-07T01:16:50+00:00",
+      "summary": "減肥越減越肥原因曝：掌握熱量赤字才不復胖&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "hkej.com",
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42bmNIZGNJdWxmR0tTZGk4VmJOQkFneXhHT0M3YnlSSHlxV1kzT2FoaFNfTnNNN2VORXNFRXZ6TTVUcDNVMTUzS2dpQmNEV29KZmpsOEU4QjU3WmNV?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5ada7fdd845d",
+      "title": "豬腎植人體撐285天破紀錄",
+      "published": "2026-09-06T18:37:12+00:00",
+      "summary": "豬腎植人體撐285天破紀錄&nbsp;&nbsp;信報網站腎病患者靠移植豬腎生活九個月，直到接受人類腎臟移植- 紐約時報中文網&nbsp;&nbsp;纽约时报中文网豬腎移植創紀錄！患者體內運作271天 異種移植有望成器官荒解方&nbsp;&nbsp;Yahoo新聞豬腎在人體內運作271天——這會是器官移植的未來嗎？&nbsp;&nbsp;BBC豬腎代打271天救援成功！他創「異種移植紀錄」終等到人腎&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "信報網站",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTVh6YkdrMGdoZGlBY3I4WklwQ3FKVDYtMHRBRE1XOVo1bXhkUUlydG0yallDRElVTDA1cDNUb3B6X1hhZU16V1Q2Nzk2UTBla1l1Y3ppVnpfYnNmZWtKOVRYbTQ5SU1adWd6LTMwZEdGX3hRQnlqeU9yVDZkSTlHS1VxSS1nWmVBSmVRbWZJWG1HX2NfYnpGOWdfTXZXWHZMVTJGXzVOZWY4MDdBT0lHR2o5TEZ6eDFOMGxPMzQwT21DVGhQWjJ1VDY5bU1NNzNxckd2WUFqLXJXVzVjS0dF?oc=5"
         }
       ],
@@ -818,13 +922,13 @@
       "matched_keywords": []
     },
     {
-      "id": "e82097dc5cca",
+      "id": "e2b88768bef7",
       "title": "肺癌｜26歲女生不吸煙不捱夜咳嗽腰痛驚揭肺癌晚期醫生嘆：癌細胞已全身擴散【附肺癌高危因素＋症狀】",
       "published": "2026-09-06T09:52:04+00:00",
-      "summary": "肺癌｜26歲女生不吸煙不捱夜咳嗽腰痛驚揭肺癌晚期醫生嘆：癌細胞已全身擴散【附肺癌高危因素＋症狀】&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "肺癌｜26歲女生不吸煙不捱夜咳嗽腰痛驚揭肺癌晚期醫生嘆：癌細胞已全身擴散【附肺癌高危因素＋症狀】&nbsp;&nbsp;topick.hket.com",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
+          "name": "topick.hket.com",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TVUtoNVRQN0RYcjFTdUVBZE1RX0gtNTM2cFpHWVJ2Nl9URm02TzJ4OGl3eVJzT0tlbVp6eVpNOUpkb3NRVlhEc3h5TUNqOEtxVGc?oc=5"
         }
       ],
@@ -914,6 +1018,19 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbUM0WmxaYm9WMmZkUjhBNkdPMVVGMmx1TWFjdzZwV3NtQnFWLVB2ZW5TX0ZubzZlSFowZklhWlc3ejd2WXV0UUZ2WUkxQjhtaW9acEh4YWc0ZE9QbkxyUWtJOE4yUGtjaW51TGNZdzVqTGZNNlg0d0RiZjN6TUVLeWFJT0dQLVhYbDVjRnZmLVZRWFBmQTJCOXlWbXZEcC1haThQYU5ERnJQTXhDQlZYdERNejJxQnNkdW1OajVUTkVwWHhWY3NITVkzT2pZWmlRT2Q2bXZxendtOVpwTWZuYWpGUVZ3Vk1YbVp5bTR5TWlGRV8tX2c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "11e74f44236e",
+      "title": "骨質密度20歲達高峰、50歲後開始下降！骨質疏鬆沒症狀更危險　很多人骨折後才發現",
+      "published": "2026-09-05T11:17:36+00:00",
+      "summary": "骨質密度20歲達高峰、50歲後開始下降！骨質疏鬆沒症狀更危險 很多人骨折後才發現&nbsp;&nbsp;經濟日報「老倒縮」是真的！她變矮3公分、腰痠背痛竟罹「重度骨鬆」…醫示警：骨折沒前兆，4種人應主動篩檢&nbsp;&nbsp;幸福熟齡中元普渡祈平安，比禁忌更可怕的是「看不見的骨折風險」！ 醫師示警：骨鬆性骨折如隱形殺手，再骨折率高達約50%&nbsp;&nbsp;PChome Online 新聞50歲過後，要有好的骨頭之外，還要有好的肌力&nbsp;&nbsp;經濟日報封面故事／醫生的話 跌倒or意外 骨折怎麼辦？&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtbFNCanFPTHZQdFozaUpRUXY0VHIwcVBYS3ZTSTB5VUxTeGt2dURIZ3VIS3BLcTl6dGgxZkJoRlNRczhkdnB3R1hUQlljc3EzOGRTLUpPZnlRQdIBX0FVX3lxTFA4RXYyc3dUMEJBRV9EeHhreGkxQXhfRVZMMmNjMkh5UWVhN2tZS3pjZEQ2M3ppNlJDTjdZb3VwUmJmSXNFd19VQVo1dWlja1cxbkJGd21zRFZpeWk5eS1r?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1462,14 +1579,27 @@
       "matched_keywords": []
     },
     {
-      "id": "9a810328811c",
-      "title": "打破「小酌無害」觀念研究：每日一杯癌症死亡風險倍增- 國際",
-      "published": "2026-09-03T14:30:00+00:00",
-      "summary": "打破「小酌無害」觀念研究：每日一杯癌症死亡風險倍增- 國際&nbsp;&nbsp;工商時報",
+      "id": "1a90201880e1",
+      "title": "減肥、壯骨都靠它！對身體有4大好處| 肌肉 | 骨骼強健| 減肥 | 增肌減脂| 骨質疏鬆| 基礎代謝| 肌少症",
+      "published": "2026-09-03T20:34:22+00:00",
+      "summary": "減肥、壯骨都靠它！對身體有4大好處| 肌肉 | 骨骼強健| 減肥 | 增肌減脂| 骨質疏鬆| 基礎代謝| 肌少症&nbsp;&nbsp;soundofhope.org",
       "sources": [
         {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5"
+          "name": "soundofhope.org",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iYWMzcTA2SVc4M3hQYWxQcjFPbWkyamV5T3dDLUVXa2tGeDlmSElJazFod2tEMFVibGlKNlBLUEo4VzVpbktKaUFvcGczR1Vsb0JEQ2haT3RJdFk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1d994a65934c",
+      "title": "打破「小酌無害」觀念 研究：每日一杯 癌症死亡風險倍增",
+      "published": "2026-09-03T14:30:27+00:00",
+      "summary": "打破「小酌無害」觀念 研究：每日一杯 癌症死亡風險倍增&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWVGdLa2p4ckhuanUyT2djSzZSNnh6bktNdHp1LTVJZk5sRzB1VE1XZHhMUkpiVGdzc0FSYWhFRW1rUVZLMlRBZEJieS1SeUlEdExCRG10aXp6VjQzYkVjOTJaQ2M4WF9rS2R4azl3?oc=5"
         }
       ],
       "matched_keywords": [
@@ -2065,6 +2195,19 @@
       ]
     },
     {
+      "id": "9dfbab1b4cbc",
+      "title": "戒掉牛奶、穀物才健康？人類飲食演化揭開原始人飲食法的盲點 - 食力 foodNEXT",
+      "published": "2026-09-02T04:02:42+00:00",
+      "summary": "戒掉牛奶、穀物才健康？人類飲食演化揭開原始人飲食法的盲點&nbsp;&nbsp;食力 foodNEXT",
+      "sources": [
+        {
+          "name": "食力 foodNEXT",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vbkNSTHJneFQxMGRYLWoyN0RobXFrd05hMllvT2VjMjhxVnV5VW9JMTlzTWVwYUZFcGI2V2hpY2U3eW9JYm1lbmxVZkJvUVQzVk16NEVtZzBnM2lxV2UzY0ZwU0w?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "c349b3a3b280",
       "title": "套套激戰消失辣妹2理由拒吃藥醫驚：下場恐很慘- 健康",
       "published": "2026-09-02T02:20:00+00:00",
@@ -2104,54 +2247,17 @@
       "matched_keywords": []
     },
     {
-      "id": "1c88a8a6f5d5",
-      "title": "抗癌女染新冠隔天亡！單週仍爆2萬人就醫 疫苗只打到9/9",
-      "published": "2026-09-01T06:36:00+00:00",
-      "summary": "抗癌女染新冠隔天亡！單週仍爆2萬人就醫 疫苗只打到9/9&nbsp;&nbsp;TVBS新聞網",
+      "id": "25acfdece09a",
+      "title": "新冠單週逾2.1萬人次仍在高原期 上週新增69例重症、18人死亡",
+      "published": "2026-09-01T08:00:00+00:00",
+      "summary": "新冠單週逾2.1萬人次仍在高原期 上週新增69例重症、18人死亡&nbsp;&nbsp;壹蘋新聞網",
       "sources": [
         {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oaHJLZDNpUVBzV0xPRkh1eWVBTlNxTzc3ZGZQVVNNYlBsV2o4STA5TWtSUERuSGVLQWpoUG9MT3NZOUdZSUR3S1FtZzNLcjlO?oc=5"
+          "name": "壹蘋新聞網",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lYUR1OHhyMXpSVlRCR1FsX21LY25GVk1SRjRWd1RnS3UyVWI3WmF1bjItYWt4dkZSdlF4YjRTRG4wd3g2MXhNcjJEd2NOOURxU1FjNTZuMVFmeXc3bWdTVjRiaFBjRXMwYmU3ZkxGVHUzUTFxYnU3czlKZkVRZw?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "f82f305b657e",
-      "title": "原本治關節炎！這款藥竟讓「鬼剃頭」長回頭髮 逾5成重度患者恢復8成",
-      "published": "2026-09-01T04:04:00+00:00",
-      "summary": "原本治關節炎！這款藥竟讓「鬼剃頭」長回頭髮 逾5成重度患者恢復8成&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBNUlWWHd5ZTRKSlBOTzRjU01ZWmxxVXNzdUk3ZnluYXh4ZE5iVm9CbzhqMWc2U1pORkdSMU9LaVprajMzbHhlMmFoNjZNb3c4MmxRaXpQemotbjBLX3NQZTliZ1DSAWpBVV95cUxOSFJ4QVE1RFh6eEJFam5ZQ1E5eXZPdEVXMUlmUTNzc2R1cHd4ZHBWWHRuZnVCWjk2S3o5ai1XeTJ3QU5JeVNnci1XTC11anoxRmFGSHY3STFMWjlJVGV2eDRFZS1VUnA4em13?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "關節炎",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

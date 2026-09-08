@@ -44,11 +44,11 @@ permalink: /news/dupilumab/
 
 ## 相關新聞（1 則）
 
-### [成大醫院呼吸道疾病衛教週登場，氣喘、肺阻塞團隊攜手守護全齡呼吸健康](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jbmEtaENCdXUzamdnRWtOQTNfdk41aEs4M044YU85QUJHblhjblNMaHJRYzNqU2FlbDByN1FNLTlBdUd2M04zVUxxdlhIanlNMDBBaXVrdlZKX0Rv?oc=5)
+### [氣喘、肺阻塞、嗜酸性白血球 成醫衛教週帶你1次全認識](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnbVQwUWRXVXlFbkFRMVc1VFgwcTFCU3hSUmJrc1M2aklSbHhfbkJtcHdhNTZ0R29kTVFwcDgtV2JEVDBtdFJwMS1tM1hjTDYtZE9GZ0xQT1g4WXlRalN1TWg5TTI?oc=5)
 
-2026-09-07 <span class="news-indication-tag">氣喘</span>
+2026-09-08 <span class="news-indication-tag">氣喘</span>
 
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jbmEtaENCdXUzamdnRWtOQTNfdk41aEs4M044YU85QUJHblhjblNMaHJRYzNqU2FlbDByN1FNLTlBdUd2M04zVUxxdlhIanlNMDBBaXVrdlZKX0Rv?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnbVQwUWRXVXlFbkFRMVc1VFgwcTFCU3hSUmJrc1M2aklSbHhfbkJtcHdhNTZ0R29kTVFwcDgtV2JEVDBtdFJwMS1tM1hjTDYtZE9GZ0xQT1g4WXlRalN1TWg5TTI?oc=5)
 
 ---
 

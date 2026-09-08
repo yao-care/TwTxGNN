@@ -82,11 +82,11 @@ permalink: /news/regorafenib/
 
 ---
 
-### [打破「小酌無害」觀念研究：每日一杯癌症死亡風險倍增- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5)
+### [打破「小酌無害」觀念 研究：每日一杯 癌症死亡風險倍增](https://news.google.com/rss/articles/CBMibkFVX3lxTFBWVGdLa2p4ckhuanUyT2djSzZSNnh6bktNdHp1LTVJZk5sRzB1VE1XZHhMUkpiVGdzc0FSYWhFRW1rUVZLMlRBZEJieS1SeUlEdExCRG10aXp6VjQzYkVjOTJaQ2M4WF9rS2R4azl3?oc=5)
 
 2026-09-03 <span class="news-indication-tag">癌症</span>
 
-來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5)
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFBWVGdLa2p4ckhuanUyT2djSzZSNnh6bktNdHp1LTVJZk5sRzB1VE1XZHhMUkpiVGdzc0FSYWhFRW1rUVZLMlRBZEJieS1SeUlEdExCRG10aXp6VjQzYkVjOTJaQ2M4WF9rS2R4azl3?oc=5)
 
 ---
 

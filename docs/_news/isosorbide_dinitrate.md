@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [壞膽固醇數字低！醫卻搖頭：6心血管殺手都沒在理- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE4xcUVic1pQTy1Ka3pjTTVBMjFJVFM0akd1Z3QxbkVoaXF3NHBra0kycnYydHAzcllZMmlsb3ZiWnIwUG5oYkJ6MWQ3ZER2UVdCaFN2MU9PcGd4Q1Jva3d5OU5leW9HWHNTbkJvTEtR?oc=5)
+
+2026-09-08 <span class="news-indication-tag">心血管</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE4xcUVic1pQTy1Ka3pjTTVBMjFJVFM0akd1Z3QxbkVoaXF3NHBra0kycnYydHAzcllZMmlsb3ZiWnIwUG5oYkJ6MWQ3ZER2UVdCaFN2MU9PcGd4Q1Jva3d5OU5leW9HWHNTbkJvTEtR?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -1,7 +1,70 @@
 {
-  "generated": "2026-09-08T02:11:58.205573+00:00",
-  "count": 15,
+  "generated": "2026-09-08T07:34:57.583338+00:00",
+  "count": 16,
   "news": [
+    {
+      "id": "ea3cf0fed54a",
+      "title": "壞膽固醇數字低！醫卻搖頭：6心血管殺手都沒在理- 健康",
+      "published": "2026-09-08T03:58:30+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xcUVic1pQTy1Ka3pjTTVBMjFJVFM0akd1Z3QxbkVoaXF3NHBra0kycnYydHAzcllZMmlsb3ZiWnIwUG5oYkJ6MWQ3ZER2UVdCaFN2MU9PcGd4Q1Jva3d5OU5leW9HWHNTbkJvTEtR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e16a668ff2b2",
+      "title": "空汙不只傷肺！詹長權揭PM2.5「傷心」真相：心肌梗塞、中風都可能有關",
+      "published": "2026-09-08T02:55:02+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbk5tRmJwdWtWQWd4YjdYY2Nqc1R4TnFkRjU0VlI2c2p1ZXBSQW9LQmE4T25EQlFmWmFPd0JWRkUwaWppWmdwb0ZDcU9NRTY4b01NZVBKSzlWRGFKb1RJbzExVEJ6eFVnTE5kdFhoRy1ZQzdMU25aazF5U0hNN19ETW5DVTZ4Y0ZSRXhJQTgtUHNiVTkyT3R4aDFTTktnVWJJTjVqRWZMdEJfS0xIUXBnVVVRRVZSbFNYTlFJUTJNSDZfOTNtVjJMUmtVbUk1Y3RiTW9SNVlNSk1KTXVreWZIbFExb3BJWU9ScXhheHUwN3N1RkVRa1lnbXgzWVoydGR4bWIySUVR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心肌梗塞",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "550c60c2037b",
       "title": "全球首款食道癌藥物「Telomelysin」面世！基因改造病毒專攻癌細胞 成第5種癌症治療選擇",
@@ -222,13 +285,13 @@
       ]
     },
     {
-      "id": "be2a2dbe9f58",
-      "title": "成大醫院呼吸道疾病衛教週登場，氣喘、肺阻塞團隊攜手守護全齡呼吸健康",
-      "published": "2026-09-07T16:00:00+00:00",
+      "id": "9d538ecba289",
+      "title": "氣喘、肺阻塞、嗜酸性白血球 成醫衛教週帶你1次全認識",
+      "published": "2026-09-08T01:58:00+00:00",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jbmEtaENCdXUzamdnRWtOQTNfdk41aEs4M044YU85QUJHblhjblNMaHJRYzNqU2FlbDByN1FNLTlBdUd2M04zVUxxdlhIanlNMDBBaXVrdlZKX0Rv?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnbVQwUWRXVXlFbkFRMVc1VFgwcTFCU3hSUmJrc1M2aklSbHhfbkJtcHdhNTZ0R29kTVFwcDgtV2JEVDBtdFJwMS1tM1hjTDYtZE9GZ0xQT1g4WXlRalN1TWg5TTI?oc=5"
         }
       ],
       "keywords": [
@@ -696,12 +759,12 @@
       ]
     },
     {
-      "id": "e82097dc5cca",
+      "id": "e2b88768bef7",
       "title": "肺癌｜26歲女生不吸煙不捱夜咳嗽腰痛驚揭肺癌晚期醫生嘆：癌細胞已全身擴散【附肺癌高危因素＋症狀】",
       "published": "2026-09-06T09:52:04+00:00",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
+          "name": "topick.hket.com",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TVUtoNVRQN0RYcjFTdUVBZE1RX0gtNTM2cFpHWVJ2Nl9URm02TzJ4OGl3eVJzT0tlbVp6eVpNOUpkb3NRVlhEc3h5TUNqOEtxVGc?oc=5"
         }
       ],
@@ -1231,13 +1294,13 @@
       ]
     },
     {
-      "id": "9a810328811c",
-      "title": "打破「小酌無害」觀念研究：每日一杯癌症死亡風險倍增- 國際",
-      "published": "2026-09-03T14:30:00+00:00",
+      "id": "1d994a65934c",
+      "title": "打破「小酌無害」觀念 研究：每日一杯 癌症死亡風險倍增",
+      "published": "2026-09-03T14:30:27+00:00",
       "sources": [
         {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWVGdLa2p4ckhuanUyT2djSzZSNnh6bktNdHp1LTVJZk5sRzB1VE1XZHhMUkpiVGdzc0FSYWhFRW1rUVZLMlRBZEJieS1SeUlEdExCRG10aXp6VjQzYkVjOTJaQ2M4WF9rS2R4azl3?oc=5"
         }
       ],
       "keywords": [
@@ -1771,42 +1834,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f82f305b657e",
-      "title": "原本治關節炎！這款藥竟讓「鬼剃頭」長回頭髮 逾5成重度患者恢復8成",
-      "published": "2026-09-01T04:04:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBNUlWWHd5ZTRKSlBOTzRjU01ZWmxxVXNzdUk3ZnluYXh4ZE5iVm9CbzhqMWc2U1pORkdSMU9LaVprajMzbHhlMmFoNjZNb3c4MmxRaXpQemotbjBLX3NQZTliZ1DSAWpBVV95cUxOSFJ4QVE1RFh6eEJFam5ZQ1E5eXZPdEVXMUlmUTNzc2R1cHd4ZHBWWHRuZnVCWjk2S3o5ai1XeTJ3QU5JeVNnci1XTC11anoxRmFGSHY3STFMWjlJVGV2eDRFZS1VUnA4em13?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "關節炎",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
             }
           ]
         }
