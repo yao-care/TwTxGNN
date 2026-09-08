@@ -26,7 +26,7 @@ permalink: /news/cytarabine/
 <ul>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（9 個）：<ul>
-<li class="indication-matched">small cell lung carcinoma（99.8%）<span class="indication-tag">📰 肺癌</span></li>
+<li>small cell lung carcinoma（99.8%）</li>
 <li>primary pulmonary lymphoma（99.8%）</li>
 <li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
 <li>pulmonary blastoma（99.8%）</li>
@@ -42,6 +42,14 @@ permalink: /news/cytarabine/
 
 ## 相關新聞（7 則）
 
+### [HPV第53型是什麼？感染會得癌症嗎？HPV型別差異、檢測與陽性處理一次看](https://news.google.com/rss/articles/CBMiZkFVX3lxTE13NFZod2VXTk1LLWtWQkRJeFVrWUt6WVo4WEtRWURlVkZuYk9qVkVPb0ZIUWRVdUFIaVNwYU83X3BxblJMQnJIeWptUUpKdkkzbDdoV21EcE5FUjNsalB3SzdqZS02UQ?oc=5)
+
+2026-09-08 <span class="news-indication-tag">癌症</span>
+
+來源：[elle.com](https://news.google.com/rss/articles/CBMiZkFVX3lxTE13NFZod2VXTk1LLWtWQkRJeFVrWUt6WVo4WEtRWURlVkZuYk9qVkVPb0ZIUWRVdUFIaVNwYU83X3BxblJMQnJIeWptUUpKdkkzbDdoV21EcE5FUjNsalB3SzdqZS02UQ?oc=5)
+
+---
+
 ### [癌症開完刀為什麼還會復發？南韓團隊從脾臟下手，用細菌做出奈米平台（小鼠實驗）](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTmY1UEhqTkJjY0FqY2VBLWN2TVRSUEo1aEhWcEhVRnMzb25mbUM0cVJtVUwzd0hhaGhjc09QYU1pWWs2WDFvT19zZFpUcDByZGhFMEhpa1dzcFNOWEJj?oc=5)
 
 2026-09-07 <span class="news-indication-tag">癌症</span>
@@ -55,14 +63,6 @@ permalink: /news/cytarabine/
 2026-09-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[大纪元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HcDZnemNlMUMxc0h0T3F0MEJvdDNGZUVyYnFISENVS0UtNDlEa2dOZDNUOWk0d01xNDZGZk52aDdCd2xycjZIRDVwM09jbExqeWlyWlVrQWJYcDVrT0I40gFkQVVfeXFMT0hXdG5XS1FlektEUW9QOTcyQTZLYmpxUk5YNEhJNXpjUTJ1T3VZOW9jZTVQeWlfZ3MzcGhTTy1CR1hCSTNETzdjVWRnX29VWW1Fa2ZyX3l5S09EeTR5Skdldl9uRg?oc=5)
-
----
-
-### [肺癌｜26歲女生不吸煙不捱夜咳嗽腰痛驚揭肺癌晚期醫生嘆：癌細胞已全身擴散【附肺癌高危因素＋症狀】](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TVUtoNVRQN0RYcjFTdUVBZE1RX0gtNTM2cFpHWVJ2Nl9URm02TzJ4OGl3eVJzT0tlbVp6eVpNOUpkb3NRVlhEc3h5TUNqOEtxVGc?oc=5)
-
-2026-09-06 <span class="news-indication-tag">肺癌</span>
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TVUtoNVRQN0RYcjFTdUVBZE1RX0gtNTM2cFpHWVJ2Nl9URm02TzJ4OGl3eVJzT0tlbVp6eVpNOUpkb3NRVlhEc3h5TUNqOEtxVGc?oc=5)
 
 ---
 
@@ -90,11 +90,11 @@ permalink: /news/cytarabine/
 
 ---
 
-### [腦腫瘤｜ 40歲5孩之母遭誤診肌腱炎 癲癇發作昏迷終確診末期腦癌 腳部現1徵兆要留心](https://news.google.com/rss/articles/CBMilwRBVV95cUxPemlzOFZUQmkwQlR2Uk5FemhGZ1R4VlZsaGpVSnJIM044c3d5ZnNBUC1pX1dZLVRLT1FUUkxZbDl3dzZMUjQ0YldLZDFjSmRWb1VEa0k1TzBlbkVYdXJyTFlGZTk3dG5MLUd2dEt3RERrUXBnX0p4OVVQeUZRdlVIOEZaajM3WTA3emZONUVXQU4xRkM3UmpqalNta2hoNURCaEdIZXdPTnhMMHZQbDExSmsxeWNDTWdEWE5iTDJ4Y3d5UGhoRFRhUExJYXoyNlRvVnd1QWh1aXFSSF9JOHp0NHBDMmlsQlRYcmI1LVZFXy1VZWRpTGJlcmVzVEV5ZnhRY0dNbl9VRmRqZzRhNkVEaEVwalFSN2VwSWtmSGJ6NDFSTGk0Mnk4c2NHeUQya3pFLWQycFMwQmo5aDBWM2FEQVBadXd3Tjdab1EtRFE4OG5EbTFiWDZKWExlWEtXb2ttR1BOd1ZuNUVtTUtIZ3lxRjFwRzdNTTFaYTFGeEZyMlRiZTJ5ZS1vcUdONmhKNldEYm82Nzc2MGNiaFo2blQwMXdfdG5aVnlBMkhCM1pmeXpNYmo5VFh3aTlOZVJpWVpGLTAtS2ltaWo1eFBkMEdNbmlsQUhwUFRjbWZlUW96VWVtRGNxY0twSGRnOW1IM19KM0IzSGpwMEpJemNMcWQ1VlV3SUNNbnd0VkNRVE40SHJmUEtIMXpJ?oc=5)
+### [腦腫瘤警號｜右腳麻痺刺痛誤當肌腱炎 40歲母突發癲癇揭患惡性腦瘤](https://news.google.com/rss/articles/CBMiuwNBVV95cUxPSUJ5bUhwdXg1ME5nbTZPTFdWYTBxdU54Q1dEWVVpRHRNTkdmczNmbGtlU3RDN19MNkwyd3Rwc2w4U2R3STFnaVNJd3lKb1YyTnlPeG8yMjN2WnVTRDdveFlvMUNrM3JVVjE3aDVaQlhFU0JjU24wZElsZDlMYjRwWEc3Tk9aWDNTX0xoNTlSdUJzZjFXWXlBTXllbHBSamNEQnhtamhhZzZiVGQ1MUFqR1dTUVdGNHlaNHBzZFpFWUw3X0VFajAyLUNNZVdnWEctRkJoT0JobzBNQWZZNjdNTnJjOTFPbkpMVmZlNmsxVExVVWJIbE1sTE5LZUhnWEJiLWcyZU9mQWFoRmF3UU1ncjlsRFdZeHU3ZkduVDdaY0psZllvUWN1S0VaYU9fMGVLVGRyT0tSLXZsdVZsUl8yZkFQZkZiMGNVeUtzSE1QUWFYckRTQUxDbTFSbUNtQ1VOR2xWUHA5T1U2Z2ItQ2JRbUJhVHdIaDIyY0haaFQ4dmhfdXQ0em5wbExxT0NiVDJNRWszdmJZc1Ryc0JKS2hwb1lHZFZObTllVHg0aTU0QjVUTG91RmZKS2hsSQ?oc=5)
 
-2026-09-02 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">癲癇</span>
+2026-09-03 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">癲癇</span>
 
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMilwRBVV95cUxPemlzOFZUQmkwQlR2Uk5FemhGZ1R4VlZsaGpVSnJIM044c3d5ZnNBUC1pX1dZLVRLT1FUUkxZbDl3dzZMUjQ0YldLZDFjSmRWb1VEa0k1TzBlbkVYdXJyTFlGZTk3dG5MLUd2dEt3RERrUXBnX0p4OVVQeUZRdlVIOEZaajM3WTA3emZONUVXQU4xRkM3UmpqalNta2hoNURCaEdIZXdPTnhMMHZQbDExSmsxeWNDTWdEWE5iTDJ4Y3d5UGhoRFRhUExJYXoyNlRvVnd1QWh1aXFSSF9JOHp0NHBDMmlsQlRYcmI1LVZFXy1VZWRpTGJlcmVzVEV5ZnhRY0dNbl9VRmRqZzRhNkVEaEVwalFSN2VwSWtmSGJ6NDFSTGk0Mnk4c2NHeUQya3pFLWQycFMwQmo5aDBWM2FEQVBadXd3Tjdab1EtRFE4OG5EbTFiWDZKWExlWEtXb2ttR1BOd1ZuNUVtTUtIZ3lxRjFwRzdNTTFaYTFGeEZyMlRiZTJ5ZS1vcUdONmhKNldEYm82Nzc2MGNiaFo2blQwMXdfdG5aVnlBMkhCM1pmeXpNYmo5VFh3aTlOZVJpWVpGLTAtS2ltaWo1eFBkMEdNbmlsQUhwUFRjbWZlUW96VWVtRGNxY0twSGRnOW1IM19KM0IzSGpwMEpJemNMcWQ1VlV3SUNNbnd0VkNRVE40SHJmUEtIMXpJ?oc=5)
+來源：[etnet.com.hk](https://news.google.com/rss/articles/CBMiuwNBVV95cUxPSUJ5bUhwdXg1ME5nbTZPTFdWYTBxdU54Q1dEWVVpRHRNTkdmczNmbGtlU3RDN19MNkwyd3Rwc2w4U2R3STFnaVNJd3lKb1YyTnlPeG8yMjN2WnVTRDdveFlvMUNrM3JVVjE3aDVaQlhFU0JjU24wZElsZDlMYjRwWEc3Tk9aWDNTX0xoNTlSdUJzZjFXWXlBTXllbHBSamNEQnhtamhhZzZiVGQ1MUFqR1dTUVdGNHlaNHBzZFpFWUw3X0VFajAyLUNNZVdnWEctRkJoT0JobzBNQWZZNjdNTnJjOTFPbkpMVmZlNmsxVExVVWJIbE1sTE5LZUhnWEJiLWcyZU9mQWFoRmF3UU1ncjlsRFdZeHU3ZkduVDdaY0psZllvUWN1S0VaYU9fMGVLVGRyT0tSLXZsdVZsUl8yZkFQZkZiMGNVeUtzSE1QUWFYckRTQUxDbTFSbUNtQ1VOR2xWUHA5T1U2Z2ItQ2JRbUJhVHdIaDIyY0haaFQ4dmhfdXQ0em5wbExxT0NiVDJNRWszdmJZc1Ryc0JKS2hwb1lHZFZObTllVHg0aTU0QjVUTG91RmZKS2hsSQ?oc=5)
 
 ---
 
