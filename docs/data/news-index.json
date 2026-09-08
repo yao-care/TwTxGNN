@@ -1,7 +1,31 @@
 {
-  "generated": "2026-09-08T12:25:07.177634+00:00",
-  "count": 15,
+  "generated": "2026-09-08T16:55:39.727868+00:00",
+  "count": 16,
   "news": [
+    {
+      "id": "6ba40d8ff149",
+      "title": "兒童健康｜哮喘學童返學易病發 醫生拆解4大疑問：吸入式類固醇會影響身高嗎？",
+      "published": "2026-09-08T10:39:51+00:00",
+      "sources": [
+        {
+          "name": "Oh!爸媽",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPaTk0VFlqOHA1Vjg5UFRxUXNnT1BRWjFNR21HQVhETGVkRUFNaWxrcUR0TmRVTERMd3Y0czRSMURId21zcnFrZGRaWDZpR1BRTVFwOWk2R1h4aFFoTTJ2TTZoRElJUm4wRTU1ME50V2xFdkJ2X2Q3eThBYldOeE41Nl9iQTh0UFBGVjYtZFV4NDB6N3NNSWRtS09lVE9aRzRHRlkxTFhVX25idGlkWnlGQzlqNzZmd0ZtTG9UNjVvQ3JGemJ2S0xmWHYzNVQ4NTRaRmJfWHlLb3d6Mk1JaXpfRHh4R2lrbUswWkx0MDdQODNoS0hPQ3Z3MUd1X0V3UDBPdzdFWEhtQ1lCRmVYMkVQa2xqQ1BPRjRvaVc5MG40TTA5U05aSTdkd1BVZTJIU1I3OVFnbzB4a216N1h5eG4tbS1DZ0pnMVJl?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "ea3cf0fed54a",
       "title": "壞膽固醇數字低！醫卻搖頭：6心血管殺手都沒在理- 健康",
@@ -1294,12 +1318,12 @@
       ]
     },
     {
-      "id": "503846beb7c7",
+      "id": "bb04ed5cfe40",
       "title": "乳癌｜法航空姐夜間飛行逾6千小時 患癌獲判「職業病」成全球首例",
       "published": "2026-09-03T02:00:59+00:00",
       "sources": [
         {
-          "name": "hk01.com",
+          "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOMGFpVG1KS2o1TDZ0aVNBWUZpd3gxQWd3YnJoTXYzY0RxOXRZWXExYTZDVkYyY240UGl2dHB6V3NyMDg1RVNEV0tZOUc2MnZRREowdzktSVVlbUJSX3NCbDRpNXhqTDVoOUdhMFVEczNIZ3FrTXY5MkxrWG9yRXZsNmNnb0kxdDV6N1dpWmRtVzNUMHlqMTA4MWdyTkJpLUxXNlZpc1JRUVduX2VGM0M3MUFod3VJcnRoVW5weVdqNlJHLUVIS2phZEhKRC1ZMGtjOU1ZNzdmcXpweVZNd2NuN1BfOVVJRGFvNnExSXJZamI0NXNhVW5wVkJqRXl1Wkl5LWJrYkNELVdpWkoxcjYydTVRNzE0T0MtR2dlOG4zZGNNMFZxM3VLWlV0MnBUejNJS2lEWi15LTJzbFI3U3Vmd09CdHdIR0lfZ2ltNEpvOWlPLWRTVy05X2c5YU5BWi10RERaM2ZUNlo5cGFnSDY1RGhzVjhCcEg2VElxYVo4ZWNCZTVtbHh5UGdSSnRuQ1hhU3dVZ2l1cml4Nk5sOUF1OFF3?oc=5"
         }
       ],
