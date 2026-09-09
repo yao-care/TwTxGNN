@@ -1,7 +1,31 @@
 {
-  "generated": "2026-09-09T21:23:36.189423+00:00",
-  "count": 14,
+  "generated": "2026-09-09T23:40:56.292456+00:00",
+  "count": 15,
   "news": [
+    {
+      "id": "cb898f02fe41",
+      "title": "把益生菌變成「腸道小藥廠」，為肝硬化治療開創新路",
+      "published": "2026-09-09T20:48:26+00:00",
+      "sources": [
+        {
+          "name": "美南新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5pYUpyYktIR1F4YmpKY3ktU2VMVGN1Z0N1T0xQXzFHQkpOa0hFem0xQk9ycUR5OTNpVmE3ejhSNDdNWjVGY2c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "肝硬化",
+          "keyword": "肝硬化",
+          "related_drugs": [
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1f43f9d297e0",
       "title": "研究指飲酒致癌死亡人數30年翻一倍！男子頻飲酒致肝癌現8cm腫瘤",
@@ -651,12 +675,12 @@
       ]
     },
     {
-      "id": "2af60ecb12cf",
+      "id": "25efdd677cdc",
       "title": "癌症開完刀為什麼還會復發？南韓團隊從脾臟下手，用細菌做出奈米平台（小鼠實驗）",
       "published": "2026-09-07T01:31:12+00:00",
       "sources": [
         {
-          "name": "明日科學",
+          "name": "tomorrowsci.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTmY1UEhqTkJjY0FqY2VBLWN2TVRSUEo1aEhWcEhVRnMzb25mbUM0cVJtVUwzd0hhaGhjc09QYU1pWWs2WDFvT19zZFpUcDByZGhFMEhpa1dzcFNOWEJj?oc=5"
         }
       ],
