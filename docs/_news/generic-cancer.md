@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "癌症（generic_cancer） 相關新聞"
+title: "腫瘤（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。6 則新聞、47 個相關藥物。"
+description: "腫瘤（generic_cancer） 的相關健康新聞報導。6 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
-# 癌症（generic_cancer） 相關新聞
+# 腫瘤（generic_cancer） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>6 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="腫瘤（generic_cancer） 有什麼相關新聞？">
+<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>6 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「癌症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「腫瘤」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -77,11 +77,19 @@ permalink: /news/generic-cancer/
 
 ## 相關新聞（6 則）
 
-### [HPV感染牽動全家 頭頸癌、子宮頸癌患者家人染相同型別風險增 醫籲全家防護 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTFByTGlnTmlLREc0LXlJVHBKazJlR2xZeURNWmpjbkY2dlNPT2dScWNQRVRsQ05WLWdzVF9SVHRSdVc5ZVA4dnROVlhHLS1YanFfbVdwNDdkbzA?oc=5)
+### [研究指飲酒致癌死亡人數30年翻一倍！男子頻飲酒致肝癌現8cm腫瘤](https://news.google.com/rss/articles/CBMiowNBVV95cUxQSEx3N1hhZEFBaDFDRHdhQndTV0NRcUhzVTh5dnplYWN5dGJ3a1IxcUFiNHV5MHhCeUJzVk12dFo4ZEVsZEJsdjRLODNGNEYyRk9CQW1lSUJ4bjFKc2F3OWg2bzRrV015TEduVjBzSjFPbU1zUmZPdGRmcGx2MnJESUNNVGEwQ3JKZG94WHd6cnYyMllkeXdXZFFzTHRYU3FNbGNIUDUxUW00SDJOTURjcjhxNTFWTlhVN1VBem1JamdmVU93bF9aUHNITVU1aW1iMU5jMGw0SmF2d3B6ZzdYR1NGZ0VrR1BFcHg0OU1ISUUzRm1Iclc0OUNxWl9WNndWTWdhaUM3QlFiS214YUNvSEtMY0FPRkZsSzA0SDhJSUhIR0pNWTZLT0Z0amhlYnA1Tno3MlYxa0M4MEhtb2pUcUhFUFgxcFZTZ3FjVWZZNWp4cTJHQ2xWTzlEMmtjM3luQzQxbks1Qk1ubzdPWEE0UFNGNzZGZFlWMlpNOWc3S1BmTzU2dVh3RXdoTmpkRDE3am5ONXJfYVVmV2EtamhXZUl4WQ?oc=5)
 
 2026-09-09
 
-來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTFByTGlnTmlLREc0LXlJVHBKazJlR2xZeURNWmpjbkY2dlNPT2dScWNQRVRsQ05WLWdzVF9SVHRSdVc5ZVA4dnROVlhHLS1YanFfbVdwNDdkbzA?oc=5)
+來源：[香港01](https://news.google.com/rss/articles/CBMiowNBVV95cUxQSEx3N1hhZEFBaDFDRHdhQndTV0NRcUhzVTh5dnplYWN5dGJ3a1IxcUFiNHV5MHhCeUJzVk12dFo4ZEVsZEJsdjRLODNGNEYyRk9CQW1lSUJ4bjFKc2F3OWg2bzRrV015TEduVjBzSjFPbU1zUmZPdGRmcGx2MnJESUNNVGEwQ3JKZG94WHd6cnYyMllkeXdXZFFzTHRYU3FNbGNIUDUxUW00SDJOTURjcjhxNTFWTlhVN1VBem1JamdmVU93bF9aUHNITVU1aW1iMU5jMGw0SmF2d3B6ZzdYR1NGZ0VrR1BFcHg0OU1ISUUzRm1Iclc0OUNxWl9WNndWTWdhaUM3QlFiS214YUNvSEtMY0FPRkZsSzA0SDhJSUhIR0pNWTZLT0Z0amhlYnA1Tno3MlYxa0M4MEhtb2pUcUhFUFgxcFZTZ3FjVWZZNWp4cTJHQ2xWTzlEMmtjM3luQzQxbks1Qk1ubzdPWEE0UFNGNzZGZFlWMlpNOWc3S1BmTzU2dVh3RXdoTmpkRDE3am5ONXJfYVVmV2EtamhXZUl4WQ?oc=5)
+
+---
+
+### [安徽HPV疫苗“免費+惠民”雙軌並行 守護青春健康](https://news.google.com/rss/articles/CBMicEFVX3lxTE1fZFJPSTNvTU1pVjdoMFZhQldoRXp1ejVicDFZQVFvM1JJa1BveVFJYU5KaHNhMktKSVNsQ1dQZ3ZZTUxSV09rV0lFbzlqQzRsQjNYWHN2bDgyempzc1FnN0NPaHVXUzdqb2NaNHA5a0Y?oc=5)
+
+2026-09-09
+
+來源：[人民网－安徽频道](https://news.google.com/rss/articles/CBMicEFVX3lxTE1fZFJPSTNvTU1pVjdoMFZhQldoRXp1ejVicDFZQVFvM1JJa1BveVFJYU5KaHNhMktKSVNsQ1dQZ3ZZTUxSV09rV0lFbzlqQzRsQjNYWHN2bDgyempzc1FnN0NPaHVXUzdqb2NaNHA5a0Y?oc=5)
 
 ---
 
@@ -106,14 +114,6 @@ permalink: /news/generic-cancer/
 2026-09-04
 
 來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
-
----
-
-### [打破「小酌無害」觀念研究：每日一杯癌症死亡風險倍增- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5)
-
-2026-09-03
-
-來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5)
 
 ---
 
