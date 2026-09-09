@@ -1,39 +1,50 @@
 {
-  "generated": "2026-09-09T00:53:26.790149+00:00",
-  "count": 16,
+  "generated": "2026-09-09T05:34:46.639515+00:00",
+  "count": 15,
   "news": [
     {
-      "id": "6ba40d8ff149",
-      "title": "兒童健康｜哮喘學童返學易病發 醫生拆解4大疑問：吸入式類固醇會影響身高嗎？",
-      "published": "2026-09-08T10:39:51+00:00",
+      "id": "42b5c3dc4c52",
+      "title": "WHO失智症指引：改善14項因素可減45%病例",
+      "published": "2026-09-09T03:09:00+00:00",
       "sources": [
         {
-          "name": "Oh!爸媽",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPaTk0VFlqOHA1Vjg5UFRxUXNnT1BRWjFNR21HQVhETGVkRUFNaWxrcUR0TmRVTERMd3Y0czRSMURId21zcnFrZGRaWDZpR1BRTVFwOWk2R1h4aFFoTTJ2TTZoRElJUm4wRTU1ME50V2xFdkJ2X2Q3eThBYldOeE41Nl9iQTh0UFBGVjYtZFV4NDB6N3NNSWRtS09lVE9aRzRHRlkxTFhVX25idGlkWnlGQzlqNzZmd0ZtTG9UNjVvQ3JGemJ2S0xmWHYzNVQ4NTRaRmJfWHlLb3d6Mk1JaXpfRHh4R2lrbUswWkx0MDdQODNoS0hPQ3Z3MUd1X0V3UDBPdzdFWEhtQ1lCRmVYMkVQa2xqQ1BPRjRvaVc5MG40TTA5U05aSTdkd1BVZTJIU1I3OVFnbzB4a216N1h5eG4tbS1DZ0pnMVJl?oc=5"
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oaGZfZktZUkNnRTFXcVhLa3VMdE5WOEpqemdlMDBjUE9sempiaFBDejM2S1l0UXliYUNacWxSdkpVMElRbFFEU2hiRXhFLXhVV2E5akdXV3NvSjNGZjVZ0gFkQVVfeXFMTUtBLWk0WEt2RE90YVJTdlNBRW8xQlZYYVhfcGxYNFdjWmw4NkpmYjhPb1F2ZzEzeG9wQlBLdWhzQ1gtcWJBSjdha1IzSTBGc2Fmenc3bFRjdjVJT2Eyek5JWld3UA?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
+          "name": "dementia",
+          "keyword": "失智症",
           "related_drugs": [
             {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
       ]
     },
     {
-      "id": "b22a0d285886",
-      "title": "HPV第53型是什麼？感染會得癌症嗎？HPV型別差異、檢測與陽性處理一次看",
-      "published": "2026-09-08T10:29:18+00:00",
+      "id": "8c76e5926172",
+      "title": "HPV感染牽動全家 頭頸癌、子宮頸癌患者家人染相同型別風險增 醫籲全家防護 - Taiwan News",
+      "published": "2026-09-09T02:38:00+00:00",
       "sources": [
         {
-          "name": "elle.com",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13NFZod2VXTk1LLWtWQkRJeFVrWUt6WVo4WEtRWURlVkZuYk9qVkVPb0ZIUWRVdUFIaVNwYU83X3BxblJMQnJIeWptUUpKdkkzbDdoV21EcE5FUjNsalB3SzdqZS02UQ?oc=5"
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByTGlnTmlLREc0LXlJVHBKazJlR2xZeURNWmpjbkY2dlNPT2dScWNQRVRsQ05WLWdzVF9SVHRSdVc5ZVA4dnROVlhHLS1YanFfbVdwNDdkbzA?oc=5"
         }
       ],
       "keywords": [
@@ -231,28 +242,30 @@
               "name": "Zanubrutinib"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "ea3cf0fed54a",
-      "title": "壞膽固醇數字低！醫卻搖頭：6心血管殺手都沒在理- 健康",
-      "published": "2026-09-08T03:58:30+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xcUVic1pQTy1Ka3pjTTVBMjFJVFM0akd1Z3QxbkVoaXF3NHBra0kycnYydHAzcllZMmlsb3ZiWnIwUG5oYkJ6MWQ3ZER2UVdCaFN2MU9PcGd4Q1Jva3d5OU5leW9HWHNTbkJvTEtR?oc=5"
-        }
-      ],
-      "keywords": [
+        },
         {
           "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
           "related_drugs": [
             {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "頭頸癌",
+          "keyword": "頭頸癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
             }
           ]
         }
@@ -783,12 +796,12 @@
       ]
     },
     {
-      "id": "579b6f9d2e17",
+      "id": "78a6821738e5",
       "title": "研究：激素動態監測或有助識別一種常見高血壓病因- 國際",
       "published": "2026-09-06T07:27:40+00:00",
       "sources": [
         {
-          "name": "香港文匯報",
+          "name": "wenweipo.com",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MRzZvT0ZWUUhKTHRhbktxd3phMHVlQ3Blczk5RG9pOXNNY2VESV9qMVhlQ3VEbWlUcWFfdV9TeXVnaF9GWkpYTkRxV1NYS2xuNmFjWVo2Mzg4RldYWnM2OTA3Q2hxa1VLaTZ5TV9oLWxEamJDaFJv?oc=5"
         }
       ],

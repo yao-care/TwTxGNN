@@ -1,68 +1,66 @@
 {
-  "last_updated": "2026-09-09T00:53:26.754930+00:00",
+  "last_updated": "2026-09-09T05:34:46.598899+00:00",
   "total_count": 43,
-  "matched_count": 16,
+  "matched_count": 15,
   "news": [
     {
-      "id": "04e2e7a1b676",
-      "title": "黑巧克力護心健腦 每週三份最剛好",
-      "published": "2026-09-08T23:00:00+00:00",
-      "summary": "黑巧克力護心健腦 每週三份最剛好&nbsp;&nbsp;大纪元",
+      "id": "9ee58b4bf1c7",
+      "title": "孕期服用乙醯胺酚 研究指恐影響女嬰子宮與卵巢發育 | 民視新聞網 - LINE TODAY",
+      "published": "2026-09-09T04:13:39+00:00",
+      "summary": "孕期服用乙醯胺酚 研究指恐影響女嬰子宮與卵巢發育 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LZmY3emxrMTV5M1VxUlBMRWxQTzB1ZF9zaEczeXVROFVWUlc2M2djSmJQYjBGVmN5VVhrZkFHQkRxUTRocDNSbVB2Rl8yZUFxdElVbDl3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "42b5c3dc4c52",
+      "title": "WHO失智症指引：改善14項因素可減45%病例",
+      "published": "2026-09-09T03:09:00+00:00",
+      "summary": "WHO失智症指引：改善14項因素可減45%病例&nbsp;&nbsp;大纪元",
       "sources": [
         {
           "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCTzd1cDg5dGZwQ1AydTRDS0J1bVR3clhCUjBmS0pyOTZmTUMtWmhodUtibWY2RmJnMXdhemp2RFktVnYxQTBUVWxmWGRpZFBHRVdzR2RucGE5c2dWZURN0gFkQVVfeXFMTUZKcndhOW9DWUhfUW0tVWlfU2E3aTcwN05DMXlXaW1xNW1iRUZZZjlvYTBnU1pjVlBGdF94TVE3RnBsV3dKZnNrNFk0Nm93eU9yTWhTYUcyV29GTjU4U1RGRUdzOA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "20503c5999da",
-      "title": "中秋過食 胃痛反酸 花膠海參鮑魚消化「煞星」 - 20260909 - 副刊",
-      "published": "2026-09-08T20:30:00+00:00",
-      "summary": "中秋過食 胃痛反酸 花膠海參鮑魚消化「煞星」 - 20260909 - 副刊&nbsp;&nbsp;明報新聞網",
-      "sources": [
-        {
-          "name": "明報新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNNmE4eGR6MVVTc3o1OE9DNkw4V0ZqSzNOZHVaTEY2YVMwWlprbjd3anVqQmNRc01mTTlTeEJnZTlKVEJVMi0zMS13SlJVUmt4cHBfdUVpdUZ1Szh0cW1MbTZBckY2VFRFS1h1RWxCZGtQVG9IYTY1STJqSlRrU2JOdkQ1aU9PVDB4eThhZnl3UFdIMzN6Y3hSNHNIcDBoQnRvYWRWaFd5R0tnblBWTXZYZHh6bFJhR2x1QV9HMGg5TnRRLXlvcERWQjlsdjdLZ25QUFZkVWVqdWxCaHRPS00wWU0zU0xEMnc3OWJMT2twSzB4ZEJpLWNiZEZ0OXYwS0t4VHdBSWJwclpBMGEtUmZFb2s5S2RYc09yNmhteGRadFQ1V1g4UXhXUTNlbHdjMXRlb3pZRDNaTmxkbVFKMmVIMzRwcllaTmRUU3lsMHd4R0thUlJZcWcyUVlTMlBuY2o2TEtiTFRfR2V2LXhUOVEyWmZGODBnajNEZjZkRTZOSnU4Zw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6ba40d8ff149",
-      "title": "兒童健康｜哮喘學童返學易病發 醫生拆解4大疑問：吸入式類固醇會影響身高嗎？",
-      "published": "2026-09-08T10:39:51+00:00",
-      "summary": "兒童健康｜哮喘學童返學易病發 醫生拆解4大疑問：吸入式類固醇會影響身高嗎？&nbsp;&nbsp;Oh!爸媽6大關鍵營養素 打造孩子防禦力 | 中華日報&nbsp;&nbsp;LINE TODAY九月響應「全民健康生活方式宣傳月」 齊培養健康人生&nbsp;&nbsp;大公文匯網流感新冠夾擊開學季！專家曝「6大關鍵營養素」 防孩子生病鼻水流不停&nbsp;&nbsp;三立新聞開學季孩子易感冒！營養師曝6大關鍵營養素提升保護力 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "Oh!爸媽",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPaTk0VFlqOHA1Vjg5UFRxUXNnT1BRWjFNR21HQVhETGVkRUFNaWxrcUR0TmRVTERMd3Y0czRSMURId21zcnFrZGRaWDZpR1BRTVFwOWk2R1h4aFFoTTJ2TTZoRElJUm4wRTU1ME50V2xFdkJ2X2Q3eThBYldOeE41Nl9iQTh0UFBGVjYtZFV4NDB6N3NNSWRtS09lVE9aRzRHRlkxTFhVX25idGlkWnlGQzlqNzZmd0ZtTG9UNjVvQ3JGemJ2S0xmWHYzNVQ4NTRaRmJfWHlLb3d6Mk1JaXpfRHh4R2lrbUswWkx0MDdQODNoS0hPQ3Z3MUd1X0V3UDBPdzdFWEhtQ1lCRmVYMkVQa2xqQ1BPRjRvaVc5MG40TTA5U05aSTdkd1BVZTJIU1I3OVFnbzB4a216N1h5eG4tbS1DZ0pnMVJl?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oaGZfZktZUkNnRTFXcVhLa3VMdE5WOEpqemdlMDBjUE9sempiaFBDejM2S1l0UXliYUNacWxSdkpVMElRbFFEU2hiRXhFLXhVV2E5akdXV3NvSjNGZjVZ0gFkQVVfeXFMTUtBLWk0WEt2RE90YVJTdlNBRW8xQlZYYVhfcGxYNFdjWmw4NkpmYjhPb1F2ZzEzeG9wQlBLdWhzQ1gtcWJBSjdha1IzSTBGc2Fmenc3bFRjdjVJT2Eyek5JWld3UA?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
+          "name": "dementia",
+          "keyword": "失智症",
           "related_drugs": [
             {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
       ]
     },
     {
-      "id": "b22a0d285886",
-      "title": "HPV第53型是什麼？感染會得癌症嗎？HPV型別差異、檢測與陽性處理一次看",
-      "published": "2026-09-08T10:29:18+00:00",
-      "summary": "HPV第53型是什麼？感染會得癌症嗎？HPV型別差異、檢測與陽性處理一次看&nbsp;&nbsp;elle.com有固定性伴侶就不用打HPV疫苗？醫：反而要提早防&nbsp;&nbsp;Yahoo新聞涉HPV口咽癌病例飆 恐需鋸下頜骨治療&nbsp;&nbsp;東方日報東亞第一推HPV疫苗男女公費接種 首年男生接種率突破81.6%&nbsp;&nbsp;草根影響力新視野HPV疫苗︱專家倡資助男童接種 指口咽癌個案20年增近四成 扁桃腺癌比例升三倍&nbsp;&nbsp;singtao.ca",
+      "id": "8c76e5926172",
+      "title": "HPV感染牽動全家 頭頸癌、子宮頸癌患者家人染相同型別風險增 醫籲全家防護 - Taiwan News",
+      "published": "2026-09-09T02:38:00+00:00",
+      "summary": "HPV感染牽動全家 頭頸癌、子宮頸癌患者家人染相同型別風險增 醫籲全家防護&nbsp;&nbsp;Taiwan NewsHPV「4種型別」高危險 國健署：持續感染恐致癌&nbsp;&nbsp;ETtoday健康雲HPV第53型是什麼？感染會得癌症嗎？HPV型別差異、檢測與陽性處理一次看&nbsp;&nbsp;elle.com有固定性伴侶就不用打HPV疫苗？醫：反而要提早防&nbsp;&nbsp;Yahoo新聞東亞第一推HPV疫苗男女公費接種 首年男生接種率突破81.6%&nbsp;&nbsp;grinews.com",
       "sources": [
         {
-          "name": "elle.com",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13NFZod2VXTk1LLWtWQkRJeFVrWUt6WVo4WEtRWURlVkZuYk9qVkVPb0ZIUWRVdUFIaVNwYU83X3BxblJMQnJIeWptUUpKdkkzbDdoV21EcE5FUjNsalB3SzdqZS02UQ?oc=5"
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByTGlnTmlLREc0LXlJVHBKazJlR2xZeURNWmpjbkY2dlNPT2dScWNQRVRsQ05WLWdzVF9SVHRSdVc5ZVA4dnROVlhHLS1YanFfbVdwNDdkbzA?oc=5"
         }
       ],
       "matched_keywords": [
@@ -260,8 +258,73 @@
               "name": "Zanubrutinib"
             }
           ]
+        },
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "頭頸癌",
+          "keyword": "頭頸癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
         }
       ]
+    },
+    {
+      "id": "04e2e7a1b676",
+      "title": "黑巧克力護心健腦 每週三份最剛好",
+      "published": "2026-09-08T23:00:00+00:00",
+      "summary": "黑巧克力護心健腦 每週三份最剛好&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCTzd1cDg5dGZwQ1AydTRDS0J1bVR3clhCUjBmS0pyOTZmTUMtWmhodUtibWY2RmJnMXdhemp2RFktVnYxQTBUVWxmWGRpZFBHRVdzR2RucGE5c2dWZURN0gFkQVVfeXFMTUZKcndhOW9DWUhfUW0tVWlfU2E3aTcwN05DMXlXaW1xNW1iRUZZZjlvYTBnU1pjVlBGdF94TVE3RnBsV3dKZnNrNFk0Nm93eU9yTWhTYUcyV29GTjU4U1RGRUdzOA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "20503c5999da",
+      "title": "中秋過食 胃痛反酸 花膠海參鮑魚消化「煞星」 - 20260909 - 副刊",
+      "published": "2026-09-08T20:30:00+00:00",
+      "summary": "中秋過食 胃痛反酸 花膠海參鮑魚消化「煞星」 - 20260909 - 副刊&nbsp;&nbsp;明報新聞網",
+      "sources": [
+        {
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNNmE4eGR6MVVTc3o1OE9DNkw4V0ZqSzNOZHVaTEY2YVMwWlprbjd3anVqQmNRc01mTTlTeEJnZTlKVEJVMi0zMS13SlJVUmt4cHBfdUVpdUZ1Szh0cW1MbTZBckY2VFRFS1h1RWxCZGtQVG9IYTY1STJqSlRrU2JOdkQ1aU9PVDB4eThhZnl3UFdIMzN6Y3hSNHNIcDBoQnRvYWRWaFd5R0tnblBWTXZYZHh6bFJhR2x1QV9HMGg5TnRRLXlvcERWQjlsdjdLZ25QUFZkVWVqdWxCaHRPS00wWU0zU0xEMnc3OWJMT2twSzB4ZEJpLWNiZEZ0OXYwS0t4VHdBSWJwclpBMGEtUmZFb2s5S2RYc09yNmhteGRadFQ1V1g4UXhXUTNlbHdjMXRlb3pZRDNaTmxkbVFKMmVIMzRwcllaTmRUU3lsMHd4R0thUlJZcWcyUVlTMlBuY2o2TEtiTFRfR2V2LXhUOVEyWmZGODBnajNEZjZkRTZOSnU4Zw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "187415be1e70",
+      "title": "醫學不只在課本裡！產研攜手醫學探索營 打造孩童沉浸式學習體驗",
+      "published": "2026-09-08T11:06:33+00:00",
+      "summary": "醫學不只在課本裡！產研攜手醫學探索營 打造孩童沉浸式學習體驗&nbsp;&nbsp;商傳媒",
+      "sources": [
+        {
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQOC1RSnhUeUdwQXVqWHBQMTMtUWF4U2t5STNreHBTeEo2cURUbG1kOVlZSHN5bnlvZzUwaG9sRlQ1RlZmeDlzelkyUzZYR29ZOXVhaU52amVSRERWN3haYWVsc0tqMWZGaVNhV05nV1lBWmJFbElqeFBzZFJ5Wkh1TnZaTl8yU1oyMGpyLVRGTTYwa3BIeHJzUUFLc3FCV3pQSnByaHkxclNPS1hOcDFjVVFKY3BTM2s5di1xQ0x1YzNweW9yLWw3VnhOb1JzSUxROTRQeG5sMjNNVGE2cERHUmw0aDB4M1F3Um5ZRkUtcUJ0dTN0MDZPNmQ3eWJYZGc2TE9VVEVVR1ktcjRoRHdsaHozOTRIOGtWcnRXa1VscnU2bDR0b1hINDgwc0ZyTE1aTXdqZUlNTV9oNjBnOWVCMEVFTDVidExNUC1UcjVnaXoxcS1JVWs1OHc3T003ZE5ibkZuci1mSGNydkZjel9Ub1lGVVNVdjBNei12b2ZselRtSm0wTDd6dzg3V1RBM2ZiYnFGWEp5QnFVcmUwYzJMYWQtRDZpNUpHS3FZcUdPZkNqOExydEJ0UVY2ZWdIWXVWOEpRbzhrZ1pEQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "eb798ce2f1d9",
@@ -277,31 +340,6 @@
       "matched_keywords": []
     },
     {
-      "id": "ea3cf0fed54a",
-      "title": "壞膽固醇數字低！醫卻搖頭：6心血管殺手都沒在理- 健康",
-      "published": "2026-09-08T03:58:30+00:00",
-      "summary": "壞膽固醇數字低！醫卻搖頭：6心血管殺手都沒在理- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xcUVic1pQTy1Ka3pjTTVBMjFJVFM0akd1Z3QxbkVoaXF3NHBra0kycnYydHAzcllZMmlsb3ZiWnIwUG5oYkJ6MWQ3ZER2UVdCaFN2MU9PcGd4Q1Jva3d5OU5leW9HWHNTbkJvTEtR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "ee4d4ce5477c",
       "title": "走路頻頻絆倒非老化所致 醫師點名恐缺「這種維生素」",
       "published": "2026-09-08T03:29:22+00:00",
@@ -315,13 +353,13 @@
       "matched_keywords": []
     },
     {
-      "id": "68b0a8b477ac",
+      "id": "0e1f75fd03ab",
       "title": "廣東輪狀病毒高發季將至，專家提醒新手爸媽把握接種窗口",
       "published": "2026-09-08T03:29:00+00:00",
-      "summary": "廣東輪狀病毒高發季將至，專家提醒新手爸媽把握接種窗口&nbsp;&nbsp;hkcd.com.hk",
+      "summary": "廣東輪狀病毒高發季將至，專家提醒新手爸媽把握接種窗口&nbsp;&nbsp;香港商报",
       "sources": [
         {
-          "name": "hkcd.com.hk",
+          "name": "香港商报",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GSEdZNHF4Z25kcEh2TTdQVTNYbkl5Z2xqMTBjaDFMX0FpZFB4YUZwcndlNGlJZFd5OTJqVnVLQjdaNTJ6SmFUV1RkNUxzcWJabDBsaXI2N1pJQVdnXzI5bFBvQ3ctVkRsLXJCdlBBSVRoRHdiTGc?oc=5"
         }
       ],
@@ -407,7 +445,7 @@
       "id": "c71a5b854b80",
       "title": "豬腎移植創紀錄！患者體內運作271天 異種移植有望成器官荒解方",
       "published": "2026-09-07T16:34:38+00:00",
-      "summary": "豬腎移植創紀錄！患者體內運作271天 異種移植有望成器官荒解方&nbsp;&nbsp;三立新聞豬腎在人體內運作271天——這會是器官移植的未來嗎？&nbsp;&nbsp;BBC豬偉大！等不到器捐先用豬腰子「擋一下」 六旬翁竟撐270天沒洗腎&nbsp;&nbsp;壹蘋新聞網器官捐贈「豬腎」也能救命？1圖秒懂異種移植新科技&nbsp;&nbsp;東森新聞TWA00 加權指數- 基因豬腎移植的缺點與挑戰- 股市爆料同學會&nbsp;&nbsp;CMoney",
+      "summary": "豬腎移植創紀錄！患者體內運作271天 異種移植有望成器官荒解方&nbsp;&nbsp;三立新聞豬腎在人體內運作271天——這會是器官移植的未來嗎？&nbsp;&nbsp;bbc.com豬偉大！等不到器捐先用豬腰子「擋一下」 六旬翁竟撐270天沒洗腎&nbsp;&nbsp;壹蘋新聞網器官捐贈「豬腎」也能救命？1圖秒懂異種移植新科技&nbsp;&nbsp;東森新聞TWA00 加權指數- 基因豬腎移植的缺點與挑戰- 股市爆料同學會&nbsp;&nbsp;CMoney",
       "sources": [
         {
           "name": "三立新聞",
@@ -451,19 +489,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkWkZjd3VNQmkxdFFNbllWb3E5amhFTllmOE9KZUFOYV8tblZuay1DS1VLZFdEYktxQXFUTDdDRGNUeDFOY2lSMUJheEtEWE13ZXZBSHQwcTFFa1ppbDBESWI5WmnSAWpBVV95cUxQdmVLZ0NDcWFqU080VHloeFJERHlRc2Vyc2FpTXNFYUE0WHY3ZVhCVTJIZmNSWWZJQ0hoRndXNWZELWZqOHNqYkg1QWFlbEJWanV6VXRVY1lzNmVWQmNpamtfcmVLR0daSVFB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7be02fdd26d5",
-      "title": "43歲的他心臟幾乎“停擺”，微型“臨時人工心臟”加持，打通閉塞血管",
-      "published": "2026-09-07T06:50:00+00:00",
-      "summary": "43歲的他心臟幾乎“停擺”，微型“臨時人工心臟”加持，打通閉塞血管&nbsp;&nbsp;人民网－安徽频道",
-      "sources": [
-        {
-          "name": "人民网－安徽频道",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6Z1IwYW14TEpyU202LXEyOHNDenFwYUdSUTdqLTdwb2tQaXIxVDhKNG9uTUtpbWk2YzNfSEpXZk1Odl9yM2RBYWlmRndkWV9rbnBvSTQzYUxrZjdFclBTcGFWejh4QW1JSzRKWXZMNkQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -676,6 +701,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "9e239115e31b",
+      "title": "不吃晚餐、狂喝瘦身茶都沒用？減肥鐵律只有一條！最有利的飲食法是它",
+      "published": "2026-09-07T01:16:50+00:00",
+      "summary": "不吃晚餐、狂喝瘦身茶都沒用？減肥鐵律只有一條！最有利的飲食法是它&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42bmNIZGNJdWxmR0tTZGk4VmJOQkFneXhHT0M3YnlSSHlxV1kzT2FoaFNfTnNNN2VORXNFRXZ6TTVUcDNVMTUzS2dpQmNEV29KZmpsOEU4QjU3WmNV0gFiQVVfeXFMUFBBaV9lSmsxdXBQNlQxRHhPWkJRamdzYW1GNmhjLVJSRk5lWlVxbzB6cHRsZmhFNUN1ZThSSG5vYTFuWW1QV0pBbXN2SjNLVGZnN1ZhemlKUDVMZE9oY0tLSUE?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "3edc40f5487f",
@@ -960,13 +998,13 @@
       "matched_keywords": []
     },
     {
-      "id": "579b6f9d2e17",
+      "id": "78a6821738e5",
       "title": "研究：激素動態監測或有助識別一種常見高血壓病因- 國際",
       "published": "2026-09-06T07:27:40+00:00",
-      "summary": "研究：激素動態監測或有助識別一種常見高血壓病因- 國際&nbsp;&nbsp;香港文匯報",
+      "summary": "研究：激素動態監測或有助識別一種常見高血壓病因- 國際&nbsp;&nbsp;wenweipo.com",
       "sources": [
         {
-          "name": "香港文匯報",
+          "name": "wenweipo.com",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MRzZvT0ZWUUhKTHRhbktxd3phMHVlQ3Blczk5RG9pOXNNY2VESV9qMVhlQ3VEbWlUcWFfdV9TeXVnaF9GWkpYTkRxV1NYS2xuNmFjWVo2Mzg4RldYWnM2OTA3Q2hxa1VLaTZ5TV9oLWxEamJDaFJv?oc=5"
         }
       ],
@@ -1056,7 +1094,7 @@
       "id": "36348209b7c1",
       "title": "四大人格特質 這類人最容易罹癌",
       "published": "2026-09-05T01:20:00+00:00",
-      "summary": "四大人格特質 這類人最容易罹癌&nbsp;&nbsp;東森新聞總是替別人著想，身體反而出問題？研究揭「壓抑情緒」的代價－精選書摘&nbsp;&nbsp;businessweekly.com.tw",
+      "summary": "四大人格特質 這類人最容易罹癌&nbsp;&nbsp;東森新聞總是替別人著想，身體反而出問題？研究揭「壓抑情緒」的代價－精選書摘｜商周&nbsp;&nbsp;商周",
       "sources": [
         {
           "name": "東森新聞",
@@ -1291,7 +1329,7 @@
       "id": "62fa898c4745",
       "title": "床上翻個身竟骨折！105歲嬤隔天動手術、1週出院，醫：長者跌倒後「3情況」別拖",
       "published": "2026-09-04T01:08:28+00:00",
-      "summary": "床上翻個身竟骨折！105歲嬤隔天動手術、1週出院，醫：長者跌倒後「3情況」別拖&nbsp;&nbsp;Yahoo新聞「老倒縮」是真的！她變矮3公分、腰痠背痛竟罹「重度骨鬆」…醫示警：骨折沒前兆，4種人應主動篩檢&nbsp;&nbsp;幸福熟齡中元普渡祈平安，比禁忌更可怕的是「看不見的骨折風險」！ 醫師示警：骨鬆性骨折如隱形殺手，再骨折率高達約50%&nbsp;&nbsp;PChome Online 新聞封面故事／醫生的話 跌倒or意外 骨折怎麼辦？&nbsp;&nbsp;世界新聞網國人愛補鈣，為何骨折率仍高？趙順榮藥師：「補鈣5步驟」建立骨骼健康防線&nbsp;&nbsp;蕃新聞",
+      "summary": "床上翻個身竟骨折！105歲嬤隔天動手術、1週出院，醫：長者跌倒後「3情況」別拖&nbsp;&nbsp;Yahoo新聞「老倒縮」是真的！她變矮3公分、腰痠背痛竟罹「重度骨鬆」…醫示警：骨折沒前兆，4種人應主動篩檢&nbsp;&nbsp;幸福熟齡中元普渡祈平安，比禁忌更可怕的是「看不見的骨折風險」！ 醫師示警：骨鬆性骨折如隱形殺手，再骨折率高達約50%&nbsp;&nbsp;PChome Online 新聞封面故事／醫生的話 跌倒or意外 骨折怎麼辦？&nbsp;&nbsp;世界新聞網國人愛補鈣，為何骨折率仍高？趙順榮藥師：「補鈣5步驟」建立骨骼健康防線&nbsp;&nbsp;n.yam.com",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -1767,13 +1805,13 @@
       ]
     },
     {
-      "id": "f4634dc634d7",
+      "id": "0eac0866bc66",
       "title": "糖水檢查沒過會怎樣？營養師揭8種妊娠糖尿病風險 恐提高早產機率",
       "published": "2026-09-03T11:00:00+00:00",
-      "summary": "糖水檢查沒過會怎樣？營養師揭8種妊娠糖尿病風險 恐提高早產機率&nbsp;&nbsp;民報",
+      "summary": "糖水檢查沒過會怎樣？營養師揭8種妊娠糖尿病風險 恐提高早產機率&nbsp;&nbsp;peoplenews.tw",
       "sources": [
         {
-          "name": "民報",
+          "name": "peoplenews.tw",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5raGRORGtuVHczUVpjRlVjX3NsTnplckh0TnhjbTZiRE1MYUdVVW5XbnQtN3pOVFNiWHFSRzIxckNBaENSdFR0bWY5S3I0UldzNS1mNUQ3TGh1S0Nta1gzWA?oc=5"
         }
       ],
@@ -2185,19 +2223,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "c349b3a3b280",
-      "title": "套套激戰消失辣妹2理由拒吃藥醫驚：下場恐很慘- 健康",
-      "published": "2026-09-02T02:20:00+00:00",
-      "summary": "套套激戰消失辣妹2理由拒吃藥醫驚：下場恐很慘- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWeTFaQzZJTHJqcWNwUUp3cFhKYU9NVE43SGdFNVYtd2wyX0xtclJTazdibmd0SzFNdUlsODFvUC1VLTA1XzVWb2J0amdXZDMxeEFFQjd3VE1HMnRDWWUzRGRoZUxzeVkteUYtN3V3?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

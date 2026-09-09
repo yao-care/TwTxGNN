@@ -40,11 +40,11 @@ permalink: /news/cladribine/
 
 ## 相關新聞（7 則）
 
-### [HPV第53型是什麼？感染會得癌症嗎？HPV型別差異、檢測與陽性處理一次看](https://news.google.com/rss/articles/CBMiZkFVX3lxTE13NFZod2VXTk1LLWtWQkRJeFVrWUt6WVo4WEtRWURlVkZuYk9qVkVPb0ZIUWRVdUFIaVNwYU83X3BxblJMQnJIeWptUUpKdkkzbDdoV21EcE5FUjNsalB3SzdqZS02UQ?oc=5)
+### [HPV感染牽動全家 頭頸癌、子宮頸癌患者家人染相同型別風險增 醫籲全家防護 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTFByTGlnTmlLREc0LXlJVHBKazJlR2xZeURNWmpjbkY2dlNPT2dScWNQRVRsQ05WLWdzVF9SVHRSdVc5ZVA4dnROVlhHLS1YanFfbVdwNDdkbzA?oc=5)
 
-2026-09-08 <span class="news-indication-tag">癌症</span>
+2026-09-09 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">頭頸癌</span>
 
-來源：[elle.com](https://news.google.com/rss/articles/CBMiZkFVX3lxTE13NFZod2VXTk1LLWtWQkRJeFVrWUt6WVo4WEtRWURlVkZuYk9qVkVPb0ZIUWRVdUFIaVNwYU83X3BxblJMQnJIeWptUUpKdkkzbDdoV21EcE5FUjNsalB3SzdqZS02UQ?oc=5)
+來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTFByTGlnTmlLREc0LXlJVHBKazJlR2xZeURNWmpjbkY2dlNPT2dScWNQRVRsQ05WLWdzVF9SVHRSdVc5ZVA4dnROVlhHLS1YanFfbVdwNDdkbzA?oc=5)
 
 ---
 

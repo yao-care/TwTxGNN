@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [兒童健康｜哮喘學童返學易病發 醫生拆解4大疑問：吸入式類固醇會影響身高嗎？](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPaTk0VFlqOHA1Vjg5UFRxUXNnT1BRWjFNR21HQVhETGVkRUFNaWxrcUR0TmRVTERMd3Y0czRSMURId21zcnFrZGRaWDZpR1BRTVFwOWk2R1h4aFFoTTJ2TTZoRElJUm4wRTU1ME50V2xFdkJ2X2Q3eThBYldOeE41Nl9iQTh0UFBGVjYtZFV4NDB6N3NNSWRtS09lVE9aRzRHRlkxTFhVX25idGlkWnlGQzlqNzZmd0ZtTG9UNjVvQ3JGemJ2S0xmWHYzNVQ4NTRaRmJfWHlLb3d6Mk1JaXpfRHh4R2lrbUswWkx0MDdQODNoS0hPQ3Z3MUd1X0V3UDBPdzdFWEhtQ1lCRmVYMkVQa2xqQ1BPRjRvaVc5MG40TTA5U05aSTdkd1BVZTJIU1I3OVFnbzB4a216N1h5eG4tbS1DZ0pnMVJl?oc=5)
-
-2026-09-08 <span class="news-indication-tag">感冒</span>
-
-來源：[Oh!爸媽](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPaTk0VFlqOHA1Vjg5UFRxUXNnT1BRWjFNR21HQVhETGVkRUFNaWxrcUR0TmRVTERMd3Y0czRSMURId21zcnFrZGRaWDZpR1BRTVFwOWk2R1h4aFFoTTJ2TTZoRElJUm4wRTU1ME50V2xFdkJ2X2Q3eThBYldOeE41Nl9iQTh0UFBGVjYtZFV4NDB6N3NNSWRtS09lVE9aRzRHRlkxTFhVX25idGlkWnlGQzlqNzZmd0ZtTG9UNjVvQ3JGemJ2S0xmWHYzNVQ4NTRaRmJfWHlLb3d6Mk1JaXpfRHh4R2lrbUswWkx0MDdQODNoS0hPQ3Z3MUd1X0V3UDBPdzdFWEhtQ1lCRmVYMkVQa2xqQ1BPRjRvaVc5MG40TTA5U05aSTdkd1BVZTJIU1I3OVFnbzB4a216N1h5eG4tbS1DZ0pnMVJl?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [[外稿新聞]-成大醫院呼吸道疾病衛教週登場 氣喘、肺阻塞團隊攜手守護全齡呼吸健康](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xczl5Y3NpZXoyZmh6T0FBRWdzQWoyeGFaRFVJeFZjd1ZnSzZYQ2RMWDhaUVBHWXdCRWxIbEZ5ckhBMG5tOF8wTkhTWnVvSnE0OFZrVTVPOFBsTUp5Zmc?oc=5)
 

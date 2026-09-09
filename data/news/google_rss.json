@@ -1,41 +1,77 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-09-09T00:53:24.926999+00:00",
+  "fetched_at": "2026-09-09T05:34:44.811605+00:00",
   "count": 43,
   "news": [
     {
-      "id": "b22a0d285886",
-      "title": "HPV第53型是什麼？感染會得癌症嗎？HPV型別差異、檢測與陽性處理一次看 - elle.com",
-      "published": "2026-09-08T10:29:18+00:00",
-      "summary": "HPV第53型是什麼？感染會得癌症嗎？HPV型別差異、檢測與陽性處理一次看&nbsp;&nbsp;elle.com有固定性伴侶就不用打HPV疫苗？醫：反而要提早防&nbsp;&nbsp;Yahoo新聞涉HPV口咽癌病例飆 恐需鋸下頜骨治療&nbsp;&nbsp;東方日報東亞第一推HPV疫苗男女公費接種 首年男生接種率突破81.6%&nbsp;&nbsp;草根影響力新視野HPV疫苗︱專家倡資助男童接種 指口咽癌個案20年增近四成 扁桃腺癌比例升三倍&nbsp;&nbsp;singtao.ca",
+      "id": "9ee58b4bf1c7",
+      "title": "孕期服用乙醯胺酚 研究指恐影響女嬰子宮與卵巢發育 | 民視新聞網 - LINE TODAY",
+      "published": "2026-09-09T04:13:39+00:00",
+      "summary": "孕期服用乙醯胺酚 研究指恐影響女嬰子宮與卵巢發育 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "elle.com",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13NFZod2VXTk1LLWtWQkRJeFVrWUt6WVo4WEtRWURlVkZuYk9qVkVPb0ZIUWRVdUFIaVNwYU83X3BxblJMQnJIeWptUUpKdkkzbDdoV21EcE5FUjNsalB3SzdqZS02UQ?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LZmY3emxrMTV5M1VxUlBMRWxQTzB1ZF9zaEczeXVROFVWUlc2M2djSmJQYjBGVmN5VVhrZkFHQkRxUTRocDNSbVB2Rl8yZUFxdElVbDl3?oc=5"
         }
       ]
     },
     {
-      "id": "6ba40d8ff149",
-      "title": "兒童健康｜哮喘學童返學易病發 醫生拆解4大疑問：吸入式類固醇會影響身高嗎？ - Oh!爸媽",
-      "published": "2026-09-08T10:39:51+00:00",
-      "summary": "兒童健康｜哮喘學童返學易病發 醫生拆解4大疑問：吸入式類固醇會影響身高嗎？&nbsp;&nbsp;Oh!爸媽6大關鍵營養素 打造孩子防禦力 | 中華日報&nbsp;&nbsp;LINE TODAY九月響應「全民健康生活方式宣傳月」 齊培養健康人生&nbsp;&nbsp;大公文匯網流感新冠夾擊開學季！專家曝「6大關鍵營養素」 防孩子生病鼻水流不停&nbsp;&nbsp;三立新聞開學季孩子易感冒！營養師曝6大關鍵營養素提升保護力 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "id": "42b5c3dc4c52",
+      "title": "WHO失智症指引：改善14項因素可減45%病例 - 大纪元",
+      "published": "2026-09-09T03:09:00+00:00",
+      "summary": "WHO失智症指引：改善14項因素可減45%病例&nbsp;&nbsp;大纪元",
       "sources": [
         {
-          "name": "Oh!爸媽",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPaTk0VFlqOHA1Vjg5UFRxUXNnT1BRWjFNR21HQVhETGVkRUFNaWxrcUR0TmRVTERMd3Y0czRSMURId21zcnFrZGRaWDZpR1BRTVFwOWk2R1h4aFFoTTJ2TTZoRElJUm4wRTU1ME50V2xFdkJ2X2Q3eThBYldOeE41Nl9iQTh0UFBGVjYtZFV4NDB6N3NNSWRtS09lVE9aRzRHRlkxTFhVX25idGlkWnlGQzlqNzZmd0ZtTG9UNjVvQ3JGemJ2S0xmWHYzNVQ4NTRaRmJfWHlLb3d6Mk1JaXpfRHh4R2lrbUswWkx0MDdQODNoS0hPQ3Z3MUd1X0V3UDBPdzdFWEhtQ1lCRmVYMkVQa2xqQ1BPRjRvaVc5MG40TTA5U05aSTdkd1BVZTJIU1I3OVFnbzB4a216N1h5eG4tbS1DZ0pnMVJl?oc=5"
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oaGZfZktZUkNnRTFXcVhLa3VMdE5WOEpqemdlMDBjUE9sempiaFBDejM2S1l0UXliYUNacWxSdkpVMElRbFFEU2hiRXhFLXhVV2E5akdXV3NvSjNGZjVZ0gFkQVVfeXFMTUtBLWk0WEt2RE90YVJTdlNBRW8xQlZYYVhfcGxYNFdjWmw4NkpmYjhPb1F2ZzEzeG9wQlBLdWhzQ1gtcWJBSjdha1IzSTBGc2Fmenc3bFRjdjVJT2Eyek5JWld3UA?oc=5"
         }
       ]
     },
     {
-      "id": "ea3cf0fed54a",
-      "title": "壞膽固醇數字低！醫卻搖頭：6心血管殺手都沒在理- 健康 - 中時新聞網",
-      "published": "2026-09-08T03:58:30+00:00",
-      "summary": "壞膽固醇數字低！醫卻搖頭：6心血管殺手都沒在理- 健康&nbsp;&nbsp;中時新聞網",
+      "id": "8c76e5926172",
+      "title": "HPV感染牽動全家 頭頸癌、子宮頸癌患者家人染相同型別風險增 醫籲全家防護 - Taiwan News",
+      "published": "2026-09-09T02:38:00+00:00",
+      "summary": "HPV感染牽動全家 頭頸癌、子宮頸癌患者家人染相同型別風險增 醫籲全家防護&nbsp;&nbsp;Taiwan NewsHPV「4種型別」高危險 國健署：持續感染恐致癌&nbsp;&nbsp;ETtoday健康雲HPV第53型是什麼？感染會得癌症嗎？HPV型別差異、檢測與陽性處理一次看&nbsp;&nbsp;elle.com有固定性伴侶就不用打HPV疫苗？醫：反而要提早防&nbsp;&nbsp;Yahoo新聞東亞第一推HPV疫苗男女公費接種 首年男生接種率突破81.6%&nbsp;&nbsp;grinews.com",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xcUVic1pQTy1Ka3pjTTVBMjFJVFM0akd1Z3QxbkVoaXF3NHBra0kycnYydHAzcllZMmlsb3ZiWnIwUG5oYkJ6MWQ3ZER2UVdCaFN2MU9PcGd4Q1Jva3d5OU5leW9HWHNTbkJvTEtR?oc=5"
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByTGlnTmlLREc0LXlJVHBKazJlR2xZeURNWmpjbkY2dlNPT2dScWNQRVRsQ05WLWdzVF9SVHRSdVc5ZVA4dnROVlhHLS1YanFfbVdwNDdkbzA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9e239115e31b",
+      "title": "不吃晚餐、狂喝瘦身茶都沒用？減肥鐵律只有一條！最有利的飲食法是它 - 元氣網",
+      "published": "2026-09-07T01:16:50+00:00",
+      "summary": "不吃晚餐、狂喝瘦身茶都沒用？減肥鐵律只有一條！最有利的飲食法是它&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42bmNIZGNJdWxmR0tTZGk4VmJOQkFneXhHT0M3YnlSSHlxV1kzT2FoaFNfTnNNN2VORXNFRXZ6TTVUcDNVMTUzS2dpQmNEV29KZmpsOEU4QjU3WmNV0gFiQVVfeXFMUFBBaV9lSmsxdXBQNlQxRHhPWkJRamdzYW1GNmhjLVJSRk5lWlVxbzB6cHRsZmhFNUN1ZThSSG5vYTFuWW1QV0pBbXN2SjNLVGZnN1ZhemlKUDVMZE9oY0tLSUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "187415be1e70",
+      "title": "醫學不只在課本裡！產研攜手醫學探索營 打造孩童沉浸式學習體驗 - 商傳媒",
+      "published": "2026-09-08T11:06:33+00:00",
+      "summary": "醫學不只在課本裡！產研攜手醫學探索營 打造孩童沉浸式學習體驗&nbsp;&nbsp;商傳媒",
+      "sources": [
+        {
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQOC1RSnhUeUdwQXVqWHBQMTMtUWF4U2t5STNreHBTeEo2cURUbG1kOVlZSHN5bnlvZzUwaG9sRlQ1RlZmeDlzelkyUzZYR29ZOXVhaU52amVSRERWN3haYWVsc0tqMWZGaVNhV05nV1lBWmJFbElqeFBzZFJ5Wkh1TnZaTl8yU1oyMGpyLVRGTTYwa3BIeHJzUUFLc3FCV3pQSnByaHkxclNPS1hOcDFjVVFKY3BTM2s5di1xQ0x1YzNweW9yLWw3VnhOb1JzSUxROTRQeG5sMjNNVGE2cERHUmw0aDB4M1F3Um5ZRkUtcUJ0dTN0MDZPNmQ3eWJYZGc2TE9VVEVVR1ktcjRoRHdsaHozOTRIOGtWcnRXa1VscnU2bDR0b1hINDgwc0ZyTE1aTXdqZUlNTV9oNjBnOWVCMEVFTDVidExNUC1UcjVnaXoxcS1JVWs1OHc3T003ZE5ibkZuci1mSGNydkZjel9Ub1lGVVNVdjBNei12b2ZselRtSm0wTDd6dzg3V1RBM2ZiYnFGWEp5QnFVcmUwYzJMYWQtRDZpNUpHS3FZcUdPZkNqOExydEJ0UVY2ZWdIWXVWOEpRbzhrZ1pEQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c71a5b854b80",
+      "title": "豬腎移植創紀錄！患者體內運作271天 異種移植有望成器官荒解方 - 三立新聞",
+      "published": "2026-09-07T16:34:38+00:00",
+      "summary": "豬腎移植創紀錄！患者體內運作271天 異種移植有望成器官荒解方&nbsp;&nbsp;三立新聞豬腎在人體內運作271天——這會是器官移植的未來嗎？&nbsp;&nbsp;bbc.com豬偉大！等不到器捐先用豬腰子「擋一下」 六旬翁竟撐270天沒洗腎&nbsp;&nbsp;壹蘋新聞網器官捐贈「豬腎」也能救命？1圖秒懂異種移植新科技&nbsp;&nbsp;東森新聞TWA00 加權指數- 基因豬腎移植的缺點與挑戰- 股市爆料同學會&nbsp;&nbsp;CMoney",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE96djFGN0g3OXlRRXRKQ01uYlF3U3JfZ2ZRVlhsOEVGX2M2aWl2bWo4OGowMGtJTEN5bkZlakVnT19uOGxLWFFyS0pjaU4?oc=5"
         }
       ]
     },
@@ -76,18 +112,6 @@
       ]
     },
     {
-      "id": "c71a5b854b80",
-      "title": "豬腎移植創紀錄！患者體內運作271天 異種移植有望成器官荒解方 - 三立新聞",
-      "published": "2026-09-07T16:34:38+00:00",
-      "summary": "豬腎移植創紀錄！患者體內運作271天 異種移植有望成器官荒解方&nbsp;&nbsp;三立新聞豬腎在人體內運作271天——這會是器官移植的未來嗎？&nbsp;&nbsp;BBC豬偉大！等不到器捐先用豬腰子「擋一下」 六旬翁竟撐270天沒洗腎&nbsp;&nbsp;壹蘋新聞網器官捐贈「豬腎」也能救命？1圖秒懂異種移植新科技&nbsp;&nbsp;東森新聞TWA00 加權指數- 基因豬腎移植的缺點與挑戰- 股市爆料同學會&nbsp;&nbsp;CMoney",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE96djFGN0g3OXlRRXRKQ01uYlF3U3JfZ2ZRVlhsOEVGX2M2aWl2bWo4OGowMGtJTEN5bkZlakVnT19uOGxLWFFyS0pjaU4?oc=5"
-        }
-      ]
-    },
-    {
       "id": "eb798ce2f1d9",
       "title": "2026長壽藥與增肌的衝突：二甲雙胍如何削弱重訓成果的科學真相 - 報新聞",
       "published": "2026-09-08T08:05:21+00:00",
@@ -100,6 +124,18 @@
       ]
     },
     {
+      "id": "36348209b7c1",
+      "title": "四大人格特質 這類人最容易罹癌 - 東森新聞",
+      "published": "2026-09-05T01:20:00+00:00",
+      "summary": "四大人格特質 這類人最容易罹癌&nbsp;&nbsp;東森新聞總是替別人著想，身體反而出問題？研究揭「壓抑情緒」的代價－精選書摘｜商周&nbsp;&nbsp;商周",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBWG5FRWJXaWhNU3dhMWtNM0o2Vks4aDNOU200dFQ2cEE4eEpVV2hQYlh6Y2ZPd0I2NUhQSFlZcThjRWZTSUJjSklZZFNweXpxOXNDeQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5ea02f84f3b7",
       "title": "健康網》跳繩CP值高！醫曝「心肺＋骨骼」一次顧 掌握3動作 - 自由健康網",
       "published": "2026-09-07T11:26:00+00:00",
@@ -108,18 +144,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkWkZjd3VNQmkxdFFNbllWb3E5amhFTllmOE9KZUFOYV8tblZuay1DS1VLZFdEYktxQXFUTDdDRGNUeDFOY2lSMUJheEtEWE13ZXZBSHQwcTFFa1ppbDBESWI5WmnSAWpBVV95cUxQdmVLZ0NDcWFqU080VHloeFJERHlRc2Vyc2FpTXNFYUE0WHY3ZVhCVTJIZmNSWWZJQ0hoRndXNWZELWZqOHNqYkg1QWFlbEJWanV6VXRVY1lzNmVWQmNpamtfcmVLR0daSVFB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "36348209b7c1",
-      "title": "四大人格特質 這類人最容易罹癌 - 東森新聞",
-      "published": "2026-09-05T01:20:00+00:00",
-      "summary": "四大人格特質 這類人最容易罹癌&nbsp;&nbsp;東森新聞總是替別人著想，身體反而出問題？研究揭「壓抑情緒」的代價－精選書摘&nbsp;&nbsp;businessweekly.com.tw",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBWG5FRWJXaWhNU3dhMWtNM0o2Vks4aDNOU200dFQ2cEE4eEpVV2hQYlh6Y2ZPd0I2NUhQSFlZcThjRWZTSUJjSklZZFNweXpxOXNDeQ?oc=5"
         }
       ]
     },
@@ -151,7 +175,7 @@
       "id": "62fa898c4745",
       "title": "床上翻個身竟骨折！105歲嬤隔天動手術、1週出院，醫：長者跌倒後「3情況」別拖 - Yahoo新聞",
       "published": "2026-09-04T01:08:28+00:00",
-      "summary": "床上翻個身竟骨折！105歲嬤隔天動手術、1週出院，醫：長者跌倒後「3情況」別拖&nbsp;&nbsp;Yahoo新聞「老倒縮」是真的！她變矮3公分、腰痠背痛竟罹「重度骨鬆」…醫示警：骨折沒前兆，4種人應主動篩檢&nbsp;&nbsp;幸福熟齡中元普渡祈平安，比禁忌更可怕的是「看不見的骨折風險」！ 醫師示警：骨鬆性骨折如隱形殺手，再骨折率高達約50%&nbsp;&nbsp;PChome Online 新聞封面故事／醫生的話 跌倒or意外 骨折怎麼辦？&nbsp;&nbsp;世界新聞網國人愛補鈣，為何骨折率仍高？趙順榮藥師：「補鈣5步驟」建立骨骼健康防線&nbsp;&nbsp;蕃新聞",
+      "summary": "床上翻個身竟骨折！105歲嬤隔天動手術、1週出院，醫：長者跌倒後「3情況」別拖&nbsp;&nbsp;Yahoo新聞「老倒縮」是真的！她變矮3公分、腰痠背痛竟罹「重度骨鬆」…醫示警：骨折沒前兆，4種人應主動篩檢&nbsp;&nbsp;幸福熟齡中元普渡祈平安，比禁忌更可怕的是「看不見的骨折風險」！ 醫師示警：骨鬆性骨折如隱形殺手，再骨折率高達約50%&nbsp;&nbsp;PChome Online 新聞封面故事／醫生的話 跌倒or意外 骨折怎麼辦？&nbsp;&nbsp;世界新聞網國人愛補鈣，為何骨折率仍高？趙順榮藥師：「補鈣5步驟」建立骨骼健康防線&nbsp;&nbsp;n.yam.com",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -196,18 +220,6 @@
       ]
     },
     {
-      "id": "9a810328811c",
-      "title": "打破「小酌無害」觀念研究：每日一杯癌症死亡風險倍增- 國際 - 工商時報",
-      "published": "2026-09-03T14:30:00+00:00",
-      "summary": "打破「小酌無害」觀念研究：每日一杯癌症死亡風險倍增- 國際&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1f78443dcbe6",
       "title": "菇類也能防癌？研究發現每天吃18克 癌症風險低45％ - 台視新聞網",
       "published": "2026-09-04T07:00:04+00:00",
@@ -232,13 +244,25 @@
       ]
     },
     {
-      "id": "f4634dc634d7",
-      "title": "糖水檢查沒過會怎樣？營養師揭8種妊娠糖尿病風險 恐提高早產機率 - 民報",
-      "published": "2026-09-03T11:00:00+00:00",
-      "summary": "糖水檢查沒過會怎樣？營養師揭8種妊娠糖尿病風險 恐提高早產機率&nbsp;&nbsp;民報",
+      "id": "9a810328811c",
+      "title": "打破「小酌無害」觀念研究：每日一杯癌症死亡風險倍增- 國際 - 工商時報",
+      "published": "2026-09-03T14:30:00+00:00",
+      "summary": "打破「小酌無害」觀念研究：每日一杯癌症死亡風險倍增- 國際&nbsp;&nbsp;工商時報",
       "sources": [
         {
-          "name": "民報",
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cGFTanlNeWh3LUJzcXNIQUQtOXZpWGNPcUF4a0luRGljVEZ2MHVyanhFU0l5VkRYRWdDNWFFOElncm1IWjJUWG9lVUxNamloOG9ETUl3dmo1cTJzeHVv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0eac0866bc66",
+      "title": "糖水檢查沒過會怎樣？營養師揭8種妊娠糖尿病風險 恐提高早產機率 - peoplenews.tw",
+      "published": "2026-09-03T11:00:00+00:00",
+      "summary": "糖水檢查沒過會怎樣？營養師揭8種妊娠糖尿病風險 恐提高早產機率&nbsp;&nbsp;peoplenews.tw",
+      "sources": [
+        {
+          "name": "peoplenews.tw",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5raGRORGtuVHczUVpjRlVjX3NsTnplckh0TnhjbTZiRE1MYUdVVW5XbnQtN3pOVFNiWHFSRzIxckNBaENSdFR0bWY5S3I0UldzNS1mNUQ3TGh1S0Nta1gzWA?oc=5"
         }
       ]
@@ -280,18 +304,6 @@
       ]
     },
     {
-      "id": "c349b3a3b280",
-      "title": "套套激戰消失辣妹2理由拒吃藥醫驚：下場恐很慘- 健康 - 中時新聞網",
-      "published": "2026-09-02T02:20:00+00:00",
-      "summary": "套套激戰消失辣妹2理由拒吃藥醫驚：下場恐很慘- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWeTFaQzZJTHJqcWNwUUp3cFhKYU9NVE43SGdFNVYtd2wyX0xtclJTazdibmd0SzFNdUlsODFvUC1VLTA1XzVWb2J0amdXZDMxeEFFQjd3VE1HMnRDWWUzRGRoZUxzeVkteUYtN3V3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "357275785be3",
       "title": "90歲還沒失智也別大意！研究揭女性風險高1倍 6件事幫大腦維持健康 - 元氣網",
       "published": "2026-09-02T05:41:00+00:00",
@@ -328,18 +340,6 @@
       ]
     },
     {
-      "id": "7be02fdd26d5",
-      "title": "43歲的他心臟幾乎“停擺”，微型“臨時人工心臟”加持，打通閉塞血管 - 人民网－安徽频道",
-      "published": "2026-09-07T06:50:00+00:00",
-      "summary": "43歲的他心臟幾乎“停擺”，微型“臨時人工心臟”加持，打通閉塞血管&nbsp;&nbsp;人民网－安徽频道",
-      "sources": [
-        {
-          "name": "人民网－安徽频道",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6Z1IwYW14TEpyU202LXEyOHNDenFwYUdSUTdqLTdwb2tQaXIxVDhKNG9uTUtpbWk2YzNfSEpXZk1Odl9yM2RBYWlmRndkWV9rbnBvSTQzYUxrZjdFclBTcGFWejh4QW1JSzRKWXZMNkQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "20503c5999da",
       "title": "中秋過食 胃痛反酸 花膠海參鮑魚消化「煞星」 - 20260909 - 副刊 - 明報新聞網",
       "published": "2026-09-08T20:30:00+00:00",
@@ -352,13 +352,13 @@
       ]
     },
     {
-      "id": "68b0a8b477ac",
-      "title": "廣東輪狀病毒高發季將至，專家提醒新手爸媽把握接種窗口 - hkcd.com.hk",
+      "id": "0e1f75fd03ab",
+      "title": "廣東輪狀病毒高發季將至，專家提醒新手爸媽把握接種窗口 - 香港商报",
       "published": "2026-09-08T03:29:00+00:00",
-      "summary": "廣東輪狀病毒高發季將至，專家提醒新手爸媽把握接種窗口&nbsp;&nbsp;hkcd.com.hk",
+      "summary": "廣東輪狀病毒高發季將至，專家提醒新手爸媽把握接種窗口&nbsp;&nbsp;香港商报",
       "sources": [
         {
-          "name": "hkcd.com.hk",
+          "name": "香港商报",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GSEdZNHF4Z25kcEh2TTdQVTNYbkl5Z2xqMTBjaDFMX0FpZFB4YUZwcndlNGlJZFd5OTJqVnVLQjdaNTJ6SmFUV1RkNUxzcWJabDBsaXI2N1pJQVdnXzI5bFBvQ3ctVkRsLXJCdlBBSVRoRHdiTGc?oc=5"
         }
       ]
@@ -372,18 +372,6 @@
         {
           "name": "etnet 經濟通",
           "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQYjFReEtWS0FOMjFWaXhvdERDNTl1bTlNQl9OSmFfTks0ekZ2OXQtT2Y3b1FvTE9ReTc2Q2JocFJCYXQyZ1BBRDMyUkh5MU1xZ3N6WnkyYnRmVDltTDF0YzhOc2sycjdIOWQxWTVvWmxUYlNrMThReW9WUVl6Tk9hWnVybUtMcWRjaGZtVmNJVDc3YW1sbHJkZ3RsMnRjamEwXzFXbnlQcDBoSEsyYkVEcVpRaXhlQ005akJzd1NfYnc4MDR2YW8tYjBfd0JvWkdOV2dvcUg4QXVQbWZucUgwVUNlVGUyLUFfRDd2aDM1ZzlVZDRsQThlelp5ako0SGdXUTkweUlLY0RCMkhDNUU4eEhxUHJ3TGZ0alFQZW5EWHVZc3hWdlNxZm1tMUdSREVkMk02N3h0TmVrd3VIdXdaLXJCMUd1Z1lzY0VvWjNuNEZmY3FIU0xZMEFadTVOaHhmN29fdjI1UVJMUlF0ZG5FZHZHbk01N0pQRTVHZXFsamNYbjBsTVJneVZnWVJZRjlsZFZfWnNhenluOUxJWEFSb2Nlak9KZ2lDUHY3cl80eDVKOENWckJBYk5fWUZzZUphOHJ4aEhXUHBwckhnWHhaOVBzRFVzSGx1NC04RUVobk0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2af60ecb12cf",
-      "title": "癌症開完刀為什麼還會復發？南韓團隊從脾臟下手，用細菌做出奈米平台（小鼠實驗） - 明日科學",
-      "published": "2026-09-07T01:31:12+00:00",
-      "summary": "癌症開完刀為什麼還會復發？南韓團隊從脾臟下手，用細菌做出奈米平台（小鼠實驗）&nbsp;&nbsp;明日科學",
-      "sources": [
-        {
-          "name": "明日科學",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTmY1UEhqTkJjY0FqY2VBLWN2TVRSUEo1aEhWcEhVRnMzb25mbUM0cVJtVUwzd0hhaGhjc09QYU1pWWs2WDFvT19zZFpUcDByZGhFMEhpa1dzcFNOWEJj?oc=5"
         }
       ]
     },
@@ -408,6 +396,18 @@
         {
           "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HcDZnemNlMUMxc0h0T3F0MEJvdDNGZUVyYnFISENVS0UtNDlEa2dOZDNUOWk0d01xNDZGZk52aDdCd2xycjZIRDVwM09jbExqeWlyWlVrQWJYcDVrT0I40gFkQVVfeXFMT0hXdG5XS1FlektEUW9QOTcyQTZLYmpxUk5YNEhJNXpjUTJ1T3VZOW9jZTVQeWlfZ3MzcGhTTy1CR1hCSTNETzdjVWRnX29VWW1Fa2ZyX3l5S09EeTR5Skdldl9uRg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2af60ecb12cf",
+      "title": "癌症開完刀為什麼還會復發？南韓團隊從脾臟下手，用細菌做出奈米平台（小鼠實驗） - 明日科學",
+      "published": "2026-09-07T01:31:12+00:00",
+      "summary": "癌症開完刀為什麼還會復發？南韓團隊從脾臟下手，用細菌做出奈米平台（小鼠實驗）&nbsp;&nbsp;明日科學",
+      "sources": [
+        {
+          "name": "明日科學",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTmY1UEhqTkJjY0FqY2VBLWN2TVRSUEo1aEhWcEhVRnMzb25mbUM0cVJtVUwzd0hhaGhjc09QYU1pWWs2WDFvT19zZFpUcDByZGhFMEhpa1dzcFNOWEJj?oc=5"
         }
       ]
     },
@@ -508,13 +508,13 @@
       ]
     },
     {
-      "id": "579b6f9d2e17",
-      "title": "研究：激素動態監測或有助識別一種常見高血壓病因- 國際 - 香港文匯報",
+      "id": "78a6821738e5",
+      "title": "研究：激素動態監測或有助識別一種常見高血壓病因- 國際 - wenweipo.com",
       "published": "2026-09-06T07:27:40+00:00",
-      "summary": "研究：激素動態監測或有助識別一種常見高血壓病因- 國際&nbsp;&nbsp;香港文匯報",
+      "summary": "研究：激素動態監測或有助識別一種常見高血壓病因- 國際&nbsp;&nbsp;wenweipo.com",
       "sources": [
         {
-          "name": "香港文匯報",
+          "name": "wenweipo.com",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MRzZvT0ZWUUhKTHRhbktxd3phMHVlQ3Blczk5RG9pOXNNY2VESV9qMVhlQ3VEbWlUcWFfdV9TeXVnaF9GWkpYTkRxV1NYS2xuNmFjWVo2Mzg4RldYWnM2OTA3Q2hxa1VLaTZ5TV9oLWxEamJDaFJv?oc=5"
         }
       ]
