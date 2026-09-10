@@ -14,7 +14,7 @@ permalink: /news/carbenoxolone/
 ---
 
 <p class="key-answer" data-question="Carbenoxolone 有什麼相關新聞？">
-<strong>Carbenoxolone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Carbenoxolone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/carbenoxolone/
 <p><a href="{{ '/drugs/carbenoxolone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [抗癌戰士︱YouTuber曉欣戰勝14cm卵巢腫瘤脫假髮曬「頭髮生長報告」 Skinhead 撞樣《怪奇物語》Eleven](https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tcmFhNzFqRjBxbjR4UHQ3WDBjS21Tb0RSYlB2R3FBMjJRUUYtWk1pUmhiYUstVVlPY0QxbjAyQnNpM3NwdEJlaDdaQ3VQNnU3SHc?oc=5)
 
@@ -56,6 +56,14 @@ permalink: /news/carbenoxolone/
 
 ---
 
+### [癌症開完刀為什麼還會復發？南韓團隊從脾臟下手，用細菌做出奈米平台（小鼠實驗）](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTmY1UEhqTkJjY0FqY2VBLWN2TVRSUEo1aEhWcEhVRnMzb25mbUM0cVJtVUwzd0hhaGhjc09QYU1pWWs2WDFvT19zZFpUcDByZGhFMEhpa1dzcFNOWEJj?oc=5)
+
+2026-09-07 <span class="news-indication-tag">癌症</span>
+
+來源：[明日科學](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTmY1UEhqTkJjY0FqY2VBLWN2TVRSUEo1aEhWcEhVRnMzb25mbUM0cVJtVUwzd0hhaGhjc09QYU1pWWs2WDFvT19zZFpUcDByZGhFMEhpa1dzcFNOWEJj?oc=5)
+
+---
+
 ### [乳癌竟能利用免疫細胞招來神經，幫助腫瘤生長 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oS1VuZW9pTUVqVGJQY1hrSnhXa29JNnlOR2o4dE1CYTZOc2pmTHYwSDgtdjBuNWFDUHhiR3JqRm5uN2M4bUNPalhYMy1LVUIxWnI1STVB?oc=5)
 
 2026-09-04 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span>
@@ -68,7 +76,7 @@ permalink: /news/carbenoxolone/
 
 2026-09-04 <span class="news-indication-tag">癌症</span>
 
-來源：[news.ttv.com.tw](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
+來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
 
 ---
 

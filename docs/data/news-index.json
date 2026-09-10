@@ -1,39 +1,15 @@
 {
-  "generated": "2026-09-10T19:21:46.609851+00:00",
-  "count": 12,
+  "generated": "2026-09-10T22:06:26.943817+00:00",
+  "count": 15,
   "news": [
     {
-      "id": "274f79f2b5d9",
-      "title": "感冒後突腳腫「連鞋子都穿不上」！28歲男急求診 醫一看：腎完了",
-      "published": "2026-09-10T09:24:49+00:00",
+      "id": "c3dcc302667d",
+      "title": "HPV感染恐影響男性生育力　醫曝研究「精子活動力」可能變差",
+      "published": "2026-09-10T03:35:00+00:00",
       "sources": [
         {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE51cHZDWndkcEFKU3BNSXZ4WHozUVNKV3p4aWxaV3dvZENOcFk5dDBSMEo1OW5lTE9YVjhFaml5LXVBbmMwTjI0WjhPUng?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "44eb1ff7b5c2",
-      "title": "HPV 53型是什麼？感染會致癌嗎？陽性怎麼辦、多久會轉陰？",
-      "published": "2026-09-10T09:02:00+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPbzllVXpvSFNmaGNmaDZlMUpIVzJXcTJMRzkzWms4WUJZMGVpYWJPaUVhRWE4NXVZSG53aUJtR2M0T2V3OXQweXRlYUVvMmVpVHpLckJNY2ZYWks0N0Y5TGx5U0hnaVRIRmFnVGJxQlhvQW9mTWJoTlVDU041VUhicWh2dlc5MFVON04yYWRKLWlOLVJMYzJvaGFHd21nRGRiVUZycGFjbHhwd3ZOdk5iLUNXVkVKajFJc3dfYU5EOThseTNmSUZ0eHEtMmtmanpGdThqaTMwenI2YlpqZnlUWmpsakJaMVIzT2tveEI2N3JFTFNhRTFPd1k2bmUxUEkwMkExUjNPNmN4WlNVRGIzVUI0RGx3YzAtcGV3OENfU3dBRkgxXzE5enhJZjJhY19ra0N2TXRFdk1hSUsyVmxlSnJkNkpiXzAwbC0tUURmTQ?oc=5"
+          "name": "health.ettoday.net",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiNGQ3TVNSUzhzb0lkZUNDUmtCR0l0Nm9Mb2o1N2szOEVERFR2aEhwWE1KbXdRREFGYzc4MmYxZmMwUFdVYTVHbHdjSXQ0WF920gFPQVVfeXFMUEpHNEUyeXNQM3hEdER4VjlxTjREaXhNdDQzMk52OXVuX1dXQVF0THdfeVljWC1jMDZJVUV4MUVhNEF3U0ZOMkFXQ1k3dThpNA?oc=5"
         }
       ],
       "keywords": [
@@ -274,13 +250,13 @@
       ]
     },
     {
-      "id": "fef9c053f709",
-      "title": "洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」 - PChome Online 新聞",
-      "published": "2026-09-10T01:00:00+00:00",
+      "id": "9f8f56026204",
+      "title": "洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」",
+      "published": "2026-09-10T01:37:42+00:00",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX0ZVVXdQMFpiZFJIYmJkTktubEdvV1lSR3hZUm5teTRxU2JNM1BHUjRLUHh0b29yREZiN3ByVkh0NjM4ZHJ6dk00cTB1dEJoZXFaeUkwd0VqNzE3SVg4TWNoSVdSeVYzVEhkRDM0dDR0Tko3QzdiVzNpdnB1bDBzSXpaR0QyUDlsdi1rQ1dyaHJyZjQ?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQSVAzNTl5N1BoZ2tlM1FNNDdiQ2hPZ3VnaVpjYjIxeWduNkxxRzNKZnpsMzNqZFVYNWNYVHJjaXpxUlZIbGFpWTMtSk52a21qQTFaQ2pINjFfRzBibDFPNXFxa1JxWUdWanhfMVdoWDhJTlBQYW40YklSeWdjUlljTlRJVmV4dUZ2X0YyZDU1NTRyQ1U1MzFFdTlyNHJzNHV6T2xMZ3h4UkstOUw0Vmhhb2EzSVVNTzBab3YxWG1kX3RjeVpCSUc1a2RBMFBUS3NER01MbTVQUDgtdUY1TmJHN2pzMkZRMGI2SkNFaUtyRWJVclJ3bU9lcG5fbmV6X2N6NzJBa2x1Q2d4dXFFMk9nNUNTaUZKSDhzOUxjTkRiOUhSYmUwVWwzOERrQUFIclZ1NlRPQXBkZUtuamZlWjYtRV9rTC1TUUJGaFl3Y2IxV1NUcGYyS29aVw?oc=5"
         }
       ],
       "keywords": [
@@ -316,6 +292,45 @@
             {
               "slug": "dehydrocholic_acid",
               "name": "Dehydrocholic acid"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a5740e008ac2",
+      "title": "「皮蛇」最怕後遺症？高危險群外用藥膏對神經痛完全無效！72 小時內就醫是關鍵",
+      "published": "2026-09-09T14:15:59+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQSjZwLTZKMVp5d3BEeWYxQWZCOEJEXzVGbE5XTFFUOW9SX19wYUluZ1RUQjJBbTR3Y1p5UEVIWmFKYzMtZUtrUWRzd0FWR084d2VtUTlyMWFfUzBqbVN4MVFpRFBRdnoxb2VVTU1NSUtiN2ZwamRvY1RLU2ZsR09VQzRnN0xtY2NFS3UxTDRyWThFQUstcDlfaVRSUGdDdXMtMFdNc2VoT2pEQ3JNSk5kYzV0cE1MTXNlcWtfSTZFTDdHTjg4cWpURzRFVDJRYTdqR0dSYXlxanR1U2IxOHVvS2RmTGt2WXM5dTFKdDFWVmpBWUVwQmhRejZDUG85RldUVGxzWjlNV3hZR2trQkdsbDJCV2tKQVE5SDl5c2ZXcHgwdzllV2FVTGtQZ25JaFhDMFBLTTRITnpFbTFMVDlGSTdNc2tkNG9ZYmpYUVFCTW1uQWZZYW5vZDM5dno0aXhRUGplR18xQVR6SXJydkhHNmRQRmVDYVl0NlAwdDU5c3BxNzM1NGF3bE9sNmdab3pLZDZZNVhUX19fVklpQy1KNTRBLXd0aU1SRHJJNnNVYkd3dmc1MFU2ZE41WWs4SXk4ZVhFd2dkZU41dnB1WUxJ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "皮蛇",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "神經痛",
+          "keyword": "神經痛",
+          "related_drugs": [
+            {
+              "slug": "ibuprofen",
+              "name": "Ibuprofen"
+            },
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }
@@ -541,6 +556,53 @@
       ]
     },
     {
+      "id": "0070e1846a64",
+      "title": "日本女星不健檢後悔了59歲腸阻塞入院確診大腸癌- 健康",
+      "published": "2026-09-09T06:52:59+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zVllyWHJqUnI1b0xKbDc3aXptNkw5MGxyNXQyWDU3eDdCNk1wbnREOUdHMjVSUWNGd0xOT19oZTdqV0hyZVNUd0o1OHhqM0tfYm43SUJWUi1sVkJzWVRwbEIxaEl0X3dlN3dPR0ZB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "7ecd6467c568",
       "title": "失智症可預防？ WHO：做好這些事可減45%病例",
       "published": "2026-09-09T03:09:00+00:00",
@@ -609,6 +671,249 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f92801ef7053",
+      "title": "[外稿新聞]-成大醫院呼吸道疾病衛教週登場 氣喘、肺阻塞團隊攜手守護全齡呼吸健康",
+      "published": "2026-09-08T01:29:55+00:00",
+      "sources": [
+        {
+          "name": "atanews.net",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xczl5Y3NpZXoyZmh6T0FBRWdzQWoyeGFaRFVJeFZjd1ZnSzZYQ2RMWDhaUVBHWXdCRWxIbEZ5ckhBMG5tOF8wTkhTWnVvSnE0OFZrVTVPOFBsTUp5Zmc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "氣喘",
+          "keyword": "氣喘",
+          "related_drugs": [
+            {
+              "slug": "dupilumab",
+              "name": "Dupilumab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2af60ecb12cf",
+      "title": "癌症開完刀為什麼還會復發？南韓團隊從脾臟下手，用細菌做出奈米平台（小鼠實驗）",
+      "published": "2026-09-07T01:31:12+00:00",
+      "sources": [
+        {
+          "name": "明日科學",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTmY1UEhqTkJjY0FqY2VBLWN2TVRSUEo1aEhWcEhVRnMzb25mbUM0cVJtVUwzd0hhaGhjc09QYU1pWWs2WDFvT19zZFpUcDByZGhFMEhpa1dzcFNOWEJj?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
             }
           ]
         }
@@ -910,12 +1215,12 @@
       ]
     },
     {
-      "id": "ea66aecd1c7c",
+      "id": "1f78443dcbe6",
       "title": "菇類也能防癌？研究發現每天吃18克 癌症風險低45％",
       "published": "2026-09-04T07:00:04+00:00",
       "sources": [
         {
-          "name": "news.ttv.com.tw",
+          "name": "台視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5"
         }
       ],

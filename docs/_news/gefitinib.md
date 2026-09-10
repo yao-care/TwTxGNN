@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
 ### [抗癌戰士︱YouTuber曉欣戰勝14cm卵巢腫瘤脫假髮曬「頭髮生長報告」 Skinhead 撞樣《怪奇物語》Eleven](https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tcmFhNzFqRjBxbjR4UHQ3WDBjS21Tb0RSYlB2R3FBMjJRUUYtWk1pUmhiYUstVVlPY0QxbjAyQnNpM3NwdEJlaDdaQ3VQNnU3SHc?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/gefitinib/
 
 ---
 
+### [癌症開完刀為什麼還會復發？南韓團隊從脾臟下手，用細菌做出奈米平台（小鼠實驗）](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTmY1UEhqTkJjY0FqY2VBLWN2TVRSUEo1aEhWcEhVRnMzb25mbUM0cVJtVUwzd0hhaGhjc09QYU1pWWs2WDFvT19zZFpUcDByZGhFMEhpa1dzcFNOWEJj?oc=5)
+
+2026-09-07 <span class="news-indication-tag">癌症</span>
+
+來源：[明日科學](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTmY1UEhqTkJjY0FqY2VBLWN2TVRSUEo1aEhWcEhVRnMzb25mbUM0cVJtVUwzd0hhaGhjc09QYU1pWWs2WDFvT19zZFpUcDByZGhFMEhpa1dzcFNOWEJj?oc=5)
+
+---
+
 ### [健康網》研究：「鋰」可能預防失智 如何應用仍待努力](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yX1ItNmwtLTFPdVhGel84WXVneDUyNm1yMzRTQXFucXRjQWJlMEJNTGE5R0Q1dW9XQm8wNzdXXzVrUVBzOWZUN0dWeWJRcFRqUHRmOGZiN2ZSMDgxREhhUTRCZm3SAWpBVV95cUxPYjFFRjd1SXMtdG1YLU9uQm0yNnJfalh5c25iQXN1NEoyOHpjV2h4Mmh5Z0xhNmJhaUZnS3RjYmJWZWVUX2p1MHdYUS1rZUtPWTJnVEhpNnZCWEh4Smw1VDQwaENXdTVXOGxB?oc=5)
 
 2026-09-05 <span class="news-indication-tag">失智</span>
@@ -87,7 +95,7 @@ permalink: /news/gefitinib/
 
 2026-09-04 <span class="news-indication-tag">癌症</span>
 
-來源：[news.ttv.com.tw](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
+來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
 
 ---
 

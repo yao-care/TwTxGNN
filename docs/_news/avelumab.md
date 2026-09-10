@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
 
 ### [抗癌戰士︱YouTuber曉欣戰勝14cm卵巢腫瘤脫假髮曬「頭髮生長報告」 Skinhead 撞樣《怪奇物語》Eleven](https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tcmFhNzFqRjBxbjR4UHQ3WDBjS21Tb0RSYlB2R3FBMjJRUUYtWk1pUmhiYUstVVlPY0QxbjAyQnNpM3NwdEJlaDdaQ3VQNnU3SHc?oc=5)
 
@@ -52,11 +52,27 @@ permalink: /news/avelumab/
 
 ---
 
+### [「皮蛇」最怕後遺症？高危險群外用藥膏對神經痛完全無效！72 小時內就醫是關鍵](https://news.google.com/rss/articles/CBMizwNBVV95cUxQSjZwLTZKMVp5d3BEeWYxQWZCOEJEXzVGbE5XTFFUOW9SX19wYUluZ1RUQjJBbTR3Y1p5UEVIWmFKYzMtZUtrUWRzd0FWR084d2VtUTlyMWFfUzBqbVN4MVFpRFBRdnoxb2VVTU1NSUtiN2ZwamRvY1RLU2ZsR09VQzRnN0xtY2NFS3UxTDRyWThFQUstcDlfaVRSUGdDdXMtMFdNc2VoT2pEQ3JNSk5kYzV0cE1MTXNlcWtfSTZFTDdHTjg4cWpURzRFVDJRYTdqR0dSYXlxanR1U2IxOHVvS2RmTGt2WXM5dTFKdDFWVmpBWUVwQmhRejZDUG85RldUVGxzWjlNV3hZR2trQkdsbDJCV2tKQVE5SDl5c2ZXcHgwdzllV2FVTGtQZ25JaFhDMFBLTTRITnpFbTFMVDlGSTdNc2tkNG9ZYmpYUVFCTW1uQWZZYW5vZDM5dno0aXhRUGplR18xQVR6SXJydkhHNmRQRmVDYVl0NlAwdDU5c3BxNzM1NGF3bE9sNmdab3pLZDZZNVhUX19fVklpQy1KNTRBLXd0aU1SRHJJNnNVYkd3dmc1MFU2ZE41WWs4SXk4ZVhFd2dkZU41dnB1WUxJ?oc=5)
+
+2026-09-09 <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">神經痛</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMizwNBVV95cUxQSjZwLTZKMVp5d3BEeWYxQWZCOEJEXzVGbE5XTFFUOW9SX19wYUluZ1RUQjJBbTR3Y1p5UEVIWmFKYzMtZUtrUWRzd0FWR084d2VtUTlyMWFfUzBqbVN4MVFpRFBRdnoxb2VVTU1NSUtiN2ZwamRvY1RLU2ZsR09VQzRnN0xtY2NFS3UxTDRyWThFQUstcDlfaVRSUGdDdXMtMFdNc2VoT2pEQ3JNSk5kYzV0cE1MTXNlcWtfSTZFTDdHTjg4cWpURzRFVDJRYTdqR0dSYXlxanR1U2IxOHVvS2RmTGt2WXM5dTFKdDFWVmpBWUVwQmhRejZDUG85RldUVGxzWjlNV3hZR2trQkdsbDJCV2tKQVE5SDl5c2ZXcHgwdzllV2FVTGtQZ25JaFhDMFBLTTRITnpFbTFMVDlGSTdNc2tkNG9ZYmpYUVFCTW1uQWZZYW5vZDM5dno0aXhRUGplR18xQVR6SXJydkhHNmRQRmVDYVl0NlAwdDU5c3BxNzM1NGF3bE9sNmdab3pLZDZZNVhUX19fVklpQy1KNTRBLXd0aU1SRHJJNnNVYkd3dmc1MFU2ZE41WWs4SXk4ZVhFd2dkZU41dnB1WUxJ?oc=5)
+
+---
+
 ### [研究指飲酒致癌死亡人數30年翻一倍！男子頻飲酒致肝癌現8cm腫瘤](https://news.google.com/rss/articles/CBMiowNBVV95cUxQSEx3N1hhZEFBaDFDRHdhQndTV0NRcUhzVTh5dnplYWN5dGJ3a1IxcUFiNHV5MHhCeUJzVk12dFo4ZEVsZEJsdjRLODNGNEYyRk9CQW1lSUJ4bjFKc2F3OWg2bzRrV015TEduVjBzSjFPbU1zUmZPdGRmcGx2MnJESUNNVGEwQ3JKZG94WHd6cnYyMllkeXdXZFFzTHRYU3FNbGNIUDUxUW00SDJOTURjcjhxNTFWTlhVN1VBem1JamdmVU93bF9aUHNITVU1aW1iMU5jMGw0SmF2d3B6ZzdYR1NGZ0VrR1BFcHg0OU1ISUUzRm1Iclc0OUNxWl9WNndWTWdhaUM3QlFiS214YUNvSEtMY0FPRkZsSzA0SDhJSUhIR0pNWTZLT0Z0amhlYnA1Tno3MlYxa0M4MEhtb2pUcUhFUFgxcFZTZ3FjVWZZNWp4cTJHQ2xWTzlEMmtjM3luQzQxbks1Qk1ubzdPWEE0UFNGNzZGZFlWMlpNOWc3S1BmTzU2dVh3RXdoTmpkRDE3am5ONXJfYVVmV2EtamhXZUl4WQ?oc=5)
 
 2026-09-09 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">肝癌</span>
 
 來源：[香港01](https://news.google.com/rss/articles/CBMiowNBVV95cUxQSEx3N1hhZEFBaDFDRHdhQndTV0NRcUhzVTh5dnplYWN5dGJ3a1IxcUFiNHV5MHhCeUJzVk12dFo4ZEVsZEJsdjRLODNGNEYyRk9CQW1lSUJ4bjFKc2F3OWg2bzRrV015TEduVjBzSjFPbU1zUmZPdGRmcGx2MnJESUNNVGEwQ3JKZG94WHd6cnYyMllkeXdXZFFzTHRYU3FNbGNIUDUxUW00SDJOTURjcjhxNTFWTlhVN1VBem1JamdmVU93bF9aUHNITVU1aW1iMU5jMGw0SmF2d3B6ZzdYR1NGZ0VrR1BFcHg0OU1ISUUzRm1Iclc0OUNxWl9WNndWTWdhaUM3QlFiS214YUNvSEtMY0FPRkZsSzA0SDhJSUhIR0pNWTZLT0Z0amhlYnA1Tno3MlYxa0M4MEhtb2pUcUhFUFgxcFZTZ3FjVWZZNWp4cTJHQ2xWTzlEMmtjM3luQzQxbks1Qk1ubzdPWEE0UFNGNzZGZFlWMlpNOWc3S1BmTzU2dVh3RXdoTmpkRDE3am5ONXJfYVVmV2EtamhXZUl4WQ?oc=5)
+
+---
+
+### [癌症開完刀為什麼還會復發？南韓團隊從脾臟下手，用細菌做出奈米平台（小鼠實驗）](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTmY1UEhqTkJjY0FqY2VBLWN2TVRSUEo1aEhWcEhVRnMzb25mbUM0cVJtVUwzd0hhaGhjc09QYU1pWWs2WDFvT19zZFpUcDByZGhFMEhpa1dzcFNOWEJj?oc=5)
+
+2026-09-07 <span class="news-indication-tag">癌症</span>
+
+來源：[明日科學](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTmY1UEhqTkJjY0FqY2VBLWN2TVRSUEo1aEhWcEhVRnMzb25mbUM0cVJtVUwzd0hhaGhjc09QYU1pWWs2WDFvT19zZFpUcDByZGhFMEhpa1dzcFNOWEJj?oc=5)
 
 ---
 
@@ -72,7 +88,7 @@ permalink: /news/avelumab/
 
 2026-09-04 <span class="news-indication-tag">癌症</span>
 
-來源：[news.ttv.com.tw](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
+來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
 
 ---
 
