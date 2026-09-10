@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,21 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [感冒不只傷呼吸道！醫揭「5大腎炎」 腳水腫、排可樂色尿別拖](https://news.google.com/rss/articles/CBMi7gJBVV95cUxOLW5Sb3pKQUtqb0VLSkpabHF0Z0doTGRudUpXQWx1bnB6bnN4bDFtam9sRGNvRGl6SjBzRmx6REhaLUVxQ1lzWkVOWGlMYkI3WDd3STA1Q2RtdjlzemtxMGJJSlZ6cmtrX3R3MGF4T2ZxUG5XNHg3ZnlzSmJkNEJLdk9NWDlrcFpOMC05cGFrTlRXVGZiekFJSUlDRjNYZms1OEJQTVhaSFZvWlpmNFZSbzkzb3d0Tk5EVGtGRmVpcVFIcndFTmVKMm1TRTBfT2hwYUVMZnlub3NzOWlndE9ESkNiOHFIcU13UDkyM0VsTjZyVWVDRWwtRmpSdC01WDBnN1ZCWmtaZzlvd1BkbElBU3d0YnFGRkRiR3Q4SkJ0WEVOMWo4Nnl0X0RCczk3SXhSMUdIZS1TY0o5S0MxOUdlcVVtaHJZX1o1bkhTR09Fb1hYVXVTWndEQVNraGt2QjFOVkpHVXFfTU9UVHVYYUE?oc=5)
-
-2026-09-10 <span class="news-indication-tag">感冒</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi7gJBVV95cUxOLW5Sb3pKQUtqb0VLSkpabHF0Z0doTGRudUpXQWx1bnB6bnN4bDFtam9sRGNvRGl6SjBzRmx6REhaLUVxQ1lzWkVOWGlMYkI3WDd3STA1Q2RtdjlzemtxMGJJSlZ6cmtrX3R3MGF4T2ZxUG5XNHg3ZnlzSmJkNEJLdk9NWDlrcFpOMC05cGFrTlRXVGZiekFJSUlDRjNYZms1OEJQTVhaSFZvWlpmNFZSbzkzb3d0Tk5EVGtGRmVpcVFIcndFTmVKMm1TRTBfT2hwYUVMZnlub3NzOWlndE9ESkNiOHFIcU13UDkyM0VsTjZyVWVDRWwtRmpSdC01WDBnN1ZCWmtaZzlvd1BkbElBU3d0YnFGRkRiR3Q4SkJ0WEVOMWo4Nnl0X0RCczk3SXhSMUdIZS1TY0o5S0MxOUdlcVVtaHJZX1o1bkhTR09Fb1hYVXVTWndEQVNraGt2QjFOVkpHVXFfTU9UVHVYYUE?oc=5)
-
----
-
-### [洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」](https://news.google.com/rss/articles/CBMi2AJBVV95cUxQSVAzNTl5N1BoZ2tlM1FNNDdiQ2hPZ3VnaVpjYjIxeWduNkxxRzNKZnpsMzNqZFVYNWNYVHJjaXpxUlZIbGFpWTMtSk52a21qQTFaQ2pINjFfRzBibDFPNXFxa1JxWUdWanhfMVdoWDhJTlBQYW40YklSeWdjUlljTlRJVmV4dUZ2X0YyZDU1NTRyQ1U1MzFFdTlyNHJzNHV6T2xMZ3h4UkstOUw0Vmhhb2EzSVVNTzBab3YxWG1kX3RjeVpCSUc1a2RBMFBUS3NER01MbTVQUDgtdUY1TmJHN2pzMkZRMGI2SkNFaUtyRWJVclJ3bU9lcG5fbmV6X2N6NzJBa2x1Q2d4dXFFMk9nNUNTaUZKSDhzOUxjTkRiOUhSYmUwVWwzOERrQUFIclZ1NlRPQXBkZUtuamZlWjYtRV9rTC1TUUJGaFl3Y2IxV1NUcGYyS29aVw?oc=5)
+### [感冒後突腳腫「連鞋子都穿不上」！28歲男急求診 醫一看：腎完了](https://news.google.com/rss/articles/CBMiTEFVX3lxTE51cHZDWndkcEFKU3BNSXZ4WHozUVNKV3p4aWxaV3dvZENOcFk5dDBSMEo1OW5lTE9YVjhFaml5LXVBbmMwTjI0WjhPUng?oc=5)
 
 2026-09-10 <span class="news-indication-tag">感冒</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi2AJBVV95cUxQSVAzNTl5N1BoZ2tlM1FNNDdiQ2hPZ3VnaVpjYjIxeWduNkxxRzNKZnpsMzNqZFVYNWNYVHJjaXpxUlZIbGFpWTMtSk52a21qQTFaQ2pINjFfRzBibDFPNXFxa1JxWUdWanhfMVdoWDhJTlBQYW40YklSeWdjUlljTlRJVmV4dUZ2X0YyZDU1NTRyQ1U1MzFFdTlyNHJzNHV6T2xMZ3h4UkstOUw0Vmhhb2EzSVVNTzBab3YxWG1kX3RjeVpCSUc1a2RBMFBUS3NER01MbTVQUDgtdUY1TmJHN2pzMkZRMGI2SkNFaUtyRWJVclJ3bU9lcG5fbmV6X2N6NzJBa2x1Q2d4dXFFMk9nNUNTaUZKSDhzOUxjTkRiOUhSYmUwVWwzOERrQUFIclZ1NlRPQXBkZUtuamZlWjYtRV9rTC1TUUJGaFl3Y2IxV1NUcGYyS29aVw?oc=5)
+來源：[三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE51cHZDWndkcEFKU3BNSXZ4WHozUVNKV3p4aWxaV3dvZENOcFk5dDBSMEo1OW5lTE9YVjhFaml5LXVBbmMwTjI0WjhPUng?oc=5)
 
 ---
 
-### [[外稿新聞]-成大醫院呼吸道疾病衛教週登場 氣喘、肺阻塞團隊攜手守護全齡呼吸健康](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xczl5Y3NpZXoyZmh6T0FBRWdzQWoyeGFaRFVJeFZjd1ZnSzZYQ2RMWDhaUVBHWXdCRWxIbEZ5ckhBMG5tOF8wTkhTWnVvSnE0OFZrVTVPOFBsTUp5Zmc?oc=5)
+### [洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNX0ZVVXdQMFpiZFJIYmJkTktubEdvV1lSR3hZUm5teTRxU2JNM1BHUjRLUHh0b29yREZiN3ByVkh0NjM4ZHJ6dk00cTB1dEJoZXFaeUkwd0VqNzE3SVg4TWNoSVdSeVYzVEhkRDM0dDR0Tko3QzdiVzNpdnB1bDBzSXpaR0QyUDlsdi1rQ1dyaHJyZjQ?oc=5)
 
-2026-09-08 <span class="news-indication-tag">氣喘</span> <span class="news-indication-tag">感冒</span>
+2026-09-10 <span class="news-indication-tag">感冒</span>
 
-來源：[atanews.net](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xczl5Y3NpZXoyZmh6T0FBRWdzQWoyeGFaRFVJeFZjd1ZnSzZYQ2RMWDhaUVBHWXdCRWxIbEZ5ckhBMG5tOF8wTkhTWnVvSnE0OFZrVTVPOFBsTUp5Zmc?oc=5)
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNX0ZVVXdQMFpiZFJIYmJkTktubEdvV1lSR3hZUm5teTRxU2JNM1BHUjRLUHh0b29yREZiN3ByVkh0NjM4ZHJ6dk00cTB1dEJoZXFaeUkwd0VqNzE3SVg4TWNoSVdSeVYzVEhkRDM0dDR0Tko3QzdiVzNpdnB1bDBzSXpaR0QyUDlsdi1rQ1dyaHJyZjQ?oc=5)
 
 ---
 
