@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [感冒後突腳腫「連鞋子都穿不上」！28歲男急求診 醫一看：腎完了](https://news.google.com/rss/articles/CBMiTEFVX3lxTE51cHZDWndkcEFKU3BNSXZ4WHozUVNKV3p4aWxaV3dvZENOcFk5dDBSMEo1OW5lTE9YVjhFaml5LXVBbmMwTjI0WjhPUng?oc=5)
+
+2026-09-10 <span class="news-indication-tag">感冒</span>
+
+來源：[三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE51cHZDWndkcEFKU3BNSXZ4WHozUVNKV3p4aWxaV3dvZENOcFk5dDBSMEo1OW5lTE9YVjhFaml5LXVBbmMwTjI0WjhPUng?oc=5)
+
+---
 
 ### [洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」](https://news.google.com/rss/articles/CBMi2AJBVV95cUxQSVAzNTl5N1BoZ2tlM1FNNDdiQ2hPZ3VnaVpjYjIxeWduNkxxRzNKZnpsMzNqZFVYNWNYVHJjaXpxUlZIbGFpWTMtSk52a21qQTFaQ2pINjFfRzBibDFPNXFxa1JxWUdWanhfMVdoWDhJTlBQYW40YklSeWdjUlljTlRJVmV4dUZ2X0YyZDU1NTRyQ1U1MzFFdTlyNHJzNHV6T2xMZ3h4UkstOUw0Vmhhb2EzSVVNTzBab3YxWG1kX3RjeVpCSUc1a2RBMFBUS3NER01MbTVQUDgtdUY1TmJHN2pzMkZRMGI2SkNFaUtyRWJVclJ3bU9lcG5fbmV6X2N6NzJBa2x1Q2d4dXFFMk9nNUNTaUZKSDhzOUxjTkRiOUhSYmUwVWwzOERrQUFIclZ1NlRPQXBkZUtuamZlWjYtRV9rTC1TUUJGaFl3Y2IxV1NUcGYyS29aVw?oc=5)
 
 2026-09-10 <span class="news-indication-tag">感冒</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi2AJBVV95cUxQSVAzNTl5N1BoZ2tlM1FNNDdiQ2hPZ3VnaVpjYjIxeWduNkxxRzNKZnpsMzNqZFVYNWNYVHJjaXpxUlZIbGFpWTMtSk52a21qQTFaQ2pINjFfRzBibDFPNXFxa1JxWUdWanhfMVdoWDhJTlBQYW40YklSeWdjUlljTlRJVmV4dUZ2X0YyZDU1NTRyQ1U1MzFFdTlyNHJzNHV6T2xMZ3h4UkstOUw0Vmhhb2EzSVVNTzBab3YxWG1kX3RjeVpCSUc1a2RBMFBUS3NER01MbTVQUDgtdUY1TmJHN2pzMkZRMGI2SkNFaUtyRWJVclJ3bU9lcG5fbmV6X2N6NzJBa2x1Q2d4dXFFMk9nNUNTaUZKSDhzOUxjTkRiOUhSYmUwVWwzOERrQUFIclZ1NlRPQXBkZUtuamZlWjYtRV9rTC1TUUJGaFl3Y2IxV1NUcGYyS29aVw?oc=5)
+
+---
+
+### [「皮蛇」最怕後遺症？高危險群外用藥膏對神經痛完全無效！72 小時內就醫是關鍵](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxQUd6WVVkUXdMQmdESkJJWV9UQkFlNmtoQ0xuMGViVXkxNTRSbEhZaWN3MWl1RTc1a0RsbHd3VF9jcTVibGNZT2VYTQ?oc=5)
+
+2026-09-09 <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">神經痛</span>
+
+來源：[heho.com.tw](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxQUd6WVVkUXdMQmdESkJJWV9UQkFlNmtoQ0xuMGViVXkxNTRSbEhZaWN3MWl1RTc1a0RsbHd3VF9jcTVibGNZT2VYTQ?oc=5)
 
 ---
 
