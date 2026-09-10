@@ -1,8 +1,33 @@
 {
-  "last_updated": "2026-09-09T23:40:56.259488+00:00",
+  "last_updated": "2026-09-10T02:13:50.722808+00:00",
   "total_count": 50,
-  "matched_count": 15,
+  "matched_count": 14,
   "news": [
+    {
+      "id": "7400e544d3ce",
+      "title": "洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」",
+      "published": "2026-09-10T01:00:00+00:00",
+      "summary": "洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」&nbsp;&nbsp;健康醫療網",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxSWdSSWJkMUQ4V0ppbVpFX05lZ2lXVmtGZVdNLVFyZmEyS2x3cENNTUhYaXlyUGwyLWN0X3VKWm5KTnh5VkNSOW0wX3JNTWh0Q1pRcVhB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "3f64b48eede2",
       "title": "女性非自願單身者困孤獨低自尊 研究： 較常將戀愛失敗歸咎自己",
@@ -66,6 +91,46 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "a5740e008ac2",
+      "title": "「皮蛇」最怕後遺症？高危險群外用藥膏對神經痛完全無效！72 小時內就醫是關鍵",
+      "published": "2026-09-09T14:15:59+00:00",
+      "summary": "「皮蛇」最怕後遺症？高危險群外用藥膏對神經痛完全無效！72 小時內就醫是關鍵&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQSjZwLTZKMVp5d3BEeWYxQWZCOEJEXzVGbE5XTFFUOW9SX19wYUluZ1RUQjJBbTR3Y1p5UEVIWmFKYzMtZUtrUWRzd0FWR084d2VtUTlyMWFfUzBqbVN4MVFpRFBRdnoxb2VVTU1NSUtiN2ZwamRvY1RLU2ZsR09VQzRnN0xtY2NFS3UxTDRyWThFQUstcDlfaVRSUGdDdXMtMFdNc2VoT2pEQ3JNSk5kYzV0cE1MTXNlcWtfSTZFTDdHTjg4cWpURzRFVDJRYTdqR0dSYXlxanR1U2IxOHVvS2RmTGt2WXM5dTFKdDFWVmpBWUVwQmhRejZDUG85RldUVGxzWjlNV3hZR2trQkdsbDJCV2tKQVE5SDl5c2ZXcHgwdzllV2FVTGtQZ25JaFhDMFBLTTRITnpFbTFMVDlGSTdNc2tkNG9ZYmpYUVFCTW1uQWZZYW5vZDM5dno0aXhRUGplR18xQVR6SXJydkhHNmRQRmVDYVl0NlAwdDU5c3BxNzM1NGF3bE9sNmdab3pLZDZZNVhUX19fVklpQy1KNTRBLXd0aU1SRHJJNnNVYkd3dmc1MFU2ZE41WWs4SXk4ZVhFd2dkZU41dnB1WUxJ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "皮蛇",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "神經痛",
+          "keyword": "神經痛",
+          "related_drugs": [
+            {
+              "slug": "ibuprofen",
+              "name": "Ibuprofen"
+            },
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "1f43f9d297e0",
@@ -291,7 +356,7 @@
       "id": "a5682f65c89f",
       "title": "人妻長菜花被尪提告！喊沒外遇「女廁馬桶水濺到」醫吐真相",
       "published": "2026-09-09T10:10:54+00:00",
-      "summary": "人妻長菜花被尪提告！喊沒外遇「女廁馬桶水濺到」醫吐真相&nbsp;&nbsp;Yahoo新聞人妻長菜花被尪認定出軌提告 名醫：HPV檢查非感情測謊機、但感情散了就是散了&nbsp;&nbsp;Yahoo新聞人妻長菜花被尪提告！喊沒外遇「女廁馬桶水濺到」醫吐真相- 生活&nbsp;&nbsp;中時新聞網妻長「菜花」遭夫控外遇 醫師：HPV檢查不是感情測謊機&nbsp;&nbsp;壹蘋新聞網婚後突長菜花被尪疑出軌！婦喊「沒第三者」求助蘇怡寧 答案曝光 | Newtalk&nbsp;&nbsp;LINE TODAY",
+      "summary": "人妻長菜花被尪提告！喊沒外遇「女廁馬桶水濺到」醫吐真相&nbsp;&nbsp;Yahoo新聞人妻長菜花被尪認定出軌提告 名醫：HPV檢查非感情測謊機、但感情散了就是散了&nbsp;&nbsp;鏡週刊Mirror Media人妻突長菜花！喊冤沒偷吃 醫揭真相&nbsp;&nbsp;蕃新聞婚後突長菜花被尪疑出軌！婦喊「沒第三者」求助蘇怡寧 答案曝光 | Newtalk&nbsp;&nbsp;LINE TODAY妻長「菜花」遭夫控外遇 醫師：HPV檢查不是感情測謊機&nbsp;&nbsp;壹蘋新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -314,239 +379,30 @@
       "matched_keywords": []
     },
     {
-      "id": "3a4b72b69d56",
-      "title": "安徽HPV疫苗“免費+惠民”雙軌並行 守護青春健康",
-      "published": "2026-09-09T07:58:00+00:00",
-      "summary": "安徽HPV疫苗“免費+惠民”雙軌並行 守護青春健康&nbsp;&nbsp;人民网－安徽频道HPV感染牽動全家 頭頸癌、子宮頸癌患者家人染相同型別風險增 醫籲全家防護&nbsp;&nbsp;Taiwan NewsHPV第53型是什麼？感染會得癌症嗎？HPV型別差異、檢測與陽性處理一次看&nbsp;&nbsp;ELLE有固定性伴侶就不用打HPV疫苗？醫：反而要提早防&nbsp;&nbsp;Yahoo新聞HPV「4種型別」高危險 國健署：持續感染恐致癌&nbsp;&nbsp;health.ettoday.net",
+      "id": "81e5a8bfffd4",
+      "title": "HPV「4種型別」要注意！國健署：持續感染恐致癌",
+      "published": "2026-09-09T08:55:27+00:00",
+      "summary": "HPV「4種型別」要注意！國健署：持續感染恐致癌&nbsp;&nbsp;民視健康長照網前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "人民网－安徽频道",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fZFJPSTNvTU1pVjdoMFZhQldoRXp1ejVicDFZQVFvM1JJa1BveVFJYU5KaHNhMktKSVNsQ1dQZ3ZZTUxSV09rV0lFbzlqQzRsQjNYWHN2bDgyempzc1FnN0NPaHVXUzdqb2NaNHA5a0Y?oc=5"
+          "name": "民視健康長照網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1felJuMnVESFgzcl9mMUlVSXRKMDJvdVJmclBpUk9KSGVTeTNpVzMtT0NRMWd2bEZiYTFjZGdBaVZuV3hiaFJ5ZURlNXhoX1NxSFE0YUVBSFh6QkJiSldfNEhzTTQ?oc=5"
         }
       ],
-      "matched_keywords": [
+      "matched_keywords": []
+    },
+    {
+      "id": "e0c0156fcaf4",
+      "title": "攝護腺癌治療後疲倦、肌力下降怎麼辦？研究證實生活處方有助改善",
+      "published": "2026-09-09T08:08:26+00:00",
+      "summary": "攝護腺癌治療後疲倦、肌力下降怎麼辦？研究證實生活處方有助改善&nbsp;&nbsp;元氣網",
+      "sources": [
         {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "頭頸癌",
-          "keyword": "頭頸癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRUkdBOVYyWEtrQ2NudnJQWmktanFwYWMwUGwzemEycUJvV0JVaEdHQUZ4amZobnVWOEMxdFRUVWc3di1GaU0wdVFDYUk2YVhRa1htOGdPWjctTTdO0gFiQVVfeXFMT2c1Mk44cnIyQnE3NnZnb1NNSFhiQmtSWEJIOGpPSk1mdGpQUFNXNnE3UVBua2VIdmtHZUVPS25OQTZkZmRMcmpucm1wZTUtNTZNaURUam5mQTJtNDd1NTNmQlE?oc=5"
         }
-      ]
+      ],
+      "matched_keywords": []
     },
     {
       "id": "0070e1846a64",
@@ -610,14 +466,14 @@
       "matched_keywords": []
     },
     {
-      "id": "e8ed9df35ca3",
-      "title": "孕期服用乙醯胺酚 研究指恐影響女嬰子宮與卵巢發育",
-      "published": "2026-09-09T04:09:57+00:00",
-      "summary": "孕期服用乙醯胺酚 研究指恐影響女嬰子宮與卵巢發育&nbsp;&nbsp;民視新聞網",
+      "id": "9ee58b4bf1c7",
+      "title": "孕期服用乙醯胺酚 研究指恐影響女嬰子宮與卵巢發育 | 民視新聞網 - LINE TODAY",
+      "published": "2026-09-09T04:47:23+00:00",
+      "summary": "孕期服用乙醯胺酚 研究指恐影響女嬰子宮與卵巢發育 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wY25ZaWZoYUlQX2dIQlZGdWp5RDZPNndFYW50RXQ1U3BnZHg0emtRdWRuZnVPYlhBcWlCUFlsZzREZzlTV3lxS0c3Y1NVdmgwTkkxQktHNWNLckZPNWNFSg?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LZmY3emxrMTV5M1VxUlBMRWxQTzB1ZF9zaEczeXVROFVWUlc2M2djSmJQYjBGVmN5VVhrZkFHQkRxUTRocDNSbVB2Rl8yZUFxdElVbDl3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -672,46 +528,6 @@
       ]
     },
     {
-      "id": "5e5ec9a07f9a",
-      "title": "「皮蛇」最怕後遺症？高危險群外用藥膏對神經痛完全無效！72 小時內就醫是關鍵",
-      "published": "2026-09-09T02:15:59+00:00",
-      "summary": "「皮蛇」最怕後遺症？高危險群外用藥膏對神經痛完全無效！72 小時內就醫是關鍵&nbsp;&nbsp;Heho健康",
-      "sources": [
-        {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxQUd6WVVkUXdMQmdESkJJWV9UQkFlNmtoQ0xuMGViVXkxNTRSbEhZaWN3MWl1RTc1a0RsbHd3VF9jcTVibGNZT2VYTQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "皮蛇",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "神經痛",
-          "keyword": "神經痛",
-          "related_drugs": [
-            {
-              "slug": "ibuprofen",
-              "name": "Ibuprofen"
-            },
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "04e2e7a1b676",
       "title": "黑巧克力護心健腦 每週三份最剛好",
       "published": "2026-09-08T23:00:00+00:00",
@@ -725,13 +541,13 @@
       "matched_keywords": []
     },
     {
-      "id": "2db8cdbe571d",
+      "id": "20503c5999da",
       "title": "中秋過食 胃痛反酸 花膠海參鮑魚消化「煞星」 - 20260909 - 副刊",
       "published": "2026-09-08T20:30:00+00:00",
-      "summary": "中秋過食 胃痛反酸 花膠海參鮑魚消化「煞星」 - 20260909 - 副刊&nbsp;&nbsp;news.mingpao.com",
+      "summary": "中秋過食 胃痛反酸 花膠海參鮑魚消化「煞星」 - 20260909 - 副刊&nbsp;&nbsp;明報新聞網",
       "sources": [
         {
-          "name": "news.mingpao.com",
+          "name": "明報新聞網",
           "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNNmE4eGR6MVVTc3o1OE9DNkw4V0ZqSzNOZHVaTEY2YVMwWlprbjd3anVqQmNRc01mTTlTeEJnZTlKVEJVMi0zMS13SlJVUmt4cHBfdUVpdUZ1Szh0cW1MbTZBckY2VFRFS1h1RWxCZGtQVG9IYTY1STJqSlRrU2JOdkQ1aU9PVDB4eThhZnl3UFdIMzN6Y3hSNHNIcDBoQnRvYWRWaFd5R0tnblBWTXZYZHh6bFJhR2x1QV9HMGg5TnRRLXlvcERWQjlsdjdLZ25QUFZkVWVqdWxCaHRPS00wWU0zU0xEMnc3OWJMT2twSzB4ZEJpLWNiZEZ0OXYwS0t4VHdBSWJwclpBMGEtUmZFb2s5S2RYc09yNmhteGRadFQ1V1g4UXhXUTNlbHdjMXRlb3pZRDNaTmxkbVFKMmVIMzRwcllaTmRUU3lsMHd4R0thUlJZcWcyUVlTMlBuY2o2TEtiTFRfR2V2LXhUOVEyWmZGODBnajNEZjZkRTZOSnU4Zw?oc=5"
         }
       ],
@@ -918,13 +734,13 @@
       "matched_keywords": []
     },
     {
-      "id": "25efdd677cdc",
+      "id": "2af60ecb12cf",
       "title": "癌症開完刀為什麼還會復發？南韓團隊從脾臟下手，用細菌做出奈米平台（小鼠實驗）",
       "published": "2026-09-07T01:31:12+00:00",
-      "summary": "癌症開完刀為什麼還會復發？南韓團隊從脾臟下手，用細菌做出奈米平台（小鼠實驗）&nbsp;&nbsp;tomorrowsci.com",
+      "summary": "癌症開完刀為什麼還會復發？南韓團隊從脾臟下手，用細菌做出奈米平台（小鼠實驗）&nbsp;&nbsp;明日科學",
       "sources": [
         {
-          "name": "tomorrowsci.com",
+          "name": "明日科學",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTmY1UEhqTkJjY0FqY2VBLWN2TVRSUEo1aEhWcEhVRnMzb25mbUM0cVJtVUwzd0hhaGhjc09QYU1pWWs2WDFvT19zZFpUcDByZGhFMEhpa1dzcFNOWEJj?oc=5"
         }
       ],
@@ -1127,19 +943,6 @@
       ]
     },
     {
-      "id": "eb485bc80704",
-      "title": "不吃晚餐、狂喝瘦身茶都沒用？減肥鐵律只有一條！最有利的飲食法是它",
-      "published": "2026-09-07T01:16:50+00:00",
-      "summary": "不吃晚餐、狂喝瘦身茶都沒用？減肥鐵律只有一條！最有利的飲食法是它&nbsp;&nbsp;health.udn.com",
-      "sources": [
-        {
-          "name": "health.udn.com",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42bmNIZGNJdWxmR0tTZGk4VmJOQkFneXhHT0M3YnlSSHlxV1kzT2FoaFNfTnNNN2VORXNFRXZ6TTVUcDNVMTUzS2dpQmNEV29KZmpsOEU4QjU3WmNV0gFiQVVfeXFMUFBBaV9lSmsxdXBQNlQxRHhPWkJRamdzYW1GNmhjLVJSRk5lWlVxbzB6cHRsZmhFNUN1ZThSSG5vYTFuWW1QV0pBbXN2SjNLVGZnN1ZhemlKUDVMZE9oY0tLSUE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "a812b3ad4996",
       "title": "子宮內膜異位症可能歷時過久才會確診專家這麼說- 國際",
       "published": "2026-09-06T13:38:00+00:00",
@@ -1148,6 +951,19 @@
         {
           "name": "工商時報",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lVVpoRmltcTlSNFB4ZnZHS25DbW1TUHplNkJ6NTBDdXM5NHhaTXh5SEhFVGoxZkdLUE5FZnV4NS1BUXhPZE5mSEVOWlZhRF9pcGpHTjVCaU80WHRvNEhR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e332d57dbcb6",
+      "title": "畫畫、舞蹈、看展能抗老？這習慣效果竟媲美運動| 運動 | 健康 | 美術館",
+      "published": "2026-09-06T11:59:47+00:00",
+      "summary": "畫畫、舞蹈、看展能抗老？這習慣效果竟媲美運動| 運動 | 健康 | 美術館&nbsp;&nbsp;台灣大紀元",
+      "sources": [
+        {
+          "name": "台灣大紀元",
+          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPVnJueGRHSGdLTWhRUmVfcFVmZWhLajdIMk91bHJlWXZEV0dsRVFLWGNkODVXQUpueFBFTm82MmdiUVlfZlNCcXU2OG5RMnJqV3RPSW5ia1dROXRoOXQwdDlDMzg5NDBfOGhzQ1VWMHZjMXZhLXF6Zy1wME1SRzZ3aE4tXzZXOE1JVThuamFPLUpSdXMtZTQ4LUNST01mc1BTeXluTHlKMGV5WGxwdGVGMDR6OFlMOHlDbEdDaTJzWXRaUGg4eDNnUVVVSEJMakM5M1pabmZ5eF8yTUZTRVJ0c0tfRDFJdlFaX2REZnZ0S1pyWHdwVkp1dHlNTWVjRHBiallYNzg2SzJxekxVa2Y2M2VGR3hteTZlS0lySTdXbkVidjJsMThoYS14aWhJLVdhOU5hS1lSWHFXVVBid1FuSFA0MTJMeUdLLWMzWkdaS3JaUWc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1259,13 +1075,13 @@
       ]
     },
     {
-      "id": "36348209b7c1",
+      "id": "f999f9458308",
       "title": "四大人格特質 這類人最容易罹癌",
       "published": "2026-09-05T01:20:00+00:00",
-      "summary": "四大人格特質 這類人最容易罹癌&nbsp;&nbsp;東森新聞",
+      "summary": "四大人格特質 這類人最容易罹癌&nbsp;&nbsp;news.ebc.net.tw",
       "sources": [
         {
-          "name": "東森新聞",
+          "name": "news.ebc.net.tw",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBWG5FRWJXaWhNU3dhMWtNM0o2Vks4aDNOU200dFQ2cEE4eEpVV2hQYlh6Y2ZPd0I2NUhQSFlZcThjRWZTSUJjSklZZFNweXpxOXNDeQ?oc=5"
         }
       ],
@@ -1516,13 +1332,13 @@
       ]
     },
     {
-      "id": "1f78443dcbe6",
+      "id": "ea66aecd1c7c",
       "title": "菇類也能防癌？研究發現每天吃18克 癌症風險低45％",
       "published": "2026-09-04T07:00:04+00:00",
-      "summary": "菇類也能防癌？研究發現每天吃18克 癌症風險低45％&nbsp;&nbsp;台視新聞網",
+      "summary": "菇類也能防癌？研究發現每天吃18克 癌症風險低45％&nbsp;&nbsp;news.ttv.com.tw",
       "sources": [
         {
-          "name": "台視新聞網",
+          "name": "news.ttv.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5"
         }
       ],
@@ -1728,7 +1544,7 @@
       "id": "154102ec6879",
       "title": "腎病患者靠移植豬腎生活九個月，直到接受人類腎臟移植- 紐約時報中文網",
       "published": "2026-09-04T03:38:15+00:00",
-      "summary": "腎病患者靠移植豬腎生活九個月，直到接受人類腎臟移植- 紐約時報中文網&nbsp;&nbsp;纽约时报中文网全球首例！救命恩「豬」讓他9個月免洗腎、等到人腎移植獲重生&nbsp;&nbsp;康健雜誌豬腎移植創紀錄！患者體內運作271天 異種移植有望成器官荒解方&nbsp;&nbsp;三立新聞豬腎植人體｜撐285天破紀錄&nbsp;&nbsp;EJ Tech器官捐贈「豬腎」也能救命？1圖秒懂異種移植新科技&nbsp;&nbsp;東森新聞",
+      "summary": "腎病患者靠移植豬腎生活九個月，直到接受人類腎臟移植- 紐約時報中文網&nbsp;&nbsp;纽约时报中文网全球首例！救命恩「豬」讓他9個月免洗腎、等到人腎移植獲重生&nbsp;&nbsp;commonhealth.com.tw豬腎移植創紀錄！患者體內運作271天 異種移植有望成器官荒解方&nbsp;&nbsp;health.setn.com全球首例！豬腎“橋接”人腎方案獲驗證“器官再生第一股”真健康醫療(02697)卡位體外器官支持關鍵環節作者智通財經&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞豬腎植人體｜撐285天破紀錄&nbsp;&nbsp;EJ Tech",
       "sources": [
         {
           "name": "纽约时报中文网",
@@ -2060,68 +1876,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "bb04ed5cfe40",
-      "title": "乳癌｜法航空姐夜間飛行逾6千小時 患癌獲判「職業病」成全球首例",
-      "published": "2026-09-03T02:00:59+00:00",
-      "summary": "乳癌｜法航空姐夜間飛行逾6千小時 患癌獲判「職業病」成全球首例&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOMGFpVG1KS2o1TDZ0aVNBWUZpd3gxQWd3YnJoTXYzY0RxOXRZWXExYTZDVkYyY240UGl2dHB6V3NyMDg1RVNEV0tZOUc2MnZRREowdzktSVVlbUJSX3NCbDRpNXhqTDVoOUdhMFVEczNIZ3FrTXY5MkxrWG9yRXZsNmNnb0kxdDV6N1dpWmRtVzNUMHlqMTA4MWdyTkJpLUxXNlZpc1JRUVduX2VGM0M3MUFod3VJcnRoVW5weVdqNlJHLUVIS2phZEhKRC1ZMGtjOU1ZNzdmcXpweVZNd2NuN1BfOVVJRGFvNnExSXJZamI0NXNhVW5wVkJqRXl1Wkl5LWJrYkNELVdpWkoxcjYydTVRNzE0T0MtR2dlOG4zZGNNMFZxM3VLWlV0MnBUejNJS2lEWi15LTJzbFI3U3Vmd09CdHdIR0lfZ2ltNEpvOWlPLWRTVy05X2c5YU5BWi10RERaM2ZUNlo5cGFnSDY1RGhzVjhCcEg2VElxYVo4ZWNCZTVtbHh5UGdSSnRuQ1hhU3dVZ2l1cml4Nk5sOUF1OFF3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "062e086c7968",
-      "title": "骨鬆最強「鍛骨法」曝光！每天30分鐘，逆轉骨質疏鬆、刺激骨密度飆升",
-      "published": "2026-09-03T00:03:12+00:00",
-      "summary": "骨鬆最強「鍛骨法」曝光！每天30分鐘，逆轉骨質疏鬆、刺激骨密度飆升&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOSFFjbDRJX2ZYSnNlRzFLb2hGRk0teHl6ZmxyOEpLSGZVaDk0c25JT3o4ZzJURzVJcFpUR2F2bUN3dktCVVhnZHVRa0lCYlZqNHRKX3pILWdCMlRkMmQ0c1VHa1hSSk90S2JrYUhpRW5EUUZ0amFwbVp6UWduVUlhczlXcmJOM1NWR2lNdzlyajdreEc4T1V5S1QzY0w0ZU1yeWJTV1o3aGZLUENFVk9IczlBM2ZLbFo2REtaVWZxM3cybXlfb082b2MxZGNQUWpHOGVBWnZKVWE1Vkc0M0lCNS11SXAxVk15eVZZdVgyaUJxUm5qNzRXZkoxU0dZMVVVdWZ6aS1fMkp6VXJLUWNlWUZQYkhmaUxoNkFYRlV4THUyUGxWVllzc1pDOWhoOW9hVHB3WkVjUkttR0s1V080?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
