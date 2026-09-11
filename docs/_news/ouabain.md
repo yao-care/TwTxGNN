@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [空汙不只傷肺！詹長權揭PM2.5「傷心」真相：心肌梗塞、中風都可能有關 | 信傳媒 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PdHhrdWdPTDIwcUlTenY3eGVlRVEzbTI5dGtCNVl2RW0zMWVrN0JNYmtzZ242WUN1bWZnSEFhTXB1UHNDOUNoRWg1ZEdtU0NGN0lBLS1B?oc=5)
+### [空汙不只傷肺！詹長權揭PM2.5「傷心」真相：心肌梗塞、中風都可能有關](https://news.google.com/rss/articles/CBMihgJBVV95cUxQbk5tRmJwdWtWQWd4YjdYY2Nqc1R4TnFkRjU0VlI2c2p1ZXBSQW9LQmE4T25EQlFmWmFPd0JWRkUwaWppWmdwb0ZDcU9NRTY4b01NZVBKSzlWRGFKb1RJbzExVEJ6eFVnTE5kdFhoRy1ZQzdMU25aazF5U0hNN19ETW5DVTZ4Y0ZSRXhJQTgtUHNiVTkyT3R4aDFTTktnVWJJTjVqRWZMdEJfS0xIUXBnVVVRRVZSbFNYTlFJUTJNSDZfOTNtVjJMUmtVbUk1Y3RiTW9SNVlNSk1KTXVreWZIbFExb3BJWU9ScXhheHUwN3N1RkVRa1lnbXgzWVoydGR4bWIySUVR?oc=5)
 
 2026-09-08 <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">中風</span>
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PdHhrdWdPTDIwcUlTenY3eGVlRVEzbTI5dGtCNVl2RW0zMWVrN0JNYmtzZ242WUN1bWZnSEFhTXB1UHNDOUNoRWg1ZEdtU0NGN0lBLS1B?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMihgJBVV95cUxQbk5tRmJwdWtWQWd4YjdYY2Nqc1R4TnFkRjU0VlI2c2p1ZXBSQW9LQmE4T25EQlFmWmFPd0JWRkUwaWppWmdwb0ZDcU9NRTY4b01NZVBKSzlWRGFKb1RJbzExVEJ6eFVnTE5kdFhoRy1ZQzdMU25aazF5U0hNN19ETW5DVTZ4Y0ZSRXhJQTgtUHNiVTkyT3R4aDFTTktnVWJJTjVqRWZMdEJfS0xIUXBnVVVRRVZSbFNYTlFJUTJNSDZfOTNtVjJMUmtVbUk1Y3RiTW9SNVlNSk1KTXVreWZIbFExb3BJWU9ScXhheHUwN3N1RkVRa1lnbXgzWVoydGR4bWIySUVR?oc=5)
+
+---
+
+### [心臟衰竭｜24歲女四度遭誤診拖一年確診心臟衰竭住院3個月徵狀曝光常被當焦慮肥胖預後比患癌差- 東張+ - myTV SUPER](https://news.google.com/rss/articles/CBMi8ARBVV95cUxOVExON200bE5nOVN5empLOE0tQnlqYTJob2E1dlR3NDJBcUtSRjVZcHFEQW9CWExfRjNSalg5RmZLVkxBdjFvZWNtdjVmRnBHeFdvdWZUdmQ0YTcyTmFNeExxRkJrRF9DejNWMVM2MnlsbnNGWlNQTDF1VUpOajc2dU9ycGJBRndrWnNhTGhtU2F6Y0NPdVloZU5xS3VmZVd6MFR3c2J6ZWp5RGhKcGVQaGdodkQyNFhRTWx3SVpsdnNBWktGdFhSY0p1dFNrY3dJLXA2dmw1VDFKQWxXNVUzZmdqZURvaTF5dy1LbWJEZE9CVzlnVXd2SDJLcWdYMjRzalptUXFLTXVNY1ZhdW1Ed0FfYmViWTZUTXNMQUgzQzRFV0VlV0MyeTE1M2oxalotaFlVWjdaX3lUWmFkejJPOTJOQ3BTamI5VHVURjRXczdBc2dCRk9SZjVQZG5VWFNkdHQwR0ExRl9jQmc4NDFTT2tlaVI1eHZ4QUI0bFhCSmpPbWU3MjFwZGU3U3dsRktIazk5RXBwWGdmMDZLS0R1b2ZxeVlSRUx0Vi03TGo1S244X2RmUzlWb215eGFqRlRZUlVpWDYzYkRSdHRFMF9UUUZDVm1uTjk2MGtvS2ZrdkdMUjUzbFVBWk1iN2VzTG04TUZVaUNNTm9fR2RZM0JpYXRHd0NNdzcwVUo3Q2JiREJLejBfVHFoWGJyT0V1cDd6VGkyUmo0RW1UanBsNDhMR2tWTjZnRmh1NUhLUHJVNVp0WldVVExkTUVHaWVMRzJZem5UMVpsaDktQnZJQzg0X2ZWX0l2UXV3dmZzOEwyMVQ?oc=5)
+
+2026-09-08 <span class="news-indication-tag">心臟衰竭</span>
+
+來源：[myTV SUPER](https://news.google.com/rss/articles/CBMi8ARBVV95cUxOVExON200bE5nOVN5empLOE0tQnlqYTJob2E1dlR3NDJBcUtSRjVZcHFEQW9CWExfRjNSalg5RmZLVkxBdjFvZWNtdjVmRnBHeFdvdWZUdmQ0YTcyTmFNeExxRkJrRF9DejNWMVM2MnlsbnNGWlNQTDF1VUpOajc2dU9ycGJBRndrWnNhTGhtU2F6Y0NPdVloZU5xS3VmZVd6MFR3c2J6ZWp5RGhKcGVQaGdodkQyNFhRTWx3SVpsdnNBWktGdFhSY0p1dFNrY3dJLXA2dmw1VDFKQWxXNVUzZmdqZURvaTF5dy1LbWJEZE9CVzlnVXd2SDJLcWdYMjRzalptUXFLTXVNY1ZhdW1Ed0FfYmViWTZUTXNMQUgzQzRFV0VlV0MyeTE1M2oxalotaFlVWjdaX3lUWmFkejJPOTJOQ3BTamI5VHVURjRXczdBc2dCRk9SZjVQZG5VWFNkdHQwR0ExRl9jQmc4NDFTT2tlaVI1eHZ4QUI0bFhCSmpPbWU3MjFwZGU3U3dsRktIazk5RXBwWGdmMDZLS0R1b2ZxeVlSRUx0Vi03TGo1S244X2RmUzlWb215eGFqRlRZUlVpWDYzYkRSdHRFMF9UUUZDVm1uTjk2MGtvS2ZrdkdMUjUzbFVBWk1iN2VzTG04TUZVaUNNTm9fR2RZM0JpYXRHd0NNdzcwVUo3Q2JiREJLejBfVHFoWGJyT0V1cDd6VGkyUmo0RW1UanBsNDhMR2tWTjZnRmh1NUhLUHJVNVp0WldVVExkTUVHaWVMRzJZem5UMVpsaDktQnZJQzg0X2ZWX0l2UXV3dmZzOEwyMVQ?oc=5)
 
 ---
 

@@ -39,11 +39,11 @@ permalink: /news/common-cold/
 
 ---
 
-### [[外稿新聞]-成大醫院呼吸道疾病衛教週登場 氣喘、肺阻塞團隊攜手守護全齡呼吸健康](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xczl5Y3NpZXoyZmh6T0FBRWdzQWoyeGFaRFVJeFZjd1ZnSzZYQ2RMWDhaUVBHWXdCRWxIbEZ5ckhBMG5tOF8wTkhTWnVvSnE0OFZrVTVPOFBsTUp5Zmc?oc=5)
+### [醫藥／初期像感冒 急性血癌4警訊](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RLV85c056dmFWMjg0LWZyMWM3WFh2TGxvV0w3NUVDREdUTjc3VUNNSjZSRVJINGFfd2xrbkVNRG1ONmcxYjhCSjI2eHVBYVpwaTZZOC1VTTRTTEhvcGp5b0t30gFnQVVfeXFMTWJaQ2NpVmpWelNHZnU4ei12ajJPYW5RbWJGQlhpNEdqdWR6QWk4QlEtcTFvNXJWbF9OLUVSTGRJb3Y4NzNiTzlyel9QLTRLSVVQbWpib2M2Yk9MSEcyVG9pTWRUd1p4VQ?oc=5)
 
-2026-09-08
+2026-09-06
 
-來源：[atanews.net](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xczl5Y3NpZXoyZmh6T0FBRWdzQWoyeGFaRFVJeFZjd1ZnSzZYQ2RMWDhaUVBHWXdCRWxIbEZ5ckhBMG5tOF8wTkhTWnVvSnE0OFZrVTVPOFBsTUp5Zmc?oc=5)
+來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RLV85c056dmFWMjg0LWZyMWM3WFh2TGxvV0w3NUVDREdUTjc3VUNNSjZSRVJINGFfd2xrbkVNRG1ONmcxYjhCSjI2eHVBYVpwaTZZOC1VTTRTTEhvcGp5b0t30gFnQVVfeXFMTWJaQ2NpVmpWelNHZnU4ei12ajJPYW5RbWJGQlhpNEdqdWR6QWk4QlEtcTFvNXJWbF9OLUVSTGRJb3Y4NzNiTzlyel9QLTRLSVVQbWpib2M2Yk9MSEcyVG9pTWRUd1p4VQ?oc=5)
 
 ---
 

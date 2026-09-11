@@ -14,7 +14,7 @@ permalink: /news/atezolizumab/
 ---
 
 <p class="key-answer" data-question="Atezolizumab 有什麼相關新聞？">
-<strong>Atezolizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Atezolizumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/atezolizumab/
 <p><a href="{{ '/drugs/atezolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
 
 ### [抗癌戰士︱YouTuber曉欣戰勝14cm卵巢腫瘤脫假髮曬「頭髮生長報告」 Skinhead 撞樣《怪奇物語》Eleven](https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tcmFhNzFqRjBxbjR4UHQ3WDBjS21Tb0RSYlB2R3FBMjJRUUYtWk1pUmhiYUstVVlPY0QxbjAyQnNpM3NwdEJlaDdaQ3VQNnU3SHc?oc=5)
 
@@ -59,11 +59,19 @@ permalink: /news/atezolizumab/
 
 ---
 
-### [癌症開完刀為什麼還會復發？南韓團隊從脾臟下手，用細菌做出奈米平台（小鼠實驗）](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTmY1UEhqTkJjY0FqY2VBLWN2TVRSUEo1aEhWcEhVRnMzb25mbUM0cVJtVUwzd0hhaGhjc09QYU1pWWs2WDFvT19zZFpUcDByZGhFMEhpa1dzcFNOWEJj?oc=5)
+### [【密碼解鎖】第四期癌症治癒新藥有望！《Newsweek》最新號深入探討個人化精準醫療](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKaGVLanYzVmFYdTRsZkdob2x0RnA2aWROcGNVaUp1WlZ3OVk4Y2dzVEtMeGpaajRERHQ2MjBBM2dVMm5sVzhlNmhnSElYRHhFN0RlNy0ya2dqbTllYzhGdkJMcDJOczFHc0QyVENjR3FBRFp0cjJNejJ3?oc=5)
 
-2026-09-07 <span class="news-indication-tag">癌症</span>
+2026-09-08 <span class="news-indication-tag">癌症</span>
 
-來源：[明日科學](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTmY1UEhqTkJjY0FqY2VBLWN2TVRSUEo1aEhWcEhVRnMzb25mbUM0cVJtVUwzd0hhaGhjc09QYU1pWWs2WDFvT19zZFpUcDByZGhFMEhpa1dzcFNOWEJj?oc=5)
+來源：[webook.com.tw](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKaGVLanYzVmFYdTRsZkdob2x0RnA2aWROcGNVaUp1WlZ3OVk4Y2dzVEtMeGpaajRERHQ2MjBBM2dVMm5sVzhlNmhnSElYRHhFN0RlNy0ya2dqbTllYzhGdkJMcDJOczFHc0QyVENjR3FBRFp0cjJNejJ3?oc=5)
+
+---
+
+### [癌末男戒糖、加工食品 腫瘤縮小](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UV2xVQmUtek04eVJyVXJjRER1TTdoN3NyVEhqbkFQbld5eDdLZXNEY1R2RXBGT3Zfb1ptUDhJdktRU19xY2ZfRnR6ZzZHWFp5UndMYkFyLUtfY0FlcmdkM0ZR0gFnQVVfeXFMUEtYOFlxc1RyWDFlNndmbVBfQ3lrazRGRGlnOW0xZ0FVWTN5akU4bW5Yd0RMZlM1aEN3UWtqVVhJVG10MFhCYXZBVXlvWTllbjAwYkgtQnFaWk9faGNNekRuYlE5VXd5WQ?oc=5)
+
+2026-09-08 <span class="news-indication-tag">腫瘤</span>
+
+來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UV2xVQmUtek04eVJyVXJjRER1TTdoN3NyVEhqbkFQbld5eDdLZXNEY1R2RXBGT3Zfb1ptUDhJdktRU19xY2ZfRnR6ZzZHWFp5UndMYkFyLUtfY0FlcmdkM0ZR0gFnQVVfeXFMUEtYOFlxc1RyWDFlNndmbVBfQ3lrazRGRGlnOW0xZ0FVWTN5akU4bW5Yd0RMZlM1aEN3UWtqVVhJVG10MFhCYXZBVXlvWTllbjAwYkgtQnFaWk9faGNNekRuYlE5VXd5WQ?oc=5)
 
 ---
 
@@ -75,11 +83,19 @@ permalink: /news/atezolizumab/
 
 ---
 
-### [菇類也能防癌？研究發現每天吃18克 癌症風險低45％](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
+### [上夜班需要補褪黑激素嗎？ 長期恐增罹癌症風險！ 醫：靠白天補眠也難逆轉| 有肌勵](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tbTVNbm9qWFVOOVBnZlc0R3hNa28yd2hheC1keGVXSEZyQWJfNXhFMENESFVwU1lLVWd1aGlaZllWZDRwWGpmODd3c2VOMTdJNWxOUXlmQWdjY0Zz?oc=5)
 
 2026-09-04 <span class="news-indication-tag">癌症</span>
 
-來源：[台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUm0xcTJucnFCRmVvY3dDaXY1U0xXQXdiZEhjdVFJbk5kV3NJR2paQXZfblZnNi1vanA0UzduNUtra25ldjJSSlN3N2MtZEFmSU94VVRBdw?oc=5)
+來源：[woman.udn.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tbTVNbm9qWFVOOVBnZlc0R3hNa28yd2hheC1keGVXSEZyQWJfNXhFMENESFVwU1lLVWd1aGlaZllWZDRwWGpmODd3c2VOMTdJNWxOUXlmQWdjY0Zz?oc=5)
+
+---
+
+### [菇類也能防癌？研究發現每天吃18克，癌症風險低45％](https://news.google.com/rss/articles/CBMivwJBVV95cUxNNFlpT09FUldXbU80Wk1MR0ZnODgwWFBubFhQZ0hSdTNWNW5uSHVrWkpfQWNJVWVDSnNudFZ6OWY0QklxUXFuaGlxR01ER2ZfZnBrbEJQY2dndE9CYzNkckVUY3JqQk1PRXFtenJ1eGNXN1ltNnpTb3doSVZRanJfekd3bWwtekQ2Wm13NFBaSFU4eUd5QnR1bVJGTWhqM2NELUdOU1ZJZVN0dlh4ZVZGTnVsNDZha3FHdUN6NGVzVnhWR095Tmh3LUlnX2E3RU84QVAyaE9KNm5SdmRCbWxFdmRJSU1vRjA5VzhRVEt1X0RDWnFtZXFiS1UzSzgtTzE0RkN6T2ZTVnREVHpLYnFwTkNTUjBQSmRmS1lBU2h3RGhtZlltNXBSYjJMTzRUaC02QU0wVUNiRm9ibFhLbzdF?oc=5)
+
+2026-09-04 <span class="news-indication-tag">癌症</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMivwJBVV95cUxNNFlpT09FUldXbU80Wk1MR0ZnODgwWFBubFhQZ0hSdTNWNW5uSHVrWkpfQWNJVWVDSnNudFZ6OWY0QklxUXFuaGlxR01ER2ZfZnBrbEJQY2dndE9CYzNkckVUY3JqQk1PRXFtenJ1eGNXN1ltNnpTb3doSVZRanJfekd3bWwtekQ2Wm13NFBaSFU4eUd5QnR1bVJGTWhqM2NELUdOU1ZJZVN0dlh4ZVZGTnVsNDZha3FHdUN6NGVzVnhWR095Tmh3LUlnX2E3RU84QVAyaE9KNm5SdmRCbWxFdmRJSU1vRjA5VzhRVEt1X0RDWnFtZXFiS1UzSzgtTzE0RkN6T2ZTVnREVHpLYnFwTkNTUjBQSmRmS1lBU2h3RGhtZlltNXBSYjJMTzRUaC02QU0wVUNiRm9ibFhLbzdF?oc=5)
 
 ---
 
