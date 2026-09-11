@@ -14,7 +14,7 @@ permalink: /news/tinidazole/
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,45 @@ permalink: /news/tinidazole/
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
 
-### [抗癌戰士︱YouTuber曉欣戰勝14cm卵巢腫瘤脫假髮曬「頭髮生長報告」 Skinhead 撞樣《怪奇物語》Eleven](https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tcmFhNzFqRjBxbjR4UHQ3WDBjS21Tb0RSYlB2R3FBMjJRUUYtWk1pUmhiYUstVVlPY0QxbjAyQnNpM3NwdEJlaDdaQ3VQNnU3SHc?oc=5)
+### [滿市兩位醫生參與治療癌症疫苗研究-华侨网](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Qelg0blZHRzBEYjNOcHZNUFJoN0xQdDdjTllqaE9WNHJna3ZIQ25aa2pEQ3F2VE94M3E4U040ZHluWVF2OVJZR3EwUFo1V3hCYWFPUU16V3o?oc=5)
+
+2026-09-11 <span class="news-indication-tag">癌症</span>
+
+來源：[chinesepress.com](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Qelg0blZHRzBEYjNOcHZNUFJoN0xQdDdjTllqaE9WNHJna3ZIQ25aa2pEQ3F2VE94M3E4U040ZHluWVF2OVJZR3EwUFo1V3hCYWFPUU16V3o?oc=5)
+
+---
+
+### [抗癌戰士︱YouTuber曉欣戰勝14cm卵巢腫瘤脫假髮曬「頭髮生長報告」 Skinhead 撞樣《怪奇物語》Eleven](https://news.google.com/rss/articles/CBMikARBVV95cUxPTW1aNnhUblZoXzg0aEZrcHRKaUR4am9rX2VCcVc5RFNsamVpVXlNei1VREF2MEtiNXFCWU5zYzg3bHpOZWJHa1pfbWUwUmloNFZlUFpwWWJDZjFGempLOGtPQmh3b0FPZFpfZHozV0kwYWRaMEVmMDZoeW5sckh1Qjkwb3Fpbkp6WERvekRWZkhTbUpTbi1JRTJSb1Z6VG1CZGw2dEJ4eTVJMmNSS0l0SENsSTRCZDc3cjRDc1hZNjVaQmFCazM1UmVObWwtUjhKeWZhcjZtYVJ1UHE5cG9WOEVaMVlGeGhEbDB6S081R2xHdFBWTk5pLTR2YXpHdVAyNkVjaW0yQTVJaU55VTBBd1N6anZVdkVESTRVQ3lKY21qYV9zZFltMGRjdFE4dm40ZFczU1BSOXYxSjR2WGhXQzhFUkhfRk9xeUlEaVRzblNRdUxWVm44dktiV0tEd0tDVS1Ua0R1ZzJCZGExVkhzVGdOaXNlekJsNEF3QUdOSGxHb1Jxd19zSjhqcnd6MWNoQWd0T1hSTnVHVWpVZEZGSFZYb0NOUzNMR1VVXzJOMlZrcGlMTENYaHB2NGlNWUxacGk3OHYzekx3MGEwMnJieWhyS0JnSWVmSmZ3UGtLb25BUDZ3RjV6RWVkSy1GQWNOdmZxWXhVM1dkN1N0WHhkMWs4QWt3V2paWmZ5OUl2VWs?oc=5)
 
 2026-09-10 <span class="news-indication-tag">腫瘤</span>
 
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tcmFhNzFqRjBxbjR4UHQ3WDBjS21Tb0RSYlB2R3FBMjJRUUYtWk1pUmhiYUstVVlPY0QxbjAyQnNpM3NwdEJlaDdaQ3VQNnU3SHc?oc=5)
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMikARBVV95cUxPTW1aNnhUblZoXzg0aEZrcHRKaUR4am9rX2VCcVc5RFNsamVpVXlNei1VREF2MEtiNXFCWU5zYzg3bHpOZWJHa1pfbWUwUmloNFZlUFpwWWJDZjFGempLOGtPQmh3b0FPZFpfZHozV0kwYWRaMEVmMDZoeW5sckh1Qjkwb3Fpbkp6WERvekRWZkhTbUpTbi1JRTJSb1Z6VG1CZGw2dEJ4eTVJMmNSS0l0SENsSTRCZDc3cjRDc1hZNjVaQmFCazM1UmVObWwtUjhKeWZhcjZtYVJ1UHE5cG9WOEVaMVlGeGhEbDB6S081R2xHdFBWTk5pLTR2YXpHdVAyNkVjaW0yQTVJaU55VTBBd1N6anZVdkVESTRVQ3lKY21qYV9zZFltMGRjdFE4dm40ZFczU1BSOXYxSjR2WGhXQzhFUkhfRk9xeUlEaVRzblNRdUxWVm44dktiV0tEd0tDVS1Ua0R1ZzJCZGExVkhzVGdOaXNlekJsNEF3QUdOSGxHb1Jxd19zSjhqcnd6MWNoQWd0T1hSTnVHVWpVZEZGSFZYb0NOUzNMR1VVXzJOMlZrcGlMTENYaHB2NGlNWUxacGk3OHYzekx3MGEwMnJieWhyS0JnSWVmSmZ3UGtLb25BUDZ3RjV6RWVkSy1GQWNOdmZxWXhVM1dkN1N0WHhkMWs4QWt3V2paWmZ5OUl2VWs?oc=5)
 
 ---
 
-### [擔心癌症找上身？營養師力推5款抗癌蔬菜 輪流吃搭建身體天然防護罩](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZNURWNzJveVN2NExuNHZRRldnMnBJN054Z2tZNVYxY3dSQi1tUlFNUEV1cmtlZzFYWVVJMHNzYnYyNVJMS213VjBaMnFLYk9abEQyZ3c2QU16Q1lZY0J5eWtHdHJsc0x4ZFhXMw?oc=5)
+### [【密碼解鎖】第四期癌症治癒新藥有望！《Newsweek》最新號深入探討個人化精準醫療](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKaGVLanYzVmFYdTRsZkdob2x0RnA2aWROcGNVaUp1WlZ3OVk4Y2dzVEtMeGpaajRERHQ2MjBBM2dVMm5sVzhlNmhnSElYRHhFN0RlNy0ya2dqbTllYzhGdkJMcDJOczFHc0QyVENjR3FBRFp0cjJNejJ3?oc=5)
 
-2026-09-07 <span class="news-indication-tag">癌症</span>
+2026-09-08 <span class="news-indication-tag">癌症</span>
 
-來源：[觸mii](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZNURWNzJveVN2NExuNHZRRldnMnBJN054Z2tZNVYxY3dSQi1tUlFNUEV1cmtlZzFYWVVJMHNzYnYyNVJMS213VjBaMnFLYk9abEQyZ3c2QU16Q1lZY0J5eWtHdHJsc0x4ZFhXMw?oc=5)
+來源：[webook.com.tw](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKaGVLanYzVmFYdTRsZkdob2x0RnA2aWROcGNVaUp1WlZ3OVk4Y2dzVEtMeGpaajRERHQ2MjBBM2dVMm5sVzhlNmhnSElYRHhFN0RlNy0ya2dqbTllYzhGdkJMcDJOczFHc0QyVENjR3FBRFp0cjJNejJ3?oc=5)
 
 ---
 
-### [乳癌竟能利用免疫細胞招來神經，幫助腫瘤生長 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oS1VuZW9pTUVqVGJQY1hrSnhXa29JNnlOR2o4dE1CYTZOc2pmTHYwSDgtdjBuNWFDUHhiR3JqRm5uN2M4bUNPalhYMy1LVUIxWnI1STVB?oc=5)
+### [癌末男戒糖、加工食品 腫瘤縮小](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UV2xVQmUtek04eVJyVXJjRER1TTdoN3NyVEhqbkFQbld5eDdLZXNEY1R2RXBGT3Zfb1ptUDhJdktRU19xY2ZfRnR6ZzZHWFp5UndMYkFyLUtfY0FlcmdkM0ZR0gFnQVVfeXFMUEtYOFlxc1RyWDFlNndmbVBfQ3lrazRGRGlnOW0xZ0FVWTN5akU4bW5Yd0RMZlM1aEN3UWtqVVhJVG10MFhCYXZBVXlvWTllbjAwYkgtQnFaWk9faGNNekRuYlE5VXd5WQ?oc=5)
 
-2026-09-04 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span>
+2026-09-08 <span class="news-indication-tag">腫瘤</span>
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oS1VuZW9pTUVqVGJQY1hrSnhXa29JNnlOR2o4dE1CYTZOc2pmTHYwSDgtdjBuNWFDUHhiR3JqRm5uN2M4bUNPalhYMy1LVUIxWnI1STVB?oc=5)
+來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UV2xVQmUtek04eVJyVXJjRER1TTdoN3NyVEhqbkFQbld5eDdLZXNEY1R2RXBGT3Zfb1ptUDhJdktRU19xY2ZfRnR6ZzZHWFp5UndMYkFyLUtfY0FlcmdkM0ZR0gFnQVVfeXFMUEtYOFlxc1RyWDFlNndmbVBfQ3lrazRGRGlnOW0xZ0FVWTN5akU4bW5Yd0RMZlM1aEN3UWtqVVhJVG10MFhCYXZBVXlvWTllbjAwYkgtQnFaWk9faGNNekRuYlE5VXd5WQ?oc=5)
+
+---
+
+### [更年期關節卡卡 中醫師：痛也要動](https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zVkRYUjllZk5waHM4TmVzcFVrbjIySDlQVlJiQlBvUF9hZUlGMkl6OEJkcERjVmQzYjBVeEVKQmc3UzJLTW1DblpzWDJHRmctX215aXF0YVVSN3FEZFRTVVZ30gFnQVVfeXFMUGV3SnUwcEVGQk8xOHRyWmtWOUlzMFdtakUzYVUwX3pXeG55UHJLS01TNFlGV3RJaEpxa0lmNjFreUpWU210YnNLWmNyVTNGRlhwbDVOc1cyNmJveFpIcmNGYnRHTkRFTQ?oc=5)
+
+2026-09-05 <span class="news-indication-tag">更年期</span>
+
+來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zVkRYUjllZk5waHM4TmVzcFVrbjIySDlQVlJiQlBvUF9hZUlGMkl6OEJkcERjVmQzYjBVeEVKQmc3UzJLTW1DblpzWDJHRmctX215aXF0YVVSN3FEZFRTVVZ30gFnQVVfeXFMUGV3SnUwcEVGQk8xOHRyWmtWOUlzMFdtakUzYVUwX3pXeG55UHJLS01TNFlGV3RJaEpxa0lmNjFreUpWU210YnNLWmNyVTNGRlhwbDVOc1cyNmJveFpIcmNGYnRHTkRFTQ?oc=5)
 
 ---
 
