@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-09-11T21:26:51.001571+00:00",
+  "fetched_at": "2026-09-11T23:42:17.444486+00:00",
   "count": 49,
   "news": [
     {
@@ -12,18 +12,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNZjh2WUFnMVVDN3hNZkVIY08xdzJkZ0R2Qlo4LUZLdy1reGlKWWhlUnQ4eW5QSzE5U0ktckU5aTN3anlfeHoxcUhVREdvT1VqT1ZfVDBEUFBkRnB4ZnNZOFpFdzdoVnE4eTI1NGRfX2wySEZ0TmZmOHBOUTNmSU4yalI4TGFIa283R0dzLUt1eDZDbG9OZjFCT2owd3F0N3FUQV83VFNCczJwU2FzRVNoZTNwNVV0bmZIU2IwQk1hVm80bkN0c0xEOVpxcFV5cXBLUWR5SnlISmZwY3dJdHU3cGxNeThOY3NBY2d3UVZUY2RHVjZldm1vbXoxc2V5M25qVXQtNlFjTC1UeThMZFcybHRfV3ZJOTFvSjNtUnBtUl9HRVU3LUI0RzBWVUhUNWw4c2l5SlVPQWRfV2tlYnNBNVQxU1cxZGM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "789ab8437f18",
-      "title": "50歲後不只要看體重！腹部肥胖又缺維生素D 研究：死亡風險高123％ - 食力 foodNEXT",
-      "published": "2026-09-11T14:01:51+00:00",
-      "summary": "50歲後不只要看體重！腹部肥胖又缺維生素D 研究：死亡風險高123％&nbsp;&nbsp;食力 foodNEXT",
-      "sources": [
-        {
-          "name": "食力 foodNEXT",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5RlVRdTBwcVdZZ3dHcDVqUEpfMnVNNkJ2SUVZUm1DOHJBaVFvWGtOZTBKdXRtdk1sLUc0ek9FVUdPcV9HdTZ5ZXV4ZGRVSlY2M0VzQll0bWtHbEdRQ2VOM2tZWFk?oc=5"
         }
       ]
     },
@@ -43,11 +31,23 @@
       "id": "88e10454f791",
       "title": "歐洲高溫助長蚊蟲傳播 荷蘭西尼羅病毒釀3死18染疫 | 民視新聞網 - LINE TODAY",
       "published": "2026-09-10T11:55:47+00:00",
-      "summary": "歐洲高溫助長蚊蟲傳播 荷蘭西尼羅病毒釀3死18染疫 | 民視新聞網&nbsp;&nbsp;LINE TODAY荷蘭通報3例西尼羅病毒死亡病例 當前暫無獲批疫苗、特效藥&nbsp;&nbsp;香港商报歐洲西尼羅病毒蔓延 北馬其頓累計8死確診達58例 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
+      "summary": "歐洲高溫助長蚊蟲傳播 荷蘭西尼羅病毒釀3死18染疫 | 民視新聞網&nbsp;&nbsp;LINE TODAY荷蘭通報3例西尼羅病毒死亡病例 當前暫無獲批疫苗、特效藥&nbsp;&nbsp;香港商报本土西尼羅病毒感染病例增至18宗 3人死亡&nbsp;&nbsp;on.cc東網荷蘭已有3人因感染西尼羅病毒死亡- 國際&nbsp;&nbsp;香港文匯報歐洲西尼羅病毒蔓延 北馬其頓累計8死確診達58例 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FdkREekx3ZlNmVHlZc2gzdTFtVGk2Y0JocjluaW1qNHF1cEp4aXZwcG9OWl92N3B1OHRjLW5Hc0NTcnRRcG9UTjVZbHdGQ042aFJzNGxR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "789ab8437f18",
+      "title": "50歲後不只要看體重！腹部肥胖又缺維生素D 研究：死亡風險高123％ - 食力 foodNEXT",
+      "published": "2026-09-11T14:01:51+00:00",
+      "summary": "50歲後不只要看體重！腹部肥胖又缺維生素D 研究：死亡風險高123％&nbsp;&nbsp;食力 foodNEXT",
+      "sources": [
+        {
+          "name": "食力 foodNEXT",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5RlVRdTBwcVdZZ3dHcDVqUEpfMnVNNkJ2SUVZUm1DOHJBaVFvWGtOZTBKdXRtdk1sLUc0ek9FVUdPcV9HdTZ5ZXV4ZGRVSlY2M0VzQll0bWtHbEdRQ2VOM2tZWFk?oc=5"
         }
       ]
     },
@@ -64,18 +64,6 @@
       ]
     },
     {
-      "id": "9689ad203f18",
-      "title": "暑假結束蚊蟲仍活躍！剛開學家長挑選防蚊產品先看三件事 | 時尚生活 | 商情 - 經濟日報",
-      "published": "2026-09-11T08:00:54+00:00",
-      "summary": "暑假結束蚊蟲仍活躍！剛開學家長挑選防蚊產品先看三件事 | 時尚生活 | 商情&nbsp;&nbsp;經濟日報",
-      "sources": [
-        {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96Zy1UN2FvOC1GcHhwc2c4UGpiQl84akk4bHB3QUlXcVN2ai0wTkRscFM3MWJEY0VzZGh4TlNCM3lrY0ducGxYYTRqMkh5OXNGOC1kSkNUTDNqRXZpTzY4Y2lCRHZzOTl6d2Y1VGpiaDU3ZkU1dGJKSl8wMUU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f32d9191dffc",
       "title": "擔心癌症找上身？營養師力推5款抗癌蔬菜 輪流吃搭建身體天然防護罩 - 觸mii",
       "published": "2026-09-07T06:09:34+00:00",
@@ -84,6 +72,18 @@
         {
           "name": "觸mii",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZNURWNzJveVN2NExuNHZRRldnMnBJN054Z2tZNVYxY3dSQi1tUlFNUEV1cmtlZzFYWVVJMHNzYnYyNVJMS213VjBaMnFLYk9abEQyZ3c2QU16Q1lZY0J5eWtHdHJsc0x4ZFhXMw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9689ad203f18",
+      "title": "暑假結束蚊蟲仍活躍！剛開學家長挑選防蚊產品先看三件事 | 時尚生活 | 商情 - 經濟日報",
+      "published": "2026-09-11T08:00:54+00:00",
+      "summary": "暑假結束蚊蟲仍活躍！剛開學家長挑選防蚊產品先看三件事 | 時尚生活 | 商情&nbsp;&nbsp;經濟日報",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96Zy1UN2FvOC1GcHhwc2c4UGpiQl84akk4bHB3QUlXcVN2ai0wTkRscFM3MWJEY0VzZGh4TlNCM3lrY0ducGxYYTRqMkh5OXNGOC1kSkNUTDNqRXZpTzY4Y2lCRHZzOTl6d2Y1VGpiaDU3ZkU1dGJKSl8wMUU?oc=5"
         }
       ]
     },
@@ -100,18 +100,6 @@
       ]
     },
     {
-      "id": "54e17c47cd2e",
-      "title": "科學家發現大腦深處「止痛煞車」，有望擺脫傳統藥物為精準醫學鋪路 - TechNews 科技新報",
-      "published": "2026-09-11T00:05:56+00:00",
-      "summary": "科學家發現大腦深處「止痛煞車」，有望擺脫傳統藥物為精準醫學鋪路&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFVlplbGhDa05iVmE0SUhSZGkwUEtBWXE2QlFiUHV0YjUwOEJHa2MzWk95cWNuVXphcWpuYlY2OTZ4RE1qSTljUWhMdWdmZW15YTlwLWp6TkdvQ1hDN2RUVHBqS2VycWNxUFVmTVVycjk2Zw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "db7298267e42",
       "title": "腎臟不好照鏡子有端倪？5種臉部變化恐是警訊 眼皮浮腫、面色暗沉都上榜 - 元氣網",
       "published": "2026-09-11T03:33:47+00:00",
@@ -120,6 +108,18 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrRVVmSHBSWUQya3l1YVVabG00YUZtM09tc1lXWE1lT3NLN3pNdHRPVTZQRjJtbTMtX3luMWtPVkYyaE9ZYWVldkhlUHVZTnV0eUM1UjJPcE5fRmtRZnEzY1lB0gFiQVVfeXFMUGtFVWZIcFJZRDJreXVhVVpsbTRhRm0zT21zWVdYTWVPc0s3ek10dE9VNlBGMm1tMy1feW4xa09WRjJoT1lhZWV2SGVQdVlOdXR5QzVSMk9wTl9Ga1FmcTNjWUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2cab42878c3e",
+      "title": "科學家發現大腦深處「止痛煞車」，有望擺脫傳統藥物為精準醫學鋪路 | 科技新報 - LINE TODAY",
+      "published": "2026-09-11T08:20:32+00:00",
+      "summary": "科學家發現大腦深處「止痛煞車」，有望擺脫傳統藥物為精準醫學鋪路 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KWmlPTk1JaDFUUTE5ZVA0dXduNjI4NFdock5aNUl3MXM3VzdDLUJUSGhBTGVHeVltQjdabjk4NW9BdlZXQ1V6VS00d1JHaUV2ajdOZDZ3?oc=5"
         }
       ]
     },
@@ -196,25 +196,25 @@
       ]
     },
     {
-      "id": "7400e544d3ce",
-      "title": "洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」 - 健康醫療網",
-      "published": "2026-09-10T01:00:00+00:00",
-      "summary": "洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」&nbsp;&nbsp;健康醫療網",
+      "id": "dfcf6dd32ea0",
+      "title": "洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」 - 民視新聞網",
+      "published": "2026-09-10T05:00:00+00:00",
+      "summary": "洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxSWdSSWJkMUQ4V0ppbVpFX05lZ2lXVmtGZVdNLVFyZmEyS2x3cENNTUhYaXlyUGwyLWN0X3VKWm5KTnh5VkNSOW0wX3JNTWh0Q1pRcVhB?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00X3ZCeFJoNmJFRmZvMHlJNUp0YkhxWnpoY0NMQndHRVMxNkpFRlNUZmZPOWFZU19KbnZsNjZwTmczME1PeUxLRFFhU1h5OFNQbXJDLWdRTnhVVEw1VFJiRA?oc=5"
         }
       ]
     },
     {
-      "id": "6b34c76befcd",
-      "title": "59歲女星腸阻塞入院驚患三期大腸癌！悔喊忽視體檢：曾以為我很健康 - ufood.com.hk",
+      "id": "21a0da611979",
+      "title": "59歲女星腸阻塞入院驚患三期大腸癌！悔喊忽視體檢：曾以為我很健康 - U Food",
       "published": "2026-09-10T10:08:34+00:00",
-      "summary": "59歲女星腸阻塞入院驚患三期大腸癌！悔喊忽視體檢：曾以為我很健康&nbsp;&nbsp;ufood.com.hk",
+      "summary": "59歲女星腸阻塞入院驚患三期大腸癌！悔喊忽視體檢：曾以為我很健康&nbsp;&nbsp;U Food",
       "sources": [
         {
-          "name": "ufood.com.hk",
+          "name": "U Food",
           "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOUjNNME03cTBCcHQtU2doa3VhWU1nOHdTencwU3NGVkFnSWs5R0ZMTlh4b0JOT1BKcS1LaHdhN2ZtNmU5RnEtSHhnNHl1SVFGVE1jMEFGSEpaWFNMNngxWnczYkVGOEVCNFp4WVFManBsYUZJWnktSXJnYVFfdVVaS0pwbHFxUElMTG9hOG1JNHhnWGxPbEF1S1RjZ2xPQkZwd2pkVHhaaHlKdUNUcEJiLW1TVVJreDVwOXduLVpaNGVXSm5VU1BMdUcwRWFwS2R0UnJ6c0RqQ1h4YU5iQkxDZUdhdW9qeEFic3lxNGp1QnF6NTlUZGF6ekI1SUpPaXY4OW9uY1RGSDNqX0JOWjR3ZXAxVllLbFA3NW1WRTIwOXdaUTRQeTdXcFJLeWRnWGRPVUREeDVYT0NZclFfUEhhUHFlbmpJUHo0Qno1dG5Yem1mbTctTS1SN0ZTZFZpU3Q4dFJ2SGtHRUFJaXVlYzN2R2VpazlsMlNMMGRoVGQteHl2MElXSmVvSENZdXNGM1pEcmxpeEJjbmJ2bHJYVFdUVXg1Z2IzRW9LTGs1OUFkV3pjZFFTREE?oc=5"
         }
       ]
@@ -223,7 +223,7 @@
       "id": "54ad404143ae",
       "title": "妻長「菜花」遭夫控外遇 醫師：HPV檢查不是感情測謊機 - 壹蘋新聞網",
       "published": "2026-09-09T07:12:00+00:00",
-      "summary": "妻長「菜花」遭夫控外遇 醫師：HPV檢查不是感情測謊機&nbsp;&nbsp;壹蘋新聞網人妻長菜花被尪認定出軌提告 名醫：HPV檢查非感情測謊機、但感情散了就是散了&nbsp;&nbsp;鏡週刊Mirror Media人妻長菜花被尪提告！喊沒外遇「女廁馬桶水濺到」醫吐真相&nbsp;&nbsp;Yahoo新聞婚後突長菜花被尪疑出軌！婦喊「沒第三者」求助蘇怡寧 答案曝光 | Newtalk&nbsp;&nbsp;LINE TODAY蕾菈曝「HPV陽性≠出軌證據」！ 列5大迷思：不是病毒身分證&nbsp;&nbsp;ETtoday星光雲",
+      "summary": "妻長「菜花」遭夫控外遇 醫師：HPV檢查不是感情測謊機&nbsp;&nbsp;壹蘋新聞網人妻長菜花被尪認定出軌提告 名醫：HPV檢查非感情測謊機、但感情散了就是散了&nbsp;&nbsp;mirrormedia.mg人妻長菜花被尪提告！喊沒外遇「女廁馬桶水濺到」醫吐真相&nbsp;&nbsp;Yahoo新聞婚後突長菜花被尪疑出軌！婦喊「沒第三者」求助蘇怡寧 答案曝光 | Newtalk&nbsp;&nbsp;LINE TODAY蕾菈曝「HPV陽性≠出軌證據」！ 列5大迷思：不是病毒身分證&nbsp;&nbsp;ETtoday星光雲",
       "sources": [
         {
           "name": "壹蘋新聞網",
@@ -400,18 +400,6 @@
       ]
     },
     {
-      "id": "3f64b48eede2",
-      "title": "女性非自願單身者困孤獨低自尊 研究： 較常將戀愛失敗歸咎自己 - 巴士的報",
-      "published": "2026-09-09T22:40:03+00:00",
-      "summary": "女性非自願單身者困孤獨低自尊 研究： 較常將戀愛失敗歸咎自己&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOODQ3VWxNMjMwUmotOXgwNDhBZWVwR2pGN0RCTzNhUjBHZTJYOGxucDJFcURIckVJVExTSXd5N2stbzRYU01HZVloaXNOSlVsbElyNE14aHNyQmpUcW92MHBkSW80OS1nWDFINlRMZGs4SDVJX2tyejVGOWRDaTRoY1BNNW03OVJWWXl2QjFyUkJjMHozUTlTdEhRSHVUU2RDRUxYY3hSSGNmTXR0MUZrdGZoQU5zUVBGN1pvZzY2ODdsRTlnc0ZETk1qMTJmQmJyVDNEaXNKak9qdXI4VF9qU2h4cVBRbkJiUGFtcTZ6NTV4Vi1QM18tZHhGR0JLV1dIc1l5TV9URVg0aFI1UFcxTUt0YWVUdmUxMzdMcXdxeDNHN0dESmh2dHUwZ1hqS0R4M2FqT3JwZi10V3NiT3MyVzhXOERabWYxcXZJU2EyRXhaZXpRUEdNeVpJYVNaZFRzdVJTNS1OVHdON3U5cHJF?oc=5"
-        }
-      ]
-    },
-    {
       "id": "880a619e49ac",
       "title": "抗癌戰士︱YouTuber曉欣戰勝14cm卵巢腫瘤脫假髮曬「頭髮生長報告」 Skinhead 撞樣《怪奇物語》Eleven - 香港經濟日報HKET",
       "published": "2026-09-10T02:19:45+00:00",
@@ -484,6 +472,18 @@
       ]
     },
     {
+      "id": "69dfb495a56c",
+      "title": "女性非自願單身者困孤獨低自尊 研究： 較常將戀愛失敗歸咎自己 - bastillepost.com",
+      "published": "2026-09-09T22:40:03+00:00",
+      "summary": "女性非自願單身者困孤獨低自尊 研究： 較常將戀愛失敗歸咎自己&nbsp;&nbsp;bastillepost.com",
+      "sources": [
+        {
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOODQ3VWxNMjMwUmotOXgwNDhBZWVwR2pGN0RCTzNhUjBHZTJYOGxucDJFcURIckVJVExTSXd5N2stbzRYU01HZVloaXNOSlVsbElyNE14aHNyQmpUcW92MHBkSW80OS1nWDFINlRMZGs4SDVJX2tyejVGOWRDaTRoY1BNNW03OVJWWXl2QjFyUkJjMHozUTlTdEhRSHVUU2RDRUxYY3hSSGNmTXR0MUZrdGZoQU5zUVBGN1pvZzY2ODdsRTlnc0ZETk1qMTJmQmJyVDNEaXNKak9qdXI4VF9qU2h4cVBRbkJiUGFtcTZ6NTV4Vi1QM18tZHhGR0JLV1dIc1l5TV9URVg0aFI1UFcxTUt0YWVUdmUxMzdMcXdxeDNHN0dESmh2dHUwZ1hqS0R4M2FqT3JwZi10V3NiT3MyVzhXOERabWYxcXZJU2EyRXhaZXpRUEdNeVpJYVNaZFRzdVJTNS1OVHdON3U5cHJF?oc=5"
+        }
+      ]
+    },
+    {
       "id": "006133a212fe",
       "title": "北大醫學博士：80%猝死的人，平時看起來都很正常| 健康 - 鉅亨號",
       "published": "2026-09-09T03:36:10+00:00",
@@ -532,13 +532,13 @@
       ]
     },
     {
-      "id": "e01f636602d2",
-      "title": "降血脂運動｜47歲女醫生靠居家抗阻訓練＋飲食調整 1年降膽固醇練出馬甲線 - etnet 經濟通",
+      "id": "8705e489d619",
+      "title": "降血脂運動｜47歲女醫生靠居家抗阻訓練＋飲食調整 1年降膽固醇練出馬甲線 - etnet.com.hk",
       "published": "2026-09-07T06:08:32+00:00",
-      "summary": "降血脂運動｜47歲女醫生靠居家抗阻訓練＋飲食調整 1年降膽固醇練出馬甲線&nbsp;&nbsp;etnet 經濟通",
+      "summary": "降血脂運動｜47歲女醫生靠居家抗阻訓練＋飲食調整 1年降膽固醇練出馬甲線&nbsp;&nbsp;etnet.com.hk",
       "sources": [
         {
-          "name": "etnet 經濟通",
+          "name": "etnet.com.hk",
           "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQYjFReEtWS0FOMjFWaXhvdERDNTl1bTlNQl9OSmFfTks0ekZ2OXQtT2Y3b1FvTE9ReTc2Q2JocFJCYXQyZ1BBRDMyUkh5MU1xZ3N6WnkyYnRmVDltTDF0YzhOc2sycjdIOWQxWTVvWmxUYlNrMThReW9WUVl6Tk9hWnVybUtMcWRjaGZtVmNJVDc3YW1sbHJkZ3RsMnRjamEwXzFXbnlQcDBoSEsyYkVEcVpRaXhlQ005akJzd1NfYnc4MDR2YW8tYjBfd0JvWkdOV2dvcUg4QXVQbWZucUgwVUNlVGUyLUFfRDd2aDM1ZzlVZDRsQThlelp5ako0SGdXUTkweUlLY0RCMkhDNUU4eEhxUHJ3TGZ0alFQZW5EWHVZc3hWdlNxZm1tMUdSREVkMk02N3h0TmVrd3VIdXdaLXJCMUd1Z1lzY0VvWjNuNEZmY3FIU0xZMEFadTVOaHhmN29fdjI1UVJMUlF0ZG5FZHZHbk01N0pQRTVHZXFsamNYbjBsTVJneVZnWVJZRjlsZFZfWnNhenluOUxJWEFSb2Nlak9KZ2lDUHY3cl80eDVKOENWckJBYk5fWUZzZUphOHJ4aEhXUHBwckhnWHhaOVBzRFVzSGx1NC04RUVobk0?oc=5"
         }
       ]
