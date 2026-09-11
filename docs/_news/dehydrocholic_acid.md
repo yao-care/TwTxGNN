@@ -48,7 +48,7 @@ permalink: /news/dehydrocholic_acid/
 
 2026-09-11 <span class="news-indication-tag">肝硬化</span>
 
-來源：[scdaily.com](https://news.google.com/rss/articles/CBMiRkFVX3lxTE5pYUpyYktIR1F4YmpKY3ktU2VMVGN1Z0N1T0xQXzFHQkpOa0hFem0xQk9ycUR5OTNpVmE3ejhSNDdNWjVGY2c?oc=5)
+來源：[美南新聞](https://news.google.com/rss/articles/CBMiRkFVX3lxTE5pYUpyYktIR1F4YmpKY3ktU2VMVGN1Z0N1T0xQXzFHQkpOa0hFem0xQk9ycUR5OTNpVmE3ejhSNDdNWjVGY2c?oc=5)
 
 ---
 
