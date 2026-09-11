@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [小心！睡覺開燈恐讓心臟結構病變 中風風險增](https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZYi13VHpIb2k0cTdoemd5NHNnTFJ4OUN2LTdyQ0gyS194VENOQzRGS194aDNSSzQ0bm5oT3JUM083UjZmRV9xRXh4T3dJdnppZTBlc19wQWUxUVZLVzh5MGNHRDlDLUVEWnI1b2ln?oc=5)
+
+2026-09-11 <span class="news-indication-tag">中風</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZYi13VHpIb2k0cTdoemd5NHNnTFJ4OUN2LTdyQ0gyS194VENOQzRGS194aDNSSzQ0bm5oT3JUM083UjZmRV9xRXh4T3dJdnppZTBlc19wQWUxUVZLVzh5MGNHRDlDLUVEWnI1b2ln?oc=5)
+
+---
 
 ### [空汙不只傷肺！詹長權揭PM2.5「傷心」真相：心肌梗塞、中風都可能有關](https://news.google.com/rss/articles/CBMihgJBVV95cUxQbk5tRmJwdWtWQWd4YjdYY2Nqc1R4TnFkRjU0VlI2c2p1ZXBSQW9LQmE4T25EQlFmWmFPd0JWRkUwaWppWmdwb0ZDcU9NRTY4b01NZVBKSzlWRGFKb1RJbzExVEJ6eFVnTE5kdFhoRy1ZQzdMU25aazF5U0hNN19ETW5DVTZ4Y0ZSRXhJQTgtUHNiVTkyT3R4aDFTTktnVWJJTjVqRWZMdEJfS0xIUXBnVVVRRVZSbFNYTlFJUTJNSDZfOTNtVjJMUmtVbUk1Y3RiTW9SNVlNSk1KTXVreWZIbFExb3BJWU9ScXhheHUwN3N1RkVRa1lnbXgzWVoydGR4bWIySUVR?oc=5)
 

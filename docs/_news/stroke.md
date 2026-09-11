@@ -3,7 +3,7 @@ layout: default
 title: "中風（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "中風（stroke） 的相關健康新聞報導。1 則新聞、2 個相關藥物。"
+description: "中風（stroke） 的相關健康新聞報導。2 則新聞、2 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="中風（stroke） 有什麼相關新聞？">
-<strong>中風（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，2 個相關藥物。
+<strong>中風（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，2 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [小心！睡覺開燈恐讓心臟結構病變 中風風險增](https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZYi13VHpIb2k0cTdoemd5NHNnTFJ4OUN2LTdyQ0gyS194VENOQzRGS194aDNSSzQ0bm5oT3JUM083UjZmRV9xRXh4T3dJdnppZTBlc19wQWUxUVZLVzh5MGNHRDlDLUVEWnI1b2ln?oc=5)
+
+2026-09-11
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZYi13VHpIb2k0cTdoemd5NHNnTFJ4OUN2LTdyQ0gyS194VENOQzRGS194aDNSSzQ0bm5oT3JUM083UjZmRV9xRXh4T3dJdnppZTBlc19wQWUxUVZLVzh5MGNHRDlDLUVEWnI1b2ln?oc=5)
+
+---
 
 ### [空汙不只傷肺！詹長權揭PM2.5「傷心」真相：心肌梗塞、中風都可能有關](https://news.google.com/rss/articles/CBMihgJBVV95cUxQbk5tRmJwdWtWQWd4YjdYY2Nqc1R4TnFkRjU0VlI2c2p1ZXBSQW9LQmE4T25EQlFmWmFPd0JWRkUwaWppWmdwb0ZDcU9NRTY4b01NZVBKSzlWRGFKb1RJbzExVEJ6eFVnTE5kdFhoRy1ZQzdMU25aazF5U0hNN19ETW5DVTZ4Y0ZSRXhJQTgtUHNiVTkyT3R4aDFTTktnVWJJTjVqRWZMdEJfS0xIUXBnVVVRRVZSbFNYTlFJUTJNSDZfOTNtVjJMUmtVbUk1Y3RiTW9SNVlNSk1KTXVreWZIbFExb3BJWU9ScXhheHUwN3N1RkVRa1lnbXgzWVoydGR4bWIySUVR?oc=5)
 
