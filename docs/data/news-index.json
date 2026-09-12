@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T02:15:54.159250+00:00",
+  "generated": "2026-09-12T07:28:08.268938+00:00",
   "count": 15,
   "news": [
     {
@@ -626,12 +626,12 @@
       ]
     },
     {
-      "id": "6b34c76befcd",
-      "title": "59歲女星腸阻塞入院驚患三期大腸癌！悔喊忽視體檢：曾以為我很健康",
+      "id": "21a0da611979",
+      "title": "59歲女星腸阻塞入院驚患三期大腸癌！悔喊忽視體檢：曾以為我很健康 - U Food",
       "published": "2026-09-10T10:08:34+00:00",
       "sources": [
         {
-          "name": "ufood.com.hk",
+          "name": "U Food",
           "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOUjNNME03cTBCcHQtU2doa3VhWU1nOHdTencwU3NGVkFnSWs5R0ZMTlh4b0JOT1BKcS1LaHdhN2ZtNmU5RnEtSHhnNHl1SVFGVE1jMEFGSEpaWFNMNngxWnczYkVGOEVCNFp4WVFManBsYUZJWnktSXJnYVFfdVVaS0pwbHFxUElMTG9hOG1JNHhnWGxPbEF1S1RjZ2xPQkZwd2pkVHhaaHlKdUNUcEJiLW1TVVJreDVwOXduLVpaNGVXSm5VU1BMdUcwRWFwS2R0UnJ6c0RqQ1h4YU5iQkxDZUdhdW9qeEFic3lxNGp1QnF6NTlUZGF6ekI1SUpPaXY4OW9uY1RGSDNqX0JOWjR3ZXAxVllLbFA3NW1WRTIwOXdaUTRQeTdXcFJLeWRnWGRPVUREeDVYT0NZclFfUEhhUHFlbmpJUHo0Qno1dG5Yem1mbTctTS1SN0ZTZFZpU3Q4dFJ2SGtHRUFJaXVlYzN2R2VpazlsMlNMMGRoVGQteHl2MElXSmVvSENZdXNGM1pEcmxpeEJjbmJ2bHJYVFdUVXg1Z2IzRW9LTGs1OUFkV3pjZFFTREE?oc=5"
         }
       ],
@@ -667,30 +667,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "dfcf6dd32ea0",
-      "title": "洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」",
-      "published": "2026-09-10T05:00:00+00:00",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00X3ZCeFJoNmJFRmZvMHlJNUp0YkhxWnpoY0NMQndHRVMxNkpFRlNUZmZPOWFZU19KbnZsNjZwTmczME1PeUxLRFFhU1h5OFNQbXJDLWdRTnhVVEw1VFJiRA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
@@ -899,6 +875,30 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7400e544d3ce",
+      "title": "洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」",
+      "published": "2026-09-10T01:00:00+00:00",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxSWdSSWJkMUQ4V0ppbVpFX05lZ2lXVmtGZVdNLVFyZmEyS2x3cENNTUhYaXlyUGwyLWN0X3VKWm5KTnh5VkNSOW0wX3JNTWh0Q1pRcVhB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }

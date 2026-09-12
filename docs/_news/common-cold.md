@@ -47,11 +47,11 @@ permalink: /news/common-cold/
 
 ---
 
-### [洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」](https://news.google.com/rss/articles/CBMiYEFVX3lxTE00X3ZCeFJoNmJFRmZvMHlJNUp0YkhxWnpoY0NMQndHRVMxNkpFRlNUZmZPOWFZU19KbnZsNjZwTmczME1PeUxLRFFhU1h5OFNQbXJDLWdRTnhVVEw1VFJiRA?oc=5)
+### [洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxSWdSSWJkMUQ4V0ppbVpFX05lZ2lXVmtGZVdNLVFyZmEyS2x3cENNTUhYaXlyUGwyLWN0X3VKWm5KTnh5VkNSOW0wX3JNTWh0Q1pRcVhB?oc=5)
 
 2026-09-10
 
-來源：[民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE00X3ZCeFJoNmJFRmZvMHlJNUp0YkhxWnpoY0NMQndHRVMxNkpFRlNUZmZPOWFZU19KbnZsNjZwTmczME1PeUxLRFFhU1h5OFNQbXJDLWdRTnhVVEw1VFJiRA?oc=5)
+來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxSWdSSWJkMUQ4V0ppbVpFX05lZ2lXVmtGZVdNLVFyZmEyS2x3cENNTUhYaXlyUGwyLWN0X3VKWm5KTnh5VkNSOW0wX3JNTWh0Q1pRcVhB?oc=5)
 
 ---
 
