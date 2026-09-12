@@ -44,7 +44,7 @@ permalink: /news/felodipine/
 
 2026-09-12 <span class="news-indication-tag">癌症</span>
 
-來源：[singtaousa.com](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
+來源：[Singtaousa](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
 
 ---
 
@@ -68,7 +68,7 @@ permalink: /news/felodipine/
 
 2026-09-07 <span class="news-indication-tag">癌症</span>
 
-來源：[truemii.chinatimes.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZNURWNzJveVN2NExuNHZRRldnMnBJN054Z2tZNVYxY3dSQi1tUlFNUEV1cmtlZzFYWVVJMHNzYnYyNVJMS213VjBaMnFLYk9abEQyZ3c2QU16Q1lZY0J5eWtHdHJsc0x4ZFhXMw?oc=5)
+來源：[觸mii](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZNURWNzJveVN2NExuNHZRRldnMnBJN054Z2tZNVYxY3dSQi1tUlFNUEV1cmtlZzFYWVVJMHNzYnYyNVJMS213VjBaMnFLYk9abEQyZ3c2QU16Q1lZY0J5eWtHdHJsc0x4ZFhXMw?oc=5)
 
 ---
 

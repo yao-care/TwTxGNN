@@ -1,16 +1,29 @@
 {
-  "last_updated": "2026-09-12T14:40:26.399229+00:00",
-  "total_count": 52,
+  "last_updated": "2026-09-12T17:32:33.475059+00:00",
+  "total_count": 53,
   "matched_count": 16,
   "news": [
     {
-      "id": "17e680ccf1ff",
-      "title": "魚油能預防認知障礙？新研究：靠單一營養難防失智 關鍵在日常",
-      "published": "2026-09-12T09:00:37+00:00",
-      "summary": "魚油能預防認知障礙？新研究：靠單一營養難防失智 關鍵在日常&nbsp;&nbsp;香港01",
+      "id": "91e896462c89",
+      "title": "健康波奇碗💯大滿足！😋",
+      "published": "2026-09-12T14:01:57+00:00",
+      "summary": "健康波奇碗💯大滿足！😋&nbsp;&nbsp;ulifestyle.com.hk",
       "sources": [
         {
-          "name": "香港01",
+          "name": "ulifestyle.com.hk",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWFg0RVhMbWxBU3dGUG5ndmlvcDdhYzc1bU9DdEZybWdCOXVncU5NdzNhaVFxanVMQmhEdEF4bHAtYjlBX0l2Z3QyMW54bi03WE16NHVpNXVwT1N4eTNFWGthQ3h5Z0xFTjZhdVpaZGdCOXJxcWViLWpGdFN5TXpkZDhFVUxoX2JJZ1BSbXZMaDhlZHZNS1lVNF9tWGRKZ0Y3MGQ1aFZnbWp4MnVFUGdPMDBBWS04ZTFnOFRNX1VFaEg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1dce47ae0f7e",
+      "title": "魚油能預防認知障礙？新研究：靠單一營養難防失智 關鍵在日常",
+      "published": "2026-09-12T09:00:37+00:00",
+      "summary": "魚油能預防認知障礙？新研究：靠單一營養難防失智 關鍵在日常&nbsp;&nbsp;hk01.com",
+      "sources": [
+        {
+          "name": "hk01.com",
           "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPZTRVS0V5UnhsRkNYU2poOVJRV1RubnlnYXNPVlNLLUE4U1RtNlVvWWtlZWk4RTVCRGgzNnVWbTVpMzMyemhWN19rVlUwMW5MLS1kQWY3Zjd4RG9pd2JfV1JGaUFqTFoxZ2oxUlJSS0stVU5ncldETDNPcGlIbnpicU1uYjZ6UU5JaVFXaTJ6MW50SzFBS1k1YnJSd185OTJWTVptMHAtaHJtTXpXemhubEFXZjlLbGRMVlhUaUtLb2NNejJyR1lLRFR2ei11RFp5a1ZqWGFXOVFjYkcxejVGZm8zMjdVa0NnN1NsMmhaaVJYTmhZQWNFMzJaYms4U1dhSFZvTm1XRFo4Z0xLSVdMWlkyblBlSndqT01CQUtBLWUyT0xVTWNySVJjZFJQTEZ4UHBva2ZsTW14emZoMWRJbllxR29nUGs0eTRmQW9pR3ZUaXhnSzl3UTFuaU5QVGQ4dDFQTFlBaXl4U18zbjE0MzJnSWc3YWVRSnVxWFB2QkVyem1UYVRGLVhtdGJ3N0dlZFZ5ZWYtRmw2UQ?oc=5"
         }
       ],
@@ -42,13 +55,13 @@
       "matched_keywords": []
     },
     {
-      "id": "6b6c14cc7d0f",
+      "id": "ce198d2b75aa",
       "title": "德里24歲男子不育檢查發現子宮，罕見持續性苗勒管綜合症揭示癌症風險",
       "published": "2026-09-12T02:00:00+00:00",
-      "summary": "德里24歲男子不育檢查發現子宮，罕見持續性苗勒管綜合症揭示癌症風險&nbsp;&nbsp;singtaousa.com",
+      "summary": "德里24歲男子不育檢查發現子宮，罕見持續性苗勒管綜合症揭示癌症風險&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5"
         }
       ],
@@ -712,13 +725,13 @@
       ]
     },
     {
-      "id": "4f99105d48f3",
+      "id": "76b55ce595db",
       "title": "明明腦中有想法，卻總是說不清楚？3 個步驟練出表達力，還能用 AI 陪練",
       "published": "2026-09-11T05:30:00+00:00",
-      "summary": "明明腦中有想法，卻總是說不清楚？3 個步驟練出表達力，還能用 AI 陪練&nbsp;&nbsp;techbang.com",
+      "summary": "明明腦中有想法，卻總是說不清楚？3 個步驟練出表達力，還能用 AI 陪練&nbsp;&nbsp;T客邦",
       "sources": [
         {
-          "name": "techbang.com",
+          "name": "T客邦",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd1IxS2FHRm5XUTkycGQteGFQZlRUQ19YWGFnSGczd1FXU1V6cGNDZzFMYWp6NjY0SlFGZkZDVUR0SUIwRll4U2N6VnZUMnREYjk2SVRBNm83LUN1bGVsWDNIUjdjMEFtS1FMNU9QcGMtV2NNbnRscTVoTEIyZnRZR2tGN1pjMnhfM2c?oc=5"
         }
       ],
@@ -867,13 +880,13 @@
       "matched_keywords": []
     },
     {
-      "id": "d541d6872324",
+      "id": "0ec5d2ddb400",
       "title": "長期疼痛為何會被轉診精神科？醫揭「跨專科治療原因」",
       "published": "2026-09-10T04:00:00+00:00",
-      "summary": "長期疼痛為何會被轉診精神科？醫揭「跨專科治療原因」&nbsp;&nbsp;healthnews.com.tw",
+      "summary": "長期疼痛為何會被轉診精神科？醫揭「跨專科治療原因」&nbsp;&nbsp;健康醫療網",
       "sources": [
         {
-          "name": "healthnews.com.tw",
+          "name": "健康醫療網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzdldvTm44ZUhxQUlIRVVJN3NGeEE0U1FIenVVU0otUzRtUWdzaklTS2pCZUo2MnpQdUU5a3RiMGJSRjF5cUM4ZEtvNzZNcWdpSWwySS13?oc=5"
         }
       ],
@@ -1276,13 +1289,13 @@
       ]
     },
     {
-      "id": "e2c4cf687a1a",
+      "id": "bd7b3edd040d",
       "title": "單一伴侶就沒事？揭開性病迷思",
       "published": "2026-09-09T01:13:00+00:00",
-      "summary": "單一伴侶就沒事？揭開性病迷思&nbsp;&nbsp;news.ebc.net.tw",
+      "summary": "單一伴侶就沒事？揭開性病迷思&nbsp;&nbsp;東森新聞",
       "sources": [
         {
-          "name": "news.ebc.net.tw",
+          "name": "東森新聞",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTcm1lcjJJRVhIS3VkWWYxODB3eGdSN2xXSEdmNWdnbi0tbWF6bC1US2lqQkcxWFB5d1lCVkN6c2c2Vy1qM1pJWHU2V0Zrdl9KRERSbQ?oc=5"
         }
       ],
@@ -1433,13 +1446,13 @@
       "matched_keywords": []
     },
     {
-      "id": "8cc6c8c30a6d",
+      "id": "f32d9191dffc",
       "title": "擔心癌症找上身？營養師力推5款抗癌蔬菜 輪流吃搭建身體天然防護罩",
       "published": "2026-09-07T06:09:34+00:00",
-      "summary": "擔心癌症找上身？營養師力推5款抗癌蔬菜 輪流吃搭建身體天然防護罩&nbsp;&nbsp;truemii.chinatimes.com抗癌路上抵抗力下降 減糖+3大營養配方 助紓緩療程副作用¹&nbsp;&nbsp;香港01",
+      "summary": "擔心癌症找上身？營養師力推5款抗癌蔬菜 輪流吃搭建身體天然防護罩&nbsp;&nbsp;觸mii抗癌路上抵抗力下降 減糖+3大營養配方 助紓緩療程副作用¹&nbsp;&nbsp;hk01.com",
       "sources": [
         {
-          "name": "truemii.chinatimes.com",
+          "name": "觸mii",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZNURWNzJveVN2NExuNHZRRldnMnBJN054Z2tZNVYxY3dSQi1tUlFNUEV1cmtlZzFYWVVJMHNzYnYyNVJMS213VjBaMnFLYk9abEQyZ3c2QU16Q1lZY0J5eWtHdHJsc0x4ZFhXMw?oc=5"
         }
       ],
@@ -1953,13 +1966,13 @@
       ]
     },
     {
-      "id": "34ca3582041b",
+      "id": "977d8f6a5fd6",
       "title": "打耳洞染HIV？22歲女與未婚夫婚檢確診 揭美容風險與黃金72小時",
       "published": "2026-09-06T01:10:14+00:00",
-      "summary": "打耳洞染HIV？22歲女與未婚夫婚檢確診 揭美容風險與黃金72小時&nbsp;&nbsp;香港01",
+      "summary": "打耳洞染HIV？22歲女與未婚夫婚檢確診 揭美容風險與黃金72小時&nbsp;&nbsp;hk01.com",
       "sources": [
         {
-          "name": "香港01",
+          "name": "hk01.com",
           "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNcDZIc2syaElIYUhQNW5PRjJUazUyRk11NkFPUGZ5Umt4cmJ0THhjeXM3NmN0TU9CSTJ2a0xJRFRZdFFteERTWkoyQUJ0dTl6a3V5a1V0dEI5Z1d0VGNvVWh3YUgwa25PR3dzOTl3aE9Bd1JvNjdMVVFPUVhDSnNVNEo4QlhxWXRuUVd6SzFYRVpfczZlZk1WcU9uMjFuX2ZHOFJVdFJaSTFUNzB1ZEp0eklJU2c5Nk1lOWhRRHVwN0Joc3NNaWZqY1RNRmFwc3A3WWlfRHdNeTRucC16SjVyMUwzcHgya3hEZU5WejFCZkpiQ1hvUnpkWHF1cE9KTzNuQXh0dVdqUE9BQzMyc3NwMlltR1NWSTNfMXppTFZQZWJCQW52eTZMclo4cVpOODFPT3pqTFNkSkRial9ZVGJZem9qMVZ3TUN1c29Ub1JIQjhJUTBRbFVfaHBVQzBKMktNQ1BYb1d0c2s3bXpSMXprMFlyOUFyOW9qWW1iNXExdnNqY3lPbzJ4YVowWUxhR3N3XzB3LWVfdElIS0xSSzNVMTRR?oc=5"
         }
       ],
