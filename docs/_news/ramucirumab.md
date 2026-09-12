@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="Ramucirumab 有什麼相關新聞？">
-<strong>Ramucirumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ramucirumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/ramucirumab/
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [德里24歲男子不育檢查發現子宮，罕見持續性苗勒管綜合症揭示癌症風險](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
+
+2026-09-12 <span class="news-indication-tag">癌症</span>
+
+來源：[Singtaousa](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
+
+---
+
+### [HPV疫苗不只防子宮頸癌！感染率降88%，男性接種也能降低相關癌症風險](https://news.google.com/rss/articles/CBMioANBVV95cUxPbHZUMng3dDJISmRlR1J5THN2SWVjV01MV0tQLUoxQmd2WmRzR1VBTkx2TEEzY29PWFUzQkl4dUs5SFhqUWxBNkh1ZGVUeVRIUnl5UDBMWjgyTTQ0Z1hzc3NMaXc2NjZpYWVlb0t0R20yV2NycnMzYjRCOXdnc3VSeHhzbm1FS2ZsUEVPOUNZeVBBYjNlQ0VJZEpuYUtUQjEtZEpBbGdhYWl4emt3Z3hoN1hfVXVRZ1IwUmJHMmRRbVFvQ2xaY2dwUWx3cURsU3daQnVXUExvSnZMZlExdFJiSTdUcXd5ckwyamtlYi1PM2x1ZWFUaFN3dmhpelFIMXQxTjc0SUUxckFBTEZXR0JmUlVaZjVKT3E0SS1XREdvWXFwSFhxQlgyaVIzWUJaTkF3dGlObUFJVVlaSTVZMUVtTFlyaWlpN3FZX21QV2kxUm5sdWV0TDhld1pzbFQtSU11WTNxZGdyVDF4X0xQVGlKd2NHY1duMEk4a25GeEp6QTJ4UTIxZ2t5aWt0Q0RocGtNT1pRNTdxOWUzbUxXaGVRZA?oc=5)
+
+2026-09-12 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMioANBVV95cUxPbHZUMng3dDJISmRlR1J5THN2SWVjV01MV0tQLUoxQmd2WmRzR1VBTkx2TEEzY29PWFUzQkl4dUs5SFhqUWxBNkh1ZGVUeVRIUnl5UDBMWjgyTTQ0Z1hzc3NMaXc2NjZpYWVlb0t0R20yV2NycnMzYjRCOXdnc3VSeHhzbm1FS2ZsUEVPOUNZeVBBYjNlQ0VJZEpuYUtUQjEtZEpBbGdhYWl4emt3Z3hoN1hfVXVRZ1IwUmJHMmRRbVFvQ2xaY2dwUWx3cURsU3daQnVXUExvSnZMZlExdFJiSTdUcXd5ckwyamtlYi1PM2x1ZWFUaFN3dmhpelFIMXQxTjc0SUUxckFBTEZXR0JmUlVaZjVKT3E0SS1XREdvWXFwSFhxQlgyaVIzWUJaTkF3dGlObUFJVVlaSTVZMUVtTFlyaWlpN3FZX21QV2kxUm5sdWV0TDhld1pzbFQtSU11WTNxZGdyVDF4X0xQVGlKd2NHY1duMEk4a25GeEp6QTJ4UTIxZ2t5aWt0Q0RocGtNT1pRNTdxOWUzbUxXaGVRZA?oc=5)
+
+---
 
 ### [抗癌戰士︱YouTuber曉欣戰勝14cm卵巢腫瘤脫假髮曬「頭髮生長報告」 Skinhead 撞樣《怪奇物語》Eleven](https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tcmFhNzFqRjBxbjR4UHQ3WDBjS21Tb0RSYlB2R3FBMjJRUUYtWk1pUmhiYUstVVlPY0QxbjAyQnNpM3NwdEJlaDdaQ3VQNnU3SHc?oc=5)
 
