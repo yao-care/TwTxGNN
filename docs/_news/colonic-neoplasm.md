@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "大腸癌（colonic neoplasm） 相關新聞"
+title: "直腸癌（colonic neoplasm） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "直腸癌（colonic neoplasm） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
-# 大腸癌（colonic neoplasm） 相關新聞
+# 直腸癌（colonic neoplasm） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="大腸癌（colonic neoplasm） 有什麼相關新聞？">
-<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="直腸癌（colonic neoplasm） 有什麼相關新聞？">
+<strong>直腸癌（colonic neoplasm）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「大腸癌」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「直腸癌」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,7 +29,15 @@ permalink: /news/colonic-neoplasm/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [常規驗血現端倪 年輕人低肝酶與早發性大腸直腸癌具關聯](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcE94N084OVk2cWdrVWVMU3JuZUszdzlSVF9YWjhaNkxKNVVaZEhLdzNlcGpac0lsd0F5UU93aVVZaml4LW90STBWZzdnYXdFbk1GZWJva2thZjl2WnFxbWJhdm5BNTlSSjV6ZmVOdXlTSWhjWG5OMjNsOUZmSU1tLTNJVmluLWJMM2hTYWtxYUJQRm8tUVpFdUdNbU92clh3Rld4d3VJYnZrYWU0TnR1RzA0VXlhTFZkRGZUTlNIY21MaVZYbUlxMGE2RVJCeHlXTGd0ZTVYWDFuX1pWSlhNVA?oc=5)
+
+2026-09-12
+
+來源：[Singtaousa](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcE94N084OVk2cWdrVWVMU3JuZUszdzlSVF9YWjhaNkxKNVVaZEhLdzNlcGpac0lsd0F5UU93aVVZaml4LW90STBWZzdnYXdFbk1GZWJva2thZjl2WnFxbWJhdm5BNTlSSjV6ZmVOdXlTSWhjWG5OMjNsOUZmSU1tLTNJVmluLWJMM2hTYWtxYUJQRm8tUVpFdUdNbU92clh3Rld4d3VJYnZrYWU0TnR1RzA0VXlhTFZkRGZUTlNIY21MaVZYbUlxMGE2RVJCeHlXTGd0ZTVYWDFuX1pWSlhNVA?oc=5)
+
+---
 
 ### [日本女星不健檢後悔了59歲腸阻塞入院確診大腸癌- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE4zVllyWHJqUnI1b0xKbDc3aXptNkw5MGxyNXQyWDU3eDdCNk1wbnREOUdHMjVSUWNGd0xOT19oZTdqV0hyZVNUd0o1OHhqM0tfYm43SUJWUi1sVkJzWVRwbEIxaEl0X3dlN3dPR0ZB?oc=5)
 
