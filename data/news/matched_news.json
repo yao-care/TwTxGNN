@@ -1,12 +1,37 @@
 {
-  "last_updated": "2026-09-12T07:28:08.231624+00:00",
-  "total_count": 51,
-  "matched_count": 15,
+  "last_updated": "2026-09-12T11:48:47.869912+00:00",
+  "total_count": 52,
+  "matched_count": 16,
   "news": [
+    {
+      "id": "17e680ccf1ff",
+      "title": "魚油能預防認知障礙？新研究：靠單一營養難防失智 關鍵在日常",
+      "published": "2026-09-12T09:00:37+00:00",
+      "summary": "魚油能預防認知障礙？新研究：靠單一營養難防失智 關鍵在日常&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPZTRVS0V5UnhsRkNYU2poOVJRV1RubnlnYXNPVlNLLUE4U1RtNlVvWWtlZWk4RTVCRGgzNnVWbTVpMzMyemhWN19rVlUwMW5MLS1kQWY3Zjd4RG9pd2JfV1JGaUFqTFoxZ2oxUlJSS0stVU5ncldETDNPcGlIbnpicU1uYjZ6UU5JaVFXaTJ6MW50SzFBS1k1YnJSd185OTJWTVptMHAtaHJtTXpXemhubEFXZjlLbGRMVlhUaUtLb2NNejJyR1lLRFR2ei11RFp5a1ZqWGFXOVFjYkcxejVGZm8zMjdVa0NnN1NsMmhaaVJYTmhZQWNFMzJaYms4U1dhSFZvTm1XRFo4Z0xLSVdMWlkyblBlSndqT01CQUtBLWUyT0xVTWNySVJjZFJQTEZ4UHBva2ZsTW14emZoMWRJbllxR29nUGs0eTRmQW9pR3ZUaXhnSzl3UTFuaU5QVGQ4dDFQTFlBaXl4U18zbjE0MzJnSWc3YWVRSnVxWFB2QkVyem1UYVRGLVhtdGJ3N0dlZFZ5ZWYtRmw2UQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "f75117df5ebb",
       "title": "維他命貼片真有效？ 研究顯示吸收效果仍有限 | 中央廣播電臺 - LINE TODAY",
-      "published": "2026-09-12T05:24:47+00:00",
+      "published": "2026-09-12T07:24:24+00:00",
       "summary": "維他命貼片真有效？ 研究顯示吸收效果仍有限 | 中央廣播電臺&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -532,13 +557,13 @@
       ]
     },
     {
-      "id": "df418187977b",
+      "id": "a063e26b8b1f",
       "title": "研究警告：睡覺做1事超傷心臟 中風風險還會上升",
       "published": "2026-09-11T14:56:36+00:00",
-      "summary": "研究警告：睡覺做1事超傷心臟 中風風險還會上升&nbsp;&nbsp;三立新聞",
+      "summary": "研究警告：睡覺做1事超傷心臟 中風風險還會上升&nbsp;&nbsp;health.setn.com",
       "sources": [
         {
-          "name": "三立新聞",
+          "name": "health.setn.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zZkdjRS1sVHRyUDJnZW9OZUtGQ1JCVjFvZHFudHhXaVVVaGRjUG1lVmFUYlBtcVNrOXU5c18zcGVockVNNkVzelAwSkk?oc=5"
         }
       ],
@@ -625,14 +650,14 @@
       "matched_keywords": []
     },
     {
-      "id": "9689ad203f18",
+      "id": "9a095fb1361b",
       "title": "暑假結束蚊蟲仍活躍！剛開學家長挑選防蚊產品先看三件事 | 時尚生活 | 商情",
       "published": "2026-09-11T08:00:54+00:00",
       "summary": "暑假結束蚊蟲仍活躍！剛開學家長挑選防蚊產品先看三件事 | 時尚生活 | 商情&nbsp;&nbsp;經濟日報",
       "sources": [
         {
           "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96Zy1UN2FvOC1GcHhwc2c4UGpiQl84akk4bHB3QUlXcVN2ai0wTkRscFM3MWJEY0VzZGh4TlNCM3lrY0ducGxYYTRqMkh5OXNGOC1kSkNUTDNqRXZpTzY4Y2lCRHZzOTl6d2Y1VGpiaDU3ZkU1dGJKSl8wMUU?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSNTdFa2ZhNnhHb3ppTG9NV1Y2amVHSDNHVUt5ZG55TWh6OUpNRmx0NV9tTG1CX1JRc19LUDhIRTFLbE5XX1RIenZxY0t5SmV5ZGlWRlJybm45NEFqeV8zRjZVUnRjRDJfLUZUWDFlMXhmVFRjZlZV?oc=5"
         }
       ],
       "matched_keywords": []
@@ -695,6 +720,19 @@
         {
           "name": "T客邦",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd1IxS2FHRm5XUTkycGQteGFQZlRUQ19YWGFnSGczd1FXU1V6cGNDZzFMYWp6NjY0SlFGZkZDVUR0SUIwRll4U2N6VnZUMnREYjk2SVRBNm83LUN1bGVsWDNIUjdjMEFtS1FMNU9QcGMtV2NNbnRscTVoTEIyZnRZR2tGN1pjMnhfM2c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "448c17c116eb",
+      "title": "荷蘭通報3例西尼羅病毒死亡病例 當前暫無獲批疫苗、特效藥",
+      "published": "2026-09-11T04:30:00+00:00",
+      "summary": "荷蘭通報3例西尼羅病毒死亡病例 當前暫無獲批疫苗、特效藥&nbsp;&nbsp;香港商报前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "香港商报",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zQnFzNl9LQVZNYm5QeDNLa1NQU2swaU1SeEZ3dUNIOGtXOHd5czRRdHRETXR0OWJYVjkwNXEtTTl1WlM5UGp1Uzd1cEdfSmc2SU9PUlhpSTJfM0t5WlBTbVJQZ0JxdzJUeDVmQXpCNEFrUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -790,32 +828,6 @@
       "matched_keywords": []
     },
     {
-      "id": "c59fc2735a07",
-      "title": "男怕染性病狂洗小弟弟！下場慘了 醫揭密 - 鏡週刊Mirror Media",
-      "published": "2026-09-10T11:14:00+00:00",
-      "summary": "男怕染性病狂洗小弟弟！下場慘了 醫揭密&nbsp;&nbsp;鏡週刊Mirror Media",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ndXJTWVhrTUhQMjc1UVlXeXVQVVZsRXpzM3RHX1NsNmNwQ2d4eEhPWThSVm1SbC1UUng3d295Vm9STmJHcDZTRWpxRmpXb0VXY18yUlpsRzFpUVhh0gFiQVVfeXFMUDdQVXdTZEVWUW51S0xoWGN6NVlyMFpwNnhFOHhSdVJNOWpUNW5UZnN1eVd2eVJCTVpHbzJSeThVWDlpRnBCUWlLcEtaQi1fLUlNckhoR0JWNVF3SWZJRUZxVXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "cb0f83aebb0d",
-      "title": "長期疼痛為何會被轉診精神科？醫揭「跨專科治療原因」",
-      "published": "2026-09-10T11:00:00+00:00",
-      "summary": "長期疼痛為何會被轉診精神科？醫揭「跨專科治療原因」&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qX0xYZGp6LURWMVNOUzkwazg5LXVoU2txSl9GdktHSmVYRVFaYzhKOUpua3NtLW5uaXdtMUcxek5FOV9NSU9hQllfWFN0eGVHcm9BcjAxTmkzZmdkLWx5MA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "7348e9ec2f3f",
       "title": "皰疹病毒︱30歲女「爛嘴角」以為熱氣 1致命病毒上腦奪命 醫生警告3情況病毒易乘虛而入",
       "published": "2026-09-10T10:21:16+00:00",
@@ -824,67 +836,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMiwARBVV95cUxOdjd3Skd5Yl9NSDdTY2l1WDY1b1Q5bjZ0NzdmLXlBOFhlWjc3ZFNHYzRpd3hZbElQcnBONUhlb24xZmZHVHFrSjRVRWRFeHJtUzZQWEp0dlNYSmdNSmtmZFNGWW5oWE55elVKZnh0aHRlaGE2TkNDTVF6ZG83WGFMR1k4VDRJUF9IcEViUTJxVlZxZXBIWFlnY2s5VGZZY0RYWllIWDB3cGdHb0h5U1d6R3lIZG9rbXhENmlrSTZnNndYbVZENUFtQi1tcHpsa2poTU1wMmhuRG1hUDBaNG55UVVHRnJZaDRXQ0tPbHlVU21VelV3YV9xNmFuSjNrb29lRjBZT1g5TTdiTFM2WWEta0t0OEVBeU9xdEJtSmNYU1NDTDBZQTNlb291LVpJczhhRjJ4dzBjNTBrdmhMUkRrbS1MV0lUaWhMQWtuYVB5a3VxVnQ0Ry1ySmxQZzNRS3ZFWVUtbENZVjJMaFEwZkRscTZBZld6cDQ0WThmbFBNWWM0WnVENFN6c1hNVW4xR2dfcGp5Wm9lT2dkb3JkZTJrbUdOcGVPRXhqQkZ2VmIzLVpnOWN6WWdPTHNBTlBKQnlFeTQ1N3Y0YVpxMzhXZGI2M2pfOXVoTmtKWVF3TV92blJ5dTVzcWxIZmo0YW91YWthQVhFVVN6Mml5RmpaZmtIeWh2Rm5nWUJPRjhnbG5kSGtScmtwZnFpRlN0WmpkSlE0TmYtQUZONzFMOUNVdVJXcXdvTnNaMW5sQ2xFOG5iUGo?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "21a0da611979",
-      "title": "59歲女星腸阻塞入院驚患三期大腸癌！悔喊忽視體檢：曾以為我很健康 - U Food",
-      "published": "2026-09-10T10:08:34+00:00",
-      "summary": "59歲女星腸阻塞入院驚患三期大腸癌！悔喊忽視體檢：曾以為我很健康&nbsp;&nbsp;U Food",
-      "sources": [
-        {
-          "name": "U Food",
-          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOUjNNME03cTBCcHQtU2doa3VhWU1nOHdTencwU3NGVkFnSWs5R0ZMTlh4b0JOT1BKcS1LaHdhN2ZtNmU5RnEtSHhnNHl1SVFGVE1jMEFGSEpaWFNMNngxWnczYkVGOEVCNFp4WVFManBsYUZJWnktSXJnYVFfdVVaS0pwbHFxUElMTG9hOG1JNHhnWGxPbEF1S1RjZ2xPQkZwd2pkVHhaaHlKdUNUcEJiLW1TVVJreDVwOXduLVpaNGVXSm5VU1BMdUcwRWFwS2R0UnJ6c0RqQ1h4YU5iQkxDZUdhdW9qeEFic3lxNGp1QnF6NTlUZGF6ekI1SUpPaXY4OW9uY1RGSDNqX0JOWjR3ZXAxVllLbFA3NW1WRTIwOXdaUTRQeTdXcFJLeWRnWGRPVUREeDVYT0NZclFfUEhhUHFlbmpJUHo0Qno1dG5Yem1mbTctTS1SN0ZTZFZpU3Q4dFJ2SGtHRUFJaXVlYzN2R2VpazlsMlNMMGRoVGQteHl2MElXSmVvSENZdXNGM1pEcmxpeEJjbmJ2bHJYVFdUVXg1Z2IzRW9LTGs1OUFkV3pjZFFTREE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e086829d9787",
-      "title": "歐洲高溫助長蚊蟲傳播 荷蘭西尼羅病毒釀3死18染疫",
-      "published": "2026-09-10T10:02:27+00:00",
-      "summary": "歐洲高溫助長蚊蟲傳播 荷蘭西尼羅病毒釀3死18染疫&nbsp;&nbsp;民視新聞網荷蘭通報3例西尼羅病毒死亡病例 當前暫無獲批疫苗、特效藥&nbsp;&nbsp;香港商报歐洲高溫助長蚊蟲傳播 荷蘭西尼羅病毒釀3死18染疫 | 民視新聞網&nbsp;&nbsp;LINE TODAY本土西尼羅病毒感染病例增至18宗 3人死亡&nbsp;&nbsp;on.cc東網荷蘭已有3人因感染西尼羅病毒死亡- 國際&nbsp;&nbsp;香港文匯報",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zaDRHeDVqWlduYmxRVVRjSERRXy1zR3BRbVVaM1J6Z2c4ZXZYY09ObU1CWW42T2IwQTZRdlllTFplenBBZ2JGUC1GYUdIUjFhbDVOby1xVFVFcE9MdnpLTw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -911,6 +862,19 @@
         {
           "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPNGxOaTRkQjA5dGJJNXlnZENvUUxGV0s4SHlMNVVuRDRZVTRaTjhURDJrcFR1bE1HN2lrZ2lBRzhvWEpYV01TanUydVZzTVFGdEVpSnVqd3B5TDFFbHFPdTU2WHJaSjl5X0VhMUtNSTNSSDZYdUV2eFYxNE1ESkoxSTdMVzRuNXpmRndEMzNDN1k0R0M5cXo0cF84ZnpnZ0VSejdZS0h1a0I1OXYxOGZUZVlaRjY5eTkxX3A1a0huV2pxRXJZVGJrOEpkVlN1WnJhWEdmQzZqYUtoeEtobDhUWVh0cXlPREhMdUJYYmc3QW0xN1FkUW9oQy1VQW02eTZfclNKSUstNlVRNXJRZDJyblFqaWZuMS02cnJpTnpoV1hFZzJKWGJEVEVFXzRwYjJSTXl2b1BabGozX25qRmJoRE53aXpiSzgwZGZmMHRpZFRDS0J0TEV3M3hoQlJiNW1mM0ZOV1BubHFLRDJaVFN0ejZPV1FtLU5qV1h0eDBGdlAzUGxJYmhhR25qNTlYOXM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0ec5d2ddb400",
+      "title": "長期疼痛為何會被轉診精神科？醫揭「跨專科治療原因」",
+      "published": "2026-09-10T04:00:00+00:00",
+      "summary": "長期疼痛為何會被轉診精神科？醫揭「跨專科治療原因」&nbsp;&nbsp;健康醫療網",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzdldvTm44ZUhxQUlIRVVJN3NGeEE0U1FIenVVU0otUzRtUWdzaklTS2pCZUo2MnpQdUU5a3RiMGJSRjF5cUM4ZEtvNzZNcWdpSWwySS13?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1125,14 +1089,14 @@
       ]
     },
     {
-      "id": "7400e544d3ce",
+      "id": "9f8f56026204",
       "title": "洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」",
-      "published": "2026-09-10T01:00:00+00:00",
-      "summary": "洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」&nbsp;&nbsp;健康醫療網",
+      "published": "2026-09-10T01:37:42+00:00",
+      "summary": "洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxSWdSSWJkMUQ4V0ppbVpFX05lZ2lXVmtGZVdNLVFyZmEyS2x3cENNTUhYaXlyUGwyLWN0X3VKWm5KTnh5VkNSOW0wX3JNTWh0Q1pRcVhB?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQSVAzNTl5N1BoZ2tlM1FNNDdiQ2hPZ3VnaVpjYjIxeWduNkxxRzNKZnpsMzNqZFVYNWNYVHJjaXpxUlZIbGFpWTMtSk52a21qQTFaQ2pINjFfRzBibDFPNXFxa1JxWUdWanhfMVdoWDhJTlBQYW40YklSeWdjUlljTlRJVmV4dUZ2X0YyZDU1NTRyQ1U1MzFFdTlyNHJzNHV6T2xMZ3h4UkstOUw0Vmhhb2EzSVVNTzBab3YxWG1kX3RjeVpCSUc1a2RBMFBUS3NER01MbTVQUDgtdUY1TmJHN2pzMkZRMGI2SkNFaUtyRWJVclJ3bU9lcG5fbmV6X2N6NzJBa2x1Q2d4dXFFMk9nNUNTaUZKSDhzOUxjTkRiOUhSYmUwVWwzOERrQUFIclZ1NlRPQXBkZUtuamZlWjYtRV9rTC1TUUJGaFl3Y2IxV1NUcGYyS29aVw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1158,6 +1122,19 @@
         {
           "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOODQ3VWxNMjMwUmotOXgwNDhBZWVwR2pGN0RCTzNhUjBHZTJYOGxucDJFcURIckVJVExTSXd5N2stbzRYU01HZVloaXNOSlVsbElyNE14aHNyQmpUcW92MHBkSW80OS1nWDFINlRMZGs4SDVJX2tyejVGOWRDaTRoY1BNNW03OVJWWXl2QjFyUkJjMHozUTlTdEhRSHVUU2RDRUxYY3hSSGNmTXR0MUZrdGZoQU5zUVBGN1pvZzY2ODdsRTlnc0ZETk1qMTJmQmJyVDNEaXNKak9qdXI4VF9qU2h4cVBRbkJiUGFtcTZ6NTV4Vi1QM18tZHhGR0JLV1dIc1l5TV9URVg0aFI1UFcxTUt0YWVUdmUxMzdMcXdxeDNHN0dESmh2dHUwZ1hqS0R4M2FqT3JwZi10V3NiT3MyVzhXOERabWYxcXZJU2EyRXhaZXpRUEdNeVpJYVNaZFRzdVJTNS1OVHdON3U5cHJF?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "43bc56969374",
+      "title": "健身室器材｜28歲女用公用瑜伽墊慘染HPV 醫生警告夏季病毒可存活數小時 附4招預防方法",
+      "published": "2026-09-09T19:00:33+00:00",
+      "summary": "健身室器材｜28歲女用公用瑜伽墊慘染HPV 醫生警告夏季病毒可存活數小時 附4招預防方法&nbsp;&nbsp;singtao.ca",
+      "sources": [
+        {
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPQnR2MWsyc0JYYndmUk1UUUFRUzVJclZpb3p1OV9GUHlGV2JlZTdQTVJkeGxrSXNjVjhXQk1Ed04tenZFSkU5NEYxZ29Zb2JwN1BwZlFHM2dISjBUdERPdThHSDViYkRFVk13TW5MMkxlXy1fRndpMmRUWUYtQlZuREFocGEzS05lYTR2R3A5VnBzLUFLMkFnSEpGdVhhck5uVHVIWGlpOTY4cEVDUkRqTEpzeTQtcEdqd3Uwajd6ODVYdnpfejl6YmtnN3FfVF96OXJRQWhfSmZBRkMwd0ZOQ09jWnhVNnd2ZzlpNWMtYVZRTXBLSVFxbjJCbmZpbVlnTVlsUFZraTFIX2hHMjJ4ejVlSmFZeXR6VnAxV2UyX0pwSDlNb0dfODNlc0g0RWJmVEIwdkowQ3Bzeks0dmwwaENmVTFCaG9Wcy1WTUFtOTJMV25kX2xxY1lUT2UweklpQ1MxVlJDZWFnWVNnZzJxdmpRTkxMTzJEQmJVd29GNUFncmxaTlFtMU81MjlGUUlMbHBFRnJKMllfbklfSnM1R1hZN1d0cXRWbmhlYW55VlpFNWZUaXdsWE1jXzNFb3F3MklEUDctRll1dmQ3M0pFaWpDUXdGb1hObjAzZ2tBQzRUSUJHd0QyU1lpNnJMX3FxS296ZGVjWkRjSU9VY1FsM1NLcEY4Q3VUOTY1ZFI0NmtGVWN0LXNv0gGSAUFVX3lxTE1UQTRkeGlHcXNyYWp5bWFmTkJyeWJXZUVYSkJpbkhkS21sZnZjNnBDWVBTWkh3QWs0MFJzTmNFakU3VVZzN182RUw5MmNFZkxObldHMEdqRW1UQVN1TW41OXV2SXNDSVNDeWY1UG5taF9RV041MHhPTDVJc0loUGN6VUE5aFV3MUw5YW5GRXJaNFd3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1189,17 +1166,65 @@
       "matched_keywords": []
     },
     {
-      "id": "ed0e5232bdfa",
+      "id": "54ad404143ae",
       "title": "妻長「菜花」遭夫控外遇 醫師：HPV檢查不是感情測謊機",
       "published": "2026-09-09T07:12:00+00:00",
-      "summary": "妻長「菜花」遭夫控外遇 醫師：HPV檢查不是感情測謊機&nbsp;&nbsp;news.nextapple.com人妻長菜花被尪認定出軌提告 名醫：HPV檢查非感情測謊機、但感情散了就是散了&nbsp;&nbsp;鏡週刊Mirror Media人妻長菜花被尪提告！喊沒外遇「女廁馬桶水濺到」醫吐真相&nbsp;&nbsp;Yahoo新聞婚後突長菜花被尪疑出軌！婦喊「沒第三者」求助蘇怡寧 答案曝光 | Newtalk&nbsp;&nbsp;LINE TODAY蕾菈曝「HPV陽性≠出軌證據」！ 列5大迷思：不是病毒身分證&nbsp;&nbsp;star.ettoday.net",
+      "summary": "妻長「菜花」遭夫控外遇 醫師：HPV檢查不是感情測謊機&nbsp;&nbsp;壹蘋新聞網人妻長菜花被尪認定出軌提告 名醫：HPV檢查非感情測謊機、但感情散了就是散了&nbsp;&nbsp;鏡週刊Mirror Media人妻長菜花被尪提告！喊沒外遇「女廁馬桶水濺到」醫吐真相&nbsp;&nbsp;Yahoo新聞婚後突長菜花被尪疑出軌！婦喊「沒第三者」求助蘇怡寧 答案曝光 | Newtalk&nbsp;&nbsp;LINE TODAY蕾菈曝「HPV陽性≠出軌證據」！ 列5大迷思：不是病毒身分證&nbsp;&nbsp;ETtoday星光雲",
       "sources": [
         {
-          "name": "news.nextapple.com",
+          "name": "壹蘋新聞網",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtNVF3SWNNSkdpVnc1TkxTMEZCUGJfR3RqNmRybjdFR01GV3J3U1YtVjdKalhaRzlZNG5HeXVGNTI5dFVGb0F5Y2QzTExxT2ZOMjFVcnFoMzY5cDRFNlh6M19iYTMwWTFseG1vRUJYZVBvWTJPSDluN0NybzlmZw?oc=5"
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "0070e1846a64",
+      "title": "日本女星不健檢後悔了59歲腸阻塞入院確診大腸癌- 健康",
+      "published": "2026-09-09T06:52:59+00:00",
+      "summary": "日本女星不健檢後悔了59歲腸阻塞入院確診大腸癌- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zVllyWHJqUnI1b0xKbDc3aXptNkw5MGxyNXQyWDU3eDdCNk1wbnREOUdHMjVSUWNGd0xOT19oZTdqV0hyZVNUd0o1OHhqM0tfYm43SUJWUi1sVkJzWVRwbEIxaEl0X3dlN3dPR0ZB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "006133a212fe",
@@ -1251,6 +1276,19 @@
       ]
     },
     {
+      "id": "bd7b3edd040d",
+      "title": "單一伴侶就沒事？揭開性病迷思",
+      "published": "2026-09-09T01:13:00+00:00",
+      "summary": "單一伴侶就沒事？揭開性病迷思&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTcm1lcjJJRVhIS3VkWWYxODB3eGdSN2xXSEdmNWdnbi0tbWF6bC1US2lqQkcxWFB5d1lCVkN6c2c2Vy1qM1pJWHU2V0Zrdl9KRERSbQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "04e2e7a1b676",
       "title": "黑巧克力護心健腦 每週三份最剛好",
       "published": "2026-09-08T23:00:00+00:00",
@@ -1264,26 +1302,26 @@
       "matched_keywords": []
     },
     {
-      "id": "2db8cdbe571d",
+      "id": "20503c5999da",
       "title": "中秋過食 胃痛反酸 花膠海參鮑魚消化「煞星」 - 20260909 - 副刊",
       "published": "2026-09-08T20:30:00+00:00",
-      "summary": "中秋過食 胃痛反酸 花膠海參鮑魚消化「煞星」 - 20260909 - 副刊&nbsp;&nbsp;news.mingpao.com",
+      "summary": "中秋過食 胃痛反酸 花膠海參鮑魚消化「煞星」 - 20260909 - 副刊&nbsp;&nbsp;明報新聞網",
       "sources": [
         {
-          "name": "news.mingpao.com",
+          "name": "明報新聞網",
           "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNNmE4eGR6MVVTc3o1OE9DNkw4V0ZqSzNOZHVaTEY2YVMwWlprbjd3anVqQmNRc01mTTlTeEJnZTlKVEJVMi0zMS13SlJVUmt4cHBfdUVpdUZ1Szh0cW1MbTZBckY2VFRFS1h1RWxCZGtQVG9IYTY1STJqSlRrU2JOdkQ1aU9PVDB4eThhZnl3UFdIMzN6Y3hSNHNIcDBoQnRvYWRWaFd5R0tnblBWTXZYZHh6bFJhR2x1QV9HMGg5TnRRLXlvcERWQjlsdjdLZ25QUFZkVWVqdWxCaHRPS00wWU0zU0xEMnc3OWJMT2twSzB4ZEJpLWNiZEZ0OXYwS0t4VHdBSWJwclpBMGEtUmZFb2s5S2RYc09yNmhteGRadFQ1V1g4UXhXUTNlbHdjMXRlb3pZRDNaTmxkbVFKMmVIMzRwcllaTmRUU3lsMHd4R0thUlJZcWcyUVlTMlBuY2o2TEtiTFRfR2V2LXhUOVEyWmZGODBnajNEZjZkRTZOSnU4Zw?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "eb798ce2f1d9",
+      "id": "ba0e10e23b2e",
       "title": "2026長壽藥與增肌的衝突：二甲雙胍如何削弱重訓成果的科學真相",
       "published": "2026-09-08T08:05:21+00:00",
-      "summary": "2026長壽藥與增肌的衝突：二甲雙胍如何削弱重訓成果的科學真相&nbsp;&nbsp;報新聞",
+      "summary": "2026長壽藥與增肌的衝突：二甲雙胍如何削弱重訓成果的科學真相&nbsp;&nbsp;contentplatform.info",
       "sources": [
         {
-          "name": "報新聞",
+          "name": "contentplatform.info",
           "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNWERuX1VJWHNOemYySFZ1cG4yU0M2Y3hpUlJYYnZXYzNXU21PWXJxY1l5dkw3SXBRUmRCWVg2a0J4UDMwbTJzNHJOdldZcFJDemRnUmd4dVRrWF92bUU5SzY5VUhRaVlDb2FPS3dLUHlLT2J4c1V5bENILWRuS1J3OFFfNEx3elZEV2FuZUhpcFpPTXllOUdFdGZnSE9qbUV0Wm9OeGlROU5qaXg5Tmt1NjFWblVRVDRlSE1tNGVYSG5reUVjSjNRYWVwWHFPMVUxeDJXX1gyY1h1a2RZTk9mYWhLTC1ta0NybU95T0l3VEs4N0JOMVU2Y2NlT0VLSlUwZ291TEk2eHBpS1pVck1TMGR0bG9Wc2cxVjIxMk9sOEFzZVRNbTllWmZSZGstT2lkcThybzdaWkJZd3Y3aDh0ZDNyN1dwNzR5dDZIVlA5bFpOM2trbEg4NTZsYXkwWGVJ?oc=5"
         }
       ],
@@ -1617,6 +1655,249 @@
       "matched_keywords": []
     },
     {
+      "id": "3edc40f5487f",
+      "title": "50歲以下最致命癌症 大腸癌死亡率衝上榜首",
+      "published": "2026-09-06T15:00:00+00:00",
+      "summary": "50歲以下最致命癌症 大腸癌死亡率衝上榜首&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HcDZnemNlMUMxc0h0T3F0MEJvdDNGZUVyYnFISENVS0UtNDlEa2dOZDNUOWk0d01xNDZGZk52aDdCd2xycjZIRDVwM09jbExqeWlyWlVrQWJYcDVrT0I40gFkQVVfeXFMT0hXdG5XS1FlektEUW9QOTcyQTZLYmpxUk5YNEhJNXpjUTJ1T3VZOW9jZTVQeWlfZ3MzcGhTTy1CR1hCSTNETzdjVWRnX29VWW1Fa2ZyX3l5S09EeTR5Skdldl9uRg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "e332d57dbcb6",
       "title": "畫畫、舞蹈、看展能抗老？這習慣效果竟媲美運動| 運動 | 健康 | 美術館",
       "published": "2026-09-06T11:59:47+00:00",
@@ -1683,44 +1964,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "3dace3b93ef8",
-      "title": "健身室器材｜28歲女用公用瑜伽墊慘染HPV 醫生警告夏季病毒可存活數小時 附4招預防方法",
-      "published": "2026-09-05T10:00:00+00:00",
-      "summary": "健身室器材｜28歲女用公用瑜伽墊慘染HPV 醫生警告夏季病毒可存活數小時 附4招預防方法&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMiigRBVV95cUxPQXhZUzV1NmtkTkFGcnByM0FIV2xmZkhFcDlObEpqRDJFT2dibUFGUWtaMFViVDFQb0tZNlJPekN3RFdjTFNWRUZvclZSOTVab0t4ZzRFZWJZRHFZSk1HcWg4LWIyaHk5eXdXeGpZbHV2OUY1ODdjeDQ4ZE5JcVJjRnJjaHhwTC16V0tPcDR4QzE5SktPSmp0X3RIdlhILWN3ZnJpSENuM0xJOThxd3pOck8zOUZ5WWJjUnd6RGtXTVV3M29FSk5pa1loTjRRYjVSSWt2QmU1eHJ0ZW8yS3NVZGJyT1dVaWNrUVlRYTc3ZWpJelRjZGxDbGw3a0pZQTE5ZWpPS25Hd3dZVkZra1dXbXJxU3JkUEFJR3kzR1Flc1VTUlU1NDhTTnQyY2xIMzFLMWlQaTNGb3g1ajhhSkdkYkkwQkNqdlB6aG1jcjIzd2RLNmdTekVna0xhb2RBSTRHTkZ0eUNYc3NWc3FhTWEyT2Y0UnVIVUNXQmxibnFYN0VoMnVEWWFIOWdwRS1Ma3JVTDcxV1c3S3BPaERRbHI1a19fdG9faF81QkdQRV9MRm9pWG5VRDY4WVVwVXlvRzZqRHpMM1p3b1E4bGpObjgyR2t0WGJxdWkwaGVoWlBwcWs0aHhyVldnUGVMRjFyM1NRZklXRW9WWHpMNGZ2YWl0YUdJQnloQ3A2a2c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8735d1f6aa19",
-      "title": "健康網》研究：「鋰」可能預防失智 如何應用仍待努力",
-      "published": "2026-09-05T09:17:00+00:00",
-      "summary": "健康網》研究：「鋰」可能預防失智 如何應用仍待努力&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yX1ItNmwtLTFPdVhGel84WXVneDUyNm1yMzRTQXFucXRjQWJlMEJNTGE5R0Q1dW9XQm8wNzdXXzVrUVBzOWZUN0dWeWJRcFRqUHRmOGZiN2ZSMDgxREhhUTRCZm3SAWpBVV95cUxPYjFFRjd1SXMtdG1YLU9uQm0yNnJfalh5c25iQXN1NEoyOHpjV2h4Mmh5Z0xhNmJhaUZnS3RjYmJWZWVUX2p1MHdYUS1rZUtPWTJnVEhpNnZCWEh4Smw1VDQwaENXdTVXOGxB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

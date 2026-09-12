@@ -14,7 +14,7 @@ permalink: /news/hydroxyprogesterone_caproate/
 ---
 
 <p class="key-answer" data-question="Hydroxyprogesterone caproate 有什麼相關新聞？">
-<strong>Hydroxyprogesterone caproate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyprogesterone caproate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/hydroxyprogesterone_caproate/
 <p><a href="{{ '/drugs/hydroxyprogesterone_caproate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [德里24歲男子不育檢查發現子宮，罕見持續性苗勒管綜合症揭示癌症風險](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
 
@@ -73,6 +73,14 @@ permalink: /news/hydroxyprogesterone_caproate/
 2026-09-07 <span class="news-indication-tag">癌症</span>
 
 來源：[觸mii](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZNURWNzJveVN2NExuNHZRRldnMnBJN054Z2tZNVYxY3dSQi1tUlFNUEV1cmtlZzFYWVVJMHNzYnYyNVJMS213VjBaMnFLYk9abEQyZ3c2QU16Q1lZY0J5eWtHdHJsc0x4ZFhXMw?oc=5)
+
+---
+
+### [50歲以下最致命癌症 大腸癌死亡率衝上榜首](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HcDZnemNlMUMxc0h0T3F0MEJvdDNGZUVyYnFISENVS0UtNDlEa2dOZDNUOWk0d01xNDZGZk52aDdCd2xycjZIRDVwM09jbExqeWlyWlVrQWJYcDVrT0I40gFkQVVfeXFMT0hXdG5XS1FlektEUW9QOTcyQTZLYmpxUk5YNEhJNXpjUTJ1T3VZOW9jZTVQeWlfZ3MzcGhTTy1CR1hCSTNETzdjVWRnX29VWW1Fa2ZyX3l5S09EeTR5Skdldl9uRg?oc=5)
+
+2026-09-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[大纪元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HcDZnemNlMUMxc0h0T3F0MEJvdDNGZUVyYnFISENVS0UtNDlEa2dOZDNUOWk0d01xNDZGZk52aDdCd2xycjZIRDVwM09jbExqeWlyWlVrQWJYcDVrT0I40gFkQVVfeXFMT0hXdG5XS1FlektEUW9QOTcyQTZLYmpxUk5YNEhJNXpjUTJ1T3VZOW9jZTVQeWlfZ3MzcGhTTy1CR1hCSTNETzdjVWRnX29VWW1Fa2ZyX3l5S09EeTR5Skdldl9uRg?oc=5)
 
 ---
 

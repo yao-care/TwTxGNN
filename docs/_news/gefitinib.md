@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [魚油能預防認知障礙？新研究：靠單一營養難防失智 關鍵在日常](https://news.google.com/rss/articles/CBMimgNBVV95cUxPZTRVS0V5UnhsRkNYU2poOVJRV1RubnlnYXNPVlNLLUE4U1RtNlVvWWtlZWk4RTVCRGgzNnVWbTVpMzMyemhWN19rVlUwMW5MLS1kQWY3Zjd4RG9pd2JfV1JGaUFqTFoxZ2oxUlJSS0stVU5ncldETDNPcGlIbnpicU1uYjZ6UU5JaVFXaTJ6MW50SzFBS1k1YnJSd185OTJWTVptMHAtaHJtTXpXemhubEFXZjlLbGRMVlhUaUtLb2NNejJyR1lLRFR2ei11RFp5a1ZqWGFXOVFjYkcxejVGZm8zMjdVa0NnN1NsMmhaaVJYTmhZQWNFMzJaYms4U1dhSFZvTm1XRFo4Z0xLSVdMWlkyblBlSndqT01CQUtBLWUyT0xVTWNySVJjZFJQTEZ4UHBva2ZsTW14emZoMWRJbllxR29nUGs0eTRmQW9pR3ZUaXhnSzl3UTFuaU5QVGQ4dDFQTFlBaXl4U18zbjE0MzJnSWc3YWVRSnVxWFB2QkVyem1UYVRGLVhtdGJ3N0dlZFZ5ZWYtRmw2UQ?oc=5)
+
+2026-09-12 <span class="news-indication-tag">失智</span>
+
+來源：[香港01](https://news.google.com/rss/articles/CBMimgNBVV95cUxPZTRVS0V5UnhsRkNYU2poOVJRV1RubnlnYXNPVlNLLUE4U1RtNlVvWWtlZWk4RTVCRGgzNnVWbTVpMzMyemhWN19rVlUwMW5MLS1kQWY3Zjd4RG9pd2JfV1JGaUFqTFoxZ2oxUlJSS0stVU5ncldETDNPcGlIbnpicU1uYjZ6UU5JaVFXaTJ6MW50SzFBS1k1YnJSd185OTJWTVptMHAtaHJtTXpXemhubEFXZjlLbGRMVlhUaUtLb2NNejJyR1lLRFR2ei11RFp5a1ZqWGFXOVFjYkcxejVGZm8zMjdVa0NnN1NsMmhaaVJYTmhZQWNFMzJaYms4U1dhSFZvTm1XRFo4Z0xLSVdMWlkyblBlSndqT01CQUtBLWUyT0xVTWNySVJjZFJQTEZ4UHBva2ZsTW14emZoMWRJbllxR29nUGs0eTRmQW9pR3ZUaXhnSzl3UTFuaU5QVGQ4dDFQTFlBaXl4U18zbjE0MzJnSWc3YWVRSnVxWFB2QkVyem1UYVRGLVhtdGJ3N0dlZFZ5ZWYtRmw2UQ?oc=5)
+
+---
 
 ### [德里24歲男子不育檢查發現子宮，罕見持續性苗勒管綜合症揭示癌症風險](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
 
@@ -91,11 +99,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [健康網》研究：「鋰」可能預防失智 如何應用仍待努力](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yX1ItNmwtLTFPdVhGel84WXVneDUyNm1yMzRTQXFucXRjQWJlMEJNTGE5R0Q1dW9XQm8wNzdXXzVrUVBzOWZUN0dWeWJRcFRqUHRmOGZiN2ZSMDgxREhhUTRCZm3SAWpBVV95cUxPYjFFRjd1SXMtdG1YLU9uQm0yNnJfalh5c25iQXN1NEoyOHpjV2h4Mmh5Z0xhNmJhaUZnS3RjYmJWZWVUX2p1MHdYUS1rZUtPWTJnVEhpNnZCWEh4Smw1VDQwaENXdTVXOGxB?oc=5)
+### [50歲以下最致命癌症 大腸癌死亡率衝上榜首](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HcDZnemNlMUMxc0h0T3F0MEJvdDNGZUVyYnFISENVS0UtNDlEa2dOZDNUOWk0d01xNDZGZk52aDdCd2xycjZIRDVwM09jbExqeWlyWlVrQWJYcDVrT0I40gFkQVVfeXFMT0hXdG5XS1FlektEUW9QOTcyQTZLYmpxUk5YNEhJNXpjUTJ1T3VZOW9jZTVQeWlfZ3MzcGhTTy1CR1hCSTNETzdjVWRnX29VWW1Fa2ZyX3l5S09EeTR5Skdldl9uRg?oc=5)
 
-2026-09-05 <span class="news-indication-tag">失智</span>
+2026-09-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yX1ItNmwtLTFPdVhGel84WXVneDUyNm1yMzRTQXFucXRjQWJlMEJNTGE5R0Q1dW9XQm8wNzdXXzVrUVBzOWZUN0dWeWJRcFRqUHRmOGZiN2ZSMDgxREhhUTRCZm3SAWpBVV95cUxPYjFFRjd1SXMtdG1YLU9uQm0yNnJfalh5c25iQXN1NEoyOHpjV2h4Mmh5Z0xhNmJhaUZnS3RjYmJWZWVUX2p1MHdYUS1rZUtPWTJnVEhpNnZCWEh4Smw1VDQwaENXdTVXOGxB?oc=5)
+來源：[大纪元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HcDZnemNlMUMxc0h0T3F0MEJvdDNGZUVyYnFISENVS0UtNDlEa2dOZDNUOWk0d01xNDZGZk52aDdCd2xycjZIRDVwM09jbExqeWlyWlVrQWJYcDVrT0I40gFkQVVfeXFMT0hXdG5XS1FlektEUW9QOTcyQTZLYmpxUk5YNEhJNXpjUTJ1T3VZOW9jZTVQeWlfZ3MzcGhTTy1CR1hCSTNETzdjVWRnX29VWW1Fa2ZyX3l5S09EeTR5Skdldl9uRg?oc=5)
 
 ---
 

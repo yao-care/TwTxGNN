@@ -48,7 +48,7 @@ permalink: /news/dipyridamole/
 
 2026-09-11 <span class="news-indication-tag">中風</span>
 
-來源：[三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zZkdjRS1sVHRyUDJnZW9OZUtGQ1JCVjFvZHFudHhXaVVVaGRjUG1lVmFUYlBtcVNrOXU5c18zcGVockVNNkVzelAwSkk?oc=5)
+來源：[health.setn.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zZkdjRS1sVHRyUDJnZW9OZUtGQ1JCVjFvZHFudHhXaVVVaGRjUG1lVmFUYlBtcVNrOXU5c18zcGVockVNNkVzelAwSkk?oc=5)
 
 ---
 

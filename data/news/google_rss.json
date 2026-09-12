@@ -1,24 +1,12 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-09-12T07:28:06.030855+00:00",
-  "count": 51,
+  "fetched_at": "2026-09-12T11:48:46.008152+00:00",
+  "count": 52,
   "news": [
-    {
-      "id": "4965cc56034e",
-      "title": "HPV疫苗不只防子宮頸癌！感染率降88%，男性接種也能降低相關癌症風險 - Yahoo新聞",
-      "published": "2026-09-12T01:39:22+00:00",
-      "summary": "HPV疫苗不只防子宮頸癌！感染率降88%，男性接種也能降低相關癌症風險&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPbHZUMng3dDJISmRlR1J5THN2SWVjV01MV0tQLUoxQmd2WmRzR1VBTkx2TEEzY29PWFUzQkl4dUs5SFhqUWxBNkh1ZGVUeVRIUnl5UDBMWjgyTTQ0Z1hzc3NMaXc2NjZpYWVlb0t0R20yV2NycnMzYjRCOXdnc3VSeHhzbm1FS2ZsUEVPOUNZeVBBYjNlQ0VJZEpuYUtUQjEtZEpBbGdhYWl4emt3Z3hoN1hfVXVRZ1IwUmJHMmRRbVFvQ2xaY2dwUWx3cURsU3daQnVXUExvSnZMZlExdFJiSTdUcXd5ckwyamtlYi1PM2x1ZWFUaFN3dmhpelFIMXQxTjc0SUUxckFBTEZXR0JmUlVaZjVKT3E0SS1XREdvWXFwSFhxQlgyaVIzWUJaTkF3dGlObUFJVVlaSTVZMUVtTFlyaWlpN3FZX21QV2kxUm5sdWV0TDhld1pzbFQtSU11WTNxZGdyVDF4X0xQVGlKd2NHY1duMEk4a25GeEp6QTJ4UTIxZ2t5aWt0Q0RocGtNT1pRNTdxOWUzbUxXaGVRZA?oc=5"
-        }
-      ]
-    },
     {
       "id": "f75117df5ebb",
       "title": "維他命貼片真有效？ 研究顯示吸收效果仍有限 | 中央廣播電臺 - LINE TODAY",
-      "published": "2026-09-12T05:24:47+00:00",
+      "published": "2026-09-12T07:24:24+00:00",
       "summary": "維他命貼片真有效？ 研究顯示吸收效果仍有限 | 中央廣播電臺&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -28,26 +16,26 @@
       ]
     },
     {
-      "id": "df418187977b",
-      "title": "研究警告：睡覺做1事超傷心臟 中風風險還會上升 - 三立新聞",
+      "id": "a063e26b8b1f",
+      "title": "研究警告：睡覺做1事超傷心臟 中風風險還會上升 - health.setn.com",
       "published": "2026-09-11T14:56:36+00:00",
-      "summary": "研究警告：睡覺做1事超傷心臟 中風風險還會上升&nbsp;&nbsp;三立新聞",
+      "summary": "研究警告：睡覺做1事超傷心臟 中風風險還會上升&nbsp;&nbsp;health.setn.com",
       "sources": [
         {
-          "name": "三立新聞",
+          "name": "health.setn.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zZkdjRS1sVHRyUDJnZW9OZUtGQ1JCVjFvZHFudHhXaVVVaGRjUG1lVmFUYlBtcVNrOXU5c18zcGVockVNNkVzelAwSkk?oc=5"
         }
       ]
     },
     {
-      "id": "fd95776468c1",
-      "title": "自由開講》公費皮蛇疫苗，也是守護長照與健保的重要防線 - 自由評論網",
-      "published": "2026-09-12T01:00:00+00:00",
-      "summary": "自由開講》公費皮蛇疫苗，也是守護長照與健保的重要防線&nbsp;&nbsp;自由評論網皮蛇、唇疱疹恐成失智警訊！跨國研究揭：抗病毒治療降失智風險&nbsp;&nbsp;Yahoo新聞43歲男身體疲勞以為感冒 突冒水泡刺痛揭生蛇 中醫治療2周完全康復｜附清熱解毒湯水&nbsp;&nbsp;星島頭條《長青俱樂部26》多打一針，少一場要命的病&nbsp;&nbsp;anntw.com「皮蛇」最怕後遺症？高危險群外用藥膏對神經痛完全無效！72 小時內就醫是關鍵&nbsp;&nbsp;Heho健康",
+      "id": "4965cc56034e",
+      "title": "HPV疫苗不只防子宮頸癌！感染率降88%，男性接種也能降低相關癌症風險 - Yahoo新聞",
+      "published": "2026-09-12T01:39:22+00:00",
+      "summary": "HPV疫苗不只防子宮頸癌！感染率降88%，男性接種也能降低相關癌症風險&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "自由評論網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JU09TWllfYm9HTmtlQ19GNUp3RndndC1xbXFzOVUtYmtObXpqV0xab0cyMUhHZVNibC0wcXFkMkQ2cVAyWGJwc0wxZFpURDF0NDExNXlyYWRCY3NJdF9hM2RR0gFnQVVfeXFMUGFMZ3c1bkRSUER0NHhrNHBhMm9BT1JkUy1vOUhXc1NXaklyNUtsNVQ4bzFJTllHWlB0M213SmlhTlRDT1hMVnNaYlJnVkEtaWRoY09GMHNPQmxXZTlqaE96QzlMbmthNA?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPbHZUMng3dDJISmRlR1J5THN2SWVjV01MV0tQLUoxQmd2WmRzR1VBTkx2TEEzY29PWFUzQkl4dUs5SFhqUWxBNkh1ZGVUeVRIUnl5UDBMWjgyTTQ0Z1hzc3NMaXc2NjZpYWVlb0t0R20yV2NycnMzYjRCOXdnc3VSeHhzbm1FS2ZsUEVPOUNZeVBBYjNlQ0VJZEpuYUtUQjEtZEpBbGdhYWl4emt3Z3hoN1hfVXVRZ1IwUmJHMmRRbVFvQ2xaY2dwUWx3cURsU3daQnVXUExvSnZMZlExdFJiSTdUcXd5ckwyamtlYi1PM2x1ZWFUaFN3dmhpelFIMXQxTjc0SUUxckFBTEZXR0JmUlVaZjVKT3E0SS1XREdvWXFwSFhxQlgyaVIzWUJaTkF3dGlObUFJVVlaSTVZMUVtTFlyaWlpN3FZX21QV2kxUm5sdWV0TDhld1pzbFQtSU11WTNxZGdyVDF4X0xQVGlKd2NHY1duMEk4a25GeEp6QTJ4UTIxZ2t5aWt0Q0RocGtNT1pRNTdxOWUzbUxXaGVRZA?oc=5"
         }
       ]
     },
@@ -64,14 +52,14 @@
       ]
     },
     {
-      "id": "e086829d9787",
-      "title": "歐洲高溫助長蚊蟲傳播 荷蘭西尼羅病毒釀3死18染疫 - 民視新聞網",
-      "published": "2026-09-10T10:02:27+00:00",
-      "summary": "歐洲高溫助長蚊蟲傳播 荷蘭西尼羅病毒釀3死18染疫&nbsp;&nbsp;民視新聞網荷蘭通報3例西尼羅病毒死亡病例 當前暫無獲批疫苗、特效藥&nbsp;&nbsp;香港商报歐洲高溫助長蚊蟲傳播 荷蘭西尼羅病毒釀3死18染疫 | 民視新聞網&nbsp;&nbsp;LINE TODAY本土西尼羅病毒感染病例增至18宗 3人死亡&nbsp;&nbsp;on.cc東網荷蘭已有3人因感染西尼羅病毒死亡- 國際&nbsp;&nbsp;香港文匯報",
+      "id": "fd95776468c1",
+      "title": "自由開講》公費皮蛇疫苗，也是守護長照與健保的重要防線 - 自由評論網",
+      "published": "2026-09-12T01:00:00+00:00",
+      "summary": "自由開講》公費皮蛇疫苗，也是守護長照與健保的重要防線&nbsp;&nbsp;自由評論網皮蛇、唇疱疹恐成失智警訊！跨國研究揭：抗病毒治療降失智風險&nbsp;&nbsp;Yahoo新聞43歲男身體疲勞以為感冒 突冒水泡刺痛揭生蛇 中醫治療2周完全康復｜附清熱解毒湯水&nbsp;&nbsp;星島頭條《長青俱樂部26》多打一針，少一場要命的病&nbsp;&nbsp;anntw.com「皮蛇」最怕後遺症？高危險群外用藥膏對神經痛完全無效！72 小時內就醫是關鍵&nbsp;&nbsp;Heho健康",
       "sources": [
         {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zaDRHeDVqWlduYmxRVVRjSERRXy1zR3BRbVVaM1J6Z2c4ZXZYY09ObU1CWW42T2IwQTZRdlllTFplenBBZ2JGUC1GYUdIUjFhbDVOby1xVFVFcE9MdnpLTw?oc=5"
+          "name": "自由評論網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JU09TWllfYm9HTmtlQ19GNUp3RndndC1xbXFzOVUtYmtObXpqV0xab0cyMUhHZVNibC0wcXFkMkQ2cVAyWGJwc0wxZFpURDF0NDExNXlyYWRCY3NJdF9hM2RR0gFnQVVfeXFMUGFMZ3c1bkRSUER0NHhrNHBhMm9BT1JkUy1vOUhXc1NXaklyNUtsNVQ4bzFJTllHWlB0M213SmlhTlRDT1hMVnNaYlJnVkEtaWRoY09GMHNPQmxXZTlqaE96QzlMbmthNA?oc=5"
         }
       ]
     },
@@ -88,6 +76,18 @@
       ]
     },
     {
+      "id": "448c17c116eb",
+      "title": "荷蘭通報3例西尼羅病毒死亡病例 當前暫無獲批疫苗、特效藥 - 香港商报",
+      "published": "2026-09-11T04:30:00+00:00",
+      "summary": "荷蘭通報3例西尼羅病毒死亡病例 當前暫無獲批疫苗、特效藥&nbsp;&nbsp;香港商报前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "香港商报",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zQnFzNl9LQVZNYm5QeDNLa1NQU2swaU1SeEZ3dUNIOGtXOHd5czRRdHRETXR0OWJYVjkwNXEtTTl1WlM5UGp1Uzd1cEdfSmc2SU9PUlhpSTJfM0t5WlBTbVJQZ0JxdzJUeDVmQXpCNEFrUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "789ab8437f18",
       "title": "50歲後不只要看體重！腹部肥胖又缺維生素D 研究：死亡風險高123％ - 食力 foodNEXT",
       "published": "2026-09-11T14:01:51+00:00",
@@ -100,14 +100,14 @@
       ]
     },
     {
-      "id": "9689ad203f18",
+      "id": "9a095fb1361b",
       "title": "暑假結束蚊蟲仍活躍！剛開學家長挑選防蚊產品先看三件事 | 時尚生活 | 商情 - 經濟日報",
       "published": "2026-09-11T08:00:54+00:00",
       "summary": "暑假結束蚊蟲仍活躍！剛開學家長挑選防蚊產品先看三件事 | 時尚生活 | 商情&nbsp;&nbsp;經濟日報",
       "sources": [
         {
           "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96Zy1UN2FvOC1GcHhwc2c4UGpiQl84akk4bHB3QUlXcVN2ai0wTkRscFM3MWJEY0VzZGh4TlNCM3lrY0ducGxYYTRqMkh5OXNGOC1kSkNUTDNqRXZpTzY4Y2lCRHZzOTl6d2Y1VGpiaDU3ZkU1dGJKSl8wMUU?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSNTdFa2ZhNnhHb3ppTG9NV1Y2amVHSDNHVUt5ZG55TWh6OUpNRmx0NV9tTG1CX1JRc19LUDhIRTFLbE5XX1RIenZxY0t5SmV5ZGlWRlJybm45NEFqeV8zRjZVUnRjRDJfLUZUWDFlMXhmVFRjZlZV?oc=5"
         }
       ]
     },
@@ -172,6 +172,18 @@
       ]
     },
     {
+      "id": "17e680ccf1ff",
+      "title": "魚油能預防認知障礙？新研究：靠單一營養難防失智 關鍵在日常 - 香港01",
+      "published": "2026-09-12T09:00:37+00:00",
+      "summary": "魚油能預防認知障礙？新研究：靠單一營養難防失智 關鍵在日常&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPZTRVS0V5UnhsRkNYU2poOVJRV1RubnlnYXNPVlNLLUE4U1RtNlVvWWtlZWk4RTVCRGgzNnVWbTVpMzMyemhWN19rVlUwMW5MLS1kQWY3Zjd4RG9pd2JfV1JGaUFqTFoxZ2oxUlJSS0stVU5ncldETDNPcGlIbnpicU1uYjZ6UU5JaVFXaTJ6MW50SzFBS1k1YnJSd185OTJWTVptMHAtaHJtTXpXemhubEFXZjlLbGRMVlhUaUtLb2NNejJyR1lLRFR2ei11RFp5a1ZqWGFXOVFjYkcxejVGZm8zMjdVa0NnN1NsMmhaaVJYTmhZQWNFMzJaYms4U1dhSFZvTm1XRFo4Z0xLSVdMWlkyblBlSndqT01CQUtBLWUyT0xVTWNySVJjZFJQTEZ4UHBva2ZsTW14emZoMWRJbllxR29nUGs0eTRmQW9pR3ZUaXhnSzl3UTFuaU5QVGQ4dDFQTFlBaXl4U18zbjE0MzJnSWc3YWVRSnVxWFB2QkVyem1UYVRGLVhtdGJ3N0dlZFZ5ZWYtRmw2UQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9976d4fc7888",
       "title": "同樣打流感疫苗保護力有差？研究：高劑量疫苗讓這類人住院風險更低 - 元氣網",
       "published": "2026-09-10T06:37:39+00:00",
@@ -184,49 +196,49 @@
       ]
     },
     {
-      "id": "cb0f83aebb0d",
-      "title": "長期疼痛為何會被轉診精神科？醫揭「跨專科治療原因」 - 民視新聞網",
-      "published": "2026-09-10T11:00:00+00:00",
-      "summary": "長期疼痛為何會被轉診精神科？醫揭「跨專科治療原因」&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qX0xYZGp6LURWMVNOUzkwazg5LXVoU2txSl9GdktHSmVYRVFaYzhKOUpua3NtLW5uaXdtMUcxek5FOV9NSU9hQllfWFN0eGVHcm9BcjAxTmkzZmdkLWx5MA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7400e544d3ce",
-      "title": "洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」 - 健康醫療網",
-      "published": "2026-09-10T01:00:00+00:00",
-      "summary": "洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」&nbsp;&nbsp;健康醫療網",
+      "id": "0ec5d2ddb400",
+      "title": "長期疼痛為何會被轉診精神科？醫揭「跨專科治療原因」 - 健康醫療網",
+      "published": "2026-09-10T04:00:00+00:00",
+      "summary": "長期疼痛為何會被轉診精神科？醫揭「跨專科治療原因」&nbsp;&nbsp;健康醫療網",
       "sources": [
         {
           "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxSWdSSWJkMUQ4V0ppbVpFX05lZ2lXVmtGZVdNLVFyZmEyS2x3cENNTUhYaXlyUGwyLWN0X3VKWm5KTnh5VkNSOW0wX3JNTWh0Q1pRcVhB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzdldvTm44ZUhxQUlIRVVJN3NGeEE0U1FIenVVU0otUzRtUWdzaklTS2pCZUo2MnpQdUU5a3RiMGJSRjF5cUM4ZEtvNzZNcWdpSWwySS13?oc=5"
         }
       ]
     },
     {
-      "id": "c59fc2735a07",
-      "title": "男怕染性病狂洗小弟弟！下場慘了 醫揭密 - 鏡週刊Mirror Media",
-      "published": "2026-09-10T11:14:00+00:00",
-      "summary": "男怕染性病狂洗小弟弟！下場慘了 醫揭密&nbsp;&nbsp;鏡週刊Mirror Media",
+      "id": "9f8f56026204",
+      "title": "洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」 - Yahoo新聞",
+      "published": "2026-09-10T01:37:42+00:00",
+      "summary": "洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ndXJTWVhrTUhQMjc1UVlXeXVQVVZsRXpzM3RHX1NsNmNwQ2d4eEhPWThSVm1SbC1UUng3d295Vm9STmJHcDZTRWpxRmpXb0VXY18yUlpsRzFpUVhh0gFiQVVfeXFMUDdQVXdTZEVWUW51S0xoWGN6NVlyMFpwNnhFOHhSdVJNOWpUNW5UZnN1eVd2eVJCTVpHbzJSeThVWDlpRnBCUWlLcEtaQi1fLUlNckhoR0JWNVF3SWZJRUZxVXc?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQSVAzNTl5N1BoZ2tlM1FNNDdiQ2hPZ3VnaVpjYjIxeWduNkxxRzNKZnpsMzNqZFVYNWNYVHJjaXpxUlZIbGFpWTMtSk52a21qQTFaQ2pINjFfRzBibDFPNXFxa1JxWUdWanhfMVdoWDhJTlBQYW40YklSeWdjUlljTlRJVmV4dUZ2X0YyZDU1NTRyQ1U1MzFFdTlyNHJzNHV6T2xMZ3h4UkstOUw0Vmhhb2EzSVVNTzBab3YxWG1kX3RjeVpCSUc1a2RBMFBUS3NER01MbTVQUDgtdUY1TmJHN2pzMkZRMGI2SkNFaUtyRWJVclJ3bU9lcG5fbmV6X2N6NzJBa2x1Q2d4dXFFMk9nNUNTaUZKSDhzOUxjTkRiOUhSYmUwVWwzOERrQUFIclZ1NlRPQXBkZUtuamZlWjYtRV9rTC1TUUJGaFl3Y2IxV1NUcGYyS29aVw?oc=5"
         }
       ]
     },
     {
-      "id": "ed0e5232bdfa",
-      "title": "妻長「菜花」遭夫控外遇 醫師：HPV檢查不是感情測謊機 - news.nextapple.com",
+      "id": "bd7b3edd040d",
+      "title": "單一伴侶就沒事？揭開性病迷思 - 東森新聞",
+      "published": "2026-09-09T01:13:00+00:00",
+      "summary": "單一伴侶就沒事？揭開性病迷思&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTcm1lcjJJRVhIS3VkWWYxODB3eGdSN2xXSEdmNWdnbi0tbWF6bC1US2lqQkcxWFB5d1lCVkN6c2c2Vy1qM1pJWHU2V0Zrdl9KRERSbQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "54ad404143ae",
+      "title": "妻長「菜花」遭夫控外遇 醫師：HPV檢查不是感情測謊機 - 壹蘋新聞網",
       "published": "2026-09-09T07:12:00+00:00",
-      "summary": "妻長「菜花」遭夫控外遇 醫師：HPV檢查不是感情測謊機&nbsp;&nbsp;news.nextapple.com人妻長菜花被尪認定出軌提告 名醫：HPV檢查非感情測謊機、但感情散了就是散了&nbsp;&nbsp;鏡週刊Mirror Media人妻長菜花被尪提告！喊沒外遇「女廁馬桶水濺到」醫吐真相&nbsp;&nbsp;Yahoo新聞婚後突長菜花被尪疑出軌！婦喊「沒第三者」求助蘇怡寧 答案曝光 | Newtalk&nbsp;&nbsp;LINE TODAY蕾菈曝「HPV陽性≠出軌證據」！ 列5大迷思：不是病毒身分證&nbsp;&nbsp;star.ettoday.net",
+      "summary": "妻長「菜花」遭夫控外遇 醫師：HPV檢查不是感情測謊機&nbsp;&nbsp;壹蘋新聞網人妻長菜花被尪認定出軌提告 名醫：HPV檢查非感情測謊機、但感情散了就是散了&nbsp;&nbsp;鏡週刊Mirror Media人妻長菜花被尪提告！喊沒外遇「女廁馬桶水濺到」醫吐真相&nbsp;&nbsp;Yahoo新聞婚後突長菜花被尪疑出軌！婦喊「沒第三者」求助蘇怡寧 答案曝光 | Newtalk&nbsp;&nbsp;LINE TODAY蕾菈曝「HPV陽性≠出軌證據」！ 列5大迷思：不是病毒身分證&nbsp;&nbsp;ETtoday星光雲",
       "sources": [
         {
-          "name": "news.nextapple.com",
+          "name": "壹蘋新聞網",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtNVF3SWNNSkdpVnc1TkxTMEZCUGJfR3RqNmRybjdFR01GV3J3U1YtVjdKalhaRzlZNG5HeXVGNTI5dFVGb0F5Y2QzTExxT2ZOMjFVcnFoMzY5cDRFNlh6M19iYTMwWTFseG1vRUJYZVBvWTJPSDluN0NybzlmZw?oc=5"
         }
       ]
@@ -244,14 +256,14 @@
       ]
     },
     {
-      "id": "21a0da611979",
-      "title": "59歲女星腸阻塞入院驚患三期大腸癌！悔喊忽視體檢：曾以為我很健康 - U Food",
-      "published": "2026-09-10T10:08:34+00:00",
-      "summary": "59歲女星腸阻塞入院驚患三期大腸癌！悔喊忽視體檢：曾以為我很健康&nbsp;&nbsp;U Food",
+      "id": "0070e1846a64",
+      "title": "日本女星不健檢後悔了59歲腸阻塞入院確診大腸癌- 健康 - 中時新聞網",
+      "published": "2026-09-09T06:52:59+00:00",
+      "summary": "日本女星不健檢後悔了59歲腸阻塞入院確診大腸癌- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "U Food",
-          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOUjNNME03cTBCcHQtU2doa3VhWU1nOHdTencwU3NGVkFnSWs5R0ZMTlh4b0JOT1BKcS1LaHdhN2ZtNmU5RnEtSHhnNHl1SVFGVE1jMEFGSEpaWFNMNngxWnczYkVGOEVCNFp4WVFManBsYUZJWnktSXJnYVFfdVVaS0pwbHFxUElMTG9hOG1JNHhnWGxPbEF1S1RjZ2xPQkZwd2pkVHhaaHlKdUNUcEJiLW1TVVJreDVwOXduLVpaNGVXSm5VU1BMdUcwRWFwS2R0UnJ6c0RqQ1h4YU5iQkxDZUdhdW9qeEFic3lxNGp1QnF6NTlUZGF6ekI1SUpPaXY4OW9uY1RGSDNqX0JOWjR3ZXAxVllLbFA3NW1WRTIwOXdaUTRQeTdXcFJLeWRnWGRPVUREeDVYT0NZclFfUEhhUHFlbmpJUHo0Qno1dG5Yem1mbTctTS1SN0ZTZFZpU3Q4dFJ2SGtHRUFJaXVlYzN2R2VpazlsMlNMMGRoVGQteHl2MElXSmVvSENZdXNGM1pEcmxpeEJjbmJ2bHJYVFdUVXg1Z2IzRW9LTGs1OUFkV3pjZFFTREE?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zVllyWHJqUnI1b0xKbDc3aXptNkw5MGxyNXQyWDU3eDdCNk1wbnREOUdHMjVSUWNGd0xOT19oZTdqV0hyZVNUd0o1OHhqM0tfYm43SUJWUi1sVkJzWVRwbEIxaEl0X3dlN3dPR0ZB?oc=5"
         }
       ]
     },
@@ -328,26 +340,14 @@
       ]
     },
     {
-      "id": "eb798ce2f1d9",
-      "title": "2026長壽藥與增肌的衝突：二甲雙胍如何削弱重訓成果的科學真相 - 報新聞",
+      "id": "ba0e10e23b2e",
+      "title": "2026長壽藥與增肌的衝突：二甲雙胍如何削弱重訓成果的科學真相 - contentplatform.info",
       "published": "2026-09-08T08:05:21+00:00",
-      "summary": "2026長壽藥與增肌的衝突：二甲雙胍如何削弱重訓成果的科學真相&nbsp;&nbsp;報新聞",
+      "summary": "2026長壽藥與增肌的衝突：二甲雙胍如何削弱重訓成果的科學真相&nbsp;&nbsp;contentplatform.info",
       "sources": [
         {
-          "name": "報新聞",
+          "name": "contentplatform.info",
           "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNWERuX1VJWHNOemYySFZ1cG4yU0M2Y3hpUlJYYnZXYzNXU21PWXJxY1l5dkw3SXBRUmRCWVg2a0J4UDMwbTJzNHJOdldZcFJDemRnUmd4dVRrWF92bUU5SzY5VUhRaVlDb2FPS3dLUHlLT2J4c1V5bENILWRuS1J3OFFfNEx3elZEV2FuZUhpcFpPTXllOUdFdGZnSE9qbUV0Wm9OeGlROU5qaXg5Tmt1NjFWblVRVDRlSE1tNGVYSG5reUVjSjNRYWVwWHFPMVUxeDJXX1gyY1h1a2RZTk9mYWhLTC1ta0NybU95T0l3VEs4N0JOMVU2Y2NlT0VLSlUwZ291TEk2eHBpS1pVck1TMGR0bG9Wc2cxVjIxMk9sOEFzZVRNbTllWmZSZGstT2lkcThybzdaWkJZd3Y3aDh0ZDNyN1dwNzR5dDZIVlA5bFpOM2trbEg4NTZsYXkwWGVJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8735d1f6aa19",
-      "title": "健康網》研究：「鋰」可能預防失智 如何應用仍待努力 - 自由健康網",
-      "published": "2026-09-05T09:17:00+00:00",
-      "summary": "健康網》研究：「鋰」可能預防失智 如何應用仍待努力&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yX1ItNmwtLTFPdVhGel84WXVneDUyNm1yMzRTQXFucXRjQWJlMEJNTGE5R0Q1dW9XQm8wNzdXXzVrUVBzOWZUN0dWeWJRcFRqUHRmOGZiN2ZSMDgxREhhUTRCZm3SAWpBVV95cUxPYjFFRjd1SXMtdG1YLU9uQm0yNnJfalh5c25iQXN1NEoyOHpjV2h4Mmh5Z0xhNmJhaUZnS3RjYmJWZWVUX2p1MHdYUS1rZUtPWTJnVEhpNnZCWEh4Smw1VDQwaENXdTVXOGxB?oc=5"
         }
       ]
     },
@@ -388,18 +388,6 @@
       ]
     },
     {
-      "id": "bc4e7c38efc7",
-      "title": "蚊子改變作息規避蚊帳 新型工具帶來防瘧希望 - 大纪元",
-      "published": "2026-09-10T13:38:00+00:00",
-      "summary": "蚊子改變作息規避蚊帳 新型工具帶來防瘧希望&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ENS0wU3dFZXlsNnJnZFppQ1pZZHduN3VONklGLVVUMFdkdk85YnlkYlI1dm93V2syMUNrSnZObFJtZU1USm85RGVyeTgwZG5fQnhXc3MwWG1jemx0QXNLaNIBZkFVX3lxTE16M0N5bDMydklOT0p0V3ZFMkdSXzYwUlJmT2JfTllMUjJqU2QxVVFnUzdpaVJuUXVVdHVBRlc3WnBoQl9zTXFKbGhrQV9mQWphdjY2RldnTS1hZm5PclZHNExpQjUyUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "02ad8d4d6888",
       "title": "自閉症患者投保難？前保險高層批「行規」拒保 業界倡建核保標準與法例保障 - 香港經濟日報HKET",
       "published": "2026-09-12T02:00:00+00:00",
@@ -408,6 +396,18 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNTnJnY3FxcXhKUEVyLV9vZHlyVnRkdDRSM0lkT0V0Wnp2dkd1TDVjTmVUZ2lsYzdoWXlfVlRPN0pycXFCMDlSUTY1N1I3THE3M09hUHRYRFhOX2F3S0cwNTdFMXlXSWtOa0REUGV5Q3dJSjNKenlmUE1wal9YVmxwZ2JLRGppemxueWlrTW8tN29TazMxbzFQMUY1VU0xVXZkRUdDUVFUZTZGaFBpaG5VOFphNjl6cm04azdIWVZXYVZBQXhKcTVkRnBNUGw3dmllQklHby1DWm12ek8wOGJVR25wM2JLcE9GSDh3S3JLajBLbGtLTVRfUS1SQkE2XzVBWkVJTERfdlRqVDhQWE1GTW14SWsxcWE1ay11dzFIYzNnMmNKNFcweFRfOWhDcEUzUTZMMDlnOFB3LTBWc3laRUJYWTRiWFhBMFVETXlWQXhkd2s1TjM2cHhIcU5Rc0hYTUJpUG92TEx2TVBKd3VaQ1RuMExVZVBZdzFQT3RkYlJMQkltejBPNE43clliNlVyYWR1Y2NQMWhkQzJhbllnYkF4clRoY2tkOWpjQU5LZ0drZU43NUJSeHpQZGl6RTRTX2hqQXVGaEpXdkRaN1JGcTJyc042dGNKQWtWVWFFWk9RSFJrQldiZno0Z0tEZ1g1S2VuNkNR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bc4e7c38efc7",
+      "title": "蚊子改變作息規避蚊帳 新型工具帶來防瘧希望 - 大纪元",
+      "published": "2026-09-10T13:38:00+00:00",
+      "summary": "蚊子改變作息規避蚊帳 新型工具帶來防瘧希望&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ENS0wU3dFZXlsNnJnZFppQ1pZZHduN3VONklGLVVUMFdkdk85YnlkYlI1dm93V2syMUNrSnZObFJtZU1USm85RGVyeTgwZG5fQnhXc3MwWG1jemx0QXNLaNIBZkFVX3lxTE16M0N5bDMydklOT0p0V3ZFMkdSXzYwUlJmT2JfTllMUjJqU2QxVVFnUzdpaVJuUXVVdHVBRlc3WnBoQl9zTXFKbGhrQV9mQWphdjY2RldnTS1hZm5PclZHNExpQjUyUQ?oc=5"
         }
       ]
     },
@@ -424,18 +424,6 @@
       ]
     },
     {
-      "id": "7348e9ec2f3f",
-      "title": "皰疹病毒︱30歲女「爛嘴角」以為熱氣 1致命病毒上腦奪命 醫生警告3情況病毒易乘虛而入 - 香港經濟日報HKET",
-      "published": "2026-09-10T10:21:16+00:00",
-      "summary": "皰疹病毒︱30歲女「爛嘴角」以為熱氣 1致命病毒上腦奪命 醫生警告3情況病毒易乘虛而入&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiwARBVV95cUxOdjd3Skd5Yl9NSDdTY2l1WDY1b1Q5bjZ0NzdmLXlBOFhlWjc3ZFNHYzRpd3hZbElQcnBONUhlb24xZmZHVHFrSjRVRWRFeHJtUzZQWEp0dlNYSmdNSmtmZFNGWW5oWE55elVKZnh0aHRlaGE2TkNDTVF6ZG83WGFMR1k4VDRJUF9IcEViUTJxVlZxZXBIWFlnY2s5VGZZY0RYWllIWDB3cGdHb0h5U1d6R3lIZG9rbXhENmlrSTZnNndYbVZENUFtQi1tcHpsa2poTU1wMmhuRG1hUDBaNG55UVVHRnJZaDRXQ0tPbHlVU21VelV3YV9xNmFuSjNrb29lRjBZT1g5TTdiTFM2WWEta0t0OEVBeU9xdEJtSmNYU1NDTDBZQTNlb291LVpJczhhRjJ4dzBjNTBrdmhMUkRrbS1MV0lUaWhMQWtuYVB5a3VxVnQ0Ry1ySmxQZzNRS3ZFWVUtbENZVjJMaFEwZkRscTZBZld6cDQ0WThmbFBNWWM0WnVENFN6c1hNVW4xR2dfcGp5Wm9lT2dkb3JkZTJrbUdOcGVPRXhqQkZ2VmIzLVpnOWN6WWdPTHNBTlBKQnlFeTQ1N3Y0YVpxMzhXZGI2M2pfOXVoTmtKWVF3TV92blJ5dTVzcWxIZmo0YW91YWthQVhFVVN6Mml5RmpaZmtIeWh2Rm5nWUJPRjhnbG5kSGtScmtwZnFpRlN0WmpkSlE0TmYtQUZONzFMOUNVdVJXcXdvTnNaMW5sQ2xFOG5iUGo?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7dcd133314ae",
       "title": "屹立百年 貝克研究所挽救無數病患 - 大纪元",
       "published": "2026-09-07T12:50:00+00:00",
@@ -444,6 +432,18 @@
         {
           "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpVy1zeUJYVHB0YXBDYUt3M2N2SlhZWl9HTGdoVjFSM2NtSHJ0ZHdlNVVaYlVMR0tydUtLTkV6MlhqV1IwbC1LVkZtaGxQb19mYmNPZjY3eUdXWDc3aDVZ0gFkQVVfeXFMT0o0U3J2RS1teVBRSklFMFpYMTltUS1wVGVNQXdvejZwZ2g4aE1TYlVqajF2V09idDF0MV9nb0JNR21BQnl5dEppaWpPYk8zdnlxUFE2T0hYOXpPRC1RUXNRNFI4bQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3edc40f5487f",
+      "title": "50歲以下最致命癌症 大腸癌死亡率衝上榜首 - 大纪元",
+      "published": "2026-09-06T15:00:00+00:00",
+      "summary": "50歲以下最致命癌症 大腸癌死亡率衝上榜首&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HcDZnemNlMUMxc0h0T3F0MEJvdDNGZUVyYnFISENVS0UtNDlEa2dOZDNUOWk0d01xNDZGZk52aDdCd2xycjZIRDVwM09jbExqeWlyWlVrQWJYcDVrT0I40gFkQVVfeXFMT0hXdG5XS1FlektEUW9QOTcyQTZLYmpxUk5YNEhJNXpjUTJ1T3VZOW9jZTVQeWlfZ3MzcGhTTy1CR1hCSTNETzdjVWRnX29VWW1Fa2ZyX3l5S09EeTR5Skdldl9uRg?oc=5"
         }
       ]
     },
@@ -544,26 +544,26 @@
       ]
     },
     {
-      "id": "3dace3b93ef8",
-      "title": "健身室器材｜28歲女用公用瑜伽墊慘染HPV 醫生警告夏季病毒可存活數小時 附4招預防方法 - 星島頭條",
-      "published": "2026-09-05T10:00:00+00:00",
-      "summary": "健身室器材｜28歲女用公用瑜伽墊慘染HPV 醫生警告夏季病毒可存活數小時 附4招預防方法&nbsp;&nbsp;星島頭條",
+      "id": "20503c5999da",
+      "title": "中秋過食 胃痛反酸 花膠海參鮑魚消化「煞星」 - 20260909 - 副刊 - 明報新聞網",
+      "published": "2026-09-08T20:30:00+00:00",
+      "summary": "中秋過食 胃痛反酸 花膠海參鮑魚消化「煞星」 - 20260909 - 副刊&nbsp;&nbsp;明報新聞網",
       "sources": [
         {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMiigRBVV95cUxPQXhZUzV1NmtkTkFGcnByM0FIV2xmZkhFcDlObEpqRDJFT2dibUFGUWtaMFViVDFQb0tZNlJPekN3RFdjTFNWRUZvclZSOTVab0t4ZzRFZWJZRHFZSk1HcWg4LWIyaHk5eXdXeGpZbHV2OUY1ODdjeDQ4ZE5JcVJjRnJjaHhwTC16V0tPcDR4QzE5SktPSmp0X3RIdlhILWN3ZnJpSENuM0xJOThxd3pOck8zOUZ5WWJjUnd6RGtXTVV3M29FSk5pa1loTjRRYjVSSWt2QmU1eHJ0ZW8yS3NVZGJyT1dVaWNrUVlRYTc3ZWpJelRjZGxDbGw3a0pZQTE5ZWpPS25Hd3dZVkZra1dXbXJxU3JkUEFJR3kzR1Flc1VTUlU1NDhTTnQyY2xIMzFLMWlQaTNGb3g1ajhhSkdkYkkwQkNqdlB6aG1jcjIzd2RLNmdTekVna0xhb2RBSTRHTkZ0eUNYc3NWc3FhTWEyT2Y0UnVIVUNXQmxibnFYN0VoMnVEWWFIOWdwRS1Ma3JVTDcxV1c3S3BPaERRbHI1a19fdG9faF81QkdQRV9MRm9pWG5VRDY4WVVwVXlvRzZqRHpMM1p3b1E4bGpObjgyR2t0WGJxdWkwaGVoWlBwcWs0aHhyVldnUGVMRjFyM1NRZklXRW9WWHpMNGZ2YWl0YUdJQnloQ3A2a2c?oc=5"
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNNmE4eGR6MVVTc3o1OE9DNkw4V0ZqSzNOZHVaTEY2YVMwWlprbjd3anVqQmNRc01mTTlTeEJnZTlKVEJVMi0zMS13SlJVUmt4cHBfdUVpdUZ1Szh0cW1MbTZBckY2VFRFS1h1RWxCZGtQVG9IYTY1STJqSlRrU2JOdkQ1aU9PVDB4eThhZnl3UFdIMzN6Y3hSNHNIcDBoQnRvYWRWaFd5R0tnblBWTXZYZHh6bFJhR2x1QV9HMGg5TnRRLXlvcERWQjlsdjdLZ25QUFZkVWVqdWxCaHRPS00wWU0zU0xEMnc3OWJMT2twSzB4ZEJpLWNiZEZ0OXYwS0t4VHdBSWJwclpBMGEtUmZFb2s5S2RYc09yNmhteGRadFQ1V1g4UXhXUTNlbHdjMXRlb3pZRDNaTmxkbVFKMmVIMzRwcllaTmRUU3lsMHd4R0thUlJZcWcyUVlTMlBuY2o2TEtiTFRfR2V2LXhUOVEyWmZGODBnajNEZjZkRTZOSnU4Zw?oc=5"
         }
       ]
     },
     {
-      "id": "2db8cdbe571d",
-      "title": "中秋過食 胃痛反酸 花膠海參鮑魚消化「煞星」 - 20260909 - 副刊 - news.mingpao.com",
-      "published": "2026-09-08T20:30:00+00:00",
-      "summary": "中秋過食 胃痛反酸 花膠海參鮑魚消化「煞星」 - 20260909 - 副刊&nbsp;&nbsp;news.mingpao.com",
+      "id": "7348e9ec2f3f",
+      "title": "皰疹病毒︱30歲女「爛嘴角」以為熱氣 1致命病毒上腦奪命 醫生警告3情況病毒易乘虛而入 - 香港經濟日報HKET",
+      "published": "2026-09-10T10:21:16+00:00",
+      "summary": "皰疹病毒︱30歲女「爛嘴角」以為熱氣 1致命病毒上腦奪命 醫生警告3情況病毒易乘虛而入&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
-          "name": "news.mingpao.com",
-          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNNmE4eGR6MVVTc3o1OE9DNkw4V0ZqSzNOZHVaTEY2YVMwWlprbjd3anVqQmNRc01mTTlTeEJnZTlKVEJVMi0zMS13SlJVUmt4cHBfdUVpdUZ1Szh0cW1MbTZBckY2VFRFS1h1RWxCZGtQVG9IYTY1STJqSlRrU2JOdkQ1aU9PVDB4eThhZnl3UFdIMzN6Y3hSNHNIcDBoQnRvYWRWaFd5R0tnblBWTXZYZHh6bFJhR2x1QV9HMGg5TnRRLXlvcERWQjlsdjdLZ25QUFZkVWVqdWxCaHRPS00wWU0zU0xEMnc3OWJMT2twSzB4ZEJpLWNiZEZ0OXYwS0t4VHdBSWJwclpBMGEtUmZFb2s5S2RYc09yNmhteGRadFQ1V1g4UXhXUTNlbHdjMXRlb3pZRDNaTmxkbVFKMmVIMzRwcllaTmRUU3lsMHd4R0thUlJZcWcyUVlTMlBuY2o2TEtiTFRfR2V2LXhUOVEyWmZGODBnajNEZjZkRTZOSnU4Zw?oc=5"
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiwARBVV95cUxOdjd3Skd5Yl9NSDdTY2l1WDY1b1Q5bjZ0NzdmLXlBOFhlWjc3ZFNHYzRpd3hZbElQcnBONUhlb24xZmZHVHFrSjRVRWRFeHJtUzZQWEp0dlNYSmdNSmtmZFNGWW5oWE55elVKZnh0aHRlaGE2TkNDTVF6ZG83WGFMR1k4VDRJUF9IcEViUTJxVlZxZXBIWFlnY2s5VGZZY0RYWllIWDB3cGdHb0h5U1d6R3lIZG9rbXhENmlrSTZnNndYbVZENUFtQi1tcHpsa2poTU1wMmhuRG1hUDBaNG55UVVHRnJZaDRXQ0tPbHlVU21VelV3YV9xNmFuSjNrb29lRjBZT1g5TTdiTFM2WWEta0t0OEVBeU9xdEJtSmNYU1NDTDBZQTNlb291LVpJczhhRjJ4dzBjNTBrdmhMUkRrbS1MV0lUaWhMQWtuYVB5a3VxVnQ0Ry1ySmxQZzNRS3ZFWVUtbENZVjJMaFEwZkRscTZBZld6cDQ0WThmbFBNWWM0WnVENFN6c1hNVW4xR2dfcGp5Wm9lT2dkb3JkZTJrbUdOcGVPRXhqQkZ2VmIzLVpnOWN6WWdPTHNBTlBKQnlFeTQ1N3Y0YVpxMzhXZGI2M2pfOXVoTmtKWVF3TV92blJ5dTVzcWxIZmo0YW91YWthQVhFVVN6Mml5RmpaZmtIeWh2Rm5nWUJPRjhnbG5kSGtScmtwZnFpRlN0WmpkSlE0TmYtQUZONzFMOUNVdVJXcXdvTnNaMW5sQ2xFOG5iUGo?oc=5"
         }
       ]
     },
@@ -576,6 +576,18 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tcmFhNzFqRjBxbjR4UHQ3WDBjS21Tb0RSYlB2R3FBMjJRUUYtWk1pUmhiYUstVVlPY0QxbjAyQnNpM3NwdEJlaDdaQ3VQNnU3SHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "43bc56969374",
+      "title": "健身室器材｜28歲女用公用瑜伽墊慘染HPV 醫生警告夏季病毒可存活數小時 附4招預防方法 - singtao.ca",
+      "published": "2026-09-09T19:00:33+00:00",
+      "summary": "健身室器材｜28歲女用公用瑜伽墊慘染HPV 醫生警告夏季病毒可存活數小時 附4招預防方法&nbsp;&nbsp;singtao.ca",
+      "sources": [
+        {
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPQnR2MWsyc0JYYndmUk1UUUFRUzVJclZpb3p1OV9GUHlGV2JlZTdQTVJkeGxrSXNjVjhXQk1Ed04tenZFSkU5NEYxZ29Zb2JwN1BwZlFHM2dISjBUdERPdThHSDViYkRFVk13TW5MMkxlXy1fRndpMmRUWUYtQlZuREFocGEzS05lYTR2R3A5VnBzLUFLMkFnSEpGdVhhck5uVHVIWGlpOTY4cEVDUkRqTEpzeTQtcEdqd3Uwajd6ODVYdnpfejl6YmtnN3FfVF96OXJRQWhfSmZBRkMwd0ZOQ09jWnhVNnd2ZzlpNWMtYVZRTXBLSVFxbjJCbmZpbVlnTVlsUFZraTFIX2hHMjJ4ejVlSmFZeXR6VnAxV2UyX0pwSDlNb0dfODNlc0g0RWJmVEIwdkowQ3Bzeks0dmwwaENmVTFCaG9Wcy1WTUFtOTJMV25kX2xxY1lUT2UweklpQ1MxVlJDZWFnWVNnZzJxdmpRTkxMTzJEQmJVd29GNUFncmxaTlFtMU81MjlGUUlMbHBFRnJKMllfbklfSnM1R1hZN1d0cXRWbmhlYW55VlpFNWZUaXdsWE1jXzNFb3F3MklEUDctRll1dmQ3M0pFaWpDUXdGb1hObjAzZ2tBQzRUSUJHd0QyU1lpNnJMX3FxS296ZGVjWkRjSU9VY1FsM1NLcEY4Q3VUOTY1ZFI0NmtGVWN0LXNv0gGSAUFVX3lxTE1UQTRkeGlHcXNyYWp5bWFmTkJyeWJXZUVYSkJpbkhkS21sZnZjNnBDWVBTWkh3QWs0MFJzTmNFakU3VVZzN182RUw5MmNFZkxObldHMEdqRW1UQVN1TW41OXV2SXNDSVNDeWY1UG5taF9RV041MHhPTDVJc0loUGN6VUE5aFV3MUw5YW5GRXJaNFd3?oc=5"
         }
       ]
     },
