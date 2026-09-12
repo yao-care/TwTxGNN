@@ -71,7 +71,7 @@ permalink: /news/gefitinib/
 
 2026-09-12 <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">生蛇</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">神經痛</span>
 
-來源：[自由評論網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JU09TWllfYm9HTmtlQ19GNUp3RndndC1xbXFzOVUtYmtObXpqV0xab0cyMUhHZVNibC0wcXFkMkQ2cVAyWGJwc0wxZFpURDF0NDExNXlyYWRCY3NJdF9hM2RR0gFnQVVfeXFMUGFMZ3c1bkRSUER0NHhrNHBhMm9BT1JkUy1vOUhXc1NXaklyNUtsNVQ4bzFJTllHWlB0M213SmlhTlRDT1hMVnNaYlJnVkEtaWRoY09GMHNPQmxXZTlqaE96QzlMbmthNA?oc=5)
+來源：[talk.ltn.com.tw](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JU09TWllfYm9HTmtlQ19GNUp3RndndC1xbXFzOVUtYmtObXpqV0xab0cyMUhHZVNibC0wcXFkMkQ2cVAyWGJwc0wxZFpURDF0NDExNXlyYWRCY3NJdF9hM2RR0gFnQVVfeXFMUGFMZ3c1bkRSUER0NHhrNHBhMm9BT1JkUy1vOUhXc1NXaklyNUtsNVQ4bzFJTllHWlB0M213SmlhTlRDT1hMVnNaYlJnVkEtaWRoY09GMHNPQmxXZTlqaE96QzlMbmthNA?oc=5)
 
 ---
 
@@ -87,7 +87,7 @@ permalink: /news/gefitinib/
 
 2026-09-09 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[大纪元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oaGZfZktZUkNnRTFXcVhLa3VMdE5WOEpqemdlMDBjUE9sempiaFBDejM2S1l0UXliYUNacWxSdkpVMElRbFFEU2hiRXhFLXhVV2E5akdXV3NvSjNGZjVZ0gFkQVVfeXFMTUtBLWk0WEt2RE90YVJTdlNBRW8xQlZYYVhfcGxYNFdjWmw4NkpmYjhPb1F2ZzEzeG9wQlBLdWhzQ1gtcWJBSjdha1IzSTBGc2Fmenc3bFRjdjVJT2Eyek5JWld3UA?oc=5)
+來源：[epochtimes.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oaGZfZktZUkNnRTFXcVhLa3VMdE5WOEpqemdlMDBjUE9sempiaFBDejM2S1l0UXliYUNacWxSdkpVMElRbFFEU2hiRXhFLXhVV2E5akdXV3NvSjNGZjVZ0gFkQVVfeXFMTUtBLWk0WEt2RE90YVJTdlNBRW8xQlZYYVhfcGxYNFdjWmw4NkpmYjhPb1F2ZzEzeG9wQlBLdWhzQ1gtcWJBSjdha1IzSTBGc2Fmenc3bFRjdjVJT2Eyek5JWld3UA?oc=5)
 
 ---
 
@@ -103,7 +103,7 @@ permalink: /news/gefitinib/
 
 2026-09-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[大纪元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HcDZnemNlMUMxc0h0T3F0MEJvdDNGZUVyYnFISENVS0UtNDlEa2dOZDNUOWk0d01xNDZGZk52aDdCd2xycjZIRDVwM09jbExqeWlyWlVrQWJYcDVrT0I40gFkQVVfeXFMT0hXdG5XS1FlektEUW9QOTcyQTZLYmpxUk5YNEhJNXpjUTJ1T3VZOW9jZTVQeWlfZ3MzcGhTTy1CR1hCSTNETzdjVWRnX29VWW1Fa2ZyX3l5S09EeTR5Skdldl9uRg?oc=5)
+來源：[epochtimes.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HcDZnemNlMUMxc0h0T3F0MEJvdDNGZUVyYnFISENVS0UtNDlEa2dOZDNUOWk0d01xNDZGZk52aDdCd2xycjZIRDVwM09jbExqeWlyWlVrQWJYcDVrT0I40gFkQVVfeXFMT0hXdG5XS1FlektEUW9QOTcyQTZLYmpxUk5YNEhJNXpjUTJ1T3VZOW9jZTVQeWlfZ3MzcGhTTy1CR1hCSTNETzdjVWRnX29VWW1Fa2ZyX3l5S09EeTR5Skdldl9uRg?oc=5)
 
 ---
 
