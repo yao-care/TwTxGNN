@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
 
 ### [HPV病毒「男女都可能感染」！醫建議接種疫苗：可預防癌症](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFbDVfN0NEemg5ZHRVcUVOYThqTlQ3ZW5LdHRQbGRZV09uMk9yNDQ3YnJ0TmtNdjMtT1JuWjdlWEVwNmFSWDd1Z0pXMkd6aUNG0gFPQVVfeXFMT0hFZF9xY1BDYUttLTdta0l1X2IwTWV5T0dEMzNHVlV2UmhJMDBVaWJwdXFrR3BiU1ZnZ3h2b0ZlQ1lDRTFRUGlHOXQ1SmZyTQ?oc=5)
 
@@ -87,7 +87,7 @@ permalink: /news/gefitinib/
 
 2026-09-09 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[大纪元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oaGZfZktZUkNnRTFXcVhLa3VMdE5WOEpqemdlMDBjUE9sempiaFBDejM2S1l0UXliYUNacWxSdkpVMElRbFFEU2hiRXhFLXhVV2E5akdXV3NvSjNGZjVZ0gFkQVVfeXFMTUtBLWk0WEt2RE90YVJTdlNBRW8xQlZYYVhfcGxYNFdjWmw4NkpmYjhPb1F2ZzEzeG9wQlBLdWhzQ1gtcWJBSjdha1IzSTBGc2Fmenc3bFRjdjVJT2Eyek5JWld3UA?oc=5)
+來源：[epochtimes.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oaGZfZktZUkNnRTFXcVhLa3VMdE5WOEpqemdlMDBjUE9sempiaFBDejM2S1l0UXliYUNacWxSdkpVMElRbFFEU2hiRXhFLXhVV2E5akdXV3NvSjNGZjVZ0gFkQVVfeXFMTUtBLWk0WEt2RE90YVJTdlNBRW8xQlZYYVhfcGxYNFdjWmw4NkpmYjhPb1F2ZzEzeG9wQlBLdWhzQ1gtcWJBSjdha1IzSTBGc2Fmenc3bFRjdjVJT2Eyek5JWld3UA?oc=5)
 
 ---
 
@@ -96,6 +96,14 @@ permalink: /news/gefitinib/
 2026-09-09 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[大紀元時報 香港](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EZURKaHVwMXZFa3pMdkJfcWdmQzFGcTlLMXVZeDZpc0dQQV9GOVd6RzhRZW1ONXlUZzE5a2lORmdEWmN0d2FwODBoM1FIY2ZTQloybFFJeGxIQ0ZrZDZJ?oc=5)
+
+---
+
+### [腰圍愈粗腦容量愈小？研究揭「腦型糖尿病」危害 快吃這神物防失智](https://news.google.com/rss/articles/CBMiU0FVX3lxTE80MkZJb0Iyak5HZXVING9JQTlxbjVseXpuQlgwZ2tDVGxjMl9fM2FOX19DWkc4eDZIVTdhMHc0cU9VR1ZFVUQ5QnljWjJFWU81RXZ3?oc=5)
+
+2026-09-07 <span class="news-indication-tag">失智</span>
+
+來源：[health.tvbs.com.tw](https://news.google.com/rss/articles/CBMiU0FVX3lxTE80MkZJb0Iyak5HZXVING9JQTlxbjVseXpuQlgwZ2tDVGxjMl9fM2FOX19DWkc4eDZIVTdhMHc0cU9VR1ZFVUQ5QnljWjJFWU81RXZ3?oc=5)
 
 ---
 

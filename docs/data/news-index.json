@@ -1,31 +1,7 @@
 {
-  "generated": "2026-09-13T19:07:15.005698+00:00",
+  "generated": "2026-09-13T21:57:01.261475+00:00",
   "count": 18,
   "news": [
-    {
-      "id": "5ad45408ebd3",
-      "title": "中大研究：多內分泌代謝性卵巢綜合症影響可傳至下一代",
-      "published": "2026-09-13T18:22:34+00:00",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRHlmcEx0Z3hqclNfVEs2X2ItaXhubzhTVjU0b0I0eUJCeThTX3VKajhyMTVuRGpsd3hsMng4MWFjTElDbThyUkRhT3ZLVVVJc3VKMVViOVlrdnVWQWFWQU84aFY5dTd1UDlrNVBjS0RfNjFjTm0wQTJNM2llLVlaNTN1bThjMlhUTFE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "44db0ee6bde1",
       "title": "HPV病毒「男女都可能感染」！醫建議接種疫苗：可預防癌症",
@@ -976,12 +952,12 @@
       ]
     },
     {
-      "id": "7ecd6467c568",
+      "id": "e72ac5f9987e",
       "title": "失智症可預防？ WHO：做好這些事可減45%病例",
       "published": "2026-09-09T03:09:00+00:00",
       "sources": [
         {
-          "name": "大纪元",
+          "name": "epochtimes.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oaGZfZktZUkNnRTFXcVhLa3VMdE5WOEpqemdlMDBjUE9sempiaFBDejM2S1l0UXliYUNacWxSdkpVMElRbFFEU2hiRXhFLXhVV2E5akdXV3NvSjNGZjVZ0gFkQVVfeXFMTUtBLWk0WEt2RE90YVJTdlNBRW8xQlZYYVhfcGxYNFdjWmw4NkpmYjhPb1F2ZzEzeG9wQlBLdWhzQ1gtcWJBSjdha1IzSTBGc2Fmenc3bFRjdjVJT2Eyek5JWld3UA?oc=5"
         }
       ],
@@ -1310,6 +1286,30 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "794cfeee2e17",
+      "title": "腰圍愈粗腦容量愈小？研究揭「腦型糖尿病」危害 快吃這神物防失智",
+      "published": "2026-09-07T07:29:00+00:00",
+      "sources": [
+        {
+          "name": "health.tvbs.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80MkZJb0Iyak5HZXVING9JQTlxbjVseXpuQlgwZ2tDVGxjMl9fM2FOX19DWkc4eDZIVTdhMHc0cU9VR1ZFVUQ5QnljWjJFWU81RXZ3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
