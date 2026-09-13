@@ -31,6 +31,14 @@ permalink: /news/common-cold/
 
 ## 相關新聞（3 則）
 
+### [想感冒快點好 鋅含片比維他命C更有效](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1S3BFcmlKTUcxRkthbHNhZEo4VUNjREFUcFc5RGk4YmVrYkNBaTJsSHp0YThnSjlmM2lvbFNob1ljMTNWQm5XQjBGcjhQVGVMVWVXLTNNSHVqWk01Wm1lMVlR0gFnQVVfeXFMUExnazU2ci1zSmJQWWV2VzlnNWpPd2V4WFRBaTJjaWNTcnRXdmRKdUF0a1c1dU5hOWZOcmx4czJaUEdxRUFJRFBMRXo2NGRsNUlUdHpVa2JxUldsRmpTV3YwZjdmcmwwdw?oc=5)
+
+2026-09-13
+
+來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1S3BFcmlKTUcxRkthbHNhZEo4VUNjREFUcFc5RGk4YmVrYkNBaTJsSHp0YThnSjlmM2lvbFNob1ljMTNWQm5XQjBGcjhQVGVMVWVXLTNNSHVqWk01Wm1lMVlR0gFnQVVfeXFMUExnazU2ci1zSmJQWWV2VzlnNWpPd2V4WFRBaTJjaWNTcnRXdmRKdUF0a1c1dU5hOWZOcmx4czJaUEdxRUFJRFBMRXo2NGRsNUlUdHpVa2JxUldsRmpTV3YwZjdmcmwwdw?oc=5)
+
+---
+
 ### [自由開講》公費皮蛇疫苗，也是守護長照與健保的重要防線](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JU09TWllfYm9HTmtlQ19GNUp3RndndC1xbXFzOVUtYmtObXpqV0xab0cyMUhHZVNibC0wcXFkMkQ2cVAyWGJwc0wxZFpURDF0NDExNXlyYWRCY3NJdF9hM2RR0gFnQVVfeXFMUGFMZ3c1bkRSUER0NHhrNHBhMm9BT1JkUy1vOUhXc1NXaklyNUtsNVQ4bzFJTllHWlB0M213SmlhTlRDT1hMVnNaYlJnVkEtaWRoY09GMHNPQmxXZTlqaE96QzlMbmthNA?oc=5)
 
 2026-09-12
@@ -44,14 +52,6 @@ permalink: /news/common-cold/
 2026-09-10
 
 來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxSWdSSWJkMUQ4V0ppbVpFX05lZ2lXVmtGZVdNLVFyZmEyS2x3cENNTUhYaXlyUGwyLWN0X3VKWm5KTnh5VkNSOW0wX3JNTWh0Q1pRcVhB?oc=5)
-
----
-
-### [感冒吃維他命C好更快？研究曝「嚴重症狀少26%」 關鍵是它](https://news.google.com/rss/articles/CBMiUEFVX3lxTE94bjZMcDV6V3dBbGZydVNyTXZpdW1XdlVURlctOEUwUTBKcHBzeXhuWi1VN1BDNzBMVW5VNVZZazJDUEhRVXJtcjQ3Y20yb09W?oc=5)
-
-2026-09-09
-
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE94bjZMcDV6V3dBbGZydVNyTXZpdW1XdlVURlctOEUwUTBKcHBzeXhuWi1VN1BDNzBMVW5VNVZZazJDUEhRVXJtcjQ3Y20yb09W?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [魚油能預防認知障礙？新研究：靠單一營養難防失智 關鍵在日常](https://news.google.com/rss/articles/CBMimgNBVV95cUxPZTRVS0V5UnhsRkNYU2poOVJRV1RubnlnYXNPVlNLLUE4U1RtNlVvWWtlZWk4RTVCRGgzNnVWbTVpMzMyemhWN19rVlUwMW5MLS1kQWY3Zjd4RG9pd2JfV1JGaUFqTFoxZ2oxUlJSS0stVU5ncldETDNPcGlIbnpicU1uYjZ6UU5JaVFXaTJ6MW50SzFBS1k1YnJSd185OTJWTVptMHAtaHJtTXpXemhubEFXZjlLbGRMVlhUaUtLb2NNejJyR1lLRFR2ei11RFp5a1ZqWGFXOVFjYkcxejVGZm8zMjdVa0NnN1NsMmhaaVJYTmhZQWNFMzJaYms4U1dhSFZvTm1XRFo4Z0xLSVdMWlkyblBlSndqT01CQUtBLWUyT0xVTWNySVJjZFJQTEZ4UHBva2ZsTW14emZoMWRJbllxR29nUGs0eTRmQW9pR3ZUaXhnSzl3UTFuaU5QVGQ4dDFQTFlBaXl4U18zbjE0MzJnSWc3YWVRSnVxWFB2QkVyem1UYVRGLVhtdGJ3N0dlZFZ5ZWYtRmw2UQ?oc=5)
 
@@ -39,27 +39,19 @@ permalink: /news/dementia/
 
 ---
 
-### [自由開講》公費皮蛇疫苗，也是守護長照與健保的重要防線](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JU09TWllfYm9HTmtlQ19GNUp3RndndC1xbXFzOVUtYmtObXpqV0xab0cyMUhHZVNibC0wcXFkMkQ2cVAyWGJwc0wxZFpURDF0NDExNXlyYWRCY3NJdF9hM2RR0gFnQVVfeXFMUGFMZ3c1bkRSUER0NHhrNHBhMm9BT1JkUy1vOUhXc1NXaklyNUtsNVQ4bzFJTllHWlB0M213SmlhTlRDT1hMVnNaYlJnVkEtaWRoY09GMHNPQmxXZTlqaE96QzlMbmthNA?oc=5)
-
-2026-09-12
-
-來源：[自由評論網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JU09TWllfYm9HTmtlQ19GNUp3RndndC1xbXFzOVUtYmtObXpqV0xab0cyMUhHZVNibC0wcXFkMkQ2cVAyWGJwc0wxZFpURDF0NDExNXlyYWRCY3NJdF9hM2RR0gFnQVVfeXFMUGFMZ3c1bkRSUER0NHhrNHBhMm9BT1JkUy1vOUhXc1NXaklyNUtsNVQ4bzFJTllHWlB0M213SmlhTlRDT1hMVnNaYlJnVkEtaWRoY09GMHNPQmxXZTlqaE96QzlMbmthNA?oc=5)
-
----
-
 ### [失智症可預防？ WHO：做好這些事可減45%病例](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oaGZfZktZUkNnRTFXcVhLa3VMdE5WOEpqemdlMDBjUE9sempiaFBDejM2S1l0UXliYUNacWxSdkpVMElRbFFEU2hiRXhFLXhVV2E5akdXV3NvSjNGZjVZ0gFkQVVfeXFMTUtBLWk0WEt2RE90YVJTdlNBRW8xQlZYYVhfcGxYNFdjWmw4NkpmYjhPb1F2ZzEzeG9wQlBLdWhzQ1gtcWJBSjdha1IzSTBGc2Fmenc3bFRjdjVJT2Eyek5JWld3UA?oc=5)
 
 2026-09-09
 
-來源：[epochtimes.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oaGZfZktZUkNnRTFXcVhLa3VMdE5WOEpqemdlMDBjUE9sempiaFBDejM2S1l0UXliYUNacWxSdkpVMElRbFFEU2hiRXhFLXhVV2E5akdXV3NvSjNGZjVZ0gFkQVVfeXFMTUtBLWk0WEt2RE90YVJTdlNBRW8xQlZYYVhfcGxYNFdjWmw4NkpmYjhPb1F2ZzEzeG9wQlBLdWhzQ1gtcWJBSjdha1IzSTBGc2Fmenc3bFRjdjVJT2Eyek5JWld3UA?oc=5)
+來源：[大纪元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oaGZfZktZUkNnRTFXcVhLa3VMdE5WOEpqemdlMDBjUE9sempiaFBDejM2S1l0UXliYUNacWxSdkpVMElRbFFEU2hiRXhFLXhVV2E5akdXV3NvSjNGZjVZ0gFkQVVfeXFMTUtBLWk0WEt2RE90YVJTdlNBRW8xQlZYYVhfcGxYNFdjWmw4NkpmYjhPb1F2ZzEzeG9wQlBLdWhzQ1gtcWJBSjdha1IzSTBGc2Fmenc3bFRjdjVJT2Eyek5JWld3UA?oc=5)
 
 ---
 
-### [腰圍愈粗腦容量愈小？研究揭「腦型糖尿病」危害 快吃這神物防失智](https://news.google.com/rss/articles/CBMiU0FVX3lxTE80MkZJb0Iyak5HZXVING9JQTlxbjVseXpuQlgwZ2tDVGxjMl9fM2FOX19DWkc4eDZIVTdhMHc0cU9VR1ZFVUQ5QnljWjJFWU81RXZ3?oc=5)
+### [腰圍愈粗腦容量愈小？研究揭「腦型糖尿病」危害 快吃這神物防失智 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE80MkZJb0Iyak5HZXVING9JQTlxbjVseXpuQlgwZ2tDVGxjMl9fM2FOX19DWkc4eDZIVTdhMHc0cU9VR1ZFVUQ5QnljWjJFWU81RXZ3?oc=5)
 
 2026-09-07
 
-來源：[health.tvbs.com.tw](https://news.google.com/rss/articles/CBMiU0FVX3lxTE80MkZJb0Iyak5HZXVING9JQTlxbjVseXpuQlgwZ2tDVGxjMl9fM2FOX19DWkc4eDZIVTdhMHc0cU9VR1ZFVUQ5QnljWjJFWU81RXZ3?oc=5)
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE80MkZJb0Iyak5HZXVING9JQTlxbjVseXpuQlgwZ2tDVGxjMl9fM2FOX19DWkc4eDZIVTdhMHc0cU9VR1ZFVUQ5QnljWjJFWU81RXZ3?oc=5)
 
 ---
 

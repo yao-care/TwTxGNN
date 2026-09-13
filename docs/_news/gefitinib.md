@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（12 則）
 
 ### [HPV病毒「男女都可能感染」！醫建議接種疫苗：可預防癌症](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFbDVfN0NEemg5ZHRVcUVOYThqTlQ3ZW5LdHRQbGRZV09uMk9yNDQ3YnJ0TmtNdjMtT1JuWjdlWEVwNmFSWDd1Z0pXMkd6aUNG0gFPQVVfeXFMT0hFZF9xY1BDYUttLTdta0l1X2IwTWV5T0dEMzNHVlV2UmhJMDBVaWJwdXFrR3BiU1ZnZ3h2b0ZlQ1lDRTFRUGlHOXQ1SmZyTQ?oc=5)
 
@@ -59,19 +59,19 @@ permalink: /news/gefitinib/
 
 ---
 
+### [吃芥末能殺死9成癌細胞？實驗證實1成分讓腫瘤擴散減少35%！拆解黃、青芥末6大隱藏功效與4大食用禁忌](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPazB5aFNzelI3cUhJbFllQ2RIQVN2b0ljRzk4NXY4RmljblZRTkFMZ2ZPbjdwdDFLLXVnMk9kRndTSUJrVndDVWhQM2tMNTFzSVJDM3RKTUFRbGpXNVp0cnduS2lwUEtMM0tsb0VYSWRGUFN6aDRNanNnN2kxbWIzNkc3MEpoaEQxbzNQakJzSGVndDJTcjA0S2FFUENBUFhyOFdYWl8zcm1RXy1KQWg3ZkRzQ2V6a0lBMjMyNzJqZjNiVjBFSG9tS3NHbkR0bW8tMnRHc2p1U1FteG9BV2dtTDg2MXV3RmJYUXJROHc4RQ?oc=5)
+
+2026-09-12 <span class="news-indication-tag">腫瘤</span>
+
+來源：[she.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPazB5aFNzelI3cUhJbFllQ2RIQVN2b0ljRzk4NXY4RmljblZRTkFMZ2ZPbjdwdDFLLXVnMk9kRndTSUJrVndDVWhQM2tMNTFzSVJDM3RKTUFRbGpXNVp0cnduS2lwUEtMM0tsb0VYSWRGUFN6aDRNanNnN2kxbWIzNkc3MEpoaEQxbzNQakJzSGVndDJTcjA0S2FFUENBUFhyOFdYWl8zcm1RXy1KQWg3ZkRzQ2V6a0lBMjMyNzJqZjNiVjBFSG9tS3NHbkR0bW8tMnRHc2p1U1FteG9BV2dtTDg2MXV3RmJYUXJROHc4RQ?oc=5)
+
+---
+
 ### [德里24歲男子不育檢查發現子宮，罕見持續性苗勒管綜合症揭示癌症風險](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
 
 2026-09-12 <span class="news-indication-tag">癌症</span>
 
 來源：[Singtaousa](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
-
----
-
-### [自由開講》公費皮蛇疫苗，也是守護長照與健保的重要防線](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JU09TWllfYm9HTmtlQ19GNUp3RndndC1xbXFzOVUtYmtObXpqV0xab0cyMUhHZVNibC0wcXFkMkQ2cVAyWGJwc0wxZFpURDF0NDExNXlyYWRCY3NJdF9hM2RR0gFnQVVfeXFMUGFMZ3c1bkRSUER0NHhrNHBhMm9BT1JkUy1vOUhXc1NXaklyNUtsNVQ4bzFJTllHWlB0M213SmlhTlRDT1hMVnNaYlJnVkEtaWRoY09GMHNPQmxXZTlqaE96QzlMbmthNA?oc=5)
-
-2026-09-12 <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">生蛇</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">神經痛</span>
-
-來源：[自由評論網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JU09TWllfYm9HTmtlQ19GNUp3RndndC1xbXFzOVUtYmtObXpqV0xab0cyMUhHZVNibC0wcXFkMkQ2cVAyWGJwc0wxZFpURDF0NDExNXlyYWRCY3NJdF9hM2RR0gFnQVVfeXFMUGFMZ3c1bkRSUER0NHhrNHBhMm9BT1JkUy1vOUhXc1NXaklyNUtsNVQ4bzFJTllHWlB0M213SmlhTlRDT1hMVnNaYlJnVkEtaWRoY09GMHNPQmxXZTlqaE96QzlMbmthNA?oc=5)
 
 ---
 
@@ -87,23 +87,39 @@ permalink: /news/gefitinib/
 
 2026-09-09 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[epochtimes.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oaGZfZktZUkNnRTFXcVhLa3VMdE5WOEpqemdlMDBjUE9sempiaFBDejM2S1l0UXliYUNacWxSdkpVMElRbFFEU2hiRXhFLXhVV2E5akdXV3NvSjNGZjVZ0gFkQVVfeXFMTUtBLWk0WEt2RE90YVJTdlNBRW8xQlZYYVhfcGxYNFdjWmw4NkpmYjhPb1F2ZzEzeG9wQlBLdWhzQ1gtcWJBSjdha1IzSTBGc2Fmenc3bFRjdjVJT2Eyek5JWld3UA?oc=5)
+來源：[大纪元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oaGZfZktZUkNnRTFXcVhLa3VMdE5WOEpqemdlMDBjUE9sempiaFBDejM2S1l0UXliYUNacWxSdkpVMElRbFFEU2hiRXhFLXhVV2E5akdXV3NvSjNGZjVZ0gFkQVVfeXFMTUtBLWk0WEt2RE90YVJTdlNBRW8xQlZYYVhfcGxYNFdjWmw4NkpmYjhPb1F2ZzEzeG9wQlBLdWhzQ1gtcWJBSjdha1IzSTBGc2Fmenc3bFRjdjVJT2Eyek5JWld3UA?oc=5)
 
 ---
 
-### [50歲以下最致命癌症 大腸癌死亡率衝上榜首 - 大紀元時報 香港](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EZURKaHVwMXZFa3pMdkJfcWdmQzFGcTlLMXVZeDZpc0dQQV9GOVd6RzhRZW1ONXlUZzE5a2lORmdEWmN0d2FwODBoM1FIY2ZTQloybFFJeGxIQ0ZrZDZJ?oc=5)
+### [50歲以下最致命癌症 大腸癌死亡率衝上榜首](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EZURKaHVwMXZFa3pMdkJfcWdmQzFGcTlLMXVZeDZpc0dQQV9GOVd6RzhRZW1ONXlUZzE5a2lORmdEWmN0d2FwODBoM1FIY2ZTQloybFFJeGxIQ0ZrZDZJ?oc=5)
 
 2026-09-09 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[大紀元時報 香港](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EZURKaHVwMXZFa3pMdkJfcWdmQzFGcTlLMXVZeDZpc0dQQV9GOVd6RzhRZW1ONXlUZzE5a2lORmdEWmN0d2FwODBoM1FIY2ZTQloybFFJeGxIQ0ZrZDZJ?oc=5)
+來源：[hk.epochtimes.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EZURKaHVwMXZFa3pMdkJfcWdmQzFGcTlLMXVZeDZpc0dQQV9GOVd6RzhRZW1ONXlUZzE5a2lORmdEWmN0d2FwODBoM1FIY2ZTQloybFFJeGxIQ0ZrZDZJ?oc=5)
 
 ---
 
-### [腰圍愈粗腦容量愈小？研究揭「腦型糖尿病」危害 快吃這神物防失智](https://news.google.com/rss/articles/CBMiU0FVX3lxTE80MkZJb0Iyak5HZXVING9JQTlxbjVseXpuQlgwZ2tDVGxjMl9fM2FOX19DWkc4eDZIVTdhMHc0cU9VR1ZFVUQ5QnljWjJFWU81RXZ3?oc=5)
+### [【密碼解鎖】第四期癌症治癒新藥有望！《Newsweek》最新號深入探討個人化精準醫療](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKaGVLanYzVmFYdTRsZkdob2x0RnA2aWROcGNVaUp1WlZ3OVk4Y2dzVEtMeGpaajRERHQ2MjBBM2dVMm5sVzhlNmhnSElYRHhFN0RlNy0ya2dqbTllYzhGdkJMcDJOczFHc0QyVENjR3FBRFp0cjJNejJ3?oc=5)
+
+2026-09-08 <span class="news-indication-tag">癌症</span>
+
+來源：[webook.com.tw](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKaGVLanYzVmFYdTRsZkdob2x0RnA2aWROcGNVaUp1WlZ3OVk4Y2dzVEtMeGpaajRERHQ2MjBBM2dVMm5sVzhlNmhnSElYRHhFN0RlNy0ya2dqbTllYzhGdkJMcDJOczFHc0QyVENjR3FBRFp0cjJNejJ3?oc=5)
+
+---
+
+### [癌末男戒糖、加工食品 腫瘤縮小](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UV2xVQmUtek04eVJyVXJjRER1TTdoN3NyVEhqbkFQbld5eDdLZXNEY1R2RXBGT3Zfb1ptUDhJdktRU19xY2ZfRnR6ZzZHWFp5UndMYkFyLUtfY0FlcmdkM0ZR0gFnQVVfeXFMUEtYOFlxc1RyWDFlNndmbVBfQ3lrazRGRGlnOW0xZ0FVWTN5akU4bW5Yd0RMZlM1aEN3UWtqVVhJVG10MFhCYXZBVXlvWTllbjAwYkgtQnFaWk9faGNNekRuYlE5VXd5WQ?oc=5)
+
+2026-09-08 <span class="news-indication-tag">腫瘤</span>
+
+來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UV2xVQmUtek04eVJyVXJjRER1TTdoN3NyVEhqbkFQbld5eDdLZXNEY1R2RXBGT3Zfb1ptUDhJdktRU19xY2ZfRnR6ZzZHWFp5UndMYkFyLUtfY0FlcmdkM0ZR0gFnQVVfeXFMUEtYOFlxc1RyWDFlNndmbVBfQ3lrazRGRGlnOW0xZ0FVWTN5akU4bW5Yd0RMZlM1aEN3UWtqVVhJVG10MFhCYXZBVXlvWTllbjAwYkgtQnFaWk9faGNNekRuYlE5VXd5WQ?oc=5)
+
+---
+
+### [腰圍愈粗腦容量愈小？研究揭「腦型糖尿病」危害 快吃這神物防失智 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE80MkZJb0Iyak5HZXVING9JQTlxbjVseXpuQlgwZ2tDVGxjMl9fM2FOX19DWkc4eDZIVTdhMHc0cU9VR1ZFVUQ5QnljWjJFWU81RXZ3?oc=5)
 
 2026-09-07 <span class="news-indication-tag">失智</span>
 
-來源：[health.tvbs.com.tw](https://news.google.com/rss/articles/CBMiU0FVX3lxTE80MkZJb0Iyak5HZXVING9JQTlxbjVseXpuQlgwZ2tDVGxjMl9fM2FOX19DWkc4eDZIVTdhMHc0cU9VR1ZFVUQ5QnljWjJFWU81RXZ3?oc=5)
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE80MkZJb0Iyak5HZXVING9JQTlxbjVseXpuQlgwZ2tDVGxjMl9fM2FOX19DWkc4eDZIVTdhMHc0cU9VR1ZFVUQ5QnljWjJFWU81RXZ3?oc=5)
 
 ---
 
