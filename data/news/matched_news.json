@@ -1,13 +1,259 @@
 {
-  "last_updated": "2026-09-13T02:13:26.930877+00:00",
-  "total_count": 53,
-  "matched_count": 16,
+  "last_updated": "2026-09-13T07:48:46.467318+00:00",
+  "total_count": 55,
+  "matched_count": 17,
   "news": [
+    {
+      "id": "fdf97c9689c2",
+      "title": "癌王保護盾出現破口？研究揪出胰臟癌抗藥性關鍵節點",
+      "published": "2026-09-13T03:27:00+00:00",
+      "summary": "癌王保護盾出現破口？研究揪出胰臟癌抗藥性關鍵節點&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XWmRIMDNfdEZPRU93ak5FekVud1B4SEhoOHE4X0VrUE9YUzZ5c1BqVk9PUDF6X2gtdXlRVmtrRlRQdWhUdE52X3oxMUZoZE5ybG9zNTloNTY0bkZ3cEdocnJYb1_SAWpBVV95cUxNWW5VWGNjMlJRaUlEWWdYNzFQbXJyaUdrSHE1WmFFa3NlTFczaHllc21wSjQyTjVpSkw0OWJaMHVMS0JqUDFoXzZfdXFSMVVPcjlDQ1N6Nzg1V1JHbmphY2VBbzdmRVhTbVV3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "44db0ee6bde1",
+      "title": "HPV病毒「男女都可能感染」！醫建議接種疫苗：可預防癌症",
+      "published": "2026-09-13T02:38:00+00:00",
+      "summary": "HPV病毒「男女都可能感染」！醫建議接種疫苗：可預防癌症&nbsp;&nbsp;ETtoday健康雲健康網》男生也該打HPV 醫：能防癌的疫苗&nbsp;&nbsp;自由健康網感染HPV會不孕嗎？備孕女性必看！醫師揭HPV與生育力關聯，疫苗能不能打一次看懂&nbsp;&nbsp;tw.news.yahoo.comHPV 53型是什麼？感染會致癌嗎？陽性怎麼辦、多久會轉陰？ | EBC 東森新聞&nbsp;&nbsp;LINE TODAYHPV疫苗不只防子宮頸癌！感染率降88%，男性接種也能降低相關癌症風險&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFbDVfN0NEemg5ZHRVcUVOYThqTlQ3ZW5LdHRQbGRZV09uMk9yNDQ3YnJ0TmtNdjMtT1JuWjdlWEVwNmFSWDd1Z0pXMkd6aUNG0gFPQVVfeXFMT0hFZF9xY1BDYUttLTdta0l1X2IwTWV5T0dEMzNHVlV2UmhJMDBVaWJwdXFrR3BiU1ZnZ3h2b0ZlQ1lDRTFRUGlHOXQ1SmZyTQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12b240bc0084",
+      "title": "冷凍水果優勢多 這6種營養價值超過新鮮的",
+      "published": "2026-09-13T02:28:07+00:00",
+      "summary": "冷凍水果優勢多 這6種營養價值超過新鮮的&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNbV80bmFfMkpUWFNpUVA3Z3E3QU9SYURrSUlFV1Y1T2RBbXFzQXdKT3FIb29hSWEtNzdyTTZEa18zWHBJYWRPVTVxbkJmbS1Dc0hVNmliRm41VTlEUERqMkxR0gFnQVVfeXFMTTVhUTh6aWJpYmpkX1ZnM2RtcnpsWktnWHBwZzI1bldJc1hzdTBLM0N0TXNKQ0VhMUJvX3FSOUVONGZNMkQ5Xy14SWNHc1RqLW83eTUxOEtlUW82N25DYlZQZE5pN0FUUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "4262446f01f3",
       "title": "人妻患性病被夫控出軌！喊冤疑遭公廁馬桶水濺到長菜花 醫生解答",
       "published": "2026-09-13T00:10:20+00:00",
-      "summary": "人妻患性病被夫控出軌！喊冤疑遭公廁馬桶水濺到長菜花 醫生解答&nbsp;&nbsp;香港01【「HPV陽性≠出軌證據」蕾菈列5大迷思：不是病毒身分證】 （#大表哥）&nbsp;&nbsp;facebook.com妻長「菜花」遭夫控外遇 醫師：HPV檢查不是感情測謊機&nbsp;&nbsp;壹蘋新聞網婚後突長菜花被尪疑出軌！婦喊「沒第三者」求助蘇怡寧 答案曝光 | Newtalk&nbsp;&nbsp;LINE TODAY人妻突長菜花！喊冤沒偷吃 醫揭真相&nbsp;&nbsp;4gtv.tv",
+      "summary": "人妻患性病被夫控出軌！喊冤疑遭公廁馬桶水濺到長菜花 醫生解答&nbsp;&nbsp;香港01【「HPV陽性≠出軌證據」蕾菈列5大迷思：不是病毒身分證】 （#大表哥）&nbsp;&nbsp;facebook.com妻長「菜花」遭夫控外遇 醫師：HPV檢查不是感情測謊機&nbsp;&nbsp;壹蘋新聞網婚後突長菜花被尪疑出軌！婦喊「沒第三者」求助蘇怡寧 答案曝光 | Newtalk&nbsp;&nbsp;LINE TODAY人妻突長菜花！喊冤沒偷吃 醫揭真相&nbsp;&nbsp;四季線上4gTV",
       "sources": [
         {
           "name": "香港01",
@@ -17,26 +263,13 @@
       "matched_keywords": []
     },
     {
-      "id": "d568c10180ca",
-      "title": "HPV病毒不分男女！ 醫提醒「男性也該接種」：目前唯一可以防癌的疫苗 - PChome Online 新聞",
-      "published": "2026-09-12T23:29:50+00:00",
-      "summary": "HPV病毒不分男女！ 醫提醒「男性也該接種」：目前唯一可以防癌的疫苗&nbsp;&nbsp;PChome Online 新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUV9HWHpqR0FpTFR1WU9TZkFyajV3TGVER0tHMEJCMDZRZmtBb3BzN3lkb0FnMTh0ZGltMjNRcGlpNXh2Ry1WeDM1eC1kbm1aWGw5Yk9fRDJ6aDVmdnpYOFBKOVJqYUVGaVR6alNtOVZpWFJKQUVZZHFackRYVklGRGNIUVozYnFYOGhEM3pB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5c5568ccc145",
+      "id": "d5f5d6c37908",
       "title": "常規驗血現端倪 年輕人低肝酶與早發性大腸直腸癌具關聯",
       "published": "2026-09-12T19:20:07+00:00",
-      "summary": "常規驗血現端倪 年輕人低肝酶與早發性大腸直腸癌具關聯&nbsp;&nbsp;singtaousa.com",
+      "summary": "常規驗血現端倪 年輕人低肝酶與早發性大腸直腸癌具關聯&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcE94N084OVk2cWdrVWVMU3JuZUszdzlSVF9YWjhaNkxKNVVaZEhLdzNlcGpac0lsd0F5UU93aVVZaml4LW90STBWZzdnYXdFbk1GZWJva2thZjl2WnFxbWJhdm5BNTlSSjV6ZmVOdXlTSWhjWG5OMjNsOUZmSU1tLTNJVmluLWJMM2hTYWtxYUJQRm8tUVpFdUdNbU92clh3Rld4d3VJYnZrYWU0TnR1RzA0VXlhTFZkRGZUTlNIY21MaVZYbUlxMGE2RVJCeHlXTGd0ZTVYWDFuX1pWSlhNVA?oc=5"
         }
       ],
@@ -142,13 +375,13 @@
       "matched_keywords": []
     },
     {
-      "id": "6b6c14cc7d0f",
+      "id": "ce198d2b75aa",
       "title": "德里24歲男子不育檢查發現子宮，罕見持續性苗勒管綜合症揭示癌症風險",
       "published": "2026-09-12T02:00:00+00:00",
-      "summary": "德里24歲男子不育檢查發現子宮，罕見持續性苗勒管綜合症揭示癌症風險&nbsp;&nbsp;singtaousa.com",
+      "summary": "德里24歲男子不育檢查發現子宮，罕見持續性苗勒管綜合症揭示癌症風險&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5"
         }
       ],
@@ -351,13 +584,13 @@
       ]
     },
     {
-      "id": "c2f48ca5b26b",
+      "id": "02ad8d4d6888",
       "title": "自閉症患者投保難？前保險高層批「行規」拒保 業界倡建核保標準與法例保障",
       "published": "2026-09-12T02:00:00+00:00",
-      "summary": "自閉症患者投保難？前保險高層批「行規」拒保 業界倡建核保標準與法例保障&nbsp;&nbsp;wealth.hket.com",
+      "summary": "自閉症患者投保難？前保險高層批「行規」拒保 業界倡建核保標準與法例保障&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
-          "name": "wealth.hket.com",
+          "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNTnJnY3FxcXhKUEVyLV9vZHlyVnRkdDRSM0lkT0V0Wnp2dkd1TDVjTmVUZ2lsYzdoWXlfVlRPN0pycXFCMDlSUTY1N1I3THE3M09hUHRYRFhOX2F3S0cwNTdFMXlXSWtOa0REUGV5Q3dJSjNKenlmUE1wal9YVmxwZ2JLRGppemxueWlrTW8tN29TazMxbzFQMUY1VU0xVXZkRUdDUVFUZTZGaFBpaG5VOFphNjl6cm04azdIWVZXYVZBQXhKcTVkRnBNUGw3dmllQklHby1DWm12ek8wOGJVR25wM2JLcE9GSDh3S3JLajBLbGtLTVRfUS1SQkE2XzVBWkVJTERfdlRqVDhQWE1GTW14SWsxcWE1ay11dzFIYzNnMmNKNFcweFRfOWhDcEUzUTZMMDlnOFB3LTBWc3laRUJYWTRiWFhBMFVETXlWQXhkd2s1TjM2cHhIcU5Rc0hYTUJpUG92TEx2TVBKd3VaQ1RuMExVZVBZdzFQT3RkYlJMQkltejBPNE43clliNlVyYWR1Y2NQMWhkQzJhbllnYkF4clRoY2tkOWpjQU5LZ0drZU43NUJSeHpQZGl6RTRTX2hqQXVGaEpXdkRaN1JGcTJyc042dGNKQWtWVWFFWk9RSFJrQldiZno0Z0tEZ1g1S2VuNkNR?oc=5"
         }
       ],
@@ -367,7 +600,7 @@
       "id": "fd95776468c1",
       "title": "自由開講》公費皮蛇疫苗，也是守護長照與健保的重要防線",
       "published": "2026-09-12T01:00:00+00:00",
-      "summary": "自由開講》公費皮蛇疫苗，也是守護長照與健保的重要防線&nbsp;&nbsp;自由評論網皮蛇、唇疱疹恐成失智警訊！跨國研究揭：抗病毒治療降失智風險&nbsp;&nbsp;Yahoo新聞43歲男身體疲勞以為感冒 突冒水泡刺痛揭生蛇 中醫治療2周完全康復｜附清熱解毒湯水&nbsp;&nbsp;星島頭條《長青俱樂部26》多打一針，少一場要命的病&nbsp;&nbsp;anntw.com「皮蛇」最怕後遺症？高危險群外用藥膏對神經痛完全無效！72 小時內就醫是關鍵&nbsp;&nbsp;Heho健康",
+      "summary": "自由開講》公費皮蛇疫苗，也是守護長照與健保的重要防線&nbsp;&nbsp;自由評論網皮蛇、唇疱疹恐成失智警訊！跨國研究揭：抗病毒治療降失智風險&nbsp;&nbsp;tw.news.yahoo.com43歲男身體疲勞以為感冒 突冒水泡刺痛揭生蛇 中醫治療2周完全康復｜附清熱解毒湯水&nbsp;&nbsp;星島頭條《長青俱樂部26》多打一針，少一場要命的病&nbsp;&nbsp;anntw.com「皮蛇」最怕後遺症？高危險群外用藥膏對神經痛完全無效！72 小時內就醫是關鍵&nbsp;&nbsp;Heho健康",
       "sources": [
         {
           "name": "自由評論網",
@@ -440,7 +673,7 @@
       "id": "4e9a3c7cbed9",
       "title": "本土西尼羅病毒感染病例增至18宗 3人死亡",
       "published": "2026-09-11T22:24:15+00:00",
-      "summary": "本土西尼羅病毒感染病例增至18宗 3人死亡&nbsp;&nbsp;on.cc東網歐洲高溫助長蚊蟲傳播 荷蘭西尼羅病毒釀3死18染疫 | 民視新聞網&nbsp;&nbsp;LINE TODAY荷蘭通報3例西尼羅病毒死亡病例 當前暫無獲批疫苗、特效藥&nbsp;&nbsp;hkcd.com.hk歐洲西尼羅病毒蔓延 北馬其頓累計8死確診達58例&nbsp;&nbsp;民視健康長照網荷蘭已有3人因感染西尼羅病毒死亡- 國際&nbsp;&nbsp;香港文匯報",
+      "summary": "本土西尼羅病毒感染病例增至18宗 3人死亡&nbsp;&nbsp;on.cc東網歐洲高溫助長蚊蟲傳播 荷蘭西尼羅病毒釀3死18染疫 | 民視新聞網&nbsp;&nbsp;LINE TODAY荷蘭通報3例西尼羅病毒死亡病例 當前暫無獲批疫苗、特效藥&nbsp;&nbsp;香港商报歐洲西尼羅病毒蔓延 北馬其頓累計8死確診達58例&nbsp;&nbsp;民視健康長照網荷蘭已有3人因感染西尼羅病毒死亡- 國際&nbsp;&nbsp;香港文匯報",
       "sources": [
         {
           "name": "on.cc東網",
@@ -450,13 +683,13 @@
       "matched_keywords": []
     },
     {
-      "id": "0440acd3a32c",
+      "id": "2f6e4100fb6d",
       "title": "研究警告：睡覺做1事超傷心臟 中風風險還會上升",
       "published": "2026-09-11T15:00:00+00:00",
-      "summary": "研究警告：睡覺做1事超傷心臟 中風風險還會上升&nbsp;&nbsp;Yahoo新聞",
+      "summary": "研究警告：睡覺做1事超傷心臟 中風風險還會上升&nbsp;&nbsp;tw.news.yahoo.com",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNZjh2WUFnMVVDN3hNZkVIY08xdzJkZ0R2Qlo4LUZLdy1reGlKWWhlUnQ4eW5QSzE5U0ktckU5aTN3anlfeHoxcUhVREdvT1VqT1ZfVDBEUFBkRnB4ZnNZOFpFdzdoVnE4eTI1NGRfX2wySEZ0TmZmOHBOUTNmSU4yalI4TGFIa283R0dzLUt1eDZDbG9OZjFCT2owd3F0N3FUQV83VFNCczJwU2FzRVNoZTNwNVV0bmZIU2IwQk1hVm80bkN0c0xEOVpxcFV5cXBLUWR5SnlISmZwY3dJdHU3cGxNeThOY3NBY2d3UVZUY2RHVjZldm1vbXoxc2V5M25qVXQtNlFjTC1UeThMZFcybHRfV3ZJOTFvSjNtUnBtUl9HRVU3LUI0RzBWVUhUNWw4c2l5SlVPQWRfV2tlYnNBNVQxU1cxZGM?oc=5"
         }
       ],
@@ -605,26 +838,26 @@
       "matched_keywords": []
     },
     {
-      "id": "9bfe5407927c",
+      "id": "db7298267e42",
       "title": "腎臟不好照鏡子有端倪？5種臉部變化恐是警訊 眼皮浮腫、面色暗沉都上榜",
       "published": "2026-09-11T03:33:47+00:00",
-      "summary": "腎臟不好照鏡子有端倪？5種臉部變化恐是警訊 眼皮浮腫、面色暗沉都上榜&nbsp;&nbsp;health.udn.com",
+      "summary": "腎臟不好照鏡子有端倪？5種臉部變化恐是警訊 眼皮浮腫、面色暗沉都上榜&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "health.udn.com",
+          "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrRVVmSHBSWUQya3l1YVVabG00YUZtM09tc1lXWE1lT3NLN3pNdHRPVTZQRjJtbTMtX3luMWtPVkYyaE9ZYWVldkhlUHVZTnV0eUM1UjJPcE5fRmtRZnEzY1lB0gFiQVVfeXFMUGtFVWZIcFJZRDJreXVhVVpsbTRhRm0zT21zWVdYTWVPc0s3ek10dE9VNlBGMm1tMy1feW4xa09WRjJoT1lhZWV2SGVQdVlOdXR5QzVSMk9wTl9Ga1FmcTNjWUE?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "e6d89e5c3859",
+      "id": "497242f06228",
       "title": "變老不只長白髮！專家揭幾個意想不到的老化跡象 腳突然大一號也是",
       "published": "2026-09-11T02:12:52+00:00",
-      "summary": "變老不只長白髮！專家揭幾個意想不到的老化跡象 腳突然大一號也是&nbsp;&nbsp;health.udn.com",
+      "summary": "變老不只長白髮！專家揭幾個意想不到的老化跡象 腳突然大一號也是&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "health.udn.com",
+          "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pazJmREdveW42UGU4T1RXeVhUWkJOYnE4SkRTUmFnWDBKOVhpWWlUNmEzZW9HVEVBMjBTSnNqUDM0SEZ1WHZOQmp3TVZDQWZpQ0NiLXZ4aGZ5Y0FhSTZpSFZR0gFiQVVfeXFMT2lrMmZER295bjZQZThPVFd5WFRaQk5icThKRFNSYWdYMEo5WGlZaVQ2YTNlb0dURUEyMFNKc2pQMzRIRnVYdk5CandNVkNBZmlDQ2ItdnhoZnljQWFJNmlIVlE?oc=5"
         }
       ],
@@ -695,6 +928,19 @@
       "matched_keywords": []
     },
     {
+      "id": "c59fc2735a07",
+      "title": "男怕染性病狂洗小弟弟！下場慘了 醫揭密 - 鏡週刊Mirror Media",
+      "published": "2026-09-10T11:14:00+00:00",
+      "summary": "男怕染性病狂洗小弟弟！下場慘了 醫揭密&nbsp;&nbsp;鏡週刊Mirror Media",
+      "sources": [
+        {
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ndXJTWVhrTUhQMjc1UVlXeXVQVVZsRXpzM3RHX1NsNmNwQ2d4eEhPWThSVm1SbC1UUng3d295Vm9STmJHcDZTRWpxRmpXb0VXY18yUlpsRzFpUVhh0gFiQVVfeXFMUDdQVXdTZEVWUW51S0xoWGN6NVlyMFpwNnhFOHhSdVJNOWpUNW5UZnN1eVd2eVJCTVpHbzJSeThVWDlpRnBCUWlLcEtaQi1fLUlNckhoR0JWNVF3SWZJRUZxVXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "7348e9ec2f3f",
       "title": "皰疹病毒︱30歲女「爛嘴角」以為熱氣 1致命病毒上腦奪命 醫生警告3情況病毒易乘虛而入",
       "published": "2026-09-10T10:21:16+00:00",
@@ -708,27 +954,69 @@
       "matched_keywords": []
     },
     {
-      "id": "fe82977f7730",
+      "id": "9976d4fc7888",
       "title": "同樣打流感疫苗保護力有差？研究：高劑量疫苗讓這類人住院風險更低",
       "published": "2026-09-10T06:37:39+00:00",
-      "summary": "同樣打流感疫苗保護力有差？研究：高劑量疫苗讓這類人住院風險更低&nbsp;&nbsp;health.udn.com",
+      "summary": "同樣打流感疫苗保護力有差？研究：高劑量疫苗讓這類人住院風險更低&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "health.udn.com",
+          "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RMW85ODR5RmZLeFRaejRSNUFpSUpvNnNnMjBlRS16ZjNPeVJiV0k1RnRzVlVDWWgydFlFVm1Nc1lLS2JRTmF6TzdDTDhtQVBISEdHeHh3TjhiLVZE0gFiQVVfeXFMUGlQclpvdTNWeXRJSlIzRGNMZjFucUtiaE5SZGFDbm9pVmtlYkR2NlBEQU0tZlcyV09hNDJaV2xkMWVuY0ZqNzl3cktnTjhDYXYyWWtzRlBQODYtVjBfb1VoUEE?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "85f24b9e1eab",
-      "title": "長期疼痛為何會被轉診精神科？醫揭「跨專科治療原因」",
-      "published": "2026-09-10T04:07:45+00:00",
-      "summary": "長期疼痛為何會被轉診精神科？醫揭「跨專科治療原因」&nbsp;&nbsp;Yahoo新聞",
+      "id": "19a4e3a7704c",
+      "title": "他誤認啤酒肚，竟是淋巴癌！醫列6徵兆、實用抗癌工具一次看",
+      "published": "2026-09-10T05:00:34+00:00",
+      "summary": "他誤認啤酒肚，竟是淋巴癌！醫列6徵兆、實用抗癌工具一次看&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOeGNuWmo0NUNyNGt5R0dqQVJ3eTAwbktYYkZQOE5aekxZcndVZ0J1Z0x6UVdGN1ZpakdhNDJXcE1tcl95TEFiTV9ISDJYRW1KZU1INUNZWXdGWEllaDl2aGRzaDMxTGgxTExLUHIyeWZNcldPNjFVMlRvUldfNTNpUzhWTjR2Znp3ZTFEb2R4dUF2MUdjZWNwVVJNaHc2clp0R1hoTHlydFdXU1VudjhFVFZZenNxdk9rOG8xUWxCMUhOb0xDMWZpVDdmZXYtYm9NTlZLcVVDYk5GMWZoWEIwZU5LVTBEaWNMRDhDZmZnb0NnYU9aaElCYXVSTlRzaHJwX0hLb2J3UldhRDVnTDBPQ2JDU0Jkb213TGRrTWJ2VTlYUXloakROTllzYVpsX0ZRSnZPa3hHX1JHcHkyMHc0VjE1TE9RWndzMHFEN2tJdWhoNk5abl8wamZPcmV5UQ?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcUpibEIwcHZjNzFLWDlrYkpwS0ZwczktZExYejRpcnpNUW9HZTkwclNNZERJSU9oSFY0RENwZ2I0VGVLQ2tHcTNISHBaYUJRU1lIMUF3STZBWG560gFiQVVfeXFMTzZrZy1oQnNTMXBpUjZkQmJ0cHhabXlsYlZTVHZHdGpCRUhXUWlERjRSbEt3bDBaa2x3dC1VS2d3TWItUVhhbzNhSUNoenBUeTY0T2FVWGRLdlZULXdhVXlhcXc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "primary cutaneous B-cell lymphoma",
+          "keyword": "淋巴癌",
+          "related_drugs": [
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0ec5d2ddb400",
+      "title": "長期疼痛為何會被轉診精神科？醫揭「跨專科治療原因」",
+      "published": "2026-09-10T04:00:00+00:00",
+      "summary": "長期疼痛為何會被轉診精神科？醫揭「跨專科治療原因」&nbsp;&nbsp;健康醫療網",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzdldvTm44ZUhxQUlIRVVJN3NGeEE0U1FIenVVU0otUzRtUWdzaklTS2pCZUo2MnpQdUU5a3RiMGJSRjF5cUM4ZEtvNzZNcWdpSWwySS13?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2022942d3d5d",
+      "title": "全球首例！豬腎“橋接”人腎方案獲驗證“器官再生第一股”真健康醫療(02697)卡位體外器官支持關鍵環節作者智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
+      "published": "2026-09-10T02:22:03+00:00",
+      "summary": "全球首例！豬腎“橋接”人腎方案獲驗證“器官再生第一股”真健康醫療(02697)卡位體外器官支持關鍵環節作者智通財經&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
+      "sources": [
+        {
+          "name": "Investing.com 香港 - 股市報價& 財經新聞",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00RWZycTdua3paWExmZ0Nqd0YxcGxHVVItTnljUy0yaEF1cU1Rd0hEaDV5MUxmckRLNWtVR3FSOGdPNWNIXzN0dFkycGFUU3EyaUhPV3VicjY5S3pKN2NEN3JJbzB0b1I5S1JnN0VZWm4?oc=5"
         }
       ],
       "matched_keywords": []
@@ -943,14 +1231,14 @@
       ]
     },
     {
-      "id": "7400e544d3ce",
+      "id": "cfd69f203d3e",
       "title": "洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」",
-      "published": "2026-09-10T01:00:00+00:00",
-      "summary": "洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」&nbsp;&nbsp;健康醫療網",
+      "published": "2026-09-10T01:37:42+00:00",
+      "summary": "洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」&nbsp;&nbsp;tw.news.yahoo.com",
       "sources": [
         {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxSWdSSWJkMUQ4V0ppbVpFX05lZ2lXVmtGZVdNLVFyZmEyS2x3cENNTUhYaXlyUGwyLWN0X3VKWm5KTnh5VkNSOW0wX3JNTWh0Q1pRcVhB?oc=5"
+          "name": "tw.news.yahoo.com",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQSVAzNTl5N1BoZ2tlM1FNNDdiQ2hPZ3VnaVpjYjIxeWduNkxxRzNKZnpsMzNqZFVYNWNYVHJjaXpxUlZIbGFpWTMtSk52a21qQTFaQ2pINjFfRzBibDFPNXFxa1JxWUdWanhfMVdoWDhJTlBQYW40YklSeWdjUlljTlRJVmV4dUZ2X0YyZDU1NTRyQ1U1MzFFdTlyNHJzNHV6T2xMZ3h4UkstOUw0Vmhhb2EzSVVNTzBab3YxWG1kX3RjeVpCSUc1a2RBMFBUS3NER01MbTVQUDgtdUY1TmJHN2pzMkZRMGI2SkNFaUtyRWJVclJ3bU9lcG5fbmV6X2N6NzJBa2x1Q2d4dXFFMk9nNUNTaUZKSDhzOUxjTkRiOUhSYmUwVWwzOERrQUFIclZ1NlRPQXBkZUtuamZlWjYtRV9rTC1TUUJGaFl3Y2IxV1NUcGYyS29aVw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -968,13 +1256,13 @@
       ]
     },
     {
-      "id": "69dfb495a56c",
+      "id": "3f64b48eede2",
       "title": "女性非自願單身者困孤獨低自尊 研究： 較常將戀愛失敗歸咎自己",
       "published": "2026-09-09T22:40:03+00:00",
-      "summary": "女性非自願單身者困孤獨低自尊 研究： 較常將戀愛失敗歸咎自己&nbsp;&nbsp;bastillepost.com",
+      "summary": "女性非自願單身者困孤獨低自尊 研究： 較常將戀愛失敗歸咎自己&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOODQ3VWxNMjMwUmotOXgwNDhBZWVwR2pGN0RCTzNhUjBHZTJYOGxucDJFcURIckVJVExTSXd5N2stbzRYU01HZVloaXNOSlVsbElyNE14aHNyQmpUcW92MHBkSW80OS1nWDFINlRMZGs4SDVJX2tyejVGOWRDaTRoY1BNNW03OVJWWXl2QjFyUkJjMHozUTlTdEhRSHVUU2RDRUxYY3hSSGNmTXR0MUZrdGZoQU5zUVBGN1pvZzY2ODdsRTlnc0ZETk1qMTJmQmJyVDNEaXNKak9qdXI4VF9qU2h4cVBRbkJiUGFtcTZ6NTV4Vi1QM18tZHhGR0JLV1dIc1l5TV9URVg0aFI1UFcxTUt0YWVUdmUxMzdMcXdxeDNHN0dESmh2dHUwZ1hqS0R4M2FqT3JwZi10V3NiT3MyVzhXOERabWYxcXZJU2EyRXhaZXpRUEdNeVpJYVNaZFRzdVJTNS1OVHdON3U5cHJF?oc=5"
         }
       ],
@@ -1007,13 +1295,13 @@
       "matched_keywords": []
     },
     {
-      "id": "cb5a0340b8a8",
+      "id": "e0c0156fcaf4",
       "title": "攝護腺癌治療後疲倦、肌力下降怎麼辦？研究證實生活處方有助改善",
       "published": "2026-09-09T08:08:26+00:00",
-      "summary": "攝護腺癌治療後疲倦、肌力下降怎麼辦？研究證實生活處方有助改善&nbsp;&nbsp;health.udn.com",
+      "summary": "攝護腺癌治療後疲倦、肌力下降怎麼辦？研究證實生活處方有助改善&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "health.udn.com",
+          "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRUkdBOVYyWEtrQ2NudnJQWmktanFwYWMwUGwzemEycUJvV0JVaEdHQUZ4amZobnVWOEMxdFRUVWc3di1GaU0wdVFDYUk2YVhRa1htOGdPWjctTTdO0gFiQVVfeXFMT2c1Mk44cnIyQnE3NnZnb1NNSFhiQmtSWEJIOGpPSk1mdGpQUFNXNnE3UVBua2VIdmtHZUVPS25OQTZkZmRMcmpucm1wZTUtNTZNaURUam5mQTJtNDd1NTNmQlE?oc=5"
         }
       ],
@@ -1117,19 +1405,6 @@
       ]
     },
     {
-      "id": "bd7b3edd040d",
-      "title": "單一伴侶就沒事？揭開性病迷思",
-      "published": "2026-09-09T01:13:00+00:00",
-      "summary": "單一伴侶就沒事？揭開性病迷思&nbsp;&nbsp;東森新聞",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTcm1lcjJJRVhIS3VkWWYxODB3eGdSN2xXSEdmNWdnbi0tbWF6bC1US2lqQkcxWFB5d1lCVkN6c2c2Vy1qM1pJWHU2V0Zrdl9KRERSbQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "04e2e7a1b676",
       "title": "黑巧克力護心健腦 每週三份最剛好",
       "published": "2026-09-08T23:00:00+00:00",
@@ -1169,13 +1444,13 @@
       "matched_keywords": []
     },
     {
-      "id": "aedcc84599a6",
+      "id": "0f616ff01622",
       "title": "流感疫苗暫緩兩週到貨 11家診所已有3家缺貨",
       "published": "2026-09-08T07:44:04+00:00",
-      "summary": "流感疫苗暫緩兩週到貨 11家診所已有3家缺貨&nbsp;&nbsp;news.org.tw",
+      "summary": "流感疫苗暫緩兩週到貨 11家診所已有3家缺貨&nbsp;&nbsp;索引新聞",
       "sources": [
         {
-          "name": "news.org.tw",
+          "name": "索引新聞",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWWlJMlJ2U2c3dzI3NGlPWU41bndIWk5iZGZpWmxOeGQ3TVUtMDZJUVRLb0JlU19VOE41YUc4ZGpuUVZyQ0xJcVNEV0F3cTNwdEVhRHFoanRodHNwZ2RjNVpLSlAzaGQ4Z1dfSVota0RLSUtHalB2LW1oQXlKZU1hNVNPWVNZbGlELVpBQVNFdUhqN1ZiWHVQUzh4el9vMTg?oc=5"
         }
       ],
@@ -1195,26 +1470,26 @@
       "matched_keywords": []
     },
     {
-      "id": "68b0a8b477ac",
+      "id": "0e1f75fd03ab",
       "title": "廣東輪狀病毒高發季將至，專家提醒新手爸媽把握接種窗口",
       "published": "2026-09-08T03:29:00+00:00",
-      "summary": "廣東輪狀病毒高發季將至，專家提醒新手爸媽把握接種窗口&nbsp;&nbsp;hkcd.com.hk",
+      "summary": "廣東輪狀病毒高發季將至，專家提醒新手爸媽把握接種窗口&nbsp;&nbsp;香港商报",
       "sources": [
         {
-          "name": "hkcd.com.hk",
+          "name": "香港商报",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GSEdZNHF4Z25kcEh2TTdQVTNYbkl5Z2xqMTBjaDFMX0FpZFB4YUZwcndlNGlJZFd5OTJqVnVLQjdaNTJ6SmFUV1RkNUxzcWJabDBsaXI2N1pJQVdnXzI5bFBvQ3ctVkRsLXJCdlBBSVRoRHdiTGc?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "e16a668ff2b2",
+      "id": "6ed1800b0f40",
       "title": "空汙不只傷肺！詹長權揭PM2.5「傷心」真相：心肌梗塞、中風都可能有關",
       "published": "2026-09-08T02:55:02+00:00",
-      "summary": "空汙不只傷肺！詹長權揭PM2.5「傷心」真相：心肌梗塞、中風都可能有關&nbsp;&nbsp;Yahoo新聞",
+      "summary": "空汙不只傷肺！詹長權揭PM2.5「傷心」真相：心肌梗塞、中風都可能有關&nbsp;&nbsp;tw.news.yahoo.com",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbk5tRmJwdWtWQWd4YjdYY2Nqc1R4TnFkRjU0VlI2c2p1ZXBSQW9LQmE4T25EQlFmWmFPd0JWRkUwaWppWmdwb0ZDcU9NRTY4b01NZVBKSzlWRGFKb1RJbzExVEJ6eFVnTE5kdFhoRy1ZQzdMU25aazF5U0hNN19ETW5DVTZ4Y0ZSRXhJQTgtUHNiVTkyT3R4aDFTTktnVWJJTjVqRWZMdEJfS0xIUXBnVVVRRVZSbFNYTlFJUTJNSDZfOTNtVjJMUmtVbUk1Y3RiTW9SNVlNSk1KTXVreWZIbFExb3BJWU9ScXhheHUwN3N1RkVRa1lnbXgzWVoydGR4bWIySUVR?oc=5"
         }
       ],
@@ -1290,7 +1565,7 @@
       "id": "f32d9191dffc",
       "title": "擔心癌症找上身？營養師力推5款抗癌蔬菜 輪流吃搭建身體天然防護罩",
       "published": "2026-09-07T06:09:34+00:00",
-      "summary": "擔心癌症找上身？營養師力推5款抗癌蔬菜 輪流吃搭建身體天然防護罩&nbsp;&nbsp;觸mii抗癌路上抵抗力下降 減糖+3大營養配方 助紓緩療程副作用¹&nbsp;&nbsp;香港01",
+      "summary": "擔心癌症找上身？營養師力推5款抗癌蔬菜 輪流吃搭建身體天然防護罩&nbsp;&nbsp;觸mii",
       "sources": [
         {
           "name": "觸mii",
@@ -1752,19 +2027,6 @@
       ]
     },
     {
-      "id": "e332d57dbcb6",
-      "title": "畫畫、舞蹈、看展能抗老？這習慣效果竟媲美運動| 運動 | 健康 | 美術館",
-      "published": "2026-09-06T11:59:47+00:00",
-      "summary": "畫畫、舞蹈、看展能抗老？這習慣效果竟媲美運動| 運動 | 健康 | 美術館&nbsp;&nbsp;台灣大紀元",
-      "sources": [
-        {
-          "name": "台灣大紀元",
-          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPVnJueGRHSGdLTWhRUmVfcFVmZWhLajdIMk91bHJlWXZEV0dsRVFLWGNkODVXQUpueFBFTm82MmdiUVlfZlNCcXU2OG5RMnJqV3RPSW5ia1dROXRoOXQwdDlDMzg5NDBfOGhzQ1VWMHZjMXZhLXF6Zy1wME1SRzZ3aE4tXzZXOE1JVThuamFPLUpSdXMtZTQ4LUNST01mc1BTeXluTHlKMGV5WGxwdGVGMDR6OFlMOHlDbEdDaTJzWXRaUGg4eDNnUVVVSEJMakM5M1pabmZ5eF8yTUZTRVJ0c0tfRDFJdlFaX2REZnZ0S1pyWHdwVkp1dHlNTWVjRHBiallYNzg2SzJxekxVa2Y2M2VGR3hteTZlS0lySTdXbkVidjJsMThoYS14aWhJLVdhOU5hS1lSWHFXVVBid1FuSFA0MTJMeUdLLWMzWkdaS3JaUWc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "a0b40390e82b",
       "title": "在郵輪上如何避免生病？ 專家支招",
       "published": "2026-09-06T10:27:00+00:00",
@@ -1776,35 +2038,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "579b6f9d2e17",
-      "title": "研究：激素動態監測或有助識別一種常見高血壓病因- 國際",
-      "published": "2026-09-06T07:27:40+00:00",
-      "summary": "研究：激素動態監測或有助識別一種常見高血壓病因- 國際&nbsp;&nbsp;香港文匯報",
-      "sources": [
-        {
-          "name": "香港文匯報",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MRzZvT0ZWUUhKTHRhbktxd3phMHVlQ3Blczk5RG9pOXNNY2VESV9qMVhlQ3VEbWlUcWFfdV9TeXVnaF9GWkpYTkRxV1NYS2xuNmFjWVo2Mzg4RldYWnM2OTA3Q2hxa1VLaTZ5TV9oLWxEamJDaFJv?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

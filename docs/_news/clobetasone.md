@@ -14,7 +14,7 @@ permalink: /news/clobetasone/
 ---
 
 <p class="key-answer" data-question="Clobetasone 有什麼相關新聞？">
-<strong>Clobetasone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Clobetasone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/clobetasone/
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>primary cutaneous T-cell lymphoma（100.0%）</li>
 <li>Sezary syndrome（99.8%）</li>
-<li>primary cutaneous B-cell lymphoma（99.8%）</li>
+<li class="indication-matched">primary cutaneous B-cell lymphoma（99.8%）<span class="indication-tag">📰 淋巴癌</span></li>
 <li>granulomatous slack skin disease（99.7%）</li>
 <li>Crohn's colitis（99.7%）</li>
 <li>adrenocortical insufficiency（99.7%）</li>
@@ -42,13 +42,29 @@ permalink: /news/clobetasone/
 <p><a href="{{ '/drugs/clobetasone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [HPV病毒「男女都可能感染」！醫建議接種疫苗：可預防癌症](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFbDVfN0NEemg5ZHRVcUVOYThqTlQ3ZW5LdHRQbGRZV09uMk9yNDQ3YnJ0TmtNdjMtT1JuWjdlWEVwNmFSWDd1Z0pXMkd6aUNG0gFPQVVfeXFMT0hFZF9xY1BDYUttLTdta0l1X2IwTWV5T0dEMzNHVlV2UmhJMDBVaWJwdXFrR3BiU1ZnZ3h2b0ZlQ1lDRTFRUGlHOXQ1SmZyTQ?oc=5)
+
+2026-09-13 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFbDVfN0NEemg5ZHRVcUVOYThqTlQ3ZW5LdHRQbGRZV09uMk9yNDQ3YnJ0TmtNdjMtT1JuWjdlWEVwNmFSWDd1Z0pXMkd6aUNG0gFPQVVfeXFMT0hFZF9xY1BDYUttLTdta0l1X2IwTWV5T0dEMzNHVlV2UmhJMDBVaWJwdXFrR3BiU1ZnZ3h2b0ZlQ1lDRTFRUGlHOXQ1SmZyTQ?oc=5)
+
+---
 
 ### [德里24歲男子不育檢查發現子宮，罕見持續性苗勒管綜合症揭示癌症風險](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
 
 2026-09-12 <span class="news-indication-tag">癌症</span>
 
-來源：[singtaousa.com](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
+來源：[Singtaousa](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
+
+---
+
+### [他誤認啤酒肚，竟是淋巴癌！醫列6徵兆、實用抗癌工具一次看](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcUpibEIwcHZjNzFLWDlrYkpwS0ZwczktZExYejRpcnpNUW9HZTkwclNNZERJSU9oSFY0RENwZ2I0VGVLQ2tHcTNISHBaYUJRU1lIMUF3STZBWG560gFiQVVfeXFMTzZrZy1oQnNTMXBpUjZkQmJ0cHhabXlsYlZTVHZHdGpCRUhXUWlERjRSbEt3bDBaa2x3dC1VS2d3TWItUVhhbzNhSUNoenBUeTY0T2FVWGRLdlZULXdhVXlhcXc?oc=5)
+
+2026-09-10 <span class="news-indication-tag">淋巴癌</span>
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcUpibEIwcHZjNzFLWDlrYkpwS0ZwczktZExYejRpcnpNUW9HZTkwclNNZERJSU9oSFY0RENwZ2I0VGVLQ2tHcTNISHBaYUJRU1lIMUF3STZBWG560gFiQVVfeXFMTzZrZy1oQnNTMXBpUjZkQmJ0cHhabXlsYlZTVHZHdGpCRUhXUWlERjRSbEt3bDBaa2x3dC1VS2d3TWItUVhhbzNhSUNoenBUeTY0T2FVWGRLdlZULXdhVXlhcXc?oc=5)
 
 ---
 
