@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-13T07:48:46.503862+00:00",
+  "generated": "2026-09-13T12:57:51.486483+00:00",
   "count": 17,
   "news": [
     {
@@ -573,13 +573,13 @@
       ]
     },
     {
-      "id": "2f6e4100fb6d",
+      "id": "df418187977b",
       "title": "研究警告：睡覺做1事超傷心臟 中風風險還會上升",
-      "published": "2026-09-11T15:00:00+00:00",
+      "published": "2026-09-11T14:56:36+00:00",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNZjh2WUFnMVVDN3hNZkVIY08xdzJkZ0R2Qlo4LUZLdy1reGlKWWhlUnQ4eW5QSzE5U0ktckU5aTN3anlfeHoxcUhVREdvT1VqT1ZfVDBEUFBkRnB4ZnNZOFpFdzdoVnE4eTI1NGRfX2wySEZ0TmZmOHBOUTNmSU4yalI4TGFIa283R0dzLUt1eDZDbG9OZjFCT2owd3F0N3FUQV83VFNCczJwU2FzRVNoZTNwNVV0bmZIU2IwQk1hVm80bkN0c0xEOVpxcFV5cXBLUWR5SnlISmZwY3dJdHU3cGxNeThOY3NBY2d3UVZUY2RHVjZldm1vbXoxc2V5M25qVXQtNlFjTC1UeThMZFcybHRfV3ZJOTFvSjNtUnBtUl9HRVU3LUI0RzBWVUhUNWw4c2l5SlVPQWRfV2tlYnNBNVQxU1cxZGM?oc=5"
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zZkdjRS1sVHRyUDJnZW9OZUtGQ1JCVjFvZHFudHhXaVVVaGRjUG1lVmFUYlBtcVNrOXU5c18zcGVockVNNkVzelAwSkk?oc=5"
         }
       ],
       "keywords": [
@@ -667,30 +667,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "604f5896ecd4",
-      "title": "感冒吃維他命C好更快？研究曝「嚴重症狀少26%」 關鍵是它 | TVBS - LINE TODAY",
-      "published": "2026-09-10T23:49:43+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RbXVPTTJFZk84M2JzRk54VVhCZVFFS2diRDBRWXBseHVRTjVWU19HSEI5UzA2RTFNUnNQd1BYOGtKRDV1enhrampiaFlPNVcwUm5jRERB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
@@ -933,12 +909,12 @@
       ]
     },
     {
-      "id": "cfd69f203d3e",
+      "id": "9f8f56026204",
       "title": "洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」",
       "published": "2026-09-10T01:37:42+00:00",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
+          "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQSVAzNTl5N1BoZ2tlM1FNNDdiQ2hPZ3VnaVpjYjIxeWduNkxxRzNKZnpsMzNqZFVYNWNYVHJjaXpxUlZIbGFpWTMtSk52a21qQTFaQ2pINjFfRzBibDFPNXFxa1JxWUdWanhfMVdoWDhJTlBQYW40YklSeWdjUlljTlRJVmV4dUZ2X0YyZDU1NTRyQ1U1MzFFdTlyNHJzNHV6T2xMZ3h4UkstOUw0Vmhhb2EzSVVNTzBab3YxWG1kX3RjeVpCSUc1a2RBMFBUS3NER01MbTVQUDgtdUY1TmJHN2pzMkZRMGI2SkNFaUtyRWJVclJ3bU9lcG5fbmV6X2N6NzJBa2x1Q2d4dXFFMk9nNUNTaUZKSDhzOUxjTkRiOUhSYmUwVWwzOERrQUFIclZ1NlRPQXBkZUtuamZlWjYtRV9rTC1TUUJGaFl3Y2IxV1NUcGYyS29aVw?oc=5"
         }
       ],
@@ -1004,6 +980,30 @@
       ]
     },
     {
+      "id": "604f5896ecd4",
+      "title": "感冒吃維他命C好更快？研究曝「嚴重症狀少26%」 關鍵是它 | TVBS - LINE TODAY",
+      "published": "2026-09-09T06:29:39+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RbXVPTTJFZk84M2JzRk54VVhCZVFFS2diRDBRWXBseHVRTjVWU19HSEI5UzA2RTFNUnNQd1BYOGtKRDV1enhrampiaFlPNVcwUm5jRERB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "7ecd6467c568",
       "title": "失智症可預防？ WHO：做好這些事可減45%病例",
       "published": "2026-09-09T03:09:00+00:00",
@@ -1039,12 +1039,12 @@
       ]
     },
     {
-      "id": "6ed1800b0f40",
+      "id": "e16a668ff2b2",
       "title": "空汙不只傷肺！詹長權揭PM2.5「傷心」真相：心肌梗塞、中風都可能有關",
       "published": "2026-09-08T02:55:02+00:00",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
+          "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbk5tRmJwdWtWQWd4YjdYY2Nqc1R4TnFkRjU0VlI2c2p1ZXBSQW9LQmE4T25EQlFmWmFPd0JWRkUwaWppWmdwb0ZDcU9NRTY4b01NZVBKSzlWRGFKb1RJbzExVEJ6eFVnTE5kdFhoRy1ZQzdMU25aazF5U0hNN19ETW5DVTZ4Y0ZSRXhJQTgtUHNiVTkyT3R4aDFTTktnVWJJTjVqRWZMdEJfS0xIUXBnVVVRRVZSbFNYTlFJUTJNSDZfOTNtVjJMUmtVbUk1Y3RiTW9SNVlNSk1KTXVreWZIbFExb3BJWU9ScXhheHUwN3N1RkVRa1lnbXgzWVoydGR4bWIySUVR?oc=5"
         }
       ],
