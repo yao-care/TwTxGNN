@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-12T23:35:49.214751+00:00",
-  "count": 17,
+  "generated": "2026-09-13T02:13:26.965494+00:00",
+  "count": 16,
   "news": [
     {
-      "id": "d5f5d6c37908",
+      "id": "5c5568ccc145",
       "title": "常規驗血現端倪 年輕人低肝酶與早發性大腸直腸癌具關聯",
       "published": "2026-09-12T19:20:07+00:00",
       "sources": [
         {
-          "name": "Singtaousa",
+          "name": "singtaousa.com",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcE94N084OVk2cWdrVWVMU3JuZUszdzlSVF9YWjhaNkxKNVVaZEhLdzNlcGpac0lsd0F5UU93aVVZaml4LW90STBWZzdnYXdFbk1GZWJva2thZjl2WnFxbWJhdm5BNTlSSjV6ZmVOdXlTSWhjWG5OMjNsOUZmSU1tLTNJVmluLWJMM2hTYWtxYUJQRm8tUVpFdUdNbU92clh3Rld4d3VJYnZrYWU0TnR1RzA0VXlhTFZkRGZUTlNIY21MaVZYbUlxMGE2RVJCeHlXTGd0ZTVYWDFuX1pWSlhNVA?oc=5"
         }
       ],
@@ -74,12 +74,12 @@
       ]
     },
     {
-      "id": "ce198d2b75aa",
+      "id": "6b6c14cc7d0f",
       "title": "德里24歲男子不育檢查發現子宮，罕見持續性苗勒管綜合症揭示癌症風險",
       "published": "2026-09-12T02:00:00+00:00",
       "sources": [
         {
-          "name": "Singtaousa",
+          "name": "singtaousa.com",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5"
         }
       ],
@@ -282,231 +282,12 @@
       ]
     },
     {
-      "id": "4965cc56034e",
-      "title": "HPV疫苗不只防子宮頸癌！感染率降88%，男性接種也能降低相關癌症風險",
-      "published": "2026-09-12T01:39:22+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPbHZUMng3dDJISmRlR1J5THN2SWVjV01MV0tQLUoxQmd2WmRzR1VBTkx2TEEzY29PWFUzQkl4dUs5SFhqUWxBNkh1ZGVUeVRIUnl5UDBMWjgyTTQ0Z1hzc3NMaXc2NjZpYWVlb0t0R20yV2NycnMzYjRCOXdnc3VSeHhzbm1FS2ZsUEVPOUNZeVBBYjNlQ0VJZEpuYUtUQjEtZEpBbGdhYWl4emt3Z3hoN1hfVXVRZ1IwUmJHMmRRbVFvQ2xaY2dwUWx3cURsU3daQnVXUExvSnZMZlExdFJiSTdUcXd5ckwyamtlYi1PM2x1ZWFUaFN3dmhpelFIMXQxTjc0SUUxckFBTEZXR0JmUlVaZjVKT3E0SS1XREdvWXFwSFhxQlgyaVIzWUJaTkF3dGlObUFJVVlaSTVZMUVtTFlyaWlpN3FZX21QV2kxUm5sdWV0TDhld1pzbFQtSU11WTNxZGdyVDF4X0xQVGlKd2NHY1duMEk4a25GeEp6QTJ4UTIxZ2t5aWt0Q0RocGtNT1pRNTdxOWUzbUxXaGVRZA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "400dcffcbc28",
+      "id": "fd95776468c1",
       "title": "自由開講》公費皮蛇疫苗，也是守護長照與健保的重要防線",
       "published": "2026-09-12T01:00:00+00:00",
       "sources": [
         {
-          "name": "talk.ltn.com.tw",
+          "name": "自由評論網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JU09TWllfYm9HTmtlQ19GNUp3RndndC1xbXFzOVUtYmtObXpqV0xab0cyMUhHZVNibC0wcXFkMkQ2cVAyWGJwc0wxZFpURDF0NDExNXlyYWRCY3NJdF9hM2RR0gFnQVVfeXFMUGFMZ3c1bkRSUER0NHhrNHBhMm9BT1JkUy1vOUhXc1NXaklyNUtsNVQ4bzFJTllHWlB0M213SmlhTlRDT1hMVnNaYlJnVkEtaWRoY09GMHNPQmxXZTlqaE96QzlMbmthNA?oc=5"
         }
       ],
@@ -573,13 +354,13 @@
       ]
     },
     {
-      "id": "df418187977b",
+      "id": "0440acd3a32c",
       "title": "研究警告：睡覺做1事超傷心臟 中風風險還會上升",
-      "published": "2026-09-11T14:56:36+00:00",
+      "published": "2026-09-11T15:00:00+00:00",
       "sources": [
         {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zZkdjRS1sVHRyUDJnZW9OZUtGQ1JCVjFvZHFudHhXaVVVaGRjUG1lVmFUYlBtcVNrOXU5c18zcGVockVNNkVzelAwSkk?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNZjh2WUFnMVVDN3hNZkVIY08xdzJkZ0R2Qlo4LUZLdy1reGlKWWhlUnQ4eW5QSzE5U0ktckU5aTN3anlfeHoxcUhVREdvT1VqT1ZfVDBEUFBkRnB4ZnNZOFpFdzdoVnE4eTI1NGRfX2wySEZ0TmZmOHBOUTNmSU4yalI4TGFIa283R0dzLUt1eDZDbG9OZjFCT2owd3F0N3FUQV83VFNCczJwU2FzRVNoZTNwNVV0bmZIU2IwQk1hVm80bkN0c0xEOVpxcFV5cXBLUWR5SnlISmZwY3dJdHU3cGxNeThOY3NBY2d3UVZUY2RHVjZldm1vbXoxc2V5M25qVXQtNlFjTC1UeThMZFcybHRfV3ZJOTFvSjNtUnBtUl9HRVU3LUI0RzBWVUhUNWw4c2l5SlVPQWRfV2tlYnNBNVQxU1cxZGM?oc=5"
         }
       ],
       "keywords": [
@@ -905,13 +686,13 @@
       ]
     },
     {
-      "id": "9f8f56026204",
+      "id": "7400e544d3ce",
       "title": "洗腎、糖尿病患別輕忽一場感冒 RSV恐成慢性病惡化「最後一根稻草」",
-      "published": "2026-09-10T01:37:42+00:00",
+      "published": "2026-09-10T01:00:00+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQSVAzNTl5N1BoZ2tlM1FNNDdiQ2hPZ3VnaVpjYjIxeWduNkxxRzNKZnpsMzNqZFVYNWNYVHJjaXpxUlZIbGFpWTMtSk52a21qQTFaQ2pINjFfRzBibDFPNXFxa1JxWUdWanhfMVdoWDhJTlBQYW40YklSeWdjUlljTlRJVmV4dUZ2X0YyZDU1NTRyQ1U1MzFFdTlyNHJzNHV6T2xMZ3h4UkstOUw0Vmhhb2EzSVVNTzBab3YxWG1kX3RjeVpCSUc1a2RBMFBUS3NER01MbTVQUDgtdUY1TmJHN2pzMkZRMGI2SkNFaUtyRWJVclJ3bU9lcG5fbmV6X2N6NzJBa2x1Q2d4dXFFMk9nNUNTaUZKSDhzOUxjTkRiOUhSYmUwVWwzOERrQUFIclZ1NlRPQXBkZUtuamZlWjYtRV9rTC1TUUJGaFl3Y2IxV1NUcGYyS29aVw?oc=5"
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxSWdSSWJkMUQ4V0ppbVpFX05lZ2lXVmtGZVdNLVFyZmEyS2x3cENNTUhYaXlyUGwyLWN0X3VKWm5KTnh5VkNSOW0wX3JNTWh0Q1pRcVhB?oc=5"
         }
       ],
       "keywords": [
@@ -976,12 +757,12 @@
       ]
     },
     {
-      "id": "e72ac5f9987e",
+      "id": "7ecd6467c568",
       "title": "失智症可預防？ WHO：做好這些事可減45%病例",
       "published": "2026-09-09T03:09:00+00:00",
       "sources": [
         {
-          "name": "epochtimes.com",
+          "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oaGZfZktZUkNnRTFXcVhLa3VMdE5WOEpqemdlMDBjUE9sempiaFBDejM2S1l0UXliYUNacWxSdkpVMElRbFFEU2hiRXhFLXhVV2E5akdXV3NvSjNGZjVZ0gFkQVVfeXFMTUtBLWk0WEt2RE90YVJTdlNBRW8xQlZYYVhfcGxYNFdjWmw4NkpmYjhPb1F2ZzEzeG9wQlBLdWhzQ1gtcWJBSjdha1IzSTBGc2Fmenc3bFRjdjVJT2Eyek5JWld3UA?oc=5"
         }
       ],
@@ -1258,12 +1039,12 @@
       ]
     },
     {
-      "id": "ef7dad8a1f7a",
+      "id": "3edc40f5487f",
       "title": "50歲以下最致命癌症 大腸癌死亡率衝上榜首",
       "published": "2026-09-06T15:00:00+00:00",
       "sources": [
         {
-          "name": "epochtimes.com",
+          "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HcDZnemNlMUMxc0h0T3F0MEJvdDNGZUVyYnFISENVS0UtNDlEa2dOZDNUOWk0d01xNDZGZk52aDdCd2xycjZIRDVwM09jbExqeWlyWlVrQWJYcDVrT0I40gFkQVVfeXFMT0hXdG5XS1FlektEUW9QOTcyQTZLYmpxUk5YNEhJNXpjUTJ1T3VZOW9jZTVQeWlfZ3MzcGhTTy1CR1hCSTNETzdjVWRnX29VWW1Fa2ZyX3l5S09EeTR5Skdldl9uRg?oc=5"
         }
       ],
