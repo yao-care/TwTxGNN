@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（6 則）
 
 ### [HPV病毒「男女都可能感染」！醫建議接種疫苗：可預防癌症](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFbDVfN0NEemg5ZHRVcUVOYThqTlQ3ZW5LdHRQbGRZV09uMk9yNDQ3YnJ0TmtNdjMtT1JuWjdlWEVwNmFSWDd1Z0pXMkd6aUNG0gFPQVVfeXFMT0hFZF9xY1BDYUttLTdta0l1X2IwTWV5T0dEMzNHVlV2UmhJMDBVaWJwdXFrR3BiU1ZnZ3h2b0ZlQ1lDRTFRUGlHOXQ1SmZyTQ?oc=5)
 
 2026-09-13 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
 
-來源：[health.ettoday.net](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFbDVfN0NEemg5ZHRVcUVOYThqTlQ3ZW5LdHRQbGRZV09uMk9yNDQ3YnJ0TmtNdjMtT1JuWjdlWEVwNmFSWDd1Z0pXMkd6aUNG0gFPQVVfeXFMT0hFZF9xY1BDYUttLTdta0l1X2IwTWV5T0dEMzNHVlV2UmhJMDBVaWJwdXFrR3BiU1ZnZ3h2b0ZlQ1lDRTFRUGlHOXQ1SmZyTQ?oc=5)
-
----
-
-### [吃芥末能殺死9成癌細胞？實驗證實1成分讓腫瘤擴散減少35%！拆解黃、青芥末6大隱藏功效與4大食用禁忌](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPazB5aFNzelI3cUhJbFllQ2RIQVN2b0ljRzk4NXY4RmljblZRTkFMZ2ZPbjdwdDFLLXVnMk9kRndTSUJrVndDVWhQM2tMNTFzSVJDM3RKTUFRbGpXNVp0cnduS2lwUEtMM0tsb0VYSWRGUFN6aDRNanNnN2kxbWIzNkc3MEpoaEQxbzNQakJzSGVndDJTcjA0S2FFUENBUFhyOFdYWl8zcm1RXy1KQWg3ZkRzQ2V6a0lBMjMyNzJqZjNiVjBFSG9tS3NHbkR0bW8tMnRHc2p1U1FteG9BV2dtTDg2MXV3RmJYUXJROHc4RQ?oc=5)
-
-2026-09-12 <span class="news-indication-tag">腫瘤</span>
-
-來源：[she.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPazB5aFNzelI3cUhJbFllQ2RIQVN2b0ljRzk4NXY4RmljblZRTkFMZ2ZPbjdwdDFLLXVnMk9kRndTSUJrVndDVWhQM2tMNTFzSVJDM3RKTUFRbGpXNVp0cnduS2lwUEtMM0tsb0VYSWRGUFN6aDRNanNnN2kxbWIzNkc3MEpoaEQxbzNQakJzSGVndDJTcjA0S2FFUENBUFhyOFdYWl8zcm1RXy1KQWg3ZkRzQ2V6a0lBMjMyNzJqZjNiVjBFSG9tS3NHbkR0bW8tMnRHc2p1U1FteG9BV2dtTDg2MXV3RmJYUXJROHc4RQ?oc=5)
+來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFbDVfN0NEemg5ZHRVcUVOYThqTlQ3ZW5LdHRQbGRZV09uMk9yNDQ3YnJ0TmtNdjMtT1JuWjdlWEVwNmFSWDd1Z0pXMkd6aUNG0gFPQVVfeXFMT0hFZF9xY1BDYUttLTdta0l1X2IwTWV5T0dEMzNHVlV2UmhJMDBVaWJwdXFrR3BiU1ZnZ3h2b0ZlQ1lDRTFRUGlHOXQ1SmZyTQ?oc=5)
 
 ---
 
@@ -80,22 +72,6 @@ permalink: /news/cefmetazole/
 2026-09-09 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[大紀元時報 香港](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EZURKaHVwMXZFa3pMdkJfcWdmQzFGcTlLMXVZeDZpc0dQQV9GOVd6RzhRZW1ONXlUZzE5a2lORmdEWmN0d2FwODBoM1FIY2ZTQloybFFJeGxIQ0ZrZDZJ?oc=5)
-
----
-
-### [【密碼解鎖】第四期癌症治癒新藥有望！《Newsweek》最新號深入探討個人化精準醫療](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKaGVLanYzVmFYdTRsZkdob2x0RnA2aWROcGNVaUp1WlZ3OVk4Y2dzVEtMeGpaajRERHQ2MjBBM2dVMm5sVzhlNmhnSElYRHhFN0RlNy0ya2dqbTllYzhGdkJMcDJOczFHc0QyVENjR3FBRFp0cjJNejJ3?oc=5)
-
-2026-09-08 <span class="news-indication-tag">癌症</span>
-
-來源：[webook.com.tw](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKaGVLanYzVmFYdTRsZkdob2x0RnA2aWROcGNVaUp1WlZ3OVk4Y2dzVEtMeGpaajRERHQ2MjBBM2dVMm5sVzhlNmhnSElYRHhFN0RlNy0ya2dqbTllYzhGdkJMcDJOczFHc0QyVENjR3FBRFp0cjJNejJ3?oc=5)
-
----
-
-### [癌末男戒糖、加工食品 腫瘤縮小](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UV2xVQmUtek04eVJyVXJjRER1TTdoN3NyVEhqbkFQbld5eDdLZXNEY1R2RXBGT3Zfb1ptUDhJdktRU19xY2ZfRnR6ZzZHWFp5UndMYkFyLUtfY0FlcmdkM0ZR0gFnQVVfeXFMUEtYOFlxc1RyWDFlNndmbVBfQ3lrazRGRGlnOW0xZ0FVWTN5akU4bW5Yd0RMZlM1aEN3UWtqVVhJVG10MFhCYXZBVXlvWTllbjAwYkgtQnFaWk9faGNNekRuYlE5VXd5WQ?oc=5)
-
-2026-09-08 <span class="news-indication-tag">腫瘤</span>
-
-來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UV2xVQmUtek04eVJyVXJjRER1TTdoN3NyVEhqbkFQbld5eDdLZXNEY1R2RXBGT3Zfb1ptUDhJdktRU19xY2ZfRnR6ZzZHWFp5UndMYkFyLUtfY0FlcmdkM0ZR0gFnQVVfeXFMUEtYOFlxc1RyWDFlNndmbVBfQ3lrazRGRGlnOW0xZ0FVWTN5akU4bW5Yd0RMZlM1aEN3UWtqVVhJVG10MFhCYXZBVXlvWTllbjAwYkgtQnFaWk9faGNNekRuYlE5VXd5WQ?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [魚油能預防認知障礙？新研究：靠單一營養難防失智 關鍵在日常](https://news.google.com/rss/articles/CBMimgNBVV95cUxPZTRVS0V5UnhsRkNYU2poOVJRV1RubnlnYXNPVlNLLUE4U1RtNlVvWWtlZWk4RTVCRGgzNnVWbTVpMzMyemhWN19rVlUwMW5MLS1kQWY3Zjd4RG9pd2JfV1JGaUFqTFoxZ2oxUlJSS0stVU5ncldETDNPcGlIbnpicU1uYjZ6UU5JaVFXaTJ6MW50SzFBS1k1YnJSd185OTJWTVptMHAtaHJtTXpXemhubEFXZjlLbGRMVlhUaUtLb2NNejJyR1lLRFR2ei11RFp5a1ZqWGFXOVFjYkcxejVGZm8zMjdVa0NnN1NsMmhaaVJYTmhZQWNFMzJaYms4U1dhSFZvTm1XRFo4Z0xLSVdMWlkyblBlSndqT01CQUtBLWUyT0xVTWNySVJjZFJQTEZ4UHBva2ZsTW14emZoMWRJbllxR29nUGs0eTRmQW9pR3ZUaXhnSzl3UTFuaU5QVGQ4dDFQTFlBaXl4U18zbjE0MzJnSWc3YWVRSnVxWFB2QkVyem1UYVRGLVhtdGJ3N0dlZFZ5ZWYtRmw2UQ?oc=5)
 
 2026-09-12
 
 來源：[香港01](https://news.google.com/rss/articles/CBMimgNBVV95cUxPZTRVS0V5UnhsRkNYU2poOVJRV1RubnlnYXNPVlNLLUE4U1RtNlVvWWtlZWk4RTVCRGgzNnVWbTVpMzMyemhWN19rVlUwMW5MLS1kQWY3Zjd4RG9pd2JfV1JGaUFqTFoxZ2oxUlJSS0stVU5ncldETDNPcGlIbnpicU1uYjZ6UU5JaVFXaTJ6MW50SzFBS1k1YnJSd185OTJWTVptMHAtaHJtTXpXemhubEFXZjlLbGRMVlhUaUtLb2NNejJyR1lLRFR2ei11RFp5a1ZqWGFXOVFjYkcxejVGZm8zMjdVa0NnN1NsMmhaaVJYTmhZQWNFMzJaYms4U1dhSFZvTm1XRFo4Z0xLSVdMWlkyblBlSndqT01CQUtBLWUyT0xVTWNySVJjZFJQTEZ4UHBva2ZsTW14emZoMWRJbllxR29nUGs0eTRmQW9pR3ZUaXhnSzl3UTFuaU5QVGQ4dDFQTFlBaXl4U18zbjE0MzJnSWc3YWVRSnVxWFB2QkVyem1UYVRGLVhtdGJ3N0dlZFZ5ZWYtRmw2UQ?oc=5)
+
+---
+
+### [自由開講》公費皮蛇疫苗，也是守護長照與健保的重要防線](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JU09TWllfYm9HTmtlQ19GNUp3RndndC1xbXFzOVUtYmtObXpqV0xab0cyMUhHZVNibC0wcXFkMkQ2cVAyWGJwc0wxZFpURDF0NDExNXlyYWRCY3NJdF9hM2RR0gFnQVVfeXFMUGFMZ3c1bkRSUER0NHhrNHBhMm9BT1JkUy1vOUhXc1NXaklyNUtsNVQ4bzFJTllHWlB0M213SmlhTlRDT1hMVnNaYlJnVkEtaWRoY09GMHNPQmxXZTlqaE96QzlMbmthNA?oc=5)
+
+2026-09-12
+
+來源：[自由評論網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JU09TWllfYm9HTmtlQ19GNUp3RndndC1xbXFzOVUtYmtObXpqV0xab0cyMUhHZVNibC0wcXFkMkQ2cVAyWGJwc0wxZFpURDF0NDExNXlyYWRCY3NJdF9hM2RR0gFnQVVfeXFMUGFMZ3c1bkRSUER0NHhrNHBhMm9BT1JkUy1vOUhXc1NXaklyNUtsNVQ4bzFJTllHWlB0M213SmlhTlRDT1hMVnNaYlJnVkEtaWRoY09GMHNPQmxXZTlqaE96QzlMbmthNA?oc=5)
 
 ---
 
