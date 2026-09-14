@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [刷牙流血別當小事！醫示警：牙周病恐是缺血性中風前兆](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qRzMtaEJjTEVNa3YxZ2JSdUtSNjlPLXBvOWE0ejZWaGp3OHNfTUVVVEtaSk9RWTdLVEFvZVhvVE41d3BsdE5RdngwbEE2MHZfYnExNHE4bmpManNfWnk0NA?oc=5)
 
 2026-09-12 <span class="news-indication-tag">中風</span>
 
 來源：[民報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qRzMtaEJjTEVNa3YxZ2JSdUtSNjlPLXBvOWE0ejZWaGp3OHNfTUVVVEtaSk9RWTdLVEFvZVhvVE41d3BsdE5RdngwbEE2MHZfYnExNHE4bmpManNfWnk0NA?oc=5)
-
----
-
-### [睡覺開燈不只影響睡眠！最新研究：微弱光線就可能影響心臟健康](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6eGpTOC10Wi0zZDdjd0FJZlFJMzBud1pTa3lySXpCV2N0RjYxV2t6Q2pBdmZZUThJXzdDUXhQRlFyRlRvcm9xM3RkOVZlRTdVQjdPd2JTZXpUeUU5TE00VF9B0gFiQVVfeXFMUHp4alM4LXRaLTNkN2N3QUlmUUkzMG53WlNreXJJekJXY3RGNjFXa3pDakF2ZllROElfN0NReFBGUXJGVG9yb3EzdGQ5VmVFN1VCN093YlNlelR5RTlMTTRUX0E?oc=5)
-
-2026-09-10 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6eGpTOC10Wi0zZDdjd0FJZlFJMzBud1pTa3lySXpCV2N0RjYxV2t6Q2pBdmZZUThJXzdDUXhQRlFyRlRvcm9xM3RkOVZlRTdVQjdPd2JTZXpUeUU5TE00VF9B0gFiQVVfeXFMUHp4alM4LXRaLTNkN2N3QUlmUUkzMG53WlNreXJJekJXY3RGNjFXa3pDakF2ZllROElfN0NReFBGUXJGVG9yb3EzdGQ5VmVFN1VCN093YlNlelR5RTlMTTRUX0E?oc=5)
 
 ---
 

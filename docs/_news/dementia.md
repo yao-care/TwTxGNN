@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [防失智選低碳還低脂？國際權威揭「這替代吃法」最護腦，失智降18% - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iaW5CdC03Z1NTQzNCWmdqRGtkaDAxR3daWkZFdTBxUG9pTFhsYTh5d3gzbm9yb1M5RnFWQTRfTjhxT040eVh2czFVSHQ0eXVjTFNmbEdB?oc=5)
+### [不想細胞老得快！研究揭「麥得飲食」4年半失智風險降53％](https://news.google.com/rss/articles/CBMiRkFVX3lxTE95SGlwRzF6LWt5UzJzdlFkMTNJVVJzeExLQmR5WXY1bkk4STlmR0Z5MGhhczVNR3ZJamtVVUw4RVBzVGIzd2c?oc=5)
 
 2026-09-14
 
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iaW5CdC03Z1NTQzNCWmdqRGtkaDAxR3daWkZFdTBxUG9pTFhsYTh5d3gzbm9yb1M5RnFWQTRfTjhxT040eVh2czFVSHQ0eXVjTFNmbEdB?oc=5)
+來源：[早安健康](https://news.google.com/rss/articles/CBMiRkFVX3lxTE95SGlwRzF6LWt5UzJzdlFkMTNJVVJzeExLQmR5WXY1bkk4STlmR0Z5MGhhczVNR3ZJamtVVUw4RVBzVGIzd2c?oc=5)
+
+---
+
+### [體脂過高加速大腦退化！營養師教7招護腦減重，降代謝負擔](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9aMzUzMnhIclV5Y0g0RXpTS3BCUHJ3Unlmd29NVHhPWC1kcVNweERPd3JLX3BISzFYOFdtYzEwdno2YzlsMVE?oc=5)
+
+2026-09-08
+
+來源：[早安健康](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9aMzUzMnhIclV5Y0g0RXpTS3BCUHJ3Unlmd29NVHhPWC1kcVNweERPd3JLX3BISzFYOFdtYzEwdno2YzlsMVE?oc=5)
 
 ---
 
