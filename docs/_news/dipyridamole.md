@@ -44,11 +44,11 @@ permalink: /news/dipyridamole/
 
 ## 相關新聞（2 則）
 
-### [睡覺開燈不只影響睡眠！最新研究：微弱光線就可能影響心臟健康](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oZ0pmb3pkeUw5OUFBTXRuWHE0dTlNWW5xWko3N2k5dHBkcERBTk1NaWMtUEpMek1GeTZ5UW9CVndWZllpRFFoUmM2SWszVW1wVXBfUGRrMzlkcGRv0gFiQVVfeXFMUHp4alM4LXRaLTNkN2N3QUlmUUkzMG53WlNreXJJekJXY3RGNjFXa3pDakF2ZllROElfN0NReFBGUXJGVG9yb3EzdGQ5VmVFN1VCN093YlNlelR5RTlMTTRUX0E?oc=5)
+### [睡覺開燈不只影響睡眠！最新研究：微弱光線就可能影響心臟健康](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6eGpTOC10Wi0zZDdjd0FJZlFJMzBud1pTa3lySXpCV2N0RjYxV2t6Q2pBdmZZUThJXzdDUXhQRlFyRlRvcm9xM3RkOVZlRTdVQjdPd2JTZXpUeUU5TE00VF9B0gFiQVVfeXFMUHp4alM4LXRaLTNkN2N3QUlmUUkzMG53WlNreXJJekJXY3RGNjFXa3pDakF2ZllROElfN0NReFBGUXJGVG9yb3EzdGQ5VmVFN1VCN093YlNlelR5RTlMTTRUX0E?oc=5)
 
-2026-09-10 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
+2026-09-10 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">中風</span>
 
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oZ0pmb3pkeUw5OUFBTXRuWHE0dTlNWW5xWko3N2k5dHBkcERBTk1NaWMtUEpMek1GeTZ5UW9CVndWZllpRFFoUmM2SWszVW1wVXBfUGRrMzlkcGRv0gFiQVVfeXFMUHp4alM4LXRaLTNkN2N3QUlmUUkzMG53WlNreXJJekJXY3RGNjFXa3pDakF2ZllROElfN0NReFBGUXJGVG9yb3EzdGQ5VmVFN1VCN093YlNlelR5RTlMTTRUX0E?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6eGpTOC10Wi0zZDdjd0FJZlFJMzBud1pTa3lySXpCV2N0RjYxV2t6Q2pBdmZZUThJXzdDUXhQRlFyRlRvcm9xM3RkOVZlRTdVQjdPd2JTZXpUeUU5TE00VF9B0gFiQVVfeXFMUHp4alM4LXRaLTNkN2N3QUlmUUkzMG53WlNreXJJekJXY3RGNjFXa3pDakF2ZllROElfN0NReFBGUXJGVG9yb3EzdGQ5VmVFN1VCN093YlNlelR5RTlMTTRUX0E?oc=5)
 
 ---
 

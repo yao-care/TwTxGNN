@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Ibuprofen</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -39,15 +39,9 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [皮蛇、唇疱疹恐成失智警訊！跨國研究揭：抗病毒治療降失智風險](https://news.google.com/rss/articles/CBMijwNBVV95cUxNVnI4cnF5ZTFGbVZzMTg2RlpHZDNWRWhxa184cnc5WjlCeVN3Q2Z5d3BCYkY3VjBlUnNJQ19sU3NCYkxVbDFveHlWdTktUE4wZEZybHNRVG9hSFBVNzJHOC1POTktTjI0MWloczhTQTJ1R3V3MEdJN3kwb19sYTNfcnc4WnNrUUdlbHh3VFNaTTRnRS1pc3ZUanF6bk5hMV92eko0NnJJQXdOT0JCZmNsWGtlRnVONTY1RzM0QkVwdkZLeEZtcjBUeEhyQXpzSEMzazVnWFJsOEJPanNSNHFRSkZ1VGRsN1NoQ2NhZ0Q5c3NwSVZ1N20yNFkzeVhyWFgyblVCZnRkMlBCbVh6bDBiRm9qc1BvbFhreGZBMlZpRF8wbEc4Q2NLN1lwZnhrODVDSmlWT1BrWHdTTU44VWxBWTlDRUxPOC11RVMxS2dLWjZqbE9rVFIzWUktTXN2NEdwaTZ4QldMUEFJcGJWTFBCV1I4MHRHem9XZU1jd2tIYUV3WG90Ymt1RUkxVmF0VTQ?oc=5)
-
-2026-09-11 <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">生蛇</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">神經痛</span>
-
-來源：[tw.news.yahoo.com](https://news.google.com/rss/articles/CBMijwNBVV95cUxNVnI4cnF5ZTFGbVZzMTg2RlpHZDNWRWhxa184cnc5WjlCeVN3Q2Z5d3BCYkY3VjBlUnNJQ19sU3NCYkxVbDFveHlWdTktUE4wZEZybHNRVG9hSFBVNzJHOC1POTktTjI0MWloczhTQTJ1R3V3MEdJN3kwb19sYTNfcnc4WnNrUUdlbHh3VFNaTTRnRS1pc3ZUanF6bk5hMV92eko0NnJJQXdOT0JCZmNsWGtlRnVONTY1RzM0QkVwdkZLeEZtcjBUeEhyQXpzSEMzazVnWFJsOEJPanNSNHFRSkZ1VGRsN1NoQ2NhZ0Q5c3NwSVZ1N20yNFkzeVhyWFgyblVCZnRkMlBCbVh6bDBiRm9qc1BvbFhreGZBMlZpRF8wbEc4Q2NLN1lwZnhrODVDSmlWT1BrWHdTTU44VWxBWTlDRUxPOC11RVMxS2dLWjZqbE9rVFIzWUktTXN2NEdwaTZ4QldMUEFJcGJWTFBCV1I4MHRHem9XZU1jd2tIYUV3WG90Ymt1RUkxVmF0VTQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,37 +41,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
-
-### [HPV病毒不分男女！ 醫提醒「男性也該接種」：目前唯一可以防癌的疫苗](https://news.google.com/rss/articles/CBMiiANBVV95cUxPWjItQ2ZTUDdEWWtvVWZTckh2WFM5LUlWTS1vSmdJMmViTEU5dE5RdWxIS2Y0eWhZbmpGMVZJU1dnQ2FuTm1Zak00djlIUGRPYzZJQ3N3UnpzS1RMU2J5bkVsNmV1WmpVTnRlUG9UZjdCY0FHdmJZWTRrX1JjdmluOTVWLWwwQktBaHpRc1RjemlXVHdKM3Ntb1lMNDl6UG9Eam56dzYtalY3bzlkTHhzOFJfcXNGODdzV29fakdZX1JoUFhMV0JRYlV5NWNaVDZicWV5UTVUYThORW1tU2xHVW00QTM1ZUdZa2VoTmpEeno4WTBNQVYtdm1QNlRvOGM5MGp6bmVVT2s3UTkzcjJvOThHMl9HZGMyYWxJaF9QMm5uYTZ4czhPRUhtYl9mVmd1ZGt3REtObWhaRGpRTGxiMEkyS3FsVHpqMjdKMXlkYndGdG1yQlRROExmMU82UGp5Nk1abEY1MWd6ZVg1V2FLLUcwS2NtTVROaWtiLXJvUERBYUlhaE5pUA?oc=5)
-
-2026-09-12 <span class="news-indication-tag">癌症</span>
-
-來源：[tw.news.yahoo.com](https://news.google.com/rss/articles/CBMiiANBVV95cUxPWjItQ2ZTUDdEWWtvVWZTckh2WFM5LUlWTS1vSmdJMmViTEU5dE5RdWxIS2Y0eWhZbmpGMVZJU1dnQ2FuTm1Zak00djlIUGRPYzZJQ3N3UnpzS1RMU2J5bkVsNmV1WmpVTnRlUG9UZjdCY0FHdmJZWTRrX1JjdmluOTVWLWwwQktBaHpRc1RjemlXVHdKM3Ntb1lMNDl6UG9Eam56dzYtalY3bzlkTHhzOFJfcXNGODdzV29fakdZX1JoUFhMV0JRYlV5NWNaVDZicWV5UTVUYThORW1tU2xHVW00QTM1ZUdZa2VoTmpEeno4WTBNQVYtdm1QNlRvOGM5MGp6bmVVT2s3UTkzcjJvOThHMl9HZGMyYWxJaF9QMm5uYTZ4czhPRUhtYl9mVmd1ZGt3REtObWhaRGpRTGxiMEkyS3FsVHpqMjdKMXlkYndGdG1yQlRROExmMU82UGp5Nk1abEY1MWd6ZVg1V2FLLUcwS2NtTVROaWtiLXJvUERBYUlhaE5pUA?oc=5)
-
----
-
-### [魚油能預防認知障礙？新研究：靠單一營養難防失智 關鍵在日常](https://news.google.com/rss/articles/CBMimgNBVV95cUxPZTRVS0V5UnhsRkNYU2poOVJRV1RubnlnYXNPVlNLLUE4U1RtNlVvWWtlZWk4RTVCRGgzNnVWbTVpMzMyemhWN19rVlUwMW5MLS1kQWY3Zjd4RG9pd2JfV1JGaUFqTFoxZ2oxUlJSS0stVU5ncldETDNPcGlIbnpicU1uYjZ6UU5JaVFXaTJ6MW50SzFBS1k1YnJSd185OTJWTVptMHAtaHJtTXpXemhubEFXZjlLbGRMVlhUaUtLb2NNejJyR1lLRFR2ei11RFp5a1ZqWGFXOVFjYkcxejVGZm8zMjdVa0NnN1NsMmhaaVJYTmhZQWNFMzJaYms4U1dhSFZvTm1XRFo4Z0xLSVdMWlkyblBlSndqT01CQUtBLWUyT0xVTWNySVJjZFJQTEZ4UHBva2ZsTW14emZoMWRJbllxR29nUGs0eTRmQW9pR3ZUaXhnSzl3UTFuaU5QVGQ4dDFQTFlBaXl4U18zbjE0MzJnSWc3YWVRSnVxWFB2QkVyem1UYVRGLVhtdGJ3N0dlZFZ5ZWYtRmw2UQ?oc=5)
-
-2026-09-12 <span class="news-indication-tag">失智</span>
-
-來源：[香港01](https://news.google.com/rss/articles/CBMimgNBVV95cUxPZTRVS0V5UnhsRkNYU2poOVJRV1RubnlnYXNPVlNLLUE4U1RtNlVvWWtlZWk4RTVCRGgzNnVWbTVpMzMyemhWN19rVlUwMW5MLS1kQWY3Zjd4RG9pd2JfV1JGaUFqTFoxZ2oxUlJSS0stVU5ncldETDNPcGlIbnpicU1uYjZ6UU5JaVFXaTJ6MW50SzFBS1k1YnJSd185OTJWTVptMHAtaHJtTXpXemhubEFXZjlLbGRMVlhUaUtLb2NNejJyR1lLRFR2ei11RFp5a1ZqWGFXOVFjYkcxejVGZm8zMjdVa0NnN1NsMmhaaVJYTmhZQWNFMzJaYms4U1dhSFZvTm1XRFo4Z0xLSVdMWlkyblBlSndqT01CQUtBLWUyT0xVTWNySVJjZFJQTEZ4UHBva2ZsTW14emZoMWRJbllxR29nUGs0eTRmQW9pR3ZUaXhnSzl3UTFuaU5QVGQ4dDFQTFlBaXl4U18zbjE0MzJnSWc3YWVRSnVxWFB2QkVyem1UYVRGLVhtdGJ3N0dlZFZ5ZWYtRmw2UQ?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [德里24歲男子不育檢查發現子宮，罕見持續性苗勒管綜合症揭示癌症風險](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
 
 2026-09-12 <span class="news-indication-tag">癌症</span>
 
-來源：[Singtaousa](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
-
----
-
-### [皮蛇、唇疱疹恐成失智警訊！跨國研究揭：抗病毒治療降失智風險](https://news.google.com/rss/articles/CBMijwNBVV95cUxNVnI4cnF5ZTFGbVZzMTg2RlpHZDNWRWhxa184cnc5WjlCeVN3Q2Z5d3BCYkY3VjBlUnNJQ19sU3NCYkxVbDFveHlWdTktUE4wZEZybHNRVG9hSFBVNzJHOC1POTktTjI0MWloczhTQTJ1R3V3MEdJN3kwb19sYTNfcnc4WnNrUUdlbHh3VFNaTTRnRS1pc3ZUanF6bk5hMV92eko0NnJJQXdOT0JCZmNsWGtlRnVONTY1RzM0QkVwdkZLeEZtcjBUeEhyQXpzSEMzazVnWFJsOEJPanNSNHFRSkZ1VGRsN1NoQ2NhZ0Q5c3NwSVZ1N20yNFkzeVhyWFgyblVCZnRkMlBCbVh6bDBiRm9qc1BvbFhreGZBMlZpRF8wbEc4Q2NLN1lwZnhrODVDSmlWT1BrWHdTTU44VWxBWTlDRUxPOC11RVMxS2dLWjZqbE9rVFIzWUktTXN2NEdwaTZ4QldMUEFJcGJWTFBCV1I4MHRHem9XZU1jd2tIYUV3WG90Ymt1RUkxVmF0VTQ?oc=5)
-
-2026-09-11 <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">生蛇</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">神經痛</span>
-
-來源：[tw.news.yahoo.com](https://news.google.com/rss/articles/CBMijwNBVV95cUxNVnI4cnF5ZTFGbVZzMTg2RlpHZDNWRWhxa184cnc5WjlCeVN3Q2Z5d3BCYkY3VjBlUnNJQ19sU3NCYkxVbDFveHlWdTktUE4wZEZybHNRVG9hSFBVNzJHOC1POTktTjI0MWloczhTQTJ1R3V3MEdJN3kwb19sYTNfcnc4WnNrUUdlbHh3VFNaTTRnRS1pc3ZUanF6bk5hMV92eko0NnJJQXdOT0JCZmNsWGtlRnVONTY1RzM0QkVwdkZLeEZtcjBUeEhyQXpzSEMzazVnWFJsOEJPanNSNHFRSkZ1VGRsN1NoQ2NhZ0Q5c3NwSVZ1N20yNFkzeVhyWFgyblVCZnRkMlBCbVh6bDBiRm9qc1BvbFhreGZBMlZpRF8wbEc4Q2NLN1lwZnhrODVDSmlWT1BrWHdTTU44VWxBWTlDRUxPOC11RVMxS2dLWjZqbE9rVFIzWUktTXN2NEdwaTZ4QldMUEFJcGJWTFBCV1I4MHRHem9XZU1jd2tIYUV3WG90Ymt1RUkxVmF0VTQ?oc=5)
+來源：[singtaousa.com](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
 
 ---
 
@@ -83,35 +59,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [失智症可預防？ WHO：做好這些事可減45%病例](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oaGZfZktZUkNnRTFXcVhLa3VMdE5WOEpqemdlMDBjUE9sempiaFBDejM2S1l0UXliYUNacWxSdkpVMElRbFFEU2hiRXhFLXhVV2E5akdXV3NvSjNGZjVZ0gFkQVVfeXFMTUtBLWk0WEt2RE90YVJTdlNBRW8xQlZYYVhfcGxYNFdjWmw4NkpmYjhPb1F2ZzEzeG9wQlBLdWhzQ1gtcWJBSjdha1IzSTBGc2Fmenc3bFRjdjVJT2Eyek5JWld3UA?oc=5)
-
-2026-09-09 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[大纪元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oaGZfZktZUkNnRTFXcVhLa3VMdE5WOEpqemdlMDBjUE9sempiaFBDejM2S1l0UXliYUNacWxSdkpVMElRbFFEU2hiRXhFLXhVV2E5akdXV3NvSjNGZjVZ0gFkQVVfeXFMTUtBLWk0WEt2RE90YVJTdlNBRW8xQlZYYVhfcGxYNFdjWmw4NkpmYjhPb1F2ZzEzeG9wQlBLdWhzQ1gtcWJBSjdha1IzSTBGc2Fmenc3bFRjdjVJT2Eyek5JWld3UA?oc=5)
-
----
-
 ### [50歲以下最致命癌症 大腸癌死亡率衝上榜首 - 大紀元時報 香港](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EZURKaHVwMXZFa3pMdkJfcWdmQzFGcTlLMXVZeDZpc0dQQV9GOVd6RzhRZW1ONXlUZzE5a2lORmdEWmN0d2FwODBoM1FIY2ZTQloybFFJeGxIQ0ZrZDZJ?oc=5)
 
 2026-09-09 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[大紀元時報 香港](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EZURKaHVwMXZFa3pMdkJfcWdmQzFGcTlLMXVZeDZpc0dQQV9GOVd6RzhRZW1ONXlUZzE5a2lORmdEWmN0d2FwODBoM1FIY2ZTQloybFFJeGxIQ0ZrZDZJ?oc=5)
-
----
-
-### [腰圍愈粗腦容量愈小？研究揭「腦型糖尿病」危害 快吃這神物防失智 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE80MkZJb0Iyak5HZXVING9JQTlxbjVseXpuQlgwZ2tDVGxjMl9fM2FOX19DWkc4eDZIVTdhMHc0cU9VR1ZFVUQ5QnljWjJFWU81RXZ3?oc=5)
-
-2026-09-07 <span class="news-indication-tag">失智</span>
-
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE80MkZJb0Iyak5HZXVING9JQTlxbjVseXpuQlgwZ2tDVGxjMl9fM2FOX19DWkc4eDZIVTdhMHc0cU9VR1ZFVUQ5QnljWjJFWU81RXZ3?oc=5)
-
----
-
-### [擔心癌症找上身？營養師力推5款抗癌蔬菜 輪流吃搭建身體天然防護罩](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZNURWNzJveVN2NExuNHZRRldnMnBJN054Z2tZNVYxY3dSQi1tUlFNUEV1cmtlZzFYWVVJMHNzYnYyNVJMS213VjBaMnFLYk9abEQyZ3c2QU16Q1lZY0J5eWtHdHJsc0x4ZFhXMw?oc=5)
-
-2026-09-07 <span class="news-indication-tag">癌症</span>
-
-來源：[觸mii](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZNURWNzJveVN2NExuNHZRRldnMnBJN054Z2tZNVYxY3dSQi1tUlFNUEV1cmtlZzFYWVVJMHNzYnYyNVJMS213VjBaMnFLYk9abEQyZ3c2QU16Q1lZY0J5eWtHdHJsc0x4ZFhXMw?oc=5)
 
 ---
 
