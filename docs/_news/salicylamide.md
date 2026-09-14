@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [想感冒快點好 鋅含片比維他命C更有效](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1S3BFcmlKTUcxRkthbHNhZEo4VUNjREFUcFc5RGk4YmVrYkNBaTJsSHp0YThnSjlmM2lvbFNob1ljMTNWQm5XQjBGcjhQVGVMVWVXLTNNSHVqWk01Wm1lMVlR0gFnQVVfeXFMUExnazU2ci1zSmJQWWV2VzlnNWpPd2V4WFRBaTJjaWNTcnRXdmRKdUF0a1c1dU5hOWZOcmx4czJaUEdxRUFJRFBMRXo2NGRsNUlUdHpVa2JxUldsRmpTV3YwZjdmcmwwdw?oc=5)
+### [孕期感冒安全用藥不傷胎- 國際](https://news.google.com/rss/articles/CBMiakFVX3lxTE4wY1E5TklfSENCMXRhMF9ucXhBUURqSnpMWF9xYlZEeU5LeV9ETENYd01zLWFOUTdCdXRlVzI4Ql8wNW9XYS1kQ0tsNEhjZVhUV3BWS0ptOGZ2ZWNwRE84bWFUVE5jSEdaLXc?oc=5)
 
-2026-09-13 <span class="news-indication-tag">感冒</span>
+2026-09-14 <span class="news-indication-tag">感冒</span>
 
-來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1S3BFcmlKTUcxRkthbHNhZEo4VUNjREFUcFc5RGk4YmVrYkNBaTJsSHp0YThnSjlmM2lvbFNob1ljMTNWQm5XQjBGcjhQVGVMVWVXLTNNSHVqWk01Wm1lMVlR0gFnQVVfeXFMUExnazU2ci1zSmJQWWV2VzlnNWpPd2V4WFRBaTJjaWNTcnRXdmRKdUF0a1c1dU5hOWZOcmx4czJaUEdxRUFJRFBMRXo2NGRsNUlUdHpVa2JxUldsRmpTV3YwZjdmcmwwdw?oc=5)
+來源：[旺得富理財網](https://news.google.com/rss/articles/CBMiakFVX3lxTE4wY1E5TklfSENCMXRhMF9ucXhBUURqSnpMWF9xYlZEeU5LeV9ETENYd01zLWFOUTdCdXRlVzI4Ql8wNW9XYS1kQ0tsNEhjZVhUV3BWS0ptOGZ2ZWNwRE84bWFUVE5jSEdaLXc?oc=5)
 
 ---
 
@@ -57,6 +57,14 @@ permalink: /news/salicylamide/
 2026-09-10 <span class="news-indication-tag">感冒</span>
 
 來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxSWdSSWJkMUQ4V0ppbVpFX05lZ2lXVmtGZVdNLVFyZmEyS2x3cENNTUhYaXlyUGwyLWN0X3VKWm5KTnh5VkNSOW0wX3JNTWh0Q1pRcVhB?oc=5)
+
+---
+
+### [感冒吃維他命C好更快？研究曝「嚴重症狀少26%」 關鍵是它](https://news.google.com/rss/articles/CBMiUEFVX3lxTE94bjZMcDV6V3dBbGZydVNyTXZpdW1XdlVURlctOEUwUTBKcHBzeXhuWi1VN1BDNzBMVW5VNVZZazJDUEhRVXJtcjQ3Y20yb09W?oc=5)
+
+2026-09-09 <span class="news-indication-tag">感冒</span>
+
+來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE94bjZMcDV6V3dBbGZydVNyTXZpdW1XdlVURlctOEUwUTBKcHBzeXhuWi1VN1BDNzBMVW5VNVZZazJDUEhRVXJtcjQ3Y20yb09W?oc=5)
 
 ---
 
