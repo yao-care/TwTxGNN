@@ -44,19 +44,19 @@ permalink: /news/dipyridamole/
 
 ## 相關新聞（2 則）
 
-### [睡覺開燈不只影響睡眠！最新研究：微弱光線就可能影響心臟健康](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6eGpTOC10Wi0zZDdjd0FJZlFJMzBud1pTa3lySXpCV2N0RjYxV2t6Q2pBdmZZUThJXzdDUXhQRlFyRlRvcm9xM3RkOVZlRTdVQjdPd2JTZXpUeUU5TE00VF9B0gFiQVVfeXFMUHp4alM4LXRaLTNkN2N3QUlmUUkzMG53WlNreXJJekJXY3RGNjFXa3pDakF2ZllROElfN0NReFBGUXJGVG9yb3EzdGQ5VmVFN1VCN093YlNlelR5RTlMTTRUX0E?oc=5)
+### [刷牙流血別當小事！醫示警：牙周病恐是缺血性中風前兆](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qRzMtaEJjTEVNa3YxZ2JSdUtSNjlPLXBvOWE0ejZWaGp3OHNfTUVVVEtaSk9RWTdLVEFvZVhvVE41d3BsdE5RdngwbEE2MHZfYnExNHE4bmpManNfWnk0NA?oc=5)
 
-2026-09-10 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">中風</span>
+2026-09-12 <span class="news-indication-tag">中風</span>
 
-來源：[元氣網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6eGpTOC10Wi0zZDdjd0FJZlFJMzBud1pTa3lySXpCV2N0RjYxV2t6Q2pBdmZZUThJXzdDUXhQRlFyRlRvcm9xM3RkOVZlRTdVQjdPd2JTZXpUeUU5TE00VF9B0gFiQVVfeXFMUHp4alM4LXRaLTNkN2N3QUlmUUkzMG53WlNreXJJekJXY3RGNjFXa3pDakF2ZllROElfN0NReFBGUXJGVG9yb3EzdGQ5VmVFN1VCN093YlNlelR5RTlMTTRUX0E?oc=5)
+來源：[民報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qRzMtaEJjTEVNa3YxZ2JSdUtSNjlPLXBvOWE0ejZWaGp3OHNfTUVVVEtaSk9RWTdLVEFvZVhvVE41d3BsdE5RdngwbEE2MHZfYnExNHE4bmpManNfWnk0NA?oc=5)
 
 ---
 
-### [空汙不只傷肺！詹長權揭PM2.5「傷心」真相：心肌梗塞、中風都可能有關](https://news.google.com/rss/articles/CBMihgJBVV95cUxQbk5tRmJwdWtWQWd4YjdYY2Nqc1R4TnFkRjU0VlI2c2p1ZXBSQW9LQmE4T25EQlFmWmFPd0JWRkUwaWppWmdwb0ZDcU9NRTY4b01NZVBKSzlWRGFKb1RJbzExVEJ6eFVnTE5kdFhoRy1ZQzdMU25aazF5U0hNN19ETW5DVTZ4Y0ZSRXhJQTgtUHNiVTkyT3R4aDFTTktnVWJJTjVqRWZMdEJfS0xIUXBnVVVRRVZSbFNYTlFJUTJNSDZfOTNtVjJMUmtVbUk1Y3RiTW9SNVlNSk1KTXVreWZIbFExb3BJWU9ScXhheHUwN3N1RkVRa1lnbXgzWVoydGR4bWIySUVR?oc=5)
+### [睡覺開燈不只影響睡眠！最新研究：微弱光線就可能影響心臟健康](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6eGpTOC10Wi0zZDdjd0FJZlFJMzBud1pTa3lySXpCV2N0RjYxV2t6Q2pBdmZZUThJXzdDUXhQRlFyRlRvcm9xM3RkOVZlRTdVQjdPd2JTZXpUeUU5TE00VF9B0gFiQVVfeXFMUHp4alM4LXRaLTNkN2N3QUlmUUkzMG53WlNreXJJekJXY3RGNjFXa3pDakF2ZllROElfN0NReFBGUXJGVG9yb3EzdGQ5VmVFN1VCN093YlNlelR5RTlMTTRUX0E?oc=5)
 
-2026-09-08 <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">中風</span>
+2026-09-10 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
 
-來源：[tw.news.yahoo.com](https://news.google.com/rss/articles/CBMihgJBVV95cUxQbk5tRmJwdWtWQWd4YjdYY2Nqc1R4TnFkRjU0VlI2c2p1ZXBSQW9LQmE4T25EQlFmWmFPd0JWRkUwaWppWmdwb0ZDcU9NRTY4b01NZVBKSzlWRGFKb1RJbzExVEJ6eFVnTE5kdFhoRy1ZQzdMU25aazF5U0hNN19ETW5DVTZ4Y0ZSRXhJQTgtUHNiVTkyT3R4aDFTTktnVWJJTjVqRWZMdEJfS0xIUXBnVVVRRVZSbFNYTlFJUTJNSDZfOTNtVjJMUmtVbUk1Y3RiTW9SNVlNSk1KTXVreWZIbFExb3BJWU9ScXhheHUwN3N1RkVRa1lnbXgzWVoydGR4bWIySUVR?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6eGpTOC10Wi0zZDdjd0FJZlFJMzBud1pTa3lySXpCV2N0RjYxV2t6Q2pBdmZZUThJXzdDUXhQRlFyRlRvcm9xM3RkOVZlRTdVQjdPd2JTZXpUeUU5TE00VF9B0gFiQVVfeXFMUHp4alM4LXRaLTNkN2N3QUlmUUkzMG53WlNreXJJekJXY3RGNjFXa3pDakF2ZllROElfN0NReFBGUXJGVG9yb3EzdGQ5VmVFN1VCN093YlNlelR5RTlMTTRUX0E?oc=5)
 
 ---
 
