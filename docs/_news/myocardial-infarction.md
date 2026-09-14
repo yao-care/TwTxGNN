@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "心肌梗塞（myocardial infarction） 相關新聞"
+title: "心梗（myocardial infarction） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "心肌梗塞（myocardial infarction） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "心梗（myocardial infarction） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/myocardial-infarction/
 ---
 
-# 心肌梗塞（myocardial infarction） 相關新聞
+# 心梗（myocardial infarction） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="心肌梗塞（myocardial infarction） 有什麼相關新聞？">
-<strong>心肌梗塞（myocardial infarction）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="心梗（myocardial infarction） 有什麼相關新聞？">
+<strong>心梗（myocardial infarction）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「心肌梗塞」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「心梗」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,13 +29,21 @@ permalink: /news/myocardial-infarction/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [睡覺開燈不只影響睡眠！最新研究：微弱光線就可能影響心臟健康](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oZ0pmb3pkeUw5OUFBTXRuWHE0dTlNWW5xWko3N2k5dHBkcERBTk1NaWMtUEpMek1GeTZ5UW9CVndWZllpRFFoUmM2SWszVW1wVXBfUGRrMzlkcGRv0gFiQVVfeXFMUHp4alM4LXRaLTNkN2N3QUlmUUkzMG53WlNreXJJekJXY3RGNjFXa3pDakF2ZllROElfN0NReFBGUXJGVG9yb3EzdGQ5VmVFN1VCN093YlNlelR5RTlMTTRUX0E?oc=5)
+
+2026-09-10
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oZ0pmb3pkeUw5OUFBTXRuWHE0dTlNWW5xWko3N2k5dHBkcERBTk1NaWMtUEpMek1GeTZ5UW9CVndWZllpRFFoUmM2SWszVW1wVXBfUGRrMzlkcGRv0gFiQVVfeXFMUHp4alM4LXRaLTNkN2N3QUlmUUkzMG53WlNreXJJekJXY3RGNjFXa3pDakF2ZllROElfN0NReFBGUXJGVG9yb3EzdGQ5VmVFN1VCN093YlNlelR5RTlMTTRUX0E?oc=5)
+
+---
 
 ### [空汙不只傷肺！詹長權揭PM2.5「傷心」真相：心肌梗塞、中風都可能有關](https://news.google.com/rss/articles/CBMihgJBVV95cUxQbk5tRmJwdWtWQWd4YjdYY2Nqc1R4TnFkRjU0VlI2c2p1ZXBSQW9LQmE4T25EQlFmWmFPd0JWRkUwaWppWmdwb0ZDcU9NRTY4b01NZVBKSzlWRGFKb1RJbzExVEJ6eFVnTE5kdFhoRy1ZQzdMU25aazF5U0hNN19ETW5DVTZ4Y0ZSRXhJQTgtUHNiVTkyT3R4aDFTTktnVWJJTjVqRWZMdEJfS0xIUXBnVVVRRVZSbFNYTlFJUTJNSDZfOTNtVjJMUmtVbUk1Y3RiTW9SNVlNSk1KTXVreWZIbFExb3BJWU9ScXhheHUwN3N1RkVRa1lnbXgzWVoydGR4bWIySUVR?oc=5)
 
 2026-09-08
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMihgJBVV95cUxQbk5tRmJwdWtWQWd4YjdYY2Nqc1R4TnFkRjU0VlI2c2p1ZXBSQW9LQmE4T25EQlFmWmFPd0JWRkUwaWppWmdwb0ZDcU9NRTY4b01NZVBKSzlWRGFKb1RJbzExVEJ6eFVnTE5kdFhoRy1ZQzdMU25aazF5U0hNN19ETW5DVTZ4Y0ZSRXhJQTgtUHNiVTkyT3R4aDFTTktnVWJJTjVqRWZMdEJfS0xIUXBnVVVRRVZSbFNYTlFJUTJNSDZfOTNtVjJMUmtVbUk1Y3RiTW9SNVlNSk1KTXVreWZIbFExb3BJWU9ScXhheHUwN3N1RkVRa1lnbXgzWVoydGR4bWIySUVR?oc=5)
+來源：[tw.news.yahoo.com](https://news.google.com/rss/articles/CBMihgJBVV95cUxQbk5tRmJwdWtWQWd4YjdYY2Nqc1R4TnFkRjU0VlI2c2p1ZXBSQW9LQmE4T25EQlFmWmFPd0JWRkUwaWppWmdwb0ZDcU9NRTY4b01NZVBKSzlWRGFKb1RJbzExVEJ6eFVnTE5kdFhoRy1ZQzdMU25aazF5U0hNN19ETW5DVTZ4Y0ZSRXhJQTgtUHNiVTkyT3R4aDFTTktnVWJJTjVqRWZMdEJfS0xIUXBnVVVRRVZSbFNYTlFJUTJNSDZfOTNtVjJMUmtVbUk1Y3RiTW9SNVlNSk1KTXVreWZIbFExb3BJWU9ScXhheHUwN3N1RkVRa1lnbXgzWVoydGR4bWIySUVR?oc=5)
 
 ---
 
