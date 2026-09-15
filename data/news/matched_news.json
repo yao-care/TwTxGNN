@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-09-15T21:50:12.794657+00:00",
-  "total_count": 45,
+  "last_updated": "2026-09-15T23:50:19.507308+00:00",
+  "total_count": 46,
   "matched_count": 17,
   "news": [
+    {
+      "id": "e71686d61c38",
+      "title": "研究指清晨活動或降癌風險26% 配合早睡早起差距達31%",
+      "published": "2026-09-15T22:40:56+00:00",
+      "summary": "研究指清晨活動或降癌風險26% 配合早睡早起差距達31%&nbsp;&nbsp;bastillepost.com",
+      "sources": [
+        {
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPMk1nUWI2ejk4ejdqNzhCSzJGQnJic3lYTUxGRjZhN0R0NVlRajBKTGJTSThNdlU0QUdZLVctNjBqd1NCTUdvelZXTEZ5TzlqTXd5UHRMbEoxVlUwLVAycWYzSGdBWnFfY25INXN0cFhiNzAxMFRpM0I4QjFYNmx4Q1I3aUNjamZzUGg2UFJzSTh3WjlIUWY5RndKcEVCbW93RmlFcEM2dG43NjBoaVVMMnJ2a2k3VEdTS2lLbnp5ZVlUWHFnWHJITnhTWmlsYVQ2Umc1SHBpQkNRZ25sV0tXR0trcnpfbF9tRmhrQ0UxdGlCT245R1BER0F0M0RaN0Nucm1xYnJWLVNkQXVIbzNkMTFjUGp5TTJiT0RSRDVDY1laRV9EbTlmOEtoRm01TVJWMlE3TFpwOUVwbmRheGdFTGZjbjE1QTRKcDlhVVQ4YnNlSjhlVHhUWmFhTG5OY0dwNlN1QnZMMV8?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "13c81870451f",
       "title": "更年期荷爾蒙治療 / 鄭志文 - 20260916 - 作家專欄",
@@ -44,7 +57,7 @@
       "id": "ec889293d94d",
       "title": "新竹市115年公費HPV疫苗巡迴開打",
       "published": "2026-09-15T15:49:45+00:00",
-      "summary": "新竹市115年公費HPV疫苗巡迴開打&nbsp;&nbsp;台灣新聞雲竹市115年公費HPV疫苗巡迴開打 逾5900名學生受惠&nbsp;&nbsp;health.ltn.com.tw「糖胖症」染HPV 罹癌風險增&nbsp;&nbsp;UDN糖胖症恐成HPV防癌破口？醫：肥胖、高血糖影響免疫恐增加感染風險&nbsp;&nbsp;Taiwan News守護青少年健康 竹市公費HPV疫苗巡迴開打 | 台灣好新聞&nbsp;&nbsp;LINE TODAY",
+      "summary": "新竹市115年公費HPV疫苗巡迴開打&nbsp;&nbsp;台灣新聞雲竹市115年公費HPV疫苗巡迴開打 逾5900名學生受惠&nbsp;&nbsp;自由健康網「糖胖症」染HPV 罹癌風險增&nbsp;&nbsp;UDN糖胖症恐成HPV防癌破口？醫：肥胖、高血糖影響免疫恐增加感染風險&nbsp;&nbsp;Taiwan News守護青少年健康 竹市公費HPV疫苗巡迴開打 | 台灣好新聞&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "台灣新聞雲",
@@ -67,13 +80,13 @@
       "matched_keywords": []
     },
     {
-      "id": "495357dfb1c8",
+      "id": "c8b46d750b01",
       "title": "醫親曝不願做「全身MRI掃描」原因示警：這種癌恐被漏掉- 國際",
       "published": "2026-09-15T06:44:55+00:00",
-      "summary": "醫親曝不願做「全身MRI掃描」原因示警：這種癌恐被漏掉- 國際&nbsp;&nbsp;中時新聞網",
+      "summary": "醫親曝不願做「全身MRI掃描」原因示警：這種癌恐被漏掉- 國際&nbsp;&nbsp;chinatimes.com",
       "sources": [
         {
-          "name": "中時新聞網",
+          "name": "chinatimes.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rekFpVnhTNXM4TUVMN0JMVnN2LXpveUVFRW8yN3NPWnFzOWdCQU1iZWpiYmFZME1ZLUxFSUJ3VDNRY0IweGR3am9QWUg2OEJoanNQdV9uYlBxRC1GT25RRmZMQy1zaF9pM2VuaTF3?oc=5"
         }
       ],
@@ -142,13 +155,13 @@
       "matched_keywords": []
     },
     {
-      "id": "48422f0f2e49",
+      "id": "c983762629ca",
       "title": "骨質疏鬆藥物或存新用途 研究：與較低失智風險相關",
       "published": "2026-09-15T06:09:00+00:00",
-      "summary": "骨質疏鬆藥物或存新用途 研究：與較低失智風險相關&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "骨質疏鬆藥物或存新用途 研究：與較低失智風險相關&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tYl81empSY04xcmNuN25PbHp2UEl2QkRNS1E1WWlWN09LVjU3NjlVal9INjE5dHVSektEZGFPZExWdnRvODNfVXcxeWdTb002d0hDbDEzVk5CbVQ3LUJ4anJGY0bSAWpBVV95cUxOUEhHbXdkRXBGOEJvb0JMcmhLXzgxMnBpdlhVWmU0Vm50R2FwcWRWcXM2bnpyS1dlcVB1T1ZHTGo0SkxYRXlncTNQeGlPeFlfUEo2cVFCLWlSa2NYd2ZjRXVpR3dmcS1CRGt3?oc=5"
         }
       ],
@@ -207,14 +220,14 @@
       ]
     },
     {
-      "id": "f6bbf45eda62",
+      "id": "5577b77f56cd",
       "title": "衣物安全｜國內品牌女性內褲標榜「抗菌」竟加「抗癌藥」做賣點涉事品牌急回應醫生：1成分長期接觸私處恐中毒致敏【附女性私密處護理4大貼士】",
       "published": "2026-09-15T04:56:21+00:00",
       "summary": "衣物安全｜國內品牌女性內褲標榜「抗菌」竟加「抗癌藥」做賣點涉事品牌急回應醫生：1成分長期接觸私處恐中毒致敏【附女性私密處護理4大貼士】&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMihgdBVV95cUxQanlRX0w1U1dwU0R2dFhtWHV3UWRsSHhrcDVBajhKWUQ3QlYwaDVLQWx4UjRCQkdmWTE2YmV5OWtIQUxHcm5OTmhtWm9xMG5JWE4xNjRZUTRrUERvVGNOWDBMQzlXbEp3SnBod2FCa1hjR2JGUDQ4OU9qWHh0UVZhTzdWeURBZ0h5UlJTRFNMb2JaRkIzNDhwbG5ZamxSY2pxMmdpNmxBam5xOGVEbmRldXduaC1XTlV3NmVYWTJVSXJSZEFaaFNWOVlwSG50RHd1a1hhSTExckNKQ3VLeURHSmZSbkhJZW51TUJadzQyMWIxY0s4dzR3SkZXNE9yM1Y1VFZFSXR1eFlqSXMtS2NIZjJmbUtXdG9YSjQzcUxhVnhRbTJaZEpFeFN2UDJUWXc3RVhmM1ZTYmE2UkVFVkZnb2FzeV91Q0VPZ3Q2bDdoeVc0TUU2cHNQekhMVGR1bWdBX082T0NaM1lTcUdrRmNac2JYZFRJNTctSW1fa0JPeXg2T0p6Qmw5T3FxSFBMQVJ5WjRZejdtVWVRLWpORktpd0dFNDlfY2lFZ0pMYmJPUDI4Wjk3LTlacTdPN1I1RFpHSEs2SzZ4ZGxSTmpoNmMxUGxxWlZydmR0ZW8xSnhUSnFMa0JoMDI0VDlwbnI1aF9DeEhuUUR4X3JoT3NxWXRpdFhDMUUxUDd3b3ZRV1dITVUzSlZLZng3OEt2R3RwRm50dldYdk41TEl5OFdNaVlIZlNPeDI0MDc3ek9QbjlwaHhMeTdmdG82MGZKU3pVZTdWc0RZODZud3p1U090SXpKRm8xNENMS3VOeFIzY3pSWWlWT25FUFlwRzRyTTdEMnlCWWNUcHZtZXVVeVNJVXA4am9WMmJuOVVadGJMT0dQQ01NUGctV0tOUTViTWRNaGVqWHJZQ21yLVhOLUFNNkVfamZhUzd3M3E2d05iS0lhNDNlQVlOc25FNlNZTzNpMXZUUFhNbnBVRVFjeVFCM01pLXhOR01Bbk16V3FqX0hva21fZGc5MXN5cDN0YWdXOGljSHl2OS1ZMjNfYkFQQ19MM2Y5aWZsRkx6ajNsTjdUVllwU2ItS0RwRlFMUGZELW1uZkVpbHBNUUhTRWtDNjRRRzhrQmdnSUtqODY1VTZzMUpONDJBV180bHh2ZnNfMVRyZkFwSWhQSWpjN1FoZDlvMVBpbEhLUQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BZENSTmNqOXExV0NVbmhWNjQxZUcySFhxb0M0ZGRzby00bDRDSEV0SXMxSFJIRkNiREZ4TE9nLU9zWktuSEQ3aGc2NHZURnRCb3c?oc=5"
         }
       ],
       "matched_keywords": []
@@ -233,13 +246,13 @@
       "matched_keywords": []
     },
     {
-      "id": "1c53e0a675d0",
-      "title": "當垃圾食物穿上健康外衣：剖析「健康化零食」的消費迷思與科學真相 - PChome Online新聞",
+      "id": "8703ba4d1a29",
+      "title": "當垃圾食物穿上健康外衣：剖析「健康化零食」的消費迷思與科學真相",
       "published": "2026-09-15T01:16:24+00:00",
-      "summary": "當垃圾食物穿上健康外衣：剖析「健康化零食」的消費迷思與科學真相&nbsp;&nbsp;PChome Online新聞",
+      "summary": "當垃圾食物穿上健康外衣：剖析「健康化零食」的消費迷思與科學真相&nbsp;&nbsp;news.pchome.com.tw",
       "sources": [
         {
-          "name": "PChome Online新聞",
+          "name": "news.pchome.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR2dVYVp4Nm1zdUFtbVFDcXZzYUIwa0twdlhBZXJrYjJTNlpYc3ZsLUJFNklWbTdEcFp2XzlWTGc2TDJMUUI3OTh3MjloeGZIZnJWSktzQzBxRlpjZEFLRXIzQVpFTEEwQ2xfNkJ3eW5xWl95ZnNpUDFwUVZ3WDNHanJuZlNTaUdVX1pz?oc=5"
         }
       ],
@@ -749,6 +762,19 @@
       "matched_keywords": []
     },
     {
+      "id": "4525ba4e27f2",
+      "title": "活到 117 歲仍少有重病，科學家找到超級人瑞的長壽線索 | 科技新報 - LINE TODAY",
+      "published": "2026-09-14T11:47:07+00:00",
+      "summary": "活到 117 歲仍少有重病，科學家找到超級人瑞的長壽線索 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wT2tZS3dtdWk4LVU2cW1YRUZ2bUNVcGUzRVctOHlQczg3b2tvaFJaRDhJRFBVZkdaR0NZNGhGaHpXY0xPWlNmczZIQVpzRm15c3NLTDhn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "c0ec0260454b",
       "title": "皰疹病毒︱30歲女「爛嘴角」以為熱氣 1致命病毒上腦奪命 醫生警告3情況病毒易乘虛而入 - 晴報 Sky Post",
       "published": "2026-09-14T06:33:11+00:00",
@@ -762,26 +788,13 @@
       "matched_keywords": []
     },
     {
-      "id": "f7cbb370bdab",
-      "title": "活到 117 歲仍少有重病，科學家找到超級人瑞的長壽線索 - TechNews 科技新報",
-      "published": "2026-09-14T03:43:54+00:00",
-      "summary": "活到 117 歲仍少有重病，科學家找到超級人瑞的長壽線索&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaWZjNFBhSjEzU1RSY2k1ckVQMDlDdzliWXY3c3llenNUanl0eWlrcTRvVlVOVzJtSjNiS2d4OWRJZXhsRVA0bGhRdU1kOTFQd00tVFR5NGlRUnpXTGdmdlFQQU4zSXhLbklJM2lNTkg1UHMxdzBEWVlrWHUwTUNXNnBVWi1zZkIzZ2w3TFl4NUU1dEs5YVpjc1pyRUJoWVNyaEVabzJSeHBtVEp3RW16UDdQTHRtYzdONWhNSXdVQUJaTzZyUFdOZl96cw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "898ba7b1e1cd",
+      "id": "683b2130ad7a",
       "title": "想長壽更要老得健康 研究追蹤至90歲揭40歲顧好5項指標差很大",
       "published": "2026-09-14T02:55:30+00:00",
-      "summary": "想長壽更要老得健康 研究追蹤至90歲揭40歲顧好5項指標差很大&nbsp;&nbsp;元氣網",
+      "summary": "想長壽更要老得健康 研究追蹤至90歲揭40歲顧好5項指標差很大&nbsp;&nbsp;health.udn.com",
       "sources": [
         {
-          "name": "元氣網",
+          "name": "health.udn.com",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCQUV4Z0U2UFFNYkJCWFVyZTZUZ0pFUHNDZFZiR0hFeTFNRmJPckZ0M0hyeUpZR0RLeFdRbDdFekJMS3hvZFRibURacjBDdUVtNVdEMkVxQ0VNcThLUnUyRjhn0gFiQVVfeXFMUEJBRXhnRTZQUU1iQkJYVXJlNlRnSkVQc0NkVmJHSEV5MU1GYk9yRnQzSHJ5SllHREt4V1FsN0V6QkxLeG9kVGJtRFpyMEN1RW01V0QyRXFDRU1xOEtSdTJGOGc?oc=5"
         }
       ],
@@ -791,7 +804,7 @@
       "id": "6a4c476ca59c",
       "title": "「老倒縮」是真的！她變矮3公分、腰痠背痛竟罹「重度骨鬆」…醫示警：骨折沒前兆，4種人應主動篩檢| 幸福熟齡X 今周刊 - LINE TODAY",
       "published": "2026-09-14T02:26:57+00:00",
-      "summary": "「老倒縮」是真的！她變矮3公分、腰痠背痛竟罹「重度骨鬆」…醫示警：骨折沒前兆，4種人應主動篩檢| 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY「老倒縮」是真的！她變矮3公分、腰痠背痛竟罹「重度骨鬆」…醫示警：骨折沒前兆，4種人應主動篩檢&nbsp;&nbsp;Yahoo新聞30歲骨質悄悄流失？醫師揭護骨防鬆關鍵&nbsp;&nbsp;東森新聞久坐天天喝咖啡 28歲工程師骨質不足 | 中華日報&nbsp;&nbsp;LINE TODAY健康網》老人常見「骨質疏鬆症」 中醫建議這樣補&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "「老倒縮」是真的！她變矮3公分、腰痠背痛竟罹「重度骨鬆」…醫示警：骨折沒前兆，4種人應主動篩檢| 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY「老倒縮」是真的！她變矮3公分、腰痠背痛竟罹「重度骨鬆」…醫示警：骨折沒前兆，4種人應主動篩檢&nbsp;&nbsp;Yahoo新聞30歲骨質悄悄流失？醫師揭護骨防鬆關鍵&nbsp;&nbsp;東森新聞久坐天天喝咖啡 28歲工程師骨質不足 | 中華日報&nbsp;&nbsp;LINE TODAY健康網》老人常見「骨質疏鬆症」 中醫建議這樣補&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "LINE TODAY",
@@ -856,22 +869,9 @@
       "matched_keywords": []
     },
     {
-      "id": "904bbcc6963b",
-      "title": "健康網》自己得「菜花」懷疑「被綠」 醫：HPV非不忠的檢測",
-      "published": "2026-09-13T13:12:00+00:00",
-      "summary": "健康網》自己得「菜花」懷疑「被綠」 醫：HPV非不忠的檢測&nbsp;&nbsp;health.ltn.com.tw人妻患性病被夫控出軌！喊冤疑遭公廁馬桶水濺到長菜花 醫生解答&nbsp;&nbsp;香港01妻長「菜花」遭夫控外遇 醫師：HPV檢查不是感情測謊機&nbsp;&nbsp;壹蘋新聞網婚後突長菜花被尪疑出軌！婦喊「沒第三者」求助蘇怡寧 答案曝光 | Newtalk&nbsp;&nbsp;LINE TODAY人妻突長菜花！喊冤沒偷吃 醫揭真相&nbsp;&nbsp;四季線上4gTV",
-      "sources": [
-        {
-          "name": "health.ltn.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vazNtOFZZTHNlbHdPcGFVZzd6SnRtZDFZcVVpbktETW1vaEtmVmlWMWxLVVg2YnNCX2JhUUVXajFCZXdzcU1mcmhiMUF0RndyaU5kaENlaFZiTmE4UjEydWhLa2rSAWpBVV95cUxNNVVZRGFZQ3BQY0R0WGpoS0NWeTU4aFF4R1JZZ2xtQ09raWZ1X2JvQXBHM0dVdl9kcGktZTktNTlybjdINW1VM3d6SldBekNUOWNQQXEyNGh4UnA0MlMwREt0RWlBT2RnbGtn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "f75117df5ebb",
       "title": "維他命貼片真有效？ 研究顯示吸收效果仍有限 | 中央廣播電臺 - LINE TODAY",
-      "published": "2026-09-13T12:53:10+00:00",
+      "published": "2026-09-13T21:43:49+00:00",
       "summary": "維他命貼片真有效？ 研究顯示吸收效果仍有限 | 中央廣播電臺&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -882,13 +882,26 @@
       "matched_keywords": []
     },
     {
-      "id": "e28b67cb2692",
-      "title": "癌王保護盾出現破口？研究揪出胰臟癌抗藥性關鍵節點",
-      "published": "2026-09-13T03:27:00+00:00",
-      "summary": "癌王保護盾出現破口？研究揪出胰臟癌抗藥性關鍵節點&nbsp;&nbsp;health.ltn.com.tw",
+      "id": "fd4015e572c3",
+      "title": "健康網》自己得「菜花」懷疑「被綠」 醫：HPV非不忠的檢測",
+      "published": "2026-09-13T13:12:00+00:00",
+      "summary": "健康網》自己得「菜花」懷疑「被綠」 醫：HPV非不忠的檢測&nbsp;&nbsp;自由健康網人妻患性病被夫控出軌！喊冤疑遭公廁馬桶水濺到長菜花 醫生解答&nbsp;&nbsp;香港01妻長「菜花」遭夫控外遇 醫師：HPV檢查不是感情測謊機&nbsp;&nbsp;news.nextapple.com婚後突長菜花被尪疑出軌！婦喊「沒第三者」求助蘇怡寧 答案曝光 | Newtalk&nbsp;&nbsp;LINE TODAY人妻突長菜花！喊冤沒偷吃 醫揭真相&nbsp;&nbsp;4gtv.tv",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vazNtOFZZTHNlbHdPcGFVZzd6SnRtZDFZcVVpbktETW1vaEtmVmlWMWxLVVg2YnNCX2JhUUVXajFCZXdzcU1mcmhiMUF0RndyaU5kaENlaFZiTmE4UjEydWhLa2rSAWpBVV95cUxNNVVZRGFZQ3BQY0R0WGpoS0NWeTU4aFF4R1JZZ2xtQ09raWZ1X2JvQXBHM0dVdl9kcGktZTktNTlybjdINW1VM3d6SldBekNUOWNQQXEyNGh4UnA0MlMwREt0RWlBT2RnbGtn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "fdf97c9689c2",
+      "title": "癌王保護盾出現破口？研究揪出胰臟癌抗藥性關鍵節點",
+      "published": "2026-09-13T03:27:00+00:00",
+      "summary": "癌王保護盾出現破口？研究揪出胰臟癌抗藥性關鍵節點&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XWmRIMDNfdEZPRU93ak5FekVud1B4SEhoOHE4X0VrUE9YUzZ5c1BqVk9PUDF6X2gtdXlRVmtrRlRQdWhUdE52X3oxMUZoZE5ybG9zNTloNTY0bkZ3cEdocnJYb1_SAWpBVV95cUxNWW5VWGNjMlJRaUlEWWdYNzFQbXJyaUdrSHE1WmFFa3NlTFczaHllc21wSjQyTjVpSkw0OWJaMHVMS0JqUDFoXzZfdXFSMVVPcjlDQ1N6Nzg1V1JHbmphY2VBbzdmRVhTbVV3?oc=5"
         }
       ],
@@ -1155,13 +1168,13 @@
       "matched_keywords": []
     },
     {
-      "id": "79bd0938fcf9",
+      "id": "37995bf15662",
       "title": "遏制侵襲性乳癌擴散 澳洲研究發現抗癌新方向",
       "published": "2026-09-11T05:55:00+00:00",
-      "summary": "遏制侵襲性乳癌擴散 澳洲研究發現抗癌新方向&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "遏制侵襲性乳癌擴散 澳洲研究發現抗癌新方向&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xVmFIRlNxcWgyLVJER0pZbV84VlpfYWFzRkR5YjN4bFVhRVdqWlhhRGpLTTlPYnNTTzhiSThOcTRmZGFnTkVxZDRmYVpmLVZ4QjhiRFU0VmI3ektTaVZ6VlhvTW7SAWpBVV95cUxOZGNxbGFtVTRJd2dlSUpnckVHeHdRVVQtam1lSmxodHB4elMtbjRjbERSVUs0UC1zbngyQjRDdDBoWUp4eXhfNkcyOGNOYzlLNUVsMGlUd1lLazFKN2lUT0YzeTdvYWlXTTZn?oc=5"
         }
       ],
@@ -1204,13 +1217,13 @@
       ]
     },
     {
-      "id": "629335736c76",
-      "title": "愛用「體外射精」避孕？醫揭5後果 早洩、硬不起來都中 - 健康新聞 - PChome Online 新聞 - PChome Online新聞",
+      "id": "7346ec3d00ee",
+      "title": "愛用「體外射精」避孕？醫揭5後果 早洩、硬不起來都中 - 健康新聞 - PChome Online 新聞",
       "published": "2026-09-11T01:50:00+00:00",
-      "summary": "愛用「體外射精」避孕？醫揭5後果 早洩、硬不起來都中 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online新聞",
+      "summary": "愛用「體外射精」避孕？醫揭5後果 早洩、硬不起來都中 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;news.pchome.com.tw",
       "sources": [
         {
-          "name": "PChome Online新聞",
+          "name": "news.pchome.com.tw",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3I5WlptZGZTb1VYVXlaU0RYamJYaFJWVGhEZEhnZFNDT0NRb1k3MHNFSEZ6UmVtRTlJemNCUmhQNDBSWUNiU29rem5DMmxKWDlrUHlzQzZ0UDBXVGVQemNxVG95QXNRMXZPbHNDQ0RrOWQ1aEFsS2ZLc2oySU0yUGRSMjUtMW1US3pFQlE2eEZSUQ?oc=5"
         }
       ],
@@ -1230,13 +1243,13 @@
       "matched_keywords": []
     },
     {
-      "id": "54e17c47cd2e",
-      "title": "科學家發現大腦深處「止痛煞車」，有望擺脫傳統藥物為精準醫學鋪路 - TechNews 科技新報",
+      "id": "6fa632aa380b",
+      "title": "科學家發現大腦深處「止痛煞車」，有望擺脫傳統藥物為精準醫學鋪路",
       "published": "2026-09-11T00:05:56+00:00",
-      "summary": "科學家發現大腦深處「止痛煞車」，有望擺脫傳統藥物為精準醫學鋪路&nbsp;&nbsp;TechNews 科技新報",
+      "summary": "科學家發現大腦深處「止痛煞車」，有望擺脫傳統藥物為精準醫學鋪路&nbsp;&nbsp;technews.tw",
       "sources": [
         {
-          "name": "TechNews 科技新報",
+          "name": "technews.tw",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFVlplbGhDa05iVmE0SUhSZGkwUEtBWXE2QlFiUHV0YjUwOEJHa2MzWk95cWNuVXphcWpuYlY2OTZ4RE1qSTljUWhMdWdmZW15YTlwLWp6TkdvQ1hDN2RUVHBqS2VycWNxUFVmTVVycjk2Zw?oc=5"
         }
       ],
@@ -1269,13 +1282,13 @@
       "matched_keywords": []
     },
     {
-      "id": "19a4e3a7704c",
+      "id": "d7a0399e4f0c",
       "title": "他誤認啤酒肚，竟是淋巴癌！醫列6徵兆、實用抗癌工具一次看",
       "published": "2026-09-10T05:00:34+00:00",
-      "summary": "他誤認啤酒肚，竟是淋巴癌！醫列6徵兆、實用抗癌工具一次看&nbsp;&nbsp;元氣網",
+      "summary": "他誤認啤酒肚，竟是淋巴癌！醫列6徵兆、實用抗癌工具一次看&nbsp;&nbsp;health.udn.com",
       "sources": [
         {
-          "name": "元氣網",
+          "name": "health.udn.com",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcUpibEIwcHZjNzFLWDlrYkpwS0ZwczktZExYejRpcnpNUW9HZTkwclNNZERJSU9oSFY0RENwZ2I0VGVLQ2tHcTNISHBaYUJRU1lIMUF3STZBWG560gFiQVVfeXFMTzZrZy1oQnNTMXBpUjZkQmJ0cHhabXlsYlZTVHZHdGpCRUhXUWlERjRSbEt3bDBaa2x3dC1VS2d3TWItUVhhbzNhSUNoenBUeTY0T2FVWGRLdlZULXdhVXlhcXc?oc=5"
         }
       ],
@@ -1532,39 +1545,39 @@
       ]
     },
     {
-      "id": "3f64b48eede2",
+      "id": "69dfb495a56c",
       "title": "女性非自願單身者困孤獨低自尊 研究： 較常將戀愛失敗歸咎自己",
       "published": "2026-09-09T22:40:03+00:00",
-      "summary": "女性非自願單身者困孤獨低自尊 研究： 較常將戀愛失敗歸咎自己&nbsp;&nbsp;巴士的報",
+      "summary": "女性非自願單身者困孤獨低自尊 研究： 較常將戀愛失敗歸咎自己&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOODQ3VWxNMjMwUmotOXgwNDhBZWVwR2pGN0RCTzNhUjBHZTJYOGxucDJFcURIckVJVExTSXd5N2stbzRYU01HZVloaXNOSlVsbElyNE14aHNyQmpUcW92MHBkSW80OS1nWDFINlRMZGs4SDVJX2tyejVGOWRDaTRoY1BNNW03OVJWWXl2QjFyUkJjMHozUTlTdEhRSHVUU2RDRUxYY3hSSGNmTXR0MUZrdGZoQU5zUVBGN1pvZzY2ODdsRTlnc0ZETk1qMTJmQmJyVDNEaXNKak9qdXI4VF9qU2h4cVBRbkJiUGFtcTZ6NTV4Vi1QM18tZHhGR0JLV1dIc1l5TV9URVg0aFI1UFcxTUt0YWVUdmUxMzdMcXdxeDNHN0dESmh2dHUwZ1hqS0R4M2FqT3JwZi10V3NiT3MyVzhXOERabWYxcXZJU2EyRXhaZXpRUEdNeVpJYVNaZFRzdVJTNS1OVHdON3U5cHJF?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "e0c0156fcaf4",
+      "id": "cb5a0340b8a8",
       "title": "攝護腺癌治療後疲倦、肌力下降怎麼辦？研究證實生活處方有助改善",
       "published": "2026-09-09T08:08:26+00:00",
-      "summary": "攝護腺癌治療後疲倦、肌力下降怎麼辦？研究證實生活處方有助改善&nbsp;&nbsp;元氣網",
+      "summary": "攝護腺癌治療後疲倦、肌力下降怎麼辦？研究證實生活處方有助改善&nbsp;&nbsp;health.udn.com",
       "sources": [
         {
-          "name": "元氣網",
+          "name": "health.udn.com",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRUkdBOVYyWEtrQ2NudnJQWmktanFwYWMwUGwzemEycUJvV0JVaEdHQUZ4amZobnVWOEMxdFRUVWc3di1GaU0wdVFDYUk2YVhRa1htOGdPWjctTTdO0gFiQVVfeXFMT2c1Mk44cnIyQnE3NnZnb1NNSFhiQmtSWEJIOGpPSk1mdGpQUFNXNnE3UVBua2VIdmtHZUVPS25OQTZkZmRMcmpucm1wZTUtNTZNaURUam5mQTJtNDd1NTNmQlE?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "0070e1846a64",
+      "id": "dc219399b3aa",
       "title": "日本女星不健檢後悔了59歲腸阻塞入院確診大腸癌- 健康",
       "published": "2026-09-09T06:52:59+00:00",
-      "summary": "日本女星不健檢後悔了59歲腸阻塞入院確診大腸癌- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "日本女星不健檢後悔了59歲腸阻塞入院確診大腸癌- 健康&nbsp;&nbsp;chinatimes.com",
       "sources": [
         {
-          "name": "中時新聞網",
+          "name": "chinatimes.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zVllyWHJqUnI1b0xKbDc3aXptNkw5MGxyNXQyWDU3eDdCNk1wbnREOUdHMjVSUWNGd0xOT19oZTdqV0hyZVNUd0o1OHhqM0tfYm43SUJWUi1sVkJzWVRwbEIxaEl0X3dlN3dPR0ZB?oc=5"
         }
       ],
