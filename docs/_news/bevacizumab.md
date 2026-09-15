@@ -14,7 +14,7 @@ permalink: /news/bevacizumab/
 ---
 
 <p class="key-answer" data-question="Bevacizumab 有什麼相關新聞？">
-<strong>Bevacizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bevacizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/bevacizumab/
 <p><a href="{{ '/drugs/bevacizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [竹市115年公費HPV疫苗巡迴開打 逾5,900名學生受惠 - 中央社 CNA](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qbXE4MmVmRmVON0N5Y2pvcUZhUnFqVS1vXzRyamxESm9hc2t3dFI4QjUtNmtUMDlGS0xNcEZObmdjdGhYTERqLUMtODB6ZjF1aGpnQVl3?oc=5)
+
+2026-09-15 <span class="news-indication-tag">癌症</span>
+
+來源：[中央社 CNA](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qbXE4MmVmRmVON0N5Y2pvcUZhUnFqVS1vXzRyamxESm9hc2t3dFI4QjUtNmtUMDlGS0xNcEZObmdjdGhYTERqLUMtODB6ZjF1aGpnQVl3?oc=5)
+
+---
 
 ### [新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點](https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWUMzTWlmWk5rT19GbjlxdHV6VVZ5ZDVMdUNWQzFRLXV3U2NYaFFyeWJGNGxXX2pIaEQ0UDNkcHQxVnk5V2NsaFNkYkstUXhLMEdGMDRQUUQ0TGNfUS1vNjJjUXQyNUYtMHdvOWxzaFF5ZWJicUZJY0EzR2xwcHdxem05TnZQM2dUVDB4YlNpTGVlX0JlM0hjS3BZTUVSeGN5dUVjREV2bjZuZGJMTi1QX1lHOXdmTVF1R3NlcWhuc3JtSjJ6SUtYS0FvM210Z3pVY3A0LUdzUTluR21mSXJGbFNOX0xwYThMVWdFS09WZ0xKNWxSeFFJVFp1cDhVMk9GU2cwWXB4NUVfRmE4QS1aVkJaSmNWTjEzVlZ4RkE3NF9CWVVHYkdXMndPajRlVzhkWi0zanNydHluNVc2bloyd0VISk1ZX2JkOXgzNWwzTFhUZXp3XzQtX255TjNSNUpv?oc=5)
 

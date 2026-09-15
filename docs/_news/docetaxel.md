@@ -14,7 +14,7 @@ permalink: /news/docetaxel/
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Docetaxel</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/docetaxel/
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
 
 ### [乳癌術後疼痛竟與維生素D不足有關？](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zaDllYk1MVkFzUjM1cTdpcl9MUTJDTGo5NVBja2JxWTV5UDJkYlJERDU4LXdsemNaamxzZ1BqbVM0T2M0OXg1bkJYWjF6UVcwckNPWDVKRHN5LTd4bEJGN9IBZkFVX3lxTE9qOHJIUkZlTVRvajg2WXIyWjBCNmZlYU5RMGVUYTdUN0I5Q21VVGs1eFJ0Ny05N2FzeWR1WlhaX3hXOTA4QmhteE01QUI3UjlUY0MyX1NyY2VYZEhqRmJUaWsydUdYZw?oc=5)
 
 2026-09-15 <span class="news-indication-tag">乳癌</span>
 
 來源：[大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zaDllYk1MVkFzUjM1cTdpcl9MUTJDTGo5NVBja2JxWTV5UDJkYlJERDU4LXdsemNaamxzZ1BqbVM0T2M0OXg1bkJYWjF6UVcwckNPWDVKRHN5LTd4bEJGN9IBZkFVX3lxTE9qOHJIUkZlTVRvajg2WXIyWjBCNmZlYU5RMGVUYTdUN0I5Q21VVGs1eFJ0Ny05N2FzeWR1WlhaX3hXOTA4QmhteE01QUI3UjlUY0MyX1NyY2VYZEhqRmJUaWsydUdYZw?oc=5)
+
+---
+
+### [竹市115年公費HPV疫苗巡迴開打 逾5,900名學生受惠 - 中央社 CNA](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qbXE4MmVmRmVON0N5Y2pvcUZhUnFqVS1vXzRyamxESm9hc2t3dFI4QjUtNmtUMDlGS0xNcEZObmdjdGhYTERqLUMtODB6ZjF1aGpnQVl3?oc=5)
+
+2026-09-15 <span class="news-indication-tag">癌症</span>
+
+來源：[中央社 CNA](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qbXE4MmVmRmVON0N5Y2pvcUZhUnFqVS1vXzRyamxESm9hc2t3dFI4QjUtNmtUMDlGS0xNcEZObmdjdGhYTERqLUMtODB6ZjF1aGpnQVl3?oc=5)
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T08:12:00.949138+00:00",
+  "generated": "2026-09-15T14:00:27.809499+00:00",
   "count": 17,
   "news": [
     {
@@ -45,6 +45,214 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fb502e5e7120",
+      "title": "竹市115年公費HPV疫苗巡迴開打 逾5,900名學生受惠 - 中央社 CNA",
+      "published": "2026-09-15T06:15:11+00:00",
+      "sources": [
+        {
+          "name": "中央社 CNA",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qbXE4MmVmRmVON0N5Y2pvcUZhUnFqVS1vXzRyamxESm9hc2t3dFI4QjUtNmtUMDlGS0xNcEZObmdjdGhYTERqLUMtODB6ZjF1aGpnQVl3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
             }
           ]
         }
@@ -588,13 +796,13 @@
       ]
     },
     {
-      "id": "87f5d35763d1",
-      "title": "「老倒縮」是真的！她變矮3公分、腰痠背痛竟罹「重度骨鬆」…醫示警：骨折沒前兆，4種人應主動篩檢",
-      "published": "2026-09-14T01:08:43+00:00",
+      "id": "6a4c476ca59c",
+      "title": "「老倒縮」是真的！她變矮3公分、腰痠背痛竟罹「重度骨鬆」…醫示警：骨折沒前兆，4種人應主動篩檢| 幸福熟齡X 今周刊 - LINE TODAY",
+      "published": "2026-09-14T02:26:57+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQTnktRVhUN2g5LWhTQl95RFV3SFFva09TWkZmSTFzdHZCZHV4eWFULWx5NURFSHA3ek9LT0FSNmNKdVNQb1pQUkhGYVpzc2hlblJvSGp1aWVDcllrWUhWSFpKd0I0Zm5EbWRhZERwWW1NX25YUXk0aUJmc2pjejR6YlUzWHhvMTAxNTB0QWtfazRUSG9zX042MEltdkcwRlRyOGpKVzRsMXFreE02aE5pN3lVY0RVRFlRbmpDaDIydDlRb19UZTFMTnlmTUZMMlJNSWZKbXlQODlqbFI1bFJpLTFRWm4wdG9UTDFPaXhSNEpYOHBMRGtFZF90aEcwUkVxemFQc2Z2dDZEbmthclhGZE9zbVdJQXNtcnhRazl1SWx5OEZNSUE2OC04THRFTzZsUjQ5TkU3R3BvZG5nVWlndzdLSE91MU5xUHowYmhIUFRPelFfWHc?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yUXcteml4VXY3ZmU3NUFfdkRBWHFKREREMTVBSzhwUHhtdUJJRHZjam9xMWgyU0FQbk1TR09FVHMyMWUtcERsZ1k1LU9RdmFZcVJNeFJn?oc=5"
         }
       ],
       "keywords": [
@@ -610,34 +818,6 @@
             {
               "slug": "denosumab",
               "name": "Denosumab"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d1eecee94d96",
-      "title": "刷牙流血別當小事！醫示警：牙周病恐是缺血性中風前兆",
-      "published": "2026-09-12T03:40:00+00:00",
-      "sources": [
-        {
-          "name": "民報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qRzMtaEJjTEVNa3YxZ2JSdUtSNjlPLXBvOWE0ejZWaGp3OHNfTUVVVEtaSk9RWTdLVEFvZVhvVE41d3BsdE5RdngwbEE2MHZfYnExNHE4bmpManNfWnk0NA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }
@@ -924,12 +1104,12 @@
       ]
     },
     {
-      "id": "6b34c76befcd",
-      "title": "59歲女星腸阻塞入院驚患三期大腸癌！悔喊忽視體檢：曾以為我很健康",
+      "id": "21a0da611979",
+      "title": "59歲女星腸阻塞入院驚患三期大腸癌！悔喊忽視體檢：曾以為我很健康 - U Food",
       "published": "2026-09-10T10:08:34+00:00",
       "sources": [
         {
-          "name": "ufood.com.hk",
+          "name": "U Food",
           "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOUjNNME03cTBCcHQtU2doa3VhWU1nOHdTencwU3NGVkFnSWs5R0ZMTlh4b0JOT1BKcS1LaHdhN2ZtNmU5RnEtSHhnNHl1SVFGVE1jMEFGSEpaWFNMNngxWnczYkVGOEVCNFp4WVFManBsYUZJWnktSXJnYVFfdVVaS0pwbHFxUElMTG9hOG1JNHhnWGxPbEF1S1RjZ2xPQkZwd2pkVHhaaHlKdUNUcEJiLW1TVVJreDVwOXduLVpaNGVXSm5VU1BMdUcwRWFwS2R0UnJ6c0RqQ1h4YU5iQkxDZUdhdW9qeEFic3lxNGp1QnF6NTlUZGF6ekI1SUpPaXY4OW9uY1RGSDNqX0JOWjR3ZXAxVllLbFA3NW1WRTIwOXdaUTRQeTdXcFJLeWRnWGRPVUREeDVYT0NZclFfUEhhUHFlbmpJUHo0Qno1dG5Yem1mbTctTS1SN0ZTZFZpU3Q4dFJ2SGtHRUFJaXVlYzN2R2VpazlsMlNMMGRoVGQteHl2MElXSmVvSENZdXNGM1pEcmxpeEJjbmJ2bHJYVFdUVXg1Z2IzRW9LTGs1OUFkV3pjZFFTREE?oc=5"
         }
       ],
