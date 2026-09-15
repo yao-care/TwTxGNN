@@ -14,7 +14,7 @@ permalink: /news/tinidazole/
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/tinidazole/
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [更年期荷爾蒙治療 / 鄭志文 - 20260916 - 作家專欄](https://news.google.com/rss/articles/CBMihwJBVV95cUxOb2JuUFk4SjNiWVVQZzFDaHpDZDNWemhmbmo5MmFfRWp1clNPNng2aG1GNWhkOHE5NDBLaF9sMnhZaE1aX2NJTzZkTm9yWjBjU2ZqUER4SFAtUWhiN3AtVjFJMk50R0JFV0V4RTVoUUxabERnSHczb3BhQnROMHdfNXIxcGlXTHFUOXMxcl9PRXRTR1VqRnFEeldZWWJWUlFpRTRHSlVzNjVZZDJrV09yemZ4Wk1EeHRsaDhnRUx0Nzd1blJTdW1MNnpqdHZZQjlnN0NfWnl6QW1SbVF0aGZVRlVINWt6Q0pjSzhUa2xWM2h2SXVFYU1zRXBNbUxrclRyVnh3elFGOA?oc=5)
+
+2026-09-15 <span class="news-indication-tag">更年期</span>
+
+來源：[明報新聞網](https://news.google.com/rss/articles/CBMihwJBVV95cUxOb2JuUFk4SjNiWVVQZzFDaHpDZDNWemhmbmo5MmFfRWp1clNPNng2aG1GNWhkOHE5NDBLaF9sMnhZaE1aX2NJTzZkTm9yWjBjU2ZqUER4SFAtUWhiN3AtVjFJMk50R0JFV0V4RTVoUUxabERnSHczb3BhQnROMHdfNXIxcGlXTHFUOXMxcl9PRXRTR1VqRnFEeldZWWJWUlFpRTRHSlVzNjVZZDJrV09yemZ4Wk1EeHRsaDhnRUx0Nzd1blJTdW1MNnpqdHZZQjlnN0NfWnl6QW1SbVF0aGZVRlVINWt6Q0pjSzhUa2xWM2h2SXVFYU1zRXBNbUxrclRyVnh3elFGOA?oc=5)
+
+---
 
 ### [新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點](https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWUMzTWlmWk5rT19GbjlxdHV6VVZ5ZDVMdUNWQzFRLXV3U2NYaFFyeWJGNGxXX2pIaEQ0UDNkcHQxVnk5V2NsaFNkYkstUXhLMEdGMDRQUUQ0TGNfUS1vNjJjUXQyNUYtMHdvOWxzaFF5ZWJicUZJY0EzR2xwcHdxem05TnZQM2dUVDB4YlNpTGVlX0JlM0hjS3BZTUVSeGN5dUVjREV2bjZuZGJMTi1QX1lHOXdmTVF1R3NlcWhuc3JtSjJ6SUtYS0FvM210Z3pVY3A0LUdzUTluR21mSXJGbFNOX0xwYThMVWdFS09WZ0xKNWxSeFFJVFp1cDhVMk9GU2cwWXB4NUVfRmE4QS1aVkJaSmNWTjEzVlZ4RkE3NF9CWVVHYkdXMndPajRlVzhkWi0zanNydHluNVc2bloyd0VISk1ZX2JkOXgzNWwzTFhUZXp3XzQtX255TjNSNUpv?oc=5)
 

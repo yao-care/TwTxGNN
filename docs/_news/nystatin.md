@@ -14,7 +14,7 @@ permalink: /news/nystatin/
 ---
 
 <p class="key-answer" data-question="Nystatin 有什麼相關新聞？">
-<strong>Nystatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nystatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/nystatin/
 <p><a href="{{ '/drugs/nystatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [更年期荷爾蒙治療 / 鄭志文 - 20260916 - 作家專欄](https://news.google.com/rss/articles/CBMihwJBVV95cUxOb2JuUFk4SjNiWVVQZzFDaHpDZDNWemhmbmo5MmFfRWp1clNPNng2aG1GNWhkOHE5NDBLaF9sMnhZaE1aX2NJTzZkTm9yWjBjU2ZqUER4SFAtUWhiN3AtVjFJMk50R0JFV0V4RTVoUUxabERnSHczb3BhQnROMHdfNXIxcGlXTHFUOXMxcl9PRXRTR1VqRnFEeldZWWJWUlFpRTRHSlVzNjVZZDJrV09yemZ4Wk1EeHRsaDhnRUx0Nzd1blJTdW1MNnpqdHZZQjlnN0NfWnl6QW1SbVF0aGZVRlVINWt6Q0pjSzhUa2xWM2h2SXVFYU1zRXBNbUxrclRyVnh3elFGOA?oc=5)
+
+2026-09-15 <span class="news-indication-tag">更年期</span>
+
+來源：[明報新聞網](https://news.google.com/rss/articles/CBMihwJBVV95cUxOb2JuUFk4SjNiWVVQZzFDaHpDZDNWemhmbmo5MmFfRWp1clNPNng2aG1GNWhkOHE5NDBLaF9sMnhZaE1aX2NJTzZkTm9yWjBjU2ZqUER4SFAtUWhiN3AtVjFJMk50R0JFV0V4RTVoUUxabERnSHczb3BhQnROMHdfNXIxcGlXTHFUOXMxcl9PRXRTR1VqRnFEeldZWWJWUlFpRTRHSlVzNjVZZDJrV09yemZ4Wk1EeHRsaDhnRUx0Nzd1blJTdW1MNnpqdHZZQjlnN0NfWnl6QW1SbVF0aGZVRlVINWt6Q0pjSzhUa2xWM2h2SXVFYU1zRXBNbUxrclRyVnh3elFGOA?oc=5)
+
+---
 
 
 <div class="disclaimer">
