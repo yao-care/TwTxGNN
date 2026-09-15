@@ -47,11 +47,11 @@ permalink: /news/common-cold/
 
 ---
 
-### [感冒吃維他命C好更快？研究曝「嚴重症狀少26%」 關鍵是它 | TVBS - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RbXVPTTJFZk84M2JzRk54VVhCZVFFS2diRDBRWXBseHVRTjVWU19HSEI5UzA2RTFNUnNQd1BYOGtKRDV1enhrampiaFlPNVcwUm5jRERB?oc=5)
+### [感冒吃維他命C好更快？研究曝「嚴重症狀少26%」 關鍵是它](https://news.google.com/rss/articles/CBMiUEFVX3lxTE94bjZMcDV6V3dBbGZydVNyTXZpdW1XdlVURlctOEUwUTBKcHBzeXhuWi1VN1BDNzBMVW5VNVZZazJDUEhRVXJtcjQ3Y20yb09W?oc=5)
 
 2026-09-09
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RbXVPTTJFZk84M2JzRk54VVhCZVFFS2diRDBRWXBseHVRTjVWU19HSEI5UzA2RTFNUnNQd1BYOGtKRDV1enhrampiaFlPNVcwUm5jRERB?oc=5)
+來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE94bjZMcDV6V3dBbGZydVNyTXZpdW1XdlVURlctOEUwUTBKcHBzeXhuWi1VN1BDNzBMVW5VNVZZazJDUEhRVXJtcjQ3Y20yb09W?oc=5)
 
 ---
 

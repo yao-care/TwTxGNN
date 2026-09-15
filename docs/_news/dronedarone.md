@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [睡不好、健忘別以為是太累！宸曜前進世界台商健康照護論壇　從睡眠談中風、失智風險](https://news.google.com/rss/articles/CBMiekFVX3lxTE5fNEMtTk81NnNnVmxuak9RVFpoQ0h5N3dJWWRNSUhSOUZLV1RNTnB5WmQ2RkdDOElpVzNkU2liakpuYXk2ZlRPNmlVbVNId0tSOUZ4ZnpaV1Q0b1h6WU8tRjFud3M4QVYwNklkMXM5cjBQQVNzV2hON2xR0gFiQVVfeXFMT0hPRHpmSVFvcmVfd3Z3aVNWMFFpLU9pNDJZSHVHWnV5a3hVbDZTOVN3TEJqWmdFeUx3cE10VUhKQUdLZDRpQVVJSGg3WDBzbzY2LUxmTGlvZVFYaEU1cUwxU3c?oc=5)
+
+2026-09-15 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
+
+來源：[經濟日報](https://news.google.com/rss/articles/CBMiekFVX3lxTE5fNEMtTk81NnNnVmxuak9RVFpoQ0h5N3dJWWRNSUhSOUZLV1RNTnB5WmQ2RkdDOElpVzNkU2liakpuYXk2ZlRPNmlVbVNId0tSOUZ4ZnpaV1Q0b1h6WU8tRjFud3M4QVYwNklkMXM5cjBQQVNzV2hON2xR0gFiQVVfeXFMT0hPRHpmSVFvcmVfd3Z3aVNWMFFpLU9pNDJZSHVHWnV5a3hVbDZTOVN3TEJqWmdFeUx3cE10VUhKQUdLZDRpQVVJSGg3WDBzbzY2LUxmTGlvZVFYaEU1cUwxU3c?oc=5)
+
+---
 
 ### [刷牙流血別當小事！醫示警：牙周病恐是缺血性中風前兆](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qRzMtaEJjTEVNa3YxZ2JSdUtSNjlPLXBvOWE0ejZWaGp3OHNfTUVVVEtaSk9RWTdLVEFvZVhvVE41d3BsdE5RdngwbEE2MHZfYnExNHE4bmpManNfWnk0NA?oc=5)
 
