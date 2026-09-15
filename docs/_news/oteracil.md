@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
-
-### [竹市115年公費HPV疫苗巡迴開打 逾5,900名學生受惠 - 中央社 CNA](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qbXE4MmVmRmVON0N5Y2pvcUZhUnFqVS1vXzRyamxESm9hc2t3dFI4QjUtNmtUMDlGS0xNcEZObmdjdGhYTERqLUMtODB6ZjF1aGpnQVl3?oc=5)
-
-2026-09-15 <span class="news-indication-tag">癌症</span>
-
-來源：[中央社 CNA](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qbXE4MmVmRmVON0N5Y2pvcUZhUnFqVS1vXzRyamxESm9hc2t3dFI4QjUtNmtUMDlGS0xNcEZObmdjdGhYTERqLUMtODB6ZjF1aGpnQVl3?oc=5)
-
----
+## 相關新聞（6 則）
 
 ### [新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點](https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWUMzTWlmWk5rT19GbjlxdHV6VVZ5ZDVMdUNWQzFRLXV3U2NYaFFyeWJGNGxXX2pIaEQ0UDNkcHQxVnk5V2NsaFNkYkstUXhLMEdGMDRQUUQ0TGNfUS1vNjJjUXQyNUYtMHdvOWxzaFF5ZWJicUZJY0EzR2xwcHdxem05TnZQM2dUVDB4YlNpTGVlX0JlM0hjS3BZTUVSeGN5dUVjREV2bjZuZGJMTi1QX1lHOXdmTVF1R3NlcWhuc3JtSjJ6SUtYS0FvM210Z3pVY3A0LUdzUTluR21mSXJGbFNOX0xwYThMVWdFS09WZ0xKNWxSeFFJVFp1cDhVMk9GU2cwWXB4NUVfRmE4QS1aVkJaSmNWTjEzVlZ4RkE3NF9CWVVHYkdXMndPajRlVzhkWi0zanNydHluNVc2bloyd0VISk1ZX2JkOXgzNWwzTFhUZXp3XzQtX255TjNSNUpv?oc=5)
 
@@ -76,19 +68,19 @@ permalink: /news/oteracil/
 
 ---
 
-### [59歲女星腸阻塞入院驚患三期大腸癌！悔喊忽視體檢：曾以為我很健康 - U Food](https://news.google.com/rss/articles/CBMitgNBVV95cUxOUjNNME03cTBCcHQtU2doa3VhWU1nOHdTencwU3NGVkFnSWs5R0ZMTlh4b0JOT1BKcS1LaHdhN2ZtNmU5RnEtSHhnNHl1SVFGVE1jMEFGSEpaWFNMNngxWnczYkVGOEVCNFp4WVFManBsYUZJWnktSXJnYVFfdVVaS0pwbHFxUElMTG9hOG1JNHhnWGxPbEF1S1RjZ2xPQkZwd2pkVHhaaHlKdUNUcEJiLW1TVVJreDVwOXduLVpaNGVXSm5VU1BMdUcwRWFwS2R0UnJ6c0RqQ1h4YU5iQkxDZUdhdW9qeEFic3lxNGp1QnF6NTlUZGF6ekI1SUpPaXY4OW9uY1RGSDNqX0JOWjR3ZXAxVllLbFA3NW1WRTIwOXdaUTRQeTdXcFJLeWRnWGRPVUREeDVYT0NZclFfUEhhUHFlbmpJUHo0Qno1dG5Yem1mbTctTS1SN0ZTZFZpU3Q4dFJ2SGtHRUFJaXVlYzN2R2VpazlsMlNMMGRoVGQteHl2MElXSmVvSENZdXNGM1pEcmxpeEJjbmJ2bHJYVFdUVXg1Z2IzRW9LTGs1OUFkV3pjZFFTREE?oc=5)
-
-2026-09-10 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[U Food](https://news.google.com/rss/articles/CBMitgNBVV95cUxOUjNNME03cTBCcHQtU2doa3VhWU1nOHdTencwU3NGVkFnSWs5R0ZMTlh4b0JOT1BKcS1LaHdhN2ZtNmU5RnEtSHhnNHl1SVFGVE1jMEFGSEpaWFNMNngxWnczYkVGOEVCNFp4WVFManBsYUZJWnktSXJnYVFfdVVaS0pwbHFxUElMTG9hOG1JNHhnWGxPbEF1S1RjZ2xPQkZwd2pkVHhaaHlKdUNUcEJiLW1TVVJreDVwOXduLVpaNGVXSm5VU1BMdUcwRWFwS2R0UnJ6c0RqQ1h4YU5iQkxDZUdhdW9qeEFic3lxNGp1QnF6NTlUZGF6ekI1SUpPaXY4OW9uY1RGSDNqX0JOWjR3ZXAxVllLbFA3NW1WRTIwOXdaUTRQeTdXcFJLeWRnWGRPVUREeDVYT0NZclFfUEhhUHFlbmpJUHo0Qno1dG5Yem1mbTctTS1SN0ZTZFZpU3Q4dFJ2SGtHRUFJaXVlYzN2R2VpazlsMlNMMGRoVGQteHl2MElXSmVvSENZdXNGM1pEcmxpeEJjbmJ2bHJYVFdUVXg1Z2IzRW9LTGs1OUFkV3pjZFFTREE?oc=5)
-
----
-
 ### [抗癌戰士︱YouTuber曉欣戰勝14cm卵巢腫瘤脫假髮曬「頭髮生長報告」 Skinhead 撞樣《怪奇物語》Eleven](https://news.google.com/rss/articles/CBMikARBVV95cUxPTW1aNnhUblZoXzg0aEZrcHRKaUR4am9rX2VCcVc5RFNsamVpVXlNei1VREF2MEtiNXFCWU5zYzg3bHpOZWJHa1pfbWUwUmloNFZlUFpwWWJDZjFGempLOGtPQmh3b0FPZFpfZHozV0kwYWRaMEVmMDZoeW5sckh1Qjkwb3Fpbkp6WERvekRWZkhTbUpTbi1JRTJSb1Z6VG1CZGw2dEJ4eTVJMmNSS0l0SENsSTRCZDc3cjRDc1hZNjVaQmFCazM1UmVObWwtUjhKeWZhcjZtYVJ1UHE5cG9WOEVaMVlGeGhEbDB6S081R2xHdFBWTk5pLTR2YXpHdVAyNkVjaW0yQTVJaU55VTBBd1N6anZVdkVESTRVQ3lKY21qYV9zZFltMGRjdFE4dm40ZFczU1BSOXYxSjR2WGhXQzhFUkhfRk9xeUlEaVRzblNRdUxWVm44dktiV0tEd0tDVS1Ua0R1ZzJCZGExVkhzVGdOaXNlekJsNEF3QUdOSGxHb1Jxd19zSjhqcnd6MWNoQWd0T1hSTnVHVWpVZEZGSFZYb0NOUzNMR1VVXzJOMlZrcGlMTENYaHB2NGlNWUxacGk3OHYzekx3MGEwMnJieWhyS0JnSWVmSmZ3UGtLb25BUDZ3RjV6RWVkSy1GQWNOdmZxWXhVM1dkN1N0WHhkMWs4QWt3V2paWmZ5OUl2VWs?oc=5)
 
 2026-09-10 <span class="news-indication-tag">腫瘤</span>
 
 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMikARBVV95cUxPTW1aNnhUblZoXzg0aEZrcHRKaUR4am9rX2VCcVc5RFNsamVpVXlNei1VREF2MEtiNXFCWU5zYzg3bHpOZWJHa1pfbWUwUmloNFZlUFpwWWJDZjFGempLOGtPQmh3b0FPZFpfZHozV0kwYWRaMEVmMDZoeW5sckh1Qjkwb3Fpbkp6WERvekRWZkhTbUpTbi1JRTJSb1Z6VG1CZGw2dEJ4eTVJMmNSS0l0SENsSTRCZDc3cjRDc1hZNjVaQmFCazM1UmVObWwtUjhKeWZhcjZtYVJ1UHE5cG9WOEVaMVlGeGhEbDB6S081R2xHdFBWTk5pLTR2YXpHdVAyNkVjaW0yQTVJaU55VTBBd1N6anZVdkVESTRVQ3lKY21qYV9zZFltMGRjdFE4dm40ZFczU1BSOXYxSjR2WGhXQzhFUkhfRk9xeUlEaVRzblNRdUxWVm44dktiV0tEd0tDVS1Ua0R1ZzJCZGExVkhzVGdOaXNlekJsNEF3QUdOSGxHb1Jxd19zSjhqcnd6MWNoQWd0T1hSTnVHVWpVZEZGSFZYb0NOUzNMR1VVXzJOMlZrcGlMTENYaHB2NGlNWUxacGk3OHYzekx3MGEwMnJieWhyS0JnSWVmSmZ3UGtLb25BUDZ3RjV6RWVkSy1GQWNOdmZxWXhVM1dkN1N0WHhkMWs4QWt3V2paWmZ5OUl2VWs?oc=5)
+
+---
+
+### [日本女星不健檢後悔了59歲腸阻塞入院確診大腸癌- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE4zVllyWHJqUnI1b0xKbDc3aXptNkw5MGxyNXQyWDU3eDdCNk1wbnREOUdHMjVSUWNGd0xOT19oZTdqV0hyZVNUd0o1OHhqM0tfYm43SUJWUi1sVkJzWVRwbEIxaEl0X3dlN3dPR0ZB?oc=5)
+
+2026-09-09 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE4zVllyWHJqUnI1b0xKbDc3aXptNkw5MGxyNXQyWDU3eDdCNk1wbnREOUdHMjVSUWNGd0xOT19oZTdqV0hyZVNUd0o1OHhqM0tfYm43SUJWUi1sVkJzWVRwbEIxaEl0X3dlN3dPR0ZB?oc=5)
 
 ---
 
