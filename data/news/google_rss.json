@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-09-16T17:51:49.486897+00:00",
-  "count": 47,
+  "fetched_at": "2026-09-16T20:39:58.587187+00:00",
+  "count": 48,
   "news": [
-    {
-      "id": "eadbf100d00d",
-      "title": "營養品可能傷腎？醫師：「這幾種」別亂吃 - 鏡週刊Mirror Media",
-      "published": "2026-09-16T13:24:00+00:00",
-      "summary": "營養品可能傷腎？醫師：「這幾種」別亂吃&nbsp;&nbsp;鏡週刊Mirror Media",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82NFNOa3V4Y0psV2tGMXExTmJtNGxtMUxDS3pfeG5IcHNVcEtBSld4bC1KZEE1V1hlUXpCdXpEWHpwYnBQUzdabkpTQkduaE03eklleTZ0UmRGbHBZ0gFiQVVfeXFMUERjaVpxYUxDQW5MX1hUb0ZObGlCUXd0NzlOUTBhYmVNYTNwTGlzM0pOZ3I1Rm9ZQ0JWb2dnUzVkcllSUzJjNlNLMlE3WkZaMXR4R1ZsT2VET3ROTjVtd3FfdWc?oc=5"
-        }
-      ]
-    },
     {
       "id": "bfc11d22ec64",
       "title": "如果 Freddie Mercury 活到80歲，他會看見一個不一樣的 HIV 世界嗎？ - peopo.org",
@@ -52,6 +40,18 @@
       ]
     },
     {
+      "id": "ec889293d94d",
+      "title": "新竹市115年公費HPV疫苗巡迴開打 - 台灣新聞雲",
+      "published": "2026-09-15T15:49:45+00:00",
+      "summary": "新竹市115年公費HPV疫苗巡迴開打&nbsp;&nbsp;台灣新聞雲竹市115年公費HPV疫苗巡迴開打 逾5900名學生受惠&nbsp;&nbsp;自由健康網「糖胖症」染HPV 罹癌風險增&nbsp;&nbsp;udn糖胖症恐成HPV防癌破口？醫：肥胖、高血糖影響免疫恐增加感染風險&nbsp;&nbsp;Taiwan News守護青少年健康 竹市公費HPV疫苗巡迴開打 | 台灣好新聞&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "台灣新聞雲",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0R2J3aXpLWDQ0cG5WaEM5MHQxX0VieW1OMUp4aEVCUVM4VmNVRVhpZ0ZHaHdQV0lZZzRBbHI5bDFqRS1xNUxJ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "38a4cef6c313",
       "title": "不只減重？熱門藥物GLP-1展現抗老潛力，動物研究現重大突破 - 蕃新聞",
       "published": "2026-09-16T05:22:00+00:00",
@@ -64,18 +64,6 @@
       ]
     },
     {
-      "id": "ec889293d94d",
-      "title": "新竹市115年公費HPV疫苗巡迴開打 - 台灣新聞雲",
-      "published": "2026-09-15T15:49:45+00:00",
-      "summary": "新竹市115年公費HPV疫苗巡迴開打&nbsp;&nbsp;台灣新聞雲竹市115年公費HPV疫苗巡迴開打 逾5900名學生受惠&nbsp;&nbsp;自由健康網「糖胖症」染HPV 罹癌風險增&nbsp;&nbsp;UDN糖胖症恐成HPV防癌破口？醫：肥胖、高血糖影響免疫恐增加感染風險&nbsp;&nbsp;Taiwan News守護青少年健康 竹市公費HPV疫苗巡迴開打 | 台灣好新聞&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "台灣新聞雲",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0R2J3aXpLWDQ0cG5WaEM5MHQxX0VieW1OMUp4aEVCUVM4VmNVRVhpZ0ZHaHdQV0lZZzRBbHI5bDFqRS1xNUxJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6d96dc8a93a2",
       "title": "不想皮蛇好了還痛好幾個月！醫揭「預防帶狀皰疹後神經痛」關鍵 - Yahoo新聞",
       "published": "2026-09-16T03:04:58+00:00",
@@ -84,6 +72,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPMHhqVTZBNVdmaEZhX2NHTUhpWlF4SWx5blRld2cybEdMdjBJbHFzdXlfSEVnblU5YVc3aE5qbk95d3lKbVJBSUJvNmlxcHZIakNwTTM1US0zZnFiV3RXX1hVNWpSNXZJQjVjSGNrUU9OWTdjMU1saGpEQUd0NGEyM3ppSWRTZHJpckV1dm9DdkRDVm1ERjB1Ny1KTVM0QjQ4dlluWUJ0cnNYMnM1b1lHdmFrdWowZlBzclh2LWdqeG42Rkl3Q25HdkZHSlctU2RLWTN0RkhNTEZDcUF0alR6b00weF9SU0h3cW55N1BONkJTQi1OTE5DTk1TcXFTS3kyQ2h6TmlMTnRjcjhGYV9nc0hkdWQ5bzR0dmwxUkQwTkJEVjJhbFJLMEltNGVIckQ5SFhfWU9DTDhNaG5fV3VjY0t3VTV0eUhQX3lHMkpCSWg2QlBXdUlrLWlTQmV5dmdqQ1V6YWxjY3hwNnJ5ekNVU0l2M2FROEcwRmdyMUZ1cVVjNkt0aWx1dHJUN0RMT1k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "83e337f08ddc",
+      "title": "流感、腸病毒升溫！多吃水果、避免熬夜助提升免疫力 - Yahoo新聞",
+      "published": "2026-09-16T08:57:56+00:00",
+      "summary": "流感、腸病毒升溫！多吃水果、避免熬夜助提升免疫力&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQcG1FY2d4YXo1Y1Z2YU1qeFhpaGtaZllzcWVDX1lZSXptM3NMbC1GNy15SG1idDVPekd1Q2t0elFhQ1B3eXIycUk1bVRSN1RnaUQ2emx4T2VqTHNZUHdJWXRLLXE5TUw2NzZnMTRaY0NoRnZndXlRU2ZIYXNEdko0RHVXSUxzazUxY21aaE8zM3d2MVhXR1BJNVhabDdMWlNBYjFSSzVTaU1QbGFLRjZwWFh1SHpqemh2c095bkZkamlDODd0cWVYMGUwaU1EZkt4UTJ4SHlJY1N1ZGtDYVBMYUFuOXZlZnBZSnhLUnlmdHRzSlNSZzlhZkxuZTRTS0JDc3VNNXI4RzZHX2t6a1gxMEVnOUxSUHNRaHFGS25KczYyYlV1Y3lydTNMaG0xOXhTaFpaLU0tWnkyVHB6OUN1dF9QX050enB6VF9kRU5SUFdRTU0?oc=5"
         }
       ]
     },
@@ -148,26 +148,14 @@
       ]
     },
     {
-      "id": "48ee519275b6",
-      "title": "懷孕可以吃藥嗎？醫給解答：做對不傷胎- 健康 - 中時新聞網",
+      "id": "77b60d62f91f",
+      "title": "懷孕可以吃藥嗎？醫給解答：做對不傷胎- 健康 - chinatimes.com",
       "published": "2026-09-15T03:00:30+00:00",
-      "summary": "懷孕可以吃藥嗎？醫給解答：做對不傷胎- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "懷孕可以吃藥嗎？醫給解答：做對不傷胎- 健康&nbsp;&nbsp;chinatimes.com",
       "sources": [
         {
-          "name": "中時新聞網",
+          "name": "chinatimes.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1dWEwU0dpNUlhWEllSFpNb2RqR0I0eG9rQ3RMZC1QUGZPZWxtczdlNVQwY1BZZTIyMjVRZktoSjhFVE1GeHIwZEtxUlF3UmtNNTlHNHc0NHQzSFdWREJMVlpJVXZHSXZHaG1LZGh3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "02d528117619",
-      "title": "代糖吃多恐傷大腦？研究曝6種甜味劑與認知下降有關 60歲以下更明顯 - UDN",
-      "published": "2026-09-16T07:14:21+00:00",
-      "summary": "代糖吃多恐傷大腦？研究曝6種甜味劑與認知下降有關 60歲以下更明顯&nbsp;&nbsp;UDN前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1COEFKNHdjaDRrRW1rTkJFV2dBUGxINnk1WFppUDJCMHo1eFR2MnN3RGllQXNObnlhMmZ3YzRZaVpwVGpSX2E1RWZsejZ6MjRqODd4a2JWa3FGTnpoNlE3cEFMQ3M0QnBpYmJ1cGdIc1BaSEpE?oc=5"
         }
       ]
     },
@@ -184,6 +172,18 @@
       ]
     },
     {
+      "id": "97ddcc83a4fc",
+      "title": "代糖吃多恐傷大腦？研究曝6種甜味劑與認知下降有關 60歲以下更明顯 - udn",
+      "published": "2026-09-16T07:14:21+00:00",
+      "summary": "代糖吃多恐傷大腦？研究曝6種甜味劑與認知下降有關 60歲以下更明顯&nbsp;&nbsp;udn前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "udn",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1COEFKNHdjaDRrRW1rTkJFV2dBUGxINnk1WFppUDJCMHo1eFR2MnN3RGllQXNObnlhMmZ3YzRZaVpwVGpSX2E1RWZsejZ6MjRqODd4a2JWa3FGTnpoNlE3cEFMQ3M0QnBpYmJ1cGdIc1BaSEpE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f7cbb370bdab",
       "title": "活到 117 歲仍少有重病，科學家找到超級人瑞的長壽線索 - TechNews 科技新報",
       "published": "2026-09-14T03:43:54+00:00",
@@ -196,13 +196,13 @@
       ]
     },
     {
-      "id": "683b2130ad7a",
-      "title": "想長壽更要老得健康 研究追蹤至90歲揭40歲顧好5項指標差很大 - health.udn.com",
+      "id": "898ba7b1e1cd",
+      "title": "想長壽更要老得健康 研究追蹤至90歲揭40歲顧好5項指標差很大 - 元氣網",
       "published": "2026-09-14T02:55:30+00:00",
-      "summary": "想長壽更要老得健康 研究追蹤至90歲揭40歲顧好5項指標差很大&nbsp;&nbsp;health.udn.com",
+      "summary": "想長壽更要老得健康 研究追蹤至90歲揭40歲顧好5項指標差很大&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "health.udn.com",
+          "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCQUV4Z0U2UFFNYkJCWFVyZTZUZ0pFUHNDZFZiR0hFeTFNRmJPckZ0M0hyeUpZR0RLeFdRbDdFekJMS3hvZFRibURacjBDdUVtNVdEMkVxQ0VNcThLUnUyRjhn0gFiQVVfeXFMUEJBRXhnRTZQUU1iQkJYVXJlNlRnSkVQc0NkVmJHSEV5MU1GYk9yRnQzSHJ5SllHREt4V1FsN0V6QkxLeG9kVGJtRFpyMEN1RW01V0QyRXFDRU1xOEtSdTJGOGc?oc=5"
         }
       ]
@@ -220,18 +220,6 @@
       ]
     },
     {
-      "id": "a7dcac8f56bd",
-      "title": "黃金睡眠時間6.4至7.8小時最抗老 醫師警告「2大NG睡姿」 - 台視新聞網",
-      "published": "2026-09-13T03:50:22+00:00",
-      "summary": "黃金睡眠時間6.4至7.8小時最抗老 醫師警告「2大NG睡姿」&nbsp;&nbsp;台視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iSmZ5Rk5DTFVfcXVSWEpBZlN0UGRUTTlrQlMtR1hWd0FWcHNQOW1KWWRLY3NPOEphMEJLX0xiNXB6MGdLQkZiWk96QzcyRmNrdjJINEtwZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fdf97c9689c2",
       "title": "癌王保護盾出現破口？研究揪出胰臟癌抗藥性關鍵節點 - 自由健康網",
       "published": "2026-09-13T03:27:00+00:00",
@@ -244,10 +232,22 @@
       ]
     },
     {
+      "id": "a7dcac8f56bd",
+      "title": "黃金睡眠時間6.4至7.8小時最抗老 醫師警告「2大NG睡姿」 - 台視新聞網",
+      "published": "2026-09-13T03:50:22+00:00",
+      "summary": "黃金睡眠時間6.4至7.8小時最抗老 醫師警告「2大NG睡姿」&nbsp;&nbsp;台視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iSmZ5Rk5DTFVfcXVSWEpBZlN0UGRUTTlrQlMtR1hWd0FWcHNQOW1KWWRLY3NPOEphMEJLX0xiNXB6MGdLQkZiWk96QzcyRmNrdjJINEtwZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e086829d9787",
       "title": "歐洲高溫助長蚊蟲傳播 荷蘭西尼羅病毒釀3死18染疫 - 民視新聞網",
       "published": "2026-09-10T10:02:27+00:00",
-      "summary": "歐洲高溫助長蚊蟲傳播 荷蘭西尼羅病毒釀3死18染疫&nbsp;&nbsp;民視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "歐洲高溫助長蚊蟲傳播 荷蘭西尼羅病毒釀3死18染疫&nbsp;&nbsp;民視新聞網荷蘭通報3例西尼羅病毒死亡病例 當前暫無獲批疫苗、特效藥&nbsp;&nbsp;香港商报荷蘭18人染西尼羅河病毒3死&nbsp;&nbsp;東方日報本土西尼羅病毒感染病例增至18宗 3人死亡&nbsp;&nbsp;on.cc東網歐洲高溫助長蚊蟲傳播 荷蘭西尼羅病毒釀3死18染疫 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "民視新聞網",
@@ -268,25 +268,25 @@
       ]
     },
     {
-      "id": "5059d8865e08",
-      "title": "輕輕一摔就失能醫教1分鐘自測骨鬆冒3數字小心- 健康 - 中時新聞網",
+      "id": "ccb262395c29",
+      "title": "輕輕一摔就失能醫教1分鐘自測骨鬆冒3數字小心- 健康 - chinatimes.com",
       "published": "2026-09-10T02:48:29+00:00",
-      "summary": "輕輕一摔就失能醫教1分鐘自測骨鬆冒3數字小心- 健康&nbsp;&nbsp;中時新聞網「老倒縮」是真的！她變矮3公分、腰痠背痛竟罹「重度骨鬆」…醫示警：骨折沒前兆，4種人應主動篩檢&nbsp;&nbsp;Yahoo新聞30歲骨質悄悄流失？醫師揭護骨防鬆關鍵&nbsp;&nbsp;東森新聞久坐天天喝咖啡 28歲工程師骨質不足 | 中華日報&nbsp;&nbsp;LINE TODAY健康網》老人常見「骨質疏鬆症」 中醫建議這樣補&nbsp;&nbsp;自由健康網",
+      "summary": "輕輕一摔就失能醫教1分鐘自測骨鬆冒3數字小心- 健康&nbsp;&nbsp;chinatimes.com「老倒縮」是真的！她變矮3公分、腰痠背痛竟罹「重度骨鬆」…醫示警：骨折沒前兆，4種人應主動篩檢&nbsp;&nbsp;Yahoo新聞30歲骨質悄悄流失？醫師揭護骨防鬆關鍵&nbsp;&nbsp;東森新聞久坐天天喝咖啡 28歲工程師骨質不足 | 中華日報&nbsp;&nbsp;LINE TODAY健康網》老人常見「骨質疏鬆症」 中醫建議這樣補&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "中時新聞網",
+          "name": "chinatimes.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MS0xIZ2taaXFKLUJVdWx0ZTV0cE51Tlc2N1NIVkZmWi1HNW14LVJKb29Ddk92eGxXYnNjUDZrRVV0MmRTVldPVjN1ZTVmM0g1eDVkMktKeTd1Nml6MUtEMnlrV1Vud1lEMS1aZWFR?oc=5"
         }
       ]
     },
     {
-      "id": "fb56fac843f2",
-      "title": "大腸癌屬香港癌症第三位！抗癌男食「2款平民神物」5年零復發！營養師認證4大救命食物 - hk.ulifestyle.com.hk",
+      "id": "9876ce549a64",
+      "title": "大腸癌屬香港癌症第三位！抗癌男食「2款平民神物」5年零復發！營養師認證4大救命食物 - UHK 港生活",
       "published": "2026-09-15T00:13:09+00:00",
-      "summary": "大腸癌屬香港癌症第三位！抗癌男食「2款平民神物」5年零復發！營養師認證4大救命食物&nbsp;&nbsp;hk.ulifestyle.com.hk",
+      "summary": "大腸癌屬香港癌症第三位！抗癌男食「2款平民神物」5年零復發！營養師認證4大救命食物&nbsp;&nbsp;UHK 港生活",
       "sources": [
         {
-          "name": "hk.ulifestyle.com.hk",
+          "name": "UHK 港生活",
           "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPM1BQbDhpR2ZFS0l4b3d2a3Y0U0NwS3YxOG9VWXJVTmJLaGQwcG1fMUNscHhYTGw5UVBMYTE3R1JTU05XM0pQZ29POWd0aW5KWDg3cnJtR1NuaEV4bDltcHRfMUI3VEpDMTRnLTRETXRiX2hXRHhvZThqaTRCcC1CMEdHNEZjTF9WcnQwYnNYblJnNWtJWjlTd2FTeWtRT25aVXlMSi00cXU4T0MxRzFKbWppOVU4dUhUc0R2Vk1Dd1ZCWDRVeklRTXZiOTh5dTlPNEVJS1pNc2Zza1FWdkt0QTJJTEwtN1k3QnZoOHJ1aGVQdDJRZ19yUURPQmtyOU9DTFl3SFhnMnlQdDM5dHhWYnNtdWFISVVNbnYzWjJiZHBkUThzb19tY0VmWWlPNUNzbUVWMFl4bVZRWFY2eFl6bTRNV3BmdTByandRRHVtYktzMVNkTmpNRkdkaDlQY3hGU3NGVy1kbzdkZFZ5bnkwQ196NXVOX193U1JqMzFTX0pUcnA5QkVIcVdXU1BiemVQTlJsejdEMEVhUTF6VmlJc05RM2QwYUt1LWczbW9ocFNXYUUzS0J6Ym1qRUhuRnU3NUs1UVh4VWhJdFVlWEdMbXZ3RS03ZVVHMUUybmplQXl0djRsZHhB?oc=5"
         }
       ]
@@ -316,13 +316,13 @@
       ]
     },
     {
-      "id": "fe82977f7730",
-      "title": "同樣打流感疫苗保護力有差？研究：高劑量疫苗讓這類人住院風險更低 - health.udn.com",
+      "id": "9976d4fc7888",
+      "title": "同樣打流感疫苗保護力有差？研究：高劑量疫苗讓這類人住院風險更低 - 元氣網",
       "published": "2026-09-10T06:37:39+00:00",
-      "summary": "同樣打流感疫苗保護力有差？研究：高劑量疫苗讓這類人住院風險更低&nbsp;&nbsp;health.udn.com",
+      "summary": "同樣打流感疫苗保護力有差？研究：高劑量疫苗讓這類人住院風險更低&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "health.udn.com",
+          "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RMW85ODR5RmZLeFRaejRSNUFpSUpvNnNnMjBlRS16ZjNPeVJiV0k1RnRzVlVDWWgydFlFVm1Nc1lLS2JRTmF6TzdDTDhtQVBISEdHeHh3TjhiLVZE0gFiQVVfeXFMUGlQclpvdTNWeXRJSlIzRGNMZjFucUtiaE5SZGFDbm9pVmtlYkR2NlBEQU0tZlcyV09hNDJaV2xkMWVuY0ZqNzl3cktnTjhDYXYyWWtzRlBQODYtVjBfb1VoUEE?oc=5"
         }
       ]
@@ -352,13 +352,13 @@
       ]
     },
     {
-      "id": "c59fc2735a07",
-      "title": "男怕染性病狂洗小弟弟！下場慘了 醫揭密 - 鏡週刊Mirror Media",
+      "id": "0fa42d930fab",
+      "title": "男怕染性病狂洗小弟弟！下場慘了 醫揭密 - mirrormedia.mg",
       "published": "2026-09-10T11:14:00+00:00",
-      "summary": "男怕染性病狂洗小弟弟！下場慘了 醫揭密&nbsp;&nbsp;鏡週刊Mirror Media",
+      "summary": "男怕染性病狂洗小弟弟！下場慘了 醫揭密&nbsp;&nbsp;mirrormedia.mg",
       "sources": [
         {
-          "name": "鏡週刊Mirror Media",
+          "name": "mirrormedia.mg",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ndXJTWVhrTUhQMjc1UVlXeXVQVVZsRXpzM3RHX1NsNmNwQ2d4eEhPWThSVm1SbC1UUng3d295Vm9STmJHcDZTRWpxRmpXb0VXY18yUlpsRzFpUVhh0gFiQVVfeXFMUDdQVXdTZEVWUW51S0xoWGN6NVlyMFpwNnhFOHhSdVJNOWpUNW5UZnN1eVd2eVJCTVpHbzJSeThVWDlpRnBCUWlLcEtaQi1fLUlNckhoR0JWNVF3SWZJRUZxVXc?oc=5"
         }
       ]
@@ -376,13 +376,13 @@
       ]
     },
     {
-      "id": "66ab19a1a007",
-      "title": "研究指清晨活動或降癌風險26% 配合早睡早起差距達31% - 巴士的報",
+      "id": "e71686d61c38",
+      "title": "研究指清晨活動或降癌風險26% 配合早睡早起差距達31% - bastillepost.com",
       "published": "2026-09-15T22:40:56+00:00",
-      "summary": "研究指清晨活動或降癌風險26% 配合早睡早起差距達31%&nbsp;&nbsp;巴士的報",
+      "summary": "研究指清晨活動或降癌風險26% 配合早睡早起差距達31%&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPMk1nUWI2ejk4ejdqNzhCSzJGQnJic3lYTUxGRjZhN0R0NVlRajBKTGJTSThNdlU0QUdZLVctNjBqd1NCTUdvelZXTEZ5TzlqTXd5UHRMbEoxVlUwLVAycWYzSGdBWnFfY25INXN0cFhiNzAxMFRpM0I4QjFYNmx4Q1I3aUNjamZzUGg2UFJzSTh3WjlIUWY5RndKcEVCbW93RmlFcEM2dG43NjBoaVVMMnJ2a2k3VEdTS2lLbnp5ZVlUWHFnWHJITnhTWmlsYVQ2Umc1SHBpQkNRZ25sV0tXR0trcnpfbF9tRmhrQ0UxdGlCT245R1BER0F0M0RaN0Nucm1xYnJWLVNkQXVIbzNkMTFjUGp5TTJiT0RSRDVDY1laRV9EbTlmOEtoRm01TVJWMlE3TFpwOUVwbmRheGdFTGZjbjE1QTRKcDlhVVQ4YnNlSjhlVHhUWmFhTG5OY0dwNlN1QnZMMV8?oc=5"
         }
       ]
@@ -400,6 +400,18 @@
       ]
     },
     {
+      "id": "ac27e285d958",
+      "title": "戴智能手錶皮膚變白變粗？醫生解構綠光迷思 揭兩大皮膚炎真兇 - 香港01",
+      "published": "2026-09-16T08:30:27+00:00",
+      "summary": "戴智能手錶皮膚變白變粗？醫生解構綠光迷思 揭兩大皮膚炎真兇&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxPRm9PREZ5YWk1eHhraVdycU02OW1PNkQxZFFqTWVrbzFKTVZaNng1c2NEcWt4RGdIWTl1aFY1MWVobXNrZ2VkX3V2QndiOUh5TTRlV2Rtd1VCM20xOEgyNGhqUnJRenlOOXZVM19QSXVZZjUzeHJxYzFQV0JIdEo0X1g1dFFEQzNUR0VOWW5NSko5OHF1eGdBMmY4X1hPN1lhNnhiWV8wX2RmSDRtd1RkOU90M1JZN3dUUHlCeWt3OGhCS3pzbEQ2NDBkaU54UkZDdXowUzlNeXlrR203M0JpNEE1Q1VFb3MydEdnYU9aTkh2V3V5cEM0R1pNV0ppOTNPVkY0aHJyZWRycG5zWHZFQVVqTC1fbEUyTl9hUXU3dDFpUC1zZzNVTWo2SS1JVVVKUjNQV1MwSEVHZ1ljQVhBNFk3NTN2REtoVjlBaTJ4dUwzOVcxRUtrZmFkRFhFWEZDZDF2a0l1eXlFS2I5clBqRmZpTWI2QWltTzVPSlFlRmlHZEVOUFBvMV81TW52bWhqRHlQaHVDR0N1MWFwN3phYWRMS0sxWXRCckhHZWJrWFVMeDlsMS15R3hjR0k?oc=5"
+        }
+      ]
+    },
+    {
       "id": "46f7f41344ec",
       "title": "紅斑狼瘡症可侵襲全身器官 個人化治療為病情帶來曙光 - 香港經濟日報HKET",
       "published": "2026-09-16T02:00:00+00:00",
@@ -412,13 +424,13 @@
       ]
     },
     {
-      "id": "495357dfb1c8",
-      "title": "醫親曝不願做「全身MRI掃描」原因示警：這種癌恐被漏掉- 國際 - 中時新聞網",
+      "id": "c8b46d750b01",
+      "title": "醫親曝不願做「全身MRI掃描」原因示警：這種癌恐被漏掉- 國際 - chinatimes.com",
       "published": "2026-09-15T06:44:55+00:00",
-      "summary": "醫親曝不願做「全身MRI掃描」原因示警：這種癌恐被漏掉- 國際&nbsp;&nbsp;中時新聞網",
+      "summary": "醫親曝不願做「全身MRI掃描」原因示警：這種癌恐被漏掉- 國際&nbsp;&nbsp;chinatimes.com",
       "sources": [
         {
-          "name": "中時新聞網",
+          "name": "chinatimes.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rekFpVnhTNXM4TUVMN0JMVnN2LXpveUVFRW8yN3NPWnFzOWdCQU1iZWpiYmFZME1ZLUxFSUJ3VDNRY0IweGR3am9QWUg2OEJoanNQdV9uYlBxRC1GT25RRmZMQy1zaF9pM2VuaTF3?oc=5"
         }
       ]
@@ -484,13 +496,13 @@
       ]
     },
     {
-      "id": "3f64b48eede2",
-      "title": "女性非自願單身者困孤獨低自尊 研究： 較常將戀愛失敗歸咎自己 - 巴士的報",
+      "id": "69dfb495a56c",
+      "title": "女性非自願單身者困孤獨低自尊 研究： 較常將戀愛失敗歸咎自己 - bastillepost.com",
       "published": "2026-09-09T22:40:03+00:00",
-      "summary": "女性非自願單身者困孤獨低自尊 研究： 較常將戀愛失敗歸咎自己&nbsp;&nbsp;巴士的報",
+      "summary": "女性非自願單身者困孤獨低自尊 研究： 較常將戀愛失敗歸咎自己&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOODQ3VWxNMjMwUmotOXgwNDhBZWVwR2pGN0RCTzNhUjBHZTJYOGxucDJFcURIckVJVExTSXd5N2stbzRYU01HZVloaXNOSlVsbElyNE14aHNyQmpUcW92MHBkSW80OS1nWDFINlRMZGs4SDVJX2tyejVGOWRDaTRoY1BNNW03OVJWWXl2QjFyUkJjMHozUTlTdEhRSHVUU2RDRUxYY3hSSGNmTXR0MUZrdGZoQU5zUVBGN1pvZzY2ODdsRTlnc0ZETk1qMTJmQmJyVDNEaXNKak9qdXI4VF9qU2h4cVBRbkJiUGFtcTZ6NTV4Vi1QM18tZHhGR0JLV1dIc1l5TV9URVg0aFI1UFcxTUt0YWVUdmUxMzdMcXdxeDNHN0dESmh2dHUwZ1hqS0R4M2FqT3JwZi10V3NiT3MyVzhXOERabWYxcXZJU2EyRXhaZXpRUEdNeVpJYVNaZFRzdVJTNS1OVHdON3U5cHJF?oc=5"
         }
       ]
@@ -532,13 +544,13 @@
       ]
     },
     {
-      "id": "73383554847e",
-      "title": "口腔潰瘍｜40歲女狂生痱滋 只因缺2種營養素 醫生揭6大常見反覆口腔潰瘍成因 - am730",
+      "id": "3d89ce864a05",
+      "title": "口腔潰瘍｜40歲女狂生痱滋 只因缺2種營養素 醫生揭6大常見反覆口腔潰瘍成因 - AM730",
       "published": "2026-09-13T23:00:00+00:00",
-      "summary": "口腔潰瘍｜40歲女狂生痱滋 只因缺2種營養素 醫生揭6大常見反覆口腔潰瘍成因&nbsp;&nbsp;am730",
+      "summary": "口腔潰瘍｜40歲女狂生痱滋 只因缺2種營養素 醫生揭6大常見反覆口腔潰瘍成因&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOM1FQcjZPMFNDcXZTcG9udFRWMkQzczRzNVl0anZTUExDZ19GUWJIRUJyZzhKSnZ0MC1nTWlIODBIZkh5eEltdkhnV2F2NVpLQjRkSFpZWmlpNW11VUJ3VE1RY2liOTJ1bE5yaUswcEl5NGFsN3pWRF9wM055QnB0Z1BhNS1WbFJTS0E0dGpkOHhMUFlYRllCR0ZUZC1BVl9QMS1JaGJHNVBvNlp4ZEE5SGhjal8zOUM1QWVkSmRYcURKaFV0bEFaZlIxdXpYemhpMDl0Smw0bFJsRzEteU5hd0UxckVWc2tjWkFMVDRfYWFfQmlXWEZrNWRUVlZRNUJpUnkwcGJJUXZxNDdNeWprR0lfYzhhX09XLWJQcUlEN3lZT01fbFd2UF9SWTI5bmZiWUt4Wkp3ME9lZ0d6UlVDcEZWNXFYdHRQMHZicWR2MXdsa0NubWpsS2FnS21WZ3E0eWJWSk5zSGtUc3ZGU1R3S2ZCVnA3eEtBSTRRcE1FQ0V2ckQ5TUVFNmtGOW5iTFFjOUdnaEx5WkZvLUNUZERzaEt0M3JsWTNGa2F1WE12cktXaVZMQWR6N04wLWpBMW9EVlB1azIzUkpqOXlDeWtabW9qYWhHdF9scnNGcmE0Zw?oc=5"
         }
       ]

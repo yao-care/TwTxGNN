@@ -40,7 +40,7 @@ permalink: /news/denosumab/
 
 2026-09-10 <span class="news-indication-tag">骨質疏鬆症</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5MS0xIZ2taaXFKLUJVdWx0ZTV0cE51Tlc2N1NIVkZmWi1HNW14LVJKb29Ddk92eGxXYnNjUDZrRVV0MmRTVldPVjN1ZTVmM0g1eDVkMktKeTd1Nml6MUtEMnlrV1Vud1lEMS1aZWFR?oc=5)
+來源：[chinatimes.com](https://news.google.com/rss/articles/CBMibkFVX3lxTE5MS0xIZ2taaXFKLUJVdWx0ZTV0cE51Tlc2N1NIVkZmWi1HNW14LVJKb29Ddk92eGxXYnNjUDZrRVV0MmRTVldPVjN1ZTVmM0g1eDVkMktKeTd1Nml6MUtEMnlrV1Vud1lEMS1aZWFR?oc=5)
 
 ---
 
