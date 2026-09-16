@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [劍橋研究：閱讀能降低失智風險三成、讀 6 分鐘紓壓效果勝過喝酒](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHhUOUkzUDRSdUhfclRuSXVESkdsd2JmY1Z1Z1FzdG5uWkFuaDJBWXdabFluYWEtcEEwZktQazF3UEJSSmkxaFJ2Q01fZkxzQXhJOUt2Q0tReWFTakU3dXE3SF96TlpCeEJVcGhyaXd1ZjE1WFZ0VTliZWliYXNDN3k2Q1FQUmExcmRzckRtUzF3UVZiQmpnNUN3bGVNMEdIYjk3RlAxUE0?oc=5)
 
@@ -59,19 +59,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [睡不好、健忘別以為是太累！宸曜前進世界台商健康照護論壇　從睡眠談中風、失智風險](https://news.google.com/rss/articles/CBMiXEFVX3lxTE13a05hOXZlY1JlRlBvLUpDQkN4VzhmUWo0Y2FDSFE0TTVJNDN4ZlRDcjZhSml1Ni1vLUgwMzZxM091QXJXNlhlbGFrZzJmYXhvU08yQkwyb0w1cFFP0gFiQVVfeXFMT0hPRHpmSVFvcmVfd3Z3aVNWMFFpLU9pNDJZSHVHWnV5a3hVbDZTOVN3TEJqWmdFeUx3cE10VUhKQUdLZDRpQVVJSGg3WDBzbzY2LUxmTGlvZVFYaEU1cUwxU3c?oc=5)
-
-2026-09-15 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
-
-來源：[經濟日報](https://news.google.com/rss/articles/CBMiXEFVX3lxTE13a05hOXZlY1JlRlBvLUpDQkN4VzhmUWo0Y2FDSFE0TTVJNDN4ZlRDcjZhSml1Ni1vLUgwMzZxM091QXJXNlhlbGFrZzJmYXhvU08yQkwyb0w1cFFP0gFiQVVfeXFMT0hPRHpmSVFvcmVfd3Z3aVNWMFFpLU9pNDJZSHVHWnV5a3hVbDZTOVN3TEJqWmdFeUx3cE10VUhKQUdLZDRpQVVJSGg3WDBzbzY2LUxmTGlvZVFYaEU1cUwxU3c?oc=5)
-
----
-
-### [新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點](https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWUMzTWlmWk5rT19GbjlxdHV6VVZ5ZDVMdUNWQzFRLXV3U2NYaFFyeWJGNGxXX2pIaEQ0UDNkcHQxVnk5V2NsaFNkYkstUXhLMEdGMDRQUUQ0TGNfUS1vNjJjUXQyNUYtMHdvOWxzaFF5ZWJicUZJY0EzR2xwcHdxem05TnZQM2dUVDB4YlNpTGVlX0JlM0hjS3BZTUVSeGN5dUVjREV2bjZuZGJMTi1QX1lHOXdmTVF1R3NlcWhuc3JtSjJ6SUtYS0FvM210Z3pVY3A0LUdzUTluR21mSXJGbFNOX0xwYThMVWdFS09WZ0xKNWxSeFFJVFp1cDhVMk9GU2cwWXB4NUVfRmE4QS1aVkJaSmNWTjEzVlZ4RkE3NF9CWVVHYkdXMndPajRlVzhkWi0zanNydHluNVc2bloyd0VISk1ZX2JkOXgzNWwzTFhUZXp3XzQtX255TjNSNUpv?oc=5)
+### [新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點](https://news.google.com/rss/articles/CBMi6AJBVV95cUxNdEo3cWpPenlsZExhaDFkQ0VjejhWb3VrRkJNenF3QnkxZDZQMEhHOUh6RXBqWDVUSk9vSThVdDVmTUdMV3VVNC1ZYTZVLWNJQWZxWmR6ZnNnTUtJWUs0ekwwcURqSmphajBKNGFsZTVQdTRzUnczN0lvTVowczh6WnBsa0hueTVEWjFfb0kzVTlRX1RIRXo2WGRRV2RfLU1uS2JxZlFabFdSZW1FSjJrYUFBem81cTBuWWZvc3pHTVh5VVBwQS1DbERrOFM3NWlYRzIxLWVBOE9pMzAxTHc0T1pEdld6QXZ5cU82R3Y4QUxxbUxBUEZEcDd6enRLQXdxQUliZ1dIWE1sMk1yU09ndThnNE9MelJiNmxTUXo0aW4xMC1Fcy1zR3ZCeFdlWEdpVk9aVTRWZkFZNkNkd1FxcEhKXzZDOFluS09mVmFVenNoUDVkNUFUSVpFOVhiSlVDWFh0bk1XZ00?oc=5)
 
 2026-09-15 <span class="news-indication-tag">癌症</span>
 
-來源：[報新聞](https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWUMzTWlmWk5rT19GbjlxdHV6VVZ5ZDVMdUNWQzFRLXV3U2NYaFFyeWJGNGxXX2pIaEQ0UDNkcHQxVnk5V2NsaFNkYkstUXhLMEdGMDRQUUQ0TGNfUS1vNjJjUXQyNUYtMHdvOWxzaFF5ZWJicUZJY0EzR2xwcHdxem05TnZQM2dUVDB4YlNpTGVlX0JlM0hjS3BZTUVSeGN5dUVjREV2bjZuZGJMTi1QX1lHOXdmTVF1R3NlcWhuc3JtSjJ6SUtYS0FvM210Z3pVY3A0LUdzUTluR21mSXJGbFNOX0xwYThMVWdFS09WZ0xKNWxSeFFJVFp1cDhVMk9GU2cwWXB4NUVfRmE4QS1aVkJaSmNWTjEzVlZ4RkE3NF9CWVVHYkdXMndPajRlVzhkWi0zanNydHluNVc2bloyd0VISk1ZX2JkOXgzNWwzTFhUZXp3XzQtX255TjNSNUpv?oc=5)
+來源：[行銷人](https://news.google.com/rss/articles/CBMi6AJBVV95cUxNdEo3cWpPenlsZExhaDFkQ0VjejhWb3VrRkJNenF3QnkxZDZQMEhHOUh6RXBqWDVUSk9vSThVdDVmTUdMV3VVNC1ZYTZVLWNJQWZxWmR6ZnNnTUtJWUs0ekwwcURqSmphajBKNGFsZTVQdTRzUnczN0lvTVowczh6WnBsa0hueTVEWjFfb0kzVTlRX1RIRXo2WGRRV2RfLU1uS2JxZlFabFdSZW1FSjJrYUFBem81cTBuWWZvc3pHTVh5VVBwQS1DbERrOFM3NWlYRzIxLWVBOE9pMzAxTHc0T1pEdld6QXZ5cU82R3Y4QUxxbUxBUEZEcDd6enRLQXdxQUliZ1dIWE1sMk1yU09ndThnNE9MelJiNmxTUXo0aW4xMC1Fcy1zR3ZCeFdlWEdpVk9aVTRWZkFZNkNkd1FxcEhKXzZDOFluS09mVmFVenNoUDVkNUFUSVpFOVhiSlVDWFh0bk1XZ00?oc=5)
 
 ---
 
