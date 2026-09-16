@@ -14,7 +14,7 @@ permalink: /news/dehydrocholic_acid/
 ---
 
 <p class="key-answer" data-question="Dehydrocholic acid 有什麼相關新聞？">
-<strong>Dehydrocholic acid</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dehydrocholic acid</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,21 @@ permalink: /news/dehydrocholic_acid/
 <p><a href="{{ '/drugs/dehydrocholic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5)
+### [新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點 - PChome Online 新聞](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc0prcUNBRDBYeEJXdWRXazRYUEQxZnl0Y1JuQkNqSV9mcWRjSFY5VGNKZjI5VV9zbVMxRnVWYlZlT1J2MzJ3SE81Tm9hSk9wdW4xX04tOF9jRW9TSHJpdU4xVjJ2NjNsN21uT05aRUk4b2FWQkczMUhIY09LSWFUZWNWQ0dLenV2d0xR?oc=5)
 
 2026-09-15 <span class="news-indication-tag">癌症</span>
 
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5)
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc0prcUNBRDBYeEJXdWRXazRYUEQxZnl0Y1JuQkNqSV9mcWRjSFY5VGNKZjI5VV9zbVMxRnVWYlZlT1J2MzJ3SE81Tm9hSk9wdW4xX04tOF9jRW9TSHJpdU4xVjJ2NjNsN21uT05aRUk4b2FWQkczMUhIY09LSWFUZWNWQ0dLenV2d0xR?oc=5)
 
 ---
 
-### [大腸癌屬香港癌症第三位！抗癌男食「2款平民神物」5年零復發！營養師認證4大救命食物 - UHK 港生活](https://news.google.com/rss/articles/CBMi5wNBVV95cUxPM1BQbDhpR2ZFS0l4b3d2a3Y0U0NwS3YxOG9VWXJVTmJLaGQwcG1fMUNscHhYTGw5UVBMYTE3R1JTU05XM0pQZ29POWd0aW5KWDg3cnJtR1NuaEV4bDltcHRfMUI3VEpDMTRnLTRETXRiX2hXRHhvZThqaTRCcC1CMEdHNEZjTF9WcnQwYnNYblJnNWtJWjlTd2FTeWtRT25aVXlMSi00cXU4T0MxRzFKbWppOVU4dUhUc0R2Vk1Dd1ZCWDRVeklRTXZiOTh5dTlPNEVJS1pNc2Zza1FWdkt0QTJJTEwtN1k3QnZoOHJ1aGVQdDJRZ19yUURPQmtyOU9DTFl3SFhnMnlQdDM5dHhWYnNtdWFISVVNbnYzWjJiZHBkUThzb19tY0VmWWlPNUNzbUVWMFl4bVZRWFY2eFl6bTRNV3BmdTByandRRHVtYktzMVNkTmpNRkdkaDlQY3hGU3NGVy1kbzdkZFZ5bnkwQ196NXVOX193U1JqMzFTX0pUcnA5QkVIcVdXU1BiemVQTlJsejdEMEVhUTF6VmlJc05RM2QwYUt1LWczbW9ocFNXYUUzS0J6Ym1qRUhuRnU3NUs1UVh4VWhJdFVlWEdMbXZ3RS03ZVVHMUUybmplQXl0djRsZHhB?oc=5)
+### [吃芥末能殺死9成癌細胞？實驗證實1成分讓腫瘤擴散減少35%！拆解黃、青芥末6大隱藏功效與4大食用禁忌](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPazB5aFNzelI3cUhJbFllQ2RIQVN2b0ljRzk4NXY4RmljblZRTkFMZ2ZPbjdwdDFLLXVnMk9kRndTSUJrVndDVWhQM2tMNTFzSVJDM3RKTUFRbGpXNVp0cnduS2lwUEtMM0tsb0VYSWRGUFN6aDRNanNnN2kxbWIzNkc3MEpoaEQxbzNQakJzSGVndDJTcjA0S2FFUENBUFhyOFdYWl8zcm1RXy1KQWg3ZkRzQ2V6a0lBMjMyNzJqZjNiVjBFSG9tS3NHbkR0bW8tMnRHc2p1U1FteG9BV2dtTDg2MXV3RmJYUXJROHc4RQ?oc=5)
 
-2026-09-15 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-09-12 <span class="news-indication-tag">腫瘤</span>
 
-來源：[UHK 港生活](https://news.google.com/rss/articles/CBMi5wNBVV95cUxPM1BQbDhpR2ZFS0l4b3d2a3Y0U0NwS3YxOG9VWXJVTmJLaGQwcG1fMUNscHhYTGw5UVBMYTE3R1JTU05XM0pQZ29POWd0aW5KWDg3cnJtR1NuaEV4bDltcHRfMUI3VEpDMTRnLTRETXRiX2hXRHhvZThqaTRCcC1CMEdHNEZjTF9WcnQwYnNYblJnNWtJWjlTd2FTeWtRT25aVXlMSi00cXU4T0MxRzFKbWppOVU4dUhUc0R2Vk1Dd1ZCWDRVeklRTXZiOTh5dTlPNEVJS1pNc2Zza1FWdkt0QTJJTEwtN1k3QnZoOHJ1aGVQdDJRZ19yUURPQmtyOU9DTFl3SFhnMnlQdDM5dHhWYnNtdWFISVVNbnYzWjJiZHBkUThzb19tY0VmWWlPNUNzbUVWMFl4bVZRWFY2eFl6bTRNV3BmdTByandRRHVtYktzMVNkTmpNRkdkaDlQY3hGU3NGVy1kbzdkZFZ5bnkwQ196NXVOX193U1JqMzFTX0pUcnA5QkVIcVdXU1BiemVQTlJsejdEMEVhUTF6VmlJc05RM2QwYUt1LWczbW9ocFNXYUUzS0J6Ym1qRUhuRnU3NUs1UVh4VWhJdFVlWEdMbXZ3RS03ZVVHMUUybmplQXl0djRsZHhB?oc=5)
+來源：[she.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPazB5aFNzelI3cUhJbFllQ2RIQVN2b0ljRzk4NXY4RmljblZRTkFMZ2ZPbjdwdDFLLXVnMk9kRndTSUJrVndDVWhQM2tMNTFzSVJDM3RKTUFRbGpXNVp0cnduS2lwUEtMM0tsb0VYSWRGUFN6aDRNanNnN2kxbWIzNkc3MEpoaEQxbzNQakJzSGVndDJTcjA0S2FFUENBUFhyOFdYWl8zcm1RXy1KQWg3ZkRzQ2V6a0lBMjMyNzJqZjNiVjBFSG9tS3NHbkR0bW8tMnRHc2p1U1FteG9BV2dtTDg2MXV3RmJYUXJROHc4RQ?oc=5)
 
 ---
 
@@ -65,14 +65,6 @@ permalink: /news/dehydrocholic_acid/
 2026-09-12 <span class="news-indication-tag">癌症</span>
 
 來源：[Singtaousa](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
-
----
-
-### [把益生菌變成「腸道小藥廠」，為肝硬化治療開創新路](https://news.google.com/rss/articles/CBMiRkFVX3lxTE5pYUpyYktIR1F4YmpKY3ktU2VMVGN1Z0N1T0xQXzFHQkpOa0hFem0xQk9ycUR5OTNpVmE3ejhSNDdNWjVGY2c?oc=5)
-
-2026-09-11 <span class="news-indication-tag">肝硬化</span>
-
-來源：[美南新聞](https://news.google.com/rss/articles/CBMiRkFVX3lxTE5pYUpyYktIR1F4YmpKY3ktU2VMVGN1Z0N1T0xQXzFHQkpOa0hFem0xQk9ycUR5OTNpVmE3ejhSNDdNWjVGY2c?oc=5)
 
 ---
 
