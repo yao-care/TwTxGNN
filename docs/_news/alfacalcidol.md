@@ -39,11 +39,11 @@ permalink: /news/alfacalcidol/
 
 ## 相關新聞（1 則）
 
-### [「老倒縮」是真的！她變矮3公分、腰痠背痛竟罹「重度骨鬆」…醫示警：骨折沒前兆，4種人應主動篩檢| 幸福熟齡X 今周刊 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yUXcteml4VXY3ZmU3NUFfdkRBWHFKREREMTVBSzhwUHhtdUJJRHZjam9xMWgyU0FQbk1TR09FVHMyMWUtcERsZ1k1LU9RdmFZcVJNeFJn?oc=5)
+### [輕輕一摔就失能醫教1分鐘自測骨鬆冒3數字小心- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE5MS0xIZ2taaXFKLUJVdWx0ZTV0cE51Tlc2N1NIVkZmWi1HNW14LVJKb29Ddk92eGxXYnNjUDZrRVV0MmRTVldPVjN1ZTVmM0g1eDVkMktKeTd1Nml6MUtEMnlrV1Vud1lEMS1aZWFR?oc=5)
 
-2026-09-14 <span class="news-indication-tag">骨質疏鬆症</span>
+2026-09-10 <span class="news-indication-tag">骨質疏鬆症</span>
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yUXcteml4VXY3ZmU3NUFfdkRBWHFKREREMTVBSzhwUHhtdUJJRHZjam9xMWgyU0FQbk1TR09FVHMyMWUtcERsZ1k1LU9RdmFZcVJNeFJn?oc=5)
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5MS0xIZ2taaXFKLUJVdWx0ZTV0cE51Tlc2N1NIVkZmWi1HNW14LVJKb29Ddk92eGxXYnNjUDZrRVV0MmRTVldPVjN1ZTVmM0g1eDVkMktKeTd1Nml6MUtEMnlrV1Vud1lEMS1aZWFR?oc=5)
 
 ---
 

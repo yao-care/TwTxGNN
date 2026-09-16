@@ -36,7 +36,7 @@ permalink: /news/primary-cutaneous-b-cell-lymphoma/
 
 2026-09-10
 
-來源：[health.udn.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcUpibEIwcHZjNzFLWDlrYkpwS0ZwczktZExYejRpcnpNUW9HZTkwclNNZERJSU9oSFY0RENwZ2I0VGVLQ2tHcTNISHBaYUJRU1lIMUF3STZBWG560gFiQVVfeXFMTzZrZy1oQnNTMXBpUjZkQmJ0cHhabXlsYlZTVHZHdGpCRUhXUWlERjRSbEt3bDBaa2x3dC1VS2d3TWItUVhhbzNhSUNoenBUeTY0T2FVWGRLdlZULXdhVXlhcXc?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcUpibEIwcHZjNzFLWDlrYkpwS0ZwczktZExYejRpcnpNUW9HZTkwclNNZERJSU9oSFY0RENwZ2I0VGVLQ2tHcTNISHBaYUJRU1lIMUF3STZBWG560gFiQVVfeXFMTzZrZy1oQnNTMXBpUjZkQmJ0cHhabXlsYlZTVHZHdGpCRUhXUWlERjRSbEt3bDBaa2x3dC1VS2d3TWItUVhhbzNhSUNoenBUeTY0T2FVWGRLdlZULXdhVXlhcXc?oc=5)
 
 ---
 

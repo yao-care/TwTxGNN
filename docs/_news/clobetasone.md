@@ -14,7 +14,7 @@ permalink: /news/clobetasone/
 ---
 
 <p class="key-answer" data-question="Clobetasone 有什麼相關新聞？">
-<strong>Clobetasone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Clobetasone</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/clobetasone/
 <p><a href="{{ '/drugs/clobetasone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
 ### [新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點](https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWUMzTWlmWk5rT19GbjlxdHV6VVZ5ZDVMdUNWQzFRLXV3U2NYaFFyeWJGNGxXX2pIaEQ0UDNkcHQxVnk5V2NsaFNkYkstUXhLMEdGMDRQUUQ0TGNfUS1vNjJjUXQyNUYtMHdvOWxzaFF5ZWJicUZJY0EzR2xwcHdxem05TnZQM2dUVDB4YlNpTGVlX0JlM0hjS3BZTUVSeGN5dUVjREV2bjZuZGJMTi1QX1lHOXdmTVF1R3NlcWhuc3JtSjJ6SUtYS0FvM210Z3pVY3A0LUdzUTluR21mSXJGbFNOX0xwYThMVWdFS09WZ0xKNWxSeFFJVFp1cDhVMk9GU2cwWXB4NUVfRmE4QS1aVkJaSmNWTjEzVlZ4RkE3NF9CWVVHYkdXMndPajRlVzhkWi0zanNydHluNVc2bloyd0VISk1ZX2JkOXgzNWwzTFhUZXp3XzQtX255TjNSNUpv?oc=5)
 
@@ -60,6 +60,14 @@ permalink: /news/clobetasone/
 
 ---
 
+### [吃芥末能殺死9成癌細胞？實驗證實1成分讓腫瘤擴散減少35%！拆解黃、青芥末6大隱藏功效與4大食用禁忌](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPazB5aFNzelI3cUhJbFllQ2RIQVN2b0ljRzk4NXY4RmljblZRTkFMZ2ZPbjdwdDFLLXVnMk9kRndTSUJrVndDVWhQM2tMNTFzSVJDM3RKTUFRbGpXNVp0cnduS2lwUEtMM0tsb0VYSWRGUFN6aDRNanNnN2kxbWIzNkc3MEpoaEQxbzNQakJzSGVndDJTcjA0S2FFUENBUFhyOFdYWl8zcm1RXy1KQWg3ZkRzQ2V6a0lBMjMyNzJqZjNiVjBFSG9tS3NHbkR0bW8tMnRHc2p1U1FteG9BV2dtTDg2MXV3RmJYUXJROHc4RQ?oc=5)
+
+2026-09-12 <span class="news-indication-tag">腫瘤</span>
+
+來源：[she.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPazB5aFNzelI3cUhJbFllQ2RIQVN2b0ljRzk4NXY4RmljblZRTkFMZ2ZPbjdwdDFLLXVnMk9kRndTSUJrVndDVWhQM2tMNTFzSVJDM3RKTUFRbGpXNVp0cnduS2lwUEtMM0tsb0VYSWRGUFN6aDRNanNnN2kxbWIzNkc3MEpoaEQxbzNQakJzSGVndDJTcjA0S2FFUENBUFhyOFdYWl8zcm1RXy1KQWg3ZkRzQ2V6a0lBMjMyNzJqZjNiVjBFSG9tS3NHbkR0bW8tMnRHc2p1U1FteG9BV2dtTDg2MXV3RmJYUXJROHc4RQ?oc=5)
+
+---
+
 ### [德里24歲男子不育檢查發現子宮，罕見持續性苗勒管綜合症揭示癌症風險](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
 
 2026-09-12 <span class="news-indication-tag">癌症</span>
@@ -72,7 +80,7 @@ permalink: /news/clobetasone/
 
 2026-09-10 <span class="news-indication-tag">淋巴癌</span>
 
-來源：[health.udn.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcUpibEIwcHZjNzFLWDlrYkpwS0ZwczktZExYejRpcnpNUW9HZTkwclNNZERJSU9oSFY0RENwZ2I0VGVLQ2tHcTNISHBaYUJRU1lIMUF3STZBWG560gFiQVVfeXFMTzZrZy1oQnNTMXBpUjZkQmJ0cHhabXlsYlZTVHZHdGpCRUhXUWlERjRSbEt3bDBaa2x3dC1VS2d3TWItUVhhbzNhSUNoenBUeTY0T2FVWGRLdlZULXdhVXlhcXc?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcUpibEIwcHZjNzFLWDlrYkpwS0ZwczktZExYejRpcnpNUW9HZTkwclNNZERJSU9oSFY0RENwZ2I0VGVLQ2tHcTNISHBaYUJRU1lIMUF3STZBWG560gFiQVVfeXFMTzZrZy1oQnNTMXBpUjZkQmJ0cHhabXlsYlZTVHZHdGpCRUhXUWlERjRSbEt3bDBaa2x3dC1VS2d3TWItUVhhbzNhSUNoenBUeTY0T2FVWGRLdlZULXdhVXlhcXc?oc=5)
 
 ---
 

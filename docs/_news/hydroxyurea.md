@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
 ### [乳癌術後疼痛竟與維生素D不足有關？](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zaDllYk1MVkFzUjM1cTdpcl9MUTJDTGo5NVBja2JxWTV5UDJkYlJERDU4LXdsemNaamxzZ1BqbVM0T2M0OXg1bkJYWjF6UVcwckNPWDVKRHN5LTd4bEJGN9IBZkFVX3lxTE9qOHJIUkZlTVRvajg2WXIyWjBCNmZlYU5RMGVUYTdUN0I5Q21VVGs1eFJ0Ny05N2FzeWR1WlhaX3hXOTA4QmhteE01QUI3UjlUY0MyX1NyY2VYZEhqRmJUaWsydUdYZw?oc=5)
 
@@ -68,6 +68,14 @@ permalink: /news/hydroxyurea/
 
 ---
 
+### [吃芥末能殺死9成癌細胞？實驗證實1成分讓腫瘤擴散減少35%！拆解黃、青芥末6大隱藏功效與4大食用禁忌](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPazB5aFNzelI3cUhJbFllQ2RIQVN2b0ljRzk4NXY4RmljblZRTkFMZ2ZPbjdwdDFLLXVnMk9kRndTSUJrVndDVWhQM2tMNTFzSVJDM3RKTUFRbGpXNVp0cnduS2lwUEtMM0tsb0VYSWRGUFN6aDRNanNnN2kxbWIzNkc3MEpoaEQxbzNQakJzSGVndDJTcjA0S2FFUENBUFhyOFdYWl8zcm1RXy1KQWg3ZkRzQ2V6a0lBMjMyNzJqZjNiVjBFSG9tS3NHbkR0bW8tMnRHc2p1U1FteG9BV2dtTDg2MXV3RmJYUXJROHc4RQ?oc=5)
+
+2026-09-12 <span class="news-indication-tag">腫瘤</span>
+
+來源：[she.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPazB5aFNzelI3cUhJbFllQ2RIQVN2b0ljRzk4NXY4RmljblZRTkFMZ2ZPbjdwdDFLLXVnMk9kRndTSUJrVndDVWhQM2tMNTFzSVJDM3RKTUFRbGpXNVp0cnduS2lwUEtMM0tsb0VYSWRGUFN6aDRNanNnN2kxbWIzNkc3MEpoaEQxbzNQakJzSGVndDJTcjA0S2FFUENBUFhyOFdYWl8zcm1RXy1KQWg3ZkRzQ2V6a0lBMjMyNzJqZjNiVjBFSG9tS3NHbkR0bW8tMnRHc2p1U1FteG9BV2dtTDg2MXV3RmJYUXJROHc4RQ?oc=5)
+
+---
+
 ### [德里24歲男子不育檢查發現子宮，罕見持續性苗勒管綜合症揭示癌症風險](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
 
 2026-09-12 <span class="news-indication-tag">癌症</span>
@@ -84,19 +92,19 @@ permalink: /news/hydroxyurea/
 
 ---
 
+### [59歲女星腸阻塞入院驚患三期大腸癌！悔喊忽視體檢：曾以為我很健康 - U Food](https://news.google.com/rss/articles/CBMitgNBVV95cUxOUjNNME03cTBCcHQtU2doa3VhWU1nOHdTencwU3NGVkFnSWs5R0ZMTlh4b0JOT1BKcS1LaHdhN2ZtNmU5RnEtSHhnNHl1SVFGVE1jMEFGSEpaWFNMNngxWnczYkVGOEVCNFp4WVFManBsYUZJWnktSXJnYVFfdVVaS0pwbHFxUElMTG9hOG1JNHhnWGxPbEF1S1RjZ2xPQkZwd2pkVHhaaHlKdUNUcEJiLW1TVVJreDVwOXduLVpaNGVXSm5VU1BMdUcwRWFwS2R0UnJ6c0RqQ1h4YU5iQkxDZUdhdW9qeEFic3lxNGp1QnF6NTlUZGF6ekI1SUpPaXY4OW9uY1RGSDNqX0JOWjR3ZXAxVllLbFA3NW1WRTIwOXdaUTRQeTdXcFJLeWRnWGRPVUREeDVYT0NZclFfUEhhUHFlbmpJUHo0Qno1dG5Yem1mbTctTS1SN0ZTZFZpU3Q4dFJ2SGtHRUFJaXVlYzN2R2VpazlsMlNMMGRoVGQteHl2MElXSmVvSENZdXNGM1pEcmxpeEJjbmJ2bHJYVFdUVXg1Z2IzRW9LTGs1OUFkV3pjZFFTREE?oc=5)
+
+2026-09-10 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[U Food](https://news.google.com/rss/articles/CBMitgNBVV95cUxOUjNNME03cTBCcHQtU2doa3VhWU1nOHdTencwU3NGVkFnSWs5R0ZMTlh4b0JOT1BKcS1LaHdhN2ZtNmU5RnEtSHhnNHl1SVFGVE1jMEFGSEpaWFNMNngxWnczYkVGOEVCNFp4WVFManBsYUZJWnktSXJnYVFfdVVaS0pwbHFxUElMTG9hOG1JNHhnWGxPbEF1S1RjZ2xPQkZwd2pkVHhaaHlKdUNUcEJiLW1TVVJreDVwOXduLVpaNGVXSm5VU1BMdUcwRWFwS2R0UnJ6c0RqQ1h4YU5iQkxDZUdhdW9qeEFic3lxNGp1QnF6NTlUZGF6ekI1SUpPaXY4OW9uY1RGSDNqX0JOWjR3ZXAxVllLbFA3NW1WRTIwOXdaUTRQeTdXcFJLeWRnWGRPVUREeDVYT0NZclFfUEhhUHFlbmpJUHo0Qno1dG5Yem1mbTctTS1SN0ZTZFZpU3Q4dFJ2SGtHRUFJaXVlYzN2R2VpazlsMlNMMGRoVGQteHl2MElXSmVvSENZdXNGM1pEcmxpeEJjbmJ2bHJYVFdUVXg1Z2IzRW9LTGs1OUFkV3pjZFFTREE?oc=5)
+
+---
+
 ### [抗癌戰士︱YouTuber曉欣戰勝14cm卵巢腫瘤脫假髮曬「頭髮生長報告」 Skinhead 撞樣《怪奇物語》Eleven](https://news.google.com/rss/articles/CBMikARBVV95cUxPTW1aNnhUblZoXzg0aEZrcHRKaUR4am9rX2VCcVc5RFNsamVpVXlNei1VREF2MEtiNXFCWU5zYzg3bHpOZWJHa1pfbWUwUmloNFZlUFpwWWJDZjFGempLOGtPQmh3b0FPZFpfZHozV0kwYWRaMEVmMDZoeW5sckh1Qjkwb3Fpbkp6WERvekRWZkhTbUpTbi1JRTJSb1Z6VG1CZGw2dEJ4eTVJMmNSS0l0SENsSTRCZDc3cjRDc1hZNjVaQmFCazM1UmVObWwtUjhKeWZhcjZtYVJ1UHE5cG9WOEVaMVlGeGhEbDB6S081R2xHdFBWTk5pLTR2YXpHdVAyNkVjaW0yQTVJaU55VTBBd1N6anZVdkVESTRVQ3lKY21qYV9zZFltMGRjdFE4dm40ZFczU1BSOXYxSjR2WGhXQzhFUkhfRk9xeUlEaVRzblNRdUxWVm44dktiV0tEd0tDVS1Ua0R1ZzJCZGExVkhzVGdOaXNlekJsNEF3QUdOSGxHb1Jxd19zSjhqcnd6MWNoQWd0T1hSTnVHVWpVZEZGSFZYb0NOUzNMR1VVXzJOMlZrcGlMTENYaHB2NGlNWUxacGk3OHYzekx3MGEwMnJieWhyS0JnSWVmSmZ3UGtLb25BUDZ3RjV6RWVkSy1GQWNOdmZxWXhVM1dkN1N0WHhkMWs4QWt3V2paWmZ5OUl2VWs?oc=5)
 
 2026-09-10 <span class="news-indication-tag">腫瘤</span>
 
 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMikARBVV95cUxPTW1aNnhUblZoXzg0aEZrcHRKaUR4am9rX2VCcVc5RFNsamVpVXlNei1VREF2MEtiNXFCWU5zYzg3bHpOZWJHa1pfbWUwUmloNFZlUFpwWWJDZjFGempLOGtPQmh3b0FPZFpfZHozV0kwYWRaMEVmMDZoeW5sckh1Qjkwb3Fpbkp6WERvekRWZkhTbUpTbi1JRTJSb1Z6VG1CZGw2dEJ4eTVJMmNSS0l0SENsSTRCZDc3cjRDc1hZNjVaQmFCazM1UmVObWwtUjhKeWZhcjZtYVJ1UHE5cG9WOEVaMVlGeGhEbDB6S081R2xHdFBWTk5pLTR2YXpHdVAyNkVjaW0yQTVJaU55VTBBd1N6anZVdkVESTRVQ3lKY21qYV9zZFltMGRjdFE4dm40ZFczU1BSOXYxSjR2WGhXQzhFUkhfRk9xeUlEaVRzblNRdUxWVm44dktiV0tEd0tDVS1Ua0R1ZzJCZGExVkhzVGdOaXNlekJsNEF3QUdOSGxHb1Jxd19zSjhqcnd6MWNoQWd0T1hSTnVHVWpVZEZGSFZYb0NOUzNMR1VVXzJOMlZrcGlMTENYaHB2NGlNWUxacGk3OHYzekx3MGEwMnJieWhyS0JnSWVmSmZ3UGtLb25BUDZ3RjV6RWVkSy1GQWNOdmZxWXhVM1dkN1N0WHhkMWs4QWt3V2paWmZ5OUl2VWs?oc=5)
-
----
-
-### [日本女星不健檢後悔了59歲腸阻塞入院確診大腸癌- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE4zVllyWHJqUnI1b0xKbDc3aXptNkw5MGxyNXQyWDU3eDdCNk1wbnREOUdHMjVSUWNGd0xOT19oZTdqV0hyZVNUd0o1OHhqM0tfYm43SUJWUi1sVkJzWVRwbEIxaEl0X3dlN3dPR0ZB?oc=5)
-
-2026-09-09 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[chinatimes.com](https://news.google.com/rss/articles/CBMibkFVX3lxTE4zVllyWHJqUnI1b0xKbDc3aXptNkw5MGxyNXQyWDU3eDdCNk1wbnREOUdHMjVSUWNGd0xOT19oZTdqV0hyZVNUd0o1OHhqM0tfYm43SUJWUi1sVkJzWVRwbEIxaEl0X3dlN3dPR0ZB?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/bevacizumab/
 ---
 
 <p class="key-answer" data-question="Bevacizumab 有什麼相關新聞？">
-<strong>Bevacizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bevacizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/bevacizumab/
 <p><a href="{{ '/drugs/bevacizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點](https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWUMzTWlmWk5rT19GbjlxdHV6VVZ5ZDVMdUNWQzFRLXV3U2NYaFFyeWJGNGxXX2pIaEQ0UDNkcHQxVnk5V2NsaFNkYkstUXhLMEdGMDRQUUQ0TGNfUS1vNjJjUXQyNUYtMHdvOWxzaFF5ZWJicUZJY0EzR2xwcHdxem05TnZQM2dUVDB4YlNpTGVlX0JlM0hjS3BZTUVSeGN5dUVjREV2bjZuZGJMTi1QX1lHOXdmTVF1R3NlcWhuc3JtSjJ6SUtYS0FvM210Z3pVY3A0LUdzUTluR21mSXJGbFNOX0xwYThMVWdFS09WZ0xKNWxSeFFJVFp1cDhVMk9GU2cwWXB4NUVfRmE4QS1aVkJaSmNWTjEzVlZ4RkE3NF9CWVVHYkdXMndPajRlVzhkWi0zanNydHluNVc2bloyd0VISk1ZX2JkOXgzNWwzTFhUZXp3XzQtX255TjNSNUpv?oc=5)
 
@@ -56,6 +56,14 @@ permalink: /news/bevacizumab/
 2026-09-15 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[UHK 港生活](https://news.google.com/rss/articles/CBMi5wNBVV95cUxPM1BQbDhpR2ZFS0l4b3d2a3Y0U0NwS3YxOG9VWXJVTmJLaGQwcG1fMUNscHhYTGw5UVBMYTE3R1JTU05XM0pQZ29POWd0aW5KWDg3cnJtR1NuaEV4bDltcHRfMUI3VEpDMTRnLTRETXRiX2hXRHhvZThqaTRCcC1CMEdHNEZjTF9WcnQwYnNYblJnNWtJWjlTd2FTeWtRT25aVXlMSi00cXU4T0MxRzFKbWppOVU4dUhUc0R2Vk1Dd1ZCWDRVeklRTXZiOTh5dTlPNEVJS1pNc2Zza1FWdkt0QTJJTEwtN1k3QnZoOHJ1aGVQdDJRZ19yUURPQmtyOU9DTFl3SFhnMnlQdDM5dHhWYnNtdWFISVVNbnYzWjJiZHBkUThzb19tY0VmWWlPNUNzbUVWMFl4bVZRWFY2eFl6bTRNV3BmdTByandRRHVtYktzMVNkTmpNRkdkaDlQY3hGU3NGVy1kbzdkZFZ5bnkwQ196NXVOX193U1JqMzFTX0pUcnA5QkVIcVdXU1BiemVQTlJsejdEMEVhUTF6VmlJc05RM2QwYUt1LWczbW9ocFNXYUUzS0J6Ym1qRUhuRnU3NUs1UVh4VWhJdFVlWEdMbXZ3RS03ZVVHMUUybmplQXl0djRsZHhB?oc=5)
+
+---
+
+### [吃芥末能殺死9成癌細胞？實驗證實1成分讓腫瘤擴散減少35%！拆解黃、青芥末6大隱藏功效與4大食用禁忌](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPazB5aFNzelI3cUhJbFllQ2RIQVN2b0ljRzk4NXY4RmljblZRTkFMZ2ZPbjdwdDFLLXVnMk9kRndTSUJrVndDVWhQM2tMNTFzSVJDM3RKTUFRbGpXNVp0cnduS2lwUEtMM0tsb0VYSWRGUFN6aDRNanNnN2kxbWIzNkc3MEpoaEQxbzNQakJzSGVndDJTcjA0S2FFUENBUFhyOFdYWl8zcm1RXy1KQWg3ZkRzQ2V6a0lBMjMyNzJqZjNiVjBFSG9tS3NHbkR0bW8tMnRHc2p1U1FteG9BV2dtTDg2MXV3RmJYUXJROHc4RQ?oc=5)
+
+2026-09-12 <span class="news-indication-tag">腫瘤</span>
+
+來源：[she.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPazB5aFNzelI3cUhJbFllQ2RIQVN2b0ljRzk4NXY4RmljblZRTkFMZ2ZPbjdwdDFLLXVnMk9kRndTSUJrVndDVWhQM2tMNTFzSVJDM3RKTUFRbGpXNVp0cnduS2lwUEtMM0tsb0VYSWRGUFN6aDRNanNnN2kxbWIzNkc3MEpoaEQxbzNQakJzSGVndDJTcjA0S2FFUENBUFhyOFdYWl8zcm1RXy1KQWg3ZkRzQ2V6a0lBMjMyNzJqZjNiVjBFSG9tS3NHbkR0bW8tMnRHc2p1U1FteG9BV2dtTDg2MXV3RmJYUXJROHc4RQ?oc=5)
 
 ---
 
