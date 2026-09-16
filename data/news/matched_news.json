@@ -1,21 +1,8 @@
 {
-  "last_updated": "2026-09-16T13:54:06.519132+00:00",
-  "total_count": 48,
-  "matched_count": 13,
+  "last_updated": "2026-09-16T17:51:51.799443+00:00",
+  "total_count": 47,
+  "matched_count": 12,
   "news": [
-    {
-      "id": "51d88b317905",
-      "title": "營養品可能傷腎？醫師點名「這幾種」正確吃法 很多人都踩雷",
-      "published": "2026-09-16T13:29:00+00:00",
-      "summary": "營養品可能傷腎？醫師點名「這幾種」正確吃法 很多人都踩雷&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNeW5vNEphTmkyMGhIYUxHTDE3dTN3RGh6dW5ZWFZFVDh5NlV3VW1Md0tZU3J0MjVMRlMzTi1lNlBNbG1aekE0elZfc2wtQVVTVDlwTHZFWHZLdWQzWGxhNXI1bm84YzJPRE1KOEtDRXp4WE9TVi1xMXY4NDRpQlQ3N3o4TTNXdzBwb2RLWkZkcDViVVJFRHQ5ZmVHZ2FIYXJmakYwbjlLUDBnX2VlUkdoS0dQRzJweFd0UkJuMXljY0VCMDFjd0Z6RDBQOUFxUlU2V3otLUtRNGdwblpsdVVra0s2b0xpUzFadVphdV83V2RQc19TYUJjMm9ZY3dvTHk2cHUwdHVJNG00U2Y4QkFEcFd6dU5IQTNrSGtxeVdFdFY1dkx4NWF6eGNkYUtLeloySWtJaHFrZFVqZ2c2MHdmejBoNEEtVnN4ZUhFbXMya19xUDN6R3lUNW9Ld2VCMDFtS0Zxb3ZrdHQ2dmlDRUp1T3UyV0Nlaldp?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
     {
       "id": "f7ea88950b31",
       "title": "健康網》射精防癌 網紅醫給各年齡男性的建議：30多歲這麼做",
@@ -30,14 +17,14 @@
       "matched_keywords": []
     },
     {
-      "id": "cc00aa747194",
-      "title": "Oscar Health 提升2026年醫療損失比率預期，獲利展望樂觀",
-      "published": "2026-09-16T10:47:52+00:00",
-      "summary": "Oscar Health 提升2026年醫療損失比率預期，獲利展望樂觀&nbsp;&nbsp;forecastock.tw",
+      "id": "eadbf100d00d",
+      "title": "營養品可能傷腎？醫師：「這幾種」別亂吃 - 鏡週刊Mirror Media",
+      "published": "2026-09-16T13:24:00+00:00",
+      "summary": "營養品可能傷腎？醫師：「這幾種」別亂吃&nbsp;&nbsp;鏡週刊Mirror Media",
       "sources": [
         {
-          "name": "forecastock.tw",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYWFhVjZBMFkyaE4tQU9oUzY5Ymg1Ykh4Uy1EMlNPSGFHWVZCeDBuSTROQnctVlRMVUt1anFlX0ZSRkxvUDZFT3loT0ZoOEhqMW1hYVhUVkRZTFlOQkpRdU96cGxPdFpvbFB1dFpIcDdvUVg1eWplRjlIQTBlN3RRUFFINDFVU1FhbzhTcFl4eFBxbUZu?oc=5"
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82NFNOa3V4Y0psV2tGMXExTmJtNGxtMUxDS3pfeG5IcHNVcEtBSld4bC1KZEE1V1hlUXpCdXpEWHpwYnBQUzdabkpTQkduaE03eklleTZ0UmRGbHBZ0gFiQVVfeXFMUERjaVpxYUxDQW5MX1hUb0ZObGlCUXd0NzlOUTBhYmVNYTNwTGlzM0pOZ3I1Rm9ZQ0JWb2dnUzVkcllSUzJjNlNLMlE3WkZaMXR4R1ZsT2VET3ROTjVtd3FfdWc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -106,31 +93,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "c54bf7db7799",
-      "title": "劍橋研究：閱讀能降低失智風險三成、讀 6 分鐘紓壓效果勝過喝酒",
-      "published": "2026-09-16T03:43:51+00:00",
-      "summary": "劍橋研究：閱讀能降低失智風險三成、讀 6 分鐘紓壓效果勝過喝酒&nbsp;&nbsp;動區動趨",
-      "sources": [
-        {
-          "name": "動區動趨",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHhUOUkzUDRSdUhfclRuSXVESkdsd2JmY1Z1Z1FzdG5uWkFuaDJBWXdabFluYWEtcEEwZktQazF3UEJSSmkxaFJ2Q01fZkxzQXhJOUt2Q0tReWFTakU3dXE3SF96TlpCeEJVcGhyaXd1ZjE1WFZ0VTliZWliYXNDN3k2Q1FQUmExcmRzckRtUzF3UVZiQmpnNUN3bGVNMEdIYjk3RlAxUE0?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "6d96dc8a93a2",
@@ -375,14 +337,27 @@
       "matched_keywords": []
     },
     {
-      "id": "3c2b9c89bf8a",
-      "title": "新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點",
-      "published": "2026-09-15T02:17:47+00:00",
-      "summary": "新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點&nbsp;&nbsp;行銷人",
+      "id": "7bd57273261c",
+      "title": "當垃圾食物穿上健康外衣：剖析「健康化零食」的消費迷思與科學真相",
+      "published": "2026-09-15T01:16:24+00:00",
+      "summary": "當垃圾食物穿上健康外衣：剖析「健康化零食」的消費迷思與科學真相&nbsp;&nbsp;報新聞",
       "sources": [
         {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNdEo3cWpPenlsZExhaDFkQ0VjejhWb3VrRkJNenF3QnkxZDZQMEhHOUh6RXBqWDVUSk9vSThVdDVmTUdMV3VVNC1ZYTZVLWNJQWZxWmR6ZnNnTUtJWUs0ekwwcURqSmphajBKNGFsZTVQdTRzUnczN0lvTVowczh6WnBsa0hueTVEWjFfb0kzVTlRX1RIRXo2WGRRV2RfLU1uS2JxZlFabFdSZW1FSjJrYUFBem81cTBuWWZvc3pHTVh5VVBwQS1DbERrOFM3NWlYRzIxLWVBOE9pMzAxTHc0T1pEdld6QXZ5cU82R3Y4QUxxbUxBUEZEcDd6enRLQXdxQUliZ1dIWE1sMk1yU09ndThnNE9MelJiNmxTUXo0aW4xMC1Fcy1zR3ZCeFdlWEdpVk9aVTRWZkFZNkNkd1FxcEhKXzZDOFluS09mVmFVenNoUDVkNUFUSVpFOVhiSlVDWFh0bk1XZ00?oc=5"
+          "name": "報新聞",
+          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPc2cwMDFaMG02dmpHNjNLZlYzNXZGMm5DM0hKSDhDR3NHYXo4eU02U2ZieG43bHM3NGE0Q0o1S280aHNGcVZzMWhuT0lkV3N5a0ZBcFpWekQyeUtuN1B4eVBLRldObW0xNnlWWnc2ZUJGN0paeGJKMUtnb3JPM3phUk9Mb1I5YUNwa2Q3YXdPSGpySjRKbVBQR0I1SjZENFpESm9pNDZEcVFlUlNMRkF6WjZ0WHo3S0VJV25jR05GUWFzVGwtN2o4Q1N2dWZWZG44NGtWSW5yOFMydENZb0NFNHFwMF9vZG9ZbDJHWWg5UnhlQ3dkSUp6dS1RQUhXNXpJd3phTXNNWVZXOHE1cnNoSEd4NnFpUXNVdEw3ME1FQVdvT2VfT2xZQzFldEM3aWtyeGdxM2RUNjVxbjY5dEhwLUh3RmFIcnFiYXctU2EwUm1aVmxpbEN1bWMzaTZRdGdGUzMtdTMwWQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "99935e8238da",
+      "title": "新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點",
+      "published": "2026-09-15T00:44:00+00:00",
+      "summary": "新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -584,26 +559,13 @@
       ]
     },
     {
-      "id": "0109c2f595bc",
-      "title": "當垃圾食物穿上健康外衣：剖析「健康化零食」的消費迷思與科學真相",
-      "published": "2026-09-15T01:16:24+00:00",
-      "summary": "當垃圾食物穿上健康外衣：剖析「健康化零食」的消費迷思與科學真相&nbsp;&nbsp;contentplatform.info",
-      "sources": [
-        {
-          "name": "contentplatform.info",
-          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPc2cwMDFaMG02dmpHNjNLZlYzNXZGMm5DM0hKSDhDR3NHYXo4eU02U2ZieG43bHM3NGE0Q0o1S280aHNGcVZzMWhuT0lkV3N5a0ZBcFpWekQyeUtuN1B4eVBLRldObW0xNnlWWnc2ZUJGN0paeGJKMUtnb3JPM3phUk9Mb1I5YUNwa2Q3YXdPSGpySjRKbVBQR0I1SjZENFpESm9pNDZEcVFlUlNMRkF6WjZ0WHo3S0VJV25jR05GUWFzVGwtN2o4Q1N2dWZWZG44NGtWSW5yOFMydENZb0NFNHFwMF9vZG9ZbDJHWWg5UnhlQ3dkSUp6dS1RQUhXNXpJd3phTXNNWVZXOHE1cnNoSEd4NnFpUXNVdEw3ME1FQVdvT2VfT2xZQzFldEM3aWtyeGdxM2RUNjVxbjY5dEhwLUh3RmFIcnFiYXctU2EwUm1aVmxpbEN1bWMzaTZRdGdGUzMtdTMwWQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9876ce549a64",
-      "title": "大腸癌屬香港癌症第三位！抗癌男食「2款平民神物」5年零復發！營養師認證4大救命食物 - UHK 港生活",
+      "id": "fb56fac843f2",
+      "title": "大腸癌屬香港癌症第三位！抗癌男食「2款平民神物」5年零復發！營養師認證4大救命食物",
       "published": "2026-09-15T00:13:09+00:00",
-      "summary": "大腸癌屬香港癌症第三位！抗癌男食「2款平民神物」5年零復發！營養師認證4大救命食物&nbsp;&nbsp;UHK 港生活",
+      "summary": "大腸癌屬香港癌症第三位！抗癌男食「2款平民神物」5年零復發！營養師認證4大救命食物&nbsp;&nbsp;hk.ulifestyle.com.hk",
       "sources": [
         {
-          "name": "UHK 港生活",
+          "name": "hk.ulifestyle.com.hk",
           "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPM1BQbDhpR2ZFS0l4b3d2a3Y0U0NwS3YxOG9VWXJVTmJLaGQwcG1fMUNscHhYTGw5UVBMYTE3R1JTU05XM0pQZ29POWd0aW5KWDg3cnJtR1NuaEV4bDltcHRfMUI3VEpDMTRnLTRETXRiX2hXRHhvZThqaTRCcC1CMEdHNEZjTF9WcnQwYnNYblJnNWtJWjlTd2FTeWtRT25aVXlMSi00cXU4T0MxRzFKbWppOVU4dUhUc0R2Vk1Dd1ZCWDRVeklRTXZiOTh5dTlPNEVJS1pNc2Zza1FWdkt0QTJJTEwtN1k3QnZoOHJ1aGVQdDJRZ19yUURPQmtyOU9DTFl3SFhnMnlQdDM5dHhWYnNtdWFISVVNbnYzWjJiZHBkUThzb19tY0VmWWlPNUNzbUVWMFl4bVZRWFY2eFl6bTRNV3BmdTByandRRHVtYktzMVNkTmpNRkdkaDlQY3hGU3NGVy1kbzdkZFZ5bnkwQ196NXVOX193U1JqMzFTX0pUcnA5QkVIcVdXU1BiemVQTlJsejdEMEVhUTF6VmlJc05RM2QwYUt1LWczbW9ocFNXYUUzS0J6Ym1qRUhuRnU3NUs1UVh4VWhJdFVlWEdMbXZ3RS03ZVVHMUUybmplQXl0djRsZHhB?oc=5"
         }
       ],
@@ -866,26 +828,26 @@
       "matched_keywords": []
     },
     {
-      "id": "898ba7b1e1cd",
+      "id": "683b2130ad7a",
       "title": "想長壽更要老得健康 研究追蹤至90歲揭40歲顧好5項指標差很大",
       "published": "2026-09-14T02:55:30+00:00",
-      "summary": "想長壽更要老得健康 研究追蹤至90歲揭40歲顧好5項指標差很大&nbsp;&nbsp;元氣網",
+      "summary": "想長壽更要老得健康 研究追蹤至90歲揭40歲顧好5項指標差很大&nbsp;&nbsp;health.udn.com",
       "sources": [
         {
-          "name": "元氣網",
+          "name": "health.udn.com",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCQUV4Z0U2UFFNYkJCWFVyZTZUZ0pFUHNDZFZiR0hFeTFNRmJPckZ0M0hyeUpZR0RLeFdRbDdFekJMS3hvZFRibURacjBDdUVtNVdEMkVxQ0VNcThLUnUyRjhn0gFiQVVfeXFMUEJBRXhnRTZQUU1iQkJYVXJlNlRnSkVQc0NkVmJHSEV5MU1GYk9yRnQzSHJ5SllHREt4V1FsN0V6QkxLeG9kVGJtRFpyMEN1RW01V0QyRXFDRU1xOEtSdTJGOGc?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "ca7397814034",
+      "id": "73383554847e",
       "title": "口腔潰瘍｜40歲女狂生痱滋 只因缺2種營養素 醫生揭6大常見反覆口腔潰瘍成因",
       "published": "2026-09-13T23:00:00+00:00",
-      "summary": "口腔潰瘍｜40歲女狂生痱滋 只因缺2種營養素 醫生揭6大常見反覆口腔潰瘍成因&nbsp;&nbsp;am730.com.hk",
+      "summary": "口腔潰瘍｜40歲女狂生痱滋 只因缺2種營養素 醫生揭6大常見反覆口腔潰瘍成因&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "am730.com.hk",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOM1FQcjZPMFNDcXZTcG9udFRWMkQzczRzNVl0anZTUExDZ19GUWJIRUJyZzhKSnZ0MC1nTWlIODBIZkh5eEltdkhnV2F2NVpLQjRkSFpZWmlpNW11VUJ3VE1RY2liOTJ1bE5yaUswcEl5NGFsN3pWRF9wM055QnB0Z1BhNS1WbFJTS0E0dGpkOHhMUFlYRllCR0ZUZC1BVl9QMS1JaGJHNVBvNlp4ZEE5SGhjal8zOUM1QWVkSmRYcURKaFV0bEFaZlIxdXpYemhpMDl0Smw0bFJsRzEteU5hd0UxckVWc2tjWkFMVDRfYWFfQmlXWEZrNWRUVlZRNUJpUnkwcGJJUXZxNDdNeWprR0lfYzhhX09XLWJQcUlEN3lZT01fbFd2UF9SWTI5bmZiWUt4Wkp3ME9lZ0d6UlVDcEZWNXFYdHRQMHZicWR2MXdsa0NubWpsS2FnS21WZ3E0eWJWSk5zSGtUc3ZGU1R3S2ZCVnA3eEtBSTRRcE1FQ0V2ckQ5TUVFNmtGOW5iTFFjOUdnaEx5WkZvLUNUZERzaEt0M3JsWTNGa2F1WE12cktXaVZMQWR6N04wLWpBMW9EVlB1azIzUkpqOXlDeWtabW9qYWhHdF9scnNGcmE0Zw?oc=5"
         }
       ],
@@ -900,6 +862,19 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBETjBVWDJ5cnl1Vkh3YXlteUdZMXc1WVMybV8wQ3B3MzlWdWJBWGdvU2ZHa3V5eGZNOVlNTG5zZF9iRWZ1MW5RS1ZORk9sb3BhUjlHR29n?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "fd4015e572c3",
+      "title": "健康網》自己得「菜花」懷疑「被綠」 醫：HPV非不忠的檢測",
+      "published": "2026-09-13T13:12:00+00:00",
+      "summary": "健康網》自己得「菜花」懷疑「被綠」 醫：HPV非不忠的檢測&nbsp;&nbsp;自由健康網人妻患性病被夫控出軌！喊冤疑遭公廁馬桶水濺到長菜花 醫生解答&nbsp;&nbsp;香港01人妻突長菜花！喊冤沒偷吃 醫揭真相&nbsp;&nbsp;四季線上4gTV【「HPV陽性≠出軌證據」蕾菈列5大迷思：不是病毒身分證】 （#大表哥）&nbsp;&nbsp;facebook.com",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vazNtOFZZTHNlbHdPcGFVZzd6SnRtZDFZcVVpbktETW1vaEtmVmlWMWxLVVg2YnNCX2JhUUVXajFCZXdzcU1mcmhiMUF0RndyaU5kaENlaFZiTmE4UjEydWhLa2rSAWpBVV95cUxNNVVZRGFZQ3BQY0R0WGpoS0NWeTU4aFF4R1JZZ2xtQ09raWZ1X2JvQXBHM0dVdl9kcGktZTktNTlybjdINW1VM3d6SldBekNUOWNQQXEyNGh4UnA0MlMwREt0RWlBT2RnbGtn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1292,13 +1267,13 @@
       "matched_keywords": []
     },
     {
-      "id": "6b34c76befcd",
-      "title": "59歲女星腸阻塞入院驚患三期大腸癌！悔喊忽視體檢：曾以為我很健康",
+      "id": "21a0da611979",
+      "title": "59歲女星腸阻塞入院驚患三期大腸癌！悔喊忽視體檢：曾以為我很健康 - U Food",
       "published": "2026-09-10T10:08:34+00:00",
-      "summary": "59歲女星腸阻塞入院驚患三期大腸癌！悔喊忽視體檢：曾以為我很健康&nbsp;&nbsp;ufood.com.hk",
+      "summary": "59歲女星腸阻塞入院驚患三期大腸癌！悔喊忽視體檢：曾以為我很健康&nbsp;&nbsp;U Food",
       "sources": [
         {
-          "name": "ufood.com.hk",
+          "name": "U Food",
           "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOUjNNME03cTBCcHQtU2doa3VhWU1nOHdTencwU3NGVkFnSWs5R0ZMTlh4b0JOT1BKcS1LaHdhN2ZtNmU5RnEtSHhnNHl1SVFGVE1jMEFGSEpaWFNMNngxWnczYkVGOEVCNFp4WVFManBsYUZJWnktSXJnYVFfdVVaS0pwbHFxUElMTG9hOG1JNHhnWGxPbEF1S1RjZ2xPQkZwd2pkVHhaaHlKdUNUcEJiLW1TVVJreDVwOXduLVpaNGVXSm5VU1BMdUcwRWFwS2R0UnJ6c0RqQ1h4YU5iQkxDZUdhdW9qeEFic3lxNGp1QnF6NTlUZGF6ekI1SUpPaXY4OW9uY1RGSDNqX0JOWjR3ZXAxVllLbFA3NW1WRTIwOXdaUTRQeTdXcFJLeWRnWGRPVUREeDVYT0NZclFfUEhhUHFlbmpJUHo0Qno1dG5Yem1mbTctTS1SN0ZTZFZpU3Q4dFJ2SGtHRUFJaXVlYzN2R2VpazlsMlNMMGRoVGQteHl2MElXSmVvSENZdXNGM1pEcmxpeEJjbmJ2bHJYVFdUVXg1Z2IzRW9LTGs1OUFkV3pjZFFTREE?oc=5"
         }
       ],
@@ -1353,27 +1328,27 @@
       "matched_keywords": []
     },
     {
-      "id": "9976d4fc7888",
-      "title": "同樣打流感疫苗保護力有差？研究：高劑量疫苗讓這類人住院風險更低",
-      "published": "2026-09-10T06:37:39+00:00",
-      "summary": "同樣打流感疫苗保護力有差？研究：高劑量疫苗讓這類人住院風險更低&nbsp;&nbsp;元氣網",
+      "id": "59d7808e706b",
+      "title": "早餐喝咖啡別只配麵包 搭蛋白質有助減重與專注 - 科技新聞 - PChome Online 新聞 - PChome Online 新聞",
+      "published": "2026-09-10T08:39:42+00:00",
+      "summary": "早餐喝咖啡別只配麵包 搭蛋白質有助減重與專注 - 科技新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RMW85ODR5RmZLeFRaejRSNUFpSUpvNnNnMjBlRS16ZjNPeVJiV0k1RnRzVlVDWWgydFlFVm1Nc1lLS2JRTmF6TzdDTDhtQVBISEdHeHh3TjhiLVZE0gFiQVVfeXFMUGlQclpvdTNWeXRJSlIzRGNMZjFucUtiaE5SZGFDbm9pVmtlYkR2NlBEQU0tZlcyV09hNDJaV2xkMWVuY0ZqNzl3cktnTjhDYXYyWWtzRlBQODYtVjBfb1VoUEE?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR2RpRlY2TDZwN1NwWmF0QkNSQV9LWVdYY1lpUkZKSnNsV0l3dmRtOWVCTXkwb0NubEFyRVZ5TzBpMW9tVTRpMHlQeVNoQXZfd1F3QjFJUVFPYzNhQ3NEZUJmUVMzY3JNRnBwWHp4RHR4QUJLWXZYc0dPbGg4Yzg4OTFoNWw4Q3R5UEx1cA?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "e16569cfe0b6",
-      "title": "妻長「菜花」遭夫控外遇 醫師：HPV檢查不是感情測謊機",
-      "published": "2026-09-10T03:23:00+00:00",
-      "summary": "妻長「菜花」遭夫控外遇 醫師：HPV檢查不是感情測謊機&nbsp;&nbsp;壹蘋新聞網健康網》自己得「菜花」懷疑「被綠」 醫：HPV非不忠的檢測&nbsp;&nbsp;自由健康網人妻患性病被夫控出軌！喊冤疑遭公廁馬桶水濺到長菜花 醫生解答&nbsp;&nbsp;香港01人妻突長菜花！喊冤沒偷吃 醫揭真相&nbsp;&nbsp;四季線上4gTV【「HPV陽性≠出軌證據」蕾菈列5大迷思：不是病毒身分證】 （#大表哥）&nbsp;&nbsp;facebook.com",
+      "id": "fe82977f7730",
+      "title": "同樣打流感疫苗保護力有差？研究：高劑量疫苗讓這類人住院風險更低",
+      "published": "2026-09-10T06:37:39+00:00",
+      "summary": "同樣打流感疫苗保護力有差？研究：高劑量疫苗讓這類人住院風險更低&nbsp;&nbsp;health.udn.com",
       "sources": [
         {
-          "name": "壹蘋新聞網",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8ta2JibDVMSlNyZ1RNR09NWXpNM3MzRElQWUVSTHdSb3JTQURKTjVaM0hlY19nTTdyMlVPUW5YakNtVGtFMGxaNjYxQzlBRXdITGE0ekhDcnU0SEZQbGFUWVFEb3p5dldUYUJrN0FsRGVkTnQ5ZE1rcVU5QlZUQQ?oc=5"
+          "name": "health.udn.com",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RMW85ODR5RmZLeFRaejRSNUFpSUpvNnNnMjBlRS16ZjNPeVJiV0k1RnRzVlVDWWgydFlFVm1Nc1lLS2JRTmF6TzdDTDhtQVBISEdHeHh3TjhiLVZE0gFiQVVfeXFMUGlQclpvdTNWeXRJSlIzRGNMZjFucUtiaE5SZGFDbm9pVmtlYkR2NlBEQU0tZlcyV09hNDJaV2xkMWVuY0ZqNzl3cktnTjhDYXYyWWtzRlBQODYtVjBfb1VoUEE?oc=5"
         }
       ],
       "matched_keywords": []

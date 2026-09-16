@@ -1,31 +1,7 @@
 {
-  "generated": "2026-09-16T13:54:06.550790+00:00",
-  "count": 13,
+  "generated": "2026-09-16T17:51:51.831534+00:00",
+  "count": 12,
   "news": [
-    {
-      "id": "c54bf7db7799",
-      "title": "劍橋研究：閱讀能降低失智風險三成、讀 6 分鐘紓壓效果勝過喝酒",
-      "published": "2026-09-16T03:43:51+00:00",
-      "sources": [
-        {
-          "name": "動區動趨",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHhUOUkzUDRSdUhfclRuSXVESkdsd2JmY1Z1Z1FzdG5uWkFuaDJBWXdabFluYWEtcEEwZktQazF3UEJSSmkxaFJ2Q01fZkxzQXhJOUt2Q0tReWFTakU3dXE3SF96TlpCeEJVcGhyaXd1ZjE1WFZ0VTliZWliYXNDN3k2Q1FQUmExcmRzckRtUzF3UVZiQmpnNUN3bGVNMEdIYjk3RlAxUE0?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "6d96dc8a93a2",
       "title": "不想皮蛇好了還痛好幾個月！醫揭「預防帶狀皰疹後神經痛」關鍵",
@@ -149,13 +125,13 @@
       ]
     },
     {
-      "id": "3c2b9c89bf8a",
+      "id": "99935e8238da",
       "title": "新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點",
-      "published": "2026-09-15T02:17:47+00:00",
+      "published": "2026-09-15T00:44:00+00:00",
       "sources": [
         {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNdEo3cWpPenlsZExhaDFkQ0VjejhWb3VrRkJNenF3QnkxZDZQMEhHOUh6RXBqWDVUSk9vSThVdDVmTUdMV3VVNC1ZYTZVLWNJQWZxWmR6ZnNnTUtJWUs0ekwwcURqSmphajBKNGFsZTVQdTRzUnczN0lvTVowczh6WnBsa0hueTVEWjFfb0kzVTlRX1RIRXo2WGRRV2RfLU1uS2JxZlFabFdSZW1FSjJrYUFBem81cTBuWWZvc3pHTVh5VVBwQS1DbERrOFM3NWlYRzIxLWVBOE9pMzAxTHc0T1pEdld6QXZ5cU82R3Y4QUxxbUxBUEZEcDd6enRLQXdxQUliZ1dIWE1sMk1yU09ndThnNE9MelJiNmxTUXo0aW4xMC1Fcy1zR3ZCeFdlWEdpVk9aVTRWZkFZNkNkd1FxcEhKXzZDOFluS09mVmFVenNoUDVkNUFUSVpFOVhiSlVDWFh0bk1XZ00?oc=5"
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5"
         }
       ],
       "keywords": [
@@ -357,12 +333,12 @@
       ]
     },
     {
-      "id": "9876ce549a64",
-      "title": "大腸癌屬香港癌症第三位！抗癌男食「2款平民神物」5年零復發！營養師認證4大救命食物 - UHK 港生活",
+      "id": "fb56fac843f2",
+      "title": "大腸癌屬香港癌症第三位！抗癌男食「2款平民神物」5年零復發！營養師認證4大救命食物",
       "published": "2026-09-15T00:13:09+00:00",
       "sources": [
         {
-          "name": "UHK 港生活",
+          "name": "hk.ulifestyle.com.hk",
           "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPM1BQbDhpR2ZFS0l4b3d2a3Y0U0NwS3YxOG9VWXJVTmJLaGQwcG1fMUNscHhYTGw5UVBMYTE3R1JTU05XM0pQZ29POWd0aW5KWDg3cnJtR1NuaEV4bDltcHRfMUI3VEpDMTRnLTRETXRiX2hXRHhvZThqaTRCcC1CMEdHNEZjTF9WcnQwYnNYblJnNWtJWjlTd2FTeWtRT25aVXlMSi00cXU4T0MxRzFKbWppOVU4dUhUc0R2Vk1Dd1ZCWDRVeklRTXZiOTh5dTlPNEVJS1pNc2Zza1FWdkt0QTJJTEwtN1k3QnZoOHJ1aGVQdDJRZ19yUURPQmtyOU9DTFl3SFhnMnlQdDM5dHhWYnNtdWFISVVNbnYzWjJiZHBkUThzb19tY0VmWWlPNUNzbUVWMFl4bVZRWFY2eFl6bTRNV3BmdTByandRRHVtYktzMVNkTmpNRkdkaDlQY3hGU3NGVy1kbzdkZFZ5bnkwQ196NXVOX193U1JqMzFTX0pUcnA5QkVIcVdXU1BiemVQTlJsejdEMEVhUTF6VmlJc05RM2QwYUt1LWczbW9ocFNXYUUzS0J6Ym1qRUhuRnU3NUs1UVh4VWhJdFVlWEdMbXZ3RS03ZVVHMUUybmplQXl0djRsZHhB?oc=5"
         }
       ],
@@ -879,12 +855,12 @@
       ]
     },
     {
-      "id": "6b34c76befcd",
-      "title": "59歲女星腸阻塞入院驚患三期大腸癌！悔喊忽視體檢：曾以為我很健康",
+      "id": "21a0da611979",
+      "title": "59歲女星腸阻塞入院驚患三期大腸癌！悔喊忽視體檢：曾以為我很健康 - U Food",
       "published": "2026-09-10T10:08:34+00:00",
       "sources": [
         {
-          "name": "ufood.com.hk",
+          "name": "U Food",
           "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOUjNNME03cTBCcHQtU2doa3VhWU1nOHdTencwU3NGVkFnSWs5R0ZMTlh4b0JOT1BKcS1LaHdhN2ZtNmU5RnEtSHhnNHl1SVFGVE1jMEFGSEpaWFNMNngxWnczYkVGOEVCNFp4WVFManBsYUZJWnktSXJnYVFfdVVaS0pwbHFxUElMTG9hOG1JNHhnWGxPbEF1S1RjZ2xPQkZwd2pkVHhaaHlKdUNUcEJiLW1TVVJreDVwOXduLVpaNGVXSm5VU1BMdUcwRWFwS2R0UnJ6c0RqQ1h4YU5iQkxDZUdhdW9qeEFic3lxNGp1QnF6NTlUZGF6ekI1SUpPaXY4OW9uY1RGSDNqX0JOWjR3ZXAxVllLbFA3NW1WRTIwOXdaUTRQeTdXcFJLeWRnWGRPVUREeDVYT0NZclFfUEhhUHFlbmpJUHo0Qno1dG5Yem1mbTctTS1SN0ZTZFZpU3Q4dFJ2SGtHRUFJaXVlYzN2R2VpazlsMlNMMGRoVGQteHl2MElXSmVvSENZdXNGM1pEcmxpeEJjbmJ2bHJYVFdUVXg1Z2IzRW9LTGs1OUFkV3pjZFFTREE?oc=5"
         }
       ],
