@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
+
+### [劍橋研究：閱讀能降低失智風險三成、讀 6 分鐘紓壓效果勝過喝酒](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHhUOUkzUDRSdUhfclRuSXVESkdsd2JmY1Z1Z1FzdG5uWkFuaDJBWXdabFluYWEtcEEwZktQazF3UEJSSmkxaFJ2Q01fZkxzQXhJOUt2Q0tReWFTakU3dXE3SF96TlpCeEJVcGhyaXd1ZjE1WFZ0VTliZWliYXNDN3k2Q1FQUmExcmRzckRtUzF3UVZiQmpnNUN3bGVNMEdIYjk3RlAxUE0?oc=5)
+
+2026-09-16 <span class="news-indication-tag">失智</span>
+
+來源：[動區動趨](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHhUOUkzUDRSdUhfclRuSXVESkdsd2JmY1Z1Z1FzdG5uWkFuaDJBWXdabFluYWEtcEEwZktQazF3UEJSSmkxaFJ2Q01fZkxzQXhJOUt2Q0tReWFTakU3dXE3SF96TlpCeEJVcGhyaXd1ZjE1WFZ0VTliZWliYXNDN3k2Q1FQUmExcmRzckRtUzF3UVZiQmpnNUN3bGVNMEdIYjk3RlAxUE0?oc=5)
+
+---
 
 ### [骨質疏鬆藥物或存新用途 研究：與較低失智風險相關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tYl81empSY04xcmNuN25PbHp2UEl2QkRNS1E1WWlWN09LVjU3NjlVal9INjE5dHVSektEZGFPZExWdnRvODNfVXcxeWdTb002d0hDbDEzVk5CbVQ3LUJ4anJGY0bSAWpBVV95cUxOUEhHbXdkRXBGOEJvb0JMcmhLXzgxMnBpdlhVWmU0Vm50R2FwcWRWcXM2bnpyS1dlcVB1T1ZHTGo0SkxYRXlncTNQeGlPeFlfUEo2cVFCLWlSa2NYd2ZjRXVpR3dmcS1CRGt3?oc=5)
 
@@ -51,11 +59,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [睡不好、健忘別以為是太累！宸曜前進世界台商健康照護論壇　從睡眠談中風、失智風險](https://news.google.com/rss/articles/CBMiekFVX3lxTE5fNEMtTk81NnNnVmxuak9RVFpoQ0h5N3dJWWRNSUhSOUZLV1RNTnB5WmQ2RkdDOElpVzNkU2liakpuYXk2ZlRPNmlVbVNId0tSOUZ4ZnpaV1Q0b1h6WU8tRjFud3M4QVYwNklkMXM5cjBQQVNzV2hON2xR0gFiQVVfeXFMT0hPRHpmSVFvcmVfd3Z3aVNWMFFpLU9pNDJZSHVHWnV5a3hVbDZTOVN3TEJqWmdFeUx3cE10VUhKQUdLZDRpQVVJSGg3WDBzbzY2LUxmTGlvZVFYaEU1cUwxU3c?oc=5)
+### [睡不好、健忘別以為是太累！宸曜前進世界台商健康照護論壇　從睡眠談中風、失智風險](https://news.google.com/rss/articles/CBMiXEFVX3lxTE13a05hOXZlY1JlRlBvLUpDQkN4VzhmUWo0Y2FDSFE0TTVJNDN4ZlRDcjZhSml1Ni1vLUgwMzZxM091QXJXNlhlbGFrZzJmYXhvU08yQkwyb0w1cFFP0gFiQVVfeXFMT0hPRHpmSVFvcmVfd3Z3aVNWMFFpLU9pNDJZSHVHWnV5a3hVbDZTOVN3TEJqWmdFeUx3cE10VUhKQUdLZDRpQVVJSGg3WDBzbzY2LUxmTGlvZVFYaEU1cUwxU3c?oc=5)
 
 2026-09-15 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
 
-來源：[經濟日報](https://news.google.com/rss/articles/CBMiekFVX3lxTE5fNEMtTk81NnNnVmxuak9RVFpoQ0h5N3dJWWRNSUhSOUZLV1RNTnB5WmQ2RkdDOElpVzNkU2liakpuYXk2ZlRPNmlVbVNId0tSOUZ4ZnpaV1Q0b1h6WU8tRjFud3M4QVYwNklkMXM5cjBQQVNzV2hON2xR0gFiQVVfeXFMT0hPRHpmSVFvcmVfd3Z3aVNWMFFpLU9pNDJZSHVHWnV5a3hVbDZTOVN3TEJqWmdFeUx3cE10VUhKQUdLZDRpQVVJSGg3WDBzbzY2LUxmTGlvZVFYaEU1cUwxU3c?oc=5)
+來源：[經濟日報](https://news.google.com/rss/articles/CBMiXEFVX3lxTE13a05hOXZlY1JlRlBvLUpDQkN4VzhmUWo0Y2FDSFE0TTVJNDN4ZlRDcjZhSml1Ni1vLUgwMzZxM091QXJXNlhlbGFrZzJmYXhvU08yQkwyb0w1cFFP0gFiQVVfeXFMT0hPRHpmSVFvcmVfd3Z3aVNWMFFpLU9pNDJZSHVHWnV5a3hVbDZTOVN3TEJqWmdFeUx3cE10VUhKQUdLZDRpQVVJSGg3WDBzbzY2LUxmTGlvZVFYaEU1cUwxU3c?oc=5)
 
 ---
 
@@ -75,14 +83,6 @@ permalink: /news/gefitinib/
 
 ---
 
-### [吃芥末能殺死9成癌細胞？實驗證實1成分讓腫瘤擴散減少35%！拆解黃、青芥末6大隱藏功效與4大食用禁忌](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPazB5aFNzelI3cUhJbFllQ2RIQVN2b0ljRzk4NXY4RmljblZRTkFMZ2ZPbjdwdDFLLXVnMk9kRndTSUJrVndDVWhQM2tMNTFzSVJDM3RKTUFRbGpXNVp0cnduS2lwUEtMM0tsb0VYSWRGUFN6aDRNanNnN2kxbWIzNkc3MEpoaEQxbzNQakJzSGVndDJTcjA0S2FFUENBUFhyOFdYWl8zcm1RXy1KQWg3ZkRzQ2V6a0lBMjMyNzJqZjNiVjBFSG9tS3NHbkR0bW8tMnRHc2p1U1FteG9BV2dtTDg2MXV3RmJYUXJROHc4RQ?oc=5)
-
-2026-09-12 <span class="news-indication-tag">腫瘤</span>
-
-來源：[she.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPazB5aFNzelI3cUhJbFllQ2RIQVN2b0ljRzk4NXY4RmljblZRTkFMZ2ZPbjdwdDFLLXVnMk9kRndTSUJrVndDVWhQM2tMNTFzSVJDM3RKTUFRbGpXNVp0cnduS2lwUEtMM0tsb0VYSWRGUFN6aDRNanNnN2kxbWIzNkc3MEpoaEQxbzNQakJzSGVndDJTcjA0S2FFUENBUFhyOFdYWl8zcm1RXy1KQWg3ZkRzQ2V6a0lBMjMyNzJqZjNiVjBFSG9tS3NHbkR0bW8tMnRHc2p1U1FteG9BV2dtTDg2MXV3RmJYUXJROHc4RQ?oc=5)
-
----
-
 ### [德里24歲男子不育檢查發現子宮，罕見持續性苗勒管綜合症揭示癌症風險](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
 
 2026-09-12 <span class="news-indication-tag">癌症</span>
@@ -96,14 +96,6 @@ permalink: /news/gefitinib/
 2026-09-10 <span class="news-indication-tag">腫瘤</span>
 
 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMikARBVV95cUxPTW1aNnhUblZoXzg0aEZrcHRKaUR4am9rX2VCcVc5RFNsamVpVXlNei1VREF2MEtiNXFCWU5zYzg3bHpOZWJHa1pfbWUwUmloNFZlUFpwWWJDZjFGempLOGtPQmh3b0FPZFpfZHozV0kwYWRaMEVmMDZoeW5sckh1Qjkwb3Fpbkp6WERvekRWZkhTbUpTbi1JRTJSb1Z6VG1CZGw2dEJ4eTVJMmNSS0l0SENsSTRCZDc3cjRDc1hZNjVaQmFCazM1UmVObWwtUjhKeWZhcjZtYVJ1UHE5cG9WOEVaMVlGeGhEbDB6S081R2xHdFBWTk5pLTR2YXpHdVAyNkVjaW0yQTVJaU55VTBBd1N6anZVdkVESTRVQ3lKY21qYV9zZFltMGRjdFE4dm40ZFczU1BSOXYxSjR2WGhXQzhFUkhfRk9xeUlEaVRzblNRdUxWVm44dktiV0tEd0tDVS1Ua0R1ZzJCZGExVkhzVGdOaXNlekJsNEF3QUdOSGxHb1Jxd19zSjhqcnd6MWNoQWd0T1hSTnVHVWpVZEZGSFZYb0NOUzNMR1VVXzJOMlZrcGlMTENYaHB2NGlNWUxacGk3OHYzekx3MGEwMnJieWhyS0JnSWVmSmZ3UGtLb25BUDZ3RjV6RWVkSy1GQWNOdmZxWXhVM1dkN1N0WHhkMWs4QWt3V2paWmZ5OUl2VWs?oc=5)
-
----
-
-### [50歲以下最致命癌症 大腸癌死亡率衝上榜首 - 大紀元時報 香港](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EZURKaHVwMXZFa3pMdkJfcWdmQzFGcTlLMXVZeDZpc0dQQV9GOVd6RzhRZW1ONXlUZzE5a2lORmdEWmN0d2FwODBoM1FIY2ZTQloybFFJeGxIQ0ZrZDZJ?oc=5)
-
-2026-09-09 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[大紀元時報 香港](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EZURKaHVwMXZFa3pMdkJfcWdmQzFGcTlLMXVZeDZpc0dQQV9GOVd6RzhRZW1ONXlUZzE5a2lORmdEWmN0d2FwODBoM1FIY2ZTQloybFFJeGxIQ0ZrZDZJ?oc=5)
 
 ---
 
